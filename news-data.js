@@ -1,0 +1,2046 @@
+/* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
+window.VM_NEWS = {
+  "generated": "2026-06-30T16:45:20.621404",
+  "en": {
+    "top": [
+      {
+        "title": "Uncertainty looms over US and Iran peace negoatiations, as Tehran rejects meeting in Doha",
+        "summary": "Diplomatic efforts to reduce tensions in West Asia have encountered an early hurdle as the United States and Iran offer conflicting accounts of the next stage of discussions in Doha. Uncertainty has grown over the future of U.S.-Iran engagement after President Donald Trump indicated that fresh talks could be held in Doha. However, Tehran [&#8230;]",
+        "article": "Diplomatic efforts to reduce tensions in West Asia have encountered an early hurdle as the United States and Iran offer conflicting accounts of the next stage of discussions in Doha. Uncertainty has grown over the future of U.S.-Iran engagement after President Donald Trump indicated that fresh talks could be held in Doha. However, Tehran has firmly rejected the claim, saying no negotiations with the United States are currently planned. Iranian officials maintain that their immediate focus is on implementing the 14-point memorandum of understanding before considering discussions on a broader or final agreement. In a fresh diplomatic twist, U.S. President Donald Trump says an Iranian delegation requested high-level face-to-face talks in Qatar to move forward with the recently announced interim memorandum of understanding aimed at easing tensions in West Asia. But Tehran has denied that claim. Iranian officials say their delegation is travelling to Doha only for technical discussions on implementing the existing agreement and that no direct negotiations with U.S. officials are planned. Iranian President Masoud Pezeshkian has also made it clear that Tehran will honour its commitments only if Washington fulfils its own obligations, including easing sanctions and releasing Iranian assets. The contrasting statements underline how fragile the diplomatic process remains despite recent efforts to reduce regional tensions. The uncertain diplomatic atmosphere comes as security concerns continue across the region. In Lebanon, debate is growing over a U.S.-backed proposal aimed at securing a longer-term ceasefire with Israel. Lebanese Parliament Speaker Nabih Berri has criticised the proposal, saying it does not adequately protect Lebanon&#8217;s interests, particularly provisions linking an Israeli military withdrawal to the disarmament of Hezbollah. Fresh Israeli airstrikes were also reported in southern Lebanon, while Hezbollah said it retains the right to defend the country.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:55:14+00:00",
+        "link": "https://newsonair.gov.in/us-iran-offer-conflicting-accounts-on-next-stage-of-discussions-in-doha/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Blank_Fork.png",
+        "image_credit": "Wikipedia – Uncertainty (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "World leaders condemn Pakistani airstrikes in Afghanistan",
+        "summary": "Several world leaders and the international community have condemned Pakistani military airstrikes in Afghanistan&#8217;s provinces of Paktia, Paktika and Kunar, which killed and injured civilians, including women and children. The remarks came after Taliban Deputy Spokesman Hamdullah Fitrat said the airstrikes, carried out on the night of June 28, killed 36 civilians and injured 163 [&#8230;]",
+        "article": "Several world leaders and the international community have condemned Pakistani military airstrikes in Afghanistan&#8217;s provinces of Paktia, Paktika and Kunar, which killed and injured civilians, including women and children. The remarks came after Taliban Deputy Spokesman Hamdullah Fitrat said the airstrikes, carried out on the night of June 28, killed 36 civilians and injured 163 others as well as the complete destruction of three residential houses. Expressing grave concern over the violence, António Guterres, the Secretary-General of the United Nations, called for an immediate end to hostilities and urged all sides to protect civilians. The European Union also called for immediate de-escalation and restraint. It stressed the need to protect civilians and ensure respect for international humanitarian law, saying it must be observed at all times. Earlier yesterday, the Afghan Ministry of Foreign Affairs summoned the Chargé d’Affaires of the Embassy of Pakistan in Kabul and conveyed its strong and unequivocal protest regarding the violation of Afghanistan’s airspace and the aerial bombardment of civilian homes in Kunar, Paktia, and Paktika provinces.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:36:06+00:00",
+        "link": "https://newsonair.gov.in/world-leaders-condemn-pakistani-airstrikes-in-afghanistan/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field.jpg/960px-Hubble_ultra_deep_field.jpg",
+        "image_credit": "Wikipedia – World (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "US and Iran to hold talks in Doha on Strait of Hormuz dispute today",
+        "summary": "The United States and Iran will hold talks in Qatar&#8217;s capital, Doha, today to resolve their dispute over the Strait of Hormuz. The meeting comes amid renewed tensions between the US and Iran over the waterway, through which 20% of the world’s crude oil flows. The dangerous period of violence that began Thursday disrupted [&#8230;]",
+        "article": "The United States and Iran will hold talks in Qatar&#8217;s capital, Doha, today to resolve their dispute over the Strait of Hormuz. The meeting comes amid renewed tensions between the US and Iran over the waterway, through which 20% of the world’s crude oil flows. The dangerous period of violence that began Thursday disrupted US President Donald Trump’s attempt to end hostilities with Iran and negotiate a settlement that addresses Tehran’s nuclear program. Traffic in the Strait of Hormuz fell during the tit-for-tat strikes, slowing the recovery of the waterway. Iran and US exchanged missile strikes over the weekend, collapsing trade in the Strait of Hormuz for multiple days. US and Iranian officials agreed to a temporary ceasefire yesterday after President Trump threatened to escalate the conflict. The renewed fighting stemmed from differing interpretations of the memorandum of understanding (MoU) signed earlier this month to end the conflict, particularly Article 5 dealing with navigation through the Strait of Hormuz. Under the agreement, Iran committed to making its best efforts to ensure the safe passage of commercial vessels through the strategic waterway, while the United States agreed to lift its blockade of Iranian ports. During negotiations in Switzerland, the US delegation, led by Vice President JD Vance, also agreed to establish a direct hotline between the US military and Iran&#8217;s Islamic Revolutionary Guard Corps (IRGC) to coordinate shipping traffic through the Strait of Hormuz. However, US officials said the communication channel is still not operational as Iran renewed its insistence that ships must coordinate their passage with Tehran.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T05:45:59+00:00",
+        "link": "https://newsonair.gov.in/us-and-iran-to-hold-talks-in-doha-on-strait-of-hormuz-dispute-today/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ISS-44_Strait_of_Gibraltar.jpg/960px-ISS-44_Strait_of_Gibraltar.jpg",
+        "image_credit": "Wikipedia – Strait (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM S Jaishankar extends wishes to Congo on Independence Day",
+        "summary": "External Affairs Minister S Jaishankar has extended greetings to Foreign Minister Thérèse Kayikwamba Wagner, the Government and the people of Congo on the occasion of the country&#8217;s Independence Day. In a social media post, Dr Jaishankar said that India looks forward to deepening its bilateral ties and development partnership between two nations.",
+        "article": "External Affairs Minister S Jaishankar has extended greetings to Foreign Minister Thérèse Kayikwamba Wagner, the Government and the people of Congo on the occasion of the country&#8217;s Independence Day. In a social media post, Dr Jaishankar said that India looks forward to deepening its bilateral ties and development partnership between two nations.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T05:39:36+00:00",
+        "link": "https://newsonair.gov.in/eam-s-jaishankar-extends-wishes-to-congo-on-independence-day/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Disambiguator_map_for_countries_named_Congo.svg/960px-Disambiguator_map_for_countries_named_Congo.svg.png",
+        "image_credit": "Wikipedia – Congo (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Road Transport Minister Nitin Gadkari calls for greater public participation in road safety",
+        "summary": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being [&#8230;]",
+        "article": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being made to ensure international-standard road engineering, including proper signage, lane markings and underpasses. The Minister also called greater public participation in promoting road safety. Mr Gadkari also urged motorists to follow traffic rules, avoid overspeeding, wear helmets and seat belts, maintain lane discipline, and refrain from using mobile phones while driving.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:32:21+00:00",
+        "link": "https://newsonair.gov.in/road-transport-minister-nitin-gadkari-calls-for-greater-public-participation-in-road-safety/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Eurobank launches UPI-based remittance service for cross-border transfers from Greece to India",
+        "summary": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s strategic collaboration with the National Payments Corporation of India (NPCI) International Payments Limited. In a social media post, Commerce and Industry Minister Piyush Goyal said that the inauguration of Services at Eurobank marks [&#8230;]",
+        "article": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s strategic collaboration with the National Payments Corporation of India (NPCI) International Payments Limited. In a social media post, Commerce and Industry Minister Piyush Goyal said that the inauguration of Services at Eurobank marks another important milestone in the global expansion of India’s digital payment ecosystem. He added that with UPI now live in Greece, eligible customers can transfer money instantly, securely, and seamlessly, with transaction costs reducing drastically to a fraction of conventional transfer costs. Mr Goyal said that the increasing global acceptance and appreciation of UPI reflects the trust in Prime Minister Narendra Modi’s vision of building technology-led solutions that create value beyond borders and deepen partnerships for shared growth and prosperity. Mr Goyal also met the Chief Executive Officer of Eurobank, Fokion Karavias in Greece. During the meeting, both leaders held discussions on expanding the India-Greece economic partnership and encouraged Greek businesses to invest in India. He also explored avenues for collaboration in manufacturing and infrastructure development in Greece, advancing the shared vision for growth and prosperity.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:30:17+00:00",
+        "link": "https://newsonair.gov.in/eurobank-launches-upi-based-remittance-service-for-cross-border-transfers-from-greece-to-india/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "President Droupadi Murmu arrives in Visakhapatnam for Central Tribal University convocation",
+        "summary": "President Droupadi Murmu arrived in Visakhapatnam today to participate in the first convocation of the Central Tribal University of Andhra Pradesh. She was received at INS Dega by Andhra Pradesh Governor S. Abdul Nazeer. Several public representatives and senior officials were present on the occasion.",
+        "article": "President Droupadi Murmu arrived in Visakhapatnam today to participate in the first convocation of the Central Tribal University of Andhra Pradesh. She was received at INS Dega by Andhra Pradesh Governor S. Abdul Nazeer. Several public representatives and senior officials were present on the occasion.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:29:36+00:00",
+        "link": "https://newsonair.gov.in/president-droupadi-murmu-arrives-in-visakhapatnam-for-central-tribal-university-convocation/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India says FATF remains indispensable in fight against terror financing",
+        "summary": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terrorism financing and money laundering. &#160; The statement came after Pakistan criticised the FATF following the neighbouring country placement on the organisation&#8217;s grey list for increased monitoring. &#160; Speaking at a UN [&#8230;]",
+        "article": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terrorism financing and money laundering. &nbsp; The statement came after Pakistan criticised the FATF following the neighbouring country placement on the organisation&#8217;s grey list for increased monitoring. &nbsp; Speaking at a UN event on the sidelines of Counter-Terrorism Week, India’s Permanent Representative to the UN, P. Harish, said attempts to question FATF’s credibility reflect fear of scrutiny rather than genuine concerns. He said countries receiving adverse FATF assessments should address identified deficiencies and strengthen action against terror financing. &nbsp; Mr. Harish also outlined India’s efforts to strengthen its anti-money laundering framework, including tighter regulations for virtual asset service providers and cooperation with FATF on emerging financial risks",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:25:22+00:00",
+        "link": "https://newsonair.gov.in/india-says-fatf-remains-indispensable-in-fight-against-terror-financing/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg/960px-Mumbai_Bandra-Worli_Sea_Link.jpg",
+        "image_credit": "Wikipedia – Mumbai (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Health Minister Jagat Prakash Nadda addresses ILBS convocation in New Delhi",
+        "summary": "Union Health Minister Jagat Prakash Nadda today said the government has laid equal emphasis on strengthening healthcare infrastructure and skilled medical manpower in the country. Addressing the 10th Convocation of the Institute of Liver and Biliary Sciences (ILBS) in New Delhi, Mr Nadda said institutions like ILBS are playing a pioneering role in strengthening [&#8230;]",
+        "article": "Union Health Minister Jagat Prakash Nadda today said the government has laid equal emphasis on strengthening healthcare infrastructure and skilled medical manpower in the country. Addressing the 10th Convocation of the Institute of Liver and Biliary Sciences (ILBS) in New Delhi, Mr Nadda said institutions like ILBS are playing a pioneering role in strengthening the country&#8217;s healthcare ecosystem. He said the government, under the leadership of Prime Minister Narendra Modi, is focused on developing both healthcare infrastructure and skilled human resources in the health sector. Highlighting the expansion of medical education, Mr Nadda said India had only one AIIMS till the end of the 20th century. He noted that the expansion of AIIMS began under former Prime Minister Atal Bihari Vajpayee with the establishment of six new AIIMS, while the present government has further expanded the network across the country. The Union Minister said the number of medical colleges has increased from 387 in 2014 to 818 at present. He added that undergraduate medical seats have also risen from about 50 thousand to more than 1 lakh 20 thousand, significantly enhancing opportunities for aspiring doctors and strengthening the country&#8217;s healthcare workforce. Congratulating the graduating students, Mr Nadda said receiving a degree from a premier institution like ILBS is both a matter of pride and responsibility. He urged them to serve people with compassion, uphold the highest standards of professionalism, and contribute meaningfully to strengthening the country&#8217;s healthcare system throughout their careers.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:10:45+00:00",
+        "link": "https://newsonair.gov.in/union-health-minister-jagat-prakash-nadda-addresses-ilbs-convocation-in-new-delhi/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "UAE announces fresh humanitarian assistance package for Lebanon",
+        "summary": "The UAE has announced a fresh humanitarian assistance package for people affected by the ongoing crisis in Lebanon, reaffirming its long-standing commitment to supporting the Lebanese people. The assistance is announced under the directives of President Sheikh Mohamed bin Zayed Al Nahyan. The aid, to be delivered through the UAE Aid Agency, includes food [&#8230;]",
+        "article": "The UAE has announced a fresh humanitarian assistance package for people affected by the ongoing crisis in Lebanon, reaffirming its long-standing commitment to supporting the Lebanese people. The assistance is announced under the directives of President Sheikh Mohamed bin Zayed Al Nahyan. The aid, to be delivered through the UAE Aid Agency, includes food supplies and essential relief materials. The Agency will coordinate with Lebanon&#8217;s Higher Relief Council to ensure the timely distribution of assistance and help meet urgent humanitarian needs. Chairman of the UAE Aid Agency, Tareq Ahmed Al Ameri, said the UAE remains committed to providing rapid humanitarian assistance during crises and disasters. He said the initiative supports affected communities by ensuring access to essential needs such as food, medicine, clothing and shelter, while also contributing to early recovery efforts. The Lebanese Ambassador to the UAE, Tariq Hassan Munaymina, thanked the UAE leadership, government and people for their continued solidarity with Lebanon. He said, &#8220;The UAE has consistently stood by the Lebanese people, helping the country address urgent humanitarian needs while supporting peace, stability, development and prosperity.&#8221; The latest assistance builds on the UAE&#8217;s long record of humanitarian and development support for Lebanon, including the &#8220;UAE Stands with Lebanon&#8221; campaign launched during previous crises. The announcement comes as the UAE has also eased travel restrictions to Lebanon. From July 7, 2026, UAE citizens are permitted to travel to Lebanon after several years, subject to mandatory registration through the Ministry of Foreign Affairs&#8217; Twajudi service and compliance with official travel guidelines. The move reflects improving bilateral relations while ensuring the safety and security of Emirati travellers.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:05:34+00:00",
+        "link": "https://newsonair.gov.in/uae-announces-fresh-humanitarian-assistance-package-for-lebanon/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Rashtriya Gramin Vikas Sammelan 2026 concludes with focus on Viksit Gram, Viksit Bharat",
+        "summary": "The Rashtriya Gramin Vikas Sammelan (RGVS) 2026, organised by the Ministry of Rural Development and aligned with Prime Minister Shri Narendra Modi’s vision of rural transformation, concluded with a shared commitment to accelerate the vision of Viksit Gram, Viksit Bharat through stronger Centre-State collaboration, community-led development and technology-driven governance. The two-day national con",
+        "article": "The Rashtriya Gramin Vikas Sammelan (RGVS) 2026, organised by the Ministry of Rural Development and aligned with Prime Minister Shri Narendra Modi’s vision of rural transformation, concluded with a shared commitment to accelerate the vision of Viksit Gram, Viksit Bharat through stronger Centre-State collaboration, community-led development and technology-driven governance. The two-day national conclave served as a platform to review the implementation of flagship rural development programmes, exchange best practices across States and Union Territories, and deliberate on the roadmap for the next phase of rural transformation. A primary focus of the Sammelan was the effective implementation of the VB-GRAMG Act, 2025. Deliberations also centred on strengthening rural development planning, empowering Gram Panchayats, expanding women-led livelihoods, enhancing rural housing and connectivity and promoting climate-resilient livelihoods. The Rashtriya Gramin Vikas Sammelan reaffirmed the Ministry&#8217;s commitment to building community institutions, expanding sustainable livelihoods, and creating wider market opportunities. The deliberations underscored the importance of collaborative action between the Centre and States in translating development goals into inclusive, self-reliant rural economic growth.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:46:39+00:00",
+        "link": "https://newsonair.gov.in/rashtriya-gramin-vikas-sammelan-2026-concludes-with-focus-on-viksit-gram-viksit-bharat/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government extends GSTAT appeal filing deadline till 31 July",
+        "summary": "The Government has extended the due date for filing of appeals before the Goods and Services Tax Appellate Tribunal (GSTAT) till 31st of next month. According to the Ministry of Finance, earlier notification dated September last year had notified today (30.06.2026) as the last date for filing of appeals before GSTAT. It is noted that [&#8230;]",
+        "article": "The Government has extended the due date for filing of appeals before the Goods and Services Tax Appellate Tribunal (GSTAT) till 31st of next month. According to the Ministry of Finance, earlier notification dated September last year had notified today (30.06.2026) as the last date for filing of appeals before GSTAT. It is noted that the due date has been extended in view of the recent representations from various stakeholders, highlighting technical difficulties due to the rush to file appeals on the GSTAT portal. The government has also advised taxpayers to plan their appeal filings well in advance and not wait until the deadline.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:32:46+00:00",
+        "link": "https://newsonair.gov.in/government-extends-gstat-appeal-filing-deadline-till-31-july/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "breaking": [
+      {
+        "title": "Road Transport Minister Nitin Gadkari calls for greater public participation in road safety",
+        "summary": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being [&#8230;]",
+        "article": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being made to ensure international-standard road engineering, including proper signage, lane markings and underpasses. The Minister also called greater public participation in promoting road safety. Mr Gadkari also urged motorists to follow traffic rules, avoid overspeeding, wear helmets and seat belts, maintain lane discipline, and refrain from using mobile phones while driving.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:32:21+00:00",
+        "link": "https://newsonair.gov.in/road-transport-minister-nitin-gadkari-calls-for-greater-public-participation-in-road-safety/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Eurobank launches UPI-based remittance service for cross-border transfers from Greece to India",
+        "summary": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s strategic collaboration with the National Payments Corporation of India (NPCI) International Payments Limited. In a social media post, Commerce and Industry Minister Piyush Goyal said that the inauguration of Services at Eurobank marks [&#8230;]",
+        "article": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s strategic collaboration with the National Payments Corporation of India (NPCI) International Payments Limited. In a social media post, Commerce and Industry Minister Piyush Goyal said that the inauguration of Services at Eurobank marks another important milestone in the global expansion of India’s digital payment ecosystem. He added that with UPI now live in Greece, eligible customers can transfer money instantly, securely, and seamlessly, with transaction costs reducing drastically to a fraction of conventional transfer costs. Mr Goyal said that the increasing global acceptance and appreciation of UPI reflects the trust in Prime Minister Narendra Modi’s vision of building technology-led solutions that create value beyond borders and deepen partnerships for shared growth and prosperity. Mr Goyal also met the Chief Executive Officer of Eurobank, Fokion Karavias in Greece. During the meeting, both leaders held discussions on expanding the India-Greece economic partnership and encouraged Greek businesses to invest in India. He also explored avenues for collaboration in manufacturing and infrastructure development in Greece, advancing the shared vision for growth and prosperity.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:30:17+00:00",
+        "link": "https://newsonair.gov.in/eurobank-launches-upi-based-remittance-service-for-cross-border-transfers-from-greece-to-india/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "President Droupadi Murmu arrives in Visakhapatnam for Central Tribal University convocation",
+        "summary": "President Droupadi Murmu arrived in Visakhapatnam today to participate in the first convocation of the Central Tribal University of Andhra Pradesh. She was received at INS Dega by Andhra Pradesh Governor S. Abdul Nazeer. Several public representatives and senior officials were present on the occasion.",
+        "article": "President Droupadi Murmu arrived in Visakhapatnam today to participate in the first convocation of the Central Tribal University of Andhra Pradesh. She was received at INS Dega by Andhra Pradesh Governor S. Abdul Nazeer. Several public representatives and senior officials were present on the occasion.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:29:36+00:00",
+        "link": "https://newsonair.gov.in/president-droupadi-murmu-arrives-in-visakhapatnam-for-central-tribal-university-convocation/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India says FATF remains indispensable in fight against terror financing",
+        "summary": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terrorism financing and money laundering. &#160; The statement came after Pakistan criticised the FATF following the neighbouring country placement on the organisation&#8217;s grey list for increased monitoring. &#160; Speaking at a UN [&#8230;]",
+        "article": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terrorism financing and money laundering. &nbsp; The statement came after Pakistan criticised the FATF following the neighbouring country placement on the organisation&#8217;s grey list for increased monitoring. &nbsp; Speaking at a UN event on the sidelines of Counter-Terrorism Week, India’s Permanent Representative to the UN, P. Harish, said attempts to question FATF’s credibility reflect fear of scrutiny rather than genuine concerns. He said countries receiving adverse FATF assessments should address identified deficiencies and strengthen action against terror financing. &nbsp; Mr. Harish also outlined India’s efforts to strengthen its anti-money laundering framework, including tighter regulations for virtual asset service providers and cooperation with FATF on emerging financial risks",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:25:22+00:00",
+        "link": "https://newsonair.gov.in/india-says-fatf-remains-indispensable-in-fight-against-terror-financing/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg/960px-Mumbai_Bandra-Worli_Sea_Link.jpg",
+        "image_credit": "Wikipedia – Mumbai (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Health Minister Jagat Prakash Nadda addresses ILBS convocation in New Delhi",
+        "summary": "Union Health Minister Jagat Prakash Nadda today said the government has laid equal emphasis on strengthening healthcare infrastructure and skilled medical manpower in the country. Addressing the 10th Convocation of the Institute of Liver and Biliary Sciences (ILBS) in New Delhi, Mr Nadda said institutions like ILBS are playing a pioneering role in strengthening [&#8230;]",
+        "article": "Union Health Minister Jagat Prakash Nadda today said the government has laid equal emphasis on strengthening healthcare infrastructure and skilled medical manpower in the country. Addressing the 10th Convocation of the Institute of Liver and Biliary Sciences (ILBS) in New Delhi, Mr Nadda said institutions like ILBS are playing a pioneering role in strengthening the country&#8217;s healthcare ecosystem. He said the government, under the leadership of Prime Minister Narendra Modi, is focused on developing both healthcare infrastructure and skilled human resources in the health sector. Highlighting the expansion of medical education, Mr Nadda said India had only one AIIMS till the end of the 20th century. He noted that the expansion of AIIMS began under former Prime Minister Atal Bihari Vajpayee with the establishment of six new AIIMS, while the present government has further expanded the network across the country. The Union Minister said the number of medical colleges has increased from 387 in 2014 to 818 at present. He added that undergraduate medical seats have also risen from about 50 thousand to more than 1 lakh 20 thousand, significantly enhancing opportunities for aspiring doctors and strengthening the country&#8217;s healthcare workforce. Congratulating the graduating students, Mr Nadda said receiving a degree from a premier institution like ILBS is both a matter of pride and responsibility. He urged them to serve people with compassion, uphold the highest standards of professionalism, and contribute meaningfully to strengthening the country&#8217;s healthcare system throughout their careers.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:10:45+00:00",
+        "link": "https://newsonair.gov.in/union-health-minister-jagat-prakash-nadda-addresses-ilbs-convocation-in-new-delhi/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Rashtriya Gramin Vikas Sammelan 2026 concludes with focus on Viksit Gram, Viksit Bharat",
+        "summary": "The Rashtriya Gramin Vikas Sammelan (RGVS) 2026, organised by the Ministry of Rural Development and aligned with Prime Minister Shri Narendra Modi’s vision of rural transformation, concluded with a shared commitment to accelerate the vision of Viksit Gram, Viksit Bharat through stronger Centre-State collaboration, community-led development and technology-driven governance. The two-day national con",
+        "article": "The Rashtriya Gramin Vikas Sammelan (RGVS) 2026, organised by the Ministry of Rural Development and aligned with Prime Minister Shri Narendra Modi’s vision of rural transformation, concluded with a shared commitment to accelerate the vision of Viksit Gram, Viksit Bharat through stronger Centre-State collaboration, community-led development and technology-driven governance. The two-day national conclave served as a platform to review the implementation of flagship rural development programmes, exchange best practices across States and Union Territories, and deliberate on the roadmap for the next phase of rural transformation. A primary focus of the Sammelan was the effective implementation of the VB-GRAMG Act, 2025. Deliberations also centred on strengthening rural development planning, empowering Gram Panchayats, expanding women-led livelihoods, enhancing rural housing and connectivity and promoting climate-resilient livelihoods. The Rashtriya Gramin Vikas Sammelan reaffirmed the Ministry&#8217;s commitment to building community institutions, expanding sustainable livelihoods, and creating wider market opportunities. The deliberations underscored the importance of collaborative action between the Centre and States in translating development goals into inclusive, self-reliant rural economic growth.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:46:39+00:00",
+        "link": "https://newsonair.gov.in/rashtriya-gramin-vikas-sammelan-2026-concludes-with-focus-on-viksit-gram-viksit-bharat/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government extends GSTAT appeal filing deadline till 31 July",
+        "summary": "The Government has extended the due date for filing of appeals before the Goods and Services Tax Appellate Tribunal (GSTAT) till 31st of next month. According to the Ministry of Finance, earlier notification dated September last year had notified today (30.06.2026) as the last date for filing of appeals before GSTAT. It is noted that [&#8230;]",
+        "article": "The Government has extended the due date for filing of appeals before the Goods and Services Tax Appellate Tribunal (GSTAT) till 31st of next month. According to the Ministry of Finance, earlier notification dated September last year had notified today (30.06.2026) as the last date for filing of appeals before GSTAT. It is noted that the due date has been extended in view of the recent representations from various stakeholders, highlighting technical difficulties due to the rush to file appeals on the GSTAT portal. The government has also advised taxpayers to plan their appeal filings well in advance and not wait until the deadline.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:32:46+00:00",
+        "link": "https://newsonair.gov.in/government-extends-gstat-appeal-filing-deadline-till-31-july/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Agriculture Minister Shivraj Singh Chouhan says Viksit Bharat cannot be achieved without developing agriculture sector",
+        "summary": "Union Minister of Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan today emphasised that the vision of Viksit Bharat cannot be achieved without developing the agriculture sector. Addressing the closing ceremony of Khet Bachao Abhiyan in Hisar, Haryana, Mr Chouhan said that the government is working on developing a mobile app that will provide information [&#8230;]",
+        "article": "Union Minister of Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan today emphasised that the vision of Viksit Bharat cannot be achieved without developing the agriculture sector. Addressing the closing ceremony of Khet Bachao Abhiyan in Hisar, Haryana, Mr Chouhan said that the government is working on developing a mobile app that will provide information regarding soil and the amount of fertilizer the soil requires. He urged the farmers to use fertilisers and insecticides on their farms in a balanced manner in order to maintain the health of the soil. He also advised the farmers to adopt the practice of organic farming. During his address, Mr Chouhan said that the government is exploring ways to manage the impact of less rainfall due to the El Niño effect. He also hailed the farmers of Haryana for their contribution in bringing a revolution in India’s agriculture sector and keeping the food grain stocks of the country sufficient.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:32:07+00:00",
+        "link": "https://newsonair.gov.in/agriculture-minister-shivraj-singh-chouhan-says-viksit-bharat-cannot-be-achieved-without-developing-agriculture-sector/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Outgoing Army Chief General Upendra Dwivedi hands over charge to General Dhiraj Seth",
+        "summary": "Army Chief General Upendra Dwivedi today said that the Indian Army derives its strength not from any single individual but from the unwavering faith of its soldiers, commanders, veterans, families, and the citizens of the country. General Dwivedi said this while relinquishing the appointment as the Chief of Army Staff in New Delhi today. He [&#8230;]",
+        "article": "Army Chief General Upendra Dwivedi today said that the Indian Army derives its strength not from any single individual but from the unwavering faith of its soldiers, commanders, veterans, families, and the citizens of the country. General Dwivedi said this while relinquishing the appointment as the Chief of Army Staff in New Delhi today. He emphasised that serving in the Indian Army for over four decades has been his greatest privilege. General Dwivedi said that the Indian Army has progressively maintained its preparedness, balance, and vigilance on every front over the past two years. He noted that the Indian Army has executed its tasks with clear objectives, discipline, and a sense of responsibility regarding all matters of national security effectively. He emphasised that during this period, synergy among the Army, Navy, and Air Force has worked together with a shared vision, mutual trust, and enhanced coordination. While handing over the responsibility to New Army Chief General Dhiraj Seth, General Dwivedi said that General Seth is a seasoned soldier and a capable leader. He expressed confidence that the Indian Army will scale even greater heights while upholding its glorious traditions, professionalism, and resolve under the leadership of General Seth. As part of his farewell ceremony, Army Chief Dwivedi laid a wreath at the National War Memorial in New Delhi.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T06:30:51+00:00",
+        "link": "https://newsonair.gov.in/outgoing-army-chief-general-upendra-dwivedi-hands-over-charge-to-general-dhiraj-seth/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "HM Amit Shah, Defence Minister Rajnath Singh greet people on Guru Hargobind Sahib Ji Prakash Purb",
+        "summary": "Home Minister Amit Shah and Defence Minister Rajnath Singh today extended greetings on the occasion of Prakash Purb of the sixth Guru of Sikhism Guru Hargobind Sahib ji. In a social media post, Mr Shah hailed Guru Hargobind Sahib ji for laying the foundation of the Saint-Soldier tradition for the protection of religion, culture, and [&#8230;]",
+        "article": "Home Minister Amit Shah and Defence Minister Rajnath Singh today extended greetings on the occasion of Prakash Purb of the sixth Guru of Sikhism Guru Hargobind Sahib ji. In a social media post, Mr Shah hailed Guru Hargobind Sahib ji for laying the foundation of the Saint-Soldier tradition for the protection of religion, culture, and human values. The Home Minister added that by conveying the profound message of the extraordinary harmony between spiritual power and valor, Guru Hargobind Sahib ji established Sri Akal Takht Sahib and inspired society to stand against injustice. Defence Minister Rajnath Singh said that by donning two swords, Guru Hargobind Sahib ji demonstrated that standing fearlessly against injustice alongside spirituality is an integral part of faith. The Minister said that the Sikh Guru undertook extensive journeys for the propagation of religion and widely disseminated the values of truth, service, courage, and humanity. He also expressed hope that teachings of Guru Hargobind Sahib ji continue to inspire people to protect the faith, serve the afflicted, defend the motherland, and remain steadfast on the path of truth.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T05:55:43+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-defence-minister-rajnath-singh-greet-people-on-guru-hargobind-sahib-ji-prakash-purb/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "national": [
+      {
+        "title": "India says FATF remains indispensable in fight against terror financing",
+        "summary": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terrorism financing and money laundering. &#160; The statement came after Pakistan criticised the FATF following the neighbouring country placement on the organisation&#8217;s grey list for increased monitoring. &#160; Speaking at a UN [&#8230;]",
+        "article": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terrorism financing and money laundering. &nbsp; The statement came after Pakistan criticised the FATF following the neighbouring country placement on the organisation&#8217;s grey list for increased monitoring. &nbsp; Speaking at a UN event on the sidelines of Counter-Terrorism Week, India’s Permanent Representative to the UN, P. Harish, said attempts to question FATF’s credibility reflect fear of scrutiny rather than genuine concerns. He said countries receiving adverse FATF assessments should address identified deficiencies and strengthen action against terror financing. &nbsp; Mr. Harish also outlined India’s efforts to strengthen its anti-money laundering framework, including tighter regulations for virtual asset service providers and cooperation with FATF on emerging financial risks",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:25:22+00:00",
+        "link": "https://newsonair.gov.in/india-says-fatf-remains-indispensable-in-fight-against-terror-financing/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg/960px-Mumbai_Bandra-Worli_Sea_Link.jpg",
+        "image_credit": "Wikipedia – Mumbai (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Road Transport Minister Nitin Gadkari calls for greater public participation in road safety",
+        "summary": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being [&#8230;]",
+        "article": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being made to ensure international-standard road engineering, including proper signage, lane markings and underpasses. The Minister also called greater public participation in promoting road safety. Mr Gadkari also urged motorists to follow traffic rules, avoid overspeeding, wear helmets and seat belts, maintain lane discipline, and refrain from using mobile phones while driving.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:32:21+00:00",
+        "link": "https://newsonair.gov.in/road-transport-minister-nitin-gadkari-calls-for-greater-public-participation-in-road-safety/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Eurobank launches UPI-based remittance service for cross-border transfers from Greece to India",
+        "summary": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s strategic collaboration with the National Payments Corporation of India (NPCI) International Payments Limited. In a social media post, Commerce and Industry Minister Piyush Goyal said that the inauguration of Services at Eurobank marks [&#8230;]",
+        "article": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s strategic collaboration with the National Payments Corporation of India (NPCI) International Payments Limited. In a social media post, Commerce and Industry Minister Piyush Goyal said that the inauguration of Services at Eurobank marks another important milestone in the global expansion of India’s digital payment ecosystem. He added that with UPI now live in Greece, eligible customers can transfer money instantly, securely, and seamlessly, with transaction costs reducing drastically to a fraction of conventional transfer costs. Mr Goyal said that the increasing global acceptance and appreciation of UPI reflects the trust in Prime Minister Narendra Modi’s vision of building technology-led solutions that create value beyond borders and deepen partnerships for shared growth and prosperity. Mr Goyal also met the Chief Executive Officer of Eurobank, Fokion Karavias in Greece. During the meeting, both leaders held discussions on expanding the India-Greece economic partnership and encouraged Greek businesses to invest in India. He also explored avenues for collaboration in manufacturing and infrastructure development in Greece, advancing the shared vision for growth and prosperity.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:30:17+00:00",
+        "link": "https://newsonair.gov.in/eurobank-launches-upi-based-remittance-service-for-cross-border-transfers-from-greece-to-india/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "President Droupadi Murmu arrives in Visakhapatnam for Central Tribal University convocation",
+        "summary": "President Droupadi Murmu arrived in Visakhapatnam today to participate in the first convocation of the Central Tribal University of Andhra Pradesh. She was received at INS Dega by Andhra Pradesh Governor S. Abdul Nazeer. Several public representatives and senior officials were present on the occasion.",
+        "article": "President Droupadi Murmu arrived in Visakhapatnam today to participate in the first convocation of the Central Tribal University of Andhra Pradesh. She was received at INS Dega by Andhra Pradesh Governor S. Abdul Nazeer. Several public representatives and senior officials were present on the occasion.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:29:36+00:00",
+        "link": "https://newsonair.gov.in/president-droupadi-murmu-arrives-in-visakhapatnam-for-central-tribal-university-convocation/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Health Minister Jagat Prakash Nadda addresses ILBS convocation in New Delhi",
+        "summary": "Union Health Minister Jagat Prakash Nadda today said the government has laid equal emphasis on strengthening healthcare infrastructure and skilled medical manpower in the country. Addressing the 10th Convocation of the Institute of Liver and Biliary Sciences (ILBS) in New Delhi, Mr Nadda said institutions like ILBS are playing a pioneering role in strengthening [&#8230;]",
+        "article": "Union Health Minister Jagat Prakash Nadda today said the government has laid equal emphasis on strengthening healthcare infrastructure and skilled medical manpower in the country. Addressing the 10th Convocation of the Institute of Liver and Biliary Sciences (ILBS) in New Delhi, Mr Nadda said institutions like ILBS are playing a pioneering role in strengthening the country&#8217;s healthcare ecosystem. He said the government, under the leadership of Prime Minister Narendra Modi, is focused on developing both healthcare infrastructure and skilled human resources in the health sector. Highlighting the expansion of medical education, Mr Nadda said India had only one AIIMS till the end of the 20th century. He noted that the expansion of AIIMS began under former Prime Minister Atal Bihari Vajpayee with the establishment of six new AIIMS, while the present government has further expanded the network across the country. The Union Minister said the number of medical colleges has increased from 387 in 2014 to 818 at present. He added that undergraduate medical seats have also risen from about 50 thousand to more than 1 lakh 20 thousand, significantly enhancing opportunities for aspiring doctors and strengthening the country&#8217;s healthcare workforce. Congratulating the graduating students, Mr Nadda said receiving a degree from a premier institution like ILBS is both a matter of pride and responsibility. He urged them to serve people with compassion, uphold the highest standards of professionalism, and contribute meaningfully to strengthening the country&#8217;s healthcare system throughout their careers.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:10:45+00:00",
+        "link": "https://newsonair.gov.in/union-health-minister-jagat-prakash-nadda-addresses-ilbs-convocation-in-new-delhi/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Rashtriya Gramin Vikas Sammelan 2026 concludes with focus on Viksit Gram, Viksit Bharat",
+        "summary": "The Rashtriya Gramin Vikas Sammelan (RGVS) 2026, organised by the Ministry of Rural Development and aligned with Prime Minister Shri Narendra Modi’s vision of rural transformation, concluded with a shared commitment to accelerate the vision of Viksit Gram, Viksit Bharat through stronger Centre-State collaboration, community-led development and technology-driven governance. The two-day national con",
+        "article": "The Rashtriya Gramin Vikas Sammelan (RGVS) 2026, organised by the Ministry of Rural Development and aligned with Prime Minister Shri Narendra Modi’s vision of rural transformation, concluded with a shared commitment to accelerate the vision of Viksit Gram, Viksit Bharat through stronger Centre-State collaboration, community-led development and technology-driven governance. The two-day national conclave served as a platform to review the implementation of flagship rural development programmes, exchange best practices across States and Union Territories, and deliberate on the roadmap for the next phase of rural transformation. A primary focus of the Sammelan was the effective implementation of the VB-GRAMG Act, 2025. Deliberations also centred on strengthening rural development planning, empowering Gram Panchayats, expanding women-led livelihoods, enhancing rural housing and connectivity and promoting climate-resilient livelihoods. The Rashtriya Gramin Vikas Sammelan reaffirmed the Ministry&#8217;s commitment to building community institutions, expanding sustainable livelihoods, and creating wider market opportunities. The deliberations underscored the importance of collaborative action between the Centre and States in translating development goals into inclusive, self-reliant rural economic growth.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:46:39+00:00",
+        "link": "https://newsonair.gov.in/rashtriya-gramin-vikas-sammelan-2026-concludes-with-focus-on-viksit-gram-viksit-bharat/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government extends GSTAT appeal filing deadline till 31 July",
+        "summary": "The Government has extended the due date for filing of appeals before the Goods and Services Tax Appellate Tribunal (GSTAT) till 31st of next month. According to the Ministry of Finance, earlier notification dated September last year had notified today (30.06.2026) as the last date for filing of appeals before GSTAT. It is noted that [&#8230;]",
+        "article": "The Government has extended the due date for filing of appeals before the Goods and Services Tax Appellate Tribunal (GSTAT) till 31st of next month. According to the Ministry of Finance, earlier notification dated September last year had notified today (30.06.2026) as the last date for filing of appeals before GSTAT. It is noted that the due date has been extended in view of the recent representations from various stakeholders, highlighting technical difficulties due to the rush to file appeals on the GSTAT portal. The government has also advised taxpayers to plan their appeal filings well in advance and not wait until the deadline.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:32:46+00:00",
+        "link": "https://newsonair.gov.in/government-extends-gstat-appeal-filing-deadline-till-31-july/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Agriculture Minister Shivraj Singh Chouhan says Viksit Bharat cannot be achieved without developing agriculture sector",
+        "summary": "Union Minister of Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan today emphasised that the vision of Viksit Bharat cannot be achieved without developing the agriculture sector. Addressing the closing ceremony of Khet Bachao Abhiyan in Hisar, Haryana, Mr Chouhan said that the government is working on developing a mobile app that will provide information [&#8230;]",
+        "article": "Union Minister of Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan today emphasised that the vision of Viksit Bharat cannot be achieved without developing the agriculture sector. Addressing the closing ceremony of Khet Bachao Abhiyan in Hisar, Haryana, Mr Chouhan said that the government is working on developing a mobile app that will provide information regarding soil and the amount of fertilizer the soil requires. He urged the farmers to use fertilisers and insecticides on their farms in a balanced manner in order to maintain the health of the soil. He also advised the farmers to adopt the practice of organic farming. During his address, Mr Chouhan said that the government is exploring ways to manage the impact of less rainfall due to the El Niño effect. He also hailed the farmers of Haryana for their contribution in bringing a revolution in India’s agriculture sector and keeping the food grain stocks of the country sufficient.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:32:07+00:00",
+        "link": "https://newsonair.gov.in/agriculture-minister-shivraj-singh-chouhan-says-viksit-bharat-cannot-be-achieved-without-developing-agriculture-sector/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Outgoing Army Chief General Upendra Dwivedi hands over charge to General Dhiraj Seth",
+        "summary": "Army Chief General Upendra Dwivedi today said that the Indian Army derives its strength not from any single individual but from the unwavering faith of its soldiers, commanders, veterans, families, and the citizens of the country. General Dwivedi said this while relinquishing the appointment as the Chief of Army Staff in New Delhi today. He [&#8230;]",
+        "article": "Army Chief General Upendra Dwivedi today said that the Indian Army derives its strength not from any single individual but from the unwavering faith of its soldiers, commanders, veterans, families, and the citizens of the country. General Dwivedi said this while relinquishing the appointment as the Chief of Army Staff in New Delhi today. He emphasised that serving in the Indian Army for over four decades has been his greatest privilege. General Dwivedi said that the Indian Army has progressively maintained its preparedness, balance, and vigilance on every front over the past two years. He noted that the Indian Army has executed its tasks with clear objectives, discipline, and a sense of responsibility regarding all matters of national security effectively. He emphasised that during this period, synergy among the Army, Navy, and Air Force has worked together with a shared vision, mutual trust, and enhanced coordination. While handing over the responsibility to New Army Chief General Dhiraj Seth, General Dwivedi said that General Seth is a seasoned soldier and a capable leader. He expressed confidence that the Indian Army will scale even greater heights while upholding its glorious traditions, professionalism, and resolve under the leadership of General Seth. As part of his farewell ceremony, Army Chief Dwivedi laid a wreath at the National War Memorial in New Delhi.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T06:30:51+00:00",
+        "link": "https://newsonair.gov.in/outgoing-army-chief-general-upendra-dwivedi-hands-over-charge-to-general-dhiraj-seth/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "HM Amit Shah, Defence Minister Rajnath Singh greet people on Guru Hargobind Sahib Ji Prakash Purb",
+        "summary": "Home Minister Amit Shah and Defence Minister Rajnath Singh today extended greetings on the occasion of Prakash Purb of the sixth Guru of Sikhism Guru Hargobind Sahib ji. In a social media post, Mr Shah hailed Guru Hargobind Sahib ji for laying the foundation of the Saint-Soldier tradition for the protection of religion, culture, and [&#8230;]",
+        "article": "Home Minister Amit Shah and Defence Minister Rajnath Singh today extended greetings on the occasion of Prakash Purb of the sixth Guru of Sikhism Guru Hargobind Sahib ji. In a social media post, Mr Shah hailed Guru Hargobind Sahib ji for laying the foundation of the Saint-Soldier tradition for the protection of religion, culture, and human values. The Home Minister added that by conveying the profound message of the extraordinary harmony between spiritual power and valor, Guru Hargobind Sahib ji established Sri Akal Takht Sahib and inspired society to stand against injustice. Defence Minister Rajnath Singh said that by donning two swords, Guru Hargobind Sahib ji demonstrated that standing fearlessly against injustice alongside spirituality is an integral part of faith. The Minister said that the Sikh Guru undertook extensive journeys for the propagation of religion and widely disseminated the values of truth, service, courage, and humanity. He also expressed hope that teachings of Guru Hargobind Sahib ji continue to inspire people to protect the faith, serve the afflicted, defend the motherland, and remain steadfast on the path of truth.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T05:55:43+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-defence-minister-rajnath-singh-greet-people-on-guru-hargobind-sahib-ji-prakash-purb/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "politics": [
+      {
+        "title": "India says FATF remains indispensable in fight against terror financing",
+        "summary": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terrorism financing and money laundering. &#160; The statement came after Pakistan criticised the FATF following the neighbouring country placement on the organisation&#8217;s grey list for increased monitoring. &#160; Speaking at a UN [&#8230;]",
+        "article": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terrorism financing and money laundering. &nbsp; The statement came after Pakistan criticised the FATF following the neighbouring country placement on the organisation&#8217;s grey list for increased monitoring. &nbsp; Speaking at a UN event on the sidelines of Counter-Terrorism Week, India’s Permanent Representative to the UN, P. Harish, said attempts to question FATF’s credibility reflect fear of scrutiny rather than genuine concerns. He said countries receiving adverse FATF assessments should address identified deficiencies and strengthen action against terror financing. &nbsp; Mr. Harish also outlined India’s efforts to strengthen its anti-money laundering framework, including tighter regulations for virtual asset service providers and cooperation with FATF on emerging financial risks",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:25:22+00:00",
+        "link": "https://newsonair.gov.in/india-says-fatf-remains-indispensable-in-fight-against-terror-financing/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg/960px-Mumbai_Bandra-Worli_Sea_Link.jpg",
+        "image_credit": "Wikipedia – Mumbai (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Road Transport Minister Nitin Gadkari calls for greater public participation in road safety",
+        "summary": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being [&#8230;]",
+        "article": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being made to ensure international-standard road engineering, including proper signage, lane markings and underpasses. The Minister also called greater public participation in promoting road safety. Mr Gadkari also urged motorists to follow traffic rules, avoid overspeeding, wear helmets and seat belts, maintain lane discipline, and refrain from using mobile phones while driving.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:32:21+00:00",
+        "link": "https://newsonair.gov.in/road-transport-minister-nitin-gadkari-calls-for-greater-public-participation-in-road-safety/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Eurobank launches UPI-based remittance service for cross-border transfers from Greece to India",
+        "summary": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s strategic collaboration with the National Payments Corporation of India (NPCI) International Payments Limited. In a social media post, Commerce and Industry Minister Piyush Goyal said that the inauguration of Services at Eurobank marks [&#8230;]",
+        "article": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s strategic collaboration with the National Payments Corporation of India (NPCI) International Payments Limited. In a social media post, Commerce and Industry Minister Piyush Goyal said that the inauguration of Services at Eurobank marks another important milestone in the global expansion of India’s digital payment ecosystem. He added that with UPI now live in Greece, eligible customers can transfer money instantly, securely, and seamlessly, with transaction costs reducing drastically to a fraction of conventional transfer costs. Mr Goyal said that the increasing global acceptance and appreciation of UPI reflects the trust in Prime Minister Narendra Modi’s vision of building technology-led solutions that create value beyond borders and deepen partnerships for shared growth and prosperity. Mr Goyal also met the Chief Executive Officer of Eurobank, Fokion Karavias in Greece. During the meeting, both leaders held discussions on expanding the India-Greece economic partnership and encouraged Greek businesses to invest in India. He also explored avenues for collaboration in manufacturing and infrastructure development in Greece, advancing the shared vision for growth and prosperity.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:30:17+00:00",
+        "link": "https://newsonair.gov.in/eurobank-launches-upi-based-remittance-service-for-cross-border-transfers-from-greece-to-india/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "President Droupadi Murmu arrives in Visakhapatnam for Central Tribal University convocation",
+        "summary": "President Droupadi Murmu arrived in Visakhapatnam today to participate in the first convocation of the Central Tribal University of Andhra Pradesh. She was received at INS Dega by Andhra Pradesh Governor S. Abdul Nazeer. Several public representatives and senior officials were present on the occasion.",
+        "article": "President Droupadi Murmu arrived in Visakhapatnam today to participate in the first convocation of the Central Tribal University of Andhra Pradesh. She was received at INS Dega by Andhra Pradesh Governor S. Abdul Nazeer. Several public representatives and senior officials were present on the occasion.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:29:36+00:00",
+        "link": "https://newsonair.gov.in/president-droupadi-murmu-arrives-in-visakhapatnam-for-central-tribal-university-convocation/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Health Minister Jagat Prakash Nadda addresses ILBS convocation in New Delhi",
+        "summary": "Union Health Minister Jagat Prakash Nadda today said the government has laid equal emphasis on strengthening healthcare infrastructure and skilled medical manpower in the country. Addressing the 10th Convocation of the Institute of Liver and Biliary Sciences (ILBS) in New Delhi, Mr Nadda said institutions like ILBS are playing a pioneering role in strengthening [&#8230;]",
+        "article": "Union Health Minister Jagat Prakash Nadda today said the government has laid equal emphasis on strengthening healthcare infrastructure and skilled medical manpower in the country. Addressing the 10th Convocation of the Institute of Liver and Biliary Sciences (ILBS) in New Delhi, Mr Nadda said institutions like ILBS are playing a pioneering role in strengthening the country&#8217;s healthcare ecosystem. He said the government, under the leadership of Prime Minister Narendra Modi, is focused on developing both healthcare infrastructure and skilled human resources in the health sector. Highlighting the expansion of medical education, Mr Nadda said India had only one AIIMS till the end of the 20th century. He noted that the expansion of AIIMS began under former Prime Minister Atal Bihari Vajpayee with the establishment of six new AIIMS, while the present government has further expanded the network across the country. The Union Minister said the number of medical colleges has increased from 387 in 2014 to 818 at present. He added that undergraduate medical seats have also risen from about 50 thousand to more than 1 lakh 20 thousand, significantly enhancing opportunities for aspiring doctors and strengthening the country&#8217;s healthcare workforce. Congratulating the graduating students, Mr Nadda said receiving a degree from a premier institution like ILBS is both a matter of pride and responsibility. He urged them to serve people with compassion, uphold the highest standards of professionalism, and contribute meaningfully to strengthening the country&#8217;s healthcare system throughout their careers.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:10:45+00:00",
+        "link": "https://newsonair.gov.in/union-health-minister-jagat-prakash-nadda-addresses-ilbs-convocation-in-new-delhi/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Rashtriya Gramin Vikas Sammelan 2026 concludes with focus on Viksit Gram, Viksit Bharat",
+        "summary": "The Rashtriya Gramin Vikas Sammelan (RGVS) 2026, organised by the Ministry of Rural Development and aligned with Prime Minister Shri Narendra Modi’s vision of rural transformation, concluded with a shared commitment to accelerate the vision of Viksit Gram, Viksit Bharat through stronger Centre-State collaboration, community-led development and technology-driven governance. The two-day national con",
+        "article": "The Rashtriya Gramin Vikas Sammelan (RGVS) 2026, organised by the Ministry of Rural Development and aligned with Prime Minister Shri Narendra Modi’s vision of rural transformation, concluded with a shared commitment to accelerate the vision of Viksit Gram, Viksit Bharat through stronger Centre-State collaboration, community-led development and technology-driven governance. The two-day national conclave served as a platform to review the implementation of flagship rural development programmes, exchange best practices across States and Union Territories, and deliberate on the roadmap for the next phase of rural transformation. A primary focus of the Sammelan was the effective implementation of the VB-GRAMG Act, 2025. Deliberations also centred on strengthening rural development planning, empowering Gram Panchayats, expanding women-led livelihoods, enhancing rural housing and connectivity and promoting climate-resilient livelihoods. The Rashtriya Gramin Vikas Sammelan reaffirmed the Ministry&#8217;s commitment to building community institutions, expanding sustainable livelihoods, and creating wider market opportunities. The deliberations underscored the importance of collaborative action between the Centre and States in translating development goals into inclusive, self-reliant rural economic growth.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:46:39+00:00",
+        "link": "https://newsonair.gov.in/rashtriya-gramin-vikas-sammelan-2026-concludes-with-focus-on-viksit-gram-viksit-bharat/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government extends GSTAT appeal filing deadline till 31 July",
+        "summary": "The Government has extended the due date for filing of appeals before the Goods and Services Tax Appellate Tribunal (GSTAT) till 31st of next month. According to the Ministry of Finance, earlier notification dated September last year had notified today (30.06.2026) as the last date for filing of appeals before GSTAT. It is noted that [&#8230;]",
+        "article": "The Government has extended the due date for filing of appeals before the Goods and Services Tax Appellate Tribunal (GSTAT) till 31st of next month. According to the Ministry of Finance, earlier notification dated September last year had notified today (30.06.2026) as the last date for filing of appeals before GSTAT. It is noted that the due date has been extended in view of the recent representations from various stakeholders, highlighting technical difficulties due to the rush to file appeals on the GSTAT portal. The government has also advised taxpayers to plan their appeal filings well in advance and not wait until the deadline.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:32:46+00:00",
+        "link": "https://newsonair.gov.in/government-extends-gstat-appeal-filing-deadline-till-31-july/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Agriculture Minister Shivraj Singh Chouhan says Viksit Bharat cannot be achieved without developing agriculture sector",
+        "summary": "Union Minister of Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan today emphasised that the vision of Viksit Bharat cannot be achieved without developing the agriculture sector. Addressing the closing ceremony of Khet Bachao Abhiyan in Hisar, Haryana, Mr Chouhan said that the government is working on developing a mobile app that will provide information [&#8230;]",
+        "article": "Union Minister of Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan today emphasised that the vision of Viksit Bharat cannot be achieved without developing the agriculture sector. Addressing the closing ceremony of Khet Bachao Abhiyan in Hisar, Haryana, Mr Chouhan said that the government is working on developing a mobile app that will provide information regarding soil and the amount of fertilizer the soil requires. He urged the farmers to use fertilisers and insecticides on their farms in a balanced manner in order to maintain the health of the soil. He also advised the farmers to adopt the practice of organic farming. During his address, Mr Chouhan said that the government is exploring ways to manage the impact of less rainfall due to the El Niño effect. He also hailed the farmers of Haryana for their contribution in bringing a revolution in India’s agriculture sector and keeping the food grain stocks of the country sufficient.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:32:07+00:00",
+        "link": "https://newsonair.gov.in/agriculture-minister-shivraj-singh-chouhan-says-viksit-bharat-cannot-be-achieved-without-developing-agriculture-sector/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Outgoing Army Chief General Upendra Dwivedi hands over charge to General Dhiraj Seth",
+        "summary": "Army Chief General Upendra Dwivedi today said that the Indian Army derives its strength not from any single individual but from the unwavering faith of its soldiers, commanders, veterans, families, and the citizens of the country. General Dwivedi said this while relinquishing the appointment as the Chief of Army Staff in New Delhi today. He [&#8230;]",
+        "article": "Army Chief General Upendra Dwivedi today said that the Indian Army derives its strength not from any single individual but from the unwavering faith of its soldiers, commanders, veterans, families, and the citizens of the country. General Dwivedi said this while relinquishing the appointment as the Chief of Army Staff in New Delhi today. He emphasised that serving in the Indian Army for over four decades has been his greatest privilege. General Dwivedi said that the Indian Army has progressively maintained its preparedness, balance, and vigilance on every front over the past two years. He noted that the Indian Army has executed its tasks with clear objectives, discipline, and a sense of responsibility regarding all matters of national security effectively. He emphasised that during this period, synergy among the Army, Navy, and Air Force has worked together with a shared vision, mutual trust, and enhanced coordination. While handing over the responsibility to New Army Chief General Dhiraj Seth, General Dwivedi said that General Seth is a seasoned soldier and a capable leader. He expressed confidence that the Indian Army will scale even greater heights while upholding its glorious traditions, professionalism, and resolve under the leadership of General Seth. As part of his farewell ceremony, Army Chief Dwivedi laid a wreath at the National War Memorial in New Delhi.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T06:30:51+00:00",
+        "link": "https://newsonair.gov.in/outgoing-army-chief-general-upendra-dwivedi-hands-over-charge-to-general-dhiraj-seth/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "HM Amit Shah, Defence Minister Rajnath Singh greet people on Guru Hargobind Sahib Ji Prakash Purb",
+        "summary": "Home Minister Amit Shah and Defence Minister Rajnath Singh today extended greetings on the occasion of Prakash Purb of the sixth Guru of Sikhism Guru Hargobind Sahib ji. In a social media post, Mr Shah hailed Guru Hargobind Sahib ji for laying the foundation of the Saint-Soldier tradition for the protection of religion, culture, and [&#8230;]",
+        "article": "Home Minister Amit Shah and Defence Minister Rajnath Singh today extended greetings on the occasion of Prakash Purb of the sixth Guru of Sikhism Guru Hargobind Sahib ji. In a social media post, Mr Shah hailed Guru Hargobind Sahib ji for laying the foundation of the Saint-Soldier tradition for the protection of religion, culture, and human values. The Home Minister added that by conveying the profound message of the extraordinary harmony between spiritual power and valor, Guru Hargobind Sahib ji established Sri Akal Takht Sahib and inspired society to stand against injustice. Defence Minister Rajnath Singh said that by donning two swords, Guru Hargobind Sahib ji demonstrated that standing fearlessly against injustice alongside spirituality is an integral part of faith. The Minister said that the Sikh Guru undertook extensive journeys for the propagation of religion and widely disseminated the values of truth, service, courage, and humanity. He also expressed hope that teachings of Guru Hargobind Sahib ji continue to inspire people to protect the faith, serve the afflicted, defend the motherland, and remain steadfast on the path of truth.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T05:55:43+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-defence-minister-rajnath-singh-greet-people-on-guru-hargobind-sahib-ji-prakash-purb/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "world": [
+      {
+        "title": "India says FATF remains indispensable in fight against terror financing",
+        "summary": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terrorism financing and money laundering. &#160; The statement came after Pakistan criticised the FATF following the neighbouring country placement on the organisation&#8217;s grey list for increased monitoring. &#160; Speaking at a UN [&#8230;]",
+        "article": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terrorism financing and money laundering. &nbsp; The statement came after Pakistan criticised the FATF following the neighbouring country placement on the organisation&#8217;s grey list for increased monitoring. &nbsp; Speaking at a UN event on the sidelines of Counter-Terrorism Week, India’s Permanent Representative to the UN, P. Harish, said attempts to question FATF’s credibility reflect fear of scrutiny rather than genuine concerns. He said countries receiving adverse FATF assessments should address identified deficiencies and strengthen action against terror financing. &nbsp; Mr. Harish also outlined India’s efforts to strengthen its anti-money laundering framework, including tighter regulations for virtual asset service providers and cooperation with FATF on emerging financial risks",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:25:22+00:00",
+        "link": "https://newsonair.gov.in/india-says-fatf-remains-indispensable-in-fight-against-terror-financing/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/India_Gate_%28All_India_War_Memorial%29.jpg/960px-India_Gate_%28All_India_War_Memorial%29.jpg",
+        "image_credit": "Wikipedia – India Gate (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Uncertainty looms over US and Iran peace negoatiations, as Tehran rejects meeting in Doha",
+        "summary": "Diplomatic efforts to reduce tensions in West Asia have encountered an early hurdle as the United States and Iran offer conflicting accounts of the next stage of discussions in Doha. Uncertainty has grown over the future of U.S.-Iran engagement after President Donald Trump indicated that fresh talks could be held in Doha. However, Tehran [&#8230;]",
+        "article": "Diplomatic efforts to reduce tensions in West Asia have encountered an early hurdle as the United States and Iran offer conflicting accounts of the next stage of discussions in Doha. Uncertainty has grown over the future of U.S.-Iran engagement after President Donald Trump indicated that fresh talks could be held in Doha. However, Tehran has firmly rejected the claim, saying no negotiations with the United States are currently planned. Iranian officials maintain that their immediate focus is on implementing the 14-point memorandum of understanding before considering discussions on a broader or final agreement. In a fresh diplomatic twist, U.S. President Donald Trump says an Iranian delegation requested high-level face-to-face talks in Qatar to move forward with the recently announced interim memorandum of understanding aimed at easing tensions in West Asia. But Tehran has denied that claim. Iranian officials say their delegation is travelling to Doha only for technical discussions on implementing the existing agreement and that no direct negotiations with U.S. officials are planned. Iranian President Masoud Pezeshkian has also made it clear that Tehran will honour its commitments only if Washington fulfils its own obligations, including easing sanctions and releasing Iranian assets. The contrasting statements underline how fragile the diplomatic process remains despite recent efforts to reduce regional tensions. The uncertain diplomatic atmosphere comes as security concerns continue across the region. In Lebanon, debate is growing over a U.S.-backed proposal aimed at securing a longer-term ceasefire with Israel. Lebanese Parliament Speaker Nabih Berri has criticised the proposal, saying it does not adequately protect Lebanon&#8217;s interests, particularly provisions linking an Israeli military withdrawal to the disarmament of Hezbollah. Fresh Israeli airstrikes were also reported in southern Lebanon, while Hezbollah said it retains the right to defend the country.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:55:14+00:00",
+        "link": "https://newsonair.gov.in/us-iran-offer-conflicting-accounts-on-next-stage-of-discussions-in-doha/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Blank_Fork.png",
+        "image_credit": "Wikipedia – Uncertainty (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "World leaders condemn Pakistani airstrikes in Afghanistan",
+        "summary": "Several world leaders and the international community have condemned Pakistani military airstrikes in Afghanistan&#8217;s provinces of Paktia, Paktika and Kunar, which killed and injured civilians, including women and children. The remarks came after Taliban Deputy Spokesman Hamdullah Fitrat said the airstrikes, carried out on the night of June 28, killed 36 civilians and injured 163 [&#8230;]",
+        "article": "Several world leaders and the international community have condemned Pakistani military airstrikes in Afghanistan&#8217;s provinces of Paktia, Paktika and Kunar, which killed and injured civilians, including women and children. The remarks came after Taliban Deputy Spokesman Hamdullah Fitrat said the airstrikes, carried out on the night of June 28, killed 36 civilians and injured 163 others as well as the complete destruction of three residential houses. Expressing grave concern over the violence, António Guterres, the Secretary-General of the United Nations, called for an immediate end to hostilities and urged all sides to protect civilians. The European Union also called for immediate de-escalation and restraint. It stressed the need to protect civilians and ensure respect for international humanitarian law, saying it must be observed at all times. Earlier yesterday, the Afghan Ministry of Foreign Affairs summoned the Chargé d’Affaires of the Embassy of Pakistan in Kabul and conveyed its strong and unequivocal protest regarding the violation of Afghanistan’s airspace and the aerial bombardment of civilian homes in Kunar, Paktia, and Paktika provinces.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:36:06+00:00",
+        "link": "https://newsonair.gov.in/world-leaders-condemn-pakistani-airstrikes-in-afghanistan/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field.jpg/960px-Hubble_ultra_deep_field.jpg",
+        "image_credit": "Wikipedia – World (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "US and Iran to hold talks in Doha on Strait of Hormuz dispute today",
+        "summary": "The United States and Iran will hold talks in Qatar&#8217;s capital, Doha, today to resolve their dispute over the Strait of Hormuz. The meeting comes amid renewed tensions between the US and Iran over the waterway, through which 20% of the world’s crude oil flows. The dangerous period of violence that began Thursday disrupted [&#8230;]",
+        "article": "The United States and Iran will hold talks in Qatar&#8217;s capital, Doha, today to resolve their dispute over the Strait of Hormuz. The meeting comes amid renewed tensions between the US and Iran over the waterway, through which 20% of the world’s crude oil flows. The dangerous period of violence that began Thursday disrupted US President Donald Trump’s attempt to end hostilities with Iran and negotiate a settlement that addresses Tehran’s nuclear program. Traffic in the Strait of Hormuz fell during the tit-for-tat strikes, slowing the recovery of the waterway. Iran and US exchanged missile strikes over the weekend, collapsing trade in the Strait of Hormuz for multiple days. US and Iranian officials agreed to a temporary ceasefire yesterday after President Trump threatened to escalate the conflict. The renewed fighting stemmed from differing interpretations of the memorandum of understanding (MoU) signed earlier this month to end the conflict, particularly Article 5 dealing with navigation through the Strait of Hormuz. Under the agreement, Iran committed to making its best efforts to ensure the safe passage of commercial vessels through the strategic waterway, while the United States agreed to lift its blockade of Iranian ports. During negotiations in Switzerland, the US delegation, led by Vice President JD Vance, also agreed to establish a direct hotline between the US military and Iran&#8217;s Islamic Revolutionary Guard Corps (IRGC) to coordinate shipping traffic through the Strait of Hormuz. However, US officials said the communication channel is still not operational as Iran renewed its insistence that ships must coordinate their passage with Tehran.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T05:45:59+00:00",
+        "link": "https://newsonair.gov.in/us-and-iran-to-hold-talks-in-doha-on-strait-of-hormuz-dispute-today/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ISS-44_Strait_of_Gibraltar.jpg/960px-ISS-44_Strait_of_Gibraltar.jpg",
+        "image_credit": "Wikipedia – Strait (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM S Jaishankar extends wishes to Congo on Independence Day",
+        "summary": "External Affairs Minister S Jaishankar has extended greetings to Foreign Minister Thérèse Kayikwamba Wagner, the Government and the people of Congo on the occasion of the country&#8217;s Independence Day. In a social media post, Dr Jaishankar said that India looks forward to deepening its bilateral ties and development partnership between two nations.",
+        "article": "External Affairs Minister S Jaishankar has extended greetings to Foreign Minister Thérèse Kayikwamba Wagner, the Government and the people of Congo on the occasion of the country&#8217;s Independence Day. In a social media post, Dr Jaishankar said that India looks forward to deepening its bilateral ties and development partnership between two nations.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T05:39:36+00:00",
+        "link": "https://newsonair.gov.in/eam-s-jaishankar-extends-wishes-to-congo-on-independence-day/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Disambiguator_map_for_countries_named_Congo.svg/960px-Disambiguator_map_for_countries_named_Congo.svg.png",
+        "image_credit": "Wikipedia – Congo (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Eurobank launches UPI-based remittance service for cross-border transfers from Greece to India",
+        "summary": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s strategic collaboration with the National Payments Corporation of India (NPCI) International Payments Limited. In a social media post, Commerce and Industry Minister Piyush Goyal said that the inauguration of Services at Eurobank marks [&#8230;]",
+        "article": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s strategic collaboration with the National Payments Corporation of India (NPCI) International Payments Limited. In a social media post, Commerce and Industry Minister Piyush Goyal said that the inauguration of Services at Eurobank marks another important milestone in the global expansion of India’s digital payment ecosystem. He added that with UPI now live in Greece, eligible customers can transfer money instantly, securely, and seamlessly, with transaction costs reducing drastically to a fraction of conventional transfer costs. Mr Goyal said that the increasing global acceptance and appreciation of UPI reflects the trust in Prime Minister Narendra Modi’s vision of building technology-led solutions that create value beyond borders and deepen partnerships for shared growth and prosperity. Mr Goyal also met the Chief Executive Officer of Eurobank, Fokion Karavias in Greece. During the meeting, both leaders held discussions on expanding the India-Greece economic partnership and encouraged Greek businesses to invest in India. He also explored avenues for collaboration in manufacturing and infrastructure development in Greece, advancing the shared vision for growth and prosperity.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:30:17+00:00",
+        "link": "https://newsonair.gov.in/eurobank-launches-upi-based-remittance-service-for-cross-border-transfers-from-greece-to-india/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "UAE announces fresh humanitarian assistance package for Lebanon",
+        "summary": "The UAE has announced a fresh humanitarian assistance package for people affected by the ongoing crisis in Lebanon, reaffirming its long-standing commitment to supporting the Lebanese people. The assistance is announced under the directives of President Sheikh Mohamed bin Zayed Al Nahyan. The aid, to be delivered through the UAE Aid Agency, includes food [&#8230;]",
+        "article": "The UAE has announced a fresh humanitarian assistance package for people affected by the ongoing crisis in Lebanon, reaffirming its long-standing commitment to supporting the Lebanese people. The assistance is announced under the directives of President Sheikh Mohamed bin Zayed Al Nahyan. The aid, to be delivered through the UAE Aid Agency, includes food supplies and essential relief materials. The Agency will coordinate with Lebanon&#8217;s Higher Relief Council to ensure the timely distribution of assistance and help meet urgent humanitarian needs. Chairman of the UAE Aid Agency, Tareq Ahmed Al Ameri, said the UAE remains committed to providing rapid humanitarian assistance during crises and disasters. He said the initiative supports affected communities by ensuring access to essential needs such as food, medicine, clothing and shelter, while also contributing to early recovery efforts. The Lebanese Ambassador to the UAE, Tariq Hassan Munaymina, thanked the UAE leadership, government and people for their continued solidarity with Lebanon. He said, &#8220;The UAE has consistently stood by the Lebanese people, helping the country address urgent humanitarian needs while supporting peace, stability, development and prosperity.&#8221; The latest assistance builds on the UAE&#8217;s long record of humanitarian and development support for Lebanon, including the &#8220;UAE Stands with Lebanon&#8221; campaign launched during previous crises. The announcement comes as the UAE has also eased travel restrictions to Lebanon. From July 7, 2026, UAE citizens are permitted to travel to Lebanon after several years, subject to mandatory registration through the Ministry of Foreign Affairs&#8217; Twajudi service and compliance with official travel guidelines. The move reflects improving bilateral relations while ensuring the safety and security of Emirati travellers.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:05:34+00:00",
+        "link": "https://newsonair.gov.in/uae-announces-fresh-humanitarian-assistance-package-for-lebanon/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "US Supreme Court blocks President Donald Trump from firing Fed Governor Lisa Cook",
+        "summary": "The US Supreme Court refused to let President Donald Trump fire Federal Reserve Governor Lisa Cook as it stood firm to preserve the central bank&#8217;s cherished independence against an unprecedented challenge by the Republican president. The court, in a 5-4 ruling, blocked Trump from removing Cook for now, providing a safeguard for the Fed [&#8230;]",
+        "article": "The US Supreme Court refused to let President Donald Trump fire Federal Reserve Governor Lisa Cook as it stood firm to preserve the central bank&#8217;s cherished independence against an unprecedented challenge by the Republican president. The court, in a 5-4 ruling, blocked Trump from removing Cook for now, providing a safeguard for the Fed specifically, even as it boosted the president&#8217;s power over government in a separate landmark ruling yesterday. In that ruling, involving Trump&#8217;s dismissal of a Federal Trade Commission member, the court expanded presidential authority to fire leaders of other US agencies, overturning ​a precedent dating to 1935 in the process. No other president since the central bank&#8217;s founding in 1913 had sought to oust a Fed governor. In his second term as president, Trump has tested the limits of presidential power in numerous other ways as well. Conservative Chief Justice John Roberts, who authored the ruling, said Trump ‌had failed to afford Cook the procedural protections to which she was entitled by statute. Without such protections, she could not properly dispute the charges the president laid against her. Trump last August cited unproven mortgage fraud allegations in trying to oust Cook, the first Black woman to serve as a Fed governor. Cook denied the allegations, calling them a pretext to remove her for monetary policy differences.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T05:54:19+00:00",
+        "link": "https://newsonair.gov.in/us-supreme-court-blocks-president-donald-trump-from-firing-fed-governor-lisa-cook/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India intensifies relief efforts in earthquake-hit Venezuela under Operation Amistad",
+        "summary": "India has intensified its humanitarian assistance to earthquake-hit Venezuela under Operation Amistad. The Ministry of External Affairs said that India has extended relief efforts with a focus on medical assistance and emergency support for those affected by the disaster. The ministry said, Indian rescue and medical teams, working alongside the Venezuelan authorities, are providing [&#8230;]",
+        "article": "India has intensified its humanitarian assistance to earthquake-hit Venezuela under Operation Amistad. The Ministry of External Affairs said that India has extended relief efforts with a focus on medical assistance and emergency support for those affected by the disaster. The ministry said, Indian rescue and medical teams, working alongside the Venezuelan authorities, are providing emergency healthcare, conducting search and rescue operations, and delivering life-saving humanitarian assistance to affected communities. It also noted that the Indian Army Field Hospital is operational and is providing medical care to those injured in the disaster. Earlier yesterday, India had deployed two Indian Air Force C-17 Globemaster aircraft carrying a 41-member rescue team, an Indian Army Field Hospital, 30 tonnes of relief material, six tonnes of medicines and medical equipment, and two BHISHM Cube portable hospitals to strengthen relief and rescue operations in the South American nation.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T05:52:39+00:00",
+        "link": "https://newsonair.gov.in/india-intensifies-relief-efforts-in-earthquake-hit-venezuela-under-operation-amistad/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India strongly condemns air-strikes by Pakistan on Afghan territory : MEA",
+        "summary": "India has strongly condemned Pakistan’s air-strikes in residential areas of Afghanistan that killed 36 civilians, including women and children, and injured 163 others. In a statement, the External Affairs Ministry said that this blatant act of aggression by Pakistan is an assault on Afghanistan&#8217;s sovereignty and a direct threat to regional peace and stability. It [&#8230;]",
+        "article": "India has strongly condemned Pakistan’s air-strikes in residential areas of Afghanistan that killed 36 civilians, including women and children, and injured 163 others. In a statement, the External Affairs Ministry said that this blatant act of aggression by Pakistan is an assault on Afghanistan&#8217;s sovereignty and a direct threat to regional peace and stability. It reflects Pakistan&#8217;s persistent pattern of reckless behaviour and its futile attempt to externalize internal failures through desperate acts of violence beyond its borders. India conveyed its condolences to Afghan families who have lost loved ones and prayed for early recovery of those injured. India reiterated its unwavering support for Afghanistan’s sovereignty and territorial integrity.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T00:37:56+00:00",
+        "link": "https://newsonair.gov.in/india-strongly-condemns-air-strikes-by-pakistan-on-afghan-territory-mea/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "sports": [
+      {
+        "title": "Paraguay, Morocco and Brazil enter FIFA World Cup Round of 16",
+        "summary": "Germany has been knocked out of the 2026 FIFA World Cup in the Round of 32. They were eliminated by Paraguay in a shocking 4-3 penalty shootout defeat in Boston after the match ended 1-1 following extra time. This marks Germany&#8217;s first-ever penalty shootout loss in a World Cup. With this win, Paraguay advances [&#8230;]",
+        "article": "Germany has been knocked out of the 2026 FIFA World Cup in the Round of 32. They were eliminated by Paraguay in a shocking 4-3 penalty shootout defeat in Boston after the match ended 1-1 following extra time. This marks Germany&#8217;s first-ever penalty shootout loss in a World Cup. With this win, Paraguay advances to the World Cup Round of 16. Jose Canale scored on the first sudden death penalty kick, while goalkeeper Orlando Gill made two key saves in the shootout, Paraguay went in front in regulation, when Julio Enciso scored on a header late in the first half. Kai Havertz equalised in the 52nd minute for Germany. In another match, Morocco defeated the Netherlands 3-2 on penalties after a dramatic 1-1 draw across 120 minutes in Round of 32 clash today. Morocco&#8217;s Achraf Hakimi and Neil El Aynaoui tested Dutch goalkeeper Bart Verbruggen, while Micky van de Ven forced a world-class save from Moroccan keeper Yassine Bounou. Cody Gakpo scored a brilliant opening goal for the Netherlands after receiving a quick pass from Crysencio Summerville. After a chaotic penalty shootout featuring misses from Quinten Timber and Achraf Hakimi, Ismael Saibari scored the decisive spot-kick to send Morocco through. Earlier, Brazil has entered the Round of 16 after 2-1 victory over Japan in Houston, US. Gabriel Martinelli scored the winning goal late in injury time to give five-time champion Brazil a new achievement in Round of 32 clash last night. Martinelli, who had come on as a second-half substitute, scored in the sixth minute of stoppage time as the match appeared to be headed to extra time. Brazil will next face either the Ivory Coast or Norway on Sunday in East Rutherford, New Jersey, in the Round of 16.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:41:39+00:00",
+        "link": "https://newsonair.gov.in/paraguay-morocco-and-brazil-enter-fifa-world-cup-round-of-16/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/India_Gate_%28All_India_War_Memorial%29.jpg/960px-India_Gate_%28All_India_War_Memorial%29.jpg",
+        "image_credit": "Wikipedia – India Gate (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Brazil beat Japan 2-1 to enter FIFA World Cup Round of 16",
+        "summary": "In the FIFA World Cup, Brazil has entered the Round of 16 after 2-1 victory over Japan in Houston, US. Gabriel Martinelli scored the winning goal late in injury time to give five-time champion Brazil a new achievement in Round of 32 clash last night. Martinelli, who had come on as a second-half substitute, scored [&#8230;]",
+        "article": "In the FIFA World Cup, Brazil has entered the Round of 16 after 2-1 victory over Japan in Houston, US. Gabriel Martinelli scored the winning goal late in injury time to give five-time champion Brazil a new achievement in Round of 32 clash last night. Martinelli, who had come on as a second-half substitute, scored in the sixth minute of stoppage time as the match appeared to be headed to extra time. Brazil will next face either the Ivory Coast or Norway on Sunday in East Rutherford, New Jersey, in the Round of 16. In another Round of 32 fixture, Paraguay defeated Germany 4-3 on spot kicks after the match finished 1-1 in extra-time to inflict Germany&#8217;s first-ever defeat in a penalty shootout in a World Cup. With this win, Paraguay advances to the World Cup Round of 16. Jose Canale scored on the first sudden death penalty kick, while goalkeeper Orlando Gill made two key saves in the shootout, Paraguay went in front in regulation, when Julio Enciso scored on a header late in the first half. Kai Havertz equalised in the 52nd minute for Germany.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T02:37:05+00:00",
+        "link": "https://newsonair.gov.in/brazil-beat-japan-2-1-to-enter-fifa-world-cup-round-of-16/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/RajyaSabhaAsOfMay9%2C2026.svg/960px-RajyaSabhaAsOfMay9%2C2026.svg.png",
+        "image_credit": "Wikipedia – Parliament of India (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Wimbledon Championships 2026 begin in London",
+        "summary": "The Wimbledon Championships, the third Grand Slam tournament of the year, begin today at the All England Lawn Tennis and Croquet Club in London, with several top stars in action on the opening day. World No. 1 and defending men&#8217;s singles champion Jannik Sinner began his campaign against Serbia&#8217;s Miomir Kecmanovic, while seven-time Wimbledon champion [&#8230;]",
+        "article": "The Wimbledon Championships, the third Grand Slam tournament of the year, begin today at the All England Lawn Tennis and Croquet Club in London, with several top stars in action on the opening day. World No. 1 and defending men&#8217;s singles champion Jannik Sinner began his campaign against Serbia&#8217;s Miomir Kecmanovic, while seven-time Wimbledon champion Novak Djokovic will face China&#8217;s Wu Yibing in another first-round match. In the women&#8217;s singles, World No. 1 Aryna Sabalenka will open her campaign against Serbia&#8217;s Teodora Kostovic.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T14:40:06+00:00",
+        "link": "https://newsonair.gov.in/wimbledon-championships-2026-begin-in-london/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/960px-London_Skyline_%28125508655%29.jpeg",
+        "image_credit": "Wikipedia – London (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India women’s cricket team qualifies for Los Angeles 2028 Olympics",
+        "summary": "The Indian women&#8217;s cricket team has become one of the first sides to qualify for the Los Angeles 2028 Olympic Games. However, the men&#8217;s team will have to finish as Asia&#8217;s highest-ranked side in the ICC Men&#8217;s T20 rankings by the end of this year to secure direct qualification. The International Cricket Council today confirmed [&#8230;]",
+        "article": "The Indian women&#8217;s cricket team has become one of the first sides to qualify for the Los Angeles 2028 Olympic Games. However, the men&#8217;s team will have to finish as Asia&#8217;s highest-ranked side in the ICC Men&#8217;s T20 rankings by the end of this year to secure direct qualification. The International Cricket Council today confirmed that India, alongside Australia, Great Britain and South Africa, has booked its place in the women&#8217;s T20 competition at the Los Angeles 2028 Olympic Games. The direct qualification places were capped at one team from each continent. Unlike the men&#8217;s event, the women&#8217;s competition does not use ICC rankings to determine the first four qualifiers. Instead, the ongoing Women&#8217;s T20 World Cup serves as the primary qualification tournament, with the best-performing eligible team from each of the four continents earning an Olympic berth. The men&#8217;s qualification pathway follows a different route. Four direct Olympic berths will be awarded through the ICC Men&#8217;s T20 International rankings, with the highest-ranked eligible National Olympic Committee (NOC) from Africa, Asia, Europe and Oceania qualifying automatically. The rankings at the end of this year will determine the four continental representatives, meaning India must finish as Asia&#8217;s highest-ranked eligible side to secure a direct ticket to Los Angeles. Cricket will return to the Olympic Games at Los Angeles 2028 after a gap of 128 years, with six teams each competing in the men&#8217;s and women&#8217;s T20 events.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T13:43:20+00:00",
+        "link": "https://newsonair.gov.in/india-womens-cricket-team-qualifies-for-los-angeles-2028-olympics/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hollywood_Sign_%28Zuschnitt%29.jpg/960px-Hollywood_Sign_%28Zuschnitt%29.jpg",
+        "image_credit": "Wikipedia – Los Angeles (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India’s Under-19 boys’ team enters in Asian Youth Championships semi-finals",
+        "summary": "India&#8217;s Under-19 boys&#8217; team defeated Hong Kong 3-1 in the quarterfinals of the Asian Youth Championships in Bangkok today. This win has assured team of at least a bronze medal and a direct berth in next year&#8217;s World Youth Table Tennis Championships. The Indian boys will now take on top seeds China in the semi-final. [&#8230;]",
+        "article": "India&#8217;s Under-19 boys&#8217; team defeated Hong Kong 3-1 in the quarterfinals of the Asian Youth Championships in Bangkok today. This win has assured team of at least a bronze medal and a direct berth in next year&#8217;s World Youth Table Tennis Championships. The Indian boys will now take on top seeds China in the semi-final. However, the Indian Under-19 girls&#8217; team fell short of the medal rounds, losing 1-3 to Hong Kong in the quarterfinals. The team will now have to qualify for next year&#8217;s World Youth Championships through the Asian qualification process.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T13:28:54+00:00",
+        "link": "https://newsonair.gov.in/indias-under-19-boys-team-enter-asian-youth-championships-semi-finals/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Delhi_fort.jpg/960px-Delhi_fort.jpg",
+        "image_credit": "Wikipedia – Red Fort (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Kidambi Srikanth wins silver at US Open badminton tournament",
+        "summary": "In Badminton, Indian shuttler Kidambi Srikanth secured the silver medal in the men&#8217;s singles event at the US Open today after finishing as runner-up in the final. Srikanth went down against Chinese Taipei&#8217;s Su Li-yang in a hard-fought three-game contest, losing 15-21, 21-16, and 9-21 in the finals. The defeat also extended Srikanth&#8217;s wait for [&#8230;]",
+        "article": "In Badminton, Indian shuttler Kidambi Srikanth secured the silver medal in the men&#8217;s singles event at the US Open today after finishing as runner-up in the final. Srikanth went down against Chinese Taipei&#8217;s Su Li-yang in a hard-fought three-game contest, losing 15-21, 21-16, and 9-21 in the finals. The defeat also extended Srikanth&#8217;s wait for a BWF title, as his last international title came at the French Open in 2017 during the BWF Superseries era.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T12:09:29+00:00",
+        "link": "https://newsonair.gov.in/kidambi-srikanth-wins-silver-at-us-open-badminton-tournament/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/India_Gate_%28All_India_War_Memorial%29.jpg/960px-India_Gate_%28All_India_War_Memorial%29.jpg",
+        "image_credit": "Wikipedia – India Gate (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Brazil to face Japan in FIFA World Cup Round of 32 clash at Houston Stadium in US",
+        "summary": "In the FIFA World Cup, Brazil will take on Japan in a Round of 32 clash at Houston Stadium in the United States tonight. The match is scheduled to begin at 10:30 PM IST. In another Round of 32 fixture, Germany will face Paraguay at Boston Stadium in the United States at 2:00 AM IST. [&#8230;]",
+        "article": "In the FIFA World Cup, Brazil will take on Japan in a Round of 32 clash at Houston Stadium in the United States tonight. The match is scheduled to begin at 10:30 PM IST. In another Round of 32 fixture, Germany will face Paraguay at Boston Stadium in the United States at 2:00 AM IST. Earlier today, co-hosts Canada became the first team to qualify for the Round of 16 after securing a dramatic 1-0 victory over South Africa in Round of 32 match at Los Angeles stadium. Stephen Eustáquio scored the winning goal for Canada in the second minute of second-half stoppage time.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T12:01:50+00:00",
+        "link": "https://newsonair.gov.in/brazil-to-face-japan-in-fifa-world-cup-round-of-32-clash-at-houston-stadium-in-us/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/RajyaSabhaAsOfMay9%2C2026.svg/960px-RajyaSabhaAsOfMay9%2C2026.svg.png",
+        "image_credit": "Wikipedia – Parliament of India (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Ireland Defeat India by 1 Run in Second T20 International",
+        "summary": "In Men&#8217;s Cricket, Ireland defeated India by 1 run in the second and final T20 International of the two-match series in Belfast last night. Hosts Ireland set a target of 155 runs for India. Put into bat, Ireland made 154 runs, losing eight wickets in the stipulated 20 overs. In reply, India could score only [&#8230;]",
+        "article": "In Men&#8217;s Cricket, Ireland defeated India by 1 run in the second and final T20 International of the two-match series in Belfast last night. Hosts Ireland set a target of 155 runs for India. Put into bat, Ireland made 154 runs, losing eight wickets in the stipulated 20 overs. In reply, India could score only 153 for 9 in 20 overs. Jai Moondra was declared PLAYER OF THE MATCH and series. Ireland sensationally clinched their two-match T20 International series against India. Ireland won the first match by 34 runs.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T02:19:30+00:00",
+        "link": "https://newsonair.gov.in/ireland-defeat-india-by-1-run-in-second-t20-international/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/George_RAWDON.jpg/960px-George_RAWDON.jpg",
+        "image_credit": "Wikimedia Commons (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Canada Beat South Africa 1-0 in FIFA World Cup Knockout Stage",
+        "summary": "In the knockout stage of the FIFA World Cup, Canada beat South Africa 1-0 for its first knockout match victory at Los Angeles in the United States. Stephen Eustáquio of Canada scored the goal in the second minute of second-half stoppage time. Co-host Canada hung on with strong defensive play in the final minutes [&#8230;]",
+        "article": "In the knockout stage of the FIFA World Cup, Canada beat South Africa 1-0 for its first knockout match victory at Los Angeles in the United States. Stephen Eustáquio of Canada scored the goal in the second minute of second-half stoppage time. Co-host Canada hung on with strong defensive play in the final minutes and advanced to face the Netherlands or Morocco in Houston on Saturday, July 4. The 2026 FIFA World Cup knockout stage officially began today with 32 teams remaining after the group stage. This phase marks the start of the single-elimination tournament, which culminates in the FIFA World Cup Final on July 19, 2026.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T01:16:52+00:00",
+        "link": "https://newsonair.gov.in/canada-beat-south-africa-1-0-in-fifa-world-cup-knockout-stage/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg/960px-Mumbai_Bandra-Worli_Sea_Link.jpg",
+        "image_credit": "Wikipedia – Mumbai (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian Men’s Hockey Team Defeat England 3-2 in Penalty Shoot-out",
+        "summary": "The Indian Men’s Hockey Team displayed remarkable defensive resilience to defeat England 3-2 in the penalty shoot-out after a hard-fought 0-0 draw in the reverse fixture of the FIH Hockey Pro League at the Lee Valley Hockey and Tennis Centre in London yesterday. Abhishek, Shilanand Lakra and Hardik Singh converted their shoot-out attempts for India [&#8230;]",
+        "article": "The Indian Men’s Hockey Team displayed remarkable defensive resilience to defeat England 3-2 in the penalty shoot-out after a hard-fought 0-0 draw in the reverse fixture of the FIH Hockey Pro League at the Lee Valley Hockey and Tennis Centre in London yesterday. Abhishek, Shilanand Lakra and Hardik Singh converted their shoot-out attempts for India in a fiercely contested encounter. The victory highlighted India&#8217;s defensive grit, composure under pressure and ability to deliver in crucial moments. Defender Sanjay, who was named Player of the Match, led a resolute defensive effort, while both goalkeepers made important contributions in preserving the clean sheet. The win marked India&#8217;s last FIH Hockey Pro League fixture before the Hockey World Cup, providing the team with a timely confidence boost ahead of the marquee tournament.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T01:09:44+00:00",
+        "link": "https://newsonair.gov.in/indian-mens-hockey-team-defeat-england-3-2-in-penalty-shoot-out/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Delhi_fort.jpg/960px-Delhi_fort.jpg",
+        "image_credit": "Wikipedia – Red Fort (CC BY-SA)",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "business": [
+      {
+        "title": "India’s industrial output grows 5.1 per cent in May : MoSPI",
+        "summary": "India’s industrial output growth, as measured by the Index of Industrial Production (IIP), expanded by 5.1 per cent in May this year on an annual basis. The May reading follows April&#8217;s industrial output growth of 4.9 per cent, which marked the first release under the revamped IIP series with 2022-23 as the new base year, [&#8230;]",
+        "article": "India’s industrial output growth, as measured by the Index of Industrial Production (IIP), expanded by 5.1 per cent in May this year on an annual basis. The May reading follows April&#8217;s industrial output growth of 4.9 per cent, which marked the first release under the revamped IIP series with 2022-23 as the new base year, incorporating an updated product basket, revised weights and broader sectoral coverage. As per the data released by the Ministry of Statistics and Programme Implementation (MOSPI), growth in the electricity and gas supply sector expanded by 9.9 per cent during last month. Manufacturing, as well as water supply, sewerage and waste management sectors, posted a 5.5 per cent growth. However, the mining and quarrying sector proved to be a laggard, decelerating by 1.6 per cent. Alongside the May data, MoSPI announced that it has replaced the Wholesale Price Index with the Output Producer Price Index as the deflator for the new IIP series, with 2022-23 as the base year. The ministry has revised the entire 2022-23 based IIP series using the Output PPI, superseding the WPI-based series released on 1st of this month. MoSPI said the move would improve the estimation of real industrial output, as the Output PPI offers a more granular measure of producer prices for products whose output is reported in value terms. It added that the adoption aligns with international best practices and recommendations of the Technical Advisory Committee on the IIP base revision and will facilitate the eventual adoption of PPI-based volume estimation methods in the national accounts.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T14:58:54+00:00",
+        "link": "https://newsonair.gov.in/indias-industrial-output-grows-5-1-per-cent-in-may-mospi/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Most Asian stock indices end higher",
+        "summary": "Most Asian stock market indices advanced today. Hong Kong’s Hang Seng Index gained around 1.6 per cent, China&#8217;s Shanghai Composite Index rose nearly 1.2 per cent, Taiwan&#8217;s Taiex jumped one per cent, Singapore’s Strait Times Index added over 0.3 per cent, and Japan&#8217;s Nikkei 225 rose more than 0.1 per cent. Conversely, South Korea&#8217;s Kospi [&#8230;]",
+        "article": "Most Asian stock market indices advanced today. Hong Kong’s Hang Seng Index gained around 1.6 per cent, China&#8217;s Shanghai Composite Index rose nearly 1.2 per cent, Taiwan&#8217;s Taiex jumped one per cent, Singapore’s Strait Times Index added over 0.3 per cent, and Japan&#8217;s Nikkei 225 rose more than 0.1 per cent. Conversely, South Korea&#8217;s Kospi index dropped 0.2 per cent. Major European indices were trading on a mixed note. France’s CAC 40 dropped 0.3 per cent, London’s FTSE 100 was trading over 0.2 per cent lower, while Germany’s DAX rose 0.1 per cent, when reports last came in.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T12:33:22+00:00",
+        "link": "https://newsonair.gov.in/most-asian-stock-indices-end-higher/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Global crude oil prices rise in early trade",
+        "summary": "Global crude oil prices rose today. Brent crude was trading 0.8 per cent up at 72 US dollars and 58 cents per barrel. West Texas Intermediate crude was also trading nearly 1.2 per cent up at 70 US dollars and three cents per barrel, when reports last came in.",
+        "article": "Global crude oil prices rose today. Brent crude was trading 0.8 per cent up at 72 US dollars and 58 cents per barrel. West Texas Intermediate crude was also trading nearly 1.2 per cent up at 70 US dollars and three cents per barrel, when reports last came in.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T12:30:35+00:00",
+        "link": "https://newsonair.gov.in/global-crude-oil-prices-rise-in-early-trade/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Gold and silver prices trade lower in Indian bullion market",
+        "summary": "In the Indian bullion market, 24-carat gold was trading one per cent down at 1 lakh 43 thousand 180 rupees per 10 grams, while Silver was trading 0.6 per cent down at 2 lakh 22 thousand 400 rupees per kilogram, a short while ago. At the Multi Commodity Exchange, Gold for August contract was [&#8230;]",
+        "article": "In the Indian bullion market, 24-carat gold was trading one per cent down at 1 lakh 43 thousand 180 rupees per 10 grams, while Silver was trading 0.6 per cent down at 2 lakh 22 thousand 400 rupees per kilogram, a short while ago. At the Multi Commodity Exchange, Gold for August contract was trading one per cent lower at 1 lakh 42 thousand 755 rupees per 10 grams, and Silver for the September contract was trading over 0.6 per cent down at 2 lakh 22 thousand rupees per kilogram, when reports last came in.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T12:28:59+00:00",
+        "link": "https://newsonair.gov.in/gold-and-silver-prices-trade-lower-in-indian-bullion-market/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Rupee settles 14 paise lower at 94.54 against US dollar",
+        "summary": "In the forex market today, the rupee depreciated by 14 paise to close at 94 rupees and 54 paise against the US dollar. The dollar index, which indicates the US dollar&#8217;s strength against a basket of six other leading currencies, was trading at 101.24 in intra-day trade today.",
+        "article": "In the forex market today, the rupee depreciated by 14 paise to close at 94 rupees and 54 paise against the US dollar. The dollar index, which indicates the US dollar&#8217;s strength against a basket of six other leading currencies, was trading at 101.24 in intra-day trade today.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T12:26:35+00:00",
+        "link": "https://newsonair.gov.in/rupee-settles-14-paise-lower-at-94-54-against-us-dollar/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian economy continues to perform well despite global headwinds : Saurabh Garg, Sec MoSPI",
+        "summary": "Secretary in the Ministry of Statistics and Programme Implementation, Saurabh Garg today said that the Indian economy continues to perform well despite global headwinds. Speaking on the occasion of National Statistics Day, Mr. Garg highlighted that the country has witnessed a significant expansion in administrative data over the past decade, driven largely by the success [&#8230;]",
+        "article": "Secretary in the Ministry of Statistics and Programme Implementation, Saurabh Garg today said that the Indian economy continues to perform well despite global headwinds. Speaking on the occasion of National Statistics Day, Mr. Garg highlighted that the country has witnessed a significant expansion in administrative data over the past decade, driven largely by the success of the Digital India initiative. He noted that the theme for this year&#8217;s celebration is Unlocking the Potential of Administrative Data, focuses on exploring how administrative data can be effectively leveraged to support informed and evidence-based decision-making. Mr Garg further said that Prime Minister Narendra Modi has consistently emphasised the importance of data-driven governance. The Secretary added that to achieve the vision of Viksit Bharat by 2047, policymaking and decision-making must become increasingly focused, precise, and backed by reliable data.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T12:17:24+00:00",
+        "link": "https://newsonair.gov.in/indian-economy-continues-to-perform-well-despite-global-headwinds-saurabh-garg-sec-mospi/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Sensex falls 372 points, Nifty slips below 24,000",
+        "summary": "Benchmark domestic equity indices ended almost half a per cent down today. The Sensex fell 372 points to close at 76 thousand and 728. The Nifty also dropped 110 points to settle at 23 thousand and 946. In the broader market on the National Stock Exchange, the Midcap 100 index shed nearly 0.4 per cent and [&#8230;]",
+        "article": "Benchmark domestic equity indices ended almost half a per cent down today. The Sensex fell 372 points to close at 76 thousand and 728. The Nifty also dropped 110 points to settle at 23 thousand and 946. In the broader market on the National Stock Exchange, the Midcap 100 index shed nearly 0.4 per cent and the Smallcap 100 index declined over 0.6 per cent.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T11:09:09+00:00",
+        "link": "https://newsonair.gov.in/sensex-falls-372-points-nifty-slips-below-24000/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "FPIs Pull Out ₹53,022 Crore from Indian Equities in June",
+        "summary": "Foreign Portfolio Investors (FPIs) have offloaded Indian equities worth 53,022 crore rupees so far in June. However, selling pressure has moderated noticeably in the second half of this month, led by selective buying by FPIs. They have remained net buyers during all four sessions last week. Rupee stability has supported renewed foreign investor interest over the past [&#8230;]",
+        "article": "Foreign Portfolio Investors (FPIs) have offloaded Indian equities worth 53,022 crore rupees so far in June. However, selling pressure has moderated noticeably in the second half of this month, led by selective buying by FPIs. They have remained net buyers during all four sessions last week. Rupee stability has supported renewed foreign investor interest over the past two weeks. Meanwhile, a series of measures announced by the government and the Reserve Bank of India earlier this month to attract stable long-term foreign capital, deepen the government securities market, and strengthen country&#8217;s debt market has led to a record inflow into the Indian debt market in June. As per the depository data, Debt General Limit registered inflow of 24,518 crore rupees so far in June. The debt categories of Fully Accessible Route registered inflow of 20,958 crore rupees and Voluntary Retention Route of 3,518 crore rupees.",
+        "date": "2026-06-28",
+        "pubDate": "2026-06-28T12:57:24+00:00",
+        "link": "https://newsonair.gov.in/fpis-pull-out-%e2%82%b953022-crore-from-indian-equities-in-june/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India’s foreign reserves rise by 963 million dollars to over 672 billion dollars",
+        "summary": "India’s foreign exchange reserves rose by 963 million US dollars to over 672 billion US dollars during the week ended June 19. According to the Reserve Bank of India data, the rise was mainly driven by a sharp increase in gold reserves, which increased by 4.1 billion US dollars to over 107 billion US dollars. [&#8230;]",
+        "article": "India’s foreign exchange reserves rose by 963 million US dollars to over 672 billion US dollars during the week ended June 19. According to the Reserve Bank of India data, the rise was mainly driven by a sharp increase in gold reserves, which increased by 4.1 billion US dollars to over 107 billion US dollars. In contrast, Foreign currency assets, the largest component of the reserves, decreased by 3.07 billion USD to 541 billion USD during the week. Special Drawing Rights (SDRs) fell by 52 million USD to 18.64 billion US dollars, and the country&#8217;s reserve position with the International Monetary Fund dropped 22 million USD to around 4.8 billion US dollars.",
+        "date": "2026-06-26",
+        "pubDate": "2026-06-26T13:53:48+00:00",
+        "link": "https://newsonair.gov.in/indias-foreign-reserves-rise-by-963-million-dollars-to-over-672-billion-dollars/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Goldman Sachs raises India’s 2026 GDP growth forecast to 6.8%",
+        "summary": "Global investment bank Goldman Sachs has raised India’s real GDP growth forecast to 6.8 per cent for the calendar year 2026, from its earlier estimate of 6.5 per cent, citing easing oil prices and improving domestic economic conditions. In its latest report titled India: Improved Macro Outlook After The US and Iran deal, the [&#8230;]",
+        "article": "Global investment bank Goldman Sachs has raised India’s real GDP growth forecast to 6.8 per cent for the calendar year 2026, from its earlier estimate of 6.5 per cent, citing easing oil prices and improving domestic economic conditions. In its latest report titled India: Improved Macro Outlook After The US and Iran deal, the global investment bank lowered its headline inflation forecast by 0.2 percentage points to 4.4 per cent and reduced its current account deficit estimate to 1.1 per cent of GDP, amid a sharp correction in global crude oil prices after the US-Iran peace deal. According to Goldman Sachs, the country’s economy remained resilient despite the disruptions caused by the Middle East conflict, as government fiscal and quasi-fiscal measures helped cushion the impact of higher energy prices on consumers. The report noted that softer global commodity prices, particularly the sharp decline in urea prices, would help reduce India’s fertiliser subsidy burden, easing near-term fiscal pressures along with lower crude oil prices. Despite the improved outlook, it cautioned that weather-related uncertainties and the impact of earlier fuel price increases could remain short-term headwinds for consumption before the economy gathers further momentum later in the year.",
+        "date": "2026-06-26",
+        "pubDate": "2026-06-26T13:48:25+00:00",
+        "link": "https://newsonair.gov.in/goldman-sachs-raises-indias-2026-gdp-growth-forecast-to-6-8/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "entertainment": [
+      {
+        "title": "Veteran producer and former CBFC chairperson Pahlaj Nihalani passes away",
+        "summary": "Veteran producer and former chairperson of the Central Board of Film Certification (CBFC), Pahlaj Nihalani, has passed away in Mumbai today. He was 76. Born on January 10, 1950, Nihalani started his career as a producer with the 1982 movie ‘Haathkadi’. He is widely credited for giving actor Govinda his first big break with the [&#8230;]",
+        "article": "Veteran producer and former chairperson of the Central Board of Film Certification (CBFC), Pahlaj Nihalani, has passed away in Mumbai today. He was 76. Born on January 10, 1950, Nihalani started his career as a producer with the 1982 movie ‘Haathkadi’. He is widely credited for giving actor Govinda his first big break with the 1986 movie ‘Ilzaam’. He also introduced actor Chunky Panday with ‘Aag Hi Aag’ in 1987. He also produced films like ‘Shola Aur Shabnam’, ‘Aankhen’, ‘Dil Tera Diwana’, ‘Talaash’ and ‘Rangeela Raja’. In January 2015, Nihalani was appointed as the chairperson of the Central Board of Film Certification. During his stint, he introduced strict new guidelines barring certain expletives even in &#8216;A&#8217; rated films and sought to restrict content that could be seen as hurting religious sentiments or depicting violence. Critics in the film fraternity frequently accused him of overreach, while he maintained he was simply doing his job. Current chairperson of the CBFC Shashi Shekhar Vempati has condoled Nihalani&#8217;s demise.",
+        "date": "2026-06-04",
+        "pubDate": "2026-06-04T08:26:03+00:00",
+        "link": "https://newsonair.gov.in/veteran-producer-and-former-cbfc-chairperson-pahlaj-nihalani-passes-away/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sydney_2015_Anzac_Day_march_%2817119683648%29.jpg/960px-Sydney_2015_Anzac_Day_march_%2817119683648%29.jpg",
+        "image_credit": "Wikipedia – Veteran (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "150th Shree Baba Harivallabh Sangeet Sammelan Begins in Jalandhar Tomorrow",
+        "summary": "In Punjab, the 150th Shree Baba Harivallabh Sangeet Sammelan, the oldest Hindustani classical music festival in the country, is starting from tomorrow evening at Shree Devi Talab Temple, Jalandhar. The festival is being organised in collaboration with the North Zone Cultural Centre (NZCC), Patiala of the Union Ministry of Culture, Govt. of India and [&#8230;]",
+        "article": "In Punjab, the 150th Shree Baba Harivallabh Sangeet Sammelan, the oldest Hindustani classical music festival in the country, is starting from tomorrow evening at Shree Devi Talab Temple, Jalandhar. The festival is being organised in collaboration with the North Zone Cultural Centre (NZCC), Patiala of the Union Ministry of Culture, Govt. of India and supported by the state government. The 3-day festival is dedicated to the 350th martyrdom anniversary of Guru Tegh Bahadur Ji and acclaimed Banaras Gharana vocalist Pt Chhannu Lal Mishra, who passed away in October this year. Renowned classical music artists like folk vocalist icon Vidushi Malini Awasthi, Pt Sajan Mishara, his son Swaransh Mishra, Pt Ronu Majumdar, Shashank Subramanyam, Ashwini Bhide, Pt Sanjeev Abhyankar, Pt Shubhendra Rao, Saskia Rao-de-Haas, Ustad Faiyaz Wasifuddin Dagar, Pt Vijay Ghate, V Selvaganesh, Naveen Sharma and Shikharnaad Qureshi, among others, will perform from 26 to 28 December.",
+        "date": "2025-12-25",
+        "pubDate": "2025-12-25T06:41:17+00:00",
+        "link": "https://newsonair.gov.in/150th-shree-baba-harivallabh-sangeet-sammelan-begins-in-jalandhar-tomorrow/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/India_Gate_%28All_India_War_Memorial%29.jpg/960px-India_Gate_%28All_India_War_Memorial%29.jpg",
+        "image_credit": "Wikipedia – India Gate (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Media and Entertainment Sector Among India’s Fastest-Growing Industries",
+        "summary": "India’s Media and Entertainment sector has become one of the country’s fastest-growing industries and is projected to cross one hundred billion US dollars by 2030. Economically, the Media and Entertainment sector contributes significantly to value addition and job creation, with its gross value-added share steadily increasing over the last decade. The country offers a 40 [&#8230;]",
+        "article": "India’s Media and Entertainment sector has become one of the country’s fastest-growing industries and is projected to cross one hundred billion US dollars by 2030. Economically, the Media and Entertainment sector contributes significantly to value addition and job creation, with its gross value-added share steadily increasing over the last decade. The country offers a 40 to 60 percent cost advantage in animation and VFX services, supported by a large, skilled workforce. The creative economy of the country has entered a transformative phase with the formal recognition of the Animation, Visual Effects, Gaming, Comics and Extended Reality (AVGC-XR) sector as a key driver of growth. The policy journey gained momentum in 2022 with the constitution of the AVGC Promotion Task Force, established to formulate a comprehensive national strategy for nurturing country&#8217;s AVGC-XR ecosystem as a global hub for creative technology and digital content production. The Task Force’s report projected the creation of around 20 lakh direct and indirect jobs in the coming ten years, while estimating that the sector could contribute to India’s GDP through production, exports, and allied services. Complementing national initiatives, several states are advancing the AVGC-XR vision through targeted policies and institutional frameworks. Karnataka has been one of the firsts to implement a dedicated AVGC-XR Policy 2024-2029, focusing on skilling, incubation, and global market competitiveness. Maharashtra has also taken significant steps with the approval of its AVGC-XR Policy 2025 in September this year, backed by a financial plan of more than three thousand 200 crore rupees including a long-term roadmap extending to 2050. The policy seeks to attract investments, create employment opportunities, and strengthen state-level production infrastructure through dedicated clusters and training initiatives. Furthermore, the Indian Institute of Creative Technologies is reshaping creative education through global partnerships with Netflix, Google, Microsoft, NVIDIA and others, building a world-class talent ecosystem. India’s technological evolution in this sector reflects a decade-long progression from experimentation to excellence.",
+        "date": "2025-11-18",
+        "pubDate": "2025-11-18T08:00:22+00:00",
+        "link": "https://newsonair.gov.in/media-and-entertainment-sector-among-indias-fastest-growing-industries/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Boathouse_%287063399547%29.jpg/960px-Boathouse_%287063399547%29.jpg",
+        "image_credit": "Wikipedia – Kerala (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "UK Named Country Partner for Hornbill Festival 2025 in Nagaland",
+        "summary": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence [&#8230;]",
+        "article": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence of British High Commissioner to India Lindy Cameron, and senior representatives from both sides at New Delhi. Under this partnership, the British Council, working with the British Deputy High Commission in Kolkata, will curate meaningful programming for the festival, including bringing an artist from the UK to participate in the festival. The state also named Air India Express as the Official Travel Partner for the Hornbill Festival. The partnership was announced by Advisor to Chief Minister, Abu Metha and Managing Director, Air India Express, Aloke Singh, at the airline&#8217;s headquarters in Gurugram in the presence of several key officials. As part of the collaboration, Air India Express will introduce a Boeing 737-8 aircraft featuring a livery inspired by the Tsüngkotepsü design of the Ao Naga tribe’s warrior shawl, under its ‘Tales of India’ initiative. The special aircraft will be received by Chief Minister Neiphiu Rio at Dimapur Airport on November 22. The airline will also offer a 15 percent discount on flights to and from Nagaland, starting November 20. Welcoming the partnerships, Chief Minister Neiphiu Rio expressed hopes that the ties will drive tourism, cultural exchange, and economic growth.",
+        "date": "2025-11-18",
+        "pubDate": "2025-11-18T06:24:16+00:00",
+        "link": "https://newsonair.gov.in/uk-named-country-partner-for-hornbill-festival-2025-in-nagaland/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kapamodzu.jpg/960px-Kapamodzu.jpg",
+        "image_credit": "Wikipedia – Nagaland (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Vice-President C.P. Radhakrishnan Urges Media to Be Partners in Nation-Building at Ramoji Excellence Awards 2025",
+        "summary": "Vice-President C.P. Radhakrishnan has urged media houses to become partners in nation-building through their constructive role as the fourth pillar of the democratic system. He emphasised the urgency to check the spread of fake news and misinformation in the digital era. Addressing the inaugural event of Ramoji Excellence Awards-2025 at Ramoji Film City in [&#8230;]",
+        "article": "Vice-President C.P. Radhakrishnan has urged media houses to become partners in nation-building through their constructive role as the fourth pillar of the democratic system. He emphasised the urgency to check the spread of fake news and misinformation in the digital era. Addressing the inaugural event of Ramoji Excellence Awards-2025 at Ramoji Film City in Hyderabad, the Vice-President lauded the efforts of late media industrialist Ramoji Rao in value-based journalism. He hailed Ramoji Group for instituting the Excellence Awards in his memory. Telangana Chief Minister A. Revanth Reddy termed the Ramoji Film City as the fourth wonder of Hyderabad and said that the State government will extend all support to sustain the legacy of the “Ramoji” brand in various sectors, mainly journalism and the promotion of the state-of-the-art Ramoji Film City, which has emerged as the hub of film-making in the world. Chief Minister of Andhra Pradesh N. Chandrababu Naidu said Ramoji Rao, as a media house owner, championed the people’s issues. Telangana Governor Jishnu Dev Varma, former Vice-President M Venkaiah Naidu, and former Chief Justice of India NV Ramana called Ramoji Rao a true inspiration for generations to come and recalled his services in the field of journalism. The award recipients include Pallabi Ghosh in the Women Achievers category, Sathupati Prasanna Sree in Arts and Culture, Akash Tandon in Service to Humanity, Jaideep Hardikar in Journalism, Madhavi Latha in Science and Technology, Srikanth Bolla in Youth Icon, and Amla Ruia in the Rural Development category. Union Ministers Kishan Reddy, K Ram Mohan Naidu and Ministers of state Bandi Sanjay and others were also present on the occasion.",
+        "date": "2025-11-17",
+        "pubDate": "2025-11-17T04:43:41+00:00",
+        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-urges-media-to-be-partners-in-nation-building-at-ramoji-excellence-awards-2025/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Delhi_fort.jpg/960px-Delhi_fort.jpg",
+        "image_credit": "Wikipedia – Red Fort (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Comedian and Veteran Punjabi Actor Jaswinder Bhalla Passes Away",
+        "summary": "Famous comedian and veteran actor of Punjabi cinema Jaswinder Bhalla died this morning in a private hospital in Mohali. He was 65 years old. According to the information received, his last rites will be performed tomorrow at noon at Balongi crematorium. &#160; Born in Doraha town of Ludhiana, Jaswinder Bhalla obtained an M.Sc. from Punjab [&#8230;]",
+        "article": "Famous comedian and veteran actor of Punjabi cinema Jaswinder Bhalla died this morning in a private hospital in Mohali. He was 65 years old. According to the information received, his last rites will be performed tomorrow at noon at Balongi crematorium. &nbsp; Born in Doraha town of Ludhiana, Jaswinder Bhalla obtained an M.Sc. from Punjab Agricultural University and a PhD from Chaudhary Charan Singh Post Graduate College, Meerut. Jaswinder Bhalla, who came to the comedy and film world from teaching, left an indelible mark on the entertainment world with his unique comic style and memorable characters in films. &nbsp; He started his career in 1988 and worked in many popular Punjabi films, including Carry On Jatta, Naukar Vohti Da. His film journey started with the film &#8220;Dulla Bhatti&#8221;. He also performed in various programs of Jalandhar Doordarshan at the beginning of his career.",
+        "date": "2025-08-22",
+        "pubDate": "2025-08-22T06:34:48+00:00",
+        "link": "https://newsonair.gov.in/comedian-and-veteran-punjabi-actor-jaswinder-bhalla-passes-away/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Chaplin_The_Champion.jpg",
+        "image_credit": "Wikipedia – Comedian (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "BIFF 2025: Shape of Momo to Premiere in Vision Section of Asia’s Biggest Film Festival",
+        "summary": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &#160; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its [&#8230;]",
+        "article": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &nbsp; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its Vision Section highlights promising works from independent Asian cinema, showcasing daring and original stories from both emerging and mid-career directors. &nbsp; The selection places Shape of Momo alongside some of the most exciting contemporary films from across Asia. The film will also be screened at the San Sebastián International Film Festival in September, marking a significant step in its international journey.",
+        "date": "2025-08-21",
+        "pubDate": "2025-08-21T05:59:25+00:00",
+        "link": "https://newsonair.gov.in/biff-2025-shape-of-momo-to-premiere-in-vision-section-of-asias-biggest-film-festival/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Premiere_at_Chinese_Theater_%283555047236%29.jpg/960px-Premiere_at_Chinese_Theater_%283555047236%29.jpg",
+        "image_credit": "Wikipedia – Premiere (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM Dr. S. Jaishankar Strengthens Ties with Indian Ocean Nations at Muscat Conference",
+        "summary": "External Affairs Minister Dr. S. Jaishankar held meetings with his counterparts from Mauritius, Maldives, Nepal, Bhutan and Sri Lanka on the sidelines of the Indian Ocean Conference in Oman&#8217;s capital Muscat yesterday. During his meeting with his Mauritian counterpart Dhananjay Ritish Ramful, Dr. Jaishankar emphasised upon the commitment to further strengthen &#8220;special bonds of friendshi",
+        "article": "External Affairs Minister Dr. S. Jaishankar held meetings with his counterparts from Mauritius, Maldives, Nepal, Bhutan and Sri Lanka on the sidelines of the Indian Ocean Conference in Oman&#8217;s capital Muscat yesterday. During his meeting with his Mauritian counterpart Dhananjay Ritish Ramful, Dr. Jaishankar emphasised upon the commitment to further strengthen &#8220;special bonds of friendship&#8221; between the two nations. It was Dr. Jaishankar&#8217;s first meeting with Ramful. The External Affairs Minister, during his meeting with his Maldivian counterpart Abdulla Khaleel, discussed many facets of India-Maldives cooperation. With his Sri Lankan counterpart Vijitha Herath, Dr. Jaishankar discussed wide-ranging cooperation between the two nations. He also expressed India&#8217;s commitment to the economic recovery and progress of Sri Lanka. During his visit to Oman, Jaishankar also met his counterparts from Oman, Brunei and Iran on the sidelines of the Indian Ocean Conference. He also held a meeting with Bangladesh Foreign Affairs Advisor Md. Touhid Hossain. The 8th Indian Ocean Conference is being organised by the India Foundation in association with Oman&#8217;s Ministry of Foreign Affairs in Muscat on February 16-17, 2025.",
+        "date": "2025-02-17",
+        "pubDate": "2025-02-17T02:02:43+00:00",
+        "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-strengthens-ties-with-indian-ocean-nations-at-muscat-conference/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/India_Gate_%28All_India_War_Memorial%29.jpg/960px-India_Gate_%28All_India_War_Memorial%29.jpg",
+        "image_credit": "Wikipedia – India Gate (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Goa CM Releases Commemorative Stamp Honouring Filmmaker K Vaikunth at IFFI 56",
+        "summary": "Goa Chief Minister Pramod Sawant today released a commemorative stamp in honour of legendary cinematographer and filmmaker K Vaikunth at the 56th International Film Festival of India (IFFI) in Panaji, Goa. Addressing the gathering, Mr Sawant said that the K Vaikunth left a mark on Indian cinema even before Goa used to be associated [&#8230;]",
+        "article": "Goa Chief Minister Pramod Sawant today released a commemorative stamp in honour of legendary cinematographer and filmmaker K Vaikunth at the 56th International Film Festival of India (IFFI) in Panaji, Goa. Addressing the gathering, Mr Sawant said that the K Vaikunth left a mark on Indian cinema even before Goa used to be associated with movies. The Goa Chief Minister called him the man whose camera shaped the visual language of classic Indian cinema. He added that Mr Vaikunth&#8217;s unique style captured both grand spectacles and soft, subtle human emotions. During the occasion, Mr Vaikunth&#8217;s 1977 documentary &#8211; &#8216;Goa Marches On&#8217; was also screened. In a career spanning more than 5 decades, K Vaikunth worked on more than 35 feature films along with numerous ads and documentaries. He was behind some of the biggest hits, notably, Mere Apne, Bandhan, Mausam, Raaz and Parichay. Mr Vaikunth passed away on 9th February 2003.",
+        "date": "2025-11-27",
+        "pubDate": "2025-11-27T07:31:40+00:00",
+        "link": "https://newsonair.gov.in/goa-cm-releases-commemorative-stamp-honouring-filmmaker-k-vaikunth-at-iffi-56/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Melodies of India Resonate as 67th Akashvani Sangeet Sammelan Begins Nationwide",
+        "summary": "The 67th edition of Akashvani Sangeet Sammelan began today with concerts at Delhi, Mumbai and Chennai. The sammelan is being organised by Prasar Bharati, in collaboration with the Culture Ministry. In the National Capital at Akashvani Rang Bhawan, Flutist Pt. Rakesh Chaurasia and Marathi Folk artist Nandesh Umap and his team performed [&#8230;]",
+        "article": "The 67th edition of Akashvani Sangeet Sammelan began today with concerts at Delhi, Mumbai and Chennai. The sammelan is being organised by Prasar Bharati, in collaboration with the Culture Ministry. In the National Capital at Akashvani Rang Bhawan, Flutist Pt. Rakesh Chaurasia and Marathi Folk artist Nandesh Umap and his team performed a vibrant program. Prasar Bharati Chairman Navneet Kumar Sehgal and Akashvani Director General Rajiv Kumar Jain also attended the event Akashvani Sangeet Sammelan will be held in 24 cities across the country. During the month-long event, The sangeet sammelan will bring Hindustani, Carnatic, Light and Folk music to audiences from across the country. All concerts are open to the public without any entry fee. Invitation cards can be collected from the respective Akashvani stations on a first-come, first-served basis.",
+        "date": "2025-11-02",
+        "pubDate": "2025-11-02T16:25:04+00:00",
+        "link": "https://newsonair.gov.in/prasar-bharati-and-culture-ministry-launch-month-long-akashvani-sangeet-sammelan-nationwide/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "lifestyle": [
+      {
+        "title": "Health Minister JP Nadda Urges Citizens to Eliminate TB on World Tuberculosis Day",
+        "summary": "Health and Family Welfare Minister Jagat Prakash Nadda today called on citizens to eliminate TB and ensure better health for all, especially the most vulnerable, on the occasion of World Tuberculosis Day. In a social media post, the Health Minister said that India has made notable progress through the National TB Elimination Programme, strengthening efforts [&#8230;]",
+        "article": "Health and Family Welfare Minister Jagat Prakash Nadda today called on citizens to eliminate TB and ensure better health for all, especially the most vulnerable, on the occasion of World Tuberculosis Day. In a social media post, the Health Minister said that India has made notable progress through the National TB Elimination Programme, strengthening efforts across prevention, detection, and treatment. Highlighting this year’s theme: Yes! We Can End TB. Led by Bharat. Powered by Janbhagidari, Mr Nadda said it reflects the country’s shared commitment and belief in a TB-free future. Expressing gratitude to healthcare workers for their tireless service and compassionate care, the Minister called on the citizens to work towards a TB Mukt Bharat and a healthier, stronger nation.",
+        "date": "2026-03-24",
+        "pubDate": "2026-03-24T07:13:43+00:00",
+        "link": "https://newsonair.gov.in/health-minister-jp-nadda-urges-citizens-to-eliminate-tb-on-world-tuberculosis-day/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/World_Tuberculosis_Day_%287020132217%29.jpg/960px-World_Tuberculosis_Day_%287020132217%29.jpg",
+        "image_credit": "Wikipedia – World Tuberculosis Day (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India Tightens Surveillance on GLP-1 Weight Loss Drug Sales",
+        "summary": "The Drugs Controller of India has intensified regulatory surveillance against unauthorised sale and promotion of GLP-1 based Weight Loss Drugs. The move comes amid growing concerns over the increasing availability of multiple generic variants of these drugs in the Indian market, through retail pharmacies, online platforms, wholesalers, and wellness clinics. The Ministry of Health [&#8230;]",
+        "article": "The Drugs Controller of India has intensified regulatory surveillance against unauthorised sale and promotion of GLP-1 based Weight Loss Drugs. The move comes amid growing concerns over the increasing availability of multiple generic variants of these drugs in the Indian market, through retail pharmacies, online platforms, wholesalers, and wellness clinics. The Ministry of Health and Family Welfare said that these drugs, when used without proper medical supervision, may lead to serious adverse effects and related health risks. Taking cognisance of the situation, India’s Drugs Controller, in collaboration with State Regulators, has initiated a series of targeted actions to curb possible malpractices across the pharmaceutical supply chain and prevent unauthorised sales and use. The Ministry noted that an advisory was issued on the 10th of this month, directing manufacturers to avoid surrogate advertisements and any form of indirect promotion that could mislead consumers or encourage off-label usage. It added that regulatory surveillance will continue to be intensified in the coming weeks, and non-compliances will be dealt with strictly, with actions including cancellation of licences, penalties, and prosecution under applicable laws. The Health Ministry advised the citizens to use such medications only under the guidance of qualified medical practitioners. The Ministry said the drug has been approved in the country with the condition of a prescription by Endocrinologists and Internal Medicine Specialists, and for some indications, by Cardiologists only.",
+        "date": "2026-03-24",
+        "pubDate": "2026-03-24T06:13:25+00:00",
+        "link": "https://newsonair.gov.in/india-tightens-surveillance-on-glp-1-weight-loss-drug-sales/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/RajyaSabhaAsOfMay9%2C2026.svg/960px-RajyaSabhaAsOfMay9%2C2026.svg.png",
+        "image_credit": "Wikipedia – Parliament of India (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "VP Radhakrishnan says Drug-free youth key to Viksit Bharat vision",
+        "summary": "Vice President CP Radhakrishnan today said that the vision of a Viksit Bharat can only be realised when the youth of the country is drug-free, healthy and purpose-driven. Mr Radhakrishnan said this while addressing Delhi University&#8217;s Drug Free Campus Campaign in the National Capital. On the occasion, Mr Radhakrishnan also launched a dedicated e-pledge platform [&#8230;]",
+        "article": "Vice President CP Radhakrishnan today said that the vision of a Viksit Bharat can only be realised when the youth of the country is drug-free, healthy and purpose-driven. Mr Radhakrishnan said this while addressing Delhi University&#8217;s Drug Free Campus Campaign in the National Capital. On the occasion, Mr Radhakrishnan also launched a dedicated e-pledge platform and Mobile App for Drug-Free Campuses. The Vice President said that the campaign aligns strongly with the government’s Nasha Mukt Bharat Abhiyan. He underlined that substance abuse is a social challenge, a public health concern and a threat to the country’s demographic dividend. Mr Radhakrishnan also urged the students to actively participate and take the pledge for a drug-free campus. Mr Radhakrishnan highlighted that it is the need of the hour for everyone to keep themselves away from drugs. He also stressed the need to rise against drug abuse and spread awareness amongst everyone against the use of drugs. Mr Radhakrishnan said that drugs also spoil the physical and mental health of people. The Vice President also asserted that the youth are the greatest asset of the country and their talent, innovation and productivity form the backbone of the nation&#8217;s economic growth. He added that a drug-free youth is better equipped to acquire skills and foster entrepreneurship, which strengthens the economic progress of the nation. Mr Radhakrishnan said that drug terrorism is closely linked to narco-terrorism. He said that this business happens at the cost of humanity, and everyone must rise against the drug mafia. Speaking on the occasion, Education Minister Dharmendra Pradhan emphasised that the Drug Free Campus Campaign is aligned with the National Education Policy 2020. He also underscored the need for teachers and administrators to create a campus culture which prioritises student well-being.",
+        "date": "2026-01-13",
+        "pubDate": "2026-01-13T11:18:49+00:00",
+        "link": "https://newsonair.gov.in/vp-radhakrishnan-urges-youth-to-be-drug-free-for-a-viksit-bharat/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/960px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
+        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "West Bengal reports two suspected Nipah cases; centre sends response team",
+        "summary": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry [&#8230;]",
+        "article": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry of Health and Family Welfare has shared a video in which Union Health Minister Jagat Prakash Nadda said the Central government firmly stands with the State government, and it is providing comprehensive technical, logistical and operational support to the State Government for the effective management and prevention of the outbreak. He added that upon receipt of information, the Secretary, Health and Family Welfare, immediately held discussions with the Chief Secretary and Principal Secretary, Health of West Bengal, to review the situation. Mr Nadda said he had also spoken to the West Bengal Chief Minister, Mamata Banerjee and emphasised for Centre- State co-ordination in this direction. Meanwhile, our Kolkata Correspondent reports the West Bengal government has implemented comprehensive precautionary measures to contain the spread of the virus, including two healthcare workers at a private hospital in Barasat, North 24 Parganas. State&#8217;s Chief Secretary, Nandini Chakraborty, convened an emergency meeting at Nabanna with the state&#8217;s Health Secretary and other senior officials to review the situation. Briefing the press, she confirmed that both patients are currently undergoing treatment, with a specialized medical team monitoring their condition. Preliminary investigations suggest the individuals contracted the virus during a work-related visit to Purba Bardhaman. Consequently, surveillance has been intensified across Purba Bardhaman, North 24 Parganas, and Nadia districts, while authorities are actively tracing high-risk contacts. To assist citizens, the State government has launched two helpline numbers: 033 2333-0180 and 9874708858. &nbsp;",
+        "date": "2026-01-13",
+        "pubDate": "2026-01-13T03:53:37+00:00",
+        "link": "https://newsonair.gov.in/west-bengal-reports-two-suspected-nipah-cases-centre-sends-response-team/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Howrah_bridge_betwixt_Lights.jpg/960px-Howrah_bridge_betwixt_Lights.jpg",
+        "image_credit": "Wikipedia – West Bengal (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Wild Poliovirus Detected in Sewage Samples Across 42 Sites in Pakistan",
+        "summary": "Wild poliovirus type 1 (WPV1) has been detected in sewage samples from 42 sites across Pakistan. The health officials reported that out of 127 samples collected from 87 districts in July, 42 tested positive, 75 were negative, and 10 are under process. The findings follow three new polio cases reported earlier this month, raising Pakistan&#8217;s [&#8230;]",
+        "article": "Wild poliovirus type 1 (WPV1) has been detected in sewage samples from 42 sites across Pakistan. The health officials reported that out of 127 samples collected from 87 districts in July, 42 tested positive, 75 were negative, and 10 are under process. The findings follow three new polio cases reported earlier this month, raising Pakistan&#8217;s 2025 total to 17 cases, 10 from Khyber Pakhtunkhwa, five from Sindh, and one each from Punjab and Gilgit-Baltistan.",
+        "date": "2025-08-13",
+        "pubDate": "2025-08-13T11:11:04+00:00",
+        "link": "https://newsonair.gov.in/wild-poliovirus-detected-in-sewage-samples-across-42-sites-in-pakistan/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Delhi_fort.jpg/960px-Delhi_fort.jpg",
+        "image_credit": "Wikipedia – Red Fort (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Chikungunya Outbreak in China: Over 7,000 Cases Emerge in Guangdong",
+        "summary": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. [&#8230;]",
+        "article": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. Apart from Foshan, at least 12 other cities in China&#8217;s southern Guangdong province have reported infections from this a mosquito-borne virus, with nearly 3,000 cases got reported last week. Although rare in China, chikungunya outbreaks are common in South and South East Asia and parts of Africa. On Monday, Hong Kong reported its first case of the viral disease after a 12-year-old boy who developed fever, rash and joint pain after traveling to Foshan in July. An official said, all the reported cases have been mild so far, with 95 per cent of the patients discharged within seven days, Still, the cases have led to some panic, given the virus is not widely known in the country. Meanwhile, the US has urged travellers to China to exercise &#8220;increased caution&#8221; following the outbreak.",
+        "date": "2025-08-05",
+        "pubDate": "2025-08-05T12:03:13+00:00",
+        "link": "https://newsonair.gov.in/chikungunya-outbreak-in-china-over-7000-cases-emerge-in-guangdong/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg/960px-China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg",
+        "image_credit": "Wikipedia – Guangdong (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Matru Vandana Yojana Registration Drive Extended Till August 15",
+        "summary": "The Ministry of Women and Child Development has extended the special registration drive for the Pradhan Mantri Matru Vandana Yojana (PMMVY) till the 15th of this month. The PMMVY, a door-to-door awareness-cum-enrolment campaign led by Anganwadi and ASHA workers, aims to reach out to all eligible pregnant and lactating women and ensure their timely registration [&#8230;]",
+        "article": "The Ministry of Women and Child Development has extended the special registration drive for the Pradhan Mantri Matru Vandana Yojana (PMMVY) till the 15th of this month. The PMMVY, a door-to-door awareness-cum-enrolment campaign led by Anganwadi and ASHA workers, aims to reach out to all eligible pregnant and lactating women and ensure their timely registration under the scheme. According to the Ministry of Women and Child Development, PMMVY provides financial assistance to support nutritious diets and improve health-seeking behaviour amongst pregnant women and lactating mothers, along with promoting positive attitudes toward the girl child. The Ministry, in a statement, further informed that since the scheme&#8217;s inception, more than 4.05 crore beneficiaries have been paid the maternity benefit (at least one instalment) amounting to 19 thousand and 28 crore rupees through direct benefit transfer in their bank or post office accounts.",
+        "date": "2025-08-05",
+        "pubDate": "2025-08-05T02:16:32+00:00",
+        "link": "https://newsonair.gov.in/pm-matru-vandana-yojana-registration-drive-extended-till-august-15/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/RajyaSabhaAsOfMay9%2C2026.svg/960px-RajyaSabhaAsOfMay9%2C2026.svg.png",
+        "image_credit": "Wikipedia – Parliament of India (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Vaccines Prevented Over 2.5 Million Covid Deaths Worldwide: Study",
+        "summary": "Vaccines have prevented more than 2.5 million deaths caused by SARS-CoV-2, the virus behind COVID-19, according to a new study. Led by researchers from the Catholic University of the Sacred Heart in Italy, the study found that one COVID-related death was avoided for every 5,400 vaccine doses administered. &#160; About 82% of the lives saved [&#8230;]",
+        "article": "Vaccines have prevented more than 2.5 million deaths caused by SARS-CoV-2, the virus behind COVID-19, according to a new study. Led by researchers from the Catholic University of the Sacred Heart in Italy, the study found that one COVID-related death was avoided for every 5,400 vaccine doses administered. &nbsp; About 82% of the lives saved involved people who were vaccinated before contracting the virus. Additionally, 57% of the total lives saved were during the Omicron period, and 90% of the deaths prevented were among individuals aged 60 and above. Overall, the study estimated that vaccines saved 14.8 million years of life globally—equivalent to one year of life saved for every 900 doses administered. &nbsp; The findings were published in the JAMA Health Forum journal. While previous studies attempted to estimate lives saved by vaccines using different models, timeframes, or regional data, this study is the most comprehensive to date. It uses global data, including the Omicron period, quantifies life years saved, and is based on fewer assumptions regarding pandemic trends. &nbsp;",
+        "date": "2025-07-28",
+        "pubDate": "2025-07-28T03:24:29+00:00",
+        "link": "https://newsonair.gov.in/vaccines-prevented-over-2-5-million-covid-deaths-worldwide-study/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/960px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
+        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "World Embracing Ayurveda’s Science and Potential: AYUSH Minister",
+        "summary": "Minister of AYUSH Prataprao Ganpatrao Jadhav today said that the entire world is now understanding and adopting the scientific basis, utility, and vast potential of Ayurveda. The minister made these remarks during the inaugrual event of Shalyacon 2025 organised by the All-India Institute of Ayurveda in New Delhi. He underlined that Ministry of AYUSH is [&#8230;]",
+        "article": "Minister of AYUSH Prataprao Ganpatrao Jadhav today said that the entire world is now understanding and adopting the scientific basis, utility, and vast potential of Ayurveda. The minister made these remarks during the inaugrual event of Shalyacon 2025 organised by the All-India Institute of Ayurveda in New Delhi. He underlined that Ministry of AYUSH is committed to the continuous development of Ayurveda and surgical practices, as well as to gaining global recognition for them. &nbsp; Shalyacon 2025 is a three-day National Conference on Shalya Tantra. The event, which began yesterday, is being organized to commemorate the auspicious occasion of Sushruta Jayanti, honouring the legacy of the pioneer of surgery, Acharya Sushruta. The seminar features live surgical demonstrations including general surgeries, anorectal surgeries, and urosurgical cases. This conference aims to facilitate the exchange of ideas, showcase clinical advancements, and explore emerging trends in Ayurvedic surgical practices.",
+        "date": "2025-07-14",
+        "pubDate": "2025-07-14T11:41:18+00:00",
+        "link": "https://newsonair.gov.in/world-embracing-ayurvedas-science-and-potential-ayush-minister/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg/960px-Mumbai_Bandra-Worli_Sea_Link.jpg",
+        "image_credit": "Wikipedia – Mumbai (CC BY-SA)",
+        "source": "Prasar Bharati"
+      }
+    ]
+  },
+  "hi": {
+    "top": [
+      {
+        "title": "Uncertainty looms over US and Iran peace negoatiations, as Tehran rejects meeting in Doha",
+        "summary": "Diplomatic efforts to reduce tensions in West Asia have encountered an early hurdle as the United States and Iran offer conflicting accounts of the next stage of discussions in Doha. Uncertainty has grown over the future of U.S.-Iran engagement after President Donald Trump indicated that fresh talks could be held in Doha. However, Tehran [&#8230;]",
+        "article": "Diplomatic efforts to reduce tensions in West Asia have encountered an early hurdle as the United States and Iran offer conflicting accounts of the next stage of discussions in Doha. Uncertainty has grown over the future of U.S.-Iran engagement after President Donald Trump indicated that fresh talks could be held in Doha. However, Tehran has firmly rejected the claim, saying no negotiations with the United States are currently planned. Iranian officials maintain that their immediate focus is on implementing the 14-point memorandum of understanding before considering discussions on a broader or final agreement. In a fresh diplomatic twist, U.S. President Donald Trump says an Iranian delegation requested high-level face-to-face talks in Qatar to move forward with the recently announced interim memorandum of understanding aimed at easing tensions in West Asia. But Tehran has denied that claim. Iranian officials say their delegation is travelling to Doha only for technical discussions on implementing the existing agreement and that no direct negotiations with U.S. officials are planned. Iranian President Masoud Pezeshkian has also made it clear that Tehran will honour its commitments only if Washington fulfils its own obligations, including easing sanctions and releasing Iranian assets. The contrasting statements underline how fragile the diplomatic process remains despite recent efforts to reduce regional tensions. The uncertain diplomatic atmosphere comes as security concerns continue across the region. In Lebanon, debate is growing over a U.S.-backed proposal aimed at securing a longer-term ceasefire with Israel. Lebanese Parliament Speaker Nabih Berri has criticised the proposal, saying it does not adequately protect Lebanon&#8217;s interests, particularly provisions linking an Israeli military withdrawal to the disarmament of Hezbollah. Fresh Israeli airstrikes were also reported in southern Lebanon, while Hezbollah said it retains the right to defend the country.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:55:14+00:00",
+        "link": "https://newsonair.gov.in/us-iran-offer-conflicting-accounts-on-next-stage-of-discussions-in-doha/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Blank_Fork.png",
+        "image_credit": "Wikipedia – Uncertainty (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "World leaders condemn Pakistani airstrikes in Afghanistan",
+        "summary": "Several world leaders and the international community have condemned Pakistani military airstrikes in Afghanistan&#8217;s provinces of Paktia, Paktika and Kunar, which killed and injured civilians, including women and children. The remarks came after Taliban Deputy Spokesman Hamdullah Fitrat said the airstrikes, carried out on the night of June 28, killed 36 civilians and injured 163 [&#8230;]",
+        "article": "Several world leaders and the international community have condemned Pakistani military airstrikes in Afghanistan&#8217;s provinces of Paktia, Paktika and Kunar, which killed and injured civilians, including women and children. The remarks came after Taliban Deputy Spokesman Hamdullah Fitrat said the airstrikes, carried out on the night of June 28, killed 36 civilians and injured 163 others as well as the complete destruction of three residential houses. Expressing grave concern over the violence, António Guterres, the Secretary-General of the United Nations, called for an immediate end to hostilities and urged all sides to protect civilians. The European Union also called for immediate de-escalation and restraint. It stressed the need to protect civilians and ensure respect for international humanitarian law, saying it must be observed at all times. Earlier yesterday, the Afghan Ministry of Foreign Affairs summoned the Chargé d’Affaires of the Embassy of Pakistan in Kabul and conveyed its strong and unequivocal protest regarding the violation of Afghanistan’s airspace and the aerial bombardment of civilian homes in Kunar, Paktia, and Paktika provinces.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:36:06+00:00",
+        "link": "https://newsonair.gov.in/world-leaders-condemn-pakistani-airstrikes-in-afghanistan/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field.jpg/960px-Hubble_ultra_deep_field.jpg",
+        "image_credit": "Wikipedia – World (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "US and Iran to hold talks in Doha on Strait of Hormuz dispute today",
+        "summary": "The United States and Iran will hold talks in Qatar&#8217;s capital, Doha, today to resolve their dispute over the Strait of Hormuz. The meeting comes amid renewed tensions between the US and Iran over the waterway, through which 20% of the world’s crude oil flows. The dangerous period of violence that began Thursday disrupted [&#8230;]",
+        "article": "The United States and Iran will hold talks in Qatar&#8217;s capital, Doha, today to resolve their dispute over the Strait of Hormuz. The meeting comes amid renewed tensions between the US and Iran over the waterway, through which 20% of the world’s crude oil flows. The dangerous period of violence that began Thursday disrupted US President Donald Trump’s attempt to end hostilities with Iran and negotiate a settlement that addresses Tehran’s nuclear program. Traffic in the Strait of Hormuz fell during the tit-for-tat strikes, slowing the recovery of the waterway. Iran and US exchanged missile strikes over the weekend, collapsing trade in the Strait of Hormuz for multiple days. US and Iranian officials agreed to a temporary ceasefire yesterday after President Trump threatened to escalate the conflict. The renewed fighting stemmed from differing interpretations of the memorandum of understanding (MoU) signed earlier this month to end the conflict, particularly Article 5 dealing with navigation through the Strait of Hormuz. Under the agreement, Iran committed to making its best efforts to ensure the safe passage of commercial vessels through the strategic waterway, while the United States agreed to lift its blockade of Iranian ports. During negotiations in Switzerland, the US delegation, led by Vice President JD Vance, also agreed to establish a direct hotline between the US military and Iran&#8217;s Islamic Revolutionary Guard Corps (IRGC) to coordinate shipping traffic through the Strait of Hormuz. However, US officials said the communication channel is still not operational as Iran renewed its insistence that ships must coordinate their passage with Tehran.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T05:45:59+00:00",
+        "link": "https://newsonair.gov.in/us-and-iran-to-hold-talks-in-doha-on-strait-of-hormuz-dispute-today/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ISS-44_Strait_of_Gibraltar.jpg/960px-ISS-44_Strait_of_Gibraltar.jpg",
+        "image_credit": "Wikipedia – Strait (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM S Jaishankar extends wishes to Congo on Independence Day",
+        "summary": "External Affairs Minister S Jaishankar has extended greetings to Foreign Minister Thérèse Kayikwamba Wagner, the Government and the people of Congo on the occasion of the country&#8217;s Independence Day. In a social media post, Dr Jaishankar said that India looks forward to deepening its bilateral ties and development partnership between two nations.",
+        "article": "External Affairs Minister S Jaishankar has extended greetings to Foreign Minister Thérèse Kayikwamba Wagner, the Government and the people of Congo on the occasion of the country&#8217;s Independence Day. In a social media post, Dr Jaishankar said that India looks forward to deepening its bilateral ties and development partnership between two nations.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T05:39:36+00:00",
+        "link": "https://newsonair.gov.in/eam-s-jaishankar-extends-wishes-to-congo-on-independence-day/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Disambiguator_map_for_countries_named_Congo.svg/960px-Disambiguator_map_for_countries_named_Congo.svg.png",
+        "image_credit": "Wikipedia – Congo (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Road Transport Minister Nitin Gadkari calls for greater public participation in road safety",
+        "summary": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being [&#8230;]",
+        "article": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being made to ensure international-standard road engineering, including proper signage, lane markings and underpasses. The Minister also called greater public participation in promoting road safety. Mr Gadkari also urged motorists to follow traffic rules, avoid overspeeding, wear helmets and seat belts, maintain lane discipline, and refrain from using mobile phones while driving.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:32:21+00:00",
+        "link": "https://newsonair.gov.in/road-transport-minister-nitin-gadkari-calls-for-greater-public-participation-in-road-safety/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Eurobank launches UPI-based remittance service for cross-border transfers from Greece to India",
+        "summary": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s strategic collaboration with the National Payments Corporation of India (NPCI) International Payments Limited. In a social media post, Commerce and Industry Minister Piyush Goyal said that the inauguration of Services at Eurobank marks [&#8230;]",
+        "article": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s strategic collaboration with the National Payments Corporation of India (NPCI) International Payments Limited. In a social media post, Commerce and Industry Minister Piyush Goyal said that the inauguration of Services at Eurobank marks another important milestone in the global expansion of India’s digital payment ecosystem. He added that with UPI now live in Greece, eligible customers can transfer money instantly, securely, and seamlessly, with transaction costs reducing drastically to a fraction of conventional transfer costs. Mr Goyal said that the increasing global acceptance and appreciation of UPI reflects the trust in Prime Minister Narendra Modi’s vision of building technology-led solutions that create value beyond borders and deepen partnerships for shared growth and prosperity. Mr Goyal also met the Chief Executive Officer of Eurobank, Fokion Karavias in Greece. During the meeting, both leaders held discussions on expanding the India-Greece economic partnership and encouraged Greek businesses to invest in India. He also explored avenues for collaboration in manufacturing and infrastructure development in Greece, advancing the shared vision for growth and prosperity.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:30:17+00:00",
+        "link": "https://newsonair.gov.in/eurobank-launches-upi-based-remittance-service-for-cross-border-transfers-from-greece-to-india/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "President Droupadi Murmu arrives in Visakhapatnam for Central Tribal University convocation",
+        "summary": "President Droupadi Murmu arrived in Visakhapatnam today to participate in the first convocation of the Central Tribal University of Andhra Pradesh. She was received at INS Dega by Andhra Pradesh Governor S. Abdul Nazeer. Several public representatives and senior officials were present on the occasion.",
+        "article": "President Droupadi Murmu arrived in Visakhapatnam today to participate in the first convocation of the Central Tribal University of Andhra Pradesh. She was received at INS Dega by Andhra Pradesh Governor S. Abdul Nazeer. Several public representatives and senior officials were present on the occasion.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:29:36+00:00",
+        "link": "https://newsonair.gov.in/president-droupadi-murmu-arrives-in-visakhapatnam-for-central-tribal-university-convocation/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India says FATF remains indispensable in fight against terror financing",
+        "summary": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terrorism financing and money laundering. &#160; The statement came after Pakistan criticised the FATF following the neighbouring country placement on the organisation&#8217;s grey list for increased monitoring. &#160; Speaking at a UN [&#8230;]",
+        "article": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terrorism financing and money laundering. &nbsp; The statement came after Pakistan criticised the FATF following the neighbouring country placement on the organisation&#8217;s grey list for increased monitoring. &nbsp; Speaking at a UN event on the sidelines of Counter-Terrorism Week, India’s Permanent Representative to the UN, P. Harish, said attempts to question FATF’s credibility reflect fear of scrutiny rather than genuine concerns. He said countries receiving adverse FATF assessments should address identified deficiencies and strengthen action against terror financing. &nbsp; Mr. Harish also outlined India’s efforts to strengthen its anti-money laundering framework, including tighter regulations for virtual asset service providers and cooperation with FATF on emerging financial risks",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:25:22+00:00",
+        "link": "https://newsonair.gov.in/india-says-fatf-remains-indispensable-in-fight-against-terror-financing/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg/960px-Mumbai_Bandra-Worli_Sea_Link.jpg",
+        "image_credit": "Wikipedia – Mumbai (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Health Minister Jagat Prakash Nadda addresses ILBS convocation in New Delhi",
+        "summary": "Union Health Minister Jagat Prakash Nadda today said the government has laid equal emphasis on strengthening healthcare infrastructure and skilled medical manpower in the country. Addressing the 10th Convocation of the Institute of Liver and Biliary Sciences (ILBS) in New Delhi, Mr Nadda said institutions like ILBS are playing a pioneering role in strengthening [&#8230;]",
+        "article": "Union Health Minister Jagat Prakash Nadda today said the government has laid equal emphasis on strengthening healthcare infrastructure and skilled medical manpower in the country. Addressing the 10th Convocation of the Institute of Liver and Biliary Sciences (ILBS) in New Delhi, Mr Nadda said institutions like ILBS are playing a pioneering role in strengthening the country&#8217;s healthcare ecosystem. He said the government, under the leadership of Prime Minister Narendra Modi, is focused on developing both healthcare infrastructure and skilled human resources in the health sector. Highlighting the expansion of medical education, Mr Nadda said India had only one AIIMS till the end of the 20th century. He noted that the expansion of AIIMS began under former Prime Minister Atal Bihari Vajpayee with the establishment of six new AIIMS, while the present government has further expanded the network across the country. The Union Minister said the number of medical colleges has increased from 387 in 2014 to 818 at present. He added that undergraduate medical seats have also risen from about 50 thousand to more than 1 lakh 20 thousand, significantly enhancing opportunities for aspiring doctors and strengthening the country&#8217;s healthcare workforce. Congratulating the graduating students, Mr Nadda said receiving a degree from a premier institution like ILBS is both a matter of pride and responsibility. He urged them to serve people with compassion, uphold the highest standards of professionalism, and contribute meaningfully to strengthening the country&#8217;s healthcare system throughout their careers.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:10:45+00:00",
+        "link": "https://newsonair.gov.in/union-health-minister-jagat-prakash-nadda-addresses-ilbs-convocation-in-new-delhi/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "UAE announces fresh humanitarian assistance package for Lebanon",
+        "summary": "The UAE has announced a fresh humanitarian assistance package for people affected by the ongoing crisis in Lebanon, reaffirming its long-standing commitment to supporting the Lebanese people. The assistance is announced under the directives of President Sheikh Mohamed bin Zayed Al Nahyan. The aid, to be delivered through the UAE Aid Agency, includes food [&#8230;]",
+        "article": "The UAE has announced a fresh humanitarian assistance package for people affected by the ongoing crisis in Lebanon, reaffirming its long-standing commitment to supporting the Lebanese people. The assistance is announced under the directives of President Sheikh Mohamed bin Zayed Al Nahyan. The aid, to be delivered through the UAE Aid Agency, includes food supplies and essential relief materials. The Agency will coordinate with Lebanon&#8217;s Higher Relief Council to ensure the timely distribution of assistance and help meet urgent humanitarian needs. Chairman of the UAE Aid Agency, Tareq Ahmed Al Ameri, said the UAE remains committed to providing rapid humanitarian assistance during crises and disasters. He said the initiative supports affected communities by ensuring access to essential needs such as food, medicine, clothing and shelter, while also contributing to early recovery efforts. The Lebanese Ambassador to the UAE, Tariq Hassan Munaymina, thanked the UAE leadership, government and people for their continued solidarity with Lebanon. He said, &#8220;The UAE has consistently stood by the Lebanese people, helping the country address urgent humanitarian needs while supporting peace, stability, development and prosperity.&#8221; The latest assistance builds on the UAE&#8217;s long record of humanitarian and development support for Lebanon, including the &#8220;UAE Stands with Lebanon&#8221; campaign launched during previous crises. The announcement comes as the UAE has also eased travel restrictions to Lebanon. From July 7, 2026, UAE citizens are permitted to travel to Lebanon after several years, subject to mandatory registration through the Ministry of Foreign Affairs&#8217; Twajudi service and compliance with official travel guidelines. The move reflects improving bilateral relations while ensuring the safety and security of Emirati travellers.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:05:34+00:00",
+        "link": "https://newsonair.gov.in/uae-announces-fresh-humanitarian-assistance-package-for-lebanon/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Rashtriya Gramin Vikas Sammelan 2026 concludes with focus on Viksit Gram, Viksit Bharat",
+        "summary": "The Rashtriya Gramin Vikas Sammelan (RGVS) 2026, organised by the Ministry of Rural Development and aligned with Prime Minister Shri Narendra Modi’s vision of rural transformation, concluded with a shared commitment to accelerate the vision of Viksit Gram, Viksit Bharat through stronger Centre-State collaboration, community-led development and technology-driven governance. The two-day national con",
+        "article": "The Rashtriya Gramin Vikas Sammelan (RGVS) 2026, organised by the Ministry of Rural Development and aligned with Prime Minister Shri Narendra Modi’s vision of rural transformation, concluded with a shared commitment to accelerate the vision of Viksit Gram, Viksit Bharat through stronger Centre-State collaboration, community-led development and technology-driven governance. The two-day national conclave served as a platform to review the implementation of flagship rural development programmes, exchange best practices across States and Union Territories, and deliberate on the roadmap for the next phase of rural transformation. A primary focus of the Sammelan was the effective implementation of the VB-GRAMG Act, 2025. Deliberations also centred on strengthening rural development planning, empowering Gram Panchayats, expanding women-led livelihoods, enhancing rural housing and connectivity and promoting climate-resilient livelihoods. The Rashtriya Gramin Vikas Sammelan reaffirmed the Ministry&#8217;s commitment to building community institutions, expanding sustainable livelihoods, and creating wider market opportunities. The deliberations underscored the importance of collaborative action between the Centre and States in translating development goals into inclusive, self-reliant rural economic growth.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:46:39+00:00",
+        "link": "https://newsonair.gov.in/rashtriya-gramin-vikas-sammelan-2026-concludes-with-focus-on-viksit-gram-viksit-bharat/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government extends GSTAT appeal filing deadline till 31 July",
+        "summary": "The Government has extended the due date for filing of appeals before the Goods and Services Tax Appellate Tribunal (GSTAT) till 31st of next month. According to the Ministry of Finance, earlier notification dated September last year had notified today (30.06.2026) as the last date for filing of appeals before GSTAT. It is noted that [&#8230;]",
+        "article": "The Government has extended the due date for filing of appeals before the Goods and Services Tax Appellate Tribunal (GSTAT) till 31st of next month. According to the Ministry of Finance, earlier notification dated September last year had notified today (30.06.2026) as the last date for filing of appeals before GSTAT. It is noted that the due date has been extended in view of the recent representations from various stakeholders, highlighting technical difficulties due to the rush to file appeals on the GSTAT portal. The government has also advised taxpayers to plan their appeal filings well in advance and not wait until the deadline.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:32:46+00:00",
+        "link": "https://newsonair.gov.in/government-extends-gstat-appeal-filing-deadline-till-31-july/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "breaking": [
+      {
+        "title": "Road Transport Minister Nitin Gadkari calls for greater public participation in road safety",
+        "summary": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being [&#8230;]",
+        "article": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being made to ensure international-standard road engineering, including proper signage, lane markings and underpasses. The Minister also called greater public participation in promoting road safety. Mr Gadkari also urged motorists to follow traffic rules, avoid overspeeding, wear helmets and seat belts, maintain lane discipline, and refrain from using mobile phones while driving.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:32:21+00:00",
+        "link": "https://newsonair.gov.in/road-transport-minister-nitin-gadkari-calls-for-greater-public-participation-in-road-safety/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Eurobank launches UPI-based remittance service for cross-border transfers from Greece to India",
+        "summary": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s strategic collaboration with the National Payments Corporation of India (NPCI) International Payments Limited. In a social media post, Commerce and Industry Minister Piyush Goyal said that the inauguration of Services at Eurobank marks [&#8230;]",
+        "article": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s strategic collaboration with the National Payments Corporation of India (NPCI) International Payments Limited. In a social media post, Commerce and Industry Minister Piyush Goyal said that the inauguration of Services at Eurobank marks another important milestone in the global expansion of India’s digital payment ecosystem. He added that with UPI now live in Greece, eligible customers can transfer money instantly, securely, and seamlessly, with transaction costs reducing drastically to a fraction of conventional transfer costs. Mr Goyal said that the increasing global acceptance and appreciation of UPI reflects the trust in Prime Minister Narendra Modi’s vision of building technology-led solutions that create value beyond borders and deepen partnerships for shared growth and prosperity. Mr Goyal also met the Chief Executive Officer of Eurobank, Fokion Karavias in Greece. During the meeting, both leaders held discussions on expanding the India-Greece economic partnership and encouraged Greek businesses to invest in India. He also explored avenues for collaboration in manufacturing and infrastructure development in Greece, advancing the shared vision for growth and prosperity.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:30:17+00:00",
+        "link": "https://newsonair.gov.in/eurobank-launches-upi-based-remittance-service-for-cross-border-transfers-from-greece-to-india/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "President Droupadi Murmu arrives in Visakhapatnam for Central Tribal University convocation",
+        "summary": "President Droupadi Murmu arrived in Visakhapatnam today to participate in the first convocation of the Central Tribal University of Andhra Pradesh. She was received at INS Dega by Andhra Pradesh Governor S. Abdul Nazeer. Several public representatives and senior officials were present on the occasion.",
+        "article": "President Droupadi Murmu arrived in Visakhapatnam today to participate in the first convocation of the Central Tribal University of Andhra Pradesh. She was received at INS Dega by Andhra Pradesh Governor S. Abdul Nazeer. Several public representatives and senior officials were present on the occasion.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:29:36+00:00",
+        "link": "https://newsonair.gov.in/president-droupadi-murmu-arrives-in-visakhapatnam-for-central-tribal-university-convocation/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India says FATF remains indispensable in fight against terror financing",
+        "summary": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terrorism financing and money laundering. &#160; The statement came after Pakistan criticised the FATF following the neighbouring country placement on the organisation&#8217;s grey list for increased monitoring. &#160; Speaking at a UN [&#8230;]",
+        "article": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terrorism financing and money laundering. &nbsp; The statement came after Pakistan criticised the FATF following the neighbouring country placement on the organisation&#8217;s grey list for increased monitoring. &nbsp; Speaking at a UN event on the sidelines of Counter-Terrorism Week, India’s Permanent Representative to the UN, P. Harish, said attempts to question FATF’s credibility reflect fear of scrutiny rather than genuine concerns. He said countries receiving adverse FATF assessments should address identified deficiencies and strengthen action against terror financing. &nbsp; Mr. Harish also outlined India’s efforts to strengthen its anti-money laundering framework, including tighter regulations for virtual asset service providers and cooperation with FATF on emerging financial risks",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:25:22+00:00",
+        "link": "https://newsonair.gov.in/india-says-fatf-remains-indispensable-in-fight-against-terror-financing/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg/960px-Mumbai_Bandra-Worli_Sea_Link.jpg",
+        "image_credit": "Wikipedia – Mumbai (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Health Minister Jagat Prakash Nadda addresses ILBS convocation in New Delhi",
+        "summary": "Union Health Minister Jagat Prakash Nadda today said the government has laid equal emphasis on strengthening healthcare infrastructure and skilled medical manpower in the country. Addressing the 10th Convocation of the Institute of Liver and Biliary Sciences (ILBS) in New Delhi, Mr Nadda said institutions like ILBS are playing a pioneering role in strengthening [&#8230;]",
+        "article": "Union Health Minister Jagat Prakash Nadda today said the government has laid equal emphasis on strengthening healthcare infrastructure and skilled medical manpower in the country. Addressing the 10th Convocation of the Institute of Liver and Biliary Sciences (ILBS) in New Delhi, Mr Nadda said institutions like ILBS are playing a pioneering role in strengthening the country&#8217;s healthcare ecosystem. He said the government, under the leadership of Prime Minister Narendra Modi, is focused on developing both healthcare infrastructure and skilled human resources in the health sector. Highlighting the expansion of medical education, Mr Nadda said India had only one AIIMS till the end of the 20th century. He noted that the expansion of AIIMS began under former Prime Minister Atal Bihari Vajpayee with the establishment of six new AIIMS, while the present government has further expanded the network across the country. The Union Minister said the number of medical colleges has increased from 387 in 2014 to 818 at present. He added that undergraduate medical seats have also risen from about 50 thousand to more than 1 lakh 20 thousand, significantly enhancing opportunities for aspiring doctors and strengthening the country&#8217;s healthcare workforce. Congratulating the graduating students, Mr Nadda said receiving a degree from a premier institution like ILBS is both a matter of pride and responsibility. He urged them to serve people with compassion, uphold the highest standards of professionalism, and contribute meaningfully to strengthening the country&#8217;s healthcare system throughout their careers.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:10:45+00:00",
+        "link": "https://newsonair.gov.in/union-health-minister-jagat-prakash-nadda-addresses-ilbs-convocation-in-new-delhi/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Rashtriya Gramin Vikas Sammelan 2026 concludes with focus on Viksit Gram, Viksit Bharat",
+        "summary": "The Rashtriya Gramin Vikas Sammelan (RGVS) 2026, organised by the Ministry of Rural Development and aligned with Prime Minister Shri Narendra Modi’s vision of rural transformation, concluded with a shared commitment to accelerate the vision of Viksit Gram, Viksit Bharat through stronger Centre-State collaboration, community-led development and technology-driven governance. The two-day national con",
+        "article": "The Rashtriya Gramin Vikas Sammelan (RGVS) 2026, organised by the Ministry of Rural Development and aligned with Prime Minister Shri Narendra Modi’s vision of rural transformation, concluded with a shared commitment to accelerate the vision of Viksit Gram, Viksit Bharat through stronger Centre-State collaboration, community-led development and technology-driven governance. The two-day national conclave served as a platform to review the implementation of flagship rural development programmes, exchange best practices across States and Union Territories, and deliberate on the roadmap for the next phase of rural transformation. A primary focus of the Sammelan was the effective implementation of the VB-GRAMG Act, 2025. Deliberations also centred on strengthening rural development planning, empowering Gram Panchayats, expanding women-led livelihoods, enhancing rural housing and connectivity and promoting climate-resilient livelihoods. The Rashtriya Gramin Vikas Sammelan reaffirmed the Ministry&#8217;s commitment to building community institutions, expanding sustainable livelihoods, and creating wider market opportunities. The deliberations underscored the importance of collaborative action between the Centre and States in translating development goals into inclusive, self-reliant rural economic growth.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:46:39+00:00",
+        "link": "https://newsonair.gov.in/rashtriya-gramin-vikas-sammelan-2026-concludes-with-focus-on-viksit-gram-viksit-bharat/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government extends GSTAT appeal filing deadline till 31 July",
+        "summary": "The Government has extended the due date for filing of appeals before the Goods and Services Tax Appellate Tribunal (GSTAT) till 31st of next month. According to the Ministry of Finance, earlier notification dated September last year had notified today (30.06.2026) as the last date for filing of appeals before GSTAT. It is noted that [&#8230;]",
+        "article": "The Government has extended the due date for filing of appeals before the Goods and Services Tax Appellate Tribunal (GSTAT) till 31st of next month. According to the Ministry of Finance, earlier notification dated September last year had notified today (30.06.2026) as the last date for filing of appeals before GSTAT. It is noted that the due date has been extended in view of the recent representations from various stakeholders, highlighting technical difficulties due to the rush to file appeals on the GSTAT portal. The government has also advised taxpayers to plan their appeal filings well in advance and not wait until the deadline.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:32:46+00:00",
+        "link": "https://newsonair.gov.in/government-extends-gstat-appeal-filing-deadline-till-31-july/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Agriculture Minister Shivraj Singh Chouhan says Viksit Bharat cannot be achieved without developing agriculture sector",
+        "summary": "Union Minister of Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan today emphasised that the vision of Viksit Bharat cannot be achieved without developing the agriculture sector. Addressing the closing ceremony of Khet Bachao Abhiyan in Hisar, Haryana, Mr Chouhan said that the government is working on developing a mobile app that will provide information [&#8230;]",
+        "article": "Union Minister of Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan today emphasised that the vision of Viksit Bharat cannot be achieved without developing the agriculture sector. Addressing the closing ceremony of Khet Bachao Abhiyan in Hisar, Haryana, Mr Chouhan said that the government is working on developing a mobile app that will provide information regarding soil and the amount of fertilizer the soil requires. He urged the farmers to use fertilisers and insecticides on their farms in a balanced manner in order to maintain the health of the soil. He also advised the farmers to adopt the practice of organic farming. During his address, Mr Chouhan said that the government is exploring ways to manage the impact of less rainfall due to the El Niño effect. He also hailed the farmers of Haryana for their contribution in bringing a revolution in India’s agriculture sector and keeping the food grain stocks of the country sufficient.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:32:07+00:00",
+        "link": "https://newsonair.gov.in/agriculture-minister-shivraj-singh-chouhan-says-viksit-bharat-cannot-be-achieved-without-developing-agriculture-sector/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Outgoing Army Chief General Upendra Dwivedi hands over charge to General Dhiraj Seth",
+        "summary": "Army Chief General Upendra Dwivedi today said that the Indian Army derives its strength not from any single individual but from the unwavering faith of its soldiers, commanders, veterans, families, and the citizens of the country. General Dwivedi said this while relinquishing the appointment as the Chief of Army Staff in New Delhi today. He [&#8230;]",
+        "article": "Army Chief General Upendra Dwivedi today said that the Indian Army derives its strength not from any single individual but from the unwavering faith of its soldiers, commanders, veterans, families, and the citizens of the country. General Dwivedi said this while relinquishing the appointment as the Chief of Army Staff in New Delhi today. He emphasised that serving in the Indian Army for over four decades has been his greatest privilege. General Dwivedi said that the Indian Army has progressively maintained its preparedness, balance, and vigilance on every front over the past two years. He noted that the Indian Army has executed its tasks with clear objectives, discipline, and a sense of responsibility regarding all matters of national security effectively. He emphasised that during this period, synergy among the Army, Navy, and Air Force has worked together with a shared vision, mutual trust, and enhanced coordination. While handing over the responsibility to New Army Chief General Dhiraj Seth, General Dwivedi said that General Seth is a seasoned soldier and a capable leader. He expressed confidence that the Indian Army will scale even greater heights while upholding its glorious traditions, professionalism, and resolve under the leadership of General Seth. As part of his farewell ceremony, Army Chief Dwivedi laid a wreath at the National War Memorial in New Delhi.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T06:30:51+00:00",
+        "link": "https://newsonair.gov.in/outgoing-army-chief-general-upendra-dwivedi-hands-over-charge-to-general-dhiraj-seth/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "HM Amit Shah, Defence Minister Rajnath Singh greet people on Guru Hargobind Sahib Ji Prakash Purb",
+        "summary": "Home Minister Amit Shah and Defence Minister Rajnath Singh today extended greetings on the occasion of Prakash Purb of the sixth Guru of Sikhism Guru Hargobind Sahib ji. In a social media post, Mr Shah hailed Guru Hargobind Sahib ji for laying the foundation of the Saint-Soldier tradition for the protection of religion, culture, and [&#8230;]",
+        "article": "Home Minister Amit Shah and Defence Minister Rajnath Singh today extended greetings on the occasion of Prakash Purb of the sixth Guru of Sikhism Guru Hargobind Sahib ji. In a social media post, Mr Shah hailed Guru Hargobind Sahib ji for laying the foundation of the Saint-Soldier tradition for the protection of religion, culture, and human values. The Home Minister added that by conveying the profound message of the extraordinary harmony between spiritual power and valor, Guru Hargobind Sahib ji established Sri Akal Takht Sahib and inspired society to stand against injustice. Defence Minister Rajnath Singh said that by donning two swords, Guru Hargobind Sahib ji demonstrated that standing fearlessly against injustice alongside spirituality is an integral part of faith. The Minister said that the Sikh Guru undertook extensive journeys for the propagation of religion and widely disseminated the values of truth, service, courage, and humanity. He also expressed hope that teachings of Guru Hargobind Sahib ji continue to inspire people to protect the faith, serve the afflicted, defend the motherland, and remain steadfast on the path of truth.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T05:55:43+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-defence-minister-rajnath-singh-greet-people-on-guru-hargobind-sahib-ji-prakash-purb/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "national": [
+      {
+        "title": "India says FATF remains indispensable in fight against terror financing",
+        "summary": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terrorism financing and money laundering. &#160; The statement came after Pakistan criticised the FATF following the neighbouring country placement on the organisation&#8217;s grey list for increased monitoring. &#160; Speaking at a UN [&#8230;]",
+        "article": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terrorism financing and money laundering. &nbsp; The statement came after Pakistan criticised the FATF following the neighbouring country placement on the organisation&#8217;s grey list for increased monitoring. &nbsp; Speaking at a UN event on the sidelines of Counter-Terrorism Week, India’s Permanent Representative to the UN, P. Harish, said attempts to question FATF’s credibility reflect fear of scrutiny rather than genuine concerns. He said countries receiving adverse FATF assessments should address identified deficiencies and strengthen action against terror financing. &nbsp; Mr. Harish also outlined India’s efforts to strengthen its anti-money laundering framework, including tighter regulations for virtual asset service providers and cooperation with FATF on emerging financial risks",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:25:22+00:00",
+        "link": "https://newsonair.gov.in/india-says-fatf-remains-indispensable-in-fight-against-terror-financing/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg/960px-Mumbai_Bandra-Worli_Sea_Link.jpg",
+        "image_credit": "Wikipedia – Mumbai (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Road Transport Minister Nitin Gadkari calls for greater public participation in road safety",
+        "summary": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being [&#8230;]",
+        "article": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being made to ensure international-standard road engineering, including proper signage, lane markings and underpasses. The Minister also called greater public participation in promoting road safety. Mr Gadkari also urged motorists to follow traffic rules, avoid overspeeding, wear helmets and seat belts, maintain lane discipline, and refrain from using mobile phones while driving.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:32:21+00:00",
+        "link": "https://newsonair.gov.in/road-transport-minister-nitin-gadkari-calls-for-greater-public-participation-in-road-safety/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Eurobank launches UPI-based remittance service for cross-border transfers from Greece to India",
+        "summary": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s strategic collaboration with the National Payments Corporation of India (NPCI) International Payments Limited. In a social media post, Commerce and Industry Minister Piyush Goyal said that the inauguration of Services at Eurobank marks [&#8230;]",
+        "article": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s strategic collaboration with the National Payments Corporation of India (NPCI) International Payments Limited. In a social media post, Commerce and Industry Minister Piyush Goyal said that the inauguration of Services at Eurobank marks another important milestone in the global expansion of India’s digital payment ecosystem. He added that with UPI now live in Greece, eligible customers can transfer money instantly, securely, and seamlessly, with transaction costs reducing drastically to a fraction of conventional transfer costs. Mr Goyal said that the increasing global acceptance and appreciation of UPI reflects the trust in Prime Minister Narendra Modi’s vision of building technology-led solutions that create value beyond borders and deepen partnerships for shared growth and prosperity. Mr Goyal also met the Chief Executive Officer of Eurobank, Fokion Karavias in Greece. During the meeting, both leaders held discussions on expanding the India-Greece economic partnership and encouraged Greek businesses to invest in India. He also explored avenues for collaboration in manufacturing and infrastructure development in Greece, advancing the shared vision for growth and prosperity.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:30:17+00:00",
+        "link": "https://newsonair.gov.in/eurobank-launches-upi-based-remittance-service-for-cross-border-transfers-from-greece-to-india/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "President Droupadi Murmu arrives in Visakhapatnam for Central Tribal University convocation",
+        "summary": "President Droupadi Murmu arrived in Visakhapatnam today to participate in the first convocation of the Central Tribal University of Andhra Pradesh. She was received at INS Dega by Andhra Pradesh Governor S. Abdul Nazeer. Several public representatives and senior officials were present on the occasion.",
+        "article": "President Droupadi Murmu arrived in Visakhapatnam today to participate in the first convocation of the Central Tribal University of Andhra Pradesh. She was received at INS Dega by Andhra Pradesh Governor S. Abdul Nazeer. Several public representatives and senior officials were present on the occasion.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:29:36+00:00",
+        "link": "https://newsonair.gov.in/president-droupadi-murmu-arrives-in-visakhapatnam-for-central-tribal-university-convocation/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Health Minister Jagat Prakash Nadda addresses ILBS convocation in New Delhi",
+        "summary": "Union Health Minister Jagat Prakash Nadda today said the government has laid equal emphasis on strengthening healthcare infrastructure and skilled medical manpower in the country. Addressing the 10th Convocation of the Institute of Liver and Biliary Sciences (ILBS) in New Delhi, Mr Nadda said institutions like ILBS are playing a pioneering role in strengthening [&#8230;]",
+        "article": "Union Health Minister Jagat Prakash Nadda today said the government has laid equal emphasis on strengthening healthcare infrastructure and skilled medical manpower in the country. Addressing the 10th Convocation of the Institute of Liver and Biliary Sciences (ILBS) in New Delhi, Mr Nadda said institutions like ILBS are playing a pioneering role in strengthening the country&#8217;s healthcare ecosystem. He said the government, under the leadership of Prime Minister Narendra Modi, is focused on developing both healthcare infrastructure and skilled human resources in the health sector. Highlighting the expansion of medical education, Mr Nadda said India had only one AIIMS till the end of the 20th century. He noted that the expansion of AIIMS began under former Prime Minister Atal Bihari Vajpayee with the establishment of six new AIIMS, while the present government has further expanded the network across the country. The Union Minister said the number of medical colleges has increased from 387 in 2014 to 818 at present. He added that undergraduate medical seats have also risen from about 50 thousand to more than 1 lakh 20 thousand, significantly enhancing opportunities for aspiring doctors and strengthening the country&#8217;s healthcare workforce. Congratulating the graduating students, Mr Nadda said receiving a degree from a premier institution like ILBS is both a matter of pride and responsibility. He urged them to serve people with compassion, uphold the highest standards of professionalism, and contribute meaningfully to strengthening the country&#8217;s healthcare system throughout their careers.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:10:45+00:00",
+        "link": "https://newsonair.gov.in/union-health-minister-jagat-prakash-nadda-addresses-ilbs-convocation-in-new-delhi/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Rashtriya Gramin Vikas Sammelan 2026 concludes with focus on Viksit Gram, Viksit Bharat",
+        "summary": "The Rashtriya Gramin Vikas Sammelan (RGVS) 2026, organised by the Ministry of Rural Development and aligned with Prime Minister Shri Narendra Modi’s vision of rural transformation, concluded with a shared commitment to accelerate the vision of Viksit Gram, Viksit Bharat through stronger Centre-State collaboration, community-led development and technology-driven governance. The two-day national con",
+        "article": "The Rashtriya Gramin Vikas Sammelan (RGVS) 2026, organised by the Ministry of Rural Development and aligned with Prime Minister Shri Narendra Modi’s vision of rural transformation, concluded with a shared commitment to accelerate the vision of Viksit Gram, Viksit Bharat through stronger Centre-State collaboration, community-led development and technology-driven governance. The two-day national conclave served as a platform to review the implementation of flagship rural development programmes, exchange best practices across States and Union Territories, and deliberate on the roadmap for the next phase of rural transformation. A primary focus of the Sammelan was the effective implementation of the VB-GRAMG Act, 2025. Deliberations also centred on strengthening rural development planning, empowering Gram Panchayats, expanding women-led livelihoods, enhancing rural housing and connectivity and promoting climate-resilient livelihoods. The Rashtriya Gramin Vikas Sammelan reaffirmed the Ministry&#8217;s commitment to building community institutions, expanding sustainable livelihoods, and creating wider market opportunities. The deliberations underscored the importance of collaborative action between the Centre and States in translating development goals into inclusive, self-reliant rural economic growth.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:46:39+00:00",
+        "link": "https://newsonair.gov.in/rashtriya-gramin-vikas-sammelan-2026-concludes-with-focus-on-viksit-gram-viksit-bharat/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government extends GSTAT appeal filing deadline till 31 July",
+        "summary": "The Government has extended the due date for filing of appeals before the Goods and Services Tax Appellate Tribunal (GSTAT) till 31st of next month. According to the Ministry of Finance, earlier notification dated September last year had notified today (30.06.2026) as the last date for filing of appeals before GSTAT. It is noted that [&#8230;]",
+        "article": "The Government has extended the due date for filing of appeals before the Goods and Services Tax Appellate Tribunal (GSTAT) till 31st of next month. According to the Ministry of Finance, earlier notification dated September last year had notified today (30.06.2026) as the last date for filing of appeals before GSTAT. It is noted that the due date has been extended in view of the recent representations from various stakeholders, highlighting technical difficulties due to the rush to file appeals on the GSTAT portal. The government has also advised taxpayers to plan their appeal filings well in advance and not wait until the deadline.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:32:46+00:00",
+        "link": "https://newsonair.gov.in/government-extends-gstat-appeal-filing-deadline-till-31-july/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Agriculture Minister Shivraj Singh Chouhan says Viksit Bharat cannot be achieved without developing agriculture sector",
+        "summary": "Union Minister of Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan today emphasised that the vision of Viksit Bharat cannot be achieved without developing the agriculture sector. Addressing the closing ceremony of Khet Bachao Abhiyan in Hisar, Haryana, Mr Chouhan said that the government is working on developing a mobile app that will provide information [&#8230;]",
+        "article": "Union Minister of Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan today emphasised that the vision of Viksit Bharat cannot be achieved without developing the agriculture sector. Addressing the closing ceremony of Khet Bachao Abhiyan in Hisar, Haryana, Mr Chouhan said that the government is working on developing a mobile app that will provide information regarding soil and the amount of fertilizer the soil requires. He urged the farmers to use fertilisers and insecticides on their farms in a balanced manner in order to maintain the health of the soil. He also advised the farmers to adopt the practice of organic farming. During his address, Mr Chouhan said that the government is exploring ways to manage the impact of less rainfall due to the El Niño effect. He also hailed the farmers of Haryana for their contribution in bringing a revolution in India’s agriculture sector and keeping the food grain stocks of the country sufficient.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:32:07+00:00",
+        "link": "https://newsonair.gov.in/agriculture-minister-shivraj-singh-chouhan-says-viksit-bharat-cannot-be-achieved-without-developing-agriculture-sector/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Outgoing Army Chief General Upendra Dwivedi hands over charge to General Dhiraj Seth",
+        "summary": "Army Chief General Upendra Dwivedi today said that the Indian Army derives its strength not from any single individual but from the unwavering faith of its soldiers, commanders, veterans, families, and the citizens of the country. General Dwivedi said this while relinquishing the appointment as the Chief of Army Staff in New Delhi today. He [&#8230;]",
+        "article": "Army Chief General Upendra Dwivedi today said that the Indian Army derives its strength not from any single individual but from the unwavering faith of its soldiers, commanders, veterans, families, and the citizens of the country. General Dwivedi said this while relinquishing the appointment as the Chief of Army Staff in New Delhi today. He emphasised that serving in the Indian Army for over four decades has been his greatest privilege. General Dwivedi said that the Indian Army has progressively maintained its preparedness, balance, and vigilance on every front over the past two years. He noted that the Indian Army has executed its tasks with clear objectives, discipline, and a sense of responsibility regarding all matters of national security effectively. He emphasised that during this period, synergy among the Army, Navy, and Air Force has worked together with a shared vision, mutual trust, and enhanced coordination. While handing over the responsibility to New Army Chief General Dhiraj Seth, General Dwivedi said that General Seth is a seasoned soldier and a capable leader. He expressed confidence that the Indian Army will scale even greater heights while upholding its glorious traditions, professionalism, and resolve under the leadership of General Seth. As part of his farewell ceremony, Army Chief Dwivedi laid a wreath at the National War Memorial in New Delhi.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T06:30:51+00:00",
+        "link": "https://newsonair.gov.in/outgoing-army-chief-general-upendra-dwivedi-hands-over-charge-to-general-dhiraj-seth/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "HM Amit Shah, Defence Minister Rajnath Singh greet people on Guru Hargobind Sahib Ji Prakash Purb",
+        "summary": "Home Minister Amit Shah and Defence Minister Rajnath Singh today extended greetings on the occasion of Prakash Purb of the sixth Guru of Sikhism Guru Hargobind Sahib ji. In a social media post, Mr Shah hailed Guru Hargobind Sahib ji for laying the foundation of the Saint-Soldier tradition for the protection of religion, culture, and [&#8230;]",
+        "article": "Home Minister Amit Shah and Defence Minister Rajnath Singh today extended greetings on the occasion of Prakash Purb of the sixth Guru of Sikhism Guru Hargobind Sahib ji. In a social media post, Mr Shah hailed Guru Hargobind Sahib ji for laying the foundation of the Saint-Soldier tradition for the protection of religion, culture, and human values. The Home Minister added that by conveying the profound message of the extraordinary harmony between spiritual power and valor, Guru Hargobind Sahib ji established Sri Akal Takht Sahib and inspired society to stand against injustice. Defence Minister Rajnath Singh said that by donning two swords, Guru Hargobind Sahib ji demonstrated that standing fearlessly against injustice alongside spirituality is an integral part of faith. The Minister said that the Sikh Guru undertook extensive journeys for the propagation of religion and widely disseminated the values of truth, service, courage, and humanity. He also expressed hope that teachings of Guru Hargobind Sahib ji continue to inspire people to protect the faith, serve the afflicted, defend the motherland, and remain steadfast on the path of truth.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T05:55:43+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-defence-minister-rajnath-singh-greet-people-on-guru-hargobind-sahib-ji-prakash-purb/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "politics": [
+      {
+        "title": "India says FATF remains indispensable in fight against terror financing",
+        "summary": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terrorism financing and money laundering. &#160; The statement came after Pakistan criticised the FATF following the neighbouring country placement on the organisation&#8217;s grey list for increased monitoring. &#160; Speaking at a UN [&#8230;]",
+        "article": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terrorism financing and money laundering. &nbsp; The statement came after Pakistan criticised the FATF following the neighbouring country placement on the organisation&#8217;s grey list for increased monitoring. &nbsp; Speaking at a UN event on the sidelines of Counter-Terrorism Week, India’s Permanent Representative to the UN, P. Harish, said attempts to question FATF’s credibility reflect fear of scrutiny rather than genuine concerns. He said countries receiving adverse FATF assessments should address identified deficiencies and strengthen action against terror financing. &nbsp; Mr. Harish also outlined India’s efforts to strengthen its anti-money laundering framework, including tighter regulations for virtual asset service providers and cooperation with FATF on emerging financial risks",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:25:22+00:00",
+        "link": "https://newsonair.gov.in/india-says-fatf-remains-indispensable-in-fight-against-terror-financing/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg/960px-Mumbai_Bandra-Worli_Sea_Link.jpg",
+        "image_credit": "Wikipedia – Mumbai (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Road Transport Minister Nitin Gadkari calls for greater public participation in road safety",
+        "summary": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being [&#8230;]",
+        "article": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being made to ensure international-standard road engineering, including proper signage, lane markings and underpasses. The Minister also called greater public participation in promoting road safety. Mr Gadkari also urged motorists to follow traffic rules, avoid overspeeding, wear helmets and seat belts, maintain lane discipline, and refrain from using mobile phones while driving.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:32:21+00:00",
+        "link": "https://newsonair.gov.in/road-transport-minister-nitin-gadkari-calls-for-greater-public-participation-in-road-safety/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Eurobank launches UPI-based remittance service for cross-border transfers from Greece to India",
+        "summary": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s strategic collaboration with the National Payments Corporation of India (NPCI) International Payments Limited. In a social media post, Commerce and Industry Minister Piyush Goyal said that the inauguration of Services at Eurobank marks [&#8230;]",
+        "article": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s strategic collaboration with the National Payments Corporation of India (NPCI) International Payments Limited. In a social media post, Commerce and Industry Minister Piyush Goyal said that the inauguration of Services at Eurobank marks another important milestone in the global expansion of India’s digital payment ecosystem. He added that with UPI now live in Greece, eligible customers can transfer money instantly, securely, and seamlessly, with transaction costs reducing drastically to a fraction of conventional transfer costs. Mr Goyal said that the increasing global acceptance and appreciation of UPI reflects the trust in Prime Minister Narendra Modi’s vision of building technology-led solutions that create value beyond borders and deepen partnerships for shared growth and prosperity. Mr Goyal also met the Chief Executive Officer of Eurobank, Fokion Karavias in Greece. During the meeting, both leaders held discussions on expanding the India-Greece economic partnership and encouraged Greek businesses to invest in India. He also explored avenues for collaboration in manufacturing and infrastructure development in Greece, advancing the shared vision for growth and prosperity.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:30:17+00:00",
+        "link": "https://newsonair.gov.in/eurobank-launches-upi-based-remittance-service-for-cross-border-transfers-from-greece-to-india/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "President Droupadi Murmu arrives in Visakhapatnam for Central Tribal University convocation",
+        "summary": "President Droupadi Murmu arrived in Visakhapatnam today to participate in the first convocation of the Central Tribal University of Andhra Pradesh. She was received at INS Dega by Andhra Pradesh Governor S. Abdul Nazeer. Several public representatives and senior officials were present on the occasion.",
+        "article": "President Droupadi Murmu arrived in Visakhapatnam today to participate in the first convocation of the Central Tribal University of Andhra Pradesh. She was received at INS Dega by Andhra Pradesh Governor S. Abdul Nazeer. Several public representatives and senior officials were present on the occasion.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:29:36+00:00",
+        "link": "https://newsonair.gov.in/president-droupadi-murmu-arrives-in-visakhapatnam-for-central-tribal-university-convocation/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Health Minister Jagat Prakash Nadda addresses ILBS convocation in New Delhi",
+        "summary": "Union Health Minister Jagat Prakash Nadda today said the government has laid equal emphasis on strengthening healthcare infrastructure and skilled medical manpower in the country. Addressing the 10th Convocation of the Institute of Liver and Biliary Sciences (ILBS) in New Delhi, Mr Nadda said institutions like ILBS are playing a pioneering role in strengthening [&#8230;]",
+        "article": "Union Health Minister Jagat Prakash Nadda today said the government has laid equal emphasis on strengthening healthcare infrastructure and skilled medical manpower in the country. Addressing the 10th Convocation of the Institute of Liver and Biliary Sciences (ILBS) in New Delhi, Mr Nadda said institutions like ILBS are playing a pioneering role in strengthening the country&#8217;s healthcare ecosystem. He said the government, under the leadership of Prime Minister Narendra Modi, is focused on developing both healthcare infrastructure and skilled human resources in the health sector. Highlighting the expansion of medical education, Mr Nadda said India had only one AIIMS till the end of the 20th century. He noted that the expansion of AIIMS began under former Prime Minister Atal Bihari Vajpayee with the establishment of six new AIIMS, while the present government has further expanded the network across the country. The Union Minister said the number of medical colleges has increased from 387 in 2014 to 818 at present. He added that undergraduate medical seats have also risen from about 50 thousand to more than 1 lakh 20 thousand, significantly enhancing opportunities for aspiring doctors and strengthening the country&#8217;s healthcare workforce. Congratulating the graduating students, Mr Nadda said receiving a degree from a premier institution like ILBS is both a matter of pride and responsibility. He urged them to serve people with compassion, uphold the highest standards of professionalism, and contribute meaningfully to strengthening the country&#8217;s healthcare system throughout their careers.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:10:45+00:00",
+        "link": "https://newsonair.gov.in/union-health-minister-jagat-prakash-nadda-addresses-ilbs-convocation-in-new-delhi/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Rashtriya Gramin Vikas Sammelan 2026 concludes with focus on Viksit Gram, Viksit Bharat",
+        "summary": "The Rashtriya Gramin Vikas Sammelan (RGVS) 2026, organised by the Ministry of Rural Development and aligned with Prime Minister Shri Narendra Modi’s vision of rural transformation, concluded with a shared commitment to accelerate the vision of Viksit Gram, Viksit Bharat through stronger Centre-State collaboration, community-led development and technology-driven governance. The two-day national con",
+        "article": "The Rashtriya Gramin Vikas Sammelan (RGVS) 2026, organised by the Ministry of Rural Development and aligned with Prime Minister Shri Narendra Modi’s vision of rural transformation, concluded with a shared commitment to accelerate the vision of Viksit Gram, Viksit Bharat through stronger Centre-State collaboration, community-led development and technology-driven governance. The two-day national conclave served as a platform to review the implementation of flagship rural development programmes, exchange best practices across States and Union Territories, and deliberate on the roadmap for the next phase of rural transformation. A primary focus of the Sammelan was the effective implementation of the VB-GRAMG Act, 2025. Deliberations also centred on strengthening rural development planning, empowering Gram Panchayats, expanding women-led livelihoods, enhancing rural housing and connectivity and promoting climate-resilient livelihoods. The Rashtriya Gramin Vikas Sammelan reaffirmed the Ministry&#8217;s commitment to building community institutions, expanding sustainable livelihoods, and creating wider market opportunities. The deliberations underscored the importance of collaborative action between the Centre and States in translating development goals into inclusive, self-reliant rural economic growth.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:46:39+00:00",
+        "link": "https://newsonair.gov.in/rashtriya-gramin-vikas-sammelan-2026-concludes-with-focus-on-viksit-gram-viksit-bharat/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government extends GSTAT appeal filing deadline till 31 July",
+        "summary": "The Government has extended the due date for filing of appeals before the Goods and Services Tax Appellate Tribunal (GSTAT) till 31st of next month. According to the Ministry of Finance, earlier notification dated September last year had notified today (30.06.2026) as the last date for filing of appeals before GSTAT. It is noted that [&#8230;]",
+        "article": "The Government has extended the due date for filing of appeals before the Goods and Services Tax Appellate Tribunal (GSTAT) till 31st of next month. According to the Ministry of Finance, earlier notification dated September last year had notified today (30.06.2026) as the last date for filing of appeals before GSTAT. It is noted that the due date has been extended in view of the recent representations from various stakeholders, highlighting technical difficulties due to the rush to file appeals on the GSTAT portal. The government has also advised taxpayers to plan their appeal filings well in advance and not wait until the deadline.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:32:46+00:00",
+        "link": "https://newsonair.gov.in/government-extends-gstat-appeal-filing-deadline-till-31-july/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Agriculture Minister Shivraj Singh Chouhan says Viksit Bharat cannot be achieved without developing agriculture sector",
+        "summary": "Union Minister of Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan today emphasised that the vision of Viksit Bharat cannot be achieved without developing the agriculture sector. Addressing the closing ceremony of Khet Bachao Abhiyan in Hisar, Haryana, Mr Chouhan said that the government is working on developing a mobile app that will provide information [&#8230;]",
+        "article": "Union Minister of Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan today emphasised that the vision of Viksit Bharat cannot be achieved without developing the agriculture sector. Addressing the closing ceremony of Khet Bachao Abhiyan in Hisar, Haryana, Mr Chouhan said that the government is working on developing a mobile app that will provide information regarding soil and the amount of fertilizer the soil requires. He urged the farmers to use fertilisers and insecticides on their farms in a balanced manner in order to maintain the health of the soil. He also advised the farmers to adopt the practice of organic farming. During his address, Mr Chouhan said that the government is exploring ways to manage the impact of less rainfall due to the El Niño effect. He also hailed the farmers of Haryana for their contribution in bringing a revolution in India’s agriculture sector and keeping the food grain stocks of the country sufficient.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:32:07+00:00",
+        "link": "https://newsonair.gov.in/agriculture-minister-shivraj-singh-chouhan-says-viksit-bharat-cannot-be-achieved-without-developing-agriculture-sector/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Outgoing Army Chief General Upendra Dwivedi hands over charge to General Dhiraj Seth",
+        "summary": "Army Chief General Upendra Dwivedi today said that the Indian Army derives its strength not from any single individual but from the unwavering faith of its soldiers, commanders, veterans, families, and the citizens of the country. General Dwivedi said this while relinquishing the appointment as the Chief of Army Staff in New Delhi today. He [&#8230;]",
+        "article": "Army Chief General Upendra Dwivedi today said that the Indian Army derives its strength not from any single individual but from the unwavering faith of its soldiers, commanders, veterans, families, and the citizens of the country. General Dwivedi said this while relinquishing the appointment as the Chief of Army Staff in New Delhi today. He emphasised that serving in the Indian Army for over four decades has been his greatest privilege. General Dwivedi said that the Indian Army has progressively maintained its preparedness, balance, and vigilance on every front over the past two years. He noted that the Indian Army has executed its tasks with clear objectives, discipline, and a sense of responsibility regarding all matters of national security effectively. He emphasised that during this period, synergy among the Army, Navy, and Air Force has worked together with a shared vision, mutual trust, and enhanced coordination. While handing over the responsibility to New Army Chief General Dhiraj Seth, General Dwivedi said that General Seth is a seasoned soldier and a capable leader. He expressed confidence that the Indian Army will scale even greater heights while upholding its glorious traditions, professionalism, and resolve under the leadership of General Seth. As part of his farewell ceremony, Army Chief Dwivedi laid a wreath at the National War Memorial in New Delhi.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T06:30:51+00:00",
+        "link": "https://newsonair.gov.in/outgoing-army-chief-general-upendra-dwivedi-hands-over-charge-to-general-dhiraj-seth/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "HM Amit Shah, Defence Minister Rajnath Singh greet people on Guru Hargobind Sahib Ji Prakash Purb",
+        "summary": "Home Minister Amit Shah and Defence Minister Rajnath Singh today extended greetings on the occasion of Prakash Purb of the sixth Guru of Sikhism Guru Hargobind Sahib ji. In a social media post, Mr Shah hailed Guru Hargobind Sahib ji for laying the foundation of the Saint-Soldier tradition for the protection of religion, culture, and [&#8230;]",
+        "article": "Home Minister Amit Shah and Defence Minister Rajnath Singh today extended greetings on the occasion of Prakash Purb of the sixth Guru of Sikhism Guru Hargobind Sahib ji. In a social media post, Mr Shah hailed Guru Hargobind Sahib ji for laying the foundation of the Saint-Soldier tradition for the protection of religion, culture, and human values. The Home Minister added that by conveying the profound message of the extraordinary harmony between spiritual power and valor, Guru Hargobind Sahib ji established Sri Akal Takht Sahib and inspired society to stand against injustice. Defence Minister Rajnath Singh said that by donning two swords, Guru Hargobind Sahib ji demonstrated that standing fearlessly against injustice alongside spirituality is an integral part of faith. The Minister said that the Sikh Guru undertook extensive journeys for the propagation of religion and widely disseminated the values of truth, service, courage, and humanity. He also expressed hope that teachings of Guru Hargobind Sahib ji continue to inspire people to protect the faith, serve the afflicted, defend the motherland, and remain steadfast on the path of truth.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T05:55:43+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-defence-minister-rajnath-singh-greet-people-on-guru-hargobind-sahib-ji-prakash-purb/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "world": [
+      {
+        "title": "India says FATF remains indispensable in fight against terror financing",
+        "summary": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terrorism financing and money laundering. &#160; The statement came after Pakistan criticised the FATF following the neighbouring country placement on the organisation&#8217;s grey list for increased monitoring. &#160; Speaking at a UN [&#8230;]",
+        "article": "India has reaffirmed its strong support for the Financial Action Task Force, describing it as an indispensable pillar of the global fight against terrorism financing and money laundering. &nbsp; The statement came after Pakistan criticised the FATF following the neighbouring country placement on the organisation&#8217;s grey list for increased monitoring. &nbsp; Speaking at a UN event on the sidelines of Counter-Terrorism Week, India’s Permanent Representative to the UN, P. Harish, said attempts to question FATF’s credibility reflect fear of scrutiny rather than genuine concerns. He said countries receiving adverse FATF assessments should address identified deficiencies and strengthen action against terror financing. &nbsp; Mr. Harish also outlined India’s efforts to strengthen its anti-money laundering framework, including tighter regulations for virtual asset service providers and cooperation with FATF on emerging financial risks",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:25:22+00:00",
+        "link": "https://newsonair.gov.in/india-says-fatf-remains-indispensable-in-fight-against-terror-financing/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/India_Gate_%28All_India_War_Memorial%29.jpg/960px-India_Gate_%28All_India_War_Memorial%29.jpg",
+        "image_credit": "Wikipedia – India Gate (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Uncertainty looms over US and Iran peace negoatiations, as Tehran rejects meeting in Doha",
+        "summary": "Diplomatic efforts to reduce tensions in West Asia have encountered an early hurdle as the United States and Iran offer conflicting accounts of the next stage of discussions in Doha. Uncertainty has grown over the future of U.S.-Iran engagement after President Donald Trump indicated that fresh talks could be held in Doha. However, Tehran [&#8230;]",
+        "article": "Diplomatic efforts to reduce tensions in West Asia have encountered an early hurdle as the United States and Iran offer conflicting accounts of the next stage of discussions in Doha. Uncertainty has grown over the future of U.S.-Iran engagement after President Donald Trump indicated that fresh talks could be held in Doha. However, Tehran has firmly rejected the claim, saying no negotiations with the United States are currently planned. Iranian officials maintain that their immediate focus is on implementing the 14-point memorandum of understanding before considering discussions on a broader or final agreement. In a fresh diplomatic twist, U.S. President Donald Trump says an Iranian delegation requested high-level face-to-face talks in Qatar to move forward with the recently announced interim memorandum of understanding aimed at easing tensions in West Asia. But Tehran has denied that claim. Iranian officials say their delegation is travelling to Doha only for technical discussions on implementing the existing agreement and that no direct negotiations with U.S. officials are planned. Iranian President Masoud Pezeshkian has also made it clear that Tehran will honour its commitments only if Washington fulfils its own obligations, including easing sanctions and releasing Iranian assets. The contrasting statements underline how fragile the diplomatic process remains despite recent efforts to reduce regional tensions. The uncertain diplomatic atmosphere comes as security concerns continue across the region. In Lebanon, debate is growing over a U.S.-backed proposal aimed at securing a longer-term ceasefire with Israel. Lebanese Parliament Speaker Nabih Berri has criticised the proposal, saying it does not adequately protect Lebanon&#8217;s interests, particularly provisions linking an Israeli military withdrawal to the disarmament of Hezbollah. Fresh Israeli airstrikes were also reported in southern Lebanon, while Hezbollah said it retains the right to defend the country.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:55:14+00:00",
+        "link": "https://newsonair.gov.in/us-iran-offer-conflicting-accounts-on-next-stage-of-discussions-in-doha/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Blank_Fork.png",
+        "image_credit": "Wikipedia – Uncertainty (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "World leaders condemn Pakistani airstrikes in Afghanistan",
+        "summary": "Several world leaders and the international community have condemned Pakistani military airstrikes in Afghanistan&#8217;s provinces of Paktia, Paktika and Kunar, which killed and injured civilians, including women and children. The remarks came after Taliban Deputy Spokesman Hamdullah Fitrat said the airstrikes, carried out on the night of June 28, killed 36 civilians and injured 163 [&#8230;]",
+        "article": "Several world leaders and the international community have condemned Pakistani military airstrikes in Afghanistan&#8217;s provinces of Paktia, Paktika and Kunar, which killed and injured civilians, including women and children. The remarks came after Taliban Deputy Spokesman Hamdullah Fitrat said the airstrikes, carried out on the night of June 28, killed 36 civilians and injured 163 others as well as the complete destruction of three residential houses. Expressing grave concern over the violence, António Guterres, the Secretary-General of the United Nations, called for an immediate end to hostilities and urged all sides to protect civilians. The European Union also called for immediate de-escalation and restraint. It stressed the need to protect civilians and ensure respect for international humanitarian law, saying it must be observed at all times. Earlier yesterday, the Afghan Ministry of Foreign Affairs summoned the Chargé d’Affaires of the Embassy of Pakistan in Kabul and conveyed its strong and unequivocal protest regarding the violation of Afghanistan’s airspace and the aerial bombardment of civilian homes in Kunar, Paktia, and Paktika provinces.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:36:06+00:00",
+        "link": "https://newsonair.gov.in/world-leaders-condemn-pakistani-airstrikes-in-afghanistan/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field.jpg/960px-Hubble_ultra_deep_field.jpg",
+        "image_credit": "Wikipedia – World (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "US and Iran to hold talks in Doha on Strait of Hormuz dispute today",
+        "summary": "The United States and Iran will hold talks in Qatar&#8217;s capital, Doha, today to resolve their dispute over the Strait of Hormuz. The meeting comes amid renewed tensions between the US and Iran over the waterway, through which 20% of the world’s crude oil flows. The dangerous period of violence that began Thursday disrupted [&#8230;]",
+        "article": "The United States and Iran will hold talks in Qatar&#8217;s capital, Doha, today to resolve their dispute over the Strait of Hormuz. The meeting comes amid renewed tensions between the US and Iran over the waterway, through which 20% of the world’s crude oil flows. The dangerous period of violence that began Thursday disrupted US President Donald Trump’s attempt to end hostilities with Iran and negotiate a settlement that addresses Tehran’s nuclear program. Traffic in the Strait of Hormuz fell during the tit-for-tat strikes, slowing the recovery of the waterway. Iran and US exchanged missile strikes over the weekend, collapsing trade in the Strait of Hormuz for multiple days. US and Iranian officials agreed to a temporary ceasefire yesterday after President Trump threatened to escalate the conflict. The renewed fighting stemmed from differing interpretations of the memorandum of understanding (MoU) signed earlier this month to end the conflict, particularly Article 5 dealing with navigation through the Strait of Hormuz. Under the agreement, Iran committed to making its best efforts to ensure the safe passage of commercial vessels through the strategic waterway, while the United States agreed to lift its blockade of Iranian ports. During negotiations in Switzerland, the US delegation, led by Vice President JD Vance, also agreed to establish a direct hotline between the US military and Iran&#8217;s Islamic Revolutionary Guard Corps (IRGC) to coordinate shipping traffic through the Strait of Hormuz. However, US officials said the communication channel is still not operational as Iran renewed its insistence that ships must coordinate their passage with Tehran.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T05:45:59+00:00",
+        "link": "https://newsonair.gov.in/us-and-iran-to-hold-talks-in-doha-on-strait-of-hormuz-dispute-today/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ISS-44_Strait_of_Gibraltar.jpg/960px-ISS-44_Strait_of_Gibraltar.jpg",
+        "image_credit": "Wikipedia – Strait (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM S Jaishankar extends wishes to Congo on Independence Day",
+        "summary": "External Affairs Minister S Jaishankar has extended greetings to Foreign Minister Thérèse Kayikwamba Wagner, the Government and the people of Congo on the occasion of the country&#8217;s Independence Day. In a social media post, Dr Jaishankar said that India looks forward to deepening its bilateral ties and development partnership between two nations.",
+        "article": "External Affairs Minister S Jaishankar has extended greetings to Foreign Minister Thérèse Kayikwamba Wagner, the Government and the people of Congo on the occasion of the country&#8217;s Independence Day. In a social media post, Dr Jaishankar said that India looks forward to deepening its bilateral ties and development partnership between two nations.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T05:39:36+00:00",
+        "link": "https://newsonair.gov.in/eam-s-jaishankar-extends-wishes-to-congo-on-independence-day/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Disambiguator_map_for_countries_named_Congo.svg/960px-Disambiguator_map_for_countries_named_Congo.svg.png",
+        "image_credit": "Wikipedia – Congo (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Eurobank launches UPI-based remittance service for cross-border transfers from Greece to India",
+        "summary": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s strategic collaboration with the National Payments Corporation of India (NPCI) International Payments Limited. In a social media post, Commerce and Industry Minister Piyush Goyal said that the inauguration of Services at Eurobank marks [&#8230;]",
+        "article": "The Eurobank has launched the UPI-based remittance service for cross-border transfers from Greece to India. The initiative is part of the bank&#8217;s strategic collaboration with the National Payments Corporation of India (NPCI) International Payments Limited. In a social media post, Commerce and Industry Minister Piyush Goyal said that the inauguration of Services at Eurobank marks another important milestone in the global expansion of India’s digital payment ecosystem. He added that with UPI now live in Greece, eligible customers can transfer money instantly, securely, and seamlessly, with transaction costs reducing drastically to a fraction of conventional transfer costs. Mr Goyal said that the increasing global acceptance and appreciation of UPI reflects the trust in Prime Minister Narendra Modi’s vision of building technology-led solutions that create value beyond borders and deepen partnerships for shared growth and prosperity. Mr Goyal also met the Chief Executive Officer of Eurobank, Fokion Karavias in Greece. During the meeting, both leaders held discussions on expanding the India-Greece economic partnership and encouraged Greek businesses to invest in India. He also explored avenues for collaboration in manufacturing and infrastructure development in Greece, advancing the shared vision for growth and prosperity.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:30:17+00:00",
+        "link": "https://newsonair.gov.in/eurobank-launches-upi-based-remittance-service-for-cross-border-transfers-from-greece-to-india/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "UAE announces fresh humanitarian assistance package for Lebanon",
+        "summary": "The UAE has announced a fresh humanitarian assistance package for people affected by the ongoing crisis in Lebanon, reaffirming its long-standing commitment to supporting the Lebanese people. The assistance is announced under the directives of President Sheikh Mohamed bin Zayed Al Nahyan. The aid, to be delivered through the UAE Aid Agency, includes food [&#8230;]",
+        "article": "The UAE has announced a fresh humanitarian assistance package for people affected by the ongoing crisis in Lebanon, reaffirming its long-standing commitment to supporting the Lebanese people. The assistance is announced under the directives of President Sheikh Mohamed bin Zayed Al Nahyan. The aid, to be delivered through the UAE Aid Agency, includes food supplies and essential relief materials. The Agency will coordinate with Lebanon&#8217;s Higher Relief Council to ensure the timely distribution of assistance and help meet urgent humanitarian needs. Chairman of the UAE Aid Agency, Tareq Ahmed Al Ameri, said the UAE remains committed to providing rapid humanitarian assistance during crises and disasters. He said the initiative supports affected communities by ensuring access to essential needs such as food, medicine, clothing and shelter, while also contributing to early recovery efforts. The Lebanese Ambassador to the UAE, Tariq Hassan Munaymina, thanked the UAE leadership, government and people for their continued solidarity with Lebanon. He said, &#8220;The UAE has consistently stood by the Lebanese people, helping the country address urgent humanitarian needs while supporting peace, stability, development and prosperity.&#8221; The latest assistance builds on the UAE&#8217;s long record of humanitarian and development support for Lebanon, including the &#8220;UAE Stands with Lebanon&#8221; campaign launched during previous crises. The announcement comes as the UAE has also eased travel restrictions to Lebanon. From July 7, 2026, UAE citizens are permitted to travel to Lebanon after several years, subject to mandatory registration through the Ministry of Foreign Affairs&#8217; Twajudi service and compliance with official travel guidelines. The move reflects improving bilateral relations while ensuring the safety and security of Emirati travellers.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T08:05:34+00:00",
+        "link": "https://newsonair.gov.in/uae-announces-fresh-humanitarian-assistance-package-for-lebanon/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "US Supreme Court blocks President Donald Trump from firing Fed Governor Lisa Cook",
+        "summary": "The US Supreme Court refused to let President Donald Trump fire Federal Reserve Governor Lisa Cook as it stood firm to preserve the central bank&#8217;s cherished independence against an unprecedented challenge by the Republican president. The court, in a 5-4 ruling, blocked Trump from removing Cook for now, providing a safeguard for the Fed [&#8230;]",
+        "article": "The US Supreme Court refused to let President Donald Trump fire Federal Reserve Governor Lisa Cook as it stood firm to preserve the central bank&#8217;s cherished independence against an unprecedented challenge by the Republican president. The court, in a 5-4 ruling, blocked Trump from removing Cook for now, providing a safeguard for the Fed specifically, even as it boosted the president&#8217;s power over government in a separate landmark ruling yesterday. In that ruling, involving Trump&#8217;s dismissal of a Federal Trade Commission member, the court expanded presidential authority to fire leaders of other US agencies, overturning ​a precedent dating to 1935 in the process. No other president since the central bank&#8217;s founding in 1913 had sought to oust a Fed governor. In his second term as president, Trump has tested the limits of presidential power in numerous other ways as well. Conservative Chief Justice John Roberts, who authored the ruling, said Trump ‌had failed to afford Cook the procedural protections to which she was entitled by statute. Without such protections, she could not properly dispute the charges the president laid against her. Trump last August cited unproven mortgage fraud allegations in trying to oust Cook, the first Black woman to serve as a Fed governor. Cook denied the allegations, calling them a pretext to remove her for monetary policy differences.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T05:54:19+00:00",
+        "link": "https://newsonair.gov.in/us-supreme-court-blocks-president-donald-trump-from-firing-fed-governor-lisa-cook/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India intensifies relief efforts in earthquake-hit Venezuela under Operation Amistad",
+        "summary": "India has intensified its humanitarian assistance to earthquake-hit Venezuela under Operation Amistad. The Ministry of External Affairs said that India has extended relief efforts with a focus on medical assistance and emergency support for those affected by the disaster. The ministry said, Indian rescue and medical teams, working alongside the Venezuelan authorities, are providing [&#8230;]",
+        "article": "India has intensified its humanitarian assistance to earthquake-hit Venezuela under Operation Amistad. The Ministry of External Affairs said that India has extended relief efforts with a focus on medical assistance and emergency support for those affected by the disaster. The ministry said, Indian rescue and medical teams, working alongside the Venezuelan authorities, are providing emergency healthcare, conducting search and rescue operations, and delivering life-saving humanitarian assistance to affected communities. It also noted that the Indian Army Field Hospital is operational and is providing medical care to those injured in the disaster. Earlier yesterday, India had deployed two Indian Air Force C-17 Globemaster aircraft carrying a 41-member rescue team, an Indian Army Field Hospital, 30 tonnes of relief material, six tonnes of medicines and medical equipment, and two BHISHM Cube portable hospitals to strengthen relief and rescue operations in the South American nation.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T05:52:39+00:00",
+        "link": "https://newsonair.gov.in/india-intensifies-relief-efforts-in-earthquake-hit-venezuela-under-operation-amistad/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India strongly condemns air-strikes by Pakistan on Afghan territory : MEA",
+        "summary": "India has strongly condemned Pakistan’s air-strikes in residential areas of Afghanistan that killed 36 civilians, including women and children, and injured 163 others. In a statement, the External Affairs Ministry said that this blatant act of aggression by Pakistan is an assault on Afghanistan&#8217;s sovereignty and a direct threat to regional peace and stability. It [&#8230;]",
+        "article": "India has strongly condemned Pakistan’s air-strikes in residential areas of Afghanistan that killed 36 civilians, including women and children, and injured 163 others. In a statement, the External Affairs Ministry said that this blatant act of aggression by Pakistan is an assault on Afghanistan&#8217;s sovereignty and a direct threat to regional peace and stability. It reflects Pakistan&#8217;s persistent pattern of reckless behaviour and its futile attempt to externalize internal failures through desperate acts of violence beyond its borders. India conveyed its condolences to Afghan families who have lost loved ones and prayed for early recovery of those injured. India reiterated its unwavering support for Afghanistan’s sovereignty and territorial integrity.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T00:37:56+00:00",
+        "link": "https://newsonair.gov.in/india-strongly-condemns-air-strikes-by-pakistan-on-afghan-territory-mea/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "sports": [
+      {
+        "title": "Paraguay, Morocco and Brazil enter FIFA World Cup Round of 16",
+        "summary": "Germany has been knocked out of the 2026 FIFA World Cup in the Round of 32. They were eliminated by Paraguay in a shocking 4-3 penalty shootout defeat in Boston after the match ended 1-1 following extra time. This marks Germany&#8217;s first-ever penalty shootout loss in a World Cup. With this win, Paraguay advances [&#8230;]",
+        "article": "Germany has been knocked out of the 2026 FIFA World Cup in the Round of 32. They were eliminated by Paraguay in a shocking 4-3 penalty shootout defeat in Boston after the match ended 1-1 following extra time. This marks Germany&#8217;s first-ever penalty shootout loss in a World Cup. With this win, Paraguay advances to the World Cup Round of 16. Jose Canale scored on the first sudden death penalty kick, while goalkeeper Orlando Gill made two key saves in the shootout, Paraguay went in front in regulation, when Julio Enciso scored on a header late in the first half. Kai Havertz equalised in the 52nd minute for Germany. In another match, Morocco defeated the Netherlands 3-2 on penalties after a dramatic 1-1 draw across 120 minutes in Round of 32 clash today. Morocco&#8217;s Achraf Hakimi and Neil El Aynaoui tested Dutch goalkeeper Bart Verbruggen, while Micky van de Ven forced a world-class save from Moroccan keeper Yassine Bounou. Cody Gakpo scored a brilliant opening goal for the Netherlands after receiving a quick pass from Crysencio Summerville. After a chaotic penalty shootout featuring misses from Quinten Timber and Achraf Hakimi, Ismael Saibari scored the decisive spot-kick to send Morocco through. Earlier, Brazil has entered the Round of 16 after 2-1 victory over Japan in Houston, US. Gabriel Martinelli scored the winning goal late in injury time to give five-time champion Brazil a new achievement in Round of 32 clash last night. Martinelli, who had come on as a second-half substitute, scored in the sixth minute of stoppage time as the match appeared to be headed to extra time. Brazil will next face either the Ivory Coast or Norway on Sunday in East Rutherford, New Jersey, in the Round of 16.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:41:39+00:00",
+        "link": "https://newsonair.gov.in/paraguay-morocco-and-brazil-enter-fifa-world-cup-round-of-16/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/India_Gate_%28All_India_War_Memorial%29.jpg/960px-India_Gate_%28All_India_War_Memorial%29.jpg",
+        "image_credit": "Wikipedia – India Gate (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Brazil beat Japan 2-1 to enter FIFA World Cup Round of 16",
+        "summary": "In the FIFA World Cup, Brazil has entered the Round of 16 after 2-1 victory over Japan in Houston, US. Gabriel Martinelli scored the winning goal late in injury time to give five-time champion Brazil a new achievement in Round of 32 clash last night. Martinelli, who had come on as a second-half substitute, scored [&#8230;]",
+        "article": "In the FIFA World Cup, Brazil has entered the Round of 16 after 2-1 victory over Japan in Houston, US. Gabriel Martinelli scored the winning goal late in injury time to give five-time champion Brazil a new achievement in Round of 32 clash last night. Martinelli, who had come on as a second-half substitute, scored in the sixth minute of stoppage time as the match appeared to be headed to extra time. Brazil will next face either the Ivory Coast or Norway on Sunday in East Rutherford, New Jersey, in the Round of 16. In another Round of 32 fixture, Paraguay defeated Germany 4-3 on spot kicks after the match finished 1-1 in extra-time to inflict Germany&#8217;s first-ever defeat in a penalty shootout in a World Cup. With this win, Paraguay advances to the World Cup Round of 16. Jose Canale scored on the first sudden death penalty kick, while goalkeeper Orlando Gill made two key saves in the shootout, Paraguay went in front in regulation, when Julio Enciso scored on a header late in the first half. Kai Havertz equalised in the 52nd minute for Germany.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T02:37:05+00:00",
+        "link": "https://newsonair.gov.in/brazil-beat-japan-2-1-to-enter-fifa-world-cup-round-of-16/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/RajyaSabhaAsOfMay9%2C2026.svg/960px-RajyaSabhaAsOfMay9%2C2026.svg.png",
+        "image_credit": "Wikipedia – Parliament of India (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Wimbledon Championships 2026 begin in London",
+        "summary": "The Wimbledon Championships, the third Grand Slam tournament of the year, begin today at the All England Lawn Tennis and Croquet Club in London, with several top stars in action on the opening day. World No. 1 and defending men&#8217;s singles champion Jannik Sinner began his campaign against Serbia&#8217;s Miomir Kecmanovic, while seven-time Wimbledon champion [&#8230;]",
+        "article": "The Wimbledon Championships, the third Grand Slam tournament of the year, begin today at the All England Lawn Tennis and Croquet Club in London, with several top stars in action on the opening day. World No. 1 and defending men&#8217;s singles champion Jannik Sinner began his campaign against Serbia&#8217;s Miomir Kecmanovic, while seven-time Wimbledon champion Novak Djokovic will face China&#8217;s Wu Yibing in another first-round match. In the women&#8217;s singles, World No. 1 Aryna Sabalenka will open her campaign against Serbia&#8217;s Teodora Kostovic.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T14:40:06+00:00",
+        "link": "https://newsonair.gov.in/wimbledon-championships-2026-begin-in-london/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/960px-London_Skyline_%28125508655%29.jpeg",
+        "image_credit": "Wikipedia – London (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India women’s cricket team qualifies for Los Angeles 2028 Olympics",
+        "summary": "The Indian women&#8217;s cricket team has become one of the first sides to qualify for the Los Angeles 2028 Olympic Games. However, the men&#8217;s team will have to finish as Asia&#8217;s highest-ranked side in the ICC Men&#8217;s T20 rankings by the end of this year to secure direct qualification. The International Cricket Council today confirmed [&#8230;]",
+        "article": "The Indian women&#8217;s cricket team has become one of the first sides to qualify for the Los Angeles 2028 Olympic Games. However, the men&#8217;s team will have to finish as Asia&#8217;s highest-ranked side in the ICC Men&#8217;s T20 rankings by the end of this year to secure direct qualification. The International Cricket Council today confirmed that India, alongside Australia, Great Britain and South Africa, has booked its place in the women&#8217;s T20 competition at the Los Angeles 2028 Olympic Games. The direct qualification places were capped at one team from each continent. Unlike the men&#8217;s event, the women&#8217;s competition does not use ICC rankings to determine the first four qualifiers. Instead, the ongoing Women&#8217;s T20 World Cup serves as the primary qualification tournament, with the best-performing eligible team from each of the four continents earning an Olympic berth. The men&#8217;s qualification pathway follows a different route. Four direct Olympic berths will be awarded through the ICC Men&#8217;s T20 International rankings, with the highest-ranked eligible National Olympic Committee (NOC) from Africa, Asia, Europe and Oceania qualifying automatically. The rankings at the end of this year will determine the four continental representatives, meaning India must finish as Asia&#8217;s highest-ranked eligible side to secure a direct ticket to Los Angeles. Cricket will return to the Olympic Games at Los Angeles 2028 after a gap of 128 years, with six teams each competing in the men&#8217;s and women&#8217;s T20 events.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T13:43:20+00:00",
+        "link": "https://newsonair.gov.in/india-womens-cricket-team-qualifies-for-los-angeles-2028-olympics/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hollywood_Sign_%28Zuschnitt%29.jpg/960px-Hollywood_Sign_%28Zuschnitt%29.jpg",
+        "image_credit": "Wikipedia – Los Angeles (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India’s Under-19 boys’ team enters in Asian Youth Championships semi-finals",
+        "summary": "India&#8217;s Under-19 boys&#8217; team defeated Hong Kong 3-1 in the quarterfinals of the Asian Youth Championships in Bangkok today. This win has assured team of at least a bronze medal and a direct berth in next year&#8217;s World Youth Table Tennis Championships. The Indian boys will now take on top seeds China in the semi-final. [&#8230;]",
+        "article": "India&#8217;s Under-19 boys&#8217; team defeated Hong Kong 3-1 in the quarterfinals of the Asian Youth Championships in Bangkok today. This win has assured team of at least a bronze medal and a direct berth in next year&#8217;s World Youth Table Tennis Championships. The Indian boys will now take on top seeds China in the semi-final. However, the Indian Under-19 girls&#8217; team fell short of the medal rounds, losing 1-3 to Hong Kong in the quarterfinals. The team will now have to qualify for next year&#8217;s World Youth Championships through the Asian qualification process.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T13:28:54+00:00",
+        "link": "https://newsonair.gov.in/indias-under-19-boys-team-enter-asian-youth-championships-semi-finals/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Delhi_fort.jpg/960px-Delhi_fort.jpg",
+        "image_credit": "Wikipedia – Red Fort (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Kidambi Srikanth wins silver at US Open badminton tournament",
+        "summary": "In Badminton, Indian shuttler Kidambi Srikanth secured the silver medal in the men&#8217;s singles event at the US Open today after finishing as runner-up in the final. Srikanth went down against Chinese Taipei&#8217;s Su Li-yang in a hard-fought three-game contest, losing 15-21, 21-16, and 9-21 in the finals. The defeat also extended Srikanth&#8217;s wait for [&#8230;]",
+        "article": "In Badminton, Indian shuttler Kidambi Srikanth secured the silver medal in the men&#8217;s singles event at the US Open today after finishing as runner-up in the final. Srikanth went down against Chinese Taipei&#8217;s Su Li-yang in a hard-fought three-game contest, losing 15-21, 21-16, and 9-21 in the finals. The defeat also extended Srikanth&#8217;s wait for a BWF title, as his last international title came at the French Open in 2017 during the BWF Superseries era.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T12:09:29+00:00",
+        "link": "https://newsonair.gov.in/kidambi-srikanth-wins-silver-at-us-open-badminton-tournament/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/India_Gate_%28All_India_War_Memorial%29.jpg/960px-India_Gate_%28All_India_War_Memorial%29.jpg",
+        "image_credit": "Wikipedia – India Gate (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Brazil to face Japan in FIFA World Cup Round of 32 clash at Houston Stadium in US",
+        "summary": "In the FIFA World Cup, Brazil will take on Japan in a Round of 32 clash at Houston Stadium in the United States tonight. The match is scheduled to begin at 10:30 PM IST. In another Round of 32 fixture, Germany will face Paraguay at Boston Stadium in the United States at 2:00 AM IST. [&#8230;]",
+        "article": "In the FIFA World Cup, Brazil will take on Japan in a Round of 32 clash at Houston Stadium in the United States tonight. The match is scheduled to begin at 10:30 PM IST. In another Round of 32 fixture, Germany will face Paraguay at Boston Stadium in the United States at 2:00 AM IST. Earlier today, co-hosts Canada became the first team to qualify for the Round of 16 after securing a dramatic 1-0 victory over South Africa in Round of 32 match at Los Angeles stadium. Stephen Eustáquio scored the winning goal for Canada in the second minute of second-half stoppage time.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T12:01:50+00:00",
+        "link": "https://newsonair.gov.in/brazil-to-face-japan-in-fifa-world-cup-round-of-32-clash-at-houston-stadium-in-us/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/RajyaSabhaAsOfMay9%2C2026.svg/960px-RajyaSabhaAsOfMay9%2C2026.svg.png",
+        "image_credit": "Wikipedia – Parliament of India (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Ireland Defeat India by 1 Run in Second T20 International",
+        "summary": "In Men&#8217;s Cricket, Ireland defeated India by 1 run in the second and final T20 International of the two-match series in Belfast last night. Hosts Ireland set a target of 155 runs for India. Put into bat, Ireland made 154 runs, losing eight wickets in the stipulated 20 overs. In reply, India could score only [&#8230;]",
+        "article": "In Men&#8217;s Cricket, Ireland defeated India by 1 run in the second and final T20 International of the two-match series in Belfast last night. Hosts Ireland set a target of 155 runs for India. Put into bat, Ireland made 154 runs, losing eight wickets in the stipulated 20 overs. In reply, India could score only 153 for 9 in 20 overs. Jai Moondra was declared PLAYER OF THE MATCH and series. Ireland sensationally clinched their two-match T20 International series against India. Ireland won the first match by 34 runs.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T02:19:30+00:00",
+        "link": "https://newsonair.gov.in/ireland-defeat-india-by-1-run-in-second-t20-international/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/George_RAWDON.jpg/960px-George_RAWDON.jpg",
+        "image_credit": "Wikimedia Commons (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Canada Beat South Africa 1-0 in FIFA World Cup Knockout Stage",
+        "summary": "In the knockout stage of the FIFA World Cup, Canada beat South Africa 1-0 for its first knockout match victory at Los Angeles in the United States. Stephen Eustáquio of Canada scored the goal in the second minute of second-half stoppage time. Co-host Canada hung on with strong defensive play in the final minutes [&#8230;]",
+        "article": "In the knockout stage of the FIFA World Cup, Canada beat South Africa 1-0 for its first knockout match victory at Los Angeles in the United States. Stephen Eustáquio of Canada scored the goal in the second minute of second-half stoppage time. Co-host Canada hung on with strong defensive play in the final minutes and advanced to face the Netherlands or Morocco in Houston on Saturday, July 4. The 2026 FIFA World Cup knockout stage officially began today with 32 teams remaining after the group stage. This phase marks the start of the single-elimination tournament, which culminates in the FIFA World Cup Final on July 19, 2026.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T01:16:52+00:00",
+        "link": "https://newsonair.gov.in/canada-beat-south-africa-1-0-in-fifa-world-cup-knockout-stage/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg/960px-Mumbai_Bandra-Worli_Sea_Link.jpg",
+        "image_credit": "Wikipedia – Mumbai (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian Men’s Hockey Team Defeat England 3-2 in Penalty Shoot-out",
+        "summary": "The Indian Men’s Hockey Team displayed remarkable defensive resilience to defeat England 3-2 in the penalty shoot-out after a hard-fought 0-0 draw in the reverse fixture of the FIH Hockey Pro League at the Lee Valley Hockey and Tennis Centre in London yesterday. Abhishek, Shilanand Lakra and Hardik Singh converted their shoot-out attempts for India [&#8230;]",
+        "article": "The Indian Men’s Hockey Team displayed remarkable defensive resilience to defeat England 3-2 in the penalty shoot-out after a hard-fought 0-0 draw in the reverse fixture of the FIH Hockey Pro League at the Lee Valley Hockey and Tennis Centre in London yesterday. Abhishek, Shilanand Lakra and Hardik Singh converted their shoot-out attempts for India in a fiercely contested encounter. The victory highlighted India&#8217;s defensive grit, composure under pressure and ability to deliver in crucial moments. Defender Sanjay, who was named Player of the Match, led a resolute defensive effort, while both goalkeepers made important contributions in preserving the clean sheet. The win marked India&#8217;s last FIH Hockey Pro League fixture before the Hockey World Cup, providing the team with a timely confidence boost ahead of the marquee tournament.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T01:09:44+00:00",
+        "link": "https://newsonair.gov.in/indian-mens-hockey-team-defeat-england-3-2-in-penalty-shoot-out/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Delhi_fort.jpg/960px-Delhi_fort.jpg",
+        "image_credit": "Wikipedia – Red Fort (CC BY-SA)",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "business": [
+      {
+        "title": "India’s industrial output grows 5.1 per cent in May : MoSPI",
+        "summary": "India’s industrial output growth, as measured by the Index of Industrial Production (IIP), expanded by 5.1 per cent in May this year on an annual basis. The May reading follows April&#8217;s industrial output growth of 4.9 per cent, which marked the first release under the revamped IIP series with 2022-23 as the new base year, [&#8230;]",
+        "article": "India’s industrial output growth, as measured by the Index of Industrial Production (IIP), expanded by 5.1 per cent in May this year on an annual basis. The May reading follows April&#8217;s industrial output growth of 4.9 per cent, which marked the first release under the revamped IIP series with 2022-23 as the new base year, incorporating an updated product basket, revised weights and broader sectoral coverage. As per the data released by the Ministry of Statistics and Programme Implementation (MOSPI), growth in the electricity and gas supply sector expanded by 9.9 per cent during last month. Manufacturing, as well as water supply, sewerage and waste management sectors, posted a 5.5 per cent growth. However, the mining and quarrying sector proved to be a laggard, decelerating by 1.6 per cent. Alongside the May data, MoSPI announced that it has replaced the Wholesale Price Index with the Output Producer Price Index as the deflator for the new IIP series, with 2022-23 as the base year. The ministry has revised the entire 2022-23 based IIP series using the Output PPI, superseding the WPI-based series released on 1st of this month. MoSPI said the move would improve the estimation of real industrial output, as the Output PPI offers a more granular measure of producer prices for products whose output is reported in value terms. It added that the adoption aligns with international best practices and recommendations of the Technical Advisory Committee on the IIP base revision and will facilitate the eventual adoption of PPI-based volume estimation methods in the national accounts.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T14:58:54+00:00",
+        "link": "https://newsonair.gov.in/indias-industrial-output-grows-5-1-per-cent-in-may-mospi/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Most Asian stock indices end higher",
+        "summary": "Most Asian stock market indices advanced today. Hong Kong’s Hang Seng Index gained around 1.6 per cent, China&#8217;s Shanghai Composite Index rose nearly 1.2 per cent, Taiwan&#8217;s Taiex jumped one per cent, Singapore’s Strait Times Index added over 0.3 per cent, and Japan&#8217;s Nikkei 225 rose more than 0.1 per cent. Conversely, South Korea&#8217;s Kospi [&#8230;]",
+        "article": "Most Asian stock market indices advanced today. Hong Kong’s Hang Seng Index gained around 1.6 per cent, China&#8217;s Shanghai Composite Index rose nearly 1.2 per cent, Taiwan&#8217;s Taiex jumped one per cent, Singapore’s Strait Times Index added over 0.3 per cent, and Japan&#8217;s Nikkei 225 rose more than 0.1 per cent. Conversely, South Korea&#8217;s Kospi index dropped 0.2 per cent. Major European indices were trading on a mixed note. France’s CAC 40 dropped 0.3 per cent, London’s FTSE 100 was trading over 0.2 per cent lower, while Germany’s DAX rose 0.1 per cent, when reports last came in.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T12:33:22+00:00",
+        "link": "https://newsonair.gov.in/most-asian-stock-indices-end-higher/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Global crude oil prices rise in early trade",
+        "summary": "Global crude oil prices rose today. Brent crude was trading 0.8 per cent up at 72 US dollars and 58 cents per barrel. West Texas Intermediate crude was also trading nearly 1.2 per cent up at 70 US dollars and three cents per barrel, when reports last came in.",
+        "article": "Global crude oil prices rose today. Brent crude was trading 0.8 per cent up at 72 US dollars and 58 cents per barrel. West Texas Intermediate crude was also trading nearly 1.2 per cent up at 70 US dollars and three cents per barrel, when reports last came in.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T12:30:35+00:00",
+        "link": "https://newsonair.gov.in/global-crude-oil-prices-rise-in-early-trade/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Gold and silver prices trade lower in Indian bullion market",
+        "summary": "In the Indian bullion market, 24-carat gold was trading one per cent down at 1 lakh 43 thousand 180 rupees per 10 grams, while Silver was trading 0.6 per cent down at 2 lakh 22 thousand 400 rupees per kilogram, a short while ago. At the Multi Commodity Exchange, Gold for August contract was [&#8230;]",
+        "article": "In the Indian bullion market, 24-carat gold was trading one per cent down at 1 lakh 43 thousand 180 rupees per 10 grams, while Silver was trading 0.6 per cent down at 2 lakh 22 thousand 400 rupees per kilogram, a short while ago. At the Multi Commodity Exchange, Gold for August contract was trading one per cent lower at 1 lakh 42 thousand 755 rupees per 10 grams, and Silver for the September contract was trading over 0.6 per cent down at 2 lakh 22 thousand rupees per kilogram, when reports last came in.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T12:28:59+00:00",
+        "link": "https://newsonair.gov.in/gold-and-silver-prices-trade-lower-in-indian-bullion-market/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Rupee settles 14 paise lower at 94.54 against US dollar",
+        "summary": "In the forex market today, the rupee depreciated by 14 paise to close at 94 rupees and 54 paise against the US dollar. The dollar index, which indicates the US dollar&#8217;s strength against a basket of six other leading currencies, was trading at 101.24 in intra-day trade today.",
+        "article": "In the forex market today, the rupee depreciated by 14 paise to close at 94 rupees and 54 paise against the US dollar. The dollar index, which indicates the US dollar&#8217;s strength against a basket of six other leading currencies, was trading at 101.24 in intra-day trade today.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T12:26:35+00:00",
+        "link": "https://newsonair.gov.in/rupee-settles-14-paise-lower-at-94-54-against-us-dollar/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian economy continues to perform well despite global headwinds : Saurabh Garg, Sec MoSPI",
+        "summary": "Secretary in the Ministry of Statistics and Programme Implementation, Saurabh Garg today said that the Indian economy continues to perform well despite global headwinds. Speaking on the occasion of National Statistics Day, Mr. Garg highlighted that the country has witnessed a significant expansion in administrative data over the past decade, driven largely by the success [&#8230;]",
+        "article": "Secretary in the Ministry of Statistics and Programme Implementation, Saurabh Garg today said that the Indian economy continues to perform well despite global headwinds. Speaking on the occasion of National Statistics Day, Mr. Garg highlighted that the country has witnessed a significant expansion in administrative data over the past decade, driven largely by the success of the Digital India initiative. He noted that the theme for this year&#8217;s celebration is Unlocking the Potential of Administrative Data, focuses on exploring how administrative data can be effectively leveraged to support informed and evidence-based decision-making. Mr Garg further said that Prime Minister Narendra Modi has consistently emphasised the importance of data-driven governance. The Secretary added that to achieve the vision of Viksit Bharat by 2047, policymaking and decision-making must become increasingly focused, precise, and backed by reliable data.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T12:17:24+00:00",
+        "link": "https://newsonair.gov.in/indian-economy-continues-to-perform-well-despite-global-headwinds-saurabh-garg-sec-mospi/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Sensex falls 372 points, Nifty slips below 24,000",
+        "summary": "Benchmark domestic equity indices ended almost half a per cent down today. The Sensex fell 372 points to close at 76 thousand and 728. The Nifty also dropped 110 points to settle at 23 thousand and 946. In the broader market on the National Stock Exchange, the Midcap 100 index shed nearly 0.4 per cent and [&#8230;]",
+        "article": "Benchmark domestic equity indices ended almost half a per cent down today. The Sensex fell 372 points to close at 76 thousand and 728. The Nifty also dropped 110 points to settle at 23 thousand and 946. In the broader market on the National Stock Exchange, the Midcap 100 index shed nearly 0.4 per cent and the Smallcap 100 index declined over 0.6 per cent.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T11:09:09+00:00",
+        "link": "https://newsonair.gov.in/sensex-falls-372-points-nifty-slips-below-24000/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "FPIs Pull Out ₹53,022 Crore from Indian Equities in June",
+        "summary": "Foreign Portfolio Investors (FPIs) have offloaded Indian equities worth 53,022 crore rupees so far in June. However, selling pressure has moderated noticeably in the second half of this month, led by selective buying by FPIs. They have remained net buyers during all four sessions last week. Rupee stability has supported renewed foreign investor interest over the past [&#8230;]",
+        "article": "Foreign Portfolio Investors (FPIs) have offloaded Indian equities worth 53,022 crore rupees so far in June. However, selling pressure has moderated noticeably in the second half of this month, led by selective buying by FPIs. They have remained net buyers during all four sessions last week. Rupee stability has supported renewed foreign investor interest over the past two weeks. Meanwhile, a series of measures announced by the government and the Reserve Bank of India earlier this month to attract stable long-term foreign capital, deepen the government securities market, and strengthen country&#8217;s debt market has led to a record inflow into the Indian debt market in June. As per the depository data, Debt General Limit registered inflow of 24,518 crore rupees so far in June. The debt categories of Fully Accessible Route registered inflow of 20,958 crore rupees and Voluntary Retention Route of 3,518 crore rupees.",
+        "date": "2026-06-28",
+        "pubDate": "2026-06-28T12:57:24+00:00",
+        "link": "https://newsonair.gov.in/fpis-pull-out-%e2%82%b953022-crore-from-indian-equities-in-june/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India’s foreign reserves rise by 963 million dollars to over 672 billion dollars",
+        "summary": "India’s foreign exchange reserves rose by 963 million US dollars to over 672 billion US dollars during the week ended June 19. According to the Reserve Bank of India data, the rise was mainly driven by a sharp increase in gold reserves, which increased by 4.1 billion US dollars to over 107 billion US dollars. [&#8230;]",
+        "article": "India’s foreign exchange reserves rose by 963 million US dollars to over 672 billion US dollars during the week ended June 19. According to the Reserve Bank of India data, the rise was mainly driven by a sharp increase in gold reserves, which increased by 4.1 billion US dollars to over 107 billion US dollars. In contrast, Foreign currency assets, the largest component of the reserves, decreased by 3.07 billion USD to 541 billion USD during the week. Special Drawing Rights (SDRs) fell by 52 million USD to 18.64 billion US dollars, and the country&#8217;s reserve position with the International Monetary Fund dropped 22 million USD to around 4.8 billion US dollars.",
+        "date": "2026-06-26",
+        "pubDate": "2026-06-26T13:53:48+00:00",
+        "link": "https://newsonair.gov.in/indias-foreign-reserves-rise-by-963-million-dollars-to-over-672-billion-dollars/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Goldman Sachs raises India’s 2026 GDP growth forecast to 6.8%",
+        "summary": "Global investment bank Goldman Sachs has raised India’s real GDP growth forecast to 6.8 per cent for the calendar year 2026, from its earlier estimate of 6.5 per cent, citing easing oil prices and improving domestic economic conditions. In its latest report titled India: Improved Macro Outlook After The US and Iran deal, the [&#8230;]",
+        "article": "Global investment bank Goldman Sachs has raised India’s real GDP growth forecast to 6.8 per cent for the calendar year 2026, from its earlier estimate of 6.5 per cent, citing easing oil prices and improving domestic economic conditions. In its latest report titled India: Improved Macro Outlook After The US and Iran deal, the global investment bank lowered its headline inflation forecast by 0.2 percentage points to 4.4 per cent and reduced its current account deficit estimate to 1.1 per cent of GDP, amid a sharp correction in global crude oil prices after the US-Iran peace deal. According to Goldman Sachs, the country’s economy remained resilient despite the disruptions caused by the Middle East conflict, as government fiscal and quasi-fiscal measures helped cushion the impact of higher energy prices on consumers. The report noted that softer global commodity prices, particularly the sharp decline in urea prices, would help reduce India’s fertiliser subsidy burden, easing near-term fiscal pressures along with lower crude oil prices. Despite the improved outlook, it cautioned that weather-related uncertainties and the impact of earlier fuel price increases could remain short-term headwinds for consumption before the economy gathers further momentum later in the year.",
+        "date": "2026-06-26",
+        "pubDate": "2026-06-26T13:48:25+00:00",
+        "link": "https://newsonair.gov.in/goldman-sachs-raises-indias-2026-gdp-growth-forecast-to-6-8/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "entertainment": [
+      {
+        "title": "Veteran producer and former CBFC chairperson Pahlaj Nihalani passes away",
+        "summary": "Veteran producer and former chairperson of the Central Board of Film Certification (CBFC), Pahlaj Nihalani, has passed away in Mumbai today. He was 76. Born on January 10, 1950, Nihalani started his career as a producer with the 1982 movie ‘Haathkadi’. He is widely credited for giving actor Govinda his first big break with the [&#8230;]",
+        "article": "Veteran producer and former chairperson of the Central Board of Film Certification (CBFC), Pahlaj Nihalani, has passed away in Mumbai today. He was 76. Born on January 10, 1950, Nihalani started his career as a producer with the 1982 movie ‘Haathkadi’. He is widely credited for giving actor Govinda his first big break with the 1986 movie ‘Ilzaam’. He also introduced actor Chunky Panday with ‘Aag Hi Aag’ in 1987. He also produced films like ‘Shola Aur Shabnam’, ‘Aankhen’, ‘Dil Tera Diwana’, ‘Talaash’ and ‘Rangeela Raja’. In January 2015, Nihalani was appointed as the chairperson of the Central Board of Film Certification. During his stint, he introduced strict new guidelines barring certain expletives even in &#8216;A&#8217; rated films and sought to restrict content that could be seen as hurting religious sentiments or depicting violence. Critics in the film fraternity frequently accused him of overreach, while he maintained he was simply doing his job. Current chairperson of the CBFC Shashi Shekhar Vempati has condoled Nihalani&#8217;s demise.",
+        "date": "2026-06-04",
+        "pubDate": "2026-06-04T08:26:03+00:00",
+        "link": "https://newsonair.gov.in/veteran-producer-and-former-cbfc-chairperson-pahlaj-nihalani-passes-away/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sydney_2015_Anzac_Day_march_%2817119683648%29.jpg/960px-Sydney_2015_Anzac_Day_march_%2817119683648%29.jpg",
+        "image_credit": "Wikipedia – Veteran (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "150th Shree Baba Harivallabh Sangeet Sammelan Begins in Jalandhar Tomorrow",
+        "summary": "In Punjab, the 150th Shree Baba Harivallabh Sangeet Sammelan, the oldest Hindustani classical music festival in the country, is starting from tomorrow evening at Shree Devi Talab Temple, Jalandhar. The festival is being organised in collaboration with the North Zone Cultural Centre (NZCC), Patiala of the Union Ministry of Culture, Govt. of India and [&#8230;]",
+        "article": "In Punjab, the 150th Shree Baba Harivallabh Sangeet Sammelan, the oldest Hindustani classical music festival in the country, is starting from tomorrow evening at Shree Devi Talab Temple, Jalandhar. The festival is being organised in collaboration with the North Zone Cultural Centre (NZCC), Patiala of the Union Ministry of Culture, Govt. of India and supported by the state government. The 3-day festival is dedicated to the 350th martyrdom anniversary of Guru Tegh Bahadur Ji and acclaimed Banaras Gharana vocalist Pt Chhannu Lal Mishra, who passed away in October this year. Renowned classical music artists like folk vocalist icon Vidushi Malini Awasthi, Pt Sajan Mishara, his son Swaransh Mishra, Pt Ronu Majumdar, Shashank Subramanyam, Ashwini Bhide, Pt Sanjeev Abhyankar, Pt Shubhendra Rao, Saskia Rao-de-Haas, Ustad Faiyaz Wasifuddin Dagar, Pt Vijay Ghate, V Selvaganesh, Naveen Sharma and Shikharnaad Qureshi, among others, will perform from 26 to 28 December.",
+        "date": "2025-12-25",
+        "pubDate": "2025-12-25T06:41:17+00:00",
+        "link": "https://newsonair.gov.in/150th-shree-baba-harivallabh-sangeet-sammelan-begins-in-jalandhar-tomorrow/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/India_Gate_%28All_India_War_Memorial%29.jpg/960px-India_Gate_%28All_India_War_Memorial%29.jpg",
+        "image_credit": "Wikipedia – India Gate (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Media and Entertainment Sector Among India’s Fastest-Growing Industries",
+        "summary": "India’s Media and Entertainment sector has become one of the country’s fastest-growing industries and is projected to cross one hundred billion US dollars by 2030. Economically, the Media and Entertainment sector contributes significantly to value addition and job creation, with its gross value-added share steadily increasing over the last decade. The country offers a 40 [&#8230;]",
+        "article": "India’s Media and Entertainment sector has become one of the country’s fastest-growing industries and is projected to cross one hundred billion US dollars by 2030. Economically, the Media and Entertainment sector contributes significantly to value addition and job creation, with its gross value-added share steadily increasing over the last decade. The country offers a 40 to 60 percent cost advantage in animation and VFX services, supported by a large, skilled workforce. The creative economy of the country has entered a transformative phase with the formal recognition of the Animation, Visual Effects, Gaming, Comics and Extended Reality (AVGC-XR) sector as a key driver of growth. The policy journey gained momentum in 2022 with the constitution of the AVGC Promotion Task Force, established to formulate a comprehensive national strategy for nurturing country&#8217;s AVGC-XR ecosystem as a global hub for creative technology and digital content production. The Task Force’s report projected the creation of around 20 lakh direct and indirect jobs in the coming ten years, while estimating that the sector could contribute to India’s GDP through production, exports, and allied services. Complementing national initiatives, several states are advancing the AVGC-XR vision through targeted policies and institutional frameworks. Karnataka has been one of the firsts to implement a dedicated AVGC-XR Policy 2024-2029, focusing on skilling, incubation, and global market competitiveness. Maharashtra has also taken significant steps with the approval of its AVGC-XR Policy 2025 in September this year, backed by a financial plan of more than three thousand 200 crore rupees including a long-term roadmap extending to 2050. The policy seeks to attract investments, create employment opportunities, and strengthen state-level production infrastructure through dedicated clusters and training initiatives. Furthermore, the Indian Institute of Creative Technologies is reshaping creative education through global partnerships with Netflix, Google, Microsoft, NVIDIA and others, building a world-class talent ecosystem. India’s technological evolution in this sector reflects a decade-long progression from experimentation to excellence.",
+        "date": "2025-11-18",
+        "pubDate": "2025-11-18T08:00:22+00:00",
+        "link": "https://newsonair.gov.in/media-and-entertainment-sector-among-indias-fastest-growing-industries/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Boathouse_%287063399547%29.jpg/960px-Boathouse_%287063399547%29.jpg",
+        "image_credit": "Wikipedia – Kerala (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "UK Named Country Partner for Hornbill Festival 2025 in Nagaland",
+        "summary": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence [&#8230;]",
+        "article": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence of British High Commissioner to India Lindy Cameron, and senior representatives from both sides at New Delhi. Under this partnership, the British Council, working with the British Deputy High Commission in Kolkata, will curate meaningful programming for the festival, including bringing an artist from the UK to participate in the festival. The state also named Air India Express as the Official Travel Partner for the Hornbill Festival. The partnership was announced by Advisor to Chief Minister, Abu Metha and Managing Director, Air India Express, Aloke Singh, at the airline&#8217;s headquarters in Gurugram in the presence of several key officials. As part of the collaboration, Air India Express will introduce a Boeing 737-8 aircraft featuring a livery inspired by the Tsüngkotepsü design of the Ao Naga tribe’s warrior shawl, under its ‘Tales of India’ initiative. The special aircraft will be received by Chief Minister Neiphiu Rio at Dimapur Airport on November 22. The airline will also offer a 15 percent discount on flights to and from Nagaland, starting November 20. Welcoming the partnerships, Chief Minister Neiphiu Rio expressed hopes that the ties will drive tourism, cultural exchange, and economic growth.",
+        "date": "2025-11-18",
+        "pubDate": "2025-11-18T06:24:16+00:00",
+        "link": "https://newsonair.gov.in/uk-named-country-partner-for-hornbill-festival-2025-in-nagaland/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kapamodzu.jpg/960px-Kapamodzu.jpg",
+        "image_credit": "Wikipedia – Nagaland (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Vice-President C.P. Radhakrishnan Urges Media to Be Partners in Nation-Building at Ramoji Excellence Awards 2025",
+        "summary": "Vice-President C.P. Radhakrishnan has urged media houses to become partners in nation-building through their constructive role as the fourth pillar of the democratic system. He emphasised the urgency to check the spread of fake news and misinformation in the digital era. Addressing the inaugural event of Ramoji Excellence Awards-2025 at Ramoji Film City in [&#8230;]",
+        "article": "Vice-President C.P. Radhakrishnan has urged media houses to become partners in nation-building through their constructive role as the fourth pillar of the democratic system. He emphasised the urgency to check the spread of fake news and misinformation in the digital era. Addressing the inaugural event of Ramoji Excellence Awards-2025 at Ramoji Film City in Hyderabad, the Vice-President lauded the efforts of late media industrialist Ramoji Rao in value-based journalism. He hailed Ramoji Group for instituting the Excellence Awards in his memory. Telangana Chief Minister A. Revanth Reddy termed the Ramoji Film City as the fourth wonder of Hyderabad and said that the State government will extend all support to sustain the legacy of the “Ramoji” brand in various sectors, mainly journalism and the promotion of the state-of-the-art Ramoji Film City, which has emerged as the hub of film-making in the world. Chief Minister of Andhra Pradesh N. Chandrababu Naidu said Ramoji Rao, as a media house owner, championed the people’s issues. Telangana Governor Jishnu Dev Varma, former Vice-President M Venkaiah Naidu, and former Chief Justice of India NV Ramana called Ramoji Rao a true inspiration for generations to come and recalled his services in the field of journalism. The award recipients include Pallabi Ghosh in the Women Achievers category, Sathupati Prasanna Sree in Arts and Culture, Akash Tandon in Service to Humanity, Jaideep Hardikar in Journalism, Madhavi Latha in Science and Technology, Srikanth Bolla in Youth Icon, and Amla Ruia in the Rural Development category. Union Ministers Kishan Reddy, K Ram Mohan Naidu and Ministers of state Bandi Sanjay and others were also present on the occasion.",
+        "date": "2025-11-17",
+        "pubDate": "2025-11-17T04:43:41+00:00",
+        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-urges-media-to-be-partners-in-nation-building-at-ramoji-excellence-awards-2025/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Delhi_fort.jpg/960px-Delhi_fort.jpg",
+        "image_credit": "Wikipedia – Red Fort (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Comedian and Veteran Punjabi Actor Jaswinder Bhalla Passes Away",
+        "summary": "Famous comedian and veteran actor of Punjabi cinema Jaswinder Bhalla died this morning in a private hospital in Mohali. He was 65 years old. According to the information received, his last rites will be performed tomorrow at noon at Balongi crematorium. &#160; Born in Doraha town of Ludhiana, Jaswinder Bhalla obtained an M.Sc. from Punjab [&#8230;]",
+        "article": "Famous comedian and veteran actor of Punjabi cinema Jaswinder Bhalla died this morning in a private hospital in Mohali. He was 65 years old. According to the information received, his last rites will be performed tomorrow at noon at Balongi crematorium. &nbsp; Born in Doraha town of Ludhiana, Jaswinder Bhalla obtained an M.Sc. from Punjab Agricultural University and a PhD from Chaudhary Charan Singh Post Graduate College, Meerut. Jaswinder Bhalla, who came to the comedy and film world from teaching, left an indelible mark on the entertainment world with his unique comic style and memorable characters in films. &nbsp; He started his career in 1988 and worked in many popular Punjabi films, including Carry On Jatta, Naukar Vohti Da. His film journey started with the film &#8220;Dulla Bhatti&#8221;. He also performed in various programs of Jalandhar Doordarshan at the beginning of his career.",
+        "date": "2025-08-22",
+        "pubDate": "2025-08-22T06:34:48+00:00",
+        "link": "https://newsonair.gov.in/comedian-and-veteran-punjabi-actor-jaswinder-bhalla-passes-away/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Chaplin_The_Champion.jpg",
+        "image_credit": "Wikipedia – Comedian (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "BIFF 2025: Shape of Momo to Premiere in Vision Section of Asia’s Biggest Film Festival",
+        "summary": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &#160; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its [&#8230;]",
+        "article": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &nbsp; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its Vision Section highlights promising works from independent Asian cinema, showcasing daring and original stories from both emerging and mid-career directors. &nbsp; The selection places Shape of Momo alongside some of the most exciting contemporary films from across Asia. The film will also be screened at the San Sebastián International Film Festival in September, marking a significant step in its international journey.",
+        "date": "2025-08-21",
+        "pubDate": "2025-08-21T05:59:25+00:00",
+        "link": "https://newsonair.gov.in/biff-2025-shape-of-momo-to-premiere-in-vision-section-of-asias-biggest-film-festival/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Premiere_at_Chinese_Theater_%283555047236%29.jpg/960px-Premiere_at_Chinese_Theater_%283555047236%29.jpg",
+        "image_credit": "Wikipedia – Premiere (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM Dr. S. Jaishankar Strengthens Ties with Indian Ocean Nations at Muscat Conference",
+        "summary": "External Affairs Minister Dr. S. Jaishankar held meetings with his counterparts from Mauritius, Maldives, Nepal, Bhutan and Sri Lanka on the sidelines of the Indian Ocean Conference in Oman&#8217;s capital Muscat yesterday. During his meeting with his Mauritian counterpart Dhananjay Ritish Ramful, Dr. Jaishankar emphasised upon the commitment to further strengthen &#8220;special bonds of friendshi",
+        "article": "External Affairs Minister Dr. S. Jaishankar held meetings with his counterparts from Mauritius, Maldives, Nepal, Bhutan and Sri Lanka on the sidelines of the Indian Ocean Conference in Oman&#8217;s capital Muscat yesterday. During his meeting with his Mauritian counterpart Dhananjay Ritish Ramful, Dr. Jaishankar emphasised upon the commitment to further strengthen &#8220;special bonds of friendship&#8221; between the two nations. It was Dr. Jaishankar&#8217;s first meeting with Ramful. The External Affairs Minister, during his meeting with his Maldivian counterpart Abdulla Khaleel, discussed many facets of India-Maldives cooperation. With his Sri Lankan counterpart Vijitha Herath, Dr. Jaishankar discussed wide-ranging cooperation between the two nations. He also expressed India&#8217;s commitment to the economic recovery and progress of Sri Lanka. During his visit to Oman, Jaishankar also met his counterparts from Oman, Brunei and Iran on the sidelines of the Indian Ocean Conference. He also held a meeting with Bangladesh Foreign Affairs Advisor Md. Touhid Hossain. The 8th Indian Ocean Conference is being organised by the India Foundation in association with Oman&#8217;s Ministry of Foreign Affairs in Muscat on February 16-17, 2025.",
+        "date": "2025-02-17",
+        "pubDate": "2025-02-17T02:02:43+00:00",
+        "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-strengthens-ties-with-indian-ocean-nations-at-muscat-conference/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/India_Gate_%28All_India_War_Memorial%29.jpg/960px-India_Gate_%28All_India_War_Memorial%29.jpg",
+        "image_credit": "Wikipedia – India Gate (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Goa CM Releases Commemorative Stamp Honouring Filmmaker K Vaikunth at IFFI 56",
+        "summary": "Goa Chief Minister Pramod Sawant today released a commemorative stamp in honour of legendary cinematographer and filmmaker K Vaikunth at the 56th International Film Festival of India (IFFI) in Panaji, Goa. Addressing the gathering, Mr Sawant said that the K Vaikunth left a mark on Indian cinema even before Goa used to be associated [&#8230;]",
+        "article": "Goa Chief Minister Pramod Sawant today released a commemorative stamp in honour of legendary cinematographer and filmmaker K Vaikunth at the 56th International Film Festival of India (IFFI) in Panaji, Goa. Addressing the gathering, Mr Sawant said that the K Vaikunth left a mark on Indian cinema even before Goa used to be associated with movies. The Goa Chief Minister called him the man whose camera shaped the visual language of classic Indian cinema. He added that Mr Vaikunth&#8217;s unique style captured both grand spectacles and soft, subtle human emotions. During the occasion, Mr Vaikunth&#8217;s 1977 documentary &#8211; &#8216;Goa Marches On&#8217; was also screened. In a career spanning more than 5 decades, K Vaikunth worked on more than 35 feature films along with numerous ads and documentaries. He was behind some of the biggest hits, notably, Mere Apne, Bandhan, Mausam, Raaz and Parichay. Mr Vaikunth passed away on 9th February 2003.",
+        "date": "2025-11-27",
+        "pubDate": "2025-11-27T07:31:40+00:00",
+        "link": "https://newsonair.gov.in/goa-cm-releases-commemorative-stamp-honouring-filmmaker-k-vaikunth-at-iffi-56/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Melodies of India Resonate as 67th Akashvani Sangeet Sammelan Begins Nationwide",
+        "summary": "The 67th edition of Akashvani Sangeet Sammelan began today with concerts at Delhi, Mumbai and Chennai. The sammelan is being organised by Prasar Bharati, in collaboration with the Culture Ministry. In the National Capital at Akashvani Rang Bhawan, Flutist Pt. Rakesh Chaurasia and Marathi Folk artist Nandesh Umap and his team performed [&#8230;]",
+        "article": "The 67th edition of Akashvani Sangeet Sammelan began today with concerts at Delhi, Mumbai and Chennai. The sammelan is being organised by Prasar Bharati, in collaboration with the Culture Ministry. In the National Capital at Akashvani Rang Bhawan, Flutist Pt. Rakesh Chaurasia and Marathi Folk artist Nandesh Umap and his team performed a vibrant program. Prasar Bharati Chairman Navneet Kumar Sehgal and Akashvani Director General Rajiv Kumar Jain also attended the event Akashvani Sangeet Sammelan will be held in 24 cities across the country. During the month-long event, The sangeet sammelan will bring Hindustani, Carnatic, Light and Folk music to audiences from across the country. All concerts are open to the public without any entry fee. Invitation cards can be collected from the respective Akashvani stations on a first-come, first-served basis.",
+        "date": "2025-11-02",
+        "pubDate": "2025-11-02T16:25:04+00:00",
+        "link": "https://newsonair.gov.in/prasar-bharati-and-culture-ministry-launch-month-long-akashvani-sangeet-sammelan-nationwide/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "lifestyle": [
+      {
+        "title": "Health Minister JP Nadda Urges Citizens to Eliminate TB on World Tuberculosis Day",
+        "summary": "Health and Family Welfare Minister Jagat Prakash Nadda today called on citizens to eliminate TB and ensure better health for all, especially the most vulnerable, on the occasion of World Tuberculosis Day. In a social media post, the Health Minister said that India has made notable progress through the National TB Elimination Programme, strengthening efforts [&#8230;]",
+        "article": "Health and Family Welfare Minister Jagat Prakash Nadda today called on citizens to eliminate TB and ensure better health for all, especially the most vulnerable, on the occasion of World Tuberculosis Day. In a social media post, the Health Minister said that India has made notable progress through the National TB Elimination Programme, strengthening efforts across prevention, detection, and treatment. Highlighting this year’s theme: Yes! We Can End TB. Led by Bharat. Powered by Janbhagidari, Mr Nadda said it reflects the country’s shared commitment and belief in a TB-free future. Expressing gratitude to healthcare workers for their tireless service and compassionate care, the Minister called on the citizens to work towards a TB Mukt Bharat and a healthier, stronger nation.",
+        "date": "2026-03-24",
+        "pubDate": "2026-03-24T07:13:43+00:00",
+        "link": "https://newsonair.gov.in/health-minister-jp-nadda-urges-citizens-to-eliminate-tb-on-world-tuberculosis-day/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/World_Tuberculosis_Day_%287020132217%29.jpg/960px-World_Tuberculosis_Day_%287020132217%29.jpg",
+        "image_credit": "Wikipedia – World Tuberculosis Day (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India Tightens Surveillance on GLP-1 Weight Loss Drug Sales",
+        "summary": "The Drugs Controller of India has intensified regulatory surveillance against unauthorised sale and promotion of GLP-1 based Weight Loss Drugs. The move comes amid growing concerns over the increasing availability of multiple generic variants of these drugs in the Indian market, through retail pharmacies, online platforms, wholesalers, and wellness clinics. The Ministry of Health [&#8230;]",
+        "article": "The Drugs Controller of India has intensified regulatory surveillance against unauthorised sale and promotion of GLP-1 based Weight Loss Drugs. The move comes amid growing concerns over the increasing availability of multiple generic variants of these drugs in the Indian market, through retail pharmacies, online platforms, wholesalers, and wellness clinics. The Ministry of Health and Family Welfare said that these drugs, when used without proper medical supervision, may lead to serious adverse effects and related health risks. Taking cognisance of the situation, India’s Drugs Controller, in collaboration with State Regulators, has initiated a series of targeted actions to curb possible malpractices across the pharmaceutical supply chain and prevent unauthorised sales and use. The Ministry noted that an advisory was issued on the 10th of this month, directing manufacturers to avoid surrogate advertisements and any form of indirect promotion that could mislead consumers or encourage off-label usage. It added that regulatory surveillance will continue to be intensified in the coming weeks, and non-compliances will be dealt with strictly, with actions including cancellation of licences, penalties, and prosecution under applicable laws. The Health Ministry advised the citizens to use such medications only under the guidance of qualified medical practitioners. The Ministry said the drug has been approved in the country with the condition of a prescription by Endocrinologists and Internal Medicine Specialists, and for some indications, by Cardiologists only.",
+        "date": "2026-03-24",
+        "pubDate": "2026-03-24T06:13:25+00:00",
+        "link": "https://newsonair.gov.in/india-tightens-surveillance-on-glp-1-weight-loss-drug-sales/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/RajyaSabhaAsOfMay9%2C2026.svg/960px-RajyaSabhaAsOfMay9%2C2026.svg.png",
+        "image_credit": "Wikipedia – Parliament of India (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "VP Radhakrishnan says Drug-free youth key to Viksit Bharat vision",
+        "summary": "Vice President CP Radhakrishnan today said that the vision of a Viksit Bharat can only be realised when the youth of the country is drug-free, healthy and purpose-driven. Mr Radhakrishnan said this while addressing Delhi University&#8217;s Drug Free Campus Campaign in the National Capital. On the occasion, Mr Radhakrishnan also launched a dedicated e-pledge platform [&#8230;]",
+        "article": "Vice President CP Radhakrishnan today said that the vision of a Viksit Bharat can only be realised when the youth of the country is drug-free, healthy and purpose-driven. Mr Radhakrishnan said this while addressing Delhi University&#8217;s Drug Free Campus Campaign in the National Capital. On the occasion, Mr Radhakrishnan also launched a dedicated e-pledge platform and Mobile App for Drug-Free Campuses. The Vice President said that the campaign aligns strongly with the government’s Nasha Mukt Bharat Abhiyan. He underlined that substance abuse is a social challenge, a public health concern and a threat to the country’s demographic dividend. Mr Radhakrishnan also urged the students to actively participate and take the pledge for a drug-free campus. Mr Radhakrishnan highlighted that it is the need of the hour for everyone to keep themselves away from drugs. He also stressed the need to rise against drug abuse and spread awareness amongst everyone against the use of drugs. Mr Radhakrishnan said that drugs also spoil the physical and mental health of people. The Vice President also asserted that the youth are the greatest asset of the country and their talent, innovation and productivity form the backbone of the nation&#8217;s economic growth. He added that a drug-free youth is better equipped to acquire skills and foster entrepreneurship, which strengthens the economic progress of the nation. Mr Radhakrishnan said that drug terrorism is closely linked to narco-terrorism. He said that this business happens at the cost of humanity, and everyone must rise against the drug mafia. Speaking on the occasion, Education Minister Dharmendra Pradhan emphasised that the Drug Free Campus Campaign is aligned with the National Education Policy 2020. He also underscored the need for teachers and administrators to create a campus culture which prioritises student well-being.",
+        "date": "2026-01-13",
+        "pubDate": "2026-01-13T11:18:49+00:00",
+        "link": "https://newsonair.gov.in/vp-radhakrishnan-urges-youth-to-be-drug-free-for-a-viksit-bharat/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/960px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
+        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "West Bengal reports two suspected Nipah cases; centre sends response team",
+        "summary": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry [&#8230;]",
+        "article": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry of Health and Family Welfare has shared a video in which Union Health Minister Jagat Prakash Nadda said the Central government firmly stands with the State government, and it is providing comprehensive technical, logistical and operational support to the State Government for the effective management and prevention of the outbreak. He added that upon receipt of information, the Secretary, Health and Family Welfare, immediately held discussions with the Chief Secretary and Principal Secretary, Health of West Bengal, to review the situation. Mr Nadda said he had also spoken to the West Bengal Chief Minister, Mamata Banerjee and emphasised for Centre- State co-ordination in this direction. Meanwhile, our Kolkata Correspondent reports the West Bengal government has implemented comprehensive precautionary measures to contain the spread of the virus, including two healthcare workers at a private hospital in Barasat, North 24 Parganas. State&#8217;s Chief Secretary, Nandini Chakraborty, convened an emergency meeting at Nabanna with the state&#8217;s Health Secretary and other senior officials to review the situation. Briefing the press, she confirmed that both patients are currently undergoing treatment, with a specialized medical team monitoring their condition. Preliminary investigations suggest the individuals contracted the virus during a work-related visit to Purba Bardhaman. Consequently, surveillance has been intensified across Purba Bardhaman, North 24 Parganas, and Nadia districts, while authorities are actively tracing high-risk contacts. To assist citizens, the State government has launched two helpline numbers: 033 2333-0180 and 9874708858. &nbsp;",
+        "date": "2026-01-13",
+        "pubDate": "2026-01-13T03:53:37+00:00",
+        "link": "https://newsonair.gov.in/west-bengal-reports-two-suspected-nipah-cases-centre-sends-response-team/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Howrah_bridge_betwixt_Lights.jpg/960px-Howrah_bridge_betwixt_Lights.jpg",
+        "image_credit": "Wikipedia – West Bengal (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Wild Poliovirus Detected in Sewage Samples Across 42 Sites in Pakistan",
+        "summary": "Wild poliovirus type 1 (WPV1) has been detected in sewage samples from 42 sites across Pakistan. The health officials reported that out of 127 samples collected from 87 districts in July, 42 tested positive, 75 were negative, and 10 are under process. The findings follow three new polio cases reported earlier this month, raising Pakistan&#8217;s [&#8230;]",
+        "article": "Wild poliovirus type 1 (WPV1) has been detected in sewage samples from 42 sites across Pakistan. The health officials reported that out of 127 samples collected from 87 districts in July, 42 tested positive, 75 were negative, and 10 are under process. The findings follow three new polio cases reported earlier this month, raising Pakistan&#8217;s 2025 total to 17 cases, 10 from Khyber Pakhtunkhwa, five from Sindh, and one each from Punjab and Gilgit-Baltistan.",
+        "date": "2025-08-13",
+        "pubDate": "2025-08-13T11:11:04+00:00",
+        "link": "https://newsonair.gov.in/wild-poliovirus-detected-in-sewage-samples-across-42-sites-in-pakistan/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Delhi_fort.jpg/960px-Delhi_fort.jpg",
+        "image_credit": "Wikipedia – Red Fort (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Chikungunya Outbreak in China: Over 7,000 Cases Emerge in Guangdong",
+        "summary": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. [&#8230;]",
+        "article": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. Apart from Foshan, at least 12 other cities in China&#8217;s southern Guangdong province have reported infections from this a mosquito-borne virus, with nearly 3,000 cases got reported last week. Although rare in China, chikungunya outbreaks are common in South and South East Asia and parts of Africa. On Monday, Hong Kong reported its first case of the viral disease after a 12-year-old boy who developed fever, rash and joint pain after traveling to Foshan in July. An official said, all the reported cases have been mild so far, with 95 per cent of the patients discharged within seven days, Still, the cases have led to some panic, given the virus is not widely known in the country. Meanwhile, the US has urged travellers to China to exercise &#8220;increased caution&#8221; following the outbreak.",
+        "date": "2025-08-05",
+        "pubDate": "2025-08-05T12:03:13+00:00",
+        "link": "https://newsonair.gov.in/chikungunya-outbreak-in-china-over-7000-cases-emerge-in-guangdong/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg/960px-China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg",
+        "image_credit": "Wikipedia – Guangdong (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Matru Vandana Yojana Registration Drive Extended Till August 15",
+        "summary": "The Ministry of Women and Child Development has extended the special registration drive for the Pradhan Mantri Matru Vandana Yojana (PMMVY) till the 15th of this month. The PMMVY, a door-to-door awareness-cum-enrolment campaign led by Anganwadi and ASHA workers, aims to reach out to all eligible pregnant and lactating women and ensure their timely registration [&#8230;]",
+        "article": "The Ministry of Women and Child Development has extended the special registration drive for the Pradhan Mantri Matru Vandana Yojana (PMMVY) till the 15th of this month. The PMMVY, a door-to-door awareness-cum-enrolment campaign led by Anganwadi and ASHA workers, aims to reach out to all eligible pregnant and lactating women and ensure their timely registration under the scheme. According to the Ministry of Women and Child Development, PMMVY provides financial assistance to support nutritious diets and improve health-seeking behaviour amongst pregnant women and lactating mothers, along with promoting positive attitudes toward the girl child. The Ministry, in a statement, further informed that since the scheme&#8217;s inception, more than 4.05 crore beneficiaries have been paid the maternity benefit (at least one instalment) amounting to 19 thousand and 28 crore rupees through direct benefit transfer in their bank or post office accounts.",
+        "date": "2025-08-05",
+        "pubDate": "2025-08-05T02:16:32+00:00",
+        "link": "https://newsonair.gov.in/pm-matru-vandana-yojana-registration-drive-extended-till-august-15/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/RajyaSabhaAsOfMay9%2C2026.svg/960px-RajyaSabhaAsOfMay9%2C2026.svg.png",
+        "image_credit": "Wikipedia – Parliament of India (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Vaccines Prevented Over 2.5 Million Covid Deaths Worldwide: Study",
+        "summary": "Vaccines have prevented more than 2.5 million deaths caused by SARS-CoV-2, the virus behind COVID-19, according to a new study. Led by researchers from the Catholic University of the Sacred Heart in Italy, the study found that one COVID-related death was avoided for every 5,400 vaccine doses administered. &#160; About 82% of the lives saved [&#8230;]",
+        "article": "Vaccines have prevented more than 2.5 million deaths caused by SARS-CoV-2, the virus behind COVID-19, according to a new study. Led by researchers from the Catholic University of the Sacred Heart in Italy, the study found that one COVID-related death was avoided for every 5,400 vaccine doses administered. &nbsp; About 82% of the lives saved involved people who were vaccinated before contracting the virus. Additionally, 57% of the total lives saved were during the Omicron period, and 90% of the deaths prevented were among individuals aged 60 and above. Overall, the study estimated that vaccines saved 14.8 million years of life globally—equivalent to one year of life saved for every 900 doses administered. &nbsp; The findings were published in the JAMA Health Forum journal. While previous studies attempted to estimate lives saved by vaccines using different models, timeframes, or regional data, this study is the most comprehensive to date. It uses global data, including the Omicron period, quantifies life years saved, and is based on fewer assumptions regarding pandemic trends. &nbsp;",
+        "date": "2025-07-28",
+        "pubDate": "2025-07-28T03:24:29+00:00",
+        "link": "https://newsonair.gov.in/vaccines-prevented-over-2-5-million-covid-deaths-worldwide-study/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/960px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
+        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "World Embracing Ayurveda’s Science and Potential: AYUSH Minister",
+        "summary": "Minister of AYUSH Prataprao Ganpatrao Jadhav today said that the entire world is now understanding and adopting the scientific basis, utility, and vast potential of Ayurveda. The minister made these remarks during the inaugrual event of Shalyacon 2025 organised by the All-India Institute of Ayurveda in New Delhi. He underlined that Ministry of AYUSH is [&#8230;]",
+        "article": "Minister of AYUSH Prataprao Ganpatrao Jadhav today said that the entire world is now understanding and adopting the scientific basis, utility, and vast potential of Ayurveda. The minister made these remarks during the inaugrual event of Shalyacon 2025 organised by the All-India Institute of Ayurveda in New Delhi. He underlined that Ministry of AYUSH is committed to the continuous development of Ayurveda and surgical practices, as well as to gaining global recognition for them. &nbsp; Shalyacon 2025 is a three-day National Conference on Shalya Tantra. The event, which began yesterday, is being organized to commemorate the auspicious occasion of Sushruta Jayanti, honouring the legacy of the pioneer of surgery, Acharya Sushruta. The seminar features live surgical demonstrations including general surgeries, anorectal surgeries, and urosurgical cases. This conference aims to facilitate the exchange of ideas, showcase clinical advancements, and explore emerging trends in Ayurvedic surgical practices.",
+        "date": "2025-07-14",
+        "pubDate": "2025-07-14T11:41:18+00:00",
+        "link": "https://newsonair.gov.in/world-embracing-ayurvedas-science-and-potential-ayush-minister/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg/960px-Mumbai_Bandra-Worli_Sea_Link.jpg",
+        "image_credit": "Wikipedia – Mumbai (CC BY-SA)",
+        "source": "Prasar Bharati"
+      }
+    ]
+  }
+};
