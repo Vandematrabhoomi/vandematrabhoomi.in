@@ -295,9 +295,15 @@ def strip_tags(html):
     html = re.sub(r'<(script|style)[^>]*>.*?</(script|style)>', ' ', html,
                   flags=re.S | re.I)
     text = re.sub(r'<[^>]+>', ' ', html)
+    # Named + numeric HTML entities
     for ent, rep in (('&nbsp;', ' '), ('&amp;', '&'), ('&lt;', '<'),
-                     ('&gt;', '>'), ('&quot;', '"'), ('&#39;', "'")):
+                     ('&gt;', '>'), ('&quot;', '"'), ('&#39;', "'"),
+                     ('&hellip;', '…'), ('&#8230;', '…'), ('&ndash;', '–'),
+                     ('&mdash;', '—'), ('&rsquo;', '’'), ('&lsquo;', '‘'),
+                     ('&rdquo;', '”'), ('&ldquo;', '“')):
         text = text.replace(ent, rep)
+    # Strip WordPress [caption], [&hellip;], [...] shortcode remnants
+    text = re.sub(r'\[/?[a-zA-Z][^\]]{0,60}\]', '', text)
     return re.sub(r'\s+', ' ', text).strip()
 
 
