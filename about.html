@@ -291,7 +291,7 @@
 </div>
 
 <script>
-var abtLang = (new URLSearchParams(window.location.search)).get('lang') === 'hi' ? 'hi' : 'en';
+var abtLang = (new URLSearchParams(window.location.search)).get('lang') === 'en' ? 'en' : 'hi';
 function abtSetLang(l) {
   abtLang = l;
   document.getElementById('abt-hi').classList.toggle('active', l==='hi');

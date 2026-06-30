@@ -57,7 +57,7 @@
       display: flex; flex-direction: column; align-items: center;
       justify-content: center; gap: 5px;
       padding: 15px 6px; cursor: pointer; border: none;
-      background: transparent; color: rgba(255,255,255,.45);
+      background: transparent; color: #fff;
       font-family: 'Archivo', sans-serif;
       font-size: 9px; font-weight: 600; letter-spacing: .07em;
       text-transform: uppercase;
@@ -65,7 +65,7 @@
       transition: color .15s, background .15s, border-color .15s;
       width: 100%; line-height: 1;
     }
-    .sb-tab:hover { color: rgba(255,255,255,.8); background: rgba(255,255,255,.06); }
+    .sb-tab:hover { color: #fff; background: rgba(255,255,255,.12); }
     .sb-tab.active {
       background: rgba(91,164,245,.22);
       border-left-color: var(--sidebar-acc);
@@ -1054,7 +1054,7 @@
     <span class="util-date" id="util-date"></span>
     <div class="util-links">
       <a href="#" data-hi="ई-पेपर"         data-en="E-Paper">ई-पेपर</a>
-      <a href="#" onclick="window.location.href='about.html'+(lang==='hi'?'?lang=hi':'');return false;" data-hi="हमारे बारे में" data-en="About Us">हमारे बारे में</a>
+      <a href="#" onclick="window.location.href='about.html?lang='+lang;return false;" data-hi="हमारे बारे में" data-en="About Us">हमारे बारे में</a>
       <a href="advertise.html" data-hi="विज्ञापन"       data-en="Advertise">विज्ञापन</a>
       <a href="contact.html"  data-hi="संपर्क करें"    data-en="Contact Us">संपर्क करें</a>
       <a href="grievance.html" class="grv-link" data-hi="शिकायत और विचार" data-en="Grievance & Ideas">शिकायत और विचार</a>
@@ -1204,7 +1204,7 @@
             <div class="fcol">
               <div class="fcol-title" data-hi="सहायता" data-en="HELP">सहायता</div>
               <ul>
-                <li><a href="#" onclick="window.location.href='about.html'+(lang==='hi'?'?lang=hi':'');return false;" data-hi="हमारे बारे में" data-en="About Us">हमारे बारे में</a></li>
+                <li><a href="#" onclick="window.location.href='about.html?lang='+lang;return false;" data-hi="हमारे बारे में" data-en="About Us">हमारे बारे में</a></li>
                 <li><a href="contact.html"   data-hi="संपर्क करें" data-en="Contact Us">संपर्क करें</a></li>
                 <li><a href="advertise.html" data-hi="विज्ञापन"    data-en="Advertise">विज्ञापन</a></li>
                 <li><a href="#" data-hi="ई-पेपर"         data-en="E-Paper">ई-पेपर</a></li>
