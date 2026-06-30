@@ -44,8 +44,14 @@
       display: flex; flex-direction: column; align-items: center;
       padding: 14px 0 12px;
     }
-    .sb-logo { width: 42px; height: 42px; margin-bottom: 14px; }
-    .sb-logo img { width: 100%; height: 100%; object-fit: contain; }
+    .sb-logo {
+      width: 46px; height: 46px; margin-bottom: 14px;
+      background: #fff; border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      flex-shrink: 0; padding: 4px;
+      box-shadow: 0 0 0 2px rgba(255,255,255,.3);
+    }
+    .sb-logo img { width: 100%; height: 100%; object-fit: contain; border-radius: 50%; }
     .sb-tabs { flex: 1; display: flex; flex-direction: column; width: 100%; }
     .sb-tab {
       display: flex; flex-direction: column; align-items: center;
@@ -878,25 +884,35 @@
     .ad-placeholder {
       width: 100%; height: 100%;
       display: flex; flex-direction: column;
-      align-items: center; justify-content: center; gap: 5px;
-      border: 2px dashed #ddd; border-radius: 4px;
-      background: #fafafa;
+      align-items: center; justify-content: center; gap: 6px;
+      background: #1565c0;
+      border-radius: 4px;
     }
     .ad-placeholder .ad-ph-hi {
       font-family: 'Noto Serif Devanagari', serif;
-      font-size: 13px; font-weight: 600; color: #bbb;
+      font-size: 18px; font-weight: 700; color: #fff;
+      letter-spacing: .01em;
     }
     .ad-placeholder .ad-ph-en {
       font-family: 'Archivo', sans-serif;
-      font-size: 11px; color: #ccc; letter-spacing: .04em;
+      font-size: 12px; font-weight: 600;
+      color: rgba(255,255,255,.75); letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+    .ad-placeholder .ad-contact-label {
+      font-family: 'Archivo', sans-serif;
+      font-size: 11px; font-weight: 600;
+      color: rgba(255,255,255,.6); letter-spacing: .06em;
+      text-transform: uppercase; margin-top: 4px;
     }
     .ad-placeholder a {
       font-family: 'Archivo', sans-serif;
-      font-size: 12px; font-weight: 700;
-      color: #1565c0; text-decoration: none;
-      margin-top: 2px;
+      font-size: 15px; font-weight: 700;
+      color: #fff; text-decoration: none;
+      border-bottom: 2px solid rgba(255,255,255,.4);
+      padding-bottom: 1px;
     }
-    .ad-placeholder a:hover { text-decoration: underline; }
+    .ad-placeholder a:hover { border-bottom-color: #fff; }
 
     /* Tighter ad strip inside section content areas */
     .ad-strip {
@@ -1296,8 +1312,9 @@
           <span class="ad-banner-label">Advertisement</span>
           <div class="ad-banner-slot">
             <div class="ad-placeholder">
-              <div class="ad-ph-hi" data-hi="विज्ञापन के लिए उपलब्ध" data-en="Available for Advertisement">विज्ञापन के लिए उपलब्ध</div>
-              <div class="ad-ph-en" data-hi="यहाँ अपना विज्ञापन दें" data-en="Advertise your brand here">यहाँ अपना विज्ञापन दें</div>
+              <div class="ad-ph-hi" data-hi="विज्ञापन के लिए उपलब्ध" data-en="This Space is Available for Advertisement">विज्ञापन के लिए उपलब्ध</div>
+              <div class="ad-ph-en" data-hi="यहाँ अपना ब्रांड प्रमोट करें" data-en="Promote Your Brand Here">यहाँ अपना ब्रांड प्रमोट करें</div>
+              <div class="ad-contact-label" data-hi="विज्ञापन हेतु संपर्क करें" data-en="Contact for Advertisement">विज्ञापन हेतु संपर्क करें</div>
               <a href="mailto:admin@vandematrabhoomi.in">admin@vandematrabhoomi.in</a>
             </div>
           </div>
@@ -1352,8 +1369,9 @@
           <span class="ad-banner-label">Advertisement</span>
           <div class="ad-banner-slot">
             <div class="ad-placeholder">
-              <div class="ad-ph-hi" data-hi="विज्ञापन के लिए उपलब्ध" data-en="Available for Advertisement">विज्ञापन के लिए उपलब्ध</div>
-              <div class="ad-ph-en" data-hi="यहाँ अपना विज्ञापन दें" data-en="Advertise your brand here">यहाँ अपना विज्ञापन दें</div>
+              <div class="ad-ph-hi" data-hi="विज्ञापन के लिए उपलब्ध" data-en="This Space is Available for Advertisement">विज्ञापन के लिए उपलब्ध</div>
+              <div class="ad-ph-en" data-hi="यहाँ अपना ब्रांड प्रमोट करें" data-en="Promote Your Brand Here">यहाँ अपना ब्रांड प्रमोट करें</div>
+              <div class="ad-contact-label" data-hi="विज्ञापन हेतु संपर्क करें" data-en="Contact for Advertisement">विज्ञापन हेतु संपर्क करें</div>
               <a href="mailto:admin@vandematrabhoomi.in">admin@vandematrabhoomi.in</a>
             </div>
           </div>
