@@ -78,15 +78,15 @@
     }
     .lang-btn {
       font-family: 'Archivo', sans-serif;
-      font-size: 11px; font-weight: 600;
-      padding: 4px 10px; border-radius: 20px;
-      border: 1px solid rgba(255,255,255,.18);
-      background: transparent; color: rgba(255,255,255,.4);
+      font-size: 13px; font-weight: 700;
+      padding: 7px 16px; border-radius: 20px;
+      border: 1.5px solid rgba(255,255,255,.65);
+      background: transparent; color: #fff;
       cursor: pointer; transition: all .15s;
     }
     .lang-btn.active {
-      background: rgba(255,255,255,.9); color: #cc0000;
-      border-color: rgba(255,255,255,.9);
+      background: #fff; color: #cc0000;
+      border-color: #fff;
     }
 
     /* ── Main ───────────────────────────────────────────── */
@@ -881,49 +881,53 @@
     .ibs-ad-cta { flex-shrink:0; padding:0 16px 0 10px; }
     .ibs-ad-btn { background:#2d9494; color:#fff; padding:9px 18px; border-radius:22px; font-family:Arial,Helvetica,sans-serif; font-size:12px; font-weight:700; letter-spacing:.07em; white-space:nowrap; }
     /* Ad available placeholder */
-    @keyframes ad-scroll {
-      0%, 100% { transform: translateX(22%); }
-      50%       { transform: translateX(-22%); }
+    @keyframes ad-marquee {
+      0%   { transform: translateX(300%); }
+      28%  { transform: translateX(0%); }
+      72%  { transform: translateX(0%); }
+      100% { transform: translateX(-300%); }
     }
     .ad-placeholder {
       width: 100%; height: 100%;
       display: flex; flex-direction: column;
       align-items: center; justify-content: center;
-      background: #0288d1;
+      background: #e3f2fd;
       border-radius: 4px;
       overflow: hidden;
+      border: 1px solid #90caf9;
     }
     .ad-ticker-inner {
       display: flex; flex-direction: column;
       align-items: center; gap: 6px;
-      animation: ad-scroll 5s ease-in-out infinite;
-      padding: 0 6px;
+      animation: ad-marquee 9s ease-in-out infinite;
+      white-space: nowrap;
+      padding: 0 8px;
     }
     .ad-placeholder .ad-ph-hi {
       font-family: 'Noto Serif Devanagari', serif;
-      font-size: 18px; font-weight: 700; color: #fff;
+      font-size: 18px; font-weight: 700; color: #0d47a1;
       letter-spacing: .01em;
     }
     .ad-placeholder .ad-ph-en {
       font-family: 'Archivo', sans-serif;
       font-size: 12px; font-weight: 600;
-      color: rgba(255,255,255,.75); letter-spacing: .08em;
+      color: #1565c0; letter-spacing: .08em;
       text-transform: uppercase;
     }
     .ad-placeholder .ad-contact-label {
       font-family: 'Archivo', sans-serif;
       font-size: 11px; font-weight: 600;
-      color: rgba(255,255,255,.6); letter-spacing: .06em;
+      color: #1976d2; letter-spacing: .06em;
       text-transform: uppercase; margin-top: 4px;
     }
     .ad-placeholder a {
       font-family: 'Archivo', sans-serif;
       font-size: 15px; font-weight: 700;
-      color: #fff; text-decoration: none;
-      border-bottom: 2px solid rgba(255,255,255,.4);
+      color: #0d47a1; text-decoration: none;
+      border-bottom: 2px solid rgba(13,71,161,.3);
       padding-bottom: 1px;
     }
-    .ad-placeholder a:hover { border-bottom-color: #fff; }
+    .ad-placeholder a:hover { border-bottom-color: #0d47a1; }
 
     /* Tighter ad strip inside section content areas */
     .ad-strip {
