@@ -1,8 +1,107 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-06-30T20:11:15.474679",
+  "generated": "2026-06-30T22:00:13.689470",
   "en": {
     "top": [
+      {
+        "title": "Southwest Monsoon Likely to Advance Over Delhi, Haryana, Punjab and Chandigarh in Next 2–3 Days",
+        "summary": "Southwest Monsoon is likely to advance over Delhi, Haryana, Chandigarh and Punjab during the next two to three days. India Meteorological Department (IMD) said that similar weather conditions are expected to prevail over some parts of the North Arabian Sea, Gujarat, Madhya Pradesh, Uttar Pradesh, the remaining parts of Uttarakhand, Himachal Pradesh, Jammu and Kashmir [&#8230;]",
+        "article": "Southwest Monsoon is likely to advance over Delhi, Haryana, Chandigarh and Punjab during the next two to three days. India Meteorological Department (IMD) said that similar weather conditions are expected to prevail over some parts of the North Arabian Sea, Gujarat, Madhya Pradesh, Uttar Pradesh, the remaining parts of Uttarakhand, Himachal Pradesh, Jammu and Kashmir and Ladakh, Daman and Diu, and some parts of Rajasthan during the same period. The weather agency has predicted heavy to very heavy rainfall over Bihar, Chhattisgarh, Coastal Karnataka, Madhya Pradesh, Kerala, Mahe, Konkan, Goa, Odisha, Jharkhand, South Interior Karnataka, Vidarbha, Uttar Pradesh and Parts of North Eastern Region till 2nd of the next month. The Met department has forecast thunderstorms accompanied with lightning and gusty winds over Andaman and Nicobar Islands, Lakshadweep, Tamil Nadu Puducherry and Karaikal till 6th of the next month. The IMD has also predicted that during July, below-normal rainfall is likely over most parts of the country. However, some areas of Northwest and Northeast India, East-Central India and the eastern peninsular region are likely to receive normal to above-normal rainfall.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:28:20+00:00",
+        "link": "https://newsonair.gov.in/southwest-monsoon-likely-to-advance-over-delhi-haryana-punjab-and-chandigarh-in-next-2-3-days/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260628303f-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "RBI Says Indian Economy and Financial System Show Remarkable Resilience Amid External Shocks",
+        "summary": "Reserve Bank of India said that the Indian economy and the financial system have demonstrated remarkable resilience despite facing external shocks of significant magnitude. In his foreword to the RBI’s Financial Stability Report, RBI Governor Sanjay Malhotra said strong growth, low inflation, healthy balance sheets of financial and non-financial firms, and ample buffers have helped [&#8230;]",
+        "article": "Reserve Bank of India said that the Indian economy and the financial system have demonstrated remarkable resilience despite facing external shocks of significant magnitude. In his foreword to the RBI’s Financial Stability Report, RBI Governor Sanjay Malhotra said strong growth, low inflation, healthy balance sheets of financial and non-financial firms, and ample buffers have helped preserve macro-financial stability. The Financial Stability report stated that India&#8217;s sound macroeconomic fundamentals place it in a stronger position than many of its peers and provide greater resilience to external shocks. The report highlighted that the domestic financial system remains resilient, underpinned by strong bank and non-bank balance sheets. Scheduled Commercial Banks (SCBs) remain safe and sound, supported by strong capital and liquidity buffers, continued improvement in asset quality, and stable profitability. The report pointed out that elevated public debt, bond market fragilities, stretched asset valuations remain key vulnerabilities that could amplify future shocks.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:20:45+00:00",
+        "link": "https://newsonair.gov.in/rbi-says-indian-economy-and-financial-system-show-remarkable-resilience-amid-external-shocks/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/rbi-reuters-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government Extends Customs Duty Exemption on Critical Petrochemical Products Till July 15",
+        "summary": "Government has extended full customs duty exemption on critical petrochemical products in view of ongoing conflict in West Asia till 15th July 2026. Centre had earlier provided a full customs duty exemption till today, as a temporary and targeted relief due to consequent disruptions in global supply chains. The exemption was provided to ensure sufficient [&#8230;]",
+        "article": "Government has extended full customs duty exemption on critical petrochemical products in view of ongoing conflict in West Asia till 15th July 2026. Centre had earlier provided a full customs duty exemption till today, as a temporary and targeted relief due to consequent disruptions in global supply chains. The exemption was provided to ensure sufficient availability of petrochemicals in the domestic market as Indian petroleum companies had been asked to concentrate on the production of LPG during this period. As the situation is gradually normalizing, this move will ensure a smooth and non-disruptive transition for the affected sectors. The list of products covered remains the same as notified earlier. The Government remains committed to supporting India&#8217;s manufacturing sector. The exemption is expected to benefit a wide range of sectors dependent on petrochemical feedstock and intermediates, including plastics, packaging, textiles, pharmaceuticals, chemicals, automotive components and other manufacturing segments.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:19:21+00:00",
+        "link": "https://newsonair.gov.in/government-extends-customs-duty-exemption-on-critical-petrochemical-products-till-july-15/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Developed India Goal Depends on Advanced Agriculture & Prosperous Farmers: Union Minister Shivraj Singh Chouhan",
+        "summary": "Union Minister for Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan said that achieving the goal of a &#8216;Viksit Bharat&#8217; (Developed India) is impossible without advanced agriculture and prosperous farmers. Addressing the closing ceremony of the &#8216;Khet Bachao Abhiyan&#8217; at the Agricultural University at Bawal in Rewari district of Haryana, the Union Agriculture Ministe",
+        "article": "Union Minister for Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan said that achieving the goal of a &#8216;Viksit Bharat&#8217; (Developed India) is impossible without advanced agriculture and prosperous farmers. Addressing the closing ceremony of the &#8216;Khet Bachao Abhiyan&#8217; at the Agricultural University at Bawal in Rewari district of Haryana, the Union Agriculture Minister remarked that farmers are the backbone of the nation&#8217;s economy and their prosperity forms the foundation of India&#8217;s prosperity. He noted that the Central Government is continuously working to make agriculture profitable, modern, and sustainable. Mr. Chouhan mentioned that the government is developing a mobile app to provide information regarding soil health and the specific quantities of fertilizers required. He advised farmers to adopt organic farming practices to preserve their farmlands. Addressing the media, Mr. Chouhan stated that although the campaign is concluding today, awareness programs under the &#8216;Khet Bachao Abhiyan&#8217; will continue. On this occasion, Union Agriculture Minister Shivraj Singh Chouhan and Chief Minister Nayab Singh Saini jointly inaugurated an agro-industrial exhibition showcasing the latest agricultural innovations, as well as the &#8216;Haryana FPO Mission-2026&#8217;. Chief Minister Nayab Singh Saini stated that the objective of the FPO Mission is to make farmers self-reliant.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:17:27+00:00",
+        "link": "https://newsonair.gov.in/developed-india-goal-depends-on-advanced-agriculture-prosperous-farmers-union-minister-shivraj-singh-chouhan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Union-Minister-Shivraj-Singh-Chouhan-holds-review-meeting-on-El-Nino-effect-on-agriculture.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Tourism Ministry Signs MoU with Google India to Boost Digital Promotion of Tourism Destinations",
+        "summary": "The Ministry of Tourism today signed a Memorandum of Understanding with Google India to strengthen the digital promotion of India’s tourism destinations. The MoU was exchanged in the presence of Tourism Minister Gajendra Singh Shekhawat in New Delhi. Speaking on the occasion, Mr. Shekhawat said digital technologies can create immersive experiences that showcase the glory [&#8230;]",
+        "article": "The Ministry of Tourism today signed a Memorandum of Understanding with Google India to strengthen the digital promotion of India’s tourism destinations. The MoU was exchanged in the presence of Tourism Minister Gajendra Singh Shekhawat in New Delhi. Speaking on the occasion, Mr. Shekhawat said digital technologies can create immersive experiences that showcase the glory and grandeur of India’s cultural sites to audiences across the world. He said the collaboration under the Incredible India initiative will strengthen India’s global tourism presence, improve digital outreach and position the country as a modern and globally competitive travel destination. Under the partnership, Google India will provide insights on global travel trends, traveller behaviour and digital engagement to support evidence-based tourism promotion. The collaboration also includes training and capacity-building programmes for Ministry officials in digital marketing, content creation, campaign optimisation and artificial intelligence.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:15:12+00:00",
+        "link": "https://newsonair.gov.in/tourism-ministry-signs-mou-with-google-india-to-boost-digital-promotion-of-tourism-destinations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMD5LAlWAAAaIkx-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian Railways Sanctions Electronic Interlocking Project at 27 Stations in Asansol Division",
+        "summary": "Indian Railways has sanctioned a project for the replacement of relay-based interlocking with Electronic Interlocking at 27 stations or cabins on the High Density Network (HDN) and Highly Utilised Network (HUN) routes of Asansol Division of Eastern Railway. The Ministry of Railways said that the sanctioned work includes the replacement of 28 relay-based interlocking installations [&#8230;]",
+        "article": "Indian Railways has sanctioned a project for the replacement of relay-based interlocking with Electronic Interlocking at 27 stations or cabins on the High Density Network (HDN) and Highly Utilised Network (HUN) routes of Asansol Division of Eastern Railway. The Ministry of Railways said that the sanctioned work includes the replacement of 28 relay-based interlocking installations with state-of-the-art Electronic Interlocking systems, significantly enhancing the safety, reliability and operational efficiency of train operations. The cost of the project is over four hundred crore rupees. The project is part of Indian Railways&#8217; ongoing programme for the provision of Electronic Interlocking on HDN/HUN routes where advanced signalling systems such as Kavach, Automatic Block Signalling and Centralised Traffic Control are being implemented. Electronic Interlocking is a modern signalling technology that replaces ageing relay-based systems with computer-based interlocking, ensuring higher reliability, faster fault diagnosis, easier maintenance and enhanced operational flexibility. The project will further strengthen railway safety while supporting higher line capacity and more efficient train operations on one of the busiest sections of the network.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:02:50+00:00",
+        "link": "https://newsonair.gov.in/indian-railways-sanctions-electronic-interlocking-project-at-27-stations-in-asansol-division/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/railways.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NHAI to Establish Nationwide Framework for Design Vetting of Critical Bridge Projects",
+        "summary": "In a major move to significantly enhance structural safety, improve design reliability, and minimize long-term operational risks for national infrastructure, the National Highways Authority of India (NHAI) is set to establish a nationwide institutional framework for the design vetting of critical bridge projects. According to the Ministry of Road Transport and Highways, this initiative aims [&#823",
+        "article": "In a major move to significantly enhance structural safety, improve design reliability, and minimize long-term operational risks for national infrastructure, the National Highways Authority of India (NHAI) is set to establish a nationwide institutional framework for the design vetting of critical bridge projects. According to the Ministry of Road Transport and Highways, this initiative aims to ensure that major bridges, which are designed for a service life of 100 years or more, undergo rigorous independent technical reviews before construction begins. To achieve this, NHAI will empanel Indian Institutes of Technology (IITs) and other premier technical institutions to conduct independent proof checking of hydraulic studies and designs for major bridge structures across all new National Highway projects. The comprehensive review process will encompass detailed evaluations of structural design calculations, engineering drawings, construction methodologies, geotechnical investigations, and hydraulic studies. Around 12 IITs, including IIT Delhi, IIT Bombay, IIT Roorkee, and IIT Kharagpur, alongside several other technical institutions, have already expressed their willingness to collaborate with the NHAI to strengthen quality assurance practices and promote better design and execution.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:00:36+00:00",
+        "link": "https://newsonair.gov.in/nhai-to-establish-nationwide-framework-for-design-vetting-of-critical-bridge-projects/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/NHAI-2-scaled-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "HM Amit Shah Launches FCRA 2.0 Portal and e-OCI Card",
+        "summary": "Union Home Minister Amit Shah today launched the Foreign Contribution (Regulation) Act (FCRA) 2.0 Portal and the Electronic Overseas Citizen of India (e-OCI) Card in New Delhi. Speaking on the occasion, Mr Shah said both initiatives will improve citizen services and address the difficulties faced by those receiving donations through the FCRA portal. He said [&#8230;]",
+        "article": "Union Home Minister Amit Shah today launched the Foreign Contribution (Regulation) Act (FCRA) 2.0 Portal and the Electronic Overseas Citizen of India (e-OCI) Card in New Delhi. Speaking on the occasion, Mr Shah said both initiatives will improve citizen services and address the difficulties faced by those receiving donations through the FCRA portal. He said when the intention is clear, the policy is transparent, and there is a mindset to embrace technology, then all forms of governance becomes easier for honest people. He underlined that a strict surveillance system is established against wrongdoers, and the country becomes increasingly secure. The Home Minister informed that the initial problems faced in the OCI system have been resolved in the new system, and it will bring great convenience to more than 50 lakh OCI cardholders. He added that after 20 years, when a new passport is issued, there will be no need to re-issue the OCI booklet, and the cardholder’s registration number will remain unique. The FCRA 2.0 Portal has been developed to simplify compliance under the Foreign Contribution (Regulation) Act and to strengthen the monitoring and enforcement mechanism. All major processes related to applications, renewals, annual returns, and other services have now been made fully digital through an end-to-end online system. e-OCI Card is a major citizen-centric initiative aimed at transforming OCI services for the global Indian diaspora through a fully digital platform. Under the new system, applicants can complete the entire OCI process online, from submitting the application and uploading supporting documents to downloading the digitally generated card after approval.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T15:21:44+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-launches-fcra-2-0-portal-and-e-oci-card/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMEACBHXEAAfKom-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Japan PM Sanae Takaichi to Visit India for 16th India-Japan Annual Summit",
+        "summary": "Prime Minister of Japan, Sanae Takaichi, will arrive in New Delhi tomorrow evening on a three-day visit for the 16th India-Japan Annual Summit. The External Affairs Ministry said the Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation and exchange views on regional and global issues [&#8230;]",
+        "article": "Prime Minister of Japan, Sanae Takaichi, will arrive in New Delhi tomorrow evening on a three-day visit for the 16th India-Japan Annual Summit. The External Affairs Ministry said the Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation and exchange views on regional and global issues of mutual interest. On the second day of the visit, Prime Minister Takaichi will be accorded a ceremonial reception at Rashtrapati Bhavan. She will then hold talks with Prime Minister Narendra Modi. The two leaders are expected to review progress in bilateral ties and discuss ways to further deepen cooperation across key sectors. This will be followed by the exchange of Memoranda of Understanding and joint press statements. In the afternoon, Prime Minister Takaichi will participate in the India-Japan Business Forum at the national capital. This is Prime Minister Takaichi&#8217;s first official visit to India. The visit follows Prime Minister Narendra Modi&#8217;s visit to Tokyo in August last year for the 15th India-Japan Annual Summit and reflects the shared commitment of the two countries to further strengthen the India-Japan Special Strategic and Global Partnership.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T14:42:53+00:00",
+        "link": "https://newsonair.gov.in/japan-pm-sanae-takaichi-to-visit-india-for-16th-india-japan-annual-summit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMEaFNzXYAAca6x.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Pakistan: Human Rights Groups Condemn Raid on BYC Member Sammi Deen Baloch’s Residence",
         "summary": "In Pakistan&#8217;s, several leading human rights organisations condemned the raid by Pakistani security forces on the residence of Sammi Deen Baloch, a member of the human rights organisation Baloch Yakjehti Committee (BYC) in Karachi, describing it as part of the state&#8217;s continuing campaign of coercion and aggression against the Baloch people. The remarks came after [&#8230;]",
@@ -35,108 +134,108 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/INDIAN-OIL.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ravi Agrawal Re-Appointed as CBDT Chairman",
-        "summary": "Ravi Agrawal has been re-appointed as Chairman, Central Board of Direct Taxes (CBDT), on contract basis, for a period of six months with effect from tomorrow till 31st December 2026 or until further orders, whichever is earlier. The appointments committee of the cabinet has approved the re-appointment.",
-        "article": "Ravi Agrawal has been re-appointed as Chairman, Central Board of Direct Taxes (CBDT), on contract basis, for a period of six months with effect from tomorrow till 31st December 2026 or until further orders, whichever is earlier. The appointments committee of the cabinet has approved the re-appointment.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T13:55:18+00:00",
-        "link": "https://newsonair.gov.in/ravi-agrawal-re-appointed-as-cbdt-chairman/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/202606303846123.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "President Droupadi Murmu Calls on Students to Use Education for Inclusive Nation-Building",
-        "summary": "President Droupadi Murmu today called upon students to use education as a means to build an equitable and inclusive society while addressing the first convocation of the Central Tribal University of Andhra Pradesh in Visakhapatnam. She said educated youth should not work only for their own progress but also strive to uplift the weaker sections [&#8230;]",
-        "article": "President Droupadi Murmu today called upon students to use education as a means to build an equitable and inclusive society while addressing the first convocation of the Central Tribal University of Andhra Pradesh in Visakhapatnam. She said educated youth should not work only for their own progress but also strive to uplift the weaker sections and contribute to nation-building. The President urged students to become agents of social transformation, saying education should go beyond securing employment and help strengthen society, culture, traditions and economic progress. She said every educated youth should help bring forward those left behind and contribute towards achieving the goal of a developed India by 2047. Emphasising the importance of meaningful education, President Murmu said students should combine academic learning with practical knowledge and remain connected to their community, culture and traditions while acquiring new skills to meet the demands of a rapidly changing world. She said institutions established with the objective of social justice, such as the Central Tribal University, have a greater responsibility to promote tribal education, healthcare, skill development, livelihoods and forest rights. The President said the benefits of modern science should reach every section of society while preserving India&#8217;s rich heritage. She appreciated the University&#8217;s initiatives, including its Science and Technology Hub, Tribal Skill Development Centre and grassroots development programmes for tribal empowerment. She also stressed the need to preserve tribal languages and dialects and lauded the University&#8217;s documentation of the dialects of tribal communities, including the Koya and Savara. President Murmu expressed happiness that nearly 40 percent of the graduating students and around 70 per cent of the gold medal recipients are women, saying this reflects the University&#8217;s inclusive outlook and commitment to gender justice. Union Education Minister Dharmendra Pradhan said India&#8217;s knowledge system has its roots in tribal society, which has preserved invaluable knowledge of nature, forests, agriculture and animal husbandry. He said this traditional wisdom should be adapted to contemporary needs. The Minister urged students to become job creators rather than job seekers and said universities should lead innovation to help realise the vision of a developed India by 2047. During the convocation, President Murmu conferred degrees on 373 undergraduate and postgraduate students who completed their programmes between the 2020 and 2025-26 academic years. She also presented gold medals to 13 meritorious students, including 10 women, for their outstanding academic performance. Andhra Pradesh Governor S. Abdul Nazeer, State Education Minister Nara Lokesh, State Tribal Welfare Minister G. Sandhya Rani, University Chancellor Madan Lal Meena, Vice-Chancellor T. Srinivasan and other dignitaries attended the convocation.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T13:48:12+00:00",
-        "link": "https://newsonair.gov.in/president-droupadi-murmu-calls-on-students-to-use-education-for-inclusive-nation-building/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMD8OqPWcAAhawz-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "National Task Force Conducts Visits to Assess Student Mental Health",
-        "summary": "The National Task Force on Mental Health of Students and Prevention of Suicides in Higher Education Institutions has conducted field visits to 30 higher education institutions across 10 States since May last year. The visits were aimed at assessing regional and institutional challenges related to student mental health. The Task Force has also held 25 [&#8230;]",
-        "article": "The National Task Force on Mental Health of Students and Prevention of Suicides in Higher Education Institutions has conducted field visits to 30 higher education institutions across 10 States since May last year. The visits were aimed at assessing regional and institutional challenges related to student mental health. The Task Force has also held 25 stakeholder consultations. These were organised to adopt an interdisciplinary and equity-oriented approach. Since January this year, the consultations have focused on several key issues. These include caste discrimination, gender and mental health, concerns of students from Scheduled Tribe and OBC communities, disabilities, decriminalisation of suicide, the role of mental health NGOs, and issues concerning law students.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:58:21+00:00",
-        "link": "https://newsonair.gov.in/national-task-force-conducts-visits-to-assess-student-mental-health/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/MENTAL-HEALTH-MONTH.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India Signs 28 Migration and Mobility Partnership Agreements with 26 Countries: EAM Jaishankar",
-        "summary": "External Affairs Minister Dr S Jaishankar today said that India signed 28 migration and mobility partnership agreements with over 26 countries, while several others are currently under negotiation. He highlighted the collective responsibility of nations to combat illegal migration, exploitative practices, fraudulent intermediaries and human trafficking. The Minister said this while speaking at the",
-        "article": "External Affairs Minister Dr S Jaishankar today said that India signed 28 migration and mobility partnership agreements with over 26 countries, while several others are currently under negotiation. He highlighted the collective responsibility of nations to combat illegal migration, exploitative practices, fraudulent intermediaries and human trafficking. The Minister said this while speaking at the Human Resource Mobility Forum in New Delhi. He underlined the use of digital systems and tools in the transformation of governance in migration. Dr Jaishankar said that India’s commitment to safe and legal mobility is reflected in the e-Migrate platform, and since its inception more than five million immigration clearances have been issued. Dr Jaishankar underscored that India also recognizes the need for bilateral collaboration in ensuring safe, orderly, and legal migration. The Minister said that the Forum creates opportunities to exchange ideas, learn from experiences, and explore new approaches towards mobility. He also said the event brought together policymakers, industry leaders, employers, and practitioners. He added, India stands ready to work with its partners around the world in advancing shared vision. He further said, trusted mobility pathways can contribute to stronger economies, to more resilient societies, and to deeper international cooperation. The Minister said that technological innovation is reshaping industries at an unprecedented pace. Dr Jaishankar said that the world is undergoing a profound transformation, and as part of that demographic patterns are changing sharply across continents. He said that AI, automation, digitalization and green transition are redefining skills that are required for tomorrow’s economy. The External Affairs Minister said that human resource has emerged as one of the most critical factors of economic development. He said that human resource mobility represents far more than the movement of people from one place to another. He added, it is about connecting aspirations with opportunities, linking talent with demand, creating pathways through which individuals can contribute to economic progress. Dr Jaishankar said that India’s vision for mobility is not limited to facilitating overseas employment opportunities, rather as a very important pillar of international cooperation. He added, these partnerships are based on mutual benefit, shared responsibility and long-term sustainability.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:50:31+00:00",
-        "link": "https://newsonair.gov.in/india-signs-28-migration-and-mobility-partnership-agreements-with-26-countries-eam-jaishankar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Screenshot-2026-06-30-181916.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Defence Minister Rajnath Singh Emphasises Role of Strong Economy in Defence Capabilities",
-        "summary": "Defence Minister Rajnath Singh stressed that robust economy forms the foundation of strong defence capabilities. Addressing the valedictory session of the Vibrant Gujarat Regional Conference in Vadodara today, Mr. Singh expressed confidence that due to the strong presence in chemicals, electronics, shipbuilding and renewable energy sectors, Gujarat will soon emerge as a global hub for [&#8230;]",
-        "article": "Defence Minister Rajnath Singh stressed that robust economy forms the foundation of strong defence capabilities. Addressing the valedictory session of the Vibrant Gujarat Regional Conference in Vadodara today, Mr. Singh expressed confidence that due to the strong presence in chemicals, electronics, shipbuilding and renewable energy sectors, Gujarat will soon emerge as a global hub for defence manufacturing. Highlighting the country&#8217;s rapid progress towards self-reliance in defence manufacturing, he said India&#8217;s domestic defence production, which stood at around 46,000 crore rupees in 2014, has increased significantly to ₹1.78 lakh crore at present. He noted that Vadodara is now home to India&#8217;s first private-sector military aircraft manufacturing facility, where the Tata Group and Airbus are jointly manufacturing the C-295 transport aircraft, marking a historic milestone in the country&#8217;s aerospace journey. Chief Minister Bhupendra Patel announced that MoUs worth 3.34 lakh crore were signed during the two-day Vibrant Gujarat Regional Summit for which will lead to generate over 1.97 lakh job opportunities in the region in the coming days.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:38:49+00:00",
-        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-emphasises-role-of-strong-economy-in-defence-capabilities/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/aaa-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Afghanistan Strongly Condemns Pakistani Airstrikes at United Nations",
-        "summary": "Afghanistan&#8217;s Permanent Mission to the United Nations has strongly condemned the Pakistani airstrikes in the provinces of Paktia, Paktika, and Kunar, which killed and injured several Afghan civilians, including women and children. The mission called on Pakistan to immediately halt all military strikes on Afghan territory and ensure full accountability for alleged violations of international",
-        "article": "Afghanistan&#8217;s Permanent Mission to the United Nations has strongly condemned the Pakistani airstrikes in the provinces of Paktia, Paktika, and Kunar, which killed and injured several Afghan civilians, including women and children. The mission called on Pakistan to immediately halt all military strikes on Afghan territory and ensure full accountability for alleged violations of international law. The statement followed confirmation by Taliban Deputy Spokesman Hamdullah Fitrat that Pakistani airstrikes carried out on the night of June 28, killed 36 civilians and injured 163 others. The Afghan mission said the strikes constituted a serious violation of Afghanistan&#8217;s territorial integrity and were inconsistent with international law, including the Charter of the United Nations. It urged the United Nations and the wider international community to closely monitor the situation, reaffirm the principles of the UN Charter, and insist on respect for Afghanistan&#8217;s sovereignty and territorial integrity. The airstrikes have drawn widespread international concern. UN Secretary-General António Guterres called for an immediate cessation of hostilities and urged all parties to protect civilians. The European Union also called for restraint and de-escalation, stressing that international humanitarian law must be respected at all times and that civilians must be protected. Earlier, Afghanistan&#8217;s Ministry of Foreign Affairs summoned the Chargé d’Affaires of Pakistan&#8217;s Embassy in Kabul to lodge a strong protest.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:30:59+00:00",
-        "link": "https://newsonair.gov.in/afghanistan-strongly-condemns-pakistani-airstrikes-at-united-nations/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi Pays Tribute to Tribal Heroes on Hul Diwas",
-        "summary": "On the occasion of Hul Diwas today, Prime Minister Narendra Modi has paid tributes to Sidho-Kanhu, Chand-Bhairav, Phulo-Jhano, and all the brave tribal warriors who stood firm against the injustice of foreign rule. In a social media post, Mr Modi said that Hul Diwas is a powerful symbol of the extraordinary courage and unwavering spirit [&#8230;]",
-        "article": "On the occasion of Hul Diwas today, Prime Minister Narendra Modi has paid tributes to Sidho-Kanhu, Chand-Bhairav, Phulo-Jhano, and all the brave tribal warriors who stood firm against the injustice of foreign rule. In a social media post, Mr Modi said that Hul Diwas is a powerful symbol of the extraordinary courage and unwavering spirit of tribal communities who laid down their lives for the motherland. He said that the story of their struggle and sacrifice for the protection of tribal dignity and honor will continue to infuse new energy and inspire every citizen of the country.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:44:44+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-pays-tribute-to-tribal-heroes-on-hul-diwas/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/modi-odi.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "General Dhiraj Seth Takes Charge as 31st Chief of the Army Staff",
-        "summary": "General Dhiraj Seth today took charge as the 31st Chief of the Army Staff from General Upendra Dwivedi, who superannuated after more than four decades of distinguished service to the nation. General Seth is an alumnus of the National Defence Academy, Khadakwasla in Pune, and was commissioned into the Armoured Corps in December 1986. Over [&#8230;]",
-        "article": "General Dhiraj Seth today took charge as the 31st Chief of the Army Staff from General Upendra Dwivedi, who superannuated after more than four decades of distinguished service to the nation. General Seth is an alumnus of the National Defence Academy, Khadakwasla in Pune, and was commissioned into the Armoured Corps in December 1986. Over a distinguished military career spanning nearly four decades, he has had extensive experience across the operational, strategic, capability development and institutional domains, contributing significantly to the Indian Army&#8217;s combat effectiveness and long-term transformation. His command assignments include an Armoured Regiment in the Desert Sector, an Armoured Brigade in the Western Theatre, and a Counter-Insurgency Force in Jammu and Kashmir. As a Lieutenant General, he commanded the Sudarshan Chakra Corps, one of the Indian Army&#8217;s premier strike formations. He subsequently served as General Officer Commanding, Delhi Area, overseeing key national and international military engagements and ceremonial responsibilities.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:40:26+00:00",
-        "link": "https://newsonair.gov.in/general-dhiraj-seth-takes-charge-as-31st-chief-of-the-army-staff/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Screenshot-2026-06-30-171752.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Panchayati Raj Releases National Study Report on Low Participation in Gram Sabha",
-        "summary": "The Ministry of Panchayati Raj today released National Study Report on Low Participation in Gram Sabha across States and Union Territories in New Delhi. The report was released by NITI Aayog Member Dr. R. Balasubramaniam. The Study provides an evidence based roadmap for strengthening Gram Sabha as a vibrant institution of participatory democracy, local accountability, [&#8230;]",
-        "article": "The Ministry of Panchayati Raj today released National Study Report on Low Participation in Gram Sabha across States and Union Territories in New Delhi. The report was released by NITI Aayog Member Dr. R. Balasubramaniam. The Study provides an evidence based roadmap for strengthening Gram Sabha as a vibrant institution of participatory democracy, local accountability, and community-led development across rural India. On the occasion, Secretary in the Ministry of Panchayati Raj Vivek Bharadwaj said that in the last decade, problems related to road connectivity, water and electricity supply in rural parts of the country have been resolved. The findings of the Report demonstrated that low participation in Gram Sabha is multidimensional, influenced by socio-economic, institutional, governance and behavioral factors rather than a single underlying cause. The findings underscore that sustained citizen engagement depends not only on mobilizing people to attend meetings but also on ensuring that Gram Sabha relevant, trusted, responsive, and capable of addressing community priorities.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:30:12+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-panchayati-raj-releases-national-study-report-on-low-participation-in-gram-sabha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/a-13.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "Southwest Monsoon Likely to Advance Over Delhi, Haryana, Punjab and Chandigarh in Next 2–3 Days",
+        "summary": "Southwest Monsoon is likely to advance over Delhi, Haryana, Chandigarh and Punjab during the next two to three days. India Meteorological Department (IMD) said that similar weather conditions are expected to prevail over some parts of the North Arabian Sea, Gujarat, Madhya Pradesh, Uttar Pradesh, the remaining parts of Uttarakhand, Himachal Pradesh, Jammu and Kashmir [&#8230;]",
+        "article": "Southwest Monsoon is likely to advance over Delhi, Haryana, Chandigarh and Punjab during the next two to three days. India Meteorological Department (IMD) said that similar weather conditions are expected to prevail over some parts of the North Arabian Sea, Gujarat, Madhya Pradesh, Uttar Pradesh, the remaining parts of Uttarakhand, Himachal Pradesh, Jammu and Kashmir and Ladakh, Daman and Diu, and some parts of Rajasthan during the same period. The weather agency has predicted heavy to very heavy rainfall over Bihar, Chhattisgarh, Coastal Karnataka, Madhya Pradesh, Kerala, Mahe, Konkan, Goa, Odisha, Jharkhand, South Interior Karnataka, Vidarbha, Uttar Pradesh and Parts of North Eastern Region till 2nd of the next month. The Met department has forecast thunderstorms accompanied with lightning and gusty winds over Andaman and Nicobar Islands, Lakshadweep, Tamil Nadu Puducherry and Karaikal till 6th of the next month. The IMD has also predicted that during July, below-normal rainfall is likely over most parts of the country. However, some areas of Northwest and Northeast India, East-Central India and the eastern peninsular region are likely to receive normal to above-normal rainfall.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:28:20+00:00",
+        "link": "https://newsonair.gov.in/southwest-monsoon-likely-to-advance-over-delhi-haryana-punjab-and-chandigarh-in-next-2-3-days/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260628303f-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "RBI Says Indian Economy and Financial System Show Remarkable Resilience Amid External Shocks",
+        "summary": "Reserve Bank of India said that the Indian economy and the financial system have demonstrated remarkable resilience despite facing external shocks of significant magnitude. In his foreword to the RBI’s Financial Stability Report, RBI Governor Sanjay Malhotra said strong growth, low inflation, healthy balance sheets of financial and non-financial firms, and ample buffers have helped [&#8230;]",
+        "article": "Reserve Bank of India said that the Indian economy and the financial system have demonstrated remarkable resilience despite facing external shocks of significant magnitude. In his foreword to the RBI’s Financial Stability Report, RBI Governor Sanjay Malhotra said strong growth, low inflation, healthy balance sheets of financial and non-financial firms, and ample buffers have helped preserve macro-financial stability. The Financial Stability report stated that India&#8217;s sound macroeconomic fundamentals place it in a stronger position than many of its peers and provide greater resilience to external shocks. The report highlighted that the domestic financial system remains resilient, underpinned by strong bank and non-bank balance sheets. Scheduled Commercial Banks (SCBs) remain safe and sound, supported by strong capital and liquidity buffers, continued improvement in asset quality, and stable profitability. The report pointed out that elevated public debt, bond market fragilities, stretched asset valuations remain key vulnerabilities that could amplify future shocks.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:20:45+00:00",
+        "link": "https://newsonair.gov.in/rbi-says-indian-economy-and-financial-system-show-remarkable-resilience-amid-external-shocks/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/rbi-reuters-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government Extends Customs Duty Exemption on Critical Petrochemical Products Till July 15",
+        "summary": "Government has extended full customs duty exemption on critical petrochemical products in view of ongoing conflict in West Asia till 15th July 2026. Centre had earlier provided a full customs duty exemption till today, as a temporary and targeted relief due to consequent disruptions in global supply chains. The exemption was provided to ensure sufficient [&#8230;]",
+        "article": "Government has extended full customs duty exemption on critical petrochemical products in view of ongoing conflict in West Asia till 15th July 2026. Centre had earlier provided a full customs duty exemption till today, as a temporary and targeted relief due to consequent disruptions in global supply chains. The exemption was provided to ensure sufficient availability of petrochemicals in the domestic market as Indian petroleum companies had been asked to concentrate on the production of LPG during this period. As the situation is gradually normalizing, this move will ensure a smooth and non-disruptive transition for the affected sectors. The list of products covered remains the same as notified earlier. The Government remains committed to supporting India&#8217;s manufacturing sector. The exemption is expected to benefit a wide range of sectors dependent on petrochemical feedstock and intermediates, including plastics, packaging, textiles, pharmaceuticals, chemicals, automotive components and other manufacturing segments.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:19:21+00:00",
+        "link": "https://newsonair.gov.in/government-extends-customs-duty-exemption-on-critical-petrochemical-products-till-july-15/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Developed India Goal Depends on Advanced Agriculture & Prosperous Farmers: Union Minister Shivraj Singh Chouhan",
+        "summary": "Union Minister for Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan said that achieving the goal of a &#8216;Viksit Bharat&#8217; (Developed India) is impossible without advanced agriculture and prosperous farmers. Addressing the closing ceremony of the &#8216;Khet Bachao Abhiyan&#8217; at the Agricultural University at Bawal in Rewari district of Haryana, the Union Agriculture Ministe",
+        "article": "Union Minister for Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan said that achieving the goal of a &#8216;Viksit Bharat&#8217; (Developed India) is impossible without advanced agriculture and prosperous farmers. Addressing the closing ceremony of the &#8216;Khet Bachao Abhiyan&#8217; at the Agricultural University at Bawal in Rewari district of Haryana, the Union Agriculture Minister remarked that farmers are the backbone of the nation&#8217;s economy and their prosperity forms the foundation of India&#8217;s prosperity. He noted that the Central Government is continuously working to make agriculture profitable, modern, and sustainable. Mr. Chouhan mentioned that the government is developing a mobile app to provide information regarding soil health and the specific quantities of fertilizers required. He advised farmers to adopt organic farming practices to preserve their farmlands. Addressing the media, Mr. Chouhan stated that although the campaign is concluding today, awareness programs under the &#8216;Khet Bachao Abhiyan&#8217; will continue. On this occasion, Union Agriculture Minister Shivraj Singh Chouhan and Chief Minister Nayab Singh Saini jointly inaugurated an agro-industrial exhibition showcasing the latest agricultural innovations, as well as the &#8216;Haryana FPO Mission-2026&#8217;. Chief Minister Nayab Singh Saini stated that the objective of the FPO Mission is to make farmers self-reliant.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:17:27+00:00",
+        "link": "https://newsonair.gov.in/developed-india-goal-depends-on-advanced-agriculture-prosperous-farmers-union-minister-shivraj-singh-chouhan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Union-Minister-Shivraj-Singh-Chouhan-holds-review-meeting-on-El-Nino-effect-on-agriculture.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Tourism Ministry Signs MoU with Google India to Boost Digital Promotion of Tourism Destinations",
+        "summary": "The Ministry of Tourism today signed a Memorandum of Understanding with Google India to strengthen the digital promotion of India’s tourism destinations. The MoU was exchanged in the presence of Tourism Minister Gajendra Singh Shekhawat in New Delhi. Speaking on the occasion, Mr. Shekhawat said digital technologies can create immersive experiences that showcase the glory [&#8230;]",
+        "article": "The Ministry of Tourism today signed a Memorandum of Understanding with Google India to strengthen the digital promotion of India’s tourism destinations. The MoU was exchanged in the presence of Tourism Minister Gajendra Singh Shekhawat in New Delhi. Speaking on the occasion, Mr. Shekhawat said digital technologies can create immersive experiences that showcase the glory and grandeur of India’s cultural sites to audiences across the world. He said the collaboration under the Incredible India initiative will strengthen India’s global tourism presence, improve digital outreach and position the country as a modern and globally competitive travel destination. Under the partnership, Google India will provide insights on global travel trends, traveller behaviour and digital engagement to support evidence-based tourism promotion. The collaboration also includes training and capacity-building programmes for Ministry officials in digital marketing, content creation, campaign optimisation and artificial intelligence.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:15:12+00:00",
+        "link": "https://newsonair.gov.in/tourism-ministry-signs-mou-with-google-india-to-boost-digital-promotion-of-tourism-destinations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMD5LAlWAAAaIkx-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian Railways Sanctions Electronic Interlocking Project at 27 Stations in Asansol Division",
+        "summary": "Indian Railways has sanctioned a project for the replacement of relay-based interlocking with Electronic Interlocking at 27 stations or cabins on the High Density Network (HDN) and Highly Utilised Network (HUN) routes of Asansol Division of Eastern Railway. The Ministry of Railways said that the sanctioned work includes the replacement of 28 relay-based interlocking installations [&#8230;]",
+        "article": "Indian Railways has sanctioned a project for the replacement of relay-based interlocking with Electronic Interlocking at 27 stations or cabins on the High Density Network (HDN) and Highly Utilised Network (HUN) routes of Asansol Division of Eastern Railway. The Ministry of Railways said that the sanctioned work includes the replacement of 28 relay-based interlocking installations with state-of-the-art Electronic Interlocking systems, significantly enhancing the safety, reliability and operational efficiency of train operations. The cost of the project is over four hundred crore rupees. The project is part of Indian Railways&#8217; ongoing programme for the provision of Electronic Interlocking on HDN/HUN routes where advanced signalling systems such as Kavach, Automatic Block Signalling and Centralised Traffic Control are being implemented. Electronic Interlocking is a modern signalling technology that replaces ageing relay-based systems with computer-based interlocking, ensuring higher reliability, faster fault diagnosis, easier maintenance and enhanced operational flexibility. The project will further strengthen railway safety while supporting higher line capacity and more efficient train operations on one of the busiest sections of the network.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:02:50+00:00",
+        "link": "https://newsonair.gov.in/indian-railways-sanctions-electronic-interlocking-project-at-27-stations-in-asansol-division/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/railways.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NHAI to Establish Nationwide Framework for Design Vetting of Critical Bridge Projects",
+        "summary": "In a major move to significantly enhance structural safety, improve design reliability, and minimize long-term operational risks for national infrastructure, the National Highways Authority of India (NHAI) is set to establish a nationwide institutional framework for the design vetting of critical bridge projects. According to the Ministry of Road Transport and Highways, this initiative aims [&#823",
+        "article": "In a major move to significantly enhance structural safety, improve design reliability, and minimize long-term operational risks for national infrastructure, the National Highways Authority of India (NHAI) is set to establish a nationwide institutional framework for the design vetting of critical bridge projects. According to the Ministry of Road Transport and Highways, this initiative aims to ensure that major bridges, which are designed for a service life of 100 years or more, undergo rigorous independent technical reviews before construction begins. To achieve this, NHAI will empanel Indian Institutes of Technology (IITs) and other premier technical institutions to conduct independent proof checking of hydraulic studies and designs for major bridge structures across all new National Highway projects. The comprehensive review process will encompass detailed evaluations of structural design calculations, engineering drawings, construction methodologies, geotechnical investigations, and hydraulic studies. Around 12 IITs, including IIT Delhi, IIT Bombay, IIT Roorkee, and IIT Kharagpur, alongside several other technical institutions, have already expressed their willingness to collaborate with the NHAI to strengthen quality assurance practices and promote better design and execution.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:00:36+00:00",
+        "link": "https://newsonair.gov.in/nhai-to-establish-nationwide-framework-for-design-vetting-of-critical-bridge-projects/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/NHAI-2-scaled-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "HM Amit Shah Launches FCRA 2.0 Portal and e-OCI Card",
+        "summary": "Union Home Minister Amit Shah today launched the Foreign Contribution (Regulation) Act (FCRA) 2.0 Portal and the Electronic Overseas Citizen of India (e-OCI) Card in New Delhi. Speaking on the occasion, Mr Shah said both initiatives will improve citizen services and address the difficulties faced by those receiving donations through the FCRA portal. He said [&#8230;]",
+        "article": "Union Home Minister Amit Shah today launched the Foreign Contribution (Regulation) Act (FCRA) 2.0 Portal and the Electronic Overseas Citizen of India (e-OCI) Card in New Delhi. Speaking on the occasion, Mr Shah said both initiatives will improve citizen services and address the difficulties faced by those receiving donations through the FCRA portal. He said when the intention is clear, the policy is transparent, and there is a mindset to embrace technology, then all forms of governance becomes easier for honest people. He underlined that a strict surveillance system is established against wrongdoers, and the country becomes increasingly secure. The Home Minister informed that the initial problems faced in the OCI system have been resolved in the new system, and it will bring great convenience to more than 50 lakh OCI cardholders. He added that after 20 years, when a new passport is issued, there will be no need to re-issue the OCI booklet, and the cardholder’s registration number will remain unique. The FCRA 2.0 Portal has been developed to simplify compliance under the Foreign Contribution (Regulation) Act and to strengthen the monitoring and enforcement mechanism. All major processes related to applications, renewals, annual returns, and other services have now been made fully digital through an end-to-end online system. e-OCI Card is a major citizen-centric initiative aimed at transforming OCI services for the global Indian diaspora through a fully digital platform. Under the new system, applicants can complete the entire OCI process online, from submitting the application and uploading supporting documents to downloading the digitally generated card after approval.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T15:21:44+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-launches-fcra-2-0-portal-and-e-oci-card/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMEACBHXEAAfKom-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Japan PM Sanae Takaichi to Visit India for 16th India-Japan Annual Summit",
+        "summary": "Prime Minister of Japan, Sanae Takaichi, will arrive in New Delhi tomorrow evening on a three-day visit for the 16th India-Japan Annual Summit. The External Affairs Ministry said the Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation and exchange views on regional and global issues [&#8230;]",
+        "article": "Prime Minister of Japan, Sanae Takaichi, will arrive in New Delhi tomorrow evening on a three-day visit for the 16th India-Japan Annual Summit. The External Affairs Ministry said the Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation and exchange views on regional and global issues of mutual interest. On the second day of the visit, Prime Minister Takaichi will be accorded a ceremonial reception at Rashtrapati Bhavan. She will then hold talks with Prime Minister Narendra Modi. The two leaders are expected to review progress in bilateral ties and discuss ways to further deepen cooperation across key sectors. This will be followed by the exchange of Memoranda of Understanding and joint press statements. In the afternoon, Prime Minister Takaichi will participate in the India-Japan Business Forum at the national capital. This is Prime Minister Takaichi&#8217;s first official visit to India. The visit follows Prime Minister Narendra Modi&#8217;s visit to Tokyo in August last year for the 15th India-Japan Annual Summit and reflects the shared commitment of the two countries to further strengthen the India-Japan Special Strategic and Global Partnership.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T14:42:53+00:00",
+        "link": "https://newsonair.gov.in/japan-pm-sanae-takaichi-to-visit-india-for-16th-india-japan-annual-summit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMEaFNzXYAAca6x.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "IOCL Dismisses Reports of Fire at Haldia Refinery",
         "summary": "Indian Oil Corporation Limited (IOCL) has dismissed reports claiming that a fire occurred at Indian Oil&#8217;s Haldia Refinery. In a social media post, Oil Corporation said that the incident occurred near the south gate of a neighbouring industrial establishment, and not at Haldia Refinery. It said that Haldia Refinery is operating safely and normally, with [&#8230;]",
@@ -145,111 +244,111 @@ window.VM_NEWS = {
         "pubDate": "2026-06-30T13:59:44+00:00",
         "link": "https://newsonair.gov.in/iocl-dismisses-reports-of-fire-at-haldia-refinery/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/INDIAN-OIL.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ravi Agrawal Re-Appointed as CBDT Chairman",
-        "summary": "Ravi Agrawal has been re-appointed as Chairman, Central Board of Direct Taxes (CBDT), on contract basis, for a period of six months with effect from tomorrow till 31st December 2026 or until further orders, whichever is earlier. The appointments committee of the cabinet has approved the re-appointment.",
-        "article": "Ravi Agrawal has been re-appointed as Chairman, Central Board of Direct Taxes (CBDT), on contract basis, for a period of six months with effect from tomorrow till 31st December 2026 or until further orders, whichever is earlier. The appointments committee of the cabinet has approved the re-appointment.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T13:55:18+00:00",
-        "link": "https://newsonair.gov.in/ravi-agrawal-re-appointed-as-cbdt-chairman/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/202606303846123.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "President Droupadi Murmu Calls on Students to Use Education for Inclusive Nation-Building",
-        "summary": "President Droupadi Murmu today called upon students to use education as a means to build an equitable and inclusive society while addressing the first convocation of the Central Tribal University of Andhra Pradesh in Visakhapatnam. She said educated youth should not work only for their own progress but also strive to uplift the weaker sections [&#8230;]",
-        "article": "President Droupadi Murmu today called upon students to use education as a means to build an equitable and inclusive society while addressing the first convocation of the Central Tribal University of Andhra Pradesh in Visakhapatnam. She said educated youth should not work only for their own progress but also strive to uplift the weaker sections and contribute to nation-building. The President urged students to become agents of social transformation, saying education should go beyond securing employment and help strengthen society, culture, traditions and economic progress. She said every educated youth should help bring forward those left behind and contribute towards achieving the goal of a developed India by 2047. Emphasising the importance of meaningful education, President Murmu said students should combine academic learning with practical knowledge and remain connected to their community, culture and traditions while acquiring new skills to meet the demands of a rapidly changing world. She said institutions established with the objective of social justice, such as the Central Tribal University, have a greater responsibility to promote tribal education, healthcare, skill development, livelihoods and forest rights. The President said the benefits of modern science should reach every section of society while preserving India&#8217;s rich heritage. She appreciated the University&#8217;s initiatives, including its Science and Technology Hub, Tribal Skill Development Centre and grassroots development programmes for tribal empowerment. She also stressed the need to preserve tribal languages and dialects and lauded the University&#8217;s documentation of the dialects of tribal communities, including the Koya and Savara. President Murmu expressed happiness that nearly 40 percent of the graduating students and around 70 per cent of the gold medal recipients are women, saying this reflects the University&#8217;s inclusive outlook and commitment to gender justice. Union Education Minister Dharmendra Pradhan said India&#8217;s knowledge system has its roots in tribal society, which has preserved invaluable knowledge of nature, forests, agriculture and animal husbandry. He said this traditional wisdom should be adapted to contemporary needs. The Minister urged students to become job creators rather than job seekers and said universities should lead innovation to help realise the vision of a developed India by 2047. During the convocation, President Murmu conferred degrees on 373 undergraduate and postgraduate students who completed their programmes between the 2020 and 2025-26 academic years. She also presented gold medals to 13 meritorious students, including 10 women, for their outstanding academic performance. Andhra Pradesh Governor S. Abdul Nazeer, State Education Minister Nara Lokesh, State Tribal Welfare Minister G. Sandhya Rani, University Chancellor Madan Lal Meena, Vice-Chancellor T. Srinivasan and other dignitaries attended the convocation.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T13:48:12+00:00",
-        "link": "https://newsonair.gov.in/president-droupadi-murmu-calls-on-students-to-use-education-for-inclusive-nation-building/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMD8OqPWcAAhawz-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "National Task Force Conducts Visits to Assess Student Mental Health",
-        "summary": "The National Task Force on Mental Health of Students and Prevention of Suicides in Higher Education Institutions has conducted field visits to 30 higher education institutions across 10 States since May last year. The visits were aimed at assessing regional and institutional challenges related to student mental health. The Task Force has also held 25 [&#8230;]",
-        "article": "The National Task Force on Mental Health of Students and Prevention of Suicides in Higher Education Institutions has conducted field visits to 30 higher education institutions across 10 States since May last year. The visits were aimed at assessing regional and institutional challenges related to student mental health. The Task Force has also held 25 stakeholder consultations. These were organised to adopt an interdisciplinary and equity-oriented approach. Since January this year, the consultations have focused on several key issues. These include caste discrimination, gender and mental health, concerns of students from Scheduled Tribe and OBC communities, disabilities, decriminalisation of suicide, the role of mental health NGOs, and issues concerning law students.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:58:21+00:00",
-        "link": "https://newsonair.gov.in/national-task-force-conducts-visits-to-assess-student-mental-health/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/MENTAL-HEALTH-MONTH.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India Signs 28 Migration and Mobility Partnership Agreements with 26 Countries: EAM Jaishankar",
-        "summary": "External Affairs Minister Dr S Jaishankar today said that India signed 28 migration and mobility partnership agreements with over 26 countries, while several others are currently under negotiation. He highlighted the collective responsibility of nations to combat illegal migration, exploitative practices, fraudulent intermediaries and human trafficking. The Minister said this while speaking at the",
-        "article": "External Affairs Minister Dr S Jaishankar today said that India signed 28 migration and mobility partnership agreements with over 26 countries, while several others are currently under negotiation. He highlighted the collective responsibility of nations to combat illegal migration, exploitative practices, fraudulent intermediaries and human trafficking. The Minister said this while speaking at the Human Resource Mobility Forum in New Delhi. He underlined the use of digital systems and tools in the transformation of governance in migration. Dr Jaishankar said that India’s commitment to safe and legal mobility is reflected in the e-Migrate platform, and since its inception more than five million immigration clearances have been issued. Dr Jaishankar underscored that India also recognizes the need for bilateral collaboration in ensuring safe, orderly, and legal migration. The Minister said that the Forum creates opportunities to exchange ideas, learn from experiences, and explore new approaches towards mobility. He also said the event brought together policymakers, industry leaders, employers, and practitioners. He added, India stands ready to work with its partners around the world in advancing shared vision. He further said, trusted mobility pathways can contribute to stronger economies, to more resilient societies, and to deeper international cooperation. The Minister said that technological innovation is reshaping industries at an unprecedented pace. Dr Jaishankar said that the world is undergoing a profound transformation, and as part of that demographic patterns are changing sharply across continents. He said that AI, automation, digitalization and green transition are redefining skills that are required for tomorrow’s economy. The External Affairs Minister said that human resource has emerged as one of the most critical factors of economic development. He said that human resource mobility represents far more than the movement of people from one place to another. He added, it is about connecting aspirations with opportunities, linking talent with demand, creating pathways through which individuals can contribute to economic progress. Dr Jaishankar said that India’s vision for mobility is not limited to facilitating overseas employment opportunities, rather as a very important pillar of international cooperation. He added, these partnerships are based on mutual benefit, shared responsibility and long-term sustainability.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:50:31+00:00",
-        "link": "https://newsonair.gov.in/india-signs-28-migration-and-mobility-partnership-agreements-with-26-countries-eam-jaishankar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Screenshot-2026-06-30-181916.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Defence Minister Rajnath Singh Emphasises Role of Strong Economy in Defence Capabilities",
-        "summary": "Defence Minister Rajnath Singh stressed that robust economy forms the foundation of strong defence capabilities. Addressing the valedictory session of the Vibrant Gujarat Regional Conference in Vadodara today, Mr. Singh expressed confidence that due to the strong presence in chemicals, electronics, shipbuilding and renewable energy sectors, Gujarat will soon emerge as a global hub for [&#8230;]",
-        "article": "Defence Minister Rajnath Singh stressed that robust economy forms the foundation of strong defence capabilities. Addressing the valedictory session of the Vibrant Gujarat Regional Conference in Vadodara today, Mr. Singh expressed confidence that due to the strong presence in chemicals, electronics, shipbuilding and renewable energy sectors, Gujarat will soon emerge as a global hub for defence manufacturing. Highlighting the country&#8217;s rapid progress towards self-reliance in defence manufacturing, he said India&#8217;s domestic defence production, which stood at around 46,000 crore rupees in 2014, has increased significantly to ₹1.78 lakh crore at present. He noted that Vadodara is now home to India&#8217;s first private-sector military aircraft manufacturing facility, where the Tata Group and Airbus are jointly manufacturing the C-295 transport aircraft, marking a historic milestone in the country&#8217;s aerospace journey. Chief Minister Bhupendra Patel announced that MoUs worth 3.34 lakh crore were signed during the two-day Vibrant Gujarat Regional Summit for which will lead to generate over 1.97 lakh job opportunities in the region in the coming days.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:38:49+00:00",
-        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-emphasises-role-of-strong-economy-in-defence-capabilities/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/aaa-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi Pays Tribute to Tribal Heroes on Hul Diwas",
-        "summary": "On the occasion of Hul Diwas today, Prime Minister Narendra Modi has paid tributes to Sidho-Kanhu, Chand-Bhairav, Phulo-Jhano, and all the brave tribal warriors who stood firm against the injustice of foreign rule. In a social media post, Mr Modi said that Hul Diwas is a powerful symbol of the extraordinary courage and unwavering spirit [&#8230;]",
-        "article": "On the occasion of Hul Diwas today, Prime Minister Narendra Modi has paid tributes to Sidho-Kanhu, Chand-Bhairav, Phulo-Jhano, and all the brave tribal warriors who stood firm against the injustice of foreign rule. In a social media post, Mr Modi said that Hul Diwas is a powerful symbol of the extraordinary courage and unwavering spirit of tribal communities who laid down their lives for the motherland. He said that the story of their struggle and sacrifice for the protection of tribal dignity and honor will continue to infuse new energy and inspire every citizen of the country.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:44:44+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-pays-tribute-to-tribal-heroes-on-hul-diwas/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/modi-odi.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "General Dhiraj Seth Takes Charge as 31st Chief of the Army Staff",
-        "summary": "General Dhiraj Seth today took charge as the 31st Chief of the Army Staff from General Upendra Dwivedi, who superannuated after more than four decades of distinguished service to the nation. General Seth is an alumnus of the National Defence Academy, Khadakwasla in Pune, and was commissioned into the Armoured Corps in December 1986. Over [&#8230;]",
-        "article": "General Dhiraj Seth today took charge as the 31st Chief of the Army Staff from General Upendra Dwivedi, who superannuated after more than four decades of distinguished service to the nation. General Seth is an alumnus of the National Defence Academy, Khadakwasla in Pune, and was commissioned into the Armoured Corps in December 1986. Over a distinguished military career spanning nearly four decades, he has had extensive experience across the operational, strategic, capability development and institutional domains, contributing significantly to the Indian Army&#8217;s combat effectiveness and long-term transformation. His command assignments include an Armoured Regiment in the Desert Sector, an Armoured Brigade in the Western Theatre, and a Counter-Insurgency Force in Jammu and Kashmir. As a Lieutenant General, he commanded the Sudarshan Chakra Corps, one of the Indian Army&#8217;s premier strike formations. He subsequently served as General Officer Commanding, Delhi Area, overseeing key national and international military engagements and ceremonial responsibilities.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:40:26+00:00",
-        "link": "https://newsonair.gov.in/general-dhiraj-seth-takes-charge-as-31st-chief-of-the-army-staff/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Screenshot-2026-06-30-171752.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Panchayati Raj Releases National Study Report on Low Participation in Gram Sabha",
-        "summary": "The Ministry of Panchayati Raj today released National Study Report on Low Participation in Gram Sabha across States and Union Territories in New Delhi. The report was released by NITI Aayog Member Dr. R. Balasubramaniam. The Study provides an evidence based roadmap for strengthening Gram Sabha as a vibrant institution of participatory democracy, local accountability, [&#8230;]",
-        "article": "The Ministry of Panchayati Raj today released National Study Report on Low Participation in Gram Sabha across States and Union Territories in New Delhi. The report was released by NITI Aayog Member Dr. R. Balasubramaniam. The Study provides an evidence based roadmap for strengthening Gram Sabha as a vibrant institution of participatory democracy, local accountability, and community-led development across rural India. On the occasion, Secretary in the Ministry of Panchayati Raj Vivek Bharadwaj said that in the last decade, problems related to road connectivity, water and electricity supply in rural parts of the country have been resolved. The findings of the Report demonstrated that low participation in Gram Sabha is multidimensional, influenced by socio-economic, institutional, governance and behavioral factors rather than a single underlying cause. The findings underscore that sustained citizen engagement depends not only on mobilizing people to attend meetings but also on ensuring that Gram Sabha relevant, trusted, responsive, and capable of addressing community priorities.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:30:12+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-panchayati-raj-releases-national-study-report-on-low-participation-in-gram-sabha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/a-13.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Road Transport Minister Nitin Gadkari calls for greater public participation in road safety",
-        "summary": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being [&#8230;]",
-        "article": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being made to ensure international-standard road engineering, including proper signage, lane markings and underpasses. The Minister also called greater public participation in promoting road safety. Mr Gadkari also urged motorists to follow traffic rules, avoid overspeeding, wear helmets and seat belts, maintain lane discipline, and refrain from using mobile phones while driving.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T08:32:21+00:00",
-        "link": "https://newsonair.gov.in/road-transport-minister-nitin-gadkari-calls-for-greater-public-participation-in-road-safety/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nitin-gadkari.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "Southwest Monsoon Likely to Advance Over Delhi, Haryana, Punjab and Chandigarh in Next 2–3 Days",
+        "summary": "Southwest Monsoon is likely to advance over Delhi, Haryana, Chandigarh and Punjab during the next two to three days. India Meteorological Department (IMD) said that similar weather conditions are expected to prevail over some parts of the North Arabian Sea, Gujarat, Madhya Pradesh, Uttar Pradesh, the remaining parts of Uttarakhand, Himachal Pradesh, Jammu and Kashmir [&#8230;]",
+        "article": "Southwest Monsoon is likely to advance over Delhi, Haryana, Chandigarh and Punjab during the next two to three days. India Meteorological Department (IMD) said that similar weather conditions are expected to prevail over some parts of the North Arabian Sea, Gujarat, Madhya Pradesh, Uttar Pradesh, the remaining parts of Uttarakhand, Himachal Pradesh, Jammu and Kashmir and Ladakh, Daman and Diu, and some parts of Rajasthan during the same period. The weather agency has predicted heavy to very heavy rainfall over Bihar, Chhattisgarh, Coastal Karnataka, Madhya Pradesh, Kerala, Mahe, Konkan, Goa, Odisha, Jharkhand, South Interior Karnataka, Vidarbha, Uttar Pradesh and Parts of North Eastern Region till 2nd of the next month. The Met department has forecast thunderstorms accompanied with lightning and gusty winds over Andaman and Nicobar Islands, Lakshadweep, Tamil Nadu Puducherry and Karaikal till 6th of the next month. The IMD has also predicted that during July, below-normal rainfall is likely over most parts of the country. However, some areas of Northwest and Northeast India, East-Central India and the eastern peninsular region are likely to receive normal to above-normal rainfall.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:28:20+00:00",
+        "link": "https://newsonair.gov.in/southwest-monsoon-likely-to-advance-over-delhi-haryana-punjab-and-chandigarh-in-next-2-3-days/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260628303f-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "RBI Says Indian Economy and Financial System Show Remarkable Resilience Amid External Shocks",
+        "summary": "Reserve Bank of India said that the Indian economy and the financial system have demonstrated remarkable resilience despite facing external shocks of significant magnitude. In his foreword to the RBI’s Financial Stability Report, RBI Governor Sanjay Malhotra said strong growth, low inflation, healthy balance sheets of financial and non-financial firms, and ample buffers have helped [&#8230;]",
+        "article": "Reserve Bank of India said that the Indian economy and the financial system have demonstrated remarkable resilience despite facing external shocks of significant magnitude. In his foreword to the RBI’s Financial Stability Report, RBI Governor Sanjay Malhotra said strong growth, low inflation, healthy balance sheets of financial and non-financial firms, and ample buffers have helped preserve macro-financial stability. The Financial Stability report stated that India&#8217;s sound macroeconomic fundamentals place it in a stronger position than many of its peers and provide greater resilience to external shocks. The report highlighted that the domestic financial system remains resilient, underpinned by strong bank and non-bank balance sheets. Scheduled Commercial Banks (SCBs) remain safe and sound, supported by strong capital and liquidity buffers, continued improvement in asset quality, and stable profitability. The report pointed out that elevated public debt, bond market fragilities, stretched asset valuations remain key vulnerabilities that could amplify future shocks.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:20:45+00:00",
+        "link": "https://newsonair.gov.in/rbi-says-indian-economy-and-financial-system-show-remarkable-resilience-amid-external-shocks/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/rbi-reuters-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government Extends Customs Duty Exemption on Critical Petrochemical Products Till July 15",
+        "summary": "Government has extended full customs duty exemption on critical petrochemical products in view of ongoing conflict in West Asia till 15th July 2026. Centre had earlier provided a full customs duty exemption till today, as a temporary and targeted relief due to consequent disruptions in global supply chains. The exemption was provided to ensure sufficient [&#8230;]",
+        "article": "Government has extended full customs duty exemption on critical petrochemical products in view of ongoing conflict in West Asia till 15th July 2026. Centre had earlier provided a full customs duty exemption till today, as a temporary and targeted relief due to consequent disruptions in global supply chains. The exemption was provided to ensure sufficient availability of petrochemicals in the domestic market as Indian petroleum companies had been asked to concentrate on the production of LPG during this period. As the situation is gradually normalizing, this move will ensure a smooth and non-disruptive transition for the affected sectors. The list of products covered remains the same as notified earlier. The Government remains committed to supporting India&#8217;s manufacturing sector. The exemption is expected to benefit a wide range of sectors dependent on petrochemical feedstock and intermediates, including plastics, packaging, textiles, pharmaceuticals, chemicals, automotive components and other manufacturing segments.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:19:21+00:00",
+        "link": "https://newsonair.gov.in/government-extends-customs-duty-exemption-on-critical-petrochemical-products-till-july-15/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Developed India Goal Depends on Advanced Agriculture & Prosperous Farmers: Union Minister Shivraj Singh Chouhan",
+        "summary": "Union Minister for Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan said that achieving the goal of a &#8216;Viksit Bharat&#8217; (Developed India) is impossible without advanced agriculture and prosperous farmers. Addressing the closing ceremony of the &#8216;Khet Bachao Abhiyan&#8217; at the Agricultural University at Bawal in Rewari district of Haryana, the Union Agriculture Ministe",
+        "article": "Union Minister for Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan said that achieving the goal of a &#8216;Viksit Bharat&#8217; (Developed India) is impossible without advanced agriculture and prosperous farmers. Addressing the closing ceremony of the &#8216;Khet Bachao Abhiyan&#8217; at the Agricultural University at Bawal in Rewari district of Haryana, the Union Agriculture Minister remarked that farmers are the backbone of the nation&#8217;s economy and their prosperity forms the foundation of India&#8217;s prosperity. He noted that the Central Government is continuously working to make agriculture profitable, modern, and sustainable. Mr. Chouhan mentioned that the government is developing a mobile app to provide information regarding soil health and the specific quantities of fertilizers required. He advised farmers to adopt organic farming practices to preserve their farmlands. Addressing the media, Mr. Chouhan stated that although the campaign is concluding today, awareness programs under the &#8216;Khet Bachao Abhiyan&#8217; will continue. On this occasion, Union Agriculture Minister Shivraj Singh Chouhan and Chief Minister Nayab Singh Saini jointly inaugurated an agro-industrial exhibition showcasing the latest agricultural innovations, as well as the &#8216;Haryana FPO Mission-2026&#8217;. Chief Minister Nayab Singh Saini stated that the objective of the FPO Mission is to make farmers self-reliant.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:17:27+00:00",
+        "link": "https://newsonair.gov.in/developed-india-goal-depends-on-advanced-agriculture-prosperous-farmers-union-minister-shivraj-singh-chouhan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Union-Minister-Shivraj-Singh-Chouhan-holds-review-meeting-on-El-Nino-effect-on-agriculture.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Tourism Ministry Signs MoU with Google India to Boost Digital Promotion of Tourism Destinations",
+        "summary": "The Ministry of Tourism today signed a Memorandum of Understanding with Google India to strengthen the digital promotion of India’s tourism destinations. The MoU was exchanged in the presence of Tourism Minister Gajendra Singh Shekhawat in New Delhi. Speaking on the occasion, Mr. Shekhawat said digital technologies can create immersive experiences that showcase the glory [&#8230;]",
+        "article": "The Ministry of Tourism today signed a Memorandum of Understanding with Google India to strengthen the digital promotion of India’s tourism destinations. The MoU was exchanged in the presence of Tourism Minister Gajendra Singh Shekhawat in New Delhi. Speaking on the occasion, Mr. Shekhawat said digital technologies can create immersive experiences that showcase the glory and grandeur of India’s cultural sites to audiences across the world. He said the collaboration under the Incredible India initiative will strengthen India’s global tourism presence, improve digital outreach and position the country as a modern and globally competitive travel destination. Under the partnership, Google India will provide insights on global travel trends, traveller behaviour and digital engagement to support evidence-based tourism promotion. The collaboration also includes training and capacity-building programmes for Ministry officials in digital marketing, content creation, campaign optimisation and artificial intelligence.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:15:12+00:00",
+        "link": "https://newsonair.gov.in/tourism-ministry-signs-mou-with-google-india-to-boost-digital-promotion-of-tourism-destinations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMD5LAlWAAAaIkx-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian Railways Sanctions Electronic Interlocking Project at 27 Stations in Asansol Division",
+        "summary": "Indian Railways has sanctioned a project for the replacement of relay-based interlocking with Electronic Interlocking at 27 stations or cabins on the High Density Network (HDN) and Highly Utilised Network (HUN) routes of Asansol Division of Eastern Railway. The Ministry of Railways said that the sanctioned work includes the replacement of 28 relay-based interlocking installations [&#8230;]",
+        "article": "Indian Railways has sanctioned a project for the replacement of relay-based interlocking with Electronic Interlocking at 27 stations or cabins on the High Density Network (HDN) and Highly Utilised Network (HUN) routes of Asansol Division of Eastern Railway. The Ministry of Railways said that the sanctioned work includes the replacement of 28 relay-based interlocking installations with state-of-the-art Electronic Interlocking systems, significantly enhancing the safety, reliability and operational efficiency of train operations. The cost of the project is over four hundred crore rupees. The project is part of Indian Railways&#8217; ongoing programme for the provision of Electronic Interlocking on HDN/HUN routes where advanced signalling systems such as Kavach, Automatic Block Signalling and Centralised Traffic Control are being implemented. Electronic Interlocking is a modern signalling technology that replaces ageing relay-based systems with computer-based interlocking, ensuring higher reliability, faster fault diagnosis, easier maintenance and enhanced operational flexibility. The project will further strengthen railway safety while supporting higher line capacity and more efficient train operations on one of the busiest sections of the network.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:02:50+00:00",
+        "link": "https://newsonair.gov.in/indian-railways-sanctions-electronic-interlocking-project-at-27-stations-in-asansol-division/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/railways.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NHAI to Establish Nationwide Framework for Design Vetting of Critical Bridge Projects",
+        "summary": "In a major move to significantly enhance structural safety, improve design reliability, and minimize long-term operational risks for national infrastructure, the National Highways Authority of India (NHAI) is set to establish a nationwide institutional framework for the design vetting of critical bridge projects. According to the Ministry of Road Transport and Highways, this initiative aims [&#823",
+        "article": "In a major move to significantly enhance structural safety, improve design reliability, and minimize long-term operational risks for national infrastructure, the National Highways Authority of India (NHAI) is set to establish a nationwide institutional framework for the design vetting of critical bridge projects. According to the Ministry of Road Transport and Highways, this initiative aims to ensure that major bridges, which are designed for a service life of 100 years or more, undergo rigorous independent technical reviews before construction begins. To achieve this, NHAI will empanel Indian Institutes of Technology (IITs) and other premier technical institutions to conduct independent proof checking of hydraulic studies and designs for major bridge structures across all new National Highway projects. The comprehensive review process will encompass detailed evaluations of structural design calculations, engineering drawings, construction methodologies, geotechnical investigations, and hydraulic studies. Around 12 IITs, including IIT Delhi, IIT Bombay, IIT Roorkee, and IIT Kharagpur, alongside several other technical institutions, have already expressed their willingness to collaborate with the NHAI to strengthen quality assurance practices and promote better design and execution.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:00:36+00:00",
+        "link": "https://newsonair.gov.in/nhai-to-establish-nationwide-framework-for-design-vetting-of-critical-bridge-projects/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/NHAI-2-scaled-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "HM Amit Shah Launches FCRA 2.0 Portal and e-OCI Card",
+        "summary": "Union Home Minister Amit Shah today launched the Foreign Contribution (Regulation) Act (FCRA) 2.0 Portal and the Electronic Overseas Citizen of India (e-OCI) Card in New Delhi. Speaking on the occasion, Mr Shah said both initiatives will improve citizen services and address the difficulties faced by those receiving donations through the FCRA portal. He said [&#8230;]",
+        "article": "Union Home Minister Amit Shah today launched the Foreign Contribution (Regulation) Act (FCRA) 2.0 Portal and the Electronic Overseas Citizen of India (e-OCI) Card in New Delhi. Speaking on the occasion, Mr Shah said both initiatives will improve citizen services and address the difficulties faced by those receiving donations through the FCRA portal. He said when the intention is clear, the policy is transparent, and there is a mindset to embrace technology, then all forms of governance becomes easier for honest people. He underlined that a strict surveillance system is established against wrongdoers, and the country becomes increasingly secure. The Home Minister informed that the initial problems faced in the OCI system have been resolved in the new system, and it will bring great convenience to more than 50 lakh OCI cardholders. He added that after 20 years, when a new passport is issued, there will be no need to re-issue the OCI booklet, and the cardholder’s registration number will remain unique. The FCRA 2.0 Portal has been developed to simplify compliance under the Foreign Contribution (Regulation) Act and to strengthen the monitoring and enforcement mechanism. All major processes related to applications, renewals, annual returns, and other services have now been made fully digital through an end-to-end online system. e-OCI Card is a major citizen-centric initiative aimed at transforming OCI services for the global Indian diaspora through a fully digital platform. Under the new system, applicants can complete the entire OCI process online, from submitting the application and uploading supporting documents to downloading the digitally generated card after approval.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T15:21:44+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-launches-fcra-2-0-portal-and-e-oci-card/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMEACBHXEAAfKom-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Japan PM Sanae Takaichi to Visit India for 16th India-Japan Annual Summit",
+        "summary": "Prime Minister of Japan, Sanae Takaichi, will arrive in New Delhi tomorrow evening on a three-day visit for the 16th India-Japan Annual Summit. The External Affairs Ministry said the Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation and exchange views on regional and global issues [&#8230;]",
+        "article": "Prime Minister of Japan, Sanae Takaichi, will arrive in New Delhi tomorrow evening on a three-day visit for the 16th India-Japan Annual Summit. The External Affairs Ministry said the Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation and exchange views on regional and global issues of mutual interest. On the second day of the visit, Prime Minister Takaichi will be accorded a ceremonial reception at Rashtrapati Bhavan. She will then hold talks with Prime Minister Narendra Modi. The two leaders are expected to review progress in bilateral ties and discuss ways to further deepen cooperation across key sectors. This will be followed by the exchange of Memoranda of Understanding and joint press statements. In the afternoon, Prime Minister Takaichi will participate in the India-Japan Business Forum at the national capital. This is Prime Minister Takaichi&#8217;s first official visit to India. The visit follows Prime Minister Narendra Modi&#8217;s visit to Tokyo in August last year for the 15th India-Japan Annual Summit and reflects the shared commitment of the two countries to further strengthen the India-Japan Special Strategic and Global Partnership.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T14:42:53+00:00",
+        "link": "https://newsonair.gov.in/japan-pm-sanae-takaichi-to-visit-india-for-16th-india-japan-annual-summit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMEaFNzXYAAca6x.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "IOCL Dismisses Reports of Fire at Haldia Refinery",
         "summary": "Indian Oil Corporation Limited (IOCL) has dismissed reports claiming that a fire occurred at Indian Oil&#8217;s Haldia Refinery. In a social media post, Oil Corporation said that the incident occurred near the south gate of a neighbouring industrial establishment, and not at Haldia Refinery. It said that Haldia Refinery is operating safely and normally, with [&#8230;]",
         "article": "Indian Oil Corporation Limited (IOCL) has dismissed reports claiming that a fire occurred at Indian Oil&#8217;s Haldia Refinery. In a social media post, Oil Corporation said that the incident occurred near the south gate of a neighbouring industrial establishment, and not at Haldia Refinery. It said that Haldia Refinery is operating safely and normally, with all safety and operational protocols fully in place. As a responsible neighbouring industry, Indian Oil is extending all possible firefighting assistance and support.",
@@ -257,111 +356,111 @@ window.VM_NEWS = {
         "pubDate": "2026-06-30T13:59:44+00:00",
         "link": "https://newsonair.gov.in/iocl-dismisses-reports-of-fire-at-haldia-refinery/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/INDIAN-OIL.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ravi Agrawal Re-Appointed as CBDT Chairman",
-        "summary": "Ravi Agrawal has been re-appointed as Chairman, Central Board of Direct Taxes (CBDT), on contract basis, for a period of six months with effect from tomorrow till 31st December 2026 or until further orders, whichever is earlier. The appointments committee of the cabinet has approved the re-appointment.",
-        "article": "Ravi Agrawal has been re-appointed as Chairman, Central Board of Direct Taxes (CBDT), on contract basis, for a period of six months with effect from tomorrow till 31st December 2026 or until further orders, whichever is earlier. The appointments committee of the cabinet has approved the re-appointment.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T13:55:18+00:00",
-        "link": "https://newsonair.gov.in/ravi-agrawal-re-appointed-as-cbdt-chairman/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/202606303846123.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "President Droupadi Murmu Calls on Students to Use Education for Inclusive Nation-Building",
-        "summary": "President Droupadi Murmu today called upon students to use education as a means to build an equitable and inclusive society while addressing the first convocation of the Central Tribal University of Andhra Pradesh in Visakhapatnam. She said educated youth should not work only for their own progress but also strive to uplift the weaker sections [&#8230;]",
-        "article": "President Droupadi Murmu today called upon students to use education as a means to build an equitable and inclusive society while addressing the first convocation of the Central Tribal University of Andhra Pradesh in Visakhapatnam. She said educated youth should not work only for their own progress but also strive to uplift the weaker sections and contribute to nation-building. The President urged students to become agents of social transformation, saying education should go beyond securing employment and help strengthen society, culture, traditions and economic progress. She said every educated youth should help bring forward those left behind and contribute towards achieving the goal of a developed India by 2047. Emphasising the importance of meaningful education, President Murmu said students should combine academic learning with practical knowledge and remain connected to their community, culture and traditions while acquiring new skills to meet the demands of a rapidly changing world. She said institutions established with the objective of social justice, such as the Central Tribal University, have a greater responsibility to promote tribal education, healthcare, skill development, livelihoods and forest rights. The President said the benefits of modern science should reach every section of society while preserving India&#8217;s rich heritage. She appreciated the University&#8217;s initiatives, including its Science and Technology Hub, Tribal Skill Development Centre and grassroots development programmes for tribal empowerment. She also stressed the need to preserve tribal languages and dialects and lauded the University&#8217;s documentation of the dialects of tribal communities, including the Koya and Savara. President Murmu expressed happiness that nearly 40 percent of the graduating students and around 70 per cent of the gold medal recipients are women, saying this reflects the University&#8217;s inclusive outlook and commitment to gender justice. Union Education Minister Dharmendra Pradhan said India&#8217;s knowledge system has its roots in tribal society, which has preserved invaluable knowledge of nature, forests, agriculture and animal husbandry. He said this traditional wisdom should be adapted to contemporary needs. The Minister urged students to become job creators rather than job seekers and said universities should lead innovation to help realise the vision of a developed India by 2047. During the convocation, President Murmu conferred degrees on 373 undergraduate and postgraduate students who completed their programmes between the 2020 and 2025-26 academic years. She also presented gold medals to 13 meritorious students, including 10 women, for their outstanding academic performance. Andhra Pradesh Governor S. Abdul Nazeer, State Education Minister Nara Lokesh, State Tribal Welfare Minister G. Sandhya Rani, University Chancellor Madan Lal Meena, Vice-Chancellor T. Srinivasan and other dignitaries attended the convocation.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T13:48:12+00:00",
-        "link": "https://newsonair.gov.in/president-droupadi-murmu-calls-on-students-to-use-education-for-inclusive-nation-building/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMD8OqPWcAAhawz-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "National Task Force Conducts Visits to Assess Student Mental Health",
-        "summary": "The National Task Force on Mental Health of Students and Prevention of Suicides in Higher Education Institutions has conducted field visits to 30 higher education institutions across 10 States since May last year. The visits were aimed at assessing regional and institutional challenges related to student mental health. The Task Force has also held 25 [&#8230;]",
-        "article": "The National Task Force on Mental Health of Students and Prevention of Suicides in Higher Education Institutions has conducted field visits to 30 higher education institutions across 10 States since May last year. The visits were aimed at assessing regional and institutional challenges related to student mental health. The Task Force has also held 25 stakeholder consultations. These were organised to adopt an interdisciplinary and equity-oriented approach. Since January this year, the consultations have focused on several key issues. These include caste discrimination, gender and mental health, concerns of students from Scheduled Tribe and OBC communities, disabilities, decriminalisation of suicide, the role of mental health NGOs, and issues concerning law students.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:58:21+00:00",
-        "link": "https://newsonair.gov.in/national-task-force-conducts-visits-to-assess-student-mental-health/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/MENTAL-HEALTH-MONTH.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India Signs 28 Migration and Mobility Partnership Agreements with 26 Countries: EAM Jaishankar",
-        "summary": "External Affairs Minister Dr S Jaishankar today said that India signed 28 migration and mobility partnership agreements with over 26 countries, while several others are currently under negotiation. He highlighted the collective responsibility of nations to combat illegal migration, exploitative practices, fraudulent intermediaries and human trafficking. The Minister said this while speaking at the",
-        "article": "External Affairs Minister Dr S Jaishankar today said that India signed 28 migration and mobility partnership agreements with over 26 countries, while several others are currently under negotiation. He highlighted the collective responsibility of nations to combat illegal migration, exploitative practices, fraudulent intermediaries and human trafficking. The Minister said this while speaking at the Human Resource Mobility Forum in New Delhi. He underlined the use of digital systems and tools in the transformation of governance in migration. Dr Jaishankar said that India’s commitment to safe and legal mobility is reflected in the e-Migrate platform, and since its inception more than five million immigration clearances have been issued. Dr Jaishankar underscored that India also recognizes the need for bilateral collaboration in ensuring safe, orderly, and legal migration. The Minister said that the Forum creates opportunities to exchange ideas, learn from experiences, and explore new approaches towards mobility. He also said the event brought together policymakers, industry leaders, employers, and practitioners. He added, India stands ready to work with its partners around the world in advancing shared vision. He further said, trusted mobility pathways can contribute to stronger economies, to more resilient societies, and to deeper international cooperation. The Minister said that technological innovation is reshaping industries at an unprecedented pace. Dr Jaishankar said that the world is undergoing a profound transformation, and as part of that demographic patterns are changing sharply across continents. He said that AI, automation, digitalization and green transition are redefining skills that are required for tomorrow’s economy. The External Affairs Minister said that human resource has emerged as one of the most critical factors of economic development. He said that human resource mobility represents far more than the movement of people from one place to another. He added, it is about connecting aspirations with opportunities, linking talent with demand, creating pathways through which individuals can contribute to economic progress. Dr Jaishankar said that India’s vision for mobility is not limited to facilitating overseas employment opportunities, rather as a very important pillar of international cooperation. He added, these partnerships are based on mutual benefit, shared responsibility and long-term sustainability.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:50:31+00:00",
-        "link": "https://newsonair.gov.in/india-signs-28-migration-and-mobility-partnership-agreements-with-26-countries-eam-jaishankar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Screenshot-2026-06-30-181916.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Defence Minister Rajnath Singh Emphasises Role of Strong Economy in Defence Capabilities",
-        "summary": "Defence Minister Rajnath Singh stressed that robust economy forms the foundation of strong defence capabilities. Addressing the valedictory session of the Vibrant Gujarat Regional Conference in Vadodara today, Mr. Singh expressed confidence that due to the strong presence in chemicals, electronics, shipbuilding and renewable energy sectors, Gujarat will soon emerge as a global hub for [&#8230;]",
-        "article": "Defence Minister Rajnath Singh stressed that robust economy forms the foundation of strong defence capabilities. Addressing the valedictory session of the Vibrant Gujarat Regional Conference in Vadodara today, Mr. Singh expressed confidence that due to the strong presence in chemicals, electronics, shipbuilding and renewable energy sectors, Gujarat will soon emerge as a global hub for defence manufacturing. Highlighting the country&#8217;s rapid progress towards self-reliance in defence manufacturing, he said India&#8217;s domestic defence production, which stood at around 46,000 crore rupees in 2014, has increased significantly to ₹1.78 lakh crore at present. He noted that Vadodara is now home to India&#8217;s first private-sector military aircraft manufacturing facility, where the Tata Group and Airbus are jointly manufacturing the C-295 transport aircraft, marking a historic milestone in the country&#8217;s aerospace journey. Chief Minister Bhupendra Patel announced that MoUs worth 3.34 lakh crore were signed during the two-day Vibrant Gujarat Regional Summit for which will lead to generate over 1.97 lakh job opportunities in the region in the coming days.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:38:49+00:00",
-        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-emphasises-role-of-strong-economy-in-defence-capabilities/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/aaa-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi Pays Tribute to Tribal Heroes on Hul Diwas",
-        "summary": "On the occasion of Hul Diwas today, Prime Minister Narendra Modi has paid tributes to Sidho-Kanhu, Chand-Bhairav, Phulo-Jhano, and all the brave tribal warriors who stood firm against the injustice of foreign rule. In a social media post, Mr Modi said that Hul Diwas is a powerful symbol of the extraordinary courage and unwavering spirit [&#8230;]",
-        "article": "On the occasion of Hul Diwas today, Prime Minister Narendra Modi has paid tributes to Sidho-Kanhu, Chand-Bhairav, Phulo-Jhano, and all the brave tribal warriors who stood firm against the injustice of foreign rule. In a social media post, Mr Modi said that Hul Diwas is a powerful symbol of the extraordinary courage and unwavering spirit of tribal communities who laid down their lives for the motherland. He said that the story of their struggle and sacrifice for the protection of tribal dignity and honor will continue to infuse new energy and inspire every citizen of the country.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:44:44+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-pays-tribute-to-tribal-heroes-on-hul-diwas/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/modi-odi.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "General Dhiraj Seth Takes Charge as 31st Chief of the Army Staff",
-        "summary": "General Dhiraj Seth today took charge as the 31st Chief of the Army Staff from General Upendra Dwivedi, who superannuated after more than four decades of distinguished service to the nation. General Seth is an alumnus of the National Defence Academy, Khadakwasla in Pune, and was commissioned into the Armoured Corps in December 1986. Over [&#8230;]",
-        "article": "General Dhiraj Seth today took charge as the 31st Chief of the Army Staff from General Upendra Dwivedi, who superannuated after more than four decades of distinguished service to the nation. General Seth is an alumnus of the National Defence Academy, Khadakwasla in Pune, and was commissioned into the Armoured Corps in December 1986. Over a distinguished military career spanning nearly four decades, he has had extensive experience across the operational, strategic, capability development and institutional domains, contributing significantly to the Indian Army&#8217;s combat effectiveness and long-term transformation. His command assignments include an Armoured Regiment in the Desert Sector, an Armoured Brigade in the Western Theatre, and a Counter-Insurgency Force in Jammu and Kashmir. As a Lieutenant General, he commanded the Sudarshan Chakra Corps, one of the Indian Army&#8217;s premier strike formations. He subsequently served as General Officer Commanding, Delhi Area, overseeing key national and international military engagements and ceremonial responsibilities.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:40:26+00:00",
-        "link": "https://newsonair.gov.in/general-dhiraj-seth-takes-charge-as-31st-chief-of-the-army-staff/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Screenshot-2026-06-30-171752.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Panchayati Raj Releases National Study Report on Low Participation in Gram Sabha",
-        "summary": "The Ministry of Panchayati Raj today released National Study Report on Low Participation in Gram Sabha across States and Union Territories in New Delhi. The report was released by NITI Aayog Member Dr. R. Balasubramaniam. The Study provides an evidence based roadmap for strengthening Gram Sabha as a vibrant institution of participatory democracy, local accountability, [&#8230;]",
-        "article": "The Ministry of Panchayati Raj today released National Study Report on Low Participation in Gram Sabha across States and Union Territories in New Delhi. The report was released by NITI Aayog Member Dr. R. Balasubramaniam. The Study provides an evidence based roadmap for strengthening Gram Sabha as a vibrant institution of participatory democracy, local accountability, and community-led development across rural India. On the occasion, Secretary in the Ministry of Panchayati Raj Vivek Bharadwaj said that in the last decade, problems related to road connectivity, water and electricity supply in rural parts of the country have been resolved. The findings of the Report demonstrated that low participation in Gram Sabha is multidimensional, influenced by socio-economic, institutional, governance and behavioral factors rather than a single underlying cause. The findings underscore that sustained citizen engagement depends not only on mobilizing people to attend meetings but also on ensuring that Gram Sabha relevant, trusted, responsive, and capable of addressing community priorities.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:30:12+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-panchayati-raj-releases-national-study-report-on-low-participation-in-gram-sabha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/a-13.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Road Transport Minister Nitin Gadkari calls for greater public participation in road safety",
-        "summary": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being [&#8230;]",
-        "article": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being made to ensure international-standard road engineering, including proper signage, lane markings and underpasses. The Minister also called greater public participation in promoting road safety. Mr Gadkari also urged motorists to follow traffic rules, avoid overspeeding, wear helmets and seat belts, maintain lane discipline, and refrain from using mobile phones while driving.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T08:32:21+00:00",
-        "link": "https://newsonair.gov.in/road-transport-minister-nitin-gadkari-calls-for-greater-public-participation-in-road-safety/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nitin-gadkari.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "Southwest Monsoon Likely to Advance Over Delhi, Haryana, Punjab and Chandigarh in Next 2–3 Days",
+        "summary": "Southwest Monsoon is likely to advance over Delhi, Haryana, Chandigarh and Punjab during the next two to three days. India Meteorological Department (IMD) said that similar weather conditions are expected to prevail over some parts of the North Arabian Sea, Gujarat, Madhya Pradesh, Uttar Pradesh, the remaining parts of Uttarakhand, Himachal Pradesh, Jammu and Kashmir [&#8230;]",
+        "article": "Southwest Monsoon is likely to advance over Delhi, Haryana, Chandigarh and Punjab during the next two to three days. India Meteorological Department (IMD) said that similar weather conditions are expected to prevail over some parts of the North Arabian Sea, Gujarat, Madhya Pradesh, Uttar Pradesh, the remaining parts of Uttarakhand, Himachal Pradesh, Jammu and Kashmir and Ladakh, Daman and Diu, and some parts of Rajasthan during the same period. The weather agency has predicted heavy to very heavy rainfall over Bihar, Chhattisgarh, Coastal Karnataka, Madhya Pradesh, Kerala, Mahe, Konkan, Goa, Odisha, Jharkhand, South Interior Karnataka, Vidarbha, Uttar Pradesh and Parts of North Eastern Region till 2nd of the next month. The Met department has forecast thunderstorms accompanied with lightning and gusty winds over Andaman and Nicobar Islands, Lakshadweep, Tamil Nadu Puducherry and Karaikal till 6th of the next month. The IMD has also predicted that during July, below-normal rainfall is likely over most parts of the country. However, some areas of Northwest and Northeast India, East-Central India and the eastern peninsular region are likely to receive normal to above-normal rainfall.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:28:20+00:00",
+        "link": "https://newsonair.gov.in/southwest-monsoon-likely-to-advance-over-delhi-haryana-punjab-and-chandigarh-in-next-2-3-days/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260628303f-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "RBI Says Indian Economy and Financial System Show Remarkable Resilience Amid External Shocks",
+        "summary": "Reserve Bank of India said that the Indian economy and the financial system have demonstrated remarkable resilience despite facing external shocks of significant magnitude. In his foreword to the RBI’s Financial Stability Report, RBI Governor Sanjay Malhotra said strong growth, low inflation, healthy balance sheets of financial and non-financial firms, and ample buffers have helped [&#8230;]",
+        "article": "Reserve Bank of India said that the Indian economy and the financial system have demonstrated remarkable resilience despite facing external shocks of significant magnitude. In his foreword to the RBI’s Financial Stability Report, RBI Governor Sanjay Malhotra said strong growth, low inflation, healthy balance sheets of financial and non-financial firms, and ample buffers have helped preserve macro-financial stability. The Financial Stability report stated that India&#8217;s sound macroeconomic fundamentals place it in a stronger position than many of its peers and provide greater resilience to external shocks. The report highlighted that the domestic financial system remains resilient, underpinned by strong bank and non-bank balance sheets. Scheduled Commercial Banks (SCBs) remain safe and sound, supported by strong capital and liquidity buffers, continued improvement in asset quality, and stable profitability. The report pointed out that elevated public debt, bond market fragilities, stretched asset valuations remain key vulnerabilities that could amplify future shocks.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:20:45+00:00",
+        "link": "https://newsonair.gov.in/rbi-says-indian-economy-and-financial-system-show-remarkable-resilience-amid-external-shocks/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/rbi-reuters-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government Extends Customs Duty Exemption on Critical Petrochemical Products Till July 15",
+        "summary": "Government has extended full customs duty exemption on critical petrochemical products in view of ongoing conflict in West Asia till 15th July 2026. Centre had earlier provided a full customs duty exemption till today, as a temporary and targeted relief due to consequent disruptions in global supply chains. The exemption was provided to ensure sufficient [&#8230;]",
+        "article": "Government has extended full customs duty exemption on critical petrochemical products in view of ongoing conflict in West Asia till 15th July 2026. Centre had earlier provided a full customs duty exemption till today, as a temporary and targeted relief due to consequent disruptions in global supply chains. The exemption was provided to ensure sufficient availability of petrochemicals in the domestic market as Indian petroleum companies had been asked to concentrate on the production of LPG during this period. As the situation is gradually normalizing, this move will ensure a smooth and non-disruptive transition for the affected sectors. The list of products covered remains the same as notified earlier. The Government remains committed to supporting India&#8217;s manufacturing sector. The exemption is expected to benefit a wide range of sectors dependent on petrochemical feedstock and intermediates, including plastics, packaging, textiles, pharmaceuticals, chemicals, automotive components and other manufacturing segments.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:19:21+00:00",
+        "link": "https://newsonair.gov.in/government-extends-customs-duty-exemption-on-critical-petrochemical-products-till-july-15/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Developed India Goal Depends on Advanced Agriculture & Prosperous Farmers: Union Minister Shivraj Singh Chouhan",
+        "summary": "Union Minister for Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan said that achieving the goal of a &#8216;Viksit Bharat&#8217; (Developed India) is impossible without advanced agriculture and prosperous farmers. Addressing the closing ceremony of the &#8216;Khet Bachao Abhiyan&#8217; at the Agricultural University at Bawal in Rewari district of Haryana, the Union Agriculture Ministe",
+        "article": "Union Minister for Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan said that achieving the goal of a &#8216;Viksit Bharat&#8217; (Developed India) is impossible without advanced agriculture and prosperous farmers. Addressing the closing ceremony of the &#8216;Khet Bachao Abhiyan&#8217; at the Agricultural University at Bawal in Rewari district of Haryana, the Union Agriculture Minister remarked that farmers are the backbone of the nation&#8217;s economy and their prosperity forms the foundation of India&#8217;s prosperity. He noted that the Central Government is continuously working to make agriculture profitable, modern, and sustainable. Mr. Chouhan mentioned that the government is developing a mobile app to provide information regarding soil health and the specific quantities of fertilizers required. He advised farmers to adopt organic farming practices to preserve their farmlands. Addressing the media, Mr. Chouhan stated that although the campaign is concluding today, awareness programs under the &#8216;Khet Bachao Abhiyan&#8217; will continue. On this occasion, Union Agriculture Minister Shivraj Singh Chouhan and Chief Minister Nayab Singh Saini jointly inaugurated an agro-industrial exhibition showcasing the latest agricultural innovations, as well as the &#8216;Haryana FPO Mission-2026&#8217;. Chief Minister Nayab Singh Saini stated that the objective of the FPO Mission is to make farmers self-reliant.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:17:27+00:00",
+        "link": "https://newsonair.gov.in/developed-india-goal-depends-on-advanced-agriculture-prosperous-farmers-union-minister-shivraj-singh-chouhan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Union-Minister-Shivraj-Singh-Chouhan-holds-review-meeting-on-El-Nino-effect-on-agriculture.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Tourism Ministry Signs MoU with Google India to Boost Digital Promotion of Tourism Destinations",
+        "summary": "The Ministry of Tourism today signed a Memorandum of Understanding with Google India to strengthen the digital promotion of India’s tourism destinations. The MoU was exchanged in the presence of Tourism Minister Gajendra Singh Shekhawat in New Delhi. Speaking on the occasion, Mr. Shekhawat said digital technologies can create immersive experiences that showcase the glory [&#8230;]",
+        "article": "The Ministry of Tourism today signed a Memorandum of Understanding with Google India to strengthen the digital promotion of India’s tourism destinations. The MoU was exchanged in the presence of Tourism Minister Gajendra Singh Shekhawat in New Delhi. Speaking on the occasion, Mr. Shekhawat said digital technologies can create immersive experiences that showcase the glory and grandeur of India’s cultural sites to audiences across the world. He said the collaboration under the Incredible India initiative will strengthen India’s global tourism presence, improve digital outreach and position the country as a modern and globally competitive travel destination. Under the partnership, Google India will provide insights on global travel trends, traveller behaviour and digital engagement to support evidence-based tourism promotion. The collaboration also includes training and capacity-building programmes for Ministry officials in digital marketing, content creation, campaign optimisation and artificial intelligence.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:15:12+00:00",
+        "link": "https://newsonair.gov.in/tourism-ministry-signs-mou-with-google-india-to-boost-digital-promotion-of-tourism-destinations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMD5LAlWAAAaIkx-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian Railways Sanctions Electronic Interlocking Project at 27 Stations in Asansol Division",
+        "summary": "Indian Railways has sanctioned a project for the replacement of relay-based interlocking with Electronic Interlocking at 27 stations or cabins on the High Density Network (HDN) and Highly Utilised Network (HUN) routes of Asansol Division of Eastern Railway. The Ministry of Railways said that the sanctioned work includes the replacement of 28 relay-based interlocking installations [&#8230;]",
+        "article": "Indian Railways has sanctioned a project for the replacement of relay-based interlocking with Electronic Interlocking at 27 stations or cabins on the High Density Network (HDN) and Highly Utilised Network (HUN) routes of Asansol Division of Eastern Railway. The Ministry of Railways said that the sanctioned work includes the replacement of 28 relay-based interlocking installations with state-of-the-art Electronic Interlocking systems, significantly enhancing the safety, reliability and operational efficiency of train operations. The cost of the project is over four hundred crore rupees. The project is part of Indian Railways&#8217; ongoing programme for the provision of Electronic Interlocking on HDN/HUN routes where advanced signalling systems such as Kavach, Automatic Block Signalling and Centralised Traffic Control are being implemented. Electronic Interlocking is a modern signalling technology that replaces ageing relay-based systems with computer-based interlocking, ensuring higher reliability, faster fault diagnosis, easier maintenance and enhanced operational flexibility. The project will further strengthen railway safety while supporting higher line capacity and more efficient train operations on one of the busiest sections of the network.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:02:50+00:00",
+        "link": "https://newsonair.gov.in/indian-railways-sanctions-electronic-interlocking-project-at-27-stations-in-asansol-division/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/railways.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NHAI to Establish Nationwide Framework for Design Vetting of Critical Bridge Projects",
+        "summary": "In a major move to significantly enhance structural safety, improve design reliability, and minimize long-term operational risks for national infrastructure, the National Highways Authority of India (NHAI) is set to establish a nationwide institutional framework for the design vetting of critical bridge projects. According to the Ministry of Road Transport and Highways, this initiative aims [&#823",
+        "article": "In a major move to significantly enhance structural safety, improve design reliability, and minimize long-term operational risks for national infrastructure, the National Highways Authority of India (NHAI) is set to establish a nationwide institutional framework for the design vetting of critical bridge projects. According to the Ministry of Road Transport and Highways, this initiative aims to ensure that major bridges, which are designed for a service life of 100 years or more, undergo rigorous independent technical reviews before construction begins. To achieve this, NHAI will empanel Indian Institutes of Technology (IITs) and other premier technical institutions to conduct independent proof checking of hydraulic studies and designs for major bridge structures across all new National Highway projects. The comprehensive review process will encompass detailed evaluations of structural design calculations, engineering drawings, construction methodologies, geotechnical investigations, and hydraulic studies. Around 12 IITs, including IIT Delhi, IIT Bombay, IIT Roorkee, and IIT Kharagpur, alongside several other technical institutions, have already expressed their willingness to collaborate with the NHAI to strengthen quality assurance practices and promote better design and execution.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:00:36+00:00",
+        "link": "https://newsonair.gov.in/nhai-to-establish-nationwide-framework-for-design-vetting-of-critical-bridge-projects/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/NHAI-2-scaled-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "HM Amit Shah Launches FCRA 2.0 Portal and e-OCI Card",
+        "summary": "Union Home Minister Amit Shah today launched the Foreign Contribution (Regulation) Act (FCRA) 2.0 Portal and the Electronic Overseas Citizen of India (e-OCI) Card in New Delhi. Speaking on the occasion, Mr Shah said both initiatives will improve citizen services and address the difficulties faced by those receiving donations through the FCRA portal. He said [&#8230;]",
+        "article": "Union Home Minister Amit Shah today launched the Foreign Contribution (Regulation) Act (FCRA) 2.0 Portal and the Electronic Overseas Citizen of India (e-OCI) Card in New Delhi. Speaking on the occasion, Mr Shah said both initiatives will improve citizen services and address the difficulties faced by those receiving donations through the FCRA portal. He said when the intention is clear, the policy is transparent, and there is a mindset to embrace technology, then all forms of governance becomes easier for honest people. He underlined that a strict surveillance system is established against wrongdoers, and the country becomes increasingly secure. The Home Minister informed that the initial problems faced in the OCI system have been resolved in the new system, and it will bring great convenience to more than 50 lakh OCI cardholders. He added that after 20 years, when a new passport is issued, there will be no need to re-issue the OCI booklet, and the cardholder’s registration number will remain unique. The FCRA 2.0 Portal has been developed to simplify compliance under the Foreign Contribution (Regulation) Act and to strengthen the monitoring and enforcement mechanism. All major processes related to applications, renewals, annual returns, and other services have now been made fully digital through an end-to-end online system. e-OCI Card is a major citizen-centric initiative aimed at transforming OCI services for the global Indian diaspora through a fully digital platform. Under the new system, applicants can complete the entire OCI process online, from submitting the application and uploading supporting documents to downloading the digitally generated card after approval.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T15:21:44+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-launches-fcra-2-0-portal-and-e-oci-card/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMEACBHXEAAfKom-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Japan PM Sanae Takaichi to Visit India for 16th India-Japan Annual Summit",
+        "summary": "Prime Minister of Japan, Sanae Takaichi, will arrive in New Delhi tomorrow evening on a three-day visit for the 16th India-Japan Annual Summit. The External Affairs Ministry said the Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation and exchange views on regional and global issues [&#8230;]",
+        "article": "Prime Minister of Japan, Sanae Takaichi, will arrive in New Delhi tomorrow evening on a three-day visit for the 16th India-Japan Annual Summit. The External Affairs Ministry said the Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation and exchange views on regional and global issues of mutual interest. On the second day of the visit, Prime Minister Takaichi will be accorded a ceremonial reception at Rashtrapati Bhavan. She will then hold talks with Prime Minister Narendra Modi. The two leaders are expected to review progress in bilateral ties and discuss ways to further deepen cooperation across key sectors. This will be followed by the exchange of Memoranda of Understanding and joint press statements. In the afternoon, Prime Minister Takaichi will participate in the India-Japan Business Forum at the national capital. This is Prime Minister Takaichi&#8217;s first official visit to India. The visit follows Prime Minister Narendra Modi&#8217;s visit to Tokyo in August last year for the 15th India-Japan Annual Summit and reflects the shared commitment of the two countries to further strengthen the India-Japan Special Strategic and Global Partnership.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T14:42:53+00:00",
+        "link": "https://newsonair.gov.in/japan-pm-sanae-takaichi-to-visit-india-for-16th-india-japan-annual-summit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMEaFNzXYAAca6x.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "IOCL Dismisses Reports of Fire at Haldia Refinery",
         "summary": "Indian Oil Corporation Limited (IOCL) has dismissed reports claiming that a fire occurred at Indian Oil&#8217;s Haldia Refinery. In a social media post, Oil Corporation said that the incident occurred near the south gate of a neighbouring industrial establishment, and not at Haldia Refinery. It said that Haldia Refinery is operating safely and normally, with [&#8230;]",
         "article": "Indian Oil Corporation Limited (IOCL) has dismissed reports claiming that a fire occurred at Indian Oil&#8217;s Haldia Refinery. In a social media post, Oil Corporation said that the incident occurred near the south gate of a neighbouring industrial establishment, and not at Haldia Refinery. It said that Haldia Refinery is operating safely and normally, with all safety and operational protocols fully in place. As a responsible neighbouring industry, Indian Oil is extending all possible firefighting assistance and support.",
@@ -369,105 +468,6 @@ window.VM_NEWS = {
         "pubDate": "2026-06-30T13:59:44+00:00",
         "link": "https://newsonair.gov.in/iocl-dismisses-reports-of-fire-at-haldia-refinery/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/INDIAN-OIL.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ravi Agrawal Re-Appointed as CBDT Chairman",
-        "summary": "Ravi Agrawal has been re-appointed as Chairman, Central Board of Direct Taxes (CBDT), on contract basis, for a period of six months with effect from tomorrow till 31st December 2026 or until further orders, whichever is earlier. The appointments committee of the cabinet has approved the re-appointment.",
-        "article": "Ravi Agrawal has been re-appointed as Chairman, Central Board of Direct Taxes (CBDT), on contract basis, for a period of six months with effect from tomorrow till 31st December 2026 or until further orders, whichever is earlier. The appointments committee of the cabinet has approved the re-appointment.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T13:55:18+00:00",
-        "link": "https://newsonair.gov.in/ravi-agrawal-re-appointed-as-cbdt-chairman/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/202606303846123.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "President Droupadi Murmu Calls on Students to Use Education for Inclusive Nation-Building",
-        "summary": "President Droupadi Murmu today called upon students to use education as a means to build an equitable and inclusive society while addressing the first convocation of the Central Tribal University of Andhra Pradesh in Visakhapatnam. She said educated youth should not work only for their own progress but also strive to uplift the weaker sections [&#8230;]",
-        "article": "President Droupadi Murmu today called upon students to use education as a means to build an equitable and inclusive society while addressing the first convocation of the Central Tribal University of Andhra Pradesh in Visakhapatnam. She said educated youth should not work only for their own progress but also strive to uplift the weaker sections and contribute to nation-building. The President urged students to become agents of social transformation, saying education should go beyond securing employment and help strengthen society, culture, traditions and economic progress. She said every educated youth should help bring forward those left behind and contribute towards achieving the goal of a developed India by 2047. Emphasising the importance of meaningful education, President Murmu said students should combine academic learning with practical knowledge and remain connected to their community, culture and traditions while acquiring new skills to meet the demands of a rapidly changing world. She said institutions established with the objective of social justice, such as the Central Tribal University, have a greater responsibility to promote tribal education, healthcare, skill development, livelihoods and forest rights. The President said the benefits of modern science should reach every section of society while preserving India&#8217;s rich heritage. She appreciated the University&#8217;s initiatives, including its Science and Technology Hub, Tribal Skill Development Centre and grassroots development programmes for tribal empowerment. She also stressed the need to preserve tribal languages and dialects and lauded the University&#8217;s documentation of the dialects of tribal communities, including the Koya and Savara. President Murmu expressed happiness that nearly 40 percent of the graduating students and around 70 per cent of the gold medal recipients are women, saying this reflects the University&#8217;s inclusive outlook and commitment to gender justice. Union Education Minister Dharmendra Pradhan said India&#8217;s knowledge system has its roots in tribal society, which has preserved invaluable knowledge of nature, forests, agriculture and animal husbandry. He said this traditional wisdom should be adapted to contemporary needs. The Minister urged students to become job creators rather than job seekers and said universities should lead innovation to help realise the vision of a developed India by 2047. During the convocation, President Murmu conferred degrees on 373 undergraduate and postgraduate students who completed their programmes between the 2020 and 2025-26 academic years. She also presented gold medals to 13 meritorious students, including 10 women, for their outstanding academic performance. Andhra Pradesh Governor S. Abdul Nazeer, State Education Minister Nara Lokesh, State Tribal Welfare Minister G. Sandhya Rani, University Chancellor Madan Lal Meena, Vice-Chancellor T. Srinivasan and other dignitaries attended the convocation.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T13:48:12+00:00",
-        "link": "https://newsonair.gov.in/president-droupadi-murmu-calls-on-students-to-use-education-for-inclusive-nation-building/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMD8OqPWcAAhawz-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "National Task Force Conducts Visits to Assess Student Mental Health",
-        "summary": "The National Task Force on Mental Health of Students and Prevention of Suicides in Higher Education Institutions has conducted field visits to 30 higher education institutions across 10 States since May last year. The visits were aimed at assessing regional and institutional challenges related to student mental health. The Task Force has also held 25 [&#8230;]",
-        "article": "The National Task Force on Mental Health of Students and Prevention of Suicides in Higher Education Institutions has conducted field visits to 30 higher education institutions across 10 States since May last year. The visits were aimed at assessing regional and institutional challenges related to student mental health. The Task Force has also held 25 stakeholder consultations. These were organised to adopt an interdisciplinary and equity-oriented approach. Since January this year, the consultations have focused on several key issues. These include caste discrimination, gender and mental health, concerns of students from Scheduled Tribe and OBC communities, disabilities, decriminalisation of suicide, the role of mental health NGOs, and issues concerning law students.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:58:21+00:00",
-        "link": "https://newsonair.gov.in/national-task-force-conducts-visits-to-assess-student-mental-health/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/MENTAL-HEALTH-MONTH.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India Signs 28 Migration and Mobility Partnership Agreements with 26 Countries: EAM Jaishankar",
-        "summary": "External Affairs Minister Dr S Jaishankar today said that India signed 28 migration and mobility partnership agreements with over 26 countries, while several others are currently under negotiation. He highlighted the collective responsibility of nations to combat illegal migration, exploitative practices, fraudulent intermediaries and human trafficking. The Minister said this while speaking at the",
-        "article": "External Affairs Minister Dr S Jaishankar today said that India signed 28 migration and mobility partnership agreements with over 26 countries, while several others are currently under negotiation. He highlighted the collective responsibility of nations to combat illegal migration, exploitative practices, fraudulent intermediaries and human trafficking. The Minister said this while speaking at the Human Resource Mobility Forum in New Delhi. He underlined the use of digital systems and tools in the transformation of governance in migration. Dr Jaishankar said that India’s commitment to safe and legal mobility is reflected in the e-Migrate platform, and since its inception more than five million immigration clearances have been issued. Dr Jaishankar underscored that India also recognizes the need for bilateral collaboration in ensuring safe, orderly, and legal migration. The Minister said that the Forum creates opportunities to exchange ideas, learn from experiences, and explore new approaches towards mobility. He also said the event brought together policymakers, industry leaders, employers, and practitioners. He added, India stands ready to work with its partners around the world in advancing shared vision. He further said, trusted mobility pathways can contribute to stronger economies, to more resilient societies, and to deeper international cooperation. The Minister said that technological innovation is reshaping industries at an unprecedented pace. Dr Jaishankar said that the world is undergoing a profound transformation, and as part of that demographic patterns are changing sharply across continents. He said that AI, automation, digitalization and green transition are redefining skills that are required for tomorrow’s economy. The External Affairs Minister said that human resource has emerged as one of the most critical factors of economic development. He said that human resource mobility represents far more than the movement of people from one place to another. He added, it is about connecting aspirations with opportunities, linking talent with demand, creating pathways through which individuals can contribute to economic progress. Dr Jaishankar said that India’s vision for mobility is not limited to facilitating overseas employment opportunities, rather as a very important pillar of international cooperation. He added, these partnerships are based on mutual benefit, shared responsibility and long-term sustainability.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:50:31+00:00",
-        "link": "https://newsonair.gov.in/india-signs-28-migration-and-mobility-partnership-agreements-with-26-countries-eam-jaishankar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Screenshot-2026-06-30-181916.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Defence Minister Rajnath Singh Emphasises Role of Strong Economy in Defence Capabilities",
-        "summary": "Defence Minister Rajnath Singh stressed that robust economy forms the foundation of strong defence capabilities. Addressing the valedictory session of the Vibrant Gujarat Regional Conference in Vadodara today, Mr. Singh expressed confidence that due to the strong presence in chemicals, electronics, shipbuilding and renewable energy sectors, Gujarat will soon emerge as a global hub for [&#8230;]",
-        "article": "Defence Minister Rajnath Singh stressed that robust economy forms the foundation of strong defence capabilities. Addressing the valedictory session of the Vibrant Gujarat Regional Conference in Vadodara today, Mr. Singh expressed confidence that due to the strong presence in chemicals, electronics, shipbuilding and renewable energy sectors, Gujarat will soon emerge as a global hub for defence manufacturing. Highlighting the country&#8217;s rapid progress towards self-reliance in defence manufacturing, he said India&#8217;s domestic defence production, which stood at around 46,000 crore rupees in 2014, has increased significantly to ₹1.78 lakh crore at present. He noted that Vadodara is now home to India&#8217;s first private-sector military aircraft manufacturing facility, where the Tata Group and Airbus are jointly manufacturing the C-295 transport aircraft, marking a historic milestone in the country&#8217;s aerospace journey. Chief Minister Bhupendra Patel announced that MoUs worth 3.34 lakh crore were signed during the two-day Vibrant Gujarat Regional Summit for which will lead to generate over 1.97 lakh job opportunities in the region in the coming days.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:38:49+00:00",
-        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-emphasises-role-of-strong-economy-in-defence-capabilities/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/aaa-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi Pays Tribute to Tribal Heroes on Hul Diwas",
-        "summary": "On the occasion of Hul Diwas today, Prime Minister Narendra Modi has paid tributes to Sidho-Kanhu, Chand-Bhairav, Phulo-Jhano, and all the brave tribal warriors who stood firm against the injustice of foreign rule. In a social media post, Mr Modi said that Hul Diwas is a powerful symbol of the extraordinary courage and unwavering spirit [&#8230;]",
-        "article": "On the occasion of Hul Diwas today, Prime Minister Narendra Modi has paid tributes to Sidho-Kanhu, Chand-Bhairav, Phulo-Jhano, and all the brave tribal warriors who stood firm against the injustice of foreign rule. In a social media post, Mr Modi said that Hul Diwas is a powerful symbol of the extraordinary courage and unwavering spirit of tribal communities who laid down their lives for the motherland. He said that the story of their struggle and sacrifice for the protection of tribal dignity and honor will continue to infuse new energy and inspire every citizen of the country.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:44:44+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-pays-tribute-to-tribal-heroes-on-hul-diwas/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/modi-odi.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "General Dhiraj Seth Takes Charge as 31st Chief of the Army Staff",
-        "summary": "General Dhiraj Seth today took charge as the 31st Chief of the Army Staff from General Upendra Dwivedi, who superannuated after more than four decades of distinguished service to the nation. General Seth is an alumnus of the National Defence Academy, Khadakwasla in Pune, and was commissioned into the Armoured Corps in December 1986. Over [&#8230;]",
-        "article": "General Dhiraj Seth today took charge as the 31st Chief of the Army Staff from General Upendra Dwivedi, who superannuated after more than four decades of distinguished service to the nation. General Seth is an alumnus of the National Defence Academy, Khadakwasla in Pune, and was commissioned into the Armoured Corps in December 1986. Over a distinguished military career spanning nearly four decades, he has had extensive experience across the operational, strategic, capability development and institutional domains, contributing significantly to the Indian Army&#8217;s combat effectiveness and long-term transformation. His command assignments include an Armoured Regiment in the Desert Sector, an Armoured Brigade in the Western Theatre, and a Counter-Insurgency Force in Jammu and Kashmir. As a Lieutenant General, he commanded the Sudarshan Chakra Corps, one of the Indian Army&#8217;s premier strike formations. He subsequently served as General Officer Commanding, Delhi Area, overseeing key national and international military engagements and ceremonial responsibilities.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:40:26+00:00",
-        "link": "https://newsonair.gov.in/general-dhiraj-seth-takes-charge-as-31st-chief-of-the-army-staff/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Screenshot-2026-06-30-171752.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Panchayati Raj Releases National Study Report on Low Participation in Gram Sabha",
-        "summary": "The Ministry of Panchayati Raj today released National Study Report on Low Participation in Gram Sabha across States and Union Territories in New Delhi. The report was released by NITI Aayog Member Dr. R. Balasubramaniam. The Study provides an evidence based roadmap for strengthening Gram Sabha as a vibrant institution of participatory democracy, local accountability, [&#8230;]",
-        "article": "The Ministry of Panchayati Raj today released National Study Report on Low Participation in Gram Sabha across States and Union Territories in New Delhi. The report was released by NITI Aayog Member Dr. R. Balasubramaniam. The Study provides an evidence based roadmap for strengthening Gram Sabha as a vibrant institution of participatory democracy, local accountability, and community-led development across rural India. On the occasion, Secretary in the Ministry of Panchayati Raj Vivek Bharadwaj said that in the last decade, problems related to road connectivity, water and electricity supply in rural parts of the country have been resolved. The findings of the Report demonstrated that low participation in Gram Sabha is multidimensional, influenced by socio-economic, institutional, governance and behavioral factors rather than a single underlying cause. The findings underscore that sustained citizen engagement depends not only on mobilizing people to attend meetings but also on ensuring that Gram Sabha relevant, trusted, responsive, and capable of addressing community priorities.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:30:12+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-panchayati-raj-releases-national-study-report-on-low-participation-in-gram-sabha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/a-13.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Road Transport Minister Nitin Gadkari calls for greater public participation in road safety",
-        "summary": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being [&#8230;]",
-        "article": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being made to ensure international-standard road engineering, including proper signage, lane markings and underpasses. The Minister also called greater public participation in promoting road safety. Mr Gadkari also urged motorists to follow traffic rules, avoid overspeeding, wear helmets and seat belts, maintain lane discipline, and refrain from using mobile phones while driving.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T08:32:21+00:00",
-        "link": "https://newsonair.gov.in/road-transport-minister-nitin-gadkari-calls-for-greater-public-participation-in-road-safety/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nitin-gadkari.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -573,14 +573,14 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India intensifies relief efforts in earthquake-hit Venezuela under Operation Amistad",
-        "summary": "India has intensified its humanitarian assistance to earthquake-hit Venezuela under Operation Amistad. The Ministry of External Affairs said that India has extended relief efforts with a focus on medical assistance and emergency support for those affected by the disaster. The ministry said, Indian rescue and medical teams, working alongside the Venezuelan authorities, are providing [&#8230;]",
-        "article": "India has intensified its humanitarian assistance to earthquake-hit Venezuela under Operation Amistad. The Ministry of External Affairs said that India has extended relief efforts with a focus on medical assistance and emergency support for those affected by the disaster. The ministry said, Indian rescue and medical teams, working alongside the Venezuelan authorities, are providing emergency healthcare, conducting search and rescue operations, and delivering life-saving humanitarian assistance to affected communities. It also noted that the Indian Army Field Hospital is operational and is providing medical care to those injured in the disaster. Earlier yesterday, India had deployed two Indian Air Force C-17 Globemaster aircraft carrying a 41-member rescue team, an Indian Army Field Hospital, 30 tonnes of relief material, six tonnes of medicines and medical equipment, and two BHISHM Cube portable hospitals to strengthen relief and rescue operations in the South American nation.",
+        "title": "Ireland Assumes EU Council Presidency; EAM Jaishankar Extends Best Wishes",
+        "summary": "External Affairs Minister Dr S. Jaishankar today extended his best wishes to Ireland&#8217;s Foreign Minister Helen McEntee as Ireland assumes the Presidency of the Council of the European Union. In a social media post, Dr Jaishankar said they also discussed deepening cooperation, including in trade and education. He added that the two sides will carry [&#8230;]",
+        "article": "External Affairs Minister Dr S. Jaishankar today extended his best wishes to Ireland&#8217;s Foreign Minister Helen McEntee as Ireland assumes the Presidency of the Council of the European Union. In a social media post, Dr Jaishankar said they also discussed deepening cooperation, including in trade and education. He added that the two sides will carry forward their partnership in the multilateral domain.",
         "date": "2026-06-30",
-        "pubDate": "2026-06-30T05:52:39+00:00",
-        "link": "https://newsonair.gov.in/india-intensifies-relief-efforts-in-earthquake-hit-venezuela-under-operation-amistad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/India-intensifies-relief-efforts-in-earthquake-hit-Venezuela-under-Operation-Amistad.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-06-30T16:13:04+00:00",
+        "link": "https://newsonair.gov.in/ireland-assumes-eu-council-presidency-eam-jaishankar-extends-best-wishes/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -698,6 +698,17 @@ window.VM_NEWS = {
     ],
     "business": [
       {
+        "title": "Sensex, Nifty Close Lower; Broader Market Ends Higher",
+        "summary": "Benchmark domestic equity indices ended the final trading session of the quarter around 0.3 per cent lower. The Sensex fell 250 points to close at 76 thousand 479, while the Nifty lost 81 points to settle at 23 thousand 866. However, the broader market on the National Stock Exchange ended in positive territory. The Midcap [&#8230;]",
+        "article": "Benchmark domestic equity indices ended the final trading session of the quarter around 0.3 per cent lower. The Sensex fell 250 points to close at 76 thousand 479, while the Nifty lost 81 points to settle at 23 thousand 866. However, the broader market on the National Stock Exchange ended in positive territory. The Midcap 100 index added 0.4 percent and the Smallcap 100 index surged one percent.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T15:12:18+00:00",
+        "link": "https://newsonair.gov.in/sensex-nifty-close-lower-broader-market-ends-higher/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/share-market.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "India’s Net External Liabilities Decline to 209.9 Billion US Dollars at End of March",
         "summary": "India&#8217;s net external liabilities declined sharply by 52.4 billion US dollar during the January-March quarter of 2025-26 to 209.9 billion US dollar at the end of March, reflecting a fall in foreign-owned assets in the country and a rise in overseas financial assets held by Indian residents. According to Reserve Bank data released today, the [&#8230;]",
         "article": "India&#8217;s net external liabilities declined sharply by 52.4 billion US dollar during the January-March quarter of 2025-26 to 209.9 billion US dollar at the end of March, reflecting a fall in foreign-owned assets in the country and a rise in overseas financial assets held by Indian residents. According to Reserve Bank data released today, the decline in net claims of non-residents on India was driven by a 40.1 billion dollar fall in foreign liabilities and a 12.3 billion dollar increase in Indian residents&#8217; overseas financial assets during the fourth quarter of FY26. Exchange rate movements also contributed to the decline in liabilities when measured in dollar terms. Foreign liabilities declined mainly due to lower portfolio investment and direct investment in India, as the depreciation of the rupee against major currencies reduced the US dollar value of inward investments despite an increase in FDI in rupee terms. Meanwhile, overseas direct investment accounted for more than 60 percent of the increase in India&#8217;s external financial assets during the quarter, followed by reserve assets. The RBI said India&#8217;s international financial assets rose to 1,210.4 billion US dollar at the end of March from 1,198.1 billion dollar three months earlier, while external liabilities declined to 1,420.3 billion dollar from 1,460.4 billion dollar, improving the assets-to-liabilities ratio to 85.2 percent from 82 percent. For the full financial year 2025-26, the RBI said net claims of non-residents on India fell by USD 119.2 billion as overseas financial assets of Indian residents increased by USD 76.4 billion while external liabilities declined by USD 42.8 billion. As a result, the ratio of net claims of non-residents to GDP improved to (-)5.9 per cent in March 2026 from (-)9 per cent a year earlier. The central bank also noted that reserve assets accounted for 57.1 per cent of India&#8217;s international financial assets at end-March, while the share of debt liabilities in total external liabilities increased to 56.6 per cent from 55.3 per cent in the previous quarter.",
@@ -793,17 +804,6 @@ window.VM_NEWS = {
         "pubDate": "2026-06-28T12:57:24+00:00",
         "link": "https://newsonair.gov.in/fpis-pull-out-%e2%82%b953022-crore-from-indian-equities-in-june/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/FPI.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India’s foreign reserves rise by 963 million dollars to over 672 billion dollars",
-        "summary": "India’s foreign exchange reserves rose by 963 million US dollars to over 672 billion US dollars during the week ended June 19. According to the Reserve Bank of India data, the rise was mainly driven by a sharp increase in gold reserves, which increased by 4.1 billion US dollars to over 107 billion US dollars. [&#8230;]",
-        "article": "India’s foreign exchange reserves rose by 963 million US dollars to over 672 billion US dollars during the week ended June 19. According to the Reserve Bank of India data, the rise was mainly driven by a sharp increase in gold reserves, which increased by 4.1 billion US dollars to over 107 billion US dollars. In contrast, Foreign currency assets, the largest component of the reserves, decreased by 3.07 billion USD to 541 billion USD during the week. Special Drawing Rights (SDRs) fell by 52 million USD to 18.64 billion US dollars, and the country&#8217;s reserve position with the International Monetary Fund dropped 22 million USD to around 4.8 billion US dollars.",
-        "date": "2026-06-26",
-        "pubDate": "2026-06-26T13:53:48+00:00",
-        "link": "https://newsonair.gov.in/indias-foreign-reserves-rise-by-963-million-dollars-to-over-672-billion-dollars/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HLvq2BDbkAEbirC.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -1025,6 +1025,105 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "Southwest Monsoon Likely to Advance Over Delhi, Haryana, Punjab and Chandigarh in Next 2–3 Days",
+        "summary": "Southwest Monsoon is likely to advance over Delhi, Haryana, Chandigarh and Punjab during the next two to three days. India Meteorological Department (IMD) said that similar weather conditions are expected to prevail over some parts of the North Arabian Sea, Gujarat, Madhya Pradesh, Uttar Pradesh, the remaining parts of Uttarakhand, Himachal Pradesh, Jammu and Kashmir [&#8230;]",
+        "article": "Southwest Monsoon is likely to advance over Delhi, Haryana, Chandigarh and Punjab during the next two to three days. India Meteorological Department (IMD) said that similar weather conditions are expected to prevail over some parts of the North Arabian Sea, Gujarat, Madhya Pradesh, Uttar Pradesh, the remaining parts of Uttarakhand, Himachal Pradesh, Jammu and Kashmir and Ladakh, Daman and Diu, and some parts of Rajasthan during the same period. The weather agency has predicted heavy to very heavy rainfall over Bihar, Chhattisgarh, Coastal Karnataka, Madhya Pradesh, Kerala, Mahe, Konkan, Goa, Odisha, Jharkhand, South Interior Karnataka, Vidarbha, Uttar Pradesh and Parts of North Eastern Region till 2nd of the next month. The Met department has forecast thunderstorms accompanied with lightning and gusty winds over Andaman and Nicobar Islands, Lakshadweep, Tamil Nadu Puducherry and Karaikal till 6th of the next month. The IMD has also predicted that during July, below-normal rainfall is likely over most parts of the country. However, some areas of Northwest and Northeast India, East-Central India and the eastern peninsular region are likely to receive normal to above-normal rainfall.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:28:20+00:00",
+        "link": "https://newsonair.gov.in/southwest-monsoon-likely-to-advance-over-delhi-haryana-punjab-and-chandigarh-in-next-2-3-days/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260628303f-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "RBI Says Indian Economy and Financial System Show Remarkable Resilience Amid External Shocks",
+        "summary": "Reserve Bank of India said that the Indian economy and the financial system have demonstrated remarkable resilience despite facing external shocks of significant magnitude. In his foreword to the RBI’s Financial Stability Report, RBI Governor Sanjay Malhotra said strong growth, low inflation, healthy balance sheets of financial and non-financial firms, and ample buffers have helped [&#8230;]",
+        "article": "Reserve Bank of India said that the Indian economy and the financial system have demonstrated remarkable resilience despite facing external shocks of significant magnitude. In his foreword to the RBI’s Financial Stability Report, RBI Governor Sanjay Malhotra said strong growth, low inflation, healthy balance sheets of financial and non-financial firms, and ample buffers have helped preserve macro-financial stability. The Financial Stability report stated that India&#8217;s sound macroeconomic fundamentals place it in a stronger position than many of its peers and provide greater resilience to external shocks. The report highlighted that the domestic financial system remains resilient, underpinned by strong bank and non-bank balance sheets. Scheduled Commercial Banks (SCBs) remain safe and sound, supported by strong capital and liquidity buffers, continued improvement in asset quality, and stable profitability. The report pointed out that elevated public debt, bond market fragilities, stretched asset valuations remain key vulnerabilities that could amplify future shocks.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:20:45+00:00",
+        "link": "https://newsonair.gov.in/rbi-says-indian-economy-and-financial-system-show-remarkable-resilience-amid-external-shocks/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/rbi-reuters-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government Extends Customs Duty Exemption on Critical Petrochemical Products Till July 15",
+        "summary": "Government has extended full customs duty exemption on critical petrochemical products in view of ongoing conflict in West Asia till 15th July 2026. Centre had earlier provided a full customs duty exemption till today, as a temporary and targeted relief due to consequent disruptions in global supply chains. The exemption was provided to ensure sufficient [&#8230;]",
+        "article": "Government has extended full customs duty exemption on critical petrochemical products in view of ongoing conflict in West Asia till 15th July 2026. Centre had earlier provided a full customs duty exemption till today, as a temporary and targeted relief due to consequent disruptions in global supply chains. The exemption was provided to ensure sufficient availability of petrochemicals in the domestic market as Indian petroleum companies had been asked to concentrate on the production of LPG during this period. As the situation is gradually normalizing, this move will ensure a smooth and non-disruptive transition for the affected sectors. The list of products covered remains the same as notified earlier. The Government remains committed to supporting India&#8217;s manufacturing sector. The exemption is expected to benefit a wide range of sectors dependent on petrochemical feedstock and intermediates, including plastics, packaging, textiles, pharmaceuticals, chemicals, automotive components and other manufacturing segments.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:19:21+00:00",
+        "link": "https://newsonair.gov.in/government-extends-customs-duty-exemption-on-critical-petrochemical-products-till-july-15/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Developed India Goal Depends on Advanced Agriculture & Prosperous Farmers: Union Minister Shivraj Singh Chouhan",
+        "summary": "Union Minister for Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan said that achieving the goal of a &#8216;Viksit Bharat&#8217; (Developed India) is impossible without advanced agriculture and prosperous farmers. Addressing the closing ceremony of the &#8216;Khet Bachao Abhiyan&#8217; at the Agricultural University at Bawal in Rewari district of Haryana, the Union Agriculture Ministe",
+        "article": "Union Minister for Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan said that achieving the goal of a &#8216;Viksit Bharat&#8217; (Developed India) is impossible without advanced agriculture and prosperous farmers. Addressing the closing ceremony of the &#8216;Khet Bachao Abhiyan&#8217; at the Agricultural University at Bawal in Rewari district of Haryana, the Union Agriculture Minister remarked that farmers are the backbone of the nation&#8217;s economy and their prosperity forms the foundation of India&#8217;s prosperity. He noted that the Central Government is continuously working to make agriculture profitable, modern, and sustainable. Mr. Chouhan mentioned that the government is developing a mobile app to provide information regarding soil health and the specific quantities of fertilizers required. He advised farmers to adopt organic farming practices to preserve their farmlands. Addressing the media, Mr. Chouhan stated that although the campaign is concluding today, awareness programs under the &#8216;Khet Bachao Abhiyan&#8217; will continue. On this occasion, Union Agriculture Minister Shivraj Singh Chouhan and Chief Minister Nayab Singh Saini jointly inaugurated an agro-industrial exhibition showcasing the latest agricultural innovations, as well as the &#8216;Haryana FPO Mission-2026&#8217;. Chief Minister Nayab Singh Saini stated that the objective of the FPO Mission is to make farmers self-reliant.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:17:27+00:00",
+        "link": "https://newsonair.gov.in/developed-india-goal-depends-on-advanced-agriculture-prosperous-farmers-union-minister-shivraj-singh-chouhan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Union-Minister-Shivraj-Singh-Chouhan-holds-review-meeting-on-El-Nino-effect-on-agriculture.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Tourism Ministry Signs MoU with Google India to Boost Digital Promotion of Tourism Destinations",
+        "summary": "The Ministry of Tourism today signed a Memorandum of Understanding with Google India to strengthen the digital promotion of India’s tourism destinations. The MoU was exchanged in the presence of Tourism Minister Gajendra Singh Shekhawat in New Delhi. Speaking on the occasion, Mr. Shekhawat said digital technologies can create immersive experiences that showcase the glory [&#8230;]",
+        "article": "The Ministry of Tourism today signed a Memorandum of Understanding with Google India to strengthen the digital promotion of India’s tourism destinations. The MoU was exchanged in the presence of Tourism Minister Gajendra Singh Shekhawat in New Delhi. Speaking on the occasion, Mr. Shekhawat said digital technologies can create immersive experiences that showcase the glory and grandeur of India’s cultural sites to audiences across the world. He said the collaboration under the Incredible India initiative will strengthen India’s global tourism presence, improve digital outreach and position the country as a modern and globally competitive travel destination. Under the partnership, Google India will provide insights on global travel trends, traveller behaviour and digital engagement to support evidence-based tourism promotion. The collaboration also includes training and capacity-building programmes for Ministry officials in digital marketing, content creation, campaign optimisation and artificial intelligence.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:15:12+00:00",
+        "link": "https://newsonair.gov.in/tourism-ministry-signs-mou-with-google-india-to-boost-digital-promotion-of-tourism-destinations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMD5LAlWAAAaIkx-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian Railways Sanctions Electronic Interlocking Project at 27 Stations in Asansol Division",
+        "summary": "Indian Railways has sanctioned a project for the replacement of relay-based interlocking with Electronic Interlocking at 27 stations or cabins on the High Density Network (HDN) and Highly Utilised Network (HUN) routes of Asansol Division of Eastern Railway. The Ministry of Railways said that the sanctioned work includes the replacement of 28 relay-based interlocking installations [&#8230;]",
+        "article": "Indian Railways has sanctioned a project for the replacement of relay-based interlocking with Electronic Interlocking at 27 stations or cabins on the High Density Network (HDN) and Highly Utilised Network (HUN) routes of Asansol Division of Eastern Railway. The Ministry of Railways said that the sanctioned work includes the replacement of 28 relay-based interlocking installations with state-of-the-art Electronic Interlocking systems, significantly enhancing the safety, reliability and operational efficiency of train operations. The cost of the project is over four hundred crore rupees. The project is part of Indian Railways&#8217; ongoing programme for the provision of Electronic Interlocking on HDN/HUN routes where advanced signalling systems such as Kavach, Automatic Block Signalling and Centralised Traffic Control are being implemented. Electronic Interlocking is a modern signalling technology that replaces ageing relay-based systems with computer-based interlocking, ensuring higher reliability, faster fault diagnosis, easier maintenance and enhanced operational flexibility. The project will further strengthen railway safety while supporting higher line capacity and more efficient train operations on one of the busiest sections of the network.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:02:50+00:00",
+        "link": "https://newsonair.gov.in/indian-railways-sanctions-electronic-interlocking-project-at-27-stations-in-asansol-division/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/railways.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NHAI to Establish Nationwide Framework for Design Vetting of Critical Bridge Projects",
+        "summary": "In a major move to significantly enhance structural safety, improve design reliability, and minimize long-term operational risks for national infrastructure, the National Highways Authority of India (NHAI) is set to establish a nationwide institutional framework for the design vetting of critical bridge projects. According to the Ministry of Road Transport and Highways, this initiative aims [&#823",
+        "article": "In a major move to significantly enhance structural safety, improve design reliability, and minimize long-term operational risks for national infrastructure, the National Highways Authority of India (NHAI) is set to establish a nationwide institutional framework for the design vetting of critical bridge projects. According to the Ministry of Road Transport and Highways, this initiative aims to ensure that major bridges, which are designed for a service life of 100 years or more, undergo rigorous independent technical reviews before construction begins. To achieve this, NHAI will empanel Indian Institutes of Technology (IITs) and other premier technical institutions to conduct independent proof checking of hydraulic studies and designs for major bridge structures across all new National Highway projects. The comprehensive review process will encompass detailed evaluations of structural design calculations, engineering drawings, construction methodologies, geotechnical investigations, and hydraulic studies. Around 12 IITs, including IIT Delhi, IIT Bombay, IIT Roorkee, and IIT Kharagpur, alongside several other technical institutions, have already expressed their willingness to collaborate with the NHAI to strengthen quality assurance practices and promote better design and execution.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:00:36+00:00",
+        "link": "https://newsonair.gov.in/nhai-to-establish-nationwide-framework-for-design-vetting-of-critical-bridge-projects/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/NHAI-2-scaled-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "HM Amit Shah Launches FCRA 2.0 Portal and e-OCI Card",
+        "summary": "Union Home Minister Amit Shah today launched the Foreign Contribution (Regulation) Act (FCRA) 2.0 Portal and the Electronic Overseas Citizen of India (e-OCI) Card in New Delhi. Speaking on the occasion, Mr Shah said both initiatives will improve citizen services and address the difficulties faced by those receiving donations through the FCRA portal. He said [&#8230;]",
+        "article": "Union Home Minister Amit Shah today launched the Foreign Contribution (Regulation) Act (FCRA) 2.0 Portal and the Electronic Overseas Citizen of India (e-OCI) Card in New Delhi. Speaking on the occasion, Mr Shah said both initiatives will improve citizen services and address the difficulties faced by those receiving donations through the FCRA portal. He said when the intention is clear, the policy is transparent, and there is a mindset to embrace technology, then all forms of governance becomes easier for honest people. He underlined that a strict surveillance system is established against wrongdoers, and the country becomes increasingly secure. The Home Minister informed that the initial problems faced in the OCI system have been resolved in the new system, and it will bring great convenience to more than 50 lakh OCI cardholders. He added that after 20 years, when a new passport is issued, there will be no need to re-issue the OCI booklet, and the cardholder’s registration number will remain unique. The FCRA 2.0 Portal has been developed to simplify compliance under the Foreign Contribution (Regulation) Act and to strengthen the monitoring and enforcement mechanism. All major processes related to applications, renewals, annual returns, and other services have now been made fully digital through an end-to-end online system. e-OCI Card is a major citizen-centric initiative aimed at transforming OCI services for the global Indian diaspora through a fully digital platform. Under the new system, applicants can complete the entire OCI process online, from submitting the application and uploading supporting documents to downloading the digitally generated card after approval.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T15:21:44+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-launches-fcra-2-0-portal-and-e-oci-card/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMEACBHXEAAfKom-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Japan PM Sanae Takaichi to Visit India for 16th India-Japan Annual Summit",
+        "summary": "Prime Minister of Japan, Sanae Takaichi, will arrive in New Delhi tomorrow evening on a three-day visit for the 16th India-Japan Annual Summit. The External Affairs Ministry said the Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation and exchange views on regional and global issues [&#8230;]",
+        "article": "Prime Minister of Japan, Sanae Takaichi, will arrive in New Delhi tomorrow evening on a three-day visit for the 16th India-Japan Annual Summit. The External Affairs Ministry said the Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation and exchange views on regional and global issues of mutual interest. On the second day of the visit, Prime Minister Takaichi will be accorded a ceremonial reception at Rashtrapati Bhavan. She will then hold talks with Prime Minister Narendra Modi. The two leaders are expected to review progress in bilateral ties and discuss ways to further deepen cooperation across key sectors. This will be followed by the exchange of Memoranda of Understanding and joint press statements. In the afternoon, Prime Minister Takaichi will participate in the India-Japan Business Forum at the national capital. This is Prime Minister Takaichi&#8217;s first official visit to India. The visit follows Prime Minister Narendra Modi&#8217;s visit to Tokyo in August last year for the 15th India-Japan Annual Summit and reflects the shared commitment of the two countries to further strengthen the India-Japan Special Strategic and Global Partnership.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T14:42:53+00:00",
+        "link": "https://newsonair.gov.in/japan-pm-sanae-takaichi-to-visit-india-for-16th-india-japan-annual-summit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMEaFNzXYAAca6x.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Pakistan: Human Rights Groups Condemn Raid on BYC Member Sammi Deen Baloch’s Residence",
         "summary": "In Pakistan&#8217;s, several leading human rights organisations condemned the raid by Pakistani security forces on the residence of Sammi Deen Baloch, a member of the human rights organisation Baloch Yakjehti Committee (BYC) in Karachi, describing it as part of the state&#8217;s continuing campaign of coercion and aggression against the Baloch people. The remarks came after [&#8230;]",
         "article": "In Pakistan&#8217;s, several leading human rights organisations condemned the raid by Pakistani security forces on the residence of Sammi Deen Baloch, a member of the human rights organisation Baloch Yakjehti Committee (BYC) in Karachi, describing it as part of the state&#8217;s continuing campaign of coercion and aggression against the Baloch people. The remarks came after Sammi Deen alleged that law enforcement personnel and intelligence officials raided her residence in her absence and without prior notice yesterday. Expressing grave concern over the incident, the Human Rights Commission of Pakistan (HRCP) called on the Sindh government to launch an immediate enquiry into the raid and ensure protection of Sammi and her family. In a social media post, the rights body called on the Sindh government to order an immediate, independent inquiry into the incident and ensure protection and security for Ms Baloch and her family. Meanwhile, the BYC described the action against Sammi as part of Pakistani authorities&#8217; continuing coercive measures against its entire leadership, alleging that its members have been subjected to arrests, raids, harassment, and other forms of pressure. Furthermore, the Baloch Women Forum (BWF) said that the raid on the home of Sammi and the violence and arrests of peaceful protesters in Quetta reflect the aggression of Pakistani authorities against the Baloch people.",
@@ -1056,108 +1155,108 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/INDIAN-OIL.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ravi Agrawal Re-Appointed as CBDT Chairman",
-        "summary": "Ravi Agrawal has been re-appointed as Chairman, Central Board of Direct Taxes (CBDT), on contract basis, for a period of six months with effect from tomorrow till 31st December 2026 or until further orders, whichever is earlier. The appointments committee of the cabinet has approved the re-appointment.",
-        "article": "Ravi Agrawal has been re-appointed as Chairman, Central Board of Direct Taxes (CBDT), on contract basis, for a period of six months with effect from tomorrow till 31st December 2026 or until further orders, whichever is earlier. The appointments committee of the cabinet has approved the re-appointment.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T13:55:18+00:00",
-        "link": "https://newsonair.gov.in/ravi-agrawal-re-appointed-as-cbdt-chairman/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/202606303846123.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "President Droupadi Murmu Calls on Students to Use Education for Inclusive Nation-Building",
-        "summary": "President Droupadi Murmu today called upon students to use education as a means to build an equitable and inclusive society while addressing the first convocation of the Central Tribal University of Andhra Pradesh in Visakhapatnam. She said educated youth should not work only for their own progress but also strive to uplift the weaker sections [&#8230;]",
-        "article": "President Droupadi Murmu today called upon students to use education as a means to build an equitable and inclusive society while addressing the first convocation of the Central Tribal University of Andhra Pradesh in Visakhapatnam. She said educated youth should not work only for their own progress but also strive to uplift the weaker sections and contribute to nation-building. The President urged students to become agents of social transformation, saying education should go beyond securing employment and help strengthen society, culture, traditions and economic progress. She said every educated youth should help bring forward those left behind and contribute towards achieving the goal of a developed India by 2047. Emphasising the importance of meaningful education, President Murmu said students should combine academic learning with practical knowledge and remain connected to their community, culture and traditions while acquiring new skills to meet the demands of a rapidly changing world. She said institutions established with the objective of social justice, such as the Central Tribal University, have a greater responsibility to promote tribal education, healthcare, skill development, livelihoods and forest rights. The President said the benefits of modern science should reach every section of society while preserving India&#8217;s rich heritage. She appreciated the University&#8217;s initiatives, including its Science and Technology Hub, Tribal Skill Development Centre and grassroots development programmes for tribal empowerment. She also stressed the need to preserve tribal languages and dialects and lauded the University&#8217;s documentation of the dialects of tribal communities, including the Koya and Savara. President Murmu expressed happiness that nearly 40 percent of the graduating students and around 70 per cent of the gold medal recipients are women, saying this reflects the University&#8217;s inclusive outlook and commitment to gender justice. Union Education Minister Dharmendra Pradhan said India&#8217;s knowledge system has its roots in tribal society, which has preserved invaluable knowledge of nature, forests, agriculture and animal husbandry. He said this traditional wisdom should be adapted to contemporary needs. The Minister urged students to become job creators rather than job seekers and said universities should lead innovation to help realise the vision of a developed India by 2047. During the convocation, President Murmu conferred degrees on 373 undergraduate and postgraduate students who completed their programmes between the 2020 and 2025-26 academic years. She also presented gold medals to 13 meritorious students, including 10 women, for their outstanding academic performance. Andhra Pradesh Governor S. Abdul Nazeer, State Education Minister Nara Lokesh, State Tribal Welfare Minister G. Sandhya Rani, University Chancellor Madan Lal Meena, Vice-Chancellor T. Srinivasan and other dignitaries attended the convocation.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T13:48:12+00:00",
-        "link": "https://newsonair.gov.in/president-droupadi-murmu-calls-on-students-to-use-education-for-inclusive-nation-building/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMD8OqPWcAAhawz-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "National Task Force Conducts Visits to Assess Student Mental Health",
-        "summary": "The National Task Force on Mental Health of Students and Prevention of Suicides in Higher Education Institutions has conducted field visits to 30 higher education institutions across 10 States since May last year. The visits were aimed at assessing regional and institutional challenges related to student mental health. The Task Force has also held 25 [&#8230;]",
-        "article": "The National Task Force on Mental Health of Students and Prevention of Suicides in Higher Education Institutions has conducted field visits to 30 higher education institutions across 10 States since May last year. The visits were aimed at assessing regional and institutional challenges related to student mental health. The Task Force has also held 25 stakeholder consultations. These were organised to adopt an interdisciplinary and equity-oriented approach. Since January this year, the consultations have focused on several key issues. These include caste discrimination, gender and mental health, concerns of students from Scheduled Tribe and OBC communities, disabilities, decriminalisation of suicide, the role of mental health NGOs, and issues concerning law students.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:58:21+00:00",
-        "link": "https://newsonair.gov.in/national-task-force-conducts-visits-to-assess-student-mental-health/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/MENTAL-HEALTH-MONTH.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India Signs 28 Migration and Mobility Partnership Agreements with 26 Countries: EAM Jaishankar",
-        "summary": "External Affairs Minister Dr S Jaishankar today said that India signed 28 migration and mobility partnership agreements with over 26 countries, while several others are currently under negotiation. He highlighted the collective responsibility of nations to combat illegal migration, exploitative practices, fraudulent intermediaries and human trafficking. The Minister said this while speaking at the",
-        "article": "External Affairs Minister Dr S Jaishankar today said that India signed 28 migration and mobility partnership agreements with over 26 countries, while several others are currently under negotiation. He highlighted the collective responsibility of nations to combat illegal migration, exploitative practices, fraudulent intermediaries and human trafficking. The Minister said this while speaking at the Human Resource Mobility Forum in New Delhi. He underlined the use of digital systems and tools in the transformation of governance in migration. Dr Jaishankar said that India’s commitment to safe and legal mobility is reflected in the e-Migrate platform, and since its inception more than five million immigration clearances have been issued. Dr Jaishankar underscored that India also recognizes the need for bilateral collaboration in ensuring safe, orderly, and legal migration. The Minister said that the Forum creates opportunities to exchange ideas, learn from experiences, and explore new approaches towards mobility. He also said the event brought together policymakers, industry leaders, employers, and practitioners. He added, India stands ready to work with its partners around the world in advancing shared vision. He further said, trusted mobility pathways can contribute to stronger economies, to more resilient societies, and to deeper international cooperation. The Minister said that technological innovation is reshaping industries at an unprecedented pace. Dr Jaishankar said that the world is undergoing a profound transformation, and as part of that demographic patterns are changing sharply across continents. He said that AI, automation, digitalization and green transition are redefining skills that are required for tomorrow’s economy. The External Affairs Minister said that human resource has emerged as one of the most critical factors of economic development. He said that human resource mobility represents far more than the movement of people from one place to another. He added, it is about connecting aspirations with opportunities, linking talent with demand, creating pathways through which individuals can contribute to economic progress. Dr Jaishankar said that India’s vision for mobility is not limited to facilitating overseas employment opportunities, rather as a very important pillar of international cooperation. He added, these partnerships are based on mutual benefit, shared responsibility and long-term sustainability.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:50:31+00:00",
-        "link": "https://newsonair.gov.in/india-signs-28-migration-and-mobility-partnership-agreements-with-26-countries-eam-jaishankar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Screenshot-2026-06-30-181916.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Defence Minister Rajnath Singh Emphasises Role of Strong Economy in Defence Capabilities",
-        "summary": "Defence Minister Rajnath Singh stressed that robust economy forms the foundation of strong defence capabilities. Addressing the valedictory session of the Vibrant Gujarat Regional Conference in Vadodara today, Mr. Singh expressed confidence that due to the strong presence in chemicals, electronics, shipbuilding and renewable energy sectors, Gujarat will soon emerge as a global hub for [&#8230;]",
-        "article": "Defence Minister Rajnath Singh stressed that robust economy forms the foundation of strong defence capabilities. Addressing the valedictory session of the Vibrant Gujarat Regional Conference in Vadodara today, Mr. Singh expressed confidence that due to the strong presence in chemicals, electronics, shipbuilding and renewable energy sectors, Gujarat will soon emerge as a global hub for defence manufacturing. Highlighting the country&#8217;s rapid progress towards self-reliance in defence manufacturing, he said India&#8217;s domestic defence production, which stood at around 46,000 crore rupees in 2014, has increased significantly to ₹1.78 lakh crore at present. He noted that Vadodara is now home to India&#8217;s first private-sector military aircraft manufacturing facility, where the Tata Group and Airbus are jointly manufacturing the C-295 transport aircraft, marking a historic milestone in the country&#8217;s aerospace journey. Chief Minister Bhupendra Patel announced that MoUs worth 3.34 lakh crore were signed during the two-day Vibrant Gujarat Regional Summit for which will lead to generate over 1.97 lakh job opportunities in the region in the coming days.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:38:49+00:00",
-        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-emphasises-role-of-strong-economy-in-defence-capabilities/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/aaa-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Afghanistan Strongly Condemns Pakistani Airstrikes at United Nations",
-        "summary": "Afghanistan&#8217;s Permanent Mission to the United Nations has strongly condemned the Pakistani airstrikes in the provinces of Paktia, Paktika, and Kunar, which killed and injured several Afghan civilians, including women and children. The mission called on Pakistan to immediately halt all military strikes on Afghan territory and ensure full accountability for alleged violations of international",
-        "article": "Afghanistan&#8217;s Permanent Mission to the United Nations has strongly condemned the Pakistani airstrikes in the provinces of Paktia, Paktika, and Kunar, which killed and injured several Afghan civilians, including women and children. The mission called on Pakistan to immediately halt all military strikes on Afghan territory and ensure full accountability for alleged violations of international law. The statement followed confirmation by Taliban Deputy Spokesman Hamdullah Fitrat that Pakistani airstrikes carried out on the night of June 28, killed 36 civilians and injured 163 others. The Afghan mission said the strikes constituted a serious violation of Afghanistan&#8217;s territorial integrity and were inconsistent with international law, including the Charter of the United Nations. It urged the United Nations and the wider international community to closely monitor the situation, reaffirm the principles of the UN Charter, and insist on respect for Afghanistan&#8217;s sovereignty and territorial integrity. The airstrikes have drawn widespread international concern. UN Secretary-General António Guterres called for an immediate cessation of hostilities and urged all parties to protect civilians. The European Union also called for restraint and de-escalation, stressing that international humanitarian law must be respected at all times and that civilians must be protected. Earlier, Afghanistan&#8217;s Ministry of Foreign Affairs summoned the Chargé d’Affaires of Pakistan&#8217;s Embassy in Kabul to lodge a strong protest.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:30:59+00:00",
-        "link": "https://newsonair.gov.in/afghanistan-strongly-condemns-pakistani-airstrikes-at-united-nations/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi Pays Tribute to Tribal Heroes on Hul Diwas",
-        "summary": "On the occasion of Hul Diwas today, Prime Minister Narendra Modi has paid tributes to Sidho-Kanhu, Chand-Bhairav, Phulo-Jhano, and all the brave tribal warriors who stood firm against the injustice of foreign rule. In a social media post, Mr Modi said that Hul Diwas is a powerful symbol of the extraordinary courage and unwavering spirit [&#8230;]",
-        "article": "On the occasion of Hul Diwas today, Prime Minister Narendra Modi has paid tributes to Sidho-Kanhu, Chand-Bhairav, Phulo-Jhano, and all the brave tribal warriors who stood firm against the injustice of foreign rule. In a social media post, Mr Modi said that Hul Diwas is a powerful symbol of the extraordinary courage and unwavering spirit of tribal communities who laid down their lives for the motherland. He said that the story of their struggle and sacrifice for the protection of tribal dignity and honor will continue to infuse new energy and inspire every citizen of the country.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:44:44+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-pays-tribute-to-tribal-heroes-on-hul-diwas/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/modi-odi.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "General Dhiraj Seth Takes Charge as 31st Chief of the Army Staff",
-        "summary": "General Dhiraj Seth today took charge as the 31st Chief of the Army Staff from General Upendra Dwivedi, who superannuated after more than four decades of distinguished service to the nation. General Seth is an alumnus of the National Defence Academy, Khadakwasla in Pune, and was commissioned into the Armoured Corps in December 1986. Over [&#8230;]",
-        "article": "General Dhiraj Seth today took charge as the 31st Chief of the Army Staff from General Upendra Dwivedi, who superannuated after more than four decades of distinguished service to the nation. General Seth is an alumnus of the National Defence Academy, Khadakwasla in Pune, and was commissioned into the Armoured Corps in December 1986. Over a distinguished military career spanning nearly four decades, he has had extensive experience across the operational, strategic, capability development and institutional domains, contributing significantly to the Indian Army&#8217;s combat effectiveness and long-term transformation. His command assignments include an Armoured Regiment in the Desert Sector, an Armoured Brigade in the Western Theatre, and a Counter-Insurgency Force in Jammu and Kashmir. As a Lieutenant General, he commanded the Sudarshan Chakra Corps, one of the Indian Army&#8217;s premier strike formations. He subsequently served as General Officer Commanding, Delhi Area, overseeing key national and international military engagements and ceremonial responsibilities.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:40:26+00:00",
-        "link": "https://newsonair.gov.in/general-dhiraj-seth-takes-charge-as-31st-chief-of-the-army-staff/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Screenshot-2026-06-30-171752.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Panchayati Raj Releases National Study Report on Low Participation in Gram Sabha",
-        "summary": "The Ministry of Panchayati Raj today released National Study Report on Low Participation in Gram Sabha across States and Union Territories in New Delhi. The report was released by NITI Aayog Member Dr. R. Balasubramaniam. The Study provides an evidence based roadmap for strengthening Gram Sabha as a vibrant institution of participatory democracy, local accountability, [&#8230;]",
-        "article": "The Ministry of Panchayati Raj today released National Study Report on Low Participation in Gram Sabha across States and Union Territories in New Delhi. The report was released by NITI Aayog Member Dr. R. Balasubramaniam. The Study provides an evidence based roadmap for strengthening Gram Sabha as a vibrant institution of participatory democracy, local accountability, and community-led development across rural India. On the occasion, Secretary in the Ministry of Panchayati Raj Vivek Bharadwaj said that in the last decade, problems related to road connectivity, water and electricity supply in rural parts of the country have been resolved. The findings of the Report demonstrated that low participation in Gram Sabha is multidimensional, influenced by socio-economic, institutional, governance and behavioral factors rather than a single underlying cause. The findings underscore that sustained citizen engagement depends not only on mobilizing people to attend meetings but also on ensuring that Gram Sabha relevant, trusted, responsive, and capable of addressing community priorities.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:30:12+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-panchayati-raj-releases-national-study-report-on-low-participation-in-gram-sabha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/a-13.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "Southwest Monsoon Likely to Advance Over Delhi, Haryana, Punjab and Chandigarh in Next 2–3 Days",
+        "summary": "Southwest Monsoon is likely to advance over Delhi, Haryana, Chandigarh and Punjab during the next two to three days. India Meteorological Department (IMD) said that similar weather conditions are expected to prevail over some parts of the North Arabian Sea, Gujarat, Madhya Pradesh, Uttar Pradesh, the remaining parts of Uttarakhand, Himachal Pradesh, Jammu and Kashmir [&#8230;]",
+        "article": "Southwest Monsoon is likely to advance over Delhi, Haryana, Chandigarh and Punjab during the next two to three days. India Meteorological Department (IMD) said that similar weather conditions are expected to prevail over some parts of the North Arabian Sea, Gujarat, Madhya Pradesh, Uttar Pradesh, the remaining parts of Uttarakhand, Himachal Pradesh, Jammu and Kashmir and Ladakh, Daman and Diu, and some parts of Rajasthan during the same period. The weather agency has predicted heavy to very heavy rainfall over Bihar, Chhattisgarh, Coastal Karnataka, Madhya Pradesh, Kerala, Mahe, Konkan, Goa, Odisha, Jharkhand, South Interior Karnataka, Vidarbha, Uttar Pradesh and Parts of North Eastern Region till 2nd of the next month. The Met department has forecast thunderstorms accompanied with lightning and gusty winds over Andaman and Nicobar Islands, Lakshadweep, Tamil Nadu Puducherry and Karaikal till 6th of the next month. The IMD has also predicted that during July, below-normal rainfall is likely over most parts of the country. However, some areas of Northwest and Northeast India, East-Central India and the eastern peninsular region are likely to receive normal to above-normal rainfall.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:28:20+00:00",
+        "link": "https://newsonair.gov.in/southwest-monsoon-likely-to-advance-over-delhi-haryana-punjab-and-chandigarh-in-next-2-3-days/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260628303f-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "RBI Says Indian Economy and Financial System Show Remarkable Resilience Amid External Shocks",
+        "summary": "Reserve Bank of India said that the Indian economy and the financial system have demonstrated remarkable resilience despite facing external shocks of significant magnitude. In his foreword to the RBI’s Financial Stability Report, RBI Governor Sanjay Malhotra said strong growth, low inflation, healthy balance sheets of financial and non-financial firms, and ample buffers have helped [&#8230;]",
+        "article": "Reserve Bank of India said that the Indian economy and the financial system have demonstrated remarkable resilience despite facing external shocks of significant magnitude. In his foreword to the RBI’s Financial Stability Report, RBI Governor Sanjay Malhotra said strong growth, low inflation, healthy balance sheets of financial and non-financial firms, and ample buffers have helped preserve macro-financial stability. The Financial Stability report stated that India&#8217;s sound macroeconomic fundamentals place it in a stronger position than many of its peers and provide greater resilience to external shocks. The report highlighted that the domestic financial system remains resilient, underpinned by strong bank and non-bank balance sheets. Scheduled Commercial Banks (SCBs) remain safe and sound, supported by strong capital and liquidity buffers, continued improvement in asset quality, and stable profitability. The report pointed out that elevated public debt, bond market fragilities, stretched asset valuations remain key vulnerabilities that could amplify future shocks.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:20:45+00:00",
+        "link": "https://newsonair.gov.in/rbi-says-indian-economy-and-financial-system-show-remarkable-resilience-amid-external-shocks/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/rbi-reuters-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government Extends Customs Duty Exemption on Critical Petrochemical Products Till July 15",
+        "summary": "Government has extended full customs duty exemption on critical petrochemical products in view of ongoing conflict in West Asia till 15th July 2026. Centre had earlier provided a full customs duty exemption till today, as a temporary and targeted relief due to consequent disruptions in global supply chains. The exemption was provided to ensure sufficient [&#8230;]",
+        "article": "Government has extended full customs duty exemption on critical petrochemical products in view of ongoing conflict in West Asia till 15th July 2026. Centre had earlier provided a full customs duty exemption till today, as a temporary and targeted relief due to consequent disruptions in global supply chains. The exemption was provided to ensure sufficient availability of petrochemicals in the domestic market as Indian petroleum companies had been asked to concentrate on the production of LPG during this period. As the situation is gradually normalizing, this move will ensure a smooth and non-disruptive transition for the affected sectors. The list of products covered remains the same as notified earlier. The Government remains committed to supporting India&#8217;s manufacturing sector. The exemption is expected to benefit a wide range of sectors dependent on petrochemical feedstock and intermediates, including plastics, packaging, textiles, pharmaceuticals, chemicals, automotive components and other manufacturing segments.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:19:21+00:00",
+        "link": "https://newsonair.gov.in/government-extends-customs-duty-exemption-on-critical-petrochemical-products-till-july-15/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Developed India Goal Depends on Advanced Agriculture & Prosperous Farmers: Union Minister Shivraj Singh Chouhan",
+        "summary": "Union Minister for Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan said that achieving the goal of a &#8216;Viksit Bharat&#8217; (Developed India) is impossible without advanced agriculture and prosperous farmers. Addressing the closing ceremony of the &#8216;Khet Bachao Abhiyan&#8217; at the Agricultural University at Bawal in Rewari district of Haryana, the Union Agriculture Ministe",
+        "article": "Union Minister for Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan said that achieving the goal of a &#8216;Viksit Bharat&#8217; (Developed India) is impossible without advanced agriculture and prosperous farmers. Addressing the closing ceremony of the &#8216;Khet Bachao Abhiyan&#8217; at the Agricultural University at Bawal in Rewari district of Haryana, the Union Agriculture Minister remarked that farmers are the backbone of the nation&#8217;s economy and their prosperity forms the foundation of India&#8217;s prosperity. He noted that the Central Government is continuously working to make agriculture profitable, modern, and sustainable. Mr. Chouhan mentioned that the government is developing a mobile app to provide information regarding soil health and the specific quantities of fertilizers required. He advised farmers to adopt organic farming practices to preserve their farmlands. Addressing the media, Mr. Chouhan stated that although the campaign is concluding today, awareness programs under the &#8216;Khet Bachao Abhiyan&#8217; will continue. On this occasion, Union Agriculture Minister Shivraj Singh Chouhan and Chief Minister Nayab Singh Saini jointly inaugurated an agro-industrial exhibition showcasing the latest agricultural innovations, as well as the &#8216;Haryana FPO Mission-2026&#8217;. Chief Minister Nayab Singh Saini stated that the objective of the FPO Mission is to make farmers self-reliant.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:17:27+00:00",
+        "link": "https://newsonair.gov.in/developed-india-goal-depends-on-advanced-agriculture-prosperous-farmers-union-minister-shivraj-singh-chouhan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Union-Minister-Shivraj-Singh-Chouhan-holds-review-meeting-on-El-Nino-effect-on-agriculture.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Tourism Ministry Signs MoU with Google India to Boost Digital Promotion of Tourism Destinations",
+        "summary": "The Ministry of Tourism today signed a Memorandum of Understanding with Google India to strengthen the digital promotion of India’s tourism destinations. The MoU was exchanged in the presence of Tourism Minister Gajendra Singh Shekhawat in New Delhi. Speaking on the occasion, Mr. Shekhawat said digital technologies can create immersive experiences that showcase the glory [&#8230;]",
+        "article": "The Ministry of Tourism today signed a Memorandum of Understanding with Google India to strengthen the digital promotion of India’s tourism destinations. The MoU was exchanged in the presence of Tourism Minister Gajendra Singh Shekhawat in New Delhi. Speaking on the occasion, Mr. Shekhawat said digital technologies can create immersive experiences that showcase the glory and grandeur of India’s cultural sites to audiences across the world. He said the collaboration under the Incredible India initiative will strengthen India’s global tourism presence, improve digital outreach and position the country as a modern and globally competitive travel destination. Under the partnership, Google India will provide insights on global travel trends, traveller behaviour and digital engagement to support evidence-based tourism promotion. The collaboration also includes training and capacity-building programmes for Ministry officials in digital marketing, content creation, campaign optimisation and artificial intelligence.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:15:12+00:00",
+        "link": "https://newsonair.gov.in/tourism-ministry-signs-mou-with-google-india-to-boost-digital-promotion-of-tourism-destinations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMD5LAlWAAAaIkx-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian Railways Sanctions Electronic Interlocking Project at 27 Stations in Asansol Division",
+        "summary": "Indian Railways has sanctioned a project for the replacement of relay-based interlocking with Electronic Interlocking at 27 stations or cabins on the High Density Network (HDN) and Highly Utilised Network (HUN) routes of Asansol Division of Eastern Railway. The Ministry of Railways said that the sanctioned work includes the replacement of 28 relay-based interlocking installations [&#8230;]",
+        "article": "Indian Railways has sanctioned a project for the replacement of relay-based interlocking with Electronic Interlocking at 27 stations or cabins on the High Density Network (HDN) and Highly Utilised Network (HUN) routes of Asansol Division of Eastern Railway. The Ministry of Railways said that the sanctioned work includes the replacement of 28 relay-based interlocking installations with state-of-the-art Electronic Interlocking systems, significantly enhancing the safety, reliability and operational efficiency of train operations. The cost of the project is over four hundred crore rupees. The project is part of Indian Railways&#8217; ongoing programme for the provision of Electronic Interlocking on HDN/HUN routes where advanced signalling systems such as Kavach, Automatic Block Signalling and Centralised Traffic Control are being implemented. Electronic Interlocking is a modern signalling technology that replaces ageing relay-based systems with computer-based interlocking, ensuring higher reliability, faster fault diagnosis, easier maintenance and enhanced operational flexibility. The project will further strengthen railway safety while supporting higher line capacity and more efficient train operations on one of the busiest sections of the network.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:02:50+00:00",
+        "link": "https://newsonair.gov.in/indian-railways-sanctions-electronic-interlocking-project-at-27-stations-in-asansol-division/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/railways.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NHAI to Establish Nationwide Framework for Design Vetting of Critical Bridge Projects",
+        "summary": "In a major move to significantly enhance structural safety, improve design reliability, and minimize long-term operational risks for national infrastructure, the National Highways Authority of India (NHAI) is set to establish a nationwide institutional framework for the design vetting of critical bridge projects. According to the Ministry of Road Transport and Highways, this initiative aims [&#823",
+        "article": "In a major move to significantly enhance structural safety, improve design reliability, and minimize long-term operational risks for national infrastructure, the National Highways Authority of India (NHAI) is set to establish a nationwide institutional framework for the design vetting of critical bridge projects. According to the Ministry of Road Transport and Highways, this initiative aims to ensure that major bridges, which are designed for a service life of 100 years or more, undergo rigorous independent technical reviews before construction begins. To achieve this, NHAI will empanel Indian Institutes of Technology (IITs) and other premier technical institutions to conduct independent proof checking of hydraulic studies and designs for major bridge structures across all new National Highway projects. The comprehensive review process will encompass detailed evaluations of structural design calculations, engineering drawings, construction methodologies, geotechnical investigations, and hydraulic studies. Around 12 IITs, including IIT Delhi, IIT Bombay, IIT Roorkee, and IIT Kharagpur, alongside several other technical institutions, have already expressed their willingness to collaborate with the NHAI to strengthen quality assurance practices and promote better design and execution.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:00:36+00:00",
+        "link": "https://newsonair.gov.in/nhai-to-establish-nationwide-framework-for-design-vetting-of-critical-bridge-projects/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/NHAI-2-scaled-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "HM Amit Shah Launches FCRA 2.0 Portal and e-OCI Card",
+        "summary": "Union Home Minister Amit Shah today launched the Foreign Contribution (Regulation) Act (FCRA) 2.0 Portal and the Electronic Overseas Citizen of India (e-OCI) Card in New Delhi. Speaking on the occasion, Mr Shah said both initiatives will improve citizen services and address the difficulties faced by those receiving donations through the FCRA portal. He said [&#8230;]",
+        "article": "Union Home Minister Amit Shah today launched the Foreign Contribution (Regulation) Act (FCRA) 2.0 Portal and the Electronic Overseas Citizen of India (e-OCI) Card in New Delhi. Speaking on the occasion, Mr Shah said both initiatives will improve citizen services and address the difficulties faced by those receiving donations through the FCRA portal. He said when the intention is clear, the policy is transparent, and there is a mindset to embrace technology, then all forms of governance becomes easier for honest people. He underlined that a strict surveillance system is established against wrongdoers, and the country becomes increasingly secure. The Home Minister informed that the initial problems faced in the OCI system have been resolved in the new system, and it will bring great convenience to more than 50 lakh OCI cardholders. He added that after 20 years, when a new passport is issued, there will be no need to re-issue the OCI booklet, and the cardholder’s registration number will remain unique. The FCRA 2.0 Portal has been developed to simplify compliance under the Foreign Contribution (Regulation) Act and to strengthen the monitoring and enforcement mechanism. All major processes related to applications, renewals, annual returns, and other services have now been made fully digital through an end-to-end online system. e-OCI Card is a major citizen-centric initiative aimed at transforming OCI services for the global Indian diaspora through a fully digital platform. Under the new system, applicants can complete the entire OCI process online, from submitting the application and uploading supporting documents to downloading the digitally generated card after approval.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T15:21:44+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-launches-fcra-2-0-portal-and-e-oci-card/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMEACBHXEAAfKom-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Japan PM Sanae Takaichi to Visit India for 16th India-Japan Annual Summit",
+        "summary": "Prime Minister of Japan, Sanae Takaichi, will arrive in New Delhi tomorrow evening on a three-day visit for the 16th India-Japan Annual Summit. The External Affairs Ministry said the Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation and exchange views on regional and global issues [&#8230;]",
+        "article": "Prime Minister of Japan, Sanae Takaichi, will arrive in New Delhi tomorrow evening on a three-day visit for the 16th India-Japan Annual Summit. The External Affairs Ministry said the Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation and exchange views on regional and global issues of mutual interest. On the second day of the visit, Prime Minister Takaichi will be accorded a ceremonial reception at Rashtrapati Bhavan. She will then hold talks with Prime Minister Narendra Modi. The two leaders are expected to review progress in bilateral ties and discuss ways to further deepen cooperation across key sectors. This will be followed by the exchange of Memoranda of Understanding and joint press statements. In the afternoon, Prime Minister Takaichi will participate in the India-Japan Business Forum at the national capital. This is Prime Minister Takaichi&#8217;s first official visit to India. The visit follows Prime Minister Narendra Modi&#8217;s visit to Tokyo in August last year for the 15th India-Japan Annual Summit and reflects the shared commitment of the two countries to further strengthen the India-Japan Special Strategic and Global Partnership.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T14:42:53+00:00",
+        "link": "https://newsonair.gov.in/japan-pm-sanae-takaichi-to-visit-india-for-16th-india-japan-annual-summit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMEaFNzXYAAca6x.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "IOCL Dismisses Reports of Fire at Haldia Refinery",
         "summary": "Indian Oil Corporation Limited (IOCL) has dismissed reports claiming that a fire occurred at Indian Oil&#8217;s Haldia Refinery. In a social media post, Oil Corporation said that the incident occurred near the south gate of a neighbouring industrial establishment, and not at Haldia Refinery. It said that Haldia Refinery is operating safely and normally, with [&#8230;]",
@@ -1166,111 +1265,111 @@ window.VM_NEWS = {
         "pubDate": "2026-06-30T13:59:44+00:00",
         "link": "https://newsonair.gov.in/iocl-dismisses-reports-of-fire-at-haldia-refinery/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/INDIAN-OIL.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ravi Agrawal Re-Appointed as CBDT Chairman",
-        "summary": "Ravi Agrawal has been re-appointed as Chairman, Central Board of Direct Taxes (CBDT), on contract basis, for a period of six months with effect from tomorrow till 31st December 2026 or until further orders, whichever is earlier. The appointments committee of the cabinet has approved the re-appointment.",
-        "article": "Ravi Agrawal has been re-appointed as Chairman, Central Board of Direct Taxes (CBDT), on contract basis, for a period of six months with effect from tomorrow till 31st December 2026 or until further orders, whichever is earlier. The appointments committee of the cabinet has approved the re-appointment.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T13:55:18+00:00",
-        "link": "https://newsonair.gov.in/ravi-agrawal-re-appointed-as-cbdt-chairman/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/202606303846123.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "President Droupadi Murmu Calls on Students to Use Education for Inclusive Nation-Building",
-        "summary": "President Droupadi Murmu today called upon students to use education as a means to build an equitable and inclusive society while addressing the first convocation of the Central Tribal University of Andhra Pradesh in Visakhapatnam. She said educated youth should not work only for their own progress but also strive to uplift the weaker sections [&#8230;]",
-        "article": "President Droupadi Murmu today called upon students to use education as a means to build an equitable and inclusive society while addressing the first convocation of the Central Tribal University of Andhra Pradesh in Visakhapatnam. She said educated youth should not work only for their own progress but also strive to uplift the weaker sections and contribute to nation-building. The President urged students to become agents of social transformation, saying education should go beyond securing employment and help strengthen society, culture, traditions and economic progress. She said every educated youth should help bring forward those left behind and contribute towards achieving the goal of a developed India by 2047. Emphasising the importance of meaningful education, President Murmu said students should combine academic learning with practical knowledge and remain connected to their community, culture and traditions while acquiring new skills to meet the demands of a rapidly changing world. She said institutions established with the objective of social justice, such as the Central Tribal University, have a greater responsibility to promote tribal education, healthcare, skill development, livelihoods and forest rights. The President said the benefits of modern science should reach every section of society while preserving India&#8217;s rich heritage. She appreciated the University&#8217;s initiatives, including its Science and Technology Hub, Tribal Skill Development Centre and grassroots development programmes for tribal empowerment. She also stressed the need to preserve tribal languages and dialects and lauded the University&#8217;s documentation of the dialects of tribal communities, including the Koya and Savara. President Murmu expressed happiness that nearly 40 percent of the graduating students and around 70 per cent of the gold medal recipients are women, saying this reflects the University&#8217;s inclusive outlook and commitment to gender justice. Union Education Minister Dharmendra Pradhan said India&#8217;s knowledge system has its roots in tribal society, which has preserved invaluable knowledge of nature, forests, agriculture and animal husbandry. He said this traditional wisdom should be adapted to contemporary needs. The Minister urged students to become job creators rather than job seekers and said universities should lead innovation to help realise the vision of a developed India by 2047. During the convocation, President Murmu conferred degrees on 373 undergraduate and postgraduate students who completed their programmes between the 2020 and 2025-26 academic years. She also presented gold medals to 13 meritorious students, including 10 women, for their outstanding academic performance. Andhra Pradesh Governor S. Abdul Nazeer, State Education Minister Nara Lokesh, State Tribal Welfare Minister G. Sandhya Rani, University Chancellor Madan Lal Meena, Vice-Chancellor T. Srinivasan and other dignitaries attended the convocation.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T13:48:12+00:00",
-        "link": "https://newsonair.gov.in/president-droupadi-murmu-calls-on-students-to-use-education-for-inclusive-nation-building/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMD8OqPWcAAhawz-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "National Task Force Conducts Visits to Assess Student Mental Health",
-        "summary": "The National Task Force on Mental Health of Students and Prevention of Suicides in Higher Education Institutions has conducted field visits to 30 higher education institutions across 10 States since May last year. The visits were aimed at assessing regional and institutional challenges related to student mental health. The Task Force has also held 25 [&#8230;]",
-        "article": "The National Task Force on Mental Health of Students and Prevention of Suicides in Higher Education Institutions has conducted field visits to 30 higher education institutions across 10 States since May last year. The visits were aimed at assessing regional and institutional challenges related to student mental health. The Task Force has also held 25 stakeholder consultations. These were organised to adopt an interdisciplinary and equity-oriented approach. Since January this year, the consultations have focused on several key issues. These include caste discrimination, gender and mental health, concerns of students from Scheduled Tribe and OBC communities, disabilities, decriminalisation of suicide, the role of mental health NGOs, and issues concerning law students.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:58:21+00:00",
-        "link": "https://newsonair.gov.in/national-task-force-conducts-visits-to-assess-student-mental-health/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/MENTAL-HEALTH-MONTH.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India Signs 28 Migration and Mobility Partnership Agreements with 26 Countries: EAM Jaishankar",
-        "summary": "External Affairs Minister Dr S Jaishankar today said that India signed 28 migration and mobility partnership agreements with over 26 countries, while several others are currently under negotiation. He highlighted the collective responsibility of nations to combat illegal migration, exploitative practices, fraudulent intermediaries and human trafficking. The Minister said this while speaking at the",
-        "article": "External Affairs Minister Dr S Jaishankar today said that India signed 28 migration and mobility partnership agreements with over 26 countries, while several others are currently under negotiation. He highlighted the collective responsibility of nations to combat illegal migration, exploitative practices, fraudulent intermediaries and human trafficking. The Minister said this while speaking at the Human Resource Mobility Forum in New Delhi. He underlined the use of digital systems and tools in the transformation of governance in migration. Dr Jaishankar said that India’s commitment to safe and legal mobility is reflected in the e-Migrate platform, and since its inception more than five million immigration clearances have been issued. Dr Jaishankar underscored that India also recognizes the need for bilateral collaboration in ensuring safe, orderly, and legal migration. The Minister said that the Forum creates opportunities to exchange ideas, learn from experiences, and explore new approaches towards mobility. He also said the event brought together policymakers, industry leaders, employers, and practitioners. He added, India stands ready to work with its partners around the world in advancing shared vision. He further said, trusted mobility pathways can contribute to stronger economies, to more resilient societies, and to deeper international cooperation. The Minister said that technological innovation is reshaping industries at an unprecedented pace. Dr Jaishankar said that the world is undergoing a profound transformation, and as part of that demographic patterns are changing sharply across continents. He said that AI, automation, digitalization and green transition are redefining skills that are required for tomorrow’s economy. The External Affairs Minister said that human resource has emerged as one of the most critical factors of economic development. He said that human resource mobility represents far more than the movement of people from one place to another. He added, it is about connecting aspirations with opportunities, linking talent with demand, creating pathways through which individuals can contribute to economic progress. Dr Jaishankar said that India’s vision for mobility is not limited to facilitating overseas employment opportunities, rather as a very important pillar of international cooperation. He added, these partnerships are based on mutual benefit, shared responsibility and long-term sustainability.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:50:31+00:00",
-        "link": "https://newsonair.gov.in/india-signs-28-migration-and-mobility-partnership-agreements-with-26-countries-eam-jaishankar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Screenshot-2026-06-30-181916.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Defence Minister Rajnath Singh Emphasises Role of Strong Economy in Defence Capabilities",
-        "summary": "Defence Minister Rajnath Singh stressed that robust economy forms the foundation of strong defence capabilities. Addressing the valedictory session of the Vibrant Gujarat Regional Conference in Vadodara today, Mr. Singh expressed confidence that due to the strong presence in chemicals, electronics, shipbuilding and renewable energy sectors, Gujarat will soon emerge as a global hub for [&#8230;]",
-        "article": "Defence Minister Rajnath Singh stressed that robust economy forms the foundation of strong defence capabilities. Addressing the valedictory session of the Vibrant Gujarat Regional Conference in Vadodara today, Mr. Singh expressed confidence that due to the strong presence in chemicals, electronics, shipbuilding and renewable energy sectors, Gujarat will soon emerge as a global hub for defence manufacturing. Highlighting the country&#8217;s rapid progress towards self-reliance in defence manufacturing, he said India&#8217;s domestic defence production, which stood at around 46,000 crore rupees in 2014, has increased significantly to ₹1.78 lakh crore at present. He noted that Vadodara is now home to India&#8217;s first private-sector military aircraft manufacturing facility, where the Tata Group and Airbus are jointly manufacturing the C-295 transport aircraft, marking a historic milestone in the country&#8217;s aerospace journey. Chief Minister Bhupendra Patel announced that MoUs worth 3.34 lakh crore were signed during the two-day Vibrant Gujarat Regional Summit for which will lead to generate over 1.97 lakh job opportunities in the region in the coming days.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:38:49+00:00",
-        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-emphasises-role-of-strong-economy-in-defence-capabilities/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/aaa-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi Pays Tribute to Tribal Heroes on Hul Diwas",
-        "summary": "On the occasion of Hul Diwas today, Prime Minister Narendra Modi has paid tributes to Sidho-Kanhu, Chand-Bhairav, Phulo-Jhano, and all the brave tribal warriors who stood firm against the injustice of foreign rule. In a social media post, Mr Modi said that Hul Diwas is a powerful symbol of the extraordinary courage and unwavering spirit [&#8230;]",
-        "article": "On the occasion of Hul Diwas today, Prime Minister Narendra Modi has paid tributes to Sidho-Kanhu, Chand-Bhairav, Phulo-Jhano, and all the brave tribal warriors who stood firm against the injustice of foreign rule. In a social media post, Mr Modi said that Hul Diwas is a powerful symbol of the extraordinary courage and unwavering spirit of tribal communities who laid down their lives for the motherland. He said that the story of their struggle and sacrifice for the protection of tribal dignity and honor will continue to infuse new energy and inspire every citizen of the country.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:44:44+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-pays-tribute-to-tribal-heroes-on-hul-diwas/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/modi-odi.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "General Dhiraj Seth Takes Charge as 31st Chief of the Army Staff",
-        "summary": "General Dhiraj Seth today took charge as the 31st Chief of the Army Staff from General Upendra Dwivedi, who superannuated after more than four decades of distinguished service to the nation. General Seth is an alumnus of the National Defence Academy, Khadakwasla in Pune, and was commissioned into the Armoured Corps in December 1986. Over [&#8230;]",
-        "article": "General Dhiraj Seth today took charge as the 31st Chief of the Army Staff from General Upendra Dwivedi, who superannuated after more than four decades of distinguished service to the nation. General Seth is an alumnus of the National Defence Academy, Khadakwasla in Pune, and was commissioned into the Armoured Corps in December 1986. Over a distinguished military career spanning nearly four decades, he has had extensive experience across the operational, strategic, capability development and institutional domains, contributing significantly to the Indian Army&#8217;s combat effectiveness and long-term transformation. His command assignments include an Armoured Regiment in the Desert Sector, an Armoured Brigade in the Western Theatre, and a Counter-Insurgency Force in Jammu and Kashmir. As a Lieutenant General, he commanded the Sudarshan Chakra Corps, one of the Indian Army&#8217;s premier strike formations. He subsequently served as General Officer Commanding, Delhi Area, overseeing key national and international military engagements and ceremonial responsibilities.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:40:26+00:00",
-        "link": "https://newsonair.gov.in/general-dhiraj-seth-takes-charge-as-31st-chief-of-the-army-staff/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Screenshot-2026-06-30-171752.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Panchayati Raj Releases National Study Report on Low Participation in Gram Sabha",
-        "summary": "The Ministry of Panchayati Raj today released National Study Report on Low Participation in Gram Sabha across States and Union Territories in New Delhi. The report was released by NITI Aayog Member Dr. R. Balasubramaniam. The Study provides an evidence based roadmap for strengthening Gram Sabha as a vibrant institution of participatory democracy, local accountability, [&#8230;]",
-        "article": "The Ministry of Panchayati Raj today released National Study Report on Low Participation in Gram Sabha across States and Union Territories in New Delhi. The report was released by NITI Aayog Member Dr. R. Balasubramaniam. The Study provides an evidence based roadmap for strengthening Gram Sabha as a vibrant institution of participatory democracy, local accountability, and community-led development across rural India. On the occasion, Secretary in the Ministry of Panchayati Raj Vivek Bharadwaj said that in the last decade, problems related to road connectivity, water and electricity supply in rural parts of the country have been resolved. The findings of the Report demonstrated that low participation in Gram Sabha is multidimensional, influenced by socio-economic, institutional, governance and behavioral factors rather than a single underlying cause. The findings underscore that sustained citizen engagement depends not only on mobilizing people to attend meetings but also on ensuring that Gram Sabha relevant, trusted, responsive, and capable of addressing community priorities.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:30:12+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-panchayati-raj-releases-national-study-report-on-low-participation-in-gram-sabha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/a-13.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Road Transport Minister Nitin Gadkari calls for greater public participation in road safety",
-        "summary": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being [&#8230;]",
-        "article": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being made to ensure international-standard road engineering, including proper signage, lane markings and underpasses. The Minister also called greater public participation in promoting road safety. Mr Gadkari also urged motorists to follow traffic rules, avoid overspeeding, wear helmets and seat belts, maintain lane discipline, and refrain from using mobile phones while driving.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T08:32:21+00:00",
-        "link": "https://newsonair.gov.in/road-transport-minister-nitin-gadkari-calls-for-greater-public-participation-in-road-safety/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nitin-gadkari.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "Southwest Monsoon Likely to Advance Over Delhi, Haryana, Punjab and Chandigarh in Next 2–3 Days",
+        "summary": "Southwest Monsoon is likely to advance over Delhi, Haryana, Chandigarh and Punjab during the next two to three days. India Meteorological Department (IMD) said that similar weather conditions are expected to prevail over some parts of the North Arabian Sea, Gujarat, Madhya Pradesh, Uttar Pradesh, the remaining parts of Uttarakhand, Himachal Pradesh, Jammu and Kashmir [&#8230;]",
+        "article": "Southwest Monsoon is likely to advance over Delhi, Haryana, Chandigarh and Punjab during the next two to three days. India Meteorological Department (IMD) said that similar weather conditions are expected to prevail over some parts of the North Arabian Sea, Gujarat, Madhya Pradesh, Uttar Pradesh, the remaining parts of Uttarakhand, Himachal Pradesh, Jammu and Kashmir and Ladakh, Daman and Diu, and some parts of Rajasthan during the same period. The weather agency has predicted heavy to very heavy rainfall over Bihar, Chhattisgarh, Coastal Karnataka, Madhya Pradesh, Kerala, Mahe, Konkan, Goa, Odisha, Jharkhand, South Interior Karnataka, Vidarbha, Uttar Pradesh and Parts of North Eastern Region till 2nd of the next month. The Met department has forecast thunderstorms accompanied with lightning and gusty winds over Andaman and Nicobar Islands, Lakshadweep, Tamil Nadu Puducherry and Karaikal till 6th of the next month. The IMD has also predicted that during July, below-normal rainfall is likely over most parts of the country. However, some areas of Northwest and Northeast India, East-Central India and the eastern peninsular region are likely to receive normal to above-normal rainfall.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:28:20+00:00",
+        "link": "https://newsonair.gov.in/southwest-monsoon-likely-to-advance-over-delhi-haryana-punjab-and-chandigarh-in-next-2-3-days/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260628303f-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "RBI Says Indian Economy and Financial System Show Remarkable Resilience Amid External Shocks",
+        "summary": "Reserve Bank of India said that the Indian economy and the financial system have demonstrated remarkable resilience despite facing external shocks of significant magnitude. In his foreword to the RBI’s Financial Stability Report, RBI Governor Sanjay Malhotra said strong growth, low inflation, healthy balance sheets of financial and non-financial firms, and ample buffers have helped [&#8230;]",
+        "article": "Reserve Bank of India said that the Indian economy and the financial system have demonstrated remarkable resilience despite facing external shocks of significant magnitude. In his foreword to the RBI’s Financial Stability Report, RBI Governor Sanjay Malhotra said strong growth, low inflation, healthy balance sheets of financial and non-financial firms, and ample buffers have helped preserve macro-financial stability. The Financial Stability report stated that India&#8217;s sound macroeconomic fundamentals place it in a stronger position than many of its peers and provide greater resilience to external shocks. The report highlighted that the domestic financial system remains resilient, underpinned by strong bank and non-bank balance sheets. Scheduled Commercial Banks (SCBs) remain safe and sound, supported by strong capital and liquidity buffers, continued improvement in asset quality, and stable profitability. The report pointed out that elevated public debt, bond market fragilities, stretched asset valuations remain key vulnerabilities that could amplify future shocks.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:20:45+00:00",
+        "link": "https://newsonair.gov.in/rbi-says-indian-economy-and-financial-system-show-remarkable-resilience-amid-external-shocks/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/rbi-reuters-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government Extends Customs Duty Exemption on Critical Petrochemical Products Till July 15",
+        "summary": "Government has extended full customs duty exemption on critical petrochemical products in view of ongoing conflict in West Asia till 15th July 2026. Centre had earlier provided a full customs duty exemption till today, as a temporary and targeted relief due to consequent disruptions in global supply chains. The exemption was provided to ensure sufficient [&#8230;]",
+        "article": "Government has extended full customs duty exemption on critical petrochemical products in view of ongoing conflict in West Asia till 15th July 2026. Centre had earlier provided a full customs duty exemption till today, as a temporary and targeted relief due to consequent disruptions in global supply chains. The exemption was provided to ensure sufficient availability of petrochemicals in the domestic market as Indian petroleum companies had been asked to concentrate on the production of LPG during this period. As the situation is gradually normalizing, this move will ensure a smooth and non-disruptive transition for the affected sectors. The list of products covered remains the same as notified earlier. The Government remains committed to supporting India&#8217;s manufacturing sector. The exemption is expected to benefit a wide range of sectors dependent on petrochemical feedstock and intermediates, including plastics, packaging, textiles, pharmaceuticals, chemicals, automotive components and other manufacturing segments.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:19:21+00:00",
+        "link": "https://newsonair.gov.in/government-extends-customs-duty-exemption-on-critical-petrochemical-products-till-july-15/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Developed India Goal Depends on Advanced Agriculture & Prosperous Farmers: Union Minister Shivraj Singh Chouhan",
+        "summary": "Union Minister for Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan said that achieving the goal of a &#8216;Viksit Bharat&#8217; (Developed India) is impossible without advanced agriculture and prosperous farmers. Addressing the closing ceremony of the &#8216;Khet Bachao Abhiyan&#8217; at the Agricultural University at Bawal in Rewari district of Haryana, the Union Agriculture Ministe",
+        "article": "Union Minister for Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan said that achieving the goal of a &#8216;Viksit Bharat&#8217; (Developed India) is impossible without advanced agriculture and prosperous farmers. Addressing the closing ceremony of the &#8216;Khet Bachao Abhiyan&#8217; at the Agricultural University at Bawal in Rewari district of Haryana, the Union Agriculture Minister remarked that farmers are the backbone of the nation&#8217;s economy and their prosperity forms the foundation of India&#8217;s prosperity. He noted that the Central Government is continuously working to make agriculture profitable, modern, and sustainable. Mr. Chouhan mentioned that the government is developing a mobile app to provide information regarding soil health and the specific quantities of fertilizers required. He advised farmers to adopt organic farming practices to preserve their farmlands. Addressing the media, Mr. Chouhan stated that although the campaign is concluding today, awareness programs under the &#8216;Khet Bachao Abhiyan&#8217; will continue. On this occasion, Union Agriculture Minister Shivraj Singh Chouhan and Chief Minister Nayab Singh Saini jointly inaugurated an agro-industrial exhibition showcasing the latest agricultural innovations, as well as the &#8216;Haryana FPO Mission-2026&#8217;. Chief Minister Nayab Singh Saini stated that the objective of the FPO Mission is to make farmers self-reliant.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:17:27+00:00",
+        "link": "https://newsonair.gov.in/developed-india-goal-depends-on-advanced-agriculture-prosperous-farmers-union-minister-shivraj-singh-chouhan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Union-Minister-Shivraj-Singh-Chouhan-holds-review-meeting-on-El-Nino-effect-on-agriculture.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Tourism Ministry Signs MoU with Google India to Boost Digital Promotion of Tourism Destinations",
+        "summary": "The Ministry of Tourism today signed a Memorandum of Understanding with Google India to strengthen the digital promotion of India’s tourism destinations. The MoU was exchanged in the presence of Tourism Minister Gajendra Singh Shekhawat in New Delhi. Speaking on the occasion, Mr. Shekhawat said digital technologies can create immersive experiences that showcase the glory [&#8230;]",
+        "article": "The Ministry of Tourism today signed a Memorandum of Understanding with Google India to strengthen the digital promotion of India’s tourism destinations. The MoU was exchanged in the presence of Tourism Minister Gajendra Singh Shekhawat in New Delhi. Speaking on the occasion, Mr. Shekhawat said digital technologies can create immersive experiences that showcase the glory and grandeur of India’s cultural sites to audiences across the world. He said the collaboration under the Incredible India initiative will strengthen India’s global tourism presence, improve digital outreach and position the country as a modern and globally competitive travel destination. Under the partnership, Google India will provide insights on global travel trends, traveller behaviour and digital engagement to support evidence-based tourism promotion. The collaboration also includes training and capacity-building programmes for Ministry officials in digital marketing, content creation, campaign optimisation and artificial intelligence.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:15:12+00:00",
+        "link": "https://newsonair.gov.in/tourism-ministry-signs-mou-with-google-india-to-boost-digital-promotion-of-tourism-destinations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMD5LAlWAAAaIkx-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian Railways Sanctions Electronic Interlocking Project at 27 Stations in Asansol Division",
+        "summary": "Indian Railways has sanctioned a project for the replacement of relay-based interlocking with Electronic Interlocking at 27 stations or cabins on the High Density Network (HDN) and Highly Utilised Network (HUN) routes of Asansol Division of Eastern Railway. The Ministry of Railways said that the sanctioned work includes the replacement of 28 relay-based interlocking installations [&#8230;]",
+        "article": "Indian Railways has sanctioned a project for the replacement of relay-based interlocking with Electronic Interlocking at 27 stations or cabins on the High Density Network (HDN) and Highly Utilised Network (HUN) routes of Asansol Division of Eastern Railway. The Ministry of Railways said that the sanctioned work includes the replacement of 28 relay-based interlocking installations with state-of-the-art Electronic Interlocking systems, significantly enhancing the safety, reliability and operational efficiency of train operations. The cost of the project is over four hundred crore rupees. The project is part of Indian Railways&#8217; ongoing programme for the provision of Electronic Interlocking on HDN/HUN routes where advanced signalling systems such as Kavach, Automatic Block Signalling and Centralised Traffic Control are being implemented. Electronic Interlocking is a modern signalling technology that replaces ageing relay-based systems with computer-based interlocking, ensuring higher reliability, faster fault diagnosis, easier maintenance and enhanced operational flexibility. The project will further strengthen railway safety while supporting higher line capacity and more efficient train operations on one of the busiest sections of the network.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:02:50+00:00",
+        "link": "https://newsonair.gov.in/indian-railways-sanctions-electronic-interlocking-project-at-27-stations-in-asansol-division/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/railways.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NHAI to Establish Nationwide Framework for Design Vetting of Critical Bridge Projects",
+        "summary": "In a major move to significantly enhance structural safety, improve design reliability, and minimize long-term operational risks for national infrastructure, the National Highways Authority of India (NHAI) is set to establish a nationwide institutional framework for the design vetting of critical bridge projects. According to the Ministry of Road Transport and Highways, this initiative aims [&#823",
+        "article": "In a major move to significantly enhance structural safety, improve design reliability, and minimize long-term operational risks for national infrastructure, the National Highways Authority of India (NHAI) is set to establish a nationwide institutional framework for the design vetting of critical bridge projects. According to the Ministry of Road Transport and Highways, this initiative aims to ensure that major bridges, which are designed for a service life of 100 years or more, undergo rigorous independent technical reviews before construction begins. To achieve this, NHAI will empanel Indian Institutes of Technology (IITs) and other premier technical institutions to conduct independent proof checking of hydraulic studies and designs for major bridge structures across all new National Highway projects. The comprehensive review process will encompass detailed evaluations of structural design calculations, engineering drawings, construction methodologies, geotechnical investigations, and hydraulic studies. Around 12 IITs, including IIT Delhi, IIT Bombay, IIT Roorkee, and IIT Kharagpur, alongside several other technical institutions, have already expressed their willingness to collaborate with the NHAI to strengthen quality assurance practices and promote better design and execution.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:00:36+00:00",
+        "link": "https://newsonair.gov.in/nhai-to-establish-nationwide-framework-for-design-vetting-of-critical-bridge-projects/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/NHAI-2-scaled-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "HM Amit Shah Launches FCRA 2.0 Portal and e-OCI Card",
+        "summary": "Union Home Minister Amit Shah today launched the Foreign Contribution (Regulation) Act (FCRA) 2.0 Portal and the Electronic Overseas Citizen of India (e-OCI) Card in New Delhi. Speaking on the occasion, Mr Shah said both initiatives will improve citizen services and address the difficulties faced by those receiving donations through the FCRA portal. He said [&#8230;]",
+        "article": "Union Home Minister Amit Shah today launched the Foreign Contribution (Regulation) Act (FCRA) 2.0 Portal and the Electronic Overseas Citizen of India (e-OCI) Card in New Delhi. Speaking on the occasion, Mr Shah said both initiatives will improve citizen services and address the difficulties faced by those receiving donations through the FCRA portal. He said when the intention is clear, the policy is transparent, and there is a mindset to embrace technology, then all forms of governance becomes easier for honest people. He underlined that a strict surveillance system is established against wrongdoers, and the country becomes increasingly secure. The Home Minister informed that the initial problems faced in the OCI system have been resolved in the new system, and it will bring great convenience to more than 50 lakh OCI cardholders. He added that after 20 years, when a new passport is issued, there will be no need to re-issue the OCI booklet, and the cardholder’s registration number will remain unique. The FCRA 2.0 Portal has been developed to simplify compliance under the Foreign Contribution (Regulation) Act and to strengthen the monitoring and enforcement mechanism. All major processes related to applications, renewals, annual returns, and other services have now been made fully digital through an end-to-end online system. e-OCI Card is a major citizen-centric initiative aimed at transforming OCI services for the global Indian diaspora through a fully digital platform. Under the new system, applicants can complete the entire OCI process online, from submitting the application and uploading supporting documents to downloading the digitally generated card after approval.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T15:21:44+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-launches-fcra-2-0-portal-and-e-oci-card/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMEACBHXEAAfKom-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Japan PM Sanae Takaichi to Visit India for 16th India-Japan Annual Summit",
+        "summary": "Prime Minister of Japan, Sanae Takaichi, will arrive in New Delhi tomorrow evening on a three-day visit for the 16th India-Japan Annual Summit. The External Affairs Ministry said the Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation and exchange views on regional and global issues [&#8230;]",
+        "article": "Prime Minister of Japan, Sanae Takaichi, will arrive in New Delhi tomorrow evening on a three-day visit for the 16th India-Japan Annual Summit. The External Affairs Ministry said the Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation and exchange views on regional and global issues of mutual interest. On the second day of the visit, Prime Minister Takaichi will be accorded a ceremonial reception at Rashtrapati Bhavan. She will then hold talks with Prime Minister Narendra Modi. The two leaders are expected to review progress in bilateral ties and discuss ways to further deepen cooperation across key sectors. This will be followed by the exchange of Memoranda of Understanding and joint press statements. In the afternoon, Prime Minister Takaichi will participate in the India-Japan Business Forum at the national capital. This is Prime Minister Takaichi&#8217;s first official visit to India. The visit follows Prime Minister Narendra Modi&#8217;s visit to Tokyo in August last year for the 15th India-Japan Annual Summit and reflects the shared commitment of the two countries to further strengthen the India-Japan Special Strategic and Global Partnership.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T14:42:53+00:00",
+        "link": "https://newsonair.gov.in/japan-pm-sanae-takaichi-to-visit-india-for-16th-india-japan-annual-summit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMEaFNzXYAAca6x.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "IOCL Dismisses Reports of Fire at Haldia Refinery",
         "summary": "Indian Oil Corporation Limited (IOCL) has dismissed reports claiming that a fire occurred at Indian Oil&#8217;s Haldia Refinery. In a social media post, Oil Corporation said that the incident occurred near the south gate of a neighbouring industrial establishment, and not at Haldia Refinery. It said that Haldia Refinery is operating safely and normally, with [&#8230;]",
         "article": "Indian Oil Corporation Limited (IOCL) has dismissed reports claiming that a fire occurred at Indian Oil&#8217;s Haldia Refinery. In a social media post, Oil Corporation said that the incident occurred near the south gate of a neighbouring industrial establishment, and not at Haldia Refinery. It said that Haldia Refinery is operating safely and normally, with all safety and operational protocols fully in place. As a responsible neighbouring industry, Indian Oil is extending all possible firefighting assistance and support.",
@@ -1278,111 +1377,111 @@ window.VM_NEWS = {
         "pubDate": "2026-06-30T13:59:44+00:00",
         "link": "https://newsonair.gov.in/iocl-dismisses-reports-of-fire-at-haldia-refinery/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/INDIAN-OIL.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ravi Agrawal Re-Appointed as CBDT Chairman",
-        "summary": "Ravi Agrawal has been re-appointed as Chairman, Central Board of Direct Taxes (CBDT), on contract basis, for a period of six months with effect from tomorrow till 31st December 2026 or until further orders, whichever is earlier. The appointments committee of the cabinet has approved the re-appointment.",
-        "article": "Ravi Agrawal has been re-appointed as Chairman, Central Board of Direct Taxes (CBDT), on contract basis, for a period of six months with effect from tomorrow till 31st December 2026 or until further orders, whichever is earlier. The appointments committee of the cabinet has approved the re-appointment.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T13:55:18+00:00",
-        "link": "https://newsonair.gov.in/ravi-agrawal-re-appointed-as-cbdt-chairman/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/202606303846123.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "President Droupadi Murmu Calls on Students to Use Education for Inclusive Nation-Building",
-        "summary": "President Droupadi Murmu today called upon students to use education as a means to build an equitable and inclusive society while addressing the first convocation of the Central Tribal University of Andhra Pradesh in Visakhapatnam. She said educated youth should not work only for their own progress but also strive to uplift the weaker sections [&#8230;]",
-        "article": "President Droupadi Murmu today called upon students to use education as a means to build an equitable and inclusive society while addressing the first convocation of the Central Tribal University of Andhra Pradesh in Visakhapatnam. She said educated youth should not work only for their own progress but also strive to uplift the weaker sections and contribute to nation-building. The President urged students to become agents of social transformation, saying education should go beyond securing employment and help strengthen society, culture, traditions and economic progress. She said every educated youth should help bring forward those left behind and contribute towards achieving the goal of a developed India by 2047. Emphasising the importance of meaningful education, President Murmu said students should combine academic learning with practical knowledge and remain connected to their community, culture and traditions while acquiring new skills to meet the demands of a rapidly changing world. She said institutions established with the objective of social justice, such as the Central Tribal University, have a greater responsibility to promote tribal education, healthcare, skill development, livelihoods and forest rights. The President said the benefits of modern science should reach every section of society while preserving India&#8217;s rich heritage. She appreciated the University&#8217;s initiatives, including its Science and Technology Hub, Tribal Skill Development Centre and grassroots development programmes for tribal empowerment. She also stressed the need to preserve tribal languages and dialects and lauded the University&#8217;s documentation of the dialects of tribal communities, including the Koya and Savara. President Murmu expressed happiness that nearly 40 percent of the graduating students and around 70 per cent of the gold medal recipients are women, saying this reflects the University&#8217;s inclusive outlook and commitment to gender justice. Union Education Minister Dharmendra Pradhan said India&#8217;s knowledge system has its roots in tribal society, which has preserved invaluable knowledge of nature, forests, agriculture and animal husbandry. He said this traditional wisdom should be adapted to contemporary needs. The Minister urged students to become job creators rather than job seekers and said universities should lead innovation to help realise the vision of a developed India by 2047. During the convocation, President Murmu conferred degrees on 373 undergraduate and postgraduate students who completed their programmes between the 2020 and 2025-26 academic years. She also presented gold medals to 13 meritorious students, including 10 women, for their outstanding academic performance. Andhra Pradesh Governor S. Abdul Nazeer, State Education Minister Nara Lokesh, State Tribal Welfare Minister G. Sandhya Rani, University Chancellor Madan Lal Meena, Vice-Chancellor T. Srinivasan and other dignitaries attended the convocation.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T13:48:12+00:00",
-        "link": "https://newsonair.gov.in/president-droupadi-murmu-calls-on-students-to-use-education-for-inclusive-nation-building/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMD8OqPWcAAhawz-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "National Task Force Conducts Visits to Assess Student Mental Health",
-        "summary": "The National Task Force on Mental Health of Students and Prevention of Suicides in Higher Education Institutions has conducted field visits to 30 higher education institutions across 10 States since May last year. The visits were aimed at assessing regional and institutional challenges related to student mental health. The Task Force has also held 25 [&#8230;]",
-        "article": "The National Task Force on Mental Health of Students and Prevention of Suicides in Higher Education Institutions has conducted field visits to 30 higher education institutions across 10 States since May last year. The visits were aimed at assessing regional and institutional challenges related to student mental health. The Task Force has also held 25 stakeholder consultations. These were organised to adopt an interdisciplinary and equity-oriented approach. Since January this year, the consultations have focused on several key issues. These include caste discrimination, gender and mental health, concerns of students from Scheduled Tribe and OBC communities, disabilities, decriminalisation of suicide, the role of mental health NGOs, and issues concerning law students.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:58:21+00:00",
-        "link": "https://newsonair.gov.in/national-task-force-conducts-visits-to-assess-student-mental-health/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/MENTAL-HEALTH-MONTH.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India Signs 28 Migration and Mobility Partnership Agreements with 26 Countries: EAM Jaishankar",
-        "summary": "External Affairs Minister Dr S Jaishankar today said that India signed 28 migration and mobility partnership agreements with over 26 countries, while several others are currently under negotiation. He highlighted the collective responsibility of nations to combat illegal migration, exploitative practices, fraudulent intermediaries and human trafficking. The Minister said this while speaking at the",
-        "article": "External Affairs Minister Dr S Jaishankar today said that India signed 28 migration and mobility partnership agreements with over 26 countries, while several others are currently under negotiation. He highlighted the collective responsibility of nations to combat illegal migration, exploitative practices, fraudulent intermediaries and human trafficking. The Minister said this while speaking at the Human Resource Mobility Forum in New Delhi. He underlined the use of digital systems and tools in the transformation of governance in migration. Dr Jaishankar said that India’s commitment to safe and legal mobility is reflected in the e-Migrate platform, and since its inception more than five million immigration clearances have been issued. Dr Jaishankar underscored that India also recognizes the need for bilateral collaboration in ensuring safe, orderly, and legal migration. The Minister said that the Forum creates opportunities to exchange ideas, learn from experiences, and explore new approaches towards mobility. He also said the event brought together policymakers, industry leaders, employers, and practitioners. He added, India stands ready to work with its partners around the world in advancing shared vision. He further said, trusted mobility pathways can contribute to stronger economies, to more resilient societies, and to deeper international cooperation. The Minister said that technological innovation is reshaping industries at an unprecedented pace. Dr Jaishankar said that the world is undergoing a profound transformation, and as part of that demographic patterns are changing sharply across continents. He said that AI, automation, digitalization and green transition are redefining skills that are required for tomorrow’s economy. The External Affairs Minister said that human resource has emerged as one of the most critical factors of economic development. He said that human resource mobility represents far more than the movement of people from one place to another. He added, it is about connecting aspirations with opportunities, linking talent with demand, creating pathways through which individuals can contribute to economic progress. Dr Jaishankar said that India’s vision for mobility is not limited to facilitating overseas employment opportunities, rather as a very important pillar of international cooperation. He added, these partnerships are based on mutual benefit, shared responsibility and long-term sustainability.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:50:31+00:00",
-        "link": "https://newsonair.gov.in/india-signs-28-migration-and-mobility-partnership-agreements-with-26-countries-eam-jaishankar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Screenshot-2026-06-30-181916.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Defence Minister Rajnath Singh Emphasises Role of Strong Economy in Defence Capabilities",
-        "summary": "Defence Minister Rajnath Singh stressed that robust economy forms the foundation of strong defence capabilities. Addressing the valedictory session of the Vibrant Gujarat Regional Conference in Vadodara today, Mr. Singh expressed confidence that due to the strong presence in chemicals, electronics, shipbuilding and renewable energy sectors, Gujarat will soon emerge as a global hub for [&#8230;]",
-        "article": "Defence Minister Rajnath Singh stressed that robust economy forms the foundation of strong defence capabilities. Addressing the valedictory session of the Vibrant Gujarat Regional Conference in Vadodara today, Mr. Singh expressed confidence that due to the strong presence in chemicals, electronics, shipbuilding and renewable energy sectors, Gujarat will soon emerge as a global hub for defence manufacturing. Highlighting the country&#8217;s rapid progress towards self-reliance in defence manufacturing, he said India&#8217;s domestic defence production, which stood at around 46,000 crore rupees in 2014, has increased significantly to ₹1.78 lakh crore at present. He noted that Vadodara is now home to India&#8217;s first private-sector military aircraft manufacturing facility, where the Tata Group and Airbus are jointly manufacturing the C-295 transport aircraft, marking a historic milestone in the country&#8217;s aerospace journey. Chief Minister Bhupendra Patel announced that MoUs worth 3.34 lakh crore were signed during the two-day Vibrant Gujarat Regional Summit for which will lead to generate over 1.97 lakh job opportunities in the region in the coming days.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:38:49+00:00",
-        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-emphasises-role-of-strong-economy-in-defence-capabilities/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/aaa-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi Pays Tribute to Tribal Heroes on Hul Diwas",
-        "summary": "On the occasion of Hul Diwas today, Prime Minister Narendra Modi has paid tributes to Sidho-Kanhu, Chand-Bhairav, Phulo-Jhano, and all the brave tribal warriors who stood firm against the injustice of foreign rule. In a social media post, Mr Modi said that Hul Diwas is a powerful symbol of the extraordinary courage and unwavering spirit [&#8230;]",
-        "article": "On the occasion of Hul Diwas today, Prime Minister Narendra Modi has paid tributes to Sidho-Kanhu, Chand-Bhairav, Phulo-Jhano, and all the brave tribal warriors who stood firm against the injustice of foreign rule. In a social media post, Mr Modi said that Hul Diwas is a powerful symbol of the extraordinary courage and unwavering spirit of tribal communities who laid down their lives for the motherland. He said that the story of their struggle and sacrifice for the protection of tribal dignity and honor will continue to infuse new energy and inspire every citizen of the country.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:44:44+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-pays-tribute-to-tribal-heroes-on-hul-diwas/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/modi-odi.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "General Dhiraj Seth Takes Charge as 31st Chief of the Army Staff",
-        "summary": "General Dhiraj Seth today took charge as the 31st Chief of the Army Staff from General Upendra Dwivedi, who superannuated after more than four decades of distinguished service to the nation. General Seth is an alumnus of the National Defence Academy, Khadakwasla in Pune, and was commissioned into the Armoured Corps in December 1986. Over [&#8230;]",
-        "article": "General Dhiraj Seth today took charge as the 31st Chief of the Army Staff from General Upendra Dwivedi, who superannuated after more than four decades of distinguished service to the nation. General Seth is an alumnus of the National Defence Academy, Khadakwasla in Pune, and was commissioned into the Armoured Corps in December 1986. Over a distinguished military career spanning nearly four decades, he has had extensive experience across the operational, strategic, capability development and institutional domains, contributing significantly to the Indian Army&#8217;s combat effectiveness and long-term transformation. His command assignments include an Armoured Regiment in the Desert Sector, an Armoured Brigade in the Western Theatre, and a Counter-Insurgency Force in Jammu and Kashmir. As a Lieutenant General, he commanded the Sudarshan Chakra Corps, one of the Indian Army&#8217;s premier strike formations. He subsequently served as General Officer Commanding, Delhi Area, overseeing key national and international military engagements and ceremonial responsibilities.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:40:26+00:00",
-        "link": "https://newsonair.gov.in/general-dhiraj-seth-takes-charge-as-31st-chief-of-the-army-staff/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Screenshot-2026-06-30-171752.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Panchayati Raj Releases National Study Report on Low Participation in Gram Sabha",
-        "summary": "The Ministry of Panchayati Raj today released National Study Report on Low Participation in Gram Sabha across States and Union Territories in New Delhi. The report was released by NITI Aayog Member Dr. R. Balasubramaniam. The Study provides an evidence based roadmap for strengthening Gram Sabha as a vibrant institution of participatory democracy, local accountability, [&#8230;]",
-        "article": "The Ministry of Panchayati Raj today released National Study Report on Low Participation in Gram Sabha across States and Union Territories in New Delhi. The report was released by NITI Aayog Member Dr. R. Balasubramaniam. The Study provides an evidence based roadmap for strengthening Gram Sabha as a vibrant institution of participatory democracy, local accountability, and community-led development across rural India. On the occasion, Secretary in the Ministry of Panchayati Raj Vivek Bharadwaj said that in the last decade, problems related to road connectivity, water and electricity supply in rural parts of the country have been resolved. The findings of the Report demonstrated that low participation in Gram Sabha is multidimensional, influenced by socio-economic, institutional, governance and behavioral factors rather than a single underlying cause. The findings underscore that sustained citizen engagement depends not only on mobilizing people to attend meetings but also on ensuring that Gram Sabha relevant, trusted, responsive, and capable of addressing community priorities.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:30:12+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-panchayati-raj-releases-national-study-report-on-low-participation-in-gram-sabha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/a-13.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Road Transport Minister Nitin Gadkari calls for greater public participation in road safety",
-        "summary": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being [&#8230;]",
-        "article": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being made to ensure international-standard road engineering, including proper signage, lane markings and underpasses. The Minister also called greater public participation in promoting road safety. Mr Gadkari also urged motorists to follow traffic rules, avoid overspeeding, wear helmets and seat belts, maintain lane discipline, and refrain from using mobile phones while driving.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T08:32:21+00:00",
-        "link": "https://newsonair.gov.in/road-transport-minister-nitin-gadkari-calls-for-greater-public-participation-in-road-safety/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nitin-gadkari.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "Southwest Monsoon Likely to Advance Over Delhi, Haryana, Punjab and Chandigarh in Next 2–3 Days",
+        "summary": "Southwest Monsoon is likely to advance over Delhi, Haryana, Chandigarh and Punjab during the next two to three days. India Meteorological Department (IMD) said that similar weather conditions are expected to prevail over some parts of the North Arabian Sea, Gujarat, Madhya Pradesh, Uttar Pradesh, the remaining parts of Uttarakhand, Himachal Pradesh, Jammu and Kashmir [&#8230;]",
+        "article": "Southwest Monsoon is likely to advance over Delhi, Haryana, Chandigarh and Punjab during the next two to three days. India Meteorological Department (IMD) said that similar weather conditions are expected to prevail over some parts of the North Arabian Sea, Gujarat, Madhya Pradesh, Uttar Pradesh, the remaining parts of Uttarakhand, Himachal Pradesh, Jammu and Kashmir and Ladakh, Daman and Diu, and some parts of Rajasthan during the same period. The weather agency has predicted heavy to very heavy rainfall over Bihar, Chhattisgarh, Coastal Karnataka, Madhya Pradesh, Kerala, Mahe, Konkan, Goa, Odisha, Jharkhand, South Interior Karnataka, Vidarbha, Uttar Pradesh and Parts of North Eastern Region till 2nd of the next month. The Met department has forecast thunderstorms accompanied with lightning and gusty winds over Andaman and Nicobar Islands, Lakshadweep, Tamil Nadu Puducherry and Karaikal till 6th of the next month. The IMD has also predicted that during July, below-normal rainfall is likely over most parts of the country. However, some areas of Northwest and Northeast India, East-Central India and the eastern peninsular region are likely to receive normal to above-normal rainfall.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:28:20+00:00",
+        "link": "https://newsonair.gov.in/southwest-monsoon-likely-to-advance-over-delhi-haryana-punjab-and-chandigarh-in-next-2-3-days/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260628303f-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "RBI Says Indian Economy and Financial System Show Remarkable Resilience Amid External Shocks",
+        "summary": "Reserve Bank of India said that the Indian economy and the financial system have demonstrated remarkable resilience despite facing external shocks of significant magnitude. In his foreword to the RBI’s Financial Stability Report, RBI Governor Sanjay Malhotra said strong growth, low inflation, healthy balance sheets of financial and non-financial firms, and ample buffers have helped [&#8230;]",
+        "article": "Reserve Bank of India said that the Indian economy and the financial system have demonstrated remarkable resilience despite facing external shocks of significant magnitude. In his foreword to the RBI’s Financial Stability Report, RBI Governor Sanjay Malhotra said strong growth, low inflation, healthy balance sheets of financial and non-financial firms, and ample buffers have helped preserve macro-financial stability. The Financial Stability report stated that India&#8217;s sound macroeconomic fundamentals place it in a stronger position than many of its peers and provide greater resilience to external shocks. The report highlighted that the domestic financial system remains resilient, underpinned by strong bank and non-bank balance sheets. Scheduled Commercial Banks (SCBs) remain safe and sound, supported by strong capital and liquidity buffers, continued improvement in asset quality, and stable profitability. The report pointed out that elevated public debt, bond market fragilities, stretched asset valuations remain key vulnerabilities that could amplify future shocks.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:20:45+00:00",
+        "link": "https://newsonair.gov.in/rbi-says-indian-economy-and-financial-system-show-remarkable-resilience-amid-external-shocks/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/rbi-reuters-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government Extends Customs Duty Exemption on Critical Petrochemical Products Till July 15",
+        "summary": "Government has extended full customs duty exemption on critical petrochemical products in view of ongoing conflict in West Asia till 15th July 2026. Centre had earlier provided a full customs duty exemption till today, as a temporary and targeted relief due to consequent disruptions in global supply chains. The exemption was provided to ensure sufficient [&#8230;]",
+        "article": "Government has extended full customs duty exemption on critical petrochemical products in view of ongoing conflict in West Asia till 15th July 2026. Centre had earlier provided a full customs duty exemption till today, as a temporary and targeted relief due to consequent disruptions in global supply chains. The exemption was provided to ensure sufficient availability of petrochemicals in the domestic market as Indian petroleum companies had been asked to concentrate on the production of LPG during this period. As the situation is gradually normalizing, this move will ensure a smooth and non-disruptive transition for the affected sectors. The list of products covered remains the same as notified earlier. The Government remains committed to supporting India&#8217;s manufacturing sector. The exemption is expected to benefit a wide range of sectors dependent on petrochemical feedstock and intermediates, including plastics, packaging, textiles, pharmaceuticals, chemicals, automotive components and other manufacturing segments.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:19:21+00:00",
+        "link": "https://newsonair.gov.in/government-extends-customs-duty-exemption-on-critical-petrochemical-products-till-july-15/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Developed India Goal Depends on Advanced Agriculture & Prosperous Farmers: Union Minister Shivraj Singh Chouhan",
+        "summary": "Union Minister for Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan said that achieving the goal of a &#8216;Viksit Bharat&#8217; (Developed India) is impossible without advanced agriculture and prosperous farmers. Addressing the closing ceremony of the &#8216;Khet Bachao Abhiyan&#8217; at the Agricultural University at Bawal in Rewari district of Haryana, the Union Agriculture Ministe",
+        "article": "Union Minister for Agriculture and Farmers&#8217; Welfare Shivraj Singh Chouhan said that achieving the goal of a &#8216;Viksit Bharat&#8217; (Developed India) is impossible without advanced agriculture and prosperous farmers. Addressing the closing ceremony of the &#8216;Khet Bachao Abhiyan&#8217; at the Agricultural University at Bawal in Rewari district of Haryana, the Union Agriculture Minister remarked that farmers are the backbone of the nation&#8217;s economy and their prosperity forms the foundation of India&#8217;s prosperity. He noted that the Central Government is continuously working to make agriculture profitable, modern, and sustainable. Mr. Chouhan mentioned that the government is developing a mobile app to provide information regarding soil health and the specific quantities of fertilizers required. He advised farmers to adopt organic farming practices to preserve their farmlands. Addressing the media, Mr. Chouhan stated that although the campaign is concluding today, awareness programs under the &#8216;Khet Bachao Abhiyan&#8217; will continue. On this occasion, Union Agriculture Minister Shivraj Singh Chouhan and Chief Minister Nayab Singh Saini jointly inaugurated an agro-industrial exhibition showcasing the latest agricultural innovations, as well as the &#8216;Haryana FPO Mission-2026&#8217;. Chief Minister Nayab Singh Saini stated that the objective of the FPO Mission is to make farmers self-reliant.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:17:27+00:00",
+        "link": "https://newsonair.gov.in/developed-india-goal-depends-on-advanced-agriculture-prosperous-farmers-union-minister-shivraj-singh-chouhan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Union-Minister-Shivraj-Singh-Chouhan-holds-review-meeting-on-El-Nino-effect-on-agriculture.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Tourism Ministry Signs MoU with Google India to Boost Digital Promotion of Tourism Destinations",
+        "summary": "The Ministry of Tourism today signed a Memorandum of Understanding with Google India to strengthen the digital promotion of India’s tourism destinations. The MoU was exchanged in the presence of Tourism Minister Gajendra Singh Shekhawat in New Delhi. Speaking on the occasion, Mr. Shekhawat said digital technologies can create immersive experiences that showcase the glory [&#8230;]",
+        "article": "The Ministry of Tourism today signed a Memorandum of Understanding with Google India to strengthen the digital promotion of India’s tourism destinations. The MoU was exchanged in the presence of Tourism Minister Gajendra Singh Shekhawat in New Delhi. Speaking on the occasion, Mr. Shekhawat said digital technologies can create immersive experiences that showcase the glory and grandeur of India’s cultural sites to audiences across the world. He said the collaboration under the Incredible India initiative will strengthen India’s global tourism presence, improve digital outreach and position the country as a modern and globally competitive travel destination. Under the partnership, Google India will provide insights on global travel trends, traveller behaviour and digital engagement to support evidence-based tourism promotion. The collaboration also includes training and capacity-building programmes for Ministry officials in digital marketing, content creation, campaign optimisation and artificial intelligence.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:15:12+00:00",
+        "link": "https://newsonair.gov.in/tourism-ministry-signs-mou-with-google-india-to-boost-digital-promotion-of-tourism-destinations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMD5LAlWAAAaIkx-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian Railways Sanctions Electronic Interlocking Project at 27 Stations in Asansol Division",
+        "summary": "Indian Railways has sanctioned a project for the replacement of relay-based interlocking with Electronic Interlocking at 27 stations or cabins on the High Density Network (HDN) and Highly Utilised Network (HUN) routes of Asansol Division of Eastern Railway. The Ministry of Railways said that the sanctioned work includes the replacement of 28 relay-based interlocking installations [&#8230;]",
+        "article": "Indian Railways has sanctioned a project for the replacement of relay-based interlocking with Electronic Interlocking at 27 stations or cabins on the High Density Network (HDN) and Highly Utilised Network (HUN) routes of Asansol Division of Eastern Railway. The Ministry of Railways said that the sanctioned work includes the replacement of 28 relay-based interlocking installations with state-of-the-art Electronic Interlocking systems, significantly enhancing the safety, reliability and operational efficiency of train operations. The cost of the project is over four hundred crore rupees. The project is part of Indian Railways&#8217; ongoing programme for the provision of Electronic Interlocking on HDN/HUN routes where advanced signalling systems such as Kavach, Automatic Block Signalling and Centralised Traffic Control are being implemented. Electronic Interlocking is a modern signalling technology that replaces ageing relay-based systems with computer-based interlocking, ensuring higher reliability, faster fault diagnosis, easier maintenance and enhanced operational flexibility. The project will further strengthen railway safety while supporting higher line capacity and more efficient train operations on one of the busiest sections of the network.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:02:50+00:00",
+        "link": "https://newsonair.gov.in/indian-railways-sanctions-electronic-interlocking-project-at-27-stations-in-asansol-division/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/railways.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NHAI to Establish Nationwide Framework for Design Vetting of Critical Bridge Projects",
+        "summary": "In a major move to significantly enhance structural safety, improve design reliability, and minimize long-term operational risks for national infrastructure, the National Highways Authority of India (NHAI) is set to establish a nationwide institutional framework for the design vetting of critical bridge projects. According to the Ministry of Road Transport and Highways, this initiative aims [&#823",
+        "article": "In a major move to significantly enhance structural safety, improve design reliability, and minimize long-term operational risks for national infrastructure, the National Highways Authority of India (NHAI) is set to establish a nationwide institutional framework for the design vetting of critical bridge projects. According to the Ministry of Road Transport and Highways, this initiative aims to ensure that major bridges, which are designed for a service life of 100 years or more, undergo rigorous independent technical reviews before construction begins. To achieve this, NHAI will empanel Indian Institutes of Technology (IITs) and other premier technical institutions to conduct independent proof checking of hydraulic studies and designs for major bridge structures across all new National Highway projects. The comprehensive review process will encompass detailed evaluations of structural design calculations, engineering drawings, construction methodologies, geotechnical investigations, and hydraulic studies. Around 12 IITs, including IIT Delhi, IIT Bombay, IIT Roorkee, and IIT Kharagpur, alongside several other technical institutions, have already expressed their willingness to collaborate with the NHAI to strengthen quality assurance practices and promote better design and execution.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T16:00:36+00:00",
+        "link": "https://newsonair.gov.in/nhai-to-establish-nationwide-framework-for-design-vetting-of-critical-bridge-projects/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/NHAI-2-scaled-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "HM Amit Shah Launches FCRA 2.0 Portal and e-OCI Card",
+        "summary": "Union Home Minister Amit Shah today launched the Foreign Contribution (Regulation) Act (FCRA) 2.0 Portal and the Electronic Overseas Citizen of India (e-OCI) Card in New Delhi. Speaking on the occasion, Mr Shah said both initiatives will improve citizen services and address the difficulties faced by those receiving donations through the FCRA portal. He said [&#8230;]",
+        "article": "Union Home Minister Amit Shah today launched the Foreign Contribution (Regulation) Act (FCRA) 2.0 Portal and the Electronic Overseas Citizen of India (e-OCI) Card in New Delhi. Speaking on the occasion, Mr Shah said both initiatives will improve citizen services and address the difficulties faced by those receiving donations through the FCRA portal. He said when the intention is clear, the policy is transparent, and there is a mindset to embrace technology, then all forms of governance becomes easier for honest people. He underlined that a strict surveillance system is established against wrongdoers, and the country becomes increasingly secure. The Home Minister informed that the initial problems faced in the OCI system have been resolved in the new system, and it will bring great convenience to more than 50 lakh OCI cardholders. He added that after 20 years, when a new passport is issued, there will be no need to re-issue the OCI booklet, and the cardholder’s registration number will remain unique. The FCRA 2.0 Portal has been developed to simplify compliance under the Foreign Contribution (Regulation) Act and to strengthen the monitoring and enforcement mechanism. All major processes related to applications, renewals, annual returns, and other services have now been made fully digital through an end-to-end online system. e-OCI Card is a major citizen-centric initiative aimed at transforming OCI services for the global Indian diaspora through a fully digital platform. Under the new system, applicants can complete the entire OCI process online, from submitting the application and uploading supporting documents to downloading the digitally generated card after approval.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T15:21:44+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-launches-fcra-2-0-portal-and-e-oci-card/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMEACBHXEAAfKom-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Japan PM Sanae Takaichi to Visit India for 16th India-Japan Annual Summit",
+        "summary": "Prime Minister of Japan, Sanae Takaichi, will arrive in New Delhi tomorrow evening on a three-day visit for the 16th India-Japan Annual Summit. The External Affairs Ministry said the Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation and exchange views on regional and global issues [&#8230;]",
+        "article": "Prime Minister of Japan, Sanae Takaichi, will arrive in New Delhi tomorrow evening on a three-day visit for the 16th India-Japan Annual Summit. The External Affairs Ministry said the Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation and exchange views on regional and global issues of mutual interest. On the second day of the visit, Prime Minister Takaichi will be accorded a ceremonial reception at Rashtrapati Bhavan. She will then hold talks with Prime Minister Narendra Modi. The two leaders are expected to review progress in bilateral ties and discuss ways to further deepen cooperation across key sectors. This will be followed by the exchange of Memoranda of Understanding and joint press statements. In the afternoon, Prime Minister Takaichi will participate in the India-Japan Business Forum at the national capital. This is Prime Minister Takaichi&#8217;s first official visit to India. The visit follows Prime Minister Narendra Modi&#8217;s visit to Tokyo in August last year for the 15th India-Japan Annual Summit and reflects the shared commitment of the two countries to further strengthen the India-Japan Special Strategic and Global Partnership.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T14:42:53+00:00",
+        "link": "https://newsonair.gov.in/japan-pm-sanae-takaichi-to-visit-india-for-16th-india-japan-annual-summit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMEaFNzXYAAca6x.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "IOCL Dismisses Reports of Fire at Haldia Refinery",
         "summary": "Indian Oil Corporation Limited (IOCL) has dismissed reports claiming that a fire occurred at Indian Oil&#8217;s Haldia Refinery. In a social media post, Oil Corporation said that the incident occurred near the south gate of a neighbouring industrial establishment, and not at Haldia Refinery. It said that Haldia Refinery is operating safely and normally, with [&#8230;]",
         "article": "Indian Oil Corporation Limited (IOCL) has dismissed reports claiming that a fire occurred at Indian Oil&#8217;s Haldia Refinery. In a social media post, Oil Corporation said that the incident occurred near the south gate of a neighbouring industrial establishment, and not at Haldia Refinery. It said that Haldia Refinery is operating safely and normally, with all safety and operational protocols fully in place. As a responsible neighbouring industry, Indian Oil is extending all possible firefighting assistance and support.",
@@ -1390,105 +1489,6 @@ window.VM_NEWS = {
         "pubDate": "2026-06-30T13:59:44+00:00",
         "link": "https://newsonair.gov.in/iocl-dismisses-reports-of-fire-at-haldia-refinery/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/INDIAN-OIL.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ravi Agrawal Re-Appointed as CBDT Chairman",
-        "summary": "Ravi Agrawal has been re-appointed as Chairman, Central Board of Direct Taxes (CBDT), on contract basis, for a period of six months with effect from tomorrow till 31st December 2026 or until further orders, whichever is earlier. The appointments committee of the cabinet has approved the re-appointment.",
-        "article": "Ravi Agrawal has been re-appointed as Chairman, Central Board of Direct Taxes (CBDT), on contract basis, for a period of six months with effect from tomorrow till 31st December 2026 or until further orders, whichever is earlier. The appointments committee of the cabinet has approved the re-appointment.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T13:55:18+00:00",
-        "link": "https://newsonair.gov.in/ravi-agrawal-re-appointed-as-cbdt-chairman/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/202606303846123.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "President Droupadi Murmu Calls on Students to Use Education for Inclusive Nation-Building",
-        "summary": "President Droupadi Murmu today called upon students to use education as a means to build an equitable and inclusive society while addressing the first convocation of the Central Tribal University of Andhra Pradesh in Visakhapatnam. She said educated youth should not work only for their own progress but also strive to uplift the weaker sections [&#8230;]",
-        "article": "President Droupadi Murmu today called upon students to use education as a means to build an equitable and inclusive society while addressing the first convocation of the Central Tribal University of Andhra Pradesh in Visakhapatnam. She said educated youth should not work only for their own progress but also strive to uplift the weaker sections and contribute to nation-building. The President urged students to become agents of social transformation, saying education should go beyond securing employment and help strengthen society, culture, traditions and economic progress. She said every educated youth should help bring forward those left behind and contribute towards achieving the goal of a developed India by 2047. Emphasising the importance of meaningful education, President Murmu said students should combine academic learning with practical knowledge and remain connected to their community, culture and traditions while acquiring new skills to meet the demands of a rapidly changing world. She said institutions established with the objective of social justice, such as the Central Tribal University, have a greater responsibility to promote tribal education, healthcare, skill development, livelihoods and forest rights. The President said the benefits of modern science should reach every section of society while preserving India&#8217;s rich heritage. She appreciated the University&#8217;s initiatives, including its Science and Technology Hub, Tribal Skill Development Centre and grassroots development programmes for tribal empowerment. She also stressed the need to preserve tribal languages and dialects and lauded the University&#8217;s documentation of the dialects of tribal communities, including the Koya and Savara. President Murmu expressed happiness that nearly 40 percent of the graduating students and around 70 per cent of the gold medal recipients are women, saying this reflects the University&#8217;s inclusive outlook and commitment to gender justice. Union Education Minister Dharmendra Pradhan said India&#8217;s knowledge system has its roots in tribal society, which has preserved invaluable knowledge of nature, forests, agriculture and animal husbandry. He said this traditional wisdom should be adapted to contemporary needs. The Minister urged students to become job creators rather than job seekers and said universities should lead innovation to help realise the vision of a developed India by 2047. During the convocation, President Murmu conferred degrees on 373 undergraduate and postgraduate students who completed their programmes between the 2020 and 2025-26 academic years. She also presented gold medals to 13 meritorious students, including 10 women, for their outstanding academic performance. Andhra Pradesh Governor S. Abdul Nazeer, State Education Minister Nara Lokesh, State Tribal Welfare Minister G. Sandhya Rani, University Chancellor Madan Lal Meena, Vice-Chancellor T. Srinivasan and other dignitaries attended the convocation.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T13:48:12+00:00",
-        "link": "https://newsonair.gov.in/president-droupadi-murmu-calls-on-students-to-use-education-for-inclusive-nation-building/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMD8OqPWcAAhawz-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "National Task Force Conducts Visits to Assess Student Mental Health",
-        "summary": "The National Task Force on Mental Health of Students and Prevention of Suicides in Higher Education Institutions has conducted field visits to 30 higher education institutions across 10 States since May last year. The visits were aimed at assessing regional and institutional challenges related to student mental health. The Task Force has also held 25 [&#8230;]",
-        "article": "The National Task Force on Mental Health of Students and Prevention of Suicides in Higher Education Institutions has conducted field visits to 30 higher education institutions across 10 States since May last year. The visits were aimed at assessing regional and institutional challenges related to student mental health. The Task Force has also held 25 stakeholder consultations. These were organised to adopt an interdisciplinary and equity-oriented approach. Since January this year, the consultations have focused on several key issues. These include caste discrimination, gender and mental health, concerns of students from Scheduled Tribe and OBC communities, disabilities, decriminalisation of suicide, the role of mental health NGOs, and issues concerning law students.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:58:21+00:00",
-        "link": "https://newsonair.gov.in/national-task-force-conducts-visits-to-assess-student-mental-health/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/MENTAL-HEALTH-MONTH.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India Signs 28 Migration and Mobility Partnership Agreements with 26 Countries: EAM Jaishankar",
-        "summary": "External Affairs Minister Dr S Jaishankar today said that India signed 28 migration and mobility partnership agreements with over 26 countries, while several others are currently under negotiation. He highlighted the collective responsibility of nations to combat illegal migration, exploitative practices, fraudulent intermediaries and human trafficking. The Minister said this while speaking at the",
-        "article": "External Affairs Minister Dr S Jaishankar today said that India signed 28 migration and mobility partnership agreements with over 26 countries, while several others are currently under negotiation. He highlighted the collective responsibility of nations to combat illegal migration, exploitative practices, fraudulent intermediaries and human trafficking. The Minister said this while speaking at the Human Resource Mobility Forum in New Delhi. He underlined the use of digital systems and tools in the transformation of governance in migration. Dr Jaishankar said that India’s commitment to safe and legal mobility is reflected in the e-Migrate platform, and since its inception more than five million immigration clearances have been issued. Dr Jaishankar underscored that India also recognizes the need for bilateral collaboration in ensuring safe, orderly, and legal migration. The Minister said that the Forum creates opportunities to exchange ideas, learn from experiences, and explore new approaches towards mobility. He also said the event brought together policymakers, industry leaders, employers, and practitioners. He added, India stands ready to work with its partners around the world in advancing shared vision. He further said, trusted mobility pathways can contribute to stronger economies, to more resilient societies, and to deeper international cooperation. The Minister said that technological innovation is reshaping industries at an unprecedented pace. Dr Jaishankar said that the world is undergoing a profound transformation, and as part of that demographic patterns are changing sharply across continents. He said that AI, automation, digitalization and green transition are redefining skills that are required for tomorrow’s economy. The External Affairs Minister said that human resource has emerged as one of the most critical factors of economic development. He said that human resource mobility represents far more than the movement of people from one place to another. He added, it is about connecting aspirations with opportunities, linking talent with demand, creating pathways through which individuals can contribute to economic progress. Dr Jaishankar said that India’s vision for mobility is not limited to facilitating overseas employment opportunities, rather as a very important pillar of international cooperation. He added, these partnerships are based on mutual benefit, shared responsibility and long-term sustainability.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:50:31+00:00",
-        "link": "https://newsonair.gov.in/india-signs-28-migration-and-mobility-partnership-agreements-with-26-countries-eam-jaishankar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Screenshot-2026-06-30-181916.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Defence Minister Rajnath Singh Emphasises Role of Strong Economy in Defence Capabilities",
-        "summary": "Defence Minister Rajnath Singh stressed that robust economy forms the foundation of strong defence capabilities. Addressing the valedictory session of the Vibrant Gujarat Regional Conference in Vadodara today, Mr. Singh expressed confidence that due to the strong presence in chemicals, electronics, shipbuilding and renewable energy sectors, Gujarat will soon emerge as a global hub for [&#8230;]",
-        "article": "Defence Minister Rajnath Singh stressed that robust economy forms the foundation of strong defence capabilities. Addressing the valedictory session of the Vibrant Gujarat Regional Conference in Vadodara today, Mr. Singh expressed confidence that due to the strong presence in chemicals, electronics, shipbuilding and renewable energy sectors, Gujarat will soon emerge as a global hub for defence manufacturing. Highlighting the country&#8217;s rapid progress towards self-reliance in defence manufacturing, he said India&#8217;s domestic defence production, which stood at around 46,000 crore rupees in 2014, has increased significantly to ₹1.78 lakh crore at present. He noted that Vadodara is now home to India&#8217;s first private-sector military aircraft manufacturing facility, where the Tata Group and Airbus are jointly manufacturing the C-295 transport aircraft, marking a historic milestone in the country&#8217;s aerospace journey. Chief Minister Bhupendra Patel announced that MoUs worth 3.34 lakh crore were signed during the two-day Vibrant Gujarat Regional Summit for which will lead to generate over 1.97 lakh job opportunities in the region in the coming days.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T12:38:49+00:00",
-        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-emphasises-role-of-strong-economy-in-defence-capabilities/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/aaa-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi Pays Tribute to Tribal Heroes on Hul Diwas",
-        "summary": "On the occasion of Hul Diwas today, Prime Minister Narendra Modi has paid tributes to Sidho-Kanhu, Chand-Bhairav, Phulo-Jhano, and all the brave tribal warriors who stood firm against the injustice of foreign rule. In a social media post, Mr Modi said that Hul Diwas is a powerful symbol of the extraordinary courage and unwavering spirit [&#8230;]",
-        "article": "On the occasion of Hul Diwas today, Prime Minister Narendra Modi has paid tributes to Sidho-Kanhu, Chand-Bhairav, Phulo-Jhano, and all the brave tribal warriors who stood firm against the injustice of foreign rule. In a social media post, Mr Modi said that Hul Diwas is a powerful symbol of the extraordinary courage and unwavering spirit of tribal communities who laid down their lives for the motherland. He said that the story of their struggle and sacrifice for the protection of tribal dignity and honor will continue to infuse new energy and inspire every citizen of the country.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:44:44+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-pays-tribute-to-tribal-heroes-on-hul-diwas/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/modi-odi.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "General Dhiraj Seth Takes Charge as 31st Chief of the Army Staff",
-        "summary": "General Dhiraj Seth today took charge as the 31st Chief of the Army Staff from General Upendra Dwivedi, who superannuated after more than four decades of distinguished service to the nation. General Seth is an alumnus of the National Defence Academy, Khadakwasla in Pune, and was commissioned into the Armoured Corps in December 1986. Over [&#8230;]",
-        "article": "General Dhiraj Seth today took charge as the 31st Chief of the Army Staff from General Upendra Dwivedi, who superannuated after more than four decades of distinguished service to the nation. General Seth is an alumnus of the National Defence Academy, Khadakwasla in Pune, and was commissioned into the Armoured Corps in December 1986. Over a distinguished military career spanning nearly four decades, he has had extensive experience across the operational, strategic, capability development and institutional domains, contributing significantly to the Indian Army&#8217;s combat effectiveness and long-term transformation. His command assignments include an Armoured Regiment in the Desert Sector, an Armoured Brigade in the Western Theatre, and a Counter-Insurgency Force in Jammu and Kashmir. As a Lieutenant General, he commanded the Sudarshan Chakra Corps, one of the Indian Army&#8217;s premier strike formations. He subsequently served as General Officer Commanding, Delhi Area, overseeing key national and international military engagements and ceremonial responsibilities.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:40:26+00:00",
-        "link": "https://newsonair.gov.in/general-dhiraj-seth-takes-charge-as-31st-chief-of-the-army-staff/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Screenshot-2026-06-30-171752.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Panchayati Raj Releases National Study Report on Low Participation in Gram Sabha",
-        "summary": "The Ministry of Panchayati Raj today released National Study Report on Low Participation in Gram Sabha across States and Union Territories in New Delhi. The report was released by NITI Aayog Member Dr. R. Balasubramaniam. The Study provides an evidence based roadmap for strengthening Gram Sabha as a vibrant institution of participatory democracy, local accountability, [&#8230;]",
-        "article": "The Ministry of Panchayati Raj today released National Study Report on Low Participation in Gram Sabha across States and Union Territories in New Delhi. The report was released by NITI Aayog Member Dr. R. Balasubramaniam. The Study provides an evidence based roadmap for strengthening Gram Sabha as a vibrant institution of participatory democracy, local accountability, and community-led development across rural India. On the occasion, Secretary in the Ministry of Panchayati Raj Vivek Bharadwaj said that in the last decade, problems related to road connectivity, water and electricity supply in rural parts of the country have been resolved. The findings of the Report demonstrated that low participation in Gram Sabha is multidimensional, influenced by socio-economic, institutional, governance and behavioral factors rather than a single underlying cause. The findings underscore that sustained citizen engagement depends not only on mobilizing people to attend meetings but also on ensuring that Gram Sabha relevant, trusted, responsive, and capable of addressing community priorities.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T11:30:12+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-panchayati-raj-releases-national-study-report-on-low-participation-in-gram-sabha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/a-13.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Road Transport Minister Nitin Gadkari calls for greater public participation in road safety",
-        "summary": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being [&#8230;]",
-        "article": "Union Minister for Road Transport and Highways, Nitin Gadkari today noted that the government has identified accident-prone black spots and landslide-prone stretches across the country and has undertaken improvement works with a cost of 50 thousand crore rupees. Addressing an event on Road Safety in New Delhi, Mr Gadkari stated that efforts are also being made to ensure international-standard road engineering, including proper signage, lane markings and underpasses. The Minister also called greater public participation in promoting road safety. Mr Gadkari also urged motorists to follow traffic rules, avoid overspeeding, wear helmets and seat belts, maintain lane discipline, and refrain from using mobile phones while driving.",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T08:32:21+00:00",
-        "link": "https://newsonair.gov.in/road-transport-minister-nitin-gadkari-calls-for-greater-public-participation-in-road-safety/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nitin-gadkari.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -1594,14 +1594,14 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India intensifies relief efforts in earthquake-hit Venezuela under Operation Amistad",
-        "summary": "India has intensified its humanitarian assistance to earthquake-hit Venezuela under Operation Amistad. The Ministry of External Affairs said that India has extended relief efforts with a focus on medical assistance and emergency support for those affected by the disaster. The ministry said, Indian rescue and medical teams, working alongside the Venezuelan authorities, are providing [&#8230;]",
-        "article": "India has intensified its humanitarian assistance to earthquake-hit Venezuela under Operation Amistad. The Ministry of External Affairs said that India has extended relief efforts with a focus on medical assistance and emergency support for those affected by the disaster. The ministry said, Indian rescue and medical teams, working alongside the Venezuelan authorities, are providing emergency healthcare, conducting search and rescue operations, and delivering life-saving humanitarian assistance to affected communities. It also noted that the Indian Army Field Hospital is operational and is providing medical care to those injured in the disaster. Earlier yesterday, India had deployed two Indian Air Force C-17 Globemaster aircraft carrying a 41-member rescue team, an Indian Army Field Hospital, 30 tonnes of relief material, six tonnes of medicines and medical equipment, and two BHISHM Cube portable hospitals to strengthen relief and rescue operations in the South American nation.",
+        "title": "Ireland Assumes EU Council Presidency; EAM Jaishankar Extends Best Wishes",
+        "summary": "External Affairs Minister Dr S. Jaishankar today extended his best wishes to Ireland&#8217;s Foreign Minister Helen McEntee as Ireland assumes the Presidency of the Council of the European Union. In a social media post, Dr Jaishankar said they also discussed deepening cooperation, including in trade and education. He added that the two sides will carry [&#8230;]",
+        "article": "External Affairs Minister Dr S. Jaishankar today extended his best wishes to Ireland&#8217;s Foreign Minister Helen McEntee as Ireland assumes the Presidency of the Council of the European Union. In a social media post, Dr Jaishankar said they also discussed deepening cooperation, including in trade and education. He added that the two sides will carry forward their partnership in the multilateral domain.",
         "date": "2026-06-30",
-        "pubDate": "2026-06-30T05:52:39+00:00",
-        "link": "https://newsonair.gov.in/india-intensifies-relief-efforts-in-earthquake-hit-venezuela-under-operation-amistad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/India-intensifies-relief-efforts-in-earthquake-hit-Venezuela-under-Operation-Amistad.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-06-30T16:13:04+00:00",
+        "link": "https://newsonair.gov.in/ireland-assumes-eu-council-presidency-eam-jaishankar-extends-best-wishes/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -1719,6 +1719,17 @@ window.VM_NEWS = {
     ],
     "business": [
       {
+        "title": "Sensex, Nifty Close Lower; Broader Market Ends Higher",
+        "summary": "Benchmark domestic equity indices ended the final trading session of the quarter around 0.3 per cent lower. The Sensex fell 250 points to close at 76 thousand 479, while the Nifty lost 81 points to settle at 23 thousand 866. However, the broader market on the National Stock Exchange ended in positive territory. The Midcap [&#8230;]",
+        "article": "Benchmark domestic equity indices ended the final trading session of the quarter around 0.3 per cent lower. The Sensex fell 250 points to close at 76 thousand 479, while the Nifty lost 81 points to settle at 23 thousand 866. However, the broader market on the National Stock Exchange ended in positive territory. The Midcap 100 index added 0.4 percent and the Smallcap 100 index surged one percent.",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T15:12:18+00:00",
+        "link": "https://newsonair.gov.in/sensex-nifty-close-lower-broader-market-ends-higher/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/share-market.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "India’s Net External Liabilities Decline to 209.9 Billion US Dollars at End of March",
         "summary": "India&#8217;s net external liabilities declined sharply by 52.4 billion US dollar during the January-March quarter of 2025-26 to 209.9 billion US dollar at the end of March, reflecting a fall in foreign-owned assets in the country and a rise in overseas financial assets held by Indian residents. According to Reserve Bank data released today, the [&#8230;]",
         "article": "India&#8217;s net external liabilities declined sharply by 52.4 billion US dollar during the January-March quarter of 2025-26 to 209.9 billion US dollar at the end of March, reflecting a fall in foreign-owned assets in the country and a rise in overseas financial assets held by Indian residents. According to Reserve Bank data released today, the decline in net claims of non-residents on India was driven by a 40.1 billion dollar fall in foreign liabilities and a 12.3 billion dollar increase in Indian residents&#8217; overseas financial assets during the fourth quarter of FY26. Exchange rate movements also contributed to the decline in liabilities when measured in dollar terms. Foreign liabilities declined mainly due to lower portfolio investment and direct investment in India, as the depreciation of the rupee against major currencies reduced the US dollar value of inward investments despite an increase in FDI in rupee terms. Meanwhile, overseas direct investment accounted for more than 60 percent of the increase in India&#8217;s external financial assets during the quarter, followed by reserve assets. The RBI said India&#8217;s international financial assets rose to 1,210.4 billion US dollar at the end of March from 1,198.1 billion dollar three months earlier, while external liabilities declined to 1,420.3 billion dollar from 1,460.4 billion dollar, improving the assets-to-liabilities ratio to 85.2 percent from 82 percent. For the full financial year 2025-26, the RBI said net claims of non-residents on India fell by USD 119.2 billion as overseas financial assets of Indian residents increased by USD 76.4 billion while external liabilities declined by USD 42.8 billion. As a result, the ratio of net claims of non-residents to GDP improved to (-)5.9 per cent in March 2026 from (-)9 per cent a year earlier. The central bank also noted that reserve assets accounted for 57.1 per cent of India&#8217;s international financial assets at end-March, while the share of debt liabilities in total external liabilities increased to 56.6 per cent from 55.3 per cent in the previous quarter.",
@@ -1814,17 +1825,6 @@ window.VM_NEWS = {
         "pubDate": "2026-06-28T12:57:24+00:00",
         "link": "https://newsonair.gov.in/fpis-pull-out-%e2%82%b953022-crore-from-indian-equities-in-june/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/FPI.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India’s foreign reserves rise by 963 million dollars to over 672 billion dollars",
-        "summary": "India’s foreign exchange reserves rose by 963 million US dollars to over 672 billion US dollars during the week ended June 19. According to the Reserve Bank of India data, the rise was mainly driven by a sharp increase in gold reserves, which increased by 4.1 billion US dollars to over 107 billion US dollars. [&#8230;]",
-        "article": "India’s foreign exchange reserves rose by 963 million US dollars to over 672 billion US dollars during the week ended June 19. According to the Reserve Bank of India data, the rise was mainly driven by a sharp increase in gold reserves, which increased by 4.1 billion US dollars to over 107 billion US dollars. In contrast, Foreign currency assets, the largest component of the reserves, decreased by 3.07 billion USD to 541 billion USD during the week. Special Drawing Rights (SDRs) fell by 52 million USD to 18.64 billion US dollars, and the country&#8217;s reserve position with the International Monetary Fund dropped 22 million USD to around 4.8 billion US dollars.",
-        "date": "2026-06-26",
-        "pubDate": "2026-06-26T13:53:48+00:00",
-        "link": "https://newsonair.gov.in/indias-foreign-reserves-rise-by-963-million-dollars-to-over-672-billion-dollars/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HLvq2BDbkAEbirC.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
