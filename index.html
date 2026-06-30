@@ -653,6 +653,16 @@
       display: flex; justify-content: space-between; align-items: center;
     }
     .footer-copy { font-family: 'Archivo', sans-serif; font-size: 11px; color: #fff; }
+    .footer-unit {
+      font-family: 'Archivo', sans-serif;
+      font-size: 10px; font-weight: 500;
+      color: rgba(255,255,255,.45);
+      text-align: center;
+      padding: 10px 36px 16px;
+      border-top: 1px solid rgba(255,255,255,.08);
+      margin-top: 16px;
+      letter-spacing: .04em;
+    }
     .footer-grv a {
       font-family: 'Archivo', sans-serif;
       font-size: 12px; font-weight: 600;
@@ -850,7 +860,7 @@
       background: #fff;
       border-top: 1px solid var(--border);
       border-bottom: 1px solid var(--border);
-      padding: 12px 36px;
+      padding: 8px 0 0;
       display: flex; flex-direction: column;
       align-items: center; justify-content: center;
       min-height: 160px;
@@ -860,16 +870,17 @@
       font-family: 'Archivo', sans-serif;
       font-size: 9px; font-weight: 600;
       letter-spacing: .14em; text-transform: uppercase;
-      color: #bbb; margin-bottom: 8px;
-      align-self: flex-end;
+      color: #bbb; margin-bottom: 6px;
+      align-self: flex-end; padding-right: 12px;
     }
     .ad-banner-slot {
-      width: 100%; max-width: 728px;
+      width: 100%; max-width: 100%;
       height: 130px;
       display: block;
-      border-radius: 3px;
+      border-radius: 0;
       overflow: hidden;
     }
+    .ad-banner .ad-placeholder { border-radius: 0; border-left: none; border-right: none; }
     /* InnoBrahmaShakti custom ad banner */
     .ibs-ad { display:flex !important; align-items:center; text-decoration:none !important; width:100%; height:100%; background:linear-gradient(110deg,#fff8f0 0%,#fdeedd 55%,#fff8f0 100%); box-sizing:border-box; }
     .ibs-ad-bar { width:6px; height:100%; background:linear-gradient(to bottom,#e8863a,#f4b942,#2d9494,#6bb86b,#e8863a); flex-shrink:0; }
@@ -905,24 +916,24 @@
     }
     .ad-placeholder .ad-ph-hi {
       font-family: 'Noto Serif Devanagari', serif;
-      font-size: 18px; font-weight: 700; color: #cc0000;
+      font-size: 24px; font-weight: 700; color: #cc0000;
       letter-spacing: .01em;
     }
     .ad-placeholder .ad-ph-en {
       font-family: 'Archivo', sans-serif;
-      font-size: 12px; font-weight: 600;
+      font-size: 15px; font-weight: 600;
       color: #cc0000; letter-spacing: .08em;
       text-transform: uppercase;
     }
     .ad-placeholder .ad-contact-label {
       font-family: 'Archivo', sans-serif;
-      font-size: 11px; font-weight: 600;
+      font-size: 13px; font-weight: 600;
       color: #cc0000; letter-spacing: .06em;
       text-transform: uppercase; margin-top: 4px;
     }
     .ad-placeholder a {
       font-family: 'Archivo', sans-serif;
-      font-size: 15px; font-weight: 700;
+      font-size: 17px; font-weight: 700;
       color: #cc0000; text-decoration: none;
       border-bottom: 2px solid rgba(204,0,0,.3);
       padding-bottom: 1px;
@@ -1245,6 +1256,7 @@
           <div class="footer-grv"><a href="grievance.html" data-hi="शिकायत और विचार विनिमय →" data-en="Grievance & Idea Exchange →">शिकायत और विचार विनिमय →</a></div>
         </div>
       </div>
+      <div class="footer-unit">a unit of Innobrahmashakti Pvt. Ltd.</div>
     </footer>
   </div><!-- /section-news -->
 
