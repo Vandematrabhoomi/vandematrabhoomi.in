@@ -23,3 +23,10 @@ if %errorlevel% equ 0 goto done
 
 :done
 echo [%date% %time%] Fetch complete. >> update_log.txt
+
+:: Push updated news-data.js to GitHub so the live site refreshes
+echo [%date% %time%] Pushing to GitHub... >> update_log.txt
+git add news-data.js >> update_log.txt 2>&1
+git commit -m "news update %date% %time%" >> update_log.txt 2>&1
+git push >> update_log.txt 2>&1
+echo [%date% %time%] Push complete. >> update_log.txt
