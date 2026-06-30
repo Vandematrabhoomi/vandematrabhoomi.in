@@ -164,9 +164,82 @@ def extract_subjects(title):
     return sorted(unique, key=len, reverse=True)
 
 
-def find_image(title, cat, fallback_idx):
-    """Try Wikipedia subjects → Commons keyword search.
+def fetch_pb_images(post_ids):
+    """Given a list of Prasar Bharati post IDs, return a dict {post_id: image_url}
+    by batch-querying the WordPress REST API for featured media."""
+    if not post_ids:
+        return {}
+
+    result = {}
+    # Batch posts endpoint to get featured_media IDs (max 100 per call)
+    BATCH = 100
+    media_map = {}  # post_id → featured_media_id
+
+    for i in range(0, len(post_ids), BATCH):
+        chunk = post_ids[i:i + BATCH]
+        ids_param = ','.join(str(p) for p in chunk)
+        url = (f'https://newsonair.gov.in/wp-json/wp/v2/posts'
+               f'?include={ids_param}&per_page={BATCH}'
+               f'&_fields=id,featured_media')
+        try:
+            req = urllib.request.Request(url, headers=RSS_UA)
+            with urllib.request.urlopen(req, timeout=15) as r:
+                posts = json.loads(r.read())
+            for p in posts:
+                fm = p.get('featured_media', 0)
+                if fm and fm != 0:
+                    media_map[p['id']] = fm
+        except Exception as e:
+            print(f'    ✗ WP posts batch: {e}')
+
+    if not media_map:
+        return {}
+
+    # Batch media endpoint to get image URLs
+    media_ids = list(set(media_map.values()))
+    media_url_map = {}  # media_id → image_url
+
+    for i in range(0, len(media_ids), BATCH):
+        chunk = media_ids[i:i + BATCH]
+        ids_param = ','.join(str(m) for m in chunk)
+        url = (f'https://newsonair.gov.in/wp-json/wp/v2/media'
+               f'?include={ids_param}&per_page={BATCH}'
+               f'&_fields=id,source_url,media_details')
+        try:
+            req = urllib.request.Request(url, headers=RSS_UA)
+            with urllib.request.urlopen(req, timeout=15) as r:
+                media_list = json.loads(r.read())
+            for m in media_list:
+                src = m.get('source_url', '')
+                md  = m.get('media_details', {})
+                w   = md.get('width', 0)
+                h   = md.get('height', 0)
+                if not src or not IMG_EXT.search(src) or LOGO_RE.search(src):
+                    continue
+                if w < 400 or h < 250:
+                    continue
+                if h > 0 and w > 0 and (h / w) > 1.6:
+                    continue
+                media_url_map[m['id']] = src
+        except Exception as e:
+            print(f'    ✗ WP media batch: {e}')
+
+    # Map post_id → image_url
+    for post_id, media_id in media_map.items():
+        if media_id in media_url_map:
+            result[post_id] = media_url_map[media_id]
+
+    return result
+
+
+def find_image(title, cat, fallback_idx, pb_image=''):
+    """Try Prasar Bharati featured image → Wikipedia subjects → Commons keyword search.
     Returns empty if no relevant image found — never uses unrelated placeholders."""
+
+    # 0. Prasar Bharati's own featured image (exact match, authoritative)
+    if pb_image:
+        return pb_image, 'Prasar Bharati / Akashvani News'
+
     subjects = extract_subjects(title)
 
     # 1. Wikipedia page image for named entities in the headline
@@ -247,6 +320,11 @@ def fetch_rss(url, max_items=20):
             if a is not None:
                 link = a.get('href', '')
 
+        # Extract WordPress post ID from <guid> (format: ?p=12345)
+        guid = el.findtext('guid') or ''
+        m_pid = re.search(r'[?&]p=(\d+)', guid)
+        post_id = int(m_pid.group(1)) if m_pid else 0
+
         pub     = (el.findtext('pubDate') or
                    el.findtext(f'{{{ATOM}}}published') or
                    el.findtext(f'{{{DC}}}date') or '')
@@ -272,6 +350,7 @@ def fetch_rss(url, max_items=20):
             'date':         pub_iso[:10],
             'pubDate':      pub_iso,
             'link':         link,
+            'post_id':      post_id,
             'image_url':    '',
             'image_credit': '',
             'source':       SOURCE,
@@ -329,7 +408,7 @@ def run():
         cat_name = url.rstrip('/').split('/')[-2]
         print(f'    ✓ {cat_name}: {len(items)} articles')
 
-    # Step 2: collect all unique articles for image lookup
+    # Step 2: collect all unique articles
     link_to_item = {}
     for items in raw_by_url.values():
         for item in items:
@@ -343,11 +422,19 @@ def run():
         print('\n  ERROR: No articles fetched. Check internet connection.\n')
         sys.exit(1)
 
-    print(f'\n  Finding Wikipedia images for {total} articles...')
+    # Step 2a: fetch Prasar Bharati's own featured images in bulk
+    all_post_ids = [item['post_id'] for item in unique_items if item.get('post_id')]
+    print(f'  Fetching Prasar Bharati featured images for {len(all_post_ids)} posts...')
+    pb_img_map = fetch_pb_images(all_post_ids)
+    pb_hit = sum(1 for pid in all_post_ids if pid in pb_img_map)
+    print(f'  PB images found: {pb_hit}/{len(all_post_ids)}\n')
+
+    print(f'  Finding Wikipedia/Commons images for remaining articles...')
 
     def get_img_for(idx_item):
         idx, item = idx_item
-        img, credit = find_image(item['title'], 'top', idx)
+        pb_image = pb_img_map.get(item.get('post_id', 0), '')
+        img, credit = find_image(item['title'], 'top', idx, pb_image=pb_image)
         return idx, img, credit
 
     with ThreadPoolExecutor(max_workers=IMG_WORKERS) as ex:
@@ -365,6 +452,10 @@ def run():
 
     img_count = sum(1 for i in unique_items if i.get('image_url'))
     print(f'  Got {img_count}/{total} images\n')
+
+    # Strip internal field before output
+    for item in unique_items:
+        item.pop('post_id', None)
 
     # Step 3: build per-category buckets
     all_news = {}
