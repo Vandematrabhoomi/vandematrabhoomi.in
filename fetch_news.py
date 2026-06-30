@@ -43,7 +43,9 @@ DC      = 'http://purl.org/dc/elements/1.1/'
 
 SOURCE  = 'Prasar Bharati'
 PB_BASE = 'https://newsonair.gov.in/category'
+PB_CAT  = 'https://newsonair.gov.in/?cat={id}&feed=rss2'
 
+# English RSS feeds
 CATEGORY_FEEDS = {
     'top':           [f'{PB_BASE}/national/feed/', f'{PB_BASE}/international/feed/'],
     'breaking':      [f'{PB_BASE}/national/feed/'],
@@ -54,6 +56,19 @@ CATEGORY_FEEDS = {
     'business':      [f'{PB_BASE}/business/feed/'],
     'entertainment': [f'{PB_BASE}/entertainment/feed/'],
     'lifestyle':     [f'{PB_BASE}/health/feed/'],
+}
+
+# Hindi RSS feeds — Prasar Bharati's Hindi news categories
+CATEGORY_FEEDS_HI = {
+    'top':           [PB_CAT.format(id=358), PB_CAT.format(id=309)],
+    'breaking':      [PB_CAT.format(id=358)],
+    'national':      [PB_CAT.format(id=358)],
+    'politics':      [PB_CAT.format(id=358)],
+    'world':         [PB_CAT.format(id=309)],
+    'sports':        [PB_CAT.format(id=362)],
+    'business':      [PB_CAT.format(id=360)],
+    'entertainment': [PB_CAT.format(id=21410)],
+    'lifestyle':     [PB_CAT.format(id=21349)],
 }
 
 MAX_PER_CAT   = 12
@@ -397,83 +412,99 @@ def run():
     print(f'  Source: newsonair.gov.in  (Akashvani News)')
     print(f'  [{datetime.now().strftime("%d %B %Y, %H:%M")}]\n')
 
-    # Step 1: fetch all unique RSS feeds
-    unique_urls = set(u for urls in CATEGORY_FEEDS.values() for u in urls)
-    raw_by_url  = {}
+    def fetch_feeds(feeds_dict, label='EN'):
+        """Fetch all unique RSS URLs in feeds_dict; return {url: [items]}."""
+        unique_urls = set(u for urls in feeds_dict.values() for u in urls)
+        raw_by_url  = {}
+        print(f'  Fetching {label} RSS feeds...')
+        for url in unique_urls:
+            items = fetch_rss(url, max_items=20)
+            raw_by_url[url] = items
+            slug = url.rstrip('/').split('/')[-1] if 'category' in url else url.split('cat=')[-1].split('&')[0]
+            print(f'    ✓ {slug}: {len(items)} articles')
+        return raw_by_url
 
-    print('  Fetching RSS feeds...')
-    for url in unique_urls:
-        items = fetch_rss(url, max_items=20)
-        raw_by_url[url] = items
-        cat_name = url.rstrip('/').split('/')[-2]
-        print(f'    ✓ {cat_name}: {len(items)} articles')
+    def resolve_images(items_list, label='EN'):
+        """Given a flat list of unique items, fetch PB images then fall back to Wikipedia/Commons."""
+        total = len(items_list)
+        if not total:
+            return
+        post_ids = [i['post_id'] for i in items_list if i.get('post_id')]
+        print(f'  Fetching PB featured images for {len(post_ids)} {label} posts...')
+        pb_map = fetch_pb_images(post_ids)
+        print(f'  PB images: {sum(1 for p in post_ids if p in pb_map)}/{len(post_ids)}')
+        print(f'  Wikipedia/Commons fallback for remaining {label} articles...')
 
-    # Step 2: collect all unique articles
-    link_to_item = {}
-    for items in raw_by_url.values():
+        def _get(idx_item):
+            idx, item = idx_item
+            pb_img = pb_map.get(item.get('post_id', 0), '')
+            img, credit = find_image(item['title'], '', idx, pb_image=pb_img)
+            return idx, img, credit
+
+        with ThreadPoolExecutor(max_workers=IMG_WORKERS) as ex:
+            futs = {ex.submit(_get, (i, item)): i for i, item in enumerate(items_list)}
+            done = 0
+            for fut in as_completed(futs):
+                i, img, credit = fut.result()
+                if img:
+                    items_list[i]['image_url']    = img
+                    items_list[i]['image_credit'] = credit
+                done += 1
+                if done % 10 == 0:
+                    print(f'    {done}/{total} images resolved...')
+        # strip internal field
+        for item in items_list:
+            item.pop('post_id', None)
+        got = sum(1 for i in items_list if i.get('image_url'))
+        print(f'  Got {got}/{total} images\n')
+
+    def build_cat_news(feeds_dict, raw_by_url, label='EN'):
+        result = {}
+        for cat, feed_urls in feeds_dict.items():
+            combined = []
+            for url in feed_urls:
+                combined.extend(raw_by_url.get(url, []))
+            processed = dedup_and_sort(combined, prefer_political=(cat == 'politics'))
+            result[cat] = processed
+            img_n = sum(1 for i in processed if i.get('image_url'))
+            print(f'  [{label}][{cat:12}] {len(processed):2} stories ({img_n} with images)')
+        return result
+
+    # ── Step 1: English feeds ──
+    raw_en = fetch_feeds(CATEGORY_FEEDS, 'EN')
+    title_to_item_en = {}
+    for items in raw_en.values():
         for item in items:
-            if item['title'] not in link_to_item:
-                link_to_item[item['title']] = item
-
-    unique_items = list(link_to_item.values())
-    total = len(unique_items)
-
-    if not total:
-        print('\n  ERROR: No articles fetched. Check internet connection.\n')
+            if item['title'] not in title_to_item_en:
+                title_to_item_en[item['title']] = item
+    unique_en = list(title_to_item_en.values())
+    if not unique_en:
+        print('\n  ERROR: No EN articles fetched. Check internet connection.\n')
         sys.exit(1)
+    resolve_images(unique_en, 'EN')
 
-    # Step 2a: fetch Prasar Bharati's own featured images in bulk
-    all_post_ids = [item['post_id'] for item in unique_items if item.get('post_id')]
-    print(f'  Fetching Prasar Bharati featured images for {len(all_post_ids)} posts...')
-    pb_img_map = fetch_pb_images(all_post_ids)
-    pb_hit = sum(1 for pid in all_post_ids if pid in pb_img_map)
-    print(f'  PB images found: {pb_hit}/{len(all_post_ids)}\n')
+    # ── Step 2: Hindi feeds ──
+    raw_hi = fetch_feeds(CATEGORY_FEEDS_HI, 'HI')
+    title_to_item_hi = {}
+    for items in raw_hi.values():
+        for item in items:
+            if item['title'] not in title_to_item_hi:
+                title_to_item_hi[item['title']] = item
+    unique_hi = list(title_to_item_hi.values())
+    if unique_hi:
+        resolve_images(unique_hi, 'HI')
+    else:
+        print('  WARN: No Hindi articles fetched — Hindi will mirror English.\n')
 
-    print(f'  Finding Wikipedia/Commons images for remaining articles...')
+    # ── Step 3: build per-category buckets ──
+    all_news_en = build_cat_news(CATEGORY_FEEDS, raw_en, 'EN')
+    all_news_hi = build_cat_news(CATEGORY_FEEDS_HI, raw_hi, 'HI') if unique_hi else all_news_en
 
-    def get_img_for(idx_item):
-        idx, item = idx_item
-        pb_image = pb_img_map.get(item.get('post_id', 0), '')
-        img, credit = find_image(item['title'], 'top', idx, pb_image=pb_image)
-        return idx, img, credit
-
-    with ThreadPoolExecutor(max_workers=IMG_WORKERS) as ex:
-        futs = {ex.submit(get_img_for, (i, item)): i
-                for i, item in enumerate(unique_items)}
-        done = 0
-        for fut in as_completed(futs):
-            i, img, credit = fut.result()
-            if img:
-                unique_items[i]['image_url']    = img
-                unique_items[i]['image_credit'] = credit
-            done += 1
-            if done % 10 == 0:
-                print(f'    {done}/{total} images resolved...')
-
-    img_count = sum(1 for i in unique_items if i.get('image_url'))
-    print(f'  Got {img_count}/{total} images\n')
-
-    # Strip internal field before output
-    for item in unique_items:
-        item.pop('post_id', None)
-
-    # Step 3: build per-category buckets
-    all_news = {}
-    for cat, feed_urls in CATEGORY_FEEDS.items():
-        combined = []
-        for url in feed_urls:
-            combined.extend(raw_by_url.get(url, []))
-
-        processed = dedup_and_sort(combined, prefer_political=(cat == 'politics'))
-        all_news[cat] = processed
-        img_n = sum(1 for i in processed if i.get('image_url'))
-        print(f'  [{cat:12}] {len(processed):2} stories  ({img_n} with images)')
-
-    # Step 4: write news-data.js  (images-without-match are left empty — no unrelated placeholders)
+    # Step 4: write news-data.js
     out = {
         'generated': datetime.now().isoformat(),
-        'en': all_news,
-        'hi': all_news,
+        'en': all_news_en,
+        'hi': all_news_hi,
     }
 
     js = ('/* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */\n'
@@ -483,7 +514,7 @@ def run():
     with open(path, 'w', encoding='utf-8') as f:
         f.write(js)
 
-    total_stories = sum(len(v) for v in all_news.values())
+    total_stories = sum(len(v) for v in all_news_en.values())
     ts = datetime.now().strftime('%d %B %Y %H:%M')
     print(f'\n  Done — {total_stories} stories → news-data.js  [{ts}]')
     print(f'  Refresh the browser to see updates.\n')

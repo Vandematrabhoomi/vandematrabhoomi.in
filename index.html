@@ -17,7 +17,8 @@
       --red:          #cc0000;
       --red-dark:     #a30000;
       --red-xdark:    #1a0000;
-      --sidebar:      #111111;
+      --sidebar:      #0d2b5e;
+      --sidebar-acc:  #5ba4f5;
       --body-bg:      #f2f2f2;
       --card-bg:      #ffffff;
       --border:       #ddd;
@@ -60,8 +61,8 @@
     }
     .sb-tab:hover { color: rgba(255,255,255,.8); background: rgba(255,255,255,.06); }
     .sb-tab.active {
-      background: rgba(204,0,0,.18);
-      border-left-color: var(--red);
+      background: rgba(91,164,245,.22);
+      border-left-color: var(--sidebar-acc);
       color: #ffffff;
     }
     .sb-tab svg { width: 22px; height: 22px; flex-shrink: 0; }
@@ -78,8 +79,8 @@
       cursor: pointer; transition: all .15s;
     }
     .lang-btn.active {
-      background: var(--red); color: #fff;
-      border-color: var(--red);
+      background: var(--sidebar-acc); color: #fff;
+      border-color: var(--sidebar-acc);
     }
 
     /* ── Main ───────────────────────────────────────────── */
@@ -873,6 +874,30 @@
     .ibs-ad-tag { font-family:Arial,Helvetica,sans-serif; font-size:11px; color:#8a6040; margin-top:5px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; letter-spacing:.04em; }
     .ibs-ad-cta { flex-shrink:0; padding:0 16px 0 10px; }
     .ibs-ad-btn { background:#2d9494; color:#fff; padding:9px 18px; border-radius:22px; font-family:Arial,Helvetica,sans-serif; font-size:12px; font-weight:700; letter-spacing:.07em; white-space:nowrap; }
+    /* Ad available placeholder */
+    .ad-placeholder {
+      width: 100%; height: 100%;
+      display: flex; flex-direction: column;
+      align-items: center; justify-content: center; gap: 5px;
+      border: 2px dashed #ddd; border-radius: 4px;
+      background: #fafafa;
+    }
+    .ad-placeholder .ad-ph-hi {
+      font-family: 'Noto Serif Devanagari', serif;
+      font-size: 13px; font-weight: 600; color: #bbb;
+    }
+    .ad-placeholder .ad-ph-en {
+      font-family: 'Archivo', sans-serif;
+      font-size: 11px; color: #ccc; letter-spacing: .04em;
+    }
+    .ad-placeholder a {
+      font-family: 'Archivo', sans-serif;
+      font-size: 12px; font-weight: 700;
+      color: #0d2b5e; text-decoration: none;
+      margin-top: 2px;
+    }
+    .ad-placeholder a:hover { text-decoration: underline; }
+
     /* Tighter ad strip inside section content areas */
     .ad-strip {
       background: #fff;
@@ -1013,7 +1038,7 @@
     <span class="util-date" id="util-date"></span>
     <div class="util-links">
       <a href="#" data-hi="ई-पेपर"         data-en="E-Paper">ई-पेपर</a>
-      <a href="about.html" data-hi="हमारे बारे में" data-en="About Us">हमारे बारे में</a>
+      <a href="#" onclick="window.location.href='about.html'+(lang==='hi'?'?lang=hi':'');return false;" data-hi="हमारे बारे में" data-en="About Us">हमारे बारे में</a>
       <a href="advertise.html" data-hi="विज्ञापन"       data-en="Advertise">विज्ञापन</a>
       <a href="contact.html"  data-hi="संपर्क करें"    data-en="Contact Us">संपर्क करें</a>
       <a href="grievance.html" class="grv-link" data-hi="शिकायत और विचार" data-en="Grievance & Ideas">शिकायत और विचार</a>
@@ -1081,6 +1106,11 @@
     <div class="ad-banner">
       <span class="ad-banner-label">Advertisement</span>
       <div class="ad-banner-slot">
+        <div class="ad-placeholder">
+          <div class="ad-ph-hi" data-hi="विज्ञापन के लिए उपलब्ध" data-en="Available for Advertisement">विज्ञापन के लिए उपलब्ध</div>
+          <div class="ad-ph-en" data-hi="यहाँ अपना विज्ञापन दें" data-en="Advertise your brand here">यहाँ अपना विज्ञापन दें</div>
+          <a href="mailto:admin@vandematrabhoomi.in">admin@vandematrabhoomi.in</a>
+        </div>
       </div>
     </div>
 
@@ -1129,6 +1159,11 @@
     <div class="ad-banner">
       <span class="ad-banner-label">Advertisement</span>
       <div class="ad-banner-slot">
+        <div class="ad-placeholder">
+          <div class="ad-ph-hi" data-hi="विज्ञापन के लिए उपलब्ध" data-en="Available for Advertisement">विज्ञापन के लिए उपलब्ध</div>
+          <div class="ad-ph-en" data-hi="यहाँ अपना विज्ञापन दें" data-en="Advertise your brand here">यहाँ अपना विज्ञापन दें</div>
+          <a href="mailto:admin@vandematrabhoomi.in">admin@vandematrabhoomi.in</a>
+        </div>
       </div>
     </div>
 
@@ -1153,7 +1188,7 @@
             <div class="fcol">
               <div class="fcol-title" data-hi="सहायता" data-en="HELP">सहायता</div>
               <ul>
-                <li><a href="about.html" data-hi="हमारे बारे में" data-en="About Us">हमारे बारे में</a></li>
+                <li><a href="#" onclick="window.location.href='about.html'+(lang==='hi'?'?lang=hi':'');return false;" data-hi="हमारे बारे में" data-en="About Us">हमारे बारे में</a></li>
                 <li><a href="contact.html"   data-hi="संपर्क करें" data-en="Contact Us">संपर्क करें</a></li>
                 <li><a href="advertise.html" data-hi="विज्ञापन"    data-en="Advertise">विज्ञापन</a></li>
                 <li><a href="#" data-hi="ई-पेपर"         data-en="E-Paper">ई-पेपर</a></li>
@@ -1198,6 +1233,11 @@
     <div class="ad-banner">
       <span class="ad-banner-label">Advertisement</span>
       <div class="ad-banner-slot">
+        <div class="ad-placeholder">
+          <div class="ad-ph-hi" data-hi="विज्ञापन के लिए उपलब्ध" data-en="Available for Advertisement">विज्ञापन के लिए उपलब्ध</div>
+          <div class="ad-ph-en" data-hi="यहाँ अपना विज्ञापन दें" data-en="Advertise your brand here">यहाँ अपना विज्ञापन दें</div>
+          <a href="mailto:admin@vandematrabhoomi.in">admin@vandematrabhoomi.in</a>
+        </div>
       </div>
     </div>
 
@@ -1231,6 +1271,11 @@
     <div class="ad-banner">
       <span class="ad-banner-label">Advertisement</span>
       <div class="ad-banner-slot">
+        <div class="ad-placeholder">
+          <div class="ad-ph-hi" data-hi="विज्ञापन के लिए उपलब्ध" data-en="Available for Advertisement">विज्ञापन के लिए उपलब्ध</div>
+          <div class="ad-ph-en" data-hi="यहाँ अपना विज्ञापन दें" data-en="Advertise your brand here">यहाँ अपना विज्ञापन दें</div>
+          <a href="mailto:admin@vandematrabhoomi.in">admin@vandematrabhoomi.in</a>
+        </div>
       </div>
     </div>
 
@@ -1430,13 +1475,28 @@
       </div>
     </div>
     <div class="about-body">
-      <p class="about-lead"><strong>@Vande_Matrabhoomi – An Ode to the Motherland</strong> is an independent news portal, YouTube channel, podcast, and talk-show platform dedicated to celebrating the human spirit through stories that inspire, inform, and empower.</p>
-      <p class="about-lead">We bring our audience authentic narratives of courage, innovation, resilience, and purpose — from battlefields to backstage, from grassroots changemakers to national heroes. Our mission is to highlight the people, ideas, and events shaping society while fostering informed and meaningful conversations.</p>
-      <p class="about-lead">Through unbiased news coverage, in-depth analysis, documentaries, interviews, podcasts, and human-interest stories, we strive to uncover perspectives that often go unnoticed. Whether it is a soldier defending the nation, an entrepreneur creating opportunities, a scientist driving innovation, an artist inspiring change, or an ordinary citizen performing extraordinary acts — we believe every story has the power to make a difference.</p>
-      <p class="about-lead">At Vande Matrabhoomi, we are committed to responsible journalism, truth-driven reporting, and storytelling that reflects the values of courage, integrity, compassion, and national progress.</p>
+      <p class="about-lead"
+        data-hi="@वंदे_मातृभूमि — मातृभूमि को समर्पित एक स्वतंत्र समाचार पोर्टल, यूट्यूब चैनल, पॉडकास्ट और टॉक-शो प्लेटफ़ॉर्म है — जो प्रेरणादायक, सूचनाप्रद और सशक्त कहानियों के माध्यम से मानव भावना का उत्सव मनाता है।"
+        data-en="@Vande_Matrabhoomi – An Ode to the Motherland is an independent news portal, YouTube channel, podcast, and talk-show platform dedicated to celebrating the human spirit through stories that inspire, inform, and empower.">
+        @वंदे_मातृभूमि — मातृभूमि को समर्पित एक स्वतंत्र समाचार पोर्टल, यूट्यूब चैनल, पॉडकास्ट और टॉक-शो प्लेटफ़ॉर्म है — जो प्रेरणादायक, सूचनाप्रद और सशक्त कहानियों के माध्यम से मानव भावना का उत्सव मनाता है।</p>
+      <p class="about-lead"
+        data-hi="हम अपने दर्शकों के लिए साहस, नवाचार, दृढ़ता और उद्देश्य की प्रामाणिक कहानियाँ लाते हैं — रणक्षेत्र से लेकर मंच के पीछे तक, जमीनी स्तर के बदलावकर्ताओं से लेकर राष्ट्रीय नायकों तक। हमारा उद्देश्य समाज को आकार देने वाले लोगों, विचारों और घटनाओं को उजागर करना है।"
+        data-en="We bring our audience authentic narratives of courage, innovation, resilience, and purpose — from battlefields to backstage, from grassroots changemakers to national heroes. Our mission is to highlight the people, ideas, and events shaping society while fostering informed and meaningful conversations.">
+        हम अपने दर्शकों के लिए साहस, नवाचार, दृढ़ता और उद्देश्य की प्रामाणिक कहानियाँ लाते हैं — रणक्षेत्र से लेकर मंच के पीछे तक, जमीनी स्तर के बदलावकर्ताओं से लेकर राष्ट्रीय नायकों तक।</p>
+      <p class="about-lead"
+        data-hi="निष्पक्ष समाचार कवरेज, गहन विश्लेषण, डॉक्यूमेंट्री, साक्षात्कार, पॉडकास्ट और मानवीय रुचि की कहानियों के माध्यम से हम उन दृष्टिकोणों को उजागर करते हैं जो अक्सर अनदेखे रह जाते हैं — चाहे वह देश की रक्षा करने वाला सैनिक हो, अवसर बनाने वाला उद्यमी हो, या असाधारण कार्य करने वाला सामान्य नागरिक।"
+        data-en="Through unbiased news coverage, in-depth analysis, documentaries, interviews, podcasts, and human-interest stories, we strive to uncover perspectives that often go unnoticed. Whether it is a soldier defending the nation, an entrepreneur creating opportunities, a scientist driving innovation, an artist inspiring change, or an ordinary citizen performing extraordinary acts — we believe every story has the power to make a difference.">
+        निष्पक्ष समाचार कवरेज, गहन विश्लेषण, डॉक्यूमेंट्री, साक्षात्कार, पॉडकास्ट और मानवीय रुचि की कहानियों के माध्यम से हम उन दृष्टिकोणों को उजागर करते हैं जो अक्सर अनदेखे रह जाते हैं।</p>
+      <p class="about-lead"
+        data-hi="वंदे मातृभूमि में हम उत्तरदायी पत्रकारिता, सत्य-केंद्रित रिपोर्टिंग और उस कहानी कहने के प्रति प्रतिबद्ध हैं जो साहस, ईमानदारी, करुणा और राष्ट्रीय प्रगति के मूल्यों को प्रतिबिंबित करती है।"
+        data-en="At Vande Matrabhoomi, we are committed to responsible journalism, truth-driven reporting, and storytelling that reflects the values of courage, integrity, compassion, and national progress.">
+        वंदे मातृभूमि में हम उत्तरदायी पत्रकारिता, सत्य-केंद्रित रिपोर्टिंग और उस कहानी कहने के प्रति प्रतिबद्ध हैं जो साहस, ईमानदारी, करुणा और राष्ट्रीय प्रगति के मूल्यों को प्रतिबिंबित करती है।</p>
       <div class="about-motto">
-        <div class="about-motto-label">Our Motto</div>
-        <div class="about-motto-text">"Celebrating the Human Spirit Through Stories of Bravery, Passion, Purpose, and Truth."</div>
+        <div class="about-motto-label" data-hi="हमारा उद्देश्य" data-en="Our Motto">हमारा उद्देश्य</div>
+        <div class="about-motto-text"
+          data-hi="&ldquo;वीरता, जुनून, उद्देश्य और सच्चाई की कहानियों के माध्यम से मानव भावना का उत्सव।&rdquo;"
+          data-en="&ldquo;Celebrating the Human Spirit Through Stories of Bravery, Passion, Purpose, and Truth.&rdquo;">
+          &ldquo;वीरता, जुनून, उद्देश्य और सच्चाई की कहानियों के माध्यम से मानव भावना का उत्सव।&rdquo;</div>
       </div>
     </div>
   </div>

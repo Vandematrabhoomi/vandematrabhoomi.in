@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>हमारे बारे में — Vande Matrabhoomi</title>
+  <title>हमारे बारे में / About Us — Vande Matrabhoomi</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari:wght@400;600;700&family=Spectral:ital,wght@0,400;0,600;0,700;1,400&family=Archivo:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -176,6 +176,21 @@
     }
     .home-btn:hover { background: var(--red-dark); }
 
+    /* ── Lang toggle ── */
+    .pg-lang-toggle {
+      position: fixed; top: 14px; right: 20px; z-index: 400;
+      display: flex; gap: 4px;
+    }
+    .pg-lang-btn {
+      font-family: 'Archivo', sans-serif;
+      font-size: 11px; font-weight: 600;
+      padding: 4px 12px; border-radius: 20px;
+      border: 1.5px solid rgba(0,0,0,.18);
+      background: #fff; color: #555;
+      cursor: pointer; transition: all .15s;
+    }
+    .pg-lang-btn.active { background: #cc0000; color: #fff; border-color: #cc0000; }
+
     /* ── Responsive ── */
     @media (max-width: 640px) {
       .about-hero { flex-direction: column; gap: 20px; padding: 36px 24px 30px; }
@@ -188,6 +203,12 @@
   </style>
 </head>
 <body>
+
+<!-- Lang toggle -->
+<div class="pg-lang-toggle">
+  <button class="pg-lang-btn active" id="abt-hi" onclick="abtSetLang('hi')">हि</button>
+  <button class="pg-lang-btn" id="abt-en" onclick="abtSetLang('en')">EN</button>
+</div>
 
 <!-- Sidebar -->
 <nav class="sidebar">
@@ -217,7 +238,9 @@
     <div class="hero-text">
       <div class="hero-name-hi">वंदे मातृभूमि</div>
       <div class="hero-name-en">Vande Matrabhoomi</div>
-      <div class="hero-tagline">An Ode to the Motherland</div>
+      <div class="hero-tagline abt-text"
+        data-hi="मातृभूमि को समर्पित"
+        data-en="An Ode to the Motherland">मातृभूमि को समर्पित</div>
     </div>
   </div>
 
@@ -225,33 +248,60 @@
   <div class="about-content">
     <div class="about-handle">@Vande_Matrabhoomi</div>
 
-    <p class="about-intro">
-      An Ode to the Motherland — an independent news portal, YouTube channel, podcast, and talk-show platform dedicated to celebrating the human spirit through stories that inspire, inform, and empower.
+    <p class="about-intro abt-text"
+      data-hi="मातृभूमि को समर्पित — एक स्वतंत्र समाचार पोर्टल, यूट्यूब चैनल, पॉडकास्ट और टॉक-शो प्लेटफ़ॉर्म जो प्रेरणादायक, सूचनाप्रद और सशक्त कहानियों के माध्यम से मानव भावना का उत्सव मनाता है।"
+      data-en="An Ode to the Motherland — an independent news portal, YouTube channel, podcast, and talk-show platform dedicated to celebrating the human spirit through stories that inspire, inform, and empower.">
+      मातृभूमि को समर्पित — एक स्वतंत्र समाचार पोर्टल, यूट्यूब चैनल, पॉडकास्ट और टॉक-शो प्लेटफ़ॉर्म जो प्रेरणादायक, सूचनाप्रद और सशक्त कहानियों के माध्यम से मानव भावना का उत्सव मनाता है।
     </p>
 
     <div class="about-body">
-      <p>We bring our audience authentic narratives of courage, innovation, resilience, and purpose — from battlefields to backstage, from grassroots changemakers to national heroes. Our mission is to highlight the people, ideas, and events shaping society while fostering informed and meaningful conversations.</p>
+      <p class="abt-text"
+        data-hi="हम अपने दर्शकों के लिए साहस, नवाचार, दृढ़ता और उद्देश्य की प्रामाणिक कहानियाँ लाते हैं — रणक्षेत्र से लेकर मंच के पीछे तक, जमीनी स्तर के बदलावकर्ताओं से लेकर राष्ट्रीय नायकों तक। हमारा उद्देश्य समाज को आकार देने वाले लोगों, विचारों और घटनाओं को उजागर करते हुए सार्थक संवाद को बढ़ावा देना है।"
+        data-en="We bring our audience authentic narratives of courage, innovation, resilience, and purpose — from battlefields to backstage, from grassroots changemakers to national heroes. Our mission is to highlight the people, ideas, and events shaping society while fostering informed and meaningful conversations.">
+        हम अपने दर्शकों के लिए साहस, नवाचार, दृढ़ता और उद्देश्य की प्रामाणिक कहानियाँ लाते हैं — रणक्षेत्र से लेकर मंच के पीछे तक, जमीनी स्तर के बदलावकर्ताओं से लेकर राष्ट्रीय नायकों तक।</p>
 
-      <p>Through unbiased news coverage, in-depth analysis, documentaries, interviews, podcasts, and human-interest stories, we strive to uncover perspectives that often go unnoticed. Whether it is a soldier defending the nation, an entrepreneur creating opportunities, a scientist driving innovation, an artist inspiring change, or an ordinary citizen performing extraordinary acts — we believe every story has the power to make a difference.</p>
+      <p class="abt-text"
+        data-hi="निष्पक्ष समाचार कवरेज, गहन विश्लेषण, डॉक्यूमेंट्री, साक्षात्कार, पॉडकास्ट और मानवीय रुचि की कहानियों के माध्यम से हम उन दृष्टिकोणों को उजागर करते हैं जो अक्सर अनदेखे रह जाते हैं। चाहे वह देश की रक्षा करने वाला सैनिक हो, उद्यमी हो, वैज्ञानिक हो, कलाकार हो, या असाधारण कार्य करने वाला सामान्य नागरिक — हर कहानी में बदलाव लाने की शक्ति होती है।"
+        data-en="Through unbiased news coverage, in-depth analysis, documentaries, interviews, podcasts, and human-interest stories, we strive to uncover perspectives that often go unnoticed. Whether it is a soldier defending the nation, an entrepreneur creating opportunities, a scientist driving innovation, an artist inspiring change, or an ordinary citizen performing extraordinary acts — we believe every story has the power to make a difference.">
+        निष्पक्ष समाचार कवरेज, गहन विश्लेषण, डॉक्यूमेंट्री, साक्षात्कार, पॉडकास्ट और मानवीय रुचि की कहानियों के माध्यम से हम उन दृष्टिकोणों को उजागर करते हैं जो अक्सर अनदेखे रह जाते हैं।</p>
 
-      <p>At Vande Matrabhoomi, we are committed to responsible journalism, truth-driven reporting, and storytelling that reflects the values of courage, integrity, compassion, and national progress.</p>
+      <p class="abt-text"
+        data-hi="वंदे मातृभूमि में हम उत्तरदायी पत्रकारिता, सत्य-केंद्रित रिपोर्टिंग और उस कहानी कहने के प्रति प्रतिबद्ध हैं जो साहस, ईमानदारी, करुणा और राष्ट्रीय प्रगति के मूल्यों को प्रतिबिंबित करती है।"
+        data-en="At Vande Matrabhoomi, we are committed to responsible journalism, truth-driven reporting, and storytelling that reflects the values of courage, integrity, compassion, and national progress.">
+        वंदे मातृभूमि में हम उत्तरदायी पत्रकारिता, सत्य-केंद्रित रिपोर्टिंग और उस कहानी कहने के प्रति प्रतिबद्ध हैं जो साहस, ईमानदारी, करुणा और राष्ट्रीय प्रगति के मूल्यों को प्रतिबिंबित करती है।</p>
     </div>
 
     <hr class="about-divider">
 
     <div class="about-motto">
-      <div class="motto-label">Our Motto</div>
-      <div class="motto-text">"Celebrating the Human Spirit Through Stories of Bravery, Passion, Purpose, and Truth."</div>
+      <div class="motto-label abt-text" data-hi="हमारा उद्देश्य" data-en="Our Motto">हमारा उद्देश्य</div>
+      <div class="motto-text abt-text"
+        data-hi="&ldquo;वीरता, जुनून, उद्देश्य और सच्चाई की कहानियों के माध्यम से मानव भावना का उत्सव।&rdquo;"
+        data-en="&ldquo;Celebrating the Human Spirit Through Stories of Bravery, Passion, Purpose, and Truth.&rdquo;">
+        &ldquo;वीरता, जुनून, उद्देश्य और सच्चाई की कहानियों के माध्यम से मानव भावना का उत्सव।&rdquo;</div>
     </div>
 
     <a class="home-btn" href="index.html">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
         <polyline points="15 18 9 12 15 6"/>
       </svg>
-      होम पर वापस जाएं — Back to Home
+      <span class="abt-text" data-hi="होम पर वापस जाएं" data-en="Back to Home">होम पर वापस जाएं</span>
     </a>
   </div>
 </div>
 
+<script>
+var abtLang = (new URLSearchParams(window.location.search)).get('lang') === 'hi' ? 'hi' : 'en';
+function abtSetLang(l) {
+  abtLang = l;
+  document.getElementById('abt-hi').classList.toggle('active', l==='hi');
+  document.getElementById('abt-en').classList.toggle('active', l==='en');
+  document.querySelectorAll('.abt-text').forEach(function(el){
+    var val = el.getAttribute('data-'+l);
+    if (val) el.innerHTML = val;
+  });
+}
+abtSetLang(abtLang);
+</script>
 </body>
 </html>
