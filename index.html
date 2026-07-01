@@ -1029,6 +1029,180 @@
       font-family: 'Archivo', sans-serif; font-size: 11px; color: var(--text-muted);
       border-top: 1px solid var(--border); padding-top: 14px;
     }
+
+    /* ════════════════════════════════════════════════════
+       MOBILE RESPONSIVE  (≤ 768px)
+    ════════════════════════════════════════════════════ */
+    @media (max-width: 768px) {
+
+      /* Override sidebar width token so all margin-left consumers reset */
+      :root { --sidebar-w: 0px; }
+
+      /* Sidebar → fixed horizontal bottom nav bar */
+      .sidebar {
+        top: auto;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        height: 58px;
+        flex-direction: row;
+        padding: 0;
+        border-top: 1px solid rgba(255,255,255,.2);
+      }
+      .sb-logo { display: none; }
+      .sb-tabs {
+        flex-direction: row;
+        flex: 1;
+        width: auto;
+      }
+      .sb-tab {
+        flex: 1;
+        padding: 8px 4px 10px;
+        font-size: 8px;
+        border-left: none;
+        border-top: 2px solid transparent;
+      }
+      .sb-tab.active {
+        border-left-color: transparent;
+        border-top-color: #fff;
+        background: rgba(255,255,255,.16);
+      }
+      .sb-tab svg { width: 18px; height: 18px; }
+      .lang-toggle {
+        flex-direction: row;
+        padding: 0 8px;
+        gap: 5px;
+        align-items: center;
+        justify-content: center;
+      }
+      .lang-btn { font-size: 11px; padding: 5px 8px; }
+
+      /* Main — full width, bottom padding for nav bar */
+      .main {
+        margin-left: 0;
+        padding-bottom: 58px;
+      }
+
+      /* Utility bar — hide; links accessible in footer */
+      .util-bar { display: none; }
+
+      /* Masthead */
+      .masthead {
+        padding: 12px 14px;
+        gap: 10px;
+      }
+      .masthead-logo { height: 52px; }
+      .masthead-wordmark { font-size: 28px; }
+      .masthead-tagline { font-size: 11px; margin-top: 3px; }
+      .masthead-right { gap: 8px; }
+      .search-pill { display: none; }
+      .podcast-btn { display: none; }
+      .subscribe-btn { font-size: 14px; padding: 10px 14px; }
+
+      /* Navbar — horizontal scroll */
+      .navbar { padding: 0 4px; }
+      .nav-list {
+        justify-content: flex-start;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+      }
+      .nav-list::-webkit-scrollbar { display: none; }
+      .nav-list li a {
+        font-size: 14px;
+        padding: 10px 10px;
+        white-space: nowrap;
+      }
+
+      /* Breaking ticker */
+      .breaking-track { font-size: 12px; }
+
+      /* News section */
+      .news-wrap { padding: 16px 14px 36px; }
+
+      /* Hero row → single column */
+      .hero-row {
+        grid-template-columns: 1fr;
+        gap: 20px;
+        margin-bottom: 28px;
+      }
+      .lead-img-box { height: 200px; }
+      .lead-hl { font-size: 22px; }
+
+      /* Cards grid → 2 columns */
+      .latest-grid {
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
+      }
+      .card-img { height: 120px; }
+      .card-hl { font-size: 13px; }
+
+      /* Opinion section */
+      .op-header { padding: 28px 14px 24px; }
+      .op-title { font-size: 26px; }
+      .op-body-wrap { padding: 0 14px; }
+      .op-cols {
+        grid-template-columns: 1fr;
+        gap: 28px;
+        padding: 24px 0 40px;
+      }
+      .op-sidebar { position: static; top: auto; }
+      .op-para { font-size: 16px; }
+      .op-img-box { height: 200px; }
+      .pull-quote p { font-size: 18px; }
+      .inline-quote p { font-size: 17px; }
+
+      /* Live Desk */
+      .desk-wrap { padding: 20px 14px; }
+      .form-card { padding: 18px 14px; }
+
+      /* Footer */
+      .footer { padding: 24px 14px 16px; }
+      .footer-top { flex-direction: column; gap: 20px; }
+      .footer-links { flex-direction: column; gap: 16px; }
+      .footer-bottom {
+        flex-direction: column;
+        gap: 8px;
+        align-items: flex-start;
+      }
+
+      /* Floating button — above bottom nav */
+      .fab { bottom: 70px; right: 14px; }
+
+      /* Modals */
+      .modal-overlay { padding: 12px; }
+      .modal-box { padding: 24px 18px; }
+      .about-header { padding: 24px 20px 18px; gap: 14px; }
+      .about-logo { width: 54px; height: 54px; }
+      .about-name { font-size: 22px; }
+      .about-body { padding: 20px 20px 24px; }
+
+      /* Article reader */
+      .art-overlay { padding: 16px 10px; }
+      .art-content-wrap { padding: 20px 14px 24px; }
+      #art-img-credit { padding: 4px 14px 0 !important; }
+      .art-headline { font-size: 20px; }
+      .art-body { font-size: 15px; }
+      #art-hero-wrap img { height: 200px; }
+      .art-hero-ph { height: 200px; }
+
+      /* IBS ad compact */
+      .ibs-ad-gems { padding: 0 6px 0 8px; }
+      .ibs-ad-sep { margin: 0 8px; }
+      .ibs-ad-name { font-size: 13px; }
+      .ibs-ad-tag { font-size: 10px; }
+      .ibs-ad-btn { font-size: 11px; padding: 7px 12px; }
+    }
+
+    /* Very small phones (≤ 420px) */
+    @media (max-width: 420px) {
+      .latest-grid { grid-template-columns: 1fr; }
+      .masthead-wordmark { font-size: 22px; }
+      .masthead-logo { height: 44px; }
+      .subscribe-btn { font-size: 13px; padding: 9px 12px; }
+      .op-title { font-size: 20px; }
+    }
   </style>
 </head>
 <body>
