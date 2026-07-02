@@ -1,61 +1,50 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-02T16:19:34.671812",
+  "generated": "2026-07-02T18:20:31.845705",
   "en": {
     "top": [
       {
-        "title": "Government to expand oil refining capacity to 300 million metric tonnes amid West Asia crisis",
-        "summary": "Petroleum and Natural Gas Minister Hardeep Singh Puri today said that India is rapidly expanding its refinery capacity. Addressing a press conference in New Delhi, Mr Puri informed that in the next six to twelve months the country&#8217;s refining capacity will be brought to 300 million metric tonnes per annum. He said that the first […]",
-        "article": "Petroleum and Natural Gas Minister Hardeep Singh Puri today said that India is rapidly expanding its refinery capacity. Addressing a press conference in New Delhi, Mr Puri informed that in the next six to twelve months the country&#8217;s refining capacity will be brought to 300 million metric tonnes per annum. He said that the first Greenfield refinery is being established after a gap of 10 years. Talking about India’s handling of the situation during the West Asia crisis, Mr Puri said that for a long time the government controlled the prices of petrol and diesel and reduced the duties imposed on them. He said that the government always prioritized and focused on the interest of the citizens. The minister said that price of petrol has increased by only 5.58 percent in the last four years, and diesel by 6.23 percent. There has been no increase in the price of fuel for consumers and government&#8217;s fiscal system absorbed the hike in crude oil prices.",
+        "title": "Indian Navy’s Eastern Fleet Ships Reach Singapore’s Changi Naval Base",
+        "summary": "Indian Navy&#8217;s Eastern Fleet Ships Udaygiri, Kavaratti, and Shakti reached the Changi Naval Base in Singapore yesterday. The Ministry of Defence said that the visit exemplifies the strong and long-standing ties between the two navies and forms part of the Indian Navy’s ongoing operational deployment in the South East Asia Region. The Ministry said […]",
+        "article": "Indian Navy&#8217;s Eastern Fleet Ships Udaygiri, Kavaratti, and Shakti reached the Changi Naval Base in Singapore yesterday. The Ministry of Defence said that the visit exemplifies the strong and long-standing ties between the two navies and forms part of the Indian Navy’s ongoing operational deployment in the South East Asia Region. The Ministry said that during the port call the ships will engage with the Republic of Singapore Navy through professional interactions, cross-deck visits, and discussions on issues of mutual maritime interest. Defence Ministry said that India remains committed to fostering collective maritime security, promoting regional cooperation and advancing collaboration among maritime partners.",
         "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:32:54+00:00",
-        "link": "https://newsonair.gov.in/government-to-expand-oil-refining-capacity-to-300-million-metric-tonnes-amid-west-asia-crisis/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Western_Asia_%28orthographic_projection%29.svg/1280px-Western_Asia_%28orthographic_projection%29.svg.png",
-        "image_credit": "Wikipedia – West Asia (CC BY-SA)",
+        "pubDate": "2026-07-02T16:55:02+00:00",
+        "link": "https://newsonair.gov.in/indian-navys-eastern-fleet-ships-reach-singapores-changi-naval-base/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-222428.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Wildfires rage across Southern France amid record heat and dry weather",
-        "summary": "Wildfires raged in the south of France today after weeks of dry weather and record temperatures across the country, devastating large swaths of land. The biggest fire spread in the Aude and Herault regions, where up to 800 firefighters and 150 vehicles were deployed to tackle the flames that ran over 2,200 acres. Further fires […]",
-        "article": "Wildfires raged in the south of France today after weeks of dry weather and record temperatures across the country, devastating large swaths of land. The biggest fire spread in the Aude and Herault regions, where up to 800 firefighters and 150 vehicles were deployed to tackle the flames that ran over 2,200 acres. Further fires broke out in the neighbouring Marseille region, where two blazes were brought under control, but not yet extinguished. Alain Bucquet, the Aude prefect, said fire services will receive support from two additional water-bomber aircraft, bringing the total number of Canadair planes on the site to four. The Aude is regularly hit by wildfires, and firefighters last year contained France&#8217;s largest wildfire in decades in the region. High temperatures are expected in the coming days, and the drought is expected to last, with no rain forecast following the early heatwave in May and the one that gripped France at the end of June.",
+        "title": "FM Nirmala Sitharaman Meets BNP Paribas Executive Chairman Yann Gérardin in Paris",
+        "summary": "Finance Minister Nirmala Sitharaman, who is on a visit to France, met Deputy Chief Executive Officer and Executive Chairman of Corporate and Institutional Banking BNP Paribas Group Yann Gérardin in Paris today. Mr. Gérardin said that global funds have shown interest in India as a credible investment destination and complimented India’s strength in Digital Public […]",
+        "article": "Finance Minister Nirmala Sitharaman, who is on a visit to France, met Deputy Chief Executive Officer and Executive Chairman of Corporate and Institutional Banking BNP Paribas Group Yann Gérardin in Paris today. Mr. Gérardin said that global funds have shown interest in India as a credible investment destination and complimented India’s strength in Digital Public Infrastructure DPI. Ms Sitharaman informed him that Government had announced a Committee on Banking sector in its march towards Viksit Bharat 2047. The Union Finance Minister sought his thoughts and suggestions for the Committee and informed him that India is positioning its banking sector globally, with special focus on delivery of DPI and Account Aggregators systems. Ms Sitharaman also met President of Flying Whales Sébastien Bougon today. Mr. Bougon informed about Flying Wheels&#8217; sustainable PPP projects globally and shared details about the multitude of application use cases that the company serves. Mr. Bougon mentioned that Flying Whales contributes to the expansion of economic development in landlocked areas and reduces the environmental impact of cargo transport and conveyed that Flying Whales was looking to set up the entire ecosystem related to its manufacturing with India as a key base. Ms Sitharaman welcomed the interest shown by Flying Whales for setting up an ecosystem in India. She informed Mr. Bougon about the opportunities in India for a company like Flying Whale and encouraged him to engage with the vibrant start-up ecosystem operating in this space. She also spoke about Indian Financial Services Centre Authority at GIFT City and the framework for ship and air-vehicle leasing and Maintenance, Repair, and Operations MRO which can be leveraged by the company.",
         "date": "2026-07-02",
-        "pubDate": "2026-07-02T12:47:42+00:00",
-        "link": "https://newsonair.gov.in/wildfires-rage-across-southern-france-amid-record-heat-and-dry-weather/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/En-Vau_calanque_4.jpg/1280px-En-Vau_calanque_4.jpg",
-        "image_credit": "Wikipedia – Southern France (CC BY-SA)",
+        "pubDate": "2026-07-02T16:51:59+00:00",
+        "link": "https://newsonair.gov.in/fm-nirmala-sitharaman-meets-bnp-paribas-executive-chairman-yann-gerardin-in-paris/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMO3ORBaUAAzzgI-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Russian drone and missile attack on Kyiv kills 17, injures over 90",
-        "summary": "Russia launched drone and missile attack on Ukrainian capital overnight killing 17 civilians and injuring more than 90 others. Damage was recorded in 30 locations across Kyiv, mainly residential buildings and civilian infrastructure. Russia&#8217;s Defense Ministry said in a statement the deadly bombardment was in response to Ukraine&#8217;s long-range strikes on its civilian infrastructure. Ukrai",
-        "article": "Russia launched drone and missile attack on Ukrainian capital overnight killing 17 civilians and injuring more than 90 others. Damage was recorded in 30 locations across Kyiv, mainly residential buildings and civilian infrastructure. Russia&#8217;s Defense Ministry said in a statement the deadly bombardment was in response to Ukraine&#8217;s long-range strikes on its civilian infrastructure. Ukraine&#8217;s increasingly frequent and large-scale attacks on Russia, described by President Volodymyr Zelenskyy as a 40-day blitz, have primarily targeted oil refineries, triggering a fuel crisis in Russia more than four years after the war between Kyiv and Moscow began.",
+        "title": "VP Radhakrishnan interacts with 40 participants of MP LEAD fellows at Uprashtrapati Bhavan",
+        "summary": "Vice President C.P. Radhakrishnan interacted with 40 participants of the MP LEAD fellows at Uprashtrapati Bhavan today. In his address highlighting the importance of constitutional values, Mr Radhakrishnan said democracy flourishes when citizens uphold their duties along with their rights. The Vice President urged the fellows to learn with curiosity, innovate fearlessly and remain committed […]",
+        "article": "Vice President C.P. Radhakrishnan interacted with 40 participants of the MP LEAD fellows at Uprashtrapati Bhavan today. In his address highlighting the importance of constitutional values, Mr Radhakrishnan said democracy flourishes when citizens uphold their duties along with their rights. The Vice President urged the fellows to learn with curiosity, innovate fearlessly and remain committed to the larger national interest, expressing confidence that the MP LEAD Fellowship would nurture future nation-builders committed to a developed and self-reliant India. Describing the fellowship as an ideal platform to begin one&#8217;s career, the Vice President said they expose young people to the world beyond classrooms, build confidence and provide opportunities to interact with national leaders. The fellowship was initiated by Member of Parliament (Rajya Sabha) Dr. Ajeet Madhavrao Gopchade.",
         "date": "2026-07-02",
-        "pubDate": "2026-07-02T12:17:21+00:00",
-        "link": "https://newsonair.gov.in/russian-drone-and-missile-attack-on-kyiv-kills-17-injures-over-90/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B7_%D1%85%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%2C_%D1%81%D0%B5%D1%80%D0%BF%D0%B5%D0%BD%D1%8C_2019.jpg/1280px-%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B7_%D1%85%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%2C_%D1%81%D0%B5%D1%80%D0%BF%D0%B5%D0%BD%D1%8C_2019.jpg",
-        "image_credit": "Wikipedia – Kyiv (CC BY-SA)",
+        "pubDate": "2026-07-02T16:49:27+00:00",
+        "link": "https://newsonair.gov.in/vp-radhakrishnan-interacts-with-40-participants-of-mp-lead-fellows-at-uprashtrapati-bhavan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-221828.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Romania: Powerful storm kills one, causes widespread damage in Bucharest",
-        "summary": "A powerful storm swept across Romania’s capital, Bucharest, and 20 counties yesterday, leaving one person dead and causing widespread damage. Emergency services said nearly 2,000 calls for assistance were received in Bucharest alone, where several metro stations were flooded. The storm also affected around 60 towns and villages outside the capital, damaging dozens of homes […]",
-        "article": "A powerful storm swept across Romania’s capital, Bucharest, and 20 counties yesterday, leaving one person dead and causing widespread damage. Emergency services said nearly 2,000 calls for assistance were received in Bucharest alone, where several metro stations were flooded. The storm also affected around 60 towns and villages outside the capital, damaging dozens of homes and vehicles. Police and firefighters were deployed across the affected regions to evacuate residents from flooded homes and clear fallen trees and debris. The severe weather followed an intense heat wave earlier this week, with temperatures crossing 40 degrees Celsius in parts of the country, increasing electricity demand and driving up power prices.",
+        "title": "ACME Cleantech secures long-term Green Hydrogen offtake deal with Japanese Companies",
+        "summary": "In a significant milestone under the National Green Hydrogen Mission, (NGHM), ACME Cleantech Solutions Private Limited today secured a long-term offtake deal with leading Japanese companies in New Delhi. Under the deal with Japanese company IHI Corporation ACME will supply over four lakh tonnes of green ammonia to the Japanese company per annum. ACME has […]",
+        "article": "In a significant milestone under the National Green Hydrogen Mission, (NGHM), ACME Cleantech Solutions Private Limited today secured a long-term offtake deal with leading Japanese companies in New Delhi. Under the deal with Japanese company IHI Corporation ACME will supply over four lakh tonnes of green ammonia to the Japanese company per annum. ACME has also signed a ten-year agreement with another Japanese company Mitsubishi Gas Chemical Company, for the supply of one lakh tonnes of green methanol. These agreements were signed today in the presence of Secretary in the Ministry of New and Renewable Energy Santosh Kumar Sarangi and Vice Minister in the Ministry of Economy, Trade and Industry of Japan Takehiko MATSUO. Welcoming the agreements, Union Minister for New and Renewable Energy Pralhad Joshi said that the agreements reflect the growing global confidence in India&#8217;s green hydrogen ecosystem and its emergence as a trusted partner in the global clean energy transition. In a social media post, he said that under the leadership of Prime Minister Narendra Modi, the National Green Hydrogen Mission is creating a strong and future-ready ecosystem. The Minister highlighted that the mission is attracting global investments, building international partnerships, and opening new markets for Indian green hydrogen and its derivatives. Speaking on the occasion, Mr Sarangi said that the agreement will strengthen the collaboration between India and Japan. He expressed confidence that the agreements will boost the willpower of entrepreneurs involved in the green hydrogen sector in the country. The Secretary emphasized that these agreements have created a market linkage between India and Japan for Green Ammonia and Green Methanol giving confidence to investors. He added that one of the outcomes of the agreements will be the creation of international green hydrogen and green ammonia value chains.",
         "date": "2026-07-02",
-        "pubDate": "2026-07-02T09:19:20+00:00",
-        "link": "https://newsonair.gov.in/romania-powerful-storm-kills-one-causes-widespread-damage-in-bucharest/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bucharest_University_Square_%28cropped%29.jpg/1280px-Bucharest_University_Square_%28cropped%29.jpg",
-        "image_credit": "Wikipedia – Bucharest (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Pakistan: Seven killed, one missing after tourist boat capsizes in Khyber Pakhtunkhwa",
-        "summary": "In Pakistan, Seven people died and one went missing after a tourist boat capsized in Saifullah Lake in Khyber Pakhtunkhwa province. According to the Police, the boat was carrying eight members of a family on a sightseeing trip when it overturned in the Swat district. Rescue teams have recovered seven bodies and are still […]",
-        "article": "In Pakistan, Seven people died and one went missing after a tourist boat capsized in Saifullah Lake in Khyber Pakhtunkhwa province. According to the Police, the boat was carrying eight members of a family on a sightseeing trip when it overturned in the Swat district. Rescue teams have recovered seven bodies and are still searching for the missing person. All the victims were from Pakistan’s Punjab province. Rescue 1122 teams reached the spot and recovered seven bodies from the water near the Mahodand area. Authorities have launched an investigation into the cause of the accident. Khyber Pakhtunkhwa Chief Minister Sohail Afridi has ordered a report and directed officials to take action if any negligence is found. In a separate incident, 14 children died and several others were injured when the roof of a private tuition academy collapsed in Lahore’s Kahna area on Tuesday. Around 20 people were trapped under the debris, and some injured children remain in critical condition. Officials and human rights groups have raised concerns over repeated building collapses in Pakistan, blaming poor construction standards and weak safety checks.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T09:16:44+00:00",
-        "link": "https://newsonair.gov.in/pakistan-seven-killed-one-missing-after-tourist-boat-capsizes-in-khyber-pakhtunkhwa/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/River_Swat%2C_KPK.jpg/1280px-River_Swat%2C_KPK.jpg",
-        "image_credit": "Wikipedia – Khyber Pakhtunkhwa (CC BY-SA)",
+        "pubDate": "2026-07-02T16:42:48+00:00",
+        "link": "https://newsonair.gov.in/acme-cleantech-secures-long-term-green-hydrogen-offtake-deal-with-japanese-companies/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-221033.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -65,8 +54,8 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T15:54:35+00:00",
         "link": "https://newsonair.gov.in/pm-modi-says-indias-speed-japans-expertise-will-drive-global-growth/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-163939.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -76,67 +65,10 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T15:39:48+00:00",
         "link": "https://newsonair.gov.in/india-and-japan-announce-energy-partnership-to-strengthen-strategic-oil-reserves-and-maritime-transport-resilience/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Modi-and-Japanese-PM-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
-      {
-        "title": "NITI Aayog Vice Chairperson Dr Ashok Kumar Lahiri calls for Globalising Ayurveda",
-        "summary": "Vice Chairperson of NITI Aayog Dr Ashok Kumar Lahiri today said that globalising Ayurveda is essential not only for promoting India&#8217;s traditional knowledge but also for creating jobs, boosting exports and strengthening the country&#8217;s soft power. While releasing a report on Strategic Roadmap for Making Ayurveda Global in New Delhi, NITI Aayog Vice Chairperson, Mr […]",
-        "article": "Vice Chairperson of NITI Aayog Dr Ashok Kumar Lahiri today said that globalising Ayurveda is essential not only for promoting India&#8217;s traditional knowledge but also for creating jobs, boosting exports and strengthening the country&#8217;s soft power. While releasing a report on Strategic Roadmap for Making Ayurveda Global in New Delhi, NITI Aayog Vice Chairperson, Mr Lahiri stressed that scientific validation and evidence-based research are crucial for enhancing the global credibility of Ayurveda. Emphasising that future generations will seek scientific proof rather than rely solely on tradition, he called for rigorous testing and research. He said the initiative would help position Ayurveda as a trusted healthcare system worldwide and reaffirm India&#8217;s civilisational heritage. Secretary, Ministry of Ayush, Vaidya Rajesh Kotecha said that India&#8217;s traditional medicine sector has grown to an estimated 61 billion dollars, with the country&#8217;s share in the global traditional medicine market rising to nearly 10 per cent, according to a recent field-based survey. Secretary said the sector comprises 36 billion dollars in services and 25 billion dollars in manufacturing. He added that continued policy support and stakeholder collaboration would further strengthen India&#8217;s position as a global leader in traditional medicine.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:17:23+00:00",
-        "link": "https://newsonair.gov.in/niti-aayog-vice-chairperson-dr-ashok-kumar-lahiri-calls-for-globalising-ayurveda/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Government debunks fake investment claim misusing Union Finance Minister’s name",
-        "summary": "The Government has debunked a claim circulating on social media that the Union Finance Minister is promoting an investment platform and promising citizens a monthly income of over 20 lakh rupees in return for an initial investment of 22 thousand rupees. The Fact Check Unit of the Press Information Bureau said that the claim is […]",
-        "article": "The Government has debunked a claim circulating on social media that the Union Finance Minister is promoting an investment platform and promising citizens a monthly income of over 20 lakh rupees in return for an initial investment of 22 thousand rupees. The Fact Check Unit of the Press Information Bureau said that the claim is fake. It said that the Finance Minister has not endorsed any such investment scheme or platform. The Press Information Bureau has advised citizen to beware of unverified links or platforms that aim to deceive people and cause financial losses.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:08:30+00:00",
-        "link": "https://newsonair.gov.in/government-debunks-fake-investment-claim-misusing-union-finance-ministers-name/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Indian Naval Ship Trikand foils piracy attempt on MV Golden Arsenal in Gulf of Aden",
-        "summary": "Indian Naval Ship Trikand has successfully responded to a piracy attempt on merchant vessel MV Golden Arsenal in the Gulf of Aden. The vessel, while transiting from Aden in Yemen, reported an attempted pirate attack around 300 nautical miles east-northeast of Djibouti. The incident was reported through the Information Fusion Centre-Indian Ocean Region, following which […]",
-        "article": "Indian Naval Ship Trikand has successfully responded to a piracy attempt on merchant vessel MV Golden Arsenal in the Gulf of Aden. The vessel, while transiting from Aden in Yemen, reported an attempted pirate attack around 300 nautical miles east-northeast of Djibouti. The incident was reported through the Information Fusion Centre-Indian Ocean Region, following which INS Trikand, deployed in the region, was tasked to intercept the merchant vessel. The vessel, carrying 21 crew members, including one Indian national, sustained damage to the bridge superstructure and adjoining compartments. The crew took shelter in the vessel&#8217;s citadel and were reported safe. To augment the operation, the Indian Navy deployed a P-8I maritime patrol aircraft for aerial surveillance and reconnaissance, enhancing maritime domain awareness and supporting the anti-piracy response. The Ministry said that with the vessel sanitised and the immediate threat neutralised, the anti-piracy operation by INS Trikand has concluded. MV Golden Arsenal has resumed its onward voyage. The Indian Navy reaffirmed its commitment to safeguarding merchant shipping, countering piracy and ensuring the safety and security of all seafarers in the region, irrespective of nationality, as part of its continued commitment to maritime security in the Indian Ocean Region.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:02:22+00:00",
-        "link": "https://newsonair.gov.in/indian-naval-ship-trikand-foils-piracy-attempt-on-mv-golden-arsenal-in-gulf-of-aden/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Civil Aviation launches AIR SUVIDHA 2.0 portal for Ebola health screening",
-        "summary": "The Ministry of Civil Aviation today launched the AIR SUVIDHA 2.0 portal for Ebola health screening at points of entry international airports across the country. Developed in collaboration with the Directorate General of Health Services and Delhi International Airport Limited, the upgraded digital platform aims to strengthen health surveillance of international travellers through real-time coordin",
-        "article": "The Ministry of Civil Aviation today launched the AIR SUVIDHA 2.0 portal for Ebola health screening at points of entry international airports across the country. Developed in collaboration with the Directorate General of Health Services and Delhi International Airport Limited, the upgraded digital platform aims to strengthen health surveillance of international travellers through real-time coordination among health, immigration and surveillance agencies for early detection of at-risk passengers. The upgraded AIR SUVIDHA 2.0 introduces a fully contactless and paperless health self-declaration system for international arrivals. Under the new system, international travellers can submit their health self-declaration online up to 24 hours before arrival, facilitating faster immigration clearance while ensuring seamless health screening at points of entry.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T14:34:04+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-civil-aviation-launches-air-suvidha-2-0-portal-for-ebola-health-screening/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Panchayati Raj will organize National Workshop of State Panchayati Raj Ministers",
-        "summary": "Ministry of Panchayati Raj will organize a National Workshop of State Panchayati Raj Ministers in New Delhi tomorrow to deliberate on the recommendations of the Sixteenth Finance Commission. The Workshop will be chaired by Union Minister of Panchayati Raj Rajiv Ranjan Singh (Lalan Singh) in the presence of Union Minister of State Prof. S. P. […]",
-        "article": "Ministry of Panchayati Raj will organize a National Workshop of State Panchayati Raj Ministers in New Delhi tomorrow to deliberate on the recommendations of the Sixteenth Finance Commission. The Workshop will be chaired by Union Minister of Panchayati Raj Rajiv Ranjan Singh (Lalan Singh) in the presence of Union Minister of State Prof. S. P. Singh Baghel. During the workshop, the discussions will focus on the Operational Guidelines for implementation of the Sixteenth Finance Commission Rural Local Body Grants, issued by the Department of Expenditure, Ministry of Finance. The Workshop will place special emphasis on strengthening the financial sustainability of Panchayati Raj Institutions through enhanced Own Source Revenue (OSR) mobilization. It will also provide a platform for States and Union Territories to share best practices, discuss implementation challenges and exchange practical strategies for effective utilization of Finance Commission grants. The deliberations are expected to strengthen Centre- State collaboration and support the development of a robust implementation framework for empowering Panchayats to deliver improved governance, infrastructure, public services and inclusive rural development in line with the vision of Viksit Bharat@2047. The deliberations will focus on the provisions of the operational guidelines governing the release and utilization of Finance Commission grants, compliance requirements, grant release procedures, institutional preparedness and mechanisms for ensuring timely and effective utilization of funds by PRIs to strengthen fiscal decentralization across the country.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T13:21:52+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-panchayati-raj-will-organize-national-workshop-of-state-panchayati-raj-ministers/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "breaking": [
       {
         "title": "Government to expand oil refining capacity to 300 million metric tonnes amid West Asia crisis",
         "summary": "Petroleum and Natural Gas Minister Hardeep Singh Puri today said that India is rapidly expanding its refinery capacity. Addressing a press conference in New Delhi, Mr Puri informed that in the next six to twelve months the country&#8217;s refining capacity will be brought to 300 million metric tonnes per annum. He said that the first […]",
@@ -144,30 +76,8 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T15:32:54+00:00",
         "link": "https://newsonair.gov.in/government-to-expand-oil-refining-capacity-to-300-million-metric-tonnes-amid-west-asia-crisis/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Western_Asia_%28orthographic_projection%29.svg/1280px-Western_Asia_%28orthographic_projection%29.svg.png",
-        "image_credit": "Wikipedia – West Asia (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi says India’s speed, Japan’s expertise will drive global growth",
-        "summary": "Prime Minister Narendra Modi has said that India-Japan relations are truly very special and there are many shining examples of the success of the economic partnership. Addressing the India-Japan Joint Economic Forum in New Delhi this evening, Mr Modi said, when Japan&#8217;s expertise and investment combine with India&#8217;s speed and scale, the entire world benefits. […]",
-        "article": "Prime Minister Narendra Modi has said that India-Japan relations are truly very special and there are many shining examples of the success of the economic partnership. Addressing the India-Japan Joint Economic Forum in New Delhi this evening, Mr Modi said, when Japan&#8217;s expertise and investment combine with India&#8217;s speed and scale, the entire world benefits. He said, both sides today decided to make the partnership even more dynamic and profound. The Prime Minister said, India and Japan today reached agreements on several areas, such as economic security, AI, defence and health, that will make the partnership futuristic and limitless. Mr Modi said today the economic world is suffering through supply chain blockades, trade uncertainty and a drop in global demand. He said India is the world&#8217;s fastest-growing major economy, and in the last financial year, India&#8217;s GDP growth was 7.7 per cent. The Prime Minister said that, in the last 12 years, in India, while adopting the Kaizen philosophy, the Government has transformed the economic DNA. He said a few months ago, India implemented next-generation reforms in taxation, governance, and ease of doing business. Mr Modi said it is opening up several sectors for the private sector and providing incentives in many important sectors, which all can benefit from. The Prime Minister said that is why, for the past four consecutive years, surveys by the Japan Bank for International Cooperation JBIC have shown that India remains the most promising destination for Japanese business. In her address, Prime Minister of Japan, Sanae Takaichi, said that, among the many areas of cooperation, energy security is one of the most important areas. She said, at the recent G7 Summit, she had presented three proposals to strengthen energy security: ensuring free and transparent energy trade, announcing strategic energy stockpiles, and promoting cooperation between producing and consuming countries. Ms Takaichi said that, through the Power Asia Initiative, it is working to translate this vision into concrete action. On the occasion, both Prime Ministers jointly inaugurated Maruti Suzuki&#8217;s 4th Vehicle Manufacturing Facility at Kharkhoda in Haryana.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:54:35+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-says-indias-speed-japans-expertise-will-drive-global-growth/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Japan announce energy partnership to strengthen strategic oil reserves and maritime transport resilience",
-        "summary": "India and Japan today agreed to deepen cooperation on strategic crude oil stockpiling, petroleum reserve mechanisms, and maritime energy transport value chains. It comes after annual summit-level talks between Prime Minister Narendra Modi and his Japanese counterpart Sanae Takaichi in New Delhi this afternoon. According to a joint statement issued by the Ministry of Petroleum […]",
-        "article": "India and Japan today agreed to deepen cooperation on strategic crude oil stockpiling, petroleum reserve mechanisms, and maritime energy transport value chains. It comes after annual summit-level talks between Prime Minister Narendra Modi and his Japanese counterpart Sanae Takaichi in New Delhi this afternoon. According to a joint statement issued by the Ministry of Petroleum and Natural Gas of India and Japan&#8217;s Ministry of Economy, Trade and Industry on Energy Resilience, both sides expressed their shared intention to work as responsible powers and major energy-consuming countries in Asia to strengthen energy resilience amid current geopolitical uncertainties. The two sides agreed to cooperate on the strategic stockpiling ecosystem, including sharing knowledge and experience on crude oil and petroleum product reserves, coordination with producing countries, and mechanisms for emergency response and market stabilisation.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:39:48+00:00",
-        "link": "https://newsonair.gov.in/india-and-japan-announce-energy-partnership-to-strengthen-strategic-oil-reserves-and-maritime-transport-resilience/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-174134.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -177,8 +87,8 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T15:17:23+00:00",
         "link": "https://newsonair.gov.in/niti-aayog-vice-chairperson-dr-ashok-kumar-lahiri-calls-for-globalising-ayurveda/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-204623.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -188,8 +98,8 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T15:08:30+00:00",
         "link": "https://newsonair.gov.in/government-debunks-fake-investment-claim-misusing-union-finance-ministers-name/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -199,322 +109,8 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T15:02:22+00:00",
         "link": "https://newsonair.gov.in/indian-naval-ship-trikand-foils-piracy-attempt-on-mv-golden-arsenal-in-gulf-of-aden/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Civil Aviation launches AIR SUVIDHA 2.0 portal for Ebola health screening",
-        "summary": "The Ministry of Civil Aviation today launched the AIR SUVIDHA 2.0 portal for Ebola health screening at points of entry international airports across the country. Developed in collaboration with the Directorate General of Health Services and Delhi International Airport Limited, the upgraded digital platform aims to strengthen health surveillance of international travellers through real-time coordin",
-        "article": "The Ministry of Civil Aviation today launched the AIR SUVIDHA 2.0 portal for Ebola health screening at points of entry international airports across the country. Developed in collaboration with the Directorate General of Health Services and Delhi International Airport Limited, the upgraded digital platform aims to strengthen health surveillance of international travellers through real-time coordination among health, immigration and surveillance agencies for early detection of at-risk passengers. The upgraded AIR SUVIDHA 2.0 introduces a fully contactless and paperless health self-declaration system for international arrivals. Under the new system, international travellers can submit their health self-declaration online up to 24 hours before arrival, facilitating faster immigration clearance while ensuring seamless health screening at points of entry.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T14:34:04+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-civil-aviation-launches-air-suvidha-2-0-portal-for-ebola-health-screening/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Panchayati Raj will organize National Workshop of State Panchayati Raj Ministers",
-        "summary": "Ministry of Panchayati Raj will organize a National Workshop of State Panchayati Raj Ministers in New Delhi tomorrow to deliberate on the recommendations of the Sixteenth Finance Commission. The Workshop will be chaired by Union Minister of Panchayati Raj Rajiv Ranjan Singh (Lalan Singh) in the presence of Union Minister of State Prof. S. P. […]",
-        "article": "Ministry of Panchayati Raj will organize a National Workshop of State Panchayati Raj Ministers in New Delhi tomorrow to deliberate on the recommendations of the Sixteenth Finance Commission. The Workshop will be chaired by Union Minister of Panchayati Raj Rajiv Ranjan Singh (Lalan Singh) in the presence of Union Minister of State Prof. S. P. Singh Baghel. During the workshop, the discussions will focus on the Operational Guidelines for implementation of the Sixteenth Finance Commission Rural Local Body Grants, issued by the Department of Expenditure, Ministry of Finance. The Workshop will place special emphasis on strengthening the financial sustainability of Panchayati Raj Institutions through enhanced Own Source Revenue (OSR) mobilization. It will also provide a platform for States and Union Territories to share best practices, discuss implementation challenges and exchange practical strategies for effective utilization of Finance Commission grants. The deliberations are expected to strengthen Centre- State collaboration and support the development of a robust implementation framework for empowering Panchayats to deliver improved governance, infrastructure, public services and inclusive rural development in line with the vision of Viksit Bharat@2047. The deliberations will focus on the provisions of the operational guidelines governing the release and utilization of Finance Commission grants, compliance requirements, grant release procedures, institutional preparedness and mechanisms for ensuring timely and effective utilization of funds by PRIs to strengthen fiscal decentralization across the country.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T13:21:52+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-panchayati-raj-will-organize-national-workshop-of-state-panchayati-raj-ministers/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi, Japanese PM Takaichi hold talks, review strong bilateral partnership",
-        "summary": "Prime Minister Narendra Modi and his Japanese counterpart Sanae Takaichi today held talks in New Delhi and reflected on the strong foundation of bilateral ties across multiple areas. Briefing media in New Delhi this evening, Foreign Secretary Vikram Misri said that both leaders recognised that this is a relationship of trust and trust was visible […]",
-        "article": "Prime Minister Narendra Modi and his Japanese counterpart Sanae Takaichi today held talks in New Delhi and reflected on the strong foundation of bilateral ties across multiple areas. Briefing media in New Delhi this evening, Foreign Secretary Vikram Misri said that both leaders recognised that this is a relationship of trust and trust was visible in abundance during the engagements today. He said today&#8217;s engagements have yielded good results in areas including energy security and economic security. The Foreign Secretary said many of the outcomes finalised during the course of the Annual Summit fell in the areas of economic security. He said advanced technology and innovation were also a major focus of discussions today. Mr Misri said, AI is emerging as a major sunrise sector in the cooperation between the two countries. He said next year marks the 75th anniversary of establishment of diplomatic ties and both sides will celebrate the year 2027 as India-Japan Year of Shared Horizons. The Foreign Secretary informed that more than 120 Business to Business B2B MoUs have been signed since the Annual Summit last year. He said, both leaders also acknowledged the role that the Special Strategic and Global Partnership plays in ensuring peace, prosperity, and stability in the Indo-Pacific and beyond.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T12:35:16+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-japanese-pm-takaichi-hold-talks-review-strong-bilateral-partnership/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Coal introduces key reform to provide greater financial flexibility to coal sector",
-        "summary": "The Ministry of Coal has introduced a key reform to provide greater financial flexibility to coal block allocators and further strengthen the ease of doing business in the coal sector. Through the Coal Blocks Allocation (Amendment) Rules, 2026, the Ministry has enabled the use of Insurance Surety Bonds (ISBs) in place of Performance Bank Guarantees […]",
-        "article": "The Ministry of Coal has introduced a key reform to provide greater financial flexibility to coal block allocators and further strengthen the ease of doing business in the coal sector. Through the Coal Blocks Allocation (Amendment) Rules, 2026, the Ministry has enabled the use of Insurance Surety Bonds (ISBs) in place of Performance Bank Guarantees (PBGs) for coal blocks allocated under the Mines and Minerals (Development and Regulation) Act, 1957. The Ministry said that the amended framework allows coal block allocators to choose between a Performance Bank Guarantee and an Insurance Surety Bond for fulfilling their performance security obligations. It added that the framework extends this flexibility to existing allocations, enabling them to replace PBGs already furnished with ISBs in accordance with the prescribed conditions. The Ministry emphasized that the measure is aimed at easing the financial burden associated with conventional bank guarantee arrangements and enable coal block allocators to deploy their capital more efficiently for mine development and operational activities.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T12:21:10+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-coal-introduces-key-reform-to-provide-greater-financial-flexibility-to-coal-sector/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "national": [
-      {
-        "title": "Government to expand oil refining capacity to 300 million metric tonnes amid West Asia crisis",
-        "summary": "Petroleum and Natural Gas Minister Hardeep Singh Puri today said that India is rapidly expanding its refinery capacity. Addressing a press conference in New Delhi, Mr Puri informed that in the next six to twelve months the country&#8217;s refining capacity will be brought to 300 million metric tonnes per annum. He said that the first […]",
-        "article": "Petroleum and Natural Gas Minister Hardeep Singh Puri today said that India is rapidly expanding its refinery capacity. Addressing a press conference in New Delhi, Mr Puri informed that in the next six to twelve months the country&#8217;s refining capacity will be brought to 300 million metric tonnes per annum. He said that the first Greenfield refinery is being established after a gap of 10 years. Talking about India’s handling of the situation during the West Asia crisis, Mr Puri said that for a long time the government controlled the prices of petrol and diesel and reduced the duties imposed on them. He said that the government always prioritized and focused on the interest of the citizens. The minister said that price of petrol has increased by only 5.58 percent in the last four years, and diesel by 6.23 percent. There has been no increase in the price of fuel for consumers and government&#8217;s fiscal system absorbed the hike in crude oil prices.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:32:54+00:00",
-        "link": "https://newsonair.gov.in/government-to-expand-oil-refining-capacity-to-300-million-metric-tonnes-amid-west-asia-crisis/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Western_Asia_%28orthographic_projection%29.svg/1280px-Western_Asia_%28orthographic_projection%29.svg.png",
-        "image_credit": "Wikipedia – West Asia (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi says India’s speed, Japan’s expertise will drive global growth",
-        "summary": "Prime Minister Narendra Modi has said that India-Japan relations are truly very special and there are many shining examples of the success of the economic partnership. Addressing the India-Japan Joint Economic Forum in New Delhi this evening, Mr Modi said, when Japan&#8217;s expertise and investment combine with India&#8217;s speed and scale, the entire world benefits. […]",
-        "article": "Prime Minister Narendra Modi has said that India-Japan relations are truly very special and there are many shining examples of the success of the economic partnership. Addressing the India-Japan Joint Economic Forum in New Delhi this evening, Mr Modi said, when Japan&#8217;s expertise and investment combine with India&#8217;s speed and scale, the entire world benefits. He said, both sides today decided to make the partnership even more dynamic and profound. The Prime Minister said, India and Japan today reached agreements on several areas, such as economic security, AI, defence and health, that will make the partnership futuristic and limitless. Mr Modi said today the economic world is suffering through supply chain blockades, trade uncertainty and a drop in global demand. He said India is the world&#8217;s fastest-growing major economy, and in the last financial year, India&#8217;s GDP growth was 7.7 per cent. The Prime Minister said that, in the last 12 years, in India, while adopting the Kaizen philosophy, the Government has transformed the economic DNA. He said a few months ago, India implemented next-generation reforms in taxation, governance, and ease of doing business. Mr Modi said it is opening up several sectors for the private sector and providing incentives in many important sectors, which all can benefit from. The Prime Minister said that is why, for the past four consecutive years, surveys by the Japan Bank for International Cooperation JBIC have shown that India remains the most promising destination for Japanese business. In her address, Prime Minister of Japan, Sanae Takaichi, said that, among the many areas of cooperation, energy security is one of the most important areas. She said, at the recent G7 Summit, she had presented three proposals to strengthen energy security: ensuring free and transparent energy trade, announcing strategic energy stockpiles, and promoting cooperation between producing and consuming countries. Ms Takaichi said that, through the Power Asia Initiative, it is working to translate this vision into concrete action. On the occasion, both Prime Ministers jointly inaugurated Maruti Suzuki&#8217;s 4th Vehicle Manufacturing Facility at Kharkhoda in Haryana.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:54:35+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-says-indias-speed-japans-expertise-will-drive-global-growth/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Japan announce energy partnership to strengthen strategic oil reserves and maritime transport resilience",
-        "summary": "India and Japan today agreed to deepen cooperation on strategic crude oil stockpiling, petroleum reserve mechanisms, and maritime energy transport value chains. It comes after annual summit-level talks between Prime Minister Narendra Modi and his Japanese counterpart Sanae Takaichi in New Delhi this afternoon. According to a joint statement issued by the Ministry of Petroleum […]",
-        "article": "India and Japan today agreed to deepen cooperation on strategic crude oil stockpiling, petroleum reserve mechanisms, and maritime energy transport value chains. It comes after annual summit-level talks between Prime Minister Narendra Modi and his Japanese counterpart Sanae Takaichi in New Delhi this afternoon. According to a joint statement issued by the Ministry of Petroleum and Natural Gas of India and Japan&#8217;s Ministry of Economy, Trade and Industry on Energy Resilience, both sides expressed their shared intention to work as responsible powers and major energy-consuming countries in Asia to strengthen energy resilience amid current geopolitical uncertainties. The two sides agreed to cooperate on the strategic stockpiling ecosystem, including sharing knowledge and experience on crude oil and petroleum product reserves, coordination with producing countries, and mechanisms for emergency response and market stabilisation.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:39:48+00:00",
-        "link": "https://newsonair.gov.in/india-and-japan-announce-energy-partnership-to-strengthen-strategic-oil-reserves-and-maritime-transport-resilience/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NITI Aayog Vice Chairperson Dr Ashok Kumar Lahiri calls for Globalising Ayurveda",
-        "summary": "Vice Chairperson of NITI Aayog Dr Ashok Kumar Lahiri today said that globalising Ayurveda is essential not only for promoting India&#8217;s traditional knowledge but also for creating jobs, boosting exports and strengthening the country&#8217;s soft power. While releasing a report on Strategic Roadmap for Making Ayurveda Global in New Delhi, NITI Aayog Vice Chairperson, Mr […]",
-        "article": "Vice Chairperson of NITI Aayog Dr Ashok Kumar Lahiri today said that globalising Ayurveda is essential not only for promoting India&#8217;s traditional knowledge but also for creating jobs, boosting exports and strengthening the country&#8217;s soft power. While releasing a report on Strategic Roadmap for Making Ayurveda Global in New Delhi, NITI Aayog Vice Chairperson, Mr Lahiri stressed that scientific validation and evidence-based research are crucial for enhancing the global credibility of Ayurveda. Emphasising that future generations will seek scientific proof rather than rely solely on tradition, he called for rigorous testing and research. He said the initiative would help position Ayurveda as a trusted healthcare system worldwide and reaffirm India&#8217;s civilisational heritage. Secretary, Ministry of Ayush, Vaidya Rajesh Kotecha said that India&#8217;s traditional medicine sector has grown to an estimated 61 billion dollars, with the country&#8217;s share in the global traditional medicine market rising to nearly 10 per cent, according to a recent field-based survey. Secretary said the sector comprises 36 billion dollars in services and 25 billion dollars in manufacturing. He added that continued policy support and stakeholder collaboration would further strengthen India&#8217;s position as a global leader in traditional medicine.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:17:23+00:00",
-        "link": "https://newsonair.gov.in/niti-aayog-vice-chairperson-dr-ashok-kumar-lahiri-calls-for-globalising-ayurveda/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Government debunks fake investment claim misusing Union Finance Minister’s name",
-        "summary": "The Government has debunked a claim circulating on social media that the Union Finance Minister is promoting an investment platform and promising citizens a monthly income of over 20 lakh rupees in return for an initial investment of 22 thousand rupees. The Fact Check Unit of the Press Information Bureau said that the claim is […]",
-        "article": "The Government has debunked a claim circulating on social media that the Union Finance Minister is promoting an investment platform and promising citizens a monthly income of over 20 lakh rupees in return for an initial investment of 22 thousand rupees. The Fact Check Unit of the Press Information Bureau said that the claim is fake. It said that the Finance Minister has not endorsed any such investment scheme or platform. The Press Information Bureau has advised citizen to beware of unverified links or platforms that aim to deceive people and cause financial losses.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:08:30+00:00",
-        "link": "https://newsonair.gov.in/government-debunks-fake-investment-claim-misusing-union-finance-ministers-name/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Indian Naval Ship Trikand foils piracy attempt on MV Golden Arsenal in Gulf of Aden",
-        "summary": "Indian Naval Ship Trikand has successfully responded to a piracy attempt on merchant vessel MV Golden Arsenal in the Gulf of Aden. The vessel, while transiting from Aden in Yemen, reported an attempted pirate attack around 300 nautical miles east-northeast of Djibouti. The incident was reported through the Information Fusion Centre-Indian Ocean Region, following which […]",
-        "article": "Indian Naval Ship Trikand has successfully responded to a piracy attempt on merchant vessel MV Golden Arsenal in the Gulf of Aden. The vessel, while transiting from Aden in Yemen, reported an attempted pirate attack around 300 nautical miles east-northeast of Djibouti. The incident was reported through the Information Fusion Centre-Indian Ocean Region, following which INS Trikand, deployed in the region, was tasked to intercept the merchant vessel. The vessel, carrying 21 crew members, including one Indian national, sustained damage to the bridge superstructure and adjoining compartments. The crew took shelter in the vessel&#8217;s citadel and were reported safe. To augment the operation, the Indian Navy deployed a P-8I maritime patrol aircraft for aerial surveillance and reconnaissance, enhancing maritime domain awareness and supporting the anti-piracy response. The Ministry said that with the vessel sanitised and the immediate threat neutralised, the anti-piracy operation by INS Trikand has concluded. MV Golden Arsenal has resumed its onward voyage. The Indian Navy reaffirmed its commitment to safeguarding merchant shipping, countering piracy and ensuring the safety and security of all seafarers in the region, irrespective of nationality, as part of its continued commitment to maritime security in the Indian Ocean Region.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:02:22+00:00",
-        "link": "https://newsonair.gov.in/indian-naval-ship-trikand-foils-piracy-attempt-on-mv-golden-arsenal-in-gulf-of-aden/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Civil Aviation launches AIR SUVIDHA 2.0 portal for Ebola health screening",
-        "summary": "The Ministry of Civil Aviation today launched the AIR SUVIDHA 2.0 portal for Ebola health screening at points of entry international airports across the country. Developed in collaboration with the Directorate General of Health Services and Delhi International Airport Limited, the upgraded digital platform aims to strengthen health surveillance of international travellers through real-time coordin",
-        "article": "The Ministry of Civil Aviation today launched the AIR SUVIDHA 2.0 portal for Ebola health screening at points of entry international airports across the country. Developed in collaboration with the Directorate General of Health Services and Delhi International Airport Limited, the upgraded digital platform aims to strengthen health surveillance of international travellers through real-time coordination among health, immigration and surveillance agencies for early detection of at-risk passengers. The upgraded AIR SUVIDHA 2.0 introduces a fully contactless and paperless health self-declaration system for international arrivals. Under the new system, international travellers can submit their health self-declaration online up to 24 hours before arrival, facilitating faster immigration clearance while ensuring seamless health screening at points of entry.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T14:34:04+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-civil-aviation-launches-air-suvidha-2-0-portal-for-ebola-health-screening/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Panchayati Raj will organize National Workshop of State Panchayati Raj Ministers",
-        "summary": "Ministry of Panchayati Raj will organize a National Workshop of State Panchayati Raj Ministers in New Delhi tomorrow to deliberate on the recommendations of the Sixteenth Finance Commission. The Workshop will be chaired by Union Minister of Panchayati Raj Rajiv Ranjan Singh (Lalan Singh) in the presence of Union Minister of State Prof. S. P. […]",
-        "article": "Ministry of Panchayati Raj will organize a National Workshop of State Panchayati Raj Ministers in New Delhi tomorrow to deliberate on the recommendations of the Sixteenth Finance Commission. The Workshop will be chaired by Union Minister of Panchayati Raj Rajiv Ranjan Singh (Lalan Singh) in the presence of Union Minister of State Prof. S. P. Singh Baghel. During the workshop, the discussions will focus on the Operational Guidelines for implementation of the Sixteenth Finance Commission Rural Local Body Grants, issued by the Department of Expenditure, Ministry of Finance. The Workshop will place special emphasis on strengthening the financial sustainability of Panchayati Raj Institutions through enhanced Own Source Revenue (OSR) mobilization. It will also provide a platform for States and Union Territories to share best practices, discuss implementation challenges and exchange practical strategies for effective utilization of Finance Commission grants. The deliberations are expected to strengthen Centre- State collaboration and support the development of a robust implementation framework for empowering Panchayats to deliver improved governance, infrastructure, public services and inclusive rural development in line with the vision of Viksit Bharat@2047. The deliberations will focus on the provisions of the operational guidelines governing the release and utilization of Finance Commission grants, compliance requirements, grant release procedures, institutional preparedness and mechanisms for ensuring timely and effective utilization of funds by PRIs to strengthen fiscal decentralization across the country.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T13:21:52+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-panchayati-raj-will-organize-national-workshop-of-state-panchayati-raj-ministers/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi, Japanese PM Takaichi hold talks, review strong bilateral partnership",
-        "summary": "Prime Minister Narendra Modi and his Japanese counterpart Sanae Takaichi today held talks in New Delhi and reflected on the strong foundation of bilateral ties across multiple areas. Briefing media in New Delhi this evening, Foreign Secretary Vikram Misri said that both leaders recognised that this is a relationship of trust and trust was visible […]",
-        "article": "Prime Minister Narendra Modi and his Japanese counterpart Sanae Takaichi today held talks in New Delhi and reflected on the strong foundation of bilateral ties across multiple areas. Briefing media in New Delhi this evening, Foreign Secretary Vikram Misri said that both leaders recognised that this is a relationship of trust and trust was visible in abundance during the engagements today. He said today&#8217;s engagements have yielded good results in areas including energy security and economic security. The Foreign Secretary said many of the outcomes finalised during the course of the Annual Summit fell in the areas of economic security. He said advanced technology and innovation were also a major focus of discussions today. Mr Misri said, AI is emerging as a major sunrise sector in the cooperation between the two countries. He said next year marks the 75th anniversary of establishment of diplomatic ties and both sides will celebrate the year 2027 as India-Japan Year of Shared Horizons. The Foreign Secretary informed that more than 120 Business to Business B2B MoUs have been signed since the Annual Summit last year. He said, both leaders also acknowledged the role that the Special Strategic and Global Partnership plays in ensuring peace, prosperity, and stability in the Indo-Pacific and beyond.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T12:35:16+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-japanese-pm-takaichi-hold-talks-review-strong-bilateral-partnership/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Coal introduces key reform to provide greater financial flexibility to coal sector",
-        "summary": "The Ministry of Coal has introduced a key reform to provide greater financial flexibility to coal block allocators and further strengthen the ease of doing business in the coal sector. Through the Coal Blocks Allocation (Amendment) Rules, 2026, the Ministry has enabled the use of Insurance Surety Bonds (ISBs) in place of Performance Bank Guarantees […]",
-        "article": "The Ministry of Coal has introduced a key reform to provide greater financial flexibility to coal block allocators and further strengthen the ease of doing business in the coal sector. Through the Coal Blocks Allocation (Amendment) Rules, 2026, the Ministry has enabled the use of Insurance Surety Bonds (ISBs) in place of Performance Bank Guarantees (PBGs) for coal blocks allocated under the Mines and Minerals (Development and Regulation) Act, 1957. The Ministry said that the amended framework allows coal block allocators to choose between a Performance Bank Guarantee and an Insurance Surety Bond for fulfilling their performance security obligations. It added that the framework extends this flexibility to existing allocations, enabling them to replace PBGs already furnished with ISBs in accordance with the prescribed conditions. The Ministry emphasized that the measure is aimed at easing the financial burden associated with conventional bank guarantee arrangements and enable coal block allocators to deploy their capital more efficiently for mine development and operational activities.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T12:21:10+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-coal-introduces-key-reform-to-provide-greater-financial-flexibility-to-coal-sector/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "politics": [
-      {
-        "title": "Government to expand oil refining capacity to 300 million metric tonnes amid West Asia crisis",
-        "summary": "Petroleum and Natural Gas Minister Hardeep Singh Puri today said that India is rapidly expanding its refinery capacity. Addressing a press conference in New Delhi, Mr Puri informed that in the next six to twelve months the country&#8217;s refining capacity will be brought to 300 million metric tonnes per annum. He said that the first […]",
-        "article": "Petroleum and Natural Gas Minister Hardeep Singh Puri today said that India is rapidly expanding its refinery capacity. Addressing a press conference in New Delhi, Mr Puri informed that in the next six to twelve months the country&#8217;s refining capacity will be brought to 300 million metric tonnes per annum. He said that the first Greenfield refinery is being established after a gap of 10 years. Talking about India’s handling of the situation during the West Asia crisis, Mr Puri said that for a long time the government controlled the prices of petrol and diesel and reduced the duties imposed on them. He said that the government always prioritized and focused on the interest of the citizens. The minister said that price of petrol has increased by only 5.58 percent in the last four years, and diesel by 6.23 percent. There has been no increase in the price of fuel for consumers and government&#8217;s fiscal system absorbed the hike in crude oil prices.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:32:54+00:00",
-        "link": "https://newsonair.gov.in/government-to-expand-oil-refining-capacity-to-300-million-metric-tonnes-amid-west-asia-crisis/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Western_Asia_%28orthographic_projection%29.svg/1280px-Western_Asia_%28orthographic_projection%29.svg.png",
-        "image_credit": "Wikipedia – West Asia (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi says India’s speed, Japan’s expertise will drive global growth",
-        "summary": "Prime Minister Narendra Modi has said that India-Japan relations are truly very special and there are many shining examples of the success of the economic partnership. Addressing the India-Japan Joint Economic Forum in New Delhi this evening, Mr Modi said, when Japan&#8217;s expertise and investment combine with India&#8217;s speed and scale, the entire world benefits. […]",
-        "article": "Prime Minister Narendra Modi has said that India-Japan relations are truly very special and there are many shining examples of the success of the economic partnership. Addressing the India-Japan Joint Economic Forum in New Delhi this evening, Mr Modi said, when Japan&#8217;s expertise and investment combine with India&#8217;s speed and scale, the entire world benefits. He said, both sides today decided to make the partnership even more dynamic and profound. The Prime Minister said, India and Japan today reached agreements on several areas, such as economic security, AI, defence and health, that will make the partnership futuristic and limitless. Mr Modi said today the economic world is suffering through supply chain blockades, trade uncertainty and a drop in global demand. He said India is the world&#8217;s fastest-growing major economy, and in the last financial year, India&#8217;s GDP growth was 7.7 per cent. The Prime Minister said that, in the last 12 years, in India, while adopting the Kaizen philosophy, the Government has transformed the economic DNA. He said a few months ago, India implemented next-generation reforms in taxation, governance, and ease of doing business. Mr Modi said it is opening up several sectors for the private sector and providing incentives in many important sectors, which all can benefit from. The Prime Minister said that is why, for the past four consecutive years, surveys by the Japan Bank for International Cooperation JBIC have shown that India remains the most promising destination for Japanese business. In her address, Prime Minister of Japan, Sanae Takaichi, said that, among the many areas of cooperation, energy security is one of the most important areas. She said, at the recent G7 Summit, she had presented three proposals to strengthen energy security: ensuring free and transparent energy trade, announcing strategic energy stockpiles, and promoting cooperation between producing and consuming countries. Ms Takaichi said that, through the Power Asia Initiative, it is working to translate this vision into concrete action. On the occasion, both Prime Ministers jointly inaugurated Maruti Suzuki&#8217;s 4th Vehicle Manufacturing Facility at Kharkhoda in Haryana.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:54:35+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-says-indias-speed-japans-expertise-will-drive-global-growth/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Japan announce energy partnership to strengthen strategic oil reserves and maritime transport resilience",
-        "summary": "India and Japan today agreed to deepen cooperation on strategic crude oil stockpiling, petroleum reserve mechanisms, and maritime energy transport value chains. It comes after annual summit-level talks between Prime Minister Narendra Modi and his Japanese counterpart Sanae Takaichi in New Delhi this afternoon. According to a joint statement issued by the Ministry of Petroleum […]",
-        "article": "India and Japan today agreed to deepen cooperation on strategic crude oil stockpiling, petroleum reserve mechanisms, and maritime energy transport value chains. It comes after annual summit-level talks between Prime Minister Narendra Modi and his Japanese counterpart Sanae Takaichi in New Delhi this afternoon. According to a joint statement issued by the Ministry of Petroleum and Natural Gas of India and Japan&#8217;s Ministry of Economy, Trade and Industry on Energy Resilience, both sides expressed their shared intention to work as responsible powers and major energy-consuming countries in Asia to strengthen energy resilience amid current geopolitical uncertainties. The two sides agreed to cooperate on the strategic stockpiling ecosystem, including sharing knowledge and experience on crude oil and petroleum product reserves, coordination with producing countries, and mechanisms for emergency response and market stabilisation.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:39:48+00:00",
-        "link": "https://newsonair.gov.in/india-and-japan-announce-energy-partnership-to-strengthen-strategic-oil-reserves-and-maritime-transport-resilience/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NITI Aayog Vice Chairperson Dr Ashok Kumar Lahiri calls for Globalising Ayurveda",
-        "summary": "Vice Chairperson of NITI Aayog Dr Ashok Kumar Lahiri today said that globalising Ayurveda is essential not only for promoting India&#8217;s traditional knowledge but also for creating jobs, boosting exports and strengthening the country&#8217;s soft power. While releasing a report on Strategic Roadmap for Making Ayurveda Global in New Delhi, NITI Aayog Vice Chairperson, Mr […]",
-        "article": "Vice Chairperson of NITI Aayog Dr Ashok Kumar Lahiri today said that globalising Ayurveda is essential not only for promoting India&#8217;s traditional knowledge but also for creating jobs, boosting exports and strengthening the country&#8217;s soft power. While releasing a report on Strategic Roadmap for Making Ayurveda Global in New Delhi, NITI Aayog Vice Chairperson, Mr Lahiri stressed that scientific validation and evidence-based research are crucial for enhancing the global credibility of Ayurveda. Emphasising that future generations will seek scientific proof rather than rely solely on tradition, he called for rigorous testing and research. He said the initiative would help position Ayurveda as a trusted healthcare system worldwide and reaffirm India&#8217;s civilisational heritage. Secretary, Ministry of Ayush, Vaidya Rajesh Kotecha said that India&#8217;s traditional medicine sector has grown to an estimated 61 billion dollars, with the country&#8217;s share in the global traditional medicine market rising to nearly 10 per cent, according to a recent field-based survey. Secretary said the sector comprises 36 billion dollars in services and 25 billion dollars in manufacturing. He added that continued policy support and stakeholder collaboration would further strengthen India&#8217;s position as a global leader in traditional medicine.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:17:23+00:00",
-        "link": "https://newsonair.gov.in/niti-aayog-vice-chairperson-dr-ashok-kumar-lahiri-calls-for-globalising-ayurveda/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Government debunks fake investment claim misusing Union Finance Minister’s name",
-        "summary": "The Government has debunked a claim circulating on social media that the Union Finance Minister is promoting an investment platform and promising citizens a monthly income of over 20 lakh rupees in return for an initial investment of 22 thousand rupees. The Fact Check Unit of the Press Information Bureau said that the claim is […]",
-        "article": "The Government has debunked a claim circulating on social media that the Union Finance Minister is promoting an investment platform and promising citizens a monthly income of over 20 lakh rupees in return for an initial investment of 22 thousand rupees. The Fact Check Unit of the Press Information Bureau said that the claim is fake. It said that the Finance Minister has not endorsed any such investment scheme or platform. The Press Information Bureau has advised citizen to beware of unverified links or platforms that aim to deceive people and cause financial losses.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:08:30+00:00",
-        "link": "https://newsonair.gov.in/government-debunks-fake-investment-claim-misusing-union-finance-ministers-name/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Indian Naval Ship Trikand foils piracy attempt on MV Golden Arsenal in Gulf of Aden",
-        "summary": "Indian Naval Ship Trikand has successfully responded to a piracy attempt on merchant vessel MV Golden Arsenal in the Gulf of Aden. The vessel, while transiting from Aden in Yemen, reported an attempted pirate attack around 300 nautical miles east-northeast of Djibouti. The incident was reported through the Information Fusion Centre-Indian Ocean Region, following which […]",
-        "article": "Indian Naval Ship Trikand has successfully responded to a piracy attempt on merchant vessel MV Golden Arsenal in the Gulf of Aden. The vessel, while transiting from Aden in Yemen, reported an attempted pirate attack around 300 nautical miles east-northeast of Djibouti. The incident was reported through the Information Fusion Centre-Indian Ocean Region, following which INS Trikand, deployed in the region, was tasked to intercept the merchant vessel. The vessel, carrying 21 crew members, including one Indian national, sustained damage to the bridge superstructure and adjoining compartments. The crew took shelter in the vessel&#8217;s citadel and were reported safe. To augment the operation, the Indian Navy deployed a P-8I maritime patrol aircraft for aerial surveillance and reconnaissance, enhancing maritime domain awareness and supporting the anti-piracy response. The Ministry said that with the vessel sanitised and the immediate threat neutralised, the anti-piracy operation by INS Trikand has concluded. MV Golden Arsenal has resumed its onward voyage. The Indian Navy reaffirmed its commitment to safeguarding merchant shipping, countering piracy and ensuring the safety and security of all seafarers in the region, irrespective of nationality, as part of its continued commitment to maritime security in the Indian Ocean Region.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:02:22+00:00",
-        "link": "https://newsonair.gov.in/indian-naval-ship-trikand-foils-piracy-attempt-on-mv-golden-arsenal-in-gulf-of-aden/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Civil Aviation launches AIR SUVIDHA 2.0 portal for Ebola health screening",
-        "summary": "The Ministry of Civil Aviation today launched the AIR SUVIDHA 2.0 portal for Ebola health screening at points of entry international airports across the country. Developed in collaboration with the Directorate General of Health Services and Delhi International Airport Limited, the upgraded digital platform aims to strengthen health surveillance of international travellers through real-time coordin",
-        "article": "The Ministry of Civil Aviation today launched the AIR SUVIDHA 2.0 portal for Ebola health screening at points of entry international airports across the country. Developed in collaboration with the Directorate General of Health Services and Delhi International Airport Limited, the upgraded digital platform aims to strengthen health surveillance of international travellers through real-time coordination among health, immigration and surveillance agencies for early detection of at-risk passengers. The upgraded AIR SUVIDHA 2.0 introduces a fully contactless and paperless health self-declaration system for international arrivals. Under the new system, international travellers can submit their health self-declaration online up to 24 hours before arrival, facilitating faster immigration clearance while ensuring seamless health screening at points of entry.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T14:34:04+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-civil-aviation-launches-air-suvidha-2-0-portal-for-ebola-health-screening/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Panchayati Raj will organize National Workshop of State Panchayati Raj Ministers",
-        "summary": "Ministry of Panchayati Raj will organize a National Workshop of State Panchayati Raj Ministers in New Delhi tomorrow to deliberate on the recommendations of the Sixteenth Finance Commission. The Workshop will be chaired by Union Minister of Panchayati Raj Rajiv Ranjan Singh (Lalan Singh) in the presence of Union Minister of State Prof. S. P. […]",
-        "article": "Ministry of Panchayati Raj will organize a National Workshop of State Panchayati Raj Ministers in New Delhi tomorrow to deliberate on the recommendations of the Sixteenth Finance Commission. The Workshop will be chaired by Union Minister of Panchayati Raj Rajiv Ranjan Singh (Lalan Singh) in the presence of Union Minister of State Prof. S. P. Singh Baghel. During the workshop, the discussions will focus on the Operational Guidelines for implementation of the Sixteenth Finance Commission Rural Local Body Grants, issued by the Department of Expenditure, Ministry of Finance. The Workshop will place special emphasis on strengthening the financial sustainability of Panchayati Raj Institutions through enhanced Own Source Revenue (OSR) mobilization. It will also provide a platform for States and Union Territories to share best practices, discuss implementation challenges and exchange practical strategies for effective utilization of Finance Commission grants. The deliberations are expected to strengthen Centre- State collaboration and support the development of a robust implementation framework for empowering Panchayats to deliver improved governance, infrastructure, public services and inclusive rural development in line with the vision of Viksit Bharat@2047. The deliberations will focus on the provisions of the operational guidelines governing the release and utilization of Finance Commission grants, compliance requirements, grant release procedures, institutional preparedness and mechanisms for ensuring timely and effective utilization of funds by PRIs to strengthen fiscal decentralization across the country.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T13:21:52+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-panchayati-raj-will-organize-national-workshop-of-state-panchayati-raj-ministers/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi, Japanese PM Takaichi hold talks, review strong bilateral partnership",
-        "summary": "Prime Minister Narendra Modi and his Japanese counterpart Sanae Takaichi today held talks in New Delhi and reflected on the strong foundation of bilateral ties across multiple areas. Briefing media in New Delhi this evening, Foreign Secretary Vikram Misri said that both leaders recognised that this is a relationship of trust and trust was visible […]",
-        "article": "Prime Minister Narendra Modi and his Japanese counterpart Sanae Takaichi today held talks in New Delhi and reflected on the strong foundation of bilateral ties across multiple areas. Briefing media in New Delhi this evening, Foreign Secretary Vikram Misri said that both leaders recognised that this is a relationship of trust and trust was visible in abundance during the engagements today. He said today&#8217;s engagements have yielded good results in areas including energy security and economic security. The Foreign Secretary said many of the outcomes finalised during the course of the Annual Summit fell in the areas of economic security. He said advanced technology and innovation were also a major focus of discussions today. Mr Misri said, AI is emerging as a major sunrise sector in the cooperation between the two countries. He said next year marks the 75th anniversary of establishment of diplomatic ties and both sides will celebrate the year 2027 as India-Japan Year of Shared Horizons. The Foreign Secretary informed that more than 120 Business to Business B2B MoUs have been signed since the Annual Summit last year. He said, both leaders also acknowledged the role that the Special Strategic and Global Partnership plays in ensuring peace, prosperity, and stability in the Indo-Pacific and beyond.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T12:35:16+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-japanese-pm-takaichi-hold-talks-review-strong-bilateral-partnership/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Coal introduces key reform to provide greater financial flexibility to coal sector",
-        "summary": "The Ministry of Coal has introduced a key reform to provide greater financial flexibility to coal block allocators and further strengthen the ease of doing business in the coal sector. Through the Coal Blocks Allocation (Amendment) Rules, 2026, the Ministry has enabled the use of Insurance Surety Bonds (ISBs) in place of Performance Bank Guarantees […]",
-        "article": "The Ministry of Coal has introduced a key reform to provide greater financial flexibility to coal block allocators and further strengthen the ease of doing business in the coal sector. Through the Coal Blocks Allocation (Amendment) Rules, 2026, the Ministry has enabled the use of Insurance Surety Bonds (ISBs) in place of Performance Bank Guarantees (PBGs) for coal blocks allocated under the Mines and Minerals (Development and Regulation) Act, 1957. The Ministry said that the amended framework allows coal block allocators to choose between a Performance Bank Guarantee and an Insurance Surety Bond for fulfilling their performance security obligations. It added that the framework extends this flexibility to existing allocations, enabling them to replace PBGs already furnished with ISBs in accordance with the prescribed conditions. The Ministry emphasized that the measure is aimed at easing the financial burden associated with conventional bank guarantee arrangements and enable coal block allocators to deploy their capital more efficiently for mine development and operational activities.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T12:21:10+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-coal-introduces-key-reform-to-provide-greater-financial-flexibility-to-coal-sector/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "world": [
-      {
-        "title": "Wildfires rage across Southern France amid record heat and dry weather",
-        "summary": "Wildfires raged in the south of France today after weeks of dry weather and record temperatures across the country, devastating large swaths of land. The biggest fire spread in the Aude and Herault regions, where up to 800 firefighters and 150 vehicles were deployed to tackle the flames that ran over 2,200 acres. Further fires […]",
-        "article": "Wildfires raged in the south of France today after weeks of dry weather and record temperatures across the country, devastating large swaths of land. The biggest fire spread in the Aude and Herault regions, where up to 800 firefighters and 150 vehicles were deployed to tackle the flames that ran over 2,200 acres. Further fires broke out in the neighbouring Marseille region, where two blazes were brought under control, but not yet extinguished. Alain Bucquet, the Aude prefect, said fire services will receive support from two additional water-bomber aircraft, bringing the total number of Canadair planes on the site to four. The Aude is regularly hit by wildfires, and firefighters last year contained France&#8217;s largest wildfire in decades in the region. High temperatures are expected in the coming days, and the drought is expected to last, with no rain forecast following the early heatwave in May and the one that gripped France at the end of June.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T12:47:42+00:00",
-        "link": "https://newsonair.gov.in/wildfires-rage-across-southern-france-amid-record-heat-and-dry-weather/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/En-Vau_calanque_4.jpg/1280px-En-Vau_calanque_4.jpg",
-        "image_credit": "Wikipedia – Southern France (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Russian drone and missile attack on Kyiv kills 17, injures over 90",
-        "summary": "Russia launched drone and missile attack on Ukrainian capital overnight killing 17 civilians and injuring more than 90 others. Damage was recorded in 30 locations across Kyiv, mainly residential buildings and civilian infrastructure. Russia&#8217;s Defense Ministry said in a statement the deadly bombardment was in response to Ukraine&#8217;s long-range strikes on its civilian infrastructure. Ukrai",
-        "article": "Russia launched drone and missile attack on Ukrainian capital overnight killing 17 civilians and injuring more than 90 others. Damage was recorded in 30 locations across Kyiv, mainly residential buildings and civilian infrastructure. Russia&#8217;s Defense Ministry said in a statement the deadly bombardment was in response to Ukraine&#8217;s long-range strikes on its civilian infrastructure. Ukraine&#8217;s increasingly frequent and large-scale attacks on Russia, described by President Volodymyr Zelenskyy as a 40-day blitz, have primarily targeted oil refineries, triggering a fuel crisis in Russia more than four years after the war between Kyiv and Moscow began.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T12:17:21+00:00",
-        "link": "https://newsonair.gov.in/russian-drone-and-missile-attack-on-kyiv-kills-17-injures-over-90/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B7_%D1%85%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%2C_%D1%81%D0%B5%D1%80%D0%BF%D0%B5%D0%BD%D1%8C_2019.jpg/1280px-%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B7_%D1%85%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%2C_%D1%81%D0%B5%D1%80%D0%BF%D0%B5%D0%BD%D1%8C_2019.jpg",
-        "image_credit": "Wikipedia – Kyiv (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Romania: Powerful storm kills one, causes widespread damage in Bucharest",
-        "summary": "A powerful storm swept across Romania’s capital, Bucharest, and 20 counties yesterday, leaving one person dead and causing widespread damage. Emergency services said nearly 2,000 calls for assistance were received in Bucharest alone, where several metro stations were flooded. The storm also affected around 60 towns and villages outside the capital, damaging dozens of homes […]",
-        "article": "A powerful storm swept across Romania’s capital, Bucharest, and 20 counties yesterday, leaving one person dead and causing widespread damage. Emergency services said nearly 2,000 calls for assistance were received in Bucharest alone, where several metro stations were flooded. The storm also affected around 60 towns and villages outside the capital, damaging dozens of homes and vehicles. Police and firefighters were deployed across the affected regions to evacuate residents from flooded homes and clear fallen trees and debris. The severe weather followed an intense heat wave earlier this week, with temperatures crossing 40 degrees Celsius in parts of the country, increasing electricity demand and driving up power prices.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T09:19:20+00:00",
-        "link": "https://newsonair.gov.in/romania-powerful-storm-kills-one-causes-widespread-damage-in-bucharest/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bucharest_University_Square_%28cropped%29.jpg/1280px-Bucharest_University_Square_%28cropped%29.jpg",
-        "image_credit": "Wikipedia – Bucharest (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Pakistan: Seven killed, one missing after tourist boat capsizes in Khyber Pakhtunkhwa",
-        "summary": "In Pakistan, Seven people died and one went missing after a tourist boat capsized in Saifullah Lake in Khyber Pakhtunkhwa province. According to the Police, the boat was carrying eight members of a family on a sightseeing trip when it overturned in the Swat district. Rescue teams have recovered seven bodies and are still […]",
-        "article": "In Pakistan, Seven people died and one went missing after a tourist boat capsized in Saifullah Lake in Khyber Pakhtunkhwa province. According to the Police, the boat was carrying eight members of a family on a sightseeing trip when it overturned in the Swat district. Rescue teams have recovered seven bodies and are still searching for the missing person. All the victims were from Pakistan’s Punjab province. Rescue 1122 teams reached the spot and recovered seven bodies from the water near the Mahodand area. Authorities have launched an investigation into the cause of the accident. Khyber Pakhtunkhwa Chief Minister Sohail Afridi has ordered a report and directed officials to take action if any negligence is found. In a separate incident, 14 children died and several others were injured when the roof of a private tuition academy collapsed in Lahore’s Kahna area on Tuesday. Around 20 people were trapped under the debris, and some injured children remain in critical condition. Officials and human rights groups have raised concerns over repeated building collapses in Pakistan, blaming poor construction standards and weak safety checks.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T09:16:44+00:00",
-        "link": "https://newsonair.gov.in/pakistan-seven-killed-one-missing-after-tourist-boat-capsizes-in-khyber-pakhtunkhwa/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/River_Swat%2C_KPK.jpg/1280px-River_Swat%2C_KPK.jpg",
-        "image_credit": "Wikipedia – Khyber Pakhtunkhwa (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMOf8pya8AAz9Km.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -524,8 +120,8 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T13:03:00+00:00",
         "link": "https://newsonair.gov.in/uk-pm-keir-starmer-apologises-for-forced-separation-of-unmarried-mothers-from-their-babies/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-183149.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -535,8 +131,412 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T12:52:35+00:00",
         "link": "https://newsonair.gov.in/taiwan-detects-22-chinese-military-aircraft-near-its-territory/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Akashwani-news.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "breaking": [
+      {
+        "title": "Indian Navy’s Eastern Fleet Ships Reach Singapore’s Changi Naval Base",
+        "summary": "Indian Navy&#8217;s Eastern Fleet Ships Udaygiri, Kavaratti, and Shakti reached the Changi Naval Base in Singapore yesterday. The Ministry of Defence said that the visit exemplifies the strong and long-standing ties between the two navies and forms part of the Indian Navy’s ongoing operational deployment in the South East Asia Region. The Ministry said […]",
+        "article": "Indian Navy&#8217;s Eastern Fleet Ships Udaygiri, Kavaratti, and Shakti reached the Changi Naval Base in Singapore yesterday. The Ministry of Defence said that the visit exemplifies the strong and long-standing ties between the two navies and forms part of the Indian Navy’s ongoing operational deployment in the South East Asia Region. The Ministry said that during the port call the ships will engage with the Republic of Singapore Navy through professional interactions, cross-deck visits, and discussions on issues of mutual maritime interest. Defence Ministry said that India remains committed to fostering collective maritime security, promoting regional cooperation and advancing collaboration among maritime partners.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T16:55:02+00:00",
+        "link": "https://newsonair.gov.in/indian-navys-eastern-fleet-ships-reach-singapores-changi-naval-base/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-222428.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "FM Nirmala Sitharaman Meets BNP Paribas Executive Chairman Yann Gérardin in Paris",
+        "summary": "Finance Minister Nirmala Sitharaman, who is on a visit to France, met Deputy Chief Executive Officer and Executive Chairman of Corporate and Institutional Banking BNP Paribas Group Yann Gérardin in Paris today. Mr. Gérardin said that global funds have shown interest in India as a credible investment destination and complimented India’s strength in Digital Public […]",
+        "article": "Finance Minister Nirmala Sitharaman, who is on a visit to France, met Deputy Chief Executive Officer and Executive Chairman of Corporate and Institutional Banking BNP Paribas Group Yann Gérardin in Paris today. Mr. Gérardin said that global funds have shown interest in India as a credible investment destination and complimented India’s strength in Digital Public Infrastructure DPI. Ms Sitharaman informed him that Government had announced a Committee on Banking sector in its march towards Viksit Bharat 2047. The Union Finance Minister sought his thoughts and suggestions for the Committee and informed him that India is positioning its banking sector globally, with special focus on delivery of DPI and Account Aggregators systems. Ms Sitharaman also met President of Flying Whales Sébastien Bougon today. Mr. Bougon informed about Flying Wheels&#8217; sustainable PPP projects globally and shared details about the multitude of application use cases that the company serves. Mr. Bougon mentioned that Flying Whales contributes to the expansion of economic development in landlocked areas and reduces the environmental impact of cargo transport and conveyed that Flying Whales was looking to set up the entire ecosystem related to its manufacturing with India as a key base. Ms Sitharaman welcomed the interest shown by Flying Whales for setting up an ecosystem in India. She informed Mr. Bougon about the opportunities in India for a company like Flying Whale and encouraged him to engage with the vibrant start-up ecosystem operating in this space. She also spoke about Indian Financial Services Centre Authority at GIFT City and the framework for ship and air-vehicle leasing and Maintenance, Repair, and Operations MRO which can be leveraged by the company.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T16:51:59+00:00",
+        "link": "https://newsonair.gov.in/fm-nirmala-sitharaman-meets-bnp-paribas-executive-chairman-yann-gerardin-in-paris/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMO3ORBaUAAzzgI-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "VP Radhakrishnan interacts with 40 participants of MP LEAD fellows at Uprashtrapati Bhavan",
+        "summary": "Vice President C.P. Radhakrishnan interacted with 40 participants of the MP LEAD fellows at Uprashtrapati Bhavan today. In his address highlighting the importance of constitutional values, Mr Radhakrishnan said democracy flourishes when citizens uphold their duties along with their rights. The Vice President urged the fellows to learn with curiosity, innovate fearlessly and remain committed […]",
+        "article": "Vice President C.P. Radhakrishnan interacted with 40 participants of the MP LEAD fellows at Uprashtrapati Bhavan today. In his address highlighting the importance of constitutional values, Mr Radhakrishnan said democracy flourishes when citizens uphold their duties along with their rights. The Vice President urged the fellows to learn with curiosity, innovate fearlessly and remain committed to the larger national interest, expressing confidence that the MP LEAD Fellowship would nurture future nation-builders committed to a developed and self-reliant India. Describing the fellowship as an ideal platform to begin one&#8217;s career, the Vice President said they expose young people to the world beyond classrooms, build confidence and provide opportunities to interact with national leaders. The fellowship was initiated by Member of Parliament (Rajya Sabha) Dr. Ajeet Madhavrao Gopchade.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T16:49:27+00:00",
+        "link": "https://newsonair.gov.in/vp-radhakrishnan-interacts-with-40-participants-of-mp-lead-fellows-at-uprashtrapati-bhavan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-221828.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ACME Cleantech secures long-term Green Hydrogen offtake deal with Japanese Companies",
+        "summary": "In a significant milestone under the National Green Hydrogen Mission, (NGHM), ACME Cleantech Solutions Private Limited today secured a long-term offtake deal with leading Japanese companies in New Delhi. Under the deal with Japanese company IHI Corporation ACME will supply over four lakh tonnes of green ammonia to the Japanese company per annum. ACME has […]",
+        "article": "In a significant milestone under the National Green Hydrogen Mission, (NGHM), ACME Cleantech Solutions Private Limited today secured a long-term offtake deal with leading Japanese companies in New Delhi. Under the deal with Japanese company IHI Corporation ACME will supply over four lakh tonnes of green ammonia to the Japanese company per annum. ACME has also signed a ten-year agreement with another Japanese company Mitsubishi Gas Chemical Company, for the supply of one lakh tonnes of green methanol. These agreements were signed today in the presence of Secretary in the Ministry of New and Renewable Energy Santosh Kumar Sarangi and Vice Minister in the Ministry of Economy, Trade and Industry of Japan Takehiko MATSUO. Welcoming the agreements, Union Minister for New and Renewable Energy Pralhad Joshi said that the agreements reflect the growing global confidence in India&#8217;s green hydrogen ecosystem and its emergence as a trusted partner in the global clean energy transition. In a social media post, he said that under the leadership of Prime Minister Narendra Modi, the National Green Hydrogen Mission is creating a strong and future-ready ecosystem. The Minister highlighted that the mission is attracting global investments, building international partnerships, and opening new markets for Indian green hydrogen and its derivatives. Speaking on the occasion, Mr Sarangi said that the agreement will strengthen the collaboration between India and Japan. He expressed confidence that the agreements will boost the willpower of entrepreneurs involved in the green hydrogen sector in the country. The Secretary emphasized that these agreements have created a market linkage between India and Japan for Green Ammonia and Green Methanol giving confidence to investors. He added that one of the outcomes of the agreements will be the creation of international green hydrogen and green ammonia value chains.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T16:42:48+00:00",
+        "link": "https://newsonair.gov.in/acme-cleantech-secures-long-term-green-hydrogen-offtake-deal-with-japanese-companies/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-221033.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi says India’s speed, Japan’s expertise will drive global growth",
+        "summary": "Prime Minister Narendra Modi has said that India-Japan relations are truly very special and there are many shining examples of the success of the economic partnership. Addressing the India-Japan Joint Economic Forum in New Delhi this evening, Mr Modi said, when Japan&#8217;s expertise and investment combine with India&#8217;s speed and scale, the entire world benefits. […]",
+        "article": "Prime Minister Narendra Modi has said that India-Japan relations are truly very special and there are many shining examples of the success of the economic partnership. Addressing the India-Japan Joint Economic Forum in New Delhi this evening, Mr Modi said, when Japan&#8217;s expertise and investment combine with India&#8217;s speed and scale, the entire world benefits. He said, both sides today decided to make the partnership even more dynamic and profound. The Prime Minister said, India and Japan today reached agreements on several areas, such as economic security, AI, defence and health, that will make the partnership futuristic and limitless. Mr Modi said today the economic world is suffering through supply chain blockades, trade uncertainty and a drop in global demand. He said India is the world&#8217;s fastest-growing major economy, and in the last financial year, India&#8217;s GDP growth was 7.7 per cent. The Prime Minister said that, in the last 12 years, in India, while adopting the Kaizen philosophy, the Government has transformed the economic DNA. He said a few months ago, India implemented next-generation reforms in taxation, governance, and ease of doing business. Mr Modi said it is opening up several sectors for the private sector and providing incentives in many important sectors, which all can benefit from. The Prime Minister said that is why, for the past four consecutive years, surveys by the Japan Bank for International Cooperation JBIC have shown that India remains the most promising destination for Japanese business. In her address, Prime Minister of Japan, Sanae Takaichi, said that, among the many areas of cooperation, energy security is one of the most important areas. She said, at the recent G7 Summit, she had presented three proposals to strengthen energy security: ensuring free and transparent energy trade, announcing strategic energy stockpiles, and promoting cooperation between producing and consuming countries. Ms Takaichi said that, through the Power Asia Initiative, it is working to translate this vision into concrete action. On the occasion, both Prime Ministers jointly inaugurated Maruti Suzuki&#8217;s 4th Vehicle Manufacturing Facility at Kharkhoda in Haryana.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:54:35+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-says-indias-speed-japans-expertise-will-drive-global-growth/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-163939.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India and Japan announce energy partnership to strengthen strategic oil reserves and maritime transport resilience",
+        "summary": "India and Japan today agreed to deepen cooperation on strategic crude oil stockpiling, petroleum reserve mechanisms, and maritime energy transport value chains. It comes after annual summit-level talks between Prime Minister Narendra Modi and his Japanese counterpart Sanae Takaichi in New Delhi this afternoon. According to a joint statement issued by the Ministry of Petroleum […]",
+        "article": "India and Japan today agreed to deepen cooperation on strategic crude oil stockpiling, petroleum reserve mechanisms, and maritime energy transport value chains. It comes after annual summit-level talks between Prime Minister Narendra Modi and his Japanese counterpart Sanae Takaichi in New Delhi this afternoon. According to a joint statement issued by the Ministry of Petroleum and Natural Gas of India and Japan&#8217;s Ministry of Economy, Trade and Industry on Energy Resilience, both sides expressed their shared intention to work as responsible powers and major energy-consuming countries in Asia to strengthen energy resilience amid current geopolitical uncertainties. The two sides agreed to cooperate on the strategic stockpiling ecosystem, including sharing knowledge and experience on crude oil and petroleum product reserves, coordination with producing countries, and mechanisms for emergency response and market stabilisation.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:39:48+00:00",
+        "link": "https://newsonair.gov.in/india-and-japan-announce-energy-partnership-to-strengthen-strategic-oil-reserves-and-maritime-transport-resilience/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Modi-and-Japanese-PM-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government to expand oil refining capacity to 300 million metric tonnes amid West Asia crisis",
+        "summary": "Petroleum and Natural Gas Minister Hardeep Singh Puri today said that India is rapidly expanding its refinery capacity. Addressing a press conference in New Delhi, Mr Puri informed that in the next six to twelve months the country&#8217;s refining capacity will be brought to 300 million metric tonnes per annum. He said that the first […]",
+        "article": "Petroleum and Natural Gas Minister Hardeep Singh Puri today said that India is rapidly expanding its refinery capacity. Addressing a press conference in New Delhi, Mr Puri informed that in the next six to twelve months the country&#8217;s refining capacity will be brought to 300 million metric tonnes per annum. He said that the first Greenfield refinery is being established after a gap of 10 years. Talking about India’s handling of the situation during the West Asia crisis, Mr Puri said that for a long time the government controlled the prices of petrol and diesel and reduced the duties imposed on them. He said that the government always prioritized and focused on the interest of the citizens. The minister said that price of petrol has increased by only 5.58 percent in the last four years, and diesel by 6.23 percent. There has been no increase in the price of fuel for consumers and government&#8217;s fiscal system absorbed the hike in crude oil prices.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:32:54+00:00",
+        "link": "https://newsonair.gov.in/government-to-expand-oil-refining-capacity-to-300-million-metric-tonnes-amid-west-asia-crisis/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-174134.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NITI Aayog Vice Chairperson Dr Ashok Kumar Lahiri calls for Globalising Ayurveda",
+        "summary": "Vice Chairperson of NITI Aayog Dr Ashok Kumar Lahiri today said that globalising Ayurveda is essential not only for promoting India&#8217;s traditional knowledge but also for creating jobs, boosting exports and strengthening the country&#8217;s soft power. While releasing a report on Strategic Roadmap for Making Ayurveda Global in New Delhi, NITI Aayog Vice Chairperson, Mr […]",
+        "article": "Vice Chairperson of NITI Aayog Dr Ashok Kumar Lahiri today said that globalising Ayurveda is essential not only for promoting India&#8217;s traditional knowledge but also for creating jobs, boosting exports and strengthening the country&#8217;s soft power. While releasing a report on Strategic Roadmap for Making Ayurveda Global in New Delhi, NITI Aayog Vice Chairperson, Mr Lahiri stressed that scientific validation and evidence-based research are crucial for enhancing the global credibility of Ayurveda. Emphasising that future generations will seek scientific proof rather than rely solely on tradition, he called for rigorous testing and research. He said the initiative would help position Ayurveda as a trusted healthcare system worldwide and reaffirm India&#8217;s civilisational heritage. Secretary, Ministry of Ayush, Vaidya Rajesh Kotecha said that India&#8217;s traditional medicine sector has grown to an estimated 61 billion dollars, with the country&#8217;s share in the global traditional medicine market rising to nearly 10 per cent, according to a recent field-based survey. Secretary said the sector comprises 36 billion dollars in services and 25 billion dollars in manufacturing. He added that continued policy support and stakeholder collaboration would further strengthen India&#8217;s position as a global leader in traditional medicine.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:17:23+00:00",
+        "link": "https://newsonair.gov.in/niti-aayog-vice-chairperson-dr-ashok-kumar-lahiri-calls-for-globalising-ayurveda/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-204623.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government debunks fake investment claim misusing Union Finance Minister’s name",
+        "summary": "The Government has debunked a claim circulating on social media that the Union Finance Minister is promoting an investment platform and promising citizens a monthly income of over 20 lakh rupees in return for an initial investment of 22 thousand rupees. The Fact Check Unit of the Press Information Bureau said that the claim is […]",
+        "article": "The Government has debunked a claim circulating on social media that the Union Finance Minister is promoting an investment platform and promising citizens a monthly income of over 20 lakh rupees in return for an initial investment of 22 thousand rupees. The Fact Check Unit of the Press Information Bureau said that the claim is fake. It said that the Finance Minister has not endorsed any such investment scheme or platform. The Press Information Bureau has advised citizen to beware of unverified links or platforms that aim to deceive people and cause financial losses.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:08:30+00:00",
+        "link": "https://newsonair.gov.in/government-debunks-fake-investment-claim-misusing-union-finance-ministers-name/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian Naval Ship Trikand foils piracy attempt on MV Golden Arsenal in Gulf of Aden",
+        "summary": "Indian Naval Ship Trikand has successfully responded to a piracy attempt on merchant vessel MV Golden Arsenal in the Gulf of Aden. The vessel, while transiting from Aden in Yemen, reported an attempted pirate attack around 300 nautical miles east-northeast of Djibouti. The incident was reported through the Information Fusion Centre-Indian Ocean Region, following which […]",
+        "article": "Indian Naval Ship Trikand has successfully responded to a piracy attempt on merchant vessel MV Golden Arsenal in the Gulf of Aden. The vessel, while transiting from Aden in Yemen, reported an attempted pirate attack around 300 nautical miles east-northeast of Djibouti. The incident was reported through the Information Fusion Centre-Indian Ocean Region, following which INS Trikand, deployed in the region, was tasked to intercept the merchant vessel. The vessel, carrying 21 crew members, including one Indian national, sustained damage to the bridge superstructure and adjoining compartments. The crew took shelter in the vessel&#8217;s citadel and were reported safe. To augment the operation, the Indian Navy deployed a P-8I maritime patrol aircraft for aerial surveillance and reconnaissance, enhancing maritime domain awareness and supporting the anti-piracy response. The Ministry said that with the vessel sanitised and the immediate threat neutralised, the anti-piracy operation by INS Trikand has concluded. MV Golden Arsenal has resumed its onward voyage. The Indian Navy reaffirmed its commitment to safeguarding merchant shipping, countering piracy and ensuring the safety and security of all seafarers in the region, irrespective of nationality, as part of its continued commitment to maritime security in the Indian Ocean Region.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:02:22+00:00",
+        "link": "https://newsonair.gov.in/indian-naval-ship-trikand-foils-piracy-attempt-on-mv-golden-arsenal-in-gulf-of-aden/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMOf8pya8AAz9Km.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "national": [
+      {
+        "title": "Indian Navy’s Eastern Fleet Ships Reach Singapore’s Changi Naval Base",
+        "summary": "Indian Navy&#8217;s Eastern Fleet Ships Udaygiri, Kavaratti, and Shakti reached the Changi Naval Base in Singapore yesterday. The Ministry of Defence said that the visit exemplifies the strong and long-standing ties between the two navies and forms part of the Indian Navy’s ongoing operational deployment in the South East Asia Region. The Ministry said […]",
+        "article": "Indian Navy&#8217;s Eastern Fleet Ships Udaygiri, Kavaratti, and Shakti reached the Changi Naval Base in Singapore yesterday. The Ministry of Defence said that the visit exemplifies the strong and long-standing ties between the two navies and forms part of the Indian Navy’s ongoing operational deployment in the South East Asia Region. The Ministry said that during the port call the ships will engage with the Republic of Singapore Navy through professional interactions, cross-deck visits, and discussions on issues of mutual maritime interest. Defence Ministry said that India remains committed to fostering collective maritime security, promoting regional cooperation and advancing collaboration among maritime partners.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T16:55:02+00:00",
+        "link": "https://newsonair.gov.in/indian-navys-eastern-fleet-ships-reach-singapores-changi-naval-base/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-222428.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "FM Nirmala Sitharaman Meets BNP Paribas Executive Chairman Yann Gérardin in Paris",
+        "summary": "Finance Minister Nirmala Sitharaman, who is on a visit to France, met Deputy Chief Executive Officer and Executive Chairman of Corporate and Institutional Banking BNP Paribas Group Yann Gérardin in Paris today. Mr. Gérardin said that global funds have shown interest in India as a credible investment destination and complimented India’s strength in Digital Public […]",
+        "article": "Finance Minister Nirmala Sitharaman, who is on a visit to France, met Deputy Chief Executive Officer and Executive Chairman of Corporate and Institutional Banking BNP Paribas Group Yann Gérardin in Paris today. Mr. Gérardin said that global funds have shown interest in India as a credible investment destination and complimented India’s strength in Digital Public Infrastructure DPI. Ms Sitharaman informed him that Government had announced a Committee on Banking sector in its march towards Viksit Bharat 2047. The Union Finance Minister sought his thoughts and suggestions for the Committee and informed him that India is positioning its banking sector globally, with special focus on delivery of DPI and Account Aggregators systems. Ms Sitharaman also met President of Flying Whales Sébastien Bougon today. Mr. Bougon informed about Flying Wheels&#8217; sustainable PPP projects globally and shared details about the multitude of application use cases that the company serves. Mr. Bougon mentioned that Flying Whales contributes to the expansion of economic development in landlocked areas and reduces the environmental impact of cargo transport and conveyed that Flying Whales was looking to set up the entire ecosystem related to its manufacturing with India as a key base. Ms Sitharaman welcomed the interest shown by Flying Whales for setting up an ecosystem in India. She informed Mr. Bougon about the opportunities in India for a company like Flying Whale and encouraged him to engage with the vibrant start-up ecosystem operating in this space. She also spoke about Indian Financial Services Centre Authority at GIFT City and the framework for ship and air-vehicle leasing and Maintenance, Repair, and Operations MRO which can be leveraged by the company.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T16:51:59+00:00",
+        "link": "https://newsonair.gov.in/fm-nirmala-sitharaman-meets-bnp-paribas-executive-chairman-yann-gerardin-in-paris/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMO3ORBaUAAzzgI-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "VP Radhakrishnan interacts with 40 participants of MP LEAD fellows at Uprashtrapati Bhavan",
+        "summary": "Vice President C.P. Radhakrishnan interacted with 40 participants of the MP LEAD fellows at Uprashtrapati Bhavan today. In his address highlighting the importance of constitutional values, Mr Radhakrishnan said democracy flourishes when citizens uphold their duties along with their rights. The Vice President urged the fellows to learn with curiosity, innovate fearlessly and remain committed […]",
+        "article": "Vice President C.P. Radhakrishnan interacted with 40 participants of the MP LEAD fellows at Uprashtrapati Bhavan today. In his address highlighting the importance of constitutional values, Mr Radhakrishnan said democracy flourishes when citizens uphold their duties along with their rights. The Vice President urged the fellows to learn with curiosity, innovate fearlessly and remain committed to the larger national interest, expressing confidence that the MP LEAD Fellowship would nurture future nation-builders committed to a developed and self-reliant India. Describing the fellowship as an ideal platform to begin one&#8217;s career, the Vice President said they expose young people to the world beyond classrooms, build confidence and provide opportunities to interact with national leaders. The fellowship was initiated by Member of Parliament (Rajya Sabha) Dr. Ajeet Madhavrao Gopchade.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T16:49:27+00:00",
+        "link": "https://newsonair.gov.in/vp-radhakrishnan-interacts-with-40-participants-of-mp-lead-fellows-at-uprashtrapati-bhavan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-221828.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ACME Cleantech secures long-term Green Hydrogen offtake deal with Japanese Companies",
+        "summary": "In a significant milestone under the National Green Hydrogen Mission, (NGHM), ACME Cleantech Solutions Private Limited today secured a long-term offtake deal with leading Japanese companies in New Delhi. Under the deal with Japanese company IHI Corporation ACME will supply over four lakh tonnes of green ammonia to the Japanese company per annum. ACME has […]",
+        "article": "In a significant milestone under the National Green Hydrogen Mission, (NGHM), ACME Cleantech Solutions Private Limited today secured a long-term offtake deal with leading Japanese companies in New Delhi. Under the deal with Japanese company IHI Corporation ACME will supply over four lakh tonnes of green ammonia to the Japanese company per annum. ACME has also signed a ten-year agreement with another Japanese company Mitsubishi Gas Chemical Company, for the supply of one lakh tonnes of green methanol. These agreements were signed today in the presence of Secretary in the Ministry of New and Renewable Energy Santosh Kumar Sarangi and Vice Minister in the Ministry of Economy, Trade and Industry of Japan Takehiko MATSUO. Welcoming the agreements, Union Minister for New and Renewable Energy Pralhad Joshi said that the agreements reflect the growing global confidence in India&#8217;s green hydrogen ecosystem and its emergence as a trusted partner in the global clean energy transition. In a social media post, he said that under the leadership of Prime Minister Narendra Modi, the National Green Hydrogen Mission is creating a strong and future-ready ecosystem. The Minister highlighted that the mission is attracting global investments, building international partnerships, and opening new markets for Indian green hydrogen and its derivatives. Speaking on the occasion, Mr Sarangi said that the agreement will strengthen the collaboration between India and Japan. He expressed confidence that the agreements will boost the willpower of entrepreneurs involved in the green hydrogen sector in the country. The Secretary emphasized that these agreements have created a market linkage between India and Japan for Green Ammonia and Green Methanol giving confidence to investors. He added that one of the outcomes of the agreements will be the creation of international green hydrogen and green ammonia value chains.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T16:42:48+00:00",
+        "link": "https://newsonair.gov.in/acme-cleantech-secures-long-term-green-hydrogen-offtake-deal-with-japanese-companies/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-221033.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi says India’s speed, Japan’s expertise will drive global growth",
+        "summary": "Prime Minister Narendra Modi has said that India-Japan relations are truly very special and there are many shining examples of the success of the economic partnership. Addressing the India-Japan Joint Economic Forum in New Delhi this evening, Mr Modi said, when Japan&#8217;s expertise and investment combine with India&#8217;s speed and scale, the entire world benefits. […]",
+        "article": "Prime Minister Narendra Modi has said that India-Japan relations are truly very special and there are many shining examples of the success of the economic partnership. Addressing the India-Japan Joint Economic Forum in New Delhi this evening, Mr Modi said, when Japan&#8217;s expertise and investment combine with India&#8217;s speed and scale, the entire world benefits. He said, both sides today decided to make the partnership even more dynamic and profound. The Prime Minister said, India and Japan today reached agreements on several areas, such as economic security, AI, defence and health, that will make the partnership futuristic and limitless. Mr Modi said today the economic world is suffering through supply chain blockades, trade uncertainty and a drop in global demand. He said India is the world&#8217;s fastest-growing major economy, and in the last financial year, India&#8217;s GDP growth was 7.7 per cent. The Prime Minister said that, in the last 12 years, in India, while adopting the Kaizen philosophy, the Government has transformed the economic DNA. He said a few months ago, India implemented next-generation reforms in taxation, governance, and ease of doing business. Mr Modi said it is opening up several sectors for the private sector and providing incentives in many important sectors, which all can benefit from. The Prime Minister said that is why, for the past four consecutive years, surveys by the Japan Bank for International Cooperation JBIC have shown that India remains the most promising destination for Japanese business. In her address, Prime Minister of Japan, Sanae Takaichi, said that, among the many areas of cooperation, energy security is one of the most important areas. She said, at the recent G7 Summit, she had presented three proposals to strengthen energy security: ensuring free and transparent energy trade, announcing strategic energy stockpiles, and promoting cooperation between producing and consuming countries. Ms Takaichi said that, through the Power Asia Initiative, it is working to translate this vision into concrete action. On the occasion, both Prime Ministers jointly inaugurated Maruti Suzuki&#8217;s 4th Vehicle Manufacturing Facility at Kharkhoda in Haryana.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:54:35+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-says-indias-speed-japans-expertise-will-drive-global-growth/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-163939.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India and Japan announce energy partnership to strengthen strategic oil reserves and maritime transport resilience",
+        "summary": "India and Japan today agreed to deepen cooperation on strategic crude oil stockpiling, petroleum reserve mechanisms, and maritime energy transport value chains. It comes after annual summit-level talks between Prime Minister Narendra Modi and his Japanese counterpart Sanae Takaichi in New Delhi this afternoon. According to a joint statement issued by the Ministry of Petroleum […]",
+        "article": "India and Japan today agreed to deepen cooperation on strategic crude oil stockpiling, petroleum reserve mechanisms, and maritime energy transport value chains. It comes after annual summit-level talks between Prime Minister Narendra Modi and his Japanese counterpart Sanae Takaichi in New Delhi this afternoon. According to a joint statement issued by the Ministry of Petroleum and Natural Gas of India and Japan&#8217;s Ministry of Economy, Trade and Industry on Energy Resilience, both sides expressed their shared intention to work as responsible powers and major energy-consuming countries in Asia to strengthen energy resilience amid current geopolitical uncertainties. The two sides agreed to cooperate on the strategic stockpiling ecosystem, including sharing knowledge and experience on crude oil and petroleum product reserves, coordination with producing countries, and mechanisms for emergency response and market stabilisation.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:39:48+00:00",
+        "link": "https://newsonair.gov.in/india-and-japan-announce-energy-partnership-to-strengthen-strategic-oil-reserves-and-maritime-transport-resilience/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Modi-and-Japanese-PM-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government to expand oil refining capacity to 300 million metric tonnes amid West Asia crisis",
+        "summary": "Petroleum and Natural Gas Minister Hardeep Singh Puri today said that India is rapidly expanding its refinery capacity. Addressing a press conference in New Delhi, Mr Puri informed that in the next six to twelve months the country&#8217;s refining capacity will be brought to 300 million metric tonnes per annum. He said that the first […]",
+        "article": "Petroleum and Natural Gas Minister Hardeep Singh Puri today said that India is rapidly expanding its refinery capacity. Addressing a press conference in New Delhi, Mr Puri informed that in the next six to twelve months the country&#8217;s refining capacity will be brought to 300 million metric tonnes per annum. He said that the first Greenfield refinery is being established after a gap of 10 years. Talking about India’s handling of the situation during the West Asia crisis, Mr Puri said that for a long time the government controlled the prices of petrol and diesel and reduced the duties imposed on them. He said that the government always prioritized and focused on the interest of the citizens. The minister said that price of petrol has increased by only 5.58 percent in the last four years, and diesel by 6.23 percent. There has been no increase in the price of fuel for consumers and government&#8217;s fiscal system absorbed the hike in crude oil prices.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:32:54+00:00",
+        "link": "https://newsonair.gov.in/government-to-expand-oil-refining-capacity-to-300-million-metric-tonnes-amid-west-asia-crisis/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-174134.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NITI Aayog Vice Chairperson Dr Ashok Kumar Lahiri calls for Globalising Ayurveda",
+        "summary": "Vice Chairperson of NITI Aayog Dr Ashok Kumar Lahiri today said that globalising Ayurveda is essential not only for promoting India&#8217;s traditional knowledge but also for creating jobs, boosting exports and strengthening the country&#8217;s soft power. While releasing a report on Strategic Roadmap for Making Ayurveda Global in New Delhi, NITI Aayog Vice Chairperson, Mr […]",
+        "article": "Vice Chairperson of NITI Aayog Dr Ashok Kumar Lahiri today said that globalising Ayurveda is essential not only for promoting India&#8217;s traditional knowledge but also for creating jobs, boosting exports and strengthening the country&#8217;s soft power. While releasing a report on Strategic Roadmap for Making Ayurveda Global in New Delhi, NITI Aayog Vice Chairperson, Mr Lahiri stressed that scientific validation and evidence-based research are crucial for enhancing the global credibility of Ayurveda. Emphasising that future generations will seek scientific proof rather than rely solely on tradition, he called for rigorous testing and research. He said the initiative would help position Ayurveda as a trusted healthcare system worldwide and reaffirm India&#8217;s civilisational heritage. Secretary, Ministry of Ayush, Vaidya Rajesh Kotecha said that India&#8217;s traditional medicine sector has grown to an estimated 61 billion dollars, with the country&#8217;s share in the global traditional medicine market rising to nearly 10 per cent, according to a recent field-based survey. Secretary said the sector comprises 36 billion dollars in services and 25 billion dollars in manufacturing. He added that continued policy support and stakeholder collaboration would further strengthen India&#8217;s position as a global leader in traditional medicine.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:17:23+00:00",
+        "link": "https://newsonair.gov.in/niti-aayog-vice-chairperson-dr-ashok-kumar-lahiri-calls-for-globalising-ayurveda/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-204623.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government debunks fake investment claim misusing Union Finance Minister’s name",
+        "summary": "The Government has debunked a claim circulating on social media that the Union Finance Minister is promoting an investment platform and promising citizens a monthly income of over 20 lakh rupees in return for an initial investment of 22 thousand rupees. The Fact Check Unit of the Press Information Bureau said that the claim is […]",
+        "article": "The Government has debunked a claim circulating on social media that the Union Finance Minister is promoting an investment platform and promising citizens a monthly income of over 20 lakh rupees in return for an initial investment of 22 thousand rupees. The Fact Check Unit of the Press Information Bureau said that the claim is fake. It said that the Finance Minister has not endorsed any such investment scheme or platform. The Press Information Bureau has advised citizen to beware of unverified links or platforms that aim to deceive people and cause financial losses.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:08:30+00:00",
+        "link": "https://newsonair.gov.in/government-debunks-fake-investment-claim-misusing-union-finance-ministers-name/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian Naval Ship Trikand foils piracy attempt on MV Golden Arsenal in Gulf of Aden",
+        "summary": "Indian Naval Ship Trikand has successfully responded to a piracy attempt on merchant vessel MV Golden Arsenal in the Gulf of Aden. The vessel, while transiting from Aden in Yemen, reported an attempted pirate attack around 300 nautical miles east-northeast of Djibouti. The incident was reported through the Information Fusion Centre-Indian Ocean Region, following which […]",
+        "article": "Indian Naval Ship Trikand has successfully responded to a piracy attempt on merchant vessel MV Golden Arsenal in the Gulf of Aden. The vessel, while transiting from Aden in Yemen, reported an attempted pirate attack around 300 nautical miles east-northeast of Djibouti. The incident was reported through the Information Fusion Centre-Indian Ocean Region, following which INS Trikand, deployed in the region, was tasked to intercept the merchant vessel. The vessel, carrying 21 crew members, including one Indian national, sustained damage to the bridge superstructure and adjoining compartments. The crew took shelter in the vessel&#8217;s citadel and were reported safe. To augment the operation, the Indian Navy deployed a P-8I maritime patrol aircraft for aerial surveillance and reconnaissance, enhancing maritime domain awareness and supporting the anti-piracy response. The Ministry said that with the vessel sanitised and the immediate threat neutralised, the anti-piracy operation by INS Trikand has concluded. MV Golden Arsenal has resumed its onward voyage. The Indian Navy reaffirmed its commitment to safeguarding merchant shipping, countering piracy and ensuring the safety and security of all seafarers in the region, irrespective of nationality, as part of its continued commitment to maritime security in the Indian Ocean Region.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:02:22+00:00",
+        "link": "https://newsonair.gov.in/indian-naval-ship-trikand-foils-piracy-attempt-on-mv-golden-arsenal-in-gulf-of-aden/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMOf8pya8AAz9Km.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "politics": [
+      {
+        "title": "Indian Navy’s Eastern Fleet Ships Reach Singapore’s Changi Naval Base",
+        "summary": "Indian Navy&#8217;s Eastern Fleet Ships Udaygiri, Kavaratti, and Shakti reached the Changi Naval Base in Singapore yesterday. The Ministry of Defence said that the visit exemplifies the strong and long-standing ties between the two navies and forms part of the Indian Navy’s ongoing operational deployment in the South East Asia Region. The Ministry said […]",
+        "article": "Indian Navy&#8217;s Eastern Fleet Ships Udaygiri, Kavaratti, and Shakti reached the Changi Naval Base in Singapore yesterday. The Ministry of Defence said that the visit exemplifies the strong and long-standing ties between the two navies and forms part of the Indian Navy’s ongoing operational deployment in the South East Asia Region. The Ministry said that during the port call the ships will engage with the Republic of Singapore Navy through professional interactions, cross-deck visits, and discussions on issues of mutual maritime interest. Defence Ministry said that India remains committed to fostering collective maritime security, promoting regional cooperation and advancing collaboration among maritime partners.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T16:55:02+00:00",
+        "link": "https://newsonair.gov.in/indian-navys-eastern-fleet-ships-reach-singapores-changi-naval-base/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-222428.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "FM Nirmala Sitharaman Meets BNP Paribas Executive Chairman Yann Gérardin in Paris",
+        "summary": "Finance Minister Nirmala Sitharaman, who is on a visit to France, met Deputy Chief Executive Officer and Executive Chairman of Corporate and Institutional Banking BNP Paribas Group Yann Gérardin in Paris today. Mr. Gérardin said that global funds have shown interest in India as a credible investment destination and complimented India’s strength in Digital Public […]",
+        "article": "Finance Minister Nirmala Sitharaman, who is on a visit to France, met Deputy Chief Executive Officer and Executive Chairman of Corporate and Institutional Banking BNP Paribas Group Yann Gérardin in Paris today. Mr. Gérardin said that global funds have shown interest in India as a credible investment destination and complimented India’s strength in Digital Public Infrastructure DPI. Ms Sitharaman informed him that Government had announced a Committee on Banking sector in its march towards Viksit Bharat 2047. The Union Finance Minister sought his thoughts and suggestions for the Committee and informed him that India is positioning its banking sector globally, with special focus on delivery of DPI and Account Aggregators systems. Ms Sitharaman also met President of Flying Whales Sébastien Bougon today. Mr. Bougon informed about Flying Wheels&#8217; sustainable PPP projects globally and shared details about the multitude of application use cases that the company serves. Mr. Bougon mentioned that Flying Whales contributes to the expansion of economic development in landlocked areas and reduces the environmental impact of cargo transport and conveyed that Flying Whales was looking to set up the entire ecosystem related to its manufacturing with India as a key base. Ms Sitharaman welcomed the interest shown by Flying Whales for setting up an ecosystem in India. She informed Mr. Bougon about the opportunities in India for a company like Flying Whale and encouraged him to engage with the vibrant start-up ecosystem operating in this space. She also spoke about Indian Financial Services Centre Authority at GIFT City and the framework for ship and air-vehicle leasing and Maintenance, Repair, and Operations MRO which can be leveraged by the company.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T16:51:59+00:00",
+        "link": "https://newsonair.gov.in/fm-nirmala-sitharaman-meets-bnp-paribas-executive-chairman-yann-gerardin-in-paris/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMO3ORBaUAAzzgI-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "VP Radhakrishnan interacts with 40 participants of MP LEAD fellows at Uprashtrapati Bhavan",
+        "summary": "Vice President C.P. Radhakrishnan interacted with 40 participants of the MP LEAD fellows at Uprashtrapati Bhavan today. In his address highlighting the importance of constitutional values, Mr Radhakrishnan said democracy flourishes when citizens uphold their duties along with their rights. The Vice President urged the fellows to learn with curiosity, innovate fearlessly and remain committed […]",
+        "article": "Vice President C.P. Radhakrishnan interacted with 40 participants of the MP LEAD fellows at Uprashtrapati Bhavan today. In his address highlighting the importance of constitutional values, Mr Radhakrishnan said democracy flourishes when citizens uphold their duties along with their rights. The Vice President urged the fellows to learn with curiosity, innovate fearlessly and remain committed to the larger national interest, expressing confidence that the MP LEAD Fellowship would nurture future nation-builders committed to a developed and self-reliant India. Describing the fellowship as an ideal platform to begin one&#8217;s career, the Vice President said they expose young people to the world beyond classrooms, build confidence and provide opportunities to interact with national leaders. The fellowship was initiated by Member of Parliament (Rajya Sabha) Dr. Ajeet Madhavrao Gopchade.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T16:49:27+00:00",
+        "link": "https://newsonair.gov.in/vp-radhakrishnan-interacts-with-40-participants-of-mp-lead-fellows-at-uprashtrapati-bhavan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-221828.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ACME Cleantech secures long-term Green Hydrogen offtake deal with Japanese Companies",
+        "summary": "In a significant milestone under the National Green Hydrogen Mission, (NGHM), ACME Cleantech Solutions Private Limited today secured a long-term offtake deal with leading Japanese companies in New Delhi. Under the deal with Japanese company IHI Corporation ACME will supply over four lakh tonnes of green ammonia to the Japanese company per annum. ACME has […]",
+        "article": "In a significant milestone under the National Green Hydrogen Mission, (NGHM), ACME Cleantech Solutions Private Limited today secured a long-term offtake deal with leading Japanese companies in New Delhi. Under the deal with Japanese company IHI Corporation ACME will supply over four lakh tonnes of green ammonia to the Japanese company per annum. ACME has also signed a ten-year agreement with another Japanese company Mitsubishi Gas Chemical Company, for the supply of one lakh tonnes of green methanol. These agreements were signed today in the presence of Secretary in the Ministry of New and Renewable Energy Santosh Kumar Sarangi and Vice Minister in the Ministry of Economy, Trade and Industry of Japan Takehiko MATSUO. Welcoming the agreements, Union Minister for New and Renewable Energy Pralhad Joshi said that the agreements reflect the growing global confidence in India&#8217;s green hydrogen ecosystem and its emergence as a trusted partner in the global clean energy transition. In a social media post, he said that under the leadership of Prime Minister Narendra Modi, the National Green Hydrogen Mission is creating a strong and future-ready ecosystem. The Minister highlighted that the mission is attracting global investments, building international partnerships, and opening new markets for Indian green hydrogen and its derivatives. Speaking on the occasion, Mr Sarangi said that the agreement will strengthen the collaboration between India and Japan. He expressed confidence that the agreements will boost the willpower of entrepreneurs involved in the green hydrogen sector in the country. The Secretary emphasized that these agreements have created a market linkage between India and Japan for Green Ammonia and Green Methanol giving confidence to investors. He added that one of the outcomes of the agreements will be the creation of international green hydrogen and green ammonia value chains.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T16:42:48+00:00",
+        "link": "https://newsonair.gov.in/acme-cleantech-secures-long-term-green-hydrogen-offtake-deal-with-japanese-companies/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-221033.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi says India’s speed, Japan’s expertise will drive global growth",
+        "summary": "Prime Minister Narendra Modi has said that India-Japan relations are truly very special and there are many shining examples of the success of the economic partnership. Addressing the India-Japan Joint Economic Forum in New Delhi this evening, Mr Modi said, when Japan&#8217;s expertise and investment combine with India&#8217;s speed and scale, the entire world benefits. […]",
+        "article": "Prime Minister Narendra Modi has said that India-Japan relations are truly very special and there are many shining examples of the success of the economic partnership. Addressing the India-Japan Joint Economic Forum in New Delhi this evening, Mr Modi said, when Japan&#8217;s expertise and investment combine with India&#8217;s speed and scale, the entire world benefits. He said, both sides today decided to make the partnership even more dynamic and profound. The Prime Minister said, India and Japan today reached agreements on several areas, such as economic security, AI, defence and health, that will make the partnership futuristic and limitless. Mr Modi said today the economic world is suffering through supply chain blockades, trade uncertainty and a drop in global demand. He said India is the world&#8217;s fastest-growing major economy, and in the last financial year, India&#8217;s GDP growth was 7.7 per cent. The Prime Minister said that, in the last 12 years, in India, while adopting the Kaizen philosophy, the Government has transformed the economic DNA. He said a few months ago, India implemented next-generation reforms in taxation, governance, and ease of doing business. Mr Modi said it is opening up several sectors for the private sector and providing incentives in many important sectors, which all can benefit from. The Prime Minister said that is why, for the past four consecutive years, surveys by the Japan Bank for International Cooperation JBIC have shown that India remains the most promising destination for Japanese business. In her address, Prime Minister of Japan, Sanae Takaichi, said that, among the many areas of cooperation, energy security is one of the most important areas. She said, at the recent G7 Summit, she had presented three proposals to strengthen energy security: ensuring free and transparent energy trade, announcing strategic energy stockpiles, and promoting cooperation between producing and consuming countries. Ms Takaichi said that, through the Power Asia Initiative, it is working to translate this vision into concrete action. On the occasion, both Prime Ministers jointly inaugurated Maruti Suzuki&#8217;s 4th Vehicle Manufacturing Facility at Kharkhoda in Haryana.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:54:35+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-says-indias-speed-japans-expertise-will-drive-global-growth/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-163939.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India and Japan announce energy partnership to strengthen strategic oil reserves and maritime transport resilience",
+        "summary": "India and Japan today agreed to deepen cooperation on strategic crude oil stockpiling, petroleum reserve mechanisms, and maritime energy transport value chains. It comes after annual summit-level talks between Prime Minister Narendra Modi and his Japanese counterpart Sanae Takaichi in New Delhi this afternoon. According to a joint statement issued by the Ministry of Petroleum […]",
+        "article": "India and Japan today agreed to deepen cooperation on strategic crude oil stockpiling, petroleum reserve mechanisms, and maritime energy transport value chains. It comes after annual summit-level talks between Prime Minister Narendra Modi and his Japanese counterpart Sanae Takaichi in New Delhi this afternoon. According to a joint statement issued by the Ministry of Petroleum and Natural Gas of India and Japan&#8217;s Ministry of Economy, Trade and Industry on Energy Resilience, both sides expressed their shared intention to work as responsible powers and major energy-consuming countries in Asia to strengthen energy resilience amid current geopolitical uncertainties. The two sides agreed to cooperate on the strategic stockpiling ecosystem, including sharing knowledge and experience on crude oil and petroleum product reserves, coordination with producing countries, and mechanisms for emergency response and market stabilisation.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:39:48+00:00",
+        "link": "https://newsonair.gov.in/india-and-japan-announce-energy-partnership-to-strengthen-strategic-oil-reserves-and-maritime-transport-resilience/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Modi-and-Japanese-PM-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government to expand oil refining capacity to 300 million metric tonnes amid West Asia crisis",
+        "summary": "Petroleum and Natural Gas Minister Hardeep Singh Puri today said that India is rapidly expanding its refinery capacity. Addressing a press conference in New Delhi, Mr Puri informed that in the next six to twelve months the country&#8217;s refining capacity will be brought to 300 million metric tonnes per annum. He said that the first […]",
+        "article": "Petroleum and Natural Gas Minister Hardeep Singh Puri today said that India is rapidly expanding its refinery capacity. Addressing a press conference in New Delhi, Mr Puri informed that in the next six to twelve months the country&#8217;s refining capacity will be brought to 300 million metric tonnes per annum. He said that the first Greenfield refinery is being established after a gap of 10 years. Talking about India’s handling of the situation during the West Asia crisis, Mr Puri said that for a long time the government controlled the prices of petrol and diesel and reduced the duties imposed on them. He said that the government always prioritized and focused on the interest of the citizens. The minister said that price of petrol has increased by only 5.58 percent in the last four years, and diesel by 6.23 percent. There has been no increase in the price of fuel for consumers and government&#8217;s fiscal system absorbed the hike in crude oil prices.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:32:54+00:00",
+        "link": "https://newsonair.gov.in/government-to-expand-oil-refining-capacity-to-300-million-metric-tonnes-amid-west-asia-crisis/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-174134.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NITI Aayog Vice Chairperson Dr Ashok Kumar Lahiri calls for Globalising Ayurveda",
+        "summary": "Vice Chairperson of NITI Aayog Dr Ashok Kumar Lahiri today said that globalising Ayurveda is essential not only for promoting India&#8217;s traditional knowledge but also for creating jobs, boosting exports and strengthening the country&#8217;s soft power. While releasing a report on Strategic Roadmap for Making Ayurveda Global in New Delhi, NITI Aayog Vice Chairperson, Mr […]",
+        "article": "Vice Chairperson of NITI Aayog Dr Ashok Kumar Lahiri today said that globalising Ayurveda is essential not only for promoting India&#8217;s traditional knowledge but also for creating jobs, boosting exports and strengthening the country&#8217;s soft power. While releasing a report on Strategic Roadmap for Making Ayurveda Global in New Delhi, NITI Aayog Vice Chairperson, Mr Lahiri stressed that scientific validation and evidence-based research are crucial for enhancing the global credibility of Ayurveda. Emphasising that future generations will seek scientific proof rather than rely solely on tradition, he called for rigorous testing and research. He said the initiative would help position Ayurveda as a trusted healthcare system worldwide and reaffirm India&#8217;s civilisational heritage. Secretary, Ministry of Ayush, Vaidya Rajesh Kotecha said that India&#8217;s traditional medicine sector has grown to an estimated 61 billion dollars, with the country&#8217;s share in the global traditional medicine market rising to nearly 10 per cent, according to a recent field-based survey. Secretary said the sector comprises 36 billion dollars in services and 25 billion dollars in manufacturing. He added that continued policy support and stakeholder collaboration would further strengthen India&#8217;s position as a global leader in traditional medicine.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:17:23+00:00",
+        "link": "https://newsonair.gov.in/niti-aayog-vice-chairperson-dr-ashok-kumar-lahiri-calls-for-globalising-ayurveda/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-204623.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government debunks fake investment claim misusing Union Finance Minister’s name",
+        "summary": "The Government has debunked a claim circulating on social media that the Union Finance Minister is promoting an investment platform and promising citizens a monthly income of over 20 lakh rupees in return for an initial investment of 22 thousand rupees. The Fact Check Unit of the Press Information Bureau said that the claim is […]",
+        "article": "The Government has debunked a claim circulating on social media that the Union Finance Minister is promoting an investment platform and promising citizens a monthly income of over 20 lakh rupees in return for an initial investment of 22 thousand rupees. The Fact Check Unit of the Press Information Bureau said that the claim is fake. It said that the Finance Minister has not endorsed any such investment scheme or platform. The Press Information Bureau has advised citizen to beware of unverified links or platforms that aim to deceive people and cause financial losses.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:08:30+00:00",
+        "link": "https://newsonair.gov.in/government-debunks-fake-investment-claim-misusing-union-finance-ministers-name/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian Naval Ship Trikand foils piracy attempt on MV Golden Arsenal in Gulf of Aden",
+        "summary": "Indian Naval Ship Trikand has successfully responded to a piracy attempt on merchant vessel MV Golden Arsenal in the Gulf of Aden. The vessel, while transiting from Aden in Yemen, reported an attempted pirate attack around 300 nautical miles east-northeast of Djibouti. The incident was reported through the Information Fusion Centre-Indian Ocean Region, following which […]",
+        "article": "Indian Naval Ship Trikand has successfully responded to a piracy attempt on merchant vessel MV Golden Arsenal in the Gulf of Aden. The vessel, while transiting from Aden in Yemen, reported an attempted pirate attack around 300 nautical miles east-northeast of Djibouti. The incident was reported through the Information Fusion Centre-Indian Ocean Region, following which INS Trikand, deployed in the region, was tasked to intercept the merchant vessel. The vessel, carrying 21 crew members, including one Indian national, sustained damage to the bridge superstructure and adjoining compartments. The crew took shelter in the vessel&#8217;s citadel and were reported safe. To augment the operation, the Indian Navy deployed a P-8I maritime patrol aircraft for aerial surveillance and reconnaissance, enhancing maritime domain awareness and supporting the anti-piracy response. The Ministry said that with the vessel sanitised and the immediate threat neutralised, the anti-piracy operation by INS Trikand has concluded. MV Golden Arsenal has resumed its onward voyage. The Indian Navy reaffirmed its commitment to safeguarding merchant shipping, countering piracy and ensuring the safety and security of all seafarers in the region, irrespective of nationality, as part of its continued commitment to maritime security in the Indian Ocean Region.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:02:22+00:00",
+        "link": "https://newsonair.gov.in/indian-naval-ship-trikand-foils-piracy-attempt-on-mv-golden-arsenal-in-gulf-of-aden/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMOf8pya8AAz9Km.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "world": [
+      {
+        "title": "UK PM Keir Starmer apologises for forced separation of unmarried mothers from their babies",
+        "summary": "The UK&#8217;s caretaker Prime Minister Keir Starmer formally apologised today for the British state&#8217;s role in separating tens of thousands of unmarried mothers from their babies, a practice that lasted for decades until the 1970s. Speaking in the Parliament, Prime Minister Starmer said they are deeply and profoundly sorry for what he called a stain […]",
+        "article": "The UK&#8217;s caretaker Prime Minister Keir Starmer formally apologised today for the British state&#8217;s role in separating tens of thousands of unmarried mothers from their babies, a practice that lasted for decades until the 1970s. Speaking in the Parliament, Prime Minister Starmer said they are deeply and profoundly sorry for what he called a stain on their history. An estimated one lakh eighty five thousand babies of unmarried mothers were adopted in England and Wales between 1949 and 1976. Campaigners have fought for years for acknowledgement that women were pressured, deceived and threatened into giving up their babies. Starmer, who is in the final weeks of his premiership, said women were coerced, bullied or misled into feeling that they had no choice but to have their children taken away from them. He stated that children grew up believing they were unwanted and mothers were told their babies would be better off without them. Britain is one of several countries reckoning with the legacy of social norms, religious practices and government policies that heaped shame on unwed mothers, hid them away in institutions while pregnant and took their children to be adopted by married couples.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T13:03:00+00:00",
+        "link": "https://newsonair.gov.in/uk-pm-keir-starmer-apologises-for-forced-separation-of-unmarried-mothers-from-their-babies/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-183149.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Taiwan detects 22 Chinese military aircraft near its territory",
+        "summary": "Taiwan&#8217;s Ministry of National Defence detected the presence of 22 sorties of Chinese military aircraft around itself today. Of the 22, 20 sorties crossed the median line and entered Taiwan&#8217;s northern, central, and southwestern Air Defence Identification Zone (ADIZ). Earlier in the day, Taiwan detected the presence of five sorties of Chinese military aircraft, six […]",
+        "article": "Taiwan&#8217;s Ministry of National Defence detected the presence of 22 sorties of Chinese military aircraft around itself today. Of the 22, 20 sorties crossed the median line and entered Taiwan&#8217;s northern, central, and southwestern Air Defence Identification Zone (ADIZ). Earlier in the day, Taiwan detected the presence of five sorties of Chinese military aircraft, six naval vessels and five official ships around its territorial waters. Of the five, two crossed the median line and entered Taiwan&#8217;s southwestern part of the ADIZ. China continues to increase the intensity of its military activity around Taiwan. Beijing asserts that Taiwan is an inseparable part of China, a viewpoint embedded in national policy and upheld by domestic laws and international statements. Taiwan, however, maintains a distinct identity, functioning independently with its government, military, and economy.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T12:52:35+00:00",
+        "link": "https://newsonair.gov.in/taiwan-detects-22-chinese-military-aircraft-near-its-territory/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Akashwani-news.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Wildfires rage across Southern France amid record heat and dry weather",
+        "summary": "Wildfires raged in the south of France today after weeks of dry weather and record temperatures across the country, devastating large swaths of land. The biggest fire spread in the Aude and Herault regions, where up to 800 firefighters and 150 vehicles were deployed to tackle the flames that ran over 2,200 acres. Further fires […]",
+        "article": "Wildfires raged in the south of France today after weeks of dry weather and record temperatures across the country, devastating large swaths of land. The biggest fire spread in the Aude and Herault regions, where up to 800 firefighters and 150 vehicles were deployed to tackle the flames that ran over 2,200 acres. Further fires broke out in the neighbouring Marseille region, where two blazes were brought under control, but not yet extinguished. Alain Bucquet, the Aude prefect, said fire services will receive support from two additional water-bomber aircraft, bringing the total number of Canadair planes on the site to four. The Aude is regularly hit by wildfires, and firefighters last year contained France&#8217;s largest wildfire in decades in the region. High temperatures are expected in the coming days, and the drought is expected to last, with no rain forecast following the early heatwave in May and the one that gripped France at the end of June.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T12:47:42+00:00",
+        "link": "https://newsonair.gov.in/wildfires-rage-across-southern-france-amid-record-heat-and-dry-weather/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Akashwani-news.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Russian drone and missile attack on Kyiv kills 17, injures over 90",
+        "summary": "Russia launched drone and missile attack on Ukrainian capital overnight killing 17 civilians and injuring more than 90 others. Damage was recorded in 30 locations across Kyiv, mainly residential buildings and civilian infrastructure. Russia&#8217;s Defense Ministry said in a statement the deadly bombardment was in response to Ukraine&#8217;s long-range strikes on its civilian infrastructure. Ukrai",
+        "article": "Russia launched drone and missile attack on Ukrainian capital overnight killing 17 civilians and injuring more than 90 others. Damage was recorded in 30 locations across Kyiv, mainly residential buildings and civilian infrastructure. Russia&#8217;s Defense Ministry said in a statement the deadly bombardment was in response to Ukraine&#8217;s long-range strikes on its civilian infrastructure. Ukraine&#8217;s increasingly frequent and large-scale attacks on Russia, described by President Volodymyr Zelenskyy as a 40-day blitz, have primarily targeted oil refineries, triggering a fuel crisis in Russia more than four years after the war between Kyiv and Moscow began.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T12:17:21+00:00",
+        "link": "https://newsonair.gov.in/russian-drone-and-missile-attack-on-kyiv-kills-17-injures-over-90/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Akashwani-news.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Romania: Powerful storm kills one, causes widespread damage in Bucharest",
+        "summary": "A powerful storm swept across Romania’s capital, Bucharest, and 20 counties yesterday, leaving one person dead and causing widespread damage. Emergency services said nearly 2,000 calls for assistance were received in Bucharest alone, where several metro stations were flooded. The storm also affected around 60 towns and villages outside the capital, damaging dozens of homes […]",
+        "article": "A powerful storm swept across Romania’s capital, Bucharest, and 20 counties yesterday, leaving one person dead and causing widespread damage. Emergency services said nearly 2,000 calls for assistance were received in Bucharest alone, where several metro stations were flooded. The storm also affected around 60 towns and villages outside the capital, damaging dozens of homes and vehicles. Police and firefighters were deployed across the affected regions to evacuate residents from flooded homes and clear fallen trees and debris. The severe weather followed an intense heat wave earlier this week, with temperatures crossing 40 degrees Celsius in parts of the country, increasing electricity demand and driving up power prices.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T09:19:20+00:00",
+        "link": "https://newsonair.gov.in/romania-powerful-storm-kills-one-causes-widespread-damage-in-bucharest/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats-3.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Pakistan: Seven killed, one missing after tourist boat capsizes in Khyber Pakhtunkhwa",
+        "summary": "In Pakistan, Seven people died and one went missing after a tourist boat capsized in Saifullah Lake in Khyber Pakhtunkhwa province. According to the Police, the boat was carrying eight members of a family on a sightseeing trip when it overturned in the Swat district. Rescue teams have recovered seven bodies and are still […]",
+        "article": "In Pakistan, Seven people died and one went missing after a tourist boat capsized in Saifullah Lake in Khyber Pakhtunkhwa province. According to the Police, the boat was carrying eight members of a family on a sightseeing trip when it overturned in the Swat district. Rescue teams have recovered seven bodies and are still searching for the missing person. All the victims were from Pakistan’s Punjab province. Rescue 1122 teams reached the spot and recovered seven bodies from the water near the Mahodand area. Authorities have launched an investigation into the cause of the accident. Khyber Pakhtunkhwa Chief Minister Sohail Afridi has ordered a report and directed officials to take action if any negligence is found. In a separate incident, 14 children died and several others were injured when the roof of a private tuition academy collapsed in Lahore’s Kahna area on Tuesday. Around 20 people were trapped under the debris, and some injured children remain in critical condition. Officials and human rights groups have raised concerns over repeated building collapses in Pakistan, blaming poor construction standards and weak safety checks.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T09:16:44+00:00",
+        "link": "https://newsonair.gov.in/pakistan-seven-killed-one-missing-after-tourist-boat-capsizes-in-khyber-pakhtunkhwa/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -546,8 +546,8 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T09:13:24+00:00",
         "link": "https://newsonair.gov.in/extreme-weather-hits-canada-with-scorching-heat-severe-flooding/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ooii.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -557,8 +557,8 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T09:10:42+00:00",
         "link": "https://newsonair.gov.in/people-of-venezuela-express-appreciation-for-indian-medical-team-at-field-hospital-established-under-operation-amistad/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/poo.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -568,8 +568,8 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T08:46:19+00:00",
         "link": "https://newsonair.gov.in/indias-proposal-for-comprehensive-convention-on-international-terrorism-gains-renewed-support-at-un-general-assembly/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/un.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -579,45 +579,12 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T06:30:17+00:00",
         "link": "https://newsonair.gov.in/india-reiterates-firm-stand-against-terrorism-calls-for-united-global-action/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pooo.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "sports": [
-      {
-        "title": "Men’s Cricket: First T20 International between India and England abandoned due to rain",
-        "summary": "In Men&#8217;s Cricket, the first T20 International between India and England was abandoned due to rain in Chester-le-Street today. The five-match series now stands level at 0-0. Opting to bat first, India scored 189 for 7 in stipulated 20 overs, with skipper Shreyas Iyer scoring the highest 68 runs off 47 balls. Opening batter […]",
-        "article": "In Men&#8217;s Cricket, the first T20 International between India and England was abandoned due to rain in Chester-le-Street today. The five-match series now stands level at 0-0. Opting to bat first, India scored 189 for 7 in stipulated 20 overs, with skipper Shreyas Iyer scoring the highest 68 runs off 47 balls. Opening batter Abhishek Sharma also scored 59 runs, while Shivam Dubey remained not out at 42 runs. For England, Saqib Mahmood bagged 3 wickets. However, hosts England didn&#8217;t get the opportunity to bat in the second innings as rain paused the match. Both teams will now face each other in second T20 in Manchester on Saturday, while the third match will be played in Nottingham on 7th of July. Bristol and Southampton will host the final two matches of the T20 series, which concludes on 11th of July. Following this, India will face England in a three-match ODI series.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T03:10:53+00:00",
-        "link": "https://newsonair.gov.in/mens-cricket-first-t20-international-between-india-and-england-abandoned-due-to-rain/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Pollock_to_Hussey.jpg",
-        "image_credit": "Wikipedia – Cricket (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "135th Edition of Durand Cup to kick off July 25 in Kolkata",
-        "summary": "The 135th Edition of Durand Cup will kick off from July 25 in Kolkata and will be held across Ranchi, Imphal, Shillong and Guwahati till August 23. Kolkata will once again serve as the tournament&#8217;s hub, hosting the opening match, two quarter-finals, one semi-final and the final at Vivekananda Yuba Bharati Krirangan and Kishore Bharati […]",
-        "article": "The 135th Edition of Durand Cup will kick off from July 25 in Kolkata and will be held across Ranchi, Imphal, Shillong and Guwahati till August 23. Kolkata will once again serve as the tournament&#8217;s hub, hosting the opening match, two quarter-finals, one semi-final and the final at Vivekananda Yuba Bharati Krirangan and Kishore Bharati Krirangan. Jharkhand capital Ranchi will make its debut as a Durand Cup host, with the Birsa Munda Stadium staging league matches from July 26 to August 16 and one quarter-final. The teams include Indian Super League clubs, I-League sides, Services teams, emerging domestic outfits and overseas teams. Defenders FC of the Sri Lankan Armed Forces and Meghalaya Premier League champions Nongkseh Sports, Social and Cultural Club are among the debutants.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T02:13:41+00:00",
-        "link": "https://newsonair.gov.in/135th-edition-of-durand-cup-to-kick-off-july-25-in-kolkata/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kolkata_maidan.jpg/1280px-Kolkata_maidan.jpg",
-        "image_credit": "Wikipedia – Kolkata (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ishan Kishan replaces Abhishek Sharma as world’s Number one T20 International batter",
-        "summary": "India wicketkeeper-batter Ishan Kishan has replaced teammate Abhishek Sharma as the world&#8217;s Number one T20 International batter in the latest ICC Player Rankings. Kishan attained a new career-best rating after the latest ICC rankings update released today, following India&#8217;s 2-nil T20 International series defeat to Ireland in Belfast. The left-handed batter&#8217;s rise to the summit […",
-        "article": "India wicketkeeper-batter Ishan Kishan has replaced teammate Abhishek Sharma as the world&#8217;s Number one T20 International batter in the latest ICC Player Rankings. Kishan attained a new career-best rating after the latest ICC rankings update released today, following India&#8217;s 2-nil T20 International series defeat to Ireland in Belfast. The left-handed batter&#8217;s rise to the summit has been fuelled by his outstanding performances at the ICC T20 World Cup earlier this year, where he amassed 317 runs at a strike rate of almost 200. In another major change, Australia&#8217;s Travis Head climbed to the Number one spot among Test batters for the first time in his career.",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T10:27:48+00:00",
-        "link": "https://newsonair.gov.in/ishan-kishan-replaces-abhishek-sharma-as-worlds-number-one-t20-international-batter/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Ishan_Kishan.jpg",
-        "image_credit": "Wikipedia – Ishan Kishan (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
       {
         "title": "ICC Women’s T20 World Cup: England to face South Africa in second semi-final at Kennington Oval in London",
         "summary": "In the ICC Women&#8217;s T20 World Cup, England will face South Africa in the second semi-final at the Kennington Oval in London today. The match will begin at 11 PM IST. The winner of this match will face Australia in the final at the iconic Lord&#8217;s cricket ground in London on July 5. England […]",
@@ -625,8 +592,8 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T09:07:34+00:00",
         "link": "https://newsonair.gov.in/icc-womens-t20-world-cup-england-to-face-south-africa-in-second-semi-final-at-kennington-oval-in-london/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/iii.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -636,8 +603,41 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T03:11:48+00:00",
         "link": "https://newsonair.gov.in/belgium-stuns-senegal-3-2-in-extra-time-thriller-at-fifa-world-cup/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/SUNDAY.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Men’s Cricket: First T20 International between India and England abandoned due to rain",
+        "summary": "In Men&#8217;s Cricket, the first T20 International between India and England was abandoned due to rain in Chester-le-Street today. The five-match series now stands level at 0-0. Opting to bat first, India scored 189 for 7 in stipulated 20 overs, with skipper Shreyas Iyer scoring the highest 68 runs off 47 balls. Opening batter […]",
+        "article": "In Men&#8217;s Cricket, the first T20 International between India and England was abandoned due to rain in Chester-le-Street today. The five-match series now stands level at 0-0. Opting to bat first, India scored 189 for 7 in stipulated 20 overs, with skipper Shreyas Iyer scoring the highest 68 runs off 47 balls. Opening batter Abhishek Sharma also scored 59 runs, while Shivam Dubey remained not out at 42 runs. For England, Saqib Mahmood bagged 3 wickets. However, hosts England didn&#8217;t get the opportunity to bat in the second innings as rain paused the match. Both teams will now face each other in second T20 in Manchester on Saturday, while the third match will be played in Nottingham on 7th of July. Bristol and Southampton will host the final two matches of the T20 series, which concludes on 11th of July. Following this, India will face England in a three-match ODI series.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T03:10:53+00:00",
+        "link": "https://newsonair.gov.in/mens-cricket-first-t20-international-between-india-and-england-abandoned-due-to-rain/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MATCH.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "135th Edition of Durand Cup to kick off July 25 in Kolkata",
+        "summary": "The 135th Edition of Durand Cup will kick off from July 25 in Kolkata and will be held across Ranchi, Imphal, Shillong and Guwahati till August 23. Kolkata will once again serve as the tournament&#8217;s hub, hosting the opening match, two quarter-finals, one semi-final and the final at Vivekananda Yuba Bharati Krirangan and Kishore Bharati […]",
+        "article": "The 135th Edition of Durand Cup will kick off from July 25 in Kolkata and will be held across Ranchi, Imphal, Shillong and Guwahati till August 23. Kolkata will once again serve as the tournament&#8217;s hub, hosting the opening match, two quarter-finals, one semi-final and the final at Vivekananda Yuba Bharati Krirangan and Kishore Bharati Krirangan. Jharkhand capital Ranchi will make its debut as a Durand Cup host, with the Birsa Munda Stadium staging league matches from July 26 to August 16 and one quarter-final. The teams include Indian Super League clubs, I-League sides, Services teams, emerging domestic outfits and overseas teams. Defenders FC of the Sri Lankan Armed Forces and Meghalaya Premier League champions Nongkseh Sports, Social and Cultural Club are among the debutants.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T02:13:41+00:00",
+        "link": "https://newsonair.gov.in/135th-edition-of-durand-cup-to-kick-off-july-25-in-kolkata/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/durand-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Ishan Kishan replaces Abhishek Sharma as world’s Number one T20 International batter",
+        "summary": "India wicketkeeper-batter Ishan Kishan has replaced teammate Abhishek Sharma as the world&#8217;s Number one T20 International batter in the latest ICC Player Rankings. Kishan attained a new career-best rating after the latest ICC rankings update released today, following India&#8217;s 2-nil T20 International series defeat to Ireland in Belfast. The left-handed batter&#8217;s rise to the summit […",
+        "article": "India wicketkeeper-batter Ishan Kishan has replaced teammate Abhishek Sharma as the world&#8217;s Number one T20 International batter in the latest ICC Player Rankings. Kishan attained a new career-best rating after the latest ICC rankings update released today, following India&#8217;s 2-nil T20 International series defeat to Ireland in Belfast. The left-handed batter&#8217;s rise to the summit has been fuelled by his outstanding performances at the ICC T20 World Cup earlier this year, where he amassed 317 runs at a strike rate of almost 200. In another major change, Australia&#8217;s Travis Head climbed to the Number one spot among Test batters for the first time in his career.",
+        "date": "2026-07-01",
+        "pubDate": "2026-07-01T10:27:48+00:00",
+        "link": "https://newsonair.gov.in/ishan-kishan-replaces-abhishek-sharma-as-worlds-number-one-t20-international-batter/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ishanb.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -647,8 +647,8 @@ window.VM_NEWS = {
         "date": "2026-07-01",
         "pubDate": "2026-07-01T02:35:10+00:00",
         "link": "https://newsonair.gov.in/france-beat-sweden-3-0-to-enter-round-of-16-at-fifa-world-cup-football/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-10.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -658,8 +658,8 @@ window.VM_NEWS = {
         "date": "2026-07-01",
         "pubDate": "2026-07-01T02:04:46+00:00",
         "link": "https://newsonair.gov.in/hockey-india-announces-indian-junior-mens-team-for-belgium-tour/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-3.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -669,8 +669,8 @@ window.VM_NEWS = {
         "date": "2026-07-01",
         "pubDate": "2026-07-01T01:59:10+00:00",
         "link": "https://newsonair.gov.in/india-to-take-on-england-in-first-t20i-of-five-match-series-today/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202606303846688-scaled.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -680,8 +680,8 @@ window.VM_NEWS = {
         "date": "2026-07-01",
         "pubDate": "2026-07-01T00:30:39+00:00",
         "link": "https://newsonair.gov.in/australia-enter-icc-womens-t20-world-cup-final-with-eight-wicket-win-over-west-indies/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -691,8 +691,8 @@ window.VM_NEWS = {
         "date": "2026-06-30",
         "pubDate": "2026-06-30T14:37:31+00:00",
         "link": "https://newsonair.gov.in/morocco-paraguay-and-brazil-advance-to-fifa-world-cup-round-of-16/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/FIFA-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
@@ -704,8 +704,8 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T12:56:53+00:00",
         "link": "https://newsonair.gov.in/asian-stock-market-indices-end-lower-today/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/FARMERS_GOV_-_Vue_Her_-_Diversified_Farmer_%2820181109-FPAC-LSC-0912%29.jpg/1280px-FARMERS_GOV_-_Vue_Her_-_Diversified_Farmer_%2820181109-FPAC-LSC-0912%29.jpg",
-        "image_credit": "Wikimedia Commons (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/04/stock-market.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -715,8 +715,8 @@ window.VM_NEWS = {
         "date": "2026-07-01",
         "pubDate": "2026-07-01T13:43:52+00:00",
         "link": "https://newsonair.gov.in/gold-rises-0-5-silver-slips-0-1-in-indian-bullion-market/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/1280px-Gold-crystals.jpg",
-        "image_credit": "Wikipedia – Gold (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/gold-silver.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -726,41 +726,8 @@ window.VM_NEWS = {
         "date": "2026-07-01",
         "pubDate": "2026-07-01T12:46:44+00:00",
         "link": "https://newsonair.gov.in/rupee-depreciates-by-57-paise-to-close-at-95-24-against-us-dollar/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Rupee_Usage.png/1280px-Rupee_Usage.png",
-        "image_credit": "Wikipedia – Rupee (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India’s industrial output grows 5.1 per cent in May : MoSPI",
-        "summary": "India’s industrial output growth, as measured by the Index of Industrial Production (IIP), expanded by 5.1 per cent in May this year on an annual basis. The May reading follows April&#8217;s industrial output growth of 4.9 per cent, which marked the first release under the revamped IIP series with 2022-23 as the new base year, […]",
-        "article": "India’s industrial output growth, as measured by the Index of Industrial Production (IIP), expanded by 5.1 per cent in May this year on an annual basis. The May reading follows April&#8217;s industrial output growth of 4.9 per cent, which marked the first release under the revamped IIP series with 2022-23 as the new base year, incorporating an updated product basket, revised weights and broader sectoral coverage. As per the data released by the Ministry of Statistics and Programme Implementation (MOSPI), growth in the electricity and gas supply sector expanded by 9.9 per cent during last month. Manufacturing, as well as water supply, sewerage and waste management sectors, posted a 5.5 per cent growth. However, the mining and quarrying sector proved to be a laggard, decelerating by 1.6 per cent. Alongside the May data, MoSPI announced that it has replaced the Wholesale Price Index with the Output Producer Price Index as the deflator for the new IIP series, with 2022-23 as the base year. The ministry has revised the entire 2022-23 based IIP series using the Output PPI, superseding the WPI-based series released on 1st of this month. MoSPI said the move would improve the estimation of real industrial output, as the Output PPI offers a more granular measure of producer prices for products whose output is reported in value terms. It added that the adoption aligns with international best practices and recommendations of the Technical Advisory Committee on the IIP base revision and will facilitate the eventual adoption of PPI-based volume estimation methods in the national accounts.",
-        "date": "2026-06-29",
-        "pubDate": "2026-06-29T14:58:54+00:00",
-        "link": "https://newsonair.gov.in/indias-industrial-output-grows-5-1-per-cent-in-may-mospi/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Podophyllum_peltatum_Shenks_Ferry_2.jpg/1280px-Podophyllum_peltatum_Shenks_Ferry_2.jpg",
-        "image_credit": "Wikipedia – May (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Global crude oil prices rise in early trade",
-        "summary": "Global crude oil prices rose today. Brent crude was trading 0.8 per cent up at 72 US dollars and 58 cents per barrel. West Texas Intermediate crude was also trading nearly 1.2 per cent up at 70 US dollars and three cents per barrel, when reports last came in.",
-        "article": "Global crude oil prices rose today. Brent crude was trading 0.8 per cent up at 72 US dollars and 58 cents per barrel. West Texas Intermediate crude was also trading nearly 1.2 per cent up at 70 US dollars and three cents per barrel, when reports last came in.",
-        "date": "2026-06-29",
-        "pubDate": "2026-06-29T12:30:35+00:00",
-        "link": "https://newsonair.gov.in/global-crude-oil-prices-rise-in-early-trade/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/PIIGS_Mk_4_map.png/1280px-PIIGS_Mk_4_map.png",
-        "image_credit": "Wikimedia Commons (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Gold and silver prices trade lower in Indian bullion market",
-        "summary": "In the Indian bullion market, 24-carat gold was trading one per cent down at 1 lakh 43 thousand 180 rupees per 10 grams, while Silver was trading 0.6 per cent down at 2 lakh 22 thousand 400 rupees per kilogram, a short while ago. At the Multi Commodity Exchange, Gold for August contract was […]",
-        "article": "In the Indian bullion market, 24-carat gold was trading one per cent down at 1 lakh 43 thousand 180 rupees per 10 grams, while Silver was trading 0.6 per cent down at 2 lakh 22 thousand 400 rupees per kilogram, a short while ago. At the Multi Commodity Exchange, Gold for August contract was trading one per cent lower at 1 lakh 42 thousand 755 rupees per 10 grams, and Silver for the September contract was trading over 0.6 per cent down at 2 lakh 22 thousand rupees per kilogram, when reports last came in.",
-        "date": "2026-06-29",
-        "pubDate": "2026-06-29T12:28:59+00:00",
-        "link": "https://newsonair.gov.in/gold-and-silver-prices-trade-lower-in-indian-bullion-market/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/1280px-Gold-crystals.jpg",
-        "image_credit": "Wikipedia – Gold (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/03/rupee-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -770,8 +737,8 @@ window.VM_NEWS = {
         "date": "2026-07-01",
         "pubDate": "2026-07-01T11:02:30+00:00",
         "link": "https://newsonair.gov.in/sensex-jumps-444-points-nifty-closes-above-24000/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HUMM.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -781,8 +748,8 @@ window.VM_NEWS = {
         "date": "2026-06-30",
         "pubDate": "2026-06-30T15:12:18+00:00",
         "link": "https://newsonair.gov.in/sensex-nifty-close-lower-broader-market-ends-higher/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/share-market.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -792,8 +759,19 @@ window.VM_NEWS = {
         "date": "2026-06-30",
         "pubDate": "2026-06-30T13:52:25+00:00",
         "link": "https://newsonair.gov.in/indias-net-external-liabilities-decline-to-209-9-billion-us-dollars-at-end-of-march/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/RBI-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India’s industrial output grows 5.1 per cent in May : MoSPI",
+        "summary": "India’s industrial output growth, as measured by the Index of Industrial Production (IIP), expanded by 5.1 per cent in May this year on an annual basis. The May reading follows April&#8217;s industrial output growth of 4.9 per cent, which marked the first release under the revamped IIP series with 2022-23 as the new base year, […]",
+        "article": "India’s industrial output growth, as measured by the Index of Industrial Production (IIP), expanded by 5.1 per cent in May this year on an annual basis. The May reading follows April&#8217;s industrial output growth of 4.9 per cent, which marked the first release under the revamped IIP series with 2022-23 as the new base year, incorporating an updated product basket, revised weights and broader sectoral coverage. As per the data released by the Ministry of Statistics and Programme Implementation (MOSPI), growth in the electricity and gas supply sector expanded by 9.9 per cent during last month. Manufacturing, as well as water supply, sewerage and waste management sectors, posted a 5.5 per cent growth. However, the mining and quarrying sector proved to be a laggard, decelerating by 1.6 per cent. Alongside the May data, MoSPI announced that it has replaced the Wholesale Price Index with the Output Producer Price Index as the deflator for the new IIP series, with 2022-23 as the base year. The ministry has revised the entire 2022-23 based IIP series using the Output PPI, superseding the WPI-based series released on 1st of this month. MoSPI said the move would improve the estimation of real industrial output, as the Output PPI offers a more granular measure of producer prices for products whose output is reported in value terms. It added that the adoption aligns with international best practices and recommendations of the Technical Advisory Committee on the IIP base revision and will facilitate the eventual adoption of PPI-based volume estimation methods in the national accounts.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T14:58:54+00:00",
+        "link": "https://newsonair.gov.in/indias-industrial-output-grows-5-1-per-cent-in-may-mospi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/economy.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -803,8 +781,30 @@ window.VM_NEWS = {
         "date": "2026-06-29",
         "pubDate": "2026-06-29T12:33:22+00:00",
         "link": "https://newsonair.gov.in/most-asian-stock-indices-end-higher/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Stock-market.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Global crude oil prices rise in early trade",
+        "summary": "Global crude oil prices rose today. Brent crude was trading 0.8 per cent up at 72 US dollars and 58 cents per barrel. West Texas Intermediate crude was also trading nearly 1.2 per cent up at 70 US dollars and three cents per barrel, when reports last came in.",
+        "article": "Global crude oil prices rose today. Brent crude was trading 0.8 per cent up at 72 US dollars and 58 cents per barrel. West Texas Intermediate crude was also trading nearly 1.2 per cent up at 70 US dollars and three cents per barrel, when reports last came in.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T12:30:35+00:00",
+        "link": "https://newsonair.gov.in/global-crude-oil-prices-rise-in-early-trade/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/03/Crude-oil.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Gold and silver prices trade lower in Indian bullion market",
+        "summary": "In the Indian bullion market, 24-carat gold was trading one per cent down at 1 lakh 43 thousand 180 rupees per 10 grams, while Silver was trading 0.6 per cent down at 2 lakh 22 thousand 400 rupees per kilogram, a short while ago. At the Multi Commodity Exchange, Gold for August contract was […]",
+        "article": "In the Indian bullion market, 24-carat gold was trading one per cent down at 1 lakh 43 thousand 180 rupees per 10 grams, while Silver was trading 0.6 per cent down at 2 lakh 22 thousand 400 rupees per kilogram, a short while ago. At the Multi Commodity Exchange, Gold for August contract was trading one per cent lower at 1 lakh 42 thousand 755 rupees per 10 grams, and Silver for the September contract was trading over 0.6 per cent down at 2 lakh 22 thousand rupees per kilogram, when reports last came in.",
+        "date": "2026-06-29",
+        "pubDate": "2026-06-29T12:28:59+00:00",
+        "link": "https://newsonair.gov.in/gold-and-silver-prices-trade-lower-in-indian-bullion-market/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/gold-silver.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
@@ -816,30 +816,8 @@ window.VM_NEWS = {
         "date": "2026-06-04",
         "pubDate": "2026-06-04T08:26:03+00:00",
         "link": "https://newsonair.gov.in/veteran-producer-and-former-cbfc-chairperson-pahlaj-nihalani-passes-away/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sydney_2015_Anzac_Day_march_%2817119683648%29.jpg/1280px-Sydney_2015_Anzac_Day_march_%2817119683648%29.jpg",
-        "image_credit": "Wikipedia – Veteran (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "UK Named Country Partner for Hornbill Festival 2025 in Nagaland",
-        "summary": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence […]",
-        "article": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence of British High Commissioner to India Lindy Cameron, and senior representatives from both sides at New Delhi. Under this partnership, the British Council, working with the British Deputy High Commission in Kolkata, will curate meaningful programming for the festival, including bringing an artist from the UK to participate in the festival. The state also named Air India Express as the Official Travel Partner for the Hornbill Festival. The partnership was announced by Advisor to Chief Minister, Abu Metha and Managing Director, Air India Express, Aloke Singh, at the airline&#8217;s headquarters in Gurugram in the presence of several key officials. As part of the collaboration, Air India Express will introduce a Boeing 737-8 aircraft featuring a livery inspired by the Tsüngkotepsü design of the Ao Naga tribe’s warrior shawl, under its ‘Tales of India’ initiative. The special aircraft will be received by Chief Minister Neiphiu Rio at Dimapur Airport on November 22. The airline will also offer a 15 percent discount on flights to and from Nagaland, starting November 20. Welcoming the partnerships, Chief Minister Neiphiu Rio expressed hopes that the ties will drive tourism, cultural exchange, and economic growth.",
-        "date": "2025-11-18",
-        "pubDate": "2025-11-18T06:24:16+00:00",
-        "link": "https://newsonair.gov.in/uk-named-country-partner-for-hornbill-festival-2025-in-nagaland/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kapamodzu.jpg/1280px-Kapamodzu.jpg",
-        "image_credit": "Wikipedia – Nagaland (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "BIFF 2025: Shape of Momo to Premiere in Vision Section of Asia’s Biggest Film Festival",
-        "summary": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &#160; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its […]",
-        "article": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &nbsp; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its Vision Section highlights promising works from independent Asian cinema, showcasing daring and original stories from both emerging and mid-career directors. &nbsp; The selection places Shape of Momo alongside some of the most exciting contemporary films from across Asia. The film will also be screened at the San Sebastián International Film Festival in September, marking a significant step in its international journey.",
-        "date": "2025-08-21",
-        "pubDate": "2025-08-21T05:59:25+00:00",
-        "link": "https://newsonair.gov.in/biff-2025-shape-of-momo-to-premiere-in-vision-section-of-asias-biggest-film-festival/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Premiere_at_Chinese_Theater_%283555047236%29.jpg/1280px-Premiere_at_Chinese_Theater_%283555047236%29.jpg",
-        "image_credit": "Wikipedia – Premiere (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/pahln.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -849,8 +827,8 @@ window.VM_NEWS = {
         "date": "2025-12-25",
         "pubDate": "2025-12-25T06:41:17+00:00",
         "link": "https://newsonair.gov.in/150th-shree-baba-harivallabh-sangeet-sammelan-begins-in-jalandhar-tomorrow/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/hargobind.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -860,8 +838,8 @@ window.VM_NEWS = {
         "date": "2025-11-27",
         "pubDate": "2025-11-27T07:31:40+00:00",
         "link": "https://newsonair.gov.in/goa-cm-releases-commemorative-stamp-honouring-filmmaker-k-vaikunth-at-iffi-56/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/pramod.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -871,8 +849,19 @@ window.VM_NEWS = {
         "date": "2025-11-18",
         "pubDate": "2025-11-18T08:00:22+00:00",
         "link": "https://newsonair.gov.in/media-and-entertainment-sector-among-indias-fastest-growing-industries/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/media.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "UK Named Country Partner for Hornbill Festival 2025 in Nagaland",
+        "summary": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence […]",
+        "article": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence of British High Commissioner to India Lindy Cameron, and senior representatives from both sides at New Delhi. Under this partnership, the British Council, working with the British Deputy High Commission in Kolkata, will curate meaningful programming for the festival, including bringing an artist from the UK to participate in the festival. The state also named Air India Express as the Official Travel Partner for the Hornbill Festival. The partnership was announced by Advisor to Chief Minister, Abu Metha and Managing Director, Air India Express, Aloke Singh, at the airline&#8217;s headquarters in Gurugram in the presence of several key officials. As part of the collaboration, Air India Express will introduce a Boeing 737-8 aircraft featuring a livery inspired by the Tsüngkotepsü design of the Ao Naga tribe’s warrior shawl, under its ‘Tales of India’ initiative. The special aircraft will be received by Chief Minister Neiphiu Rio at Dimapur Airport on November 22. The airline will also offer a 15 percent discount on flights to and from Nagaland, starting November 20. Welcoming the partnerships, Chief Minister Neiphiu Rio expressed hopes that the ties will drive tourism, cultural exchange, and economic growth.",
+        "date": "2025-11-18",
+        "pubDate": "2025-11-18T06:24:16+00:00",
+        "link": "https://newsonair.gov.in/uk-named-country-partner-for-hornbill-festival-2025-in-nagaland/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/hornbill.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -882,8 +871,8 @@ window.VM_NEWS = {
         "date": "2025-11-17",
         "pubDate": "2025-11-17T04:43:41+00:00",
         "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-urges-media-to-be-partners-in-nation-building-at-ramoji-excellence-awards-2025/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/CP-radha.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -893,8 +882,8 @@ window.VM_NEWS = {
         "date": "2025-11-02",
         "pubDate": "2025-11-02T16:25:04+00:00",
         "link": "https://newsonair.gov.in/prasar-bharati-and-culture-ministry-launch-month-long-akashvani-sangeet-sammelan-nationwide/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/akashvani.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -904,8 +893,19 @@ window.VM_NEWS = {
         "date": "2025-08-22",
         "pubDate": "2025-08-22T06:34:48+00:00",
         "link": "https://newsonair.gov.in/comedian-and-veteran-punjabi-actor-jaswinder-bhalla-passes-away/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/bhalla.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "BIFF 2025: Shape of Momo to Premiere in Vision Section of Asia’s Biggest Film Festival",
+        "summary": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &#160; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its […]",
+        "article": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &nbsp; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its Vision Section highlights promising works from independent Asian cinema, showcasing daring and original stories from both emerging and mid-career directors. &nbsp; The selection places Shape of Momo alongside some of the most exciting contemporary films from across Asia. The film will also be screened at the San Sebastián International Film Festival in September, marking a significant step in its international journey.",
+        "date": "2025-08-21",
+        "pubDate": "2025-08-21T05:59:25+00:00",
+        "link": "https://newsonair.gov.in/biff-2025-shape-of-momo-to-premiere-in-vision-section-of-asias-biggest-film-festival/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/bfii.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -915,34 +915,12 @@ window.VM_NEWS = {
         "date": "2025-02-17",
         "pubDate": "2025-02-17T02:02:43+00:00",
         "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-strengthens-ties-with-indian-ocean-nations-at-muscat-conference/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/02/cats-476.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "lifestyle": [
-      {
-        "title": "West Bengal reports two suspected Nipah cases; centre sends response team",
-        "summary": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry […]",
-        "article": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry of Health and Family Welfare has shared a video in which Union Health Minister Jagat Prakash Nadda said the Central government firmly stands with the State government, and it is providing comprehensive technical, logistical and operational support to the State Government for the effective management and prevention of the outbreak. He added that upon receipt of information, the Secretary, Health and Family Welfare, immediately held discussions with the Chief Secretary and Principal Secretary, Health of West Bengal, to review the situation. Mr Nadda said he had also spoken to the West Bengal Chief Minister, Mamata Banerjee and emphasised for Centre- State co-ordination in this direction. Meanwhile, our Kolkata Correspondent reports the West Bengal government has implemented comprehensive precautionary measures to contain the spread of the virus, including two healthcare workers at a private hospital in Barasat, North 24 Parganas. State&#8217;s Chief Secretary, Nandini Chakraborty, convened an emergency meeting at Nabanna with the state&#8217;s Health Secretary and other senior officials to review the situation. Briefing the press, she confirmed that both patients are currently undergoing treatment, with a specialized medical team monitoring their condition. Preliminary investigations suggest the individuals contracted the virus during a work-related visit to Purba Bardhaman. Consequently, surveillance has been intensified across Purba Bardhaman, North 24 Parganas, and Nadia districts, while authorities are actively tracing high-risk contacts. To assist citizens, the State government has launched two helpline numbers: 033 2333-0180 and 9874708858. &nbsp;",
-        "date": "2026-01-13",
-        "pubDate": "2026-01-13T03:53:37+00:00",
-        "link": "https://newsonair.gov.in/west-bengal-reports-two-suspected-nipah-cases-centre-sends-response-team/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Howrah_bridge_betwixt_Lights.jpg/1280px-Howrah_bridge_betwixt_Lights.jpg",
-        "image_credit": "Wikipedia – West Bengal (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Chikungunya Outbreak in China: Over 7,000 Cases Emerge in Guangdong",
-        "summary": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. […]",
-        "article": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. Apart from Foshan, at least 12 other cities in China&#8217;s southern Guangdong province have reported infections from this a mosquito-borne virus, with nearly 3,000 cases got reported last week. Although rare in China, chikungunya outbreaks are common in South and South East Asia and parts of Africa. On Monday, Hong Kong reported its first case of the viral disease after a 12-year-old boy who developed fever, rash and joint pain after traveling to Foshan in July. An official said, all the reported cases have been mild so far, with 95 per cent of the patients discharged within seven days, Still, the cases have led to some panic, given the virus is not widely known in the country. Meanwhile, the US has urged travellers to China to exercise &#8220;increased caution&#8221; following the outbreak.",
-        "date": "2025-08-05",
-        "pubDate": "2025-08-05T12:03:13+00:00",
-        "link": "https://newsonair.gov.in/chikungunya-outbreak-in-china-over-7000-cases-emerge-in-guangdong/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg/1280px-China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg",
-        "image_credit": "Wikipedia – Guangdong (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
       {
         "title": "Health Minister JP Nadda Urges Citizens to Eliminate TB on World Tuberculosis Day",
         "summary": "Health and Family Welfare Minister Jagat Prakash Nadda today called on citizens to eliminate TB and ensure better health for all, especially the most vulnerable, on the occasion of World Tuberculosis Day. In a social media post, the Health Minister said that India has made notable progress through the National TB Elimination Programme, strengthening efforts […]",
@@ -950,8 +928,8 @@ window.VM_NEWS = {
         "date": "2026-03-24",
         "pubDate": "2026-03-24T07:13:43+00:00",
         "link": "https://newsonair.gov.in/health-minister-jp-nadda-urges-citizens-to-eliminate-tb-on-world-tuberculosis-day/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/TB-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -961,8 +939,8 @@ window.VM_NEWS = {
         "date": "2026-03-24",
         "pubDate": "2026-03-24T06:13:25+00:00",
         "link": "https://newsonair.gov.in/india-tightens-surveillance-on-glp-1-weight-loss-drug-sales/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/wei.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -972,8 +950,19 @@ window.VM_NEWS = {
         "date": "2026-01-13",
         "pubDate": "2026-01-13T11:18:49+00:00",
         "link": "https://newsonair.gov.in/vp-radhakrishnan-urges-youth-to-be-drug-free-for-a-viksit-bharat/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/vp-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "West Bengal reports two suspected Nipah cases; centre sends response team",
+        "summary": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry […]",
+        "article": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry of Health and Family Welfare has shared a video in which Union Health Minister Jagat Prakash Nadda said the Central government firmly stands with the State government, and it is providing comprehensive technical, logistical and operational support to the State Government for the effective management and prevention of the outbreak. He added that upon receipt of information, the Secretary, Health and Family Welfare, immediately held discussions with the Chief Secretary and Principal Secretary, Health of West Bengal, to review the situation. Mr Nadda said he had also spoken to the West Bengal Chief Minister, Mamata Banerjee and emphasised for Centre- State co-ordination in this direction. Meanwhile, our Kolkata Correspondent reports the West Bengal government has implemented comprehensive precautionary measures to contain the spread of the virus, including two healthcare workers at a private hospital in Barasat, North 24 Parganas. State&#8217;s Chief Secretary, Nandini Chakraborty, convened an emergency meeting at Nabanna with the state&#8217;s Health Secretary and other senior officials to review the situation. Briefing the press, she confirmed that both patients are currently undergoing treatment, with a specialized medical team monitoring their condition. Preliminary investigations suggest the individuals contracted the virus during a work-related visit to Purba Bardhaman. Consequently, surveillance has been intensified across Purba Bardhaman, North 24 Parganas, and Nadia districts, while authorities are actively tracing high-risk contacts. To assist citizens, the State government has launched two helpline numbers: 033 2333-0180 and 9874708858. &nbsp;",
+        "date": "2026-01-13",
+        "pubDate": "2026-01-13T03:53:37+00:00",
+        "link": "https://newsonair.gov.in/west-bengal-reports-two-suspected-nipah-cases-centre-sends-response-team/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/09/nipha.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -983,8 +972,19 @@ window.VM_NEWS = {
         "date": "2025-08-13",
         "pubDate": "2025-08-13T11:11:04+00:00",
         "link": "https://newsonair.gov.in/wild-poliovirus-detected-in-sewage-samples-across-42-sites-in-pakistan/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/PPPPP.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Chikungunya Outbreak in China: Over 7,000 Cases Emerge in Guangdong",
+        "summary": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. […]",
+        "article": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. Apart from Foshan, at least 12 other cities in China&#8217;s southern Guangdong province have reported infections from this a mosquito-borne virus, with nearly 3,000 cases got reported last week. Although rare in China, chikungunya outbreaks are common in South and South East Asia and parts of Africa. On Monday, Hong Kong reported its first case of the viral disease after a 12-year-old boy who developed fever, rash and joint pain after traveling to Foshan in July. An official said, all the reported cases have been mild so far, with 95 per cent of the patients discharged within seven days, Still, the cases have led to some panic, given the virus is not widely known in the country. Meanwhile, the US has urged travellers to China to exercise &#8220;increased caution&#8221; following the outbreak.",
+        "date": "2025-08-05",
+        "pubDate": "2025-08-05T12:03:13+00:00",
+        "link": "https://newsonair.gov.in/chikungunya-outbreak-in-china-over-7000-cases-emerge-in-guangdong/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/chikungunya.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -994,8 +994,8 @@ window.VM_NEWS = {
         "date": "2025-08-05",
         "pubDate": "2025-08-05T02:16:32+00:00",
         "link": "https://newsonair.gov.in/pm-matru-vandana-yojana-registration-drive-extended-till-august-15/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/pradhanmantri-matri-vandana-yojana-pmmvy.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1005,8 +1005,8 @@ window.VM_NEWS = {
         "date": "2025-07-28",
         "pubDate": "2025-07-28T03:24:29+00:00",
         "link": "https://newsonair.gov.in/vaccines-prevented-over-2-5-million-covid-deaths-worldwide-study/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/07/ffd.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1016,8 +1016,8 @@ window.VM_NEWS = {
         "date": "2025-07-14",
         "pubDate": "2025-07-14T11:41:18+00:00",
         "link": "https://newsonair.gov.in/world-embracing-ayurvedas-science-and-potential-ayush-minister/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/Pratap-Rao-Jadhav-1-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ]
@@ -1036,17 +1036,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "निवेश भारत की गति और जापान की विशेषज्ञता के साथ मिलने पर पूरी दुनिया को लाभ: पीएम मोदी",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा है कि भारत-जापान संबंध बहुत विशेष हैं और आर्थिक साझेदारी की सफलता के कई शानदार उदाहरण मौजूद हैं। नई दिल्ली में आज भारत-जापान संयुक्त आर्थिक मंच में श्री मोदी ने कहा कि जापान की विशेषज्ञता और निवेश भारत की गति और व्यापकता के साथ मिलने पर पूरी दुनिया को लाभ […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा है कि भारत-जापान संबंध बहुत विशेष हैं और आर्थिक साझेदारी की सफलता के कई शानदार उदाहरण मौजूद हैं। नई दिल्ली में आज भारत-जापान संयुक्त आर्थिक मंच में श्री मोदी ने कहा कि जापान की विशेषज्ञता और निवेश भारत की गति और व्यापकता के साथ मिलने पर पूरी दुनिया को लाभ होता है। उन्होंने कहा कि दोनों पक्षों ने आज साझेदारी को और भी गतिशील तथा प्रगाढ बनाने का निर्णय लिया है। प्रधानमंत्री ने कहा कि भारत और जापान ने आर्थिक सुरक्षा, आर्टिफिशियल इंटेलिजेंस, रक्षा और स्वास्थ्य जैसे कई क्षेत्रों पर समझौते किए हैं। यह समझौते दोनों देशों की साझेदारी को भविष्य के अनुकूल और असीमित बनाएंगे। श्री मोदी ने कहा कि आर्थिक जगत इस समय आपूर्ति श्रृंखला अडचनों, व्यापार अनिश्चितता और वैश्विक मांग में गिरावट से जूझ रहा है। उन्होंने कहा कि भारत विश्व की सबसे तेजी से बढ़ती प्रमुख अर्थव्यवस्था है और पिछले वित्तीय वर्ष में भारत की आर्थिक वृद्धि 7.7 प्रतिशत रही। प्रधानमंत्री ने कहा कि पिछले 12 वर्ष में भारत में काइज़ेन दर्शन को अपनाते हुए, सरकार निरंतर सुधार के माध्यम से आर्थिक डीएनए को बदल रही है। प्रधानमंत्री मोदी ने कहा कि कुछ महीने पहले भारत ने कराधान, सुशासन और व्यापार सुगमता के क्षेत्र में अगली पीढ़ी के सुधार लागू किए हैं। श्री मोदी ने कहा कि इससे निजी क्षेत्र के लिए कई क्षेत्र खुल रहे हैं और कई महत्वपूर्ण क्षेत्रों में प्रोत्साहन मिल रहे हैं। इससे सभी को लाभ होगा। प्रधानमंत्री ने कहा कि यही कारण है कि पिछले चार वर्षों से लगातार जापान बैंक फॉर इंटरनेशनल कोऑपरेशन के सर्वेक्षणों से पता चलता है कि भारत जापानी व्यवसायों के लिए सबसे आशाजनक स्&#x200d;थल बना हुआ है। जापान की प्रधानमंत्री सनाए ताकाइची ने कहा कि सहयोग के कई क्षेत्रों में ऊर्जा सुरक्षा सबसे महत्वपूर्ण क्षेत्रों में से एक है। उन्होंने कहा कि हाल ही में हुए जी-7 शिखर सम्मेलन में उन्होंने ऊर्जा सुरक्षा मजबूत करने के लिए तीन प्रस्ताव प्रस्तुत किए थे। यह प्रस्&#x200d;ताव मुक्त और पारदर्शी ऊर्जा व्यापार सुनिश्चित करने, रणनीतिक ऊर्जा भंडार की घोषणा करने और उत्पादक तथा उपभोक्ता देशों के बीच सहयोग को बढ़ावा देने से संबंधित थे। सुश्री ताकाइची ने कहा कि पावर एशिया पहल के माध्यम से इस दृष्टिकोण को ठोस कार्रवाई में बदलने के लिए काम किया जा रहा है। इस अवसर पर दोनों प्रधानमंत्रियों ने संयुक्त रूप से हरियाणा के खरखोदा में मारुति सुजुकी के चौथे वाहन निर्माण केंद्र का उद्घाटन किया।",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T16:13:04+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-says-india-japan-relations-are-truly-very-special-shares-successful-economic-partnership/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-163939-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "वित्त मंत्री निर्मला सीतारमण ने फ्रांस में निवेश और बैंकिंग सहयोग पर की चर्चा",
         "summary": "फ्रासं के दौरे पर गई वित्त मंत्री निर्मला सीतारमण ने आज पेरिस में बीएनपी पारिबास समूह के कॉर्पोरेट और संस्थागत बैंकिंग के उप मुख्य कार्यकारी अधिकारी और कार्यकारी अध्यक्ष यान गेरार्डिन से मुलाकात की। इस अवसर पर श्री गेरार्डिन ने कहा कि विश्‍व के अनेक देश भारत को एक विश्वसनीय निवेश गंतव्य मानते हैं और […]",
         "article": "फ्रासं के दौरे पर गई वित्त मंत्री निर्मला सीतारमण ने आज पेरिस में बीएनपी पारिबास समूह के कॉर्पोरेट और संस्थागत बैंकिंग के उप मुख्य कार्यकारी अधिकारी और कार्यकारी अध्यक्ष यान गेरार्डिन से मुलाकात की। इस अवसर पर श्री गेरार्डिन ने कहा कि विश्&#x200d;व के अनेक देश भारत को एक विश्वसनीय निवेश गंतव्य मानते हैं और वहां निवेश करने के इच्&#x200d;छुक हैं। उन्&#x200d;होंने डिजिटल सार्वजनिक अवसंरचना (डीपीआई) में भारत की मजबूती की सराहना भी की। सुश्री सीतारमण ने उन्हें बताया कि सरकार ने विकसित भारत 2047 की दिशा में अपने प्रयासों के तहत बैंकिंग क्षेत्र पर एक समिति का गठन किया है। केंद्रीय वित्त मंत्री ने समिति के लिए उनके विचार और सुझाव मांगे और उन्हें बताया कि भारत डीपीआई और खाता एग्रीगेटर प्रणालियों के कार्यान्वयन पर विशेष ध्यान देते हुए अपने बैंकिंग क्षेत्र को वैश्विक स्तर पर स्थापित कर रहा है। सुश्री सीतारमण ने आज फ्लाइंग व्हील्स के अध्यक्ष सेबेस्टियन बोगोन से भी मुलाकात की। श्री बोगोन ने फ्लाइंग व्हील्स की वैश्विक स्तर पर चल रही सतत पीपीपी परियोजनाओं के बारे में जानकारी दी। उन्होंने बताया कि फ्लाइंग व्हेल्स भारत को एक प्रमुख केंद्र बनाकर अपने विनिर्माण से संबंधित संपूर्ण पारिस्थितिकी तंत्र स्थापित करने की योजना बना रही है।सुश्री सीतारमण ने भारत में पारिस्थितिकी तंत्र स्थापित करने में फ्लाइंग व्हेल्स की रुचि का स्वागत किया। उन्होंने श्री बोगन को फ्लाइंग व्हेल्स जैसी कंपनी के लिए भारत में मौजूद अवसरों के बारे में जानकारी दी और उन्हें इस क्षेत्र में सक्रिय जीवंत स्टार्टअप पारिस्थितिकी तंत्र से जुड़ने के लिए प्रोत्साहित किया। उन्होंने जीआईएफटी सिटी स्थित भारतीय वित्तीय सेवा केंद्र प्राधिकरण और जहाज एवं हवाई वाहन पट्टे और रखरखाव, मरम्मत एवं संचालन (एमआरओ) के ढांचे के बारे में भी बताया, जिसका लाभ कंपनी उठा सकती है।",
@@ -1054,6 +1043,17 @@ window.VM_NEWS = {
         "pubDate": "2026-07-02T15:56:19+00:00",
         "link": "https://newsonair.gov.in/hi/finance-minister-nirmala-sitharaman-held-discussions-on-investment-and-banking-cooperation-in-france/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/GettyImages-2162551484.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "पीएम मोदी: भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक",
+        "summary": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। […]",
+        "article": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। इसके साथ ही पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचार विमर्श किया गया। संयुक्त संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि आज के समय में सामूहिक विश्वास सबसे बड़ी संपत्ति है और भारत-जापान की द्विपक्षीय साझेदारी समय की कसौटी पर खरी उतरी है। उन्होंने कहा कि भारत और जापान आज विश्व की सबसे बड़ी अर्थव्यवस्थाओं में से हैं और एक स्वतंत्र और खुला हिंद-प्रशांत क्षेत्र दोनों देशों की साझा प्राथमिकता है। उन्होंने कहा कि दोनों देश आर्थिक सुरक्षा और ऊर्जा सुरक्षा के महत्व को समझते हैं। उन्होंने कहा कि प्रौद्योगिकी साझेदारी भारत-जापान सहयोग का सबसे महत्वपूर्ण स्तंभ होगा। श्री मोदी ने कहा कि इस परिकल्पना को साकार करने के लिए भारत और जापान ने ए.आई के क्षेत्र में एक संयुक्त वक्तव्य जारी किया है। प्रधानमंत्री ने कहा कि जापान की सटीक प्रौद्योगिकी और भारत की सॉफ्टवेयर क्षमताओं का संगम वैश्विक एआई विकास को नई गति और शक्ति प्रदान करेगा। उन्होंने बताया कि रक्षा क्षेत्र में आज दोनों देशों ने भारत और जापान के बीच पहली सह-विकास परियोजना पर एक समझौते पर हस्ताक्षर किए हैं। प्रधानमंत्री ने कहा कि ऊर्जा सुरक्षा के क्षेत्र में कई महत्वपूर्ण निर्णय लिए गए हैं। उन्होंने कहा कि भारत-जापान जैव-गैस पहल के माध्यम से भारत में एक हजार जैव-गैस और जैविक उर्वरक संयंत्र स्थापित किए जाएंगे। उन्होंने कहा कि इससे भारत के गांवों में स्थिरता, समृद्धि और ग्रामीण आजीविका को नई शक्ति मिलेगी। प्रधानमंत्री ने कहा कि भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक हैं। उन्होंने कहा कि सांस्कृतिक मूल्यों से लेकर आधुनिक प्रौद्योगिकी तक, दोनों देशों की सोच और दृष्टिकोण में समानता है। इससे पहले आज, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया है कि भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:48:33+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-receives-japanese-pm-sanae-takaichi-at-hyderabad-house/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260702323ff-scaled.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1181,6 +1181,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "पीएम मोदी: भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक",
+        "summary": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। […]",
+        "article": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। इसके साथ ही पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचार विमर्श किया गया। संयुक्त संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि आज के समय में सामूहिक विश्वास सबसे बड़ी संपत्ति है और भारत-जापान की द्विपक्षीय साझेदारी समय की कसौटी पर खरी उतरी है। उन्होंने कहा कि भारत और जापान आज विश्व की सबसे बड़ी अर्थव्यवस्थाओं में से हैं और एक स्वतंत्र और खुला हिंद-प्रशांत क्षेत्र दोनों देशों की साझा प्राथमिकता है। उन्होंने कहा कि दोनों देश आर्थिक सुरक्षा और ऊर्जा सुरक्षा के महत्व को समझते हैं। उन्होंने कहा कि प्रौद्योगिकी साझेदारी भारत-जापान सहयोग का सबसे महत्वपूर्ण स्तंभ होगा। श्री मोदी ने कहा कि इस परिकल्पना को साकार करने के लिए भारत और जापान ने ए.आई के क्षेत्र में एक संयुक्त वक्तव्य जारी किया है। प्रधानमंत्री ने कहा कि जापान की सटीक प्रौद्योगिकी और भारत की सॉफ्टवेयर क्षमताओं का संगम वैश्विक एआई विकास को नई गति और शक्ति प्रदान करेगा। उन्होंने बताया कि रक्षा क्षेत्र में आज दोनों देशों ने भारत और जापान के बीच पहली सह-विकास परियोजना पर एक समझौते पर हस्ताक्षर किए हैं। प्रधानमंत्री ने कहा कि ऊर्जा सुरक्षा के क्षेत्र में कई महत्वपूर्ण निर्णय लिए गए हैं। उन्होंने कहा कि भारत-जापान जैव-गैस पहल के माध्यम से भारत में एक हजार जैव-गैस और जैविक उर्वरक संयंत्र स्थापित किए जाएंगे। उन्होंने कहा कि इससे भारत के गांवों में स्थिरता, समृद्धि और ग्रामीण आजीविका को नई शक्ति मिलेगी। प्रधानमंत्री ने कहा कि भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक हैं। उन्होंने कहा कि सांस्कृतिक मूल्यों से लेकर आधुनिक प्रौद्योगिकी तक, दोनों देशों की सोच और दृष्टिकोण में समानता है। इससे पहले आज, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया है कि भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:48:33+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-receives-japanese-pm-sanae-takaichi-at-hyderabad-house/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260702323ff-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने एमपी लीड फेलोशिप प्रतिभागियों से की बातचीत",
         "summary": "उपराष्ट्रपति सी पी राधाकृष्णन ने आज उपराष्ट्रपति भवन में एमपी लीड फेलोशिप के 40 प्रतिभागियों से बातचीत की। संवैधानिक मूल्यों के महत्व का उल्‍लेख करते हुए उपराष्‍ट्रपति ने कहा कि लोकतंत्र तभी फलता-फूलता है जब नागरिक अपने अधिकारों के साथ-साथ अपने कर्तव्यों का भी पालन करते हैं। उपराष्ट्रपति ने फेलोशिप में शामिल प्रतिभागियों से जिज्ञासा […]",
         "article": "उपराष्ट्रपति सी पी राधाकृष्णन ने आज उपराष्ट्रपति भवन में एमपी लीड फेलोशिप के 40 प्रतिभागियों से बातचीत की। संवैधानिक मूल्यों के महत्व का उल्&#x200d;लेख करते हुए उपराष्&#x200d;ट्रपति ने कहा कि लोकतंत्र तभी फलता-फूलता है जब नागरिक अपने अधिकारों के साथ-साथ अपने कर्तव्यों का भी पालन करते हैं। उपराष्ट्रपति ने फेलोशिप में शामिल प्रतिभागियों से जिज्ञासा के साथ सीखने, निडर होकर नवाचार करने और व्यापक राष्ट्रीय हित के प्रति प्रतिबद्ध रहने का आग्रह किया। उन्होंने विश्वास व्यक्त किया कि एमपी लीड फेलोशिप भविष्य के ऐसे राष्ट्र निर्माताओं को जागरूक करेगी जो एक विकसित और आत्मनिर्भर भारत के लिए प्रतिबद्ध होंगे। फेलोशिप को अपना करियर शुरू करने के लिए एक आदर्श मंच बताते हुए उपराष्ट्रपति ने कहा कि यह युवाओं को कक्षाओं से परे की दुनिया से परिचित कराती है, आत्मविश्वास बढ़ाती है और राष्ट्रीय नेताओं के साथ संवाद करने के अवसर प्रदान करती है। इस फेलोशिप की पहल राज्यसभा सांसद डॉ. अजीत माधवराव गोपचडे ने की थी।",
@@ -1242,18 +1253,6 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T15:58:34+00:00",
         "link": "https://newsonair.gov.in/hi/three-warships-of-the-indian-navys-eastern-fleet-arrived-in-singapore/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पीएम मोदी: भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक",
-        "summary": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। […]",
-        "article": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। इसके साथ ही पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचार विमर्श किया गया। संयुक्त संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि आज के समय में सामूहिक विश्वास सबसे बड़ी संपत्ति है और भारत-जापान की द्विपक्षीय साझेदारी समय की कसौटी पर खरी उतरी है। उन्होंने कहा कि भारत और जापान आज विश्व की सबसे बड़ी अर्थव्यवस्थाओं में से हैं और एक स्वतंत्र और खुला हिंद-प्रशांत क्षेत्र दोनों देशों की साझा प्राथमिकता है। उन्होंने कहा कि दोनों देश आर्थिक सुरक्षा और ऊर्जा सुरक्षा के महत्व को समझते हैं। उन्होंने कहा कि प्रौद्योगिकी साझेदारी भारत-जापान सहयोग का सबसे महत्वपूर्ण स्तंभ होगा। श्री मोदी ने कहा कि इस परिकल्पना को साकार करने के लिए भारत और जापान ने ए.आई के क्षेत्र में एक संयुक्त वक्तव्य जारी किया है। प्रधानमंत्री ने कहा कि जापान की सटीक प्रौद्योगिकी और भारत की सॉफ्टवेयर क्षमताओं का संगम वैश्विक एआई विकास को नई गति और शक्ति प्रदान करेगा। उन्होंने बताया कि रक्षा क्षेत्र में आज दोनों देशों ने भारत और जापान के बीच पहली सह-विकास परियोजना पर एक समझौते पर हस्ताक्षर किए हैं। प्रधानमंत्री ने कहा कि ऊर्जा सुरक्षा के क्षेत्र में कई महत्वपूर्ण निर्णय लिए गए हैं। उन्होंने कहा कि भारत-जापान जैव-गैस पहल के माध्यम से भारत में एक हजार जैव-गैस और जैविक उर्वरक संयंत्र स्थापित किए जाएंगे। उन्होंने कहा कि इससे भारत के गांवों में स्थिरता, समृद्धि और ग्रामीण आजीविका को नई शक्ति मिलेगी। प्रधानमंत्री ने कहा कि भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक हैं। उन्होंने कहा कि सांस्कृतिक मूल्यों से लेकर आधुनिक प्रौद्योगिकी तक, दोनों देशों की सोच और दृष्टिकोण में समानता है। इससे पहले आज, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया है कि भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:48:33+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-receives-japanese-pm-sanae-takaichi-at-hyderabad-house/",
-        "post_id": 1713718,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1294,6 +1293,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "पीएम मोदी: भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक",
+        "summary": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। […]",
+        "article": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। इसके साथ ही पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचार विमर्श किया गया। संयुक्त संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि आज के समय में सामूहिक विश्वास सबसे बड़ी संपत्ति है और भारत-जापान की द्विपक्षीय साझेदारी समय की कसौटी पर खरी उतरी है। उन्होंने कहा कि भारत और जापान आज विश्व की सबसे बड़ी अर्थव्यवस्थाओं में से हैं और एक स्वतंत्र और खुला हिंद-प्रशांत क्षेत्र दोनों देशों की साझा प्राथमिकता है। उन्होंने कहा कि दोनों देश आर्थिक सुरक्षा और ऊर्जा सुरक्षा के महत्व को समझते हैं। उन्होंने कहा कि प्रौद्योगिकी साझेदारी भारत-जापान सहयोग का सबसे महत्वपूर्ण स्तंभ होगा। श्री मोदी ने कहा कि इस परिकल्पना को साकार करने के लिए भारत और जापान ने ए.आई के क्षेत्र में एक संयुक्त वक्तव्य जारी किया है। प्रधानमंत्री ने कहा कि जापान की सटीक प्रौद्योगिकी और भारत की सॉफ्टवेयर क्षमताओं का संगम वैश्विक एआई विकास को नई गति और शक्ति प्रदान करेगा। उन्होंने बताया कि रक्षा क्षेत्र में आज दोनों देशों ने भारत और जापान के बीच पहली सह-विकास परियोजना पर एक समझौते पर हस्ताक्षर किए हैं। प्रधानमंत्री ने कहा कि ऊर्जा सुरक्षा के क्षेत्र में कई महत्वपूर्ण निर्णय लिए गए हैं। उन्होंने कहा कि भारत-जापान जैव-गैस पहल के माध्यम से भारत में एक हजार जैव-गैस और जैविक उर्वरक संयंत्र स्थापित किए जाएंगे। उन्होंने कहा कि इससे भारत के गांवों में स्थिरता, समृद्धि और ग्रामीण आजीविका को नई शक्ति मिलेगी। प्रधानमंत्री ने कहा कि भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक हैं। उन्होंने कहा कि सांस्कृतिक मूल्यों से लेकर आधुनिक प्रौद्योगिकी तक, दोनों देशों की सोच और दृष्टिकोण में समानता है। इससे पहले आज, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया है कि भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:48:33+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-receives-japanese-pm-sanae-takaichi-at-hyderabad-house/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260702323ff-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने एमपी लीड फेलोशिप प्रतिभागियों से की बातचीत",
         "summary": "उपराष्ट्रपति सी पी राधाकृष्णन ने आज उपराष्ट्रपति भवन में एमपी लीड फेलोशिप के 40 प्रतिभागियों से बातचीत की। संवैधानिक मूल्यों के महत्व का उल्‍लेख करते हुए उपराष्‍ट्रपति ने कहा कि लोकतंत्र तभी फलता-फूलता है जब नागरिक अपने अधिकारों के साथ-साथ अपने कर्तव्यों का भी पालन करते हैं। उपराष्ट्रपति ने फेलोशिप में शामिल प्रतिभागियों से जिज्ञासा […]",
         "article": "उपराष्ट्रपति सी पी राधाकृष्णन ने आज उपराष्ट्रपति भवन में एमपी लीड फेलोशिप के 40 प्रतिभागियों से बातचीत की। संवैधानिक मूल्यों के महत्व का उल्&#x200d;लेख करते हुए उपराष्&#x200d;ट्रपति ने कहा कि लोकतंत्र तभी फलता-फूलता है जब नागरिक अपने अधिकारों के साथ-साथ अपने कर्तव्यों का भी पालन करते हैं। उपराष्ट्रपति ने फेलोशिप में शामिल प्रतिभागियों से जिज्ञासा के साथ सीखने, निडर होकर नवाचार करने और व्यापक राष्ट्रीय हित के प्रति प्रतिबद्ध रहने का आग्रह किया। उन्होंने विश्वास व्यक्त किया कि एमपी लीड फेलोशिप भविष्य के ऐसे राष्ट्र निर्माताओं को जागरूक करेगी जो एक विकसित और आत्मनिर्भर भारत के लिए प्रतिबद्ध होंगे। फेलोशिप को अपना करियर शुरू करने के लिए एक आदर्श मंच बताते हुए उपराष्ट्रपति ने कहा कि यह युवाओं को कक्षाओं से परे की दुनिया से परिचित कराती है, आत्मविश्वास बढ़ाती है और राष्ट्रीय नेताओं के साथ संवाद करने के अवसर प्रदान करती है। इस फेलोशिप की पहल राज्यसभा सांसद डॉ. अजीत माधवराव गोपचडे ने की थी।",
@@ -1355,18 +1365,6 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T15:58:34+00:00",
         "link": "https://newsonair.gov.in/hi/three-warships-of-the-indian-navys-eastern-fleet-arrived-in-singapore/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पीएम मोदी: भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक",
-        "summary": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। […]",
-        "article": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। इसके साथ ही पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचार विमर्श किया गया। संयुक्त संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि आज के समय में सामूहिक विश्वास सबसे बड़ी संपत्ति है और भारत-जापान की द्विपक्षीय साझेदारी समय की कसौटी पर खरी उतरी है। उन्होंने कहा कि भारत और जापान आज विश्व की सबसे बड़ी अर्थव्यवस्थाओं में से हैं और एक स्वतंत्र और खुला हिंद-प्रशांत क्षेत्र दोनों देशों की साझा प्राथमिकता है। उन्होंने कहा कि दोनों देश आर्थिक सुरक्षा और ऊर्जा सुरक्षा के महत्व को समझते हैं। उन्होंने कहा कि प्रौद्योगिकी साझेदारी भारत-जापान सहयोग का सबसे महत्वपूर्ण स्तंभ होगा। श्री मोदी ने कहा कि इस परिकल्पना को साकार करने के लिए भारत और जापान ने ए.आई के क्षेत्र में एक संयुक्त वक्तव्य जारी किया है। प्रधानमंत्री ने कहा कि जापान की सटीक प्रौद्योगिकी और भारत की सॉफ्टवेयर क्षमताओं का संगम वैश्विक एआई विकास को नई गति और शक्ति प्रदान करेगा। उन्होंने बताया कि रक्षा क्षेत्र में आज दोनों देशों ने भारत और जापान के बीच पहली सह-विकास परियोजना पर एक समझौते पर हस्ताक्षर किए हैं। प्रधानमंत्री ने कहा कि ऊर्जा सुरक्षा के क्षेत्र में कई महत्वपूर्ण निर्णय लिए गए हैं। उन्होंने कहा कि भारत-जापान जैव-गैस पहल के माध्यम से भारत में एक हजार जैव-गैस और जैविक उर्वरक संयंत्र स्थापित किए जाएंगे। उन्होंने कहा कि इससे भारत के गांवों में स्थिरता, समृद्धि और ग्रामीण आजीविका को नई शक्ति मिलेगी। प्रधानमंत्री ने कहा कि भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक हैं। उन्होंने कहा कि सांस्कृतिक मूल्यों से लेकर आधुनिक प्रौद्योगिकी तक, दोनों देशों की सोच और दृष्टिकोण में समानता है। इससे पहले आज, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया है कि भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:48:33+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-receives-japanese-pm-sanae-takaichi-at-hyderabad-house/",
-        "post_id": 1713718,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1407,6 +1405,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "पीएम मोदी: भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक",
+        "summary": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। […]",
+        "article": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। इसके साथ ही पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचार विमर्श किया गया। संयुक्त संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि आज के समय में सामूहिक विश्वास सबसे बड़ी संपत्ति है और भारत-जापान की द्विपक्षीय साझेदारी समय की कसौटी पर खरी उतरी है। उन्होंने कहा कि भारत और जापान आज विश्व की सबसे बड़ी अर्थव्यवस्थाओं में से हैं और एक स्वतंत्र और खुला हिंद-प्रशांत क्षेत्र दोनों देशों की साझा प्राथमिकता है। उन्होंने कहा कि दोनों देश आर्थिक सुरक्षा और ऊर्जा सुरक्षा के महत्व को समझते हैं। उन्होंने कहा कि प्रौद्योगिकी साझेदारी भारत-जापान सहयोग का सबसे महत्वपूर्ण स्तंभ होगा। श्री मोदी ने कहा कि इस परिकल्पना को साकार करने के लिए भारत और जापान ने ए.आई के क्षेत्र में एक संयुक्त वक्तव्य जारी किया है। प्रधानमंत्री ने कहा कि जापान की सटीक प्रौद्योगिकी और भारत की सॉफ्टवेयर क्षमताओं का संगम वैश्विक एआई विकास को नई गति और शक्ति प्रदान करेगा। उन्होंने बताया कि रक्षा क्षेत्र में आज दोनों देशों ने भारत और जापान के बीच पहली सह-विकास परियोजना पर एक समझौते पर हस्ताक्षर किए हैं। प्रधानमंत्री ने कहा कि ऊर्जा सुरक्षा के क्षेत्र में कई महत्वपूर्ण निर्णय लिए गए हैं। उन्होंने कहा कि भारत-जापान जैव-गैस पहल के माध्यम से भारत में एक हजार जैव-गैस और जैविक उर्वरक संयंत्र स्थापित किए जाएंगे। उन्होंने कहा कि इससे भारत के गांवों में स्थिरता, समृद्धि और ग्रामीण आजीविका को नई शक्ति मिलेगी। प्रधानमंत्री ने कहा कि भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक हैं। उन्होंने कहा कि सांस्कृतिक मूल्यों से लेकर आधुनिक प्रौद्योगिकी तक, दोनों देशों की सोच और दृष्टिकोण में समानता है। इससे पहले आज, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया है कि भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:48:33+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-receives-japanese-pm-sanae-takaichi-at-hyderabad-house/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260702323ff-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने एमपी लीड फेलोशिप प्रतिभागियों से की बातचीत",
         "summary": "उपराष्ट्रपति सी पी राधाकृष्णन ने आज उपराष्ट्रपति भवन में एमपी लीड फेलोशिप के 40 प्रतिभागियों से बातचीत की। संवैधानिक मूल्यों के महत्व का उल्‍लेख करते हुए उपराष्‍ट्रपति ने कहा कि लोकतंत्र तभी फलता-फूलता है जब नागरिक अपने अधिकारों के साथ-साथ अपने कर्तव्यों का भी पालन करते हैं। उपराष्ट्रपति ने फेलोशिप में शामिल प्रतिभागियों से जिज्ञासा […]",
         "article": "उपराष्ट्रपति सी पी राधाकृष्णन ने आज उपराष्ट्रपति भवन में एमपी लीड फेलोशिप के 40 प्रतिभागियों से बातचीत की। संवैधानिक मूल्यों के महत्व का उल्&#x200d;लेख करते हुए उपराष्&#x200d;ट्रपति ने कहा कि लोकतंत्र तभी फलता-फूलता है जब नागरिक अपने अधिकारों के साथ-साथ अपने कर्तव्यों का भी पालन करते हैं। उपराष्ट्रपति ने फेलोशिप में शामिल प्रतिभागियों से जिज्ञासा के साथ सीखने, निडर होकर नवाचार करने और व्यापक राष्ट्रीय हित के प्रति प्रतिबद्ध रहने का आग्रह किया। उन्होंने विश्वास व्यक्त किया कि एमपी लीड फेलोशिप भविष्य के ऐसे राष्ट्र निर्माताओं को जागरूक करेगी जो एक विकसित और आत्मनिर्भर भारत के लिए प्रतिबद्ध होंगे। फेलोशिप को अपना करियर शुरू करने के लिए एक आदर्श मंच बताते हुए उपराष्ट्रपति ने कहा कि यह युवाओं को कक्षाओं से परे की दुनिया से परिचित कराती है, आत्मविश्वास बढ़ाती है और राष्ट्रीय नेताओं के साथ संवाद करने के अवसर प्रदान करती है। इस फेलोशिप की पहल राज्यसभा सांसद डॉ. अजीत माधवराव गोपचडे ने की थी।",
@@ -1473,18 +1482,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "पीएम मोदी: भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक",
-        "summary": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। […]",
-        "article": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। इसके साथ ही पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचार विमर्श किया गया। संयुक्त संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि आज के समय में सामूहिक विश्वास सबसे बड़ी संपत्ति है और भारत-जापान की द्विपक्षीय साझेदारी समय की कसौटी पर खरी उतरी है। उन्होंने कहा कि भारत और जापान आज विश्व की सबसे बड़ी अर्थव्यवस्थाओं में से हैं और एक स्वतंत्र और खुला हिंद-प्रशांत क्षेत्र दोनों देशों की साझा प्राथमिकता है। उन्होंने कहा कि दोनों देश आर्थिक सुरक्षा और ऊर्जा सुरक्षा के महत्व को समझते हैं। उन्होंने कहा कि प्रौद्योगिकी साझेदारी भारत-जापान सहयोग का सबसे महत्वपूर्ण स्तंभ होगा। श्री मोदी ने कहा कि इस परिकल्पना को साकार करने के लिए भारत और जापान ने ए.आई के क्षेत्र में एक संयुक्त वक्तव्य जारी किया है। प्रधानमंत्री ने कहा कि जापान की सटीक प्रौद्योगिकी और भारत की सॉफ्टवेयर क्षमताओं का संगम वैश्विक एआई विकास को नई गति और शक्ति प्रदान करेगा। उन्होंने बताया कि रक्षा क्षेत्र में आज दोनों देशों ने भारत और जापान के बीच पहली सह-विकास परियोजना पर एक समझौते पर हस्ताक्षर किए हैं। प्रधानमंत्री ने कहा कि ऊर्जा सुरक्षा के क्षेत्र में कई महत्वपूर्ण निर्णय लिए गए हैं। उन्होंने कहा कि भारत-जापान जैव-गैस पहल के माध्यम से भारत में एक हजार जैव-गैस और जैविक उर्वरक संयंत्र स्थापित किए जाएंगे। उन्होंने कहा कि इससे भारत के गांवों में स्थिरता, समृद्धि और ग्रामीण आजीविका को नई शक्ति मिलेगी। प्रधानमंत्री ने कहा कि भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक हैं। उन्होंने कहा कि सांस्कृतिक मूल्यों से लेकर आधुनिक प्रौद्योगिकी तक, दोनों देशों की सोच और दृष्टिकोण में समानता है। इससे पहले आज, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया है कि भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:48:33+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-receives-japanese-pm-sanae-takaichi-at-hyderabad-house/",
-        "post_id": 1713718,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "श्री अमरनाथ जी यात्रा का पहला जत्था कड़ी सुरक्षा के बीच बालताल पहुंचा",
         "summary": "जम्मू-कश्मीर में श्री अमरनाथ जी यात्रा के लिए तीर्थयात्रियों का पहला जत्था आज कड़ी सुरक्षा के बीच अनंतनाग जिले के पहलगाम क्षेत्र में नुनवान और गांदरबल जिले के बालताल स्थित दोहरे शिविरों में पहुंचा। पवित्र गुफा मंदिर की 57 दिन तक चलने वाली तीर्थयात्रा को उपराज्यपाल मनोज सिन्हा ने आज तड़के जम्मू से औपचारिक रूप […]",
         "article": "जम्मू-कश्मीर में श्री अमरनाथ जी यात्रा के लिए तीर्थयात्रियों का पहला जत्था आज कड़ी सुरक्षा के बीच अनंतनाग जिले के पहलगाम क्षेत्र में नुनवान और गांदरबल जिले के बालताल स्थित दोहरे शिविरों में पहुंचा। पवित्र गुफा मंदिर की 57 दिन तक चलने वाली तीर्थयात्रा को उपराज्यपाल मनोज सिन्हा ने आज तड़के जम्मू से औपचारिक रूप से हरी झंडी दिखाकर रवाना किया। यात्रा कल से आधिकारिक रूप से शुरू होगी और 28 अगस्त को समाप्त होगी।",
@@ -1497,28 +1494,6 @@ window.VM_NEWS = {
       }
     ],
     "world": [
-      {
-        "title": "निवेश भारत की गति और जापान की विशेषज्ञता के साथ मिलने पर पूरी दुनिया को लाभ: पीएम मोदी",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा है कि भारत-जापान संबंध बहुत विशेष हैं और आर्थिक साझेदारी की सफलता के कई शानदार उदाहरण मौजूद हैं। नई दिल्ली में आज भारत-जापान संयुक्त आर्थिक मंच में श्री मोदी ने कहा कि जापान की विशेषज्ञता और निवेश भारत की गति और व्यापकता के साथ मिलने पर पूरी दुनिया को लाभ […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा है कि भारत-जापान संबंध बहुत विशेष हैं और आर्थिक साझेदारी की सफलता के कई शानदार उदाहरण मौजूद हैं। नई दिल्ली में आज भारत-जापान संयुक्त आर्थिक मंच में श्री मोदी ने कहा कि जापान की विशेषज्ञता और निवेश भारत की गति और व्यापकता के साथ मिलने पर पूरी दुनिया को लाभ होता है। उन्होंने कहा कि दोनों पक्षों ने आज साझेदारी को और भी गतिशील तथा प्रगाढ बनाने का निर्णय लिया है। प्रधानमंत्री ने कहा कि भारत और जापान ने आर्थिक सुरक्षा, आर्टिफिशियल इंटेलिजेंस, रक्षा और स्वास्थ्य जैसे कई क्षेत्रों पर समझौते किए हैं। यह समझौते दोनों देशों की साझेदारी को भविष्य के अनुकूल और असीमित बनाएंगे। श्री मोदी ने कहा कि आर्थिक जगत इस समय आपूर्ति श्रृंखला अडचनों, व्यापार अनिश्चितता और वैश्विक मांग में गिरावट से जूझ रहा है। उन्होंने कहा कि भारत विश्व की सबसे तेजी से बढ़ती प्रमुख अर्थव्यवस्था है और पिछले वित्तीय वर्ष में भारत की आर्थिक वृद्धि 7.7 प्रतिशत रही। प्रधानमंत्री ने कहा कि पिछले 12 वर्ष में भारत में काइज़ेन दर्शन को अपनाते हुए, सरकार निरंतर सुधार के माध्यम से आर्थिक डीएनए को बदल रही है। प्रधानमंत्री मोदी ने कहा कि कुछ महीने पहले भारत ने कराधान, सुशासन और व्यापार सुगमता के क्षेत्र में अगली पीढ़ी के सुधार लागू किए हैं। श्री मोदी ने कहा कि इससे निजी क्षेत्र के लिए कई क्षेत्र खुल रहे हैं और कई महत्वपूर्ण क्षेत्रों में प्रोत्साहन मिल रहे हैं। इससे सभी को लाभ होगा। प्रधानमंत्री ने कहा कि यही कारण है कि पिछले चार वर्षों से लगातार जापान बैंक फॉर इंटरनेशनल कोऑपरेशन के सर्वेक्षणों से पता चलता है कि भारत जापानी व्यवसायों के लिए सबसे आशाजनक स्&#x200d;थल बना हुआ है। जापान की प्रधानमंत्री सनाए ताकाइची ने कहा कि सहयोग के कई क्षेत्रों में ऊर्जा सुरक्षा सबसे महत्वपूर्ण क्षेत्रों में से एक है। उन्होंने कहा कि हाल ही में हुए जी-7 शिखर सम्मेलन में उन्होंने ऊर्जा सुरक्षा मजबूत करने के लिए तीन प्रस्ताव प्रस्तुत किए थे। यह प्रस्&#x200d;ताव मुक्त और पारदर्शी ऊर्जा व्यापार सुनिश्चित करने, रणनीतिक ऊर्जा भंडार की घोषणा करने और उत्पादक तथा उपभोक्ता देशों के बीच सहयोग को बढ़ावा देने से संबंधित थे। सुश्री ताकाइची ने कहा कि पावर एशिया पहल के माध्यम से इस दृष्टिकोण को ठोस कार्रवाई में बदलने के लिए काम किया जा रहा है। इस अवसर पर दोनों प्रधानमंत्रियों ने संयुक्त रूप से हरियाणा के खरखोदा में मारुति सुजुकी के चौथे वाहन निर्माण केंद्र का उद्घाटन किया।",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T16:13:04+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-says-india-japan-relations-are-truly-very-special-shares-successful-economic-partnership/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-163939-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पीएम मोदी: भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक",
-        "summary": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। […]",
-        "article": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। इसके साथ ही पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचार विमर्श किया गया। संयुक्त संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि आज के समय में सामूहिक विश्वास सबसे बड़ी संपत्ति है और भारत-जापान की द्विपक्षीय साझेदारी समय की कसौटी पर खरी उतरी है। उन्होंने कहा कि भारत और जापान आज विश्व की सबसे बड़ी अर्थव्यवस्थाओं में से हैं और एक स्वतंत्र और खुला हिंद-प्रशांत क्षेत्र दोनों देशों की साझा प्राथमिकता है। उन्होंने कहा कि दोनों देश आर्थिक सुरक्षा और ऊर्जा सुरक्षा के महत्व को समझते हैं। उन्होंने कहा कि प्रौद्योगिकी साझेदारी भारत-जापान सहयोग का सबसे महत्वपूर्ण स्तंभ होगा। श्री मोदी ने कहा कि इस परिकल्पना को साकार करने के लिए भारत और जापान ने ए.आई के क्षेत्र में एक संयुक्त वक्तव्य जारी किया है। प्रधानमंत्री ने कहा कि जापान की सटीक प्रौद्योगिकी और भारत की सॉफ्टवेयर क्षमताओं का संगम वैश्विक एआई विकास को नई गति और शक्ति प्रदान करेगा। उन्होंने बताया कि रक्षा क्षेत्र में आज दोनों देशों ने भारत और जापान के बीच पहली सह-विकास परियोजना पर एक समझौते पर हस्ताक्षर किए हैं। प्रधानमंत्री ने कहा कि ऊर्जा सुरक्षा के क्षेत्र में कई महत्वपूर्ण निर्णय लिए गए हैं। उन्होंने कहा कि भारत-जापान जैव-गैस पहल के माध्यम से भारत में एक हजार जैव-गैस और जैविक उर्वरक संयंत्र स्थापित किए जाएंगे। उन्होंने कहा कि इससे भारत के गांवों में स्थिरता, समृद्धि और ग्रामीण आजीविका को नई शक्ति मिलेगी। प्रधानमंत्री ने कहा कि भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक हैं। उन्होंने कहा कि सांस्कृतिक मूल्यों से लेकर आधुनिक प्रौद्योगिकी तक, दोनों देशों की सोच और दृष्टिकोण में समानता है। इससे पहले आज, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया है कि भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T15:48:33+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-receives-japanese-pm-sanae-takaichi-at-hyderabad-house/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260702323ff-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
       {
         "title": "ताइवान ने अपने आसपास के क्षेत्रों में चीन के 22 सैन्य विमानों की हलचल का किया दावा",
         "summary": "ताइवान रक्षा मंत्रालय ने कहा है कि उसके क्षेत्र के आसपास चीन के 22 सैन्य विमानों की हलचल देखी गई है। इनमें से 20 विमानों ने मध्य रेखा पार कर ताइवान के उत्तरी, मध्य और दक्षिण-पश्चिमी वायु रक्षा पहचान क्षेत्र में प्रवेश किया। चीन ताइवान के आसपास अपनी सैन्य गतिविधियां तेज कर रहा है। चीन […]",
@@ -1583,6 +1558,30 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/canada-hit-by-extreme-weather-with-heatwave-and-severe-flooding/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607023848824.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत के विकास की गति और जापान की विशेषज्ञता के साथ मिलने पर पूरी दुनिया को लाभ: पीएम मोदी",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा है कि भारत-जापान संबंध बहुत विशेष हैं और आर्थिक साझेदारी की सफलता के कई शानदार उदाहरण मौजूद हैं। नई दिल्ली में आज भारत-जापान संयुक्त आर्थिक मंच में श्री मोदी ने कहा कि जापान की विशेषज्ञता और निवेश भारत की गति और व्यापकता के साथ मिलने पर पूरी दुनिया को लाभ […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा है कि भारत-जापान संबंध बहुत विशेष हैं और आर्थिक साझेदारी की सफलता के कई शानदार उदाहरण मौजूद हैं। नई दिल्ली में आज भारत-जापान संयुक्त आर्थिक मंच में श्री मोदी ने कहा कि जापान की विशेषज्ञता और निवेश भारत की गति और व्यापकता के साथ मिलने पर पूरी दुनिया को लाभ होता है। उन्होंने कहा कि दोनों पक्षों ने आज साझेदारी को और भी गतिशील तथा प्रगाढ बनाने का निर्णय लिया है। प्रधानमंत्री ने कहा कि भारत और जापान ने आर्थिक सुरक्षा, आर्टिफिशियल इंटेलिजेंस, रक्षा और स्वास्थ्य जैसे कई क्षेत्रों पर समझौते किए हैं। यह समझौते दोनों देशों की साझेदारी को भविष्य के अनुकूल और असीमित बनाएंगे। श्री मोदी ने कहा कि आर्थिक जगत इस समय आपूर्ति श्रृंखला अडचनों, व्यापार अनिश्चितता और वैश्विक मांग में गिरावट से जूझ रहा है। उन्होंने कहा कि भारत विश्व की सबसे तेजी से बढ़ती प्रमुख अर्थव्यवस्था है और पिछले वित्तीय वर्ष में भारत की आर्थिक वृद्धि 7.7 प्रतिशत रही। प्रधानमंत्री ने कहा कि पिछले 12 वर्ष में भारत में काइज़ेन दर्शन को अपनाते हुए, सरकार निरंतर सुधार के माध्यम से आर्थिक डीएनए को बदल रही है। प्रधानमंत्री मोदी ने कहा कि कुछ महीने पहले भारत ने कराधान, सुशासन और व्यापार सुगमता के क्षेत्र में अगली पीढ़ी के सुधार लागू किए हैं। श्री मोदी ने कहा कि इससे निजी क्षेत्र के लिए कई क्षेत्र खुल रहे हैं और कई महत्वपूर्ण क्षेत्रों में प्रोत्साहन मिल रहे हैं। इससे सभी को लाभ होगा। प्रधानमंत्री ने कहा कि यही कारण है कि पिछले चार वर्षों से लगातार जापान बैंक फॉर इंटरनेशनल कोऑपरेशन के सर्वेक्षणों से पता चलता है कि भारत जापानी व्यवसायों के लिए सबसे आशाजनक स्&#x200d;थल बना हुआ है। जापान की प्रधानमंत्री सनाए ताकाइची ने कहा कि सहयोग के कई क्षेत्रों में ऊर्जा सुरक्षा सबसे महत्वपूर्ण क्षेत्रों में से एक है। उन्होंने कहा कि हाल ही में हुए जी-7 शिखर सम्मेलन में उन्होंने ऊर्जा सुरक्षा मजबूत करने के लिए तीन प्रस्ताव प्रस्तुत किए थे। यह प्रस्&#x200d;ताव मुक्त और पारदर्शी ऊर्जा व्यापार सुनिश्चित करने, रणनीतिक ऊर्जा भंडार की घोषणा करने और उत्पादक तथा उपभोक्ता देशों के बीच सहयोग को बढ़ावा देने से संबंधित थे। सुश्री ताकाइची ने कहा कि पावर एशिया पहल के माध्यम से इस दृष्टिकोण को ठोस कार्रवाई में बदलने के लिए काम किया जा रहा है। इस अवसर पर दोनों प्रधानमंत्रियों ने संयुक्त रूप से हरियाणा के खरखोदा में मारुति सुजुकी के चौथे वाहन निर्माण केंद्र का उद्घाटन किया।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T16:13:04+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-says-india-japan-relations-are-truly-very-special-shares-successful-economic-partnership/",
+        "post_id": 1714869,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "पीएम मोदी: भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक",
+        "summary": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। […]",
+        "article": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। इसके साथ ही पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचार विमर्श किया गया। संयुक्त संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि आज के समय में सामूहिक विश्वास सबसे बड़ी संपत्ति है और भारत-जापान की द्विपक्षीय साझेदारी समय की कसौटी पर खरी उतरी है। उन्होंने कहा कि भारत और जापान आज विश्व की सबसे बड़ी अर्थव्यवस्थाओं में से हैं और एक स्वतंत्र और खुला हिंद-प्रशांत क्षेत्र दोनों देशों की साझा प्राथमिकता है। उन्होंने कहा कि दोनों देश आर्थिक सुरक्षा और ऊर्जा सुरक्षा के महत्व को समझते हैं। उन्होंने कहा कि प्रौद्योगिकी साझेदारी भारत-जापान सहयोग का सबसे महत्वपूर्ण स्तंभ होगा। श्री मोदी ने कहा कि इस परिकल्पना को साकार करने के लिए भारत और जापान ने ए.आई के क्षेत्र में एक संयुक्त वक्तव्य जारी किया है। प्रधानमंत्री ने कहा कि जापान की सटीक प्रौद्योगिकी और भारत की सॉफ्टवेयर क्षमताओं का संगम वैश्विक एआई विकास को नई गति और शक्ति प्रदान करेगा। उन्होंने बताया कि रक्षा क्षेत्र में आज दोनों देशों ने भारत और जापान के बीच पहली सह-विकास परियोजना पर एक समझौते पर हस्ताक्षर किए हैं। प्रधानमंत्री ने कहा कि ऊर्जा सुरक्षा के क्षेत्र में कई महत्वपूर्ण निर्णय लिए गए हैं। उन्होंने कहा कि भारत-जापान जैव-गैस पहल के माध्यम से भारत में एक हजार जैव-गैस और जैविक उर्वरक संयंत्र स्थापित किए जाएंगे। उन्होंने कहा कि इससे भारत के गांवों में स्थिरता, समृद्धि और ग्रामीण आजीविका को नई शक्ति मिलेगी। प्रधानमंत्री ने कहा कि भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक हैं। उन्होंने कहा कि सांस्कृतिक मूल्यों से लेकर आधुनिक प्रौद्योगिकी तक, दोनों देशों की सोच और दृष्टिकोण में समानता है। इससे पहले आज, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया है कि भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T15:48:33+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-receives-japanese-pm-sanae-takaichi-at-hyderabad-house/",
+        "post_id": 1713718,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
