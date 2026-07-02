@@ -18,6 +18,7 @@ import json
 import re
 import sys
 import os
+import time
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from email.utils import parsedate_to_datetime
@@ -40,6 +41,21 @@ WIKI_UA = {
 ATOM    = 'http://www.w3.org/2005/Atom'
 CONTENT = 'http://purl.org/rss/1.0/modules/content/'
 DC      = 'http://purl.org/dc/elements/1.1/'
+
+
+def urlopen_retry(req, timeout, retries=3, backoff=2):
+    """Like urllib.request.urlopen, but retries on transient connection
+    errors (refused/reset/timeout) — Prasar Bharati's server occasionally
+    drops connections mid-run, especially from cloud CI runners."""
+    last_err = None
+    for attempt in range(retries):
+        try:
+            return urllib.request.urlopen(req, timeout=timeout)
+        except Exception as e:
+            last_err = e
+            if attempt < retries - 1:
+                time.sleep(backoff * (attempt + 1))
+    raise last_err
 
 SOURCE  = 'Prasar Bharati'
 PB_BASE = 'https://newsonair.gov.in/category'
@@ -101,7 +117,7 @@ def wiki_thumb(subject, size=1200):
         url = (f'https://en.wikipedia.org/w/api.php?action=query'
                f'&titles={t}&prop=pageimages&pithumbsize={size}&format=json')
         req = urllib.request.Request(url, headers=WIKI_UA)
-        with urllib.request.urlopen(req, timeout=10) as r:
+        with urlopen_retry(req, timeout=10) as r:
             data = json.loads(r.read())
         pages = data.get('query', {}).get('pages', {})
         page  = next(iter(pages.values()), {})
@@ -138,7 +154,7 @@ def commons_search(keywords, size=1000):
             f'&iiurlwidth={size}&format=json'
         )
         req = urllib.request.Request(url, headers=WIKI_UA)
-        with urllib.request.urlopen(req, timeout=12) as r:
+        with urlopen_retry(req, timeout=12) as r:
             data = json.loads(r.read())
         pages = data.get('query', {}).get('pages', {})
         for page in sorted(pages.values(), key=lambda p: p.get('index', 9999)):
@@ -198,7 +214,7 @@ def fetch_pb_images(post_ids):
                f'&_fields=id,featured_media')
         try:
             req = urllib.request.Request(url, headers=RSS_UA)
-            with urllib.request.urlopen(req, timeout=15) as r:
+            with urlopen_retry(req, timeout=15) as r:
                 posts = json.loads(r.read())
             for p in posts:
                 fm = p.get('featured_media', 0)
@@ -222,7 +238,7 @@ def fetch_pb_images(post_ids):
                f'&_fields=id,source_url,media_details')
         try:
             req = urllib.request.Request(url, headers=RSS_UA)
-            with urllib.request.urlopen(req, timeout=15) as r:
+            with urlopen_retry(req, timeout=15) as r:
                 media_list = json.loads(r.read())
             for m in media_list:
                 src = m.get('source_url', '')
@@ -310,7 +326,7 @@ def strip_tags(html):
 def fetch_rss(url, max_items=20):
     try:
         req = urllib.request.Request(url, headers=RSS_UA)
-        with urllib.request.urlopen(req, timeout=22) as r:
+        with urlopen_retry(req, timeout=22) as r:
             raw = r.read()
     except Exception as e:
         print(f'    ✗ {url}: {e}')
