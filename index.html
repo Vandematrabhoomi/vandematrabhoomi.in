@@ -1765,6 +1765,7 @@ var lang         = 'hi';
 // ── Subscriber Google Sheet endpoint ──────────────────────────
 // Paste your Apps Script web-app URL here after setup (see README or admin notes).
 var VM_SUBSCRIBE_URL = 'https://script.google.com/macros/s/AKfycbw_UDz41q9C-qnNwkZ5YUnmliSr08i1daJSvvaPi7aXnaH6TQMK-iTwwfQAfAtEZt52/exec';
+var VM_LIVEDESK_URL  = VM_SUBSCRIBE_URL; // same Apps Script deployment, routed by "type"
 
 /* ── Category labels ─────────────────────────────── */
 var CAT_HI = { top:'प्रमुख समाचार', national:'राष्ट्रीय', politics:'राजनीति', world:'अंतरराष्ट्रीय', sports:'खेल', business:'व्यापार', entertainment:'मनोरंजन', lifestyle:'जीवनशैली' };
@@ -2216,42 +2217,78 @@ var CAT_DESK = {
   en: { Latest:'Latest', Nation:'Nation', Politics:'Politics', Sports:'Sports', Business:'Business', Lifestyle:'Lifestyle' }
 };
 
+var MAX_MEDIA_BYTES = 15 * 1024 * 1024; // must match Apps Script MAX_MEDIA_BYTES
+
 function publishStory() {
   var hl        = document.getElementById('f-hl').value.trim();
   var cat       = document.getElementById('f-cat').value;
   var sum       = document.getElementById('f-sum').value.trim();
   var body      = document.getElementById('f-body').value.trim();
   var mediaFile = document.getElementById('f-media').files[0];
+  var btn       = document.querySelector('.pub-btn');
 
   if (!hl) {
     var inp = document.getElementById('f-hl');
     inp.classList.add('error'); inp.focus();
     setTimeout(function(){ inp.classList.remove('error'); }, 1400); return;
   }
+  if (mediaFile && mediaFile.size > MAX_MEDIA_BYTES) {
+    alert(lang==='hi' ? 'फ़ाइल बहुत बड़ी है (अधिकतम 15MB)।' : 'File is too large (max 15MB).');
+    return;
+  }
 
-  function doPublish(mediaUrl) {
-    var now = new Date();
-    stories.unshift({
-      id: Date.now(), hl: hl, cat: cat, sum: sum, body: body, mediaUrl: mediaUrl || '',
-      dateHi: now.toLocaleDateString('hi-IN', { day:'numeric', month:'long', year:'numeric' }),
-      dateEn: now.toLocaleDateString('en-IN', { day:'numeric', month:'long', year:'numeric' })
-    });
+  function afterPublish(ok) {
+    if (btn) { btn.disabled = false; btn.textContent = lang==='hi' ? 'प्रकाशित करें' : 'Publish'; }
+    if (!ok) {
+      alert(lang==='hi' ? 'प्रकाशित नहीं हो सका। कृपया पुनः प्रयास करें।' : 'Could not publish. Please try again.');
+      return;
+    }
     document.getElementById('f-hl').value    = '';
     document.getElementById('f-sum').value   = '';
     document.getElementById('f-body').value  = '';
     document.getElementById('f-media').value = '';
     document.getElementById('f-media-preview').style.display = 'none';
-    renderFeed();
-    renderOpinion();
+    loadStories();
   }
+
+  function send(mediaDataUrl) {
+    if (!VM_LIVEDESK_URL) { afterPublish(false); return; }
+    fetch(VM_LIVEDESK_URL, {
+      method: 'POST',
+      body: JSON.stringify({ type: 'story', hl: hl, cat: cat, sum: sum, body: body, media: mediaDataUrl || '', lang: lang })
+    }).then(function(r){ return r.text(); })
+      .then(function(t){ afterPublish(t.indexOf('error') !== 0); })
+      .catch(function(){ afterPublish(false); });
+  }
+
+  if (btn) { btn.disabled = true; btn.textContent = lang==='hi' ? 'प्रकाशित हो रहा है…' : 'Publishing…'; }
 
   if (mediaFile) {
     var reader = new FileReader();
-    reader.onload = function(e) { doPublish(e.target.result); };
+    reader.onload = function(e) { send(e.target.result); };
     reader.readAsDataURL(mediaFile);
   } else {
-    doPublish('');
+    send('');
   }
+}
+
+function loadStories() {
+  if (!VM_LIVEDESK_URL) { renderFeed(); renderOpinion(); return; }
+  fetch(VM_LIVEDESK_URL + '?type=story')
+    .then(function(r){ return r.json(); })
+    .then(function(list){
+      stories = (list || []).map(function(s){
+        var d = new Date(s.pubDate);
+        return {
+          id: s.id, hl: s.hl, cat: s.cat, sum: s.sum, body: s.body, mediaUrl: s.mediaUrl || '',
+          dateHi: d.toLocaleDateString('hi-IN', { day:'numeric', month:'long', year:'numeric' }),
+          dateEn: d.toLocaleDateString('en-IN', { day:'numeric', month:'long', year:'numeric' })
+        };
+      });
+      renderFeed();
+      renderOpinion();
+    })
+    .catch(function(){ renderFeed(); renderOpinion(); });
 }
 
 function renderFeed() {
@@ -2280,8 +2317,7 @@ function renderFeed() {
 
 /* ── Init ───────────────────────────────────────────── */
 setDate();
-renderFeed();
-renderOpinion();
+loadStories();
 loadFeed('top');
 loadBreaking();
 </script>
