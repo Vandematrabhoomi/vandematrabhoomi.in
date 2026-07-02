@@ -1,8 +1,30 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-02T12:14:58.958301",
+  "generated": "2026-07-02T12:20:37.294436",
   "en": {
     "top": [
+      {
+        "title": "Russian drone and missile attack on Kyiv kills 17, injures over 90",
+        "summary": "Russia launched drone and missile attack on Ukrainian capital overnight killing 17 civilians and injuring more than 90 others. Damage was recorded in 30 locations across Kyiv, mainly residential buildings and civilian infrastructure. Russia&#8217;s Defense Ministry said in a statement the deadly bombardment was in response to Ukraine&#8217;s long-range strikes on its civilian infrastructure. Ukrai",
+        "article": "Russia launched drone and missile attack on Ukrainian capital overnight killing 17 civilians and injuring more than 90 others. Damage was recorded in 30 locations across Kyiv, mainly residential buildings and civilian infrastructure. Russia&#8217;s Defense Ministry said in a statement the deadly bombardment was in response to Ukraine&#8217;s long-range strikes on its civilian infrastructure. Ukraine&#8217;s increasingly frequent and large-scale attacks on Russia, described by President Volodymyr Zelenskyy as a 40-day blitz, have primarily targeted oil refineries, triggering a fuel crisis in Russia more than four years after the war between Kyiv and Moscow began.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T12:17:21+00:00",
+        "link": "https://newsonair.gov.in/russian-drone-and-missile-attack-on-kyiv-kills-17-injures-over-90/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Akashwani-news.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PNG Minister Hardeep Singh Puri says India is rapidly expanding its refinery capacity",
+        "summary": "Petroleum and Natural Gas Minister Hardeep Singh Puri today said that India is rapidly expanding its refinery capacity. Addressing a press conference in New Delhi, Mr Puri informed that in the next six to twelve months the country&#8217;s refining capacity will be brought to 300 million metric tonnes per annum. He said that the first […]",
+        "article": "Petroleum and Natural Gas Minister Hardeep Singh Puri today said that India is rapidly expanding its refinery capacity. Addressing a press conference in New Delhi, Mr Puri informed that in the next six to twelve months the country&#8217;s refining capacity will be brought to 300 million metric tonnes per annum. He said that the first Greenfield refinery is being established after a gap of 10 years. Talking about India’s handling of the situation during the West Asia crisis, Mr Puri said that for a long time the government controlled the prices of petrol and diesel and reduced the duties imposed on them. He said that the government always prioritized and focused on the interest of the citizens. The minister said that price of petrol has increased by only 5.58 percent in the last four years, and diesel by 6.23 percent. There has been no increase in the price of fuel for consumers and government&#8217;s fiscal system absorbed the hike in crude oil prices.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T12:12:54+00:00",
+        "link": "https://newsonair.gov.in/png-minister-hardeep-singh-puri-says-india-is-rapidly-expanding-its-refinery-capacity/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-174134.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "India’s strategic partnership with Japan is expected to further strengthen bilateral ties: Union Minister Piyush Goyal",
         "summary": "Union Minister for Commerce and Industry Piyush Goyal today said that investments have emerged as a key driver of India&#8217;s strategic partnership with Japan and are expected to further strengthen bilateral ties. Addressing the Indo-Japan Strategic Dialogue on Shaping the Asian Century organised by a private Television channel, Mr. Goyal said opportunities are opening up […]",
@@ -112,31 +134,20 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/sooo.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "DRI seizes huge consignment of banned cough syrup from goods train in Agartala, Tripura",
-        "summary": "The Directorate of Revenue Intelligence (DRI) today seized a huge consignment of banned cough syrup from a goods train in Agartala, Tripura. A DRI official said the estimated market value of the seized cough syrup is around ₹6.54 crore. During the joint operation carried out by the DRI, Assam Rifles and the Railway Protection […]",
-        "article": "The Directorate of Revenue Intelligence (DRI) today seized a huge consignment of banned cough syrup from a goods train in Agartala, Tripura. A DRI official said the estimated market value of the seized cough syrup is around ₹6.54 crore. During the joint operation carried out by the DRI, Assam Rifles and the Railway Protection Force (RPF), a total of 55,626 bottles of Eskuf and Fairdeal cough syrup were confiscated. In connection with the case, Subrata Deb, manager of a private firm based in Khowai district, has been arrested. Further investigation is underway.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T08:49:00+00:00",
-        "link": "https://newsonair.gov.in/dri-seizes-huge-consignment-of-banned-cough-syrup-from-goods-train-in-agartala-tripura/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India’s proposal for Comprehensive Convention on International Terrorism gains renewed support at UN General Assembly",
-        "summary": "India&#8217;s long-standing proposal for the Comprehensive Convention on International Terrorism has received renewed support at the United Nations General Assembly. The Ninth Review of the UN Global Counter-Terrorism Strategy, adopted by 140 votes, has urged member states to make every effort to finalise the convention proposed by India over three decades ago. India&#8217;s Permanent Representati",
-        "article": "India&#8217;s long-standing proposal for the Comprehensive Convention on International Terrorism has received renewed support at the United Nations General Assembly. The Ninth Review of the UN Global Counter-Terrorism Strategy, adopted by 140 votes, has urged member states to make every effort to finalise the convention proposed by India over three decades ago. India&#8217;s Permanent Representative to the UN, P. Harish, said the absence of a universally agreed legal framework weakens global counter-terrorism efforts. He stressed that there should be no double standards in tackling terrorism and called for holding perpetrators, financiers and sponsors accountable. Harish said the convention would strengthen international cooperation, prosecution and extradition, and deny terrorists safe havens, funds and arms. The United States, Israel and Argentina voted against the strategy.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T08:46:19+00:00",
-        "link": "https://newsonair.gov.in/indias-proposal-for-comprehensive-convention-on-international-terrorism-gains-renewed-support-at-un-general-assembly/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/un.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "PNG Minister Hardeep Singh Puri says India is rapidly expanding its refinery capacity",
+        "summary": "Petroleum and Natural Gas Minister Hardeep Singh Puri today said that India is rapidly expanding its refinery capacity. Addressing a press conference in New Delhi, Mr Puri informed that in the next six to twelve months the country&#8217;s refining capacity will be brought to 300 million metric tonnes per annum. He said that the first […]",
+        "article": "Petroleum and Natural Gas Minister Hardeep Singh Puri today said that India is rapidly expanding its refinery capacity. Addressing a press conference in New Delhi, Mr Puri informed that in the next six to twelve months the country&#8217;s refining capacity will be brought to 300 million metric tonnes per annum. He said that the first Greenfield refinery is being established after a gap of 10 years. Talking about India’s handling of the situation during the West Asia crisis, Mr Puri said that for a long time the government controlled the prices of petrol and diesel and reduced the duties imposed on them. He said that the government always prioritized and focused on the interest of the citizens. The minister said that price of petrol has increased by only 5.58 percent in the last four years, and diesel by 6.23 percent. There has been no increase in the price of fuel for consumers and government&#8217;s fiscal system absorbed the hike in crude oil prices.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T12:12:54+00:00",
+        "link": "https://newsonair.gov.in/png-minister-hardeep-singh-puri-says-india-is-rapidly-expanding-its-refinery-capacity/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-174134.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "India’s strategic partnership with Japan is expected to further strengthen bilateral ties: Union Minister Piyush Goyal",
         "summary": "Union Minister for Commerce and Industry Piyush Goyal today said that investments have emerged as a key driver of India&#8217;s strategic partnership with Japan and are expected to further strengthen bilateral ties. Addressing the Indo-Japan Strategic Dialogue on Shaping the Asian Century organised by a private Television channel, Mr. Goyal said opportunities are opening up […]",
@@ -233,23 +244,23 @@ window.VM_NEWS = {
         "pubDate": "2026-07-02T08:10:37+00:00",
         "link": "https://newsonair.gov.in/govt-is-promoting-ease-of-living-while-ensuring-environmental-protection-union-minister-bhupender-yadav/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BHUP-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "MPEDA Concludes Second National Skill Olympiad on Seafood Value Addition at Seafood Expo Bharat 2026",
-        "summary": "The grand finale of the second edition of the National Skill Olympiad on Seafood Value Addition was held yesterday during Seafood Expo Bharat 2026 in Kochi. Organised by the Marine Products Export Development Authority (MPEDA), the event showcased the skills of ten trained seafood processing professionals in preparing value-added seafood products for export markets. P. […]",
-        "article": "The grand finale of the second edition of the National Skill Olympiad on Seafood Value Addition was held yesterday during Seafood Expo Bharat 2026 in Kochi. Organised by the Marine Products Export Development Authority (MPEDA), the event showcased the skills of ten trained seafood processing professionals in preparing value-added seafood products for export markets. P. Surya Bhaskar of Devi Fisheries Limited, Kakinada, Andhra Pradesh, won the competition and received a cash prize of one lakh rupees. Muthu Kumaran of Tuticorin, Tamil Nadu, secured the second position, while Sagarika Sardar of Kolkata and Barasarani Jena of Bhubaneswar finished third and fourth, respectively. Ahead of the finale, MPEDA trained over 2,500 seafood processing workers through fifty training programmes conducted across India&#8217;s east and west coasts.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T07:52:31+00:00",
-        "link": "https://newsonair.gov.in/mpeda-concludes-second-national-skill-olympiad-on-seafood-value-addition-at-seafood-expo-bharat-2026/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/oii.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "PNG Minister Hardeep Singh Puri says India is rapidly expanding its refinery capacity",
+        "summary": "Petroleum and Natural Gas Minister Hardeep Singh Puri today said that India is rapidly expanding its refinery capacity. Addressing a press conference in New Delhi, Mr Puri informed that in the next six to twelve months the country&#8217;s refining capacity will be brought to 300 million metric tonnes per annum. He said that the first […]",
+        "article": "Petroleum and Natural Gas Minister Hardeep Singh Puri today said that India is rapidly expanding its refinery capacity. Addressing a press conference in New Delhi, Mr Puri informed that in the next six to twelve months the country&#8217;s refining capacity will be brought to 300 million metric tonnes per annum. He said that the first Greenfield refinery is being established after a gap of 10 years. Talking about India’s handling of the situation during the West Asia crisis, Mr Puri said that for a long time the government controlled the prices of petrol and diesel and reduced the duties imposed on them. He said that the government always prioritized and focused on the interest of the citizens. The minister said that price of petrol has increased by only 5.58 percent in the last four years, and diesel by 6.23 percent. There has been no increase in the price of fuel for consumers and government&#8217;s fiscal system absorbed the hike in crude oil prices.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T12:12:54+00:00",
+        "link": "https://newsonair.gov.in/png-minister-hardeep-singh-puri-says-india-is-rapidly-expanding-its-refinery-capacity/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-174134.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "India’s strategic partnership with Japan is expected to further strengthen bilateral ties: Union Minister Piyush Goyal",
         "summary": "Union Minister for Commerce and Industry Piyush Goyal today said that investments have emerged as a key driver of India&#8217;s strategic partnership with Japan and are expected to further strengthen bilateral ties. Addressing the Indo-Japan Strategic Dialogue on Shaping the Asian Century organised by a private Television channel, Mr. Goyal said opportunities are opening up […]",
         "article": "Union Minister for Commerce and Industry Piyush Goyal today said that investments have emerged as a key driver of India&#8217;s strategic partnership with Japan and are expected to further strengthen bilateral ties. Addressing the Indo-Japan Strategic Dialogue on Shaping the Asian Century organised by a private Television channel, Mr. Goyal said opportunities are opening up for India&#8217;s skilled workforce, while the government&#8217;s focus remains on ensuring equitable development for all under the leadership of Prime Minister Narendra Modi. During the interaction, the Minister answered questions on India&#8217;s deepening engagement with Japan, the country&#8217;s diverse Free Trade Agreements, and the government&#8217;s management of the impact of the West Asia crisis, among other issues.",
@@ -345,23 +356,23 @@ window.VM_NEWS = {
         "pubDate": "2026-07-02T08:10:37+00:00",
         "link": "https://newsonair.gov.in/govt-is-promoting-ease-of-living-while-ensuring-environmental-protection-union-minister-bhupender-yadav/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BHUP-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "MPEDA Concludes Second National Skill Olympiad on Seafood Value Addition at Seafood Expo Bharat 2026",
-        "summary": "The grand finale of the second edition of the National Skill Olympiad on Seafood Value Addition was held yesterday during Seafood Expo Bharat 2026 in Kochi. Organised by the Marine Products Export Development Authority (MPEDA), the event showcased the skills of ten trained seafood processing professionals in preparing value-added seafood products for export markets. P. […]",
-        "article": "The grand finale of the second edition of the National Skill Olympiad on Seafood Value Addition was held yesterday during Seafood Expo Bharat 2026 in Kochi. Organised by the Marine Products Export Development Authority (MPEDA), the event showcased the skills of ten trained seafood processing professionals in preparing value-added seafood products for export markets. P. Surya Bhaskar of Devi Fisheries Limited, Kakinada, Andhra Pradesh, won the competition and received a cash prize of one lakh rupees. Muthu Kumaran of Tuticorin, Tamil Nadu, secured the second position, while Sagarika Sardar of Kolkata and Barasarani Jena of Bhubaneswar finished third and fourth, respectively. Ahead of the finale, MPEDA trained over 2,500 seafood processing workers through fifty training programmes conducted across India&#8217;s east and west coasts.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T07:52:31+00:00",
-        "link": "https://newsonair.gov.in/mpeda-concludes-second-national-skill-olympiad-on-seafood-value-addition-at-seafood-expo-bharat-2026/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/oii.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "PNG Minister Hardeep Singh Puri says India is rapidly expanding its refinery capacity",
+        "summary": "Petroleum and Natural Gas Minister Hardeep Singh Puri today said that India is rapidly expanding its refinery capacity. Addressing a press conference in New Delhi, Mr Puri informed that in the next six to twelve months the country&#8217;s refining capacity will be brought to 300 million metric tonnes per annum. He said that the first […]",
+        "article": "Petroleum and Natural Gas Minister Hardeep Singh Puri today said that India is rapidly expanding its refinery capacity. Addressing a press conference in New Delhi, Mr Puri informed that in the next six to twelve months the country&#8217;s refining capacity will be brought to 300 million metric tonnes per annum. He said that the first Greenfield refinery is being established after a gap of 10 years. Talking about India’s handling of the situation during the West Asia crisis, Mr Puri said that for a long time the government controlled the prices of petrol and diesel and reduced the duties imposed on them. He said that the government always prioritized and focused on the interest of the citizens. The minister said that price of petrol has increased by only 5.58 percent in the last four years, and diesel by 6.23 percent. There has been no increase in the price of fuel for consumers and government&#8217;s fiscal system absorbed the hike in crude oil prices.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T12:12:54+00:00",
+        "link": "https://newsonair.gov.in/png-minister-hardeep-singh-puri-says-india-is-rapidly-expanding-its-refinery-capacity/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-174134.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "India’s strategic partnership with Japan is expected to further strengthen bilateral ties: Union Minister Piyush Goyal",
         "summary": "Union Minister for Commerce and Industry Piyush Goyal today said that investments have emerged as a key driver of India&#8217;s strategic partnership with Japan and are expected to further strengthen bilateral ties. Addressing the Indo-Japan Strategic Dialogue on Shaping the Asian Century organised by a private Television channel, Mr. Goyal said opportunities are opening up […]",
         "article": "Union Minister for Commerce and Industry Piyush Goyal today said that investments have emerged as a key driver of India&#8217;s strategic partnership with Japan and are expected to further strengthen bilateral ties. Addressing the Indo-Japan Strategic Dialogue on Shaping the Asian Century organised by a private Television channel, Mr. Goyal said opportunities are opening up for India&#8217;s skilled workforce, while the government&#8217;s focus remains on ensuring equitable development for all under the leadership of Prime Minister Narendra Modi. During the interaction, the Minister answered questions on India&#8217;s deepening engagement with Japan, the country&#8217;s diverse Free Trade Agreements, and the government&#8217;s management of the impact of the West Asia crisis, among other issues.",
@@ -459,20 +470,20 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BHUP-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "MPEDA Concludes Second National Skill Olympiad on Seafood Value Addition at Seafood Expo Bharat 2026",
-        "summary": "The grand finale of the second edition of the National Skill Olympiad on Seafood Value Addition was held yesterday during Seafood Expo Bharat 2026 in Kochi. Organised by the Marine Products Export Development Authority (MPEDA), the event showcased the skills of ten trained seafood processing professionals in preparing value-added seafood products for export markets. P. […]",
-        "article": "The grand finale of the second edition of the National Skill Olympiad on Seafood Value Addition was held yesterday during Seafood Expo Bharat 2026 in Kochi. Organised by the Marine Products Export Development Authority (MPEDA), the event showcased the skills of ten trained seafood processing professionals in preparing value-added seafood products for export markets. P. Surya Bhaskar of Devi Fisheries Limited, Kakinada, Andhra Pradesh, won the competition and received a cash prize of one lakh rupees. Muthu Kumaran of Tuticorin, Tamil Nadu, secured the second position, while Sagarika Sardar of Kolkata and Barasarani Jena of Bhubaneswar finished third and fourth, respectively. Ahead of the finale, MPEDA trained over 2,500 seafood processing workers through fifty training programmes conducted across India&#8217;s east and west coasts.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T07:52:31+00:00",
-        "link": "https://newsonair.gov.in/mpeda-concludes-second-national-skill-olympiad-on-seafood-value-addition-at-seafood-expo-bharat-2026/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/oii.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "Russian drone and missile attack on Kyiv kills 17, injures over 90",
+        "summary": "Russia launched drone and missile attack on Ukrainian capital overnight killing 17 civilians and injuring more than 90 others. Damage was recorded in 30 locations across Kyiv, mainly residential buildings and civilian infrastructure. Russia&#8217;s Defense Ministry said in a statement the deadly bombardment was in response to Ukraine&#8217;s long-range strikes on its civilian infrastructure. Ukrai",
+        "article": "Russia launched drone and missile attack on Ukrainian capital overnight killing 17 civilians and injuring more than 90 others. Damage was recorded in 30 locations across Kyiv, mainly residential buildings and civilian infrastructure. Russia&#8217;s Defense Ministry said in a statement the deadly bombardment was in response to Ukraine&#8217;s long-range strikes on its civilian infrastructure. Ukraine&#8217;s increasingly frequent and large-scale attacks on Russia, described by President Volodymyr Zelenskyy as a 40-day blitz, have primarily targeted oil refineries, triggering a fuel crisis in Russia more than four years after the war between Kyiv and Moscow began.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T12:17:21+00:00",
+        "link": "https://newsonair.gov.in/russian-drone-and-missile-attack-on-kyiv-kills-17-injures-over-90/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Akashwani-news.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Romania: Powerful storm kills one, causes widespread damage in Bucharest",
         "summary": "A powerful storm swept across Romania’s capital, Bucharest, and 20 counties yesterday, leaving one person dead and causing widespread damage. Emergency services said nearly 2,000 calls for assistance were received in Bucharest alone, where several metro stations were flooded. The storm also affected around 60 towns and villages outside the capital, damaging dozens of homes […]",
@@ -569,17 +580,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-02T00:50:09+00:00",
         "link": "https://newsonair.gov.in/india-japan-will-continue-to-advance-peace-stability-and-prosperity-in-indo-pacific-and-beyond-pm-modi/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/modiiiiiii.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India concludes two-day Human Resource Mobility Forum in New Delhi",
-        "summary": "The two-day Human Resource Mobility Forum organised by the Ministry of External Affairs in New Delhi concluded in New Delhi today. The Forum was inaugurated by External Affairs Minister Dr. S. Jaishankar yesterday. This was the first such Forum organised by the Ministry providing a common platform to relevant Ministries, foreign Governments, foreign employers […]",
-        "article": "The two-day Human Resource Mobility Forum organised by the Ministry of External Affairs in New Delhi concluded in New Delhi today. The Forum was inaugurated by External Affairs Minister Dr. S. Jaishankar yesterday. This was the first such Forum organised by the Ministry providing a common platform to relevant Ministries, foreign Governments, foreign employers and recruiting agents for in-depth interactions to strengthen global workforce and promote legal mobility. Five Country Sessions of Denmark, Germany, Italy, Japan, and Russia with whom India has signed specific MoU/Partnership on mobility, were held during the Forum. These sessions facilitated meaningful interactions between the participants on safe and legal mobility ecosystem and opportunities for Indian workforce. In his keynote address yesterday, Dr Jaishankar highlighted the collective responsibility of the global community to strengthen legal mobility and eradicate exploitative practices. He noted the potential of such Forum in strengthening partnerships to shape the future of global talent mobility. He commended the eMigrate V2.0 portal, which is facilitating safe, legal and orderly mobility.",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T17:01:56+00:00",
-        "link": "https://newsonair.gov.in/india-concludes-two-day-human-resource-mobility-forum-in-new-delhi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/goya.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -1025,13 +1025,24 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
-        "title": "भारत-जापान संबंध विशेष, कई क्षेत्रों में हुए अहम समझौते: पीएम मोदी",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा है कि भारत-जापान संबंध बहुत विशेष हैं और आर्थिक साझेदारी की सफलता के कई शानदार उदाहरण मौजूद हैं। नई दिल्ली में आज भारत-जापान संयुक्त आर्थिक मंच में श्री मोदी ने कहा कि जापान की विशेषज्ञता और निवेश भारत की गति और व्यापकता के साथ मिलने पर पूरी दुनिया को लाभ […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा है कि भारत-जापान संबंध बहुत विशेष हैं और आर्थिक साझेदारी की सफलता के कई शानदार उदाहरण मौजूद हैं। नई दिल्ली में आज भारत-जापान संयुक्त आर्थिक मंच में श्री मोदी ने कहा कि जापान की विशेषज्ञता और निवेश भारत की गति और व्यापकता के साथ मिलने पर पूरी दुनिया को लाभ होता है। उन्होंने कहा कि दोनों पक्षों ने आज साझेदारी को और भी गतिशील तथा प्रगाढ बनाने का निर्णय लिया है। प्रधानमंत्री ने कहा कि भारत और जापान ने आर्थिक सुरक्षा, आर्टिफिशियल इंटेलिजेंस, रक्षा और स्वास्थ्य जैसे कई क्षेत्रों पर समझौते किए हैं। यह समझौते दोनों देशों की साझेदारी को भविष्य के अनुकूल और असीमित बनाएंगे। श्री मोदी ने कहा कि आर्थिक जगत इस समय आपूर्ति श्रृंखला अडचनों, व्यापार अनिश्चितता और वैश्विक मांग में गिरावट से जूझ रहा है। उन्होंने कहा कि भारत विश्व की सबसे तेजी से बढ़ती प्रमुख अर्थव्यवस्था है और पिछले वित्तीय वर्ष में भारत की आर्थिक वृद्धि 7.7 प्रतिशत रही। प्रधानमंत्री ने कहा कि पिछले 12 वर्ष में भारत में काइज़ेन दर्शन को अपनाते हुए, सरकार निरंतर सुधार के माध्यम से आर्थिक डीएनए को बदल रही है। प्रधानमंत्री मोदी ने कहा कि कुछ महीने पहले भारत ने कराधान, सुशासन और व्यापार सुगमता के क्षेत्र में अगली पीढ़ी के सुधार लागू किए हैं। श्री मोदी ने कहा कि इससे निजी क्षेत्र के लिए कई क्षेत्र खुल रहे हैं और कई महत्वपूर्ण क्षेत्रों में प्रोत्साहन मिल रहे हैं। इससे सभी को लाभ होगा। प्रधानमंत्री ने कहा कि यही कारण है कि पिछले चार वर्षों से लगातार जापान बैंक फॉर इंटरनेशनल कोऑपरेशन के सर्वेक्षणों से पता चलता है कि भारत जापानी व्यवसायों के लिए सबसे आशाजनक स्&#x200d;थल बना हुआ है। जापान की प्रधानमंत्री सनाए ताकाइची ने कहा कि सहयोग के कई क्षेत्रों में ऊर्जा सुरक्षा सबसे महत्वपूर्ण क्षेत्रों में से एक है। उन्होंने कहा कि हाल ही में हुए जी-7 शिखर सम्मेलन में उन्होंने ऊर्जा सुरक्षा मजबूत करने के लिए तीन प्रस्ताव प्रस्तुत किए थे। यह प्रस्&#x200d;ताव मुक्त और पारदर्शी ऊर्जा व्यापार सुनिश्चित करने, रणनीतिक ऊर्जा भंडार की घोषणा करने और उत्पादक तथा उपभोक्ता देशों के बीच सहयोग को बढ़ावा देने से संबंधित थे। सुश्री ताकाइची ने कहा कि पावर एशिया पहल के माध्यम से इस दृष्टिकोण को ठोस कार्रवाई में बदलने के लिए काम किया जा रहा है। इस अवसर पर दोनों प्रधानमंत्रियों ने संयुक्त रूप से हरियाणा के खरखोदा में मारुति सुजुकी के चौथे वाहन निर्माण केंद्र का उद्घाटन किया।",
+        "title": "भारत-जापान रणनीतिक साझेदारी का प्रमुख संचालक है निवेश: केंद्रीय मंत्री पीयूष गोयल",
+        "summary": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने कहा कि निवेश भारत और जापान की रणनीतिक साझेदारी का एक प्रमुख संचालक बनकर उभरा है और इससे द्विपक्षीय संबंधों को और मजबूती मिलने की उम्मीद है। वे आज एक निजी टेलीविजन चैनल द्वारा आयोजित एशियाई सदी को आकार देने विषय पर भारत-जापान रणनीतिक संवाद को संबोधित […]",
+        "article": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने कहा कि निवेश भारत और जापान की रणनीतिक साझेदारी का एक प्रमुख संचालक बनकर उभरा है और इससे द्विपक्षीय संबंधों को और मजबूती मिलने की उम्मीद है। वे आज एक निजी टेलीविजन चैनल द्वारा आयोजित एशियाई सदी को आकार देने विषय पर भारत-जापान रणनीतिक संवाद को संबोधित कर रहे थे। इस अवसर श्री गोयल ने कहा कि भारत के कुशल कार्यबल के लिए अवसर खुल रहे हैं और प्रधानमंत्री नरेंद्र मोदी के नेतृत्व में सरकार का ध्यान सभी के लिए समान विकास सुनिश्चित करने पर केंद्रित है। श्री गोयल ने जापान के साथ भारत की बढ़ती भागीदारी और उसके विविध मुक्त व्यापार समझौतों और पश्चिम एशिया संकट के प्रभाव से उत्&#x200d;पन्&#x200d;न स्थिति से संबंधित अन्य मुद्दों पर पूछे गए प्रश्नों के उत्तर दिए।",
         "date": "2026-07-02",
-        "pubDate": "2026-07-02T12:00:04+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-says-india-japan-relations-are-truly-very-special-shares-successful-economic-partnership/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-02-163939-1.jpg",
+        "pubDate": "2026-07-02T12:15:38+00:00",
+        "link": "https://newsonair.gov.in/hi/indias-strategic-partnership-with-japan-is-expected-to-further-strengthen-bilateral-ties-union-minister-piyush-goyal/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Teacher-Eligibility-Test-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारतीय रेलवे ने इस वर्ष जून में माल ढुलाई में 4 प्रतिशत वृद्धि दर्ज की",
+        "summary": "भारतीय रेलवे ने इस वर्ष जून में पिछले वर्ष इसी महीने की अवधि में माल ढुलाई में चार प्रतिशत की वृद्धि दर्ज की है। रेल मंत्रालय ने बताया कि रेलवे ने पिछले महीने 142 करोड़ टन से अधिक माल की ढुलाई की। मंत्रालय ने यह भी बताया कि इस वर्ष जून में यात्री आवागमन […]",
+        "article": "भारतीय रेलवे ने इस वर्ष जून में पिछले वर्ष इसी महीने की अवधि में माल ढुलाई में चार प्रतिशत की वृद्धि दर्ज की है। रेल मंत्रालय ने बताया कि रेलवे ने पिछले महीने 142 करोड़ टन से अधिक माल की ढुलाई की। मंत्रालय ने यह भी बताया कि इस वर्ष जून में यात्री आवागमन में भी लगातार वृद्धि दर्ज की गई है। रेलवे में इस वर्ष जून तक 63 करोड 81 लाख यात्रियों ने यात्रा की, जबकि पिछले वर्ष के इसी महीने में 62 करोड़ 37 लाख यात्रियों ने यात्रा की। पिछले महीने उर्वरक की लोडिंग में 19.1 प्रतिशत, अन्य शेष वस्तुओं में 17.3 प्रतिशत, लौह अयस्क में 9.4 प्रतिशत, घरेलू कोयले में 4.9 प्रतिशत की वृद्धि हुई। इसके अलावा, देश में अमृत भारत रेल सेवाओं की संख्या 72 हो गई है, जिसमें इस वर्ष जून में शुरू की गई चार नई सेवाएं शामिल हैं। इस बीच, वंदे भारत सेवाओं की संख्या बढ़कर 164 हो गई है, जिसमें हाल ही में शुरू की गई हावड़ा और कामाख्या के बीच चलने वाली वंदे भारत स्लीपर सेवा भी शामिल है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T12:13:26+00:00",
+        "link": "https://newsonair.gov.in/hi/indian-railways-registers-4-freight-growth-in-june-this-year/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indian-Railways.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1047,24 +1058,46 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "पीएम मोदी और जापान की पीएम सनाए तकाइची के बीच वार्षिक शिखर सम्मेलन स्तर की बातचीत हुई",
-        "summary": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। […]",
-        "article": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। इसके साथ ही पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचार विमर्श किया गया। संयुक्त संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि आज के समय में सामूहिक विश्वास सबसे बड़ी संपत्ति है और भारत-जापान की द्विपक्षीय साझेदारी समय की कसौटी पर खरी उतरी है। उन्होंने कहा कि भारत और जापान आज विश्व की सबसे बड़ी अर्थव्यवस्थाओं में से हैं और एक स्वतंत्र और खुला हिंद-प्रशांत क्षेत्र दोनों देशों की साझा प्राथमिकता है। उन्होंने कहा कि दोनों देश आर्थिक सुरक्षा और ऊर्जा सुरक्षा के महत्व को समझते हैं। उन्होंने कहा कि प्रौद्योगिकी साझेदारी भारत-जापान सहयोग का सबसे महत्वपूर्ण स्तंभ होगा। श्री मोदी ने कहा कि इस परिकल्पना को साकार करने के लिए भारत और जापान ने ए.आई के क्षेत्र में एक संयुक्त वक्तव्य जारी किया है। प्रधानमंत्री ने कहा कि जापान की सटीक प्रौद्योगिकी और भारत की सॉफ्टवेयर क्षमताओं का संगम वैश्विक एआई विकास को नई गति और शक्ति प्रदान करेगा। उन्होंने बताया कि रक्षा क्षेत्र में आज दोनों देशों ने भारत और जापान के बीच पहली सह-विकास परियोजना पर एक समझौते पर हस्ताक्षर किए हैं। प्रधानमंत्री ने कहा कि ऊर्जा सुरक्षा के क्षेत्र में कई महत्वपूर्ण निर्णय लिए गए हैं। उन्होंने कहा कि भारत-जापान जैव-गैस पहल के माध्यम से भारत में एक हजार जैव-गैस और जैविक उर्वरक संयंत्र स्थापित किए जाएंगे। उन्होंने कहा कि इससे भारत के गांवों में स्थिरता, समृद्धि और ग्रामीण आजीविका को नई शक्ति मिलेगी। प्रधानमंत्री ने कहा कि भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक हैं। उन्होंने कहा कि सांस्कृतिक मूल्यों से लेकर आधुनिक प्रौद्योगिकी तक, दोनों देशों की सोच और दृष्टिकोण में समानता है। इससे पहले आज, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया है कि भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
+        "title": "महिला और बाल विकास मंत्रालय ने प्रधानमंत्री राष्ट्रीय बाल पुरस्कार के लिए आमंत्रित किए नामांकन",
+        "summary": "महिला और बाल विकास मंत्रालय ने प्रधानमंत्री राष्ट्रीय बाल पुरस्कार के लिए नामांकन आमंत्रित किए हैं। यह पुरस्‍कार पांच से 18 वर्ष के बच्चों की असाधारण उपलब्धियों के लिए दिए जाते हैं। नामांकन जमा करने की अंतिम तिथि 31 जुलाई है। मंत्रालय ने बताया कि नामांकन अवॉर्डस डॉट जीओवी डॉट आईएन पोर्टल पर किए जा […]",
+        "article": "महिला और बाल विकास मंत्रालय ने प्रधानमंत्री राष्ट्रीय बाल पुरस्कार के लिए नामांकन आमंत्रित किए हैं। यह पुरस्&#x200d;कार पांच से 18 वर्ष के बच्चों की असाधारण उपलब्धियों के लिए दिए जाते हैं। नामांकन जमा करने की अंतिम तिथि 31 जुलाई है। मंत्रालय ने बताया कि नामांकन अवॉर्डस डॉट जीओवी डॉट आईएन पोर्टल पर किए जा सकते हैं। प्रधानमंत्री राष्ट्रीय बाल पुरस्कार खेल, सामाजिक सेवा, विज्ञान और प्रौद्योगिकी, पर्यावरण, कला तथा संस्कृति के क्षेत्र में उत्कृष्ट प्रदर्शन करने वाले बच्चों को प्रदान किया जाता है। यह पुरस्कार कठिन परिस्थितियों में असाधारण साहस का प्रदर्शन करने वालों को भी दिया जाता है।",
         "date": "2026-07-02",
-        "pubDate": "2026-07-02T08:57:33+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-receives-japanese-pm-sanae-takaichi-at-hyderabad-house/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260702323ff-scaled.jpg",
+        "pubDate": "2026-07-02T10:28:58+00:00",
+        "link": "https://newsonair.gov.in/hi/ministry-of-wcd-invites-nominations-for-pradhan-mantri-rashtriya-bal-puraskar-awards/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Bal-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "यूएनजीए ने एक बार फिर भारत के प्रस्तावित आतंकवाद सम्मेलन को अपनाने का आग्रह किया",
-        "summary": "अंतर्राष्ट्रीय आतंकवाद पर व्यापक सम्मेलन के लिए भारत के लंबे समय से चले आ रहे प्रस्ताव को संयुक्त राष्ट्र महासभा में फिर से समर्थन मिला है। 140 सदस्‍यों द्वारा अपनाई गई संयुक्त राष्ट्र की वैश्विक आतंकरोधी रणनीति की नौवीं समीक्षा में सदस्य देशों से आग्रह किया गया है कि वे भारत द्वारा तीन दशक पहले […]",
-        "article": "अंतर्राष्ट्रीय आतंकवाद पर व्यापक सम्मेलन के लिए भारत के लंबे समय से चले आ रहे प्रस्ताव को संयुक्त राष्ट्र महासभा में फिर से समर्थन मिला है। 140 सदस्&#x200d;यों द्वारा अपनाई गई संयुक्त राष्ट्र की वैश्विक आतंकरोधी रणनीति की नौवीं समीक्षा में सदस्य देशों से आग्रह किया गया है कि वे भारत द्वारा तीन दशक पहले प्रस्तावित सम्मेलन को अंतिम रूप देने के लिए हर संभव प्रयास करें। संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि पी. हरीश ने कहा कि सर्वमान्य कानूनी ढांचे का अभाव वैश्विक आतंकरोधी प्रयासों को कमजोर करता है। उन्होंने आतंकवाद से निपटने में दोहरे मापदंड न अपनाने पर जोर देते हुए अपराधियों, वित्तपोषकों और प्रायोजकों को जवाबदेह ठहराने का आह्वान किया। श्री हरीश ने कहा कि यह सम्मेलन अंतर्राष्ट्रीय सहयोग, अभियोजन और प्रत्यर्पण को मजबूत करेगा और आतंकवादियों को सुरक्षित ठिकाने, धन और हथियार प्राप्त करने से वंचित करेगा। अमरीका, इस्राएल और अर्जेंटीना ने रणनीति के विरुद्ध मतदान किया।",
+        "title": "डीआरआई ने त्रिपुरा के अगरतला में प्रतिबंधित कफ सिरप की भारी खेप जब्त की",
+        "summary": "राजस्व खुफिया निदेशालय-डीआरआई ने आज त्रिपुरा के अगरतला में एक मालगाड़ी से प्रतिबंधित कफ सिरप की भारी खेप जब्त की। डीआरआई के एक अधिकारी ने बताया कि जब्त किए गए कफ सिरप का अनुमानित बाजार मूल्य लगभग ₹6.54 करोड़ है। डीआरआई, असम राइफल्स और रेलवे सुरक्षा बल-आरपीएफ द्वारा चलाए गए संयुक्त अभियान के दौरान, एस्कफ […]",
+        "article": "राजस्व खुफिया निदेशालय-डीआरआई ने आज त्रिपुरा के अगरतला में एक मालगाड़ी से प्रतिबंधित कफ सिरप की भारी खेप जब्त की। डीआरआई के एक अधिकारी ने बताया कि जब्त किए गए कफ सिरप का अनुमानित बाजार मूल्य लगभग ₹6.54 करोड़ है। डीआरआई, असम राइफल्स और रेलवे सुरक्षा बल-आरपीएफ द्वारा चलाए गए संयुक्त अभियान के दौरान, एस्कफ और फेयरडील कफ सिरप की कुल 55,626 बोतलें जब्त की गईं। इस मामले में खोवाई जिले की एक निजी कंपनी के प्रबंधक सुब्रता देब को गिरफ्तार किया गया है। आगे की जांच जारी है।",
         "date": "2026-07-02",
-        "pubDate": "2026-07-02T08:49:10+00:00",
-        "link": "https://newsonair.gov.in/hi/unga-again-urges-adoption-of-terrorism-convention-proposed-by-india/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pooo.jpg",
+        "pubDate": "2026-07-02T09:31:58+00:00",
+        "link": "https://newsonair.gov.in/hi/dri-seizes-huge-consignment-of-banned-cough-syrup-from-goods-train-in-agartala-tripura/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "पर्यावरण मंत्री भूपेन्‍द्र यादव ने कहा – भारत में इलेक्ट्रिक मोबिलिटी से टिकाऊ औद्योगिक ईको सि‍स्‍टम का निर्माण हुआ",
+        "summary": "केन्‍द्रीय पर्यावरण वन और जलवायु परिवर्तन मंत्री भूपेन्‍द्र यादव ने आज कहा कि भारत में इलेक्ट्रिक मोबिलिटी एक से दूसरी तकनीक की जगह नहीं ले रहा है बल्कि इससे टिकाऊ औद्योगिक ईको सि‍स्‍टम का निर्माण हो रहा है। इलेक्ट्रिक मोबिलिटी : विकसित भारत के लिए देश को इलेक्ट्रिक मोबिलिटी हब बनाने पर आयोजित राष्‍ट्रीय सम्‍मेलन […]",
+        "article": "केन्&#x200d;द्रीय पर्यावरण वन और जलवायु परिवर्तन मंत्री भूपेन्&#x200d;द्र यादव ने आज कहा कि भारत में इलेक्ट्रिक मोबिलिटी एक से दूसरी तकनीक की जगह नहीं ले रहा है बल्कि इससे टिकाऊ औद्योगिक ईको सि&#x200d;स्&#x200d;टम का निर्माण हो रहा है। इलेक्ट्रिक मोबिलिटी : विकसित भारत के लिए देश को इलेक्ट्रिक मोबिलिटी हब बनाने पर आयोजित राष्&#x200d;ट्रीय सम्&#x200d;मेलन के उद्घाटन समारोह में उन्&#x200d;होंने यह बात की। उन्&#x200d;होंने कहा कि सरकार पर्यावरण संरक्षण और टिकाऊ तथा संतुलित विकास के साथ जीवन को सुगम बनाने के प्रयास कर रही है। श्री यादव ने बताया कि सरकार पर्यावरण संबंधी मंजूरियों को सरल बनाने, परिवेश पोर्टल के माध्यम से अनुमोदन प्रणालियों को डिजिटाइज़ करने, अनुपालन आवश्यकताओं को युक्तिसंगत बनाने और पर्यावरण सुरक्षा उपायों से समझौता किए बिना व्यापार करने में आसानी को बढ़ावा दे रही है। ये सुधार जिम्मेदार विकास सुनिश्चित करते हुए निवेश में तेजी लाने में सक्षम बना रहे हैं। श्री यादव ने कहा कि सरकार प्रधानमंत्री नरेंद्र मोदी के दृष्टिकोण के अनुसार पारिस्थितिकी और अर्थव्यवस्था के साथ-साथ विकास सुनिश्चित करने पर काम कर रही है। यह सम्मेलन देश में इलेक्ट्रिक मोबिलिटी के क्षेत्र में तेजी लाने और वैश्विक इलेक्ट्रिक व्&#x200d;हीकल विनिर्माण केंद्र के रूप में भारत की स्थिति को मजबूत करने के लिए रूपरेखा तैयार करने के लिए आयेाजित किया गया है। इसमें वरिष्ठ नीति निर्माता, प्रमुख उद्योगकर्मी, ऑटोमोटिव निर्माता, प्रौद्योगिकी प्रदाता और अन्य हितधारक मिलकर विचार-विमर्श करेंगे।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T09:02:44+00:00",
+        "link": "https://newsonair.gov.in/hi/environment-minister-bhupender-yadav-electric-mobility-in-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BHUP-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गृह राज्‍य मंत्री नित्‍यानंद राय ने नई दिल्ली में आयोजित ध्वजारोहण समारोह में भाग लिया",
+        "summary": "गृह राज्‍य मंत्री नित्‍यानंद राय ने आज नई दिल्ली में सीमा सुरक्षा बल- बीएसएफ, भारत-तिब्बत सीमा पुलिस- आईटीबीपी और राष्ट्रीय सुरक्षा गार्ड- एनएसजी द्वारा माउंट एवरेस्ट और माउंट ल्होत्से पर किए गए पर्वतारोहण अभियानों की सफलता के उपलक्ष्य में आयोजित ध्वजारोहण समारोह में भाग लिया। इस अवसर पर राज्‍यमंत्री ने कहा कि बीएसएफ की […]",
+        "article": "गृह राज्&#x200d;य मंत्री नित्&#x200d;यानंद राय ने आज नई दिल्ली में सीमा सुरक्षा बल- बीएसएफ, भारत-तिब्बत सीमा पुलिस- आईटीबीपी और राष्ट्रीय सुरक्षा गार्ड- एनएसजी द्वारा माउंट एवरेस्ट और माउंट ल्होत्से पर किए गए पर्वतारोहण अभियानों की सफलता के उपलक्ष्य में आयोजित ध्वजारोहण समारोह में भाग लिया। इस अवसर पर राज्&#x200d;यमंत्री ने कहा कि बीएसएफ की सभी महिला पर्वतारोहियों की टीम दुनिया की सबसे ऊंची चोटी पर पहुंची और आकाश में वंदे मातरम् गाकर उन्&#x200d;होंने साहस, देशभक्ति और समर्पण का अनूठा उदाहरण स्&#x200d;थापित किया। श्री राय ने माउंट एवरेस्&#x200d;ट पर पहली बार आईटीबीपी के महिला दस्&#x200d;ते द्वारा अंतर्राष्&#x200d;ट्रीय पर्वतारोहण अभियान पूरा करने पर बधाई दी। उन्&#x200d;होंने एनएसजी के माउंट एवरेस्&#x200d;ट पर्वतारोहण अभियान को शारीरिक और मानसिक सहनशक्ति को आगे बढ़ाने के प्रति बल की प्रतिबद्धता बताया।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:44:01+00:00",
+        "link": "https://newsonair.gov.in/hi/mos-for-home-affairs-nityanand-rai-participates-in-flag-hoisting-ceremony-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/09/new-delhi-union-minister-of-state-for-home-affairs-nityanand-rai-during-winter-1-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1076,6 +1109,17 @@ window.VM_NEWS = {
         "pubDate": "2026-07-02T08:16:41+00:00",
         "link": "https://newsonair.gov.in/hi/canada-hit-by-extreme-weather-with-heatwave-and-severe-flooding/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607023848824.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "एनआरएए की वित्तपोषित जंगली धान संरक्षण परियोजना ने असम में महत्वपूर्ण उपलब्धि हासिल की",
+        "summary": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) […]",
+        "article": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) के संरक्षण और प्रबंधन नामक इस परियोजना का उद्देश्य चावल को उसके प्राकृतिक आवास में संरक्षित करना है। यह मान्यता भारत की समृद्ध चावल विविधता के संरक्षण और जलवायु परिवर्तन के अनुकूल कृषि को बढ़ावा देने की दिशा में एक महत्वपूर्ण कदम है। कृषि और किसान कल्याण मंत्रालय ने बताया कि यह परियोजना 2022 से कार्यान्वित की जा रही है। इसे आईसीएआर-राष्ट्रीय पादप आनुवंशिक संसाधन ब्यूरो, नई दिल्ली द्वारा असम राज्य जैव विविधता बोर्ड के सहयोग से संचालित किया जा रहा है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T07:50:07+00:00",
+        "link": "https://newsonair.gov.in/hi/govt-achieves-milestone-in-conservation-of-indias-wild-rice-genetic-resources/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607023848726.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1111,33 +1155,353 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMJMsKYa0AEov3T.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
+      }
+    ],
+    "breaking": [
       {
-        "title": "यूक्रेनी सेना ने एक सप्ताह में दूसरी बार रूस की प्रमुख ऊफ़ा तेल रिफाइनरी पर किया हमला",
-        "summary": "यूक्रेनी सेना ने एक सप्ताह में दूसरी बार रूस की प्रमुख ऊफ़ा तेल रिफाइनरी पर हमला किया। यूक्रेन के राष्ट्रपति वलोडिमिर ज़ेलेंस्की ने आज कहा कि यूक्रेन ने मॉस्को के दक्षिण-पूर्व में रूस के पेन्ज़ा क्षेत्र में मिसाइल घटकों का विनिर्माण करने वाले एक संयंत्र पर भी हमला किया है। ज़ेलेंस्की ने सोशल मीडिया पर […]",
-        "article": "यूक्रेनी सेना ने एक सप्ताह में दूसरी बार रूस की प्रमुख ऊफ़ा तेल रिफाइनरी पर हमला किया। यूक्रेन के राष्ट्रपति वलोडिमिर ज़ेलेंस्की ने आज कहा कि यूक्रेन ने मॉस्को के दक्षिण-पूर्व में रूस के पेन्ज़ा क्षेत्र में मिसाइल घटकों का विनिर्माण करने वाले एक संयंत्र पर भी हमला किया है। ज़ेलेंस्की ने सोशल मीडिया पर बताया कि ऊफ़ा रिफाइनरी रूस के सबसे बड़े लु्ब्रिकेंट उत्पादकों में से एक है और यूक्रेन से एक हजार किलोमीटर से अधिक दूरी पर स्थित है। यूक्रेन ने दावा किया कि ड्रोन हमलों ने रूसी बढ़त को धीमा कर दिया है। रूसी अधिकारियों ने हमलों की पुष्टि नहीं की। रूसी रक्षा मंत्रालय ने 16 रूसी क्षेत्रों, क्रीमिया और आज़ोव सागर और काला सागर के जलक्षेत्र में 179 यूक्रेनी ड्रोनों को रोकने की सूचना दी।",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T16:24:48+00:00",
-        "link": "https://newsonair.gov.in/hi/ukrainian-forces-attacked-russias-major-ufa-oil-refinery-for-the-second-time-in-a-week/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "title": "भारत-जापान रणनीतिक साझेदारी का प्रमुख संचालक है निवेश: केंद्रीय मंत्री पीयूष गोयल",
+        "summary": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने कहा कि निवेश भारत और जापान की रणनीतिक साझेदारी का एक प्रमुख संचालक बनकर उभरा है और इससे द्विपक्षीय संबंधों को और मजबूती मिलने की उम्मीद है। वे आज एक निजी टेलीविजन चैनल द्वारा आयोजित एशियाई सदी को आकार देने विषय पर भारत-जापान रणनीतिक संवाद को संबोधित […]",
+        "article": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने कहा कि निवेश भारत और जापान की रणनीतिक साझेदारी का एक प्रमुख संचालक बनकर उभरा है और इससे द्विपक्षीय संबंधों को और मजबूती मिलने की उम्मीद है। वे आज एक निजी टेलीविजन चैनल द्वारा आयोजित एशियाई सदी को आकार देने विषय पर भारत-जापान रणनीतिक संवाद को संबोधित कर रहे थे। इस अवसर श्री गोयल ने कहा कि भारत के कुशल कार्यबल के लिए अवसर खुल रहे हैं और प्रधानमंत्री नरेंद्र मोदी के नेतृत्व में सरकार का ध्यान सभी के लिए समान विकास सुनिश्चित करने पर केंद्रित है। श्री गोयल ने जापान के साथ भारत की बढ़ती भागीदारी और उसके विविध मुक्त व्यापार समझौतों और पश्चिम एशिया संकट के प्रभाव से उत्&#x200d;पन्&#x200d;न स्थिति से संबंधित अन्य मुद्दों पर पूछे गए प्रश्नों के उत्तर दिए।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T12:15:38+00:00",
+        "link": "https://newsonair.gov.in/hi/indias-strategic-partnership-with-japan-is-expected-to-further-strengthen-bilateral-ties-union-minister-piyush-goyal/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Teacher-Eligibility-Test-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "कीव पर रूस के ड्रोन और मिसाइल हमले में 13 लोगों की मौत, कई घायल",
-        "summary": "यूक्रेन के कीव में रूस के ड्रोन और मिसाइलों के हमले में 13 लोग मारे गए और कई लोग घायल हो गए। स्थानीय समाचार एजेंसियों ने बताया कि आज शहर के कई हिस्सों में विस्फोटों की आवाज सुनी गई। पूरे शहर में हवाई हमले के सायरन बजे और कई निवासियों ने मेट्रो स्टेशनों में शरण […]",
-        "article": "यूक्रेन के कीव में रूस के ड्रोन और मिसाइलों के हमले में 13 लोग मारे गए और कई लोग घायल हो गए। स्थानीय समाचार एजेंसियों ने बताया कि आज शहर के कई हिस्सों में विस्फोटों की आवाज सुनी गई। पूरे शहर में हवाई हमले के सायरन बजे और कई निवासियों ने मेट्रो स्टेशनों में शरण ली। यह हमले इस सप्ताह की शुरुआत में यूक्रेन द्वारा मॉस्&#x200d;को पर किए गए ड्रोन हमलों के बाद हुए हैं।",
+        "title": "भारतीय रेलवे ने इस वर्ष जून में माल ढुलाई में 4 प्रतिशत वृद्धि दर्ज की",
+        "summary": "भारतीय रेलवे ने इस वर्ष जून में पिछले वर्ष इसी महीने की अवधि में माल ढुलाई में चार प्रतिशत की वृद्धि दर्ज की है। रेल मंत्रालय ने बताया कि रेलवे ने पिछले महीने 142 करोड़ टन से अधिक माल की ढुलाई की। मंत्रालय ने यह भी बताया कि इस वर्ष जून में यात्री आवागमन […]",
+        "article": "भारतीय रेलवे ने इस वर्ष जून में पिछले वर्ष इसी महीने की अवधि में माल ढुलाई में चार प्रतिशत की वृद्धि दर्ज की है। रेल मंत्रालय ने बताया कि रेलवे ने पिछले महीने 142 करोड़ टन से अधिक माल की ढुलाई की। मंत्रालय ने यह भी बताया कि इस वर्ष जून में यात्री आवागमन में भी लगातार वृद्धि दर्ज की गई है। रेलवे में इस वर्ष जून तक 63 करोड 81 लाख यात्रियों ने यात्रा की, जबकि पिछले वर्ष के इसी महीने में 62 करोड़ 37 लाख यात्रियों ने यात्रा की। पिछले महीने उर्वरक की लोडिंग में 19.1 प्रतिशत, अन्य शेष वस्तुओं में 17.3 प्रतिशत, लौह अयस्क में 9.4 प्रतिशत, घरेलू कोयले में 4.9 प्रतिशत की वृद्धि हुई। इसके अलावा, देश में अमृत भारत रेल सेवाओं की संख्या 72 हो गई है, जिसमें इस वर्ष जून में शुरू की गई चार नई सेवाएं शामिल हैं। इस बीच, वंदे भारत सेवाओं की संख्या बढ़कर 164 हो गई है, जिसमें हाल ही में शुरू की गई हावड़ा और कामाख्या के बीच चलने वाली वंदे भारत स्लीपर सेवा भी शामिल है।",
         "date": "2026-07-02",
-        "pubDate": "2026-07-02T07:34:04+00:00",
-        "link": "https://newsonair.gov.in/hi/russian-drone-and-missile-attack-on-kyiv-kills-thirteen-injures-several/",
+        "pubDate": "2026-07-02T12:13:26+00:00",
+        "link": "https://newsonair.gov.in/hi/indian-railways-registers-4-freight-growth-in-june-this-year/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indian-Railways.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "महिला और बाल विकास मंत्रालय ने प्रधानमंत्री राष्ट्रीय बाल पुरस्कार के लिए आमंत्रित किए नामांकन",
+        "summary": "महिला और बाल विकास मंत्रालय ने प्रधानमंत्री राष्ट्रीय बाल पुरस्कार के लिए नामांकन आमंत्रित किए हैं। यह पुरस्‍कार पांच से 18 वर्ष के बच्चों की असाधारण उपलब्धियों के लिए दिए जाते हैं। नामांकन जमा करने की अंतिम तिथि 31 जुलाई है। मंत्रालय ने बताया कि नामांकन अवॉर्डस डॉट जीओवी डॉट आईएन पोर्टल पर किए जा […]",
+        "article": "महिला और बाल विकास मंत्रालय ने प्रधानमंत्री राष्ट्रीय बाल पुरस्कार के लिए नामांकन आमंत्रित किए हैं। यह पुरस्&#x200d;कार पांच से 18 वर्ष के बच्चों की असाधारण उपलब्धियों के लिए दिए जाते हैं। नामांकन जमा करने की अंतिम तिथि 31 जुलाई है। मंत्रालय ने बताया कि नामांकन अवॉर्डस डॉट जीओवी डॉट आईएन पोर्टल पर किए जा सकते हैं। प्रधानमंत्री राष्ट्रीय बाल पुरस्कार खेल, सामाजिक सेवा, विज्ञान और प्रौद्योगिकी, पर्यावरण, कला तथा संस्कृति के क्षेत्र में उत्कृष्ट प्रदर्शन करने वाले बच्चों को प्रदान किया जाता है। यह पुरस्कार कठिन परिस्थितियों में असाधारण साहस का प्रदर्शन करने वालों को भी दिया जाता है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T10:28:58+00:00",
+        "link": "https://newsonair.gov.in/hi/ministry-of-wcd-invites-nominations-for-pradhan-mantri-rashtriya-bal-puraskar-awards/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Bal-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "डीआरआई ने त्रिपुरा के अगरतला में प्रतिबंधित कफ सिरप की भारी खेप जब्त की",
+        "summary": "राजस्व खुफिया निदेशालय-डीआरआई ने आज त्रिपुरा के अगरतला में एक मालगाड़ी से प्रतिबंधित कफ सिरप की भारी खेप जब्त की। डीआरआई के एक अधिकारी ने बताया कि जब्त किए गए कफ सिरप का अनुमानित बाजार मूल्य लगभग ₹6.54 करोड़ है। डीआरआई, असम राइफल्स और रेलवे सुरक्षा बल-आरपीएफ द्वारा चलाए गए संयुक्त अभियान के दौरान, एस्कफ […]",
+        "article": "राजस्व खुफिया निदेशालय-डीआरआई ने आज त्रिपुरा के अगरतला में एक मालगाड़ी से प्रतिबंधित कफ सिरप की भारी खेप जब्त की। डीआरआई के एक अधिकारी ने बताया कि जब्त किए गए कफ सिरप का अनुमानित बाजार मूल्य लगभग ₹6.54 करोड़ है। डीआरआई, असम राइफल्स और रेलवे सुरक्षा बल-आरपीएफ द्वारा चलाए गए संयुक्त अभियान के दौरान, एस्कफ और फेयरडील कफ सिरप की कुल 55,626 बोतलें जब्त की गईं। इस मामले में खोवाई जिले की एक निजी कंपनी के प्रबंधक सुब्रता देब को गिरफ्तार किया गया है। आगे की जांच जारी है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T09:31:58+00:00",
+        "link": "https://newsonair.gov.in/hi/dri-seizes-huge-consignment-of-banned-cough-syrup-from-goods-train-in-agartala-tripura/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "पर्यावरण मंत्री भूपेन्‍द्र यादव ने कहा – भारत में इलेक्ट्रिक मोबिलिटी से टिकाऊ औद्योगिक ईको सि‍स्‍टम का निर्माण हुआ",
+        "summary": "केन्‍द्रीय पर्यावरण वन और जलवायु परिवर्तन मंत्री भूपेन्‍द्र यादव ने आज कहा कि भारत में इलेक्ट्रिक मोबिलिटी एक से दूसरी तकनीक की जगह नहीं ले रहा है बल्कि इससे टिकाऊ औद्योगिक ईको सि‍स्‍टम का निर्माण हो रहा है। इलेक्ट्रिक मोबिलिटी : विकसित भारत के लिए देश को इलेक्ट्रिक मोबिलिटी हब बनाने पर आयोजित राष्‍ट्रीय सम्‍मेलन […]",
+        "article": "केन्&#x200d;द्रीय पर्यावरण वन और जलवायु परिवर्तन मंत्री भूपेन्&#x200d;द्र यादव ने आज कहा कि भारत में इलेक्ट्रिक मोबिलिटी एक से दूसरी तकनीक की जगह नहीं ले रहा है बल्कि इससे टिकाऊ औद्योगिक ईको सि&#x200d;स्&#x200d;टम का निर्माण हो रहा है। इलेक्ट्रिक मोबिलिटी : विकसित भारत के लिए देश को इलेक्ट्रिक मोबिलिटी हब बनाने पर आयोजित राष्&#x200d;ट्रीय सम्&#x200d;मेलन के उद्घाटन समारोह में उन्&#x200d;होंने यह बात की। उन्&#x200d;होंने कहा कि सरकार पर्यावरण संरक्षण और टिकाऊ तथा संतुलित विकास के साथ जीवन को सुगम बनाने के प्रयास कर रही है। श्री यादव ने बताया कि सरकार पर्यावरण संबंधी मंजूरियों को सरल बनाने, परिवेश पोर्टल के माध्यम से अनुमोदन प्रणालियों को डिजिटाइज़ करने, अनुपालन आवश्यकताओं को युक्तिसंगत बनाने और पर्यावरण सुरक्षा उपायों से समझौता किए बिना व्यापार करने में आसानी को बढ़ावा दे रही है। ये सुधार जिम्मेदार विकास सुनिश्चित करते हुए निवेश में तेजी लाने में सक्षम बना रहे हैं। श्री यादव ने कहा कि सरकार प्रधानमंत्री नरेंद्र मोदी के दृष्टिकोण के अनुसार पारिस्थितिकी और अर्थव्यवस्था के साथ-साथ विकास सुनिश्चित करने पर काम कर रही है। यह सम्मेलन देश में इलेक्ट्रिक मोबिलिटी के क्षेत्र में तेजी लाने और वैश्विक इलेक्ट्रिक व्&#x200d;हीकल विनिर्माण केंद्र के रूप में भारत की स्थिति को मजबूत करने के लिए रूपरेखा तैयार करने के लिए आयेाजित किया गया है। इसमें वरिष्ठ नीति निर्माता, प्रमुख उद्योगकर्मी, ऑटोमोटिव निर्माता, प्रौद्योगिकी प्रदाता और अन्य हितधारक मिलकर विचार-विमर्श करेंगे।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T09:02:44+00:00",
+        "link": "https://newsonair.gov.in/hi/environment-minister-bhupender-yadav-electric-mobility-in-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BHUP-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गृह राज्‍य मंत्री नित्‍यानंद राय ने नई दिल्ली में आयोजित ध्वजारोहण समारोह में भाग लिया",
+        "summary": "गृह राज्‍य मंत्री नित्‍यानंद राय ने आज नई दिल्ली में सीमा सुरक्षा बल- बीएसएफ, भारत-तिब्बत सीमा पुलिस- आईटीबीपी और राष्ट्रीय सुरक्षा गार्ड- एनएसजी द्वारा माउंट एवरेस्ट और माउंट ल्होत्से पर किए गए पर्वतारोहण अभियानों की सफलता के उपलक्ष्य में आयोजित ध्वजारोहण समारोह में भाग लिया। इस अवसर पर राज्‍यमंत्री ने कहा कि बीएसएफ की […]",
+        "article": "गृह राज्&#x200d;य मंत्री नित्&#x200d;यानंद राय ने आज नई दिल्ली में सीमा सुरक्षा बल- बीएसएफ, भारत-तिब्बत सीमा पुलिस- आईटीबीपी और राष्ट्रीय सुरक्षा गार्ड- एनएसजी द्वारा माउंट एवरेस्ट और माउंट ल्होत्से पर किए गए पर्वतारोहण अभियानों की सफलता के उपलक्ष्य में आयोजित ध्वजारोहण समारोह में भाग लिया। इस अवसर पर राज्&#x200d;यमंत्री ने कहा कि बीएसएफ की सभी महिला पर्वतारोहियों की टीम दुनिया की सबसे ऊंची चोटी पर पहुंची और आकाश में वंदे मातरम् गाकर उन्&#x200d;होंने साहस, देशभक्ति और समर्पण का अनूठा उदाहरण स्&#x200d;थापित किया। श्री राय ने माउंट एवरेस्&#x200d;ट पर पहली बार आईटीबीपी के महिला दस्&#x200d;ते द्वारा अंतर्राष्&#x200d;ट्रीय पर्वतारोहण अभियान पूरा करने पर बधाई दी। उन्&#x200d;होंने एनएसजी के माउंट एवरेस्&#x200d;ट पर्वतारोहण अभियान को शारीरिक और मानसिक सहनशक्ति को आगे बढ़ाने के प्रति बल की प्रतिबद्धता बताया।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:44:01+00:00",
+        "link": "https://newsonair.gov.in/hi/mos-for-home-affairs-nityanand-rai-participates-in-flag-hoisting-ceremony-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/09/new-delhi-union-minister-of-state-for-home-affairs-nityanand-rai-during-winter-1-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "एनआरएए की वित्तपोषित जंगली धान संरक्षण परियोजना ने असम में महत्वपूर्ण उपलब्धि हासिल की",
+        "summary": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) […]",
+        "article": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) के संरक्षण और प्रबंधन नामक इस परियोजना का उद्देश्य चावल को उसके प्राकृतिक आवास में संरक्षित करना है। यह मान्यता भारत की समृद्ध चावल विविधता के संरक्षण और जलवायु परिवर्तन के अनुकूल कृषि को बढ़ावा देने की दिशा में एक महत्वपूर्ण कदम है। कृषि और किसान कल्याण मंत्रालय ने बताया कि यह परियोजना 2022 से कार्यान्वित की जा रही है। इसे आईसीएआर-राष्ट्रीय पादप आनुवंशिक संसाधन ब्यूरो, नई दिल्ली द्वारा असम राज्य जैव विविधता बोर्ड के सहयोग से संचालित किया जा रहा है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T07:50:07+00:00",
+        "link": "https://newsonair.gov.in/hi/govt-achieves-milestone-in-conservation-of-indias-wild-rice-genetic-resources/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607023848726.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत-जापान संबंध विशेष, कई क्षेत्रों में हुए अहम समझौते: पीएम मोदी",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा है कि भारत-जापान संबंध बहुत विशेष हैं और आर्थिक साझेदारी की सफलता के कई शानदार उदाहरण मौजूद हैं। नई दिल्ली में आज भारत-जापान संयुक्त आर्थिक मंच में श्री मोदी ने कहा कि जापान की विशेषज्ञता और निवेश भारत की गति और व्यापकता के साथ मिलने पर पूरी दुनिया को लाभ […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा है कि भारत-जापान संबंध बहुत विशेष हैं और आर्थिक साझेदारी की सफलता के कई शानदार उदाहरण मौजूद हैं। नई दिल्ली में आज भारत-जापान संयुक्त आर्थिक मंच में श्री मोदी ने कहा कि जापान की विशेषज्ञता और निवेश भारत की गति और व्यापकता के साथ मिलने पर पूरी दुनिया को लाभ होता है। उन्होंने कहा कि दोनों पक्षों ने आज साझेदारी को और भी गतिशील तथा प्रगाढ बनाने का निर्णय लिया है। प्रधानमंत्री ने कहा कि भारत और जापान ने आर्थिक सुरक्षा, आर्टिफिशियल इंटेलिजेंस, रक्षा और स्वास्थ्य जैसे कई क्षेत्रों पर समझौते किए हैं। यह समझौते दोनों देशों की साझेदारी को भविष्य के अनुकूल और असीमित बनाएंगे। श्री मोदी ने कहा कि आर्थिक जगत इस समय आपूर्ति श्रृंखला अडचनों, व्यापार अनिश्चितता और वैश्विक मांग में गिरावट से जूझ रहा है। उन्होंने कहा कि भारत विश्व की सबसे तेजी से बढ़ती प्रमुख अर्थव्यवस्था है और पिछले वित्तीय वर्ष में भारत की आर्थिक वृद्धि 7.7 प्रतिशत रही। प्रधानमंत्री ने कहा कि पिछले 12 वर्ष में भारत में काइज़ेन दर्शन को अपनाते हुए, सरकार निरंतर सुधार के माध्यम से आर्थिक डीएनए को बदल रही है। प्रधानमंत्री मोदी ने कहा कि कुछ महीने पहले भारत ने कराधान, सुशासन और व्यापार सुगमता के क्षेत्र में अगली पीढ़ी के सुधार लागू किए हैं। श्री मोदी ने कहा कि इससे निजी क्षेत्र के लिए कई क्षेत्र खुल रहे हैं और कई महत्वपूर्ण क्षेत्रों में प्रोत्साहन मिल रहे हैं। इससे सभी को लाभ होगा। प्रधानमंत्री ने कहा कि यही कारण है कि पिछले चार वर्षों से लगातार जापान बैंक फॉर इंटरनेशनल कोऑपरेशन के सर्वेक्षणों से पता चलता है कि भारत जापानी व्यवसायों के लिए सबसे आशाजनक स्&#x200d;थल बना हुआ है। जापान की प्रधानमंत्री सनाए ताकाइची ने कहा कि सहयोग के कई क्षेत्रों में ऊर्जा सुरक्षा सबसे महत्वपूर्ण क्षेत्रों में से एक है। उन्होंने कहा कि हाल ही में हुए जी-7 शिखर सम्मेलन में उन्होंने ऊर्जा सुरक्षा मजबूत करने के लिए तीन प्रस्ताव प्रस्तुत किए थे। यह प्रस्&#x200d;ताव मुक्त और पारदर्शी ऊर्जा व्यापार सुनिश्चित करने, रणनीतिक ऊर्जा भंडार की घोषणा करने और उत्पादक तथा उपभोक्ता देशों के बीच सहयोग को बढ़ावा देने से संबंधित थे। सुश्री ताकाइची ने कहा कि पावर एशिया पहल के माध्यम से इस दृष्टिकोण को ठोस कार्रवाई में बदलने के लिए काम किया जा रहा है। इस अवसर पर दोनों प्रधानमंत्रियों ने संयुक्त रूप से हरियाणा के खरखोदा में मारुति सुजुकी के चौथे वाहन निर्माण केंद्र का उद्घाटन किया।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T12:00:04+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-says-india-japan-relations-are-truly-very-special-shares-successful-economic-partnership/",
+        "post_id": 1714869,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "पीएम मोदी और जापान की पीएम सनाए तकाइची के बीच वार्षिक शिखर सम्मेलन स्तर की बातचीत हुई",
+        "summary": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। […]",
+        "article": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। इसके साथ ही पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचार विमर्श किया गया। संयुक्त संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि आज के समय में सामूहिक विश्वास सबसे बड़ी संपत्ति है और भारत-जापान की द्विपक्षीय साझेदारी समय की कसौटी पर खरी उतरी है। उन्होंने कहा कि भारत और जापान आज विश्व की सबसे बड़ी अर्थव्यवस्थाओं में से हैं और एक स्वतंत्र और खुला हिंद-प्रशांत क्षेत्र दोनों देशों की साझा प्राथमिकता है। उन्होंने कहा कि दोनों देश आर्थिक सुरक्षा और ऊर्जा सुरक्षा के महत्व को समझते हैं। उन्होंने कहा कि प्रौद्योगिकी साझेदारी भारत-जापान सहयोग का सबसे महत्वपूर्ण स्तंभ होगा। श्री मोदी ने कहा कि इस परिकल्पना को साकार करने के लिए भारत और जापान ने ए.आई के क्षेत्र में एक संयुक्त वक्तव्य जारी किया है। प्रधानमंत्री ने कहा कि जापान की सटीक प्रौद्योगिकी और भारत की सॉफ्टवेयर क्षमताओं का संगम वैश्विक एआई विकास को नई गति और शक्ति प्रदान करेगा। उन्होंने बताया कि रक्षा क्षेत्र में आज दोनों देशों ने भारत और जापान के बीच पहली सह-विकास परियोजना पर एक समझौते पर हस्ताक्षर किए हैं। प्रधानमंत्री ने कहा कि ऊर्जा सुरक्षा के क्षेत्र में कई महत्वपूर्ण निर्णय लिए गए हैं। उन्होंने कहा कि भारत-जापान जैव-गैस पहल के माध्यम से भारत में एक हजार जैव-गैस और जैविक उर्वरक संयंत्र स्थापित किए जाएंगे। उन्होंने कहा कि इससे भारत के गांवों में स्थिरता, समृद्धि और ग्रामीण आजीविका को नई शक्ति मिलेगी। प्रधानमंत्री ने कहा कि भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक हैं। उन्होंने कहा कि सांस्कृतिक मूल्यों से लेकर आधुनिक प्रौद्योगिकी तक, दोनों देशों की सोच और दृष्टिकोण में समानता है। इससे पहले आज, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया है कि भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:57:33+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-receives-japanese-pm-sanae-takaichi-at-hyderabad-house/",
+        "post_id": 1713718,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "यूएनजीए ने एक बार फिर भारत के प्रस्तावित आतंकवाद सम्मेलन को अपनाने का आग्रह किया",
+        "summary": "अंतर्राष्ट्रीय आतंकवाद पर व्यापक सम्मेलन के लिए भारत के लंबे समय से चले आ रहे प्रस्ताव को संयुक्त राष्ट्र महासभा में फिर से समर्थन मिला है। 140 सदस्‍यों द्वारा अपनाई गई संयुक्त राष्ट्र की वैश्विक आतंकरोधी रणनीति की नौवीं समीक्षा में सदस्य देशों से आग्रह किया गया है कि वे भारत द्वारा तीन दशक पहले […]",
+        "article": "अंतर्राष्ट्रीय आतंकवाद पर व्यापक सम्मेलन के लिए भारत के लंबे समय से चले आ रहे प्रस्ताव को संयुक्त राष्ट्र महासभा में फिर से समर्थन मिला है। 140 सदस्&#x200d;यों द्वारा अपनाई गई संयुक्त राष्ट्र की वैश्विक आतंकरोधी रणनीति की नौवीं समीक्षा में सदस्य देशों से आग्रह किया गया है कि वे भारत द्वारा तीन दशक पहले प्रस्तावित सम्मेलन को अंतिम रूप देने के लिए हर संभव प्रयास करें। संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि पी. हरीश ने कहा कि सर्वमान्य कानूनी ढांचे का अभाव वैश्विक आतंकरोधी प्रयासों को कमजोर करता है। उन्होंने आतंकवाद से निपटने में दोहरे मापदंड न अपनाने पर जोर देते हुए अपराधियों, वित्तपोषकों और प्रायोजकों को जवाबदेह ठहराने का आह्वान किया। श्री हरीश ने कहा कि यह सम्मेलन अंतर्राष्ट्रीय सहयोग, अभियोजन और प्रत्यर्पण को मजबूत करेगा और आतंकवादियों को सुरक्षित ठिकाने, धन और हथियार प्राप्त करने से वंचित करेगा। अमरीका, इस्राएल और अर्जेंटीना ने रणनीति के विरुद्ध मतदान किया।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:49:10+00:00",
+        "link": "https://newsonair.gov.in/hi/unga-again-urges-adoption-of-terrorism-convention-proposed-by-india/",
+        "post_id": 1714498,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
-    "breaking": [],
-    "national": [],
-    "politics": [],
+    "national": [
+      {
+        "title": "भारत-जापान रणनीतिक साझेदारी का प्रमुख संचालक है निवेश: केंद्रीय मंत्री पीयूष गोयल",
+        "summary": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने कहा कि निवेश भारत और जापान की रणनीतिक साझेदारी का एक प्रमुख संचालक बनकर उभरा है और इससे द्विपक्षीय संबंधों को और मजबूती मिलने की उम्मीद है। वे आज एक निजी टेलीविजन चैनल द्वारा आयोजित एशियाई सदी को आकार देने विषय पर भारत-जापान रणनीतिक संवाद को संबोधित […]",
+        "article": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने कहा कि निवेश भारत और जापान की रणनीतिक साझेदारी का एक प्रमुख संचालक बनकर उभरा है और इससे द्विपक्षीय संबंधों को और मजबूती मिलने की उम्मीद है। वे आज एक निजी टेलीविजन चैनल द्वारा आयोजित एशियाई सदी को आकार देने विषय पर भारत-जापान रणनीतिक संवाद को संबोधित कर रहे थे। इस अवसर श्री गोयल ने कहा कि भारत के कुशल कार्यबल के लिए अवसर खुल रहे हैं और प्रधानमंत्री नरेंद्र मोदी के नेतृत्व में सरकार का ध्यान सभी के लिए समान विकास सुनिश्चित करने पर केंद्रित है। श्री गोयल ने जापान के साथ भारत की बढ़ती भागीदारी और उसके विविध मुक्त व्यापार समझौतों और पश्चिम एशिया संकट के प्रभाव से उत्&#x200d;पन्&#x200d;न स्थिति से संबंधित अन्य मुद्दों पर पूछे गए प्रश्नों के उत्तर दिए।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T12:15:38+00:00",
+        "link": "https://newsonair.gov.in/hi/indias-strategic-partnership-with-japan-is-expected-to-further-strengthen-bilateral-ties-union-minister-piyush-goyal/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Teacher-Eligibility-Test-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारतीय रेलवे ने इस वर्ष जून में माल ढुलाई में 4 प्रतिशत वृद्धि दर्ज की",
+        "summary": "भारतीय रेलवे ने इस वर्ष जून में पिछले वर्ष इसी महीने की अवधि में माल ढुलाई में चार प्रतिशत की वृद्धि दर्ज की है। रेल मंत्रालय ने बताया कि रेलवे ने पिछले महीने 142 करोड़ टन से अधिक माल की ढुलाई की। मंत्रालय ने यह भी बताया कि इस वर्ष जून में यात्री आवागमन […]",
+        "article": "भारतीय रेलवे ने इस वर्ष जून में पिछले वर्ष इसी महीने की अवधि में माल ढुलाई में चार प्रतिशत की वृद्धि दर्ज की है। रेल मंत्रालय ने बताया कि रेलवे ने पिछले महीने 142 करोड़ टन से अधिक माल की ढुलाई की। मंत्रालय ने यह भी बताया कि इस वर्ष जून में यात्री आवागमन में भी लगातार वृद्धि दर्ज की गई है। रेलवे में इस वर्ष जून तक 63 करोड 81 लाख यात्रियों ने यात्रा की, जबकि पिछले वर्ष के इसी महीने में 62 करोड़ 37 लाख यात्रियों ने यात्रा की। पिछले महीने उर्वरक की लोडिंग में 19.1 प्रतिशत, अन्य शेष वस्तुओं में 17.3 प्रतिशत, लौह अयस्क में 9.4 प्रतिशत, घरेलू कोयले में 4.9 प्रतिशत की वृद्धि हुई। इसके अलावा, देश में अमृत भारत रेल सेवाओं की संख्या 72 हो गई है, जिसमें इस वर्ष जून में शुरू की गई चार नई सेवाएं शामिल हैं। इस बीच, वंदे भारत सेवाओं की संख्या बढ़कर 164 हो गई है, जिसमें हाल ही में शुरू की गई हावड़ा और कामाख्या के बीच चलने वाली वंदे भारत स्लीपर सेवा भी शामिल है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T12:13:26+00:00",
+        "link": "https://newsonair.gov.in/hi/indian-railways-registers-4-freight-growth-in-june-this-year/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indian-Railways.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "महिला और बाल विकास मंत्रालय ने प्रधानमंत्री राष्ट्रीय बाल पुरस्कार के लिए आमंत्रित किए नामांकन",
+        "summary": "महिला और बाल विकास मंत्रालय ने प्रधानमंत्री राष्ट्रीय बाल पुरस्कार के लिए नामांकन आमंत्रित किए हैं। यह पुरस्‍कार पांच से 18 वर्ष के बच्चों की असाधारण उपलब्धियों के लिए दिए जाते हैं। नामांकन जमा करने की अंतिम तिथि 31 जुलाई है। मंत्रालय ने बताया कि नामांकन अवॉर्डस डॉट जीओवी डॉट आईएन पोर्टल पर किए जा […]",
+        "article": "महिला और बाल विकास मंत्रालय ने प्रधानमंत्री राष्ट्रीय बाल पुरस्कार के लिए नामांकन आमंत्रित किए हैं। यह पुरस्&#x200d;कार पांच से 18 वर्ष के बच्चों की असाधारण उपलब्धियों के लिए दिए जाते हैं। नामांकन जमा करने की अंतिम तिथि 31 जुलाई है। मंत्रालय ने बताया कि नामांकन अवॉर्डस डॉट जीओवी डॉट आईएन पोर्टल पर किए जा सकते हैं। प्रधानमंत्री राष्ट्रीय बाल पुरस्कार खेल, सामाजिक सेवा, विज्ञान और प्रौद्योगिकी, पर्यावरण, कला तथा संस्कृति के क्षेत्र में उत्कृष्ट प्रदर्शन करने वाले बच्चों को प्रदान किया जाता है। यह पुरस्कार कठिन परिस्थितियों में असाधारण साहस का प्रदर्शन करने वालों को भी दिया जाता है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T10:28:58+00:00",
+        "link": "https://newsonair.gov.in/hi/ministry-of-wcd-invites-nominations-for-pradhan-mantri-rashtriya-bal-puraskar-awards/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Bal-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "डीआरआई ने त्रिपुरा के अगरतला में प्रतिबंधित कफ सिरप की भारी खेप जब्त की",
+        "summary": "राजस्व खुफिया निदेशालय-डीआरआई ने आज त्रिपुरा के अगरतला में एक मालगाड़ी से प्रतिबंधित कफ सिरप की भारी खेप जब्त की। डीआरआई के एक अधिकारी ने बताया कि जब्त किए गए कफ सिरप का अनुमानित बाजार मूल्य लगभग ₹6.54 करोड़ है। डीआरआई, असम राइफल्स और रेलवे सुरक्षा बल-आरपीएफ द्वारा चलाए गए संयुक्त अभियान के दौरान, एस्कफ […]",
+        "article": "राजस्व खुफिया निदेशालय-डीआरआई ने आज त्रिपुरा के अगरतला में एक मालगाड़ी से प्रतिबंधित कफ सिरप की भारी खेप जब्त की। डीआरआई के एक अधिकारी ने बताया कि जब्त किए गए कफ सिरप का अनुमानित बाजार मूल्य लगभग ₹6.54 करोड़ है। डीआरआई, असम राइफल्स और रेलवे सुरक्षा बल-आरपीएफ द्वारा चलाए गए संयुक्त अभियान के दौरान, एस्कफ और फेयरडील कफ सिरप की कुल 55,626 बोतलें जब्त की गईं। इस मामले में खोवाई जिले की एक निजी कंपनी के प्रबंधक सुब्रता देब को गिरफ्तार किया गया है। आगे की जांच जारी है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T09:31:58+00:00",
+        "link": "https://newsonair.gov.in/hi/dri-seizes-huge-consignment-of-banned-cough-syrup-from-goods-train-in-agartala-tripura/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "पर्यावरण मंत्री भूपेन्‍द्र यादव ने कहा – भारत में इलेक्ट्रिक मोबिलिटी से टिकाऊ औद्योगिक ईको सि‍स्‍टम का निर्माण हुआ",
+        "summary": "केन्‍द्रीय पर्यावरण वन और जलवायु परिवर्तन मंत्री भूपेन्‍द्र यादव ने आज कहा कि भारत में इलेक्ट्रिक मोबिलिटी एक से दूसरी तकनीक की जगह नहीं ले रहा है बल्कि इससे टिकाऊ औद्योगिक ईको सि‍स्‍टम का निर्माण हो रहा है। इलेक्ट्रिक मोबिलिटी : विकसित भारत के लिए देश को इलेक्ट्रिक मोबिलिटी हब बनाने पर आयोजित राष्‍ट्रीय सम्‍मेलन […]",
+        "article": "केन्&#x200d;द्रीय पर्यावरण वन और जलवायु परिवर्तन मंत्री भूपेन्&#x200d;द्र यादव ने आज कहा कि भारत में इलेक्ट्रिक मोबिलिटी एक से दूसरी तकनीक की जगह नहीं ले रहा है बल्कि इससे टिकाऊ औद्योगिक ईको सि&#x200d;स्&#x200d;टम का निर्माण हो रहा है। इलेक्ट्रिक मोबिलिटी : विकसित भारत के लिए देश को इलेक्ट्रिक मोबिलिटी हब बनाने पर आयोजित राष्&#x200d;ट्रीय सम्&#x200d;मेलन के उद्घाटन समारोह में उन्&#x200d;होंने यह बात की। उन्&#x200d;होंने कहा कि सरकार पर्यावरण संरक्षण और टिकाऊ तथा संतुलित विकास के साथ जीवन को सुगम बनाने के प्रयास कर रही है। श्री यादव ने बताया कि सरकार पर्यावरण संबंधी मंजूरियों को सरल बनाने, परिवेश पोर्टल के माध्यम से अनुमोदन प्रणालियों को डिजिटाइज़ करने, अनुपालन आवश्यकताओं को युक्तिसंगत बनाने और पर्यावरण सुरक्षा उपायों से समझौता किए बिना व्यापार करने में आसानी को बढ़ावा दे रही है। ये सुधार जिम्मेदार विकास सुनिश्चित करते हुए निवेश में तेजी लाने में सक्षम बना रहे हैं। श्री यादव ने कहा कि सरकार प्रधानमंत्री नरेंद्र मोदी के दृष्टिकोण के अनुसार पारिस्थितिकी और अर्थव्यवस्था के साथ-साथ विकास सुनिश्चित करने पर काम कर रही है। यह सम्मेलन देश में इलेक्ट्रिक मोबिलिटी के क्षेत्र में तेजी लाने और वैश्विक इलेक्ट्रिक व्&#x200d;हीकल विनिर्माण केंद्र के रूप में भारत की स्थिति को मजबूत करने के लिए रूपरेखा तैयार करने के लिए आयेाजित किया गया है। इसमें वरिष्ठ नीति निर्माता, प्रमुख उद्योगकर्मी, ऑटोमोटिव निर्माता, प्रौद्योगिकी प्रदाता और अन्य हितधारक मिलकर विचार-विमर्श करेंगे।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T09:02:44+00:00",
+        "link": "https://newsonair.gov.in/hi/environment-minister-bhupender-yadav-electric-mobility-in-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BHUP-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गृह राज्‍य मंत्री नित्‍यानंद राय ने नई दिल्ली में आयोजित ध्वजारोहण समारोह में भाग लिया",
+        "summary": "गृह राज्‍य मंत्री नित्‍यानंद राय ने आज नई दिल्ली में सीमा सुरक्षा बल- बीएसएफ, भारत-तिब्बत सीमा पुलिस- आईटीबीपी और राष्ट्रीय सुरक्षा गार्ड- एनएसजी द्वारा माउंट एवरेस्ट और माउंट ल्होत्से पर किए गए पर्वतारोहण अभियानों की सफलता के उपलक्ष्य में आयोजित ध्वजारोहण समारोह में भाग लिया। इस अवसर पर राज्‍यमंत्री ने कहा कि बीएसएफ की […]",
+        "article": "गृह राज्&#x200d;य मंत्री नित्&#x200d;यानंद राय ने आज नई दिल्ली में सीमा सुरक्षा बल- बीएसएफ, भारत-तिब्बत सीमा पुलिस- आईटीबीपी और राष्ट्रीय सुरक्षा गार्ड- एनएसजी द्वारा माउंट एवरेस्ट और माउंट ल्होत्से पर किए गए पर्वतारोहण अभियानों की सफलता के उपलक्ष्य में आयोजित ध्वजारोहण समारोह में भाग लिया। इस अवसर पर राज्&#x200d;यमंत्री ने कहा कि बीएसएफ की सभी महिला पर्वतारोहियों की टीम दुनिया की सबसे ऊंची चोटी पर पहुंची और आकाश में वंदे मातरम् गाकर उन्&#x200d;होंने साहस, देशभक्ति और समर्पण का अनूठा उदाहरण स्&#x200d;थापित किया। श्री राय ने माउंट एवरेस्&#x200d;ट पर पहली बार आईटीबीपी के महिला दस्&#x200d;ते द्वारा अंतर्राष्&#x200d;ट्रीय पर्वतारोहण अभियान पूरा करने पर बधाई दी। उन्&#x200d;होंने एनएसजी के माउंट एवरेस्&#x200d;ट पर्वतारोहण अभियान को शारीरिक और मानसिक सहनशक्ति को आगे बढ़ाने के प्रति बल की प्रतिबद्धता बताया।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:44:01+00:00",
+        "link": "https://newsonair.gov.in/hi/mos-for-home-affairs-nityanand-rai-participates-in-flag-hoisting-ceremony-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/09/new-delhi-union-minister-of-state-for-home-affairs-nityanand-rai-during-winter-1-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "एनआरएए की वित्तपोषित जंगली धान संरक्षण परियोजना ने असम में महत्वपूर्ण उपलब्धि हासिल की",
+        "summary": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) […]",
+        "article": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) के संरक्षण और प्रबंधन नामक इस परियोजना का उद्देश्य चावल को उसके प्राकृतिक आवास में संरक्षित करना है। यह मान्यता भारत की समृद्ध चावल विविधता के संरक्षण और जलवायु परिवर्तन के अनुकूल कृषि को बढ़ावा देने की दिशा में एक महत्वपूर्ण कदम है। कृषि और किसान कल्याण मंत्रालय ने बताया कि यह परियोजना 2022 से कार्यान्वित की जा रही है। इसे आईसीएआर-राष्ट्रीय पादप आनुवंशिक संसाधन ब्यूरो, नई दिल्ली द्वारा असम राज्य जैव विविधता बोर्ड के सहयोग से संचालित किया जा रहा है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T07:50:07+00:00",
+        "link": "https://newsonair.gov.in/hi/govt-achieves-milestone-in-conservation-of-indias-wild-rice-genetic-resources/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607023848726.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत-जापान संबंध विशेष, कई क्षेत्रों में हुए अहम समझौते: पीएम मोदी",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा है कि भारत-जापान संबंध बहुत विशेष हैं और आर्थिक साझेदारी की सफलता के कई शानदार उदाहरण मौजूद हैं। नई दिल्ली में आज भारत-जापान संयुक्त आर्थिक मंच में श्री मोदी ने कहा कि जापान की विशेषज्ञता और निवेश भारत की गति और व्यापकता के साथ मिलने पर पूरी दुनिया को लाभ […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा है कि भारत-जापान संबंध बहुत विशेष हैं और आर्थिक साझेदारी की सफलता के कई शानदार उदाहरण मौजूद हैं। नई दिल्ली में आज भारत-जापान संयुक्त आर्थिक मंच में श्री मोदी ने कहा कि जापान की विशेषज्ञता और निवेश भारत की गति और व्यापकता के साथ मिलने पर पूरी दुनिया को लाभ होता है। उन्होंने कहा कि दोनों पक्षों ने आज साझेदारी को और भी गतिशील तथा प्रगाढ बनाने का निर्णय लिया है। प्रधानमंत्री ने कहा कि भारत और जापान ने आर्थिक सुरक्षा, आर्टिफिशियल इंटेलिजेंस, रक्षा और स्वास्थ्य जैसे कई क्षेत्रों पर समझौते किए हैं। यह समझौते दोनों देशों की साझेदारी को भविष्य के अनुकूल और असीमित बनाएंगे। श्री मोदी ने कहा कि आर्थिक जगत इस समय आपूर्ति श्रृंखला अडचनों, व्यापार अनिश्चितता और वैश्विक मांग में गिरावट से जूझ रहा है। उन्होंने कहा कि भारत विश्व की सबसे तेजी से बढ़ती प्रमुख अर्थव्यवस्था है और पिछले वित्तीय वर्ष में भारत की आर्थिक वृद्धि 7.7 प्रतिशत रही। प्रधानमंत्री ने कहा कि पिछले 12 वर्ष में भारत में काइज़ेन दर्शन को अपनाते हुए, सरकार निरंतर सुधार के माध्यम से आर्थिक डीएनए को बदल रही है। प्रधानमंत्री मोदी ने कहा कि कुछ महीने पहले भारत ने कराधान, सुशासन और व्यापार सुगमता के क्षेत्र में अगली पीढ़ी के सुधार लागू किए हैं। श्री मोदी ने कहा कि इससे निजी क्षेत्र के लिए कई क्षेत्र खुल रहे हैं और कई महत्वपूर्ण क्षेत्रों में प्रोत्साहन मिल रहे हैं। इससे सभी को लाभ होगा। प्रधानमंत्री ने कहा कि यही कारण है कि पिछले चार वर्षों से लगातार जापान बैंक फॉर इंटरनेशनल कोऑपरेशन के सर्वेक्षणों से पता चलता है कि भारत जापानी व्यवसायों के लिए सबसे आशाजनक स्&#x200d;थल बना हुआ है। जापान की प्रधानमंत्री सनाए ताकाइची ने कहा कि सहयोग के कई क्षेत्रों में ऊर्जा सुरक्षा सबसे महत्वपूर्ण क्षेत्रों में से एक है। उन्होंने कहा कि हाल ही में हुए जी-7 शिखर सम्मेलन में उन्होंने ऊर्जा सुरक्षा मजबूत करने के लिए तीन प्रस्ताव प्रस्तुत किए थे। यह प्रस्&#x200d;ताव मुक्त और पारदर्शी ऊर्जा व्यापार सुनिश्चित करने, रणनीतिक ऊर्जा भंडार की घोषणा करने और उत्पादक तथा उपभोक्ता देशों के बीच सहयोग को बढ़ावा देने से संबंधित थे। सुश्री ताकाइची ने कहा कि पावर एशिया पहल के माध्यम से इस दृष्टिकोण को ठोस कार्रवाई में बदलने के लिए काम किया जा रहा है। इस अवसर पर दोनों प्रधानमंत्रियों ने संयुक्त रूप से हरियाणा के खरखोदा में मारुति सुजुकी के चौथे वाहन निर्माण केंद्र का उद्घाटन किया।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T12:00:04+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-says-india-japan-relations-are-truly-very-special-shares-successful-economic-partnership/",
+        "post_id": 1714869,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "पीएम मोदी और जापान की पीएम सनाए तकाइची के बीच वार्षिक शिखर सम्मेलन स्तर की बातचीत हुई",
+        "summary": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। […]",
+        "article": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। इसके साथ ही पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचार विमर्श किया गया। संयुक्त संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि आज के समय में सामूहिक विश्वास सबसे बड़ी संपत्ति है और भारत-जापान की द्विपक्षीय साझेदारी समय की कसौटी पर खरी उतरी है। उन्होंने कहा कि भारत और जापान आज विश्व की सबसे बड़ी अर्थव्यवस्थाओं में से हैं और एक स्वतंत्र और खुला हिंद-प्रशांत क्षेत्र दोनों देशों की साझा प्राथमिकता है। उन्होंने कहा कि दोनों देश आर्थिक सुरक्षा और ऊर्जा सुरक्षा के महत्व को समझते हैं। उन्होंने कहा कि प्रौद्योगिकी साझेदारी भारत-जापान सहयोग का सबसे महत्वपूर्ण स्तंभ होगा। श्री मोदी ने कहा कि इस परिकल्पना को साकार करने के लिए भारत और जापान ने ए.आई के क्षेत्र में एक संयुक्त वक्तव्य जारी किया है। प्रधानमंत्री ने कहा कि जापान की सटीक प्रौद्योगिकी और भारत की सॉफ्टवेयर क्षमताओं का संगम वैश्विक एआई विकास को नई गति और शक्ति प्रदान करेगा। उन्होंने बताया कि रक्षा क्षेत्र में आज दोनों देशों ने भारत और जापान के बीच पहली सह-विकास परियोजना पर एक समझौते पर हस्ताक्षर किए हैं। प्रधानमंत्री ने कहा कि ऊर्जा सुरक्षा के क्षेत्र में कई महत्वपूर्ण निर्णय लिए गए हैं। उन्होंने कहा कि भारत-जापान जैव-गैस पहल के माध्यम से भारत में एक हजार जैव-गैस और जैविक उर्वरक संयंत्र स्थापित किए जाएंगे। उन्होंने कहा कि इससे भारत के गांवों में स्थिरता, समृद्धि और ग्रामीण आजीविका को नई शक्ति मिलेगी। प्रधानमंत्री ने कहा कि भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक हैं। उन्होंने कहा कि सांस्कृतिक मूल्यों से लेकर आधुनिक प्रौद्योगिकी तक, दोनों देशों की सोच और दृष्टिकोण में समानता है। इससे पहले आज, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया है कि भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:57:33+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-receives-japanese-pm-sanae-takaichi-at-hyderabad-house/",
+        "post_id": 1713718,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "यूएनजीए ने एक बार फिर भारत के प्रस्तावित आतंकवाद सम्मेलन को अपनाने का आग्रह किया",
+        "summary": "अंतर्राष्ट्रीय आतंकवाद पर व्यापक सम्मेलन के लिए भारत के लंबे समय से चले आ रहे प्रस्ताव को संयुक्त राष्ट्र महासभा में फिर से समर्थन मिला है। 140 सदस्‍यों द्वारा अपनाई गई संयुक्त राष्ट्र की वैश्विक आतंकरोधी रणनीति की नौवीं समीक्षा में सदस्य देशों से आग्रह किया गया है कि वे भारत द्वारा तीन दशक पहले […]",
+        "article": "अंतर्राष्ट्रीय आतंकवाद पर व्यापक सम्मेलन के लिए भारत के लंबे समय से चले आ रहे प्रस्ताव को संयुक्त राष्ट्र महासभा में फिर से समर्थन मिला है। 140 सदस्&#x200d;यों द्वारा अपनाई गई संयुक्त राष्ट्र की वैश्विक आतंकरोधी रणनीति की नौवीं समीक्षा में सदस्य देशों से आग्रह किया गया है कि वे भारत द्वारा तीन दशक पहले प्रस्तावित सम्मेलन को अंतिम रूप देने के लिए हर संभव प्रयास करें। संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि पी. हरीश ने कहा कि सर्वमान्य कानूनी ढांचे का अभाव वैश्विक आतंकरोधी प्रयासों को कमजोर करता है। उन्होंने आतंकवाद से निपटने में दोहरे मापदंड न अपनाने पर जोर देते हुए अपराधियों, वित्तपोषकों और प्रायोजकों को जवाबदेह ठहराने का आह्वान किया। श्री हरीश ने कहा कि यह सम्मेलन अंतर्राष्ट्रीय सहयोग, अभियोजन और प्रत्यर्पण को मजबूत करेगा और आतंकवादियों को सुरक्षित ठिकाने, धन और हथियार प्राप्त करने से वंचित करेगा। अमरीका, इस्राएल और अर्जेंटीना ने रणनीति के विरुद्ध मतदान किया।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:49:10+00:00",
+        "link": "https://newsonair.gov.in/hi/unga-again-urges-adoption-of-terrorism-convention-proposed-by-india/",
+        "post_id": 1714498,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "politics": [
+      {
+        "title": "भारत-जापान रणनीतिक साझेदारी का प्रमुख संचालक है निवेश: केंद्रीय मंत्री पीयूष गोयल",
+        "summary": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने कहा कि निवेश भारत और जापान की रणनीतिक साझेदारी का एक प्रमुख संचालक बनकर उभरा है और इससे द्विपक्षीय संबंधों को और मजबूती मिलने की उम्मीद है। वे आज एक निजी टेलीविजन चैनल द्वारा आयोजित एशियाई सदी को आकार देने विषय पर भारत-जापान रणनीतिक संवाद को संबोधित […]",
+        "article": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने कहा कि निवेश भारत और जापान की रणनीतिक साझेदारी का एक प्रमुख संचालक बनकर उभरा है और इससे द्विपक्षीय संबंधों को और मजबूती मिलने की उम्मीद है। वे आज एक निजी टेलीविजन चैनल द्वारा आयोजित एशियाई सदी को आकार देने विषय पर भारत-जापान रणनीतिक संवाद को संबोधित कर रहे थे। इस अवसर श्री गोयल ने कहा कि भारत के कुशल कार्यबल के लिए अवसर खुल रहे हैं और प्रधानमंत्री नरेंद्र मोदी के नेतृत्व में सरकार का ध्यान सभी के लिए समान विकास सुनिश्चित करने पर केंद्रित है। श्री गोयल ने जापान के साथ भारत की बढ़ती भागीदारी और उसके विविध मुक्त व्यापार समझौतों और पश्चिम एशिया संकट के प्रभाव से उत्&#x200d;पन्&#x200d;न स्थिति से संबंधित अन्य मुद्दों पर पूछे गए प्रश्नों के उत्तर दिए।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T12:15:38+00:00",
+        "link": "https://newsonair.gov.in/hi/indias-strategic-partnership-with-japan-is-expected-to-further-strengthen-bilateral-ties-union-minister-piyush-goyal/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Teacher-Eligibility-Test-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारतीय रेलवे ने इस वर्ष जून में माल ढुलाई में 4 प्रतिशत वृद्धि दर्ज की",
+        "summary": "भारतीय रेलवे ने इस वर्ष जून में पिछले वर्ष इसी महीने की अवधि में माल ढुलाई में चार प्रतिशत की वृद्धि दर्ज की है। रेल मंत्रालय ने बताया कि रेलवे ने पिछले महीने 142 करोड़ टन से अधिक माल की ढुलाई की। मंत्रालय ने यह भी बताया कि इस वर्ष जून में यात्री आवागमन […]",
+        "article": "भारतीय रेलवे ने इस वर्ष जून में पिछले वर्ष इसी महीने की अवधि में माल ढुलाई में चार प्रतिशत की वृद्धि दर्ज की है। रेल मंत्रालय ने बताया कि रेलवे ने पिछले महीने 142 करोड़ टन से अधिक माल की ढुलाई की। मंत्रालय ने यह भी बताया कि इस वर्ष जून में यात्री आवागमन में भी लगातार वृद्धि दर्ज की गई है। रेलवे में इस वर्ष जून तक 63 करोड 81 लाख यात्रियों ने यात्रा की, जबकि पिछले वर्ष के इसी महीने में 62 करोड़ 37 लाख यात्रियों ने यात्रा की। पिछले महीने उर्वरक की लोडिंग में 19.1 प्रतिशत, अन्य शेष वस्तुओं में 17.3 प्रतिशत, लौह अयस्क में 9.4 प्रतिशत, घरेलू कोयले में 4.9 प्रतिशत की वृद्धि हुई। इसके अलावा, देश में अमृत भारत रेल सेवाओं की संख्या 72 हो गई है, जिसमें इस वर्ष जून में शुरू की गई चार नई सेवाएं शामिल हैं। इस बीच, वंदे भारत सेवाओं की संख्या बढ़कर 164 हो गई है, जिसमें हाल ही में शुरू की गई हावड़ा और कामाख्या के बीच चलने वाली वंदे भारत स्लीपर सेवा भी शामिल है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T12:13:26+00:00",
+        "link": "https://newsonair.gov.in/hi/indian-railways-registers-4-freight-growth-in-june-this-year/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indian-Railways.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "महिला और बाल विकास मंत्रालय ने प्रधानमंत्री राष्ट्रीय बाल पुरस्कार के लिए आमंत्रित किए नामांकन",
+        "summary": "महिला और बाल विकास मंत्रालय ने प्रधानमंत्री राष्ट्रीय बाल पुरस्कार के लिए नामांकन आमंत्रित किए हैं। यह पुरस्‍कार पांच से 18 वर्ष के बच्चों की असाधारण उपलब्धियों के लिए दिए जाते हैं। नामांकन जमा करने की अंतिम तिथि 31 जुलाई है। मंत्रालय ने बताया कि नामांकन अवॉर्डस डॉट जीओवी डॉट आईएन पोर्टल पर किए जा […]",
+        "article": "महिला और बाल विकास मंत्रालय ने प्रधानमंत्री राष्ट्रीय बाल पुरस्कार के लिए नामांकन आमंत्रित किए हैं। यह पुरस्&#x200d;कार पांच से 18 वर्ष के बच्चों की असाधारण उपलब्धियों के लिए दिए जाते हैं। नामांकन जमा करने की अंतिम तिथि 31 जुलाई है। मंत्रालय ने बताया कि नामांकन अवॉर्डस डॉट जीओवी डॉट आईएन पोर्टल पर किए जा सकते हैं। प्रधानमंत्री राष्ट्रीय बाल पुरस्कार खेल, सामाजिक सेवा, विज्ञान और प्रौद्योगिकी, पर्यावरण, कला तथा संस्कृति के क्षेत्र में उत्कृष्ट प्रदर्शन करने वाले बच्चों को प्रदान किया जाता है। यह पुरस्कार कठिन परिस्थितियों में असाधारण साहस का प्रदर्शन करने वालों को भी दिया जाता है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T10:28:58+00:00",
+        "link": "https://newsonair.gov.in/hi/ministry-of-wcd-invites-nominations-for-pradhan-mantri-rashtriya-bal-puraskar-awards/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Bal-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "डीआरआई ने त्रिपुरा के अगरतला में प्रतिबंधित कफ सिरप की भारी खेप जब्त की",
+        "summary": "राजस्व खुफिया निदेशालय-डीआरआई ने आज त्रिपुरा के अगरतला में एक मालगाड़ी से प्रतिबंधित कफ सिरप की भारी खेप जब्त की। डीआरआई के एक अधिकारी ने बताया कि जब्त किए गए कफ सिरप का अनुमानित बाजार मूल्य लगभग ₹6.54 करोड़ है। डीआरआई, असम राइफल्स और रेलवे सुरक्षा बल-आरपीएफ द्वारा चलाए गए संयुक्त अभियान के दौरान, एस्कफ […]",
+        "article": "राजस्व खुफिया निदेशालय-डीआरआई ने आज त्रिपुरा के अगरतला में एक मालगाड़ी से प्रतिबंधित कफ सिरप की भारी खेप जब्त की। डीआरआई के एक अधिकारी ने बताया कि जब्त किए गए कफ सिरप का अनुमानित बाजार मूल्य लगभग ₹6.54 करोड़ है। डीआरआई, असम राइफल्स और रेलवे सुरक्षा बल-आरपीएफ द्वारा चलाए गए संयुक्त अभियान के दौरान, एस्कफ और फेयरडील कफ सिरप की कुल 55,626 बोतलें जब्त की गईं। इस मामले में खोवाई जिले की एक निजी कंपनी के प्रबंधक सुब्रता देब को गिरफ्तार किया गया है। आगे की जांच जारी है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T09:31:58+00:00",
+        "link": "https://newsonair.gov.in/hi/dri-seizes-huge-consignment-of-banned-cough-syrup-from-goods-train-in-agartala-tripura/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "पर्यावरण मंत्री भूपेन्‍द्र यादव ने कहा – भारत में इलेक्ट्रिक मोबिलिटी से टिकाऊ औद्योगिक ईको सि‍स्‍टम का निर्माण हुआ",
+        "summary": "केन्‍द्रीय पर्यावरण वन और जलवायु परिवर्तन मंत्री भूपेन्‍द्र यादव ने आज कहा कि भारत में इलेक्ट्रिक मोबिलिटी एक से दूसरी तकनीक की जगह नहीं ले रहा है बल्कि इससे टिकाऊ औद्योगिक ईको सि‍स्‍टम का निर्माण हो रहा है। इलेक्ट्रिक मोबिलिटी : विकसित भारत के लिए देश को इलेक्ट्रिक मोबिलिटी हब बनाने पर आयोजित राष्‍ट्रीय सम्‍मेलन […]",
+        "article": "केन्&#x200d;द्रीय पर्यावरण वन और जलवायु परिवर्तन मंत्री भूपेन्&#x200d;द्र यादव ने आज कहा कि भारत में इलेक्ट्रिक मोबिलिटी एक से दूसरी तकनीक की जगह नहीं ले रहा है बल्कि इससे टिकाऊ औद्योगिक ईको सि&#x200d;स्&#x200d;टम का निर्माण हो रहा है। इलेक्ट्रिक मोबिलिटी : विकसित भारत के लिए देश को इलेक्ट्रिक मोबिलिटी हब बनाने पर आयोजित राष्&#x200d;ट्रीय सम्&#x200d;मेलन के उद्घाटन समारोह में उन्&#x200d;होंने यह बात की। उन्&#x200d;होंने कहा कि सरकार पर्यावरण संरक्षण और टिकाऊ तथा संतुलित विकास के साथ जीवन को सुगम बनाने के प्रयास कर रही है। श्री यादव ने बताया कि सरकार पर्यावरण संबंधी मंजूरियों को सरल बनाने, परिवेश पोर्टल के माध्यम से अनुमोदन प्रणालियों को डिजिटाइज़ करने, अनुपालन आवश्यकताओं को युक्तिसंगत बनाने और पर्यावरण सुरक्षा उपायों से समझौता किए बिना व्यापार करने में आसानी को बढ़ावा दे रही है। ये सुधार जिम्मेदार विकास सुनिश्चित करते हुए निवेश में तेजी लाने में सक्षम बना रहे हैं। श्री यादव ने कहा कि सरकार प्रधानमंत्री नरेंद्र मोदी के दृष्टिकोण के अनुसार पारिस्थितिकी और अर्थव्यवस्था के साथ-साथ विकास सुनिश्चित करने पर काम कर रही है। यह सम्मेलन देश में इलेक्ट्रिक मोबिलिटी के क्षेत्र में तेजी लाने और वैश्विक इलेक्ट्रिक व्&#x200d;हीकल विनिर्माण केंद्र के रूप में भारत की स्थिति को मजबूत करने के लिए रूपरेखा तैयार करने के लिए आयेाजित किया गया है। इसमें वरिष्ठ नीति निर्माता, प्रमुख उद्योगकर्मी, ऑटोमोटिव निर्माता, प्रौद्योगिकी प्रदाता और अन्य हितधारक मिलकर विचार-विमर्श करेंगे।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T09:02:44+00:00",
+        "link": "https://newsonair.gov.in/hi/environment-minister-bhupender-yadav-electric-mobility-in-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BHUP-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गृह राज्‍य मंत्री नित्‍यानंद राय ने नई दिल्ली में आयोजित ध्वजारोहण समारोह में भाग लिया",
+        "summary": "गृह राज्‍य मंत्री नित्‍यानंद राय ने आज नई दिल्ली में सीमा सुरक्षा बल- बीएसएफ, भारत-तिब्बत सीमा पुलिस- आईटीबीपी और राष्ट्रीय सुरक्षा गार्ड- एनएसजी द्वारा माउंट एवरेस्ट और माउंट ल्होत्से पर किए गए पर्वतारोहण अभियानों की सफलता के उपलक्ष्य में आयोजित ध्वजारोहण समारोह में भाग लिया। इस अवसर पर राज्‍यमंत्री ने कहा कि बीएसएफ की […]",
+        "article": "गृह राज्&#x200d;य मंत्री नित्&#x200d;यानंद राय ने आज नई दिल्ली में सीमा सुरक्षा बल- बीएसएफ, भारत-तिब्बत सीमा पुलिस- आईटीबीपी और राष्ट्रीय सुरक्षा गार्ड- एनएसजी द्वारा माउंट एवरेस्ट और माउंट ल्होत्से पर किए गए पर्वतारोहण अभियानों की सफलता के उपलक्ष्य में आयोजित ध्वजारोहण समारोह में भाग लिया। इस अवसर पर राज्&#x200d;यमंत्री ने कहा कि बीएसएफ की सभी महिला पर्वतारोहियों की टीम दुनिया की सबसे ऊंची चोटी पर पहुंची और आकाश में वंदे मातरम् गाकर उन्&#x200d;होंने साहस, देशभक्ति और समर्पण का अनूठा उदाहरण स्&#x200d;थापित किया। श्री राय ने माउंट एवरेस्&#x200d;ट पर पहली बार आईटीबीपी के महिला दस्&#x200d;ते द्वारा अंतर्राष्&#x200d;ट्रीय पर्वतारोहण अभियान पूरा करने पर बधाई दी। उन्&#x200d;होंने एनएसजी के माउंट एवरेस्&#x200d;ट पर्वतारोहण अभियान को शारीरिक और मानसिक सहनशक्ति को आगे बढ़ाने के प्रति बल की प्रतिबद्धता बताया।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:44:01+00:00",
+        "link": "https://newsonair.gov.in/hi/mos-for-home-affairs-nityanand-rai-participates-in-flag-hoisting-ceremony-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/09/new-delhi-union-minister-of-state-for-home-affairs-nityanand-rai-during-winter-1-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "एनआरएए की वित्तपोषित जंगली धान संरक्षण परियोजना ने असम में महत्वपूर्ण उपलब्धि हासिल की",
+        "summary": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) […]",
+        "article": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) के संरक्षण और प्रबंधन नामक इस परियोजना का उद्देश्य चावल को उसके प्राकृतिक आवास में संरक्षित करना है। यह मान्यता भारत की समृद्ध चावल विविधता के संरक्षण और जलवायु परिवर्तन के अनुकूल कृषि को बढ़ावा देने की दिशा में एक महत्वपूर्ण कदम है। कृषि और किसान कल्याण मंत्रालय ने बताया कि यह परियोजना 2022 से कार्यान्वित की जा रही है। इसे आईसीएआर-राष्ट्रीय पादप आनुवंशिक संसाधन ब्यूरो, नई दिल्ली द्वारा असम राज्य जैव विविधता बोर्ड के सहयोग से संचालित किया जा रहा है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T07:50:07+00:00",
+        "link": "https://newsonair.gov.in/hi/govt-achieves-milestone-in-conservation-of-indias-wild-rice-genetic-resources/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607023848726.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत-जापान संबंध विशेष, कई क्षेत्रों में हुए अहम समझौते: पीएम मोदी",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा है कि भारत-जापान संबंध बहुत विशेष हैं और आर्थिक साझेदारी की सफलता के कई शानदार उदाहरण मौजूद हैं। नई दिल्ली में आज भारत-जापान संयुक्त आर्थिक मंच में श्री मोदी ने कहा कि जापान की विशेषज्ञता और निवेश भारत की गति और व्यापकता के साथ मिलने पर पूरी दुनिया को लाभ […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा है कि भारत-जापान संबंध बहुत विशेष हैं और आर्थिक साझेदारी की सफलता के कई शानदार उदाहरण मौजूद हैं। नई दिल्ली में आज भारत-जापान संयुक्त आर्थिक मंच में श्री मोदी ने कहा कि जापान की विशेषज्ञता और निवेश भारत की गति और व्यापकता के साथ मिलने पर पूरी दुनिया को लाभ होता है। उन्होंने कहा कि दोनों पक्षों ने आज साझेदारी को और भी गतिशील तथा प्रगाढ बनाने का निर्णय लिया है। प्रधानमंत्री ने कहा कि भारत और जापान ने आर्थिक सुरक्षा, आर्टिफिशियल इंटेलिजेंस, रक्षा और स्वास्थ्य जैसे कई क्षेत्रों पर समझौते किए हैं। यह समझौते दोनों देशों की साझेदारी को भविष्य के अनुकूल और असीमित बनाएंगे। श्री मोदी ने कहा कि आर्थिक जगत इस समय आपूर्ति श्रृंखला अडचनों, व्यापार अनिश्चितता और वैश्विक मांग में गिरावट से जूझ रहा है। उन्होंने कहा कि भारत विश्व की सबसे तेजी से बढ़ती प्रमुख अर्थव्यवस्था है और पिछले वित्तीय वर्ष में भारत की आर्थिक वृद्धि 7.7 प्रतिशत रही। प्रधानमंत्री ने कहा कि पिछले 12 वर्ष में भारत में काइज़ेन दर्शन को अपनाते हुए, सरकार निरंतर सुधार के माध्यम से आर्थिक डीएनए को बदल रही है। प्रधानमंत्री मोदी ने कहा कि कुछ महीने पहले भारत ने कराधान, सुशासन और व्यापार सुगमता के क्षेत्र में अगली पीढ़ी के सुधार लागू किए हैं। श्री मोदी ने कहा कि इससे निजी क्षेत्र के लिए कई क्षेत्र खुल रहे हैं और कई महत्वपूर्ण क्षेत्रों में प्रोत्साहन मिल रहे हैं। इससे सभी को लाभ होगा। प्रधानमंत्री ने कहा कि यही कारण है कि पिछले चार वर्षों से लगातार जापान बैंक फॉर इंटरनेशनल कोऑपरेशन के सर्वेक्षणों से पता चलता है कि भारत जापानी व्यवसायों के लिए सबसे आशाजनक स्&#x200d;थल बना हुआ है। जापान की प्रधानमंत्री सनाए ताकाइची ने कहा कि सहयोग के कई क्षेत्रों में ऊर्जा सुरक्षा सबसे महत्वपूर्ण क्षेत्रों में से एक है। उन्होंने कहा कि हाल ही में हुए जी-7 शिखर सम्मेलन में उन्होंने ऊर्जा सुरक्षा मजबूत करने के लिए तीन प्रस्ताव प्रस्तुत किए थे। यह प्रस्&#x200d;ताव मुक्त और पारदर्शी ऊर्जा व्यापार सुनिश्चित करने, रणनीतिक ऊर्जा भंडार की घोषणा करने और उत्पादक तथा उपभोक्ता देशों के बीच सहयोग को बढ़ावा देने से संबंधित थे। सुश्री ताकाइची ने कहा कि पावर एशिया पहल के माध्यम से इस दृष्टिकोण को ठोस कार्रवाई में बदलने के लिए काम किया जा रहा है। इस अवसर पर दोनों प्रधानमंत्रियों ने संयुक्त रूप से हरियाणा के खरखोदा में मारुति सुजुकी के चौथे वाहन निर्माण केंद्र का उद्घाटन किया।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T12:00:04+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-says-india-japan-relations-are-truly-very-special-shares-successful-economic-partnership/",
+        "post_id": 1714869,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "पीएम मोदी और जापान की पीएम सनाए तकाइची के बीच वार्षिक शिखर सम्मेलन स्तर की बातचीत हुई",
+        "summary": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। […]",
+        "article": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। इसके साथ ही पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचार विमर्श किया गया। संयुक्त संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि आज के समय में सामूहिक विश्वास सबसे बड़ी संपत्ति है और भारत-जापान की द्विपक्षीय साझेदारी समय की कसौटी पर खरी उतरी है। उन्होंने कहा कि भारत और जापान आज विश्व की सबसे बड़ी अर्थव्यवस्थाओं में से हैं और एक स्वतंत्र और खुला हिंद-प्रशांत क्षेत्र दोनों देशों की साझा प्राथमिकता है। उन्होंने कहा कि दोनों देश आर्थिक सुरक्षा और ऊर्जा सुरक्षा के महत्व को समझते हैं। उन्होंने कहा कि प्रौद्योगिकी साझेदारी भारत-जापान सहयोग का सबसे महत्वपूर्ण स्तंभ होगा। श्री मोदी ने कहा कि इस परिकल्पना को साकार करने के लिए भारत और जापान ने ए.आई के क्षेत्र में एक संयुक्त वक्तव्य जारी किया है। प्रधानमंत्री ने कहा कि जापान की सटीक प्रौद्योगिकी और भारत की सॉफ्टवेयर क्षमताओं का संगम वैश्विक एआई विकास को नई गति और शक्ति प्रदान करेगा। उन्होंने बताया कि रक्षा क्षेत्र में आज दोनों देशों ने भारत और जापान के बीच पहली सह-विकास परियोजना पर एक समझौते पर हस्ताक्षर किए हैं। प्रधानमंत्री ने कहा कि ऊर्जा सुरक्षा के क्षेत्र में कई महत्वपूर्ण निर्णय लिए गए हैं। उन्होंने कहा कि भारत-जापान जैव-गैस पहल के माध्यम से भारत में एक हजार जैव-गैस और जैविक उर्वरक संयंत्र स्थापित किए जाएंगे। उन्होंने कहा कि इससे भारत के गांवों में स्थिरता, समृद्धि और ग्रामीण आजीविका को नई शक्ति मिलेगी। प्रधानमंत्री ने कहा कि भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक हैं। उन्होंने कहा कि सांस्कृतिक मूल्यों से लेकर आधुनिक प्रौद्योगिकी तक, दोनों देशों की सोच और दृष्टिकोण में समानता है। इससे पहले आज, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया है कि भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:57:33+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-receives-japanese-pm-sanae-takaichi-at-hyderabad-house/",
+        "post_id": 1713718,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "यूएनजीए ने एक बार फिर भारत के प्रस्तावित आतंकवाद सम्मेलन को अपनाने का आग्रह किया",
+        "summary": "अंतर्राष्ट्रीय आतंकवाद पर व्यापक सम्मेलन के लिए भारत के लंबे समय से चले आ रहे प्रस्ताव को संयुक्त राष्ट्र महासभा में फिर से समर्थन मिला है। 140 सदस्‍यों द्वारा अपनाई गई संयुक्त राष्ट्र की वैश्विक आतंकरोधी रणनीति की नौवीं समीक्षा में सदस्य देशों से आग्रह किया गया है कि वे भारत द्वारा तीन दशक पहले […]",
+        "article": "अंतर्राष्ट्रीय आतंकवाद पर व्यापक सम्मेलन के लिए भारत के लंबे समय से चले आ रहे प्रस्ताव को संयुक्त राष्ट्र महासभा में फिर से समर्थन मिला है। 140 सदस्&#x200d;यों द्वारा अपनाई गई संयुक्त राष्ट्र की वैश्विक आतंकरोधी रणनीति की नौवीं समीक्षा में सदस्य देशों से आग्रह किया गया है कि वे भारत द्वारा तीन दशक पहले प्रस्तावित सम्मेलन को अंतिम रूप देने के लिए हर संभव प्रयास करें। संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि पी. हरीश ने कहा कि सर्वमान्य कानूनी ढांचे का अभाव वैश्विक आतंकरोधी प्रयासों को कमजोर करता है। उन्होंने आतंकवाद से निपटने में दोहरे मापदंड न अपनाने पर जोर देते हुए अपराधियों, वित्तपोषकों और प्रायोजकों को जवाबदेह ठहराने का आह्वान किया। श्री हरीश ने कहा कि यह सम्मेलन अंतर्राष्ट्रीय सहयोग, अभियोजन और प्रत्यर्पण को मजबूत करेगा और आतंकवादियों को सुरक्षित ठिकाने, धन और हथियार प्राप्त करने से वंचित करेगा। अमरीका, इस्राएल और अर्जेंटीना ने रणनीति के विरुद्ध मतदान किया।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:49:10+00:00",
+        "link": "https://newsonair.gov.in/hi/unga-again-urges-adoption-of-terrorism-convention-proposed-by-india/",
+        "post_id": 1714498,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
     "world": [
       {
         "title": "भारत-जापान संबंध विशेष, कई क्षेत्रों में हुए अहम समझौते: पीएम मोदी",
@@ -1474,7 +1838,118 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       }
     ],
-    "entertainment": [],
+    "entertainment": [
+      {
+        "title": "दशावतारसह एकूण ४ चित्रपट ऑस्करच्या सर्वसाधारण श्रेणीसाठी पात्र",
+        "summary": "कांतारा &#8211; द लिजंट चॅप्टर १, तन्वी द ग्रेट, महावतार नरसिम्हा, टुरिस्ट फॅमिली, आणि सिस्टर मिडनाइट हे ५ भारतीय चित्रपट ऑस्करच्या उत्कृष्ट चित्रपट श्रेणीसाठी पात्र ठरले आहेत. अकादमी ऑफ मोशन पिक्चरने आज ही घोषणा केली. याशिवाय दशावतार, महामंत्रा, पेपर फ्लॉवर, पारो हे ४ चित्रपट सर्वसाधारण श्रेणीसाठी पात्र आहेत. एकूण ३१७ चित्रपट ९८ व्या ऑस्कर पुरस्करांसाठी […]",
+        "article": "कांतारा &#8211; द लिजंट चॅप्टर १, तन्वी द ग्रेट, महावतार नरसिम्हा, टुरिस्ट फॅमिली, आणि सिस्टर मिडनाइट हे ५ भारतीय चित्रपट ऑस्करच्या उत्कृष्ट चित्रपट श्रेणीसाठी पात्र ठरले आहेत. अकादमी ऑफ मोशन पिक्चरने आज ही घोषणा केली. याशिवाय दशावतार, महामंत्रा, पेपर फ्लॉवर, पारो हे ४ चित्रपट सर्वसाधारण श्रेणीसाठी पात्र आहेत. एकूण ३१७ चित्रपट ९८ व्या ऑस्कर पुरस्करांसाठी पात्र ठरले आहेत. त्यातल्या २०१ चित्रपटांकडे उत्कृष्ट चित्रपट श्रेणीसाठीची अतिरीक्त पात्रता असल्याचं अकादमीनं जाहीर केलं. या सर्व चित्रपटांमधून ऑस्करसाठी नामांकित झालेल्या चित्रपटांची यादी २२ जानेवारी जाहीर होईल. याशिवाय भारताकडून आंतरराष्ट्रीय चित्रपट श्रेणीसाठी होमबाऊंड या चित्रपटाचं नामांकन करण्यात आलं आहे.",
+        "date": "2026-01-09",
+        "pubDate": "2026-01-09T09:40:13+00:00",
+        "link": "https://newsonair.gov.in/mr/oscar-award/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/l63820260109095706.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ज्येष्ठ अभिनेते श्रीनिवासन यांचं निधन",
+        "summary": "मल्याळी चित्रपटसृष्टीतले ज्येष्ठ अभिनेते, पटकथा लेखक आणि दिग्दर्शक श्रीनिवासन यांचं आज सकाळी कोची इथं दीर्घ आजारानं निधन झालं. ते ६९ वर्षांचे होते. १९७६ साली ‘मणीमुझक्कम’ या चित्रपटातून आपल्या अभिनय कारकिर्दीला सुरुवात करणाऱ्या श्रीनिवासन यांनी मोहनलाल आणि ममूठी सारख्या अभिनेत्यां सोबत अनेक चित्रपटांत सहकलाकाराच्या भूमिका निभावल्या. श्रीनिवासन यांनी २२५ हुन अधिक चित्रपटांमध्ये अभिनय केला असून १९९८",
+        "article": "मल्याळी चित्रपटसृष्टीतले ज्येष्ठ अभिनेते, पटकथा लेखक आणि दिग्दर्शक श्रीनिवासन यांचं आज सकाळी कोची इथं दीर्घ आजारानं निधन झालं. ते ६९ वर्षांचे होते. १९७६ साली ‘मणीमुझक्कम’ या चित्रपटातून आपल्या अभिनय कारकिर्दीला सुरुवात करणाऱ्या श्रीनिवासन यांनी मोहनलाल आणि ममूठी सारख्या अभिनेत्यां सोबत अनेक चित्रपटांत सहकलाकाराच्या भूमिका निभावल्या. श्रीनिवासन यांनी २२५ हुन अधिक चित्रपटांमध्ये अभिनय केला असून १९९८ मध्ये त्यांनी दिग्दर्शित केलेल्या ‘चिंथाविष्टयाया श्यामला’ या चित्रपटाला सर्वोत्कृष्ट सामाजिक चित्रपटासाठी राष्ट्रीय पुरस्कार प्राप्त झाला आहे.",
+        "date": "2025-12-20",
+        "pubDate": "2025-12-20T10:08:03+00:00",
+        "link": "https://newsonair.gov.in/mr/sreenivasan-death/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/befunky-sample-66_1766204685.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Oscars 2026: निवडक १५ चित्रपटांमधे ‘होमबाऊंड’ चित्रपटाचा समावेश",
+        "summary": "ऑस्कर २०२६ अर्थात ९८व्या अकॅडेमी पारितोषिकांसाठीच्या अंतिम फेरीत होमबाऊंड हा भारतीय चित्रपट प्राथमिक फेरी पार करून निवडक पंधरा चित्रपटांच्या यादीत पोचला आहे. नीरज घायवान दिग्दर्शित हा भारतीय चित्रपट आंतरराष्ट्रीय चित्रपटाच्या श्रेणीत आहे. या यादीतल्या चित्रपटांचं अंतिम नामांकन २२ जानेवारीला जाहीर होईल. ९८वा अकादमी पुरस्कार सोहळा १५ मार्च २०२६ रोजी होणार आहे.",
+        "article": "ऑस्कर २०२६ अर्थात ९८व्या अकॅडेमी पारितोषिकांसाठीच्या अंतिम फेरीत होमबाऊंड हा भारतीय चित्रपट प्राथमिक फेरी पार करून निवडक पंधरा चित्रपटांच्या यादीत पोचला आहे. नीरज घायवान दिग्दर्शित हा भारतीय चित्रपट आंतरराष्ट्रीय चित्रपटाच्या श्रेणीत आहे. या यादीतल्या चित्रपटांचं अंतिम नामांकन २२ जानेवारीला जाहीर होईल. ९८वा अकादमी पुरस्कार सोहळा १५ मार्च २०२६ रोजी होणार आहे.",
+        "date": "2025-12-17",
+        "pubDate": "2025-12-17T07:59:27+00:00",
+        "link": "https://newsonair.gov.in/mr/oscars-2026-homebound/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G8WwX4naUAA-98j.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "६४व्या महाराष्ट्र राज्य हौशी मराठी नाट्य स्पर्धेचे निकाल जाहीर",
+        "summary": "६४व्या महाराष्ट्र राज्य हौशी मराठी नाट्य स्पर्धेचे विविध विभागांमधले निकाल जाहीर झाले आहेत. या स्पर्धेत मुंबई केंद्रातून ‘ती, ती आणि ती’ या नाटकाला प्रथम पारितोषिक जाहीर झालं आहे. नाशिक केंद्रातून ‘काळाच्या पंजातून’ या नाटकाला, सांगली केंद्रातून ‘तिचे संदर्भ नसलेली गोष्ट’ या नाटकाला तर लातूर विभागातून ‘दास्तान’ या नाटकाला प्रथम पारितोषिक मिळालं आहे. सिंधुदुर्ग केंद्रातून ‘सूनबाई […]",
+        "article": "६४व्या महाराष्ट्र राज्य हौशी मराठी नाट्य स्पर्धेचे विविध विभागांमधले निकाल जाहीर झाले आहेत. या स्पर्धेत मुंबई केंद्रातून ‘ती, ती आणि ती’ या नाटकाला प्रथम पारितोषिक जाहीर झालं आहे. नाशिक केंद्रातून ‘काळाच्या पंजातून’ या नाटकाला, सांगली केंद्रातून ‘तिचे संदर्भ नसलेली गोष्ट’ या नाटकाला तर लातूर विभागातून ‘दास्तान’ या नाटकाला प्रथम पारितोषिक मिळालं आहे. सिंधुदुर्ग केंद्रातून ‘सूनबाई तोऱ्यात’ या नाटकाला, सातारा केंद्रातून ‘पोकळ घिस्सा’ या नाटकाला तर नांदेड केंद्रातून ‘संपूर्ण’ या नाटकाला प्रथम पारितोषिक जाहीर झालं आहे. चंद्रपूर केंद्रातून ‘तांडा’ या नाटकाला, अमरावती केंद्रातून ‘वारकरी’ या नाटकाला तर पिंपरी चिंचवड केंद्रातून ‘सखा’ या नाटकाला प्रथम क्रमांक मिळाला आहे.",
+        "date": "2025-12-04",
+        "pubDate": "2025-12-04T14:20:50+00:00",
+        "link": "https://newsonair.gov.in/mr/drama-competition/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G7UygscaEAAVyF0.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "नागालँडमध्ये हॉर्नबिल महोत्सवाला सुरुवात",
+        "summary": "नागालँडची राजधानी कोहिमा इथल्या किसामा इथं आज २६व्या हॉर्नबिल महोत्सवाची सुरुवात झाली. नागालँडचे गव्हर्नर अजय कुमार भल्ला, मुख्यमंत्री नेईफिऊ रिओ यांनी महोत्सवाचा औपचारिक प्रारंभ केला. नागालँडच्या राज्यदिनाबरोबरच सुरू होणाऱ्या या १० दिवसांच्या महोत्सवात विविध नागा समुदाय एकत्र येऊन परंपरा, लोककला, संगीत, कला आणि अन्नसंस्कृतीचा आनंद लुटतात. या महोत्सवात यावर्षी युनायटेड किंगडम, आयर्लंड, फ्रान्स, ऑस",
+        "article": "नागालँडची राजधानी कोहिमा इथल्या किसामा इथं आज २६व्या हॉर्नबिल महोत्सवाची सुरुवात झाली. नागालँडचे गव्हर्नर अजय कुमार भल्ला, मुख्यमंत्री नेईफिऊ रिओ यांनी महोत्सवाचा औपचारिक प्रारंभ केला. नागालँडच्या राज्यदिनाबरोबरच सुरू होणाऱ्या या १० दिवसांच्या महोत्सवात विविध नागा समुदाय एकत्र ये ऊन परंपरा, लोककला, संगीत, कला आणि अन्नसंस्कृतीचा आनंद लुटतात. या महोत्सवात यावर्षी युनायटेड किंगडम, आयर्लंड, फ्रान्स, ऑस्ट्रिया, माल्टा आणि स्वित्झर्लंड हे सहा भागीदार देश आहेत.",
+        "date": "2025-12-01",
+        "pubDate": "2025-12-01T15:02:48+00:00",
+        "link": "https://newsonair.gov.in/mr/hornbill-festival-begins-in-nagaland/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/hornbill-fest.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "मुंबईत सीआयआय बिग पिक्चर समिटचं आयोजन…",
+        "summary": "देशातल्या मनोरंजन आणि माध्यम जगात खूप क्षमता आहे. त्यांचा सुयोग्य वापर होण्याची गरज केंद्रीय माहिती प्रसारण सचिव संजय जाजू यांनी आज व्यक्त केली. मुंबईत सीआयआय बिग पिक्चर समिटमध्ये ते बोलत होते. जागतिक बाजारपेठेत भारताची हिस्सेदारी केवळ २ टक्के आहे. यासंधीचा लाभ घेण्याचं आवाहन त्यांनी उद्योगाला केलं. देशातल्या मनोरंजन उद्योगावर १ कोटीहून अधिक लोकं अवलंबून आहेत. […]",
+        "article": "देशातल्या मनोरंजन आणि माध्यम जगात खूप क्षमता आहे. त्यांचा सुयोग्य वापर होण्याची गरज केंद्रीय माहिती प्रसारण सचिव संजय जाजू यांनी आज व्यक्त केली. मुंबईत सीआयआय बिग पिक्चर समिटमध्ये ते बोलत होते. जागतिक बाजारपेठेत भारताची हिस्सेदारी केवळ २ टक्के आहे. यासंधीचा लाभ घेण्याचं आवाहन त्यांनी उद्योगाला केलं. देशातल्या मनोरंजन उद्योगावर १ कोटीहून अधिक लोकं अवलंबून आहेत. AI आधारित गाणी आणि व्हिडीओ या क्षेत्रातली गणितं बदलत असताना आपणही नवनवीन तंत्रज्ञान आत्मसात करण्याची गरज त्यांनी व्यक्त केली.",
+        "date": "2025-12-01",
+        "pubDate": "2025-12-01T09:44:45+00:00",
+        "link": "https://newsonair.gov.in/mr/cii-big-picture-summit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/Screenshot-2025-12-01-151404.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारतातल्या क्रिएटर्ससाठी ५ नव्या भारतीय भाषांचा समावेश",
+        "summary": "मुंबईत झालेल्या ‘हाऊस ऑफ इंस्टाग्राम’ कार्यक्रमात मेटा प्लॅटफॉर्म्स कंपनीनं भारतातल्या क्रिएटर्ससाठी ५ नव्या भारतीय भाषांचा समावेश केला आहे. यामुळे इंस्टाग्राम, फेसबुकवरील क्रिएटर्स लवकरच त्यांच्या रील्सचे बंगाली, मराठी, तेलुगु, कन्नड आणि तमिळ या भाषांमधे भाषांतर करू शकतील. यासाठी एआय-आधारित ऑटोमॅटिक डबिंग आणि लिप-सिंक सुविधा उपलब्ध करण्यात आली आहे. हे फिचर क्रिएटरच्या मूळ आवाजातील स्वर आणि भावना",
+        "article": "मुंबईत झालेल्या ‘हाऊस ऑफ इंस्टाग्राम’ कार्यक्रमात मेटा प्लॅटफॉर्म्स कंपनीनं भारतातल्या क्रिएटर्ससाठी ५ नव्या भारतीय भाषांचा समावेश केला आहे. यामुळे इंस्टाग्राम, फेसबुकवरील क्रिएटर्स लवकरच त्यांच्या रील्सचे बंगाली, मराठी, तेलुगु, कन्नड आणि तमिळ या भाषांमधे भाषांतर करू शकतील. यासाठी एआय-आधारित ऑटोमॅटिक डबिंग आणि लिप-सिंक सुविधा उपलब्ध करण्यात आली आहे. हे फिचर क्रिएटरच्या मूळ आवाजातील स्वर आणि भावना जुळवून भाषांतरित आवाज तयार करते यामुळे तोंडाच्या हालचाली नव्या भाषेशी हुबेहुब वाटते. यापूर्वी ही सुविधा इंग्रजी, हिंदी, स्पॅनिश आणि पोर्तुगीजपुरती मर्यादित होती. याशिवाय मेटाच्या ‘एडिट्स’ या मोबाईल व्हिडिओ एडिटिंग अ&#x200d;ॅपमध्येही भारतीय भाषांसाठी नवे फॉन्ट्स जोडले जात आहेत. असमिया, बंगाली, हिंदी आणि मराठी भाषांसाठी देवनागरी तसेच बंगाली-असमिया स्क्रिप्टमधील आकर्षक फॉन्ट्स आता अँड्रॉइड अ&#x200d;ॅपमध्ये उपलब्ध होणार आहे.",
+        "date": "2025-11-29",
+        "pubDate": "2025-11-29T12:57:58+00:00",
+        "link": "https://newsonair.gov.in/mr/instagram-facebook-creators/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/Screenshot-2025-11-29-182641.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "इफ्फी महोत्सवाची रंगतदार सोहळ्यानं सांगता",
+        "summary": "५६ व्या भारतीय आंतरराष्ट्रीय चित्रपट महोत्सवाची काल एका रंगतदार सोहळ्यानं सांगता झाली. पणजीमधे गेले ९ दिवस चाललेला सोहळा रसिकांसाठी पर्वणी ठरला. दिग्दर्शन अॅश मेफेअर दिग्दर्शित, व्हिएतनामच्या स्किन ऑफ यूथ या चित्रपटानं या महोत्सवाचा मुकुटमणी असलेल्या सूवर्ण मयूर पुरस्कारावर आपलं नाव कोरलं. &#160; गोंधळ या मराठी चित्रपटासाठी दिग्दर्शक संतोष डावखर यांनी सर्वोत्कृष्ट दिग्दर्शकासाठीचा रौप्य मयूर पुरस्",
+        "article": "५६ व्या भारतीय आंतरराष्ट्रीय चित्रपट महोत्सवाची काल एका रंगतदार सोहळ्यानं सांगता झाली. पणजीमधे गेले ९ दिवस चाललेला सोहळा रसिकांसाठी पर्वणी ठरला. दिग्दर्शन अॅश मेफेअर दिग्दर्शित, व्हिएतनामच्या स्किन ऑफ यूथ या चित्रपटानं या महोत्सवाचा मुकुटमणी असलेल्या सूवर्ण मयूर पुरस्कारावर आपलं नाव कोरलं. &nbsp; गोंधळ या मराठी चित्रपटासाठी दिग्दर्शक संतोष डावखर यांनी सर्वोत्कृष्ट दिग्दर्शकासाठीचा रौप्य मयूर पुरस्कार आपल्या नावे केला, अभिनयाच्या श्रेणीत, कोलंबियन अभिनेता उबेमर रिओस यांना ए पोएट मधील भूमिकेसाठी सर्वोत्कृष्ट अभिनेतेच्या, तर स्लोव्हेनियन चित्रपट लिटल ट्रबल गर्ल्स मधील भूमिकेसाठी जारा सोफिजा ओस्टान यांना सर्वोत्कृष्ट अभिनेत्री म्हणून गौरवलं गेलं. &nbsp; माय फादर्स शॅडो या नायजेरियन चित्रपटानं विशेष ज्युरी पुरस्कार मिळवला, तर सेफ हाऊस या नॉर्वेजियन चित्रपटानं प्रतिष्ठेचं ICFT-UNESCO गांधी पदक आपल्या नावे केलं. ओटीटी व्यासपीठाअंतर्गत बंडिश बँडिट्स सिझन टू ही सर्वोकृष्ट वेब मालिका ठरली, तर भारतीय चित्रपटांसाठी सर्वोत्कृष्ट पदार्पणीय दिग्दर्शक म्हणून केसरी चॅप्टर टू चे दिग्दर्शक करण सिंग त्यागी यांची निवड झाली. &nbsp; या समारोप सोहळ्याचं विशेष आकर्षण ठरलं ते चित्रपटसृष्टीतील ५० वर्षांची कारकीर्द पूर्ण केल्याबद्दल सुपरस्टार रजनीकांत यांना प्रदान करण्यात आलेला जीवनगौरव पुरस्कार. आपल्याला १०० वर्षांनंतरही अभिनेता रजनीकांत म्हणूनच जन्माला यायला आवडेल अशी भावना रजनीकांत यांनी व्यक्त केली. &nbsp; दिवंगत अभिनेते धर्मेंद्र यांच्यासह सिने आणि कला क्षेत्रातील असंख्य भारतीय कलाकारांना महोत्सवात स्मरणांजली वाहिली गेली. याशिवाय सोहळ्याच्या प्रारंभीचा दिव्यांग व्यक्तींचा कलाविष्कार आणि इतर सादरीकरणं ही सिनेरसिकांसाठी पर्वणीच ठरली. &nbsp; एकूणात हा सोहळा भारतीय चित्रपटसृष्टीतील कला आणि तंत्रज्ञानाचा गौरव करणारा आणि त्याचवेळी सिने जगताच्या नव्या वाटचालीची उमेद जागवणारा ठरला.",
+        "date": "2025-11-29",
+        "pubDate": "2025-11-29T09:16:06+00:00",
+        "link": "https://newsonair.gov.in/mr/iffi-2025-10/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/IFFI-2025-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अजिंठा – वेरुळ चित्रपट महोत्सवातला प्रतिष्ठेचा पद्मपाणि पुरस्कार ज्येष्ठ संगीतकार इलिया राजा यांना जाहीर",
+        "summary": "अकराव्या अजिंठा वेरुळ आंतरराष्ट्रीय चित्रपट महोत्सवातला प्रतिष्ठेचा पद्मपाणि पुरस्कार यंदा सुप्रसिद्ध संगीतकार इलियाराजा यांना घोषित झाला आहे. २ लाख रुपये स्मृतिचिन्ह, आणि मानपत्र असं पुरस्काराचं स्वरुप आहे. छत्रपती संभाजीनगर इथं येत्या २८ जानेवारीपासून सुरु होणारा हा महोत्सव १ फेब्रुवारीपर्यंत चालणार आहे. प्रदीर्घ संगीतसेवेसाठी इलियाराजा यांना हा पुरस्कार देण्यात येणार आहे.",
+        "article": "अकराव्या अजिंठा वेरुळ आंतरराष्ट्रीय चित्रपट महोत्सवातला प्रतिष्ठेचा पद्मपाणि पुरस्कार यंदा सुप्रसिद्ध संगीतकार इलियाराजा यांना घोषित झाला आहे. २ लाख रुपये स्मृतिचिन्ह, आणि मानपत्र असं पुरस्काराचं स्वरुप आहे. छत्रपती संभाजीनगर इथं येत्या २८ जानेवारीपासून सुरु होणारा हा महोत्सव १ फेब्रुवारीपर्यंत चालणार आहे. प्रदीर्घ संगीतसेवेसाठी इलियाराजा यांना हा पुरस्कार देण्यात येणार आहे.",
+        "date": "2026-01-19",
+        "pubDate": "2026-01-19T08:21:55+00:00",
+        "link": "https://newsonair.gov.in/mr/%e0%a4%85%e0%a4%9c%e0%a4%bf%e0%a4%82%e0%a4%a0%e0%a4%be-%e0%a4%b5%e0%a5%87%e0%a4%b0%e0%a5%81%e0%a4%b3-%e0%a4%9a%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%9f-%e0%a4%ae%e0%a4%b9%e0%a5%8b/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Year End Programme: आत्यंतिक दारिद्र्यात दोन तृतीयांश घट झाल्याचं जागतिक बँकेचा अहवाल",
+        "summary": "२०२५ मधे भारताच्या प्रगतीने जगाचं लक्ष वेधून घेतलं. जगभरात अनिश्चिततेचं वातावरण असताना भारत मात्र आपल्या ध्येयाकडे ठामपणे आणि सातत्यपूर्ण वाटचाल करत राहिला. &#160; गेल्या दशकभरात १७ कोटींहून अधिक नागरिकांना आत्यंतिक दारिद्र्यातून बाहेर काढण्यात यश आल्याबद्दल जागतिक बँकेने भारताचं कौतुक केलं आहे. महाराष्ट्र, बिहार, उत्तरप्रदेश, मध्यप्रदेश आणि पश्चिम बंगाल या राज्यांमधल्या आत्यंतिक दारिद्र्यात दोन त",
+        "article": "२०२५ मधे भारताच्या प्रगतीने जगाचं लक्ष वेधून घेतलं. जगभरात अनिश्चिततेचं वातावरण असताना भारत मात्र आपल्या ध्येयाकडे ठामपणे आणि सातत्यपूर्ण वाटचाल करत राहिला. &nbsp; गेल्या दशकभरात १७ कोटींहून अधिक नागरिकांना आत्यंतिक दारिद्र्यातून बाहेर काढण्यात यश आल्याबद्दल जागतिक बँकेने भारताचं कौतुक केलं आहे. महाराष्ट्र, बिहार, उत्तरप्रदेश, मध्यप्रदेश आणि पश्चिम बंगाल या राज्यांमधल्या आत्यंतिक दारिद्र्यात दोन तृतीयांश घट झाल्याचं जागतिक बँकेच्या अहवालात म्हटलं आहे. गेल्या दहा वर्षांत भारताच्या ग्रामीण भागातल्या आत्यंतिक दारिद्र्याचं प्रमाण अठरा टक्क्यावरून २ पूर्णांक ८ दशांश टक्क्यापर्यंत घसरल्याचं यात म्हटलं आहे. संयुक्त राष्ट्रांच्या शाश्वत विकास उद्दिष्ट निर्देशांकात भारताने पहिल्यांदाच पहिल्या शंभर देशात प्रवेश केला आहे. स्वच्छता, आरोग्य, आर्थिक समावेशन आणि डिजिटल प्रशासन या क्षेत्रातल्या प्रगतीमुळे देशाला हे ध्येय साधता आलं. गेल्या दशकभरात भारतीय नागरिकांच्या जीवनात आर्थिक सुबत्ता आली आहे. जनधन योजनेमुुळे सध्या देशातल्या ८९ टक्के प्रौढ नागरिकांकडे बँक खाती आहेत. या योजनेने नागरिकांसाठी आर्थिक सुबत्तेचं दार उघडून दिल्याचं जागतिक बँकेच्या अहवालात म्हटलं आहे. तसंच प्रधानमंत्री नरेंद्र मोदी हे जगातल्या सर्वात लोकप्रिय नेत्यांपैकी एक असून त्यांना ७५ टक्के लोकांची पसंती असल्याचं अमेरिकेतल्या मॉर्निंग कन्सल्ट या संस्थेच्या अहवालात म्हटलं आहे. भारतातल्या लोकशाही व्यवस्थेबद्दल इथले सर्वाधिक नागरिक समाधानी असल्याचंही यात नमूद करण्यात आलं आहे.",
+        "date": "2026-01-03",
+        "pubDate": "2026-01-03T10:17:48+00:00",
+        "link": "https://newsonair.gov.in/mr/year-end-programme/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
     "lifestyle": [
       {
         "title": "डब्ल्यूएचओ ने कांगो में इबोला प्रकोप के तेजी से फैलने पर चिंता जताई",
