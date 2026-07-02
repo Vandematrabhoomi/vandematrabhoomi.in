@@ -1,8 +1,52 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-02T13:27:27.726040",
+  "generated": "2026-07-02T08:48:22.193294",
   "en": {
     "top": [
+      {
+        "title": "India’s proposal for Comprehensive Convention on International Terrorism gains renewed support at UN General Assembly",
+        "summary": "India&#8217;s long-standing proposal for the Comprehensive Convention on International Terrorism has received renewed support at the United Nations General Assembly. The Ninth Review of the UN Global Counter-Terrorism Strategy, adopted by 140 votes, has urged member states to make every effort to finalise the convention proposed by India over three decades ago. India&#8217;s Permanent Representati",
+        "article": "India&#8217;s long-standing proposal for the Comprehensive Convention on International Terrorism has received renewed support at the United Nations General Assembly. The Ninth Review of the UN Global Counter-Terrorism Strategy, adopted by 140 votes, has urged member states to make every effort to finalise the convention proposed by India over three decades ago. India&#8217;s Permanent Representative to the UN, P. Harish, said the absence of a universally agreed legal framework weakens global counter-terrorism efforts. He stressed that there should be no double standards in tackling terrorism and called for holding perpetrators, financiers and sponsors accountable. Harish said the convention would strengthen international cooperation, prosecution and extradition, and deny terrorists safe havens, funds and arms. The United States, Israel and Argentina voted against the strategy.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:46:19+00:00",
+        "link": "https://newsonair.gov.in/indias-proposal-for-comprehensive-convention-on-international-terrorism-gains-renewed-support-at-un-general-assembly/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/un.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India-Japan sign several agreements including in economic and energy security, pharmaceuticals, AI",
+        "summary": "India and Japan today exchanged several agreements in different fields, including economic and energy security, pharmaceuticals, defence and AI. Prime Minister Narendra Modi held Annual Summit-level talks with his Japanese counterpart Sanae Takaichi in New Delhi this afternoon. The Summit provided an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation […]",
+        "article": "India and Japan today exchanged several agreements in different fields, including economic and energy security, pharmaceuticals, defence and AI. Prime Minister Narendra Modi held Annual Summit-level talks with his Japanese counterpart Sanae Takaichi in New Delhi this afternoon. The Summit provided an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation as well as exchange views on regional and global issues of mutual interest. Addressing the Joint Press Meet following the talks, Prime Minister Modi said mutual trust is the biggest asset in today&#8217;s time and the India-Japan bilateral partnership has stood the test of time. He highlighted that India and Japan are among the world&#8217;s biggest economies today, and a free and open Indo-Pacific is a shared priority for both countries. He stressed that both nations understand the importance of economic security and energy security. He added that technology partnership will be the most important pillar of India-Japan cooperation. Mr Modi said that to realise this vision, India and Japan have issued a Joint Statement in the field of AI. Prime Minister stated that the convergence of Japan&#8217;s precision technology and India&#8217;s software capabilities will give new momentum and strength to global AI development. He informed that in the field of Defence today, both nations have signed an agreement on the first co-development project between India and Japan. The Prime Minister also said that several important decisions have been taken in the field of energy security. He said that through the India-Japan Bio-gas Initiative, one thousand biogas and organic fertiliser plants will be set up in India. He said this will give new strength to sustainability, prosperity, and rural livelihoods in India&#8217;s villages. Prime Minister said that the economies of India and Japan are complementary. He said that there is a similarity in thinking and approach of both nations, from cultural values to modern technology. Earlier today, Prime Minister Takaichi was accorded a ceremonial welcome at the forecourt of Rashtrapati Bhavan. Prime Minister Narendra Modi was also present on the occasion. The Japanese Prime Minister arrived in New Delhi last evening on a three-day visit to India. This is the first official visit of Prime Minister Takaichi to India. The External Affairs Ministry said the visit marks an important step in taking forward the Special Strategic and Global Partnership between India and Japan. Akashvani Correspondent reports that the India-Japan relationship is marked by frequent high-level political engagement. Most recently, Prime Minister Narendra Modi interacted with the Japanese Prime Minister during the G7 Summit in France. The two leaders had earlier met on the sidelines of the G20 Summit in Johannesburg in November last year. The Annual Summit remains the flagship platform driving the strategic agenda of the partnership. Economic Security has emerged as a key pillar of the relationship. During the 1st Economic Security Dialogue held in Tokyo in November 2024, the two sides identified five sectors as priority sectors for strategic collaboration. These are semiconductors, critical minerals, pharmaceuticals, clean energy and information and communication technology.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:36:35+00:00",
+        "link": "https://newsonair.gov.in/india-japan-bilateral-relationship-has-stood-the-test-of-time-pm-modi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/sooo.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Election Commission announces bypolls for three Legislative Assembly constituencies",
+        "summary": "The Election Commission today announced the schedule for bye-elections to three Legislative Assembly constituencies across Bankipur in Bihar, Datia in Madhya Pradesh, and Manjalpur in Gujarat. The polling will take place on July 30, and the counting of votes will be conducted on August 3. The Bankipur constituency became vacant due to the resignation […]",
+        "article": "The Election Commission today announced the schedule for bye-elections to three Legislative Assembly constituencies across Bankipur in Bihar, Datia in Madhya Pradesh, and Manjalpur in Gujarat. The polling will take place on July 30, and the counting of votes will be conducted on August 3. The Bankipur constituency became vacant due to the resignation of BJP President Nitin Nabin, while Datia was rendered vacant as a result of the disqualification of Congress MLA Rajendra Bharti. Additionally, the Manjalpur constituency became vacant following the demise of BJP MLA Yogeshbhai Narandas Patel.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:31:55+00:00",
+        "link": "https://newsonair.gov.in/election-commission-announces-bypolls-for-three-legislative-assembly-constituencies/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/eci-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt is promoting ease of living while ensuring environmental protection: Union Minister Bhupender Yadav",
+        "summary": "Union Environment, Forest and Climate Change Minister Bhupender Yadav today underlined that India’s transition to electric mobility is not merely about replacing one technology with another, it is about building a sustainable industrial ecosystem. He said this while addressing the Inaugural Session of the National Conference on ‘Electric Mobility: Building India an Electric Mobility […]",
+        "article": "Union Environment, Forest and Climate Change Minister Bhupender Yadav today underlined that India’s transition to electric mobility is not merely about replacing one technology with another, it is about building a sustainable industrial ecosystem. He said this while addressing the Inaugural Session of the National Conference on ‘Electric Mobility: Building India an Electric Mobility Hub for Viksit Bharat.’ He noted that the government is promoting ease of living while ensuring environmental protection through policies that balance development with sustainability. Mr Yadav further informed that the Government has undertaken a series of reforms to simplify environmental clearances, digitise approval systems through PARIVESH portal, rationalise compliance requirements and promote ease of doing business without compromising environmental safeguards. These reforms are enabling faster investments while ensuring responsible development. Mr Yadav said the government&#8217;s approach reflects Prime Minister Narendra Modi&#8217;s vision of ensuring that ecology and economy grow together. He highlighted that despite rapid industrial development, the country&#8217;s forest cover has increased from 701,673 square kilometres in 2014 to 715,000 square kilometres. The Minister said the government is advancing Extended Producer Responsibility (EPR) to encourage industries to take responsibility for waste management, including construction debris and e-waste, with the aim of promoting a circular economy based on the principles of reuse, recycle and reduce. He added that the government&#8217;s industrial policies focus on green employment, longer life spans, better infrastructure and transparency. The Conference is bringing together senior policymakers, industry leaders, automotive manufacturers, technology providers and other stakeholders to deliberate on the roadmap for accelerating India&#8217;s electric mobility transition and strengthening the country&#8217;s position as a global EV manufacturing hub.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:10:37+00:00",
+        "link": "https://newsonair.gov.in/govt-is-promoting-ease-of-living-while-ensuring-environmental-protection-union-minister-bhupender-yadav/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BHUP-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "MPEDA Concludes Second National Skill Olympiad on Seafood Value Addition at Seafood Expo Bharat 2026",
         "summary": "The grand finale of the second edition of the National Skill Olympiad on Seafood Value Addition was held yesterday during Seafood Expo Bharat 2026 in Kochi. Organised by the Marine Products Export Development Authority (MPEDA), the event showcased the skills of ten trained seafood processing professionals in preparing value-added seafood products for export markets. P. […]",
@@ -11,17 +55,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-02T07:52:31+00:00",
         "link": "https://newsonair.gov.in/mpeda-concludes-second-national-skill-olympiad-on-seafood-value-addition-at-seafood-expo-bharat-2026/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/oii.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Annual Summit-level talks between PM Modi and Japanese PM underway in New Delhi",
-        "summary": "Prime Minister Narendra Modi is holding Annual Summit-level talks with his Japanese counterpart Sanae Takaichi in New Delhi. The Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation as well as exchange views on regional and global issues of mutual interest. Several MoUs are expected to […]",
-        "article": "Prime Minister Narendra Modi is holding Annual Summit-level talks with his Japanese counterpart Sanae Takaichi in New Delhi. The Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation as well as exchange views on regional and global issues of mutual interest. Several MoUs are expected to be exchanged following the talks between Prime Minister Modi and Prime Minister Takaichi. Earlier today, Prime Minister Takaichi was accorded a ceremonial welcome at the forecourt of Rashtrapati Bhavan. Prime Minister Narendra Modi was also present on the occasion. The Japanese Prime Minister arrived in New Delhi last evening on a three-day visit to India. This is the first official visit of Prime Minister Takaichi to India. The External Affairs Ministry said the visit marks an important step in taking forward the Special Strategic and Global Partnership between India and Japan. Our Correspondent reports that the India-Japan relationship is marked by frequent high-level political engagement. Most recently, Prime Minister Narendra Modi interacted with the Japanese Prime Minister during the G7 Summit in France. The two leaders had earlier met on the sidelines of the G20 Summit in Johannesburg in November last year. The Annual Summit remains the flagship platform driving the strategic agenda of the partnership. Economic Security has emerged as a key pillar of the relationship. During the 1st Economic Security Dialogue held in Tokyo in November 2024, the two sides identified five sectors as priority sectors for strategic collaboration. These are semiconductors, critical minerals, pharmaceuticals, clean energy and information and communication technology.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T07:02:35+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-holds-annual-summit-level-talks-with-his-japanese-counterpart-sanae-takaichi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/summit.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -101,42 +134,42 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/epfooo.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, Malaysia review entire spectrum of bilateral military cooperation during 12th Sub Committee Meeting",
-        "summary": "India and Malaysia reviewed the entire spectrum of bilateral military cooperation during the 12th Sub-Committee Meeting held in New Delhi yesterday. The Defence Ministry said both sides reaffirmed their shared commitment to peace, security and freedom of navigation in the Indo-Pacific. The discussions covered ongoing defence engagements, including military-to-military exchanges, bilateral exercise",
-        "article": "India and Malaysia reviewed the entire spectrum of bilateral military cooperation during the 12th Sub-Committee Meeting held in New Delhi yesterday. The Defence Ministry said both sides reaffirmed their shared commitment to peace, security and freedom of navigation in the Indo-Pacific. The discussions covered ongoing defence engagements, including military-to-military exchanges, bilateral exercises, training, staff talks, capacity building, maritime cooperation and collaboration in emerging domains. The Sub Committee Meeting serves as the principal military-to-military consultative mechanism between the two countries and precedes the India-Malaysia Defence Cooperation Meeting, which is held at the level of the Defence Secretary. The meeting reviewed the progress made since the last SCMC and expressed confidence that its outcomes would provide a strong foundation for productive deliberations at the forthcoming India-Malaysia Defence Cooperation Meeting. The visiting delegation also called on Defence Secretary Rajesh Kumar Singh and visited the Defence Public Sector Undertakings (DPSU) Bhawan at the World Trade Centre in New Delhi. Before the meeting, the head of the Malaysian delegation paid homage to India&#8217;s fallen heroes by laying a wreath at the National War Memorial in New Delhi.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T02:10:08+00:00",
-        "link": "https://newsonair.gov.in/india-malaysia-review-entire-spectrum-of-bilateral-military-cooperation-during-12th-sub-committee-meeting/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ii.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "29th National e-Governance Conference concludes today in Jaipur",
-        "summary": "The 29th National e-Governance Conference, being held in Jaipur, will conclude today with the presentation of the National e-Governance Awards. The awards recognise outstanding initiatives by Central and State Governments and other organisations in promoting excellence in e-governance. Union Minister Dr. Jitendra Singh will be the chief guest at the valedictory and National e-Governance […]",
-        "article": "The 29th National e-Governance Conference, being held in Jaipur, will conclude today with the presentation of the National e-Governance Awards. The awards recognise outstanding initiatives by Central and State Governments and other organisations in promoting excellence in e-governance. Union Minister Dr. Jitendra Singh will be the chief guest at the valedictory and National e-Governance Awards ceremony. The concluding day of the conference will also feature three plenary sessions focusing on digital governance and emerging technologies. Senior officials from the Centre and the States, industry experts, startups and representatives of academic institutions are participating in the event. The conference is being jointly organised by the Department of Administrative Reforms and Public Grievances, the Ministry of Electronics and Information Technology (MeitY), and the Government of Rajasthan.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T02:06:47+00:00",
-        "link": "https://newsonair.gov.in/29th-national-e-governance-conference-concludes-today-in-jaipur/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/bhajan.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Air Marshal Ashutosh Dixit takes over as Vice Chief of Air Staff",
-        "summary": "Air Marshal Ashutosh Dixit, who served as the Chief of Integrated Defence Staff during Operation Sindoor, took charge as the new Vice Chief of the Air Staff (VCAS) yesterday. He has succeeded Air Marshal Nagesh Kapoor, who superannuated on June 30 after four decades of service in the Indian Air Force (IAF). The defence ministry […]",
-        "article": "Air Marshal Ashutosh Dixit, who served as the Chief of Integrated Defence Staff during Operation Sindoor, took charge as the new Vice Chief of the Air Staff (VCAS) yesterday. He has succeeded Air Marshal Nagesh Kapoor, who superannuated on June 30 after four decades of service in the Indian Air Force (IAF). The defence ministry said, Air Marshal Dixit was commissioned into the fighter stream of the IAF on December 6, 1986. He is an alumnus of National Defence Academy, Defence Staff Service College (Bangladesh) and National Defence College with more than 3,500 hours of flying experience. Lt Gen Sandeep Jain assumed charge as the Vice Chief of the Army Staff. An alumnus of the National Defence Academy, he was commissioned into the Mahar Regiment in June 1988. With nearly four decades of distinguished service, he has held a wide range of command and staff appointments across diverse operational environments.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T01:04:16+00:00",
-        "link": "https://newsonair.gov.in/air-marshal-ashutosh-dixit-takes-over-as-vice-chief-of-air-staff/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/AIR.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "India-Japan sign several agreements including in economic and energy security, pharmaceuticals, AI",
+        "summary": "India and Japan today exchanged several agreements in different fields, including economic and energy security, pharmaceuticals, defence and AI. Prime Minister Narendra Modi held Annual Summit-level talks with his Japanese counterpart Sanae Takaichi in New Delhi this afternoon. The Summit provided an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation […]",
+        "article": "India and Japan today exchanged several agreements in different fields, including economic and energy security, pharmaceuticals, defence and AI. Prime Minister Narendra Modi held Annual Summit-level talks with his Japanese counterpart Sanae Takaichi in New Delhi this afternoon. The Summit provided an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation as well as exchange views on regional and global issues of mutual interest. Addressing the Joint Press Meet following the talks, Prime Minister Modi said mutual trust is the biggest asset in today&#8217;s time and the India-Japan bilateral partnership has stood the test of time. He highlighted that India and Japan are among the world&#8217;s biggest economies today, and a free and open Indo-Pacific is a shared priority for both countries. He stressed that both nations understand the importance of economic security and energy security. He added that technology partnership will be the most important pillar of India-Japan cooperation. Mr Modi said that to realise this vision, India and Japan have issued a Joint Statement in the field of AI. Prime Minister stated that the convergence of Japan&#8217;s precision technology and India&#8217;s software capabilities will give new momentum and strength to global AI development. He informed that in the field of Defence today, both nations have signed an agreement on the first co-development project between India and Japan. The Prime Minister also said that several important decisions have been taken in the field of energy security. He said that through the India-Japan Bio-gas Initiative, one thousand biogas and organic fertiliser plants will be set up in India. He said this will give new strength to sustainability, prosperity, and rural livelihoods in India&#8217;s villages. Prime Minister said that the economies of India and Japan are complementary. He said that there is a similarity in thinking and approach of both nations, from cultural values to modern technology. Earlier today, Prime Minister Takaichi was accorded a ceremonial welcome at the forecourt of Rashtrapati Bhavan. Prime Minister Narendra Modi was also present on the occasion. The Japanese Prime Minister arrived in New Delhi last evening on a three-day visit to India. This is the first official visit of Prime Minister Takaichi to India. The External Affairs Ministry said the visit marks an important step in taking forward the Special Strategic and Global Partnership between India and Japan. Akashvani Correspondent reports that the India-Japan relationship is marked by frequent high-level political engagement. Most recently, Prime Minister Narendra Modi interacted with the Japanese Prime Minister during the G7 Summit in France. The two leaders had earlier met on the sidelines of the G20 Summit in Johannesburg in November last year. The Annual Summit remains the flagship platform driving the strategic agenda of the partnership. Economic Security has emerged as a key pillar of the relationship. During the 1st Economic Security Dialogue held in Tokyo in November 2024, the two sides identified five sectors as priority sectors for strategic collaboration. These are semiconductors, critical minerals, pharmaceuticals, clean energy and information and communication technology.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:36:35+00:00",
+        "link": "https://newsonair.gov.in/india-japan-bilateral-relationship-has-stood-the-test-of-time-pm-modi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/sooo.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Election Commission announces bypolls for three Legislative Assembly constituencies",
+        "summary": "The Election Commission today announced the schedule for bye-elections to three Legislative Assembly constituencies across Bankipur in Bihar, Datia in Madhya Pradesh, and Manjalpur in Gujarat. The polling will take place on July 30, and the counting of votes will be conducted on August 3. The Bankipur constituency became vacant due to the resignation […]",
+        "article": "The Election Commission today announced the schedule for bye-elections to three Legislative Assembly constituencies across Bankipur in Bihar, Datia in Madhya Pradesh, and Manjalpur in Gujarat. The polling will take place on July 30, and the counting of votes will be conducted on August 3. The Bankipur constituency became vacant due to the resignation of BJP President Nitin Nabin, while Datia was rendered vacant as a result of the disqualification of Congress MLA Rajendra Bharti. Additionally, the Manjalpur constituency became vacant following the demise of BJP MLA Yogeshbhai Narandas Patel.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:31:55+00:00",
+        "link": "https://newsonair.gov.in/election-commission-announces-bypolls-for-three-legislative-assembly-constituencies/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/eci-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt is promoting ease of living while ensuring environmental protection: Union Minister Bhupender Yadav",
+        "summary": "Union Environment, Forest and Climate Change Minister Bhupender Yadav today underlined that India’s transition to electric mobility is not merely about replacing one technology with another, it is about building a sustainable industrial ecosystem. He said this while addressing the Inaugural Session of the National Conference on ‘Electric Mobility: Building India an Electric Mobility […]",
+        "article": "Union Environment, Forest and Climate Change Minister Bhupender Yadav today underlined that India’s transition to electric mobility is not merely about replacing one technology with another, it is about building a sustainable industrial ecosystem. He said this while addressing the Inaugural Session of the National Conference on ‘Electric Mobility: Building India an Electric Mobility Hub for Viksit Bharat.’ He noted that the government is promoting ease of living while ensuring environmental protection through policies that balance development with sustainability. Mr Yadav further informed that the Government has undertaken a series of reforms to simplify environmental clearances, digitise approval systems through PARIVESH portal, rationalise compliance requirements and promote ease of doing business without compromising environmental safeguards. These reforms are enabling faster investments while ensuring responsible development. Mr Yadav said the government&#8217;s approach reflects Prime Minister Narendra Modi&#8217;s vision of ensuring that ecology and economy grow together. He highlighted that despite rapid industrial development, the country&#8217;s forest cover has increased from 701,673 square kilometres in 2014 to 715,000 square kilometres. The Minister said the government is advancing Extended Producer Responsibility (EPR) to encourage industries to take responsibility for waste management, including construction debris and e-waste, with the aim of promoting a circular economy based on the principles of reuse, recycle and reduce. He added that the government&#8217;s industrial policies focus on green employment, longer life spans, better infrastructure and transparency. The Conference is bringing together senior policymakers, industry leaders, automotive manufacturers, technology providers and other stakeholders to deliberate on the roadmap for accelerating India&#8217;s electric mobility transition and strengthening the country&#8217;s position as a global EV manufacturing hub.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:10:37+00:00",
+        "link": "https://newsonair.gov.in/govt-is-promoting-ease-of-living-while-ensuring-environmental-protection-union-minister-bhupender-yadav/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BHUP-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "MPEDA Concludes Second National Skill Olympiad on Seafood Value Addition at Seafood Expo Bharat 2026",
         "summary": "The grand finale of the second edition of the National Skill Olympiad on Seafood Value Addition was held yesterday during Seafood Expo Bharat 2026 in Kochi. Organised by the Marine Products Export Development Authority (MPEDA), the event showcased the skills of ten trained seafood processing professionals in preparing value-added seafood products for export markets. P. […]",
@@ -145,17 +178,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-02T07:52:31+00:00",
         "link": "https://newsonair.gov.in/mpeda-concludes-second-national-skill-olympiad-on-seafood-value-addition-at-seafood-expo-bharat-2026/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/oii.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Annual Summit-level talks between PM Modi and Japanese PM underway in New Delhi",
-        "summary": "Prime Minister Narendra Modi is holding Annual Summit-level talks with his Japanese counterpart Sanae Takaichi in New Delhi. The Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation as well as exchange views on regional and global issues of mutual interest. Several MoUs are expected to […]",
-        "article": "Prime Minister Narendra Modi is holding Annual Summit-level talks with his Japanese counterpart Sanae Takaichi in New Delhi. The Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation as well as exchange views on regional and global issues of mutual interest. Several MoUs are expected to be exchanged following the talks between Prime Minister Modi and Prime Minister Takaichi. Earlier today, Prime Minister Takaichi was accorded a ceremonial welcome at the forecourt of Rashtrapati Bhavan. Prime Minister Narendra Modi was also present on the occasion. The Japanese Prime Minister arrived in New Delhi last evening on a three-day visit to India. This is the first official visit of Prime Minister Takaichi to India. The External Affairs Ministry said the visit marks an important step in taking forward the Special Strategic and Global Partnership between India and Japan. Our Correspondent reports that the India-Japan relationship is marked by frequent high-level political engagement. Most recently, Prime Minister Narendra Modi interacted with the Japanese Prime Minister during the G7 Summit in France. The two leaders had earlier met on the sidelines of the G20 Summit in Johannesburg in November last year. The Annual Summit remains the flagship platform driving the strategic agenda of the partnership. Economic Security has emerged as a key pillar of the relationship. During the 1st Economic Security Dialogue held in Tokyo in November 2024, the two sides identified five sectors as priority sectors for strategic collaboration. These are semiconductors, critical minerals, pharmaceuticals, clean energy and information and communication technology.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T07:02:35+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-holds-annual-summit-level-talks-with-his-japanese-counterpart-sanae-takaichi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/summit.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -222,34 +244,45 @@ window.VM_NEWS = {
         "pubDate": "2026-07-02T02:06:47+00:00",
         "link": "https://newsonair.gov.in/29th-national-e-governance-conference-concludes-today-in-jaipur/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/bhajan.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Air Marshal Ashutosh Dixit takes over as Vice Chief of Air Staff",
-        "summary": "Air Marshal Ashutosh Dixit, who served as the Chief of Integrated Defence Staff during Operation Sindoor, took charge as the new Vice Chief of the Air Staff (VCAS) yesterday. He has succeeded Air Marshal Nagesh Kapoor, who superannuated on June 30 after four decades of service in the Indian Air Force (IAF). The defence ministry […]",
-        "article": "Air Marshal Ashutosh Dixit, who served as the Chief of Integrated Defence Staff during Operation Sindoor, took charge as the new Vice Chief of the Air Staff (VCAS) yesterday. He has succeeded Air Marshal Nagesh Kapoor, who superannuated on June 30 after four decades of service in the Indian Air Force (IAF). The defence ministry said, Air Marshal Dixit was commissioned into the fighter stream of the IAF on December 6, 1986. He is an alumnus of National Defence Academy, Defence Staff Service College (Bangladesh) and National Defence College with more than 3,500 hours of flying experience. Lt Gen Sandeep Jain assumed charge as the Vice Chief of the Army Staff. An alumnus of the National Defence Academy, he was commissioned into the Mahar Regiment in June 1988. With nearly four decades of distinguished service, he has held a wide range of command and staff appointments across diverse operational environments.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T01:04:16+00:00",
-        "link": "https://newsonair.gov.in/air-marshal-ashutosh-dixit-takes-over-as-vice-chief-of-air-staff/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/AIR.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India approves its first-ever satellite-based landing procedure for helicopter operations",
-        "summary": "India has achieved a major milestone with the approval of the country&#8217;s first Private Point-in-Space (PinS) instrument approach procedure for helicopter operations at Undavalli Heliport. PinS procedures use advanced satellite-based navigation technology to enable helicopters to conduct safe and precise instrument approaches to heliports that do not have conventional instrument landing infras",
-        "article": "India has achieved a major milestone with the approval of the country&#8217;s first Private Point-in-Space (PinS) instrument approach procedure for helicopter operations at Undavalli Heliport. PinS procedures use advanced satellite-based navigation technology to enable helicopters to conduct safe and precise instrument approaches to heliports that do not have conventional instrument landing infrastructure. The Civil Aviation Ministry said PinS is particularly beneficial during adverse weather conditions and in areas where ground-based navigation aids are not available. It was developed by the Airports Authority of India (AAI) and approved by the Directorate General of Civil Aviation (DGCA). Civil Aviation Minister Ram Mohan Naidu said the milestone marks a new era in helicopter operations by enhancing flight safety, operational efficiency and all-weather accessibility. He said the government is committed to adopting modern technologies and building a globally benchmarked, technology-driven helicopter ecosystem. The Civil Aviation Ministry said the approval will pave the way for similar PinS procedures across the country, benefiting emergency medical services, disaster relief, tourism, offshore operations, pilgrimage services, corporate aviation and regional connectivity, while improving the safety and reliability of helicopter operations.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T00:53:53+00:00",
-        "link": "https://newsonair.gov.in/india-achieves-major-milestone-with-approval-of-countrys-first-pins-instrument-approach-procedure-for-helicopter-operations/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-2.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "India-Japan sign several agreements including in economic and energy security, pharmaceuticals, AI",
+        "summary": "India and Japan today exchanged several agreements in different fields, including economic and energy security, pharmaceuticals, defence and AI. Prime Minister Narendra Modi held Annual Summit-level talks with his Japanese counterpart Sanae Takaichi in New Delhi this afternoon. The Summit provided an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation […]",
+        "article": "India and Japan today exchanged several agreements in different fields, including economic and energy security, pharmaceuticals, defence and AI. Prime Minister Narendra Modi held Annual Summit-level talks with his Japanese counterpart Sanae Takaichi in New Delhi this afternoon. The Summit provided an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation as well as exchange views on regional and global issues of mutual interest. Addressing the Joint Press Meet following the talks, Prime Minister Modi said mutual trust is the biggest asset in today&#8217;s time and the India-Japan bilateral partnership has stood the test of time. He highlighted that India and Japan are among the world&#8217;s biggest economies today, and a free and open Indo-Pacific is a shared priority for both countries. He stressed that both nations understand the importance of economic security and energy security. He added that technology partnership will be the most important pillar of India-Japan cooperation. Mr Modi said that to realise this vision, India and Japan have issued a Joint Statement in the field of AI. Prime Minister stated that the convergence of Japan&#8217;s precision technology and India&#8217;s software capabilities will give new momentum and strength to global AI development. He informed that in the field of Defence today, both nations have signed an agreement on the first co-development project between India and Japan. The Prime Minister also said that several important decisions have been taken in the field of energy security. He said that through the India-Japan Bio-gas Initiative, one thousand biogas and organic fertiliser plants will be set up in India. He said this will give new strength to sustainability, prosperity, and rural livelihoods in India&#8217;s villages. Prime Minister said that the economies of India and Japan are complementary. He said that there is a similarity in thinking and approach of both nations, from cultural values to modern technology. Earlier today, Prime Minister Takaichi was accorded a ceremonial welcome at the forecourt of Rashtrapati Bhavan. Prime Minister Narendra Modi was also present on the occasion. The Japanese Prime Minister arrived in New Delhi last evening on a three-day visit to India. This is the first official visit of Prime Minister Takaichi to India. The External Affairs Ministry said the visit marks an important step in taking forward the Special Strategic and Global Partnership between India and Japan. Akashvani Correspondent reports that the India-Japan relationship is marked by frequent high-level political engagement. Most recently, Prime Minister Narendra Modi interacted with the Japanese Prime Minister during the G7 Summit in France. The two leaders had earlier met on the sidelines of the G20 Summit in Johannesburg in November last year. The Annual Summit remains the flagship platform driving the strategic agenda of the partnership. Economic Security has emerged as a key pillar of the relationship. During the 1st Economic Security Dialogue held in Tokyo in November 2024, the two sides identified five sectors as priority sectors for strategic collaboration. These are semiconductors, critical minerals, pharmaceuticals, clean energy and information and communication technology.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:36:35+00:00",
+        "link": "https://newsonair.gov.in/india-japan-bilateral-relationship-has-stood-the-test-of-time-pm-modi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/sooo.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Election Commission announces bypolls for three Legislative Assembly constituencies",
+        "summary": "The Election Commission today announced the schedule for bye-elections to three Legislative Assembly constituencies across Bankipur in Bihar, Datia in Madhya Pradesh, and Manjalpur in Gujarat. The polling will take place on July 30, and the counting of votes will be conducted on August 3. The Bankipur constituency became vacant due to the resignation […]",
+        "article": "The Election Commission today announced the schedule for bye-elections to three Legislative Assembly constituencies across Bankipur in Bihar, Datia in Madhya Pradesh, and Manjalpur in Gujarat. The polling will take place on July 30, and the counting of votes will be conducted on August 3. The Bankipur constituency became vacant due to the resignation of BJP President Nitin Nabin, while Datia was rendered vacant as a result of the disqualification of Congress MLA Rajendra Bharti. Additionally, the Manjalpur constituency became vacant following the demise of BJP MLA Yogeshbhai Narandas Patel.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:31:55+00:00",
+        "link": "https://newsonair.gov.in/election-commission-announces-bypolls-for-three-legislative-assembly-constituencies/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/eci-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt is promoting ease of living while ensuring environmental protection: Union Minister Bhupender Yadav",
+        "summary": "Union Environment, Forest and Climate Change Minister Bhupender Yadav today underlined that India’s transition to electric mobility is not merely about replacing one technology with another, it is about building a sustainable industrial ecosystem. He said this while addressing the Inaugural Session of the National Conference on ‘Electric Mobility: Building India an Electric Mobility […]",
+        "article": "Union Environment, Forest and Climate Change Minister Bhupender Yadav today underlined that India’s transition to electric mobility is not merely about replacing one technology with another, it is about building a sustainable industrial ecosystem. He said this while addressing the Inaugural Session of the National Conference on ‘Electric Mobility: Building India an Electric Mobility Hub for Viksit Bharat.’ He noted that the government is promoting ease of living while ensuring environmental protection through policies that balance development with sustainability. Mr Yadav further informed that the Government has undertaken a series of reforms to simplify environmental clearances, digitise approval systems through PARIVESH portal, rationalise compliance requirements and promote ease of doing business without compromising environmental safeguards. These reforms are enabling faster investments while ensuring responsible development. Mr Yadav said the government&#8217;s approach reflects Prime Minister Narendra Modi&#8217;s vision of ensuring that ecology and economy grow together. He highlighted that despite rapid industrial development, the country&#8217;s forest cover has increased from 701,673 square kilometres in 2014 to 715,000 square kilometres. The Minister said the government is advancing Extended Producer Responsibility (EPR) to encourage industries to take responsibility for waste management, including construction debris and e-waste, with the aim of promoting a circular economy based on the principles of reuse, recycle and reduce. He added that the government&#8217;s industrial policies focus on green employment, longer life spans, better infrastructure and transparency. The Conference is bringing together senior policymakers, industry leaders, automotive manufacturers, technology providers and other stakeholders to deliberate on the roadmap for accelerating India&#8217;s electric mobility transition and strengthening the country&#8217;s position as a global EV manufacturing hub.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:10:37+00:00",
+        "link": "https://newsonair.gov.in/govt-is-promoting-ease-of-living-while-ensuring-environmental-protection-union-minister-bhupender-yadav/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BHUP-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "MPEDA Concludes Second National Skill Olympiad on Seafood Value Addition at Seafood Expo Bharat 2026",
         "summary": "The grand finale of the second edition of the National Skill Olympiad on Seafood Value Addition was held yesterday during Seafood Expo Bharat 2026 in Kochi. Organised by the Marine Products Export Development Authority (MPEDA), the event showcased the skills of ten trained seafood processing professionals in preparing value-added seafood products for export markets. P. […]",
         "article": "The grand finale of the second edition of the National Skill Olympiad on Seafood Value Addition was held yesterday during Seafood Expo Bharat 2026 in Kochi. Organised by the Marine Products Export Development Authority (MPEDA), the event showcased the skills of ten trained seafood processing professionals in preparing value-added seafood products for export markets. P. Surya Bhaskar of Devi Fisheries Limited, Kakinada, Andhra Pradesh, won the competition and received a cash prize of one lakh rupees. Muthu Kumaran of Tuticorin, Tamil Nadu, secured the second position, while Sagarika Sardar of Kolkata and Barasarani Jena of Bhubaneswar finished third and fourth, respectively. Ahead of the finale, MPEDA trained over 2,500 seafood processing workers through fifty training programmes conducted across India&#8217;s east and west coasts.",
@@ -257,17 +290,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-02T07:52:31+00:00",
         "link": "https://newsonair.gov.in/mpeda-concludes-second-national-skill-olympiad-on-seafood-value-addition-at-seafood-expo-bharat-2026/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/oii.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Annual Summit-level talks between PM Modi and Japanese PM underway in New Delhi",
-        "summary": "Prime Minister Narendra Modi is holding Annual Summit-level talks with his Japanese counterpart Sanae Takaichi in New Delhi. The Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation as well as exchange views on regional and global issues of mutual interest. Several MoUs are expected to […]",
-        "article": "Prime Minister Narendra Modi is holding Annual Summit-level talks with his Japanese counterpart Sanae Takaichi in New Delhi. The Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation as well as exchange views on regional and global issues of mutual interest. Several MoUs are expected to be exchanged following the talks between Prime Minister Modi and Prime Minister Takaichi. Earlier today, Prime Minister Takaichi was accorded a ceremonial welcome at the forecourt of Rashtrapati Bhavan. Prime Minister Narendra Modi was also present on the occasion. The Japanese Prime Minister arrived in New Delhi last evening on a three-day visit to India. This is the first official visit of Prime Minister Takaichi to India. The External Affairs Ministry said the visit marks an important step in taking forward the Special Strategic and Global Partnership between India and Japan. Our Correspondent reports that the India-Japan relationship is marked by frequent high-level political engagement. Most recently, Prime Minister Narendra Modi interacted with the Japanese Prime Minister during the G7 Summit in France. The two leaders had earlier met on the sidelines of the G20 Summit in Johannesburg in November last year. The Annual Summit remains the flagship platform driving the strategic agenda of the partnership. Economic Security has emerged as a key pillar of the relationship. During the 1st Economic Security Dialogue held in Tokyo in November 2024, the two sides identified five sectors as priority sectors for strategic collaboration. These are semiconductors, critical minerals, pharmaceuticals, clean energy and information and communication technology.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T07:02:35+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-holds-annual-summit-level-talks-with-his-japanese-counterpart-sanae-takaichi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/summit.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -334,34 +356,45 @@ window.VM_NEWS = {
         "pubDate": "2026-07-02T02:06:47+00:00",
         "link": "https://newsonair.gov.in/29th-national-e-governance-conference-concludes-today-in-jaipur/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/bhajan.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Air Marshal Ashutosh Dixit takes over as Vice Chief of Air Staff",
-        "summary": "Air Marshal Ashutosh Dixit, who served as the Chief of Integrated Defence Staff during Operation Sindoor, took charge as the new Vice Chief of the Air Staff (VCAS) yesterday. He has succeeded Air Marshal Nagesh Kapoor, who superannuated on June 30 after four decades of service in the Indian Air Force (IAF). The defence ministry […]",
-        "article": "Air Marshal Ashutosh Dixit, who served as the Chief of Integrated Defence Staff during Operation Sindoor, took charge as the new Vice Chief of the Air Staff (VCAS) yesterday. He has succeeded Air Marshal Nagesh Kapoor, who superannuated on June 30 after four decades of service in the Indian Air Force (IAF). The defence ministry said, Air Marshal Dixit was commissioned into the fighter stream of the IAF on December 6, 1986. He is an alumnus of National Defence Academy, Defence Staff Service College (Bangladesh) and National Defence College with more than 3,500 hours of flying experience. Lt Gen Sandeep Jain assumed charge as the Vice Chief of the Army Staff. An alumnus of the National Defence Academy, he was commissioned into the Mahar Regiment in June 1988. With nearly four decades of distinguished service, he has held a wide range of command and staff appointments across diverse operational environments.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T01:04:16+00:00",
-        "link": "https://newsonair.gov.in/air-marshal-ashutosh-dixit-takes-over-as-vice-chief-of-air-staff/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/AIR.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India approves its first-ever satellite-based landing procedure for helicopter operations",
-        "summary": "India has achieved a major milestone with the approval of the country&#8217;s first Private Point-in-Space (PinS) instrument approach procedure for helicopter operations at Undavalli Heliport. PinS procedures use advanced satellite-based navigation technology to enable helicopters to conduct safe and precise instrument approaches to heliports that do not have conventional instrument landing infras",
-        "article": "India has achieved a major milestone with the approval of the country&#8217;s first Private Point-in-Space (PinS) instrument approach procedure for helicopter operations at Undavalli Heliport. PinS procedures use advanced satellite-based navigation technology to enable helicopters to conduct safe and precise instrument approaches to heliports that do not have conventional instrument landing infrastructure. The Civil Aviation Ministry said PinS is particularly beneficial during adverse weather conditions and in areas where ground-based navigation aids are not available. It was developed by the Airports Authority of India (AAI) and approved by the Directorate General of Civil Aviation (DGCA). Civil Aviation Minister Ram Mohan Naidu said the milestone marks a new era in helicopter operations by enhancing flight safety, operational efficiency and all-weather accessibility. He said the government is committed to adopting modern technologies and building a globally benchmarked, technology-driven helicopter ecosystem. The Civil Aviation Ministry said the approval will pave the way for similar PinS procedures across the country, benefiting emergency medical services, disaster relief, tourism, offshore operations, pilgrimage services, corporate aviation and regional connectivity, while improving the safety and reliability of helicopter operations.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T00:53:53+00:00",
-        "link": "https://newsonair.gov.in/india-achieves-major-milestone-with-approval-of-countrys-first-pins-instrument-approach-procedure-for-helicopter-operations/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-2.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "India-Japan sign several agreements including in economic and energy security, pharmaceuticals, AI",
+        "summary": "India and Japan today exchanged several agreements in different fields, including economic and energy security, pharmaceuticals, defence and AI. Prime Minister Narendra Modi held Annual Summit-level talks with his Japanese counterpart Sanae Takaichi in New Delhi this afternoon. The Summit provided an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation […]",
+        "article": "India and Japan today exchanged several agreements in different fields, including economic and energy security, pharmaceuticals, defence and AI. Prime Minister Narendra Modi held Annual Summit-level talks with his Japanese counterpart Sanae Takaichi in New Delhi this afternoon. The Summit provided an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation as well as exchange views on regional and global issues of mutual interest. Addressing the Joint Press Meet following the talks, Prime Minister Modi said mutual trust is the biggest asset in today&#8217;s time and the India-Japan bilateral partnership has stood the test of time. He highlighted that India and Japan are among the world&#8217;s biggest economies today, and a free and open Indo-Pacific is a shared priority for both countries. He stressed that both nations understand the importance of economic security and energy security. He added that technology partnership will be the most important pillar of India-Japan cooperation. Mr Modi said that to realise this vision, India and Japan have issued a Joint Statement in the field of AI. Prime Minister stated that the convergence of Japan&#8217;s precision technology and India&#8217;s software capabilities will give new momentum and strength to global AI development. He informed that in the field of Defence today, both nations have signed an agreement on the first co-development project between India and Japan. The Prime Minister also said that several important decisions have been taken in the field of energy security. He said that through the India-Japan Bio-gas Initiative, one thousand biogas and organic fertiliser plants will be set up in India. He said this will give new strength to sustainability, prosperity, and rural livelihoods in India&#8217;s villages. Prime Minister said that the economies of India and Japan are complementary. He said that there is a similarity in thinking and approach of both nations, from cultural values to modern technology. Earlier today, Prime Minister Takaichi was accorded a ceremonial welcome at the forecourt of Rashtrapati Bhavan. Prime Minister Narendra Modi was also present on the occasion. The Japanese Prime Minister arrived in New Delhi last evening on a three-day visit to India. This is the first official visit of Prime Minister Takaichi to India. The External Affairs Ministry said the visit marks an important step in taking forward the Special Strategic and Global Partnership between India and Japan. Akashvani Correspondent reports that the India-Japan relationship is marked by frequent high-level political engagement. Most recently, Prime Minister Narendra Modi interacted with the Japanese Prime Minister during the G7 Summit in France. The two leaders had earlier met on the sidelines of the G20 Summit in Johannesburg in November last year. The Annual Summit remains the flagship platform driving the strategic agenda of the partnership. Economic Security has emerged as a key pillar of the relationship. During the 1st Economic Security Dialogue held in Tokyo in November 2024, the two sides identified five sectors as priority sectors for strategic collaboration. These are semiconductors, critical minerals, pharmaceuticals, clean energy and information and communication technology.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:36:35+00:00",
+        "link": "https://newsonair.gov.in/india-japan-bilateral-relationship-has-stood-the-test-of-time-pm-modi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/sooo.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Election Commission announces bypolls for three Legislative Assembly constituencies",
+        "summary": "The Election Commission today announced the schedule for bye-elections to three Legislative Assembly constituencies across Bankipur in Bihar, Datia in Madhya Pradesh, and Manjalpur in Gujarat. The polling will take place on July 30, and the counting of votes will be conducted on August 3. The Bankipur constituency became vacant due to the resignation […]",
+        "article": "The Election Commission today announced the schedule for bye-elections to three Legislative Assembly constituencies across Bankipur in Bihar, Datia in Madhya Pradesh, and Manjalpur in Gujarat. The polling will take place on July 30, and the counting of votes will be conducted on August 3. The Bankipur constituency became vacant due to the resignation of BJP President Nitin Nabin, while Datia was rendered vacant as a result of the disqualification of Congress MLA Rajendra Bharti. Additionally, the Manjalpur constituency became vacant following the demise of BJP MLA Yogeshbhai Narandas Patel.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:31:55+00:00",
+        "link": "https://newsonair.gov.in/election-commission-announces-bypolls-for-three-legislative-assembly-constituencies/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/eci-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt is promoting ease of living while ensuring environmental protection: Union Minister Bhupender Yadav",
+        "summary": "Union Environment, Forest and Climate Change Minister Bhupender Yadav today underlined that India’s transition to electric mobility is not merely about replacing one technology with another, it is about building a sustainable industrial ecosystem. He said this while addressing the Inaugural Session of the National Conference on ‘Electric Mobility: Building India an Electric Mobility […]",
+        "article": "Union Environment, Forest and Climate Change Minister Bhupender Yadav today underlined that India’s transition to electric mobility is not merely about replacing one technology with another, it is about building a sustainable industrial ecosystem. He said this while addressing the Inaugural Session of the National Conference on ‘Electric Mobility: Building India an Electric Mobility Hub for Viksit Bharat.’ He noted that the government is promoting ease of living while ensuring environmental protection through policies that balance development with sustainability. Mr Yadav further informed that the Government has undertaken a series of reforms to simplify environmental clearances, digitise approval systems through PARIVESH portal, rationalise compliance requirements and promote ease of doing business without compromising environmental safeguards. These reforms are enabling faster investments while ensuring responsible development. Mr Yadav said the government&#8217;s approach reflects Prime Minister Narendra Modi&#8217;s vision of ensuring that ecology and economy grow together. He highlighted that despite rapid industrial development, the country&#8217;s forest cover has increased from 701,673 square kilometres in 2014 to 715,000 square kilometres. The Minister said the government is advancing Extended Producer Responsibility (EPR) to encourage industries to take responsibility for waste management, including construction debris and e-waste, with the aim of promoting a circular economy based on the principles of reuse, recycle and reduce. He added that the government&#8217;s industrial policies focus on green employment, longer life spans, better infrastructure and transparency. The Conference is bringing together senior policymakers, industry leaders, automotive manufacturers, technology providers and other stakeholders to deliberate on the roadmap for accelerating India&#8217;s electric mobility transition and strengthening the country&#8217;s position as a global EV manufacturing hub.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:10:37+00:00",
+        "link": "https://newsonair.gov.in/govt-is-promoting-ease-of-living-while-ensuring-environmental-protection-union-minister-bhupender-yadav/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BHUP-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "MPEDA Concludes Second National Skill Olympiad on Seafood Value Addition at Seafood Expo Bharat 2026",
         "summary": "The grand finale of the second edition of the National Skill Olympiad on Seafood Value Addition was held yesterday during Seafood Expo Bharat 2026 in Kochi. Organised by the Marine Products Export Development Authority (MPEDA), the event showcased the skills of ten trained seafood processing professionals in preparing value-added seafood products for export markets. P. […]",
         "article": "The grand finale of the second edition of the National Skill Olympiad on Seafood Value Addition was held yesterday during Seafood Expo Bharat 2026 in Kochi. Organised by the Marine Products Export Development Authority (MPEDA), the event showcased the skills of ten trained seafood processing professionals in preparing value-added seafood products for export markets. P. Surya Bhaskar of Devi Fisheries Limited, Kakinada, Andhra Pradesh, won the competition and received a cash prize of one lakh rupees. Muthu Kumaran of Tuticorin, Tamil Nadu, secured the second position, while Sagarika Sardar of Kolkata and Barasarani Jena of Bhubaneswar finished third and fourth, respectively. Ahead of the finale, MPEDA trained over 2,500 seafood processing workers through fifty training programmes conducted across India&#8217;s east and west coasts.",
@@ -369,17 +402,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-02T07:52:31+00:00",
         "link": "https://newsonair.gov.in/mpeda-concludes-second-national-skill-olympiad-on-seafood-value-addition-at-seafood-expo-bharat-2026/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/oii.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Annual Summit-level talks between PM Modi and Japanese PM underway in New Delhi",
-        "summary": "Prime Minister Narendra Modi is holding Annual Summit-level talks with his Japanese counterpart Sanae Takaichi in New Delhi. The Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation as well as exchange views on regional and global issues of mutual interest. Several MoUs are expected to […]",
-        "article": "Prime Minister Narendra Modi is holding Annual Summit-level talks with his Japanese counterpart Sanae Takaichi in New Delhi. The Summit will provide an opportunity for both sides to review and strengthen the full spectrum of bilateral cooperation as well as exchange views on regional and global issues of mutual interest. Several MoUs are expected to be exchanged following the talks between Prime Minister Modi and Prime Minister Takaichi. Earlier today, Prime Minister Takaichi was accorded a ceremonial welcome at the forecourt of Rashtrapati Bhavan. Prime Minister Narendra Modi was also present on the occasion. The Japanese Prime Minister arrived in New Delhi last evening on a three-day visit to India. This is the first official visit of Prime Minister Takaichi to India. The External Affairs Ministry said the visit marks an important step in taking forward the Special Strategic and Global Partnership between India and Japan. Our Correspondent reports that the India-Japan relationship is marked by frequent high-level political engagement. Most recently, Prime Minister Narendra Modi interacted with the Japanese Prime Minister during the G7 Summit in France. The two leaders had earlier met on the sidelines of the G20 Summit in Johannesburg in November last year. The Annual Summit remains the flagship platform driving the strategic agenda of the partnership. Economic Security has emerged as a key pillar of the relationship. During the 1st Economic Security Dialogue held in Tokyo in November 2024, the two sides identified five sectors as priority sectors for strategic collaboration. These are semiconductors, critical minerals, pharmaceuticals, clean energy and information and communication technology.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T07:02:35+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-holds-annual-summit-level-talks-with-his-japanese-counterpart-sanae-takaichi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/summit.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -448,31 +470,20 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/bhajan.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "Air Marshal Ashutosh Dixit takes over as Vice Chief of Air Staff",
-        "summary": "Air Marshal Ashutosh Dixit, who served as the Chief of Integrated Defence Staff during Operation Sindoor, took charge as the new Vice Chief of the Air Staff (VCAS) yesterday. He has succeeded Air Marshal Nagesh Kapoor, who superannuated on June 30 after four decades of service in the Indian Air Force (IAF). The defence ministry […]",
-        "article": "Air Marshal Ashutosh Dixit, who served as the Chief of Integrated Defence Staff during Operation Sindoor, took charge as the new Vice Chief of the Air Staff (VCAS) yesterday. He has succeeded Air Marshal Nagesh Kapoor, who superannuated on June 30 after four decades of service in the Indian Air Force (IAF). The defence ministry said, Air Marshal Dixit was commissioned into the fighter stream of the IAF on December 6, 1986. He is an alumnus of National Defence Academy, Defence Staff Service College (Bangladesh) and National Defence College with more than 3,500 hours of flying experience. Lt Gen Sandeep Jain assumed charge as the Vice Chief of the Army Staff. An alumnus of the National Defence Academy, he was commissioned into the Mahar Regiment in June 1988. With nearly four decades of distinguished service, he has held a wide range of command and staff appointments across diverse operational environments.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T01:04:16+00:00",
-        "link": "https://newsonair.gov.in/air-marshal-ashutosh-dixit-takes-over-as-vice-chief-of-air-staff/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/AIR.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India approves its first-ever satellite-based landing procedure for helicopter operations",
-        "summary": "India has achieved a major milestone with the approval of the country&#8217;s first Private Point-in-Space (PinS) instrument approach procedure for helicopter operations at Undavalli Heliport. PinS procedures use advanced satellite-based navigation technology to enable helicopters to conduct safe and precise instrument approaches to heliports that do not have conventional instrument landing infras",
-        "article": "India has achieved a major milestone with the approval of the country&#8217;s first Private Point-in-Space (PinS) instrument approach procedure for helicopter operations at Undavalli Heliport. PinS procedures use advanced satellite-based navigation technology to enable helicopters to conduct safe and precise instrument approaches to heliports that do not have conventional instrument landing infrastructure. The Civil Aviation Ministry said PinS is particularly beneficial during adverse weather conditions and in areas where ground-based navigation aids are not available. It was developed by the Airports Authority of India (AAI) and approved by the Directorate General of Civil Aviation (DGCA). Civil Aviation Minister Ram Mohan Naidu said the milestone marks a new era in helicopter operations by enhancing flight safety, operational efficiency and all-weather accessibility. He said the government is committed to adopting modern technologies and building a globally benchmarked, technology-driven helicopter ecosystem. The Civil Aviation Ministry said the approval will pave the way for similar PinS procedures across the country, benefiting emergency medical services, disaster relief, tourism, offshore operations, pilgrimage services, corporate aviation and regional connectivity, while improving the safety and reliability of helicopter operations.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T00:53:53+00:00",
-        "link": "https://newsonair.gov.in/india-achieves-major-milestone-with-approval-of-countrys-first-pins-instrument-approach-procedure-for-helicopter-operations/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "India’s proposal for Comprehensive Convention on International Terrorism gains renewed support at UN General Assembly",
+        "summary": "India&#8217;s long-standing proposal for the Comprehensive Convention on International Terrorism has received renewed support at the United Nations General Assembly. The Ninth Review of the UN Global Counter-Terrorism Strategy, adopted by 140 votes, has urged member states to make every effort to finalise the convention proposed by India over three decades ago. India&#8217;s Permanent Representati",
+        "article": "India&#8217;s long-standing proposal for the Comprehensive Convention on International Terrorism has received renewed support at the United Nations General Assembly. The Ninth Review of the UN Global Counter-Terrorism Strategy, adopted by 140 votes, has urged member states to make every effort to finalise the convention proposed by India over three decades ago. India&#8217;s Permanent Representative to the UN, P. Harish, said the absence of a universally agreed legal framework weakens global counter-terrorism efforts. He stressed that there should be no double standards in tackling terrorism and called for holding perpetrators, financiers and sponsors accountable. Harish said the convention would strengthen international cooperation, prosecution and extradition, and deny terrorists safe havens, funds and arms. The United States, Israel and Argentina voted against the strategy.",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:46:19+00:00",
+        "link": "https://newsonair.gov.in/indias-proposal-for-comprehensive-convention-on-international-terrorism-gains-renewed-support-at-un-general-assembly/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/un.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "India reiterates firm stand against terrorism, calls for united global action",
         "summary": "India has reiterated its firm stand that terrorism cannot be justified under any circumstances and called for united global action to eliminate the menace. Addressing the UN General Assembly during the adoption of the Ninth Review of the United Nations Global Counter-Terrorism Strategy, India&#8217;s Permanent Representative to the UN, Ambassador Harish Parvathaneni, said &#8220;A terrorist […]",
@@ -569,17 +580,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-01T14:43:45+00:00",
         "link": "https://newsonair.gov.in/india-condemns-demolition-of-historic-125-year-old-gurdwara-in-pakistan/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Indian Naval Ships Tarkash and Ikshak conclude port call at Port Victoria, Seychelles",
-        "summary": "Indian Naval Ships (INS) Tarkash and Ikshak concluded their port call at Port Victoria, Seychelles. Defence Ministry today said that the visit of the ships reaffirms the Indian Navy&#8217;s commitment to strengthening maritime cooperation with friendly maritime nations in the Indian Ocean Region, in consonance with Mutual and Holistic Advancement for Security and Growth Across […]",
-        "article": "Indian Naval Ships (INS) Tarkash and Ikshak concluded their port call at Port Victoria, Seychelles. Defence Ministry today said that the visit of the ships reaffirms the Indian Navy&#8217;s commitment to strengthening maritime cooperation with friendly maritime nations in the Indian Ocean Region, in consonance with Mutual and Holistic Advancement for Security and Growth Across Regions (MAHASAGAR). It marked the successful completion of a range of professional, ceremonial and community engagement activities undertaken during Seychelles&#8217; National Day and Golden Jubilee celebrations. During the visit, the marching contingent and Naval Band from INS Tarkash participated in the National Day Parade held on the 28th of June, reflecting the close and long-standing maritime partnership between India and Seychelles. Meanwhile, INS Ikshak hosted over 300 visitors, providing an opportunity to showcase the ship&#8217;s hydrographic survey capabilities and the Indian Navy&#8217;s contribution towards hydrographic cooperation in the Indian Ocean Region. The deployment underscores the Indian Navy&#8217;s continued focus on enhancing interoperability, capacity building and maritime security.",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T14:17:42+00:00",
-        "link": "https://newsonair.gov.in/indian-naval-ships-tarkash-and-ikshak-conclude-port-call-at-port-victoria-seychelles/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/poin-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -1025,124 +1025,36 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
-        "title": "एनआरएए की वित्तपोषित जंगली धान संरक्षण परियोजना ने असम में महत्वपूर्ण उपलब्धि हासिल की",
-        "summary": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) […]",
-        "article": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) के संरक्षण और प्रबंधन नामक इस परियोजना का उद्देश्य चावल को उसके प्राकृतिक आवास में संरक्षित करना है। यह मान्यता भारत की समृद्ध चावल विविधता के संरक्षण और जलवायु परिवर्तन के अनुकूल कृषि को बढ़ावा देने की दिशा में एक महत्वपूर्ण कदम है। कृषि और किसान कल्याण मंत्रालय ने बताया कि यह परियोजना 2022 से कार्यान्वित की जा रही है। इसे आईसीएआर-राष्ट्रीय पादप आनुवंशिक संसाधन ब्यूरो, नई दिल्ली द्वारा असम राज्य जैव विविधता बोर्ड के सहयोग से संचालित किया जा रहा है।",
+        "title": "गृह राज्‍य मंत्री नित्‍यानंद राय ने नई दिल्ली में आयोजित ध्वजारोहण समारोह में भाग लिया",
+        "summary": "गृह राज्‍य मंत्री नित्‍यानंद राय ने आज नई दिल्ली में सीमा सुरक्षा बल- बीएसएफ, भारत-तिब्बत सीमा पुलिस- आईटीबीपी और राष्ट्रीय सुरक्षा गार्ड- एनएसजी द्वारा माउंट एवरेस्ट और माउंट ल्होत्से पर किए गए पर्वतारोहण अभियानों की सफलता के उपलक्ष्य में आयोजित ध्वजारोहण समारोह में भाग लिया। इस अवसर पर राज्‍यमंत्री ने कहा कि बीएसएफ की […]",
+        "article": "गृह राज्&#x200d;य मंत्री नित्&#x200d;यानंद राय ने आज नई दिल्ली में सीमा सुरक्षा बल- बीएसएफ, भारत-तिब्बत सीमा पुलिस- आईटीबीपी और राष्ट्रीय सुरक्षा गार्ड- एनएसजी द्वारा माउंट एवरेस्ट और माउंट ल्होत्से पर किए गए पर्वतारोहण अभियानों की सफलता के उपलक्ष्य में आयोजित ध्वजारोहण समारोह में भाग लिया। इस अवसर पर राज्&#x200d;यमंत्री ने कहा कि बीएसएफ की सभी महिला पर्वतारोहियों की टीम दुनिया की सबसे ऊंची चोटी पर पहुंची और आकाश में वंदे मातरम् गाकर उन्&#x200d;होंने साहस, देशभक्ति और समर्पण का अनूठा उदाहरण स्&#x200d;थापित किया। श्री राय ने माउंट एवरेस्&#x200d;ट पर पहली बार आईटीबीपी के महिला दस्&#x200d;ते द्वारा अंतर्राष्&#x200d;ट्रीय पर्वतारोहण अभियान पूरा करने पर बधाई दी। उन्&#x200d;होंने एनएसजी के माउंट एवरेस्&#x200d;ट पर्वतारोहण अभियान को शारीरिक और मानसिक सहनशक्ति को आगे बढ़ाने के प्रति बल की प्रतिबद्धता बताया।",
         "date": "2026-07-02",
-        "pubDate": "2026-07-02T07:50:07+00:00",
-        "link": "https://newsonair.gov.in/hi/govt-achieves-milestone-in-conservation-of-indias-wild-rice-genetic-resources/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607023848726.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-02T08:44:01+00:00",
+        "link": "https://newsonair.gov.in/hi/mos-for-home-affairs-nityanand-rai-participates-in-flag-hoisting-ceremony-in-new-delhi/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "कीव पर रूस के ड्रोन और मिसाइल हमले में 13 लोगों की मौत, कई घायल",
-        "summary": "यूक्रेन के कीव में रूस के ड्रोन और मिसाइलों के हमले में 13 लोग मारे गए और कई लोग घायल हो गए। स्थानीय समाचार एजेंसियों ने बताया कि आज शहर के कई हिस्सों में विस्फोटों की आवाज सुनी गई। पूरे शहर में हवाई हमले के सायरन बजे और कई निवासियों ने मेट्रो स्टेशनों में शरण […]",
-        "article": "यूक्रेन के कीव में रूस के ड्रोन और मिसाइलों के हमले में 13 लोग मारे गए और कई लोग घायल हो गए। स्थानीय समाचार एजेंसियों ने बताया कि आज शहर के कई हिस्सों में विस्फोटों की आवाज सुनी गई। पूरे शहर में हवाई हमले के सायरन बजे और कई निवासियों ने मेट्रो स्टेशनों में शरण ली। यह हमले इस सप्ताह की शुरुआत में यूक्रेन द्वारा मॉस्&#x200d;को पर किए गए ड्रोन हमलों के बाद हुए हैं।",
+        "title": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स तथा ए.आई सहित विभिन्न क्षेत्रों में समझौते किए",
+        "summary": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। […]",
+        "article": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। इसके साथ ही पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचार विमर्श किया गया। संयुक्त संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि आज के समय में सामूहिक विश्वास सबसे बड़ी संपत्ति है और भारत-जापान की द्विपक्षीय साझेदारी समय की कसौटी पर खरी उतरी है। उन्होंने कहा कि भारत और जापान आज विश्व की सबसे बड़ी अर्थव्यवस्थाओं में से हैं और एक स्वतंत्र और खुला हिंद-प्रशांत क्षेत्र दोनों देशों की साझा प्राथमिकता है। उन्होंने कहा कि दोनों देश आर्थिक सुरक्षा और ऊर्जा सुरक्षा के महत्व को समझते हैं। उन्होंने कहा कि प्रौद्योगिकी साझेदारी भारत-जापान सहयोग का सबसे महत्वपूर्ण स्तंभ होगा। श्री मोदी ने कहा कि इस परिकल्पना को साकार करने के लिए भारत और जापान ने ए.आई के क्षेत्र में एक संयुक्त वक्तव्य जारी किया है। प्रधानमंत्री ने कहा कि जापान की सटीक प्रौद्योगिकी और भारत की सॉफ्टवेयर क्षमताओं का संगम वैश्विक एआई विकास को नई गति और शक्ति प्रदान करेगा। उन्होंने बताया कि रक्षा क्षेत्र में आज दोनों देशों ने भारत और जापान के बीच पहली सह-विकास परियोजना पर एक समझौते पर हस्ताक्षर किए हैं। प्रधानमंत्री ने कहा कि ऊर्जा सुरक्षा के क्षेत्र में कई महत्वपूर्ण निर्णय लिए गए हैं। उन्होंने कहा कि भारत-जापान जैव-गैस पहल के माध्यम से भारत में एक हजार जैव-गैस और जैविक उर्वरक संयंत्र स्थापित किए जाएंगे। उन्होंने कहा कि इससे भारत के गांवों में स्थिरता, समृद्धि और ग्रामीण आजीविका को नई शक्ति मिलेगी। प्रधानमंत्री ने कहा कि भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक हैं। उन्होंने कहा कि सांस्कृतिक मूल्यों से लेकर आधुनिक प्रौद्योगिकी तक, दोनों देशों की सोच और दृष्टिकोण में समानता है। इससे पहले आज, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया है कि भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
         "date": "2026-07-02",
-        "pubDate": "2026-07-02T07:34:04+00:00",
-        "link": "https://newsonair.gov.in/hi/russian-drone-and-missile-attack-on-kyiv-kills-thirteen-injures-several/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202606183830204.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-02T08:36:33+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-receives-japanese-pm-sanae-takaichi-at-hyderabad-house/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "पाकिस्तान में प्रमुख मानवाधिकार समूहों ने बलूच महिला एक्टिविस्ट की गिरफ़्तारी की निंदा की",
-        "summary": "पाकिस्तान में प्रमुख मानवाधिकार संगठनों ने बलूचिस्तान में पाकिस्तान की सेना द्वारा एक महिला कार्यकर्ता की गिरफ्तारी की कड़ी निंदा की है। मानवाधिकार संगठनों ने इस कार्रवाई को शांतिपूर्ण कार्यकर्ताओं पर बढ़ते दमन और पाकिस्तानी फासीवाद का हिस्सा बताया है। महिला कार्यकर्ता को कल पाकिस्तान के आतंकवाद-विरोधी विभाग ने केच जिले में उनके आवास से […]",
-        "article": "पाकिस्तान में प्रमुख मानवाधिकार संगठनों ने बलूचिस्तान में पाकिस्तान की सेना द्वारा एक महिला कार्यकर्ता की गिरफ्तारी की कड़ी निंदा की है। मानवाधिकार संगठनों ने इस कार्रवाई को शांतिपूर्ण कार्यकर्ताओं पर बढ़ते दमन और पाकिस्तानी फासीवाद का हिस्सा बताया है। महिला कार्यकर्ता को कल पाकिस्तान के आतंकवाद-विरोधी विभाग ने केच जिले में उनके आवास से बिना किसी कानूनी औचित्य के गिरफ्तार किया था।",
+        "title": "कनाडा में मौसम का कहर, कहीं भीषण गर्मी तो कहीं गंभीर बाढ़ का प्रकोप",
+        "summary": "कनाडा के अधिकतर क्षेत्रों में भीषण गर्मी का प्रकोप जारी है। वहीं, कुछ क्षेत्रों में बारिश और बाढ़ की समस्या बनी हुई है। ओंटारियो, क्यूबेक, प्रेयरीज़ और नॉर्थवेस्ट टेरिटरीज़ के कुछ हिस्सों के लिए गर्मी की चेतावनी जारी की गई है। अधिकारियों ने लोगों को पर्याप्त मात्रा में पानी पीने, बाहरी गतिविधियों से बचने और […]",
+        "article": "कनाडा के अधिकतर क्षेत्रों में भीषण गर्मी का प्रकोप जारी है। वहीं, कुछ क्षेत्रों में बारिश और बाढ़ की समस्या बनी हुई है। ओंटारियो, क्यूबेक, प्रेयरीज़ और नॉर्थवेस्ट टेरिटरीज़ के कुछ हिस्सों के लिए गर्मी की चेतावनी जारी की गई है। अधिकारियों ने लोगों को पर्याप्त मात्रा में पानी पीने, बाहरी गतिविधियों से बचने और वरिष्ठ नागरिकों तथा बच्चों का ध्यान रखने की सलाह दी है।",
         "date": "2026-07-02",
-        "pubDate": "2026-07-02T07:33:37+00:00",
-        "link": "https://newsonair.gov.in/hi/rights-groups-condemn-arrest-of-baloch-activist-decry-pakistani-fascism/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607023848644.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने व्हाट्सएप के यूजरनेम फीचर से जुड़े मामले में मेटा को नोटिस जारी किया",
-        "summary": "सरकार ने भारत में व्‍हाट्सएप पर यूजरनेम फीचर की शुरुआत करने के मामले में मेटा को नोटिस जारी किया है। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सूत्रों के अनुसार, सरकार ने विस्‍तृत जानकारी तीन दिन के भीतर उपलब्ध कराने को कहा है।",
-        "article": "सरकार ने भारत में व्&#x200d;हाट्सएप पर यूजरनेम फीचर की शुरुआत करने के मामले में मेटा को नोटिस जारी किया है। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सूत्रों के अनुसार, सरकार ने विस्&#x200d;तृत जानकारी तीन दिन के भीतर उपलब्ध कराने को कहा है।",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T02:16:47+00:00",
-        "link": "https://newsonair.gov.in/hi/government-to-examine-anonymity-concerns-related-to-whatsapps-username-feature/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/whatsapp.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "स्वास्थ्य मंत्री जेपी नड्डा ने डेंगू की तैयारियों पर एक उच्च स्तरीय समीक्षा बैठक की",
-        "summary": "स्वास्थ्य मंत्री जगत प्रकाश नड्डा ने कल दिल्ली में डेंगू की तैयारियों पर एक समीक्षा बैठक की। उन्होंने इस बात पर जोर दिया कि राज्य और नगर निकाय, डेंगू के मामलों में संभावित वृद्धि से निपटने के लिए तैयार रहें। उन्होंने राज्यों से अनुरोध किया कि वे जागरूकता और रोकथाम प्रयासों में वार्ड आयुक्तों, निर्वाचित […]",
-        "article": "स्वास्थ्य मंत्री जगत प्रकाश नड्डा ने कल दिल्ली में डेंगू की तैयारियों पर एक समीक्षा बैठक की। उन्होंने इस बात पर जोर दिया कि राज्य और नगर निकाय, डेंगू के मामलों में संभावित वृद्धि से निपटने के लिए तैयार रहें। उन्होंने राज्यों से अनुरोध किया कि वे जागरूकता और रोकथाम प्रयासों में वार्ड आयुक्तों, निर्वाचित प्रतिनिधियों और रेजिडेंट वेलफेयर एसोसिएशन को शामिल करें।",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T01:48:33+00:00",
-        "link": "https://newsonair.gov.in/hi/health-minister-jagat-prakash-nadda-chaired-a-high-level-review-meeting-on-dengue-preparedness/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMJiOn4b0AA3o-6-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "हेलीकॉप्टर ऑपरेशन के लिए देश की पहली स्वदेशी ‘पिन्‍स’ प्रक्रिया को मंज़ूरी",
-        "summary": "देश में पहली बार, आंध्रप्रदेश के उंडवल्ली हेलीपोर्ट पर हेलीकॉप्‍टर उड़ान के लिए पहली निजी प्‍वाइंट-इन-स्‍पेस यानी पिन्‍स व्यवस्था को मंज़ूरी दी गई है। इस व्यवस्था में उन्‍नत उपग्रह तकनीक का इस्‍तेमाल किया जाता है। इससे उन हेलीपोर्ट पर हेलीकॉप्‍टर के सुरक्षित संचालन में मदद मिलेगी जहां लैंडिंग के लिए पारंपरिक व्यवस्था नहीं है। […]",
-        "article": "देश में पहली बार, आंध्रप्रदेश के उंडवल्ली हेलीपोर्ट पर हेलीकॉप्&#x200d;टर उड़ान के लिए पहली निजी प्&#x200d;वाइंट-इन-स्&#x200d;पेस यानी पिन्&#x200d;स व्यवस्था को मंज़ूरी दी गई है। इस व्यवस्था में उन्&#x200d;नत उपग्रह तकनीक का इस्&#x200d;तेमाल किया जाता है। इससे उन हेलीपोर्ट पर हेलीकॉप्&#x200d;टर के सुरक्षित संचालन में मदद मिलेगी जहां लैंडिंग के लिए पारंपरिक व्यवस्था नहीं है। नागर विमानन मंत्रालय ने कहा कि पिन्&#x200d;स प्रक्रिया ख़राब मौसम और जमीनी नेविगेशन सहायता उपलब्&#x200d;ध न होने की स्थिति में विशेष उपयोगी है। इसका विकास भारतीय विमानपत्&#x200d;तन प्राधिकरण ने किया है। नागर विमानन मंत्री राम मोहन नायडू ने कहा कि इस उपलब्धि के साथ ही देश में सुरक्षित उड़ान, प्रचालन दक्षता और हर मौसम में हेलीकॉप्&#x200d;टर उड़ान के एक नए युग की शुरुआत हो रही है। इससे देश के दूसरे हेलीपोर्ट पर भी पिन्&#x200d;स प्रक्रिया अपनाने का मार्ग प्रशस्&#x200d;त होगा।",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T01:47:45+00:00",
-        "link": "https://newsonair.gov.in/hi/india-approves-first-indigenous-pins-procedure-for-helicopter-operations/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260625182f.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेन्द्र मोदी ने कहा- वह जापान की प्रधानमंत्री सनाए ताकाइची के साथ कल होने वाली वार्ता को लेकर उत्सुक हैं",
-        "summary": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि वह जापान की प्रधानमंत्री सनाए ताकाइची के साथ कल होने वाली वार्ता को लेकर उत्सुक हैं। उन्होंने कहा कि इस बैठक से भारत-जापान की विशेष रणनीतिक और वैश्विक साझेदारी को और मजबूती मिलेगी। उन्होंने यह भी कहा कि भारत और जापान मिलकर हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और […]",
-        "article": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि वह जापान की प्रधानमंत्री सनाए ताकाइची के साथ कल होने वाली वार्ता को लेकर उत्सुक हैं। उन्होंने कहा कि इस बैठक से भारत-जापान की विशेष रणनीतिक और वैश्विक साझेदारी को और मजबूती मिलेगी। उन्होंने यह भी कहा कि भारत और जापान मिलकर हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और समृद्धि को बढ़ावा देने के लिए साथ काम करते रहेंगे।",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T16:55:10+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-said-he-is-looking-forward-to-his-talks-with-japanese-prime-minister-sanae-takaichi-tomorrow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMJgU25boAITVWg-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "यूक्रेनी सेना ने एक सप्ताह में दूसरी बार रूस की प्रमुख ऊफ़ा तेल रिफाइनरी पर किया हमला",
-        "summary": "यूक्रेनी सेना ने एक सप्ताह में दूसरी बार रूस की प्रमुख ऊफ़ा तेल रिफाइनरी पर हमला किया। यूक्रेन के राष्ट्रपति वलोडिमिर ज़ेलेंस्की ने आज कहा कि यूक्रेन ने मॉस्को के दक्षिण-पूर्व में रूस के पेन्ज़ा क्षेत्र में मिसाइल घटकों का विनिर्माण करने वाले एक संयंत्र पर भी हमला किया है। ज़ेलेंस्की ने सोशल मीडिया पर […]",
-        "article": "यूक्रेनी सेना ने एक सप्ताह में दूसरी बार रूस की प्रमुख ऊफ़ा तेल रिफाइनरी पर हमला किया। यूक्रेन के राष्ट्रपति वलोडिमिर ज़ेलेंस्की ने आज कहा कि यूक्रेन ने मॉस्को के दक्षिण-पूर्व में रूस के पेन्ज़ा क्षेत्र में मिसाइल घटकों का विनिर्माण करने वाले एक संयंत्र पर भी हमला किया है। ज़ेलेंस्की ने सोशल मीडिया पर बताया कि ऊफ़ा रिफाइनरी रूस के सबसे बड़े लु्ब्रिकेंट उत्पादकों में से एक है और यूक्रेन से एक हजार किलोमीटर से अधिक दूरी पर स्थित है। यूक्रेन ने दावा किया कि ड्रोन हमलों ने रूसी बढ़त को धीमा कर दिया है। रूसी अधिकारियों ने हमलों की पुष्टि नहीं की। रूसी रक्षा मंत्रालय ने 16 रूसी क्षेत्रों, क्रीमिया और आज़ोव सागर और काला सागर के जलक्षेत्र में 179 यूक्रेनी ड्रोनों को रोकने की सूचना दी।",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T16:24:48+00:00",
-        "link": "https://newsonair.gov.in/hi/ukrainian-forces-attacked-russias-major-ufa-oil-refinery-for-the-second-time-in-a-week/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "बेलारूस के राष्ट्रपति अलेक्जेंडर लुकाशेंको ने 28 राजनीतिक कैदियों को किया क्षमा",
-        "summary": "बेलारूस के राष्ट्रपति अलेक्जेंडर लुकाशेंको ने आज 28 राजनीतिक कैदियों को क्षमा कर दिया, जो पश्चिमी देशों के साथ संबंध सुधारने के उनके प्रयासों का हिस्सा है। 3 जुलाई को मनाए जाने वाले देश के स्वतंत्रता दिवस के अवसर पर जारी एक फरमान में घोषणा की गई कि आतंकी अपराधों के लिए जेल में सजा […]",
-        "article": "बेलारूस के राष्ट्रपति अलेक्जेंडर लुकाशेंको ने आज 28 राजनीतिक कैदियों को क्षमा कर दिया, जो पश्चिमी देशों के साथ संबंध सुधारने के उनके प्रयासों का हिस्सा है। 3 जुलाई को मनाए जाने वाले देश के स्वतंत्रता दिवस के अवसर पर जारी एक फरमान में घोषणा की गई कि आतंकी अपराधों के लिए जेल में सजा काट रहे 28 दोषियों को मानवीय आधार पर क्षमा कर दिया गया है। लुकाशेंको ने 95 लाख की आबादी वाले इस देश पर तीन दशकों से अधिक समय तक कठोर शासन किया है। लुकाशेंको द्वारा मानवाधिकारों के दमन और 2022 में यूक्रेन पर आक्रमण के लिए रूस को अपनी भूमि का उपयोग करने की अनुमति देने के कारण, पश्चिमी देशों ने बेलारूस पर बार-बार प्रतिबंध लगाए गए हैं।",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T16:15:56+00:00",
-        "link": "https://newsonair.gov.in/hi/belarus-president-alexander-lukashenko-pardons-28-political-prisoners/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पीओके में संवैधानिक अधिकारों की मांग को लेकर प्रदर्शन",
-        "summary": "पाकिस्‍तान के कब्‍जे वाले कश्‍मीर-पीओके में संवैधानिक अधिकारों की मांग को लेकर विरोध प्रदर्शन कर रहे लोगों को कड़ी कार्रवाई का सामना करना पड़ रहा है। एथेंस स्थित संस्‍था डायरेक्टस की एक रिपोर्ट में कहा गया है कि पाकिस्तान के सुरक्षा बल प्रदर्शनकारियों के साथ अमानवीय व्यवहार कर रहे हैं। रिपोर्ट में कहा गया है […]",
-        "article": "पाकिस्&#x200d;तान के कब्&#x200d;जे वाले कश्&#x200d;मीर-पीओके में संवैधानिक अधिकारों की मांग को लेकर विरोध प्रदर्शन कर रहे लोगों को कड़ी कार्रवाई का सामना करना पड़ रहा है। एथेंस स्थित संस्&#x200d;था डायरेक्टस की एक रिपोर्ट में कहा गया है कि पाकिस्तान के सुरक्षा बल प्रदर्शनकारियों के साथ अमानवीय व्यवहार कर रहे हैं। रिपोर्ट में कहा गया है कि पाकिस्&#x200d;तान ने पीओके में सड़क, प्रशासनिक नाकाबंदी, संचार सेवाओं प्रतिबंध और आजीविका को प्रभावित करने वाले कदम उठाए हैं। रिपोर्ट के अनुसार पाकिस्&#x200d;तान सरकार और सेना, पीओके के लोगों की आवाज दबाने का प्रयास कर रही है और इसके लिए पूरे क्षेत्र में व्&#x200d;यापक नाकाबंदी कर दी गई है। इस नाकाबंदी के कारण आवश्यक खाद्य पदार्थों और जीवन रक्षक दवाओं की भारी कमी हो गई है और स्थानीय आजीविका बुरी तरह प्रभावित हुई है।",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T15:34:09+00:00",
-        "link": "https://newsonair.gov.in/hi/protests-in-pok-demanding-constitutional-rights/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "जापान की प्रधानमंत्री सनाए ताकाइची भारत की तीन दिन की यात्रा पर नई दिल्ली पहुंचीं",
-        "summary": "जापान की प्रधानमंत्री सनाए ताकाइची भारत की तीन दिन की यात्रा पर आज शाम नई दिल्ली पहुंचीं। प्रधानमंत्री ताकाइची का स्वागत राज्य मंत्री डॉ. जितेंद्र सिंह ने किया। प्रधानमंत्री ताकाइची की यह भारत की पहली आधिकारिक यात्रा है। वे कल प्रधानमंत्री नरेन्द्र मोदी के साथ 16वें भारत-जापान वार्षिक शिखर सम्मेलन में भाग लेंगी। यह शिखर […]",
-        "article": "जापान की प्रधानमंत्री सनाए ताकाइची भारत की तीन दिन की यात्रा पर आज शाम नई दिल्ली पहुंचीं। प्रधानमंत्री ताकाइची का स्वागत राज्य मंत्री डॉ. जितेंद्र सिंह ने किया। प्रधानमंत्री ताकाइची की यह भारत की पहली आधिकारिक यात्रा है। वे कल प्रधानमंत्री नरेन्द्र मोदी के साथ 16वें भारत-जापान वार्षिक शिखर सम्मेलन में भाग लेंगी। यह शिखर सम्मेलन दोनों पक्षों को द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा और सुदृढ़ीकरण करने के साथ-साथ पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचारों का आदान-प्रदान करने का अवसर प्रदान करेगा। प्रधानमंत्री मोदी और जापानी प्रधानमंत्री के बीच वार्ता के बाद कई समझौता ज्ञापनों पर हस्ताक्षर होने की उम्मीद है। विदेश मंत्रालय ने कहा कि यह यात्रा भारत और जापान के बीच विशेष कार्यनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया है कि जापान एकमात्र ऐसा देश है जिसके साथ भारत का पूर्वोत्तर के विकास के लिए एक समर्पित संस्थागत तंत्र है, जिसे भारत-जापान एक्ट ईस्ट फोरम के रूप से जाना जाता है।",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T15:02:26+00:00",
-        "link": "https://newsonair.gov.in/hi/japanese-prime-minister-sanae-takaichi-arrives-in-new-delhi-on-a-three-day-visit-to-india/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMJiPdZbsAAgZhL.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-02T08:16:41+00:00",
+        "link": "https://newsonair.gov.in/hi/canada-hit-by-extreme-weather-with-heatwave-and-severe-flooding/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1152,7 +1064,94 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T07:54:10+00:00",
         "link": "https://newsonair.gov.in/hi/unga-again-urges-adoption-of-terrorism-convention-proposed-by-india/",
-        "post_id": 1714498,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "एनआरएए की वित्तपोषित जंगली धान संरक्षण परियोजना ने असम में महत्वपूर्ण उपलब्धि हासिल की",
+        "summary": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) […]",
+        "article": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) के संरक्षण और प्रबंधन नामक इस परियोजना का उद्देश्य चावल को उसके प्राकृतिक आवास में संरक्षित करना है। यह मान्यता भारत की समृद्ध चावल विविधता के संरक्षण और जलवायु परिवर्तन के अनुकूल कृषि को बढ़ावा देने की दिशा में एक महत्वपूर्ण कदम है। कृषि और किसान कल्याण मंत्रालय ने बताया कि यह परियोजना 2022 से कार्यान्वित की जा रही है। इसे आईसीएआर-राष्ट्रीय पादप आनुवंशिक संसाधन ब्यूरो, नई दिल्ली द्वारा असम राज्य जैव विविधता बोर्ड के सहयोग से संचालित किया जा रहा है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T07:50:07+00:00",
+        "link": "https://newsonair.gov.in/hi/govt-achieves-milestone-in-conservation-of-indias-wild-rice-genetic-resources/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कीव पर रूस के ड्रोन और मिसाइल हमले में 13 लोगों की मौत, कई घायल",
+        "summary": "यूक्रेन के कीव में रूस के ड्रोन और मिसाइलों के हमले में 13 लोग मारे गए और कई लोग घायल हो गए। स्थानीय समाचार एजेंसियों ने बताया कि आज शहर के कई हिस्सों में विस्फोटों की आवाज सुनी गई। पूरे शहर में हवाई हमले के सायरन बजे और कई निवासियों ने मेट्रो स्टेशनों में शरण […]",
+        "article": "यूक्रेन के कीव में रूस के ड्रोन और मिसाइलों के हमले में 13 लोग मारे गए और कई लोग घायल हो गए। स्थानीय समाचार एजेंसियों ने बताया कि आज शहर के कई हिस्सों में विस्फोटों की आवाज सुनी गई। पूरे शहर में हवाई हमले के सायरन बजे और कई निवासियों ने मेट्रो स्टेशनों में शरण ली। यह हमले इस सप्ताह की शुरुआत में यूक्रेन द्वारा मॉस्&#x200d;को पर किए गए ड्रोन हमलों के बाद हुए हैं।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T07:34:04+00:00",
+        "link": "https://newsonair.gov.in/hi/russian-drone-and-missile-attack-on-kyiv-kills-thirteen-injures-several/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "पाकिस्तान में प्रमुख मानवाधिकार समूहों ने बलूच महिला एक्टिविस्ट की गिरफ़्तारी की निंदा की",
+        "summary": "पाकिस्तान में प्रमुख मानवाधिकार संगठनों ने बलूचिस्तान में पाकिस्तान की सेना द्वारा एक महिला कार्यकर्ता की गिरफ्तारी की कड़ी निंदा की है। मानवाधिकार संगठनों ने इस कार्रवाई को शांतिपूर्ण कार्यकर्ताओं पर बढ़ते दमन और पाकिस्तानी फासीवाद का हिस्सा बताया है। महिला कार्यकर्ता को कल पाकिस्तान के आतंकवाद-विरोधी विभाग ने केच जिले में उनके आवास से […]",
+        "article": "पाकिस्तान में प्रमुख मानवाधिकार संगठनों ने बलूचिस्तान में पाकिस्तान की सेना द्वारा एक महिला कार्यकर्ता की गिरफ्तारी की कड़ी निंदा की है। मानवाधिकार संगठनों ने इस कार्रवाई को शांतिपूर्ण कार्यकर्ताओं पर बढ़ते दमन और पाकिस्तानी फासीवाद का हिस्सा बताया है। महिला कार्यकर्ता को कल पाकिस्तान के आतंकवाद-विरोधी विभाग ने केच जिले में उनके आवास से बिना किसी कानूनी औचित्य के गिरफ्तार किया था।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T07:33:37+00:00",
+        "link": "https://newsonair.gov.in/hi/rights-groups-condemn-arrest-of-baloch-activist-decry-pakistani-fascism/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संयुक्त राष्ट्र में आतंकवाद के खिलाफ एकजुट वैश्विक कार्रवाई का आह्वान किया",
+        "summary": "भारत ने अपने संकल्‍प को दोहराते हुए कहा कि आतंकवाद को किसी भी परिस्थिति में उचित नहीं ठहराया जा सकता है। आतंकवाद को खत्म करने के लिए एकजुट वैश्विक कार्रवाई का भारत ने आह्वान किया है। यह बात संयुक्त राष्ट्र की वैश्विक आतंकवाद-विरोधी रणनीति की नौवीं समीक्षा में संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि […]",
+        "article": "भारत ने अपने संकल्&#x200d;प को दोहराते हुए कहा कि आतंकवाद को किसी भी परिस्थिति में उचित नहीं ठहराया जा सकता है। आतंकवाद को खत्म करने के लिए एकजुट वैश्विक कार्रवाई का भारत ने आह्वान किया है। यह बात संयुक्त राष्ट्र की वैश्विक आतंकवाद-विरोधी रणनीति की नौवीं समीक्षा में संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि हरीश परवथानेनी ने कही। उन्&#x200d;होंने कहा कि आतंकवादी, आतंकवादी ही होते हैं और आतंकरोधी प्रयासों को झूठी तुलनाओं या राजनीतिक बयानों से कमजोर नहीं किया जाना चाहिए। श्री परवथानेनी ने कहा कि भारत दशकों से सीमा पार आतंकवाद का शिकार होता रहा है और इसलिए मानता है कि आतंकवाद के सभी रूपों की स्पष्ट रूप से निंदा की जानी चाहिए। उन्होंने कहा कि आतंकरोधी उपायों में कोई दोहरा मापदंड नहीं होना चाहिए और सदस्य देशों से आतंकवादियों, वित्तपोषकों और प्रायोजकों को जवाबदेह ठहराना चाहिए। श्री परवथानेनी ने भारत की अपील पर अंतरराष्ट्रीय आतंकवाद पर व्यापक सम्मेलन को जल्द अपनाने को दोहराया और कहा कि प्रभावी वैश्विक सहयोग के लिए एक सार्वभौमिक कानूनी ढांचा आवश्यक है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T06:48:38+00:00",
+        "link": "https://newsonair.gov.in/hi/india-calls-for-united-global-action-against-terrorism-at-united-nations/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्र ने कर्मचारी भविष्य निधि-ईपीएफ योजना 2026 अधिसूचित की, 29 जून से लागू",
+        "summary": "केंद्र सरकार ने कर्मचारी भविष्य निधि-ई.पी.एफ. योजना 2026 को अधिसूचित कर दिया है। यह योजना 29 जून से प्रभावी हो गई है। नई योजना 1952 की कर्मचारी भविष्य निधि स्कीम का स्थान लेगी। इस योजना का उद्देश्य डिजिटल अनुपालन को मजबूत करना, प्रशासनिक दक्षता में सुधार करना, खातों के स्थानांतरण को आसान बढ़ाना और […]",
+        "article": "केंद्र सरकार ने कर्मचारी भविष्य निधि-ई.पी.एफ. योजना 2026 को अधिसूचित कर दिया है। यह योजना 29 जून से प्रभावी हो गई है। नई योजना 1952 की कर्मचारी भविष्य निधि स्कीम का स्थान लेगी। इस योजना का उद्देश्य डिजिटल अनुपालन को मजबूत करना, प्रशासनिक दक्षता में सुधार करना, खातों के स्थानांतरण को आसान बढ़ाना और भविष्य निधि ढांचे को नए श्रम कानून के अनुरूप बनाना है। नई योजना में, अनिवार्य ई.पी.एफ. अंशदान कर्मचारी और नियोक्ता दोनों के वेतन का 12 प्रतिशत बना रहेगा। केंद्र सरकार द्वारा अधिसूचित प्रतिष्ठानों पर मौजूदा 10 प्रतिशत की दर लागू रहेगी। योजना में आंशिक निकासी के नियमों को भी अद्यतन किया गया है। योजना में पारदर्शिता में सुधार और भविष्य निधि प्रबंधन को अधिक कुशल बनाने के लिए इलेक्ट्रॉनिक फाइलिंग, ऑनलाइन दावों, ई-पासबुक और यूनिवर्सल खाता संख्या से जोड़ने पर भी जोर दिया गया है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T03:23:39+00:00",
+        "link": "https://newsonair.gov.in/hi/centre-notifies-epf-scheme-2026-effective-from-june-29/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने व्हाट्सएप के यूजरनेम फीचर से जुड़े मामले में मेटा को नोटिस जारी किया",
+        "summary": "सरकार ने भारत में व्‍हाट्सएप पर यूजरनेम फीचर की शुरुआत करने के मामले में मेटा को नोटिस जारी किया है। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सूत्रों के अनुसार, सरकार ने विस्‍तृत जानकारी तीन दिन के भीतर उपलब्ध कराने को कहा है।",
+        "article": "सरकार ने भारत में व्&#x200d;हाट्सएप पर यूजरनेम फीचर की शुरुआत करने के मामले में मेटा को नोटिस जारी किया है। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सूत्रों के अनुसार, सरकार ने विस्&#x200d;तृत जानकारी तीन दिन के भीतर उपलब्ध कराने को कहा है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T02:16:47+00:00",
+        "link": "https://newsonair.gov.in/hi/government-to-examine-anonymity-concerns-related-to-whatsapps-username-feature/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत और मलेशिया ने 12वीं उप-समिति की बैठक के दौरान द्विपक्षीय सैन्य सहयोग के पहलुओं की समीक्षा की",
+        "summary": "भारत और मलेशिया ने कल नई दिल्ली में आपसी सैन्य सहयोग की समीक्षा की। रक्षा मंत्रालय ने बताया कि बैठक में, दोनों पक्षों ने हिंद-प्रशांत क्षेत्र में शांति, सुरक्षा और मुक्त आवाजाही को लेकर प्रतिबद्धता दुहराई। 12वीं उप-समिति की बैठक में दोनों देशों के बीच मौजूदा रक्षा पहलों, सैन्य संपर्क, द्विपक्षीय अभ्यास, प्रशिक्षण, क्षमता निर्माण, […]",
+        "article": "भारत और मलेशिया ने कल नई दिल्ली में आपसी सैन्य सहयोग की समीक्षा की। रक्षा मंत्रालय ने बताया कि बैठक में, दोनों पक्षों ने हिंद-प्रशांत क्षेत्र में शांति, सुरक्षा और मुक्त आवाजाही को लेकर प्रतिबद्धता दुहराई। 12वीं उप-समिति की बैठक में दोनों देशों के बीच मौजूदा रक्षा पहलों, सैन्य संपर्क, द्विपक्षीय अभ्यास, प्रशिक्षण, क्षमता निर्माण, समुद्री तथा अन्य उभरते क्षेत्रों में सहयोग पर चर्चा हुई। बैठक में, विश्वास व्यक्त किया गया कि दोनों पक्षों की चर्चा से आगामी भारत-मलेशिया रक्षा सहयोग बैठक की ठोस आधारशिला तैयार होगी। मलेशियाई शिष्टमंडल ने रक्षा सचिव राजेश कुामर सिंह से मुलाकात की और दिल्ली के विश्व व्यापार केंद्र में रक्षा सार्वजनिक क्षेत्र उपक्रम भवन का दौरा भी किया। भारत-मलेशिया उप-समिति दोनों देशों के बीच सैन्य संपर्क का मंच है। इसका आयोजन दोनों देशों के रक्षा सचिवों की बैठक से ठीक पहले किया जाता है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T01:57:35+00:00",
+        "link": "https://newsonair.gov.in/hi/india-and-malaysia-review-aspects-of-bilateral-military-cooperation-during-the-12th-sub-committee-meeting-in-new-delhi/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "स्वास्थ्य मंत्री जेपी नड्डा ने डेंगू की तैयारियों पर एक उच्च स्तरीय समीक्षा बैठक की",
+        "summary": "स्वास्थ्य मंत्री जगत प्रकाश नड्डा ने कल दिल्ली में डेंगू की तैयारियों पर एक समीक्षा बैठक की। उन्होंने इस बात पर जोर दिया कि राज्य और नगर निकाय, डेंगू के मामलों में संभावित वृद्धि से निपटने के लिए तैयार रहें। उन्होंने राज्यों से अनुरोध किया कि वे जागरूकता और रोकथाम प्रयासों में वार्ड आयुक्तों, निर्वाचित […]",
+        "article": "स्वास्थ्य मंत्री जगत प्रकाश नड्डा ने कल दिल्ली में डेंगू की तैयारियों पर एक समीक्षा बैठक की। उन्होंने इस बात पर जोर दिया कि राज्य और नगर निकाय, डेंगू के मामलों में संभावित वृद्धि से निपटने के लिए तैयार रहें। उन्होंने राज्यों से अनुरोध किया कि वे जागरूकता और रोकथाम प्रयासों में वार्ड आयुक्तों, निर्वाचित प्रतिनिधियों और रेजिडेंट वेलफेयर एसोसिएशन को शामिल करें।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T01:48:33+00:00",
+        "link": "https://newsonair.gov.in/hi/health-minister-jagat-prakash-nadda-chaired-a-high-level-review-meeting-on-dengue-preparedness/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1160,58 +1159,25 @@ window.VM_NEWS = {
     ],
     "breaking": [
       {
-        "title": "एनआरएए की वित्तपोषित जंगली धान संरक्षण परियोजना ने असम में महत्वपूर्ण उपलब्धि हासिल की",
-        "summary": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) […]",
-        "article": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) के संरक्षण और प्रबंधन नामक इस परियोजना का उद्देश्य चावल को उसके प्राकृतिक आवास में संरक्षित करना है। यह मान्यता भारत की समृद्ध चावल विविधता के संरक्षण और जलवायु परिवर्तन के अनुकूल कृषि को बढ़ावा देने की दिशा में एक महत्वपूर्ण कदम है। कृषि और किसान कल्याण मंत्रालय ने बताया कि यह परियोजना 2022 से कार्यान्वित की जा रही है। इसे आईसीएआर-राष्ट्रीय पादप आनुवंशिक संसाधन ब्यूरो, नई दिल्ली द्वारा असम राज्य जैव विविधता बोर्ड के सहयोग से संचालित किया जा रहा है।",
+        "title": "गृह राज्‍य मंत्री नित्‍यानंद राय ने नई दिल्ली में आयोजित ध्वजारोहण समारोह में भाग लिया",
+        "summary": "गृह राज्‍य मंत्री नित्‍यानंद राय ने आज नई दिल्ली में सीमा सुरक्षा बल- बीएसएफ, भारत-तिब्बत सीमा पुलिस- आईटीबीपी और राष्ट्रीय सुरक्षा गार्ड- एनएसजी द्वारा माउंट एवरेस्ट और माउंट ल्होत्से पर किए गए पर्वतारोहण अभियानों की सफलता के उपलक्ष्य में आयोजित ध्वजारोहण समारोह में भाग लिया। इस अवसर पर राज्‍यमंत्री ने कहा कि बीएसएफ की […]",
+        "article": "गृह राज्&#x200d;य मंत्री नित्&#x200d;यानंद राय ने आज नई दिल्ली में सीमा सुरक्षा बल- बीएसएफ, भारत-तिब्बत सीमा पुलिस- आईटीबीपी और राष्ट्रीय सुरक्षा गार्ड- एनएसजी द्वारा माउंट एवरेस्ट और माउंट ल्होत्से पर किए गए पर्वतारोहण अभियानों की सफलता के उपलक्ष्य में आयोजित ध्वजारोहण समारोह में भाग लिया। इस अवसर पर राज्&#x200d;यमंत्री ने कहा कि बीएसएफ की सभी महिला पर्वतारोहियों की टीम दुनिया की सबसे ऊंची चोटी पर पहुंची और आकाश में वंदे मातरम् गाकर उन्&#x200d;होंने साहस, देशभक्ति और समर्पण का अनूठा उदाहरण स्&#x200d;थापित किया। श्री राय ने माउंट एवरेस्&#x200d;ट पर पहली बार आईटीबीपी के महिला दस्&#x200d;ते द्वारा अंतर्राष्&#x200d;ट्रीय पर्वतारोहण अभियान पूरा करने पर बधाई दी। उन्&#x200d;होंने एनएसजी के माउंट एवरेस्&#x200d;ट पर्वतारोहण अभियान को शारीरिक और मानसिक सहनशक्ति को आगे बढ़ाने के प्रति बल की प्रतिबद्धता बताया।",
         "date": "2026-07-02",
-        "pubDate": "2026-07-02T07:50:07+00:00",
-        "link": "https://newsonair.gov.in/hi/govt-achieves-milestone-in-conservation-of-indias-wild-rice-genetic-resources/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607023848726.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-02T08:44:01+00:00",
+        "link": "https://newsonair.gov.in/hi/mos-for-home-affairs-nityanand-rai-participates-in-flag-hoisting-ceremony-in-new-delhi/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "सरकार ने व्हाट्सएप के यूजरनेम फीचर से जुड़े मामले में मेटा को नोटिस जारी किया",
-        "summary": "सरकार ने भारत में व्‍हाट्सएप पर यूजरनेम फीचर की शुरुआत करने के मामले में मेटा को नोटिस जारी किया है। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सूत्रों के अनुसार, सरकार ने विस्‍तृत जानकारी तीन दिन के भीतर उपलब्ध कराने को कहा है।",
-        "article": "सरकार ने भारत में व्&#x200d;हाट्सएप पर यूजरनेम फीचर की शुरुआत करने के मामले में मेटा को नोटिस जारी किया है। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सूत्रों के अनुसार, सरकार ने विस्&#x200d;तृत जानकारी तीन दिन के भीतर उपलब्ध कराने को कहा है।",
+        "title": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स तथा ए.आई सहित विभिन्न क्षेत्रों में समझौते किए",
+        "summary": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। […]",
+        "article": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। इसके साथ ही पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचार विमर्श किया गया। संयुक्त संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि आज के समय में सामूहिक विश्वास सबसे बड़ी संपत्ति है और भारत-जापान की द्विपक्षीय साझेदारी समय की कसौटी पर खरी उतरी है। उन्होंने कहा कि भारत और जापान आज विश्व की सबसे बड़ी अर्थव्यवस्थाओं में से हैं और एक स्वतंत्र और खुला हिंद-प्रशांत क्षेत्र दोनों देशों की साझा प्राथमिकता है। उन्होंने कहा कि दोनों देश आर्थिक सुरक्षा और ऊर्जा सुरक्षा के महत्व को समझते हैं। उन्होंने कहा कि प्रौद्योगिकी साझेदारी भारत-जापान सहयोग का सबसे महत्वपूर्ण स्तंभ होगा। श्री मोदी ने कहा कि इस परिकल्पना को साकार करने के लिए भारत और जापान ने ए.आई के क्षेत्र में एक संयुक्त वक्तव्य जारी किया है। प्रधानमंत्री ने कहा कि जापान की सटीक प्रौद्योगिकी और भारत की सॉफ्टवेयर क्षमताओं का संगम वैश्विक एआई विकास को नई गति और शक्ति प्रदान करेगा। उन्होंने बताया कि रक्षा क्षेत्र में आज दोनों देशों ने भारत और जापान के बीच पहली सह-विकास परियोजना पर एक समझौते पर हस्ताक्षर किए हैं। प्रधानमंत्री ने कहा कि ऊर्जा सुरक्षा के क्षेत्र में कई महत्वपूर्ण निर्णय लिए गए हैं। उन्होंने कहा कि भारत-जापान जैव-गैस पहल के माध्यम से भारत में एक हजार जैव-गैस और जैविक उर्वरक संयंत्र स्थापित किए जाएंगे। उन्होंने कहा कि इससे भारत के गांवों में स्थिरता, समृद्धि और ग्रामीण आजीविका को नई शक्ति मिलेगी। प्रधानमंत्री ने कहा कि भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक हैं। उन्होंने कहा कि सांस्कृतिक मूल्यों से लेकर आधुनिक प्रौद्योगिकी तक, दोनों देशों की सोच और दृष्टिकोण में समानता है। इससे पहले आज, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया है कि भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
         "date": "2026-07-02",
-        "pubDate": "2026-07-02T02:16:47+00:00",
-        "link": "https://newsonair.gov.in/hi/government-to-examine-anonymity-concerns-related-to-whatsapps-username-feature/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/whatsapp.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "स्वास्थ्य मंत्री जेपी नड्डा ने डेंगू की तैयारियों पर एक उच्च स्तरीय समीक्षा बैठक की",
-        "summary": "स्वास्थ्य मंत्री जगत प्रकाश नड्डा ने कल दिल्ली में डेंगू की तैयारियों पर एक समीक्षा बैठक की। उन्होंने इस बात पर जोर दिया कि राज्य और नगर निकाय, डेंगू के मामलों में संभावित वृद्धि से निपटने के लिए तैयार रहें। उन्होंने राज्यों से अनुरोध किया कि वे जागरूकता और रोकथाम प्रयासों में वार्ड आयुक्तों, निर्वाचित […]",
-        "article": "स्वास्थ्य मंत्री जगत प्रकाश नड्डा ने कल दिल्ली में डेंगू की तैयारियों पर एक समीक्षा बैठक की। उन्होंने इस बात पर जोर दिया कि राज्य और नगर निकाय, डेंगू के मामलों में संभावित वृद्धि से निपटने के लिए तैयार रहें। उन्होंने राज्यों से अनुरोध किया कि वे जागरूकता और रोकथाम प्रयासों में वार्ड आयुक्तों, निर्वाचित प्रतिनिधियों और रेजिडेंट वेलफेयर एसोसिएशन को शामिल करें।",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T01:48:33+00:00",
-        "link": "https://newsonair.gov.in/hi/health-minister-jagat-prakash-nadda-chaired-a-high-level-review-meeting-on-dengue-preparedness/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMJiOn4b0AA3o-6-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "हेलीकॉप्टर ऑपरेशन के लिए देश की पहली स्वदेशी ‘पिन्‍स’ प्रक्रिया को मंज़ूरी",
-        "summary": "देश में पहली बार, आंध्रप्रदेश के उंडवल्ली हेलीपोर्ट पर हेलीकॉप्‍टर उड़ान के लिए पहली निजी प्‍वाइंट-इन-स्‍पेस यानी पिन्‍स व्यवस्था को मंज़ूरी दी गई है। इस व्यवस्था में उन्‍नत उपग्रह तकनीक का इस्‍तेमाल किया जाता है। इससे उन हेलीपोर्ट पर हेलीकॉप्‍टर के सुरक्षित संचालन में मदद मिलेगी जहां लैंडिंग के लिए पारंपरिक व्यवस्था नहीं है। […]",
-        "article": "देश में पहली बार, आंध्रप्रदेश के उंडवल्ली हेलीपोर्ट पर हेलीकॉप्&#x200d;टर उड़ान के लिए पहली निजी प्&#x200d;वाइंट-इन-स्&#x200d;पेस यानी पिन्&#x200d;स व्यवस्था को मंज़ूरी दी गई है। इस व्यवस्था में उन्&#x200d;नत उपग्रह तकनीक का इस्&#x200d;तेमाल किया जाता है। इससे उन हेलीपोर्ट पर हेलीकॉप्&#x200d;टर के सुरक्षित संचालन में मदद मिलेगी जहां लैंडिंग के लिए पारंपरिक व्यवस्था नहीं है। नागर विमानन मंत्रालय ने कहा कि पिन्&#x200d;स प्रक्रिया ख़राब मौसम और जमीनी नेविगेशन सहायता उपलब्&#x200d;ध न होने की स्थिति में विशेष उपयोगी है। इसका विकास भारतीय विमानपत्&#x200d;तन प्राधिकरण ने किया है। नागर विमानन मंत्री राम मोहन नायडू ने कहा कि इस उपलब्धि के साथ ही देश में सुरक्षित उड़ान, प्रचालन दक्षता और हर मौसम में हेलीकॉप्&#x200d;टर उड़ान के एक नए युग की शुरुआत हो रही है। इससे देश के दूसरे हेलीपोर्ट पर भी पिन्&#x200d;स प्रक्रिया अपनाने का मार्ग प्रशस्&#x200d;त होगा।",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T01:47:45+00:00",
-        "link": "https://newsonair.gov.in/hi/india-approves-first-indigenous-pins-procedure-for-helicopter-operations/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260625182f.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेन्द्र मोदी ने कहा- वह जापान की प्रधानमंत्री सनाए ताकाइची के साथ कल होने वाली वार्ता को लेकर उत्सुक हैं",
-        "summary": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि वह जापान की प्रधानमंत्री सनाए ताकाइची के साथ कल होने वाली वार्ता को लेकर उत्सुक हैं। उन्होंने कहा कि इस बैठक से भारत-जापान की विशेष रणनीतिक और वैश्विक साझेदारी को और मजबूती मिलेगी। उन्होंने यह भी कहा कि भारत और जापान मिलकर हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और […]",
-        "article": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि वह जापान की प्रधानमंत्री सनाए ताकाइची के साथ कल होने वाली वार्ता को लेकर उत्सुक हैं। उन्होंने कहा कि इस बैठक से भारत-जापान की विशेष रणनीतिक और वैश्विक साझेदारी को और मजबूती मिलेगी। उन्होंने यह भी कहा कि भारत और जापान मिलकर हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और समृद्धि को बढ़ावा देने के लिए साथ काम करते रहेंगे।",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T16:55:10+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-said-he-is-looking-forward-to-his-talks-with-japanese-prime-minister-sanae-takaichi-tomorrow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMJgU25boAITVWg-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-02T08:36:33+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-receives-japanese-pm-sanae-takaichi-at-hyderabad-house/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1221,7 +1187,17 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T07:54:10+00:00",
         "link": "https://newsonair.gov.in/hi/unga-again-urges-adoption-of-terrorism-convention-proposed-by-india/",
-        "post_id": 1714498,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "एनआरएए की वित्तपोषित जंगली धान संरक्षण परियोजना ने असम में महत्वपूर्ण उपलब्धि हासिल की",
+        "summary": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) […]",
+        "article": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) के संरक्षण और प्रबंधन नामक इस परियोजना का उद्देश्य चावल को उसके प्राकृतिक आवास में संरक्षित करना है। यह मान्यता भारत की समृद्ध चावल विविधता के संरक्षण और जलवायु परिवर्तन के अनुकूल कृषि को बढ़ावा देने की दिशा में एक महत्वपूर्ण कदम है। कृषि और किसान कल्याण मंत्रालय ने बताया कि यह परियोजना 2022 से कार्यान्वित की जा रही है। इसे आईसीएआर-राष्ट्रीय पादप आनुवंशिक संसाधन ब्यूरो, नई दिल्ली द्वारा असम राज्य जैव विविधता बोर्ड के सहयोग से संचालित किया जा रहा है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T07:50:07+00:00",
+        "link": "https://newsonair.gov.in/hi/govt-achieves-milestone-in-conservation-of-indias-wild-rice-genetic-resources/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1233,19 +1209,6 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T06:48:38+00:00",
         "link": "https://newsonair.gov.in/hi/india-calls-for-united-global-action-against-terrorism-at-united-nations/",
-        "post_id": 1714389,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "राष्ट्रपति भवन के प्रांगण में जापान की पीएम सनाए ताकाइची का औपचारिक स्वागत किया गया",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता करेंगे। यह सम्मेलन दोनों पक्षों को द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा और सुदृढ़ीकरण करेगा। इसमें पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचारों का आदान-प्रदान होगा। प्रधानमंत्री मोदी और प्रधानमंत्री ताकाइची के […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता करेंगे। यह सम्मेलन दोनों पक्षों को द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा और सुदृढ़ीकरण करेगा। इसमें पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचारों का आदान-प्रदान होगा। प्रधानमंत्री मोदी और प्रधानमंत्री ताकाइची के बीच कई समझौता ज्ञापनों पर हस्ताक्षर होने की आशा है। आज सुबह, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T05:44:33+00:00",
-        "link": "https://newsonair.gov.in/hi/japan-pm-sanae-takaichi-receives-ceremonial-welcome-at-rashtrapati-bhavan/",
-        "post_id": 1713718,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1262,13 +1225,45 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "सरकार ने व्हाट्सएप के यूजरनेम फीचर से जुड़े मामले में मेटा को नोटिस जारी किया",
+        "summary": "सरकार ने भारत में व्‍हाट्सएप पर यूजरनेम फीचर की शुरुआत करने के मामले में मेटा को नोटिस जारी किया है। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सूत्रों के अनुसार, सरकार ने विस्‍तृत जानकारी तीन दिन के भीतर उपलब्ध कराने को कहा है।",
+        "article": "सरकार ने भारत में व्&#x200d;हाट्सएप पर यूजरनेम फीचर की शुरुआत करने के मामले में मेटा को नोटिस जारी किया है। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सूत्रों के अनुसार, सरकार ने विस्&#x200d;तृत जानकारी तीन दिन के भीतर उपलब्ध कराने को कहा है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T02:16:47+00:00",
+        "link": "https://newsonair.gov.in/hi/government-to-examine-anonymity-concerns-related-to-whatsapps-username-feature/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "भारत और मलेशिया ने 12वीं उप-समिति की बैठक के दौरान द्विपक्षीय सैन्य सहयोग के पहलुओं की समीक्षा की",
         "summary": "भारत और मलेशिया ने कल नई दिल्ली में आपसी सैन्य सहयोग की समीक्षा की। रक्षा मंत्रालय ने बताया कि बैठक में, दोनों पक्षों ने हिंद-प्रशांत क्षेत्र में शांति, सुरक्षा और मुक्त आवाजाही को लेकर प्रतिबद्धता दुहराई। 12वीं उप-समिति की बैठक में दोनों देशों के बीच मौजूदा रक्षा पहलों, सैन्य संपर्क, द्विपक्षीय अभ्यास, प्रशिक्षण, क्षमता निर्माण, […]",
         "article": "भारत और मलेशिया ने कल नई दिल्ली में आपसी सैन्य सहयोग की समीक्षा की। रक्षा मंत्रालय ने बताया कि बैठक में, दोनों पक्षों ने हिंद-प्रशांत क्षेत्र में शांति, सुरक्षा और मुक्त आवाजाही को लेकर प्रतिबद्धता दुहराई। 12वीं उप-समिति की बैठक में दोनों देशों के बीच मौजूदा रक्षा पहलों, सैन्य संपर्क, द्विपक्षीय अभ्यास, प्रशिक्षण, क्षमता निर्माण, समुद्री तथा अन्य उभरते क्षेत्रों में सहयोग पर चर्चा हुई। बैठक में, विश्वास व्यक्त किया गया कि दोनों पक्षों की चर्चा से आगामी भारत-मलेशिया रक्षा सहयोग बैठक की ठोस आधारशिला तैयार होगी। मलेशियाई शिष्टमंडल ने रक्षा सचिव राजेश कुामर सिंह से मुलाकात की और दिल्ली के विश्व व्यापार केंद्र में रक्षा सार्वजनिक क्षेत्र उपक्रम भवन का दौरा भी किया। भारत-मलेशिया उप-समिति दोनों देशों के बीच सैन्य संपर्क का मंच है। इसका आयोजन दोनों देशों के रक्षा सचिवों की बैठक से ठीक पहले किया जाता है।",
         "date": "2026-07-02",
         "pubDate": "2026-07-02T01:57:35+00:00",
         "link": "https://newsonair.gov.in/hi/india-and-malaysia-review-aspects-of-bilateral-military-cooperation-during-the-12th-sub-committee-meeting-in-new-delhi/",
-        "post_id": 1712903,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "स्वास्थ्य मंत्री जेपी नड्डा ने डेंगू की तैयारियों पर एक उच्च स्तरीय समीक्षा बैठक की",
+        "summary": "स्वास्थ्य मंत्री जगत प्रकाश नड्डा ने कल दिल्ली में डेंगू की तैयारियों पर एक समीक्षा बैठक की। उन्होंने इस बात पर जोर दिया कि राज्य और नगर निकाय, डेंगू के मामलों में संभावित वृद्धि से निपटने के लिए तैयार रहें। उन्होंने राज्यों से अनुरोध किया कि वे जागरूकता और रोकथाम प्रयासों में वार्ड आयुक्तों, निर्वाचित […]",
+        "article": "स्वास्थ्य मंत्री जगत प्रकाश नड्डा ने कल दिल्ली में डेंगू की तैयारियों पर एक समीक्षा बैठक की। उन्होंने इस बात पर जोर दिया कि राज्य और नगर निकाय, डेंगू के मामलों में संभावित वृद्धि से निपटने के लिए तैयार रहें। उन्होंने राज्यों से अनुरोध किया कि वे जागरूकता और रोकथाम प्रयासों में वार्ड आयुक्तों, निर्वाचित प्रतिनिधियों और रेजिडेंट वेलफेयर एसोसिएशन को शामिल करें।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T01:48:33+00:00",
+        "link": "https://newsonair.gov.in/hi/health-minister-jagat-prakash-nadda-chaired-a-high-level-review-meeting-on-dengue-preparedness/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "हेलीकॉप्टर ऑपरेशन के लिए देश की पहली स्वदेशी ‘पिन्‍स’ प्रक्रिया को मंज़ूरी",
+        "summary": "देश में पहली बार, आंध्रप्रदेश के उंडवल्ली हेलीपोर्ट पर हेलीकॉप्‍टर उड़ान के लिए पहली निजी प्‍वाइंट-इन-स्‍पेस यानी पिन्‍स व्यवस्था को मंज़ूरी दी गई है। इस व्यवस्था में उन्‍नत उपग्रह तकनीक का इस्‍तेमाल किया जाता है। इससे उन हेलीपोर्ट पर हेलीकॉप्‍टर के सुरक्षित संचालन में मदद मिलेगी जहां लैंडिंग के लिए पारंपरिक व्यवस्था नहीं है। […]",
+        "article": "देश में पहली बार, आंध्रप्रदेश के उंडवल्ली हेलीपोर्ट पर हेलीकॉप्&#x200d;टर उड़ान के लिए पहली निजी प्&#x200d;वाइंट-इन-स्&#x200d;पेस यानी पिन्&#x200d;स व्यवस्था को मंज़ूरी दी गई है। इस व्यवस्था में उन्&#x200d;नत उपग्रह तकनीक का इस्&#x200d;तेमाल किया जाता है। इससे उन हेलीपोर्ट पर हेलीकॉप्&#x200d;टर के सुरक्षित संचालन में मदद मिलेगी जहां लैंडिंग के लिए पारंपरिक व्यवस्था नहीं है। नागर विमानन मंत्रालय ने कहा कि पिन्&#x200d;स प्रक्रिया ख़राब मौसम और जमीनी नेविगेशन सहायता उपलब्&#x200d;ध न होने की स्थिति में विशेष उपयोगी है। इसका विकास भारतीय विमानपत्&#x200d;तन प्राधिकरण ने किया है। नागर विमानन मंत्री राम मोहन नायडू ने कहा कि इस उपलब्धि के साथ ही देश में सुरक्षित उड़ान, प्रचालन दक्षता और हर मौसम में हेलीकॉप्&#x200d;टर उड़ान के एक नए युग की शुरुआत हो रही है। इससे देश के दूसरे हेलीपोर्ट पर भी पिन्&#x200d;स प्रक्रिया अपनाने का मार्ग प्रशस्&#x200d;त होगा।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T01:47:45+00:00",
+        "link": "https://newsonair.gov.in/hi/india-approves-first-indigenous-pins-procedure-for-helicopter-operations/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1276,58 +1271,25 @@ window.VM_NEWS = {
     ],
     "national": [
       {
-        "title": "एनआरएए की वित्तपोषित जंगली धान संरक्षण परियोजना ने असम में महत्वपूर्ण उपलब्धि हासिल की",
-        "summary": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) […]",
-        "article": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) के संरक्षण और प्रबंधन नामक इस परियोजना का उद्देश्य चावल को उसके प्राकृतिक आवास में संरक्षित करना है। यह मान्यता भारत की समृद्ध चावल विविधता के संरक्षण और जलवायु परिवर्तन के अनुकूल कृषि को बढ़ावा देने की दिशा में एक महत्वपूर्ण कदम है। कृषि और किसान कल्याण मंत्रालय ने बताया कि यह परियोजना 2022 से कार्यान्वित की जा रही है। इसे आईसीएआर-राष्ट्रीय पादप आनुवंशिक संसाधन ब्यूरो, नई दिल्ली द्वारा असम राज्य जैव विविधता बोर्ड के सहयोग से संचालित किया जा रहा है।",
+        "title": "गृह राज्‍य मंत्री नित्‍यानंद राय ने नई दिल्ली में आयोजित ध्वजारोहण समारोह में भाग लिया",
+        "summary": "गृह राज्‍य मंत्री नित्‍यानंद राय ने आज नई दिल्ली में सीमा सुरक्षा बल- बीएसएफ, भारत-तिब्बत सीमा पुलिस- आईटीबीपी और राष्ट्रीय सुरक्षा गार्ड- एनएसजी द्वारा माउंट एवरेस्ट और माउंट ल्होत्से पर किए गए पर्वतारोहण अभियानों की सफलता के उपलक्ष्य में आयोजित ध्वजारोहण समारोह में भाग लिया। इस अवसर पर राज्‍यमंत्री ने कहा कि बीएसएफ की […]",
+        "article": "गृह राज्&#x200d;य मंत्री नित्&#x200d;यानंद राय ने आज नई दिल्ली में सीमा सुरक्षा बल- बीएसएफ, भारत-तिब्बत सीमा पुलिस- आईटीबीपी और राष्ट्रीय सुरक्षा गार्ड- एनएसजी द्वारा माउंट एवरेस्ट और माउंट ल्होत्से पर किए गए पर्वतारोहण अभियानों की सफलता के उपलक्ष्य में आयोजित ध्वजारोहण समारोह में भाग लिया। इस अवसर पर राज्&#x200d;यमंत्री ने कहा कि बीएसएफ की सभी महिला पर्वतारोहियों की टीम दुनिया की सबसे ऊंची चोटी पर पहुंची और आकाश में वंदे मातरम् गाकर उन्&#x200d;होंने साहस, देशभक्ति और समर्पण का अनूठा उदाहरण स्&#x200d;थापित किया। श्री राय ने माउंट एवरेस्&#x200d;ट पर पहली बार आईटीबीपी के महिला दस्&#x200d;ते द्वारा अंतर्राष्&#x200d;ट्रीय पर्वतारोहण अभियान पूरा करने पर बधाई दी। उन्&#x200d;होंने एनएसजी के माउंट एवरेस्&#x200d;ट पर्वतारोहण अभियान को शारीरिक और मानसिक सहनशक्ति को आगे बढ़ाने के प्रति बल की प्रतिबद्धता बताया।",
         "date": "2026-07-02",
-        "pubDate": "2026-07-02T07:50:07+00:00",
-        "link": "https://newsonair.gov.in/hi/govt-achieves-milestone-in-conservation-of-indias-wild-rice-genetic-resources/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607023848726.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-02T08:44:01+00:00",
+        "link": "https://newsonair.gov.in/hi/mos-for-home-affairs-nityanand-rai-participates-in-flag-hoisting-ceremony-in-new-delhi/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "सरकार ने व्हाट्सएप के यूजरनेम फीचर से जुड़े मामले में मेटा को नोटिस जारी किया",
-        "summary": "सरकार ने भारत में व्‍हाट्सएप पर यूजरनेम फीचर की शुरुआत करने के मामले में मेटा को नोटिस जारी किया है। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सूत्रों के अनुसार, सरकार ने विस्‍तृत जानकारी तीन दिन के भीतर उपलब्ध कराने को कहा है।",
-        "article": "सरकार ने भारत में व्&#x200d;हाट्सएप पर यूजरनेम फीचर की शुरुआत करने के मामले में मेटा को नोटिस जारी किया है। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सूत्रों के अनुसार, सरकार ने विस्&#x200d;तृत जानकारी तीन दिन के भीतर उपलब्ध कराने को कहा है।",
+        "title": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स तथा ए.आई सहित विभिन्न क्षेत्रों में समझौते किए",
+        "summary": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। […]",
+        "article": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। इसके साथ ही पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचार विमर्श किया गया। संयुक्त संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि आज के समय में सामूहिक विश्वास सबसे बड़ी संपत्ति है और भारत-जापान की द्विपक्षीय साझेदारी समय की कसौटी पर खरी उतरी है। उन्होंने कहा कि भारत और जापान आज विश्व की सबसे बड़ी अर्थव्यवस्थाओं में से हैं और एक स्वतंत्र और खुला हिंद-प्रशांत क्षेत्र दोनों देशों की साझा प्राथमिकता है। उन्होंने कहा कि दोनों देश आर्थिक सुरक्षा और ऊर्जा सुरक्षा के महत्व को समझते हैं। उन्होंने कहा कि प्रौद्योगिकी साझेदारी भारत-जापान सहयोग का सबसे महत्वपूर्ण स्तंभ होगा। श्री मोदी ने कहा कि इस परिकल्पना को साकार करने के लिए भारत और जापान ने ए.आई के क्षेत्र में एक संयुक्त वक्तव्य जारी किया है। प्रधानमंत्री ने कहा कि जापान की सटीक प्रौद्योगिकी और भारत की सॉफ्टवेयर क्षमताओं का संगम वैश्विक एआई विकास को नई गति और शक्ति प्रदान करेगा। उन्होंने बताया कि रक्षा क्षेत्र में आज दोनों देशों ने भारत और जापान के बीच पहली सह-विकास परियोजना पर एक समझौते पर हस्ताक्षर किए हैं। प्रधानमंत्री ने कहा कि ऊर्जा सुरक्षा के क्षेत्र में कई महत्वपूर्ण निर्णय लिए गए हैं। उन्होंने कहा कि भारत-जापान जैव-गैस पहल के माध्यम से भारत में एक हजार जैव-गैस और जैविक उर्वरक संयंत्र स्थापित किए जाएंगे। उन्होंने कहा कि इससे भारत के गांवों में स्थिरता, समृद्धि और ग्रामीण आजीविका को नई शक्ति मिलेगी। प्रधानमंत्री ने कहा कि भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक हैं। उन्होंने कहा कि सांस्कृतिक मूल्यों से लेकर आधुनिक प्रौद्योगिकी तक, दोनों देशों की सोच और दृष्टिकोण में समानता है। इससे पहले आज, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया है कि भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
         "date": "2026-07-02",
-        "pubDate": "2026-07-02T02:16:47+00:00",
-        "link": "https://newsonair.gov.in/hi/government-to-examine-anonymity-concerns-related-to-whatsapps-username-feature/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/whatsapp.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "स्वास्थ्य मंत्री जेपी नड्डा ने डेंगू की तैयारियों पर एक उच्च स्तरीय समीक्षा बैठक की",
-        "summary": "स्वास्थ्य मंत्री जगत प्रकाश नड्डा ने कल दिल्ली में डेंगू की तैयारियों पर एक समीक्षा बैठक की। उन्होंने इस बात पर जोर दिया कि राज्य और नगर निकाय, डेंगू के मामलों में संभावित वृद्धि से निपटने के लिए तैयार रहें। उन्होंने राज्यों से अनुरोध किया कि वे जागरूकता और रोकथाम प्रयासों में वार्ड आयुक्तों, निर्वाचित […]",
-        "article": "स्वास्थ्य मंत्री जगत प्रकाश नड्डा ने कल दिल्ली में डेंगू की तैयारियों पर एक समीक्षा बैठक की। उन्होंने इस बात पर जोर दिया कि राज्य और नगर निकाय, डेंगू के मामलों में संभावित वृद्धि से निपटने के लिए तैयार रहें। उन्होंने राज्यों से अनुरोध किया कि वे जागरूकता और रोकथाम प्रयासों में वार्ड आयुक्तों, निर्वाचित प्रतिनिधियों और रेजिडेंट वेलफेयर एसोसिएशन को शामिल करें।",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T01:48:33+00:00",
-        "link": "https://newsonair.gov.in/hi/health-minister-jagat-prakash-nadda-chaired-a-high-level-review-meeting-on-dengue-preparedness/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMJiOn4b0AA3o-6-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "हेलीकॉप्टर ऑपरेशन के लिए देश की पहली स्वदेशी ‘पिन्‍स’ प्रक्रिया को मंज़ूरी",
-        "summary": "देश में पहली बार, आंध्रप्रदेश के उंडवल्ली हेलीपोर्ट पर हेलीकॉप्‍टर उड़ान के लिए पहली निजी प्‍वाइंट-इन-स्‍पेस यानी पिन्‍स व्यवस्था को मंज़ूरी दी गई है। इस व्यवस्था में उन्‍नत उपग्रह तकनीक का इस्‍तेमाल किया जाता है। इससे उन हेलीपोर्ट पर हेलीकॉप्‍टर के सुरक्षित संचालन में मदद मिलेगी जहां लैंडिंग के लिए पारंपरिक व्यवस्था नहीं है। […]",
-        "article": "देश में पहली बार, आंध्रप्रदेश के उंडवल्ली हेलीपोर्ट पर हेलीकॉप्&#x200d;टर उड़ान के लिए पहली निजी प्&#x200d;वाइंट-इन-स्&#x200d;पेस यानी पिन्&#x200d;स व्यवस्था को मंज़ूरी दी गई है। इस व्यवस्था में उन्&#x200d;नत उपग्रह तकनीक का इस्&#x200d;तेमाल किया जाता है। इससे उन हेलीपोर्ट पर हेलीकॉप्&#x200d;टर के सुरक्षित संचालन में मदद मिलेगी जहां लैंडिंग के लिए पारंपरिक व्यवस्था नहीं है। नागर विमानन मंत्रालय ने कहा कि पिन्&#x200d;स प्रक्रिया ख़राब मौसम और जमीनी नेविगेशन सहायता उपलब्&#x200d;ध न होने की स्थिति में विशेष उपयोगी है। इसका विकास भारतीय विमानपत्&#x200d;तन प्राधिकरण ने किया है। नागर विमानन मंत्री राम मोहन नायडू ने कहा कि इस उपलब्धि के साथ ही देश में सुरक्षित उड़ान, प्रचालन दक्षता और हर मौसम में हेलीकॉप्&#x200d;टर उड़ान के एक नए युग की शुरुआत हो रही है। इससे देश के दूसरे हेलीपोर्ट पर भी पिन्&#x200d;स प्रक्रिया अपनाने का मार्ग प्रशस्&#x200d;त होगा।",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T01:47:45+00:00",
-        "link": "https://newsonair.gov.in/hi/india-approves-first-indigenous-pins-procedure-for-helicopter-operations/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260625182f.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेन्द्र मोदी ने कहा- वह जापान की प्रधानमंत्री सनाए ताकाइची के साथ कल होने वाली वार्ता को लेकर उत्सुक हैं",
-        "summary": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि वह जापान की प्रधानमंत्री सनाए ताकाइची के साथ कल होने वाली वार्ता को लेकर उत्सुक हैं। उन्होंने कहा कि इस बैठक से भारत-जापान की विशेष रणनीतिक और वैश्विक साझेदारी को और मजबूती मिलेगी। उन्होंने यह भी कहा कि भारत और जापान मिलकर हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और […]",
-        "article": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि वह जापान की प्रधानमंत्री सनाए ताकाइची के साथ कल होने वाली वार्ता को लेकर उत्सुक हैं। उन्होंने कहा कि इस बैठक से भारत-जापान की विशेष रणनीतिक और वैश्विक साझेदारी को और मजबूती मिलेगी। उन्होंने यह भी कहा कि भारत और जापान मिलकर हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और समृद्धि को बढ़ावा देने के लिए साथ काम करते रहेंगे।",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T16:55:10+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-said-he-is-looking-forward-to-his-talks-with-japanese-prime-minister-sanae-takaichi-tomorrow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMJgU25boAITVWg-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-02T08:36:33+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-receives-japanese-pm-sanae-takaichi-at-hyderabad-house/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1337,7 +1299,17 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T07:54:10+00:00",
         "link": "https://newsonair.gov.in/hi/unga-again-urges-adoption-of-terrorism-convention-proposed-by-india/",
-        "post_id": 1714498,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "एनआरएए की वित्तपोषित जंगली धान संरक्षण परियोजना ने असम में महत्वपूर्ण उपलब्धि हासिल की",
+        "summary": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) […]",
+        "article": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) के संरक्षण और प्रबंधन नामक इस परियोजना का उद्देश्य चावल को उसके प्राकृतिक आवास में संरक्षित करना है। यह मान्यता भारत की समृद्ध चावल विविधता के संरक्षण और जलवायु परिवर्तन के अनुकूल कृषि को बढ़ावा देने की दिशा में एक महत्वपूर्ण कदम है। कृषि और किसान कल्याण मंत्रालय ने बताया कि यह परियोजना 2022 से कार्यान्वित की जा रही है। इसे आईसीएआर-राष्ट्रीय पादप आनुवंशिक संसाधन ब्यूरो, नई दिल्ली द्वारा असम राज्य जैव विविधता बोर्ड के सहयोग से संचालित किया जा रहा है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T07:50:07+00:00",
+        "link": "https://newsonair.gov.in/hi/govt-achieves-milestone-in-conservation-of-indias-wild-rice-genetic-resources/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1349,19 +1321,6 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T06:48:38+00:00",
         "link": "https://newsonair.gov.in/hi/india-calls-for-united-global-action-against-terrorism-at-united-nations/",
-        "post_id": 1714389,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "राष्ट्रपति भवन के प्रांगण में जापान की पीएम सनाए ताकाइची का औपचारिक स्वागत किया गया",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता करेंगे। यह सम्मेलन दोनों पक्षों को द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा और सुदृढ़ीकरण करेगा। इसमें पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचारों का आदान-प्रदान होगा। प्रधानमंत्री मोदी और प्रधानमंत्री ताकाइची के […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता करेंगे। यह सम्मेलन दोनों पक्षों को द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा और सुदृढ़ीकरण करेगा। इसमें पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचारों का आदान-प्रदान होगा। प्रधानमंत्री मोदी और प्रधानमंत्री ताकाइची के बीच कई समझौता ज्ञापनों पर हस्ताक्षर होने की आशा है। आज सुबह, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T05:44:33+00:00",
-        "link": "https://newsonair.gov.in/hi/japan-pm-sanae-takaichi-receives-ceremonial-welcome-at-rashtrapati-bhavan/",
-        "post_id": 1713718,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1378,13 +1337,45 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "सरकार ने व्हाट्सएप के यूजरनेम फीचर से जुड़े मामले में मेटा को नोटिस जारी किया",
+        "summary": "सरकार ने भारत में व्‍हाट्सएप पर यूजरनेम फीचर की शुरुआत करने के मामले में मेटा को नोटिस जारी किया है। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सूत्रों के अनुसार, सरकार ने विस्‍तृत जानकारी तीन दिन के भीतर उपलब्ध कराने को कहा है।",
+        "article": "सरकार ने भारत में व्&#x200d;हाट्सएप पर यूजरनेम फीचर की शुरुआत करने के मामले में मेटा को नोटिस जारी किया है। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सूत्रों के अनुसार, सरकार ने विस्&#x200d;तृत जानकारी तीन दिन के भीतर उपलब्ध कराने को कहा है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T02:16:47+00:00",
+        "link": "https://newsonair.gov.in/hi/government-to-examine-anonymity-concerns-related-to-whatsapps-username-feature/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "भारत और मलेशिया ने 12वीं उप-समिति की बैठक के दौरान द्विपक्षीय सैन्य सहयोग के पहलुओं की समीक्षा की",
         "summary": "भारत और मलेशिया ने कल नई दिल्ली में आपसी सैन्य सहयोग की समीक्षा की। रक्षा मंत्रालय ने बताया कि बैठक में, दोनों पक्षों ने हिंद-प्रशांत क्षेत्र में शांति, सुरक्षा और मुक्त आवाजाही को लेकर प्रतिबद्धता दुहराई। 12वीं उप-समिति की बैठक में दोनों देशों के बीच मौजूदा रक्षा पहलों, सैन्य संपर्क, द्विपक्षीय अभ्यास, प्रशिक्षण, क्षमता निर्माण, […]",
         "article": "भारत और मलेशिया ने कल नई दिल्ली में आपसी सैन्य सहयोग की समीक्षा की। रक्षा मंत्रालय ने बताया कि बैठक में, दोनों पक्षों ने हिंद-प्रशांत क्षेत्र में शांति, सुरक्षा और मुक्त आवाजाही को लेकर प्रतिबद्धता दुहराई। 12वीं उप-समिति की बैठक में दोनों देशों के बीच मौजूदा रक्षा पहलों, सैन्य संपर्क, द्विपक्षीय अभ्यास, प्रशिक्षण, क्षमता निर्माण, समुद्री तथा अन्य उभरते क्षेत्रों में सहयोग पर चर्चा हुई। बैठक में, विश्वास व्यक्त किया गया कि दोनों पक्षों की चर्चा से आगामी भारत-मलेशिया रक्षा सहयोग बैठक की ठोस आधारशिला तैयार होगी। मलेशियाई शिष्टमंडल ने रक्षा सचिव राजेश कुामर सिंह से मुलाकात की और दिल्ली के विश्व व्यापार केंद्र में रक्षा सार्वजनिक क्षेत्र उपक्रम भवन का दौरा भी किया। भारत-मलेशिया उप-समिति दोनों देशों के बीच सैन्य संपर्क का मंच है। इसका आयोजन दोनों देशों के रक्षा सचिवों की बैठक से ठीक पहले किया जाता है।",
         "date": "2026-07-02",
         "pubDate": "2026-07-02T01:57:35+00:00",
         "link": "https://newsonair.gov.in/hi/india-and-malaysia-review-aspects-of-bilateral-military-cooperation-during-the-12th-sub-committee-meeting-in-new-delhi/",
-        "post_id": 1712903,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "स्वास्थ्य मंत्री जेपी नड्डा ने डेंगू की तैयारियों पर एक उच्च स्तरीय समीक्षा बैठक की",
+        "summary": "स्वास्थ्य मंत्री जगत प्रकाश नड्डा ने कल दिल्ली में डेंगू की तैयारियों पर एक समीक्षा बैठक की। उन्होंने इस बात पर जोर दिया कि राज्य और नगर निकाय, डेंगू के मामलों में संभावित वृद्धि से निपटने के लिए तैयार रहें। उन्होंने राज्यों से अनुरोध किया कि वे जागरूकता और रोकथाम प्रयासों में वार्ड आयुक्तों, निर्वाचित […]",
+        "article": "स्वास्थ्य मंत्री जगत प्रकाश नड्डा ने कल दिल्ली में डेंगू की तैयारियों पर एक समीक्षा बैठक की। उन्होंने इस बात पर जोर दिया कि राज्य और नगर निकाय, डेंगू के मामलों में संभावित वृद्धि से निपटने के लिए तैयार रहें। उन्होंने राज्यों से अनुरोध किया कि वे जागरूकता और रोकथाम प्रयासों में वार्ड आयुक्तों, निर्वाचित प्रतिनिधियों और रेजिडेंट वेलफेयर एसोसिएशन को शामिल करें।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T01:48:33+00:00",
+        "link": "https://newsonair.gov.in/hi/health-minister-jagat-prakash-nadda-chaired-a-high-level-review-meeting-on-dengue-preparedness/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "हेलीकॉप्टर ऑपरेशन के लिए देश की पहली स्वदेशी ‘पिन्‍स’ प्रक्रिया को मंज़ूरी",
+        "summary": "देश में पहली बार, आंध्रप्रदेश के उंडवल्ली हेलीपोर्ट पर हेलीकॉप्‍टर उड़ान के लिए पहली निजी प्‍वाइंट-इन-स्‍पेस यानी पिन्‍स व्यवस्था को मंज़ूरी दी गई है। इस व्यवस्था में उन्‍नत उपग्रह तकनीक का इस्‍तेमाल किया जाता है। इससे उन हेलीपोर्ट पर हेलीकॉप्‍टर के सुरक्षित संचालन में मदद मिलेगी जहां लैंडिंग के लिए पारंपरिक व्यवस्था नहीं है। […]",
+        "article": "देश में पहली बार, आंध्रप्रदेश के उंडवल्ली हेलीपोर्ट पर हेलीकॉप्&#x200d;टर उड़ान के लिए पहली निजी प्&#x200d;वाइंट-इन-स्&#x200d;पेस यानी पिन्&#x200d;स व्यवस्था को मंज़ूरी दी गई है। इस व्यवस्था में उन्&#x200d;नत उपग्रह तकनीक का इस्&#x200d;तेमाल किया जाता है। इससे उन हेलीपोर्ट पर हेलीकॉप्&#x200d;टर के सुरक्षित संचालन में मदद मिलेगी जहां लैंडिंग के लिए पारंपरिक व्यवस्था नहीं है। नागर विमानन मंत्रालय ने कहा कि पिन्&#x200d;स प्रक्रिया ख़राब मौसम और जमीनी नेविगेशन सहायता उपलब्&#x200d;ध न होने की स्थिति में विशेष उपयोगी है। इसका विकास भारतीय विमानपत्&#x200d;तन प्राधिकरण ने किया है। नागर विमानन मंत्री राम मोहन नायडू ने कहा कि इस उपलब्धि के साथ ही देश में सुरक्षित उड़ान, प्रचालन दक्षता और हर मौसम में हेलीकॉप्&#x200d;टर उड़ान के एक नए युग की शुरुआत हो रही है। इससे देश के दूसरे हेलीपोर्ट पर भी पिन्&#x200d;स प्रक्रिया अपनाने का मार्ग प्रशस्&#x200d;त होगा।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T01:47:45+00:00",
+        "link": "https://newsonair.gov.in/hi/india-approves-first-indigenous-pins-procedure-for-helicopter-operations/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1392,58 +1383,25 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
-        "title": "एनआरएए की वित्तपोषित जंगली धान संरक्षण परियोजना ने असम में महत्वपूर्ण उपलब्धि हासिल की",
-        "summary": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) […]",
-        "article": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) के संरक्षण और प्रबंधन नामक इस परियोजना का उद्देश्य चावल को उसके प्राकृतिक आवास में संरक्षित करना है। यह मान्यता भारत की समृद्ध चावल विविधता के संरक्षण और जलवायु परिवर्तन के अनुकूल कृषि को बढ़ावा देने की दिशा में एक महत्वपूर्ण कदम है। कृषि और किसान कल्याण मंत्रालय ने बताया कि यह परियोजना 2022 से कार्यान्वित की जा रही है। इसे आईसीएआर-राष्ट्रीय पादप आनुवंशिक संसाधन ब्यूरो, नई दिल्ली द्वारा असम राज्य जैव विविधता बोर्ड के सहयोग से संचालित किया जा रहा है।",
+        "title": "गृह राज्‍य मंत्री नित्‍यानंद राय ने नई दिल्ली में आयोजित ध्वजारोहण समारोह में भाग लिया",
+        "summary": "गृह राज्‍य मंत्री नित्‍यानंद राय ने आज नई दिल्ली में सीमा सुरक्षा बल- बीएसएफ, भारत-तिब्बत सीमा पुलिस- आईटीबीपी और राष्ट्रीय सुरक्षा गार्ड- एनएसजी द्वारा माउंट एवरेस्ट और माउंट ल्होत्से पर किए गए पर्वतारोहण अभियानों की सफलता के उपलक्ष्य में आयोजित ध्वजारोहण समारोह में भाग लिया। इस अवसर पर राज्‍यमंत्री ने कहा कि बीएसएफ की […]",
+        "article": "गृह राज्&#x200d;य मंत्री नित्&#x200d;यानंद राय ने आज नई दिल्ली में सीमा सुरक्षा बल- बीएसएफ, भारत-तिब्बत सीमा पुलिस- आईटीबीपी और राष्ट्रीय सुरक्षा गार्ड- एनएसजी द्वारा माउंट एवरेस्ट और माउंट ल्होत्से पर किए गए पर्वतारोहण अभियानों की सफलता के उपलक्ष्य में आयोजित ध्वजारोहण समारोह में भाग लिया। इस अवसर पर राज्&#x200d;यमंत्री ने कहा कि बीएसएफ की सभी महिला पर्वतारोहियों की टीम दुनिया की सबसे ऊंची चोटी पर पहुंची और आकाश में वंदे मातरम् गाकर उन्&#x200d;होंने साहस, देशभक्ति और समर्पण का अनूठा उदाहरण स्&#x200d;थापित किया। श्री राय ने माउंट एवरेस्&#x200d;ट पर पहली बार आईटीबीपी के महिला दस्&#x200d;ते द्वारा अंतर्राष्&#x200d;ट्रीय पर्वतारोहण अभियान पूरा करने पर बधाई दी। उन्&#x200d;होंने एनएसजी के माउंट एवरेस्&#x200d;ट पर्वतारोहण अभियान को शारीरिक और मानसिक सहनशक्ति को आगे बढ़ाने के प्रति बल की प्रतिबद्धता बताया।",
         "date": "2026-07-02",
-        "pubDate": "2026-07-02T07:50:07+00:00",
-        "link": "https://newsonair.gov.in/hi/govt-achieves-milestone-in-conservation-of-indias-wild-rice-genetic-resources/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607023848726.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-02T08:44:01+00:00",
+        "link": "https://newsonair.gov.in/hi/mos-for-home-affairs-nityanand-rai-participates-in-flag-hoisting-ceremony-in-new-delhi/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "सरकार ने व्हाट्सएप के यूजरनेम फीचर से जुड़े मामले में मेटा को नोटिस जारी किया",
-        "summary": "सरकार ने भारत में व्‍हाट्सएप पर यूजरनेम फीचर की शुरुआत करने के मामले में मेटा को नोटिस जारी किया है। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सूत्रों के अनुसार, सरकार ने विस्‍तृत जानकारी तीन दिन के भीतर उपलब्ध कराने को कहा है।",
-        "article": "सरकार ने भारत में व्&#x200d;हाट्सएप पर यूजरनेम फीचर की शुरुआत करने के मामले में मेटा को नोटिस जारी किया है। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सूत्रों के अनुसार, सरकार ने विस्&#x200d;तृत जानकारी तीन दिन के भीतर उपलब्ध कराने को कहा है।",
+        "title": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स तथा ए.आई सहित विभिन्न क्षेत्रों में समझौते किए",
+        "summary": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। […]",
+        "article": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। इसके साथ ही पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचार विमर्श किया गया। संयुक्त संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि आज के समय में सामूहिक विश्वास सबसे बड़ी संपत्ति है और भारत-जापान की द्विपक्षीय साझेदारी समय की कसौटी पर खरी उतरी है। उन्होंने कहा कि भारत और जापान आज विश्व की सबसे बड़ी अर्थव्यवस्थाओं में से हैं और एक स्वतंत्र और खुला हिंद-प्रशांत क्षेत्र दोनों देशों की साझा प्राथमिकता है। उन्होंने कहा कि दोनों देश आर्थिक सुरक्षा और ऊर्जा सुरक्षा के महत्व को समझते हैं। उन्होंने कहा कि प्रौद्योगिकी साझेदारी भारत-जापान सहयोग का सबसे महत्वपूर्ण स्तंभ होगा। श्री मोदी ने कहा कि इस परिकल्पना को साकार करने के लिए भारत और जापान ने ए.आई के क्षेत्र में एक संयुक्त वक्तव्य जारी किया है। प्रधानमंत्री ने कहा कि जापान की सटीक प्रौद्योगिकी और भारत की सॉफ्टवेयर क्षमताओं का संगम वैश्विक एआई विकास को नई गति और शक्ति प्रदान करेगा। उन्होंने बताया कि रक्षा क्षेत्र में आज दोनों देशों ने भारत और जापान के बीच पहली सह-विकास परियोजना पर एक समझौते पर हस्ताक्षर किए हैं। प्रधानमंत्री ने कहा कि ऊर्जा सुरक्षा के क्षेत्र में कई महत्वपूर्ण निर्णय लिए गए हैं। उन्होंने कहा कि भारत-जापान जैव-गैस पहल के माध्यम से भारत में एक हजार जैव-गैस और जैविक उर्वरक संयंत्र स्थापित किए जाएंगे। उन्होंने कहा कि इससे भारत के गांवों में स्थिरता, समृद्धि और ग्रामीण आजीविका को नई शक्ति मिलेगी। प्रधानमंत्री ने कहा कि भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक हैं। उन्होंने कहा कि सांस्कृतिक मूल्यों से लेकर आधुनिक प्रौद्योगिकी तक, दोनों देशों की सोच और दृष्टिकोण में समानता है। इससे पहले आज, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया है कि भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
         "date": "2026-07-02",
-        "pubDate": "2026-07-02T02:16:47+00:00",
-        "link": "https://newsonair.gov.in/hi/government-to-examine-anonymity-concerns-related-to-whatsapps-username-feature/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/whatsapp.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "स्वास्थ्य मंत्री जेपी नड्डा ने डेंगू की तैयारियों पर एक उच्च स्तरीय समीक्षा बैठक की",
-        "summary": "स्वास्थ्य मंत्री जगत प्रकाश नड्डा ने कल दिल्ली में डेंगू की तैयारियों पर एक समीक्षा बैठक की। उन्होंने इस बात पर जोर दिया कि राज्य और नगर निकाय, डेंगू के मामलों में संभावित वृद्धि से निपटने के लिए तैयार रहें। उन्होंने राज्यों से अनुरोध किया कि वे जागरूकता और रोकथाम प्रयासों में वार्ड आयुक्तों, निर्वाचित […]",
-        "article": "स्वास्थ्य मंत्री जगत प्रकाश नड्डा ने कल दिल्ली में डेंगू की तैयारियों पर एक समीक्षा बैठक की। उन्होंने इस बात पर जोर दिया कि राज्य और नगर निकाय, डेंगू के मामलों में संभावित वृद्धि से निपटने के लिए तैयार रहें। उन्होंने राज्यों से अनुरोध किया कि वे जागरूकता और रोकथाम प्रयासों में वार्ड आयुक्तों, निर्वाचित प्रतिनिधियों और रेजिडेंट वेलफेयर एसोसिएशन को शामिल करें।",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T01:48:33+00:00",
-        "link": "https://newsonair.gov.in/hi/health-minister-jagat-prakash-nadda-chaired-a-high-level-review-meeting-on-dengue-preparedness/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMJiOn4b0AA3o-6-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "हेलीकॉप्टर ऑपरेशन के लिए देश की पहली स्वदेशी ‘पिन्‍स’ प्रक्रिया को मंज़ूरी",
-        "summary": "देश में पहली बार, आंध्रप्रदेश के उंडवल्ली हेलीपोर्ट पर हेलीकॉप्‍टर उड़ान के लिए पहली निजी प्‍वाइंट-इन-स्‍पेस यानी पिन्‍स व्यवस्था को मंज़ूरी दी गई है। इस व्यवस्था में उन्‍नत उपग्रह तकनीक का इस्‍तेमाल किया जाता है। इससे उन हेलीपोर्ट पर हेलीकॉप्‍टर के सुरक्षित संचालन में मदद मिलेगी जहां लैंडिंग के लिए पारंपरिक व्यवस्था नहीं है। […]",
-        "article": "देश में पहली बार, आंध्रप्रदेश के उंडवल्ली हेलीपोर्ट पर हेलीकॉप्&#x200d;टर उड़ान के लिए पहली निजी प्&#x200d;वाइंट-इन-स्&#x200d;पेस यानी पिन्&#x200d;स व्यवस्था को मंज़ूरी दी गई है। इस व्यवस्था में उन्&#x200d;नत उपग्रह तकनीक का इस्&#x200d;तेमाल किया जाता है। इससे उन हेलीपोर्ट पर हेलीकॉप्&#x200d;टर के सुरक्षित संचालन में मदद मिलेगी जहां लैंडिंग के लिए पारंपरिक व्यवस्था नहीं है। नागर विमानन मंत्रालय ने कहा कि पिन्&#x200d;स प्रक्रिया ख़राब मौसम और जमीनी नेविगेशन सहायता उपलब्&#x200d;ध न होने की स्थिति में विशेष उपयोगी है। इसका विकास भारतीय विमानपत्&#x200d;तन प्राधिकरण ने किया है। नागर विमानन मंत्री राम मोहन नायडू ने कहा कि इस उपलब्धि के साथ ही देश में सुरक्षित उड़ान, प्रचालन दक्षता और हर मौसम में हेलीकॉप्&#x200d;टर उड़ान के एक नए युग की शुरुआत हो रही है। इससे देश के दूसरे हेलीपोर्ट पर भी पिन्&#x200d;स प्रक्रिया अपनाने का मार्ग प्रशस्&#x200d;त होगा।",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T01:47:45+00:00",
-        "link": "https://newsonair.gov.in/hi/india-approves-first-indigenous-pins-procedure-for-helicopter-operations/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260625182f.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेन्द्र मोदी ने कहा- वह जापान की प्रधानमंत्री सनाए ताकाइची के साथ कल होने वाली वार्ता को लेकर उत्सुक हैं",
-        "summary": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि वह जापान की प्रधानमंत्री सनाए ताकाइची के साथ कल होने वाली वार्ता को लेकर उत्सुक हैं। उन्होंने कहा कि इस बैठक से भारत-जापान की विशेष रणनीतिक और वैश्विक साझेदारी को और मजबूती मिलेगी। उन्होंने यह भी कहा कि भारत और जापान मिलकर हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और […]",
-        "article": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि वह जापान की प्रधानमंत्री सनाए ताकाइची के साथ कल होने वाली वार्ता को लेकर उत्सुक हैं। उन्होंने कहा कि इस बैठक से भारत-जापान की विशेष रणनीतिक और वैश्विक साझेदारी को और मजबूती मिलेगी। उन्होंने यह भी कहा कि भारत और जापान मिलकर हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और समृद्धि को बढ़ावा देने के लिए साथ काम करते रहेंगे।",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T16:55:10+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-said-he-is-looking-forward-to-his-talks-with-japanese-prime-minister-sanae-takaichi-tomorrow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMJgU25boAITVWg-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-02T08:36:33+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-receives-japanese-pm-sanae-takaichi-at-hyderabad-house/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1453,7 +1411,17 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T07:54:10+00:00",
         "link": "https://newsonair.gov.in/hi/unga-again-urges-adoption-of-terrorism-convention-proposed-by-india/",
-        "post_id": 1714498,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "एनआरएए की वित्तपोषित जंगली धान संरक्षण परियोजना ने असम में महत्वपूर्ण उपलब्धि हासिल की",
+        "summary": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) […]",
+        "article": "राष्ट्रीय वर्षा सिंचित क्षेत्र प्राधिकरण &#8211; आईसीएआर द्वारा वित्तपोषित चावल संरक्षण परियोजना ने असम में एक महत्वपूर्ण उपलब्धि हासिल की है। सोनितपुर जिले के बोरजुली स्थल को परियोजना के तहत राष्ट्रीय जैव विविधता प्राधिकरण द्वारा जैव विविधता विरासत स्थल के रूप में अधिसूचित किया गया है। असम के सोनितपुर जिले में चावल (ओरिज़ा रूफिपोगोन) के संरक्षण और प्रबंधन नामक इस परियोजना का उद्देश्य चावल को उसके प्राकृतिक आवास में संरक्षित करना है। यह मान्यता भारत की समृद्ध चावल विविधता के संरक्षण और जलवायु परिवर्तन के अनुकूल कृषि को बढ़ावा देने की दिशा में एक महत्वपूर्ण कदम है। कृषि और किसान कल्याण मंत्रालय ने बताया कि यह परियोजना 2022 से कार्यान्वित की जा रही है। इसे आईसीएआर-राष्ट्रीय पादप आनुवंशिक संसाधन ब्यूरो, नई दिल्ली द्वारा असम राज्य जैव विविधता बोर्ड के सहयोग से संचालित किया जा रहा है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T07:50:07+00:00",
+        "link": "https://newsonair.gov.in/hi/govt-achieves-milestone-in-conservation-of-indias-wild-rice-genetic-resources/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1465,19 +1433,6 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T06:48:38+00:00",
         "link": "https://newsonair.gov.in/hi/india-calls-for-united-global-action-against-terrorism-at-united-nations/",
-        "post_id": 1714389,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "राष्ट्रपति भवन के प्रांगण में जापान की पीएम सनाए ताकाइची का औपचारिक स्वागत किया गया",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता करेंगे। यह सम्मेलन दोनों पक्षों को द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा और सुदृढ़ीकरण करेगा। इसमें पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचारों का आदान-प्रदान होगा। प्रधानमंत्री मोदी और प्रधानमंत्री ताकाइची के […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता करेंगे। यह सम्मेलन दोनों पक्षों को द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा और सुदृढ़ीकरण करेगा। इसमें पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचारों का आदान-प्रदान होगा। प्रधानमंत्री मोदी और प्रधानमंत्री ताकाइची के बीच कई समझौता ज्ञापनों पर हस्ताक्षर होने की आशा है। आज सुबह, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T05:44:33+00:00",
-        "link": "https://newsonair.gov.in/hi/japan-pm-sanae-takaichi-receives-ceremonial-welcome-at-rashtrapati-bhavan/",
-        "post_id": 1713718,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1494,13 +1449,45 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "सरकार ने व्हाट्सएप के यूजरनेम फीचर से जुड़े मामले में मेटा को नोटिस जारी किया",
+        "summary": "सरकार ने भारत में व्‍हाट्सएप पर यूजरनेम फीचर की शुरुआत करने के मामले में मेटा को नोटिस जारी किया है। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सूत्रों के अनुसार, सरकार ने विस्‍तृत जानकारी तीन दिन के भीतर उपलब्ध कराने को कहा है।",
+        "article": "सरकार ने भारत में व्&#x200d;हाट्सएप पर यूजरनेम फीचर की शुरुआत करने के मामले में मेटा को नोटिस जारी किया है। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सूत्रों के अनुसार, सरकार ने विस्&#x200d;तृत जानकारी तीन दिन के भीतर उपलब्ध कराने को कहा है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T02:16:47+00:00",
+        "link": "https://newsonair.gov.in/hi/government-to-examine-anonymity-concerns-related-to-whatsapps-username-feature/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "भारत और मलेशिया ने 12वीं उप-समिति की बैठक के दौरान द्विपक्षीय सैन्य सहयोग के पहलुओं की समीक्षा की",
         "summary": "भारत और मलेशिया ने कल नई दिल्ली में आपसी सैन्य सहयोग की समीक्षा की। रक्षा मंत्रालय ने बताया कि बैठक में, दोनों पक्षों ने हिंद-प्रशांत क्षेत्र में शांति, सुरक्षा और मुक्त आवाजाही को लेकर प्रतिबद्धता दुहराई। 12वीं उप-समिति की बैठक में दोनों देशों के बीच मौजूदा रक्षा पहलों, सैन्य संपर्क, द्विपक्षीय अभ्यास, प्रशिक्षण, क्षमता निर्माण, […]",
         "article": "भारत और मलेशिया ने कल नई दिल्ली में आपसी सैन्य सहयोग की समीक्षा की। रक्षा मंत्रालय ने बताया कि बैठक में, दोनों पक्षों ने हिंद-प्रशांत क्षेत्र में शांति, सुरक्षा और मुक्त आवाजाही को लेकर प्रतिबद्धता दुहराई। 12वीं उप-समिति की बैठक में दोनों देशों के बीच मौजूदा रक्षा पहलों, सैन्य संपर्क, द्विपक्षीय अभ्यास, प्रशिक्षण, क्षमता निर्माण, समुद्री तथा अन्य उभरते क्षेत्रों में सहयोग पर चर्चा हुई। बैठक में, विश्वास व्यक्त किया गया कि दोनों पक्षों की चर्चा से आगामी भारत-मलेशिया रक्षा सहयोग बैठक की ठोस आधारशिला तैयार होगी। मलेशियाई शिष्टमंडल ने रक्षा सचिव राजेश कुामर सिंह से मुलाकात की और दिल्ली के विश्व व्यापार केंद्र में रक्षा सार्वजनिक क्षेत्र उपक्रम भवन का दौरा भी किया। भारत-मलेशिया उप-समिति दोनों देशों के बीच सैन्य संपर्क का मंच है। इसका आयोजन दोनों देशों के रक्षा सचिवों की बैठक से ठीक पहले किया जाता है।",
         "date": "2026-07-02",
         "pubDate": "2026-07-02T01:57:35+00:00",
         "link": "https://newsonair.gov.in/hi/india-and-malaysia-review-aspects-of-bilateral-military-cooperation-during-the-12th-sub-committee-meeting-in-new-delhi/",
-        "post_id": 1712903,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "स्वास्थ्य मंत्री जेपी नड्डा ने डेंगू की तैयारियों पर एक उच्च स्तरीय समीक्षा बैठक की",
+        "summary": "स्वास्थ्य मंत्री जगत प्रकाश नड्डा ने कल दिल्ली में डेंगू की तैयारियों पर एक समीक्षा बैठक की। उन्होंने इस बात पर जोर दिया कि राज्य और नगर निकाय, डेंगू के मामलों में संभावित वृद्धि से निपटने के लिए तैयार रहें। उन्होंने राज्यों से अनुरोध किया कि वे जागरूकता और रोकथाम प्रयासों में वार्ड आयुक्तों, निर्वाचित […]",
+        "article": "स्वास्थ्य मंत्री जगत प्रकाश नड्डा ने कल दिल्ली में डेंगू की तैयारियों पर एक समीक्षा बैठक की। उन्होंने इस बात पर जोर दिया कि राज्य और नगर निकाय, डेंगू के मामलों में संभावित वृद्धि से निपटने के लिए तैयार रहें। उन्होंने राज्यों से अनुरोध किया कि वे जागरूकता और रोकथाम प्रयासों में वार्ड आयुक्तों, निर्वाचित प्रतिनिधियों और रेजिडेंट वेलफेयर एसोसिएशन को शामिल करें।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T01:48:33+00:00",
+        "link": "https://newsonair.gov.in/hi/health-minister-jagat-prakash-nadda-chaired-a-high-level-review-meeting-on-dengue-preparedness/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "हेलीकॉप्टर ऑपरेशन के लिए देश की पहली स्वदेशी ‘पिन्‍स’ प्रक्रिया को मंज़ूरी",
+        "summary": "देश में पहली बार, आंध्रप्रदेश के उंडवल्ली हेलीपोर्ट पर हेलीकॉप्‍टर उड़ान के लिए पहली निजी प्‍वाइंट-इन-स्‍पेस यानी पिन्‍स व्यवस्था को मंज़ूरी दी गई है। इस व्यवस्था में उन्‍नत उपग्रह तकनीक का इस्‍तेमाल किया जाता है। इससे उन हेलीपोर्ट पर हेलीकॉप्‍टर के सुरक्षित संचालन में मदद मिलेगी जहां लैंडिंग के लिए पारंपरिक व्यवस्था नहीं है। […]",
+        "article": "देश में पहली बार, आंध्रप्रदेश के उंडवल्ली हेलीपोर्ट पर हेलीकॉप्&#x200d;टर उड़ान के लिए पहली निजी प्&#x200d;वाइंट-इन-स्&#x200d;पेस यानी पिन्&#x200d;स व्यवस्था को मंज़ूरी दी गई है। इस व्यवस्था में उन्&#x200d;नत उपग्रह तकनीक का इस्&#x200d;तेमाल किया जाता है। इससे उन हेलीपोर्ट पर हेलीकॉप्&#x200d;टर के सुरक्षित संचालन में मदद मिलेगी जहां लैंडिंग के लिए पारंपरिक व्यवस्था नहीं है। नागर विमानन मंत्रालय ने कहा कि पिन्&#x200d;स प्रक्रिया ख़राब मौसम और जमीनी नेविगेशन सहायता उपलब्&#x200d;ध न होने की स्थिति में विशेष उपयोगी है। इसका विकास भारतीय विमानपत्&#x200d;तन प्राधिकरण ने किया है। नागर विमानन मंत्री राम मोहन नायडू ने कहा कि इस उपलब्धि के साथ ही देश में सुरक्षित उड़ान, प्रचालन दक्षता और हर मौसम में हेलीकॉप्&#x200d;टर उड़ान के एक नए युग की शुरुआत हो रही है। इससे देश के दूसरे हेलीपोर्ट पर भी पिन्&#x200d;स प्रक्रिया अपनाने का मार्ग प्रशस्&#x200d;त होगा।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T01:47:45+00:00",
+        "link": "https://newsonair.gov.in/hi/india-approves-first-indigenous-pins-procedure-for-helicopter-operations/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1508,14 +1495,38 @@ window.VM_NEWS = {
     ],
     "world": [
       {
+        "title": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स तथा ए.आई सहित विभिन्न क्षेत्रों में समझौते किए",
+        "summary": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। […]",
+        "article": "भारत और जापान ने आर्थिक और ऊर्जा सुरक्षा, फार्मास्यूटिकल्स, रक्षा तथा ए.आई सहित विभिन्न क्षेत्रों में कई समझौते किए। प्रधानमंत्री नरेंद्र मोदी ने आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता की। सम्मेलन में दोनों पक्षों ने द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा की। इसके साथ ही पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचार विमर्श किया गया। संयुक्त संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि आज के समय में सामूहिक विश्वास सबसे बड़ी संपत्ति है और भारत-जापान की द्विपक्षीय साझेदारी समय की कसौटी पर खरी उतरी है। उन्होंने कहा कि भारत और जापान आज विश्व की सबसे बड़ी अर्थव्यवस्थाओं में से हैं और एक स्वतंत्र और खुला हिंद-प्रशांत क्षेत्र दोनों देशों की साझा प्राथमिकता है। उन्होंने कहा कि दोनों देश आर्थिक सुरक्षा और ऊर्जा सुरक्षा के महत्व को समझते हैं। उन्होंने कहा कि प्रौद्योगिकी साझेदारी भारत-जापान सहयोग का सबसे महत्वपूर्ण स्तंभ होगा। श्री मोदी ने कहा कि इस परिकल्पना को साकार करने के लिए भारत और जापान ने ए.आई के क्षेत्र में एक संयुक्त वक्तव्य जारी किया है। प्रधानमंत्री ने कहा कि जापान की सटीक प्रौद्योगिकी और भारत की सॉफ्टवेयर क्षमताओं का संगम वैश्विक एआई विकास को नई गति और शक्ति प्रदान करेगा। उन्होंने बताया कि रक्षा क्षेत्र में आज दोनों देशों ने भारत और जापान के बीच पहली सह-विकास परियोजना पर एक समझौते पर हस्ताक्षर किए हैं। प्रधानमंत्री ने कहा कि ऊर्जा सुरक्षा के क्षेत्र में कई महत्वपूर्ण निर्णय लिए गए हैं। उन्होंने कहा कि भारत-जापान जैव-गैस पहल के माध्यम से भारत में एक हजार जैव-गैस और जैविक उर्वरक संयंत्र स्थापित किए जाएंगे। उन्होंने कहा कि इससे भारत के गांवों में स्थिरता, समृद्धि और ग्रामीण आजीविका को नई शक्ति मिलेगी। प्रधानमंत्री ने कहा कि भारत और जापान की अर्थव्यवस्थाएं एक-दूसरे की पूरक हैं। उन्होंने कहा कि सांस्कृतिक मूल्यों से लेकर आधुनिक प्रौद्योगिकी तक, दोनों देशों की सोच और दृष्टिकोण में समानता है। इससे पहले आज, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया है कि भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:36:33+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-receives-japanese-pm-sanae-takaichi-at-hyderabad-house/",
+        "post_id": 1713718,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कनाडा में मौसम का कहर, कहीं भीषण गर्मी तो कहीं गंभीर बाढ़ का प्रकोप",
+        "summary": "कनाडा के अधिकतर क्षेत्रों में भीषण गर्मी का प्रकोप जारी है। वहीं, कुछ क्षेत्रों में बारिश और बाढ़ की समस्या बनी हुई है। ओंटारियो, क्यूबेक, प्रेयरीज़ और नॉर्थवेस्ट टेरिटरीज़ के कुछ हिस्सों के लिए गर्मी की चेतावनी जारी की गई है। अधिकारियों ने लोगों को पर्याप्त मात्रा में पानी पीने, बाहरी गतिविधियों से बचने और […]",
+        "article": "कनाडा के अधिकतर क्षेत्रों में भीषण गर्मी का प्रकोप जारी है। वहीं, कुछ क्षेत्रों में बारिश और बाढ़ की समस्या बनी हुई है। ओंटारियो, क्यूबेक, प्रेयरीज़ और नॉर्थवेस्ट टेरिटरीज़ के कुछ हिस्सों के लिए गर्मी की चेतावनी जारी की गई है। अधिकारियों ने लोगों को पर्याप्त मात्रा में पानी पीने, बाहरी गतिविधियों से बचने और वरिष्ठ नागरिकों तथा बच्चों का ध्यान रखने की सलाह दी है।",
+        "date": "2026-07-02",
+        "pubDate": "2026-07-02T08:16:41+00:00",
+        "link": "https://newsonair.gov.in/hi/canada-hit-by-extreme-weather-with-heatwave-and-severe-flooding/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "यूएनजीए ने एक बार फिर भारत के प्रस्तावित आतंकवाद सम्मेलन को अपनाने का आग्रह किया",
         "summary": "अंतर्राष्ट्रीय आतंकवाद पर व्यापक सम्मेलन के लिए भारत के लंबे समय से चले आ रहे प्रस्ताव को संयुक्त राष्ट्र महासभा में फिर से समर्थन मिला है। 140 सदस्‍यों द्वारा अपनाई गई संयुक्त राष्ट्र की वैश्विक आतंकरोधी रणनीति की नौवीं समीक्षा में सदस्य देशों से आग्रह किया गया है कि वे भारत द्वारा तीन दशक पहले […]",
         "article": "अंतर्राष्ट्रीय आतंकवाद पर व्यापक सम्मेलन के लिए भारत के लंबे समय से चले आ रहे प्रस्ताव को संयुक्त राष्ट्र महासभा में फिर से समर्थन मिला है। 140 सदस्&#x200d;यों द्वारा अपनाई गई संयुक्त राष्ट्र की वैश्विक आतंकरोधी रणनीति की नौवीं समीक्षा में सदस्य देशों से आग्रह किया गया है कि वे भारत द्वारा तीन दशक पहले प्रस्तावित सम्मेलन को अंतिम रूप देने के लिए हर संभव प्रयास करें। संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि पी. हरीश ने कहा कि सर्वमान्य कानूनी ढांचे का अभाव वैश्विक आतंकरोधी प्रयासों को कमजोर करता है। उन्होंने आतंकवाद से निपटने में दोहरे मापदंड न अपनाने पर जोर देते हुए अपराधियों, वित्तपोषकों और प्रायोजकों को जवाबदेह ठहराने का आह्वान किया। श्री हरीश ने कहा कि यह सम्मेलन अंतर्राष्ट्रीय सहयोग, अभियोजन और प्रत्यर्पण को मजबूत करेगा और आतंकवादियों को सुरक्षित ठिकाने, धन और हथियार प्राप्त करने से वंचित करेगा। अमरीका, इस्राएल और अर्जेंटीना ने रणनीति के विरुद्ध मतदान किया।",
         "date": "2026-07-02",
         "pubDate": "2026-07-02T07:54:10+00:00",
         "link": "https://newsonair.gov.in/hi/unga-again-urges-adoption-of-terrorism-convention-proposed-by-india/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pooo.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "post_id": 1714498,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1525,8 +1536,8 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T07:34:04+00:00",
         "link": "https://newsonair.gov.in/hi/russian-drone-and-missile-attack-on-kyiv-kills-thirteen-injures-several/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202606183830204.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1536,8 +1547,8 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T07:33:37+00:00",
         "link": "https://newsonair.gov.in/hi/rights-groups-condemn-arrest-of-baloch-activist-decry-pakistani-fascism/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607023848644.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1547,19 +1558,9 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T06:48:38+00:00",
         "link": "https://newsonair.gov.in/hi/india-calls-for-united-global-action-against-terrorism-at-united-nations/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607023848605.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "राष्ट्रपति भवन के प्रांगण में जापान की पीएम सनाए ताकाइची का औपचारिक स्वागत किया गया",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता करेंगे। यह सम्मेलन दोनों पक्षों को द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा और सुदृढ़ीकरण करेगा। इसमें पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचारों का आदान-प्रदान होगा। प्रधानमंत्री मोदी और प्रधानमंत्री ताकाइची के […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज नई दिल्ली में जापान की प्रधानमंत्री सनाए ताकाइची के साथ वार्षिक शिखर सम्मेलन स्तर की वार्ता करेंगे। यह सम्मेलन दोनों पक्षों को द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा और सुदृढ़ीकरण करेगा। इसमें पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचारों का आदान-प्रदान होगा। प्रधानमंत्री मोदी और प्रधानमंत्री ताकाइची के बीच कई समझौता ज्ञापनों पर हस्ताक्षर होने की आशा है। आज सुबह, प्रधानमंत्री ताकाइची का राष्ट्रपति भवन के प्रांगण में औपचारिक स्वागत किया गया। इस अवसर पर प्रधानमंत्री नरेंद्र मोदी भी उपस्थित थे। जापान की प्रधानमंत्री कल शाम तीन दिन के भारत दौरे पर नई दिल्ली पहुंची। प्रधानमंत्री ताकाइची का यह भारत का पहला आधिकारिक दौरा है। विदेश मंत्रालय ने कहा कि यह दौरा भारत और जापान के बीच विशेष रणनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। भारत-जापान संबंध उच्च स्तरीय राजनीतिक गतिविधियों से लगातार जुड़े रहे हैं। हाल ही में, प्रधानमंत्री नरेंद्र मोदी ने फ्रांस में जी7 शिखर सम्मेलन के दौरान जापान की प्रधानमंत्री से बातचीत की थी। दोनों नेताओं की मुलाकात पिछले साल नवंबर में जोहान्सबर्ग में जी20 शिखर सम्मेलन से इतर हुई थी। वार्षिक शिखर सम्मेलन साझेदारी के रणनीतिक एजेंडे को आगे बढ़ाने वाला प्रमुख मंच बना हुआ है। आर्थिक सुरक्षा इस रिश्ते का एक महत्वपूर्ण स्तंभ बनकर उभरी है। नवंबर 2024 में टोक्यो में आयोजित पहले आर्थिक सुरक्षा संवाद के दौरान, दोनों पक्षों ने रणनीतिक सहयोग के लिए पांच क्षेत्रों को प्राथमिकता वाले क्षेत्रों के रूप में पहचाना। ये क्षेत्र हैं: सेमीकंडक्टर, महत्वपूर्ण खनिज, फार्मास्यूटिकल्स, स्वच्छ ऊर्जा और सूचना और संचार प्रौद्योगिकी।",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T05:44:33+00:00",
-        "link": "https://newsonair.gov.in/hi/japan-pm-sanae-takaichi-receives-ceremonial-welcome-at-rashtrapati-bhavan/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/iooo.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "post_id": 1714389,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1569,8 +1570,9 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T01:57:35+00:00",
         "link": "https://newsonair.gov.in/hi/india-and-malaysia-review-aspects-of-bilateral-military-cooperation-during-the-12th-sub-committee-meeting-in-new-delhi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMJMsKYa0AEov3T.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "post_id": 1712903,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1580,8 +1582,8 @@ window.VM_NEWS = {
         "date": "2026-07-01",
         "pubDate": "2026-07-01T16:24:48+00:00",
         "link": "https://newsonair.gov.in/hi/ukrainian-forces-attacked-russias-major-ufa-oil-refinery-for-the-second-time-in-a-week/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1591,8 +1593,8 @@ window.VM_NEWS = {
         "date": "2026-07-01",
         "pubDate": "2026-07-01T16:15:56+00:00",
         "link": "https://newsonair.gov.in/hi/belarus-president-alexander-lukashenko-pardons-28-political-prisoners/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1602,19 +1604,8 @@ window.VM_NEWS = {
         "date": "2026-07-01",
         "pubDate": "2026-07-01T15:34:09+00:00",
         "link": "https://newsonair.gov.in/hi/protests-in-pok-demanding-constitutional-rights/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "जापान की प्रधानमंत्री सनाए ताकाइची भारत की तीन दिन की यात्रा पर नई दिल्ली पहुंचीं",
-        "summary": "जापान की प्रधानमंत्री सनाए ताकाइची भारत की तीन दिन की यात्रा पर आज शाम नई दिल्ली पहुंचीं। प्रधानमंत्री ताकाइची का स्वागत राज्य मंत्री डॉ. जितेंद्र सिंह ने किया। प्रधानमंत्री ताकाइची की यह भारत की पहली आधिकारिक यात्रा है। वे कल प्रधानमंत्री नरेन्द्र मोदी के साथ 16वें भारत-जापान वार्षिक शिखर सम्मेलन में भाग लेंगी। यह शिखर […]",
-        "article": "जापान की प्रधानमंत्री सनाए ताकाइची भारत की तीन दिन की यात्रा पर आज शाम नई दिल्ली पहुंचीं। प्रधानमंत्री ताकाइची का स्वागत राज्य मंत्री डॉ. जितेंद्र सिंह ने किया। प्रधानमंत्री ताकाइची की यह भारत की पहली आधिकारिक यात्रा है। वे कल प्रधानमंत्री नरेन्द्र मोदी के साथ 16वें भारत-जापान वार्षिक शिखर सम्मेलन में भाग लेंगी। यह शिखर सम्मेलन दोनों पक्षों को द्विपक्षीय सहयोग के सभी पहलुओं की समीक्षा और सुदृढ़ीकरण करने के साथ-साथ पारस्परिक हित के क्षेत्रीय और वैश्विक मुद्दों पर विचारों का आदान-प्रदान करने का अवसर प्रदान करेगा। प्रधानमंत्री मोदी और जापानी प्रधानमंत्री के बीच वार्ता के बाद कई समझौता ज्ञापनों पर हस्ताक्षर होने की उम्मीद है। विदेश मंत्रालय ने कहा कि यह यात्रा भारत और जापान के बीच विशेष कार्यनीतिक और वैश्विक साझेदारी को आगे बढ़ाने की दिशा में एक महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया है कि जापान एकमात्र ऐसा देश है जिसके साथ भारत का पूर्वोत्तर के विकास के लिए एक समर्पित संस्थागत तंत्र है, जिसे भारत-जापान एक्ट ईस्ट फोरम के रूप से जाना जाता है।",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T15:02:26+00:00",
-        "link": "https://newsonair.gov.in/hi/japanese-prime-minister-sanae-takaichi-arrives-in-new-delhi-on-a-three-day-visit-to-india/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMJiPdZbsAAgZhL.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -1626,8 +1617,8 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T02:02:13+00:00",
         "link": "https://newsonair.gov.in/hi/durand-cup-135th-edition-announces-participating-teams-for-five-host-cities/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ANI-20260701090529.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1637,8 +1628,8 @@ window.VM_NEWS = {
         "date": "2026-07-01",
         "pubDate": "2026-07-01T02:28:24+00:00",
         "link": "https://newsonair.gov.in/hi/australia-reaches-womens-t20-world-cup-final-after-beating-west-indies-by-8-wickets/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMFJqrLakAApsnY.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1648,8 +1639,8 @@ window.VM_NEWS = {
         "date": "2026-07-01",
         "pubDate": "2026-07-01T02:19:59+00:00",
         "link": "https://newsonair.gov.in/hi/hockey-india-announces-22-member-junior-mens-team-for-belgium-tour-july-5-18/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMGx9EpagAAH9Mp.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1659,8 +1650,8 @@ window.VM_NEWS = {
         "date": "2026-07-01",
         "pubDate": "2026-07-01T02:00:52+00:00",
         "link": "https://newsonair.gov.in/hi/india-england-five-match-t20-series-begins-in-england-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202606303846688-scaled.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1670,8 +1661,8 @@ window.VM_NEWS = {
         "date": "2026-06-30",
         "pubDate": "2026-06-30T04:47:56+00:00",
         "link": "https://newsonair.gov.in/hi/morocco-netherlands-penalty-win-world-cup/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMCMGWRXkAA-Fbz-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1681,8 +1672,8 @@ window.VM_NEWS = {
         "date": "2026-06-30",
         "pubDate": "2026-06-30T03:20:07+00:00",
         "link": "https://newsonair.gov.in/hi/brazil-japan-round-of-16/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMB3aRoXAAA54Ou.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1692,8 +1683,8 @@ window.VM_NEWS = {
         "date": "2026-06-29",
         "pubDate": "2026-06-29T02:59:45+00:00",
         "link": "https://newsonair.gov.in/hi/in-mens-cricket-ireland-defeated-india-by-one-run-in-the-second-and-final-t20-international-match/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Prime-Minister-Narendra-Modi-today-said-tribal-communities-are-emerging-as-active-participants-in-Indias-development-journey-empowered-by-a-range-of-welfare-and-outreach-initiatives-of-the-Centr-3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1703,8 +1694,8 @@ window.VM_NEWS = {
         "date": "2026-06-29",
         "pubDate": "2026-06-29T01:12:46+00:00",
         "link": "https://newsonair.gov.in/hi/icc-womens-t20-world-cup-australia-defeated-india-by-six-wickets/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HL6QSglaYAA4EHH-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1714,8 +1705,8 @@ window.VM_NEWS = {
         "date": "2026-06-29",
         "pubDate": "2026-06-29T01:06:00+00:00",
         "link": "https://newsonair.gov.in/hi/fih-pro-league-indian-mens-hockey-team-defeated-england-in-a-penalty-shootout/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HL6tin5b0AA8PuM.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1725,212 +1716,13 @@ window.VM_NEWS = {
         "date": "2026-06-29",
         "pubDate": "2026-06-29T01:02:27+00:00",
         "link": "https://newsonair.gov.in/hi/canada-defeated-south-africa-in-the-knockout-stage-of-the-fifa-world-cup-2/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HL7X_uLXsAAwFKT.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "business": [
-      {
-        "title": "ईपीएफओ ने वित्त वर्ष 2025-26 के लिए ब्‍याज दर 8.25% रखने की घोषणा की",
-        "summary": "कर्मचारी भविष्य निधि संगठन (ईपीएफओ) ने वित्तीय वर्ष 2025-26 के लिए ई.पी.एफ जमा पर 8.25% ब्याज दर की आधिकारिक रूप से घोषणा कर दी है। श्रम एवं रोजगार मंत्रालय द्वारा ईपीएफ योजना, 1952 के अंतर्गत इस दर को मंजूरी दी गई है। संगठन ने क्षेत्रीय और आंचलिक कार्यालयों को निर्देश दिया है कि वे अनुमोदित […]",
-        "article": "कर्मचारी भविष्य निधि संगठन (ईपीएफओ) ने वित्तीय वर्ष 2025-26 के लिए ई.पी.एफ जमा पर 8.25% ब्याज दर की आधिकारिक रूप से घोषणा कर दी है। श्रम एवं रोजगार मंत्रालय द्वारा ईपीएफ योजना, 1952 के अंतर्गत इस दर को मंजूरी दी गई है। संगठन ने क्षेत्रीय और आंचलिक कार्यालयों को निर्देश दिया है कि वे अनुमोदित ब्याज राशि को सदस्यों के ईपीएफ खातों में जमा करें।",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T02:58:26+00:00",
-        "link": "https://newsonair.gov.in/hi/epfo-officially-announces-8-25-interest-rate-on-epf-deposits-for-the-financial-year-2025-26/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/dgrmc13c_epfo_625x300_09_April_25.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "19 किलोग्राम व्यावसायिक एलपीजी सिलेंडर सस्ता, कीमत में 183.50 रुपये की कमी",
-        "summary": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्‍यावसायिक एलपीजी सिलेंडर के मूल्‍य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि‍टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्‍यावसायिक एलपीजी सिलेंडर दिल्‍ली में 2930 रुपये में मिलेगा। इस फैसले से […]",
-        "article": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्&#x200d;यावसायिक एलपीजी सिलेंडर के मूल्&#x200d;य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि&#x200d;टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्&#x200d;यावसायिक एलपीजी सिलेंडर दिल्&#x200d;ली में 2930 रुपये में मिलेगा। इस फैसले से रेस्&#x200d;तरां, ढाबा, होटल और अन्&#x200d;य खान-पान व्&#x200d;यावसायियों को लाभ होगा।",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T05:04:37+00:00",
-        "link": "https://newsonair.gov.in/hi/commercial-lpg-cylinder-price-cut-by-183-50-rupees/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260502237f-1-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील की अंतिम तिथि 31 जुलाई तक बढ़ाई",
-        "summary": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्‍त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्‍न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्‍या […]",
-        "article": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्&#x200d;त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्&#x200d;न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्&#x200d;या के कारण आई तकनीकी बाधा का हवाला दिया था। जिसके बाद सरकार ने अंतिम तिथि बढ़ाकर 31 जुलाई निर्धारित की। सरकार ने करदाताओं को भी सलाह दी है कि वे समय रहते ही अपील दायर कर दें और अंतिम तिथ&#x200d;ि का इंतजार न करें।",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T07:55:27+00:00",
-        "link": "https://newsonair.gov.in/hi/gst-appellate-tribunal-appeal-deadline-extended-july-31/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Untitled-design-1-8.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने एक जुलाई से पेट्रोल और डीज़ल की बिक्री व वितरण पर लगा प्रतिबंध हटाने का फैसला किया",
-        "summary": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम […]",
-        "article": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम एशिया संकट के दौरान अंतरराष्ट्रीय बाजार में ईंधन की कीमतों में तेज़ बढ़ोतरी के बावजूद सरकार ने पेट्रोल और डीज़ल की खुदरा कीमतों को स्थिर रखा। इससे खुदरा और थोक उपभोक्ताओं के लिए ईंधन की कीमतों में बड़ा अंतर पैदा हो गया था। इस स्थिति से निपटने के लिए 12 जून से अस्थायी नियामक उपाय लागू किए गए थे। इनके तहत खुदरा पेट्रोल पंपों पर एक ग्राहक या वाहन को प्रतिदिन अधिकतम 200 लीटर हाई स्पीड डीज़ल देने की सीमा तय की गई थी। साथ ही औद्योगिक, संस्थागत और व्यावसायिक उपभोक्ताओं के लिए अलग व्यवस्था की गई थी। इन उपायों का उद्देश्य डीज़ल की कालाबाज़ारी, जमाखोरी और अवैध बिक्री को रोकना तथा आम उपभोक्ताओं के लिए पेट्रोल और डीज़ल की निर्बाध उपलब्धता सुनिश्चित करना था। मंत्रालय ने कहा कि अब देश में पेट्रोलियम उत्पादों की आपूर्ति सामान्य हो गई है और पेट्रोल-डीज़ल की पर्याप्त उपलब्धता सुनिश्चित है। इसलिए जनहित में इन अस्थायी प्रतिबंधों को वापस लेने का निर्णय लिया गया है।",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T03:05:15+00:00",
-        "link": "https://newsonair.gov.in/hi/fuel-sales-restrictions/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260523106F_cPfEGOF-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "उत्तराखंड के लिपुलेख दर्रे से भारत-चीन सीमा व्यापार 6 वर्ष बाद फिर होगा शुरू, 26 व्यापार पास जारी किए गए",
-        "summary": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि […]",
-        "article": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि व्यापार को सुगम बनाने के लिए गुंजी में सीमा शुल्क कार्यालय खोला गया है। व्यापारियों ने अपना सामान पहले ही लिपुलेख दर्रे के निकट स्थित गोदामों में पहुंचा दिया है। प्रशासन को 103 से अधिक व्यापारियों के आवेदन प्राप्त हुए हैं और जल्द ही 25 व्यापारियों के दूसरे दल को भी व्यापार पास जारी किए जाएंगे। सामान ढुलाई के लिए नाभीढांग के पास खच्चरों और घोड़ों की व्यवस्था की गई है। भारत-चीन सीमा व्यापार वर्ष 1991 में पुनः शुरू हुआ था, लेकिन कोविड-19 महामारी के कारण वर्ष 2020 में इसे स्थगित कर दिया गया था। छह वर्ष बाद व्यापार बहाल होने से सीमावर्ती क्षेत्रों की अर्थव्यवस्था को नई गति मिलने की उम्मीद है।",
-        "date": "2026-06-25",
-        "pubDate": "2026-06-25T02:30:19+00:00",
-        "link": "https://newsonair.gov.in/hi/india-china-border-trade-via-uttarakhands-lipulekh-pass-to-resume-after-six-years-26-trade-passes-issued/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Untitled-design-5-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "खनन मंत्रालय ने 7वें चरण की सफल नीलामी के साथ दी खनिज मिशन को गति",
-        "summary": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई […]",
-        "article": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई है। इनमें ग्रेफाइट, रेयर अर्थ एलिमेंट, वैनेडियम, टाइटेनियम, ग्लूकोनाइट और रॉक फॉस्फेट जैसे खनिज शामिल हैं। अब नीलाम किए गए अन्वेषण लाइसेंस ब्लॉक की संख्या 11 हो गई है। अरुणाचल प्रदेश, उत्तर प्रदेश और ओडिशा में पहली बार अन्वेषण लाइसेंस ब्लॉक की नीलामी की गई। खान मंत्रालय के अनुसार, यह नीलामी भारत के खनिज क्षेत्र में उद्योग जगत के बढ़ते भरोसे को दिखाती है। इससे स्वच्छ उर्जा, इलेक्ट्रिक मोबिलिटी, नवीकरणीय उर्जा, इलेक्ट्रॉनिक्स, रक्षा और उन्नत विनिर्माण के लिए ज़रूरी खनिज की खोज और विकास में तेज़ी आएगी। इससे आयात पर निर्भरता कम होगी और घरेलू खनिज आपूर्ति श्रृंखला मज़बूत होगी।",
-        "date": "2026-06-24",
-        "pubDate": "2026-06-24T02:04:58+00:00",
-        "link": "https://newsonair.gov.in/hi/ministry-of-mines-gives-impetus-to-mineral-mission-with-successful-7th-round-of-auctions/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/Ministry-of-mines.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "फार्मास्यूटिकल्स विभाग ने चिकित्सा उपकरणों की जीटीई छूट सूची में संशोधन के लिए सुझाव आमंत्रित किए",
-        "summary": "रसायन और उर्वरक मंत्रालय के अधीन फार्मास्यूटिकल्स विभाग ने चिकित्सा उपकरणों की वैश्विक निविदा जांच-जीटीई, छूट सूची में संशोधन के लिए प्राप्त प्रस्तावों पर हितधारकों से सुझाव आमंत्रित किए हैं। मंत्रालय ने बताया कि इस वर्ष फरवरी में जारी सार्वजनिक सूचना के माध्यम से मौजूदा जीटीई छूट सूची पर प्रतिक्रिया मांगी गई थी, जिसके बाद […]",
-        "article": "रसायन और उर्वरक मंत्रालय के अधीन फार्मास्यूटिकल्स विभाग ने चिकित्सा उपकरणों की वैश्विक निविदा जांच-जीटीई, छूट सूची में संशोधन के लिए प्राप्त प्रस्तावों पर हितधारकों से सुझाव आमंत्रित किए हैं। मंत्रालय ने बताया कि इस वर्ष फरवरी में जारी सार्वजनिक सूचना के माध्यम से मौजूदा जीटीई छूट सूची पर प्रतिक्रिया मांगी गई थी, जिसके बाद विभाग को विभिन्न हितधारकों से सूची में प्रविष्टियों को जोड़ने, हटाने या संशोधित करने के अनुरोध प्राप्त हुए हैं। मंत्रालय ने कहा कि घरेलू निर्माताओं, आयातकों, उद्योग संघों, खरीद एजेंसियों और स्वास्थ्य संस्थानों सहित सभी संबंधित हितधारक 15 जुलाई से पहले सहायक जानकारी सहित अपने सुझाव प्रस्तुत कर सकते हैं। मंत्रालय ने सूचित किया कि सुझाव usmedicaldevices@pharma-dept.gov.in पर ईमेल के माध्यम से भेजे जा सकते हैं और इसकी एक प्रति so-medicaldevices@pharma-dept.gov.in पर भी भेजी जा सकती है।",
-        "date": "2026-06-23",
-        "pubDate": "2026-06-23T13:08:34+00:00",
-        "link": "https://newsonair.gov.in/hi/pharmaceuticals-dept-invites-suggestions-for-revising-gte-exemption-list-for-medical-devices/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/gte.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "एनएचएआई ने एनसीएईआर के साथ एक समझौता ज्ञापन पर हस्ताक्षर किए",
-        "summary": "भारतीय राष्ट्रीय राजमार्ग प्राधिकरण -एनएचएआई ने राष्ट्रीय अनुप्रयुक्त आर्थिक अनुसंधान परिषद -एनसीएईआर के साथ एक समझौता ज्ञापन पर हस्ताक्षर किए हैं। इसके अंतर्गत दोनों मंत्रालयों में राष्‍ट्रीय परिवहन, गतिशीलता और किफायती आवा-जाही व्‍यवस्‍था की स्थापना की जाएगी। केंद्र का मुख्य उद्देश्य सड़क और परिवहन क्षेत्र में दीर्घकालिक योजना, निवेश और नीति निर्माण में सहयोग हेतु […]",
-        "article": "भारतीय राष्ट्रीय राजमार्ग प्राधिकरण -एनएचएआई ने राष्ट्रीय अनुप्रयुक्त आर्थिक अनुसंधान परिषद -एनसीएईआर के साथ एक समझौता ज्ञापन पर हस्ताक्षर किए हैं। इसके अंतर्गत दोनों मंत्रालयों में राष्&#x200d;ट्रीय परिवहन, गतिशीलता और किफायती आवा-जाही व्&#x200d;यवस्&#x200d;था की स्थापना की जाएगी। केंद्र का मुख्य उद्देश्य सड़क और परिवहन क्षेत्र में दीर्घकालिक योजना, निवेश और नीति निर्माण में सहयोग हेतु उपयोगी अंतर्दृष्टि प्रदान करना होगा। मंत्रालय ने कहा कि अनुसंधान के अतिरिक्&#x200d;त यह केंद्र नीतिगत संक्षिप्त विवरणों, कार्यपत्रों और प्रमुख रिपोर्टों के माध्यम से निष्कर्षों का प्रसार करके परिवहन क्षेत्र के लिए एक ज्ञान केंद्र के रूप में कार्य करेगा।",
-        "date": "2026-06-23",
-        "pubDate": "2026-06-23T13:05:25+00:00",
-        "link": "https://newsonair.gov.in/hi/nhai-signs-memorandum-of-understanding-with-ncaer/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/NHAI-2-scaled-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "जी.एस.टी से सरकार को जून महीने में 1 लाख 94 हजार 812 करोड़ रुपये का राजस्व प्राप्त हुआ",
-        "summary": "वस्तु और सेवा कर -जी.एस.टी से सरकार को जून महीने में एक लाख 94 हजार 812 करोड़ रुपये का राजस्व प्राप्त हुआ। यह पिछले वर्ष जून की तुलना में 13 दशमलव 9 प्रतिशत अधिक है। वित्त मंत्रालय की ओर से जारी आंकड़ों में यह कहा गया है कि जून में घरेलू जी.एस.टी संग्रह एक लाख […]",
-        "article": "वस्तु और सेवा कर -जी.एस.टी से सरकार को जून महीने में एक लाख 94 हजार 812 करोड़ रुपये का राजस्व प्राप्त हुआ। यह पिछले वर्ष जून की तुलना में 13 दशमलव 9 प्रतिशत अधिक है। वित्त मंत्रालय की ओर से जारी आंकड़ों में यह कहा गया है कि जून में घरेलू जी.एस.टी संग्रह एक लाख 34 हजार 774 करोड़ रुपये रहा, जो पिछले वर्ष की तुलना में 6 दशमलव 5 प्रतिशत अधिक है। इस दौरान आयात पर जी.एस.टी संग्रह 34 दशमलव 6 प्रतिशत बढ़कर 60 हजार 38 करोड़ रुपए पर पहुंच गया।",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T12:58:10+00:00",
-        "link": "https://newsonair.gov.in/hi/the-government-received-revenue-of-rs-194812-crore-from-gst-in-the-month-of-june/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "नीति आयोग के उपाध्यक्ष ने कहा, पिछली तिमाही में भारत का कुल व्यापार 5.4% बढ़ा",
-        "summary": "नीति आयोग के उपाध्यक्ष डॉ. अशोक कुमार लाहिड़ी ने कहा है कि पिछली तिमाही में भारत का कुल व्यापार 5.4 प्रतिशत बढ़ा है। कल नई दिल्ली में &#8216;ट्रेड वॉच क्वार्टरली&#8216; रिपोर्ट का नया संस्करण जारी करते हुए उन्होंने कहा कि पिछली तिमाही में भारत का निर्यात 1 खरब 84 अरब डॉलर पर पहुंच गया और […]",
-        "article": "नीति आयोग के उपाध्यक्ष डॉ. अशोक कुमार लाहिड़ी ने कहा है कि पिछली तिमाही में भारत का कुल व्यापार 5.4 प्रतिशत बढ़ा है। कल नई दिल्ली में &#8216; ट्रेड वॉच क्वार्टरली &#8216; रिपोर्ट का नया संस्करण जारी करते हुए उन्होंने कहा कि पिछली तिमाही में भारत का निर्यात 1 खरब 84 अरब डॉलर पर पहुंच गया और आयात में साढ़े 6 प्रतिशत की वृद्धि हुई। रिपोर्ट में, वैश्विक व्यापार में भारत की भूमिका का विश्लेषण किया गया है, जिसमें ख़ासकर औषधि व्यापार पर ध्यान केंद्रित किया गया है।",
-        "date": "2026-06-24",
-        "pubDate": "2026-06-24T02:06:08+00:00",
-        "link": "https://newsonair.gov.in/hi/niti-aayog-vice-chairman-says-indias-total-trade-grew-by-5-4-in-the-last-quarter/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
+    "business": [],
     "entertainment": [
-      {
-        "title": "दशावतारसह एकूण ४ चित्रपट ऑस्करच्या सर्वसाधारण श्रेणीसाठी पात्र",
-        "summary": "कांतारा &#8211; द लिजंट चॅप्टर १, तन्वी द ग्रेट, महावतार नरसिम्हा, टुरिस्ट फॅमिली, आणि सिस्टर मिडनाइट हे ५ भारतीय चित्रपट ऑस्करच्या उत्कृष्ट चित्रपट श्रेणीसाठी पात्र ठरले आहेत. अकादमी ऑफ मोशन पिक्चरने आज ही घोषणा केली. याशिवाय दशावतार, महामंत्रा, पेपर फ्लॉवर, पारो हे ४ चित्रपट सर्वसाधारण श्रेणीसाठी पात्र आहेत. एकूण ३१७ चित्रपट ९८ व्या ऑस्कर पुरस्करांसाठी […]",
-        "article": "कांतारा &#8211; द लिजंट चॅप्टर १, तन्वी द ग्रेट, महावतार नरसिम्हा, टुरिस्ट फॅमिली, आणि सिस्टर मिडनाइट हे ५ भारतीय चित्रपट ऑस्करच्या उत्कृष्ट चित्रपट श्रेणीसाठी पात्र ठरले आहेत. अकादमी ऑफ मोशन पिक्चरने आज ही घोषणा केली. याशिवाय दशावतार, महामंत्रा, पेपर फ्लॉवर, पारो हे ४ चित्रपट सर्वसाधारण श्रेणीसाठी पात्र आहेत. एकूण ३१७ चित्रपट ९८ व्या ऑस्कर पुरस्करांसाठी पात्र ठरले आहेत. त्यातल्या २०१ चित्रपटांकडे उत्कृष्ट चित्रपट श्रेणीसाठीची अतिरीक्त पात्रता असल्याचं अकादमीनं जाहीर केलं. या सर्व चित्रपटांमधून ऑस्करसाठी नामांकित झालेल्या चित्रपटांची यादी २२ जानेवारी जाहीर होईल. याशिवाय भारताकडून आंतरराष्ट्रीय चित्रपट श्रेणीसाठी होमबाऊंड या चित्रपटाचं नामांकन करण्यात आलं आहे.",
-        "date": "2026-01-09",
-        "pubDate": "2026-01-09T09:40:13+00:00",
-        "link": "https://newsonair.gov.in/mr/oscar-award/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/l63820260109095706.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ज्येष्ठ अभिनेते श्रीनिवासन यांचं निधन",
-        "summary": "मल्याळी चित्रपटसृष्टीतले ज्येष्ठ अभिनेते, पटकथा लेखक आणि दिग्दर्शक श्रीनिवासन यांचं आज सकाळी कोची इथं दीर्घ आजारानं निधन झालं. ते ६९ वर्षांचे होते. १९७६ साली ‘मणीमुझक्कम’ या चित्रपटातून आपल्या अभिनय कारकिर्दीला सुरुवात करणाऱ्या श्रीनिवासन यांनी मोहनलाल आणि ममूठी सारख्या अभिनेत्यां सोबत अनेक चित्रपटांत सहकलाकाराच्या भूमिका निभावल्या. श्रीनिवासन यांनी २२५ हुन अधिक चित्रपटांमध्ये अभिनय केला असून १९९८",
-        "article": "मल्याळी चित्रपटसृष्टीतले ज्येष्ठ अभिनेते, पटकथा लेखक आणि दिग्दर्शक श्रीनिवासन यांचं आज सकाळी कोची इथं दीर्घ आजारानं निधन झालं. ते ६९ वर्षांचे होते. १९७६ साली ‘मणीमुझक्कम’ या चित्रपटातून आपल्या अभिनय कारकिर्दीला सुरुवात करणाऱ्या श्रीनिवासन यांनी मोहनलाल आणि ममूठी सारख्या अभिनेत्यां सोबत अनेक चित्रपटांत सहकलाकाराच्या भूमिका निभावल्या. श्रीनिवासन यांनी २२५ हुन अधिक चित्रपटांमध्ये अभिनय केला असून १९९८ मध्ये त्यांनी दिग्दर्शित केलेल्या ‘चिंथाविष्टयाया श्यामला’ या चित्रपटाला सर्वोत्कृष्ट सामाजिक चित्रपटासाठी राष्ट्रीय पुरस्कार प्राप्त झाला आहे.",
-        "date": "2025-12-20",
-        "pubDate": "2025-12-20T10:08:03+00:00",
-        "link": "https://newsonair.gov.in/mr/sreenivasan-death/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/befunky-sample-66_1766204685.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Oscars 2026: निवडक १५ चित्रपटांमधे ‘होमबाऊंड’ चित्रपटाचा समावेश",
-        "summary": "ऑस्कर २०२६ अर्थात ९८व्या अकॅडेमी पारितोषिकांसाठीच्या अंतिम फेरीत होमबाऊंड हा भारतीय चित्रपट प्राथमिक फेरी पार करून निवडक पंधरा चित्रपटांच्या यादीत पोचला आहे. नीरज घायवान दिग्दर्शित हा भारतीय चित्रपट आंतरराष्ट्रीय चित्रपटाच्या श्रेणीत आहे. या यादीतल्या चित्रपटांचं अंतिम नामांकन २२ जानेवारीला जाहीर होईल. ९८वा अकादमी पुरस्कार सोहळा १५ मार्च २०२६ रोजी होणार आहे.",
-        "article": "ऑस्कर २०२६ अर्थात ९८व्या अकॅडेमी पारितोषिकांसाठीच्या अंतिम फेरीत होमबाऊंड हा भारतीय चित्रपट प्राथमिक फेरी पार करून निवडक पंधरा चित्रपटांच्या यादीत पोचला आहे. नीरज घायवान दिग्दर्शित हा भारतीय चित्रपट आंतरराष्ट्रीय चित्रपटाच्या श्रेणीत आहे. या यादीतल्या चित्रपटांचं अंतिम नामांकन २२ जानेवारीला जाहीर होईल. ९८वा अकादमी पुरस्कार सोहळा १५ मार्च २०२६ रोजी होणार आहे.",
-        "date": "2025-12-17",
-        "pubDate": "2025-12-17T07:59:27+00:00",
-        "link": "https://newsonair.gov.in/mr/oscars-2026-homebound/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G8WwX4naUAA-98j.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "६४व्या महाराष्ट्र राज्य हौशी मराठी नाट्य स्पर्धेचे निकाल जाहीर",
-        "summary": "६४व्या महाराष्ट्र राज्य हौशी मराठी नाट्य स्पर्धेचे विविध विभागांमधले निकाल जाहीर झाले आहेत. या स्पर्धेत मुंबई केंद्रातून ‘ती, ती आणि ती’ या नाटकाला प्रथम पारितोषिक जाहीर झालं आहे. नाशिक केंद्रातून ‘काळाच्या पंजातून’ या नाटकाला, सांगली केंद्रातून ‘तिचे संदर्भ नसलेली गोष्ट’ या नाटकाला तर लातूर विभागातून ‘दास्तान’ या नाटकाला प्रथम पारितोषिक मिळालं आहे. सिंधुदुर्ग केंद्रातून ‘सूनबाई […]",
-        "article": "६४व्या महाराष्ट्र राज्य हौशी मराठी नाट्य स्पर्धेचे विविध विभागांमधले निकाल जाहीर झाले आहेत. या स्पर्धेत मुंबई केंद्रातून ‘ती, ती आणि ती’ या नाटकाला प्रथम पारितोषिक जाहीर झालं आहे. नाशिक केंद्रातून ‘काळाच्या पंजातून’ या नाटकाला, सांगली केंद्रातून ‘तिचे संदर्भ नसलेली गोष्ट’ या नाटकाला तर लातूर विभागातून ‘दास्तान’ या नाटकाला प्रथम पारितोषिक मिळालं आहे. सिंधुदुर्ग केंद्रातून ‘सूनबाई तोऱ्यात’ या नाटकाला, सातारा केंद्रातून ‘पोकळ घिस्सा’ या नाटकाला तर नांदेड केंद्रातून ‘संपूर्ण’ या नाटकाला प्रथम पारितोषिक जाहीर झालं आहे. चंद्रपूर केंद्रातून ‘तांडा’ या नाटकाला, अमरावती केंद्रातून ‘वारकरी’ या नाटकाला तर पिंपरी चिंचवड केंद्रातून ‘सखा’ या नाटकाला प्रथम क्रमांक मिळाला आहे.",
-        "date": "2025-12-04",
-        "pubDate": "2025-12-04T14:20:50+00:00",
-        "link": "https://newsonair.gov.in/mr/drama-competition/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G7UygscaEAAVyF0.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "नागालँडमध्ये हॉर्नबिल महोत्सवाला सुरुवात",
-        "summary": "नागालँडची राजधानी कोहिमा इथल्या किसामा इथं आज २६व्या हॉर्नबिल महोत्सवाची सुरुवात झाली. नागालँडचे गव्हर्नर अजय कुमार भल्ला, मुख्यमंत्री नेईफिऊ रिओ यांनी महोत्सवाचा औपचारिक प्रारंभ केला. नागालँडच्या राज्यदिनाबरोबरच सुरू होणाऱ्या या १० दिवसांच्या महोत्सवात विविध नागा समुदाय एकत्र येऊन परंपरा, लोककला, संगीत, कला आणि अन्नसंस्कृतीचा आनंद लुटतात. या महोत्सवात यावर्षी युनायटेड किंगडम, आयर्लंड, फ्रान्स, ऑस",
-        "article": "नागालँडची राजधानी कोहिमा इथल्या किसामा इथं आज २६व्या हॉर्नबिल महोत्सवाची सुरुवात झाली. नागालँडचे गव्हर्नर अजय कुमार भल्ला, मुख्यमंत्री नेईफिऊ रिओ यांनी महोत्सवाचा औपचारिक प्रारंभ केला. नागालँडच्या राज्यदिनाबरोबरच सुरू होणाऱ्या या १० दिवसांच्या महोत्सवात विविध नागा समुदाय एकत्र ये ऊन परंपरा, लोककला, संगीत, कला आणि अन्नसंस्कृतीचा आनंद लुटतात. या महोत्सवात यावर्षी युनायटेड किंगडम, आयर्लंड, फ्रान्स, ऑस्ट्रिया, माल्टा आणि स्वित्झर्लंड हे सहा भागीदार देश आहेत.",
-        "date": "2025-12-01",
-        "pubDate": "2025-12-01T15:02:48+00:00",
-        "link": "https://newsonair.gov.in/mr/hornbill-festival-begins-in-nagaland/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/hornbill-fest.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "मुंबईत सीआयआय बिग पिक्चर समिटचं आयोजन…",
-        "summary": "देशातल्या मनोरंजन आणि माध्यम जगात खूप क्षमता आहे. त्यांचा सुयोग्य वापर होण्याची गरज केंद्रीय माहिती प्रसारण सचिव संजय जाजू यांनी आज व्यक्त केली. मुंबईत सीआयआय बिग पिक्चर समिटमध्ये ते बोलत होते. जागतिक बाजारपेठेत भारताची हिस्सेदारी केवळ २ टक्के आहे. यासंधीचा लाभ घेण्याचं आवाहन त्यांनी उद्योगाला केलं. देशातल्या मनोरंजन उद्योगावर १ कोटीहून अधिक लोकं अवलंबून आहेत. […]",
-        "article": "देशातल्या मनोरंजन आणि माध्यम जगात खूप क्षमता आहे. त्यांचा सुयोग्य वापर होण्याची गरज केंद्रीय माहिती प्रसारण सचिव संजय जाजू यांनी आज व्यक्त केली. मुंबईत सीआयआय बिग पिक्चर समिटमध्ये ते बोलत होते. जागतिक बाजारपेठेत भारताची हिस्सेदारी केवळ २ टक्के आहे. यासंधीचा लाभ घेण्याचं आवाहन त्यांनी उद्योगाला केलं. देशातल्या मनोरंजन उद्योगावर १ कोटीहून अधिक लोकं अवलंबून आहेत. AI आधारित गाणी आणि व्हिडीओ या क्षेत्रातली गणितं बदलत असताना आपणही नवनवीन तंत्रज्ञान आत्मसात करण्याची गरज त्यांनी व्यक्त केली.",
-        "date": "2025-12-01",
-        "pubDate": "2025-12-01T09:44:45+00:00",
-        "link": "https://newsonair.gov.in/mr/cii-big-picture-summit/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/Screenshot-2025-12-01-151404.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतातल्या क्रिएटर्ससाठी ५ नव्या भारतीय भाषांचा समावेश",
-        "summary": "मुंबईत झालेल्या ‘हाऊस ऑफ इंस्टाग्राम’ कार्यक्रमात मेटा प्लॅटफॉर्म्स कंपनीनं भारतातल्या क्रिएटर्ससाठी ५ नव्या भारतीय भाषांचा समावेश केला आहे. यामुळे इंस्टाग्राम, फेसबुकवरील क्रिएटर्स लवकरच त्यांच्या रील्सचे बंगाली, मराठी, तेलुगु, कन्नड आणि तमिळ या भाषांमधे भाषांतर करू शकतील. यासाठी एआय-आधारित ऑटोमॅटिक डबिंग आणि लिप-सिंक सुविधा उपलब्ध करण्यात आली आहे. हे फिचर क्रिएटरच्या मूळ आवाजातील स्वर आणि भावना",
-        "article": "मुंबईत झालेल्या ‘हाऊस ऑफ इंस्टाग्राम’ कार्यक्रमात मेटा प्लॅटफॉर्म्स कंपनीनं भारतातल्या क्रिएटर्ससाठी ५ नव्या भारतीय भाषांचा समावेश केला आहे. यामुळे इंस्टाग्राम, फेसबुकवरील क्रिएटर्स लवकरच त्यांच्या रील्सचे बंगाली, मराठी, तेलुगु, कन्नड आणि तमिळ या भाषांमधे भाषांतर करू शकतील. यासाठी एआय-आधारित ऑटोमॅटिक डबिंग आणि लिप-सिंक सुविधा उपलब्ध करण्यात आली आहे. हे फिचर क्रिएटरच्या मूळ आवाजातील स्वर आणि भावना जुळवून भाषांतरित आवाज तयार करते यामुळे तोंडाच्या हालचाली नव्या भाषेशी हुबेहुब वाटते. यापूर्वी ही सुविधा इंग्रजी, हिंदी, स्पॅनिश आणि पोर्तुगीजपुरती मर्यादित होती. याशिवाय मेटाच्या ‘एडिट्स’ या मोबाईल व्हिडिओ एडिटिंग अ&#x200d;ॅपमध्येही भारतीय भाषांसाठी नवे फॉन्ट्स जोडले जात आहेत. असमिया, बंगाली, हिंदी आणि मराठी भाषांसाठी देवनागरी तसेच बंगाली-असमिया स्क्रिप्टमधील आकर्षक फॉन्ट्स आता अँड्रॉइड अ&#x200d;ॅपमध्ये उपलब्ध होणार आहे.",
-        "date": "2025-11-29",
-        "pubDate": "2025-11-29T12:57:58+00:00",
-        "link": "https://newsonair.gov.in/mr/instagram-facebook-creators/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/Screenshot-2025-11-29-182641.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "इफ्फी महोत्सवाची रंगतदार सोहळ्यानं सांगता",
-        "summary": "५६ व्या भारतीय आंतरराष्ट्रीय चित्रपट महोत्सवाची काल एका रंगतदार सोहळ्यानं सांगता झाली. पणजीमधे गेले ९ दिवस चाललेला सोहळा रसिकांसाठी पर्वणी ठरला. दिग्दर्शन अॅश मेफेअर दिग्दर्शित, व्हिएतनामच्या स्किन ऑफ यूथ या चित्रपटानं या महोत्सवाचा मुकुटमणी असलेल्या सूवर्ण मयूर पुरस्कारावर आपलं नाव कोरलं. &#160; गोंधळ या मराठी चित्रपटासाठी दिग्दर्शक संतोष डावखर यांनी सर्वोत्कृष्ट दिग्दर्शकासाठीचा रौप्य मयूर पुरस्",
-        "article": "५६ व्या भारतीय आंतरराष्ट्रीय चित्रपट महोत्सवाची काल एका रंगतदार सोहळ्यानं सांगता झाली. पणजीमधे गेले ९ दिवस चाललेला सोहळा रसिकांसाठी पर्वणी ठरला. दिग्दर्शन अॅश मेफेअर दिग्दर्शित, व्हिएतनामच्या स्किन ऑफ यूथ या चित्रपटानं या महोत्सवाचा मुकुटमणी असलेल्या सूवर्ण मयूर पुरस्कारावर आपलं नाव कोरलं. &nbsp; गोंधळ या मराठी चित्रपटासाठी दिग्दर्शक संतोष डावखर यांनी सर्वोत्कृष्ट दिग्दर्शकासाठीचा रौप्य मयूर पुरस्कार आपल्या नावे केला, अभिनयाच्या श्रेणीत, कोलंबियन अभिनेता उबेमर रिओस यांना ए पोएट मधील भूमिकेसाठी सर्वोत्कृष्ट अभिनेतेच्या, तर स्लोव्हेनियन चित्रपट लिटल ट्रबल गर्ल्स मधील भूमिकेसाठी जारा सोफिजा ओस्टान यांना सर्वोत्कृष्ट अभिनेत्री म्हणून गौरवलं गेलं. &nbsp; माय फादर्स शॅडो या नायजेरियन चित्रपटानं विशेष ज्युरी पुरस्कार मिळवला, तर सेफ हाऊस या नॉर्वेजियन चित्रपटानं प्रतिष्ठेचं ICFT-UNESCO गांधी पदक आपल्या नावे केलं. ओटीटी व्यासपीठाअंतर्गत बंडिश बँडिट्स सिझन टू ही सर्वोकृष्ट वेब मालिका ठरली, तर भारतीय चित्रपटांसाठी सर्वोत्कृष्ट पदार्पणीय दिग्दर्शक म्हणून केसरी चॅप्टर टू चे दिग्दर्शक करण सिंग त्यागी यांची निवड झाली. &nbsp; या समारोप सोहळ्याचं विशेष आकर्षण ठरलं ते चित्रपटसृष्टीतील ५० वर्षांची कारकीर्द पूर्ण केल्याबद्दल सुपरस्टार रजनीकांत यांना प्रदान करण्यात आलेला जीवनगौरव पुरस्कार. आपल्याला १०० वर्षांनंतरही अभिनेता रजनीकांत म्हणूनच जन्माला यायला आवडेल अशी भावना रजनीकांत यांनी व्यक्त केली. &nbsp; दिवंगत अभिनेते धर्मेंद्र यांच्यासह सिने आणि कला क्षेत्रातील असंख्य भारतीय कलाकारांना महोत्सवात स्मरणांजली वाहिली गेली. याशिवाय सोहळ्याच्या प्रारंभीचा दिव्यांग व्यक्तींचा कलाविष्कार आणि इतर सादरीकरणं ही सिनेरसिकांसाठी पर्वणीच ठरली. &nbsp; एकूणात हा सोहळा भारतीय चित्रपटसृष्टीतील कला आणि तंत्रज्ञानाचा गौरव करणारा आणि त्याचवेळी सिने जगताच्या नव्या वाटचालीची उमेद जागवणारा ठरला.",
-        "date": "2025-11-29",
-        "pubDate": "2025-11-29T09:16:06+00:00",
-        "link": "https://newsonair.gov.in/mr/iffi-2025-10/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/IFFI-2025-4.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
       {
         "title": "अजिंठा – वेरुळ चित्रपट महोत्सवातला प्रतिष्ठेचा पद्मपाणि पुरस्कार ज्येष्ठ संगीतकार इलिया राजा यांना जाहीर",
         "summary": "अकराव्या अजिंठा वेरुळ आंतरराष्ट्रीय चित्रपट महोत्सवातला प्रतिष्ठेचा पद्मपाणि पुरस्कार यंदा सुप्रसिद्ध संगीतकार इलियाराजा यांना घोषित झाला आहे. २ लाख रुपये स्मृतिचिन्ह, आणि मानपत्र असं पुरस्काराचं स्वरुप आहे. छत्रपती संभाजीनगर इथं येत्या २८ जानेवारीपासून सुरु होणारा हा महोत्सव १ फेब्रुवारीपर्यंत चालणार आहे. प्रदीर्घ संगीतसेवेसाठी इलियाराजा यांना हा पुरस्कार देण्यात येणार आहे.",
@@ -1938,6 +1730,17 @@ window.VM_NEWS = {
         "date": "2026-01-19",
         "pubDate": "2026-01-19T08:21:55+00:00",
         "link": "https://newsonair.gov.in/mr/%e0%a4%85%e0%a4%9c%e0%a4%bf%e0%a4%82%e0%a4%a0%e0%a4%be-%e0%a4%b5%e0%a5%87%e0%a4%b0%e0%a5%81%e0%a4%b3-%e0%a4%9a%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%9f-%e0%a4%ae%e0%a4%b9%e0%a5%8b/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "दशावतारसह एकूण ४ चित्रपट ऑस्करच्या सर्वसाधारण श्रेणीसाठी पात्र",
+        "summary": "कांतारा &#8211; द लिजंट चॅप्टर १, तन्वी द ग्रेट, महावतार नरसिम्हा, टुरिस्ट फॅमिली, आणि सिस्टर मिडनाइट हे ५ भारतीय चित्रपट ऑस्करच्या उत्कृष्ट चित्रपट श्रेणीसाठी पात्र ठरले आहेत. अकादमी ऑफ मोशन पिक्चरने आज ही घोषणा केली. याशिवाय दशावतार, महामंत्रा, पेपर फ्लॉवर, पारो हे ४ चित्रपट सर्वसाधारण श्रेणीसाठी पात्र आहेत. एकूण ३१७ चित्रपट ९८ व्या ऑस्कर पुरस्करांसाठी […]",
+        "article": "कांतारा &#8211; द लिजंट चॅप्टर १, तन्वी द ग्रेट, महावतार नरसिम्हा, टुरिस्ट फॅमिली, आणि सिस्टर मिडनाइट हे ५ भारतीय चित्रपट ऑस्करच्या उत्कृष्ट चित्रपट श्रेणीसाठी पात्र ठरले आहेत. अकादमी ऑफ मोशन पिक्चरने आज ही घोषणा केली. याशिवाय दशावतार, महामंत्रा, पेपर फ्लॉवर, पारो हे ४ चित्रपट सर्वसाधारण श्रेणीसाठी पात्र आहेत. एकूण ३१७ चित्रपट ९८ व्या ऑस्कर पुरस्करांसाठी पात्र ठरले आहेत. त्यातल्या २०१ चित्रपटांकडे उत्कृष्ट चित्रपट श्रेणीसाठीची अतिरीक्त पात्रता असल्याचं अकादमीनं जाहीर केलं. या सर्व चित्रपटांमधून ऑस्करसाठी नामांकित झालेल्या चित्रपटांची यादी २२ जानेवारी जाहीर होईल. याशिवाय भारताकडून आंतरराष्ट्रीय चित्रपट श्रेणीसाठी होमबाऊंड या चित्रपटाचं नामांकन करण्यात आलं आहे.",
+        "date": "2026-01-09",
+        "pubDate": "2026-01-09T09:40:13+00:00",
+        "link": "https://newsonair.gov.in/mr/oscar-award/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1952,6 +1755,83 @@ window.VM_NEWS = {
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
+      },
+      {
+        "title": "ज्येष्ठ अभिनेते श्रीनिवासन यांचं निधन",
+        "summary": "मल्याळी चित्रपटसृष्टीतले ज्येष्ठ अभिनेते, पटकथा लेखक आणि दिग्दर्शक श्रीनिवासन यांचं आज सकाळी कोची इथं दीर्घ आजारानं निधन झालं. ते ६९ वर्षांचे होते. १९७६ साली ‘मणीमुझक्कम’ या चित्रपटातून आपल्या अभिनय कारकिर्दीला सुरुवात करणाऱ्या श्रीनिवासन यांनी मोहनलाल आणि ममूठी सारख्या अभिनेत्यां सोबत अनेक चित्रपटांत सहकलाकाराच्या भूमिका निभावल्या. श्रीनिवासन यांनी २२५ हुन अधिक चित्रपटांमध्ये अभिनय केला असून १९९८",
+        "article": "मल्याळी चित्रपटसृष्टीतले ज्येष्ठ अभिनेते, पटकथा लेखक आणि दिग्दर्शक श्रीनिवासन यांचं आज सकाळी कोची इथं दीर्घ आजारानं निधन झालं. ते ६९ वर्षांचे होते. १९७६ साली ‘मणीमुझक्कम’ या चित्रपटातून आपल्या अभिनय कारकिर्दीला सुरुवात करणाऱ्या श्रीनिवासन यांनी मोहनलाल आणि ममूठी सारख्या अभिनेत्यां सोबत अनेक चित्रपटांत सहकलाकाराच्या भूमिका निभावल्या. श्रीनिवासन यांनी २२५ हुन अधिक चित्रपटांमध्ये अभिनय केला असून १९९८ मध्ये त्यांनी दिग्दर्शित केलेल्या ‘चिंथाविष्टयाया श्यामला’ या चित्रपटाला सर्वोत्कृष्ट सामाजिक चित्रपटासाठी राष्ट्रीय पुरस्कार प्राप्त झाला आहे.",
+        "date": "2025-12-20",
+        "pubDate": "2025-12-20T10:08:03+00:00",
+        "link": "https://newsonair.gov.in/mr/sreenivasan-death/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Oscars 2026: निवडक १५ चित्रपटांमधे ‘होमबाऊंड’ चित्रपटाचा समावेश",
+        "summary": "ऑस्कर २०२६ अर्थात ९८व्या अकॅडेमी पारितोषिकांसाठीच्या अंतिम फेरीत होमबाऊंड हा भारतीय चित्रपट प्राथमिक फेरी पार करून निवडक पंधरा चित्रपटांच्या यादीत पोचला आहे. नीरज घायवान दिग्दर्शित हा भारतीय चित्रपट आंतरराष्ट्रीय चित्रपटाच्या श्रेणीत आहे. या यादीतल्या चित्रपटांचं अंतिम नामांकन २२ जानेवारीला जाहीर होईल. ९८वा अकादमी पुरस्कार सोहळा १५ मार्च २०२६ रोजी होणार आहे.",
+        "article": "ऑस्कर २०२६ अर्थात ९८व्या अकॅडेमी पारितोषिकांसाठीच्या अंतिम फेरीत होमबाऊंड हा भारतीय चित्रपट प्राथमिक फेरी पार करून निवडक पंधरा चित्रपटांच्या यादीत पोचला आहे. नीरज घायवान दिग्दर्शित हा भारतीय चित्रपट आंतरराष्ट्रीय चित्रपटाच्या श्रेणीत आहे. या यादीतल्या चित्रपटांचं अंतिम नामांकन २२ जानेवारीला जाहीर होईल. ९८वा अकादमी पुरस्कार सोहळा १५ मार्च २०२६ रोजी होणार आहे.",
+        "date": "2025-12-17",
+        "pubDate": "2025-12-17T07:59:27+00:00",
+        "link": "https://newsonair.gov.in/mr/oscars-2026-homebound/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "६४व्या महाराष्ट्र राज्य हौशी मराठी नाट्य स्पर्धेचे निकाल जाहीर",
+        "summary": "६४व्या महाराष्ट्र राज्य हौशी मराठी नाट्य स्पर्धेचे विविध विभागांमधले निकाल जाहीर झाले आहेत. या स्पर्धेत मुंबई केंद्रातून ‘ती, ती आणि ती’ या नाटकाला प्रथम पारितोषिक जाहीर झालं आहे. नाशिक केंद्रातून ‘काळाच्या पंजातून’ या नाटकाला, सांगली केंद्रातून ‘तिचे संदर्भ नसलेली गोष्ट’ या नाटकाला तर लातूर विभागातून ‘दास्तान’ या नाटकाला प्रथम पारितोषिक मिळालं आहे. सिंधुदुर्ग केंद्रातून ‘सूनबाई […]",
+        "article": "६४व्या महाराष्ट्र राज्य हौशी मराठी नाट्य स्पर्धेचे विविध विभागांमधले निकाल जाहीर झाले आहेत. या स्पर्धेत मुंबई केंद्रातून ‘ती, ती आणि ती’ या नाटकाला प्रथम पारितोषिक जाहीर झालं आहे. नाशिक केंद्रातून ‘काळाच्या पंजातून’ या नाटकाला, सांगली केंद्रातून ‘तिचे संदर्भ नसलेली गोष्ट’ या नाटकाला तर लातूर विभागातून ‘दास्तान’ या नाटकाला प्रथम पारितोषिक मिळालं आहे. सिंधुदुर्ग केंद्रातून ‘सूनबाई तोऱ्यात’ या नाटकाला, सातारा केंद्रातून ‘पोकळ घिस्सा’ या नाटकाला तर नांदेड केंद्रातून ‘संपूर्ण’ या नाटकाला प्रथम पारितोषिक जाहीर झालं आहे. चंद्रपूर केंद्रातून ‘तांडा’ या नाटकाला, अमरावती केंद्रातून ‘वारकरी’ या नाटकाला तर पिंपरी चिंचवड केंद्रातून ‘सखा’ या नाटकाला प्रथम क्रमांक मिळाला आहे.",
+        "date": "2025-12-04",
+        "pubDate": "2025-12-04T14:20:50+00:00",
+        "link": "https://newsonair.gov.in/mr/drama-competition/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "नागालँडमध्ये हॉर्नबिल महोत्सवाला सुरुवात",
+        "summary": "नागालँडची राजधानी कोहिमा इथल्या किसामा इथं आज २६व्या हॉर्नबिल महोत्सवाची सुरुवात झाली. नागालँडचे गव्हर्नर अजय कुमार भल्ला, मुख्यमंत्री नेईफिऊ रिओ यांनी महोत्सवाचा औपचारिक प्रारंभ केला. नागालँडच्या राज्यदिनाबरोबरच सुरू होणाऱ्या या १० दिवसांच्या महोत्सवात विविध नागा समुदाय एकत्र येऊन परंपरा, लोककला, संगीत, कला आणि अन्नसंस्कृतीचा आनंद लुटतात. या महोत्सवात यावर्षी युनायटेड किंगडम, आयर्लंड, फ्रान्स, ऑस",
+        "article": "नागालँडची राजधानी कोहिमा इथल्या किसामा इथं आज २६व्या हॉर्नबिल महोत्सवाची सुरुवात झाली. नागालँडचे गव्हर्नर अजय कुमार भल्ला, मुख्यमंत्री नेईफिऊ रिओ यांनी महोत्सवाचा औपचारिक प्रारंभ केला. नागालँडच्या राज्यदिनाबरोबरच सुरू होणाऱ्या या १० दिवसांच्या महोत्सवात विविध नागा समुदाय एकत्र ये ऊन परंपरा, लोककला, संगीत, कला आणि अन्नसंस्कृतीचा आनंद लुटतात. या महोत्सवात यावर्षी युनायटेड किंगडम, आयर्लंड, फ्रान्स, ऑस्ट्रिया, माल्टा आणि स्वित्झर्लंड हे सहा भागीदार देश आहेत.",
+        "date": "2025-12-01",
+        "pubDate": "2025-12-01T15:02:48+00:00",
+        "link": "https://newsonair.gov.in/mr/hornbill-festival-begins-in-nagaland/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "मुंबईत सीआयआय बिग पिक्चर समिटचं आयोजन…",
+        "summary": "देशातल्या मनोरंजन आणि माध्यम जगात खूप क्षमता आहे. त्यांचा सुयोग्य वापर होण्याची गरज केंद्रीय माहिती प्रसारण सचिव संजय जाजू यांनी आज व्यक्त केली. मुंबईत सीआयआय बिग पिक्चर समिटमध्ये ते बोलत होते. जागतिक बाजारपेठेत भारताची हिस्सेदारी केवळ २ टक्के आहे. यासंधीचा लाभ घेण्याचं आवाहन त्यांनी उद्योगाला केलं. देशातल्या मनोरंजन उद्योगावर १ कोटीहून अधिक लोकं अवलंबून आहेत. […]",
+        "article": "देशातल्या मनोरंजन आणि माध्यम जगात खूप क्षमता आहे. त्यांचा सुयोग्य वापर होण्याची गरज केंद्रीय माहिती प्रसारण सचिव संजय जाजू यांनी आज व्यक्त केली. मुंबईत सीआयआय बिग पिक्चर समिटमध्ये ते बोलत होते. जागतिक बाजारपेठेत भारताची हिस्सेदारी केवळ २ टक्के आहे. यासंधीचा लाभ घेण्याचं आवाहन त्यांनी उद्योगाला केलं. देशातल्या मनोरंजन उद्योगावर १ कोटीहून अधिक लोकं अवलंबून आहेत. AI आधारित गाणी आणि व्हिडीओ या क्षेत्रातली गणितं बदलत असताना आपणही नवनवीन तंत्रज्ञान आत्मसात करण्याची गरज त्यांनी व्यक्त केली.",
+        "date": "2025-12-01",
+        "pubDate": "2025-12-01T09:44:45+00:00",
+        "link": "https://newsonair.gov.in/mr/cii-big-picture-summit/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारतातल्या क्रिएटर्ससाठी ५ नव्या भारतीय भाषांचा समावेश",
+        "summary": "मुंबईत झालेल्या ‘हाऊस ऑफ इंस्टाग्राम’ कार्यक्रमात मेटा प्लॅटफॉर्म्स कंपनीनं भारतातल्या क्रिएटर्ससाठी ५ नव्या भारतीय भाषांचा समावेश केला आहे. यामुळे इंस्टाग्राम, फेसबुकवरील क्रिएटर्स लवकरच त्यांच्या रील्सचे बंगाली, मराठी, तेलुगु, कन्नड आणि तमिळ या भाषांमधे भाषांतर करू शकतील. यासाठी एआय-आधारित ऑटोमॅटिक डबिंग आणि लिप-सिंक सुविधा उपलब्ध करण्यात आली आहे. हे फिचर क्रिएटरच्या मूळ आवाजातील स्वर आणि भावना",
+        "article": "मुंबईत झालेल्या ‘हाऊस ऑफ इंस्टाग्राम’ कार्यक्रमात मेटा प्लॅटफॉर्म्स कंपनीनं भारतातल्या क्रिएटर्ससाठी ५ नव्या भारतीय भाषांचा समावेश केला आहे. यामुळे इंस्टाग्राम, फेसबुकवरील क्रिएटर्स लवकरच त्यांच्या रील्सचे बंगाली, मराठी, तेलुगु, कन्नड आणि तमिळ या भाषांमधे भाषांतर करू शकतील. यासाठी एआय-आधारित ऑटोमॅटिक डबिंग आणि लिप-सिंक सुविधा उपलब्ध करण्यात आली आहे. हे फिचर क्रिएटरच्या मूळ आवाजातील स्वर आणि भावना जुळवून भाषांतरित आवाज तयार करते यामुळे तोंडाच्या हालचाली नव्या भाषेशी हुबेहुब वाटते. यापूर्वी ही सुविधा इंग्रजी, हिंदी, स्पॅनिश आणि पोर्तुगीजपुरती मर्यादित होती. याशिवाय मेटाच्या ‘एडिट्स’ या मोबाईल व्हिडिओ एडिटिंग अ&#x200d;ॅपमध्येही भारतीय भाषांसाठी नवे फॉन्ट्स जोडले जात आहेत. असमिया, बंगाली, हिंदी आणि मराठी भाषांसाठी देवनागरी तसेच बंगाली-असमिया स्क्रिप्टमधील आकर्षक फॉन्ट्स आता अँड्रॉइड अ&#x200d;ॅपमध्ये उपलब्ध होणार आहे.",
+        "date": "2025-11-29",
+        "pubDate": "2025-11-29T12:57:58+00:00",
+        "link": "https://newsonair.gov.in/mr/instagram-facebook-creators/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "इफ्फी महोत्सवाची रंगतदार सोहळ्यानं सांगता",
+        "summary": "५६ व्या भारतीय आंतरराष्ट्रीय चित्रपट महोत्सवाची काल एका रंगतदार सोहळ्यानं सांगता झाली. पणजीमधे गेले ९ दिवस चाललेला सोहळा रसिकांसाठी पर्वणी ठरला. दिग्दर्शन अॅश मेफेअर दिग्दर्शित, व्हिएतनामच्या स्किन ऑफ यूथ या चित्रपटानं या महोत्सवाचा मुकुटमणी असलेल्या सूवर्ण मयूर पुरस्कारावर आपलं नाव कोरलं. &#160; गोंधळ या मराठी चित्रपटासाठी दिग्दर्शक संतोष डावखर यांनी सर्वोत्कृष्ट दिग्दर्शकासाठीचा रौप्य मयूर पुरस्",
+        "article": "५६ व्या भारतीय आंतरराष्ट्रीय चित्रपट महोत्सवाची काल एका रंगतदार सोहळ्यानं सांगता झाली. पणजीमधे गेले ९ दिवस चाललेला सोहळा रसिकांसाठी पर्वणी ठरला. दिग्दर्शन अॅश मेफेअर दिग्दर्शित, व्हिएतनामच्या स्किन ऑफ यूथ या चित्रपटानं या महोत्सवाचा मुकुटमणी असलेल्या सूवर्ण मयूर पुरस्कारावर आपलं नाव कोरलं. &nbsp; गोंधळ या मराठी चित्रपटासाठी दिग्दर्शक संतोष डावखर यांनी सर्वोत्कृष्ट दिग्दर्शकासाठीचा रौप्य मयूर पुरस्कार आपल्या नावे केला, अभिनयाच्या श्रेणीत, कोलंबियन अभिनेता उबेमर रिओस यांना ए पोएट मधील भूमिकेसाठी सर्वोत्कृष्ट अभिनेतेच्या, तर स्लोव्हेनियन चित्रपट लिटल ट्रबल गर्ल्स मधील भूमिकेसाठी जारा सोफिजा ओस्टान यांना सर्वोत्कृष्ट अभिनेत्री म्हणून गौरवलं गेलं. &nbsp; माय फादर्स शॅडो या नायजेरियन चित्रपटानं विशेष ज्युरी पुरस्कार मिळवला, तर सेफ हाऊस या नॉर्वेजियन चित्रपटानं प्रतिष्ठेचं ICFT-UNESCO गांधी पदक आपल्या नावे केलं. ओटीटी व्यासपीठाअंतर्गत बंडिश बँडिट्स सिझन टू ही सर्वोकृष्ट वेब मालिका ठरली, तर भारतीय चित्रपटांसाठी सर्वोत्कृष्ट पदार्पणीय दिग्दर्शक म्हणून केसरी चॅप्टर टू चे दिग्दर्शक करण सिंग त्यागी यांची निवड झाली. &nbsp; या समारोप सोहळ्याचं विशेष आकर्षण ठरलं ते चित्रपटसृष्टीतील ५० वर्षांची कारकीर्द पूर्ण केल्याबद्दल सुपरस्टार रजनीकांत यांना प्रदान करण्यात आलेला जीवनगौरव पुरस्कार. आपल्याला १०० वर्षांनंतरही अभिनेता रजनीकांत म्हणूनच जन्माला यायला आवडेल अशी भावना रजनीकांत यांनी व्यक्त केली. &nbsp; दिवंगत अभिनेते धर्मेंद्र यांच्यासह सिने आणि कला क्षेत्रातील असंख्य भारतीय कलाकारांना महोत्सवात स्मरणांजली वाहिली गेली. याशिवाय सोहळ्याच्या प्रारंभीचा दिव्यांग व्यक्तींचा कलाविष्कार आणि इतर सादरीकरणं ही सिनेरसिकांसाठी पर्वणीच ठरली. &nbsp; एकूणात हा सोहळा भारतीय चित्रपटसृष्टीतील कला आणि तंत्रज्ञानाचा गौरव करणारा आणि त्याचवेळी सिने जगताच्या नव्या वाटचालीची उमेद जागवणारा ठरला.",
+        "date": "2025-11-29",
+        "pubDate": "2025-11-29T09:16:06+00:00",
+        "link": "https://newsonair.gov.in/mr/iffi-2025-10/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
       }
     ],
     "lifestyle": [
@@ -1962,8 +1842,8 @@ window.VM_NEWS = {
         "date": "2026-06-04",
         "pubDate": "2026-06-04T06:01:50+00:00",
         "link": "https://newsonair.gov.in/hi/who-expresses-concern-over-rapid-spread-of-ebola-outbreak-in-congo/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/WHO.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1973,8 +1853,8 @@ window.VM_NEWS = {
         "date": "2026-05-21",
         "pubDate": "2026-05-21T07:50:34+00:00",
         "link": "https://newsonair.gov.in/hi/directorate-general-of-health-services-issues-advisory-for-travellers-arriving-from-and-transiting-through-ebola-affected-countries/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/cds.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1984,8 +1864,8 @@ window.VM_NEWS = {
         "date": "2026-05-21",
         "pubDate": "2026-05-21T07:00:38+00:00",
         "link": "https://newsonair.gov.in/hi/india-launches-worlds-largest-screening-drive-to-eliminate-tb-union-health-minister-j-p-nadda/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/jp-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1995,8 +1875,8 @@ window.VM_NEWS = {
         "date": "2026-05-08",
         "pubDate": "2026-05-08T07:44:50+00:00",
         "link": "https://newsonair.gov.in/hi/health-minister-jp-nadda-launches-integrated-training-programme-for-primary-health-teams/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/J-p-Nadda.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -2006,8 +1886,8 @@ window.VM_NEWS = {
         "date": "2026-05-07",
         "pubDate": "2026-05-07T03:01:43+00:00",
         "link": "https://newsonair.gov.in/hi/union-minister-to-launch-nationwide-annual-health-check-up-initiative-for-workers-from-esic/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/man.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -2017,8 +1897,8 @@ window.VM_NEWS = {
         "date": "2026-04-07",
         "pubDate": "2026-04-07T08:28:42+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af-%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8-%e0%a4%aa%e0%a5%80%e0%a4%8f/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Untitled-design-3-5.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -2028,8 +1908,8 @@ window.VM_NEWS = {
         "date": "2026-02-11",
         "pubDate": "2026-02-11T01:59:38+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a5%87%e0%a4%a6%e0%a4%bf%e0%a4%95-%e0%a4%94%e0%a4%b7%e0%a4%a7%e0%a4%bf-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a4%e0%a4%be/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/HAz4fsPbUAAOn4m-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -2039,8 +1919,8 @@ window.VM_NEWS = {
         "date": "2026-01-15",
         "pubDate": "2026-01-15T12:24:16+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4-%e0%a4%95%e0%a5%87-%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b7-%e0%a4%b9%e0%a4%b0%e0%a5%8d%e0%a4%ac%e0%a4%b2-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Untitled-design-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -2050,8 +1930,8 @@ window.VM_NEWS = {
         "date": "2025-12-27",
         "pubDate": "2025-12-27T04:59:50+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%9c%e0%a5%87-%e0%a4%aa%e0%a5%80-%e0%a4%a8%e0%a4%a1%e0%a5%8d/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G9GqIftaAAEWJQP.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -2061,8 +1941,8 @@ window.VM_NEWS = {
         "date": "2025-12-20",
         "pubDate": "2025-12-20T08:20:53+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%9c%e0%a5%87%e0%a4%aa%e0%a5%80-%e0%a4%a8%e0%a4%a1%e0%a5%8d-3/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G8jVc1PbMAQhk_x.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ]
