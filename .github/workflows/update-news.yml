@@ -1,0 +1,41 @@
+name: Update News
+
+on:
+  schedule:
+    - cron: '30 0 * * *'
+    - cron: '30 4 * * *'
+    - cron: '30 8 * * *'
+    - cron: '30 12 * * *'
+    - cron: '30 16 * * *'
+    - cron: '30 20 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch latest news
+        run: python fetch_news.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "vm-news-bot"
+          git config user.email "actions@github.com"
+          if git diff --quiet -- news-data.js; then
+            echo "No news changes."
+          else
+            git add news-data.js
+            git commit -m "news update $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
