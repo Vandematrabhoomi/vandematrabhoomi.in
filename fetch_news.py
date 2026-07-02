@@ -429,6 +429,21 @@ def dedup_and_sort(items, prefer_political=False):
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
+def load_previous():
+    """Load the currently-published news-data.js so a transient fetch failure
+    (e.g. Prasar Bharati refusing connections mid-run) can fall back to the
+    last known-good data for a category instead of wiping it to empty."""
+    path = os.path.join(BASE_DIR, 'news-data.js')
+    try:
+        with open(path, encoding='utf-8') as f:
+            text = f.read()
+        text = re.sub(r'^/\*.*?\*/\s*', '', text, flags=re.S)
+        text = text.replace('window.VM_NEWS = ', '', 1).strip().rstrip(';')
+        return json.loads(text)
+    except Exception:
+        return None
+
+
 def run():
     print(f'\n  Vande Matrabhoomi — Prasar Bharati Fetcher')
     print(f'  Source: newsonair.gov.in  (Akashvani News)')
@@ -521,6 +536,17 @@ def run():
     # ── Step 3: build per-category buckets ──
     all_news_en = build_cat_news(CATEGORY_FEEDS, raw_en, 'EN')
     all_news_hi = build_cat_news(CATEGORY_FEEDS_HI, raw_hi, 'HI') if unique_hi else all_news_en
+
+    # Never let a transient fetch failure wipe a category to empty on the
+    # live site — fall back to the last published data for that category.
+    prev = load_previous()
+    if prev:
+        for lang, all_news in (('en', all_news_en), ('hi', all_news_hi)):
+            prev_lang = prev.get(lang, {})
+            for cat, items in all_news.items():
+                if not items and prev_lang.get(cat):
+                    all_news[cat] = prev_lang[cat]
+                    print(f'  WARN: [{lang}][{cat}] fetch returned 0 stories — keeping previous data.')
 
     # Step 4: write news-data.js
     out = {
