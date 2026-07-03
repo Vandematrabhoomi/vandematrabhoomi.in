@@ -23,14 +23,17 @@ jobs:
       - name: Fetch latest news
         run: python fetch_news.py
 
+      - name: Generate shareable article pages
+        run: python generate_article_pages.py
+
       - name: Commit and push if changed
         run: |
           git config user.name "vm-news-bot"
           git config user.email "actions@github.com"
-          if git diff --quiet -- news-data.js; then
-            echo "No news changes."
+          git add news-data.js a/
+          if git diff --cached --quiet; then
+            echo "No changes."
           else
-            git add news-data.js
             git commit -m "news update $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
           fi
