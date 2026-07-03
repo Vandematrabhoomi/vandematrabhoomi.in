@@ -623,6 +623,41 @@
     .empty-icon { font-size: 36px; margin-bottom: 12px; opacity: .4; }
     .empty-txt { font-family: 'Archivo', sans-serif; font-size: 13px; line-height: 1.8; }
 
+    .draft-status {
+      font-family: 'Archivo', sans-serif; font-size: 12px; font-weight: 600;
+      color: #b07d1a; margin-left: 14px; opacity: 0; transition: opacity .3s;
+    }
+    .draft-status.show { opacity: 1; }
+    .drafts-lbl {
+      font-family: 'Archivo', sans-serif;
+      font-size: 11px; font-weight: 700;
+      letter-spacing: .16em; text-transform: uppercase;
+      color: var(--text-muted); margin-bottom: 14px;
+    }
+    .draft-card {
+      background: #fffaf0; border: 1px dashed #d8b876;
+      border-radius: 5px; padding: 14px 20px; margin-bottom: 10px;
+      display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+    }
+    .draft-tag {
+      font-family: 'Archivo', sans-serif;
+      font-size: 10px; font-weight: 700;
+      color: #8a5a00; background: #fbe9c6;
+      padding: 2px 8px; border-radius: 3px; white-space: nowrap;
+    }
+    .draft-hl { font-family: 'Noto Serif Devanagari', serif; font-size: 15px; color: var(--text-primary); flex: 1 1 200px; }
+    .draft-dt { font-family: 'Archivo', sans-serif; font-size: 11px; color: var(--text-muted); white-space: nowrap; }
+    .draft-actions { display: flex; gap: 8px; }
+    .draft-btn {
+      font-family: 'Archivo', sans-serif; font-size: 11px; font-weight: 700;
+      padding: 6px 12px; border-radius: 4px; border: none; cursor: pointer;
+      letter-spacing: .04em;
+    }
+    .draft-btn.resume { background: var(--red); color: #fff; }
+    .draft-btn.resume:hover { background: var(--red-dark); }
+    .draft-btn.discard { background: #eee; color: var(--text-muted); }
+    .draft-btn.discard:hover { background: #ddd; }
+
     /* ── Footer ─────────────────────────────────────────── */
     .footer { background: var(--red); padding: 36px 36px 24px; }
     .footer-inner { max-width: 1200px; margin: 0 auto; }
@@ -1530,17 +1565,20 @@
           </div>
         </div>
 
+        <div class="drafts-lbl" data-hi="आपके ड्राफ्ट" data-en="YOUR DRAFTS" id="drafts-lbl" style="display:none;">आपके ड्राफ्ट</div>
+        <div id="drafts-list"></div>
+
         <div class="form-card">
           <div class="form-group">
             <label class="form-lbl" data-hi="शीर्षक" data-en="HEADLINE" for="f-hl">शीर्षक</label>
-            <input type="text" id="f-hl" class="form-input"
+            <input type="text" id="f-hl" class="form-input" oninput="scheduleDraftSave()"
               placeholder="समाचार का शीर्षक लिखें..."
               data-phi="समाचार का शीर्षक लिखें..."
               data-pen="Write the news headline...">
           </div>
           <div class="form-group">
             <label class="form-lbl" data-hi="श्रेणी" data-en="CATEGORY" for="f-cat">श्रेणी</label>
-            <select id="f-cat" class="form-select">
+            <select id="f-cat" class="form-select" onchange="scheduleDraftSave()">
               <option value="Latest"    data-hi="ताज़ा"       data-en="Latest">ताज़ा</option>
               <option value="Nation"    data-hi="राष्ट्रीय"   data-en="Nation">राष्ट्रीय</option>
               <option value="Politics"  data-hi="राजनीति"     data-en="Politics">राजनीति</option>
@@ -1551,14 +1589,14 @@
           </div>
           <div class="form-group">
             <label class="form-lbl" data-hi="सारांश" data-en="SUMMARY" for="f-sum">सारांश</label>
-            <textarea id="f-sum" class="form-input" rows="3"
+            <textarea id="f-sum" class="form-input" rows="3" oninput="scheduleDraftSave()"
               placeholder="समाचार का संक्षिप्त विवरण..."
               data-phi="समाचार का संक्षिप्त विवरण..."
               data-pen="Brief description of the news..."></textarea>
           </div>
           <div class="form-group">
             <label class="form-lbl" data-hi="लेख" data-en="ARTICLE" for="f-body">लेख</label>
-            <textarea id="f-body" class="form-input" rows="14"
+            <textarea id="f-body" class="form-input" rows="14" oninput="scheduleDraftSave()"
               placeholder="पूरा लेख यहाँ लिखें... (एक खाली पंक्ति छोड़कर अनुच्छेद अलग करें)"
               data-phi="पूरा लेख यहाँ लिखें..."
               data-pen="Write the full article here... (separate paragraphs with a blank line)"></textarea>
@@ -1570,6 +1608,7 @@
             <img id="f-media-preview" class="f-media-preview" alt="preview">
           </div>
           <button class="pub-btn" onclick="publishStory()" data-hi="प्रकाशित करें" data-en="Publish">प्रकाशित करें</button>
+          <span class="draft-status" id="draft-status"></span>
         </div>
         <div class="feed-lbl" data-hi="प्रकाशित समाचार" data-en="PUBLISHED STORIES">प्रकाशित समाचार</div>
         <div id="feed"></div>
@@ -1786,7 +1825,7 @@ var ADMIN_PASSWORD = 'vande@2026';
 var deskAuth = false;  // always require password on every page load
 
 function openDesk() {
-  if (deskAuth) { setSection('desk'); return; }
+  if (deskAuth) { setSection('desk'); loadDrafts(); return; }
   document.getElementById('admin-pass').value = '';
   document.getElementById('admin-err').style.display = 'none';
   openModal('admin-modal');
@@ -1801,6 +1840,7 @@ function checkAdminPass() {
     document.getElementById('admin-err').style.display = 'none';
     setSection('desk');
     document.querySelectorAll('.sb-tab').forEach(function(t){ t.classList.toggle('active', t.dataset.sec === 'desk'); });
+    loadDrafts();
   } else {
     document.getElementById('admin-err').style.display = 'block';
     document.getElementById('admin-pass').value = '';
@@ -2219,6 +2259,111 @@ var CAT_DESK = {
 
 var MAX_MEDIA_BYTES = 15 * 1024 * 1024; // must match Apps Script MAX_MEDIA_BYTES
 
+/* ── Live Desk drafts (admin-only autosave) ────────────── */
+var drafts = [];
+var currentDraftId = null;
+var draftSaveTimer = null;
+
+function scheduleDraftSave() {
+  clearTimeout(draftSaveTimer);
+  draftSaveTimer = setTimeout(saveDraftNow, 1500);
+}
+
+function saveDraftNow() {
+  if (!deskAuth || !VM_LIVEDESK_URL) return;
+  var hl   = document.getElementById('f-hl').value.trim();
+  var cat  = document.getElementById('f-cat').value;
+  var sum  = document.getElementById('f-sum').value.trim();
+  var body = document.getElementById('f-body').value.trim();
+  if (!hl && !sum && !body) return;
+  if (!currentDraftId) currentDraftId = 'd' + Date.now();
+  fetch(VM_LIVEDESK_URL, {
+    method: 'POST',
+    body: JSON.stringify({ type: 'draft', id: currentDraftId, hl: hl, cat: cat, sum: sum, body: body, lang: lang })
+  }).then(function(){ showDraftStatus(); loadDrafts(); }).catch(function(){});
+}
+
+function flushDraftSave() {
+  if (!deskAuth || !VM_LIVEDESK_URL || !navigator.sendBeacon) return;
+  var hl   = document.getElementById('f-hl').value.trim();
+  var cat  = document.getElementById('f-cat').value;
+  var sum  = document.getElementById('f-sum').value.trim();
+  var body = document.getElementById('f-body').value.trim();
+  if (!hl && !sum && !body) return;
+  if (!currentDraftId) currentDraftId = 'd' + Date.now();
+  var payload = JSON.stringify({ type: 'draft', id: currentDraftId, hl: hl, cat: cat, sum: sum, body: body, lang: lang });
+  navigator.sendBeacon(VM_LIVEDESK_URL, new Blob([payload], { type: 'text/plain' }));
+}
+window.addEventListener('beforeunload', flushDraftSave);
+window.addEventListener('pagehide', flushDraftSave);
+
+function showDraftStatus() {
+  var el = document.getElementById('draft-status');
+  if (!el) return;
+  var now = new Date();
+  var t = now.toLocaleTimeString(lang==='hi' ? 'hi-IN' : 'en-IN', { hour:'numeric', minute:'2-digit' });
+  el.textContent = (lang==='hi' ? 'मसौदा सहेजा गया • ' : 'Draft saved • ') + t;
+  el.classList.add('show');
+  clearTimeout(el._hideTimer);
+  el._hideTimer = setTimeout(function(){ el.classList.remove('show'); }, 3000);
+}
+
+function loadDrafts() {
+  if (!deskAuth || !VM_LIVEDESK_URL) return;
+  fetch(VM_LIVEDESK_URL + '?type=draft')
+    .then(function(r){ return r.json(); })
+    .then(function(list){ drafts = list || []; renderDrafts(); })
+    .catch(function(){});
+}
+
+function renderDrafts() {
+  var lbl  = document.getElementById('drafts-lbl');
+  var list = document.getElementById('drafts-list');
+  if (!lbl || !list) return;
+  if (!drafts.length) {
+    lbl.style.display = 'none';
+    list.innerHTML = '';
+    return;
+  }
+  lbl.style.display = 'block';
+  var draftTag = lang==='hi' ? 'ड्राफ्ट' : 'DRAFT';
+  list.innerHTML = drafts.map(function(d){
+    var dt = new Date(d.savedAt);
+    var dtStr = dt.toLocaleString(lang==='hi' ? 'hi-IN' : 'en-IN', { day:'numeric', month:'short', hour:'numeric', minute:'2-digit' });
+    return '<div class="draft-card">'
+      + '<span class="draft-tag">'+draftTag+'</span>'
+      + '<span class="draft-hl">'+esc(d.hl || (lang==='hi' ? '(शीर्षक रहित)' : '(untitled)'))+'</span>'
+      + '<span class="draft-dt">'+esc(dtStr)+'</span>'
+      + '<span class="draft-actions">'
+        + '<button class="draft-btn resume" onclick="resumeDraft(\''+d.id+'\')">'+(lang==='hi'?'जारी रखें':'Resume')+'</button>'
+        + '<button class="draft-btn discard" onclick="discardDraft(\''+d.id+'\')">'+(lang==='hi'?'हटाएं':'Discard')+'</button>'
+      + '</span>'
+    + '</div>';
+  }).join('');
+}
+
+function resumeDraft(id) {
+  var d = drafts.filter(function(x){ return String(x.id) === String(id); })[0];
+  if (!d) return;
+  currentDraftId = d.id;
+  document.getElementById('f-hl').value   = d.hl || '';
+  document.getElementById('f-cat').value  = d.cat || 'Latest';
+  document.getElementById('f-sum').value  = d.sum || '';
+  document.getElementById('f-body').value = d.body || '';
+  document.getElementById('f-hl').scrollIntoView({ behavior:'smooth', block:'center' });
+  document.getElementById('f-hl').focus();
+}
+
+function discardDraft(id) {
+  if (!VM_LIVEDESK_URL) return;
+  fetch(VM_LIVEDESK_URL, { method:'POST', body: JSON.stringify({ type:'deleteDraft', id: id }) })
+    .then(function(){
+      if (String(currentDraftId) === String(id)) currentDraftId = null;
+      loadDrafts();
+    })
+    .catch(function(){});
+}
+
 function publishStory() {
   var hl        = document.getElementById('f-hl').value.trim();
   var cat       = document.getElementById('f-cat').value;
@@ -2248,14 +2393,17 @@ function publishStory() {
     document.getElementById('f-body').value  = '';
     document.getElementById('f-media').value = '';
     document.getElementById('f-media-preview').style.display = 'none';
+    currentDraftId = null;
+    clearTimeout(draftSaveTimer);
     loadStories();
+    loadDrafts();
   }
 
   function send(mediaDataUrl) {
     if (!VM_LIVEDESK_URL) { afterPublish(false); return; }
     fetch(VM_LIVEDESK_URL, {
       method: 'POST',
-      body: JSON.stringify({ type: 'story', hl: hl, cat: cat, sum: sum, body: body, media: mediaDataUrl || '', lang: lang })
+      body: JSON.stringify({ type: 'story', hl: hl, cat: cat, sum: sum, body: body, media: mediaDataUrl || '', lang: lang, draftId: currentDraftId })
     }).then(function(r){ return r.text(); })
       .then(function(t){ afterPublish(t.indexOf('error') !== 0); })
       .catch(function(){ afterPublish(false); });
