@@ -1,8 +1,30 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-03T13:43:01.145600",
+  "generated": "2026-07-03T14:07:54.735631",
   "en": {
     "top": [
+      {
+        "title": "UN Human Rights Chief raises red alert over the risk of possible atrocity crimes in Sudan’s El-Obeid",
+        "summary": "The United Nations Human Rights Chief Rights Volker Turk has raised a red alert over the risk of possible atrocity crimes in and around Sudan&#8217;s strategic city of El-Obeid. &#160; Addressing the Human Rights Council in Geneva today, UN High Commissioner for Human Rights Volker Turk urged world leaders to take immediate steps to prevent […]",
+        "article": "The United Nations Human Rights Chief Rights Volker Turk has raised a red alert over the risk of possible atrocity crimes in and around Sudan&#8217;s strategic city of El-Obeid. &nbsp; Addressing the Human Rights Council in Geneva today, UN High Commissioner for Human Rights Volker Turk urged world leaders to take immediate steps to prevent further bloodshed. He warned that another human rights catastrophe is unfolding as civilians continue to face relentless drone strikes and severe shortages of food, water, fuel and healthcare. &nbsp; According to reports, Sudan&#8217;s civil war, which began in April 2023 between the army and the paramilitary Rapid Support Forces, has claimed at least 59 thousand lives and displaced around 13 million people. The UN has expressed concern over renewed RSF offensives and growing threats to civilians in El-Obeid.",
+        "date": "2026-07-03",
+        "pubDate": "2026-07-03T13:50:30+00:00",
+        "link": "https://newsonair.gov.in/un-human-rights-chief-raises-red-alert-over-the-risk-of-possible-atrocity-crimes-in-sudans-el-obeid/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/UN-Human-Rights-Chief-Volker-Turk-warns-of-atrocity-crimes-risk-in-Sudan.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Piyush Goyal says India on track for one trillion-dollar exports",
+        "summary": "Commerce and Industry Minister Piyush Goyal today said that India is on track to achieve one trillion dollar export targets for the year, with nearly 15 per cent of the annual exports already recorded in the first quarter. Addressing the Board of Trade meeting in New Delhi, Mr Goyal noted that this will require […]",
+        "article": "Commerce and Industry Minister Piyush Goyal today said that India is on track to achieve one trillion dollar export targets for the year, with nearly 15 per cent of the annual exports already recorded in the first quarter. Addressing the Board of Trade meeting in New Delhi, Mr Goyal noted that this will require goods exports to rise from about 440 billion dollars to around 530 billion dollars and services exports to increase from roughly 421 billion dollars to about 470 billion dollars. He further said that it expected that merchandise exports growth will show 15 per cent growth and services exports is about 10 to 11 per cent in the first quarter. The Minister noted that India’s export strategy is being built around a stronger, more inclusive approach in which every state, district, and industry segment is treated as equally important. He said that the government is working to ensure that micro, small, medium, and large industries all have the opportunity to benefit from the country’s export push. Mr Goyal highlighted that the Central Government is planning to expand the export base beyond the traditional hubs by making every district in the country an export hub. The Minister emphasized that the government will depute trained nodal officers in districts to guide local businesses, especially MSMEs, on export opportunities, documentation, and market access. He added that these officers will be trained for four to six months in Delhi and will be equipped with data and support systems to handhold exporters. He also highlighted the government is also simplifying procedures, reducing compliance burdens, and improving the ease of doing business to support the export ecosystem. Mr Goyal emphasized the role of the export promotion mission in helping businesses with branding overseas, warehouses, and exhibitions abroad, and urged exporters to make full use of newly operational and upcoming Free Trade Agreements (FTA), including those with Oman, Switzerland, the UAE, and the UK. He further said India is increasingly seen as a secure and attractive partner for global trade, but achieving the next level of growth will require scale, quality, outreach, and collective effort from industry and government alike. Meanwhile, speaking to the media on the sidelines of the meeting, Mr Goyal said that Free Trade Agreements with 38 developed countries have opened new opportunities for Indian exports and strengthened the country&#8217;s access to global markets. He added that there is growing interest across the world in deepening trade and economic partnerships with India. Referring to recent engagements with countries including Japan, Greece and the United Kingdom, he said India is actively engaging with global leaders and industries to further strengthen trade ties. He expressed confidence that these efforts will help accelerate India&#8217;s exports in the coming month.",
+        "date": "2026-07-03",
+        "pubDate": "2026-07-03T13:44:32+00:00",
+        "link": "https://newsonair.gov.in/union-minister-piyush-goyal-says-india-on-track-for-one-trillion-dollar-exports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMTgMUqasAEqYsE-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "PM Modi to embark on six-day visit to Indonesia, Australia and New Zealand",
         "summary": "Prime Minister Narendra Modi will be on a six day visit to Indonesia, Australia and New Zealand from Monday. Briefing media in New Delhi this evening, Secretary (East) in Ministry of External Affairs Rudrendra Tandon informed that Mr Modi will be in Indonesia from 6th to 8th of this month and his main engagements will […]",
@@ -103,17 +125,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Japan highlights significance of ‘Namaste’ after PM Modi & Japanese PM Sanae Takaichi greeting during India Visit",
-        "summary": "Japan&#8217;s Cabinet Public Relations Officer today highlighted the significance of the traditional Indian greeting &#8220;Namaste&#8221; after Prime Minister Narendra Modi and Japanese Prime Minister Sanae Takaichi greeted each other with folded hands during the Japanese Prime Minister&#8217;s visit to India. In a post on social media platform, the Japanese Cabinet Public Relations Officer expla",
-        "article": "Japan&#8217;s Cabinet Public Relations Officer today highlighted the significance of the traditional Indian greeting &#8220;Namaste&#8221; after Prime Minister Narendra Modi and Japanese Prime Minister Sanae Takaichi greeted each other with folded hands during the Japanese Prime Minister&#8217;s visit to India. In a post on social media platform, the Japanese Cabinet Public Relations Officer explained the meaning of the gesture, known as &#8220;Anjali Mudra&#8221;. The gesture, which involves pressing one&#8217;s palms together in front of the chest, signifies the message of respect. Globally, the &#8220;Namaste&#8221; gesture is practised, as it represents greeting, humility and gratitude. It is also associated with a sense of groundedness and humility for the person performing it. This is considered one of the key aspects of Anjali Mudra, allowing individuals to internalise the external experience of humility and groundedness, Art of Living notes.",
-        "date": "2026-07-03",
-        "pubDate": "2026-07-03T08:52:47+00:00",
-        "link": "https://newsonair.gov.in/japan-highlights-significance-of-namaste-after-pm-modi-japanese-pm-sanae-takaichi-greeting-during-india-visit/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMQ8op4bEAALqaD.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Venezuela declares seven-day national mourning as Earthquake death toll rises to 2,595",
         "summary": "&#160; Venezuela&#8217;s acting President Delcy Rodríguez has declared seven days of national mourning as the death toll from the powerful earthquakes that struck the country on 24 June rose to 2,595, with more than 12,000 people injured and 189 buildings destroyed. Two powerful earthquakes measuring 7.5 and 7.2 magnitude struck north of Caracas last […]",
         "article": "&nbsp; Venezuela&#8217;s acting President Delcy Rodríguez has declared seven days of national mourning as the death toll from the powerful earthquakes that struck the country on 24 June rose to 2,595, with more than 12,000 people injured and 189 buildings destroyed. Two powerful earthquakes measuring 7.5 and 7.2 magnitude struck north of Caracas last week, leaving widespread devastation. Authorities said tens of thousands of people remain missing, with rescue and relief operations continuing.",
@@ -123,20 +134,20 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMSaYBja0AAcAvO-scaled.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "Europe faces record-breaking heatwave; World’s Oceans experience warmest June on record",
-        "summary": "Europe is witnessing a record-breaking heatwave, with temperatures rising sharply across several regions. The world&#8217;s oceans have also recorded their hottest June on record, surpassing levels seen during the 2023-24 El Niño years. Scientists say parts of the Mediterranean Sea are up to six degrees Celsius warmer than the long-term average. Parts of the North […]",
-        "article": "Europe is witnessing a record-breaking heatwave, with temperatures rising sharply across several regions. The world&#8217;s oceans have also recorded their hottest June on record, surpassing levels seen during the 2023-24 El Niño years. Scientists say parts of the Mediterranean Sea are up to six degrees Celsius warmer than the long-term average. Parts of the North Sea are also around three degrees Celsius above normal. The developing El Niño has pushed sea surface temperatures to about 1.24 degrees Celsius above average across a large part of the central and eastern Pacific Ocean. The average sea surface temperature across the world&#8217;s tropical and temperate oceans is currently just under 21 degrees Celsius. Before widespread industrialisation in 1870, it was about 19.6 degrees Celsius. Scientists say the El Niño developing over the tropical Pacific is expected to raise global temperatures and increase the risk of extreme weather events, including marine heatwaves in the western Indian Ocean, the tropical Atlantic and the eastern Pacific Ocean.",
-        "date": "2026-07-03",
-        "pubDate": "2026-07-03T08:18:20+00:00",
-        "link": "https://newsonair.gov.in/europe-faces-record-breaking-heatwave-worlds-oceans-experience-warmest-june-on-record/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260622153-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "Union Minister Piyush Goyal says India on track for one trillion-dollar exports",
+        "summary": "Commerce and Industry Minister Piyush Goyal today said that India is on track to achieve one trillion dollar export targets for the year, with nearly 15 per cent of the annual exports already recorded in the first quarter. Addressing the Board of Trade meeting in New Delhi, Mr Goyal noted that this will require […]",
+        "article": "Commerce and Industry Minister Piyush Goyal today said that India is on track to achieve one trillion dollar export targets for the year, with nearly 15 per cent of the annual exports already recorded in the first quarter. Addressing the Board of Trade meeting in New Delhi, Mr Goyal noted that this will require goods exports to rise from about 440 billion dollars to around 530 billion dollars and services exports to increase from roughly 421 billion dollars to about 470 billion dollars. He further said that it expected that merchandise exports growth will show 15 per cent growth and services exports is about 10 to 11 per cent in the first quarter. The Minister noted that India’s export strategy is being built around a stronger, more inclusive approach in which every state, district, and industry segment is treated as equally important. He said that the government is working to ensure that micro, small, medium, and large industries all have the opportunity to benefit from the country’s export push. Mr Goyal highlighted that the Central Government is planning to expand the export base beyond the traditional hubs by making every district in the country an export hub. The Minister emphasized that the government will depute trained nodal officers in districts to guide local businesses, especially MSMEs, on export opportunities, documentation, and market access. He added that these officers will be trained for four to six months in Delhi and will be equipped with data and support systems to handhold exporters. He also highlighted the government is also simplifying procedures, reducing compliance burdens, and improving the ease of doing business to support the export ecosystem. Mr Goyal emphasized the role of the export promotion mission in helping businesses with branding overseas, warehouses, and exhibitions abroad, and urged exporters to make full use of newly operational and upcoming Free Trade Agreements (FTA), including those with Oman, Switzerland, the UAE, and the UK. He further said India is increasingly seen as a secure and attractive partner for global trade, but achieving the next level of growth will require scale, quality, outreach, and collective effort from industry and government alike. Meanwhile, speaking to the media on the sidelines of the meeting, Mr Goyal said that Free Trade Agreements with 38 developed countries have opened new opportunities for Indian exports and strengthened the country&#8217;s access to global markets. He added that there is growing interest across the world in deepening trade and economic partnerships with India. Referring to recent engagements with countries including Japan, Greece and the United Kingdom, he said India is actively engaging with global leaders and industries to further strengthen trade ties. He expressed confidence that these efforts will help accelerate India&#8217;s exports in the coming month.",
+        "date": "2026-07-03",
+        "pubDate": "2026-07-03T13:44:32+00:00",
+        "link": "https://newsonair.gov.in/union-minister-piyush-goyal-says-india-on-track-for-one-trillion-dollar-exports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMTgMUqasAEqYsE-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "PM Modi to embark on six-day visit to Indonesia, Australia and New Zealand",
         "summary": "Prime Minister Narendra Modi will be on a six day visit to Indonesia, Australia and New Zealand from Monday. Briefing media in New Delhi this evening, Secretary (East) in Ministry of External Affairs Rudrendra Tandon informed that Mr Modi will be in Indonesia from 6th to 8th of this month and his main engagements will […]",
@@ -222,17 +233,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-03T08:55:06+00:00",
         "link": "https://newsonair.gov.in/ls-speaker-om-birla-to-inaugurate-orientation-programme-for-newly-elected-members-of-west-bengal-legislative-assembly/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/831f345f-b76c-4dff-b38d-d4a43a51e61b.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Japan highlights significance of ‘Namaste’ after PM Modi & Japanese PM Sanae Takaichi greeting during India Visit",
-        "summary": "Japan&#8217;s Cabinet Public Relations Officer today highlighted the significance of the traditional Indian greeting &#8220;Namaste&#8221; after Prime Minister Narendra Modi and Japanese Prime Minister Sanae Takaichi greeted each other with folded hands during the Japanese Prime Minister&#8217;s visit to India. In a post on social media platform, the Japanese Cabinet Public Relations Officer expla",
-        "article": "Japan&#8217;s Cabinet Public Relations Officer today highlighted the significance of the traditional Indian greeting &#8220;Namaste&#8221; after Prime Minister Narendra Modi and Japanese Prime Minister Sanae Takaichi greeted each other with folded hands during the Japanese Prime Minister&#8217;s visit to India. In a post on social media platform, the Japanese Cabinet Public Relations Officer explained the meaning of the gesture, known as &#8220;Anjali Mudra&#8221;. The gesture, which involves pressing one&#8217;s palms together in front of the chest, signifies the message of respect. Globally, the &#8220;Namaste&#8221; gesture is practised, as it represents greeting, humility and gratitude. It is also associated with a sense of groundedness and humility for the person performing it. This is considered one of the key aspects of Anjali Mudra, allowing individuals to internalise the external experience of humility and groundedness, Art of Living notes.",
-        "date": "2026-07-03",
-        "pubDate": "2026-07-03T08:52:47+00:00",
-        "link": "https://newsonair.gov.in/japan-highlights-significance-of-namaste-after-pm-modi-japanese-pm-sanae-takaichi-greeting-during-india-visit/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMQ8op4bEAALqaD.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -250,6 +250,17 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "Union Minister Piyush Goyal says India on track for one trillion-dollar exports",
+        "summary": "Commerce and Industry Minister Piyush Goyal today said that India is on track to achieve one trillion dollar export targets for the year, with nearly 15 per cent of the annual exports already recorded in the first quarter. Addressing the Board of Trade meeting in New Delhi, Mr Goyal noted that this will require […]",
+        "article": "Commerce and Industry Minister Piyush Goyal today said that India is on track to achieve one trillion dollar export targets for the year, with nearly 15 per cent of the annual exports already recorded in the first quarter. Addressing the Board of Trade meeting in New Delhi, Mr Goyal noted that this will require goods exports to rise from about 440 billion dollars to around 530 billion dollars and services exports to increase from roughly 421 billion dollars to about 470 billion dollars. He further said that it expected that merchandise exports growth will show 15 per cent growth and services exports is about 10 to 11 per cent in the first quarter. The Minister noted that India’s export strategy is being built around a stronger, more inclusive approach in which every state, district, and industry segment is treated as equally important. He said that the government is working to ensure that micro, small, medium, and large industries all have the opportunity to benefit from the country’s export push. Mr Goyal highlighted that the Central Government is planning to expand the export base beyond the traditional hubs by making every district in the country an export hub. The Minister emphasized that the government will depute trained nodal officers in districts to guide local businesses, especially MSMEs, on export opportunities, documentation, and market access. He added that these officers will be trained for four to six months in Delhi and will be equipped with data and support systems to handhold exporters. He also highlighted the government is also simplifying procedures, reducing compliance burdens, and improving the ease of doing business to support the export ecosystem. Mr Goyal emphasized the role of the export promotion mission in helping businesses with branding overseas, warehouses, and exhibitions abroad, and urged exporters to make full use of newly operational and upcoming Free Trade Agreements (FTA), including those with Oman, Switzerland, the UAE, and the UK. He further said India is increasingly seen as a secure and attractive partner for global trade, but achieving the next level of growth will require scale, quality, outreach, and collective effort from industry and government alike. Meanwhile, speaking to the media on the sidelines of the meeting, Mr Goyal said that Free Trade Agreements with 38 developed countries have opened new opportunities for Indian exports and strengthened the country&#8217;s access to global markets. He added that there is growing interest across the world in deepening trade and economic partnerships with India. Referring to recent engagements with countries including Japan, Greece and the United Kingdom, he said India is actively engaging with global leaders and industries to further strengthen trade ties. He expressed confidence that these efforts will help accelerate India&#8217;s exports in the coming month.",
+        "date": "2026-07-03",
+        "pubDate": "2026-07-03T13:44:32+00:00",
+        "link": "https://newsonair.gov.in/union-minister-piyush-goyal-says-india-on-track-for-one-trillion-dollar-exports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMTgMUqasAEqYsE-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Modi to embark on six-day visit to Indonesia, Australia and New Zealand",
         "summary": "Prime Minister Narendra Modi will be on a six day visit to Indonesia, Australia and New Zealand from Monday. Briefing media in New Delhi this evening, Secretary (East) in Ministry of External Affairs Rudrendra Tandon informed that Mr Modi will be in Indonesia from 6th to 8th of this month and his main engagements will […]",
         "article": "Prime Minister Narendra Modi will be on a six day visit to Indonesia, Australia and New Zealand from Monday. Briefing media in New Delhi this evening, Secretary (East) in Ministry of External Affairs Rudrendra Tandon informed that Mr Modi will be in Indonesia from 6th to 8th of this month and his main engagements will be in Jakarta, but the Prime Minister will also visit a cultural and historic city Yogyakarta. He said, in Yogyakarta, Mr Modi will go to the Prambanan Temple complex. The Secretary said, India and Indonesia will be collaborating on the conservation work there. He said, the visit of the Prime Minister to Indonesia will very much be a continuation of the discussions on various bilateral tracks of cooperation that began when President Prabowo visited India as the Guest of Honour for the 2025 Republic Day celebrations. The Secretary said Indonesia has always played an important role in the security and stability of the Malacca Strait maritime zone. Mr Tandon said this is a very important maritime zone for India, as it represents one of the country&#8217;s most important sea lanes of communication. He said, it is significant not only for India as an Indian Ocean nation, but probably for the global economy as well. The Secretary (East) said, the second leg of the visit will be to Australia from 8th to 10th of this month. He said, Mr Modi will reach Melbourne where he will participate in the third India-Australia Annual Summit. Mr Tandon said, the conversations will cover emerging areas of the bilateral relations, in particular the critical minerals, the cybersecurity domain, supply chain resilience, emerging technologies, and others. On the third and last leg of his three nation visit, Mr Modi will be in New Zealand from 10th to 11 July. Mr Tandon said, Prime Minister Narendra Modi will hold talks with his New Zealand counterpart, Christopher Luxon. The Secretary (East) said, the visit to New Zealand will be the first visit by the Indian Prime Minister in 40 years.",
@@ -334,17 +345,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-03T08:55:06+00:00",
         "link": "https://newsonair.gov.in/ls-speaker-om-birla-to-inaugurate-orientation-programme-for-newly-elected-members-of-west-bengal-legislative-assembly/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/831f345f-b76c-4dff-b38d-d4a43a51e61b.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Japan highlights significance of ‘Namaste’ after PM Modi & Japanese PM Sanae Takaichi greeting during India Visit",
-        "summary": "Japan&#8217;s Cabinet Public Relations Officer today highlighted the significance of the traditional Indian greeting &#8220;Namaste&#8221; after Prime Minister Narendra Modi and Japanese Prime Minister Sanae Takaichi greeted each other with folded hands during the Japanese Prime Minister&#8217;s visit to India. In a post on social media platform, the Japanese Cabinet Public Relations Officer expla",
-        "article": "Japan&#8217;s Cabinet Public Relations Officer today highlighted the significance of the traditional Indian greeting &#8220;Namaste&#8221; after Prime Minister Narendra Modi and Japanese Prime Minister Sanae Takaichi greeted each other with folded hands during the Japanese Prime Minister&#8217;s visit to India. In a post on social media platform, the Japanese Cabinet Public Relations Officer explained the meaning of the gesture, known as &#8220;Anjali Mudra&#8221;. The gesture, which involves pressing one&#8217;s palms together in front of the chest, signifies the message of respect. Globally, the &#8220;Namaste&#8221; gesture is practised, as it represents greeting, humility and gratitude. It is also associated with a sense of groundedness and humility for the person performing it. This is considered one of the key aspects of Anjali Mudra, allowing individuals to internalise the external experience of humility and groundedness, Art of Living notes.",
-        "date": "2026-07-03",
-        "pubDate": "2026-07-03T08:52:47+00:00",
-        "link": "https://newsonair.gov.in/japan-highlights-significance-of-namaste-after-pm-modi-japanese-pm-sanae-takaichi-greeting-during-india-visit/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMQ8op4bEAALqaD.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -362,6 +362,17 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "Union Minister Piyush Goyal says India on track for one trillion-dollar exports",
+        "summary": "Commerce and Industry Minister Piyush Goyal today said that India is on track to achieve one trillion dollar export targets for the year, with nearly 15 per cent of the annual exports already recorded in the first quarter. Addressing the Board of Trade meeting in New Delhi, Mr Goyal noted that this will require […]",
+        "article": "Commerce and Industry Minister Piyush Goyal today said that India is on track to achieve one trillion dollar export targets for the year, with nearly 15 per cent of the annual exports already recorded in the first quarter. Addressing the Board of Trade meeting in New Delhi, Mr Goyal noted that this will require goods exports to rise from about 440 billion dollars to around 530 billion dollars and services exports to increase from roughly 421 billion dollars to about 470 billion dollars. He further said that it expected that merchandise exports growth will show 15 per cent growth and services exports is about 10 to 11 per cent in the first quarter. The Minister noted that India’s export strategy is being built around a stronger, more inclusive approach in which every state, district, and industry segment is treated as equally important. He said that the government is working to ensure that micro, small, medium, and large industries all have the opportunity to benefit from the country’s export push. Mr Goyal highlighted that the Central Government is planning to expand the export base beyond the traditional hubs by making every district in the country an export hub. The Minister emphasized that the government will depute trained nodal officers in districts to guide local businesses, especially MSMEs, on export opportunities, documentation, and market access. He added that these officers will be trained for four to six months in Delhi and will be equipped with data and support systems to handhold exporters. He also highlighted the government is also simplifying procedures, reducing compliance burdens, and improving the ease of doing business to support the export ecosystem. Mr Goyal emphasized the role of the export promotion mission in helping businesses with branding overseas, warehouses, and exhibitions abroad, and urged exporters to make full use of newly operational and upcoming Free Trade Agreements (FTA), including those with Oman, Switzerland, the UAE, and the UK. He further said India is increasingly seen as a secure and attractive partner for global trade, but achieving the next level of growth will require scale, quality, outreach, and collective effort from industry and government alike. Meanwhile, speaking to the media on the sidelines of the meeting, Mr Goyal said that Free Trade Agreements with 38 developed countries have opened new opportunities for Indian exports and strengthened the country&#8217;s access to global markets. He added that there is growing interest across the world in deepening trade and economic partnerships with India. Referring to recent engagements with countries including Japan, Greece and the United Kingdom, he said India is actively engaging with global leaders and industries to further strengthen trade ties. He expressed confidence that these efforts will help accelerate India&#8217;s exports in the coming month.",
+        "date": "2026-07-03",
+        "pubDate": "2026-07-03T13:44:32+00:00",
+        "link": "https://newsonair.gov.in/union-minister-piyush-goyal-says-india-on-track-for-one-trillion-dollar-exports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMTgMUqasAEqYsE-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Modi to embark on six-day visit to Indonesia, Australia and New Zealand",
         "summary": "Prime Minister Narendra Modi will be on a six day visit to Indonesia, Australia and New Zealand from Monday. Briefing media in New Delhi this evening, Secretary (East) in Ministry of External Affairs Rudrendra Tandon informed that Mr Modi will be in Indonesia from 6th to 8th of this month and his main engagements will […]",
         "article": "Prime Minister Narendra Modi will be on a six day visit to Indonesia, Australia and New Zealand from Monday. Briefing media in New Delhi this evening, Secretary (East) in Ministry of External Affairs Rudrendra Tandon informed that Mr Modi will be in Indonesia from 6th to 8th of this month and his main engagements will be in Jakarta, but the Prime Minister will also visit a cultural and historic city Yogyakarta. He said, in Yogyakarta, Mr Modi will go to the Prambanan Temple complex. The Secretary said, India and Indonesia will be collaborating on the conservation work there. He said, the visit of the Prime Minister to Indonesia will very much be a continuation of the discussions on various bilateral tracks of cooperation that began when President Prabowo visited India as the Guest of Honour for the 2025 Republic Day celebrations. The Secretary said Indonesia has always played an important role in the security and stability of the Malacca Strait maritime zone. Mr Tandon said this is a very important maritime zone for India, as it represents one of the country&#8217;s most important sea lanes of communication. He said, it is significant not only for India as an Indian Ocean nation, but probably for the global economy as well. The Secretary (East) said, the second leg of the visit will be to Australia from 8th to 10th of this month. He said, Mr Modi will reach Melbourne where he will participate in the third India-Australia Annual Summit. Mr Tandon said, the conversations will cover emerging areas of the bilateral relations, in particular the critical minerals, the cybersecurity domain, supply chain resilience, emerging technologies, and others. On the third and last leg of his three nation visit, Mr Modi will be in New Zealand from 10th to 11 July. Mr Tandon said, Prime Minister Narendra Modi will hold talks with his New Zealand counterpart, Christopher Luxon. The Secretary (East) said, the visit to New Zealand will be the first visit by the Indian Prime Minister in 40 years.",
@@ -450,17 +461,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Japan highlights significance of ‘Namaste’ after PM Modi & Japanese PM Sanae Takaichi greeting during India Visit",
-        "summary": "Japan&#8217;s Cabinet Public Relations Officer today highlighted the significance of the traditional Indian greeting &#8220;Namaste&#8221; after Prime Minister Narendra Modi and Japanese Prime Minister Sanae Takaichi greeted each other with folded hands during the Japanese Prime Minister&#8217;s visit to India. In a post on social media platform, the Japanese Cabinet Public Relations Officer expla",
-        "article": "Japan&#8217;s Cabinet Public Relations Officer today highlighted the significance of the traditional Indian greeting &#8220;Namaste&#8221; after Prime Minister Narendra Modi and Japanese Prime Minister Sanae Takaichi greeted each other with folded hands during the Japanese Prime Minister&#8217;s visit to India. In a post on social media platform, the Japanese Cabinet Public Relations Officer explained the meaning of the gesture, known as &#8220;Anjali Mudra&#8221;. The gesture, which involves pressing one&#8217;s palms together in front of the chest, signifies the message of respect. Globally, the &#8220;Namaste&#8221; gesture is practised, as it represents greeting, humility and gratitude. It is also associated with a sense of groundedness and humility for the person performing it. This is considered one of the key aspects of Anjali Mudra, allowing individuals to internalise the external experience of humility and groundedness, Art of Living notes.",
-        "date": "2026-07-03",
-        "pubDate": "2026-07-03T08:52:47+00:00",
-        "link": "https://newsonair.gov.in/japan-highlights-significance-of-namaste-after-pm-modi-japanese-pm-sanae-takaichi-greeting-during-india-visit/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMQ8op4bEAALqaD.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "I&B Ministry directs BARC to suspend TV ratings till licence renewal",
         "summary": "The Ministry of Information and Broadcasting has directed the Broadcast Audience Research Council BARC to stop publishing television ratings across both news and non-news genres until its licence is renewed under the Television Ratings Policy, 2026. The directive pauses BARC’s ratings operations until the ratings body secures licence renewal and is certified as fully compliant […]",
         "article": "The Ministry of Information and Broadcasting has directed the Broadcast Audience Research Council BARC to stop publishing television ratings across both news and non-news genres until its licence is renewed under the Television Ratings Policy, 2026. The directive pauses BARC’s ratings operations until the ratings body secures licence renewal and is certified as fully compliant with the new regulatory framework introduced by the Ministry.",
@@ -473,6 +473,17 @@ window.VM_NEWS = {
       }
     ],
     "world": [
+      {
+        "title": "UN Human Rights Chief raises red alert over the risk of possible atrocity crimes in Sudan’s El-Obeid",
+        "summary": "The United Nations Human Rights Chief Rights Volker Turk has raised a red alert over the risk of possible atrocity crimes in and around Sudan&#8217;s strategic city of El-Obeid. &#160; Addressing the Human Rights Council in Geneva today, UN High Commissioner for Human Rights Volker Turk urged world leaders to take immediate steps to prevent […]",
+        "article": "The United Nations Human Rights Chief Rights Volker Turk has raised a red alert over the risk of possible atrocity crimes in and around Sudan&#8217;s strategic city of El-Obeid. &nbsp; Addressing the Human Rights Council in Geneva today, UN High Commissioner for Human Rights Volker Turk urged world leaders to take immediate steps to prevent further bloodshed. He warned that another human rights catastrophe is unfolding as civilians continue to face relentless drone strikes and severe shortages of food, water, fuel and healthcare. &nbsp; According to reports, Sudan&#8217;s civil war, which began in April 2023 between the army and the paramilitary Rapid Support Forces, has claimed at least 59 thousand lives and displaced around 13 million people. The UN has expressed concern over renewed RSF offensives and growing threats to civilians in El-Obeid.",
+        "date": "2026-07-03",
+        "pubDate": "2026-07-03T13:50:30+00:00",
+        "link": "https://newsonair.gov.in/un-human-rights-chief-raises-red-alert-over-the-risk-of-possible-atrocity-crimes-in-sudans-el-obeid/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/UN-Human-Rights-Chief-Volker-Turk-warns-of-atrocity-crimes-risk-in-Sudan.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "NASA launches mission to raise Swift Observatory’s orbit",
         "summary": "NASA’s Swift Observatory is set for a crucial rescue mission after a spacecraft was successfully launched to boost its shrinking orbit. Northrop Grumman launched Katalyst Space Technologies’ Link spacecraft aboard a Pegasus rocket from the Marshall Islands on Friday. &#160; The spacecraft is expected to reach Swift in about a month and raise its orbit […]",
@@ -562,17 +573,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Wildfires rage across Southern France amid record heat and dry weather",
-        "summary": "Wildfires raged in the south of France today after weeks of dry weather and record temperatures across the country, devastating large swaths of land. The biggest fire spread in the Aude and Herault regions, where up to 800 firefighters and 150 vehicles were deployed to tackle the flames that ran over 2,200 acres. Further fires […]",
-        "article": "Wildfires raged in the south of France today after weeks of dry weather and record temperatures across the country, devastating large swaths of land. The biggest fire spread in the Aude and Herault regions, where up to 800 firefighters and 150 vehicles were deployed to tackle the flames that ran over 2,200 acres. Further fires broke out in the neighbouring Marseille region, where two blazes were brought under control, but not yet extinguished. Alain Bucquet, the Aude prefect, said fire services will receive support from two additional water-bomber aircraft, bringing the total number of Canadair planes on the site to four. The Aude is regularly hit by wildfires, and firefighters last year contained France&#8217;s largest wildfire in decades in the region. High temperatures are expected in the coming days, and the drought is expected to last, with no rain forecast following the early heatwave in May and the one that gripped France at the end of June.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T12:47:42+00:00",
-        "link": "https://newsonair.gov.in/wildfires-rage-across-southern-france-amid-record-heat-and-dry-weather/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Akashwani-news.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Pakistan: 40 killed, 8 injured after passenger bus plunges into ravine on Sherani-Zhob highway",
         "summary": "At least 40 people were killed and eight others injured after a passenger coach plunged into a deep ravine on the Sherani-Zhob highway in Pakistan today. The accident took place in the Danasar area near the border of Balochistan and Khyber Pakhtunkhwa. According to the Medical Emergency Response Centre, 40 bodies have been recovered […]",
         "article": "At least 40 people were killed and eight others injured after a passenger coach plunged into a deep ravine on the Sherani-Zhob highway in Pakistan today. The accident took place in the Danasar area near the border of Balochistan and Khyber Pakhtunkhwa. According to the Medical Emergency Response Centre, 40 bodies have been recovered from the crash site. The injured have been shifted to the Trauma Centre in Zhob for treatment. Rescue teams, ambulances and emergency personnel were rushed to the spot. The rescue operation is continuing. The coach was travelling from Quetta to Peshawar. Authorities said additional passengers had boarded the bus after another coach broke down during the journey. An emergency has been declared at hospitals in Sherani and Dera Ismail Khan to provide immediate medical care to the injured. Authorities have ordered an investigation into the cause of the accident.",
@@ -585,6 +585,17 @@ window.VM_NEWS = {
       }
     ],
     "sports": [
+      {
+        "title": "Australia face Egypt as FIFA World Cup Round of 32 continues",
+        "summary": "In the FIFA World Cup, Australia will take on Egypt in a Round of 32 match at Arlington in US tonight. In other Round of 32 matches, Argentina will face Cabo Verde at Miami Gardens while Colombia will clash with Ghana at Kansas City Stadium tomorrow morning. Switzerland, Spain, Portugal, Belgium, the United States, […]",
+        "article": "In the FIFA World Cup, Australia will take on Egypt in a Round of 32 match at Arlington in US tonight. In other Round of 32 matches, Argentina will face Cabo Verde at Miami Gardens while Colombia will clash with Ghana at Kansas City Stadium tomorrow morning. Switzerland, Spain, Portugal, Belgium, the United States, England, Mexico France, Norway, Canada, Morocco, Brazil and Paraguay have already advanced to the Round of 16. Switzerland defeated Algeria 2-nil in the Round of 32 in Vancouver, Canada this morning. Portugal also advanced to the Round of 16 beating Croatia 2-1 in their Round of 32 match in Toronto. Spain defeated Austria 3-nil in the Round of 32 at Los Angeles Stadium in US.",
+        "date": "2026-07-03",
+        "pubDate": "2026-07-03T13:50:17+00:00",
+        "link": "https://newsonair.gov.in/australia-face-egypt-as-fifa-world-cup-round-of-32-continues/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/FIFA-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "BCCI announces schedule for India’s two-match Test series against Sri Lanka",
         "summary": "The Board of Control for Cricket in India (BCCI) has announced the schedule for India&#8217;s two-match Test series against Sri Lanka, to be played from the 15th to the 27th of next month. The opening Test will be held at the Galle International Stadium from the 15th of next month, while the second Test […]",
@@ -681,17 +692,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-01T10:27:48+00:00",
         "link": "https://newsonair.gov.in/ishan-kishan-replaces-abhishek-sharma-as-worlds-number-one-t20-international-batter/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ishanb.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "France beat Sweden 3-0 to enter Round of 16 at FIFA World Cup football",
-        "summary": "In Football, Mexico defeated Ecuador 2-0 in the Round of 32 clash at the Mexico City Stadium to qualify for the Round of 16 of FIFA World Cup this morning. Raul Jimenez and Julian Quinones scored for Mexico. This marked Mexico&#8217;s first World Cup knockout stage win in 40 years. The co-hosts will now face […]",
-        "article": "In Football, Mexico defeated Ecuador 2-0 in the Round of 32 clash at the Mexico City Stadium to qualify for the Round of 16 of FIFA World Cup this morning. Raul Jimenez and Julian Quinones scored for Mexico. This marked Mexico&#8217;s first World Cup knockout stage win in 40 years. The co-hosts will now face either England or the Democratic Republic of Congo in the Round of 16 at the same venue on Sunday. Earlier, Kylian Mbappe further enhanced his FIFA World Cup legacy to lead France to a comfortable win against Sweden. In the Round of 32 clash, France defeated Sweden 3-0 at New York&#8217;s New Jersey Stadium this morning to storm into Round of 16. Mbappe struck twice to take his World Cup tally to 18 goals, now two clear of Miroslav Klose and only one behind Lionel Messi. Earlier, Norway beat the Ivory Coast 2-1 in Texas, USA, to advance to the Round of 16. Antonio Nusa scored in the 39th minute to give Norway the lead, but Ivory Coast&#8217;s Amad Diallo equalized in the 74th minute. However, Erling Haaland&#8217;s 86th-minute goal secured Norway&#8217;s spot in the Round of 16. Norway will now face Brazil in the Round of 16 on Sunday night.",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T02:35:10+00:00",
-        "link": "https://newsonair.gov.in/france-beat-sweden-3-0-to-enter-round-of-16-at-fifa-world-cup-football/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-10.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -1031,19 +1031,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T13:30:36+00:00",
         "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-embark-on-a-six-day-visit-to-indonesia-australia-and-new-zealand-starting-monday/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "संयुक्त राष्ट्र मानवाधिकार उच्चायुक्त वोल्कर तुर्क ने सूडान के अल-ओबेद में संभावित अत्याचारों पर गंभीर चिंता जताई",
-        "summary": "संयुक्त राष्ट्र मानवाधिकार उच्चायुक्त वोल्कर तुर्क ने सूडान के रणनीतिक शहर अल-ओबेद और उसके आसपास संभावित अत्याचारों के खतरे को लेकर गंभीर चिंता व्‍यक्‍त की है। जिनेवा में संयुक्‍त राष्‍ट्र मानवाधिकार परिषद को संबोधित करते हुए उन्‍होंने अंतरराष्‍ट्रीय समुदाय से आगे रक्तपात को रोकने के लिए तत्काल कदम उठाने का आग्रह किया। वोल्कर तुर्क ने […]",
-        "article": "संयुक्त राष्ट्र मानवाधिकार उच्चायुक्त वोल्कर तुर्क ने सूडान के रणनीतिक शहर अल-ओबेद और उसके आसपास संभावित अत्याचारों के खतरे को लेकर गंभीर चिंता व्&#x200d;यक्&#x200d;त की है। जिनेवा में संयुक्&#x200d;त राष्&#x200d;ट्र मानवाधिकार परिषद को संबोधित करते हुए उन्&#x200d;होंने अंतरराष्&#x200d;ट्रीय समुदाय से आगे रक्तपात को रोकने के लिए तत्काल कदम उठाने का आग्रह किया। वोल्कर तुर्क ने कहा कि लगातार ड्रोन हमलों तथा भोजन, पेयजल, ईंधन और स्वास्थ्य सेवाओं की भारी कमी के कारण नागरिकों को गंभीर संकट का सामना करना पड़ रहा है। रिपोर्टों के अनुसार, सूडान का गृहयुद्ध, जो अप्रैल 2023 में सेना और अर्धसैनिक रैपिड सपोर्ट फोर्सेज के बीच शुरू हुआ था, में कम से कम 59 हजार लोगों की जान जा चुकी है और लगभग एक करोड़ 30 लाख लोग विस्थापित हो चुके हैं। संयुक्त राष्ट्र ने आरएसएफ के नए हमलों और अल-ओबेद में नागरिकों के लिए बढ़ते खतरों पर चिंता व्यक्त की है।",
-        "date": "2026-07-03",
-        "pubDate": "2026-07-03T13:27:14+00:00",
-        "link": "https://newsonair.gov.in/hi/un-high-commissioner-for-human-rights-volker-turk-has-expressed-grave-concern-over-potential-atrocities-in-al-obeid-sudan/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/20260523096f_a0i54e2-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1053,8 +1042,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T13:24:41+00:00",
         "link": "https://newsonair.gov.in/hi/delhi-inauguration-of-the-newly-constructed-front-block-and-modern-physiotherapy-center-at-lajpat-nagar-colony-hospital/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1064,8 +1053,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T13:15:27+00:00",
         "link": "https://newsonair.gov.in/hi/a-crucial-space-mission-launched-to-save-nasas-swift-observatory/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/nasa.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1075,8 +1064,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T12:00:20+00:00",
         "link": "https://newsonair.gov.in/hi/agriculture-minister-shivraj-singh-chouhan-has-directed-the-formation-of-a-high-level-committee-to-assess-the-problems-faced-by-totapuri-mango-growers/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Union-Minister-Shivraj-Singh-Chouhan-holds-review-meeting-on-El-Nino-effect-on-agriculture.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1086,8 +1075,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T11:33:09+00:00",
         "link": "https://newsonair.gov.in/hi/the-indus-waters-treaty-will-remain-suspended-until-pakistan-stops-supporting-cross-border-terrorism-2/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-Spokesperson-Randhir-Jaiswal-says-Indus-Waters-Treaty-remains-in-abeyance.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1097,8 +1086,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T11:22:10+00:00",
         "link": "https://newsonair.gov.in/hi/the-ministry-of-steel-will-organize-an-open-house-meeting-to-discuss-issues-related-to-steel-imports/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/steel-ministry.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1108,8 +1097,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T11:14:26+00:00",
         "link": "https://newsonair.gov.in/hi/the-ministry-of-information-and-broadcasting-has-directed-that-the-release-of-television-viewership-ratings-be-halted-2/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/07/MIB-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1119,8 +1108,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T10:40:15+00:00",
         "link": "https://newsonair.gov.in/hi/government-order-apps-that-shut-down-e-rickshaw-batteries-via-bluetooth-must-be-removed/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-14.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1130,28 +1119,17 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T08:50:49+00:00",
         "link": "https://newsonair.gov.in/hi/the-president-appointed-three-additional-judges-to-the-andhra-pradesh-high-court/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "लोकसभा अध्यक्ष ओम बिरला ने कोलकाता में विधायी कार्य से संबंधित कार्यक्रम का किया उद्घाटन",
-        "summary": "लोकसभा अध्यक्ष ओम बिरला ने आज कोलकाता के न्यू टाउन कन्वेंशन सेंटर में पश्चिम बंगाल विधानसभा के नव निर्वाचित सदस्यों के लिए दो दिन के संसदीय और विधायी कार्य से संबंधित कार्यक्रम का उद्घाटन किया। श्री बिरला को उद्घाटन समारोह से पहले गार्ड ऑफ ऑनर प्रदान किया गया। पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी, […]",
-        "article": "लोकसभा अध्यक्ष ओम बिरला ने आज कोलकाता के न्यू टाउन कन्वेंशन सेंटर में पश्चिम बंगाल विधानसभा के नव निर्वाचित सदस्यों के लिए दो दिन के संसदीय और विधायी कार्य से संबंधित कार्यक्रम का उद्घाटन किया। श्री बिरला को उद्घाटन समारोह से पहले गार्ड ऑफ ऑनर प्रदान किया गया। पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी, संसदीय कार्य मंत्री किरेन रिजिजू, राज्यसभा के उपसभापति हरिवंश, विधानसभा में विपक्ष के नेता ऋतब्रत बनर्जी और विधानसभा अध्यक्ष रथिंद्र बोस उद्घाटन समारोह में उपस्थित थे। उद्घाटन समारोह को संबोधित करते हुए मुख्यमंत्री शुभेंदु अधिकारी ने कहा कि श्यामा प्रसाद मुखर्जी ने 1947 में बंगाल की तत्कालीन विधान परिषद में वर्तमान पश्चिम बंगाल को भारत में शामिल करने के प्रयासों में महत्वपूर्ण योगदान दिया था। उन्होंने कहा कि पिछली राज्&#x200d;य सरकार के दौरान लोकतांत्रिक व्यवस्था और विधायी प्रक्रियाएं पूरी तरह ध्वस्त हो गई थीं। आज बंगाल की जनता ने मतदान के माध्यम से स्थिति बदल दी। श्री अधिकारी ने कहा कि बंगाल को फिर समृद्ध बनाने के लिए विधानसभा में सत्ता पक्ष और विपक्ष दोनों को मिलकर काम करना चाहिए। उन्होंने &#8216;विकास भी और विरासत भी&#8217; के नारे का उल्&#x200d;लेख किया। दो दिवसीय प्रशिक्षण कार्यक्रम में कई तकनीकी सत्र आयोजित किए जा रहे हैं, जिनमें &#8216;प्रभावी विधायक कैसे बनें, सदस्&#x200d;यों के लिए रीति-रिवाज, परंपराएं और शिष्टाचार&#8217;, &#8216;विधानमंडल में प्रश्नों और अन्य प्रक्रियात्मक उपायों के माध्यम से कार्यपालिका की जवाबदेही&#8217; और &#8216;राष्ट्रीय ई-विधान एप्लिकेशन&#8217; शामिल हैं। कार्यक्रम कल पश्चिम बंगाल विधानसभा में समाप्त होगा, जिसमें पश्चिम बंगाल के राज्यपाल आर. एन. रवि समापन भाषण देंगे।",
+        "title": "दिल्ली की मुख्यमंत्री रेखा गुप्ता ने कहा- प्लास्टिक मुक्त दिल्ली के निर्माण में सहभागी बनें",
+        "summary": "दिल्ली की मुख्यमंत्री रेखा गुप्ता ने आज अंतरराष्ट्रीय प्लास्टिक बैग मुक्त दिवस पर सभी से संकल्प लेने को कहा कि यह केवल विशेष दिन तक सीमित न रहे, बल्कि सभी की रोज़मर्रा की आदत बन जाए। एक सोशल मीडिया पोस्ट में मुख्यमंत्री ने कहा कि घर से निकलते समय कपड़े या जूट का थैला साथ […]",
+        "article": "दिल्ली की मुख्यमंत्री रेखा गुप्ता ने आज अंतरराष्ट्रीय प्लास्टिक बैग मुक्त दिवस पर सभी से संकल्प लेने को कहा कि यह केवल विशेष दिन तक सीमित न रहे, बल्कि सभी की रोज़मर्रा की आदत बन जाए। एक सोशल मीडिया पोस्ट में मुख्यमंत्री ने कहा कि घर से निकलते समय कपड़े या जूट का थैला साथ रखें, सिंगल-यूज़ प्लास्टिक थैलों का बिलकुल इस्तेमाल न करें और अपने छोटे-छोटे प्रयासों से स्वच्छ, हरित और प्लास्टिक-मुक्त दिल्ली के निर्माण में सहभागी बनें।",
         "date": "2026-07-03",
-        "pubDate": "2026-07-03T08:46:01+00:00",
-        "link": "https://newsonair.gov.in/hi/lok-sabha-speaker-om-birla-inaugurated-a-programme-related-to-legislative-work-in-kolkata/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पाकिस्तान के शेरानी-झोब राजमार्ग पर बस हादसा, 40 लोगों की मौत",
-        "summary": "पाकिस्तान के शेरानी-झोब राजमार्ग पर एक दर्दनाक हादसा सामने आया जिसमें एक यात्री बस के गहरी खाई में गिरने से 40 लोगों की मौत हो गई है। घायलों को इलाज के लिए ट्रॉमा सेंटर में भर्ती कराया गया है। यह दुर्घटना बलूचिस्तान और खैबर पख्तूनख्वा की सीमा के पास दानसर क्षेत्र में हुई। बचाव अभियान […]",
-        "article": "पाकिस्तान के शेरानी-झोब राजमार्ग पर एक दर्दनाक हादसा सामने आया जिसमें एक यात्री बस के गहरी खाई में गिरने से 40 लोगों की मौत हो गई है। घायलों को इलाज के लिए ट्रॉमा सेंटर में भर्ती कराया गया है। यह दुर्घटना बलूचिस्तान और खैबर पख्तूनख्वा की सीमा के पास दानसर क्षेत्र में हुई। बचाव अभियान अभी जारी है।",
-        "date": "2026-07-03",
-        "pubDate": "2026-07-03T08:31:15+00:00",
-        "link": "https://newsonair.gov.in/hi/40-killed-in-bus-accident-on-pakistans-sherani-zhob-highway/",
+        "pubDate": "2026-07-03T14:05:30+00:00",
+        "link": "https://newsonair.gov.in/hi/delhi-chief-minister-rekha-gupta-said-become-a-partner-in-creating-a-plastic-free-delhi/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1165,8 +1143,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T13:30:36+00:00",
         "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-embark-on-a-six-day-visit-to-indonesia-australia-and-new-zealand-starting-monday/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/20260523096f_a0i54e2-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1176,8 +1154,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T13:24:41+00:00",
         "link": "https://newsonair.gov.in/hi/delhi-inauguration-of-the-newly-constructed-front-block-and-modern-physiotherapy-center-at-lajpat-nagar-colony-hospital/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1187,8 +1165,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T13:15:27+00:00",
         "link": "https://newsonair.gov.in/hi/a-crucial-space-mission-launched-to-save-nasas-swift-observatory/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/nasa.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1198,8 +1176,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T12:00:20+00:00",
         "link": "https://newsonair.gov.in/hi/agriculture-minister-shivraj-singh-chouhan-has-directed-the-formation-of-a-high-level-committee-to-assess-the-problems-faced-by-totapuri-mango-growers/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Union-Minister-Shivraj-Singh-Chouhan-holds-review-meeting-on-El-Nino-effect-on-agriculture.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1209,8 +1187,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T11:33:09+00:00",
         "link": "https://newsonair.gov.in/hi/the-indus-waters-treaty-will-remain-suspended-until-pakistan-stops-supporting-cross-border-terrorism-2/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-Spokesperson-Randhir-Jaiswal-says-Indus-Waters-Treaty-remains-in-abeyance.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1220,8 +1198,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T11:22:10+00:00",
         "link": "https://newsonair.gov.in/hi/the-ministry-of-steel-will-organize-an-open-house-meeting-to-discuss-issues-related-to-steel-imports/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/steel-ministry.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1231,8 +1209,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T11:14:26+00:00",
         "link": "https://newsonair.gov.in/hi/the-ministry-of-information-and-broadcasting-has-directed-that-the-release-of-television-viewership-ratings-be-halted-2/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/07/MIB-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1242,8 +1220,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T10:40:15+00:00",
         "link": "https://newsonair.gov.in/hi/government-order-apps-that-shut-down-e-rickshaw-batteries-via-bluetooth-must-be-removed/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-14.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1253,17 +1231,17 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T08:50:49+00:00",
         "link": "https://newsonair.gov.in/hi/the-president-appointed-three-additional-judges-to-the-andhra-pradesh-high-court/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "लोकसभा अध्यक्ष ओम बिरला ने कोलकाता में विधायी कार्य से संबंधित कार्यक्रम का किया उद्घाटन",
-        "summary": "लोकसभा अध्यक्ष ओम बिरला ने आज कोलकाता के न्यू टाउन कन्वेंशन सेंटर में पश्चिम बंगाल विधानसभा के नव निर्वाचित सदस्यों के लिए दो दिन के संसदीय और विधायी कार्य से संबंधित कार्यक्रम का उद्घाटन किया। श्री बिरला को उद्घाटन समारोह से पहले गार्ड ऑफ ऑनर प्रदान किया गया। पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी, […]",
-        "article": "लोकसभा अध्यक्ष ओम बिरला ने आज कोलकाता के न्यू टाउन कन्वेंशन सेंटर में पश्चिम बंगाल विधानसभा के नव निर्वाचित सदस्यों के लिए दो दिन के संसदीय और विधायी कार्य से संबंधित कार्यक्रम का उद्घाटन किया। श्री बिरला को उद्घाटन समारोह से पहले गार्ड ऑफ ऑनर प्रदान किया गया। पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी, संसदीय कार्य मंत्री किरेन रिजिजू, राज्यसभा के उपसभापति हरिवंश, विधानसभा में विपक्ष के नेता ऋतब्रत बनर्जी और विधानसभा अध्यक्ष रथिंद्र बोस उद्घाटन समारोह में उपस्थित थे। उद्घाटन समारोह को संबोधित करते हुए मुख्यमंत्री शुभेंदु अधिकारी ने कहा कि श्यामा प्रसाद मुखर्जी ने 1947 में बंगाल की तत्कालीन विधान परिषद में वर्तमान पश्चिम बंगाल को भारत में शामिल करने के प्रयासों में महत्वपूर्ण योगदान दिया था। उन्होंने कहा कि पिछली राज्&#x200d;य सरकार के दौरान लोकतांत्रिक व्यवस्था और विधायी प्रक्रियाएं पूरी तरह ध्वस्त हो गई थीं। आज बंगाल की जनता ने मतदान के माध्यम से स्थिति बदल दी। श्री अधिकारी ने कहा कि बंगाल को फिर समृद्ध बनाने के लिए विधानसभा में सत्ता पक्ष और विपक्ष दोनों को मिलकर काम करना चाहिए। उन्होंने &#8216;विकास भी और विरासत भी&#8217; के नारे का उल्&#x200d;लेख किया। दो दिवसीय प्रशिक्षण कार्यक्रम में कई तकनीकी सत्र आयोजित किए जा रहे हैं, जिनमें &#8216;प्रभावी विधायक कैसे बनें, सदस्&#x200d;यों के लिए रीति-रिवाज, परंपराएं और शिष्टाचार&#8217;, &#8216;विधानमंडल में प्रश्नों और अन्य प्रक्रियात्मक उपायों के माध्यम से कार्यपालिका की जवाबदेही&#8217; और &#8216;राष्ट्रीय ई-विधान एप्लिकेशन&#8217; शामिल हैं। कार्यक्रम कल पश्चिम बंगाल विधानसभा में समाप्त होगा, जिसमें पश्चिम बंगाल के राज्यपाल आर. एन. रवि समापन भाषण देंगे।",
+        "title": "दिल्ली की मुख्यमंत्री रेखा गुप्ता ने कहा- प्लास्टिक मुक्त दिल्ली के निर्माण में सहभागी बनें",
+        "summary": "दिल्ली की मुख्यमंत्री रेखा गुप्ता ने आज अंतरराष्ट्रीय प्लास्टिक बैग मुक्त दिवस पर सभी से संकल्प लेने को कहा कि यह केवल विशेष दिन तक सीमित न रहे, बल्कि सभी की रोज़मर्रा की आदत बन जाए। एक सोशल मीडिया पोस्ट में मुख्यमंत्री ने कहा कि घर से निकलते समय कपड़े या जूट का थैला साथ […]",
+        "article": "दिल्ली की मुख्यमंत्री रेखा गुप्ता ने आज अंतरराष्ट्रीय प्लास्टिक बैग मुक्त दिवस पर सभी से संकल्प लेने को कहा कि यह केवल विशेष दिन तक सीमित न रहे, बल्कि सभी की रोज़मर्रा की आदत बन जाए। एक सोशल मीडिया पोस्ट में मुख्यमंत्री ने कहा कि घर से निकलते समय कपड़े या जूट का थैला साथ रखें, सिंगल-यूज़ प्लास्टिक थैलों का बिलकुल इस्तेमाल न करें और अपने छोटे-छोटे प्रयासों से स्वच्छ, हरित और प्लास्टिक-मुक्त दिल्ली के निर्माण में सहभागी बनें।",
         "date": "2026-07-03",
-        "pubDate": "2026-07-03T08:46:01+00:00",
-        "link": "https://newsonair.gov.in/hi/lok-sabha-speaker-om-birla-inaugurated-a-programme-related-to-legislative-work-in-kolkata/",
+        "pubDate": "2026-07-03T14:05:30+00:00",
+        "link": "https://newsonair.gov.in/hi/delhi-chief-minister-rekha-gupta-said-become-a-partner-in-creating-a-plastic-free-delhi/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1277,8 +1255,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T13:30:36+00:00",
         "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-embark-on-a-six-day-visit-to-indonesia-australia-and-new-zealand-starting-monday/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/20260523096f_a0i54e2-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1288,8 +1266,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T13:24:41+00:00",
         "link": "https://newsonair.gov.in/hi/delhi-inauguration-of-the-newly-constructed-front-block-and-modern-physiotherapy-center-at-lajpat-nagar-colony-hospital/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1299,8 +1277,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T13:15:27+00:00",
         "link": "https://newsonair.gov.in/hi/a-crucial-space-mission-launched-to-save-nasas-swift-observatory/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/nasa.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1310,8 +1288,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T12:00:20+00:00",
         "link": "https://newsonair.gov.in/hi/agriculture-minister-shivraj-singh-chouhan-has-directed-the-formation-of-a-high-level-committee-to-assess-the-problems-faced-by-totapuri-mango-growers/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Union-Minister-Shivraj-Singh-Chouhan-holds-review-meeting-on-El-Nino-effect-on-agriculture.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1321,8 +1299,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T11:33:09+00:00",
         "link": "https://newsonair.gov.in/hi/the-indus-waters-treaty-will-remain-suspended-until-pakistan-stops-supporting-cross-border-terrorism-2/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-Spokesperson-Randhir-Jaiswal-says-Indus-Waters-Treaty-remains-in-abeyance.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1332,8 +1310,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T11:22:10+00:00",
         "link": "https://newsonair.gov.in/hi/the-ministry-of-steel-will-organize-an-open-house-meeting-to-discuss-issues-related-to-steel-imports/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/steel-ministry.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1343,8 +1321,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T11:14:26+00:00",
         "link": "https://newsonair.gov.in/hi/the-ministry-of-information-and-broadcasting-has-directed-that-the-release-of-television-viewership-ratings-be-halted-2/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/07/MIB-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1354,8 +1332,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T10:40:15+00:00",
         "link": "https://newsonair.gov.in/hi/government-order-apps-that-shut-down-e-rickshaw-batteries-via-bluetooth-must-be-removed/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-14.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1365,17 +1343,17 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T08:50:49+00:00",
         "link": "https://newsonair.gov.in/hi/the-president-appointed-three-additional-judges-to-the-andhra-pradesh-high-court/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "लोकसभा अध्यक्ष ओम बिरला ने कोलकाता में विधायी कार्य से संबंधित कार्यक्रम का किया उद्घाटन",
-        "summary": "लोकसभा अध्यक्ष ओम बिरला ने आज कोलकाता के न्यू टाउन कन्वेंशन सेंटर में पश्चिम बंगाल विधानसभा के नव निर्वाचित सदस्यों के लिए दो दिन के संसदीय और विधायी कार्य से संबंधित कार्यक्रम का उद्घाटन किया। श्री बिरला को उद्घाटन समारोह से पहले गार्ड ऑफ ऑनर प्रदान किया गया। पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी, […]",
-        "article": "लोकसभा अध्यक्ष ओम बिरला ने आज कोलकाता के न्यू टाउन कन्वेंशन सेंटर में पश्चिम बंगाल विधानसभा के नव निर्वाचित सदस्यों के लिए दो दिन के संसदीय और विधायी कार्य से संबंधित कार्यक्रम का उद्घाटन किया। श्री बिरला को उद्घाटन समारोह से पहले गार्ड ऑफ ऑनर प्रदान किया गया। पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी, संसदीय कार्य मंत्री किरेन रिजिजू, राज्यसभा के उपसभापति हरिवंश, विधानसभा में विपक्ष के नेता ऋतब्रत बनर्जी और विधानसभा अध्यक्ष रथिंद्र बोस उद्घाटन समारोह में उपस्थित थे। उद्घाटन समारोह को संबोधित करते हुए मुख्यमंत्री शुभेंदु अधिकारी ने कहा कि श्यामा प्रसाद मुखर्जी ने 1947 में बंगाल की तत्कालीन विधान परिषद में वर्तमान पश्चिम बंगाल को भारत में शामिल करने के प्रयासों में महत्वपूर्ण योगदान दिया था। उन्होंने कहा कि पिछली राज्&#x200d;य सरकार के दौरान लोकतांत्रिक व्यवस्था और विधायी प्रक्रियाएं पूरी तरह ध्वस्त हो गई थीं। आज बंगाल की जनता ने मतदान के माध्यम से स्थिति बदल दी। श्री अधिकारी ने कहा कि बंगाल को फिर समृद्ध बनाने के लिए विधानसभा में सत्ता पक्ष और विपक्ष दोनों को मिलकर काम करना चाहिए। उन्होंने &#8216;विकास भी और विरासत भी&#8217; के नारे का उल्&#x200d;लेख किया। दो दिवसीय प्रशिक्षण कार्यक्रम में कई तकनीकी सत्र आयोजित किए जा रहे हैं, जिनमें &#8216;प्रभावी विधायक कैसे बनें, सदस्&#x200d;यों के लिए रीति-रिवाज, परंपराएं और शिष्टाचार&#8217;, &#8216;विधानमंडल में प्रश्नों और अन्य प्रक्रियात्मक उपायों के माध्यम से कार्यपालिका की जवाबदेही&#8217; और &#8216;राष्ट्रीय ई-विधान एप्लिकेशन&#8217; शामिल हैं। कार्यक्रम कल पश्चिम बंगाल विधानसभा में समाप्त होगा, जिसमें पश्चिम बंगाल के राज्यपाल आर. एन. रवि समापन भाषण देंगे।",
+        "title": "दिल्ली की मुख्यमंत्री रेखा गुप्ता ने कहा- प्लास्टिक मुक्त दिल्ली के निर्माण में सहभागी बनें",
+        "summary": "दिल्ली की मुख्यमंत्री रेखा गुप्ता ने आज अंतरराष्ट्रीय प्लास्टिक बैग मुक्त दिवस पर सभी से संकल्प लेने को कहा कि यह केवल विशेष दिन तक सीमित न रहे, बल्कि सभी की रोज़मर्रा की आदत बन जाए। एक सोशल मीडिया पोस्ट में मुख्यमंत्री ने कहा कि घर से निकलते समय कपड़े या जूट का थैला साथ […]",
+        "article": "दिल्ली की मुख्यमंत्री रेखा गुप्ता ने आज अंतरराष्ट्रीय प्लास्टिक बैग मुक्त दिवस पर सभी से संकल्प लेने को कहा कि यह केवल विशेष दिन तक सीमित न रहे, बल्कि सभी की रोज़मर्रा की आदत बन जाए। एक सोशल मीडिया पोस्ट में मुख्यमंत्री ने कहा कि घर से निकलते समय कपड़े या जूट का थैला साथ रखें, सिंगल-यूज़ प्लास्टिक थैलों का बिलकुल इस्तेमाल न करें और अपने छोटे-छोटे प्रयासों से स्वच्छ, हरित और प्लास्टिक-मुक्त दिल्ली के निर्माण में सहभागी बनें।",
         "date": "2026-07-03",
-        "pubDate": "2026-07-03T08:46:01+00:00",
-        "link": "https://newsonair.gov.in/hi/lok-sabha-speaker-om-birla-inaugurated-a-programme-related-to-legislative-work-in-kolkata/",
+        "pubDate": "2026-07-03T14:05:30+00:00",
+        "link": "https://newsonair.gov.in/hi/delhi-chief-minister-rekha-gupta-said-become-a-partner-in-creating-a-plastic-free-delhi/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1389,8 +1367,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T13:30:36+00:00",
         "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-embark-on-a-six-day-visit-to-indonesia-australia-and-new-zealand-starting-monday/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/20260523096f_a0i54e2-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1400,8 +1378,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T13:24:41+00:00",
         "link": "https://newsonair.gov.in/hi/delhi-inauguration-of-the-newly-constructed-front-block-and-modern-physiotherapy-center-at-lajpat-nagar-colony-hospital/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1411,8 +1389,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T13:15:27+00:00",
         "link": "https://newsonair.gov.in/hi/a-crucial-space-mission-launched-to-save-nasas-swift-observatory/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/nasa.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1422,8 +1400,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T12:00:20+00:00",
         "link": "https://newsonair.gov.in/hi/agriculture-minister-shivraj-singh-chouhan-has-directed-the-formation-of-a-high-level-committee-to-assess-the-problems-faced-by-totapuri-mango-growers/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Union-Minister-Shivraj-Singh-Chouhan-holds-review-meeting-on-El-Nino-effect-on-agriculture.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1433,8 +1411,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T11:33:09+00:00",
         "link": "https://newsonair.gov.in/hi/the-indus-waters-treaty-will-remain-suspended-until-pakistan-stops-supporting-cross-border-terrorism-2/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-Spokesperson-Randhir-Jaiswal-says-Indus-Waters-Treaty-remains-in-abeyance.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1444,8 +1422,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T11:22:10+00:00",
         "link": "https://newsonair.gov.in/hi/the-ministry-of-steel-will-organize-an-open-house-meeting-to-discuss-issues-related-to-steel-imports/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/steel-ministry.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1455,8 +1433,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T11:14:26+00:00",
         "link": "https://newsonair.gov.in/hi/the-ministry-of-information-and-broadcasting-has-directed-that-the-release-of-television-viewership-ratings-be-halted-2/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/07/MIB-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1466,8 +1444,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T10:40:15+00:00",
         "link": "https://newsonair.gov.in/hi/government-order-apps-that-shut-down-e-rickshaw-batteries-via-bluetooth-must-be-removed/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-14.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1477,17 +1455,17 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T08:50:49+00:00",
         "link": "https://newsonair.gov.in/hi/the-president-appointed-three-additional-judges-to-the-andhra-pradesh-high-court/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "लोकसभा अध्यक्ष ओम बिरला ने कोलकाता में विधायी कार्य से संबंधित कार्यक्रम का किया उद्घाटन",
-        "summary": "लोकसभा अध्यक्ष ओम बिरला ने आज कोलकाता के न्यू टाउन कन्वेंशन सेंटर में पश्चिम बंगाल विधानसभा के नव निर्वाचित सदस्यों के लिए दो दिन के संसदीय और विधायी कार्य से संबंधित कार्यक्रम का उद्घाटन किया। श्री बिरला को उद्घाटन समारोह से पहले गार्ड ऑफ ऑनर प्रदान किया गया। पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी, […]",
-        "article": "लोकसभा अध्यक्ष ओम बिरला ने आज कोलकाता के न्यू टाउन कन्वेंशन सेंटर में पश्चिम बंगाल विधानसभा के नव निर्वाचित सदस्यों के लिए दो दिन के संसदीय और विधायी कार्य से संबंधित कार्यक्रम का उद्घाटन किया। श्री बिरला को उद्घाटन समारोह से पहले गार्ड ऑफ ऑनर प्रदान किया गया। पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी, संसदीय कार्य मंत्री किरेन रिजिजू, राज्यसभा के उपसभापति हरिवंश, विधानसभा में विपक्ष के नेता ऋतब्रत बनर्जी और विधानसभा अध्यक्ष रथिंद्र बोस उद्घाटन समारोह में उपस्थित थे। उद्घाटन समारोह को संबोधित करते हुए मुख्यमंत्री शुभेंदु अधिकारी ने कहा कि श्यामा प्रसाद मुखर्जी ने 1947 में बंगाल की तत्कालीन विधान परिषद में वर्तमान पश्चिम बंगाल को भारत में शामिल करने के प्रयासों में महत्वपूर्ण योगदान दिया था। उन्होंने कहा कि पिछली राज्&#x200d;य सरकार के दौरान लोकतांत्रिक व्यवस्था और विधायी प्रक्रियाएं पूरी तरह ध्वस्त हो गई थीं। आज बंगाल की जनता ने मतदान के माध्यम से स्थिति बदल दी। श्री अधिकारी ने कहा कि बंगाल को फिर समृद्ध बनाने के लिए विधानसभा में सत्ता पक्ष और विपक्ष दोनों को मिलकर काम करना चाहिए। उन्होंने &#8216;विकास भी और विरासत भी&#8217; के नारे का उल्&#x200d;लेख किया। दो दिवसीय प्रशिक्षण कार्यक्रम में कई तकनीकी सत्र आयोजित किए जा रहे हैं, जिनमें &#8216;प्रभावी विधायक कैसे बनें, सदस्&#x200d;यों के लिए रीति-रिवाज, परंपराएं और शिष्टाचार&#8217;, &#8216;विधानमंडल में प्रश्नों और अन्य प्रक्रियात्मक उपायों के माध्यम से कार्यपालिका की जवाबदेही&#8217; और &#8216;राष्ट्रीय ई-विधान एप्लिकेशन&#8217; शामिल हैं। कार्यक्रम कल पश्चिम बंगाल विधानसभा में समाप्त होगा, जिसमें पश्चिम बंगाल के राज्यपाल आर. एन. रवि समापन भाषण देंगे।",
+        "title": "दिल्ली की मुख्यमंत्री रेखा गुप्ता ने कहा- प्लास्टिक मुक्त दिल्ली के निर्माण में सहभागी बनें",
+        "summary": "दिल्ली की मुख्यमंत्री रेखा गुप्ता ने आज अंतरराष्ट्रीय प्लास्टिक बैग मुक्त दिवस पर सभी से संकल्प लेने को कहा कि यह केवल विशेष दिन तक सीमित न रहे, बल्कि सभी की रोज़मर्रा की आदत बन जाए। एक सोशल मीडिया पोस्ट में मुख्यमंत्री ने कहा कि घर से निकलते समय कपड़े या जूट का थैला साथ […]",
+        "article": "दिल्ली की मुख्यमंत्री रेखा गुप्ता ने आज अंतरराष्ट्रीय प्लास्टिक बैग मुक्त दिवस पर सभी से संकल्प लेने को कहा कि यह केवल विशेष दिन तक सीमित न रहे, बल्कि सभी की रोज़मर्रा की आदत बन जाए। एक सोशल मीडिया पोस्ट में मुख्यमंत्री ने कहा कि घर से निकलते समय कपड़े या जूट का थैला साथ रखें, सिंगल-यूज़ प्लास्टिक थैलों का बिलकुल इस्तेमाल न करें और अपने छोटे-छोटे प्रयासों से स्वच्छ, हरित और प्लास्टिक-मुक्त दिल्ली के निर्माण में सहभागी बनें।",
         "date": "2026-07-03",
-        "pubDate": "2026-07-03T08:46:01+00:00",
-        "link": "https://newsonair.gov.in/hi/lok-sabha-speaker-om-birla-inaugurated-a-programme-related-to-legislative-work-in-kolkata/",
+        "pubDate": "2026-07-03T14:05:30+00:00",
+        "link": "https://newsonair.gov.in/hi/delhi-chief-minister-rekha-gupta-said-become-a-partner-in-creating-a-plastic-free-delhi/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1613,8 +1591,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T01:50:24+00:00",
         "link": "https://newsonair.gov.in/hi/england-reaches-the-final-of-the-icc-womens-t20-cricket-world-cup/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMQPm4dboAAov0y.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1624,8 +1602,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T01:35:14+00:00",
         "link": "https://newsonair.gov.in/hi/spain-reaches-the-pre-quarterfinals-of-the-fifa-football-world-cup/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-7.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1635,8 +1613,8 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T01:22:35+00:00",
         "link": "https://newsonair.gov.in/hi/schedule-announced-for-the-test-cricket-series-matches-between-india-and-sri-lanka/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/JULY-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1646,8 +1624,8 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T13:56:07+00:00",
         "link": "https://newsonair.gov.in/hi/spain-will-face-austria-in-the-round-of-32-of-the-fifa-world-cup-today/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/FIFA-3.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1657,8 +1635,8 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T02:02:13+00:00",
         "link": "https://newsonair.gov.in/hi/durand-cup-135th-edition-announces-participating-teams-for-five-host-cities/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ANI-20260701090529.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1668,8 +1646,8 @@ window.VM_NEWS = {
         "date": "2026-07-01",
         "pubDate": "2026-07-01T02:28:24+00:00",
         "link": "https://newsonair.gov.in/hi/australia-reaches-womens-t20-world-cup-final-after-beating-west-indies-by-8-wickets/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMFJqrLakAApsnY.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1679,8 +1657,8 @@ window.VM_NEWS = {
         "date": "2026-07-01",
         "pubDate": "2026-07-01T02:19:59+00:00",
         "link": "https://newsonair.gov.in/hi/hockey-india-announces-22-member-junior-mens-team-for-belgium-tour-july-5-18/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMGx9EpagAAH9Mp.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1690,8 +1668,8 @@ window.VM_NEWS = {
         "date": "2026-07-01",
         "pubDate": "2026-07-01T02:00:52+00:00",
         "link": "https://newsonair.gov.in/hi/india-england-five-match-t20-series-begins-in-england-today/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202606303846688-scaled.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1701,8 +1679,8 @@ window.VM_NEWS = {
         "date": "2026-06-30",
         "pubDate": "2026-06-30T04:47:56+00:00",
         "link": "https://newsonair.gov.in/hi/morocco-netherlands-penalty-win-world-cup/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMCMGWRXkAA-Fbz-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1712,8 +1690,8 @@ window.VM_NEWS = {
         "date": "2026-06-30",
         "pubDate": "2026-06-30T03:20:07+00:00",
         "link": "https://newsonair.gov.in/hi/brazil-japan-round-of-16/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HMB3aRoXAAA54Ou.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
@@ -1831,23 +1809,100 @@ window.VM_NEWS = {
     ],
     "entertainment": [
       {
-        "title": "अजिंठा – वेरुळ चित्रपट महोत्सवातला प्रतिष्ठेचा पद्मपाणि पुरस्कार ज्येष्ठ संगीतकार इलिया राजा यांना जाहीर",
-        "summary": "अकराव्या अजिंठा वेरुळ आंतरराष्ट्रीय चित्रपट महोत्सवातला प्रतिष्ठेचा पद्मपाणि पुरस्कार यंदा सुप्रसिद्ध संगीतकार इलियाराजा यांना घोषित झाला आहे. २ लाख रुपये स्मृतिचिन्ह, आणि मानपत्र असं पुरस्काराचं स्वरुप आहे. छत्रपती संभाजीनगर इथं येत्या २८ जानेवारीपासून सुरु होणारा हा महोत्सव १ फेब्रुवारीपर्यंत चालणार आहे. प्रदीर्घ संगीतसेवेसाठी इलियाराजा यांना हा पुरस्कार देण्यात येणार आहे.",
-        "article": "अकराव्या अजिंठा वेरुळ आंतरराष्ट्रीय चित्रपट महोत्सवातला प्रतिष्ठेचा पद्मपाणि पुरस्कार यंदा सुप्रसिद्ध संगीतकार इलियाराजा यांना घोषित झाला आहे. २ लाख रुपये स्मृतिचिन्ह, आणि मानपत्र असं पुरस्काराचं स्वरुप आहे. छत्रपती संभाजीनगर इथं येत्या २८ जानेवारीपासून सुरु होणारा हा महोत्सव १ फेब्रुवारीपर्यंत चालणार आहे. प्रदीर्घ संगीतसेवेसाठी इलियाराजा यांना हा पुरस्कार देण्यात येणार आहे.",
-        "date": "2026-01-19",
-        "pubDate": "2026-01-19T08:21:55+00:00",
-        "link": "https://newsonair.gov.in/mr/%e0%a4%85%e0%a4%9c%e0%a4%bf%e0%a4%82%e0%a4%a0%e0%a4%be-%e0%a4%b5%e0%a5%87%e0%a4%b0%e0%a5%81%e0%a4%b3-%e0%a4%9a%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%9f-%e0%a4%ae%e0%a4%b9%e0%a5%8b/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "दशावतारसह एकूण ४ चित्रपट ऑस्करच्या सर्वसाधारण श्रेणीसाठी पात्र",
         "summary": "कांतारा &#8211; द लिजंट चॅप्टर १, तन्वी द ग्रेट, महावतार नरसिम्हा, टुरिस्ट फॅमिली, आणि सिस्टर मिडनाइट हे ५ भारतीय चित्रपट ऑस्करच्या उत्कृष्ट चित्रपट श्रेणीसाठी पात्र ठरले आहेत. अकादमी ऑफ मोशन पिक्चरने आज ही घोषणा केली. याशिवाय दशावतार, महामंत्रा, पेपर फ्लॉवर, पारो हे ४ चित्रपट सर्वसाधारण श्रेणीसाठी पात्र आहेत. एकूण ३१७ चित्रपट ९८ व्या ऑस्कर पुरस्करांसाठी […]",
         "article": "कांतारा &#8211; द लिजंट चॅप्टर १, तन्वी द ग्रेट, महावतार नरसिम्हा, टुरिस्ट फॅमिली, आणि सिस्टर मिडनाइट हे ५ भारतीय चित्रपट ऑस्करच्या उत्कृष्ट चित्रपट श्रेणीसाठी पात्र ठरले आहेत. अकादमी ऑफ मोशन पिक्चरने आज ही घोषणा केली. याशिवाय दशावतार, महामंत्रा, पेपर फ्लॉवर, पारो हे ४ चित्रपट सर्वसाधारण श्रेणीसाठी पात्र आहेत. एकूण ३१७ चित्रपट ९८ व्या ऑस्कर पुरस्करांसाठी पात्र ठरले आहेत. त्यातल्या २०१ चित्रपटांकडे उत्कृष्ट चित्रपट श्रेणीसाठीची अतिरीक्त पात्रता असल्याचं अकादमीनं जाहीर केलं. या सर्व चित्रपटांमधून ऑस्करसाठी नामांकित झालेल्या चित्रपटांची यादी २२ जानेवारी जाहीर होईल. याशिवाय भारताकडून आंतरराष्ट्रीय चित्रपट श्रेणीसाठी होमबाऊंड या चित्रपटाचं नामांकन करण्यात आलं आहे.",
         "date": "2026-01-09",
         "pubDate": "2026-01-09T09:40:13+00:00",
         "link": "https://newsonair.gov.in/mr/oscar-award/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/l63820260109095706.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ज्येष्ठ अभिनेते श्रीनिवासन यांचं निधन",
+        "summary": "मल्याळी चित्रपटसृष्टीतले ज्येष्ठ अभिनेते, पटकथा लेखक आणि दिग्दर्शक श्रीनिवासन यांचं आज सकाळी कोची इथं दीर्घ आजारानं निधन झालं. ते ६९ वर्षांचे होते. १९७६ साली ‘मणीमुझक्कम’ या चित्रपटातून आपल्या अभिनय कारकिर्दीला सुरुवात करणाऱ्या श्रीनिवासन यांनी मोहनलाल आणि ममूठी सारख्या अभिनेत्यां सोबत अनेक चित्रपटांत सहकलाकाराच्या भूमिका निभावल्या. श्रीनिवासन यांनी २२५ हुन अधिक चित्रपटांमध्ये अभिनय केला असून १९९८",
+        "article": "मल्याळी चित्रपटसृष्टीतले ज्येष्ठ अभिनेते, पटकथा लेखक आणि दिग्दर्शक श्रीनिवासन यांचं आज सकाळी कोची इथं दीर्घ आजारानं निधन झालं. ते ६९ वर्षांचे होते. १९७६ साली ‘मणीमुझक्कम’ या चित्रपटातून आपल्या अभिनय कारकिर्दीला सुरुवात करणाऱ्या श्रीनिवासन यांनी मोहनलाल आणि ममूठी सारख्या अभिनेत्यां सोबत अनेक चित्रपटांत सहकलाकाराच्या भूमिका निभावल्या. श्रीनिवासन यांनी २२५ हुन अधिक चित्रपटांमध्ये अभिनय केला असून १९९८ मध्ये त्यांनी दिग्दर्शित केलेल्या ‘चिंथाविष्टयाया श्यामला’ या चित्रपटाला सर्वोत्कृष्ट सामाजिक चित्रपटासाठी राष्ट्रीय पुरस्कार प्राप्त झाला आहे.",
+        "date": "2025-12-20",
+        "pubDate": "2025-12-20T10:08:03+00:00",
+        "link": "https://newsonair.gov.in/mr/sreenivasan-death/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/befunky-sample-66_1766204685.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Oscars 2026: निवडक १५ चित्रपटांमधे ‘होमबाऊंड’ चित्रपटाचा समावेश",
+        "summary": "ऑस्कर २०२६ अर्थात ९८व्या अकॅडेमी पारितोषिकांसाठीच्या अंतिम फेरीत होमबाऊंड हा भारतीय चित्रपट प्राथमिक फेरी पार करून निवडक पंधरा चित्रपटांच्या यादीत पोचला आहे. नीरज घायवान दिग्दर्शित हा भारतीय चित्रपट आंतरराष्ट्रीय चित्रपटाच्या श्रेणीत आहे. या यादीतल्या चित्रपटांचं अंतिम नामांकन २२ जानेवारीला जाहीर होईल. ९८वा अकादमी पुरस्कार सोहळा १५ मार्च २०२६ रोजी होणार आहे.",
+        "article": "ऑस्कर २०२६ अर्थात ९८व्या अकॅडेमी पारितोषिकांसाठीच्या अंतिम फेरीत होमबाऊंड हा भारतीय चित्रपट प्राथमिक फेरी पार करून निवडक पंधरा चित्रपटांच्या यादीत पोचला आहे. नीरज घायवान दिग्दर्शित हा भारतीय चित्रपट आंतरराष्ट्रीय चित्रपटाच्या श्रेणीत आहे. या यादीतल्या चित्रपटांचं अंतिम नामांकन २२ जानेवारीला जाहीर होईल. ९८वा अकादमी पुरस्कार सोहळा १५ मार्च २०२६ रोजी होणार आहे.",
+        "date": "2025-12-17",
+        "pubDate": "2025-12-17T07:59:27+00:00",
+        "link": "https://newsonair.gov.in/mr/oscars-2026-homebound/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G8WwX4naUAA-98j.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "६४व्या महाराष्ट्र राज्य हौशी मराठी नाट्य स्पर्धेचे निकाल जाहीर",
+        "summary": "६४व्या महाराष्ट्र राज्य हौशी मराठी नाट्य स्पर्धेचे विविध विभागांमधले निकाल जाहीर झाले आहेत. या स्पर्धेत मुंबई केंद्रातून ‘ती, ती आणि ती’ या नाटकाला प्रथम पारितोषिक जाहीर झालं आहे. नाशिक केंद्रातून ‘काळाच्या पंजातून’ या नाटकाला, सांगली केंद्रातून ‘तिचे संदर्भ नसलेली गोष्ट’ या नाटकाला तर लातूर विभागातून ‘दास्तान’ या नाटकाला प्रथम पारितोषिक मिळालं आहे. सिंधुदुर्ग केंद्रातून ‘सूनबाई […]",
+        "article": "६४व्या महाराष्ट्र राज्य हौशी मराठी नाट्य स्पर्धेचे विविध विभागांमधले निकाल जाहीर झाले आहेत. या स्पर्धेत मुंबई केंद्रातून ‘ती, ती आणि ती’ या नाटकाला प्रथम पारितोषिक जाहीर झालं आहे. नाशिक केंद्रातून ‘काळाच्या पंजातून’ या नाटकाला, सांगली केंद्रातून ‘तिचे संदर्भ नसलेली गोष्ट’ या नाटकाला तर लातूर विभागातून ‘दास्तान’ या नाटकाला प्रथम पारितोषिक मिळालं आहे. सिंधुदुर्ग केंद्रातून ‘सूनबाई तोऱ्यात’ या नाटकाला, सातारा केंद्रातून ‘पोकळ घिस्सा’ या नाटकाला तर नांदेड केंद्रातून ‘संपूर्ण’ या नाटकाला प्रथम पारितोषिक जाहीर झालं आहे. चंद्रपूर केंद्रातून ‘तांडा’ या नाटकाला, अमरावती केंद्रातून ‘वारकरी’ या नाटकाला तर पिंपरी चिंचवड केंद्रातून ‘सखा’ या नाटकाला प्रथम क्रमांक मिळाला आहे.",
+        "date": "2025-12-04",
+        "pubDate": "2025-12-04T14:20:50+00:00",
+        "link": "https://newsonair.gov.in/mr/drama-competition/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G7UygscaEAAVyF0.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "नागालँडमध्ये हॉर्नबिल महोत्सवाला सुरुवात",
+        "summary": "नागालँडची राजधानी कोहिमा इथल्या किसामा इथं आज २६व्या हॉर्नबिल महोत्सवाची सुरुवात झाली. नागालँडचे गव्हर्नर अजय कुमार भल्ला, मुख्यमंत्री नेईफिऊ रिओ यांनी महोत्सवाचा औपचारिक प्रारंभ केला. नागालँडच्या राज्यदिनाबरोबरच सुरू होणाऱ्या या १० दिवसांच्या महोत्सवात विविध नागा समुदाय एकत्र येऊन परंपरा, लोककला, संगीत, कला आणि अन्नसंस्कृतीचा आनंद लुटतात. या महोत्सवात यावर्षी युनायटेड किंगडम, आयर्लंड, फ्रान्स, ऑस",
+        "article": "नागालँडची राजधानी कोहिमा इथल्या किसामा इथं आज २६व्या हॉर्नबिल महोत्सवाची सुरुवात झाली. नागालँडचे गव्हर्नर अजय कुमार भल्ला, मुख्यमंत्री नेईफिऊ रिओ यांनी महोत्सवाचा औपचारिक प्रारंभ केला. नागालँडच्या राज्यदिनाबरोबरच सुरू होणाऱ्या या १० दिवसांच्या महोत्सवात विविध नागा समुदाय एकत्र ये ऊन परंपरा, लोककला, संगीत, कला आणि अन्नसंस्कृतीचा आनंद लुटतात. या महोत्सवात यावर्षी युनायटेड किंगडम, आयर्लंड, फ्रान्स, ऑस्ट्रिया, माल्टा आणि स्वित्झर्लंड हे सहा भागीदार देश आहेत.",
+        "date": "2025-12-01",
+        "pubDate": "2025-12-01T15:02:48+00:00",
+        "link": "https://newsonair.gov.in/mr/hornbill-festival-begins-in-nagaland/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/hornbill-fest.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "मुंबईत सीआयआय बिग पिक्चर समिटचं आयोजन…",
+        "summary": "देशातल्या मनोरंजन आणि माध्यम जगात खूप क्षमता आहे. त्यांचा सुयोग्य वापर होण्याची गरज केंद्रीय माहिती प्रसारण सचिव संजय जाजू यांनी आज व्यक्त केली. मुंबईत सीआयआय बिग पिक्चर समिटमध्ये ते बोलत होते. जागतिक बाजारपेठेत भारताची हिस्सेदारी केवळ २ टक्के आहे. यासंधीचा लाभ घेण्याचं आवाहन त्यांनी उद्योगाला केलं. देशातल्या मनोरंजन उद्योगावर १ कोटीहून अधिक लोकं अवलंबून आहेत. […]",
+        "article": "देशातल्या मनोरंजन आणि माध्यम जगात खूप क्षमता आहे. त्यांचा सुयोग्य वापर होण्याची गरज केंद्रीय माहिती प्रसारण सचिव संजय जाजू यांनी आज व्यक्त केली. मुंबईत सीआयआय बिग पिक्चर समिटमध्ये ते बोलत होते. जागतिक बाजारपेठेत भारताची हिस्सेदारी केवळ २ टक्के आहे. यासंधीचा लाभ घेण्याचं आवाहन त्यांनी उद्योगाला केलं. देशातल्या मनोरंजन उद्योगावर १ कोटीहून अधिक लोकं अवलंबून आहेत. AI आधारित गाणी आणि व्हिडीओ या क्षेत्रातली गणितं बदलत असताना आपणही नवनवीन तंत्रज्ञान आत्मसात करण्याची गरज त्यांनी व्यक्त केली.",
+        "date": "2025-12-01",
+        "pubDate": "2025-12-01T09:44:45+00:00",
+        "link": "https://newsonair.gov.in/mr/cii-big-picture-summit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/Screenshot-2025-12-01-151404.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारतातल्या क्रिएटर्ससाठी ५ नव्या भारतीय भाषांचा समावेश",
+        "summary": "मुंबईत झालेल्या ‘हाऊस ऑफ इंस्टाग्राम’ कार्यक्रमात मेटा प्लॅटफॉर्म्स कंपनीनं भारतातल्या क्रिएटर्ससाठी ५ नव्या भारतीय भाषांचा समावेश केला आहे. यामुळे इंस्टाग्राम, फेसबुकवरील क्रिएटर्स लवकरच त्यांच्या रील्सचे बंगाली, मराठी, तेलुगु, कन्नड आणि तमिळ या भाषांमधे भाषांतर करू शकतील. यासाठी एआय-आधारित ऑटोमॅटिक डबिंग आणि लिप-सिंक सुविधा उपलब्ध करण्यात आली आहे. हे फिचर क्रिएटरच्या मूळ आवाजातील स्वर आणि भावना",
+        "article": "मुंबईत झालेल्या ‘हाऊस ऑफ इंस्टाग्राम’ कार्यक्रमात मेटा प्लॅटफॉर्म्स कंपनीनं भारतातल्या क्रिएटर्ससाठी ५ नव्या भारतीय भाषांचा समावेश केला आहे. यामुळे इंस्टाग्राम, फेसबुकवरील क्रिएटर्स लवकरच त्यांच्या रील्सचे बंगाली, मराठी, तेलुगु, कन्नड आणि तमिळ या भाषांमधे भाषांतर करू शकतील. यासाठी एआय-आधारित ऑटोमॅटिक डबिंग आणि लिप-सिंक सुविधा उपलब्ध करण्यात आली आहे. हे फिचर क्रिएटरच्या मूळ आवाजातील स्वर आणि भावना जुळवून भाषांतरित आवाज तयार करते यामुळे तोंडाच्या हालचाली नव्या भाषेशी हुबेहुब वाटते. यापूर्वी ही सुविधा इंग्रजी, हिंदी, स्पॅनिश आणि पोर्तुगीजपुरती मर्यादित होती. याशिवाय मेटाच्या ‘एडिट्स’ या मोबाईल व्हिडिओ एडिटिंग अ&#x200d;ॅपमध्येही भारतीय भाषांसाठी नवे फॉन्ट्स जोडले जात आहेत. असमिया, बंगाली, हिंदी आणि मराठी भाषांसाठी देवनागरी तसेच बंगाली-असमिया स्क्रिप्टमधील आकर्षक फॉन्ट्स आता अँड्रॉइड अ&#x200d;ॅपमध्ये उपलब्ध होणार आहे.",
+        "date": "2025-11-29",
+        "pubDate": "2025-11-29T12:57:58+00:00",
+        "link": "https://newsonair.gov.in/mr/instagram-facebook-creators/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/Screenshot-2025-11-29-182641.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "इफ्फी महोत्सवाची रंगतदार सोहळ्यानं सांगता",
+        "summary": "५६ व्या भारतीय आंतरराष्ट्रीय चित्रपट महोत्सवाची काल एका रंगतदार सोहळ्यानं सांगता झाली. पणजीमधे गेले ९ दिवस चाललेला सोहळा रसिकांसाठी पर्वणी ठरला. दिग्दर्शन अॅश मेफेअर दिग्दर्शित, व्हिएतनामच्या स्किन ऑफ यूथ या चित्रपटानं या महोत्सवाचा मुकुटमणी असलेल्या सूवर्ण मयूर पुरस्कारावर आपलं नाव कोरलं. &#160; गोंधळ या मराठी चित्रपटासाठी दिग्दर्शक संतोष डावखर यांनी सर्वोत्कृष्ट दिग्दर्शकासाठीचा रौप्य मयूर पुरस्",
+        "article": "५६ व्या भारतीय आंतरराष्ट्रीय चित्रपट महोत्सवाची काल एका रंगतदार सोहळ्यानं सांगता झाली. पणजीमधे गेले ९ दिवस चाललेला सोहळा रसिकांसाठी पर्वणी ठरला. दिग्दर्शन अॅश मेफेअर दिग्दर्शित, व्हिएतनामच्या स्किन ऑफ यूथ या चित्रपटानं या महोत्सवाचा मुकुटमणी असलेल्या सूवर्ण मयूर पुरस्कारावर आपलं नाव कोरलं. &nbsp; गोंधळ या मराठी चित्रपटासाठी दिग्दर्शक संतोष डावखर यांनी सर्वोत्कृष्ट दिग्दर्शकासाठीचा रौप्य मयूर पुरस्कार आपल्या नावे केला, अभिनयाच्या श्रेणीत, कोलंबियन अभिनेता उबेमर रिओस यांना ए पोएट मधील भूमिकेसाठी सर्वोत्कृष्ट अभिनेतेच्या, तर स्लोव्हेनियन चित्रपट लिटल ट्रबल गर्ल्स मधील भूमिकेसाठी जारा सोफिजा ओस्टान यांना सर्वोत्कृष्ट अभिनेत्री म्हणून गौरवलं गेलं. &nbsp; माय फादर्स शॅडो या नायजेरियन चित्रपटानं विशेष ज्युरी पुरस्कार मिळवला, तर सेफ हाऊस या नॉर्वेजियन चित्रपटानं प्रतिष्ठेचं ICFT-UNESCO गांधी पदक आपल्या नावे केलं. ओटीटी व्यासपीठाअंतर्गत बंडिश बँडिट्स सिझन टू ही सर्वोकृष्ट वेब मालिका ठरली, तर भारतीय चित्रपटांसाठी सर्वोत्कृष्ट पदार्पणीय दिग्दर्शक म्हणून केसरी चॅप्टर टू चे दिग्दर्शक करण सिंग त्यागी यांची निवड झाली. &nbsp; या समारोप सोहळ्याचं विशेष आकर्षण ठरलं ते चित्रपटसृष्टीतील ५० वर्षांची कारकीर्द पूर्ण केल्याबद्दल सुपरस्टार रजनीकांत यांना प्रदान करण्यात आलेला जीवनगौरव पुरस्कार. आपल्याला १०० वर्षांनंतरही अभिनेता रजनीकांत म्हणूनच जन्माला यायला आवडेल अशी भावना रजनीकांत यांनी व्यक्त केली. &nbsp; दिवंगत अभिनेते धर्मेंद्र यांच्यासह सिने आणि कला क्षेत्रातील असंख्य भारतीय कलाकारांना महोत्सवात स्मरणांजली वाहिली गेली. याशिवाय सोहळ्याच्या प्रारंभीचा दिव्यांग व्यक्तींचा कलाविष्कार आणि इतर सादरीकरणं ही सिनेरसिकांसाठी पर्वणीच ठरली. &nbsp; एकूणात हा सोहळा भारतीय चित्रपटसृष्टीतील कला आणि तंत्रज्ञानाचा गौरव करणारा आणि त्याचवेळी सिने जगताच्या नव्या वाटचालीची उमेद जागवणारा ठरला.",
+        "date": "2025-11-29",
+        "pubDate": "2025-11-29T09:16:06+00:00",
+        "link": "https://newsonair.gov.in/mr/iffi-2025-10/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/IFFI-2025-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अजिंठा – वेरुळ चित्रपट महोत्सवातला प्रतिष्ठेचा पद्मपाणि पुरस्कार ज्येष्ठ संगीतकार इलिया राजा यांना जाहीर",
+        "summary": "अकराव्या अजिंठा वेरुळ आंतरराष्ट्रीय चित्रपट महोत्सवातला प्रतिष्ठेचा पद्मपाणि पुरस्कार यंदा सुप्रसिद्ध संगीतकार इलियाराजा यांना घोषित झाला आहे. २ लाख रुपये स्मृतिचिन्ह, आणि मानपत्र असं पुरस्काराचं स्वरुप आहे. छत्रपती संभाजीनगर इथं येत्या २८ जानेवारीपासून सुरु होणारा हा महोत्सव १ फेब्रुवारीपर्यंत चालणार आहे. प्रदीर्घ संगीतसेवेसाठी इलियाराजा यांना हा पुरस्कार देण्यात येणार आहे.",
+        "article": "अकराव्या अजिंठा वेरुळ आंतरराष्ट्रीय चित्रपट महोत्सवातला प्रतिष्ठेचा पद्मपाणि पुरस्कार यंदा सुप्रसिद्ध संगीतकार इलियाराजा यांना घोषित झाला आहे. २ लाख रुपये स्मृतिचिन्ह, आणि मानपत्र असं पुरस्काराचं स्वरुप आहे. छत्रपती संभाजीनगर इथं येत्या २८ जानेवारीपासून सुरु होणारा हा महोत्सव १ फेब्रुवारीपर्यंत चालणार आहे. प्रदीर्घ संगीतसेवेसाठी इलियाराजा यांना हा पुरस्कार देण्यात येणार आहे.",
+        "date": "2026-01-19",
+        "pubDate": "2026-01-19T08:21:55+00:00",
+        "link": "https://newsonair.gov.in/mr/%e0%a4%85%e0%a4%9c%e0%a4%bf%e0%a4%82%e0%a4%a0%e0%a4%be-%e0%a4%b5%e0%a5%87%e0%a4%b0%e0%a5%81%e0%a4%b3-%e0%a4%9a%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%9f-%e0%a4%ae%e0%a4%b9%e0%a5%8b/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1862,83 +1917,6 @@ window.VM_NEWS = {
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "ज्येष्ठ अभिनेते श्रीनिवासन यांचं निधन",
-        "summary": "मल्याळी चित्रपटसृष्टीतले ज्येष्ठ अभिनेते, पटकथा लेखक आणि दिग्दर्शक श्रीनिवासन यांचं आज सकाळी कोची इथं दीर्घ आजारानं निधन झालं. ते ६९ वर्षांचे होते. १९७६ साली ‘मणीमुझक्कम’ या चित्रपटातून आपल्या अभिनय कारकिर्दीला सुरुवात करणाऱ्या श्रीनिवासन यांनी मोहनलाल आणि ममूठी सारख्या अभिनेत्यां सोबत अनेक चित्रपटांत सहकलाकाराच्या भूमिका निभावल्या. श्रीनिवासन यांनी २२५ हुन अधिक चित्रपटांमध्ये अभिनय केला असून १९९८",
-        "article": "मल्याळी चित्रपटसृष्टीतले ज्येष्ठ अभिनेते, पटकथा लेखक आणि दिग्दर्शक श्रीनिवासन यांचं आज सकाळी कोची इथं दीर्घ आजारानं निधन झालं. ते ६९ वर्षांचे होते. १९७६ साली ‘मणीमुझक्कम’ या चित्रपटातून आपल्या अभिनय कारकिर्दीला सुरुवात करणाऱ्या श्रीनिवासन यांनी मोहनलाल आणि ममूठी सारख्या अभिनेत्यां सोबत अनेक चित्रपटांत सहकलाकाराच्या भूमिका निभावल्या. श्रीनिवासन यांनी २२५ हुन अधिक चित्रपटांमध्ये अभिनय केला असून १९९८ मध्ये त्यांनी दिग्दर्शित केलेल्या ‘चिंथाविष्टयाया श्यामला’ या चित्रपटाला सर्वोत्कृष्ट सामाजिक चित्रपटासाठी राष्ट्रीय पुरस्कार प्राप्त झाला आहे.",
-        "date": "2025-12-20",
-        "pubDate": "2025-12-20T10:08:03+00:00",
-        "link": "https://newsonair.gov.in/mr/sreenivasan-death/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Oscars 2026: निवडक १५ चित्रपटांमधे ‘होमबाऊंड’ चित्रपटाचा समावेश",
-        "summary": "ऑस्कर २०२६ अर्थात ९८व्या अकॅडेमी पारितोषिकांसाठीच्या अंतिम फेरीत होमबाऊंड हा भारतीय चित्रपट प्राथमिक फेरी पार करून निवडक पंधरा चित्रपटांच्या यादीत पोचला आहे. नीरज घायवान दिग्दर्शित हा भारतीय चित्रपट आंतरराष्ट्रीय चित्रपटाच्या श्रेणीत आहे. या यादीतल्या चित्रपटांचं अंतिम नामांकन २२ जानेवारीला जाहीर होईल. ९८वा अकादमी पुरस्कार सोहळा १५ मार्च २०२६ रोजी होणार आहे.",
-        "article": "ऑस्कर २०२६ अर्थात ९८व्या अकॅडेमी पारितोषिकांसाठीच्या अंतिम फेरीत होमबाऊंड हा भारतीय चित्रपट प्राथमिक फेरी पार करून निवडक पंधरा चित्रपटांच्या यादीत पोचला आहे. नीरज घायवान दिग्दर्शित हा भारतीय चित्रपट आंतरराष्ट्रीय चित्रपटाच्या श्रेणीत आहे. या यादीतल्या चित्रपटांचं अंतिम नामांकन २२ जानेवारीला जाहीर होईल. ९८वा अकादमी पुरस्कार सोहळा १५ मार्च २०२६ रोजी होणार आहे.",
-        "date": "2025-12-17",
-        "pubDate": "2025-12-17T07:59:27+00:00",
-        "link": "https://newsonair.gov.in/mr/oscars-2026-homebound/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "६४व्या महाराष्ट्र राज्य हौशी मराठी नाट्य स्पर्धेचे निकाल जाहीर",
-        "summary": "६४व्या महाराष्ट्र राज्य हौशी मराठी नाट्य स्पर्धेचे विविध विभागांमधले निकाल जाहीर झाले आहेत. या स्पर्धेत मुंबई केंद्रातून ‘ती, ती आणि ती’ या नाटकाला प्रथम पारितोषिक जाहीर झालं आहे. नाशिक केंद्रातून ‘काळाच्या पंजातून’ या नाटकाला, सांगली केंद्रातून ‘तिचे संदर्भ नसलेली गोष्ट’ या नाटकाला तर लातूर विभागातून ‘दास्तान’ या नाटकाला प्रथम पारितोषिक मिळालं आहे. सिंधुदुर्ग केंद्रातून ‘सूनबाई […]",
-        "article": "६४व्या महाराष्ट्र राज्य हौशी मराठी नाट्य स्पर्धेचे विविध विभागांमधले निकाल जाहीर झाले आहेत. या स्पर्धेत मुंबई केंद्रातून ‘ती, ती आणि ती’ या नाटकाला प्रथम पारितोषिक जाहीर झालं आहे. नाशिक केंद्रातून ‘काळाच्या पंजातून’ या नाटकाला, सांगली केंद्रातून ‘तिचे संदर्भ नसलेली गोष्ट’ या नाटकाला तर लातूर विभागातून ‘दास्तान’ या नाटकाला प्रथम पारितोषिक मिळालं आहे. सिंधुदुर्ग केंद्रातून ‘सूनबाई तोऱ्यात’ या नाटकाला, सातारा केंद्रातून ‘पोकळ घिस्सा’ या नाटकाला तर नांदेड केंद्रातून ‘संपूर्ण’ या नाटकाला प्रथम पारितोषिक जाहीर झालं आहे. चंद्रपूर केंद्रातून ‘तांडा’ या नाटकाला, अमरावती केंद्रातून ‘वारकरी’ या नाटकाला तर पिंपरी चिंचवड केंद्रातून ‘सखा’ या नाटकाला प्रथम क्रमांक मिळाला आहे.",
-        "date": "2025-12-04",
-        "pubDate": "2025-12-04T14:20:50+00:00",
-        "link": "https://newsonair.gov.in/mr/drama-competition/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "नागालँडमध्ये हॉर्नबिल महोत्सवाला सुरुवात",
-        "summary": "नागालँडची राजधानी कोहिमा इथल्या किसामा इथं आज २६व्या हॉर्नबिल महोत्सवाची सुरुवात झाली. नागालँडचे गव्हर्नर अजय कुमार भल्ला, मुख्यमंत्री नेईफिऊ रिओ यांनी महोत्सवाचा औपचारिक प्रारंभ केला. नागालँडच्या राज्यदिनाबरोबरच सुरू होणाऱ्या या १० दिवसांच्या महोत्सवात विविध नागा समुदाय एकत्र येऊन परंपरा, लोककला, संगीत, कला आणि अन्नसंस्कृतीचा आनंद लुटतात. या महोत्सवात यावर्षी युनायटेड किंगडम, आयर्लंड, फ्रान्स, ऑस",
-        "article": "नागालँडची राजधानी कोहिमा इथल्या किसामा इथं आज २६व्या हॉर्नबिल महोत्सवाची सुरुवात झाली. नागालँडचे गव्हर्नर अजय कुमार भल्ला, मुख्यमंत्री नेईफिऊ रिओ यांनी महोत्सवाचा औपचारिक प्रारंभ केला. नागालँडच्या राज्यदिनाबरोबरच सुरू होणाऱ्या या १० दिवसांच्या महोत्सवात विविध नागा समुदाय एकत्र ये ऊन परंपरा, लोककला, संगीत, कला आणि अन्नसंस्कृतीचा आनंद लुटतात. या महोत्सवात यावर्षी युनायटेड किंगडम, आयर्लंड, फ्रान्स, ऑस्ट्रिया, माल्टा आणि स्वित्झर्लंड हे सहा भागीदार देश आहेत.",
-        "date": "2025-12-01",
-        "pubDate": "2025-12-01T15:02:48+00:00",
-        "link": "https://newsonair.gov.in/mr/hornbill-festival-begins-in-nagaland/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "मुंबईत सीआयआय बिग पिक्चर समिटचं आयोजन…",
-        "summary": "देशातल्या मनोरंजन आणि माध्यम जगात खूप क्षमता आहे. त्यांचा सुयोग्य वापर होण्याची गरज केंद्रीय माहिती प्रसारण सचिव संजय जाजू यांनी आज व्यक्त केली. मुंबईत सीआयआय बिग पिक्चर समिटमध्ये ते बोलत होते. जागतिक बाजारपेठेत भारताची हिस्सेदारी केवळ २ टक्के आहे. यासंधीचा लाभ घेण्याचं आवाहन त्यांनी उद्योगाला केलं. देशातल्या मनोरंजन उद्योगावर १ कोटीहून अधिक लोकं अवलंबून आहेत. […]",
-        "article": "देशातल्या मनोरंजन आणि माध्यम जगात खूप क्षमता आहे. त्यांचा सुयोग्य वापर होण्याची गरज केंद्रीय माहिती प्रसारण सचिव संजय जाजू यांनी आज व्यक्त केली. मुंबईत सीआयआय बिग पिक्चर समिटमध्ये ते बोलत होते. जागतिक बाजारपेठेत भारताची हिस्सेदारी केवळ २ टक्के आहे. यासंधीचा लाभ घेण्याचं आवाहन त्यांनी उद्योगाला केलं. देशातल्या मनोरंजन उद्योगावर १ कोटीहून अधिक लोकं अवलंबून आहेत. AI आधारित गाणी आणि व्हिडीओ या क्षेत्रातली गणितं बदलत असताना आपणही नवनवीन तंत्रज्ञान आत्मसात करण्याची गरज त्यांनी व्यक्त केली.",
-        "date": "2025-12-01",
-        "pubDate": "2025-12-01T09:44:45+00:00",
-        "link": "https://newsonair.gov.in/mr/cii-big-picture-summit/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतातल्या क्रिएटर्ससाठी ५ नव्या भारतीय भाषांचा समावेश",
-        "summary": "मुंबईत झालेल्या ‘हाऊस ऑफ इंस्टाग्राम’ कार्यक्रमात मेटा प्लॅटफॉर्म्स कंपनीनं भारतातल्या क्रिएटर्ससाठी ५ नव्या भारतीय भाषांचा समावेश केला आहे. यामुळे इंस्टाग्राम, फेसबुकवरील क्रिएटर्स लवकरच त्यांच्या रील्सचे बंगाली, मराठी, तेलुगु, कन्नड आणि तमिळ या भाषांमधे भाषांतर करू शकतील. यासाठी एआय-आधारित ऑटोमॅटिक डबिंग आणि लिप-सिंक सुविधा उपलब्ध करण्यात आली आहे. हे फिचर क्रिएटरच्या मूळ आवाजातील स्वर आणि भावना",
-        "article": "मुंबईत झालेल्या ‘हाऊस ऑफ इंस्टाग्राम’ कार्यक्रमात मेटा प्लॅटफॉर्म्स कंपनीनं भारतातल्या क्रिएटर्ससाठी ५ नव्या भारतीय भाषांचा समावेश केला आहे. यामुळे इंस्टाग्राम, फेसबुकवरील क्रिएटर्स लवकरच त्यांच्या रील्सचे बंगाली, मराठी, तेलुगु, कन्नड आणि तमिळ या भाषांमधे भाषांतर करू शकतील. यासाठी एआय-आधारित ऑटोमॅटिक डबिंग आणि लिप-सिंक सुविधा उपलब्ध करण्यात आली आहे. हे फिचर क्रिएटरच्या मूळ आवाजातील स्वर आणि भावना जुळवून भाषांतरित आवाज तयार करते यामुळे तोंडाच्या हालचाली नव्या भाषेशी हुबेहुब वाटते. यापूर्वी ही सुविधा इंग्रजी, हिंदी, स्पॅनिश आणि पोर्तुगीजपुरती मर्यादित होती. याशिवाय मेटाच्या ‘एडिट्स’ या मोबाईल व्हिडिओ एडिटिंग अ&#x200d;ॅपमध्येही भारतीय भाषांसाठी नवे फॉन्ट्स जोडले जात आहेत. असमिया, बंगाली, हिंदी आणि मराठी भाषांसाठी देवनागरी तसेच बंगाली-असमिया स्क्रिप्टमधील आकर्षक फॉन्ट्स आता अँड्रॉइड अ&#x200d;ॅपमध्ये उपलब्ध होणार आहे.",
-        "date": "2025-11-29",
-        "pubDate": "2025-11-29T12:57:58+00:00",
-        "link": "https://newsonair.gov.in/mr/instagram-facebook-creators/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "इफ्फी महोत्सवाची रंगतदार सोहळ्यानं सांगता",
-        "summary": "५६ व्या भारतीय आंतरराष्ट्रीय चित्रपट महोत्सवाची काल एका रंगतदार सोहळ्यानं सांगता झाली. पणजीमधे गेले ९ दिवस चाललेला सोहळा रसिकांसाठी पर्वणी ठरला. दिग्दर्शन अॅश मेफेअर दिग्दर्शित, व्हिएतनामच्या स्किन ऑफ यूथ या चित्रपटानं या महोत्सवाचा मुकुटमणी असलेल्या सूवर्ण मयूर पुरस्कारावर आपलं नाव कोरलं. &#160; गोंधळ या मराठी चित्रपटासाठी दिग्दर्शक संतोष डावखर यांनी सर्वोत्कृष्ट दिग्दर्शकासाठीचा रौप्य मयूर पुरस्",
-        "article": "५६ व्या भारतीय आंतरराष्ट्रीय चित्रपट महोत्सवाची काल एका रंगतदार सोहळ्यानं सांगता झाली. पणजीमधे गेले ९ दिवस चाललेला सोहळा रसिकांसाठी पर्वणी ठरला. दिग्दर्शन अॅश मेफेअर दिग्दर्शित, व्हिएतनामच्या स्किन ऑफ यूथ या चित्रपटानं या महोत्सवाचा मुकुटमणी असलेल्या सूवर्ण मयूर पुरस्कारावर आपलं नाव कोरलं. &nbsp; गोंधळ या मराठी चित्रपटासाठी दिग्दर्शक संतोष डावखर यांनी सर्वोत्कृष्ट दिग्दर्शकासाठीचा रौप्य मयूर पुरस्कार आपल्या नावे केला, अभिनयाच्या श्रेणीत, कोलंबियन अभिनेता उबेमर रिओस यांना ए पोएट मधील भूमिकेसाठी सर्वोत्कृष्ट अभिनेतेच्या, तर स्लोव्हेनियन चित्रपट लिटल ट्रबल गर्ल्स मधील भूमिकेसाठी जारा सोफिजा ओस्टान यांना सर्वोत्कृष्ट अभिनेत्री म्हणून गौरवलं गेलं. &nbsp; माय फादर्स शॅडो या नायजेरियन चित्रपटानं विशेष ज्युरी पुरस्कार मिळवला, तर सेफ हाऊस या नॉर्वेजियन चित्रपटानं प्रतिष्ठेचं ICFT-UNESCO गांधी पदक आपल्या नावे केलं. ओटीटी व्यासपीठाअंतर्गत बंडिश बँडिट्स सिझन टू ही सर्वोकृष्ट वेब मालिका ठरली, तर भारतीय चित्रपटांसाठी सर्वोत्कृष्ट पदार्पणीय दिग्दर्शक म्हणून केसरी चॅप्टर टू चे दिग्दर्शक करण सिंग त्यागी यांची निवड झाली. &nbsp; या समारोप सोहळ्याचं विशेष आकर्षण ठरलं ते चित्रपटसृष्टीतील ५० वर्षांची कारकीर्द पूर्ण केल्याबद्दल सुपरस्टार रजनीकांत यांना प्रदान करण्यात आलेला जीवनगौरव पुरस्कार. आपल्याला १०० वर्षांनंतरही अभिनेता रजनीकांत म्हणूनच जन्माला यायला आवडेल अशी भावना रजनीकांत यांनी व्यक्त केली. &nbsp; दिवंगत अभिनेते धर्मेंद्र यांच्यासह सिने आणि कला क्षेत्रातील असंख्य भारतीय कलाकारांना महोत्सवात स्मरणांजली वाहिली गेली. याशिवाय सोहळ्याच्या प्रारंभीचा दिव्यांग व्यक्तींचा कलाविष्कार आणि इतर सादरीकरणं ही सिनेरसिकांसाठी पर्वणीच ठरली. &nbsp; एकूणात हा सोहळा भारतीय चित्रपटसृष्टीतील कला आणि तंत्रज्ञानाचा गौरव करणारा आणि त्याचवेळी सिने जगताच्या नव्या वाटचालीची उमेद जागवणारा ठरला.",
-        "date": "2025-11-29",
-        "pubDate": "2025-11-29T09:16:06+00:00",
-        "link": "https://newsonair.gov.in/mr/iffi-2025-10/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
       }
     ],
     "lifestyle": [
@@ -1949,8 +1927,8 @@ window.VM_NEWS = {
         "date": "2026-06-04",
         "pubDate": "2026-06-04T06:01:50+00:00",
         "link": "https://newsonair.gov.in/hi/who-expresses-concern-over-rapid-spread-of-ebola-outbreak-in-congo/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/WHO.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1960,8 +1938,8 @@ window.VM_NEWS = {
         "date": "2026-05-21",
         "pubDate": "2026-05-21T07:50:34+00:00",
         "link": "https://newsonair.gov.in/hi/directorate-general-of-health-services-issues-advisory-for-travellers-arriving-from-and-transiting-through-ebola-affected-countries/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/cds.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1971,8 +1949,8 @@ window.VM_NEWS = {
         "date": "2026-05-21",
         "pubDate": "2026-05-21T07:00:38+00:00",
         "link": "https://newsonair.gov.in/hi/india-launches-worlds-largest-screening-drive-to-eliminate-tb-union-health-minister-j-p-nadda/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/jp-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1982,8 +1960,8 @@ window.VM_NEWS = {
         "date": "2026-05-08",
         "pubDate": "2026-05-08T07:44:50+00:00",
         "link": "https://newsonair.gov.in/hi/health-minister-jp-nadda-launches-integrated-training-programme-for-primary-health-teams/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/J-p-Nadda.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1993,8 +1971,8 @@ window.VM_NEWS = {
         "date": "2026-05-07",
         "pubDate": "2026-05-07T03:01:43+00:00",
         "link": "https://newsonair.gov.in/hi/union-minister-to-launch-nationwide-annual-health-check-up-initiative-for-workers-from-esic/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/man.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -2004,8 +1982,8 @@ window.VM_NEWS = {
         "date": "2026-04-07",
         "pubDate": "2026-04-07T08:28:42+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af-%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8-%e0%a4%aa%e0%a5%80%e0%a4%8f/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Untitled-design-3-5.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -2015,8 +1993,8 @@ window.VM_NEWS = {
         "date": "2026-02-11",
         "pubDate": "2026-02-11T01:59:38+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a5%87%e0%a4%a6%e0%a4%bf%e0%a4%95-%e0%a4%94%e0%a4%b7%e0%a4%a7%e0%a4%bf-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a4%e0%a4%be/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/HAz4fsPbUAAOn4m-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -2026,8 +2004,8 @@ window.VM_NEWS = {
         "date": "2026-01-15",
         "pubDate": "2026-01-15T12:24:16+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4-%e0%a4%95%e0%a5%87-%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b7-%e0%a4%b9%e0%a4%b0%e0%a5%8d%e0%a4%ac%e0%a4%b2-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Untitled-design-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -2037,8 +2015,8 @@ window.VM_NEWS = {
         "date": "2025-12-27",
         "pubDate": "2025-12-27T04:59:50+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%9c%e0%a5%87-%e0%a4%aa%e0%a5%80-%e0%a4%a8%e0%a4%a1%e0%a5%8d/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G9GqIftaAAEWJQP.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -2048,8 +2026,8 @@ window.VM_NEWS = {
         "date": "2025-12-20",
         "pubDate": "2025-12-20T08:20:53+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%9c%e0%a5%87%e0%a4%aa%e0%a5%80-%e0%a4%a8%e0%a4%a1%e0%a5%8d-3/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G8jVc1PbMAQhk_x.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ]
