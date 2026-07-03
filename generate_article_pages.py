@@ -22,11 +22,27 @@ import sys
 import urllib.request
 
 sys.stdout.reconfigure(encoding='utf-8')
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import fetch_news  # reuse its Wikipedia/Commons image search (find_image)
 
 BASE_DIR   = os.path.dirname(os.path.abspath(__file__))
 ARTICLE_DIR = os.path.join(BASE_DIR, "a")
 STORIES_URL = "https://script.google.com/macros/s/AKfycbw_UDz41q9C-qnNwkZ5YUnmliSr08i1daJSvvaPi7aXnaH6TQMK-iTwwfQAfAtEZt52/exec?type=story"
 SITE_URL    = "https://vandematrabhoomi.in"
+
+
+def find_related_image(story):
+    """Look up a photo related to the headline via Wikipedia/Commons (same
+    logic fetch_news.py uses for the main news feed). Live Desk articles
+    have no attached photo of their own (see KNOWN LIMITATION note in
+    subscriber-sheet-script.gs), so without this every share-link preview
+    would just show the site logo instead of something relevant."""
+    headline = story.get("hl") or ""
+    try:
+        url, credit = fetch_news.find_image(headline, story.get("cat") or "", 0)
+        return url
+    except Exception:
+        return ""
 
 
 def esc(s):
@@ -95,6 +111,10 @@ def run():
         path = os.path.join(ARTICLE_DIR, f"{story['id']}.html")
         if os.path.exists(path):
             continue
+        if not story.get("mediaUrl"):
+            related = find_related_image(story)
+            if related:
+                story = dict(story, mediaUrl=related)
         with open(path, "w", encoding="utf-8") as f:
             f.write(build_html(story))
         written += 1
