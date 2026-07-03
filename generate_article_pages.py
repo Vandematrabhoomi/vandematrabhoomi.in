@@ -19,6 +19,7 @@ import json
 import os
 import re
 import sys
+import urllib.parse
 import urllib.request
 
 sys.stdout.reconfigure(encoding='utf-8')
@@ -31,6 +32,87 @@ STORIES_URL = "https://script.google.com/macros/s/AKfycbw_UDz41q9C-qnNwkZ5YUnmli
 SITE_URL    = "https://vandematrabhoomi.in"
 
 
+# Common Hindi function words (postpositions, pronouns, auxiliary verbs) to
+# strip when turning a Hindi headline into a Wikipedia/Commons search query --
+# there's no capitalization signal in Devanagari to spot named entities with,
+# so filtering stopwords is the only way to surface the words that matter.
+HI_STOPWORDS = {
+    'के', 'की', 'का', 'को', 'में', 'से', 'पर', 'और', 'या', 'कि', 'भी', 'ही', 'तो',
+    'है', 'हैं', 'था', 'थी', 'थे', 'हो', 'होगा', 'होगी', 'होंगे', 'रहा', 'रही', 'रहे',
+    'यह', 'वह', 'ये', 'वे', 'इस', 'उस', 'इन', 'उन', 'अपने', 'अपनी', 'अपना',
+    'एक', 'दो', 'सभी', 'कुछ', 'जो', 'जब', 'तक', 'साथ', 'बाद', 'लिए', 'द्वारा', 'नहीं',
+    'ने', 'गया', 'गई', 'गए', 'हुआ', 'हुई', 'हुए', 'किया', 'करते', 'करने', 'कर', 'करना',
+}
+HI_WORD_RE = re.compile(r'[ऀ-ॿ]+')
+
+
+def hi_candidate_phrases(text, limit=8):
+    """Turn a Hindi headline into short candidate search phrases, longest
+    (most specific) first: consecutive-word bigrams before single words --
+    a long query built from every keyword at once matches nothing (Wikipedia
+    search dilutes to zero results), but short phrases like "दिल्ली हाईकोर्ट"
+    or "ध्रुव राठी" reliably match a real page."""
+    words = [w for w in HI_WORD_RE.findall(text or "") if w not in HI_STOPWORDS and len(w) > 1]
+    bigrams = [f'{a} {b}' for a, b in zip(words, words[1:])]
+    singles = [w for w in words if len(w) > 2]
+    seen, out = set(), []
+    for phrase in bigrams + singles:
+        if phrase not in seen:
+            seen.add(phrase)
+            out.append(phrase)
+    return out[:limit]
+
+
+def hi_wiki_pageimage(title, size=1200):
+    """Same validation rules as fetch_news.wiki_thumb, but against the Hindi
+    Wikipedia (hi.wikipedia.org) instead of the English one."""
+    try:
+        t = urllib.parse.quote(title.strip()[:120])
+        url = (f'https://hi.wikipedia.org/w/api.php?action=query'
+               f'&titles={t}&prop=pageimages&pithumbsize={size}&format=json')
+        req = urllib.request.Request(url, headers=fetch_news.WIKI_UA)
+        with fetch_news.urlopen_retry(req, timeout=10) as r:
+            data = json.loads(r.read())
+        pages = data.get('query', {}).get('pages', {})
+        page = next(iter(pages.values()), {})
+        if page.get('pageid') == -1:
+            return ''
+        thumb = page.get('thumbnail', {})
+        src, w, h = thumb.get('source', ''), thumb.get('width', 0), thumb.get('height', 0)
+        if not src or not fetch_news.IMG_EXT.search(src) or fetch_news.LOGO_RE.search(src):
+            return ''
+        if w < 400 or h < 250:
+            return ''
+        if h > 0 and w > 0 and (h / w) > 1.4:
+            return ''
+        return src
+    except Exception:
+        return ''
+
+
+def hi_wiki_search(query, size=1200):
+    """Full-text search on Hindi Wikipedia for a page matching `query`, then
+    return that page's lead photo. Works on natural Hindi phrases -- MediaWiki's
+    search ranks by relevance, so it doesn't need pre-extracted named entities."""
+    if not query:
+        return ''
+    try:
+        q = urllib.parse.quote(query[:150])
+        url = (f'https://hi.wikipedia.org/w/api.php?action=query&list=search'
+               f'&srsearch={q}&srlimit=3&format=json')
+        req = urllib.request.Request(url, headers=fetch_news.WIKI_UA)
+        with fetch_news.urlopen_retry(req, timeout=10) as r:
+            data = json.loads(r.read())
+        for res in data.get('query', {}).get('search', []):
+            title = res.get('title', '')
+            img = hi_wiki_pageimage(title, size) if title else ''
+            if img:
+                return img
+    except Exception:
+        pass
+    return ''
+
+
 def find_related_image(story):
     """Look up a photo related to the headline via Wikipedia/Commons (same
     logic fetch_news.py uses for the main news feed). Live Desk articles
@@ -38,11 +120,31 @@ def find_related_image(story):
     subscriber-sheet-script.gs), so without this every share-link preview
     would just show the site logo instead of something relevant."""
     headline = story.get("hl") or ""
+    lang = story.get("lang") or "hi"
+
     try:
-        url, credit = fetch_news.find_image(headline, story.get("cat") or "", 0)
-        return url
+        url, _credit = fetch_news.find_image(headline, story.get("cat") or "", 0)
+        if url:
+            return url
     except Exception:
-        return ""
+        pass
+
+    if lang == "hi":
+        for phrase in hi_candidate_phrases(headline):
+            try:
+                url = hi_wiki_search(phrase)
+                if url:
+                    return url
+            except Exception:
+                pass
+        try:
+            url = fetch_news.commons_search(' '.join(hi_candidate_phrases(headline, limit=6)))
+            if url:
+                return url
+        except Exception:
+            pass
+
+    return ""
 
 
 def esc(s):
