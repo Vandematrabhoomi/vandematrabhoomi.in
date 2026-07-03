@@ -239,6 +239,29 @@
       color: rgba(255,255,255,.7);
     }
 
+    /* ── Editorial teaser (News homepage) ──────────────────── */
+    .editorial-teaser {
+      background: #fff; border: 1px solid #e2d4c2; border-left: 4px solid var(--red);
+      border-radius: 6px; padding: 18px 22px; margin-bottom: 24px;
+      display: flex; gap: 16px; align-items: center; cursor: pointer;
+      transition: border-left-color .15s;
+    }
+    .editorial-teaser:hover { border-left-color: var(--red-dark); }
+    .et-thumb { width: 64px; height: 64px; border-radius: 6px; object-fit: cover; flex-shrink: 0; }
+    .et-label {
+      font-family: 'Archivo', sans-serif; font-size: 10px; font-weight: 700;
+      letter-spacing: .12em; text-transform: uppercase; color: var(--red); margin-bottom: 6px;
+    }
+    .et-hl {
+      font-family: 'Noto Serif Devanagari', serif; font-size: 18px; font-weight: 600;
+      color: var(--text-primary); margin-bottom: 4px; line-height: 1.3;
+    }
+    .et-exc { font-family: 'Noto Serif Devanagari', serif; font-size: 14px; color: var(--text-muted); line-height: 1.5; }
+    .et-link {
+      font-family: 'Archivo', sans-serif; font-size: 12px; font-weight: 700;
+      color: var(--red); white-space: nowrap; margin-left: auto; flex-shrink: 0;
+    }
+
     /* ── News Section ───────────────────────────────────── */
     .news-outer { position: relative; }
     .news-wrap {
@@ -426,6 +449,20 @@
       font-family: 'Archivo', sans-serif;
       font-size: 11px; color: #fff; margin-top: 3px;
     }
+    .op-share-btn {
+      margin-left: auto; background: rgba(255,255,255,.14); color: #fff;
+      border: 1px solid rgba(255,255,255,.3); border-radius: 20px;
+      font-family: 'Archivo', sans-serif; font-size: 12px; font-weight: 600;
+      padding: 7px 16px; cursor: pointer; white-space: nowrap;
+      transition: background .15s;
+    }
+    .op-share-btn:hover { background: rgba(255,255,255,.26); }
+    .soi-share {
+      display: inline-block; margin-top: 4px;
+      font-family: 'Archivo', sans-serif; font-size: 11px; font-weight: 600;
+      color: var(--red); cursor: pointer;
+    }
+    .soi-share:hover { text-decoration: underline; }
 
     /* Opinion two-column layout */
     .op-body-wrap { background: #fff; padding: 0 36px 0; }
@@ -1373,6 +1410,16 @@
           <span class="loading-txt" data-hi="समाचार लोड हो रहे हैं..." data-en="Loading news...">समाचार लोड हो रहे हैं...</span>
         </div>
 
+        <div class="editorial-teaser" id="editorial-teaser" style="display:none;" onclick="setSection('opinion')">
+          <img class="et-thumb" id="et-thumb" style="display:none;" alt="">
+          <div style="flex:1;min-width:0;">
+            <div class="et-label" data-hi="आज का संपादकीय" data-en="TODAY'S EDITORIAL">आज का संपादकीय</div>
+            <div class="et-hl" id="et-hl"></div>
+            <div class="et-exc" id="et-exc"></div>
+          </div>
+          <div class="et-link" data-hi="पूरा पढ़ें →" data-en="Read more →">पूरा पढ़ें →</div>
+        </div>
+
         <div class="sec-divider">
           <span class="sec-div-hi" id="sdiv-hi">प्रमुख समाचार</span>
           <span class="sec-div-en" id="sdiv-en">TOP NEWS TODAY</span>
@@ -1480,6 +1527,9 @@
             <div class="author-name" id="op-author-name">Vande Matrabhoomi</div>
             <div class="author-date" id="op-author-date">Editorial Desk</div>
           </div>
+          <button class="op-share-btn" id="op-share-btn" style="display:none;" onclick="shareArticle(stories[0] && stories[0].id, this)">
+            <span data-hi="🔗 लिंक साझा करें" data-en="🔗 Share link">🔗 Share link</span>
+          </button>
         </div>
       </div>
     </div>
@@ -2182,6 +2232,7 @@ function setLang(l) {
   loadBreaking();
   renderFeed();
   renderOpinion();
+  renderEditorialTeaser();
   setDate();
 }
 
@@ -2194,12 +2245,15 @@ function renderOpinion() {
   var contentEl = document.getElementById('op-main-content');
   var listEl    = document.getElementById('op-sidebar-list');
 
+  var shareBtn = document.getElementById('op-share-btn');
+
   /* ── Empty state ── */
   if (!stories.length) {
     if (titleEl) { titleEl.textContent = lang==='hi' ? 'लेख शीघ्र आएगा...' : 'Articles coming soon...'; titleEl.style.cssText = 'color:rgba(255,255,255,.35);font-style:italic;'; }
     if (initEl)  initEl.textContent = 'व';
     if (nameEl)  nameEl.textContent = lang==='hi' ? 'वंदे मातृभूमि' : 'Vande Matrabhoomi';
     if (dateEl)  dateEl.textContent = lang==='hi' ? 'संपादकीय डेस्क' : 'Editorial Desk';
+    if (shareBtn) shareBtn.style.display = 'none';
     if (contentEl) contentEl.innerHTML = '<div class="op-coming-soon">'
       + '<div class="op-cs-icon">✍</div>'
       + '<p class="op-cs-text">' + (lang==='hi'
@@ -2218,6 +2272,7 @@ function renderOpinion() {
   if (initEl)  initEl.textContent = 'व';
   if (nameEl)  nameEl.textContent = lang==='hi' ? 'वंदे मातृभूमि' : 'Vande Matrabhoomi';
   if (dateEl)  dateEl.textContent = (lang==='hi' ? s.dateHi : s.dateEn) + ' • ' + (CAT_DESK[lang][s.cat] || s.cat);
+  if (shareBtn) shareBtn.style.display = 'inline-block';
 
   if (contentEl) {
     var html = '';
@@ -2243,10 +2298,28 @@ function renderOpinion() {
             + '<div class="soi-title">' + esc(st.hl) + '</div>'
             + '<div class="soi-author">' + esc(CAT_DESK[lang][st.cat] || st.cat)
             + ' • ' + esc(lang==='hi' ? st.dateHi : st.dateEn) + '</div>'
+            + '<span class="soi-share" onclick="shareArticle(\''+st.id+'\', this)">'
+            + (lang==='hi' ? '🔗 साझा करें' : '🔗 Share') + '</span>'
             + '</li>';
         }).join('')
       : '<li class="sidebar-op-item"><div class="soi-title" style="color:#bbb;font-style:italic;">'
         + (lang==='hi' ? 'और लेख शीघ्र आएंगे...' : 'More articles coming soon...') + '</div></li>';
+  }
+}
+
+function shareArticle(id, btn) {
+  if (!id) return;
+  var url = location.origin + '/a/' + id + '.html';
+  var done = function() {
+    if (!btn) return;
+    var orig = btn.innerHTML;
+    btn.innerHTML = lang === 'hi' ? 'लिंक कॉपी हो गया ✓' : 'Link copied ✓';
+    setTimeout(function(){ btn.innerHTML = orig; }, 2000);
+  };
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(url).then(done).catch(function(){ prompt(lang==='hi' ? 'लिंक कॉपी करें:' : 'Copy this link:', url); });
+  } else {
+    prompt(lang==='hi' ? 'लिंक कॉपी करें:' : 'Copy this link:', url);
   }
 }
 
@@ -2435,8 +2508,23 @@ function loadStories() {
       });
       renderFeed();
       renderOpinion();
+      renderEditorialTeaser();
     })
-    .catch(function(){ renderFeed(); renderOpinion(); });
+    .catch(function(){ renderFeed(); renderOpinion(); renderEditorialTeaser(); });
+}
+
+function renderEditorialTeaser() {
+  var box = document.getElementById('editorial-teaser');
+  if (!box) return;
+  if (!stories.length) { box.style.display = 'none'; return; }
+  var s = stories[0];
+  document.getElementById('et-hl').textContent = s.hl;
+  var excSrc = (s.sum || s.body || '').replace(/\s+/g, ' ').trim();
+  document.getElementById('et-exc').textContent = excSrc.length > 140 ? excSrc.slice(0, 140) + '…' : excSrc;
+  var thumb = document.getElementById('et-thumb');
+  if (s.mediaUrl) { thumb.src = s.mediaUrl; thumb.style.display = 'block'; }
+  else { thumb.style.display = 'none'; }
+  box.style.display = 'flex';
 }
 
 function renderFeed() {
@@ -2468,6 +2556,9 @@ setDate();
 loadStories();
 loadFeed('top');
 loadBreaking();
+
+if (location.hash === '#opinion') setSection('opinion');
+if (location.hash === '#desk') openDesk();
 </script>
 </body>
 </html>
