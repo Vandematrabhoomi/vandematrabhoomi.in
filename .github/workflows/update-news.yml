@@ -2,7 +2,7 @@ name: Update News
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch: {}
 
 permissions:
@@ -23,6 +23,9 @@ jobs:
       - name: Fetch latest news
         run: python fetch_news.py
 
+      - name: Process Live Desk photos
+        run: python process_livedesk_media.py
+
       - name: Generate shareable article pages
         run: python generate_article_pages.py
 
@@ -30,7 +33,7 @@ jobs:
         run: |
           git config user.name "vm-news-bot"
           git config user.email "actions@github.com"
-          git add news-data.js a/
+          git add news-data.js a/ assets/livedesk/
           if git diff --cached --quiet; then
             echo "No changes."
           else
