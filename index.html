@@ -1652,8 +1652,8 @@
               data-pen="Write the full article here... (separate paragraphs with a blank line)"></textarea>
           </div>
           <div class="form-group">
-            <label class="form-lbl" data-hi="मीडिया (फ़ोटो / वीडियो)" data-en="MEDIA (PHOTO / VIDEO)" for="f-media">मीडिया</label>
-            <input type="file" id="f-media" class="form-input f-media-input" accept="image/*,video/*"
+            <label class="form-lbl" data-hi="फ़ोटो (आवश्यक)" data-en="PHOTO (REQUIRED)" for="f-media">फ़ोटो (आवश्यक)</label>
+            <input type="file" id="f-media" class="form-input f-media-input" accept="image/*"
               onchange="var p=document.getElementById('f-media-preview');if(this.files[0]){var r=new FileReader();r.onload=function(e){p.src=e.target.result;p.style.display='block';};r.readAsDataURL(this.files[0]);}else{p.style.display='none';}">
             <img id="f-media-preview" class="f-media-preview" alt="preview">
           </div>
@@ -2437,6 +2437,50 @@ function discardDraft(id) {
     .catch(function(){});
 }
 
+/* Live Desk photos are required, but Apps Script on this account can't make
+   outbound calls (Drive API and UrlFetchApp are both blocked -- see notes in
+   subscriber-sheet-script.gs), so the photo can't be uploaded anywhere from
+   the server side. Instead the browser resizes/compresses the photo, splits
+   it into cell-sized base64 chunks, and stores those chunks as plain sheet
+   data (a write Apps Script CAN do). A GitHub Actions job then picks up the
+   chunks, reassembles the file, and commits it -- see process_livedesk_media.py. */
+var MEDIA_CHUNK_SIZE  = 45000;  // stay under Google Sheets' ~50,000 char/cell limit
+var MEDIA_MAX_CHUNKS  = 8;      // ~270KB of binary image data per article
+
+function resizeImageForUpload(file, callback) {
+  var reader = new FileReader();
+  reader.onload = function(e) {
+    var img = new Image();
+    img.onload = function() {
+      var maxDim = 1000, w = img.width, h = img.height;
+      if (w > maxDim || h > maxDim) {
+        if (w >= h) { h = Math.round(h * maxDim / w); w = maxDim; }
+        else { w = Math.round(w * maxDim / h); h = maxDim; }
+      }
+      var canvas = document.createElement('canvas');
+      canvas.width = w; canvas.height = h;
+      canvas.getContext('2d').drawImage(img, 0, 0, w, h);
+      var quality = 0.82;
+      var limit = MEDIA_CHUNK_SIZE * MEDIA_MAX_CHUNKS;
+      (function tryEncode() {
+        var base64 = canvas.toDataURL('image/jpeg', quality).split(',')[1];
+        if (base64.length > limit && quality > 0.35) { quality -= 0.12; tryEncode(); }
+        else callback(base64);
+      })();
+    };
+    img.onerror = function() { callback(null); };
+    img.src = e.target.result;
+  };
+  reader.onerror = function() { callback(null); };
+  reader.readAsDataURL(file);
+}
+
+function chunkBase64(base64) {
+  var chunks = [];
+  for (var i = 0; i < base64.length; i += MEDIA_CHUNK_SIZE) chunks.push(base64.slice(i, i + MEDIA_CHUNK_SIZE));
+  return chunks;
+}
+
 function publishStory() {
   var hl        = document.getElementById('f-hl').value.trim();
   var cat       = document.getElementById('f-cat').value;
@@ -2450,7 +2494,14 @@ function publishStory() {
     inp.classList.add('error'); inp.focus();
     setTimeout(function(){ inp.classList.remove('error'); }, 1400); return;
   }
-  if (mediaFile && mediaFile.size > MAX_MEDIA_BYTES) {
+  if (!mediaFile) {
+    var minp = document.getElementById('f-media');
+    minp.classList.add('error');
+    setTimeout(function(){ minp.classList.remove('error'); }, 1400);
+    alert(lang==='hi' ? 'कृपया एक फ़ोटो जोड़ें। बिना फ़ोटो के लेख प्रकाशित नहीं हो सकता।' : 'Please attach a photo — articles cannot be published without one.');
+    return;
+  }
+  if (mediaFile.size > MAX_MEDIA_BYTES) {
     alert(lang==='hi' ? 'फ़ाइल बहुत बड़ी है (अधिकतम 15MB)।' : 'File is too large (max 15MB).');
     return;
   }
@@ -2470,13 +2521,14 @@ function publishStory() {
     clearTimeout(draftSaveTimer);
     loadStories();
     loadDrafts();
+    alert(lang==='hi' ? 'प्रकाशित! फ़ोटो साइट पर दिखने में कुछ मिनट लग सकते हैं।' : 'Published! The photo may take a few minutes to appear on the site.');
   }
 
-  function send(mediaDataUrl) {
+  function send(mediaChunks) {
     if (!VM_LIVEDESK_URL) { afterPublish(false); return; }
     fetch(VM_LIVEDESK_URL, {
       method: 'POST',
-      body: JSON.stringify({ type: 'story', hl: hl, cat: cat, sum: sum, body: body, media: mediaDataUrl || '', lang: lang, draftId: currentDraftId })
+      body: JSON.stringify({ type: 'story', hl: hl, cat: cat, sum: sum, body: body, mediaChunks: mediaChunks || [], lang: lang, draftId: currentDraftId })
     }).then(function(r){ return r.text(); })
       .then(function(t){ afterPublish(t.indexOf('error') !== 0); })
       .catch(function(){ afterPublish(false); });
@@ -2484,13 +2536,10 @@ function publishStory() {
 
   if (btn) { btn.disabled = true; btn.textContent = lang==='hi' ? 'प्रकाशित हो रहा है…' : 'Publishing…'; }
 
-  if (mediaFile) {
-    var reader = new FileReader();
-    reader.onload = function(e) { send(e.target.result); };
-    reader.readAsDataURL(mediaFile);
-  } else {
-    send('');
-  }
+  resizeImageForUpload(mediaFile, function(base64) {
+    if (!base64) { afterPublish(false); return; }
+    send(chunkBase64(base64));
+  });
 }
 
 function loadStories() {
