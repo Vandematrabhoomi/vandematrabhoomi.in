@@ -33,6 +33,7 @@ jobs:
         run: |
           git config user.name "vm-news-bot"
           git config user.email "actions@github.com"
+          mkdir -p a assets/livedesk
           git add news-data.js a/ assets/livedesk/
           if git diff --cached --quiet; then
             echo "No changes."
