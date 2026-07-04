@@ -1,8 +1,19 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-04T16:36:33.880075",
+  "generated": "2026-07-04T20:17:52.851073",
   "en": {
     "top": [
+      {
+        "title": "Ethanol Is Not a New Concept, Has Been in Use for Over a Century: Union Minister Hardeep Singh Puri",
+        "summary": "Union Petroleum and Natural Gas Minister Hardeep Singh Puri today said that ethanol is not a new concept and has been in use for over a century. Addressing a gathering in Rajasthan, Mr Puri said that the government welcomes constructive criticism of the government&#8217;s biofuel blending programme and assured that the government will incorporate suggestions […]",
+        "article": "Union Petroleum and Natural Gas Minister Hardeep Singh Puri today said that ethanol is not a new concept and has been in use for over a century. Addressing a gathering in Rajasthan, Mr Puri said that the government welcomes constructive criticism of the government&#8217;s biofuel blending programme and assured that the government will incorporate suggestions into its work and make the necessary corrections. Mr. Puri also said that the idea of ethanol blending in India was first initiated during the previous Congress led government. Recalling his tenure as India&#8217;s Ambassador to Brazil between 2006 and 2008, he said, a target of five per cent ethanol blending had been set across ten states and Union Territories but could have achieved only 1.4 per cent blending at the time.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T16:56:09+00:00",
+        "link": "https://newsonair.gov.in/union-minister-hardeep-singh-puri-says-ethanol-has-been-in-use-for-over-a-century/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Union-Minister-Hardeep-Singh-Puri.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "PM Modi Extends Greetings on 250th Independence Anniversary of America",
         "summary": "Prime Minister Narendra Modi has extended greetings to U.S. President Trump and the people of the United States on the 250th anniversary of their Independence. In a social media post, Mr Modi said, India and the United States share more than a strategic partnership, underpinned by a shared belief in democracy, the rule of law, […]",
@@ -43,7 +54,7 @@ window.VM_NEWS = {
         "date": "2026-07-04",
         "pubDate": "2026-07-04T14:09:06+00:00",
         "link": "https://newsonair.gov.in/pm-modi-inaugurates-%e2%82%b97500-crore-semiconductor-osat-facility-in-gujarat/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-Photoroom.png",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/aaaaaaaa.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -114,30 +125,30 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India Overcame Biggest Energy Crisis of the Century Amid West Asia Conflict: PM Modi",
-        "summary": "Prime Minister Narendra Modi today inaugurated and laid the foundation stone for development projects worth over 1.05 lakh crore rupees in Rajasthan, marking a major push to infrastructure, energy, transport and employment generation in the state. During his day-long visit, the Prime Minister inaugurated the new terminal building at Jodhpur Airport. Thereafter, he dedicated the […]",
-        "article": "Prime Minister Narendra Modi today inaugurated and laid the foundation stone for development projects worth over 1.05 lakh crore rupees in Rajasthan, marking a major push to infrastructure, energy, transport and employment generation in the state. During his day-long visit, the Prime Minister inaugurated the new terminal building at Jodhpur Airport. Thereafter, he dedicated the country&#8217;s most modern Greenfield Refinery-cum-Petrochemical Complex to the nation in Pachpadra in Balotara district. He also inspected the refinery&#8217;s state-of-the-art control room, interacted with engineers and technical experts, flagged off fuel tankers, and virtually laid the foundation stone for Jaipur Metro Phase-II. A greenfield refinery is an industrial processing plant for oil, gas, or minerals built from scratch on undeveloped clean land. Addressing the programme, the Prime Minister said the conflict in West Asia had triggered the biggest energy crisis of the 21st century, but India successfully overcame the challenge through timely decisions, effective diplomacy and prudent management of national resources. He said while many countries struggled with fuel shortages, India accurately assessed the crisis, formulated an effective strategy and used its diplomatic strength to safeguard the country&#8217;s energy security. Mr. Modi said India&#8217;s friendly relations with countries across the world played a crucial role during the crisis. He said India, which earlier imported energy from around 25 to 26 countries, expanded its sourcing to nearly 40 countries, ensuring uninterrupted fuel supplies despite global disruptions. He said this demonstrated that the interests of the nation and its citizens remain the government&#8217;s highest priority. The Prime Minister also noted that India has significantly enhanced its refining capacity and has emerged as the world&#8217;s fourth-largest refining nation. The Prime Minister said the government prevented a steep rise in domestic cooking gas prices despite global turmoil. He said the crisis could have pushed the price of an LPG cylinder to nearly 2,000 rupees, but effective intervention ensured that consumers continued to receive cylinders at around 950 rupees. He added that between April and June, oil marketing companies incurred losses of nearly 75,000 crore rupees on petrol and diesel, a burden borne by the government to protect citizens from the impact of soaring international fuel prices. Mr. Modi said the government&#8217;s efforts during the energy crisis would one day be recorded in history. He said while some people were busy spreading rumours and creating panic, officials worked round the clock behind the scenes with patience, hard work and sensitive policy decisions to ensure uninterrupted energy supplies. He thanked the people of the country for their cooperation during the difficult period and criticised those who attempted to politicise the crisis instead of supporting the nation. Referring to the global fertiliser crisis caused by the conflicts in West Asia and Ukraine, he said while urea prices in several countries rose to nearly 3,000 rupees per bag, the government ensured that Indian farmers continue to receive urea at about 300 rupees per bag, protecting them from global price shocks. Referring to the Pachpadra Refinery, the Prime Minister described it as a landmark project in India&#8217;s journey towards becoming a developed and self-reliant nation. He said the refinery would …",
+        "title": "651 Indian Army Personnel Awarded UN Medal for Peacekeeping Mission in DR Congo",
+        "summary": "India&#8217;s longstanding contribution to global peacekeeping mission received a significant recognition as 651 Indian Army personnel serving under the United Nations have been awarded the prestigious United Nations Medal during a ceremonial Medal Parade held at the Permanent Operating Base Sake in the Democratic Republic of the Congo (DRC). The medals were presented during a […]",
+        "article": "India&#8217;s longstanding contribution to global peacekeeping mission received a significant recognition as 651 Indian Army personnel serving under the United Nations have been awarded the prestigious United Nations Medal during a ceremonial Medal Parade held at the Permanent Operating Base Sake in the Democratic Republic of the Congo (DRC). The medals were presented during a ceremony held yesterday, honouring the Indian contingent for its professionalism, operational excellence and dedicated service under the United Nations peacekeeping mission. The event was attended by senior officials of the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO), representatives from the Force Headquarters, military commanders and other distinguished guests.",
         "date": "2026-07-04",
-        "pubDate": "2026-07-04T12:10:31+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-to-be-on-day-long-visit-to-rajasthan-and-gujarat-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260704299f-1-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "MoS Dr Jitendra Singh Calls for Mission-Mode Response to Tackle Liver Disease and Type-2 Diabetes",
-        "summary": "Science and Technology Minister Dr Jitendra Singh today called for a mission-mode national response driven by preventive healthcare and mass public awareness to tackle India&#8217;s liver epidemic and the sharp rise in Type-2 diabetes. Addressing the 3rd anniversary of the Liver and Metabolic Disease Network in New Delhi, Dr Singh said that these diseases are […]",
-        "article": "Science and Technology Minister Dr Jitendra Singh today called for a mission-mode national response driven by preventive healthcare and mass public awareness to tackle India&#8217;s liver epidemic and the sharp rise in Type-2 diabetes. Addressing the 3rd anniversary of the Liver and Metabolic Disease Network in New Delhi, Dr Singh said that these diseases are now appearing at much younger ages than before, making the challenge far more than a medical issue. Referring to India’s metabolic profile, the Minister said that the country&#8217;s genetic predisposition, higher prevalence of central obesity and distinct Indian phenotype make its population particularly vulnerable to diabetes, fatty liver and cardiovascular diseases. Calling for greater synergy across scientific institutions, Dr Singh said that the country&#8217;s expanding biotechnology ecosystem, Genome Mission and large-scale gene sequencing programme offer unprecedented opportunities to understand India&#8217;s unique disease patterns. He added that scientific progress alone cannot overcome the challenge unless it is accompanied by widespread public awareness and behavioural change.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T12:06:02+00:00",
-        "link": "https://newsonair.gov.in/mos-dr-jitendra-singh-calls-for-mission-mode-response-to-tackle-liver-disease-and-type-2-diabetes/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Jitendra-1.jpg",
+        "pubDate": "2026-07-04T10:22:32+00:00",
+        "link": "https://newsonair.gov.in/651-indian-army-personnel-awarded-un-medal-for-peacekeeping-mission-in-dr-congo/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMYPtLqbIAAUApa.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "breaking": [
       {
+        "title": "Ethanol Is Not a New Concept, Has Been in Use for Over a Century: Union Minister Hardeep Singh Puri",
+        "summary": "Union Petroleum and Natural Gas Minister Hardeep Singh Puri today said that ethanol is not a new concept and has been in use for over a century. Addressing a gathering in Rajasthan, Mr Puri said that the government welcomes constructive criticism of the government&#8217;s biofuel blending programme and assured that the government will incorporate suggestions […]",
+        "article": "Union Petroleum and Natural Gas Minister Hardeep Singh Puri today said that ethanol is not a new concept and has been in use for over a century. Addressing a gathering in Rajasthan, Mr Puri said that the government welcomes constructive criticism of the government&#8217;s biofuel blending programme and assured that the government will incorporate suggestions into its work and make the necessary corrections. Mr. Puri also said that the idea of ethanol blending in India was first initiated during the previous Congress led government. Recalling his tenure as India&#8217;s Ambassador to Brazil between 2006 and 2008, he said, a target of five per cent ethanol blending had been set across ten states and Union Territories but could have achieved only 1.4 per cent blending at the time.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T16:56:09+00:00",
+        "link": "https://newsonair.gov.in/union-minister-hardeep-singh-puri-says-ethanol-has-been-in-use-for-over-a-century/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Union-Minister-Hardeep-Singh-Puri.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Modi Extends Greetings on 250th Independence Anniversary of America",
         "summary": "Prime Minister Narendra Modi has extended greetings to U.S. President Trump and the people of the United States on the 250th anniversary of their Independence. In a social media post, Mr Modi said, India and the United States share more than a strategic partnership, underpinned by a shared belief in democracy, the rule of law, […]",
         "article": "Prime Minister Narendra Modi has extended greetings to U.S. President Trump and the people of the United States on the 250th anniversary of their Independence. In a social media post, Mr Modi said, India and the United States share more than a strategic partnership, underpinned by a shared belief in democracy, the rule of law, and the limitless potential of their people. He also expressed confidence that the next 250 years would bring greater prosperity, peace, and progress for the United States, while taking the India-US partnership to new heights.",
@@ -166,7 +177,7 @@ window.VM_NEWS = {
         "date": "2026-07-04",
         "pubDate": "2026-07-04T14:09:06+00:00",
         "link": "https://newsonair.gov.in/pm-modi-inaugurates-%e2%82%b97500-crore-semiconductor-osat-facility-in-gujarat/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-Photoroom.png",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/aaaaaaaa.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -226,30 +237,30 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India Overcame Biggest Energy Crisis of the Century Amid West Asia Conflict: PM Modi",
-        "summary": "Prime Minister Narendra Modi today inaugurated and laid the foundation stone for development projects worth over 1.05 lakh crore rupees in Rajasthan, marking a major push to infrastructure, energy, transport and employment generation in the state. During his day-long visit, the Prime Minister inaugurated the new terminal building at Jodhpur Airport. Thereafter, he dedicated the […]",
-        "article": "Prime Minister Narendra Modi today inaugurated and laid the foundation stone for development projects worth over 1.05 lakh crore rupees in Rajasthan, marking a major push to infrastructure, energy, transport and employment generation in the state. During his day-long visit, the Prime Minister inaugurated the new terminal building at Jodhpur Airport. Thereafter, he dedicated the country&#8217;s most modern Greenfield Refinery-cum-Petrochemical Complex to the nation in Pachpadra in Balotara district. He also inspected the refinery&#8217;s state-of-the-art control room, interacted with engineers and technical experts, flagged off fuel tankers, and virtually laid the foundation stone for Jaipur Metro Phase-II. A greenfield refinery is an industrial processing plant for oil, gas, or minerals built from scratch on undeveloped clean land. Addressing the programme, the Prime Minister said the conflict in West Asia had triggered the biggest energy crisis of the 21st century, but India successfully overcame the challenge through timely decisions, effective diplomacy and prudent management of national resources. He said while many countries struggled with fuel shortages, India accurately assessed the crisis, formulated an effective strategy and used its diplomatic strength to safeguard the country&#8217;s energy security. Mr. Modi said India&#8217;s friendly relations with countries across the world played a crucial role during the crisis. He said India, which earlier imported energy from around 25 to 26 countries, expanded its sourcing to nearly 40 countries, ensuring uninterrupted fuel supplies despite global disruptions. He said this demonstrated that the interests of the nation and its citizens remain the government&#8217;s highest priority. The Prime Minister also noted that India has significantly enhanced its refining capacity and has emerged as the world&#8217;s fourth-largest refining nation. The Prime Minister said the government prevented a steep rise in domestic cooking gas prices despite global turmoil. He said the crisis could have pushed the price of an LPG cylinder to nearly 2,000 rupees, but effective intervention ensured that consumers continued to receive cylinders at around 950 rupees. He added that between April and June, oil marketing companies incurred losses of nearly 75,000 crore rupees on petrol and diesel, a burden borne by the government to protect citizens from the impact of soaring international fuel prices. Mr. Modi said the government&#8217;s efforts during the energy crisis would one day be recorded in history. He said while some people were busy spreading rumours and creating panic, officials worked round the clock behind the scenes with patience, hard work and sensitive policy decisions to ensure uninterrupted energy supplies. He thanked the people of the country for their cooperation during the difficult period and criticised those who attempted to politicise the crisis instead of supporting the nation. Referring to the global fertiliser crisis caused by the conflicts in West Asia and Ukraine, he said while urea prices in several countries rose to nearly 3,000 rupees per bag, the government ensured that Indian farmers continue to receive urea at about 300 rupees per bag, protecting them from global price shocks. Referring to the Pachpadra Refinery, the Prime Minister described it as a landmark project in India&#8217;s journey towards becoming a developed and self-reliant nation. He said the refinery would …",
+        "title": "EAM Dr S Jaishankar to Visit Qatar, Bahrain, Kuwait and Oman from July 5 to 10",
+        "summary": "External Affairs Minister Dr S Jaishankar will be on an official visit to Qatar, Bahrain, Kuwait and Oman from tomorrow till 10th of this month. During the visit to these countries, Dr Jaishankar will be meeting with his counterparts and the leadership. Ministry of External Affairs said, the visit will focus on enhancing India&#8217;s bilateral […]",
+        "article": "External Affairs Minister Dr S Jaishankar will be on an official visit to Qatar, Bahrain, Kuwait and Oman from tomorrow till 10th of this month. During the visit to these countries, Dr Jaishankar will be meeting with his counterparts and the leadership. Ministry of External Affairs said, the visit will focus on enhancing India&#8217;s bilateral relations with the countries and also provide an opportunity to exchange views on regional developments and issues of mutual interest. After his visit to Oman, Dr Jaishankar will visit New York on 13th July to launch India’s official campaign for the UN Security Council tenure 2028-29. He will then attend the 3rd India-EU Trade and Technology Council meeting and interact with his European Union and Belgian counterparts in Brussels on 14th and 15th July.",
         "date": "2026-07-04",
-        "pubDate": "2026-07-04T12:10:31+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-to-be-on-day-long-visit-to-rajasthan-and-gujarat-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260704299f-1-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "MoS Dr Jitendra Singh Calls for Mission-Mode Response to Tackle Liver Disease and Type-2 Diabetes",
-        "summary": "Science and Technology Minister Dr Jitendra Singh today called for a mission-mode national response driven by preventive healthcare and mass public awareness to tackle India&#8217;s liver epidemic and the sharp rise in Type-2 diabetes. Addressing the 3rd anniversary of the Liver and Metabolic Disease Network in New Delhi, Dr Singh said that these diseases are […]",
-        "article": "Science and Technology Minister Dr Jitendra Singh today called for a mission-mode national response driven by preventive healthcare and mass public awareness to tackle India&#8217;s liver epidemic and the sharp rise in Type-2 diabetes. Addressing the 3rd anniversary of the Liver and Metabolic Disease Network in New Delhi, Dr Singh said that these diseases are now appearing at much younger ages than before, making the challenge far more than a medical issue. Referring to India’s metabolic profile, the Minister said that the country&#8217;s genetic predisposition, higher prevalence of central obesity and distinct Indian phenotype make its population particularly vulnerable to diabetes, fatty liver and cardiovascular diseases. Calling for greater synergy across scientific institutions, Dr Singh said that the country&#8217;s expanding biotechnology ecosystem, Genome Mission and large-scale gene sequencing programme offer unprecedented opportunities to understand India&#8217;s unique disease patterns. He added that scientific progress alone cannot overcome the challenge unless it is accompanied by widespread public awareness and behavioural change.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T12:06:02+00:00",
-        "link": "https://newsonair.gov.in/mos-dr-jitendra-singh-calls-for-mission-mode-response-to-tackle-liver-disease-and-type-2-diabetes/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Jitendra-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-04T16:59:14+00:00",
+        "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-to-visit-qatar-bahrain-kuwait-and-oman-from-july-5-to-10/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "Ethanol Is Not a New Concept, Has Been in Use for Over a Century: Union Minister Hardeep Singh Puri",
+        "summary": "Union Petroleum and Natural Gas Minister Hardeep Singh Puri today said that ethanol is not a new concept and has been in use for over a century. Addressing a gathering in Rajasthan, Mr Puri said that the government welcomes constructive criticism of the government&#8217;s biofuel blending programme and assured that the government will incorporate suggestions […]",
+        "article": "Union Petroleum and Natural Gas Minister Hardeep Singh Puri today said that ethanol is not a new concept and has been in use for over a century. Addressing a gathering in Rajasthan, Mr Puri said that the government welcomes constructive criticism of the government&#8217;s biofuel blending programme and assured that the government will incorporate suggestions into its work and make the necessary corrections. Mr. Puri also said that the idea of ethanol blending in India was first initiated during the previous Congress led government. Recalling his tenure as India&#8217;s Ambassador to Brazil between 2006 and 2008, he said, a target of five per cent ethanol blending had been set across ten states and Union Territories but could have achieved only 1.4 per cent blending at the time.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T16:56:09+00:00",
+        "link": "https://newsonair.gov.in/union-minister-hardeep-singh-puri-says-ethanol-has-been-in-use-for-over-a-century/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Union-Minister-Hardeep-Singh-Puri.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Modi Extends Greetings on 250th Independence Anniversary of America",
         "summary": "Prime Minister Narendra Modi has extended greetings to U.S. President Trump and the people of the United States on the 250th anniversary of their Independence. In a social media post, Mr Modi said, India and the United States share more than a strategic partnership, underpinned by a shared belief in democracy, the rule of law, […]",
         "article": "Prime Minister Narendra Modi has extended greetings to U.S. President Trump and the people of the United States on the 250th anniversary of their Independence. In a social media post, Mr Modi said, India and the United States share more than a strategic partnership, underpinned by a shared belief in democracy, the rule of law, and the limitless potential of their people. He also expressed confidence that the next 250 years would bring greater prosperity, peace, and progress for the United States, while taking the India-US partnership to new heights.",
@@ -278,7 +289,7 @@ window.VM_NEWS = {
         "date": "2026-07-04",
         "pubDate": "2026-07-04T14:09:06+00:00",
         "link": "https://newsonair.gov.in/pm-modi-inaugurates-%e2%82%b97500-crore-semiconductor-osat-facility-in-gujarat/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-Photoroom.png",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/aaaaaaaa.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -338,30 +349,30 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India Overcame Biggest Energy Crisis of the Century Amid West Asia Conflict: PM Modi",
-        "summary": "Prime Minister Narendra Modi today inaugurated and laid the foundation stone for development projects worth over 1.05 lakh crore rupees in Rajasthan, marking a major push to infrastructure, energy, transport and employment generation in the state. During his day-long visit, the Prime Minister inaugurated the new terminal building at Jodhpur Airport. Thereafter, he dedicated the […]",
-        "article": "Prime Minister Narendra Modi today inaugurated and laid the foundation stone for development projects worth over 1.05 lakh crore rupees in Rajasthan, marking a major push to infrastructure, energy, transport and employment generation in the state. During his day-long visit, the Prime Minister inaugurated the new terminal building at Jodhpur Airport. Thereafter, he dedicated the country&#8217;s most modern Greenfield Refinery-cum-Petrochemical Complex to the nation in Pachpadra in Balotara district. He also inspected the refinery&#8217;s state-of-the-art control room, interacted with engineers and technical experts, flagged off fuel tankers, and virtually laid the foundation stone for Jaipur Metro Phase-II. A greenfield refinery is an industrial processing plant for oil, gas, or minerals built from scratch on undeveloped clean land. Addressing the programme, the Prime Minister said the conflict in West Asia had triggered the biggest energy crisis of the 21st century, but India successfully overcame the challenge through timely decisions, effective diplomacy and prudent management of national resources. He said while many countries struggled with fuel shortages, India accurately assessed the crisis, formulated an effective strategy and used its diplomatic strength to safeguard the country&#8217;s energy security. Mr. Modi said India&#8217;s friendly relations with countries across the world played a crucial role during the crisis. He said India, which earlier imported energy from around 25 to 26 countries, expanded its sourcing to nearly 40 countries, ensuring uninterrupted fuel supplies despite global disruptions. He said this demonstrated that the interests of the nation and its citizens remain the government&#8217;s highest priority. The Prime Minister also noted that India has significantly enhanced its refining capacity and has emerged as the world&#8217;s fourth-largest refining nation. The Prime Minister said the government prevented a steep rise in domestic cooking gas prices despite global turmoil. He said the crisis could have pushed the price of an LPG cylinder to nearly 2,000 rupees, but effective intervention ensured that consumers continued to receive cylinders at around 950 rupees. He added that between April and June, oil marketing companies incurred losses of nearly 75,000 crore rupees on petrol and diesel, a burden borne by the government to protect citizens from the impact of soaring international fuel prices. Mr. Modi said the government&#8217;s efforts during the energy crisis would one day be recorded in history. He said while some people were busy spreading rumours and creating panic, officials worked round the clock behind the scenes with patience, hard work and sensitive policy decisions to ensure uninterrupted energy supplies. He thanked the people of the country for their cooperation during the difficult period and criticised those who attempted to politicise the crisis instead of supporting the nation. Referring to the global fertiliser crisis caused by the conflicts in West Asia and Ukraine, he said while urea prices in several countries rose to nearly 3,000 rupees per bag, the government ensured that Indian farmers continue to receive urea at about 300 rupees per bag, protecting them from global price shocks. Referring to the Pachpadra Refinery, the Prime Minister described it as a landmark project in India&#8217;s journey towards becoming a developed and self-reliant nation. He said the refinery would …",
+        "title": "EAM Dr S Jaishankar to Visit Qatar, Bahrain, Kuwait and Oman from July 5 to 10",
+        "summary": "External Affairs Minister Dr S Jaishankar will be on an official visit to Qatar, Bahrain, Kuwait and Oman from tomorrow till 10th of this month. During the visit to these countries, Dr Jaishankar will be meeting with his counterparts and the leadership. Ministry of External Affairs said, the visit will focus on enhancing India&#8217;s bilateral […]",
+        "article": "External Affairs Minister Dr S Jaishankar will be on an official visit to Qatar, Bahrain, Kuwait and Oman from tomorrow till 10th of this month. During the visit to these countries, Dr Jaishankar will be meeting with his counterparts and the leadership. Ministry of External Affairs said, the visit will focus on enhancing India&#8217;s bilateral relations with the countries and also provide an opportunity to exchange views on regional developments and issues of mutual interest. After his visit to Oman, Dr Jaishankar will visit New York on 13th July to launch India’s official campaign for the UN Security Council tenure 2028-29. He will then attend the 3rd India-EU Trade and Technology Council meeting and interact with his European Union and Belgian counterparts in Brussels on 14th and 15th July.",
         "date": "2026-07-04",
-        "pubDate": "2026-07-04T12:10:31+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-to-be-on-day-long-visit-to-rajasthan-and-gujarat-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260704299f-1-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "MoS Dr Jitendra Singh Calls for Mission-Mode Response to Tackle Liver Disease and Type-2 Diabetes",
-        "summary": "Science and Technology Minister Dr Jitendra Singh today called for a mission-mode national response driven by preventive healthcare and mass public awareness to tackle India&#8217;s liver epidemic and the sharp rise in Type-2 diabetes. Addressing the 3rd anniversary of the Liver and Metabolic Disease Network in New Delhi, Dr Singh said that these diseases are […]",
-        "article": "Science and Technology Minister Dr Jitendra Singh today called for a mission-mode national response driven by preventive healthcare and mass public awareness to tackle India&#8217;s liver epidemic and the sharp rise in Type-2 diabetes. Addressing the 3rd anniversary of the Liver and Metabolic Disease Network in New Delhi, Dr Singh said that these diseases are now appearing at much younger ages than before, making the challenge far more than a medical issue. Referring to India’s metabolic profile, the Minister said that the country&#8217;s genetic predisposition, higher prevalence of central obesity and distinct Indian phenotype make its population particularly vulnerable to diabetes, fatty liver and cardiovascular diseases. Calling for greater synergy across scientific institutions, Dr Singh said that the country&#8217;s expanding biotechnology ecosystem, Genome Mission and large-scale gene sequencing programme offer unprecedented opportunities to understand India&#8217;s unique disease patterns. He added that scientific progress alone cannot overcome the challenge unless it is accompanied by widespread public awareness and behavioural change.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T12:06:02+00:00",
-        "link": "https://newsonair.gov.in/mos-dr-jitendra-singh-calls-for-mission-mode-response-to-tackle-liver-disease-and-type-2-diabetes/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Jitendra-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-04T16:59:14+00:00",
+        "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-to-visit-qatar-bahrain-kuwait-and-oman-from-july-5-to-10/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "Ethanol Is Not a New Concept, Has Been in Use for Over a Century: Union Minister Hardeep Singh Puri",
+        "summary": "Union Petroleum and Natural Gas Minister Hardeep Singh Puri today said that ethanol is not a new concept and has been in use for over a century. Addressing a gathering in Rajasthan, Mr Puri said that the government welcomes constructive criticism of the government&#8217;s biofuel blending programme and assured that the government will incorporate suggestions […]",
+        "article": "Union Petroleum and Natural Gas Minister Hardeep Singh Puri today said that ethanol is not a new concept and has been in use for over a century. Addressing a gathering in Rajasthan, Mr Puri said that the government welcomes constructive criticism of the government&#8217;s biofuel blending programme and assured that the government will incorporate suggestions into its work and make the necessary corrections. Mr. Puri also said that the idea of ethanol blending in India was first initiated during the previous Congress led government. Recalling his tenure as India&#8217;s Ambassador to Brazil between 2006 and 2008, he said, a target of five per cent ethanol blending had been set across ten states and Union Territories but could have achieved only 1.4 per cent blending at the time.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T16:56:09+00:00",
+        "link": "https://newsonair.gov.in/union-minister-hardeep-singh-puri-says-ethanol-has-been-in-use-for-over-a-century/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Union-Minister-Hardeep-Singh-Puri.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Modi Extends Greetings on 250th Independence Anniversary of America",
         "summary": "Prime Minister Narendra Modi has extended greetings to U.S. President Trump and the people of the United States on the 250th anniversary of their Independence. In a social media post, Mr Modi said, India and the United States share more than a strategic partnership, underpinned by a shared belief in democracy, the rule of law, […]",
         "article": "Prime Minister Narendra Modi has extended greetings to U.S. President Trump and the people of the United States on the 250th anniversary of their Independence. In a social media post, Mr Modi said, India and the United States share more than a strategic partnership, underpinned by a shared belief in democracy, the rule of law, and the limitless potential of their people. He also expressed confidence that the next 250 years would bring greater prosperity, peace, and progress for the United States, while taking the India-US partnership to new heights.",
@@ -390,7 +401,7 @@ window.VM_NEWS = {
         "date": "2026-07-04",
         "pubDate": "2026-07-04T14:09:06+00:00",
         "link": "https://newsonair.gov.in/pm-modi-inaugurates-%e2%82%b97500-crore-semiconductor-osat-facility-in-gujarat/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-Photoroom.png",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/aaaaaaaa.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -450,25 +461,14 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India Overcame Biggest Energy Crisis of the Century Amid West Asia Conflict: PM Modi",
-        "summary": "Prime Minister Narendra Modi today inaugurated and laid the foundation stone for development projects worth over 1.05 lakh crore rupees in Rajasthan, marking a major push to infrastructure, energy, transport and employment generation in the state. During his day-long visit, the Prime Minister inaugurated the new terminal building at Jodhpur Airport. Thereafter, he dedicated the […]",
-        "article": "Prime Minister Narendra Modi today inaugurated and laid the foundation stone for development projects worth over 1.05 lakh crore rupees in Rajasthan, marking a major push to infrastructure, energy, transport and employment generation in the state. During his day-long visit, the Prime Minister inaugurated the new terminal building at Jodhpur Airport. Thereafter, he dedicated the country&#8217;s most modern Greenfield Refinery-cum-Petrochemical Complex to the nation in Pachpadra in Balotara district. He also inspected the refinery&#8217;s state-of-the-art control room, interacted with engineers and technical experts, flagged off fuel tankers, and virtually laid the foundation stone for Jaipur Metro Phase-II. A greenfield refinery is an industrial processing plant for oil, gas, or minerals built from scratch on undeveloped clean land. Addressing the programme, the Prime Minister said the conflict in West Asia had triggered the biggest energy crisis of the 21st century, but India successfully overcame the challenge through timely decisions, effective diplomacy and prudent management of national resources. He said while many countries struggled with fuel shortages, India accurately assessed the crisis, formulated an effective strategy and used its diplomatic strength to safeguard the country&#8217;s energy security. Mr. Modi said India&#8217;s friendly relations with countries across the world played a crucial role during the crisis. He said India, which earlier imported energy from around 25 to 26 countries, expanded its sourcing to nearly 40 countries, ensuring uninterrupted fuel supplies despite global disruptions. He said this demonstrated that the interests of the nation and its citizens remain the government&#8217;s highest priority. The Prime Minister also noted that India has significantly enhanced its refining capacity and has emerged as the world&#8217;s fourth-largest refining nation. The Prime Minister said the government prevented a steep rise in domestic cooking gas prices despite global turmoil. He said the crisis could have pushed the price of an LPG cylinder to nearly 2,000 rupees, but effective intervention ensured that consumers continued to receive cylinders at around 950 rupees. He added that between April and June, oil marketing companies incurred losses of nearly 75,000 crore rupees on petrol and diesel, a burden borne by the government to protect citizens from the impact of soaring international fuel prices. Mr. Modi said the government&#8217;s efforts during the energy crisis would one day be recorded in history. He said while some people were busy spreading rumours and creating panic, officials worked round the clock behind the scenes with patience, hard work and sensitive policy decisions to ensure uninterrupted energy supplies. He thanked the people of the country for their cooperation during the difficult period and criticised those who attempted to politicise the crisis instead of supporting the nation. Referring to the global fertiliser crisis caused by the conflicts in West Asia and Ukraine, he said while urea prices in several countries rose to nearly 3,000 rupees per bag, the government ensured that Indian farmers continue to receive urea at about 300 rupees per bag, protecting them from global price shocks. Referring to the Pachpadra Refinery, the Prime Minister described it as a landmark project in India&#8217;s journey towards becoming a developed and self-reliant nation. He said the refinery would …",
+        "title": "EAM Dr S Jaishankar to Visit Qatar, Bahrain, Kuwait and Oman from July 5 to 10",
+        "summary": "External Affairs Minister Dr S Jaishankar will be on an official visit to Qatar, Bahrain, Kuwait and Oman from tomorrow till 10th of this month. During the visit to these countries, Dr Jaishankar will be meeting with his counterparts and the leadership. Ministry of External Affairs said, the visit will focus on enhancing India&#8217;s bilateral […]",
+        "article": "External Affairs Minister Dr S Jaishankar will be on an official visit to Qatar, Bahrain, Kuwait and Oman from tomorrow till 10th of this month. During the visit to these countries, Dr Jaishankar will be meeting with his counterparts and the leadership. Ministry of External Affairs said, the visit will focus on enhancing India&#8217;s bilateral relations with the countries and also provide an opportunity to exchange views on regional developments and issues of mutual interest. After his visit to Oman, Dr Jaishankar will visit New York on 13th July to launch India’s official campaign for the UN Security Council tenure 2028-29. He will then attend the 3rd India-EU Trade and Technology Council meeting and interact with his European Union and Belgian counterparts in Brussels on 14th and 15th July.",
         "date": "2026-07-04",
-        "pubDate": "2026-07-04T12:10:31+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-to-be-on-day-long-visit-to-rajasthan-and-gujarat-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260704299f-1-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "MoS Dr Jitendra Singh Calls for Mission-Mode Response to Tackle Liver Disease and Type-2 Diabetes",
-        "summary": "Science and Technology Minister Dr Jitendra Singh today called for a mission-mode national response driven by preventive healthcare and mass public awareness to tackle India&#8217;s liver epidemic and the sharp rise in Type-2 diabetes. Addressing the 3rd anniversary of the Liver and Metabolic Disease Network in New Delhi, Dr Singh said that these diseases are […]",
-        "article": "Science and Technology Minister Dr Jitendra Singh today called for a mission-mode national response driven by preventive healthcare and mass public awareness to tackle India&#8217;s liver epidemic and the sharp rise in Type-2 diabetes. Addressing the 3rd anniversary of the Liver and Metabolic Disease Network in New Delhi, Dr Singh said that these diseases are now appearing at much younger ages than before, making the challenge far more than a medical issue. Referring to India’s metabolic profile, the Minister said that the country&#8217;s genetic predisposition, higher prevalence of central obesity and distinct Indian phenotype make its population particularly vulnerable to diabetes, fatty liver and cardiovascular diseases. Calling for greater synergy across scientific institutions, Dr Singh said that the country&#8217;s expanding biotechnology ecosystem, Genome Mission and large-scale gene sequencing programme offer unprecedented opportunities to understand India&#8217;s unique disease patterns. He added that scientific progress alone cannot overcome the challenge unless it is accompanied by widespread public awareness and behavioural change.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T12:06:02+00:00",
-        "link": "https://newsonair.gov.in/mos-dr-jitendra-singh-calls-for-mission-mode-response-to-tackle-liver-disease-and-type-2-diabetes/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Jitendra-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-04T16:59:14+00:00",
+        "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-to-visit-qatar-bahrain-kuwait-and-oman-from-july-5-to-10/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -1025,6 +1025,17 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "केंद्रीय मंत्री अश्विनी ने कहा- इस वर्ष के अंत तक भारत में पांच सेमीकंडक्टर संयंत्र चालू हो जाएंगे",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी ने आज गुजरात के साणंद में अत्याधुनिक सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर संयोजन और जांच केंद्र का उद्घाटन किया। कार्यक्रम में केंद्रीय मंत्री अश्विनी वैष्णव और गुजरात के मुख्यमंत्री भूपेंद्र पटेल भी उपस्थित थे। इस अवसर पर श्री अश्विनी वैष्णव ने कहा कि इस वर्ष के अंत तक भारत में पांच सेमीकंडक्टर […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी ने आज गुजरात के साणंद में अत्याधुनिक सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर संयोजन और जांच केंद्र का उद्घाटन किया। कार्यक्रम में केंद्रीय मंत्री अश्विनी वैष्णव और गुजरात के मुख्यमंत्री भूपेंद्र पटेल भी उपस्थित थे। इस अवसर पर श्री अश्विनी वैष्णव ने कहा कि इस वर्ष के अंत तक भारत में पांच सेमीकंडक्टर संयंत्र चालू हो जाएंगे। उन्&#x200d;होंने कहा कि साणंद संयंत्र केवल 27 महीने में पूरा हो गया। श्री वैष्णव ने कहा कि इस संयंत्र में निर्मित चिप्स का उपयोग कारों, स्कूटरों और कई तरह के औद्योगिक कार्यों में किया जाएगा। उन्होंने कहा कि इस केन्&#x200d;द्र में निर्मित चिप्स जापान, अमरीका और यूरोप भेजी जाएंगी और इससे भारतीय प्रौद्योगिकी को दुनिया भर में पहचान मिलेगी। उन्होंने कहा कि प्रधानमंत्री के प्रयासों से ही यह सफलता प्राप्&#x200d;त हो सकी है।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T16:57:04+00:00",
+        "link": "https://newsonair.gov.in/hi/union-minister-ashwini-said-that-five-semiconductor-plants-will-become-operational-in-india-by-the-end-of-this-year/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMWtSRPaQAANAgU.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "प्रधानमंत्री मोदी ने गुजरात में सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर असेंबली और टेस्ट सुविधा का शुभारंभ किया",
         "summary": "प्रधानमंत्री नरेंद्र मोदी ने आज गुजरात के साणंद में अत्याधुनिक सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर संयोजन और जांच केंद्र का उद्घाटन किया। कार्यक्रम में केंद्रीय मंत्री अश्विनी वैष्णव और गुजरात के मुख्यमंत्री भूपेंद्र पटेल भी उपस्थित थे। प्रधानमंत्री मोदी ने विशाल सभा को संबोधित करते हुए कहा कि यह विकास भारत की ज़बरदस्त इलेक्ट्रॉनिक्स क्रांति […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी ने आज गुजरात के साणंद में अत्याधुनिक सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर संयोजन और जांच केंद्र का उद्घाटन किया। कार्यक्रम में केंद्रीय मंत्री अश्विनी वैष्णव और गुजरात के मुख्यमंत्री भूपेंद्र पटेल भी उपस्थित थे। प्रधानमंत्री मोदी ने विशाल सभा को संबोधित करते हुए कहा कि यह विकास भारत की ज़बरदस्त इलेक्ट्रॉनिक्स क्रांति का अगला कदम है, जिसने देश को पहले ही दुनिया का दूसरा सबसे बड़ा मोबाइल फ़ोन निर्माता बना दिया है। उन्होंने कहा कि साणंद में सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर संयोजन और जांच केंद्र घरेलू चिप निर्माण व्&#x200d;यवस्&#x200d;था मज़बूत होने के साथ तकनीकी आत्मनिर्भरता को भी बढ़ावा देगा और वैश्विक सेमीकंडक्टर मूल्&#x200d;य श्रृंखला में भारत की स्थिति में सुधार होगा। प्रधानमंत्री ने कहा कि इस प्रमुख परियोजना के साथ, साणंद एक उभरते हुए वैश्विक सेमीकंडक्टर समूह के रूप में सामने आएगा। उन्होंने कहा कि भारत प्रमुख और उच्&#x200d;च प्रौद्योगिकी खनिजों के मामले में आत्मनिर्भर बनने की दिशा में भी तेज़ी से काम कर रहा है। श्री मोदी ने कहा कि इसके साथ ही पूरी घरेलू आपूर्ति श्रृंखला मज़बूत करने पर ध्यान दिया जा रहा है। प्रधानमंत्री ने इसे &#8216;विकसित भारत&#8217; की रूपरेखा और मेक इन इंडिया का दूसरा कदम बताया। प्रधानमंत्री ने संयंत्र के कर्मचारियों की प्रशंसा करते हुए इस परिसर को मिनी इंडिया बताया। उन्होंने कहा कि यह केंद्र देश के युवाओं को आर्टिफिशियल इंटेलिजेंस और अगली पीढ़ी की प्रौद्योगिकी में प्रगति के बड़े अवसर देगा। प्रधानमंत्री ने कहा कि साणंद संयंत्र में प्रत्&#x200d;येक वर्ष 20 करोड़ चिप्स तैयार होंगी। उन्होंने इस संयंत्र में प्रत्&#x200d;येक वर्ष 500 करोड़ चिप्स का उत्&#x200d;पादन का लक्ष्य रखने के लिए बधाई दी। इस अवसर पर श्री अश्विनी वैष्णव ने कहा कि इस वर्ष के अंत तक भारत में पांच सेमीकंडक्टर संयंत्र चालू हो जाएंगे। उन्&#x200d;होंने कहा कि साणंद संयंत्र केवल 27 महीने में पूरा हो गया। श्री वैष्णव ने कहा कि इस संयंत्र में निर्मित चिप्स का उपयोग कारों, स्कूटरों और कई तरह के औद्योगिक कार्यों में किया जाएगा। उन्होंने कहा कि इस केन्&#x200d;द्र में निर्मित चिप्स जापान, अमरीका और यूरोप भेजी जाएंगी और इससे भारतीय प्रौद्योगिकी को दुनिया भर में पहचान मिलेगी। उन्होंने कहा कि प्रधानमंत्री के प्रयासों से ही यह सफलता प्राप्&#x200d;त हो सकी है। इससे पहले, साणंद पहुँचने पर प्रधानमंत्री ने हाई-टेक प्लांट का दौरा कर संयंत्र का निरीक्षण किया। प्रधानमंत्री ने इंजीनियरों और ऑपरेटरों से भी विस्तार से बातचीत की। सात हजार 500 करोड़ रुपये से अधिक के निवेश से निर्मित यह संयंत्र देश की प्रौद्योगिकी विनिर्माण यात्रा में महत्&#x200d;वपूर्ण पड़ाव है। पूरी तरह चालू होने पर, इस केंद्र की वार्षिक उत्पादन क्षमता पांच अरब सेमीकंडक्टर चिप्स हो जाएगी। इससे मेमोरी और स्टोरेज समाधानों की बढ़ती वैश्विक मांग पूरा करने में भी सहायता मिलेगी।",
@@ -1144,20 +1155,20 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/jitendra.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "डीआरसी में संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सैनिकों को संयुक्त राष्ट्र पदक से सम्मानित किया गया",
-        "summary": "वैश्विक शांति अभियानों में भारत के दीर्घकालिक योगदान को एक महत्वपूर्ण मान्यता मिली है। डेमोक्रेटिक रिपब्लिक ऑफ़ कांगो (डीआरसी) के स्थायी परिचालन ठिकाने साके में आयोजित एक औपचारिक पदक परेड के दौरान संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सेना के कर्मियों को प्रतिष्ठित संयुक्त राष्ट्र पदक से सम्मानित किया गया। ये पदक कल आयोजित […]",
-        "article": "वैश्विक शांति अभियानों में भारत के दीर्घकालिक योगदान को एक महत्वपूर्ण मान्यता मिली है। डेमोक्रेटिक रिपब्लिक ऑफ़ कांगो (डीआरसी) के स्थायी परिचालन ठिकाने साके में आयोजित एक औपचारिक पदक परेड के दौरान संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सेना के कर्मियों को प्रतिष्ठित संयुक्त राष्ट्र पदक से सम्मानित किया गया। ये पदक कल आयोजित एक समारोह में प्रदान किए गए, जिसमें संयुक्त राष्ट्र शांति अभियानों के तहत भारतीय दल की व्यावसायिकता, परिचालन उत्कृष्टता और समर्पित सेवा को सम्मानित किया गया। इस कार्यक्रम में कांगो में संयुक्त राष्ट्र संगठन स्थिरीकरण मिशन &#8211; मोनुस्को के वरिष्ठ अधिकारी, बल मुख्यालय के प्रतिनिधि, सैन्य कमांडर और अन्य विशिष्ट अतिथि उपस्थित थे।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T11:29:43+00:00",
-        "link": "https://newsonair.gov.in/hi/651-indian-soldiers-serving-under-the-united-nations-in-the-drc-were-awarded-the-united-nations-medal/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMYPupiasAA_y9K.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "केंद्रीय मंत्री अश्विनी ने कहा- इस वर्ष के अंत तक भारत में पांच सेमीकंडक्टर संयंत्र चालू हो जाएंगे",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी ने आज गुजरात के साणंद में अत्याधुनिक सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर संयोजन और जांच केंद्र का उद्घाटन किया। कार्यक्रम में केंद्रीय मंत्री अश्विनी वैष्णव और गुजरात के मुख्यमंत्री भूपेंद्र पटेल भी उपस्थित थे। इस अवसर पर श्री अश्विनी वैष्णव ने कहा कि इस वर्ष के अंत तक भारत में पांच सेमीकंडक्टर […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी ने आज गुजरात के साणंद में अत्याधुनिक सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर संयोजन और जांच केंद्र का उद्घाटन किया। कार्यक्रम में केंद्रीय मंत्री अश्विनी वैष्णव और गुजरात के मुख्यमंत्री भूपेंद्र पटेल भी उपस्थित थे। इस अवसर पर श्री अश्विनी वैष्णव ने कहा कि इस वर्ष के अंत तक भारत में पांच सेमीकंडक्टर संयंत्र चालू हो जाएंगे। उन्&#x200d;होंने कहा कि साणंद संयंत्र केवल 27 महीने में पूरा हो गया। श्री वैष्णव ने कहा कि इस संयंत्र में निर्मित चिप्स का उपयोग कारों, स्कूटरों और कई तरह के औद्योगिक कार्यों में किया जाएगा। उन्होंने कहा कि इस केन्&#x200d;द्र में निर्मित चिप्स जापान, अमरीका और यूरोप भेजी जाएंगी और इससे भारतीय प्रौद्योगिकी को दुनिया भर में पहचान मिलेगी। उन्होंने कहा कि प्रधानमंत्री के प्रयासों से ही यह सफलता प्राप्&#x200d;त हो सकी है।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T16:57:04+00:00",
+        "link": "https://newsonair.gov.in/hi/union-minister-ashwini-said-that-five-semiconductor-plants-will-become-operational-in-india-by-the-end-of-this-year/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMWtSRPaQAANAgU.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "प्रधानमंत्री मोदी ने गुजरात में सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर असेंबली और टेस्ट सुविधा का शुभारंभ किया",
         "summary": "प्रधानमंत्री नरेंद्र मोदी ने आज गुजरात के साणंद में अत्याधुनिक सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर संयोजन और जांच केंद्र का उद्घाटन किया। कार्यक्रम में केंद्रीय मंत्री अश्विनी वैष्णव और गुजरात के मुख्यमंत्री भूपेंद्र पटेल भी उपस्थित थे। प्रधानमंत्री मोदी ने विशाल सभा को संबोधित करते हुए कहा कि यह विकास भारत की ज़बरदस्त इलेक्ट्रॉनिक्स क्रांति […]",
@@ -1254,23 +1265,23 @@ window.VM_NEWS = {
         "pubDate": "2026-07-04T11:56:25+00:00",
         "link": "https://newsonair.gov.in/hi/union-minister-jitendra-singh-called-for-the-launch-of-a-national-mission-to-tackle-the-liver-epidemic-and-type-2-diabetes-in-india/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/jitendra.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "डीआरसी में संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सैनिकों को संयुक्त राष्ट्र पदक से सम्मानित किया गया",
-        "summary": "वैश्विक शांति अभियानों में भारत के दीर्घकालिक योगदान को एक महत्वपूर्ण मान्यता मिली है। डेमोक्रेटिक रिपब्लिक ऑफ़ कांगो (डीआरसी) के स्थायी परिचालन ठिकाने साके में आयोजित एक औपचारिक पदक परेड के दौरान संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सेना के कर्मियों को प्रतिष्ठित संयुक्त राष्ट्र पदक से सम्मानित किया गया। ये पदक कल आयोजित […]",
-        "article": "वैश्विक शांति अभियानों में भारत के दीर्घकालिक योगदान को एक महत्वपूर्ण मान्यता मिली है। डेमोक्रेटिक रिपब्लिक ऑफ़ कांगो (डीआरसी) के स्थायी परिचालन ठिकाने साके में आयोजित एक औपचारिक पदक परेड के दौरान संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सेना के कर्मियों को प्रतिष्ठित संयुक्त राष्ट्र पदक से सम्मानित किया गया। ये पदक कल आयोजित एक समारोह में प्रदान किए गए, जिसमें संयुक्त राष्ट्र शांति अभियानों के तहत भारतीय दल की व्यावसायिकता, परिचालन उत्कृष्टता और समर्पित सेवा को सम्मानित किया गया। इस कार्यक्रम में कांगो में संयुक्त राष्ट्र संगठन स्थिरीकरण मिशन &#8211; मोनुस्को के वरिष्ठ अधिकारी, बल मुख्यालय के प्रतिनिधि, सैन्य कमांडर और अन्य विशिष्ट अतिथि उपस्थित थे।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T11:29:43+00:00",
-        "link": "https://newsonair.gov.in/hi/651-indian-soldiers-serving-under-the-united-nations-in-the-drc-were-awarded-the-united-nations-medal/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMYPupiasAA_y9K.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "केंद्रीय मंत्री अश्विनी ने कहा- इस वर्ष के अंत तक भारत में पांच सेमीकंडक्टर संयंत्र चालू हो जाएंगे",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी ने आज गुजरात के साणंद में अत्याधुनिक सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर संयोजन और जांच केंद्र का उद्घाटन किया। कार्यक्रम में केंद्रीय मंत्री अश्विनी वैष्णव और गुजरात के मुख्यमंत्री भूपेंद्र पटेल भी उपस्थित थे। इस अवसर पर श्री अश्विनी वैष्णव ने कहा कि इस वर्ष के अंत तक भारत में पांच सेमीकंडक्टर […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी ने आज गुजरात के साणंद में अत्याधुनिक सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर संयोजन और जांच केंद्र का उद्घाटन किया। कार्यक्रम में केंद्रीय मंत्री अश्विनी वैष्णव और गुजरात के मुख्यमंत्री भूपेंद्र पटेल भी उपस्थित थे। इस अवसर पर श्री अश्विनी वैष्णव ने कहा कि इस वर्ष के अंत तक भारत में पांच सेमीकंडक्टर संयंत्र चालू हो जाएंगे। उन्&#x200d;होंने कहा कि साणंद संयंत्र केवल 27 महीने में पूरा हो गया। श्री वैष्णव ने कहा कि इस संयंत्र में निर्मित चिप्स का उपयोग कारों, स्कूटरों और कई तरह के औद्योगिक कार्यों में किया जाएगा। उन्होंने कहा कि इस केन्&#x200d;द्र में निर्मित चिप्स जापान, अमरीका और यूरोप भेजी जाएंगी और इससे भारतीय प्रौद्योगिकी को दुनिया भर में पहचान मिलेगी। उन्होंने कहा कि प्रधानमंत्री के प्रयासों से ही यह सफलता प्राप्&#x200d;त हो सकी है।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T16:57:04+00:00",
+        "link": "https://newsonair.gov.in/hi/union-minister-ashwini-said-that-five-semiconductor-plants-will-become-operational-in-india-by-the-end-of-this-year/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMWtSRPaQAANAgU.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "प्रधानमंत्री मोदी ने गुजरात में सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर असेंबली और टेस्ट सुविधा का शुभारंभ किया",
         "summary": "प्रधानमंत्री नरेंद्र मोदी ने आज गुजरात के साणंद में अत्याधुनिक सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर संयोजन और जांच केंद्र का उद्घाटन किया। कार्यक्रम में केंद्रीय मंत्री अश्विनी वैष्णव और गुजरात के मुख्यमंत्री भूपेंद्र पटेल भी उपस्थित थे। प्रधानमंत्री मोदी ने विशाल सभा को संबोधित करते हुए कहा कि यह विकास भारत की ज़बरदस्त इलेक्ट्रॉनिक्स क्रांति […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी ने आज गुजरात के साणंद में अत्याधुनिक सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर संयोजन और जांच केंद्र का उद्घाटन किया। कार्यक्रम में केंद्रीय मंत्री अश्विनी वैष्णव और गुजरात के मुख्यमंत्री भूपेंद्र पटेल भी उपस्थित थे। प्रधानमंत्री मोदी ने विशाल सभा को संबोधित करते हुए कहा कि यह विकास भारत की ज़बरदस्त इलेक्ट्रॉनिक्स क्रांति का अगला कदम है, जिसने देश को पहले ही दुनिया का दूसरा सबसे बड़ा मोबाइल फ़ोन निर्माता बना दिया है। उन्होंने कहा कि साणंद में सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर संयोजन और जांच केंद्र घरेलू चिप निर्माण व्&#x200d;यवस्&#x200d;था मज़बूत होने के साथ तकनीकी आत्मनिर्भरता को भी बढ़ावा देगा और वैश्विक सेमीकंडक्टर मूल्&#x200d;य श्रृंखला में भारत की स्थिति में सुधार होगा। प्रधानमंत्री ने कहा कि इस प्रमुख परियोजना के साथ, साणंद एक उभरते हुए वैश्विक सेमीकंडक्टर समूह के रूप में सामने आएगा। उन्होंने कहा कि भारत प्रमुख और उच्&#x200d;च प्रौद्योगिकी खनिजों के मामले में आत्मनिर्भर बनने की दिशा में भी तेज़ी से काम कर रहा है। श्री मोदी ने कहा कि इसके साथ ही पूरी घरेलू आपूर्ति श्रृंखला मज़बूत करने पर ध्यान दिया जा रहा है। प्रधानमंत्री ने इसे &#8216;विकसित भारत&#8217; की रूपरेखा और मेक इन इंडिया का दूसरा कदम बताया। प्रधानमंत्री ने संयंत्र के कर्मचारियों की प्रशंसा करते हुए इस परिसर को मिनी इंडिया बताया। उन्होंने कहा कि यह केंद्र देश के युवाओं को आर्टिफिशियल इंटेलिजेंस और अगली पीढ़ी की प्रौद्योगिकी में प्रगति के बड़े अवसर देगा। प्रधानमंत्री ने कहा कि साणंद संयंत्र में प्रत्&#x200d;येक वर्ष 20 करोड़ चिप्स तैयार होंगी। उन्होंने इस संयंत्र में प्रत्&#x200d;येक वर्ष 500 करोड़ चिप्स का उत्&#x200d;पादन का लक्ष्य रखने के लिए बधाई दी। इस अवसर पर श्री अश्विनी वैष्णव ने कहा कि इस वर्ष के अंत तक भारत में पांच सेमीकंडक्टर संयंत्र चालू हो जाएंगे। उन्&#x200d;होंने कहा कि साणंद संयंत्र केवल 27 महीने में पूरा हो गया। श्री वैष्णव ने कहा कि इस संयंत्र में निर्मित चिप्स का उपयोग कारों, स्कूटरों और कई तरह के औद्योगिक कार्यों में किया जाएगा। उन्होंने कहा कि इस केन्&#x200d;द्र में निर्मित चिप्स जापान, अमरीका और यूरोप भेजी जाएंगी और इससे भारतीय प्रौद्योगिकी को दुनिया भर में पहचान मिलेगी। उन्होंने कहा कि प्रधानमंत्री के प्रयासों से ही यह सफलता प्राप्&#x200d;त हो सकी है। इससे पहले, साणंद पहुँचने पर प्रधानमंत्री ने हाई-टेक प्लांट का दौरा कर संयंत्र का निरीक्षण किया। प्रधानमंत्री ने इंजीनियरों और ऑपरेटरों से भी विस्तार से बातचीत की। सात हजार 500 करोड़ रुपये से अधिक के निवेश से निर्मित यह संयंत्र देश की प्रौद्योगिकी विनिर्माण यात्रा में महत्&#x200d;वपूर्ण पड़ाव है। पूरी तरह चालू होने पर, इस केंद्र की वार्षिक उत्पादन क्षमता पांच अरब सेमीकंडक्टर चिप्स हो जाएगी। इससे मेमोरी और स्टोरेज समाधानों की बढ़ती वैश्विक मांग पूरा करने में भी सहायता मिलेगी।",
@@ -1366,23 +1377,23 @@ window.VM_NEWS = {
         "pubDate": "2026-07-04T11:56:25+00:00",
         "link": "https://newsonair.gov.in/hi/union-minister-jitendra-singh-called-for-the-launch-of-a-national-mission-to-tackle-the-liver-epidemic-and-type-2-diabetes-in-india/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/jitendra.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "डीआरसी में संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सैनिकों को संयुक्त राष्ट्र पदक से सम्मानित किया गया",
-        "summary": "वैश्विक शांति अभियानों में भारत के दीर्घकालिक योगदान को एक महत्वपूर्ण मान्यता मिली है। डेमोक्रेटिक रिपब्लिक ऑफ़ कांगो (डीआरसी) के स्थायी परिचालन ठिकाने साके में आयोजित एक औपचारिक पदक परेड के दौरान संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सेना के कर्मियों को प्रतिष्ठित संयुक्त राष्ट्र पदक से सम्मानित किया गया। ये पदक कल आयोजित […]",
-        "article": "वैश्विक शांति अभियानों में भारत के दीर्घकालिक योगदान को एक महत्वपूर्ण मान्यता मिली है। डेमोक्रेटिक रिपब्लिक ऑफ़ कांगो (डीआरसी) के स्थायी परिचालन ठिकाने साके में आयोजित एक औपचारिक पदक परेड के दौरान संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सेना के कर्मियों को प्रतिष्ठित संयुक्त राष्ट्र पदक से सम्मानित किया गया। ये पदक कल आयोजित एक समारोह में प्रदान किए गए, जिसमें संयुक्त राष्ट्र शांति अभियानों के तहत भारतीय दल की व्यावसायिकता, परिचालन उत्कृष्टता और समर्पित सेवा को सम्मानित किया गया। इस कार्यक्रम में कांगो में संयुक्त राष्ट्र संगठन स्थिरीकरण मिशन &#8211; मोनुस्को के वरिष्ठ अधिकारी, बल मुख्यालय के प्रतिनिधि, सैन्य कमांडर और अन्य विशिष्ट अतिथि उपस्थित थे।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T11:29:43+00:00",
-        "link": "https://newsonair.gov.in/hi/651-indian-soldiers-serving-under-the-united-nations-in-the-drc-were-awarded-the-united-nations-medal/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMYPupiasAA_y9K.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "केंद्रीय मंत्री अश्विनी ने कहा- इस वर्ष के अंत तक भारत में पांच सेमीकंडक्टर संयंत्र चालू हो जाएंगे",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी ने आज गुजरात के साणंद में अत्याधुनिक सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर संयोजन और जांच केंद्र का उद्घाटन किया। कार्यक्रम में केंद्रीय मंत्री अश्विनी वैष्णव और गुजरात के मुख्यमंत्री भूपेंद्र पटेल भी उपस्थित थे। इस अवसर पर श्री अश्विनी वैष्णव ने कहा कि इस वर्ष के अंत तक भारत में पांच सेमीकंडक्टर […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी ने आज गुजरात के साणंद में अत्याधुनिक सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर संयोजन और जांच केंद्र का उद्घाटन किया। कार्यक्रम में केंद्रीय मंत्री अश्विनी वैष्णव और गुजरात के मुख्यमंत्री भूपेंद्र पटेल भी उपस्थित थे। इस अवसर पर श्री अश्विनी वैष्णव ने कहा कि इस वर्ष के अंत तक भारत में पांच सेमीकंडक्टर संयंत्र चालू हो जाएंगे। उन्&#x200d;होंने कहा कि साणंद संयंत्र केवल 27 महीने में पूरा हो गया। श्री वैष्णव ने कहा कि इस संयंत्र में निर्मित चिप्स का उपयोग कारों, स्कूटरों और कई तरह के औद्योगिक कार्यों में किया जाएगा। उन्होंने कहा कि इस केन्&#x200d;द्र में निर्मित चिप्स जापान, अमरीका और यूरोप भेजी जाएंगी और इससे भारतीय प्रौद्योगिकी को दुनिया भर में पहचान मिलेगी। उन्होंने कहा कि प्रधानमंत्री के प्रयासों से ही यह सफलता प्राप्&#x200d;त हो सकी है।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T16:57:04+00:00",
+        "link": "https://newsonair.gov.in/hi/union-minister-ashwini-said-that-five-semiconductor-plants-will-become-operational-in-india-by-the-end-of-this-year/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMWtSRPaQAANAgU.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "प्रधानमंत्री मोदी ने गुजरात में सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर असेंबली और टेस्ट सुविधा का शुभारंभ किया",
         "summary": "प्रधानमंत्री नरेंद्र मोदी ने आज गुजरात के साणंद में अत्याधुनिक सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर संयोजन और जांच केंद्र का उद्घाटन किया। कार्यक्रम में केंद्रीय मंत्री अश्विनी वैष्णव और गुजरात के मुख्यमंत्री भूपेंद्र पटेल भी उपस्थित थे। प्रधानमंत्री मोदी ने विशाल सभा को संबोधित करते हुए कहा कि यह विकास भारत की ज़बरदस्त इलेक्ट्रॉनिक्स क्रांति […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी ने आज गुजरात के साणंद में अत्याधुनिक सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर संयोजन और जांच केंद्र का उद्घाटन किया। कार्यक्रम में केंद्रीय मंत्री अश्विनी वैष्णव और गुजरात के मुख्यमंत्री भूपेंद्र पटेल भी उपस्थित थे। प्रधानमंत्री मोदी ने विशाल सभा को संबोधित करते हुए कहा कि यह विकास भारत की ज़बरदस्त इलेक्ट्रॉनिक्स क्रांति का अगला कदम है, जिसने देश को पहले ही दुनिया का दूसरा सबसे बड़ा मोबाइल फ़ोन निर्माता बना दिया है। उन्होंने कहा कि साणंद में सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर संयोजन और जांच केंद्र घरेलू चिप निर्माण व्&#x200d;यवस्&#x200d;था मज़बूत होने के साथ तकनीकी आत्मनिर्भरता को भी बढ़ावा देगा और वैश्विक सेमीकंडक्टर मूल्&#x200d;य श्रृंखला में भारत की स्थिति में सुधार होगा। प्रधानमंत्री ने कहा कि इस प्रमुख परियोजना के साथ, साणंद एक उभरते हुए वैश्विक सेमीकंडक्टर समूह के रूप में सामने आएगा। उन्होंने कहा कि भारत प्रमुख और उच्&#x200d;च प्रौद्योगिकी खनिजों के मामले में आत्मनिर्भर बनने की दिशा में भी तेज़ी से काम कर रहा है। श्री मोदी ने कहा कि इसके साथ ही पूरी घरेलू आपूर्ति श्रृंखला मज़बूत करने पर ध्यान दिया जा रहा है। प्रधानमंत्री ने इसे &#8216;विकसित भारत&#8217; की रूपरेखा और मेक इन इंडिया का दूसरा कदम बताया। प्रधानमंत्री ने संयंत्र के कर्मचारियों की प्रशंसा करते हुए इस परिसर को मिनी इंडिया बताया। उन्होंने कहा कि यह केंद्र देश के युवाओं को आर्टिफिशियल इंटेलिजेंस और अगली पीढ़ी की प्रौद्योगिकी में प्रगति के बड़े अवसर देगा। प्रधानमंत्री ने कहा कि साणंद संयंत्र में प्रत्&#x200d;येक वर्ष 20 करोड़ चिप्स तैयार होंगी। उन्होंने इस संयंत्र में प्रत्&#x200d;येक वर्ष 500 करोड़ चिप्स का उत्&#x200d;पादन का लक्ष्य रखने के लिए बधाई दी। इस अवसर पर श्री अश्विनी वैष्णव ने कहा कि इस वर्ष के अंत तक भारत में पांच सेमीकंडक्टर संयंत्र चालू हो जाएंगे। उन्&#x200d;होंने कहा कि साणंद संयंत्र केवल 27 महीने में पूरा हो गया। श्री वैष्णव ने कहा कि इस संयंत्र में निर्मित चिप्स का उपयोग कारों, स्कूटरों और कई तरह के औद्योगिक कार्यों में किया जाएगा। उन्होंने कहा कि इस केन्&#x200d;द्र में निर्मित चिप्स जापान, अमरीका और यूरोप भेजी जाएंगी और इससे भारतीय प्रौद्योगिकी को दुनिया भर में पहचान मिलेगी। उन्होंने कहा कि प्रधानमंत्री के प्रयासों से ही यह सफलता प्राप्&#x200d;त हो सकी है। इससे पहले, साणंद पहुँचने पर प्रधानमंत्री ने हाई-टेक प्लांट का दौरा कर संयंत्र का निरीक्षण किया। प्रधानमंत्री ने इंजीनियरों और ऑपरेटरों से भी विस्तार से बातचीत की। सात हजार 500 करोड़ रुपये से अधिक के निवेश से निर्मित यह संयंत्र देश की प्रौद्योगिकी विनिर्माण यात्रा में महत्&#x200d;वपूर्ण पड़ाव है। पूरी तरह चालू होने पर, इस केंद्र की वार्षिक उत्पादन क्षमता पांच अरब सेमीकंडक्टर चिप्स हो जाएगी। इससे मेमोरी और स्टोरेज समाधानों की बढ़ती वैश्विक मांग पूरा करने में भी सहायता मिलेगी।",
@@ -1478,17 +1489,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-04T11:56:25+00:00",
         "link": "https://newsonair.gov.in/hi/union-minister-jitendra-singh-called-for-the-launch-of-a-national-mission-to-tackle-the-liver-epidemic-and-type-2-diabetes-in-india/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/jitendra.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "डीआरसी में संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सैनिकों को संयुक्त राष्ट्र पदक से सम्मानित किया गया",
-        "summary": "वैश्विक शांति अभियानों में भारत के दीर्घकालिक योगदान को एक महत्वपूर्ण मान्यता मिली है। डेमोक्रेटिक रिपब्लिक ऑफ़ कांगो (डीआरसी) के स्थायी परिचालन ठिकाने साके में आयोजित एक औपचारिक पदक परेड के दौरान संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सेना के कर्मियों को प्रतिष्ठित संयुक्त राष्ट्र पदक से सम्मानित किया गया। ये पदक कल आयोजित […]",
-        "article": "वैश्विक शांति अभियानों में भारत के दीर्घकालिक योगदान को एक महत्वपूर्ण मान्यता मिली है। डेमोक्रेटिक रिपब्लिक ऑफ़ कांगो (डीआरसी) के स्थायी परिचालन ठिकाने साके में आयोजित एक औपचारिक पदक परेड के दौरान संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सेना के कर्मियों को प्रतिष्ठित संयुक्त राष्ट्र पदक से सम्मानित किया गया। ये पदक कल आयोजित एक समारोह में प्रदान किए गए, जिसमें संयुक्त राष्ट्र शांति अभियानों के तहत भारतीय दल की व्यावसायिकता, परिचालन उत्कृष्टता और समर्पित सेवा को सम्मानित किया गया। इस कार्यक्रम में कांगो में संयुक्त राष्ट्र संगठन स्थिरीकरण मिशन &#8211; मोनुस्को के वरिष्ठ अधिकारी, बल मुख्यालय के प्रतिनिधि, सैन्य कमांडर और अन्य विशिष्ट अतिथि उपस्थित थे।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T11:29:43+00:00",
-        "link": "https://newsonair.gov.in/hi/651-indian-soldiers-serving-under-the-united-nations-in-the-drc-were-awarded-the-united-nations-medal/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMYPupiasAA_y9K.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
