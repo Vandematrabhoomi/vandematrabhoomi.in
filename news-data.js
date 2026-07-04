@@ -1,8 +1,107 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-04T09:14:20.515036",
+  "generated": "2026-07-04T12:48:26.740935",
   "en": {
     "top": [
+      {
+        "title": "PM Modi Inaugurates ₹7,500 Crore Semiconductor OSAT Facility in Gujarat",
+        "summary": "In a major boost to the India Semiconductor Mission, Prime Minister Narendra Modi inaugurated the CG Semi Outsourced Semiconductor Assembly and Test (OSAT) facility at Sanand, in Gujarat, this evening. Developed under the India Semiconductor Mission with an investment of over 7,500 crore rupees, the facility marks a major milestone in the country&#8217;s tech manufacturing […]",
+        "article": "In a major boost to the India Semiconductor Mission, Prime Minister Narendra Modi inaugurated the CG Semi Outsourced Semiconductor Assembly and Test (OSAT) facility at Sanand, in Gujarat, this evening. Developed under the India Semiconductor Mission with an investment of over 7,500 crore rupees, the facility marks a major milestone in the country&#8217;s tech manufacturing journey. Immediately upon reaching Sanand, the Prime Minister toured the high-tech plant and inspected the production process. The PM also interacted closely with the engineers and operators working inside the facility. Once fully ramped up, the facility will have an annual production capacity of up to 5 billion semiconductor chips. It will also help address the growing global demand for memory and storage solutions. On the inauguration of CG Semi Outsourced Semiconductor Assembly and Test facility, Union Minister for Electronics and Information Technology, Ashwini Vaishnaw, said, the chips manufactured at this plant will be used in cars, scooters, and various industrial applications. He said that most significantly chips made in India, at this facility, will be exported to Japan, America, and Europe. Indian technology will earn global acclaim. He said, the efforts of Prime Minister have made this success possible.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:37:06+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-inaugurates-%e2%82%b97500-crore-semiconductor-osat-facility-in-gujarat/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-Photoroom.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Drone Attack Hits St Petersburg Oil Terminal; Russian Air Defences Down 72 Ukrainian Drones",
+        "summary": "A Ukrainian drone attack struck a Russian oil terminal in St Petersburg today, with Russian authorities claiming that air defence systems intercepted dozens of drones over the city and surrounding areas. St Petersburg Governor Alexander Beglov said the attack targeted the Kirovsky district on the Baltic Sea. He added that Russian air defences shot down […]",
+        "article": "A Ukrainian drone attack struck a Russian oil terminal in St Petersburg today, with Russian authorities claiming that air defence systems intercepted dozens of drones over the city and surrounding areas. St Petersburg Governor Alexander Beglov said the attack targeted the Kirovsky district on the Baltic Sea. He added that Russian air defences shot down 72 Ukrainian drones over the country&#8217;s second-largest city and the neighbouring region. Ukrainian President Volodymyr Zelenskyy described the operation as part of Ukraine&#8217;s long-range sanctions against Russia. He said, Ukrainian forces had targeted the port&#8217;s oil infrastructure as well as a military facility on Kronstadt Island, located off the coast of St Petersburg. Meanwhile, the Russian-occupied Crimean Peninsula has also suffered from heavy strikes, causing local authorities to suspend gasoline sales to civilians. Moscow-installed Governor Sergei Aksyonov said Ukrainian attack today killed one person and injured two others, including a 10-year-old child.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:19:11+00:00",
+        "link": "https://newsonair.gov.in/drone-attack-hits-st-petersburg-oil-terminal-russian-air-defences-down-72-ukrainian-drones/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2023-07-03T124858Z_1404989807_RC2OV1A1GIZU_RTRMADP_3_POLAND-GERMANY-scaled-e1758055667215-1024x734-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India Overcame Biggest Energy Crisis of the Centuary: PM Modi",
+        "summary": "Prime Minister Narendra Modi today inaugurated and laid the foundation stone for development projects worth over 1.05 lakh crore rupees in Rajasthan, marking a major push to infrastructure, energy, transport and employment generation in the state. During his day-long visit, the Prime Minister inaugurated the new terminal building at Jodhpur Airport. Thereafter, he dedicated the […]",
+        "article": "Prime Minister Narendra Modi today inaugurated and laid the foundation stone for development projects worth over 1.05 lakh crore rupees in Rajasthan, marking a major push to infrastructure, energy, transport and employment generation in the state. During his day-long visit, the Prime Minister inaugurated the new terminal building at Jodhpur Airport. Thereafter, he dedicated the country&#8217;s most modern Greenfield Refinery-cum-Petrochemical Complex to the nation in Pachpadra in Balotara district. He also inspected the refinery&#8217;s state-of-the-art control room, interacted with engineers and technical experts, flagged off fuel tankers, and virtually laid the foundation stone for Jaipur Metro Phase-II. A greenfield refinery is an industrial processing plant for oil, gas, or minerals built from scratch on undeveloped clean land. Addressing the programme, the Prime Minister said the conflict in West Asia had triggered the biggest energy crisis of the 21st century, but India successfully overcame the challenge through timely decisions, effective diplomacy and prudent management of national resources. He said while many countries struggled with fuel shortages, India accurately assessed the crisis, formulated an effective strategy and used its diplomatic strength to safeguard the country&#8217;s energy security. Mr. Modi said India&#8217;s friendly relations with countries across the world played a crucial role during the crisis. He said India, which earlier imported energy from around 25 to 26 countries, expanded its sourcing to nearly 40 countries, ensuring uninterrupted fuel supplies despite global disruptions. He said this demonstrated that the interests of the nation and its citizens remain the government&#8217;s highest priority. The Prime Minister also noted that India has significantly enhanced its refining capacity and has emerged as the world&#8217;s fourth-largest refining nation. The Prime Minister said the government prevented a steep rise in domestic cooking gas prices despite global turmoil. He said the crisis could have pushed the price of an LPG cylinder to nearly 2,000 rupees, but effective intervention ensured that consumers continued to receive cylinders at around 950 rupees. He added that between April and June, oil marketing companies incurred losses of nearly 75,000 crore rupees on petrol and diesel, a burden borne by the government to protect citizens from the impact of soaring international fuel prices. Mr. Modi said the government&#8217;s efforts during the energy crisis would one day be recorded in history. He said while some people were busy spreading rumours and creating panic, officials worked round the clock behind the scenes with patience, hard work and sensitive policy decisions to ensure uninterrupted energy supplies. He thanked the people of the country for their cooperation during the difficult period and criticised those who attempted to politicise the crisis instead of supporting the nation. Referring to the global fertiliser crisis caused by the conflicts in West Asia and Ukraine, he said while urea prices in several countries rose to nearly 3,000 rupees per bag, the government ensured that Indian farmers continue to receive urea at about 300 rupees per bag, protecting them from global price shocks. Referring to the Pachpadra Refinery, the Prime Minister described it as a landmark project in India&#8217;s journey towards becoming a developed and self-reliant nation. He said the refinery would …",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:10:31+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-to-be-on-day-long-visit-to-rajasthan-and-gujarat-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260704299f-1-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "MoS Dr Jitendra Singh Calls for Mission-Mode Response to Tackle Liver Disease and Type-2 Diabetes",
+        "summary": "Science and Technology Minister Dr Jitendra Singh today called for a mission-mode national response driven by preventive healthcare and mass public awareness to tackle India&#8217;s liver epidemic and the sharp rise in Type-2 diabetes. Addressing the 3rd anniversary of the Liver and Metabolic Disease Network in New Delhi, Dr Singh said that these diseases are […]",
+        "article": "Science and Technology Minister Dr Jitendra Singh today called for a mission-mode national response driven by preventive healthcare and mass public awareness to tackle India&#8217;s liver epidemic and the sharp rise in Type-2 diabetes. Addressing the 3rd anniversary of the Liver and Metabolic Disease Network in New Delhi, Dr Singh said that these diseases are now appearing at much younger ages than before, making the challenge far more than a medical issue. Referring to India’s metabolic profile, the Minister said that the country&#8217;s genetic predisposition, higher prevalence of central obesity and distinct Indian phenotype make its population particularly vulnerable to diabetes, fatty liver and cardiovascular diseases. Calling for greater synergy across scientific institutions, Dr Singh said that the country&#8217;s expanding biotechnology ecosystem, Genome Mission and large-scale gene sequencing programme offer unprecedented opportunities to understand India&#8217;s unique disease patterns. He added that scientific progress alone cannot overcome the challenge unless it is accompanied by widespread public awareness and behavioural change.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:06:02+00:00",
+        "link": "https://newsonair.gov.in/mos-dr-jitendra-singh-calls-for-mission-mode-response-to-tackle-liver-disease-and-type-2-diabetes/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Jitendra-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Industry Experts Say Ethanol Blending Programme Implemented Through Scientific, Phased Approach",
+        "summary": "Industry experts have said that ethanol blending programme has not been introduced overnight but has been implemented through a measured, step-by-step and scientifically driven process. Addressing a press conference in New Delhi, Former Chairman and Managing Director of Engineers India Limited Vartika Shukla said that ethanol blending programme was placed in the public domain for […]",
+        "article": "Industry experts have said that ethanol blending programme has not been introduced overnight but has been implemented through a measured, step-by-step and scientifically driven process. Addressing a press conference in New Delhi, Former Chairman and Managing Director of Engineers India Limited Vartika Shukla said that ethanol blending programme was placed in the public domain for structured discussions and stakeholder consultations in 2018. She added that the initiative is backed by scientific evidence, extensive testing by automobile manufacturers, the Automotive Research Association of India and the Society of Indian Automobile Manufacturers. Speaking on the occasion, Country Head and Executive Vice President of Toyota Kirloskar Motors Vikram Gulati said that ethanol is a clean fuel which offers good drivability and acceleration. He added that in an era when people are facing the issue of climate change, this is a zero-carbon fuel derived from plants.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:55:44+00:00",
+        "link": "https://newsonair.gov.in/industry-experts-say-ethanol-blending-programme-implemented-through-scientific-phased-approach/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-04-172502.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Monsoon Session of Parliament to Be Held from July 20 to August 13",
+        "summary": "The Monsoon Session of the Parliament will commence on 20th of this month. It will continue till 13th of August. Parliamentary Affairs Minister Kiren Rijiju today informed that President Droupadi Murmu has approved the proposal of the Government to convene the Monsoon Session of Parliament from 20th July. In a social media post, Mr Rijiju […]",
+        "article": "The Monsoon Session of the Parliament will commence on 20th of this month. It will continue till 13th of August. Parliamentary Affairs Minister Kiren Rijiju today informed that President Droupadi Murmu has approved the proposal of the Government to convene the Monsoon Session of Parliament from 20th July. In a social media post, Mr Rijiju said, the session will focus on meaningful debate, discussion and decisions on issues of national importance.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:18:04+00:00",
+        "link": "https://newsonair.gov.in/monsoon-session-of-parliament-to-be-held-from-july-20-to-august-13/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/Parliament-Passes-Bill-to-Readjust-ST-Representation-in-Goa-Assembly-2-4-1-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "651 Indian Army Personnel Awarded UN Medal for Peacekeeping Mission in DR Congo",
+        "summary": "India&#8217;s longstanding contribution to global peacekeeping mission received a significant recognition as 651 Indian Army personnel serving under the United Nations have been awarded the prestigious United Nations Medal during a ceremonial Medal Parade held at the Permanent Operating Base Sake in the Democratic Republic of the Congo (DRC). The medals were presented during a […]",
+        "article": "India&#8217;s longstanding contribution to global peacekeeping mission received a significant recognition as 651 Indian Army personnel serving under the United Nations have been awarded the prestigious United Nations Medal during a ceremonial Medal Parade held at the Permanent Operating Base Sake in the Democratic Republic of the Congo (DRC). The medals were presented during a ceremony held yesterday, honouring the Indian contingent for its professionalism, operational excellence and dedicated service under the United Nations peacekeeping mission. The event was attended by senior officials of the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO), representatives from the Force Headquarters, military commanders and other distinguished guests.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T10:22:32+00:00",
+        "link": "https://newsonair.gov.in/651-indian-army-personnel-awarded-un-medal-for-peacekeeping-mission-in-dr-congo/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMYPtLqbIAAUApa.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi Highlights Government’s Efforts to Strengthen Consumer Justice Through Digital Reforms",
+        "summary": "Prime Minister Narendra Modi today highlighted the government&#8217;s efforts to strengthen consumer justice through digital reforms. Sharing an article written by Union Minister Pralhad Joshi, Mr Modi said that following extensive consultations with stakeholders, e-Jagriti has been refined, making consumer justice one of the key sectors undergoing structural digital transformation. In an article",
+        "article": "Prime Minister Narendra Modi today highlighted the government&#8217;s efforts to strengthen consumer justice through digital reforms. Sharing an article written by Union Minister Pralhad Joshi, Mr Modi said that following extensive consultations with stakeholders, e-Jagriti has been refined, making consumer justice one of the key sectors undergoing structural digital transformation. In an article on the e-Jagriti platform, Mr. Joshi said, it is a transformative initiative aimed at modernising India&#8217;s consumer justice system by digitising the entire lifecycle of a consumer complaint. He said, the e -Jagriti platform makes the system faster, more transparent and more accessible by leveraging digital technologies, artificial intelligence and hybrid hearings, while bridging gaps that earlier discouraged consumers from seeking redressal. The Union Minister said, the citizen-centric design of the portal, continuous improvement based on stakeholder feedback and its nationwide implementation reflect the government&#8217;s commitment to responsive governance. He added that as India&#8217;s digital economy continues to expand, an efficient consumer dispute resolution mechanism will play a vital role in strengthening public trust, promoting responsible business practices and ensuring that every consumer can access justice with ease and confidence.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T10:18:31+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-highlights-governments-efforts-to-strengthen-consumer-justice-through-digital-reforms/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260623392f-e1782227130311.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Three young Baloch reportedly missing following separate overnight operations in Balochistan",
+        "summary": "Three young Baloch men have reportedly gone missing following separate overnight operations in Pakistan&#8217;s Balochistan province, according to local media and rights groups. The incidents were reported in the Kech and Gwadar districts, where families allege that security personnel detained the men and took them to undisclosed locations without providing any legal explanation. Human rights […]",
+        "article": "Three young Baloch men have reportedly gone missing following separate overnight operations in Pakistan&#8217;s Balochistan province, according to local media and rights groups. The incidents were reported in the Kech and Gwadar districts, where families allege that security personnel detained the men and took them to undisclosed locations without providing any legal explanation. Human rights group PAANK said one of the missing persons is a student who was allegedly detained in Gwadar on July 1. The organisation has expressed concern over his safety. The reported cases add to longstanding allegations of enforced disappearances in Balochistan, which Pakistan&#8217;s security agencies have previously denied. &nbsp;",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T09:14:52+00:00",
+        "link": "https://newsonair.gov.in/three-young-baloch-reportedly-missing-following-separate-overnight-operations-in-balochistan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Bilateral Investment Agreement between India and Israel comes into force today",
         "summary": "The Bilateral Investment Agreement (BIA) between India and Israel came into force today. The agreement was signed in September last year in New Delhi. The Finance Ministry said that the BIA is a landmark step towards strengthening bilateral economic relations and ensuring a secure and predictable investment climate. It said that the BIA is robust […]",
@@ -34,110 +133,77 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/union-minister-piyush-goyal-addresses-17th-toy-biz-international-b2b-expo-in-new-delhi/",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
         "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi dedicates India’s first greenfield integrated refinery-cum-petrochemical complex in Balotra; Also Inaugurates New Terminal Building of Jodhpur Airport",
-        "summary": "Prime Minister Narendra Modi dedicated, inaugurated, and laid the foundation stone for development projects worth approximately 1.06 lakh crore rupees at Balotra, Rajasthan. These projects spanned multiple sectors, including petrochemicals, urban transport, railways, roads, renewable energy, and power transmission. The Prime Minister dedicated India&#8217;s first greenfield integrated refinery-cum",
-        "article": "Prime Minister Narendra Modi dedicated, inaugurated, and laid the foundation stone for development projects worth approximately 1.06 lakh crore rupees at Balotra, Rajasthan. These projects spanned multiple sectors, including petrochemicals, urban transport, railways, roads, renewable energy, and power transmission. The Prime Minister dedicated India&#8217;s first greenfield integrated refinery-cum-petrochemical complex to the nation at Pachpadra in Balotra, marking a landmark achievement in the country&#8217;s energy and petrochemical sector. Developed as a joint venture between Hindustan Petroleum Corporation Limited and the Government of Rajasthan, the 9 Million Metric Tonnes Per Annum (MMTPA) Greenfield Refinery-cum-Petrochemical Complex was established with an investment of over 79,450 crore rupees. Prime Minister Modi also laid the foundation stone for Phase 2 of the Jaipur Metro Rail Project, which has a total cost of over 13 thousand crore rupees. Under Phase 2, a 41-km north-south metro corridor will be developed from Prahladpura to Todi Mod, connecting the industrial and residential areas of Sitapura and Vishwakarma Industrial Area (VKI) through 36 stations. The Prime Minister further dedicated to the nation the Churu-Sadulpur and Churu-Ratangarh rail doubling projects and the four-laning of National Highway-125A, Jodhpur Ring Road Section-2. He also dedicated to the nation SJVN Limited&#8217;s 1,000 MW Bikaner Solar Energy Project and inaugurated the transmission line constructed at a cost of over 1,900 crore rupees for power evacuation from the Rajasthan Renewable Energy Zone (REZ). He also laid the foundation stone for the 530 km-long power transmission system for the Rajasthan REZ. Mr Modi also handed over appointment letters to around 54,000 youth recruited across various departments of the Government of Rajasthan. Speaking on the occasion, the Prime Minister said that no matter how big or unexpected the challenge may be, the New India neither retreats from its resolve nor slows down its pace. He said that the inauguration of the new airport terminal at Jodhpur today marks another significant step in the country&#8217;s development journey. The Prime Minister expressed confidence that the new terminal will give a major boost to tourism, trade and employment opportunities across the Marwar region. Union Minister for Petroleum and Natural Gas Hardeep Singh Puri has said that India&#8217;s refining capacity is expected to increase to 320 million metric tonnes per annum by 2030. He described the expansion as a significant step towards strengthening the country&#8217;s energy self-reliance. The Minister said that two new refineries have been dedicated to the nation over the past ten years, even as refining capacity has declined in several parts of the world. He noted that despite disruptions in the global energy supply chain, fuel availability in the country remained unaffected and not a single petrol pump was forced to shut down. Mr Puri said that the Rajasthan Refinery will boost industrial and economic activities in the region. Describing the project as a major milestone in the journey towards an Atmanirbhar Bharat, he said it will reinforce the nation&#8217;s commitment to a secure and prosperous future. Earlier, the Prime Minister inaugurated the New Terminal Building of Jodhpur Airport in Rajasthan. The project has been developed at a total cost of 480 crore rupees. Spread over an area of more than 23 thousand square …",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:35:31+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-to-be-on-day-long-visit-to-rajasthan-and-gujarat-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11-4.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IAEA says Ukraine’s Zaporizhzhia nuclear plant loses off-site power for 21st time",
-        "summary": "The International Atomic Energy Agency (IAEA) has said that the Zaporizhzhia Nuclear Power Plant (ZNPP) in Ukraine has lost its off-site power supply for the 21st time since the start of the Russia-Ukraine conflict. The incident has raised concerns over nuclear safety. The IAEA said the outage was triggered by military activity, forcing the plant&#8217;s […]",
-        "article": "The International Atomic Energy Agency (IAEA) has said that the Zaporizhzhia Nuclear Power Plant (ZNPP) in Ukraine has lost its off-site power supply for the 21st time since the start of the Russia-Ukraine conflict. The incident has raised concerns over nuclear safety. The IAEA said the outage was triggered by military activity, forcing the plant&#8217;s emergency diesel generators to automatically power reactor cooling systems and other critical safety functions. IAEA Director General Rafael Grossi warned that the incident highlights the fragility of nuclear safety at the plant and called for maximum military restraint to prevent a nuclear accident. The Zaporizhzhia plant, one of Europe&#8217;s largest nuclear facilities, has faced repeated power disruptions since the conflict escalated.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:07:52+00:00",
-        "link": "https://newsonair.gov.in/iaea-says-ukraines-zaporizhzhia-nuclear-plant-loses-off-site-power-for-21st-time/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ie.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Centre issues notice to Telegram messaging app over widespread piracy reports, asks to submit report within 15 days",
-        "summary": "The Government has issued a notice to Telegram over widespread piracy reports. According to the official sources, the government has directed Telegram to take immediate measures against pirated films and Over The Top (OTT) content. Sources further said that the platform has been asked to submit the action taken report within 15 days. The move […]",
-        "article": "The Government has issued a notice to Telegram over widespread piracy reports. According to the official sources, the government has directed Telegram to take immediate measures against pirated films and Over The Top (OTT) content. Sources further said that the platform has been asked to submit the action taken report within 15 days. The move aims to protect India’s creator economy, film industry, broadcasters, OTT platforms, producers and distributors.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:05:24+00:00",
-        "link": "https://newsonair.gov.in/centre-issues-notice-to-telegram-over-widespread-piracy-reports-asks-to-submit-report-within-15-days/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Western_Union_Telegram_RCC_Eisenhower_Sept_26_1955.jpg/1280px-Western_Union_Telegram_RCC_Eisenhower_Sept_26_1955.jpg",
-        "image_credit": "Wikipedia – Telegram (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Narendra Modi congratulates Keiko Fujimori on Peru Presidential poll victory",
-        "summary": "Prime Minister Narendra Modi has congratulated Keiko Fujimori on her victory in the Peruvian Presidential elections. In a social media post, Mr Modi said that India deeply values its close friendship with Peru and remains committed to strengthening the bilateral partnership between the two nations across diverse sectors. The Prime Minister wished Ms Fujimori a […]",
-        "article": "Prime Minister Narendra Modi has congratulated Keiko Fujimori on her victory in the Peruvian Presidential elections. In a social media post, Mr Modi said that India deeply values its close friendship with Peru and remains committed to strengthening the bilateral partnership between the two nations across diverse sectors. The Prime Minister wished Ms Fujimori a successful tenure and said he looks forward to working closely with her to further deepen the relationship between India and Peru.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T07:23:47+00:00",
-        "link": "https://newsonair.gov.in/pm-narendra-modi-congratulates-keiko-fujimori-on-peru-presidential-poll-victory/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/peru2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Confirmed Ebola cases in Congo rise to 1,502",
-        "summary": "The Democratic Republic of the Congo has reported 1,502 confirmed Ebola cases, including 473 deaths, as the World Health Organisation warned that the outbreak remains serious. Health authorities say 628 patients are currently in isolation or receiving treatment, while 229 people have recovered. The outbreak continues to spread in the eastern provinces of Ituri and […]",
-        "article": "The Democratic Republic of the Congo has reported 1,502 confirmed Ebola cases, including 473 deaths, as the World Health Organisation warned that the outbreak remains serious. Health authorities say 628 patients are currently in isolation or receiving treatment, while 229 people have recovered. The outbreak continues to spread in the eastern provinces of Ituri and North Kivu. The WHO says insecurity and armed conflict in affected areas are hampering case detection and contact tracing. In neighbouring Uganda, authorities have confirmed 20 Ebola cases, including 15 imported infections. Health officials say no community transmission has been detected, and Uganda and the DRC have strengthened cross-border surveillance and response efforts. Meanwhile, a clinical trial of two possible Ebola treatments has begun in the Democratic Republic of the Congo. The World Health Organisation&#8217;s Director-General, Tedros Adhanom Ghebreyesus, announced that the first participant had been enrolled in the Platform Adaptive Randomized Trial for New and Repurposed Filovirus Treatments (PARTNERS), which will test treatments for the Bundibugyo strain of the virus. The current outbreak of Ebola in DR Congo began in May, though transmission had been going undetected for some time.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T07:09:47+00:00",
-        "link": "https://newsonair.gov.in/confirmed-ebola-cases-in-congo-rise-to-1502/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ebo.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "United States celebrates 250th Independence Day today",
-        "summary": "The United States is today marking the 250th anniversary of the Declaration of Independence. The celebration of the Fourth of July honours the signing of the American Declaration of Independence by the country&#8217;s founding fathers on this day in 1776, when the 13 American colonies formally declared their independence from British rule. The historic milestone, […]",
-        "article": "The United States is today marking the 250th anniversary of the Declaration of Independence. The celebration of the Fourth of July honours the signing of the American Declaration of Independence by the country&#8217;s founding fathers on this day in 1776, when the 13 American colonies formally declared their independence from British rule. The historic milestone, known as the Semiquincentennial or America 250, will be commemorated with nationwide celebrations, including parades, military flyovers, concerts, historical re-enactments and fireworks displays. Major events are lined up in Washington DC and Philadelphia, where the Declaration was adopted. Observed as a federal holiday, Independence Day is among the United States&#8217; most significant national celebrations, with Fireworks becoming one of its defining traditions. Major cities will be hosting elaborate fireworks displays that attract thousands of spectators, while smaller communities organise local events. On the occasion, President Donald Trump announced pardons for 11 people, including a former business partner of Washington lobbyist Jack Abramoff and nine individuals convicted in cases related to bypassing vehicle emissions control systems.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T05:41:30+00:00",
-        "link": "https://newsonair.gov.in/united-states-celebrates-250th-independence-day-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/us.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Narendra Modi will embark on 6 day visit to Indonesia, Australia & New Zealand from July 6",
-        "summary": "Prime Minister Narendra Modi will be on a six-day visit to Indonesia, Australia and New Zealand from Monday. Briefing the media in New Delhi, Secretary (East) in the Ministry of External Affairs, Rudrendra Tandon, informed that Mr Modi will be in Indonesia from 6th to 8th of this month. This will be the Prime […]",
-        "article": "Prime Minister Narendra Modi will be on a six-day visit to Indonesia, Australia and New Zealand from Monday. Briefing the media in New Delhi, Secretary (East) in the Ministry of External Affairs, Rudrendra Tandon, informed that Mr Modi will be in Indonesia from 6th to 8th of this month. This will be the Prime Minister’s fourth visit to Indonesia and his first bilateral visit since the elevation of India-Indonesia ties to the level of Comprehensive Strategic Partnership in May 2018. During the visit, the Prime Minister will hold bilateral discussions with Indonesian President Prabowo Subianto and review the progress made in the partnership. His main engagements will be in Jakarta, but the Prime Minister will also visit the cultural and historic city of Yogyakarta. In Jakarta, the Prime Minister will address a large gathering of the Indian Diaspora. Secretary (East) said that in Yogyakarta, Mr Modi will go to the Prambanan Temple complex. He said India and Indonesia will be collaborating on the conservation work there. He said the visit of the Prime Minister to Indonesia will very much be a continuation of the discussions on various bilateral tracks of cooperation that began when President Prabowo visited India as the Guest of Honour for the 2025 Republic Day celebrations. The Secretary (East) said, Indonesia has always played an important role in the security and stability of the Malacca Strait maritime zone. Mr Tandon said, &#8220;This is a very important maritime zone for India, as it represents one of the country&#8217;s most important sea lanes of communication. He said it is significant not only for India as an Indian Ocean nation but also for the global economy as well. The Secretary (East) said the second leg of the visit will be to Australia from 8th to 10th of this month. He said Mr Modi will reach Melbourne, where he will participate in the third India-Australia Annual Summit with Australian Prime Minister Anthony Albanese. Mr Tandon said the conversations will cover emerging areas of the bilateral relations, in particular the critical minerals, the cybersecurity domain, supply chain resilience, emerging technologies, and others. During his visit, the Prime Minister will also participate in the India-Australia CEOs Forum, where he will address a gathering of top business leaders from both countries. Prime Minister will also address a large gathering of the Indian Diaspora, who constitute a strong pillar of the India-Australia relationship. On the third and last leg of his three-nation visit, Mr Modi will be in New Zealand from 10th to 11th July. Mr Tandon said Prime Minister Narendra Modi will hold talks with his New Zealand counterpart, Christopher Luxon. Both leaders will review the entire gamut of the bilateral relationship, which has seen significant progress in the last two years, especially in the areas of trade and commerce and defence. The Secretary (East) said the visit to New Zealand will be the first visit by the Indian Prime Minister in 40 years. Prime Minister will also interact with prominent business and sports personalities. In a reflection of the strong people-to-people ties that exist between India and New Zealand, the Prime Minister will address a large gathering of the Indian Diaspora during the visit.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T05:28:09+00:00",
-        "link": "https://newsonair.gov.in/pm-narendra-modi-will-embark-on-6-day-visit-to-indonesia-australia-new-zealand-from-july-6/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/PM-Modi-to-visit-France-and-the-US-from-Feb-10-1-1-1-2-1-1-2-1-1-1-1-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "VP Radhakrishnan, Union Minister Amit Shah extend greetings on occasion of International Day of Cooperatives",
-        "summary": "Vice President C P Radhakrishnan and Union Minister of Cooperation Amit Shah have extended their greetings on the occasion of the International Day of Cooperatives today. In a social media post, the Vice President said that, rooted in the country&#8217;s civilisational ethos of Sahakar, cooperatives have been a powerful force in empowering farmers, women, and […]",
-        "article": "Vice President C P Radhakrishnan and Union Minister of Cooperation Amit Shah have extended their greetings on the occasion of the International Day of Cooperatives today. In a social media post, the Vice President said that, rooted in the country&#8217;s civilisational ethos of Sahakar, cooperatives have been a powerful force in empowering farmers, women, and small entrepreneurs, strengthening communities and fostering inclusive growth. He said that from their beginnings in the pre-Independence era, cooperatives have evolved into a vital pillar of nation-building, embodying the spirit of Sahakar Se Samriddhi and contributing to the vision of Viksit Bharat @ 2047. Mr Shah said that cooperation is the foundation of India&#8217;s culture, collective strength, and self-reliance. He said that under the leadership of Prime Minister Narendra Modi, the cooperative sector has gained fresh momentum and expanded significantly. The Minister added that initiatives such as the Cooperative University, modern training centres, and the empowerment of cooperative institutions in emerging sectors are strengthening the resolve of Sahakar Se Samriddhi by empowering farmers, women, small entrepreneurs, and workers.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T05:06:37+00:00",
-        "link": "https://newsonair.gov.in/vp-radhakrishnan-union-minister-amit-shah-extend-greetings-on-occasion-of-international-day-of-cooperatives/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/IDC.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "6 day state funeral of Iran’s former Supreme Leader Ayatollah Seyyed Ali Khamenei to begin in Tehran today",
-        "summary": "In Iran, preparations are underway for the six-day state funeral of the former Supreme Leader, Grand Ayatollah Seyyed Ali Khamenei, which will begin in Tehran today. The authorities expect millions of mourners to attend the ceremonies, with extensive security and traffic arrangements in place. Senior Iranian leaders, military commanders and foreign dignitaries paid […]",
-        "article": "In Iran, preparations are underway for the six-day state funeral of the former Supreme Leader, Grand Ayatollah Seyyed Ali Khamenei, which will begin in Tehran today. The authorities expect millions of mourners to attend the ceremonies, with extensive security and traffic arrangements in place. Senior Iranian leaders, military commanders and foreign dignitaries paid their respects to Ayatollah Ali Khamenei at Tehran&#8217;s Grand Mosalla. Among those present were President Masoud Pezeshkian, Parliament Speaker Mohammad Bagher Ghalibaf, Foreign Minister Abbas Araghchi and Revolutionary Guards commander Ahmad Vahidi. India was represented by the Governor of Bihar, Lt General Syed Ata Hasnain and the Minister of State for External Affairs, Pabitra Margherita. In a social media post, Mr Margherita said they conveyed respect on behalf of the Government and the people of India. They also extended condolences to the families of those who lost their lives in the recent conflict. Among other Foreign dignitaries included former Russian President Dmitry Medvedev, senior Chinese representative He Wei, Afghanistan&#8217;s Acting Foreign Minister Amir Khan Muttaqi, and delegations from several countries. The funeral comes after Khamenei was killed in Israeli and US airstrikes on the 28th of February. The funeral procession will continue over the next few days before concluding with his burial in the holy city of Mashhad on 9th of this month. Public mourning will continue for 40 days thereafter.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T05:01:32+00:00",
-        "link": "https://newsonair.gov.in/iran-begins-6-day-state-funeral-for-former-supreme-leader-ayatollah-ali-khamenei/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/1280px-North_of_Tehran_Skyline_view.jpg",
-        "image_credit": "Wikipedia – Tehran (CC BY-SA)",
         "source": "Prasar Bharati"
       }
     ],
     "breaking": [
       {
+        "title": "PM Modi Inaugurates ₹7,500 Crore Semiconductor OSAT Facility in Gujarat",
+        "summary": "In a major boost to the India Semiconductor Mission, Prime Minister Narendra Modi inaugurated the CG Semi Outsourced Semiconductor Assembly and Test (OSAT) facility at Sanand, in Gujarat, this evening. Developed under the India Semiconductor Mission with an investment of over 7,500 crore rupees, the facility marks a major milestone in the country&#8217;s tech manufacturing […]",
+        "article": "In a major boost to the India Semiconductor Mission, Prime Minister Narendra Modi inaugurated the CG Semi Outsourced Semiconductor Assembly and Test (OSAT) facility at Sanand, in Gujarat, this evening. Developed under the India Semiconductor Mission with an investment of over 7,500 crore rupees, the facility marks a major milestone in the country&#8217;s tech manufacturing journey. Immediately upon reaching Sanand, the Prime Minister toured the high-tech plant and inspected the production process. The PM also interacted closely with the engineers and operators working inside the facility. Once fully ramped up, the facility will have an annual production capacity of up to 5 billion semiconductor chips. It will also help address the growing global demand for memory and storage solutions. On the inauguration of CG Semi Outsourced Semiconductor Assembly and Test facility, Union Minister for Electronics and Information Technology, Ashwini Vaishnaw, said, the chips manufactured at this plant will be used in cars, scooters, and various industrial applications. He said that most significantly chips made in India, at this facility, will be exported to Japan, America, and Europe. Indian technology will earn global acclaim. He said, the efforts of Prime Minister have made this success possible.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:37:06+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-inaugurates-%e2%82%b97500-crore-semiconductor-osat-facility-in-gujarat/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-Photoroom.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India Overcame Biggest Energy Crisis of the Centuary: PM Modi",
+        "summary": "Prime Minister Narendra Modi today inaugurated and laid the foundation stone for development projects worth over 1.05 lakh crore rupees in Rajasthan, marking a major push to infrastructure, energy, transport and employment generation in the state. During his day-long visit, the Prime Minister inaugurated the new terminal building at Jodhpur Airport. Thereafter, he dedicated the […]",
+        "article": "Prime Minister Narendra Modi today inaugurated and laid the foundation stone for development projects worth over 1.05 lakh crore rupees in Rajasthan, marking a major push to infrastructure, energy, transport and employment generation in the state. During his day-long visit, the Prime Minister inaugurated the new terminal building at Jodhpur Airport. Thereafter, he dedicated the country&#8217;s most modern Greenfield Refinery-cum-Petrochemical Complex to the nation in Pachpadra in Balotara district. He also inspected the refinery&#8217;s state-of-the-art control room, interacted with engineers and technical experts, flagged off fuel tankers, and virtually laid the foundation stone for Jaipur Metro Phase-II. A greenfield refinery is an industrial processing plant for oil, gas, or minerals built from scratch on undeveloped clean land. Addressing the programme, the Prime Minister said the conflict in West Asia had triggered the biggest energy crisis of the 21st century, but India successfully overcame the challenge through timely decisions, effective diplomacy and prudent management of national resources. He said while many countries struggled with fuel shortages, India accurately assessed the crisis, formulated an effective strategy and used its diplomatic strength to safeguard the country&#8217;s energy security. Mr. Modi said India&#8217;s friendly relations with countries across the world played a crucial role during the crisis. He said India, which earlier imported energy from around 25 to 26 countries, expanded its sourcing to nearly 40 countries, ensuring uninterrupted fuel supplies despite global disruptions. He said this demonstrated that the interests of the nation and its citizens remain the government&#8217;s highest priority. The Prime Minister also noted that India has significantly enhanced its refining capacity and has emerged as the world&#8217;s fourth-largest refining nation. The Prime Minister said the government prevented a steep rise in domestic cooking gas prices despite global turmoil. He said the crisis could have pushed the price of an LPG cylinder to nearly 2,000 rupees, but effective intervention ensured that consumers continued to receive cylinders at around 950 rupees. He added that between April and June, oil marketing companies incurred losses of nearly 75,000 crore rupees on petrol and diesel, a burden borne by the government to protect citizens from the impact of soaring international fuel prices. Mr. Modi said the government&#8217;s efforts during the energy crisis would one day be recorded in history. He said while some people were busy spreading rumours and creating panic, officials worked round the clock behind the scenes with patience, hard work and sensitive policy decisions to ensure uninterrupted energy supplies. He thanked the people of the country for their cooperation during the difficult period and criticised those who attempted to politicise the crisis instead of supporting the nation. Referring to the global fertiliser crisis caused by the conflicts in West Asia and Ukraine, he said while urea prices in several countries rose to nearly 3,000 rupees per bag, the government ensured that Indian farmers continue to receive urea at about 300 rupees per bag, protecting them from global price shocks. Referring to the Pachpadra Refinery, the Prime Minister described it as a landmark project in India&#8217;s journey towards becoming a developed and self-reliant nation. He said the refinery would …",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:10:31+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-to-be-on-day-long-visit-to-rajasthan-and-gujarat-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260704299f-1-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "MoS Dr Jitendra Singh Calls for Mission-Mode Response to Tackle Liver Disease and Type-2 Diabetes",
+        "summary": "Science and Technology Minister Dr Jitendra Singh today called for a mission-mode national response driven by preventive healthcare and mass public awareness to tackle India&#8217;s liver epidemic and the sharp rise in Type-2 diabetes. Addressing the 3rd anniversary of the Liver and Metabolic Disease Network in New Delhi, Dr Singh said that these diseases are […]",
+        "article": "Science and Technology Minister Dr Jitendra Singh today called for a mission-mode national response driven by preventive healthcare and mass public awareness to tackle India&#8217;s liver epidemic and the sharp rise in Type-2 diabetes. Addressing the 3rd anniversary of the Liver and Metabolic Disease Network in New Delhi, Dr Singh said that these diseases are now appearing at much younger ages than before, making the challenge far more than a medical issue. Referring to India’s metabolic profile, the Minister said that the country&#8217;s genetic predisposition, higher prevalence of central obesity and distinct Indian phenotype make its population particularly vulnerable to diabetes, fatty liver and cardiovascular diseases. Calling for greater synergy across scientific institutions, Dr Singh said that the country&#8217;s expanding biotechnology ecosystem, Genome Mission and large-scale gene sequencing programme offer unprecedented opportunities to understand India&#8217;s unique disease patterns. He added that scientific progress alone cannot overcome the challenge unless it is accompanied by widespread public awareness and behavioural change.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:06:02+00:00",
+        "link": "https://newsonair.gov.in/mos-dr-jitendra-singh-calls-for-mission-mode-response-to-tackle-liver-disease-and-type-2-diabetes/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Jitendra-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Industry Experts Say Ethanol Blending Programme Implemented Through Scientific, Phased Approach",
+        "summary": "Industry experts have said that ethanol blending programme has not been introduced overnight but has been implemented through a measured, step-by-step and scientifically driven process. Addressing a press conference in New Delhi, Former Chairman and Managing Director of Engineers India Limited Vartika Shukla said that ethanol blending programme was placed in the public domain for […]",
+        "article": "Industry experts have said that ethanol blending programme has not been introduced overnight but has been implemented through a measured, step-by-step and scientifically driven process. Addressing a press conference in New Delhi, Former Chairman and Managing Director of Engineers India Limited Vartika Shukla said that ethanol blending programme was placed in the public domain for structured discussions and stakeholder consultations in 2018. She added that the initiative is backed by scientific evidence, extensive testing by automobile manufacturers, the Automotive Research Association of India and the Society of Indian Automobile Manufacturers. Speaking on the occasion, Country Head and Executive Vice President of Toyota Kirloskar Motors Vikram Gulati said that ethanol is a clean fuel which offers good drivability and acceleration. He added that in an era when people are facing the issue of climate change, this is a zero-carbon fuel derived from plants.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:55:44+00:00",
+        "link": "https://newsonair.gov.in/industry-experts-say-ethanol-blending-programme-implemented-through-scientific-phased-approach/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-04-172502.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Monsoon Session of Parliament to Be Held from July 20 to August 13",
+        "summary": "The Monsoon Session of the Parliament will commence on 20th of this month. It will continue till 13th of August. Parliamentary Affairs Minister Kiren Rijiju today informed that President Droupadi Murmu has approved the proposal of the Government to convene the Monsoon Session of Parliament from 20th July. In a social media post, Mr Rijiju […]",
+        "article": "The Monsoon Session of the Parliament will commence on 20th of this month. It will continue till 13th of August. Parliamentary Affairs Minister Kiren Rijiju today informed that President Droupadi Murmu has approved the proposal of the Government to convene the Monsoon Session of Parliament from 20th July. In a social media post, Mr Rijiju said, the session will focus on meaningful debate, discussion and decisions on issues of national importance.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:18:04+00:00",
+        "link": "https://newsonair.gov.in/monsoon-session-of-parliament-to-be-held-from-july-20-to-august-13/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/Parliament-Passes-Bill-to-Readjust-ST-Representation-in-Goa-Assembly-2-4-1-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi Highlights Government’s Efforts to Strengthen Consumer Justice Through Digital Reforms",
+        "summary": "Prime Minister Narendra Modi today highlighted the government&#8217;s efforts to strengthen consumer justice through digital reforms. Sharing an article written by Union Minister Pralhad Joshi, Mr Modi said that following extensive consultations with stakeholders, e-Jagriti has been refined, making consumer justice one of the key sectors undergoing structural digital transformation. In an article",
+        "article": "Prime Minister Narendra Modi today highlighted the government&#8217;s efforts to strengthen consumer justice through digital reforms. Sharing an article written by Union Minister Pralhad Joshi, Mr Modi said that following extensive consultations with stakeholders, e-Jagriti has been refined, making consumer justice one of the key sectors undergoing structural digital transformation. In an article on the e-Jagriti platform, Mr. Joshi said, it is a transformative initiative aimed at modernising India&#8217;s consumer justice system by digitising the entire lifecycle of a consumer complaint. He said, the e -Jagriti platform makes the system faster, more transparent and more accessible by leveraging digital technologies, artificial intelligence and hybrid hearings, while bridging gaps that earlier discouraged consumers from seeking redressal. The Union Minister said, the citizen-centric design of the portal, continuous improvement based on stakeholder feedback and its nationwide implementation reflect the government&#8217;s commitment to responsive governance. He added that as India&#8217;s digital economy continues to expand, an efficient consumer dispute resolution mechanism will play a vital role in strengthening public trust, promoting responsible business practices and ensuring that every consumer can access justice with ease and confidence.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T10:18:31+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-highlights-governments-efforts-to-strengthen-consumer-justice-through-digital-reforms/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260623392f-e1782227130311.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Bilateral Investment Agreement between India and Israel comes into force today",
         "summary": "The Bilateral Investment Agreement (BIA) between India and Israel came into force today. The agreement was signed in September last year in New Delhi. The Finance Ministry said that the BIA is a landmark step towards strengthening bilateral economic relations and ensuring a secure and predictable investment climate. It said that the BIA is robust […]",
         "article": "The Bilateral Investment Agreement (BIA) between India and Israel came into force today. The agreement was signed in September last year in New Delhi. The Finance Ministry said that the BIA is a landmark step towards strengthening bilateral economic relations and ensuring a secure and predictable investment climate. It said that the BIA is robust in the protection of investments and investors with respect to their investments while being ﬂexible enough to retain sovereign policy space in line with legitimate public policy objectives. The BIA also reﬂects the modern principles and evolving jurisprudence of international investment law. The Ministry noted that the BIA is expected to contribute to increased cross-border investment activity and further deepen the economic partnership between India and Israel.",
@@ -171,78 +237,12 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "PM Modi dedicates India’s first greenfield integrated refinery-cum-petrochemical complex in Balotra; Also Inaugurates New Terminal Building of Jodhpur Airport",
-        "summary": "Prime Minister Narendra Modi dedicated, inaugurated, and laid the foundation stone for development projects worth approximately 1.06 lakh crore rupees at Balotra, Rajasthan. These projects spanned multiple sectors, including petrochemicals, urban transport, railways, roads, renewable energy, and power transmission. The Prime Minister dedicated India&#8217;s first greenfield integrated refinery-cum",
-        "article": "Prime Minister Narendra Modi dedicated, inaugurated, and laid the foundation stone for development projects worth approximately 1.06 lakh crore rupees at Balotra, Rajasthan. These projects spanned multiple sectors, including petrochemicals, urban transport, railways, roads, renewable energy, and power transmission. The Prime Minister dedicated India&#8217;s first greenfield integrated refinery-cum-petrochemical complex to the nation at Pachpadra in Balotra, marking a landmark achievement in the country&#8217;s energy and petrochemical sector. Developed as a joint venture between Hindustan Petroleum Corporation Limited and the Government of Rajasthan, the 9 Million Metric Tonnes Per Annum (MMTPA) Greenfield Refinery-cum-Petrochemical Complex was established with an investment of over 79,450 crore rupees. Prime Minister Modi also laid the foundation stone for Phase 2 of the Jaipur Metro Rail Project, which has a total cost of over 13 thousand crore rupees. Under Phase 2, a 41-km north-south metro corridor will be developed from Prahladpura to Todi Mod, connecting the industrial and residential areas of Sitapura and Vishwakarma Industrial Area (VKI) through 36 stations. The Prime Minister further dedicated to the nation the Churu-Sadulpur and Churu-Ratangarh rail doubling projects and the four-laning of National Highway-125A, Jodhpur Ring Road Section-2. He also dedicated to the nation SJVN Limited&#8217;s 1,000 MW Bikaner Solar Energy Project and inaugurated the transmission line constructed at a cost of over 1,900 crore rupees for power evacuation from the Rajasthan Renewable Energy Zone (REZ). He also laid the foundation stone for the 530 km-long power transmission system for the Rajasthan REZ. Mr Modi also handed over appointment letters to around 54,000 youth recruited across various departments of the Government of Rajasthan. Speaking on the occasion, the Prime Minister said that no matter how big or unexpected the challenge may be, the New India neither retreats from its resolve nor slows down its pace. He said that the inauguration of the new airport terminal at Jodhpur today marks another significant step in the country&#8217;s development journey. The Prime Minister expressed confidence that the new terminal will give a major boost to tourism, trade and employment opportunities across the Marwar region. Union Minister for Petroleum and Natural Gas Hardeep Singh Puri has said that India&#8217;s refining capacity is expected to increase to 320 million metric tonnes per annum by 2030. He described the expansion as a significant step towards strengthening the country&#8217;s energy self-reliance. The Minister said that two new refineries have been dedicated to the nation over the past ten years, even as refining capacity has declined in several parts of the world. He noted that despite disruptions in the global energy supply chain, fuel availability in the country remained unaffected and not a single petrol pump was forced to shut down. Mr Puri said that the Rajasthan Refinery will boost industrial and economic activities in the region. Describing the project as a major milestone in the journey towards an Atmanirbhar Bharat, he said it will reinforce the nation&#8217;s commitment to a secure and prosperous future. Earlier, the Prime Minister inaugurated the New Terminal Building of Jodhpur Airport in Rajasthan. The project has been developed at a total cost of 480 crore rupees. Spread over an area of more than 23 thousand square …",
+        "title": "Defence Minister Highlights India’s Significant Progress, Says Defence Exports Record Over ₹38,000 Crore",
+        "summary": "Defence Minister Rajnath Singh today highlighted India&#8217;s significant progress in manufacturing and technology, saying the country&#8217;s defence exports have reached a record of over 38 thousand crore rupees. Addressing an event organised by a private media organisation in New Delhi, Mr Singh said, the sharp rise from 686 crore rupees in the financial year 2013-14 […]",
+        "article": "Defence Minister Rajnath Singh today highlighted India&#8217;s significant progress in manufacturing and technology, saying the country&#8217;s defence exports have reached a record of over 38 thousand crore rupees. Addressing an event organised by a private media organisation in New Delhi, Mr Singh said, the sharp rise from 686 crore rupees in the financial year 2013-14 reflects an almost 57-fold increase and underlines growing global confidence in Make in India defence platforms. The Defence Minister said annual defence production has also touched an all-time high of over one lakh 78 thousand crore rupees in the financial year 2025-26, nearly three times the level recorded in 2014-15. Highlighting India&#8217;s broader manufacturing achievements, Mr Singh cited the expansion of mobile phone manufacturing, growth in automobile exports, indigenous locomotive production, and the strengthening of digital infrastructure under the Make in India initiative. Speaking about the country&#8217;s progress over the past decade, Mr Singh said, the Prime Minister Narendra Modi-led government has addressed shortages, expanded opportunities, and transformed the work culture. He said, the government is laying a strong foundation for Viksit Bharat through the policy of Reform, Perform, Transform and expressed confidence that the world will witness the rise of a developed India. Referring to the abrogation of Article 370 in Jammu and Kashmir, Mr Singh said, the government&#8217;s sustained efforts to eliminate Naxalism are examples of its resolve to address challenges that were once considered beyond resolution.",
         "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:35:31+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-to-be-on-day-long-visit-to-rajasthan-and-gujarat-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11-4.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Centre issues notice to Telegram messaging app over widespread piracy reports, asks to submit report within 15 days",
-        "summary": "The Government has issued a notice to Telegram over widespread piracy reports. According to the official sources, the government has directed Telegram to take immediate measures against pirated films and Over The Top (OTT) content. Sources further said that the platform has been asked to submit the action taken report within 15 days. The move […]",
-        "article": "The Government has issued a notice to Telegram over widespread piracy reports. According to the official sources, the government has directed Telegram to take immediate measures against pirated films and Over The Top (OTT) content. Sources further said that the platform has been asked to submit the action taken report within 15 days. The move aims to protect India’s creator economy, film industry, broadcasters, OTT platforms, producers and distributors.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:05:24+00:00",
-        "link": "https://newsonair.gov.in/centre-issues-notice-to-telegram-over-widespread-piracy-reports-asks-to-submit-report-within-15-days/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Western_Union_Telegram_RCC_Eisenhower_Sept_26_1955.jpg/1280px-Western_Union_Telegram_RCC_Eisenhower_Sept_26_1955.jpg",
-        "image_credit": "Wikipedia – Telegram (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Narendra Modi congratulates Keiko Fujimori on Peru Presidential poll victory",
-        "summary": "Prime Minister Narendra Modi has congratulated Keiko Fujimori on her victory in the Peruvian Presidential elections. In a social media post, Mr Modi said that India deeply values its close friendship with Peru and remains committed to strengthening the bilateral partnership between the two nations across diverse sectors. The Prime Minister wished Ms Fujimori a […]",
-        "article": "Prime Minister Narendra Modi has congratulated Keiko Fujimori on her victory in the Peruvian Presidential elections. In a social media post, Mr Modi said that India deeply values its close friendship with Peru and remains committed to strengthening the bilateral partnership between the two nations across diverse sectors. The Prime Minister wished Ms Fujimori a successful tenure and said he looks forward to working closely with her to further deepen the relationship between India and Peru.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T07:23:47+00:00",
-        "link": "https://newsonair.gov.in/pm-narendra-modi-congratulates-keiko-fujimori-on-peru-presidential-poll-victory/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/peru2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Narendra Modi will embark on 6 day visit to Indonesia, Australia & New Zealand from July 6",
-        "summary": "Prime Minister Narendra Modi will be on a six-day visit to Indonesia, Australia and New Zealand from Monday. Briefing the media in New Delhi, Secretary (East) in the Ministry of External Affairs, Rudrendra Tandon, informed that Mr Modi will be in Indonesia from 6th to 8th of this month. This will be the Prime […]",
-        "article": "Prime Minister Narendra Modi will be on a six-day visit to Indonesia, Australia and New Zealand from Monday. Briefing the media in New Delhi, Secretary (East) in the Ministry of External Affairs, Rudrendra Tandon, informed that Mr Modi will be in Indonesia from 6th to 8th of this month. This will be the Prime Minister’s fourth visit to Indonesia and his first bilateral visit since the elevation of India-Indonesia ties to the level of Comprehensive Strategic Partnership in May 2018. During the visit, the Prime Minister will hold bilateral discussions with Indonesian President Prabowo Subianto and review the progress made in the partnership. His main engagements will be in Jakarta, but the Prime Minister will also visit the cultural and historic city of Yogyakarta. In Jakarta, the Prime Minister will address a large gathering of the Indian Diaspora. Secretary (East) said that in Yogyakarta, Mr Modi will go to the Prambanan Temple complex. He said India and Indonesia will be collaborating on the conservation work there. He said the visit of the Prime Minister to Indonesia will very much be a continuation of the discussions on various bilateral tracks of cooperation that began when President Prabowo visited India as the Guest of Honour for the 2025 Republic Day celebrations. The Secretary (East) said, Indonesia has always played an important role in the security and stability of the Malacca Strait maritime zone. Mr Tandon said, &#8220;This is a very important maritime zone for India, as it represents one of the country&#8217;s most important sea lanes of communication. He said it is significant not only for India as an Indian Ocean nation but also for the global economy as well. The Secretary (East) said the second leg of the visit will be to Australia from 8th to 10th of this month. He said Mr Modi will reach Melbourne, where he will participate in the third India-Australia Annual Summit with Australian Prime Minister Anthony Albanese. Mr Tandon said the conversations will cover emerging areas of the bilateral relations, in particular the critical minerals, the cybersecurity domain, supply chain resilience, emerging technologies, and others. During his visit, the Prime Minister will also participate in the India-Australia CEOs Forum, where he will address a gathering of top business leaders from both countries. Prime Minister will also address a large gathering of the Indian Diaspora, who constitute a strong pillar of the India-Australia relationship. On the third and last leg of his three-nation visit, Mr Modi will be in New Zealand from 10th to 11th July. Mr Tandon said Prime Minister Narendra Modi will hold talks with his New Zealand counterpart, Christopher Luxon. Both leaders will review the entire gamut of the bilateral relationship, which has seen significant progress in the last two years, especially in the areas of trade and commerce and defence. The Secretary (East) said the visit to New Zealand will be the first visit by the Indian Prime Minister in 40 years. Prime Minister will also interact with prominent business and sports personalities. In a reflection of the strong people-to-people ties that exist between India and New Zealand, the Prime Minister will address a large gathering of the Indian Diaspora during the visit.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T05:28:09+00:00",
-        "link": "https://newsonair.gov.in/pm-narendra-modi-will-embark-on-6-day-visit-to-indonesia-australia-new-zealand-from-july-6/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/PM-Modi-to-visit-France-and-the-US-from-Feb-10-1-1-1-2-1-1-2-1-1-1-1-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "VP Radhakrishnan, Union Minister Amit Shah extend greetings on occasion of International Day of Cooperatives",
-        "summary": "Vice President C P Radhakrishnan and Union Minister of Cooperation Amit Shah have extended their greetings on the occasion of the International Day of Cooperatives today. In a social media post, the Vice President said that, rooted in the country&#8217;s civilisational ethos of Sahakar, cooperatives have been a powerful force in empowering farmers, women, and […]",
-        "article": "Vice President C P Radhakrishnan and Union Minister of Cooperation Amit Shah have extended their greetings on the occasion of the International Day of Cooperatives today. In a social media post, the Vice President said that, rooted in the country&#8217;s civilisational ethos of Sahakar, cooperatives have been a powerful force in empowering farmers, women, and small entrepreneurs, strengthening communities and fostering inclusive growth. He said that from their beginnings in the pre-Independence era, cooperatives have evolved into a vital pillar of nation-building, embodying the spirit of Sahakar Se Samriddhi and contributing to the vision of Viksit Bharat @ 2047. Mr Shah said that cooperation is the foundation of India&#8217;s culture, collective strength, and self-reliance. He said that under the leadership of Prime Minister Narendra Modi, the cooperative sector has gained fresh momentum and expanded significantly. The Minister added that initiatives such as the Cooperative University, modern training centres, and the empowerment of cooperative institutions in emerging sectors are strengthening the resolve of Sahakar Se Samriddhi by empowering farmers, women, small entrepreneurs, and workers.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T05:06:37+00:00",
-        "link": "https://newsonair.gov.in/vp-radhakrishnan-union-minister-amit-shah-extend-greetings-on-occasion-of-international-day-of-cooperatives/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/IDC.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt raises onion procurement price by 13% to Rs 2,125 per quintal",
-        "summary": "The Government has increased the procurement price of onions for the Price Stabilisation Buffer by 13 per cent from 1,875 rupees per quintal to 2,125 rupees per quintal. Consumer Affairs, Food and Public Distribution Ministry said that the revised procurement price is effective from today. The Ministry said that the revised procurement price will ensure […]",
-        "article": "The Government has increased the procurement price of onions for the Price Stabilisation Buffer by 13 per cent from 1,875 rupees per quintal to 2,125 rupees per quintal. Consumer Affairs, Food and Public Distribution Ministry said that the revised procurement price is effective from today. The Ministry said that the revised procurement price will ensure better returns for onion farmers while supporting buffer procurement efforts. The procurement of onions through the National Agricultural Cooperative Marketing Federation of India Limited (NAFED) and the National Cooperative Consumers&#8217; Federation of India Limited (NCCF) for the Government&#8217;s Price Stabilisation Buffer is in progress. As per the Second Advance Estimates of the Department of Agriculture and Farmers&#8217; Welfare for 2025-26, onion production is estimated at over 307 lakh metric tonnes. The Ministry said that current stock levels in Maharashtra, Madhya Pradesh and Gujarat are adequate and at present, there are no indications of any shortage of stored onions. The all-India average retail price is 31 rupees per kilogram. Onion exports are also normal, with about 1,50,000 metric tonnes exported during June this year.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:24:23+00:00",
-        "link": "https://newsonair.gov.in/govt-raises-onion-procurement-price-by-13-to-rs-2125-per-quintal/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Home Ministry designates 23 Pakistan based individuals as terrorists under UAPA",
-        "summary": "The Union Home Ministry has designated 23 individuals based in Pakistan as terrorists under the Unlawful Activities (Prevention) Act – UAPA. They were linked to Jaish-e-Mohammad, Lashkar-e-Taiba and other organisations. The Ministry said the Government is committed to dismantling every terror module to safeguard the country and its citizens. The amendment in the UAPA has […]",
-        "article": "The Union Home Ministry has designated 23 individuals based in Pakistan as terrorists under the Unlawful Activities (Prevention) Act – UAPA. They were linked to Jaish-e-Mohammad, Lashkar-e-Taiba and other organisations. The Ministry said the Government is committed to dismantling every terror module to safeguard the country and its citizens. The amendment in the UAPA has strengthened India’s anti-terror legal framework by expanding the powers of the Central Government and investigative agencies. The amendment has empowered the Central Government to designate individuals, not merely organisations, as terrorists under the Act. Akashvani correspondent reports that out of the 23 terrorists announced today, 17 are Pakistani nationals and six are Indian nationals. However, all of them are presently operating terrorist activities from Pakistan and Pakistan-occupied Jammu and Kashmir. The designated terrorists are involved in anti-India activities, carrying out terror attacks, inciting terror, trafficking arms, infiltrating through the border, facilitating terrorist organisations, raising funds and recruiting terrorists. This will allow agencies such as the National Investigation Agency to block their finances, impose an embargo on arms sales, and seize their assets. The Central Government has designated 80 individuals as terrorists since the amendment to the UAPA came into force in 2019.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:09:16+00:00",
-        "link": "https://newsonair.gov.in/mha-designates-23-pakistan-based-individuals-as-terrorists-under-uapa/",
+        "pubDate": "2026-07-04T11:13:16+00:00",
+        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-highlights-indias-significant-progress-says-defence-exports-record-over-%e2%82%b938000-crore/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -250,6 +250,72 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "PM Modi Inaugurates ₹7,500 Crore Semiconductor OSAT Facility in Gujarat",
+        "summary": "In a major boost to the India Semiconductor Mission, Prime Minister Narendra Modi inaugurated the CG Semi Outsourced Semiconductor Assembly and Test (OSAT) facility at Sanand, in Gujarat, this evening. Developed under the India Semiconductor Mission with an investment of over 7,500 crore rupees, the facility marks a major milestone in the country&#8217;s tech manufacturing […]",
+        "article": "In a major boost to the India Semiconductor Mission, Prime Minister Narendra Modi inaugurated the CG Semi Outsourced Semiconductor Assembly and Test (OSAT) facility at Sanand, in Gujarat, this evening. Developed under the India Semiconductor Mission with an investment of over 7,500 crore rupees, the facility marks a major milestone in the country&#8217;s tech manufacturing journey. Immediately upon reaching Sanand, the Prime Minister toured the high-tech plant and inspected the production process. The PM also interacted closely with the engineers and operators working inside the facility. Once fully ramped up, the facility will have an annual production capacity of up to 5 billion semiconductor chips. It will also help address the growing global demand for memory and storage solutions. On the inauguration of CG Semi Outsourced Semiconductor Assembly and Test facility, Union Minister for Electronics and Information Technology, Ashwini Vaishnaw, said, the chips manufactured at this plant will be used in cars, scooters, and various industrial applications. He said that most significantly chips made in India, at this facility, will be exported to Japan, America, and Europe. Indian technology will earn global acclaim. He said, the efforts of Prime Minister have made this success possible.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:37:06+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-inaugurates-%e2%82%b97500-crore-semiconductor-osat-facility-in-gujarat/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-Photoroom.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India Overcame Biggest Energy Crisis of the Centuary: PM Modi",
+        "summary": "Prime Minister Narendra Modi today inaugurated and laid the foundation stone for development projects worth over 1.05 lakh crore rupees in Rajasthan, marking a major push to infrastructure, energy, transport and employment generation in the state. During his day-long visit, the Prime Minister inaugurated the new terminal building at Jodhpur Airport. Thereafter, he dedicated the […]",
+        "article": "Prime Minister Narendra Modi today inaugurated and laid the foundation stone for development projects worth over 1.05 lakh crore rupees in Rajasthan, marking a major push to infrastructure, energy, transport and employment generation in the state. During his day-long visit, the Prime Minister inaugurated the new terminal building at Jodhpur Airport. Thereafter, he dedicated the country&#8217;s most modern Greenfield Refinery-cum-Petrochemical Complex to the nation in Pachpadra in Balotara district. He also inspected the refinery&#8217;s state-of-the-art control room, interacted with engineers and technical experts, flagged off fuel tankers, and virtually laid the foundation stone for Jaipur Metro Phase-II. A greenfield refinery is an industrial processing plant for oil, gas, or minerals built from scratch on undeveloped clean land. Addressing the programme, the Prime Minister said the conflict in West Asia had triggered the biggest energy crisis of the 21st century, but India successfully overcame the challenge through timely decisions, effective diplomacy and prudent management of national resources. He said while many countries struggled with fuel shortages, India accurately assessed the crisis, formulated an effective strategy and used its diplomatic strength to safeguard the country&#8217;s energy security. Mr. Modi said India&#8217;s friendly relations with countries across the world played a crucial role during the crisis. He said India, which earlier imported energy from around 25 to 26 countries, expanded its sourcing to nearly 40 countries, ensuring uninterrupted fuel supplies despite global disruptions. He said this demonstrated that the interests of the nation and its citizens remain the government&#8217;s highest priority. The Prime Minister also noted that India has significantly enhanced its refining capacity and has emerged as the world&#8217;s fourth-largest refining nation. The Prime Minister said the government prevented a steep rise in domestic cooking gas prices despite global turmoil. He said the crisis could have pushed the price of an LPG cylinder to nearly 2,000 rupees, but effective intervention ensured that consumers continued to receive cylinders at around 950 rupees. He added that between April and June, oil marketing companies incurred losses of nearly 75,000 crore rupees on petrol and diesel, a burden borne by the government to protect citizens from the impact of soaring international fuel prices. Mr. Modi said the government&#8217;s efforts during the energy crisis would one day be recorded in history. He said while some people were busy spreading rumours and creating panic, officials worked round the clock behind the scenes with patience, hard work and sensitive policy decisions to ensure uninterrupted energy supplies. He thanked the people of the country for their cooperation during the difficult period and criticised those who attempted to politicise the crisis instead of supporting the nation. Referring to the global fertiliser crisis caused by the conflicts in West Asia and Ukraine, he said while urea prices in several countries rose to nearly 3,000 rupees per bag, the government ensured that Indian farmers continue to receive urea at about 300 rupees per bag, protecting them from global price shocks. Referring to the Pachpadra Refinery, the Prime Minister described it as a landmark project in India&#8217;s journey towards becoming a developed and self-reliant nation. He said the refinery would …",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:10:31+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-to-be-on-day-long-visit-to-rajasthan-and-gujarat-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260704299f-1-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "MoS Dr Jitendra Singh Calls for Mission-Mode Response to Tackle Liver Disease and Type-2 Diabetes",
+        "summary": "Science and Technology Minister Dr Jitendra Singh today called for a mission-mode national response driven by preventive healthcare and mass public awareness to tackle India&#8217;s liver epidemic and the sharp rise in Type-2 diabetes. Addressing the 3rd anniversary of the Liver and Metabolic Disease Network in New Delhi, Dr Singh said that these diseases are […]",
+        "article": "Science and Technology Minister Dr Jitendra Singh today called for a mission-mode national response driven by preventive healthcare and mass public awareness to tackle India&#8217;s liver epidemic and the sharp rise in Type-2 diabetes. Addressing the 3rd anniversary of the Liver and Metabolic Disease Network in New Delhi, Dr Singh said that these diseases are now appearing at much younger ages than before, making the challenge far more than a medical issue. Referring to India’s metabolic profile, the Minister said that the country&#8217;s genetic predisposition, higher prevalence of central obesity and distinct Indian phenotype make its population particularly vulnerable to diabetes, fatty liver and cardiovascular diseases. Calling for greater synergy across scientific institutions, Dr Singh said that the country&#8217;s expanding biotechnology ecosystem, Genome Mission and large-scale gene sequencing programme offer unprecedented opportunities to understand India&#8217;s unique disease patterns. He added that scientific progress alone cannot overcome the challenge unless it is accompanied by widespread public awareness and behavioural change.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:06:02+00:00",
+        "link": "https://newsonair.gov.in/mos-dr-jitendra-singh-calls-for-mission-mode-response-to-tackle-liver-disease-and-type-2-diabetes/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Jitendra-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Industry Experts Say Ethanol Blending Programme Implemented Through Scientific, Phased Approach",
+        "summary": "Industry experts have said that ethanol blending programme has not been introduced overnight but has been implemented through a measured, step-by-step and scientifically driven process. Addressing a press conference in New Delhi, Former Chairman and Managing Director of Engineers India Limited Vartika Shukla said that ethanol blending programme was placed in the public domain for […]",
+        "article": "Industry experts have said that ethanol blending programme has not been introduced overnight but has been implemented through a measured, step-by-step and scientifically driven process. Addressing a press conference in New Delhi, Former Chairman and Managing Director of Engineers India Limited Vartika Shukla said that ethanol blending programme was placed in the public domain for structured discussions and stakeholder consultations in 2018. She added that the initiative is backed by scientific evidence, extensive testing by automobile manufacturers, the Automotive Research Association of India and the Society of Indian Automobile Manufacturers. Speaking on the occasion, Country Head and Executive Vice President of Toyota Kirloskar Motors Vikram Gulati said that ethanol is a clean fuel which offers good drivability and acceleration. He added that in an era when people are facing the issue of climate change, this is a zero-carbon fuel derived from plants.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:55:44+00:00",
+        "link": "https://newsonair.gov.in/industry-experts-say-ethanol-blending-programme-implemented-through-scientific-phased-approach/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-04-172502.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Monsoon Session of Parliament to Be Held from July 20 to August 13",
+        "summary": "The Monsoon Session of the Parliament will commence on 20th of this month. It will continue till 13th of August. Parliamentary Affairs Minister Kiren Rijiju today informed that President Droupadi Murmu has approved the proposal of the Government to convene the Monsoon Session of Parliament from 20th July. In a social media post, Mr Rijiju […]",
+        "article": "The Monsoon Session of the Parliament will commence on 20th of this month. It will continue till 13th of August. Parliamentary Affairs Minister Kiren Rijiju today informed that President Droupadi Murmu has approved the proposal of the Government to convene the Monsoon Session of Parliament from 20th July. In a social media post, Mr Rijiju said, the session will focus on meaningful debate, discussion and decisions on issues of national importance.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:18:04+00:00",
+        "link": "https://newsonair.gov.in/monsoon-session-of-parliament-to-be-held-from-july-20-to-august-13/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/Parliament-Passes-Bill-to-Readjust-ST-Representation-in-Goa-Assembly-2-4-1-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi Highlights Government’s Efforts to Strengthen Consumer Justice Through Digital Reforms",
+        "summary": "Prime Minister Narendra Modi today highlighted the government&#8217;s efforts to strengthen consumer justice through digital reforms. Sharing an article written by Union Minister Pralhad Joshi, Mr Modi said that following extensive consultations with stakeholders, e-Jagriti has been refined, making consumer justice one of the key sectors undergoing structural digital transformation. In an article",
+        "article": "Prime Minister Narendra Modi today highlighted the government&#8217;s efforts to strengthen consumer justice through digital reforms. Sharing an article written by Union Minister Pralhad Joshi, Mr Modi said that following extensive consultations with stakeholders, e-Jagriti has been refined, making consumer justice one of the key sectors undergoing structural digital transformation. In an article on the e-Jagriti platform, Mr. Joshi said, it is a transformative initiative aimed at modernising India&#8217;s consumer justice system by digitising the entire lifecycle of a consumer complaint. He said, the e -Jagriti platform makes the system faster, more transparent and more accessible by leveraging digital technologies, artificial intelligence and hybrid hearings, while bridging gaps that earlier discouraged consumers from seeking redressal. The Union Minister said, the citizen-centric design of the portal, continuous improvement based on stakeholder feedback and its nationwide implementation reflect the government&#8217;s commitment to responsive governance. He added that as India&#8217;s digital economy continues to expand, an efficient consumer dispute resolution mechanism will play a vital role in strengthening public trust, promoting responsible business practices and ensuring that every consumer can access justice with ease and confidence.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T10:18:31+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-highlights-governments-efforts-to-strengthen-consumer-justice-through-digital-reforms/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260623392f-e1782227130311.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Bilateral Investment Agreement between India and Israel comes into force today",
         "summary": "The Bilateral Investment Agreement (BIA) between India and Israel came into force today. The agreement was signed in September last year in New Delhi. The Finance Ministry said that the BIA is a landmark step towards strengthening bilateral economic relations and ensuring a secure and predictable investment climate. It said that the BIA is robust […]",
         "article": "The Bilateral Investment Agreement (BIA) between India and Israel came into force today. The agreement was signed in September last year in New Delhi. The Finance Ministry said that the BIA is a landmark step towards strengthening bilateral economic relations and ensuring a secure and predictable investment climate. It said that the BIA is robust in the protection of investments and investors with respect to their investments while being ﬂexible enough to retain sovereign policy space in line with legitimate public policy objectives. The BIA also reﬂects the modern principles and evolving jurisprudence of international investment law. The Ministry noted that the BIA is expected to contribute to increased cross-border investment activity and further deepen the economic partnership between India and Israel.",
@@ -283,78 +349,12 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "PM Modi dedicates India’s first greenfield integrated refinery-cum-petrochemical complex in Balotra; Also Inaugurates New Terminal Building of Jodhpur Airport",
-        "summary": "Prime Minister Narendra Modi dedicated, inaugurated, and laid the foundation stone for development projects worth approximately 1.06 lakh crore rupees at Balotra, Rajasthan. These projects spanned multiple sectors, including petrochemicals, urban transport, railways, roads, renewable energy, and power transmission. The Prime Minister dedicated India&#8217;s first greenfield integrated refinery-cum",
-        "article": "Prime Minister Narendra Modi dedicated, inaugurated, and laid the foundation stone for development projects worth approximately 1.06 lakh crore rupees at Balotra, Rajasthan. These projects spanned multiple sectors, including petrochemicals, urban transport, railways, roads, renewable energy, and power transmission. The Prime Minister dedicated India&#8217;s first greenfield integrated refinery-cum-petrochemical complex to the nation at Pachpadra in Balotra, marking a landmark achievement in the country&#8217;s energy and petrochemical sector. Developed as a joint venture between Hindustan Petroleum Corporation Limited and the Government of Rajasthan, the 9 Million Metric Tonnes Per Annum (MMTPA) Greenfield Refinery-cum-Petrochemical Complex was established with an investment of over 79,450 crore rupees. Prime Minister Modi also laid the foundation stone for Phase 2 of the Jaipur Metro Rail Project, which has a total cost of over 13 thousand crore rupees. Under Phase 2, a 41-km north-south metro corridor will be developed from Prahladpura to Todi Mod, connecting the industrial and residential areas of Sitapura and Vishwakarma Industrial Area (VKI) through 36 stations. The Prime Minister further dedicated to the nation the Churu-Sadulpur and Churu-Ratangarh rail doubling projects and the four-laning of National Highway-125A, Jodhpur Ring Road Section-2. He also dedicated to the nation SJVN Limited&#8217;s 1,000 MW Bikaner Solar Energy Project and inaugurated the transmission line constructed at a cost of over 1,900 crore rupees for power evacuation from the Rajasthan Renewable Energy Zone (REZ). He also laid the foundation stone for the 530 km-long power transmission system for the Rajasthan REZ. Mr Modi also handed over appointment letters to around 54,000 youth recruited across various departments of the Government of Rajasthan. Speaking on the occasion, the Prime Minister said that no matter how big or unexpected the challenge may be, the New India neither retreats from its resolve nor slows down its pace. He said that the inauguration of the new airport terminal at Jodhpur today marks another significant step in the country&#8217;s development journey. The Prime Minister expressed confidence that the new terminal will give a major boost to tourism, trade and employment opportunities across the Marwar region. Union Minister for Petroleum and Natural Gas Hardeep Singh Puri has said that India&#8217;s refining capacity is expected to increase to 320 million metric tonnes per annum by 2030. He described the expansion as a significant step towards strengthening the country&#8217;s energy self-reliance. The Minister said that two new refineries have been dedicated to the nation over the past ten years, even as refining capacity has declined in several parts of the world. He noted that despite disruptions in the global energy supply chain, fuel availability in the country remained unaffected and not a single petrol pump was forced to shut down. Mr Puri said that the Rajasthan Refinery will boost industrial and economic activities in the region. Describing the project as a major milestone in the journey towards an Atmanirbhar Bharat, he said it will reinforce the nation&#8217;s commitment to a secure and prosperous future. Earlier, the Prime Minister inaugurated the New Terminal Building of Jodhpur Airport in Rajasthan. The project has been developed at a total cost of 480 crore rupees. Spread over an area of more than 23 thousand square …",
+        "title": "Defence Minister Highlights India’s Significant Progress, Says Defence Exports Record Over ₹38,000 Crore",
+        "summary": "Defence Minister Rajnath Singh today highlighted India&#8217;s significant progress in manufacturing and technology, saying the country&#8217;s defence exports have reached a record of over 38 thousand crore rupees. Addressing an event organised by a private media organisation in New Delhi, Mr Singh said, the sharp rise from 686 crore rupees in the financial year 2013-14 […]",
+        "article": "Defence Minister Rajnath Singh today highlighted India&#8217;s significant progress in manufacturing and technology, saying the country&#8217;s defence exports have reached a record of over 38 thousand crore rupees. Addressing an event organised by a private media organisation in New Delhi, Mr Singh said, the sharp rise from 686 crore rupees in the financial year 2013-14 reflects an almost 57-fold increase and underlines growing global confidence in Make in India defence platforms. The Defence Minister said annual defence production has also touched an all-time high of over one lakh 78 thousand crore rupees in the financial year 2025-26, nearly three times the level recorded in 2014-15. Highlighting India&#8217;s broader manufacturing achievements, Mr Singh cited the expansion of mobile phone manufacturing, growth in automobile exports, indigenous locomotive production, and the strengthening of digital infrastructure under the Make in India initiative. Speaking about the country&#8217;s progress over the past decade, Mr Singh said, the Prime Minister Narendra Modi-led government has addressed shortages, expanded opportunities, and transformed the work culture. He said, the government is laying a strong foundation for Viksit Bharat through the policy of Reform, Perform, Transform and expressed confidence that the world will witness the rise of a developed India. Referring to the abrogation of Article 370 in Jammu and Kashmir, Mr Singh said, the government&#8217;s sustained efforts to eliminate Naxalism are examples of its resolve to address challenges that were once considered beyond resolution.",
         "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:35:31+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-to-be-on-day-long-visit-to-rajasthan-and-gujarat-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11-4.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Centre issues notice to Telegram messaging app over widespread piracy reports, asks to submit report within 15 days",
-        "summary": "The Government has issued a notice to Telegram over widespread piracy reports. According to the official sources, the government has directed Telegram to take immediate measures against pirated films and Over The Top (OTT) content. Sources further said that the platform has been asked to submit the action taken report within 15 days. The move […]",
-        "article": "The Government has issued a notice to Telegram over widespread piracy reports. According to the official sources, the government has directed Telegram to take immediate measures against pirated films and Over The Top (OTT) content. Sources further said that the platform has been asked to submit the action taken report within 15 days. The move aims to protect India’s creator economy, film industry, broadcasters, OTT platforms, producers and distributors.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:05:24+00:00",
-        "link": "https://newsonair.gov.in/centre-issues-notice-to-telegram-over-widespread-piracy-reports-asks-to-submit-report-within-15-days/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Western_Union_Telegram_RCC_Eisenhower_Sept_26_1955.jpg/1280px-Western_Union_Telegram_RCC_Eisenhower_Sept_26_1955.jpg",
-        "image_credit": "Wikipedia – Telegram (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Narendra Modi congratulates Keiko Fujimori on Peru Presidential poll victory",
-        "summary": "Prime Minister Narendra Modi has congratulated Keiko Fujimori on her victory in the Peruvian Presidential elections. In a social media post, Mr Modi said that India deeply values its close friendship with Peru and remains committed to strengthening the bilateral partnership between the two nations across diverse sectors. The Prime Minister wished Ms Fujimori a […]",
-        "article": "Prime Minister Narendra Modi has congratulated Keiko Fujimori on her victory in the Peruvian Presidential elections. In a social media post, Mr Modi said that India deeply values its close friendship with Peru and remains committed to strengthening the bilateral partnership between the two nations across diverse sectors. The Prime Minister wished Ms Fujimori a successful tenure and said he looks forward to working closely with her to further deepen the relationship between India and Peru.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T07:23:47+00:00",
-        "link": "https://newsonair.gov.in/pm-narendra-modi-congratulates-keiko-fujimori-on-peru-presidential-poll-victory/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/peru2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Narendra Modi will embark on 6 day visit to Indonesia, Australia & New Zealand from July 6",
-        "summary": "Prime Minister Narendra Modi will be on a six-day visit to Indonesia, Australia and New Zealand from Monday. Briefing the media in New Delhi, Secretary (East) in the Ministry of External Affairs, Rudrendra Tandon, informed that Mr Modi will be in Indonesia from 6th to 8th of this month. This will be the Prime […]",
-        "article": "Prime Minister Narendra Modi will be on a six-day visit to Indonesia, Australia and New Zealand from Monday. Briefing the media in New Delhi, Secretary (East) in the Ministry of External Affairs, Rudrendra Tandon, informed that Mr Modi will be in Indonesia from 6th to 8th of this month. This will be the Prime Minister’s fourth visit to Indonesia and his first bilateral visit since the elevation of India-Indonesia ties to the level of Comprehensive Strategic Partnership in May 2018. During the visit, the Prime Minister will hold bilateral discussions with Indonesian President Prabowo Subianto and review the progress made in the partnership. His main engagements will be in Jakarta, but the Prime Minister will also visit the cultural and historic city of Yogyakarta. In Jakarta, the Prime Minister will address a large gathering of the Indian Diaspora. Secretary (East) said that in Yogyakarta, Mr Modi will go to the Prambanan Temple complex. He said India and Indonesia will be collaborating on the conservation work there. He said the visit of the Prime Minister to Indonesia will very much be a continuation of the discussions on various bilateral tracks of cooperation that began when President Prabowo visited India as the Guest of Honour for the 2025 Republic Day celebrations. The Secretary (East) said, Indonesia has always played an important role in the security and stability of the Malacca Strait maritime zone. Mr Tandon said, &#8220;This is a very important maritime zone for India, as it represents one of the country&#8217;s most important sea lanes of communication. He said it is significant not only for India as an Indian Ocean nation but also for the global economy as well. The Secretary (East) said the second leg of the visit will be to Australia from 8th to 10th of this month. He said Mr Modi will reach Melbourne, where he will participate in the third India-Australia Annual Summit with Australian Prime Minister Anthony Albanese. Mr Tandon said the conversations will cover emerging areas of the bilateral relations, in particular the critical minerals, the cybersecurity domain, supply chain resilience, emerging technologies, and others. During his visit, the Prime Minister will also participate in the India-Australia CEOs Forum, where he will address a gathering of top business leaders from both countries. Prime Minister will also address a large gathering of the Indian Diaspora, who constitute a strong pillar of the India-Australia relationship. On the third and last leg of his three-nation visit, Mr Modi will be in New Zealand from 10th to 11th July. Mr Tandon said Prime Minister Narendra Modi will hold talks with his New Zealand counterpart, Christopher Luxon. Both leaders will review the entire gamut of the bilateral relationship, which has seen significant progress in the last two years, especially in the areas of trade and commerce and defence. The Secretary (East) said the visit to New Zealand will be the first visit by the Indian Prime Minister in 40 years. Prime Minister will also interact with prominent business and sports personalities. In a reflection of the strong people-to-people ties that exist between India and New Zealand, the Prime Minister will address a large gathering of the Indian Diaspora during the visit.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T05:28:09+00:00",
-        "link": "https://newsonair.gov.in/pm-narendra-modi-will-embark-on-6-day-visit-to-indonesia-australia-new-zealand-from-july-6/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/PM-Modi-to-visit-France-and-the-US-from-Feb-10-1-1-1-2-1-1-2-1-1-1-1-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "VP Radhakrishnan, Union Minister Amit Shah extend greetings on occasion of International Day of Cooperatives",
-        "summary": "Vice President C P Radhakrishnan and Union Minister of Cooperation Amit Shah have extended their greetings on the occasion of the International Day of Cooperatives today. In a social media post, the Vice President said that, rooted in the country&#8217;s civilisational ethos of Sahakar, cooperatives have been a powerful force in empowering farmers, women, and […]",
-        "article": "Vice President C P Radhakrishnan and Union Minister of Cooperation Amit Shah have extended their greetings on the occasion of the International Day of Cooperatives today. In a social media post, the Vice President said that, rooted in the country&#8217;s civilisational ethos of Sahakar, cooperatives have been a powerful force in empowering farmers, women, and small entrepreneurs, strengthening communities and fostering inclusive growth. He said that from their beginnings in the pre-Independence era, cooperatives have evolved into a vital pillar of nation-building, embodying the spirit of Sahakar Se Samriddhi and contributing to the vision of Viksit Bharat @ 2047. Mr Shah said that cooperation is the foundation of India&#8217;s culture, collective strength, and self-reliance. He said that under the leadership of Prime Minister Narendra Modi, the cooperative sector has gained fresh momentum and expanded significantly. The Minister added that initiatives such as the Cooperative University, modern training centres, and the empowerment of cooperative institutions in emerging sectors are strengthening the resolve of Sahakar Se Samriddhi by empowering farmers, women, small entrepreneurs, and workers.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T05:06:37+00:00",
-        "link": "https://newsonair.gov.in/vp-radhakrishnan-union-minister-amit-shah-extend-greetings-on-occasion-of-international-day-of-cooperatives/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/IDC.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt raises onion procurement price by 13% to Rs 2,125 per quintal",
-        "summary": "The Government has increased the procurement price of onions for the Price Stabilisation Buffer by 13 per cent from 1,875 rupees per quintal to 2,125 rupees per quintal. Consumer Affairs, Food and Public Distribution Ministry said that the revised procurement price is effective from today. The Ministry said that the revised procurement price will ensure […]",
-        "article": "The Government has increased the procurement price of onions for the Price Stabilisation Buffer by 13 per cent from 1,875 rupees per quintal to 2,125 rupees per quintal. Consumer Affairs, Food and Public Distribution Ministry said that the revised procurement price is effective from today. The Ministry said that the revised procurement price will ensure better returns for onion farmers while supporting buffer procurement efforts. The procurement of onions through the National Agricultural Cooperative Marketing Federation of India Limited (NAFED) and the National Cooperative Consumers&#8217; Federation of India Limited (NCCF) for the Government&#8217;s Price Stabilisation Buffer is in progress. As per the Second Advance Estimates of the Department of Agriculture and Farmers&#8217; Welfare for 2025-26, onion production is estimated at over 307 lakh metric tonnes. The Ministry said that current stock levels in Maharashtra, Madhya Pradesh and Gujarat are adequate and at present, there are no indications of any shortage of stored onions. The all-India average retail price is 31 rupees per kilogram. Onion exports are also normal, with about 1,50,000 metric tonnes exported during June this year.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:24:23+00:00",
-        "link": "https://newsonair.gov.in/govt-raises-onion-procurement-price-by-13-to-rs-2125-per-quintal/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Home Ministry designates 23 Pakistan based individuals as terrorists under UAPA",
-        "summary": "The Union Home Ministry has designated 23 individuals based in Pakistan as terrorists under the Unlawful Activities (Prevention) Act – UAPA. They were linked to Jaish-e-Mohammad, Lashkar-e-Taiba and other organisations. The Ministry said the Government is committed to dismantling every terror module to safeguard the country and its citizens. The amendment in the UAPA has […]",
-        "article": "The Union Home Ministry has designated 23 individuals based in Pakistan as terrorists under the Unlawful Activities (Prevention) Act – UAPA. They were linked to Jaish-e-Mohammad, Lashkar-e-Taiba and other organisations. The Ministry said the Government is committed to dismantling every terror module to safeguard the country and its citizens. The amendment in the UAPA has strengthened India’s anti-terror legal framework by expanding the powers of the Central Government and investigative agencies. The amendment has empowered the Central Government to designate individuals, not merely organisations, as terrorists under the Act. Akashvani correspondent reports that out of the 23 terrorists announced today, 17 are Pakistani nationals and six are Indian nationals. However, all of them are presently operating terrorist activities from Pakistan and Pakistan-occupied Jammu and Kashmir. The designated terrorists are involved in anti-India activities, carrying out terror attacks, inciting terror, trafficking arms, infiltrating through the border, facilitating terrorist organisations, raising funds and recruiting terrorists. This will allow agencies such as the National Investigation Agency to block their finances, impose an embargo on arms sales, and seize their assets. The Central Government has designated 80 individuals as terrorists since the amendment to the UAPA came into force in 2019.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:09:16+00:00",
-        "link": "https://newsonair.gov.in/mha-designates-23-pakistan-based-individuals-as-terrorists-under-uapa/",
+        "pubDate": "2026-07-04T11:13:16+00:00",
+        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-highlights-indias-significant-progress-says-defence-exports-record-over-%e2%82%b938000-crore/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -362,6 +362,72 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "PM Modi Inaugurates ₹7,500 Crore Semiconductor OSAT Facility in Gujarat",
+        "summary": "In a major boost to the India Semiconductor Mission, Prime Minister Narendra Modi inaugurated the CG Semi Outsourced Semiconductor Assembly and Test (OSAT) facility at Sanand, in Gujarat, this evening. Developed under the India Semiconductor Mission with an investment of over 7,500 crore rupees, the facility marks a major milestone in the country&#8217;s tech manufacturing […]",
+        "article": "In a major boost to the India Semiconductor Mission, Prime Minister Narendra Modi inaugurated the CG Semi Outsourced Semiconductor Assembly and Test (OSAT) facility at Sanand, in Gujarat, this evening. Developed under the India Semiconductor Mission with an investment of over 7,500 crore rupees, the facility marks a major milestone in the country&#8217;s tech manufacturing journey. Immediately upon reaching Sanand, the Prime Minister toured the high-tech plant and inspected the production process. The PM also interacted closely with the engineers and operators working inside the facility. Once fully ramped up, the facility will have an annual production capacity of up to 5 billion semiconductor chips. It will also help address the growing global demand for memory and storage solutions. On the inauguration of CG Semi Outsourced Semiconductor Assembly and Test facility, Union Minister for Electronics and Information Technology, Ashwini Vaishnaw, said, the chips manufactured at this plant will be used in cars, scooters, and various industrial applications. He said that most significantly chips made in India, at this facility, will be exported to Japan, America, and Europe. Indian technology will earn global acclaim. He said, the efforts of Prime Minister have made this success possible.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:37:06+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-inaugurates-%e2%82%b97500-crore-semiconductor-osat-facility-in-gujarat/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-Photoroom.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India Overcame Biggest Energy Crisis of the Centuary: PM Modi",
+        "summary": "Prime Minister Narendra Modi today inaugurated and laid the foundation stone for development projects worth over 1.05 lakh crore rupees in Rajasthan, marking a major push to infrastructure, energy, transport and employment generation in the state. During his day-long visit, the Prime Minister inaugurated the new terminal building at Jodhpur Airport. Thereafter, he dedicated the […]",
+        "article": "Prime Minister Narendra Modi today inaugurated and laid the foundation stone for development projects worth over 1.05 lakh crore rupees in Rajasthan, marking a major push to infrastructure, energy, transport and employment generation in the state. During his day-long visit, the Prime Minister inaugurated the new terminal building at Jodhpur Airport. Thereafter, he dedicated the country&#8217;s most modern Greenfield Refinery-cum-Petrochemical Complex to the nation in Pachpadra in Balotara district. He also inspected the refinery&#8217;s state-of-the-art control room, interacted with engineers and technical experts, flagged off fuel tankers, and virtually laid the foundation stone for Jaipur Metro Phase-II. A greenfield refinery is an industrial processing plant for oil, gas, or minerals built from scratch on undeveloped clean land. Addressing the programme, the Prime Minister said the conflict in West Asia had triggered the biggest energy crisis of the 21st century, but India successfully overcame the challenge through timely decisions, effective diplomacy and prudent management of national resources. He said while many countries struggled with fuel shortages, India accurately assessed the crisis, formulated an effective strategy and used its diplomatic strength to safeguard the country&#8217;s energy security. Mr. Modi said India&#8217;s friendly relations with countries across the world played a crucial role during the crisis. He said India, which earlier imported energy from around 25 to 26 countries, expanded its sourcing to nearly 40 countries, ensuring uninterrupted fuel supplies despite global disruptions. He said this demonstrated that the interests of the nation and its citizens remain the government&#8217;s highest priority. The Prime Minister also noted that India has significantly enhanced its refining capacity and has emerged as the world&#8217;s fourth-largest refining nation. The Prime Minister said the government prevented a steep rise in domestic cooking gas prices despite global turmoil. He said the crisis could have pushed the price of an LPG cylinder to nearly 2,000 rupees, but effective intervention ensured that consumers continued to receive cylinders at around 950 rupees. He added that between April and June, oil marketing companies incurred losses of nearly 75,000 crore rupees on petrol and diesel, a burden borne by the government to protect citizens from the impact of soaring international fuel prices. Mr. Modi said the government&#8217;s efforts during the energy crisis would one day be recorded in history. He said while some people were busy spreading rumours and creating panic, officials worked round the clock behind the scenes with patience, hard work and sensitive policy decisions to ensure uninterrupted energy supplies. He thanked the people of the country for their cooperation during the difficult period and criticised those who attempted to politicise the crisis instead of supporting the nation. Referring to the global fertiliser crisis caused by the conflicts in West Asia and Ukraine, he said while urea prices in several countries rose to nearly 3,000 rupees per bag, the government ensured that Indian farmers continue to receive urea at about 300 rupees per bag, protecting them from global price shocks. Referring to the Pachpadra Refinery, the Prime Minister described it as a landmark project in India&#8217;s journey towards becoming a developed and self-reliant nation. He said the refinery would …",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:10:31+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-to-be-on-day-long-visit-to-rajasthan-and-gujarat-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260704299f-1-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "MoS Dr Jitendra Singh Calls for Mission-Mode Response to Tackle Liver Disease and Type-2 Diabetes",
+        "summary": "Science and Technology Minister Dr Jitendra Singh today called for a mission-mode national response driven by preventive healthcare and mass public awareness to tackle India&#8217;s liver epidemic and the sharp rise in Type-2 diabetes. Addressing the 3rd anniversary of the Liver and Metabolic Disease Network in New Delhi, Dr Singh said that these diseases are […]",
+        "article": "Science and Technology Minister Dr Jitendra Singh today called for a mission-mode national response driven by preventive healthcare and mass public awareness to tackle India&#8217;s liver epidemic and the sharp rise in Type-2 diabetes. Addressing the 3rd anniversary of the Liver and Metabolic Disease Network in New Delhi, Dr Singh said that these diseases are now appearing at much younger ages than before, making the challenge far more than a medical issue. Referring to India’s metabolic profile, the Minister said that the country&#8217;s genetic predisposition, higher prevalence of central obesity and distinct Indian phenotype make its population particularly vulnerable to diabetes, fatty liver and cardiovascular diseases. Calling for greater synergy across scientific institutions, Dr Singh said that the country&#8217;s expanding biotechnology ecosystem, Genome Mission and large-scale gene sequencing programme offer unprecedented opportunities to understand India&#8217;s unique disease patterns. He added that scientific progress alone cannot overcome the challenge unless it is accompanied by widespread public awareness and behavioural change.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:06:02+00:00",
+        "link": "https://newsonair.gov.in/mos-dr-jitendra-singh-calls-for-mission-mode-response-to-tackle-liver-disease-and-type-2-diabetes/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Jitendra-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Industry Experts Say Ethanol Blending Programme Implemented Through Scientific, Phased Approach",
+        "summary": "Industry experts have said that ethanol blending programme has not been introduced overnight but has been implemented through a measured, step-by-step and scientifically driven process. Addressing a press conference in New Delhi, Former Chairman and Managing Director of Engineers India Limited Vartika Shukla said that ethanol blending programme was placed in the public domain for […]",
+        "article": "Industry experts have said that ethanol blending programme has not been introduced overnight but has been implemented through a measured, step-by-step and scientifically driven process. Addressing a press conference in New Delhi, Former Chairman and Managing Director of Engineers India Limited Vartika Shukla said that ethanol blending programme was placed in the public domain for structured discussions and stakeholder consultations in 2018. She added that the initiative is backed by scientific evidence, extensive testing by automobile manufacturers, the Automotive Research Association of India and the Society of Indian Automobile Manufacturers. Speaking on the occasion, Country Head and Executive Vice President of Toyota Kirloskar Motors Vikram Gulati said that ethanol is a clean fuel which offers good drivability and acceleration. He added that in an era when people are facing the issue of climate change, this is a zero-carbon fuel derived from plants.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:55:44+00:00",
+        "link": "https://newsonair.gov.in/industry-experts-say-ethanol-blending-programme-implemented-through-scientific-phased-approach/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-04-172502.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Monsoon Session of Parliament to Be Held from July 20 to August 13",
+        "summary": "The Monsoon Session of the Parliament will commence on 20th of this month. It will continue till 13th of August. Parliamentary Affairs Minister Kiren Rijiju today informed that President Droupadi Murmu has approved the proposal of the Government to convene the Monsoon Session of Parliament from 20th July. In a social media post, Mr Rijiju […]",
+        "article": "The Monsoon Session of the Parliament will commence on 20th of this month. It will continue till 13th of August. Parliamentary Affairs Minister Kiren Rijiju today informed that President Droupadi Murmu has approved the proposal of the Government to convene the Monsoon Session of Parliament from 20th July. In a social media post, Mr Rijiju said, the session will focus on meaningful debate, discussion and decisions on issues of national importance.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:18:04+00:00",
+        "link": "https://newsonair.gov.in/monsoon-session-of-parliament-to-be-held-from-july-20-to-august-13/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/Parliament-Passes-Bill-to-Readjust-ST-Representation-in-Goa-Assembly-2-4-1-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi Highlights Government’s Efforts to Strengthen Consumer Justice Through Digital Reforms",
+        "summary": "Prime Minister Narendra Modi today highlighted the government&#8217;s efforts to strengthen consumer justice through digital reforms. Sharing an article written by Union Minister Pralhad Joshi, Mr Modi said that following extensive consultations with stakeholders, e-Jagriti has been refined, making consumer justice one of the key sectors undergoing structural digital transformation. In an article",
+        "article": "Prime Minister Narendra Modi today highlighted the government&#8217;s efforts to strengthen consumer justice through digital reforms. Sharing an article written by Union Minister Pralhad Joshi, Mr Modi said that following extensive consultations with stakeholders, e-Jagriti has been refined, making consumer justice one of the key sectors undergoing structural digital transformation. In an article on the e-Jagriti platform, Mr. Joshi said, it is a transformative initiative aimed at modernising India&#8217;s consumer justice system by digitising the entire lifecycle of a consumer complaint. He said, the e -Jagriti platform makes the system faster, more transparent and more accessible by leveraging digital technologies, artificial intelligence and hybrid hearings, while bridging gaps that earlier discouraged consumers from seeking redressal. The Union Minister said, the citizen-centric design of the portal, continuous improvement based on stakeholder feedback and its nationwide implementation reflect the government&#8217;s commitment to responsive governance. He added that as India&#8217;s digital economy continues to expand, an efficient consumer dispute resolution mechanism will play a vital role in strengthening public trust, promoting responsible business practices and ensuring that every consumer can access justice with ease and confidence.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T10:18:31+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-highlights-governments-efforts-to-strengthen-consumer-justice-through-digital-reforms/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260623392f-e1782227130311.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Bilateral Investment Agreement between India and Israel comes into force today",
         "summary": "The Bilateral Investment Agreement (BIA) between India and Israel came into force today. The agreement was signed in September last year in New Delhi. The Finance Ministry said that the BIA is a landmark step towards strengthening bilateral economic relations and ensuring a secure and predictable investment climate. It said that the BIA is robust […]",
         "article": "The Bilateral Investment Agreement (BIA) between India and Israel came into force today. The agreement was signed in September last year in New Delhi. The Finance Ministry said that the BIA is a landmark step towards strengthening bilateral economic relations and ensuring a secure and predictable investment climate. It said that the BIA is robust in the protection of investments and investors with respect to their investments while being ﬂexible enough to retain sovereign policy space in line with legitimate public policy objectives. The BIA also reﬂects the modern principles and evolving jurisprudence of international investment law. The Ministry noted that the BIA is expected to contribute to increased cross-border investment activity and further deepen the economic partnership between India and Israel.",
@@ -395,84 +461,51 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "PM Modi dedicates India’s first greenfield integrated refinery-cum-petrochemical complex in Balotra; Also Inaugurates New Terminal Building of Jodhpur Airport",
-        "summary": "Prime Minister Narendra Modi dedicated, inaugurated, and laid the foundation stone for development projects worth approximately 1.06 lakh crore rupees at Balotra, Rajasthan. These projects spanned multiple sectors, including petrochemicals, urban transport, railways, roads, renewable energy, and power transmission. The Prime Minister dedicated India&#8217;s first greenfield integrated refinery-cum",
-        "article": "Prime Minister Narendra Modi dedicated, inaugurated, and laid the foundation stone for development projects worth approximately 1.06 lakh crore rupees at Balotra, Rajasthan. These projects spanned multiple sectors, including petrochemicals, urban transport, railways, roads, renewable energy, and power transmission. The Prime Minister dedicated India&#8217;s first greenfield integrated refinery-cum-petrochemical complex to the nation at Pachpadra in Balotra, marking a landmark achievement in the country&#8217;s energy and petrochemical sector. Developed as a joint venture between Hindustan Petroleum Corporation Limited and the Government of Rajasthan, the 9 Million Metric Tonnes Per Annum (MMTPA) Greenfield Refinery-cum-Petrochemical Complex was established with an investment of over 79,450 crore rupees. Prime Minister Modi also laid the foundation stone for Phase 2 of the Jaipur Metro Rail Project, which has a total cost of over 13 thousand crore rupees. Under Phase 2, a 41-km north-south metro corridor will be developed from Prahladpura to Todi Mod, connecting the industrial and residential areas of Sitapura and Vishwakarma Industrial Area (VKI) through 36 stations. The Prime Minister further dedicated to the nation the Churu-Sadulpur and Churu-Ratangarh rail doubling projects and the four-laning of National Highway-125A, Jodhpur Ring Road Section-2. He also dedicated to the nation SJVN Limited&#8217;s 1,000 MW Bikaner Solar Energy Project and inaugurated the transmission line constructed at a cost of over 1,900 crore rupees for power evacuation from the Rajasthan Renewable Energy Zone (REZ). He also laid the foundation stone for the 530 km-long power transmission system for the Rajasthan REZ. Mr Modi also handed over appointment letters to around 54,000 youth recruited across various departments of the Government of Rajasthan. Speaking on the occasion, the Prime Minister said that no matter how big or unexpected the challenge may be, the New India neither retreats from its resolve nor slows down its pace. He said that the inauguration of the new airport terminal at Jodhpur today marks another significant step in the country&#8217;s development journey. The Prime Minister expressed confidence that the new terminal will give a major boost to tourism, trade and employment opportunities across the Marwar region. Union Minister for Petroleum and Natural Gas Hardeep Singh Puri has said that India&#8217;s refining capacity is expected to increase to 320 million metric tonnes per annum by 2030. He described the expansion as a significant step towards strengthening the country&#8217;s energy self-reliance. The Minister said that two new refineries have been dedicated to the nation over the past ten years, even as refining capacity has declined in several parts of the world. He noted that despite disruptions in the global energy supply chain, fuel availability in the country remained unaffected and not a single petrol pump was forced to shut down. Mr Puri said that the Rajasthan Refinery will boost industrial and economic activities in the region. Describing the project as a major milestone in the journey towards an Atmanirbhar Bharat, he said it will reinforce the nation&#8217;s commitment to a secure and prosperous future. Earlier, the Prime Minister inaugurated the New Terminal Building of Jodhpur Airport in Rajasthan. The project has been developed at a total cost of 480 crore rupees. Spread over an area of more than 23 thousand square …",
+        "title": "Defence Minister Highlights India’s Significant Progress, Says Defence Exports Record Over ₹38,000 Crore",
+        "summary": "Defence Minister Rajnath Singh today highlighted India&#8217;s significant progress in manufacturing and technology, saying the country&#8217;s defence exports have reached a record of over 38 thousand crore rupees. Addressing an event organised by a private media organisation in New Delhi, Mr Singh said, the sharp rise from 686 crore rupees in the financial year 2013-14 […]",
+        "article": "Defence Minister Rajnath Singh today highlighted India&#8217;s significant progress in manufacturing and technology, saying the country&#8217;s defence exports have reached a record of over 38 thousand crore rupees. Addressing an event organised by a private media organisation in New Delhi, Mr Singh said, the sharp rise from 686 crore rupees in the financial year 2013-14 reflects an almost 57-fold increase and underlines growing global confidence in Make in India defence platforms. The Defence Minister said annual defence production has also touched an all-time high of over one lakh 78 thousand crore rupees in the financial year 2025-26, nearly three times the level recorded in 2014-15. Highlighting India&#8217;s broader manufacturing achievements, Mr Singh cited the expansion of mobile phone manufacturing, growth in automobile exports, indigenous locomotive production, and the strengthening of digital infrastructure under the Make in India initiative. Speaking about the country&#8217;s progress over the past decade, Mr Singh said, the Prime Minister Narendra Modi-led government has addressed shortages, expanded opportunities, and transformed the work culture. He said, the government is laying a strong foundation for Viksit Bharat through the policy of Reform, Perform, Transform and expressed confidence that the world will witness the rise of a developed India. Referring to the abrogation of Article 370 in Jammu and Kashmir, Mr Singh said, the government&#8217;s sustained efforts to eliminate Naxalism are examples of its resolve to address challenges that were once considered beyond resolution.",
         "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:35:31+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-to-be-on-day-long-visit-to-rajasthan-and-gujarat-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11-4.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Centre issues notice to Telegram messaging app over widespread piracy reports, asks to submit report within 15 days",
-        "summary": "The Government has issued a notice to Telegram over widespread piracy reports. According to the official sources, the government has directed Telegram to take immediate measures against pirated films and Over The Top (OTT) content. Sources further said that the platform has been asked to submit the action taken report within 15 days. The move […]",
-        "article": "The Government has issued a notice to Telegram over widespread piracy reports. According to the official sources, the government has directed Telegram to take immediate measures against pirated films and Over The Top (OTT) content. Sources further said that the platform has been asked to submit the action taken report within 15 days. The move aims to protect India’s creator economy, film industry, broadcasters, OTT platforms, producers and distributors.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:05:24+00:00",
-        "link": "https://newsonair.gov.in/centre-issues-notice-to-telegram-over-widespread-piracy-reports-asks-to-submit-report-within-15-days/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Western_Union_Telegram_RCC_Eisenhower_Sept_26_1955.jpg/1280px-Western_Union_Telegram_RCC_Eisenhower_Sept_26_1955.jpg",
-        "image_credit": "Wikipedia – Telegram (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Narendra Modi congratulates Keiko Fujimori on Peru Presidential poll victory",
-        "summary": "Prime Minister Narendra Modi has congratulated Keiko Fujimori on her victory in the Peruvian Presidential elections. In a social media post, Mr Modi said that India deeply values its close friendship with Peru and remains committed to strengthening the bilateral partnership between the two nations across diverse sectors. The Prime Minister wished Ms Fujimori a […]",
-        "article": "Prime Minister Narendra Modi has congratulated Keiko Fujimori on her victory in the Peruvian Presidential elections. In a social media post, Mr Modi said that India deeply values its close friendship with Peru and remains committed to strengthening the bilateral partnership between the two nations across diverse sectors. The Prime Minister wished Ms Fujimori a successful tenure and said he looks forward to working closely with her to further deepen the relationship between India and Peru.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T07:23:47+00:00",
-        "link": "https://newsonair.gov.in/pm-narendra-modi-congratulates-keiko-fujimori-on-peru-presidential-poll-victory/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/peru2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Narendra Modi will embark on 6 day visit to Indonesia, Australia & New Zealand from July 6",
-        "summary": "Prime Minister Narendra Modi will be on a six-day visit to Indonesia, Australia and New Zealand from Monday. Briefing the media in New Delhi, Secretary (East) in the Ministry of External Affairs, Rudrendra Tandon, informed that Mr Modi will be in Indonesia from 6th to 8th of this month. This will be the Prime […]",
-        "article": "Prime Minister Narendra Modi will be on a six-day visit to Indonesia, Australia and New Zealand from Monday. Briefing the media in New Delhi, Secretary (East) in the Ministry of External Affairs, Rudrendra Tandon, informed that Mr Modi will be in Indonesia from 6th to 8th of this month. This will be the Prime Minister’s fourth visit to Indonesia and his first bilateral visit since the elevation of India-Indonesia ties to the level of Comprehensive Strategic Partnership in May 2018. During the visit, the Prime Minister will hold bilateral discussions with Indonesian President Prabowo Subianto and review the progress made in the partnership. His main engagements will be in Jakarta, but the Prime Minister will also visit the cultural and historic city of Yogyakarta. In Jakarta, the Prime Minister will address a large gathering of the Indian Diaspora. Secretary (East) said that in Yogyakarta, Mr Modi will go to the Prambanan Temple complex. He said India and Indonesia will be collaborating on the conservation work there. He said the visit of the Prime Minister to Indonesia will very much be a continuation of the discussions on various bilateral tracks of cooperation that began when President Prabowo visited India as the Guest of Honour for the 2025 Republic Day celebrations. The Secretary (East) said, Indonesia has always played an important role in the security and stability of the Malacca Strait maritime zone. Mr Tandon said, &#8220;This is a very important maritime zone for India, as it represents one of the country&#8217;s most important sea lanes of communication. He said it is significant not only for India as an Indian Ocean nation but also for the global economy as well. The Secretary (East) said the second leg of the visit will be to Australia from 8th to 10th of this month. He said Mr Modi will reach Melbourne, where he will participate in the third India-Australia Annual Summit with Australian Prime Minister Anthony Albanese. Mr Tandon said the conversations will cover emerging areas of the bilateral relations, in particular the critical minerals, the cybersecurity domain, supply chain resilience, emerging technologies, and others. During his visit, the Prime Minister will also participate in the India-Australia CEOs Forum, where he will address a gathering of top business leaders from both countries. Prime Minister will also address a large gathering of the Indian Diaspora, who constitute a strong pillar of the India-Australia relationship. On the third and last leg of his three-nation visit, Mr Modi will be in New Zealand from 10th to 11th July. Mr Tandon said Prime Minister Narendra Modi will hold talks with his New Zealand counterpart, Christopher Luxon. Both leaders will review the entire gamut of the bilateral relationship, which has seen significant progress in the last two years, especially in the areas of trade and commerce and defence. The Secretary (East) said the visit to New Zealand will be the first visit by the Indian Prime Minister in 40 years. Prime Minister will also interact with prominent business and sports personalities. In a reflection of the strong people-to-people ties that exist between India and New Zealand, the Prime Minister will address a large gathering of the Indian Diaspora during the visit.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T05:28:09+00:00",
-        "link": "https://newsonair.gov.in/pm-narendra-modi-will-embark-on-6-day-visit-to-indonesia-australia-new-zealand-from-july-6/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/PM-Modi-to-visit-France-and-the-US-from-Feb-10-1-1-1-2-1-1-2-1-1-1-1-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "VP Radhakrishnan, Union Minister Amit Shah extend greetings on occasion of International Day of Cooperatives",
-        "summary": "Vice President C P Radhakrishnan and Union Minister of Cooperation Amit Shah have extended their greetings on the occasion of the International Day of Cooperatives today. In a social media post, the Vice President said that, rooted in the country&#8217;s civilisational ethos of Sahakar, cooperatives have been a powerful force in empowering farmers, women, and […]",
-        "article": "Vice President C P Radhakrishnan and Union Minister of Cooperation Amit Shah have extended their greetings on the occasion of the International Day of Cooperatives today. In a social media post, the Vice President said that, rooted in the country&#8217;s civilisational ethos of Sahakar, cooperatives have been a powerful force in empowering farmers, women, and small entrepreneurs, strengthening communities and fostering inclusive growth. He said that from their beginnings in the pre-Independence era, cooperatives have evolved into a vital pillar of nation-building, embodying the spirit of Sahakar Se Samriddhi and contributing to the vision of Viksit Bharat @ 2047. Mr Shah said that cooperation is the foundation of India&#8217;s culture, collective strength, and self-reliance. He said that under the leadership of Prime Minister Narendra Modi, the cooperative sector has gained fresh momentum and expanded significantly. The Minister added that initiatives such as the Cooperative University, modern training centres, and the empowerment of cooperative institutions in emerging sectors are strengthening the resolve of Sahakar Se Samriddhi by empowering farmers, women, small entrepreneurs, and workers.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T05:06:37+00:00",
-        "link": "https://newsonair.gov.in/vp-radhakrishnan-union-minister-amit-shah-extend-greetings-on-occasion-of-international-day-of-cooperatives/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/IDC.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt raises onion procurement price by 13% to Rs 2,125 per quintal",
-        "summary": "The Government has increased the procurement price of onions for the Price Stabilisation Buffer by 13 per cent from 1,875 rupees per quintal to 2,125 rupees per quintal. Consumer Affairs, Food and Public Distribution Ministry said that the revised procurement price is effective from today. The Ministry said that the revised procurement price will ensure […]",
-        "article": "The Government has increased the procurement price of onions for the Price Stabilisation Buffer by 13 per cent from 1,875 rupees per quintal to 2,125 rupees per quintal. Consumer Affairs, Food and Public Distribution Ministry said that the revised procurement price is effective from today. The Ministry said that the revised procurement price will ensure better returns for onion farmers while supporting buffer procurement efforts. The procurement of onions through the National Agricultural Cooperative Marketing Federation of India Limited (NAFED) and the National Cooperative Consumers&#8217; Federation of India Limited (NCCF) for the Government&#8217;s Price Stabilisation Buffer is in progress. As per the Second Advance Estimates of the Department of Agriculture and Farmers&#8217; Welfare for 2025-26, onion production is estimated at over 307 lakh metric tonnes. The Ministry said that current stock levels in Maharashtra, Madhya Pradesh and Gujarat are adequate and at present, there are no indications of any shortage of stored onions. The all-India average retail price is 31 rupees per kilogram. Onion exports are also normal, with about 1,50,000 metric tonnes exported during June this year.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:24:23+00:00",
-        "link": "https://newsonair.gov.in/govt-raises-onion-procurement-price-by-13-to-rs-2125-per-quintal/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Home Ministry designates 23 Pakistan based individuals as terrorists under UAPA",
-        "summary": "The Union Home Ministry has designated 23 individuals based in Pakistan as terrorists under the Unlawful Activities (Prevention) Act – UAPA. They were linked to Jaish-e-Mohammad, Lashkar-e-Taiba and other organisations. The Ministry said the Government is committed to dismantling every terror module to safeguard the country and its citizens. The amendment in the UAPA has […]",
-        "article": "The Union Home Ministry has designated 23 individuals based in Pakistan as terrorists under the Unlawful Activities (Prevention) Act – UAPA. They were linked to Jaish-e-Mohammad, Lashkar-e-Taiba and other organisations. The Ministry said the Government is committed to dismantling every terror module to safeguard the country and its citizens. The amendment in the UAPA has strengthened India’s anti-terror legal framework by expanding the powers of the Central Government and investigative agencies. The amendment has empowered the Central Government to designate individuals, not merely organisations, as terrorists under the Act. Akashvani correspondent reports that out of the 23 terrorists announced today, 17 are Pakistani nationals and six are Indian nationals. However, all of them are presently operating terrorist activities from Pakistan and Pakistan-occupied Jammu and Kashmir. The designated terrorists are involved in anti-India activities, carrying out terror attacks, inciting terror, trafficking arms, infiltrating through the border, facilitating terrorist organisations, raising funds and recruiting terrorists. This will allow agencies such as the National Investigation Agency to block their finances, impose an embargo on arms sales, and seize their assets. The Central Government has designated 80 individuals as terrorists since the amendment to the UAPA came into force in 2019.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:09:16+00:00",
-        "link": "https://newsonair.gov.in/mha-designates-23-pakistan-based-individuals-as-terrorists-under-uapa/",
+        "pubDate": "2026-07-04T11:13:16+00:00",
+        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-highlights-indias-significant-progress-says-defence-exports-record-over-%e2%82%b938000-crore/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "Drone Attack Hits St Petersburg Oil Terminal; Russian Air Defences Down 72 Ukrainian Drones",
+        "summary": "A Ukrainian drone attack struck a Russian oil terminal in St Petersburg today, with Russian authorities claiming that air defence systems intercepted dozens of drones over the city and surrounding areas. St Petersburg Governor Alexander Beglov said the attack targeted the Kirovsky district on the Baltic Sea. He added that Russian air defences shot down […]",
+        "article": "A Ukrainian drone attack struck a Russian oil terminal in St Petersburg today, with Russian authorities claiming that air defence systems intercepted dozens of drones over the city and surrounding areas. St Petersburg Governor Alexander Beglov said the attack targeted the Kirovsky district on the Baltic Sea. He added that Russian air defences shot down 72 Ukrainian drones over the country&#8217;s second-largest city and the neighbouring region. Ukrainian President Volodymyr Zelenskyy described the operation as part of Ukraine&#8217;s long-range sanctions against Russia. He said, Ukrainian forces had targeted the port&#8217;s oil infrastructure as well as a military facility on Kronstadt Island, located off the coast of St Petersburg. Meanwhile, the Russian-occupied Crimean Peninsula has also suffered from heavy strikes, causing local authorities to suspend gasoline sales to civilians. Moscow-installed Governor Sergei Aksyonov said Ukrainian attack today killed one person and injured two others, including a 10-year-old child.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:19:11+00:00",
+        "link": "https://newsonair.gov.in/drone-attack-hits-st-petersburg-oil-terminal-russian-air-defences-down-72-ukrainian-drones/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2023-07-03T124858Z_1404989807_RC2OV1A1GIZU_RTRMADP_3_POLAND-GERMANY-scaled-e1758055667215-1024x734-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "651 Indian Army Personnel Awarded UN Medal for Peacekeeping Mission in DR Congo",
+        "summary": "India&#8217;s longstanding contribution to global peacekeeping mission received a significant recognition as 651 Indian Army personnel serving under the United Nations have been awarded the prestigious United Nations Medal during a ceremonial Medal Parade held at the Permanent Operating Base Sake in the Democratic Republic of the Congo (DRC). The medals were presented during a […]",
+        "article": "India&#8217;s longstanding contribution to global peacekeeping mission received a significant recognition as 651 Indian Army personnel serving under the United Nations have been awarded the prestigious United Nations Medal during a ceremonial Medal Parade held at the Permanent Operating Base Sake in the Democratic Republic of the Congo (DRC). The medals were presented during a ceremony held yesterday, honouring the Indian contingent for its professionalism, operational excellence and dedicated service under the United Nations peacekeeping mission. The event was attended by senior officials of the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO), representatives from the Force Headquarters, military commanders and other distinguished guests.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T10:22:32+00:00",
+        "link": "https://newsonair.gov.in/651-indian-army-personnel-awarded-un-medal-for-peacekeeping-mission-in-dr-congo/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMYPtLqbIAAUApa.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Three young Baloch reportedly missing following separate overnight operations in Balochistan",
+        "summary": "Three young Baloch men have reportedly gone missing following separate overnight operations in Pakistan&#8217;s Balochistan province, according to local media and rights groups. The incidents were reported in the Kech and Gwadar districts, where families allege that security personnel detained the men and took them to undisclosed locations without providing any legal explanation. Human rights […]",
+        "article": "Three young Baloch men have reportedly gone missing following separate overnight operations in Pakistan&#8217;s Balochistan province, according to local media and rights groups. The incidents were reported in the Kech and Gwadar districts, where families allege that security personnel detained the men and took them to undisclosed locations without providing any legal explanation. Human rights group PAANK said one of the missing persons is a student who was allegedly detained in Gwadar on July 1. The organisation has expressed concern over his safety. The reported cases add to longstanding allegations of enforced disappearances in Balochistan, which Pakistan&#8217;s security agencies have previously denied. &nbsp;",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T09:14:52+00:00",
+        "link": "https://newsonair.gov.in/three-young-baloch-reportedly-missing-following-separate-overnight-operations-in-balochistan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "IAEA says Ukraine’s Zaporizhzhia nuclear plant loses off-site power for 21st time",
         "summary": "The International Atomic Energy Agency (IAEA) has said that the Zaporizhzhia Nuclear Power Plant (ZNPP) in Ukraine has lost its off-site power supply for the 21st time since the start of the Russia-Ukraine conflict. The incident has raised concerns over nuclear safety. The IAEA said the outage was triggered by military activity, forcing the plant&#8217;s […]",
@@ -549,42 +582,20 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Heatwave-784x441-1.webp",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "Drone strike on market in Russia-controlled Zaporizhzhia kills five",
-        "summary": "Russia has said that at least five people were killed and 18 others injured after a drone strike hit a market in Tokmak in the Zaporizhzhia region today. Zaporizhzhia region Governor Evgeny Balitsky said the casualties are preliminary as rescue operations continue. &#160; According to authorities, the strike targeted civilians shopping at the market, and […]",
-        "article": "Russia has said that at least five people were killed and 18 others injured after a drone strike hit a market in Tokmak in the Zaporizhzhia region today. Zaporizhzhia region Governor Evgeny Balitsky said the casualties are preliminary as rescue operations continue. &nbsp; According to authorities, the strike targeted civilians shopping at the market, and the injured have been shifted to a local hospital. Separately, officials in Russia&#8217;s Belgorod region said an overnight missile strike killed one woman and injured another. The Zaporizhzhia region remains a disputed region, claimed by both Russia and Ukraine amid the ongoing conflict.",
-        "date": "2026-07-03",
-        "pubDate": "2026-07-03T16:17:25+00:00",
-        "link": "https://newsonair.gov.in/drone-strike-on-market-in-russia-controlled-zaporizhzhia-kills-five/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/5.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Moldova PM Alexandru Munteanu resigns",
-        "summary": "The Prime Minister of Moldova, Alexandru Munteanu, announced his resignation today in a surprise move which also triggers the collapse of his cabinet. Alexandru Munteanu, who was appointed by President Maia Sandu in November 2025 following the victory of her pro-European Party of Action and Solidarity (PAS) in parliamentary elections. &#160; Mr. Munteanu did not […]",
-        "article": "The Prime Minister of Moldova, Alexandru Munteanu, announced his resignation today in a surprise move which also triggers the collapse of his cabinet. Alexandru Munteanu, who was appointed by President Maia Sandu in November 2025 following the victory of her pro-European Party of Action and Solidarity (PAS) in parliamentary elections. &nbsp; Mr. Munteanu did not give a clear reason for his resignation. President Sandu accepted Munteanu&#8217;s resignation. Ms. Sandu said a new prime minister will be appointed soon and that Munteanu would remain in interim charge while she holds consultations with parliamentary factions ⁠before appointing a ⁠candidate.",
-        "date": "2026-07-03",
-        "pubDate": "2026-07-03T16:14:46+00:00",
-        "link": "https://newsonair.gov.in/moldova-pm-alexandru-munteanu-resigns/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Moldova-PM-Alexandru-Munteanu-resigns.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Clinical trial for two possible Ebola treatments begins in DR Congo",
-        "summary": "A clinical trial of two possible Ebola treatments has begun in the Democratic Republic of the Congo (DR Congo). The World Health Organization (WHO), Director-General Tedros Adhanom Ghebreyesus announced that the first participant had been enrolled in the Platform Adaptive Randomized Trial for New and Repurposed Filovirus TreatmentS (PARTNERS), which will test treatments for the […]",
-        "article": "A clinical trial of two possible Ebola treatments has begun in the Democratic Republic of the Congo (DR Congo). The World Health Organization (WHO), Director-General Tedros Adhanom Ghebreyesus announced that the first participant had been enrolled in the Platform Adaptive Randomized Trial for New and Repurposed Filovirus TreatmentS (PARTNERS), which will test treatments for the Bundibugyo strain of the virus. He said, 438 people have died in the outbreak so far, with 1,406 confirmed cases reported. The Bundibugyo strain is highly infectious, and there are currently no approved vaccines or specific treatments. The current trial is sponsored by the WHO, and is being co-ordinated by scientists at the Institut National de Recherche Biomédicale in DR Congo, the Institute of Tropical Medicine in Belgium, and the University of Oxford in the UK. The current outbreak of Ebola in DR Congo began in May, though transmission had been going undetected for some time.",
-        "date": "2026-07-03",
-        "pubDate": "2026-07-03T15:08:06+00:00",
-        "link": "https://newsonair.gov.in/clinical-trial-for-two-possible-ebola-treatments-begins-in-dr-congo/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/AA.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "sports": [
+      {
+        "title": "FIFA World Cup Round of 16 Begins Today with Canada Taking on Morocco",
+        "summary": "In FIFA World Cup, The Round of 16 will start from today with Canada taking on Morocco in Houston, Texas tonight. The match is scheduled to begin at 10:30 PM IST. Canada reached this historic knockout stage for the first time by defeating South Africa, while Morocco advanced by eliminating the Netherlands in a penalty […]",
+        "article": "In FIFA World Cup, The Round of 16 will start from today with Canada taking on Morocco in Houston, Texas tonight. The match is scheduled to begin at 10:30 PM IST. Canada reached this historic knockout stage for the first time by defeating South Africa, while Morocco advanced by eliminating the Netherlands in a penalty shootout. In another round of 16 fixture, Paraguay will take on France at Philadelphia in United States. The match is scheduled to kick off at 02:30 AM. Earlier, in the final Round of 32 match, Colombia defeated Ghana 1-nil at Kansas City Stadium in the US this morning, to book their place in the next round. Colombia will now face Switzerland in the Round of 16. While, Defending champions Argentina defeated Cabo Verde 3-2 after extra time in a thrilling Round of 32 clash to set up a Round of 16 meeting with Egypt. In another match, Egypt advanced to the Round of 16 after defeating Australia 4-2 in a penalty shootout following a 1-1 draw after regulation and extra time.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:42:34+00:00",
+        "link": "https://newsonair.gov.in/fifa-world-cup-round-of-16-begins-today-with-canada-taking-on-morocco/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/FIFA-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Grand Chess Tour: India’s R Praggnanandhaa ends rapid section as joint leader",
         "summary": "Indian Grandmaster R Praggnanandhaa produced a stunning finish to the rapid section of the Croatia Grand Chess Tour. He won all three of his matches yesterday to tie for the lead with France&#8217;s Alireza Firouzja. Praggnanandhaa defeated Ivan Saric, Bogdan- Daniel Deac and Anish Giri to climb to the top of the standings ahead of […]",
@@ -683,20 +694,20 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/2021_2image_11_52_403218485badminton-1-1-2.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "ICC Women’s T20 World Cup: England to face South Africa in second semi-final at Kennington Oval in London",
-        "summary": "In the ICC Women&#8217;s T20 World Cup, England will face South Africa in the second semi-final at the Kennington Oval in London today. The match will begin at 11 PM IST. The winner of this match will face Australia in the final at the iconic Lord&#8217;s cricket ground in London on July 5. England […]",
-        "article": "In the ICC Women&#8217;s T20 World Cup, England will face South Africa in the second semi-final at the Kennington Oval in London today. The match will begin at 11 PM IST. The winner of this match will face Australia in the final at the iconic Lord&#8217;s cricket ground in London on July 5. England enter the match as favourites after an unbeaten group stage, winning all five games. Their batting has been strong throughout the tournament, especially the top order led by Danni Wyatt-Hodge. The return of Nat Sciver-Brunt further strengthens their squad, while Sophia Dunkley has also performed well in the middle order. England’s spin attack has also been effective. On the other side, South Africa won four of their five group matches but have been less consistent overall. Their key players include Laura Wolvaardt, Tazmin Brits, Marizanne Kapp, and Nadine de Klerk. South Africa’s pace bowlers-Kapp, Shabnim Ismail, and Ayabonga Khaka-have been a major strength, taking the most wickets as a unit in the tournament. Their performance against England’s strong top order could decide the match. Australia entered the final, defeating the West Indies by 8 wickets in the semifinal in London on Tuesday.",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T09:07:34+00:00",
-        "link": "https://newsonair.gov.in/icc-womens-t20-world-cup-england-to-face-south-africa-in-second-semi-final-at-kennington-oval-in-london/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/iii.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "business": [
+      {
+        "title": "Global Crude Oil Prices Near Pre-West Asia Conflict Levels Amid Progress in US-Iran Talks",
+        "summary": "Global crude oil prices are hovering near levels last seen before the West Asia conflict erupted in late February, as traffic through the Strait of Hormuz has improved amid progress in US-Iran talks. A spokesperson for Qatar’s Foreign Ministry said in a social media post that the talks made positive progress on matters related to […]",
+        "article": "Global crude oil prices are hovering near levels last seen before the West Asia conflict erupted in late February, as traffic through the Strait of Hormuz has improved amid progress in US-Iran talks. A spokesperson for Qatar’s Foreign Ministry said in a social media post that the talks made positive progress on matters related to the memorandum that halted the war in June. During the week at the Intercontinental Exchange (ICE), Brent crude September futures dropped nearly 0.7 per cent to settle at 72 US dollars and 12 cents per barrel, while West Texas Intermediate August futures declined 0.6 per cent to end at 68 US dollars and 82 cents per barrel.",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T10:51:18+00:00",
+        "link": "https://newsonair.gov.in/global-crude-oil-prices-near-pre-west-asia-conflict-levels-amid-progress-in-us-iran-talks/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Major Asian markets close higher; European indices trade mixed",
         "summary": "Major Asian stock market indices ended higher today. South Korea&#8217;s Kospi surged nearly 5.8 per cent as investors bought bargain-priced semiconductor shares following the previous session&#8217;s sharp sell-off. Japan&#8217;s Nikkei 225 gained one and a half per cent, Hong Kong’s Hang Seng index rose nearly 1.3 per cent, Singapore’s Strait Times index climbed half a […]",
@@ -793,17 +804,6 @@ window.VM_NEWS = {
         "pubDate": "2026-06-29T12:33:22+00:00",
         "link": "https://newsonair.gov.in/most-asian-stock-indices-end-higher/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Stock-market.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Global crude oil prices rise in early trade",
-        "summary": "Global crude oil prices rose today. Brent crude was trading 0.8 per cent up at 72 US dollars and 58 cents per barrel. West Texas Intermediate crude was also trading nearly 1.2 per cent up at 70 US dollars and three cents per barrel, when reports last came in.",
-        "article": "Global crude oil prices rose today. Brent crude was trading 0.8 per cent up at 72 US dollars and 58 cents per barrel. West Texas Intermediate crude was also trading nearly 1.2 per cent up at 70 US dollars and three cents per barrel, when reports last came in.",
-        "date": "2026-06-29",
-        "pubDate": "2026-06-29T12:30:35+00:00",
-        "link": "https://newsonair.gov.in/global-crude-oil-prices-rise-in-early-trade/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/03/Crude-oil.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -1025,6 +1025,94 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "संशोधित उड़ान योजना का शुभारंभ भारत की क्षेत्रीय कनेक्टिविटी यात्रा के अगले अध्‍याय का परिचायक है: नागर विमानन मंत्री राममोहन नायडू",
+        "summary": "नागर विमानन मंत्री राममोहन नायडू ने आज कहा कि संशोधित उड़ान योजना का शुभारंभ भारत की क्षेत्रीय कनेक्टिविटी यात्रा के अगले अध्‍याय का परिचायक है। श्री नायडू ने कहा कि 28 हजार 840 करोड़ रुपये से अधिक के बजट आवंटन के साथ प्रधानमंत्री मोदी द्वारा शुरू की गई यह योजना टीयर-2 और टीयर-3 शहरों में […]",
+        "article": "नागर विमानन मंत्री राममोहन नायडू ने आज कहा कि संशोधित उड़ान योजना का शुभारंभ भारत की क्षेत्रीय कनेक्टिविटी यात्रा के अगले अध्&#x200d;याय का परिचायक है। श्री नायडू ने कहा कि 28 हजार 840 करोड़ रुपये से अधिक के बजट आवंटन के साथ प्रधानमंत्री मोदी द्वारा शुरू की गई यह योजना टीयर-2 और टीयर-3 शहरों में कनेक्टिविटी को मजबूत बनाएगी। उन्&#x200d;होंने कहा कि यह योजना 100 नये हवाई अड्डों और 200 हेलीपैड के विकास में सुविधा प्रदान करेगी। इससे लाखों लोगों की हवाई यात्रा का सपना साकार होने के करीब आएगा और एक उभरते हुए भारत की आकांक्षाओं को जोड़ा जा सकेगा। जोधपुर हवाई अड्डे पर नये टर्मिनल भवन के उद्घाटन का उल्&#x200d;लेख करते हुए श्री नायडू ने कहा कि&#x200d; विश्&#x200d;व स्&#x200d;तरीय सुविधा मारवाड क्षेत्र में संपर्क को सशक्&#x200d;त बनाएगी। वहीं, यह सुविधा राजस्&#x200d;थान में पर्यटन, व्&#x200d;यापार और आर्थिक विकास के नये द्वार खोलेगी।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:33:12+00:00",
+        "link": "https://newsonair.gov.in/hi/launch-of-the-revised-udan-scheme-marks-the-next-chapter-in-indias-regional-connectivity-journey-civil-aviation-minister-rammohan-naidu/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/682621d4b78c8-ram-mohan-naidu-has-got-y-category-security-15180741-16x9-1.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उद्योग जगत के विशेषज्ञों ने कहा- एथेनॉल मिश्रण कार्यक्रम चरणबद्ध और वैज्ञानिक रूप से संचालित प्रक्रिया से लागू किया गया है",
+        "summary": "उद्योग जगत के विशेषज्ञों ने कहा है कि एथेनॉल मिश्रण कार्यक्रम रातोंरात लागू नहीं किया गया है, बल्कि एक सुनियोजित, चरणबद्ध और वैज्ञानिक रूप से संचालित प्रक्रिया के जरिये इसे लागू किया गया है। नई दिल्‍ली में एक संवाददाता सम्‍मेलन को सम्‍बोधित करते हुए इंजीनियर्स इंडिया लिमिटेड की पूर्व अध्‍यक्ष और प्रबंध निदेशक वर्तिका शुक्‍ला […]",
+        "article": "उद्योग जगत के विशेषज्ञों ने कहा है कि एथेनॉल मिश्रण कार्यक्रम रातोंरात लागू नहीं किया गया है, बल्कि एक सुनियोजित, चरणबद्ध और वैज्ञानिक रूप से संचालित प्रक्रिया के जरिये इसे लागू किया गया है। नई दिल्&#x200d;ली में एक संवाददाता सम्&#x200d;मेलन को सम्&#x200d;बोधित करते हुए इंजीनियर्स इंडिया लिमिटेड की पूर्व अध्&#x200d;यक्ष और प्रबंध निदेशक वर्तिका शुक्&#x200d;ला ने कहा कि एथेनॉल मिश्रण कार्यक्रम 2018 में संरचित चर्चा और हितधारकों के परामर्श के लिए सार्वजनिक क्षेत्र में रखा गया था। उन्&#x200d;होंने कहा कि इस पहल को वैज्ञानिक प्रमाणों, ऑटोमोबाइल निर्माताओं द्वारा किए गए व्यापक परीक्षणों, भारतीय ऑटोमोटिव अनुसंधान संघ और भारतीय ऑटोमोबाइल निर्माता सोसायटी का समर्थन प्राप्त है। इस अवसर पर टोयोटा किर्लोस्&#x200d;कर मोटर्स के प्रमुख और कार्यकारी उपाध्&#x200d;यक्ष विक्रम गुलाटी ने कहा कि एथेनॉल एक स्&#x200d;वच्&#x200d;छ ईंधन है। यह अच्&#x200d;छी परिचालन क्षमता और तेज गति प्रदान करता है। उन्&#x200d;होंने कहा कि जिस युग में लोग जलवायु परिवर्तन की चुनौतियों का सामना कर रहे हों, वहां यह पौधों से निकाला गया एक शून्&#x200d;य कार्बन ईंधन है।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:28:03+00:00",
+        "link": "https://newsonair.gov.in/hi/industry-experts-stated-that-the-ethanol-blending-programme-has-been-implemented-through-a-phased-and-scientifically-driven-process/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-04-172502.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सामाजिक न्याय एवं अधिकारिता मंत्रालय ने मादक पदार्थों की मांग में कमी लाने के लिए राष्ट्रीय कार्य योजना शुरू की",
+        "summary": "सामाजिक न्याय एवं अधिकारिता मंत्रालय ने मादक पदार्थों की मांग में कमी लाने के लिए राष्ट्रीय कार्य योजना शुरू की है। यह एक व्यापक ढांचा है जिसका उद्देश्य रोकथाम, जागरूकता पैदा करना, क्षमता निर्माण, उपचार, पुनर्वास और सामाजिक एकीकरण है। केंद्रीय सामाजिक न्याय एवं अधिकारिता मंत्री डॉ. वीरेंद्र कुमार ने कहा कि इन पहलों का […]",
+        "article": "सामाजिक न्याय एवं अधिकारिता मंत्रालय ने मादक पदार्थों की मांग में कमी लाने के लिए राष्ट्रीय कार्य योजना शुरू की है। यह एक व्यापक ढांचा है जिसका उद्देश्य रोकथाम, जागरूकता पैदा करना, क्षमता निर्माण, उपचार, पुनर्वास और सामाजिक एकीकरण है। केंद्रीय सामाजिक न्याय एवं अधिकारिता मंत्री डॉ. वीरेंद्र कुमार ने कहा कि इन पहलों का उद्देश्य जागरूकता, उपचार, पुनर्वास और सामाजिक एकीकरण के माध्यम से मादक पदार्थों के दुरुपयोग को रोकना है। उन्होंने मादक पदार्थों के दुरुपयोग से निपटने के लिए केंद्र, राज्यों, केंद्र शासित प्रदेशों, संबंधित मंत्रालयों, नागरिक समाज और जनता से सामूहिक तथा समन्वित कार्रवाई का आह्वान किया। डॉ. कुमार ने कहा कि मंत्रालय द्वारा 2019 में किए गए राष्ट्रव्यापी सर्वेक्षण में पाया गया कि देश में सात करोड़ से अधिक लोग मादक पदार्थों के सेवन से प्रभावित थे, जो अधिक जागरूकता, सहानुभूति और जन-केंद्रित हस्तक्षेपों की आवश्यकता को उजागर करता है। सामाजिक न्याय एवं अधिकारिता विभाग के सचिव सुधांश पंत ने कहा कि मंत्रालय ने अपने उपचार एवं पुनर्वास नेटवर्क का विस्तार करते हुए देश भर में सात सौ अडसठ नशामुक्ति एवं पुनर्वास केंद्रों तक पहुंच बनाई है। उन्होंने कहा कि उपचार चाहने वाले लोगों की संख्या में 294 प्रतिशत की वृद्धि हुई है, जो 2020 में 2 लाख 8 हजार से बढ़कर 2025 में 8 लाख 20 हजार से अधिक हो गई है, जो इन सेवाओं में जनता के बढ़ते विश्वास को दर्शाती है। श्री पंत ने कहा कि मंत्रालय की टोल-फ्री नशामुक्ति हेल्पलाइन, 1 4 4 4 6 पर सहायता मांगने वाले व्यक्तियों और परिवारों से 4 लाख 69 हजार से अधिक कॉल प्राप्त हुए हैं। उन्होंने कहा कि पिछले महीने आयोजित नशामुक्त भारत सप्ताह में जागरूकता और सामुदायिक आउटरीच कार्यक्रमों के माध्यम से 1 करोड़ 31 लाख से अधिक लोगों ने भाग लिया, जो नशामुक्त भारत के प्रति राष्ट्रव्यापी प्रतिबद्धता की पुष्टि करता है।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:22:10+00:00",
+        "link": "https://newsonair.gov.in/hi/the-ministry-of-social-justice-and-empowerment-launched-a-national-action-plan-to-reduce-the-demand-for-drugs/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-3.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केन्द्रीय मंत्री जितेंद्र सिंह ने भारत में लिवर की महामारी और टाइप-2 मधुमेह से निपटने के लिए एक राष्ट्रीय मिशन शुरू करने का आह्वान किया",
+        "summary": "विज्ञान और प्रौद्योगिकी मंत्री जितेंद्र सिंह ने भारत में लिवर की महामारी और टाइप-2 मधुमेह से निपटने के लिए एक राष्ट्रीय मिशन शुरू करने का आह्वान किया है। नई दिल्ली में &#8216;लिवर एंड मेटाबोलिक डिज़ीज़ नेटवर्क&#8217; की तीसरी वर्षगांठ पर डॉ. सिंह ने कहा कि ये रोग अब पहले की तुलना में कम उम्र के […]",
+        "article": "विज्ञान और प्रौद्योगिकी मंत्री जितेंद्र सिंह ने भारत में लिवर की महामारी और टाइप-2 मधुमेह से निपटने के लिए एक राष्ट्रीय मिशन शुरू करने का आह्वान किया है। नई दिल्ली में &#8216;लिवर एंड मेटाबोलिक डिज़ीज़ नेटवर्क&#8217; की तीसरी वर्षगांठ पर डॉ. सिंह ने कहा कि ये रोग अब पहले की तुलना में कम उम्र के लोगों में भी देखे जा रहे हैं। उन्&#x200d;होंने कहा कि देश की जेनेटिक बनावट, पेट के आसपास चर्बी की अधिक समस्या और भारतीयों की खास शारीरिक बनावट के कारण लोगों में मधुमेह, फैटी लिवर और हृदय रोग का ख़तरा ज़्यादा है। डॉ. सिंह ने कहा कि वैज्ञानिक तरक्की के साथ बड़े पैमाने पर जन-जागरूकता और व्यवहार में बदलाव से इस चुनौती निपटा जा सकता।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:56:25+00:00",
+        "link": "https://newsonair.gov.in/hi/union-minister-jitendra-singh-called-for-the-launch-of-a-national-mission-to-tackle-the-liver-epidemic-and-type-2-diabetes-in-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/jitendra.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "डीआरसी में संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सैनिकों को संयुक्त राष्ट्र पदक से सम्मानित किया गया",
+        "summary": "वैश्विक शांति अभियानों में भारत के दीर्घकालिक योगदान को एक महत्वपूर्ण मान्यता मिली है। डेमोक्रेटिक रिपब्लिक ऑफ़ कांगो (डीआरसी) के स्थायी परिचालन ठिकाने साके में आयोजित एक औपचारिक पदक परेड के दौरान संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सेना के कर्मियों को प्रतिष्ठित संयुक्त राष्ट्र पदक से सम्मानित किया गया। ये पदक कल आयोजित […]",
+        "article": "वैश्विक शांति अभियानों में भारत के दीर्घकालिक योगदान को एक महत्वपूर्ण मान्यता मिली है। डेमोक्रेटिक रिपब्लिक ऑफ़ कांगो (डीआरसी) के स्थायी परिचालन ठिकाने साके में आयोजित एक औपचारिक पदक परेड के दौरान संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सेना के कर्मियों को प्रतिष्ठित संयुक्त राष्ट्र पदक से सम्मानित किया गया। ये पदक कल आयोजित एक समारोह में प्रदान किए गए, जिसमें संयुक्त राष्ट्र शांति अभियानों के तहत भारतीय दल की व्यावसायिकता, परिचालन उत्कृष्टता और समर्पित सेवा को सम्मानित किया गया। इस कार्यक्रम में कांगो में संयुक्त राष्ट्र संगठन स्थिरीकरण मिशन &#8211; मोनुस्को के वरिष्ठ अधिकारी, बल मुख्यालय के प्रतिनिधि, सैन्य कमांडर और अन्य विशिष्ट अतिथि उपस्थित थे।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:29:43+00:00",
+        "link": "https://newsonair.gov.in/hi/651-indian-soldiers-serving-under-the-united-nations-in-the-drc-were-awarded-the-united-nations-medal/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMYPupiasAA_y9K.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी ने उपभोक्ता न्याय को मजबूत करने के लिए सरकार के प्रयासों का उल्‍लेख किया",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी ने आज डिजिटल सुधारों के माध्यम से उपभोक्ता न्याय को मजबूत करने के लिए सरकार के प्रयासों का उल्‍लेख किया। केंद्रीय मंत्री प्रल्हाद जोशी द्वारा लिखित एक लेख साझा करते हुए, श्री मोदी ने कहा कि हितधारकों के साथ व्यापक परामर्श के बाद, ई-जागृति को परिष्कृत किया गया है। इससे उपभोक्ता न्याय […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी ने आज डिजिटल सुधारों के माध्यम से उपभोक्ता न्याय को मजबूत करने के लिए सरकार के प्रयासों का उल्&#x200d;लेख किया। केंद्रीय मंत्री प्रल्हाद जोशी द्वारा लिखित एक लेख साझा करते हुए, श्री मोदी ने कहा कि हितधारकों के साथ व्यापक परामर्श के बाद, ई-जागृति को परिष्कृत किया गया है। इससे उपभोक्ता न्याय संरचनात्मक डिजिटल परिवर्तन से गुजर रहे प्रमुख क्षेत्रों में से एक बन गया है। ई-जागृति प्लेटफॉर्म पर एक लेख में श्री जोशी ने कहा कि यह एक परिवर्तनकारी पहल है जिसका उद्देश्य उपभोक्ता शिकायत के संपूर्ण जीवनचक्र को डिजिटाइज़ करके भारत की उपभोक्ता न्याय प्रणाली का आधुनिकीकरण करना है। उन्होंने कहा कि ई-जागृति प्लेटफॉर्म डिजिटल प्रौद्योगिकियों, आर्टिफिशियल इंटेलिजेंस और हाइब्रिड सुनवाई का लाभ उठाकर प्रणाली को तेज, अधिक पारदर्शी और अधिक सुलभ बनाता है। यह प्&#x200d;लेटफॉर्म उन कमियों को दूर करता है जो पहले उपभोक्ताओं को निवारण प्राप्त करने से हतोत्साहित करती थीं। केंद्रीय मंत्री ने कहा कि पोर्टल का नागरिक-केंद्रित डिज़ाइन, हितधारकों की प्रतिक्रिया के आधार पर निरंतर सुधार और इसका राष्ट्रव्यापी कार्यान्वयन उत्तरदायी शासन के प्रति सरकार की प्रतिबद्धता को दर्शाता है। उन्होंने कहा कि जैसे-जैसे भारत की डिजिटल अर्थव्यवस्था का विस्तार जारी है, एक कुशल उपभोक्ता विवाद समाधान तंत्र सार्वजनिक विश्वास को मजबूत करने, जिम्मेदार व्यावसायिक प्रथाओं को बढ़ावा देने और यह सुनिश्चित करने में महत्वपूर्ण भूमिका निभाएगा कि प्रत्येक उपभोक्ता आसानी और विश्वास के साथ न्याय प्राप्त कर सके।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:15:12+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-highlighted-the-governments-efforts-to-strengthen-consumer-justice/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260623392f-e1782227130311.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "संसद का मानसून सत्र 20 जुलाई से शुरू होगा और 13 अगस्त तक चलेगा",
+        "summary": "संसद का मानसून सत्र इस महीने की 20 तारीख से शुरू होगा और 13 अगस्त तक चलेगा। संसदीय कार्य मंत्री किरेन रिजिजू ने बताया कि राष्ट्रपति द्रौपदी मुर्मु ने 20 जुलाई से संसद का मानसून सत्र बुलाने के सरकार के प्रस्ताव को मंजूरी दे दी है। सोशल मीडिया पोस्ट में श्री रिजिजू ने कहा कि […]",
+        "article": "संसद का मानसून सत्र इस महीने की 20 तारीख से शुरू होगा और 13 अगस्त तक चलेगा। संसदीय कार्य मंत्री किरेन रिजिजू ने बताया कि राष्ट्रपति द्रौपदी मुर्मु ने 20 जुलाई से संसद का मानसून सत्र बुलाने के सरकार के प्रस्ताव को मंजूरी दे दी है। सोशल मीडिया पोस्ट में श्री रिजिजू ने कहा कि सत्र में राष्ट्रीय महत्व के मुद्दों पर सार्थक बहस, चर्चा और निर्णय लेने पर ध्यान केंद्रित किया जाएगा।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:14:52+00:00",
+        "link": "https://newsonair.gov.in/hi/the-monsoon-session-of-parliament-will-begin-on-july-20-and-continue-until-august-13/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/sansad-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी ने राजस्‍थान में 1.5 लाख करोड़ रुपये से अधिक की विकास परियोजनाओं का उद्घाटन किया",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने आज राजस्‍थान के पचपदरा में एक लाख पांच हजार करोड़ रुपये से अधिक की विकास परियोजनाओं का उद्घाटन किया और आधारशिला रखी। यह राज्‍य में अवसंरचना, ऊर्जा, परिवहन और रोजगार सृजन में एक महत्‍वपूर्ण उपलब्धि का परिचायक है। अपनी एक दिन यात्रा के दौरान प्रधानमंत्री ने जोधपुर हवाई अड्डे पर नये […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने आज राजस्&#x200d;थान के पचपदरा में एक लाख पांच हजार करोड़ रुपये से अधिक की विकास परियोजनाओं का उद्घाटन किया और आधारशिला रखी। यह राज्&#x200d;य में अवसंरचना, ऊर्जा, परिवहन और रोजगार सृजन में एक महत्&#x200d;वपूर्ण उपलब्धि का परिचायक है। अपनी एक दिन यात्रा के दौरान प्रधानमंत्री ने जोधपुर हवाई अड्डे पर नये टर्मिनल भवन का उद्घाटन किया। इसके बाद उन्&#x200d;होंने बालोतरा जिले के पचपदरा में देश के सबसे आधुनिक ग्रीनफील्&#x200d;ड रिफानरी सह पैट्रोकेमिकल राष्&#x200d;ट्र को समर्पित भी किया। उन्&#x200d;होंने रिफाइनरी के आधुनिकतम नियंत्रणकक्ष का निरीक्षण भी किया। श्री मोदी ने इंजीनियरों और तकनीकी विशेषज्ञों से बातचीत भी की। श्री मोदी ने ईंधन टैंकर को झंडी दिखाकर रवाना किया। प्रधानमंत्री ने जयपुर मेट्रो चरण दो के लिए वर्चुअल माध्&#x200d;यम से आधा&#x200d;रशिला रखी। ग्रीनफील्ड रिफाइनरी तेल, गैस या खनिजों के लिए एक औद्योगिक प्रसंस्करण संयंत्र है जिसे अविकसित स्वच्छ भूमि पर बिल्कुल नए सिरे से बनाया जाता है। सभा को सम्&#x200d;बोधित करते हुए प्रधानमंत्री ने कहा कि पश्चिम एशिया के संघर्ष ने 21वीं सदी के सबसे बडे ऊर्जा संकट को जन्&#x200d;म दिया है। उन्&#x200d;होंने कहा कि भारत का समय पर लिया गया निर्णय, प्रभावशाली रणनीति और राष्&#x200d;ट्रीय संसाधनों के विवेकपूर्ण प्रबंधन ने देश को इस संकट पर काबू पाने योग्&#x200d;य बनाया है। प्रधानमंत्री ने कहा कि जहां कई देश ईंधन की कमी से जूझ रहे थे, वहीं भारत ने संकट का सटीक आकलन किया, एक प्रभावी रणनीति तैयार की और देश की ऊर्जा सुरक्षा की रक्षा के लिए अपनी राजनयिक शक्ति का इस्तेमाल किया। श्री मोदी ने कहा कि इस संकट के दौरान मित्र देशों के साथ भारत के मजबूत राजनयिक संबंधों ने एक महत्&#x200d;वपूर्ण भूमिका निभाई। उन्&#x200d;होंने कहा कि पहले भारत 25 से 26 देशों से ऊर्जा आयात करता था, लेकिन इस संकट के दौरान भारत ने इसका विस्&#x200d;तार लगभग चालीस देशों तक किया। इससे वैश्विक बाधाओं के बावजूद ईंधन आपूर्ति निर्बाध सुनिश्चित हो सकी। श्री मोदी ने कहा कि देश और इसके नागरिकों के हित सरकार की सर्वोच्च प्राथमिकता बने रहेंगे। उन्&#x200d;होंने कहा कि भारत ने अपनी रिफाइनिंग क्षमता का भी विस्&#x200d;तार किया है। यह अब विश्&#x200d;व का चौथा सबसे बडा रिफाइनिंग राष्&#x200d;ट्र बन चुका है। प्रधानमंत्री ने कहा कि वैश्विक संकट के बावजूद सरकार ने रसोई गैस की कीमतों में भारी वृद्धि को रोका। उन्होंने कहा कि इस संकट के कारण एलपीजी सिलेंडर की कीमत लगभग 2 हजार रुपये तक पहुंच सकती थी, लेकिन प्रभावी हस्तक्षेप से यह सुनिश्चित हुआ कि उपभोक्ताओं को लगभग 950 रुपये में सिलेंडर मिलते रहें। उन्होंने कहा कि अप्रैल से जून के बीच, तेल विपणन कंपनियों को पेट्रोल और डीजल पर लगभग 75 हजार करोड़ रुपये का नुकसान हुआ, जिसका बोझ सरकार ने नागरिकों को अंतरराष्ट्रीय ईंधन की बढ़ती कीमतों के प्रभाव से बचाने के लिए उठाया। श्री मोदी ने कहा कि ऊर्जा संकट के दौरान सरकार के प्रयासों को एक दिन इतिहास में दर्ज किया जाएगा। उन्होंने कहा कि जहां कुछ लोग अफवाहें फैलाने और दहशत पैदा करने में व्यस्त थे, वहीं अधिकारी निर्बाध ऊर्जा आपूर्ति सुनिश्चित करने के लिए धैर्य, कड़ी मेहनत और संवेदनशील नीतिगत निर्णयों के साथ दिन-रात पर्दे के पीछे काम करते रहे। उन्होंने इस कठिन दौर में सहयोग के लिए देशवासियों का आभार व्यक्त किया। श्री मोदी ने उन लोगों की आलोचना की जिन्होंने राष्ट्र का समर्थन करने के बजाय संकट का राजनीतिकरण करने का प्रयास किया। पश्चिम एशिया और यूक्रेन में संघर्षों के कारण उत्पन्न वैश्विक उर्वरक संकट का जिक्र करते हुए उन्होंने कहा कि जहां कई देशों में यूरिया की कीमतें लगभग 3 हजार रुपये प्रति बोरी तक पहुंच गईं, वहीं सरकार ने यह सुनिश्चित किया कि भारतीय किसानों को लगभग तीा सौ रुपये प्रति बोरी की दर से यूरिया मिलता रहे, जिससे वे वैश्विक मूल्य वृद्धि से सुरक्षित रहे। पचपदरा रिफाइनरी का जिक्र करते हुए प्रधानमंत्री ने इसे भारत के एक विकसित और आत्मनिर्भर …",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:09:07+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-inaugurated-the-new-terminal-building-at-jodhpur-airport/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260704299f-1-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "प्रधानमंत्री नरेन्‍द्र मोदी ने भारत का पहला ग्रीनफील्ड एकीकृत रिफाइनरी-सह-पेट्रोकेमिकल्‍स परिसर देश को समर्पित किया",
         "summary": "प्रधानमंत्री नरेंद्र मोदी ने आज राजस्थान के बालोतरा में लगभग एक लाख 6 हजार करोड़ रुपए की विकास परियोजनाओं का उद्घाटन और शिलान्यास किया। ये परियोजनाएं पेट्रोकेमिकल्स, शहरी परिवहन, रेलवे, सड़क, नवीकरणीय ऊर्जा और विद्युत पारेषण सहित कई क्षेत्रों में हैं। प्रधानमंत्री ने बालोतरा के पचपदरा में भारत का पहला ग्रीनफील्ड एकीकृत रिफाइनरी और पेट्रोकेमिकल […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी ने आज राजस्थान के बालोतरा में लगभग एक लाख 6 हजार करोड़ रुपए की विकास परियोजनाओं का उद्घाटन और शिलान्यास किया। ये परियोजनाएं पेट्रोकेमिकल्स, शहरी परिवहन, रेलवे, सड़क, नवीकरणीय ऊर्जा और विद्युत पारेषण सहित कई क्षेत्रों में हैं। प्रधानमंत्री ने बालोतरा के पचपदरा में भारत का पहला ग्रीनफील्ड एकीकृत रिफाइनरी और पेट्रोकेमिकल परिसर राष्ट्र को समर्पित किया। यह देश के ऊर्जा और पेट्रोकेमिकल क्षेत्र में एक ऐतिहासिक उपलब्धि है। ग्रीनफील्ड रिफाइनरी और पेट्रोकेमिकल परिसर हिंदुस्तान पेट्रोलियम कॉर्पोरेशन लिमिटेड और राजस्थान सरकार का संयुक्त उद्यम है। 90 लाख मीट्रिक टन प्रति वर्ष क्षमता वाले इस परिसर की स्&#x200d;थापना 79,450 करोड़ रुपये से अधिक के निवेश से की गई है। प्रधानमंत्री मोदी ने 13 हजार करोड़ रुपये से अधिक की कुल लागत वाली जयपुर मेट्रो रेल परियोजना के दूसरे चरण का भी शिलान्यास किया। दूसरे चरण में प्रहलादपुरा से तोड़ी मोड़ तक 41 किलोमीटर लंबा उत्तर-दक्षिण मेट्रो कॉरिडोर विकसित किया जाएगा। प्रधानमंत्री ने चूरू-सादुलपुर और चूरू-रतनगढ़ रेल दोहरीकरण परियोजनाओं और राष्ट्रीय राजमार्ग 125 -ए, जोधपुर रिंग रोड खंड-दो के चार लेन निर्माण को राष्ट्र को समर्पित किया। उन्होंने सतलुज जल विद्युत निगम लिमिटेड की एक हजार मेगावाट बीकानेर सौर ऊर्जा परियोजना भी राष्ट्र को समर्पित की। श्री मोदी ने राजस्थान नवीकरणीय ऊर्जा क्षेत्र-आरईजेड से बिजली निकासी के लिए 1,900 करोड़ रुपये से अधिक की लागत से निर्मित पारेषण लाइन का उद्घाटन किया। उन्होंने राजस्थान आर.ई.जेड. के लिए 530 किलोमीटर लंबी बिजली पारेषण प्रणाली की आधारशिला भी रखी। प्रधानमंत्री मोदी ने राजस्थान सरकार के विभिन्न विभागों में भर्ती किए गए लगभग 54 हजार युवाओं को नियुक्ति पत्र भी सौंपे। इस अवसर पर श्री मोदी ने कहा कि चुनौती चाहे कितनी भी बड़ी हो नया भारत न तो अपने संकल्प से पीछे हटता है और न ही अपनी गति धीमी करता है। उन्होंने कहा कि आज जोधपुर में नए हवाई अड्डे के टर्मिनल का उद्घाटन देश की विकास यात्रा में एक महत्वपूर्ण कदम है। प्रधानमंत्री ने विश्वास व्यक्त किया कि नए टर्मिनल से मारवाड़ क्षेत्र में पर्यटन, व्यापार और रोजगार के अवसर बढ़ेगे। श्री मोदी ने कहा कि भारत अपने दृढ़ संकल्प और निरंतर प्रयासों से 21वीं सदी के सबसे बड़े ऊर्जा संकट से सफलतापूर्वक उबरने में कामयाब रहा है। उन्होंने कहा कि भारत ने हर स्तर पर समय रहते निर्णय लिए, उभरते संकट का सटीक आकलन किया, प्रभावी रणनीति तैयार की और देश के संसाधनों का संतुलित उपयोग सुनिश्चित किया। प्रधानमंत्री ने यह भी कहा कि कूटनीति और रणनीतिक उपायों से देश ने इस संकट का सफलतापूर्वक सामना किया। इससे पहले प्रधानमंत्री ने राजस्थान में जोधपुर हवाई अड्डे के नए टर्मिनल भवन का उद्घाटन किया। चार सौ 80 करोड़ रुपये की लागत से तैयार यह नया टर्मिनल भवन प्रति वर्ष 20 लाख यात्रियों की आवाजाही के लिए डिज़ाइन किया गया है। आधुनिक सुविधाओं से सुसज्जित नए टर्मिनल भवन से यात्रियों को सुगम और आरामदायक यात्रा का अनुभव मिलेगा। इससे क्षेत्र में पर्यटन, व्यापार और रोजगार सृजन को बढ़ावा मिलेगा। श्री मोदी ने संशोधित उड़ान योजना का भी शुभारंभ किया जिससे क्षेत्रीय संपर्क के साथ-साथ विमानन क्षेत्र को प्रोत्साहन मिलेगा। देश के नागर विमानन परिदृश्य में इस महत्वपूर्ण विकास से उड़े देश का आम नागरिक पहल को बल मिलेगा। 28,840 करोड़ रुपये के आवंटन के साथ इस योजना का उद्देश्य अगले 10 वर्षों में विमानन-आधारित विकास के अगले चरण को गति देना है।",
@@ -1047,39 +1135,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "दक्षिण-पश्चिम मॉनसून अगले चार दिनों में गुजरात, हरियाणा, पंजाब और राजस्थान के कुछ हिस्सों में और आगे बढ़ेगा",
-        "summary": "मौसम विभाग ने अगले चार दिनों में दक्षिण-पश्चिम मानसून के गुजरात, हरियाणा, पंजाब और राजस्थान के कुछ हिस्‍सों में आगे बढ़ने की संभावना व्‍यक्‍त की हैं। विभाग ने मध्य प्रदेश, तटीय कर्नाटक, पूर्वी राजस्थान, तेलंगाना और विदर्भ में कल मूसलाधार वर्षा की अनुमान लगाया है। मौसम विभाग ने आज असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, […]",
-        "article": "मौसम विभाग ने अगले चार दिनों में दक्षिण-पश्चिम मानसून के गुजरात, हरियाणा, पंजाब और राजस्थान के कुछ हिस्&#x200d;सों में आगे बढ़ने की संभावना व्&#x200d;यक्&#x200d;त की हैं। विभाग ने मध्य प्रदेश, तटीय कर्नाटक, पूर्वी राजस्थान, तेलंगाना और विदर्भ में कल मूसलाधार वर्षा की अनुमान लगाया है। मौसम विभाग ने आज असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल के गांगेय क्षेत्रों, छत्तीसगढ़, उत्तराखंड, हिमाचल प्रदेश, मराठवाड़ा, पश्चिमी राजस्थान और देश के दक्षिणी हिस्सों में भी तेज बारिश की संभावना जताई है। इस बीच, राष्ट्रीय राजधानी क्षेत्र दिल्&#x200d;ली में आज हल्की बारिश हुई, जिससे लोगों को भीषण गर्मी और उमस से राहत मिली।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:38:06+00:00",
-        "link": "https://newsonair.gov.in/hi/southwest-monsoon-will-advance-further-into-parts-of-gujarat-haryana-punjab-and-rajasthan-in-the-next-four-days/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/rains.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेंद्र मोदी आज गुजरात के साणंद में सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर असेंबली एंड टेस्ट सुविधा का उद्घाटन करेंगे",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज गुजरात के साणंद में सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर असेंबली एंड टेस्ट सुविधा का उद्घाटन करेंगे। इस मिशन के तहत 7,500 करोड़ रुपये से अधिक के निवेश से विकसित यह सुविधा देश के तकनीकी विनिर्माण सफर में एक महत्वपूर्ण मील का पत्थर है। इस प्लान्ट के लगने से व्यावसायिक उत्पादन की औपचारिक […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज गुजरात के साणंद में सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर असेंबली एंड टेस्ट सुविधा का उद्घाटन करेंगे। इस मिशन के तहत 7,500 करोड़ रुपये से अधिक के निवेश से विकसित यह सुविधा देश के तकनीकी विनिर्माण सफर में एक महत्वपूर्ण मील का पत्थर है। इस प्लान्ट के लगने से व्यावसायिक उत्पादन की औपचारिक शुरुआत होगी और पूरी क्षमता से चलने पर, इस सुविधा की वार्षिक उत्पादन क्षमता 5 अरब सेमीकंडक्टर चिप्स तक होगी। यह मेमोरी और स्टोरेज समाधानों की बढ़ती वैश्विक मांग को पूरा करने में भी मदद करेगी।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:33:53+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-inaugurate-the-cg-semi-outsourced-semiconductor-assembly-and-test-facility-in-sanand-gujarat-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने मूल्य स्थिरीकरण बफर के लिए प्याज के खरीद मूल्य में 13% की बढ़ोतरी की",
-        "summary": "सरकार ने मूल्य स्थिरीकरण बफर के लिए प्याज के खरीद मूल्य में 13 प्रतिशत की बढ़ोतरी की है। इसका खरीद मूल्‍य 1,875 रुपये प्रति क्विंटल से बढ़कर अब 2,125 रुपये प्रति क्विंटल हो गया है। उपभोक्ता मामले, खाद्य और सार्वजनिक वितरण मंत्रालय ने बताया कि संशोधित खरीद मूल्य आज से प्रभावी हो गया है। मंत्रालय […]",
-        "article": "सरकार ने मूल्य स्थिरीकरण बफर के लिए प्याज के खरीद मूल्य में 13 प्रतिशत की बढ़ोतरी की है। इसका खरीद मूल्&#x200d;य 1,875 रुपये प्रति क्विंटल से बढ़कर अब 2,125 रुपये प्रति क्विंटल हो गया है। उपभोक्ता मामले, खाद्य और सार्वजनिक वितरण मंत्रालय ने बताया कि संशोधित खरीद मूल्य आज से प्रभावी हो गया है। मंत्रालय के अनुसार इससे प्याज किसानों को बेहतर लाभ मिलेगा और साथ ही बफर खरीद प्रयासों को भी सहायता मिलेगी। सरकार के मूल्य स्थिरीकरण बफर के लिए भारतीय राष्ट्रीय कृषि सहकारी विपणन संघ लिमिटेड- नेफेड और भारतीय राष्ट्रीय सहकारी उपभोक्ता संघ लिमिटेड- एनसीसीएफ के माध्यम से प्याज की खरीद जारी है। कृषि और किसान कल्याण विभाग के वर्ष 2025-26 के दूसरे अग्रिम अनुमान के अनुसार, प्याज का उत्पादन 307 लाख मीट्रिक टन से अधिक होने का अनुमान है। मंत्रालय ने बताया कि महाराष्ट्र, मध्य प्रदेश और गुजरात में वर्तमान स्टॉक पर्याप्त है और फिलहाल प्याज की कोई कमी नहीं है। प्&#x200d;याज का अखिल भारतीय औसत खुदरा मूल्य 31 रुपये प्रति किलोग्राम है। प्याज का निर्यात सामान्य है और इस वर्ष जून महीने के दौरान लगभग डेढ लाख मीट्रिक टन प्याज का निर्यात किया गया।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:26:34+00:00",
-        "link": "https://newsonair.gov.in/hi/the-government-raised-the-onion-procurement-price-for-the-price-stabilization-buffer-by-13/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/08/onion.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "गृह मंत्रालय ने यूएपीए के तहत पाकिस्तान में 23 लोगों को आतंकवादी घोषित किया",
         "summary": "गृह मंत्रालय ने पाकिस्तान में 23 व्यक्तियों को &#8216;गैर-कानूनी गतिविधियां रोकथाम अधिनियम&#8217; (यूएपीए) के तहत तंकवादी घोषित किया है। ये लोग जैश-ए-मोहम्मद, लश्कर-ए-तैयबा और अन्य संगठनों से जुड़े थे। मंत्रालय ने कहा कि देश और नागरिकों की सुरक्षा के लिए सरकार हर आतंकी माड्यूल को खत्‍म करने के लिए प्रतिबद्ध है। यूएपीए अधिनियम में संशोधन […]",
         "article": "गृह मंत्रालय ने पाकिस्तान में 23 व्यक्तियों को &#8216;गैर-कानूनी गतिविधियां रोकथाम अधिनियम&#8217; (यूएपीए) के तहत तंकवादी घोषित किया है। ये लोग जैश-ए-मोहम्मद, लश्कर-ए-तैयबा और अन्य संगठनों से जुड़े थे। मंत्रालय ने कहा कि देश और नागरिकों की सुरक्षा के लिए सरकार हर आतंकी माड्यूल को खत्&#x200d;म करने के लिए प्रतिबद्ध है। यूएपीए अधिनियम में संशोधन से केंद्र सरकार और जांच एजेंसियों की शक्तियों का विस्तार करके देश के आतंकवाद रोधी कानूनी ढांचे को मजबूत किया गया है। संशोधन से केंद्र सरकार को संगठनों के साथ-साथ व्यक्तियों को भी आतंकवादी घोषित करने का अधिकार मिल गया है।",
@@ -1087,28 +1142,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-04T08:22:27+00:00",
         "link": "https://newsonair.gov.in/hi/india-has-declared-23-pakistanis-as-terrorists-under-the-uapa/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/mha.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "व्यापक पायरेसी की खबरों के चलते सरकार ने टेलीग्राम को नोटिस जारी किया",
-        "summary": "व्यापक पायरेसी की खबरों को देखते हुए सरकार ने मैसेजिंग प्लेटफॉर्म टेलीग्राम को नोटिस जारी किया है। सरकार ने टेलीग्राम को पायरेटेड फिल्मों और ओटीटी कंटेंट के खिलाफ तत्काल कार्रवाई करने का निर्देश दिया है। आधिकारिक सूत्रों के अनुसार प्लेटफॉर्म को 15 दिनों के भीतर कार्रवाई रिपोर्ट देने को कहा गया है। इस कदम का […]",
-        "article": "व्यापक पायरेसी की खबरों को देखते हुए सरकार ने मैसेजिंग प्लेटफॉर्म टेलीग्राम को नोटिस जारी किया है। सरकार ने टेलीग्राम को पायरेटेड फिल्मों और ओटीटी कंटेंट के खिलाफ तत्काल कार्रवाई करने का निर्देश दिया है। आधिकारिक सूत्रों के अनुसार प्लेटफॉर्म को 15 दिनों के भीतर कार्रवाई रिपोर्ट देने को कहा गया है। इस कदम का उद्देश्य भारत की रचनात्&#x200d;मक अर्थव्यवस्था, फिल्म उद्योग, प्रसारकों, ओटीटी प्लेटफॉर्म, निर्माताओं और वितरकों की रक्षा करना है।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:17:06+00:00",
-        "link": "https://newsonair.gov.in/hi/the-government-issued-a-notice-to-telegram-following-reports-of-widespread-piracy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/tele.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अहमदाबाद-मुंबई हाई-स्पीड रेल कॉरिडोर 2029 के अंत तक तैयार हो जाएगा: रेल मंत्री अश्विनी वैष्णव",
-        "summary": "गुजरात में चल रही विभिन्न रेलवे परियोजनाओं की समीक्षा के बाद अहमदाबाद में केंद्रीय रेल मंत्री अश्विनी वैष्णव ने विश्वास जताया है कि अहमदाबाद और मुंबई को जोड़ने वाला पूरा हाई-स्पीड रेल कॉरिडोर 2029 के अंत तक तैयार हो जाएगा। उन्होंने बताया कि मुंबई-अहमदाबाद बुलेट ट्रेन परियोजना का निर्माण कार्य तेजी से आगे बढ़ रहा […]",
-        "article": "गुजरात में चल रही विभिन्न रेलवे परियोजनाओं की समीक्षा के बाद अहमदाबाद में केंद्रीय रेल मंत्री अश्विनी वैष्णव ने विश्वास जताया है कि अहमदाबाद और मुंबई को जोड़ने वाला पूरा हाई-स्पीड रेल कॉरिडोर 2029 के अंत तक तैयार हो जाएगा। उन्होंने बताया कि मुंबई-अहमदाबाद बुलेट ट्रेन परियोजना का निर्माण कार्य तेजी से आगे बढ़ रहा है और गुजरात खंड का अस्सी प्रतिशत काम पहले ही पूरा हो चुका है। सूरत से बिलिमोरा को जोड़ने वाला पहला परिचालन खंड अगले साल खुलने वाला है। श्री वैष्&#x200d;णव ने अहमदाबाद बुलेट ट्रेन स्टेशन स्थल पर इंजीनियरों और निर्माण टीमों से भी बातचीत की साथ ही यह घोषणा की कि ओमनगर अंडरपास आगामी नवरात्रि उत्सव से पहले पूरा हो जाएगा। उन्&#x200d;होंने असर्वा रेलवे स्टेशन के पुनर्विकास के मास्टरप्लान पर चर्चा की जिससे यह आधुनिक परिवहन केंद्र में परिवर्तित हो जाएगा",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:14:07+00:00",
-        "link": "https://newsonair.gov.in/hi/ahmedabad-mumbai-high-speed-rail-corridor-to-be-ready-by-the-end-of-2029-railway-minister-ashwini-vaishnaw/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/vas-scaled.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1122,42 +1155,97 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/12.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने एसआईआर प्रक्रिया के अंतर्गत गणना प्रपत्र जमा किया",
-        "summary": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) प्रक्रिया के अंतर्गत गणना प्रपत्र जमा किया। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने बताया कि दिल्ली के मुख्य निर्वाचन अधिकारी, जिला निर्वाचन अधिकारी, मतदाता पंजीकरण अधिकारी और बूथ स्तरीय अधिकारी ने उपराष्ट्रपति भवन में चल रही मतदाता सूची के एसआईआर के अंतर्गत […]",
-        "article": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) प्रक्रिया के अंतर्गत गणना प्रपत्र जमा किया। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने बताया कि दिल्ली के मुख्य निर्वाचन अधिकारी, जिला निर्वाचन अधिकारी, मतदाता पंजीकरण अधिकारी और बूथ स्तरीय अधिकारी ने उपराष्ट्रपति भवन में चल रही मतदाता सूची के एसआईआर के अंतर्गत गणना प्रक्रिया को सुगम बनाया। श्री राधाकृष्णन ने सभी पात्र मतदाताओं से इस प्रक्रिया में सक्रिय रूप से भाग लेने का आग्रह किया। उन्होंने इस बात पर बल दिया कि सटीक और अद्यतन मतदाता सूची लोकतंत्र को मजबूत करने के लिए आवश्यक है।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T06:59:09+00:00",
-        "link": "https://newsonair.gov.in/hi/vice-president-c-p-radhakrishnan-submitted-the-enumeration-form-under-the-sir-process/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMXXqIobEAA5Y3Z.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेन्‍द्र मोदी ने जोधपुर हवाई अड्डे के नए टर्मिनल भवन का उद्घाटन किया, संशोधित उड़ान योजना का भी किया शुभारंभ",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने आज राजस्थान में जोधपुर हवाई अड्डे के नए टर्मिनल भवन का उद्घाटन किया। 480 करोड़ रुपये की लागत से तैयार यह नया टर्मिनल भवन प्रति वर्ष 20 लाख यात्रियों की आवाजाही के लिए डिज़ाइन किया गया है। आधुनिक सुविधाओं से सुसज्जित नए टर्मिनल भवन से यात्रियों को सुगम और आरामदायक यात्रा […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने आज राजस्थान में जोधपुर हवाई अड्डे के नए टर्मिनल भवन का उद्घाटन किया। 480 करोड़ रुपये की लागत से तैयार यह नया टर्मिनल भवन प्रति वर्ष 20 लाख यात्रियों की आवाजाही के लिए डिज़ाइन किया गया है। आधुनिक सुविधाओं से सुसज्जित नए टर्मिनल भवन से यात्रियों को सुगम और आरामदायक यात्रा का अनुभव मिलेगा। इससे क्षेत्र में पर्यटन, व्यापार और रोजगार सृजन को बढ़ावा मिलेगा। श्री मोदी ने संशोधित उड़ान योजना का भी शुभारंभ किया जिससे क्षेत्रीय संपर्क के साथ-साथ विमानन क्षेत्र को प्रोत्साहन मिलेगा। देश के नागर विमानन परिदृश्य में इस महत्वपूर्ण विकास से उड़े देश का आम नागरिक पहल को बल मिलेगा। 28 हजार 840 करोड़ रुपये के आवंटन के साथ इस योजना का उद्देश्य अगले 10 वर्षों में विमानन-आधारित विकास के अगले चरण को गति देना है।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T06:51:55+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-inaugurated-the-new-terminal-building-at-jodhpur-airport-and-also-launched-the-revised-udan-scheme/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shanghai-7.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कांगो में इबोला के 1,502 मामलों की पुष्टि हुई, 473 लोगों की मृत्‍यु",
-        "summary": "लोकतांत्रिक गणराज्‍य कांगो में इबोला के 1,502 मामलों की पुष्टि हुई है। अब तक वहां इबोला से 473 लोगों की मृत्‍यु हो चुकी है। विश्व स्वास्थ्य संगठन ने चेतावनी दी है कि इसका प्रकोप अभी भी गंभीर है। स्वास्थ्य अधिकारियों का कहना है कि 628 मरीज वर्तमान में आइसोलेशन में हैं या उनका इलाज चल […]",
-        "article": "लोकतांत्रिक गणराज्&#x200d;य कांगो में इबोला के 1,502 मामलों की पुष्टि हुई है। अब तक वहां इबोला से 473 लोगों की मृत्&#x200d;यु हो चुकी है। विश्व स्वास्थ्य संगठन ने चेतावनी दी है कि इसका प्रकोप अभी भी गंभीर है। स्वास्थ्य अधिकारियों का कहना है कि 628 मरीज वर्तमान में आइसोलेशन में हैं या उनका इलाज चल रहा है, जबकि 229 लोग ठीक हो चुके हैं। पूर्वी प्रांतों- इटुरी और उत्तरी किवू में यह प्रकोप लगातार फैल रहा है। विश्&#x200d;व स्&#x200d;वास्&#x200d;थ्&#x200d;य संगठन का कहना है कि प्रभावित क्षेत्रों में असुरक्षा और सशस्त्र संघर्ष के कारण मामलों का पता लगाने और संपर्क ट्रेसिंग में बाधा आ रही है। कांगो में इबोला का मौजूदा प्रकोप मई में शुरू हुआ था, हालांकि कुछ समय तक संक्रमण का पता नहीं चला था। इस बीच, इबोला के दो संभावित उपचारों का नैदानिक ​​परीक्षण शुरू हो गया है। उधर, पड़ोसी देश युगांडा में इबोला के 20 मामलों की पुष्टि हुई है।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T06:43:30+00:00",
-        "link": "https://newsonair.gov.in/hi/1502-confirmed-cases-of-ebola-in-congo-473-deaths/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/ebola-3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "संशोधित उड़ान योजना का शुभारंभ भारत की क्षेत्रीय कनेक्टिविटी यात्रा के अगले अध्‍याय का परिचायक है: नागर विमानन मंत्री राममोहन नायडू",
+        "summary": "नागर विमानन मंत्री राममोहन नायडू ने आज कहा कि संशोधित उड़ान योजना का शुभारंभ भारत की क्षेत्रीय कनेक्टिविटी यात्रा के अगले अध्‍याय का परिचायक है। श्री नायडू ने कहा कि 28 हजार 840 करोड़ रुपये से अधिक के बजट आवंटन के साथ प्रधानमंत्री मोदी द्वारा शुरू की गई यह योजना टीयर-2 और टीयर-3 शहरों में […]",
+        "article": "नागर विमानन मंत्री राममोहन नायडू ने आज कहा कि संशोधित उड़ान योजना का शुभारंभ भारत की क्षेत्रीय कनेक्टिविटी यात्रा के अगले अध्&#x200d;याय का परिचायक है। श्री नायडू ने कहा कि 28 हजार 840 करोड़ रुपये से अधिक के बजट आवंटन के साथ प्रधानमंत्री मोदी द्वारा शुरू की गई यह योजना टीयर-2 और टीयर-3 शहरों में कनेक्टिविटी को मजबूत बनाएगी। उन्&#x200d;होंने कहा कि यह योजना 100 नये हवाई अड्डों और 200 हेलीपैड के विकास में सुविधा प्रदान करेगी। इससे लाखों लोगों की हवाई यात्रा का सपना साकार होने के करीब आएगा और एक उभरते हुए भारत की आकांक्षाओं को जोड़ा जा सकेगा। जोधपुर हवाई अड्डे पर नये टर्मिनल भवन के उद्घाटन का उल्&#x200d;लेख करते हुए श्री नायडू ने कहा कि&#x200d; विश्&#x200d;व स्&#x200d;तरीय सुविधा मारवाड क्षेत्र में संपर्क को सशक्&#x200d;त बनाएगी। वहीं, यह सुविधा राजस्&#x200d;थान में पर्यटन, व्&#x200d;यापार और आर्थिक विकास के नये द्वार खोलेगी।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:33:12+00:00",
+        "link": "https://newsonair.gov.in/hi/launch-of-the-revised-udan-scheme-marks-the-next-chapter-in-indias-regional-connectivity-journey-civil-aviation-minister-rammohan-naidu/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/682621d4b78c8-ram-mohan-naidu-has-got-y-category-security-15180741-16x9-1.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उद्योग जगत के विशेषज्ञों ने कहा- एथेनॉल मिश्रण कार्यक्रम चरणबद्ध और वैज्ञानिक रूप से संचालित प्रक्रिया से लागू किया गया है",
+        "summary": "उद्योग जगत के विशेषज्ञों ने कहा है कि एथेनॉल मिश्रण कार्यक्रम रातोंरात लागू नहीं किया गया है, बल्कि एक सुनियोजित, चरणबद्ध और वैज्ञानिक रूप से संचालित प्रक्रिया के जरिये इसे लागू किया गया है। नई दिल्‍ली में एक संवाददाता सम्‍मेलन को सम्‍बोधित करते हुए इंजीनियर्स इंडिया लिमिटेड की पूर्व अध्‍यक्ष और प्रबंध निदेशक वर्तिका शुक्‍ला […]",
+        "article": "उद्योग जगत के विशेषज्ञों ने कहा है कि एथेनॉल मिश्रण कार्यक्रम रातोंरात लागू नहीं किया गया है, बल्कि एक सुनियोजित, चरणबद्ध और वैज्ञानिक रूप से संचालित प्रक्रिया के जरिये इसे लागू किया गया है। नई दिल्&#x200d;ली में एक संवाददाता सम्&#x200d;मेलन को सम्&#x200d;बोधित करते हुए इंजीनियर्स इंडिया लिमिटेड की पूर्व अध्&#x200d;यक्ष और प्रबंध निदेशक वर्तिका शुक्&#x200d;ला ने कहा कि एथेनॉल मिश्रण कार्यक्रम 2018 में संरचित चर्चा और हितधारकों के परामर्श के लिए सार्वजनिक क्षेत्र में रखा गया था। उन्&#x200d;होंने कहा कि इस पहल को वैज्ञानिक प्रमाणों, ऑटोमोबाइल निर्माताओं द्वारा किए गए व्यापक परीक्षणों, भारतीय ऑटोमोटिव अनुसंधान संघ और भारतीय ऑटोमोबाइल निर्माता सोसायटी का समर्थन प्राप्त है। इस अवसर पर टोयोटा किर्लोस्&#x200d;कर मोटर्स के प्रमुख और कार्यकारी उपाध्&#x200d;यक्ष विक्रम गुलाटी ने कहा कि एथेनॉल एक स्&#x200d;वच्&#x200d;छ ईंधन है। यह अच्&#x200d;छी परिचालन क्षमता और तेज गति प्रदान करता है। उन्&#x200d;होंने कहा कि जिस युग में लोग जलवायु परिवर्तन की चुनौतियों का सामना कर रहे हों, वहां यह पौधों से निकाला गया एक शून्&#x200d;य कार्बन ईंधन है।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:28:03+00:00",
+        "link": "https://newsonair.gov.in/hi/industry-experts-stated-that-the-ethanol-blending-programme-has-been-implemented-through-a-phased-and-scientifically-driven-process/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-04-172502.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सामाजिक न्याय एवं अधिकारिता मंत्रालय ने मादक पदार्थों की मांग में कमी लाने के लिए राष्ट्रीय कार्य योजना शुरू की",
+        "summary": "सामाजिक न्याय एवं अधिकारिता मंत्रालय ने मादक पदार्थों की मांग में कमी लाने के लिए राष्ट्रीय कार्य योजना शुरू की है। यह एक व्यापक ढांचा है जिसका उद्देश्य रोकथाम, जागरूकता पैदा करना, क्षमता निर्माण, उपचार, पुनर्वास और सामाजिक एकीकरण है। केंद्रीय सामाजिक न्याय एवं अधिकारिता मंत्री डॉ. वीरेंद्र कुमार ने कहा कि इन पहलों का […]",
+        "article": "सामाजिक न्याय एवं अधिकारिता मंत्रालय ने मादक पदार्थों की मांग में कमी लाने के लिए राष्ट्रीय कार्य योजना शुरू की है। यह एक व्यापक ढांचा है जिसका उद्देश्य रोकथाम, जागरूकता पैदा करना, क्षमता निर्माण, उपचार, पुनर्वास और सामाजिक एकीकरण है। केंद्रीय सामाजिक न्याय एवं अधिकारिता मंत्री डॉ. वीरेंद्र कुमार ने कहा कि इन पहलों का उद्देश्य जागरूकता, उपचार, पुनर्वास और सामाजिक एकीकरण के माध्यम से मादक पदार्थों के दुरुपयोग को रोकना है। उन्होंने मादक पदार्थों के दुरुपयोग से निपटने के लिए केंद्र, राज्यों, केंद्र शासित प्रदेशों, संबंधित मंत्रालयों, नागरिक समाज और जनता से सामूहिक तथा समन्वित कार्रवाई का आह्वान किया। डॉ. कुमार ने कहा कि मंत्रालय द्वारा 2019 में किए गए राष्ट्रव्यापी सर्वेक्षण में पाया गया कि देश में सात करोड़ से अधिक लोग मादक पदार्थों के सेवन से प्रभावित थे, जो अधिक जागरूकता, सहानुभूति और जन-केंद्रित हस्तक्षेपों की आवश्यकता को उजागर करता है। सामाजिक न्याय एवं अधिकारिता विभाग के सचिव सुधांश पंत ने कहा कि मंत्रालय ने अपने उपचार एवं पुनर्वास नेटवर्क का विस्तार करते हुए देश भर में सात सौ अडसठ नशामुक्ति एवं पुनर्वास केंद्रों तक पहुंच बनाई है। उन्होंने कहा कि उपचार चाहने वाले लोगों की संख्या में 294 प्रतिशत की वृद्धि हुई है, जो 2020 में 2 लाख 8 हजार से बढ़कर 2025 में 8 लाख 20 हजार से अधिक हो गई है, जो इन सेवाओं में जनता के बढ़ते विश्वास को दर्शाती है। श्री पंत ने कहा कि मंत्रालय की टोल-फ्री नशामुक्ति हेल्पलाइन, 1 4 4 4 6 पर सहायता मांगने वाले व्यक्तियों और परिवारों से 4 लाख 69 हजार से अधिक कॉल प्राप्त हुए हैं। उन्होंने कहा कि पिछले महीने आयोजित नशामुक्त भारत सप्ताह में जागरूकता और सामुदायिक आउटरीच कार्यक्रमों के माध्यम से 1 करोड़ 31 लाख से अधिक लोगों ने भाग लिया, जो नशामुक्त भारत के प्रति राष्ट्रव्यापी प्रतिबद्धता की पुष्टि करता है।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:22:10+00:00",
+        "link": "https://newsonair.gov.in/hi/the-ministry-of-social-justice-and-empowerment-launched-a-national-action-plan-to-reduce-the-demand-for-drugs/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-3.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केन्द्रीय मंत्री जितेंद्र सिंह ने भारत में लिवर की महामारी और टाइप-2 मधुमेह से निपटने के लिए एक राष्ट्रीय मिशन शुरू करने का आह्वान किया",
+        "summary": "विज्ञान और प्रौद्योगिकी मंत्री जितेंद्र सिंह ने भारत में लिवर की महामारी और टाइप-2 मधुमेह से निपटने के लिए एक राष्ट्रीय मिशन शुरू करने का आह्वान किया है। नई दिल्ली में &#8216;लिवर एंड मेटाबोलिक डिज़ीज़ नेटवर्क&#8217; की तीसरी वर्षगांठ पर डॉ. सिंह ने कहा कि ये रोग अब पहले की तुलना में कम उम्र के […]",
+        "article": "विज्ञान और प्रौद्योगिकी मंत्री जितेंद्र सिंह ने भारत में लिवर की महामारी और टाइप-2 मधुमेह से निपटने के लिए एक राष्ट्रीय मिशन शुरू करने का आह्वान किया है। नई दिल्ली में &#8216;लिवर एंड मेटाबोलिक डिज़ीज़ नेटवर्क&#8217; की तीसरी वर्षगांठ पर डॉ. सिंह ने कहा कि ये रोग अब पहले की तुलना में कम उम्र के लोगों में भी देखे जा रहे हैं। उन्&#x200d;होंने कहा कि देश की जेनेटिक बनावट, पेट के आसपास चर्बी की अधिक समस्या और भारतीयों की खास शारीरिक बनावट के कारण लोगों में मधुमेह, फैटी लिवर और हृदय रोग का ख़तरा ज़्यादा है। डॉ. सिंह ने कहा कि वैज्ञानिक तरक्की के साथ बड़े पैमाने पर जन-जागरूकता और व्यवहार में बदलाव से इस चुनौती निपटा जा सकता।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:56:25+00:00",
+        "link": "https://newsonair.gov.in/hi/union-minister-jitendra-singh-called-for-the-launch-of-a-national-mission-to-tackle-the-liver-epidemic-and-type-2-diabetes-in-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/jitendra.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "डीआरसी में संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सैनिकों को संयुक्त राष्ट्र पदक से सम्मानित किया गया",
+        "summary": "वैश्विक शांति अभियानों में भारत के दीर्घकालिक योगदान को एक महत्वपूर्ण मान्यता मिली है। डेमोक्रेटिक रिपब्लिक ऑफ़ कांगो (डीआरसी) के स्थायी परिचालन ठिकाने साके में आयोजित एक औपचारिक पदक परेड के दौरान संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सेना के कर्मियों को प्रतिष्ठित संयुक्त राष्ट्र पदक से सम्मानित किया गया। ये पदक कल आयोजित […]",
+        "article": "वैश्विक शांति अभियानों में भारत के दीर्घकालिक योगदान को एक महत्वपूर्ण मान्यता मिली है। डेमोक्रेटिक रिपब्लिक ऑफ़ कांगो (डीआरसी) के स्थायी परिचालन ठिकाने साके में आयोजित एक औपचारिक पदक परेड के दौरान संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सेना के कर्मियों को प्रतिष्ठित संयुक्त राष्ट्र पदक से सम्मानित किया गया। ये पदक कल आयोजित एक समारोह में प्रदान किए गए, जिसमें संयुक्त राष्ट्र शांति अभियानों के तहत भारतीय दल की व्यावसायिकता, परिचालन उत्कृष्टता और समर्पित सेवा को सम्मानित किया गया। इस कार्यक्रम में कांगो में संयुक्त राष्ट्र संगठन स्थिरीकरण मिशन &#8211; मोनुस्को के वरिष्ठ अधिकारी, बल मुख्यालय के प्रतिनिधि, सैन्य कमांडर और अन्य विशिष्ट अतिथि उपस्थित थे।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:29:43+00:00",
+        "link": "https://newsonair.gov.in/hi/651-indian-soldiers-serving-under-the-united-nations-in-the-drc-were-awarded-the-united-nations-medal/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMYPupiasAA_y9K.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी ने उपभोक्ता न्याय को मजबूत करने के लिए सरकार के प्रयासों का उल्‍लेख किया",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी ने आज डिजिटल सुधारों के माध्यम से उपभोक्ता न्याय को मजबूत करने के लिए सरकार के प्रयासों का उल्‍लेख किया। केंद्रीय मंत्री प्रल्हाद जोशी द्वारा लिखित एक लेख साझा करते हुए, श्री मोदी ने कहा कि हितधारकों के साथ व्यापक परामर्श के बाद, ई-जागृति को परिष्कृत किया गया है। इससे उपभोक्ता न्याय […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी ने आज डिजिटल सुधारों के माध्यम से उपभोक्ता न्याय को मजबूत करने के लिए सरकार के प्रयासों का उल्&#x200d;लेख किया। केंद्रीय मंत्री प्रल्हाद जोशी द्वारा लिखित एक लेख साझा करते हुए, श्री मोदी ने कहा कि हितधारकों के साथ व्यापक परामर्श के बाद, ई-जागृति को परिष्कृत किया गया है। इससे उपभोक्ता न्याय संरचनात्मक डिजिटल परिवर्तन से गुजर रहे प्रमुख क्षेत्रों में से एक बन गया है। ई-जागृति प्लेटफॉर्म पर एक लेख में श्री जोशी ने कहा कि यह एक परिवर्तनकारी पहल है जिसका उद्देश्य उपभोक्ता शिकायत के संपूर्ण जीवनचक्र को डिजिटाइज़ करके भारत की उपभोक्ता न्याय प्रणाली का आधुनिकीकरण करना है। उन्होंने कहा कि ई-जागृति प्लेटफॉर्म डिजिटल प्रौद्योगिकियों, आर्टिफिशियल इंटेलिजेंस और हाइब्रिड सुनवाई का लाभ उठाकर प्रणाली को तेज, अधिक पारदर्शी और अधिक सुलभ बनाता है। यह प्&#x200d;लेटफॉर्म उन कमियों को दूर करता है जो पहले उपभोक्ताओं को निवारण प्राप्त करने से हतोत्साहित करती थीं। केंद्रीय मंत्री ने कहा कि पोर्टल का नागरिक-केंद्रित डिज़ाइन, हितधारकों की प्रतिक्रिया के आधार पर निरंतर सुधार और इसका राष्ट्रव्यापी कार्यान्वयन उत्तरदायी शासन के प्रति सरकार की प्रतिबद्धता को दर्शाता है। उन्होंने कहा कि जैसे-जैसे भारत की डिजिटल अर्थव्यवस्था का विस्तार जारी है, एक कुशल उपभोक्ता विवाद समाधान तंत्र सार्वजनिक विश्वास को मजबूत करने, जिम्मेदार व्यावसायिक प्रथाओं को बढ़ावा देने और यह सुनिश्चित करने में महत्वपूर्ण भूमिका निभाएगा कि प्रत्येक उपभोक्ता आसानी और विश्वास के साथ न्याय प्राप्त कर सके।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:15:12+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-highlighted-the-governments-efforts-to-strengthen-consumer-justice/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260623392f-e1782227130311.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "संसद का मानसून सत्र 20 जुलाई से शुरू होगा और 13 अगस्त तक चलेगा",
+        "summary": "संसद का मानसून सत्र इस महीने की 20 तारीख से शुरू होगा और 13 अगस्त तक चलेगा। संसदीय कार्य मंत्री किरेन रिजिजू ने बताया कि राष्ट्रपति द्रौपदी मुर्मु ने 20 जुलाई से संसद का मानसून सत्र बुलाने के सरकार के प्रस्ताव को मंजूरी दे दी है। सोशल मीडिया पोस्ट में श्री रिजिजू ने कहा कि […]",
+        "article": "संसद का मानसून सत्र इस महीने की 20 तारीख से शुरू होगा और 13 अगस्त तक चलेगा। संसदीय कार्य मंत्री किरेन रिजिजू ने बताया कि राष्ट्रपति द्रौपदी मुर्मु ने 20 जुलाई से संसद का मानसून सत्र बुलाने के सरकार के प्रस्ताव को मंजूरी दे दी है। सोशल मीडिया पोस्ट में श्री रिजिजू ने कहा कि सत्र में राष्ट्रीय महत्व के मुद्दों पर सार्थक बहस, चर्चा और निर्णय लेने पर ध्यान केंद्रित किया जाएगा।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:14:52+00:00",
+        "link": "https://newsonair.gov.in/hi/the-monsoon-session-of-parliament-will-begin-on-july-20-and-continue-until-august-13/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/sansad-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी ने राजस्‍थान में 1.5 लाख करोड़ रुपये से अधिक की विकास परियोजनाओं का उद्घाटन किया",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने आज राजस्‍थान के पचपदरा में एक लाख पांच हजार करोड़ रुपये से अधिक की विकास परियोजनाओं का उद्घाटन किया और आधारशिला रखी। यह राज्‍य में अवसंरचना, ऊर्जा, परिवहन और रोजगार सृजन में एक महत्‍वपूर्ण उपलब्धि का परिचायक है। अपनी एक दिन यात्रा के दौरान प्रधानमंत्री ने जोधपुर हवाई अड्डे पर नये […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने आज राजस्&#x200d;थान के पचपदरा में एक लाख पांच हजार करोड़ रुपये से अधिक की विकास परियोजनाओं का उद्घाटन किया और आधारशिला रखी। यह राज्&#x200d;य में अवसंरचना, ऊर्जा, परिवहन और रोजगार सृजन में एक महत्&#x200d;वपूर्ण उपलब्धि का परिचायक है। अपनी एक दिन यात्रा के दौरान प्रधानमंत्री ने जोधपुर हवाई अड्डे पर नये टर्मिनल भवन का उद्घाटन किया। इसके बाद उन्&#x200d;होंने बालोतरा जिले के पचपदरा में देश के सबसे आधुनिक ग्रीनफील्&#x200d;ड रिफानरी सह पैट्रोकेमिकल राष्&#x200d;ट्र को समर्पित भी किया। उन्&#x200d;होंने रिफाइनरी के आधुनिकतम नियंत्रणकक्ष का निरीक्षण भी किया। श्री मोदी ने इंजीनियरों और तकनीकी विशेषज्ञों से बातचीत भी की। श्री मोदी ने ईंधन टैंकर को झंडी दिखाकर रवाना किया। प्रधानमंत्री ने जयपुर मेट्रो चरण दो के लिए वर्चुअल माध्&#x200d;यम से आधा&#x200d;रशिला रखी। ग्रीनफील्ड रिफाइनरी तेल, गैस या खनिजों के लिए एक औद्योगिक प्रसंस्करण संयंत्र है जिसे अविकसित स्वच्छ भूमि पर बिल्कुल नए सिरे से बनाया जाता है। सभा को सम्&#x200d;बोधित करते हुए प्रधानमंत्री ने कहा कि पश्चिम एशिया के संघर्ष ने 21वीं सदी के सबसे बडे ऊर्जा संकट को जन्&#x200d;म दिया है। उन्&#x200d;होंने कहा कि भारत का समय पर लिया गया निर्णय, प्रभावशाली रणनीति और राष्&#x200d;ट्रीय संसाधनों के विवेकपूर्ण प्रबंधन ने देश को इस संकट पर काबू पाने योग्&#x200d;य बनाया है। प्रधानमंत्री ने कहा कि जहां कई देश ईंधन की कमी से जूझ रहे थे, वहीं भारत ने संकट का सटीक आकलन किया, एक प्रभावी रणनीति तैयार की और देश की ऊर्जा सुरक्षा की रक्षा के लिए अपनी राजनयिक शक्ति का इस्तेमाल किया। श्री मोदी ने कहा कि इस संकट के दौरान मित्र देशों के साथ भारत के मजबूत राजनयिक संबंधों ने एक महत्&#x200d;वपूर्ण भूमिका निभाई। उन्&#x200d;होंने कहा कि पहले भारत 25 से 26 देशों से ऊर्जा आयात करता था, लेकिन इस संकट के दौरान भारत ने इसका विस्&#x200d;तार लगभग चालीस देशों तक किया। इससे वैश्विक बाधाओं के बावजूद ईंधन आपूर्ति निर्बाध सुनिश्चित हो सकी। श्री मोदी ने कहा कि देश और इसके नागरिकों के हित सरकार की सर्वोच्च प्राथमिकता बने रहेंगे। उन्&#x200d;होंने कहा कि भारत ने अपनी रिफाइनिंग क्षमता का भी विस्&#x200d;तार किया है। यह अब विश्&#x200d;व का चौथा सबसे बडा रिफाइनिंग राष्&#x200d;ट्र बन चुका है। प्रधानमंत्री ने कहा कि वैश्विक संकट के बावजूद सरकार ने रसोई गैस की कीमतों में भारी वृद्धि को रोका। उन्होंने कहा कि इस संकट के कारण एलपीजी सिलेंडर की कीमत लगभग 2 हजार रुपये तक पहुंच सकती थी, लेकिन प्रभावी हस्तक्षेप से यह सुनिश्चित हुआ कि उपभोक्ताओं को लगभग 950 रुपये में सिलेंडर मिलते रहें। उन्होंने कहा कि अप्रैल से जून के बीच, तेल विपणन कंपनियों को पेट्रोल और डीजल पर लगभग 75 हजार करोड़ रुपये का नुकसान हुआ, जिसका बोझ सरकार ने नागरिकों को अंतरराष्ट्रीय ईंधन की बढ़ती कीमतों के प्रभाव से बचाने के लिए उठाया। श्री मोदी ने कहा कि ऊर्जा संकट के दौरान सरकार के प्रयासों को एक दिन इतिहास में दर्ज किया जाएगा। उन्होंने कहा कि जहां कुछ लोग अफवाहें फैलाने और दहशत पैदा करने में व्यस्त थे, वहीं अधिकारी निर्बाध ऊर्जा आपूर्ति सुनिश्चित करने के लिए धैर्य, कड़ी मेहनत और संवेदनशील नीतिगत निर्णयों के साथ दिन-रात पर्दे के पीछे काम करते रहे। उन्होंने इस कठिन दौर में सहयोग के लिए देशवासियों का आभार व्यक्त किया। श्री मोदी ने उन लोगों की आलोचना की जिन्होंने राष्ट्र का समर्थन करने के बजाय संकट का राजनीतिकरण करने का प्रयास किया। पश्चिम एशिया और यूक्रेन में संघर्षों के कारण उत्पन्न वैश्विक उर्वरक संकट का जिक्र करते हुए उन्होंने कहा कि जहां कई देशों में यूरिया की कीमतें लगभग 3 हजार रुपये प्रति बोरी तक पहुंच गईं, वहीं सरकार ने यह सुनिश्चित किया कि भारतीय किसानों को लगभग तीा सौ रुपये प्रति बोरी की दर से यूरिया मिलता रहे, जिससे वे वैश्विक मूल्य वृद्धि से सुरक्षित रहे। पचपदरा रिफाइनरी का जिक्र करते हुए प्रधानमंत्री ने इसे भारत के एक विकसित और आत्मनिर्भर …",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:09:07+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-inaugurated-the-new-terminal-building-at-jodhpur-airport/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260704299f-1-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "प्रधानमंत्री नरेन्‍द्र मोदी ने भारत का पहला ग्रीनफील्ड एकीकृत रिफाइनरी-सह-पेट्रोकेमिकल्‍स परिसर देश को समर्पित किया",
         "summary": "प्रधानमंत्री नरेंद्र मोदी ने आज राजस्थान के बालोतरा में लगभग एक लाख 6 हजार करोड़ रुपए की विकास परियोजनाओं का उद्घाटन और शिलान्यास किया। ये परियोजनाएं पेट्रोकेमिकल्स, शहरी परिवहन, रेलवे, सड़क, नवीकरणीय ऊर्जा और विद्युत पारेषण सहित कई क्षेत्रों में हैं। प्रधानमंत्री ने बालोतरा के पचपदरा में भारत का पहला ग्रीनफील्ड एकीकृत रिफाइनरी और पेट्रोकेमिकल […]",
@@ -1170,100 +1258,12 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "दक्षिण-पश्चिम मॉनसून अगले चार दिनों में गुजरात, हरियाणा, पंजाब और राजस्थान के कुछ हिस्सों में और आगे बढ़ेगा",
-        "summary": "मौसम विभाग ने अगले चार दिनों में दक्षिण-पश्चिम मानसून के गुजरात, हरियाणा, पंजाब और राजस्थान के कुछ हिस्‍सों में आगे बढ़ने की संभावना व्‍यक्‍त की हैं। विभाग ने मध्य प्रदेश, तटीय कर्नाटक, पूर्वी राजस्थान, तेलंगाना और विदर्भ में कल मूसलाधार वर्षा की अनुमान लगाया है। मौसम विभाग ने आज असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, […]",
-        "article": "मौसम विभाग ने अगले चार दिनों में दक्षिण-पश्चिम मानसून के गुजरात, हरियाणा, पंजाब और राजस्थान के कुछ हिस्&#x200d;सों में आगे बढ़ने की संभावना व्&#x200d;यक्&#x200d;त की हैं। विभाग ने मध्य प्रदेश, तटीय कर्नाटक, पूर्वी राजस्थान, तेलंगाना और विदर्भ में कल मूसलाधार वर्षा की अनुमान लगाया है। मौसम विभाग ने आज असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल के गांगेय क्षेत्रों, छत्तीसगढ़, उत्तराखंड, हिमाचल प्रदेश, मराठवाड़ा, पश्चिमी राजस्थान और देश के दक्षिणी हिस्सों में भी तेज बारिश की संभावना जताई है। इस बीच, राष्ट्रीय राजधानी क्षेत्र दिल्&#x200d;ली में आज हल्की बारिश हुई, जिससे लोगों को भीषण गर्मी और उमस से राहत मिली।",
+        "title": "देश का रक्षा निर्यात 38 हजार करोड़ रुपये के रिकॉर्ड स्तर पर पहुंच गया है: रक्षा मंत्री राजनाथ सिंह",
+        "summary": "रक्षा मंत्री राजनाथ सिंह ने कहा है कि देश का रक्षा निर्यात 38 हजार करोड़ रुपये के रिकॉर्ड स्तर पर पहुंच गया है। नई दिल्ली में एक निजी कार्यक्रम में श्री सिंह ने कहा कि वित्त वर्ष 2013-14 में रक्षा निर्यात 686 करोड़ रुपये से वर्तमान में लगभग 57 गुना बढ़ गया है। उन्‍होंने कहा […]",
+        "article": "रक्षा मंत्री राजनाथ सिंह ने कहा है कि देश का रक्षा निर्यात 38 हजार करोड़ रुपये के रिकॉर्ड स्तर पर पहुंच गया है। नई दिल्ली में एक निजी कार्यक्रम में श्री सिंह ने कहा कि वित्त वर्ष 2013-14 में रक्षा निर्यात 686 करोड़ रुपये से वर्तमान में लगभग 57 गुना बढ़ गया है। उन्&#x200d;होंने कहा कि वृद्धि रक्षा विनिर्माण और प्रौद्योगिकी के क्षेत्र में भारत की महत्वपूर्ण प्रगति और &#8216;मेक इन इंडिया&#8217; रक्षा प्लेटफार्म पर बढ़ते वैश्विक विश्वास को रेखांकित करती है। रक्षा मंत्री ने कहा कि वित्त वर्ष 2025-26 में वार्षिक रक्षा उत्पादन भी सर्वकालिक उच्च स्तर पर पहुंच गया है। यह एक लाख 78 हजार करोड़ रुपये से अधिक है, जो 2014-15 की तुलना में लगभग तीन गुना अधिक है। भारत की व्यापक विनिर्माण उपलब्धियों के बारे में श्री सिंह ने मोबाइल फोन उत्पादन के विस्तार, ऑटोमोबाइल निर्यात में वृद्धि, स्वदेशी लोकोमोटिव उत्पादन और मेक इन इंडिया पहल के अंतर्गत डिजिटल अवसंरचना को मजबूत करने का उल्लेख किया। पिछले एक दशक में देश की प्रगति के बारे में श्री सिंह ने कहा कि प्रधानमंत्री नरेंद्र मोदी के नेतृत्व में सरकार ने कमी को दूर किया है, अवसरों का विस्तार किया है और कार्य संस्कृति में परिवर्तन किया है। जम्मू-कश्मीर में अनुच्छेद 370 को निरस्त किए जाने के बारे में श्री सिंह ने कहा कि नक्सलवाद का खात्मा करने के लिए सरकार के निरंतर प्रयास उन चुनौतियों का सामना करने के संकल्प का उदाहरण हैं जिन्हें कभी असंभव माना जाता था।",
         "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:38:06+00:00",
-        "link": "https://newsonair.gov.in/hi/southwest-monsoon-will-advance-further-into-parts-of-gujarat-haryana-punjab-and-rajasthan-in-the-next-four-days/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/rains.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेंद्र मोदी आज गुजरात के साणंद में सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर असेंबली एंड टेस्ट सुविधा का उद्घाटन करेंगे",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज गुजरात के साणंद में सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर असेंबली एंड टेस्ट सुविधा का उद्घाटन करेंगे। इस मिशन के तहत 7,500 करोड़ रुपये से अधिक के निवेश से विकसित यह सुविधा देश के तकनीकी विनिर्माण सफर में एक महत्वपूर्ण मील का पत्थर है। इस प्लान्ट के लगने से व्यावसायिक उत्पादन की औपचारिक […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज गुजरात के साणंद में सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर असेंबली एंड टेस्ट सुविधा का उद्घाटन करेंगे। इस मिशन के तहत 7,500 करोड़ रुपये से अधिक के निवेश से विकसित यह सुविधा देश के तकनीकी विनिर्माण सफर में एक महत्वपूर्ण मील का पत्थर है। इस प्लान्ट के लगने से व्यावसायिक उत्पादन की औपचारिक शुरुआत होगी और पूरी क्षमता से चलने पर, इस सुविधा की वार्षिक उत्पादन क्षमता 5 अरब सेमीकंडक्टर चिप्स तक होगी। यह मेमोरी और स्टोरेज समाधानों की बढ़ती वैश्विक मांग को पूरा करने में भी मदद करेगी।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:33:53+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-inaugurate-the-cg-semi-outsourced-semiconductor-assembly-and-test-facility-in-sanand-gujarat-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने मूल्य स्थिरीकरण बफर के लिए प्याज के खरीद मूल्य में 13% की बढ़ोतरी की",
-        "summary": "सरकार ने मूल्य स्थिरीकरण बफर के लिए प्याज के खरीद मूल्य में 13 प्रतिशत की बढ़ोतरी की है। इसका खरीद मूल्‍य 1,875 रुपये प्रति क्विंटल से बढ़कर अब 2,125 रुपये प्रति क्विंटल हो गया है। उपभोक्ता मामले, खाद्य और सार्वजनिक वितरण मंत्रालय ने बताया कि संशोधित खरीद मूल्य आज से प्रभावी हो गया है। मंत्रालय […]",
-        "article": "सरकार ने मूल्य स्थिरीकरण बफर के लिए प्याज के खरीद मूल्य में 13 प्रतिशत की बढ़ोतरी की है। इसका खरीद मूल्&#x200d;य 1,875 रुपये प्रति क्विंटल से बढ़कर अब 2,125 रुपये प्रति क्विंटल हो गया है। उपभोक्ता मामले, खाद्य और सार्वजनिक वितरण मंत्रालय ने बताया कि संशोधित खरीद मूल्य आज से प्रभावी हो गया है। मंत्रालय के अनुसार इससे प्याज किसानों को बेहतर लाभ मिलेगा और साथ ही बफर खरीद प्रयासों को भी सहायता मिलेगी। सरकार के मूल्य स्थिरीकरण बफर के लिए भारतीय राष्ट्रीय कृषि सहकारी विपणन संघ लिमिटेड- नेफेड और भारतीय राष्ट्रीय सहकारी उपभोक्ता संघ लिमिटेड- एनसीसीएफ के माध्यम से प्याज की खरीद जारी है। कृषि और किसान कल्याण विभाग के वर्ष 2025-26 के दूसरे अग्रिम अनुमान के अनुसार, प्याज का उत्पादन 307 लाख मीट्रिक टन से अधिक होने का अनुमान है। मंत्रालय ने बताया कि महाराष्ट्र, मध्य प्रदेश और गुजरात में वर्तमान स्टॉक पर्याप्त है और फिलहाल प्याज की कोई कमी नहीं है। प्&#x200d;याज का अखिल भारतीय औसत खुदरा मूल्य 31 रुपये प्रति किलोग्राम है। प्याज का निर्यात सामान्य है और इस वर्ष जून महीने के दौरान लगभग डेढ लाख मीट्रिक टन प्याज का निर्यात किया गया।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:26:34+00:00",
-        "link": "https://newsonair.gov.in/hi/the-government-raised-the-onion-procurement-price-for-the-price-stabilization-buffer-by-13/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/08/onion.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गृह मंत्रालय ने यूएपीए के तहत पाकिस्तान में 23 लोगों को आतंकवादी घोषित किया",
-        "summary": "गृह मंत्रालय ने पाकिस्तान में 23 व्यक्तियों को &#8216;गैर-कानूनी गतिविधियां रोकथाम अधिनियम&#8217; (यूएपीए) के तहत तंकवादी घोषित किया है। ये लोग जैश-ए-मोहम्मद, लश्कर-ए-तैयबा और अन्य संगठनों से जुड़े थे। मंत्रालय ने कहा कि देश और नागरिकों की सुरक्षा के लिए सरकार हर आतंकी माड्यूल को खत्‍म करने के लिए प्रतिबद्ध है। यूएपीए अधिनियम में संशोधन […]",
-        "article": "गृह मंत्रालय ने पाकिस्तान में 23 व्यक्तियों को &#8216;गैर-कानूनी गतिविधियां रोकथाम अधिनियम&#8217; (यूएपीए) के तहत तंकवादी घोषित किया है। ये लोग जैश-ए-मोहम्मद, लश्कर-ए-तैयबा और अन्य संगठनों से जुड़े थे। मंत्रालय ने कहा कि देश और नागरिकों की सुरक्षा के लिए सरकार हर आतंकी माड्यूल को खत्&#x200d;म करने के लिए प्रतिबद्ध है। यूएपीए अधिनियम में संशोधन से केंद्र सरकार और जांच एजेंसियों की शक्तियों का विस्तार करके देश के आतंकवाद रोधी कानूनी ढांचे को मजबूत किया गया है। संशोधन से केंद्र सरकार को संगठनों के साथ-साथ व्यक्तियों को भी आतंकवादी घोषित करने का अधिकार मिल गया है।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:22:27+00:00",
-        "link": "https://newsonair.gov.in/hi/india-has-declared-23-pakistanis-as-terrorists-under-the-uapa/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/mha.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "व्यापक पायरेसी की खबरों के चलते सरकार ने टेलीग्राम को नोटिस जारी किया",
-        "summary": "व्यापक पायरेसी की खबरों को देखते हुए सरकार ने मैसेजिंग प्लेटफॉर्म टेलीग्राम को नोटिस जारी किया है। सरकार ने टेलीग्राम को पायरेटेड फिल्मों और ओटीटी कंटेंट के खिलाफ तत्काल कार्रवाई करने का निर्देश दिया है। आधिकारिक सूत्रों के अनुसार प्लेटफॉर्म को 15 दिनों के भीतर कार्रवाई रिपोर्ट देने को कहा गया है। इस कदम का […]",
-        "article": "व्यापक पायरेसी की खबरों को देखते हुए सरकार ने मैसेजिंग प्लेटफॉर्म टेलीग्राम को नोटिस जारी किया है। सरकार ने टेलीग्राम को पायरेटेड फिल्मों और ओटीटी कंटेंट के खिलाफ तत्काल कार्रवाई करने का निर्देश दिया है। आधिकारिक सूत्रों के अनुसार प्लेटफॉर्म को 15 दिनों के भीतर कार्रवाई रिपोर्ट देने को कहा गया है। इस कदम का उद्देश्य भारत की रचनात्&#x200d;मक अर्थव्यवस्था, फिल्म उद्योग, प्रसारकों, ओटीटी प्लेटफॉर्म, निर्माताओं और वितरकों की रक्षा करना है।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:17:06+00:00",
-        "link": "https://newsonair.gov.in/hi/the-government-issued-a-notice-to-telegram-following-reports-of-widespread-piracy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/tele.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अहमदाबाद-मुंबई हाई-स्पीड रेल कॉरिडोर 2029 के अंत तक तैयार हो जाएगा: रेल मंत्री अश्विनी वैष्णव",
-        "summary": "गुजरात में चल रही विभिन्न रेलवे परियोजनाओं की समीक्षा के बाद अहमदाबाद में केंद्रीय रेल मंत्री अश्विनी वैष्णव ने विश्वास जताया है कि अहमदाबाद और मुंबई को जोड़ने वाला पूरा हाई-स्पीड रेल कॉरिडोर 2029 के अंत तक तैयार हो जाएगा। उन्होंने बताया कि मुंबई-अहमदाबाद बुलेट ट्रेन परियोजना का निर्माण कार्य तेजी से आगे बढ़ रहा […]",
-        "article": "गुजरात में चल रही विभिन्न रेलवे परियोजनाओं की समीक्षा के बाद अहमदाबाद में केंद्रीय रेल मंत्री अश्विनी वैष्णव ने विश्वास जताया है कि अहमदाबाद और मुंबई को जोड़ने वाला पूरा हाई-स्पीड रेल कॉरिडोर 2029 के अंत तक तैयार हो जाएगा। उन्होंने बताया कि मुंबई-अहमदाबाद बुलेट ट्रेन परियोजना का निर्माण कार्य तेजी से आगे बढ़ रहा है और गुजरात खंड का अस्सी प्रतिशत काम पहले ही पूरा हो चुका है। सूरत से बिलिमोरा को जोड़ने वाला पहला परिचालन खंड अगले साल खुलने वाला है। श्री वैष्&#x200d;णव ने अहमदाबाद बुलेट ट्रेन स्टेशन स्थल पर इंजीनियरों और निर्माण टीमों से भी बातचीत की साथ ही यह घोषणा की कि ओमनगर अंडरपास आगामी नवरात्रि उत्सव से पहले पूरा हो जाएगा। उन्&#x200d;होंने असर्वा रेलवे स्टेशन के पुनर्विकास के मास्टरप्लान पर चर्चा की जिससे यह आधुनिक परिवहन केंद्र में परिवर्तित हो जाएगा",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:14:07+00:00",
-        "link": "https://newsonair.gov.in/hi/ahmedabad-mumbai-high-speed-rail-corridor-to-be-ready-by-the-end-of-2029-railway-minister-ashwini-vaishnaw/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/vas-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने एसआईआर प्रक्रिया के अंतर्गत गणना प्रपत्र जमा किया",
-        "summary": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) प्रक्रिया के अंतर्गत गणना प्रपत्र जमा किया। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने बताया कि दिल्ली के मुख्य निर्वाचन अधिकारी, जिला निर्वाचन अधिकारी, मतदाता पंजीकरण अधिकारी और बूथ स्तरीय अधिकारी ने उपराष्ट्रपति भवन में चल रही मतदाता सूची के एसआईआर के अंतर्गत […]",
-        "article": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) प्रक्रिया के अंतर्गत गणना प्रपत्र जमा किया। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने बताया कि दिल्ली के मुख्य निर्वाचन अधिकारी, जिला निर्वाचन अधिकारी, मतदाता पंजीकरण अधिकारी और बूथ स्तरीय अधिकारी ने उपराष्ट्रपति भवन में चल रही मतदाता सूची के एसआईआर के अंतर्गत गणना प्रक्रिया को सुगम बनाया। श्री राधाकृष्णन ने सभी पात्र मतदाताओं से इस प्रक्रिया में सक्रिय रूप से भाग लेने का आग्रह किया। उन्होंने इस बात पर बल दिया कि सटीक और अद्यतन मतदाता सूची लोकतंत्र को मजबूत करने के लिए आवश्यक है।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T06:59:09+00:00",
-        "link": "https://newsonair.gov.in/hi/vice-president-c-p-radhakrishnan-submitted-the-enumeration-form-under-the-sir-process/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMXXqIobEAA5Y3Z.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेन्‍द्र मोदी ने जोधपुर हवाई अड्डे के नए टर्मिनल भवन का उद्घाटन किया, संशोधित उड़ान योजना का भी किया शुभारंभ",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने आज राजस्थान में जोधपुर हवाई अड्डे के नए टर्मिनल भवन का उद्घाटन किया। 480 करोड़ रुपये की लागत से तैयार यह नया टर्मिनल भवन प्रति वर्ष 20 लाख यात्रियों की आवाजाही के लिए डिज़ाइन किया गया है। आधुनिक सुविधाओं से सुसज्जित नए टर्मिनल भवन से यात्रियों को सुगम और आरामदायक यात्रा […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने आज राजस्थान में जोधपुर हवाई अड्डे के नए टर्मिनल भवन का उद्घाटन किया। 480 करोड़ रुपये की लागत से तैयार यह नया टर्मिनल भवन प्रति वर्ष 20 लाख यात्रियों की आवाजाही के लिए डिज़ाइन किया गया है। आधुनिक सुविधाओं से सुसज्जित नए टर्मिनल भवन से यात्रियों को सुगम और आरामदायक यात्रा का अनुभव मिलेगा। इससे क्षेत्र में पर्यटन, व्यापार और रोजगार सृजन को बढ़ावा मिलेगा। श्री मोदी ने संशोधित उड़ान योजना का भी शुभारंभ किया जिससे क्षेत्रीय संपर्क के साथ-साथ विमानन क्षेत्र को प्रोत्साहन मिलेगा। देश के नागर विमानन परिदृश्य में इस महत्वपूर्ण विकास से उड़े देश का आम नागरिक पहल को बल मिलेगा। 28 हजार 840 करोड़ रुपये के आवंटन के साथ इस योजना का उद्देश्य अगले 10 वर्षों में विमानन-आधारित विकास के अगले चरण को गति देना है।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T06:51:55+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-inaugurated-the-new-terminal-building-at-jodhpur-airport-and-also-launched-the-revised-udan-scheme/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shanghai-7.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "खिलौनों के आयात में आई भारी गिरावट, घरेलू खिलौना बाजार में स्वदेशी उत्पादों की हिस्‍सेदारी बढ़ी: केंद्रीय मंत्री पीयूष गोयल",
-        "summary": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने कहा है कि खिलौनों के आयात में भारी गिरावट आई है और घरेलू खिलौना बाजार में देश में ही बने उत्पादों की हिस्‍सेदारी बहुत बढ़ गई है। उन्होंने कहा कि वैश्विक खिलौना उद्योग का मूल्य लगभग 120 अरब डॉलर है, जबकि भारत की हिस्सेदारी केवल 0.2 से […]",
-        "article": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने कहा है कि खिलौनों के आयात में भारी गिरावट आई है और घरेलू खिलौना बाजार में देश में ही बने उत्पादों की हिस्&#x200d;सेदारी बहुत बढ़ गई है। उन्होंने कहा कि वैश्विक खिलौना उद्योग का मूल्य लगभग 120 अरब डॉलर है, जबकि भारत की हिस्सेदारी केवल 0.2 से 0.3 प्रतिशत है। श्री गोयल ने इस बात पर जोर दिया कि इस क्षेत्र में विस्तार की अपार संभावनाएं हैं। नई दिल्ली में आयोजित 17वें टॉय बिज़ इंटरनेशनल बी2बी एक्सपो को संबोधित करते हुए श्री गोयल ने कहा कि भारतीय खिलौना निर्माता राष्ट्र निर्माण में महत्वपूर्ण योगदान दे रहे हैं। वर्ष 2020 से पहले की स्थिति को याद करते हुए उन्होंने कहा कि सस्ते और घटिया आयातित खिलौनों का बाजार पर दबदबा था, जिनमें से कई खिलौने गुणवत्ता और सुरक्षा मानकों पर खरे नहीं उतरते थे। वाणिज्&#x200d;य और उद्योग मंत्री ने कहा कि प्रधानमंत्री नरेंद्र मोदी द्वारा भारत को वैश्विक खिलौना केंद्र के रूप में विकसित करने के आह्वान के साथ-साथ मेक इन इंडिया और राष्ट्रीय खिलौना कार्य योजना 2020 जैसी पहलों से इस क्षेत्र में क्रांतिकारी बदलाव आया है। उन्होंने कहा कि देशभर में 50 से अधिक खिलौना क्लस्टर विकसित किए गए हैं, जिनमें से लगभग 80 प्रतिशत क्षेत्र लघु और मध्यम उद्यमों द्वारा संचालित है। श्री गोयल ने खिलौना निर्माताओं से उच्च विकास के लिए प्रयास करने और गुणवत्ता तथा उत्पादकता में सुधार के लिए डिजाइन हेतु कैड-कैम और उत्पादन हेतु सीएनसी मशीनों जैसी उन्नत तकनीकों को अपनाने का आग्रह किया। इस बीच, भारतीय जनता पार्टी की सांसद बंसुरी स्वराज ने कहा कि भारत का खिलौना उद्योग जमीनी स्तर पर रचनात्मकता, नवाचार, उद्यमिता और आत्मनिर्भर भारत की परिकल्पना को दर्शाता है। उन्होंने कहा कि यह क्षेत्र, देश की &#8220;लोकल से ग्&#x200d;लोबल&#8221; पहल का एक सशक्त उदाहरण बनकर उभरा है। सुश्री स्वराज ने भारतीय खिलौना संघ को बधाई दी और कहा कि 50 से अधिक देशों के खरीदारों की भागीदारी और बड़ी संख्या में भारतीय निर्माताओं की उपस्थिति भारत में निर्मित खिलौनों की बढ़ती वैश्विक स्वीकृति को दर्शाती है। भारतीय खिलौनों में नवाचार पर प्रकाश डालते हुए उन्होंने कहा कि इनकी इंजीनियरिंग और डिजाइन पैसे के हिसाब से कहीं अधिक मूल्यवान हैं। ये उत्पाद कई उद्देश्यों को पूरा करते हैं और बच्चों के बड़े होने तक उपयोगी बने रहते हैं। आज से शुरू हुआ चार दिवसीय एक्सपो इस महीने की 7 तारीख तक चलेगा। इस आयोजन में 40 से अधिक देश भाग ले रहे हैं।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:49:26+00:00",
-        "link": "https://newsonair.gov.in/hi/sharp-decline-in-toy-imports-share-of-indigenous-products-in-the-domestic-toy-market-has-increased-union-minister-piyush-goyal/",
+        "pubDate": "2026-07-04T11:17:15+00:00",
+        "link": "https://newsonair.gov.in/hi/the-countrys-defence-exports-have-reached-a-record-level-of-%e2%82%b938000-crore-defence-minister-rajnath-singh/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1271,6 +1271,94 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "संशोधित उड़ान योजना का शुभारंभ भारत की क्षेत्रीय कनेक्टिविटी यात्रा के अगले अध्‍याय का परिचायक है: नागर विमानन मंत्री राममोहन नायडू",
+        "summary": "नागर विमानन मंत्री राममोहन नायडू ने आज कहा कि संशोधित उड़ान योजना का शुभारंभ भारत की क्षेत्रीय कनेक्टिविटी यात्रा के अगले अध्‍याय का परिचायक है। श्री नायडू ने कहा कि 28 हजार 840 करोड़ रुपये से अधिक के बजट आवंटन के साथ प्रधानमंत्री मोदी द्वारा शुरू की गई यह योजना टीयर-2 और टीयर-3 शहरों में […]",
+        "article": "नागर विमानन मंत्री राममोहन नायडू ने आज कहा कि संशोधित उड़ान योजना का शुभारंभ भारत की क्षेत्रीय कनेक्टिविटी यात्रा के अगले अध्&#x200d;याय का परिचायक है। श्री नायडू ने कहा कि 28 हजार 840 करोड़ रुपये से अधिक के बजट आवंटन के साथ प्रधानमंत्री मोदी द्वारा शुरू की गई यह योजना टीयर-2 और टीयर-3 शहरों में कनेक्टिविटी को मजबूत बनाएगी। उन्&#x200d;होंने कहा कि यह योजना 100 नये हवाई अड्डों और 200 हेलीपैड के विकास में सुविधा प्रदान करेगी। इससे लाखों लोगों की हवाई यात्रा का सपना साकार होने के करीब आएगा और एक उभरते हुए भारत की आकांक्षाओं को जोड़ा जा सकेगा। जोधपुर हवाई अड्डे पर नये टर्मिनल भवन के उद्घाटन का उल्&#x200d;लेख करते हुए श्री नायडू ने कहा कि&#x200d; विश्&#x200d;व स्&#x200d;तरीय सुविधा मारवाड क्षेत्र में संपर्क को सशक्&#x200d;त बनाएगी। वहीं, यह सुविधा राजस्&#x200d;थान में पर्यटन, व्&#x200d;यापार और आर्थिक विकास के नये द्वार खोलेगी।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:33:12+00:00",
+        "link": "https://newsonair.gov.in/hi/launch-of-the-revised-udan-scheme-marks-the-next-chapter-in-indias-regional-connectivity-journey-civil-aviation-minister-rammohan-naidu/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/682621d4b78c8-ram-mohan-naidu-has-got-y-category-security-15180741-16x9-1.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उद्योग जगत के विशेषज्ञों ने कहा- एथेनॉल मिश्रण कार्यक्रम चरणबद्ध और वैज्ञानिक रूप से संचालित प्रक्रिया से लागू किया गया है",
+        "summary": "उद्योग जगत के विशेषज्ञों ने कहा है कि एथेनॉल मिश्रण कार्यक्रम रातोंरात लागू नहीं किया गया है, बल्कि एक सुनियोजित, चरणबद्ध और वैज्ञानिक रूप से संचालित प्रक्रिया के जरिये इसे लागू किया गया है। नई दिल्‍ली में एक संवाददाता सम्‍मेलन को सम्‍बोधित करते हुए इंजीनियर्स इंडिया लिमिटेड की पूर्व अध्‍यक्ष और प्रबंध निदेशक वर्तिका शुक्‍ला […]",
+        "article": "उद्योग जगत के विशेषज्ञों ने कहा है कि एथेनॉल मिश्रण कार्यक्रम रातोंरात लागू नहीं किया गया है, बल्कि एक सुनियोजित, चरणबद्ध और वैज्ञानिक रूप से संचालित प्रक्रिया के जरिये इसे लागू किया गया है। नई दिल्&#x200d;ली में एक संवाददाता सम्&#x200d;मेलन को सम्&#x200d;बोधित करते हुए इंजीनियर्स इंडिया लिमिटेड की पूर्व अध्&#x200d;यक्ष और प्रबंध निदेशक वर्तिका शुक्&#x200d;ला ने कहा कि एथेनॉल मिश्रण कार्यक्रम 2018 में संरचित चर्चा और हितधारकों के परामर्श के लिए सार्वजनिक क्षेत्र में रखा गया था। उन्&#x200d;होंने कहा कि इस पहल को वैज्ञानिक प्रमाणों, ऑटोमोबाइल निर्माताओं द्वारा किए गए व्यापक परीक्षणों, भारतीय ऑटोमोटिव अनुसंधान संघ और भारतीय ऑटोमोबाइल निर्माता सोसायटी का समर्थन प्राप्त है। इस अवसर पर टोयोटा किर्लोस्&#x200d;कर मोटर्स के प्रमुख और कार्यकारी उपाध्&#x200d;यक्ष विक्रम गुलाटी ने कहा कि एथेनॉल एक स्&#x200d;वच्&#x200d;छ ईंधन है। यह अच्&#x200d;छी परिचालन क्षमता और तेज गति प्रदान करता है। उन्&#x200d;होंने कहा कि जिस युग में लोग जलवायु परिवर्तन की चुनौतियों का सामना कर रहे हों, वहां यह पौधों से निकाला गया एक शून्&#x200d;य कार्बन ईंधन है।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:28:03+00:00",
+        "link": "https://newsonair.gov.in/hi/industry-experts-stated-that-the-ethanol-blending-programme-has-been-implemented-through-a-phased-and-scientifically-driven-process/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-04-172502.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सामाजिक न्याय एवं अधिकारिता मंत्रालय ने मादक पदार्थों की मांग में कमी लाने के लिए राष्ट्रीय कार्य योजना शुरू की",
+        "summary": "सामाजिक न्याय एवं अधिकारिता मंत्रालय ने मादक पदार्थों की मांग में कमी लाने के लिए राष्ट्रीय कार्य योजना शुरू की है। यह एक व्यापक ढांचा है जिसका उद्देश्य रोकथाम, जागरूकता पैदा करना, क्षमता निर्माण, उपचार, पुनर्वास और सामाजिक एकीकरण है। केंद्रीय सामाजिक न्याय एवं अधिकारिता मंत्री डॉ. वीरेंद्र कुमार ने कहा कि इन पहलों का […]",
+        "article": "सामाजिक न्याय एवं अधिकारिता मंत्रालय ने मादक पदार्थों की मांग में कमी लाने के लिए राष्ट्रीय कार्य योजना शुरू की है। यह एक व्यापक ढांचा है जिसका उद्देश्य रोकथाम, जागरूकता पैदा करना, क्षमता निर्माण, उपचार, पुनर्वास और सामाजिक एकीकरण है। केंद्रीय सामाजिक न्याय एवं अधिकारिता मंत्री डॉ. वीरेंद्र कुमार ने कहा कि इन पहलों का उद्देश्य जागरूकता, उपचार, पुनर्वास और सामाजिक एकीकरण के माध्यम से मादक पदार्थों के दुरुपयोग को रोकना है। उन्होंने मादक पदार्थों के दुरुपयोग से निपटने के लिए केंद्र, राज्यों, केंद्र शासित प्रदेशों, संबंधित मंत्रालयों, नागरिक समाज और जनता से सामूहिक तथा समन्वित कार्रवाई का आह्वान किया। डॉ. कुमार ने कहा कि मंत्रालय द्वारा 2019 में किए गए राष्ट्रव्यापी सर्वेक्षण में पाया गया कि देश में सात करोड़ से अधिक लोग मादक पदार्थों के सेवन से प्रभावित थे, जो अधिक जागरूकता, सहानुभूति और जन-केंद्रित हस्तक्षेपों की आवश्यकता को उजागर करता है। सामाजिक न्याय एवं अधिकारिता विभाग के सचिव सुधांश पंत ने कहा कि मंत्रालय ने अपने उपचार एवं पुनर्वास नेटवर्क का विस्तार करते हुए देश भर में सात सौ अडसठ नशामुक्ति एवं पुनर्वास केंद्रों तक पहुंच बनाई है। उन्होंने कहा कि उपचार चाहने वाले लोगों की संख्या में 294 प्रतिशत की वृद्धि हुई है, जो 2020 में 2 लाख 8 हजार से बढ़कर 2025 में 8 लाख 20 हजार से अधिक हो गई है, जो इन सेवाओं में जनता के बढ़ते विश्वास को दर्शाती है। श्री पंत ने कहा कि मंत्रालय की टोल-फ्री नशामुक्ति हेल्पलाइन, 1 4 4 4 6 पर सहायता मांगने वाले व्यक्तियों और परिवारों से 4 लाख 69 हजार से अधिक कॉल प्राप्त हुए हैं। उन्होंने कहा कि पिछले महीने आयोजित नशामुक्त भारत सप्ताह में जागरूकता और सामुदायिक आउटरीच कार्यक्रमों के माध्यम से 1 करोड़ 31 लाख से अधिक लोगों ने भाग लिया, जो नशामुक्त भारत के प्रति राष्ट्रव्यापी प्रतिबद्धता की पुष्टि करता है।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:22:10+00:00",
+        "link": "https://newsonair.gov.in/hi/the-ministry-of-social-justice-and-empowerment-launched-a-national-action-plan-to-reduce-the-demand-for-drugs/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-3.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केन्द्रीय मंत्री जितेंद्र सिंह ने भारत में लिवर की महामारी और टाइप-2 मधुमेह से निपटने के लिए एक राष्ट्रीय मिशन शुरू करने का आह्वान किया",
+        "summary": "विज्ञान और प्रौद्योगिकी मंत्री जितेंद्र सिंह ने भारत में लिवर की महामारी और टाइप-2 मधुमेह से निपटने के लिए एक राष्ट्रीय मिशन शुरू करने का आह्वान किया है। नई दिल्ली में &#8216;लिवर एंड मेटाबोलिक डिज़ीज़ नेटवर्क&#8217; की तीसरी वर्षगांठ पर डॉ. सिंह ने कहा कि ये रोग अब पहले की तुलना में कम उम्र के […]",
+        "article": "विज्ञान और प्रौद्योगिकी मंत्री जितेंद्र सिंह ने भारत में लिवर की महामारी और टाइप-2 मधुमेह से निपटने के लिए एक राष्ट्रीय मिशन शुरू करने का आह्वान किया है। नई दिल्ली में &#8216;लिवर एंड मेटाबोलिक डिज़ीज़ नेटवर्क&#8217; की तीसरी वर्षगांठ पर डॉ. सिंह ने कहा कि ये रोग अब पहले की तुलना में कम उम्र के लोगों में भी देखे जा रहे हैं। उन्&#x200d;होंने कहा कि देश की जेनेटिक बनावट, पेट के आसपास चर्बी की अधिक समस्या और भारतीयों की खास शारीरिक बनावट के कारण लोगों में मधुमेह, फैटी लिवर और हृदय रोग का ख़तरा ज़्यादा है। डॉ. सिंह ने कहा कि वैज्ञानिक तरक्की के साथ बड़े पैमाने पर जन-जागरूकता और व्यवहार में बदलाव से इस चुनौती निपटा जा सकता।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:56:25+00:00",
+        "link": "https://newsonair.gov.in/hi/union-minister-jitendra-singh-called-for-the-launch-of-a-national-mission-to-tackle-the-liver-epidemic-and-type-2-diabetes-in-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/jitendra.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "डीआरसी में संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सैनिकों को संयुक्त राष्ट्र पदक से सम्मानित किया गया",
+        "summary": "वैश्विक शांति अभियानों में भारत के दीर्घकालिक योगदान को एक महत्वपूर्ण मान्यता मिली है। डेमोक्रेटिक रिपब्लिक ऑफ़ कांगो (डीआरसी) के स्थायी परिचालन ठिकाने साके में आयोजित एक औपचारिक पदक परेड के दौरान संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सेना के कर्मियों को प्रतिष्ठित संयुक्त राष्ट्र पदक से सम्मानित किया गया। ये पदक कल आयोजित […]",
+        "article": "वैश्विक शांति अभियानों में भारत के दीर्घकालिक योगदान को एक महत्वपूर्ण मान्यता मिली है। डेमोक्रेटिक रिपब्लिक ऑफ़ कांगो (डीआरसी) के स्थायी परिचालन ठिकाने साके में आयोजित एक औपचारिक पदक परेड के दौरान संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सेना के कर्मियों को प्रतिष्ठित संयुक्त राष्ट्र पदक से सम्मानित किया गया। ये पदक कल आयोजित एक समारोह में प्रदान किए गए, जिसमें संयुक्त राष्ट्र शांति अभियानों के तहत भारतीय दल की व्यावसायिकता, परिचालन उत्कृष्टता और समर्पित सेवा को सम्मानित किया गया। इस कार्यक्रम में कांगो में संयुक्त राष्ट्र संगठन स्थिरीकरण मिशन &#8211; मोनुस्को के वरिष्ठ अधिकारी, बल मुख्यालय के प्रतिनिधि, सैन्य कमांडर और अन्य विशिष्ट अतिथि उपस्थित थे।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:29:43+00:00",
+        "link": "https://newsonair.gov.in/hi/651-indian-soldiers-serving-under-the-united-nations-in-the-drc-were-awarded-the-united-nations-medal/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMYPupiasAA_y9K.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी ने उपभोक्ता न्याय को मजबूत करने के लिए सरकार के प्रयासों का उल्‍लेख किया",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी ने आज डिजिटल सुधारों के माध्यम से उपभोक्ता न्याय को मजबूत करने के लिए सरकार के प्रयासों का उल्‍लेख किया। केंद्रीय मंत्री प्रल्हाद जोशी द्वारा लिखित एक लेख साझा करते हुए, श्री मोदी ने कहा कि हितधारकों के साथ व्यापक परामर्श के बाद, ई-जागृति को परिष्कृत किया गया है। इससे उपभोक्ता न्याय […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी ने आज डिजिटल सुधारों के माध्यम से उपभोक्ता न्याय को मजबूत करने के लिए सरकार के प्रयासों का उल्&#x200d;लेख किया। केंद्रीय मंत्री प्रल्हाद जोशी द्वारा लिखित एक लेख साझा करते हुए, श्री मोदी ने कहा कि हितधारकों के साथ व्यापक परामर्श के बाद, ई-जागृति को परिष्कृत किया गया है। इससे उपभोक्ता न्याय संरचनात्मक डिजिटल परिवर्तन से गुजर रहे प्रमुख क्षेत्रों में से एक बन गया है। ई-जागृति प्लेटफॉर्म पर एक लेख में श्री जोशी ने कहा कि यह एक परिवर्तनकारी पहल है जिसका उद्देश्य उपभोक्ता शिकायत के संपूर्ण जीवनचक्र को डिजिटाइज़ करके भारत की उपभोक्ता न्याय प्रणाली का आधुनिकीकरण करना है। उन्होंने कहा कि ई-जागृति प्लेटफॉर्म डिजिटल प्रौद्योगिकियों, आर्टिफिशियल इंटेलिजेंस और हाइब्रिड सुनवाई का लाभ उठाकर प्रणाली को तेज, अधिक पारदर्शी और अधिक सुलभ बनाता है। यह प्&#x200d;लेटफॉर्म उन कमियों को दूर करता है जो पहले उपभोक्ताओं को निवारण प्राप्त करने से हतोत्साहित करती थीं। केंद्रीय मंत्री ने कहा कि पोर्टल का नागरिक-केंद्रित डिज़ाइन, हितधारकों की प्रतिक्रिया के आधार पर निरंतर सुधार और इसका राष्ट्रव्यापी कार्यान्वयन उत्तरदायी शासन के प्रति सरकार की प्रतिबद्धता को दर्शाता है। उन्होंने कहा कि जैसे-जैसे भारत की डिजिटल अर्थव्यवस्था का विस्तार जारी है, एक कुशल उपभोक्ता विवाद समाधान तंत्र सार्वजनिक विश्वास को मजबूत करने, जिम्मेदार व्यावसायिक प्रथाओं को बढ़ावा देने और यह सुनिश्चित करने में महत्वपूर्ण भूमिका निभाएगा कि प्रत्येक उपभोक्ता आसानी और विश्वास के साथ न्याय प्राप्त कर सके।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:15:12+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-highlighted-the-governments-efforts-to-strengthen-consumer-justice/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260623392f-e1782227130311.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "संसद का मानसून सत्र 20 जुलाई से शुरू होगा और 13 अगस्त तक चलेगा",
+        "summary": "संसद का मानसून सत्र इस महीने की 20 तारीख से शुरू होगा और 13 अगस्त तक चलेगा। संसदीय कार्य मंत्री किरेन रिजिजू ने बताया कि राष्ट्रपति द्रौपदी मुर्मु ने 20 जुलाई से संसद का मानसून सत्र बुलाने के सरकार के प्रस्ताव को मंजूरी दे दी है। सोशल मीडिया पोस्ट में श्री रिजिजू ने कहा कि […]",
+        "article": "संसद का मानसून सत्र इस महीने की 20 तारीख से शुरू होगा और 13 अगस्त तक चलेगा। संसदीय कार्य मंत्री किरेन रिजिजू ने बताया कि राष्ट्रपति द्रौपदी मुर्मु ने 20 जुलाई से संसद का मानसून सत्र बुलाने के सरकार के प्रस्ताव को मंजूरी दे दी है। सोशल मीडिया पोस्ट में श्री रिजिजू ने कहा कि सत्र में राष्ट्रीय महत्व के मुद्दों पर सार्थक बहस, चर्चा और निर्णय लेने पर ध्यान केंद्रित किया जाएगा।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:14:52+00:00",
+        "link": "https://newsonair.gov.in/hi/the-monsoon-session-of-parliament-will-begin-on-july-20-and-continue-until-august-13/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/sansad-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी ने राजस्‍थान में 1.5 लाख करोड़ रुपये से अधिक की विकास परियोजनाओं का उद्घाटन किया",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने आज राजस्‍थान के पचपदरा में एक लाख पांच हजार करोड़ रुपये से अधिक की विकास परियोजनाओं का उद्घाटन किया और आधारशिला रखी। यह राज्‍य में अवसंरचना, ऊर्जा, परिवहन और रोजगार सृजन में एक महत्‍वपूर्ण उपलब्धि का परिचायक है। अपनी एक दिन यात्रा के दौरान प्रधानमंत्री ने जोधपुर हवाई अड्डे पर नये […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने आज राजस्&#x200d;थान के पचपदरा में एक लाख पांच हजार करोड़ रुपये से अधिक की विकास परियोजनाओं का उद्घाटन किया और आधारशिला रखी। यह राज्&#x200d;य में अवसंरचना, ऊर्जा, परिवहन और रोजगार सृजन में एक महत्&#x200d;वपूर्ण उपलब्धि का परिचायक है। अपनी एक दिन यात्रा के दौरान प्रधानमंत्री ने जोधपुर हवाई अड्डे पर नये टर्मिनल भवन का उद्घाटन किया। इसके बाद उन्&#x200d;होंने बालोतरा जिले के पचपदरा में देश के सबसे आधुनिक ग्रीनफील्&#x200d;ड रिफानरी सह पैट्रोकेमिकल राष्&#x200d;ट्र को समर्पित भी किया। उन्&#x200d;होंने रिफाइनरी के आधुनिकतम नियंत्रणकक्ष का निरीक्षण भी किया। श्री मोदी ने इंजीनियरों और तकनीकी विशेषज्ञों से बातचीत भी की। श्री मोदी ने ईंधन टैंकर को झंडी दिखाकर रवाना किया। प्रधानमंत्री ने जयपुर मेट्रो चरण दो के लिए वर्चुअल माध्&#x200d;यम से आधा&#x200d;रशिला रखी। ग्रीनफील्ड रिफाइनरी तेल, गैस या खनिजों के लिए एक औद्योगिक प्रसंस्करण संयंत्र है जिसे अविकसित स्वच्छ भूमि पर बिल्कुल नए सिरे से बनाया जाता है। सभा को सम्&#x200d;बोधित करते हुए प्रधानमंत्री ने कहा कि पश्चिम एशिया के संघर्ष ने 21वीं सदी के सबसे बडे ऊर्जा संकट को जन्&#x200d;म दिया है। उन्&#x200d;होंने कहा कि भारत का समय पर लिया गया निर्णय, प्रभावशाली रणनीति और राष्&#x200d;ट्रीय संसाधनों के विवेकपूर्ण प्रबंधन ने देश को इस संकट पर काबू पाने योग्&#x200d;य बनाया है। प्रधानमंत्री ने कहा कि जहां कई देश ईंधन की कमी से जूझ रहे थे, वहीं भारत ने संकट का सटीक आकलन किया, एक प्रभावी रणनीति तैयार की और देश की ऊर्जा सुरक्षा की रक्षा के लिए अपनी राजनयिक शक्ति का इस्तेमाल किया। श्री मोदी ने कहा कि इस संकट के दौरान मित्र देशों के साथ भारत के मजबूत राजनयिक संबंधों ने एक महत्&#x200d;वपूर्ण भूमिका निभाई। उन्&#x200d;होंने कहा कि पहले भारत 25 से 26 देशों से ऊर्जा आयात करता था, लेकिन इस संकट के दौरान भारत ने इसका विस्&#x200d;तार लगभग चालीस देशों तक किया। इससे वैश्विक बाधाओं के बावजूद ईंधन आपूर्ति निर्बाध सुनिश्चित हो सकी। श्री मोदी ने कहा कि देश और इसके नागरिकों के हित सरकार की सर्वोच्च प्राथमिकता बने रहेंगे। उन्&#x200d;होंने कहा कि भारत ने अपनी रिफाइनिंग क्षमता का भी विस्&#x200d;तार किया है। यह अब विश्&#x200d;व का चौथा सबसे बडा रिफाइनिंग राष्&#x200d;ट्र बन चुका है। प्रधानमंत्री ने कहा कि वैश्विक संकट के बावजूद सरकार ने रसोई गैस की कीमतों में भारी वृद्धि को रोका। उन्होंने कहा कि इस संकट के कारण एलपीजी सिलेंडर की कीमत लगभग 2 हजार रुपये तक पहुंच सकती थी, लेकिन प्रभावी हस्तक्षेप से यह सुनिश्चित हुआ कि उपभोक्ताओं को लगभग 950 रुपये में सिलेंडर मिलते रहें। उन्होंने कहा कि अप्रैल से जून के बीच, तेल विपणन कंपनियों को पेट्रोल और डीजल पर लगभग 75 हजार करोड़ रुपये का नुकसान हुआ, जिसका बोझ सरकार ने नागरिकों को अंतरराष्ट्रीय ईंधन की बढ़ती कीमतों के प्रभाव से बचाने के लिए उठाया। श्री मोदी ने कहा कि ऊर्जा संकट के दौरान सरकार के प्रयासों को एक दिन इतिहास में दर्ज किया जाएगा। उन्होंने कहा कि जहां कुछ लोग अफवाहें फैलाने और दहशत पैदा करने में व्यस्त थे, वहीं अधिकारी निर्बाध ऊर्जा आपूर्ति सुनिश्चित करने के लिए धैर्य, कड़ी मेहनत और संवेदनशील नीतिगत निर्णयों के साथ दिन-रात पर्दे के पीछे काम करते रहे। उन्होंने इस कठिन दौर में सहयोग के लिए देशवासियों का आभार व्यक्त किया। श्री मोदी ने उन लोगों की आलोचना की जिन्होंने राष्ट्र का समर्थन करने के बजाय संकट का राजनीतिकरण करने का प्रयास किया। पश्चिम एशिया और यूक्रेन में संघर्षों के कारण उत्पन्न वैश्विक उर्वरक संकट का जिक्र करते हुए उन्होंने कहा कि जहां कई देशों में यूरिया की कीमतें लगभग 3 हजार रुपये प्रति बोरी तक पहुंच गईं, वहीं सरकार ने यह सुनिश्चित किया कि भारतीय किसानों को लगभग तीा सौ रुपये प्रति बोरी की दर से यूरिया मिलता रहे, जिससे वे वैश्विक मूल्य वृद्धि से सुरक्षित रहे। पचपदरा रिफाइनरी का जिक्र करते हुए प्रधानमंत्री ने इसे भारत के एक विकसित और आत्मनिर्भर …",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:09:07+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-inaugurated-the-new-terminal-building-at-jodhpur-airport/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260704299f-1-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "प्रधानमंत्री नरेन्‍द्र मोदी ने भारत का पहला ग्रीनफील्ड एकीकृत रिफाइनरी-सह-पेट्रोकेमिकल्‍स परिसर देश को समर्पित किया",
         "summary": "प्रधानमंत्री नरेंद्र मोदी ने आज राजस्थान के बालोतरा में लगभग एक लाख 6 हजार करोड़ रुपए की विकास परियोजनाओं का उद्घाटन और शिलान्यास किया। ये परियोजनाएं पेट्रोकेमिकल्स, शहरी परिवहन, रेलवे, सड़क, नवीकरणीय ऊर्जा और विद्युत पारेषण सहित कई क्षेत्रों में हैं। प्रधानमंत्री ने बालोतरा के पचपदरा में भारत का पहला ग्रीनफील्ड एकीकृत रिफाइनरी और पेट्रोकेमिकल […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी ने आज राजस्थान के बालोतरा में लगभग एक लाख 6 हजार करोड़ रुपए की विकास परियोजनाओं का उद्घाटन और शिलान्यास किया। ये परियोजनाएं पेट्रोकेमिकल्स, शहरी परिवहन, रेलवे, सड़क, नवीकरणीय ऊर्जा और विद्युत पारेषण सहित कई क्षेत्रों में हैं। प्रधानमंत्री ने बालोतरा के पचपदरा में भारत का पहला ग्रीनफील्ड एकीकृत रिफाइनरी और पेट्रोकेमिकल परिसर राष्ट्र को समर्पित किया। यह देश के ऊर्जा और पेट्रोकेमिकल क्षेत्र में एक ऐतिहासिक उपलब्धि है। ग्रीनफील्ड रिफाइनरी और पेट्रोकेमिकल परिसर हिंदुस्तान पेट्रोलियम कॉर्पोरेशन लिमिटेड और राजस्थान सरकार का संयुक्त उद्यम है। 90 लाख मीट्रिक टन प्रति वर्ष क्षमता वाले इस परिसर की स्&#x200d;थापना 79,450 करोड़ रुपये से अधिक के निवेश से की गई है। प्रधानमंत्री मोदी ने 13 हजार करोड़ रुपये से अधिक की कुल लागत वाली जयपुर मेट्रो रेल परियोजना के दूसरे चरण का भी शिलान्यास किया। दूसरे चरण में प्रहलादपुरा से तोड़ी मोड़ तक 41 किलोमीटर लंबा उत्तर-दक्षिण मेट्रो कॉरिडोर विकसित किया जाएगा। प्रधानमंत्री ने चूरू-सादुलपुर और चूरू-रतनगढ़ रेल दोहरीकरण परियोजनाओं और राष्ट्रीय राजमार्ग 125 -ए, जोधपुर रिंग रोड खंड-दो के चार लेन निर्माण को राष्ट्र को समर्पित किया। उन्होंने सतलुज जल विद्युत निगम लिमिटेड की एक हजार मेगावाट बीकानेर सौर ऊर्जा परियोजना भी राष्ट्र को समर्पित की। श्री मोदी ने राजस्थान नवीकरणीय ऊर्जा क्षेत्र-आरईजेड से बिजली निकासी के लिए 1,900 करोड़ रुपये से अधिक की लागत से निर्मित पारेषण लाइन का उद्घाटन किया। उन्होंने राजस्थान आर.ई.जेड. के लिए 530 किलोमीटर लंबी बिजली पारेषण प्रणाली की आधारशिला भी रखी। प्रधानमंत्री मोदी ने राजस्थान सरकार के विभिन्न विभागों में भर्ती किए गए लगभग 54 हजार युवाओं को नियुक्ति पत्र भी सौंपे। इस अवसर पर श्री मोदी ने कहा कि चुनौती चाहे कितनी भी बड़ी हो नया भारत न तो अपने संकल्प से पीछे हटता है और न ही अपनी गति धीमी करता है। उन्होंने कहा कि आज जोधपुर में नए हवाई अड्डे के टर्मिनल का उद्घाटन देश की विकास यात्रा में एक महत्वपूर्ण कदम है। प्रधानमंत्री ने विश्वास व्यक्त किया कि नए टर्मिनल से मारवाड़ क्षेत्र में पर्यटन, व्यापार और रोजगार के अवसर बढ़ेगे। श्री मोदी ने कहा कि भारत अपने दृढ़ संकल्प और निरंतर प्रयासों से 21वीं सदी के सबसे बड़े ऊर्जा संकट से सफलतापूर्वक उबरने में कामयाब रहा है। उन्होंने कहा कि भारत ने हर स्तर पर समय रहते निर्णय लिए, उभरते संकट का सटीक आकलन किया, प्रभावी रणनीति तैयार की और देश के संसाधनों का संतुलित उपयोग सुनिश्चित किया। प्रधानमंत्री ने यह भी कहा कि कूटनीति और रणनीतिक उपायों से देश ने इस संकट का सफलतापूर्वक सामना किया। इससे पहले प्रधानमंत्री ने राजस्थान में जोधपुर हवाई अड्डे के नए टर्मिनल भवन का उद्घाटन किया। चार सौ 80 करोड़ रुपये की लागत से तैयार यह नया टर्मिनल भवन प्रति वर्ष 20 लाख यात्रियों की आवाजाही के लिए डिज़ाइन किया गया है। आधुनिक सुविधाओं से सुसज्जित नए टर्मिनल भवन से यात्रियों को सुगम और आरामदायक यात्रा का अनुभव मिलेगा। इससे क्षेत्र में पर्यटन, व्यापार और रोजगार सृजन को बढ़ावा मिलेगा। श्री मोदी ने संशोधित उड़ान योजना का भी शुभारंभ किया जिससे क्षेत्रीय संपर्क के साथ-साथ विमानन क्षेत्र को प्रोत्साहन मिलेगा। देश के नागर विमानन परिदृश्य में इस महत्वपूर्ण विकास से उड़े देश का आम नागरिक पहल को बल मिलेगा। 28,840 करोड़ रुपये के आवंटन के साथ इस योजना का उद्देश्य अगले 10 वर्षों में विमानन-आधारित विकास के अगले चरण को गति देना है।",
@@ -1282,100 +1370,12 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "दक्षिण-पश्चिम मॉनसून अगले चार दिनों में गुजरात, हरियाणा, पंजाब और राजस्थान के कुछ हिस्सों में और आगे बढ़ेगा",
-        "summary": "मौसम विभाग ने अगले चार दिनों में दक्षिण-पश्चिम मानसून के गुजरात, हरियाणा, पंजाब और राजस्थान के कुछ हिस्‍सों में आगे बढ़ने की संभावना व्‍यक्‍त की हैं। विभाग ने मध्य प्रदेश, तटीय कर्नाटक, पूर्वी राजस्थान, तेलंगाना और विदर्भ में कल मूसलाधार वर्षा की अनुमान लगाया है। मौसम विभाग ने आज असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, […]",
-        "article": "मौसम विभाग ने अगले चार दिनों में दक्षिण-पश्चिम मानसून के गुजरात, हरियाणा, पंजाब और राजस्थान के कुछ हिस्&#x200d;सों में आगे बढ़ने की संभावना व्&#x200d;यक्&#x200d;त की हैं। विभाग ने मध्य प्रदेश, तटीय कर्नाटक, पूर्वी राजस्थान, तेलंगाना और विदर्भ में कल मूसलाधार वर्षा की अनुमान लगाया है। मौसम विभाग ने आज असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल के गांगेय क्षेत्रों, छत्तीसगढ़, उत्तराखंड, हिमाचल प्रदेश, मराठवाड़ा, पश्चिमी राजस्थान और देश के दक्षिणी हिस्सों में भी तेज बारिश की संभावना जताई है। इस बीच, राष्ट्रीय राजधानी क्षेत्र दिल्&#x200d;ली में आज हल्की बारिश हुई, जिससे लोगों को भीषण गर्मी और उमस से राहत मिली।",
+        "title": "देश का रक्षा निर्यात 38 हजार करोड़ रुपये के रिकॉर्ड स्तर पर पहुंच गया है: रक्षा मंत्री राजनाथ सिंह",
+        "summary": "रक्षा मंत्री राजनाथ सिंह ने कहा है कि देश का रक्षा निर्यात 38 हजार करोड़ रुपये के रिकॉर्ड स्तर पर पहुंच गया है। नई दिल्ली में एक निजी कार्यक्रम में श्री सिंह ने कहा कि वित्त वर्ष 2013-14 में रक्षा निर्यात 686 करोड़ रुपये से वर्तमान में लगभग 57 गुना बढ़ गया है। उन्‍होंने कहा […]",
+        "article": "रक्षा मंत्री राजनाथ सिंह ने कहा है कि देश का रक्षा निर्यात 38 हजार करोड़ रुपये के रिकॉर्ड स्तर पर पहुंच गया है। नई दिल्ली में एक निजी कार्यक्रम में श्री सिंह ने कहा कि वित्त वर्ष 2013-14 में रक्षा निर्यात 686 करोड़ रुपये से वर्तमान में लगभग 57 गुना बढ़ गया है। उन्&#x200d;होंने कहा कि वृद्धि रक्षा विनिर्माण और प्रौद्योगिकी के क्षेत्र में भारत की महत्वपूर्ण प्रगति और &#8216;मेक इन इंडिया&#8217; रक्षा प्लेटफार्म पर बढ़ते वैश्विक विश्वास को रेखांकित करती है। रक्षा मंत्री ने कहा कि वित्त वर्ष 2025-26 में वार्षिक रक्षा उत्पादन भी सर्वकालिक उच्च स्तर पर पहुंच गया है। यह एक लाख 78 हजार करोड़ रुपये से अधिक है, जो 2014-15 की तुलना में लगभग तीन गुना अधिक है। भारत की व्यापक विनिर्माण उपलब्धियों के बारे में श्री सिंह ने मोबाइल फोन उत्पादन के विस्तार, ऑटोमोबाइल निर्यात में वृद्धि, स्वदेशी लोकोमोटिव उत्पादन और मेक इन इंडिया पहल के अंतर्गत डिजिटल अवसंरचना को मजबूत करने का उल्लेख किया। पिछले एक दशक में देश की प्रगति के बारे में श्री सिंह ने कहा कि प्रधानमंत्री नरेंद्र मोदी के नेतृत्व में सरकार ने कमी को दूर किया है, अवसरों का विस्तार किया है और कार्य संस्कृति में परिवर्तन किया है। जम्मू-कश्मीर में अनुच्छेद 370 को निरस्त किए जाने के बारे में श्री सिंह ने कहा कि नक्सलवाद का खात्मा करने के लिए सरकार के निरंतर प्रयास उन चुनौतियों का सामना करने के संकल्प का उदाहरण हैं जिन्हें कभी असंभव माना जाता था।",
         "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:38:06+00:00",
-        "link": "https://newsonair.gov.in/hi/southwest-monsoon-will-advance-further-into-parts-of-gujarat-haryana-punjab-and-rajasthan-in-the-next-four-days/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/rains.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेंद्र मोदी आज गुजरात के साणंद में सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर असेंबली एंड टेस्ट सुविधा का उद्घाटन करेंगे",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज गुजरात के साणंद में सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर असेंबली एंड टेस्ट सुविधा का उद्घाटन करेंगे। इस मिशन के तहत 7,500 करोड़ रुपये से अधिक के निवेश से विकसित यह सुविधा देश के तकनीकी विनिर्माण सफर में एक महत्वपूर्ण मील का पत्थर है। इस प्लान्ट के लगने से व्यावसायिक उत्पादन की औपचारिक […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज गुजरात के साणंद में सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर असेंबली एंड टेस्ट सुविधा का उद्घाटन करेंगे। इस मिशन के तहत 7,500 करोड़ रुपये से अधिक के निवेश से विकसित यह सुविधा देश के तकनीकी विनिर्माण सफर में एक महत्वपूर्ण मील का पत्थर है। इस प्लान्ट के लगने से व्यावसायिक उत्पादन की औपचारिक शुरुआत होगी और पूरी क्षमता से चलने पर, इस सुविधा की वार्षिक उत्पादन क्षमता 5 अरब सेमीकंडक्टर चिप्स तक होगी। यह मेमोरी और स्टोरेज समाधानों की बढ़ती वैश्विक मांग को पूरा करने में भी मदद करेगी।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:33:53+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-inaugurate-the-cg-semi-outsourced-semiconductor-assembly-and-test-facility-in-sanand-gujarat-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने मूल्य स्थिरीकरण बफर के लिए प्याज के खरीद मूल्य में 13% की बढ़ोतरी की",
-        "summary": "सरकार ने मूल्य स्थिरीकरण बफर के लिए प्याज के खरीद मूल्य में 13 प्रतिशत की बढ़ोतरी की है। इसका खरीद मूल्‍य 1,875 रुपये प्रति क्विंटल से बढ़कर अब 2,125 रुपये प्रति क्विंटल हो गया है। उपभोक्ता मामले, खाद्य और सार्वजनिक वितरण मंत्रालय ने बताया कि संशोधित खरीद मूल्य आज से प्रभावी हो गया है। मंत्रालय […]",
-        "article": "सरकार ने मूल्य स्थिरीकरण बफर के लिए प्याज के खरीद मूल्य में 13 प्रतिशत की बढ़ोतरी की है। इसका खरीद मूल्&#x200d;य 1,875 रुपये प्रति क्विंटल से बढ़कर अब 2,125 रुपये प्रति क्विंटल हो गया है। उपभोक्ता मामले, खाद्य और सार्वजनिक वितरण मंत्रालय ने बताया कि संशोधित खरीद मूल्य आज से प्रभावी हो गया है। मंत्रालय के अनुसार इससे प्याज किसानों को बेहतर लाभ मिलेगा और साथ ही बफर खरीद प्रयासों को भी सहायता मिलेगी। सरकार के मूल्य स्थिरीकरण बफर के लिए भारतीय राष्ट्रीय कृषि सहकारी विपणन संघ लिमिटेड- नेफेड और भारतीय राष्ट्रीय सहकारी उपभोक्ता संघ लिमिटेड- एनसीसीएफ के माध्यम से प्याज की खरीद जारी है। कृषि और किसान कल्याण विभाग के वर्ष 2025-26 के दूसरे अग्रिम अनुमान के अनुसार, प्याज का उत्पादन 307 लाख मीट्रिक टन से अधिक होने का अनुमान है। मंत्रालय ने बताया कि महाराष्ट्र, मध्य प्रदेश और गुजरात में वर्तमान स्टॉक पर्याप्त है और फिलहाल प्याज की कोई कमी नहीं है। प्&#x200d;याज का अखिल भारतीय औसत खुदरा मूल्य 31 रुपये प्रति किलोग्राम है। प्याज का निर्यात सामान्य है और इस वर्ष जून महीने के दौरान लगभग डेढ लाख मीट्रिक टन प्याज का निर्यात किया गया।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:26:34+00:00",
-        "link": "https://newsonair.gov.in/hi/the-government-raised-the-onion-procurement-price-for-the-price-stabilization-buffer-by-13/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/08/onion.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गृह मंत्रालय ने यूएपीए के तहत पाकिस्तान में 23 लोगों को आतंकवादी घोषित किया",
-        "summary": "गृह मंत्रालय ने पाकिस्तान में 23 व्यक्तियों को &#8216;गैर-कानूनी गतिविधियां रोकथाम अधिनियम&#8217; (यूएपीए) के तहत तंकवादी घोषित किया है। ये लोग जैश-ए-मोहम्मद, लश्कर-ए-तैयबा और अन्य संगठनों से जुड़े थे। मंत्रालय ने कहा कि देश और नागरिकों की सुरक्षा के लिए सरकार हर आतंकी माड्यूल को खत्‍म करने के लिए प्रतिबद्ध है। यूएपीए अधिनियम में संशोधन […]",
-        "article": "गृह मंत्रालय ने पाकिस्तान में 23 व्यक्तियों को &#8216;गैर-कानूनी गतिविधियां रोकथाम अधिनियम&#8217; (यूएपीए) के तहत तंकवादी घोषित किया है। ये लोग जैश-ए-मोहम्मद, लश्कर-ए-तैयबा और अन्य संगठनों से जुड़े थे। मंत्रालय ने कहा कि देश और नागरिकों की सुरक्षा के लिए सरकार हर आतंकी माड्यूल को खत्&#x200d;म करने के लिए प्रतिबद्ध है। यूएपीए अधिनियम में संशोधन से केंद्र सरकार और जांच एजेंसियों की शक्तियों का विस्तार करके देश के आतंकवाद रोधी कानूनी ढांचे को मजबूत किया गया है। संशोधन से केंद्र सरकार को संगठनों के साथ-साथ व्यक्तियों को भी आतंकवादी घोषित करने का अधिकार मिल गया है।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:22:27+00:00",
-        "link": "https://newsonair.gov.in/hi/india-has-declared-23-pakistanis-as-terrorists-under-the-uapa/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/mha.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "व्यापक पायरेसी की खबरों के चलते सरकार ने टेलीग्राम को नोटिस जारी किया",
-        "summary": "व्यापक पायरेसी की खबरों को देखते हुए सरकार ने मैसेजिंग प्लेटफॉर्म टेलीग्राम को नोटिस जारी किया है। सरकार ने टेलीग्राम को पायरेटेड फिल्मों और ओटीटी कंटेंट के खिलाफ तत्काल कार्रवाई करने का निर्देश दिया है। आधिकारिक सूत्रों के अनुसार प्लेटफॉर्म को 15 दिनों के भीतर कार्रवाई रिपोर्ट देने को कहा गया है। इस कदम का […]",
-        "article": "व्यापक पायरेसी की खबरों को देखते हुए सरकार ने मैसेजिंग प्लेटफॉर्म टेलीग्राम को नोटिस जारी किया है। सरकार ने टेलीग्राम को पायरेटेड फिल्मों और ओटीटी कंटेंट के खिलाफ तत्काल कार्रवाई करने का निर्देश दिया है। आधिकारिक सूत्रों के अनुसार प्लेटफॉर्म को 15 दिनों के भीतर कार्रवाई रिपोर्ट देने को कहा गया है। इस कदम का उद्देश्य भारत की रचनात्&#x200d;मक अर्थव्यवस्था, फिल्म उद्योग, प्रसारकों, ओटीटी प्लेटफॉर्म, निर्माताओं और वितरकों की रक्षा करना है।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:17:06+00:00",
-        "link": "https://newsonair.gov.in/hi/the-government-issued-a-notice-to-telegram-following-reports-of-widespread-piracy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/tele.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अहमदाबाद-मुंबई हाई-स्पीड रेल कॉरिडोर 2029 के अंत तक तैयार हो जाएगा: रेल मंत्री अश्विनी वैष्णव",
-        "summary": "गुजरात में चल रही विभिन्न रेलवे परियोजनाओं की समीक्षा के बाद अहमदाबाद में केंद्रीय रेल मंत्री अश्विनी वैष्णव ने विश्वास जताया है कि अहमदाबाद और मुंबई को जोड़ने वाला पूरा हाई-स्पीड रेल कॉरिडोर 2029 के अंत तक तैयार हो जाएगा। उन्होंने बताया कि मुंबई-अहमदाबाद बुलेट ट्रेन परियोजना का निर्माण कार्य तेजी से आगे बढ़ रहा […]",
-        "article": "गुजरात में चल रही विभिन्न रेलवे परियोजनाओं की समीक्षा के बाद अहमदाबाद में केंद्रीय रेल मंत्री अश्विनी वैष्णव ने विश्वास जताया है कि अहमदाबाद और मुंबई को जोड़ने वाला पूरा हाई-स्पीड रेल कॉरिडोर 2029 के अंत तक तैयार हो जाएगा। उन्होंने बताया कि मुंबई-अहमदाबाद बुलेट ट्रेन परियोजना का निर्माण कार्य तेजी से आगे बढ़ रहा है और गुजरात खंड का अस्सी प्रतिशत काम पहले ही पूरा हो चुका है। सूरत से बिलिमोरा को जोड़ने वाला पहला परिचालन खंड अगले साल खुलने वाला है। श्री वैष्&#x200d;णव ने अहमदाबाद बुलेट ट्रेन स्टेशन स्थल पर इंजीनियरों और निर्माण टीमों से भी बातचीत की साथ ही यह घोषणा की कि ओमनगर अंडरपास आगामी नवरात्रि उत्सव से पहले पूरा हो जाएगा। उन्&#x200d;होंने असर्वा रेलवे स्टेशन के पुनर्विकास के मास्टरप्लान पर चर्चा की जिससे यह आधुनिक परिवहन केंद्र में परिवर्तित हो जाएगा",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:14:07+00:00",
-        "link": "https://newsonair.gov.in/hi/ahmedabad-mumbai-high-speed-rail-corridor-to-be-ready-by-the-end-of-2029-railway-minister-ashwini-vaishnaw/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/vas-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने एसआईआर प्रक्रिया के अंतर्गत गणना प्रपत्र जमा किया",
-        "summary": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) प्रक्रिया के अंतर्गत गणना प्रपत्र जमा किया। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने बताया कि दिल्ली के मुख्य निर्वाचन अधिकारी, जिला निर्वाचन अधिकारी, मतदाता पंजीकरण अधिकारी और बूथ स्तरीय अधिकारी ने उपराष्ट्रपति भवन में चल रही मतदाता सूची के एसआईआर के अंतर्गत […]",
-        "article": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) प्रक्रिया के अंतर्गत गणना प्रपत्र जमा किया। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने बताया कि दिल्ली के मुख्य निर्वाचन अधिकारी, जिला निर्वाचन अधिकारी, मतदाता पंजीकरण अधिकारी और बूथ स्तरीय अधिकारी ने उपराष्ट्रपति भवन में चल रही मतदाता सूची के एसआईआर के अंतर्गत गणना प्रक्रिया को सुगम बनाया। श्री राधाकृष्णन ने सभी पात्र मतदाताओं से इस प्रक्रिया में सक्रिय रूप से भाग लेने का आग्रह किया। उन्होंने इस बात पर बल दिया कि सटीक और अद्यतन मतदाता सूची लोकतंत्र को मजबूत करने के लिए आवश्यक है।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T06:59:09+00:00",
-        "link": "https://newsonair.gov.in/hi/vice-president-c-p-radhakrishnan-submitted-the-enumeration-form-under-the-sir-process/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMXXqIobEAA5Y3Z.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेन्‍द्र मोदी ने जोधपुर हवाई अड्डे के नए टर्मिनल भवन का उद्घाटन किया, संशोधित उड़ान योजना का भी किया शुभारंभ",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने आज राजस्थान में जोधपुर हवाई अड्डे के नए टर्मिनल भवन का उद्घाटन किया। 480 करोड़ रुपये की लागत से तैयार यह नया टर्मिनल भवन प्रति वर्ष 20 लाख यात्रियों की आवाजाही के लिए डिज़ाइन किया गया है। आधुनिक सुविधाओं से सुसज्जित नए टर्मिनल भवन से यात्रियों को सुगम और आरामदायक यात्रा […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने आज राजस्थान में जोधपुर हवाई अड्डे के नए टर्मिनल भवन का उद्घाटन किया। 480 करोड़ रुपये की लागत से तैयार यह नया टर्मिनल भवन प्रति वर्ष 20 लाख यात्रियों की आवाजाही के लिए डिज़ाइन किया गया है। आधुनिक सुविधाओं से सुसज्जित नए टर्मिनल भवन से यात्रियों को सुगम और आरामदायक यात्रा का अनुभव मिलेगा। इससे क्षेत्र में पर्यटन, व्यापार और रोजगार सृजन को बढ़ावा मिलेगा। श्री मोदी ने संशोधित उड़ान योजना का भी शुभारंभ किया जिससे क्षेत्रीय संपर्क के साथ-साथ विमानन क्षेत्र को प्रोत्साहन मिलेगा। देश के नागर विमानन परिदृश्य में इस महत्वपूर्ण विकास से उड़े देश का आम नागरिक पहल को बल मिलेगा। 28 हजार 840 करोड़ रुपये के आवंटन के साथ इस योजना का उद्देश्य अगले 10 वर्षों में विमानन-आधारित विकास के अगले चरण को गति देना है।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T06:51:55+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-inaugurated-the-new-terminal-building-at-jodhpur-airport-and-also-launched-the-revised-udan-scheme/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shanghai-7.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "खिलौनों के आयात में आई भारी गिरावट, घरेलू खिलौना बाजार में स्वदेशी उत्पादों की हिस्‍सेदारी बढ़ी: केंद्रीय मंत्री पीयूष गोयल",
-        "summary": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने कहा है कि खिलौनों के आयात में भारी गिरावट आई है और घरेलू खिलौना बाजार में देश में ही बने उत्पादों की हिस्‍सेदारी बहुत बढ़ गई है। उन्होंने कहा कि वैश्विक खिलौना उद्योग का मूल्य लगभग 120 अरब डॉलर है, जबकि भारत की हिस्सेदारी केवल 0.2 से […]",
-        "article": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने कहा है कि खिलौनों के आयात में भारी गिरावट आई है और घरेलू खिलौना बाजार में देश में ही बने उत्पादों की हिस्&#x200d;सेदारी बहुत बढ़ गई है। उन्होंने कहा कि वैश्विक खिलौना उद्योग का मूल्य लगभग 120 अरब डॉलर है, जबकि भारत की हिस्सेदारी केवल 0.2 से 0.3 प्रतिशत है। श्री गोयल ने इस बात पर जोर दिया कि इस क्षेत्र में विस्तार की अपार संभावनाएं हैं। नई दिल्ली में आयोजित 17वें टॉय बिज़ इंटरनेशनल बी2बी एक्सपो को संबोधित करते हुए श्री गोयल ने कहा कि भारतीय खिलौना निर्माता राष्ट्र निर्माण में महत्वपूर्ण योगदान दे रहे हैं। वर्ष 2020 से पहले की स्थिति को याद करते हुए उन्होंने कहा कि सस्ते और घटिया आयातित खिलौनों का बाजार पर दबदबा था, जिनमें से कई खिलौने गुणवत्ता और सुरक्षा मानकों पर खरे नहीं उतरते थे। वाणिज्&#x200d;य और उद्योग मंत्री ने कहा कि प्रधानमंत्री नरेंद्र मोदी द्वारा भारत को वैश्विक खिलौना केंद्र के रूप में विकसित करने के आह्वान के साथ-साथ मेक इन इंडिया और राष्ट्रीय खिलौना कार्य योजना 2020 जैसी पहलों से इस क्षेत्र में क्रांतिकारी बदलाव आया है। उन्होंने कहा कि देशभर में 50 से अधिक खिलौना क्लस्टर विकसित किए गए हैं, जिनमें से लगभग 80 प्रतिशत क्षेत्र लघु और मध्यम उद्यमों द्वारा संचालित है। श्री गोयल ने खिलौना निर्माताओं से उच्च विकास के लिए प्रयास करने और गुणवत्ता तथा उत्पादकता में सुधार के लिए डिजाइन हेतु कैड-कैम और उत्पादन हेतु सीएनसी मशीनों जैसी उन्नत तकनीकों को अपनाने का आग्रह किया। इस बीच, भारतीय जनता पार्टी की सांसद बंसुरी स्वराज ने कहा कि भारत का खिलौना उद्योग जमीनी स्तर पर रचनात्मकता, नवाचार, उद्यमिता और आत्मनिर्भर भारत की परिकल्पना को दर्शाता है। उन्होंने कहा कि यह क्षेत्र, देश की &#8220;लोकल से ग्&#x200d;लोबल&#8221; पहल का एक सशक्त उदाहरण बनकर उभरा है। सुश्री स्वराज ने भारतीय खिलौना संघ को बधाई दी और कहा कि 50 से अधिक देशों के खरीदारों की भागीदारी और बड़ी संख्या में भारतीय निर्माताओं की उपस्थिति भारत में निर्मित खिलौनों की बढ़ती वैश्विक स्वीकृति को दर्शाती है। भारतीय खिलौनों में नवाचार पर प्रकाश डालते हुए उन्होंने कहा कि इनकी इंजीनियरिंग और डिजाइन पैसे के हिसाब से कहीं अधिक मूल्यवान हैं। ये उत्पाद कई उद्देश्यों को पूरा करते हैं और बच्चों के बड़े होने तक उपयोगी बने रहते हैं। आज से शुरू हुआ चार दिवसीय एक्सपो इस महीने की 7 तारीख तक चलेगा। इस आयोजन में 40 से अधिक देश भाग ले रहे हैं।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:49:26+00:00",
-        "link": "https://newsonair.gov.in/hi/sharp-decline-in-toy-imports-share-of-indigenous-products-in-the-domestic-toy-market-has-increased-union-minister-piyush-goyal/",
+        "pubDate": "2026-07-04T11:17:15+00:00",
+        "link": "https://newsonair.gov.in/hi/the-countrys-defence-exports-have-reached-a-record-level-of-%e2%82%b938000-crore-defence-minister-rajnath-singh/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1383,6 +1383,94 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "संशोधित उड़ान योजना का शुभारंभ भारत की क्षेत्रीय कनेक्टिविटी यात्रा के अगले अध्‍याय का परिचायक है: नागर विमानन मंत्री राममोहन नायडू",
+        "summary": "नागर विमानन मंत्री राममोहन नायडू ने आज कहा कि संशोधित उड़ान योजना का शुभारंभ भारत की क्षेत्रीय कनेक्टिविटी यात्रा के अगले अध्‍याय का परिचायक है। श्री नायडू ने कहा कि 28 हजार 840 करोड़ रुपये से अधिक के बजट आवंटन के साथ प्रधानमंत्री मोदी द्वारा शुरू की गई यह योजना टीयर-2 और टीयर-3 शहरों में […]",
+        "article": "नागर विमानन मंत्री राममोहन नायडू ने आज कहा कि संशोधित उड़ान योजना का शुभारंभ भारत की क्षेत्रीय कनेक्टिविटी यात्रा के अगले अध्&#x200d;याय का परिचायक है। श्री नायडू ने कहा कि 28 हजार 840 करोड़ रुपये से अधिक के बजट आवंटन के साथ प्रधानमंत्री मोदी द्वारा शुरू की गई यह योजना टीयर-2 और टीयर-3 शहरों में कनेक्टिविटी को मजबूत बनाएगी। उन्&#x200d;होंने कहा कि यह योजना 100 नये हवाई अड्डों और 200 हेलीपैड के विकास में सुविधा प्रदान करेगी। इससे लाखों लोगों की हवाई यात्रा का सपना साकार होने के करीब आएगा और एक उभरते हुए भारत की आकांक्षाओं को जोड़ा जा सकेगा। जोधपुर हवाई अड्डे पर नये टर्मिनल भवन के उद्घाटन का उल्&#x200d;लेख करते हुए श्री नायडू ने कहा कि&#x200d; विश्&#x200d;व स्&#x200d;तरीय सुविधा मारवाड क्षेत्र में संपर्क को सशक्&#x200d;त बनाएगी। वहीं, यह सुविधा राजस्&#x200d;थान में पर्यटन, व्&#x200d;यापार और आर्थिक विकास के नये द्वार खोलेगी।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:33:12+00:00",
+        "link": "https://newsonair.gov.in/hi/launch-of-the-revised-udan-scheme-marks-the-next-chapter-in-indias-regional-connectivity-journey-civil-aviation-minister-rammohan-naidu/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/682621d4b78c8-ram-mohan-naidu-has-got-y-category-security-15180741-16x9-1.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उद्योग जगत के विशेषज्ञों ने कहा- एथेनॉल मिश्रण कार्यक्रम चरणबद्ध और वैज्ञानिक रूप से संचालित प्रक्रिया से लागू किया गया है",
+        "summary": "उद्योग जगत के विशेषज्ञों ने कहा है कि एथेनॉल मिश्रण कार्यक्रम रातोंरात लागू नहीं किया गया है, बल्कि एक सुनियोजित, चरणबद्ध और वैज्ञानिक रूप से संचालित प्रक्रिया के जरिये इसे लागू किया गया है। नई दिल्‍ली में एक संवाददाता सम्‍मेलन को सम्‍बोधित करते हुए इंजीनियर्स इंडिया लिमिटेड की पूर्व अध्‍यक्ष और प्रबंध निदेशक वर्तिका शुक्‍ला […]",
+        "article": "उद्योग जगत के विशेषज्ञों ने कहा है कि एथेनॉल मिश्रण कार्यक्रम रातोंरात लागू नहीं किया गया है, बल्कि एक सुनियोजित, चरणबद्ध और वैज्ञानिक रूप से संचालित प्रक्रिया के जरिये इसे लागू किया गया है। नई दिल्&#x200d;ली में एक संवाददाता सम्&#x200d;मेलन को सम्&#x200d;बोधित करते हुए इंजीनियर्स इंडिया लिमिटेड की पूर्व अध्&#x200d;यक्ष और प्रबंध निदेशक वर्तिका शुक्&#x200d;ला ने कहा कि एथेनॉल मिश्रण कार्यक्रम 2018 में संरचित चर्चा और हितधारकों के परामर्श के लिए सार्वजनिक क्षेत्र में रखा गया था। उन्&#x200d;होंने कहा कि इस पहल को वैज्ञानिक प्रमाणों, ऑटोमोबाइल निर्माताओं द्वारा किए गए व्यापक परीक्षणों, भारतीय ऑटोमोटिव अनुसंधान संघ और भारतीय ऑटोमोबाइल निर्माता सोसायटी का समर्थन प्राप्त है। इस अवसर पर टोयोटा किर्लोस्&#x200d;कर मोटर्स के प्रमुख और कार्यकारी उपाध्&#x200d;यक्ष विक्रम गुलाटी ने कहा कि एथेनॉल एक स्&#x200d;वच्&#x200d;छ ईंधन है। यह अच्&#x200d;छी परिचालन क्षमता और तेज गति प्रदान करता है। उन्&#x200d;होंने कहा कि जिस युग में लोग जलवायु परिवर्तन की चुनौतियों का सामना कर रहे हों, वहां यह पौधों से निकाला गया एक शून्&#x200d;य कार्बन ईंधन है।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:28:03+00:00",
+        "link": "https://newsonair.gov.in/hi/industry-experts-stated-that-the-ethanol-blending-programme-has-been-implemented-through-a-phased-and-scientifically-driven-process/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-04-172502.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सामाजिक न्याय एवं अधिकारिता मंत्रालय ने मादक पदार्थों की मांग में कमी लाने के लिए राष्ट्रीय कार्य योजना शुरू की",
+        "summary": "सामाजिक न्याय एवं अधिकारिता मंत्रालय ने मादक पदार्थों की मांग में कमी लाने के लिए राष्ट्रीय कार्य योजना शुरू की है। यह एक व्यापक ढांचा है जिसका उद्देश्य रोकथाम, जागरूकता पैदा करना, क्षमता निर्माण, उपचार, पुनर्वास और सामाजिक एकीकरण है। केंद्रीय सामाजिक न्याय एवं अधिकारिता मंत्री डॉ. वीरेंद्र कुमार ने कहा कि इन पहलों का […]",
+        "article": "सामाजिक न्याय एवं अधिकारिता मंत्रालय ने मादक पदार्थों की मांग में कमी लाने के लिए राष्ट्रीय कार्य योजना शुरू की है। यह एक व्यापक ढांचा है जिसका उद्देश्य रोकथाम, जागरूकता पैदा करना, क्षमता निर्माण, उपचार, पुनर्वास और सामाजिक एकीकरण है। केंद्रीय सामाजिक न्याय एवं अधिकारिता मंत्री डॉ. वीरेंद्र कुमार ने कहा कि इन पहलों का उद्देश्य जागरूकता, उपचार, पुनर्वास और सामाजिक एकीकरण के माध्यम से मादक पदार्थों के दुरुपयोग को रोकना है। उन्होंने मादक पदार्थों के दुरुपयोग से निपटने के लिए केंद्र, राज्यों, केंद्र शासित प्रदेशों, संबंधित मंत्रालयों, नागरिक समाज और जनता से सामूहिक तथा समन्वित कार्रवाई का आह्वान किया। डॉ. कुमार ने कहा कि मंत्रालय द्वारा 2019 में किए गए राष्ट्रव्यापी सर्वेक्षण में पाया गया कि देश में सात करोड़ से अधिक लोग मादक पदार्थों के सेवन से प्रभावित थे, जो अधिक जागरूकता, सहानुभूति और जन-केंद्रित हस्तक्षेपों की आवश्यकता को उजागर करता है। सामाजिक न्याय एवं अधिकारिता विभाग के सचिव सुधांश पंत ने कहा कि मंत्रालय ने अपने उपचार एवं पुनर्वास नेटवर्क का विस्तार करते हुए देश भर में सात सौ अडसठ नशामुक्ति एवं पुनर्वास केंद्रों तक पहुंच बनाई है। उन्होंने कहा कि उपचार चाहने वाले लोगों की संख्या में 294 प्रतिशत की वृद्धि हुई है, जो 2020 में 2 लाख 8 हजार से बढ़कर 2025 में 8 लाख 20 हजार से अधिक हो गई है, जो इन सेवाओं में जनता के बढ़ते विश्वास को दर्शाती है। श्री पंत ने कहा कि मंत्रालय की टोल-फ्री नशामुक्ति हेल्पलाइन, 1 4 4 4 6 पर सहायता मांगने वाले व्यक्तियों और परिवारों से 4 लाख 69 हजार से अधिक कॉल प्राप्त हुए हैं। उन्होंने कहा कि पिछले महीने आयोजित नशामुक्त भारत सप्ताह में जागरूकता और सामुदायिक आउटरीच कार्यक्रमों के माध्यम से 1 करोड़ 31 लाख से अधिक लोगों ने भाग लिया, जो नशामुक्त भारत के प्रति राष्ट्रव्यापी प्रतिबद्धता की पुष्टि करता है।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T12:22:10+00:00",
+        "link": "https://newsonair.gov.in/hi/the-ministry-of-social-justice-and-empowerment-launched-a-national-action-plan-to-reduce-the-demand-for-drugs/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-3.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केन्द्रीय मंत्री जितेंद्र सिंह ने भारत में लिवर की महामारी और टाइप-2 मधुमेह से निपटने के लिए एक राष्ट्रीय मिशन शुरू करने का आह्वान किया",
+        "summary": "विज्ञान और प्रौद्योगिकी मंत्री जितेंद्र सिंह ने भारत में लिवर की महामारी और टाइप-2 मधुमेह से निपटने के लिए एक राष्ट्रीय मिशन शुरू करने का आह्वान किया है। नई दिल्ली में &#8216;लिवर एंड मेटाबोलिक डिज़ीज़ नेटवर्क&#8217; की तीसरी वर्षगांठ पर डॉ. सिंह ने कहा कि ये रोग अब पहले की तुलना में कम उम्र के […]",
+        "article": "विज्ञान और प्रौद्योगिकी मंत्री जितेंद्र सिंह ने भारत में लिवर की महामारी और टाइप-2 मधुमेह से निपटने के लिए एक राष्ट्रीय मिशन शुरू करने का आह्वान किया है। नई दिल्ली में &#8216;लिवर एंड मेटाबोलिक डिज़ीज़ नेटवर्क&#8217; की तीसरी वर्षगांठ पर डॉ. सिंह ने कहा कि ये रोग अब पहले की तुलना में कम उम्र के लोगों में भी देखे जा रहे हैं। उन्&#x200d;होंने कहा कि देश की जेनेटिक बनावट, पेट के आसपास चर्बी की अधिक समस्या और भारतीयों की खास शारीरिक बनावट के कारण लोगों में मधुमेह, फैटी लिवर और हृदय रोग का ख़तरा ज़्यादा है। डॉ. सिंह ने कहा कि वैज्ञानिक तरक्की के साथ बड़े पैमाने पर जन-जागरूकता और व्यवहार में बदलाव से इस चुनौती निपटा जा सकता।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:56:25+00:00",
+        "link": "https://newsonair.gov.in/hi/union-minister-jitendra-singh-called-for-the-launch-of-a-national-mission-to-tackle-the-liver-epidemic-and-type-2-diabetes-in-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/jitendra.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "डीआरसी में संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सैनिकों को संयुक्त राष्ट्र पदक से सम्मानित किया गया",
+        "summary": "वैश्विक शांति अभियानों में भारत के दीर्घकालिक योगदान को एक महत्वपूर्ण मान्यता मिली है। डेमोक्रेटिक रिपब्लिक ऑफ़ कांगो (डीआरसी) के स्थायी परिचालन ठिकाने साके में आयोजित एक औपचारिक पदक परेड के दौरान संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सेना के कर्मियों को प्रतिष्ठित संयुक्त राष्ट्र पदक से सम्मानित किया गया। ये पदक कल आयोजित […]",
+        "article": "वैश्विक शांति अभियानों में भारत के दीर्घकालिक योगदान को एक महत्वपूर्ण मान्यता मिली है। डेमोक्रेटिक रिपब्लिक ऑफ़ कांगो (डीआरसी) के स्थायी परिचालन ठिकाने साके में आयोजित एक औपचारिक पदक परेड के दौरान संयुक्त राष्ट्र के अधीन सेवारत 651 भारतीय सेना के कर्मियों को प्रतिष्ठित संयुक्त राष्ट्र पदक से सम्मानित किया गया। ये पदक कल आयोजित एक समारोह में प्रदान किए गए, जिसमें संयुक्त राष्ट्र शांति अभियानों के तहत भारतीय दल की व्यावसायिकता, परिचालन उत्कृष्टता और समर्पित सेवा को सम्मानित किया गया। इस कार्यक्रम में कांगो में संयुक्त राष्ट्र संगठन स्थिरीकरण मिशन &#8211; मोनुस्को के वरिष्ठ अधिकारी, बल मुख्यालय के प्रतिनिधि, सैन्य कमांडर और अन्य विशिष्ट अतिथि उपस्थित थे।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:29:43+00:00",
+        "link": "https://newsonair.gov.in/hi/651-indian-soldiers-serving-under-the-united-nations-in-the-drc-were-awarded-the-united-nations-medal/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMYPupiasAA_y9K.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी ने उपभोक्ता न्याय को मजबूत करने के लिए सरकार के प्रयासों का उल्‍लेख किया",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी ने आज डिजिटल सुधारों के माध्यम से उपभोक्ता न्याय को मजबूत करने के लिए सरकार के प्रयासों का उल्‍लेख किया। केंद्रीय मंत्री प्रल्हाद जोशी द्वारा लिखित एक लेख साझा करते हुए, श्री मोदी ने कहा कि हितधारकों के साथ व्यापक परामर्श के बाद, ई-जागृति को परिष्कृत किया गया है। इससे उपभोक्ता न्याय […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी ने आज डिजिटल सुधारों के माध्यम से उपभोक्ता न्याय को मजबूत करने के लिए सरकार के प्रयासों का उल्&#x200d;लेख किया। केंद्रीय मंत्री प्रल्हाद जोशी द्वारा लिखित एक लेख साझा करते हुए, श्री मोदी ने कहा कि हितधारकों के साथ व्यापक परामर्श के बाद, ई-जागृति को परिष्कृत किया गया है। इससे उपभोक्ता न्याय संरचनात्मक डिजिटल परिवर्तन से गुजर रहे प्रमुख क्षेत्रों में से एक बन गया है। ई-जागृति प्लेटफॉर्म पर एक लेख में श्री जोशी ने कहा कि यह एक परिवर्तनकारी पहल है जिसका उद्देश्य उपभोक्ता शिकायत के संपूर्ण जीवनचक्र को डिजिटाइज़ करके भारत की उपभोक्ता न्याय प्रणाली का आधुनिकीकरण करना है। उन्होंने कहा कि ई-जागृति प्लेटफॉर्म डिजिटल प्रौद्योगिकियों, आर्टिफिशियल इंटेलिजेंस और हाइब्रिड सुनवाई का लाभ उठाकर प्रणाली को तेज, अधिक पारदर्शी और अधिक सुलभ बनाता है। यह प्&#x200d;लेटफॉर्म उन कमियों को दूर करता है जो पहले उपभोक्ताओं को निवारण प्राप्त करने से हतोत्साहित करती थीं। केंद्रीय मंत्री ने कहा कि पोर्टल का नागरिक-केंद्रित डिज़ाइन, हितधारकों की प्रतिक्रिया के आधार पर निरंतर सुधार और इसका राष्ट्रव्यापी कार्यान्वयन उत्तरदायी शासन के प्रति सरकार की प्रतिबद्धता को दर्शाता है। उन्होंने कहा कि जैसे-जैसे भारत की डिजिटल अर्थव्यवस्था का विस्तार जारी है, एक कुशल उपभोक्ता विवाद समाधान तंत्र सार्वजनिक विश्वास को मजबूत करने, जिम्मेदार व्यावसायिक प्रथाओं को बढ़ावा देने और यह सुनिश्चित करने में महत्वपूर्ण भूमिका निभाएगा कि प्रत्येक उपभोक्ता आसानी और विश्वास के साथ न्याय प्राप्त कर सके।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:15:12+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-highlighted-the-governments-efforts-to-strengthen-consumer-justice/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260623392f-e1782227130311.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "संसद का मानसून सत्र 20 जुलाई से शुरू होगा और 13 अगस्त तक चलेगा",
+        "summary": "संसद का मानसून सत्र इस महीने की 20 तारीख से शुरू होगा और 13 अगस्त तक चलेगा। संसदीय कार्य मंत्री किरेन रिजिजू ने बताया कि राष्ट्रपति द्रौपदी मुर्मु ने 20 जुलाई से संसद का मानसून सत्र बुलाने के सरकार के प्रस्ताव को मंजूरी दे दी है। सोशल मीडिया पोस्ट में श्री रिजिजू ने कहा कि […]",
+        "article": "संसद का मानसून सत्र इस महीने की 20 तारीख से शुरू होगा और 13 अगस्त तक चलेगा। संसदीय कार्य मंत्री किरेन रिजिजू ने बताया कि राष्ट्रपति द्रौपदी मुर्मु ने 20 जुलाई से संसद का मानसून सत्र बुलाने के सरकार के प्रस्ताव को मंजूरी दे दी है। सोशल मीडिया पोस्ट में श्री रिजिजू ने कहा कि सत्र में राष्ट्रीय महत्व के मुद्दों पर सार्थक बहस, चर्चा और निर्णय लेने पर ध्यान केंद्रित किया जाएगा।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:14:52+00:00",
+        "link": "https://newsonair.gov.in/hi/the-monsoon-session-of-parliament-will-begin-on-july-20-and-continue-until-august-13/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/sansad-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी ने राजस्‍थान में 1.5 लाख करोड़ रुपये से अधिक की विकास परियोजनाओं का उद्घाटन किया",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने आज राजस्‍थान के पचपदरा में एक लाख पांच हजार करोड़ रुपये से अधिक की विकास परियोजनाओं का उद्घाटन किया और आधारशिला रखी। यह राज्‍य में अवसंरचना, ऊर्जा, परिवहन और रोजगार सृजन में एक महत्‍वपूर्ण उपलब्धि का परिचायक है। अपनी एक दिन यात्रा के दौरान प्रधानमंत्री ने जोधपुर हवाई अड्डे पर नये […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने आज राजस्&#x200d;थान के पचपदरा में एक लाख पांच हजार करोड़ रुपये से अधिक की विकास परियोजनाओं का उद्घाटन किया और आधारशिला रखी। यह राज्&#x200d;य में अवसंरचना, ऊर्जा, परिवहन और रोजगार सृजन में एक महत्&#x200d;वपूर्ण उपलब्धि का परिचायक है। अपनी एक दिन यात्रा के दौरान प्रधानमंत्री ने जोधपुर हवाई अड्डे पर नये टर्मिनल भवन का उद्घाटन किया। इसके बाद उन्&#x200d;होंने बालोतरा जिले के पचपदरा में देश के सबसे आधुनिक ग्रीनफील्&#x200d;ड रिफानरी सह पैट्रोकेमिकल राष्&#x200d;ट्र को समर्पित भी किया। उन्&#x200d;होंने रिफाइनरी के आधुनिकतम नियंत्रणकक्ष का निरीक्षण भी किया। श्री मोदी ने इंजीनियरों और तकनीकी विशेषज्ञों से बातचीत भी की। श्री मोदी ने ईंधन टैंकर को झंडी दिखाकर रवाना किया। प्रधानमंत्री ने जयपुर मेट्रो चरण दो के लिए वर्चुअल माध्&#x200d;यम से आधा&#x200d;रशिला रखी। ग्रीनफील्ड रिफाइनरी तेल, गैस या खनिजों के लिए एक औद्योगिक प्रसंस्करण संयंत्र है जिसे अविकसित स्वच्छ भूमि पर बिल्कुल नए सिरे से बनाया जाता है। सभा को सम्&#x200d;बोधित करते हुए प्रधानमंत्री ने कहा कि पश्चिम एशिया के संघर्ष ने 21वीं सदी के सबसे बडे ऊर्जा संकट को जन्&#x200d;म दिया है। उन्&#x200d;होंने कहा कि भारत का समय पर लिया गया निर्णय, प्रभावशाली रणनीति और राष्&#x200d;ट्रीय संसाधनों के विवेकपूर्ण प्रबंधन ने देश को इस संकट पर काबू पाने योग्&#x200d;य बनाया है। प्रधानमंत्री ने कहा कि जहां कई देश ईंधन की कमी से जूझ रहे थे, वहीं भारत ने संकट का सटीक आकलन किया, एक प्रभावी रणनीति तैयार की और देश की ऊर्जा सुरक्षा की रक्षा के लिए अपनी राजनयिक शक्ति का इस्तेमाल किया। श्री मोदी ने कहा कि इस संकट के दौरान मित्र देशों के साथ भारत के मजबूत राजनयिक संबंधों ने एक महत्&#x200d;वपूर्ण भूमिका निभाई। उन्&#x200d;होंने कहा कि पहले भारत 25 से 26 देशों से ऊर्जा आयात करता था, लेकिन इस संकट के दौरान भारत ने इसका विस्&#x200d;तार लगभग चालीस देशों तक किया। इससे वैश्विक बाधाओं के बावजूद ईंधन आपूर्ति निर्बाध सुनिश्चित हो सकी। श्री मोदी ने कहा कि देश और इसके नागरिकों के हित सरकार की सर्वोच्च प्राथमिकता बने रहेंगे। उन्&#x200d;होंने कहा कि भारत ने अपनी रिफाइनिंग क्षमता का भी विस्&#x200d;तार किया है। यह अब विश्&#x200d;व का चौथा सबसे बडा रिफाइनिंग राष्&#x200d;ट्र बन चुका है। प्रधानमंत्री ने कहा कि वैश्विक संकट के बावजूद सरकार ने रसोई गैस की कीमतों में भारी वृद्धि को रोका। उन्होंने कहा कि इस संकट के कारण एलपीजी सिलेंडर की कीमत लगभग 2 हजार रुपये तक पहुंच सकती थी, लेकिन प्रभावी हस्तक्षेप से यह सुनिश्चित हुआ कि उपभोक्ताओं को लगभग 950 रुपये में सिलेंडर मिलते रहें। उन्होंने कहा कि अप्रैल से जून के बीच, तेल विपणन कंपनियों को पेट्रोल और डीजल पर लगभग 75 हजार करोड़ रुपये का नुकसान हुआ, जिसका बोझ सरकार ने नागरिकों को अंतरराष्ट्रीय ईंधन की बढ़ती कीमतों के प्रभाव से बचाने के लिए उठाया। श्री मोदी ने कहा कि ऊर्जा संकट के दौरान सरकार के प्रयासों को एक दिन इतिहास में दर्ज किया जाएगा। उन्होंने कहा कि जहां कुछ लोग अफवाहें फैलाने और दहशत पैदा करने में व्यस्त थे, वहीं अधिकारी निर्बाध ऊर्जा आपूर्ति सुनिश्चित करने के लिए धैर्य, कड़ी मेहनत और संवेदनशील नीतिगत निर्णयों के साथ दिन-रात पर्दे के पीछे काम करते रहे। उन्होंने इस कठिन दौर में सहयोग के लिए देशवासियों का आभार व्यक्त किया। श्री मोदी ने उन लोगों की आलोचना की जिन्होंने राष्ट्र का समर्थन करने के बजाय संकट का राजनीतिकरण करने का प्रयास किया। पश्चिम एशिया और यूक्रेन में संघर्षों के कारण उत्पन्न वैश्विक उर्वरक संकट का जिक्र करते हुए उन्होंने कहा कि जहां कई देशों में यूरिया की कीमतें लगभग 3 हजार रुपये प्रति बोरी तक पहुंच गईं, वहीं सरकार ने यह सुनिश्चित किया कि भारतीय किसानों को लगभग तीा सौ रुपये प्रति बोरी की दर से यूरिया मिलता रहे, जिससे वे वैश्विक मूल्य वृद्धि से सुरक्षित रहे। पचपदरा रिफाइनरी का जिक्र करते हुए प्रधानमंत्री ने इसे भारत के एक विकसित और आत्मनिर्भर …",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:09:07+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-inaugurated-the-new-terminal-building-at-jodhpur-airport/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260704299f-1-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "प्रधानमंत्री नरेन्‍द्र मोदी ने भारत का पहला ग्रीनफील्ड एकीकृत रिफाइनरी-सह-पेट्रोकेमिकल्‍स परिसर देश को समर्पित किया",
         "summary": "प्रधानमंत्री नरेंद्र मोदी ने आज राजस्थान के बालोतरा में लगभग एक लाख 6 हजार करोड़ रुपए की विकास परियोजनाओं का उद्घाटन और शिलान्यास किया। ये परियोजनाएं पेट्रोकेमिकल्स, शहरी परिवहन, रेलवे, सड़क, नवीकरणीय ऊर्जा और विद्युत पारेषण सहित कई क्षेत्रों में हैं। प्रधानमंत्री ने बालोतरा के पचपदरा में भारत का पहला ग्रीनफील्ड एकीकृत रिफाइनरी और पेट्रोकेमिकल […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी ने आज राजस्थान के बालोतरा में लगभग एक लाख 6 हजार करोड़ रुपए की विकास परियोजनाओं का उद्घाटन और शिलान्यास किया। ये परियोजनाएं पेट्रोकेमिकल्स, शहरी परिवहन, रेलवे, सड़क, नवीकरणीय ऊर्जा और विद्युत पारेषण सहित कई क्षेत्रों में हैं। प्रधानमंत्री ने बालोतरा के पचपदरा में भारत का पहला ग्रीनफील्ड एकीकृत रिफाइनरी और पेट्रोकेमिकल परिसर राष्ट्र को समर्पित किया। यह देश के ऊर्जा और पेट्रोकेमिकल क्षेत्र में एक ऐतिहासिक उपलब्धि है। ग्रीनफील्ड रिफाइनरी और पेट्रोकेमिकल परिसर हिंदुस्तान पेट्रोलियम कॉर्पोरेशन लिमिटेड और राजस्थान सरकार का संयुक्त उद्यम है। 90 लाख मीट्रिक टन प्रति वर्ष क्षमता वाले इस परिसर की स्&#x200d;थापना 79,450 करोड़ रुपये से अधिक के निवेश से की गई है। प्रधानमंत्री मोदी ने 13 हजार करोड़ रुपये से अधिक की कुल लागत वाली जयपुर मेट्रो रेल परियोजना के दूसरे चरण का भी शिलान्यास किया। दूसरे चरण में प्रहलादपुरा से तोड़ी मोड़ तक 41 किलोमीटर लंबा उत्तर-दक्षिण मेट्रो कॉरिडोर विकसित किया जाएगा। प्रधानमंत्री ने चूरू-सादुलपुर और चूरू-रतनगढ़ रेल दोहरीकरण परियोजनाओं और राष्ट्रीय राजमार्ग 125 -ए, जोधपुर रिंग रोड खंड-दो के चार लेन निर्माण को राष्ट्र को समर्पित किया। उन्होंने सतलुज जल विद्युत निगम लिमिटेड की एक हजार मेगावाट बीकानेर सौर ऊर्जा परियोजना भी राष्ट्र को समर्पित की। श्री मोदी ने राजस्थान नवीकरणीय ऊर्जा क्षेत्र-आरईजेड से बिजली निकासी के लिए 1,900 करोड़ रुपये से अधिक की लागत से निर्मित पारेषण लाइन का उद्घाटन किया। उन्होंने राजस्थान आर.ई.जेड. के लिए 530 किलोमीटर लंबी बिजली पारेषण प्रणाली की आधारशिला भी रखी। प्रधानमंत्री मोदी ने राजस्थान सरकार के विभिन्न विभागों में भर्ती किए गए लगभग 54 हजार युवाओं को नियुक्ति पत्र भी सौंपे। इस अवसर पर श्री मोदी ने कहा कि चुनौती चाहे कितनी भी बड़ी हो नया भारत न तो अपने संकल्प से पीछे हटता है और न ही अपनी गति धीमी करता है। उन्होंने कहा कि आज जोधपुर में नए हवाई अड्डे के टर्मिनल का उद्घाटन देश की विकास यात्रा में एक महत्वपूर्ण कदम है। प्रधानमंत्री ने विश्वास व्यक्त किया कि नए टर्मिनल से मारवाड़ क्षेत्र में पर्यटन, व्यापार और रोजगार के अवसर बढ़ेगे। श्री मोदी ने कहा कि भारत अपने दृढ़ संकल्प और निरंतर प्रयासों से 21वीं सदी के सबसे बड़े ऊर्जा संकट से सफलतापूर्वक उबरने में कामयाब रहा है। उन्होंने कहा कि भारत ने हर स्तर पर समय रहते निर्णय लिए, उभरते संकट का सटीक आकलन किया, प्रभावी रणनीति तैयार की और देश के संसाधनों का संतुलित उपयोग सुनिश्चित किया। प्रधानमंत्री ने यह भी कहा कि कूटनीति और रणनीतिक उपायों से देश ने इस संकट का सफलतापूर्वक सामना किया। इससे पहले प्रधानमंत्री ने राजस्थान में जोधपुर हवाई अड्डे के नए टर्मिनल भवन का उद्घाटन किया। चार सौ 80 करोड़ रुपये की लागत से तैयार यह नया टर्मिनल भवन प्रति वर्ष 20 लाख यात्रियों की आवाजाही के लिए डिज़ाइन किया गया है। आधुनिक सुविधाओं से सुसज्जित नए टर्मिनल भवन से यात्रियों को सुगम और आरामदायक यात्रा का अनुभव मिलेगा। इससे क्षेत्र में पर्यटन, व्यापार और रोजगार सृजन को बढ़ावा मिलेगा। श्री मोदी ने संशोधित उड़ान योजना का भी शुभारंभ किया जिससे क्षेत्रीय संपर्क के साथ-साथ विमानन क्षेत्र को प्रोत्साहन मिलेगा। देश के नागर विमानन परिदृश्य में इस महत्वपूर्ण विकास से उड़े देश का आम नागरिक पहल को बल मिलेगा। 28,840 करोड़ रुपये के आवंटन के साथ इस योजना का उद्देश्य अगले 10 वर्षों में विमानन-आधारित विकास के अगले चरण को गति देना है।",
@@ -1394,100 +1482,12 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "दक्षिण-पश्चिम मॉनसून अगले चार दिनों में गुजरात, हरियाणा, पंजाब और राजस्थान के कुछ हिस्सों में और आगे बढ़ेगा",
-        "summary": "मौसम विभाग ने अगले चार दिनों में दक्षिण-पश्चिम मानसून के गुजरात, हरियाणा, पंजाब और राजस्थान के कुछ हिस्‍सों में आगे बढ़ने की संभावना व्‍यक्‍त की हैं। विभाग ने मध्य प्रदेश, तटीय कर्नाटक, पूर्वी राजस्थान, तेलंगाना और विदर्भ में कल मूसलाधार वर्षा की अनुमान लगाया है। मौसम विभाग ने आज असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, […]",
-        "article": "मौसम विभाग ने अगले चार दिनों में दक्षिण-पश्चिम मानसून के गुजरात, हरियाणा, पंजाब और राजस्थान के कुछ हिस्&#x200d;सों में आगे बढ़ने की संभावना व्&#x200d;यक्&#x200d;त की हैं। विभाग ने मध्य प्रदेश, तटीय कर्नाटक, पूर्वी राजस्थान, तेलंगाना और विदर्भ में कल मूसलाधार वर्षा की अनुमान लगाया है। मौसम विभाग ने आज असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल के गांगेय क्षेत्रों, छत्तीसगढ़, उत्तराखंड, हिमाचल प्रदेश, मराठवाड़ा, पश्चिमी राजस्थान और देश के दक्षिणी हिस्सों में भी तेज बारिश की संभावना जताई है। इस बीच, राष्ट्रीय राजधानी क्षेत्र दिल्&#x200d;ली में आज हल्की बारिश हुई, जिससे लोगों को भीषण गर्मी और उमस से राहत मिली।",
+        "title": "देश का रक्षा निर्यात 38 हजार करोड़ रुपये के रिकॉर्ड स्तर पर पहुंच गया है: रक्षा मंत्री राजनाथ सिंह",
+        "summary": "रक्षा मंत्री राजनाथ सिंह ने कहा है कि देश का रक्षा निर्यात 38 हजार करोड़ रुपये के रिकॉर्ड स्तर पर पहुंच गया है। नई दिल्ली में एक निजी कार्यक्रम में श्री सिंह ने कहा कि वित्त वर्ष 2013-14 में रक्षा निर्यात 686 करोड़ रुपये से वर्तमान में लगभग 57 गुना बढ़ गया है। उन्‍होंने कहा […]",
+        "article": "रक्षा मंत्री राजनाथ सिंह ने कहा है कि देश का रक्षा निर्यात 38 हजार करोड़ रुपये के रिकॉर्ड स्तर पर पहुंच गया है। नई दिल्ली में एक निजी कार्यक्रम में श्री सिंह ने कहा कि वित्त वर्ष 2013-14 में रक्षा निर्यात 686 करोड़ रुपये से वर्तमान में लगभग 57 गुना बढ़ गया है। उन्&#x200d;होंने कहा कि वृद्धि रक्षा विनिर्माण और प्रौद्योगिकी के क्षेत्र में भारत की महत्वपूर्ण प्रगति और &#8216;मेक इन इंडिया&#8217; रक्षा प्लेटफार्म पर बढ़ते वैश्विक विश्वास को रेखांकित करती है। रक्षा मंत्री ने कहा कि वित्त वर्ष 2025-26 में वार्षिक रक्षा उत्पादन भी सर्वकालिक उच्च स्तर पर पहुंच गया है। यह एक लाख 78 हजार करोड़ रुपये से अधिक है, जो 2014-15 की तुलना में लगभग तीन गुना अधिक है। भारत की व्यापक विनिर्माण उपलब्धियों के बारे में श्री सिंह ने मोबाइल फोन उत्पादन के विस्तार, ऑटोमोबाइल निर्यात में वृद्धि, स्वदेशी लोकोमोटिव उत्पादन और मेक इन इंडिया पहल के अंतर्गत डिजिटल अवसंरचना को मजबूत करने का उल्लेख किया। पिछले एक दशक में देश की प्रगति के बारे में श्री सिंह ने कहा कि प्रधानमंत्री नरेंद्र मोदी के नेतृत्व में सरकार ने कमी को दूर किया है, अवसरों का विस्तार किया है और कार्य संस्कृति में परिवर्तन किया है। जम्मू-कश्मीर में अनुच्छेद 370 को निरस्त किए जाने के बारे में श्री सिंह ने कहा कि नक्सलवाद का खात्मा करने के लिए सरकार के निरंतर प्रयास उन चुनौतियों का सामना करने के संकल्प का उदाहरण हैं जिन्हें कभी असंभव माना जाता था।",
         "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:38:06+00:00",
-        "link": "https://newsonair.gov.in/hi/southwest-monsoon-will-advance-further-into-parts-of-gujarat-haryana-punjab-and-rajasthan-in-the-next-four-days/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/rains.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेंद्र मोदी आज गुजरात के साणंद में सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर असेंबली एंड टेस्ट सुविधा का उद्घाटन करेंगे",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज गुजरात के साणंद में सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर असेंबली एंड टेस्ट सुविधा का उद्घाटन करेंगे। इस मिशन के तहत 7,500 करोड़ रुपये से अधिक के निवेश से विकसित यह सुविधा देश के तकनीकी विनिर्माण सफर में एक महत्वपूर्ण मील का पत्थर है। इस प्लान्ट के लगने से व्यावसायिक उत्पादन की औपचारिक […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज गुजरात के साणंद में सीजी सेमी आउटसोर्स्ड सेमीकंडक्टर असेंबली एंड टेस्ट सुविधा का उद्घाटन करेंगे। इस मिशन के तहत 7,500 करोड़ रुपये से अधिक के निवेश से विकसित यह सुविधा देश के तकनीकी विनिर्माण सफर में एक महत्वपूर्ण मील का पत्थर है। इस प्लान्ट के लगने से व्यावसायिक उत्पादन की औपचारिक शुरुआत होगी और पूरी क्षमता से चलने पर, इस सुविधा की वार्षिक उत्पादन क्षमता 5 अरब सेमीकंडक्टर चिप्स तक होगी। यह मेमोरी और स्टोरेज समाधानों की बढ़ती वैश्विक मांग को पूरा करने में भी मदद करेगी।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:33:53+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-inaugurate-the-cg-semi-outsourced-semiconductor-assembly-and-test-facility-in-sanand-gujarat-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने मूल्य स्थिरीकरण बफर के लिए प्याज के खरीद मूल्य में 13% की बढ़ोतरी की",
-        "summary": "सरकार ने मूल्य स्थिरीकरण बफर के लिए प्याज के खरीद मूल्य में 13 प्रतिशत की बढ़ोतरी की है। इसका खरीद मूल्‍य 1,875 रुपये प्रति क्विंटल से बढ़कर अब 2,125 रुपये प्रति क्विंटल हो गया है। उपभोक्ता मामले, खाद्य और सार्वजनिक वितरण मंत्रालय ने बताया कि संशोधित खरीद मूल्य आज से प्रभावी हो गया है। मंत्रालय […]",
-        "article": "सरकार ने मूल्य स्थिरीकरण बफर के लिए प्याज के खरीद मूल्य में 13 प्रतिशत की बढ़ोतरी की है। इसका खरीद मूल्&#x200d;य 1,875 रुपये प्रति क्विंटल से बढ़कर अब 2,125 रुपये प्रति क्विंटल हो गया है। उपभोक्ता मामले, खाद्य और सार्वजनिक वितरण मंत्रालय ने बताया कि संशोधित खरीद मूल्य आज से प्रभावी हो गया है। मंत्रालय के अनुसार इससे प्याज किसानों को बेहतर लाभ मिलेगा और साथ ही बफर खरीद प्रयासों को भी सहायता मिलेगी। सरकार के मूल्य स्थिरीकरण बफर के लिए भारतीय राष्ट्रीय कृषि सहकारी विपणन संघ लिमिटेड- नेफेड और भारतीय राष्ट्रीय सहकारी उपभोक्ता संघ लिमिटेड- एनसीसीएफ के माध्यम से प्याज की खरीद जारी है। कृषि और किसान कल्याण विभाग के वर्ष 2025-26 के दूसरे अग्रिम अनुमान के अनुसार, प्याज का उत्पादन 307 लाख मीट्रिक टन से अधिक होने का अनुमान है। मंत्रालय ने बताया कि महाराष्ट्र, मध्य प्रदेश और गुजरात में वर्तमान स्टॉक पर्याप्त है और फिलहाल प्याज की कोई कमी नहीं है। प्&#x200d;याज का अखिल भारतीय औसत खुदरा मूल्य 31 रुपये प्रति किलोग्राम है। प्याज का निर्यात सामान्य है और इस वर्ष जून महीने के दौरान लगभग डेढ लाख मीट्रिक टन प्याज का निर्यात किया गया।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:26:34+00:00",
-        "link": "https://newsonair.gov.in/hi/the-government-raised-the-onion-procurement-price-for-the-price-stabilization-buffer-by-13/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/08/onion.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गृह मंत्रालय ने यूएपीए के तहत पाकिस्तान में 23 लोगों को आतंकवादी घोषित किया",
-        "summary": "गृह मंत्रालय ने पाकिस्तान में 23 व्यक्तियों को &#8216;गैर-कानूनी गतिविधियां रोकथाम अधिनियम&#8217; (यूएपीए) के तहत तंकवादी घोषित किया है। ये लोग जैश-ए-मोहम्मद, लश्कर-ए-तैयबा और अन्य संगठनों से जुड़े थे। मंत्रालय ने कहा कि देश और नागरिकों की सुरक्षा के लिए सरकार हर आतंकी माड्यूल को खत्‍म करने के लिए प्रतिबद्ध है। यूएपीए अधिनियम में संशोधन […]",
-        "article": "गृह मंत्रालय ने पाकिस्तान में 23 व्यक्तियों को &#8216;गैर-कानूनी गतिविधियां रोकथाम अधिनियम&#8217; (यूएपीए) के तहत तंकवादी घोषित किया है। ये लोग जैश-ए-मोहम्मद, लश्कर-ए-तैयबा और अन्य संगठनों से जुड़े थे। मंत्रालय ने कहा कि देश और नागरिकों की सुरक्षा के लिए सरकार हर आतंकी माड्यूल को खत्&#x200d;म करने के लिए प्रतिबद्ध है। यूएपीए अधिनियम में संशोधन से केंद्र सरकार और जांच एजेंसियों की शक्तियों का विस्तार करके देश के आतंकवाद रोधी कानूनी ढांचे को मजबूत किया गया है। संशोधन से केंद्र सरकार को संगठनों के साथ-साथ व्यक्तियों को भी आतंकवादी घोषित करने का अधिकार मिल गया है।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:22:27+00:00",
-        "link": "https://newsonair.gov.in/hi/india-has-declared-23-pakistanis-as-terrorists-under-the-uapa/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/mha.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "व्यापक पायरेसी की खबरों के चलते सरकार ने टेलीग्राम को नोटिस जारी किया",
-        "summary": "व्यापक पायरेसी की खबरों को देखते हुए सरकार ने मैसेजिंग प्लेटफॉर्म टेलीग्राम को नोटिस जारी किया है। सरकार ने टेलीग्राम को पायरेटेड फिल्मों और ओटीटी कंटेंट के खिलाफ तत्काल कार्रवाई करने का निर्देश दिया है। आधिकारिक सूत्रों के अनुसार प्लेटफॉर्म को 15 दिनों के भीतर कार्रवाई रिपोर्ट देने को कहा गया है। इस कदम का […]",
-        "article": "व्यापक पायरेसी की खबरों को देखते हुए सरकार ने मैसेजिंग प्लेटफॉर्म टेलीग्राम को नोटिस जारी किया है। सरकार ने टेलीग्राम को पायरेटेड फिल्मों और ओटीटी कंटेंट के खिलाफ तत्काल कार्रवाई करने का निर्देश दिया है। आधिकारिक सूत्रों के अनुसार प्लेटफॉर्म को 15 दिनों के भीतर कार्रवाई रिपोर्ट देने को कहा गया है। इस कदम का उद्देश्य भारत की रचनात्&#x200d;मक अर्थव्यवस्था, फिल्म उद्योग, प्रसारकों, ओटीटी प्लेटफॉर्म, निर्माताओं और वितरकों की रक्षा करना है।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:17:06+00:00",
-        "link": "https://newsonair.gov.in/hi/the-government-issued-a-notice-to-telegram-following-reports-of-widespread-piracy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/tele.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अहमदाबाद-मुंबई हाई-स्पीड रेल कॉरिडोर 2029 के अंत तक तैयार हो जाएगा: रेल मंत्री अश्विनी वैष्णव",
-        "summary": "गुजरात में चल रही विभिन्न रेलवे परियोजनाओं की समीक्षा के बाद अहमदाबाद में केंद्रीय रेल मंत्री अश्विनी वैष्णव ने विश्वास जताया है कि अहमदाबाद और मुंबई को जोड़ने वाला पूरा हाई-स्पीड रेल कॉरिडोर 2029 के अंत तक तैयार हो जाएगा। उन्होंने बताया कि मुंबई-अहमदाबाद बुलेट ट्रेन परियोजना का निर्माण कार्य तेजी से आगे बढ़ रहा […]",
-        "article": "गुजरात में चल रही विभिन्न रेलवे परियोजनाओं की समीक्षा के बाद अहमदाबाद में केंद्रीय रेल मंत्री अश्विनी वैष्णव ने विश्वास जताया है कि अहमदाबाद और मुंबई को जोड़ने वाला पूरा हाई-स्पीड रेल कॉरिडोर 2029 के अंत तक तैयार हो जाएगा। उन्होंने बताया कि मुंबई-अहमदाबाद बुलेट ट्रेन परियोजना का निर्माण कार्य तेजी से आगे बढ़ रहा है और गुजरात खंड का अस्सी प्रतिशत काम पहले ही पूरा हो चुका है। सूरत से बिलिमोरा को जोड़ने वाला पहला परिचालन खंड अगले साल खुलने वाला है। श्री वैष्&#x200d;णव ने अहमदाबाद बुलेट ट्रेन स्टेशन स्थल पर इंजीनियरों और निर्माण टीमों से भी बातचीत की साथ ही यह घोषणा की कि ओमनगर अंडरपास आगामी नवरात्रि उत्सव से पहले पूरा हो जाएगा। उन्&#x200d;होंने असर्वा रेलवे स्टेशन के पुनर्विकास के मास्टरप्लान पर चर्चा की जिससे यह आधुनिक परिवहन केंद्र में परिवर्तित हो जाएगा",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:14:07+00:00",
-        "link": "https://newsonair.gov.in/hi/ahmedabad-mumbai-high-speed-rail-corridor-to-be-ready-by-the-end-of-2029-railway-minister-ashwini-vaishnaw/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/vas-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने एसआईआर प्रक्रिया के अंतर्गत गणना प्रपत्र जमा किया",
-        "summary": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) प्रक्रिया के अंतर्गत गणना प्रपत्र जमा किया। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने बताया कि दिल्ली के मुख्य निर्वाचन अधिकारी, जिला निर्वाचन अधिकारी, मतदाता पंजीकरण अधिकारी और बूथ स्तरीय अधिकारी ने उपराष्ट्रपति भवन में चल रही मतदाता सूची के एसआईआर के अंतर्गत […]",
-        "article": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) प्रक्रिया के अंतर्गत गणना प्रपत्र जमा किया। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने बताया कि दिल्ली के मुख्य निर्वाचन अधिकारी, जिला निर्वाचन अधिकारी, मतदाता पंजीकरण अधिकारी और बूथ स्तरीय अधिकारी ने उपराष्ट्रपति भवन में चल रही मतदाता सूची के एसआईआर के अंतर्गत गणना प्रक्रिया को सुगम बनाया। श्री राधाकृष्णन ने सभी पात्र मतदाताओं से इस प्रक्रिया में सक्रिय रूप से भाग लेने का आग्रह किया। उन्होंने इस बात पर बल दिया कि सटीक और अद्यतन मतदाता सूची लोकतंत्र को मजबूत करने के लिए आवश्यक है।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T06:59:09+00:00",
-        "link": "https://newsonair.gov.in/hi/vice-president-c-p-radhakrishnan-submitted-the-enumeration-form-under-the-sir-process/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMXXqIobEAA5Y3Z.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेन्‍द्र मोदी ने जोधपुर हवाई अड्डे के नए टर्मिनल भवन का उद्घाटन किया, संशोधित उड़ान योजना का भी किया शुभारंभ",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने आज राजस्थान में जोधपुर हवाई अड्डे के नए टर्मिनल भवन का उद्घाटन किया। 480 करोड़ रुपये की लागत से तैयार यह नया टर्मिनल भवन प्रति वर्ष 20 लाख यात्रियों की आवाजाही के लिए डिज़ाइन किया गया है। आधुनिक सुविधाओं से सुसज्जित नए टर्मिनल भवन से यात्रियों को सुगम और आरामदायक यात्रा […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने आज राजस्थान में जोधपुर हवाई अड्डे के नए टर्मिनल भवन का उद्घाटन किया। 480 करोड़ रुपये की लागत से तैयार यह नया टर्मिनल भवन प्रति वर्ष 20 लाख यात्रियों की आवाजाही के लिए डिज़ाइन किया गया है। आधुनिक सुविधाओं से सुसज्जित नए टर्मिनल भवन से यात्रियों को सुगम और आरामदायक यात्रा का अनुभव मिलेगा। इससे क्षेत्र में पर्यटन, व्यापार और रोजगार सृजन को बढ़ावा मिलेगा। श्री मोदी ने संशोधित उड़ान योजना का भी शुभारंभ किया जिससे क्षेत्रीय संपर्क के साथ-साथ विमानन क्षेत्र को प्रोत्साहन मिलेगा। देश के नागर विमानन परिदृश्य में इस महत्वपूर्ण विकास से उड़े देश का आम नागरिक पहल को बल मिलेगा। 28 हजार 840 करोड़ रुपये के आवंटन के साथ इस योजना का उद्देश्य अगले 10 वर्षों में विमानन-आधारित विकास के अगले चरण को गति देना है।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T06:51:55+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-inaugurated-the-new-terminal-building-at-jodhpur-airport-and-also-launched-the-revised-udan-scheme/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shanghai-7.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "खिलौनों के आयात में आई भारी गिरावट, घरेलू खिलौना बाजार में स्वदेशी उत्पादों की हिस्‍सेदारी बढ़ी: केंद्रीय मंत्री पीयूष गोयल",
-        "summary": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने कहा है कि खिलौनों के आयात में भारी गिरावट आई है और घरेलू खिलौना बाजार में देश में ही बने उत्पादों की हिस्‍सेदारी बहुत बढ़ गई है। उन्होंने कहा कि वैश्विक खिलौना उद्योग का मूल्य लगभग 120 अरब डॉलर है, जबकि भारत की हिस्सेदारी केवल 0.2 से […]",
-        "article": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने कहा है कि खिलौनों के आयात में भारी गिरावट आई है और घरेलू खिलौना बाजार में देश में ही बने उत्पादों की हिस्&#x200d;सेदारी बहुत बढ़ गई है। उन्होंने कहा कि वैश्विक खिलौना उद्योग का मूल्य लगभग 120 अरब डॉलर है, जबकि भारत की हिस्सेदारी केवल 0.2 से 0.3 प्रतिशत है। श्री गोयल ने इस बात पर जोर दिया कि इस क्षेत्र में विस्तार की अपार संभावनाएं हैं। नई दिल्ली में आयोजित 17वें टॉय बिज़ इंटरनेशनल बी2बी एक्सपो को संबोधित करते हुए श्री गोयल ने कहा कि भारतीय खिलौना निर्माता राष्ट्र निर्माण में महत्वपूर्ण योगदान दे रहे हैं। वर्ष 2020 से पहले की स्थिति को याद करते हुए उन्होंने कहा कि सस्ते और घटिया आयातित खिलौनों का बाजार पर दबदबा था, जिनमें से कई खिलौने गुणवत्ता और सुरक्षा मानकों पर खरे नहीं उतरते थे। वाणिज्&#x200d;य और उद्योग मंत्री ने कहा कि प्रधानमंत्री नरेंद्र मोदी द्वारा भारत को वैश्विक खिलौना केंद्र के रूप में विकसित करने के आह्वान के साथ-साथ मेक इन इंडिया और राष्ट्रीय खिलौना कार्य योजना 2020 जैसी पहलों से इस क्षेत्र में क्रांतिकारी बदलाव आया है। उन्होंने कहा कि देशभर में 50 से अधिक खिलौना क्लस्टर विकसित किए गए हैं, जिनमें से लगभग 80 प्रतिशत क्षेत्र लघु और मध्यम उद्यमों द्वारा संचालित है। श्री गोयल ने खिलौना निर्माताओं से उच्च विकास के लिए प्रयास करने और गुणवत्ता तथा उत्पादकता में सुधार के लिए डिजाइन हेतु कैड-कैम और उत्पादन हेतु सीएनसी मशीनों जैसी उन्नत तकनीकों को अपनाने का आग्रह किया। इस बीच, भारतीय जनता पार्टी की सांसद बंसुरी स्वराज ने कहा कि भारत का खिलौना उद्योग जमीनी स्तर पर रचनात्मकता, नवाचार, उद्यमिता और आत्मनिर्भर भारत की परिकल्पना को दर्शाता है। उन्होंने कहा कि यह क्षेत्र, देश की &#8220;लोकल से ग्&#x200d;लोबल&#8221; पहल का एक सशक्त उदाहरण बनकर उभरा है। सुश्री स्वराज ने भारतीय खिलौना संघ को बधाई दी और कहा कि 50 से अधिक देशों के खरीदारों की भागीदारी और बड़ी संख्या में भारतीय निर्माताओं की उपस्थिति भारत में निर्मित खिलौनों की बढ़ती वैश्विक स्वीकृति को दर्शाती है। भारतीय खिलौनों में नवाचार पर प्रकाश डालते हुए उन्होंने कहा कि इनकी इंजीनियरिंग और डिजाइन पैसे के हिसाब से कहीं अधिक मूल्यवान हैं। ये उत्पाद कई उद्देश्यों को पूरा करते हैं और बच्चों के बड़े होने तक उपयोगी बने रहते हैं। आज से शुरू हुआ चार दिवसीय एक्सपो इस महीने की 7 तारीख तक चलेगा। इस आयोजन में 40 से अधिक देश भाग ले रहे हैं।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:49:26+00:00",
-        "link": "https://newsonair.gov.in/hi/sharp-decline-in-toy-imports-share-of-indigenous-products-in-the-domestic-toy-market-has-increased-union-minister-piyush-goyal/",
+        "pubDate": "2026-07-04T11:17:15+00:00",
+        "link": "https://newsonair.gov.in/hi/the-countrys-defence-exports-have-reached-a-record-level-of-%e2%82%b938000-crore-defence-minister-rajnath-singh/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1502,6 +1502,17 @@ window.VM_NEWS = {
         "pubDate": "2026-07-04T08:52:01+00:00",
         "link": "https://newsonair.gov.in/hi/three-young-baloch-men-missing-in-pakistans-balochistan-province/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गृह मंत्रालय ने यूएपीए के तहत पाकिस्तान में 23 लोगों को आतंकवादी घोषित किया",
+        "summary": "गृह मंत्रालय ने पाकिस्तान में 23 व्यक्तियों को &#8216;गैर-कानूनी गतिविधियां रोकथाम अधिनियम&#8217; (यूएपीए) के तहत तंकवादी घोषित किया है। ये लोग जैश-ए-मोहम्मद, लश्कर-ए-तैयबा और अन्य संगठनों से जुड़े थे। मंत्रालय ने कहा कि देश और नागरिकों की सुरक्षा के लिए सरकार हर आतंकी माड्यूल को खत्‍म करने के लिए प्रतिबद्ध है। यूएपीए अधिनियम में संशोधन […]",
+        "article": "गृह मंत्रालय ने पाकिस्तान में 23 व्यक्तियों को &#8216;गैर-कानूनी गतिविधियां रोकथाम अधिनियम&#8217; (यूएपीए) के तहत तंकवादी घोषित किया है। ये लोग जैश-ए-मोहम्मद, लश्कर-ए-तैयबा और अन्य संगठनों से जुड़े थे। मंत्रालय ने कहा कि देश और नागरिकों की सुरक्षा के लिए सरकार हर आतंकी माड्यूल को खत्&#x200d;म करने के लिए प्रतिबद्ध है। यूएपीए अधिनियम में संशोधन से केंद्र सरकार और जांच एजेंसियों की शक्तियों का विस्तार करके देश के आतंकवाद रोधी कानूनी ढांचे को मजबूत किया गया है। संशोधन से केंद्र सरकार को संगठनों के साथ-साथ व्यक्तियों को भी आतंकवादी घोषित करने का अधिकार मिल गया है।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T08:22:27+00:00",
+        "link": "https://newsonair.gov.in/hi/india-has-declared-23-pakistanis-as-terrorists-under-the-uapa/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/mha.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1583,30 +1594,29 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "वित्त मंत्री निर्मला सीतारामन ने भारत-फ्रांस आर्थिक और वित्तीय वार्ता की सह-अध्यक्षता की",
-        "summary": "वित्त मंत्री निर्मला सीतारामन और फ्रांस के वित्त मंत्री रोलैंड लेस्क्योर ने कल फ्रांस में भारत-फ्रांस आर्थिक और वित्तीय वार्ता की सह-अध्यक्षता की। दोनों मंत्रियों ने भारत में आर्थिक विकास के लिए फ्रेंच डेवलपमेंट एजेंसी के काम की महत्ता को स्वीकार करते हुए भविष्य की परियोजनाओं की संभावनाओं का स्वागत किया। दोनों मंत्रियों ने भारत […]",
-        "article": "वित्त मंत्री निर्मला सीतारामन और फ्रांस के वित्त मंत्री रोलैंड लेस्क्योर ने कल फ्रांस में भारत-फ्रांस आर्थिक और वित्तीय वार्ता की सह-अध्यक्षता की। दोनों मंत्रियों ने भारत में आर्थिक विकास के लिए फ्रेंच डेवलपमेंट एजेंसी के काम की महत्ता को स्वीकार करते हुए भविष्य की परियोजनाओं की संभावनाओं का स्वागत किया। दोनों मंत्रियों ने भारत और फ्रांस के बीच आर्थिक, वित्तीय, तकनीकी, निवेश और व्यापार से जुड़े मामलों पर बातचीत के लिए इस आर्थिक और वित्तीय वार्ता को मुख्य मंच के तौर पर इस्तेमाल करने का संकल्प लिया।",
+        "title": "यूक्रेन का रूस के सेंट पीटर्सबर्ग के तेल टर्मिनल पर ड्रोन हमला",
+        "summary": "यूक्रेन ने रूस के सेंट पीटर्सबर्ग में एक तेल टर्मिनल पर ड्रोन से हमला किया। रूस के अधिकारियों ने कहा है कि वायु रक्षा प्रणाली ने सेंट पीटर्सबर्ग और आस-पास के इलाकों में यूक्रेन के कई ड्रोन नष्‍ट कर दिए। सेंट पीटर्सबर्ग के गवर्नर अलेक्जेंडर बेग्लोव ने बताया कि इस हमले में किरोव्स्की जिले को […]",
+        "article": "यूक्रेन ने रूस के सेंट पीटर्सबर्ग में एक तेल टर्मिनल पर ड्रोन से हमला किया। रूस के अधिकारियों ने कहा है कि वायु रक्षा प्रणाली ने सेंट पीटर्सबर्ग और आस-पास के इलाकों में यूक्रेन के कई ड्रोन नष्&#x200d;ट कर दिए। सेंट पीटर्सबर्ग के गवर्नर अलेक्जेंडर बेग्लोव ने बताया कि इस हमले में किरोव्स्की जिले को निशाना बनाया गया। उन्होंने कहा कि रूसी वायु रक्षा प्रणाली ने देश के दूसरे सबसे बड़े शहर और पड़ोसी इलाके के ऊपर 72 यूक्रेनी ड्रोन मार गिराए। यूक्रेन के राष्ट्रपति वोलोदिमिर ज़ेलेंस्की ने इस ऑपरेशन को रूस के खिलाफ यूक्रेन की लंबी दूरी की कार्रवाई का हिस्सा बताया। उन्होंने कहा कि यूक्रेनी सेना ने बंदरगाह के तेल डिपो के साथ-साथ सेंट पीटर्सबर्ग के तट के पास क्रोनस्टाट द्वीप पर एक सैन्&#x200d;य ठिकाने को भी निशाना बनाया।",
         "date": "2026-07-04",
-        "pubDate": "2026-07-04T04:59:45+00:00",
-        "link": "https://newsonair.gov.in/hi/finance-minister-nirmala-sitharaman-co-chaired-the-india-france-economic-and-financial-dialogue/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/09/nirmala.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गृह मंत्रालय ने यूएपीए के तहत पाकिस्तान में 23 लोगों को आतंकवादी घोषित किया",
-        "summary": "गृह मंत्रालय ने पाकिस्तान में 23 व्यक्तियों को &#8216;गैर-कानूनी गतिविधियां रोकथाम अधिनियम&#8217; (यूएपीए) के तहत तंकवादी घोषित किया है। ये लोग जैश-ए-मोहम्मद, लश्कर-ए-तैयबा और अन्य संगठनों से जुड़े थे। मंत्रालय ने कहा कि देश और नागरिकों की सुरक्षा के लिए सरकार हर आतंकी माड्यूल को खत्‍म करने के लिए प्रतिबद्ध है। यूएपीए अधिनियम में संशोधन […]",
-        "article": "गृह मंत्रालय ने पाकिस्तान में 23 व्यक्तियों को &#8216;गैर-कानूनी गतिविधियां रोकथाम अधिनियम&#8217; (यूएपीए) के तहत तंकवादी घोषित किया है। ये लोग जैश-ए-मोहम्मद, लश्कर-ए-तैयबा और अन्य संगठनों से जुड़े थे। मंत्रालय ने कहा कि देश और नागरिकों की सुरक्षा के लिए सरकार हर आतंकी माड्यूल को खत्&#x200d;म करने के लिए प्रतिबद्ध है। यूएपीए अधिनियम में संशोधन से केंद्र सरकार और जांच एजेंसियों की शक्तियों का विस्तार करके देश के आतंकवाद रोधी कानूनी ढांचे को मजबूत किया गया है। संशोधन से केंद्र सरकार को संगठनों के साथ-साथ व्यक्तियों को भी आतंकवादी घोषित करने का अधिकार मिल गया है।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T08:22:27+00:00",
-        "link": "https://newsonair.gov.in/hi/india-has-declared-23-pakistanis-as-terrorists-under-the-uapa/",
-        "post_id": 1718365,
+        "pubDate": "2026-07-04T12:30:21+00:00",
+        "link": "https://newsonair.gov.in/hi/ukrainian-drone-attack-on-an-oil-terminal-in-st-petersburg-russia/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "sports": [
+      {
+        "title": "फीफा विश्व कप के राउंड ऑफ 16 में आज कनाडा का मुकाबला मोरक्को से होगा",
+        "summary": "फीफा विश्व कप में, राउंड ऑफ 16 के पहले मैच में आज रात 10:30 बजे टेक्सास के ह्यूस्टन में कनाडा का समाना मोरक्को से होगा। कनाडा ने दक्षिण अफ्रीका को और मोरक्को ने नीदरलैंड्स को हराकर इस राउंड में जगह बनाई है। एक अन्य मुकाबले में, सुबह दो बजकर तीस मिनट पर पैराग्वे का सामना […]",
+        "article": "फीफा विश्व कप में, राउंड ऑफ 16 के पहले मैच में आज रात 10:30 बजे टेक्सास के ह्यूस्टन में कनाडा का समाना मोरक्को से होगा। कनाडा ने दक्षिण अफ्रीका को और मोरक्को ने नीदरलैंड्स को हराकर इस राउंड में जगह बनाई है। एक अन्य मुकाबले में, सुबह दो बजकर तीस मिनट पर पैराग्वे का सामना फ्रांस से होगा।",
+        "date": "2026-07-04",
+        "pubDate": "2026-07-04T11:27:23+00:00",
+        "link": "https://newsonair.gov.in/hi/canada-will-face-morocco-today-in-the-round-of-16-of-the-fifa-world-cup/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/fifa.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "आर. प्रग्नानंद ने क्रोएशिया ग्रैंड चेस टूर के रैपिड सेक्शन में अपने तीनों मैच जीतकर शीर्ष स्थान हासिल किया",
         "summary": "भारतीय ग्रैंडमास्टर आर. प्रग्नानंद ने क्रोएशिया ग्रैंड चेस टूर के रैपिड सेक्शन में शानदार प्रदर्शन किया। उन्होंने कल अपने तीनों मैच जीतकर फ्रांस के अलीरेज़ा फ़िरोज़जा के साथ शीर्ष स्थान हासिल कर लिया। प्रग्नानंद ने इवान सारिक, बोगदान-डैनियल डिएक और अनीश गिरी को हराकर ब्लिट्ज़ सेक्शन से पहले रैंकिंग में यह स्थान प्राप्त किया। इस […]",
@@ -1703,17 +1713,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-02T13:56:07+00:00",
         "link": "https://newsonair.gov.in/hi/spain-will-face-austria-in-the-round-of-32-of-the-fifa-world-cup-today/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/FIFA-3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "25 जुलाई से शुरू होगा दुरंड कप, पांच मेजबान शहरों में भाग लेने वाली टीमों की घोषणा",
-        "summary": "डूरंड कप फुटबॉल का 135वां संस्करण 25 जुलाई से कोलकाता में शुरु होकर 23 अगस्त चलेगा। प्रतियोगिता के मैच रांची, इम्फाल, शिलांग और गुवाहाटी में खेले जाएंगे। दो क्वार्टर फाइनल, एक सेमीफाइनल और फाइनल मुकाबले कोलकाता में होंगे। यह पहला मौक़ा है जब डूरंड कप के मैच झारखंड की राजधानी रांची में भी रखे गए […]",
-        "article": "डूरंड कप फुटबॉल का 135वां संस्करण 25 जुलाई से कोलकाता में शुरु होकर 23 अगस्त चलेगा। प्रतियोगिता के मैच रांची, इम्फाल, शिलांग और गुवाहाटी में खेले जाएंगे। दो क्वार्टर फाइनल, एक सेमीफाइनल और फाइनल मुकाबले कोलकाता में होंगे। यह पहला मौक़ा है जब डूरंड कप के मैच झारखंड की राजधानी रांची में भी रखे गए हैं। प्रतियोगिता में इंडियन सुपर लीग क्लब, आई-लीग टीम, सेना की टीम, उभरती घरेलू टीमें और विदेशी टीमें शामिल हैं। पहली बार, इस प्रतिस्&#x200d;पर्धा में श्रीलंका के सशस्त्र बलों की डिफेंडर्स एफसी और मेघालय प्रीमियर लीग चैंपियन नोंगकसेह स्पोर्ट्स, सोशल एंड कल्चरल क्लब भी भाग ले रहे हैं।",
-        "date": "2026-07-02",
-        "pubDate": "2026-07-02T02:02:13+00:00",
-        "link": "https://newsonair.gov.in/hi/durand-cup-135th-edition-announces-participating-teams-for-five-host-cities/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ANI-20260701090529.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
