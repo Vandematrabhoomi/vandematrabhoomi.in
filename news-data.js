@@ -1,6 +1,6 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-04T20:17:52.851073",
+  "generated": "2026-07-04T23:47:41.113200",
   "en": {
     "top": [
       {
