@@ -171,6 +171,16 @@
       min-width: 180px; cursor: text;
     }
     .search-pill svg { flex-shrink: 0; }
+    .search-input {
+      border: none; outline: none; background: transparent;
+      font-family: 'Archivo', sans-serif; font-size: 13px; color: var(--text-primary);
+      width: 120px;
+    }
+    .search-input::placeholder { color: var(--text-muted); }
+    .search-clear {
+      cursor: pointer; color: var(--text-muted); font-size: 13px; line-height: 1;
+      padding: 2px; flex-shrink: 0;
+    }
     .podcast-btn {
       display: flex; align-items: center; gap: 6px;
       padding: 10px 16px;
@@ -1357,7 +1367,9 @@
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
           <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
         </svg>
-        <span data-hi="खोजें..." data-en="Search...">खोजें...</span>
+        <input type="text" id="search-input" class="search-input" data-phi="खोजें..." data-pen="Search..." placeholder="खोजें..."
+          oninput="scheduleSearch()" onkeydown="if(event.key==='Enter'){runSearch(this.value);}else if(event.key==='Escape'){clearSearch();}">
+        <span class="search-clear" id="search-clear" style="display:none;" onclick="clearSearch()">✕</span>
       </div>
       <button class="podcast-btn" onclick="window.open('https://www.youtube.com/@vande_matrabhoomi','_blank','noopener')">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
@@ -2063,6 +2075,92 @@ function navClick(a) {
   document.querySelectorAll('#nav-list a').forEach(function(x){ x.classList.remove('active'); });
   a.classList.add('active');
   loadFeed(a.dataset.feed);
+}
+
+/* ── Search ─────────────────────────────────────────── */
+var _searchDebounce = null;
+var _preSearchFeed  = null;
+
+function scheduleSearch() {
+  var val = document.getElementById('search-input').value;
+  document.getElementById('search-clear').style.display = val ? 'flex' : 'none';
+  clearTimeout(_searchDebounce);
+  if (!val.trim()) { clearSearch(); return; }
+  _searchDebounce = setTimeout(function(){ runSearch(val); }, 350);
+}
+
+function collectSearchableItems() {
+  var out = [];
+  var langData = (window.VM_NEWS && (window.VM_NEWS[lang] || window.VM_NEWS.en)) || {};
+  Object.keys(langData).forEach(function(cat){
+    (langData[cat] || []).forEach(function(raw){ out.push(mapItem(raw)); });
+  });
+  stories.forEach(function(s){
+    out.push({
+      title: s.hl || '', description: s.sum || '', article: s.body || s.sum || '',
+      pubDate: '', link: '', thumbnail: s.mediaUrl || '',
+      _src: lang==='hi' ? 'लाइव डेस्क' : 'Live Desk', _imgCredit: ''
+    });
+  });
+  return out;
+}
+
+function runSearch(query) {
+  query = (query || '').trim();
+  if (!query) { clearSearch(); return; }
+  if (currentFeed !== '__search__') _preSearchFeed = currentFeed;
+  currentFeed = '__search__';
+  setSection('news');
+  document.querySelectorAll('#nav-list a').forEach(function(a){ a.classList.remove('active'); });
+
+  var q = query.toLowerCase();
+  var seen = {};
+  var results = collectSearchableItems().filter(function(item){
+    var key = (item.title || '').toLowerCase();
+    if (!key || seen[key]) return false;
+    seen[key] = true;
+    var hay = (item.title + ' ' + item.description + ' ' + item.article).toLowerCase();
+    return hay.indexOf(q) !== -1;
+  });
+
+  var sdhi = document.getElementById('sdiv-hi'), sden = document.getElementById('sdiv-en');
+  if (sdhi) sdhi.textContent = 'खोज परिणाम: "' + query + '"';
+  if (sden) sden.textContent = 'SEARCH RESULTS FOR "' + query.toUpperCase() + '"';
+  var creditEl = document.getElementById('news-credit');
+  if (creditEl) creditEl.textContent = '';
+
+  if (!results.length) { renderNoSearchResults(query); return; }
+  currentItems = results;
+  renderArticles(results, {});
+}
+
+function renderNoSearchResults(query) {
+  document.getElementById('lead-img').className = 'lead-img-box ph';
+  document.getElementById('lead-img').innerHTML = '';
+  document.getElementById('lead-kicker').textContent = '';
+  document.getElementById('lead-hl').textContent = lang==='hi'
+    ? '"' + query + '" के लिए कोई परिणाम नहीं मिला' : 'No results found for "' + query + '"';
+  document.getElementById('lead-exc').textContent = lang==='hi'
+    ? 'कृपया कोई और शब्द आज़माएँ।' : 'Try a different search term.';
+  var ll = document.getElementById('lead-link');
+  ll.href = 'javascript:void(0);'; ll.onclick = null;
+  document.getElementById('rail').innerHTML = '';
+  document.getElementById('grid').innerHTML = '';
+  currentItems = [];
+}
+
+function clearSearch() {
+  var input = document.getElementById('search-input');
+  input.value = '';
+  document.getElementById('search-clear').style.display = 'none';
+  if (currentFeed === '__search__') {
+    currentFeed = _preSearchFeed || 'top';
+    _preSearchFeed = null;
+  }
+  document.querySelectorAll('#nav-list a').forEach(function(a){
+    a.classList.toggle('active', a.dataset.feed === currentFeed);
+  });
+  loadFeed(currentFeed);
 }
 
 /* ── No data state ──────────────────────────────────── */
