@@ -1,8 +1,30 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-05T16:18:07.665970",
+  "generated": "2026-07-05T20:35:09.980293",
   "en": {
     "top": [
+      {
+        "title": "15 vessels loaded with fertilizers on way to India crossing Strait of Hormuz: Govt",
+        "summary": "The Chemicals and Fertilizers Ministry today said that a total of 15 vessels carrying fertilizers and fertilizer raw materials for India have safely crossed the Strait of Hormuz. The Ministry said that among the 15 vessels, eight vessels carrying 3.32 lakh metric tonnes (LMT) of urea, four vessels carrying 2.57 LMT of diammonium phosphate and […]",
+        "article": "The Chemicals and Fertilizers Ministry today said that a total of 15 vessels carrying fertilizers and fertilizer raw materials for India have safely crossed the Strait of Hormuz. The Ministry said that among the 15 vessels, eight vessels carrying 3.32 lakh metric tonnes (LMT) of urea, four vessels carrying 2.57 LMT of diammonium phosphate and three vessels carrying 1.11 LMT of sulphur are on their way to India. It added that five more vessels are scheduled to sail for India. Union Minister for Chemicals and Fertilizers Jagat Prakash Nadda said that the West Asia conflict severely disrupted global supply chains, leading to higher fertilizer prices and longer shipment transit times. He noted that Indian Missions abroad actively assisted the Department of Fertilizers in establishing contact with potential global producers and suppliers. Mr. Nadda said that the Department of Fertilizers is continuously coordinating with State Governments to ensure regional availability and transparent distribution. He said that under the leadership of Prime Minister Narendra Modi, the government has ensured that the interests of farmers remain fully protected. The Ministry also noted that the natural gas supply to fertilizer plants has been fully restored to 100 per cent from the temporary decline of around 65 per cent. The Ministry further said that it has secured 197.56 lakh metric tonnes of fertilizer stocks, meeting more than 51 per cent of the country&#8217;s annual fertilizer requirement of 383.9 LMT. It noted that the coordinated efforts in fertilizer imports and domestic production have ensured adequate fertilizer availability across the country.",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:34:06+00:00",
+        "link": "https://newsonair.gov.in/15-vessels-loaded-with-fertilizers-on-way-to-india-crossing-strait-of-hormuz-govt/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Chemicals.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Pak Rangers open fire on protestors in PoJK; one killed, Tension escalates",
+        "summary": "Tensions have escalated in Pakistan-occupied Jammu and Kashmir after one person was killed and several others were injured when Pakistan Rangers allegedly opened fire on protesters. The incident comes amid a crackdown on demonstrations demanding basic rights, economic relief and political freedoms. Media reports also said that more than 600 civil rights activists have […]",
+        "article": "Tensions have escalated in Pakistan-occupied Jammu and Kashmir after one person was killed and several others were injured when Pakistan Rangers allegedly opened fire on protesters. The incident comes amid a crackdown on demonstrations demanding basic rights, economic relief and political freedoms. Media reports also said that more than 600 civil rights activists have been arrested following anti-Islamabad protests in the region. Meanwhile, overseas Kashmiris held a protest gathering in London today in support of the demonstrators. On the other hand, in Pakistan, protests have also intensified at Karachi&#8217;s Abbasi Shaheed Hospital, where junior doctors are demanding payment of pending stipends, better security and improved hospital facilities. The protesting doctors warned that they would suspend outpatient services if their demands were not addressed.",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:17:47+00:00",
+        "link": "https://newsonair.gov.in/pak-rangers-open-fire-on-protestors-in-pojk-one-killed-tension-escalates/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Southwest monsoon intensifies across India; Warning of heavy rain in several states",
         "summary": "The India Meteorological Department (IMD) has forecast heavy rainfall tomorrow over Chhattisgarh, Gujarat, Konkan and Goa, Madhya Maharashtra, East Rajasthan, Himachal Pradesh, Karnataka, Kerala, Mahe, Madhya Pradesh. Parts of Delhi, Haryana, Chandigarh, Jammu and Kashmir, Ladakh, Odisha, Saurashtra, Kutch, Uttarakhand and north-eastern states are also expected to receive moderate to heavy rainfal",
@@ -105,38 +127,27 @@ window.VM_NEWS = {
       {
         "title": "Iran: Mojtaba Khamenei not seen in Late Ayatollah Ali Khamenei’s funeral prayers",
         "summary": "Iran’s political, military and religious leadership gathered in Tehran today for the funeral prayers of former Supreme Leader Late Ayatollah Ali Khamenei. State television showed Khamenei’s three sons, Masoud, Meysam and Mostafa leading funeral prayers at Grand Mosalla in Tehran alongside President Masoud Pezeshkian, Parliament Speaker Mohammad Bagher Ghalibaf and senior commanders. However, there",
-        "article": "Iran’s political, military and religious leadership gathered in Tehran today for the funeral prayers of former Supreme Leader Late Ayatollah Ali Khamenei. State television showed Khamenei’s three sons, Masoud, Meysam and Mostafa leading funeral prayers at Grand Mosalla in Tehran alongside President Masoud Pezeshkian, Parliament Speaker Mohammad Bagher Ghalibaf and senior commanders. However, there was no sign of his successor, Mojtaba Khamenei. The country’s new supreme leader has not appeared in public since the airstrikes by Israel and the United States killed his father, several family members and other senior Iranian officials on 28th of February. Mojtaba Khamenei succeeded his father but his absence from the public eye has prompted questions about the whereabouts of Iran’s new leader. The funeral procession will continue over the next few days before concluding with his burial in the holy city of Mashhad on 9th of this month. Public mourning will continue for 40 days thereafter.",
+        "article": "Iran’s political, military and religious leadership gathered in Tehran today for the funeral prayers of former Supreme Leader Late Ayatollah Ali Khamenei. State television showed Khamenei’s three sons, Masoud, Meysam and Mostafa leading funeral prayers at Grand Mosalla in Tehran alongside President Masoud Pezeshkian, Parliament Speaker Mohammad Bagher Ghalibaf and senior commanders. However, there was no sign of his successor, Mojtaba Khamenei. The country’s new supreme leader has not appeared in public since the airstrikes by Israel and the United States killed his father, several family members and other senior Iranian officials on 28th of February. Mojtaba Khamenei succeeded his father but his absence from the public eye has prompted questions about the whereabouts of Iran’s new leader. The funeral procession of the former Supreme Leader will continue over the next few days before concluding with his burial in the holy city of Mashhad on the 9th of this month. Public mourning will continue for 40 days thereafter.",
         "date": "2026-07-05",
         "pubDate": "2026-07-05T12:44:57+00:00",
         "link": "https://newsonair.gov.in/hundreds-of-thousands-gather-for-former-iranian-supreme-leader-ayatollah-ali-khameneis-state-funeral/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "INS Udaygiri, Shakti & Kavaratti conclude port call in Singapore aligned with India’s Act East Policy",
-        "summary": "Indian Naval Ships Udaygiri, Shakti and Kavaratti of the Eastern Fleet have concluded their port call at Changi Naval Base in Singapore as part of the Indian Navy’s operational deployment. The deployment was aligned with the ASEAN-India Year of Maritime Cooperation and the Government of India’s Act East Policy. The Defence Ministry said that the […]",
-        "article": "Indian Naval Ships Udaygiri, Shakti and Kavaratti of the Eastern Fleet have concluded their port call at Changi Naval Base in Singapore as part of the Indian Navy’s operational deployment. The deployment was aligned with the ASEAN-India Year of Maritime Cooperation and the Government of India’s Act East Policy. The Defence Ministry said that the three-day engagement featured a wide range of professional interactions, including cross-deck visits aimed at strengthening interoperability and naval cooperation between the two maritime forces. The Ministry said that the successful completion of the visit marks another milestone in the growing maritime partnership between India and Singapore.",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T12:39:23+00:00",
-        "link": "https://newsonair.gov.in/ins-udaygiri-shakti-kavaratti-conclude-port-call-in-singapore-aligned-with-indias-act-east-policy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/INS.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "North Korea: Kim Jong Un observes test of 5,000-ton warship Kang Kon",
-        "summary": "North Korean leader Kim Jong Un has overseen tests of a cruise missile and other weapons systems of the country&#8217;s new naval destroyer. State-run media reported today that Kim observed the tests of the 5,000-ton warship Kang Kon on Friday. The report said the tests were conducted to assess the ship&#8217;s combat systems. The […]",
-        "article": "North Korean leader Kim Jong Un has overseen tests of a cruise missile and other weapons systems of the country&#8217;s new naval destroyer. State-run media reported today that Kim observed the tests of the 5,000-ton warship Kang Kon on Friday. The report said the tests were conducted to assess the ship&#8217;s combat systems. The video showed successive missile launches from the vessel. Kim emphasised the need to speed up projects to maintain and expand North Korea&#8217;s war deterrent and combat capabilities. The report also said Kim affirmed that the North will demonstrate through more obvious actions the political will and determination to have absolute power. Last month, Pyongyang commissioned the Choe Hyon, a destroyer of the same class as Kang Kon. It plans to build two destroyers of 5,000 tons or more a year, including 10,000-ton cruisers over the next five years.",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T12:14:55+00:00",
-        "link": "https://newsonair.gov.in/north-korea-kim-jong-un-observes-test-of-5000-ton-warship-kang-kon/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Korea.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "15 vessels loaded with fertilizers on way to India crossing Strait of Hormuz: Govt",
+        "summary": "The Chemicals and Fertilizers Ministry today said that a total of 15 vessels carrying fertilizers and fertilizer raw materials for India have safely crossed the Strait of Hormuz. The Ministry said that among the 15 vessels, eight vessels carrying 3.32 lakh metric tonnes (LMT) of urea, four vessels carrying 2.57 LMT of diammonium phosphate and […]",
+        "article": "The Chemicals and Fertilizers Ministry today said that a total of 15 vessels carrying fertilizers and fertilizer raw materials for India have safely crossed the Strait of Hormuz. The Ministry said that among the 15 vessels, eight vessels carrying 3.32 lakh metric tonnes (LMT) of urea, four vessels carrying 2.57 LMT of diammonium phosphate and three vessels carrying 1.11 LMT of sulphur are on their way to India. It added that five more vessels are scheduled to sail for India. Union Minister for Chemicals and Fertilizers Jagat Prakash Nadda said that the West Asia conflict severely disrupted global supply chains, leading to higher fertilizer prices and longer shipment transit times. He noted that Indian Missions abroad actively assisted the Department of Fertilizers in establishing contact with potential global producers and suppliers. Mr. Nadda said that the Department of Fertilizers is continuously coordinating with State Governments to ensure regional availability and transparent distribution. He said that under the leadership of Prime Minister Narendra Modi, the government has ensured that the interests of farmers remain fully protected. The Ministry also noted that the natural gas supply to fertilizer plants has been fully restored to 100 per cent from the temporary decline of around 65 per cent. The Ministry further said that it has secured 197.56 lakh metric tonnes of fertilizer stocks, meeting more than 51 per cent of the country&#8217;s annual fertilizer requirement of 383.9 LMT. It noted that the coordinated efforts in fertilizer imports and domestic production have ensured adequate fertilizer availability across the country.",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:34:06+00:00",
+        "link": "https://newsonair.gov.in/15-vessels-loaded-with-fertilizers-on-way-to-india-crossing-strait-of-hormuz-govt/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Chemicals.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Southwest monsoon intensifies across India; Warning of heavy rain in several states",
         "summary": "The India Meteorological Department (IMD) has forecast heavy rainfall tomorrow over Chhattisgarh, Gujarat, Konkan and Goa, Madhya Maharashtra, East Rajasthan, Himachal Pradesh, Karnataka, Kerala, Mahe, Madhya Pradesh. Parts of Delhi, Haryana, Chandigarh, Jammu and Kashmir, Ladakh, Odisha, Saurashtra, Kutch, Uttarakhand and north-eastern states are also expected to receive moderate to heavy rainfal",
@@ -233,23 +244,23 @@ window.VM_NEWS = {
         "pubDate": "2026-07-05T10:08:59+00:00",
         "link": "https://newsonair.gov.in/uttarakhand-cm-flags-off-first-batch-of-kailash-mansarovar-yatra-appeals-vocal-for-local/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Kailash-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ICMR-MINDS wins Gold at National Awards for e-Governance",
-        "summary": "The Indian Council of Medical Research (ICMR)&#8217;s flagship initiative, ICMR-MINDS, a National Health Research Priority project wins Gold at National Awards for e-Governance 2026. The award was presented by Union Minister of State for Personnel, Public Grievances and Pensions, Dr. Jitendra Singh. While addressing the recognition, Director General of ICMR, […]",
-        "article": "The Indian Council of Medical Research (ICMR)&#8217;s flagship initiative, ICMR-MINDS, a National Health Research Priority project wins Gold at National Awards for e-Governance 2026. The award was presented by Union Minister of State for Personnel, Public Grievances and Pensions, Dr. Jitendra Singh. While addressing the recognition, Director General of ICMR, Dr Rajiv Bahl, said that ICMR will continue to pioneer data-driven, scalable technology interventions to solve complex public health challenges. He said that through ongoing collaboration with participating institutions and state health systems, ICMR remains committed to providing affordable, standardised, and high-quality healthcare platforms for the people of India. The Ministry of of Health and Family Welfare informed that ICMR-MINDS is an implementation research study on the integration of screening and management of mental and substance use disorders with other non-communicable diseases. Its Clinical Decision Support System enables task-shifting of standardised mental health screening, assessment, follow-up, and routine management from specialists to trained non-specialist frontline healthcare providers, backed by evidence-based digital decision support. The initiative is being implemented across seven states through seven collaborating institutions All India Institute of Medical Sciences, Guwahati, Gujarat Institute of Mental Health, Ahmedabad, AIIMS, New Delhi , St. John&#8217;s Medical College, Bengaluru, AIIMS, Bhopal, AIIMS, Bhubaneswar, and Postgraduate Institute of Medical Education and Research, Chandigarh.",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T10:07:39+00:00",
-        "link": "https://newsonair.gov.in/icmr-minds-wins-gold-at-national-awards-for-e-governance/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akashbani-2-6.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "15 vessels loaded with fertilizers on way to India crossing Strait of Hormuz: Govt",
+        "summary": "The Chemicals and Fertilizers Ministry today said that a total of 15 vessels carrying fertilizers and fertilizer raw materials for India have safely crossed the Strait of Hormuz. The Ministry said that among the 15 vessels, eight vessels carrying 3.32 lakh metric tonnes (LMT) of urea, four vessels carrying 2.57 LMT of diammonium phosphate and […]",
+        "article": "The Chemicals and Fertilizers Ministry today said that a total of 15 vessels carrying fertilizers and fertilizer raw materials for India have safely crossed the Strait of Hormuz. The Ministry said that among the 15 vessels, eight vessels carrying 3.32 lakh metric tonnes (LMT) of urea, four vessels carrying 2.57 LMT of diammonium phosphate and three vessels carrying 1.11 LMT of sulphur are on their way to India. It added that five more vessels are scheduled to sail for India. Union Minister for Chemicals and Fertilizers Jagat Prakash Nadda said that the West Asia conflict severely disrupted global supply chains, leading to higher fertilizer prices and longer shipment transit times. He noted that Indian Missions abroad actively assisted the Department of Fertilizers in establishing contact with potential global producers and suppliers. Mr. Nadda said that the Department of Fertilizers is continuously coordinating with State Governments to ensure regional availability and transparent distribution. He said that under the leadership of Prime Minister Narendra Modi, the government has ensured that the interests of farmers remain fully protected. The Ministry also noted that the natural gas supply to fertilizer plants has been fully restored to 100 per cent from the temporary decline of around 65 per cent. The Ministry further said that it has secured 197.56 lakh metric tonnes of fertilizer stocks, meeting more than 51 per cent of the country&#8217;s annual fertilizer requirement of 383.9 LMT. It noted that the coordinated efforts in fertilizer imports and domestic production have ensured adequate fertilizer availability across the country.",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:34:06+00:00",
+        "link": "https://newsonair.gov.in/15-vessels-loaded-with-fertilizers-on-way-to-india-crossing-strait-of-hormuz-govt/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Chemicals.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Southwest monsoon intensifies across India; Warning of heavy rain in several states",
         "summary": "The India Meteorological Department (IMD) has forecast heavy rainfall tomorrow over Chhattisgarh, Gujarat, Konkan and Goa, Madhya Maharashtra, East Rajasthan, Himachal Pradesh, Karnataka, Kerala, Mahe, Madhya Pradesh. Parts of Delhi, Haryana, Chandigarh, Jammu and Kashmir, Ladakh, Odisha, Saurashtra, Kutch, Uttarakhand and north-eastern states are also expected to receive moderate to heavy rainfal",
         "article": "The India Meteorological Department (IMD) has forecast heavy rainfall tomorrow over Chhattisgarh, Gujarat, Konkan and Goa, Madhya Maharashtra, East Rajasthan, Himachal Pradesh, Karnataka, Kerala, Mahe, Madhya Pradesh. Parts of Delhi, Haryana, Chandigarh, Jammu and Kashmir, Ladakh, Odisha, Saurashtra, Kutch, Uttarakhand and north-eastern states are also expected to receive moderate to heavy rainfall tomorrow. IMD further predicted thundersqualls tomorrow over parts of Andaman and Nicobar Islands, Coastal Karnataka, North Interior Karnataka and Telangana. Meanwhile, Delhi-NCR witnessed a sudden change in weather this afternoon with moderate rainfall lashing several parts of the region, bringing much-needed relief from the humid weather.",
@@ -345,23 +356,23 @@ window.VM_NEWS = {
         "pubDate": "2026-07-05T10:08:59+00:00",
         "link": "https://newsonair.gov.in/uttarakhand-cm-flags-off-first-batch-of-kailash-mansarovar-yatra-appeals-vocal-for-local/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Kailash-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ICMR-MINDS wins Gold at National Awards for e-Governance",
-        "summary": "The Indian Council of Medical Research (ICMR)&#8217;s flagship initiative, ICMR-MINDS, a National Health Research Priority project wins Gold at National Awards for e-Governance 2026. The award was presented by Union Minister of State for Personnel, Public Grievances and Pensions, Dr. Jitendra Singh. While addressing the recognition, Director General of ICMR, […]",
-        "article": "The Indian Council of Medical Research (ICMR)&#8217;s flagship initiative, ICMR-MINDS, a National Health Research Priority project wins Gold at National Awards for e-Governance 2026. The award was presented by Union Minister of State for Personnel, Public Grievances and Pensions, Dr. Jitendra Singh. While addressing the recognition, Director General of ICMR, Dr Rajiv Bahl, said that ICMR will continue to pioneer data-driven, scalable technology interventions to solve complex public health challenges. He said that through ongoing collaboration with participating institutions and state health systems, ICMR remains committed to providing affordable, standardised, and high-quality healthcare platforms for the people of India. The Ministry of of Health and Family Welfare informed that ICMR-MINDS is an implementation research study on the integration of screening and management of mental and substance use disorders with other non-communicable diseases. Its Clinical Decision Support System enables task-shifting of standardised mental health screening, assessment, follow-up, and routine management from specialists to trained non-specialist frontline healthcare providers, backed by evidence-based digital decision support. The initiative is being implemented across seven states through seven collaborating institutions All India Institute of Medical Sciences, Guwahati, Gujarat Institute of Mental Health, Ahmedabad, AIIMS, New Delhi , St. John&#8217;s Medical College, Bengaluru, AIIMS, Bhopal, AIIMS, Bhubaneswar, and Postgraduate Institute of Medical Education and Research, Chandigarh.",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T10:07:39+00:00",
-        "link": "https://newsonair.gov.in/icmr-minds-wins-gold-at-national-awards-for-e-governance/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akashbani-2-6.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "15 vessels loaded with fertilizers on way to India crossing Strait of Hormuz: Govt",
+        "summary": "The Chemicals and Fertilizers Ministry today said that a total of 15 vessels carrying fertilizers and fertilizer raw materials for India have safely crossed the Strait of Hormuz. The Ministry said that among the 15 vessels, eight vessels carrying 3.32 lakh metric tonnes (LMT) of urea, four vessels carrying 2.57 LMT of diammonium phosphate and […]",
+        "article": "The Chemicals and Fertilizers Ministry today said that a total of 15 vessels carrying fertilizers and fertilizer raw materials for India have safely crossed the Strait of Hormuz. The Ministry said that among the 15 vessels, eight vessels carrying 3.32 lakh metric tonnes (LMT) of urea, four vessels carrying 2.57 LMT of diammonium phosphate and three vessels carrying 1.11 LMT of sulphur are on their way to India. It added that five more vessels are scheduled to sail for India. Union Minister for Chemicals and Fertilizers Jagat Prakash Nadda said that the West Asia conflict severely disrupted global supply chains, leading to higher fertilizer prices and longer shipment transit times. He noted that Indian Missions abroad actively assisted the Department of Fertilizers in establishing contact with potential global producers and suppliers. Mr. Nadda said that the Department of Fertilizers is continuously coordinating with State Governments to ensure regional availability and transparent distribution. He said that under the leadership of Prime Minister Narendra Modi, the government has ensured that the interests of farmers remain fully protected. The Ministry also noted that the natural gas supply to fertilizer plants has been fully restored to 100 per cent from the temporary decline of around 65 per cent. The Ministry further said that it has secured 197.56 lakh metric tonnes of fertilizer stocks, meeting more than 51 per cent of the country&#8217;s annual fertilizer requirement of 383.9 LMT. It noted that the coordinated efforts in fertilizer imports and domestic production have ensured adequate fertilizer availability across the country.",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:34:06+00:00",
+        "link": "https://newsonair.gov.in/15-vessels-loaded-with-fertilizers-on-way-to-india-crossing-strait-of-hormuz-govt/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Chemicals.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Southwest monsoon intensifies across India; Warning of heavy rain in several states",
         "summary": "The India Meteorological Department (IMD) has forecast heavy rainfall tomorrow over Chhattisgarh, Gujarat, Konkan and Goa, Madhya Maharashtra, East Rajasthan, Himachal Pradesh, Karnataka, Kerala, Mahe, Madhya Pradesh. Parts of Delhi, Haryana, Chandigarh, Jammu and Kashmir, Ladakh, Odisha, Saurashtra, Kutch, Uttarakhand and north-eastern states are also expected to receive moderate to heavy rainfal",
         "article": "The India Meteorological Department (IMD) has forecast heavy rainfall tomorrow over Chhattisgarh, Gujarat, Konkan and Goa, Madhya Maharashtra, East Rajasthan, Himachal Pradesh, Karnataka, Kerala, Mahe, Madhya Pradesh. Parts of Delhi, Haryana, Chandigarh, Jammu and Kashmir, Ladakh, Odisha, Saurashtra, Kutch, Uttarakhand and north-eastern states are also expected to receive moderate to heavy rainfall tomorrow. IMD further predicted thundersqualls tomorrow over parts of Andaman and Nicobar Islands, Coastal Karnataka, North Interior Karnataka and Telangana. Meanwhile, Delhi-NCR witnessed a sudden change in weather this afternoon with moderate rainfall lashing several parts of the region, bringing much-needed relief from the humid weather.",
@@ -459,20 +470,20 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Kailash-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "ICMR-MINDS wins Gold at National Awards for e-Governance",
-        "summary": "The Indian Council of Medical Research (ICMR)&#8217;s flagship initiative, ICMR-MINDS, a National Health Research Priority project wins Gold at National Awards for e-Governance 2026. The award was presented by Union Minister of State for Personnel, Public Grievances and Pensions, Dr. Jitendra Singh. While addressing the recognition, Director General of ICMR, […]",
-        "article": "The Indian Council of Medical Research (ICMR)&#8217;s flagship initiative, ICMR-MINDS, a National Health Research Priority project wins Gold at National Awards for e-Governance 2026. The award was presented by Union Minister of State for Personnel, Public Grievances and Pensions, Dr. Jitendra Singh. While addressing the recognition, Director General of ICMR, Dr Rajiv Bahl, said that ICMR will continue to pioneer data-driven, scalable technology interventions to solve complex public health challenges. He said that through ongoing collaboration with participating institutions and state health systems, ICMR remains committed to providing affordable, standardised, and high-quality healthcare platforms for the people of India. The Ministry of of Health and Family Welfare informed that ICMR-MINDS is an implementation research study on the integration of screening and management of mental and substance use disorders with other non-communicable diseases. Its Clinical Decision Support System enables task-shifting of standardised mental health screening, assessment, follow-up, and routine management from specialists to trained non-specialist frontline healthcare providers, backed by evidence-based digital decision support. The initiative is being implemented across seven states through seven collaborating institutions All India Institute of Medical Sciences, Guwahati, Gujarat Institute of Mental Health, Ahmedabad, AIIMS, New Delhi , St. John&#8217;s Medical College, Bengaluru, AIIMS, Bhopal, AIIMS, Bhubaneswar, and Postgraduate Institute of Medical Education and Research, Chandigarh.",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T10:07:39+00:00",
-        "link": "https://newsonair.gov.in/icmr-minds-wins-gold-at-national-awards-for-e-governance/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akashbani-2-6.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "Pak Rangers open fire on protestors in PoJK; one killed, Tension escalates",
+        "summary": "Tensions have escalated in Pakistan-occupied Jammu and Kashmir after one person was killed and several others were injured when Pakistan Rangers allegedly opened fire on protesters. The incident comes amid a crackdown on demonstrations demanding basic rights, economic relief and political freedoms. Media reports also said that more than 600 civil rights activists have […]",
+        "article": "Tensions have escalated in Pakistan-occupied Jammu and Kashmir after one person was killed and several others were injured when Pakistan Rangers allegedly opened fire on protesters. The incident comes amid a crackdown on demonstrations demanding basic rights, economic relief and political freedoms. Media reports also said that more than 600 civil rights activists have been arrested following anti-Islamabad protests in the region. Meanwhile, overseas Kashmiris held a protest gathering in London today in support of the demonstrators. On the other hand, in Pakistan, protests have also intensified at Karachi&#8217;s Abbasi Shaheed Hospital, where junior doctors are demanding payment of pending stipends, better security and improved hospital facilities. The protesting doctors warned that they would suspend outpatient services if their demands were not addressed.",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:17:47+00:00",
+        "link": "https://newsonair.gov.in/pak-rangers-open-fire-on-protestors-in-pojk-one-killed-tension-escalates/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "British military says attack on cargo ship in Red Sea off coast of Yemen",
         "summary": "The British military said a cargo ship came under attack today off the coast of Yemen in the Red Sea, the latest maritime attack off the conflict-torn Arab country. The United Kingdom Maritime Trade Operations (UKMTO) Centre reported the attack off the coastal city of Hodeida, which is under the control of the Iranian-backed […]",
@@ -498,7 +509,7 @@ window.VM_NEWS = {
       {
         "title": "Iran: Mojtaba Khamenei not seen in Late Ayatollah Ali Khamenei’s funeral prayers",
         "summary": "Iran’s political, military and religious leadership gathered in Tehran today for the funeral prayers of former Supreme Leader Late Ayatollah Ali Khamenei. State television showed Khamenei’s three sons, Masoud, Meysam and Mostafa leading funeral prayers at Grand Mosalla in Tehran alongside President Masoud Pezeshkian, Parliament Speaker Mohammad Bagher Ghalibaf and senior commanders. However, there",
-        "article": "Iran’s political, military and religious leadership gathered in Tehran today for the funeral prayers of former Supreme Leader Late Ayatollah Ali Khamenei. State television showed Khamenei’s three sons, Masoud, Meysam and Mostafa leading funeral prayers at Grand Mosalla in Tehran alongside President Masoud Pezeshkian, Parliament Speaker Mohammad Bagher Ghalibaf and senior commanders. However, there was no sign of his successor, Mojtaba Khamenei. The country’s new supreme leader has not appeared in public since the airstrikes by Israel and the United States killed his father, several family members and other senior Iranian officials on 28th of February. Mojtaba Khamenei succeeded his father but his absence from the public eye has prompted questions about the whereabouts of Iran’s new leader. The funeral procession will continue over the next few days before concluding with his burial in the holy city of Mashhad on 9th of this month. Public mourning will continue for 40 days thereafter.",
+        "article": "Iran’s political, military and religious leadership gathered in Tehran today for the funeral prayers of former Supreme Leader Late Ayatollah Ali Khamenei. State television showed Khamenei’s three sons, Masoud, Meysam and Mostafa leading funeral prayers at Grand Mosalla in Tehran alongside President Masoud Pezeshkian, Parliament Speaker Mohammad Bagher Ghalibaf and senior commanders. However, there was no sign of his successor, Mojtaba Khamenei. The country’s new supreme leader has not appeared in public since the airstrikes by Israel and the United States killed his father, several family members and other senior Iranian officials on 28th of February. Mojtaba Khamenei succeeded his father but his absence from the public eye has prompted questions about the whereabouts of Iran’s new leader. The funeral procession of the former Supreme Leader will continue over the next few days before concluding with his burial in the holy city of Mashhad on the 9th of this month. Public mourning will continue for 40 days thereafter.",
         "date": "2026-07-05",
         "pubDate": "2026-07-05T12:44:57+00:00",
         "link": "https://newsonair.gov.in/hundreds-of-thousands-gather-for-former-iranian-supreme-leader-ayatollah-ali-khameneis-state-funeral/",
@@ -571,20 +582,20 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AP06_25_2026_000059A-scaled.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "Eastern US experiences severe heatwave",
-        "summary": "A severe heatwave is sweeping across the eastern United States, placing significant pressure on power grids and disrupting preparations for FIFA World Cup matches. With the heat index expected to exceed 46°C, New York City, the most populous city in the United States, is bracing for unprecedented temperatures. New York City authorities have introduced a […]",
-        "article": "A severe heatwave is sweeping across the eastern United States, placing significant pressure on power grids and disrupting preparations for FIFA World Cup matches. With the heat index expected to exceed 46°C, New York City, the most populous city in the United States, is bracing for unprecedented temperatures. New York City authorities have introduced a series of measures to address the extreme heat, including converting hundreds of public buildings into cooling centres, deploying volunteers to check on vulnerable groups, and extending the opening hours of public swimming pools across the city. The US National Weather Service said that, due to high humidity levels, the heat index could reach 41°C in Boston, 44°C in Philadelphia and 45°C in Washington. The agency also forecast record-breaking temperatures during Independence Day celebrations, with the potential for consecutive daily records to be broken, in addition to monthly records and possibly the highest temperatures ever recorded.",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T01:11:34+00:00",
-        "link": "https://newsonair.gov.in/eastern-us-experiences-severe-heatwave/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Heatwave-784x441-1.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "sports": [
+      {
+        "title": "Wimbeldon: Jessica Pegula reaches Women’s Singles qrt-finals, defeating compatriot Iva ⁠",
+        "summary": "In the Wimbledon Tennis, American Jessica Pegula defeated compatriot Iva ⁠Jovic 4-6, 6-3, 6-1 in the Women&#8217;s Singles to reach the quarter-finals in London today. In other Round of 16 matches, top seed Aryna Sabalenka will face Japan&#8217;s Naomi Osaka and Switzerland&#8217;s Belinda Bencic will meet Coco Gauff of the United States later tonight. […]",
+        "article": "In the Wimbledon Tennis, American Jessica Pegula defeated compatriot Iva ⁠Jovic 4-6, 6-3, 6-1 in the Women&#8217;s Singles to reach the quarter-finals in London today. In other Round of 16 matches, top seed Aryna Sabalenka will face Japan&#8217;s Naomi Osaka and Switzerland&#8217;s Belinda Bencic will meet Coco Gauff of the United States later tonight. In Men&#8217;s Singles, the Round of 16 match between Serbia&#8217;s Novak Djokovic and Roman Safiullin of Russia is underway. Later tonight, top seed Jannik Sinner of Italy will take on Japan&#8217;s Shintaro Mochizuki. In the other matches, Hubert Hurkacz of Poland will meet Germany&#8217;s Jan-Lennard Struff, Canada&#8217;s Felix Auger Aliassime will play Alejandro Davidovich Fokina of Spain in the pre-quarterfinal.<><>",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:03:12+00:00",
+        "link": "https://newsonair.gov.in/elena-rybakina-and-iga-swiatek-knocked-out-of-wimbledon/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Wimbledon.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "FIFA WC: Brazil to take on Norway, England vs Mexico",
         "summary": "In the FIFA World Cup, Brazil will take on Norway in the Round of 16 match in New Jersey at 1.30 AM Indian Time tonight. England will face Mexico in Mexico City in the other pre-quarterfinal at 5.30 AM tomorrow. This morning, France booked their place in the quarter-finals with a 1-nil victory over […]",
@@ -637,17 +648,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-05T01:55:28+00:00",
         "link": "https://newsonair.gov.in/england-defeat-india-in-2nd-t20i-of-5-match-series-in-manchester/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/India_vs_England_0127-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Elena Rybakina and Iga Świątek knocked out of Wimbledon",
-        "summary": "In the Wimbledon Tennis Championships, Belgium&#8217;s Elise Mertens produced a stunning upset by knocking out second seed Elena Rybakina of Kazakhstan 7-6, 6-1 in the third round to book her place in the women&#8217;s singles Round of 16 yesterday. In another major upset, the Philippines&#8217; Alexandra Eala defeated third seed Iga Świątek of Poland 7-6, […]",
-        "article": "In the Wimbledon Tennis Championships, Belgium&#8217;s Elise Mertens produced a stunning upset by knocking out second seed Elena Rybakina of Kazakhstan 7-6, 6-1 in the third round to book her place in the women&#8217;s singles Round of 16 yesterday. In another major upset, the Philippines&#8217; Alexandra Eala defeated third seed Iga Świątek of Poland 7-6, 6-2 in the third round to advance to the Round of 16. In the Men&#8217;s singles, second seed Alexander Zverev of Germany advanced to the fourth round, defeating Marcos Giron of the United States in straight sets, 6-2, 7-6, 6-4, in their third-round match. Today, Serbia&#8217;s Novak Djokovic will face Roman Safiullin in a Round of 16 clash, while top seed Jannik Sinner of Italy will take on Japan&#8217;s Shintaro Mochizuki. In the women&#8217;s singles Round of 16, top seed Aryna Sabalenka will face Japan&#8217;s Naomi Osaka.",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T01:03:12+00:00",
-        "link": "https://newsonair.gov.in/elena-rybakina-and-iga-swiatek-knocked-out-of-wimbledon/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Wimbledon.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1025,6 +1025,72 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "उर्वरक लेकर आ रहे 15 जहाज सुरक्षित रूप से होर्मुज जलडमरूमध्य पार",
+        "summary": "रसायन और उर्वरक मंत्रालय ने आज बताया कि उर्वरक तथा कच्चा माल भारत ला रहे कुल 15 जहाज होर्मुज जलडमरूमध्य को सुरक्षित रूप से पार कर चुके हैं। मंत्रालय ने बताया कि इन 15 जहाजों में से आठ जहाज तीन लाख बत्तीस हजार मीट्रिक टन यूरिया, चार जहाज दो लाख सत्तावन हजार मीट्रिक टन डायअमोनियम […]",
+        "article": "रसायन और उर्वरक मंत्रालय ने आज बताया कि उर्वरक तथा कच्चा माल भारत ला रहे कुल 15 जहाज होर्मुज जलडमरूमध्य को सुरक्षित रूप से पार कर चुके हैं। मंत्रालय ने बताया कि इन 15 जहाजों में से आठ जहाज तीन लाख बत्तीस हजार मीट्रिक टन यूरिया, चार जहाज दो लाख सत्तावन हजार मीट्रिक टन डायअमोनियम फॉस्फेट और तीन जहाज एक लाख ग्यारह हजार मीट्रिक टन सल्फर लेकर भारत रवाना हो चुके हैं। मंत्रालय ने आगे बताया कि पांच और जहाज भारत के लिए रवाना होने वाले हैं। रसायन और उर्वरक मंत्री जगत प्रकाश नड्डा ने कहा कि पश्चिम एशिया संघर्ष ने वैश्विक आपूर्ति श्रृंखलाओं को बुरी तरह प्रभावित किया है। इससे उर्वरकों की कीमतें बढ़ गई हैं और माल ढुलाई में अधिक समय लग रहा है। उन्होंने कहा कि विदेशों में स्थित भारतीय दूतावासों ने संभावित वैश्विक उत्पादकों और आपूर्तिकर्ताओं से संपर्क स्थापित करने में सक्रिय रूप से सहायता की है। श्री नड्डा ने कहा कि उर्वरक विभाग क्षेत्रीय उपलब्धता और पारदर्शी वितरण सुनिश्चित करने के लिए राज्य सरकारों के साथ लगातार समन्वय कर रहा है। उन्होंने कहा कि प्रधानमंत्री नरेंद्र मोदी के नेतृत्व में सरकार ने किसानों के हितों की पूर्ण सुरक्षा सुनिश्चित की है।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:51:23+00:00",
+        "link": "https://newsonair.gov.in/hi/15-ships-carrying-fertilizer-safely-cross-the-strait-of-hormuz/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMem4CobsAAvo-C.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गृह मंत्री अमित शाह, केंद्रीय मंत्री जी. किशन रेड्डी ने अवैध कोयला खनन की समीक्षा की",
+        "summary": "गृह मंत्री अमित शाह और कोयला तथा खान मंत्री जी. किशन रेड्डी ने आज नई दिल्ली में एक उच्च स्तरीय बैठक में अवैध कोयला खनन और कोयला चोरी की स्थिति की समीक्षा की। बैठक के दौरान, गृह मंत्री ने धनबाद और आसपास के क्षेत्रों में अवैध कोयला खनन और चोरी की बिगड़ती स्थिति पर चिंता […]",
+        "article": "गृह मंत्री अमित शाह और कोयला तथा खान मंत्री जी. किशन रेड्डी ने आज नई दिल्ली में एक उच्च स्तरीय बैठक में अवैध कोयला खनन और कोयला चोरी की स्थिति की समीक्षा की। बैठक के दौरान, गृह मंत्री ने धनबाद और आसपास के क्षेत्रों में अवैध कोयला खनन और चोरी की बिगड़ती स्थिति पर चिंता व्यक्त की। गृह मंत्रालय ने बताया कि कोयला मंत्रालय के अधिकारियों ने श्री अमित शाह को सूचित किया कि पिछले वर्ष अक्टूबर के पहले सप्ताह में हुई समीक्षा के बाद से कई ठोस कदम उठाए गए हैं। उन्&#x200d;होंने कोयला मंत्रालय और सीआईएसएफ द्वारा अब तक उठाए गए कदमों की सराहना की। उन्होंने इस बात पर जोर दिया कि अवैध खनन की समस्या को रोकने के लिए अभी बहुत कुछ करने की आवश्यकता है।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:39:06+00:00",
+        "link": "https://newsonair.gov.in/hi/home-minister-amit-shah-and-union-minister-g-kishan-reddy-reviewed-illegal-coal-mining/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Amit-shah.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "जम्मू-कश्मीर: वार्षिक श्री अमरनाथ यात्रा में दर्ज की गई भारी जनभागीदारी",
+        "summary": "जम्मू-कश्मीर में वार्षिक श्री अमरनाथ यात्रा में भारी जनभागीदारी दर्ज की गई है। तीर्थयात्रा के पहले तीन दिनों में 56 हजार से अधिक तीर्थयात्रियों ने पवित्र गुफा मंदिर में दर्शन किए। आज रिकॉर्ड 24 हजार 648 श्रद्धालुओं ने दर्शन किए। दूसरे दिन 19 हजार 221 और पहले दिन 12 हजार 168 तीर्थयात्रियों ने दर्शन किए […]",
+        "article": "जम्मू-कश्मीर में वार्षिक श्री अमरनाथ यात्रा में भारी जनभागीदारी दर्ज की गई है। तीर्थयात्रा के पहले तीन दिनों में 56 हजार से अधिक तीर्थयात्रियों ने पवित्र गुफा मंदिर में दर्शन किए। आज रिकॉर्ड 24 हजार 648 श्रद्धालुओं ने दर्शन किए। दूसरे दिन 19 हजार 221 और पहले दिन 12 हजार 168 तीर्थयात्रियों ने दर्शन किए थे। इसी बीच, उपराज्यपाल मनोज सिन्हा ने यात्रा की तैयारियों की समीक्षा करने के लिए आज नुवान-पहलगाम बेस कैंप का दौरा किया।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:37:22+00:00",
+        "link": "https://newsonair.gov.in/hi/jammu-kashmir-massive-public-participation-recorded-in-the-annual-shri-amarnath-yatra/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMehrqxbAAECecn-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "लद्दाख: कारगिल युद्ध स्मारक पर आयोजित सरहद शौर्यथॉन 2026 में तीन हजार से अधिक प्रतिभागी शामिल हुए",
+        "summary": "लद्दाख में कारगिल विजय दिवस के उपलक्ष्‍य में आज द्रास स्थित करगिल युद्ध स्मारक पर आयोजित सरहद शौर्यथॉन 2026 में देशभर से तीन हजार से अधिक प्रतिभागी शामिल हुए। भारतीय सेना ने सरहद पुणे और स्थानीय प्रशासन के सहयोग से इसका आयोजन किया। मैराथन में तीन, पांच, दस और 21 किलोमीटर से अधिक की दौड़ […]",
+        "article": "लद्दाख में कारगिल विजय दिवस के उपलक्ष्&#x200d;य में आज द्रास स्थित करगिल युद्ध स्मारक पर आयोजित सरहद शौर्यथॉन 2026 में देशभर से तीन हजार से अधिक प्रतिभागी शामिल हुए। भारतीय सेना ने सरहद पुणे और स्थानीय प्रशासन के सहयोग से इसका आयोजन किया। मैराथन में तीन, पांच, दस और 21 किलोमीटर से अधिक की दौड़ आयोजित की गई। इसमें आम नागरिकों, छात्रों, खिलाडियों, सेना के जवानों और फिटनेस प्रेमियों ने उत्&#x200d;साहपूर्वक भाग लिया।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:34:32+00:00",
+        "link": "https://newsonair.gov.in/hi/ladakh-more-than-3000-participants-took-part-in-the-sarhad-shauryathon-2026-held-at-the-kargil-war-memorial/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमेरिका का सबसे बेहतर दौर अभी आना बाकी: डोनाल्ड ट्रम्प",
+        "summary": "अमरीका के राष्ट्रपति डोनाल्ड ट्रम्प ने देश की स्वतंत्रता की 250वीं वर्षगांठ के अवसर पर राष्‍ट्र को संबोधित करते हुए अमरीका की उपलब्धियों का उल्‍लेख करते हुए कहा कि देश का सबसे बेहतर दौर अभी आना बाकी है। वाशिंगटन में आयोजित समारोह ट्रम्‍प ने कहा कि ढाई शताब्दियों से अमरीकी गणराज्य मानव इतिहास की सर्वोच्च […]",
+        "article": "अमरीका के राष्ट्रपति डोनाल्ड ट्रम्प ने देश की स्वतंत्रता की 250वीं वर्षगांठ के अवसर पर राष्&#x200d;ट्र को संबोधित करते हुए अमरीका की उपलब्धियों का उल्&#x200d;लेख करते हुए कहा कि देश का सबसे बेहतर दौर अभी आना बाकी है। वाशिंगटन में आयोजित समारोह ट्रम्&#x200d;प ने कहा कि ढाई शताब्दियों से अमरीकी गणराज्य मानव इतिहास की सर्वोच्च उपलब्धि के रूप में खड़ा है। उन्होंने कहा कि विदेशों में अमरीका के सभी सैन्य अभियान सफल रहे हैं।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:30:35+00:00",
+        "link": "https://newsonair.gov.in/hi/americas-best-days-are-yet-to-come-donald-trump/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Trump.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "तेहरान में अयातुल्ला अली खामेनेई के अंतिम संस्कार के लिए सामूहिक प्रार्थना हुई आयोजित",
+        "summary": "ईरान के पूर्व सर्वोच्च नेता अयातुल्ला अली खामेनेई के अंतिम संस्कार के लिए आज तेहरान में राजनीतिक, सैन्य और धार्मिक नेतृत्व ने सामूहिक प्रार्थना में भाग लिया। सरकारी टेलीविजन के अनुसार ग्रैंड मोसाला में आयोजित प्रार्थना सभा में खामेनेई के तीनों पुत्रों के साथ राष्ट्रपति मसूद पेज़ेश्कियन, संसद अध्यक्ष मोहम्मद बगेर ग़ालिबफ़ और वरिष्ठ सैन्‍य […]",
+        "article": "ईरान के पूर्व सर्वोच्च नेता अयातुल्ला अली खामेनेई के अंतिम संस्कार के लिए आज तेहरान में राजनीतिक, सैन्य और धार्मिक नेतृत्व ने सामूहिक प्रार्थना में भाग लिया। सरकारी टेलीविजन के अनुसार ग्रैंड मोसाला में आयोजित प्रार्थना सभा में खामेनेई के तीनों पुत्रों के साथ राष्ट्रपति मसूद पेज़ेश्कियन, संसद अध्यक्ष मोहम्मद बगेर ग़ालिबफ़ और वरिष्ठ सैन्&#x200d;य अधिकारी उपस्थित रहें। हालांकि, उनके उत्तराधिकारी मोजतबा खामेनेई इस सभा में शामिल नहीं थे।28 फरवरी को इस्राएल और अमरीका के हवाई हमलों में अयातुल्ला अली खामेनेई उनके परिवार के कई सदस्यों और अन्य वरिष्ठ ईरानी अधिकारियों की मौत के बाद से मोजतबा खामेनेई सार्वजनिक रूप से दिखाई नहीं दिए हैं। मोजतबा खामेनेई ने अपने पिता का स्थान लिया है, लेकिन उनकी सार्वजनिक अनुपस्थिति ने ईरान के नए नेता के ठिकाने के बारे में सवाल खड़े कर दिए हैं। अयातुल्ला अली खामेनेई की अंतिम यात्रा नौ जुलाई को मशहद में होगी। इसके बाद 40 दिनों तक सार्वजनिक शोक मनाया जाएगा।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:26:57+00:00",
+        "link": "https://newsonair.gov.in/hi/mass-prayers-were-held-in-tehran-for-the-funeral-of-ayatollah-ali-khamenei/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMeauN-bQAE7B5u-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "ब्रिटेन की सेना ने कहा- लाल सागर में यमन के तट पर आज एक मालवाहक जहाज पर हमला हुआ",
         "summary": "ब्रिटेन की सेना ने बताया कि लाल सागर में यमन के तट पर आज एक मालवाहक जहाज पर हमला हुआ। ब्रिटेन की यूनाइटेड किंगडम मैरीटाइम ट्रेड ऑपरेशंस &#8211; यूकेएमटीओ ने बताया कि यह हमला होदेइदा के पास हुआ, जो ईरान समर्थित हूती विद्रोहियों के नियंत्रण वाले क्षेत्र में है। यूकेएमटीओ ने बताया कि जहाज ने […]",
         "article": "ब्रिटेन की सेना ने बताया कि लाल सागर में यमन के तट पर आज एक मालवाहक जहाज पर हमला हुआ। ब्रिटेन की यूनाइटेड किंगडम मैरीटाइम ट्रेड ऑपरेशंस &#8211; यूकेएमटीओ ने बताया कि यह हमला होदेइदा के पास हुआ, जो ईरान समर्थित हूती विद्रोहियों के नियंत्रण वाले क्षेत्र में है। यूकेएमटीओ ने बताया कि जहाज ने होदेइदा से 55 किलोमीटर दक्षिण-पश्चिम में अज्ञात सशस्त्र हमलावरों द्वारा हमले की सूचना दी है। मामले की जांच की जा रही है। हालांकि, अभी तक किसी भी समूह ने हमले की जिम्मेदारी नहीं ली है।हूती विद्रोहियों ने जहाजों पर फिर से हमले शुरू करने की धमकी दी थी, लेकिन हाल के दिनों में उन्&#x200d;होंने ऐसे हमले नहीं किए थे।",
@@ -1058,83 +1124,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "गुरुदेव रवींद्रनाथ टैगोर की ऐतिहासिक यात्रा की शताब्दी मनाएगा इंडोनेशिया",
-        "summary": "इंडोनेशिया, गुरुदेव रवींद्रनाथ टैगोर की वहां की ऐतिहासिक यात्रा की शताब्दी मनाएगा। इसके लिए वर्ष 2026 और 2027 के दौरान 15 महीने का कार्यक्रम आयोजित किया जाएगा। इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने आकाशवाणी समाचार से बातचीत में कहा कि प्रधानमंत्री नरेन्‍द्र मोदी की कल से शुरू होने वाली इंडोनेशिया यात्रा के दौरान […]",
-        "article": "इंडोनेशिया, गुरुदेव रवींद्रनाथ टैगोर की वहां की ऐतिहासिक यात्रा की शताब्दी मनाएगा। इसके लिए वर्ष 2026 और 2027 के दौरान 15 महीने का कार्यक्रम आयोजित किया जाएगा। इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने आकाशवाणी समाचार से बातचीत में कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी की कल से शुरू होने वाली इंडोनेशिया यात्रा के दौरान इन कार्यक्रमों का शुभारंभ किया जाएगा। शताब्दी समारोहों में प्रदर्शनियां और पूरे वर्ष चलने वाले सांस्कृतिक कार्यक्रम आयोजित किए जाएंगे। राजदूत ने बताया कि गुरुदेव रवींद्रनाथ टैगोर ने वर्ष 1927 में लगभग तीन महीने इंडोनेशिया में बिताए, व्यापक यात्रा की और देश की समृद्ध परंपराओं में खुद को समाहित किया। अपनी यात्रा से अत्यधिक प्रेरित होकर, उन्&#x200d;होंने बाद में अपने सहयोगियों को इंडोनेशिया भेजा ताकि वे वहाँ की कला, नृत्य, संस्कृति और वास्तुकला का अध्ययन कर सकें। इससे दोनों देशों के बीच सांस्कृतिक आदान-प्रदान मजबूत हुआ। राजदूत चक्रवर्ती ने कहा कि टैगोर-देवंतारा शैक्षिक और सांस्कृतिक आदान-प्रदान कार्यक्रम भी शुरू किया जाएगा, जिसमें स्मृति अवधि के दौरान प्रदर्शनियों और सांस्कृतिक कार्यक्रमों का आयोजन किया जाएगा। रवींद्रनाथ टैगोर की इंडोनेशिया यात्रा पर संकलित एक नई पुस्तक प्रधानमंत्री को उनकी यात्रा के दौरान भेंट की जाएगी।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T15:51:39+00:00",
-        "link": "https://newsonair.gov.in/hi/indonesia-will-celebrate-the-centenary-of-gurudev-rabindranath-tagores-historic-visit/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMeSopFaoAAWR8z.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्री डॉ. एस. जयशंकर ने कतर के प्रधानमंत्री और विदेश मंत्री से मुलाकात की",
-        "summary": "विदेश मंत्री सुब्रह्मण्‍यम जयशंकर ने आज दोहा में कतर के प्रधानमंत्री और विदेश मंत्री मोहम्मद बिन अब्दुल रहमान बिन जसीम अल थानी से मुलाकात की। दोनों नेताओं ने द्विपक्षीय सहयोग के विभिन्न पहलुओं, विशेष रूप से ऊर्जा, व्यापार, निवेश, संपर्क, सुरक्षा और जन-संबंधों की समीक्षा की। सोशल मीडिया पोस्ट में विदेश मंत्री ने कहा कि […]",
-        "article": "विदेश मंत्री सुब्रह्मण्&#x200d;यम जयशंकर ने आज दोहा में कतर के प्रधानमंत्री और विदेश मंत्री मोहम्मद बिन अब्दुल रहमान बिन जसीम अल थानी से मुलाकात की। दोनों नेताओं ने द्विपक्षीय सहयोग के विभिन्न पहलुओं, विशेष रूप से ऊर्जा, व्यापार, निवेश, संपर्क, सुरक्षा और जन-संबंधों की समीक्षा की। सोशल मीडिया पोस्ट में विदेश मंत्री ने कहा कि उन्&#x200d;होंने रणनीतिक साझेदारी को और गहरा करने के नए अवसरों पर विचार-विमर्श किया। डॉ. जयशंकर ने भारतीय समुदाय की सुरक्षा तथा कल्याण सुनिश्चित करने के लिए कतर के प्रधानमंत्री को धन्यवाद दिया और पश्चिम एशिया संघर्ष तथा उसके प्रभाव पर उनके आकलन साझा करने की सराहना की।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T15:49:15+00:00",
-        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-met-with-the-prime-minister-and-foreign-minister-of-qatar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMeDEBTboAEMNMD.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ग्रामीण विकास मंत्रालय के वरिष्ठ अधिकारियों का एक दल आज से 11 जुलाई तक कर्नाटक के दौरे पर",
-        "summary": "ग्रामीण विकास मंत्रालय के वरिष्ठ अधिकारियों का एक दल आज से 11 जुलाई तक कर्नाटक के दौरे पर है। इसका उद्देश्य राज्य सरकार के अधिकारियों के साथ समीक्षा बैठकें करना और प्रमुख योजनाओं की प्रगति और कार्यान्वयन का आकलन करना है। अधिकारी बेलगावी और दावणगेरे जिलों का भी दौरा करेगा, जहां विकसित भारत &#8211; रोजगार […]",
-        "article": "ग्रामीण विकास मंत्रालय के वरिष्ठ अधिकारियों का एक दल आज से 11 जुलाई तक कर्नाटक के दौरे पर है। इसका उद्देश्य राज्य सरकार के अधिकारियों के साथ समीक्षा बैठकें करना और प्रमुख योजनाओं की प्रगति और कार्यान्वयन का आकलन करना है। अधिकारी बेलगावी और दावणगेरे जिलों का भी दौरा करेगा, जहां विकसित भारत &#8211; रोजगार और आजीविका मिशन -ग्रामीण और विकसित भारत-आरएजी योजनाओं के क्रियान्वयन में सहयोग कर सके और जमीनी स्तर पर इसके कार्यान्वयन की समीक्षा कर सके।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T15:41:51+00:00",
-        "link": "https://newsonair.gov.in/hi/a-team-of-senior-officials-from-the-ministry-of-rural-development-is-on-a-visit-to-karnataka-from-today-until-july-11/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "दिल्ली की मुख्यमंत्री रेखा गुप्ता और विधानसभा अध्‍यक्ष विजेन्‍द्र गुप्‍ता ने सुप्रसिद्ध पंडवानी गायिका तीजन बाई के निधन पर दुखः जताया",
-        "summary": "दिल्ली की मुख्यमंत्री रेखा गुप्ता और विधानसभा अध्‍यक्ष विजेन्‍द्र गुप्‍ता ने आज सुप्रसिद्ध पंडवानी गायिका तीजन बाई के निधन पर दुखः व्यक्त किया है। मुख्यमंत्री रेखा गुप्ता ने एक सोशल मीडिया पोस्ट में कहा कि तीजन बाई ने अपनी विलक्षण प्रतिभा और आजीवन साधना से भारतीय लोक परंपरा को नई प्रतिष्ठा दिलाई। साथ ही, उनकी […]",
-        "article": "दिल्ली की मुख्यमंत्री रेखा गुप्ता और विधानसभा अध्&#x200d;यक्ष विजेन्&#x200d;द्र गुप्&#x200d;ता ने आज सुप्रसिद्ध पंडवानी गायिका तीजन बाई के निधन पर दुखः व्यक्त किया है। मुख्यमंत्री रेखा गुप्ता ने एक सोशल मीडिया पोस्ट में कहा कि तीजन बाई ने अपनी विलक्षण प्रतिभा और आजीवन साधना से भारतीय लोक परंपरा को नई प्रतिष्ठा दिलाई। साथ ही, उनकी कला ने हमारी सांस्कृतिक विरासत को समृद्ध किया और अनगिनत कलाकारों को प्रेरणा दी। मुख्यमंत्री ने कहा कि उनका जाना भारतीय लोककला जगत के लिए अपूरणीय क्षति है। वहीं, विधानसभा अध्&#x200d;यक्ष ने कहा कि तीजन बाई ने अपनी विलक्षण कला, सशक्त अभिव्यक्ति और आजीवन साधना से पंडवानी को विश्वभर में नई पहचान दिलाई। विधानसभा अध्&#x200d;यक्ष ने प्रार्थना की है कि दिवंगत आत्मा को अपने श्रीचरणों में स्थान दें और शोकाकुल परिजनों को यह अपार दुःख सहन करने की शक्ति प्रदान करें।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T15:37:46+00:00",
-        "link": "https://newsonair.gov.in/hi/delhi-chief-minister-rekha-gupta-and-assembly-speaker-vijender-gupta-expressed-grief-over-the-passing-of-renowned-pandvani-singer-teejan-bai/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMeBgzVasAAnzFL.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतीय नौसेना के पूर्वी बेड़े के उदयगिरि, शक्ति और कवरत्ती युद्धपोत ने सिंगापुर के चांगी नौसैनिक अड्डे का दौरा पूरा किया",
-        "summary": "भारतीय नौसेना के पूर्वी बेड़े के उदयगिरि, शक्ति और कवरत्ती युद्धपोत ने सिंगापुर के चांगी नौसैनिक अड्डे का दौरा पूरा कर लिया है। यह दौरा भारतीय नौसेना की परिचालन तैनाती का हिस्सा था। आसियान-भारत समुद्री सहयोग वर्ष और भारत सरकार की एक्ट ईस्ट नीति अनुरूप यह तैनाती की गई थी। रक्षा मंत्रालय ने बताया कि […]",
-        "article": "भारतीय नौसेना के पूर्वी बेड़े के उदयगिरि, शक्ति और कवरत्ती युद्धपोत ने सिंगापुर के चांगी नौसैनिक अड्डे का दौरा पूरा कर लिया है। यह दौरा भारतीय नौसेना की परिचालन तैनाती का हिस्सा था। आसियान-भारत समुद्री सहयोग वर्ष और भारत सरकार की एक्ट ईस्ट नीति अनुरूप यह तैनाती की गई थी। रक्षा मंत्रालय ने बताया कि तीन दिवसीय कार्यक्रम के दौरान दोनों नौसेनाओं के बीच अंतर-संचालनीयता और नौसैनिक सहयोग मजबूत करने के लिए क्रॉस-डेक दौरों सहित पेशेवर बातचीत हुई। मंत्रालय ने कहा कि यह दौरा भारत और सिंगापुर के बीच बढ़ती समुद्री साझेदारी में एक और महत्वपूर्ण उपल्बधि है।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T14:49:51+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-navys-eastern-fleet-warships-udaygiri-shakti-and-kavaratti-concluded-their-visit-to-singapores-changi-naval-base/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMd8diNakAEkLtz-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "एफपीआई ने जुलाई के तीन शुरूआती कारोबारी सत्रों में इस महीने अब तक 708 करोड़ रुपये के भारतीय शेयर खरीदे",
-        "summary": "विदेशी पोर्टफोलियो निवेशकों-एफपीआई ने जुलाई के तीन शुरूआती कारोबारी सत्रों में लिवाली का रूख बनाए रखा और इस महीने अब तक 708 करोड़ रुपये के भारतीय शेयर खरीदे। जून में उन्‍होंने भारतीय शेयर बाजार से 49 हजार 340 करोड़ रुपये निकाले थे, लेकिन अब यह रूख उलटता हुआ दिखाई दे रहा है। लेकिन भारतीय ऋण […]",
-        "article": "विदेशी पोर्टफोलियो निवेशकों-एफपीआई ने जुलाई के तीन शुरूआती कारोबारी सत्रों में लिवाली का रूख बनाए रखा और इस महीने अब तक 708 करोड़ रुपये के भारतीय शेयर खरीदे। जून में उन्&#x200d;होंने भारतीय शेयर बाजार से 49 हजार 340 करोड़ रुपये निकाले थे, लेकिन अब यह रूख उलटता हुआ दिखाई दे रहा है। लेकिन भारतीय ऋण बाजार में एफपीआई ने पिछले महीने काफी दिलचस्&#x200d;पी दिखाई थी। जेनरल लिमिट के तहत उन्&#x200d;होंने 30 हजार 620 करोड़ रुपये , एफएआर के जरिये 21 हजार 652 करोड़ रुपये और वीआरआर के तहत तीन हजार 246 करोड़ रुपये का निवेश किया। सरकारी प्रतिभूतियों में विदेशी संस्&#x200d;थागत निवेशकों को कैपिटल गेन्&#x200d;स और ब्&#x200d;याज से होने वाली आय पर मिली छूट से और निवेश की सीमा हटाए जाने से भारतीय ऋण बाजार में विदेशी निवेश बढ़ा है। कुल मिलाकर जून में भारतीय पूंजी बाजार में एफपीआई ने चार हजार छह सौ उनहत्&#x200d;तर करोड़ रुपये का निेवेश किया है। उससे पहले के तीन महीनों में उन्&#x200d;होंने भारतीय बाजार से पैसे निकाले थे।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T14:44:07+00:00",
-        "link": "https://newsonair.gov.in/hi/fpis-bought-indian-shares-worth-rs-708-crore-in-the-first-three-trading-sessions-of-july-taking-their-total-purchases-so-far-this-month/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FPI.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "फैक्ट चैक:विदेश मंत्रालय ने कुछ व्यक्तियों द्वारा नीतिगत मामलों पर सलाह देने के दावों का खंडन किया",
-        "summary": "विदेश मंत्रालय ने सोशल मीडिया पर कुछ व्यक्तियों द्वारा व्यापार, प्रवासन और अन्य नीतिगत मामलों पर मंत्रालय को सलाह देने संबंधी दावों का खंडन किया है। विदेश मंत्रालय की तथ्य जांच इकाई ने कहा कि ये सोशल मीडिया हैंडल मंत्रालय के साथ काम करने के तरीकों पर सशुल्क सलाह के साथ-साथ सत्र भी आयोजित कर […]",
-        "article": "विदेश मंत्रालय ने सोशल मीडिया पर कुछ व्यक्तियों द्वारा व्यापार, प्रवासन और अन्य नीतिगत मामलों पर मंत्रालय को सलाह देने संबंधी दावों का खंडन किया है। विदेश मंत्रालय की तथ्य जांच इकाई ने कहा कि ये सोशल मीडिया हैंडल मंत्रालय के साथ काम करने के तरीकों पर सशुल्क सलाह के साथ-साथ सत्र भी आयोजित कर रहे हैं। तथ्य जांच ईकाई ने स्पष्ट किया कि इन व्यक्तियों का विदेश मंत्रालय से कोई संबंध नहीं है। मंत्रालय ने सभी लोगों से सोशल मीडिया पर इस तरह की फर्जी दावों से सावधान रहने को कहा है।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T14:23:09+00:00",
-        "link": "https://newsonair.gov.in/hi/fact-check-ministry-of-external-affairs-refutes-claims-by-certain-individuals-regarding-the-provision-of-advice-on-policy-matters-2/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/7iSSwwmr_400x400.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "वेनेजुएला की कार्यवाहक राष्ट्रपति डेल्सी रोड्रिगेज ने विनाशकारी भूकंप के बाद सहायता के लिए भारत का आभार व्यक्त किया",
         "summary": "वेनेजुएला की कार्यवाहक राष्ट्रपति डेल्सी रोड्रिगेज ने विनाशकारी भूकंप के बाद सहायता के लिए भारत का आभार व्यक्त किया है। सोशल मीडिया पोस्ट में सुश्री रोड्रिगेज ने कहा कि ब्रिटेन, कतर, फ्रांस, भारत, बारबाडोस, ब्राजील और अर्जेंटीना के बचावकर्मियों को उनके अमूल्य योगदान और संकट की इस घड़ी में एकजुटता प्रयासों के प्रति वेनेजुएला सम्मान […]",
         "article": "वेनेजुएला की कार्यवाहक राष्ट्रपति डेल्सी रोड्रिगेज ने विनाशकारी भूकंप के बाद सहायता के लिए भारत का आभार व्यक्त किया है। सोशल मीडिया पोस्ट में सुश्री रोड्रिगेज ने कहा कि ब्रिटेन, कतर, फ्रांस, भारत, बारबाडोस, ब्राजील और अर्जेंटीना के बचावकर्मियों को उनके अमूल्य योगदान और संकट की इस घड़ी में एकजुटता प्रयासों के प्रति वेनेजुएला सम्मान व्&#x200d;यक्&#x200d;त करता है।",
@@ -1142,366 +1131,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-05T14:18:20+00:00",
         "link": "https://newsonair.gov.in/hi/venezuelas-acting-president-delcy-rodriguez-expressed-gratitude-to-india-for-the-aid-provided-following-the-devastating-earthquake/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-05-194746.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ओपेक प्लस ने अगस्त से प्रतिदिन 5 लाख 48 हजार बैरल तेल उत्पादन बढ़ाने पर सहमति जताई",
-        "summary": "पेट्रोलियम निर्यातक देशों के संगठन-ओपेक प्लस ने वैश्विक तेल बाजार की स्थितियों की समीक्षा के लिए आयोजित वर्चुअल बैठक के बाद इस वर्ष अगस्त से प्रतिदिन 188 हजार बैरल तेल उत्पादन बढ़ाने पर सहमति व्यक्त की है। आज हुई बैठक के बाद जारी बयान में, सऊदी अरब, रूस, इराक, कुवैत, कजाकिस्तान, अल्जीरिया और ओमान सहित […]",
-        "article": "पेट्रोलियम निर्यातक देशों के संगठन-ओपेक प्लस ने वैश्विक तेल बाजार की स्थितियों की समीक्षा के लिए आयोजित वर्चुअल बैठक के बाद इस वर्ष अगस्त से प्रतिदिन 188 हजार बैरल तेल उत्पादन बढ़ाने पर सहमति व्यक्त की है। आज हुई बैठक के बाद जारी बयान में, सऊदी अरब, रूस, इराक, कुवैत, कजाकिस्तान, अल्जीरिया और ओमान सहित सात ओपेक प्लस सदस्य देशों ने कहा कि यह निर्णय बाजार स्थिरता को बढ़ावा देने के उद्देश्य से लिया गया है। तेल उत्पादक समूह ने कहा कि वह वैश्विक तेल बाजार पर नजर रखना जारी रखेगा और सहमति वाले उत्पादन लक्ष्यों का अनुपालन सुनिश्चित करेगा। भाग लेने वाले देशों की अगली बैठक दो अगस्त को निर्धारित है।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T13:02:06+00:00",
-        "link": "https://newsonair.gov.in/hi/opec-has-agreed-to-increase-oil-production-by-548000-barrels-per-day-starting-in-august/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607053852490.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "breaking": [
-      {
-        "title": "राजधानी के विभिन्‍न क्षेत्रों में बारिश से उमसभरी गर्मी से राहत मिली",
-        "summary": "राजधानी के विभिन्‍न क्षेत्रों में आज बारिश हुई, जिससे लोगों को उमसभरी गर्मी से राहत मिली। आज का अधिकतम तापमान 38.6 डिग्री सेल्सियस दर्ज किया गया। वहीं, न्यूनतम तापमान 29.2 डिग्री सेल्सियस दर्ज किया गया। मौसम विभाग के अनुसार कल गरज के साथ हल्‍की वर्षा होने के साथ-साथ बादल छाये रहने की संभावना है। विभाग […]",
-        "article": "राजधानी के विभिन्&#x200d;न क्षेत्रों में आज बारिश हुई, जिससे लोगों को उमसभरी गर्मी से राहत मिली। आज का अधिकतम तापमान 38.6 डिग्री सेल्सियस दर्ज किया गया। वहीं, न्यूनतम तापमान 29.2 डिग्री सेल्सियस दर्ज किया गया। मौसम विभाग के अनुसार कल गरज के साथ हल्&#x200d;की वर्षा होने के साथ-साथ बादल छाये रहने की संभावना है। विभाग के अनुसार कल का अधिकतम तापमान 31 से 33 डिग्री सेल्सियस और न्यूनतम तापमान 26 से 28 डिग्री सेल्सियस रहने का अनुमान है।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T16:16:55+00:00",
-        "link": "https://newsonair.gov.in/hi/rain-brought-relief-from-the-sultry-heat-in-various-parts-of-the-capital/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/7.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कौशल विकास और उद्यमिता मंत्रालय ने नवाचार मंत्र के लिए पंजीकरण की अंतिम तिथि 15 जुलाई तक बढ़ाई",
-        "summary": "कौशल विकास और उद्यमिता मंत्रालय ने अपने प्रमुख राष्ट्रीय नवाचार मंच नवाचार मंत्र के लिए पंजीकरण की अंतिम तिथि 15 जुलाई तक बढ़ा दी है। मंत्रालय ने कहा कि देश भर के नवोन्मेषकों की अत्यधिक रुचि को देखते हुए यह निर्णय लिया गया है। मंत्रालय ने आगे कहा कि आधिकारिक नवाचार मंत्र पंजीकरण पोर्टल पर […]",
-        "article": "कौशल विकास और उद्यमिता मंत्रालय ने अपने प्रमुख राष्ट्रीय नवाचार मंच नवाचार मंत्र के लिए पंजीकरण की अंतिम तिथि 15 जुलाई तक बढ़ा दी है। मंत्रालय ने कहा कि देश भर के नवोन्मेषकों की अत्यधिक रुचि को देखते हुए यह निर्णय लिया गया है। मंत्रालय ने आगे कहा कि आधिकारिक नवाचार मंत्र पंजीकरण पोर्टल पर अब तक हजारों इच्छुक उद्यमियों और नवोन्मेषकों ने पंजीकरण कराया है। नवाचार मंत्र राष्ट्रीय उद्यमिता एवं लघु व्यवसाय विकास संस्थान द्वारा फाउंडेशन फॉर इनोवेशन एंड टेक्नोलॉजी ट्रांसफर &#8211; एफआईटीटी और आईआईटी दिल्ली के सहयोग से कार्यान्वित किया जा रहा है। इस पहल का उद्देश्य संरचित मार्गदर्शन, विशेषज्ञ सलाह, उद्योग से संपर्क और बाजार तक पहुंच के माध्यम से उच्च क्षमता वाले उद्यमशीलता विचारों की पहचान पोषित और गति प्रदान करना है।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T16:06:46+00:00",
-        "link": "https://newsonair.gov.in/hi/the-ministry-of-skill-development-and-entrepreneurship-has-extended-the-registration-deadline-for-navachar-mantra-to-july-15/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Dater.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गुरुदेव रवींद्रनाथ टैगोर की ऐतिहासिक यात्रा की शताब्दी मनाएगा इंडोनेशिया",
-        "summary": "इंडोनेशिया, गुरुदेव रवींद्रनाथ टैगोर की वहां की ऐतिहासिक यात्रा की शताब्दी मनाएगा। इसके लिए वर्ष 2026 और 2027 के दौरान 15 महीने का कार्यक्रम आयोजित किया जाएगा। इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने आकाशवाणी समाचार से बातचीत में कहा कि प्रधानमंत्री नरेन्‍द्र मोदी की कल से शुरू होने वाली इंडोनेशिया यात्रा के दौरान […]",
-        "article": "इंडोनेशिया, गुरुदेव रवींद्रनाथ टैगोर की वहां की ऐतिहासिक यात्रा की शताब्दी मनाएगा। इसके लिए वर्ष 2026 और 2027 के दौरान 15 महीने का कार्यक्रम आयोजित किया जाएगा। इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने आकाशवाणी समाचार से बातचीत में कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी की कल से शुरू होने वाली इंडोनेशिया यात्रा के दौरान इन कार्यक्रमों का शुभारंभ किया जाएगा। शताब्दी समारोहों में प्रदर्शनियां और पूरे वर्ष चलने वाले सांस्कृतिक कार्यक्रम आयोजित किए जाएंगे। राजदूत ने बताया कि गुरुदेव रवींद्रनाथ टैगोर ने वर्ष 1927 में लगभग तीन महीने इंडोनेशिया में बिताए, व्यापक यात्रा की और देश की समृद्ध परंपराओं में खुद को समाहित किया। अपनी यात्रा से अत्यधिक प्रेरित होकर, उन्&#x200d;होंने बाद में अपने सहयोगियों को इंडोनेशिया भेजा ताकि वे वहाँ की कला, नृत्य, संस्कृति और वास्तुकला का अध्ययन कर सकें। इससे दोनों देशों के बीच सांस्कृतिक आदान-प्रदान मजबूत हुआ। राजदूत चक्रवर्ती ने कहा कि टैगोर-देवंतारा शैक्षिक और सांस्कृतिक आदान-प्रदान कार्यक्रम भी शुरू किया जाएगा, जिसमें स्मृति अवधि के दौरान प्रदर्शनियों और सांस्कृतिक कार्यक्रमों का आयोजन किया जाएगा। रवींद्रनाथ टैगोर की इंडोनेशिया यात्रा पर संकलित एक नई पुस्तक प्रधानमंत्री को उनकी यात्रा के दौरान भेंट की जाएगी।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T15:51:39+00:00",
-        "link": "https://newsonair.gov.in/hi/indonesia-will-celebrate-the-centenary-of-gurudev-rabindranath-tagores-historic-visit/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMeSopFaoAAWR8z.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्री डॉ. एस. जयशंकर ने कतर के प्रधानमंत्री और विदेश मंत्री से मुलाकात की",
-        "summary": "विदेश मंत्री सुब्रह्मण्‍यम जयशंकर ने आज दोहा में कतर के प्रधानमंत्री और विदेश मंत्री मोहम्मद बिन अब्दुल रहमान बिन जसीम अल थानी से मुलाकात की। दोनों नेताओं ने द्विपक्षीय सहयोग के विभिन्न पहलुओं, विशेष रूप से ऊर्जा, व्यापार, निवेश, संपर्क, सुरक्षा और जन-संबंधों की समीक्षा की। सोशल मीडिया पोस्ट में विदेश मंत्री ने कहा कि […]",
-        "article": "विदेश मंत्री सुब्रह्मण्&#x200d;यम जयशंकर ने आज दोहा में कतर के प्रधानमंत्री और विदेश मंत्री मोहम्मद बिन अब्दुल रहमान बिन जसीम अल थानी से मुलाकात की। दोनों नेताओं ने द्विपक्षीय सहयोग के विभिन्न पहलुओं, विशेष रूप से ऊर्जा, व्यापार, निवेश, संपर्क, सुरक्षा और जन-संबंधों की समीक्षा की। सोशल मीडिया पोस्ट में विदेश मंत्री ने कहा कि उन्&#x200d;होंने रणनीतिक साझेदारी को और गहरा करने के नए अवसरों पर विचार-विमर्श किया। डॉ. जयशंकर ने भारतीय समुदाय की सुरक्षा तथा कल्याण सुनिश्चित करने के लिए कतर के प्रधानमंत्री को धन्यवाद दिया और पश्चिम एशिया संघर्ष तथा उसके प्रभाव पर उनके आकलन साझा करने की सराहना की।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T15:49:15+00:00",
-        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-met-with-the-prime-minister-and-foreign-minister-of-qatar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMeDEBTboAEMNMD.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ग्रामीण विकास मंत्रालय के वरिष्ठ अधिकारियों का एक दल आज से 11 जुलाई तक कर्नाटक के दौरे पर",
-        "summary": "ग्रामीण विकास मंत्रालय के वरिष्ठ अधिकारियों का एक दल आज से 11 जुलाई तक कर्नाटक के दौरे पर है। इसका उद्देश्य राज्य सरकार के अधिकारियों के साथ समीक्षा बैठकें करना और प्रमुख योजनाओं की प्रगति और कार्यान्वयन का आकलन करना है। अधिकारी बेलगावी और दावणगेरे जिलों का भी दौरा करेगा, जहां विकसित भारत &#8211; रोजगार […]",
-        "article": "ग्रामीण विकास मंत्रालय के वरिष्ठ अधिकारियों का एक दल आज से 11 जुलाई तक कर्नाटक के दौरे पर है। इसका उद्देश्य राज्य सरकार के अधिकारियों के साथ समीक्षा बैठकें करना और प्रमुख योजनाओं की प्रगति और कार्यान्वयन का आकलन करना है। अधिकारी बेलगावी और दावणगेरे जिलों का भी दौरा करेगा, जहां विकसित भारत &#8211; रोजगार और आजीविका मिशन -ग्रामीण और विकसित भारत-आरएजी योजनाओं के क्रियान्वयन में सहयोग कर सके और जमीनी स्तर पर इसके कार्यान्वयन की समीक्षा कर सके।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T15:41:51+00:00",
-        "link": "https://newsonair.gov.in/hi/a-team-of-senior-officials-from-the-ministry-of-rural-development-is-on-a-visit-to-karnataka-from-today-until-july-11/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "दिल्ली की मुख्यमंत्री रेखा गुप्ता और विधानसभा अध्‍यक्ष विजेन्‍द्र गुप्‍ता ने सुप्रसिद्ध पंडवानी गायिका तीजन बाई के निधन पर दुखः जताया",
-        "summary": "दिल्ली की मुख्यमंत्री रेखा गुप्ता और विधानसभा अध्‍यक्ष विजेन्‍द्र गुप्‍ता ने आज सुप्रसिद्ध पंडवानी गायिका तीजन बाई के निधन पर दुखः व्यक्त किया है। मुख्यमंत्री रेखा गुप्ता ने एक सोशल मीडिया पोस्ट में कहा कि तीजन बाई ने अपनी विलक्षण प्रतिभा और आजीवन साधना से भारतीय लोक परंपरा को नई प्रतिष्ठा दिलाई। साथ ही, उनकी […]",
-        "article": "दिल्ली की मुख्यमंत्री रेखा गुप्ता और विधानसभा अध्&#x200d;यक्ष विजेन्&#x200d;द्र गुप्&#x200d;ता ने आज सुप्रसिद्ध पंडवानी गायिका तीजन बाई के निधन पर दुखः व्यक्त किया है। मुख्यमंत्री रेखा गुप्ता ने एक सोशल मीडिया पोस्ट में कहा कि तीजन बाई ने अपनी विलक्षण प्रतिभा और आजीवन साधना से भारतीय लोक परंपरा को नई प्रतिष्ठा दिलाई। साथ ही, उनकी कला ने हमारी सांस्कृतिक विरासत को समृद्ध किया और अनगिनत कलाकारों को प्रेरणा दी। मुख्यमंत्री ने कहा कि उनका जाना भारतीय लोककला जगत के लिए अपूरणीय क्षति है। वहीं, विधानसभा अध्&#x200d;यक्ष ने कहा कि तीजन बाई ने अपनी विलक्षण कला, सशक्त अभिव्यक्ति और आजीवन साधना से पंडवानी को विश्वभर में नई पहचान दिलाई। विधानसभा अध्&#x200d;यक्ष ने प्रार्थना की है कि दिवंगत आत्मा को अपने श्रीचरणों में स्थान दें और शोकाकुल परिजनों को यह अपार दुःख सहन करने की शक्ति प्रदान करें।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T15:37:46+00:00",
-        "link": "https://newsonair.gov.in/hi/delhi-chief-minister-rekha-gupta-and-assembly-speaker-vijender-gupta-expressed-grief-over-the-passing-of-renowned-pandvani-singer-teejan-bai/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMeBgzVasAAnzFL.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतीय नौसेना के पूर्वी बेड़े के उदयगिरि, शक्ति और कवरत्ती युद्धपोत ने सिंगापुर के चांगी नौसैनिक अड्डे का दौरा पूरा किया",
-        "summary": "भारतीय नौसेना के पूर्वी बेड़े के उदयगिरि, शक्ति और कवरत्ती युद्धपोत ने सिंगापुर के चांगी नौसैनिक अड्डे का दौरा पूरा कर लिया है। यह दौरा भारतीय नौसेना की परिचालन तैनाती का हिस्सा था। आसियान-भारत समुद्री सहयोग वर्ष और भारत सरकार की एक्ट ईस्ट नीति अनुरूप यह तैनाती की गई थी। रक्षा मंत्रालय ने बताया कि […]",
-        "article": "भारतीय नौसेना के पूर्वी बेड़े के उदयगिरि, शक्ति और कवरत्ती युद्धपोत ने सिंगापुर के चांगी नौसैनिक अड्डे का दौरा पूरा कर लिया है। यह दौरा भारतीय नौसेना की परिचालन तैनाती का हिस्सा था। आसियान-भारत समुद्री सहयोग वर्ष और भारत सरकार की एक्ट ईस्ट नीति अनुरूप यह तैनाती की गई थी। रक्षा मंत्रालय ने बताया कि तीन दिवसीय कार्यक्रम के दौरान दोनों नौसेनाओं के बीच अंतर-संचालनीयता और नौसैनिक सहयोग मजबूत करने के लिए क्रॉस-डेक दौरों सहित पेशेवर बातचीत हुई। मंत्रालय ने कहा कि यह दौरा भारत और सिंगापुर के बीच बढ़ती समुद्री साझेदारी में एक और महत्वपूर्ण उपल्बधि है।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T14:49:51+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-navys-eastern-fleet-warships-udaygiri-shakti-and-kavaratti-concluded-their-visit-to-singapores-changi-naval-base/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMd8diNakAEkLtz-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "एफपीआई ने जुलाई के तीन शुरूआती कारोबारी सत्रों में इस महीने अब तक 708 करोड़ रुपये के भारतीय शेयर खरीदे",
-        "summary": "विदेशी पोर्टफोलियो निवेशकों-एफपीआई ने जुलाई के तीन शुरूआती कारोबारी सत्रों में लिवाली का रूख बनाए रखा और इस महीने अब तक 708 करोड़ रुपये के भारतीय शेयर खरीदे। जून में उन्‍होंने भारतीय शेयर बाजार से 49 हजार 340 करोड़ रुपये निकाले थे, लेकिन अब यह रूख उलटता हुआ दिखाई दे रहा है। लेकिन भारतीय ऋण […]",
-        "article": "विदेशी पोर्टफोलियो निवेशकों-एफपीआई ने जुलाई के तीन शुरूआती कारोबारी सत्रों में लिवाली का रूख बनाए रखा और इस महीने अब तक 708 करोड़ रुपये के भारतीय शेयर खरीदे। जून में उन्&#x200d;होंने भारतीय शेयर बाजार से 49 हजार 340 करोड़ रुपये निकाले थे, लेकिन अब यह रूख उलटता हुआ दिखाई दे रहा है। लेकिन भारतीय ऋण बाजार में एफपीआई ने पिछले महीने काफी दिलचस्&#x200d;पी दिखाई थी। जेनरल लिमिट के तहत उन्&#x200d;होंने 30 हजार 620 करोड़ रुपये , एफएआर के जरिये 21 हजार 652 करोड़ रुपये और वीआरआर के तहत तीन हजार 246 करोड़ रुपये का निवेश किया। सरकारी प्रतिभूतियों में विदेशी संस्&#x200d;थागत निवेशकों को कैपिटल गेन्&#x200d;स और ब्&#x200d;याज से होने वाली आय पर मिली छूट से और निवेश की सीमा हटाए जाने से भारतीय ऋण बाजार में विदेशी निवेश बढ़ा है। कुल मिलाकर जून में भारतीय पूंजी बाजार में एफपीआई ने चार हजार छह सौ उनहत्&#x200d;तर करोड़ रुपये का निेवेश किया है। उससे पहले के तीन महीनों में उन्&#x200d;होंने भारतीय बाजार से पैसे निकाले थे।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T14:44:07+00:00",
-        "link": "https://newsonair.gov.in/hi/fpis-bought-indian-shares-worth-rs-708-crore-in-the-first-three-trading-sessions-of-july-taking-their-total-purchases-so-far-this-month/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FPI.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "फैक्ट चैक:विदेश मंत्रालय ने कुछ व्यक्तियों द्वारा नीतिगत मामलों पर सलाह देने के दावों का खंडन किया",
-        "summary": "विदेश मंत्रालय ने सोशल मीडिया पर कुछ व्यक्तियों द्वारा व्यापार, प्रवासन और अन्य नीतिगत मामलों पर मंत्रालय को सलाह देने संबंधी दावों का खंडन किया है। विदेश मंत्रालय की तथ्य जांच इकाई ने कहा कि ये सोशल मीडिया हैंडल मंत्रालय के साथ काम करने के तरीकों पर सशुल्क सलाह के साथ-साथ सत्र भी आयोजित कर […]",
-        "article": "विदेश मंत्रालय ने सोशल मीडिया पर कुछ व्यक्तियों द्वारा व्यापार, प्रवासन और अन्य नीतिगत मामलों पर मंत्रालय को सलाह देने संबंधी दावों का खंडन किया है। विदेश मंत्रालय की तथ्य जांच इकाई ने कहा कि ये सोशल मीडिया हैंडल मंत्रालय के साथ काम करने के तरीकों पर सशुल्क सलाह के साथ-साथ सत्र भी आयोजित कर रहे हैं। तथ्य जांच ईकाई ने स्पष्ट किया कि इन व्यक्तियों का विदेश मंत्रालय से कोई संबंध नहीं है। मंत्रालय ने सभी लोगों से सोशल मीडिया पर इस तरह की फर्जी दावों से सावधान रहने को कहा है।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T14:23:09+00:00",
-        "link": "https://newsonair.gov.in/hi/fact-check-ministry-of-external-affairs-refutes-claims-by-certain-individuals-regarding-the-provision-of-advice-on-policy-matters-2/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/7iSSwwmr_400x400.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वेनेजुएला की कार्यवाहक राष्ट्रपति डेल्सी रोड्रिगेज ने विनाशकारी भूकंप के बाद सहायता के लिए भारत का आभार व्यक्त किया",
-        "summary": "वेनेजुएला की कार्यवाहक राष्ट्रपति डेल्सी रोड्रिगेज ने विनाशकारी भूकंप के बाद सहायता के लिए भारत का आभार व्यक्त किया है। सोशल मीडिया पोस्ट में सुश्री रोड्रिगेज ने कहा कि ब्रिटेन, कतर, फ्रांस, भारत, बारबाडोस, ब्राजील और अर्जेंटीना के बचावकर्मियों को उनके अमूल्य योगदान और संकट की इस घड़ी में एकजुटता प्रयासों के प्रति वेनेजुएला सम्मान […]",
-        "article": "वेनेजुएला की कार्यवाहक राष्ट्रपति डेल्सी रोड्रिगेज ने विनाशकारी भूकंप के बाद सहायता के लिए भारत का आभार व्यक्त किया है। सोशल मीडिया पोस्ट में सुश्री रोड्रिगेज ने कहा कि ब्रिटेन, कतर, फ्रांस, भारत, बारबाडोस, ब्राजील और अर्जेंटीना के बचावकर्मियों को उनके अमूल्य योगदान और संकट की इस घड़ी में एकजुटता प्रयासों के प्रति वेनेजुएला सम्मान व्&#x200d;यक्&#x200d;त करता है।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T14:18:20+00:00",
-        "link": "https://newsonair.gov.in/hi/venezuelas-acting-president-delcy-rodriguez-expressed-gratitude-to-india-for-the-aid-provided-following-the-devastating-earthquake/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-05-194746.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "national": [
-      {
-        "title": "राजधानी के विभिन्‍न क्षेत्रों में बारिश से उमसभरी गर्मी से राहत मिली",
-        "summary": "राजधानी के विभिन्‍न क्षेत्रों में आज बारिश हुई, जिससे लोगों को उमसभरी गर्मी से राहत मिली। आज का अधिकतम तापमान 38.6 डिग्री सेल्सियस दर्ज किया गया। वहीं, न्यूनतम तापमान 29.2 डिग्री सेल्सियस दर्ज किया गया। मौसम विभाग के अनुसार कल गरज के साथ हल्‍की वर्षा होने के साथ-साथ बादल छाये रहने की संभावना है। विभाग […]",
-        "article": "राजधानी के विभिन्&#x200d;न क्षेत्रों में आज बारिश हुई, जिससे लोगों को उमसभरी गर्मी से राहत मिली। आज का अधिकतम तापमान 38.6 डिग्री सेल्सियस दर्ज किया गया। वहीं, न्यूनतम तापमान 29.2 डिग्री सेल्सियस दर्ज किया गया। मौसम विभाग के अनुसार कल गरज के साथ हल्&#x200d;की वर्षा होने के साथ-साथ बादल छाये रहने की संभावना है। विभाग के अनुसार कल का अधिकतम तापमान 31 से 33 डिग्री सेल्सियस और न्यूनतम तापमान 26 से 28 डिग्री सेल्सियस रहने का अनुमान है।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T16:16:55+00:00",
-        "link": "https://newsonair.gov.in/hi/rain-brought-relief-from-the-sultry-heat-in-various-parts-of-the-capital/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/7.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कौशल विकास और उद्यमिता मंत्रालय ने नवाचार मंत्र के लिए पंजीकरण की अंतिम तिथि 15 जुलाई तक बढ़ाई",
-        "summary": "कौशल विकास और उद्यमिता मंत्रालय ने अपने प्रमुख राष्ट्रीय नवाचार मंच नवाचार मंत्र के लिए पंजीकरण की अंतिम तिथि 15 जुलाई तक बढ़ा दी है। मंत्रालय ने कहा कि देश भर के नवोन्मेषकों की अत्यधिक रुचि को देखते हुए यह निर्णय लिया गया है। मंत्रालय ने आगे कहा कि आधिकारिक नवाचार मंत्र पंजीकरण पोर्टल पर […]",
-        "article": "कौशल विकास और उद्यमिता मंत्रालय ने अपने प्रमुख राष्ट्रीय नवाचार मंच नवाचार मंत्र के लिए पंजीकरण की अंतिम तिथि 15 जुलाई तक बढ़ा दी है। मंत्रालय ने कहा कि देश भर के नवोन्मेषकों की अत्यधिक रुचि को देखते हुए यह निर्णय लिया गया है। मंत्रालय ने आगे कहा कि आधिकारिक नवाचार मंत्र पंजीकरण पोर्टल पर अब तक हजारों इच्छुक उद्यमियों और नवोन्मेषकों ने पंजीकरण कराया है। नवाचार मंत्र राष्ट्रीय उद्यमिता एवं लघु व्यवसाय विकास संस्थान द्वारा फाउंडेशन फॉर इनोवेशन एंड टेक्नोलॉजी ट्रांसफर &#8211; एफआईटीटी और आईआईटी दिल्ली के सहयोग से कार्यान्वित किया जा रहा है। इस पहल का उद्देश्य संरचित मार्गदर्शन, विशेषज्ञ सलाह, उद्योग से संपर्क और बाजार तक पहुंच के माध्यम से उच्च क्षमता वाले उद्यमशीलता विचारों की पहचान पोषित और गति प्रदान करना है।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T16:06:46+00:00",
-        "link": "https://newsonair.gov.in/hi/the-ministry-of-skill-development-and-entrepreneurship-has-extended-the-registration-deadline-for-navachar-mantra-to-july-15/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Dater.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गुरुदेव रवींद्रनाथ टैगोर की ऐतिहासिक यात्रा की शताब्दी मनाएगा इंडोनेशिया",
-        "summary": "इंडोनेशिया, गुरुदेव रवींद्रनाथ टैगोर की वहां की ऐतिहासिक यात्रा की शताब्दी मनाएगा। इसके लिए वर्ष 2026 और 2027 के दौरान 15 महीने का कार्यक्रम आयोजित किया जाएगा। इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने आकाशवाणी समाचार से बातचीत में कहा कि प्रधानमंत्री नरेन्‍द्र मोदी की कल से शुरू होने वाली इंडोनेशिया यात्रा के दौरान […]",
-        "article": "इंडोनेशिया, गुरुदेव रवींद्रनाथ टैगोर की वहां की ऐतिहासिक यात्रा की शताब्दी मनाएगा। इसके लिए वर्ष 2026 और 2027 के दौरान 15 महीने का कार्यक्रम आयोजित किया जाएगा। इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने आकाशवाणी समाचार से बातचीत में कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी की कल से शुरू होने वाली इंडोनेशिया यात्रा के दौरान इन कार्यक्रमों का शुभारंभ किया जाएगा। शताब्दी समारोहों में प्रदर्शनियां और पूरे वर्ष चलने वाले सांस्कृतिक कार्यक्रम आयोजित किए जाएंगे। राजदूत ने बताया कि गुरुदेव रवींद्रनाथ टैगोर ने वर्ष 1927 में लगभग तीन महीने इंडोनेशिया में बिताए, व्यापक यात्रा की और देश की समृद्ध परंपराओं में खुद को समाहित किया। अपनी यात्रा से अत्यधिक प्रेरित होकर, उन्&#x200d;होंने बाद में अपने सहयोगियों को इंडोनेशिया भेजा ताकि वे वहाँ की कला, नृत्य, संस्कृति और वास्तुकला का अध्ययन कर सकें। इससे दोनों देशों के बीच सांस्कृतिक आदान-प्रदान मजबूत हुआ। राजदूत चक्रवर्ती ने कहा कि टैगोर-देवंतारा शैक्षिक और सांस्कृतिक आदान-प्रदान कार्यक्रम भी शुरू किया जाएगा, जिसमें स्मृति अवधि के दौरान प्रदर्शनियों और सांस्कृतिक कार्यक्रमों का आयोजन किया जाएगा। रवींद्रनाथ टैगोर की इंडोनेशिया यात्रा पर संकलित एक नई पुस्तक प्रधानमंत्री को उनकी यात्रा के दौरान भेंट की जाएगी।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T15:51:39+00:00",
-        "link": "https://newsonair.gov.in/hi/indonesia-will-celebrate-the-centenary-of-gurudev-rabindranath-tagores-historic-visit/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMeSopFaoAAWR8z.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्री डॉ. एस. जयशंकर ने कतर के प्रधानमंत्री और विदेश मंत्री से मुलाकात की",
-        "summary": "विदेश मंत्री सुब्रह्मण्‍यम जयशंकर ने आज दोहा में कतर के प्रधानमंत्री और विदेश मंत्री मोहम्मद बिन अब्दुल रहमान बिन जसीम अल थानी से मुलाकात की। दोनों नेताओं ने द्विपक्षीय सहयोग के विभिन्न पहलुओं, विशेष रूप से ऊर्जा, व्यापार, निवेश, संपर्क, सुरक्षा और जन-संबंधों की समीक्षा की। सोशल मीडिया पोस्ट में विदेश मंत्री ने कहा कि […]",
-        "article": "विदेश मंत्री सुब्रह्मण्&#x200d;यम जयशंकर ने आज दोहा में कतर के प्रधानमंत्री और विदेश मंत्री मोहम्मद बिन अब्दुल रहमान बिन जसीम अल थानी से मुलाकात की। दोनों नेताओं ने द्विपक्षीय सहयोग के विभिन्न पहलुओं, विशेष रूप से ऊर्जा, व्यापार, निवेश, संपर्क, सुरक्षा और जन-संबंधों की समीक्षा की। सोशल मीडिया पोस्ट में विदेश मंत्री ने कहा कि उन्&#x200d;होंने रणनीतिक साझेदारी को और गहरा करने के नए अवसरों पर विचार-विमर्श किया। डॉ. जयशंकर ने भारतीय समुदाय की सुरक्षा तथा कल्याण सुनिश्चित करने के लिए कतर के प्रधानमंत्री को धन्यवाद दिया और पश्चिम एशिया संघर्ष तथा उसके प्रभाव पर उनके आकलन साझा करने की सराहना की।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T15:49:15+00:00",
-        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-met-with-the-prime-minister-and-foreign-minister-of-qatar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMeDEBTboAEMNMD.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ग्रामीण विकास मंत्रालय के वरिष्ठ अधिकारियों का एक दल आज से 11 जुलाई तक कर्नाटक के दौरे पर",
-        "summary": "ग्रामीण विकास मंत्रालय के वरिष्ठ अधिकारियों का एक दल आज से 11 जुलाई तक कर्नाटक के दौरे पर है। इसका उद्देश्य राज्य सरकार के अधिकारियों के साथ समीक्षा बैठकें करना और प्रमुख योजनाओं की प्रगति और कार्यान्वयन का आकलन करना है। अधिकारी बेलगावी और दावणगेरे जिलों का भी दौरा करेगा, जहां विकसित भारत &#8211; रोजगार […]",
-        "article": "ग्रामीण विकास मंत्रालय के वरिष्ठ अधिकारियों का एक दल आज से 11 जुलाई तक कर्नाटक के दौरे पर है। इसका उद्देश्य राज्य सरकार के अधिकारियों के साथ समीक्षा बैठकें करना और प्रमुख योजनाओं की प्रगति और कार्यान्वयन का आकलन करना है। अधिकारी बेलगावी और दावणगेरे जिलों का भी दौरा करेगा, जहां विकसित भारत &#8211; रोजगार और आजीविका मिशन -ग्रामीण और विकसित भारत-आरएजी योजनाओं के क्रियान्वयन में सहयोग कर सके और जमीनी स्तर पर इसके कार्यान्वयन की समीक्षा कर सके।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T15:41:51+00:00",
-        "link": "https://newsonair.gov.in/hi/a-team-of-senior-officials-from-the-ministry-of-rural-development-is-on-a-visit-to-karnataka-from-today-until-july-11/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "दिल्ली की मुख्यमंत्री रेखा गुप्ता और विधानसभा अध्‍यक्ष विजेन्‍द्र गुप्‍ता ने सुप्रसिद्ध पंडवानी गायिका तीजन बाई के निधन पर दुखः जताया",
-        "summary": "दिल्ली की मुख्यमंत्री रेखा गुप्ता और विधानसभा अध्‍यक्ष विजेन्‍द्र गुप्‍ता ने आज सुप्रसिद्ध पंडवानी गायिका तीजन बाई के निधन पर दुखः व्यक्त किया है। मुख्यमंत्री रेखा गुप्ता ने एक सोशल मीडिया पोस्ट में कहा कि तीजन बाई ने अपनी विलक्षण प्रतिभा और आजीवन साधना से भारतीय लोक परंपरा को नई प्रतिष्ठा दिलाई। साथ ही, उनकी […]",
-        "article": "दिल्ली की मुख्यमंत्री रेखा गुप्ता और विधानसभा अध्&#x200d;यक्ष विजेन्&#x200d;द्र गुप्&#x200d;ता ने आज सुप्रसिद्ध पंडवानी गायिका तीजन बाई के निधन पर दुखः व्यक्त किया है। मुख्यमंत्री रेखा गुप्ता ने एक सोशल मीडिया पोस्ट में कहा कि तीजन बाई ने अपनी विलक्षण प्रतिभा और आजीवन साधना से भारतीय लोक परंपरा को नई प्रतिष्ठा दिलाई। साथ ही, उनकी कला ने हमारी सांस्कृतिक विरासत को समृद्ध किया और अनगिनत कलाकारों को प्रेरणा दी। मुख्यमंत्री ने कहा कि उनका जाना भारतीय लोककला जगत के लिए अपूरणीय क्षति है। वहीं, विधानसभा अध्&#x200d;यक्ष ने कहा कि तीजन बाई ने अपनी विलक्षण कला, सशक्त अभिव्यक्ति और आजीवन साधना से पंडवानी को विश्वभर में नई पहचान दिलाई। विधानसभा अध्&#x200d;यक्ष ने प्रार्थना की है कि दिवंगत आत्मा को अपने श्रीचरणों में स्थान दें और शोकाकुल परिजनों को यह अपार दुःख सहन करने की शक्ति प्रदान करें।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T15:37:46+00:00",
-        "link": "https://newsonair.gov.in/hi/delhi-chief-minister-rekha-gupta-and-assembly-speaker-vijender-gupta-expressed-grief-over-the-passing-of-renowned-pandvani-singer-teejan-bai/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMeBgzVasAAnzFL.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतीय नौसेना के पूर्वी बेड़े के उदयगिरि, शक्ति और कवरत्ती युद्धपोत ने सिंगापुर के चांगी नौसैनिक अड्डे का दौरा पूरा किया",
-        "summary": "भारतीय नौसेना के पूर्वी बेड़े के उदयगिरि, शक्ति और कवरत्ती युद्धपोत ने सिंगापुर के चांगी नौसैनिक अड्डे का दौरा पूरा कर लिया है। यह दौरा भारतीय नौसेना की परिचालन तैनाती का हिस्सा था। आसियान-भारत समुद्री सहयोग वर्ष और भारत सरकार की एक्ट ईस्ट नीति अनुरूप यह तैनाती की गई थी। रक्षा मंत्रालय ने बताया कि […]",
-        "article": "भारतीय नौसेना के पूर्वी बेड़े के उदयगिरि, शक्ति और कवरत्ती युद्धपोत ने सिंगापुर के चांगी नौसैनिक अड्डे का दौरा पूरा कर लिया है। यह दौरा भारतीय नौसेना की परिचालन तैनाती का हिस्सा था। आसियान-भारत समुद्री सहयोग वर्ष और भारत सरकार की एक्ट ईस्ट नीति अनुरूप यह तैनाती की गई थी। रक्षा मंत्रालय ने बताया कि तीन दिवसीय कार्यक्रम के दौरान दोनों नौसेनाओं के बीच अंतर-संचालनीयता और नौसैनिक सहयोग मजबूत करने के लिए क्रॉस-डेक दौरों सहित पेशेवर बातचीत हुई। मंत्रालय ने कहा कि यह दौरा भारत और सिंगापुर के बीच बढ़ती समुद्री साझेदारी में एक और महत्वपूर्ण उपल्बधि है।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T14:49:51+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-navys-eastern-fleet-warships-udaygiri-shakti-and-kavaratti-concluded-their-visit-to-singapores-changi-naval-base/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMd8diNakAEkLtz-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "एफपीआई ने जुलाई के तीन शुरूआती कारोबारी सत्रों में इस महीने अब तक 708 करोड़ रुपये के भारतीय शेयर खरीदे",
-        "summary": "विदेशी पोर्टफोलियो निवेशकों-एफपीआई ने जुलाई के तीन शुरूआती कारोबारी सत्रों में लिवाली का रूख बनाए रखा और इस महीने अब तक 708 करोड़ रुपये के भारतीय शेयर खरीदे। जून में उन्‍होंने भारतीय शेयर बाजार से 49 हजार 340 करोड़ रुपये निकाले थे, लेकिन अब यह रूख उलटता हुआ दिखाई दे रहा है। लेकिन भारतीय ऋण […]",
-        "article": "विदेशी पोर्टफोलियो निवेशकों-एफपीआई ने जुलाई के तीन शुरूआती कारोबारी सत्रों में लिवाली का रूख बनाए रखा और इस महीने अब तक 708 करोड़ रुपये के भारतीय शेयर खरीदे। जून में उन्&#x200d;होंने भारतीय शेयर बाजार से 49 हजार 340 करोड़ रुपये निकाले थे, लेकिन अब यह रूख उलटता हुआ दिखाई दे रहा है। लेकिन भारतीय ऋण बाजार में एफपीआई ने पिछले महीने काफी दिलचस्&#x200d;पी दिखाई थी। जेनरल लिमिट के तहत उन्&#x200d;होंने 30 हजार 620 करोड़ रुपये , एफएआर के जरिये 21 हजार 652 करोड़ रुपये और वीआरआर के तहत तीन हजार 246 करोड़ रुपये का निवेश किया। सरकारी प्रतिभूतियों में विदेशी संस्&#x200d;थागत निवेशकों को कैपिटल गेन्&#x200d;स और ब्&#x200d;याज से होने वाली आय पर मिली छूट से और निवेश की सीमा हटाए जाने से भारतीय ऋण बाजार में विदेशी निवेश बढ़ा है। कुल मिलाकर जून में भारतीय पूंजी बाजार में एफपीआई ने चार हजार छह सौ उनहत्&#x200d;तर करोड़ रुपये का निेवेश किया है। उससे पहले के तीन महीनों में उन्&#x200d;होंने भारतीय बाजार से पैसे निकाले थे।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T14:44:07+00:00",
-        "link": "https://newsonair.gov.in/hi/fpis-bought-indian-shares-worth-rs-708-crore-in-the-first-three-trading-sessions-of-july-taking-their-total-purchases-so-far-this-month/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FPI.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "फैक्ट चैक:विदेश मंत्रालय ने कुछ व्यक्तियों द्वारा नीतिगत मामलों पर सलाह देने के दावों का खंडन किया",
-        "summary": "विदेश मंत्रालय ने सोशल मीडिया पर कुछ व्यक्तियों द्वारा व्यापार, प्रवासन और अन्य नीतिगत मामलों पर मंत्रालय को सलाह देने संबंधी दावों का खंडन किया है। विदेश मंत्रालय की तथ्य जांच इकाई ने कहा कि ये सोशल मीडिया हैंडल मंत्रालय के साथ काम करने के तरीकों पर सशुल्क सलाह के साथ-साथ सत्र भी आयोजित कर […]",
-        "article": "विदेश मंत्रालय ने सोशल मीडिया पर कुछ व्यक्तियों द्वारा व्यापार, प्रवासन और अन्य नीतिगत मामलों पर मंत्रालय को सलाह देने संबंधी दावों का खंडन किया है। विदेश मंत्रालय की तथ्य जांच इकाई ने कहा कि ये सोशल मीडिया हैंडल मंत्रालय के साथ काम करने के तरीकों पर सशुल्क सलाह के साथ-साथ सत्र भी आयोजित कर रहे हैं। तथ्य जांच ईकाई ने स्पष्ट किया कि इन व्यक्तियों का विदेश मंत्रालय से कोई संबंध नहीं है। मंत्रालय ने सभी लोगों से सोशल मीडिया पर इस तरह की फर्जी दावों से सावधान रहने को कहा है।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T14:23:09+00:00",
-        "link": "https://newsonair.gov.in/hi/fact-check-ministry-of-external-affairs-refutes-claims-by-certain-individuals-regarding-the-provision-of-advice-on-policy-matters-2/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/7iSSwwmr_400x400.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वेनेजुएला की कार्यवाहक राष्ट्रपति डेल्सी रोड्रिगेज ने विनाशकारी भूकंप के बाद सहायता के लिए भारत का आभार व्यक्त किया",
-        "summary": "वेनेजुएला की कार्यवाहक राष्ट्रपति डेल्सी रोड्रिगेज ने विनाशकारी भूकंप के बाद सहायता के लिए भारत का आभार व्यक्त किया है। सोशल मीडिया पोस्ट में सुश्री रोड्रिगेज ने कहा कि ब्रिटेन, कतर, फ्रांस, भारत, बारबाडोस, ब्राजील और अर्जेंटीना के बचावकर्मियों को उनके अमूल्य योगदान और संकट की इस घड़ी में एकजुटता प्रयासों के प्रति वेनेजुएला सम्मान […]",
-        "article": "वेनेजुएला की कार्यवाहक राष्ट्रपति डेल्सी रोड्रिगेज ने विनाशकारी भूकंप के बाद सहायता के लिए भारत का आभार व्यक्त किया है। सोशल मीडिया पोस्ट में सुश्री रोड्रिगेज ने कहा कि ब्रिटेन, कतर, फ्रांस, भारत, बारबाडोस, ब्राजील और अर्जेंटीना के बचावकर्मियों को उनके अमूल्य योगदान और संकट की इस घड़ी में एकजुटता प्रयासों के प्रति वेनेजुएला सम्मान व्&#x200d;यक्&#x200d;त करता है।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T14:18:20+00:00",
-        "link": "https://newsonair.gov.in/hi/venezuelas-acting-president-delcy-rodriguez-expressed-gratitude-to-india-for-the-aid-provided-following-the-devastating-earthquake/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-05-194746.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "politics": [
-      {
-        "title": "राजधानी के विभिन्‍न क्षेत्रों में बारिश से उमसभरी गर्मी से राहत मिली",
-        "summary": "राजधानी के विभिन्‍न क्षेत्रों में आज बारिश हुई, जिससे लोगों को उमसभरी गर्मी से राहत मिली। आज का अधिकतम तापमान 38.6 डिग्री सेल्सियस दर्ज किया गया। वहीं, न्यूनतम तापमान 29.2 डिग्री सेल्सियस दर्ज किया गया। मौसम विभाग के अनुसार कल गरज के साथ हल्‍की वर्षा होने के साथ-साथ बादल छाये रहने की संभावना है। विभाग […]",
-        "article": "राजधानी के विभिन्&#x200d;न क्षेत्रों में आज बारिश हुई, जिससे लोगों को उमसभरी गर्मी से राहत मिली। आज का अधिकतम तापमान 38.6 डिग्री सेल्सियस दर्ज किया गया। वहीं, न्यूनतम तापमान 29.2 डिग्री सेल्सियस दर्ज किया गया। मौसम विभाग के अनुसार कल गरज के साथ हल्&#x200d;की वर्षा होने के साथ-साथ बादल छाये रहने की संभावना है। विभाग के अनुसार कल का अधिकतम तापमान 31 से 33 डिग्री सेल्सियस और न्यूनतम तापमान 26 से 28 डिग्री सेल्सियस रहने का अनुमान है।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T16:16:55+00:00",
-        "link": "https://newsonair.gov.in/hi/rain-brought-relief-from-the-sultry-heat-in-various-parts-of-the-capital/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/7.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कौशल विकास और उद्यमिता मंत्रालय ने नवाचार मंत्र के लिए पंजीकरण की अंतिम तिथि 15 जुलाई तक बढ़ाई",
-        "summary": "कौशल विकास और उद्यमिता मंत्रालय ने अपने प्रमुख राष्ट्रीय नवाचार मंच नवाचार मंत्र के लिए पंजीकरण की अंतिम तिथि 15 जुलाई तक बढ़ा दी है। मंत्रालय ने कहा कि देश भर के नवोन्मेषकों की अत्यधिक रुचि को देखते हुए यह निर्णय लिया गया है। मंत्रालय ने आगे कहा कि आधिकारिक नवाचार मंत्र पंजीकरण पोर्टल पर […]",
-        "article": "कौशल विकास और उद्यमिता मंत्रालय ने अपने प्रमुख राष्ट्रीय नवाचार मंच नवाचार मंत्र के लिए पंजीकरण की अंतिम तिथि 15 जुलाई तक बढ़ा दी है। मंत्रालय ने कहा कि देश भर के नवोन्मेषकों की अत्यधिक रुचि को देखते हुए यह निर्णय लिया गया है। मंत्रालय ने आगे कहा कि आधिकारिक नवाचार मंत्र पंजीकरण पोर्टल पर अब तक हजारों इच्छुक उद्यमियों और नवोन्मेषकों ने पंजीकरण कराया है। नवाचार मंत्र राष्ट्रीय उद्यमिता एवं लघु व्यवसाय विकास संस्थान द्वारा फाउंडेशन फॉर इनोवेशन एंड टेक्नोलॉजी ट्रांसफर &#8211; एफआईटीटी और आईआईटी दिल्ली के सहयोग से कार्यान्वित किया जा रहा है। इस पहल का उद्देश्य संरचित मार्गदर्शन, विशेषज्ञ सलाह, उद्योग से संपर्क और बाजार तक पहुंच के माध्यम से उच्च क्षमता वाले उद्यमशीलता विचारों की पहचान पोषित और गति प्रदान करना है।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T16:06:46+00:00",
-        "link": "https://newsonair.gov.in/hi/the-ministry-of-skill-development-and-entrepreneurship-has-extended-the-registration-deadline-for-navachar-mantra-to-july-15/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Dater.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गुरुदेव रवींद्रनाथ टैगोर की ऐतिहासिक यात्रा की शताब्दी मनाएगा इंडोनेशिया",
-        "summary": "इंडोनेशिया, गुरुदेव रवींद्रनाथ टैगोर की वहां की ऐतिहासिक यात्रा की शताब्दी मनाएगा। इसके लिए वर्ष 2026 और 2027 के दौरान 15 महीने का कार्यक्रम आयोजित किया जाएगा। इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने आकाशवाणी समाचार से बातचीत में कहा कि प्रधानमंत्री नरेन्‍द्र मोदी की कल से शुरू होने वाली इंडोनेशिया यात्रा के दौरान […]",
-        "article": "इंडोनेशिया, गुरुदेव रवींद्रनाथ टैगोर की वहां की ऐतिहासिक यात्रा की शताब्दी मनाएगा। इसके लिए वर्ष 2026 और 2027 के दौरान 15 महीने का कार्यक्रम आयोजित किया जाएगा। इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने आकाशवाणी समाचार से बातचीत में कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी की कल से शुरू होने वाली इंडोनेशिया यात्रा के दौरान इन कार्यक्रमों का शुभारंभ किया जाएगा। शताब्दी समारोहों में प्रदर्शनियां और पूरे वर्ष चलने वाले सांस्कृतिक कार्यक्रम आयोजित किए जाएंगे। राजदूत ने बताया कि गुरुदेव रवींद्रनाथ टैगोर ने वर्ष 1927 में लगभग तीन महीने इंडोनेशिया में बिताए, व्यापक यात्रा की और देश की समृद्ध परंपराओं में खुद को समाहित किया। अपनी यात्रा से अत्यधिक प्रेरित होकर, उन्&#x200d;होंने बाद में अपने सहयोगियों को इंडोनेशिया भेजा ताकि वे वहाँ की कला, नृत्य, संस्कृति और वास्तुकला का अध्ययन कर सकें। इससे दोनों देशों के बीच सांस्कृतिक आदान-प्रदान मजबूत हुआ। राजदूत चक्रवर्ती ने कहा कि टैगोर-देवंतारा शैक्षिक और सांस्कृतिक आदान-प्रदान कार्यक्रम भी शुरू किया जाएगा, जिसमें स्मृति अवधि के दौरान प्रदर्शनियों और सांस्कृतिक कार्यक्रमों का आयोजन किया जाएगा। रवींद्रनाथ टैगोर की इंडोनेशिया यात्रा पर संकलित एक नई पुस्तक प्रधानमंत्री को उनकी यात्रा के दौरान भेंट की जाएगी।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T15:51:39+00:00",
-        "link": "https://newsonair.gov.in/hi/indonesia-will-celebrate-the-centenary-of-gurudev-rabindranath-tagores-historic-visit/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMeSopFaoAAWR8z.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्री डॉ. एस. जयशंकर ने कतर के प्रधानमंत्री और विदेश मंत्री से मुलाकात की",
-        "summary": "विदेश मंत्री सुब्रह्मण्‍यम जयशंकर ने आज दोहा में कतर के प्रधानमंत्री और विदेश मंत्री मोहम्मद बिन अब्दुल रहमान बिन जसीम अल थानी से मुलाकात की। दोनों नेताओं ने द्विपक्षीय सहयोग के विभिन्न पहलुओं, विशेष रूप से ऊर्जा, व्यापार, निवेश, संपर्क, सुरक्षा और जन-संबंधों की समीक्षा की। सोशल मीडिया पोस्ट में विदेश मंत्री ने कहा कि […]",
-        "article": "विदेश मंत्री सुब्रह्मण्&#x200d;यम जयशंकर ने आज दोहा में कतर के प्रधानमंत्री और विदेश मंत्री मोहम्मद बिन अब्दुल रहमान बिन जसीम अल थानी से मुलाकात की। दोनों नेताओं ने द्विपक्षीय सहयोग के विभिन्न पहलुओं, विशेष रूप से ऊर्जा, व्यापार, निवेश, संपर्क, सुरक्षा और जन-संबंधों की समीक्षा की। सोशल मीडिया पोस्ट में विदेश मंत्री ने कहा कि उन्&#x200d;होंने रणनीतिक साझेदारी को और गहरा करने के नए अवसरों पर विचार-विमर्श किया। डॉ. जयशंकर ने भारतीय समुदाय की सुरक्षा तथा कल्याण सुनिश्चित करने के लिए कतर के प्रधानमंत्री को धन्यवाद दिया और पश्चिम एशिया संघर्ष तथा उसके प्रभाव पर उनके आकलन साझा करने की सराहना की।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T15:49:15+00:00",
-        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-met-with-the-prime-minister-and-foreign-minister-of-qatar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMeDEBTboAEMNMD.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ग्रामीण विकास मंत्रालय के वरिष्ठ अधिकारियों का एक दल आज से 11 जुलाई तक कर्नाटक के दौरे पर",
-        "summary": "ग्रामीण विकास मंत्रालय के वरिष्ठ अधिकारियों का एक दल आज से 11 जुलाई तक कर्नाटक के दौरे पर है। इसका उद्देश्य राज्य सरकार के अधिकारियों के साथ समीक्षा बैठकें करना और प्रमुख योजनाओं की प्रगति और कार्यान्वयन का आकलन करना है। अधिकारी बेलगावी और दावणगेरे जिलों का भी दौरा करेगा, जहां विकसित भारत &#8211; रोजगार […]",
-        "article": "ग्रामीण विकास मंत्रालय के वरिष्ठ अधिकारियों का एक दल आज से 11 जुलाई तक कर्नाटक के दौरे पर है। इसका उद्देश्य राज्य सरकार के अधिकारियों के साथ समीक्षा बैठकें करना और प्रमुख योजनाओं की प्रगति और कार्यान्वयन का आकलन करना है। अधिकारी बेलगावी और दावणगेरे जिलों का भी दौरा करेगा, जहां विकसित भारत &#8211; रोजगार और आजीविका मिशन -ग्रामीण और विकसित भारत-आरएजी योजनाओं के क्रियान्वयन में सहयोग कर सके और जमीनी स्तर पर इसके कार्यान्वयन की समीक्षा कर सके।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T15:41:51+00:00",
-        "link": "https://newsonair.gov.in/hi/a-team-of-senior-officials-from-the-ministry-of-rural-development-is-on-a-visit-to-karnataka-from-today-until-july-11/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "दिल्ली की मुख्यमंत्री रेखा गुप्ता और विधानसभा अध्‍यक्ष विजेन्‍द्र गुप्‍ता ने सुप्रसिद्ध पंडवानी गायिका तीजन बाई के निधन पर दुखः जताया",
-        "summary": "दिल्ली की मुख्यमंत्री रेखा गुप्ता और विधानसभा अध्‍यक्ष विजेन्‍द्र गुप्‍ता ने आज सुप्रसिद्ध पंडवानी गायिका तीजन बाई के निधन पर दुखः व्यक्त किया है। मुख्यमंत्री रेखा गुप्ता ने एक सोशल मीडिया पोस्ट में कहा कि तीजन बाई ने अपनी विलक्षण प्रतिभा और आजीवन साधना से भारतीय लोक परंपरा को नई प्रतिष्ठा दिलाई। साथ ही, उनकी […]",
-        "article": "दिल्ली की मुख्यमंत्री रेखा गुप्ता और विधानसभा अध्&#x200d;यक्ष विजेन्&#x200d;द्र गुप्&#x200d;ता ने आज सुप्रसिद्ध पंडवानी गायिका तीजन बाई के निधन पर दुखः व्यक्त किया है। मुख्यमंत्री रेखा गुप्ता ने एक सोशल मीडिया पोस्ट में कहा कि तीजन बाई ने अपनी विलक्षण प्रतिभा और आजीवन साधना से भारतीय लोक परंपरा को नई प्रतिष्ठा दिलाई। साथ ही, उनकी कला ने हमारी सांस्कृतिक विरासत को समृद्ध किया और अनगिनत कलाकारों को प्रेरणा दी। मुख्यमंत्री ने कहा कि उनका जाना भारतीय लोककला जगत के लिए अपूरणीय क्षति है। वहीं, विधानसभा अध्&#x200d;यक्ष ने कहा कि तीजन बाई ने अपनी विलक्षण कला, सशक्त अभिव्यक्ति और आजीवन साधना से पंडवानी को विश्वभर में नई पहचान दिलाई। विधानसभा अध्&#x200d;यक्ष ने प्रार्थना की है कि दिवंगत आत्मा को अपने श्रीचरणों में स्थान दें और शोकाकुल परिजनों को यह अपार दुःख सहन करने की शक्ति प्रदान करें।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T15:37:46+00:00",
-        "link": "https://newsonair.gov.in/hi/delhi-chief-minister-rekha-gupta-and-assembly-speaker-vijender-gupta-expressed-grief-over-the-passing-of-renowned-pandvani-singer-teejan-bai/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMeBgzVasAAnzFL.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतीय नौसेना के पूर्वी बेड़े के उदयगिरि, शक्ति और कवरत्ती युद्धपोत ने सिंगापुर के चांगी नौसैनिक अड्डे का दौरा पूरा किया",
-        "summary": "भारतीय नौसेना के पूर्वी बेड़े के उदयगिरि, शक्ति और कवरत्ती युद्धपोत ने सिंगापुर के चांगी नौसैनिक अड्डे का दौरा पूरा कर लिया है। यह दौरा भारतीय नौसेना की परिचालन तैनाती का हिस्सा था। आसियान-भारत समुद्री सहयोग वर्ष और भारत सरकार की एक्ट ईस्ट नीति अनुरूप यह तैनाती की गई थी। रक्षा मंत्रालय ने बताया कि […]",
-        "article": "भारतीय नौसेना के पूर्वी बेड़े के उदयगिरि, शक्ति और कवरत्ती युद्धपोत ने सिंगापुर के चांगी नौसैनिक अड्डे का दौरा पूरा कर लिया है। यह दौरा भारतीय नौसेना की परिचालन तैनाती का हिस्सा था। आसियान-भारत समुद्री सहयोग वर्ष और भारत सरकार की एक्ट ईस्ट नीति अनुरूप यह तैनाती की गई थी। रक्षा मंत्रालय ने बताया कि तीन दिवसीय कार्यक्रम के दौरान दोनों नौसेनाओं के बीच अंतर-संचालनीयता और नौसैनिक सहयोग मजबूत करने के लिए क्रॉस-डेक दौरों सहित पेशेवर बातचीत हुई। मंत्रालय ने कहा कि यह दौरा भारत और सिंगापुर के बीच बढ़ती समुद्री साझेदारी में एक और महत्वपूर्ण उपल्बधि है।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T14:49:51+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-navys-eastern-fleet-warships-udaygiri-shakti-and-kavaratti-concluded-their-visit-to-singapores-changi-naval-base/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMd8diNakAEkLtz-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "एफपीआई ने जुलाई के तीन शुरूआती कारोबारी सत्रों में इस महीने अब तक 708 करोड़ रुपये के भारतीय शेयर खरीदे",
-        "summary": "विदेशी पोर्टफोलियो निवेशकों-एफपीआई ने जुलाई के तीन शुरूआती कारोबारी सत्रों में लिवाली का रूख बनाए रखा और इस महीने अब तक 708 करोड़ रुपये के भारतीय शेयर खरीदे। जून में उन्‍होंने भारतीय शेयर बाजार से 49 हजार 340 करोड़ रुपये निकाले थे, लेकिन अब यह रूख उलटता हुआ दिखाई दे रहा है। लेकिन भारतीय ऋण […]",
-        "article": "विदेशी पोर्टफोलियो निवेशकों-एफपीआई ने जुलाई के तीन शुरूआती कारोबारी सत्रों में लिवाली का रूख बनाए रखा और इस महीने अब तक 708 करोड़ रुपये के भारतीय शेयर खरीदे। जून में उन्&#x200d;होंने भारतीय शेयर बाजार से 49 हजार 340 करोड़ रुपये निकाले थे, लेकिन अब यह रूख उलटता हुआ दिखाई दे रहा है। लेकिन भारतीय ऋण बाजार में एफपीआई ने पिछले महीने काफी दिलचस्&#x200d;पी दिखाई थी। जेनरल लिमिट के तहत उन्&#x200d;होंने 30 हजार 620 करोड़ रुपये , एफएआर के जरिये 21 हजार 652 करोड़ रुपये और वीआरआर के तहत तीन हजार 246 करोड़ रुपये का निवेश किया। सरकारी प्रतिभूतियों में विदेशी संस्&#x200d;थागत निवेशकों को कैपिटल गेन्&#x200d;स और ब्&#x200d;याज से होने वाली आय पर मिली छूट से और निवेश की सीमा हटाए जाने से भारतीय ऋण बाजार में विदेशी निवेश बढ़ा है। कुल मिलाकर जून में भारतीय पूंजी बाजार में एफपीआई ने चार हजार छह सौ उनहत्&#x200d;तर करोड़ रुपये का निेवेश किया है। उससे पहले के तीन महीनों में उन्&#x200d;होंने भारतीय बाजार से पैसे निकाले थे।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T14:44:07+00:00",
-        "link": "https://newsonair.gov.in/hi/fpis-bought-indian-shares-worth-rs-708-crore-in-the-first-three-trading-sessions-of-july-taking-their-total-purchases-so-far-this-month/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FPI.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "फैक्ट चैक:विदेश मंत्रालय ने कुछ व्यक्तियों द्वारा नीतिगत मामलों पर सलाह देने के दावों का खंडन किया",
-        "summary": "विदेश मंत्रालय ने सोशल मीडिया पर कुछ व्यक्तियों द्वारा व्यापार, प्रवासन और अन्य नीतिगत मामलों पर मंत्रालय को सलाह देने संबंधी दावों का खंडन किया है। विदेश मंत्रालय की तथ्य जांच इकाई ने कहा कि ये सोशल मीडिया हैंडल मंत्रालय के साथ काम करने के तरीकों पर सशुल्क सलाह के साथ-साथ सत्र भी आयोजित कर […]",
-        "article": "विदेश मंत्रालय ने सोशल मीडिया पर कुछ व्यक्तियों द्वारा व्यापार, प्रवासन और अन्य नीतिगत मामलों पर मंत्रालय को सलाह देने संबंधी दावों का खंडन किया है। विदेश मंत्रालय की तथ्य जांच इकाई ने कहा कि ये सोशल मीडिया हैंडल मंत्रालय के साथ काम करने के तरीकों पर सशुल्क सलाह के साथ-साथ सत्र भी आयोजित कर रहे हैं। तथ्य जांच ईकाई ने स्पष्ट किया कि इन व्यक्तियों का विदेश मंत्रालय से कोई संबंध नहीं है। मंत्रालय ने सभी लोगों से सोशल मीडिया पर इस तरह की फर्जी दावों से सावधान रहने को कहा है।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T14:23:09+00:00",
-        "link": "https://newsonair.gov.in/hi/fact-check-ministry-of-external-affairs-refutes-claims-by-certain-individuals-regarding-the-provision-of-advice-on-policy-matters-2/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/7iSSwwmr_400x400.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वेनेजुएला की कार्यवाहक राष्ट्रपति डेल्सी रोड्रिगेज ने विनाशकारी भूकंप के बाद सहायता के लिए भारत का आभार व्यक्त किया",
-        "summary": "वेनेजुएला की कार्यवाहक राष्ट्रपति डेल्सी रोड्रिगेज ने विनाशकारी भूकंप के बाद सहायता के लिए भारत का आभार व्यक्त किया है। सोशल मीडिया पोस्ट में सुश्री रोड्रिगेज ने कहा कि ब्रिटेन, कतर, फ्रांस, भारत, बारबाडोस, ब्राजील और अर्जेंटीना के बचावकर्मियों को उनके अमूल्य योगदान और संकट की इस घड़ी में एकजुटता प्रयासों के प्रति वेनेजुएला सम्मान […]",
-        "article": "वेनेजुएला की कार्यवाहक राष्ट्रपति डेल्सी रोड्रिगेज ने विनाशकारी भूकंप के बाद सहायता के लिए भारत का आभार व्यक्त किया है। सोशल मीडिया पोस्ट में सुश्री रोड्रिगेज ने कहा कि ब्रिटेन, कतर, फ्रांस, भारत, बारबाडोस, ब्राजील और अर्जेंटीना के बचावकर्मियों को उनके अमूल्य योगदान और संकट की इस घड़ी में एकजुटता प्रयासों के प्रति वेनेजुएला सम्मान व्&#x200d;यक्&#x200d;त करता है।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T14:18:20+00:00",
-        "link": "https://newsonair.gov.in/hi/venezuelas-acting-president-delcy-rodriguez-expressed-gratitude-to-india-for-the-aid-provided-following-the-devastating-earthquake/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-05-194746.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "world": [
-      {
-        "title": "ब्रिटेन की सेना ने कहा- लाल सागर में यमन के तट पर आज एक मालवाहक जहाज पर हमला हुआ",
-        "summary": "ब्रिटेन की सेना ने बताया कि लाल सागर में यमन के तट पर आज एक मालवाहक जहाज पर हमला हुआ। ब्रिटेन की यूनाइटेड किंगडम मैरीटाइम ट्रेड ऑपरेशंस &#8211; यूकेएमटीओ ने बताया कि यह हमला होदेइदा के पास हुआ, जो ईरान समर्थित हूती विद्रोहियों के नियंत्रण वाले क्षेत्र में है। यूकेएमटीओ ने बताया कि जहाज ने […]",
-        "article": "ब्रिटेन की सेना ने बताया कि लाल सागर में यमन के तट पर आज एक मालवाहक जहाज पर हमला हुआ। ब्रिटेन की यूनाइटेड किंगडम मैरीटाइम ट्रेड ऑपरेशंस &#8211; यूकेएमटीओ ने बताया कि यह हमला होदेइदा के पास हुआ, जो ईरान समर्थित हूती विद्रोहियों के नियंत्रण वाले क्षेत्र में है। यूकेएमटीओ ने बताया कि जहाज ने होदेइदा से 55 किलोमीटर दक्षिण-पश्चिम में अज्ञात सशस्त्र हमलावरों द्वारा हमले की सूचना दी है। मामले की जांच की जा रही है। हालांकि, अभी तक किसी भी समूह ने हमले की जिम्मेदारी नहीं ली है।हूती विद्रोहियों ने जहाजों पर फिर से हमले शुरू करने की धमकी दी थी, लेकिन हाल के दिनों में उन्&#x200d;होंने ऐसे हमले नहीं किए थे।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T16:17:10+00:00",
-        "link": "https://newsonair.gov.in/hi/the-british-military-said-a-cargo-ship-was-attacked-off-the-coast-of-yemen-in-the-red-sea-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1526,49 +1155,97 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR2.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
+      }
+    ],
+    "breaking": [
       {
-        "title": "गुवाहाटी में होगी ब्रिक्स देशों की मादक पदार्थ निरोधक एजेंसियों के प्रमुखों की बैठक",
-        "summary": "भारत असम के गुवाहाटी में कल से शुरू हो रही दो दिवसीय ब्रिक्स मादक पदार्थ रोधी एजेंसियों के प्रमुखों की बैठक की मेजबानी करेगा। गृह मंत्रालय ने कहा कि यह बैठक ब्रिक्स के सदस्य देशों के मादक पदार्थ रोधी एजेंसियों के प्रमुखों और वरिष्ठ अधिकारियों को एक मंच प्रदान करेगी। इससे मादक पदार्थ नियंत्रण एजेंसियों […]",
-        "article": "भारत असम के गुवाहाटी में कल से शुरू हो रही दो दिवसीय ब्रिक्स मादक पदार्थ रोधी एजेंसियों के प्रमुखों की बैठक की मेजबानी करेगा। गृह मंत्रालय ने कहा कि यह बैठक ब्रिक्स के सदस्य देशों के मादक पदार्थ रोधी एजेंसियों के प्रमुखों और वरिष्ठ अधिकारियों को एक मंच प्रदान करेगी। इससे मादक पदार्थ नियंत्रण एजेंसियों के समूहों में संस्थागत निरंतरता को सशक्त बनाने तथा गहन परिचालन सहयोग को बढ़ावा देने में मदद मिलेगी। स्वापक नियंत्रण ब्यूरों की मेजबानी में हो रही यह बैठक कृत्रिम दवाओं और पूर्ववर्ती पदार्थों के दुरुपयोग से निपटने, खुफिया जानकारी साझा करने और परिचालन समन्वय को मजबूत करने तथा क्षमता निर्माण और संस्थागत सहयोग सहित कई क्षेत्रों पर ध्यान केंद्रित करेगी। भारत ब्रिक्स के सहयोग को संवाद केंद्रित संपर्क से संरचित और कार्योन्मुख सहयोग में परिवर्तित करने की दिशा में एक महत्वपूर्ण कदम के रूप में इस बैठक की परिकल्पना करता है। यह बैठक मादक पदार्थ के खतरों से निपटने में निर्णायक प्रयासों का प्रदर्शन करने के लिए भारत को एक अवसर प्रदान करेगी। स्वापक औषधि और मनःप्रभावी पदार्थ जन सुरक्षा और स्वास्थ्य तथा देश के युवाओं के भविष्य के लिए एक गंभीर खतरा है। इस दो दिवसीय बैठक की एक साझा घोषणा पत्र को अपनाने के साथ संपन्न होने की आशा की जा रही है। इसका उद्देश्य ब्रिक्स राष्ट्रों में सीमापार मादक पदार्थ के खतरों के विरूद्ध समेकित कार्रवाई को सशक्त बनाना है।",
+        "title": "उर्वरक लेकर आ रहे 15 जहाज सुरक्षित रूप से होर्मुज जलडमरूमध्य पार",
+        "summary": "रसायन और उर्वरक मंत्रालय ने आज बताया कि उर्वरक तथा कच्चा माल भारत ला रहे कुल 15 जहाज होर्मुज जलडमरूमध्य को सुरक्षित रूप से पार कर चुके हैं। मंत्रालय ने बताया कि इन 15 जहाजों में से आठ जहाज तीन लाख बत्तीस हजार मीट्रिक टन यूरिया, चार जहाज दो लाख सत्तावन हजार मीट्रिक टन डायअमोनियम […]",
+        "article": "रसायन और उर्वरक मंत्रालय ने आज बताया कि उर्वरक तथा कच्चा माल भारत ला रहे कुल 15 जहाज होर्मुज जलडमरूमध्य को सुरक्षित रूप से पार कर चुके हैं। मंत्रालय ने बताया कि इन 15 जहाजों में से आठ जहाज तीन लाख बत्तीस हजार मीट्रिक टन यूरिया, चार जहाज दो लाख सत्तावन हजार मीट्रिक टन डायअमोनियम फॉस्फेट और तीन जहाज एक लाख ग्यारह हजार मीट्रिक टन सल्फर लेकर भारत रवाना हो चुके हैं। मंत्रालय ने आगे बताया कि पांच और जहाज भारत के लिए रवाना होने वाले हैं। रसायन और उर्वरक मंत्री जगत प्रकाश नड्डा ने कहा कि पश्चिम एशिया संघर्ष ने वैश्विक आपूर्ति श्रृंखलाओं को बुरी तरह प्रभावित किया है। इससे उर्वरकों की कीमतें बढ़ गई हैं और माल ढुलाई में अधिक समय लग रहा है। उन्होंने कहा कि विदेशों में स्थित भारतीय दूतावासों ने संभावित वैश्विक उत्पादकों और आपूर्तिकर्ताओं से संपर्क स्थापित करने में सक्रिय रूप से सहायता की है। श्री नड्डा ने कहा कि उर्वरक विभाग क्षेत्रीय उपलब्धता और पारदर्शी वितरण सुनिश्चित करने के लिए राज्य सरकारों के साथ लगातार समन्वय कर रहा है। उन्होंने कहा कि प्रधानमंत्री नरेंद्र मोदी के नेतृत्व में सरकार ने किसानों के हितों की पूर्ण सुरक्षा सुनिश्चित की है।",
         "date": "2026-07-05",
-        "pubDate": "2026-07-05T08:26:33+00:00",
-        "link": "https://newsonair.gov.in/hi/brics-anti-drug/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607053852563.jpg",
+        "pubDate": "2026-07-05T16:51:23+00:00",
+        "link": "https://newsonair.gov.in/hi/15-ships-carrying-fertilizer-safely-cross-the-strait-of-hormuz/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMem4CobsAAvo-C.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "अमरीका ने स्वाधीनता की 250वीं वर्षगांठ मनाई, राष्ट्रपति ट्रंप ने सेवानिवृत्त सैनिकों को श्रद्धांजलि दी",
-        "summary": "अमरीका ने कल राष्ट्रव्यापी समारोह के साथ अपनी स्वाधीनता की 250वीं वर्षगांठ मनाई। मौसम संबंधी बाधा के बाद वाशिंगटन में आयोजित मुख्य कार्यक्रम नेशनल मॉल में फिर शुरू हुआ। इस कार्यक्रम में एकत्रित हज़ारों लोगों को राष्ट्रपति डॉनल्ड ट्रंप ने संबोधित किया। अपने संबोधन में राष्ट्रपति ट्रंप ने सेवानिवृत्त अमरीकी सैनिकों को श्रद्धांजलि अर्पित […]",
-        "article": "अमरीका ने कल राष्ट्रव्यापी समारोह के साथ अपनी स्वाधीनता की 250वीं वर्षगांठ मनाई। मौसम संबंधी बाधा के बाद वाशिंगटन में आयोजित मुख्य कार्यक्रम नेशनल मॉल में फिर शुरू हुआ। इस कार्यक्रम में एकत्रित हज़ारों लोगों को राष्ट्रपति डॉनल्ड ट्रंप ने संबोधित किया। अपने संबोधन में राष्ट्रपति ट्रंप ने सेवानिवृत्त अमरीकी सैनिकों को श्रद्धांजलि अर्पित की। उन्होंने राष्ट्र के इतिहास में इस वर्षगांठ को एक ऐतिहासिक क्षण बताया। राष्ट्रपति ट्रंप ने कहा कि अमरीका अपनी सेना, अर्थव्यवस्था और प्रौद्योगिकी क्षमताओं को सशक्त बनाना जारी रखेगा। उन्होंने चंद्रमा और मंगल पर भविष्य के मिशनों सहित अंतरिक्ष अन्वेषण में देश की महत्वकांक्षा की पुनः पुष्टि की। इस समारोह के दौरान सैन्य फ्लाई पास्ट, ऐतिहासिक प्रदर्शन और नेशनल मॉल के ऊपर आतिशबाजी का प्रदर्शन किया गया। ईस्ट कोस्ट के कई हिस्सों को प्रभावित करने वाले कठिन मौसम और लू के बावजूद न्यूयॉर्क और फिलाडेल्फिया सहित कई शहरों में स्मारक कार्यक्रम भी आयोजित किए गए थे। अमरीका ने चार जुलाई 1776 को ब्रिटेन से अपनी स्वाधीनता घोषित की। पूरे वर्ष चलने वाले कार्यक्रम के साथ अमरीका की स्वाधीनता की 250वीं वर्षगांठ मनाई जा रही है।",
+        "title": "गृह मंत्री अमित शाह, केंद्रीय मंत्री जी. किशन रेड्डी ने अवैध कोयला खनन की समीक्षा की",
+        "summary": "गृह मंत्री अमित शाह और कोयला तथा खान मंत्री जी. किशन रेड्डी ने आज नई दिल्ली में एक उच्च स्तरीय बैठक में अवैध कोयला खनन और कोयला चोरी की स्थिति की समीक्षा की। बैठक के दौरान, गृह मंत्री ने धनबाद और आसपास के क्षेत्रों में अवैध कोयला खनन और चोरी की बिगड़ती स्थिति पर चिंता […]",
+        "article": "गृह मंत्री अमित शाह और कोयला तथा खान मंत्री जी. किशन रेड्डी ने आज नई दिल्ली में एक उच्च स्तरीय बैठक में अवैध कोयला खनन और कोयला चोरी की स्थिति की समीक्षा की। बैठक के दौरान, गृह मंत्री ने धनबाद और आसपास के क्षेत्रों में अवैध कोयला खनन और चोरी की बिगड़ती स्थिति पर चिंता व्यक्त की। गृह मंत्रालय ने बताया कि कोयला मंत्रालय के अधिकारियों ने श्री अमित शाह को सूचित किया कि पिछले वर्ष अक्टूबर के पहले सप्ताह में हुई समीक्षा के बाद से कई ठोस कदम उठाए गए हैं। उन्&#x200d;होंने कोयला मंत्रालय और सीआईएसएफ द्वारा अब तक उठाए गए कदमों की सराहना की। उन्होंने इस बात पर जोर दिया कि अवैध खनन की समस्या को रोकने के लिए अभी बहुत कुछ करने की आवश्यकता है।",
         "date": "2026-07-05",
-        "pubDate": "2026-07-05T08:08:56+00:00",
-        "link": "https://newsonair.gov.in/hi/us-independence-250th/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607053852398-scaled.jpg",
+        "pubDate": "2026-07-05T16:39:06+00:00",
+        "link": "https://newsonair.gov.in/hi/home-minister-amit-shah-and-union-minister-g-kishan-reddy-reviewed-illegal-coal-mining/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Amit-shah.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "विदेश राज्य मंत्री कीर्ति वर्धन सिंह संयुक्त राष्ट्र के एआई गर्वनेंस पर वैश्विक संवाद में भारतीय प्रतिनिधिमंडल का नेतृत्व करेंगे",
-        "summary": "विदेश राज्य मंत्री कीर्ति वर्धन सिंह कल से जिनेवा में एआई गर्वनेंस पर संयुक्त राष्ट्र के वैश्विक संवाद में भारतीय प्रतिनिधिमंडल का नेतृत्व करेंगे। विदेश मंत्रालय ने कहा कि ए.आई. गर्वनेंस पर वैश्विक संवाद एक सार्वभौमिक, बहु-हितधारक संयुक्त राष्ट्र मंच है, जिसकी स्थापना महासभा के एक संकल्प के अन्‍तर्गत की गई है। यह भविष्य के […]",
-        "article": "विदेश राज्य मंत्री कीर्ति वर्धन सिंह कल से जिनेवा में एआई गर्वनेंस पर संयुक्त राष्ट्र के वैश्विक संवाद में भारतीय प्रतिनिधिमंडल का नेतृत्व करेंगे। विदेश मंत्रालय ने कहा कि ए.आई. गर्वनेंस पर वैश्विक संवाद एक सार्वभौमिक, बहु-हितधारक संयुक्त राष्ट्र मंच है, जिसकी स्थापना महासभा के एक संकल्प के अन्&#x200d;तर्गत की गई है। यह भविष्य के समझौते के अन्&#x200d;तर्गत सितंबर 2024 में अपनाए गए वैश्विक डिजिटल समझौते के बाद स्थापित किया गया है। मंत्रालय ने कहा कि यह वैश्विक संवाद ए.आई. के अंतरराष्ट्रीय संचालन को आगे बढ़ाने का एक अनूठा अवसर है, जो अंतरराष्ट्रीय, क्षेत्रीय, राष्ट्रीय और बहु-हितधारक प्रयासों का पूरक है। वैज्ञानिक समझ, पारदर्शिता, जवाबदेही और मजबूत मानवीय निगरानी को बढ़ावा देने वाले स्वतंत्र अंतरराष्ट्रीय वैज्ञानिक पैनल के साथ मिलकर, यह संवाद विशेष रूप से विकासशील देशों में क्षमता निर्माण में मदद करेगा, ताकि ए.आई. प्रणालियों को सतत विकास की दिशा में निर्देशित किया जा सके। पिछले वर्ष अगस्त में अपनाई गई कार्य शर्तों और तौर-तरीकों के अनुरूप, सह-अध्यक्षों ने कई हितधारक परामर्श भी आयोजित किए थे, जिनमें इस वर्ष फरवरी में नई दिल्ली में आयोजित एआई प्रभाव सम्&#x200d;मेलन के दौरान आयोजित एक व्यक्तिगत परामर्श भी शामिल था। जिनेवा में आयोजित होने वाले दो दिवसीय वैश्विक एआई संवाद में एआई पर स्वतंत्र अंतर्राष्ट्रीय वैज्ञानिक पैनल की वार्षिक रिपोर्ट प्रस्तुत की जाएगी, जो ए.आई. की क्षमताओं, उभरते अवसरों और जोखिमों का पहला स्वतंत्र वैज्ञानिक मूल्यांकन प्रदान करती है।",
+        "title": "जम्मू-कश्मीर: वार्षिक श्री अमरनाथ यात्रा में दर्ज की गई भारी जनभागीदारी",
+        "summary": "जम्मू-कश्मीर में वार्षिक श्री अमरनाथ यात्रा में भारी जनभागीदारी दर्ज की गई है। तीर्थयात्रा के पहले तीन दिनों में 56 हजार से अधिक तीर्थयात्रियों ने पवित्र गुफा मंदिर में दर्शन किए। आज रिकॉर्ड 24 हजार 648 श्रद्धालुओं ने दर्शन किए। दूसरे दिन 19 हजार 221 और पहले दिन 12 हजार 168 तीर्थयात्रियों ने दर्शन किए […]",
+        "article": "जम्मू-कश्मीर में वार्षिक श्री अमरनाथ यात्रा में भारी जनभागीदारी दर्ज की गई है। तीर्थयात्रा के पहले तीन दिनों में 56 हजार से अधिक तीर्थयात्रियों ने पवित्र गुफा मंदिर में दर्शन किए। आज रिकॉर्ड 24 हजार 648 श्रद्धालुओं ने दर्शन किए। दूसरे दिन 19 हजार 221 और पहले दिन 12 हजार 168 तीर्थयात्रियों ने दर्शन किए थे। इसी बीच, उपराज्यपाल मनोज सिन्हा ने यात्रा की तैयारियों की समीक्षा करने के लिए आज नुवान-पहलगाम बेस कैंप का दौरा किया।",
         "date": "2026-07-05",
-        "pubDate": "2026-07-05T08:00:42+00:00",
-        "link": "https://newsonair.gov.in/hi/india-un-ai-dialogue/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260612175f-scaled.jpg",
+        "pubDate": "2026-07-05T16:37:22+00:00",
+        "link": "https://newsonair.gov.in/hi/jammu-kashmir-massive-public-participation-recorded-in-the-annual-shri-amarnath-yatra/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMehrqxbAAECecn-scaled.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "पीएम मोदी की इंडोनेशिया यात्रा से द्विपक्षीय सहयोग के नए अवसर खुलेंगे: भारतीय राजदूत संदीप चक्रवर्ती",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी की कल से शुरू होने वाली इंडोनेशिया यात्रा दोनों देशों के बीच मौजूदा संबंधों को मजबूती प्रदान करेगी और सहयोग के नए क्षेत्रों के द्वार खोलेगी। आज जकार्ता में आकाशवाणी को दिए एक साक्षात्कार में इंडोनेशिया में भारतीय राजदूत संदीप चक्रवर्ती ने कहा कि 6 से 8 जुलाई तक प्रधानमंत्री नरेंद्र मोदी […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी की कल से शुरू होने वाली इंडोनेशिया यात्रा दोनों देशों के बीच मौजूदा संबंधों को मजबूती प्रदान करेगी और सहयोग के नए क्षेत्रों के द्वार खोलेगी। आज जकार्ता में आकाशवाणी को दिए एक साक्षात्कार में इंडोनेशिया में भारतीय राजदूत संदीप चक्रवर्ती ने कहा कि 6 से 8 जुलाई तक प्रधानमंत्री नरेंद्र मोदी की इंडोनेशिया यात्रा के दौरान भारत और इंडोनेशिया के बीच सहयोग के कई नए क्षेत्र खुलेंगे और इन दोनों बड़े देशों के बीच संबंधों में मजबूती और आर्थिक जुड़ाव में वृद्धि स्पष्ट रूप से दिखाई देगी। श्री चक्रवर्ती ने कहा कि दोनों देशों के बीच कोई नकारात्मक मुद्दे नहीं हैं। उन्होंने कहा कि भारत और इंडोनेशिया के बीच कोई विवाद या मतभेद नहीं है, इसलिए दोनों देश अब विकसित भारत और स्वर्णिम इंडोनेशिया की दिशा में काम करने के लिए व्यापक रणनीतिक सहयोग की तलाश में हैं। उन्होंने कहा कि दोनों देश भारतीय आवश्यकताओं और इंडोनेशियाई आर्थिक नीतियों के बीच तालमेल बिठाने का प्रयास कर रहे हैं। व्यापक कार्यनीतिक साझेदारी के बारे में श्री चक्रवर्ती ने कहा कि इस साझेदारी के कई स्तंभ हैं। उनमें से एक निश्चित रूप से रक्षा और सुरक्षा है। इसके अलावा, संबंधों में आर्थिक पहलू भी अधिक महत्वपूर्ण हैं। उन्होंने कहा कि व्यापार 30 अरब डॉलर से अधिक है और हम अपने व्यापार आंकड़ों में सुधार लाने के लिए प्रयासरत हैं। उन्होंने कहा कि हम न केवल भारत से इंडोनेशिया में, बल्कि इंडोनेशिया से भारत में भी अधिक निवेश की उम्मीद कर रहे हैं। समुद्री पड़ोसी होने के नाते हम संपर्क और क्षमता निर्माण पर ध्यान दे रहे हैं। इस यात्रा के बाद लाभान्वित होने वाले क्षेत्रों के बारे में राजदूत ने कहा कि रक्षा और सुरक्षा, निवेश, आर्थिक एकीकरण, अवसंरचना विकास, कुछ बंदरगाहों का विकास, बेहतर संपर्क, फार्मास्यूटिकल्स, स्वास्थ्य सेवा, क्षमता निर्माण और शैक्षिक आदान-प्रदान का निश्चित रूप से सकारात्मक प्रभाव पड़ेगा। श्री चक्रवर्ती ने बताया कि समुद्री सुरक्षा से लेकर अंतरिक्ष सहयोग और विज्ञान तथा प्रौद्योगिकी तक के क्षेत्रों में समझौते और समझौता ज्ञापन पर हस्ताक्षर किए जाएंगे। हिंद-प्रशांत क्षेत्र को मजबूत करने के विषय पर पूछे गए एक प्रश्न के उत्तर में राजदूत ने कहा कि भारत और इंडोनेशिया हिंद-प्रशांत क्षेत्र की दो प्रमुख शक्तियां हैं और भारत और इंडोनेशिया के बीच अधिक सहयोग से समुद्री संचार मार्ग खुले रहेंगे। इस संदर्भ में उन्होंने कहा कि मलक्का जलडमरूमध्य से विश्व व्यापार का एक बहुत महत्वपूर्ण हिस्सा गुजरता है और यह सुनिश्चित करने के लिए इंडोनेशिया को पूरा समर्थन प्रदान किया जाएगा कि मलक्का जलडमरूमध्य खुला रहे और उसकी वही परिणिति न हो जो होर्मुज जलडमरूमध्य की हुई थी।",
+        "title": "लद्दाख: कारगिल युद्ध स्मारक पर आयोजित सरहद शौर्यथॉन 2026 में तीन हजार से अधिक प्रतिभागी शामिल हुए",
+        "summary": "लद्दाख में कारगिल विजय दिवस के उपलक्ष्‍य में आज द्रास स्थित करगिल युद्ध स्मारक पर आयोजित सरहद शौर्यथॉन 2026 में देशभर से तीन हजार से अधिक प्रतिभागी शामिल हुए। भारतीय सेना ने सरहद पुणे और स्थानीय प्रशासन के सहयोग से इसका आयोजन किया। मैराथन में तीन, पांच, दस और 21 किलोमीटर से अधिक की दौड़ […]",
+        "article": "लद्दाख में कारगिल विजय दिवस के उपलक्ष्&#x200d;य में आज द्रास स्थित करगिल युद्ध स्मारक पर आयोजित सरहद शौर्यथॉन 2026 में देशभर से तीन हजार से अधिक प्रतिभागी शामिल हुए। भारतीय सेना ने सरहद पुणे और स्थानीय प्रशासन के सहयोग से इसका आयोजन किया। मैराथन में तीन, पांच, दस और 21 किलोमीटर से अधिक की दौड़ आयोजित की गई। इसमें आम नागरिकों, छात्रों, खिलाडियों, सेना के जवानों और फिटनेस प्रेमियों ने उत्&#x200d;साहपूर्वक भाग लिया।",
         "date": "2026-07-05",
-        "pubDate": "2026-07-05T07:49:48+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-indonesia-visit/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-05-131851.png",
+        "pubDate": "2026-07-05T16:34:32+00:00",
+        "link": "https://newsonair.gov.in/hi/ladakh-more-than-3000-participants-took-part-in-the-sarhad-shauryathon-2026-held-at-the-kargil-war-memorial/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
         "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "राजधानी के विभिन्‍न क्षेत्रों में बारिश से उमसभरी गर्मी से राहत मिली",
+        "summary": "राजधानी के विभिन्‍न क्षेत्रों में आज बारिश हुई, जिससे लोगों को उमसभरी गर्मी से राहत मिली। आज का अधिकतम तापमान 38.6 डिग्री सेल्सियस दर्ज किया गया। वहीं, न्यूनतम तापमान 29.2 डिग्री सेल्सियस दर्ज किया गया। मौसम विभाग के अनुसार कल गरज के साथ हल्‍की वर्षा होने के साथ-साथ बादल छाये रहने की संभावना है। विभाग […]",
+        "article": "राजधानी के विभिन्&#x200d;न क्षेत्रों में आज बारिश हुई, जिससे लोगों को उमसभरी गर्मी से राहत मिली। आज का अधिकतम तापमान 38.6 डिग्री सेल्सियस दर्ज किया गया। वहीं, न्यूनतम तापमान 29.2 डिग्री सेल्सियस दर्ज किया गया। मौसम विभाग के अनुसार कल गरज के साथ हल्&#x200d;की वर्षा होने के साथ-साथ बादल छाये रहने की संभावना है। विभाग के अनुसार कल का अधिकतम तापमान 31 से 33 डिग्री सेल्सियस और न्यूनतम तापमान 26 से 28 डिग्री सेल्सियस रहने का अनुमान है।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:16:55+00:00",
+        "link": "https://newsonair.gov.in/hi/rain-brought-relief-from-the-sultry-heat-in-various-parts-of-the-capital/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/7.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कौशल विकास और उद्यमिता मंत्रालय ने नवाचार मंत्र के लिए पंजीकरण की अंतिम तिथि 15 जुलाई तक बढ़ाई",
+        "summary": "कौशल विकास और उद्यमिता मंत्रालय ने अपने प्रमुख राष्ट्रीय नवाचार मंच नवाचार मंत्र के लिए पंजीकरण की अंतिम तिथि 15 जुलाई तक बढ़ा दी है। मंत्रालय ने कहा कि देश भर के नवोन्मेषकों की अत्यधिक रुचि को देखते हुए यह निर्णय लिया गया है। मंत्रालय ने आगे कहा कि आधिकारिक नवाचार मंत्र पंजीकरण पोर्टल पर […]",
+        "article": "कौशल विकास और उद्यमिता मंत्रालय ने अपने प्रमुख राष्ट्रीय नवाचार मंच नवाचार मंत्र के लिए पंजीकरण की अंतिम तिथि 15 जुलाई तक बढ़ा दी है। मंत्रालय ने कहा कि देश भर के नवोन्मेषकों की अत्यधिक रुचि को देखते हुए यह निर्णय लिया गया है। मंत्रालय ने आगे कहा कि आधिकारिक नवाचार मंत्र पंजीकरण पोर्टल पर अब तक हजारों इच्छुक उद्यमियों और नवोन्मेषकों ने पंजीकरण कराया है। नवाचार मंत्र राष्ट्रीय उद्यमिता एवं लघु व्यवसाय विकास संस्थान द्वारा फाउंडेशन फॉर इनोवेशन एंड टेक्नोलॉजी ट्रांसफर &#8211; एफआईटीटी और आईआईटी दिल्ली के सहयोग से कार्यान्वित किया जा रहा है। इस पहल का उद्देश्य संरचित मार्गदर्शन, विशेषज्ञ सलाह, उद्योग से संपर्क और बाजार तक पहुंच के माध्यम से उच्च क्षमता वाले उद्यमशीलता विचारों की पहचान पोषित और गति प्रदान करना है।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:06:46+00:00",
+        "link": "https://newsonair.gov.in/hi/the-ministry-of-skill-development-and-entrepreneurship-has-extended-the-registration-deadline-for-navachar-mantra-to-july-15/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Dater.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "पाकिस्तान के अवैध कब्‍जे वाले कश्‍मीर में प्रदर्शनकारियों पर पाकिस्‍तानी रेंजर्स की कथित गोलीबारी के बाद तनाव और बढ़ा",
+        "summary": "पाकिस्तान के अवैध कब्‍जे वाले कश्‍मीर में प्रदर्शनकारियों पर पाकिस्‍तानी रेंजर्स की कथित गोलीबारी के बाद से तनाव और बढ़ गया है। गोलीबारी में एक व्यक्ति की मौत हो गई और कई अन्य घायल हो गए। बुनियादी अधिकारों, आर्थिक राहत और राजनीतिक स्वतंत्रता की मांग को लेकर क्षेत्र में हो रहे इस्लामाबाद विरोधी प्रदर्शनों के […]",
+        "article": "पाकिस्तान के अवैध कब्&#x200d;जे वाले कश्&#x200d;मीर में प्रदर्शनकारियों पर पाकिस्&#x200d;तानी रेंजर्स की कथित गोलीबारी के बाद से तनाव और बढ़ गया है। गोलीबारी में एक व्यक्ति की मौत हो गई और कई अन्य घायल हो गए। बुनियादी अधिकारों, आर्थिक राहत और राजनीतिक स्वतंत्रता की मांग को लेकर क्षेत्र में हो रहे इस्लामाबाद विरोधी प्रदर्शनों के बाद छह सौ से अधिक नागरिक अधिकार कार्यकर्ताओं को गिरफ्तार किया गया है। इस बीच, विदेशों में रहने वाले कश्मीरियों ने प्रदर्शनकारियों के समर्थन में आज लंदन में विरोध प्रदर्शन किया।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:40:54+00:00",
+        "link": "https://newsonair.gov.in/hi/tensions-escalated-further-following-the-alleged-firing-by-pakistani-rangers-at-protesters-in-pakistan-occupied-kashmir/",
+        "post_id": 1721104,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी अमरीका के न्यूयॉर्क बंदरगाह पर पहुंचा",
+        "summary": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी अमरीका के न्यूयॉर्क बंदरगाह पर पहुंच गया है। यह पोत युनाइटेड स्‍टेट्स इंटरनेशनल नेवल रिव्‍यू 250 और सेल फोर्थ 250 समारोहों में भारत का प्रतिनिधित्व करेगा। हडसन नदी पर कल आयोजित परेड ऑफ सेल के दौरान, तीन मस्तूलों वाले इस प्रतिष्ठित पोत ने गर्व से भारतीय तिरंगा […]",
+        "article": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी अमरीका के न्यूयॉर्क बंदरगाह पर पहुंच गया है। यह पोत युनाइटेड स्&#x200d;टेट्स इंटरनेशनल नेवल रिव्&#x200d;यू 250 और सेल फोर्थ 250 समारोहों में भारत का प्रतिनिधित्व करेगा। हडसन नदी पर कल आयोजित परेड ऑफ सेल के दौरान, तीन मस्तूलों वाले इस प्रतिष्ठित पोत ने गर्व से भारतीय तिरंगा फहराया। आईएनएस सुदर्शनी की यह यात्रा 10 महीने के ट्रांसोसेनिक अभियान लोकायन 2026 का हिस्सा है। यह समुद्री सहयोग को मजबूत करने, अंतर्राष्ट्रीय सद्भावना का निर्माण करने और सहयोगी नौसेनाओं के साथ संबंधों को सुदृढ करने के लिए भारतीय नौसेना की प्रतिबद्धता को दर्शाता है।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:39:54+00:00",
+        "link": "https://newsonair.gov.in/hi/the-indian-navys-sail-training-ship-ins-sudarshini-has-arrived-at-the-port-of-new-york-in-the-united-states/",
+        "post_id": 1721103,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1585,14 +1262,325 @@ window.VM_NEWS = {
       },
       {
         "title": "विदेश मंत्री डॉ. एस. जयशंकर ने कतर के प्रधानमंत्री और विदेश मंत्री से मुलाकात की",
-        "summary": "विदेश मंत्री सुब्रह्मण्‍यम जयशंकर ने आज दोहा में कतर के प्रधानमंत्री और विदेश मंत्री मोहम्मद बिन अब्दुल रहमान बिन जसीम अल थानी से मुलाकात की। दोनों नेताओं ने द्विपक्षीय सहयोग के विभिन्न पहलुओं, विशेष रूप से ऊर्जा, व्यापार, निवेश, संपर्क, सुरक्षा और जन-संबंधों की समीक्षा की। सोशल मीडिया पोस्ट में विदेश मंत्री ने कहा कि […]",
-        "article": "विदेश मंत्री सुब्रह्मण्&#x200d;यम जयशंकर ने आज दोहा में कतर के प्रधानमंत्री और विदेश मंत्री मोहम्मद बिन अब्दुल रहमान बिन जसीम अल थानी से मुलाकात की। दोनों नेताओं ने द्विपक्षीय सहयोग के विभिन्न पहलुओं, विशेष रूप से ऊर्जा, व्यापार, निवेश, संपर्क, सुरक्षा और जन-संबंधों की समीक्षा की। सोशल मीडिया पोस्ट में विदेश मंत्री ने कहा कि उन्&#x200d;होंने रणनीतिक साझेदारी को और गहरा करने के नए अवसरों पर विचार-विमर्श किया। डॉ. जयशंकर ने भारतीय समुदाय की सुरक्षा तथा कल्याण सुनिश्चित करने के लिए कतर के प्रधानमंत्री को धन्यवाद दिया और पश्चिम एशिया संघर्ष तथा उसके प्रभाव पर उनके आकलन साझा करने की सराहना की।",
+        "summary": "विदेश मंत्री सुब्रह्मण्‍यम जयशंकर ने आज कतर, बहरीन, कुवैत और ओमान सहित पश्चिम एशिया की अपनी आधिकारिक यात्रा शुरू की। यात्रा के पहले चरण में, डॉ. जयशंकर दोहा पहुंचे, जहां उन्होंने कतर के प्रधानमंत्री और विदेश मंत्री मोहम्मद बिन अब्दुल रहमान बिन जासिम अस्‍सानी से मुलाकात की। दोनों नेताओं ने द्विपक्षीय सहयोग के विभिन्न पहलुओं, […]",
+        "article": "विदेश मंत्री सुब्रह्मण्&#x200d;यम जयशंकर ने आज कतर , बहरीन , कुवैत और ओमान सहित पश्चिम एशिया की अपनी आधिकारिक यात्रा शुरू की। यात्रा के पहले चरण में, डॉ. जयशंकर दोहा पहुंचे, जहां उन्होंने कतर के प्रधानमंत्री और विदेश मंत्री मोहम्मद बिन अब्दुल रहमान बिन जासिम अस्&#x200d;सानी से मुलाकात की। दोनों नेताओं ने द्विपक्षीय सहयोग के विभिन्न पहलुओं, विशेष रूप से ऊर्जा, व्यापार, निवेश, संपर्क, सुरक्षा और जन-संबंधों की समीक्षा की। सोशल मीडिया पोस्ट में विदेश मंत्री ने कहा कि उन्&#x200d;होंने रणनीतिक साझेदारी को और गहरा करने के नए अवसरों पर विचार-विमर्श किया। डॉ. जयशंकर ने भारतीय समुदाय की सुरक्षा तथा कल्याण सुनिश्चित करने के लिए कतर के प्रधानमंत्री को धन्यवाद दिया और पश्चिम एशिया संघर्ष तथा उसके प्रभाव पर उनके आकलन साझा करने की सराहना की। डॉ. जयशंकर इस महीने की 13 तारीख को अमरीका के न्यूयॉर्क शहर की यात्रा करेंगे, जहां वे 2028-29 के लिए संयुक्त राष्ट्र सुरक्षा परिषद के कार्यकाल के लिए भारत के आधिकारिक अभियान का शुभारंभ करेंगे। इसके बाद, डॉ. जयशंकर इस महीने की 14 और 15 तारीख को ब्रसेल्स में आयोजित होने वाली तीसरी भारत-यूरोपीय संघ व्यापार और प्रौद्योगिकी परिषद की बैठक में भाग लेंगे और यूरोपीय संघ तथा बेल्जियम के विदेशमंत्रियों के साथ बातचीत करेंगे।",
         "date": "2026-07-05",
         "pubDate": "2026-07-05T15:49:15+00:00",
         "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-met-with-the-prime-minister-and-foreign-minister-of-qatar/",
         "post_id": 1720832,
         "image_url": "",
         "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "national": [
+      {
+        "title": "उर्वरक लेकर आ रहे 15 जहाज सुरक्षित रूप से होर्मुज जलडमरूमध्य पार",
+        "summary": "रसायन और उर्वरक मंत्रालय ने आज बताया कि उर्वरक तथा कच्चा माल भारत ला रहे कुल 15 जहाज होर्मुज जलडमरूमध्य को सुरक्षित रूप से पार कर चुके हैं। मंत्रालय ने बताया कि इन 15 जहाजों में से आठ जहाज तीन लाख बत्तीस हजार मीट्रिक टन यूरिया, चार जहाज दो लाख सत्तावन हजार मीट्रिक टन डायअमोनियम […]",
+        "article": "रसायन और उर्वरक मंत्रालय ने आज बताया कि उर्वरक तथा कच्चा माल भारत ला रहे कुल 15 जहाज होर्मुज जलडमरूमध्य को सुरक्षित रूप से पार कर चुके हैं। मंत्रालय ने बताया कि इन 15 जहाजों में से आठ जहाज तीन लाख बत्तीस हजार मीट्रिक टन यूरिया, चार जहाज दो लाख सत्तावन हजार मीट्रिक टन डायअमोनियम फॉस्फेट और तीन जहाज एक लाख ग्यारह हजार मीट्रिक टन सल्फर लेकर भारत रवाना हो चुके हैं। मंत्रालय ने आगे बताया कि पांच और जहाज भारत के लिए रवाना होने वाले हैं। रसायन और उर्वरक मंत्री जगत प्रकाश नड्डा ने कहा कि पश्चिम एशिया संघर्ष ने वैश्विक आपूर्ति श्रृंखलाओं को बुरी तरह प्रभावित किया है। इससे उर्वरकों की कीमतें बढ़ गई हैं और माल ढुलाई में अधिक समय लग रहा है। उन्होंने कहा कि विदेशों में स्थित भारतीय दूतावासों ने संभावित वैश्विक उत्पादकों और आपूर्तिकर्ताओं से संपर्क स्थापित करने में सक्रिय रूप से सहायता की है। श्री नड्डा ने कहा कि उर्वरक विभाग क्षेत्रीय उपलब्धता और पारदर्शी वितरण सुनिश्चित करने के लिए राज्य सरकारों के साथ लगातार समन्वय कर रहा है। उन्होंने कहा कि प्रधानमंत्री नरेंद्र मोदी के नेतृत्व में सरकार ने किसानों के हितों की पूर्ण सुरक्षा सुनिश्चित की है।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:51:23+00:00",
+        "link": "https://newsonair.gov.in/hi/15-ships-carrying-fertilizer-safely-cross-the-strait-of-hormuz/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMem4CobsAAvo-C.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गृह मंत्री अमित शाह, केंद्रीय मंत्री जी. किशन रेड्डी ने अवैध कोयला खनन की समीक्षा की",
+        "summary": "गृह मंत्री अमित शाह और कोयला तथा खान मंत्री जी. किशन रेड्डी ने आज नई दिल्ली में एक उच्च स्तरीय बैठक में अवैध कोयला खनन और कोयला चोरी की स्थिति की समीक्षा की। बैठक के दौरान, गृह मंत्री ने धनबाद और आसपास के क्षेत्रों में अवैध कोयला खनन और चोरी की बिगड़ती स्थिति पर चिंता […]",
+        "article": "गृह मंत्री अमित शाह और कोयला तथा खान मंत्री जी. किशन रेड्डी ने आज नई दिल्ली में एक उच्च स्तरीय बैठक में अवैध कोयला खनन और कोयला चोरी की स्थिति की समीक्षा की। बैठक के दौरान, गृह मंत्री ने धनबाद और आसपास के क्षेत्रों में अवैध कोयला खनन और चोरी की बिगड़ती स्थिति पर चिंता व्यक्त की। गृह मंत्रालय ने बताया कि कोयला मंत्रालय के अधिकारियों ने श्री अमित शाह को सूचित किया कि पिछले वर्ष अक्टूबर के पहले सप्ताह में हुई समीक्षा के बाद से कई ठोस कदम उठाए गए हैं। उन्&#x200d;होंने कोयला मंत्रालय और सीआईएसएफ द्वारा अब तक उठाए गए कदमों की सराहना की। उन्होंने इस बात पर जोर दिया कि अवैध खनन की समस्या को रोकने के लिए अभी बहुत कुछ करने की आवश्यकता है।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:39:06+00:00",
+        "link": "https://newsonair.gov.in/hi/home-minister-amit-shah-and-union-minister-g-kishan-reddy-reviewed-illegal-coal-mining/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Amit-shah.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "जम्मू-कश्मीर: वार्षिक श्री अमरनाथ यात्रा में दर्ज की गई भारी जनभागीदारी",
+        "summary": "जम्मू-कश्मीर में वार्षिक श्री अमरनाथ यात्रा में भारी जनभागीदारी दर्ज की गई है। तीर्थयात्रा के पहले तीन दिनों में 56 हजार से अधिक तीर्थयात्रियों ने पवित्र गुफा मंदिर में दर्शन किए। आज रिकॉर्ड 24 हजार 648 श्रद्धालुओं ने दर्शन किए। दूसरे दिन 19 हजार 221 और पहले दिन 12 हजार 168 तीर्थयात्रियों ने दर्शन किए […]",
+        "article": "जम्मू-कश्मीर में वार्षिक श्री अमरनाथ यात्रा में भारी जनभागीदारी दर्ज की गई है। तीर्थयात्रा के पहले तीन दिनों में 56 हजार से अधिक तीर्थयात्रियों ने पवित्र गुफा मंदिर में दर्शन किए। आज रिकॉर्ड 24 हजार 648 श्रद्धालुओं ने दर्शन किए। दूसरे दिन 19 हजार 221 और पहले दिन 12 हजार 168 तीर्थयात्रियों ने दर्शन किए थे। इसी बीच, उपराज्यपाल मनोज सिन्हा ने यात्रा की तैयारियों की समीक्षा करने के लिए आज नुवान-पहलगाम बेस कैंप का दौरा किया।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:37:22+00:00",
+        "link": "https://newsonair.gov.in/hi/jammu-kashmir-massive-public-participation-recorded-in-the-annual-shri-amarnath-yatra/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMehrqxbAAECecn-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "लद्दाख: कारगिल युद्ध स्मारक पर आयोजित सरहद शौर्यथॉन 2026 में तीन हजार से अधिक प्रतिभागी शामिल हुए",
+        "summary": "लद्दाख में कारगिल विजय दिवस के उपलक्ष्‍य में आज द्रास स्थित करगिल युद्ध स्मारक पर आयोजित सरहद शौर्यथॉन 2026 में देशभर से तीन हजार से अधिक प्रतिभागी शामिल हुए। भारतीय सेना ने सरहद पुणे और स्थानीय प्रशासन के सहयोग से इसका आयोजन किया। मैराथन में तीन, पांच, दस और 21 किलोमीटर से अधिक की दौड़ […]",
+        "article": "लद्दाख में कारगिल विजय दिवस के उपलक्ष्&#x200d;य में आज द्रास स्थित करगिल युद्ध स्मारक पर आयोजित सरहद शौर्यथॉन 2026 में देशभर से तीन हजार से अधिक प्रतिभागी शामिल हुए। भारतीय सेना ने सरहद पुणे और स्थानीय प्रशासन के सहयोग से इसका आयोजन किया। मैराथन में तीन, पांच, दस और 21 किलोमीटर से अधिक की दौड़ आयोजित की गई। इसमें आम नागरिकों, छात्रों, खिलाडियों, सेना के जवानों और फिटनेस प्रेमियों ने उत्&#x200d;साहपूर्वक भाग लिया।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:34:32+00:00",
+        "link": "https://newsonair.gov.in/hi/ladakh-more-than-3000-participants-took-part-in-the-sarhad-shauryathon-2026-held-at-the-kargil-war-memorial/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "राजधानी के विभिन्‍न क्षेत्रों में बारिश से उमसभरी गर्मी से राहत मिली",
+        "summary": "राजधानी के विभिन्‍न क्षेत्रों में आज बारिश हुई, जिससे लोगों को उमसभरी गर्मी से राहत मिली। आज का अधिकतम तापमान 38.6 डिग्री सेल्सियस दर्ज किया गया। वहीं, न्यूनतम तापमान 29.2 डिग्री सेल्सियस दर्ज किया गया। मौसम विभाग के अनुसार कल गरज के साथ हल्‍की वर्षा होने के साथ-साथ बादल छाये रहने की संभावना है। विभाग […]",
+        "article": "राजधानी के विभिन्&#x200d;न क्षेत्रों में आज बारिश हुई, जिससे लोगों को उमसभरी गर्मी से राहत मिली। आज का अधिकतम तापमान 38.6 डिग्री सेल्सियस दर्ज किया गया। वहीं, न्यूनतम तापमान 29.2 डिग्री सेल्सियस दर्ज किया गया। मौसम विभाग के अनुसार कल गरज के साथ हल्&#x200d;की वर्षा होने के साथ-साथ बादल छाये रहने की संभावना है। विभाग के अनुसार कल का अधिकतम तापमान 31 से 33 डिग्री सेल्सियस और न्यूनतम तापमान 26 से 28 डिग्री सेल्सियस रहने का अनुमान है।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:16:55+00:00",
+        "link": "https://newsonair.gov.in/hi/rain-brought-relief-from-the-sultry-heat-in-various-parts-of-the-capital/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/7.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कौशल विकास और उद्यमिता मंत्रालय ने नवाचार मंत्र के लिए पंजीकरण की अंतिम तिथि 15 जुलाई तक बढ़ाई",
+        "summary": "कौशल विकास और उद्यमिता मंत्रालय ने अपने प्रमुख राष्ट्रीय नवाचार मंच नवाचार मंत्र के लिए पंजीकरण की अंतिम तिथि 15 जुलाई तक बढ़ा दी है। मंत्रालय ने कहा कि देश भर के नवोन्मेषकों की अत्यधिक रुचि को देखते हुए यह निर्णय लिया गया है। मंत्रालय ने आगे कहा कि आधिकारिक नवाचार मंत्र पंजीकरण पोर्टल पर […]",
+        "article": "कौशल विकास और उद्यमिता मंत्रालय ने अपने प्रमुख राष्ट्रीय नवाचार मंच नवाचार मंत्र के लिए पंजीकरण की अंतिम तिथि 15 जुलाई तक बढ़ा दी है। मंत्रालय ने कहा कि देश भर के नवोन्मेषकों की अत्यधिक रुचि को देखते हुए यह निर्णय लिया गया है। मंत्रालय ने आगे कहा कि आधिकारिक नवाचार मंत्र पंजीकरण पोर्टल पर अब तक हजारों इच्छुक उद्यमियों और नवोन्मेषकों ने पंजीकरण कराया है। नवाचार मंत्र राष्ट्रीय उद्यमिता एवं लघु व्यवसाय विकास संस्थान द्वारा फाउंडेशन फॉर इनोवेशन एंड टेक्नोलॉजी ट्रांसफर &#8211; एफआईटीटी और आईआईटी दिल्ली के सहयोग से कार्यान्वित किया जा रहा है। इस पहल का उद्देश्य संरचित मार्गदर्शन, विशेषज्ञ सलाह, उद्योग से संपर्क और बाजार तक पहुंच के माध्यम से उच्च क्षमता वाले उद्यमशीलता विचारों की पहचान पोषित और गति प्रदान करना है।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:06:46+00:00",
+        "link": "https://newsonair.gov.in/hi/the-ministry-of-skill-development-and-entrepreneurship-has-extended-the-registration-deadline-for-navachar-mantra-to-july-15/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Dater.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "पाकिस्तान के अवैध कब्‍जे वाले कश्‍मीर में प्रदर्शनकारियों पर पाकिस्‍तानी रेंजर्स की कथित गोलीबारी के बाद तनाव और बढ़ा",
+        "summary": "पाकिस्तान के अवैध कब्‍जे वाले कश्‍मीर में प्रदर्शनकारियों पर पाकिस्‍तानी रेंजर्स की कथित गोलीबारी के बाद से तनाव और बढ़ गया है। गोलीबारी में एक व्यक्ति की मौत हो गई और कई अन्य घायल हो गए। बुनियादी अधिकारों, आर्थिक राहत और राजनीतिक स्वतंत्रता की मांग को लेकर क्षेत्र में हो रहे इस्लामाबाद विरोधी प्रदर्शनों के […]",
+        "article": "पाकिस्तान के अवैध कब्&#x200d;जे वाले कश्&#x200d;मीर में प्रदर्शनकारियों पर पाकिस्&#x200d;तानी रेंजर्स की कथित गोलीबारी के बाद से तनाव और बढ़ गया है। गोलीबारी में एक व्यक्ति की मौत हो गई और कई अन्य घायल हो गए। बुनियादी अधिकारों, आर्थिक राहत और राजनीतिक स्वतंत्रता की मांग को लेकर क्षेत्र में हो रहे इस्लामाबाद विरोधी प्रदर्शनों के बाद छह सौ से अधिक नागरिक अधिकार कार्यकर्ताओं को गिरफ्तार किया गया है। इस बीच, विदेशों में रहने वाले कश्मीरियों ने प्रदर्शनकारियों के समर्थन में आज लंदन में विरोध प्रदर्शन किया।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:40:54+00:00",
+        "link": "https://newsonair.gov.in/hi/tensions-escalated-further-following-the-alleged-firing-by-pakistani-rangers-at-protesters-in-pakistan-occupied-kashmir/",
+        "post_id": 1721104,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी अमरीका के न्यूयॉर्क बंदरगाह पर पहुंचा",
+        "summary": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी अमरीका के न्यूयॉर्क बंदरगाह पर पहुंच गया है। यह पोत युनाइटेड स्‍टेट्स इंटरनेशनल नेवल रिव्‍यू 250 और सेल फोर्थ 250 समारोहों में भारत का प्रतिनिधित्व करेगा। हडसन नदी पर कल आयोजित परेड ऑफ सेल के दौरान, तीन मस्तूलों वाले इस प्रतिष्ठित पोत ने गर्व से भारतीय तिरंगा […]",
+        "article": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी अमरीका के न्यूयॉर्क बंदरगाह पर पहुंच गया है। यह पोत युनाइटेड स्&#x200d;टेट्स इंटरनेशनल नेवल रिव्&#x200d;यू 250 और सेल फोर्थ 250 समारोहों में भारत का प्रतिनिधित्व करेगा। हडसन नदी पर कल आयोजित परेड ऑफ सेल के दौरान, तीन मस्तूलों वाले इस प्रतिष्ठित पोत ने गर्व से भारतीय तिरंगा फहराया। आईएनएस सुदर्शनी की यह यात्रा 10 महीने के ट्रांसोसेनिक अभियान लोकायन 2026 का हिस्सा है। यह समुद्री सहयोग को मजबूत करने, अंतर्राष्ट्रीय सद्भावना का निर्माण करने और सहयोगी नौसेनाओं के साथ संबंधों को सुदृढ करने के लिए भारतीय नौसेना की प्रतिबद्धता को दर्शाता है।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:39:54+00:00",
+        "link": "https://newsonair.gov.in/hi/the-indian-navys-sail-training-ship-ins-sudarshini-has-arrived-at-the-port-of-new-york-in-the-united-states/",
+        "post_id": 1721103,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गुरुदेव रवींद्रनाथ टैगोर की ऐतिहासिक यात्रा की शताब्दी मनाएगा इंडोनेशिया",
+        "summary": "इंडोनेशिया, गुरुदेव रवींद्रनाथ टैगोर की वहां की ऐतिहासिक यात्रा की शताब्दी मनाएगा। इसके लिए वर्ष 2026 और 2027 के दौरान 15 महीने का कार्यक्रम आयोजित किया जाएगा। इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने आकाशवाणी समाचार से बातचीत में कहा कि प्रधानमंत्री नरेन्‍द्र मोदी की कल से शुरू होने वाली इंडोनेशिया यात्रा के दौरान […]",
+        "article": "इंडोनेशिया, गुरुदेव रवींद्रनाथ टैगोर की वहां की ऐतिहासिक यात्रा की शताब्दी मनाएगा। इसके लिए वर्ष 2026 और 2027 के दौरान 15 महीने का कार्यक्रम आयोजित किया जाएगा। इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने आकाशवाणी समाचार से बातचीत में कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी की कल से शुरू होने वाली इंडोनेशिया यात्रा के दौरान इन कार्यक्रमों का शुभारंभ किया जाएगा। शताब्दी समारोहों में प्रदर्शनियां और पूरे वर्ष चलने वाले सांस्कृतिक कार्यक्रम आयोजित किए जाएंगे। राजदूत ने बताया कि गुरुदेव रवींद्रनाथ टैगोर ने वर्ष 1927 में लगभग तीन महीने इंडोनेशिया में बिताए, व्यापक यात्रा की और देश की समृद्ध परंपराओं में खुद को समाहित किया। अपनी यात्रा से अत्यधिक प्रेरित होकर, उन्&#x200d;होंने बाद में अपने सहयोगियों को इंडोनेशिया भेजा ताकि वे वहाँ की कला, नृत्य, संस्कृति और वास्तुकला का अध्ययन कर सकें। इससे दोनों देशों के बीच सांस्कृतिक आदान-प्रदान मजबूत हुआ। राजदूत चक्रवर्ती ने कहा कि टैगोर-देवंतारा शैक्षिक और सांस्कृतिक आदान-प्रदान कार्यक्रम भी शुरू किया जाएगा, जिसमें स्मृति अवधि के दौरान प्रदर्शनियों और सांस्कृतिक कार्यक्रमों का आयोजन किया जाएगा। रवींद्रनाथ टैगोर की इंडोनेशिया यात्रा पर संकलित एक नई पुस्तक प्रधानमंत्री को उनकी यात्रा के दौरान भेंट की जाएगी।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T15:51:39+00:00",
+        "link": "https://newsonair.gov.in/hi/indonesia-will-celebrate-the-centenary-of-gurudev-rabindranath-tagores-historic-visit/",
+        "post_id": 1720833,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विदेश मंत्री डॉ. एस. जयशंकर ने कतर के प्रधानमंत्री और विदेश मंत्री से मुलाकात की",
+        "summary": "विदेश मंत्री सुब्रह्मण्‍यम जयशंकर ने आज कतर, बहरीन, कुवैत और ओमान सहित पश्चिम एशिया की अपनी आधिकारिक यात्रा शुरू की। यात्रा के पहले चरण में, डॉ. जयशंकर दोहा पहुंचे, जहां उन्होंने कतर के प्रधानमंत्री और विदेश मंत्री मोहम्मद बिन अब्दुल रहमान बिन जासिम अस्‍सानी से मुलाकात की। दोनों नेताओं ने द्विपक्षीय सहयोग के विभिन्न पहलुओं, […]",
+        "article": "विदेश मंत्री सुब्रह्मण्&#x200d;यम जयशंकर ने आज कतर , बहरीन , कुवैत और ओमान सहित पश्चिम एशिया की अपनी आधिकारिक यात्रा शुरू की। यात्रा के पहले चरण में, डॉ. जयशंकर दोहा पहुंचे, जहां उन्होंने कतर के प्रधानमंत्री और विदेश मंत्री मोहम्मद बिन अब्दुल रहमान बिन जासिम अस्&#x200d;सानी से मुलाकात की। दोनों नेताओं ने द्विपक्षीय सहयोग के विभिन्न पहलुओं, विशेष रूप से ऊर्जा, व्यापार, निवेश, संपर्क, सुरक्षा और जन-संबंधों की समीक्षा की। सोशल मीडिया पोस्ट में विदेश मंत्री ने कहा कि उन्&#x200d;होंने रणनीतिक साझेदारी को और गहरा करने के नए अवसरों पर विचार-विमर्श किया। डॉ. जयशंकर ने भारतीय समुदाय की सुरक्षा तथा कल्याण सुनिश्चित करने के लिए कतर के प्रधानमंत्री को धन्यवाद दिया और पश्चिम एशिया संघर्ष तथा उसके प्रभाव पर उनके आकलन साझा करने की सराहना की। डॉ. जयशंकर इस महीने की 13 तारीख को अमरीका के न्यूयॉर्क शहर की यात्रा करेंगे, जहां वे 2028-29 के लिए संयुक्त राष्ट्र सुरक्षा परिषद के कार्यकाल के लिए भारत के आधिकारिक अभियान का शुभारंभ करेंगे। इसके बाद, डॉ. जयशंकर इस महीने की 14 और 15 तारीख को ब्रसेल्स में आयोजित होने वाली तीसरी भारत-यूरोपीय संघ व्यापार और प्रौद्योगिकी परिषद की बैठक में भाग लेंगे और यूरोपीय संघ तथा बेल्जियम के विदेशमंत्रियों के साथ बातचीत करेंगे।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T15:49:15+00:00",
+        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-met-with-the-prime-minister-and-foreign-minister-of-qatar/",
+        "post_id": 1720832,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "politics": [
+      {
+        "title": "उर्वरक लेकर आ रहे 15 जहाज सुरक्षित रूप से होर्मुज जलडमरूमध्य पार",
+        "summary": "रसायन और उर्वरक मंत्रालय ने आज बताया कि उर्वरक तथा कच्चा माल भारत ला रहे कुल 15 जहाज होर्मुज जलडमरूमध्य को सुरक्षित रूप से पार कर चुके हैं। मंत्रालय ने बताया कि इन 15 जहाजों में से आठ जहाज तीन लाख बत्तीस हजार मीट्रिक टन यूरिया, चार जहाज दो लाख सत्तावन हजार मीट्रिक टन डायअमोनियम […]",
+        "article": "रसायन और उर्वरक मंत्रालय ने आज बताया कि उर्वरक तथा कच्चा माल भारत ला रहे कुल 15 जहाज होर्मुज जलडमरूमध्य को सुरक्षित रूप से पार कर चुके हैं। मंत्रालय ने बताया कि इन 15 जहाजों में से आठ जहाज तीन लाख बत्तीस हजार मीट्रिक टन यूरिया, चार जहाज दो लाख सत्तावन हजार मीट्रिक टन डायअमोनियम फॉस्फेट और तीन जहाज एक लाख ग्यारह हजार मीट्रिक टन सल्फर लेकर भारत रवाना हो चुके हैं। मंत्रालय ने आगे बताया कि पांच और जहाज भारत के लिए रवाना होने वाले हैं। रसायन और उर्वरक मंत्री जगत प्रकाश नड्डा ने कहा कि पश्चिम एशिया संघर्ष ने वैश्विक आपूर्ति श्रृंखलाओं को बुरी तरह प्रभावित किया है। इससे उर्वरकों की कीमतें बढ़ गई हैं और माल ढुलाई में अधिक समय लग रहा है। उन्होंने कहा कि विदेशों में स्थित भारतीय दूतावासों ने संभावित वैश्विक उत्पादकों और आपूर्तिकर्ताओं से संपर्क स्थापित करने में सक्रिय रूप से सहायता की है। श्री नड्डा ने कहा कि उर्वरक विभाग क्षेत्रीय उपलब्धता और पारदर्शी वितरण सुनिश्चित करने के लिए राज्य सरकारों के साथ लगातार समन्वय कर रहा है। उन्होंने कहा कि प्रधानमंत्री नरेंद्र मोदी के नेतृत्व में सरकार ने किसानों के हितों की पूर्ण सुरक्षा सुनिश्चित की है।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:51:23+00:00",
+        "link": "https://newsonair.gov.in/hi/15-ships-carrying-fertilizer-safely-cross-the-strait-of-hormuz/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMem4CobsAAvo-C.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गृह मंत्री अमित शाह, केंद्रीय मंत्री जी. किशन रेड्डी ने अवैध कोयला खनन की समीक्षा की",
+        "summary": "गृह मंत्री अमित शाह और कोयला तथा खान मंत्री जी. किशन रेड्डी ने आज नई दिल्ली में एक उच्च स्तरीय बैठक में अवैध कोयला खनन और कोयला चोरी की स्थिति की समीक्षा की। बैठक के दौरान, गृह मंत्री ने धनबाद और आसपास के क्षेत्रों में अवैध कोयला खनन और चोरी की बिगड़ती स्थिति पर चिंता […]",
+        "article": "गृह मंत्री अमित शाह और कोयला तथा खान मंत्री जी. किशन रेड्डी ने आज नई दिल्ली में एक उच्च स्तरीय बैठक में अवैध कोयला खनन और कोयला चोरी की स्थिति की समीक्षा की। बैठक के दौरान, गृह मंत्री ने धनबाद और आसपास के क्षेत्रों में अवैध कोयला खनन और चोरी की बिगड़ती स्थिति पर चिंता व्यक्त की। गृह मंत्रालय ने बताया कि कोयला मंत्रालय के अधिकारियों ने श्री अमित शाह को सूचित किया कि पिछले वर्ष अक्टूबर के पहले सप्ताह में हुई समीक्षा के बाद से कई ठोस कदम उठाए गए हैं। उन्&#x200d;होंने कोयला मंत्रालय और सीआईएसएफ द्वारा अब तक उठाए गए कदमों की सराहना की। उन्होंने इस बात पर जोर दिया कि अवैध खनन की समस्या को रोकने के लिए अभी बहुत कुछ करने की आवश्यकता है।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:39:06+00:00",
+        "link": "https://newsonair.gov.in/hi/home-minister-amit-shah-and-union-minister-g-kishan-reddy-reviewed-illegal-coal-mining/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Amit-shah.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "जम्मू-कश्मीर: वार्षिक श्री अमरनाथ यात्रा में दर्ज की गई भारी जनभागीदारी",
+        "summary": "जम्मू-कश्मीर में वार्षिक श्री अमरनाथ यात्रा में भारी जनभागीदारी दर्ज की गई है। तीर्थयात्रा के पहले तीन दिनों में 56 हजार से अधिक तीर्थयात्रियों ने पवित्र गुफा मंदिर में दर्शन किए। आज रिकॉर्ड 24 हजार 648 श्रद्धालुओं ने दर्शन किए। दूसरे दिन 19 हजार 221 और पहले दिन 12 हजार 168 तीर्थयात्रियों ने दर्शन किए […]",
+        "article": "जम्मू-कश्मीर में वार्षिक श्री अमरनाथ यात्रा में भारी जनभागीदारी दर्ज की गई है। तीर्थयात्रा के पहले तीन दिनों में 56 हजार से अधिक तीर्थयात्रियों ने पवित्र गुफा मंदिर में दर्शन किए। आज रिकॉर्ड 24 हजार 648 श्रद्धालुओं ने दर्शन किए। दूसरे दिन 19 हजार 221 और पहले दिन 12 हजार 168 तीर्थयात्रियों ने दर्शन किए थे। इसी बीच, उपराज्यपाल मनोज सिन्हा ने यात्रा की तैयारियों की समीक्षा करने के लिए आज नुवान-पहलगाम बेस कैंप का दौरा किया।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:37:22+00:00",
+        "link": "https://newsonair.gov.in/hi/jammu-kashmir-massive-public-participation-recorded-in-the-annual-shri-amarnath-yatra/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMehrqxbAAECecn-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "लद्दाख: कारगिल युद्ध स्मारक पर आयोजित सरहद शौर्यथॉन 2026 में तीन हजार से अधिक प्रतिभागी शामिल हुए",
+        "summary": "लद्दाख में कारगिल विजय दिवस के उपलक्ष्‍य में आज द्रास स्थित करगिल युद्ध स्मारक पर आयोजित सरहद शौर्यथॉन 2026 में देशभर से तीन हजार से अधिक प्रतिभागी शामिल हुए। भारतीय सेना ने सरहद पुणे और स्थानीय प्रशासन के सहयोग से इसका आयोजन किया। मैराथन में तीन, पांच, दस और 21 किलोमीटर से अधिक की दौड़ […]",
+        "article": "लद्दाख में कारगिल विजय दिवस के उपलक्ष्&#x200d;य में आज द्रास स्थित करगिल युद्ध स्मारक पर आयोजित सरहद शौर्यथॉन 2026 में देशभर से तीन हजार से अधिक प्रतिभागी शामिल हुए। भारतीय सेना ने सरहद पुणे और स्थानीय प्रशासन के सहयोग से इसका आयोजन किया। मैराथन में तीन, पांच, दस और 21 किलोमीटर से अधिक की दौड़ आयोजित की गई। इसमें आम नागरिकों, छात्रों, खिलाडियों, सेना के जवानों और फिटनेस प्रेमियों ने उत्&#x200d;साहपूर्वक भाग लिया।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:34:32+00:00",
+        "link": "https://newsonair.gov.in/hi/ladakh-more-than-3000-participants-took-part-in-the-sarhad-shauryathon-2026-held-at-the-kargil-war-memorial/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "राजधानी के विभिन्‍न क्षेत्रों में बारिश से उमसभरी गर्मी से राहत मिली",
+        "summary": "राजधानी के विभिन्‍न क्षेत्रों में आज बारिश हुई, जिससे लोगों को उमसभरी गर्मी से राहत मिली। आज का अधिकतम तापमान 38.6 डिग्री सेल्सियस दर्ज किया गया। वहीं, न्यूनतम तापमान 29.2 डिग्री सेल्सियस दर्ज किया गया। मौसम विभाग के अनुसार कल गरज के साथ हल्‍की वर्षा होने के साथ-साथ बादल छाये रहने की संभावना है। विभाग […]",
+        "article": "राजधानी के विभिन्&#x200d;न क्षेत्रों में आज बारिश हुई, जिससे लोगों को उमसभरी गर्मी से राहत मिली। आज का अधिकतम तापमान 38.6 डिग्री सेल्सियस दर्ज किया गया। वहीं, न्यूनतम तापमान 29.2 डिग्री सेल्सियस दर्ज किया गया। मौसम विभाग के अनुसार कल गरज के साथ हल्&#x200d;की वर्षा होने के साथ-साथ बादल छाये रहने की संभावना है। विभाग के अनुसार कल का अधिकतम तापमान 31 से 33 डिग्री सेल्सियस और न्यूनतम तापमान 26 से 28 डिग्री सेल्सियस रहने का अनुमान है।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:16:55+00:00",
+        "link": "https://newsonair.gov.in/hi/rain-brought-relief-from-the-sultry-heat-in-various-parts-of-the-capital/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/7.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कौशल विकास और उद्यमिता मंत्रालय ने नवाचार मंत्र के लिए पंजीकरण की अंतिम तिथि 15 जुलाई तक बढ़ाई",
+        "summary": "कौशल विकास और उद्यमिता मंत्रालय ने अपने प्रमुख राष्ट्रीय नवाचार मंच नवाचार मंत्र के लिए पंजीकरण की अंतिम तिथि 15 जुलाई तक बढ़ा दी है। मंत्रालय ने कहा कि देश भर के नवोन्मेषकों की अत्यधिक रुचि को देखते हुए यह निर्णय लिया गया है। मंत्रालय ने आगे कहा कि आधिकारिक नवाचार मंत्र पंजीकरण पोर्टल पर […]",
+        "article": "कौशल विकास और उद्यमिता मंत्रालय ने अपने प्रमुख राष्ट्रीय नवाचार मंच नवाचार मंत्र के लिए पंजीकरण की अंतिम तिथि 15 जुलाई तक बढ़ा दी है। मंत्रालय ने कहा कि देश भर के नवोन्मेषकों की अत्यधिक रुचि को देखते हुए यह निर्णय लिया गया है। मंत्रालय ने आगे कहा कि आधिकारिक नवाचार मंत्र पंजीकरण पोर्टल पर अब तक हजारों इच्छुक उद्यमियों और नवोन्मेषकों ने पंजीकरण कराया है। नवाचार मंत्र राष्ट्रीय उद्यमिता एवं लघु व्यवसाय विकास संस्थान द्वारा फाउंडेशन फॉर इनोवेशन एंड टेक्नोलॉजी ट्रांसफर &#8211; एफआईटीटी और आईआईटी दिल्ली के सहयोग से कार्यान्वित किया जा रहा है। इस पहल का उद्देश्य संरचित मार्गदर्शन, विशेषज्ञ सलाह, उद्योग से संपर्क और बाजार तक पहुंच के माध्यम से उच्च क्षमता वाले उद्यमशीलता विचारों की पहचान पोषित और गति प्रदान करना है।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:06:46+00:00",
+        "link": "https://newsonair.gov.in/hi/the-ministry-of-skill-development-and-entrepreneurship-has-extended-the-registration-deadline-for-navachar-mantra-to-july-15/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Dater.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "पाकिस्तान के अवैध कब्‍जे वाले कश्‍मीर में प्रदर्शनकारियों पर पाकिस्‍तानी रेंजर्स की कथित गोलीबारी के बाद तनाव और बढ़ा",
+        "summary": "पाकिस्तान के अवैध कब्‍जे वाले कश्‍मीर में प्रदर्शनकारियों पर पाकिस्‍तानी रेंजर्स की कथित गोलीबारी के बाद से तनाव और बढ़ गया है। गोलीबारी में एक व्यक्ति की मौत हो गई और कई अन्य घायल हो गए। बुनियादी अधिकारों, आर्थिक राहत और राजनीतिक स्वतंत्रता की मांग को लेकर क्षेत्र में हो रहे इस्लामाबाद विरोधी प्रदर्शनों के […]",
+        "article": "पाकिस्तान के अवैध कब्&#x200d;जे वाले कश्&#x200d;मीर में प्रदर्शनकारियों पर पाकिस्&#x200d;तानी रेंजर्स की कथित गोलीबारी के बाद से तनाव और बढ़ गया है। गोलीबारी में एक व्यक्ति की मौत हो गई और कई अन्य घायल हो गए। बुनियादी अधिकारों, आर्थिक राहत और राजनीतिक स्वतंत्रता की मांग को लेकर क्षेत्र में हो रहे इस्लामाबाद विरोधी प्रदर्शनों के बाद छह सौ से अधिक नागरिक अधिकार कार्यकर्ताओं को गिरफ्तार किया गया है। इस बीच, विदेशों में रहने वाले कश्मीरियों ने प्रदर्शनकारियों के समर्थन में आज लंदन में विरोध प्रदर्शन किया।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:40:54+00:00",
+        "link": "https://newsonair.gov.in/hi/tensions-escalated-further-following-the-alleged-firing-by-pakistani-rangers-at-protesters-in-pakistan-occupied-kashmir/",
+        "post_id": 1721104,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी अमरीका के न्यूयॉर्क बंदरगाह पर पहुंचा",
+        "summary": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी अमरीका के न्यूयॉर्क बंदरगाह पर पहुंच गया है। यह पोत युनाइटेड स्‍टेट्स इंटरनेशनल नेवल रिव्‍यू 250 और सेल फोर्थ 250 समारोहों में भारत का प्रतिनिधित्व करेगा। हडसन नदी पर कल आयोजित परेड ऑफ सेल के दौरान, तीन मस्तूलों वाले इस प्रतिष्ठित पोत ने गर्व से भारतीय तिरंगा […]",
+        "article": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी अमरीका के न्यूयॉर्क बंदरगाह पर पहुंच गया है। यह पोत युनाइटेड स्&#x200d;टेट्स इंटरनेशनल नेवल रिव्&#x200d;यू 250 और सेल फोर्थ 250 समारोहों में भारत का प्रतिनिधित्व करेगा। हडसन नदी पर कल आयोजित परेड ऑफ सेल के दौरान, तीन मस्तूलों वाले इस प्रतिष्ठित पोत ने गर्व से भारतीय तिरंगा फहराया। आईएनएस सुदर्शनी की यह यात्रा 10 महीने के ट्रांसोसेनिक अभियान लोकायन 2026 का हिस्सा है। यह समुद्री सहयोग को मजबूत करने, अंतर्राष्ट्रीय सद्भावना का निर्माण करने और सहयोगी नौसेनाओं के साथ संबंधों को सुदृढ करने के लिए भारतीय नौसेना की प्रतिबद्धता को दर्शाता है।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:39:54+00:00",
+        "link": "https://newsonair.gov.in/hi/the-indian-navys-sail-training-ship-ins-sudarshini-has-arrived-at-the-port-of-new-york-in-the-united-states/",
+        "post_id": 1721103,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गुरुदेव रवींद्रनाथ टैगोर की ऐतिहासिक यात्रा की शताब्दी मनाएगा इंडोनेशिया",
+        "summary": "इंडोनेशिया, गुरुदेव रवींद्रनाथ टैगोर की वहां की ऐतिहासिक यात्रा की शताब्दी मनाएगा। इसके लिए वर्ष 2026 और 2027 के दौरान 15 महीने का कार्यक्रम आयोजित किया जाएगा। इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने आकाशवाणी समाचार से बातचीत में कहा कि प्रधानमंत्री नरेन्‍द्र मोदी की कल से शुरू होने वाली इंडोनेशिया यात्रा के दौरान […]",
+        "article": "इंडोनेशिया, गुरुदेव रवींद्रनाथ टैगोर की वहां की ऐतिहासिक यात्रा की शताब्दी मनाएगा। इसके लिए वर्ष 2026 और 2027 के दौरान 15 महीने का कार्यक्रम आयोजित किया जाएगा। इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने आकाशवाणी समाचार से बातचीत में कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी की कल से शुरू होने वाली इंडोनेशिया यात्रा के दौरान इन कार्यक्रमों का शुभारंभ किया जाएगा। शताब्दी समारोहों में प्रदर्शनियां और पूरे वर्ष चलने वाले सांस्कृतिक कार्यक्रम आयोजित किए जाएंगे। राजदूत ने बताया कि गुरुदेव रवींद्रनाथ टैगोर ने वर्ष 1927 में लगभग तीन महीने इंडोनेशिया में बिताए, व्यापक यात्रा की और देश की समृद्ध परंपराओं में खुद को समाहित किया। अपनी यात्रा से अत्यधिक प्रेरित होकर, उन्&#x200d;होंने बाद में अपने सहयोगियों को इंडोनेशिया भेजा ताकि वे वहाँ की कला, नृत्य, संस्कृति और वास्तुकला का अध्ययन कर सकें। इससे दोनों देशों के बीच सांस्कृतिक आदान-प्रदान मजबूत हुआ। राजदूत चक्रवर्ती ने कहा कि टैगोर-देवंतारा शैक्षिक और सांस्कृतिक आदान-प्रदान कार्यक्रम भी शुरू किया जाएगा, जिसमें स्मृति अवधि के दौरान प्रदर्शनियों और सांस्कृतिक कार्यक्रमों का आयोजन किया जाएगा। रवींद्रनाथ टैगोर की इंडोनेशिया यात्रा पर संकलित एक नई पुस्तक प्रधानमंत्री को उनकी यात्रा के दौरान भेंट की जाएगी।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T15:51:39+00:00",
+        "link": "https://newsonair.gov.in/hi/indonesia-will-celebrate-the-centenary-of-gurudev-rabindranath-tagores-historic-visit/",
+        "post_id": 1720833,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विदेश मंत्री डॉ. एस. जयशंकर ने कतर के प्रधानमंत्री और विदेश मंत्री से मुलाकात की",
+        "summary": "विदेश मंत्री सुब्रह्मण्‍यम जयशंकर ने आज कतर, बहरीन, कुवैत और ओमान सहित पश्चिम एशिया की अपनी आधिकारिक यात्रा शुरू की। यात्रा के पहले चरण में, डॉ. जयशंकर दोहा पहुंचे, जहां उन्होंने कतर के प्रधानमंत्री और विदेश मंत्री मोहम्मद बिन अब्दुल रहमान बिन जासिम अस्‍सानी से मुलाकात की। दोनों नेताओं ने द्विपक्षीय सहयोग के विभिन्न पहलुओं, […]",
+        "article": "विदेश मंत्री सुब्रह्मण्&#x200d;यम जयशंकर ने आज कतर , बहरीन , कुवैत और ओमान सहित पश्चिम एशिया की अपनी आधिकारिक यात्रा शुरू की। यात्रा के पहले चरण में, डॉ. जयशंकर दोहा पहुंचे, जहां उन्होंने कतर के प्रधानमंत्री और विदेश मंत्री मोहम्मद बिन अब्दुल रहमान बिन जासिम अस्&#x200d;सानी से मुलाकात की। दोनों नेताओं ने द्विपक्षीय सहयोग के विभिन्न पहलुओं, विशेष रूप से ऊर्जा, व्यापार, निवेश, संपर्क, सुरक्षा और जन-संबंधों की समीक्षा की। सोशल मीडिया पोस्ट में विदेश मंत्री ने कहा कि उन्&#x200d;होंने रणनीतिक साझेदारी को और गहरा करने के नए अवसरों पर विचार-विमर्श किया। डॉ. जयशंकर ने भारतीय समुदाय की सुरक्षा तथा कल्याण सुनिश्चित करने के लिए कतर के प्रधानमंत्री को धन्यवाद दिया और पश्चिम एशिया संघर्ष तथा उसके प्रभाव पर उनके आकलन साझा करने की सराहना की। डॉ. जयशंकर इस महीने की 13 तारीख को अमरीका के न्यूयॉर्क शहर की यात्रा करेंगे, जहां वे 2028-29 के लिए संयुक्त राष्ट्र सुरक्षा परिषद के कार्यकाल के लिए भारत के आधिकारिक अभियान का शुभारंभ करेंगे। इसके बाद, डॉ. जयशंकर इस महीने की 14 और 15 तारीख को ब्रसेल्स में आयोजित होने वाली तीसरी भारत-यूरोपीय संघ व्यापार और प्रौद्योगिकी परिषद की बैठक में भाग लेंगे और यूरोपीय संघ तथा बेल्जियम के विदेशमंत्रियों के साथ बातचीत करेंगे।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T15:49:15+00:00",
+        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-met-with-the-prime-minister-and-foreign-minister-of-qatar/",
+        "post_id": 1720832,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "world": [
+      {
+        "title": "पाकिस्तान के अवैध कब्‍जे वाले कश्‍मीर में प्रदर्शनकारियों पर पाकिस्‍तानी रेंजर्स की कथित गोलीबारी के बाद तनाव और बढ़ा",
+        "summary": "पाकिस्तान के अवैध कब्‍जे वाले कश्‍मीर में प्रदर्शनकारियों पर पाकिस्‍तानी रेंजर्स की कथित गोलीबारी के बाद से तनाव और बढ़ गया है। गोलीबारी में एक व्यक्ति की मौत हो गई और कई अन्य घायल हो गए। बुनियादी अधिकारों, आर्थिक राहत और राजनीतिक स्वतंत्रता की मांग को लेकर क्षेत्र में हो रहे इस्लामाबाद विरोधी प्रदर्शनों के […]",
+        "article": "पाकिस्तान के अवैध कब्&#x200d;जे वाले कश्&#x200d;मीर में प्रदर्शनकारियों पर पाकिस्&#x200d;तानी रेंजर्स की कथित गोलीबारी के बाद से तनाव और बढ़ गया है। गोलीबारी में एक व्यक्ति की मौत हो गई और कई अन्य घायल हो गए। बुनियादी अधिकारों, आर्थिक राहत और राजनीतिक स्वतंत्रता की मांग को लेकर क्षेत्र में हो रहे इस्लामाबाद विरोधी प्रदर्शनों के बाद छह सौ से अधिक नागरिक अधिकार कार्यकर्ताओं को गिरफ्तार किया गया है। इस बीच, विदेशों में रहने वाले कश्मीरियों ने प्रदर्शनकारियों के समर्थन में आज लंदन में विरोध प्रदर्शन किया।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:40:54+00:00",
+        "link": "https://newsonair.gov.in/hi/tensions-escalated-further-following-the-alleged-firing-by-pakistani-rangers-at-protesters-in-pakistan-occupied-kashmir/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी अमरीका के न्यूयॉर्क बंदरगाह पर पहुंचा",
+        "summary": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी अमरीका के न्यूयॉर्क बंदरगाह पर पहुंच गया है। यह पोत युनाइटेड स्‍टेट्स इंटरनेशनल नेवल रिव्‍यू 250 और सेल फोर्थ 250 समारोहों में भारत का प्रतिनिधित्व करेगा। हडसन नदी पर कल आयोजित परेड ऑफ सेल के दौरान, तीन मस्तूलों वाले इस प्रतिष्ठित पोत ने गर्व से भारतीय तिरंगा […]",
+        "article": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी अमरीका के न्यूयॉर्क बंदरगाह पर पहुंच गया है। यह पोत युनाइटेड स्&#x200d;टेट्स इंटरनेशनल नेवल रिव्&#x200d;यू 250 और सेल फोर्थ 250 समारोहों में भारत का प्रतिनिधित्व करेगा। हडसन नदी पर कल आयोजित परेड ऑफ सेल के दौरान, तीन मस्तूलों वाले इस प्रतिष्ठित पोत ने गर्व से भारतीय तिरंगा फहराया। आईएनएस सुदर्शनी की यह यात्रा 10 महीने के ट्रांसोसेनिक अभियान लोकायन 2026 का हिस्सा है। यह समुद्री सहयोग को मजबूत करने, अंतर्राष्ट्रीय सद्भावना का निर्माण करने और सहयोगी नौसेनाओं के साथ संबंधों को सुदृढ करने के लिए भारतीय नौसेना की प्रतिबद्धता को दर्शाता है।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:39:54+00:00",
+        "link": "https://newsonair.gov.in/hi/the-indian-navys-sail-training-ship-ins-sudarshini-has-arrived-at-the-port-of-new-york-in-the-united-states/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/INS-Sudarshini.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमेरिका का सबसे बेहतर दौर अभी आना बाकी: डोनाल्ड ट्रम्प",
+        "summary": "अमरीका के राष्ट्रपति डोनाल्ड ट्रम्प ने देश की स्वतंत्रता की 250वीं वर्षगांठ के अवसर पर राष्‍ट्र को संबोधित करते हुए अमरीका की उपलब्धियों का उल्‍लेख करते हुए कहा कि देश का सबसे बेहतर दौर अभी आना बाकी है। वाशिंगटन में आयोजित समारोह ट्रम्‍प ने कहा कि ढाई शताब्दियों से अमरीकी गणराज्य मानव इतिहास की सर्वोच्च […]",
+        "article": "अमरीका के राष्ट्रपति डोनाल्ड ट्रम्प ने देश की स्वतंत्रता की 250वीं वर्षगांठ के अवसर पर राष्&#x200d;ट्र को संबोधित करते हुए अमरीका की उपलब्धियों का उल्&#x200d;लेख करते हुए कहा कि देश का सबसे बेहतर दौर अभी आना बाकी है। वाशिंगटन में आयोजित समारोह ट्रम्&#x200d;प ने कहा कि ढाई शताब्दियों से अमरीकी गणराज्य मानव इतिहास की सर्वोच्च उपलब्धि के रूप में खड़ा है। उन्होंने कहा कि विदेशों में अमरीका के सभी सैन्य अभियान सफल रहे हैं।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:30:35+00:00",
+        "link": "https://newsonair.gov.in/hi/americas-best-days-are-yet-to-come-donald-trump/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Trump.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "तेहरान में अयातुल्ला अली खामेनेई के अंतिम संस्कार के लिए सामूहिक प्रार्थना हुई आयोजित",
+        "summary": "ईरान के पूर्व सर्वोच्च नेता अयातुल्ला अली खामेनेई के अंतिम संस्कार के लिए आज तेहरान में राजनीतिक, सैन्य और धार्मिक नेतृत्व ने सामूहिक प्रार्थना में भाग लिया। सरकारी टेलीविजन के अनुसार ग्रैंड मोसाला में आयोजित प्रार्थना सभा में खामेनेई के तीनों पुत्रों के साथ राष्ट्रपति मसूद पेज़ेश्कियन, संसद अध्यक्ष मोहम्मद बगेर ग़ालिबफ़ और वरिष्ठ सैन्‍य […]",
+        "article": "ईरान के पूर्व सर्वोच्च नेता अयातुल्ला अली खामेनेई के अंतिम संस्कार के लिए आज तेहरान में राजनीतिक, सैन्य और धार्मिक नेतृत्व ने सामूहिक प्रार्थना में भाग लिया। सरकारी टेलीविजन के अनुसार ग्रैंड मोसाला में आयोजित प्रार्थना सभा में खामेनेई के तीनों पुत्रों के साथ राष्ट्रपति मसूद पेज़ेश्कियन, संसद अध्यक्ष मोहम्मद बगेर ग़ालिबफ़ और वरिष्ठ सैन्&#x200d;य अधिकारी उपस्थित रहें। हालांकि, उनके उत्तराधिकारी मोजतबा खामेनेई इस सभा में शामिल नहीं थे।28 फरवरी को इस्राएल और अमरीका के हवाई हमलों में अयातुल्ला अली खामेनेई उनके परिवार के कई सदस्यों और अन्य वरिष्ठ ईरानी अधिकारियों की मौत के बाद से मोजतबा खामेनेई सार्वजनिक रूप से दिखाई नहीं दिए हैं। मोजतबा खामेनेई ने अपने पिता का स्थान लिया है, लेकिन उनकी सार्वजनिक अनुपस्थिति ने ईरान के नए नेता के ठिकाने के बारे में सवाल खड़े कर दिए हैं। अयातुल्ला अली खामेनेई की अंतिम यात्रा नौ जुलाई को मशहद में होगी। इसके बाद 40 दिनों तक सार्वजनिक शोक मनाया जाएगा।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:26:57+00:00",
+        "link": "https://newsonair.gov.in/hi/mass-prayers-were-held-in-tehran-for-the-funeral-of-ayatollah-ali-khamenei/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMeauN-bQAE7B5u-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ब्रिटेन की सेना ने कहा- लाल सागर में यमन के तट पर आज एक मालवाहक जहाज पर हमला हुआ",
+        "summary": "ब्रिटेन की सेना ने बताया कि लाल सागर में यमन के तट पर आज एक मालवाहक जहाज पर हमला हुआ। ब्रिटेन की यूनाइटेड किंगडम मैरीटाइम ट्रेड ऑपरेशंस &#8211; यूकेएमटीओ ने बताया कि यह हमला होदेइदा के पास हुआ, जो ईरान समर्थित हूती विद्रोहियों के नियंत्रण वाले क्षेत्र में है। यूकेएमटीओ ने बताया कि जहाज ने […]",
+        "article": "ब्रिटेन की सेना ने बताया कि लाल सागर में यमन के तट पर आज एक मालवाहक जहाज पर हमला हुआ। ब्रिटेन की यूनाइटेड किंगडम मैरीटाइम ट्रेड ऑपरेशंस &#8211; यूकेएमटीओ ने बताया कि यह हमला होदेइदा के पास हुआ, जो ईरान समर्थित हूती विद्रोहियों के नियंत्रण वाले क्षेत्र में है। यूकेएमटीओ ने बताया कि जहाज ने होदेइदा से 55 किलोमीटर दक्षिण-पश्चिम में अज्ञात सशस्त्र हमलावरों द्वारा हमले की सूचना दी है। मामले की जांच की जा रही है। हालांकि, अभी तक किसी भी समूह ने हमले की जिम्मेदारी नहीं ली है।हूती विद्रोहियों ने जहाजों पर फिर से हमले शुरू करने की धमकी दी थी, लेकिन हाल के दिनों में उन्&#x200d;होंने ऐसे हमले नहीं किए थे।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T16:17:10+00:00",
+        "link": "https://newsonair.gov.in/hi/the-british-military-said-a-cargo-ship-was-attacked-off-the-coast-of-yemen-in-the-red-sea-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गुरुदेव रवींद्रनाथ टैगोर की ऐतिहासिक यात्रा की शताब्दी मनाएगा इंडोनेशिया",
+        "summary": "इंडोनेशिया, गुरुदेव रवींद्रनाथ टैगोर की वहां की ऐतिहासिक यात्रा की शताब्दी मनाएगा। इसके लिए वर्ष 2026 और 2027 के दौरान 15 महीने का कार्यक्रम आयोजित किया जाएगा। इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने आकाशवाणी समाचार से बातचीत में कहा कि प्रधानमंत्री नरेन्‍द्र मोदी की कल से शुरू होने वाली इंडोनेशिया यात्रा के दौरान […]",
+        "article": "इंडोनेशिया, गुरुदेव रवींद्रनाथ टैगोर की वहां की ऐतिहासिक यात्रा की शताब्दी मनाएगा। इसके लिए वर्ष 2026 और 2027 के दौरान 15 महीने का कार्यक्रम आयोजित किया जाएगा। इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने आकाशवाणी समाचार से बातचीत में कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी की कल से शुरू होने वाली इंडोनेशिया यात्रा के दौरान इन कार्यक्रमों का शुभारंभ किया जाएगा। शताब्दी समारोहों में प्रदर्शनियां और पूरे वर्ष चलने वाले सांस्कृतिक कार्यक्रम आयोजित किए जाएंगे। राजदूत ने बताया कि गुरुदेव रवींद्रनाथ टैगोर ने वर्ष 1927 में लगभग तीन महीने इंडोनेशिया में बिताए, व्यापक यात्रा की और देश की समृद्ध परंपराओं में खुद को समाहित किया। अपनी यात्रा से अत्यधिक प्रेरित होकर, उन्&#x200d;होंने बाद में अपने सहयोगियों को इंडोनेशिया भेजा ताकि वे वहाँ की कला, नृत्य, संस्कृति और वास्तुकला का अध्ययन कर सकें। इससे दोनों देशों के बीच सांस्कृतिक आदान-प्रदान मजबूत हुआ। राजदूत चक्रवर्ती ने कहा कि टैगोर-देवंतारा शैक्षिक और सांस्कृतिक आदान-प्रदान कार्यक्रम भी शुरू किया जाएगा, जिसमें स्मृति अवधि के दौरान प्रदर्शनियों और सांस्कृतिक कार्यक्रमों का आयोजन किया जाएगा। रवींद्रनाथ टैगोर की इंडोनेशिया यात्रा पर संकलित एक नई पुस्तक प्रधानमंत्री को उनकी यात्रा के दौरान भेंट की जाएगी।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T15:51:39+00:00",
+        "link": "https://newsonair.gov.in/hi/indonesia-will-celebrate-the-centenary-of-gurudev-rabindranath-tagores-historic-visit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMeSopFaoAAWR8z.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विदेश मंत्री डॉ. एस. जयशंकर ने कतर के प्रधानमंत्री और विदेश मंत्री से मुलाकात की",
+        "summary": "विदेश मंत्री सुब्रह्मण्‍यम जयशंकर ने आज कतर, बहरीन, कुवैत और ओमान सहित पश्चिम एशिया की अपनी आधिकारिक यात्रा शुरू की। यात्रा के पहले चरण में, डॉ. जयशंकर दोहा पहुंचे, जहां उन्होंने कतर के प्रधानमंत्री और विदेश मंत्री मोहम्मद बिन अब्दुल रहमान बिन जासिम अस्‍सानी से मुलाकात की। दोनों नेताओं ने द्विपक्षीय सहयोग के विभिन्न पहलुओं, […]",
+        "article": "विदेश मंत्री सुब्रह्मण्&#x200d;यम जयशंकर ने आज कतर , बहरीन , कुवैत और ओमान सहित पश्चिम एशिया की अपनी आधिकारिक यात्रा शुरू की। यात्रा के पहले चरण में, डॉ. जयशंकर दोहा पहुंचे, जहां उन्होंने कतर के प्रधानमंत्री और विदेश मंत्री मोहम्मद बिन अब्दुल रहमान बिन जासिम अस्&#x200d;सानी से मुलाकात की। दोनों नेताओं ने द्विपक्षीय सहयोग के विभिन्न पहलुओं, विशेष रूप से ऊर्जा, व्यापार, निवेश, संपर्क, सुरक्षा और जन-संबंधों की समीक्षा की। सोशल मीडिया पोस्ट में विदेश मंत्री ने कहा कि उन्&#x200d;होंने रणनीतिक साझेदारी को और गहरा करने के नए अवसरों पर विचार-विमर्श किया। डॉ. जयशंकर ने भारतीय समुदाय की सुरक्षा तथा कल्याण सुनिश्चित करने के लिए कतर के प्रधानमंत्री को धन्यवाद दिया और पश्चिम एशिया संघर्ष तथा उसके प्रभाव पर उनके आकलन साझा करने की सराहना की। डॉ. जयशंकर इस महीने की 13 तारीख को अमरीका के न्यूयॉर्क शहर की यात्रा करेंगे, जहां वे 2028-29 के लिए संयुक्त राष्ट्र सुरक्षा परिषद के कार्यकाल के लिए भारत के आधिकारिक अभियान का शुभारंभ करेंगे। इसके बाद, डॉ. जयशंकर इस महीने की 14 और 15 तारीख को ब्रसेल्स में आयोजित होने वाली तीसरी भारत-यूरोपीय संघ व्यापार और प्रौद्योगिकी परिषद की बैठक में भाग लेंगे और यूरोपीय संघ तथा बेल्जियम के विदेशमंत्रियों के साथ बातचीत करेंगे।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T15:49:15+00:00",
+        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-met-with-the-prime-minister-and-foreign-minister-of-qatar/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMeDEBTboAEMNMD.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1602,9 +1590,30 @@ window.VM_NEWS = {
         "date": "2026-07-05",
         "pubDate": "2026-07-05T14:18:20+00:00",
         "link": "https://newsonair.gov.in/hi/venezuelas-acting-president-delcy-rodriguez-expressed-gratitude-to-india-for-the-aid-provided-following-the-devastating-earthquake/",
-        "post_id": 1720500,
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-05-194746.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ओपेक प्लस ने अगस्त से प्रतिदिन 5 लाख 48 हजार बैरल तेल उत्पादन बढ़ाने पर सहमति जताई",
+        "summary": "पेट्रोलियम निर्यातक देशों के संगठन-ओपेक प्लस ने वैश्विक तेल बाजार की स्थितियों की समीक्षा के लिए आयोजित वर्चुअल बैठक के बाद इस वर्ष अगस्त से प्रतिदिन 188 हजार बैरल तेल उत्पादन बढ़ाने पर सहमति व्यक्त की है। आज हुई बैठक के बाद जारी बयान में, सऊदी अरब, रूस, इराक, कुवैत, कजाकिस्तान, अल्जीरिया और ओमान सहित […]",
+        "article": "पेट्रोलियम निर्यातक देशों के संगठन-ओपेक प्लस ने वैश्विक तेल बाजार की स्थितियों की समीक्षा के लिए आयोजित वर्चुअल बैठक के बाद इस वर्ष अगस्त से प्रतिदिन 188 हजार बैरल तेल उत्पादन बढ़ाने पर सहमति व्यक्त की है। आज हुई बैठक के बाद जारी बयान में, सऊदी अरब, रूस, इराक, कुवैत, कजाकिस्तान, अल्जीरिया और ओमान सहित सात ओपेक प्लस सदस्य देशों ने कहा कि यह निर्णय बाजार स्थिरता को बढ़ावा देने के उद्देश्य से लिया गया है। तेल उत्पादक समूह ने कहा कि वह वैश्विक तेल बाजार पर नजर रखना जारी रखेगा और सहमति वाले उत्पादन लक्ष्यों का अनुपालन सुनिश्चित करेगा। भाग लेने वाले देशों की अगली बैठक दो अगस्त को निर्धारित है।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T13:02:06+00:00",
+        "link": "https://newsonair.gov.in/hi/opec-has-agreed-to-increase-oil-production-by-548000-barrels-per-day-starting-in-august/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607053852490.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "जिनेवा में उपभोक्ता संरक्षण कानून और नीति पर अंतर-सरकारी विशेषज्ञ समूह के नौवें सत्र की अध्यक्षता करेगा भारत",
+        "summary": "भारत, स्विट्जरलैंड के जिनेवा में उपभोक्ता संरक्षण कानून और नीति पर अंतर-सरकारी विशेषज्ञ समूह के नौवें सत्र की अध्यक्षता करेगा। यह सत्र संयुक्त राष्ट्र व्यापार और विकास संगठन द्वारा कल से 8 जुलाई के बीच आयोजित किया जा रहा है। उपभोक्ता मामले, खाद्य और सार्वजनिक वितरण मंत्रालय ने कहा कि इस सत्र में सदस्य देशों, […]",
+        "article": "भारत, स्विट्जरलैंड के जिनेवा में उपभोक्ता संरक्षण कानून और नीति पर अंतर-सरकारी विशेषज्ञ समूह के नौवें सत्र की अध्यक्षता करेगा। यह सत्र संयुक्त राष्ट्र व्यापार और विकास संगठन द्वारा कल से 8 जुलाई के बीच आयोजित किया जा रहा है। उपभोक्ता मामले, खाद्य और सार्वजनिक वितरण मंत्रालय ने कहा कि इस सत्र में सदस्य देशों, अंतरराष्ट्रीय संगठनों, उपभोक्ता संरक्षण प्राधिकरणों, शिक्षाविदों और अन्य हितधारकों को उपभोक्ता संरक्षण कानून और नीति में उभरते मुद्दों पर विचार-विमर्श करने के लिए एक साथ लाया जाएगा। अंतर-सरकारी विशेषज्ञ समूह उपभोक्ता संरक्षण कानून और नीति पर सहयोग और संवाद के लिए प्रमुख अंतर-सरकारी मंच है। उपभोक्ता मामलों के विभाग की सचिव निधि खरे सत्र की अध्यक्षता करेंगी।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T08:36:54+00:00",
+        "link": "https://newsonair.gov.in/hi/india-unctad-consumer/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
@@ -1722,6 +1731,17 @@ window.VM_NEWS = {
     ],
     "business": [
       {
+        "title": "एफपीआई ने जुलाई के तीन शुरूआती कारोबारी सत्रों में इस महीने अब तक 708 करोड़ रुपये के भारतीय शेयर खरीदे",
+        "summary": "विदेशी पोर्टफोलियो निवेशकों-एफपीआई ने जुलाई के तीन शुरूआती कारोबारी सत्रों में लिवाली का रूख बनाए रखा और इस महीने अब तक 708 करोड़ रुपये के भारतीय शेयर खरीदे। जून में उन्‍होंने भारतीय शेयर बाजार से 49 हजार 340 करोड़ रुपये निकाले थे, लेकिन अब यह रूख उलटता हुआ दिखाई दे रहा है। लेकिन भारतीय ऋण […]",
+        "article": "विदेशी पोर्टफोलियो निवेशकों-एफपीआई ने जुलाई के तीन शुरूआती कारोबारी सत्रों में लिवाली का रूख बनाए रखा और इस महीने अब तक 708 करोड़ रुपये के भारतीय शेयर खरीदे। जून में उन्&#x200d;होंने भारतीय शेयर बाजार से 49 हजार 340 करोड़ रुपये निकाले थे, लेकिन अब यह रूख उलटता हुआ दिखाई दे रहा है। लेकिन भारतीय ऋण बाजार में एफपीआई ने पिछले महीने काफी दिलचस्&#x200d;पी दिखाई थी। जेनरल लिमिट के तहत उन्&#x200d;होंने 30 हजार 620 करोड़ रुपये , एफएआर के जरिये 21 हजार 652 करोड़ रुपये और वीआरआर के तहत तीन हजार 246 करोड़ रुपये का निवेश किया। सरकारी प्रतिभूतियों में विदेशी संस्&#x200d;थागत निवेशकों को कैपिटल गेन्&#x200d;स और ब्&#x200d;याज से होने वाली आय पर मिली छूट से और निवेश की सीमा हटाए जाने से भारतीय ऋण बाजार में विदेशी निवेश बढ़ा है। कुल मिलाकर जून में भारतीय पूंजी बाजार में एफपीआई ने चार हजार छह सौ उनहत्&#x200d;तर करोड़ रुपये का निेवेश किया है। उससे पहले के तीन महीनों में उन्&#x200d;होंने भारतीय बाजार से पैसे निकाले थे।",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T14:44:07+00:00",
+        "link": "https://newsonair.gov.in/hi/fpis-bought-indian-shares-worth-rs-708-crore-in-the-first-three-trading-sessions-of-july-taking-their-total-purchases-so-far-this-month/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FPI.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "ईपीएफओ ने वित्त वर्ष 2025-26 के लिए ब्‍याज दर 8.25% रखने की घोषणा की",
         "summary": "कर्मचारी भविष्य निधि संगठन (ईपीएफओ) ने वित्तीय वर्ष 2025-26 के लिए ई.पी.एफ जमा पर 8.25% ब्याज दर की आधिकारिक रूप से घोषणा कर दी है। श्रम एवं रोजगार मंत्रालय द्वारा ईपीएफ योजना, 1952 के अंतर्गत इस दर को मंजूरी दी गई है। संगठन ने क्षेत्रीय और आंचलिक कार्यालयों को निर्देश दिया है कि वे अनुमोदित […]",
         "article": "कर्मचारी भविष्य निधि संगठन (ईपीएफओ) ने वित्तीय वर्ष 2025-26 के लिए ई.पी.एफ जमा पर 8.25% ब्याज दर की आधिकारिक रूप से घोषणा कर दी है। श्रम एवं रोजगार मंत्रालय द्वारा ईपीएफ योजना, 1952 के अंतर्गत इस दर को मंजूरी दी गई है। संगठन ने क्षेत्रीय और आंचलिक कार्यालयों को निर्देश दिया है कि वे अनुमोदित ब्याज राशि को सदस्यों के ईपीएफ खातों में जमा करें।",
@@ -1796,18 +1816,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/pharmaceuticals-dept-invites-suggestions-for-revising-gte-exemption-list-for-medical-devices/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/gte.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "एफपीआई ने जुलाई के तीन शुरूआती कारोबारी सत्रों में इस महीने अब तक 708 करोड़ रुपये के भारतीय शेयर खरीदे",
-        "summary": "विदेशी पोर्टफोलियो निवेशकों-एफपीआई ने जुलाई के तीन शुरूआती कारोबारी सत्रों में लिवाली का रूख बनाए रखा और इस महीने अब तक 708 करोड़ रुपये के भारतीय शेयर खरीदे। जून में उन्‍होंने भारतीय शेयर बाजार से 49 हजार 340 करोड़ रुपये निकाले थे, लेकिन अब यह रूख उलटता हुआ दिखाई दे रहा है। लेकिन भारतीय ऋण […]",
-        "article": "विदेशी पोर्टफोलियो निवेशकों-एफपीआई ने जुलाई के तीन शुरूआती कारोबारी सत्रों में लिवाली का रूख बनाए रखा और इस महीने अब तक 708 करोड़ रुपये के भारतीय शेयर खरीदे। जून में उन्&#x200d;होंने भारतीय शेयर बाजार से 49 हजार 340 करोड़ रुपये निकाले थे, लेकिन अब यह रूख उलटता हुआ दिखाई दे रहा है। लेकिन भारतीय ऋण बाजार में एफपीआई ने पिछले महीने काफी दिलचस्&#x200d;पी दिखाई थी। जेनरल लिमिट के तहत उन्&#x200d;होंने 30 हजार 620 करोड़ रुपये , एफएआर के जरिये 21 हजार 652 करोड़ रुपये और वीआरआर के तहत तीन हजार 246 करोड़ रुपये का निवेश किया। सरकारी प्रतिभूतियों में विदेशी संस्&#x200d;थागत निवेशकों को कैपिटल गेन्&#x200d;स और ब्&#x200d;याज से होने वाली आय पर मिली छूट से और निवेश की सीमा हटाए जाने से भारतीय ऋण बाजार में विदेशी निवेश बढ़ा है। कुल मिलाकर जून में भारतीय पूंजी बाजार में एफपीआई ने चार हजार छह सौ उनहत्&#x200d;तर करोड़ रुपये का निेवेश किया है। उससे पहले के तीन महीनों में उन्&#x200d;होंने भारतीय बाजार से पैसे निकाले थे।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T14:44:07+00:00",
-        "link": "https://newsonair.gov.in/hi/fpis-bought-indian-shares-worth-rs-708-crore-in-the-first-three-trading-sessions-of-july-taking-their-total-purchases-so-far-this-month/",
-        "post_id": 1720504,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
