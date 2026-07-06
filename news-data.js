@@ -1,8 +1,19 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-06T16:39:05.832203",
+  "generated": "2026-07-06T19:12:24.726975",
   "en": {
     "top": [
+      {
+        "title": "Indian Navy will commission 6th Project 17A indigenous stealth frigate, Mahendragiri (F38) on July 11",
+        "summary": "The Indian Navy will commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38), at Visakhapatnam on Saturday. The Defence Ministry said that the stealth frigate has been designed in-house by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited, Mumbai. The ship has been named after the majestic Mahendragiri mountain […]",
+        "article": "The Indian Navy will commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38), at Visakhapatnam on Saturday. The Defence Ministry said that the stealth frigate has been designed in-house by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited, Mumbai. The ship has been named after the majestic Mahendragiri mountain range in the Eastern Ghats. The Ministry said it embodies resilience, strength, and unwavering resolve and is now poised to forge a distinguished legacy and add another proud chapter to India’s maritime history. The frigate is powered by a modern Combined Diesel or Gas propulsion system, enabling high-speed operations with exceptional endurance across the full spectrum of maritime missions. With over 75 percent indigenous content, Mahendragiri exemplifies the Government’s Aatmanirbhar Bharat initiative. The commissioning of Mahendragiri marks another milestone in the successful execution of the Project 17A programme. It said that Mahendragiri will serve as a formidable force multiplier, safeguarding the nation’s maritime interests and contributing to a secure, stable, and prosperous Indo-Pacific as India continues to strengthen its role as the Preferred Security Partner in the Indian Ocean Region.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T16:46:39+00:00",
+        "link": "https://newsonair.gov.in/indian-navy-will-commission-6th-project-17a-indigenous-stealth-frigate-mahendragiri-f38-on-july-11/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/navy.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "IMU Emerges as Global Maritime Education Leader as India Strengthens Maritime Workforce: Union Minister Sarbananda Sonowal",
         "summary": "Ports, Shipping and Waterways Minister Sarbananda Sonowal today reviewed the progress of Indian Maritime University (IMU) and its contribution to India’s maritime education, research and skilling ecosystem. In a social media post, Mr Sonowal said that it is encouraging to see IMU’s growing global stature, driven by increasing international academic partnerships and engagements with strategic […]",
@@ -70,17 +81,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Union Railways Minister Ashwini Vaishnaw inaugurates a new train service between Uttarakhand and Maharashtra",
-        "summary": "Union Railways Minister Ashwini Vaishnaw today virtually inaugurated a new train service between Tanakpur in Uttarakhand and Hazur Sahib at Nanded in Maharashtra, along with the extension of the Tanakpur-Pilibhit rail service up to Shahjahanpur. He said the new service fulfils a long-pending demand of people living in the Terai region of Uttarakhand. […]",
-        "article": "Union Railways Minister Ashwini Vaishnaw today virtually inaugurated a new train service between Tanakpur in Uttarakhand and Hazur Sahib at Nanded in Maharashtra, along with the extension of the Tanakpur-Pilibhit rail service up to Shahjahanpur. He said the new service fulfils a long-pending demand of people living in the Terai region of Uttarakhand. Meanwhile, at Tanakpur Railway Station in Uttarakhand&#8217;s Champawat district, Union Minister of State for Railways Ravneet Singh Bittu, along with Minister of State for Road Transport and Highways Ajay Tamta, flagged off the new train service. Speaking on the occasion, Mr Bittu thanked the Central Government and said that the launch of the Tanakpur-Nanded Express would provide a major boost to religious tourism.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T14:42:51+00:00",
-        "link": "https://newsonair.gov.in/union-railways-minister-ashwini-vaishnaw-inaugurates-a-new-train-service-between-uttarakhand-and-maharashtra/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nanda_Devi_-_Hidden_Summit%2C_Uttarakhand_India_2013.jpg/1280px-Nanda_Devi_-_Hidden_Summit%2C_Uttarakhand_India_2013.jpg",
-        "image_credit": "Wikipedia – Uttarakhand (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "10 killed, 46 injured after Russia launches ballistic missile attack on Kyiv, Ukraine",
         "summary": "In Ukraine, at least 10 people were killed and 46 others were injured after Russia launched a ballistic missile attack on the capital, Kyiv, this morning. This came a day before a key NATO summit in Turkey, which US President Donald Trump is expected to attend. Ukraine&#8217;s Air Force said Russia used ballistic missiles, […]",
         "article": "In Ukraine, at least 10 people were killed and 46 others were injured after Russia launched a ballistic missile attack on the capital, Kyiv, this morning. This came a day before a key NATO summit in Turkey, which US President Donald Trump is expected to attend. Ukraine&#8217;s Air Force said Russia used ballistic missiles, cruise missiles and drones in the attack. A residential building in the Podilskyi district partially collapsed. In the Darnytsia district, several multistory buildings were damaged and people were believed to be trapped under the rubble. Explosions echoed across the city as civilians sought shelter in metro stations. Kyiv Mayor Vitaliy Klitschko said at least two districts reported fires or damage caused by falling debris. Air raid sirens were activated across the capital shortly before the explosions. The latest attack came after Ukrainian President Volodymyr Zelensky yesterday warned that intelligence suggested Russia is preparing a new massive strike.",
@@ -138,6 +138,17 @@ window.VM_NEWS = {
     ],
     "breaking": [
       {
+        "title": "Indian Navy will commission 6th Project 17A indigenous stealth frigate, Mahendragiri (F38) on July 11",
+        "summary": "The Indian Navy will commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38), at Visakhapatnam on Saturday. The Defence Ministry said that the stealth frigate has been designed in-house by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited, Mumbai. The ship has been named after the majestic Mahendragiri mountain […]",
+        "article": "The Indian Navy will commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38), at Visakhapatnam on Saturday. The Defence Ministry said that the stealth frigate has been designed in-house by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited, Mumbai. The ship has been named after the majestic Mahendragiri mountain range in the Eastern Ghats. The Ministry said it embodies resilience, strength, and unwavering resolve and is now poised to forge a distinguished legacy and add another proud chapter to India’s maritime history. The frigate is powered by a modern Combined Diesel or Gas propulsion system, enabling high-speed operations with exceptional endurance across the full spectrum of maritime missions. With over 75 percent indigenous content, Mahendragiri exemplifies the Government’s Aatmanirbhar Bharat initiative. The commissioning of Mahendragiri marks another milestone in the successful execution of the Project 17A programme. It said that Mahendragiri will serve as a formidable force multiplier, safeguarding the nation’s maritime interests and contributing to a secure, stable, and prosperous Indo-Pacific as India continues to strengthen its role as the Preferred Security Partner in the Indian Ocean Region.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T16:46:39+00:00",
+        "link": "https://newsonair.gov.in/indian-navy-will-commission-6th-project-17a-indigenous-stealth-frigate-mahendragiri-f38-on-july-11/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/navy.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "IMU Emerges as Global Maritime Education Leader as India Strengthens Maritime Workforce: Union Minister Sarbananda Sonowal",
         "summary": "Ports, Shipping and Waterways Minister Sarbananda Sonowal today reviewed the progress of Indian Maritime University (IMU) and its contribution to India’s maritime education, research and skilling ecosystem. In a social media post, Mr Sonowal said that it is encouraging to see IMU’s growing global stature, driven by increasing international academic partnerships and engagements with strategic […]",
         "article": "Ports, Shipping and Waterways Minister Sarbananda Sonowal today reviewed the progress of Indian Maritime University (IMU) and its contribution to India’s maritime education, research and skilling ecosystem. In a social media post, Mr Sonowal said that it is encouraging to see IMU’s growing global stature, driven by increasing international academic partnerships and engagements with strategic forums like the International Association of Maritime Universities (IAMU) and the University of the Arctic. He noted that as India navigates towards realising the Maritime Amrit Kaal Vision 2047, intensifying its focus on industry-oriented training and advanced maritime skilling is crucial. The Minister also emphasised that a highly skilled workforce will be the anchor for cementing India’s leadership in global shipbuilding and the wider maritime sector.",
@@ -190,17 +201,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/pm-modi-to-be-begin-6-day-visit-to-indonesia-australia-new-zealand-today/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/a3.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Railways Minister Ashwini Vaishnaw inaugurates a new train service between Uttarakhand and Maharashtra",
-        "summary": "Union Railways Minister Ashwini Vaishnaw today virtually inaugurated a new train service between Tanakpur in Uttarakhand and Hazur Sahib at Nanded in Maharashtra, along with the extension of the Tanakpur-Pilibhit rail service up to Shahjahanpur. He said the new service fulfils a long-pending demand of people living in the Terai region of Uttarakhand. […]",
-        "article": "Union Railways Minister Ashwini Vaishnaw today virtually inaugurated a new train service between Tanakpur in Uttarakhand and Hazur Sahib at Nanded in Maharashtra, along with the extension of the Tanakpur-Pilibhit rail service up to Shahjahanpur. He said the new service fulfils a long-pending demand of people living in the Terai region of Uttarakhand. Meanwhile, at Tanakpur Railway Station in Uttarakhand&#8217;s Champawat district, Union Minister of State for Railways Ravneet Singh Bittu, along with Minister of State for Road Transport and Highways Ajay Tamta, flagged off the new train service. Speaking on the occasion, Mr Bittu thanked the Central Government and said that the launch of the Tanakpur-Nanded Express would provide a major boost to religious tourism.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T14:42:51+00:00",
-        "link": "https://newsonair.gov.in/union-railways-minister-ashwini-vaishnaw-inaugurates-a-new-train-service-between-uttarakhand-and-maharashtra/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nanda_Devi_-_Hidden_Summit%2C_Uttarakhand_India_2013.jpg/1280px-Nanda_Devi_-_Hidden_Summit%2C_Uttarakhand_India_2013.jpg",
-        "image_credit": "Wikipedia – Uttarakhand (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -250,6 +250,17 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "Indian Navy will commission 6th Project 17A indigenous stealth frigate, Mahendragiri (F38) on July 11",
+        "summary": "The Indian Navy will commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38), at Visakhapatnam on Saturday. The Defence Ministry said that the stealth frigate has been designed in-house by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited, Mumbai. The ship has been named after the majestic Mahendragiri mountain […]",
+        "article": "The Indian Navy will commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38), at Visakhapatnam on Saturday. The Defence Ministry said that the stealth frigate has been designed in-house by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited, Mumbai. The ship has been named after the majestic Mahendragiri mountain range in the Eastern Ghats. The Ministry said it embodies resilience, strength, and unwavering resolve and is now poised to forge a distinguished legacy and add another proud chapter to India’s maritime history. The frigate is powered by a modern Combined Diesel or Gas propulsion system, enabling high-speed operations with exceptional endurance across the full spectrum of maritime missions. With over 75 percent indigenous content, Mahendragiri exemplifies the Government’s Aatmanirbhar Bharat initiative. The commissioning of Mahendragiri marks another milestone in the successful execution of the Project 17A programme. It said that Mahendragiri will serve as a formidable force multiplier, safeguarding the nation’s maritime interests and contributing to a secure, stable, and prosperous Indo-Pacific as India continues to strengthen its role as the Preferred Security Partner in the Indian Ocean Region.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T16:46:39+00:00",
+        "link": "https://newsonair.gov.in/indian-navy-will-commission-6th-project-17a-indigenous-stealth-frigate-mahendragiri-f38-on-july-11/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/navy.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "IMU Emerges as Global Maritime Education Leader as India Strengthens Maritime Workforce: Union Minister Sarbananda Sonowal",
         "summary": "Ports, Shipping and Waterways Minister Sarbananda Sonowal today reviewed the progress of Indian Maritime University (IMU) and its contribution to India’s maritime education, research and skilling ecosystem. In a social media post, Mr Sonowal said that it is encouraging to see IMU’s growing global stature, driven by increasing international academic partnerships and engagements with strategic […]",
         "article": "Ports, Shipping and Waterways Minister Sarbananda Sonowal today reviewed the progress of Indian Maritime University (IMU) and its contribution to India’s maritime education, research and skilling ecosystem. In a social media post, Mr Sonowal said that it is encouraging to see IMU’s growing global stature, driven by increasing international academic partnerships and engagements with strategic forums like the International Association of Maritime Universities (IAMU) and the University of the Arctic. He noted that as India navigates towards realising the Maritime Amrit Kaal Vision 2047, intensifying its focus on industry-oriented training and advanced maritime skilling is crucial. The Minister also emphasised that a highly skilled workforce will be the anchor for cementing India’s leadership in global shipbuilding and the wider maritime sector.",
@@ -302,17 +313,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/pm-modi-to-be-begin-6-day-visit-to-indonesia-australia-new-zealand-today/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/a3.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Railways Minister Ashwini Vaishnaw inaugurates a new train service between Uttarakhand and Maharashtra",
-        "summary": "Union Railways Minister Ashwini Vaishnaw today virtually inaugurated a new train service between Tanakpur in Uttarakhand and Hazur Sahib at Nanded in Maharashtra, along with the extension of the Tanakpur-Pilibhit rail service up to Shahjahanpur. He said the new service fulfils a long-pending demand of people living in the Terai region of Uttarakhand. […]",
-        "article": "Union Railways Minister Ashwini Vaishnaw today virtually inaugurated a new train service between Tanakpur in Uttarakhand and Hazur Sahib at Nanded in Maharashtra, along with the extension of the Tanakpur-Pilibhit rail service up to Shahjahanpur. He said the new service fulfils a long-pending demand of people living in the Terai region of Uttarakhand. Meanwhile, at Tanakpur Railway Station in Uttarakhand&#8217;s Champawat district, Union Minister of State for Railways Ravneet Singh Bittu, along with Minister of State for Road Transport and Highways Ajay Tamta, flagged off the new train service. Speaking on the occasion, Mr Bittu thanked the Central Government and said that the launch of the Tanakpur-Nanded Express would provide a major boost to religious tourism.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T14:42:51+00:00",
-        "link": "https://newsonair.gov.in/union-railways-minister-ashwini-vaishnaw-inaugurates-a-new-train-service-between-uttarakhand-and-maharashtra/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nanda_Devi_-_Hidden_Summit%2C_Uttarakhand_India_2013.jpg/1280px-Nanda_Devi_-_Hidden_Summit%2C_Uttarakhand_India_2013.jpg",
-        "image_credit": "Wikipedia – Uttarakhand (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -362,6 +362,17 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "Indian Navy will commission 6th Project 17A indigenous stealth frigate, Mahendragiri (F38) on July 11",
+        "summary": "The Indian Navy will commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38), at Visakhapatnam on Saturday. The Defence Ministry said that the stealth frigate has been designed in-house by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited, Mumbai. The ship has been named after the majestic Mahendragiri mountain […]",
+        "article": "The Indian Navy will commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38), at Visakhapatnam on Saturday. The Defence Ministry said that the stealth frigate has been designed in-house by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited, Mumbai. The ship has been named after the majestic Mahendragiri mountain range in the Eastern Ghats. The Ministry said it embodies resilience, strength, and unwavering resolve and is now poised to forge a distinguished legacy and add another proud chapter to India’s maritime history. The frigate is powered by a modern Combined Diesel or Gas propulsion system, enabling high-speed operations with exceptional endurance across the full spectrum of maritime missions. With over 75 percent indigenous content, Mahendragiri exemplifies the Government’s Aatmanirbhar Bharat initiative. The commissioning of Mahendragiri marks another milestone in the successful execution of the Project 17A programme. It said that Mahendragiri will serve as a formidable force multiplier, safeguarding the nation’s maritime interests and contributing to a secure, stable, and prosperous Indo-Pacific as India continues to strengthen its role as the Preferred Security Partner in the Indian Ocean Region.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T16:46:39+00:00",
+        "link": "https://newsonair.gov.in/indian-navy-will-commission-6th-project-17a-indigenous-stealth-frigate-mahendragiri-f38-on-july-11/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/navy.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "IMU Emerges as Global Maritime Education Leader as India Strengthens Maritime Workforce: Union Minister Sarbananda Sonowal",
         "summary": "Ports, Shipping and Waterways Minister Sarbananda Sonowal today reviewed the progress of Indian Maritime University (IMU) and its contribution to India’s maritime education, research and skilling ecosystem. In a social media post, Mr Sonowal said that it is encouraging to see IMU’s growing global stature, driven by increasing international academic partnerships and engagements with strategic […]",
         "article": "Ports, Shipping and Waterways Minister Sarbananda Sonowal today reviewed the progress of Indian Maritime University (IMU) and its contribution to India’s maritime education, research and skilling ecosystem. In a social media post, Mr Sonowal said that it is encouraging to see IMU’s growing global stature, driven by increasing international academic partnerships and engagements with strategic forums like the International Association of Maritime Universities (IAMU) and the University of the Arctic. He noted that as India navigates towards realising the Maritime Amrit Kaal Vision 2047, intensifying its focus on industry-oriented training and advanced maritime skilling is crucial. The Minister also emphasised that a highly skilled workforce will be the anchor for cementing India’s leadership in global shipbuilding and the wider maritime sector.",
@@ -414,17 +425,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/pm-modi-to-be-begin-6-day-visit-to-indonesia-australia-new-zealand-today/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/a3.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Railways Minister Ashwini Vaishnaw inaugurates a new train service between Uttarakhand and Maharashtra",
-        "summary": "Union Railways Minister Ashwini Vaishnaw today virtually inaugurated a new train service between Tanakpur in Uttarakhand and Hazur Sahib at Nanded in Maharashtra, along with the extension of the Tanakpur-Pilibhit rail service up to Shahjahanpur. He said the new service fulfils a long-pending demand of people living in the Terai region of Uttarakhand. […]",
-        "article": "Union Railways Minister Ashwini Vaishnaw today virtually inaugurated a new train service between Tanakpur in Uttarakhand and Hazur Sahib at Nanded in Maharashtra, along with the extension of the Tanakpur-Pilibhit rail service up to Shahjahanpur. He said the new service fulfils a long-pending demand of people living in the Terai region of Uttarakhand. Meanwhile, at Tanakpur Railway Station in Uttarakhand&#8217;s Champawat district, Union Minister of State for Railways Ravneet Singh Bittu, along with Minister of State for Road Transport and Highways Ajay Tamta, flagged off the new train service. Speaking on the occasion, Mr Bittu thanked the Central Government and said that the launch of the Tanakpur-Nanded Express would provide a major boost to religious tourism.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T14:42:51+00:00",
-        "link": "https://newsonair.gov.in/union-railways-minister-ashwini-vaishnaw-inaugurates-a-new-train-service-between-uttarakhand-and-maharashtra/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nanda_Devi_-_Hidden_Summit%2C_Uttarakhand_India_2013.jpg/1280px-Nanda_Devi_-_Hidden_Summit%2C_Uttarakhand_India_2013.jpg",
-        "image_credit": "Wikipedia – Uttarakhand (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
