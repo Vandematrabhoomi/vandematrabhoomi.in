@@ -250,6 +250,45 @@
     }
 
     /* ── Editorial teaser (News homepage) ──────────────────── */
+    /* VM Desk notification strip (homepage) */
+    .vm-banner {
+      display: none; background: var(--red); color: #fff; border-radius: 6px;
+      padding: 10px 16px; margin-bottom: 18px; align-items: center; gap: 12px;
+      cursor: pointer; box-shadow: 0 2px 10px rgba(204,0,0,.28);
+    }
+    .vm-banner.show { display: flex; }
+    .vm-banner:hover { background: var(--red-dark); }
+    .vm-banner-label {
+      display: flex; align-items: center; gap: 7px; flex-shrink: 0;
+      font-family: 'Archivo', sans-serif; font-size: 10px; font-weight: 700;
+      letter-spacing: .12em; text-transform: uppercase;
+      background: rgba(0,0,0,.18); padding: 4px 10px; border-radius: 999px;
+    }
+    .vm-banner-dot { width: 7px; height: 7px; border-radius: 50%; background: #fff; animation: vmpulse 1.2s infinite; }
+    @keyframes vmpulse { 0%,100% { opacity: 1; } 50% { opacity: .3; } }
+    .vm-banner-hl {
+      flex: 1; min-width: 0; font-family: 'Noto Serif Devanagari', serif;
+      font-size: 15px; font-weight: 600; line-height: 1.35;
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+    }
+    .vm-banner-x {
+      flex-shrink: 0; background: none; border: none; color: #fff; opacity: .75;
+      font-size: 15px; cursor: pointer; padding: 4px 6px; line-height: 1;
+    }
+    .vm-banner-x:hover { opacity: 1; }
+
+    /* Live Desk post-type toggle */
+    .ptype-toggle { display: flex; gap: 0; border: 1px solid #d8c8b4; border-radius: 6px; overflow: hidden; width: fit-content; }
+    .ptype-btn {
+      padding: 9px 20px; background: #fff; border: none; cursor: pointer;
+      font-family: 'Archivo', sans-serif; font-size: 13px; font-weight: 600; color: var(--text-muted);
+    }
+    .ptype-btn + .ptype-btn { border-left: 1px solid #d8c8b4; }
+    .ptype-btn.active { background: var(--red); color: #fff; }
+
+    /* VM short thumbnail in Live Desk feed */
+    .story-thumb { width: 100%; max-width: 320px; border-radius: 6px; margin-top: 10px; display: block; }
+
     .editorial-teaser {
       background: #fff; border: 1px solid #e2d4c2; border-left: 4px solid var(--red);
       border-radius: 6px; padding: 18px 22px; margin-bottom: 24px;
@@ -1422,6 +1461,12 @@
           <span class="loading-txt" data-hi="समाचार लोड हो रहे हैं..." data-en="Loading news...">समाचार लोड हो रहे हैं...</span>
         </div>
 
+        <div class="vm-banner" id="vm-banner" onclick="openVmShort()">
+          <span class="vm-banner-label"><span class="vm-banner-dot"></span><span data-hi="VM डेस्क" data-en="VM DESK">VM डेस्क</span></span>
+          <span class="vm-banner-hl" id="vm-banner-hl"></span>
+          <button class="vm-banner-x" onclick="event.stopPropagation();dismissVmBanner();" aria-label="Dismiss">✕</button>
+        </div>
+
         <div class="editorial-teaser" id="editorial-teaser" style="display:none;" onclick="setSection('opinion')">
           <img class="et-thumb" id="et-thumb" style="display:none;" alt="">
           <div style="flex:1;min-width:0;">
@@ -1632,13 +1677,20 @@
 
         <div class="form-card">
           <div class="form-group">
-            <label class="form-lbl" data-hi="शीर्षक" data-en="HEADLINE" for="f-hl">शीर्षक</label>
+            <label class="form-lbl" data-hi="पोस्ट प्रकार" data-en="POST TYPE">पोस्ट प्रकार</label>
+            <div class="ptype-toggle">
+              <button type="button" class="ptype-btn active" id="ptype-editorial" onclick="setPostType('editorial')" data-hi="संपादकीय" data-en="Editorial">संपादकीय</button>
+              <button type="button" class="ptype-btn" id="ptype-short" onclick="setPostType('short')" data-hi="VM शॉर्ट" data-en="VM Short">VM शॉर्ट</button>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="form-lbl" id="f-hl-lbl" data-hi="शीर्षक" data-en="HEADLINE" for="f-hl">शीर्षक</label>
             <input type="text" id="f-hl" class="form-input" oninput="scheduleDraftSave()"
               placeholder="समाचार का शीर्षक लिखें..."
               data-phi="समाचार का शीर्षक लिखें..."
               data-pen="Write the news headline...">
           </div>
-          <div class="form-group">
+          <div class="form-group" id="grp-cat">
             <label class="form-lbl" data-hi="श्रेणी" data-en="CATEGORY" for="f-cat">श्रेणी</label>
             <select id="f-cat" class="form-select" onchange="scheduleDraftSave()">
               <option value="Latest"    data-hi="ताज़ा"       data-en="Latest">ताज़ा</option>
@@ -1649,14 +1701,14 @@
               <option value="Lifestyle" data-hi="जीवनशैली"   data-en="Lifestyle">जीवनशैली</option>
             </select>
           </div>
-          <div class="form-group">
+          <div class="form-group" id="grp-sum">
             <label class="form-lbl" data-hi="सारांश" data-en="SUMMARY" for="f-sum">सारांश</label>
             <textarea id="f-sum" class="form-input" rows="3" oninput="scheduleDraftSave()"
               placeholder="समाचार का संक्षिप्त विवरण..."
               data-phi="समाचार का संक्षिप्त विवरण..."
               data-pen="Brief description of the news..."></textarea>
           </div>
-          <div class="form-group">
+          <div class="form-group" id="grp-body">
             <label class="form-lbl" data-hi="लेख" data-en="ARTICLE" for="f-body">लेख</label>
             <textarea id="f-body" class="form-input" rows="14" oninput="scheduleDraftSave()"
               placeholder="पूरा लेख यहाँ लिखें... (एक खाली पंक्ति छोड़कर अनुच्छेद अलग करें)"
@@ -1664,7 +1716,7 @@
               data-pen="Write the full article here... (separate paragraphs with a blank line)"></textarea>
           </div>
           <div class="form-group">
-            <label class="form-lbl" data-hi="फ़ोटो (आवश्यक)" data-en="PHOTO (REQUIRED)" for="f-media">फ़ोटो (आवश्यक)</label>
+            <label class="form-lbl" id="f-media-lbl" data-hi="फ़ोटो (आवश्यक)" data-en="PHOTO (REQUIRED)" for="f-media">फ़ोटो (आवश्यक)</label>
             <input type="file" id="f-media" class="form-input f-media-input" accept="image/*"
               onchange="var p=document.getElementById('f-media-preview');if(this.files[0]){var r=new FileReader();r.onload=function(e){p.src=e.target.result;p.style.display='block';};r.readAsDataURL(this.files[0]);}else{p.style.display='none';}">
             <img id="f-media-preview" class="f-media-preview" alt="preview">
@@ -1719,6 +1771,22 @@
 </div>
 
 <!-- Grievance & Ideas Modal -->
+<div class="modal-overlay" id="vmshort-modal">
+  <div class="modal-box" style="max-width:520px;">
+    <div class="modal-title" style="display:flex;align-items:center;gap:10px;">
+      <span class="vm-banner-label" style="background:var(--red);color:#fff;"><span class="vm-banner-dot"></span><span data-hi="VM डेस्क" data-en="VM DESK">VM डेस्क</span></span>
+      <span id="vms-date" style="font-family:'Archivo',sans-serif;font-size:12px;font-weight:400;color:var(--text-muted);"></span>
+    </div>
+    <div id="vms-hl" style="font-family:'Noto Serif Devanagari',serif;font-size:20px;font-weight:700;line-height:1.4;margin:14px 0 10px;"></div>
+    <img id="vms-img" style="display:none;width:100%;border-radius:6px;margin-bottom:12px;" alt=""
+      onerror="this.style.display='none';">
+    <div id="vms-body" style="font-family:'Noto Serif Devanagari',serif;font-size:15px;line-height:1.7;color:var(--text-primary);white-space:pre-line;"></div>
+    <div class="modal-divider" style="margin-top:18px;">
+      <button class="pub-btn" onclick="closeModal('vmshort-modal')" data-hi="बंद करें" data-en="Close">बंद करें</button>
+    </div>
+  </div>
+</div>
+
 <div class="modal-overlay" id="grievance-modal">
   <div class="modal-box">
     <button class="modal-close" onclick="closeModal('grievance-modal')">✕</button>
@@ -2064,6 +2132,7 @@ function checkForUpdates() {
   };
   s.onerror = function() { try { document.head.removeChild(s); } catch(e) {} };
   document.head.appendChild(s);
+  loadStories();   // also refresh Live Desk stories + VM Desk banner
 }
 setInterval(checkForUpdates, 15 * 60 * 1000);
 
@@ -2331,6 +2400,7 @@ function setLang(l) {
   renderFeed();
   renderOpinion();
   renderEditorialTeaser();
+  renderVmBanner();
   setDate();
 }
 
@@ -2344,9 +2414,10 @@ function renderOpinion() {
   var listEl    = document.getElementById('op-sidebar-list');
 
   var shareBtn = document.getElementById('op-share-btn');
+  var eds = editorialStories();   // VM shorts stay out of the Opinion section
 
   /* ── Empty state ── */
-  if (!stories.length) {
+  if (!eds.length) {
     if (titleEl) { titleEl.textContent = lang==='hi' ? 'लेख शीघ्र आएगा...' : 'Articles coming soon...'; titleEl.style.cssText = 'color:rgba(255,255,255,.35);font-style:italic;'; }
     if (initEl)  initEl.textContent = 'व';
     if (nameEl)  nameEl.textContent = lang==='hi' ? 'वंदे मातृभूमि' : 'Vande Matrabhoomi';
@@ -2365,7 +2436,7 @@ function renderOpinion() {
   }
 
   /* ── Featured article (most recent) ── */
-  var s = stories[0];
+  var s = eds[0];
   if (titleEl) { titleEl.textContent = s.hl; titleEl.style.cssText = ''; }
   if (initEl)  initEl.textContent = 'व';
   if (nameEl)  nameEl.textContent = lang==='hi' ? 'वंदे मातृभूमि' : 'Vande Matrabhoomi';
@@ -2390,8 +2461,8 @@ function renderOpinion() {
 
   /* ── Sidebar (older stories) ── */
   if (listEl) {
-    listEl.innerHTML = stories.length > 1
-      ? stories.slice(1).map(function(st){
+    listEl.innerHTML = eds.length > 1
+      ? eds.slice(1).map(function(st){
           return '<li class="sidebar-op-item">'
             + '<div class="soi-title">' + esc(st.hl) + '</div>'
             + '<div class="soi-author">' + esc(CAT_DESK[lang][st.cat] || st.cat)
@@ -2424,9 +2495,43 @@ function shareArticle(id, btn) {
 /* ── Live Desk ──────────────────────────────────────── */
 var stories = [];
 var CAT_DESK = {
-  hi: { Latest:'ताज़ा', Nation:'राष्ट्रीय', Politics:'राजनीति', Sports:'खेल', Business:'व्यापार', Lifestyle:'जीवनशैली' },
-  en: { Latest:'Latest', Nation:'Nation', Politics:'Politics', Sports:'Sports', Business:'Business', Lifestyle:'Lifestyle' }
+  hi: { Latest:'ताज़ा', Nation:'राष्ट्रीय', Politics:'राजनीति', Sports:'खेल', Business:'व्यापार', Lifestyle:'जीवनशैली', VMShort:'VM डेस्क' },
+  en: { Latest:'Latest', Nation:'Nation', Politics:'Politics', Sports:'Sports', Business:'Business', Lifestyle:'Lifestyle', VMShort:'VM Desk' }
 };
+
+/* VM shorts live in the same story pipeline with the sentinel category
+   'VMShort'. They appear only in the Live Desk feed and the homepage
+   notification strip — never in Opinion or the editorial teaser. */
+function editorialStories() {
+  return stories.filter(function(s){ return s.cat !== 'VMShort'; });
+}
+function vmShorts() {
+  return stories.filter(function(s){ return s.cat === 'VMShort'; });
+}
+
+/* ── Live Desk post type (editorial vs VM short) ───────── */
+var postType = 'editorial';
+function setPostType(t) {
+  postType = t;
+  document.getElementById('ptype-editorial').classList.toggle('active', t === 'editorial');
+  document.getElementById('ptype-short').classList.toggle('active', t === 'short');
+  var isShort = t === 'short';
+  document.getElementById('grp-cat').style.display  = isShort ? 'none' : '';
+  document.getElementById('grp-sum').style.display  = isShort ? 'none' : '';
+  document.getElementById('grp-body').style.display = isShort ? 'none' : '';
+  var hlLbl = document.getElementById('f-hl-lbl');
+  hlLbl.setAttribute('data-hi', isShort ? 'शॉर्ट अपडेट' : 'शीर्षक');
+  hlLbl.setAttribute('data-en', isShort ? 'SHORT UPDATE' : 'HEADLINE');
+  var mLbl = document.getElementById('f-media-lbl');
+  mLbl.setAttribute('data-hi', isShort ? 'फ़ोटो (वैकल्पिक)' : 'फ़ोटो (आवश्यक)');
+  mLbl.setAttribute('data-en', isShort ? 'PHOTO (OPTIONAL)' : 'PHOTO (REQUIRED)');
+  var hlInput = document.getElementById('f-hl');
+  hlInput.setAttribute('data-phi', isShort ? 'छोटा अपडेट लिखें...' : 'समाचार का शीर्षक लिखें...');
+  hlInput.setAttribute('data-pen', isShort ? 'Write a short update...' : 'Write the news headline...');
+  hlLbl.textContent = lang==='hi' ? hlLbl.getAttribute('data-hi') : hlLbl.getAttribute('data-en');
+  mLbl.textContent  = lang==='hi' ? mLbl.getAttribute('data-hi')  : mLbl.getAttribute('data-en');
+  hlInput.placeholder = lang==='hi' ? hlInput.getAttribute('data-phi') : hlInput.getAttribute('data-pen');
+}
 
 var MAX_MEDIA_BYTES = 15 * 1024 * 1024; // must match Apps Script MAX_MEDIA_BYTES
 
@@ -2592,14 +2697,18 @@ function publishStory() {
     inp.classList.add('error'); inp.focus();
     setTimeout(function(){ inp.classList.remove('error'); }, 1400); return;
   }
-  if (!mediaFile) {
+  if (postType === 'short') {
+    cat = 'VMShort';
+    sum = '';
+    body = '';
+  } else if (!mediaFile) {
     var minp = document.getElementById('f-media');
     minp.classList.add('error');
     setTimeout(function(){ minp.classList.remove('error'); }, 1400);
     alert(lang==='hi' ? 'कृपया एक फ़ोटो जोड़ें। बिना फ़ोटो के लेख प्रकाशित नहीं हो सकता।' : 'Please attach a photo — articles cannot be published without one.');
     return;
   }
-  if (mediaFile.size > MAX_MEDIA_BYTES) {
+  if (mediaFile && mediaFile.size > MAX_MEDIA_BYTES) {
     alert(lang==='hi' ? 'फ़ाइल बहुत बड़ी है (अधिकतम 15MB)।' : 'File is too large (max 15MB).');
     return;
   }
@@ -2619,7 +2728,9 @@ function publishStory() {
     clearTimeout(draftSaveTimer);
     loadStories();
     loadDrafts();
-    alert(lang==='hi' ? 'प्रकाशित! फ़ोटो साइट पर दिखने में कुछ मिनट लग सकते हैं।' : 'Published! The photo may take a few minutes to appear on the site.');
+    alert(mediaFile
+      ? (lang==='hi' ? 'प्रकाशित! फ़ोटो साइट पर दिखने में कुछ मिनट लग सकते हैं।' : 'Published! The photo may take a few minutes to appear on the site.')
+      : (lang==='hi' ? 'प्रकाशित!' : 'Published!'));
   }
 
   function send(mediaChunks) {
@@ -2634,6 +2745,10 @@ function publishStory() {
 
   if (btn) { btn.disabled = true; btn.textContent = lang==='hi' ? 'प्रकाशित हो रहा है…' : 'Publishing…'; }
 
+  if (!mediaFile) {           // only possible for VM shorts (photo optional)
+    send([]);
+    return;
+  }
   resizeImageForUpload(mediaFile, function(base64) {
     if (!base64) { afterPublish(false); return; }
     send(chunkBase64(base64));
@@ -2656,15 +2771,17 @@ function loadStories() {
       renderFeed();
       renderOpinion();
       renderEditorialTeaser();
+      renderVmBanner();
     })
-    .catch(function(){ renderFeed(); renderOpinion(); renderEditorialTeaser(); });
+    .catch(function(){ renderFeed(); renderOpinion(); renderEditorialTeaser(); renderVmBanner(); });
 }
 
 function renderEditorialTeaser() {
   var box = document.getElementById('editorial-teaser');
   if (!box) return;
-  if (!stories.length) { box.style.display = 'none'; return; }
-  var s = stories[0];
+  var eds = editorialStories();
+  if (!eds.length) { box.style.display = 'none'; return; }
+  var s = eds[0];
   document.getElementById('et-hl').textContent = s.hl;
   var excSrc = (s.sum || s.body || '').replace(/\s+/g, ' ').trim();
   document.getElementById('et-exc').textContent = excSrc.length > 140 ? excSrc.slice(0, 140) + '…' : excSrc;
@@ -2693,8 +2810,48 @@ function renderFeed() {
       + '</div>'
       + '<div class="story-hl">'+esc(s.hl)+'</div>'
       + (s.sum ? '<div class="story-sum">'+esc(s.sum)+'</div>' : '')
+      + (s.cat === 'VMShort' && s.mediaUrl
+          ? '<img class="story-thumb" src="'+esc(s.mediaUrl)+'" alt="" onerror="this.remove();">'
+          : '')
     + '</div>';
   }).join('');
+}
+
+/* ── VM Desk homepage notification strip ─────────────── */
+var _vmBannerShort = null;
+
+function renderVmBanner() {
+  var bar = document.getElementById('vm-banner');
+  if (!bar) return;
+  var shorts = vmShorts();
+  _vmBannerShort = shorts.length ? shorts[0] : null;
+  var dismissed = '';
+  try { dismissed = localStorage.getItem('vmShortSeen') || ''; } catch(e) {}
+  if (!_vmBannerShort || String(_vmBannerShort.id) === dismissed) {
+    bar.classList.remove('show');
+    return;
+  }
+  document.getElementById('vm-banner-hl').textContent = _vmBannerShort.hl;
+  bar.classList.add('show');
+}
+
+function openVmShort() {
+  if (!_vmBannerShort) return;
+  var s = _vmBannerShort;
+  document.getElementById('vms-date').textContent = lang==='hi' ? s.dateHi : s.dateEn;
+  document.getElementById('vms-hl').textContent = s.hl;
+  var img = document.getElementById('vms-img');
+  if (s.mediaUrl) { img.src = s.mediaUrl; img.style.display = 'block'; }
+  else { img.style.display = 'none'; }
+  document.getElementById('vms-body').textContent = s.body || s.sum || '';
+  openModal('vmshort-modal');
+}
+
+function dismissVmBanner() {
+  if (_vmBannerShort) {
+    try { localStorage.setItem('vmShortSeen', String(_vmBannerShort.id)); } catch(e) {}
+  }
+  document.getElementById('vm-banner').classList.remove('show');
 }
 
 
