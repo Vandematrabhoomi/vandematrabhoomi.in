@@ -1,8 +1,52 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-06T07:12:11.716664",
+  "generated": "2026-07-06T07:46:32.095043",
   "en": {
     "top": [
+      {
+        "title": "Over 104 crore health records linked to over 93 crore ABHA accounts, says Govt",
+        "summary": "The government has said that over 104 crore health records have been linked to over 93 crore Ayushman Bharat Health Account (ABHA) accounts. This marks a significant progress in India&#8217;s journey towards a connected digital public health ecosystem. ABHA is a 14-digit unique identifier like Aadhaar that securely links individuals to the wider health system. […]",
+        "article": "The government has said that over 104 crore health records have been linked to over 93 crore Ayushman Bharat Health Account (ABHA) accounts. This marks a significant progress in India&#8217;s journey towards a connected digital public health ecosystem. ABHA is a 14-digit unique identifier like Aadhaar that securely links individuals to the wider health system. It helps patients access to digital health services. They can connect to insurers, healthcare facilities, doctors, and other services with all their medical history intact through this network. The government aims to expand the Ayushman Bharat Digital Mission network to cover all patients and health facilities across the country, working towards fully digital health records for every citizen.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:44:58+00:00",
+        "link": "https://newsonair.gov.in/over-104-crore-health-records-linked-to-over-93-crore-abha-accounts-says-govt/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/5.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "LS Speaker Om Birla pays tributes to Dr Syama Prasad Mookerjee on his 125th birth anniversary",
+        "summary": "Lok Sabha Speaker Om Birla today paid tributes to former Union Minister, renowned educationist, visionary thinker and staunch nationalist leader Dr. Syama Prasad Mookerjee on his 125th birth anniversary. In a social media post, Mr Birla said that Dr. Mukherjee&#8217;s life is an inspiring example of unwavering dedication to national service and national unity. He […]",
+        "article": "Lok Sabha Speaker Om Birla today paid tributes to former Union Minister, renowned educationist, visionary thinker and staunch nationalist leader Dr. Syama Prasad Mookerjee on his 125th birth anniversary. In a social media post, Mr Birla said that Dr. Mukherjee&#8217;s life is an inspiring example of unwavering dedication to national service and national unity. He added that as an educationist, Dr. Mookerjee made remarkable contributions to the field of higher education, while as a public leader, he demonstrated his clear commitment to national interests and democratic values. Mr. Birla highlighted that Dr. Mookerjee continuously strengthened the vision of a strong, harmonious, and self-reliant India through his thoughts and actions. He further added that his dedication to the unity, integrity, and welfare of the nation remains an inspiration for all countrymen even today.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:39:12+00:00",
+        "link": "https://newsonair.gov.in/ls-speaker-om-birla-pays-tributes-to-dr-syama-prasad-mookerjee-on-his-125th-birth-anniversary/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-06-130825.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi extends greetings to spiritual leader His Holiness Dalai Lama on 91st birthday",
+        "summary": "Prime Minister Narendra Modi has extended warm greetings to spiritual leader His Holiness the Dalai Lama on his 91st birthday today. In a social media post, Mr Modi said his message of peace and harmony has been a guiding force for people across the world. The Prime Minister said the Dalai Lama&#8217;s moral and spiritual […]",
+        "article": "Prime Minister Narendra Modi has extended warm greetings to spiritual leader His Holiness the Dalai Lama on his 91st birthday today. In a social media post, Mr Modi said his message of peace and harmony has been a guiding force for people across the world. The Prime Minister said the Dalai Lama&#8217;s moral and spiritual strength and his commitment to global good are commendable. He prayed for the Dalai Lama’s long and healthy life.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:29:03+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-extends-greetings-to-spiritual-leader-his-holiness-dalai-lama-on-91st-birthday/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-10-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NTA extends deadline to update bank details for NEET UG 2026 fee refund",
+        "summary": "The National Testing Agency (NTA) has extended the deadline to update bank account details for the fee refund of the National Eligibility cum Entrance Test (NEET) UG 2026 exam till the 7th of this month. In a social media post, the NTA stated that refunds have already started for candidates who have confirmed their bank […]",
+        "article": "The National Testing Agency (NTA) has extended the deadline to update bank account details for the fee refund of the National Eligibility cum Entrance Test (NEET) UG 2026 exam till the 7th of this month. In a social media post, the NTA stated that refunds have already started for candidates who have confirmed their bank account details. It said that only 8 lakh 29 thousand 510 candidates have so far corrected or updated their bank details. The refund process is being carried out by NTA after the cancellation of the NEET (UG) 2026 examination held on 3rd of May this year over allegations of a question paper leak.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:26:12+00:00",
+        "link": "https://newsonair.gov.in/nta-extends-deadline-to-update-bank-details-for-neet-ug-2026-fee-refund/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/neet.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Vice President pays floral tributes to Dr. Syama Prasad Mookerjee at Uprashtrapati Bhawan",
         "summary": "Vice President C P Radhakrishnan today paid floral tributes to Dr. Syama Prasad Mookerjee at the Uprashtrapati Bhawan on his 125th birth anniversary. In a social media post, the Vice President said that Dr. Mookerjee is a distinguished educationist, visionary statesman and nation-builder and left an enduring imprint on India’s educational, political and democratic journey. […]",
@@ -81,50 +125,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India to chair UNCTAD’s 9th session of Intergovernmental Group of Experts on Consumer Protection in Switzerland",
-        "summary": "India will chair the Ninth Session of the Intergovernmental Group of Experts on Consumer Protection Law and Policy in Geneva, Switzerland, today. The three-day session, being organised by the United Nations Trade and Development (UNCTAD), will continue till Wednesday. Akashvani&#8217;s correspondent reports that the Ministry of Consumer Affairs, Food and Public Distribution said that […]",
-        "article": "India will chair the Ninth Session of the Intergovernmental Group of Experts on Consumer Protection Law and Policy in Geneva, Switzerland, today. The three-day session, being organised by the United Nations Trade and Development (UNCTAD), will continue till Wednesday. Akashvani&#8217;s correspondent reports that the Ministry of Consumer Affairs, Food and Public Distribution said that the session will bring together Member States, international organisations, consumer protection authorities, academia and other stakeholders to deliberate on emerging issues in consumer protection law and policy. The Intergovernmental Group of Experts is the principal intergovernmental platform for cooperation and dialogue on consumer protection law and policy. Secretary, Department of Consumer Affairs, Nidhi Khare, will chair the session. She will preside over the three-day deliberations and guide discussions among Member States on key global consumer protection priorities. One of the major highlights of the session will be the launch of the United Nations Principles for Consumer Product Safety, which were adopted by the United Nations General Assembly in December 2025. India will also participate in a high-level fireside chat titled &#8220;Why the Principles Matter&#8221;, focusing on the significance of the newly adopted global framework. The session will deliberate on consumer information and education, sustainable consumption, enforcement of consumer protection law in global markets, and cross-border consumer protection.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:34:16+00:00",
-        "link": "https://newsonair.gov.in/india-to-chair-9th-session-of-intergovernmental-group-of-experts-on-consumer-protection-law-policy-in-switzerland/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-13.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India to host BRICS Women Working Group Meeting under BRICS Chairship in Kochi",
-        "summary": "India will host the two-day BRICS Women Working Group Meeting under its BRICS Chairship, beginning today in Kochi, Keralam. The Ministry of Women and Child Development said that senior government officials from BRICS Member Countries will come together to deliberate on key issues relating to women&#8217;s empowerment across all sectors and women-led development while advancing […]",
-        "article": "India will host the two-day BRICS Women Working Group Meeting under its BRICS Chairship, beginning today in Kochi, Keralam. The Ministry of Women and Child Development said that senior government officials from BRICS Member Countries will come together to deliberate on key issues relating to women&#8217;s empowerment across all sectors and women-led development while advancing cooperation across shared priorities. The Women Working Group Meeting will provide an opportunity for Member Countries to deliberate and build consensus that advances women-led development. The BRICS Women Track has focused on four priority areas, which include women in governance and leadership, women&#8217;s digital and financial inclusion, women&#8217;s entrepreneurship and skill development and women&#8217;s role in climate action, food security and nutrition. The Ministry said that the meeting will lay a strong foundation for the BRICS Women Ministerial Meeting to be held on 8th and 9th of this month.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:32:47+00:00",
-        "link": "https://newsonair.gov.in/india-to-brics-women-working-group-meeting-under-brics-chairship-in-kochi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-5-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMD forecasts heavy to extremely heavy rainfall across several states",
-        "summary": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall over Gujarat, Konkan, Goa, Madhya Maharashtra and Chhattisgarh today. The weather agency predicted heavy to very heavy rainfall over East Rajasthan, Himachal Pradesh, Karnataka, Kerala, Mahe, Madhya Pradesh and Uttarakhand during the day. The […]",
-        "article": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall over Gujarat, Konkan, Goa, Madhya Maharashtra and Chhattisgarh today. The weather agency predicted heavy to very heavy rainfall over East Rajasthan, Himachal Pradesh, Karnataka, Kerala, Mahe, Madhya Pradesh and Uttarakhand during the day. The Met department estimated heavy rainfall conditions over Assam, Meghalaya, Bihar, East Uttar Pradesh, Haryana, Chandigarh, Delhi and West Bengal for the day. In Delhi, IMD has forecast a cloudy sky with moderate rainfall for the day. The IMD has forecast the day&#8217;s maximum temperature to be around 32 to 34 degrees Celsius and the minimum temperature will be around 25 to 27 degrees.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:26:28+00:00",
-        "link": "https://newsonair.gov.in/imd-forecasts-heavy-to-extremely-heavy-rainfall-across-several-states/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260627827f-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India to host BRICS Heads of Anti-Drug Agencies Meeting in Guwahati",
-        "summary": "The BRICS Heads of Anti-Drug Agencies Meeting will begin today in Guwahati, Assam. The two-day event is being organised by the Narcotics Control Bureau under the Ministry of Home Affairs. The meeting will bring together heads of anti-drug agencies and senior officials from BRICS member countries to strengthen cooperation against drug trafficking and substance abuse. […]",
-        "article": "The BRICS Heads of Anti-Drug Agencies Meeting will begin today in Guwahati, Assam. The two-day event is being organised by the Narcotics Control Bureau under the Ministry of Home Affairs. The meeting will bring together heads of anti-drug agencies and senior officials from BRICS member countries to strengthen cooperation against drug trafficking and substance abuse. Akashvani&#8217;s correspondent reports that the BRICS Heads of Anti-Drug Agencies Meeting in Guwahati will focus on combating synthetic drugs and precursor diversion, strengthening intelligence sharing and operational coordination, and enhancing capacity building and institutional cooperation. Delegates will discuss emerging challenges such as new psychoactive substances, darknet-enabled trafficking, cryptocurrency-linked financial flows, and the misuse of precursor chemicals. India will also showcase its efforts to combat drug abuse and trafficking, including the recently released Vision Document on Narcotics Control 2026-2029. During the meeting, member countries will deliberate on strategies to address evolving drug-related threats and strengthen international cooperation.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:23:20+00:00",
-        "link": "https://newsonair.gov.in/india-to-host-brics-heads-of-anti-drug-agencies-meeting-in-guwahati/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-2-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "One killed, several injured in firing by Pakistan Rangers on protesters in PoJK",
         "summary": "Tensions have escalated in Pakistan-occupied Jammu and Kashmir after one person was killed and several others injured when Pakistan Rangers opened fire on protesters. The incident comes amid a crackdown on demonstrations demanding basic rights, economic relief and political freedoms. Media reports also said that more than 600 civil rights activists have been arrested following […]",
         "article": "Tensions have escalated in Pakistan-occupied Jammu and Kashmir after one person was killed and several others injured when Pakistan Rangers opened fire on protesters. The incident comes amid a crackdown on demonstrations demanding basic rights, economic relief and political freedoms. Media reports also said that more than 600 civil rights activists have been arrested following anti-Islamabad protests in the region. Meanwhile, overseas Kashmiris held a protest gathering in London yesterday in support of the demonstrators. On the other hand, in Pakistan, protests have also intensified at Karachi&#8217;s Abbasi Shaheed Hospital, where junior doctors are demanding payment of pending stipends, better security and improved hospital facilities. The protesting doctors warned that they would suspend outpatient services if their demands were not addressed.",
@@ -138,6 +138,50 @@ window.VM_NEWS = {
     ],
     "breaking": [
       {
+        "title": "Over 104 crore health records linked to over 93 crore ABHA accounts, says Govt",
+        "summary": "The government has said that over 104 crore health records have been linked to over 93 crore Ayushman Bharat Health Account (ABHA) accounts. This marks a significant progress in India&#8217;s journey towards a connected digital public health ecosystem. ABHA is a 14-digit unique identifier like Aadhaar that securely links individuals to the wider health system. […]",
+        "article": "The government has said that over 104 crore health records have been linked to over 93 crore Ayushman Bharat Health Account (ABHA) accounts. This marks a significant progress in India&#8217;s journey towards a connected digital public health ecosystem. ABHA is a 14-digit unique identifier like Aadhaar that securely links individuals to the wider health system. It helps patients access to digital health services. They can connect to insurers, healthcare facilities, doctors, and other services with all their medical history intact through this network. The government aims to expand the Ayushman Bharat Digital Mission network to cover all patients and health facilities across the country, working towards fully digital health records for every citizen.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:44:58+00:00",
+        "link": "https://newsonair.gov.in/over-104-crore-health-records-linked-to-over-93-crore-abha-accounts-says-govt/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/5.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "LS Speaker Om Birla pays tributes to Dr Syama Prasad Mookerjee on his 125th birth anniversary",
+        "summary": "Lok Sabha Speaker Om Birla today paid tributes to former Union Minister, renowned educationist, visionary thinker and staunch nationalist leader Dr. Syama Prasad Mookerjee on his 125th birth anniversary. In a social media post, Mr Birla said that Dr. Mukherjee&#8217;s life is an inspiring example of unwavering dedication to national service and national unity. He […]",
+        "article": "Lok Sabha Speaker Om Birla today paid tributes to former Union Minister, renowned educationist, visionary thinker and staunch nationalist leader Dr. Syama Prasad Mookerjee on his 125th birth anniversary. In a social media post, Mr Birla said that Dr. Mukherjee&#8217;s life is an inspiring example of unwavering dedication to national service and national unity. He added that as an educationist, Dr. Mookerjee made remarkable contributions to the field of higher education, while as a public leader, he demonstrated his clear commitment to national interests and democratic values. Mr. Birla highlighted that Dr. Mookerjee continuously strengthened the vision of a strong, harmonious, and self-reliant India through his thoughts and actions. He further added that his dedication to the unity, integrity, and welfare of the nation remains an inspiration for all countrymen even today.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:39:12+00:00",
+        "link": "https://newsonair.gov.in/ls-speaker-om-birla-pays-tributes-to-dr-syama-prasad-mookerjee-on-his-125th-birth-anniversary/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-06-130825.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi extends greetings to spiritual leader His Holiness Dalai Lama on 91st birthday",
+        "summary": "Prime Minister Narendra Modi has extended warm greetings to spiritual leader His Holiness the Dalai Lama on his 91st birthday today. In a social media post, Mr Modi said his message of peace and harmony has been a guiding force for people across the world. The Prime Minister said the Dalai Lama&#8217;s moral and spiritual […]",
+        "article": "Prime Minister Narendra Modi has extended warm greetings to spiritual leader His Holiness the Dalai Lama on his 91st birthday today. In a social media post, Mr Modi said his message of peace and harmony has been a guiding force for people across the world. The Prime Minister said the Dalai Lama&#8217;s moral and spiritual strength and his commitment to global good are commendable. He prayed for the Dalai Lama’s long and healthy life.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:29:03+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-extends-greetings-to-spiritual-leader-his-holiness-dalai-lama-on-91st-birthday/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-10-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NTA extends deadline to update bank details for NEET UG 2026 fee refund",
+        "summary": "The National Testing Agency (NTA) has extended the deadline to update bank account details for the fee refund of the National Eligibility cum Entrance Test (NEET) UG 2026 exam till the 7th of this month. In a social media post, the NTA stated that refunds have already started for candidates who have confirmed their bank […]",
+        "article": "The National Testing Agency (NTA) has extended the deadline to update bank account details for the fee refund of the National Eligibility cum Entrance Test (NEET) UG 2026 exam till the 7th of this month. In a social media post, the NTA stated that refunds have already started for candidates who have confirmed their bank account details. It said that only 8 lakh 29 thousand 510 candidates have so far corrected or updated their bank details. The refund process is being carried out by NTA after the cancellation of the NEET (UG) 2026 examination held on 3rd of May this year over allegations of a question paper leak.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:26:12+00:00",
+        "link": "https://newsonair.gov.in/nta-extends-deadline-to-update-bank-details-for-neet-ug-2026-fee-refund/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/neet.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Vice President pays floral tributes to Dr. Syama Prasad Mookerjee at Uprashtrapati Bhawan",
         "summary": "Vice President C P Radhakrishnan today paid floral tributes to Dr. Syama Prasad Mookerjee at the Uprashtrapati Bhawan on his 125th birth anniversary. In a social media post, the Vice President said that Dr. Mookerjee is a distinguished educationist, visionary statesman and nation-builder and left an enduring imprint on India’s educational, political and democratic journey. […]",
         "article": "Vice President C P Radhakrishnan today paid floral tributes to Dr. Syama Prasad Mookerjee at the Uprashtrapati Bhawan on his 125th birth anniversary. In a social media post, the Vice President said that Dr. Mookerjee is a distinguished educationist, visionary statesman and nation-builder and left an enduring imprint on India’s educational, political and democratic journey. He added that as one of the youngest Vice-Chancellors of the University of Calcutta, a member of the Constituent Assembly, President of the Akhil Bharatiya Hindu Mahasabha, Independent India’s first Minister for Industry and Supply, and founder of the Bharatiya Jana Sangh, Dr. Mookerjee rendered exceptional service to the nation. Mr Radhakrishnan emphasized that as a steadfast champion of national unity and integrity, Dr Mookerjee made the supreme sacrifice in Jammu and Kashmir while striving for its full integration with Bharat. He further said that his life and ideals continue to inspire generations in the collective endeavour to build a strong, united, self-reliant and developed India.",
@@ -200,56 +244,56 @@ window.VM_NEWS = {
         "pubDate": "2026-07-06T03:35:47+00:00",
         "link": "https://newsonair.gov.in/pm-modi-to-be-begin-6-day-visit-to-indonesia-australia-new-zealand-today/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-6-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India to chair UNCTAD’s 9th session of Intergovernmental Group of Experts on Consumer Protection in Switzerland",
-        "summary": "India will chair the Ninth Session of the Intergovernmental Group of Experts on Consumer Protection Law and Policy in Geneva, Switzerland, today. The three-day session, being organised by the United Nations Trade and Development (UNCTAD), will continue till Wednesday. Akashvani&#8217;s correspondent reports that the Ministry of Consumer Affairs, Food and Public Distribution said that […]",
-        "article": "India will chair the Ninth Session of the Intergovernmental Group of Experts on Consumer Protection Law and Policy in Geneva, Switzerland, today. The three-day session, being organised by the United Nations Trade and Development (UNCTAD), will continue till Wednesday. Akashvani&#8217;s correspondent reports that the Ministry of Consumer Affairs, Food and Public Distribution said that the session will bring together Member States, international organisations, consumer protection authorities, academia and other stakeholders to deliberate on emerging issues in consumer protection law and policy. The Intergovernmental Group of Experts is the principal intergovernmental platform for cooperation and dialogue on consumer protection law and policy. Secretary, Department of Consumer Affairs, Nidhi Khare, will chair the session. She will preside over the three-day deliberations and guide discussions among Member States on key global consumer protection priorities. One of the major highlights of the session will be the launch of the United Nations Principles for Consumer Product Safety, which were adopted by the United Nations General Assembly in December 2025. India will also participate in a high-level fireside chat titled &#8220;Why the Principles Matter&#8221;, focusing on the significance of the newly adopted global framework. The session will deliberate on consumer information and education, sustainable consumption, enforcement of consumer protection law in global markets, and cross-border consumer protection.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:34:16+00:00",
-        "link": "https://newsonair.gov.in/india-to-chair-9th-session-of-intergovernmental-group-of-experts-on-consumer-protection-law-policy-in-switzerland/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-13.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India to host BRICS Women Working Group Meeting under BRICS Chairship in Kochi",
-        "summary": "India will host the two-day BRICS Women Working Group Meeting under its BRICS Chairship, beginning today in Kochi, Keralam. The Ministry of Women and Child Development said that senior government officials from BRICS Member Countries will come together to deliberate on key issues relating to women&#8217;s empowerment across all sectors and women-led development while advancing […]",
-        "article": "India will host the two-day BRICS Women Working Group Meeting under its BRICS Chairship, beginning today in Kochi, Keralam. The Ministry of Women and Child Development said that senior government officials from BRICS Member Countries will come together to deliberate on key issues relating to women&#8217;s empowerment across all sectors and women-led development while advancing cooperation across shared priorities. The Women Working Group Meeting will provide an opportunity for Member Countries to deliberate and build consensus that advances women-led development. The BRICS Women Track has focused on four priority areas, which include women in governance and leadership, women&#8217;s digital and financial inclusion, women&#8217;s entrepreneurship and skill development and women&#8217;s role in climate action, food security and nutrition. The Ministry said that the meeting will lay a strong foundation for the BRICS Women Ministerial Meeting to be held on 8th and 9th of this month.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:32:47+00:00",
-        "link": "https://newsonair.gov.in/india-to-brics-women-working-group-meeting-under-brics-chairship-in-kochi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-5-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMD forecasts heavy to extremely heavy rainfall across several states",
-        "summary": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall over Gujarat, Konkan, Goa, Madhya Maharashtra and Chhattisgarh today. The weather agency predicted heavy to very heavy rainfall over East Rajasthan, Himachal Pradesh, Karnataka, Kerala, Mahe, Madhya Pradesh and Uttarakhand during the day. The […]",
-        "article": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall over Gujarat, Konkan, Goa, Madhya Maharashtra and Chhattisgarh today. The weather agency predicted heavy to very heavy rainfall over East Rajasthan, Himachal Pradesh, Karnataka, Kerala, Mahe, Madhya Pradesh and Uttarakhand during the day. The Met department estimated heavy rainfall conditions over Assam, Meghalaya, Bihar, East Uttar Pradesh, Haryana, Chandigarh, Delhi and West Bengal for the day. In Delhi, IMD has forecast a cloudy sky with moderate rainfall for the day. The IMD has forecast the day&#8217;s maximum temperature to be around 32 to 34 degrees Celsius and the minimum temperature will be around 25 to 27 degrees.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:26:28+00:00",
-        "link": "https://newsonair.gov.in/imd-forecasts-heavy-to-extremely-heavy-rainfall-across-several-states/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260627827f-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India to host BRICS Heads of Anti-Drug Agencies Meeting in Guwahati",
-        "summary": "The BRICS Heads of Anti-Drug Agencies Meeting will begin today in Guwahati, Assam. The two-day event is being organised by the Narcotics Control Bureau under the Ministry of Home Affairs. The meeting will bring together heads of anti-drug agencies and senior officials from BRICS member countries to strengthen cooperation against drug trafficking and substance abuse. […]",
-        "article": "The BRICS Heads of Anti-Drug Agencies Meeting will begin today in Guwahati, Assam. The two-day event is being organised by the Narcotics Control Bureau under the Ministry of Home Affairs. The meeting will bring together heads of anti-drug agencies and senior officials from BRICS member countries to strengthen cooperation against drug trafficking and substance abuse. Akashvani&#8217;s correspondent reports that the BRICS Heads of Anti-Drug Agencies Meeting in Guwahati will focus on combating synthetic drugs and precursor diversion, strengthening intelligence sharing and operational coordination, and enhancing capacity building and institutional cooperation. Delegates will discuss emerging challenges such as new psychoactive substances, darknet-enabled trafficking, cryptocurrency-linked financial flows, and the misuse of precursor chemicals. India will also showcase its efforts to combat drug abuse and trafficking, including the recently released Vision Document on Narcotics Control 2026-2029. During the meeting, member countries will deliberate on strategies to address evolving drug-related threats and strengthen international cooperation.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:23:20+00:00",
-        "link": "https://newsonair.gov.in/india-to-host-brics-heads-of-anti-drug-agencies-meeting-in-guwahati/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-2-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "Over 104 crore health records linked to over 93 crore ABHA accounts, says Govt",
+        "summary": "The government has said that over 104 crore health records have been linked to over 93 crore Ayushman Bharat Health Account (ABHA) accounts. This marks a significant progress in India&#8217;s journey towards a connected digital public health ecosystem. ABHA is a 14-digit unique identifier like Aadhaar that securely links individuals to the wider health system. […]",
+        "article": "The government has said that over 104 crore health records have been linked to over 93 crore Ayushman Bharat Health Account (ABHA) accounts. This marks a significant progress in India&#8217;s journey towards a connected digital public health ecosystem. ABHA is a 14-digit unique identifier like Aadhaar that securely links individuals to the wider health system. It helps patients access to digital health services. They can connect to insurers, healthcare facilities, doctors, and other services with all their medical history intact through this network. The government aims to expand the Ayushman Bharat Digital Mission network to cover all patients and health facilities across the country, working towards fully digital health records for every citizen.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:44:58+00:00",
+        "link": "https://newsonair.gov.in/over-104-crore-health-records-linked-to-over-93-crore-abha-accounts-says-govt/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/5.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "LS Speaker Om Birla pays tributes to Dr Syama Prasad Mookerjee on his 125th birth anniversary",
+        "summary": "Lok Sabha Speaker Om Birla today paid tributes to former Union Minister, renowned educationist, visionary thinker and staunch nationalist leader Dr. Syama Prasad Mookerjee on his 125th birth anniversary. In a social media post, Mr Birla said that Dr. Mukherjee&#8217;s life is an inspiring example of unwavering dedication to national service and national unity. He […]",
+        "article": "Lok Sabha Speaker Om Birla today paid tributes to former Union Minister, renowned educationist, visionary thinker and staunch nationalist leader Dr. Syama Prasad Mookerjee on his 125th birth anniversary. In a social media post, Mr Birla said that Dr. Mukherjee&#8217;s life is an inspiring example of unwavering dedication to national service and national unity. He added that as an educationist, Dr. Mookerjee made remarkable contributions to the field of higher education, while as a public leader, he demonstrated his clear commitment to national interests and democratic values. Mr. Birla highlighted that Dr. Mookerjee continuously strengthened the vision of a strong, harmonious, and self-reliant India through his thoughts and actions. He further added that his dedication to the unity, integrity, and welfare of the nation remains an inspiration for all countrymen even today.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:39:12+00:00",
+        "link": "https://newsonair.gov.in/ls-speaker-om-birla-pays-tributes-to-dr-syama-prasad-mookerjee-on-his-125th-birth-anniversary/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-06-130825.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi extends greetings to spiritual leader His Holiness Dalai Lama on 91st birthday",
+        "summary": "Prime Minister Narendra Modi has extended warm greetings to spiritual leader His Holiness the Dalai Lama on his 91st birthday today. In a social media post, Mr Modi said his message of peace and harmony has been a guiding force for people across the world. The Prime Minister said the Dalai Lama&#8217;s moral and spiritual […]",
+        "article": "Prime Minister Narendra Modi has extended warm greetings to spiritual leader His Holiness the Dalai Lama on his 91st birthday today. In a social media post, Mr Modi said his message of peace and harmony has been a guiding force for people across the world. The Prime Minister said the Dalai Lama&#8217;s moral and spiritual strength and his commitment to global good are commendable. He prayed for the Dalai Lama’s long and healthy life.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:29:03+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-extends-greetings-to-spiritual-leader-his-holiness-dalai-lama-on-91st-birthday/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-10-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NTA extends deadline to update bank details for NEET UG 2026 fee refund",
+        "summary": "The National Testing Agency (NTA) has extended the deadline to update bank account details for the fee refund of the National Eligibility cum Entrance Test (NEET) UG 2026 exam till the 7th of this month. In a social media post, the NTA stated that refunds have already started for candidates who have confirmed their bank […]",
+        "article": "The National Testing Agency (NTA) has extended the deadline to update bank account details for the fee refund of the National Eligibility cum Entrance Test (NEET) UG 2026 exam till the 7th of this month. In a social media post, the NTA stated that refunds have already started for candidates who have confirmed their bank account details. It said that only 8 lakh 29 thousand 510 candidates have so far corrected or updated their bank details. The refund process is being carried out by NTA after the cancellation of the NEET (UG) 2026 examination held on 3rd of May this year over allegations of a question paper leak.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:26:12+00:00",
+        "link": "https://newsonair.gov.in/nta-extends-deadline-to-update-bank-details-for-neet-ug-2026-fee-refund/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/neet.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Vice President pays floral tributes to Dr. Syama Prasad Mookerjee at Uprashtrapati Bhawan",
         "summary": "Vice President C P Radhakrishnan today paid floral tributes to Dr. Syama Prasad Mookerjee at the Uprashtrapati Bhawan on his 125th birth anniversary. In a social media post, the Vice President said that Dr. Mookerjee is a distinguished educationist, visionary statesman and nation-builder and left an enduring imprint on India’s educational, political and democratic journey. […]",
         "article": "Vice President C P Radhakrishnan today paid floral tributes to Dr. Syama Prasad Mookerjee at the Uprashtrapati Bhawan on his 125th birth anniversary. In a social media post, the Vice President said that Dr. Mookerjee is a distinguished educationist, visionary statesman and nation-builder and left an enduring imprint on India’s educational, political and democratic journey. He added that as one of the youngest Vice-Chancellors of the University of Calcutta, a member of the Constituent Assembly, President of the Akhil Bharatiya Hindu Mahasabha, Independent India’s first Minister for Industry and Supply, and founder of the Bharatiya Jana Sangh, Dr. Mookerjee rendered exceptional service to the nation. Mr Radhakrishnan emphasized that as a steadfast champion of national unity and integrity, Dr Mookerjee made the supreme sacrifice in Jammu and Kashmir while striving for its full integration with Bharat. He further said that his life and ideals continue to inspire generations in the collective endeavour to build a strong, united, self-reliant and developed India.",
@@ -312,56 +356,56 @@ window.VM_NEWS = {
         "pubDate": "2026-07-06T03:35:47+00:00",
         "link": "https://newsonair.gov.in/pm-modi-to-be-begin-6-day-visit-to-indonesia-australia-new-zealand-today/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-6-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India to chair UNCTAD’s 9th session of Intergovernmental Group of Experts on Consumer Protection in Switzerland",
-        "summary": "India will chair the Ninth Session of the Intergovernmental Group of Experts on Consumer Protection Law and Policy in Geneva, Switzerland, today. The three-day session, being organised by the United Nations Trade and Development (UNCTAD), will continue till Wednesday. Akashvani&#8217;s correspondent reports that the Ministry of Consumer Affairs, Food and Public Distribution said that […]",
-        "article": "India will chair the Ninth Session of the Intergovernmental Group of Experts on Consumer Protection Law and Policy in Geneva, Switzerland, today. The three-day session, being organised by the United Nations Trade and Development (UNCTAD), will continue till Wednesday. Akashvani&#8217;s correspondent reports that the Ministry of Consumer Affairs, Food and Public Distribution said that the session will bring together Member States, international organisations, consumer protection authorities, academia and other stakeholders to deliberate on emerging issues in consumer protection law and policy. The Intergovernmental Group of Experts is the principal intergovernmental platform for cooperation and dialogue on consumer protection law and policy. Secretary, Department of Consumer Affairs, Nidhi Khare, will chair the session. She will preside over the three-day deliberations and guide discussions among Member States on key global consumer protection priorities. One of the major highlights of the session will be the launch of the United Nations Principles for Consumer Product Safety, which were adopted by the United Nations General Assembly in December 2025. India will also participate in a high-level fireside chat titled &#8220;Why the Principles Matter&#8221;, focusing on the significance of the newly adopted global framework. The session will deliberate on consumer information and education, sustainable consumption, enforcement of consumer protection law in global markets, and cross-border consumer protection.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:34:16+00:00",
-        "link": "https://newsonair.gov.in/india-to-chair-9th-session-of-intergovernmental-group-of-experts-on-consumer-protection-law-policy-in-switzerland/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-13.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India to host BRICS Women Working Group Meeting under BRICS Chairship in Kochi",
-        "summary": "India will host the two-day BRICS Women Working Group Meeting under its BRICS Chairship, beginning today in Kochi, Keralam. The Ministry of Women and Child Development said that senior government officials from BRICS Member Countries will come together to deliberate on key issues relating to women&#8217;s empowerment across all sectors and women-led development while advancing […]",
-        "article": "India will host the two-day BRICS Women Working Group Meeting under its BRICS Chairship, beginning today in Kochi, Keralam. The Ministry of Women and Child Development said that senior government officials from BRICS Member Countries will come together to deliberate on key issues relating to women&#8217;s empowerment across all sectors and women-led development while advancing cooperation across shared priorities. The Women Working Group Meeting will provide an opportunity for Member Countries to deliberate and build consensus that advances women-led development. The BRICS Women Track has focused on four priority areas, which include women in governance and leadership, women&#8217;s digital and financial inclusion, women&#8217;s entrepreneurship and skill development and women&#8217;s role in climate action, food security and nutrition. The Ministry said that the meeting will lay a strong foundation for the BRICS Women Ministerial Meeting to be held on 8th and 9th of this month.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:32:47+00:00",
-        "link": "https://newsonair.gov.in/india-to-brics-women-working-group-meeting-under-brics-chairship-in-kochi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-5-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMD forecasts heavy to extremely heavy rainfall across several states",
-        "summary": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall over Gujarat, Konkan, Goa, Madhya Maharashtra and Chhattisgarh today. The weather agency predicted heavy to very heavy rainfall over East Rajasthan, Himachal Pradesh, Karnataka, Kerala, Mahe, Madhya Pradesh and Uttarakhand during the day. The […]",
-        "article": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall over Gujarat, Konkan, Goa, Madhya Maharashtra and Chhattisgarh today. The weather agency predicted heavy to very heavy rainfall over East Rajasthan, Himachal Pradesh, Karnataka, Kerala, Mahe, Madhya Pradesh and Uttarakhand during the day. The Met department estimated heavy rainfall conditions over Assam, Meghalaya, Bihar, East Uttar Pradesh, Haryana, Chandigarh, Delhi and West Bengal for the day. In Delhi, IMD has forecast a cloudy sky with moderate rainfall for the day. The IMD has forecast the day&#8217;s maximum temperature to be around 32 to 34 degrees Celsius and the minimum temperature will be around 25 to 27 degrees.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:26:28+00:00",
-        "link": "https://newsonair.gov.in/imd-forecasts-heavy-to-extremely-heavy-rainfall-across-several-states/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260627827f-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India to host BRICS Heads of Anti-Drug Agencies Meeting in Guwahati",
-        "summary": "The BRICS Heads of Anti-Drug Agencies Meeting will begin today in Guwahati, Assam. The two-day event is being organised by the Narcotics Control Bureau under the Ministry of Home Affairs. The meeting will bring together heads of anti-drug agencies and senior officials from BRICS member countries to strengthen cooperation against drug trafficking and substance abuse. […]",
-        "article": "The BRICS Heads of Anti-Drug Agencies Meeting will begin today in Guwahati, Assam. The two-day event is being organised by the Narcotics Control Bureau under the Ministry of Home Affairs. The meeting will bring together heads of anti-drug agencies and senior officials from BRICS member countries to strengthen cooperation against drug trafficking and substance abuse. Akashvani&#8217;s correspondent reports that the BRICS Heads of Anti-Drug Agencies Meeting in Guwahati will focus on combating synthetic drugs and precursor diversion, strengthening intelligence sharing and operational coordination, and enhancing capacity building and institutional cooperation. Delegates will discuss emerging challenges such as new psychoactive substances, darknet-enabled trafficking, cryptocurrency-linked financial flows, and the misuse of precursor chemicals. India will also showcase its efforts to combat drug abuse and trafficking, including the recently released Vision Document on Narcotics Control 2026-2029. During the meeting, member countries will deliberate on strategies to address evolving drug-related threats and strengthen international cooperation.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:23:20+00:00",
-        "link": "https://newsonair.gov.in/india-to-host-brics-heads-of-anti-drug-agencies-meeting-in-guwahati/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-2-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "Over 104 crore health records linked to over 93 crore ABHA accounts, says Govt",
+        "summary": "The government has said that over 104 crore health records have been linked to over 93 crore Ayushman Bharat Health Account (ABHA) accounts. This marks a significant progress in India&#8217;s journey towards a connected digital public health ecosystem. ABHA is a 14-digit unique identifier like Aadhaar that securely links individuals to the wider health system. […]",
+        "article": "The government has said that over 104 crore health records have been linked to over 93 crore Ayushman Bharat Health Account (ABHA) accounts. This marks a significant progress in India&#8217;s journey towards a connected digital public health ecosystem. ABHA is a 14-digit unique identifier like Aadhaar that securely links individuals to the wider health system. It helps patients access to digital health services. They can connect to insurers, healthcare facilities, doctors, and other services with all their medical history intact through this network. The government aims to expand the Ayushman Bharat Digital Mission network to cover all patients and health facilities across the country, working towards fully digital health records for every citizen.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:44:58+00:00",
+        "link": "https://newsonair.gov.in/over-104-crore-health-records-linked-to-over-93-crore-abha-accounts-says-govt/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/5.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "LS Speaker Om Birla pays tributes to Dr Syama Prasad Mookerjee on his 125th birth anniversary",
+        "summary": "Lok Sabha Speaker Om Birla today paid tributes to former Union Minister, renowned educationist, visionary thinker and staunch nationalist leader Dr. Syama Prasad Mookerjee on his 125th birth anniversary. In a social media post, Mr Birla said that Dr. Mukherjee&#8217;s life is an inspiring example of unwavering dedication to national service and national unity. He […]",
+        "article": "Lok Sabha Speaker Om Birla today paid tributes to former Union Minister, renowned educationist, visionary thinker and staunch nationalist leader Dr. Syama Prasad Mookerjee on his 125th birth anniversary. In a social media post, Mr Birla said that Dr. Mukherjee&#8217;s life is an inspiring example of unwavering dedication to national service and national unity. He added that as an educationist, Dr. Mookerjee made remarkable contributions to the field of higher education, while as a public leader, he demonstrated his clear commitment to national interests and democratic values. Mr. Birla highlighted that Dr. Mookerjee continuously strengthened the vision of a strong, harmonious, and self-reliant India through his thoughts and actions. He further added that his dedication to the unity, integrity, and welfare of the nation remains an inspiration for all countrymen even today.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:39:12+00:00",
+        "link": "https://newsonair.gov.in/ls-speaker-om-birla-pays-tributes-to-dr-syama-prasad-mookerjee-on-his-125th-birth-anniversary/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-06-130825.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi extends greetings to spiritual leader His Holiness Dalai Lama on 91st birthday",
+        "summary": "Prime Minister Narendra Modi has extended warm greetings to spiritual leader His Holiness the Dalai Lama on his 91st birthday today. In a social media post, Mr Modi said his message of peace and harmony has been a guiding force for people across the world. The Prime Minister said the Dalai Lama&#8217;s moral and spiritual […]",
+        "article": "Prime Minister Narendra Modi has extended warm greetings to spiritual leader His Holiness the Dalai Lama on his 91st birthday today. In a social media post, Mr Modi said his message of peace and harmony has been a guiding force for people across the world. The Prime Minister said the Dalai Lama&#8217;s moral and spiritual strength and his commitment to global good are commendable. He prayed for the Dalai Lama’s long and healthy life.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:29:03+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-extends-greetings-to-spiritual-leader-his-holiness-dalai-lama-on-91st-birthday/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-10-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NTA extends deadline to update bank details for NEET UG 2026 fee refund",
+        "summary": "The National Testing Agency (NTA) has extended the deadline to update bank account details for the fee refund of the National Eligibility cum Entrance Test (NEET) UG 2026 exam till the 7th of this month. In a social media post, the NTA stated that refunds have already started for candidates who have confirmed their bank […]",
+        "article": "The National Testing Agency (NTA) has extended the deadline to update bank account details for the fee refund of the National Eligibility cum Entrance Test (NEET) UG 2026 exam till the 7th of this month. In a social media post, the NTA stated that refunds have already started for candidates who have confirmed their bank account details. It said that only 8 lakh 29 thousand 510 candidates have so far corrected or updated their bank details. The refund process is being carried out by NTA after the cancellation of the NEET (UG) 2026 examination held on 3rd of May this year over allegations of a question paper leak.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:26:12+00:00",
+        "link": "https://newsonair.gov.in/nta-extends-deadline-to-update-bank-details-for-neet-ug-2026-fee-refund/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/neet.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Vice President pays floral tributes to Dr. Syama Prasad Mookerjee at Uprashtrapati Bhawan",
         "summary": "Vice President C P Radhakrishnan today paid floral tributes to Dr. Syama Prasad Mookerjee at the Uprashtrapati Bhawan on his 125th birth anniversary. In a social media post, the Vice President said that Dr. Mookerjee is a distinguished educationist, visionary statesman and nation-builder and left an enduring imprint on India’s educational, political and democratic journey. […]",
         "article": "Vice President C P Radhakrishnan today paid floral tributes to Dr. Syama Prasad Mookerjee at the Uprashtrapati Bhawan on his 125th birth anniversary. In a social media post, the Vice President said that Dr. Mookerjee is a distinguished educationist, visionary statesman and nation-builder and left an enduring imprint on India’s educational, political and democratic journey. He added that as one of the youngest Vice-Chancellors of the University of Calcutta, a member of the Constituent Assembly, President of the Akhil Bharatiya Hindu Mahasabha, Independent India’s first Minister for Industry and Supply, and founder of the Bharatiya Jana Sangh, Dr. Mookerjee rendered exceptional service to the nation. Mr Radhakrishnan emphasized that as a steadfast champion of national unity and integrity, Dr Mookerjee made the supreme sacrifice in Jammu and Kashmir while striving for its full integration with Bharat. He further said that his life and ideals continue to inspire generations in the collective endeavour to build a strong, united, self-reliant and developed India.",
@@ -424,50 +468,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-06T03:35:47+00:00",
         "link": "https://newsonair.gov.in/pm-modi-to-be-begin-6-day-visit-to-indonesia-australia-new-zealand-today/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-6-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India to chair UNCTAD’s 9th session of Intergovernmental Group of Experts on Consumer Protection in Switzerland",
-        "summary": "India will chair the Ninth Session of the Intergovernmental Group of Experts on Consumer Protection Law and Policy in Geneva, Switzerland, today. The three-day session, being organised by the United Nations Trade and Development (UNCTAD), will continue till Wednesday. Akashvani&#8217;s correspondent reports that the Ministry of Consumer Affairs, Food and Public Distribution said that […]",
-        "article": "India will chair the Ninth Session of the Intergovernmental Group of Experts on Consumer Protection Law and Policy in Geneva, Switzerland, today. The three-day session, being organised by the United Nations Trade and Development (UNCTAD), will continue till Wednesday. Akashvani&#8217;s correspondent reports that the Ministry of Consumer Affairs, Food and Public Distribution said that the session will bring together Member States, international organisations, consumer protection authorities, academia and other stakeholders to deliberate on emerging issues in consumer protection law and policy. The Intergovernmental Group of Experts is the principal intergovernmental platform for cooperation and dialogue on consumer protection law and policy. Secretary, Department of Consumer Affairs, Nidhi Khare, will chair the session. She will preside over the three-day deliberations and guide discussions among Member States on key global consumer protection priorities. One of the major highlights of the session will be the launch of the United Nations Principles for Consumer Product Safety, which were adopted by the United Nations General Assembly in December 2025. India will also participate in a high-level fireside chat titled &#8220;Why the Principles Matter&#8221;, focusing on the significance of the newly adopted global framework. The session will deliberate on consumer information and education, sustainable consumption, enforcement of consumer protection law in global markets, and cross-border consumer protection.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:34:16+00:00",
-        "link": "https://newsonair.gov.in/india-to-chair-9th-session-of-intergovernmental-group-of-experts-on-consumer-protection-law-policy-in-switzerland/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-13.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India to host BRICS Women Working Group Meeting under BRICS Chairship in Kochi",
-        "summary": "India will host the two-day BRICS Women Working Group Meeting under its BRICS Chairship, beginning today in Kochi, Keralam. The Ministry of Women and Child Development said that senior government officials from BRICS Member Countries will come together to deliberate on key issues relating to women&#8217;s empowerment across all sectors and women-led development while advancing […]",
-        "article": "India will host the two-day BRICS Women Working Group Meeting under its BRICS Chairship, beginning today in Kochi, Keralam. The Ministry of Women and Child Development said that senior government officials from BRICS Member Countries will come together to deliberate on key issues relating to women&#8217;s empowerment across all sectors and women-led development while advancing cooperation across shared priorities. The Women Working Group Meeting will provide an opportunity for Member Countries to deliberate and build consensus that advances women-led development. The BRICS Women Track has focused on four priority areas, which include women in governance and leadership, women&#8217;s digital and financial inclusion, women&#8217;s entrepreneurship and skill development and women&#8217;s role in climate action, food security and nutrition. The Ministry said that the meeting will lay a strong foundation for the BRICS Women Ministerial Meeting to be held on 8th and 9th of this month.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:32:47+00:00",
-        "link": "https://newsonair.gov.in/india-to-brics-women-working-group-meeting-under-brics-chairship-in-kochi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-5-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMD forecasts heavy to extremely heavy rainfall across several states",
-        "summary": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall over Gujarat, Konkan, Goa, Madhya Maharashtra and Chhattisgarh today. The weather agency predicted heavy to very heavy rainfall over East Rajasthan, Himachal Pradesh, Karnataka, Kerala, Mahe, Madhya Pradesh and Uttarakhand during the day. The […]",
-        "article": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall over Gujarat, Konkan, Goa, Madhya Maharashtra and Chhattisgarh today. The weather agency predicted heavy to very heavy rainfall over East Rajasthan, Himachal Pradesh, Karnataka, Kerala, Mahe, Madhya Pradesh and Uttarakhand during the day. The Met department estimated heavy rainfall conditions over Assam, Meghalaya, Bihar, East Uttar Pradesh, Haryana, Chandigarh, Delhi and West Bengal for the day. In Delhi, IMD has forecast a cloudy sky with moderate rainfall for the day. The IMD has forecast the day&#8217;s maximum temperature to be around 32 to 34 degrees Celsius and the minimum temperature will be around 25 to 27 degrees.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:26:28+00:00",
-        "link": "https://newsonair.gov.in/imd-forecasts-heavy-to-extremely-heavy-rainfall-across-several-states/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260627827f-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India to host BRICS Heads of Anti-Drug Agencies Meeting in Guwahati",
-        "summary": "The BRICS Heads of Anti-Drug Agencies Meeting will begin today in Guwahati, Assam. The two-day event is being organised by the Narcotics Control Bureau under the Ministry of Home Affairs. The meeting will bring together heads of anti-drug agencies and senior officials from BRICS member countries to strengthen cooperation against drug trafficking and substance abuse. […]",
-        "article": "The BRICS Heads of Anti-Drug Agencies Meeting will begin today in Guwahati, Assam. The two-day event is being organised by the Narcotics Control Bureau under the Ministry of Home Affairs. The meeting will bring together heads of anti-drug agencies and senior officials from BRICS member countries to strengthen cooperation against drug trafficking and substance abuse. Akashvani&#8217;s correspondent reports that the BRICS Heads of Anti-Drug Agencies Meeting in Guwahati will focus on combating synthetic drugs and precursor diversion, strengthening intelligence sharing and operational coordination, and enhancing capacity building and institutional cooperation. Delegates will discuss emerging challenges such as new psychoactive substances, darknet-enabled trafficking, cryptocurrency-linked financial flows, and the misuse of precursor chemicals. India will also showcase its efforts to combat drug abuse and trafficking, including the recently released Vision Document on Narcotics Control 2026-2029. During the meeting, member countries will deliberate on strategies to address evolving drug-related threats and strengthen international cooperation.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:23:20+00:00",
-        "link": "https://newsonair.gov.in/india-to-host-brics-heads-of-anti-drug-agencies-meeting-in-guwahati/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-2-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -586,6 +586,17 @@ window.VM_NEWS = {
     ],
     "sports": [
       {
+        "title": "FIFA World Cup: England storm into quarter-finals with 3-2 victory over Mexico",
+        "summary": "England stormed into the FIFA World Cup quarter-finals with a dramatic 3-2 victory over Mexico at the Azteca Stadium in Mexico city today. Thomas Tuchel&#8217;s side even survived Jarell Quansah&#8217;s red card early in the second half to record one of their finest wins in recent years. Mexico had lost only two of 89 competitive […]",
+        "article": "England stormed into the FIFA World Cup quarter-finals with a dramatic 3-2 victory over Mexico at the Azteca Stadium in Mexico city today. Thomas Tuchel&#8217;s side even survived Jarell Quansah&#8217;s red card early in the second half to record one of their finest wins in recent years. Mexico had lost only two of 89 competitive games at their Azteca fortress, but England&#8217;s cool approach early on allowed them to take command when the outstanding Jude Bellingham scored twice in the space of 98 seconds before half-time. In another match, Brazil&#8217;s veteran player Neymar Jr. has announced his retirement from international football after the five-time world champions suffered a stunning 2-1 defeat against Norway in FIFA World Cup Round of 16 last night. He finished his international career as the all-time leading scorer for Brazil. The 34-year-old forward brought the curtain down on his international career moments after Brazil&#8217;s hopes of a sixth World Cup title were ended by Erling Haaland&#8217;s late brace, with Neymar scoring a stoppage-time penalty that proved only a consolation. His retirement brings to an end one of the most celebrated international careers in Brazilian football. For Brazil, the defeat marked a seventh consecutive World Cup knockout loss to European opposition and their earliest World Cup exit since 1990, while Neymar&#8217;s emotional farewell closed the chapter on an era that defined Brazilian football for more than a decade.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:34:14+00:00",
+        "link": "https://newsonair.gov.in/fifa-world-cup-england-storm-into-quarter-finals-with-3-2-victory-over-mexico/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/FIFA-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Wimbledon: Novak Djokovic defeat Roman Safiullin to reach men’s singles quarter-finals",
         "summary": "In Wimbledon Tennis, Serbia&#8217;s Novak Djokovic defeated Roman Safiullin of Russia to reach the men&#8217;s singles quarter-finals last night. This victory marked Djokovic&#8217;s 106th singles win at the All England Club. It also surpassed Roger Federer&#8217;s record of 105 Wimbledon men&#8217;s singles victories, with only Martina Navratilova (120) having won more singles matches at the […]",
         "article": "In Wimbledon Tennis, Serbia&#8217;s Novak Djokovic defeated Roman Safiullin of Russia to reach the men&#8217;s singles quarter-finals last night. This victory marked Djokovic&#8217;s 106th singles win at the All England Club. It also surpassed Roger Federer&#8217;s record of 105 Wimbledon men&#8217;s singles victories, with only Martina Navratilova (120) having won more singles matches at the Championships. Djokovic will next face either Felix Auger-Aliassime or Alejandro Davidovich Fokina in the quarter-finals, with a potential blockbuster semi-final against world No. 1 and defending champion Jannik Sinner on the horizon. In women&#8217;s singles, Karolína Muchová returned to the Wimbledon quarter-finals for the third time in her career after overcoming fellow Czech and former champion Barbora Krejčíková 7-5, 5-7, 6-3 in a gripping fourth-round contest, ensuring that a first-time women&#8217;s singles champion will be crowned at the All England Club this year. In another encounter, Naomi Osaka produced one of the biggest upsets of Wimbledon 2026, defeating world No. 1 Aryna Sabalenka 6-2, 7-6(2) to reach her first quarter-final at the All England Club. The former world No. 1 needed just one hour and 28 minutes to end Sabalenka&#8217;s dominance in their rivalry, claiming her first win over the Belarusian in eight years. Earlier, American Jessica Pegula defeated compatriot Iva ⁠Jovic 4-6, 6-3, 6-1 in the Women&#8217;s Singles to reach the quarter-finals in London.",
@@ -681,17 +692,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-05T01:55:28+00:00",
         "link": "https://newsonair.gov.in/england-defeat-india-in-2nd-t20i-of-5-match-series-in-manchester/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/India_vs_England_0127-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Grand Chess Tour: India’s R Praggnanandhaa ends rapid section as joint leader",
-        "summary": "Indian Grandmaster R Praggnanandhaa produced a stunning finish to the rapid section of the Croatia Grand Chess Tour. He won all three of his matches yesterday to tie for the lead with France&#8217;s Alireza Firouzja. Praggnanandhaa defeated Ivan Saric, Bogdan- Daniel Deac and Anish Giri to climb to the top of the standings ahead of […]",
-        "article": "Indian Grandmaster R Praggnanandhaa produced a stunning finish to the rapid section of the Croatia Grand Chess Tour. He won all three of his matches yesterday to tie for the lead with France&#8217;s Alireza Firouzja. Praggnanandhaa defeated Ivan Saric, Bogdan- Daniel Deac and Anish Giri to climb to the top of the standings ahead of the blitz section. Meanwhile, reigning world champion D Gukesh drew all three of his games yesterday and is currently placed on 10 points, two behind the joint leaders. The tournament now moves into the 18-round blitz section, where the overall winner will be decided.",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T07:05:34+00:00",
-        "link": "https://newsonair.gov.in/grand-chess-tour-indias-r-praggnanandhaa-ends-rapid-section-as-joint-leader/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/q.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -1025,6 +1025,17 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "104 करोड़ से अधिक स्वास्थ्य कार्ड 93 करोड़ से अधिक आभा खातों से जुड़े",
+        "summary": "सरकार ने कहा है कि 104 करोड़ से अधिक स्वास्थ्य कार्ड 93 करोड़ से अधिक आयुष्मान भारत स्वास्थ्य खाता-आभा से जोड़े गए हैं। यह देश की एकीकृत डिजिटल सार्वजनिक स्वास्थ्य प्रणाली की दिशा में एक महत्वपूर्ण प्रगति है। आभा, आधार कार्ड की तरह 14 अंकों की विशिष्ट पहचान है जो व्यक्तियों को व्यापक स्वास्थ्य प्रणाली […]",
+        "article": "सरकार ने कहा है कि 104 करोड़ से अधिक स्वास्थ्य कार्ड 93 करोड़ से अधिक आयुष्मान भारत स्वास्थ्य खाता-आभा से जोड़े गए हैं। यह देश की एकीकृत डिजिटल सार्वजनिक स्वास्थ्य प्रणाली की दिशा में एक महत्वपूर्ण प्रगति है। आभा, आधार कार्ड की तरह 14 अंकों की विशिष्ट पहचान है जो व्यक्तियों को व्यापक स्वास्थ्य प्रणाली से सुरक्षित रूप से जोड़ती है। यह प्रणाली रोगियों को डिजिटल स्वास्थ्य सेवाओं तक पहुंच प्रदान करती है। इस नेटवर्क के माध्यम से रोगी संपूर्ण चिकित्सा इतिहास के साथ बीमाकर्ताओं, स्वास्थ्य सुविधाओं, डॉक्टरों और अन्य सेवाओं से जुड़ सकते हैं। सरकार का लक्ष्य आयुष्मान भारत डिजिटल मिशन नेटवर्क का विस्तार करके देश के रोगियों और स्वास्थ्य सुविधाओं को शामिल करना है। इसका उद्देश्य प्रत्येक नागरिक के लिए पूर्णतः डिजिटल स्वास्थ्य रिकॉर्ड उपलब्ध कराना है।",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:23:44+00:00",
+        "link": "https://newsonair.gov.in/hi/over-104-crore-health-cards-linked-to-more-than-93-crore-abha-accounts/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Ayushman-Bharat-Digital-Mission.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "एनटीए ने नीट यूजी 2026 फीस वापसी के लिए बैंक खाता अपडेट की समय सीमा 7 जुलाई तक बढ़ाई",
         "summary": "राष्ट्रीय परीक्षण एजेंसी (एनटीए) ने राष्ट्रीय पात्रता सह प्रवेश परीक्षा (एनईटी) यूजी 2026 परीक्षा की फीस वापसी के लिए बैंक खाता विवरण अपडेट करने की समय सीमा इस महीने की 7 तारीख तक बढ़ा दी है। सोशल मीडिया पर एक पोस्ट में, एनटीए ने सूचित किया कि जिन उम्मीदवारों ने अपने बैंक खाता विवरण की […]",
         "article": "राष्ट्रीय परीक्षण एजेंसी (एनटीए) ने राष्ट्रीय पात्रता सह प्रवेश परीक्षा (एनईटी) यूजी 2026 परीक्षा की फीस वापसी के लिए बैंक खाता विवरण अपडेट करने की समय सीमा इस महीने की 7 तारीख तक बढ़ा दी है। सोशल मीडिया पर एक पोस्ट में, एनटीए ने सूचित किया कि जिन उम्मीदवारों ने अपने बैंक खाता विवरण की पुष्टि कर दी है, उनके लिए रिफंड प्रक्रिया शुरू हो चुकी है। एनटीए ने बताया कि अब तक केवल 8 लाख 29 हजार 510 उम्मीदवारों ने ही अपने बैंक विवरण में सुधार या अपडेट किया है। प्रश्न पत्र लीक होने के आरोपों के बाद इस वर्ष 3 मई को आयोजित परीक्षा रद्द होने के बाद एनटीए द्वारा रिफंड प्रक्रिया चलाई जा रही है।",
@@ -1135,17 +1146,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "प्रधानमंत्री मोदी ने डॉ. श्यामा प्रसाद मुखर्जी को साहस, राष्ट्रवाद और निस्वार्थ सेवा का शाश्वत प्रतीक बताया",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने डॉ. श्‍यामा प्रसाद मुखर्जी की 125वीं जयंती पर श्रद्धांजलि अर्पित करते हुए उन्‍हें साहस, राष्‍ट्रवाद और निस्‍वार्थ सेवा का शाश्वत प्रतीक बताया है। श्री मोदी ने एक आलेख में कहा कि डॉ. मुखर्जी का जीवन अखंड भारत के लिये उनकी अटल प्रतिबद्धता का प्रमाण है। उन्होंने विभाजन के दौरान पश्चिम बंगाल […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने डॉ. श्&#x200d;यामा प्रसाद मुखर्जी की 125वीं जयंती पर श्रद्धांजलि अर्पित करते हुए उन्&#x200d;हें साहस, राष्&#x200d;ट्रवाद और निस्&#x200d;वार्थ सेवा का शाश्वत प्रतीक बताया है। श्री मोदी ने एक आलेख में कहा कि डॉ. मुखर्जी का जीवन अखंड भारत के लिये उनकी अटल प्रतिबद्धता का प्रमाण है। उन्होंने विभाजन के दौरान पश्चिम बंगाल को और इसके बाद जम्&#x200d;मू कश्&#x200d;मीर को भारत अभिन्&#x200d;न अंग बनाये रखना सुनिश्&#x200d;चित किया। प्रधानमंत्री ने कहा कि वर्ष 2019 में अनुच्&#x200d;छेद-370 और 35ए निरस्त किया जाना उनके बलिदान के प्रति सर्वाधिक समुचित श्रद्धांजलि थी। डॉ. मुखर्जी के योगदान का उल्&#x200d;लेख करते हुए प्रधानमंत्री ने कहा कि वे कलकत्&#x200d;ता विश्&#x200d;वविद्यालय के सबसे कम उम्र के कुलपति रहे तथा उन्होंने शिक्षा और अनुसंधान क्षेत्र में अनेक सुधार किया। प्रधानमंत्री ने देश की औद्योगिक प्रगति में डॉ. मुखर्जी के योगदान और 1943 में बंगाल अकाल के दौरान उनकी मानव सेवा का भी उल्&#x200d;लेख किया।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T02:35:33+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-described-dr-syama-prasad-mookerjee-as-an-eternal-symbol-of-courage-nationalism-and-selfless-service/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats-624.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "पाकिस्तान अधिकृत कश्मीर में प्रदर्शनकारियों पर गोलीबारी के बाद तनाव बढ़ा",
         "summary": "पाकिस्तान के कब्जे वाले कश्मीर में प्रदर्शनकारियों पर पाकिस्तान रेंजर्स की गोलीबारी में एक व्यक्ति की मौत और कई के घायल होने के बाद तनाव बढ़ गया है। यह घटना बुनियादी अधिकारों, आर्थिक राहत और राजनीतिक स्वतंत्रता की मांग को लेकर हो रहे प्रदर्शनों के बीच हुई है। मीडिया रिपोर्ट के अनुसार क्षेत्र में इस्लामाबाद […]",
         "article": "पाकिस्तान के कब्जे वाले कश्मीर में प्रदर्शनकारियों पर पाकिस्तान रेंजर्स की गोलीबारी में एक व्यक्ति की मौत और कई के घायल होने के बाद तनाव बढ़ गया है। यह घटना बुनियादी अधिकारों, आर्थिक राहत और राजनीतिक स्वतंत्रता की मांग को लेकर हो रहे प्रदर्शनों के बीच हुई है। मीडिया रिपोर्ट के अनुसार क्षेत्र में इस्लामाबाद विरोधी प्रदर्शनों में 600 से अधिक नागरिक अधिकार कार्यकर्ताओं को गिरफ्तार किया गया है। इस बीच, कल लंदन में प्रवासी कश्मीरियों ने प्रदर्शनकारियों के समर्थन में विरोध प्रदर्शन किया। दूसरी ओर, पाकिस्तान में कराची के अब्बासी शहीद अस्पताल में भी विरोध प्रदर्शन तेज हो गए हैं, जहां डॉक्टर लंबित वेतन, बेहतर सुरक्षा और सुविधाओं में सुधार की मांग कर रहे हैं। डॉक्टरों ने मांगें पूरी नहीं होने पर सेवाएं बंद कर देने की चेतावनी दी है।",
@@ -1158,6 +1158,17 @@ window.VM_NEWS = {
       }
     ],
     "breaking": [
+      {
+        "title": "104 करोड़ से अधिक स्वास्थ्य कार्ड 93 करोड़ से अधिक आभा खातों से जुड़े",
+        "summary": "सरकार ने कहा है कि 104 करोड़ से अधिक स्वास्थ्य कार्ड 93 करोड़ से अधिक आयुष्मान भारत स्वास्थ्य खाता-आभा से जोड़े गए हैं। यह देश की एकीकृत डिजिटल सार्वजनिक स्वास्थ्य प्रणाली की दिशा में एक महत्वपूर्ण प्रगति है। आभा, आधार कार्ड की तरह 14 अंकों की विशिष्ट पहचान है जो व्यक्तियों को व्यापक स्वास्थ्य प्रणाली […]",
+        "article": "सरकार ने कहा है कि 104 करोड़ से अधिक स्वास्थ्य कार्ड 93 करोड़ से अधिक आयुष्मान भारत स्वास्थ्य खाता-आभा से जोड़े गए हैं। यह देश की एकीकृत डिजिटल सार्वजनिक स्वास्थ्य प्रणाली की दिशा में एक महत्वपूर्ण प्रगति है। आभा, आधार कार्ड की तरह 14 अंकों की विशिष्ट पहचान है जो व्यक्तियों को व्यापक स्वास्थ्य प्रणाली से सुरक्षित रूप से जोड़ती है। यह प्रणाली रोगियों को डिजिटल स्वास्थ्य सेवाओं तक पहुंच प्रदान करती है। इस नेटवर्क के माध्यम से रोगी संपूर्ण चिकित्सा इतिहास के साथ बीमाकर्ताओं, स्वास्थ्य सुविधाओं, डॉक्टरों और अन्य सेवाओं से जुड़ सकते हैं। सरकार का लक्ष्य आयुष्मान भारत डिजिटल मिशन नेटवर्क का विस्तार करके देश के रोगियों और स्वास्थ्य सुविधाओं को शामिल करना है। इसका उद्देश्य प्रत्येक नागरिक के लिए पूर्णतः डिजिटल स्वास्थ्य रिकॉर्ड उपलब्ध कराना है।",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:23:44+00:00",
+        "link": "https://newsonair.gov.in/hi/over-104-crore-health-cards-linked-to-more-than-93-crore-abha-accounts/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Ayushman-Bharat-Digital-Mission.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "एनटीए ने नीट यूजी 2026 फीस वापसी के लिए बैंक खाता अपडेट की समय सीमा 7 जुलाई तक बढ़ाई",
         "summary": "राष्ट्रीय परीक्षण एजेंसी (एनटीए) ने राष्ट्रीय पात्रता सह प्रवेश परीक्षा (एनईटी) यूजी 2026 परीक्षा की फीस वापसी के लिए बैंक खाता विवरण अपडेट करने की समय सीमा इस महीने की 7 तारीख तक बढ़ा दी है। सोशल मीडिया पर एक पोस्ट में, एनटीए ने सूचित किया कि जिन उम्मीदवारों ने अपने बैंक खाता विवरण की […]",
@@ -1221,17 +1232,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-06T02:39:08+00:00",
         "link": "https://newsonair.gov.in/hi/india-will-host-a-two-day-meeting-of-the-brics-womens-working-group-under-its-brics-presidency/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shanghai-3-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी ने डॉ. श्यामा प्रसाद मुखर्जी को साहस, राष्ट्रवाद और निस्वार्थ सेवा का शाश्वत प्रतीक बताया",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने डॉ. श्‍यामा प्रसाद मुखर्जी की 125वीं जयंती पर श्रद्धांजलि अर्पित करते हुए उन्‍हें साहस, राष्‍ट्रवाद और निस्‍वार्थ सेवा का शाश्वत प्रतीक बताया है। श्री मोदी ने एक आलेख में कहा कि डॉ. मुखर्जी का जीवन अखंड भारत के लिये उनकी अटल प्रतिबद्धता का प्रमाण है। उन्होंने विभाजन के दौरान पश्चिम बंगाल […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने डॉ. श्&#x200d;यामा प्रसाद मुखर्जी की 125वीं जयंती पर श्रद्धांजलि अर्पित करते हुए उन्&#x200d;हें साहस, राष्&#x200d;ट्रवाद और निस्&#x200d;वार्थ सेवा का शाश्वत प्रतीक बताया है। श्री मोदी ने एक आलेख में कहा कि डॉ. मुखर्जी का जीवन अखंड भारत के लिये उनकी अटल प्रतिबद्धता का प्रमाण है। उन्होंने विभाजन के दौरान पश्चिम बंगाल को और इसके बाद जम्&#x200d;मू कश्&#x200d;मीर को भारत अभिन्&#x200d;न अंग बनाये रखना सुनिश्&#x200d;चित किया। प्रधानमंत्री ने कहा कि वर्ष 2019 में अनुच्&#x200d;छेद-370 और 35ए निरस्त किया जाना उनके बलिदान के प्रति सर्वाधिक समुचित श्रद्धांजलि थी। डॉ. मुखर्जी के योगदान का उल्&#x200d;लेख करते हुए प्रधानमंत्री ने कहा कि वे कलकत्&#x200d;ता विश्&#x200d;वविद्यालय के सबसे कम उम्र के कुलपति रहे तथा उन्होंने शिक्षा और अनुसंधान क्षेत्र में अनेक सुधार किया। प्रधानमंत्री ने देश की औद्योगिक प्रगति में डॉ. मुखर्जी के योगदान और 1943 में बंगाल अकाल के दौरान उनकी मानव सेवा का भी उल्&#x200d;लेख किया।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T02:35:33+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-described-dr-syama-prasad-mookerjee-as-an-eternal-symbol-of-courage-nationalism-and-selfless-service/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats-624.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1274,6 +1274,17 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "104 करोड़ से अधिक स्वास्थ्य कार्ड 93 करोड़ से अधिक आभा खातों से जुड़े",
+        "summary": "सरकार ने कहा है कि 104 करोड़ से अधिक स्वास्थ्य कार्ड 93 करोड़ से अधिक आयुष्मान भारत स्वास्थ्य खाता-आभा से जोड़े गए हैं। यह देश की एकीकृत डिजिटल सार्वजनिक स्वास्थ्य प्रणाली की दिशा में एक महत्वपूर्ण प्रगति है। आभा, आधार कार्ड की तरह 14 अंकों की विशिष्ट पहचान है जो व्यक्तियों को व्यापक स्वास्थ्य प्रणाली […]",
+        "article": "सरकार ने कहा है कि 104 करोड़ से अधिक स्वास्थ्य कार्ड 93 करोड़ से अधिक आयुष्मान भारत स्वास्थ्य खाता-आभा से जोड़े गए हैं। यह देश की एकीकृत डिजिटल सार्वजनिक स्वास्थ्य प्रणाली की दिशा में एक महत्वपूर्ण प्रगति है। आभा, आधार कार्ड की तरह 14 अंकों की विशिष्ट पहचान है जो व्यक्तियों को व्यापक स्वास्थ्य प्रणाली से सुरक्षित रूप से जोड़ती है। यह प्रणाली रोगियों को डिजिटल स्वास्थ्य सेवाओं तक पहुंच प्रदान करती है। इस नेटवर्क के माध्यम से रोगी संपूर्ण चिकित्सा इतिहास के साथ बीमाकर्ताओं, स्वास्थ्य सुविधाओं, डॉक्टरों और अन्य सेवाओं से जुड़ सकते हैं। सरकार का लक्ष्य आयुष्मान भारत डिजिटल मिशन नेटवर्क का विस्तार करके देश के रोगियों और स्वास्थ्य सुविधाओं को शामिल करना है। इसका उद्देश्य प्रत्येक नागरिक के लिए पूर्णतः डिजिटल स्वास्थ्य रिकॉर्ड उपलब्ध कराना है।",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:23:44+00:00",
+        "link": "https://newsonair.gov.in/hi/over-104-crore-health-cards-linked-to-more-than-93-crore-abha-accounts/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Ayushman-Bharat-Digital-Mission.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "एनटीए ने नीट यूजी 2026 फीस वापसी के लिए बैंक खाता अपडेट की समय सीमा 7 जुलाई तक बढ़ाई",
         "summary": "राष्ट्रीय परीक्षण एजेंसी (एनटीए) ने राष्ट्रीय पात्रता सह प्रवेश परीक्षा (एनईटी) यूजी 2026 परीक्षा की फीस वापसी के लिए बैंक खाता विवरण अपडेट करने की समय सीमा इस महीने की 7 तारीख तक बढ़ा दी है। सोशल मीडिया पर एक पोस्ट में, एनटीए ने सूचित किया कि जिन उम्मीदवारों ने अपने बैंक खाता विवरण की […]",
         "article": "राष्ट्रीय परीक्षण एजेंसी (एनटीए) ने राष्ट्रीय पात्रता सह प्रवेश परीक्षा (एनईटी) यूजी 2026 परीक्षा की फीस वापसी के लिए बैंक खाता विवरण अपडेट करने की समय सीमा इस महीने की 7 तारीख तक बढ़ा दी है। सोशल मीडिया पर एक पोस्ट में, एनटीए ने सूचित किया कि जिन उम्मीदवारों ने अपने बैंक खाता विवरण की पुष्टि कर दी है, उनके लिए रिफंड प्रक्रिया शुरू हो चुकी है। एनटीए ने बताया कि अब तक केवल 8 लाख 29 हजार 510 उम्मीदवारों ने ही अपने बैंक विवरण में सुधार या अपडेट किया है। प्रश्न पत्र लीक होने के आरोपों के बाद इस वर्ष 3 मई को आयोजित परीक्षा रद्द होने के बाद एनटीए द्वारा रिफंड प्रक्रिया चलाई जा रही है।",
@@ -1336,17 +1347,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-06T02:39:08+00:00",
         "link": "https://newsonair.gov.in/hi/india-will-host-a-two-day-meeting-of-the-brics-womens-working-group-under-its-brics-presidency/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shanghai-3-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी ने डॉ. श्यामा प्रसाद मुखर्जी को साहस, राष्ट्रवाद और निस्वार्थ सेवा का शाश्वत प्रतीक बताया",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने डॉ. श्‍यामा प्रसाद मुखर्जी की 125वीं जयंती पर श्रद्धांजलि अर्पित करते हुए उन्‍हें साहस, राष्‍ट्रवाद और निस्‍वार्थ सेवा का शाश्वत प्रतीक बताया है। श्री मोदी ने एक आलेख में कहा कि डॉ. मुखर्जी का जीवन अखंड भारत के लिये उनकी अटल प्रतिबद्धता का प्रमाण है। उन्होंने विभाजन के दौरान पश्चिम बंगाल […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने डॉ. श्&#x200d;यामा प्रसाद मुखर्जी की 125वीं जयंती पर श्रद्धांजलि अर्पित करते हुए उन्&#x200d;हें साहस, राष्&#x200d;ट्रवाद और निस्&#x200d;वार्थ सेवा का शाश्वत प्रतीक बताया है। श्री मोदी ने एक आलेख में कहा कि डॉ. मुखर्जी का जीवन अखंड भारत के लिये उनकी अटल प्रतिबद्धता का प्रमाण है। उन्होंने विभाजन के दौरान पश्चिम बंगाल को और इसके बाद जम्&#x200d;मू कश्&#x200d;मीर को भारत अभिन्&#x200d;न अंग बनाये रखना सुनिश्&#x200d;चित किया। प्रधानमंत्री ने कहा कि वर्ष 2019 में अनुच्&#x200d;छेद-370 और 35ए निरस्त किया जाना उनके बलिदान के प्रति सर्वाधिक समुचित श्रद्धांजलि थी। डॉ. मुखर्जी के योगदान का उल्&#x200d;लेख करते हुए प्रधानमंत्री ने कहा कि वे कलकत्&#x200d;ता विश्&#x200d;वविद्यालय के सबसे कम उम्र के कुलपति रहे तथा उन्होंने शिक्षा और अनुसंधान क्षेत्र में अनेक सुधार किया। प्रधानमंत्री ने देश की औद्योगिक प्रगति में डॉ. मुखर्जी के योगदान और 1943 में बंगाल अकाल के दौरान उनकी मानव सेवा का भी उल्&#x200d;लेख किया।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T02:35:33+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-described-dr-syama-prasad-mookerjee-as-an-eternal-symbol-of-courage-nationalism-and-selfless-service/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats-624.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1389,6 +1389,17 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "104 करोड़ से अधिक स्वास्थ्य कार्ड 93 करोड़ से अधिक आभा खातों से जुड़े",
+        "summary": "सरकार ने कहा है कि 104 करोड़ से अधिक स्वास्थ्य कार्ड 93 करोड़ से अधिक आयुष्मान भारत स्वास्थ्य खाता-आभा से जोड़े गए हैं। यह देश की एकीकृत डिजिटल सार्वजनिक स्वास्थ्य प्रणाली की दिशा में एक महत्वपूर्ण प्रगति है। आभा, आधार कार्ड की तरह 14 अंकों की विशिष्ट पहचान है जो व्यक्तियों को व्यापक स्वास्थ्य प्रणाली […]",
+        "article": "सरकार ने कहा है कि 104 करोड़ से अधिक स्वास्थ्य कार्ड 93 करोड़ से अधिक आयुष्मान भारत स्वास्थ्य खाता-आभा से जोड़े गए हैं। यह देश की एकीकृत डिजिटल सार्वजनिक स्वास्थ्य प्रणाली की दिशा में एक महत्वपूर्ण प्रगति है। आभा, आधार कार्ड की तरह 14 अंकों की विशिष्ट पहचान है जो व्यक्तियों को व्यापक स्वास्थ्य प्रणाली से सुरक्षित रूप से जोड़ती है। यह प्रणाली रोगियों को डिजिटल स्वास्थ्य सेवाओं तक पहुंच प्रदान करती है। इस नेटवर्क के माध्यम से रोगी संपूर्ण चिकित्सा इतिहास के साथ बीमाकर्ताओं, स्वास्थ्य सुविधाओं, डॉक्टरों और अन्य सेवाओं से जुड़ सकते हैं। सरकार का लक्ष्य आयुष्मान भारत डिजिटल मिशन नेटवर्क का विस्तार करके देश के रोगियों और स्वास्थ्य सुविधाओं को शामिल करना है। इसका उद्देश्य प्रत्येक नागरिक के लिए पूर्णतः डिजिटल स्वास्थ्य रिकॉर्ड उपलब्ध कराना है।",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:23:44+00:00",
+        "link": "https://newsonair.gov.in/hi/over-104-crore-health-cards-linked-to-more-than-93-crore-abha-accounts/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Ayushman-Bharat-Digital-Mission.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "एनटीए ने नीट यूजी 2026 फीस वापसी के लिए बैंक खाता अपडेट की समय सीमा 7 जुलाई तक बढ़ाई",
         "summary": "राष्ट्रीय परीक्षण एजेंसी (एनटीए) ने राष्ट्रीय पात्रता सह प्रवेश परीक्षा (एनईटी) यूजी 2026 परीक्षा की फीस वापसी के लिए बैंक खाता विवरण अपडेट करने की समय सीमा इस महीने की 7 तारीख तक बढ़ा दी है। सोशल मीडिया पर एक पोस्ट में, एनटीए ने सूचित किया कि जिन उम्मीदवारों ने अपने बैंक खाता विवरण की […]",
         "article": "राष्ट्रीय परीक्षण एजेंसी (एनटीए) ने राष्ट्रीय पात्रता सह प्रवेश परीक्षा (एनईटी) यूजी 2026 परीक्षा की फीस वापसी के लिए बैंक खाता विवरण अपडेट करने की समय सीमा इस महीने की 7 तारीख तक बढ़ा दी है। सोशल मीडिया पर एक पोस्ट में, एनटीए ने सूचित किया कि जिन उम्मीदवारों ने अपने बैंक खाता विवरण की पुष्टि कर दी है, उनके लिए रिफंड प्रक्रिया शुरू हो चुकी है। एनटीए ने बताया कि अब तक केवल 8 लाख 29 हजार 510 उम्मीदवारों ने ही अपने बैंक विवरण में सुधार या अपडेट किया है। प्रश्न पत्र लीक होने के आरोपों के बाद इस वर्ष 3 मई को आयोजित परीक्षा रद्द होने के बाद एनटीए द्वारा रिफंड प्रक्रिया चलाई जा रही है।",
@@ -1451,17 +1462,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-06T02:39:08+00:00",
         "link": "https://newsonair.gov.in/hi/india-will-host-a-two-day-meeting-of-the-brics-womens-working-group-under-its-brics-presidency/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shanghai-3-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी ने डॉ. श्यामा प्रसाद मुखर्जी को साहस, राष्ट्रवाद और निस्वार्थ सेवा का शाश्वत प्रतीक बताया",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने डॉ. श्‍यामा प्रसाद मुखर्जी की 125वीं जयंती पर श्रद्धांजलि अर्पित करते हुए उन्‍हें साहस, राष्‍ट्रवाद और निस्‍वार्थ सेवा का शाश्वत प्रतीक बताया है। श्री मोदी ने एक आलेख में कहा कि डॉ. मुखर्जी का जीवन अखंड भारत के लिये उनकी अटल प्रतिबद्धता का प्रमाण है। उन्होंने विभाजन के दौरान पश्चिम बंगाल […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने डॉ. श्&#x200d;यामा प्रसाद मुखर्जी की 125वीं जयंती पर श्रद्धांजलि अर्पित करते हुए उन्&#x200d;हें साहस, राष्&#x200d;ट्रवाद और निस्&#x200d;वार्थ सेवा का शाश्वत प्रतीक बताया है। श्री मोदी ने एक आलेख में कहा कि डॉ. मुखर्जी का जीवन अखंड भारत के लिये उनकी अटल प्रतिबद्धता का प्रमाण है। उन्होंने विभाजन के दौरान पश्चिम बंगाल को और इसके बाद जम्&#x200d;मू कश्&#x200d;मीर को भारत अभिन्&#x200d;न अंग बनाये रखना सुनिश्&#x200d;चित किया। प्रधानमंत्री ने कहा कि वर्ष 2019 में अनुच्&#x200d;छेद-370 और 35ए निरस्त किया जाना उनके बलिदान के प्रति सर्वाधिक समुचित श्रद्धांजलि थी। डॉ. मुखर्जी के योगदान का उल्&#x200d;लेख करते हुए प्रधानमंत्री ने कहा कि वे कलकत्&#x200d;ता विश्&#x200d;वविद्यालय के सबसे कम उम्र के कुलपति रहे तथा उन्होंने शिक्षा और अनुसंधान क्षेत्र में अनेक सुधार किया। प्रधानमंत्री ने देश की औद्योगिक प्रगति में डॉ. मुखर्जी के योगदान और 1943 में बंगाल अकाल के दौरान उनकी मानव सेवा का भी उल्&#x200d;लेख किया।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T02:35:33+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-described-dr-syama-prasad-mookerjee-as-an-eternal-symbol-of-courage-nationalism-and-selfless-service/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats-624.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
