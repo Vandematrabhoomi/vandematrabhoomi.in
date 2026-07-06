@@ -83,9 +83,31 @@ CATEGORY_FEEDS_HI = {
     'world':         [PB_CAT.format(id=309)],
     'sports':        [PB_CAT.format(id=362)],
     'business':      [PB_CAT.format(id=360)],
-    'entertainment': [PB_CAT.format(id=21410)],
+    # NOTE: newsonair reuses Devanagari category names across language desks —
+    # cat 21410 is titled मनोरंजन but serves the *Marathi* desk. 13118 is the
+    # actual Hindi मनोरंजन category (slower-moving, but genuinely Hindi).
+    'entertainment': [PB_CAT.format(id=13118)],
     'lifestyle':     [PB_CAT.format(id=21349)],
 }
+
+# Marathi and Hindi share the Devanagari script, so a wrong newsonair category
+# id can silently fill a Hindi section with Marathi. Marker-word scoring keeps
+# any Marathi headline out of the Hindi edition regardless of feed mixups.
+MARATHI_MARKERS = (
+    'ळ', 'च्या', 'यांच', 'यांना', 'यांनी', 'त्यांच', 'आहे', 'आहेत', 'आणि',
+    'साठी', 'करण्यात', 'झाल्या', 'झाली', 'झालं', 'झाल्याच', 'येथे', 'निवडक',
+    'मध्ये ', 'मधे ', 'होणार', 'जाहीर', 'व्या ', 'ेचे', 'ेचा', 'ेची',
+)
+HINDI_MARKERS = (
+    ' के ', ' की ', ' में ', ' ने ', ' से ', ' है', ' हैं', 'किया', 'किये',
+    'होगा', 'होगी', 'हुआ', 'हुई', 'गया', 'गयी', 'जारी', 'लिए',
+)
+
+def looks_marathi(text):
+    """Best-effort Marathi-vs-Hindi call for a Devanagari headline."""
+    m = sum(1 for w in MARATHI_MARKERS if w in text)
+    h = sum(1 for w in HINDI_MARKERS if w in text)
+    return m > 0 and m >= h
 
 MAX_PER_CAT   = 12
 IMG_WORKERS   = 16
@@ -456,9 +478,16 @@ def run():
         print(f'  Fetching {label} RSS feeds...')
         for url in unique_urls:
             items = fetch_rss(url, max_items=20)
+            if label == 'HI':
+                kept = [i for i in items if not looks_marathi(i.get('title', ''))]
+                dropped = len(items) - len(kept)
+                items = kept
+            else:
+                dropped = 0
             raw_by_url[url] = items
             slug = url.rstrip('/').split('/')[-1] if 'category' in url else url.split('cat=')[-1].split('&')[0]
-            print(f'    ✓ {slug}: {len(items)} articles')
+            note = f' ({dropped} non-Hindi dropped)' if dropped else ''
+            print(f'    ✓ {slug}: {len(items)} articles{note}')
         return raw_by_url
 
     def resolve_images(items_list, label='EN'):
