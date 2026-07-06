@@ -42,11 +42,13 @@ jobs:
           git config user.name "vm-news-bot"
           git config user.email "actions@github.com"
           mkdir -p a assets/livedesk
-          git pull --rebase origin main
           git add news-data.js a/ assets/livedesk/
           if git diff --cached --quiet; then
             echo "No changes."
           else
             git commit -m "news update $(date -u '+%Y-%m-%d %H:%M UTC') (morning)"
+            # remote may have moved since checkout (the other workflow or a
+            # manual push) - replay our commit on top before pushing
+            git pull --rebase origin main
             git push
           fi
