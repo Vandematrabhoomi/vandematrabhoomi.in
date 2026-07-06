@@ -1,0 +1,52 @@
+name: Morning News Update
+
+# Dedicated low-frequency schedule for the guaranteed morning (IST) update.
+# GitHub load-sheds high-frequency crons (update-news.yml gets throttled to
+# ~1 run per 4h), but once-daily crons in their own workflow are delivered
+# much more reliably. Two slots for redundancy: 00:37 UTC = 06:07 IST and
+# 02:07 UTC = 07:37 IST. The job is identical to update-news.yml and both
+# are idempotent (commit only if content changed), so overlap is harmless.
+
+on:
+  schedule:
+    - cron: '37 0 * * *'
+    - cron: '7 2 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch latest news
+        run: python fetch_news.py
+
+      - name: Process Live Desk photos
+        run: python process_livedesk_media.py
+
+      - name: Generate shareable article pages
+        run: python generate_article_pages.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "vm-news-bot"
+          git config user.email "actions@github.com"
+          mkdir -p a assets/livedesk
+          git pull --rebase origin main
+          git add news-data.js a/ assets/livedesk/
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "news update $(date -u '+%Y-%m-%d %H:%M UTC') (morning)"
+            git push
+          fi
