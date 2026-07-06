@@ -1,8 +1,41 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-06T06:56:25.597128",
+  "generated": "2026-07-06T07:12:11.716664",
   "en": {
     "top": [
+      {
+        "title": "Vice President pays floral tributes to Dr. Syama Prasad Mookerjee at Uprashtrapati Bhawan",
+        "summary": "Vice President C P Radhakrishnan today paid floral tributes to Dr. Syama Prasad Mookerjee at the Uprashtrapati Bhawan on his 125th birth anniversary. In a social media post, the Vice President said that Dr. Mookerjee is a distinguished educationist, visionary statesman and nation-builder and left an enduring imprint on India’s educational, political and democratic journey. […]",
+        "article": "Vice President C P Radhakrishnan today paid floral tributes to Dr. Syama Prasad Mookerjee at the Uprashtrapati Bhawan on his 125th birth anniversary. In a social media post, the Vice President said that Dr. Mookerjee is a distinguished educationist, visionary statesman and nation-builder and left an enduring imprint on India’s educational, political and democratic journey. He added that as one of the youngest Vice-Chancellors of the University of Calcutta, a member of the Constituent Assembly, President of the Akhil Bharatiya Hindu Mahasabha, Independent India’s first Minister for Industry and Supply, and founder of the Bharatiya Jana Sangh, Dr. Mookerjee rendered exceptional service to the nation. Mr Radhakrishnan emphasized that as a steadfast champion of national unity and integrity, Dr Mookerjee made the supreme sacrifice in Jammu and Kashmir while striving for its full integration with Bharat. He further said that his life and ideals continue to inspire generations in the collective endeavour to build a strong, united, self-reliant and developed India.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:11:27+00:00",
+        "link": "https://newsonair.gov.in/vice-president-pays-floral-tributes-to-dr-syama-prasad-mookerjee-at-uprashtrapati-bhawan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-06-123536.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EC issues notification for by-elections to 3 Assembly constituencies in Bihar, Gujarat & Madhya Pradesh",
+        "summary": "The Election Commission today issued a notification for by-elections to three Assembly constituencies in Bihar, Gujarat, and Madhya Pradesh. The bye-elections will be conducted for Bankipur constituency in Bihar, Manjalpur constituency in Gujarat, and Datia constituency in Madhya Pradesh. As per the notification, nominations will be accepted until 13th July and scrutiny will be held […]",
+        "article": "The Election Commission today issued a notification for by-elections to three Assembly constituencies in Bihar, Gujarat, and Madhya Pradesh. The bye-elections will be conducted for Bankipur constituency in Bihar, Manjalpur constituency in Gujarat, and Datia constituency in Madhya Pradesh. As per the notification, nominations will be accepted until 13th July and scrutiny will be held on 14th July. The polling for these seats is scheduled to be held on 30th July. In Bihar, the bye-election for the Bankipur seat was necessitated following the resignation of the sitting member, Nitin Nabin. In Gujarat, the vacancy in the Manjalpur Assembly constituency arose following the demise of Yogeshbhai Narandas Patel. Meanwhile, in Madhya Pradesh, the Datia seat became vacant due to the disqualification of Rajendra Bharti.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:03:43+00:00",
+        "link": "https://newsonair.gov.in/ec-issues-notification-for-by-elections-to-3-assembly-constituencies-in-bihar-gujarat-madhya-pradesh/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/eci-hai-yte.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM S. Jaishankar greets Comoros on its Independence Day",
+        "summary": "External Affairs Minister S. Jaishankar has extended greetings to Foreign Minister Mbae Mohamed, the Government and people of Comoros on the occasion of the country&#8217;s Independence Day. In a social media post, Dr Jaishankar said, &#8216;Guided by Vision MAHASAGAR, India remains committed to strengthening partnership between two nations. The External Affairs Minister also congratulated […]",
+        "article": "External Affairs Minister S. Jaishankar has extended greetings to Foreign Minister Mbae Mohamed, the Government and people of Comoros on the occasion of the country&#8217;s Independence Day. In a social media post, Dr Jaishankar said, &#8216;Guided by Vision MAHASAGAR, India remains committed to strengthening partnership between two nations. The External Affairs Minister also congratulated the Foreign Minister Dr George T. Chaponda, the Government and people of Malawi on the occasion of their Independence Day.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T06:57:03+00:00",
+        "link": "https://newsonair.gov.in/eam-s-jaishankar-greets-comoros-on-its-independence-day/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-9-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Iran Embassy in India expresses gratitude to Govt of India for participating in funeral ceremonies of Iran’s former Supreme Leader",
         "summary": "The Embassy of Iran in India expressed gratitude to the Government of India and its people for participating in the funeral ceremonies of former Iranian Supreme Leader Ayatollah Seyyed Ali Khamenei, saying the gesture reflected the deep historical, cultural, and human bonds between the two countries. In a post shared on social media, the Iranian […]",
@@ -101,42 +134,42 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi pays tribute to Dr. Syama Prasad Mookerjee on his 125th birth anniversary",
-        "summary": "Prime Minister Narendra Modi paid tribute to Dr. Syama Prasad Mookerjee on his 125th birth anniversary, describing him as a timeless example of courage, nationalism and selfless service. In an article, the Prime Minister said Dr. Mookerjee&#8217;s public life was defined by his unwavering commitment to the indivisibility of India. He said Dr. Mookerjee […]",
-        "article": "Prime Minister Narendra Modi paid tribute to Dr. Syama Prasad Mookerjee on his 125th birth anniversary, describing him as a timeless example of courage, nationalism and selfless service. In an article, the Prime Minister said Dr. Mookerjee&#8217;s public life was defined by his unwavering commitment to the indivisibility of India. He said Dr. Mookerjee stood firm during Partition to ensure that West Bengal remained an integral part of the country and later dedicated himself to the cause of Jammu and Kashmir. The Prime Minister said the revocation of Articles 370 and 35(A) in 2019 was the most fitting tribute to his martyrdom. Highlighting Dr. Mookerjee&#8217;s contributions, the Prime Minister said he became the youngest Vice-Chancellor of the University of Calcutta and introduced several reforms to strengthen education, research and student welfare. The Prime Minister also noted Dr. Mookerjee&#8217;s role as Independent India&#8217;s first Minister for Industry and Supply, saying he laid the foundation of modern industrial India through initiatives such as the Damodar Valley Corporation and the Sindri Fertiliser Plant, while supporting handlooms, cottage industries and artisans. The Prime Minister also recalled Dr. Mookerjee&#8217;s humanitarian work during the Bengal famine of 1943, when he helped establish relief centres and community kitchens for those affected.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:05:01+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-pays-tribute-to-dr-syama-prasad-mookerjee-on-his-125th-birth-anniversary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Q2FjT5E8.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Shri Ram Janmabhoomi Teerth Kshetra Trust convenes meeting",
-        "summary": "The Shri Ram Janmabhoomi Teerth Kshetra Trust has convened a meeting of its members today to deliberate on several important administrative and financial matters, including the findings of the Special Investigation Team (SIT) probing the counting of donations received by the trust. Earlier, the meeting was scheduled to take place at Maniram Chhavni around 3 […]",
-        "article": "The Shri Ram Janmabhoomi Teerth Kshetra Trust has convened a meeting of its members today to deliberate on several important administrative and financial matters, including the findings of the Special Investigation Team (SIT) probing the counting of donations received by the trust. Earlier, the meeting was scheduled to take place at Maniram Chhavni around 3 PM, but now the venue has been changed and the meeting will be held at the premises of the Ram Temple. Akashvani&#8217;s correspondent reports that, according to an official notice issued on June 28, 2026, the agenda of the meeting includes consideration of the resignation letters submitted by General Secretary Champat Rai and Trustee Dr Anil Mishra. Members will also be briefed on the interim report of the SIT regarding the counting of donations received through the Trust&#8217;s donation boxes. The meeting will further deliberate on arrangements related to the future management of the Ram Temple. Another key item on the agenda is the presentation and approval of the unaudited income and expenditure statement, balance sheet, and other financial documents for the financial year 2025-26. The notice also provides for discussion on any other matter with the permission of the Chairman.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T02:57:58+00:00",
-        "link": "https://newsonair.gov.in/shri-ram-janmabhoomi-teerth-kshetra-trust-convenes-meeting-to-deliberate-on-sit-findings/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/202606233836096.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Home Minister Amit Shah pays tribute to Dr Syama Prasad Mookerjee on 125th birth anniversary",
-        "summary": "Home Minister Amit Shah today paid tribute to Dr Syama Prasad Mookerjee on his 125th birth anniversary. In a social media post, Mr Shah said that Dr Mookerjee, the founder of the Bharatiya Jana Sangh and a fierce proponent of the nation&#8217;s unity, integrity, and cultural nationalism. He added that Dr Mokerjee made the ideal […]",
-        "article": "Home Minister Amit Shah today paid tribute to Dr Syama Prasad Mookerjee on his 125th birth anniversary. In a social media post, Mr Shah said that Dr Mookerjee, the founder of the Bharatiya Jana Sangh and a fierce proponent of the nation&#8217;s unity, integrity, and cultural nationalism. He added that Dr Mokerjee made the ideal of &#8216;Nation First&#8217; the guiding principle of his life. His visionary leadership during the partition of Bengal and his lifelong struggle to keep Jammu-Kashmir as an integral part of India will forever be remembered in Indian history. Mr Shah recalled his unwavering commitment to principles and his lifelong fight for the nation&#8217;s integrity, which will continue to inspire the youth for generations.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T02:53:56+00:00",
-        "link": "https://newsonair.gov.in/home-minister-amit-shah-pays-tribute-to-dr-syama-prasad-mookerjee-on-125th-birth-anniversary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-06-082322.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "Vice President pays floral tributes to Dr. Syama Prasad Mookerjee at Uprashtrapati Bhawan",
+        "summary": "Vice President C P Radhakrishnan today paid floral tributes to Dr. Syama Prasad Mookerjee at the Uprashtrapati Bhawan on his 125th birth anniversary. In a social media post, the Vice President said that Dr. Mookerjee is a distinguished educationist, visionary statesman and nation-builder and left an enduring imprint on India’s educational, political and democratic journey. […]",
+        "article": "Vice President C P Radhakrishnan today paid floral tributes to Dr. Syama Prasad Mookerjee at the Uprashtrapati Bhawan on his 125th birth anniversary. In a social media post, the Vice President said that Dr. Mookerjee is a distinguished educationist, visionary statesman and nation-builder and left an enduring imprint on India’s educational, political and democratic journey. He added that as one of the youngest Vice-Chancellors of the University of Calcutta, a member of the Constituent Assembly, President of the Akhil Bharatiya Hindu Mahasabha, Independent India’s first Minister for Industry and Supply, and founder of the Bharatiya Jana Sangh, Dr. Mookerjee rendered exceptional service to the nation. Mr Radhakrishnan emphasized that as a steadfast champion of national unity and integrity, Dr Mookerjee made the supreme sacrifice in Jammu and Kashmir while striving for its full integration with Bharat. He further said that his life and ideals continue to inspire generations in the collective endeavour to build a strong, united, self-reliant and developed India.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:11:27+00:00",
+        "link": "https://newsonair.gov.in/vice-president-pays-floral-tributes-to-dr-syama-prasad-mookerjee-at-uprashtrapati-bhawan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-06-123536.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EC issues notification for by-elections to 3 Assembly constituencies in Bihar, Gujarat & Madhya Pradesh",
+        "summary": "The Election Commission today issued a notification for by-elections to three Assembly constituencies in Bihar, Gujarat, and Madhya Pradesh. The bye-elections will be conducted for Bankipur constituency in Bihar, Manjalpur constituency in Gujarat, and Datia constituency in Madhya Pradesh. As per the notification, nominations will be accepted until 13th July and scrutiny will be held […]",
+        "article": "The Election Commission today issued a notification for by-elections to three Assembly constituencies in Bihar, Gujarat, and Madhya Pradesh. The bye-elections will be conducted for Bankipur constituency in Bihar, Manjalpur constituency in Gujarat, and Datia constituency in Madhya Pradesh. As per the notification, nominations will be accepted until 13th July and scrutiny will be held on 14th July. The polling for these seats is scheduled to be held on 30th July. In Bihar, the bye-election for the Bankipur seat was necessitated following the resignation of the sitting member, Nitin Nabin. In Gujarat, the vacancy in the Manjalpur Assembly constituency arose following the demise of Yogeshbhai Narandas Patel. Meanwhile, in Madhya Pradesh, the Datia seat became vacant due to the disqualification of Rajendra Bharti.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:03:43+00:00",
+        "link": "https://newsonair.gov.in/ec-issues-notification-for-by-elections-to-3-assembly-constituencies-in-bihar-gujarat-madhya-pradesh/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/eci-hai-yte.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM S. Jaishankar greets Comoros on its Independence Day",
+        "summary": "External Affairs Minister S. Jaishankar has extended greetings to Foreign Minister Mbae Mohamed, the Government and people of Comoros on the occasion of the country&#8217;s Independence Day. In a social media post, Dr Jaishankar said, &#8216;Guided by Vision MAHASAGAR, India remains committed to strengthening partnership between two nations. The External Affairs Minister also congratulated […]",
+        "article": "External Affairs Minister S. Jaishankar has extended greetings to Foreign Minister Mbae Mohamed, the Government and people of Comoros on the occasion of the country&#8217;s Independence Day. In a social media post, Dr Jaishankar said, &#8216;Guided by Vision MAHASAGAR, India remains committed to strengthening partnership between two nations. The External Affairs Minister also congratulated the Foreign Minister Dr George T. Chaponda, the Government and people of Malawi on the occasion of their Independence Day.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T06:57:03+00:00",
+        "link": "https://newsonair.gov.in/eam-s-jaishankar-greets-comoros-on-its-independence-day/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-9-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Iran Embassy in India expresses gratitude to Govt of India for participating in funeral ceremonies of Iran’s former Supreme Leader",
         "summary": "The Embassy of Iran in India expressed gratitude to the Government of India and its people for participating in the funeral ceremonies of former Iranian Supreme Leader Ayatollah Seyyed Ali Khamenei, saying the gesture reflected the deep historical, cultural, and human bonds between the two countries. In a post shared on social media, the Iranian […]",
@@ -211,45 +244,45 @@ window.VM_NEWS = {
         "pubDate": "2026-07-06T03:23:20+00:00",
         "link": "https://newsonair.gov.in/india-to-host-brics-heads-of-anti-drug-agencies-meeting-in-guwahati/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-2-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi pays tribute to Dr. Syama Prasad Mookerjee on his 125th birth anniversary",
-        "summary": "Prime Minister Narendra Modi paid tribute to Dr. Syama Prasad Mookerjee on his 125th birth anniversary, describing him as a timeless example of courage, nationalism and selfless service. In an article, the Prime Minister said Dr. Mookerjee&#8217;s public life was defined by his unwavering commitment to the indivisibility of India. He said Dr. Mookerjee […]",
-        "article": "Prime Minister Narendra Modi paid tribute to Dr. Syama Prasad Mookerjee on his 125th birth anniversary, describing him as a timeless example of courage, nationalism and selfless service. In an article, the Prime Minister said Dr. Mookerjee&#8217;s public life was defined by his unwavering commitment to the indivisibility of India. He said Dr. Mookerjee stood firm during Partition to ensure that West Bengal remained an integral part of the country and later dedicated himself to the cause of Jammu and Kashmir. The Prime Minister said the revocation of Articles 370 and 35(A) in 2019 was the most fitting tribute to his martyrdom. Highlighting Dr. Mookerjee&#8217;s contributions, the Prime Minister said he became the youngest Vice-Chancellor of the University of Calcutta and introduced several reforms to strengthen education, research and student welfare. The Prime Minister also noted Dr. Mookerjee&#8217;s role as Independent India&#8217;s first Minister for Industry and Supply, saying he laid the foundation of modern industrial India through initiatives such as the Damodar Valley Corporation and the Sindri Fertiliser Plant, while supporting handlooms, cottage industries and artisans. The Prime Minister also recalled Dr. Mookerjee&#8217;s humanitarian work during the Bengal famine of 1943, when he helped establish relief centres and community kitchens for those affected.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:05:01+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-pays-tribute-to-dr-syama-prasad-mookerjee-on-his-125th-birth-anniversary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Q2FjT5E8.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Shri Ram Janmabhoomi Teerth Kshetra Trust convenes meeting",
-        "summary": "The Shri Ram Janmabhoomi Teerth Kshetra Trust has convened a meeting of its members today to deliberate on several important administrative and financial matters, including the findings of the Special Investigation Team (SIT) probing the counting of donations received by the trust. Earlier, the meeting was scheduled to take place at Maniram Chhavni around 3 […]",
-        "article": "The Shri Ram Janmabhoomi Teerth Kshetra Trust has convened a meeting of its members today to deliberate on several important administrative and financial matters, including the findings of the Special Investigation Team (SIT) probing the counting of donations received by the trust. Earlier, the meeting was scheduled to take place at Maniram Chhavni around 3 PM, but now the venue has been changed and the meeting will be held at the premises of the Ram Temple. Akashvani&#8217;s correspondent reports that, according to an official notice issued on June 28, 2026, the agenda of the meeting includes consideration of the resignation letters submitted by General Secretary Champat Rai and Trustee Dr Anil Mishra. Members will also be briefed on the interim report of the SIT regarding the counting of donations received through the Trust&#8217;s donation boxes. The meeting will further deliberate on arrangements related to the future management of the Ram Temple. Another key item on the agenda is the presentation and approval of the unaudited income and expenditure statement, balance sheet, and other financial documents for the financial year 2025-26. The notice also provides for discussion on any other matter with the permission of the Chairman.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T02:57:58+00:00",
-        "link": "https://newsonair.gov.in/shri-ram-janmabhoomi-teerth-kshetra-trust-convenes-meeting-to-deliberate-on-sit-findings/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/202606233836096.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Home Minister Amit Shah pays tribute to Dr Syama Prasad Mookerjee on 125th birth anniversary",
-        "summary": "Home Minister Amit Shah today paid tribute to Dr Syama Prasad Mookerjee on his 125th birth anniversary. In a social media post, Mr Shah said that Dr Mookerjee, the founder of the Bharatiya Jana Sangh and a fierce proponent of the nation&#8217;s unity, integrity, and cultural nationalism. He added that Dr Mokerjee made the ideal […]",
-        "article": "Home Minister Amit Shah today paid tribute to Dr Syama Prasad Mookerjee on his 125th birth anniversary. In a social media post, Mr Shah said that Dr Mookerjee, the founder of the Bharatiya Jana Sangh and a fierce proponent of the nation&#8217;s unity, integrity, and cultural nationalism. He added that Dr Mokerjee made the ideal of &#8216;Nation First&#8217; the guiding principle of his life. His visionary leadership during the partition of Bengal and his lifelong struggle to keep Jammu-Kashmir as an integral part of India will forever be remembered in Indian history. Mr Shah recalled his unwavering commitment to principles and his lifelong fight for the nation&#8217;s integrity, which will continue to inspire the youth for generations.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T02:53:56+00:00",
-        "link": "https://newsonair.gov.in/home-minister-amit-shah-pays-tribute-to-dr-syama-prasad-mookerjee-on-125th-birth-anniversary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-06-082322.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "Vice President pays floral tributes to Dr. Syama Prasad Mookerjee at Uprashtrapati Bhawan",
+        "summary": "Vice President C P Radhakrishnan today paid floral tributes to Dr. Syama Prasad Mookerjee at the Uprashtrapati Bhawan on his 125th birth anniversary. In a social media post, the Vice President said that Dr. Mookerjee is a distinguished educationist, visionary statesman and nation-builder and left an enduring imprint on India’s educational, political and democratic journey. […]",
+        "article": "Vice President C P Radhakrishnan today paid floral tributes to Dr. Syama Prasad Mookerjee at the Uprashtrapati Bhawan on his 125th birth anniversary. In a social media post, the Vice President said that Dr. Mookerjee is a distinguished educationist, visionary statesman and nation-builder and left an enduring imprint on India’s educational, political and democratic journey. He added that as one of the youngest Vice-Chancellors of the University of Calcutta, a member of the Constituent Assembly, President of the Akhil Bharatiya Hindu Mahasabha, Independent India’s first Minister for Industry and Supply, and founder of the Bharatiya Jana Sangh, Dr. Mookerjee rendered exceptional service to the nation. Mr Radhakrishnan emphasized that as a steadfast champion of national unity and integrity, Dr Mookerjee made the supreme sacrifice in Jammu and Kashmir while striving for its full integration with Bharat. He further said that his life and ideals continue to inspire generations in the collective endeavour to build a strong, united, self-reliant and developed India.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:11:27+00:00",
+        "link": "https://newsonair.gov.in/vice-president-pays-floral-tributes-to-dr-syama-prasad-mookerjee-at-uprashtrapati-bhawan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-06-123536.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EC issues notification for by-elections to 3 Assembly constituencies in Bihar, Gujarat & Madhya Pradesh",
+        "summary": "The Election Commission today issued a notification for by-elections to three Assembly constituencies in Bihar, Gujarat, and Madhya Pradesh. The bye-elections will be conducted for Bankipur constituency in Bihar, Manjalpur constituency in Gujarat, and Datia constituency in Madhya Pradesh. As per the notification, nominations will be accepted until 13th July and scrutiny will be held […]",
+        "article": "The Election Commission today issued a notification for by-elections to three Assembly constituencies in Bihar, Gujarat, and Madhya Pradesh. The bye-elections will be conducted for Bankipur constituency in Bihar, Manjalpur constituency in Gujarat, and Datia constituency in Madhya Pradesh. As per the notification, nominations will be accepted until 13th July and scrutiny will be held on 14th July. The polling for these seats is scheduled to be held on 30th July. In Bihar, the bye-election for the Bankipur seat was necessitated following the resignation of the sitting member, Nitin Nabin. In Gujarat, the vacancy in the Manjalpur Assembly constituency arose following the demise of Yogeshbhai Narandas Patel. Meanwhile, in Madhya Pradesh, the Datia seat became vacant due to the disqualification of Rajendra Bharti.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:03:43+00:00",
+        "link": "https://newsonair.gov.in/ec-issues-notification-for-by-elections-to-3-assembly-constituencies-in-bihar-gujarat-madhya-pradesh/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/eci-hai-yte.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM S. Jaishankar greets Comoros on its Independence Day",
+        "summary": "External Affairs Minister S. Jaishankar has extended greetings to Foreign Minister Mbae Mohamed, the Government and people of Comoros on the occasion of the country&#8217;s Independence Day. In a social media post, Dr Jaishankar said, &#8216;Guided by Vision MAHASAGAR, India remains committed to strengthening partnership between two nations. The External Affairs Minister also congratulated […]",
+        "article": "External Affairs Minister S. Jaishankar has extended greetings to Foreign Minister Mbae Mohamed, the Government and people of Comoros on the occasion of the country&#8217;s Independence Day. In a social media post, Dr Jaishankar said, &#8216;Guided by Vision MAHASAGAR, India remains committed to strengthening partnership between two nations. The External Affairs Minister also congratulated the Foreign Minister Dr George T. Chaponda, the Government and people of Malawi on the occasion of their Independence Day.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T06:57:03+00:00",
+        "link": "https://newsonair.gov.in/eam-s-jaishankar-greets-comoros-on-its-independence-day/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-9-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Iran Embassy in India expresses gratitude to Govt of India for participating in funeral ceremonies of Iran’s former Supreme Leader",
         "summary": "The Embassy of Iran in India expressed gratitude to the Government of India and its people for participating in the funeral ceremonies of former Iranian Supreme Leader Ayatollah Seyyed Ali Khamenei, saying the gesture reflected the deep historical, cultural, and human bonds between the two countries. In a post shared on social media, the Iranian […]",
         "article": "The Embassy of Iran in India expressed gratitude to the Government of India and its people for participating in the funeral ceremonies of former Iranian Supreme Leader Ayatollah Seyyed Ali Khamenei, saying the gesture reflected the deep historical, cultural, and human bonds between the two countries. In a post shared on social media, the Iranian embassy said that the presence of Indian political leaders, Members of Parliament, scholars, intellectuals and representatives of different faiths at the ceremonies reflected the longstanding relationship between the two nations.",
@@ -323,45 +356,45 @@ window.VM_NEWS = {
         "pubDate": "2026-07-06T03:23:20+00:00",
         "link": "https://newsonair.gov.in/india-to-host-brics-heads-of-anti-drug-agencies-meeting-in-guwahati/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-2-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi pays tribute to Dr. Syama Prasad Mookerjee on his 125th birth anniversary",
-        "summary": "Prime Minister Narendra Modi paid tribute to Dr. Syama Prasad Mookerjee on his 125th birth anniversary, describing him as a timeless example of courage, nationalism and selfless service. In an article, the Prime Minister said Dr. Mookerjee&#8217;s public life was defined by his unwavering commitment to the indivisibility of India. He said Dr. Mookerjee […]",
-        "article": "Prime Minister Narendra Modi paid tribute to Dr. Syama Prasad Mookerjee on his 125th birth anniversary, describing him as a timeless example of courage, nationalism and selfless service. In an article, the Prime Minister said Dr. Mookerjee&#8217;s public life was defined by his unwavering commitment to the indivisibility of India. He said Dr. Mookerjee stood firm during Partition to ensure that West Bengal remained an integral part of the country and later dedicated himself to the cause of Jammu and Kashmir. The Prime Minister said the revocation of Articles 370 and 35(A) in 2019 was the most fitting tribute to his martyrdom. Highlighting Dr. Mookerjee&#8217;s contributions, the Prime Minister said he became the youngest Vice-Chancellor of the University of Calcutta and introduced several reforms to strengthen education, research and student welfare. The Prime Minister also noted Dr. Mookerjee&#8217;s role as Independent India&#8217;s first Minister for Industry and Supply, saying he laid the foundation of modern industrial India through initiatives such as the Damodar Valley Corporation and the Sindri Fertiliser Plant, while supporting handlooms, cottage industries and artisans. The Prime Minister also recalled Dr. Mookerjee&#8217;s humanitarian work during the Bengal famine of 1943, when he helped establish relief centres and community kitchens for those affected.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:05:01+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-pays-tribute-to-dr-syama-prasad-mookerjee-on-his-125th-birth-anniversary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Q2FjT5E8.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Shri Ram Janmabhoomi Teerth Kshetra Trust convenes meeting",
-        "summary": "The Shri Ram Janmabhoomi Teerth Kshetra Trust has convened a meeting of its members today to deliberate on several important administrative and financial matters, including the findings of the Special Investigation Team (SIT) probing the counting of donations received by the trust. Earlier, the meeting was scheduled to take place at Maniram Chhavni around 3 […]",
-        "article": "The Shri Ram Janmabhoomi Teerth Kshetra Trust has convened a meeting of its members today to deliberate on several important administrative and financial matters, including the findings of the Special Investigation Team (SIT) probing the counting of donations received by the trust. Earlier, the meeting was scheduled to take place at Maniram Chhavni around 3 PM, but now the venue has been changed and the meeting will be held at the premises of the Ram Temple. Akashvani&#8217;s correspondent reports that, according to an official notice issued on June 28, 2026, the agenda of the meeting includes consideration of the resignation letters submitted by General Secretary Champat Rai and Trustee Dr Anil Mishra. Members will also be briefed on the interim report of the SIT regarding the counting of donations received through the Trust&#8217;s donation boxes. The meeting will further deliberate on arrangements related to the future management of the Ram Temple. Another key item on the agenda is the presentation and approval of the unaudited income and expenditure statement, balance sheet, and other financial documents for the financial year 2025-26. The notice also provides for discussion on any other matter with the permission of the Chairman.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T02:57:58+00:00",
-        "link": "https://newsonair.gov.in/shri-ram-janmabhoomi-teerth-kshetra-trust-convenes-meeting-to-deliberate-on-sit-findings/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/202606233836096.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Home Minister Amit Shah pays tribute to Dr Syama Prasad Mookerjee on 125th birth anniversary",
-        "summary": "Home Minister Amit Shah today paid tribute to Dr Syama Prasad Mookerjee on his 125th birth anniversary. In a social media post, Mr Shah said that Dr Mookerjee, the founder of the Bharatiya Jana Sangh and a fierce proponent of the nation&#8217;s unity, integrity, and cultural nationalism. He added that Dr Mokerjee made the ideal […]",
-        "article": "Home Minister Amit Shah today paid tribute to Dr Syama Prasad Mookerjee on his 125th birth anniversary. In a social media post, Mr Shah said that Dr Mookerjee, the founder of the Bharatiya Jana Sangh and a fierce proponent of the nation&#8217;s unity, integrity, and cultural nationalism. He added that Dr Mokerjee made the ideal of &#8216;Nation First&#8217; the guiding principle of his life. His visionary leadership during the partition of Bengal and his lifelong struggle to keep Jammu-Kashmir as an integral part of India will forever be remembered in Indian history. Mr Shah recalled his unwavering commitment to principles and his lifelong fight for the nation&#8217;s integrity, which will continue to inspire the youth for generations.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T02:53:56+00:00",
-        "link": "https://newsonair.gov.in/home-minister-amit-shah-pays-tribute-to-dr-syama-prasad-mookerjee-on-125th-birth-anniversary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-06-082322.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "Vice President pays floral tributes to Dr. Syama Prasad Mookerjee at Uprashtrapati Bhawan",
+        "summary": "Vice President C P Radhakrishnan today paid floral tributes to Dr. Syama Prasad Mookerjee at the Uprashtrapati Bhawan on his 125th birth anniversary. In a social media post, the Vice President said that Dr. Mookerjee is a distinguished educationist, visionary statesman and nation-builder and left an enduring imprint on India’s educational, political and democratic journey. […]",
+        "article": "Vice President C P Radhakrishnan today paid floral tributes to Dr. Syama Prasad Mookerjee at the Uprashtrapati Bhawan on his 125th birth anniversary. In a social media post, the Vice President said that Dr. Mookerjee is a distinguished educationist, visionary statesman and nation-builder and left an enduring imprint on India’s educational, political and democratic journey. He added that as one of the youngest Vice-Chancellors of the University of Calcutta, a member of the Constituent Assembly, President of the Akhil Bharatiya Hindu Mahasabha, Independent India’s first Minister for Industry and Supply, and founder of the Bharatiya Jana Sangh, Dr. Mookerjee rendered exceptional service to the nation. Mr Radhakrishnan emphasized that as a steadfast champion of national unity and integrity, Dr Mookerjee made the supreme sacrifice in Jammu and Kashmir while striving for its full integration with Bharat. He further said that his life and ideals continue to inspire generations in the collective endeavour to build a strong, united, self-reliant and developed India.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:11:27+00:00",
+        "link": "https://newsonair.gov.in/vice-president-pays-floral-tributes-to-dr-syama-prasad-mookerjee-at-uprashtrapati-bhawan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-06-123536.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EC issues notification for by-elections to 3 Assembly constituencies in Bihar, Gujarat & Madhya Pradesh",
+        "summary": "The Election Commission today issued a notification for by-elections to three Assembly constituencies in Bihar, Gujarat, and Madhya Pradesh. The bye-elections will be conducted for Bankipur constituency in Bihar, Manjalpur constituency in Gujarat, and Datia constituency in Madhya Pradesh. As per the notification, nominations will be accepted until 13th July and scrutiny will be held […]",
+        "article": "The Election Commission today issued a notification for by-elections to three Assembly constituencies in Bihar, Gujarat, and Madhya Pradesh. The bye-elections will be conducted for Bankipur constituency in Bihar, Manjalpur constituency in Gujarat, and Datia constituency in Madhya Pradesh. As per the notification, nominations will be accepted until 13th July and scrutiny will be held on 14th July. The polling for these seats is scheduled to be held on 30th July. In Bihar, the bye-election for the Bankipur seat was necessitated following the resignation of the sitting member, Nitin Nabin. In Gujarat, the vacancy in the Manjalpur Assembly constituency arose following the demise of Yogeshbhai Narandas Patel. Meanwhile, in Madhya Pradesh, the Datia seat became vacant due to the disqualification of Rajendra Bharti.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T07:03:43+00:00",
+        "link": "https://newsonair.gov.in/ec-issues-notification-for-by-elections-to-3-assembly-constituencies-in-bihar-gujarat-madhya-pradesh/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/eci-hai-yte.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM S. Jaishankar greets Comoros on its Independence Day",
+        "summary": "External Affairs Minister S. Jaishankar has extended greetings to Foreign Minister Mbae Mohamed, the Government and people of Comoros on the occasion of the country&#8217;s Independence Day. In a social media post, Dr Jaishankar said, &#8216;Guided by Vision MAHASAGAR, India remains committed to strengthening partnership between two nations. The External Affairs Minister also congratulated […]",
+        "article": "External Affairs Minister S. Jaishankar has extended greetings to Foreign Minister Mbae Mohamed, the Government and people of Comoros on the occasion of the country&#8217;s Independence Day. In a social media post, Dr Jaishankar said, &#8216;Guided by Vision MAHASAGAR, India remains committed to strengthening partnership between two nations. The External Affairs Minister also congratulated the Foreign Minister Dr George T. Chaponda, the Government and people of Malawi on the occasion of their Independence Day.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T06:57:03+00:00",
+        "link": "https://newsonair.gov.in/eam-s-jaishankar-greets-comoros-on-its-independence-day/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-9-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Iran Embassy in India expresses gratitude to Govt of India for participating in funeral ceremonies of Iran’s former Supreme Leader",
         "summary": "The Embassy of Iran in India expressed gratitude to the Government of India and its people for participating in the funeral ceremonies of former Iranian Supreme Leader Ayatollah Seyyed Ali Khamenei, saying the gesture reflected the deep historical, cultural, and human bonds between the two countries. In a post shared on social media, the Iranian […]",
         "article": "The Embassy of Iran in India expressed gratitude to the Government of India and its people for participating in the funeral ceremonies of former Iranian Supreme Leader Ayatollah Seyyed Ali Khamenei, saying the gesture reflected the deep historical, cultural, and human bonds between the two countries. In a post shared on social media, the Iranian embassy said that the presence of Indian political leaders, Members of Parliament, scholars, intellectuals and representatives of different faiths at the ceremonies reflected the longstanding relationship between the two nations.",
@@ -435,39 +468,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-06T03:23:20+00:00",
         "link": "https://newsonair.gov.in/india-to-host-brics-heads-of-anti-drug-agencies-meeting-in-guwahati/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-2-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi pays tribute to Dr. Syama Prasad Mookerjee on his 125th birth anniversary",
-        "summary": "Prime Minister Narendra Modi paid tribute to Dr. Syama Prasad Mookerjee on his 125th birth anniversary, describing him as a timeless example of courage, nationalism and selfless service. In an article, the Prime Minister said Dr. Mookerjee&#8217;s public life was defined by his unwavering commitment to the indivisibility of India. He said Dr. Mookerjee […]",
-        "article": "Prime Minister Narendra Modi paid tribute to Dr. Syama Prasad Mookerjee on his 125th birth anniversary, describing him as a timeless example of courage, nationalism and selfless service. In an article, the Prime Minister said Dr. Mookerjee&#8217;s public life was defined by his unwavering commitment to the indivisibility of India. He said Dr. Mookerjee stood firm during Partition to ensure that West Bengal remained an integral part of the country and later dedicated himself to the cause of Jammu and Kashmir. The Prime Minister said the revocation of Articles 370 and 35(A) in 2019 was the most fitting tribute to his martyrdom. Highlighting Dr. Mookerjee&#8217;s contributions, the Prime Minister said he became the youngest Vice-Chancellor of the University of Calcutta and introduced several reforms to strengthen education, research and student welfare. The Prime Minister also noted Dr. Mookerjee&#8217;s role as Independent India&#8217;s first Minister for Industry and Supply, saying he laid the foundation of modern industrial India through initiatives such as the Damodar Valley Corporation and the Sindri Fertiliser Plant, while supporting handlooms, cottage industries and artisans. The Prime Minister also recalled Dr. Mookerjee&#8217;s humanitarian work during the Bengal famine of 1943, when he helped establish relief centres and community kitchens for those affected.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:05:01+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-pays-tribute-to-dr-syama-prasad-mookerjee-on-his-125th-birth-anniversary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Q2FjT5E8.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Shri Ram Janmabhoomi Teerth Kshetra Trust convenes meeting",
-        "summary": "The Shri Ram Janmabhoomi Teerth Kshetra Trust has convened a meeting of its members today to deliberate on several important administrative and financial matters, including the findings of the Special Investigation Team (SIT) probing the counting of donations received by the trust. Earlier, the meeting was scheduled to take place at Maniram Chhavni around 3 […]",
-        "article": "The Shri Ram Janmabhoomi Teerth Kshetra Trust has convened a meeting of its members today to deliberate on several important administrative and financial matters, including the findings of the Special Investigation Team (SIT) probing the counting of donations received by the trust. Earlier, the meeting was scheduled to take place at Maniram Chhavni around 3 PM, but now the venue has been changed and the meeting will be held at the premises of the Ram Temple. Akashvani&#8217;s correspondent reports that, according to an official notice issued on June 28, 2026, the agenda of the meeting includes consideration of the resignation letters submitted by General Secretary Champat Rai and Trustee Dr Anil Mishra. Members will also be briefed on the interim report of the SIT regarding the counting of donations received through the Trust&#8217;s donation boxes. The meeting will further deliberate on arrangements related to the future management of the Ram Temple. Another key item on the agenda is the presentation and approval of the unaudited income and expenditure statement, balance sheet, and other financial documents for the financial year 2025-26. The notice also provides for discussion on any other matter with the permission of the Chairman.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T02:57:58+00:00",
-        "link": "https://newsonair.gov.in/shri-ram-janmabhoomi-teerth-kshetra-trust-convenes-meeting-to-deliberate-on-sit-findings/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/202606233836096.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Home Minister Amit Shah pays tribute to Dr Syama Prasad Mookerjee on 125th birth anniversary",
-        "summary": "Home Minister Amit Shah today paid tribute to Dr Syama Prasad Mookerjee on his 125th birth anniversary. In a social media post, Mr Shah said that Dr Mookerjee, the founder of the Bharatiya Jana Sangh and a fierce proponent of the nation&#8217;s unity, integrity, and cultural nationalism. He added that Dr Mokerjee made the ideal […]",
-        "article": "Home Minister Amit Shah today paid tribute to Dr Syama Prasad Mookerjee on his 125th birth anniversary. In a social media post, Mr Shah said that Dr Mookerjee, the founder of the Bharatiya Jana Sangh and a fierce proponent of the nation&#8217;s unity, integrity, and cultural nationalism. He added that Dr Mokerjee made the ideal of &#8216;Nation First&#8217; the guiding principle of his life. His visionary leadership during the partition of Bengal and his lifelong struggle to keep Jammu-Kashmir as an integral part of India will forever be remembered in Indian history. Mr Shah recalled his unwavering commitment to principles and his lifelong fight for the nation&#8217;s integrity, which will continue to inspire the youth for generations.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T02:53:56+00:00",
-        "link": "https://newsonair.gov.in/home-minister-amit-shah-pays-tribute-to-dr-syama-prasad-mookerjee-on-125th-birth-anniversary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-06-082322.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -1102,12 +1102,12 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "गृह मंत्री अमित शाह ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की",
-        "summary": "गृह मंत्री अमित शाह ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की है। सोशल मीडिया पोस्ट में श्री शाह ने कहा कि डॉ. मुखर्जी भारतीय जनसंघ के संस्थापक और राष्ट्र की एकता, अखंडता और सांस्कृतिक राष्ट्रवाद के प्रबल समर्थक थे। उन्होंने कहा कि डॉ. मुखर्जी ने &#8216;राष्ट्र सर्वोपरि&#8217; के आदर्श […]",
-        "article": "गृह मंत्री अमित शाह ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की है। सोशल मीडिया पोस्ट में श्री शाह ने कहा कि डॉ. मुखर्जी भारतीय जनसंघ के संस्थापक और राष्ट्र की एकता, अखंडता और सांस्कृतिक राष्ट्रवाद के प्रबल समर्थक थे। उन्होंने कहा कि डॉ. मुखर्जी ने &#8216;राष्ट्र सर्वोपरि&#8217; के आदर्श को जीवन का मार्गदर्शक सिद्धांत बनाया। श्री शाह ने कहा कि सिद्धांतों के प्रति उनकी अटूट प्रतिबद्धता और राष्ट्र की अखंडता के लिए उनका आजीवन संघर्ष आने वाली पीढ़ियों को प्रेरित करता रहेगा।",
+        "title": "उपराष्ट्रपति, गृह मंत्री, रक्षा मंत्री और लोकसभा अध्यक्ष ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की",
+        "summary": "उपराष्ट्रपति सी पी राधाकृष्णन ने उपराष्ट्रपति भवन में डॉ. श्‍यामा प्रसाद मुखर्जी की 125वीं जयंती पर पुष्पांजलि अर्पित की। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने कहा कि डॉ. मुखर्जी एक दूरदर्शी राजनेता और राष्ट्र निर्माता थे। उन्होंने कहा कि स्वतंत्र भारत के पहले उद्योग और आपूर्ति मंत्री और भारतीय जनसंघ के संस्थापक के रूप में […]",
+        "article": "उपराष्ट्रपति सी पी राधाकृष्णन ने उपराष्ट्रपति भवन में डॉ. श्&#x200d;यामा प्रसाद मुखर्जी की 125वीं जयंती पर पुष्पांजलि अर्पित की। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने कहा कि डॉ. मुखर्जी एक दूरदर्शी राजनेता और राष्ट्र निर्माता थे। उन्होंने कहा कि स्वतंत्र भारत के पहले उद्योग और आपूर्ति मंत्री और भारतीय जनसंघ के संस्थापक के रूप में डॉ. मुखर्जी ने राष्ट्र की असाधारण सेवा की। श्री राधाकृष्णन ने इस बात पर जोर दिया कि राष्ट्रीय एकता और अखंडता के अडिग समर्थक के रूप में, डॉ. मुखर्जी ने जम्मू और कश्मीर को भारत में पूर्ण रूप से एकीकृत करने के प्रयासों में सर्वोच्च बलिदान दिया। गृह मंत्री अमित शाह ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की है। सोशल मीडिया पोस्ट में श्री शाह ने कहा कि डॉ. मुखर्जी भारतीय जनसंघ के संस्थापक और राष्ट्र की एकता, अखंडता और सांस्कृतिक राष्ट्रवाद के प्रबल समर्थक थे। उन्होंने कहा कि डॉ. मुखर्जी ने &#8216;राष्ट्र सर्वोपरि&#8217; के आदर्श को जीवन का मार्गदर्शक सिद्धांत बनाया। श्री शाह ने कहा कि सिद्धांतों के प्रति उनकी अटूट प्रतिबद्धता और राष्ट्र की अखंडता के लिए उनका आजीवन संघर्ष आने वाली पीढ़ियों को प्रेरित करता रहेगा। रक्षा मंत्री राजनाथ सिंह ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पोस्ट में श्री सिंह ने कहा कि डॉ. मुखर्जी एक दूरदर्शी राजनेता, प्रतिष्ठित विद्वान और राष्ट्र निर्माता थे। उन्होंने अपना जीवन लोकतांत्रिक संस्थाओं को मजबूत करने और राष्ट्रीय एकता को बनाए रखने तथा उसके उद्देश्य को आगे बढ़ाने के लिए समर्पित कर दिया। श्री सिंह ने आशा व्यक्त की कि डॉ. मुखर्जी की अमर विरासत हमें एक मजबूत, एकजुट, आत्मनिर्भर और विकसित भारत के निर्माण के हमारे सामूहिक प्रयासों में मार्गदर्शन करेगी। इसके अलावा, सूचना एवं प्रसारण एवं संसदीय कार्य राज्य मंत्री डॉ. एल. मुरुगन ने भी आज संविधान सदन के केंद्रीय हॉल में डॉ. श्यामा प्रसाद मुखर्जी को पुष्पांजलि अर्पित की। उन्होंने डॉ. मुखर्जी को एक दूरदर्शी नेता और राष्ट्र निर्माता बताया। लोकसभा अध्यक्ष ओम बिरला ने आज पूर्व केंद्रीय मंत्री, प्रख्यात शिक्षाविद और प्रबल राष्ट्रवादी नेता डॉ. श्यामा प्रसाद मुखर्जी को उनकी 125वीं जयंती पर श्रद्धांजलि अर्पित की। सोशल मीडिया पर श्री बिरला ने कहा कि डॉ. मुखर्जी का जीवन राष्ट्रीय सेवा और राष्ट्रीय एकता के प्रति अटूट समर्पण का एक प्रेरणादायक उदाहरण है। उन्होंने आगे कहा कि डॉ. मुखर्जी ने उच्च शिक्षा के क्षेत्र में उल्लेखनीय योगदान दिया, वहीं एक जननेता के रूप में उन्होंने राष्ट्रीय हितों और लोकतांत्रिक मूल्यों के प्रति अपनी स्पष्ट प्रतिबद्धता प्रदर्शित की। उन्होंने आगे कहा कि राष्ट्र की एकता, अखंडता और कल्याण के प्रति उनका समर्पण आज भी सभी देशवासियों के लिए प्रेरणा का स्रोत है।",
         "date": "2026-07-06",
         "pubDate": "2026-07-06T02:53:37+00:00",
-        "link": "https://newsonair.gov.in/hi/home-minister-amit-shah-paid-tribute-to-dr-syama-prasad-mookerjee-on-his-125th-birth-anniversary/",
+        "link": "https://newsonair.gov.in/hi/the-vice-president-home-minister-defence-minister-and-lok-sabha-speaker-paid-tribute-to-dr-syama-prasad-mookerjee-on-his-125th-birth-anniversary/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-06-081929.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
@@ -1192,12 +1192,12 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "गृह मंत्री अमित शाह ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की",
-        "summary": "गृह मंत्री अमित शाह ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की है। सोशल मीडिया पोस्ट में श्री शाह ने कहा कि डॉ. मुखर्जी भारतीय जनसंघ के संस्थापक और राष्ट्र की एकता, अखंडता और सांस्कृतिक राष्ट्रवाद के प्रबल समर्थक थे। उन्होंने कहा कि डॉ. मुखर्जी ने &#8216;राष्ट्र सर्वोपरि&#8217; के आदर्श […]",
-        "article": "गृह मंत्री अमित शाह ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की है। सोशल मीडिया पोस्ट में श्री शाह ने कहा कि डॉ. मुखर्जी भारतीय जनसंघ के संस्थापक और राष्ट्र की एकता, अखंडता और सांस्कृतिक राष्ट्रवाद के प्रबल समर्थक थे। उन्होंने कहा कि डॉ. मुखर्जी ने &#8216;राष्ट्र सर्वोपरि&#8217; के आदर्श को जीवन का मार्गदर्शक सिद्धांत बनाया। श्री शाह ने कहा कि सिद्धांतों के प्रति उनकी अटूट प्रतिबद्धता और राष्ट्र की अखंडता के लिए उनका आजीवन संघर्ष आने वाली पीढ़ियों को प्रेरित करता रहेगा।",
+        "title": "उपराष्ट्रपति, गृह मंत्री, रक्षा मंत्री और लोकसभा अध्यक्ष ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की",
+        "summary": "उपराष्ट्रपति सी पी राधाकृष्णन ने उपराष्ट्रपति भवन में डॉ. श्‍यामा प्रसाद मुखर्जी की 125वीं जयंती पर पुष्पांजलि अर्पित की। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने कहा कि डॉ. मुखर्जी एक दूरदर्शी राजनेता और राष्ट्र निर्माता थे। उन्होंने कहा कि स्वतंत्र भारत के पहले उद्योग और आपूर्ति मंत्री और भारतीय जनसंघ के संस्थापक के रूप में […]",
+        "article": "उपराष्ट्रपति सी पी राधाकृष्णन ने उपराष्ट्रपति भवन में डॉ. श्&#x200d;यामा प्रसाद मुखर्जी की 125वीं जयंती पर पुष्पांजलि अर्पित की। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने कहा कि डॉ. मुखर्जी एक दूरदर्शी राजनेता और राष्ट्र निर्माता थे। उन्होंने कहा कि स्वतंत्र भारत के पहले उद्योग और आपूर्ति मंत्री और भारतीय जनसंघ के संस्थापक के रूप में डॉ. मुखर्जी ने राष्ट्र की असाधारण सेवा की। श्री राधाकृष्णन ने इस बात पर जोर दिया कि राष्ट्रीय एकता और अखंडता के अडिग समर्थक के रूप में, डॉ. मुखर्जी ने जम्मू और कश्मीर को भारत में पूर्ण रूप से एकीकृत करने के प्रयासों में सर्वोच्च बलिदान दिया। गृह मंत्री अमित शाह ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की है। सोशल मीडिया पोस्ट में श्री शाह ने कहा कि डॉ. मुखर्जी भारतीय जनसंघ के संस्थापक और राष्ट्र की एकता, अखंडता और सांस्कृतिक राष्ट्रवाद के प्रबल समर्थक थे। उन्होंने कहा कि डॉ. मुखर्जी ने &#8216;राष्ट्र सर्वोपरि&#8217; के आदर्श को जीवन का मार्गदर्शक सिद्धांत बनाया। श्री शाह ने कहा कि सिद्धांतों के प्रति उनकी अटूट प्रतिबद्धता और राष्ट्र की अखंडता के लिए उनका आजीवन संघर्ष आने वाली पीढ़ियों को प्रेरित करता रहेगा। रक्षा मंत्री राजनाथ सिंह ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पोस्ट में श्री सिंह ने कहा कि डॉ. मुखर्जी एक दूरदर्शी राजनेता, प्रतिष्ठित विद्वान और राष्ट्र निर्माता थे। उन्होंने अपना जीवन लोकतांत्रिक संस्थाओं को मजबूत करने और राष्ट्रीय एकता को बनाए रखने तथा उसके उद्देश्य को आगे बढ़ाने के लिए समर्पित कर दिया। श्री सिंह ने आशा व्यक्त की कि डॉ. मुखर्जी की अमर विरासत हमें एक मजबूत, एकजुट, आत्मनिर्भर और विकसित भारत के निर्माण के हमारे सामूहिक प्रयासों में मार्गदर्शन करेगी। इसके अलावा, सूचना एवं प्रसारण एवं संसदीय कार्य राज्य मंत्री डॉ. एल. मुरुगन ने भी आज संविधान सदन के केंद्रीय हॉल में डॉ. श्यामा प्रसाद मुखर्जी को पुष्पांजलि अर्पित की। उन्होंने डॉ. मुखर्जी को एक दूरदर्शी नेता और राष्ट्र निर्माता बताया। लोकसभा अध्यक्ष ओम बिरला ने आज पूर्व केंद्रीय मंत्री, प्रख्यात शिक्षाविद और प्रबल राष्ट्रवादी नेता डॉ. श्यामा प्रसाद मुखर्जी को उनकी 125वीं जयंती पर श्रद्धांजलि अर्पित की। सोशल मीडिया पर श्री बिरला ने कहा कि डॉ. मुखर्जी का जीवन राष्ट्रीय सेवा और राष्ट्रीय एकता के प्रति अटूट समर्पण का एक प्रेरणादायक उदाहरण है। उन्होंने आगे कहा कि डॉ. मुखर्जी ने उच्च शिक्षा के क्षेत्र में उल्लेखनीय योगदान दिया, वहीं एक जननेता के रूप में उन्होंने राष्ट्रीय हितों और लोकतांत्रिक मूल्यों के प्रति अपनी स्पष्ट प्रतिबद्धता प्रदर्शित की। उन्होंने आगे कहा कि राष्ट्र की एकता, अखंडता और कल्याण के प्रति उनका समर्पण आज भी सभी देशवासियों के लिए प्रेरणा का स्रोत है।",
         "date": "2026-07-06",
         "pubDate": "2026-07-06T02:53:37+00:00",
-        "link": "https://newsonair.gov.in/hi/home-minister-amit-shah-paid-tribute-to-dr-syama-prasad-mookerjee-on-his-125th-birth-anniversary/",
+        "link": "https://newsonair.gov.in/hi/the-vice-president-home-minister-defence-minister-and-lok-sabha-speaker-paid-tribute-to-dr-syama-prasad-mookerjee-on-his-125th-birth-anniversary/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-06-081929.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
@@ -1307,12 +1307,12 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "गृह मंत्री अमित शाह ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की",
-        "summary": "गृह मंत्री अमित शाह ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की है। सोशल मीडिया पोस्ट में श्री शाह ने कहा कि डॉ. मुखर्जी भारतीय जनसंघ के संस्थापक और राष्ट्र की एकता, अखंडता और सांस्कृतिक राष्ट्रवाद के प्रबल समर्थक थे। उन्होंने कहा कि डॉ. मुखर्जी ने &#8216;राष्ट्र सर्वोपरि&#8217; के आदर्श […]",
-        "article": "गृह मंत्री अमित शाह ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की है। सोशल मीडिया पोस्ट में श्री शाह ने कहा कि डॉ. मुखर्जी भारतीय जनसंघ के संस्थापक और राष्ट्र की एकता, अखंडता और सांस्कृतिक राष्ट्रवाद के प्रबल समर्थक थे। उन्होंने कहा कि डॉ. मुखर्जी ने &#8216;राष्ट्र सर्वोपरि&#8217; के आदर्श को जीवन का मार्गदर्शक सिद्धांत बनाया। श्री शाह ने कहा कि सिद्धांतों के प्रति उनकी अटूट प्रतिबद्धता और राष्ट्र की अखंडता के लिए उनका आजीवन संघर्ष आने वाली पीढ़ियों को प्रेरित करता रहेगा।",
+        "title": "उपराष्ट्रपति, गृह मंत्री, रक्षा मंत्री और लोकसभा अध्यक्ष ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की",
+        "summary": "उपराष्ट्रपति सी पी राधाकृष्णन ने उपराष्ट्रपति भवन में डॉ. श्‍यामा प्रसाद मुखर्जी की 125वीं जयंती पर पुष्पांजलि अर्पित की। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने कहा कि डॉ. मुखर्जी एक दूरदर्शी राजनेता और राष्ट्र निर्माता थे। उन्होंने कहा कि स्वतंत्र भारत के पहले उद्योग और आपूर्ति मंत्री और भारतीय जनसंघ के संस्थापक के रूप में […]",
+        "article": "उपराष्ट्रपति सी पी राधाकृष्णन ने उपराष्ट्रपति भवन में डॉ. श्&#x200d;यामा प्रसाद मुखर्जी की 125वीं जयंती पर पुष्पांजलि अर्पित की। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने कहा कि डॉ. मुखर्जी एक दूरदर्शी राजनेता और राष्ट्र निर्माता थे। उन्होंने कहा कि स्वतंत्र भारत के पहले उद्योग और आपूर्ति मंत्री और भारतीय जनसंघ के संस्थापक के रूप में डॉ. मुखर्जी ने राष्ट्र की असाधारण सेवा की। श्री राधाकृष्णन ने इस बात पर जोर दिया कि राष्ट्रीय एकता और अखंडता के अडिग समर्थक के रूप में, डॉ. मुखर्जी ने जम्मू और कश्मीर को भारत में पूर्ण रूप से एकीकृत करने के प्रयासों में सर्वोच्च बलिदान दिया। गृह मंत्री अमित शाह ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की है। सोशल मीडिया पोस्ट में श्री शाह ने कहा कि डॉ. मुखर्जी भारतीय जनसंघ के संस्थापक और राष्ट्र की एकता, अखंडता और सांस्कृतिक राष्ट्रवाद के प्रबल समर्थक थे। उन्होंने कहा कि डॉ. मुखर्जी ने &#8216;राष्ट्र सर्वोपरि&#8217; के आदर्श को जीवन का मार्गदर्शक सिद्धांत बनाया। श्री शाह ने कहा कि सिद्धांतों के प्रति उनकी अटूट प्रतिबद्धता और राष्ट्र की अखंडता के लिए उनका आजीवन संघर्ष आने वाली पीढ़ियों को प्रेरित करता रहेगा। रक्षा मंत्री राजनाथ सिंह ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पोस्ट में श्री सिंह ने कहा कि डॉ. मुखर्जी एक दूरदर्शी राजनेता, प्रतिष्ठित विद्वान और राष्ट्र निर्माता थे। उन्होंने अपना जीवन लोकतांत्रिक संस्थाओं को मजबूत करने और राष्ट्रीय एकता को बनाए रखने तथा उसके उद्देश्य को आगे बढ़ाने के लिए समर्पित कर दिया। श्री सिंह ने आशा व्यक्त की कि डॉ. मुखर्जी की अमर विरासत हमें एक मजबूत, एकजुट, आत्मनिर्भर और विकसित भारत के निर्माण के हमारे सामूहिक प्रयासों में मार्गदर्शन करेगी। इसके अलावा, सूचना एवं प्रसारण एवं संसदीय कार्य राज्य मंत्री डॉ. एल. मुरुगन ने भी आज संविधान सदन के केंद्रीय हॉल में डॉ. श्यामा प्रसाद मुखर्जी को पुष्पांजलि अर्पित की। उन्होंने डॉ. मुखर्जी को एक दूरदर्शी नेता और राष्ट्र निर्माता बताया। लोकसभा अध्यक्ष ओम बिरला ने आज पूर्व केंद्रीय मंत्री, प्रख्यात शिक्षाविद और प्रबल राष्ट्रवादी नेता डॉ. श्यामा प्रसाद मुखर्जी को उनकी 125वीं जयंती पर श्रद्धांजलि अर्पित की। सोशल मीडिया पर श्री बिरला ने कहा कि डॉ. मुखर्जी का जीवन राष्ट्रीय सेवा और राष्ट्रीय एकता के प्रति अटूट समर्पण का एक प्रेरणादायक उदाहरण है। उन्होंने आगे कहा कि डॉ. मुखर्जी ने उच्च शिक्षा के क्षेत्र में उल्लेखनीय योगदान दिया, वहीं एक जननेता के रूप में उन्होंने राष्ट्रीय हितों और लोकतांत्रिक मूल्यों के प्रति अपनी स्पष्ट प्रतिबद्धता प्रदर्शित की। उन्होंने आगे कहा कि राष्ट्र की एकता, अखंडता और कल्याण के प्रति उनका समर्पण आज भी सभी देशवासियों के लिए प्रेरणा का स्रोत है।",
         "date": "2026-07-06",
         "pubDate": "2026-07-06T02:53:37+00:00",
-        "link": "https://newsonair.gov.in/hi/home-minister-amit-shah-paid-tribute-to-dr-syama-prasad-mookerjee-on-his-125th-birth-anniversary/",
+        "link": "https://newsonair.gov.in/hi/the-vice-president-home-minister-defence-minister-and-lok-sabha-speaker-paid-tribute-to-dr-syama-prasad-mookerjee-on-his-125th-birth-anniversary/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-06-081929.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
@@ -1422,12 +1422,12 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "गृह मंत्री अमित शाह ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की",
-        "summary": "गृह मंत्री अमित शाह ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की है। सोशल मीडिया पोस्ट में श्री शाह ने कहा कि डॉ. मुखर्जी भारतीय जनसंघ के संस्थापक और राष्ट्र की एकता, अखंडता और सांस्कृतिक राष्ट्रवाद के प्रबल समर्थक थे। उन्होंने कहा कि डॉ. मुखर्जी ने &#8216;राष्ट्र सर्वोपरि&#8217; के आदर्श […]",
-        "article": "गृह मंत्री अमित शाह ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की है। सोशल मीडिया पोस्ट में श्री शाह ने कहा कि डॉ. मुखर्जी भारतीय जनसंघ के संस्थापक और राष्ट्र की एकता, अखंडता और सांस्कृतिक राष्ट्रवाद के प्रबल समर्थक थे। उन्होंने कहा कि डॉ. मुखर्जी ने &#8216;राष्ट्र सर्वोपरि&#8217; के आदर्श को जीवन का मार्गदर्शक सिद्धांत बनाया। श्री शाह ने कहा कि सिद्धांतों के प्रति उनकी अटूट प्रतिबद्धता और राष्ट्र की अखंडता के लिए उनका आजीवन संघर्ष आने वाली पीढ़ियों को प्रेरित करता रहेगा।",
+        "title": "उपराष्ट्रपति, गृह मंत्री, रक्षा मंत्री और लोकसभा अध्यक्ष ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की",
+        "summary": "उपराष्ट्रपति सी पी राधाकृष्णन ने उपराष्ट्रपति भवन में डॉ. श्‍यामा प्रसाद मुखर्जी की 125वीं जयंती पर पुष्पांजलि अर्पित की। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने कहा कि डॉ. मुखर्जी एक दूरदर्शी राजनेता और राष्ट्र निर्माता थे। उन्होंने कहा कि स्वतंत्र भारत के पहले उद्योग और आपूर्ति मंत्री और भारतीय जनसंघ के संस्थापक के रूप में […]",
+        "article": "उपराष्ट्रपति सी पी राधाकृष्णन ने उपराष्ट्रपति भवन में डॉ. श्&#x200d;यामा प्रसाद मुखर्जी की 125वीं जयंती पर पुष्पांजलि अर्पित की। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने कहा कि डॉ. मुखर्जी एक दूरदर्शी राजनेता और राष्ट्र निर्माता थे। उन्होंने कहा कि स्वतंत्र भारत के पहले उद्योग और आपूर्ति मंत्री और भारतीय जनसंघ के संस्थापक के रूप में डॉ. मुखर्जी ने राष्ट्र की असाधारण सेवा की। श्री राधाकृष्णन ने इस बात पर जोर दिया कि राष्ट्रीय एकता और अखंडता के अडिग समर्थक के रूप में, डॉ. मुखर्जी ने जम्मू और कश्मीर को भारत में पूर्ण रूप से एकीकृत करने के प्रयासों में सर्वोच्च बलिदान दिया। गृह मंत्री अमित शाह ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की है। सोशल मीडिया पोस्ट में श्री शाह ने कहा कि डॉ. मुखर्जी भारतीय जनसंघ के संस्थापक और राष्ट्र की एकता, अखंडता और सांस्कृतिक राष्ट्रवाद के प्रबल समर्थक थे। उन्होंने कहा कि डॉ. मुखर्जी ने &#8216;राष्ट्र सर्वोपरि&#8217; के आदर्श को जीवन का मार्गदर्शक सिद्धांत बनाया। श्री शाह ने कहा कि सिद्धांतों के प्रति उनकी अटूट प्रतिबद्धता और राष्ट्र की अखंडता के लिए उनका आजीवन संघर्ष आने वाली पीढ़ियों को प्रेरित करता रहेगा। रक्षा मंत्री राजनाथ सिंह ने डॉ. श्यामा प्रसाद मुखर्जी की 125वीं जयंती पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पोस्ट में श्री सिंह ने कहा कि डॉ. मुखर्जी एक दूरदर्शी राजनेता, प्रतिष्ठित विद्वान और राष्ट्र निर्माता थे। उन्होंने अपना जीवन लोकतांत्रिक संस्थाओं को मजबूत करने और राष्ट्रीय एकता को बनाए रखने तथा उसके उद्देश्य को आगे बढ़ाने के लिए समर्पित कर दिया। श्री सिंह ने आशा व्यक्त की कि डॉ. मुखर्जी की अमर विरासत हमें एक मजबूत, एकजुट, आत्मनिर्भर और विकसित भारत के निर्माण के हमारे सामूहिक प्रयासों में मार्गदर्शन करेगी। इसके अलावा, सूचना एवं प्रसारण एवं संसदीय कार्य राज्य मंत्री डॉ. एल. मुरुगन ने भी आज संविधान सदन के केंद्रीय हॉल में डॉ. श्यामा प्रसाद मुखर्जी को पुष्पांजलि अर्पित की। उन्होंने डॉ. मुखर्जी को एक दूरदर्शी नेता और राष्ट्र निर्माता बताया। लोकसभा अध्यक्ष ओम बिरला ने आज पूर्व केंद्रीय मंत्री, प्रख्यात शिक्षाविद और प्रबल राष्ट्रवादी नेता डॉ. श्यामा प्रसाद मुखर्जी को उनकी 125वीं जयंती पर श्रद्धांजलि अर्पित की। सोशल मीडिया पर श्री बिरला ने कहा कि डॉ. मुखर्जी का जीवन राष्ट्रीय सेवा और राष्ट्रीय एकता के प्रति अटूट समर्पण का एक प्रेरणादायक उदाहरण है। उन्होंने आगे कहा कि डॉ. मुखर्जी ने उच्च शिक्षा के क्षेत्र में उल्लेखनीय योगदान दिया, वहीं एक जननेता के रूप में उन्होंने राष्ट्रीय हितों और लोकतांत्रिक मूल्यों के प्रति अपनी स्पष्ट प्रतिबद्धता प्रदर्शित की। उन्होंने आगे कहा कि राष्ट्र की एकता, अखंडता और कल्याण के प्रति उनका समर्पण आज भी सभी देशवासियों के लिए प्रेरणा का स्रोत है।",
         "date": "2026-07-06",
         "pubDate": "2026-07-06T02:53:37+00:00",
-        "link": "https://newsonair.gov.in/hi/home-minister-amit-shah-paid-tribute-to-dr-syama-prasad-mookerjee-on-his-125th-birth-anniversary/",
+        "link": "https://newsonair.gov.in/hi/the-vice-president-home-minister-defence-minister-and-lok-sabha-speaker-paid-tribute-to-dr-syama-prasad-mookerjee-on-his-125th-birth-anniversary/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-06-081929.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
@@ -1840,111 +1840,111 @@ window.VM_NEWS = {
     ],
     "entertainment": [
       {
-        "title": "दशावतारसह एकूण ४ चित्रपट ऑस्करच्या सर्वसाधारण श्रेणीसाठी पात्र",
-        "summary": "कांतारा &#8211; द लिजंट चॅप्टर १, तन्वी द ग्रेट, महावतार नरसिम्हा, टुरिस्ट फॅमिली, आणि सिस्टर मिडनाइट हे ५ भारतीय चित्रपट ऑस्करच्या उत्कृष्ट चित्रपट श्रेणीसाठी पात्र ठरले आहेत. अकादमी ऑफ मोशन पिक्चरने आज ही घोषणा केली. याशिवाय दशावतार, महामंत्रा, पेपर फ्लॉवर, पारो हे ४ चित्रपट सर्वसाधारण श्रेणीसाठी पात्र आहेत. एकूण ३१७ चित्रपट ९८ व्या ऑस्कर पुरस्करांसाठी […]",
-        "article": "कांतारा &#8211; द लिजंट चॅप्टर १, तन्वी द ग्रेट, महावतार नरसिम्हा, टुरिस्ट फॅमिली, आणि सिस्टर मिडनाइट हे ५ भारतीय चित्रपट ऑस्करच्या उत्कृष्ट चित्रपट श्रेणीसाठी पात्र ठरले आहेत. अकादमी ऑफ मोशन पिक्चरने आज ही घोषणा केली. याशिवाय दशावतार, महामंत्रा, पेपर फ्लॉवर, पारो हे ४ चित्रपट सर्वसाधारण श्रेणीसाठी पात्र आहेत. एकूण ३१७ चित्रपट ९८ व्या ऑस्कर पुरस्करांसाठी पात्र ठरले आहेत. त्यातल्या २०१ चित्रपटांकडे उत्कृष्ट चित्रपट श्रेणीसाठीची अतिरीक्त पात्रता असल्याचं अकादमीनं जाहीर केलं. या सर्व चित्रपटांमधून ऑस्करसाठी नामांकित झालेल्या चित्रपटांची यादी २२ जानेवारी जाहीर होईल. याशिवाय भारताकडून आंतरराष्ट्रीय चित्रपट श्रेणीसाठी होमबाऊंड या चित्रपटाचं नामांकन करण्यात आलं आहे.",
-        "date": "2026-01-09",
-        "pubDate": "2026-01-09T09:40:13+00:00",
-        "link": "https://newsonair.gov.in/mr/oscar-award/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/l63820260109095706.webp",
+        "title": "कान्स फिल्म महोत्सव में हुआ एआई से बनी पहली फिल्म “हेल ग्राइंड” का प्रीमियर",
+        "summary": "कान्स फिल्म महोत्सव में कल आर्टिफिशियल इंटेलिजेंस-एआई से बनी एक नई फिल्म का प्रीमियर हुआ। &#8220;हेल ग्राइंड&#8221; नामक इस 95 मिनट की फिल्म को 15 लोगों की टीम ने केवल 14 दिन में तैयार की है। इस पर लगभग 5 लाख डॉलर की लागत आई है। सैन फ्रांसिस्को के स्टार्टअप हिग्सफील्ड एआई ने इस फिल्‍म […]",
+        "article": "कान्स फिल्म महोत्सव में कल आर्टिफिशियल इंटेलिजेंस-एआई से बनी एक नई फिल्म का प्रीमियर हुआ। &#8220;हेल ग्राइंड&#8221; नामक इस 95 मिनट की फिल्म को 15 लोगों की टीम ने केवल 14 दिन में तैयार की है। इस पर लगभग 5 लाख डॉलर की लागत आई है। सैन फ्रांसिस्को के स्टार्टअप हिग्सफील्ड एआई ने इस फिल्&#x200d;म का बुधवार को ट्रेलर भी जारी किया। फिल्म की कहानी देवी-देवताओं और राक्षसों पर आधारित है। हिग्सफील्ड के संस्थापक एलेक्स मशराबोव ने कहा कि यह पहली एआई फिल्म है। यह फिल्&#x200d;म दर्शाती है कि एआई अब एक पूरी फिल्म में पात्रों की निरंतरता, दुनिया की सुसंगति और कथानक को बनाए रख सकती है।",
+        "date": "2026-05-22",
+        "pubDate": "2026-05-22T02:24:07+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a4%be%e0%a4%a8%e0%a5%8d%e0%a4%b8-%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae-%e0%a4%ae%e0%a4%b9%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%b8%e0%a4%b5-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b9/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/Untitled-design-27.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "ज्येष्ठ अभिनेते श्रीनिवासन यांचं निधन",
-        "summary": "मल्याळी चित्रपटसृष्टीतले ज्येष्ठ अभिनेते, पटकथा लेखक आणि दिग्दर्शक श्रीनिवासन यांचं आज सकाळी कोची इथं दीर्घ आजारानं निधन झालं. ते ६९ वर्षांचे होते. १९७६ साली ‘मणीमुझक्कम’ या चित्रपटातून आपल्या अभिनय कारकिर्दीला सुरुवात करणाऱ्या श्रीनिवासन यांनी मोहनलाल आणि ममूठी सारख्या अभिनेत्यां सोबत अनेक चित्रपटांत सहकलाकाराच्या भूमिका निभावल्या. श्रीनिवासन यांनी २२५ हुन अधिक चित्रपटांमध्ये अभिनय केला असून १९९८",
-        "article": "मल्याळी चित्रपटसृष्टीतले ज्येष्ठ अभिनेते, पटकथा लेखक आणि दिग्दर्शक श्रीनिवासन यांचं आज सकाळी कोची इथं दीर्घ आजारानं निधन झालं. ते ६९ वर्षांचे होते. १९७६ साली ‘मणीमुझक्कम’ या चित्रपटातून आपल्या अभिनय कारकिर्दीला सुरुवात करणाऱ्या श्रीनिवासन यांनी मोहनलाल आणि ममूठी सारख्या अभिनेत्यां सोबत अनेक चित्रपटांत सहकलाकाराच्या भूमिका निभावल्या. श्रीनिवासन यांनी २२५ हुन अधिक चित्रपटांमध्ये अभिनय केला असून १९९८ मध्ये त्यांनी दिग्दर्शित केलेल्या ‘चिंथाविष्टयाया श्यामला’ या चित्रपटाला सर्वोत्कृष्ट सामाजिक चित्रपटासाठी राष्ट्रीय पुरस्कार प्राप्त झाला आहे.",
-        "date": "2025-12-20",
-        "pubDate": "2025-12-20T10:08:03+00:00",
-        "link": "https://newsonair.gov.in/mr/sreenivasan-death/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/befunky-sample-66_1766204685.jpg",
+        "title": "‘लालो – कृष्णा सदा सहायते’ की स्क्रीनिंग के साथ होगा आई.एफ.एफ.डी 2026 का समापन",
+        "summary": "दिल्ली अंतर्राष्ट्रीय फिल्म महोत्सव (आई.एफ.एफ.डी) 2026 का समापन आज &#8216;लालो &#8211; कृष्णा सदा सहायते&#8217; की भव्य स्क्रीनिंग के साथ शानदार तरीके से होगा। &#8216;दिल्ली ऑन रील &#8211; सिनेमा और राजधानी&#8217; शीर्षक से एक विशेष सत्र में प्रख्यात फिल्म निर्माता इम्तियाज अली और राकेश ओमप्रकाश मेहरा शहर के सिनेमाई सफर पर अपने विचार साझा करेंगे। &#8216;इंडिपेंडेंट […]",
+        "article": "दिल्ली अंतर्राष्ट्रीय फिल्म महोत्सव (आई.एफ.एफ.डी) 2026 का समापन आज &#8216;लालो &#8211; कृष्णा सदा सहायते&#8217; की भव्य स्क्रीनिंग के साथ शानदार तरीके से होगा। &#8216;दिल्ली ऑन रील &#8211; सिनेमा और राजधानी&#8217; शीर्षक से एक विशेष सत्र में प्रख्यात फिल्म निर्माता इम्तियाज अली और राकेश ओमप्रकाश मेहरा शहर के सिनेमाई सफर पर अपने विचार साझा करेंगे। &#8216;इंडिपेंडेंट रूट्स से ऑस्कर तक&#8217; शीर्षक से एक सत्र का संचालन गुनीत मोंगा करेंगी। यह महोत्सव साकेत, वसंत कुंज, पटेल नगर और पीतमपुरा सहित राष्ट्रीय राजधानी के कई पी.वी.आर सिनेमाघरों में लघु फिल्मों की स्क्रीनिंग भी करेगा। इससे समापन दिवस पर दर्शकों को एक विविध और आकर्षक सिनेमाई अनुभव प्राप्त होगा।",
+        "date": "2026-03-31",
+        "pubDate": "2026-03-31T07:55:25+00:00",
+        "link": "https://newsonair.gov.in/hi/iffd-2026-will-conclude-with-the-screening-of-lalo-krishna-sada-sahayate/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/लालो.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Oscars 2026: निवडक १५ चित्रपटांमधे ‘होमबाऊंड’ चित्रपटाचा समावेश",
-        "summary": "ऑस्कर २०२६ अर्थात ९८व्या अकॅडेमी पारितोषिकांसाठीच्या अंतिम फेरीत होमबाऊंड हा भारतीय चित्रपट प्राथमिक फेरी पार करून निवडक पंधरा चित्रपटांच्या यादीत पोचला आहे. नीरज घायवान दिग्दर्शित हा भारतीय चित्रपट आंतरराष्ट्रीय चित्रपटाच्या श्रेणीत आहे. या यादीतल्या चित्रपटांचं अंतिम नामांकन २२ जानेवारीला जाहीर होईल. ९८वा अकादमी पुरस्कार सोहळा १५ मार्च २०२६ रोजी होणार आहे.",
-        "article": "ऑस्कर २०२६ अर्थात ९८व्या अकॅडेमी पारितोषिकांसाठीच्या अंतिम फेरीत होमबाऊंड हा भारतीय चित्रपट प्राथमिक फेरी पार करून निवडक पंधरा चित्रपटांच्या यादीत पोचला आहे. नीरज घायवान दिग्दर्शित हा भारतीय चित्रपट आंतरराष्ट्रीय चित्रपटाच्या श्रेणीत आहे. या यादीतल्या चित्रपटांचं अंतिम नामांकन २२ जानेवारीला जाहीर होईल. ९८वा अकादमी पुरस्कार सोहळा १५ मार्च २०२६ रोजी होणार आहे.",
+        "title": "बाफ्टा पुरस्कारों में मणिपुरी कॉमेडी-ड्रामा फिल्म बूंग ने सर्वश्रेष्ठ बाल और पारिवारिक फिल्म श्रेणी का खिताब जीता",
+        "summary": "फरहान अख्तर की एक्सेल एंटरटेनमेंट द्वारा निर्मित मणिपुरी कॉमेडी-ड्रामा फिल्म बूंग ने कल लंदन में सर्वश्रेष्ठ बाल और पारिवारिक फिल्म का प्रतिष्ठित बाफ्टा पुरस्कार जीता। फिल्म की निर्देशक लक्ष्मीप्रिया देवी ने वेस्ट एंड शो पैडिंगटन-द म्यूजिकल के मुख्य किरदार पैडिंगटन बियर से ट्रॉफी प्राप्त करने के बाद अपने भाषण में विश्‍व शांति के लिए भावुक […]",
+        "article": "फरहान अख्तर की एक्सेल एंटरटेनमेंट द्वारा निर्मित मणिपुरी कॉमेडी-ड्रामा फिल्म बूंग ने कल लंदन में सर्वश्रेष्ठ बाल और पारिवारिक फिल्म का प्रतिष्ठित बाफ्टा पुरस्कार जीता। फिल्म की निर्देशक लक्ष्मीप्रिया देवी ने वेस्ट एंड शो पैडिंगटन-द म्यूजिकल के मुख्य किरदार पैडिंगटन बियर से ट्रॉफी प्राप्त करने के बाद अपने भाषण में विश्&#x200d;व शांति के लिए भावुक अपील की। ​​उनके साथ मंच पर निर्माता फरहान अख्तर और रितेश सिधवानी तथा फिल्&#x200d;म के सहायक निर्देशक राहुल शारदा भी मौजूद थे। गुगुन किपगेन और बाला हिजाम अभिनीत इस मणिपुरी फिल्म ने &#8216;लिलो एंड स्टिच&#8217;, &#8216;आर्को&#8217; और &#8216;ज़ूट्रोपोलिस 2&#8217; जैसी अन्य नामांकित अंतरराष्ट्रीय फिल्मों को पीछे छोड़कर यह पुरस्&#x200d;कार जीता है। टेम्स नदी के किनारे रॉयल फेस्टिवल हॉल में आयोजित 2026 के ब्रिटिश एकेडमी फिल्म एंड टेलीविजन आर्ट्स -बाफ्टा पुरस्कारों में कई सितारों ने शिरकत की, जिसमें बॉलीवुड स्टार आलिया भट्ट ने नॉर्डिक ड्रामा सेंटिमेंटल वैल्यू के लिए सर्वश्रेष्ठ गैर-अंग्रेजी भाषी फिल्म का पुरस्कार प्रदान करने के लिए अतिथि प्रस्तुतकर्ता के रूप में भाग लिया।",
+        "date": "2026-02-23",
+        "pubDate": "2026-02-23T04:47:52+00:00",
+        "link": "https://newsonair.gov.in/hi/manipuri-comedy-drama-film-boong-wins-best-childrens-and-family-film-category-at-bafta-awards/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/Boong-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "फिल्म वन बैटल आफ्टर अनदर ने मचाई 79वें बाफ्टा पुरस्कारों में धूम",
+        "summary": "एक्शन थ्रिलर फिल्म वन बैटल आफ्टर अनदर ने 79वें ब्रिटिश अकादमी फिल्म पुरस्कारों -बाफ्टा में धूम मचा दी और सर्वश्रेष्ठ फिल्म समेत छह पुरस्कार जीते। पॉल थॉमस एंडरसन को “वन बैटल आफ्टर अनदर” के लिए सर्वश्रेष्ठ निर्देशक चुना गया। उन्होंने सर्वश्रेष्ठ रूपांतरित पटकथा और सर्वश्रेष्ठ छायांकन का पुरस्कार भी जीता। उन्‍होंने अपने निर्देशन का यह […]",
+        "article": "एक्शन थ्रिलर फिल्म वन बैटल आफ्टर अनदर ने 79वें ब्रिटिश अकादमी फिल्म पुरस्कारों -बाफ्टा में धूम मचा दी और सर्वश्रेष्ठ फिल्म समेत छह पुरस्कार जीते। पॉल थॉमस एंडरसन को “वन बैटल आफ्टर अनदर” के लिए सर्वश्रेष्ठ निर्देशक चुना गया। उन्होंने सर्वश्रेष्ठ रूपांतरित पटकथा और सर्वश्रेष्ठ छायांकन का पुरस्कार भी जीता। उन्&#x200d;होंने अपने निर्देशन का यह सम्मान दिवंगत ब्रिटिश निर्माता और सहायक निर्देशक एडम सोमनर को समर्पित किया। वैम्पायर गाथा सिनर्स और गॉथिक हॉरर फिल्म फ्रैंकस्टीन ने तीन-तीन पुरस्कार जीते। रयान कूगलर को सिनर्स के लिए सर्वश्रेष्ठ मूल पटकथा का पुरस्कार मिला, जबकि वुन्मी मोसाकु ने सहायक अभिनेत्री का पुरस्कार जीता। शॉन पेन ने वन बैटल आफ्टर अनदर के लिए सहायक अभिनेता का पुरस्कार जीता। जेसी बकले को हैमनेट के लिए सर्वश्रेष्ठ अभिनेत्री चुना गया, जबकि रॉबर्ट अरामायो ने ब्रिटिश इंडी फिल्म आई स्वियर के लिए सर्वश्रेष्ठ अभिनेता का पुरस्कार जीता, जिसमें उन्होंने लियोनार्डो डिकैप्रियो और टिमोथी चालमेट जैसे नामांकित व्यक्तियों को पीछे छोड़ दिया। हैमनेट ने सर्वश्रेष्ठ ब्रिटिश फिल्म का पुरस्कार भी जीता। लंदन के रॉयल फेस्टिवल हॉल में आयोजित समारोह में हॉलीवुड और ब्रिटिश फिल्&#x200d;मों की कई जानी-मानी हस्तियों के साथ-साथ प्रिंस विलियम और वेल्स की राजकुमारी कैथरीन भी शामिल हुईं। 14 बाफ्टा और 13 ऑस्कर नामांकन के साथ, वन बैटल आफ्टर अनदर अब अकादमी पुरस्कारों में एक मजबूत दावेदार के रूप में प्रवेश कर रही है।",
+        "date": "2026-02-23",
+        "pubDate": "2026-02-23T03:36:35+00:00",
+        "link": "https://newsonair.gov.in/hi/the-film-one-battle-after-another-created-a-stir-at-the-79th-bafta-awards/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/HBykUy4XMAAB08r.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "24वें अंतर्राष्ट्रीय फिल्म महोत्सव का पुणे रंगारंग समापन संपन्न",
+        "summary": "24वां पुणे अंतर्राष्ट्रीय फिल्म महोत्सव का कल रंगारंग समापन हुआ। जाने-माने अभिनेता बिस्वजीत, अभिनेत्री फरीदा जलाल और आशा काले को पुणे अंतर्राष्ट्रीय फिल्म महोत्सव के विशिष्ट पुरस्कार से सम्मानित किया गया। प्रसिद्ध वायलिन वादक और संगीतकार अमर हलादीपुर को एस. डी. बर्मन अंतर्राष्ट्रीय संगीत पुरस्कार से नवाजा गया। सर्वश्रेष्ठ अंतर्राष्ट्रीय फिल्म का पुरस्कार &#8220;द एलिसियन […]",
+        "article": "24वां पुणे अंतर्राष्ट्रीय फिल्म महोत्सव का कल रंगारंग समापन हुआ। जाने-माने अभिनेता बिस्वजीत, अभिनेत्री फरीदा जलाल और आशा काले को पुणे अंतर्राष्ट्रीय फिल्म महोत्सव के विशिष्ट पुरस्कार से सम्मानित किया गया। प्रसिद्ध वायलिन वादक और संगीतकार अमर हलादीपुर को एस. डी. बर्मन अंतर्राष्ट्रीय संगीत पुरस्कार से नवाजा गया। सर्वश्रेष्ठ अंतर्राष्ट्रीय फिल्म का पुरस्कार &#8220;द एलिसियन फील्ड&#8221; को दिया गया, जबकि &#8220;बाप्या&#8221; ने सर्वश्रेष्ठ अंतर्राष्ट्रीय मराठी फिल्म का पुरस्कार जीता।",
+        "date": "2026-01-23",
+        "pubDate": "2026-01-23T04:07:03+00:00",
+        "link": "https://newsonair.gov.in/hi/24th-international-film-festival-of-pune-concludes-with-a-colourful-ceremony/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/पुणे.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "98वें ऑस्कर पुरस्कार की सर्वश्रेष्ठ फीचर फिल्म श्रेणी में नामित हुई भारतीय फिल्म होमबाउंड",
+        "summary": "भारतीय फिल्म होमबाउंड को 98वें ऑस्कर पुरस्कार की सर्वश्रेष्ठ फीचर फिल्म श्रेणी के लिए नामित किया गया है। नीरज घेवान के निर्देशन में बनी यह फिल्म इस श्रेणी के लिए नामित 15 फिल्मों में शामिल है। पुरस्कार के विजेता की घोषणा आगामी 15 मार्च को होगी।",
+        "article": "भारतीय फिल्म होमबाउंड को 98वें ऑस्कर पुरस्कार की सर्वश्रेष्ठ फीचर फिल्म श्रेणी के लिए नामित किया गया है। नीरज घेवान के निर्देशन में बनी यह फिल्म इस श्रेणी के लिए नामित 15 फिल्मों में शामिल है। पुरस्कार के विजेता की घोषणा आगामी 15 मार्च को होगी।",
         "date": "2025-12-17",
-        "pubDate": "2025-12-17T07:59:27+00:00",
-        "link": "https://newsonair.gov.in/mr/oscars-2026-homebound/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G8WwX4naUAA-98j.png",
+        "pubDate": "2025-12-17T08:10:26+00:00",
+        "link": "https://newsonair.gov.in/hi/the-indian-film-homebound-has-been-nominated-in-the-best-feature-film-category-at-the-98th-academy-awards/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/homeeee.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "६४व्या महाराष्ट्र राज्य हौशी मराठी नाट्य स्पर्धेचे निकाल जाहीर",
-        "summary": "६४व्या महाराष्ट्र राज्य हौशी मराठी नाट्य स्पर्धेचे विविध विभागांमधले निकाल जाहीर झाले आहेत. या स्पर्धेत मुंबई केंद्रातून ‘ती, ती आणि ती’ या नाटकाला प्रथम पारितोषिक जाहीर झालं आहे. नाशिक केंद्रातून ‘काळाच्या पंजातून’ या नाटकाला, सांगली केंद्रातून ‘तिचे संदर्भ नसलेली गोष्ट’ या नाटकाला तर लातूर विभागातून ‘दास्तान’ या नाटकाला प्रथम पारितोषिक मिळालं आहे. सिंधुदुर्ग केंद्रातून ‘सूनबाई […]",
-        "article": "६४व्या महाराष्ट्र राज्य हौशी मराठी नाट्य स्पर्धेचे विविध विभागांमधले निकाल जाहीर झाले आहेत. या स्पर्धेत मुंबई केंद्रातून ‘ती, ती आणि ती’ या नाटकाला प्रथम पारितोषिक जाहीर झालं आहे. नाशिक केंद्रातून ‘काळाच्या पंजातून’ या नाटकाला, सांगली केंद्रातून ‘तिचे संदर्भ नसलेली गोष्ट’ या नाटकाला तर लातूर विभागातून ‘दास्तान’ या नाटकाला प्रथम पारितोषिक मिळालं आहे. सिंधुदुर्ग केंद्रातून ‘सूनबाई तोऱ्यात’ या नाटकाला, सातारा केंद्रातून ‘पोकळ घिस्सा’ या नाटकाला तर नांदेड केंद्रातून ‘संपूर्ण’ या नाटकाला प्रथम पारितोषिक जाहीर झालं आहे. चंद्रपूर केंद्रातून ‘तांडा’ या नाटकाला, अमरावती केंद्रातून ‘वारकरी’ या नाटकाला तर पिंपरी चिंचवड केंद्रातून ‘सखा’ या नाटकाला प्रथम क्रमांक मिळाला आहे.",
-        "date": "2025-12-04",
-        "pubDate": "2025-12-04T14:20:50+00:00",
-        "link": "https://newsonair.gov.in/mr/drama-competition/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G7UygscaEAAVyF0.jpg",
+        "title": "प्रख्‍यात अभिनेता कल्याण चट्टोपाध्याय का 82 वर्ष की आयु में निधन",
+        "summary": "प्रख्‍यात अभिनेता कल्याण चट्टोपाध्याय का 82 वर्ष की आयु में निधन हो गया। हाल ही में उन्हें वृद्धावस्था संबंधी बीमारी के कारण अस्पताल में भर्ती कराया गया था और रविवार रात उन्होंने अंतिम सांस ली। केवड़ातला महाश्मशान में उनका अंतिम संस्कार किया गया। पश्चिम बंगाल के मुर्शिदाबाद जिले के बेरहामपुर में वर्ष 1942 में जन्मे, […]",
+        "article": "प्रख्&#x200d;यात अभिनेता कल्याण चट्टोपाध्याय का 82 वर्ष की आयु में निधन हो गया। हाल ही में उन्हें वृद्धावस्था संबंधी बीमारी के कारण अस्पताल में भर्ती कराया गया था और रविवार रात उन्होंने अंतिम सांस ली। केवड़ातला महाश्मशान में उनका अंतिम संस्कार किया गया। पश्चिम बंगाल के मुर्शिदाबाद जिले के बेरहामपुर में वर्ष 1942 में जन्मे, श्री चट्टोपाध्&#x200d;याय ने एफटीआईआई पुणे से स्नातक किया। उन्होंने 1968 में तपन सिन्हा की फिल्म &#8220;अपंजन&#8221; से अपने फिल्मी करियर की शुरुआत की। &nbsp; अभिनेता कल्याण चट्टोपाध्याय ने सत्यजीत रे की &#8220;प्रतिद्वंद्वी&#8221;, तपन सिन्हा की &#8220;सगीना महतो&#8221;, तरुण मजूमदार की &#8220;धन्य मेये&#8221;, साथ ही &#8220;सफेद हाथी&#8221;, &#8220;पार&#8221; और हाल ही में आई हिंदी फिल्म &#8220;कहानी&#8221; में भी अभिनय किया।उन्होंने 400 से अधिक फिल्मों के साथ ही कई टीवी धारावाहिकों में भी अभिनय किया। उनके निधन से फिल्म जगत में शोक की लहर है।",
+        "date": "2025-12-08",
+        "pubDate": "2025-12-08T03:03:45+00:00",
+        "link": "https://newsonair.gov.in/hi/renowned-actor-kalyan-chattopadhyay-passes-away-at-the-age-of-82/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/kalyan.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "नागालँडमध्ये हॉर्नबिल महोत्सवाला सुरुवात",
-        "summary": "नागालँडची राजधानी कोहिमा इथल्या किसामा इथं आज २६व्या हॉर्नबिल महोत्सवाची सुरुवात झाली. नागालँडचे गव्हर्नर अजय कुमार भल्ला, मुख्यमंत्री नेईफिऊ रिओ यांनी महोत्सवाचा औपचारिक प्रारंभ केला. नागालँडच्या राज्यदिनाबरोबरच सुरू होणाऱ्या या १० दिवसांच्या महोत्सवात विविध नागा समुदाय एकत्र येऊन परंपरा, लोककला, संगीत, कला आणि अन्नसंस्कृतीचा आनंद लुटतात. या महोत्सवात यावर्षी युनायटेड किंगडम, आयर्लंड, फ्रान्स, ऑस",
-        "article": "नागालँडची राजधानी कोहिमा इथल्या किसामा इथं आज २६व्या हॉर्नबिल महोत्सवाची सुरुवात झाली. नागालँडचे गव्हर्नर अजय कुमार भल्ला, मुख्यमंत्री नेईफिऊ रिओ यांनी महोत्सवाचा औपचारिक प्रारंभ केला. नागालँडच्या राज्यदिनाबरोबरच सुरू होणाऱ्या या १० दिवसांच्या महोत्सवात विविध नागा समुदाय एकत्र ये ऊन परंपरा, लोककला, संगीत, कला आणि अन्नसंस्कृतीचा आनंद लुटतात. या महोत्सवात यावर्षी युनायटेड किंगडम, आयर्लंड, फ्रान्स, ऑस्ट्रिया, माल्टा आणि स्वित्झर्लंड हे सहा भागीदार देश आहेत.",
-        "date": "2025-12-01",
-        "pubDate": "2025-12-01T15:02:48+00:00",
-        "link": "https://newsonair.gov.in/mr/hornbill-festival-begins-in-nagaland/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/hornbill-fest.jpg",
+        "title": "56वां भारतीय अंतरराष्ट्रीय फिल्म महोत्सव भव्यता के साथ हो रहा है सम्‍पन्‍न",
+        "summary": "56वां भारतीय अंतरराष्ट्रीय फिल्म महोत्सव आज सम्‍पन्‍न हो रहा है। महोत्सव का भव्य उद्घाटन 20 नवंबर को परेड के साथ हुआ था। गोवा के मुख्यमंत्री प्रमोद सावंत, केंद्रीय सूचना और प्रसारण मंत्री अश्विनी वैष्णव तथा सूचना और प्रसारण राज्य मंत्री डॉ. एल. मुरुगन, महोत्सव निदेशक शेखर कपूर के साथ इस समारोह में शामिल […]",
+        "article": "56वां भारतीय अंतरराष्ट्रीय फिल्म महोत्सव आज सम्&#x200d;पन्&#x200d;न हो रहा है। महोत्सव का भव्य उद्घाटन 20 नवंबर को परेड के साथ हुआ था। गोवा के मुख्यमंत्री प्रमोद सावंत, केंद्रीय सूचना और प्रसारण मंत्री अश्विनी वैष्णव तथा सूचना और प्रसारण राज्य मंत्री डॉ. एल. मुरुगन, महोत्सव निदेशक शेखर कपूर के साथ इस समारोह में शामिल होंगे। कई गणमान्य व्यक्तियों के भी इस आयोजन में शामिल होने की आशा है। इस दौरान प्रतिष्ठित गोल्डन पीकॉक अवार्ड, सिल्वर पीकॉक अवार्ड और आईसीएफटी-यूनेस्को गांधी मेडल दिए जाएंगे। इस वर्ष फिल्मोत्सव में 81 देशों की 240 से अधिक फिल्में दिखाई गई जिनमें जापान फोकस कंट्री, स्पेन पार्टनर कंट्री और ऑस्ट्रेलिया स्पॉटलाइट कंट्री रहा।",
+        "date": "2025-11-28",
+        "pubDate": "2025-11-28T12:32:09+00:00",
+        "link": "https://newsonair.gov.in/hi/56%e0%a4%b5%e0%a4%be%e0%a4%82-%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/आईएफएफ.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "मुंबईत सीआयआय बिग पिक्चर समिटचं आयोजन…",
-        "summary": "देशातल्या मनोरंजन आणि माध्यम जगात खूप क्षमता आहे. त्यांचा सुयोग्य वापर होण्याची गरज केंद्रीय माहिती प्रसारण सचिव संजय जाजू यांनी आज व्यक्त केली. मुंबईत सीआयआय बिग पिक्चर समिटमध्ये ते बोलत होते. जागतिक बाजारपेठेत भारताची हिस्सेदारी केवळ २ टक्के आहे. यासंधीचा लाभ घेण्याचं आवाहन त्यांनी उद्योगाला केलं. देशातल्या मनोरंजन उद्योगावर १ कोटीहून अधिक लोकं अवलंबून आहेत. […]",
-        "article": "देशातल्या मनोरंजन आणि माध्यम जगात खूप क्षमता आहे. त्यांचा सुयोग्य वापर होण्याची गरज केंद्रीय माहिती प्रसारण सचिव संजय जाजू यांनी आज व्यक्त केली. मुंबईत सीआयआय बिग पिक्चर समिटमध्ये ते बोलत होते. जागतिक बाजारपेठेत भारताची हिस्सेदारी केवळ २ टक्के आहे. यासंधीचा लाभ घेण्याचं आवाहन त्यांनी उद्योगाला केलं. देशातल्या मनोरंजन उद्योगावर १ कोटीहून अधिक लोकं अवलंबून आहेत. AI आधारित गाणी आणि व्हिडीओ या क्षेत्रातली गणितं बदलत असताना आपणही नवनवीन तंत्रज्ञान आत्मसात करण्याची गरज त्यांनी व्यक्त केली.",
-        "date": "2025-12-01",
-        "pubDate": "2025-12-01T09:44:45+00:00",
-        "link": "https://newsonair.gov.in/mr/cii-big-picture-summit/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/Screenshot-2025-12-01-151404.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतातल्या क्रिएटर्ससाठी ५ नव्या भारतीय भाषांचा समावेश",
-        "summary": "मुंबईत झालेल्या ‘हाऊस ऑफ इंस्टाग्राम’ कार्यक्रमात मेटा प्लॅटफॉर्म्स कंपनीनं भारतातल्या क्रिएटर्ससाठी ५ नव्या भारतीय भाषांचा समावेश केला आहे. यामुळे इंस्टाग्राम, फेसबुकवरील क्रिएटर्स लवकरच त्यांच्या रील्सचे बंगाली, मराठी, तेलुगु, कन्नड आणि तमिळ या भाषांमधे भाषांतर करू शकतील. यासाठी एआय-आधारित ऑटोमॅटिक डबिंग आणि लिप-सिंक सुविधा उपलब्ध करण्यात आली आहे. हे फिचर क्रिएटरच्या मूळ आवाजातील स्वर आणि भावना",
-        "article": "मुंबईत झालेल्या ‘हाऊस ऑफ इंस्टाग्राम’ कार्यक्रमात मेटा प्लॅटफॉर्म्स कंपनीनं भारतातल्या क्रिएटर्ससाठी ५ नव्या भारतीय भाषांचा समावेश केला आहे. यामुळे इंस्टाग्राम, फेसबुकवरील क्रिएटर्स लवकरच त्यांच्या रील्सचे बंगाली, मराठी, तेलुगु, कन्नड आणि तमिळ या भाषांमधे भाषांतर करू शकतील. यासाठी एआय-आधारित ऑटोमॅटिक डबिंग आणि लिप-सिंक सुविधा उपलब्ध करण्यात आली आहे. हे फिचर क्रिएटरच्या मूळ आवाजातील स्वर आणि भावना जुळवून भाषांतरित आवाज तयार करते यामुळे तोंडाच्या हालचाली नव्या भाषेशी हुबेहुब वाटते. यापूर्वी ही सुविधा इंग्रजी, हिंदी, स्पॅनिश आणि पोर्तुगीजपुरती मर्यादित होती. याशिवाय मेटाच्या ‘एडिट्स’ या मोबाईल व्हिडिओ एडिटिंग अ&#x200d;ॅपमध्येही भारतीय भाषांसाठी नवे फॉन्ट्स जोडले जात आहेत. असमिया, बंगाली, हिंदी आणि मराठी भाषांसाठी देवनागरी तसेच बंगाली-असमिया स्क्रिप्टमधील आकर्षक फॉन्ट्स आता अँड्रॉइड अ&#x200d;ॅपमध्ये उपलब्ध होणार आहे.",
-        "date": "2025-11-29",
-        "pubDate": "2025-11-29T12:57:58+00:00",
-        "link": "https://newsonair.gov.in/mr/instagram-facebook-creators/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/Screenshot-2025-11-29-182641.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "इफ्फी महोत्सवाची रंगतदार सोहळ्यानं सांगता",
-        "summary": "५६ व्या भारतीय आंतरराष्ट्रीय चित्रपट महोत्सवाची काल एका रंगतदार सोहळ्यानं सांगता झाली. पणजीमधे गेले ९ दिवस चाललेला सोहळा रसिकांसाठी पर्वणी ठरला. दिग्दर्शन अॅश मेफेअर दिग्दर्शित, व्हिएतनामच्या स्किन ऑफ यूथ या चित्रपटानं या महोत्सवाचा मुकुटमणी असलेल्या सूवर्ण मयूर पुरस्कारावर आपलं नाव कोरलं. &#160; गोंधळ या मराठी चित्रपटासाठी दिग्दर्शक संतोष डावखर यांनी सर्वोत्कृष्ट दिग्दर्शकासाठीचा रौप्य मयूर पुरस्",
-        "article": "५६ व्या भारतीय आंतरराष्ट्रीय चित्रपट महोत्सवाची काल एका रंगतदार सोहळ्यानं सांगता झाली. पणजीमधे गेले ९ दिवस चाललेला सोहळा रसिकांसाठी पर्वणी ठरला. दिग्दर्शन अॅश मेफेअर दिग्दर्शित, व्हिएतनामच्या स्किन ऑफ यूथ या चित्रपटानं या महोत्सवाचा मुकुटमणी असलेल्या सूवर्ण मयूर पुरस्कारावर आपलं नाव कोरलं. &nbsp; गोंधळ या मराठी चित्रपटासाठी दिग्दर्शक संतोष डावखर यांनी सर्वोत्कृष्ट दिग्दर्शकासाठीचा रौप्य मयूर पुरस्कार आपल्या नावे केला, अभिनयाच्या श्रेणीत, कोलंबियन अभिनेता उबेमर रिओस यांना ए पोएट मधील भूमिकेसाठी सर्वोत्कृष्ट अभिनेतेच्या, तर स्लोव्हेनियन चित्रपट लिटल ट्रबल गर्ल्स मधील भूमिकेसाठी जारा सोफिजा ओस्टान यांना सर्वोत्कृष्ट अभिनेत्री म्हणून गौरवलं गेलं. &nbsp; माय फादर्स शॅडो या नायजेरियन चित्रपटानं विशेष ज्युरी पुरस्कार मिळवला, तर सेफ हाऊस या नॉर्वेजियन चित्रपटानं प्रतिष्ठेचं ICFT-UNESCO गांधी पदक आपल्या नावे केलं. ओटीटी व्यासपीठाअंतर्गत बंडिश बँडिट्स सिझन टू ही सर्वोकृष्ट वेब मालिका ठरली, तर भारतीय चित्रपटांसाठी सर्वोत्कृष्ट पदार्पणीय दिग्दर्शक म्हणून केसरी चॅप्टर टू चे दिग्दर्शक करण सिंग त्यागी यांची निवड झाली. &nbsp; या समारोप सोहळ्याचं विशेष आकर्षण ठरलं ते चित्रपटसृष्टीतील ५० वर्षांची कारकीर्द पूर्ण केल्याबद्दल सुपरस्टार रजनीकांत यांना प्रदान करण्यात आलेला जीवनगौरव पुरस्कार. आपल्याला १०० वर्षांनंतरही अभिनेता रजनीकांत म्हणूनच जन्माला यायला आवडेल अशी भावना रजनीकांत यांनी व्यक्त केली. &nbsp; दिवंगत अभिनेते धर्मेंद्र यांच्यासह सिने आणि कला क्षेत्रातील असंख्य भारतीय कलाकारांना महोत्सवात स्मरणांजली वाहिली गेली. याशिवाय सोहळ्याच्या प्रारंभीचा दिव्यांग व्यक्तींचा कलाविष्कार आणि इतर सादरीकरणं ही सिनेरसिकांसाठी पर्वणीच ठरली. &nbsp; एकूणात हा सोहळा भारतीय चित्रपटसृष्टीतील कला आणि तंत्रज्ञानाचा गौरव करणारा आणि त्याचवेळी सिने जगताच्या नव्या वाटचालीची उमेद जागवणारा ठरला.",
-        "date": "2025-11-29",
-        "pubDate": "2025-11-29T09:16:06+00:00",
-        "link": "https://newsonair.gov.in/mr/iffi-2025-10/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/IFFI-2025-4.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अजिंठा – वेरुळ चित्रपट महोत्सवातला प्रतिष्ठेचा पद्मपाणि पुरस्कार ज्येष्ठ संगीतकार इलिया राजा यांना जाहीर",
-        "summary": "अकराव्या अजिंठा वेरुळ आंतरराष्ट्रीय चित्रपट महोत्सवातला प्रतिष्ठेचा पद्मपाणि पुरस्कार यंदा सुप्रसिद्ध संगीतकार इलियाराजा यांना घोषित झाला आहे. २ लाख रुपये स्मृतिचिन्ह, आणि मानपत्र असं पुरस्काराचं स्वरुप आहे. छत्रपती संभाजीनगर इथं येत्या २८ जानेवारीपासून सुरु होणारा हा महोत्सव १ फेब्रुवारीपर्यंत चालणार आहे. प्रदीर्घ संगीतसेवेसाठी इलियाराजा यांना हा पुरस्कार देण्यात येणार आहे.",
-        "article": "अकराव्या अजिंठा वेरुळ आंतरराष्ट्रीय चित्रपट महोत्सवातला प्रतिष्ठेचा पद्मपाणि पुरस्कार यंदा सुप्रसिद्ध संगीतकार इलियाराजा यांना घोषित झाला आहे. २ लाख रुपये स्मृतिचिन्ह, आणि मानपत्र असं पुरस्काराचं स्वरुप आहे. छत्रपती संभाजीनगर इथं येत्या २८ जानेवारीपासून सुरु होणारा हा महोत्सव १ फेब्रुवारीपर्यंत चालणार आहे. प्रदीर्घ संगीतसेवेसाठी इलियाराजा यांना हा पुरस्कार देण्यात येणार आहे.",
-        "date": "2026-01-19",
-        "pubDate": "2026-01-19T08:21:55+00:00",
-        "link": "https://newsonair.gov.in/mr/%e0%a4%85%e0%a4%9c%e0%a4%bf%e0%a4%82%e0%a4%a0%e0%a4%be-%e0%a4%b5%e0%a5%87%e0%a4%b0%e0%a5%81%e0%a4%b3-%e0%a4%9a%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%9f-%e0%a4%ae%e0%a4%b9%e0%a5%8b/",
+        "title": "56वां भारतीय अंतरराष्‍ट्रीय फिल्‍म महोत्‍सव गोवा में शानदार पुरस्‍कार समारोह के साथ सम्‍पन्‍न",
+        "summary": "56वां भारतीय अंतरराष्‍ट्रीय फिल्‍म महोत्‍सव गोवा में शानदार पुरस्‍कार समारोह के साथ सम्‍पन्‍न हो गया। इसमें दुनिया भर की बेहतरीन फिल्मों को सम्मानित किया गया, जो इस वर्ष की फिल्मों के उत्‍सव का यादगार फिनाले था। बेस्ट फीचर फिल्म के लिए प्रतिष्ठित गोल्डन पीकॉक अवॉर्ड वियतनामी फिल्म स्किन ऑफ यूथ को दिया गया, जिसे […]",
+        "article": "56वां भारतीय अंतरराष्&#x200d;ट्रीय फिल्&#x200d;म महोत्&#x200d;सव गोवा में शानदार पुरस्&#x200d;कार समारोह के साथ सम्&#x200d;पन्&#x200d;न हो गया। इसमें दुनिया भर की बेहतरीन फिल्मों को सम्मानित किया गया, जो इस वर्ष की फिल्मों के उत्&#x200d;सव का यादगार फिनाले था। बेस्ट फीचर फिल्म के लिए प्रतिष्ठित गोल्डन पीकॉक अवॉर्ड वियतनामी फिल्म स्किन ऑफ यूथ को दिया गया, जिसे एशले मेफेयर ने डायरेक्ट किया था। सिल्वर पीकॉक कैटेगरी में, संतोष दवाखर ने मराठी फिल्म गोंधल के लिए बेस्ट डायरेक्टर का अवॉर्ड जीता। उबेइमार रियोस को स्पेनिश फिल्म ए पोएट के लिए बेस्ट मेल एक्टर मिला, जबकि जारा सोफिया ओस्तान को स्लोवेनियाई फिल्म लिटिल ट्रबल गर्ल्स में उनके परफॉर्मेंस के लिए बेस्ट फीमेल एक्टर का अवॉर्ड मिला। ईरानी फिल्ममेकर हेसम फरहमंद और एस्टोनियाई डायरेक्टर टोनीस पिल एक डायरेक्टर की बेस्ट डेब्यू फीचर फिल्म के संयुक्&#x200d;त विजेता बने। करण सिंह त्यागी ने केसरी चैप्टर 2 के लिए इंडियन फीचर फिल्म के बेस्ट डेब्यू डायरेक्टर का अवॉर्ड जीता। बेस्ट वेब सीरीज-ओटीटी का अवॉर्ड बंदिश बैंडिट्स सीजन 2 को मिला। शांति और इंटरकल्चरल बातचीत को बढ़ावा देने के लिए नॉर्वे की फिल्म सेफ हाउस को ICFT-UNESCO गांधी मेडल दिया गया। इस वर्ष एक खास बात यह रही कि महान अभिनेता रजनीकांत को भारतीय सिनेमा में 50 वर्ष पूरे करने पर सम्मानित किया गया। उन्होंने शुक्रिया अदा करते हुए कहा कि “यह सम्मान पूरी फिल्म इंडस्ट्री का है। भले ही मुझे सौ जन्म लेने पड़ें, मैं रजनीकांत के रूप में पैदा होना चाहता हूं, क्योंकि मुझे सिनेमा और अभिनय से प्यार है।” फेस्टिवल के खत्म होने के दौरान मुख्&#x200d;यमंत्री डॉ. प्रमोद सावंत ने समारोह को संबोधित किया, उन्होंने कहा कि इस बार इफ्फी पिछले कई दिनों में वैश्विक सहयोग में रचनात्&#x200d;मक लोगों, आर्टिस्ट्री और ब्रिलियंस के शानदार एकजुटता का कॉसंगम था, और गोवा ने आइडिया और कल्चर के असाधारण संगम को देखा है। फिल्ममेकर शेखर कपूर ने कहा कि इफ्फी ने कहानी कहने में नवाचार और परंपरा दोनों का उत्&#x200d;सव मनाते हुए, ग्लोबल क्रिएटिव हब के रूप में भारत की स्थिति को मजबूत करना जारी रखा है।",
+        "date": "2025-11-28",
+        "pubDate": "2025-11-28T15:45:34+00:00",
+        "link": "https://newsonair.gov.in/hi/56%e0%a4%b5%e0%a4%be%e0%a4%82-%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Year End Programme: आत्यंतिक दारिद्र्यात दोन तृतीयांश घट झाल्याचं जागतिक बँकेचा अहवाल",
-        "summary": "२०२५ मधे भारताच्या प्रगतीने जगाचं लक्ष वेधून घेतलं. जगभरात अनिश्चिततेचं वातावरण असताना भारत मात्र आपल्या ध्येयाकडे ठामपणे आणि सातत्यपूर्ण वाटचाल करत राहिला. &#160; गेल्या दशकभरात १७ कोटींहून अधिक नागरिकांना आत्यंतिक दारिद्र्यातून बाहेर काढण्यात यश आल्याबद्दल जागतिक बँकेने भारताचं कौतुक केलं आहे. महाराष्ट्र, बिहार, उत्तरप्रदेश, मध्यप्रदेश आणि पश्चिम बंगाल या राज्यांमधल्या आत्यंतिक दारिद्र्यात दोन त",
-        "article": "२०२५ मधे भारताच्या प्रगतीने जगाचं लक्ष वेधून घेतलं. जगभरात अनिश्चिततेचं वातावरण असताना भारत मात्र आपल्या ध्येयाकडे ठामपणे आणि सातत्यपूर्ण वाटचाल करत राहिला. &nbsp; गेल्या दशकभरात १७ कोटींहून अधिक नागरिकांना आत्यंतिक दारिद्र्यातून बाहेर काढण्यात यश आल्याबद्दल जागतिक बँकेने भारताचं कौतुक केलं आहे. महाराष्ट्र, बिहार, उत्तरप्रदेश, मध्यप्रदेश आणि पश्चिम बंगाल या राज्यांमधल्या आत्यंतिक दारिद्र्यात दोन तृतीयांश घट झाल्याचं जागतिक बँकेच्या अहवालात म्हटलं आहे. गेल्या दहा वर्षांत भारताच्या ग्रामीण भागातल्या आत्यंतिक दारिद्र्याचं प्रमाण अठरा टक्क्यावरून २ पूर्णांक ८ दशांश टक्क्यापर्यंत घसरल्याचं यात म्हटलं आहे. संयुक्त राष्ट्रांच्या शाश्वत विकास उद्दिष्ट निर्देशांकात भारताने पहिल्यांदाच पहिल्या शंभर देशात प्रवेश केला आहे. स्वच्छता, आरोग्य, आर्थिक समावेशन आणि डिजिटल प्रशासन या क्षेत्रातल्या प्रगतीमुळे देशाला हे ध्येय साधता आलं. गेल्या दशकभरात भारतीय नागरिकांच्या जीवनात आर्थिक सुबत्ता आली आहे. जनधन योजनेमुुळे सध्या देशातल्या ८९ टक्के प्रौढ नागरिकांकडे बँक खाती आहेत. या योजनेने नागरिकांसाठी आर्थिक सुबत्तेचं दार उघडून दिल्याचं जागतिक बँकेच्या अहवालात म्हटलं आहे. तसंच प्रधानमंत्री नरेंद्र मोदी हे जगातल्या सर्वात लोकप्रिय नेत्यांपैकी एक असून त्यांना ७५ टक्के लोकांची पसंती असल्याचं अमेरिकेतल्या मॉर्निंग कन्सल्ट या संस्थेच्या अहवालात म्हटलं आहे. भारतातल्या लोकशाही व्यवस्थेबद्दल इथले सर्वाधिक नागरिक समाधानी असल्याचंही यात नमूद करण्यात आलं आहे.",
-        "date": "2026-01-03",
-        "pubDate": "2026-01-03T10:17:48+00:00",
-        "link": "https://newsonair.gov.in/mr/year-end-programme/",
+        "title": "केन्द्रीय मंत्री डॉ. एल. मुरुगन और मुख्यमंत्री मोहन यादव ने नई प्रसारण सेवा और मालवी बोली में बुलेटिन का शुभारंभ",
+        "summary": "मध्य प्रदेश में केंद्रीय सूचना और प्रसारण राज्य मंत्री डॉ. एल. मुरुगन और मुख्यमंत्री डॉ. मोहन यादव ने संयुक्‍त रूप से नई प्रसारण सेवा और मालवी बोली में बुलेटिन का शुभारंभ किया। इस मौके पर आकाशवाणी के महानिदेशक राजीव कुमार जैन भी मौजूद थे। मध्य प्रदेश के पवित्र शहर उज्जैन में नए बने आकाशवाणी […]",
+        "article": "मध्य प्रदेश में केंद्रीय सूचना और प्रसारण राज्य मंत्री डॉ. एल. मुरुगन और मुख्यमंत्री डॉ. मोहन यादव ने संयुक्&#x200d;त रूप से नई प्रसारण सेवा और मालवी बोली में बुलेटिन का शुभारंभ किया। इस मौके पर आकाशवाणी के महानिदेशक राजीव कुमार जैन भी मौजूद थे। मध्य प्रदेश के पवित्र शहर उज्जैन में नए बने आकाशवाणी केन्&#x200d;द्र से कल रेडियो प्रसारण शुरू हो गए। श्रोता पहली बार मालवी बोली में खबरें सुन पाएंगे &#8211; यह इलाके की भाषा और संस्कृति संरक्षण की दिशा में एक बड़ा कदम है। केंद्रीय सूचना और प्रसारण राज्य मंत्री डॉ. एल. मुरुगन ने कहा कि आकाशवाणी का उज्जैन केन्&#x200d;द्र मालवी बोली और इलाके की समृद्ध सांस्कृतिक विरासत को बढ़ावा देने में अहम भूमिका निभाएगा। मुख्यमंत्री ने कहा कि आज़ादी के बाद से ही उज्जैन के लोग अपने शहर से आकाशवाणी के कार्यक्रम सुनना चाहते थे। उन्होंने कहा कि सुनने वालों का यह पुराना सपना अब पूरा हो गया है। उज्जैन केन्&#x200d;द्र से मालवी बोली में खबरें प्रत्&#x200d;येक दिन शाम 7 बजकर 20 मिनट पर प्रसारित की जाएंगी। श्रोता एफएम 102 दशमलव 5 मैगा हार्ट्ज़ पर खबरें पर सुन सकते हैं।",
+        "date": "2025-11-27",
+        "pubDate": "2025-11-27T16:36:28+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%a1%e0%a5%89-%e0%a4%8f%e0%a4%b2-%e0%a4%ae%e0%a5%81-3/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
