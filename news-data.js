@@ -1,8 +1,30 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-06T11:32:02.205003",
+  "generated": "2026-07-06T12:17:33.124146",
   "en": {
     "top": [
+      {
+        "title": "Mourners throng funeral procession in Tehran for Iran’s Supreme Leader Ayatollah Ali Khamenei",
+        "summary": "Mourners dressed in black flooded Iran&#8217;s capital, Tehran, today for a funeral procession honoring the late Supreme Leader Ayatollah Ali Khamenei. Khamenei&#8217;s flag-draped coffin, along with those of several family members who were killed in an airstrike on 28th of February at the outset of the war launched by Israel and the United States, […]",
+        "article": "Mourners dressed in black flooded Iran&#8217;s capital, Tehran, today for a funeral procession honoring the late Supreme Leader Ayatollah Ali Khamenei. Khamenei&#8217;s flag-draped coffin, along with those of several family members who were killed in an airstrike on 28th of February at the outset of the war launched by Israel and the United States, was carried on a truck decorated to resemble the ornate latticework surrounding the shrine of an imam. The massive turnout, encouraged by Iran&#8217;s theocratic leadership as a display of national unity and strength, came as Tehran continues negotiations with the United States over a permanent end to the war that claimed the life of the 86-year-old cleric. Media reports said the crowd appeared to be larger than the one that gathered for the 2020 funeral procession of Revolutionary Guard Gen. Qassem Soleimani, which drew more than one million mourners. Revolutionary Guard Gen. Hasan Hasanzadeh, who is overseeing the funeral procession, said the coffins would be carried through the streets of Tehran during a 12-hour journey to Mehrabad International Airport. Authorities have shut down major streets, closed the country&#8217;s airspace, and suspended much of daily life for the period of mourning, which began on Saturday and will continue through Thursday, when Khamenei will be buried at the Imam Reza shrine in Mashhad, his birthplace.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T12:03:40+00:00",
+        "link": "https://newsonair.gov.in/mourners-throng-funeral-procession-in-tehran-for-irans-supreme-leader-ayatollah-ali-khamenei/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/iran-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NHRC seeks report from Karnataka over Bengaluru quarry tragedy",
+        "summary": "The National Human Rights Commission has issued a notice to the Chief Secretary of Karnataka over the reported death of seven migrant labourers when a massive granite rock fell on them at a quarry in Bengaluru, Karnataka. Taking suo motu cognisance of a media report, the commission has sought a detailed report in the matter […]",
+        "article": "The National Human Rights Commission has issued a notice to the Chief Secretary of Karnataka over the reported death of seven migrant labourers when a massive granite rock fell on them at a quarry in Bengaluru, Karnataka. Taking suo motu cognisance of a media report, the commission has sought a detailed report in the matter within two weeks. The Commission has observed that if the contents of the news report are true, then it raises a serious issue of violation of human rights. The incident took place last week in Bengaluru.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T11:56:57+00:00",
+        "link": "https://newsonair.gov.in/nhrc-seeks-report-from-karnataka-over-bengaluru-quarry-tragedy/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nhrc.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "PM Modi reaches Indonesia in the first leg of 3-nation visit",
         "summary": "Prime Minister Narendra Modi arrived in Indonesia, beginning his high-stakes three-nation Indo-Pacific tour. Upon arrival, Mr Modi was personally received by Indonesian President Prabowo Subianto at the Jakarta airport. Prime Minister Modi was accorded a grand and enthusiastic welcome from the local Indonesian community and the Indian diaspora, featuring traditional Indian and Indonesian cultural",
@@ -103,17 +125,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "17th National Youth Parliament Competition Prize Distribution Function to take place on July 7",
-        "summary": "The Prize Distribution Function of the 17th National Youth Parliament Competition, 2024-25 for Universities and Colleges will be held in New Delhi tomorrow. Students of the University of Kashmir have secured the first position in the competition. Minister of State for Parliamentary Affairs, Arjun Ram Meghwal, will distribute prizes to the winning universities, colleges and […]",
-        "article": "The Prize Distribution Function of the 17th National Youth Parliament Competition, 2024-25 for Universities and Colleges will be held in New Delhi tomorrow. Students of the University of Kashmir have secured the first position in the competition. Minister of State for Parliamentary Affairs, Arjun Ram Meghwal, will distribute prizes to the winning universities, colleges and students for their outstanding performance in the competition. The Ministry has been organising Youth Parliament Competitions for Universities and Colleges for the past 29 years to promote awareness of parliamentary practices and democratic values among students. The 17th National Youth Parliament Competition, 2024-25 was conducted with the participation of 51 universities and colleges from across the country. The Youth Parliament Scheme aims at inculcating the spirit of self-discipline, tolerance of diverse opinion, righteous expression of views and other virtues of a democratic way of life among the younger generations. Besides, the scheme also acquaints the students with the practices and procedures of Parliament, techniques of discussion and debate and develops in them self-confidence, quality of leadership and the art and skill of effective oratory.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T08:37:45+00:00",
-        "link": "https://newsonair.gov.in/17th-national-youth-parliament-competition-prize-distribution-function-to-take-place-on-july-7/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Wildfires rage across Portugal, Greece & Spain as Firefighters intensify efforts",
         "summary": "Hundreds of firefighters battled wildfires in Portugal, Greece and Spain last night, with Spain and Italy sending reinforcements to Portugal to help with a massive blaze burning for more than three days. Authorities urged residents in parts of Thessaloniki, Greece&#8217;s second largest city, to remain indoors and shut their windows and doors due to toxic […]",
         "article": "Hundreds of firefighters battled wildfires in Portugal, Greece and Spain last night, with Spain and Italy sending reinforcements to Portugal to help with a massive blaze burning for more than three days. Authorities urged residents in parts of Thessaloniki, Greece&#8217;s second largest city, to remain indoors and shut their windows and doors due to toxic smoke from a burning recycling plant that was engulfed by a wildfire. Another major wildfire broke out yesterday afternoon west of the Greek capital, Athens. The fire department said 155 firefighters, backed up by volunteers, specialised teams, 16 water-dropping planes and six helicopters were deployed to battle the blaze burning through the pine forest in the Mandra area. In central Portugal&#8217;s Vouzela area, more than 1,200 firefighters, backed up by nearly 400 vehicles and 15 aircraft tried to put out a blaze that broke out on Thursday, according to the Civil Protection authority. The wildfire had burned across an area of 12,000 hectares by yesterday, information from the European Union&#8217;s Copernicus satellite mapping agency showed. The EU Civil Protection and Humanitarian Aid said that Spain sent 120 firefighters and 45 vehicles as reinforcements to Portugal on Friday, while three firefighting aircraft from Italy and Spain were also dispatched to help. In Spain, a wildfire burning since Friday in the northeastern Girona region had burned nearly 2,200 hectares (5,400 acres). According to a local news agency, Catalan Fire Service head of operations Eduard Martinez said the blaze had a perimeter of 40 kilometres (25 miles) and firefighters may not be able to bring it under control yesterday.",
@@ -123,20 +134,20 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ab5092c3dbee6fbb490ed93e536f00bd.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "One killed, several injured in firing by Pakistan Rangers on protesters in PoJK",
-        "summary": "Tensions have escalated in Pakistan-occupied Jammu and Kashmir after one person was killed and several others injured when Pakistan Rangers opened fire on protesters. The incident comes amid a crackdown on demonstrations demanding basic rights, economic relief and political freedoms. Media reports also said that more than 600 civil rights activists have been arrested following […]",
-        "article": "Tensions have escalated in Pakistan-occupied Jammu and Kashmir after one person was killed and several others injured when Pakistan Rangers opened fire on protesters. The incident comes amid a crackdown on demonstrations demanding basic rights, economic relief and political freedoms. Media reports also said that more than 600 civil rights activists have been arrested following anti-Islamabad protests in the region. Meanwhile, overseas Kashmiris held a protest gathering in London yesterday in support of the demonstrators. On the other hand, in Pakistan, protests have also intensified at Karachi&#8217;s Abbasi Shaheed Hospital, where junior doctors are demanding payment of pending stipends, better security and improved hospital facilities. The protesting doctors warned that they would suspend outpatient services if their demands were not addressed.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:20:16+00:00",
-        "link": "https://newsonair.gov.in/one-killed-several-injured-in-firing-by-pakistan-rangers-on-protesters-in-pojk/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "NHRC seeks report from Karnataka over Bengaluru quarry tragedy",
+        "summary": "The National Human Rights Commission has issued a notice to the Chief Secretary of Karnataka over the reported death of seven migrant labourers when a massive granite rock fell on them at a quarry in Bengaluru, Karnataka. Taking suo motu cognisance of a media report, the commission has sought a detailed report in the matter […]",
+        "article": "The National Human Rights Commission has issued a notice to the Chief Secretary of Karnataka over the reported death of seven migrant labourers when a massive granite rock fell on them at a quarry in Bengaluru, Karnataka. Taking suo motu cognisance of a media report, the commission has sought a detailed report in the matter within two weeks. The Commission has observed that if the contents of the news report are true, then it raises a serious issue of violation of human rights. The incident took place last week in Bengaluru.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T11:56:57+00:00",
+        "link": "https://newsonair.gov.in/nhrc-seeks-report-from-karnataka-over-bengaluru-quarry-tragedy/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nhrc.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "PM Modi reaches Indonesia in the first leg of 3-nation visit",
         "summary": "Prime Minister Narendra Modi arrived in Indonesia, beginning his high-stakes three-nation Indo-Pacific tour. Upon arrival, Mr Modi was personally received by Indonesian President Prabowo Subianto at the Jakarta airport. Prime Minister Modi was accorded a grand and enthusiastic welcome from the local Indonesian community and the Indian diaspora, featuring traditional Indian and Indonesian cultural",
@@ -222,17 +233,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-06T08:40:20+00:00",
         "link": "https://newsonair.gov.in/india-to-host-brics-heads-of-anti-drug-agencies-meeting-in-guwahati/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-2-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "17th National Youth Parliament Competition Prize Distribution Function to take place on July 7",
-        "summary": "The Prize Distribution Function of the 17th National Youth Parliament Competition, 2024-25 for Universities and Colleges will be held in New Delhi tomorrow. Students of the University of Kashmir have secured the first position in the competition. Minister of State for Parliamentary Affairs, Arjun Ram Meghwal, will distribute prizes to the winning universities, colleges and […]",
-        "article": "The Prize Distribution Function of the 17th National Youth Parliament Competition, 2024-25 for Universities and Colleges will be held in New Delhi tomorrow. Students of the University of Kashmir have secured the first position in the competition. Minister of State for Parliamentary Affairs, Arjun Ram Meghwal, will distribute prizes to the winning universities, colleges and students for their outstanding performance in the competition. The Ministry has been organising Youth Parliament Competitions for Universities and Colleges for the past 29 years to promote awareness of parliamentary practices and democratic values among students. The 17th National Youth Parliament Competition, 2024-25 was conducted with the participation of 51 universities and colleges from across the country. The Youth Parliament Scheme aims at inculcating the spirit of self-discipline, tolerance of diverse opinion, righteous expression of views and other virtues of a democratic way of life among the younger generations. Besides, the scheme also acquaints the students with the practices and procedures of Parliament, techniques of discussion and debate and develops in them self-confidence, quality of leadership and the art and skill of effective oratory.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T08:37:45+00:00",
-        "link": "https://newsonair.gov.in/17th-national-youth-parliament-competition-prize-distribution-function-to-take-place-on-july-7/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -250,6 +250,17 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "NHRC seeks report from Karnataka over Bengaluru quarry tragedy",
+        "summary": "The National Human Rights Commission has issued a notice to the Chief Secretary of Karnataka over the reported death of seven migrant labourers when a massive granite rock fell on them at a quarry in Bengaluru, Karnataka. Taking suo motu cognisance of a media report, the commission has sought a detailed report in the matter […]",
+        "article": "The National Human Rights Commission has issued a notice to the Chief Secretary of Karnataka over the reported death of seven migrant labourers when a massive granite rock fell on them at a quarry in Bengaluru, Karnataka. Taking suo motu cognisance of a media report, the commission has sought a detailed report in the matter within two weeks. The Commission has observed that if the contents of the news report are true, then it raises a serious issue of violation of human rights. The incident took place last week in Bengaluru.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T11:56:57+00:00",
+        "link": "https://newsonair.gov.in/nhrc-seeks-report-from-karnataka-over-bengaluru-quarry-tragedy/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nhrc.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Modi reaches Indonesia in the first leg of 3-nation visit",
         "summary": "Prime Minister Narendra Modi arrived in Indonesia, beginning his high-stakes three-nation Indo-Pacific tour. Upon arrival, Mr Modi was personally received by Indonesian President Prabowo Subianto at the Jakarta airport. Prime Minister Modi was accorded a grand and enthusiastic welcome from the local Indonesian community and the Indian diaspora, featuring traditional Indian and Indonesian cultural",
         "article": "Prime Minister Narendra Modi arrived in Indonesia, beginning his high-stakes three-nation Indo-Pacific tour. Upon arrival, Mr Modi was personally received by Indonesian President Prabowo Subianto at the Jakarta airport. Prime Minister Modi was accorded a grand and enthusiastic welcome from the local Indonesian community and the Indian diaspora, featuring traditional Indian and Indonesian cultural performances. This is Prime Minister’s fourth visit to Indonesia and his first bilateral visit since the elevation of India-Indonesia ties to the level of Comprehensive Strategic Partnership in May 2018. During the visit, the Prime Minister will hold bilateral discussions with the Indonesian President and review the progress made in the partnership. The Prime Minister will also travel to the cultural and historic city of Yogyakarta, where he will visit the Prambanan Temple complex. India and Indonesia will be collaborating on the conservation work there. In Jakarta, the Prime Minister will address a large gathering of the Indian Diaspora. On the second leg of the visit, Mr Modi will travel to Australia from 8th to 10th of this month. Mr Modi will reach Melbourne, where he will participate in the third India-Australia Annual Summit with Australian Prime Minister Anthony Albanese. The conversations between two leaders will cover emerging areas of the bilateral relations, in particular the critical minerals, the cybersecurity domain, supply chain resilience, emerging technologies, and others. During his visit, the Prime Minister will also participate in the India-Australia CEOs Forum, where he will address a gathering of top business leaders from both countries. Prime Minister will also address a large gathering of the Indian Diaspora, who constitute a strong pillar of the India-Australia relationship. On the third and last leg of his three-nation visit, Mr Modi will travel to New Zealand from 10th to 11th July. Prime Minister Modi will hold talks with his New Zealand counterpart, Christopher Luxon. Both leaders will review the entire gamut of the bilateral relationship, which has seen significant progress in the last two years, especially in the areas of trade and commerce and defence. The visit to New Zealand will be the first visit by the Indian Prime Minister in 40 years. Prime Minister Modi will also interact with prominent business and sports personalities. In a reflection of the strong people-to-people ties that exist between India and New Zealand, the Prime Minister will address a large gathering of the Indian Diaspora during the visit.",
@@ -334,17 +345,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-06T08:40:20+00:00",
         "link": "https://newsonair.gov.in/india-to-host-brics-heads-of-anti-drug-agencies-meeting-in-guwahati/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-2-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "17th National Youth Parliament Competition Prize Distribution Function to take place on July 7",
-        "summary": "The Prize Distribution Function of the 17th National Youth Parliament Competition, 2024-25 for Universities and Colleges will be held in New Delhi tomorrow. Students of the University of Kashmir have secured the first position in the competition. Minister of State for Parliamentary Affairs, Arjun Ram Meghwal, will distribute prizes to the winning universities, colleges and […]",
-        "article": "The Prize Distribution Function of the 17th National Youth Parliament Competition, 2024-25 for Universities and Colleges will be held in New Delhi tomorrow. Students of the University of Kashmir have secured the first position in the competition. Minister of State for Parliamentary Affairs, Arjun Ram Meghwal, will distribute prizes to the winning universities, colleges and students for their outstanding performance in the competition. The Ministry has been organising Youth Parliament Competitions for Universities and Colleges for the past 29 years to promote awareness of parliamentary practices and democratic values among students. The 17th National Youth Parliament Competition, 2024-25 was conducted with the participation of 51 universities and colleges from across the country. The Youth Parliament Scheme aims at inculcating the spirit of self-discipline, tolerance of diverse opinion, righteous expression of views and other virtues of a democratic way of life among the younger generations. Besides, the scheme also acquaints the students with the practices and procedures of Parliament, techniques of discussion and debate and develops in them self-confidence, quality of leadership and the art and skill of effective oratory.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T08:37:45+00:00",
-        "link": "https://newsonair.gov.in/17th-national-youth-parliament-competition-prize-distribution-function-to-take-place-on-july-7/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -362,6 +362,17 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "NHRC seeks report from Karnataka over Bengaluru quarry tragedy",
+        "summary": "The National Human Rights Commission has issued a notice to the Chief Secretary of Karnataka over the reported death of seven migrant labourers when a massive granite rock fell on them at a quarry in Bengaluru, Karnataka. Taking suo motu cognisance of a media report, the commission has sought a detailed report in the matter […]",
+        "article": "The National Human Rights Commission has issued a notice to the Chief Secretary of Karnataka over the reported death of seven migrant labourers when a massive granite rock fell on them at a quarry in Bengaluru, Karnataka. Taking suo motu cognisance of a media report, the commission has sought a detailed report in the matter within two weeks. The Commission has observed that if the contents of the news report are true, then it raises a serious issue of violation of human rights. The incident took place last week in Bengaluru.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T11:56:57+00:00",
+        "link": "https://newsonair.gov.in/nhrc-seeks-report-from-karnataka-over-bengaluru-quarry-tragedy/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nhrc.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Modi reaches Indonesia in the first leg of 3-nation visit",
         "summary": "Prime Minister Narendra Modi arrived in Indonesia, beginning his high-stakes three-nation Indo-Pacific tour. Upon arrival, Mr Modi was personally received by Indonesian President Prabowo Subianto at the Jakarta airport. Prime Minister Modi was accorded a grand and enthusiastic welcome from the local Indonesian community and the Indian diaspora, featuring traditional Indian and Indonesian cultural",
         "article": "Prime Minister Narendra Modi arrived in Indonesia, beginning his high-stakes three-nation Indo-Pacific tour. Upon arrival, Mr Modi was personally received by Indonesian President Prabowo Subianto at the Jakarta airport. Prime Minister Modi was accorded a grand and enthusiastic welcome from the local Indonesian community and the Indian diaspora, featuring traditional Indian and Indonesian cultural performances. This is Prime Minister’s fourth visit to Indonesia and his first bilateral visit since the elevation of India-Indonesia ties to the level of Comprehensive Strategic Partnership in May 2018. During the visit, the Prime Minister will hold bilateral discussions with the Indonesian President and review the progress made in the partnership. The Prime Minister will also travel to the cultural and historic city of Yogyakarta, where he will visit the Prambanan Temple complex. India and Indonesia will be collaborating on the conservation work there. In Jakarta, the Prime Minister will address a large gathering of the Indian Diaspora. On the second leg of the visit, Mr Modi will travel to Australia from 8th to 10th of this month. Mr Modi will reach Melbourne, where he will participate in the third India-Australia Annual Summit with Australian Prime Minister Anthony Albanese. The conversations between two leaders will cover emerging areas of the bilateral relations, in particular the critical minerals, the cybersecurity domain, supply chain resilience, emerging technologies, and others. During his visit, the Prime Minister will also participate in the India-Australia CEOs Forum, where he will address a gathering of top business leaders from both countries. Prime Minister will also address a large gathering of the Indian Diaspora, who constitute a strong pillar of the India-Australia relationship. On the third and last leg of his three-nation visit, Mr Modi will travel to New Zealand from 10th to 11th July. Prime Minister Modi will hold talks with his New Zealand counterpart, Christopher Luxon. Both leaders will review the entire gamut of the bilateral relationship, which has seen significant progress in the last two years, especially in the areas of trade and commerce and defence. The visit to New Zealand will be the first visit by the Indian Prime Minister in 40 years. Prime Minister Modi will also interact with prominent business and sports personalities. In a reflection of the strong people-to-people ties that exist between India and New Zealand, the Prime Minister will address a large gathering of the Indian Diaspora during the visit.",
@@ -450,17 +461,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "17th National Youth Parliament Competition Prize Distribution Function to take place on July 7",
-        "summary": "The Prize Distribution Function of the 17th National Youth Parliament Competition, 2024-25 for Universities and Colleges will be held in New Delhi tomorrow. Students of the University of Kashmir have secured the first position in the competition. Minister of State for Parliamentary Affairs, Arjun Ram Meghwal, will distribute prizes to the winning universities, colleges and […]",
-        "article": "The Prize Distribution Function of the 17th National Youth Parliament Competition, 2024-25 for Universities and Colleges will be held in New Delhi tomorrow. Students of the University of Kashmir have secured the first position in the competition. Minister of State for Parliamentary Affairs, Arjun Ram Meghwal, will distribute prizes to the winning universities, colleges and students for their outstanding performance in the competition. The Ministry has been organising Youth Parliament Competitions for Universities and Colleges for the past 29 years to promote awareness of parliamentary practices and democratic values among students. The 17th National Youth Parliament Competition, 2024-25 was conducted with the participation of 51 universities and colleges from across the country. The Youth Parliament Scheme aims at inculcating the spirit of self-discipline, tolerance of diverse opinion, righteous expression of views and other virtues of a democratic way of life among the younger generations. Besides, the scheme also acquaints the students with the practices and procedures of Parliament, techniques of discussion and debate and develops in them self-confidence, quality of leadership and the art and skill of effective oratory.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T08:37:45+00:00",
-        "link": "https://newsonair.gov.in/17th-national-youth-parliament-competition-prize-distribution-function-to-take-place-on-july-7/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Sahkar Se Samriddhi: Five years of reforms reshape India’s cooperative movement",
         "summary": "The Ministry of Cooperation has completed five years of its journey with a renewed focus on strengthening India’s cooperative movement. Marking its fifth Foundation Day with the vision of Sahakar Se Samriddhi today in New Delhi, the Ministry highlighted major achievements, including the digital transformation of Primary Agricultural Credit Societies, expansion of rural cooperative infrastructure,",
         "article": "The Ministry of Cooperation has completed five years of its journey with a renewed focus on strengthening India’s cooperative movement. Marking its fifth Foundation Day with the vision of Sahakar Se Samriddhi today in New Delhi, the Ministry highlighted major achievements, including the digital transformation of Primary Agricultural Credit Societies, expansion of rural cooperative infrastructure, and new initiatives aimed at boosting dairy, agriculture, banking, and rural livelihoods. To mark the 5th foundation day, the Ministry today transformed 50 thousand Primary Agricultural Credit Societies (PACS) into e-PACS and laid foundation stones for 47 grain storage godowns to strengthen rural storage infrastructure. A Milk Supply Review Dashboard was also launched for the National Dairy Development Board along with two new digital platforms for Urban Cooperative Banks &#8211; Sahakar CBS and Sahakar Sahyogi. The Ministry was established on 6th of July 2021 to provide rural credit to dairy, fisheries, housing, and marketing cooperatives. It has implemented more than 152 reform initiatives since its formation. Cooperative institutions have been established in over two lakh fifty-five thousand Gram Panchayats across the country. More than 6 lakh cooperatives are functional among over 8 lakh registered cooperatives. Meanwhile, the dairy sector is being strengthened under White Revolution 2.0 with a focus on increasing milk procurement by 50 per cent by 2028-29. The Ministry also highlighted the growth of Bharat Taxi, India’s first cooperative-based mobility platform, which now has over six lakh registered drivers and nearly thirty-six lakh customers. These reforms have strengthened grassroots institutions, improved digital access, expanded rural infrastructure, and created new opportunities for farmers, women, and cooperative members.",
@@ -473,6 +473,17 @@ window.VM_NEWS = {
       }
     ],
     "world": [
+      {
+        "title": "Mourners throng funeral procession in Tehran for Iran’s Supreme Leader Ayatollah Ali Khamenei",
+        "summary": "Mourners dressed in black flooded Iran&#8217;s capital, Tehran, today for a funeral procession honoring the late Supreme Leader Ayatollah Ali Khamenei. Khamenei&#8217;s flag-draped coffin, along with those of several family members who were killed in an airstrike on 28th of February at the outset of the war launched by Israel and the United States, […]",
+        "article": "Mourners dressed in black flooded Iran&#8217;s capital, Tehran, today for a funeral procession honoring the late Supreme Leader Ayatollah Ali Khamenei. Khamenei&#8217;s flag-draped coffin, along with those of several family members who were killed in an airstrike on 28th of February at the outset of the war launched by Israel and the United States, was carried on a truck decorated to resemble the ornate latticework surrounding the shrine of an imam. The massive turnout, encouraged by Iran&#8217;s theocratic leadership as a display of national unity and strength, came as Tehran continues negotiations with the United States over a permanent end to the war that claimed the life of the 86-year-old cleric. Media reports said the crowd appeared to be larger than the one that gathered for the 2020 funeral procession of Revolutionary Guard Gen. Qassem Soleimani, which drew more than one million mourners. Revolutionary Guard Gen. Hasan Hasanzadeh, who is overseeing the funeral procession, said the coffins would be carried through the streets of Tehran during a 12-hour journey to Mehrabad International Airport. Authorities have shut down major streets, closed the country&#8217;s airspace, and suspended much of daily life for the period of mourning, which began on Saturday and will continue through Thursday, when Khamenei will be buried at the Imam Reza shrine in Mashhad, his birthplace.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T12:03:40+00:00",
+        "link": "https://newsonair.gov.in/mourners-throng-funeral-procession-in-tehran-for-irans-supreme-leader-ayatollah-ali-khamenei/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/iran-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "10 killed, 46 injured after Russia launches ballistic missile attack on Kyiv, Ukraine",
         "summary": "In Ukraine, at least 10 people were killed and 46 others were injured after Russia launched a ballistic missile attack on the capital, Kyiv, this morning. This came a day before a key NATO summit in Turkey, which US President Donald Trump is expected to attend. Ukraine&#8217;s Air Force said Russia used ballistic missiles, […]",
@@ -558,17 +569,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-05T12:14:55+00:00",
         "link": "https://newsonair.gov.in/north-korea-kim-jong-un-observes-test-of-5000-ton-warship-kang-kon/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Korea.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Venezuela thanks India for help amid massive earthquake",
-        "summary": "Venezuela&#8217;s Acting President Delcy Rodriguez today thanked India for assistance in the wake of massive earthquakes. Rodriguez said that Venezuela will be reborn. In a social media post, Ms Rodriguez said the country honours the rescuers from the United Kingdom, Qatar, France, India, Barbados, Brazil, and Argentina in recognition of their invaluable work and the […]",
-        "article": "Venezuela&#8217;s Acting President Delcy Rodriguez today thanked India for assistance in the wake of massive earthquakes. Rodriguez said that Venezuela will be reborn. In a social media post, Ms Rodriguez said the country honours the rescuers from the United Kingdom, Qatar, France, India, Barbados, Brazil, and Argentina in recognition of their invaluable work and the solidarity they have shown with Venezuela during these days of sorrow. She said Venezuela will never forget their dedication, courage, and commitment.",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T12:06:51+00:00",
-        "link": "https://newsonair.gov.in/venezuela-thanks-india-for-help-amid-massive-earthquake/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/earthquake.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1025,14 +1025,36 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "ईरान के पूर्व सर्वोच्च नेता अयातुल्ला अली ख़ामेनेई की अंतिम यात्रा, बड़ी संख्या में शामिल हुए लोग",
+        "summary": "ईरान की राजधानी तेहरान में आज पूर्व सर्वोच्च नेता अयातुल्ला अली ख़ामेनेई की अंतिम यात्रा में बड़ी संख्या में लोग शामिल हुए। खामेनेई और उनके परिवार के सदस्यों का पार्थिव शरीर एक विशेष वाहन पर रखा गया है। वाहन को एक इमाम की दरगाह की जालीदार बनावट की तरह सजाया गया है। इन लोगों की […]",
+        "article": "ईरान की राजधानी तेहरान में आज पूर्व सर्वोच्च नेता अयातुल्ला अली ख़ामेनेई की अंतिम यात्रा में बड़ी संख्या में लोग शामिल हुए। खामेनेई और उनके परिवार के सदस्यों का पार्थिव शरीर एक विशेष वाहन पर रखा गया है। वाहन को एक इमाम की दरगाह की जालीदार बनावट की तरह सजाया गया है। इन लोगों की 28 फरवरी को इस्राएल और अमरीका की ओर से किए गए हमलों में मृत्&#x200d;यु हो गई थी। अंतिम यात्रा की व्यवस्था संभाल रहे रिवोल्यूशनरी गार्ड के जनरल हसन हसनज़ादेह ने बताया कि पार्थिव शरीरों को लगभग बारह घंटे तक तेहरान की सड़कों से ले जाया जाएगा। इसके बाद उन्हें मेहराबाद अंतरराष्ट्रीय हवाई अड्डे पहुंचाया जाएगा। शोक की अवधि के दौरान प्रशासन ने राजधानी की कई प्रमुख सड़कों को बंद कर दिया है। देश का हवाई क्षेत्र भी अस्थायी रूप से बंद कर दिया गया है और सामान्य जनजीवन पर भी इसका असर पड़ा है। यह शोक शनिवार से शुरू हुआ है और बृहस्पतिवार तक जारी रहेगा। इसके बाद अयातुल्ला अली ख़ामेनेई को उनके जन्मस्थान मशहद स्थित इमाम रज़ा की दरगाह में सुपुर्द-ए-ख़ाक किया जाएगा। इस बीच, ईरान संघर्ष को स्थायी रूप से समाप्त करने के लिए अमरीका के साथ बातचीत भी जारी रखे हुए है।",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T11:46:52+00:00",
+        "link": "https://newsonair.gov.in/hi/the-final-journey-of-irans-former-supreme-leader-ayatollah-ali-khamenei-large-numbers-of-people-participated/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMiY5G2aQAA7xhm.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "इंडोनेशिया पहुंचे पीएम मोदी, जकार्ता हवाई अड्डे पर राष्ट्रपति प्रबावो सुबियांतो ने किया स्वागत",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया में जकार्ता पहुंचे, जहां से उन्होंने अपने तीन देशों के हिंद-प्रशांत दौरे की शुरुआत की। जकार्ता हवाई अड्डे पर इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो ने उनका व्यक्तिगत रूप से स्वागत किया। स्थानीय इंडोनेशियाई समुदाय और भारतीय प्रवासी समुदाय ने प्रधानमंत्री मोदी का भव्य और उत्साहपूर्ण स्वागत किया, जिसमें पारंपरिक भारतीय और […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया में जकार्ता पहुंचे, जहां से उन्होंने अपने तीन देशों के हिंद-प्रशांत दौरे की शुरुआत की। जकार्ता हवाई अड्डे पर इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो ने उनका व्यक्तिगत रूप से स्वागत किया। स्थानीय इंडोनेशियाई समुदाय और भारतीय प्रवासी समुदाय ने प्रधानमंत्री मोदी का भव्य और उत्साहपूर्ण स्वागत किया, जिसमें पारंपरिक भारतीय और इंडोनेशियाई सांस्कृतिक प्रस्तुतियां शामिल थीं। यह प्रधानमंत्री मोदी की इंडोनेशिया की चौथी यात्रा है और मई 2018 में भारत-इंडोनेशिया संबंधों को व्यापक रणनीतिक साझेदारी के स्तर तक उन्नत किए जाने के बाद उनकी पहली द्विपक्षीय यात्रा है। इस यात्रा के दौरान, प्रधानमंत्री इंडोनेशियाई राष्ट्रपति के साथ द्विपक्षीय चर्चा करेंगे और आपसी साझेदारी में हुई प्रगति की समीक्षा करेंगे। प्रधानमंत्री सांस्कृतिक और ऐतिहासिक शहर योग्याकार्ता की यात्रा भी करेंगे, जहां वे प्रंबानन मंदिर परिसर का दौरा करेंगे। भारत और इंडोनेशिया वहां संरक्षण कार्य में सहयोग करेंगे। जकार्ता में, प्रधानमंत्री भारतीय प्रवासी समुदाय की विशाल सभा को संबोधित करेंगे। अपनी यात्रा के दूसरे चरण में, श्री मोदी 8 से 10 जुलाई तक ऑस्ट्रेलिया की यात्रा करेंगे। मेलबर्न पहुंचने पर वे ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। दोनों नेताओं के बीच होने वाली बातचीत में द्विपक्षीय संबंधों के उभरते क्षेत्रों और विशेष रूप से महत्वपूर्ण खनिजों, साइबर सुरक्षा, आपूर्ति श्रृंखला की मजबूती, उभरती प्रौद्योगिकियों और अन्य विषयों पर चर्चा होगी। अपनी यात्रा के दौरान, प्रधानमंत्री भारत-ऑस्ट्रेलिया सीईओ फोरम में भी भाग लेंगे, जहाँ वे दोनों देशों के शीर्ष व्यापारिक नेताओं को संबोधित करेंगे। प्रधानमंत्री प्रवासी भारतीयों को भी संबोधित करेंगे, जो भारत-ऑस्ट्रेलिया संबंधों का एक मजबूत स्तंभ हैं। अपनी तीन देशों की यात्रा के तीसरे और अंतिम चरण में, श्री मोदी 10 से 11 जुलाई तक न्यूजीलैंड की यात्रा करेंगे। प्रधानमंत्री मोदी न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के साथ वार्ता करेंगे। दोनों नेता द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा करेंगे, जिनमें पिछले दो वर्षों में, विशेष रूप से व्यापार और वाणिज्य तथा रक्षा क्षेत्रों में महत्वपूर्ण प्रगति हुई है। न्यूजीलैंड की यह यात्रा भारतीय प्रधानमंत्री की 40 वर्षों में पहली यात्रा होगी। प्रधानमंत्री मोदी प्रमुख व्यापारिक और खेल जगत की हस्तियों से भी बातचीत करेंगे। भारत और न्यूजीलैंड के बीच मजबूत जन-संबंधों को दर्शाते हुए, प्रधानमंत्री न्यूजीलैंड यात्रा के दौरान भारतीय प्रवासी समुदाय को संबोधित करेंगे।",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T11:31:03+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-arrives-in-indonesia-welcomed-by-president-prabowo-subianto-at-jakarta-airport/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/aaaa.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "सूडान में जारी गृहयुद्ध में 300 से अधिक बच्चे हताहत: यूनिसेफ",
         "summary": "संयुक्त राष्ट्र बाल कोष (यूनिसेफ) ने बताया है कि सूडान में पिछले 6 महीनों से जारी युद्ध में 300 से अधिक बच्चे हताहत हुए हैं, जिनमें से अधिकतर ड्रोन हमलों के शिकार हुए हैं। अप्रैल 2023 से सूडानी सेना और रैपिड सपोर्ट फोर्सेज (आर.एस.एफ) के बीच जारी इस युद्ध में, कोरदोफान, दारफुर और ब्लू नाइल […]",
         "article": "संयुक्त राष्ट्र बाल कोष (यूनिसेफ) ने बताया है कि सूडान में पिछले 6 महीनों से जारी युद्ध में 300 से अधिक बच्चे हताहत हुए हैं, जिनमें से अधिकतर ड्रोन हमलों के शिकार हुए हैं। अप्रैल 2023 से सूडानी सेना और रैपिड सपोर्ट फोर्सेज (आर.एस.एफ) के बीच जारी इस युद्ध में, कोरदोफान, दारफुर और ब्लू नाइल राज्यों में 60 प्रतिशत मौतें ड्रोन हमलों से हुई हैं। संयुक्त राष्ट्र, अमरीका और ब्रिटेन सहित कई देशों ने उत्तरी कोरदोफान की राजधानी अल-ओबेद में बड़े पैमाने पर संभावित अत्याचारों को लेकर गंभीर चिंता व्यक्त की है। वैश्विक नेताओं ने दोनों पक्षों से नागरिकों की सुरक्षा सुनिश्चित करने और युद्ध अपराधों को रोकने की अपील की है। संयुक्त राष्ट्र मानवाधिकार परिषद ने जिनेवा में सर्वसम्मति से एक प्रस्ताव को मंजूरी दी है, जिसमें अल-ओबेद शहर और उसके आसपास अर्धसैनिक रैपिड सपोर्ट फोर्सेज तथा उसके सहयोगियों द्वारा बढ़ती हिंसा की कड़ी निंदा की गई है। पांच यूरोपीय देशों द्वारा बिना मतदान के लाए गए इस विधेयक में सूडानी शरणार्थियों को आश्रय देने वाले देशों को अधिक वित्तीय सहायता और समर्थन देने की अपील की गई है तथा युद्ध में किसी भी प्रकार के बाहरी हस्तक्षेप के सभी रूपों की निंदा की गई है। अप्रैल 2023 से जारी इस गृहयुद्ध में अब तक लगभग 59 हजार लोग मारे गए हैं, जबकि करीब 1 करोड़ 30 लाख लोग विस्थापित हुए हैं। सूडान के कई हिस्सों में अकाल पड़ा है। सूडान में यूनिसेफ के प्रतिनिधि शेल्डन येट ने कहा है कि 3 करोड़ से अधिक लोगों को मानवीय सहायता की आवश्यकता है।",
         "date": "2026-07-06",
         "pubDate": "2026-07-06T11:24:38+00:00",
         "link": "https://newsonair.gov.in/hi/over-300-children-casualties-in-ongoing-sudan-civil-war-unicef/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1042,8 +1064,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T11:16:32+00:00",
         "link": "https://newsonair.gov.in/hi/nhrc-issues-notice-regarding-the-alleged-death-of-7-migrant-workers-in-a-bengaluru-mine/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMh3yZYaoAAhcmy.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1051,10 +1073,10 @@ window.VM_NEWS = {
         "summary": "केंद्रीय सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने आज राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की। बैठक में देशभर में बनाए जा रहे बहु-माध्यम माल परिवहन पार्क, रोपवे और राजमार्गों के किनारे यात्रियों के लिए विकसित की जा रही सुविधाओं की प्रगति की समीक्षा की गई। श्री गडकरी ने कहा कि […]",
         "article": "केंद्रीय सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने आज राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की। बैठक में देशभर में बनाए जा रहे बहु-माध्यम माल परिवहन पार्क, रोपवे और राजमार्गों के किनारे यात्रियों के लिए विकसित की जा रही सुविधाओं की प्रगति की समीक्षा की गई। श्री गडकरी ने कहा कि ये योजनाएं देश में आधुनिक और बेहतर परिवहन व्यवस्था बनाने में महत्वपूर्ण भूमिका निभाएंगी। उन्होंने कहा कि इससे सड़क, रेल और अन्य परिवहन साधनों के बीच बेहतर संपर्क स्थापित होगा। केन्&#x200d;द्रीय मंत्री ने कहा कि इनसे नए रोजगार और व्यापार के अवसर बढ़ेंगे, सभी क्षेत्रों का संतुलित विकास होगा और देश की माल परिवहन व्यवस्था अधिक मजबूत बनेगी। बैठक में श्री गडकरी ने योजनाओं के कार्य में आ रही चुनौतियों की भी समीक्षा की। उन्होंने संबंधित अधिकारियों और सभी पक्षों को निर्देश दिए कि सभी बाधाओं को शीघ्र दूर किया जाए और योजनाओं का कार्य तेज़ी से पूरा किया जाए। श्री गडकरी ने कहा कि इन योजनाओं के समय पर पूरा होने से माल परिवहन अधिक आसान और कम खर्चीला होगा। उन्&#x200d;होंने कहा कि इससे यात्रियों को बेहतर सुविधाएं मिलेंगी और देश में विश्वस्तरीय परिवहन ढांचा तैयार होगा।",
         "date": "2026-07-06",
-        "pubDate": "2026-07-06T10:44:20+00:00",
+        "pubDate": "2026-07-06T11:15:20+00:00",
         "link": "https://newsonair.gov.in/hi/union-minister-nitin-gadkari-held-a-review-meeting-of-the-national-highways-logistics-management-limited/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/download.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1064,8 +1086,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:40:49+00:00",
         "link": "https://newsonair.gov.in/hi/prime-minister-modis-six-day-three-nation-visit-begins-today/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260627072ff-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1075,8 +1097,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:39:35+00:00",
         "link": "https://newsonair.gov.in/hi/home-minister-amit-shah-addressed-the-gathering-on-the-occasion-of-the-5th-foundation-day-of-the-ministry-of-cooperation/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMhmui0bEAAapjp.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1086,8 +1108,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:35:44+00:00",
         "link": "https://newsonair.gov.in/hi/over-104-crore-health-cards-linked-to-more-than-93-crore-abha-accounts/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Ayushman-Bharat-Digital-Mission.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1097,8 +1119,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:34:38+00:00",
         "link": "https://newsonair.gov.in/hi/today-is-world-zoonosis-day-dedicated-to-raising-awareness-about-diseases-that-spread-between-humans-and-animals/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMh3PZ8b0AAVvSw.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1108,8 +1130,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:16:06+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0-%e0%a4%a8%e0%a5%87-%e0%a4%97%e0%a5%83%e0%a4%b9-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4-%e0%a4%b6-2/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-06-134530.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1119,8 +1141,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:12:52+00:00",
         "link": "https://newsonair.gov.in/hi/more-than-300-special-trains-will-be-run-for-lord-jagannaths-rath-yatra-this-year-railway-minister-ashwini-vaishnaw/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/09/ashwani-vasnav-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1130,43 +1152,32 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:09:03+00:00",
         "link": "https://newsonair.gov.in/hi/during-his-visit-to-indonesia-prime-minister-modi-will-visit-the-prambanan-temple-in-yogyakarta/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "तेहरान में अली खामेनेई की अंतिम यात्रा शुरू, बड़ी संख्या में लोग शामिल",
-        "summary": "ईरान के दिवंगत सर्वोच्च नेता अली खामेनेई की अंतिम यात्रा राजधानी तेहरान में दो दिवसीय अंतिम दर्शन के बाद शुरू हुई, जिसमें भारी जनसमूह उमड़ पड़ा। खामेनेई और युद्ध में मारे गए उनके परिवार के अन्य सदस्यों के ताबूतों को एक ट्रक में ले जाया जा रहा है। ये ताबूत मेहराबाद अंतरराष्ट्रीय हवाई अड्डे तक […]",
-        "article": "ईरान के दिवंगत सर्वोच्च नेता अली खामेनेई की अंतिम यात्रा राजधानी तेहरान में दो दिवसीय अंतिम दर्शन के बाद शुरू हुई, जिसमें भारी जनसमूह उमड़ पड़ा। खामेनेई और युद्ध में मारे गए उनके परिवार के अन्य सदस्यों के ताबूतों को एक ट्रक में ले जाया जा रहा है। ये ताबूत मेहराबाद अंतरराष्ट्रीय हवाई अड्डे तक तेहरान की सड़कों से होकर गुजरेंगे। ताबूतों को ले जा रही अंतिम यात्रा आज सुबह तेहरान की सड़कों से शुरू हुई।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T07:58:11+00:00",
-        "link": "https://newsonair.gov.in/hi/ali-khameneis-funeral-procession-begins-in-tehran-large-numbers-of-people-are-participating/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी ने आध्‍यात्मिक गुरू दलाई लामा को उनके 91वें जन्मदिन पर हार्दिक शुभकामनाएं दीं",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने आज आध्‍यात्मिक गुरू दलाई लामा को उनके 91वें जन्मदिन पर हार्दिक शुभकामनाएं दीं। सोशल मीडिया पोस्ट में श्री मोदी ने कहा कि शांति और सद्भाव का उनका संदेश विश्व भर के लोगों के लिए मार्गदर्शक रहा है। प्रधानमंत्री ने कहा कि दलाई लामा की नैतिक और आध्यात्मिक शक्ति और वैश्विक भलाई […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने आज आध्&#x200d;यात्मिक गुरू दलाई लामा को उनके 91वें जन्मदिन पर हार्दिक शुभकामनाएं दीं। सोशल मीडिया पोस्ट में श्री मोदी ने कहा कि शांति और सद्भाव का उनका संदेश विश्व भर के लोगों के लिए मार्गदर्शक रहा है। प्रधानमंत्री ने कहा कि दलाई लामा की नैतिक और आध्यात्मिक शक्ति और वैश्विक भलाई के प्रति उनकी प्रतिबद्धता प्रशंसनीय है। उन्होंने दलाई लामा की लंबी आयु और स्वस्थ जीवन की कामना की।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T07:48:17+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-extended-warm-wishes-to-spiritual-leader-the-dalai-lama-on-his-91st-birthday/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260623392f-e1782227130311.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "breaking": [
       {
+        "title": "इंडोनेशिया पहुंचे पीएम मोदी, जकार्ता हवाई अड्डे पर राष्ट्रपति प्रबावो सुबियांतो ने किया स्वागत",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया में जकार्ता पहुंचे, जहां से उन्होंने अपने तीन देशों के हिंद-प्रशांत दौरे की शुरुआत की। जकार्ता हवाई अड्डे पर इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो ने उनका व्यक्तिगत रूप से स्वागत किया। स्थानीय इंडोनेशियाई समुदाय और भारतीय प्रवासी समुदाय ने प्रधानमंत्री मोदी का भव्य और उत्साहपूर्ण स्वागत किया, जिसमें पारंपरिक भारतीय और […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया में जकार्ता पहुंचे, जहां से उन्होंने अपने तीन देशों के हिंद-प्रशांत दौरे की शुरुआत की। जकार्ता हवाई अड्डे पर इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो ने उनका व्यक्तिगत रूप से स्वागत किया। स्थानीय इंडोनेशियाई समुदाय और भारतीय प्रवासी समुदाय ने प्रधानमंत्री मोदी का भव्य और उत्साहपूर्ण स्वागत किया, जिसमें पारंपरिक भारतीय और इंडोनेशियाई सांस्कृतिक प्रस्तुतियां शामिल थीं। यह प्रधानमंत्री मोदी की इंडोनेशिया की चौथी यात्रा है और मई 2018 में भारत-इंडोनेशिया संबंधों को व्यापक रणनीतिक साझेदारी के स्तर तक उन्नत किए जाने के बाद उनकी पहली द्विपक्षीय यात्रा है। इस यात्रा के दौरान, प्रधानमंत्री इंडोनेशियाई राष्ट्रपति के साथ द्विपक्षीय चर्चा करेंगे और आपसी साझेदारी में हुई प्रगति की समीक्षा करेंगे। प्रधानमंत्री सांस्कृतिक और ऐतिहासिक शहर योग्याकार्ता की यात्रा भी करेंगे, जहां वे प्रंबानन मंदिर परिसर का दौरा करेंगे। भारत और इंडोनेशिया वहां संरक्षण कार्य में सहयोग करेंगे। जकार्ता में, प्रधानमंत्री भारतीय प्रवासी समुदाय की विशाल सभा को संबोधित करेंगे। अपनी यात्रा के दूसरे चरण में, श्री मोदी 8 से 10 जुलाई तक ऑस्ट्रेलिया की यात्रा करेंगे। मेलबर्न पहुंचने पर वे ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। दोनों नेताओं के बीच होने वाली बातचीत में द्विपक्षीय संबंधों के उभरते क्षेत्रों और विशेष रूप से महत्वपूर्ण खनिजों, साइबर सुरक्षा, आपूर्ति श्रृंखला की मजबूती, उभरती प्रौद्योगिकियों और अन्य विषयों पर चर्चा होगी। अपनी यात्रा के दौरान, प्रधानमंत्री भारत-ऑस्ट्रेलिया सीईओ फोरम में भी भाग लेंगे, जहाँ वे दोनों देशों के शीर्ष व्यापारिक नेताओं को संबोधित करेंगे। प्रधानमंत्री प्रवासी भारतीयों को भी संबोधित करेंगे, जो भारत-ऑस्ट्रेलिया संबंधों का एक मजबूत स्तंभ हैं। अपनी तीन देशों की यात्रा के तीसरे और अंतिम चरण में, श्री मोदी 10 से 11 जुलाई तक न्यूजीलैंड की यात्रा करेंगे। प्रधानमंत्री मोदी न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के साथ वार्ता करेंगे। दोनों नेता द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा करेंगे, जिनमें पिछले दो वर्षों में, विशेष रूप से व्यापार और वाणिज्य तथा रक्षा क्षेत्रों में महत्वपूर्ण प्रगति हुई है। न्यूजीलैंड की यह यात्रा भारतीय प्रधानमंत्री की 40 वर्षों में पहली यात्रा होगी। प्रधानमंत्री मोदी प्रमुख व्यापारिक और खेल जगत की हस्तियों से भी बातचीत करेंगे। भारत और न्यूजीलैंड के बीच मजबूत जन-संबंधों को दर्शाते हुए, प्रधानमंत्री न्यूजीलैंड यात्रा के दौरान भारतीय प्रवासी समुदाय को संबोधित करेंगे।",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T11:31:03+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-arrives-in-indonesia-welcomed-by-president-prabowo-subianto-at-jakarta-airport/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/aaaa.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "एनएचआरसी ने बेंगलुरु की खदान में 7 प्रवासी मजदूरों की कथित मौत के मामले में जारी किया नोटिस",
         "summary": "राष्ट्रीय मानवाधिकार आयोग (एनएचआरसी) ने कर्नाटक के बेंगलुरु स्थित एक पत्थर की खदान में 7 प्रवासी मजदूरों की कथित मौत के मामले में कर्नाटक के मुख्य सचिव को नोटिस जारी किया है। खबर है कि खदान में ग्रेनाइट की एक चट्टान गिरने से इन मजबूरों की मौत हुई। मीडिया रिपोर्ट का स्वतः संज्ञान लेते हुए […]",
         "article": "राष्ट्रीय मानवाधिकार आयोग (एनएचआरसी) ने कर्नाटक के बेंगलुरु स्थित एक पत्थर की खदान में 7 प्रवासी मजदूरों की कथित मौत के मामले में कर्नाटक के मुख्य सचिव को नोटिस जारी किया है। खबर है कि खदान में ग्रेनाइट की एक चट्टान गिरने से इन मजबूरों की मौत हुई। मीडिया रिपोर्ट का स्वतः संज्ञान लेते हुए आयोग ने दो सप्ताह के भीतर इस मामले पर विस्तृत रिपोर्ट मांगी है। आयोग का मानना ​​है कि यदि समाचार में कही गई बातें सच हैं तो यह मानवाधिकारों के गंभीर उल्लंघन का मामला है। यह घटना पिछले सप्ताह बेंगलुरु में घटी थी।",
         "date": "2026-07-06",
         "pubDate": "2026-07-06T11:16:32+00:00",
         "link": "https://newsonair.gov.in/hi/nhrc-issues-notice-regarding-the-alleged-death-of-7-migrant-workers-in-a-bengaluru-mine/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMh3yZYaoAAhcmy.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1174,10 +1185,10 @@ window.VM_NEWS = {
         "summary": "केंद्रीय सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने आज राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की। बैठक में देशभर में बनाए जा रहे बहु-माध्यम माल परिवहन पार्क, रोपवे और राजमार्गों के किनारे यात्रियों के लिए विकसित की जा रही सुविधाओं की प्रगति की समीक्षा की गई। श्री गडकरी ने कहा कि […]",
         "article": "केंद्रीय सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने आज राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की। बैठक में देशभर में बनाए जा रहे बहु-माध्यम माल परिवहन पार्क, रोपवे और राजमार्गों के किनारे यात्रियों के लिए विकसित की जा रही सुविधाओं की प्रगति की समीक्षा की गई। श्री गडकरी ने कहा कि ये योजनाएं देश में आधुनिक और बेहतर परिवहन व्यवस्था बनाने में महत्वपूर्ण भूमिका निभाएंगी। उन्होंने कहा कि इससे सड़क, रेल और अन्य परिवहन साधनों के बीच बेहतर संपर्क स्थापित होगा। केन्&#x200d;द्रीय मंत्री ने कहा कि इनसे नए रोजगार और व्यापार के अवसर बढ़ेंगे, सभी क्षेत्रों का संतुलित विकास होगा और देश की माल परिवहन व्यवस्था अधिक मजबूत बनेगी। बैठक में श्री गडकरी ने योजनाओं के कार्य में आ रही चुनौतियों की भी समीक्षा की। उन्होंने संबंधित अधिकारियों और सभी पक्षों को निर्देश दिए कि सभी बाधाओं को शीघ्र दूर किया जाए और योजनाओं का कार्य तेज़ी से पूरा किया जाए। श्री गडकरी ने कहा कि इन योजनाओं के समय पर पूरा होने से माल परिवहन अधिक आसान और कम खर्चीला होगा। उन्&#x200d;होंने कहा कि इससे यात्रियों को बेहतर सुविधाएं मिलेंगी और देश में विश्वस्तरीय परिवहन ढांचा तैयार होगा।",
         "date": "2026-07-06",
-        "pubDate": "2026-07-06T10:44:20+00:00",
+        "pubDate": "2026-07-06T11:15:20+00:00",
         "link": "https://newsonair.gov.in/hi/union-minister-nitin-gadkari-held-a-review-meeting-of-the-national-highways-logistics-management-limited/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/download.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1187,8 +1198,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:40:49+00:00",
         "link": "https://newsonair.gov.in/hi/prime-minister-modis-six-day-three-nation-visit-begins-today/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260627072ff-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1198,8 +1209,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:39:35+00:00",
         "link": "https://newsonair.gov.in/hi/home-minister-amit-shah-addressed-the-gathering-on-the-occasion-of-the-5th-foundation-day-of-the-ministry-of-cooperation/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMhmui0bEAAapjp.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1209,8 +1220,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:35:44+00:00",
         "link": "https://newsonair.gov.in/hi/over-104-crore-health-cards-linked-to-more-than-93-crore-abha-accounts/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Ayushman-Bharat-Digital-Mission.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1220,8 +1231,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:34:38+00:00",
         "link": "https://newsonair.gov.in/hi/today-is-world-zoonosis-day-dedicated-to-raising-awareness-about-diseases-that-spread-between-humans-and-animals/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMh3PZ8b0AAVvSw.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1231,8 +1242,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:16:06+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0-%e0%a4%a8%e0%a5%87-%e0%a4%97%e0%a5%83%e0%a4%b9-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4-%e0%a4%b6-2/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-06-134530.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1242,8 +1253,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:12:52+00:00",
         "link": "https://newsonair.gov.in/hi/more-than-300-special-trains-will-be-run-for-lord-jagannaths-rath-yatra-this-year-railway-minister-ashwini-vaishnaw/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/09/ashwani-vasnav-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1253,32 +1264,32 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:09:03+00:00",
         "link": "https://newsonair.gov.in/hi/during-his-visit-to-indonesia-prime-minister-modi-will-visit-the-prambanan-temple-in-yogyakarta/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी ने आध्‍यात्मिक गुरू दलाई लामा को उनके 91वें जन्मदिन पर हार्दिक शुभकामनाएं दीं",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने आज आध्‍यात्मिक गुरू दलाई लामा को उनके 91वें जन्मदिन पर हार्दिक शुभकामनाएं दीं। सोशल मीडिया पोस्ट में श्री मोदी ने कहा कि शांति और सद्भाव का उनका संदेश विश्व भर के लोगों के लिए मार्गदर्शक रहा है। प्रधानमंत्री ने कहा कि दलाई लामा की नैतिक और आध्यात्मिक शक्ति और वैश्विक भलाई […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने आज आध्&#x200d;यात्मिक गुरू दलाई लामा को उनके 91वें जन्मदिन पर हार्दिक शुभकामनाएं दीं। सोशल मीडिया पोस्ट में श्री मोदी ने कहा कि शांति और सद्भाव का उनका संदेश विश्व भर के लोगों के लिए मार्गदर्शक रहा है। प्रधानमंत्री ने कहा कि दलाई लामा की नैतिक और आध्यात्मिक शक्ति और वैश्विक भलाई के प्रति उनकी प्रतिबद्धता प्रशंसनीय है। उन्होंने दलाई लामा की लंबी आयु और स्वस्थ जीवन की कामना की।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T07:48:17+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-extended-warm-wishes-to-spiritual-leader-the-dalai-lama-on-his-91st-birthday/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260623392f-e1782227130311.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "इंडोनेशिया पहुंचे पीएम मोदी, जकार्ता हवाई अड्डे पर राष्ट्रपति प्रबावो सुबियांतो ने किया स्वागत",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया में जकार्ता पहुंचे, जहां से उन्होंने अपने तीन देशों के हिंद-प्रशांत दौरे की शुरुआत की। जकार्ता हवाई अड्डे पर इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो ने उनका व्यक्तिगत रूप से स्वागत किया। स्थानीय इंडोनेशियाई समुदाय और भारतीय प्रवासी समुदाय ने प्रधानमंत्री मोदी का भव्य और उत्साहपूर्ण स्वागत किया, जिसमें पारंपरिक भारतीय और […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया में जकार्ता पहुंचे, जहां से उन्होंने अपने तीन देशों के हिंद-प्रशांत दौरे की शुरुआत की। जकार्ता हवाई अड्डे पर इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो ने उनका व्यक्तिगत रूप से स्वागत किया। स्थानीय इंडोनेशियाई समुदाय और भारतीय प्रवासी समुदाय ने प्रधानमंत्री मोदी का भव्य और उत्साहपूर्ण स्वागत किया, जिसमें पारंपरिक भारतीय और इंडोनेशियाई सांस्कृतिक प्रस्तुतियां शामिल थीं। यह प्रधानमंत्री मोदी की इंडोनेशिया की चौथी यात्रा है और मई 2018 में भारत-इंडोनेशिया संबंधों को व्यापक रणनीतिक साझेदारी के स्तर तक उन्नत किए जाने के बाद उनकी पहली द्विपक्षीय यात्रा है। इस यात्रा के दौरान, प्रधानमंत्री इंडोनेशियाई राष्ट्रपति के साथ द्विपक्षीय चर्चा करेंगे और आपसी साझेदारी में हुई प्रगति की समीक्षा करेंगे। प्रधानमंत्री सांस्कृतिक और ऐतिहासिक शहर योग्याकार्ता की यात्रा भी करेंगे, जहां वे प्रंबानन मंदिर परिसर का दौरा करेंगे। भारत और इंडोनेशिया वहां संरक्षण कार्य में सहयोग करेंगे। जकार्ता में, प्रधानमंत्री भारतीय प्रवासी समुदाय की विशाल सभा को संबोधित करेंगे। अपनी यात्रा के दूसरे चरण में, श्री मोदी 8 से 10 जुलाई तक ऑस्ट्रेलिया की यात्रा करेंगे। मेलबर्न पहुंचने पर वे ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। दोनों नेताओं के बीच होने वाली बातचीत में द्विपक्षीय संबंधों के उभरते क्षेत्रों और विशेष रूप से महत्वपूर्ण खनिजों, साइबर सुरक्षा, आपूर्ति श्रृंखला की मजबूती, उभरती प्रौद्योगिकियों और अन्य विषयों पर चर्चा होगी। अपनी यात्रा के दौरान, प्रधानमंत्री भारत-ऑस्ट्रेलिया सीईओ फोरम में भी भाग लेंगे, जहाँ वे दोनों देशों के शीर्ष व्यापारिक नेताओं को संबोधित करेंगे। प्रधानमंत्री प्रवासी भारतीयों को भी संबोधित करेंगे, जो भारत-ऑस्ट्रेलिया संबंधों का एक मजबूत स्तंभ हैं। अपनी तीन देशों की यात्रा के तीसरे और अंतिम चरण में, श्री मोदी 10 से 11 जुलाई तक न्यूजीलैंड की यात्रा करेंगे। प्रधानमंत्री मोदी न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के साथ वार्ता करेंगे। दोनों नेता द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा करेंगे, जिनमें पिछले दो वर्षों में, विशेष रूप से व्यापार और वाणिज्य तथा रक्षा क्षेत्रों में महत्वपूर्ण प्रगति हुई है। न्यूजीलैंड की यह यात्रा भारतीय प्रधानमंत्री की 40 वर्षों में पहली यात्रा होगी। प्रधानमंत्री मोदी प्रमुख व्यापारिक और खेल जगत की हस्तियों से भी बातचीत करेंगे। भारत और न्यूजीलैंड के बीच मजबूत जन-संबंधों को दर्शाते हुए, प्रधानमंत्री न्यूजीलैंड यात्रा के दौरान भारतीय प्रवासी समुदाय को संबोधित करेंगे।",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T11:31:03+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-arrives-in-indonesia-welcomed-by-president-prabowo-subianto-at-jakarta-airport/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/aaaa.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "एनएचआरसी ने बेंगलुरु की खदान में 7 प्रवासी मजदूरों की कथित मौत के मामले में जारी किया नोटिस",
         "summary": "राष्ट्रीय मानवाधिकार आयोग (एनएचआरसी) ने कर्नाटक के बेंगलुरु स्थित एक पत्थर की खदान में 7 प्रवासी मजदूरों की कथित मौत के मामले में कर्नाटक के मुख्य सचिव को नोटिस जारी किया है। खबर है कि खदान में ग्रेनाइट की एक चट्टान गिरने से इन मजबूरों की मौत हुई। मीडिया रिपोर्ट का स्वतः संज्ञान लेते हुए […]",
         "article": "राष्ट्रीय मानवाधिकार आयोग (एनएचआरसी) ने कर्नाटक के बेंगलुरु स्थित एक पत्थर की खदान में 7 प्रवासी मजदूरों की कथित मौत के मामले में कर्नाटक के मुख्य सचिव को नोटिस जारी किया है। खबर है कि खदान में ग्रेनाइट की एक चट्टान गिरने से इन मजबूरों की मौत हुई। मीडिया रिपोर्ट का स्वतः संज्ञान लेते हुए आयोग ने दो सप्ताह के भीतर इस मामले पर विस्तृत रिपोर्ट मांगी है। आयोग का मानना ​​है कि यदि समाचार में कही गई बातें सच हैं तो यह मानवाधिकारों के गंभीर उल्लंघन का मामला है। यह घटना पिछले सप्ताह बेंगलुरु में घटी थी।",
         "date": "2026-07-06",
         "pubDate": "2026-07-06T11:16:32+00:00",
         "link": "https://newsonair.gov.in/hi/nhrc-issues-notice-regarding-the-alleged-death-of-7-migrant-workers-in-a-bengaluru-mine/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMh3yZYaoAAhcmy.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1286,10 +1297,10 @@ window.VM_NEWS = {
         "summary": "केंद्रीय सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने आज राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की। बैठक में देशभर में बनाए जा रहे बहु-माध्यम माल परिवहन पार्क, रोपवे और राजमार्गों के किनारे यात्रियों के लिए विकसित की जा रही सुविधाओं की प्रगति की समीक्षा की गई। श्री गडकरी ने कहा कि […]",
         "article": "केंद्रीय सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने आज राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की। बैठक में देशभर में बनाए जा रहे बहु-माध्यम माल परिवहन पार्क, रोपवे और राजमार्गों के किनारे यात्रियों के लिए विकसित की जा रही सुविधाओं की प्रगति की समीक्षा की गई। श्री गडकरी ने कहा कि ये योजनाएं देश में आधुनिक और बेहतर परिवहन व्यवस्था बनाने में महत्वपूर्ण भूमिका निभाएंगी। उन्होंने कहा कि इससे सड़क, रेल और अन्य परिवहन साधनों के बीच बेहतर संपर्क स्थापित होगा। केन्&#x200d;द्रीय मंत्री ने कहा कि इनसे नए रोजगार और व्यापार के अवसर बढ़ेंगे, सभी क्षेत्रों का संतुलित विकास होगा और देश की माल परिवहन व्यवस्था अधिक मजबूत बनेगी। बैठक में श्री गडकरी ने योजनाओं के कार्य में आ रही चुनौतियों की भी समीक्षा की। उन्होंने संबंधित अधिकारियों और सभी पक्षों को निर्देश दिए कि सभी बाधाओं को शीघ्र दूर किया जाए और योजनाओं का कार्य तेज़ी से पूरा किया जाए। श्री गडकरी ने कहा कि इन योजनाओं के समय पर पूरा होने से माल परिवहन अधिक आसान और कम खर्चीला होगा। उन्&#x200d;होंने कहा कि इससे यात्रियों को बेहतर सुविधाएं मिलेंगी और देश में विश्वस्तरीय परिवहन ढांचा तैयार होगा।",
         "date": "2026-07-06",
-        "pubDate": "2026-07-06T10:44:20+00:00",
+        "pubDate": "2026-07-06T11:15:20+00:00",
         "link": "https://newsonair.gov.in/hi/union-minister-nitin-gadkari-held-a-review-meeting-of-the-national-highways-logistics-management-limited/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/download.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1299,8 +1310,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:40:49+00:00",
         "link": "https://newsonair.gov.in/hi/prime-minister-modis-six-day-three-nation-visit-begins-today/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260627072ff-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1310,8 +1321,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:39:35+00:00",
         "link": "https://newsonair.gov.in/hi/home-minister-amit-shah-addressed-the-gathering-on-the-occasion-of-the-5th-foundation-day-of-the-ministry-of-cooperation/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMhmui0bEAAapjp.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1321,8 +1332,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:35:44+00:00",
         "link": "https://newsonair.gov.in/hi/over-104-crore-health-cards-linked-to-more-than-93-crore-abha-accounts/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Ayushman-Bharat-Digital-Mission.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1332,8 +1343,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:34:38+00:00",
         "link": "https://newsonair.gov.in/hi/today-is-world-zoonosis-day-dedicated-to-raising-awareness-about-diseases-that-spread-between-humans-and-animals/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMh3PZ8b0AAVvSw.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1343,8 +1354,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:16:06+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0-%e0%a4%a8%e0%a5%87-%e0%a4%97%e0%a5%83%e0%a4%b9-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4-%e0%a4%b6-2/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-06-134530.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1354,8 +1365,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:12:52+00:00",
         "link": "https://newsonair.gov.in/hi/more-than-300-special-trains-will-be-run-for-lord-jagannaths-rath-yatra-this-year-railway-minister-ashwini-vaishnaw/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/09/ashwani-vasnav-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1365,32 +1376,32 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:09:03+00:00",
         "link": "https://newsonair.gov.in/hi/during-his-visit-to-indonesia-prime-minister-modi-will-visit-the-prambanan-temple-in-yogyakarta/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी ने आध्‍यात्मिक गुरू दलाई लामा को उनके 91वें जन्मदिन पर हार्दिक शुभकामनाएं दीं",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने आज आध्‍यात्मिक गुरू दलाई लामा को उनके 91वें जन्मदिन पर हार्दिक शुभकामनाएं दीं। सोशल मीडिया पोस्ट में श्री मोदी ने कहा कि शांति और सद्भाव का उनका संदेश विश्व भर के लोगों के लिए मार्गदर्शक रहा है। प्रधानमंत्री ने कहा कि दलाई लामा की नैतिक और आध्यात्मिक शक्ति और वैश्विक भलाई […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने आज आध्&#x200d;यात्मिक गुरू दलाई लामा को उनके 91वें जन्मदिन पर हार्दिक शुभकामनाएं दीं। सोशल मीडिया पोस्ट में श्री मोदी ने कहा कि शांति और सद्भाव का उनका संदेश विश्व भर के लोगों के लिए मार्गदर्शक रहा है। प्रधानमंत्री ने कहा कि दलाई लामा की नैतिक और आध्यात्मिक शक्ति और वैश्विक भलाई के प्रति उनकी प्रतिबद्धता प्रशंसनीय है। उन्होंने दलाई लामा की लंबी आयु और स्वस्थ जीवन की कामना की।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T07:48:17+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-extended-warm-wishes-to-spiritual-leader-the-dalai-lama-on-his-91st-birthday/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260623392f-e1782227130311.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "इंडोनेशिया पहुंचे पीएम मोदी, जकार्ता हवाई अड्डे पर राष्ट्रपति प्रबावो सुबियांतो ने किया स्वागत",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया में जकार्ता पहुंचे, जहां से उन्होंने अपने तीन देशों के हिंद-प्रशांत दौरे की शुरुआत की। जकार्ता हवाई अड्डे पर इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो ने उनका व्यक्तिगत रूप से स्वागत किया। स्थानीय इंडोनेशियाई समुदाय और भारतीय प्रवासी समुदाय ने प्रधानमंत्री मोदी का भव्य और उत्साहपूर्ण स्वागत किया, जिसमें पारंपरिक भारतीय और […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया में जकार्ता पहुंचे, जहां से उन्होंने अपने तीन देशों के हिंद-प्रशांत दौरे की शुरुआत की। जकार्ता हवाई अड्डे पर इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो ने उनका व्यक्तिगत रूप से स्वागत किया। स्थानीय इंडोनेशियाई समुदाय और भारतीय प्रवासी समुदाय ने प्रधानमंत्री मोदी का भव्य और उत्साहपूर्ण स्वागत किया, जिसमें पारंपरिक भारतीय और इंडोनेशियाई सांस्कृतिक प्रस्तुतियां शामिल थीं। यह प्रधानमंत्री मोदी की इंडोनेशिया की चौथी यात्रा है और मई 2018 में भारत-इंडोनेशिया संबंधों को व्यापक रणनीतिक साझेदारी के स्तर तक उन्नत किए जाने के बाद उनकी पहली द्विपक्षीय यात्रा है। इस यात्रा के दौरान, प्रधानमंत्री इंडोनेशियाई राष्ट्रपति के साथ द्विपक्षीय चर्चा करेंगे और आपसी साझेदारी में हुई प्रगति की समीक्षा करेंगे। प्रधानमंत्री सांस्कृतिक और ऐतिहासिक शहर योग्याकार्ता की यात्रा भी करेंगे, जहां वे प्रंबानन मंदिर परिसर का दौरा करेंगे। भारत और इंडोनेशिया वहां संरक्षण कार्य में सहयोग करेंगे। जकार्ता में, प्रधानमंत्री भारतीय प्रवासी समुदाय की विशाल सभा को संबोधित करेंगे। अपनी यात्रा के दूसरे चरण में, श्री मोदी 8 से 10 जुलाई तक ऑस्ट्रेलिया की यात्रा करेंगे। मेलबर्न पहुंचने पर वे ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। दोनों नेताओं के बीच होने वाली बातचीत में द्विपक्षीय संबंधों के उभरते क्षेत्रों और विशेष रूप से महत्वपूर्ण खनिजों, साइबर सुरक्षा, आपूर्ति श्रृंखला की मजबूती, उभरती प्रौद्योगिकियों और अन्य विषयों पर चर्चा होगी। अपनी यात्रा के दौरान, प्रधानमंत्री भारत-ऑस्ट्रेलिया सीईओ फोरम में भी भाग लेंगे, जहाँ वे दोनों देशों के शीर्ष व्यापारिक नेताओं को संबोधित करेंगे। प्रधानमंत्री प्रवासी भारतीयों को भी संबोधित करेंगे, जो भारत-ऑस्ट्रेलिया संबंधों का एक मजबूत स्तंभ हैं। अपनी तीन देशों की यात्रा के तीसरे और अंतिम चरण में, श्री मोदी 10 से 11 जुलाई तक न्यूजीलैंड की यात्रा करेंगे। प्रधानमंत्री मोदी न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के साथ वार्ता करेंगे। दोनों नेता द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा करेंगे, जिनमें पिछले दो वर्षों में, विशेष रूप से व्यापार और वाणिज्य तथा रक्षा क्षेत्रों में महत्वपूर्ण प्रगति हुई है। न्यूजीलैंड की यह यात्रा भारतीय प्रधानमंत्री की 40 वर्षों में पहली यात्रा होगी। प्रधानमंत्री मोदी प्रमुख व्यापारिक और खेल जगत की हस्तियों से भी बातचीत करेंगे। भारत और न्यूजीलैंड के बीच मजबूत जन-संबंधों को दर्शाते हुए, प्रधानमंत्री न्यूजीलैंड यात्रा के दौरान भारतीय प्रवासी समुदाय को संबोधित करेंगे।",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T11:31:03+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-arrives-in-indonesia-welcomed-by-president-prabowo-subianto-at-jakarta-airport/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/aaaa.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "एनएचआरसी ने बेंगलुरु की खदान में 7 प्रवासी मजदूरों की कथित मौत के मामले में जारी किया नोटिस",
         "summary": "राष्ट्रीय मानवाधिकार आयोग (एनएचआरसी) ने कर्नाटक के बेंगलुरु स्थित एक पत्थर की खदान में 7 प्रवासी मजदूरों की कथित मौत के मामले में कर्नाटक के मुख्य सचिव को नोटिस जारी किया है। खबर है कि खदान में ग्रेनाइट की एक चट्टान गिरने से इन मजबूरों की मौत हुई। मीडिया रिपोर्ट का स्वतः संज्ञान लेते हुए […]",
         "article": "राष्ट्रीय मानवाधिकार आयोग (एनएचआरसी) ने कर्नाटक के बेंगलुरु स्थित एक पत्थर की खदान में 7 प्रवासी मजदूरों की कथित मौत के मामले में कर्नाटक के मुख्य सचिव को नोटिस जारी किया है। खबर है कि खदान में ग्रेनाइट की एक चट्टान गिरने से इन मजबूरों की मौत हुई। मीडिया रिपोर्ट का स्वतः संज्ञान लेते हुए आयोग ने दो सप्ताह के भीतर इस मामले पर विस्तृत रिपोर्ट मांगी है। आयोग का मानना ​​है कि यदि समाचार में कही गई बातें सच हैं तो यह मानवाधिकारों के गंभीर उल्लंघन का मामला है। यह घटना पिछले सप्ताह बेंगलुरु में घटी थी।",
         "date": "2026-07-06",
         "pubDate": "2026-07-06T11:16:32+00:00",
         "link": "https://newsonair.gov.in/hi/nhrc-issues-notice-regarding-the-alleged-death-of-7-migrant-workers-in-a-bengaluru-mine/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMh3yZYaoAAhcmy.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1398,10 +1409,10 @@ window.VM_NEWS = {
         "summary": "केंद्रीय सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने आज राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की। बैठक में देशभर में बनाए जा रहे बहु-माध्यम माल परिवहन पार्क, रोपवे और राजमार्गों के किनारे यात्रियों के लिए विकसित की जा रही सुविधाओं की प्रगति की समीक्षा की गई। श्री गडकरी ने कहा कि […]",
         "article": "केंद्रीय सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने आज राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की। बैठक में देशभर में बनाए जा रहे बहु-माध्यम माल परिवहन पार्क, रोपवे और राजमार्गों के किनारे यात्रियों के लिए विकसित की जा रही सुविधाओं की प्रगति की समीक्षा की गई। श्री गडकरी ने कहा कि ये योजनाएं देश में आधुनिक और बेहतर परिवहन व्यवस्था बनाने में महत्वपूर्ण भूमिका निभाएंगी। उन्होंने कहा कि इससे सड़क, रेल और अन्य परिवहन साधनों के बीच बेहतर संपर्क स्थापित होगा। केन्&#x200d;द्रीय मंत्री ने कहा कि इनसे नए रोजगार और व्यापार के अवसर बढ़ेंगे, सभी क्षेत्रों का संतुलित विकास होगा और देश की माल परिवहन व्यवस्था अधिक मजबूत बनेगी। बैठक में श्री गडकरी ने योजनाओं के कार्य में आ रही चुनौतियों की भी समीक्षा की। उन्होंने संबंधित अधिकारियों और सभी पक्षों को निर्देश दिए कि सभी बाधाओं को शीघ्र दूर किया जाए और योजनाओं का कार्य तेज़ी से पूरा किया जाए। श्री गडकरी ने कहा कि इन योजनाओं के समय पर पूरा होने से माल परिवहन अधिक आसान और कम खर्चीला होगा। उन्&#x200d;होंने कहा कि इससे यात्रियों को बेहतर सुविधाएं मिलेंगी और देश में विश्वस्तरीय परिवहन ढांचा तैयार होगा।",
         "date": "2026-07-06",
-        "pubDate": "2026-07-06T10:44:20+00:00",
+        "pubDate": "2026-07-06T11:15:20+00:00",
         "link": "https://newsonair.gov.in/hi/union-minister-nitin-gadkari-held-a-review-meeting-of-the-national-highways-logistics-management-limited/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/download.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1411,8 +1422,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:40:49+00:00",
         "link": "https://newsonair.gov.in/hi/prime-minister-modis-six-day-three-nation-visit-begins-today/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260627072ff-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1422,8 +1433,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:39:35+00:00",
         "link": "https://newsonair.gov.in/hi/home-minister-amit-shah-addressed-the-gathering-on-the-occasion-of-the-5th-foundation-day-of-the-ministry-of-cooperation/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMhmui0bEAAapjp.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1433,8 +1444,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:35:44+00:00",
         "link": "https://newsonair.gov.in/hi/over-104-crore-health-cards-linked-to-more-than-93-crore-abha-accounts/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Ayushman-Bharat-Digital-Mission.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1444,8 +1455,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:34:38+00:00",
         "link": "https://newsonair.gov.in/hi/today-is-world-zoonosis-day-dedicated-to-raising-awareness-about-diseases-that-spread-between-humans-and-animals/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMh3PZ8b0AAVvSw.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1455,8 +1466,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:16:06+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0-%e0%a4%a8%e0%a5%87-%e0%a4%97%e0%a5%83%e0%a4%b9-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4-%e0%a4%b6-2/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-06-134530.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1466,8 +1477,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:12:52+00:00",
         "link": "https://newsonair.gov.in/hi/more-than-300-special-trains-will-be-run-for-lord-jagannaths-rath-yatra-this-year-railway-minister-ashwini-vaishnaw/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/09/ashwani-vasnav-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1477,23 +1488,23 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T08:09:03+00:00",
         "link": "https://newsonair.gov.in/hi/during-his-visit-to-indonesia-prime-minister-modi-will-visit-the-prambanan-temple-in-yogyakarta/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी ने आध्‍यात्मिक गुरू दलाई लामा को उनके 91वें जन्मदिन पर हार्दिक शुभकामनाएं दीं",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने आज आध्‍यात्मिक गुरू दलाई लामा को उनके 91वें जन्मदिन पर हार्दिक शुभकामनाएं दीं। सोशल मीडिया पोस्ट में श्री मोदी ने कहा कि शांति और सद्भाव का उनका संदेश विश्व भर के लोगों के लिए मार्गदर्शक रहा है। प्रधानमंत्री ने कहा कि दलाई लामा की नैतिक और आध्यात्मिक शक्ति और वैश्विक भलाई […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने आज आध्&#x200d;यात्मिक गुरू दलाई लामा को उनके 91वें जन्मदिन पर हार्दिक शुभकामनाएं दीं। सोशल मीडिया पोस्ट में श्री मोदी ने कहा कि शांति और सद्भाव का उनका संदेश विश्व भर के लोगों के लिए मार्गदर्शक रहा है। प्रधानमंत्री ने कहा कि दलाई लामा की नैतिक और आध्यात्मिक शक्ति और वैश्विक भलाई के प्रति उनकी प्रतिबद्धता प्रशंसनीय है। उन्होंने दलाई लामा की लंबी आयु और स्वस्थ जीवन की कामना की।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T07:48:17+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-extended-warm-wishes-to-spiritual-leader-the-dalai-lama-on-his-91st-birthday/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260623392f-e1782227130311.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "ईरान के पूर्व सर्वोच्च नेता अयातुल्ला अली ख़ामेनेई की अंतिम यात्रा, बड़ी संख्या में शामिल हुए लोग",
+        "summary": "ईरान की राजधानी तेहरान में आज पूर्व सर्वोच्च नेता अयातुल्ला अली ख़ामेनेई की अंतिम यात्रा में बड़ी संख्या में लोग शामिल हुए। खामेनेई और उनके परिवार के सदस्यों का पार्थिव शरीर एक विशेष वाहन पर रखा गया है। वाहन को एक इमाम की दरगाह की जालीदार बनावट की तरह सजाया गया है। इन लोगों की […]",
+        "article": "ईरान की राजधानी तेहरान में आज पूर्व सर्वोच्च नेता अयातुल्ला अली ख़ामेनेई की अंतिम यात्रा में बड़ी संख्या में लोग शामिल हुए। खामेनेई और उनके परिवार के सदस्यों का पार्थिव शरीर एक विशेष वाहन पर रखा गया है। वाहन को एक इमाम की दरगाह की जालीदार बनावट की तरह सजाया गया है। इन लोगों की 28 फरवरी को इस्राएल और अमरीका की ओर से किए गए हमलों में मृत्&#x200d;यु हो गई थी। अंतिम यात्रा की व्यवस्था संभाल रहे रिवोल्यूशनरी गार्ड के जनरल हसन हसनज़ादेह ने बताया कि पार्थिव शरीरों को लगभग बारह घंटे तक तेहरान की सड़कों से ले जाया जाएगा। इसके बाद उन्हें मेहराबाद अंतरराष्ट्रीय हवाई अड्डे पहुंचाया जाएगा। शोक की अवधि के दौरान प्रशासन ने राजधानी की कई प्रमुख सड़कों को बंद कर दिया है। देश का हवाई क्षेत्र भी अस्थायी रूप से बंद कर दिया गया है और सामान्य जनजीवन पर भी इसका असर पड़ा है। यह शोक शनिवार से शुरू हुआ है और बृहस्पतिवार तक जारी रहेगा। इसके बाद अयातुल्ला अली ख़ामेनेई को उनके जन्मस्थान मशहद स्थित इमाम रज़ा की दरगाह में सुपुर्द-ए-ख़ाक किया जाएगा। इस बीच, ईरान संघर्ष को स्थायी रूप से समाप्त करने के लिए अमरीका के साथ बातचीत भी जारी रखे हुए है।",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T11:46:52+00:00",
+        "link": "https://newsonair.gov.in/hi/the-final-journey-of-irans-former-supreme-leader-ayatollah-ali-khamenei-large-numbers-of-people-participated/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMiY5G2aQAA7xhm.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "सूडान में जारी गृहयुद्ध में 300 से अधिक बच्चे हताहत: यूनिसेफ",
         "summary": "संयुक्त राष्ट्र बाल कोष (यूनिसेफ) ने बताया है कि सूडान में पिछले 6 महीनों से जारी युद्ध में 300 से अधिक बच्चे हताहत हुए हैं, जिनमें से अधिकतर ड्रोन हमलों के शिकार हुए हैं। अप्रैल 2023 से सूडानी सेना और रैपिड सपोर्ट फोर्सेज (आर.एस.एफ) के बीच जारी इस युद्ध में, कोरदोफान, दारफुर और ब्लू नाइल […]",
@@ -1501,8 +1512,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T11:24:38+00:00",
         "link": "https://newsonair.gov.in/hi/over-300-children-casualties-in-ongoing-sudan-civil-war-unicef/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1512,8 +1523,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T07:58:11+00:00",
         "link": "https://newsonair.gov.in/hi/ali-khameneis-funeral-procession-begins-in-tehran-large-numbers-of-people-are-participating/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shanghai-7-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1523,8 +1534,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T06:15:17+00:00",
         "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-congratulated-the-government-of-the-union-of-the-comoros-on-its-independence-day/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMhPwv5agAA3ojl.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1534,8 +1545,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T06:09:28+00:00",
         "link": "https://newsonair.gov.in/hi/russia-attacked-kyiv-with-a-ballistic-missile/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMhaj1CaMAAzSaP.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1545,8 +1556,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T03:29:40+00:00",
         "link": "https://newsonair.gov.in/hi/the-organization-of-the-petroleum-exporting-countries-opec-and-10-other-major-non-opec-oil-producing-nations-including-russia-have-considered-increasing-oil-production-next-month/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/oil-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1556,8 +1567,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T03:19:48+00:00",
         "link": "https://newsonair.gov.in/hi/hundreds-of-firefighters-are-battling-massive-wildfires-in-portugal-greece-and-spain/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/000-68V769L-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1567,8 +1578,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T03:13:22+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%9a%e0%a4%a3%e0%a5%8d%e0%a4%a1-%e0%a4%a4%e0%a5%82%e0%a4%ab%e0%a4%be%e0%a4%a8-%e0%a4%ac%e0%a4%be%e0%a4%b5%e0%a5%80-%e0%a4%95%e0%a5%87-%e0%a4%b8%e0%a4%be%e0%a4%a5/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1578,28 +1589,18 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T03:11:07+00:00",
         "link": "https://newsonair.gov.in/hi/the-iranian-embassy-expressed-gratitude-to-the-government-of-india-for-attending-the-funeral-of-former-supreme-leader-ayatollah-seyyed-ali-khamenei/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-8-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "वेनेजुएला में भूकंप से मरने वालों की संख्या 3,342 हुई",
-        "summary": "वेनेजुएला में भूकंप में मरने वालों की संख्या बढ़कर 3 हजार 342 हो गई है। 16 हजार 740 लोग घायल हैं और सत्रह हजार से अधिक लोग विस्थापित हुए हैं। नेशनल असेंबली के अध्यक्ष जॉर्ज रोड्रिगेज ने बताया कि विस्थापित और पीड़ित लोगों की सहायता के लिए 80 अस्थायी शिविर स्थापित किए गये हैं। 24 […]",
-        "article": "वेनेजुएला में भूकंप में मरने वालों की संख्या बढ़कर 3 हजार 342 हो गई है। 16 हजार 740 लोग घायल हैं और सत्रह हजार से अधिक लोग विस्थापित हुए हैं। नेशनल असेंबली के अध्यक्ष जॉर्ज रोड्रिगेज ने बताया कि विस्थापित और पीड़ित लोगों की सहायता के लिए 80 अस्थायी शिविर स्थापित किए गये हैं। 24 जून को वेनेजुएला में 7 दशमलव 2 और 7 दशमलव 5 तीव्रता का भीषण भूकंप आया था।",
+        "title": "इंडोनेशिया पहुंचे पीएम मोदी, जकार्ता हवाई अड्डे पर राष्ट्रपति प्रबावो सुबियांतो ने किया स्वागत",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया में जकार्ता पहुंचे, जहां से उन्होंने अपने तीन देशों के हिंद-प्रशांत दौरे की शुरुआत की। जकार्ता हवाई अड्डे पर इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो ने उनका व्यक्तिगत रूप से स्वागत किया। स्थानीय इंडोनेशियाई समुदाय और भारतीय प्रवासी समुदाय ने प्रधानमंत्री मोदी का भव्य और उत्साहपूर्ण स्वागत किया, जिसमें पारंपरिक भारतीय और […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया में जकार्ता पहुंचे, जहां से उन्होंने अपने तीन देशों के हिंद-प्रशांत दौरे की शुरुआत की। जकार्ता हवाई अड्डे पर इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो ने उनका व्यक्तिगत रूप से स्वागत किया। स्थानीय इंडोनेशियाई समुदाय और भारतीय प्रवासी समुदाय ने प्रधानमंत्री मोदी का भव्य और उत्साहपूर्ण स्वागत किया, जिसमें पारंपरिक भारतीय और इंडोनेशियाई सांस्कृतिक प्रस्तुतियां शामिल थीं। यह प्रधानमंत्री मोदी की इंडोनेशिया की चौथी यात्रा है और मई 2018 में भारत-इंडोनेशिया संबंधों को व्यापक रणनीतिक साझेदारी के स्तर तक उन्नत किए जाने के बाद उनकी पहली द्विपक्षीय यात्रा है। इस यात्रा के दौरान, प्रधानमंत्री इंडोनेशियाई राष्ट्रपति के साथ द्विपक्षीय चर्चा करेंगे और आपसी साझेदारी में हुई प्रगति की समीक्षा करेंगे। प्रधानमंत्री सांस्कृतिक और ऐतिहासिक शहर योग्याकार्ता की यात्रा भी करेंगे, जहां वे प्रंबानन मंदिर परिसर का दौरा करेंगे। भारत और इंडोनेशिया वहां संरक्षण कार्य में सहयोग करेंगे। जकार्ता में, प्रधानमंत्री भारतीय प्रवासी समुदाय की विशाल सभा को संबोधित करेंगे। अपनी यात्रा के दूसरे चरण में, श्री मोदी 8 से 10 जुलाई तक ऑस्ट्रेलिया की यात्रा करेंगे। मेलबर्न पहुंचने पर वे ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। दोनों नेताओं के बीच होने वाली बातचीत में द्विपक्षीय संबंधों के उभरते क्षेत्रों और विशेष रूप से महत्वपूर्ण खनिजों, साइबर सुरक्षा, आपूर्ति श्रृंखला की मजबूती, उभरती प्रौद्योगिकियों और अन्य विषयों पर चर्चा होगी। अपनी यात्रा के दौरान, प्रधानमंत्री भारत-ऑस्ट्रेलिया सीईओ फोरम में भी भाग लेंगे, जहाँ वे दोनों देशों के शीर्ष व्यापारिक नेताओं को संबोधित करेंगे। प्रधानमंत्री प्रवासी भारतीयों को भी संबोधित करेंगे, जो भारत-ऑस्ट्रेलिया संबंधों का एक मजबूत स्तंभ हैं। अपनी तीन देशों की यात्रा के तीसरे और अंतिम चरण में, श्री मोदी 10 से 11 जुलाई तक न्यूजीलैंड की यात्रा करेंगे। प्रधानमंत्री मोदी न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के साथ वार्ता करेंगे। दोनों नेता द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा करेंगे, जिनमें पिछले दो वर्षों में, विशेष रूप से व्यापार और वाणिज्य तथा रक्षा क्षेत्रों में महत्वपूर्ण प्रगति हुई है। न्यूजीलैंड की यह यात्रा भारतीय प्रधानमंत्री की 40 वर्षों में पहली यात्रा होगी। प्रधानमंत्री मोदी प्रमुख व्यापारिक और खेल जगत की हस्तियों से भी बातचीत करेंगे। भारत और न्यूजीलैंड के बीच मजबूत जन-संबंधों को दर्शाते हुए, प्रधानमंत्री न्यूजीलैंड यात्रा के दौरान भारतीय प्रवासी समुदाय को संबोधित करेंगे।",
         "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:01:39+00:00",
-        "link": "https://newsonair.gov.in/hi/death-toll-from-earthquake-in-venezuela-reaches-3342/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पाकिस्तान अधिकृत कश्मीर में प्रदर्शनकारियों पर गोलीबारी के बाद तनाव बढ़ा",
-        "summary": "पाकिस्तान के कब्जे वाले कश्मीर में प्रदर्शनकारियों पर पाकिस्तान रेंजर्स की गोलीबारी में एक व्यक्ति की मौत और कई के घायल होने के बाद तनाव बढ़ गया है। यह घटना बुनियादी अधिकारों, आर्थिक राहत और राजनीतिक स्वतंत्रता की मांग को लेकर हो रहे प्रदर्शनों के बीच हुई है। मीडिया रिपोर्ट के अनुसार क्षेत्र में इस्लामाबाद […]",
-        "article": "पाकिस्तान के कब्जे वाले कश्मीर में प्रदर्शनकारियों पर पाकिस्तान रेंजर्स की गोलीबारी में एक व्यक्ति की मौत और कई के घायल होने के बाद तनाव बढ़ गया है। यह घटना बुनियादी अधिकारों, आर्थिक राहत और राजनीतिक स्वतंत्रता की मांग को लेकर हो रहे प्रदर्शनों के बीच हुई है। मीडिया रिपोर्ट के अनुसार क्षेत्र में इस्लामाबाद विरोधी प्रदर्शनों में 600 से अधिक नागरिक अधिकार कार्यकर्ताओं को गिरफ्तार किया गया है। इस बीच, कल लंदन में प्रवासी कश्मीरियों ने प्रदर्शनकारियों के समर्थन में विरोध प्रदर्शन किया। दूसरी ओर, पाकिस्तान में कराची के अब्बासी शहीद अस्पताल में भी विरोध प्रदर्शन तेज हो गए हैं, जहां डॉक्टर लंबित वेतन, बेहतर सुरक्षा और सुविधाओं में सुधार की मांग कर रहे हैं। डॉक्टरों ने मांगें पूरी नहीं होने पर सेवाएं बंद कर देने की चेतावनी दी है।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T01:44:19+00:00",
-        "link": "https://newsonair.gov.in/hi/tension-escalated-in-pakistan-occupied-jammu-and-kashmir-following-alleged-firing-by-pakistani-rangers/",
+        "pubDate": "2026-07-06T11:31:03+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-arrives-in-indonesia-welcomed-by-president-prabowo-subianto-at-jakarta-airport/",
+        "post_id": 1722125,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1613,8 +1614,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T07:48:04+00:00",
         "link": "https://newsonair.gov.in/hi/fifa-world-cup-england-defeated-mexico-3-2-to-enter-the-quarter-finals/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/FIFA-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1624,8 +1625,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T02:40:48+00:00",
         "link": "https://newsonair.gov.in/hi/brazils-neymar-jr-has-announced-his-retirement-from-international-football/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shanghai-5-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1635,8 +1636,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T00:51:50+00:00",
         "link": "https://newsonair.gov.in/hi/novak-djokovic-secured-a-spot-in-the-wimbledon-mens-singles-quarter-finals-by-defeating-roman-safiullin/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMe6s2nWAAEuEn2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1646,8 +1647,8 @@ window.VM_NEWS = {
         "date": "2026-07-05",
         "pubDate": "2026-07-05T01:05:49+00:00",
         "link": "https://newsonair.gov.in/hi/wimbledon-mertens-stuns-rybakina/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607043852052.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1657,8 +1658,8 @@ window.VM_NEWS = {
         "date": "2026-07-05",
         "pubDate": "2026-07-05T00:59:16+00:00",
         "link": "https://newsonair.gov.in/hi/ind-eng-t20/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/India_vs_England_0127-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1668,8 +1669,8 @@ window.VM_NEWS = {
         "date": "2026-07-05",
         "pubDate": "2026-07-05T00:49:01+00:00",
         "link": "https://newsonair.gov.in/hi/icc-womens-t20-final/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMaLYj0aYAAOX7x.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1679,8 +1680,8 @@ window.VM_NEWS = {
         "date": "2026-07-04",
         "pubDate": "2026-07-04T11:27:23+00:00",
         "link": "https://newsonair.gov.in/hi/canada-will-face-morocco-today-in-the-round-of-16-of-the-fifa-world-cup/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/fifa.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1690,8 +1691,8 @@ window.VM_NEWS = {
         "date": "2026-07-04",
         "pubDate": "2026-07-04T07:08:48+00:00",
         "link": "https://newsonair.gov.in/hi/r-praggnanandhaa-secured-the-top-spot-by-winning-all-three-of-his-matches-in-the-rapid-section-of-the-croatia-grand-chess-tour/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/05/R-Praggnanandhaa1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1701,8 +1702,8 @@ window.VM_NEWS = {
         "date": "2026-07-04",
         "pubDate": "2026-07-04T05:25:55+00:00",
         "link": "https://newsonair.gov.in/hi/fifa-world-cup-colombia-defeated-ghana-1-0-in-the-round-of-32-match/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMWmO_RW8AAVg26.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1712,8 +1713,8 @@ window.VM_NEWS = {
         "date": "2026-07-04",
         "pubDate": "2026-07-04T05:02:59+00:00",
         "link": "https://newsonair.gov.in/hi/tennis-novak-djokovic-equals-roger-federers-record-for-the-most-match-wins-in-the-mens-singles-category-at-wimbledon/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMWaQIXaAAAfXDj-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
@@ -1725,8 +1726,8 @@ window.VM_NEWS = {
         "date": "2026-07-05",
         "pubDate": "2026-07-05T14:44:07+00:00",
         "link": "https://newsonair.gov.in/hi/fpis-bought-indian-shares-worth-rs-708-crore-in-the-first-three-trading-sessions-of-july-taking-their-total-purchases-so-far-this-month/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FPI.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1736,8 +1737,74 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T02:58:26+00:00",
         "link": "https://newsonair.gov.in/hi/epfo-officially-announces-8-25-interest-rate-on-epf-deposits-for-the-financial-year-2025-26/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/dgrmc13c_epfo_625x300_09_April_25.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "19 किलोग्राम व्यावसायिक एलपीजी सिलेंडर सस्ता, कीमत में 183.50 रुपये की कमी",
+        "summary": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्‍यावसायिक एलपीजी सिलेंडर के मूल्‍य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि‍टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्‍यावसायिक एलपीजी सिलेंडर दिल्‍ली में 2930 रुपये में मिलेगा। इस फैसले से […]",
+        "article": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्&#x200d;यावसायिक एलपीजी सिलेंडर के मूल्&#x200d;य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि&#x200d;टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्&#x200d;यावसायिक एलपीजी सिलेंडर दिल्&#x200d;ली में 2930 रुपये में मिलेगा। इस फैसले से रेस्&#x200d;तरां, ढाबा, होटल और अन्&#x200d;य खान-पान व्&#x200d;यावसायियों को लाभ होगा।",
+        "date": "2026-07-01",
+        "pubDate": "2026-07-01T05:04:37+00:00",
+        "link": "https://newsonair.gov.in/hi/commercial-lpg-cylinder-price-cut-by-183-50-rupees/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260502237f-1-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील की अंतिम तिथि 31 जुलाई तक बढ़ाई",
+        "summary": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्‍त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्‍न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्‍या […]",
+        "article": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्&#x200d;त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्&#x200d;न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्&#x200d;या के कारण आई तकनीकी बाधा का हवाला दिया था। जिसके बाद सरकार ने अंतिम तिथि बढ़ाकर 31 जुलाई निर्धारित की। सरकार ने करदाताओं को भी सलाह दी है कि वे समय रहते ही अपील दायर कर दें और अंतिम तिथ&#x200d;ि का इंतजार न करें।",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:55:27+00:00",
+        "link": "https://newsonair.gov.in/hi/gst-appellate-tribunal-appeal-deadline-extended-july-31/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Untitled-design-1-8.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने एक जुलाई से पेट्रोल और डीज़ल की बिक्री व वितरण पर लगा प्रतिबंध हटाने का फैसला किया",
+        "summary": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम […]",
+        "article": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम एशिया संकट के दौरान अंतरराष्ट्रीय बाजार में ईंधन की कीमतों में तेज़ बढ़ोतरी के बावजूद सरकार ने पेट्रोल और डीज़ल की खुदरा कीमतों को स्थिर रखा। इससे खुदरा और थोक उपभोक्ताओं के लिए ईंधन की कीमतों में बड़ा अंतर पैदा हो गया था। इस स्थिति से निपटने के लिए 12 जून से अस्थायी नियामक उपाय लागू किए गए थे। इनके तहत खुदरा पेट्रोल पंपों पर एक ग्राहक या वाहन को प्रतिदिन अधिकतम 200 लीटर हाई स्पीड डीज़ल देने की सीमा तय की गई थी। साथ ही औद्योगिक, संस्थागत और व्यावसायिक उपभोक्ताओं के लिए अलग व्यवस्था की गई थी। इन उपायों का उद्देश्य डीज़ल की कालाबाज़ारी, जमाखोरी और अवैध बिक्री को रोकना तथा आम उपभोक्ताओं के लिए पेट्रोल और डीज़ल की निर्बाध उपलब्धता सुनिश्चित करना था। मंत्रालय ने कहा कि अब देश में पेट्रोलियम उत्पादों की आपूर्ति सामान्य हो गई है और पेट्रोल-डीज़ल की पर्याप्त उपलब्धता सुनिश्चित है। इसलिए जनहित में इन अस्थायी प्रतिबंधों को वापस लेने का निर्णय लिया गया है।",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T03:05:15+00:00",
+        "link": "https://newsonair.gov.in/hi/fuel-sales-restrictions/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260523106F_cPfEGOF-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उत्तराखंड के लिपुलेख दर्रे से भारत-चीन सीमा व्यापार 6 वर्ष बाद फिर होगा शुरू, 26 व्यापार पास जारी किए गए",
+        "summary": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि […]",
+        "article": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि व्यापार को सुगम बनाने के लिए गुंजी में सीमा शुल्क कार्यालय खोला गया है। व्यापारियों ने अपना सामान पहले ही लिपुलेख दर्रे के निकट स्थित गोदामों में पहुंचा दिया है। प्रशासन को 103 से अधिक व्यापारियों के आवेदन प्राप्त हुए हैं और जल्द ही 25 व्यापारियों के दूसरे दल को भी व्यापार पास जारी किए जाएंगे। सामान ढुलाई के लिए नाभीढांग के पास खच्चरों और घोड़ों की व्यवस्था की गई है। भारत-चीन सीमा व्यापार वर्ष 1991 में पुनः शुरू हुआ था, लेकिन कोविड-19 महामारी के कारण वर्ष 2020 में इसे स्थगित कर दिया गया था। छह वर्ष बाद व्यापार बहाल होने से सीमावर्ती क्षेत्रों की अर्थव्यवस्था को नई गति मिलने की उम्मीद है।",
+        "date": "2026-06-25",
+        "pubDate": "2026-06-25T02:30:19+00:00",
+        "link": "https://newsonair.gov.in/hi/india-china-border-trade-via-uttarakhands-lipulekh-pass-to-resume-after-six-years-26-trade-passes-issued/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Untitled-design-5-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "खनन मंत्रालय ने 7वें चरण की सफल नीलामी के साथ दी खनिज मिशन को गति",
+        "summary": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई […]",
+        "article": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई है। इनमें ग्रेफाइट, रेयर अर्थ एलिमेंट, वैनेडियम, टाइटेनियम, ग्लूकोनाइट और रॉक फॉस्फेट जैसे खनिज शामिल हैं। अब नीलाम किए गए अन्वेषण लाइसेंस ब्लॉक की संख्या 11 हो गई है। अरुणाचल प्रदेश, उत्तर प्रदेश और ओडिशा में पहली बार अन्वेषण लाइसेंस ब्लॉक की नीलामी की गई। खान मंत्रालय के अनुसार, यह नीलामी भारत के खनिज क्षेत्र में उद्योग जगत के बढ़ते भरोसे को दिखाती है। इससे स्वच्छ उर्जा, इलेक्ट्रिक मोबिलिटी, नवीकरणीय उर्जा, इलेक्ट्रॉनिक्स, रक्षा और उन्नत विनिर्माण के लिए ज़रूरी खनिज की खोज और विकास में तेज़ी आएगी। इससे आयात पर निर्भरता कम होगी और घरेलू खनिज आपूर्ति श्रृंखला मज़बूत होगी।",
+        "date": "2026-06-24",
+        "pubDate": "2026-06-24T02:04:58+00:00",
+        "link": "https://newsonair.gov.in/hi/ministry-of-mines-gives-impetus-to-mineral-mission-with-successful-7th-round-of-auctions/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/Ministry-of-mines.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "फार्मास्यूटिकल्स विभाग ने चिकित्सा उपकरणों की जीटीई छूट सूची में संशोधन के लिए सुझाव आमंत्रित किए",
+        "summary": "रसायन और उर्वरक मंत्रालय के अधीन फार्मास्यूटिकल्स विभाग ने चिकित्सा उपकरणों की वैश्विक निविदा जांच-जीटीई, छूट सूची में संशोधन के लिए प्राप्त प्रस्तावों पर हितधारकों से सुझाव आमंत्रित किए हैं। मंत्रालय ने बताया कि इस वर्ष फरवरी में जारी सार्वजनिक सूचना के माध्यम से मौजूदा जीटीई छूट सूची पर प्रतिक्रिया मांगी गई थी, जिसके बाद […]",
+        "article": "रसायन और उर्वरक मंत्रालय के अधीन फार्मास्यूटिकल्स विभाग ने चिकित्सा उपकरणों की वैश्विक निविदा जांच-जीटीई, छूट सूची में संशोधन के लिए प्राप्त प्रस्तावों पर हितधारकों से सुझाव आमंत्रित किए हैं। मंत्रालय ने बताया कि इस वर्ष फरवरी में जारी सार्वजनिक सूचना के माध्यम से मौजूदा जीटीई छूट सूची पर प्रतिक्रिया मांगी गई थी, जिसके बाद विभाग को विभिन्न हितधारकों से सूची में प्रविष्टियों को जोड़ने, हटाने या संशोधित करने के अनुरोध प्राप्त हुए हैं। मंत्रालय ने कहा कि घरेलू निर्माताओं, आयातकों, उद्योग संघों, खरीद एजेंसियों और स्वास्थ्य संस्थानों सहित सभी संबंधित हितधारक 15 जुलाई से पहले सहायक जानकारी सहित अपने सुझाव प्रस्तुत कर सकते हैं। मंत्रालय ने सूचित किया कि सुझाव usmedicaldevices@pharma-dept.gov.in पर ईमेल के माध्यम से भेजे जा सकते हैं और इसकी एक प्रति so-medicaldevices@pharma-dept.gov.in पर भी भेजी जा सकती है।",
+        "date": "2026-06-23",
+        "pubDate": "2026-06-23T13:08:34+00:00",
+        "link": "https://newsonair.gov.in/hi/pharmaceuticals-dept-invites-suggestions-for-revising-gte-exemption-list-for-medical-devices/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/gte.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1752,78 +1819,12 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "19 किलोग्राम व्यावसायिक एलपीजी सिलेंडर सस्ता, कीमत में 183.50 रुपये की कमी",
-        "summary": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्‍यावसायिक एलपीजी सिलेंडर के मूल्‍य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि‍टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्‍यावसायिक एलपीजी सिलेंडर दिल्‍ली में 2930 रुपये में मिलेगा। इस फैसले से […]",
-        "article": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्&#x200d;यावसायिक एलपीजी सिलेंडर के मूल्&#x200d;य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि&#x200d;टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्&#x200d;यावसायिक एलपीजी सिलेंडर दिल्&#x200d;ली में 2930 रुपये में मिलेगा। इस फैसले से रेस्&#x200d;तरां, ढाबा, होटल और अन्&#x200d;य खान-पान व्&#x200d;यावसायियों को लाभ होगा।",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T05:04:37+00:00",
-        "link": "https://newsonair.gov.in/hi/commercial-lpg-cylinder-price-cut-by-183-50-rupees/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील की अंतिम तिथि 31 जुलाई तक बढ़ाई",
-        "summary": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्‍त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्‍न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्‍या […]",
-        "article": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्&#x200d;त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्&#x200d;न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्&#x200d;या के कारण आई तकनीकी बाधा का हवाला दिया था। जिसके बाद सरकार ने अंतिम तिथि बढ़ाकर 31 जुलाई निर्धारित की। सरकार ने करदाताओं को भी सलाह दी है कि वे समय रहते ही अपील दायर कर दें और अंतिम तिथ&#x200d;ि का इंतजार न करें।",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T07:55:27+00:00",
-        "link": "https://newsonair.gov.in/hi/gst-appellate-tribunal-appeal-deadline-extended-july-31/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने एक जुलाई से पेट्रोल और डीज़ल की बिक्री व वितरण पर लगा प्रतिबंध हटाने का फैसला किया",
-        "summary": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम […]",
-        "article": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम एशिया संकट के दौरान अंतरराष्ट्रीय बाजार में ईंधन की कीमतों में तेज़ बढ़ोतरी के बावजूद सरकार ने पेट्रोल और डीज़ल की खुदरा कीमतों को स्थिर रखा। इससे खुदरा और थोक उपभोक्ताओं के लिए ईंधन की कीमतों में बड़ा अंतर पैदा हो गया था। इस स्थिति से निपटने के लिए 12 जून से अस्थायी नियामक उपाय लागू किए गए थे। इनके तहत खुदरा पेट्रोल पंपों पर एक ग्राहक या वाहन को प्रतिदिन अधिकतम 200 लीटर हाई स्पीड डीज़ल देने की सीमा तय की गई थी। साथ ही औद्योगिक, संस्थागत और व्यावसायिक उपभोक्ताओं के लिए अलग व्यवस्था की गई थी। इन उपायों का उद्देश्य डीज़ल की कालाबाज़ारी, जमाखोरी और अवैध बिक्री को रोकना तथा आम उपभोक्ताओं के लिए पेट्रोल और डीज़ल की निर्बाध उपलब्धता सुनिश्चित करना था। मंत्रालय ने कहा कि अब देश में पेट्रोलियम उत्पादों की आपूर्ति सामान्य हो गई है और पेट्रोल-डीज़ल की पर्याप्त उपलब्धता सुनिश्चित है। इसलिए जनहित में इन अस्थायी प्रतिबंधों को वापस लेने का निर्णय लिया गया है।",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T03:05:15+00:00",
-        "link": "https://newsonair.gov.in/hi/fuel-sales-restrictions/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "उत्तराखंड के लिपुलेख दर्रे से भारत-चीन सीमा व्यापार 6 वर्ष बाद फिर होगा शुरू, 26 व्यापार पास जारी किए गए",
-        "summary": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि […]",
-        "article": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि व्यापार को सुगम बनाने के लिए गुंजी में सीमा शुल्क कार्यालय खोला गया है। व्यापारियों ने अपना सामान पहले ही लिपुलेख दर्रे के निकट स्थित गोदामों में पहुंचा दिया है। प्रशासन को 103 से अधिक व्यापारियों के आवेदन प्राप्त हुए हैं और जल्द ही 25 व्यापारियों के दूसरे दल को भी व्यापार पास जारी किए जाएंगे। सामान ढुलाई के लिए नाभीढांग के पास खच्चरों और घोड़ों की व्यवस्था की गई है। भारत-चीन सीमा व्यापार वर्ष 1991 में पुनः शुरू हुआ था, लेकिन कोविड-19 महामारी के कारण वर्ष 2020 में इसे स्थगित कर दिया गया था। छह वर्ष बाद व्यापार बहाल होने से सीमावर्ती क्षेत्रों की अर्थव्यवस्था को नई गति मिलने की उम्मीद है।",
-        "date": "2026-06-25",
-        "pubDate": "2026-06-25T02:30:19+00:00",
-        "link": "https://newsonair.gov.in/hi/india-china-border-trade-via-uttarakhands-lipulekh-pass-to-resume-after-six-years-26-trade-passes-issued/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "नीति आयोग के उपाध्यक्ष ने कहा, पिछली तिमाही में भारत का कुल व्यापार 5.4% बढ़ा",
         "summary": "नीति आयोग के उपाध्यक्ष डॉ. अशोक कुमार लाहिड़ी ने कहा है कि पिछली तिमाही में भारत का कुल व्यापार 5.4 प्रतिशत बढ़ा है। कल नई दिल्ली में &#8216;ट्रेड वॉच क्वार्टरली&#8216; रिपोर्ट का नया संस्करण जारी करते हुए उन्होंने कहा कि पिछली तिमाही में भारत का निर्यात 1 खरब 84 अरब डॉलर पर पहुंच गया और […]",
         "article": "नीति आयोग के उपाध्यक्ष डॉ. अशोक कुमार लाहिड़ी ने कहा है कि पिछली तिमाही में भारत का कुल व्यापार 5.4 प्रतिशत बढ़ा है। कल नई दिल्ली में &#8216; ट्रेड वॉच क्वार्टरली &#8216; रिपोर्ट का नया संस्करण जारी करते हुए उन्होंने कहा कि पिछली तिमाही में भारत का निर्यात 1 खरब 84 अरब डॉलर पर पहुंच गया और आयात में साढ़े 6 प्रतिशत की वृद्धि हुई। रिपोर्ट में, वैश्विक व्यापार में भारत की भूमिका का विश्लेषण किया गया है, जिसमें ख़ासकर औषधि व्यापार पर ध्यान केंद्रित किया गया है।",
         "date": "2026-06-24",
         "pubDate": "2026-06-24T02:06:08+00:00",
         "link": "https://newsonair.gov.in/hi/niti-aayog-vice-chairman-says-indias-total-trade-grew-by-5-4-in-the-last-quarter/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "खनन मंत्रालय ने 7वें चरण की सफल नीलामी के साथ दी खनिज मिशन को गति",
-        "summary": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई […]",
-        "article": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई है। इनमें ग्रेफाइट, रेयर अर्थ एलिमेंट, वैनेडियम, टाइटेनियम, ग्लूकोनाइट और रॉक फॉस्फेट जैसे खनिज शामिल हैं। अब नीलाम किए गए अन्वेषण लाइसेंस ब्लॉक की संख्या 11 हो गई है। अरुणाचल प्रदेश, उत्तर प्रदेश और ओडिशा में पहली बार अन्वेषण लाइसेंस ब्लॉक की नीलामी की गई। खान मंत्रालय के अनुसार, यह नीलामी भारत के खनिज क्षेत्र में उद्योग जगत के बढ़ते भरोसे को दिखाती है। इससे स्वच्छ उर्जा, इलेक्ट्रिक मोबिलिटी, नवीकरणीय उर्जा, इलेक्ट्रॉनिक्स, रक्षा और उन्नत विनिर्माण के लिए ज़रूरी खनिज की खोज और विकास में तेज़ी आएगी। इससे आयात पर निर्भरता कम होगी और घरेलू खनिज आपूर्ति श्रृंखला मज़बूत होगी।",
-        "date": "2026-06-24",
-        "pubDate": "2026-06-24T02:04:58+00:00",
-        "link": "https://newsonair.gov.in/hi/ministry-of-mines-gives-impetus-to-mineral-mission-with-successful-7th-round-of-auctions/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "फार्मास्यूटिकल्स विभाग ने चिकित्सा उपकरणों की जीटीई छूट सूची में संशोधन के लिए सुझाव आमंत्रित किए",
-        "summary": "रसायन और उर्वरक मंत्रालय के अधीन फार्मास्यूटिकल्स विभाग ने चिकित्सा उपकरणों की वैश्विक निविदा जांच-जीटीई, छूट सूची में संशोधन के लिए प्राप्त प्रस्तावों पर हितधारकों से सुझाव आमंत्रित किए हैं। मंत्रालय ने बताया कि इस वर्ष फरवरी में जारी सार्वजनिक सूचना के माध्यम से मौजूदा जीटीई छूट सूची पर प्रतिक्रिया मांगी गई थी, जिसके बाद […]",
-        "article": "रसायन और उर्वरक मंत्रालय के अधीन फार्मास्यूटिकल्स विभाग ने चिकित्सा उपकरणों की वैश्विक निविदा जांच-जीटीई, छूट सूची में संशोधन के लिए प्राप्त प्रस्तावों पर हितधारकों से सुझाव आमंत्रित किए हैं। मंत्रालय ने बताया कि इस वर्ष फरवरी में जारी सार्वजनिक सूचना के माध्यम से मौजूदा जीटीई छूट सूची पर प्रतिक्रिया मांगी गई थी, जिसके बाद विभाग को विभिन्न हितधारकों से सूची में प्रविष्टियों को जोड़ने, हटाने या संशोधित करने के अनुरोध प्राप्त हुए हैं। मंत्रालय ने कहा कि घरेलू निर्माताओं, आयातकों, उद्योग संघों, खरीद एजेंसियों और स्वास्थ्य संस्थानों सहित सभी संबंधित हितधारक 15 जुलाई से पहले सहायक जानकारी सहित अपने सुझाव प्रस्तुत कर सकते हैं। मंत्रालय ने सूचित किया कि सुझाव usmedicaldevices@pharma-dept.gov.in पर ईमेल के माध्यम से भेजे जा सकते हैं और इसकी एक प्रति so-medicaldevices@pharma-dept.gov.in पर भी भेजी जा सकती है।",
-        "date": "2026-06-23",
-        "pubDate": "2026-06-23T13:08:34+00:00",
-        "link": "https://newsonair.gov.in/hi/pharmaceuticals-dept-invites-suggestions-for-revising-gte-exemption-list-for-medical-devices/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1837,8 +1838,8 @@ window.VM_NEWS = {
         "date": "2026-05-22",
         "pubDate": "2026-05-22T02:24:07+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a4%be%e0%a4%a8%e0%a5%8d%e0%a4%b8-%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae-%e0%a4%ae%e0%a4%b9%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%b8%e0%a4%b5-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b9/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/Untitled-design-27.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1848,8 +1849,8 @@ window.VM_NEWS = {
         "date": "2026-03-31",
         "pubDate": "2026-03-31T07:55:25+00:00",
         "link": "https://newsonair.gov.in/hi/iffd-2026-will-conclude-with-the-screening-of-lalo-krishna-sada-sahayate/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/लालो.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1859,8 +1860,8 @@ window.VM_NEWS = {
         "date": "2026-02-23",
         "pubDate": "2026-02-23T04:47:52+00:00",
         "link": "https://newsonair.gov.in/hi/manipuri-comedy-drama-film-boong-wins-best-childrens-and-family-film-category-at-bafta-awards/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/Boong-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1870,8 +1871,8 @@ window.VM_NEWS = {
         "date": "2026-02-23",
         "pubDate": "2026-02-23T03:36:35+00:00",
         "link": "https://newsonair.gov.in/hi/the-film-one-battle-after-another-created-a-stir-at-the-79th-bafta-awards/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/HBykUy4XMAAB08r.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1881,8 +1882,8 @@ window.VM_NEWS = {
         "date": "2026-01-23",
         "pubDate": "2026-01-23T04:07:03+00:00",
         "link": "https://newsonair.gov.in/hi/24th-international-film-festival-of-pune-concludes-with-a-colourful-ceremony/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/पुणे.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1892,8 +1893,8 @@ window.VM_NEWS = {
         "date": "2025-12-17",
         "pubDate": "2025-12-17T08:10:26+00:00",
         "link": "https://newsonair.gov.in/hi/the-indian-film-homebound-has-been-nominated-in-the-best-feature-film-category-at-the-98th-academy-awards/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/homeeee.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1903,19 +1904,8 @@ window.VM_NEWS = {
         "date": "2025-12-08",
         "pubDate": "2025-12-08T03:03:45+00:00",
         "link": "https://newsonair.gov.in/hi/renowned-actor-kalyan-chattopadhyay-passes-away-at-the-age-of-82/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "56वां भारतीय अंतरराष्‍ट्रीय फिल्‍म महोत्‍सव गोवा में शानदार पुरस्‍कार समारोह के साथ सम्‍पन्‍न",
-        "summary": "56वां भारतीय अंतरराष्‍ट्रीय फिल्‍म महोत्‍सव गोवा में शानदार पुरस्‍कार समारोह के साथ सम्‍पन्‍न हो गया। इसमें दुनिया भर की बेहतरीन फिल्मों को सम्मानित किया गया, जो इस वर्ष की फिल्मों के उत्‍सव का यादगार फिनाले था। बेस्ट फीचर फिल्म के लिए प्रतिष्ठित गोल्डन पीकॉक अवॉर्ड वियतनामी फिल्म स्किन ऑफ यूथ को दिया गया, जिसे […]",
-        "article": "56वां भारतीय अंतरराष्&#x200d;ट्रीय फिल्&#x200d;म महोत्&#x200d;सव गोवा में शानदार पुरस्&#x200d;कार समारोह के साथ सम्&#x200d;पन्&#x200d;न हो गया। इसमें दुनिया भर की बेहतरीन फिल्मों को सम्मानित किया गया, जो इस वर्ष की फिल्मों के उत्&#x200d;सव का यादगार फिनाले था। बेस्ट फीचर फिल्म के लिए प्रतिष्ठित गोल्डन पीकॉक अवॉर्ड वियतनामी फिल्म स्किन ऑफ यूथ को दिया गया, जिसे एशले मेफेयर ने डायरेक्ट किया था। सिल्वर पीकॉक कैटेगरी में, संतोष दवाखर ने मराठी फिल्म गोंधल के लिए बेस्ट डायरेक्टर का अवॉर्ड जीता। उबेइमार रियोस को स्पेनिश फिल्म ए पोएट के लिए बेस्ट मेल एक्टर मिला, जबकि जारा सोफिया ओस्तान को स्लोवेनियाई फिल्म लिटिल ट्रबल गर्ल्स में उनके परफॉर्मेंस के लिए बेस्ट फीमेल एक्टर का अवॉर्ड मिला। ईरानी फिल्ममेकर हेसम फरहमंद और एस्टोनियाई डायरेक्टर टोनीस पिल एक डायरेक्टर की बेस्ट डेब्यू फीचर फिल्म के संयुक्&#x200d;त विजेता बने। करण सिंह त्यागी ने केसरी चैप्टर 2 के लिए इंडियन फीचर फिल्म के बेस्ट डेब्यू डायरेक्टर का अवॉर्ड जीता। बेस्ट वेब सीरीज-ओटीटी का अवॉर्ड बंदिश बैंडिट्स सीजन 2 को मिला। शांति और इंटरकल्चरल बातचीत को बढ़ावा देने के लिए नॉर्वे की फिल्म सेफ हाउस को ICFT-UNESCO गांधी मेडल दिया गया। इस वर्ष एक खास बात यह रही कि महान अभिनेता रजनीकांत को भारतीय सिनेमा में 50 वर्ष पूरे करने पर सम्मानित किया गया। उन्होंने शुक्रिया अदा करते हुए कहा कि “यह सम्मान पूरी फिल्म इंडस्ट्री का है। भले ही मुझे सौ जन्म लेने पड़ें, मैं रजनीकांत के रूप में पैदा होना चाहता हूं, क्योंकि मुझे सिनेमा और अभिनय से प्यार है।” फेस्टिवल के खत्म होने के दौरान मुख्&#x200d;यमंत्री डॉ. प्रमोद सावंत ने समारोह को संबोधित किया, उन्होंने कहा कि इस बार इफ्फी पिछले कई दिनों में वैश्विक सहयोग में रचनात्&#x200d;मक लोगों, आर्टिस्ट्री और ब्रिलियंस के शानदार एकजुटता का कॉसंगम था, और गोवा ने आइडिया और कल्चर के असाधारण संगम को देखा है। फिल्ममेकर शेखर कपूर ने कहा कि इफ्फी ने कहानी कहने में नवाचार और परंपरा दोनों का उत्&#x200d;सव मनाते हुए, ग्लोबल क्रिएटिव हब के रूप में भारत की स्थिति को मजबूत करना जारी रखा है।",
-        "date": "2025-11-28",
-        "pubDate": "2025-11-28T15:45:34+00:00",
-        "link": "https://newsonair.gov.in/hi/56%e0%a4%b5%e0%a4%be%e0%a4%82-%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/kalyan.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1925,6 +1915,17 @@ window.VM_NEWS = {
         "date": "2025-11-28",
         "pubDate": "2025-11-28T12:32:09+00:00",
         "link": "https://newsonair.gov.in/hi/56%e0%a4%b5%e0%a4%be%e0%a4%82-%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/आईएफएफ.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "56वां भारतीय अंतरराष्‍ट्रीय फिल्‍म महोत्‍सव गोवा में शानदार पुरस्‍कार समारोह के साथ सम्‍पन्‍न",
+        "summary": "56वां भारतीय अंतरराष्‍ट्रीय फिल्‍म महोत्‍सव गोवा में शानदार पुरस्‍कार समारोह के साथ सम्‍पन्‍न हो गया। इसमें दुनिया भर की बेहतरीन फिल्मों को सम्मानित किया गया, जो इस वर्ष की फिल्मों के उत्‍सव का यादगार फिनाले था। बेस्ट फीचर फिल्म के लिए प्रतिष्ठित गोल्डन पीकॉक अवॉर्ड वियतनामी फिल्म स्किन ऑफ यूथ को दिया गया, जिसे […]",
+        "article": "56वां भारतीय अंतरराष्&#x200d;ट्रीय फिल्&#x200d;म महोत्&#x200d;सव गोवा में शानदार पुरस्&#x200d;कार समारोह के साथ सम्&#x200d;पन्&#x200d;न हो गया। इसमें दुनिया भर की बेहतरीन फिल्मों को सम्मानित किया गया, जो इस वर्ष की फिल्मों के उत्&#x200d;सव का यादगार फिनाले था। बेस्ट फीचर फिल्म के लिए प्रतिष्ठित गोल्डन पीकॉक अवॉर्ड वियतनामी फिल्म स्किन ऑफ यूथ को दिया गया, जिसे एशले मेफेयर ने डायरेक्ट किया था। सिल्वर पीकॉक कैटेगरी में, संतोष दवाखर ने मराठी फिल्म गोंधल के लिए बेस्ट डायरेक्टर का अवॉर्ड जीता। उबेइमार रियोस को स्पेनिश फिल्म ए पोएट के लिए बेस्ट मेल एक्टर मिला, जबकि जारा सोफिया ओस्तान को स्लोवेनियाई फिल्म लिटिल ट्रबल गर्ल्स में उनके परफॉर्मेंस के लिए बेस्ट फीमेल एक्टर का अवॉर्ड मिला। ईरानी फिल्ममेकर हेसम फरहमंद और एस्टोनियाई डायरेक्टर टोनीस पिल एक डायरेक्टर की बेस्ट डेब्यू फीचर फिल्म के संयुक्&#x200d;त विजेता बने। करण सिंह त्यागी ने केसरी चैप्टर 2 के लिए इंडियन फीचर फिल्म के बेस्ट डेब्यू डायरेक्टर का अवॉर्ड जीता। बेस्ट वेब सीरीज-ओटीटी का अवॉर्ड बंदिश बैंडिट्स सीजन 2 को मिला। शांति और इंटरकल्चरल बातचीत को बढ़ावा देने के लिए नॉर्वे की फिल्म सेफ हाउस को ICFT-UNESCO गांधी मेडल दिया गया। इस वर्ष एक खास बात यह रही कि महान अभिनेता रजनीकांत को भारतीय सिनेमा में 50 वर्ष पूरे करने पर सम्मानित किया गया। उन्होंने शुक्रिया अदा करते हुए कहा कि “यह सम्मान पूरी फिल्म इंडस्ट्री का है। भले ही मुझे सौ जन्म लेने पड़ें, मैं रजनीकांत के रूप में पैदा होना चाहता हूं, क्योंकि मुझे सिनेमा और अभिनय से प्यार है।” फेस्टिवल के खत्म होने के दौरान मुख्&#x200d;यमंत्री डॉ. प्रमोद सावंत ने समारोह को संबोधित किया, उन्होंने कहा कि इस बार इफ्फी पिछले कई दिनों में वैश्विक सहयोग में रचनात्&#x200d;मक लोगों, आर्टिस्ट्री और ब्रिलियंस के शानदार एकजुटता का कॉसंगम था, और गोवा ने आइडिया और कल्चर के असाधारण संगम को देखा है। फिल्ममेकर शेखर कपूर ने कहा कि इफ्फी ने कहानी कहने में नवाचार और परंपरा दोनों का उत्&#x200d;सव मनाते हुए, ग्लोबल क्रिएटिव हब के रूप में भारत की स्थिति को मजबूत करना जारी रखा है।",
+        "date": "2025-11-28",
+        "pubDate": "2025-11-28T15:45:34+00:00",
+        "link": "https://newsonair.gov.in/hi/56%e0%a4%b5%e0%a4%be%e0%a4%82-%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1949,8 +1950,8 @@ window.VM_NEWS = {
         "date": "2026-06-04",
         "pubDate": "2026-06-04T06:01:50+00:00",
         "link": "https://newsonair.gov.in/hi/who-expresses-concern-over-rapid-spread-of-ebola-outbreak-in-congo/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/WHO.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1960,8 +1961,8 @@ window.VM_NEWS = {
         "date": "2026-05-21",
         "pubDate": "2026-05-21T07:50:34+00:00",
         "link": "https://newsonair.gov.in/hi/directorate-general-of-health-services-issues-advisory-for-travellers-arriving-from-and-transiting-through-ebola-affected-countries/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/cds.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1971,8 +1972,8 @@ window.VM_NEWS = {
         "date": "2026-05-21",
         "pubDate": "2026-05-21T07:00:38+00:00",
         "link": "https://newsonair.gov.in/hi/india-launches-worlds-largest-screening-drive-to-eliminate-tb-union-health-minister-j-p-nadda/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/jp-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1982,8 +1983,8 @@ window.VM_NEWS = {
         "date": "2026-05-08",
         "pubDate": "2026-05-08T07:44:50+00:00",
         "link": "https://newsonair.gov.in/hi/health-minister-jp-nadda-launches-integrated-training-programme-for-primary-health-teams/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/J-p-Nadda.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1993,8 +1994,8 @@ window.VM_NEWS = {
         "date": "2026-05-07",
         "pubDate": "2026-05-07T03:01:43+00:00",
         "link": "https://newsonair.gov.in/hi/union-minister-to-launch-nationwide-annual-health-check-up-initiative-for-workers-from-esic/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/man.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -2004,8 +2005,8 @@ window.VM_NEWS = {
         "date": "2026-04-07",
         "pubDate": "2026-04-07T08:28:42+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af-%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8-%e0%a4%aa%e0%a5%80%e0%a4%8f/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Untitled-design-3-5.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -2015,8 +2016,8 @@ window.VM_NEWS = {
         "date": "2026-02-11",
         "pubDate": "2026-02-11T01:59:38+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a5%87%e0%a4%a6%e0%a4%bf%e0%a4%95-%e0%a4%94%e0%a4%b7%e0%a4%a7%e0%a4%bf-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a4%e0%a4%be/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/HAz4fsPbUAAOn4m-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -2026,8 +2027,8 @@ window.VM_NEWS = {
         "date": "2026-01-15",
         "pubDate": "2026-01-15T12:24:16+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4-%e0%a4%95%e0%a5%87-%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b7-%e0%a4%b9%e0%a4%b0%e0%a5%8d%e0%a4%ac%e0%a4%b2-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Untitled-design-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -2037,8 +2038,8 @@ window.VM_NEWS = {
         "date": "2025-12-27",
         "pubDate": "2025-12-27T04:59:50+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%9c%e0%a5%87-%e0%a4%aa%e0%a5%80-%e0%a4%a8%e0%a4%a1%e0%a5%8d/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G9GqIftaAAEWJQP.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -2048,8 +2049,8 @@ window.VM_NEWS = {
         "date": "2025-12-20",
         "pubDate": "2025-12-20T08:20:53+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%9c%e0%a5%87%e0%a4%aa%e0%a5%80-%e0%a4%a8%e0%a4%a1%e0%a5%8d-3/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G8jVc1PbMAQhk_x.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ]
