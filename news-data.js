@@ -1,8 +1,30 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-07T11:28:46.297303",
+  "generated": "2026-07-07T12:17:16.886825",
   "en": {
     "top": [
+      {
+        "title": "Syria: 18 injured in two explosions in Damascus just after French President’s arrival",
+        "summary": "Two explosions rocked Syria&#8217;s capital, Damascus this afternoon, injuring 18 people, including four police officers. The explosions occurred just before the meeting between French President Emmanuel Macron and his Syrian counterpart Ahmad al-Sharaa at the Presidential palace. President Macron, who arrived in the Syrian capital yesterday, is the first top European leader to visit the […]",
+        "article": "Two explosions rocked Syria&#8217;s capital, Damascus this afternoon, injuring 18 people, including four police officers. The explosions occurred just before the meeting between French President Emmanuel Macron and his Syrian counterpart Ahmad al-Sharaa at the Presidential palace. President Macron, who arrived in the Syrian capital yesterday, is the first top European leader to visit the war-torn country since the fall of the regime headed by Bashar al-Assad. Several media outlets reported that the explosions took place close to the hotel where the French President Macron is reportedly staying in. The French President&#8217;s office said in a statement that the President was safe and that his trip was continuing. State media quoting country&#8217;s Interior ministry reported that the Internal Security Forces had detected two explosive devices during their field operations, and the competent units had begun taking the necessary measures to dismantle them, but they exploded while preparing for the dismantling operation. Earlier this month, a bombing in a cafe in central Damascus, killed nine people and injured 20 others. The interior authorities described the incident as a terrorist attack involving an improvised explosive device weighing about one kilogram and packed with metal fragments.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T11:38:08+00:00",
+        "link": "https://newsonair.gov.in/syria-18-injured-in-two-explosions-in-damascus-just-after-french-presidents-arrival/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Syria.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi calls for stronger India-Indonesia strategic partnership during his address to parliament in Jakarta",
+        "summary": "Prime Minister Narendra Modi today called for a stronger India-Indonesia strategic partnership, saying it will contribute not only to the prosperity of the two nations but also to regional and global peace and stability. Addressing the Indonesian Parliament in Jakarta, Mr Modi said the relationship between India and Indonesia is centuries-old and shares similar […]",
+        "article": "Prime Minister Narendra Modi today called for a stronger India-Indonesia strategic partnership, saying it will contribute not only to the prosperity of the two nations but also to regional and global peace and stability. Addressing the Indonesian Parliament in Jakarta, Mr Modi said the relationship between India and Indonesia is centuries-old and shares similar democratic values, mutual trust and a common vision for the future. The Prime Minister said India believes in development, peace, stability and prosperity. Mr Modi stressed the need for collective action against terrorism and unilateral actions that undermine regional security. He emphasised global south stability besides the Indo-Pacific. The Prime Minister called for deeper cooperation in defence, maritime security, trade, digital technology, education, artificial intelligence and critical minerals. He also stressed expanding cooperation in digital public infrastructure, including UPI, artificial intelligence, education, startups and innovation to benefit people in both countries. Highlighting the age-old cultural bonds between the two countries, the Prime Minister said the shared heritage stretches from the Ramayana to Borobudur, reflecting the strong civilisational connection between India and Indonesia. Emphasising the importance of strategic trust, the Prime Minister advocated closer collaboration in cybersecurity, emergency preparedness and maritime cooperation, spanning from Great Nicobar to the Strait of Malacca. He also underlined the need to strengthen people-to-people ties and said initiatives such as the Ganga Mahakumbh embody India&#8217;s cultural ethos and offer opportunities to further deepen bilateral engagement. Describing the current phase of relations as the beginning of a new chapter in India-Indonesia ties, Mr Modi expressed confidence that the expanding partnership will serve as a force for peace, progress and shared prosperity across the Indo-Pacific.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T11:35:19+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-addresses-joint-session-of-indonesian-parliament-says-both-countries-working-closely-to-counter-terrorism/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Union Health Minister reviews progress of key programmes in Keralam",
         "summary": "Union Health and Family Welfare Minister JP Nadda today chaired a virtual review meeting with Keralm Health Minister, K. Muraleedharan to review the implementation and progress of key health programmes and public health initiatives in the state. Mr Nadda appreciated the efforts made by the State in implementing various health initiatives and assured continued […]",
@@ -11,17 +33,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-07T11:17:13+00:00",
         "link": "https://newsonair.gov.in/union-health-minister-reviews-progress-of-key-programmes-in-keralam/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Nadda-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi addresses joint session of Indonesian Parliament: says both countries working closely to counter terrorism",
-        "summary": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the […]",
-        "article": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the world&#8217;s faith that democracy creates opportunities and builds trust. The Prime Minister said history will be made when India&#8217;s 140 crore people and Indonesia&#8217;s 29 crore people move forward together in pursuit of shared progress. The Prime Minister said India and Indonesia are working closely to counter terrorism through the Joint Working Group mechanism. He reaffirmed India&#8217;s commitment to a free, open and inclusive Indo-Pacific and stressed the importance of ensuring freedom of navigation in the region. Mr. Modi also said that reforms of the United Nations Security Council can no longer be delayed. He added that India is ready to extend its support to Indonesia in the field of satellite launch technology.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T10:35:19+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-addresses-joint-session-of-indonesian-parliament-says-both-countries-working-closely-to-counter-terrorism/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-4.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -123,20 +134,20 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/15.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "UN estimates Venezuela earthquake damage at 37 billion US dollars",
-        "summary": "A new United Nations estimate has put the direct physical damage caused by the twin earthquakes in Venezuela at 37 billion US dollars. The estimate includes around 24 billion US dollars in damage to buildings, including homes, businesses, schools, hospitals and public facilities, and another 13 billion US dollars in damage to infrastructure. Speaking to […]",
-        "article": "A new United Nations estimate has put the direct physical damage caused by the twin earthquakes in Venezuela at 37 billion US dollars. The estimate includes around 24 billion US dollars in damage to buildings, including homes, businesses, schools, hospitals and public facilities, and another 13 billion US dollars in damage to infrastructure. Speaking to reporters in New York, UN Spokesperson Stéphane Dujarric said the United Nations and its partners are continuing to scale up assistance to people affected by the earthquakes, in coordination with the Venezuelan Government. Meanwhile, the United Nations Children&#8217;s Fund (UNICEF) has warned that children are among the worst affected by the disaster. It estimates that 650,000 people, including 234,000 children, will require humanitarian assistance. UNICEF has deployed emergency teams and delivered 68 tonnes of relief supplies, including medical materials, water and sanitation equipment, and essential household items. UN agencies are already providing services in three relief camps and are assessing additional sites for support. Health partners are delivering primary healthcare, mental health and psychosocial support, as well as sexual and reproductive health services where required. The Humanitarian Response Plan for Venezuela has so far received 274 million US dollars, along with more than 32 million US dollars from private sector donors and additional in-kind contributions of goods and services.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:47:07+00:00",
-        "link": "https://newsonair.gov.in/un-estimates-venezuela-earthquake-damage-at-37-billion-us-dollars/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "PM Modi calls for stronger India-Indonesia strategic partnership during his address to parliament in Jakarta",
+        "summary": "Prime Minister Narendra Modi today called for a stronger India-Indonesia strategic partnership, saying it will contribute not only to the prosperity of the two nations but also to regional and global peace and stability. Addressing the Indonesian Parliament in Jakarta, Mr Modi said the relationship between India and Indonesia is centuries-old and shares similar […]",
+        "article": "Prime Minister Narendra Modi today called for a stronger India-Indonesia strategic partnership, saying it will contribute not only to the prosperity of the two nations but also to regional and global peace and stability. Addressing the Indonesian Parliament in Jakarta, Mr Modi said the relationship between India and Indonesia is centuries-old and shares similar democratic values, mutual trust and a common vision for the future. The Prime Minister said India believes in development, peace, stability and prosperity. Mr Modi stressed the need for collective action against terrorism and unilateral actions that undermine regional security. He emphasised global south stability besides the Indo-Pacific. The Prime Minister called for deeper cooperation in defence, maritime security, trade, digital technology, education, artificial intelligence and critical minerals. He also stressed expanding cooperation in digital public infrastructure, including UPI, artificial intelligence, education, startups and innovation to benefit people in both countries. Highlighting the age-old cultural bonds between the two countries, the Prime Minister said the shared heritage stretches from the Ramayana to Borobudur, reflecting the strong civilisational connection between India and Indonesia. Emphasising the importance of strategic trust, the Prime Minister advocated closer collaboration in cybersecurity, emergency preparedness and maritime cooperation, spanning from Great Nicobar to the Strait of Malacca. He also underlined the need to strengthen people-to-people ties and said initiatives such as the Ganga Mahakumbh embody India&#8217;s cultural ethos and offer opportunities to further deepen bilateral engagement. Describing the current phase of relations as the beginning of a new chapter in India-Indonesia ties, Mr Modi expressed confidence that the expanding partnership will serve as a force for peace, progress and shared prosperity across the Indo-Pacific.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T11:35:19+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-addresses-joint-session-of-indonesian-parliament-says-both-countries-working-closely-to-counter-terrorism/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Union Health Minister reviews progress of key programmes in Keralam",
         "summary": "Union Health and Family Welfare Minister JP Nadda today chaired a virtual review meeting with Keralm Health Minister, K. Muraleedharan to review the implementation and progress of key health programmes and public health initiatives in the state. Mr Nadda appreciated the efforts made by the State in implementing various health initiatives and assured continued […]",
@@ -145,17 +156,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-07T11:17:13+00:00",
         "link": "https://newsonair.gov.in/union-health-minister-reviews-progress-of-key-programmes-in-keralam/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Nadda-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi addresses joint session of Indonesian Parliament: says both countries working closely to counter terrorism",
-        "summary": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the […]",
-        "article": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the world&#8217;s faith that democracy creates opportunities and builds trust. The Prime Minister said history will be made when India&#8217;s 140 crore people and Indonesia&#8217;s 29 crore people move forward together in pursuit of shared progress. The Prime Minister said India and Indonesia are working closely to counter terrorism through the Joint Working Group mechanism. He reaffirmed India&#8217;s commitment to a free, open and inclusive Indo-Pacific and stressed the importance of ensuring freedom of navigation in the region. Mr. Modi also said that reforms of the United Nations Security Council can no longer be delayed. He added that India is ready to extend its support to Indonesia in the field of satellite launch technology.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T10:35:19+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-addresses-joint-session-of-indonesian-parliament-says-both-countries-working-closely-to-counter-terrorism/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-4.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -251,6 +251,17 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "PM Modi calls for stronger India-Indonesia strategic partnership during his address to parliament in Jakarta",
+        "summary": "Prime Minister Narendra Modi today called for a stronger India-Indonesia strategic partnership, saying it will contribute not only to the prosperity of the two nations but also to regional and global peace and stability. Addressing the Indonesian Parliament in Jakarta, Mr Modi said the relationship between India and Indonesia is centuries-old and shares similar […]",
+        "article": "Prime Minister Narendra Modi today called for a stronger India-Indonesia strategic partnership, saying it will contribute not only to the prosperity of the two nations but also to regional and global peace and stability. Addressing the Indonesian Parliament in Jakarta, Mr Modi said the relationship between India and Indonesia is centuries-old and shares similar democratic values, mutual trust and a common vision for the future. The Prime Minister said India believes in development, peace, stability and prosperity. Mr Modi stressed the need for collective action against terrorism and unilateral actions that undermine regional security. He emphasised global south stability besides the Indo-Pacific. The Prime Minister called for deeper cooperation in defence, maritime security, trade, digital technology, education, artificial intelligence and critical minerals. He also stressed expanding cooperation in digital public infrastructure, including UPI, artificial intelligence, education, startups and innovation to benefit people in both countries. Highlighting the age-old cultural bonds between the two countries, the Prime Minister said the shared heritage stretches from the Ramayana to Borobudur, reflecting the strong civilisational connection between India and Indonesia. Emphasising the importance of strategic trust, the Prime Minister advocated closer collaboration in cybersecurity, emergency preparedness and maritime cooperation, spanning from Great Nicobar to the Strait of Malacca. He also underlined the need to strengthen people-to-people ties and said initiatives such as the Ganga Mahakumbh embody India&#8217;s cultural ethos and offer opportunities to further deepen bilateral engagement. Describing the current phase of relations as the beginning of a new chapter in India-Indonesia ties, Mr Modi expressed confidence that the expanding partnership will serve as a force for peace, progress and shared prosperity across the Indo-Pacific.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T11:35:19+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-addresses-joint-session-of-indonesian-parliament-says-both-countries-working-closely-to-counter-terrorism/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Union Health Minister reviews progress of key programmes in Keralam",
         "summary": "Union Health and Family Welfare Minister JP Nadda today chaired a virtual review meeting with Keralm Health Minister, K. Muraleedharan to review the implementation and progress of key health programmes and public health initiatives in the state. Mr Nadda appreciated the efforts made by the State in implementing various health initiatives and assured continued […]",
         "article": "Union Health and Family Welfare Minister JP Nadda today chaired a virtual review meeting with Keralm Health Minister, K. Muraleedharan to review the implementation and progress of key health programmes and public health initiatives in the state. Mr Nadda appreciated the efforts made by the State in implementing various health initiatives and assured continued support from the centre for further strengthening Keralam&#8217;s healthcare ecosystem. He emphasized the importance of sustained Centre-State collaboration to ensure effective implementation of national health programmes and improved health outcomes for the people. The meeting focused on the implementation and progress of major flagship health programmes and initiatives in Kerala, including the TB-Mukt Bharat Abhiyaan, Free Drugs Service Initiative, Free Diagnostic Service Initiative, Human Resources for Health under the National Health Mission (NHM), Medical Education, Drug Regulation, and Food Safety and Standards. Mr Muraleedharan apprised the Health Minister of the progress made by Keralam under various flagship health programmes and highlighted the initiatives undertaken by the State Government to further strengthen healthcare delivery.",
@@ -258,17 +269,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-07T11:17:13+00:00",
         "link": "https://newsonair.gov.in/union-health-minister-reviews-progress-of-key-programmes-in-keralam/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Nadda-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi addresses joint session of Indonesian Parliament: says both countries working closely to counter terrorism",
-        "summary": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the […]",
-        "article": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the world&#8217;s faith that democracy creates opportunities and builds trust. The Prime Minister said history will be made when India&#8217;s 140 crore people and Indonesia&#8217;s 29 crore people move forward together in pursuit of shared progress. The Prime Minister said India and Indonesia are working closely to counter terrorism through the Joint Working Group mechanism. He reaffirmed India&#8217;s commitment to a free, open and inclusive Indo-Pacific and stressed the importance of ensuring freedom of navigation in the region. Mr. Modi also said that reforms of the United Nations Security Council can no longer be delayed. He added that India is ready to extend its support to Indonesia in the field of satellite launch technology.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T10:35:19+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-addresses-joint-session-of-indonesian-parliament-says-both-countries-working-closely-to-counter-terrorism/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-4.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -364,6 +364,17 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "PM Modi calls for stronger India-Indonesia strategic partnership during his address to parliament in Jakarta",
+        "summary": "Prime Minister Narendra Modi today called for a stronger India-Indonesia strategic partnership, saying it will contribute not only to the prosperity of the two nations but also to regional and global peace and stability. Addressing the Indonesian Parliament in Jakarta, Mr Modi said the relationship between India and Indonesia is centuries-old and shares similar […]",
+        "article": "Prime Minister Narendra Modi today called for a stronger India-Indonesia strategic partnership, saying it will contribute not only to the prosperity of the two nations but also to regional and global peace and stability. Addressing the Indonesian Parliament in Jakarta, Mr Modi said the relationship between India and Indonesia is centuries-old and shares similar democratic values, mutual trust and a common vision for the future. The Prime Minister said India believes in development, peace, stability and prosperity. Mr Modi stressed the need for collective action against terrorism and unilateral actions that undermine regional security. He emphasised global south stability besides the Indo-Pacific. The Prime Minister called for deeper cooperation in defence, maritime security, trade, digital technology, education, artificial intelligence and critical minerals. He also stressed expanding cooperation in digital public infrastructure, including UPI, artificial intelligence, education, startups and innovation to benefit people in both countries. Highlighting the age-old cultural bonds between the two countries, the Prime Minister said the shared heritage stretches from the Ramayana to Borobudur, reflecting the strong civilisational connection between India and Indonesia. Emphasising the importance of strategic trust, the Prime Minister advocated closer collaboration in cybersecurity, emergency preparedness and maritime cooperation, spanning from Great Nicobar to the Strait of Malacca. He also underlined the need to strengthen people-to-people ties and said initiatives such as the Ganga Mahakumbh embody India&#8217;s cultural ethos and offer opportunities to further deepen bilateral engagement. Describing the current phase of relations as the beginning of a new chapter in India-Indonesia ties, Mr Modi expressed confidence that the expanding partnership will serve as a force for peace, progress and shared prosperity across the Indo-Pacific.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T11:35:19+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-addresses-joint-session-of-indonesian-parliament-says-both-countries-working-closely-to-counter-terrorism/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Union Health Minister reviews progress of key programmes in Keralam",
         "summary": "Union Health and Family Welfare Minister JP Nadda today chaired a virtual review meeting with Keralm Health Minister, K. Muraleedharan to review the implementation and progress of key health programmes and public health initiatives in the state. Mr Nadda appreciated the efforts made by the State in implementing various health initiatives and assured continued […]",
         "article": "Union Health and Family Welfare Minister JP Nadda today chaired a virtual review meeting with Keralm Health Minister, K. Muraleedharan to review the implementation and progress of key health programmes and public health initiatives in the state. Mr Nadda appreciated the efforts made by the State in implementing various health initiatives and assured continued support from the centre for further strengthening Keralam&#8217;s healthcare ecosystem. He emphasized the importance of sustained Centre-State collaboration to ensure effective implementation of national health programmes and improved health outcomes for the people. The meeting focused on the implementation and progress of major flagship health programmes and initiatives in Kerala, including the TB-Mukt Bharat Abhiyaan, Free Drugs Service Initiative, Free Diagnostic Service Initiative, Human Resources for Health under the National Health Mission (NHM), Medical Education, Drug Regulation, and Food Safety and Standards. Mr Muraleedharan apprised the Health Minister of the progress made by Keralam under various flagship health programmes and highlighted the initiatives undertaken by the State Government to further strengthen healthcare delivery.",
@@ -371,17 +382,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-07T11:17:13+00:00",
         "link": "https://newsonair.gov.in/union-health-minister-reviews-progress-of-key-programmes-in-keralam/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Nadda-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi addresses joint session of Indonesian Parliament: says both countries working closely to counter terrorism",
-        "summary": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the […]",
-        "article": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the world&#8217;s faith that democracy creates opportunities and builds trust. The Prime Minister said history will be made when India&#8217;s 140 crore people and Indonesia&#8217;s 29 crore people move forward together in pursuit of shared progress. The Prime Minister said India and Indonesia are working closely to counter terrorism through the Joint Working Group mechanism. He reaffirmed India&#8217;s commitment to a free, open and inclusive Indo-Pacific and stressed the importance of ensuring freedom of navigation in the region. Mr. Modi also said that reforms of the United Nations Security Council can no longer be delayed. He added that India is ready to extend its support to Indonesia in the field of satellite launch technology.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T10:35:19+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-addresses-joint-session-of-indonesian-parliament-says-both-countries-working-closely-to-counter-terrorism/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-4.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -476,6 +476,17 @@ window.VM_NEWS = {
       }
     ],
     "world": [
+      {
+        "title": "Syria: 18 injured in two explosions in Damascus just after French President’s arrival",
+        "summary": "Two explosions rocked Syria&#8217;s capital, Damascus this afternoon, injuring 18 people, including four police officers. The explosions occurred just before the meeting between French President Emmanuel Macron and his Syrian counterpart Ahmad al-Sharaa at the Presidential palace. President Macron, who arrived in the Syrian capital yesterday, is the first top European leader to visit the […]",
+        "article": "Two explosions rocked Syria&#8217;s capital, Damascus this afternoon, injuring 18 people, including four police officers. The explosions occurred just before the meeting between French President Emmanuel Macron and his Syrian counterpart Ahmad al-Sharaa at the Presidential palace. President Macron, who arrived in the Syrian capital yesterday, is the first top European leader to visit the war-torn country since the fall of the regime headed by Bashar al-Assad. Several media outlets reported that the explosions took place close to the hotel where the French President Macron is reportedly staying in. The French President&#8217;s office said in a statement that the President was safe and that his trip was continuing. State media quoting country&#8217;s Interior ministry reported that the Internal Security Forces had detected two explosive devices during their field operations, and the competent units had begun taking the necessary measures to dismantle them, but they exploded while preparing for the dismantling operation. Earlier this month, a bombing in a cafe in central Damascus, killed nine people and injured 20 others. The interior authorities described the incident as a terrorist attack involving an improvised explosive device weighing about one kilogram and packed with metal fragments.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T11:38:08+00:00",
+        "link": "https://newsonair.gov.in/syria-18-injured-in-two-explosions-in-damascus-just-after-french-presidents-arrival/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Syria.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Iran rules out talks with US on final agreement",
         "summary": "Iranian Foreign Minister Seyed Abbas Araghchi has firmly refused to negotiations with Washington on a final agreement following remarks by US President Donald Trump. In a social media post, Araghchi cited the Memorandum of Understanding between Iran and the United States, stating that Tehran would not resume talks until Washington honoured its commitments. Earlier, President […]",
@@ -572,17 +583,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-07T00:56:47+00:00",
         "link": "https://newsonair.gov.in/external-affairs-minister-s-jaishankar-meets-bahrain-king-to-strengthen-bilateral-ties/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Huge crowd gathers to Bid Farewell to Iran’s late Supreme Leader Ayatollah Ali Khamenei",
-        "summary": "Mourners dressed in black flooded Iran&#8217;s capital, Tehran, today for a funeral procession honoring the late Supreme Leader Ayatollah Ali Khamenei. Khamenei&#8217;s flag-draped coffin, along with those of several family members who were killed in an airstrike on 28th of February at the outset of the war launched by Israel and the United States, […]",
-        "article": "Mourners dressed in black flooded Iran&#8217;s capital, Tehran, today for a funeral procession honoring the late Supreme Leader Ayatollah Ali Khamenei. Khamenei&#8217;s flag-draped coffin, along with those of several family members who were killed in an airstrike on 28th of February at the outset of the war launched by Israel and the United States, was carried on a truck decorated to resemble the ornate latticework surrounding the shrine of an imam. The massive turnout, encouraged by Iran&#8217;s theocratic leadership as a display of national unity and strength, came as Tehran continues negotiations with the United States over a permanent end to the war that claimed the life of the 86-year-old cleric. Media reports said the crowd appeared to be larger than the one that gathered for the 2020 funeral procession of Revolutionary Guard Gen. Qassem Soleimani, which drew more than one million mourners. Revolutionary Guard Gen. Hasan Hasanzadeh, who is overseeing the funeral procession, said the coffins would be carried through the streets of Tehran during a 12-hour journey to Mehrabad International Airport. Authorities have shut down major streets, closed the country&#8217;s airspace, and suspended much of daily life for the period of mourning, which began on Saturday and will continue through Thursday, when Ayatollah Ali Khamenei will be buried at the Imam Reza shrine in Mashhad, his birthplace.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T15:29:40+00:00",
-        "link": "https://newsonair.gov.in/mourners-throng-funeral-procession-in-tehran-for-irans-supreme-leader-ayatollah-ali-khamenei/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/iran-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -701,6 +701,17 @@ window.VM_NEWS = {
     ],
     "business": [
       {
+        "title": "ECLGS 5.0 Crosses 4.11 Lakh Guarantees with guaranteed amount reaching over ₹1.55 Lakh Crore: Govt",
+        "summary": "The Emergency Credit Line Guarantee Scheme (ECLGS) 5.0, launched in May this year, has crossed more than four lakh guarantees, with the guaranteed amount reaching over one lakh fifty five thousand crore rupees. The MSMEs have emerged as the biggest beneficiaries of the scheme, with 98 per cent of the guarantees issued going to the […]",
+        "article": "The Emergency Credit Line Guarantee Scheme (ECLGS) 5.0, launched in May this year, has crossed more than four lakh guarantees, with the guaranteed amount reaching over one lakh fifty five thousand crore rupees. The MSMEs have emerged as the biggest beneficiaries of the scheme, with 98 per cent of the guarantees issued going to the sector, while 82 per cent of the total guaranteed amount has also been extended to MSMEs. The Finance Ministry said that the scheme is delivering fast, large-scale liquidity support to businesses affected by the West Asia geopolitical situation. The Ministry noted that the ECLGS 5.0 scheme is designed to provide risk mitigation for lending institutions to extend additional credit to borrowers, helping businesses tide over cash-flow disruptions and sustain operations. It has also enabled financial institutions to lend more confidently, ensuring that liquidity reaches the needy sectors by extending 100 per cent guarantee coverage to additional loans for MSMEs and 90 per cent coverage for other business segments. To maximise awareness and adoption of the scheme, the Department of Financial Services has led a structured outreach campaign across the country. The Ministry said these programmes are intended to ensure that eligible borrowers are aware of the scheme and are able to access its benefits, while Member Lending Institutions are equipped to facilitate its effective implementation.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T11:02:30+00:00",
+        "link": "https://newsonair.gov.in/eclgs-5-0-crosses-4-11-lakh-guarantees-with-guaranteed-amount-reaching-over-%e2%82%b91-55-lakh-crore/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/20260320489f-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Asian stock market indices end on mixed note; major indices trade mutedly",
         "summary": "Asian stock market indices ended on a mixed note today. Taiwan&#8217;s Taiex as well as South Korea&#8217;s Kospi declined half a per cent and China&#8217;s Shanghai Composite as well as Japan&#8217;s Nikkei 225 remained largely unchanged with a negative bias. In contrast, Hong Kong’s Hang Seng rose 1.1 per cent and Singapore’s Straits Times […]",
         "article": "Asian stock market indices ended on a mixed note today. Taiwan&#8217;s Taiex as well as South Korea&#8217;s Kospi declined half a per cent and China&#8217;s Shanghai Composite as well as Japan&#8217;s Nikkei 225 remained largely unchanged with a negative bias. In contrast, Hong Kong’s Hang Seng rose 1.1 per cent and Singapore’s Straits Times added 0.3 per cent. Major European indices were trading on a muted note today. London’s FTSE 100 slipped 0.3 per cent. Germany’s DAX as well as France’s CAC 40 were trading on a flat note with negative bias when reports last came in.",
@@ -730,17 +741,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-05T11:33:43+00:00",
         "link": "https://newsonair.gov.in/fpis-remain-net-buyers-of-indian-equities-worth-rs-708-cr/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/05/FPI-jjjrrr.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Domestic markets to take cues from 1st qrt of current fiscal in coming week",
-        "summary": "The domestic markets are expected to take cues from the corporate earnings results of the first quarter of the current fiscal year, geopolitical developments, commodity prices, foreign investor activity, and currency trends in the coming week. Market participants will track the monthly mutual fund data for directions. Elsewhere, the Euro area&#8217;s industrial producer prices […]",
-        "article": "The domestic markets are expected to take cues from the corporate earnings results of the first quarter of the current fiscal year, geopolitical developments, commodity prices, foreign investor activity, and currency trends in the coming week. Market participants will track the monthly mutual fund data for directions. Elsewhere, the Euro area&#8217;s industrial producer prices data, China&#8217;s retail inflation data, and the United States&#8217; trade data will also be in focus. Globally, investors will closely watch geopolitical developments related to the West Asia conflict and the International Energy Agency&#8217;s Oil Market Report, scheduled for release on the 10th of this month.",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T11:02:30+00:00",
-        "link": "https://newsonair.gov.in/domestic-markets-to-take-cues-from-1st-qrt-of-current-fiscal-in-coming-week/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HUMM.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1028,6 +1028,28 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "झारखंड: APEDA ने दुबई को निर्यात किया 2 मीट्रिक टन आम",
+        "summary": "कृषि और प्रसंस्कृत खाद्य उत्पाद निर्यात विकास प्राधिकरण (APEDA) ने झारखंड से 2 मीट्रिक टन आम्रपाली आम का व्यावसायिक निर्यात दुबई के लिए कराया है। वाणिज्य और उद्योग मंत्रालय ने बताया कि ये आम गुमला और देवघर जिलों की महिलाओं द्वारा संचालित 3 किसान उत्पादक कंपनियों से खरीदे गए हैं। इन कंपनियों का विकास बिरसा […]",
+        "article": "कृषि और प्रसंस्कृत खाद्य उत्पाद निर्यात विकास प्राधिकरण (APEDA) ने झारखंड से 2 मीट्रिक टन आम्रपाली आम का व्यावसायिक निर्यात दुबई के लिए कराया है। वाणिज्य और उद्योग मंत्रालय ने बताया कि ये आम गुमला और देवघर जिलों की महिलाओं द्वारा संचालित 3 किसान उत्पादक कंपनियों से खरीदे गए हैं। इन कंपनियों का विकास बिरसा हरित ग्राम योजना के तहत किया गया है। मंत्रालय के अनुसार, इस पहल से किसानों को स्थानीय बाजार की तुलना में लगभग 180 प्रतिशत अधिक मूल्य मिला है। मंत्रालय ने कहा कि यह निर्यात आदिवासी और महिला किसानों को अंतरराष्ट्रीय बाजार से जोड़ने की दिशा में एक महत्वपूर्ण कदम है। मंत्रालय के अनुसार, यह पहल किसान उत्पादक समूहों को निर्यात के लिए तैयार करने, उनकी क्षमता बढ़ाने, और बेहतर बाजार उपलब्ध कराने के प्रयासों का हिस्सा है। इससे झारखंड के बागवानी क्षेत्र के निर्यात को भी बढ़ावा मिलेगा।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T11:51:11+00:00",
+        "link": "https://newsonair.gov.in/hi/jharkhand-apeda-exports-2-metric-tonnes-of-mangoes-to-dubai/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ANI-20260707090943.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "फ्रांस के राष्ट्रपति मैक्रों और सीरिया के राष्ट्रपति की बैठक से पहले दमिश्क में विस्फोट, 18 लोग घायल",
+        "summary": "सीरिया की राजधानी दमिश्क में आज दोपहर दो विस्फोट हुए। इनमें 4 पुलिसकर्मियों सहित 18 लोग घायल हो गए। ये विस्फोट फ्रांस के राष्ट्रपति इमैनुएल मैक्रों और सीरिया के राष्ट्रपति अहमद अल-शरा की राष्ट्रपति भवन में होने वाली बैठक से ठीक पहले हुए। राष्ट्रपति मैक्रों कल दमिश्क पहुंचे थे। बशर अल-असद सरकार के पतन के […]",
+        "article": "सीरिया की राजधानी दमिश्क में आज दोपहर दो विस्फोट हुए। इनमें 4 पुलिसकर्मियों सहित 18 लोग घायल हो गए। ये विस्फोट फ्रांस के राष्ट्रपति इमैनुएल मैक्रों और सीरिया के राष्ट्रपति अहमद अल-शरा की राष्ट्रपति भवन में होने वाली बैठक से ठीक पहले हुए। राष्ट्रपति मैक्रों कल दमिश्क पहुंचे थे। बशर अल-असद सरकार के पतन के बाद युद्ध प्रभावित सीरिया का दौरा करने वाले वे पहले प्रमुख यूरोपीय नेता हैं। खबरों के अनुसार, यह विस्फोट राष्ट्रपति मैक्रों के होटल के निकट हुए हैं। फ्रांस के राष्ट्रपति कार्यालय ने बयान जारी कर कहा कि राष्ट्रपति सुरक्षित हैं और उनकी यात्रा तय कार्यक्रम के अनुसार जारी है। सीरिया के गृह मंत्रालय के हवाले से सरकारी मीडिया ने बताया कि आंतरिक सुरक्षा बलों ने अभियान के दौरान दो विस्फोटक उपकरणों का पता लगाया था। इन्हें निष्क्रिय करने की तैयारी के दौरान ही दोनों में विस्फोट हो गया। इसी महीने की शुरुआत में दमिश्क के मध्य क्षेत्र के एक कैफे में हुए बम विस्फोट में 9 लोगों की मौत हो गई थी और 20 अन्य घायल हुए थे। अधिकारियों ने उस घटना को आतंकवादी हमला बताया था।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T11:37:56+00:00",
+        "link": "https://newsonair.gov.in/hi/explosion-in-damascus-ahead-of-meeting-between-french-president-macron-and-syrian-president-18-people-injured/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "भारत-इंडोनेशिया ने व्यापक रणनीतिक साझेदारी को और मजबूत करने की प्रतिबद्धता दोहराई",
         "summary": "प्रधानमंत्री नरेंद्र मोदी और इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो ने आज जकार्ता में हुई वार्ता के दौरान भारत-इंडोनेशिया व्यापक रणनीतिक साझेदारी को मजबूत करने की अपनी प्रतिबद्धता की पुष्टि की। दोनों नेताओं ने रक्षा, महत्वपूर्ण खनिज, कृषि, इस्पात, समुद्री सहयोग और उभरती प्रौद्योगिकियों से संबंधित कई समझौता ज्ञापनों पर हस्ताक्षर होते देखे। उन्होंने जकार्ता में […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी और इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो ने आज जकार्ता में हुई वार्ता के दौरान भारत-इंडोनेशिया व्यापक रणनीतिक साझेदारी को मजबूत करने की अपनी प्रतिबद्धता की पुष्टि की। दोनों नेताओं ने रक्षा, महत्वपूर्ण खनिज, कृषि, इस्पात, समुद्री सहयोग और उभरती प्रौद्योगिकियों से संबंधित कई समझौता ज्ञापनों पर हस्ताक्षर होते देखे। उन्होंने जकार्ता में आईआईएम बेंगलुरु की एक शाखा स्थापित करने पर सहमति व्यक्त की। दोनों पक्षों ने विनिर्माण, खाद्य सुरक्षा और डिजिटल प्रौद्योगिकी में सहयोग को मजबूत करने पर भी सहमति जताई। संयुक्त प्रेस वार्ता को संबोधित करते हुए राष्ट्रपति प्रबोवो ने भारत को एक विश्वसनीय रणनीतिक साझेदार बताया और प्रमुख क्षेत्रों में संबंधों के विस्तार का स्वागत किया।",
@@ -1127,28 +1149,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "राष्ट्रपति द्रौपदी मुर्मु ने 2026 डूरंड कप ट्रॉफियों का अनावरण किया",
-        "summary": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट […]",
-        "article": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट में श्रीलंकाई टीम की भागीदारी पर खुशी व्यक्त की। राष्ट्रपति ने टूर्नामेंट में भाग लेने वाली सभी टीमों और खिलाड़ियों को शुभकामनाएं दीं। उन्होंने उनसे खेल भावना का पालन करने और सर्वश्रेष्ठ प्रदर्शन करके इस ऐतिहासिक प्रतियोगिता की प्रतिष्ठा को और बढ़ाने का आग्रह किया। इस अवसर पर चीफ ऑफ डिफेंस स्टाफ जनरल एनएस राजा सुब्रमणि, सेना प्रमुख धीरज सेठ और नौसेना प्रमुख एडमिरल कृष्णा स्वामीनाथन भी उपस्थित थे।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:39:25+00:00",
-        "link": "https://newsonair.gov.in/hi/president-droupadi-murmu-unveiled-the-2026-durand-cup-trophies-and-flagged-them-off/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/23.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "फैक्ट चैक: चीनी सेना के भारत में 60 किलोमीटर अंदर तक घुसने का दावा झूठा",
-        "summary": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे उन वीडियो का खंडन किया है जिनमें झूठा दावा किया जा रहा है कि चीनी सेना भारत में 60 किलोमीटर अंदर तक घुस आई है। पत्र सूचना कार्यालय की तथ्य जाँच इकाई ने कहा कि यह दावा फर्जी है। उसने आगे स्पष्ट किया कि प्रसारित हो रहे […]",
-        "article": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे उन वीडियो का खंडन किया है जिनमें झूठा दावा किया जा रहा है कि चीनी सेना भारत में 60 किलोमीटर अंदर तक घुस आई है। पत्र सूचना कार्यालय की तथ्य जाँच इकाई ने कहा कि यह दावा फर्जी है। उसने आगे स्पष्ट किया कि प्रसारित हो रहे वीडियो का इससे कोई संबंध नहीं है और ये भारत-चीन सीमा से संबंधित भी नहीं हैं।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:37:24+00:00",
-        "link": "https://newsonair.gov.in/hi/fact-check-claim-that-the-chinese-army-intruded-60-kilometers-into-india-is-false/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-07-140625.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "कल से केरल के कोच्चि में शुरू होने वाली दो दिवसीय ब्रिक्स महिला मंत्रिस्तरीय बैठक की मेजबानी करेगा भारत",
         "summary": "भारत कल से केरल के कोच्चि में शुरू होने वाली दो दिवसीय ब्रिक्स महिला मंत्रिस्तरीय बैठक की मेजबानी करेगा। महिला और बाल विकास मंत्रालय ने बताया कि इस बैठक के दौरान ब्रिक्स सदस्य देशों के मंत्री सहयोग को मजबूत करेंगे और अपने-अपने ब्रिक्स अध्यक्षों के नेतृत्व में महिला नेतृत्व वाले विकास के लिए एक साझा […]",
         "article": "भारत कल से केरल के कोच्चि में शुरू होने वाली दो दिवसीय ब्रिक्स महिला मंत्रिस्तरीय बैठक की मेजबानी करेगा। महिला और बाल विकास मंत्रालय ने बताया कि इस बैठक के दौरान ब्रिक्स सदस्य देशों के मंत्री सहयोग को मजबूत करेंगे और अपने-अपने ब्रिक्स अध्यक्षों के नेतृत्व में महिला नेतृत्व वाले विकास के लिए एक साझा दृष्टिकोण को आगे बढ़ाएंगे। वे प्रस्तावित परिणामों पर विचार-विमर्श करेंगे और ब्रिक्स सदस्य देशों के बीच सहयोग को आगे बढ़ाने के लिए रणनीतिक दिशा-निर्देश प्रदान करेंगे। इस दौरान कई सत्र आयोजित किए जाएंगे ताकि महिलाओं की भागीदारी को मजबूती प्रदान की जा सके। मंत्रिस्तरीय बैठक इसी महीने की 6-7 तारीख को आयोजित ब्रिक्स महिला कार्य समूह की बैठक के बाद हो रही है।",
@@ -1161,6 +1161,17 @@ window.VM_NEWS = {
       }
     ],
     "breaking": [
+      {
+        "title": "झारखंड: APEDA ने दुबई को निर्यात किया 2 मीट्रिक टन आम",
+        "summary": "कृषि और प्रसंस्कृत खाद्य उत्पाद निर्यात विकास प्राधिकरण (APEDA) ने झारखंड से 2 मीट्रिक टन आम्रपाली आम का व्यावसायिक निर्यात दुबई के लिए कराया है। वाणिज्य और उद्योग मंत्रालय ने बताया कि ये आम गुमला और देवघर जिलों की महिलाओं द्वारा संचालित 3 किसान उत्पादक कंपनियों से खरीदे गए हैं। इन कंपनियों का विकास बिरसा […]",
+        "article": "कृषि और प्रसंस्कृत खाद्य उत्पाद निर्यात विकास प्राधिकरण (APEDA) ने झारखंड से 2 मीट्रिक टन आम्रपाली आम का व्यावसायिक निर्यात दुबई के लिए कराया है। वाणिज्य और उद्योग मंत्रालय ने बताया कि ये आम गुमला और देवघर जिलों की महिलाओं द्वारा संचालित 3 किसान उत्पादक कंपनियों से खरीदे गए हैं। इन कंपनियों का विकास बिरसा हरित ग्राम योजना के तहत किया गया है। मंत्रालय के अनुसार, इस पहल से किसानों को स्थानीय बाजार की तुलना में लगभग 180 प्रतिशत अधिक मूल्य मिला है। मंत्रालय ने कहा कि यह निर्यात आदिवासी और महिला किसानों को अंतरराष्ट्रीय बाजार से जोड़ने की दिशा में एक महत्वपूर्ण कदम है। मंत्रालय के अनुसार, यह पहल किसान उत्पादक समूहों को निर्यात के लिए तैयार करने, उनकी क्षमता बढ़ाने, और बेहतर बाजार उपलब्ध कराने के प्रयासों का हिस्सा है। इससे झारखंड के बागवानी क्षेत्र के निर्यात को भी बढ़ावा मिलेगा।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T11:51:11+00:00",
+        "link": "https://newsonair.gov.in/hi/jharkhand-apeda-exports-2-metric-tonnes-of-mangoes-to-dubai/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ANI-20260707090943.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "भारत-इंडोनेशिया ने व्यापक रणनीतिक साझेदारी को और मजबूत करने की प्रतिबद्धता दोहराई",
         "summary": "प्रधानमंत्री नरेंद्र मोदी और इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो ने आज जकार्ता में हुई वार्ता के दौरान भारत-इंडोनेशिया व्यापक रणनीतिक साझेदारी को मजबूत करने की अपनी प्रतिबद्धता की पुष्टि की। दोनों नेताओं ने रक्षा, महत्वपूर्ण खनिज, कृषि, इस्पात, समुद्री सहयोग और उभरती प्रौद्योगिकियों से संबंधित कई समझौता ज्ञापनों पर हस्ताक्षर होते देखे। उन्होंने जकार्ता में […]",
@@ -1239,25 +1250,15 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "राष्ट्रपति द्रौपदी मुर्मु ने 2026 डूरंड कप ट्रॉफियों का अनावरण किया",
-        "summary": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट […]",
-        "article": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट में श्रीलंकाई टीम की भागीदारी पर खुशी व्यक्त की। राष्ट्रपति ने टूर्नामेंट में भाग लेने वाली सभी टीमों और खिलाड़ियों को शुभकामनाएं दीं। उन्होंने उनसे खेल भावना का पालन करने और सर्वश्रेष्ठ प्रदर्शन करके इस ऐतिहासिक प्रतियोगिता की प्रतिष्ठा को और बढ़ाने का आग्रह किया। इस अवसर पर चीफ ऑफ डिफेंस स्टाफ जनरल एनएस राजा सुब्रमणि, सेना प्रमुख धीरज सेठ और नौसेना प्रमुख एडमिरल कृष्णा स्वामीनाथन भी उपस्थित थे।",
+        "title": "प्रधानमंत्री मोदी ने भारत-इंडोनेशिया रणनीतिक साझेदारी को और मजबूत करने का आह्वान किया",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी ने आज भारत-इंडोनेशिया रणनीतिक साझेदारी को और मजबूत करने का आह्वान किया। उन्होंने कहा कि इससे दोनों देशों की समृद्धि बढ़ेगी और क्षेत्रीय तथा वैश्विक शांति और स्थिरता भी बनी रहेगी। जकार्ता में इंडोनेशियाई संसद को संबोधित करते हुए श्री मोदी ने कहा कि भारत और इंडोनेशिया के बीच संबंध सदियों पुराने […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी ने आज भारत-इंडोनेशिया रणनीतिक साझेदारी को और मजबूत करने का आह्वान किया। उन्होंने कहा कि इससे दोनों देशों की समृद्धि बढ़ेगी और क्षेत्रीय तथा वैश्विक शांति और स्थिरता भी बनी रहेगी। जकार्ता में इंडोनेशियाई संसद को संबोधित करते हुए श्री मोदी ने कहा कि भारत और इंडोनेशिया के बीच संबंध सदियों पुराने हैं और दोनों देशों में समान लोकतांत्रिक मूल्य, आपसी विश्वास और भविष्य के लिए एक साझा दृष्टिकोण है। प्रधानमंत्री ने कहा कि भारत विकास, शांति, स्थिरता और समृद्धि में विश्वास रखता है। श्री मोदी ने आतंकवाद और क्षेत्रीय सुरक्षा को कमजोर करने वाली एकतरफा कार्रवाइयों के खिलाफ सामूहिक कार्रवाई की आवश्यकता को रेखांकित किया। उन्होंने भारत-प्रशांत क्षेत्र के अलावा वैश्विक दक्षिण की स्थिरता पर भी बल दिया। प्रधानमंत्री ने रक्षा, समुद्री सुरक्षा, व्यापार, डिजिटल प्रौद्योगिकी, शिक्षा, एआई और महत्वपूर्ण खनिजों के क्षेत्र में सहयोग बढ़ाने का आह्वान किया। उन्होंने दोनों देशों के लोगों के लाभ के लिए यूपीआई, एआई, शिक्षा, स्टार्टअप और नवाचार सहित डिजिटल सार्वजनिक अवसंरचना में सहयोग बढ़ाने पर भी ज़ोर दिया। दोनों देशों के बीच सदियों पुराने सांस्कृतिक संबंधों पर प्रधानमंत्री ने कहा कि साझा विरासत रामायण से लेकर बोरोबुदुर तक फैली हुई है। यह भारत और इंडोनेशिया के बीच मजबूत सभ्यतागत जुड़ाव को दर्शाती है। प्रधानमंत्री ने साइबर सुरक्षा, आपातकालीन तैयारियों और ग्रेट निकोबार से लेकर मलक्का जलडमरूमध्य तक फैले समुद्री सहयोग में घनिष्ठ सहयोग की वकालत की। उन्होंने लोगों के बीच संबंधों को मजबूत करने को भी बल दिया। श्री मोदी ने कहा कि गंगा महाकुंभ जैसी पहल भारत की सांस्कृतिक भावना को दर्शाती हैं और द्विपक्षीय सहयोग को और बढ़ाने का अवसर प्रदान करती हैं। संबंधों के वर्तमान चरण को भारत-इंडोनेशिया संबंधों में एक नए अध्याय की शुरुआत बताते हुए श्री मोदी ने विश्वास व्यक्त किया कि विस्तारित साझेदारी हिंद-प्रशांत क्षेत्र में शांति, प्रगति और साझा समृद्धि के लिए एक मजबूत शक्ति के रूप में कार्य करेगी।",
         "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:39:25+00:00",
-        "link": "https://newsonair.gov.in/hi/president-droupadi-murmu-unveiled-the-2026-durand-cup-trophies-and-flagged-them-off/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/23.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "फैक्ट चैक: चीनी सेना के भारत में 60 किलोमीटर अंदर तक घुसने का दावा झूठा",
-        "summary": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे उन वीडियो का खंडन किया है जिनमें झूठा दावा किया जा रहा है कि चीनी सेना भारत में 60 किलोमीटर अंदर तक घुस आई है। पत्र सूचना कार्यालय की तथ्य जाँच इकाई ने कहा कि यह दावा फर्जी है। उसने आगे स्पष्ट किया कि प्रसारित हो रहे […]",
-        "article": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे उन वीडियो का खंडन किया है जिनमें झूठा दावा किया जा रहा है कि चीनी सेना भारत में 60 किलोमीटर अंदर तक घुस आई है। पत्र सूचना कार्यालय की तथ्य जाँच इकाई ने कहा कि यह दावा फर्जी है। उसने आगे स्पष्ट किया कि प्रसारित हो रहे वीडियो का इससे कोई संबंध नहीं है और ये भारत-चीन सीमा से संबंधित भी नहीं हैं।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:37:24+00:00",
-        "link": "https://newsonair.gov.in/hi/fact-check-claim-that-the-chinese-army-intruded-60-kilometers-into-india-is-false/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-07-140625.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-07T12:00:57+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-called-for-further-strengthening-the-india-indonesia-strategic-partnership/",
+        "post_id": 1724109,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1275,6 +1276,17 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "झारखंड: APEDA ने दुबई को निर्यात किया 2 मीट्रिक टन आम",
+        "summary": "कृषि और प्रसंस्कृत खाद्य उत्पाद निर्यात विकास प्राधिकरण (APEDA) ने झारखंड से 2 मीट्रिक टन आम्रपाली आम का व्यावसायिक निर्यात दुबई के लिए कराया है। वाणिज्य और उद्योग मंत्रालय ने बताया कि ये आम गुमला और देवघर जिलों की महिलाओं द्वारा संचालित 3 किसान उत्पादक कंपनियों से खरीदे गए हैं। इन कंपनियों का विकास बिरसा […]",
+        "article": "कृषि और प्रसंस्कृत खाद्य उत्पाद निर्यात विकास प्राधिकरण (APEDA) ने झारखंड से 2 मीट्रिक टन आम्रपाली आम का व्यावसायिक निर्यात दुबई के लिए कराया है। वाणिज्य और उद्योग मंत्रालय ने बताया कि ये आम गुमला और देवघर जिलों की महिलाओं द्वारा संचालित 3 किसान उत्पादक कंपनियों से खरीदे गए हैं। इन कंपनियों का विकास बिरसा हरित ग्राम योजना के तहत किया गया है। मंत्रालय के अनुसार, इस पहल से किसानों को स्थानीय बाजार की तुलना में लगभग 180 प्रतिशत अधिक मूल्य मिला है। मंत्रालय ने कहा कि यह निर्यात आदिवासी और महिला किसानों को अंतरराष्ट्रीय बाजार से जोड़ने की दिशा में एक महत्वपूर्ण कदम है। मंत्रालय के अनुसार, यह पहल किसान उत्पादक समूहों को निर्यात के लिए तैयार करने, उनकी क्षमता बढ़ाने, और बेहतर बाजार उपलब्ध कराने के प्रयासों का हिस्सा है। इससे झारखंड के बागवानी क्षेत्र के निर्यात को भी बढ़ावा मिलेगा।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T11:51:11+00:00",
+        "link": "https://newsonair.gov.in/hi/jharkhand-apeda-exports-2-metric-tonnes-of-mangoes-to-dubai/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ANI-20260707090943.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "भारत-इंडोनेशिया ने व्यापक रणनीतिक साझेदारी को और मजबूत करने की प्रतिबद्धता दोहराई",
         "summary": "प्रधानमंत्री नरेंद्र मोदी और इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो ने आज जकार्ता में हुई वार्ता के दौरान भारत-इंडोनेशिया व्यापक रणनीतिक साझेदारी को मजबूत करने की अपनी प्रतिबद्धता की पुष्टि की। दोनों नेताओं ने रक्षा, महत्वपूर्ण खनिज, कृषि, इस्पात, समुद्री सहयोग और उभरती प्रौद्योगिकियों से संबंधित कई समझौता ज्ञापनों पर हस्ताक्षर होते देखे। उन्होंने जकार्ता में […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी और इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो ने आज जकार्ता में हुई वार्ता के दौरान भारत-इंडोनेशिया व्यापक रणनीतिक साझेदारी को मजबूत करने की अपनी प्रतिबद्धता की पुष्टि की। दोनों नेताओं ने रक्षा, महत्वपूर्ण खनिज, कृषि, इस्पात, समुद्री सहयोग और उभरती प्रौद्योगिकियों से संबंधित कई समझौता ज्ञापनों पर हस्ताक्षर होते देखे। उन्होंने जकार्ता में आईआईएम बेंगलुरु की एक शाखा स्थापित करने पर सहमति व्यक्त की। दोनों पक्षों ने विनिर्माण, खाद्य सुरक्षा और डिजिटल प्रौद्योगिकी में सहयोग को मजबूत करने पर भी सहमति जताई। संयुक्त प्रेस वार्ता को संबोधित करते हुए राष्ट्रपति प्रबोवो ने भारत को एक विश्वसनीय रणनीतिक साझेदार बताया और प्रमुख क्षेत्रों में संबंधों के विस्तार का स्वागत किया।",
@@ -1352,25 +1364,15 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "राष्ट्रपति द्रौपदी मुर्मु ने 2026 डूरंड कप ट्रॉफियों का अनावरण किया",
-        "summary": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट […]",
-        "article": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट में श्रीलंकाई टीम की भागीदारी पर खुशी व्यक्त की। राष्ट्रपति ने टूर्नामेंट में भाग लेने वाली सभी टीमों और खिलाड़ियों को शुभकामनाएं दीं। उन्होंने उनसे खेल भावना का पालन करने और सर्वश्रेष्ठ प्रदर्शन करके इस ऐतिहासिक प्रतियोगिता की प्रतिष्ठा को और बढ़ाने का आग्रह किया। इस अवसर पर चीफ ऑफ डिफेंस स्टाफ जनरल एनएस राजा सुब्रमणि, सेना प्रमुख धीरज सेठ और नौसेना प्रमुख एडमिरल कृष्णा स्वामीनाथन भी उपस्थित थे।",
+        "title": "प्रधानमंत्री मोदी ने भारत-इंडोनेशिया रणनीतिक साझेदारी को और मजबूत करने का आह्वान किया",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी ने आज भारत-इंडोनेशिया रणनीतिक साझेदारी को और मजबूत करने का आह्वान किया। उन्होंने कहा कि इससे दोनों देशों की समृद्धि बढ़ेगी और क्षेत्रीय तथा वैश्विक शांति और स्थिरता भी बनी रहेगी। जकार्ता में इंडोनेशियाई संसद को संबोधित करते हुए श्री मोदी ने कहा कि भारत और इंडोनेशिया के बीच संबंध सदियों पुराने […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी ने आज भारत-इंडोनेशिया रणनीतिक साझेदारी को और मजबूत करने का आह्वान किया। उन्होंने कहा कि इससे दोनों देशों की समृद्धि बढ़ेगी और क्षेत्रीय तथा वैश्विक शांति और स्थिरता भी बनी रहेगी। जकार्ता में इंडोनेशियाई संसद को संबोधित करते हुए श्री मोदी ने कहा कि भारत और इंडोनेशिया के बीच संबंध सदियों पुराने हैं और दोनों देशों में समान लोकतांत्रिक मूल्य, आपसी विश्वास और भविष्य के लिए एक साझा दृष्टिकोण है। प्रधानमंत्री ने कहा कि भारत विकास, शांति, स्थिरता और समृद्धि में विश्वास रखता है। श्री मोदी ने आतंकवाद और क्षेत्रीय सुरक्षा को कमजोर करने वाली एकतरफा कार्रवाइयों के खिलाफ सामूहिक कार्रवाई की आवश्यकता को रेखांकित किया। उन्होंने भारत-प्रशांत क्षेत्र के अलावा वैश्विक दक्षिण की स्थिरता पर भी बल दिया। प्रधानमंत्री ने रक्षा, समुद्री सुरक्षा, व्यापार, डिजिटल प्रौद्योगिकी, शिक्षा, एआई और महत्वपूर्ण खनिजों के क्षेत्र में सहयोग बढ़ाने का आह्वान किया। उन्होंने दोनों देशों के लोगों के लाभ के लिए यूपीआई, एआई, शिक्षा, स्टार्टअप और नवाचार सहित डिजिटल सार्वजनिक अवसंरचना में सहयोग बढ़ाने पर भी ज़ोर दिया। दोनों देशों के बीच सदियों पुराने सांस्कृतिक संबंधों पर प्रधानमंत्री ने कहा कि साझा विरासत रामायण से लेकर बोरोबुदुर तक फैली हुई है। यह भारत और इंडोनेशिया के बीच मजबूत सभ्यतागत जुड़ाव को दर्शाती है। प्रधानमंत्री ने साइबर सुरक्षा, आपातकालीन तैयारियों और ग्रेट निकोबार से लेकर मलक्का जलडमरूमध्य तक फैले समुद्री सहयोग में घनिष्ठ सहयोग की वकालत की। उन्होंने लोगों के बीच संबंधों को मजबूत करने को भी बल दिया। श्री मोदी ने कहा कि गंगा महाकुंभ जैसी पहल भारत की सांस्कृतिक भावना को दर्शाती हैं और द्विपक्षीय सहयोग को और बढ़ाने का अवसर प्रदान करती हैं। संबंधों के वर्तमान चरण को भारत-इंडोनेशिया संबंधों में एक नए अध्याय की शुरुआत बताते हुए श्री मोदी ने विश्वास व्यक्त किया कि विस्तारित साझेदारी हिंद-प्रशांत क्षेत्र में शांति, प्रगति और साझा समृद्धि के लिए एक मजबूत शक्ति के रूप में कार्य करेगी।",
         "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:39:25+00:00",
-        "link": "https://newsonair.gov.in/hi/president-droupadi-murmu-unveiled-the-2026-durand-cup-trophies-and-flagged-them-off/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/23.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "फैक्ट चैक: चीनी सेना के भारत में 60 किलोमीटर अंदर तक घुसने का दावा झूठा",
-        "summary": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे उन वीडियो का खंडन किया है जिनमें झूठा दावा किया जा रहा है कि चीनी सेना भारत में 60 किलोमीटर अंदर तक घुस आई है। पत्र सूचना कार्यालय की तथ्य जाँच इकाई ने कहा कि यह दावा फर्जी है। उसने आगे स्पष्ट किया कि प्रसारित हो रहे […]",
-        "article": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे उन वीडियो का खंडन किया है जिनमें झूठा दावा किया जा रहा है कि चीनी सेना भारत में 60 किलोमीटर अंदर तक घुस आई है। पत्र सूचना कार्यालय की तथ्य जाँच इकाई ने कहा कि यह दावा फर्जी है। उसने आगे स्पष्ट किया कि प्रसारित हो रहे वीडियो का इससे कोई संबंध नहीं है और ये भारत-चीन सीमा से संबंधित भी नहीं हैं।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:37:24+00:00",
-        "link": "https://newsonair.gov.in/hi/fact-check-claim-that-the-chinese-army-intruded-60-kilometers-into-india-is-false/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-07-140625.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-07T12:00:57+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-called-for-further-strengthening-the-india-indonesia-strategic-partnership/",
+        "post_id": 1724109,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1388,6 +1390,17 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "झारखंड: APEDA ने दुबई को निर्यात किया 2 मीट्रिक टन आम",
+        "summary": "कृषि और प्रसंस्कृत खाद्य उत्पाद निर्यात विकास प्राधिकरण (APEDA) ने झारखंड से 2 मीट्रिक टन आम्रपाली आम का व्यावसायिक निर्यात दुबई के लिए कराया है। वाणिज्य और उद्योग मंत्रालय ने बताया कि ये आम गुमला और देवघर जिलों की महिलाओं द्वारा संचालित 3 किसान उत्पादक कंपनियों से खरीदे गए हैं। इन कंपनियों का विकास बिरसा […]",
+        "article": "कृषि और प्रसंस्कृत खाद्य उत्पाद निर्यात विकास प्राधिकरण (APEDA) ने झारखंड से 2 मीट्रिक टन आम्रपाली आम का व्यावसायिक निर्यात दुबई के लिए कराया है। वाणिज्य और उद्योग मंत्रालय ने बताया कि ये आम गुमला और देवघर जिलों की महिलाओं द्वारा संचालित 3 किसान उत्पादक कंपनियों से खरीदे गए हैं। इन कंपनियों का विकास बिरसा हरित ग्राम योजना के तहत किया गया है। मंत्रालय के अनुसार, इस पहल से किसानों को स्थानीय बाजार की तुलना में लगभग 180 प्रतिशत अधिक मूल्य मिला है। मंत्रालय ने कहा कि यह निर्यात आदिवासी और महिला किसानों को अंतरराष्ट्रीय बाजार से जोड़ने की दिशा में एक महत्वपूर्ण कदम है। मंत्रालय के अनुसार, यह पहल किसान उत्पादक समूहों को निर्यात के लिए तैयार करने, उनकी क्षमता बढ़ाने, और बेहतर बाजार उपलब्ध कराने के प्रयासों का हिस्सा है। इससे झारखंड के बागवानी क्षेत्र के निर्यात को भी बढ़ावा मिलेगा।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T11:51:11+00:00",
+        "link": "https://newsonair.gov.in/hi/jharkhand-apeda-exports-2-metric-tonnes-of-mangoes-to-dubai/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ANI-20260707090943.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "भारत-इंडोनेशिया ने व्यापक रणनीतिक साझेदारी को और मजबूत करने की प्रतिबद्धता दोहराई",
         "summary": "प्रधानमंत्री नरेंद्र मोदी और इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो ने आज जकार्ता में हुई वार्ता के दौरान भारत-इंडोनेशिया व्यापक रणनीतिक साझेदारी को मजबूत करने की अपनी प्रतिबद्धता की पुष्टि की। दोनों नेताओं ने रक्षा, महत्वपूर्ण खनिज, कृषि, इस्पात, समुद्री सहयोग और उभरती प्रौद्योगिकियों से संबंधित कई समझौता ज्ञापनों पर हस्ताक्षर होते देखे। उन्होंने जकार्ता में […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी और इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो ने आज जकार्ता में हुई वार्ता के दौरान भारत-इंडोनेशिया व्यापक रणनीतिक साझेदारी को मजबूत करने की अपनी प्रतिबद्धता की पुष्टि की। दोनों नेताओं ने रक्षा, महत्वपूर्ण खनिज, कृषि, इस्पात, समुद्री सहयोग और उभरती प्रौद्योगिकियों से संबंधित कई समझौता ज्ञापनों पर हस्ताक्षर होते देखे। उन्होंने जकार्ता में आईआईएम बेंगलुरु की एक शाखा स्थापित करने पर सहमति व्यक्त की। दोनों पक्षों ने विनिर्माण, खाद्य सुरक्षा और डिजिटल प्रौद्योगिकी में सहयोग को मजबूत करने पर भी सहमति जताई। संयुक्त प्रेस वार्ता को संबोधित करते हुए राष्ट्रपति प्रबोवो ने भारत को एक विश्वसनीय रणनीतिक साझेदार बताया और प्रमुख क्षेत्रों में संबंधों के विस्तार का स्वागत किया।",
@@ -1465,25 +1478,15 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "राष्ट्रपति द्रौपदी मुर्मु ने 2026 डूरंड कप ट्रॉफियों का अनावरण किया",
-        "summary": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट […]",
-        "article": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट में श्रीलंकाई टीम की भागीदारी पर खुशी व्यक्त की। राष्ट्रपति ने टूर्नामेंट में भाग लेने वाली सभी टीमों और खिलाड़ियों को शुभकामनाएं दीं। उन्होंने उनसे खेल भावना का पालन करने और सर्वश्रेष्ठ प्रदर्शन करके इस ऐतिहासिक प्रतियोगिता की प्रतिष्ठा को और बढ़ाने का आग्रह किया। इस अवसर पर चीफ ऑफ डिफेंस स्टाफ जनरल एनएस राजा सुब्रमणि, सेना प्रमुख धीरज सेठ और नौसेना प्रमुख एडमिरल कृष्णा स्वामीनाथन भी उपस्थित थे।",
+        "title": "प्रधानमंत्री मोदी ने भारत-इंडोनेशिया रणनीतिक साझेदारी को और मजबूत करने का आह्वान किया",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी ने आज भारत-इंडोनेशिया रणनीतिक साझेदारी को और मजबूत करने का आह्वान किया। उन्होंने कहा कि इससे दोनों देशों की समृद्धि बढ़ेगी और क्षेत्रीय तथा वैश्विक शांति और स्थिरता भी बनी रहेगी। जकार्ता में इंडोनेशियाई संसद को संबोधित करते हुए श्री मोदी ने कहा कि भारत और इंडोनेशिया के बीच संबंध सदियों पुराने […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी ने आज भारत-इंडोनेशिया रणनीतिक साझेदारी को और मजबूत करने का आह्वान किया। उन्होंने कहा कि इससे दोनों देशों की समृद्धि बढ़ेगी और क्षेत्रीय तथा वैश्विक शांति और स्थिरता भी बनी रहेगी। जकार्ता में इंडोनेशियाई संसद को संबोधित करते हुए श्री मोदी ने कहा कि भारत और इंडोनेशिया के बीच संबंध सदियों पुराने हैं और दोनों देशों में समान लोकतांत्रिक मूल्य, आपसी विश्वास और भविष्य के लिए एक साझा दृष्टिकोण है। प्रधानमंत्री ने कहा कि भारत विकास, शांति, स्थिरता और समृद्धि में विश्वास रखता है। श्री मोदी ने आतंकवाद और क्षेत्रीय सुरक्षा को कमजोर करने वाली एकतरफा कार्रवाइयों के खिलाफ सामूहिक कार्रवाई की आवश्यकता को रेखांकित किया। उन्होंने भारत-प्रशांत क्षेत्र के अलावा वैश्विक दक्षिण की स्थिरता पर भी बल दिया। प्रधानमंत्री ने रक्षा, समुद्री सुरक्षा, व्यापार, डिजिटल प्रौद्योगिकी, शिक्षा, एआई और महत्वपूर्ण खनिजों के क्षेत्र में सहयोग बढ़ाने का आह्वान किया। उन्होंने दोनों देशों के लोगों के लाभ के लिए यूपीआई, एआई, शिक्षा, स्टार्टअप और नवाचार सहित डिजिटल सार्वजनिक अवसंरचना में सहयोग बढ़ाने पर भी ज़ोर दिया। दोनों देशों के बीच सदियों पुराने सांस्कृतिक संबंधों पर प्रधानमंत्री ने कहा कि साझा विरासत रामायण से लेकर बोरोबुदुर तक फैली हुई है। यह भारत और इंडोनेशिया के बीच मजबूत सभ्यतागत जुड़ाव को दर्शाती है। प्रधानमंत्री ने साइबर सुरक्षा, आपातकालीन तैयारियों और ग्रेट निकोबार से लेकर मलक्का जलडमरूमध्य तक फैले समुद्री सहयोग में घनिष्ठ सहयोग की वकालत की। उन्होंने लोगों के बीच संबंधों को मजबूत करने को भी बल दिया। श्री मोदी ने कहा कि गंगा महाकुंभ जैसी पहल भारत की सांस्कृतिक भावना को दर्शाती हैं और द्विपक्षीय सहयोग को और बढ़ाने का अवसर प्रदान करती हैं। संबंधों के वर्तमान चरण को भारत-इंडोनेशिया संबंधों में एक नए अध्याय की शुरुआत बताते हुए श्री मोदी ने विश्वास व्यक्त किया कि विस्तारित साझेदारी हिंद-प्रशांत क्षेत्र में शांति, प्रगति और साझा समृद्धि के लिए एक मजबूत शक्ति के रूप में कार्य करेगी।",
         "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:39:25+00:00",
-        "link": "https://newsonair.gov.in/hi/president-droupadi-murmu-unveiled-the-2026-durand-cup-trophies-and-flagged-them-off/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/23.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "फैक्ट चैक: चीनी सेना के भारत में 60 किलोमीटर अंदर तक घुसने का दावा झूठा",
-        "summary": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे उन वीडियो का खंडन किया है जिनमें झूठा दावा किया जा रहा है कि चीनी सेना भारत में 60 किलोमीटर अंदर तक घुस आई है। पत्र सूचना कार्यालय की तथ्य जाँच इकाई ने कहा कि यह दावा फर्जी है। उसने आगे स्पष्ट किया कि प्रसारित हो रहे […]",
-        "article": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे उन वीडियो का खंडन किया है जिनमें झूठा दावा किया जा रहा है कि चीनी सेना भारत में 60 किलोमीटर अंदर तक घुस आई है। पत्र सूचना कार्यालय की तथ्य जाँच इकाई ने कहा कि यह दावा फर्जी है। उसने आगे स्पष्ट किया कि प्रसारित हो रहे वीडियो का इससे कोई संबंध नहीं है और ये भारत-चीन सीमा से संबंधित भी नहीं हैं।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:37:24+00:00",
-        "link": "https://newsonair.gov.in/hi/fact-check-claim-that-the-chinese-army-intruded-60-kilometers-into-india-is-false/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-07-140625.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-07T12:00:57+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-called-for-further-strengthening-the-india-indonesia-strategic-partnership/",
+        "post_id": 1724109,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1500,6 +1503,28 @@ window.VM_NEWS = {
       }
     ],
     "world": [
+      {
+        "title": "प्रधानमंत्री मोदी ने भारत-इंडोनेशिया रणनीतिक साझेदारी को और मजबूत करने का आह्वान किया",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी ने आज भारत-इंडोनेशिया रणनीतिक साझेदारी को और मजबूत करने का आह्वान किया। उन्होंने कहा कि इससे दोनों देशों की समृद्धि बढ़ेगी और क्षेत्रीय तथा वैश्विक शांति और स्थिरता भी बनी रहेगी। जकार्ता में इंडोनेशियाई संसद को संबोधित करते हुए श्री मोदी ने कहा कि भारत और इंडोनेशिया के बीच संबंध सदियों पुराने […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी ने आज भारत-इंडोनेशिया रणनीतिक साझेदारी को और मजबूत करने का आह्वान किया। उन्होंने कहा कि इससे दोनों देशों की समृद्धि बढ़ेगी और क्षेत्रीय तथा वैश्विक शांति और स्थिरता भी बनी रहेगी। जकार्ता में इंडोनेशियाई संसद को संबोधित करते हुए श्री मोदी ने कहा कि भारत और इंडोनेशिया के बीच संबंध सदियों पुराने हैं और दोनों देशों में समान लोकतांत्रिक मूल्य, आपसी विश्वास और भविष्य के लिए एक साझा दृष्टिकोण है। प्रधानमंत्री ने कहा कि भारत विकास, शांति, स्थिरता और समृद्धि में विश्वास रखता है। श्री मोदी ने आतंकवाद और क्षेत्रीय सुरक्षा को कमजोर करने वाली एकतरफा कार्रवाइयों के खिलाफ सामूहिक कार्रवाई की आवश्यकता को रेखांकित किया। उन्होंने भारत-प्रशांत क्षेत्र के अलावा वैश्विक दक्षिण की स्थिरता पर भी बल दिया। प्रधानमंत्री ने रक्षा, समुद्री सुरक्षा, व्यापार, डिजिटल प्रौद्योगिकी, शिक्षा, एआई और महत्वपूर्ण खनिजों के क्षेत्र में सहयोग बढ़ाने का आह्वान किया। उन्होंने दोनों देशों के लोगों के लाभ के लिए यूपीआई, एआई, शिक्षा, स्टार्टअप और नवाचार सहित डिजिटल सार्वजनिक अवसंरचना में सहयोग बढ़ाने पर भी ज़ोर दिया। दोनों देशों के बीच सदियों पुराने सांस्कृतिक संबंधों पर प्रधानमंत्री ने कहा कि साझा विरासत रामायण से लेकर बोरोबुदुर तक फैली हुई है। यह भारत और इंडोनेशिया के बीच मजबूत सभ्यतागत जुड़ाव को दर्शाती है। प्रधानमंत्री ने साइबर सुरक्षा, आपातकालीन तैयारियों और ग्रेट निकोबार से लेकर मलक्का जलडमरूमध्य तक फैले समुद्री सहयोग में घनिष्ठ सहयोग की वकालत की। उन्होंने लोगों के बीच संबंधों को मजबूत करने को भी बल दिया। श्री मोदी ने कहा कि गंगा महाकुंभ जैसी पहल भारत की सांस्कृतिक भावना को दर्शाती हैं और द्विपक्षीय सहयोग को और बढ़ाने का अवसर प्रदान करती हैं। संबंधों के वर्तमान चरण को भारत-इंडोनेशिया संबंधों में एक नए अध्याय की शुरुआत बताते हुए श्री मोदी ने विश्वास व्यक्त किया कि विस्तारित साझेदारी हिंद-प्रशांत क्षेत्र में शांति, प्रगति और साझा समृद्धि के लिए एक मजबूत शक्ति के रूप में कार्य करेगी।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T12:00:57+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-called-for-further-strengthening-the-india-indonesia-strategic-partnership/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-Picsart-AiImageEnhancer-1-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "फ्रांस के राष्ट्रपति मैक्रों और सीरिया के राष्ट्रपति की बैठक से पहले दमिश्क में विस्फोट, 18 लोग घायल",
+        "summary": "सीरिया की राजधानी दमिश्क में आज दोपहर दो विस्फोट हुए। इनमें 4 पुलिसकर्मियों सहित 18 लोग घायल हो गए। ये विस्फोट फ्रांस के राष्ट्रपति इमैनुएल मैक्रों और सीरिया के राष्ट्रपति अहमद अल-शरा की राष्ट्रपति भवन में होने वाली बैठक से ठीक पहले हुए। राष्ट्रपति मैक्रों कल दमिश्क पहुंचे थे। बशर अल-असद सरकार के पतन के […]",
+        "article": "सीरिया की राजधानी दमिश्क में आज दोपहर दो विस्फोट हुए। इनमें 4 पुलिसकर्मियों सहित 18 लोग घायल हो गए। ये विस्फोट फ्रांस के राष्ट्रपति इमैनुएल मैक्रों और सीरिया के राष्ट्रपति अहमद अल-शरा की राष्ट्रपति भवन में होने वाली बैठक से ठीक पहले हुए। राष्ट्रपति मैक्रों कल दमिश्क पहुंचे थे। बशर अल-असद सरकार के पतन के बाद युद्ध प्रभावित सीरिया का दौरा करने वाले वे पहले प्रमुख यूरोपीय नेता हैं। खबरों के अनुसार, यह विस्फोट राष्ट्रपति मैक्रों के होटल के निकट हुए हैं। फ्रांस के राष्ट्रपति कार्यालय ने बयान जारी कर कहा कि राष्ट्रपति सुरक्षित हैं और उनकी यात्रा तय कार्यक्रम के अनुसार जारी है। सीरिया के गृह मंत्रालय के हवाले से सरकारी मीडिया ने बताया कि आंतरिक सुरक्षा बलों ने अभियान के दौरान दो विस्फोटक उपकरणों का पता लगाया था। इन्हें निष्क्रिय करने की तैयारी के दौरान ही दोनों में विस्फोट हो गया। इसी महीने की शुरुआत में दमिश्क के मध्य क्षेत्र के एक कैफे में हुए बम विस्फोट में 9 लोगों की मौत हो गई थी और 20 अन्य घायल हुए थे। अधिकारियों ने उस घटना को आतंकवादी हमला बताया था।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T11:37:56+00:00",
+        "link": "https://newsonair.gov.in/hi/explosion-in-damascus-ahead-of-meeting-between-french-president-macron-and-syrian-president-18-people-injured/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "विदेश मंत्री डॉ. जयशंकर ने बहरीन के उप प्रधानमंत्री खालिद बिन अब्दुल्ला अल खलीफा से की मुलाकात",
         "summary": "विदेश मंत्री डॉ. एस. जयशंकर ने आज बहरीन के उप प्रधानमंत्री खालिद बिन अब्दुल्ला अल खलीफा से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि मुलाकात के दौरान दोनों पक्षों ने विभिन्न क्षेत्रों में द्विपक्षीय सहयोग को आगे बढ़ाने पर चर्चा की। उन्होंने क्षेत्रीय स्थिति पर भी अपने विचार साझा किए।",
@@ -1587,28 +1612,6 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "पाकिस्तान के अवैध कब्जे वाले कश्मीर में प्रदर्शनकारियों का पाकिस्‍तान को 48 घंटे का अल्‍टीमेटम",
-        "summary": "पाकिस्तान के अवैध कब्‍जे वाला कश्मीर में बढ़ती राजनीतिक उथल-पुथल के बीच, जम्मू-कश्मीर संयुक्त अवामी एक्शन कमेटी ने इस्लामाबाद सरकार को 48 घंटे की समय सीमा दी है और धमकी दी है कि अगर उनकी मांगें पूरी नहीं हुईं तो 9 जुलाई को वे कड़ा और निर्णायक जवाब देंगे। कमेटी ने एक औपचारिक घोषणा में […]",
-        "article": "पाकिस्तान के अवैध कब्&#x200d;जे वाला कश्मीर में बढ़ती राजनीतिक उथल-पुथल के बीच, जम्मू-कश्मीर संयुक्त अवामी एक्शन कमेटी ने इस्लामाबाद सरकार को 48 घंटे की समय सीमा दी है और धमकी दी है कि अगर उनकी मांगें पूरी नहीं हुईं तो 9 जुलाई को वे कड़ा और निर्णायक जवाब देंगे। कमेटी ने एक औपचारिक घोषणा में कहा कि उनका मौजूदा धरना प्रदर्शन तब तक अनिश्चित काल तक जारी रहेगा जब तक उनकी सभी मांगें पूरी नहीं हो जातीं। कमेटी ने पीओके के निवासियों और कश्मीरी प्रवासी समुदाय के सदस्यों से 9 जुलाई को होने वाले विरोध प्रदर्शन में भाग लेने का आह्वान किया है। इस्लामाबाद द्वारा की जा रही कड़ी कार्रवाई और पाकिस्तान अधिकृत जम्मू-कश्मीर में 600 से अधिक नागरिक अधिकार कार्यकर्ताओं की व्यापक गिरफ्तारी के विरोध में प्रदर्शन कर रहे लोगों पर पाकिस्तानी बलों की बर्बरता रविवार को तेज हो गई। मुजफ्फराबाद के कई हिस्सों से गोलाबारी और झड़पों की खबरें आ रही हैं। हजारों लोग कथित नाकाबंदी को समाप्त करने, संचार सेवाओं की बहाली, भोजन और दवाओं की निर्बाध आपूर्ति, गिरफ्तार नेताओं की रिहाई और 38 सूत्री लिखित समझौते के कार्यान्वयन की मांग को लेकर सड़कों पर उतर आए। पाकिस्तान द्वारा आतंकवाद विरोधी अधिनियम के तहत जॉइंट अवामी एक्शन कमेटी- जेएएसी पर प्रतिबंध लगाने के बाद से प्रदर्शन और तेज हो गए हैं। प्रदर्शन आयोजकों का आरोप है कि छह सौ से अधिक कार्यकर्ताओं और राजनीतिक नेताओं को गिरफ्तार किया गया है। वहीं अधिकारियों ने भोजन, आटा और आवश्यक दवाओं की आपूर्ति को प्रतिबंधित करके आर्थिक नाकाबंदी लागू कर दी है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:54:22+00:00",
-        "link": "https://newsonair.gov.in/hi/protesters-in-pakistan-occupied-kashmir-give-pakistan-a-48-hour-ultimatum/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/7.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "इंडोनेशिया पहुंचे पीएम मोदी, जकार्ता हवाई अड्डे पर राष्ट्रपति प्रबावो सुबियांतो ने किया स्वागत",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी 3 देशों की यात्रा के पहले चरण में आज शाम इंडोनेशिया के जकार्ता पहुंचे। जकार्ता हवाई अड्डे पर इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो ने अपने मंत्रिमंडल के सहयोगियों के साथ श्री मोदी का भव्‍य स्‍वागत किया। इंडोनेशिया में भारतीय राजदूत और भारतवंशी समुदाय के अनेक सदस्‍य भी इस अवसर पर उपस्थित रहे। […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी 3 देशों की यात्रा के पहले चरण में आज शाम इंडोनेशिया के जकार्ता पहुंचे। जकार्ता हवाई अड्डे पर इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो ने अपने मंत्रिमंडल के सहयोगियों के साथ श्री मोदी का भव्&#x200d;य स्&#x200d;वागत किया। इंडोनेशिया में भारतीय राजदूत और भारतवंशी समुदाय के अनेक सदस्&#x200d;य भी इस अवसर पर उपस्थित रहे। एक सोशल मीडिया पोस्&#x200d;ट में श्री मोदी ने कहा कि भारत और इंडोनेशिया ने 2018 में अपने संबंधों का स्&#x200d;तर बढ़ाकर व्&#x200d;यापक रणनीतिक साझेदारी तक पहुंचाया जिससे लोगों को लाभ हुआ है।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T15:59:03+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-arrives-in-indonesia-welcomed-by-president-prabowo-subianto-at-jakarta-airport/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/aaaa.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "sports": [
@@ -1620,6 +1623,17 @@ window.VM_NEWS = {
         "pubDate": "2026-07-07T10:18:17+00:00",
         "link": "https://newsonair.gov.in/hi/former-indian-cricket-team-captain-mahendra-singh-dhoni-is-celebrating-his-45th-birthday-today/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-07-154634.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "राष्ट्रपति द्रौपदी मुर्मु ने 2026 डूरंड कप ट्रॉफियों का अनावरण किया",
+        "summary": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट […]",
+        "article": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट में श्रीलंकाई टीम की भागीदारी पर खुशी व्यक्त की। राष्ट्रपति ने टूर्नामेंट में भाग लेने वाली सभी टीमों और खिलाड़ियों को शुभकामनाएं दीं। उन्होंने उनसे खेल भावना का पालन करने और सर्वश्रेष्ठ प्रदर्शन करके इस ऐतिहासिक प्रतियोगिता की प्रतिष्ठा को और बढ़ाने का आग्रह किया। इस अवसर पर चीफ ऑफ डिफेंस स्टाफ जनरल एनएस राजा सुब्रमणि, सेना प्रमुख धीरज सेठ और नौसेना प्रमुख एडमिरल कृष्णा स्वामीनाथन भी उपस्थित थे।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:39:25+00:00",
+        "link": "https://newsonair.gov.in/hi/president-droupadi-murmu-unveiled-the-2026-durand-cup-trophies-and-flagged-them-off/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/23.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1709,18 +1723,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/icc-womens-t20-final/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMaLYj0aYAAOX7x.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "राष्ट्रपति द्रौपदी मुर्मु ने 2026 डूरंड कप ट्रॉफियों का अनावरण किया",
-        "summary": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट […]",
-        "article": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट में श्रीलंकाई टीम की भागीदारी पर खुशी व्यक्त की। राष्ट्रपति ने टूर्नामेंट में भाग लेने वाली सभी टीमों और खिलाड़ियों को शुभकामनाएं दीं। उन्होंने उनसे खेल भावना का पालन करने और सर्वश्रेष्ठ प्रदर्शन करके इस ऐतिहासिक प्रतियोगिता की प्रतिष्ठा को और बढ़ाने का आग्रह किया। इस अवसर पर चीफ ऑफ डिफेंस स्टाफ जनरल एनएस राजा सुब्रमणि, सेना प्रमुख धीरज सेठ और नौसेना प्रमुख एडमिरल कृष्णा स्वामीनाथन भी उपस्थित थे।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:39:25+00:00",
-        "link": "https://newsonair.gov.in/hi/president-droupadi-murmu-unveiled-the-2026-durand-cup-trophies-and-flagged-them-off/",
-        "post_id": 1723762,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
