@@ -1,73 +1,17 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-07T06:17:53.542826",
+  "generated": "2026-07-07T06:29:01.306670",
   "en": {
     "top": [
       {
-        "title": "UN estimates Venezuela earthquake damage at 37 billion US dollars",
-        "summary": "A new United Nations estimate has put the direct physical damage caused by the twin earthquakes in Venezuela at 37 billion US dollars. The estimate includes around 24 billion US dollars in damage to buildings, including homes, businesses, schools, hospitals and public facilities, and another 13 billion US dollars in damage to infrastructure. Speaking to […]",
-        "article": "A new United Nations estimate has put the direct physical damage caused by the twin earthquakes in Venezuela at 37 billion US dollars. The estimate includes around 24 billion US dollars in damage to buildings, including homes, businesses, schools, hospitals and public facilities, and another 13 billion US dollars in damage to infrastructure. Speaking to reporters in New York, UN Spokesperson Stéphane Dujarric said the United Nations and its partners are continuing to scale up assistance to people affected by the earthquakes, in coordination with the Venezuelan Government. Meanwhile, the United Nations Children&#8217;s Fund (UNICEF) has warned that children are among the worst affected by the disaster. It estimates that 650,000 people, including 234,000 children, will require humanitarian assistance. UNICEF has deployed emergency teams and delivered 68 tonnes of relief supplies, including medical materials, water and sanitation equipment, and essential household items. UN agencies are already providing services in three relief camps and are assessing additional sites for support. Health partners are delivering primary healthcare, mental health and psychosocial support, as well as sexual and reproductive health services where required. The Humanitarian Response Plan for Venezuela has so far received 274 million US dollars, along with more than 32 million US dollars from private sector donors and additional in-kind contributions of goods and services.",
+        "title": "Two-day BRICS Women Ministerial Meeting begins in Kochi on 8 July",
+        "summary": "India will host the two-day BRICS Women Ministerial Meeting in Kochi, Keralam, beginning tomorrow. The Ministry of Women and Child Development said the meeting will bring together ministers from BRICS member countries to strengthen cooperation and advance a shared vision for women-led development under India&#8217;s BRICS Chairship. The ministers will deliberate on the proposed outcomes […]",
+        "article": "India will host the two-day BRICS Women Ministerial Meeting in Kochi, Keralam, beginning tomorrow. The Ministry of Women and Child Development said the meeting will bring together ministers from BRICS member countries to strengthen cooperation and advance a shared vision for women-led development under India&#8217;s BRICS Chairship. The ministers will deliberate on the proposed outcomes and provide strategic direction for enhancing cooperation among BRICS member countries. The programme will feature a plenary session and thematic panel discussions involving eminent experts, policymakers and practitioners. The discussions will provide an opportunity to exchange experiences, share innovative approaches and foster partnerships for women&#8217;s empowerment. The Ministerial Meeting follows the BRICS Women Working Group Meeting held on 6 and 7 July, during which senior officials held substantive deliberations on the priority areas under the BRICS Women Track. The Ministerial Meeting will serve as a platform for high-level dialogue on promoting women&#8217;s leadership, expanding economic opportunities, and strengthening digital and financial inclusion.",
         "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:47:07+00:00",
-        "link": "https://newsonair.gov.in/un-estimates-venezuela-earthquake-damage-at-37-billion-us-dollars/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/PIIGS_Mk_4_map.png/1280px-PIIGS_Mk_4_map.png",
-        "image_credit": "Wikimedia Commons (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Death toll from Venezuela earthquakes rises to 3,535",
-        "summary": "Venezuela&#8217;s National Assembly President Jorge Rodriguez has said that the death toll from the twin earthquakes has risen to 3,535, while 16,740 people have been injured. He said 17,854 people remain homeless. Mr Rodriguez said 6,462 people have been rescued so far, while 86,794 families have received assistance. On 24 June, two powerful earthquakes of […]",
-        "article": "Venezuela&#8217;s National Assembly President Jorge Rodriguez has said that the death toll from the twin earthquakes has risen to 3,535, while 16,740 people have been injured. He said 17,854 people remain homeless. Mr Rodriguez said 6,462 people have been rescued so far, while 86,794 families have received assistance. On 24 June, two powerful earthquakes of magnitude 7.2 and 7.5 struck the South American nation in quick succession. Multiple structures collapsed in Caracas following the strong tremors, which were felt across large parts of Venezuela.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:35:56+00:00",
-        "link": "https://newsonair.gov.in/death-toll-from-venezuela-earthquakes-rises-to-3535/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hendrick_Andriessen_-_Vanity_Piece_-_1914-DE_-_Museum_of_Fine_Arts_Ghent_%28MSK%29.jpg/1280px-Hendrick_Andriessen_-_Vanity_Piece_-_1914-DE_-_Museum_of_Fine_Arts_Ghent_%28MSK%29.jpg",
-        "image_credit": "Wikipedia – Death (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMD forecasts heavy rainfall over parts of western and central India",
-        "summary": "The India Meteorological Department (IMD) has forecast heavy rainfall today over parts of Coastal Karnataka, Gujarat, Konkan and Goa, and Madhya Maharashtra. Heavy rainfall is also likely over parts of Arunachal Pradesh, Bihar, Chhattisgarh, East Rajasthan, Himachal Pradesh, Interior Karnataka, Madhya Pradesh, Sub-Himalayan West Bengal and Sikkim. Light to moderate rainfall is expected at isolated",
-        "article": "The India Meteorological Department (IMD) has forecast heavy rainfall today over parts of Coastal Karnataka, Gujarat, Konkan and Goa, and Madhya Maharashtra. Heavy rainfall is also likely over parts of Arunachal Pradesh, Bihar, Chhattisgarh, East Rajasthan, Himachal Pradesh, Interior Karnataka, Madhya Pradesh, Sub-Himalayan West Bengal and Sikkim. Light to moderate rainfall is expected at isolated places over Delhi, Haryana, Chandigarh, parts of the North East, Odisha, Punjab and Uttar Pradesh. According to the IMD, thunder squalls are likely today over parts of Karnataka and Telangana. Thunderstorms accompanied by lightning are also expected over the Andaman and Nicobar Islands, Andhra Pradesh, Bihar, Gangetic West Bengal, Jammu and Kashmir, Ladakh, Jharkhand, Rajasthan and Uttar Pradesh.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:34:07+00:00",
-        "link": "https://newsonair.gov.in/imd-forecasts-heavy-rainfall-over-parts-of-western-and-central-india/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tropical_Storm_Gordon_%28MODIS_2018-09-05%29.jpg/1280px-Tropical_Storm_Gordon_%28MODIS_2018-09-05%29.jpg",
-        "image_credit": "Wikimedia Commons (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PoJK protesters issue 48-hour ultimatum to Islamabad, warn of ‘Grand And Final’ action on July 9",
-        "summary": "Amid the intensifying political unrest in Pakistan-occupied Jammu and Kashmir (PoJK), the Jammu Kashmir Joint Awami Action Committee (JAAC) has issued a 48-hour ultimatum to the government in Islamabad, threatening a grand and final response on July 9, if their conditions remain unfulfilled. In a formal declaration, the committee announced that its ongoing sit-in […]",
-        "article": "Amid the intensifying political unrest in Pakistan-occupied Jammu and Kashmir (PoJK), the Jammu Kashmir Joint Awami Action Committee (JAAC) has issued a 48-hour ultimatum to the government in Islamabad, threatening a grand and final response on July 9, if their conditions remain unfulfilled. In a formal declaration, the committee announced that its ongoing sit-in protest will continue indefinitely until all its demands are fulfilled. It has also called upon residents across PoJK and members of the Kashmiri diaspora to participate in the protest on 9 July. Meanwhile, reports said police action by Pakistani authorities intensified on Sunday against protesters demonstrating against the crackdown and the reported arrest of more than 600 civil rights activists in Pakistan-occupied Jammu and Kashmir. Reports of shelling, firing and clashes have emerged from several parts of Muzaffarabad. Thousands of people have taken to the streets, demanding an end to the alleged blockade, restoration of communication services, uninterrupted supply of food and medicines, release of detained leaders, and implementation of a 38-point written agreement. The protests have intensified since Pakistan banned the JAAC under the Anti-Terrorism Act. Protest organisers have alleged that more than 600 workers and political leaders have been arrested, while authorities have imposed an economic blockade by restricting the supply of food, flour and essential medicines.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T02:16:39+00:00",
-        "link": "https://newsonair.gov.in/pojk-protesters-issue-48-hour-ultimatum-to-islamabad-warn-of-grand-and-final-action-on-july-9/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Faisal_Mosque%2C_Islamabad_III.jpg/1280px-Faisal_Mosque%2C_Islamabad_III.jpg",
-        "image_credit": "Wikipedia – Islamabad (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India’s leather sector set for new export opportunities through FTAs: Piyush Goyal",
-        "summary": "Commerce and Industry Minister Piyush Goyal has said that India’s leather and footwear sector, which exports around 4.5 billion US dollars, has significant growth potential, with 38 developed countries opening their markets through Free Trade Agreements (FTAs). These countries include the United Kingdom, Oman, the UAE, and others. Addressing the Council for Leather Exports National […]",
-        "article": "Commerce and Industry Minister Piyush Goyal has said that India’s leather and footwear sector, which exports around 4.5 billion US dollars, has significant growth potential, with 38 developed countries opening their markets through Free Trade Agreements (FTAs). These countries include the United Kingdom, Oman, the UAE, and others. Addressing the Council for Leather Exports National Export Excellence Awards 2024–25 in New Delhi, Mr Goyal said that several countries, including Ecuador, are also keen to conclude Free Trade Agreements with India, creating new opportunities for Indian exporters. Stressing the need to diversify export destinations, the Minister noted that 77 per cent of India’s leather exports currently go to just 15 countries. He said the sector’s potential extends beyond footwear to products such as bags, wallets, horse saddles, jackets, clothing, and apparel. Union Minister said there are few industries with as wide a range of applications as leather, noting that it is used in almost every aspect of life. He further highlighted the use of leather in upholstery, including furniture and high-end wall coverings, and said the industry caters to a vast range of products across different price points.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T00:36:51+00:00",
-        "link": "https://newsonair.gov.in/indias-leather-sector-set-for-new-export-opportunities-through-ftas-piyush-goyal/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Piyush_Goyal_crop.jpg",
-        "image_credit": "Wikipedia – Piyush Goyal (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi holds talks with Indonesian President; conferred Indonesia’s highest civilian honour",
-        "summary": "Prime Minister Narendra Modi held delegation-level talks with Indonesian President Prabowo Subianto in Jakarta to review the full spectrum of bilateral ties and provide fresh momentum to the Comprehensive Strategic Partnership between the two countries. The two leaders also witnessed the exchange of Memoranda of Understanding (MoUs) aimed at enhancing cooperation in areas of mutual […]",
-        "article": "Prime Minister Narendra Modi held delegation-level talks with Indonesian President Prabowo Subianto in Jakarta to review the full spectrum of bilateral ties and provide fresh momentum to the Comprehensive Strategic Partnership between the two countries. The two leaders also witnessed the exchange of Memoranda of Understanding (MoUs) aimed at enhancing cooperation in areas of mutual interest. Addressing a joint press statement in Jakarta, Indonesian President Prabowo Subianto announced that Prime Minister Narendra Modi has been conferred Indonesia&#8217;s highest civilian honour, the Bintang Adipurna of the Republic of Indonesia. Earlier, Prime Minister Modi received a grand ceremonial welcome at the Presidential Palace, marking the beginning of his official engagements in Indonesia. President Prabowo Subianto and Prime Minister Modi introduced the members of their respective delegations to each other, underscoring the spirit of friendship and cooperation between the two countries. Prime Minister Modi also signed the visitors&#8217; book at Istana Merdeka, the Presidential Palace. Later in the day, the Prime Minister will visit the Kompleks Parlemen Republik Indonesia, highlighting the importance of parliamentary cooperation between the two nations. He will also interact with members of the Indian diaspora at a community event. Prime Minister Modi arrived in Jakarta yesterday on a three-day State Visit at the invitation of President Prabowo Subianto. Indonesia is the first stop of the Prime Minister&#8217;s three-nation tour, which will also include visits to Australia and New Zealand later this week.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T05:50:43+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-holds-talks-with-indonesian-president-in-jakarta-mous-exchanged/",
-        "post_id": 1723201,
-        "image_url": "",
-        "image_credit": "",
+        "pubDate": "2026-07-07T06:19:08+00:00",
+        "link": "https://newsonair.gov.in/two-day-brics-women-ministerial-meeting-begins-in-kochi-on-8-july/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/19.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -77,8 +21,19 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T05:35:45+00:00",
         "link": "https://newsonair.gov.in/eight-killed-as-severe-storms-batter-central-china/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/15.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "UN estimates Venezuela earthquake damage at 37 billion US dollars",
+        "summary": "A new United Nations estimate has put the direct physical damage caused by the twin earthquakes in Venezuela at 37 billion US dollars. The estimate includes around 24 billion US dollars in damage to buildings, including homes, businesses, schools, hospitals and public facilities, and another 13 billion US dollars in damage to infrastructure. Speaking to […]",
+        "article": "A new United Nations estimate has put the direct physical damage caused by the twin earthquakes in Venezuela at 37 billion US dollars. The estimate includes around 24 billion US dollars in damage to buildings, including homes, businesses, schools, hospitals and public facilities, and another 13 billion US dollars in damage to infrastructure. Speaking to reporters in New York, UN Spokesperson Stéphane Dujarric said the United Nations and its partners are continuing to scale up assistance to people affected by the earthquakes, in coordination with the Venezuelan Government. Meanwhile, the United Nations Children&#8217;s Fund (UNICEF) has warned that children are among the worst affected by the disaster. It estimates that 650,000 people, including 234,000 children, will require humanitarian assistance. UNICEF has deployed emergency teams and delivered 68 tonnes of relief supplies, including medical materials, water and sanitation equipment, and essential household items. UN agencies are already providing services in three relief camps and are assessing additional sites for support. Health partners are delivering primary healthcare, mental health and psychosocial support, as well as sexual and reproductive health services where required. The Humanitarian Response Plan for Venezuela has so far received 274 million US dollars, along with more than 32 million US dollars from private sector donors and additional in-kind contributions of goods and services.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:47:07+00:00",
+        "link": "https://newsonair.gov.in/un-estimates-venezuela-earthquake-damage-at-37-billion-us-dollars/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -88,8 +43,30 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T03:39:41+00:00",
         "link": "https://newsonair.gov.in/former-mongolian-president-lauds-progress-of-india-backed-oil-refinery-project/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/10.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Death toll from Venezuela earthquakes rises to 3,535",
+        "summary": "Venezuela&#8217;s National Assembly President Jorge Rodriguez has said that the death toll from the twin earthquakes has risen to 3,535, while 16,740 people have been injured. He said 17,854 people remain homeless. Mr Rodriguez said 6,462 people have been rescued so far, while 86,794 families have received assistance. On 24 June, two powerful earthquakes of […]",
+        "article": "Venezuela&#8217;s National Assembly President Jorge Rodriguez has said that the death toll from the twin earthquakes has risen to 3,535, while 16,740 people have been injured. He said 17,854 people remain homeless. Mr Rodriguez said 6,462 people have been rescued so far, while 86,794 families have received assistance. On 24 June, two powerful earthquakes of magnitude 7.2 and 7.5 struck the South American nation in quick succession. Multiple structures collapsed in Caracas following the strong tremors, which were felt across large parts of Venezuela.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:35:56+00:00",
+        "link": "https://newsonair.gov.in/death-toll-from-venezuela-earthquakes-rises-to-3535/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AP06_25_2026_000059A-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "IMD forecasts heavy rainfall over parts of western and central India",
+        "summary": "The India Meteorological Department (IMD) has forecast heavy rainfall today over parts of Coastal Karnataka, Gujarat, Konkan and Goa, and Madhya Maharashtra. Heavy rainfall is also likely over parts of Arunachal Pradesh, Bihar, Chhattisgarh, East Rajasthan, Himachal Pradesh, Interior Karnataka, Madhya Pradesh, Sub-Himalayan West Bengal and Sikkim. Light to moderate rainfall is expected at isolated",
+        "article": "The India Meteorological Department (IMD) has forecast heavy rainfall today over parts of Coastal Karnataka, Gujarat, Konkan and Goa, and Madhya Maharashtra. Heavy rainfall is also likely over parts of Arunachal Pradesh, Bihar, Chhattisgarh, East Rajasthan, Himachal Pradesh, Interior Karnataka, Madhya Pradesh, Sub-Himalayan West Bengal and Sikkim. Light to moderate rainfall is expected at isolated places over Delhi, Haryana, Chandigarh, parts of the North East, Odisha, Punjab and Uttar Pradesh. According to the IMD, thunder squalls are likely today over parts of Karnataka and Telangana. Thunderstorms accompanied by lightning are also expected over the Andaman and Nicobar Islands, Andhra Pradesh, Bihar, Gangetic West Bengal, Jammu and Kashmir, Ladakh, Jharkhand, Rajasthan and Uttar Pradesh.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:34:07+00:00",
+        "link": "https://newsonair.gov.in/imd-forecasts-heavy-rainfall-over-parts-of-western-and-central-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/weather.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -99,8 +76,8 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T03:05:14+00:00",
         "link": "https://newsonair.gov.in/union-minister-nitin-gadkari-reviews-progress-of-nhlml-projects-calls-for-expeditious-completion-of-multimodal-infrastructure-initiatives/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/N2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -110,20 +87,19 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T02:30:27+00:00",
         "link": "https://newsonair.gov.in/union-minister-amit-shah-to-attend-5th-foundation-day-ceremony-of-ministry-of-cooperation-in-new-delhi/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/6.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "PM Modi’s Indonesia visit to open new avenues for India-Indonesia cooperation: Ambassador Sandeep Chakravorty",
-        "summary": "India&#8217;s Ambassador to Indonesia, Sandeep Chakravorty, has said that India and Indonesia are poised to elevate their Comprehensive Strategic Partnership, with Prime Minister Narendra Modi&#8217;s visit expected to pave the way for a series of agreements covering defence, trade, energy, food security, education and healthcare. Speaking to a private news channel, Mr Chakravorty said […]",
-        "article": "India&#8217;s Ambassador to Indonesia, Sandeep Chakravorty, has said that India and Indonesia are poised to elevate their Comprehensive Strategic Partnership, with Prime Minister Narendra Modi&#8217;s visit expected to pave the way for a series of agreements covering defence, trade, energy, food security, education and healthcare. Speaking to a private news channel, Mr Chakravorty said the visit is expected to further strengthen bilateral cooperation, reinforce maritime and economic ties, and deepen collaboration in emerging sectors. He said India-Indonesia relations are on an upward trajectory and that the Prime Minister&#8217;s visit will further reinforce this positive momentum. The Ambassador said both countries are expected to announce cooperation initiatives across five key sectors: defence and maritime security, trade and investment, food security and fertiliser cooperation, energy security and critical minerals, and education and healthcare. Highlighting the close ties between the two countries, Mr Chakravorty said India and Indonesia are strategic partners with close geographical proximity. He noted that India&#8217;s Nicobar Islands are just 160 kilometres from Indonesia&#8217;s Aceh province, underlining the strategic importance of their maritime partnership in the Indo-Pacific.",
+        "title": "PoJK protesters issue 48-hour ultimatum to Islamabad, warn of ‘Grand And Final’ action on July 9",
+        "summary": "Amid the intensifying political unrest in Pakistan-occupied Jammu and Kashmir (PoJK), the Jammu Kashmir Joint Awami Action Committee (JAAC) has issued a 48-hour ultimatum to the government in Islamabad, threatening a grand and final response on July 9, if their conditions remain unfulfilled. In a formal declaration, the committee announced that its ongoing sit-in […]",
+        "article": "Amid the intensifying political unrest in Pakistan-occupied Jammu and Kashmir (PoJK), the Jammu Kashmir Joint Awami Action Committee (JAAC) has issued a 48-hour ultimatum to the government in Islamabad, threatening a grand and final response on July 9, if their conditions remain unfulfilled. In a formal declaration, the committee announced that its ongoing sit-in protest will continue indefinitely until all its demands are fulfilled. It has also called upon residents across PoJK and members of the Kashmiri diaspora to participate in the protest on 9 July. Meanwhile, reports said police action by Pakistani authorities intensified on Sunday against protesters demonstrating against the crackdown and the reported arrest of more than 600 civil rights activists in Pakistan-occupied Jammu and Kashmir. Reports of shelling, firing and clashes have emerged from several parts of Muzaffarabad. Thousands of people have taken to the streets, demanding an end to the alleged blockade, restoration of communication services, uninterrupted supply of food and medicines, release of detained leaders, and implementation of a 38-point written agreement. The protests have intensified since Pakistan banned the JAAC under the Anti-Terrorism Act. Protest organisers have alleged that more than 600 workers and political leaders have been arrested, while authorities have imposed an economic blockade by restricting the supply of food, flour and essential medicines.",
         "date": "2026-07-07",
-        "pubDate": "2026-07-07T01:49:06+00:00",
-        "link": "https://newsonair.gov.in/pm-modis-indonesia-visit-to-open-new-avenues-for-india-indonesia-cooperation-ambassador-sandeep-chakravorty/",
-        "post_id": 1723146,
-        "image_url": "",
-        "image_credit": "",
+        "pubDate": "2026-07-07T02:16:39+00:00",
+        "link": "https://newsonair.gov.in/pojk-protesters-issue-48-hour-ultimatum-to-islamabad-warn-of-grand-and-final-action-on-july-9/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/7.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -133,21 +109,19 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T01:37:39+00:00",
         "link": "https://newsonair.gov.in/indian-navy-will-commission-6th-project-17a-indigenous-stealth-frigate-mahendragiri-f38-on-july-11/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      }
-    ],
-    "breaking": [
+      },
       {
-        "title": "IMD forecasts heavy rainfall over parts of western and central India",
-        "summary": "The India Meteorological Department (IMD) has forecast heavy rainfall today over parts of Coastal Karnataka, Gujarat, Konkan and Goa, and Madhya Maharashtra. Heavy rainfall is also likely over parts of Arunachal Pradesh, Bihar, Chhattisgarh, East Rajasthan, Himachal Pradesh, Interior Karnataka, Madhya Pradesh, Sub-Himalayan West Bengal and Sikkim. Light to moderate rainfall is expected at isolated",
-        "article": "The India Meteorological Department (IMD) has forecast heavy rainfall today over parts of Coastal Karnataka, Gujarat, Konkan and Goa, and Madhya Maharashtra. Heavy rainfall is also likely over parts of Arunachal Pradesh, Bihar, Chhattisgarh, East Rajasthan, Himachal Pradesh, Interior Karnataka, Madhya Pradesh, Sub-Himalayan West Bengal and Sikkim. Light to moderate rainfall is expected at isolated places over Delhi, Haryana, Chandigarh, parts of the North East, Odisha, Punjab and Uttar Pradesh. According to the IMD, thunder squalls are likely today over parts of Karnataka and Telangana. Thunderstorms accompanied by lightning are also expected over the Andaman and Nicobar Islands, Andhra Pradesh, Bihar, Gangetic West Bengal, Jammu and Kashmir, Ladakh, Jharkhand, Rajasthan and Uttar Pradesh.",
+        "title": "Ministry of Tribal Affairs to hold two-day national workshop on strengthening Tribal Research Institutes",
+        "summary": "The Ministry of Tribal Affairs will organise a two-day National Workshop on Strengthening Tribal Research Institutes (TRIs) from today in Bhubaneswar, Odisha. Union Minister for Tribal Affairs Jual Oram will inaugurate the workshop. The event will bring together around 200 participants. On the occasion, the Ministry of Tribal Affairs and Sampurnanand Sanskrit Vishwavidyalaya, Varanasi, will […]",
+        "article": "The Ministry of Tribal Affairs will organise a two-day National Workshop on Strengthening Tribal Research Institutes (TRIs) from today in Bhubaneswar, Odisha. Union Minister for Tribal Affairs Jual Oram will inaugurate the workshop. The event will bring together around 200 participants. On the occasion, the Ministry of Tribal Affairs and Sampurnanand Sanskrit Vishwavidyalaya, Varanasi, will sign a Memorandum of Understanding (MoU). A major highlight of the workshop will be the launch of TribeX, a first-of-its-kind digital learning platform dedicated to tribal arts, culture, languages, traditional knowledge and skill development. The workshop aims to review the functioning of Tribal Research Institutes across the country and develop a comprehensive roadmap to transform them into vibrant knowledge institutions, cultural resource centres and policy support hubs for tribal development.",
         "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:34:07+00:00",
-        "link": "https://newsonair.gov.in/imd-forecasts-heavy-rainfall-over-parts-of-western-and-central-india/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tropical_Storm_Gordon_%28MODIS_2018-09-05%29.jpg/1280px-Tropical_Storm_Gordon_%28MODIS_2018-09-05%29.jpg",
-        "image_credit": "Wikimedia Commons (CC BY-SA)",
+        "pubDate": "2026-07-07T01:03:42+00:00",
+        "link": "https://newsonair.gov.in/tribal-affairs-ministry-to-organise-national-workshop-on-strengthening-tris-from-tomorrow/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -157,8 +131,87 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T00:36:51+00:00",
         "link": "https://newsonair.gov.in/indias-leather-sector-set-for-new-export-opportunities-through-ftas-piyush-goyal/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Piyush_Goyal_crop.jpg",
-        "image_credit": "Wikipedia – Piyush Goyal (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "breaking": [
+      {
+        "title": "Two-day BRICS Women Ministerial Meeting begins in Kochi on 8 July",
+        "summary": "India will host the two-day BRICS Women Ministerial Meeting in Kochi, Keralam, beginning tomorrow. The Ministry of Women and Child Development said the meeting will bring together ministers from BRICS member countries to strengthen cooperation and advance a shared vision for women-led development under India&#8217;s BRICS Chairship. The ministers will deliberate on the proposed outcomes […]",
+        "article": "India will host the two-day BRICS Women Ministerial Meeting in Kochi, Keralam, beginning tomorrow. The Ministry of Women and Child Development said the meeting will bring together ministers from BRICS member countries to strengthen cooperation and advance a shared vision for women-led development under India&#8217;s BRICS Chairship. The ministers will deliberate on the proposed outcomes and provide strategic direction for enhancing cooperation among BRICS member countries. The programme will feature a plenary session and thematic panel discussions involving eminent experts, policymakers and practitioners. The discussions will provide an opportunity to exchange experiences, share innovative approaches and foster partnerships for women&#8217;s empowerment. The Ministerial Meeting follows the BRICS Women Working Group Meeting held on 6 and 7 July, during which senior officials held substantive deliberations on the priority areas under the BRICS Women Track. The Ministerial Meeting will serve as a platform for high-level dialogue on promoting women&#8217;s leadership, expanding economic opportunities, and strengthening digital and financial inclusion.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T06:19:08+00:00",
+        "link": "https://newsonair.gov.in/two-day-brics-women-ministerial-meeting-begins-in-kochi-on-8-july/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/19.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "IMD forecasts heavy rainfall over parts of western and central India",
+        "summary": "The India Meteorological Department (IMD) has forecast heavy rainfall today over parts of Coastal Karnataka, Gujarat, Konkan and Goa, and Madhya Maharashtra. Heavy rainfall is also likely over parts of Arunachal Pradesh, Bihar, Chhattisgarh, East Rajasthan, Himachal Pradesh, Interior Karnataka, Madhya Pradesh, Sub-Himalayan West Bengal and Sikkim. Light to moderate rainfall is expected at isolated",
+        "article": "The India Meteorological Department (IMD) has forecast heavy rainfall today over parts of Coastal Karnataka, Gujarat, Konkan and Goa, and Madhya Maharashtra. Heavy rainfall is also likely over parts of Arunachal Pradesh, Bihar, Chhattisgarh, East Rajasthan, Himachal Pradesh, Interior Karnataka, Madhya Pradesh, Sub-Himalayan West Bengal and Sikkim. Light to moderate rainfall is expected at isolated places over Delhi, Haryana, Chandigarh, parts of the North East, Odisha, Punjab and Uttar Pradesh. According to the IMD, thunder squalls are likely today over parts of Karnataka and Telangana. Thunderstorms accompanied by lightning are also expected over the Andaman and Nicobar Islands, Andhra Pradesh, Bihar, Gangetic West Bengal, Jammu and Kashmir, Ladakh, Jharkhand, Rajasthan and Uttar Pradesh.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:34:07+00:00",
+        "link": "https://newsonair.gov.in/imd-forecasts-heavy-rainfall-over-parts-of-western-and-central-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/weather.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Nitin Gadkari reviews Multi Modal Logistics Parks and ropeway projects",
+        "summary": "Union Minister for Road Transport and Highways Nitin Gadkari chaired a review meeting of the National Highways Logistics Management Limited to assess the progress of Multi Modal Logistics Parks, ropeways, intermodal stations and wayside amenities being developed across the country. During the meeting, Mr Gadkari emphasised the strategic importance of these initiatives in building a […]",
+        "article": "Union Minister for Road Transport and Highways Nitin Gadkari chaired a review meeting of the National Highways Logistics Management Limited to assess the progress of Multi Modal Logistics Parks, ropeways, intermodal stations and wayside amenities being developed across the country. During the meeting, Mr Gadkari emphasised the strategic importance of these initiatives in building a future-ready and integrated transport ecosystem. He said these projects will strengthen multimodal connectivity, unlock new economic opportunities, promote balanced regional development and enhance India&#8217;s overall logistics competitiveness. The Minister also reviewed the key challenges affecting project implementation and directed all concerned stakeholders to resolve bottlenecks on priority and expedite project execution. Mr Gadkari said the timely completion of these projects will improve logistics efficiency, reduce transportation costs and provide world-class infrastructure and amenities for commuters, further advancing the vision of a Viksit Bharat and an Aatmanirbhar Bharat.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:05:14+00:00",
+        "link": "https://newsonair.gov.in/union-minister-nitin-gadkari-reviews-progress-of-nhlml-projects-calls-for-expeditious-completion-of-multimodal-infrastructure-initiatives/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/N2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Cooperation Ministry infused new energy into lives of nearly 30 crore people over past five years: Union Minister Amit Shah",
+        "summary": "Union Minister for Cooperation Amit Shah has said that the Ministry of Cooperation has infused new energy into the lives of nearly 30 crore people associated with the cooperative sector over the past five years. Addressing the fifth Foundation Day celebrations of the Ministry of Cooperation in New Delhi, Mr Shah said the Ministry, […]",
+        "article": "Union Minister for Cooperation Amit Shah has said that the Ministry of Cooperation has infused new energy into the lives of nearly 30 crore people associated with the cooperative sector over the past five years. Addressing the fifth Foundation Day celebrations of the Ministry of Cooperation in New Delhi, Mr Shah said the Ministry, established by Prime Minister Narendra Modi in 2021, has transformed the cooperative ecosystem into one that is modern, transparent, technology-driven and competitive. He said the Ministry has identified the key challenges facing the cooperative sector, prepared a comprehensive roadmap for its development, and introduced reforms that have modernised the entire ecosystem. Mr Shah said that when the nation celebrates the centenary of its Independence in 2047, the cooperative movement will serve as a strong foundation for a prosperous India. Recalling the establishment of the Ministry on 6 July 2021, he said the decision ended a 75-year wait for millions of people associated with the cooperative sector. He added that the Ministry has ended decades of neglect faced by the sector and infused new life into it. Mr Shah also rejected criticism that the Ministry would interfere in the powers of the states. Highlighting the Ministry&#8217;s achievements, Mr Shah said an integrated digital database covering over 8.58 lakh cooperative societies across 30 sectors and 32 crore members has been created. He said the database includes information on audit status, turnover, grading and the presence of cooperative institutions across villages, enabling states to identify gaps and strengthen cooperative networks. Mr Shah also announced the launch of a national ranking framework under which the top-performing cooperative societies in every sector will be recognised and encouraged. The Minister said the government has expanded the role of Primary Agricultural Credit Societies (PACS), enabling them to offer more than 300 services through Common Service Centres. He said 55,000 PACS are now providing services such as railway ticket booking, birth and death registration, applications for government schemes and digital payments. Mr Shah added that 39,000 PACS have become Kisan Samriddhi Kendras, more than 600 PACS are operating Jan Aushadhi Kendras, while several others are managing fuel outlets and water supply schemes.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T02:30:27+00:00",
+        "link": "https://newsonair.gov.in/union-minister-amit-shah-to-attend-5th-foundation-day-ceremony-of-ministry-of-cooperation-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/6.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian Navy to commission indigenous stealth frigate Mahendragiri on 11 July",
+        "summary": "The Indian Navy will commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38), at Visakhapatnam on Saturday, 11 July. The Defence Ministry said the stealth frigate has been designed in-house by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited, Mumbai. The ship has been named after the majestic Mahendragiri […]",
+        "article": "The Indian Navy will commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38), at Visakhapatnam on Saturday, 11 July. The Defence Ministry said the stealth frigate has been designed in-house by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited, Mumbai. The ship has been named after the majestic Mahendragiri mountain range in the Eastern Ghats. The Ministry said the warship embodies resilience, strength and unwavering resolve, and is poised to forge a distinguished legacy while adding another proud chapter to India’s maritime history. The frigate is powered by a modern Combined Diesel or Gas (CODOG) propulsion system, enabling high-speed operations with exceptional endurance across the full spectrum of maritime missions. With over 75 per cent indigenous content, Mahendragiri exemplifies the Government’s Aatmanirbhar Bharat initiative. The commissioning of Mahendragiri marks another milestone in the successful execution of the Project 17A programme. The Defence Ministry said the warship will serve as a formidable force multiplier, safeguarding the nation’s maritime interests and contributing to a secure, stable and prosperous Indo-Pacific as India continues to strengthen its role as the Preferred Security Partner in the Indian Ocean Region.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T01:37:39+00:00",
+        "link": "https://newsonair.gov.in/indian-navy-will-commission-6th-project-17a-indigenous-stealth-frigate-mahendragiri-f38-on-july-11/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Ministry of Tribal Affairs to hold two-day national workshop on strengthening Tribal Research Institutes",
+        "summary": "The Ministry of Tribal Affairs will organise a two-day National Workshop on Strengthening Tribal Research Institutes (TRIs) from today in Bhubaneswar, Odisha. Union Minister for Tribal Affairs Jual Oram will inaugurate the workshop. The event will bring together around 200 participants. On the occasion, the Ministry of Tribal Affairs and Sampurnanand Sanskrit Vishwavidyalaya, Varanasi, will […]",
+        "article": "The Ministry of Tribal Affairs will organise a two-day National Workshop on Strengthening Tribal Research Institutes (TRIs) from today in Bhubaneswar, Odisha. Union Minister for Tribal Affairs Jual Oram will inaugurate the workshop. The event will bring together around 200 participants. On the occasion, the Ministry of Tribal Affairs and Sampurnanand Sanskrit Vishwavidyalaya, Varanasi, will sign a Memorandum of Understanding (MoU). A major highlight of the workshop will be the launch of TribeX, a first-of-its-kind digital learning platform dedicated to tribal arts, culture, languages, traditional knowledge and skill development. The workshop aims to review the functioning of Tribal Research Institutes across the country and develop a comprehensive roadmap to transform them into vibrant knowledge institutions, cultural resource centres and policy support hubs for tribal development.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T01:03:42+00:00",
+        "link": "https://newsonair.gov.in/tribal-affairs-ministry-to-organise-national-workshop-on-strengthening-tris-from-tomorrow/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India’s leather sector set for new export opportunities through FTAs: Piyush Goyal",
+        "summary": "Commerce and Industry Minister Piyush Goyal has said that India’s leather and footwear sector, which exports around 4.5 billion US dollars, has significant growth potential, with 38 developed countries opening their markets through Free Trade Agreements (FTAs). These countries include the United Kingdom, Oman, the UAE, and others. Addressing the Council for Leather Exports National […]",
+        "article": "Commerce and Industry Minister Piyush Goyal has said that India’s leather and footwear sector, which exports around 4.5 billion US dollars, has significant growth potential, with 38 developed countries opening their markets through Free Trade Agreements (FTAs). These countries include the United Kingdom, Oman, the UAE, and others. Addressing the Council for Leather Exports National Export Excellence Awards 2024–25 in New Delhi, Mr Goyal said that several countries, including Ecuador, are also keen to conclude Free Trade Agreements with India, creating new opportunities for Indian exporters. Stressing the need to diversify export destinations, the Minister noted that 77 per cent of India’s leather exports currently go to just 15 countries. He said the sector’s potential extends beyond footwear to products such as bags, wallets, horse saddles, jackets, clothing, and apparel. Union Minister said there are few industries with as wide a range of applications as leather, noting that it is used in almost every aspect of life. He further highlighted the use of leather in upholstery, including furniture and high-end wall coverings, and said the industry caters to a vast range of products across different price points.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T00:36:51+00:00",
+        "link": "https://newsonair.gov.in/indias-leather-sector-set-for-new-export-opportunities-through-ftas-piyush-goyal/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -174,28 +227,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Union Minister Nitin Gadkari reviews Multi Modal Logistics Parks and ropeway projects",
-        "summary": "Union Minister for Road Transport and Highways Nitin Gadkari chaired a review meeting of the National Highways Logistics Management Limited to assess the progress of Multi Modal Logistics Parks, ropeways, intermodal stations and wayside amenities being developed across the country. During the meeting, Mr Gadkari emphasised the strategic importance of these initiatives in building a […]",
-        "article": "Union Minister for Road Transport and Highways Nitin Gadkari chaired a review meeting of the National Highways Logistics Management Limited to assess the progress of Multi Modal Logistics Parks, ropeways, intermodal stations and wayside amenities being developed across the country. During the meeting, Mr Gadkari emphasised the strategic importance of these initiatives in building a future-ready and integrated transport ecosystem. He said these projects will strengthen multimodal connectivity, unlock new economic opportunities, promote balanced regional development and enhance India&#8217;s overall logistics competitiveness. The Minister also reviewed the key challenges affecting project implementation and directed all concerned stakeholders to resolve bottlenecks on priority and expedite project execution. Mr Gadkari said the timely completion of these projects will improve logistics efficiency, reduce transportation costs and provide world-class infrastructure and amenities for commuters, further advancing the vision of a Viksit Bharat and an Aatmanirbhar Bharat.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:05:14+00:00",
-        "link": "https://newsonair.gov.in/union-minister-nitin-gadkari-reviews-progress-of-nhlml-projects-calls-for-expeditious-completion-of-multimodal-infrastructure-initiatives/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Cooperation Ministry infused new energy into lives of nearly 30 crore people over past five years: Union Minister Amit Shah",
-        "summary": "Union Minister for Cooperation Amit Shah has said that the Ministry of Cooperation has infused new energy into the lives of nearly 30 crore people associated with the cooperative sector over the past five years. Addressing the fifth Foundation Day celebrations of the Ministry of Cooperation in New Delhi, Mr Shah said the Ministry, […]",
-        "article": "Union Minister for Cooperation Amit Shah has said that the Ministry of Cooperation has infused new energy into the lives of nearly 30 crore people associated with the cooperative sector over the past five years. Addressing the fifth Foundation Day celebrations of the Ministry of Cooperation in New Delhi, Mr Shah said the Ministry, established by Prime Minister Narendra Modi in 2021, has transformed the cooperative ecosystem into one that is modern, transparent, technology-driven and competitive. He said the Ministry has identified the key challenges facing the cooperative sector, prepared a comprehensive roadmap for its development, and introduced reforms that have modernised the entire ecosystem. Mr Shah said that when the nation celebrates the centenary of its Independence in 2047, the cooperative movement will serve as a strong foundation for a prosperous India. Recalling the establishment of the Ministry on 6 July 2021, he said the decision ended a 75-year wait for millions of people associated with the cooperative sector. He added that the Ministry has ended decades of neglect faced by the sector and infused new life into it. Mr Shah also rejected criticism that the Ministry would interfere in the powers of the states. Highlighting the Ministry&#8217;s achievements, Mr Shah said an integrated digital database covering over 8.58 lakh cooperative societies across 30 sectors and 32 crore members has been created. He said the database includes information on audit status, turnover, grading and the presence of cooperative institutions across villages, enabling states to identify gaps and strengthen cooperative networks. Mr Shah also announced the launch of a national ranking framework under which the top-performing cooperative societies in every sector will be recognised and encouraged. The Minister said the government has expanded the role of Primary Agricultural Credit Societies (PACS), enabling them to offer more than 300 services through Common Service Centres. He said 55,000 PACS are now providing services such as railway ticket booking, birth and death registration, applications for government schemes and digital payments. Mr Shah added that 39,000 PACS have become Kisan Samriddhi Kendras, more than 600 PACS are operating Jan Aushadhi Kendras, while several others are managing fuel outlets and water supply schemes.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T02:30:27+00:00",
-        "link": "https://newsonair.gov.in/union-minister-amit-shah-to-attend-5th-foundation-day-ceremony-of-ministry-of-cooperation-in-new-delhi/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "PM Modi’s Indonesia visit to open new avenues for India-Indonesia cooperation: Ambassador Sandeep Chakravorty",
         "summary": "India&#8217;s Ambassador to Indonesia, Sandeep Chakravorty, has said that India and Indonesia are poised to elevate their Comprehensive Strategic Partnership, with Prime Minister Narendra Modi&#8217;s visit expected to pave the way for a series of agreements covering defence, trade, energy, food security, education and healthcare. Speaking to a private news channel, Mr Chakravorty said […]",
         "article": "India&#8217;s Ambassador to Indonesia, Sandeep Chakravorty, has said that India and Indonesia are poised to elevate their Comprehensive Strategic Partnership, with Prime Minister Narendra Modi&#8217;s visit expected to pave the way for a series of agreements covering defence, trade, energy, food security, education and healthcare. Speaking to a private news channel, Mr Chakravorty said the visit is expected to further strengthen bilateral cooperation, reinforce maritime and economic ties, and deepen collaboration in emerging sectors. He said India-Indonesia relations are on an upward trajectory and that the Prime Minister&#8217;s visit will further reinforce this positive momentum. The Ambassador said both countries are expected to announce cooperation initiatives across five key sectors: defence and maritime security, trade and investment, food security and fertiliser cooperation, energy security and critical minerals, and education and healthcare. Highlighting the close ties between the two countries, Mr Chakravorty said India and Indonesia are strategic partners with close geographical proximity. He noted that India&#8217;s Nicobar Islands are just 160 kilometres from Indonesia&#8217;s Aceh province, underlining the strategic importance of their maritime partnership in the Indo-Pacific.",
@@ -203,28 +234,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-07T01:49:06+00:00",
         "link": "https://newsonair.gov.in/pm-modis-indonesia-visit-to-open-new-avenues-for-india-indonesia-cooperation-ambassador-sandeep-chakravorty/",
         "post_id": 1723146,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Indian Navy to commission indigenous stealth frigate Mahendragiri on 11 July",
-        "summary": "The Indian Navy will commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38), at Visakhapatnam on Saturday, 11 July. The Defence Ministry said the stealth frigate has been designed in-house by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited, Mumbai. The ship has been named after the majestic Mahendragiri […]",
-        "article": "The Indian Navy will commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38), at Visakhapatnam on Saturday, 11 July. The Defence Ministry said the stealth frigate has been designed in-house by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited, Mumbai. The ship has been named after the majestic Mahendragiri mountain range in the Eastern Ghats. The Ministry said the warship embodies resilience, strength and unwavering resolve, and is poised to forge a distinguished legacy while adding another proud chapter to India’s maritime history. The frigate is powered by a modern Combined Diesel or Gas (CODOG) propulsion system, enabling high-speed operations with exceptional endurance across the full spectrum of maritime missions. With over 75 per cent indigenous content, Mahendragiri exemplifies the Government’s Aatmanirbhar Bharat initiative. The commissioning of Mahendragiri marks another milestone in the successful execution of the Project 17A programme. The Defence Ministry said the warship will serve as a formidable force multiplier, safeguarding the nation’s maritime interests and contributing to a secure, stable and prosperous Indo-Pacific as India continues to strengthen its role as the Preferred Security Partner in the Indian Ocean Region.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T01:37:39+00:00",
-        "link": "https://newsonair.gov.in/indian-navy-will-commission-6th-project-17a-indigenous-stealth-frigate-mahendragiri-f38-on-july-11/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Tribal Affairs to hold two-day national workshop on strengthening Tribal Research Institutes",
-        "summary": "The Ministry of Tribal Affairs will organise a two-day National Workshop on Strengthening Tribal Research Institutes (TRIs) from today in Bhubaneswar, Odisha. Union Minister for Tribal Affairs Jual Oram will inaugurate the workshop. The event will bring together around 200 participants. On the occasion, the Ministry of Tribal Affairs and Sampurnanand Sanskrit Vishwavidyalaya, Varanasi, will […]",
-        "article": "The Ministry of Tribal Affairs will organise a two-day National Workshop on Strengthening Tribal Research Institutes (TRIs) from today in Bhubaneswar, Odisha. Union Minister for Tribal Affairs Jual Oram will inaugurate the workshop. The event will bring together around 200 participants. On the occasion, the Ministry of Tribal Affairs and Sampurnanand Sanskrit Vishwavidyalaya, Varanasi, will sign a Memorandum of Understanding (MoU). A major highlight of the workshop will be the launch of TribeX, a first-of-its-kind digital learning platform dedicated to tribal arts, culture, languages, traditional knowledge and skill development. The workshop aims to review the functioning of Tribal Research Institutes across the country and develop a comprehensive roadmap to transform them into vibrant knowledge institutions, cultural resource centres and policy support hubs for tribal development.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T01:03:42+00:00",
-        "link": "https://newsonair.gov.in/tribal-affairs-ministry-to-organise-national-workshop-on-strengthening-tris-from-tomorrow/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -237,17 +246,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-07T00:56:47+00:00",
         "link": "https://newsonair.gov.in/external-affairs-minister-s-jaishankar-meets-bahrain-king-to-strengthen-bilateral-ties/",
         "post_id": 1723106,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "CBI searches at 26 locations across 11 states in BRO funds misappropriation case",
-        "summary": "The Central Bureau of Investigation (CBI) has conducted searches at 26 locations across eleven States and Union Territories in connection with four criminal cases pertaining to misappropriation of funds in the Border Road Organisation. These States and UTs are Jammu and Kashmir, Ladakh, Delhi, Haryana, Uttarakhand, Uttar Pradesh, Bihar, Maharashtra, Assam, Arunachal Pradesh and Nagaland. […]",
-        "article": "The Central Bureau of Investigation (CBI) has conducted searches at 26 locations across eleven States and Union Territories in connection with four criminal cases pertaining to misappropriation of funds in the Border Road Organisation. These States and UTs are Jammu and Kashmir, Ladakh, Delhi, Haryana, Uttarakhand, Uttar Pradesh, Bihar, Maharashtra, Assam, Arunachal Pradesh and Nagaland. Several incriminating documents and digital evidence have been recovered during the searches and the investigation is continuing. A total of ten officers of the ranks of Lieutenant, Colonel, Major and Engineers, along with certain private persons, have been named in the FIRs. The agency said that these cases are related to irregularities in the deployment of casual labourers and payments released in the name of fake casual labourers in Projects Vijayak and Yojak in Ladakh. Four FIRs were registered in this connection based on criminal complaints lodged by the Ministry of Defence, based on an internal enquiry conducted by the Technical Board of Officers of BRO. The offence relates to misappropriation of government funds, cheating, forgery, criminal breach of trust and criminal conspiracy.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T16:26:43+00:00",
-        "link": "https://newsonair.gov.in/cbi-searches-at-26-locations-across-11-states-in-bro-funds-misappropriation-case/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -255,14 +253,69 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "Two-day BRICS Women Ministerial Meeting begins in Kochi on 8 July",
+        "summary": "India will host the two-day BRICS Women Ministerial Meeting in Kochi, Keralam, beginning tomorrow. The Ministry of Women and Child Development said the meeting will bring together ministers from BRICS member countries to strengthen cooperation and advance a shared vision for women-led development under India&#8217;s BRICS Chairship. The ministers will deliberate on the proposed outcomes […]",
+        "article": "India will host the two-day BRICS Women Ministerial Meeting in Kochi, Keralam, beginning tomorrow. The Ministry of Women and Child Development said the meeting will bring together ministers from BRICS member countries to strengthen cooperation and advance a shared vision for women-led development under India&#8217;s BRICS Chairship. The ministers will deliberate on the proposed outcomes and provide strategic direction for enhancing cooperation among BRICS member countries. The programme will feature a plenary session and thematic panel discussions involving eminent experts, policymakers and practitioners. The discussions will provide an opportunity to exchange experiences, share innovative approaches and foster partnerships for women&#8217;s empowerment. The Ministerial Meeting follows the BRICS Women Working Group Meeting held on 6 and 7 July, during which senior officials held substantive deliberations on the priority areas under the BRICS Women Track. The Ministerial Meeting will serve as a platform for high-level dialogue on promoting women&#8217;s leadership, expanding economic opportunities, and strengthening digital and financial inclusion.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T06:19:08+00:00",
+        "link": "https://newsonair.gov.in/two-day-brics-women-ministerial-meeting-begins-in-kochi-on-8-july/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/19.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "IMD forecasts heavy rainfall over parts of western and central India",
         "summary": "The India Meteorological Department (IMD) has forecast heavy rainfall today over parts of Coastal Karnataka, Gujarat, Konkan and Goa, and Madhya Maharashtra. Heavy rainfall is also likely over parts of Arunachal Pradesh, Bihar, Chhattisgarh, East Rajasthan, Himachal Pradesh, Interior Karnataka, Madhya Pradesh, Sub-Himalayan West Bengal and Sikkim. Light to moderate rainfall is expected at isolated",
         "article": "The India Meteorological Department (IMD) has forecast heavy rainfall today over parts of Coastal Karnataka, Gujarat, Konkan and Goa, and Madhya Maharashtra. Heavy rainfall is also likely over parts of Arunachal Pradesh, Bihar, Chhattisgarh, East Rajasthan, Himachal Pradesh, Interior Karnataka, Madhya Pradesh, Sub-Himalayan West Bengal and Sikkim. Light to moderate rainfall is expected at isolated places over Delhi, Haryana, Chandigarh, parts of the North East, Odisha, Punjab and Uttar Pradesh. According to the IMD, thunder squalls are likely today over parts of Karnataka and Telangana. Thunderstorms accompanied by lightning are also expected over the Andaman and Nicobar Islands, Andhra Pradesh, Bihar, Gangetic West Bengal, Jammu and Kashmir, Ladakh, Jharkhand, Rajasthan and Uttar Pradesh.",
         "date": "2026-07-07",
         "pubDate": "2026-07-07T03:34:07+00:00",
         "link": "https://newsonair.gov.in/imd-forecasts-heavy-rainfall-over-parts-of-western-and-central-india/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tropical_Storm_Gordon_%28MODIS_2018-09-05%29.jpg/1280px-Tropical_Storm_Gordon_%28MODIS_2018-09-05%29.jpg",
-        "image_credit": "Wikimedia Commons (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/weather.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Nitin Gadkari reviews Multi Modal Logistics Parks and ropeway projects",
+        "summary": "Union Minister for Road Transport and Highways Nitin Gadkari chaired a review meeting of the National Highways Logistics Management Limited to assess the progress of Multi Modal Logistics Parks, ropeways, intermodal stations and wayside amenities being developed across the country. During the meeting, Mr Gadkari emphasised the strategic importance of these initiatives in building a […]",
+        "article": "Union Minister for Road Transport and Highways Nitin Gadkari chaired a review meeting of the National Highways Logistics Management Limited to assess the progress of Multi Modal Logistics Parks, ropeways, intermodal stations and wayside amenities being developed across the country. During the meeting, Mr Gadkari emphasised the strategic importance of these initiatives in building a future-ready and integrated transport ecosystem. He said these projects will strengthen multimodal connectivity, unlock new economic opportunities, promote balanced regional development and enhance India&#8217;s overall logistics competitiveness. The Minister also reviewed the key challenges affecting project implementation and directed all concerned stakeholders to resolve bottlenecks on priority and expedite project execution. Mr Gadkari said the timely completion of these projects will improve logistics efficiency, reduce transportation costs and provide world-class infrastructure and amenities for commuters, further advancing the vision of a Viksit Bharat and an Aatmanirbhar Bharat.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:05:14+00:00",
+        "link": "https://newsonair.gov.in/union-minister-nitin-gadkari-reviews-progress-of-nhlml-projects-calls-for-expeditious-completion-of-multimodal-infrastructure-initiatives/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/N2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Cooperation Ministry infused new energy into lives of nearly 30 crore people over past five years: Union Minister Amit Shah",
+        "summary": "Union Minister for Cooperation Amit Shah has said that the Ministry of Cooperation has infused new energy into the lives of nearly 30 crore people associated with the cooperative sector over the past five years. Addressing the fifth Foundation Day celebrations of the Ministry of Cooperation in New Delhi, Mr Shah said the Ministry, […]",
+        "article": "Union Minister for Cooperation Amit Shah has said that the Ministry of Cooperation has infused new energy into the lives of nearly 30 crore people associated with the cooperative sector over the past five years. Addressing the fifth Foundation Day celebrations of the Ministry of Cooperation in New Delhi, Mr Shah said the Ministry, established by Prime Minister Narendra Modi in 2021, has transformed the cooperative ecosystem into one that is modern, transparent, technology-driven and competitive. He said the Ministry has identified the key challenges facing the cooperative sector, prepared a comprehensive roadmap for its development, and introduced reforms that have modernised the entire ecosystem. Mr Shah said that when the nation celebrates the centenary of its Independence in 2047, the cooperative movement will serve as a strong foundation for a prosperous India. Recalling the establishment of the Ministry on 6 July 2021, he said the decision ended a 75-year wait for millions of people associated with the cooperative sector. He added that the Ministry has ended decades of neglect faced by the sector and infused new life into it. Mr Shah also rejected criticism that the Ministry would interfere in the powers of the states. Highlighting the Ministry&#8217;s achievements, Mr Shah said an integrated digital database covering over 8.58 lakh cooperative societies across 30 sectors and 32 crore members has been created. He said the database includes information on audit status, turnover, grading and the presence of cooperative institutions across villages, enabling states to identify gaps and strengthen cooperative networks. Mr Shah also announced the launch of a national ranking framework under which the top-performing cooperative societies in every sector will be recognised and encouraged. The Minister said the government has expanded the role of Primary Agricultural Credit Societies (PACS), enabling them to offer more than 300 services through Common Service Centres. He said 55,000 PACS are now providing services such as railway ticket booking, birth and death registration, applications for government schemes and digital payments. Mr Shah added that 39,000 PACS have become Kisan Samriddhi Kendras, more than 600 PACS are operating Jan Aushadhi Kendras, while several others are managing fuel outlets and water supply schemes.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T02:30:27+00:00",
+        "link": "https://newsonair.gov.in/union-minister-amit-shah-to-attend-5th-foundation-day-ceremony-of-ministry-of-cooperation-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/6.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian Navy to commission indigenous stealth frigate Mahendragiri on 11 July",
+        "summary": "The Indian Navy will commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38), at Visakhapatnam on Saturday, 11 July. The Defence Ministry said the stealth frigate has been designed in-house by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited, Mumbai. The ship has been named after the majestic Mahendragiri […]",
+        "article": "The Indian Navy will commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38), at Visakhapatnam on Saturday, 11 July. The Defence Ministry said the stealth frigate has been designed in-house by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited, Mumbai. The ship has been named after the majestic Mahendragiri mountain range in the Eastern Ghats. The Ministry said the warship embodies resilience, strength and unwavering resolve, and is poised to forge a distinguished legacy while adding another proud chapter to India’s maritime history. The frigate is powered by a modern Combined Diesel or Gas (CODOG) propulsion system, enabling high-speed operations with exceptional endurance across the full spectrum of maritime missions. With over 75 per cent indigenous content, Mahendragiri exemplifies the Government’s Aatmanirbhar Bharat initiative. The commissioning of Mahendragiri marks another milestone in the successful execution of the Project 17A programme. The Defence Ministry said the warship will serve as a formidable force multiplier, safeguarding the nation’s maritime interests and contributing to a secure, stable and prosperous Indo-Pacific as India continues to strengthen its role as the Preferred Security Partner in the Indian Ocean Region.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T01:37:39+00:00",
+        "link": "https://newsonair.gov.in/indian-navy-will-commission-6th-project-17a-indigenous-stealth-frigate-mahendragiri-f38-on-july-11/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Ministry of Tribal Affairs to hold two-day national workshop on strengthening Tribal Research Institutes",
+        "summary": "The Ministry of Tribal Affairs will organise a two-day National Workshop on Strengthening Tribal Research Institutes (TRIs) from today in Bhubaneswar, Odisha. Union Minister for Tribal Affairs Jual Oram will inaugurate the workshop. The event will bring together around 200 participants. On the occasion, the Ministry of Tribal Affairs and Sampurnanand Sanskrit Vishwavidyalaya, Varanasi, will […]",
+        "article": "The Ministry of Tribal Affairs will organise a two-day National Workshop on Strengthening Tribal Research Institutes (TRIs) from today in Bhubaneswar, Odisha. Union Minister for Tribal Affairs Jual Oram will inaugurate the workshop. The event will bring together around 200 participants. On the occasion, the Ministry of Tribal Affairs and Sampurnanand Sanskrit Vishwavidyalaya, Varanasi, will sign a Memorandum of Understanding (MoU). A major highlight of the workshop will be the launch of TribeX, a first-of-its-kind digital learning platform dedicated to tribal arts, culture, languages, traditional knowledge and skill development. The workshop aims to review the functioning of Tribal Research Institutes across the country and develop a comprehensive roadmap to transform them into vibrant knowledge institutions, cultural resource centres and policy support hubs for tribal development.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T01:03:42+00:00",
+        "link": "https://newsonair.gov.in/tribal-affairs-ministry-to-organise-national-workshop-on-strengthening-tris-from-tomorrow/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -272,8 +325,8 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T00:36:51+00:00",
         "link": "https://newsonair.gov.in/indias-leather-sector-set-for-new-export-opportunities-through-ftas-piyush-goyal/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Piyush_Goyal_crop.jpg",
-        "image_credit": "Wikipedia – Piyush Goyal (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -284,28 +337,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-07T05:50:43+00:00",
         "link": "https://newsonair.gov.in/pm-modi-holds-talks-with-indonesian-president-in-jakarta-mous-exchanged/",
         "post_id": 1723201,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Nitin Gadkari reviews Multi Modal Logistics Parks and ropeway projects",
-        "summary": "Union Minister for Road Transport and Highways Nitin Gadkari chaired a review meeting of the National Highways Logistics Management Limited to assess the progress of Multi Modal Logistics Parks, ropeways, intermodal stations and wayside amenities being developed across the country. During the meeting, Mr Gadkari emphasised the strategic importance of these initiatives in building a […]",
-        "article": "Union Minister for Road Transport and Highways Nitin Gadkari chaired a review meeting of the National Highways Logistics Management Limited to assess the progress of Multi Modal Logistics Parks, ropeways, intermodal stations and wayside amenities being developed across the country. During the meeting, Mr Gadkari emphasised the strategic importance of these initiatives in building a future-ready and integrated transport ecosystem. He said these projects will strengthen multimodal connectivity, unlock new economic opportunities, promote balanced regional development and enhance India&#8217;s overall logistics competitiveness. The Minister also reviewed the key challenges affecting project implementation and directed all concerned stakeholders to resolve bottlenecks on priority and expedite project execution. Mr Gadkari said the timely completion of these projects will improve logistics efficiency, reduce transportation costs and provide world-class infrastructure and amenities for commuters, further advancing the vision of a Viksit Bharat and an Aatmanirbhar Bharat.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:05:14+00:00",
-        "link": "https://newsonair.gov.in/union-minister-nitin-gadkari-reviews-progress-of-nhlml-projects-calls-for-expeditious-completion-of-multimodal-infrastructure-initiatives/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Cooperation Ministry infused new energy into lives of nearly 30 crore people over past five years: Union Minister Amit Shah",
-        "summary": "Union Minister for Cooperation Amit Shah has said that the Ministry of Cooperation has infused new energy into the lives of nearly 30 crore people associated with the cooperative sector over the past five years. Addressing the fifth Foundation Day celebrations of the Ministry of Cooperation in New Delhi, Mr Shah said the Ministry, […]",
-        "article": "Union Minister for Cooperation Amit Shah has said that the Ministry of Cooperation has infused new energy into the lives of nearly 30 crore people associated with the cooperative sector over the past five years. Addressing the fifth Foundation Day celebrations of the Ministry of Cooperation in New Delhi, Mr Shah said the Ministry, established by Prime Minister Narendra Modi in 2021, has transformed the cooperative ecosystem into one that is modern, transparent, technology-driven and competitive. He said the Ministry has identified the key challenges facing the cooperative sector, prepared a comprehensive roadmap for its development, and introduced reforms that have modernised the entire ecosystem. Mr Shah said that when the nation celebrates the centenary of its Independence in 2047, the cooperative movement will serve as a strong foundation for a prosperous India. Recalling the establishment of the Ministry on 6 July 2021, he said the decision ended a 75-year wait for millions of people associated with the cooperative sector. He added that the Ministry has ended decades of neglect faced by the sector and infused new life into it. Mr Shah also rejected criticism that the Ministry would interfere in the powers of the states. Highlighting the Ministry&#8217;s achievements, Mr Shah said an integrated digital database covering over 8.58 lakh cooperative societies across 30 sectors and 32 crore members has been created. He said the database includes information on audit status, turnover, grading and the presence of cooperative institutions across villages, enabling states to identify gaps and strengthen cooperative networks. Mr Shah also announced the launch of a national ranking framework under which the top-performing cooperative societies in every sector will be recognised and encouraged. The Minister said the government has expanded the role of Primary Agricultural Credit Societies (PACS), enabling them to offer more than 300 services through Common Service Centres. He said 55,000 PACS are now providing services such as railway ticket booking, birth and death registration, applications for government schemes and digital payments. Mr Shah added that 39,000 PACS have become Kisan Samriddhi Kendras, more than 600 PACS are operating Jan Aushadhi Kendras, while several others are managing fuel outlets and water supply schemes.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T02:30:27+00:00",
-        "link": "https://newsonair.gov.in/union-minister-amit-shah-to-attend-5th-foundation-day-ceremony-of-ministry-of-cooperation-in-new-delhi/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -323,28 +354,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Indian Navy to commission indigenous stealth frigate Mahendragiri on 11 July",
-        "summary": "The Indian Navy will commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38), at Visakhapatnam on Saturday, 11 July. The Defence Ministry said the stealth frigate has been designed in-house by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited, Mumbai. The ship has been named after the majestic Mahendragiri […]",
-        "article": "The Indian Navy will commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38), at Visakhapatnam on Saturday, 11 July. The Defence Ministry said the stealth frigate has been designed in-house by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited, Mumbai. The ship has been named after the majestic Mahendragiri mountain range in the Eastern Ghats. The Ministry said the warship embodies resilience, strength and unwavering resolve, and is poised to forge a distinguished legacy while adding another proud chapter to India’s maritime history. The frigate is powered by a modern Combined Diesel or Gas (CODOG) propulsion system, enabling high-speed operations with exceptional endurance across the full spectrum of maritime missions. With over 75 per cent indigenous content, Mahendragiri exemplifies the Government’s Aatmanirbhar Bharat initiative. The commissioning of Mahendragiri marks another milestone in the successful execution of the Project 17A programme. The Defence Ministry said the warship will serve as a formidable force multiplier, safeguarding the nation’s maritime interests and contributing to a secure, stable and prosperous Indo-Pacific as India continues to strengthen its role as the Preferred Security Partner in the Indian Ocean Region.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T01:37:39+00:00",
-        "link": "https://newsonair.gov.in/indian-navy-will-commission-6th-project-17a-indigenous-stealth-frigate-mahendragiri-f38-on-july-11/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Tribal Affairs to hold two-day national workshop on strengthening Tribal Research Institutes",
-        "summary": "The Ministry of Tribal Affairs will organise a two-day National Workshop on Strengthening Tribal Research Institutes (TRIs) from today in Bhubaneswar, Odisha. Union Minister for Tribal Affairs Jual Oram will inaugurate the workshop. The event will bring together around 200 participants. On the occasion, the Ministry of Tribal Affairs and Sampurnanand Sanskrit Vishwavidyalaya, Varanasi, will […]",
-        "article": "The Ministry of Tribal Affairs will organise a two-day National Workshop on Strengthening Tribal Research Institutes (TRIs) from today in Bhubaneswar, Odisha. Union Minister for Tribal Affairs Jual Oram will inaugurate the workshop. The event will bring together around 200 participants. On the occasion, the Ministry of Tribal Affairs and Sampurnanand Sanskrit Vishwavidyalaya, Varanasi, will sign a Memorandum of Understanding (MoU). A major highlight of the workshop will be the launch of TribeX, a first-of-its-kind digital learning platform dedicated to tribal arts, culture, languages, traditional knowledge and skill development. The workshop aims to review the functioning of Tribal Research Institutes across the country and develop a comprehensive roadmap to transform them into vibrant knowledge institutions, cultural resource centres and policy support hubs for tribal development.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T01:03:42+00:00",
-        "link": "https://newsonair.gov.in/tribal-affairs-ministry-to-organise-national-workshop-on-strengthening-tris-from-tomorrow/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "External Affairs Minister S. Jaishankar meets Bahrain King to strengthen bilateral ties",
         "summary": "External Affairs Minister S. Jaishankar met King Hamad bin Isa Al Khalifa in Bahrain and discussed ways to further strengthen the bilateral partnership. Mr Jaishankar arrived in Bahrain from Qatar on the second leg of his four-nation visit to the Gulf, which also includes Kuwait and Oman. He conveyed the greetings of President Droupadi Murmu […]",
         "article": "External Affairs Minister S. Jaishankar met King Hamad bin Isa Al Khalifa in Bahrain and discussed ways to further strengthen the bilateral partnership. Mr Jaishankar arrived in Bahrain from Qatar on the second leg of his four-nation visit to the Gulf, which also includes Kuwait and Oman. He conveyed the greetings of President Droupadi Murmu and Prime Minister Narendra Modi to the King and thanked him for ensuring the safety and well-being of the Indian diaspora in Bahrain. The External Affairs Minister also interacted with members of the Indian community in Bahrain. During the ongoing visit, Mr Jaishankar has been meeting his counterparts and top leaders of the four Gulf countries to strengthen bilateral ties and exchange views on regional developments and issues of mutual interest.",
@@ -352,17 +361,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-07T00:56:47+00:00",
         "link": "https://newsonair.gov.in/external-affairs-minister-s-jaishankar-meets-bahrain-king-to-strengthen-bilateral-ties/",
         "post_id": 1723106,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "CBI searches at 26 locations across 11 states in BRO funds misappropriation case",
-        "summary": "The Central Bureau of Investigation (CBI) has conducted searches at 26 locations across eleven States and Union Territories in connection with four criminal cases pertaining to misappropriation of funds in the Border Road Organisation. These States and UTs are Jammu and Kashmir, Ladakh, Delhi, Haryana, Uttarakhand, Uttar Pradesh, Bihar, Maharashtra, Assam, Arunachal Pradesh and Nagaland. […]",
-        "article": "The Central Bureau of Investigation (CBI) has conducted searches at 26 locations across eleven States and Union Territories in connection with four criminal cases pertaining to misappropriation of funds in the Border Road Organisation. These States and UTs are Jammu and Kashmir, Ladakh, Delhi, Haryana, Uttarakhand, Uttar Pradesh, Bihar, Maharashtra, Assam, Arunachal Pradesh and Nagaland. Several incriminating documents and digital evidence have been recovered during the searches and the investigation is continuing. A total of ten officers of the ranks of Lieutenant, Colonel, Major and Engineers, along with certain private persons, have been named in the FIRs. The agency said that these cases are related to irregularities in the deployment of casual labourers and payments released in the name of fake casual labourers in Projects Vijayak and Yojak in Ladakh. Four FIRs were registered in this connection based on criminal complaints lodged by the Ministry of Defence, based on an internal enquiry conducted by the Technical Board of Officers of BRO. The offence relates to misappropriation of government funds, cheating, forgery, criminal breach of trust and criminal conspiracy.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T16:26:43+00:00",
-        "link": "https://newsonair.gov.in/cbi-searches-at-26-locations-across-11-states-in-bro-funds-misappropriation-case/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -370,14 +368,69 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "Two-day BRICS Women Ministerial Meeting begins in Kochi on 8 July",
+        "summary": "India will host the two-day BRICS Women Ministerial Meeting in Kochi, Keralam, beginning tomorrow. The Ministry of Women and Child Development said the meeting will bring together ministers from BRICS member countries to strengthen cooperation and advance a shared vision for women-led development under India&#8217;s BRICS Chairship. The ministers will deliberate on the proposed outcomes […]",
+        "article": "India will host the two-day BRICS Women Ministerial Meeting in Kochi, Keralam, beginning tomorrow. The Ministry of Women and Child Development said the meeting will bring together ministers from BRICS member countries to strengthen cooperation and advance a shared vision for women-led development under India&#8217;s BRICS Chairship. The ministers will deliberate on the proposed outcomes and provide strategic direction for enhancing cooperation among BRICS member countries. The programme will feature a plenary session and thematic panel discussions involving eminent experts, policymakers and practitioners. The discussions will provide an opportunity to exchange experiences, share innovative approaches and foster partnerships for women&#8217;s empowerment. The Ministerial Meeting follows the BRICS Women Working Group Meeting held on 6 and 7 July, during which senior officials held substantive deliberations on the priority areas under the BRICS Women Track. The Ministerial Meeting will serve as a platform for high-level dialogue on promoting women&#8217;s leadership, expanding economic opportunities, and strengthening digital and financial inclusion.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T06:19:08+00:00",
+        "link": "https://newsonair.gov.in/two-day-brics-women-ministerial-meeting-begins-in-kochi-on-8-july/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/19.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "IMD forecasts heavy rainfall over parts of western and central India",
         "summary": "The India Meteorological Department (IMD) has forecast heavy rainfall today over parts of Coastal Karnataka, Gujarat, Konkan and Goa, and Madhya Maharashtra. Heavy rainfall is also likely over parts of Arunachal Pradesh, Bihar, Chhattisgarh, East Rajasthan, Himachal Pradesh, Interior Karnataka, Madhya Pradesh, Sub-Himalayan West Bengal and Sikkim. Light to moderate rainfall is expected at isolated",
         "article": "The India Meteorological Department (IMD) has forecast heavy rainfall today over parts of Coastal Karnataka, Gujarat, Konkan and Goa, and Madhya Maharashtra. Heavy rainfall is also likely over parts of Arunachal Pradesh, Bihar, Chhattisgarh, East Rajasthan, Himachal Pradesh, Interior Karnataka, Madhya Pradesh, Sub-Himalayan West Bengal and Sikkim. Light to moderate rainfall is expected at isolated places over Delhi, Haryana, Chandigarh, parts of the North East, Odisha, Punjab and Uttar Pradesh. According to the IMD, thunder squalls are likely today over parts of Karnataka and Telangana. Thunderstorms accompanied by lightning are also expected over the Andaman and Nicobar Islands, Andhra Pradesh, Bihar, Gangetic West Bengal, Jammu and Kashmir, Ladakh, Jharkhand, Rajasthan and Uttar Pradesh.",
         "date": "2026-07-07",
         "pubDate": "2026-07-07T03:34:07+00:00",
         "link": "https://newsonair.gov.in/imd-forecasts-heavy-rainfall-over-parts-of-western-and-central-india/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tropical_Storm_Gordon_%28MODIS_2018-09-05%29.jpg/1280px-Tropical_Storm_Gordon_%28MODIS_2018-09-05%29.jpg",
-        "image_credit": "Wikimedia Commons (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/weather.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Nitin Gadkari reviews Multi Modal Logistics Parks and ropeway projects",
+        "summary": "Union Minister for Road Transport and Highways Nitin Gadkari chaired a review meeting of the National Highways Logistics Management Limited to assess the progress of Multi Modal Logistics Parks, ropeways, intermodal stations and wayside amenities being developed across the country. During the meeting, Mr Gadkari emphasised the strategic importance of these initiatives in building a […]",
+        "article": "Union Minister for Road Transport and Highways Nitin Gadkari chaired a review meeting of the National Highways Logistics Management Limited to assess the progress of Multi Modal Logistics Parks, ropeways, intermodal stations and wayside amenities being developed across the country. During the meeting, Mr Gadkari emphasised the strategic importance of these initiatives in building a future-ready and integrated transport ecosystem. He said these projects will strengthen multimodal connectivity, unlock new economic opportunities, promote balanced regional development and enhance India&#8217;s overall logistics competitiveness. The Minister also reviewed the key challenges affecting project implementation and directed all concerned stakeholders to resolve bottlenecks on priority and expedite project execution. Mr Gadkari said the timely completion of these projects will improve logistics efficiency, reduce transportation costs and provide world-class infrastructure and amenities for commuters, further advancing the vision of a Viksit Bharat and an Aatmanirbhar Bharat.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:05:14+00:00",
+        "link": "https://newsonair.gov.in/union-minister-nitin-gadkari-reviews-progress-of-nhlml-projects-calls-for-expeditious-completion-of-multimodal-infrastructure-initiatives/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/N2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Cooperation Ministry infused new energy into lives of nearly 30 crore people over past five years: Union Minister Amit Shah",
+        "summary": "Union Minister for Cooperation Amit Shah has said that the Ministry of Cooperation has infused new energy into the lives of nearly 30 crore people associated with the cooperative sector over the past five years. Addressing the fifth Foundation Day celebrations of the Ministry of Cooperation in New Delhi, Mr Shah said the Ministry, […]",
+        "article": "Union Minister for Cooperation Amit Shah has said that the Ministry of Cooperation has infused new energy into the lives of nearly 30 crore people associated with the cooperative sector over the past five years. Addressing the fifth Foundation Day celebrations of the Ministry of Cooperation in New Delhi, Mr Shah said the Ministry, established by Prime Minister Narendra Modi in 2021, has transformed the cooperative ecosystem into one that is modern, transparent, technology-driven and competitive. He said the Ministry has identified the key challenges facing the cooperative sector, prepared a comprehensive roadmap for its development, and introduced reforms that have modernised the entire ecosystem. Mr Shah said that when the nation celebrates the centenary of its Independence in 2047, the cooperative movement will serve as a strong foundation for a prosperous India. Recalling the establishment of the Ministry on 6 July 2021, he said the decision ended a 75-year wait for millions of people associated with the cooperative sector. He added that the Ministry has ended decades of neglect faced by the sector and infused new life into it. Mr Shah also rejected criticism that the Ministry would interfere in the powers of the states. Highlighting the Ministry&#8217;s achievements, Mr Shah said an integrated digital database covering over 8.58 lakh cooperative societies across 30 sectors and 32 crore members has been created. He said the database includes information on audit status, turnover, grading and the presence of cooperative institutions across villages, enabling states to identify gaps and strengthen cooperative networks. Mr Shah also announced the launch of a national ranking framework under which the top-performing cooperative societies in every sector will be recognised and encouraged. The Minister said the government has expanded the role of Primary Agricultural Credit Societies (PACS), enabling them to offer more than 300 services through Common Service Centres. He said 55,000 PACS are now providing services such as railway ticket booking, birth and death registration, applications for government schemes and digital payments. Mr Shah added that 39,000 PACS have become Kisan Samriddhi Kendras, more than 600 PACS are operating Jan Aushadhi Kendras, while several others are managing fuel outlets and water supply schemes.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T02:30:27+00:00",
+        "link": "https://newsonair.gov.in/union-minister-amit-shah-to-attend-5th-foundation-day-ceremony-of-ministry-of-cooperation-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/6.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian Navy to commission indigenous stealth frigate Mahendragiri on 11 July",
+        "summary": "The Indian Navy will commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38), at Visakhapatnam on Saturday, 11 July. The Defence Ministry said the stealth frigate has been designed in-house by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited, Mumbai. The ship has been named after the majestic Mahendragiri […]",
+        "article": "The Indian Navy will commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38), at Visakhapatnam on Saturday, 11 July. The Defence Ministry said the stealth frigate has been designed in-house by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited, Mumbai. The ship has been named after the majestic Mahendragiri mountain range in the Eastern Ghats. The Ministry said the warship embodies resilience, strength and unwavering resolve, and is poised to forge a distinguished legacy while adding another proud chapter to India’s maritime history. The frigate is powered by a modern Combined Diesel or Gas (CODOG) propulsion system, enabling high-speed operations with exceptional endurance across the full spectrum of maritime missions. With over 75 per cent indigenous content, Mahendragiri exemplifies the Government’s Aatmanirbhar Bharat initiative. The commissioning of Mahendragiri marks another milestone in the successful execution of the Project 17A programme. The Defence Ministry said the warship will serve as a formidable force multiplier, safeguarding the nation’s maritime interests and contributing to a secure, stable and prosperous Indo-Pacific as India continues to strengthen its role as the Preferred Security Partner in the Indian Ocean Region.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T01:37:39+00:00",
+        "link": "https://newsonair.gov.in/indian-navy-will-commission-6th-project-17a-indigenous-stealth-frigate-mahendragiri-f38-on-july-11/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Ministry of Tribal Affairs to hold two-day national workshop on strengthening Tribal Research Institutes",
+        "summary": "The Ministry of Tribal Affairs will organise a two-day National Workshop on Strengthening Tribal Research Institutes (TRIs) from today in Bhubaneswar, Odisha. Union Minister for Tribal Affairs Jual Oram will inaugurate the workshop. The event will bring together around 200 participants. On the occasion, the Ministry of Tribal Affairs and Sampurnanand Sanskrit Vishwavidyalaya, Varanasi, will […]",
+        "article": "The Ministry of Tribal Affairs will organise a two-day National Workshop on Strengthening Tribal Research Institutes (TRIs) from today in Bhubaneswar, Odisha. Union Minister for Tribal Affairs Jual Oram will inaugurate the workshop. The event will bring together around 200 participants. On the occasion, the Ministry of Tribal Affairs and Sampurnanand Sanskrit Vishwavidyalaya, Varanasi, will sign a Memorandum of Understanding (MoU). A major highlight of the workshop will be the launch of TribeX, a first-of-its-kind digital learning platform dedicated to tribal arts, culture, languages, traditional knowledge and skill development. The workshop aims to review the functioning of Tribal Research Institutes across the country and develop a comprehensive roadmap to transform them into vibrant knowledge institutions, cultural resource centres and policy support hubs for tribal development.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T01:03:42+00:00",
+        "link": "https://newsonair.gov.in/tribal-affairs-ministry-to-organise-national-workshop-on-strengthening-tris-from-tomorrow/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -387,8 +440,8 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T00:36:51+00:00",
         "link": "https://newsonair.gov.in/indias-leather-sector-set-for-new-export-opportunities-through-ftas-piyush-goyal/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Piyush_Goyal_crop.jpg",
-        "image_credit": "Wikipedia – Piyush Goyal (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -399,28 +452,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-07T05:50:43+00:00",
         "link": "https://newsonair.gov.in/pm-modi-holds-talks-with-indonesian-president-in-jakarta-mous-exchanged/",
         "post_id": 1723201,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Nitin Gadkari reviews Multi Modal Logistics Parks and ropeway projects",
-        "summary": "Union Minister for Road Transport and Highways Nitin Gadkari chaired a review meeting of the National Highways Logistics Management Limited to assess the progress of Multi Modal Logistics Parks, ropeways, intermodal stations and wayside amenities being developed across the country. During the meeting, Mr Gadkari emphasised the strategic importance of these initiatives in building a […]",
-        "article": "Union Minister for Road Transport and Highways Nitin Gadkari chaired a review meeting of the National Highways Logistics Management Limited to assess the progress of Multi Modal Logistics Parks, ropeways, intermodal stations and wayside amenities being developed across the country. During the meeting, Mr Gadkari emphasised the strategic importance of these initiatives in building a future-ready and integrated transport ecosystem. He said these projects will strengthen multimodal connectivity, unlock new economic opportunities, promote balanced regional development and enhance India&#8217;s overall logistics competitiveness. The Minister also reviewed the key challenges affecting project implementation and directed all concerned stakeholders to resolve bottlenecks on priority and expedite project execution. Mr Gadkari said the timely completion of these projects will improve logistics efficiency, reduce transportation costs and provide world-class infrastructure and amenities for commuters, further advancing the vision of a Viksit Bharat and an Aatmanirbhar Bharat.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:05:14+00:00",
-        "link": "https://newsonair.gov.in/union-minister-nitin-gadkari-reviews-progress-of-nhlml-projects-calls-for-expeditious-completion-of-multimodal-infrastructure-initiatives/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Cooperation Ministry infused new energy into lives of nearly 30 crore people over past five years: Union Minister Amit Shah",
-        "summary": "Union Minister for Cooperation Amit Shah has said that the Ministry of Cooperation has infused new energy into the lives of nearly 30 crore people associated with the cooperative sector over the past five years. Addressing the fifth Foundation Day celebrations of the Ministry of Cooperation in New Delhi, Mr Shah said the Ministry, […]",
-        "article": "Union Minister for Cooperation Amit Shah has said that the Ministry of Cooperation has infused new energy into the lives of nearly 30 crore people associated with the cooperative sector over the past five years. Addressing the fifth Foundation Day celebrations of the Ministry of Cooperation in New Delhi, Mr Shah said the Ministry, established by Prime Minister Narendra Modi in 2021, has transformed the cooperative ecosystem into one that is modern, transparent, technology-driven and competitive. He said the Ministry has identified the key challenges facing the cooperative sector, prepared a comprehensive roadmap for its development, and introduced reforms that have modernised the entire ecosystem. Mr Shah said that when the nation celebrates the centenary of its Independence in 2047, the cooperative movement will serve as a strong foundation for a prosperous India. Recalling the establishment of the Ministry on 6 July 2021, he said the decision ended a 75-year wait for millions of people associated with the cooperative sector. He added that the Ministry has ended decades of neglect faced by the sector and infused new life into it. Mr Shah also rejected criticism that the Ministry would interfere in the powers of the states. Highlighting the Ministry&#8217;s achievements, Mr Shah said an integrated digital database covering over 8.58 lakh cooperative societies across 30 sectors and 32 crore members has been created. He said the database includes information on audit status, turnover, grading and the presence of cooperative institutions across villages, enabling states to identify gaps and strengthen cooperative networks. Mr Shah also announced the launch of a national ranking framework under which the top-performing cooperative societies in every sector will be recognised and encouraged. The Minister said the government has expanded the role of Primary Agricultural Credit Societies (PACS), enabling them to offer more than 300 services through Common Service Centres. He said 55,000 PACS are now providing services such as railway ticket booking, birth and death registration, applications for government schemes and digital payments. Mr Shah added that 39,000 PACS have become Kisan Samriddhi Kendras, more than 600 PACS are operating Jan Aushadhi Kendras, while several others are managing fuel outlets and water supply schemes.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T02:30:27+00:00",
-        "link": "https://newsonair.gov.in/union-minister-amit-shah-to-attend-5th-foundation-day-ceremony-of-ministry-of-cooperation-in-new-delhi/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -438,28 +469,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Indian Navy to commission indigenous stealth frigate Mahendragiri on 11 July",
-        "summary": "The Indian Navy will commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38), at Visakhapatnam on Saturday, 11 July. The Defence Ministry said the stealth frigate has been designed in-house by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited, Mumbai. The ship has been named after the majestic Mahendragiri […]",
-        "article": "The Indian Navy will commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38), at Visakhapatnam on Saturday, 11 July. The Defence Ministry said the stealth frigate has been designed in-house by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited, Mumbai. The ship has been named after the majestic Mahendragiri mountain range in the Eastern Ghats. The Ministry said the warship embodies resilience, strength and unwavering resolve, and is poised to forge a distinguished legacy while adding another proud chapter to India’s maritime history. The frigate is powered by a modern Combined Diesel or Gas (CODOG) propulsion system, enabling high-speed operations with exceptional endurance across the full spectrum of maritime missions. With over 75 per cent indigenous content, Mahendragiri exemplifies the Government’s Aatmanirbhar Bharat initiative. The commissioning of Mahendragiri marks another milestone in the successful execution of the Project 17A programme. The Defence Ministry said the warship will serve as a formidable force multiplier, safeguarding the nation’s maritime interests and contributing to a secure, stable and prosperous Indo-Pacific as India continues to strengthen its role as the Preferred Security Partner in the Indian Ocean Region.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T01:37:39+00:00",
-        "link": "https://newsonair.gov.in/indian-navy-will-commission-6th-project-17a-indigenous-stealth-frigate-mahendragiri-f38-on-july-11/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Tribal Affairs to hold two-day national workshop on strengthening Tribal Research Institutes",
-        "summary": "The Ministry of Tribal Affairs will organise a two-day National Workshop on Strengthening Tribal Research Institutes (TRIs) from today in Bhubaneswar, Odisha. Union Minister for Tribal Affairs Jual Oram will inaugurate the workshop. The event will bring together around 200 participants. On the occasion, the Ministry of Tribal Affairs and Sampurnanand Sanskrit Vishwavidyalaya, Varanasi, will […]",
-        "article": "The Ministry of Tribal Affairs will organise a two-day National Workshop on Strengthening Tribal Research Institutes (TRIs) from today in Bhubaneswar, Odisha. Union Minister for Tribal Affairs Jual Oram will inaugurate the workshop. The event will bring together around 200 participants. On the occasion, the Ministry of Tribal Affairs and Sampurnanand Sanskrit Vishwavidyalaya, Varanasi, will sign a Memorandum of Understanding (MoU). A major highlight of the workshop will be the launch of TribeX, a first-of-its-kind digital learning platform dedicated to tribal arts, culture, languages, traditional knowledge and skill development. The workshop aims to review the functioning of Tribal Research Institutes across the country and develop a comprehensive roadmap to transform them into vibrant knowledge institutions, cultural resource centres and policy support hubs for tribal development.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T01:03:42+00:00",
-        "link": "https://newsonair.gov.in/tribal-affairs-ministry-to-organise-national-workshop-on-strengthening-tris-from-tomorrow/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "External Affairs Minister S. Jaishankar meets Bahrain King to strengthen bilateral ties",
         "summary": "External Affairs Minister S. Jaishankar met King Hamad bin Isa Al Khalifa in Bahrain and discussed ways to further strengthen the bilateral partnership. Mr Jaishankar arrived in Bahrain from Qatar on the second leg of his four-nation visit to the Gulf, which also includes Kuwait and Oman. He conveyed the greetings of President Droupadi Murmu […]",
         "article": "External Affairs Minister S. Jaishankar met King Hamad bin Isa Al Khalifa in Bahrain and discussed ways to further strengthen the bilateral partnership. Mr Jaishankar arrived in Bahrain from Qatar on the second leg of his four-nation visit to the Gulf, which also includes Kuwait and Oman. He conveyed the greetings of President Droupadi Murmu and Prime Minister Narendra Modi to the King and thanked him for ensuring the safety and well-being of the Indian diaspora in Bahrain. The External Affairs Minister also interacted with members of the Indian community in Bahrain. During the ongoing visit, Mr Jaishankar has been meeting his counterparts and top leaders of the four Gulf countries to strengthen bilateral ties and exchange views on regional developments and issues of mutual interest.",
@@ -470,53 +479,9 @@ window.VM_NEWS = {
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "CBI searches at 26 locations across 11 states in BRO funds misappropriation case",
-        "summary": "The Central Bureau of Investigation (CBI) has conducted searches at 26 locations across eleven States and Union Territories in connection with four criminal cases pertaining to misappropriation of funds in the Border Road Organisation. These States and UTs are Jammu and Kashmir, Ladakh, Delhi, Haryana, Uttarakhand, Uttar Pradesh, Bihar, Maharashtra, Assam, Arunachal Pradesh and Nagaland. […]",
-        "article": "The Central Bureau of Investigation (CBI) has conducted searches at 26 locations across eleven States and Union Territories in connection with four criminal cases pertaining to misappropriation of funds in the Border Road Organisation. These States and UTs are Jammu and Kashmir, Ladakh, Delhi, Haryana, Uttarakhand, Uttar Pradesh, Bihar, Maharashtra, Assam, Arunachal Pradesh and Nagaland. Several incriminating documents and digital evidence have been recovered during the searches and the investigation is continuing. A total of ten officers of the ranks of Lieutenant, Colonel, Major and Engineers, along with certain private persons, have been named in the FIRs. The agency said that these cases are related to irregularities in the deployment of casual labourers and payments released in the name of fake casual labourers in Projects Vijayak and Yojak in Ladakh. Four FIRs were registered in this connection based on criminal complaints lodged by the Ministry of Defence, based on an internal enquiry conducted by the Technical Board of Officers of BRO. The offence relates to misappropriation of government funds, cheating, forgery, criminal breach of trust and criminal conspiracy.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T16:26:43+00:00",
-        "link": "https://newsonair.gov.in/cbi-searches-at-26-locations-across-11-states-in-bro-funds-misappropriation-case/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
       }
     ],
     "world": [
-      {
-        "title": "UN estimates Venezuela earthquake damage at 37 billion US dollars",
-        "summary": "A new United Nations estimate has put the direct physical damage caused by the twin earthquakes in Venezuela at 37 billion US dollars. The estimate includes around 24 billion US dollars in damage to buildings, including homes, businesses, schools, hospitals and public facilities, and another 13 billion US dollars in damage to infrastructure. Speaking to […]",
-        "article": "A new United Nations estimate has put the direct physical damage caused by the twin earthquakes in Venezuela at 37 billion US dollars. The estimate includes around 24 billion US dollars in damage to buildings, including homes, businesses, schools, hospitals and public facilities, and another 13 billion US dollars in damage to infrastructure. Speaking to reporters in New York, UN Spokesperson Stéphane Dujarric said the United Nations and its partners are continuing to scale up assistance to people affected by the earthquakes, in coordination with the Venezuelan Government. Meanwhile, the United Nations Children&#8217;s Fund (UNICEF) has warned that children are among the worst affected by the disaster. It estimates that 650,000 people, including 234,000 children, will require humanitarian assistance. UNICEF has deployed emergency teams and delivered 68 tonnes of relief supplies, including medical materials, water and sanitation equipment, and essential household items. UN agencies are already providing services in three relief camps and are assessing additional sites for support. Health partners are delivering primary healthcare, mental health and psychosocial support, as well as sexual and reproductive health services where required. The Humanitarian Response Plan for Venezuela has so far received 274 million US dollars, along with more than 32 million US dollars from private sector donors and additional in-kind contributions of goods and services.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:47:07+00:00",
-        "link": "https://newsonair.gov.in/un-estimates-venezuela-earthquake-damage-at-37-billion-us-dollars/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/PIIGS_Mk_4_map.png/1280px-PIIGS_Mk_4_map.png",
-        "image_credit": "Wikimedia Commons (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Death toll from Venezuela earthquakes rises to 3,535",
-        "summary": "Venezuela&#8217;s National Assembly President Jorge Rodriguez has said that the death toll from the twin earthquakes has risen to 3,535, while 16,740 people have been injured. He said 17,854 people remain homeless. Mr Rodriguez said 6,462 people have been rescued so far, while 86,794 families have received assistance. On 24 June, two powerful earthquakes of […]",
-        "article": "Venezuela&#8217;s National Assembly President Jorge Rodriguez has said that the death toll from the twin earthquakes has risen to 3,535, while 16,740 people have been injured. He said 17,854 people remain homeless. Mr Rodriguez said 6,462 people have been rescued so far, while 86,794 families have received assistance. On 24 June, two powerful earthquakes of magnitude 7.2 and 7.5 struck the South American nation in quick succession. Multiple structures collapsed in Caracas following the strong tremors, which were felt across large parts of Venezuela.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:35:56+00:00",
-        "link": "https://newsonair.gov.in/death-toll-from-venezuela-earthquakes-rises-to-3535/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hendrick_Andriessen_-_Vanity_Piece_-_1914-DE_-_Museum_of_Fine_Arts_Ghent_%28MSK%29.jpg/1280px-Hendrick_Andriessen_-_Vanity_Piece_-_1914-DE_-_Museum_of_Fine_Arts_Ghent_%28MSK%29.jpg",
-        "image_credit": "Wikipedia – Death (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PoJK protesters issue 48-hour ultimatum to Islamabad, warn of ‘Grand And Final’ action on July 9",
-        "summary": "Amid the intensifying political unrest in Pakistan-occupied Jammu and Kashmir (PoJK), the Jammu Kashmir Joint Awami Action Committee (JAAC) has issued a 48-hour ultimatum to the government in Islamabad, threatening a grand and final response on July 9, if their conditions remain unfulfilled. In a formal declaration, the committee announced that its ongoing sit-in […]",
-        "article": "Amid the intensifying political unrest in Pakistan-occupied Jammu and Kashmir (PoJK), the Jammu Kashmir Joint Awami Action Committee (JAAC) has issued a 48-hour ultimatum to the government in Islamabad, threatening a grand and final response on July 9, if their conditions remain unfulfilled. In a formal declaration, the committee announced that its ongoing sit-in protest will continue indefinitely until all its demands are fulfilled. It has also called upon residents across PoJK and members of the Kashmiri diaspora to participate in the protest on 9 July. Meanwhile, reports said police action by Pakistani authorities intensified on Sunday against protesters demonstrating against the crackdown and the reported arrest of more than 600 civil rights activists in Pakistan-occupied Jammu and Kashmir. Reports of shelling, firing and clashes have emerged from several parts of Muzaffarabad. Thousands of people have taken to the streets, demanding an end to the alleged blockade, restoration of communication services, uninterrupted supply of food and medicines, release of detained leaders, and implementation of a 38-point written agreement. The protests have intensified since Pakistan banned the JAAC under the Anti-Terrorism Act. Protest organisers have alleged that more than 600 workers and political leaders have been arrested, while authorities have imposed an economic blockade by restricting the supply of food, flour and essential medicines.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T02:16:39+00:00",
-        "link": "https://newsonair.gov.in/pojk-protesters-issue-48-hour-ultimatum-to-islamabad-warn-of-grand-and-final-action-on-july-9/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Faisal_Mosque%2C_Islamabad_III.jpg/1280px-Faisal_Mosque%2C_Islamabad_III.jpg",
-        "image_credit": "Wikipedia – Islamabad (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
       {
         "title": "PM Modi holds talks with Indonesian President; conferred Indonesia’s highest civilian honour",
         "summary": "Prime Minister Narendra Modi held delegation-level talks with Indonesian President Prabowo Subianto in Jakarta to review the full spectrum of bilateral ties and provide fresh momentum to the Comprehensive Strategic Partnership between the two countries. The two leaders also witnessed the exchange of Memoranda of Understanding (MoUs) aimed at enhancing cooperation in areas of mutual […]",
@@ -524,8 +489,8 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T05:50:43+00:00",
         "link": "https://newsonair.gov.in/pm-modi-holds-talks-with-indonesian-president-in-jakarta-mous-exchanged/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/18.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -535,8 +500,19 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T05:35:45+00:00",
         "link": "https://newsonair.gov.in/eight-killed-as-severe-storms-batter-central-china/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/15.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "UN estimates Venezuela earthquake damage at 37 billion US dollars",
+        "summary": "A new United Nations estimate has put the direct physical damage caused by the twin earthquakes in Venezuela at 37 billion US dollars. The estimate includes around 24 billion US dollars in damage to buildings, including homes, businesses, schools, hospitals and public facilities, and another 13 billion US dollars in damage to infrastructure. Speaking to […]",
+        "article": "A new United Nations estimate has put the direct physical damage caused by the twin earthquakes in Venezuela at 37 billion US dollars. The estimate includes around 24 billion US dollars in damage to buildings, including homes, businesses, schools, hospitals and public facilities, and another 13 billion US dollars in damage to infrastructure. Speaking to reporters in New York, UN Spokesperson Stéphane Dujarric said the United Nations and its partners are continuing to scale up assistance to people affected by the earthquakes, in coordination with the Venezuelan Government. Meanwhile, the United Nations Children&#8217;s Fund (UNICEF) has warned that children are among the worst affected by the disaster. It estimates that 650,000 people, including 234,000 children, will require humanitarian assistance. UNICEF has deployed emergency teams and delivered 68 tonnes of relief supplies, including medical materials, water and sanitation equipment, and essential household items. UN agencies are already providing services in three relief camps and are assessing additional sites for support. Health partners are delivering primary healthcare, mental health and psychosocial support, as well as sexual and reproductive health services where required. The Humanitarian Response Plan for Venezuela has so far received 274 million US dollars, along with more than 32 million US dollars from private sector donors and additional in-kind contributions of goods and services.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:47:07+00:00",
+        "link": "https://newsonair.gov.in/un-estimates-venezuela-earthquake-damage-at-37-billion-us-dollars/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -546,8 +522,30 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T03:39:41+00:00",
         "link": "https://newsonair.gov.in/former-mongolian-president-lauds-progress-of-india-backed-oil-refinery-project/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/10.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Death toll from Venezuela earthquakes rises to 3,535",
+        "summary": "Venezuela&#8217;s National Assembly President Jorge Rodriguez has said that the death toll from the twin earthquakes has risen to 3,535, while 16,740 people have been injured. He said 17,854 people remain homeless. Mr Rodriguez said 6,462 people have been rescued so far, while 86,794 families have received assistance. On 24 June, two powerful earthquakes of […]",
+        "article": "Venezuela&#8217;s National Assembly President Jorge Rodriguez has said that the death toll from the twin earthquakes has risen to 3,535, while 16,740 people have been injured. He said 17,854 people remain homeless. Mr Rodriguez said 6,462 people have been rescued so far, while 86,794 families have received assistance. On 24 June, two powerful earthquakes of magnitude 7.2 and 7.5 struck the South American nation in quick succession. Multiple structures collapsed in Caracas following the strong tremors, which were felt across large parts of Venezuela.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:35:56+00:00",
+        "link": "https://newsonair.gov.in/death-toll-from-venezuela-earthquakes-rises-to-3535/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AP06_25_2026_000059A-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PoJK protesters issue 48-hour ultimatum to Islamabad, warn of ‘Grand And Final’ action on July 9",
+        "summary": "Amid the intensifying political unrest in Pakistan-occupied Jammu and Kashmir (PoJK), the Jammu Kashmir Joint Awami Action Committee (JAAC) has issued a 48-hour ultimatum to the government in Islamabad, threatening a grand and final response on July 9, if their conditions remain unfulfilled. In a formal declaration, the committee announced that its ongoing sit-in […]",
+        "article": "Amid the intensifying political unrest in Pakistan-occupied Jammu and Kashmir (PoJK), the Jammu Kashmir Joint Awami Action Committee (JAAC) has issued a 48-hour ultimatum to the government in Islamabad, threatening a grand and final response on July 9, if their conditions remain unfulfilled. In a formal declaration, the committee announced that its ongoing sit-in protest will continue indefinitely until all its demands are fulfilled. It has also called upon residents across PoJK and members of the Kashmiri diaspora to participate in the protest on 9 July. Meanwhile, reports said police action by Pakistani authorities intensified on Sunday against protesters demonstrating against the crackdown and the reported arrest of more than 600 civil rights activists in Pakistan-occupied Jammu and Kashmir. Reports of shelling, firing and clashes have emerged from several parts of Muzaffarabad. Thousands of people have taken to the streets, demanding an end to the alleged blockade, restoration of communication services, uninterrupted supply of food and medicines, release of detained leaders, and implementation of a 38-point written agreement. The protests have intensified since Pakistan banned the JAAC under the Anti-Terrorism Act. Protest organisers have alleged that more than 600 workers and political leaders have been arrested, while authorities have imposed an economic blockade by restricting the supply of food, flour and essential medicines.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T02:16:39+00:00",
+        "link": "https://newsonair.gov.in/pojk-protesters-issue-48-hour-ultimatum-to-islamabad-warn-of-grand-and-final-action-on-july-9/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/7.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -557,8 +555,8 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T01:49:06+00:00",
         "link": "https://newsonair.gov.in/pm-modis-indonesia-visit-to-open-new-avenues-for-india-indonesia-cooperation-ambassador-sandeep-chakravorty/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/5.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -568,8 +566,8 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T00:56:47+00:00",
         "link": "https://newsonair.gov.in/external-affairs-minister-s-jaishankar-meets-bahrain-king-to-strengthen-bilateral-ties/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -579,8 +577,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T15:29:40+00:00",
         "link": "https://newsonair.gov.in/mourners-throng-funeral-procession-in-tehran-for-irans-supreme-leader-ayatollah-ali-khamenei/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/iran-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -603,30 +601,8 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T03:59:33+00:00",
         "link": "https://newsonair.gov.in/belgium-and-spain-advance-to-fifa-world-cup-quarter-finals/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpg",
-        "image_credit": "Wikipedia – FIFA World Cup (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "FIFA World Cup: FIFA World Cup, Portugal to take on Spain in Round of 16 match tonight",
-        "summary": "In the FIFA World Cup, Portugal will take on Spain in a round of 16 match at Arlington in US tonight. In another round of 16 match, co-host USA will face Belgium in Seattle tomorrow morning. England, Norway, Morocco and France have already entered the quarter-finals. England stormed into the quarter-finals with a dramatic […]",
-        "article": "In the FIFA World Cup, Portugal will take on Spain in a round of 16 match at Arlington in US tonight. In another round of 16 match, co-host USA will face Belgium in Seattle tomorrow morning. England, Norway, Morocco and France have already entered the quarter-finals. England stormed into the quarter-finals with a dramatic 3-2 victory over co-host Mexico in the round of 16 match this morning. In another round of 16 fixture, Norway defeated Brazil 2-1 to enter the quarter-finals at New York New Jersey Stadium in the US. France booked their place in the quarter-finals with a 1-nil victory over Paraguay in the Round of 16 at Philadelphia yesterday. In the other pre-quarterfinal, Morocco had registered a commanding 3-nil victory over Canada in Houston to book a place in the last eight.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T15:53:05+00:00",
-        "link": "https://newsonair.gov.in/fifa-world-cup-portugal-to-take-on-spain-in-a-round-of-16-match-today/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1280px-Bandera_de_Espa%C3%B1a.svg.png",
-        "image_credit": "Wikipedia – Spain (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Neymar Jr. announces retirement from International Football after defeat to Norway in FIFA World Cup",
-        "summary": "Brazil&#8217;s veteran player Neymar Jr. has announced his retirement from international football after the five-time world champions suffered a stunning 2-1 defeat against Norway in the FIFA World Cup Round of 16 last night. He finished his international career as the all-time leading scorer for Brazil. The 34-year-old forward brought the curtain down on […]",
-        "article": "Brazil&#8217;s veteran player Neymar Jr. has announced his retirement from international football after the five-time world champions suffered a stunning 2-1 defeat against Norway in the FIFA World Cup Round of 16 last night. He finished his international career as the all-time leading scorer for Brazil. The 34-year-old forward brought the curtain down on his international career moments after Brazil&#8217;s hopes of a sixth World Cup title were ended by Erling Haaland&#8217;s late brace, with Neymar scoring a stoppage-time penalty that proved only a consolation. His retirement brings to an end one of the most celebrated international careers in Brazilian football. For Brazil, the defeat marked a seventh consecutive World Cup knockout loss to European opposition and their earliest World Cup exit since 1990, while Neymar&#8217;s emotional farewell closed the chapter on an era that defined Brazilian football for more than a decade. In another match, England stormed into the quarter-finals with a dramatic 3-2 victory over MEXICO in Mexico City. Folarin Balogun is available to play for the United States in their World Cup last-16 tie against Belgium after his one-game ban was suspended by FIFA. The 25-year-old star striker, who is the US&#8217;s top scorer at the tournament with three goals, was shown a straight red card for a foul on Bosnia-Herzegovina defender Tarik Muharemovic as the co-hosts won their last-32 tie 2-0. FIFA said the automatic one-match ban would be suspended for a year. No reasoning behind the move was provided, beyond citing a rule which allows punishments to be suspended.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T05:03:13+00:00",
-        "link": "https://newsonair.gov.in/neymar-jr-announces-retirement-from-international-football-after-defeat-to-norway-in-fifa-world-cup/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpg",
-        "image_credit": "Wikipedia – FIFA World Cup (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/FIFA-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -636,8 +612,19 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T03:26:22+00:00",
         "link": "https://newsonair.gov.in/india-bags-20-medals-at-under-20-asian-wrestling-championships/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/9-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "FIFA World Cup: FIFA World Cup, Portugal to take on Spain in Round of 16 match tonight",
+        "summary": "In the FIFA World Cup, Portugal will take on Spain in a round of 16 match at Arlington in US tonight. In another round of 16 match, co-host USA will face Belgium in Seattle tomorrow morning. England, Norway, Morocco and France have already entered the quarter-finals. England stormed into the quarter-finals with a dramatic […]",
+        "article": "In the FIFA World Cup, Portugal will take on Spain in a round of 16 match at Arlington in US tonight. In another round of 16 match, co-host USA will face Belgium in Seattle tomorrow morning. England, Norway, Morocco and France have already entered the quarter-finals. England stormed into the quarter-finals with a dramatic 3-2 victory over co-host Mexico in the round of 16 match this morning. In another round of 16 fixture, Norway defeated Brazil 2-1 to enter the quarter-finals at New York New Jersey Stadium in the US. France booked their place in the quarter-finals with a 1-nil victory over Paraguay in the Round of 16 at Philadelphia yesterday. In the other pre-quarterfinal, Morocco had registered a commanding 3-nil victory over Canada in Houston to book a place in the last eight.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T15:53:05+00:00",
+        "link": "https://newsonair.gov.in/fifa-world-cup-portugal-to-take-on-spain-in-a-round-of-16-match-today/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpg",
+        "image_credit": "Wikipedia – FIFA World Cup (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -647,8 +634,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T15:50:10+00:00",
         "link": "https://newsonair.gov.in/bcci-announces-indias-mens-squad-for-zimbabwe-tour/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMjWMeOaoAA-6YM.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -658,8 +645,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T15:46:01+00:00",
         "link": "https://newsonair.gov.in/wimbledon-tennis-ninth-seed-flavio-cobolli-enters-mens-singles-quarter-finals/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMjVmtubwAAgq7i.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -669,8 +656,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T13:05:18+00:00",
         "link": "https://newsonair.gov.in/uefa-criticises-fifas-decision-to-suspend-american-striker-folarin-baloguns-world-cup-red-card-ban/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/us-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -680,8 +667,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T07:34:14+00:00",
         "link": "https://newsonair.gov.in/fifa-world-cup-england-storm-into-quarter-finals-with-3-2-victory-over-mexico/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/FIFA-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -691,8 +678,19 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T05:23:29+00:00",
         "link": "https://newsonair.gov.in/wimbledon-novak-djokovic-defeat-roman-safiullin-to-reach-mens-singles-quarter-finals/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMgmpXOasAAc-aQ-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Neymar Jr. announces retirement from International Football after defeat to Norway in FIFA World Cup",
+        "summary": "Brazil&#8217;s veteran player Neymar Jr. has announced his retirement from international football after the five-time world champions suffered a stunning 2-1 defeat against Norway in the FIFA World Cup Round of 16 last night. He finished his international career as the all-time leading scorer for Brazil. The 34-year-old forward brought the curtain down on […]",
+        "article": "Brazil&#8217;s veteran player Neymar Jr. has announced his retirement from international football after the five-time world champions suffered a stunning 2-1 defeat against Norway in the FIFA World Cup Round of 16 last night. He finished his international career as the all-time leading scorer for Brazil. The 34-year-old forward brought the curtain down on his international career moments after Brazil&#8217;s hopes of a sixth World Cup title were ended by Erling Haaland&#8217;s late brace, with Neymar scoring a stoppage-time penalty that proved only a consolation. His retirement brings to an end one of the most celebrated international careers in Brazilian football. For Brazil, the defeat marked a seventh consecutive World Cup knockout loss to European opposition and their earliest World Cup exit since 1990, while Neymar&#8217;s emotional farewell closed the chapter on an era that defined Brazilian football for more than a decade. In another match, England stormed into the quarter-finals with a dramatic 3-2 victory over MEXICO in Mexico City. Folarin Balogun is available to play for the United States in their World Cup last-16 tie against Belgium after his one-game ban was suspended by FIFA. The 25-year-old star striker, who is the US&#8217;s top scorer at the tournament with three goals, was shown a straight red card for a foul on Bosnia-Herzegovina defender Tarik Muharemovic as the co-hosts won their last-32 tie 2-0. FIFA said the automatic one-match ban would be suspended for a year. No reasoning behind the move was provided, beyond citing a rule which allows punishments to be suspended.",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T05:03:13+00:00",
+        "link": "https://newsonair.gov.in/neymar-jr-announces-retirement-from-international-football-after-defeat-to-norway-in-fifa-world-cup/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-7-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -702,45 +700,12 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T01:12:30+00:00",
         "link": "https://newsonair.gov.in/australia-thrash-england-by-7-wickets-to-win-womens-t20-world-cup-title/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-3-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "business": [
-      {
-        "title": "Gold and silver prices stay elevated after weekly gains",
-        "summary": "In the bullion market, Gold and silver prices recorded their first weekly gain since May as softer US job numbers cooled market expectations of a near-term Fed interest rate hike. Meanwhile, lower energy prices and a weaker US Dollar Index provided further support to bullion prices. At the Multi-Commodity Exchange, Gold futures for the […]",
-        "article": "In the bullion market, Gold and silver prices recorded their first weekly gain since May as softer US job numbers cooled market expectations of a near-term Fed interest rate hike. Meanwhile, lower energy prices and a weaker US Dollar Index provided further support to bullion prices. At the Multi-Commodity Exchange, Gold futures for the August contract rose 2.2 per cent during the week to settle at 1,47,378 rupees per 10 grams. Meanwhile, Silver futures for the September contract gained 6.2 per cent to close at 2,37,410 rupees per kilogram. At the Commodity Exchange (COMEX), Gold futures for the August contract added 0.7 per cent during the week to settle at 4,125.7 dollars per troy ounce. Silver futures for the September contract jumped 2.3 per cent over the week to end at 61.06 dollars per troy ounce.",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T10:43:52+00:00",
-        "link": "https://newsonair.gov.in/gold-and-silver-prices-stay-elevated-after-weekly-gains/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/1280px-Gold-crystals.jpg",
-        "image_credit": "Wikipedia – Gold (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Government withdraws emergency curbs on natural gas supplies, following resumption of LNG shipments through Strait of Hormuz",
-        "summary": "The Government has withdrawn the emergency curbs on natural gas supplies after liquefied natural gas (LNG) shipments through the Strait of Hormuz resumed following a ceasefire in the West Asia conflict. In a notification, the Ministry of Petroleum and Natural Gas said the Natural Gas (Supply Regulation) Order, 2026, has been amended, removing key emergency […]",
-        "article": "The Government has withdrawn the emergency curbs on natural gas supplies after liquefied natural gas (LNG) shipments through the Strait of Hormuz resumed following a ceasefire in the West Asia conflict. In a notification, the Ministry of Petroleum and Natural Gas said the Natural Gas (Supply Regulation) Order, 2026, has been amended, removing key emergency provisions that had allowed the government to prioritise the allocation of domestically produced natural gas and imported LNG. The emergency order was issued in March this year under the Essential Commodities Act, after disruptions to LNG shipments through the Strait of Hormuz.",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T08:50:54+00:00",
-        "link": "https://newsonair.gov.in/government-withdraws-emergency-curbs-on-natural-gas-supplies-following-resumption-of-lng-shipments-through-strait-of-hormuz/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ISS-44_Strait_of_Gibraltar.jpg/1280px-ISS-44_Strait_of_Gibraltar.jpg",
-        "image_credit": "Wikipedia – Strait (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Centre orders Meta to remove Child abuse ads from Instagram; Seeks reply in 7 days",
-        "summary": "The Government has issued stern notice to Meta on Child Sexual Exploitative and Abuse Material (CSEAM) in paid ads on the social networking site Instagram. Official Sources said the government has ordered Instagram to disable all ads and content promoting and facilitating access to CSEAM. The Ministry of Electronics and IT has demanded a detailed […]",
-        "article": "The Government has issued stern notice to Meta on Child Sexual Exploitative and Abuse Material (CSEAM) in paid ads on the social networking site Instagram. Official Sources said the government has ordered Instagram to disable all ads and content promoting and facilitating access to CSEAM. The Ministry of Electronics and IT has demanded a detailed explanation from Meta within seven days. The government is reviewing whether the platform has complied with India&#8217;s intermediary safety guidelines. Distribution of pornography and child sexual abuse material is a criminal offence in India under the digital laws. Earlier, the Ministry had taken cognisance of reports that Instagram showcased certain objectionable material that promoted child sexual abuse and issued directions to officials to seek a response from Meta.",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T08:30:24+00:00",
-        "link": "https://newsonair.gov.in/centre-orders-meta-to-remove-child-abuse-ads-from-instagram-seeks-reply-in-7-days/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/International_children_dressed_in_their_native_costumes_participate_in_the_100th_anniversary_of_the_Statue_of_Liberty_-_DPLA_-_4461efafd5c4ba7fde8eedb1f13f439e.jpeg/1280px-thumbnail.jpeg",
-        "image_credit": "Wikipedia – Child (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
       {
         "title": "Asian stock market indices end on mixed note; major indices trade mutedly",
         "summary": "Asian stock market indices ended on a mixed note today. Taiwan&#8217;s Taiex as well as South Korea&#8217;s Kospi declined half a per cent and China&#8217;s Shanghai Composite as well as Japan&#8217;s Nikkei 225 remained largely unchanged with a negative bias. In contrast, Hong Kong’s Hang Seng rose 1.1 per cent and Singapore’s Straits Times […]",
@@ -748,8 +713,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T12:45:59+00:00",
         "link": "https://newsonair.gov.in/asian-stock-market-indices-end-on-mixed-note-major-indices-trade-mutedly/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/asi.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -759,8 +724,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T12:34:33+00:00",
         "link": "https://newsonair.gov.in/sensex-climbs-521-points-nifty-crosses-24400/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/sen.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -770,8 +735,8 @@ window.VM_NEWS = {
         "date": "2026-07-05",
         "pubDate": "2026-07-05T11:33:43+00:00",
         "link": "https://newsonair.gov.in/fpis-remain-net-buyers-of-indian-equities-worth-rs-708-cr/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/05/FPI-jjjrrr.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -781,8 +746,8 @@ window.VM_NEWS = {
         "date": "2026-07-05",
         "pubDate": "2026-07-05T11:02:30+00:00",
         "link": "https://newsonair.gov.in/domestic-markets-to-take-cues-from-1st-qrt-of-current-fiscal-in-coming-week/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HUMM.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -792,19 +757,41 @@ window.VM_NEWS = {
         "date": "2026-07-05",
         "pubDate": "2026-07-05T10:51:18+00:00",
         "link": "https://newsonair.gov.in/opec-decides-to-increase-oil-production-to-stabilise-market/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "India to chair 9th Session of Intergovernmental Group of Experts on Consumer Protection Law and Policy in Geneva, Switzerland",
-        "summary": "India will chair the Ninth Session of the Intergovernmental Group of Experts on Consumer Protection Law and Policy in Geneva, Switzerland. The session is being organised by the United Nations Trade and Development between 6th July to 8th July. The Ministry of Consumer Affairs, Food and Public Distribution said that the session will bring together […]",
-        "article": "India will chair the Ninth Session of the Intergovernmental Group of Experts on Consumer Protection Law and Policy in Geneva, Switzerland. The session is being organised by the United Nations Trade and Development between 6th July to 8th July. The Ministry of Consumer Affairs, Food and Public Distribution said that the session will bring together Member States, international organisations, consumer protection authorities, academia and other stakeholders to deliberate on emerging issues in consumer protection law and policy. The Intergovernmental Group of Experts is the principal intergovernmental platform for cooperation and dialogue on consumer protection law and policy. Secretary, Department of Consumer Affairs, Nidhi Khare, will chair the Session. The Secretary will preside over the three-day deliberations and guide discussions among Member States on key global consumer protection priorities. It will deliberate on consumer information and education, sustainable consumption, enforcement of consumer protection law in global markets, and cross-border consumer protection.",
+        "title": "Gold and silver prices stay elevated after weekly gains",
+        "summary": "In the bullion market, Gold and silver prices recorded their first weekly gain since May as softer US job numbers cooled market expectations of a near-term Fed interest rate hike. Meanwhile, lower energy prices and a weaker US Dollar Index provided further support to bullion prices. At the Multi-Commodity Exchange, Gold futures for the […]",
+        "article": "In the bullion market, Gold and silver prices recorded their first weekly gain since May as softer US job numbers cooled market expectations of a near-term Fed interest rate hike. Meanwhile, lower energy prices and a weaker US Dollar Index provided further support to bullion prices. At the Multi-Commodity Exchange, Gold futures for the August contract rose 2.2 per cent during the week to settle at 1,47,378 rupees per 10 grams. Meanwhile, Silver futures for the September contract gained 6.2 per cent to close at 2,37,410 rupees per kilogram. At the Commodity Exchange (COMEX), Gold futures for the August contract added 0.7 per cent during the week to settle at 4,125.7 dollars per troy ounce. Silver futures for the September contract jumped 2.3 per cent over the week to end at 61.06 dollars per troy ounce.",
         "date": "2026-07-05",
-        "pubDate": "2026-07-05T08:49:40+00:00",
-        "link": "https://newsonair.gov.in/india-to-chair-9th-session-of-intergovernmental-group-of-experts-on-consumer-protection-law-and-policy-in-geneva-switzerland/",
-        "image_url": "",
-        "image_credit": "",
+        "pubDate": "2026-07-05T10:43:52+00:00",
+        "link": "https://newsonair.gov.in/gold-and-silver-prices-stay-elevated-after-weekly-gains/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/gold-silver.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government withdraws emergency curbs on natural gas supplies, following resumption of LNG shipments through Strait of Hormuz",
+        "summary": "The Government has withdrawn the emergency curbs on natural gas supplies after liquefied natural gas (LNG) shipments through the Strait of Hormuz resumed following a ceasefire in the West Asia conflict. In a notification, the Ministry of Petroleum and Natural Gas said the Natural Gas (Supply Regulation) Order, 2026, has been amended, removing key emergency […]",
+        "article": "The Government has withdrawn the emergency curbs on natural gas supplies after liquefied natural gas (LNG) shipments through the Strait of Hormuz resumed following a ceasefire in the West Asia conflict. In a notification, the Ministry of Petroleum and Natural Gas said the Natural Gas (Supply Regulation) Order, 2026, has been amended, removing key emergency provisions that had allowed the government to prioritise the allocation of domestically produced natural gas and imported LNG. The emergency order was issued in March this year under the Essential Commodities Act, after disruptions to LNG shipments through the Strait of Hormuz.",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T08:50:54+00:00",
+        "link": "https://newsonair.gov.in/government-withdraws-emergency-curbs-on-natural-gas-supplies-following-resumption-of-lng-shipments-through-strait-of-hormuz/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/LNG.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Centre orders Meta to remove Child abuse ads from Instagram; Seeks reply in 7 days",
+        "summary": "The Government has issued stern notice to Meta on Child Sexual Exploitative and Abuse Material (CSEAM) in paid ads on the social networking site Instagram. Official Sources said the government has ordered Instagram to disable all ads and content promoting and facilitating access to CSEAM. The Ministry of Electronics and IT has demanded a detailed […]",
+        "article": "The Government has issued stern notice to Meta on Child Sexual Exploitative and Abuse Material (CSEAM) in paid ads on the social networking site Instagram. Official Sources said the government has ordered Instagram to disable all ads and content promoting and facilitating access to CSEAM. The Ministry of Electronics and IT has demanded a detailed explanation from Meta within seven days. The government is reviewing whether the platform has complied with India&#8217;s intermediary safety guidelines. Distribution of pornography and child sexual abuse material is a criminal offence in India under the digital laws. Earlier, the Ministry had taken cognisance of reports that Instagram showcased certain objectionable material that promoted child sexual abuse and issued directions to officials to seek a response from Meta.",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T08:30:24+00:00",
+        "link": "https://newsonair.gov.in/centre-orders-meta-to-remove-child-abuse-ads-from-instagram-seeks-reply-in-7-days/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/09/meta.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -814,6 +801,17 @@ window.VM_NEWS = {
         "date": "2026-07-03",
         "pubDate": "2026-07-03T15:03:49+00:00",
         "link": "https://newsonair.gov.in/major-asian-markets-close-higher-european-indices-trade-mixed/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/stocks-scaled.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India to chair 9th Session of Intergovernmental Group of Experts on Consumer Protection Law and Policy in Geneva, Switzerland",
+        "summary": "India will chair the Ninth Session of the Intergovernmental Group of Experts on Consumer Protection Law and Policy in Geneva, Switzerland. The session is being organised by the United Nations Trade and Development between 6th July to 8th July. The Ministry of Consumer Affairs, Food and Public Distribution said that the session will bring together […]",
+        "article": "India will chair the Ninth Session of the Intergovernmental Group of Experts on Consumer Protection Law and Policy in Geneva, Switzerland. The session is being organised by the United Nations Trade and Development between 6th July to 8th July. The Ministry of Consumer Affairs, Food and Public Distribution said that the session will bring together Member States, international organisations, consumer protection authorities, academia and other stakeholders to deliberate on emerging issues in consumer protection law and policy. The Intergovernmental Group of Experts is the principal intergovernmental platform for cooperation and dialogue on consumer protection law and policy. Secretary, Department of Consumer Affairs, Nidhi Khare, will chair the Session. The Secretary will preside over the three-day deliberations and guide discussions among Member States on key global consumer protection priorities. It will deliberate on consumer information and education, sustainable consumption, enforcement of consumer protection law in global markets, and cross-border consumer protection.",
+        "date": "2026-07-05",
+        "pubDate": "2026-07-05T08:49:40+00:00",
+        "link": "https://newsonair.gov.in/india-to-chair-9th-session-of-intergovernmental-group-of-experts-on-consumer-protection-law-and-policy-in-geneva-switzerland/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -827,19 +825,8 @@ window.VM_NEWS = {
         "date": "2026-06-04",
         "pubDate": "2026-06-04T08:26:03+00:00",
         "link": "https://newsonair.gov.in/veteran-producer-and-former-cbfc-chairperson-pahlaj-nihalani-passes-away/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sydney_2015_Anzac_Day_march_%2817119683648%29.jpg/1280px-Sydney_2015_Anzac_Day_march_%2817119683648%29.jpg",
-        "image_credit": "Wikipedia – Veteran (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "BIFF 2025: Shape of Momo to Premiere in Vision Section of Asia’s Biggest Film Festival",
-        "summary": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &#160; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its […]",
-        "article": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &nbsp; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its Vision Section highlights promising works from independent Asian cinema, showcasing daring and original stories from both emerging and mid-career directors. &nbsp; The selection places Shape of Momo alongside some of the most exciting contemporary films from across Asia. The film will also be screened at the San Sebastián International Film Festival in September, marking a significant step in its international journey.",
-        "date": "2025-08-21",
-        "pubDate": "2025-08-21T05:59:25+00:00",
-        "link": "https://newsonair.gov.in/biff-2025-shape-of-momo-to-premiere-in-vision-section-of-asias-biggest-film-festival/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Premiere_at_Chinese_Theater_%283555047236%29.jpg/1280px-Premiere_at_Chinese_Theater_%283555047236%29.jpg",
-        "image_credit": "Wikipedia – Premiere (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/pahln.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -849,8 +836,8 @@ window.VM_NEWS = {
         "date": "2025-12-25",
         "pubDate": "2025-12-25T06:41:17+00:00",
         "link": "https://newsonair.gov.in/150th-shree-baba-harivallabh-sangeet-sammelan-begins-in-jalandhar-tomorrow/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/hargobind.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -860,8 +847,8 @@ window.VM_NEWS = {
         "date": "2025-11-27",
         "pubDate": "2025-11-27T07:31:40+00:00",
         "link": "https://newsonair.gov.in/goa-cm-releases-commemorative-stamp-honouring-filmmaker-k-vaikunth-at-iffi-56/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/pramod.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -871,8 +858,8 @@ window.VM_NEWS = {
         "date": "2025-11-18",
         "pubDate": "2025-11-18T08:00:22+00:00",
         "link": "https://newsonair.gov.in/media-and-entertainment-sector-among-indias-fastest-growing-industries/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/media.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -882,8 +869,8 @@ window.VM_NEWS = {
         "date": "2025-11-18",
         "pubDate": "2025-11-18T06:24:16+00:00",
         "link": "https://newsonair.gov.in/uk-named-country-partner-for-hornbill-festival-2025-in-nagaland/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/hornbill.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -893,8 +880,8 @@ window.VM_NEWS = {
         "date": "2025-11-17",
         "pubDate": "2025-11-17T04:43:41+00:00",
         "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-urges-media-to-be-partners-in-nation-building-at-ramoji-excellence-awards-2025/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/CP-radha.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -904,8 +891,8 @@ window.VM_NEWS = {
         "date": "2025-11-02",
         "pubDate": "2025-11-02T16:25:04+00:00",
         "link": "https://newsonair.gov.in/prasar-bharati-and-culture-ministry-launch-month-long-akashvani-sangeet-sammelan-nationwide/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/akashvani.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -915,8 +902,19 @@ window.VM_NEWS = {
         "date": "2025-08-22",
         "pubDate": "2025-08-22T06:34:48+00:00",
         "link": "https://newsonair.gov.in/comedian-and-veteran-punjabi-actor-jaswinder-bhalla-passes-away/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/bhalla.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "BIFF 2025: Shape of Momo to Premiere in Vision Section of Asia’s Biggest Film Festival",
+        "summary": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &#160; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its […]",
+        "article": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &nbsp; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its Vision Section highlights promising works from independent Asian cinema, showcasing daring and original stories from both emerging and mid-career directors. &nbsp; The selection places Shape of Momo alongside some of the most exciting contemporary films from across Asia. The film will also be screened at the San Sebastián International Film Festival in September, marking a significant step in its international journey.",
+        "date": "2025-08-21",
+        "pubDate": "2025-08-21T05:59:25+00:00",
+        "link": "https://newsonair.gov.in/biff-2025-shape-of-momo-to-premiere-in-vision-section-of-asias-biggest-film-festival/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/bfii.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -926,8 +924,8 @@ window.VM_NEWS = {
         "date": "2025-02-17",
         "pubDate": "2025-02-17T02:02:43+00:00",
         "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-strengthens-ties-with-indian-ocean-nations-at-muscat-conference/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/02/cats-476.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
@@ -939,30 +937,8 @@ window.VM_NEWS = {
         "date": "2026-03-24",
         "pubDate": "2026-03-24T07:13:43+00:00",
         "link": "https://newsonair.gov.in/health-minister-jp-nadda-urges-citizens-to-eliminate-tb-on-world-tuberculosis-day/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/World_Tuberculosis_Day_%287020132217%29.jpg/1280px-World_Tuberculosis_Day_%287020132217%29.jpg",
-        "image_credit": "Wikipedia – World Tuberculosis Day (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "West Bengal reports two suspected Nipah cases; centre sends response team",
-        "summary": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry […]",
-        "article": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry of Health and Family Welfare has shared a video in which Union Health Minister Jagat Prakash Nadda said the Central government firmly stands with the State government, and it is providing comprehensive technical, logistical and operational support to the State Government for the effective management and prevention of the outbreak. He added that upon receipt of information, the Secretary, Health and Family Welfare, immediately held discussions with the Chief Secretary and Principal Secretary, Health of West Bengal, to review the situation. Mr Nadda said he had also spoken to the West Bengal Chief Minister, Mamata Banerjee and emphasised for Centre- State co-ordination in this direction. Meanwhile, our Kolkata Correspondent reports the West Bengal government has implemented comprehensive precautionary measures to contain the spread of the virus, including two healthcare workers at a private hospital in Barasat, North 24 Parganas. State&#8217;s Chief Secretary, Nandini Chakraborty, convened an emergency meeting at Nabanna with the state&#8217;s Health Secretary and other senior officials to review the situation. Briefing the press, she confirmed that both patients are currently undergoing treatment, with a specialized medical team monitoring their condition. Preliminary investigations suggest the individuals contracted the virus during a work-related visit to Purba Bardhaman. Consequently, surveillance has been intensified across Purba Bardhaman, North 24 Parganas, and Nadia districts, while authorities are actively tracing high-risk contacts. To assist citizens, the State government has launched two helpline numbers: 033 2333-0180 and 9874708858. &nbsp;",
-        "date": "2026-01-13",
-        "pubDate": "2026-01-13T03:53:37+00:00",
-        "link": "https://newsonair.gov.in/west-bengal-reports-two-suspected-nipah-cases-centre-sends-response-team/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Howrah_bridge_betwixt_Lights.jpg/1280px-Howrah_bridge_betwixt_Lights.jpg",
-        "image_credit": "Wikipedia – West Bengal (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Chikungunya Outbreak in China: Over 7,000 Cases Emerge in Guangdong",
-        "summary": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. […]",
-        "article": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. Apart from Foshan, at least 12 other cities in China&#8217;s southern Guangdong province have reported infections from this a mosquito-borne virus, with nearly 3,000 cases got reported last week. Although rare in China, chikungunya outbreaks are common in South and South East Asia and parts of Africa. On Monday, Hong Kong reported its first case of the viral disease after a 12-year-old boy who developed fever, rash and joint pain after traveling to Foshan in July. An official said, all the reported cases have been mild so far, with 95 per cent of the patients discharged within seven days, Still, the cases have led to some panic, given the virus is not widely known in the country. Meanwhile, the US has urged travellers to China to exercise &#8220;increased caution&#8221; following the outbreak.",
-        "date": "2025-08-05",
-        "pubDate": "2025-08-05T12:03:13+00:00",
-        "link": "https://newsonair.gov.in/chikungunya-outbreak-in-china-over-7000-cases-emerge-in-guangdong/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg/1280px-China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg",
-        "image_credit": "Wikipedia – Guangdong (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/TB-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -972,8 +948,8 @@ window.VM_NEWS = {
         "date": "2026-03-24",
         "pubDate": "2026-03-24T06:13:25+00:00",
         "link": "https://newsonair.gov.in/india-tightens-surveillance-on-glp-1-weight-loss-drug-sales/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/wei.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -983,8 +959,19 @@ window.VM_NEWS = {
         "date": "2026-01-13",
         "pubDate": "2026-01-13T11:18:49+00:00",
         "link": "https://newsonair.gov.in/vp-radhakrishnan-urges-youth-to-be-drug-free-for-a-viksit-bharat/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/vp-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "West Bengal reports two suspected Nipah cases; centre sends response team",
+        "summary": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry […]",
+        "article": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry of Health and Family Welfare has shared a video in which Union Health Minister Jagat Prakash Nadda said the Central government firmly stands with the State government, and it is providing comprehensive technical, logistical and operational support to the State Government for the effective management and prevention of the outbreak. He added that upon receipt of information, the Secretary, Health and Family Welfare, immediately held discussions with the Chief Secretary and Principal Secretary, Health of West Bengal, to review the situation. Mr Nadda said he had also spoken to the West Bengal Chief Minister, Mamata Banerjee and emphasised for Centre- State co-ordination in this direction. Meanwhile, our Kolkata Correspondent reports the West Bengal government has implemented comprehensive precautionary measures to contain the spread of the virus, including two healthcare workers at a private hospital in Barasat, North 24 Parganas. State&#8217;s Chief Secretary, Nandini Chakraborty, convened an emergency meeting at Nabanna with the state&#8217;s Health Secretary and other senior officials to review the situation. Briefing the press, she confirmed that both patients are currently undergoing treatment, with a specialized medical team monitoring their condition. Preliminary investigations suggest the individuals contracted the virus during a work-related visit to Purba Bardhaman. Consequently, surveillance has been intensified across Purba Bardhaman, North 24 Parganas, and Nadia districts, while authorities are actively tracing high-risk contacts. To assist citizens, the State government has launched two helpline numbers: 033 2333-0180 and 9874708858. &nbsp;",
+        "date": "2026-01-13",
+        "pubDate": "2026-01-13T03:53:37+00:00",
+        "link": "https://newsonair.gov.in/west-bengal-reports-two-suspected-nipah-cases-centre-sends-response-team/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/09/nipha.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -994,8 +981,19 @@ window.VM_NEWS = {
         "date": "2025-08-13",
         "pubDate": "2025-08-13T11:11:04+00:00",
         "link": "https://newsonair.gov.in/wild-poliovirus-detected-in-sewage-samples-across-42-sites-in-pakistan/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/PPPPP.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Chikungunya Outbreak in China: Over 7,000 Cases Emerge in Guangdong",
+        "summary": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. […]",
+        "article": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. Apart from Foshan, at least 12 other cities in China&#8217;s southern Guangdong province have reported infections from this a mosquito-borne virus, with nearly 3,000 cases got reported last week. Although rare in China, chikungunya outbreaks are common in South and South East Asia and parts of Africa. On Monday, Hong Kong reported its first case of the viral disease after a 12-year-old boy who developed fever, rash and joint pain after traveling to Foshan in July. An official said, all the reported cases have been mild so far, with 95 per cent of the patients discharged within seven days, Still, the cases have led to some panic, given the virus is not widely known in the country. Meanwhile, the US has urged travellers to China to exercise &#8220;increased caution&#8221; following the outbreak.",
+        "date": "2025-08-05",
+        "pubDate": "2025-08-05T12:03:13+00:00",
+        "link": "https://newsonair.gov.in/chikungunya-outbreak-in-china-over-7000-cases-emerge-in-guangdong/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/chikungunya.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1005,8 +1003,8 @@ window.VM_NEWS = {
         "date": "2025-08-05",
         "pubDate": "2025-08-05T02:16:32+00:00",
         "link": "https://newsonair.gov.in/pm-matru-vandana-yojana-registration-drive-extended-till-august-15/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/pradhanmantri-matri-vandana-yojana-pmmvy.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1016,8 +1014,8 @@ window.VM_NEWS = {
         "date": "2025-07-28",
         "pubDate": "2025-07-28T03:24:29+00:00",
         "link": "https://newsonair.gov.in/vaccines-prevented-over-2-5-million-covid-deaths-worldwide-study/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/07/ffd.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1027,8 +1025,8 @@ window.VM_NEWS = {
         "date": "2025-07-14",
         "pubDate": "2025-07-14T11:41:18+00:00",
         "link": "https://newsonair.gov.in/world-embracing-ayurvedas-science-and-potential-ayush-minister/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/Pratap-Rao-Jadhav-1-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ]
@@ -1036,25 +1034,14 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
-        "title": "प्रधानमंत्री नरेंद्र मोदी ने इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। वार्ता के दौरान द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। वार्ता के दौरान द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के उद्देश्य से समझौता ज्ञापनों का आदान-प्रदान भी किया।",
+        "title": "वेनेजुएला में आए दो विनाशकारी भूकंपों से प्रत्यक्ष भौतिक क्षति 37 अरब अमेरिकी डॉलर: संयुक्त राष्ट्र",
+        "summary": "संयुक्त राष्ट्र के एक नए अनुमान के अनुसार, वेनेजुएला में आए दो विनाशकारी भूकंपों से प्रत्यक्ष भौतिक क्षति 37 अरब अमेरिकी डॉलर है। इस आंकड़े में घरों, व्यवसायों, स्कूलों, अस्पतालों और सार्वजनिक सुविधाओं सहित इमारतों को हुए नुकसान का लगभग 24 अरब अमेरिकी डॉलर और बुनियादी ढांचे को हुए नुकसान का 13 अरब अमेरिकी डॉलर […]",
+        "article": "संयुक्त राष्ट्र के एक नए अनुमान के अनुसार, वेनेजुएला में आए दो विनाशकारी भूकंपों से प्रत्यक्ष भौतिक क्षति 37 अरब अमेरिकी डॉलर है। इस आंकड़े में घरों, व्यवसायों, स्कूलों, अस्पतालों और सार्वजनिक सुविधाओं सहित इमारतों को हुए नुकसान का लगभग 24 अरब अमेरिकी डॉलर और बुनियादी ढांचे को हुए नुकसान का 13 अरब अमेरिकी डॉलर शामिल है। संयुक्त राष्ट्र के प्रवक्ता स्टीफन डुजारिक ने कहा कि संयुक्त राष्ट्र और उसके सहयोगी वेनेजुएला सरकार के समन्वय से भूकंप से प्रभावित लोगों को सहायता पहुंचाने के लिए निरंतर प्रयास कर रहे हैं। इसके अलावा, संयुक्त राष्ट्र बाल कोष -यूनिसेफ ने बताया किइस आपदा में सबसे अधिक प्रभावित बच्चे हुए हैं। यूनिसेफ ने आपातकालीन टीमें तैनात की हैं और चिकित्सा सामग्री, पानी और स्वच्छता उपकरण, और आवश्यक घरेलू सामान सहित 68 टन आपूर्ति भेजी है। संयुक्त राष्ट्र एजेंसियां ​​पहले से ही तीन शिविरों में सेवाएं प्रदान कर रही हैं और सहायता के लिए अतिरिक्त स्थलों का आकलन कर रही हैं। वेनेजुएला के लिए मानवीय सहायता योजना को अब तक 274 मिलियन अमेरिकी डॉलर प्राप्त हुए हैं।",
         "date": "2026-07-07",
-        "pubDate": "2026-07-07T05:55:56+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-held-delegation-level-talks-with-indonesian-president-prabowo-subianto-in-jakarta/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "मंगोलिया के पूर्व राष्ट्रपति ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना की प्रगति की सराहना",
-        "summary": "मंगोलिया के पूर्व राष्ट्रपति और सत्तारूढ़ मंगोलियाई पीपुल्स पार्टी (एमपीपी) के नेता नंबरिन एनखबयार ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना के निर्माण में हुई प्रगति की सराहना की। भारत सरकार द्वारा प्रदत्त एक अरब 70 करोड़ डॉलर की ऋण सीमा के समर्थन से कार्यान्वित की जा रही मंगोल तेल रिफाइनरी परियोजना, मंगोलिया की सतत […]",
-        "article": "मंगोलिया के पूर्व राष्ट्रपति और सत्तारूढ़ मंगोलियाई पीपुल्स पार्टी (एमपीपी) के नेता नंबरिन एनखबयार ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना के निर्माण में हुई प्रगति की सराहना की। भारत सरकार द्वारा प्रदत्त एक अरब 70 करोड़ डॉलर की ऋण सीमा के समर्थन से कार्यान्वित की जा रही मंगोल तेल रिफाइनरी परियोजना, मंगोलिया की सतत ऊर्जा रणनीति का महत्वपूर्ण घटक और प्रमुख पहल है। मंगोलिया स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि भारतीय राजदूत अतुल मलहारी गोत्सुर्वे ने मंगोलिया के पूर्व राष्ट्रपति के साथ दोर्नोगोवी स्थित तेल रिफाइनरी परियोजना के निर्माण स्थल का दौरा किया और &#8216;इंजीनियर्स इंडिया&#8217;, &#8216;मेघा इंजीनियरिंग एंड इंफ्रास्ट्रक्चर्स लिमिटेड&#8217; और मंगोल रिफाइनरी के इंजीनियरों और कर्मचारियों से बातचीत की। दूतावास ने बताया कि मंगोलिया के पूर्व राष्ट्रपति ने इस विशाल परियोजना के निर्माण में हुई प्रगति की सराहना की। दूतावास ने कहा कि यह परियोजना भारत-मंगोलिया द्विपक्षीय संबंधों को और मजबूत करेगी तथा मंगोलिया को सतत ऊर्जा आपूर्ति सुनिश्चित करेगी।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T05:52:53+00:00",
-        "link": "https://newsonair.gov.in/hi/former-president-of-mongolia-lauds-progress-of-india-backed-dornogovi-oil-refinery-project/",
-        "image_url": "",
-        "image_credit": "",
+        "pubDate": "2026-07-07T05:38:44+00:00",
+        "link": "https://newsonair.gov.in/hi/direct-physical-damage-from-two-devastating-earthquakes-in-venezuela-37-billion-un/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1064,131 +1051,19 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T05:35:53+00:00",
         "link": "https://newsonair.gov.in/hi/heavy-rain-forecast-for-coastal-karnataka-gujarat-konkan-goa-and-parts-of-madhya-maharashtra/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/imd-5-1-13.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "पाकिस्तान के अवैध कब्जे वाले कश्मीर में प्रदर्शनकारियों का पाकिस्‍तान को 48 घंटे का अल्‍टीमेटम",
-        "summary": "पाकिस्तान के अवैध कब्‍जे वाला कश्मीर में बढ़ती राजनीतिक उथल-पुथल के बीच, जम्मू-कश्मीर संयुक्त अवामी एक्शन कमेटी ने इस्लामाबाद सरकार को 48 घंटे की समय सीमा दी है और धमकी दी है कि अगर उनकी मांगें पूरी नहीं हुईं तो 9 जुलाई को वे कड़ा और निर्णायक जवाब देंगे। कमेटी ने एक औपचारिक घोषणा में […]",
-        "article": "पाकिस्तान के अवैध कब्&#x200d;जे वाला कश्मीर में बढ़ती राजनीतिक उथल-पुथल के बीच, जम्मू-कश्मीर संयुक्त अवामी एक्शन कमेटी ने इस्लामाबाद सरकार को 48 घंटे की समय सीमा दी है और धमकी दी है कि अगर उनकी मांगें पूरी नहीं हुईं तो 9 जुलाई को वे कड़ा और निर्णायक जवाब देंगे। कमेटी ने एक औपचारिक घोषणा में कहा कि उनका मौजूदा धरना प्रदर्शन तब तक अनिश्चित काल तक जारी रहेगा जब तक उनकी सभी मांगें पूरी नहीं हो जातीं। कमेटी ने पीओके के निवासियों और कश्मीरी प्रवासी समुदाय के सदस्यों से 9 जुलाई को होने वाले विरोध प्रदर्शन में भाग लेने का आह्वान किया है। इस्लामाबाद द्वारा की जा रही कड़ी कार्रवाई और पाकिस्तान अधिकृत जम्मू-कश्मीर में 600 से अधिक नागरिक अधिकार कार्यकर्ताओं की व्यापक गिरफ्तारी के विरोध में प्रदर्शन कर रहे लोगों पर पाकिस्तानी बलों की बर्बरता रविवार को तेज हो गई। मुजफ्फराबाद के कई हिस्सों से गोलाबारी और झड़पों की खबरें आ रही हैं। हजारों लोग कथित नाकाबंदी को समाप्त करने, संचार सेवाओं की बहाली, भोजन और दवाओं की निर्बाध आपूर्ति, गिरफ्तार नेताओं की रिहाई और 38 सूत्री लिखित समझौते के कार्यान्वयन की मांग को लेकर सड़कों पर उतर आए। पाकिस्तान द्वारा आतंकवाद विरोधी अधिनियम के तहत जॉइंट अवामी एक्शन कमेटी- जेएएसी पर प्रतिबंध लगाने के बाद से प्रदर्शन और तेज हो गए हैं। प्रदर्शन आयोजकों का आरोप है कि छह सौ से अधिक कार्यकर्ताओं और राजनीतिक नेताओं को गिरफ्तार किया गया है। वहीं अधिकारियों ने भोजन, आटा और आवश्यक दवाओं की आपूर्ति को प्रतिबंधित करके आर्थिक नाकाबंदी लागू कर दी है।",
+        "title": "वेनेजुएला: दोहरे भूकंप में मरने वालों की संख्या बढ़कर तीन हजार 535 हुई",
+        "summary": "वेनेजुएला की नेशनल असेंबली के अध्यक्ष जॉर्ज रोड्रिगेज ने बताया है कि दोहरे भूकंप में मरने वालों की संख्या बढ़कर तीन हजार 535 हो गई है, जबकि 16 हजार 740 लोग घायल हुए हैं। इसके अलावा 17 हजार 854 लोग बेघर हो गए हैं। बचाए गए लोगों की संख्या छह हजार 462 पर स्थिर है, […]",
+        "article": "वेनेजुएला की नेशनल असेंबली के अध्यक्ष जॉर्ज रोड्रिगेज ने बताया है कि दोहरे भूकंप में मरने वालों की संख्या बढ़कर तीन हजार 535 हो गई है, जबकि 16 हजार 740 लोग घायल हुए हैं। इसके अलावा 17 हजार 854 लोग बेघर हो गए हैं। बचाए गए लोगों की संख्या छह हजार 462 पर स्थिर है, जबकि 86 हजार 794 परिवारों को सहायता प्रदान की गई है। इससे पहले, 24 जून को दक्षिण अमरीकी देश वेनेजुएला में 7.2 और 7.5 तीव्रता के लगातार दो शक्तिशाली भूकंप आए थे। इन भूकंपों के जोरदार झटकों के बाद कराकस में कई इमारतें ढह गईं, जिनका असर वेनेजुएला के बड़े हिस्से में महसूस किया गया।",
         "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:54:22+00:00",
-        "link": "https://newsonair.gov.in/hi/protesters-in-pakistan-occupied-kashmir-give-pakistan-a-48-hour-ultimatum/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "केंद्रीय मंत्री नितिन गडकरी ने राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की",
-        "summary": "सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की। बैठक में देशभर में बनाए जा रहे बहु-माध्यम माल परिवहन पार्क, रोपवे और राजमार्गों के किनारे यात्रियों के लिए विकसित की जा रही सुविधाओं की प्रगति की समीक्षा की गई। श्री गडकरी ने कहा कि ये योजनाएं […]",
-        "article": "सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की। बैठक में देशभर में बनाए जा रहे बहु-माध्यम माल परिवहन पार्क, रोपवे और राजमार्गों के किनारे यात्रियों के लिए विकसित की जा रही सुविधाओं की प्रगति की समीक्षा की गई। श्री गडकरी ने कहा कि ये योजनाएं देश में आधुनिक और बेहतर परिवहन व्यवस्था बनाने में महत्वपूर्ण भूमिका निभाएंगी। उन्होंने कहा कि इससे सड़क, रेल और अन्य परिवहन साधनों के बीच बेहतर संपर्क स्थापित होगा। श्री गडकरी ने कहा कि इनसे नए रोजगार और व्यापार के अवसर बढ़ेंगे, सभी क्षेत्रों का संतुलित विकास होगा और देश की माल परिवहन व्यवस्था अधिक मजबूत बनेगी। बैठक में श्री गडकरी ने योजनाओं के कार्य में आ रही चुनौतियों की भी समीक्षा की। उन्होंने संबंधित अधिकारियों और सभी पक्षों को निर्देश दिए कि सभी बाधाओं को शीघ्र दूर किया जाए और योजनाओं का कार्य तेज़ी से पूरा किया जाए। श्री गडकरी ने कहा कि इन योजनाओं के समय पर पूरा होने से माल परिवहन अधिक आसान और कम खर्चीला होगा। उन्&#x200d;होंने कहा कि इससे यात्रियों को बेहतर सुविधाएं मिलेंगी और देश में विश्वस्तरीय परिवहन ढांचा तैयार होगा।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:46:00+00:00",
-        "link": "https://newsonair.gov.in/hi/union-minister-nitin-gadkari-held-a-review-meeting-of-the-national-highways-logistics-management-limited-2/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सहकारिता मंत्रालय ने 30 करोड़ लोगों के जीवन में नई ऊर्जा का संचार किया : केंद्रीय मंत्री अमित शाह",
-        "summary": "केंद्रीय सहकारिता मंत्री अमित शाह ने कहा है कि सहकारिता मंत्रालय ने पिछले पांच वर्षों में सहकारिता क्षेत्र से जुड़े लगभग तीस करोड़ लोगों के जीवन में नई ऊर्जा का संचार किया है। नई दिल्ली में सहकारिता मंत्रालय के पांचवें स्थापना दिवस समारोह को संबोधित करते हुए श्री शाह ने कहा कि प्रधानमंत्री नरेंद्र मोदी […]",
-        "article": "केंद्रीय सहकारिता मंत्री अमित शाह ने कहा है कि सहकारिता मंत्रालय ने पिछले पांच वर्षों में सहकारिता क्षेत्र से जुड़े लगभग तीस करोड़ लोगों के जीवन में नई ऊर्जा का संचार किया है। नई दिल्ली में सहकारिता मंत्रालय के पांचवें स्थापना दिवस समारोह को संबोधित करते हुए श्री शाह ने कहा कि प्रधानमंत्री नरेंद्र मोदी द्वारा 2021 में स्थापित इस मंत्रालय ने सहकारिता तंत्र को आधुनिक, पारदर्शी, प्रौद्योगिकी-आधारित और प्रतिस्पर्धी बना दिया है। उन्होंने कहा कि मंत्रालय ने सहकारिता क्षेत्र के सामने मौजूद प्रमुख चुनौतियों की पहचान की है। इस क्षेत्र के विकास और समाधान के लिए एक व्यापक रूपरेखा तैयार की है और ऐसे सुधार लागू किए हैं जिनसे संपूर्ण तंत्र का आधुनिकीकरण हुआ है। श्री शाह ने कहा कि जब देश 2047 में अपनी स्वतंत्रता की शताब्दी मनाएगा, तब सहकारिता आंदोलन एक समृद्ध भारत की मजबूत नींव बनेगा। 6 जुलाई, 2021 को मंत्रालय की स्थापना को याद करते हुए अमित शाह ने कहा कि इस निर्णय ने सहकारिता क्षेत्र से जुड़े लाखों लोगों के 75 वर्षों के इंतजार को समाप्त कर दिया। श्री शाह ने कहा कि मंत्रालय ने सहकारी क्षेत्र की दशकों पुरानी उपेक्षा को समाप्त करते हुए उसमें नई जान फूंकी है। उन्होंने इस आलोचना को भी खारिज कर दिया कि मंत्रालय राज्यों की शक्तियों में हस्तक्षेप करेगा। मंत्रालय की उपलब्धियों का उल्&#x200d;लेख करते हुए श्री शाह ने कहा कि 30 क्षेत्रों में फैली 85 लाख से अधिक सहकारी समितियों और 32 करोड़ सदस्यों को सम्&#x200d;म&#x200d;िलित करने वाला एक एकीकृत डिजिटल डेटाबेस बनाया गया है। इस डेटाबेस में लेखापरीक्षा स्थिति, कारोबार, ग्रेडिंग और गांवों में सहकारी संस्थानों की उपस्थिति की जानकारी शामिल है। इससे राज्यों को कमियों की पहचान करने और सहकारी नेटवर्क को मजबूत करने में मदद मिलेगी। श्री शाह ने एक राष्ट्रीय रैंकिंग ढांचा शुरू करने की भी घोषणा की। इसके अंतर्गत प्रत्येक क्षेत्र में सर्वश्रेष्ठ प्रदर्शन करने वाली सहकारी समितियों को मान्यता दी जाएगी और उन्हें प्रोत्साहित किया जाएगा। सहकारिता मंत्री ने कहा कि सरकार ने प्राथमिक कृषि ऋण समितियों- पैक्&#x200d;स की भूमिका का विस्तार किया है। इससे वे साझा सेवा केंद्रों के माध्यम से तीन सौ से अधिक सेवाएं प्रदान कर सकेंगी। उन्होंने कहा कि 55 हजार पैक्&#x200d;स अब रेलवे टिकट बुकिंग, जन्म और मृत्यु पंजीकरण, सरकारी योजनाओं के लिए आवेदन और डिजिटल भुगतान सहित सेवाएं प्रदान कर रही हैं। श्री शाह ने कहा कि 39 हजार पैक्&#x200d;स किसान समृद्धि केंद्र बन गए हैं। 600 से अधिक पैक्&#x200d;स जन औषधि केंद्र चला रहे हैं, जबकि कई अन्य ईंधन आउटलेट और जल आपूर्ति योजनाओं का प्रबंधन कर रहे हैं।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:36:01+00:00",
-        "link": "https://newsonair.gov.in/hi/the-ministry-of-cooperation-has-infused-new-energy-into-the-lives-of-30-crore-people-union-minister-amit-shah/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "आज जकार्ता में इंडोनेशिया के राष्ट्रपति प्राबोवो सुबियांतो के साथ बातचीत करेंगे प्रधानमंत्री नरेंद्र मोदी",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता करेंगे। इस वार्ता में द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की जाएगी और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की जाएगी। दोनों नेता आपसी हित के क्षेत्रों में सहयोग बढ़ाने के उद्देश्य […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता करेंगे। इस वार्ता में द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की जाएगी और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की जाएगी। दोनों नेता आपसी हित के क्षेत्रों में सहयोग बढ़ाने के उद्देश्य से समझौता ज्ञापनों के आदान-प्रदान का साक्षी भी बनेंगे। प्रधानमंत्री मोदी के कार्यक्रम की शुरुआत सुबह साढे दस बजे औपचारिक स्वागत समारोह से होगी। इसके बाद अतिथि पुस्तिका पर हस्ताक्षर किए जाएंगे। श्री मोदी इंडोनेशिया के संसद परिसर में भी कार्यक्रम में शामिल होंगे, जहां वे दोनों देशों के बीच संसदीय सहयोग के महत्व का उल्&#x200d;लेख करेंगे। वे एक सामुदायिक कार्यक्रम में भी भाग लेंगे, जहां वे प्रवासी भारतीय समुदाय के सदस्यों से बातचीत करेंगे। श्री मोदी कल इंडोनेशिया के राष्ट्रपति के निमंत्रण पर तीन दिवसीय राजकीय यात्रा पर जकार्ता पहुंचे। राष्ट्रपति प्रबावो ने हवाई अड्डे पर प्रधानमंत्री का व्यक्तिगत रूप से स्वागत किया। इंडोनेशिया की वायु सेना के लड़ाकू विमानों ने प्रधानमंत्री के विमान को इंडोनेशिया के हवाई क्षेत्र में प्रवेश करने के बाद सुरक्षा प्रदान की। प्रधानमंत्री मोदी ने कहा कि वे राष्ट्रपति प्रबोवो के साथ भारत-इंडोनेशिया व्यापक रणनीतिक साझेदारी को नई गति प्रदान करने के लिए चर्चा करने के लिए उत्सुक हैं। इस साझेदारी की स्थापना उनकी 2018 की यात्रा के दौरान हुई थी। जकार्ता पहुंचने पर प्रस्तुत समृद्ध सांस्कृतिक प्रस्तुतियों की प्रशंसा करते हुए प्रधानमंत्री मोदी ने कहा कि ये भारत और इंडोनेशिया के बीच साझा किए गए गहरे सभ्यतागत, सांस्कृतिक और आध्यात्मिक संबंधों को दर्शाती हैं। प्रधानमंत्री ने इंडोनेशियाई विद्यार्थियों के समन्वय समूह द्वारा प्रस्तुत भरतनाट्यम की भी सराहना की। प्रवासी भारतीय समुदाय के सदस्यों द्वारा गर्मजोशी से स्वागत किए जाने के बाद, प्रधानमंत्री ने कई प्रस्तुतियाँ देखीं। इनमें रामायण का चित्रण करने वाली इंडोनेशिया की प्रतिष्ठित वायंग कुलित छाया कठपुतली कला, इंडोनेशिया के विद्यार्थियों द्वारा भरतनाट्यम की प्रस्तुति और त्रिरत्न को समर्पित एक भक्तिपूर्ण बौद्ध नृत्य शामिल थे। भारतीय समुदाय के प्रति आभार व्यक्त करते हुए प्रधानमंत्री ने कहा कि जकार्ता में मिले गर्मजोशी भरे स्वागत से वे भावविभोर हैं। जकार्ता के होटल पहुंचने पर प्रधानमंत्री मोदी का प्रवासी भारतीय समुदाय ने जोरदार स्वागत किया। इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने कहा कि प्रधानमंत्री की इंडोनेशिया यात्रा दक्षिण-पूर्व एशिया की सबसे बड़ी अर्थव्यवस्था के साथ भारत की रणनीतिक साझेदारी में एक महत्वपूर्ण उन्नयन का संकेत है। उन्होंने कहा कि रक्षा, समुद्री सुरक्षा, डिजिटल संपर्क, महत्वपूर्ण खनिजों और व्यापार के क्षेत्रों में कई महत्वपूर्ण घोषणाएं होने की उम्मीद है। व्यापक रणनीतिक साझेदारी के स्तर पर संबंधों को उन्नत करने के बाद प्रधानमंत्री मोदी की इंडोनेशिया की यह पहली द्विपक्षीय यात्रा है। इससे पहले राष्ट्रपति प्रबोवो सुबियांतो जनवरी 2025 में गणतंत्र दिवस समारोह के मुख्य अतिथि के रूप में भारत की राजकीय यात्रा पर आए थे। इंडोनेशिया प्रधानमंत्री मोदी की तीन देशों की यात्रा का पहला पड़ाव है। तीन देशों की यात्रा में इस सप्ताह के अंत में ऑस्ट्रेलिया और न्यूजीलैंड की यात्राएं भी शामिल हैं।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:24:26+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-hold-talks-with-indonesian-president-prabowo-subianto-in-jakarta-today/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गुजरात, सौराष्ट्र, कच्छ, मध्य महाराष्ट्र और तटीय कर्नाटक में आज मूसलाधार वर्षा का रेड अलर्ट",
-        "summary": "मौसम विभाग ने गुजरात, सौराष्ट्र, कच्छ, मध्य महाराष्ट्र और तटीय कर्नाटक में आज मूसलाधार वर्षा का रेड अलर्ट जारी किया है। अगले दो दिनों में दिल्ली, हरियाणा, चंडीगढ़, पंजाब, बिहार, छत्तीसगढ़, हिमाचल प्रदेश, सिक्किम, उत्तराखंड, मध्य प्रदेश, विदर्भ, पश्चिम बंगाल के तराई वाले क्षेत्रों और कर्नाटक के भीतरी हिस्सों में भी मूसलाधार वर्षा का अनुमान […]",
-        "article": "मौसम विभाग ने गुजरात, सौराष्ट्र, कच्छ, मध्य महाराष्ट्र और तटीय कर्नाटक में आज मूसलाधार वर्षा का रेड अलर्ट जारी किया है। अगले दो दिनों में दिल्ली, हरियाणा, चंडीगढ़, पंजाब, बिहार, छत्तीसगढ़, हिमाचल प्रदेश, सिक्किम, उत्तराखंड, मध्य प्रदेश, विदर्भ, पश्चिम बंगाल के तराई वाले क्षेत्रों और कर्नाटक के भीतरी हिस्सों में भी मूसलाधार वर्षा का अनुमान है। जम्मू-कश्मीर, लद्दाख, झारखंड, केरलम, माहे, ओडिशा, राजस्थान, पश्चिमी उत्तर प्रदेश और पूर्वोत्तर क्षेत्र के कुछ हिस्सों में भी अगले तीन से चार दिनों तक ऐसी ही स्थिति रहने की संभावना है। मौसम विभाग ने अगले तीन से चार दिनों में अंडमान और निकोबार द्वीप समूह, आंध्र प्रदेश, पश्चिम बंगाल के गंगा की तलहटी वाले क्षेत्रों, अरुणाचल प्रदेश, असम, मेघालय, छत्तीसगढ़, नागालैंड, मणिपुर, मिजोरम और त्रिपुरा में तेज हवाओं के साथ बिजली कड़कने और तूफान की आशंका व्यक्त की है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:11:28+00:00",
-        "link": "https://newsonair.gov.in/hi/red-alert-for-torrential-rain-today-in-gujarat-saurashtra-kutch-madhya-maharashtra-and-coastal-karnataka/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भुवनेश्वर में आज से जनजातीय अनुसंधान संस्थानों को सुदृढ़ बनाने पर दो दिवसीय राष्ट्रीय कार्यशाला",
-        "summary": "जनजातीय कार्य मंत्रालय आज से ओडिशा के भुवनेश्वर में जनजातीय अनुसंधान संस्थानों को सुदृढ़ बनाने पर दो दिन की राष्ट्रीय कार्यशाला का आयोजन करेगा। जनजातीय कार्य मंत्री जुएल ओराम कार्यशाला का उद्घाटन करेंगे। कार्यशाला में लगभग दो सौ प्रतिभागी भाग लेंगे। इस अवसर पर जनजातीय कार्य मंत्रालय और वाराणसी के संपूर्णानंद संस्कृत विश्वविद्यालय के बीच […]",
-        "article": "जनजातीय कार्य मंत्रालय आज से ओडिशा के भुवनेश्वर में जनजातीय अनुसंधान संस्थानों को सुदृढ़ बनाने पर दो दिन की राष्ट्रीय कार्यशाला का आयोजन करेगा। जनजातीय कार्य मंत्री जुएल ओराम कार्यशाला का उद्घाटन करेंगे। कार्यशाला में लगभग दो सौ प्रतिभागी भाग लेंगे। इस अवसर पर जनजातीय कार्य मंत्रालय और वाराणसी के संपूर्णानंद संस्कृत विश्वविद्यालय के बीच एक समझौता ज्ञापन पर हस्ताक्षर किये जायेंगे। कार्यक्रम के दौरान ट्राइबएक्स नामक एक डिजिटल शिक्षण मंच का भी शुभारंभ किया जाएगा। यह मंच जनजातीय कला, संस्कृति, भाषाओं, पारंपरिक ज्ञान और कौशल विकास को समर्पित होगा। कार्यशाला का उद्देश्य देश भर में जनजातीय अनुसंधान संस्थानों के कामकाज की समीक्षा करना और उन्हें जीवंत ज्ञान संस्थानों, सांस्कृतिक संसाधन केंद्रों और जनजातीय विकास के लिए नीतिगत सहायता केंद्रों में परिवर्तित करने के लिए एक व्यापक कार्यसूची विकसित करना है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T02:46:03+00:00",
-        "link": "https://newsonair.gov.in/hi/two-day-national-workshop-on-strengthening-tribal-research-institutes-begins-in-bhubaneswar-today/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-इंडोनेशिया के संबंध सकारात्मक दिशा में अग्रसर, पीएम की यात्रा इस प्रवृत्ति को और बल देगी: इंडोनेशिया में भारत के राजदूत",
-        "summary": "इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने कहा है कि प्रधानमंत्री की यात्रा से रक्षा, व्यापार, ऊर्जा, खाद्य सुरक्षा, शिक्षा और स्वास्थ्य सेवाओं से जुड़े कई समझौतों का मार्ग प्रशस्त होने की उम्मीद है। इससे भारत और इंडोनेशिया अपनी व्यापक रणनीतिक साझेदारी को और मजबूत करने के लिए तैयार हैं। एक निजी समाचार चैनल […]",
-        "article": "इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने कहा है कि प्रधानमंत्री की यात्रा से रक्षा, व्यापार, ऊर्जा, खाद्य सुरक्षा, शिक्षा और स्वास्थ्य सेवाओं से जुड़े कई समझौतों का मार्ग प्रशस्त होने की उम्मीद है। इससे भारत और इंडोनेशिया अपनी व्यापक रणनीतिक साझेदारी को और मजबूत करने के लिए तैयार हैं। एक निजी समाचार चैनल से बातचीत में श्री चक्रवर्ती ने कहा कि इस यात्रा से द्विपक्षीय सहयोग को और मजबूती मिलेगी। उन्&#x200d;होंने कहा कि प्रधानमंत्री की यात्रा से समुद्री और आर्थिक संबंध सुदृढ़ होंगे और उभरते क्षेत्रों में सहयोग गहरा होगा। राजदूत ने कहा कि भारत और इंडोनेशिया के संबंध सकारात्मक दिशा में अग्रसर हैं और प्रधानमंत्री की यात्रा इस प्रवृत्ति को और बल देगी। उन्&#x200d;होंने कहा कि दोनों देश पांच प्रमुख क्षेत्रों में सहयोग की पहल की घोषणा कर सकते हैं। इनमें रक्षा और समुद्री सुरक्षा, व्यापार और निवेश, खाद्य सुरक्षा और उर्वरक सहयोग, ऊर्जा सुरक्षा और महत्वपूर्ण खनिज, शिक्षा और स्वास्थ्य सेवाएं शामिल हैं। दोनों देशों के घनिष्ठ संबंधों का उल्&#x200d;लेख करते हुए श्री चक्रवर्ती ने कहा कि भारत और इंडोनेशिया रणनीतिक साझेदार हैं। दोनों देश एक-दूसरे के बहुत करीब स्थित हैं। उन्होंने कहा कि भारत के निकोबार द्वीप समूह इंडोनेशिया के आचेह प्रांत से मात्र 160 किलोमीटर दूर हैं, जो हिंद-प्रशांत क्षेत्र में समुद्री संबंधों के महत्व को दर्शाता है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T02:27:46+00:00",
-        "link": "https://newsonair.gov.in/hi/india-indonesia-relations-moving-in-a-positive-direction-pms-visit-will-further-strengthen-this-trend-indias-ambassador-to-indonesia/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "breaking": [
-      {
-        "title": "प्रधानमंत्री नरेंद्र मोदी ने इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। वार्ता के दौरान द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। वार्ता के दौरान द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के उद्देश्य से समझौता ज्ञापनों का आदान-प्रदान भी किया।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T05:55:56+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-held-delegation-level-talks-with-indonesian-president-prabowo-subianto-in-jakarta/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "मंगोलिया के पूर्व राष्ट्रपति ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना की प्रगति की सराहना",
-        "summary": "मंगोलिया के पूर्व राष्ट्रपति और सत्तारूढ़ मंगोलियाई पीपुल्स पार्टी (एमपीपी) के नेता नंबरिन एनखबयार ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना के निर्माण में हुई प्रगति की सराहना की। भारत सरकार द्वारा प्रदत्त एक अरब 70 करोड़ डॉलर की ऋण सीमा के समर्थन से कार्यान्वित की जा रही मंगोल तेल रिफाइनरी परियोजना, मंगोलिया की सतत […]",
-        "article": "मंगोलिया के पूर्व राष्ट्रपति और सत्तारूढ़ मंगोलियाई पीपुल्स पार्टी (एमपीपी) के नेता नंबरिन एनखबयार ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना के निर्माण में हुई प्रगति की सराहना की। भारत सरकार द्वारा प्रदत्त एक अरब 70 करोड़ डॉलर की ऋण सीमा के समर्थन से कार्यान्वित की जा रही मंगोल तेल रिफाइनरी परियोजना, मंगोलिया की सतत ऊर्जा रणनीति का महत्वपूर्ण घटक और प्रमुख पहल है। मंगोलिया स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि भारतीय राजदूत अतुल मलहारी गोत्सुर्वे ने मंगोलिया के पूर्व राष्ट्रपति के साथ दोर्नोगोवी स्थित तेल रिफाइनरी परियोजना के निर्माण स्थल का दौरा किया और &#8216;इंजीनियर्स इंडिया&#8217;, &#8216;मेघा इंजीनियरिंग एंड इंफ्रास्ट्रक्चर्स लिमिटेड&#8217; और मंगोल रिफाइनरी के इंजीनियरों और कर्मचारियों से बातचीत की। दूतावास ने बताया कि मंगोलिया के पूर्व राष्ट्रपति ने इस विशाल परियोजना के निर्माण में हुई प्रगति की सराहना की। दूतावास ने कहा कि यह परियोजना भारत-मंगोलिया द्विपक्षीय संबंधों को और मजबूत करेगी तथा मंगोलिया को सतत ऊर्जा आपूर्ति सुनिश्चित करेगी।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T05:52:53+00:00",
-        "link": "https://newsonair.gov.in/hi/former-president-of-mongolia-lauds-progress-of-india-backed-dornogovi-oil-refinery-project/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "तटीय कर्नाटक, गुजरात, कोंकण, गोवा और मध्य महाराष्ट्र के कुछ हिस्सों में भारी बारिश का अनुमान",
-        "summary": "मौसम विभाग ने आज तटीय कर्नाटक, गुजरात, कोंकण, गोवा और मध्य महाराष्ट्र के कुछ हिस्सों में भारी बारिश का अनुमान व्यक्त किया है। अरुणाचल प्रदेश, बिहार, छत्तीसगढ़, पूर्वी राजस्थान, हिमाचल प्रदेश, आंतरिक कर्नाटक, मध्य प्रदेश, उप-हिमालयी पश्चिम बंगाल और सिक्किम के कुछ हिस्सों में भी भारी बारिश की संभावना है। दिल्ली, हरियाणा, चंडीगढ़, उत्तर-पूर्वी भारत […]",
-        "article": "मौसम विभाग ने आज तटीय कर्नाटक, गुजरात, कोंकण, गोवा और मध्य महाराष्ट्र के कुछ हिस्सों में भारी बारिश का अनुमान व्यक्त किया है। अरुणाचल प्रदेश, बिहार, छत्तीसगढ़, पूर्वी राजस्थान, हिमाचल प्रदेश, आंतरिक कर्नाटक, मध्य प्रदेश, उप-हिमालयी पश्चिम बंगाल और सिक्किम के कुछ हिस्सों में भी भारी बारिश की संभावना है। दिल्ली, हरियाणा, चंडीगढ़, उत्तर-पूर्वी भारत के कुछ हिस्सों, ओडिशा, पंजाब और उत्तर प्रदेश में भी हल्की से मध्यम बारिश हो सकती है। कर्नाटक और तेलंगाना में आज गरज के साथ आंधी की संभावना है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T05:35:53+00:00",
-        "link": "https://newsonair.gov.in/hi/heavy-rain-forecast-for-coastal-karnataka-gujarat-konkan-goa-and-parts-of-madhya-maharashtra/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पाकिस्तान के अवैध कब्जे वाले कश्मीर में प्रदर्शनकारियों का पाकिस्‍तान को 48 घंटे का अल्‍टीमेटम",
-        "summary": "पाकिस्तान के अवैध कब्‍जे वाला कश्मीर में बढ़ती राजनीतिक उथल-पुथल के बीच, जम्मू-कश्मीर संयुक्त अवामी एक्शन कमेटी ने इस्लामाबाद सरकार को 48 घंटे की समय सीमा दी है और धमकी दी है कि अगर उनकी मांगें पूरी नहीं हुईं तो 9 जुलाई को वे कड़ा और निर्णायक जवाब देंगे। कमेटी ने एक औपचारिक घोषणा में […]",
-        "article": "पाकिस्तान के अवैध कब्&#x200d;जे वाला कश्मीर में बढ़ती राजनीतिक उथल-पुथल के बीच, जम्मू-कश्मीर संयुक्त अवामी एक्शन कमेटी ने इस्लामाबाद सरकार को 48 घंटे की समय सीमा दी है और धमकी दी है कि अगर उनकी मांगें पूरी नहीं हुईं तो 9 जुलाई को वे कड़ा और निर्णायक जवाब देंगे। कमेटी ने एक औपचारिक घोषणा में कहा कि उनका मौजूदा धरना प्रदर्शन तब तक अनिश्चित काल तक जारी रहेगा जब तक उनकी सभी मांगें पूरी नहीं हो जातीं। कमेटी ने पीओके के निवासियों और कश्मीरी प्रवासी समुदाय के सदस्यों से 9 जुलाई को होने वाले विरोध प्रदर्शन में भाग लेने का आह्वान किया है। इस्लामाबाद द्वारा की जा रही कड़ी कार्रवाई और पाकिस्तान अधिकृत जम्मू-कश्मीर में 600 से अधिक नागरिक अधिकार कार्यकर्ताओं की व्यापक गिरफ्तारी के विरोध में प्रदर्शन कर रहे लोगों पर पाकिस्तानी बलों की बर्बरता रविवार को तेज हो गई। मुजफ्फराबाद के कई हिस्सों से गोलाबारी और झड़पों की खबरें आ रही हैं। हजारों लोग कथित नाकाबंदी को समाप्त करने, संचार सेवाओं की बहाली, भोजन और दवाओं की निर्बाध आपूर्ति, गिरफ्तार नेताओं की रिहाई और 38 सूत्री लिखित समझौते के कार्यान्वयन की मांग को लेकर सड़कों पर उतर आए। पाकिस्तान द्वारा आतंकवाद विरोधी अधिनियम के तहत जॉइंट अवामी एक्शन कमेटी- जेएएसी पर प्रतिबंध लगाने के बाद से प्रदर्शन और तेज हो गए हैं। प्रदर्शन आयोजकों का आरोप है कि छह सौ से अधिक कार्यकर्ताओं और राजनीतिक नेताओं को गिरफ्तार किया गया है। वहीं अधिकारियों ने भोजन, आटा और आवश्यक दवाओं की आपूर्ति को प्रतिबंधित करके आर्थिक नाकाबंदी लागू कर दी है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:54:22+00:00",
-        "link": "https://newsonair.gov.in/hi/protesters-in-pakistan-occupied-kashmir-give-pakistan-a-48-hour-ultimatum/",
-        "image_url": "",
-        "image_credit": "",
+        "pubDate": "2026-07-07T05:31:23+00:00",
+        "link": "https://newsonair.gov.in/hi/venezuela-death-toll-from-twin-earthquakes-rises-to-3535/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1198,8 +1073,8 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T03:46:00+00:00",
         "link": "https://newsonair.gov.in/hi/union-minister-nitin-gadkari-held-a-review-meeting-of-the-national-highways-logistics-management-limited-2/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MLEsE30w_400x400-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1209,8 +1084,8 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T03:36:01+00:00",
         "link": "https://newsonair.gov.in/hi/the-ministry-of-cooperation-has-infused-new-energy-into-the-lives-of-30-crore-people-union-minister-amit-shah/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/6.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1220,8 +1095,8 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T03:24:26+00:00",
         "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-hold-talks-with-indonesian-president-prabowo-subianto-in-jakarta-today/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/8-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1231,8 +1106,8 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T03:11:28+00:00",
         "link": "https://newsonair.gov.in/hi/red-alert-for-torrential-rain-today-in-gujarat-saurashtra-kutch-madhya-maharashtra-and-coastal-karnataka/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/imd2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1242,247 +1117,21 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T02:46:03+00:00",
         "link": "https://newsonair.gov.in/hi/two-day-national-workshop-on-strengthening-tribal-research-institutes-begins-in-bhubaneswar-today/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMlwyHXaYAE10Hf.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "भारत-इंडोनेशिया के संबंध सकारात्मक दिशा में अग्रसर, पीएम की यात्रा इस प्रवृत्ति को और बल देगी: इंडोनेशिया में भारत के राजदूत",
-        "summary": "इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने कहा है कि प्रधानमंत्री की यात्रा से रक्षा, व्यापार, ऊर्जा, खाद्य सुरक्षा, शिक्षा और स्वास्थ्य सेवाओं से जुड़े कई समझौतों का मार्ग प्रशस्त होने की उम्मीद है। इससे भारत और इंडोनेशिया अपनी व्यापक रणनीतिक साझेदारी को और मजबूत करने के लिए तैयार हैं। एक निजी समाचार चैनल […]",
-        "article": "इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने कहा है कि प्रधानमंत्री की यात्रा से रक्षा, व्यापार, ऊर्जा, खाद्य सुरक्षा, शिक्षा और स्वास्थ्य सेवाओं से जुड़े कई समझौतों का मार्ग प्रशस्त होने की उम्मीद है। इससे भारत और इंडोनेशिया अपनी व्यापक रणनीतिक साझेदारी को और मजबूत करने के लिए तैयार हैं। एक निजी समाचार चैनल से बातचीत में श्री चक्रवर्ती ने कहा कि इस यात्रा से द्विपक्षीय सहयोग को और मजबूती मिलेगी। उन्&#x200d;होंने कहा कि प्रधानमंत्री की यात्रा से समुद्री और आर्थिक संबंध सुदृढ़ होंगे और उभरते क्षेत्रों में सहयोग गहरा होगा। राजदूत ने कहा कि भारत और इंडोनेशिया के संबंध सकारात्मक दिशा में अग्रसर हैं और प्रधानमंत्री की यात्रा इस प्रवृत्ति को और बल देगी। उन्&#x200d;होंने कहा कि दोनों देश पांच प्रमुख क्षेत्रों में सहयोग की पहल की घोषणा कर सकते हैं। इनमें रक्षा और समुद्री सुरक्षा, व्यापार और निवेश, खाद्य सुरक्षा और उर्वरक सहयोग, ऊर्जा सुरक्षा और महत्वपूर्ण खनिज, शिक्षा और स्वास्थ्य सेवाएं शामिल हैं। दोनों देशों के घनिष्ठ संबंधों का उल्&#x200d;लेख करते हुए श्री चक्रवर्ती ने कहा कि भारत और इंडोनेशिया रणनीतिक साझेदार हैं। दोनों देश एक-दूसरे के बहुत करीब स्थित हैं। उन्होंने कहा कि भारत के निकोबार द्वीप समूह इंडोनेशिया के आचेह प्रांत से मात्र 160 किलोमीटर दूर हैं, जो हिंद-प्रशांत क्षेत्र में समुद्री संबंधों के महत्व को दर्शाता है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T02:27:46+00:00",
-        "link": "https://newsonair.gov.in/hi/india-indonesia-relations-moving-in-a-positive-direction-pms-visit-will-further-strengthen-this-trend-indias-ambassador-to-indonesia/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "national": [
-      {
-        "title": "प्रधानमंत्री नरेंद्र मोदी ने इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। वार्ता के दौरान द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। वार्ता के दौरान द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के उद्देश्य से समझौता ज्ञापनों का आदान-प्रदान भी किया।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T05:55:56+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-held-delegation-level-talks-with-indonesian-president-prabowo-subianto-in-jakarta/",
-        "image_url": "",
-        "image_credit": "",
+        "title": "इंडोनेशिया पहुंचे पीएम मोदी, जकार्ता हवाई अड्डे पर राष्ट्रपति प्रबावो सुबियांतो ने किया स्वागत",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी 3 देशों की यात्रा के पहले चरण में आज शाम इंडोनेशिया के जकार्ता पहुंचे। जकार्ता हवाई अड्डे पर इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो ने अपने मंत्रिमंडल के सहयोगियों के साथ श्री मोदी का भव्‍य स्‍वागत किया। इंडोनेशिया में भारतीय राजदूत और भारतवंशी समुदाय के अनेक सदस्‍य भी इस अवसर पर उपस्थित रहे। […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी 3 देशों की यात्रा के पहले चरण में आज शाम इंडोनेशिया के जकार्ता पहुंचे। जकार्ता हवाई अड्डे पर इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो ने अपने मंत्रिमंडल के सहयोगियों के साथ श्री मोदी का भव्&#x200d;य स्&#x200d;वागत किया। इंडोनेशिया में भारतीय राजदूत और भारतवंशी समुदाय के अनेक सदस्&#x200d;य भी इस अवसर पर उपस्थित रहे। एक सोशल मीडिया पोस्&#x200d;ट में श्री मोदी ने कहा कि भारत और इंडोनेशिया ने 2018 में अपने संबंधों का स्&#x200d;तर बढ़ाकर व्&#x200d;यापक रणनीतिक साझेदारी तक पहुंचाया जिससे लोगों को लाभ हुआ है।",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T15:59:03+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-arrives-in-indonesia-welcomed-by-president-prabowo-subianto-at-jakarta-airport/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/aaaa.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
-      {
-        "title": "मंगोलिया के पूर्व राष्ट्रपति ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना की प्रगति की सराहना",
-        "summary": "मंगोलिया के पूर्व राष्ट्रपति और सत्तारूढ़ मंगोलियाई पीपुल्स पार्टी (एमपीपी) के नेता नंबरिन एनखबयार ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना के निर्माण में हुई प्रगति की सराहना की। भारत सरकार द्वारा प्रदत्त एक अरब 70 करोड़ डॉलर की ऋण सीमा के समर्थन से कार्यान्वित की जा रही मंगोल तेल रिफाइनरी परियोजना, मंगोलिया की सतत […]",
-        "article": "मंगोलिया के पूर्व राष्ट्रपति और सत्तारूढ़ मंगोलियाई पीपुल्स पार्टी (एमपीपी) के नेता नंबरिन एनखबयार ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना के निर्माण में हुई प्रगति की सराहना की। भारत सरकार द्वारा प्रदत्त एक अरब 70 करोड़ डॉलर की ऋण सीमा के समर्थन से कार्यान्वित की जा रही मंगोल तेल रिफाइनरी परियोजना, मंगोलिया की सतत ऊर्जा रणनीति का महत्वपूर्ण घटक और प्रमुख पहल है। मंगोलिया स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि भारतीय राजदूत अतुल मलहारी गोत्सुर्वे ने मंगोलिया के पूर्व राष्ट्रपति के साथ दोर्नोगोवी स्थित तेल रिफाइनरी परियोजना के निर्माण स्थल का दौरा किया और &#8216;इंजीनियर्स इंडिया&#8217;, &#8216;मेघा इंजीनियरिंग एंड इंफ्रास्ट्रक्चर्स लिमिटेड&#8217; और मंगोल रिफाइनरी के इंजीनियरों और कर्मचारियों से बातचीत की। दूतावास ने बताया कि मंगोलिया के पूर्व राष्ट्रपति ने इस विशाल परियोजना के निर्माण में हुई प्रगति की सराहना की। दूतावास ने कहा कि यह परियोजना भारत-मंगोलिया द्विपक्षीय संबंधों को और मजबूत करेगी तथा मंगोलिया को सतत ऊर्जा आपूर्ति सुनिश्चित करेगी।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T05:52:53+00:00",
-        "link": "https://newsonair.gov.in/hi/former-president-of-mongolia-lauds-progress-of-india-backed-dornogovi-oil-refinery-project/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "तटीय कर्नाटक, गुजरात, कोंकण, गोवा और मध्य महाराष्ट्र के कुछ हिस्सों में भारी बारिश का अनुमान",
-        "summary": "मौसम विभाग ने आज तटीय कर्नाटक, गुजरात, कोंकण, गोवा और मध्य महाराष्ट्र के कुछ हिस्सों में भारी बारिश का अनुमान व्यक्त किया है। अरुणाचल प्रदेश, बिहार, छत्तीसगढ़, पूर्वी राजस्थान, हिमाचल प्रदेश, आंतरिक कर्नाटक, मध्य प्रदेश, उप-हिमालयी पश्चिम बंगाल और सिक्किम के कुछ हिस्सों में भी भारी बारिश की संभावना है। दिल्ली, हरियाणा, चंडीगढ़, उत्तर-पूर्वी भारत […]",
-        "article": "मौसम विभाग ने आज तटीय कर्नाटक, गुजरात, कोंकण, गोवा और मध्य महाराष्ट्र के कुछ हिस्सों में भारी बारिश का अनुमान व्यक्त किया है। अरुणाचल प्रदेश, बिहार, छत्तीसगढ़, पूर्वी राजस्थान, हिमाचल प्रदेश, आंतरिक कर्नाटक, मध्य प्रदेश, उप-हिमालयी पश्चिम बंगाल और सिक्किम के कुछ हिस्सों में भी भारी बारिश की संभावना है। दिल्ली, हरियाणा, चंडीगढ़, उत्तर-पूर्वी भारत के कुछ हिस्सों, ओडिशा, पंजाब और उत्तर प्रदेश में भी हल्की से मध्यम बारिश हो सकती है। कर्नाटक और तेलंगाना में आज गरज के साथ आंधी की संभावना है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T05:35:53+00:00",
-        "link": "https://newsonair.gov.in/hi/heavy-rain-forecast-for-coastal-karnataka-gujarat-konkan-goa-and-parts-of-madhya-maharashtra/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पाकिस्तान के अवैध कब्जे वाले कश्मीर में प्रदर्शनकारियों का पाकिस्‍तान को 48 घंटे का अल्‍टीमेटम",
-        "summary": "पाकिस्तान के अवैध कब्‍जे वाला कश्मीर में बढ़ती राजनीतिक उथल-पुथल के बीच, जम्मू-कश्मीर संयुक्त अवामी एक्शन कमेटी ने इस्लामाबाद सरकार को 48 घंटे की समय सीमा दी है और धमकी दी है कि अगर उनकी मांगें पूरी नहीं हुईं तो 9 जुलाई को वे कड़ा और निर्णायक जवाब देंगे। कमेटी ने एक औपचारिक घोषणा में […]",
-        "article": "पाकिस्तान के अवैध कब्&#x200d;जे वाला कश्मीर में बढ़ती राजनीतिक उथल-पुथल के बीच, जम्मू-कश्मीर संयुक्त अवामी एक्शन कमेटी ने इस्लामाबाद सरकार को 48 घंटे की समय सीमा दी है और धमकी दी है कि अगर उनकी मांगें पूरी नहीं हुईं तो 9 जुलाई को वे कड़ा और निर्णायक जवाब देंगे। कमेटी ने एक औपचारिक घोषणा में कहा कि उनका मौजूदा धरना प्रदर्शन तब तक अनिश्चित काल तक जारी रहेगा जब तक उनकी सभी मांगें पूरी नहीं हो जातीं। कमेटी ने पीओके के निवासियों और कश्मीरी प्रवासी समुदाय के सदस्यों से 9 जुलाई को होने वाले विरोध प्रदर्शन में भाग लेने का आह्वान किया है। इस्लामाबाद द्वारा की जा रही कड़ी कार्रवाई और पाकिस्तान अधिकृत जम्मू-कश्मीर में 600 से अधिक नागरिक अधिकार कार्यकर्ताओं की व्यापक गिरफ्तारी के विरोध में प्रदर्शन कर रहे लोगों पर पाकिस्तानी बलों की बर्बरता रविवार को तेज हो गई। मुजफ्फराबाद के कई हिस्सों से गोलाबारी और झड़पों की खबरें आ रही हैं। हजारों लोग कथित नाकाबंदी को समाप्त करने, संचार सेवाओं की बहाली, भोजन और दवाओं की निर्बाध आपूर्ति, गिरफ्तार नेताओं की रिहाई और 38 सूत्री लिखित समझौते के कार्यान्वयन की मांग को लेकर सड़कों पर उतर आए। पाकिस्तान द्वारा आतंकवाद विरोधी अधिनियम के तहत जॉइंट अवामी एक्शन कमेटी- जेएएसी पर प्रतिबंध लगाने के बाद से प्रदर्शन और तेज हो गए हैं। प्रदर्शन आयोजकों का आरोप है कि छह सौ से अधिक कार्यकर्ताओं और राजनीतिक नेताओं को गिरफ्तार किया गया है। वहीं अधिकारियों ने भोजन, आटा और आवश्यक दवाओं की आपूर्ति को प्रतिबंधित करके आर्थिक नाकाबंदी लागू कर दी है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:54:22+00:00",
-        "link": "https://newsonair.gov.in/hi/protesters-in-pakistan-occupied-kashmir-give-pakistan-a-48-hour-ultimatum/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "केंद्रीय मंत्री नितिन गडकरी ने राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की",
-        "summary": "सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की। बैठक में देशभर में बनाए जा रहे बहु-माध्यम माल परिवहन पार्क, रोपवे और राजमार्गों के किनारे यात्रियों के लिए विकसित की जा रही सुविधाओं की प्रगति की समीक्षा की गई। श्री गडकरी ने कहा कि ये योजनाएं […]",
-        "article": "सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की। बैठक में देशभर में बनाए जा रहे बहु-माध्यम माल परिवहन पार्क, रोपवे और राजमार्गों के किनारे यात्रियों के लिए विकसित की जा रही सुविधाओं की प्रगति की समीक्षा की गई। श्री गडकरी ने कहा कि ये योजनाएं देश में आधुनिक और बेहतर परिवहन व्यवस्था बनाने में महत्वपूर्ण भूमिका निभाएंगी। उन्होंने कहा कि इससे सड़क, रेल और अन्य परिवहन साधनों के बीच बेहतर संपर्क स्थापित होगा। श्री गडकरी ने कहा कि इनसे नए रोजगार और व्यापार के अवसर बढ़ेंगे, सभी क्षेत्रों का संतुलित विकास होगा और देश की माल परिवहन व्यवस्था अधिक मजबूत बनेगी। बैठक में श्री गडकरी ने योजनाओं के कार्य में आ रही चुनौतियों की भी समीक्षा की। उन्होंने संबंधित अधिकारियों और सभी पक्षों को निर्देश दिए कि सभी बाधाओं को शीघ्र दूर किया जाए और योजनाओं का कार्य तेज़ी से पूरा किया जाए। श्री गडकरी ने कहा कि इन योजनाओं के समय पर पूरा होने से माल परिवहन अधिक आसान और कम खर्चीला होगा। उन्&#x200d;होंने कहा कि इससे यात्रियों को बेहतर सुविधाएं मिलेंगी और देश में विश्वस्तरीय परिवहन ढांचा तैयार होगा।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:46:00+00:00",
-        "link": "https://newsonair.gov.in/hi/union-minister-nitin-gadkari-held-a-review-meeting-of-the-national-highways-logistics-management-limited-2/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सहकारिता मंत्रालय ने 30 करोड़ लोगों के जीवन में नई ऊर्जा का संचार किया : केंद्रीय मंत्री अमित शाह",
-        "summary": "केंद्रीय सहकारिता मंत्री अमित शाह ने कहा है कि सहकारिता मंत्रालय ने पिछले पांच वर्षों में सहकारिता क्षेत्र से जुड़े लगभग तीस करोड़ लोगों के जीवन में नई ऊर्जा का संचार किया है। नई दिल्ली में सहकारिता मंत्रालय के पांचवें स्थापना दिवस समारोह को संबोधित करते हुए श्री शाह ने कहा कि प्रधानमंत्री नरेंद्र मोदी […]",
-        "article": "केंद्रीय सहकारिता मंत्री अमित शाह ने कहा है कि सहकारिता मंत्रालय ने पिछले पांच वर्षों में सहकारिता क्षेत्र से जुड़े लगभग तीस करोड़ लोगों के जीवन में नई ऊर्जा का संचार किया है। नई दिल्ली में सहकारिता मंत्रालय के पांचवें स्थापना दिवस समारोह को संबोधित करते हुए श्री शाह ने कहा कि प्रधानमंत्री नरेंद्र मोदी द्वारा 2021 में स्थापित इस मंत्रालय ने सहकारिता तंत्र को आधुनिक, पारदर्शी, प्रौद्योगिकी-आधारित और प्रतिस्पर्धी बना दिया है। उन्होंने कहा कि मंत्रालय ने सहकारिता क्षेत्र के सामने मौजूद प्रमुख चुनौतियों की पहचान की है। इस क्षेत्र के विकास और समाधान के लिए एक व्यापक रूपरेखा तैयार की है और ऐसे सुधार लागू किए हैं जिनसे संपूर्ण तंत्र का आधुनिकीकरण हुआ है। श्री शाह ने कहा कि जब देश 2047 में अपनी स्वतंत्रता की शताब्दी मनाएगा, तब सहकारिता आंदोलन एक समृद्ध भारत की मजबूत नींव बनेगा। 6 जुलाई, 2021 को मंत्रालय की स्थापना को याद करते हुए अमित शाह ने कहा कि इस निर्णय ने सहकारिता क्षेत्र से जुड़े लाखों लोगों के 75 वर्षों के इंतजार को समाप्त कर दिया। श्री शाह ने कहा कि मंत्रालय ने सहकारी क्षेत्र की दशकों पुरानी उपेक्षा को समाप्त करते हुए उसमें नई जान फूंकी है। उन्होंने इस आलोचना को भी खारिज कर दिया कि मंत्रालय राज्यों की शक्तियों में हस्तक्षेप करेगा। मंत्रालय की उपलब्धियों का उल्&#x200d;लेख करते हुए श्री शाह ने कहा कि 30 क्षेत्रों में फैली 85 लाख से अधिक सहकारी समितियों और 32 करोड़ सदस्यों को सम्&#x200d;म&#x200d;िलित करने वाला एक एकीकृत डिजिटल डेटाबेस बनाया गया है। इस डेटाबेस में लेखापरीक्षा स्थिति, कारोबार, ग्रेडिंग और गांवों में सहकारी संस्थानों की उपस्थिति की जानकारी शामिल है। इससे राज्यों को कमियों की पहचान करने और सहकारी नेटवर्क को मजबूत करने में मदद मिलेगी। श्री शाह ने एक राष्ट्रीय रैंकिंग ढांचा शुरू करने की भी घोषणा की। इसके अंतर्गत प्रत्येक क्षेत्र में सर्वश्रेष्ठ प्रदर्शन करने वाली सहकारी समितियों को मान्यता दी जाएगी और उन्हें प्रोत्साहित किया जाएगा। सहकारिता मंत्री ने कहा कि सरकार ने प्राथमिक कृषि ऋण समितियों- पैक्&#x200d;स की भूमिका का विस्तार किया है। इससे वे साझा सेवा केंद्रों के माध्यम से तीन सौ से अधिक सेवाएं प्रदान कर सकेंगी। उन्होंने कहा कि 55 हजार पैक्&#x200d;स अब रेलवे टिकट बुकिंग, जन्म और मृत्यु पंजीकरण, सरकारी योजनाओं के लिए आवेदन और डिजिटल भुगतान सहित सेवाएं प्रदान कर रही हैं। श्री शाह ने कहा कि 39 हजार पैक्&#x200d;स किसान समृद्धि केंद्र बन गए हैं। 600 से अधिक पैक्&#x200d;स जन औषधि केंद्र चला रहे हैं, जबकि कई अन्य ईंधन आउटलेट और जल आपूर्ति योजनाओं का प्रबंधन कर रहे हैं।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:36:01+00:00",
-        "link": "https://newsonair.gov.in/hi/the-ministry-of-cooperation-has-infused-new-energy-into-the-lives-of-30-crore-people-union-minister-amit-shah/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "आज जकार्ता में इंडोनेशिया के राष्ट्रपति प्राबोवो सुबियांतो के साथ बातचीत करेंगे प्रधानमंत्री नरेंद्र मोदी",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता करेंगे। इस वार्ता में द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की जाएगी और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की जाएगी। दोनों नेता आपसी हित के क्षेत्रों में सहयोग बढ़ाने के उद्देश्य […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता करेंगे। इस वार्ता में द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की जाएगी और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की जाएगी। दोनों नेता आपसी हित के क्षेत्रों में सहयोग बढ़ाने के उद्देश्य से समझौता ज्ञापनों के आदान-प्रदान का साक्षी भी बनेंगे। प्रधानमंत्री मोदी के कार्यक्रम की शुरुआत सुबह साढे दस बजे औपचारिक स्वागत समारोह से होगी। इसके बाद अतिथि पुस्तिका पर हस्ताक्षर किए जाएंगे। श्री मोदी इंडोनेशिया के संसद परिसर में भी कार्यक्रम में शामिल होंगे, जहां वे दोनों देशों के बीच संसदीय सहयोग के महत्व का उल्&#x200d;लेख करेंगे। वे एक सामुदायिक कार्यक्रम में भी भाग लेंगे, जहां वे प्रवासी भारतीय समुदाय के सदस्यों से बातचीत करेंगे। श्री मोदी कल इंडोनेशिया के राष्ट्रपति के निमंत्रण पर तीन दिवसीय राजकीय यात्रा पर जकार्ता पहुंचे। राष्ट्रपति प्रबावो ने हवाई अड्डे पर प्रधानमंत्री का व्यक्तिगत रूप से स्वागत किया। इंडोनेशिया की वायु सेना के लड़ाकू विमानों ने प्रधानमंत्री के विमान को इंडोनेशिया के हवाई क्षेत्र में प्रवेश करने के बाद सुरक्षा प्रदान की। प्रधानमंत्री मोदी ने कहा कि वे राष्ट्रपति प्रबोवो के साथ भारत-इंडोनेशिया व्यापक रणनीतिक साझेदारी को नई गति प्रदान करने के लिए चर्चा करने के लिए उत्सुक हैं। इस साझेदारी की स्थापना उनकी 2018 की यात्रा के दौरान हुई थी। जकार्ता पहुंचने पर प्रस्तुत समृद्ध सांस्कृतिक प्रस्तुतियों की प्रशंसा करते हुए प्रधानमंत्री मोदी ने कहा कि ये भारत और इंडोनेशिया के बीच साझा किए गए गहरे सभ्यतागत, सांस्कृतिक और आध्यात्मिक संबंधों को दर्शाती हैं। प्रधानमंत्री ने इंडोनेशियाई विद्यार्थियों के समन्वय समूह द्वारा प्रस्तुत भरतनाट्यम की भी सराहना की। प्रवासी भारतीय समुदाय के सदस्यों द्वारा गर्मजोशी से स्वागत किए जाने के बाद, प्रधानमंत्री ने कई प्रस्तुतियाँ देखीं। इनमें रामायण का चित्रण करने वाली इंडोनेशिया की प्रतिष्ठित वायंग कुलित छाया कठपुतली कला, इंडोनेशिया के विद्यार्थियों द्वारा भरतनाट्यम की प्रस्तुति और त्रिरत्न को समर्पित एक भक्तिपूर्ण बौद्ध नृत्य शामिल थे। भारतीय समुदाय के प्रति आभार व्यक्त करते हुए प्रधानमंत्री ने कहा कि जकार्ता में मिले गर्मजोशी भरे स्वागत से वे भावविभोर हैं। जकार्ता के होटल पहुंचने पर प्रधानमंत्री मोदी का प्रवासी भारतीय समुदाय ने जोरदार स्वागत किया। इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने कहा कि प्रधानमंत्री की इंडोनेशिया यात्रा दक्षिण-पूर्व एशिया की सबसे बड़ी अर्थव्यवस्था के साथ भारत की रणनीतिक साझेदारी में एक महत्वपूर्ण उन्नयन का संकेत है। उन्होंने कहा कि रक्षा, समुद्री सुरक्षा, डिजिटल संपर्क, महत्वपूर्ण खनिजों और व्यापार के क्षेत्रों में कई महत्वपूर्ण घोषणाएं होने की उम्मीद है। व्यापक रणनीतिक साझेदारी के स्तर पर संबंधों को उन्नत करने के बाद प्रधानमंत्री मोदी की इंडोनेशिया की यह पहली द्विपक्षीय यात्रा है। इससे पहले राष्ट्रपति प्रबोवो सुबियांतो जनवरी 2025 में गणतंत्र दिवस समारोह के मुख्य अतिथि के रूप में भारत की राजकीय यात्रा पर आए थे। इंडोनेशिया प्रधानमंत्री मोदी की तीन देशों की यात्रा का पहला पड़ाव है। तीन देशों की यात्रा में इस सप्ताह के अंत में ऑस्ट्रेलिया और न्यूजीलैंड की यात्राएं भी शामिल हैं।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:24:26+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-hold-talks-with-indonesian-president-prabowo-subianto-in-jakarta-today/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गुजरात, सौराष्ट्र, कच्छ, मध्य महाराष्ट्र और तटीय कर्नाटक में आज मूसलाधार वर्षा का रेड अलर्ट",
-        "summary": "मौसम विभाग ने गुजरात, सौराष्ट्र, कच्छ, मध्य महाराष्ट्र और तटीय कर्नाटक में आज मूसलाधार वर्षा का रेड अलर्ट जारी किया है। अगले दो दिनों में दिल्ली, हरियाणा, चंडीगढ़, पंजाब, बिहार, छत्तीसगढ़, हिमाचल प्रदेश, सिक्किम, उत्तराखंड, मध्य प्रदेश, विदर्भ, पश्चिम बंगाल के तराई वाले क्षेत्रों और कर्नाटक के भीतरी हिस्सों में भी मूसलाधार वर्षा का अनुमान […]",
-        "article": "मौसम विभाग ने गुजरात, सौराष्ट्र, कच्छ, मध्य महाराष्ट्र और तटीय कर्नाटक में आज मूसलाधार वर्षा का रेड अलर्ट जारी किया है। अगले दो दिनों में दिल्ली, हरियाणा, चंडीगढ़, पंजाब, बिहार, छत्तीसगढ़, हिमाचल प्रदेश, सिक्किम, उत्तराखंड, मध्य प्रदेश, विदर्भ, पश्चिम बंगाल के तराई वाले क्षेत्रों और कर्नाटक के भीतरी हिस्सों में भी मूसलाधार वर्षा का अनुमान है। जम्मू-कश्मीर, लद्दाख, झारखंड, केरलम, माहे, ओडिशा, राजस्थान, पश्चिमी उत्तर प्रदेश और पूर्वोत्तर क्षेत्र के कुछ हिस्सों में भी अगले तीन से चार दिनों तक ऐसी ही स्थिति रहने की संभावना है। मौसम विभाग ने अगले तीन से चार दिनों में अंडमान और निकोबार द्वीप समूह, आंध्र प्रदेश, पश्चिम बंगाल के गंगा की तलहटी वाले क्षेत्रों, अरुणाचल प्रदेश, असम, मेघालय, छत्तीसगढ़, नागालैंड, मणिपुर, मिजोरम और त्रिपुरा में तेज हवाओं के साथ बिजली कड़कने और तूफान की आशंका व्यक्त की है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:11:28+00:00",
-        "link": "https://newsonair.gov.in/hi/red-alert-for-torrential-rain-today-in-gujarat-saurashtra-kutch-madhya-maharashtra-and-coastal-karnataka/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भुवनेश्वर में आज से जनजातीय अनुसंधान संस्थानों को सुदृढ़ बनाने पर दो दिवसीय राष्ट्रीय कार्यशाला",
-        "summary": "जनजातीय कार्य मंत्रालय आज से ओडिशा के भुवनेश्वर में जनजातीय अनुसंधान संस्थानों को सुदृढ़ बनाने पर दो दिन की राष्ट्रीय कार्यशाला का आयोजन करेगा। जनजातीय कार्य मंत्री जुएल ओराम कार्यशाला का उद्घाटन करेंगे। कार्यशाला में लगभग दो सौ प्रतिभागी भाग लेंगे। इस अवसर पर जनजातीय कार्य मंत्रालय और वाराणसी के संपूर्णानंद संस्कृत विश्वविद्यालय के बीच […]",
-        "article": "जनजातीय कार्य मंत्रालय आज से ओडिशा के भुवनेश्वर में जनजातीय अनुसंधान संस्थानों को सुदृढ़ बनाने पर दो दिन की राष्ट्रीय कार्यशाला का आयोजन करेगा। जनजातीय कार्य मंत्री जुएल ओराम कार्यशाला का उद्घाटन करेंगे। कार्यशाला में लगभग दो सौ प्रतिभागी भाग लेंगे। इस अवसर पर जनजातीय कार्य मंत्रालय और वाराणसी के संपूर्णानंद संस्कृत विश्वविद्यालय के बीच एक समझौता ज्ञापन पर हस्ताक्षर किये जायेंगे। कार्यक्रम के दौरान ट्राइबएक्स नामक एक डिजिटल शिक्षण मंच का भी शुभारंभ किया जाएगा। यह मंच जनजातीय कला, संस्कृति, भाषाओं, पारंपरिक ज्ञान और कौशल विकास को समर्पित होगा। कार्यशाला का उद्देश्य देश भर में जनजातीय अनुसंधान संस्थानों के कामकाज की समीक्षा करना और उन्हें जीवंत ज्ञान संस्थानों, सांस्कृतिक संसाधन केंद्रों और जनजातीय विकास के लिए नीतिगत सहायता केंद्रों में परिवर्तित करने के लिए एक व्यापक कार्यसूची विकसित करना है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T02:46:03+00:00",
-        "link": "https://newsonair.gov.in/hi/two-day-national-workshop-on-strengthening-tribal-research-institutes-begins-in-bhubaneswar-today/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-इंडोनेशिया के संबंध सकारात्मक दिशा में अग्रसर, पीएम की यात्रा इस प्रवृत्ति को और बल देगी: इंडोनेशिया में भारत के राजदूत",
-        "summary": "इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने कहा है कि प्रधानमंत्री की यात्रा से रक्षा, व्यापार, ऊर्जा, खाद्य सुरक्षा, शिक्षा और स्वास्थ्य सेवाओं से जुड़े कई समझौतों का मार्ग प्रशस्त होने की उम्मीद है। इससे भारत और इंडोनेशिया अपनी व्यापक रणनीतिक साझेदारी को और मजबूत करने के लिए तैयार हैं। एक निजी समाचार चैनल […]",
-        "article": "इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने कहा है कि प्रधानमंत्री की यात्रा से रक्षा, व्यापार, ऊर्जा, खाद्य सुरक्षा, शिक्षा और स्वास्थ्य सेवाओं से जुड़े कई समझौतों का मार्ग प्रशस्त होने की उम्मीद है। इससे भारत और इंडोनेशिया अपनी व्यापक रणनीतिक साझेदारी को और मजबूत करने के लिए तैयार हैं। एक निजी समाचार चैनल से बातचीत में श्री चक्रवर्ती ने कहा कि इस यात्रा से द्विपक्षीय सहयोग को और मजबूती मिलेगी। उन्&#x200d;होंने कहा कि प्रधानमंत्री की यात्रा से समुद्री और आर्थिक संबंध सुदृढ़ होंगे और उभरते क्षेत्रों में सहयोग गहरा होगा। राजदूत ने कहा कि भारत और इंडोनेशिया के संबंध सकारात्मक दिशा में अग्रसर हैं और प्रधानमंत्री की यात्रा इस प्रवृत्ति को और बल देगी। उन्&#x200d;होंने कहा कि दोनों देश पांच प्रमुख क्षेत्रों में सहयोग की पहल की घोषणा कर सकते हैं। इनमें रक्षा और समुद्री सुरक्षा, व्यापार और निवेश, खाद्य सुरक्षा और उर्वरक सहयोग, ऊर्जा सुरक्षा और महत्वपूर्ण खनिज, शिक्षा और स्वास्थ्य सेवाएं शामिल हैं। दोनों देशों के घनिष्ठ संबंधों का उल्&#x200d;लेख करते हुए श्री चक्रवर्ती ने कहा कि भारत और इंडोनेशिया रणनीतिक साझेदार हैं। दोनों देश एक-दूसरे के बहुत करीब स्थित हैं। उन्होंने कहा कि भारत के निकोबार द्वीप समूह इंडोनेशिया के आचेह प्रांत से मात्र 160 किलोमीटर दूर हैं, जो हिंद-प्रशांत क्षेत्र में समुद्री संबंधों के महत्व को दर्शाता है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T02:27:46+00:00",
-        "link": "https://newsonair.gov.in/hi/india-indonesia-relations-moving-in-a-positive-direction-pms-visit-will-further-strengthen-this-trend-indias-ambassador-to-indonesia/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "politics": [
-      {
-        "title": "प्रधानमंत्री नरेंद्र मोदी ने इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। वार्ता के दौरान द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। वार्ता के दौरान द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के उद्देश्य से समझौता ज्ञापनों का आदान-प्रदान भी किया।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T05:55:56+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-held-delegation-level-talks-with-indonesian-president-prabowo-subianto-in-jakarta/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "मंगोलिया के पूर्व राष्ट्रपति ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना की प्रगति की सराहना",
-        "summary": "मंगोलिया के पूर्व राष्ट्रपति और सत्तारूढ़ मंगोलियाई पीपुल्स पार्टी (एमपीपी) के नेता नंबरिन एनखबयार ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना के निर्माण में हुई प्रगति की सराहना की। भारत सरकार द्वारा प्रदत्त एक अरब 70 करोड़ डॉलर की ऋण सीमा के समर्थन से कार्यान्वित की जा रही मंगोल तेल रिफाइनरी परियोजना, मंगोलिया की सतत […]",
-        "article": "मंगोलिया के पूर्व राष्ट्रपति और सत्तारूढ़ मंगोलियाई पीपुल्स पार्टी (एमपीपी) के नेता नंबरिन एनखबयार ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना के निर्माण में हुई प्रगति की सराहना की। भारत सरकार द्वारा प्रदत्त एक अरब 70 करोड़ डॉलर की ऋण सीमा के समर्थन से कार्यान्वित की जा रही मंगोल तेल रिफाइनरी परियोजना, मंगोलिया की सतत ऊर्जा रणनीति का महत्वपूर्ण घटक और प्रमुख पहल है। मंगोलिया स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि भारतीय राजदूत अतुल मलहारी गोत्सुर्वे ने मंगोलिया के पूर्व राष्ट्रपति के साथ दोर्नोगोवी स्थित तेल रिफाइनरी परियोजना के निर्माण स्थल का दौरा किया और &#8216;इंजीनियर्स इंडिया&#8217;, &#8216;मेघा इंजीनियरिंग एंड इंफ्रास्ट्रक्चर्स लिमिटेड&#8217; और मंगोल रिफाइनरी के इंजीनियरों और कर्मचारियों से बातचीत की। दूतावास ने बताया कि मंगोलिया के पूर्व राष्ट्रपति ने इस विशाल परियोजना के निर्माण में हुई प्रगति की सराहना की। दूतावास ने कहा कि यह परियोजना भारत-मंगोलिया द्विपक्षीय संबंधों को और मजबूत करेगी तथा मंगोलिया को सतत ऊर्जा आपूर्ति सुनिश्चित करेगी।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T05:52:53+00:00",
-        "link": "https://newsonair.gov.in/hi/former-president-of-mongolia-lauds-progress-of-india-backed-dornogovi-oil-refinery-project/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "तटीय कर्नाटक, गुजरात, कोंकण, गोवा और मध्य महाराष्ट्र के कुछ हिस्सों में भारी बारिश का अनुमान",
-        "summary": "मौसम विभाग ने आज तटीय कर्नाटक, गुजरात, कोंकण, गोवा और मध्य महाराष्ट्र के कुछ हिस्सों में भारी बारिश का अनुमान व्यक्त किया है। अरुणाचल प्रदेश, बिहार, छत्तीसगढ़, पूर्वी राजस्थान, हिमाचल प्रदेश, आंतरिक कर्नाटक, मध्य प्रदेश, उप-हिमालयी पश्चिम बंगाल और सिक्किम के कुछ हिस्सों में भी भारी बारिश की संभावना है। दिल्ली, हरियाणा, चंडीगढ़, उत्तर-पूर्वी भारत […]",
-        "article": "मौसम विभाग ने आज तटीय कर्नाटक, गुजरात, कोंकण, गोवा और मध्य महाराष्ट्र के कुछ हिस्सों में भारी बारिश का अनुमान व्यक्त किया है। अरुणाचल प्रदेश, बिहार, छत्तीसगढ़, पूर्वी राजस्थान, हिमाचल प्रदेश, आंतरिक कर्नाटक, मध्य प्रदेश, उप-हिमालयी पश्चिम बंगाल और सिक्किम के कुछ हिस्सों में भी भारी बारिश की संभावना है। दिल्ली, हरियाणा, चंडीगढ़, उत्तर-पूर्वी भारत के कुछ हिस्सों, ओडिशा, पंजाब और उत्तर प्रदेश में भी हल्की से मध्यम बारिश हो सकती है। कर्नाटक और तेलंगाना में आज गरज के साथ आंधी की संभावना है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T05:35:53+00:00",
-        "link": "https://newsonair.gov.in/hi/heavy-rain-forecast-for-coastal-karnataka-gujarat-konkan-goa-and-parts-of-madhya-maharashtra/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पाकिस्तान के अवैध कब्जे वाले कश्मीर में प्रदर्शनकारियों का पाकिस्‍तान को 48 घंटे का अल्‍टीमेटम",
-        "summary": "पाकिस्तान के अवैध कब्‍जे वाला कश्मीर में बढ़ती राजनीतिक उथल-पुथल के बीच, जम्मू-कश्मीर संयुक्त अवामी एक्शन कमेटी ने इस्लामाबाद सरकार को 48 घंटे की समय सीमा दी है और धमकी दी है कि अगर उनकी मांगें पूरी नहीं हुईं तो 9 जुलाई को वे कड़ा और निर्णायक जवाब देंगे। कमेटी ने एक औपचारिक घोषणा में […]",
-        "article": "पाकिस्तान के अवैध कब्&#x200d;जे वाला कश्मीर में बढ़ती राजनीतिक उथल-पुथल के बीच, जम्मू-कश्मीर संयुक्त अवामी एक्शन कमेटी ने इस्लामाबाद सरकार को 48 घंटे की समय सीमा दी है और धमकी दी है कि अगर उनकी मांगें पूरी नहीं हुईं तो 9 जुलाई को वे कड़ा और निर्णायक जवाब देंगे। कमेटी ने एक औपचारिक घोषणा में कहा कि उनका मौजूदा धरना प्रदर्शन तब तक अनिश्चित काल तक जारी रहेगा जब तक उनकी सभी मांगें पूरी नहीं हो जातीं। कमेटी ने पीओके के निवासियों और कश्मीरी प्रवासी समुदाय के सदस्यों से 9 जुलाई को होने वाले विरोध प्रदर्शन में भाग लेने का आह्वान किया है। इस्लामाबाद द्वारा की जा रही कड़ी कार्रवाई और पाकिस्तान अधिकृत जम्मू-कश्मीर में 600 से अधिक नागरिक अधिकार कार्यकर्ताओं की व्यापक गिरफ्तारी के विरोध में प्रदर्शन कर रहे लोगों पर पाकिस्तानी बलों की बर्बरता रविवार को तेज हो गई। मुजफ्फराबाद के कई हिस्सों से गोलाबारी और झड़पों की खबरें आ रही हैं। हजारों लोग कथित नाकाबंदी को समाप्त करने, संचार सेवाओं की बहाली, भोजन और दवाओं की निर्बाध आपूर्ति, गिरफ्तार नेताओं की रिहाई और 38 सूत्री लिखित समझौते के कार्यान्वयन की मांग को लेकर सड़कों पर उतर आए। पाकिस्तान द्वारा आतंकवाद विरोधी अधिनियम के तहत जॉइंट अवामी एक्शन कमेटी- जेएएसी पर प्रतिबंध लगाने के बाद से प्रदर्शन और तेज हो गए हैं। प्रदर्शन आयोजकों का आरोप है कि छह सौ से अधिक कार्यकर्ताओं और राजनीतिक नेताओं को गिरफ्तार किया गया है। वहीं अधिकारियों ने भोजन, आटा और आवश्यक दवाओं की आपूर्ति को प्रतिबंधित करके आर्थिक नाकाबंदी लागू कर दी है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:54:22+00:00",
-        "link": "https://newsonair.gov.in/hi/protesters-in-pakistan-occupied-kashmir-give-pakistan-a-48-hour-ultimatum/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "केंद्रीय मंत्री नितिन गडकरी ने राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की",
-        "summary": "सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की। बैठक में देशभर में बनाए जा रहे बहु-माध्यम माल परिवहन पार्क, रोपवे और राजमार्गों के किनारे यात्रियों के लिए विकसित की जा रही सुविधाओं की प्रगति की समीक्षा की गई। श्री गडकरी ने कहा कि ये योजनाएं […]",
-        "article": "सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की। बैठक में देशभर में बनाए जा रहे बहु-माध्यम माल परिवहन पार्क, रोपवे और राजमार्गों के किनारे यात्रियों के लिए विकसित की जा रही सुविधाओं की प्रगति की समीक्षा की गई। श्री गडकरी ने कहा कि ये योजनाएं देश में आधुनिक और बेहतर परिवहन व्यवस्था बनाने में महत्वपूर्ण भूमिका निभाएंगी। उन्होंने कहा कि इससे सड़क, रेल और अन्य परिवहन साधनों के बीच बेहतर संपर्क स्थापित होगा। श्री गडकरी ने कहा कि इनसे नए रोजगार और व्यापार के अवसर बढ़ेंगे, सभी क्षेत्रों का संतुलित विकास होगा और देश की माल परिवहन व्यवस्था अधिक मजबूत बनेगी। बैठक में श्री गडकरी ने योजनाओं के कार्य में आ रही चुनौतियों की भी समीक्षा की। उन्होंने संबंधित अधिकारियों और सभी पक्षों को निर्देश दिए कि सभी बाधाओं को शीघ्र दूर किया जाए और योजनाओं का कार्य तेज़ी से पूरा किया जाए। श्री गडकरी ने कहा कि इन योजनाओं के समय पर पूरा होने से माल परिवहन अधिक आसान और कम खर्चीला होगा। उन्&#x200d;होंने कहा कि इससे यात्रियों को बेहतर सुविधाएं मिलेंगी और देश में विश्वस्तरीय परिवहन ढांचा तैयार होगा।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:46:00+00:00",
-        "link": "https://newsonair.gov.in/hi/union-minister-nitin-gadkari-held-a-review-meeting-of-the-national-highways-logistics-management-limited-2/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सहकारिता मंत्रालय ने 30 करोड़ लोगों के जीवन में नई ऊर्जा का संचार किया : केंद्रीय मंत्री अमित शाह",
-        "summary": "केंद्रीय सहकारिता मंत्री अमित शाह ने कहा है कि सहकारिता मंत्रालय ने पिछले पांच वर्षों में सहकारिता क्षेत्र से जुड़े लगभग तीस करोड़ लोगों के जीवन में नई ऊर्जा का संचार किया है। नई दिल्ली में सहकारिता मंत्रालय के पांचवें स्थापना दिवस समारोह को संबोधित करते हुए श्री शाह ने कहा कि प्रधानमंत्री नरेंद्र मोदी […]",
-        "article": "केंद्रीय सहकारिता मंत्री अमित शाह ने कहा है कि सहकारिता मंत्रालय ने पिछले पांच वर्षों में सहकारिता क्षेत्र से जुड़े लगभग तीस करोड़ लोगों के जीवन में नई ऊर्जा का संचार किया है। नई दिल्ली में सहकारिता मंत्रालय के पांचवें स्थापना दिवस समारोह को संबोधित करते हुए श्री शाह ने कहा कि प्रधानमंत्री नरेंद्र मोदी द्वारा 2021 में स्थापित इस मंत्रालय ने सहकारिता तंत्र को आधुनिक, पारदर्शी, प्रौद्योगिकी-आधारित और प्रतिस्पर्धी बना दिया है। उन्होंने कहा कि मंत्रालय ने सहकारिता क्षेत्र के सामने मौजूद प्रमुख चुनौतियों की पहचान की है। इस क्षेत्र के विकास और समाधान के लिए एक व्यापक रूपरेखा तैयार की है और ऐसे सुधार लागू किए हैं जिनसे संपूर्ण तंत्र का आधुनिकीकरण हुआ है। श्री शाह ने कहा कि जब देश 2047 में अपनी स्वतंत्रता की शताब्दी मनाएगा, तब सहकारिता आंदोलन एक समृद्ध भारत की मजबूत नींव बनेगा। 6 जुलाई, 2021 को मंत्रालय की स्थापना को याद करते हुए अमित शाह ने कहा कि इस निर्णय ने सहकारिता क्षेत्र से जुड़े लाखों लोगों के 75 वर्षों के इंतजार को समाप्त कर दिया। श्री शाह ने कहा कि मंत्रालय ने सहकारी क्षेत्र की दशकों पुरानी उपेक्षा को समाप्त करते हुए उसमें नई जान फूंकी है। उन्होंने इस आलोचना को भी खारिज कर दिया कि मंत्रालय राज्यों की शक्तियों में हस्तक्षेप करेगा। मंत्रालय की उपलब्धियों का उल्&#x200d;लेख करते हुए श्री शाह ने कहा कि 30 क्षेत्रों में फैली 85 लाख से अधिक सहकारी समितियों और 32 करोड़ सदस्यों को सम्&#x200d;म&#x200d;िलित करने वाला एक एकीकृत डिजिटल डेटाबेस बनाया गया है। इस डेटाबेस में लेखापरीक्षा स्थिति, कारोबार, ग्रेडिंग और गांवों में सहकारी संस्थानों की उपस्थिति की जानकारी शामिल है। इससे राज्यों को कमियों की पहचान करने और सहकारी नेटवर्क को मजबूत करने में मदद मिलेगी। श्री शाह ने एक राष्ट्रीय रैंकिंग ढांचा शुरू करने की भी घोषणा की। इसके अंतर्गत प्रत्येक क्षेत्र में सर्वश्रेष्ठ प्रदर्शन करने वाली सहकारी समितियों को मान्यता दी जाएगी और उन्हें प्रोत्साहित किया जाएगा। सहकारिता मंत्री ने कहा कि सरकार ने प्राथमिक कृषि ऋण समितियों- पैक्&#x200d;स की भूमिका का विस्तार किया है। इससे वे साझा सेवा केंद्रों के माध्यम से तीन सौ से अधिक सेवाएं प्रदान कर सकेंगी। उन्होंने कहा कि 55 हजार पैक्&#x200d;स अब रेलवे टिकट बुकिंग, जन्म और मृत्यु पंजीकरण, सरकारी योजनाओं के लिए आवेदन और डिजिटल भुगतान सहित सेवाएं प्रदान कर रही हैं। श्री शाह ने कहा कि 39 हजार पैक्&#x200d;स किसान समृद्धि केंद्र बन गए हैं। 600 से अधिक पैक्&#x200d;स जन औषधि केंद्र चला रहे हैं, जबकि कई अन्य ईंधन आउटलेट और जल आपूर्ति योजनाओं का प्रबंधन कर रहे हैं।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:36:01+00:00",
-        "link": "https://newsonair.gov.in/hi/the-ministry-of-cooperation-has-infused-new-energy-into-the-lives-of-30-crore-people-union-minister-amit-shah/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "आज जकार्ता में इंडोनेशिया के राष्ट्रपति प्राबोवो सुबियांतो के साथ बातचीत करेंगे प्रधानमंत्री नरेंद्र मोदी",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता करेंगे। इस वार्ता में द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की जाएगी और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की जाएगी। दोनों नेता आपसी हित के क्षेत्रों में सहयोग बढ़ाने के उद्देश्य […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता करेंगे। इस वार्ता में द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की जाएगी और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की जाएगी। दोनों नेता आपसी हित के क्षेत्रों में सहयोग बढ़ाने के उद्देश्य से समझौता ज्ञापनों के आदान-प्रदान का साक्षी भी बनेंगे। प्रधानमंत्री मोदी के कार्यक्रम की शुरुआत सुबह साढे दस बजे औपचारिक स्वागत समारोह से होगी। इसके बाद अतिथि पुस्तिका पर हस्ताक्षर किए जाएंगे। श्री मोदी इंडोनेशिया के संसद परिसर में भी कार्यक्रम में शामिल होंगे, जहां वे दोनों देशों के बीच संसदीय सहयोग के महत्व का उल्&#x200d;लेख करेंगे। वे एक सामुदायिक कार्यक्रम में भी भाग लेंगे, जहां वे प्रवासी भारतीय समुदाय के सदस्यों से बातचीत करेंगे। श्री मोदी कल इंडोनेशिया के राष्ट्रपति के निमंत्रण पर तीन दिवसीय राजकीय यात्रा पर जकार्ता पहुंचे। राष्ट्रपति प्रबावो ने हवाई अड्डे पर प्रधानमंत्री का व्यक्तिगत रूप से स्वागत किया। इंडोनेशिया की वायु सेना के लड़ाकू विमानों ने प्रधानमंत्री के विमान को इंडोनेशिया के हवाई क्षेत्र में प्रवेश करने के बाद सुरक्षा प्रदान की। प्रधानमंत्री मोदी ने कहा कि वे राष्ट्रपति प्रबोवो के साथ भारत-इंडोनेशिया व्यापक रणनीतिक साझेदारी को नई गति प्रदान करने के लिए चर्चा करने के लिए उत्सुक हैं। इस साझेदारी की स्थापना उनकी 2018 की यात्रा के दौरान हुई थी। जकार्ता पहुंचने पर प्रस्तुत समृद्ध सांस्कृतिक प्रस्तुतियों की प्रशंसा करते हुए प्रधानमंत्री मोदी ने कहा कि ये भारत और इंडोनेशिया के बीच साझा किए गए गहरे सभ्यतागत, सांस्कृतिक और आध्यात्मिक संबंधों को दर्शाती हैं। प्रधानमंत्री ने इंडोनेशियाई विद्यार्थियों के समन्वय समूह द्वारा प्रस्तुत भरतनाट्यम की भी सराहना की। प्रवासी भारतीय समुदाय के सदस्यों द्वारा गर्मजोशी से स्वागत किए जाने के बाद, प्रधानमंत्री ने कई प्रस्तुतियाँ देखीं। इनमें रामायण का चित्रण करने वाली इंडोनेशिया की प्रतिष्ठित वायंग कुलित छाया कठपुतली कला, इंडोनेशिया के विद्यार्थियों द्वारा भरतनाट्यम की प्रस्तुति और त्रिरत्न को समर्पित एक भक्तिपूर्ण बौद्ध नृत्य शामिल थे। भारतीय समुदाय के प्रति आभार व्यक्त करते हुए प्रधानमंत्री ने कहा कि जकार्ता में मिले गर्मजोशी भरे स्वागत से वे भावविभोर हैं। जकार्ता के होटल पहुंचने पर प्रधानमंत्री मोदी का प्रवासी भारतीय समुदाय ने जोरदार स्वागत किया। इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने कहा कि प्रधानमंत्री की इंडोनेशिया यात्रा दक्षिण-पूर्व एशिया की सबसे बड़ी अर्थव्यवस्था के साथ भारत की रणनीतिक साझेदारी में एक महत्वपूर्ण उन्नयन का संकेत है। उन्होंने कहा कि रक्षा, समुद्री सुरक्षा, डिजिटल संपर्क, महत्वपूर्ण खनिजों और व्यापार के क्षेत्रों में कई महत्वपूर्ण घोषणाएं होने की उम्मीद है। व्यापक रणनीतिक साझेदारी के स्तर पर संबंधों को उन्नत करने के बाद प्रधानमंत्री मोदी की इंडोनेशिया की यह पहली द्विपक्षीय यात्रा है। इससे पहले राष्ट्रपति प्रबोवो सुबियांतो जनवरी 2025 में गणतंत्र दिवस समारोह के मुख्य अतिथि के रूप में भारत की राजकीय यात्रा पर आए थे। इंडोनेशिया प्रधानमंत्री मोदी की तीन देशों की यात्रा का पहला पड़ाव है। तीन देशों की यात्रा में इस सप्ताह के अंत में ऑस्ट्रेलिया और न्यूजीलैंड की यात्राएं भी शामिल हैं।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:24:26+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-hold-talks-with-indonesian-president-prabowo-subianto-in-jakarta-today/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गुजरात, सौराष्ट्र, कच्छ, मध्य महाराष्ट्र और तटीय कर्नाटक में आज मूसलाधार वर्षा का रेड अलर्ट",
-        "summary": "मौसम विभाग ने गुजरात, सौराष्ट्र, कच्छ, मध्य महाराष्ट्र और तटीय कर्नाटक में आज मूसलाधार वर्षा का रेड अलर्ट जारी किया है। अगले दो दिनों में दिल्ली, हरियाणा, चंडीगढ़, पंजाब, बिहार, छत्तीसगढ़, हिमाचल प्रदेश, सिक्किम, उत्तराखंड, मध्य प्रदेश, विदर्भ, पश्चिम बंगाल के तराई वाले क्षेत्रों और कर्नाटक के भीतरी हिस्सों में भी मूसलाधार वर्षा का अनुमान […]",
-        "article": "मौसम विभाग ने गुजरात, सौराष्ट्र, कच्छ, मध्य महाराष्ट्र और तटीय कर्नाटक में आज मूसलाधार वर्षा का रेड अलर्ट जारी किया है। अगले दो दिनों में दिल्ली, हरियाणा, चंडीगढ़, पंजाब, बिहार, छत्तीसगढ़, हिमाचल प्रदेश, सिक्किम, उत्तराखंड, मध्य प्रदेश, विदर्भ, पश्चिम बंगाल के तराई वाले क्षेत्रों और कर्नाटक के भीतरी हिस्सों में भी मूसलाधार वर्षा का अनुमान है। जम्मू-कश्मीर, लद्दाख, झारखंड, केरलम, माहे, ओडिशा, राजस्थान, पश्चिमी उत्तर प्रदेश और पूर्वोत्तर क्षेत्र के कुछ हिस्सों में भी अगले तीन से चार दिनों तक ऐसी ही स्थिति रहने की संभावना है। मौसम विभाग ने अगले तीन से चार दिनों में अंडमान और निकोबार द्वीप समूह, आंध्र प्रदेश, पश्चिम बंगाल के गंगा की तलहटी वाले क्षेत्रों, अरुणाचल प्रदेश, असम, मेघालय, छत्तीसगढ़, नागालैंड, मणिपुर, मिजोरम और त्रिपुरा में तेज हवाओं के साथ बिजली कड़कने और तूफान की आशंका व्यक्त की है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:11:28+00:00",
-        "link": "https://newsonair.gov.in/hi/red-alert-for-torrential-rain-today-in-gujarat-saurashtra-kutch-madhya-maharashtra-and-coastal-karnataka/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भुवनेश्वर में आज से जनजातीय अनुसंधान संस्थानों को सुदृढ़ बनाने पर दो दिवसीय राष्ट्रीय कार्यशाला",
-        "summary": "जनजातीय कार्य मंत्रालय आज से ओडिशा के भुवनेश्वर में जनजातीय अनुसंधान संस्थानों को सुदृढ़ बनाने पर दो दिन की राष्ट्रीय कार्यशाला का आयोजन करेगा। जनजातीय कार्य मंत्री जुएल ओराम कार्यशाला का उद्घाटन करेंगे। कार्यशाला में लगभग दो सौ प्रतिभागी भाग लेंगे। इस अवसर पर जनजातीय कार्य मंत्रालय और वाराणसी के संपूर्णानंद संस्कृत विश्वविद्यालय के बीच […]",
-        "article": "जनजातीय कार्य मंत्रालय आज से ओडिशा के भुवनेश्वर में जनजातीय अनुसंधान संस्थानों को सुदृढ़ बनाने पर दो दिन की राष्ट्रीय कार्यशाला का आयोजन करेगा। जनजातीय कार्य मंत्री जुएल ओराम कार्यशाला का उद्घाटन करेंगे। कार्यशाला में लगभग दो सौ प्रतिभागी भाग लेंगे। इस अवसर पर जनजातीय कार्य मंत्रालय और वाराणसी के संपूर्णानंद संस्कृत विश्वविद्यालय के बीच एक समझौता ज्ञापन पर हस्ताक्षर किये जायेंगे। कार्यक्रम के दौरान ट्राइबएक्स नामक एक डिजिटल शिक्षण मंच का भी शुभारंभ किया जाएगा। यह मंच जनजातीय कला, संस्कृति, भाषाओं, पारंपरिक ज्ञान और कौशल विकास को समर्पित होगा। कार्यशाला का उद्देश्य देश भर में जनजातीय अनुसंधान संस्थानों के कामकाज की समीक्षा करना और उन्हें जीवंत ज्ञान संस्थानों, सांस्कृतिक संसाधन केंद्रों और जनजातीय विकास के लिए नीतिगत सहायता केंद्रों में परिवर्तित करने के लिए एक व्यापक कार्यसूची विकसित करना है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T02:46:03+00:00",
-        "link": "https://newsonair.gov.in/hi/two-day-national-workshop-on-strengthening-tribal-research-institutes-begins-in-bhubaneswar-today/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-इंडोनेशिया के संबंध सकारात्मक दिशा में अग्रसर, पीएम की यात्रा इस प्रवृत्ति को और बल देगी: इंडोनेशिया में भारत के राजदूत",
-        "summary": "इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने कहा है कि प्रधानमंत्री की यात्रा से रक्षा, व्यापार, ऊर्जा, खाद्य सुरक्षा, शिक्षा और स्वास्थ्य सेवाओं से जुड़े कई समझौतों का मार्ग प्रशस्त होने की उम्मीद है। इससे भारत और इंडोनेशिया अपनी व्यापक रणनीतिक साझेदारी को और मजबूत करने के लिए तैयार हैं। एक निजी समाचार चैनल […]",
-        "article": "इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने कहा है कि प्रधानमंत्री की यात्रा से रक्षा, व्यापार, ऊर्जा, खाद्य सुरक्षा, शिक्षा और स्वास्थ्य सेवाओं से जुड़े कई समझौतों का मार्ग प्रशस्त होने की उम्मीद है। इससे भारत और इंडोनेशिया अपनी व्यापक रणनीतिक साझेदारी को और मजबूत करने के लिए तैयार हैं। एक निजी समाचार चैनल से बातचीत में श्री चक्रवर्ती ने कहा कि इस यात्रा से द्विपक्षीय सहयोग को और मजबूती मिलेगी। उन्&#x200d;होंने कहा कि प्रधानमंत्री की यात्रा से समुद्री और आर्थिक संबंध सुदृढ़ होंगे और उभरते क्षेत्रों में सहयोग गहरा होगा। राजदूत ने कहा कि भारत और इंडोनेशिया के संबंध सकारात्मक दिशा में अग्रसर हैं और प्रधानमंत्री की यात्रा इस प्रवृत्ति को और बल देगी। उन्&#x200d;होंने कहा कि दोनों देश पांच प्रमुख क्षेत्रों में सहयोग की पहल की घोषणा कर सकते हैं। इनमें रक्षा और समुद्री सुरक्षा, व्यापार और निवेश, खाद्य सुरक्षा और उर्वरक सहयोग, ऊर्जा सुरक्षा और महत्वपूर्ण खनिज, शिक्षा और स्वास्थ्य सेवाएं शामिल हैं। दोनों देशों के घनिष्ठ संबंधों का उल्&#x200d;लेख करते हुए श्री चक्रवर्ती ने कहा कि भारत और इंडोनेशिया रणनीतिक साझेदार हैं। दोनों देश एक-दूसरे के बहुत करीब स्थित हैं। उन्होंने कहा कि भारत के निकोबार द्वीप समूह इंडोनेशिया के आचेह प्रांत से मात्र 160 किलोमीटर दूर हैं, जो हिंद-प्रशांत क्षेत्र में समुद्री संबंधों के महत्व को दर्शाता है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T02:27:46+00:00",
-        "link": "https://newsonair.gov.in/hi/india-indonesia-relations-moving-in-a-positive-direction-pms-visit-will-further-strengthen-this-trend-indias-ambassador-to-indonesia/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "world": [
       {
         "title": "यूक्रेन की राजधानी कीव पर रूस का मिसाइल हमला, 18 लोगों की मौत 60 घायल",
         "summary": "यूक्रेन की राजधानी कीव पर रूस के मिसाइल और ड्रोन हमलों से 18 लोग मारे गए, जबकि 60 घायल हुए हैं। यूक्रेन की वायु सेना ने कहा कि रूस ने बैलिस्टिक और क्रूज मिसाइलों तथा ड्रोन हमले किए हैं। इन हमलों से पोडिल्स्की जिले में एक आवासीय इमारत आंशिक रूप से ढह गई। डार्नित्सिया जिले […]",
@@ -1515,70 +1164,420 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMiY5G2aQAA7xhm.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
+      }
+    ],
+    "breaking": [
       {
-        "title": "सूडान में जारी गृहयुद्ध में 300 से अधिक बच्चे हताहत: यूनिसेफ",
-        "summary": "संयुक्त राष्ट्र बाल कोष (यूनिसेफ) ने बताया है कि सूडान में पिछले 6 महीनों से जारी युद्ध में 300 से अधिक बच्चे हताहत हुए हैं, जिनमें से अधिकतर ड्रोन हमलों के शिकार हुए हैं। अप्रैल 2023 से सूडानी सेना और रैपिड सपोर्ट फोर्सेज (आर.एस.एफ) के बीच जारी इस युद्ध में, कोरदोफान, दारफुर और ब्लू नाइल […]",
-        "article": "संयुक्त राष्ट्र बाल कोष (यूनिसेफ) ने बताया है कि सूडान में पिछले 6 महीनों से जारी युद्ध में 300 से अधिक बच्चे हताहत हुए हैं, जिनमें से अधिकतर ड्रोन हमलों के शिकार हुए हैं। अप्रैल 2023 से सूडानी सेना और रैपिड सपोर्ट फोर्सेज (आर.एस.एफ) के बीच जारी इस युद्ध में, कोरदोफान, दारफुर और ब्लू नाइल राज्यों में 60 प्रतिशत मौतें ड्रोन हमलों से हुई हैं। संयुक्त राष्ट्र, अमरीका और ब्रिटेन सहित कई देशों ने उत्तरी कोरदोफान की राजधानी अल-ओबेद में बड़े पैमाने पर संभावित अत्याचारों को लेकर गंभीर चिंता व्यक्त की है। वैश्विक नेताओं ने दोनों पक्षों से नागरिकों की सुरक्षा सुनिश्चित करने और युद्ध अपराधों को रोकने की अपील की है। संयुक्त राष्ट्र मानवाधिकार परिषद ने जिनेवा में सर्वसम्मति से एक प्रस्ताव को मंजूरी दी है, जिसमें अल-ओबेद शहर और उसके आसपास अर्धसैनिक रैपिड सपोर्ट फोर्सेज तथा उसके सहयोगियों द्वारा बढ़ती हिंसा की कड़ी निंदा की गई है। पांच यूरोपीय देशों द्वारा बिना मतदान के लाए गए इस विधेयक में सूडानी शरणार्थियों को आश्रय देने वाले देशों को अधिक वित्तीय सहायता और समर्थन देने की अपील की गई है तथा युद्ध में किसी भी प्रकार के बाहरी हस्तक्षेप के सभी रूपों की निंदा की गई है। अप्रैल 2023 से जारी इस गृहयुद्ध में अब तक लगभग 59 हजार लोग मारे गए हैं, जबकि करीब 1 करोड़ 30 लाख लोग विस्थापित हुए हैं। सूडान के कई हिस्सों में अकाल पड़ा है। सूडान में यूनिसेफ के प्रतिनिधि शेल्डन येट ने कहा है कि 3 करोड़ से अधिक लोगों को मानवीय सहायता की आवश्यकता है।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T11:24:38+00:00",
-        "link": "https://newsonair.gov.in/hi/over-300-children-casualties-in-ongoing-sudan-civil-war-unicef/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-4.jpg",
+        "title": "तटीय कर्नाटक, गुजरात, कोंकण, गोवा और मध्य महाराष्ट्र के कुछ हिस्सों में भारी बारिश का अनुमान",
+        "summary": "मौसम विभाग ने आज तटीय कर्नाटक, गुजरात, कोंकण, गोवा और मध्य महाराष्ट्र के कुछ हिस्सों में भारी बारिश का अनुमान व्यक्त किया है। अरुणाचल प्रदेश, बिहार, छत्तीसगढ़, पूर्वी राजस्थान, हिमाचल प्रदेश, आंतरिक कर्नाटक, मध्य प्रदेश, उप-हिमालयी पश्चिम बंगाल और सिक्किम के कुछ हिस्सों में भी भारी बारिश की संभावना है। दिल्ली, हरियाणा, चंडीगढ़, उत्तर-पूर्वी भारत […]",
+        "article": "मौसम विभाग ने आज तटीय कर्नाटक, गुजरात, कोंकण, गोवा और मध्य महाराष्ट्र के कुछ हिस्सों में भारी बारिश का अनुमान व्यक्त किया है। अरुणाचल प्रदेश, बिहार, छत्तीसगढ़, पूर्वी राजस्थान, हिमाचल प्रदेश, आंतरिक कर्नाटक, मध्य प्रदेश, उप-हिमालयी पश्चिम बंगाल और सिक्किम के कुछ हिस्सों में भी भारी बारिश की संभावना है। दिल्ली, हरियाणा, चंडीगढ़, उत्तर-पूर्वी भारत के कुछ हिस्सों, ओडिशा, पंजाब और उत्तर प्रदेश में भी हल्की से मध्यम बारिश हो सकती है। कर्नाटक और तेलंगाना में आज गरज के साथ आंधी की संभावना है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T05:35:53+00:00",
+        "link": "https://newsonair.gov.in/hi/heavy-rain-forecast-for-coastal-karnataka-gujarat-konkan-goa-and-parts-of-madhya-maharashtra/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/imd-5-1-13.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "तेहरान में अली खामेनेई की अंतिम यात्रा शुरू, बड़ी संख्या में लोग शामिल",
-        "summary": "ईरान के दिवंगत सर्वोच्च नेता अली खामेनेई की अंतिम यात्रा राजधानी तेहरान में दो दिवसीय अंतिम दर्शन के बाद शुरू हुई, जिसमें भारी जनसमूह उमड़ पड़ा। खामेनेई और युद्ध में मारे गए उनके परिवार के अन्य सदस्यों के ताबूतों को एक ट्रक में ले जाया जा रहा है। ये ताबूत मेहराबाद अंतरराष्ट्रीय हवाई अड्डे तक […]",
-        "article": "ईरान के दिवंगत सर्वोच्च नेता अली खामेनेई की अंतिम यात्रा राजधानी तेहरान में दो दिवसीय अंतिम दर्शन के बाद शुरू हुई, जिसमें भारी जनसमूह उमड़ पड़ा। खामेनेई और युद्ध में मारे गए उनके परिवार के अन्य सदस्यों के ताबूतों को एक ट्रक में ले जाया जा रहा है। ये ताबूत मेहराबाद अंतरराष्ट्रीय हवाई अड्डे तक तेहरान की सड़कों से होकर गुजरेंगे। ताबूतों को ले जा रही अंतिम यात्रा आज सुबह तेहरान की सड़कों से शुरू हुई।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T07:58:11+00:00",
-        "link": "https://newsonair.gov.in/hi/ali-khameneis-funeral-procession-begins-in-tehran-large-numbers-of-people-are-participating/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shanghai-7-1.png",
+        "title": "केंद्रीय मंत्री नितिन गडकरी ने राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की",
+        "summary": "सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की। बैठक में देशभर में बनाए जा रहे बहु-माध्यम माल परिवहन पार्क, रोपवे और राजमार्गों के किनारे यात्रियों के लिए विकसित की जा रही सुविधाओं की प्रगति की समीक्षा की गई। श्री गडकरी ने कहा कि ये योजनाएं […]",
+        "article": "सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की। बैठक में देशभर में बनाए जा रहे बहु-माध्यम माल परिवहन पार्क, रोपवे और राजमार्गों के किनारे यात्रियों के लिए विकसित की जा रही सुविधाओं की प्रगति की समीक्षा की गई। श्री गडकरी ने कहा कि ये योजनाएं देश में आधुनिक और बेहतर परिवहन व्यवस्था बनाने में महत्वपूर्ण भूमिका निभाएंगी। उन्होंने कहा कि इससे सड़क, रेल और अन्य परिवहन साधनों के बीच बेहतर संपर्क स्थापित होगा। श्री गडकरी ने कहा कि इनसे नए रोजगार और व्यापार के अवसर बढ़ेंगे, सभी क्षेत्रों का संतुलित विकास होगा और देश की माल परिवहन व्यवस्था अधिक मजबूत बनेगी। बैठक में श्री गडकरी ने योजनाओं के कार्य में आ रही चुनौतियों की भी समीक्षा की। उन्होंने संबंधित अधिकारियों और सभी पक्षों को निर्देश दिए कि सभी बाधाओं को शीघ्र दूर किया जाए और योजनाओं का कार्य तेज़ी से पूरा किया जाए। श्री गडकरी ने कहा कि इन योजनाओं के समय पर पूरा होने से माल परिवहन अधिक आसान और कम खर्चीला होगा। उन्&#x200d;होंने कहा कि इससे यात्रियों को बेहतर सुविधाएं मिलेंगी और देश में विश्वस्तरीय परिवहन ढांचा तैयार होगा।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:46:00+00:00",
+        "link": "https://newsonair.gov.in/hi/union-minister-nitin-gadkari-held-a-review-meeting-of-the-national-highways-logistics-management-limited-2/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MLEsE30w_400x400-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "विदेश मंत्री डॉ एस. जयशंकर ने कोमोरोस संघ की सरकार को उनके स्‍वतंत्रता दिवस पर बधाई",
-        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कोमोरोस संघ के विदेश मंत्री म्बाए मोहम्मद तथा वहां की सरकार और लोगों को उनके स्‍वतंत्रता दिवस पर बधाई दी है। सोशल मीडिया में पोस्‍ट डॉ. जयशंकर ने दोनों देशों के बीच विजन महासागर से संबंधित समझौतों के प्रति अपनी प्रतिबद्धता दोहराई है। विदेश मंत्री ने मलावी के विदेश […]",
-        "article": "विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कोमोरोस संघ के विदेश मंत्री म्बाए मोहम्मद तथा वहां की सरकार और लोगों को उनके स्&#x200d;वतंत्रता दिवस पर बधाई दी है। सोशल मीडिया में पोस्&#x200d;ट डॉ. जयशंकर ने दोनों देशों के बीच विजन महासागर से संबंधित समझौतों के प्रति अपनी प्रतिबद्धता दोहराई है। विदेश मंत्री ने मलावी के विदेश मंत्री डॉ. जॉर्ज टी. चापोंडा और वहां की जनता को भी उनके स्&#x200d;वतंत्रता दिवस पर बधाई दी हैं।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T06:15:17+00:00",
-        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-congratulated-the-government-of-the-union-of-the-comoros-on-its-independence-day/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMhPwv5agAA3ojl.jpg",
+        "title": "सहकारिता मंत्रालय ने 30 करोड़ लोगों के जीवन में नई ऊर्जा का संचार किया : केंद्रीय मंत्री अमित शाह",
+        "summary": "केंद्रीय सहकारिता मंत्री अमित शाह ने कहा है कि सहकारिता मंत्रालय ने पिछले पांच वर्षों में सहकारिता क्षेत्र से जुड़े लगभग तीस करोड़ लोगों के जीवन में नई ऊर्जा का संचार किया है। नई दिल्ली में सहकारिता मंत्रालय के पांचवें स्थापना दिवस समारोह को संबोधित करते हुए श्री शाह ने कहा कि प्रधानमंत्री नरेंद्र मोदी […]",
+        "article": "केंद्रीय सहकारिता मंत्री अमित शाह ने कहा है कि सहकारिता मंत्रालय ने पिछले पांच वर्षों में सहकारिता क्षेत्र से जुड़े लगभग तीस करोड़ लोगों के जीवन में नई ऊर्जा का संचार किया है। नई दिल्ली में सहकारिता मंत्रालय के पांचवें स्थापना दिवस समारोह को संबोधित करते हुए श्री शाह ने कहा कि प्रधानमंत्री नरेंद्र मोदी द्वारा 2021 में स्थापित इस मंत्रालय ने सहकारिता तंत्र को आधुनिक, पारदर्शी, प्रौद्योगिकी-आधारित और प्रतिस्पर्धी बना दिया है। उन्होंने कहा कि मंत्रालय ने सहकारिता क्षेत्र के सामने मौजूद प्रमुख चुनौतियों की पहचान की है। इस क्षेत्र के विकास और समाधान के लिए एक व्यापक रूपरेखा तैयार की है और ऐसे सुधार लागू किए हैं जिनसे संपूर्ण तंत्र का आधुनिकीकरण हुआ है। श्री शाह ने कहा कि जब देश 2047 में अपनी स्वतंत्रता की शताब्दी मनाएगा, तब सहकारिता आंदोलन एक समृद्ध भारत की मजबूत नींव बनेगा। 6 जुलाई, 2021 को मंत्रालय की स्थापना को याद करते हुए अमित शाह ने कहा कि इस निर्णय ने सहकारिता क्षेत्र से जुड़े लाखों लोगों के 75 वर्षों के इंतजार को समाप्त कर दिया। श्री शाह ने कहा कि मंत्रालय ने सहकारी क्षेत्र की दशकों पुरानी उपेक्षा को समाप्त करते हुए उसमें नई जान फूंकी है। उन्होंने इस आलोचना को भी खारिज कर दिया कि मंत्रालय राज्यों की शक्तियों में हस्तक्षेप करेगा। मंत्रालय की उपलब्धियों का उल्&#x200d;लेख करते हुए श्री शाह ने कहा कि 30 क्षेत्रों में फैली 85 लाख से अधिक सहकारी समितियों और 32 करोड़ सदस्यों को सम्&#x200d;म&#x200d;िलित करने वाला एक एकीकृत डिजिटल डेटाबेस बनाया गया है। इस डेटाबेस में लेखापरीक्षा स्थिति, कारोबार, ग्रेडिंग और गांवों में सहकारी संस्थानों की उपस्थिति की जानकारी शामिल है। इससे राज्यों को कमियों की पहचान करने और सहकारी नेटवर्क को मजबूत करने में मदद मिलेगी। श्री शाह ने एक राष्ट्रीय रैंकिंग ढांचा शुरू करने की भी घोषणा की। इसके अंतर्गत प्रत्येक क्षेत्र में सर्वश्रेष्ठ प्रदर्शन करने वाली सहकारी समितियों को मान्यता दी जाएगी और उन्हें प्रोत्साहित किया जाएगा। सहकारिता मंत्री ने कहा कि सरकार ने प्राथमिक कृषि ऋण समितियों- पैक्&#x200d;स की भूमिका का विस्तार किया है। इससे वे साझा सेवा केंद्रों के माध्यम से तीन सौ से अधिक सेवाएं प्रदान कर सकेंगी। उन्होंने कहा कि 55 हजार पैक्&#x200d;स अब रेलवे टिकट बुकिंग, जन्म और मृत्यु पंजीकरण, सरकारी योजनाओं के लिए आवेदन और डिजिटल भुगतान सहित सेवाएं प्रदान कर रही हैं। श्री शाह ने कहा कि 39 हजार पैक्&#x200d;स किसान समृद्धि केंद्र बन गए हैं। 600 से अधिक पैक्&#x200d;स जन औषधि केंद्र चला रहे हैं, जबकि कई अन्य ईंधन आउटलेट और जल आपूर्ति योजनाओं का प्रबंधन कर रहे हैं।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:36:01+00:00",
+        "link": "https://newsonair.gov.in/hi/the-ministry-of-cooperation-has-infused-new-energy-into-the-lives-of-30-crore-people-union-minister-amit-shah/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/6.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "रूस ने कीव पर बैलिस्टिक मिसाइल से हमला किया",
-        "summary": "रूस ने आज सुबह यूक्रेन की राजधानी कीव पर बैलिस्टिक मिसाइल से हमला किया। यह हमला तुर्किए में होने वाले महत्वपूर्ण नाटो शिखर सम्मेलन से एक दिन पहले हुआ है, जिसमें अमरीका के राष्ट्रपति डॉनल्ड ट्रंप के शामिल होने की उम्मीद है। यूक्रेन की वायु सेना ने कहा कि रूस ने हमले में बैलिस्टिक […]",
-        "article": "रूस ने आज सुबह यूक्रेन की राजधानी कीव पर बैलिस्टिक मिसाइल से हमला किया। यह हमला तुर्किए में होने वाले महत्वपूर्ण नाटो शिखर सम्मेलन से एक दिन पहले हुआ है, जिसमें अमरीका के राष्ट्रपति डॉनल्ड ट्रंप के शामिल होने की उम्मीद है। यूक्रेन की वायु सेना ने कहा कि रूस ने हमले में बैलिस्टिक मिसाइलों, क्रूज मिसाइलों और ड्रोन का इस्तेमाल किया। तड़के कीव के मध्य भाग में धमाकों की आवाज सुनी गईं। कीव के मेयर विटाली क्लिट्स्को ने कहा कि दो जिलों में आग लगने या मलबा गिरने से नुकसान होने की सूचना मिली है। यूक्रेन के राष्ट्रपति वोलोद्यमीर ज़ेलेंस्की ने कल चेतावनी दी थी कि खुफिया जानकारी से संकेत मिले हैं कि रूस बड़े हमले की तैयारी कर रहा है।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T06:09:28+00:00",
-        "link": "https://newsonair.gov.in/hi/russia-attacked-kyiv-with-a-ballistic-missile/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMhaj1CaMAAzSaP.jpg",
+        "title": "आज जकार्ता में इंडोनेशिया के राष्ट्रपति प्राबोवो सुबियांतो के साथ बातचीत करेंगे प्रधानमंत्री नरेंद्र मोदी",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी आज जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता करेंगे। इस वार्ता में द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की जाएगी और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की जाएगी। दोनों नेता आपसी हित के क्षेत्रों में सहयोग बढ़ाने के उद्देश्य […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी आज जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता करेंगे। इस वार्ता में द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की जाएगी और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की जाएगी। दोनों नेता आपसी हित के क्षेत्रों में सहयोग बढ़ाने के उद्देश्य से समझौता ज्ञापनों के आदान-प्रदान का साक्षी भी बनेंगे। प्रधानमंत्री मोदी के कार्यक्रम की शुरुआत सुबह साढे दस बजे औपचारिक स्वागत समारोह से होगी। इसके बाद अतिथि पुस्तिका पर हस्ताक्षर किए जाएंगे। श्री मोदी इंडोनेशिया के संसद परिसर में भी कार्यक्रम में शामिल होंगे, जहां वे दोनों देशों के बीच संसदीय सहयोग के महत्व का उल्&#x200d;लेख करेंगे। वे एक सामुदायिक कार्यक्रम में भी भाग लेंगे, जहां वे प्रवासी भारतीय समुदाय के सदस्यों से बातचीत करेंगे। श्री मोदी कल इंडोनेशिया के राष्ट्रपति के निमंत्रण पर तीन दिवसीय राजकीय यात्रा पर जकार्ता पहुंचे। राष्ट्रपति प्रबावो ने हवाई अड्डे पर प्रधानमंत्री का व्यक्तिगत रूप से स्वागत किया। इंडोनेशिया की वायु सेना के लड़ाकू विमानों ने प्रधानमंत्री के विमान को इंडोनेशिया के हवाई क्षेत्र में प्रवेश करने के बाद सुरक्षा प्रदान की। प्रधानमंत्री मोदी ने कहा कि वे राष्ट्रपति प्रबोवो के साथ भारत-इंडोनेशिया व्यापक रणनीतिक साझेदारी को नई गति प्रदान करने के लिए चर्चा करने के लिए उत्सुक हैं। इस साझेदारी की स्थापना उनकी 2018 की यात्रा के दौरान हुई थी। जकार्ता पहुंचने पर प्रस्तुत समृद्ध सांस्कृतिक प्रस्तुतियों की प्रशंसा करते हुए प्रधानमंत्री मोदी ने कहा कि ये भारत और इंडोनेशिया के बीच साझा किए गए गहरे सभ्यतागत, सांस्कृतिक और आध्यात्मिक संबंधों को दर्शाती हैं। प्रधानमंत्री ने इंडोनेशियाई विद्यार्थियों के समन्वय समूह द्वारा प्रस्तुत भरतनाट्यम की भी सराहना की। प्रवासी भारतीय समुदाय के सदस्यों द्वारा गर्मजोशी से स्वागत किए जाने के बाद, प्रधानमंत्री ने कई प्रस्तुतियाँ देखीं। इनमें रामायण का चित्रण करने वाली इंडोनेशिया की प्रतिष्ठित वायंग कुलित छाया कठपुतली कला, इंडोनेशिया के विद्यार्थियों द्वारा भरतनाट्यम की प्रस्तुति और त्रिरत्न को समर्पित एक भक्तिपूर्ण बौद्ध नृत्य शामिल थे। भारतीय समुदाय के प्रति आभार व्यक्त करते हुए प्रधानमंत्री ने कहा कि जकार्ता में मिले गर्मजोशी भरे स्वागत से वे भावविभोर हैं। जकार्ता के होटल पहुंचने पर प्रधानमंत्री मोदी का प्रवासी भारतीय समुदाय ने जोरदार स्वागत किया। इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने कहा कि प्रधानमंत्री की इंडोनेशिया यात्रा दक्षिण-पूर्व एशिया की सबसे बड़ी अर्थव्यवस्था के साथ भारत की रणनीतिक साझेदारी में एक महत्वपूर्ण उन्नयन का संकेत है। उन्होंने कहा कि रक्षा, समुद्री सुरक्षा, डिजिटल संपर्क, महत्वपूर्ण खनिजों और व्यापार के क्षेत्रों में कई महत्वपूर्ण घोषणाएं होने की उम्मीद है। व्यापक रणनीतिक साझेदारी के स्तर पर संबंधों को उन्नत करने के बाद प्रधानमंत्री मोदी की इंडोनेशिया की यह पहली द्विपक्षीय यात्रा है। इससे पहले राष्ट्रपति प्रबोवो सुबियांतो जनवरी 2025 में गणतंत्र दिवस समारोह के मुख्य अतिथि के रूप में भारत की राजकीय यात्रा पर आए थे। इंडोनेशिया प्रधानमंत्री मोदी की तीन देशों की यात्रा का पहला पड़ाव है। तीन देशों की यात्रा में इस सप्ताह के अंत में ऑस्ट्रेलिया और न्यूजीलैंड की यात्राएं भी शामिल हैं।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:24:26+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-hold-talks-with-indonesian-president-prabowo-subianto-in-jakarta-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/8-2.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "पेट्रोलियम निर्यातक देशों के संगठन और गैर-ओपेक तेल उत्पादक देशों ने तेल उत्‍पादन बढ़ाने पर किया विचार",
-        "summary": "पेट्रोलियम निर्यातक देशों के संगठन और रूस सहित 10 अन्य प्रमुख गैर-ओपेक तेल उत्पादक देश ने अगले महीने तेल उत्‍पादन बढ़ाने पर विचार किया है। इससे तेल आपूर्ति बढ़ेगी। ईंधन की कीमतें ईरान के साथ अमरीका और इस्राएल का संघर्ष शुरू होने से पहले के स्तर तक आ गयी हैं। ओपेक प्‍लस संगठन ने कल […]",
-        "article": "पेट्रोलियम निर्यातक देशों के संगठन और रूस सहित 10 अन्य प्रमुख गैर-ओपेक तेल उत्पादक देश ने अगले महीने तेल उत्&#x200d;पादन बढ़ाने पर विचार किया है। इससे तेल आपूर्ति बढ़ेगी। ईंधन की कीमतें ईरान के साथ अमरीका और इस्राएल का संघर्ष शुरू होने से पहले के स्तर तक आ गयी हैं। ओपेक प्&#x200d;लस संगठन ने कल घोषणा की कि सात देश अगस्&#x200d;त म&#x200d;हीने में प्रतिदिन सम्मिलित रूप से कुल एक लाख 88 हजार बैरल तक तेल का उत्&#x200d;पादन करेंगे। साझेदार देशों में सऊदी अरब, रूस, इराक, कुवैत, कजाकिस्तान, अल्जीरिया और ओमान शामिल हैं।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:29:40+00:00",
-        "link": "https://newsonair.gov.in/hi/the-organization-of-the-petroleum-exporting-countries-opec-and-10-other-major-non-opec-oil-producing-nations-including-russia-have-considered-increasing-oil-production-next-month/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/oil-1.jpg",
+        "title": "गुजरात, सौराष्ट्र, कच्छ, मध्य महाराष्ट्र और तटीय कर्नाटक में आज मूसलाधार वर्षा का रेड अलर्ट",
+        "summary": "मौसम विभाग ने गुजरात, सौराष्ट्र, कच्छ, मध्य महाराष्ट्र और तटीय कर्नाटक में आज मूसलाधार वर्षा का रेड अलर्ट जारी किया है। अगले दो दिनों में दिल्ली, हरियाणा, चंडीगढ़, पंजाब, बिहार, छत्तीसगढ़, हिमाचल प्रदेश, सिक्किम, उत्तराखंड, मध्य प्रदेश, विदर्भ, पश्चिम बंगाल के तराई वाले क्षेत्रों और कर्नाटक के भीतरी हिस्सों में भी मूसलाधार वर्षा का अनुमान […]",
+        "article": "मौसम विभाग ने गुजरात, सौराष्ट्र, कच्छ, मध्य महाराष्ट्र और तटीय कर्नाटक में आज मूसलाधार वर्षा का रेड अलर्ट जारी किया है। अगले दो दिनों में दिल्ली, हरियाणा, चंडीगढ़, पंजाब, बिहार, छत्तीसगढ़, हिमाचल प्रदेश, सिक्किम, उत्तराखंड, मध्य प्रदेश, विदर्भ, पश्चिम बंगाल के तराई वाले क्षेत्रों और कर्नाटक के भीतरी हिस्सों में भी मूसलाधार वर्षा का अनुमान है। जम्मू-कश्मीर, लद्दाख, झारखंड, केरलम, माहे, ओडिशा, राजस्थान, पश्चिमी उत्तर प्रदेश और पूर्वोत्तर क्षेत्र के कुछ हिस्सों में भी अगले तीन से चार दिनों तक ऐसी ही स्थिति रहने की संभावना है। मौसम विभाग ने अगले तीन से चार दिनों में अंडमान और निकोबार द्वीप समूह, आंध्र प्रदेश, पश्चिम बंगाल के गंगा की तलहटी वाले क्षेत्रों, अरुणाचल प्रदेश, असम, मेघालय, छत्तीसगढ़, नागालैंड, मणिपुर, मिजोरम और त्रिपुरा में तेज हवाओं के साथ बिजली कड़कने और तूफान की आशंका व्यक्त की है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:11:28+00:00",
+        "link": "https://newsonair.gov.in/hi/red-alert-for-torrential-rain-today-in-gujarat-saurashtra-kutch-madhya-maharashtra-and-coastal-karnataka/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/imd2.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "पुर्तगाल, ग्रीस और स्पेन में जंगल की भीषण आग से जूझ रहे हैं सैकड़ों दमकलकर्मी",
-        "summary": "पुर्तगाल, ग्रीस और स्पेन में सैकड़ों दमकलकर्मी जंगल में लगी भीषण आग से जूझ रहे हैं। स्पेन और इटली ने पुर्तगाल में तीन दिन से लगी भीषण आग को बुझाने में मदद के लिए अतिरिक्त दमकलकर्मी भेजे हैं। ग्रीस के दूसरे सबसे बड़े शहर थेसालोनिकी के कुछ हिस्सों में अधिकारियों ने लोगों से घर के […]",
-        "article": "पुर्तगाल, ग्रीस और स्पेन में सैकड़ों दमकलकर्मी जंगल में लगी भीषण आग से जूझ रहे हैं। स्पेन और इटली ने पुर्तगाल में तीन दिन से लगी भीषण आग को बुझाने में मदद के लिए अतिरिक्त दमकलकर्मी भेजे हैं। ग्रीस के दूसरे सबसे बड़े शहर थेसालोनिकी के कुछ हिस्सों में अधिकारियों ने लोगों से घर के अंदर रहने रखने का आग्रह किया है। यूरोपीय संघ की कोपरनिकस उपग्रह मानचित्रण एजेंसी से मिली जानकारी के अनुसार कल तक जंगल की आग 12 हजार हेक्टेयर क्षेत्र में फैल चुकी थी। यूरोपीय संघ के नागरिक सुरक्षा और मानवीय सहायता विभाग ने बताया कि स्पेन ने शुक्रवार को पुर्तगाल को अतिरिक्त सहायता के रूप में 120 दमकलकर्मी और 45 वाहन भेजे, जबकि इटली और स्पेन से तीन दमकल विमान भी मदद के लिए भेजे गए। स्पेन में पूर्वोत्तर गिरोना क्षेत्र में शुक्रवार से लगी जंगल की आग लगभग 2 हजार दो सौ हेक्टेयर क्षेत्र में फैल चुकी थी।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T03:19:48+00:00",
-        "link": "https://newsonair.gov.in/hi/hundreds-of-firefighters-are-battling-massive-wildfires-in-portugal-greece-and-spain/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/000-68V769L-1.jpg",
+        "title": "भुवनेश्वर में आज से जनजातीय अनुसंधान संस्थानों को सुदृढ़ बनाने पर दो दिवसीय राष्ट्रीय कार्यशाला",
+        "summary": "जनजातीय कार्य मंत्रालय आज से ओडिशा के भुवनेश्वर में जनजातीय अनुसंधान संस्थानों को सुदृढ़ बनाने पर दो दिन की राष्ट्रीय कार्यशाला का आयोजन करेगा। जनजातीय कार्य मंत्री जुएल ओराम कार्यशाला का उद्घाटन करेंगे। कार्यशाला में लगभग दो सौ प्रतिभागी भाग लेंगे। इस अवसर पर जनजातीय कार्य मंत्रालय और वाराणसी के संपूर्णानंद संस्कृत विश्वविद्यालय के बीच […]",
+        "article": "जनजातीय कार्य मंत्रालय आज से ओडिशा के भुवनेश्वर में जनजातीय अनुसंधान संस्थानों को सुदृढ़ बनाने पर दो दिन की राष्ट्रीय कार्यशाला का आयोजन करेगा। जनजातीय कार्य मंत्री जुएल ओराम कार्यशाला का उद्घाटन करेंगे। कार्यशाला में लगभग दो सौ प्रतिभागी भाग लेंगे। इस अवसर पर जनजातीय कार्य मंत्रालय और वाराणसी के संपूर्णानंद संस्कृत विश्वविद्यालय के बीच एक समझौता ज्ञापन पर हस्ताक्षर किये जायेंगे। कार्यक्रम के दौरान ट्राइबएक्स नामक एक डिजिटल शिक्षण मंच का भी शुभारंभ किया जाएगा। यह मंच जनजातीय कला, संस्कृति, भाषाओं, पारंपरिक ज्ञान और कौशल विकास को समर्पित होगा। कार्यशाला का उद्देश्य देश भर में जनजातीय अनुसंधान संस्थानों के कामकाज की समीक्षा करना और उन्हें जीवंत ज्ञान संस्थानों, सांस्कृतिक संसाधन केंद्रों और जनजातीय विकास के लिए नीतिगत सहायता केंद्रों में परिवर्तित करने के लिए एक व्यापक कार्यसूची विकसित करना है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T02:46:03+00:00",
+        "link": "https://newsonair.gov.in/hi/two-day-national-workshop-on-strengthening-tribal-research-institutes-begins-in-bhubaneswar-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMlwyHXaYAE10Hf.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कल से केरल के कोच्चि में शुरू होने वाली दो दिवसीय ब्रिक्स महिला मंत्रिस्तरीय बैठक की मेजबानी करेगा भारत",
+        "summary": "भारत कल से केरल के कोच्चि में शुरू होने वाली दो दिवसीय ब्रिक्स महिला मंत्रिस्तरीय बैठक की मेजबानी करेगा। महिला और बाल विकास मंत्रालय ने बताया कि इस बैठक के दौरान ब्रिक्स सदस्य देशों के मंत्री सहयोग को मजबूत करेंगे और अपने-अपने ब्रिक्स अध्यक्षों के नेतृत्व में महिला नेतृत्व वाले विकास के लिए एक साझा […]",
+        "article": "भारत कल से केरल के कोच्चि में शुरू होने वाली दो दिवसीय ब्रिक्स महिला मंत्रिस्तरीय बैठक की मेजबानी करेगा। महिला और बाल विकास मंत्रालय ने बताया कि इस बैठक के दौरान ब्रिक्स सदस्य देशों के मंत्री सहयोग को मजबूत करेंगे और अपने-अपने ब्रिक्स अध्यक्षों के नेतृत्व में महिला नेतृत्व वाले विकास के लिए एक साझा दृष्टिकोण को आगे बढ़ाएंगे। वे प्रस्तावित परिणामों पर विचार-विमर्श करेंगे और ब्रिक्स सदस्य देशों के बीच सहयोग को आगे बढ़ाने के लिए रणनीतिक दिशा-निर्देश प्रदान करेंगे। इस दौरान कई सत्र आयोजित किए जाएंगे ताकि महिलाओं की भागीदारी को मजबूती प्रदान की जा सके। मंत्रिस्तरीय बैठक इसी महीने की 6-7 तारीख को आयोजित ब्रिक्स महिला कार्य समूह की बैठक के बाद हो रही है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T06:16:33+00:00",
+        "link": "https://newsonair.gov.in/hi/india-will-host-the-two-day-brics-women-ministerial-meeting-starting-tomorrow-in-kochi-kerala/",
+        "post_id": 1723533,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री नरेंद्र मोदी ने इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। वार्ता के दौरान द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। वार्ता के दौरान द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के उद्देश्य से समझौता ज्ञापनों का आदान-प्रदान भी किया।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T05:55:56+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-held-delegation-level-talks-with-indonesian-president-prabowo-subianto-in-jakarta/",
+        "post_id": 1723534,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "मंगोलिया के पूर्व राष्ट्रपति ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना की प्रगति की सराहना",
+        "summary": "मंगोलिया के पूर्व राष्ट्रपति और सत्तारूढ़ मंगोलियाई पीपुल्स पार्टी (एमपीपी) के नेता नंबरिन एनखबयार ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना के निर्माण में हुई प्रगति की सराहना की। भारत सरकार द्वारा प्रदत्त एक अरब 70 करोड़ डॉलर की ऋण सीमा के समर्थन से कार्यान्वित की जा रही मंगोल तेल रिफाइनरी परियोजना, मंगोलिया की सतत […]",
+        "article": "मंगोलिया के पूर्व राष्ट्रपति और सत्तारूढ़ मंगोलियाई पीपुल्स पार्टी (एमपीपी) के नेता नंबरिन एनखबयार ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना के निर्माण में हुई प्रगति की सराहना की। भारत सरकार द्वारा प्रदत्त एक अरब 70 करोड़ डॉलर की ऋण सीमा के समर्थन से कार्यान्वित की जा रही मंगोल तेल रिफाइनरी परियोजना, मंगोलिया की सतत ऊर्जा रणनीति का महत्वपूर्ण घटक और प्रमुख पहल है। मंगोलिया स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि भारतीय राजदूत अतुल मलहारी गोत्सुर्वे ने मंगोलिया के पूर्व राष्ट्रपति के साथ दोर्नोगोवी स्थित तेल रिफाइनरी परियोजना के निर्माण स्थल का दौरा किया और &#8216;इंजीनियर्स इंडिया&#8217;, &#8216;मेघा इंजीनियरिंग एंड इंफ्रास्ट्रक्चर्स लिमिटेड&#8217; और मंगोल रिफाइनरी के इंजीनियरों और कर्मचारियों से बातचीत की। दूतावास ने बताया कि मंगोलिया के पूर्व राष्ट्रपति ने इस विशाल परियोजना के निर्माण में हुई प्रगति की सराहना की। दूतावास ने कहा कि यह परियोजना भारत-मंगोलिया द्विपक्षीय संबंधों को और मजबूत करेगी तथा मंगोलिया को सतत ऊर्जा आपूर्ति सुनिश्चित करेगी।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T05:52:53+00:00",
+        "link": "https://newsonair.gov.in/hi/former-president-of-mongolia-lauds-progress-of-india-backed-dornogovi-oil-refinery-project/",
+        "post_id": 1723531,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "पाकिस्तान के अवैध कब्जे वाले कश्मीर में प्रदर्शनकारियों का पाकिस्‍तान को 48 घंटे का अल्‍टीमेटम",
+        "summary": "पाकिस्तान के अवैध कब्‍जे वाला कश्मीर में बढ़ती राजनीतिक उथल-पुथल के बीच, जम्मू-कश्मीर संयुक्त अवामी एक्शन कमेटी ने इस्लामाबाद सरकार को 48 घंटे की समय सीमा दी है और धमकी दी है कि अगर उनकी मांगें पूरी नहीं हुईं तो 9 जुलाई को वे कड़ा और निर्णायक जवाब देंगे। कमेटी ने एक औपचारिक घोषणा में […]",
+        "article": "पाकिस्तान के अवैध कब्&#x200d;जे वाला कश्मीर में बढ़ती राजनीतिक उथल-पुथल के बीच, जम्मू-कश्मीर संयुक्त अवामी एक्शन कमेटी ने इस्लामाबाद सरकार को 48 घंटे की समय सीमा दी है और धमकी दी है कि अगर उनकी मांगें पूरी नहीं हुईं तो 9 जुलाई को वे कड़ा और निर्णायक जवाब देंगे। कमेटी ने एक औपचारिक घोषणा में कहा कि उनका मौजूदा धरना प्रदर्शन तब तक अनिश्चित काल तक जारी रहेगा जब तक उनकी सभी मांगें पूरी नहीं हो जातीं। कमेटी ने पीओके के निवासियों और कश्मीरी प्रवासी समुदाय के सदस्यों से 9 जुलाई को होने वाले विरोध प्रदर्शन में भाग लेने का आह्वान किया है। इस्लामाबाद द्वारा की जा रही कड़ी कार्रवाई और पाकिस्तान अधिकृत जम्मू-कश्मीर में 600 से अधिक नागरिक अधिकार कार्यकर्ताओं की व्यापक गिरफ्तारी के विरोध में प्रदर्शन कर रहे लोगों पर पाकिस्तानी बलों की बर्बरता रविवार को तेज हो गई। मुजफ्फराबाद के कई हिस्सों से गोलाबारी और झड़पों की खबरें आ रही हैं। हजारों लोग कथित नाकाबंदी को समाप्त करने, संचार सेवाओं की बहाली, भोजन और दवाओं की निर्बाध आपूर्ति, गिरफ्तार नेताओं की रिहाई और 38 सूत्री लिखित समझौते के कार्यान्वयन की मांग को लेकर सड़कों पर उतर आए। पाकिस्तान द्वारा आतंकवाद विरोधी अधिनियम के तहत जॉइंट अवामी एक्शन कमेटी- जेएएसी पर प्रतिबंध लगाने के बाद से प्रदर्शन और तेज हो गए हैं। प्रदर्शन आयोजकों का आरोप है कि छह सौ से अधिक कार्यकर्ताओं और राजनीतिक नेताओं को गिरफ्तार किया गया है। वहीं अधिकारियों ने भोजन, आटा और आवश्यक दवाओं की आपूर्ति को प्रतिबंधित करके आर्थिक नाकाबंदी लागू कर दी है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:54:22+00:00",
+        "link": "https://newsonair.gov.in/hi/protesters-in-pakistan-occupied-kashmir-give-pakistan-a-48-hour-ultimatum/",
+        "post_id": 1723414,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "national": [
+      {
+        "title": "तटीय कर्नाटक, गुजरात, कोंकण, गोवा और मध्य महाराष्ट्र के कुछ हिस्सों में भारी बारिश का अनुमान",
+        "summary": "मौसम विभाग ने आज तटीय कर्नाटक, गुजरात, कोंकण, गोवा और मध्य महाराष्ट्र के कुछ हिस्सों में भारी बारिश का अनुमान व्यक्त किया है। अरुणाचल प्रदेश, बिहार, छत्तीसगढ़, पूर्वी राजस्थान, हिमाचल प्रदेश, आंतरिक कर्नाटक, मध्य प्रदेश, उप-हिमालयी पश्चिम बंगाल और सिक्किम के कुछ हिस्सों में भी भारी बारिश की संभावना है। दिल्ली, हरियाणा, चंडीगढ़, उत्तर-पूर्वी भारत […]",
+        "article": "मौसम विभाग ने आज तटीय कर्नाटक, गुजरात, कोंकण, गोवा और मध्य महाराष्ट्र के कुछ हिस्सों में भारी बारिश का अनुमान व्यक्त किया है। अरुणाचल प्रदेश, बिहार, छत्तीसगढ़, पूर्वी राजस्थान, हिमाचल प्रदेश, आंतरिक कर्नाटक, मध्य प्रदेश, उप-हिमालयी पश्चिम बंगाल और सिक्किम के कुछ हिस्सों में भी भारी बारिश की संभावना है। दिल्ली, हरियाणा, चंडीगढ़, उत्तर-पूर्वी भारत के कुछ हिस्सों, ओडिशा, पंजाब और उत्तर प्रदेश में भी हल्की से मध्यम बारिश हो सकती है। कर्नाटक और तेलंगाना में आज गरज के साथ आंधी की संभावना है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T05:35:53+00:00",
+        "link": "https://newsonair.gov.in/hi/heavy-rain-forecast-for-coastal-karnataka-gujarat-konkan-goa-and-parts-of-madhya-maharashtra/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/imd-5-1-13.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय मंत्री नितिन गडकरी ने राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की",
+        "summary": "सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की। बैठक में देशभर में बनाए जा रहे बहु-माध्यम माल परिवहन पार्क, रोपवे और राजमार्गों के किनारे यात्रियों के लिए विकसित की जा रही सुविधाओं की प्रगति की समीक्षा की गई। श्री गडकरी ने कहा कि ये योजनाएं […]",
+        "article": "सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की। बैठक में देशभर में बनाए जा रहे बहु-माध्यम माल परिवहन पार्क, रोपवे और राजमार्गों के किनारे यात्रियों के लिए विकसित की जा रही सुविधाओं की प्रगति की समीक्षा की गई। श्री गडकरी ने कहा कि ये योजनाएं देश में आधुनिक और बेहतर परिवहन व्यवस्था बनाने में महत्वपूर्ण भूमिका निभाएंगी। उन्होंने कहा कि इससे सड़क, रेल और अन्य परिवहन साधनों के बीच बेहतर संपर्क स्थापित होगा। श्री गडकरी ने कहा कि इनसे नए रोजगार और व्यापार के अवसर बढ़ेंगे, सभी क्षेत्रों का संतुलित विकास होगा और देश की माल परिवहन व्यवस्था अधिक मजबूत बनेगी। बैठक में श्री गडकरी ने योजनाओं के कार्य में आ रही चुनौतियों की भी समीक्षा की। उन्होंने संबंधित अधिकारियों और सभी पक्षों को निर्देश दिए कि सभी बाधाओं को शीघ्र दूर किया जाए और योजनाओं का कार्य तेज़ी से पूरा किया जाए। श्री गडकरी ने कहा कि इन योजनाओं के समय पर पूरा होने से माल परिवहन अधिक आसान और कम खर्चीला होगा। उन्&#x200d;होंने कहा कि इससे यात्रियों को बेहतर सुविधाएं मिलेंगी और देश में विश्वस्तरीय परिवहन ढांचा तैयार होगा।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:46:00+00:00",
+        "link": "https://newsonair.gov.in/hi/union-minister-nitin-gadkari-held-a-review-meeting-of-the-national-highways-logistics-management-limited-2/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MLEsE30w_400x400-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सहकारिता मंत्रालय ने 30 करोड़ लोगों के जीवन में नई ऊर्जा का संचार किया : केंद्रीय मंत्री अमित शाह",
+        "summary": "केंद्रीय सहकारिता मंत्री अमित शाह ने कहा है कि सहकारिता मंत्रालय ने पिछले पांच वर्षों में सहकारिता क्षेत्र से जुड़े लगभग तीस करोड़ लोगों के जीवन में नई ऊर्जा का संचार किया है। नई दिल्ली में सहकारिता मंत्रालय के पांचवें स्थापना दिवस समारोह को संबोधित करते हुए श्री शाह ने कहा कि प्रधानमंत्री नरेंद्र मोदी […]",
+        "article": "केंद्रीय सहकारिता मंत्री अमित शाह ने कहा है कि सहकारिता मंत्रालय ने पिछले पांच वर्षों में सहकारिता क्षेत्र से जुड़े लगभग तीस करोड़ लोगों के जीवन में नई ऊर्जा का संचार किया है। नई दिल्ली में सहकारिता मंत्रालय के पांचवें स्थापना दिवस समारोह को संबोधित करते हुए श्री शाह ने कहा कि प्रधानमंत्री नरेंद्र मोदी द्वारा 2021 में स्थापित इस मंत्रालय ने सहकारिता तंत्र को आधुनिक, पारदर्शी, प्रौद्योगिकी-आधारित और प्रतिस्पर्धी बना दिया है। उन्होंने कहा कि मंत्रालय ने सहकारिता क्षेत्र के सामने मौजूद प्रमुख चुनौतियों की पहचान की है। इस क्षेत्र के विकास और समाधान के लिए एक व्यापक रूपरेखा तैयार की है और ऐसे सुधार लागू किए हैं जिनसे संपूर्ण तंत्र का आधुनिकीकरण हुआ है। श्री शाह ने कहा कि जब देश 2047 में अपनी स्वतंत्रता की शताब्दी मनाएगा, तब सहकारिता आंदोलन एक समृद्ध भारत की मजबूत नींव बनेगा। 6 जुलाई, 2021 को मंत्रालय की स्थापना को याद करते हुए अमित शाह ने कहा कि इस निर्णय ने सहकारिता क्षेत्र से जुड़े लाखों लोगों के 75 वर्षों के इंतजार को समाप्त कर दिया। श्री शाह ने कहा कि मंत्रालय ने सहकारी क्षेत्र की दशकों पुरानी उपेक्षा को समाप्त करते हुए उसमें नई जान फूंकी है। उन्होंने इस आलोचना को भी खारिज कर दिया कि मंत्रालय राज्यों की शक्तियों में हस्तक्षेप करेगा। मंत्रालय की उपलब्धियों का उल्&#x200d;लेख करते हुए श्री शाह ने कहा कि 30 क्षेत्रों में फैली 85 लाख से अधिक सहकारी समितियों और 32 करोड़ सदस्यों को सम्&#x200d;म&#x200d;िलित करने वाला एक एकीकृत डिजिटल डेटाबेस बनाया गया है। इस डेटाबेस में लेखापरीक्षा स्थिति, कारोबार, ग्रेडिंग और गांवों में सहकारी संस्थानों की उपस्थिति की जानकारी शामिल है। इससे राज्यों को कमियों की पहचान करने और सहकारी नेटवर्क को मजबूत करने में मदद मिलेगी। श्री शाह ने एक राष्ट्रीय रैंकिंग ढांचा शुरू करने की भी घोषणा की। इसके अंतर्गत प्रत्येक क्षेत्र में सर्वश्रेष्ठ प्रदर्शन करने वाली सहकारी समितियों को मान्यता दी जाएगी और उन्हें प्रोत्साहित किया जाएगा। सहकारिता मंत्री ने कहा कि सरकार ने प्राथमिक कृषि ऋण समितियों- पैक्&#x200d;स की भूमिका का विस्तार किया है। इससे वे साझा सेवा केंद्रों के माध्यम से तीन सौ से अधिक सेवाएं प्रदान कर सकेंगी। उन्होंने कहा कि 55 हजार पैक्&#x200d;स अब रेलवे टिकट बुकिंग, जन्म और मृत्यु पंजीकरण, सरकारी योजनाओं के लिए आवेदन और डिजिटल भुगतान सहित सेवाएं प्रदान कर रही हैं। श्री शाह ने कहा कि 39 हजार पैक्&#x200d;स किसान समृद्धि केंद्र बन गए हैं। 600 से अधिक पैक्&#x200d;स जन औषधि केंद्र चला रहे हैं, जबकि कई अन्य ईंधन आउटलेट और जल आपूर्ति योजनाओं का प्रबंधन कर रहे हैं।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:36:01+00:00",
+        "link": "https://newsonair.gov.in/hi/the-ministry-of-cooperation-has-infused-new-energy-into-the-lives-of-30-crore-people-union-minister-amit-shah/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/6.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "आज जकार्ता में इंडोनेशिया के राष्ट्रपति प्राबोवो सुबियांतो के साथ बातचीत करेंगे प्रधानमंत्री नरेंद्र मोदी",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी आज जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता करेंगे। इस वार्ता में द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की जाएगी और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की जाएगी। दोनों नेता आपसी हित के क्षेत्रों में सहयोग बढ़ाने के उद्देश्य […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी आज जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता करेंगे। इस वार्ता में द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की जाएगी और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की जाएगी। दोनों नेता आपसी हित के क्षेत्रों में सहयोग बढ़ाने के उद्देश्य से समझौता ज्ञापनों के आदान-प्रदान का साक्षी भी बनेंगे। प्रधानमंत्री मोदी के कार्यक्रम की शुरुआत सुबह साढे दस बजे औपचारिक स्वागत समारोह से होगी। इसके बाद अतिथि पुस्तिका पर हस्ताक्षर किए जाएंगे। श्री मोदी इंडोनेशिया के संसद परिसर में भी कार्यक्रम में शामिल होंगे, जहां वे दोनों देशों के बीच संसदीय सहयोग के महत्व का उल्&#x200d;लेख करेंगे। वे एक सामुदायिक कार्यक्रम में भी भाग लेंगे, जहां वे प्रवासी भारतीय समुदाय के सदस्यों से बातचीत करेंगे। श्री मोदी कल इंडोनेशिया के राष्ट्रपति के निमंत्रण पर तीन दिवसीय राजकीय यात्रा पर जकार्ता पहुंचे। राष्ट्रपति प्रबावो ने हवाई अड्डे पर प्रधानमंत्री का व्यक्तिगत रूप से स्वागत किया। इंडोनेशिया की वायु सेना के लड़ाकू विमानों ने प्रधानमंत्री के विमान को इंडोनेशिया के हवाई क्षेत्र में प्रवेश करने के बाद सुरक्षा प्रदान की। प्रधानमंत्री मोदी ने कहा कि वे राष्ट्रपति प्रबोवो के साथ भारत-इंडोनेशिया व्यापक रणनीतिक साझेदारी को नई गति प्रदान करने के लिए चर्चा करने के लिए उत्सुक हैं। इस साझेदारी की स्थापना उनकी 2018 की यात्रा के दौरान हुई थी। जकार्ता पहुंचने पर प्रस्तुत समृद्ध सांस्कृतिक प्रस्तुतियों की प्रशंसा करते हुए प्रधानमंत्री मोदी ने कहा कि ये भारत और इंडोनेशिया के बीच साझा किए गए गहरे सभ्यतागत, सांस्कृतिक और आध्यात्मिक संबंधों को दर्शाती हैं। प्रधानमंत्री ने इंडोनेशियाई विद्यार्थियों के समन्वय समूह द्वारा प्रस्तुत भरतनाट्यम की भी सराहना की। प्रवासी भारतीय समुदाय के सदस्यों द्वारा गर्मजोशी से स्वागत किए जाने के बाद, प्रधानमंत्री ने कई प्रस्तुतियाँ देखीं। इनमें रामायण का चित्रण करने वाली इंडोनेशिया की प्रतिष्ठित वायंग कुलित छाया कठपुतली कला, इंडोनेशिया के विद्यार्थियों द्वारा भरतनाट्यम की प्रस्तुति और त्रिरत्न को समर्पित एक भक्तिपूर्ण बौद्ध नृत्य शामिल थे। भारतीय समुदाय के प्रति आभार व्यक्त करते हुए प्रधानमंत्री ने कहा कि जकार्ता में मिले गर्मजोशी भरे स्वागत से वे भावविभोर हैं। जकार्ता के होटल पहुंचने पर प्रधानमंत्री मोदी का प्रवासी भारतीय समुदाय ने जोरदार स्वागत किया। इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने कहा कि प्रधानमंत्री की इंडोनेशिया यात्रा दक्षिण-पूर्व एशिया की सबसे बड़ी अर्थव्यवस्था के साथ भारत की रणनीतिक साझेदारी में एक महत्वपूर्ण उन्नयन का संकेत है। उन्होंने कहा कि रक्षा, समुद्री सुरक्षा, डिजिटल संपर्क, महत्वपूर्ण खनिजों और व्यापार के क्षेत्रों में कई महत्वपूर्ण घोषणाएं होने की उम्मीद है। व्यापक रणनीतिक साझेदारी के स्तर पर संबंधों को उन्नत करने के बाद प्रधानमंत्री मोदी की इंडोनेशिया की यह पहली द्विपक्षीय यात्रा है। इससे पहले राष्ट्रपति प्रबोवो सुबियांतो जनवरी 2025 में गणतंत्र दिवस समारोह के मुख्य अतिथि के रूप में भारत की राजकीय यात्रा पर आए थे। इंडोनेशिया प्रधानमंत्री मोदी की तीन देशों की यात्रा का पहला पड़ाव है। तीन देशों की यात्रा में इस सप्ताह के अंत में ऑस्ट्रेलिया और न्यूजीलैंड की यात्राएं भी शामिल हैं।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:24:26+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-hold-talks-with-indonesian-president-prabowo-subianto-in-jakarta-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/8-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गुजरात, सौराष्ट्र, कच्छ, मध्य महाराष्ट्र और तटीय कर्नाटक में आज मूसलाधार वर्षा का रेड अलर्ट",
+        "summary": "मौसम विभाग ने गुजरात, सौराष्ट्र, कच्छ, मध्य महाराष्ट्र और तटीय कर्नाटक में आज मूसलाधार वर्षा का रेड अलर्ट जारी किया है। अगले दो दिनों में दिल्ली, हरियाणा, चंडीगढ़, पंजाब, बिहार, छत्तीसगढ़, हिमाचल प्रदेश, सिक्किम, उत्तराखंड, मध्य प्रदेश, विदर्भ, पश्चिम बंगाल के तराई वाले क्षेत्रों और कर्नाटक के भीतरी हिस्सों में भी मूसलाधार वर्षा का अनुमान […]",
+        "article": "मौसम विभाग ने गुजरात, सौराष्ट्र, कच्छ, मध्य महाराष्ट्र और तटीय कर्नाटक में आज मूसलाधार वर्षा का रेड अलर्ट जारी किया है। अगले दो दिनों में दिल्ली, हरियाणा, चंडीगढ़, पंजाब, बिहार, छत्तीसगढ़, हिमाचल प्रदेश, सिक्किम, उत्तराखंड, मध्य प्रदेश, विदर्भ, पश्चिम बंगाल के तराई वाले क्षेत्रों और कर्नाटक के भीतरी हिस्सों में भी मूसलाधार वर्षा का अनुमान है। जम्मू-कश्मीर, लद्दाख, झारखंड, केरलम, माहे, ओडिशा, राजस्थान, पश्चिमी उत्तर प्रदेश और पूर्वोत्तर क्षेत्र के कुछ हिस्सों में भी अगले तीन से चार दिनों तक ऐसी ही स्थिति रहने की संभावना है। मौसम विभाग ने अगले तीन से चार दिनों में अंडमान और निकोबार द्वीप समूह, आंध्र प्रदेश, पश्चिम बंगाल के गंगा की तलहटी वाले क्षेत्रों, अरुणाचल प्रदेश, असम, मेघालय, छत्तीसगढ़, नागालैंड, मणिपुर, मिजोरम और त्रिपुरा में तेज हवाओं के साथ बिजली कड़कने और तूफान की आशंका व्यक्त की है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:11:28+00:00",
+        "link": "https://newsonair.gov.in/hi/red-alert-for-torrential-rain-today-in-gujarat-saurashtra-kutch-madhya-maharashtra-and-coastal-karnataka/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/imd2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भुवनेश्वर में आज से जनजातीय अनुसंधान संस्थानों को सुदृढ़ बनाने पर दो दिवसीय राष्ट्रीय कार्यशाला",
+        "summary": "जनजातीय कार्य मंत्रालय आज से ओडिशा के भुवनेश्वर में जनजातीय अनुसंधान संस्थानों को सुदृढ़ बनाने पर दो दिन की राष्ट्रीय कार्यशाला का आयोजन करेगा। जनजातीय कार्य मंत्री जुएल ओराम कार्यशाला का उद्घाटन करेंगे। कार्यशाला में लगभग दो सौ प्रतिभागी भाग लेंगे। इस अवसर पर जनजातीय कार्य मंत्रालय और वाराणसी के संपूर्णानंद संस्कृत विश्वविद्यालय के बीच […]",
+        "article": "जनजातीय कार्य मंत्रालय आज से ओडिशा के भुवनेश्वर में जनजातीय अनुसंधान संस्थानों को सुदृढ़ बनाने पर दो दिन की राष्ट्रीय कार्यशाला का आयोजन करेगा। जनजातीय कार्य मंत्री जुएल ओराम कार्यशाला का उद्घाटन करेंगे। कार्यशाला में लगभग दो सौ प्रतिभागी भाग लेंगे। इस अवसर पर जनजातीय कार्य मंत्रालय और वाराणसी के संपूर्णानंद संस्कृत विश्वविद्यालय के बीच एक समझौता ज्ञापन पर हस्ताक्षर किये जायेंगे। कार्यक्रम के दौरान ट्राइबएक्स नामक एक डिजिटल शिक्षण मंच का भी शुभारंभ किया जाएगा। यह मंच जनजातीय कला, संस्कृति, भाषाओं, पारंपरिक ज्ञान और कौशल विकास को समर्पित होगा। कार्यशाला का उद्देश्य देश भर में जनजातीय अनुसंधान संस्थानों के कामकाज की समीक्षा करना और उन्हें जीवंत ज्ञान संस्थानों, सांस्कृतिक संसाधन केंद्रों और जनजातीय विकास के लिए नीतिगत सहायता केंद्रों में परिवर्तित करने के लिए एक व्यापक कार्यसूची विकसित करना है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T02:46:03+00:00",
+        "link": "https://newsonair.gov.in/hi/two-day-national-workshop-on-strengthening-tribal-research-institutes-begins-in-bhubaneswar-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMlwyHXaYAE10Hf.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कल से केरल के कोच्चि में शुरू होने वाली दो दिवसीय ब्रिक्स महिला मंत्रिस्तरीय बैठक की मेजबानी करेगा भारत",
+        "summary": "भारत कल से केरल के कोच्चि में शुरू होने वाली दो दिवसीय ब्रिक्स महिला मंत्रिस्तरीय बैठक की मेजबानी करेगा। महिला और बाल विकास मंत्रालय ने बताया कि इस बैठक के दौरान ब्रिक्स सदस्य देशों के मंत्री सहयोग को मजबूत करेंगे और अपने-अपने ब्रिक्स अध्यक्षों के नेतृत्व में महिला नेतृत्व वाले विकास के लिए एक साझा […]",
+        "article": "भारत कल से केरल के कोच्चि में शुरू होने वाली दो दिवसीय ब्रिक्स महिला मंत्रिस्तरीय बैठक की मेजबानी करेगा। महिला और बाल विकास मंत्रालय ने बताया कि इस बैठक के दौरान ब्रिक्स सदस्य देशों के मंत्री सहयोग को मजबूत करेंगे और अपने-अपने ब्रिक्स अध्यक्षों के नेतृत्व में महिला नेतृत्व वाले विकास के लिए एक साझा दृष्टिकोण को आगे बढ़ाएंगे। वे प्रस्तावित परिणामों पर विचार-विमर्श करेंगे और ब्रिक्स सदस्य देशों के बीच सहयोग को आगे बढ़ाने के लिए रणनीतिक दिशा-निर्देश प्रदान करेंगे। इस दौरान कई सत्र आयोजित किए जाएंगे ताकि महिलाओं की भागीदारी को मजबूती प्रदान की जा सके। मंत्रिस्तरीय बैठक इसी महीने की 6-7 तारीख को आयोजित ब्रिक्स महिला कार्य समूह की बैठक के बाद हो रही है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T06:16:33+00:00",
+        "link": "https://newsonair.gov.in/hi/india-will-host-the-two-day-brics-women-ministerial-meeting-starting-tomorrow-in-kochi-kerala/",
+        "post_id": 1723533,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री नरेंद्र मोदी ने इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। वार्ता के दौरान द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। वार्ता के दौरान द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के उद्देश्य से समझौता ज्ञापनों का आदान-प्रदान भी किया।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T05:55:56+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-held-delegation-level-talks-with-indonesian-president-prabowo-subianto-in-jakarta/",
+        "post_id": 1723534,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "मंगोलिया के पूर्व राष्ट्रपति ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना की प्रगति की सराहना",
+        "summary": "मंगोलिया के पूर्व राष्ट्रपति और सत्तारूढ़ मंगोलियाई पीपुल्स पार्टी (एमपीपी) के नेता नंबरिन एनखबयार ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना के निर्माण में हुई प्रगति की सराहना की। भारत सरकार द्वारा प्रदत्त एक अरब 70 करोड़ डॉलर की ऋण सीमा के समर्थन से कार्यान्वित की जा रही मंगोल तेल रिफाइनरी परियोजना, मंगोलिया की सतत […]",
+        "article": "मंगोलिया के पूर्व राष्ट्रपति और सत्तारूढ़ मंगोलियाई पीपुल्स पार्टी (एमपीपी) के नेता नंबरिन एनखबयार ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना के निर्माण में हुई प्रगति की सराहना की। भारत सरकार द्वारा प्रदत्त एक अरब 70 करोड़ डॉलर की ऋण सीमा के समर्थन से कार्यान्वित की जा रही मंगोल तेल रिफाइनरी परियोजना, मंगोलिया की सतत ऊर्जा रणनीति का महत्वपूर्ण घटक और प्रमुख पहल है। मंगोलिया स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि भारतीय राजदूत अतुल मलहारी गोत्सुर्वे ने मंगोलिया के पूर्व राष्ट्रपति के साथ दोर्नोगोवी स्थित तेल रिफाइनरी परियोजना के निर्माण स्थल का दौरा किया और &#8216;इंजीनियर्स इंडिया&#8217;, &#8216;मेघा इंजीनियरिंग एंड इंफ्रास्ट्रक्चर्स लिमिटेड&#8217; और मंगोल रिफाइनरी के इंजीनियरों और कर्मचारियों से बातचीत की। दूतावास ने बताया कि मंगोलिया के पूर्व राष्ट्रपति ने इस विशाल परियोजना के निर्माण में हुई प्रगति की सराहना की। दूतावास ने कहा कि यह परियोजना भारत-मंगोलिया द्विपक्षीय संबंधों को और मजबूत करेगी तथा मंगोलिया को सतत ऊर्जा आपूर्ति सुनिश्चित करेगी।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T05:52:53+00:00",
+        "link": "https://newsonair.gov.in/hi/former-president-of-mongolia-lauds-progress-of-india-backed-dornogovi-oil-refinery-project/",
+        "post_id": 1723531,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "पाकिस्तान के अवैध कब्जे वाले कश्मीर में प्रदर्शनकारियों का पाकिस्‍तान को 48 घंटे का अल्‍टीमेटम",
+        "summary": "पाकिस्तान के अवैध कब्‍जे वाला कश्मीर में बढ़ती राजनीतिक उथल-पुथल के बीच, जम्मू-कश्मीर संयुक्त अवामी एक्शन कमेटी ने इस्लामाबाद सरकार को 48 घंटे की समय सीमा दी है और धमकी दी है कि अगर उनकी मांगें पूरी नहीं हुईं तो 9 जुलाई को वे कड़ा और निर्णायक जवाब देंगे। कमेटी ने एक औपचारिक घोषणा में […]",
+        "article": "पाकिस्तान के अवैध कब्&#x200d;जे वाला कश्मीर में बढ़ती राजनीतिक उथल-पुथल के बीच, जम्मू-कश्मीर संयुक्त अवामी एक्शन कमेटी ने इस्लामाबाद सरकार को 48 घंटे की समय सीमा दी है और धमकी दी है कि अगर उनकी मांगें पूरी नहीं हुईं तो 9 जुलाई को वे कड़ा और निर्णायक जवाब देंगे। कमेटी ने एक औपचारिक घोषणा में कहा कि उनका मौजूदा धरना प्रदर्शन तब तक अनिश्चित काल तक जारी रहेगा जब तक उनकी सभी मांगें पूरी नहीं हो जातीं। कमेटी ने पीओके के निवासियों और कश्मीरी प्रवासी समुदाय के सदस्यों से 9 जुलाई को होने वाले विरोध प्रदर्शन में भाग लेने का आह्वान किया है। इस्लामाबाद द्वारा की जा रही कड़ी कार्रवाई और पाकिस्तान अधिकृत जम्मू-कश्मीर में 600 से अधिक नागरिक अधिकार कार्यकर्ताओं की व्यापक गिरफ्तारी के विरोध में प्रदर्शन कर रहे लोगों पर पाकिस्तानी बलों की बर्बरता रविवार को तेज हो गई। मुजफ्फराबाद के कई हिस्सों से गोलाबारी और झड़पों की खबरें आ रही हैं। हजारों लोग कथित नाकाबंदी को समाप्त करने, संचार सेवाओं की बहाली, भोजन और दवाओं की निर्बाध आपूर्ति, गिरफ्तार नेताओं की रिहाई और 38 सूत्री लिखित समझौते के कार्यान्वयन की मांग को लेकर सड़कों पर उतर आए। पाकिस्तान द्वारा आतंकवाद विरोधी अधिनियम के तहत जॉइंट अवामी एक्शन कमेटी- जेएएसी पर प्रतिबंध लगाने के बाद से प्रदर्शन और तेज हो गए हैं। प्रदर्शन आयोजकों का आरोप है कि छह सौ से अधिक कार्यकर्ताओं और राजनीतिक नेताओं को गिरफ्तार किया गया है। वहीं अधिकारियों ने भोजन, आटा और आवश्यक दवाओं की आपूर्ति को प्रतिबंधित करके आर्थिक नाकाबंदी लागू कर दी है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:54:22+00:00",
+        "link": "https://newsonair.gov.in/hi/protesters-in-pakistan-occupied-kashmir-give-pakistan-a-48-hour-ultimatum/",
+        "post_id": 1723414,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "politics": [
+      {
+        "title": "तटीय कर्नाटक, गुजरात, कोंकण, गोवा और मध्य महाराष्ट्र के कुछ हिस्सों में भारी बारिश का अनुमान",
+        "summary": "मौसम विभाग ने आज तटीय कर्नाटक, गुजरात, कोंकण, गोवा और मध्य महाराष्ट्र के कुछ हिस्सों में भारी बारिश का अनुमान व्यक्त किया है। अरुणाचल प्रदेश, बिहार, छत्तीसगढ़, पूर्वी राजस्थान, हिमाचल प्रदेश, आंतरिक कर्नाटक, मध्य प्रदेश, उप-हिमालयी पश्चिम बंगाल और सिक्किम के कुछ हिस्सों में भी भारी बारिश की संभावना है। दिल्ली, हरियाणा, चंडीगढ़, उत्तर-पूर्वी भारत […]",
+        "article": "मौसम विभाग ने आज तटीय कर्नाटक, गुजरात, कोंकण, गोवा और मध्य महाराष्ट्र के कुछ हिस्सों में भारी बारिश का अनुमान व्यक्त किया है। अरुणाचल प्रदेश, बिहार, छत्तीसगढ़, पूर्वी राजस्थान, हिमाचल प्रदेश, आंतरिक कर्नाटक, मध्य प्रदेश, उप-हिमालयी पश्चिम बंगाल और सिक्किम के कुछ हिस्सों में भी भारी बारिश की संभावना है। दिल्ली, हरियाणा, चंडीगढ़, उत्तर-पूर्वी भारत के कुछ हिस्सों, ओडिशा, पंजाब और उत्तर प्रदेश में भी हल्की से मध्यम बारिश हो सकती है। कर्नाटक और तेलंगाना में आज गरज के साथ आंधी की संभावना है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T05:35:53+00:00",
+        "link": "https://newsonair.gov.in/hi/heavy-rain-forecast-for-coastal-karnataka-gujarat-konkan-goa-and-parts-of-madhya-maharashtra/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/imd-5-1-13.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय मंत्री नितिन गडकरी ने राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की",
+        "summary": "सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की। बैठक में देशभर में बनाए जा रहे बहु-माध्यम माल परिवहन पार्क, रोपवे और राजमार्गों के किनारे यात्रियों के लिए विकसित की जा रही सुविधाओं की प्रगति की समीक्षा की गई। श्री गडकरी ने कहा कि ये योजनाएं […]",
+        "article": "सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने राष्ट्रीय राजमार्ग माल परिवहन प्रबंधन लिमिटेड की समीक्षा बैठक की। बैठक में देशभर में बनाए जा रहे बहु-माध्यम माल परिवहन पार्क, रोपवे और राजमार्गों के किनारे यात्रियों के लिए विकसित की जा रही सुविधाओं की प्रगति की समीक्षा की गई। श्री गडकरी ने कहा कि ये योजनाएं देश में आधुनिक और बेहतर परिवहन व्यवस्था बनाने में महत्वपूर्ण भूमिका निभाएंगी। उन्होंने कहा कि इससे सड़क, रेल और अन्य परिवहन साधनों के बीच बेहतर संपर्क स्थापित होगा। श्री गडकरी ने कहा कि इनसे नए रोजगार और व्यापार के अवसर बढ़ेंगे, सभी क्षेत्रों का संतुलित विकास होगा और देश की माल परिवहन व्यवस्था अधिक मजबूत बनेगी। बैठक में श्री गडकरी ने योजनाओं के कार्य में आ रही चुनौतियों की भी समीक्षा की। उन्होंने संबंधित अधिकारियों और सभी पक्षों को निर्देश दिए कि सभी बाधाओं को शीघ्र दूर किया जाए और योजनाओं का कार्य तेज़ी से पूरा किया जाए। श्री गडकरी ने कहा कि इन योजनाओं के समय पर पूरा होने से माल परिवहन अधिक आसान और कम खर्चीला होगा। उन्&#x200d;होंने कहा कि इससे यात्रियों को बेहतर सुविधाएं मिलेंगी और देश में विश्वस्तरीय परिवहन ढांचा तैयार होगा।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:46:00+00:00",
+        "link": "https://newsonair.gov.in/hi/union-minister-nitin-gadkari-held-a-review-meeting-of-the-national-highways-logistics-management-limited-2/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MLEsE30w_400x400-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सहकारिता मंत्रालय ने 30 करोड़ लोगों के जीवन में नई ऊर्जा का संचार किया : केंद्रीय मंत्री अमित शाह",
+        "summary": "केंद्रीय सहकारिता मंत्री अमित शाह ने कहा है कि सहकारिता मंत्रालय ने पिछले पांच वर्षों में सहकारिता क्षेत्र से जुड़े लगभग तीस करोड़ लोगों के जीवन में नई ऊर्जा का संचार किया है। नई दिल्ली में सहकारिता मंत्रालय के पांचवें स्थापना दिवस समारोह को संबोधित करते हुए श्री शाह ने कहा कि प्रधानमंत्री नरेंद्र मोदी […]",
+        "article": "केंद्रीय सहकारिता मंत्री अमित शाह ने कहा है कि सहकारिता मंत्रालय ने पिछले पांच वर्षों में सहकारिता क्षेत्र से जुड़े लगभग तीस करोड़ लोगों के जीवन में नई ऊर्जा का संचार किया है। नई दिल्ली में सहकारिता मंत्रालय के पांचवें स्थापना दिवस समारोह को संबोधित करते हुए श्री शाह ने कहा कि प्रधानमंत्री नरेंद्र मोदी द्वारा 2021 में स्थापित इस मंत्रालय ने सहकारिता तंत्र को आधुनिक, पारदर्शी, प्रौद्योगिकी-आधारित और प्रतिस्पर्धी बना दिया है। उन्होंने कहा कि मंत्रालय ने सहकारिता क्षेत्र के सामने मौजूद प्रमुख चुनौतियों की पहचान की है। इस क्षेत्र के विकास और समाधान के लिए एक व्यापक रूपरेखा तैयार की है और ऐसे सुधार लागू किए हैं जिनसे संपूर्ण तंत्र का आधुनिकीकरण हुआ है। श्री शाह ने कहा कि जब देश 2047 में अपनी स्वतंत्रता की शताब्दी मनाएगा, तब सहकारिता आंदोलन एक समृद्ध भारत की मजबूत नींव बनेगा। 6 जुलाई, 2021 को मंत्रालय की स्थापना को याद करते हुए अमित शाह ने कहा कि इस निर्णय ने सहकारिता क्षेत्र से जुड़े लाखों लोगों के 75 वर्षों के इंतजार को समाप्त कर दिया। श्री शाह ने कहा कि मंत्रालय ने सहकारी क्षेत्र की दशकों पुरानी उपेक्षा को समाप्त करते हुए उसमें नई जान फूंकी है। उन्होंने इस आलोचना को भी खारिज कर दिया कि मंत्रालय राज्यों की शक्तियों में हस्तक्षेप करेगा। मंत्रालय की उपलब्धियों का उल्&#x200d;लेख करते हुए श्री शाह ने कहा कि 30 क्षेत्रों में फैली 85 लाख से अधिक सहकारी समितियों और 32 करोड़ सदस्यों को सम्&#x200d;म&#x200d;िलित करने वाला एक एकीकृत डिजिटल डेटाबेस बनाया गया है। इस डेटाबेस में लेखापरीक्षा स्थिति, कारोबार, ग्रेडिंग और गांवों में सहकारी संस्थानों की उपस्थिति की जानकारी शामिल है। इससे राज्यों को कमियों की पहचान करने और सहकारी नेटवर्क को मजबूत करने में मदद मिलेगी। श्री शाह ने एक राष्ट्रीय रैंकिंग ढांचा शुरू करने की भी घोषणा की। इसके अंतर्गत प्रत्येक क्षेत्र में सर्वश्रेष्ठ प्रदर्शन करने वाली सहकारी समितियों को मान्यता दी जाएगी और उन्हें प्रोत्साहित किया जाएगा। सहकारिता मंत्री ने कहा कि सरकार ने प्राथमिक कृषि ऋण समितियों- पैक्&#x200d;स की भूमिका का विस्तार किया है। इससे वे साझा सेवा केंद्रों के माध्यम से तीन सौ से अधिक सेवाएं प्रदान कर सकेंगी। उन्होंने कहा कि 55 हजार पैक्&#x200d;स अब रेलवे टिकट बुकिंग, जन्म और मृत्यु पंजीकरण, सरकारी योजनाओं के लिए आवेदन और डिजिटल भुगतान सहित सेवाएं प्रदान कर रही हैं। श्री शाह ने कहा कि 39 हजार पैक्&#x200d;स किसान समृद्धि केंद्र बन गए हैं। 600 से अधिक पैक्&#x200d;स जन औषधि केंद्र चला रहे हैं, जबकि कई अन्य ईंधन आउटलेट और जल आपूर्ति योजनाओं का प्रबंधन कर रहे हैं।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:36:01+00:00",
+        "link": "https://newsonair.gov.in/hi/the-ministry-of-cooperation-has-infused-new-energy-into-the-lives-of-30-crore-people-union-minister-amit-shah/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/6.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "आज जकार्ता में इंडोनेशिया के राष्ट्रपति प्राबोवो सुबियांतो के साथ बातचीत करेंगे प्रधानमंत्री नरेंद्र मोदी",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी आज जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता करेंगे। इस वार्ता में द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की जाएगी और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की जाएगी। दोनों नेता आपसी हित के क्षेत्रों में सहयोग बढ़ाने के उद्देश्य […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी आज जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता करेंगे। इस वार्ता में द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की जाएगी और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की जाएगी। दोनों नेता आपसी हित के क्षेत्रों में सहयोग बढ़ाने के उद्देश्य से समझौता ज्ञापनों के आदान-प्रदान का साक्षी भी बनेंगे। प्रधानमंत्री मोदी के कार्यक्रम की शुरुआत सुबह साढे दस बजे औपचारिक स्वागत समारोह से होगी। इसके बाद अतिथि पुस्तिका पर हस्ताक्षर किए जाएंगे। श्री मोदी इंडोनेशिया के संसद परिसर में भी कार्यक्रम में शामिल होंगे, जहां वे दोनों देशों के बीच संसदीय सहयोग के महत्व का उल्&#x200d;लेख करेंगे। वे एक सामुदायिक कार्यक्रम में भी भाग लेंगे, जहां वे प्रवासी भारतीय समुदाय के सदस्यों से बातचीत करेंगे। श्री मोदी कल इंडोनेशिया के राष्ट्रपति के निमंत्रण पर तीन दिवसीय राजकीय यात्रा पर जकार्ता पहुंचे। राष्ट्रपति प्रबावो ने हवाई अड्डे पर प्रधानमंत्री का व्यक्तिगत रूप से स्वागत किया। इंडोनेशिया की वायु सेना के लड़ाकू विमानों ने प्रधानमंत्री के विमान को इंडोनेशिया के हवाई क्षेत्र में प्रवेश करने के बाद सुरक्षा प्रदान की। प्रधानमंत्री मोदी ने कहा कि वे राष्ट्रपति प्रबोवो के साथ भारत-इंडोनेशिया व्यापक रणनीतिक साझेदारी को नई गति प्रदान करने के लिए चर्चा करने के लिए उत्सुक हैं। इस साझेदारी की स्थापना उनकी 2018 की यात्रा के दौरान हुई थी। जकार्ता पहुंचने पर प्रस्तुत समृद्ध सांस्कृतिक प्रस्तुतियों की प्रशंसा करते हुए प्रधानमंत्री मोदी ने कहा कि ये भारत और इंडोनेशिया के बीच साझा किए गए गहरे सभ्यतागत, सांस्कृतिक और आध्यात्मिक संबंधों को दर्शाती हैं। प्रधानमंत्री ने इंडोनेशियाई विद्यार्थियों के समन्वय समूह द्वारा प्रस्तुत भरतनाट्यम की भी सराहना की। प्रवासी भारतीय समुदाय के सदस्यों द्वारा गर्मजोशी से स्वागत किए जाने के बाद, प्रधानमंत्री ने कई प्रस्तुतियाँ देखीं। इनमें रामायण का चित्रण करने वाली इंडोनेशिया की प्रतिष्ठित वायंग कुलित छाया कठपुतली कला, इंडोनेशिया के विद्यार्थियों द्वारा भरतनाट्यम की प्रस्तुति और त्रिरत्न को समर्पित एक भक्तिपूर्ण बौद्ध नृत्य शामिल थे। भारतीय समुदाय के प्रति आभार व्यक्त करते हुए प्रधानमंत्री ने कहा कि जकार्ता में मिले गर्मजोशी भरे स्वागत से वे भावविभोर हैं। जकार्ता के होटल पहुंचने पर प्रधानमंत्री मोदी का प्रवासी भारतीय समुदाय ने जोरदार स्वागत किया। इंडोनेशिया में भारत के राजदूत संदीप चक्रवर्ती ने कहा कि प्रधानमंत्री की इंडोनेशिया यात्रा दक्षिण-पूर्व एशिया की सबसे बड़ी अर्थव्यवस्था के साथ भारत की रणनीतिक साझेदारी में एक महत्वपूर्ण उन्नयन का संकेत है। उन्होंने कहा कि रक्षा, समुद्री सुरक्षा, डिजिटल संपर्क, महत्वपूर्ण खनिजों और व्यापार के क्षेत्रों में कई महत्वपूर्ण घोषणाएं होने की उम्मीद है। व्यापक रणनीतिक साझेदारी के स्तर पर संबंधों को उन्नत करने के बाद प्रधानमंत्री मोदी की इंडोनेशिया की यह पहली द्विपक्षीय यात्रा है। इससे पहले राष्ट्रपति प्रबोवो सुबियांतो जनवरी 2025 में गणतंत्र दिवस समारोह के मुख्य अतिथि के रूप में भारत की राजकीय यात्रा पर आए थे। इंडोनेशिया प्रधानमंत्री मोदी की तीन देशों की यात्रा का पहला पड़ाव है। तीन देशों की यात्रा में इस सप्ताह के अंत में ऑस्ट्रेलिया और न्यूजीलैंड की यात्राएं भी शामिल हैं।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:24:26+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-hold-talks-with-indonesian-president-prabowo-subianto-in-jakarta-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/8-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गुजरात, सौराष्ट्र, कच्छ, मध्य महाराष्ट्र और तटीय कर्नाटक में आज मूसलाधार वर्षा का रेड अलर्ट",
+        "summary": "मौसम विभाग ने गुजरात, सौराष्ट्र, कच्छ, मध्य महाराष्ट्र और तटीय कर्नाटक में आज मूसलाधार वर्षा का रेड अलर्ट जारी किया है। अगले दो दिनों में दिल्ली, हरियाणा, चंडीगढ़, पंजाब, बिहार, छत्तीसगढ़, हिमाचल प्रदेश, सिक्किम, उत्तराखंड, मध्य प्रदेश, विदर्भ, पश्चिम बंगाल के तराई वाले क्षेत्रों और कर्नाटक के भीतरी हिस्सों में भी मूसलाधार वर्षा का अनुमान […]",
+        "article": "मौसम विभाग ने गुजरात, सौराष्ट्र, कच्छ, मध्य महाराष्ट्र और तटीय कर्नाटक में आज मूसलाधार वर्षा का रेड अलर्ट जारी किया है। अगले दो दिनों में दिल्ली, हरियाणा, चंडीगढ़, पंजाब, बिहार, छत्तीसगढ़, हिमाचल प्रदेश, सिक्किम, उत्तराखंड, मध्य प्रदेश, विदर्भ, पश्चिम बंगाल के तराई वाले क्षेत्रों और कर्नाटक के भीतरी हिस्सों में भी मूसलाधार वर्षा का अनुमान है। जम्मू-कश्मीर, लद्दाख, झारखंड, केरलम, माहे, ओडिशा, राजस्थान, पश्चिमी उत्तर प्रदेश और पूर्वोत्तर क्षेत्र के कुछ हिस्सों में भी अगले तीन से चार दिनों तक ऐसी ही स्थिति रहने की संभावना है। मौसम विभाग ने अगले तीन से चार दिनों में अंडमान और निकोबार द्वीप समूह, आंध्र प्रदेश, पश्चिम बंगाल के गंगा की तलहटी वाले क्षेत्रों, अरुणाचल प्रदेश, असम, मेघालय, छत्तीसगढ़, नागालैंड, मणिपुर, मिजोरम और त्रिपुरा में तेज हवाओं के साथ बिजली कड़कने और तूफान की आशंका व्यक्त की है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:11:28+00:00",
+        "link": "https://newsonair.gov.in/hi/red-alert-for-torrential-rain-today-in-gujarat-saurashtra-kutch-madhya-maharashtra-and-coastal-karnataka/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/imd2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भुवनेश्वर में आज से जनजातीय अनुसंधान संस्थानों को सुदृढ़ बनाने पर दो दिवसीय राष्ट्रीय कार्यशाला",
+        "summary": "जनजातीय कार्य मंत्रालय आज से ओडिशा के भुवनेश्वर में जनजातीय अनुसंधान संस्थानों को सुदृढ़ बनाने पर दो दिन की राष्ट्रीय कार्यशाला का आयोजन करेगा। जनजातीय कार्य मंत्री जुएल ओराम कार्यशाला का उद्घाटन करेंगे। कार्यशाला में लगभग दो सौ प्रतिभागी भाग लेंगे। इस अवसर पर जनजातीय कार्य मंत्रालय और वाराणसी के संपूर्णानंद संस्कृत विश्वविद्यालय के बीच […]",
+        "article": "जनजातीय कार्य मंत्रालय आज से ओडिशा के भुवनेश्वर में जनजातीय अनुसंधान संस्थानों को सुदृढ़ बनाने पर दो दिन की राष्ट्रीय कार्यशाला का आयोजन करेगा। जनजातीय कार्य मंत्री जुएल ओराम कार्यशाला का उद्घाटन करेंगे। कार्यशाला में लगभग दो सौ प्रतिभागी भाग लेंगे। इस अवसर पर जनजातीय कार्य मंत्रालय और वाराणसी के संपूर्णानंद संस्कृत विश्वविद्यालय के बीच एक समझौता ज्ञापन पर हस्ताक्षर किये जायेंगे। कार्यक्रम के दौरान ट्राइबएक्स नामक एक डिजिटल शिक्षण मंच का भी शुभारंभ किया जाएगा। यह मंच जनजातीय कला, संस्कृति, भाषाओं, पारंपरिक ज्ञान और कौशल विकास को समर्पित होगा। कार्यशाला का उद्देश्य देश भर में जनजातीय अनुसंधान संस्थानों के कामकाज की समीक्षा करना और उन्हें जीवंत ज्ञान संस्थानों, सांस्कृतिक संसाधन केंद्रों और जनजातीय विकास के लिए नीतिगत सहायता केंद्रों में परिवर्तित करने के लिए एक व्यापक कार्यसूची विकसित करना है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T02:46:03+00:00",
+        "link": "https://newsonair.gov.in/hi/two-day-national-workshop-on-strengthening-tribal-research-institutes-begins-in-bhubaneswar-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMlwyHXaYAE10Hf.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कल से केरल के कोच्चि में शुरू होने वाली दो दिवसीय ब्रिक्स महिला मंत्रिस्तरीय बैठक की मेजबानी करेगा भारत",
+        "summary": "भारत कल से केरल के कोच्चि में शुरू होने वाली दो दिवसीय ब्रिक्स महिला मंत्रिस्तरीय बैठक की मेजबानी करेगा। महिला और बाल विकास मंत्रालय ने बताया कि इस बैठक के दौरान ब्रिक्स सदस्य देशों के मंत्री सहयोग को मजबूत करेंगे और अपने-अपने ब्रिक्स अध्यक्षों के नेतृत्व में महिला नेतृत्व वाले विकास के लिए एक साझा […]",
+        "article": "भारत कल से केरल के कोच्चि में शुरू होने वाली दो दिवसीय ब्रिक्स महिला मंत्रिस्तरीय बैठक की मेजबानी करेगा। महिला और बाल विकास मंत्रालय ने बताया कि इस बैठक के दौरान ब्रिक्स सदस्य देशों के मंत्री सहयोग को मजबूत करेंगे और अपने-अपने ब्रिक्स अध्यक्षों के नेतृत्व में महिला नेतृत्व वाले विकास के लिए एक साझा दृष्टिकोण को आगे बढ़ाएंगे। वे प्रस्तावित परिणामों पर विचार-विमर्श करेंगे और ब्रिक्स सदस्य देशों के बीच सहयोग को आगे बढ़ाने के लिए रणनीतिक दिशा-निर्देश प्रदान करेंगे। इस दौरान कई सत्र आयोजित किए जाएंगे ताकि महिलाओं की भागीदारी को मजबूती प्रदान की जा सके। मंत्रिस्तरीय बैठक इसी महीने की 6-7 तारीख को आयोजित ब्रिक्स महिला कार्य समूह की बैठक के बाद हो रही है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T06:16:33+00:00",
+        "link": "https://newsonair.gov.in/hi/india-will-host-the-two-day-brics-women-ministerial-meeting-starting-tomorrow-in-kochi-kerala/",
+        "post_id": 1723533,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री नरेंद्र मोदी ने इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। वार्ता के दौरान द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। वार्ता के दौरान द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के उद्देश्य से समझौता ज्ञापनों का आदान-प्रदान भी किया।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T05:55:56+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-held-delegation-level-talks-with-indonesian-president-prabowo-subianto-in-jakarta/",
+        "post_id": 1723534,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "मंगोलिया के पूर्व राष्ट्रपति ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना की प्रगति की सराहना",
+        "summary": "मंगोलिया के पूर्व राष्ट्रपति और सत्तारूढ़ मंगोलियाई पीपुल्स पार्टी (एमपीपी) के नेता नंबरिन एनखबयार ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना के निर्माण में हुई प्रगति की सराहना की। भारत सरकार द्वारा प्रदत्त एक अरब 70 करोड़ डॉलर की ऋण सीमा के समर्थन से कार्यान्वित की जा रही मंगोल तेल रिफाइनरी परियोजना, मंगोलिया की सतत […]",
+        "article": "मंगोलिया के पूर्व राष्ट्रपति और सत्तारूढ़ मंगोलियाई पीपुल्स पार्टी (एमपीपी) के नेता नंबरिन एनखबयार ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना के निर्माण में हुई प्रगति की सराहना की। भारत सरकार द्वारा प्रदत्त एक अरब 70 करोड़ डॉलर की ऋण सीमा के समर्थन से कार्यान्वित की जा रही मंगोल तेल रिफाइनरी परियोजना, मंगोलिया की सतत ऊर्जा रणनीति का महत्वपूर्ण घटक और प्रमुख पहल है। मंगोलिया स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि भारतीय राजदूत अतुल मलहारी गोत्सुर्वे ने मंगोलिया के पूर्व राष्ट्रपति के साथ दोर्नोगोवी स्थित तेल रिफाइनरी परियोजना के निर्माण स्थल का दौरा किया और &#8216;इंजीनियर्स इंडिया&#8217;, &#8216;मेघा इंजीनियरिंग एंड इंफ्रास्ट्रक्चर्स लिमिटेड&#8217; और मंगोल रिफाइनरी के इंजीनियरों और कर्मचारियों से बातचीत की। दूतावास ने बताया कि मंगोलिया के पूर्व राष्ट्रपति ने इस विशाल परियोजना के निर्माण में हुई प्रगति की सराहना की। दूतावास ने कहा कि यह परियोजना भारत-मंगोलिया द्विपक्षीय संबंधों को और मजबूत करेगी तथा मंगोलिया को सतत ऊर्जा आपूर्ति सुनिश्चित करेगी।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T05:52:53+00:00",
+        "link": "https://newsonair.gov.in/hi/former-president-of-mongolia-lauds-progress-of-india-backed-dornogovi-oil-refinery-project/",
+        "post_id": 1723531,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "पाकिस्तान के अवैध कब्जे वाले कश्मीर में प्रदर्शनकारियों का पाकिस्‍तान को 48 घंटे का अल्‍टीमेटम",
+        "summary": "पाकिस्तान के अवैध कब्‍जे वाला कश्मीर में बढ़ती राजनीतिक उथल-पुथल के बीच, जम्मू-कश्मीर संयुक्त अवामी एक्शन कमेटी ने इस्लामाबाद सरकार को 48 घंटे की समय सीमा दी है और धमकी दी है कि अगर उनकी मांगें पूरी नहीं हुईं तो 9 जुलाई को वे कड़ा और निर्णायक जवाब देंगे। कमेटी ने एक औपचारिक घोषणा में […]",
+        "article": "पाकिस्तान के अवैध कब्&#x200d;जे वाला कश्मीर में बढ़ती राजनीतिक उथल-पुथल के बीच, जम्मू-कश्मीर संयुक्त अवामी एक्शन कमेटी ने इस्लामाबाद सरकार को 48 घंटे की समय सीमा दी है और धमकी दी है कि अगर उनकी मांगें पूरी नहीं हुईं तो 9 जुलाई को वे कड़ा और निर्णायक जवाब देंगे। कमेटी ने एक औपचारिक घोषणा में कहा कि उनका मौजूदा धरना प्रदर्शन तब तक अनिश्चित काल तक जारी रहेगा जब तक उनकी सभी मांगें पूरी नहीं हो जातीं। कमेटी ने पीओके के निवासियों और कश्मीरी प्रवासी समुदाय के सदस्यों से 9 जुलाई को होने वाले विरोध प्रदर्शन में भाग लेने का आह्वान किया है। इस्लामाबाद द्वारा की जा रही कड़ी कार्रवाई और पाकिस्तान अधिकृत जम्मू-कश्मीर में 600 से अधिक नागरिक अधिकार कार्यकर्ताओं की व्यापक गिरफ्तारी के विरोध में प्रदर्शन कर रहे लोगों पर पाकिस्तानी बलों की बर्बरता रविवार को तेज हो गई। मुजफ्फराबाद के कई हिस्सों से गोलाबारी और झड़पों की खबरें आ रही हैं। हजारों लोग कथित नाकाबंदी को समाप्त करने, संचार सेवाओं की बहाली, भोजन और दवाओं की निर्बाध आपूर्ति, गिरफ्तार नेताओं की रिहाई और 38 सूत्री लिखित समझौते के कार्यान्वयन की मांग को लेकर सड़कों पर उतर आए। पाकिस्तान द्वारा आतंकवाद विरोधी अधिनियम के तहत जॉइंट अवामी एक्शन कमेटी- जेएएसी पर प्रतिबंध लगाने के बाद से प्रदर्शन और तेज हो गए हैं। प्रदर्शन आयोजकों का आरोप है कि छह सौ से अधिक कार्यकर्ताओं और राजनीतिक नेताओं को गिरफ्तार किया गया है। वहीं अधिकारियों ने भोजन, आटा और आवश्यक दवाओं की आपूर्ति को प्रतिबंधित करके आर्थिक नाकाबंदी लागू कर दी है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:54:22+00:00",
+        "link": "https://newsonair.gov.in/hi/protesters-in-pakistan-occupied-kashmir-give-pakistan-a-48-hour-ultimatum/",
+        "post_id": 1723414,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "world": [
+      {
+        "title": "कल से केरल के कोच्चि में शुरू होने वाली दो दिवसीय ब्रिक्स महिला मंत्रिस्तरीय बैठक की मेजबानी करेगा भारत",
+        "summary": "भारत कल से केरल के कोच्चि में शुरू होने वाली दो दिवसीय ब्रिक्स महिला मंत्रिस्तरीय बैठक की मेजबानी करेगा। महिला और बाल विकास मंत्रालय ने बताया कि इस बैठक के दौरान ब्रिक्स सदस्य देशों के मंत्री सहयोग को मजबूत करेंगे और अपने-अपने ब्रिक्स अध्यक्षों के नेतृत्व में महिला नेतृत्व वाले विकास के लिए एक साझा […]",
+        "article": "भारत कल से केरल के कोच्चि में शुरू होने वाली दो दिवसीय ब्रिक्स महिला मंत्रिस्तरीय बैठक की मेजबानी करेगा। महिला और बाल विकास मंत्रालय ने बताया कि इस बैठक के दौरान ब्रिक्स सदस्य देशों के मंत्री सहयोग को मजबूत करेंगे और अपने-अपने ब्रिक्स अध्यक्षों के नेतृत्व में महिला नेतृत्व वाले विकास के लिए एक साझा दृष्टिकोण को आगे बढ़ाएंगे। वे प्रस्तावित परिणामों पर विचार-विमर्श करेंगे और ब्रिक्स सदस्य देशों के बीच सहयोग को आगे बढ़ाने के लिए रणनीतिक दिशा-निर्देश प्रदान करेंगे। इस दौरान कई सत्र आयोजित किए जाएंगे ताकि महिलाओं की भागीदारी को मजबूती प्रदान की जा सके। मंत्रिस्तरीय बैठक इसी महीने की 6-7 तारीख को आयोजित ब्रिक्स महिला कार्य समूह की बैठक के बाद हो रही है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T06:16:33+00:00",
+        "link": "https://newsonair.gov.in/hi/india-will-host-the-two-day-brics-women-ministerial-meeting-starting-tomorrow-in-kochi-kerala/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/brics-6.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री नरेंद्र मोदी ने इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। वार्ता के दौरान द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। वार्ता के दौरान द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के उद्देश्य से समझौता ज्ञापनों का आदान-प्रदान भी किया।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T05:55:56+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-held-delegation-level-talks-with-indonesian-president-prabowo-subianto-in-jakarta/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/18.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "मंगोलिया के पूर्व राष्ट्रपति ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना की प्रगति की सराहना",
+        "summary": "मंगोलिया के पूर्व राष्ट्रपति और सत्तारूढ़ मंगोलियाई पीपुल्स पार्टी (एमपीपी) के नेता नंबरिन एनखबयार ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना के निर्माण में हुई प्रगति की सराहना की। भारत सरकार द्वारा प्रदत्त एक अरब 70 करोड़ डॉलर की ऋण सीमा के समर्थन से कार्यान्वित की जा रही मंगोल तेल रिफाइनरी परियोजना, मंगोलिया की सतत […]",
+        "article": "मंगोलिया के पूर्व राष्ट्रपति और सत्तारूढ़ मंगोलियाई पीपुल्स पार्टी (एमपीपी) के नेता नंबरिन एनखबयार ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना के निर्माण में हुई प्रगति की सराहना की। भारत सरकार द्वारा प्रदत्त एक अरब 70 करोड़ डॉलर की ऋण सीमा के समर्थन से कार्यान्वित की जा रही मंगोल तेल रिफाइनरी परियोजना, मंगोलिया की सतत ऊर्जा रणनीति का महत्वपूर्ण घटक और प्रमुख पहल है। मंगोलिया स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि भारतीय राजदूत अतुल मलहारी गोत्सुर्वे ने मंगोलिया के पूर्व राष्ट्रपति के साथ दोर्नोगोवी स्थित तेल रिफाइनरी परियोजना के निर्माण स्थल का दौरा किया और &#8216;इंजीनियर्स इंडिया&#8217;, &#8216;मेघा इंजीनियरिंग एंड इंफ्रास्ट्रक्चर्स लिमिटेड&#8217; और मंगोल रिफाइनरी के इंजीनियरों और कर्मचारियों से बातचीत की। दूतावास ने बताया कि मंगोलिया के पूर्व राष्ट्रपति ने इस विशाल परियोजना के निर्माण में हुई प्रगति की सराहना की। दूतावास ने कहा कि यह परियोजना भारत-मंगोलिया द्विपक्षीय संबंधों को और मजबूत करेगी तथा मंगोलिया को सतत ऊर्जा आपूर्ति सुनिश्चित करेगी।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T05:52:53+00:00",
+        "link": "https://newsonair.gov.in/hi/former-president-of-mongolia-lauds-progress-of-india-backed-dornogovi-oil-refinery-project/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वेनेजुएला में आए दो विनाशकारी भूकंपों से प्रत्यक्ष भौतिक क्षति 37 अरब अमेरिकी डॉलर: संयुक्त राष्ट्र",
+        "summary": "संयुक्त राष्ट्र के एक नए अनुमान के अनुसार, वेनेजुएला में आए दो विनाशकारी भूकंपों से प्रत्यक्ष भौतिक क्षति 37 अरब अमेरिकी डॉलर है। इस आंकड़े में घरों, व्यवसायों, स्कूलों, अस्पतालों और सार्वजनिक सुविधाओं सहित इमारतों को हुए नुकसान का लगभग 24 अरब अमेरिकी डॉलर और बुनियादी ढांचे को हुए नुकसान का 13 अरब अमेरिकी डॉलर […]",
+        "article": "संयुक्त राष्ट्र के एक नए अनुमान के अनुसार, वेनेजुएला में आए दो विनाशकारी भूकंपों से प्रत्यक्ष भौतिक क्षति 37 अरब अमेरिकी डॉलर है। इस आंकड़े में घरों, व्यवसायों, स्कूलों, अस्पतालों और सार्वजनिक सुविधाओं सहित इमारतों को हुए नुकसान का लगभग 24 अरब अमेरिकी डॉलर और बुनियादी ढांचे को हुए नुकसान का 13 अरब अमेरिकी डॉलर शामिल है। संयुक्त राष्ट्र के प्रवक्ता स्टीफन डुजारिक ने कहा कि संयुक्त राष्ट्र और उसके सहयोगी वेनेजुएला सरकार के समन्वय से भूकंप से प्रभावित लोगों को सहायता पहुंचाने के लिए निरंतर प्रयास कर रहे हैं। इसके अलावा, संयुक्त राष्ट्र बाल कोष -यूनिसेफ ने बताया किइस आपदा में सबसे अधिक प्रभावित बच्चे हुए हैं। यूनिसेफ ने आपातकालीन टीमें तैनात की हैं और चिकित्सा सामग्री, पानी और स्वच्छता उपकरण, और आवश्यक घरेलू सामान सहित 68 टन आपूर्ति भेजी है। संयुक्त राष्ट्र एजेंसियां ​​पहले से ही तीन शिविरों में सेवाएं प्रदान कर रही हैं और सहायता के लिए अतिरिक्त स्थलों का आकलन कर रही हैं। वेनेजुएला के लिए मानवीय सहायता योजना को अब तक 274 मिलियन अमेरिकी डॉलर प्राप्त हुए हैं।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T05:38:44+00:00",
+        "link": "https://newsonair.gov.in/hi/direct-physical-damage-from-two-devastating-earthquakes-in-venezuela-37-billion-un/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वेनेजुएला: दोहरे भूकंप में मरने वालों की संख्या बढ़कर तीन हजार 535 हुई",
+        "summary": "वेनेजुएला की नेशनल असेंबली के अध्यक्ष जॉर्ज रोड्रिगेज ने बताया है कि दोहरे भूकंप में मरने वालों की संख्या बढ़कर तीन हजार 535 हो गई है, जबकि 16 हजार 740 लोग घायल हुए हैं। इसके अलावा 17 हजार 854 लोग बेघर हो गए हैं। बचाए गए लोगों की संख्या छह हजार 462 पर स्थिर है, […]",
+        "article": "वेनेजुएला की नेशनल असेंबली के अध्यक्ष जॉर्ज रोड्रिगेज ने बताया है कि दोहरे भूकंप में मरने वालों की संख्या बढ़कर तीन हजार 535 हो गई है, जबकि 16 हजार 740 लोग घायल हुए हैं। इसके अलावा 17 हजार 854 लोग बेघर हो गए हैं। बचाए गए लोगों की संख्या छह हजार 462 पर स्थिर है, जबकि 86 हजार 794 परिवारों को सहायता प्रदान की गई है। इससे पहले, 24 जून को दक्षिण अमरीकी देश वेनेजुएला में 7.2 और 7.5 तीव्रता के लगातार दो शक्तिशाली भूकंप आए थे। इन भूकंपों के जोरदार झटकों के बाद कराकस में कई इमारतें ढह गईं, जिनका असर वेनेजुएला के बड़े हिस्से में महसूस किया गया।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T05:31:23+00:00",
+        "link": "https://newsonair.gov.in/hi/venezuela-death-toll-from-twin-earthquakes-rises-to-3535/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "पाकिस्तान के अवैध कब्जे वाले कश्मीर में प्रदर्शनकारियों का पाकिस्‍तान को 48 घंटे का अल्‍टीमेटम",
+        "summary": "पाकिस्तान के अवैध कब्‍जे वाला कश्मीर में बढ़ती राजनीतिक उथल-पुथल के बीच, जम्मू-कश्मीर संयुक्त अवामी एक्शन कमेटी ने इस्लामाबाद सरकार को 48 घंटे की समय सीमा दी है और धमकी दी है कि अगर उनकी मांगें पूरी नहीं हुईं तो 9 जुलाई को वे कड़ा और निर्णायक जवाब देंगे। कमेटी ने एक औपचारिक घोषणा में […]",
+        "article": "पाकिस्तान के अवैध कब्&#x200d;जे वाला कश्मीर में बढ़ती राजनीतिक उथल-पुथल के बीच, जम्मू-कश्मीर संयुक्त अवामी एक्शन कमेटी ने इस्लामाबाद सरकार को 48 घंटे की समय सीमा दी है और धमकी दी है कि अगर उनकी मांगें पूरी नहीं हुईं तो 9 जुलाई को वे कड़ा और निर्णायक जवाब देंगे। कमेटी ने एक औपचारिक घोषणा में कहा कि उनका मौजूदा धरना प्रदर्शन तब तक अनिश्चित काल तक जारी रहेगा जब तक उनकी सभी मांगें पूरी नहीं हो जातीं। कमेटी ने पीओके के निवासियों और कश्मीरी प्रवासी समुदाय के सदस्यों से 9 जुलाई को होने वाले विरोध प्रदर्शन में भाग लेने का आह्वान किया है। इस्लामाबाद द्वारा की जा रही कड़ी कार्रवाई और पाकिस्तान अधिकृत जम्मू-कश्मीर में 600 से अधिक नागरिक अधिकार कार्यकर्ताओं की व्यापक गिरफ्तारी के विरोध में प्रदर्शन कर रहे लोगों पर पाकिस्तानी बलों की बर्बरता रविवार को तेज हो गई। मुजफ्फराबाद के कई हिस्सों से गोलाबारी और झड़पों की खबरें आ रही हैं। हजारों लोग कथित नाकाबंदी को समाप्त करने, संचार सेवाओं की बहाली, भोजन और दवाओं की निर्बाध आपूर्ति, गिरफ्तार नेताओं की रिहाई और 38 सूत्री लिखित समझौते के कार्यान्वयन की मांग को लेकर सड़कों पर उतर आए। पाकिस्तान द्वारा आतंकवाद विरोधी अधिनियम के तहत जॉइंट अवामी एक्शन कमेटी- जेएएसी पर प्रतिबंध लगाने के बाद से प्रदर्शन और तेज हो गए हैं। प्रदर्शन आयोजकों का आरोप है कि छह सौ से अधिक कार्यकर्ताओं और राजनीतिक नेताओं को गिरफ्तार किया गया है। वहीं अधिकारियों ने भोजन, आटा और आवश्यक दवाओं की आपूर्ति को प्रतिबंधित करके आर्थिक नाकाबंदी लागू कर दी है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T03:54:22+00:00",
+        "link": "https://newsonair.gov.in/hi/protesters-in-pakistan-occupied-kashmir-give-pakistan-a-48-hour-ultimatum/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/7.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1589,9 +1588,41 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T15:59:03+00:00",
         "link": "https://newsonair.gov.in/hi/prime-minister-modi-arrives-in-indonesia-welcomed-by-president-prabowo-subianto-at-jakarta-airport/",
-        "post_id": 1722125,
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/aaaa.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "यूक्रेन की राजधानी कीव पर रूस का मिसाइल हमला, 18 लोगों की मौत 60 घायल",
+        "summary": "यूक्रेन की राजधानी कीव पर रूस के मिसाइल और ड्रोन हमलों से 18 लोग मारे गए, जबकि 60 घायल हुए हैं। यूक्रेन की वायु सेना ने कहा कि रूस ने बैलिस्टिक और क्रूज मिसाइलों तथा ड्रोन हमले किए हैं। इन हमलों से पोडिल्स्की जिले में एक आवासीय इमारत आंशिक रूप से ढह गई। डार्नित्सिया जिले […]",
+        "article": "यूक्रेन की राजधानी कीव पर रूस के मिसाइल और ड्रोन हमलों से 18 लोग मारे गए, जबकि 60 घायल हुए हैं। यूक्रेन की वायु सेना ने कहा कि रूस ने बैलिस्टिक और क्रूज मिसाइलों तथा ड्रोन हमले किए हैं। इन हमलों से पोडिल्स्की जिले में एक आवासीय इमारत आंशिक रूप से ढह गई। डार्नित्सिया जिले में कई बहुमंजिला इमारतें क्षतिग्रस्त हो गईं। इन इमारतों के मलबे के नीचे लोगों के फंसे होने की आशंका है। ये हमले तुर्किए में होने वाले महत्वपूर्ण नाटो शिखर सम्मेलन से एक दिन पहले हुए, जिसमें अमरीका के राष्ट्रपति डोनाल्ड ट्रंप के शामिल होने की आशा है। इससे पहले, बृहस्पतिवार को कीव में हुए एक रूसी हमले में 31 लोग मारे गए थे। रूस के रक्षा मंत्रालय ने कहा कि यह बमबारी यूक्रेन के हालिया लंबी दूरी के हमलों के जवाब में की गई थी, जिससे ईंधन की गंभीर कमी हो गई थी।",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T15:18:04+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%af%e0%a5%82%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%a8-%e0%a4%95%e0%a5%80-%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a5%80-%e0%a4%95%e0%a5%80%e0%a4%b5-%e0%a4%aa%e0%a4%b0-4/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "बहरीन पहुंचे विदेश मंत्री एस. जयशंकर, समकक्ष डॉ. अब्दुललतीफ बिन राशिद अल ज़ायनी से की मुलाकात",
+        "summary": "विदेश मंत्री डॉ. एस. जयशंकर कतर की यात्रा समाप्त करने के बाद पश्चिम एशिया यात्रा के दूसरे चरण में बहरीन पहुंच गए हैं। डॉ. जयशंकर ने मनामा में बहरीन के विदेश मंत्री डॉ. अब्दुललतीफ बिन राशिद अल ज़ायनी से मुलाकात की। सोशल मीडिया पर एक पोस्ट में डॉ. जयशंकर ने कहा कि मुलाकात के दौरान […]",
+        "article": "विदेश मंत्री डॉ. एस. जयशंकर कतर की यात्रा समाप्त करने के बाद पश्चिम एशिया यात्रा के दूसरे चरण में बहरीन पहुंच गए हैं। डॉ. जयशंकर ने मनामा में बहरीन के विदेश मंत्री डॉ. अब्दुललतीफ बिन राशिद अल ज़ायनी से मुलाकात की। सोशल मीडिया पर एक पोस्ट में डॉ. जयशंकर ने कहा कि मुलाकात के दौरान उन्होंने भारतीय समुदाय का कल्&#x200d;याण सुनिश्चित करने के लिए बहरीन के विदेश मंत्री की सराहना की। दोनों मंत्रियों ने द्विपक्षीय सहयोग को और मजबूत करने पर चर्चा की और क्षेत्र में चल रहे घटनाक्रमों पर विचार-विमर्श किया। डॉ. जयशंकर पश्चिम एशिया यात्रा के अंतर्गत कुवैत और ओमान का भी दौरा करेंगे।",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T13:59:52+00:00",
+        "link": "https://newsonair.gov.in/hi/external-affairs-minister-s-jaishankar-arrives-in-bahrain-meets-his-counterpart-dr-abdullatif-bin-rashid-al-zayani/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMi6DyFXwAANvBH.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ईरान के पूर्व सर्वोच्च नेता अयातुल्ला अली ख़ामेनेई की अंतिम यात्रा, बड़ी संख्या में शामिल हुए लोग",
+        "summary": "ईरान की राजधानी तेहरान में आज पूर्व सर्वोच्च नेता अयातुल्ला अली ख़ामेनेई की अंतिम यात्रा में बड़ी संख्या में लोग शामिल हुए। खामेनेई और उनके परिवार के सदस्यों का पार्थिव शरीर एक विशेष वाहन पर रखा गया है। वाहन को एक इमाम की दरगाह की जालीदार बनावट की तरह सजाया गया है। इन लोगों की […]",
+        "article": "ईरान की राजधानी तेहरान में आज पूर्व सर्वोच्च नेता अयातुल्ला अली ख़ामेनेई की अंतिम यात्रा में बड़ी संख्या में लोग शामिल हुए। खामेनेई और उनके परिवार के सदस्यों का पार्थिव शरीर एक विशेष वाहन पर रखा गया है। वाहन को एक इमाम की दरगाह की जालीदार बनावट की तरह सजाया गया है। इन लोगों की 28 फरवरी को इस्राएल और अमरीका की ओर से किए गए हमलों में मृत्&#x200d;यु हो गई थी। अंतिम यात्रा की व्यवस्था संभाल रहे रिवोल्यूशनरी गार्ड के जनरल हसन हसनज़ादेह ने बताया कि पार्थिव शरीरों को लगभग बारह घंटे तक तेहरान की सड़कों से ले जाया जाएगा। इसके बाद उन्हें मेहराबाद अंतरराष्ट्रीय हवाई अड्डे पहुंचाया जाएगा। शोक की अवधि के दौरान प्रशासन ने राजधानी की कई प्रमुख सड़कों को बंद कर दिया है। देश का हवाई क्षेत्र भी अस्थायी रूप से बंद कर दिया गया है और सामान्य जनजीवन पर भी इसका असर पड़ा है। यह शोक शनिवार से शुरू हुआ है और बृहस्पतिवार तक जारी रहेगा। इसके बाद अयातुल्ला अली ख़ामेनेई को उनके जन्मस्थान मशहद स्थित इमाम रज़ा की दरगाह में सुपुर्द-ए-ख़ाक किया जाएगा। इस बीच, ईरान संघर्ष को स्थायी रूप से समाप्त करने के लिए अमरीका के साथ बातचीत भी जारी रखे हुए है।",
+        "date": "2026-07-06",
+        "pubDate": "2026-07-06T11:46:52+00:00",
+        "link": "https://newsonair.gov.in/hi/the-final-journey-of-irans-former-supreme-leader-ayatollah-ali-khamenei-large-numbers-of-people-participated/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMiY5G2aQAA7xhm.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
@@ -1603,8 +1634,8 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T04:25:34+00:00",
         "link": "https://newsonair.gov.in/hi/football-spain-and-belgium-reach-fifa-world-cup-quarter-finals/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-07-095443.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1614,8 +1645,8 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T04:01:53+00:00",
         "link": "https://newsonair.gov.in/hi/cricket-third-match-of-the-five-match-t20-series-between-india-and-england-today/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/Bcci.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1625,8 +1656,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T07:48:04+00:00",
         "link": "https://newsonair.gov.in/hi/fifa-world-cup-england-defeated-mexico-3-2-to-enter-the-quarter-finals/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/FIFA-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1636,8 +1667,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T02:40:48+00:00",
         "link": "https://newsonair.gov.in/hi/brazils-neymar-jr-has-announced-his-retirement-from-international-football/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shanghai-5-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1647,8 +1678,8 @@ window.VM_NEWS = {
         "date": "2026-07-06",
         "pubDate": "2026-07-06T00:51:50+00:00",
         "link": "https://newsonair.gov.in/hi/novak-djokovic-secured-a-spot-in-the-wimbledon-mens-singles-quarter-finals-by-defeating-roman-safiullin/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMe6s2nWAAEuEn2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1658,8 +1689,8 @@ window.VM_NEWS = {
         "date": "2026-07-05",
         "pubDate": "2026-07-05T01:05:49+00:00",
         "link": "https://newsonair.gov.in/hi/wimbledon-mertens-stuns-rybakina/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607043852052.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1669,8 +1700,8 @@ window.VM_NEWS = {
         "date": "2026-07-05",
         "pubDate": "2026-07-05T00:59:16+00:00",
         "link": "https://newsonair.gov.in/hi/ind-eng-t20/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/India_vs_England_0127-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1680,8 +1711,8 @@ window.VM_NEWS = {
         "date": "2026-07-05",
         "pubDate": "2026-07-05T00:49:01+00:00",
         "link": "https://newsonair.gov.in/hi/icc-womens-t20-final/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMaLYj0aYAAOX7x.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1691,8 +1722,8 @@ window.VM_NEWS = {
         "date": "2026-07-04",
         "pubDate": "2026-07-04T11:27:23+00:00",
         "link": "https://newsonair.gov.in/hi/canada-will-face-morocco-today-in-the-round-of-16-of-the-fifa-world-cup/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/fifa.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1702,8 +1733,8 @@ window.VM_NEWS = {
         "date": "2026-07-04",
         "pubDate": "2026-07-04T07:08:48+00:00",
         "link": "https://newsonair.gov.in/hi/r-praggnanandhaa-secured-the-top-spot-by-winning-all-three-of-his-matches-in-the-rapid-section-of-the-croatia-grand-chess-tour/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/05/R-Praggnanandhaa1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
@@ -1827,8 +1858,8 @@ window.VM_NEWS = {
         "date": "2026-05-22",
         "pubDate": "2026-05-22T02:24:07+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a4%be%e0%a4%a8%e0%a5%8d%e0%a4%b8-%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae-%e0%a4%ae%e0%a4%b9%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%b8%e0%a4%b5-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b9/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/Untitled-design-27.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1838,8 +1869,8 @@ window.VM_NEWS = {
         "date": "2026-03-31",
         "pubDate": "2026-03-31T07:55:25+00:00",
         "link": "https://newsonair.gov.in/hi/iffd-2026-will-conclude-with-the-screening-of-lalo-krishna-sada-sahayate/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/लालो.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1849,8 +1880,8 @@ window.VM_NEWS = {
         "date": "2026-02-23",
         "pubDate": "2026-02-23T04:47:52+00:00",
         "link": "https://newsonair.gov.in/hi/manipuri-comedy-drama-film-boong-wins-best-childrens-and-family-film-category-at-bafta-awards/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/Boong-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1860,8 +1891,8 @@ window.VM_NEWS = {
         "date": "2026-02-23",
         "pubDate": "2026-02-23T03:36:35+00:00",
         "link": "https://newsonair.gov.in/hi/the-film-one-battle-after-another-created-a-stir-at-the-79th-bafta-awards/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/HBykUy4XMAAB08r.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1871,8 +1902,8 @@ window.VM_NEWS = {
         "date": "2026-01-23",
         "pubDate": "2026-01-23T04:07:03+00:00",
         "link": "https://newsonair.gov.in/hi/24th-international-film-festival-of-pune-concludes-with-a-colourful-ceremony/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/पुणे.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1882,8 +1913,8 @@ window.VM_NEWS = {
         "date": "2025-12-17",
         "pubDate": "2025-12-17T08:10:26+00:00",
         "link": "https://newsonair.gov.in/hi/the-indian-film-homebound-has-been-nominated-in-the-best-feature-film-category-at-the-98th-academy-awards/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/homeeee.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1893,19 +1924,8 @@ window.VM_NEWS = {
         "date": "2025-12-08",
         "pubDate": "2025-12-08T03:03:45+00:00",
         "link": "https://newsonair.gov.in/hi/renowned-actor-kalyan-chattopadhyay-passes-away-at-the-age-of-82/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "56वां भारतीय अंतरराष्‍ट्रीय फिल्‍म महोत्‍सव गोवा में शानदार पुरस्‍कार समारोह के साथ सम्‍पन्‍न",
-        "summary": "56वां भारतीय अंतरराष्‍ट्रीय फिल्‍म महोत्‍सव गोवा में शानदार पुरस्‍कार समारोह के साथ सम्‍पन्‍न हो गया। इसमें दुनिया भर की बेहतरीन फिल्मों को सम्मानित किया गया, जो इस वर्ष की फिल्मों के उत्‍सव का यादगार फिनाले था। बेस्ट फीचर फिल्म के लिए प्रतिष्ठित गोल्डन पीकॉक अवॉर्ड वियतनामी फिल्म स्किन ऑफ यूथ को दिया गया, जिसे […]",
-        "article": "56वां भारतीय अंतरराष्&#x200d;ट्रीय फिल्&#x200d;म महोत्&#x200d;सव गोवा में शानदार पुरस्&#x200d;कार समारोह के साथ सम्&#x200d;पन्&#x200d;न हो गया। इसमें दुनिया भर की बेहतरीन फिल्मों को सम्मानित किया गया, जो इस वर्ष की फिल्मों के उत्&#x200d;सव का यादगार फिनाले था। बेस्ट फीचर फिल्म के लिए प्रतिष्ठित गोल्डन पीकॉक अवॉर्ड वियतनामी फिल्म स्किन ऑफ यूथ को दिया गया, जिसे एशले मेफेयर ने डायरेक्ट किया था। सिल्वर पीकॉक कैटेगरी में, संतोष दवाखर ने मराठी फिल्म गोंधल के लिए बेस्ट डायरेक्टर का अवॉर्ड जीता। उबेइमार रियोस को स्पेनिश फिल्म ए पोएट के लिए बेस्ट मेल एक्टर मिला, जबकि जारा सोफिया ओस्तान को स्लोवेनियाई फिल्म लिटिल ट्रबल गर्ल्स में उनके परफॉर्मेंस के लिए बेस्ट फीमेल एक्टर का अवॉर्ड मिला। ईरानी फिल्ममेकर हेसम फरहमंद और एस्टोनियाई डायरेक्टर टोनीस पिल एक डायरेक्टर की बेस्ट डेब्यू फीचर फिल्म के संयुक्&#x200d;त विजेता बने। करण सिंह त्यागी ने केसरी चैप्टर 2 के लिए इंडियन फीचर फिल्म के बेस्ट डेब्यू डायरेक्टर का अवॉर्ड जीता। बेस्ट वेब सीरीज-ओटीटी का अवॉर्ड बंदिश बैंडिट्स सीजन 2 को मिला। शांति और इंटरकल्चरल बातचीत को बढ़ावा देने के लिए नॉर्वे की फिल्म सेफ हाउस को ICFT-UNESCO गांधी मेडल दिया गया। इस वर्ष एक खास बात यह रही कि महान अभिनेता रजनीकांत को भारतीय सिनेमा में 50 वर्ष पूरे करने पर सम्मानित किया गया। उन्होंने शुक्रिया अदा करते हुए कहा कि “यह सम्मान पूरी फिल्म इंडस्ट्री का है। भले ही मुझे सौ जन्म लेने पड़ें, मैं रजनीकांत के रूप में पैदा होना चाहता हूं, क्योंकि मुझे सिनेमा और अभिनय से प्यार है।” फेस्टिवल के खत्म होने के दौरान मुख्&#x200d;यमंत्री डॉ. प्रमोद सावंत ने समारोह को संबोधित किया, उन्होंने कहा कि इस बार इफ्फी पिछले कई दिनों में वैश्विक सहयोग में रचनात्&#x200d;मक लोगों, आर्टिस्ट्री और ब्रिलियंस के शानदार एकजुटता का कॉसंगम था, और गोवा ने आइडिया और कल्चर के असाधारण संगम को देखा है। फिल्ममेकर शेखर कपूर ने कहा कि इफ्फी ने कहानी कहने में नवाचार और परंपरा दोनों का उत्&#x200d;सव मनाते हुए, ग्लोबल क्रिएटिव हब के रूप में भारत की स्थिति को मजबूत करना जारी रखा है।",
-        "date": "2025-11-28",
-        "pubDate": "2025-11-28T15:45:34+00:00",
-        "link": "https://newsonair.gov.in/hi/56%e0%a4%b5%e0%a4%be%e0%a4%82-%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/kalyan.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1915,6 +1935,17 @@ window.VM_NEWS = {
         "date": "2025-11-28",
         "pubDate": "2025-11-28T12:32:09+00:00",
         "link": "https://newsonair.gov.in/hi/56%e0%a4%b5%e0%a4%be%e0%a4%82-%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/आईएफएफ.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "56वां भारतीय अंतरराष्‍ट्रीय फिल्‍म महोत्‍सव गोवा में शानदार पुरस्‍कार समारोह के साथ सम्‍पन्‍न",
+        "summary": "56वां भारतीय अंतरराष्‍ट्रीय फिल्‍म महोत्‍सव गोवा में शानदार पुरस्‍कार समारोह के साथ सम्‍पन्‍न हो गया। इसमें दुनिया भर की बेहतरीन फिल्मों को सम्मानित किया गया, जो इस वर्ष की फिल्मों के उत्‍सव का यादगार फिनाले था। बेस्ट फीचर फिल्म के लिए प्रतिष्ठित गोल्डन पीकॉक अवॉर्ड वियतनामी फिल्म स्किन ऑफ यूथ को दिया गया, जिसे […]",
+        "article": "56वां भारतीय अंतरराष्&#x200d;ट्रीय फिल्&#x200d;म महोत्&#x200d;सव गोवा में शानदार पुरस्&#x200d;कार समारोह के साथ सम्&#x200d;पन्&#x200d;न हो गया। इसमें दुनिया भर की बेहतरीन फिल्मों को सम्मानित किया गया, जो इस वर्ष की फिल्मों के उत्&#x200d;सव का यादगार फिनाले था। बेस्ट फीचर फिल्म के लिए प्रतिष्ठित गोल्डन पीकॉक अवॉर्ड वियतनामी फिल्म स्किन ऑफ यूथ को दिया गया, जिसे एशले मेफेयर ने डायरेक्ट किया था। सिल्वर पीकॉक कैटेगरी में, संतोष दवाखर ने मराठी फिल्म गोंधल के लिए बेस्ट डायरेक्टर का अवॉर्ड जीता। उबेइमार रियोस को स्पेनिश फिल्म ए पोएट के लिए बेस्ट मेल एक्टर मिला, जबकि जारा सोफिया ओस्तान को स्लोवेनियाई फिल्म लिटिल ट्रबल गर्ल्स में उनके परफॉर्मेंस के लिए बेस्ट फीमेल एक्टर का अवॉर्ड मिला। ईरानी फिल्ममेकर हेसम फरहमंद और एस्टोनियाई डायरेक्टर टोनीस पिल एक डायरेक्टर की बेस्ट डेब्यू फीचर फिल्म के संयुक्&#x200d;त विजेता बने। करण सिंह त्यागी ने केसरी चैप्टर 2 के लिए इंडियन फीचर फिल्म के बेस्ट डेब्यू डायरेक्टर का अवॉर्ड जीता। बेस्ट वेब सीरीज-ओटीटी का अवॉर्ड बंदिश बैंडिट्स सीजन 2 को मिला। शांति और इंटरकल्चरल बातचीत को बढ़ावा देने के लिए नॉर्वे की फिल्म सेफ हाउस को ICFT-UNESCO गांधी मेडल दिया गया। इस वर्ष एक खास बात यह रही कि महान अभिनेता रजनीकांत को भारतीय सिनेमा में 50 वर्ष पूरे करने पर सम्मानित किया गया। उन्होंने शुक्रिया अदा करते हुए कहा कि “यह सम्मान पूरी फिल्म इंडस्ट्री का है। भले ही मुझे सौ जन्म लेने पड़ें, मैं रजनीकांत के रूप में पैदा होना चाहता हूं, क्योंकि मुझे सिनेमा और अभिनय से प्यार है।” फेस्टिवल के खत्म होने के दौरान मुख्&#x200d;यमंत्री डॉ. प्रमोद सावंत ने समारोह को संबोधित किया, उन्होंने कहा कि इस बार इफ्फी पिछले कई दिनों में वैश्विक सहयोग में रचनात्&#x200d;मक लोगों, आर्टिस्ट्री और ब्रिलियंस के शानदार एकजुटता का कॉसंगम था, और गोवा ने आइडिया और कल्चर के असाधारण संगम को देखा है। फिल्ममेकर शेखर कपूर ने कहा कि इफ्फी ने कहानी कहने में नवाचार और परंपरा दोनों का उत्&#x200d;सव मनाते हुए, ग्लोबल क्रिएटिव हब के रूप में भारत की स्थिति को मजबूत करना जारी रखा है।",
+        "date": "2025-11-28",
+        "pubDate": "2025-11-28T15:45:34+00:00",
+        "link": "https://newsonair.gov.in/hi/56%e0%a4%b5%e0%a4%be%e0%a4%82-%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1939,8 +1970,8 @@ window.VM_NEWS = {
         "date": "2026-06-04",
         "pubDate": "2026-06-04T06:01:50+00:00",
         "link": "https://newsonair.gov.in/hi/who-expresses-concern-over-rapid-spread-of-ebola-outbreak-in-congo/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/WHO.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1950,8 +1981,8 @@ window.VM_NEWS = {
         "date": "2026-05-21",
         "pubDate": "2026-05-21T07:50:34+00:00",
         "link": "https://newsonair.gov.in/hi/directorate-general-of-health-services-issues-advisory-for-travellers-arriving-from-and-transiting-through-ebola-affected-countries/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/cds.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1961,8 +1992,8 @@ window.VM_NEWS = {
         "date": "2026-05-21",
         "pubDate": "2026-05-21T07:00:38+00:00",
         "link": "https://newsonair.gov.in/hi/india-launches-worlds-largest-screening-drive-to-eliminate-tb-union-health-minister-j-p-nadda/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/jp-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1972,8 +2003,8 @@ window.VM_NEWS = {
         "date": "2026-05-08",
         "pubDate": "2026-05-08T07:44:50+00:00",
         "link": "https://newsonair.gov.in/hi/health-minister-jp-nadda-launches-integrated-training-programme-for-primary-health-teams/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/J-p-Nadda.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1983,8 +2014,8 @@ window.VM_NEWS = {
         "date": "2026-05-07",
         "pubDate": "2026-05-07T03:01:43+00:00",
         "link": "https://newsonair.gov.in/hi/union-minister-to-launch-nationwide-annual-health-check-up-initiative-for-workers-from-esic/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/man.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1994,8 +2025,8 @@ window.VM_NEWS = {
         "date": "2026-04-07",
         "pubDate": "2026-04-07T08:28:42+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af-%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8-%e0%a4%aa%e0%a5%80%e0%a4%8f/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Untitled-design-3-5.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -2005,8 +2036,8 @@ window.VM_NEWS = {
         "date": "2026-02-11",
         "pubDate": "2026-02-11T01:59:38+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a5%87%e0%a4%a6%e0%a4%bf%e0%a4%95-%e0%a4%94%e0%a4%b7%e0%a4%a7%e0%a4%bf-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a4%e0%a4%be/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/HAz4fsPbUAAOn4m-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -2016,8 +2047,8 @@ window.VM_NEWS = {
         "date": "2026-01-15",
         "pubDate": "2026-01-15T12:24:16+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4-%e0%a4%95%e0%a5%87-%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b7-%e0%a4%b9%e0%a4%b0%e0%a5%8d%e0%a4%ac%e0%a4%b2-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Untitled-design-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -2027,8 +2058,8 @@ window.VM_NEWS = {
         "date": "2025-12-27",
         "pubDate": "2025-12-27T04:59:50+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%9c%e0%a5%87-%e0%a4%aa%e0%a5%80-%e0%a4%a8%e0%a4%a1%e0%a5%8d/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G9GqIftaAAEWJQP.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -2038,8 +2069,8 @@ window.VM_NEWS = {
         "date": "2025-12-20",
         "pubDate": "2025-12-20T08:20:53+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%9c%e0%a5%87%e0%a4%aa%e0%a5%80-%e0%a4%a8%e0%a4%a1%e0%a5%8d-3/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G8jVc1PbMAQhk_x.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ]
