@@ -1434,6 +1434,7 @@
       <li><a href="#" data-feed="business"             data-hi="व्यापार"       data-en="Business"       onclick="navClick(this);return false;">व्यापार</a></li>
       <li><a href="#" data-feed="entertainment"        data-hi="मनोरंजन"       data-en="Entertainment"  onclick="navClick(this);return false;">मनोरंजन</a></li>
       <li><a href="#" data-feed="lifestyle"            data-hi="जीवनशैली"      data-en="Lifestyle"      onclick="navClick(this);return false;">जीवनशैली</a></li>
+      <li><a href="#" data-feed="vmdesk"               data-hi="VM डेस्क"      data-en="VM Desk"        onclick="navClick(this);return false;">VM डेस्क</a></li>
     </ul>
   </nav>
 
@@ -1937,8 +1938,8 @@ var VM_SUBSCRIBE_URL = 'https://script.google.com/macros/s/AKfycbw_UDz41q9C-qnNw
 var VM_LIVEDESK_URL  = VM_SUBSCRIBE_URL; // same Apps Script deployment, routed by "type"
 
 /* ── Category labels ─────────────────────────────── */
-var CAT_HI = { top:'प्रमुख समाचार', national:'राष्ट्रीय', politics:'राजनीति', world:'अंतरराष्ट्रीय', sports:'खेल', business:'व्यापार', entertainment:'मनोरंजन', lifestyle:'जीवनशैली' };
-var CAT_EN = { top:'Top News', national:'National', politics:'Politics', world:'World', sports:'Sports', business:'Business', entertainment:'Entertainment', lifestyle:'Lifestyle' };
+var CAT_HI = { top:'प्रमुख समाचार', national:'राष्ट्रीय', politics:'राजनीति', world:'अंतरराष्ट्रीय', sports:'खेल', business:'व्यापार', entertainment:'मनोरंजन', lifestyle:'जीवनशैली', vmdesk:'VM डेस्क' };
+var CAT_EN = { top:'Top News', national:'National', politics:'Politics', world:'World', sports:'Sports', business:'Business', entertainment:'Entertainment', lifestyle:'Lifestyle', vmdesk:'VM Desk' };
 
 var GRAD = [
   'linear-gradient(135deg,#e8a0a0,#c05050)',
@@ -2080,6 +2081,8 @@ function loadFeed(key) {
   if (sdhi) sdhi.textContent = CAT_HI[key] || CAT_HI.top;
   if (sden) sden.textContent = (CAT_EN[key] || 'TOP NEWS').toUpperCase();
 
+  if (key === 'vmdesk') { renderVmDesk(); return; }
+
   if (!window.VM_NEWS) { renderNoData(); return; }
 
   var raw   = getCatItems(key);
@@ -2092,6 +2095,38 @@ function loadFeed(key) {
   items.forEach(function(i){ if (i._src && !srcSeen[i._src]){ sources.push(i._src); srcSeen[i._src]=true; } });
   renderArticles(items, { label: sources.join(' · ') });
   setUpdatedBar(window.VM_NEWS.generated, sources.join(' · '));
+}
+
+/* ── VM Desk tab: all VM shorts as article cards ────── */
+function renderVmDesk() {
+  var shorts = vmShorts();
+  if (!shorts.length) {
+    renderNoData();
+    document.getElementById('lead-hl').textContent = lang==='hi'
+      ? 'अभी कोई VM डेस्क अपडेट नहीं' : 'No VM Desk updates yet';
+    document.getElementById('lead-exc').textContent = lang==='hi'
+      ? 'लाइव डेस्क से प्रकाशित VM शॉर्ट यहाँ दिखेंगे।'
+      : 'VM shorts published from the Live Desk will appear here.';
+    return;
+  }
+  var items = shorts.map(function(s){
+    return {
+      title:       s.hl || '',
+      description: s.sum || s.body || '',
+      article:     s.body || s.sum || s.hl || '',
+      pubDate:     s.pub || '',
+      link:        '',
+      thumbnail:   s.mediaUrl || '',
+      _src:        lang==='hi' ? 'VM डेस्क' : 'VM DESK',
+      _imgCredit:  'Vande Matrabhoomi',
+      enclosure:   null,
+      categories:  []
+    };
+  });
+  renderArticles(items, { label: 'VM Desk' });
+  var credit = document.getElementById('news-credit');
+  if (credit) credit.textContent = lang==='hi'
+    ? 'वन्दे मातृभूमि डेस्क से प्रकाशित' : 'Published by the Vande Matrabhoomi desk';
 }
 
 /* ── Breaking ticker ────────────────────────────────── */
@@ -2500,8 +2535,9 @@ var CAT_DESK = {
 };
 
 /* VM shorts live in the same story pipeline with the sentinel category
-   'VMShort'. They appear only in the Live Desk feed and the homepage
-   notification strip — never in Opinion or the editorial teaser. */
+   'VMShort'. They appear in the Live Desk feed, the homepage notification
+   strip, and the VM डेस्क tab of the category bar — never in Opinion or
+   the editorial teaser. */
 function editorialStories() {
   return stories.filter(function(s){ return s.cat !== 'VMShort'; });
 }
@@ -2764,6 +2800,7 @@ function loadStories() {
         var d = new Date(s.pubDate);
         return {
           id: s.id, hl: s.hl, cat: s.cat, sum: s.sum, body: s.body, mediaUrl: s.mediaUrl || '',
+          pub: s.pubDate,
           dateHi: d.toLocaleDateString('hi-IN', { day:'numeric', month:'long', year:'numeric' }),
           dateEn: d.toLocaleDateString('en-IN', { day:'numeric', month:'long', year:'numeric' })
         };
@@ -2772,6 +2809,7 @@ function loadStories() {
       renderOpinion();
       renderEditorialTeaser();
       renderVmBanner();
+      if (currentFeed === 'vmdesk') renderVmDesk();
     })
     .catch(function(){ renderFeed(); renderOpinion(); renderEditorialTeaser(); renderVmBanner(); });
 }
@@ -2841,6 +2879,7 @@ function openVmShort() {
   document.getElementById('vms-date').textContent = lang==='hi' ? s.dateHi : s.dateEn;
   document.getElementById('vms-hl').textContent = s.hl;
   var img = document.getElementById('vms-img');
+  img.onerror = function(){ img.style.display = 'none'; };
   if (s.mediaUrl) { img.src = s.mediaUrl; img.style.display = 'block'; }
   else { img.style.display = 'none'; }
   document.getElementById('vms-body').textContent = s.body || s.sum || '';
