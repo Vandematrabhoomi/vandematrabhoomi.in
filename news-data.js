@@ -1,8 +1,41 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-07T08:40:12.297122",
+  "generated": "2026-07-07T10:41:50.137965",
   "en": {
     "top": [
+      {
+        "title": "PM Modi addresses joint session of Indonesian Parliament: says both countries working closely to counter terrorism",
+        "summary": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the […]",
+        "article": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the world&#8217;s faith that democracy creates opportunities and builds trust. The Prime Minister said history will be made when India&#8217;s 140 crore people and Indonesia&#8217;s 29 crore people move forward together in pursuit of shared progress. The Prime Minister said India and Indonesia are working closely to counter terrorism through the Joint Working Group mechanism. He reaffirmed India&#8217;s commitment to a free, open and inclusive Indo-Pacific and stressed the importance of ensuring freedom of navigation in the region. Mr. Modi also said that reforms of the United Nations Security Council can no longer be delayed. He added that India is ready to extend its support to Indonesia in the field of satellite launch technology.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T10:35:19+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-addresses-joint-session-of-indonesian-parliament-says-both-countries-working-closely-to-counter-terrorism/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "“Pragati” aims to empower agricultural entrepreneurs & farmers: Agriculture Minister Shivraj Singh Chouhan",
+        "summary": "Union Agriculture Minister Shivraj Singh Chouhan today launched the Pragati project aimed at empowering over twenty thousand agricultural entrepreneurs and 20 lakh farmers. Talking to the media in New Delhi, Mr Chouhan has stressed on the need to develop agriculture, prosperous villages, and prosperous farmers for achieving the Viksit Bharat vision. He said that […]",
+        "article": "Union Agriculture Minister Shivraj Singh Chouhan today launched the Pragati project aimed at empowering over twenty thousand agricultural entrepreneurs and 20 lakh farmers. Talking to the media in New Delhi, Mr Chouhan has stressed on the need to develop agriculture, prosperous villages, and prosperous farmers for achieving the Viksit Bharat vision. He said that the government is making every effort to achieve this vision, and the pace of work accelerates when other organisations join these efforts. The Agriculture Minister said that the government has decided to train 26,000 small agricultural entrepreneurs under the Pragati program. He said that these entrepreneurs work within a village and collaborate with 100-200 farmers to transform the village&#8217;s agriculture.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T09:50:46+00:00",
+        "link": "https://newsonair.gov.in/pragati-aims-to-empower-agricultural-entrepreneurs-farmers-agriculture-minister-shivraj-singh-chouhan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shivraj.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Iran rules out talks with US on final agreement",
+        "summary": "Iranian Foreign Minister Seyed Abbas Araghchi has firmly refused to negotiations with Washington on a final agreement following remarks by US President Donald Trump. In a social media post, Araghchi cited the Memorandum of Understanding between Iran and the United States, stating that Tehran would not resume talks until Washington honoured its commitments. Earlier, President […]",
+        "article": "Iranian Foreign Minister Seyed Abbas Araghchi has firmly refused to negotiations with Washington on a final agreement following remarks by US President Donald Trump. In a social media post, Araghchi cited the Memorandum of Understanding between Iran and the United States, stating that Tehran would not resume talks until Washington honoured its commitments. Earlier, President Trump said the United States would either secure a deal with Iran or &#8220;finish the job&#8221;, claiming Washington could cripple Iran&#8217;s critical infrastructure if required. Iran strongly condemned the remarks, and the Iranian Embassy in Armenia also criticised the United States in a social media post. Meanwhile, Iranian state television reported that the body of the country&#8217;s former Supreme Leader had arrived in Qom by helicopter.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:50:15+00:00",
+        "link": "https://newsonair.gov.in/iran-rules-out-talks-with-us-on-final-agreement/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Union Health Minister J. P. Nadda chairs high-level meeting on TB Mukt Bharat",
         "summary": "Union Health Minister J. P. Nadda chaired a high-level meeting in New Delhi with Labour and Employment Minister Mansukh Mandaviya and Minister of State for Defence Sanjay Seth to strengthen support for the TB Mukt Bharat Abhiyaan. Calling for a whole-of-government approach to eliminate tuberculosis, Mr Nadda urged all Ministries to intensify their efforts […]",
@@ -33,17 +66,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-07T08:30:42+00:00",
         "link": "https://newsonair.gov.in/tribal-affairs-ministry-unveils-roadmap-to-strengthen-tribal-research-institutes/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi holds talks with Indonesian President; conferred Indonesia’s highest honour, key MoUs exchanged",
-        "summary": "Prime Minister Narendra Modi was conferred Indonesia&#8217;s highest civilian honour, the Bintang Adipurna of the Republic of Indonesia, by Indonesian President Prabowo Subianto during a ceremonial event at Istana Merdeka, the Presidential Palace in Jakarta. The honour recognises Prime Minister Modi&#8217;s contribution to strengthening the Comprehensive Strategic Partnership and deepening the his",
-        "article": "Prime Minister Narendra Modi was conferred Indonesia&#8217;s highest civilian honour, the Bintang Adipurna of the Republic of Indonesia, by Indonesian President Prabowo Subianto during a ceremonial event at Istana Merdeka, the Presidential Palace in Jakarta. The honour recognises Prime Minister Modi&#8217;s contribution to strengthening the Comprehensive Strategic Partnership and deepening the historic friendship between India and Indonesia. Earlier, Prime Minister Modi was accorded a ceremonial welcome at Istana Merdeka, where he and President Prabowo Subianto were warmly received by children waving the national flags of both countries. The two leaders held delegation-level talks to review the entire spectrum of bilateral ties and discussed ways to expand cooperation in trade, defence, maritime security, digital technology, health, education and cultural exchanges. They also witnessed the exchange of several agreements following the talks.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:10:43+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-holds-talks-with-indonesian-president-in-jakarta-mous-exchanged/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/28.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -112,31 +134,31 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "Former Mongolian President lauds progress of India-backed oil refinery project",
-        "summary": "Former Mongolian President and leader of the ruling Mongolian People&#8217;s Party (MPP), Nambaryn Enkhbayar, has appreciated the progress of the Oil Refinery Project at Dornogovi, which is being developed with India&#8217;s support. The Mongol Oil Refinery Project, being implemented with the support of a 1.7 billion US dollar Line of Credit (LoC) extended by the […]",
-        "article": "Former Mongolian President and leader of the ruling Mongolian People&#8217;s Party (MPP), Nambaryn Enkhbayar, has appreciated the progress of the Oil Refinery Project at Dornogovi, which is being developed with India&#8217;s support. The Mongol Oil Refinery Project, being implemented with the support of a 1.7 billion US dollar Line of Credit (LoC) extended by the Government of India, is a flagship initiative and a key component of Mongolia&#8217;s sustainable energy strategy. The Indian Embassy in Mongolia, in a social media post, said that Indian Ambassador Atul Malhari Gotsurve, along with the former Mongolian President, visited the project site at Dornogovi and interacted with engineers and workers from Engineers India Limited, Megha Engineering and Infrastructures Limited, and Mongol Refinery. The Embassy said Mr Enkhbayar appreciated the progress of the mega project and noted that it would further strengthen India-Mongolia bilateral ties while ensuring sustainable energy supplies for Mongolia.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:39:41+00:00",
-        "link": "https://newsonair.gov.in/former-mongolian-president-lauds-progress-of-india-backed-oil-refinery-project/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/10.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Death toll from Venezuela earthquakes rises to 3,535",
-        "summary": "Venezuela&#8217;s National Assembly President Jorge Rodriguez has said that the death toll from the twin earthquakes has risen to 3,535, while 16,740 people have been injured. He said 17,854 people remain homeless. Mr Rodriguez said 6,462 people have been rescued so far, while 86,794 families have received assistance. On 24 June, two powerful earthquakes of […]",
-        "article": "Venezuela&#8217;s National Assembly President Jorge Rodriguez has said that the death toll from the twin earthquakes has risen to 3,535, while 16,740 people have been injured. He said 17,854 people remain homeless. Mr Rodriguez said 6,462 people have been rescued so far, while 86,794 families have received assistance. On 24 June, two powerful earthquakes of magnitude 7.2 and 7.5 struck the South American nation in quick succession. Multiple structures collapsed in Caracas following the strong tremors, which were felt across large parts of Venezuela.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:35:56+00:00",
-        "link": "https://newsonair.gov.in/death-toll-from-venezuela-earthquakes-rises-to-3535/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AP06_25_2026_000059A-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "PM Modi addresses joint session of Indonesian Parliament: says both countries working closely to counter terrorism",
+        "summary": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the […]",
+        "article": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the world&#8217;s faith that democracy creates opportunities and builds trust. The Prime Minister said history will be made when India&#8217;s 140 crore people and Indonesia&#8217;s 29 crore people move forward together in pursuit of shared progress. The Prime Minister said India and Indonesia are working closely to counter terrorism through the Joint Working Group mechanism. He reaffirmed India&#8217;s commitment to a free, open and inclusive Indo-Pacific and stressed the importance of ensuring freedom of navigation in the region. Mr. Modi also said that reforms of the United Nations Security Council can no longer be delayed. He added that India is ready to extend its support to Indonesia in the field of satellite launch technology.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T10:35:19+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-addresses-joint-session-of-indonesian-parliament-says-both-countries-working-closely-to-counter-terrorism/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "“Pragati” aims to empower agricultural entrepreneurs & farmers: Agriculture Minister Shivraj Singh Chouhan",
+        "summary": "Union Agriculture Minister Shivraj Singh Chouhan today launched the Pragati project aimed at empowering over twenty thousand agricultural entrepreneurs and 20 lakh farmers. Talking to the media in New Delhi, Mr Chouhan has stressed on the need to develop agriculture, prosperous villages, and prosperous farmers for achieving the Viksit Bharat vision. He said that […]",
+        "article": "Union Agriculture Minister Shivraj Singh Chouhan today launched the Pragati project aimed at empowering over twenty thousand agricultural entrepreneurs and 20 lakh farmers. Talking to the media in New Delhi, Mr Chouhan has stressed on the need to develop agriculture, prosperous villages, and prosperous farmers for achieving the Viksit Bharat vision. He said that the government is making every effort to achieve this vision, and the pace of work accelerates when other organisations join these efforts. The Agriculture Minister said that the government has decided to train 26,000 small agricultural entrepreneurs under the Pragati program. He said that these entrepreneurs work within a village and collaborate with 100-200 farmers to transform the village&#8217;s agriculture.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T09:50:46+00:00",
+        "link": "https://newsonair.gov.in/pragati-aims-to-empower-agricultural-entrepreneurs-farmers-agriculture-minister-shivraj-singh-chouhan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shivraj.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Union Health Minister J. P. Nadda chairs high-level meeting on TB Mukt Bharat",
         "summary": "Union Health Minister J. P. Nadda chaired a high-level meeting in New Delhi with Labour and Employment Minister Mansukh Mandaviya and Minister of State for Defence Sanjay Seth to strengthen support for the TB Mukt Bharat Abhiyaan. Calling for a whole-of-government approach to eliminate tuberculosis, Mr Nadda urged all Ministries to intensify their efforts […]",
@@ -167,17 +189,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-07T08:30:42+00:00",
         "link": "https://newsonair.gov.in/tribal-affairs-ministry-unveils-roadmap-to-strengthen-tribal-research-institutes/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi holds talks with Indonesian President; conferred Indonesia’s highest honour, key MoUs exchanged",
-        "summary": "Prime Minister Narendra Modi was conferred Indonesia&#8217;s highest civilian honour, the Bintang Adipurna of the Republic of Indonesia, by Indonesian President Prabowo Subianto during a ceremonial event at Istana Merdeka, the Presidential Palace in Jakarta. The honour recognises Prime Minister Modi&#8217;s contribution to strengthening the Comprehensive Strategic Partnership and deepening the his",
-        "article": "Prime Minister Narendra Modi was conferred Indonesia&#8217;s highest civilian honour, the Bintang Adipurna of the Republic of Indonesia, by Indonesian President Prabowo Subianto during a ceremonial event at Istana Merdeka, the Presidential Palace in Jakarta. The honour recognises Prime Minister Modi&#8217;s contribution to strengthening the Comprehensive Strategic Partnership and deepening the historic friendship between India and Indonesia. Earlier, Prime Minister Modi was accorded a ceremonial welcome at Istana Merdeka, where he and President Prabowo Subianto were warmly received by children waving the national flags of both countries. The two leaders held delegation-level talks to review the entire spectrum of bilateral ties and discussed ways to expand cooperation in trade, defence, maritime security, digital technology, health, education and cultural exchanges. They also witnessed the exchange of several agreements following the talks.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:10:43+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-holds-talks-with-indonesian-president-in-jakarta-mous-exchanged/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/28.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -226,30 +237,42 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "IMD forecasts heavy rainfall over parts of western and central India",
-        "summary": "The India Meteorological Department (IMD) has forecast heavy rainfall today over parts of Coastal Karnataka, Gujarat, Konkan and Goa, and Madhya Maharashtra. Heavy rainfall is also likely over parts of Arunachal Pradesh, Bihar, Chhattisgarh, East Rajasthan, Himachal Pradesh, Interior Karnataka, Madhya Pradesh, Sub-Himalayan West Bengal and Sikkim. Light to moderate rainfall is expected at isolated",
-        "article": "The India Meteorological Department (IMD) has forecast heavy rainfall today over parts of Coastal Karnataka, Gujarat, Konkan and Goa, and Madhya Maharashtra. Heavy rainfall is also likely over parts of Arunachal Pradesh, Bihar, Chhattisgarh, East Rajasthan, Himachal Pradesh, Interior Karnataka, Madhya Pradesh, Sub-Himalayan West Bengal and Sikkim. Light to moderate rainfall is expected at isolated places over Delhi, Haryana, Chandigarh, parts of the North East, Odisha, Punjab and Uttar Pradesh. According to the IMD, thunder squalls are likely today over parts of Karnataka and Telangana. Thunderstorms accompanied by lightning are also expected over the Andaman and Nicobar Islands, Andhra Pradesh, Bihar, Gangetic West Bengal, Jammu and Kashmir, Ladakh, Jharkhand, Rajasthan and Uttar Pradesh.",
+        "title": "PM Modi holds talks with Indonesian President; conferred with country’s highest honour, key MoUs exchangedd",
+        "summary": "Prime Minister Narendra Modi was conferred Indonesia’s highest civilian honour, the Bintang Adipurna of the Republic of Indonesia, by Indonesian President Prabowo Subianto during a ceremonial event at Istana Merdeka, the Presidential Palace in Jakarta. The honour recognises Prime Minister Modi’s contribution to strengthening the India-Indonesia Comprehensive Strategic Partnership and deepening the",
+        "article": "Prime Minister Narendra Modi was conferred Indonesia’s highest civilian honour, the Bintang Adipurna of the Republic of Indonesia, by Indonesian President Prabowo Subianto during a ceremonial event at Istana Merdeka, the Presidential Palace in Jakarta. The honour recognises Prime Minister Modi’s contribution to strengthening the India-Indonesia Comprehensive Strategic Partnership and deepening the historic friendship between the two countries. Earlier, Prime Minister Modi was accorded a ceremonial welcome at Istana Merdeka, where he and President Prabowo Subianto were warmly received by children waving the national flags of India and Indonesia. The two leaders held delegation-level talks to review the entire spectrum of bilateral relations and discussed ways to expand cooperation in trade, defence, maritime security, digital technology, health, education and cultural exchanges. They also witnessed the exchange of several agreements following the talks. Prime Minister Narendra Modi and Indonesian President Prabowo Subianto reaffirmed their commitment to further strengthening the India-Indonesia Comprehensive Strategic Partnership during the talks in Jakarta. The two leaders also witnessed the signing of several Memorandums of Understanding covering defence, critical minerals, agriculture, steel, maritime cooperation and emerging technologies. They agreed to establish a branch campus of the Indian Institute of Management (IIM) Bangalore in Jakarta. The two sides also agreed to enhance cooperation in manufacturing, food security and digital technology. Addressing the joint press interaction, President Prabowo described India as a trusted strategic partner and welcomed the expansion of bilateral ties across key sectors.",
         "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:34:07+00:00",
-        "link": "https://newsonair.gov.in/imd-forecasts-heavy-rainfall-over-parts-of-western-and-central-india/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/weather.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Nitin Gadkari reviews Multi Modal Logistics Parks and ropeway projects",
-        "summary": "Union Minister for Road Transport and Highways Nitin Gadkari chaired a review meeting of the National Highways Logistics Management Limited to assess the progress of Multi Modal Logistics Parks, ropeways, intermodal stations and wayside amenities being developed across the country. During the meeting, Mr Gadkari emphasised the strategic importance of these initiatives in building a […]",
-        "article": "Union Minister for Road Transport and Highways Nitin Gadkari chaired a review meeting of the National Highways Logistics Management Limited to assess the progress of Multi Modal Logistics Parks, ropeways, intermodal stations and wayside amenities being developed across the country. During the meeting, Mr Gadkari emphasised the strategic importance of these initiatives in building a future-ready and integrated transport ecosystem. He said these projects will strengthen multimodal connectivity, unlock new economic opportunities, promote balanced regional development and enhance India&#8217;s overall logistics competitiveness. The Minister also reviewed the key challenges affecting project implementation and directed all concerned stakeholders to resolve bottlenecks on priority and expedite project execution. Mr Gadkari said the timely completion of these projects will improve logistics efficiency, reduce transportation costs and provide world-class infrastructure and amenities for commuters, further advancing the vision of a Viksit Bharat and an Aatmanirbhar Bharat.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:05:14+00:00",
-        "link": "https://newsonair.gov.in/union-minister-nitin-gadkari-reviews-progress-of-nhlml-projects-calls-for-expeditious-completion-of-multimodal-infrastructure-initiatives/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/N2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-07T08:30:43+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-holds-talks-with-indonesian-president-in-jakarta-mous-exchanged/",
+        "post_id": 1723201,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "PM Modi addresses joint session of Indonesian Parliament: says both countries working closely to counter terrorism",
+        "summary": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the […]",
+        "article": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the world&#8217;s faith that democracy creates opportunities and builds trust. The Prime Minister said history will be made when India&#8217;s 140 crore people and Indonesia&#8217;s 29 crore people move forward together in pursuit of shared progress. The Prime Minister said India and Indonesia are working closely to counter terrorism through the Joint Working Group mechanism. He reaffirmed India&#8217;s commitment to a free, open and inclusive Indo-Pacific and stressed the importance of ensuring freedom of navigation in the region. Mr. Modi also said that reforms of the United Nations Security Council can no longer be delayed. He added that India is ready to extend its support to Indonesia in the field of satellite launch technology.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T10:35:19+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-addresses-joint-session-of-indonesian-parliament-says-both-countries-working-closely-to-counter-terrorism/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "“Pragati” aims to empower agricultural entrepreneurs & farmers: Agriculture Minister Shivraj Singh Chouhan",
+        "summary": "Union Agriculture Minister Shivraj Singh Chouhan today launched the Pragati project aimed at empowering over twenty thousand agricultural entrepreneurs and 20 lakh farmers. Talking to the media in New Delhi, Mr Chouhan has stressed on the need to develop agriculture, prosperous villages, and prosperous farmers for achieving the Viksit Bharat vision. He said that […]",
+        "article": "Union Agriculture Minister Shivraj Singh Chouhan today launched the Pragati project aimed at empowering over twenty thousand agricultural entrepreneurs and 20 lakh farmers. Talking to the media in New Delhi, Mr Chouhan has stressed on the need to develop agriculture, prosperous villages, and prosperous farmers for achieving the Viksit Bharat vision. He said that the government is making every effort to achieve this vision, and the pace of work accelerates when other organisations join these efforts. The Agriculture Minister said that the government has decided to train 26,000 small agricultural entrepreneurs under the Pragati program. He said that these entrepreneurs work within a village and collaborate with 100-200 farmers to transform the village&#8217;s agriculture.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T09:50:46+00:00",
+        "link": "https://newsonair.gov.in/pragati-aims-to-empower-agricultural-entrepreneurs-farmers-agriculture-minister-shivraj-singh-chouhan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shivraj.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Union Health Minister J. P. Nadda chairs high-level meeting on TB Mukt Bharat",
         "summary": "Union Health Minister J. P. Nadda chaired a high-level meeting in New Delhi with Labour and Employment Minister Mansukh Mandaviya and Minister of State for Defence Sanjay Seth to strengthen support for the TB Mukt Bharat Abhiyaan. Calling for a whole-of-government approach to eliminate tuberculosis, Mr Nadda urged all Ministries to intensify their efforts […]",
         "article": "Union Health Minister J. P. Nadda chaired a high-level meeting in New Delhi with Labour and Employment Minister Mansukh Mandaviya and Minister of State for Defence Sanjay Seth to strengthen support for the TB Mukt Bharat Abhiyaan. Calling for a whole-of-government approach to eliminate tuberculosis, Mr Nadda urged all Ministries to intensify their efforts and emphasised the pivotal role of youth in achieving the goal of a TB-Mukt Bharat. He also called for the active mobilisation of volunteers from MY Bharat, the National Service Scheme (NSS) and the National Cadet Corps (NCC) to accelerate the nationwide campaign.",
@@ -279,17 +302,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-07T08:30:42+00:00",
         "link": "https://newsonair.gov.in/tribal-affairs-ministry-unveils-roadmap-to-strengthen-tribal-research-institutes/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi holds talks with Indonesian President; conferred Indonesia’s highest honour, key MoUs exchanged",
-        "summary": "Prime Minister Narendra Modi was conferred Indonesia&#8217;s highest civilian honour, the Bintang Adipurna of the Republic of Indonesia, by Indonesian President Prabowo Subianto during a ceremonial event at Istana Merdeka, the Presidential Palace in Jakarta. The honour recognises Prime Minister Modi&#8217;s contribution to strengthening the Comprehensive Strategic Partnership and deepening the his",
-        "article": "Prime Minister Narendra Modi was conferred Indonesia&#8217;s highest civilian honour, the Bintang Adipurna of the Republic of Indonesia, by Indonesian President Prabowo Subianto during a ceremonial event at Istana Merdeka, the Presidential Palace in Jakarta. The honour recognises Prime Minister Modi&#8217;s contribution to strengthening the Comprehensive Strategic Partnership and deepening the historic friendship between India and Indonesia. Earlier, Prime Minister Modi was accorded a ceremonial welcome at Istana Merdeka, where he and President Prabowo Subianto were warmly received by children waving the national flags of both countries. The two leaders held delegation-level talks to review the entire spectrum of bilateral ties and discussed ways to expand cooperation in trade, defence, maritime security, digital technology, health, education and cultural exchanges. They also witnessed the exchange of several agreements following the talks.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:10:43+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-holds-talks-with-indonesian-president-in-jakarta-mous-exchanged/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/28.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -338,30 +350,42 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "IMD forecasts heavy rainfall over parts of western and central India",
-        "summary": "The India Meteorological Department (IMD) has forecast heavy rainfall today over parts of Coastal Karnataka, Gujarat, Konkan and Goa, and Madhya Maharashtra. Heavy rainfall is also likely over parts of Arunachal Pradesh, Bihar, Chhattisgarh, East Rajasthan, Himachal Pradesh, Interior Karnataka, Madhya Pradesh, Sub-Himalayan West Bengal and Sikkim. Light to moderate rainfall is expected at isolated",
-        "article": "The India Meteorological Department (IMD) has forecast heavy rainfall today over parts of Coastal Karnataka, Gujarat, Konkan and Goa, and Madhya Maharashtra. Heavy rainfall is also likely over parts of Arunachal Pradesh, Bihar, Chhattisgarh, East Rajasthan, Himachal Pradesh, Interior Karnataka, Madhya Pradesh, Sub-Himalayan West Bengal and Sikkim. Light to moderate rainfall is expected at isolated places over Delhi, Haryana, Chandigarh, parts of the North East, Odisha, Punjab and Uttar Pradesh. According to the IMD, thunder squalls are likely today over parts of Karnataka and Telangana. Thunderstorms accompanied by lightning are also expected over the Andaman and Nicobar Islands, Andhra Pradesh, Bihar, Gangetic West Bengal, Jammu and Kashmir, Ladakh, Jharkhand, Rajasthan and Uttar Pradesh.",
+        "title": "PM Modi holds talks with Indonesian President; conferred with country’s highest honour, key MoUs exchangedd",
+        "summary": "Prime Minister Narendra Modi was conferred Indonesia’s highest civilian honour, the Bintang Adipurna of the Republic of Indonesia, by Indonesian President Prabowo Subianto during a ceremonial event at Istana Merdeka, the Presidential Palace in Jakarta. The honour recognises Prime Minister Modi’s contribution to strengthening the India-Indonesia Comprehensive Strategic Partnership and deepening the",
+        "article": "Prime Minister Narendra Modi was conferred Indonesia’s highest civilian honour, the Bintang Adipurna of the Republic of Indonesia, by Indonesian President Prabowo Subianto during a ceremonial event at Istana Merdeka, the Presidential Palace in Jakarta. The honour recognises Prime Minister Modi’s contribution to strengthening the India-Indonesia Comprehensive Strategic Partnership and deepening the historic friendship between the two countries. Earlier, Prime Minister Modi was accorded a ceremonial welcome at Istana Merdeka, where he and President Prabowo Subianto were warmly received by children waving the national flags of India and Indonesia. The two leaders held delegation-level talks to review the entire spectrum of bilateral relations and discussed ways to expand cooperation in trade, defence, maritime security, digital technology, health, education and cultural exchanges. They also witnessed the exchange of several agreements following the talks. Prime Minister Narendra Modi and Indonesian President Prabowo Subianto reaffirmed their commitment to further strengthening the India-Indonesia Comprehensive Strategic Partnership during the talks in Jakarta. The two leaders also witnessed the signing of several Memorandums of Understanding covering defence, critical minerals, agriculture, steel, maritime cooperation and emerging technologies. They agreed to establish a branch campus of the Indian Institute of Management (IIM) Bangalore in Jakarta. The two sides also agreed to enhance cooperation in manufacturing, food security and digital technology. Addressing the joint press interaction, President Prabowo described India as a trusted strategic partner and welcomed the expansion of bilateral ties across key sectors.",
         "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:34:07+00:00",
-        "link": "https://newsonair.gov.in/imd-forecasts-heavy-rainfall-over-parts-of-western-and-central-india/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/weather.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Nitin Gadkari reviews Multi Modal Logistics Parks and ropeway projects",
-        "summary": "Union Minister for Road Transport and Highways Nitin Gadkari chaired a review meeting of the National Highways Logistics Management Limited to assess the progress of Multi Modal Logistics Parks, ropeways, intermodal stations and wayside amenities being developed across the country. During the meeting, Mr Gadkari emphasised the strategic importance of these initiatives in building a […]",
-        "article": "Union Minister for Road Transport and Highways Nitin Gadkari chaired a review meeting of the National Highways Logistics Management Limited to assess the progress of Multi Modal Logistics Parks, ropeways, intermodal stations and wayside amenities being developed across the country. During the meeting, Mr Gadkari emphasised the strategic importance of these initiatives in building a future-ready and integrated transport ecosystem. He said these projects will strengthen multimodal connectivity, unlock new economic opportunities, promote balanced regional development and enhance India&#8217;s overall logistics competitiveness. The Minister also reviewed the key challenges affecting project implementation and directed all concerned stakeholders to resolve bottlenecks on priority and expedite project execution. Mr Gadkari said the timely completion of these projects will improve logistics efficiency, reduce transportation costs and provide world-class infrastructure and amenities for commuters, further advancing the vision of a Viksit Bharat and an Aatmanirbhar Bharat.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:05:14+00:00",
-        "link": "https://newsonair.gov.in/union-minister-nitin-gadkari-reviews-progress-of-nhlml-projects-calls-for-expeditious-completion-of-multimodal-infrastructure-initiatives/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/N2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-07T08:30:43+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-holds-talks-with-indonesian-president-in-jakarta-mous-exchanged/",
+        "post_id": 1723201,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "PM Modi addresses joint session of Indonesian Parliament: says both countries working closely to counter terrorism",
+        "summary": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the […]",
+        "article": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the world&#8217;s faith that democracy creates opportunities and builds trust. The Prime Minister said history will be made when India&#8217;s 140 crore people and Indonesia&#8217;s 29 crore people move forward together in pursuit of shared progress. The Prime Minister said India and Indonesia are working closely to counter terrorism through the Joint Working Group mechanism. He reaffirmed India&#8217;s commitment to a free, open and inclusive Indo-Pacific and stressed the importance of ensuring freedom of navigation in the region. Mr. Modi also said that reforms of the United Nations Security Council can no longer be delayed. He added that India is ready to extend its support to Indonesia in the field of satellite launch technology.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T10:35:19+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-addresses-joint-session-of-indonesian-parliament-says-both-countries-working-closely-to-counter-terrorism/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "“Pragati” aims to empower agricultural entrepreneurs & farmers: Agriculture Minister Shivraj Singh Chouhan",
+        "summary": "Union Agriculture Minister Shivraj Singh Chouhan today launched the Pragati project aimed at empowering over twenty thousand agricultural entrepreneurs and 20 lakh farmers. Talking to the media in New Delhi, Mr Chouhan has stressed on the need to develop agriculture, prosperous villages, and prosperous farmers for achieving the Viksit Bharat vision. He said that […]",
+        "article": "Union Agriculture Minister Shivraj Singh Chouhan today launched the Pragati project aimed at empowering over twenty thousand agricultural entrepreneurs and 20 lakh farmers. Talking to the media in New Delhi, Mr Chouhan has stressed on the need to develop agriculture, prosperous villages, and prosperous farmers for achieving the Viksit Bharat vision. He said that the government is making every effort to achieve this vision, and the pace of work accelerates when other organisations join these efforts. The Agriculture Minister said that the government has decided to train 26,000 small agricultural entrepreneurs under the Pragati program. He said that these entrepreneurs work within a village and collaborate with 100-200 farmers to transform the village&#8217;s agriculture.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T09:50:46+00:00",
+        "link": "https://newsonair.gov.in/pragati-aims-to-empower-agricultural-entrepreneurs-farmers-agriculture-minister-shivraj-singh-chouhan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shivraj.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Union Health Minister J. P. Nadda chairs high-level meeting on TB Mukt Bharat",
         "summary": "Union Health Minister J. P. Nadda chaired a high-level meeting in New Delhi with Labour and Employment Minister Mansukh Mandaviya and Minister of State for Defence Sanjay Seth to strengthen support for the TB Mukt Bharat Abhiyaan. Calling for a whole-of-government approach to eliminate tuberculosis, Mr Nadda urged all Ministries to intensify their efforts […]",
         "article": "Union Health Minister J. P. Nadda chaired a high-level meeting in New Delhi with Labour and Employment Minister Mansukh Mandaviya and Minister of State for Defence Sanjay Seth to strengthen support for the TB Mukt Bharat Abhiyaan. Calling for a whole-of-government approach to eliminate tuberculosis, Mr Nadda urged all Ministries to intensify their efforts and emphasised the pivotal role of youth in achieving the goal of a TB-Mukt Bharat. He also called for the active mobilisation of volunteers from MY Bharat, the National Service Scheme (NSS) and the National Cadet Corps (NCC) to accelerate the nationwide campaign.",
@@ -391,17 +415,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-07T08:30:42+00:00",
         "link": "https://newsonair.gov.in/tribal-affairs-ministry-unveils-roadmap-to-strengthen-tribal-research-institutes/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi holds talks with Indonesian President; conferred Indonesia’s highest honour, key MoUs exchanged",
-        "summary": "Prime Minister Narendra Modi was conferred Indonesia&#8217;s highest civilian honour, the Bintang Adipurna of the Republic of Indonesia, by Indonesian President Prabowo Subianto during a ceremonial event at Istana Merdeka, the Presidential Palace in Jakarta. The honour recognises Prime Minister Modi&#8217;s contribution to strengthening the Comprehensive Strategic Partnership and deepening the his",
-        "article": "Prime Minister Narendra Modi was conferred Indonesia&#8217;s highest civilian honour, the Bintang Adipurna of the Republic of Indonesia, by Indonesian President Prabowo Subianto during a ceremonial event at Istana Merdeka, the Presidential Palace in Jakarta. The honour recognises Prime Minister Modi&#8217;s contribution to strengthening the Comprehensive Strategic Partnership and deepening the historic friendship between India and Indonesia. Earlier, Prime Minister Modi was accorded a ceremonial welcome at Istana Merdeka, where he and President Prabowo Subianto were warmly received by children waving the national flags of both countries. The two leaders held delegation-level talks to review the entire spectrum of bilateral ties and discussed ways to expand cooperation in trade, defence, maritime security, digital technology, health, education and cultural exchanges. They also witnessed the exchange of several agreements following the talks.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:10:43+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-holds-talks-with-indonesian-president-in-jakarta-mous-exchanged/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/28.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -450,29 +463,41 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "IMD forecasts heavy rainfall over parts of western and central India",
-        "summary": "The India Meteorological Department (IMD) has forecast heavy rainfall today over parts of Coastal Karnataka, Gujarat, Konkan and Goa, and Madhya Maharashtra. Heavy rainfall is also likely over parts of Arunachal Pradesh, Bihar, Chhattisgarh, East Rajasthan, Himachal Pradesh, Interior Karnataka, Madhya Pradesh, Sub-Himalayan West Bengal and Sikkim. Light to moderate rainfall is expected at isolated",
-        "article": "The India Meteorological Department (IMD) has forecast heavy rainfall today over parts of Coastal Karnataka, Gujarat, Konkan and Goa, and Madhya Maharashtra. Heavy rainfall is also likely over parts of Arunachal Pradesh, Bihar, Chhattisgarh, East Rajasthan, Himachal Pradesh, Interior Karnataka, Madhya Pradesh, Sub-Himalayan West Bengal and Sikkim. Light to moderate rainfall is expected at isolated places over Delhi, Haryana, Chandigarh, parts of the North East, Odisha, Punjab and Uttar Pradesh. According to the IMD, thunder squalls are likely today over parts of Karnataka and Telangana. Thunderstorms accompanied by lightning are also expected over the Andaman and Nicobar Islands, Andhra Pradesh, Bihar, Gangetic West Bengal, Jammu and Kashmir, Ladakh, Jharkhand, Rajasthan and Uttar Pradesh.",
+        "title": "PM Modi holds talks with Indonesian President; conferred with country’s highest honour, key MoUs exchangedd",
+        "summary": "Prime Minister Narendra Modi was conferred Indonesia’s highest civilian honour, the Bintang Adipurna of the Republic of Indonesia, by Indonesian President Prabowo Subianto during a ceremonial event at Istana Merdeka, the Presidential Palace in Jakarta. The honour recognises Prime Minister Modi’s contribution to strengthening the India-Indonesia Comprehensive Strategic Partnership and deepening the",
+        "article": "Prime Minister Narendra Modi was conferred Indonesia’s highest civilian honour, the Bintang Adipurna of the Republic of Indonesia, by Indonesian President Prabowo Subianto during a ceremonial event at Istana Merdeka, the Presidential Palace in Jakarta. The honour recognises Prime Minister Modi’s contribution to strengthening the India-Indonesia Comprehensive Strategic Partnership and deepening the historic friendship between the two countries. Earlier, Prime Minister Modi was accorded a ceremonial welcome at Istana Merdeka, where he and President Prabowo Subianto were warmly received by children waving the national flags of India and Indonesia. The two leaders held delegation-level talks to review the entire spectrum of bilateral relations and discussed ways to expand cooperation in trade, defence, maritime security, digital technology, health, education and cultural exchanges. They also witnessed the exchange of several agreements following the talks. Prime Minister Narendra Modi and Indonesian President Prabowo Subianto reaffirmed their commitment to further strengthening the India-Indonesia Comprehensive Strategic Partnership during the talks in Jakarta. The two leaders also witnessed the signing of several Memorandums of Understanding covering defence, critical minerals, agriculture, steel, maritime cooperation and emerging technologies. They agreed to establish a branch campus of the Indian Institute of Management (IIM) Bangalore in Jakarta. The two sides also agreed to enhance cooperation in manufacturing, food security and digital technology. Addressing the joint press interaction, President Prabowo described India as a trusted strategic partner and welcomed the expansion of bilateral ties across key sectors.",
         "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:34:07+00:00",
-        "link": "https://newsonair.gov.in/imd-forecasts-heavy-rainfall-over-parts-of-western-and-central-india/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/weather.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Nitin Gadkari reviews Multi Modal Logistics Parks and ropeway projects",
-        "summary": "Union Minister for Road Transport and Highways Nitin Gadkari chaired a review meeting of the National Highways Logistics Management Limited to assess the progress of Multi Modal Logistics Parks, ropeways, intermodal stations and wayside amenities being developed across the country. During the meeting, Mr Gadkari emphasised the strategic importance of these initiatives in building a […]",
-        "article": "Union Minister for Road Transport and Highways Nitin Gadkari chaired a review meeting of the National Highways Logistics Management Limited to assess the progress of Multi Modal Logistics Parks, ropeways, intermodal stations and wayside amenities being developed across the country. During the meeting, Mr Gadkari emphasised the strategic importance of these initiatives in building a future-ready and integrated transport ecosystem. He said these projects will strengthen multimodal connectivity, unlock new economic opportunities, promote balanced regional development and enhance India&#8217;s overall logistics competitiveness. The Minister also reviewed the key challenges affecting project implementation and directed all concerned stakeholders to resolve bottlenecks on priority and expedite project execution. Mr Gadkari said the timely completion of these projects will improve logistics efficiency, reduce transportation costs and provide world-class infrastructure and amenities for commuters, further advancing the vision of a Viksit Bharat and an Aatmanirbhar Bharat.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T03:05:14+00:00",
-        "link": "https://newsonair.gov.in/union-minister-nitin-gadkari-reviews-progress-of-nhlml-projects-calls-for-expeditious-completion-of-multimodal-infrastructure-initiatives/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/N2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-07T08:30:43+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-holds-talks-with-indonesian-president-in-jakarta-mous-exchanged/",
+        "post_id": 1723201,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "Iran rules out talks with US on final agreement",
+        "summary": "Iranian Foreign Minister Seyed Abbas Araghchi has firmly refused to negotiations with Washington on a final agreement following remarks by US President Donald Trump. In a social media post, Araghchi cited the Memorandum of Understanding between Iran and the United States, stating that Tehran would not resume talks until Washington honoured its commitments. Earlier, President […]",
+        "article": "Iranian Foreign Minister Seyed Abbas Araghchi has firmly refused to negotiations with Washington on a final agreement following remarks by US President Donald Trump. In a social media post, Araghchi cited the Memorandum of Understanding between Iran and the United States, stating that Tehran would not resume talks until Washington honoured its commitments. Earlier, President Trump said the United States would either secure a deal with Iran or &#8220;finish the job&#8221;, claiming Washington could cripple Iran&#8217;s critical infrastructure if required. Iran strongly condemned the remarks, and the Iranian Embassy in Armenia also criticised the United States in a social media post. Meanwhile, Iranian state television reported that the body of the country&#8217;s former Supreme Leader had arrived in Qom by helicopter.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:50:15+00:00",
+        "link": "https://newsonair.gov.in/iran-rules-out-talks-with-us-on-final-agreement/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi holds talks with Indonesian President; conferred with country’s highest honour, key MoUs exchangedd",
+        "summary": "Prime Minister Narendra Modi was conferred Indonesia’s highest civilian honour, the Bintang Adipurna of the Republic of Indonesia, by Indonesian President Prabowo Subianto during a ceremonial event at Istana Merdeka, the Presidential Palace in Jakarta. The honour recognises Prime Minister Modi’s contribution to strengthening the India-Indonesia Comprehensive Strategic Partnership and deepening the",
+        "article": "Prime Minister Narendra Modi was conferred Indonesia’s highest civilian honour, the Bintang Adipurna of the Republic of Indonesia, by Indonesian President Prabowo Subianto during a ceremonial event at Istana Merdeka, the Presidential Palace in Jakarta. The honour recognises Prime Minister Modi’s contribution to strengthening the India-Indonesia Comprehensive Strategic Partnership and deepening the historic friendship between the two countries. Earlier, Prime Minister Modi was accorded a ceremonial welcome at Istana Merdeka, where he and President Prabowo Subianto were warmly received by children waving the national flags of India and Indonesia. The two leaders held delegation-level talks to review the entire spectrum of bilateral relations and discussed ways to expand cooperation in trade, defence, maritime security, digital technology, health, education and cultural exchanges. They also witnessed the exchange of several agreements following the talks. Prime Minister Narendra Modi and Indonesian President Prabowo Subianto reaffirmed their commitment to further strengthening the India-Indonesia Comprehensive Strategic Partnership during the talks in Jakarta. The two leaders also witnessed the signing of several Memorandums of Understanding covering defence, critical minerals, agriculture, steel, maritime cooperation and emerging technologies. They agreed to establish a branch campus of the Indian Institute of Management (IIM) Bangalore in Jakarta. The two sides also agreed to enhance cooperation in manufacturing, food security and digital technology. Addressing the joint press interaction, President Prabowo described India as a trusted strategic partner and welcomed the expansion of bilateral ties across key sectors.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:30:43+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-holds-talks-with-indonesian-president-in-jakarta-mous-exchanged/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/28.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Eight killed as severe storms batter central China",
         "summary": "Eight people were killed and several others are reported missing after thunderstorms and gale-force winds triggered by severe convective weather struck the eastern part of central China&#8217;s Hubei Province. According to provincial emergency management authorities, thunderstorms, strong winds and tornadoes hit several cities yesterday evening. In Huanggang, 275 people were injured, while more th",
@@ -560,29 +585,6 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/iran-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi holds talks with Indonesian President; conferred Indonesia’s highest honour, key MoUs exchanged",
-        "summary": "Prime Minister Narendra Modi was conferred Indonesia&#8217;s highest civilian honour, the Bintang Adipurna of the Republic of Indonesia, by Indonesian President Prabowo Subianto during a ceremonial event at Istana Merdeka, the Presidential Palace in Jakarta. The honour recognises Prime Minister Modi&#8217;s contribution to strengthening the Comprehensive Strategic Partnership and deepening the his",
-        "article": "Prime Minister Narendra Modi was conferred Indonesia&#8217;s highest civilian honour, the Bintang Adipurna of the Republic of Indonesia, by Indonesian President Prabowo Subianto during a ceremonial event at Istana Merdeka, the Presidential Palace in Jakarta. The honour recognises Prime Minister Modi&#8217;s contribution to strengthening the Comprehensive Strategic Partnership and deepening the historic friendship between India and Indonesia. Earlier, Prime Minister Modi was accorded a ceremonial welcome at Istana Merdeka, where he and President Prabowo Subianto were warmly received by children waving the national flags of both countries. The two leaders held delegation-level talks to review the entire spectrum of bilateral ties and discussed ways to expand cooperation in trade, defence, maritime security, digital technology, health, education and cultural exchanges. They also witnessed the exchange of several agreements following the talks.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:10:43+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-holds-talks-with-indonesian-president-in-jakarta-mous-exchanged/",
-        "post_id": 1723201,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "More than 300 children killed or injured in Sudan war in 6 months, says UNICEF",
-        "summary": "The United Nations Children&#8217;s Fund (UNICEF) today said that over 300 children have been killed or injured in the last six months in the war in Sudan, mostly from drone strikes. Sudan has been mired in a war between the Sudanese military and the paramilitary Rapid Support Forces (RSF) since April 2023. The war […]",
-        "article": "The United Nations Children&#8217;s Fund (UNICEF) today said that over 300 children have been killed or injured in the last six months in the war in Sudan, mostly from drone strikes. Sudan has been mired in a war between the Sudanese military and the paramilitary Rapid Support Forces (RSF) since April 2023. The war is now concentrated in the Kordofan, Darfur and Blue Niles states, with drone warfare causing 60 per cent of casualties. The UN, US, UK and others have expressed alarm about potential atrocities as the RSF and the military fight for control of the strategic city of el-Obeid, in North Kordofan. In Geneva today, the UN-backed Human Rights Council approved a measure, which was brought by five European countries, condemning the escalating violence by the RSF and its allies in and around el-Obeid. The measure, which was approved without a vote, also encourages greater support for countries hosting refugees from Sudan and condemns all forms of external interference in the war, among other things. The conflict has killed at least 59,000 people, displaced some 13 million and pushed many parts of Sudan into famine. More than 30 million people need humanitarian assistance. UNICEF Representative for Sudan Sheldon Yett has said children are being caught in a relentless cycle of violence, displacement and deprivation. The UN called on parties to protect civilians and civilian infrastructure, allow and facilitate safe, rapid and unimpeded humanitarian access, and take all possible measures to protect children from harm.",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T10:51:11+00:00",
-        "link": "https://newsonair.gov.in/more-than-300-children-killed-or-injured-in-sudan-war-in-6-months-says-unicef/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
       }
     ],
     "sports": [
@@ -593,7 +595,7 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T08:15:18+00:00",
         "link": "https://newsonair.gov.in/president-murmu-unveils-durand-cup-2026-trophies/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/23.png",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/29.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1026,6 +1028,116 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "भारत-इंडोनेशिया ने व्यापक रणनीतिक साझेदारी को और मजबूत करने की प्रतिबद्धता दोहराई",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी और इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो ने आज जकार्ता में हुई वार्ता के दौरान भारत-इंडोनेशिया व्यापक रणनीतिक साझेदारी को मजबूत करने की अपनी प्रतिबद्धता की पुष्टि की। दोनों नेताओं ने रक्षा, महत्वपूर्ण खनिज, कृषि, इस्पात, समुद्री सहयोग और उभरती प्रौद्योगिकियों से संबंधित कई समझौता ज्ञापनों पर हस्ताक्षर होते देखे। उन्होंने जकार्ता में […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी और इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो ने आज जकार्ता में हुई वार्ता के दौरान भारत-इंडोनेशिया व्यापक रणनीतिक साझेदारी को मजबूत करने की अपनी प्रतिबद्धता की पुष्टि की। दोनों नेताओं ने रक्षा, महत्वपूर्ण खनिज, कृषि, इस्पात, समुद्री सहयोग और उभरती प्रौद्योगिकियों से संबंधित कई समझौता ज्ञापनों पर हस्ताक्षर होते देखे। उन्होंने जकार्ता में आईआईएम बेंगलुरु की एक शाखा स्थापित करने पर सहमति व्यक्त की। दोनों पक्षों ने विनिर्माण, खाद्य सुरक्षा और डिजिटल प्रौद्योगिकी में सहयोग को मजबूत करने पर भी सहमति जताई। संयुक्त प्रेस वार्ता को संबोधित करते हुए राष्ट्रपति प्रबोवो ने भारत को एक विश्वसनीय रणनीतिक साझेदार बताया और प्रमुख क्षेत्रों में संबंधों के विस्तार का स्वागत किया।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T10:35:01+00:00",
+        "link": "https://newsonair.gov.in/hi/india-and-indonesia-reiterated-their-commitment-to-further-strengthening-the-comprehensive-strategic-partnership/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/18.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विदेश मंत्री डॉ. जयशंकर ने ईरान के उप प्रधानमंत्री खालिद बिन अब्दुल्ला अल खलीफा से की मुलाकात",
+        "summary": "विदेश मंत्री डॉ. एस. जयशंकर ने आज बहरीन के उप प्रधानमंत्री खालिद बिन अब्दुल्ला अल खलीफा से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि मुलाकात के दौरान दोनों पक्षों ने विभिन्न क्षेत्रों में द्विपक्षीय सहयोग को आगे बढ़ाने पर चर्चा की। उन्होंने क्षेत्रीय स्थिति पर भी अपने विचार साझा किए।",
+        "article": "विदेश मंत्री डॉ. एस. जयशंकर ने आज बहरीन के उप प्रधानमंत्री खालिद बिन अब्दुल्ला अल खलीफा से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि मुलाकात के दौरान दोनों पक्षों ने विभिन्न क्षेत्रों में द्विपक्षीय सहयोग को आगे बढ़ाने पर चर्चा की। उन्होंने क्षेत्रीय स्थिति पर भी अपने विचार साझा किए।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T10:31:35+00:00",
+        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-jaishankar-met-with-irans-deputy-prime-minister-khalid-bin-abdullah-al-khalifa/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMnYp5VWsAAOeSH.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कृषि मंत्री शिवराज सिंह चौहान ने किया प्रगति परियोजना का शुभारंभ",
+        "summary": "कृषि मंत्री शिवराज सिंह चौहान ने आज प्रगति परियोजना का शुभारंभ किया जिसका उद्देश्य 20 हजार से अधिक कृषि उद्यमियों और 20 लाख किसानों को सशक्त बनाना है। नई दिल्ली में मीडिया से बातचीत में श्री चौहान ने विकसित भारत के लक्ष्य को प्राप्त करने के लिए कृषि विकास, समृद्ध गांवों और समृद्ध किसानों के […]",
+        "article": "कृषि मंत्री शिवराज सिंह चौहान ने आज प्रगति परियोजना का शुभारंभ किया जिसका उद्देश्य 20 हजार से अधिक कृषि उद्यमियों और 20 लाख किसानों को सशक्त बनाना है। नई दिल्ली में मीडिया से बातचीत में श्री चौहान ने विकसित भारत के लक्ष्य को प्राप्त करने के लिए कृषि विकास, समृद्ध गांवों और समृद्ध किसानों के विकास की आवश्यकता पर बल दिया। उन्होंने कहा कि सरकार इस लक्ष्य को प्राप्त करने के लिए हरसंभव प्रयास कर रही है। श्री चौहान ने कहा कि सरकार ने प्रगति कार्यक्रम के अंतर्गत 26 हजार लघु कृषि उद्यमियों को प्रशिक्षित करने का निर्णय लिया है। उन्होंने कहा कि ये उद्यमी एक गांव की कृषि कार्य में बदलाव लाने के लिए 100 से 200 किसानों के साथ सहयोग करते हैं।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T10:24:11+00:00",
+        "link": "https://newsonair.gov.in/hi/agriculture-minister-shivraj-singh-chouhan-launched-the-pragati-project/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/download-5.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीकी राष्ट्रपति डॉनल्ड ट्रंप की टिप्पणियों के बाद, ईरान ने बातचीत करने से किया इनकार",
+        "summary": "अमरीका के राष्ट्रपति डॉनल्ड ट्रंप की टिप्पणियों के बाद, ईरानी विदेश मंत्री सैयद अब्बास अराघची ने वाशिंगटन के साथ अंतिम समझौते पर बातचीत करने से साफ इनकार कर दिया है। सोशल मीडिया पोस्ट में, श्री अराघची ने ईरान और अमरीका के बीच हुए समझौता ज्ञापन का हवाला देते हुए कहा कि जब तक वाशिंगटन अपनी […]",
+        "article": "अमरीका के राष्ट्रपति डॉनल्ड ट्रंप की टिप्पणियों के बाद, ईरानी विदेश मंत्री सैयद अब्बास अराघची ने वाशिंगटन के साथ अंतिम समझौते पर बातचीत करने से साफ इनकार कर दिया है। सोशल मीडिया पोस्ट में, श्री अराघची ने ईरान और अमरीका के बीच हुए समझौता ज्ञापन का हवाला देते हुए कहा कि जब तक वाशिंगटन अपनी प्रतिबद्धताओं का सम्मान नहीं करता, तब तक तेहरान बातचीत शुरू नहीं करेगा। इससे पहले, राष्ट्रपति ट्रंप ने कहा था कि अमरीका या तो ईरान के साथ समझौता करेगा या &#8220;काम पूरा करेगा&#8221;, और दावा किया था कि जरूरत पड़ने पर वाशिंगटन ईरान के महत्वपूर्ण बुनियादी ढांचे को पंगु बना सकता है। ईरान ने इन टिप्पणियों की कड़ी निंदा की। आर्मेनिया स्थित ईरानी दूतावास ने भी सोशल मीडिया पर एक पोस्ट में अमरीका की आलोचना की। इस बीच, ईरानी सरकारी टेलीविजन ने बताया कि देश के पूर्व सर्वोच्च नेता का पार्थिव शरीर हेलीकॉप्टर से क़ोम पहुंच गया है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T10:04:34+00:00",
+        "link": "https://newsonair.gov.in/hi/iran-refused-to-hold-talks-following-remarks-by-us-president-donald-trump/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/us-iran.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय स्वास्थ्य मंत्री जेपी नड्डा ने टीबी मुक्त भारत बनाने का किया आह्वान",
+        "summary": "स्वास्थ्य मंत्री जेपी नड्डा ने आज नई दिल्ली में श्रम और रोजगार मंत्री मनसुख मांडविया तथा रक्षा राज्य मंत्री संजय सेठ के साथ टीबी मुक्त भारत अभियान को लेकर एक उच्चस्तरीय बैठक की अध्यक्षता की। टीबी उन्मूलन के लिए समग्र सरकारी दृष्टिकोण का आह्वान करते हुए श्री नड्डा ने सभी मंत्रालयों से अपने प्रयासों को […]",
+        "article": "स्वास्थ्य मंत्री जेपी नड्डा ने आज नई दिल्ली में श्रम और रोजगार मंत्री मनसुख मांडविया तथा रक्षा राज्य मंत्री संजय सेठ के साथ टीबी मुक्त भारत अभियान को लेकर एक उच्चस्तरीय बैठक की अध्यक्षता की। टीबी उन्मूलन के लिए समग्र सरकारी दृष्टिकोण का आह्वान करते हुए श्री नड्डा ने सभी मंत्रालयों से अपने प्रयासों को तेज करने का आग्रह किया और टीबी मुक्त भारत के लक्ष्य को प्राप्त करने में युवाओं की महत्वपूर्ण भूमिका पर जोर दिया। उन्होंने राष्ट्रीय अभियान को गति देने के लिए माय भारत, राष्ट्रीय सेवा योजना और राष्ट्रीय कैडेट कोर से स्वयंसेवकों को सक्रिय रूप से जुटाने का भी आह्वान किया।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T09:54:35+00:00",
+        "link": "https://newsonair.gov.in/hi/union-health-minister-jp-nadda-calls-for-a-tb-free-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/JP-NADDA-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय मंत्री जुएल ओराम ने जनजातीय विरासत संरक्षण के लिए स्वदेशी ज्ञान और आधुनिक तकनीक के समन्वय पर दिया जोर",
+        "summary": "केंद्रीय जनजातीय मामलों के मंत्रालय ने जनजातीय विकास के लिए ज्ञान, नवाचार और साक्ष्य-आधारित नीति निर्माण के केंद्र के रूप में जनजातीय अनुसंधान संस्थानों को मजबूत करने के लिए एक नया दृष्टिकोण प्रस्तुत किया है। भुवनेश्वर में आज दो दिवसीय राष्ट्रीय कार्यशाला का उद्घाटन करते हुए, केंद्रीय जनजातीय मामलों के मंत्री जुएल ओराम ने जनजातीय […]",
+        "article": "केंद्रीय जनजातीय मामलों के मंत्रालय ने जनजातीय विकास के लिए ज्ञान, नवाचार और साक्ष्य-आधारित नीति निर्माण के केंद्र के रूप में जनजातीय अनुसंधान संस्थानों को मजबूत करने के लिए एक नया दृष्टिकोण प्रस्तुत किया है। भुवनेश्वर में आज दो दिवसीय राष्ट्रीय कार्यशाला का उद्घाटन करते हुए, केंद्रीय जनजातीय मामलों के मंत्री जुएल ओराम ने जनजातीय विरासत को संरक्षित करने और समावेशी विकास को बढ़ावा देने के लिए स्वदेशी ज्ञान को अत्याधुनिक प्रौद्योगिकी के साथ एकीकृत करने का आह्वान किया।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:55:28+00:00",
+        "link": "https://newsonair.gov.in/hi/union-minister-jual-oram-emphasized-the-integration-of-indigenous-knowledge-and-modern-technology-for-the-preservation-of-tribal-heritage/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/4yLXnUYs_400x400.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "जोजिला सुरंग और केदारनाथ रोपवे समेत प्रमुख परियोजनाएं देश की कनेक्टिविटी और विकास को गति दे रही हैं: केंद्रीय मंत्री नितिन गडकरी",
+        "summary": "सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने कहा है कि 14 किलोमीटर लंबी जोजिला सुरंग, जम्मू-श्रीनगर कॉरिडोर पर 36 सुरंगें, केदारनाथ रोपवे और कश्मीर से कन्याकुमारी तक बेहतर सड़क संपर्क जैसी प्रमुख परियोजनाएं कनेक्टिविटी को मजबूत कर रही हैं और देश के विकास को गति दे रही हैं। नई दिल्ली में आयोजित विकसित भारत […]",
+        "article": "सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने कहा है कि 14 किलोमीटर लंबी जोजिला सुरंग, जम्मू-श्रीनगर कॉरिडोर पर 36 सुरंगें, केदारनाथ रोपवे और कश्मीर से कन्याकुमारी तक बेहतर सड़क संपर्क जैसी प्रमुख परियोजनाएं कनेक्टिविटी को मजबूत कर रही हैं और देश के विकास को गति दे रही हैं। नई दिल्ली में आयोजित विकसित भारत सम्मेलन को संबोधित करते हुए उन्होंने बुनियादी ढांचे पर आधारित विकास के लिए सरकार के प्रयासों पर जोर दिया और कहा कि शासन राष्ट्र निर्माण पर आधारित होना चाहिए। उन्होंने कहा कि राजनीति सामाजिक-आर्थिक परिवर्तन का साधन होनी चाहिए।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:53:47+00:00",
+        "link": "https://newsonair.gov.in/hi/major-projects-including-the-zojila-tunnel-and-the-kedarnath-ropeway-are-accelerating-the-countrys-connectivity-and-development-union-minister-nitin-gadkari/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nitin-gadkari.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने प्रख्यात समाज सुधारक रेट्टामलाई श्रीनिवासन की जयंती पर श्रद्धांजलि अर्पित की",
+        "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने नई दिल्ली के उपराष्ट्रपति भवन में प्रख्यात समाज सुधारक रेट्टामलाई श्रीनिवासन की जयंती पर उन्हें पुष्पांजलि अर्पित की। श्रीनिवासन को श्रद्धांजलि अर्पित करते हुए उपराष्ट्रपति ने कहा कि वे एक महान विद्वान और प्रख्यात समाज सुधारक थे।",
+        "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने नई दिल्ली के उपराष्ट्रपति भवन में प्रख्यात समाज सुधारक रेट्टामलाई श्रीनिवासन की जयंती पर उन्हें पुष्पांजलि अर्पित की। श्रीनिवासन को श्रद्धांजलि अर्पित करते हुए उपराष्ट्रपति ने कहा कि वे एक महान विद्वान और प्रख्यात समाज सुधारक थे।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:42:39+00:00",
+        "link": "https://newsonair.gov.in/hi/vice-president-c-p-radhakrishnan-paid-tribute-to-the-eminent-social-reformer-rettamalai-srinivasan-on-his-birth-anniversary/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/25.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय गृह मंत्री अमित शाह ने ‘एक पेड़ मां के नाम’ अभियान के तहत दिल्ली में 70 लाख पौधे लगाने के मिशन का शुभारंभ किया",
+        "summary": "केंद्रीय गृह मंत्री अमित शाह ने आज राष्ट्रीय राजधानी में हरियाली बढ़ाने के उद्देश्य से &#8216;एक पेड़ मां के नाम&#8217; अभियान के तहत दिल्ली में 70 लाख पौधे लगाने के मिशन का शुभारंभ किया। इस अवसर पर श्री शाह ने कहा कि यह अभियान दिल्ली के पर्यावरण को बदलने की दिशा में एक महत्वपूर्ण पहल […]",
+        "article": "केंद्रीय गृह मंत्री अमित शाह ने आज राष्ट्रीय राजधानी में हरियाली बढ़ाने के उद्देश्य से &#8216;एक पेड़ मां के नाम&#8217; अभियान के तहत दिल्ली में 70 लाख पौधे लगाने के मिशन का शुभारंभ किया। इस अवसर पर श्री शाह ने कहा कि यह अभियान दिल्ली के पर्यावरण को बदलने की दिशा में एक महत्वपूर्ण पहल है। उन्होंने कहा कि प्रधानमंत्री नरेंद्र मोदी ने पर्यावरण संरक्षण को बढ़ावा देने के लिए &#8216;एक पेड़ मां के नाम&#8217; अभियान शुरू किया था। गृह मंत्री ने कहा कि सरकार यमुना नदी को साफ करने के लिए निरंतर प्रयासरत है। उन्होंने कहा कि पिछले एक वर्ष में 129 सीवेज ट्रीटमेंट प्लांट चालू हो गए हैं, जिससे नदी में उपचारित जल का प्रवाह सुनिश्चित हो रहा है। उन्होंने यह भी बताया कि दिल्ली सरकार ने एक नई इलेक्ट्रिक वाहन नीति लागू की है और हरित दिल्ली के सपने को साकार करने के लिए प्रतिबद्ध है। श्री शाह ने सभी नागरिकों से अपनी मां के नाम पर एक पौधा लगाने की अपील की। पर्यावरण संरक्षण के महत्व पर प्रकाश डालते हुए श्री शाह ने दिल्ली रिज के पुनरुद्धार को कार्यक्रम का मुख्य केंद्र बताया। श्री शाह ने कहा कि रिज के लगभग पांच हजार हेक्टेयर क्षेत्र को अब औपचारिक रूप से वन भूमि घोषित कर दिया गया है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:40:10+00:00",
+        "link": "https://newsonair.gov.in/hi/union-home-minister-amit-shah-launched-a-mission-to-plant-70-lakh-saplings-in-delhi-under-the-ek-ped-maa-ke-naam-campaign/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/27.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "राष्ट्रपति द्रौपदी मुर्मु ने 2026 डूरंड कप ट्रॉफियों का अनावरण किया",
+        "summary": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट […]",
+        "article": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट में श्रीलंकाई टीम की भागीदारी पर खुशी व्यक्त की। राष्ट्रपति ने टूर्नामेंट में भाग लेने वाली सभी टीमों और खिलाड़ियों को शुभकामनाएं दीं। उन्होंने उनसे खेल भावना का पालन करने और सर्वश्रेष्ठ प्रदर्शन करके इस ऐतिहासिक प्रतियोगिता की प्रतिष्ठा को और बढ़ाने का आग्रह किया। इस अवसर पर चीफ ऑफ डिफेंस स्टाफ जनरल एनएस राजा सुब्रमणि, सेना प्रमुख धीरज सेठ और नौसेना प्रमुख एडमिरल कृष्णा स्वामीनाथन भी उपस्थित थे।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:39:25+00:00",
+        "link": "https://newsonair.gov.in/hi/president-droupadi-murmu-unveiled-the-2026-durand-cup-trophies-and-flagged-them-off/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/23.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "फैक्ट चैक: चीनी सेना के भारत में 60 किलोमीटर अंदर तक घुसने का दावा झूठा",
         "summary": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे उन वीडियो का खंडन किया है जिनमें झूठा दावा किया जा रहा है कि चीनी सेना भारत में 60 किलोमीटर अंदर तक घुस आई है। पत्र सूचना कार्यालय की तथ्य जाँच इकाई ने कहा कि यह दावा फर्जी है। उसने आगे स्पष्ट किया कि प्रसारित हो रहे […]",
         "article": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे उन वीडियो का खंडन किया है जिनमें झूठा दावा किया जा रहा है कि चीनी सेना भारत में 60 किलोमीटर अंदर तक घुस आई है। पत्र सूचना कार्यालय की तथ्य जाँच इकाई ने कहा कि यह दावा फर्जी है। उसने आगे स्पष्ट किया कि प्रसारित हो रहे वीडियो का इससे कोई संबंध नहीं है और ये भारत-चीन सीमा से संबंधित भी नहीं हैं।",
@@ -1033,94 +1145,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-07T08:37:24+00:00",
         "link": "https://newsonair.gov.in/hi/fact-check-claim-that-the-chinese-army-intruded-60-kilometers-into-india-is-false/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-07-140625.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "लोकसभा अध्यक्ष ओम बिरला ने प्रधानमंत्री मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान पर दी बधाई",
-        "summary": "लोकसभा अध्यक्ष ओम बिरला ने प्रधानमंत्री नरेंद्र मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान, &#8216;बिंगतांग आदिपूर्णा ऑफ द रिपब्लिक ऑफ इंडोनेशिया&#8217; से सम्मानित किए जाने पर बधाई दी है। यह सम्मान इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो द्वारा प्रदान किया गया है। सोशल मीडिया पर एक पोस्ट में लोकसभा अध्यक्ष ने कहा कि यह प्रतिष्ठित सम्मान […]",
-        "article": "लोकसभा अध्यक्ष ओम बिरला ने प्रधानमंत्री नरेंद्र मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान, &#8216;बिंगतांग आदिपूर्णा ऑफ द रिपब्लिक ऑफ इंडोनेशिया&#8217; से सम्मानित किए जाने पर बधाई दी है। यह सम्मान इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो द्वारा प्रदान किया गया है। सोशल मीडिया पर एक पोस्ट में लोकसभा अध्यक्ष ने कहा कि यह प्रतिष्ठित सम्मान भारत-इंडोनेशिया साझेदारी को और मजबूत करता है और द्विपक्षीय संबंधों को सुदृढ़ करने तथा क्षेत्रीय और वैश्विक सहयोग को आगे बढ़ाने में प्रधानमंत्री के दूरदर्शी नेतृत्व की मान्यता है। यह दोनों देशों के बीच अटूट मित्रता, साझा मूल्यों और आपसी विश्वास की पुष्टि भी करता है। रक्षा मंत्री राजनाथ सिंह ने भी प्रधानमंत्री नरेंद्र मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान &#8216;बिंगतांग आदिपूर्णा ऑफ द रिपब्लिक ऑफ इंडोनेशिया&#8217; से सम्मानित किए जाने पर बधाई दी है। सोशल मीडिया पोस्ट में श्री सिंह ने कहा कि यह असाधारण सम्मान प्रधानमंत्री मोदी के दूरदर्शी नेतृत्व, परिवर्तनकारी राजनीतिज्ञता और आपसी विश्वास, सम्मान और साझा प्रगति पर आधारित वैश्विक साझेदारियों को मजबूत करते हुए भारत के राष्ट्रीय हितों को आगे बढ़ाने की उनकी अटूट प्रतिबद्धता की एक सशक्त मान्यता है। शिक्षा मंत्री धर्मेंद्र प्रधान ने भी प्रधानमंत्री नरेंद्र मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान से सम्मानित किए जाने पर बधाई दी है। सोशल मीडिया पोस्ट में उन्होंने कहा कि यह देश के लिए गर्व का क्षण है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:27:46+00:00",
-        "link": "https://newsonair.gov.in/hi/lok-sabha-speaker-om-birla-congratulated-prime-minister-modi-on-receiving-indonesias-highest-civilian-honor/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/Om-birla-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पीएम नरेंद्र मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान ‘बिंतांग आदिपूर्णा रिपब्लिक ऑफ इंडोनेशिया’ से सम्मानित किया गया",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी को आज इंडोनेशिया के सर्वोच्च नागरिक सम्मान, बिंतांग आदिपूर्णा रिपब्लिक ऑफ इंडोनेशिया से सम्मानित किया गया। यह सम्मान उन्हें इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियंतो ने एक समारोह में प्रदान किया। इससे पहले, प्रधानमंत्री मोदी का राष्ट्रपति भवन में औपचारिक स्वागत किया गया, जहां कई बच्‍चे दोनों देशों के राष्ट्रीय ध्वज लहराते नजर […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी को आज इंडोनेशिया के सर्वोच्च नागरिक सम्मान, बिंतांग आदिपूर्णा रिपब्लिक ऑफ इंडोनेशिया से सम्मानित किया गया। यह सम्मान उन्हें इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियंतो ने एक समारोह में प्रदान किया। इससे पहले, प्रधानमंत्री मोदी का राष्ट्रपति भवन में औपचारिक स्वागत किया गया, जहां कई बच्&#x200d;चे दोनों देशों के राष्ट्रीय ध्वज लहराते नजर आए। वहां मौजूद सभी बच्&#x200d;चों ने प्रधानमंत्री मोदी और राष्ट्रपति प्रबोवो सुबियंतो का गर्मजोशी से स्वागत किया। दोनों नेताओं ने द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा करने के लिए प्रतिनिधिमंडल स्तर की वार्ता की और व्यापार, रक्षा, समुद्री सुरक्षा, डिजिटल प्रौद्योगिकी, स्वास्थ्य, शिक्षा और सांस्कृतिक आदान-प्रदान में सहयोग बढ़ाने के तरीकों पर चर्चा की। वार्ता के बाद कई समझौतों पर हस्ताक्षर किए गए। प्रधानमंत्री मोदी ने इस यात्रा को भारत-इंडोनेशिया संबंधों में एक नए अध्याय की शुरुआत बताया। उन्होंने कहा कि दोनों देश हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और विकास सुनिश्चित करने के लिए मिलकर काम करने के लिए प्रतिबद्ध हैं।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:16:35+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-was-conferred-with-indonesias-highest-civilian-honour-bintang-adipurna/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/22.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अहमदाबाद बम विस्फोट मामला: गुजरात हाईकोर्ट ने 38 दोषियों की फांसी, 11 अन्य की उम्रकैद बरकरार रखी",
-        "summary": "गुजरात उच्च न्यायालय ने 2008 के अहमदाबाद सिलसिलेवार बम विस्‍फोटों के मामले में आज विशेष न्यायालय के उस आदेश को बरकरार रखा जिसमें 38 दोषियों को मौत की सजा और 11 अन्य को आजीवन कारावास की सजा सुनाई गई थी। न्यायमूर्ति ए वाई कोगजे और न्यायमूर्ति समीर दवे की खंडपीठ ने निचली अदालत के आदेश […]",
-        "article": "गुजरात उच्च न्यायालय ने 2008 के अहमदाबाद सिलसिलेवार बम विस्&#x200d;फोटों के मामले में आज विशेष न्यायालय के उस आदेश को बरकरार रखा जिसमें 38 दोषियों को मौत की सजा और 11 अन्य को आजीवन कारावास की सजा सुनाई गई थी। न्यायमूर्ति ए वाई कोगजे और न्यायमूर्ति समीर दवे की खंडपीठ ने निचली अदालत के आदेश के खिलाफ सभी अपीलें खारिज कर दीं और मामले में आतंकी संगठन इंडियन मुजाहिदीन के सदस्यों को दी गई सजा को बरकरार रखते हुए अपने फैसले को सही ठहराया। 26 जुलाई 2008 को, अहमदाबाद में 70 मिनट के भीतर लगातार हुए 21 बम धमाकों ने तबाही मचा दी थी। इसमें 56 लोग मारे गए और 200 अन्य घायल हो गए थे। शहर के कुछ अस्पतालों को भी निशाना बनाया गया था।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:13:10+00:00",
-        "link": "https://newsonair.gov.in/hi/ahmedabad-bomb-blast-case-gujarat-high-court-upholds-death-sentences-of-38-convicts-and-life-imprisonment-for-11-others/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "मिजोरम का प्राकृतिक इतिहास संग्रहालय भारत का 21वां नामित जैव विविधता भंडारगृह घोषित",
-        "summary": "मिजोरम के प्राकृतिक इतिहास संग्रहालय को जैव विविधता अधिनियम, 2002 के तहत भारत के 21वें नामित भंडारगृह के रूप में अधिसूचित किया गया है। पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय ने राष्ट्रीय जैव विविधता प्राधिकरण की सिफारिश के आधार पर इस संस्थान को नामित भंडारगृह के रूप में अधिसूचित किया है। नामित भंडारगृह प्रमाणित जैविक […]",
-        "article": "मिजोरम के प्राकृतिक इतिहास संग्रहालय को जैव विविधता अधिनियम, 2002 के तहत भारत के 21वें नामित भंडारगृह के रूप में अधिसूचित किया गया है। पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय ने राष्ट्रीय जैव विविधता प्राधिकरण की सिफारिश के आधार पर इस संस्थान को नामित भंडारगृह के रूप में अधिसूचित किया है। नामित भंडारगृह प्रमाणित जैविक नमूनों के संरक्षण द्वारा भारत के जैव विविधता शासन ढांचे का एक महत्वपूर्ण घटक हैं। संग्रहालय में चुनिंदा वनस्पतियों, जिनमें मछलियां, पतंगे, भृंग और तितलियां जैसे जीवों के प्रमाणित नमूने रखे जाएंगे।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:08:57+00:00",
-        "link": "https://newsonair.gov.in/hi/mizorams-natural-history-museum-declared-indias-21st-designated-biodiversity-repository/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेन्‍द्र मोदी को इंडोनेशिया को बिन्तांग आदिपूर्णा सम्मान से सम्मानित किया जाना गर्व का विषय: विदेश मंत्री डॉ. एस. जयशंकर",
-        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कहा है कि प्रधानमंत्री नरेन्‍द्र मोदी को इंडोनेशिया का बिन्तांग आदिपूर्णा सम्मान से सम्मानित किया जाना, सभी भारतीयों के लिए अत्यंत गर्व का विषय है। सोशल मीडिया पर एक पोस्ट में डॉ. जयशंकर ने कहा कि यह सम्मान भारत की व्यापक रणनीतिक साझेदारी को सुदृढ़ करने और भारत-आसियान संबंधों […]",
-        "article": "विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कहा है कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी को इंडोनेशिया का बिन्तांग आदिपूर्णा सम्मान से सम्मानित किया जाना, सभी भारतीयों के लिए अत्यंत गर्व का विषय है। सोशल मीडिया पर एक पोस्ट में डॉ. जयशंकर ने कहा कि यह सम्मान भारत की व्यापक रणनीतिक साझेदारी को सुदृढ़ करने और भारत-आसियान संबंधों को मजबूत बनाने की दिशा में प्रधानमंत्री मोदी के निरंतर प्रयासों का प्रमाण है। 1959 में स्थापित &#8216;इंडोनेशिया का बिन्तांग आदिपूर्णा&#8217; उन व्यक्तियों को प्रदान किया जाता है जिन्होंने इंडोनेशिया गणराज्य की एकता, निरंतरता और समृद्धि के लिए उत्कृष्ट सेवाएं दी हैं।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:03:18+00:00",
-        "link": "https://newsonair.gov.in/hi/it-is-a-matter-of-pride-that-prime-minister-narendra-modi-is-being-conferred-with-indonesias-bintang-adipurna-award-external-affairs-minister-dr-s-jaishankar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/22.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "समृद्धि की सच्ची सुंदरता विनम्रता और निस्वार्थ सेवा में निहित: प्रधानमंत्री नरेन्‍द्र मोदी",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा है कि समृद्धि की सच्ची सुंदरता विनम्रता और निस्वार्थ सेवा में निहित है। संस्कृत के एक श्लोक सुभाषितम को साझा करते हुए श्री मोदी ने कहा कि सफलता तभी सार्थक होती है जब वह जन कल्याण और समाज की भलाई की भावना से प्रेरित हो।",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा है कि समृद्धि की सच्ची सुंदरता विनम्रता और निस्वार्थ सेवा में निहित है। संस्कृत के एक श्लोक सुभाषितम को साझा करते हुए श्री मोदी ने कहा कि सफलता तभी सार्थक होती है जब वह जन कल्याण और समाज की भलाई की भावना से प्रेरित हो।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T07:40:00+00:00",
-        "link": "https://newsonair.gov.in/hi/the-true-beauty-of-prosperity-lies-in-humility-and-selfless-service-prime-minister-narendra-modi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-07-130832.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-इंडोनेशिया के बीच व्यापक रणनीतिक साझेदारी प्रगति के नए चरण में प्रवेश कर रही है: पीएम मोदी",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। बैठक में द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के समझौते […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। बैठक में द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के समझौते किए गए। प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा कि भारत और इंडोनेशिया के बीच 2018 में स्थापित व्यापक रणनीतिक साझेदारी प्रगति के एक नए चरण में प्रवेश कर रही है। जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ संयुक्त संवाददाता सम्&#x200d;मेलन में उन्होंने कहा कि बढ़ते आपसी विश्वास ने रक्षा, सुरक्षा और समुद्री क्षेत्र में सहयोग को मजबूत किया है, और दोनों देश रक्षा आदान-प्रदान, आपदा प्रबंधन सहयोग और औद्योगिक सहयोग का विस्तार करने पर सहमत हुए हैं। श्री मोदी ने कहा कि यह साझेदारी विकास, सुरक्षा, प्रौद्योगिकी, संस्कृति और शिक्षा सहित कई क्षेत्रों में आगे बढ़ रही है। भविष्&#x200d;य के द्विपक्षीय संबंधों पर उन्होंने कहा कि भारत-इंडोनेशिया साझेदारी में एक नया स्वर्णिम अध्याय आज से शुरू होता है। प्रधानमंत्री ने कहा कि आज हस्ताक्षरित समझौते से भारत की उच्च गुणवत्ता वाली और सस्ती दवाएं इंडोनेशिया के लोगों के लिए अधिक आसानी से उपलब्ध हो सकेंगी। उन्होंने कहा कि भारत इंडोनेशिया के डॉक्टरों और स्वास्थ्य सेवा पेशेवरों की क्षमता निर्माण में योगदान देगा। उन्होंने कहा कि भारत में विकसित गेहूं के बीजों की आपूर्ति से इंडोनेशिया की खाद्य सुरक्षा मजबूत होगी, साथ ही दोनों देश सतत कृषि और कृषि प्रौद्योगिकी में सर्वोत्तम प्रथाओं को साझा करेंगे। श्री मोदी ने कहा कि दोनों पक्षों ने महत्वपूर्ण खनिजों और इस्पात की आपूर्ति श्रृंखला को सुदृढ़ करने के लिए एक महत्वपूर्ण समझौता किया है। उन्होंने कहा कि दोनों देशों की कंपनियां स्टेनलेस स्टील और दुर्लभ-पृथ्वी चुंबकों के क्षेत्र में नई साझेदारियां शुरू कर रही हैं। प्रधानमंत्री ने कहा कि भारत का एकीकृत भुगतान इंटरफेस (यूपीआई) जल्द ही इंडोनेशिया की भुगतान प्रणाली के साथ एकीकृत किया जाएगा, जिससे व्यापार और यात्रा दोनों में सुगमता आएगी। श्री मोदी ने कहा कि वे कल योग्यकार्ता में राष्ट्रपति प्रबोवो सुबियांतो के साथ एक हजार साल से अधिक पुराने प्रंबानन मंदिर के संरक्षण परियोजना का शुभारंभ करेंगे, जिसे उन्होंने भारत और इंडोनेशिया की साझा सांस्कृतिक विरासत का प्रतीक बताया। उन्होंने घोषणा की कि दोनों देश गुरुदेव रवींद्रनाथ टैगोर की इंडोनेशिया की ऐतिहासिक यात्रा की शताब्दी को उत्साह के साथ मनाएंगे। प्रधानमंत्री ने इंडोनेशिया के प्रथम शिक्षा मंत्री, की हाजर देवंतारा के योगदान का उल्&#x200d;लेख किया और कहा कि उनकी शैक्षिक विचारधारा गुरुदेव टैगोर के विचारों से गहराई से प्रभावित थी। श्री मोदी ने कहा कि वैश्विक अनिश्चितता के वर्तमान दौर में, भारत का मानना ​​है कि संवाद और कूटनीति की भूमिका पहले से कहीं अधिक महत्वपूर्ण हो गई है। फ़िलिस्तीन का जिक्र करते हुए, उन्होंने दो-राज्य समाधान और दीर्घकालिक शांति के लिए भारत के समर्थन को दोहराया। श्री मोदी ने इंडोनेशिया के सर्वोच्च नागरिक सम्मान &#8216;बिंगतांग आदिपूर्णा ऑफ द रिपब्लिक ऑफ इंडोनेशिया&#8217; से सम्मानित होने पर आभार व्यक्त किया। उन्होंने यह पुरस्कार भारत की जनता को समर्पित किया और इसे भारत और इंडोनेशिया के बीच स्थायी ऐतिहासिक और सभ्यतागत संबंधों का प्रतीक बताया। उन्होंने इस सम्मान के लिए राष्ट्रपति प्रबावो, इंडोनेशिया सरकार और वहां की जनता का आभार व्&#x200d;यक्&#x200d;त किया।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T06:50:56+00:00",
-        "link": "https://newsonair.gov.in/hi/the-comprehensive-strategic-partnership-established-between-india-and-indonesia-in-2018-is-entering-a-new-phase-of-progress-pm-modi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/18.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "श्री अमरनाथ जी यात्रा का छठा जत्था जम्मू के भगवती नगर आधार शिविर से कड़ी सुरक्षा के बीच रवाना",
-        "summary": "श्री अमरनाथ जी यात्रा का छठा जत्था आज सुबह जम्मू के भगवती नगर आधार शिविर से कड़ी सुरक्षा के बीच रवाना हुआ। हमारे संवाददाता ने बताया कि कुल आठ हजार 815 श्रद्धालु पवित्र गुफा मंदिर के लिए रवाना हुए। इनमें से तीन हजार 989 तीर्थयात्री बालतल मार्ग से और चार हजार 826 तीर्थयात्री पहलगाम मार्ग […]",
-        "article": "श्री अमरनाथ जी यात्रा का छठा जत्था आज सुबह जम्मू के भगवती नगर आधार शिविर से कड़ी सुरक्षा के बीच रवाना हुआ। हमारे संवाददाता ने बताया कि कुल आठ हजार 815 श्रद्धालु पवित्र गुफा मंदिर के लिए रवाना हुए। इनमें से तीन हजार 989 तीर्थयात्री बालतल मार्ग से और चार हजार 826 तीर्थयात्री पहलगाम मार्ग से रवाना हुए। यात्रियों की सुगम यात्रा के लिए कुल 363 वाहन तैनात किए गए थे। दोनों मार्गों पर तीर्थयात्रियों की सुरक्षित यात्रा सुनिश्चित करने के लिए पुलिस, सीआरपीएफ और अन्य सुरक्षा एजेंसियों को तैनात किया गया है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T06:45:50+00:00",
-        "link": "https://newsonair.gov.in/hi/the-sixth-batch-of-the-shri-amarnath-ji-yatra-departed-from-the-bhagwati-nagar-base-camp-in-jammu-this-morning-amidst-tight-security/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/amarnath-jatar-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1134,31 +1158,97 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/brics-6.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
+      }
+    ],
+    "breaking": [
       {
-        "title": "प्रधानमंत्री नरेंद्र मोदी ने इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। वार्ता के दौरान द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। वार्ता के दौरान द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के उद्देश्य से समझौता ज्ञापनों का आदान-प्रदान भी किया।",
+        "title": "भारत-इंडोनेशिया ने व्यापक रणनीतिक साझेदारी को और मजबूत करने की प्रतिबद्धता दोहराई",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी और इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो ने आज जकार्ता में हुई वार्ता के दौरान भारत-इंडोनेशिया व्यापक रणनीतिक साझेदारी को मजबूत करने की अपनी प्रतिबद्धता की पुष्टि की। दोनों नेताओं ने रक्षा, महत्वपूर्ण खनिज, कृषि, इस्पात, समुद्री सहयोग और उभरती प्रौद्योगिकियों से संबंधित कई समझौता ज्ञापनों पर हस्ताक्षर होते देखे। उन्होंने जकार्ता में […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी और इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो ने आज जकार्ता में हुई वार्ता के दौरान भारत-इंडोनेशिया व्यापक रणनीतिक साझेदारी को मजबूत करने की अपनी प्रतिबद्धता की पुष्टि की। दोनों नेताओं ने रक्षा, महत्वपूर्ण खनिज, कृषि, इस्पात, समुद्री सहयोग और उभरती प्रौद्योगिकियों से संबंधित कई समझौता ज्ञापनों पर हस्ताक्षर होते देखे। उन्होंने जकार्ता में आईआईएम बेंगलुरु की एक शाखा स्थापित करने पर सहमति व्यक्त की। दोनों पक्षों ने विनिर्माण, खाद्य सुरक्षा और डिजिटल प्रौद्योगिकी में सहयोग को मजबूत करने पर भी सहमति जताई। संयुक्त प्रेस वार्ता को संबोधित करते हुए राष्ट्रपति प्रबोवो ने भारत को एक विश्वसनीय रणनीतिक साझेदार बताया और प्रमुख क्षेत्रों में संबंधों के विस्तार का स्वागत किया।",
         "date": "2026-07-07",
-        "pubDate": "2026-07-07T05:55:56+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-held-delegation-level-talks-with-indonesian-president-prabowo-subianto-in-jakarta/",
+        "pubDate": "2026-07-07T10:35:01+00:00",
+        "link": "https://newsonair.gov.in/hi/india-and-indonesia-reiterated-their-commitment-to-further-strengthening-the-comprehensive-strategic-partnership/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/18.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "मंगोलिया के पूर्व राष्ट्रपति ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना की प्रगति की सराहना",
-        "summary": "मंगोलिया के पूर्व राष्ट्रपति और सत्तारूढ़ मंगोलियाई पीपुल्स पार्टी (एमपीपी) के नेता नंबरिन एनखबयार ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना के निर्माण में हुई प्रगति की सराहना की। भारत सरकार द्वारा प्रदत्त एक अरब 70 करोड़ डॉलर की ऋण सीमा के समर्थन से कार्यान्वित की जा रही मंगोल तेल रिफाइनरी परियोजना, मंगोलिया की सतत […]",
-        "article": "मंगोलिया के पूर्व राष्ट्रपति और सत्तारूढ़ मंगोलियाई पीपुल्स पार्टी (एमपीपी) के नेता नंबरिन एनखबयार ने भारत समर्थित दोर्नोगोवी तेल रिफाइनरी परियोजना के निर्माण में हुई प्रगति की सराहना की। भारत सरकार द्वारा प्रदत्त एक अरब 70 करोड़ डॉलर की ऋण सीमा के समर्थन से कार्यान्वित की जा रही मंगोल तेल रिफाइनरी परियोजना, मंगोलिया की सतत ऊर्जा रणनीति का महत्वपूर्ण घटक और प्रमुख पहल है। मंगोलिया स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि भारतीय राजदूत अतुल मलहारी गोत्सुर्वे ने मंगोलिया के पूर्व राष्ट्रपति के साथ दोर्नोगोवी स्थित तेल रिफाइनरी परियोजना के निर्माण स्थल का दौरा किया और &#8216;इंजीनियर्स इंडिया&#8217;, &#8216;मेघा इंजीनियरिंग एंड इंफ्रास्ट्रक्चर्स लिमिटेड&#8217; और मंगोल रिफाइनरी के इंजीनियरों और कर्मचारियों से बातचीत की। दूतावास ने बताया कि मंगोलिया के पूर्व राष्ट्रपति ने इस विशाल परियोजना के निर्माण में हुई प्रगति की सराहना की। दूतावास ने कहा कि यह परियोजना भारत-मंगोलिया द्विपक्षीय संबंधों को और मजबूत करेगी तथा मंगोलिया को सतत ऊर्जा आपूर्ति सुनिश्चित करेगी।",
+        "title": "कृषि मंत्री शिवराज सिंह चौहान ने किया प्रगति परियोजना का शुभारंभ",
+        "summary": "कृषि मंत्री शिवराज सिंह चौहान ने आज प्रगति परियोजना का शुभारंभ किया जिसका उद्देश्य 20 हजार से अधिक कृषि उद्यमियों और 20 लाख किसानों को सशक्त बनाना है। नई दिल्ली में मीडिया से बातचीत में श्री चौहान ने विकसित भारत के लक्ष्य को प्राप्त करने के लिए कृषि विकास, समृद्ध गांवों और समृद्ध किसानों के […]",
+        "article": "कृषि मंत्री शिवराज सिंह चौहान ने आज प्रगति परियोजना का शुभारंभ किया जिसका उद्देश्य 20 हजार से अधिक कृषि उद्यमियों और 20 लाख किसानों को सशक्त बनाना है। नई दिल्ली में मीडिया से बातचीत में श्री चौहान ने विकसित भारत के लक्ष्य को प्राप्त करने के लिए कृषि विकास, समृद्ध गांवों और समृद्ध किसानों के विकास की आवश्यकता पर बल दिया। उन्होंने कहा कि सरकार इस लक्ष्य को प्राप्त करने के लिए हरसंभव प्रयास कर रही है। श्री चौहान ने कहा कि सरकार ने प्रगति कार्यक्रम के अंतर्गत 26 हजार लघु कृषि उद्यमियों को प्रशिक्षित करने का निर्णय लिया है। उन्होंने कहा कि ये उद्यमी एक गांव की कृषि कार्य में बदलाव लाने के लिए 100 से 200 किसानों के साथ सहयोग करते हैं।",
         "date": "2026-07-07",
-        "pubDate": "2026-07-07T05:52:53+00:00",
-        "link": "https://newsonair.gov.in/hi/former-president-of-mongolia-lauds-progress-of-india-backed-dornogovi-oil-refinery-project/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR2.png",
+        "pubDate": "2026-07-07T10:24:11+00:00",
+        "link": "https://newsonair.gov.in/hi/agriculture-minister-shivraj-singh-chouhan-launched-the-pragati-project/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/download-5.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      }
-    ],
-    "breaking": [
+      },
+      {
+        "title": "केंद्रीय स्वास्थ्य मंत्री जेपी नड्डा ने टीबी मुक्त भारत बनाने का किया आह्वान",
+        "summary": "स्वास्थ्य मंत्री जेपी नड्डा ने आज नई दिल्ली में श्रम और रोजगार मंत्री मनसुख मांडविया तथा रक्षा राज्य मंत्री संजय सेठ के साथ टीबी मुक्त भारत अभियान को लेकर एक उच्चस्तरीय बैठक की अध्यक्षता की। टीबी उन्मूलन के लिए समग्र सरकारी दृष्टिकोण का आह्वान करते हुए श्री नड्डा ने सभी मंत्रालयों से अपने प्रयासों को […]",
+        "article": "स्वास्थ्य मंत्री जेपी नड्डा ने आज नई दिल्ली में श्रम और रोजगार मंत्री मनसुख मांडविया तथा रक्षा राज्य मंत्री संजय सेठ के साथ टीबी मुक्त भारत अभियान को लेकर एक उच्चस्तरीय बैठक की अध्यक्षता की। टीबी उन्मूलन के लिए समग्र सरकारी दृष्टिकोण का आह्वान करते हुए श्री नड्डा ने सभी मंत्रालयों से अपने प्रयासों को तेज करने का आग्रह किया और टीबी मुक्त भारत के लक्ष्य को प्राप्त करने में युवाओं की महत्वपूर्ण भूमिका पर जोर दिया। उन्होंने राष्ट्रीय अभियान को गति देने के लिए माय भारत, राष्ट्रीय सेवा योजना और राष्ट्रीय कैडेट कोर से स्वयंसेवकों को सक्रिय रूप से जुटाने का भी आह्वान किया।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T09:54:35+00:00",
+        "link": "https://newsonair.gov.in/hi/union-health-minister-jp-nadda-calls-for-a-tb-free-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/JP-NADDA-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय मंत्री जुएल ओराम ने जनजातीय विरासत संरक्षण के लिए स्वदेशी ज्ञान और आधुनिक तकनीक के समन्वय पर दिया जोर",
+        "summary": "केंद्रीय जनजातीय मामलों के मंत्रालय ने जनजातीय विकास के लिए ज्ञान, नवाचार और साक्ष्य-आधारित नीति निर्माण के केंद्र के रूप में जनजातीय अनुसंधान संस्थानों को मजबूत करने के लिए एक नया दृष्टिकोण प्रस्तुत किया है। भुवनेश्वर में आज दो दिवसीय राष्ट्रीय कार्यशाला का उद्घाटन करते हुए, केंद्रीय जनजातीय मामलों के मंत्री जुएल ओराम ने जनजातीय […]",
+        "article": "केंद्रीय जनजातीय मामलों के मंत्रालय ने जनजातीय विकास के लिए ज्ञान, नवाचार और साक्ष्य-आधारित नीति निर्माण के केंद्र के रूप में जनजातीय अनुसंधान संस्थानों को मजबूत करने के लिए एक नया दृष्टिकोण प्रस्तुत किया है। भुवनेश्वर में आज दो दिवसीय राष्ट्रीय कार्यशाला का उद्घाटन करते हुए, केंद्रीय जनजातीय मामलों के मंत्री जुएल ओराम ने जनजातीय विरासत को संरक्षित करने और समावेशी विकास को बढ़ावा देने के लिए स्वदेशी ज्ञान को अत्याधुनिक प्रौद्योगिकी के साथ एकीकृत करने का आह्वान किया।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:55:28+00:00",
+        "link": "https://newsonair.gov.in/hi/union-minister-jual-oram-emphasized-the-integration-of-indigenous-knowledge-and-modern-technology-for-the-preservation-of-tribal-heritage/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/4yLXnUYs_400x400.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "जोजिला सुरंग और केदारनाथ रोपवे समेत प्रमुख परियोजनाएं देश की कनेक्टिविटी और विकास को गति दे रही हैं: केंद्रीय मंत्री नितिन गडकरी",
+        "summary": "सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने कहा है कि 14 किलोमीटर लंबी जोजिला सुरंग, जम्मू-श्रीनगर कॉरिडोर पर 36 सुरंगें, केदारनाथ रोपवे और कश्मीर से कन्याकुमारी तक बेहतर सड़क संपर्क जैसी प्रमुख परियोजनाएं कनेक्टिविटी को मजबूत कर रही हैं और देश के विकास को गति दे रही हैं। नई दिल्ली में आयोजित विकसित भारत […]",
+        "article": "सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने कहा है कि 14 किलोमीटर लंबी जोजिला सुरंग, जम्मू-श्रीनगर कॉरिडोर पर 36 सुरंगें, केदारनाथ रोपवे और कश्मीर से कन्याकुमारी तक बेहतर सड़क संपर्क जैसी प्रमुख परियोजनाएं कनेक्टिविटी को मजबूत कर रही हैं और देश के विकास को गति दे रही हैं। नई दिल्ली में आयोजित विकसित भारत सम्मेलन को संबोधित करते हुए उन्होंने बुनियादी ढांचे पर आधारित विकास के लिए सरकार के प्रयासों पर जोर दिया और कहा कि शासन राष्ट्र निर्माण पर आधारित होना चाहिए। उन्होंने कहा कि राजनीति सामाजिक-आर्थिक परिवर्तन का साधन होनी चाहिए।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:53:47+00:00",
+        "link": "https://newsonair.gov.in/hi/major-projects-including-the-zojila-tunnel-and-the-kedarnath-ropeway-are-accelerating-the-countrys-connectivity-and-development-union-minister-nitin-gadkari/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nitin-gadkari.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने प्रख्यात समाज सुधारक रेट्टामलाई श्रीनिवासन की जयंती पर श्रद्धांजलि अर्पित की",
+        "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने नई दिल्ली के उपराष्ट्रपति भवन में प्रख्यात समाज सुधारक रेट्टामलाई श्रीनिवासन की जयंती पर उन्हें पुष्पांजलि अर्पित की। श्रीनिवासन को श्रद्धांजलि अर्पित करते हुए उपराष्ट्रपति ने कहा कि वे एक महान विद्वान और प्रख्यात समाज सुधारक थे।",
+        "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने नई दिल्ली के उपराष्ट्रपति भवन में प्रख्यात समाज सुधारक रेट्टामलाई श्रीनिवासन की जयंती पर उन्हें पुष्पांजलि अर्पित की। श्रीनिवासन को श्रद्धांजलि अर्पित करते हुए उपराष्ट्रपति ने कहा कि वे एक महान विद्वान और प्रख्यात समाज सुधारक थे।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:42:39+00:00",
+        "link": "https://newsonair.gov.in/hi/vice-president-c-p-radhakrishnan-paid-tribute-to-the-eminent-social-reformer-rettamalai-srinivasan-on-his-birth-anniversary/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/25.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय गृह मंत्री अमित शाह ने ‘एक पेड़ मां के नाम’ अभियान के तहत दिल्ली में 70 लाख पौधे लगाने के मिशन का शुभारंभ किया",
+        "summary": "केंद्रीय गृह मंत्री अमित शाह ने आज राष्ट्रीय राजधानी में हरियाली बढ़ाने के उद्देश्य से &#8216;एक पेड़ मां के नाम&#8217; अभियान के तहत दिल्ली में 70 लाख पौधे लगाने के मिशन का शुभारंभ किया। इस अवसर पर श्री शाह ने कहा कि यह अभियान दिल्ली के पर्यावरण को बदलने की दिशा में एक महत्वपूर्ण पहल […]",
+        "article": "केंद्रीय गृह मंत्री अमित शाह ने आज राष्ट्रीय राजधानी में हरियाली बढ़ाने के उद्देश्य से &#8216;एक पेड़ मां के नाम&#8217; अभियान के तहत दिल्ली में 70 लाख पौधे लगाने के मिशन का शुभारंभ किया। इस अवसर पर श्री शाह ने कहा कि यह अभियान दिल्ली के पर्यावरण को बदलने की दिशा में एक महत्वपूर्ण पहल है। उन्होंने कहा कि प्रधानमंत्री नरेंद्र मोदी ने पर्यावरण संरक्षण को बढ़ावा देने के लिए &#8216;एक पेड़ मां के नाम&#8217; अभियान शुरू किया था। गृह मंत्री ने कहा कि सरकार यमुना नदी को साफ करने के लिए निरंतर प्रयासरत है। उन्होंने कहा कि पिछले एक वर्ष में 129 सीवेज ट्रीटमेंट प्लांट चालू हो गए हैं, जिससे नदी में उपचारित जल का प्रवाह सुनिश्चित हो रहा है। उन्होंने यह भी बताया कि दिल्ली सरकार ने एक नई इलेक्ट्रिक वाहन नीति लागू की है और हरित दिल्ली के सपने को साकार करने के लिए प्रतिबद्ध है। श्री शाह ने सभी नागरिकों से अपनी मां के नाम पर एक पौधा लगाने की अपील की। पर्यावरण संरक्षण के महत्व पर प्रकाश डालते हुए श्री शाह ने दिल्ली रिज के पुनरुद्धार को कार्यक्रम का मुख्य केंद्र बताया। श्री शाह ने कहा कि रिज के लगभग पांच हजार हेक्टेयर क्षेत्र को अब औपचारिक रूप से वन भूमि घोषित कर दिया गया है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:40:10+00:00",
+        "link": "https://newsonair.gov.in/hi/union-home-minister-amit-shah-launched-a-mission-to-plant-70-lakh-saplings-in-delhi-under-the-ek-ped-maa-ke-naam-campaign/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/27.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "राष्ट्रपति द्रौपदी मुर्मु ने 2026 डूरंड कप ट्रॉफियों का अनावरण किया",
+        "summary": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट […]",
+        "article": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट में श्रीलंकाई टीम की भागीदारी पर खुशी व्यक्त की। राष्ट्रपति ने टूर्नामेंट में भाग लेने वाली सभी टीमों और खिलाड़ियों को शुभकामनाएं दीं। उन्होंने उनसे खेल भावना का पालन करने और सर्वश्रेष्ठ प्रदर्शन करके इस ऐतिहासिक प्रतियोगिता की प्रतिष्ठा को और बढ़ाने का आग्रह किया। इस अवसर पर चीफ ऑफ डिफेंस स्टाफ जनरल एनएस राजा सुब्रमणि, सेना प्रमुख धीरज सेठ और नौसेना प्रमुख एडमिरल कृष्णा स्वामीनाथन भी उपस्थित थे।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:39:25+00:00",
+        "link": "https://newsonair.gov.in/hi/president-droupadi-murmu-unveiled-the-2026-durand-cup-trophies-and-flagged-them-off/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/23.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "फैक्ट चैक: चीनी सेना के भारत में 60 किलोमीटर अंदर तक घुसने का दावा झूठा",
         "summary": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे उन वीडियो का खंडन किया है जिनमें झूठा दावा किया जा रहा है कि चीनी सेना भारत में 60 किलोमीटर अंदर तक घुस आई है। पत्र सूचना कार्यालय की तथ्य जाँच इकाई ने कहा कि यह दावा फर्जी है। उसने आगे स्पष्ट किया कि प्रसारित हो रहे […]",
@@ -1171,101 +1261,13 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "लोकसभा अध्यक्ष ओम बिरला ने प्रधानमंत्री मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान पर दी बधाई",
-        "summary": "लोकसभा अध्यक्ष ओम बिरला ने प्रधानमंत्री नरेंद्र मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान, &#8216;बिंगतांग आदिपूर्णा ऑफ द रिपब्लिक ऑफ इंडोनेशिया&#8217; से सम्मानित किए जाने पर बधाई दी है। यह सम्मान इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो द्वारा प्रदान किया गया है। सोशल मीडिया पर एक पोस्ट में लोकसभा अध्यक्ष ने कहा कि यह प्रतिष्ठित सम्मान […]",
-        "article": "लोकसभा अध्यक्ष ओम बिरला ने प्रधानमंत्री नरेंद्र मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान, &#8216;बिंगतांग आदिपूर्णा ऑफ द रिपब्लिक ऑफ इंडोनेशिया&#8217; से सम्मानित किए जाने पर बधाई दी है। यह सम्मान इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो द्वारा प्रदान किया गया है। सोशल मीडिया पर एक पोस्ट में लोकसभा अध्यक्ष ने कहा कि यह प्रतिष्ठित सम्मान भारत-इंडोनेशिया साझेदारी को और मजबूत करता है और द्विपक्षीय संबंधों को सुदृढ़ करने तथा क्षेत्रीय और वैश्विक सहयोग को आगे बढ़ाने में प्रधानमंत्री के दूरदर्शी नेतृत्व की मान्यता है। यह दोनों देशों के बीच अटूट मित्रता, साझा मूल्यों और आपसी विश्वास की पुष्टि भी करता है। रक्षा मंत्री राजनाथ सिंह ने भी प्रधानमंत्री नरेंद्र मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान &#8216;बिंगतांग आदिपूर्णा ऑफ द रिपब्लिक ऑफ इंडोनेशिया&#8217; से सम्मानित किए जाने पर बधाई दी है। सोशल मीडिया पोस्ट में श्री सिंह ने कहा कि यह असाधारण सम्मान प्रधानमंत्री मोदी के दूरदर्शी नेतृत्व, परिवर्तनकारी राजनीतिज्ञता और आपसी विश्वास, सम्मान और साझा प्रगति पर आधारित वैश्विक साझेदारियों को मजबूत करते हुए भारत के राष्ट्रीय हितों को आगे बढ़ाने की उनकी अटूट प्रतिबद्धता की एक सशक्त मान्यता है। शिक्षा मंत्री धर्मेंद्र प्रधान ने भी प्रधानमंत्री नरेंद्र मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान से सम्मानित किए जाने पर बधाई दी है। सोशल मीडिया पोस्ट में उन्होंने कहा कि यह देश के लिए गर्व का क्षण है।",
+        "title": "इंडोनेशिया में निजी संग्रह के जरिए साझा सांस्कृतिक विरासत को सहेज रहे हैं हरी सुनार्यो",
+        "summary": "इंडोनेशिया के एक खनन सलाहकार हरी सुनार्यो अपने असाधारण निजी संग्रह के माध्यम से सदियों पुरानी साझा विरासत को संरक्षित कर रहे हैं। लगभग एक हजार मूर्तियों और 200 से अधिक पारंपरिक जावानीस कटार केरिस ने भारत और इंडोनेशिया के बीच गहरे सांस्कृतिक संबंधों को दर्शाने वाली कलाकृतियों की रक्षा के लिए दशकों समर्पित किए […]",
+        "article": "इंडोनेशिया के एक खनन सलाहकार हरी सुनार्यो अपने असाधारण निजी संग्रह के माध्यम से सदियों पुरानी साझा विरासत को संरक्षित कर रहे हैं। लगभग एक हजार मूर्तियों और 200 से अधिक पारंपरिक जावानीस कटार केरिस ने भारत और इंडोनेशिया के बीच गहरे सांस्कृतिक संबंधों को दर्शाने वाली कलाकृतियों की रक्षा के लिए दशकों समर्पित किए हैं। भारतीय कला और वास्तुकला के प्रबल प्रशंसक का मानना ​​है कि इनमें से कई वस्तुएं अकादमिक जगत में अधिक ध्यान आकर्षित करने योग्य हैं।",
         "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:27:46+00:00",
-        "link": "https://newsonair.gov.in/hi/lok-sabha-speaker-om-birla-congratulated-prime-minister-modi-on-receiving-indonesias-highest-civilian-honor/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/Om-birla-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पीएम नरेंद्र मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान ‘बिंतांग आदिपूर्णा रिपब्लिक ऑफ इंडोनेशिया’ से सम्मानित किया गया",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी को आज इंडोनेशिया के सर्वोच्च नागरिक सम्मान, बिंतांग आदिपूर्णा रिपब्लिक ऑफ इंडोनेशिया से सम्मानित किया गया। यह सम्मान उन्हें इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियंतो ने एक समारोह में प्रदान किया। इससे पहले, प्रधानमंत्री मोदी का राष्ट्रपति भवन में औपचारिक स्वागत किया गया, जहां कई बच्‍चे दोनों देशों के राष्ट्रीय ध्वज लहराते नजर […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी को आज इंडोनेशिया के सर्वोच्च नागरिक सम्मान, बिंतांग आदिपूर्णा रिपब्लिक ऑफ इंडोनेशिया से सम्मानित किया गया। यह सम्मान उन्हें इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियंतो ने एक समारोह में प्रदान किया। इससे पहले, प्रधानमंत्री मोदी का राष्ट्रपति भवन में औपचारिक स्वागत किया गया, जहां कई बच्&#x200d;चे दोनों देशों के राष्ट्रीय ध्वज लहराते नजर आए। वहां मौजूद सभी बच्&#x200d;चों ने प्रधानमंत्री मोदी और राष्ट्रपति प्रबोवो सुबियंतो का गर्मजोशी से स्वागत किया। दोनों नेताओं ने द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा करने के लिए प्रतिनिधिमंडल स्तर की वार्ता की और व्यापार, रक्षा, समुद्री सुरक्षा, डिजिटल प्रौद्योगिकी, स्वास्थ्य, शिक्षा और सांस्कृतिक आदान-प्रदान में सहयोग बढ़ाने के तरीकों पर चर्चा की। वार्ता के बाद कई समझौतों पर हस्ताक्षर किए गए। प्रधानमंत्री मोदी ने इस यात्रा को भारत-इंडोनेशिया संबंधों में एक नए अध्याय की शुरुआत बताया। उन्होंने कहा कि दोनों देश हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और विकास सुनिश्चित करने के लिए मिलकर काम करने के लिए प्रतिबद्ध हैं।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:16:35+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-was-conferred-with-indonesias-highest-civilian-honour-bintang-adipurna/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/22.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अहमदाबाद बम विस्फोट मामला: गुजरात हाईकोर्ट ने 38 दोषियों की फांसी, 11 अन्य की उम्रकैद बरकरार रखी",
-        "summary": "गुजरात उच्च न्यायालय ने 2008 के अहमदाबाद सिलसिलेवार बम विस्‍फोटों के मामले में आज विशेष न्यायालय के उस आदेश को बरकरार रखा जिसमें 38 दोषियों को मौत की सजा और 11 अन्य को आजीवन कारावास की सजा सुनाई गई थी। न्यायमूर्ति ए वाई कोगजे और न्यायमूर्ति समीर दवे की खंडपीठ ने निचली अदालत के आदेश […]",
-        "article": "गुजरात उच्च न्यायालय ने 2008 के अहमदाबाद सिलसिलेवार बम विस्&#x200d;फोटों के मामले में आज विशेष न्यायालय के उस आदेश को बरकरार रखा जिसमें 38 दोषियों को मौत की सजा और 11 अन्य को आजीवन कारावास की सजा सुनाई गई थी। न्यायमूर्ति ए वाई कोगजे और न्यायमूर्ति समीर दवे की खंडपीठ ने निचली अदालत के आदेश के खिलाफ सभी अपीलें खारिज कर दीं और मामले में आतंकी संगठन इंडियन मुजाहिदीन के सदस्यों को दी गई सजा को बरकरार रखते हुए अपने फैसले को सही ठहराया। 26 जुलाई 2008 को, अहमदाबाद में 70 मिनट के भीतर लगातार हुए 21 बम धमाकों ने तबाही मचा दी थी। इसमें 56 लोग मारे गए और 200 अन्य घायल हो गए थे। शहर के कुछ अस्पतालों को भी निशाना बनाया गया था।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:13:10+00:00",
-        "link": "https://newsonair.gov.in/hi/ahmedabad-bomb-blast-case-gujarat-high-court-upholds-death-sentences-of-38-convicts-and-life-imprisonment-for-11-others/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "मिजोरम का प्राकृतिक इतिहास संग्रहालय भारत का 21वां नामित जैव विविधता भंडारगृह घोषित",
-        "summary": "मिजोरम के प्राकृतिक इतिहास संग्रहालय को जैव विविधता अधिनियम, 2002 के तहत भारत के 21वें नामित भंडारगृह के रूप में अधिसूचित किया गया है। पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय ने राष्ट्रीय जैव विविधता प्राधिकरण की सिफारिश के आधार पर इस संस्थान को नामित भंडारगृह के रूप में अधिसूचित किया है। नामित भंडारगृह प्रमाणित जैविक […]",
-        "article": "मिजोरम के प्राकृतिक इतिहास संग्रहालय को जैव विविधता अधिनियम, 2002 के तहत भारत के 21वें नामित भंडारगृह के रूप में अधिसूचित किया गया है। पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय ने राष्ट्रीय जैव विविधता प्राधिकरण की सिफारिश के आधार पर इस संस्थान को नामित भंडारगृह के रूप में अधिसूचित किया है। नामित भंडारगृह प्रमाणित जैविक नमूनों के संरक्षण द्वारा भारत के जैव विविधता शासन ढांचे का एक महत्वपूर्ण घटक हैं। संग्रहालय में चुनिंदा वनस्पतियों, जिनमें मछलियां, पतंगे, भृंग और तितलियां जैसे जीवों के प्रमाणित नमूने रखे जाएंगे।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:08:57+00:00",
-        "link": "https://newsonair.gov.in/hi/mizorams-natural-history-museum-declared-indias-21st-designated-biodiversity-repository/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेन्‍द्र मोदी को इंडोनेशिया को बिन्तांग आदिपूर्णा सम्मान से सम्मानित किया जाना गर्व का विषय: विदेश मंत्री डॉ. एस. जयशंकर",
-        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कहा है कि प्रधानमंत्री नरेन्‍द्र मोदी को इंडोनेशिया का बिन्तांग आदिपूर्णा सम्मान से सम्मानित किया जाना, सभी भारतीयों के लिए अत्यंत गर्व का विषय है। सोशल मीडिया पर एक पोस्ट में डॉ. जयशंकर ने कहा कि यह सम्मान भारत की व्यापक रणनीतिक साझेदारी को सुदृढ़ करने और भारत-आसियान संबंधों […]",
-        "article": "विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कहा है कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी को इंडोनेशिया का बिन्तांग आदिपूर्णा सम्मान से सम्मानित किया जाना, सभी भारतीयों के लिए अत्यंत गर्व का विषय है। सोशल मीडिया पर एक पोस्ट में डॉ. जयशंकर ने कहा कि यह सम्मान भारत की व्यापक रणनीतिक साझेदारी को सुदृढ़ करने और भारत-आसियान संबंधों को मजबूत बनाने की दिशा में प्रधानमंत्री मोदी के निरंतर प्रयासों का प्रमाण है। 1959 में स्थापित &#8216;इंडोनेशिया का बिन्तांग आदिपूर्णा&#8217; उन व्यक्तियों को प्रदान किया जाता है जिन्होंने इंडोनेशिया गणराज्य की एकता, निरंतरता और समृद्धि के लिए उत्कृष्ट सेवाएं दी हैं।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:03:18+00:00",
-        "link": "https://newsonair.gov.in/hi/it-is-a-matter-of-pride-that-prime-minister-narendra-modi-is-being-conferred-with-indonesias-bintang-adipurna-award-external-affairs-minister-dr-s-jaishankar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/22.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "समृद्धि की सच्ची सुंदरता विनम्रता और निस्वार्थ सेवा में निहित: प्रधानमंत्री नरेन्‍द्र मोदी",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा है कि समृद्धि की सच्ची सुंदरता विनम्रता और निस्वार्थ सेवा में निहित है। संस्कृत के एक श्लोक सुभाषितम को साझा करते हुए श्री मोदी ने कहा कि सफलता तभी सार्थक होती है जब वह जन कल्याण और समाज की भलाई की भावना से प्रेरित हो।",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा है कि समृद्धि की सच्ची सुंदरता विनम्रता और निस्वार्थ सेवा में निहित है। संस्कृत के एक श्लोक सुभाषितम को साझा करते हुए श्री मोदी ने कहा कि सफलता तभी सार्थक होती है जब वह जन कल्याण और समाज की भलाई की भावना से प्रेरित हो।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T07:40:00+00:00",
-        "link": "https://newsonair.gov.in/hi/the-true-beauty-of-prosperity-lies-in-humility-and-selfless-service-prime-minister-narendra-modi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-07-130832.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-इंडोनेशिया के बीच व्यापक रणनीतिक साझेदारी प्रगति के नए चरण में प्रवेश कर रही है: पीएम मोदी",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। बैठक में द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के समझौते […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। बैठक में द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के समझौते किए गए। प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा कि भारत और इंडोनेशिया के बीच 2018 में स्थापित व्यापक रणनीतिक साझेदारी प्रगति के एक नए चरण में प्रवेश कर रही है। जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ संयुक्त संवाददाता सम्&#x200d;मेलन में उन्होंने कहा कि बढ़ते आपसी विश्वास ने रक्षा, सुरक्षा और समुद्री क्षेत्र में सहयोग को मजबूत किया है, और दोनों देश रक्षा आदान-प्रदान, आपदा प्रबंधन सहयोग और औद्योगिक सहयोग का विस्तार करने पर सहमत हुए हैं। श्री मोदी ने कहा कि यह साझेदारी विकास, सुरक्षा, प्रौद्योगिकी, संस्कृति और शिक्षा सहित कई क्षेत्रों में आगे बढ़ रही है। भविष्&#x200d;य के द्विपक्षीय संबंधों पर उन्होंने कहा कि भारत-इंडोनेशिया साझेदारी में एक नया स्वर्णिम अध्याय आज से शुरू होता है। प्रधानमंत्री ने कहा कि आज हस्ताक्षरित समझौते से भारत की उच्च गुणवत्ता वाली और सस्ती दवाएं इंडोनेशिया के लोगों के लिए अधिक आसानी से उपलब्ध हो सकेंगी। उन्होंने कहा कि भारत इंडोनेशिया के डॉक्टरों और स्वास्थ्य सेवा पेशेवरों की क्षमता निर्माण में योगदान देगा। उन्होंने कहा कि भारत में विकसित गेहूं के बीजों की आपूर्ति से इंडोनेशिया की खाद्य सुरक्षा मजबूत होगी, साथ ही दोनों देश सतत कृषि और कृषि प्रौद्योगिकी में सर्वोत्तम प्रथाओं को साझा करेंगे। श्री मोदी ने कहा कि दोनों पक्षों ने महत्वपूर्ण खनिजों और इस्पात की आपूर्ति श्रृंखला को सुदृढ़ करने के लिए एक महत्वपूर्ण समझौता किया है। उन्होंने कहा कि दोनों देशों की कंपनियां स्टेनलेस स्टील और दुर्लभ-पृथ्वी चुंबकों के क्षेत्र में नई साझेदारियां शुरू कर रही हैं। प्रधानमंत्री ने कहा कि भारत का एकीकृत भुगतान इंटरफेस (यूपीआई) जल्द ही इंडोनेशिया की भुगतान प्रणाली के साथ एकीकृत किया जाएगा, जिससे व्यापार और यात्रा दोनों में सुगमता आएगी। श्री मोदी ने कहा कि वे कल योग्यकार्ता में राष्ट्रपति प्रबोवो सुबियांतो के साथ एक हजार साल से अधिक पुराने प्रंबानन मंदिर के संरक्षण परियोजना का शुभारंभ करेंगे, जिसे उन्होंने भारत और इंडोनेशिया की साझा सांस्कृतिक विरासत का प्रतीक बताया। उन्होंने घोषणा की कि दोनों देश गुरुदेव रवींद्रनाथ टैगोर की इंडोनेशिया की ऐतिहासिक यात्रा की शताब्दी को उत्साह के साथ मनाएंगे। प्रधानमंत्री ने इंडोनेशिया के प्रथम शिक्षा मंत्री, की हाजर देवंतारा के योगदान का उल्&#x200d;लेख किया और कहा कि उनकी शैक्षिक विचारधारा गुरुदेव टैगोर के विचारों से गहराई से प्रभावित थी। श्री मोदी ने कहा कि वैश्विक अनिश्चितता के वर्तमान दौर में, भारत का मानना ​​है कि संवाद और कूटनीति की भूमिका पहले से कहीं अधिक महत्वपूर्ण हो गई है। फ़िलिस्तीन का जिक्र करते हुए, उन्होंने दो-राज्य समाधान और दीर्घकालिक शांति के लिए भारत के समर्थन को दोहराया। श्री मोदी ने इंडोनेशिया के सर्वोच्च नागरिक सम्मान &#8216;बिंगतांग आदिपूर्णा ऑफ द रिपब्लिक ऑफ इंडोनेशिया&#8217; से सम्मानित होने पर आभार व्यक्त किया। उन्होंने यह पुरस्कार भारत की जनता को समर्पित किया और इसे भारत और इंडोनेशिया के बीच स्थायी ऐतिहासिक और सभ्यतागत संबंधों का प्रतीक बताया। उन्होंने इस सम्मान के लिए राष्ट्रपति प्रबावो, इंडोनेशिया सरकार और वहां की जनता का आभार व्&#x200d;यक्&#x200d;त किया।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T06:50:56+00:00",
-        "link": "https://newsonair.gov.in/hi/the-comprehensive-strategic-partnership-established-between-india-and-indonesia-in-2018-is-entering-a-new-phase-of-progress-pm-modi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/18.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "श्री अमरनाथ जी यात्रा का छठा जत्था जम्मू के भगवती नगर आधार शिविर से कड़ी सुरक्षा के बीच रवाना",
-        "summary": "श्री अमरनाथ जी यात्रा का छठा जत्था आज सुबह जम्मू के भगवती नगर आधार शिविर से कड़ी सुरक्षा के बीच रवाना हुआ। हमारे संवाददाता ने बताया कि कुल आठ हजार 815 श्रद्धालु पवित्र गुफा मंदिर के लिए रवाना हुए। इनमें से तीन हजार 989 तीर्थयात्री बालतल मार्ग से और चार हजार 826 तीर्थयात्री पहलगाम मार्ग […]",
-        "article": "श्री अमरनाथ जी यात्रा का छठा जत्था आज सुबह जम्मू के भगवती नगर आधार शिविर से कड़ी सुरक्षा के बीच रवाना हुआ। हमारे संवाददाता ने बताया कि कुल आठ हजार 815 श्रद्धालु पवित्र गुफा मंदिर के लिए रवाना हुए। इनमें से तीन हजार 989 तीर्थयात्री बालतल मार्ग से और चार हजार 826 तीर्थयात्री पहलगाम मार्ग से रवाना हुए। यात्रियों की सुगम यात्रा के लिए कुल 363 वाहन तैनात किए गए थे। दोनों मार्गों पर तीर्थयात्रियों की सुरक्षित यात्रा सुनिश्चित करने के लिए पुलिस, सीआरपीएफ और अन्य सुरक्षा एजेंसियों को तैनात किया गया है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T06:45:50+00:00",
-        "link": "https://newsonair.gov.in/hi/the-sixth-batch-of-the-shri-amarnath-ji-yatra-departed-from-the-bhagwati-nagar-base-camp-in-jammu-this-morning-amidst-tight-security/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/amarnath-jatar-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "राष्ट्रपति द्रौपदी मुर्मु ने 2026 डूरंड कप ट्रॉफियों का अनावरण कर हरी झंडी दिखा किया रवाना",
-        "summary": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट […]",
-        "article": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट में श्रीलंकाई टीम की भागीदारी पर खुशी व्यक्त की। राष्ट्रपति ने टूर्नामेंट में भाग लेने वाली सभी टीमों और खिलाड़ियों को शुभकामनाएं दीं। उन्होंने उनसे खेल भावना का पालन करने और सर्वश्रेष्ठ प्रदर्शन करके इस ऐतिहासिक प्रतियोगिता की प्रतिष्ठा को और बढ़ाने का आग्रह किया। इस अवसर पर रक्षा प्रमुख जनरल एनएस राजा सुब्रमणि, सेना प्रमुख धीरज सेठ और नौसेना प्रमुख एडमिरल कृष्णा स्वामीनाथन भी उपस्थित थे।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:39:25+00:00",
-        "link": "https://newsonair.gov.in/hi/president-droupadi-murmu-unveiled-the-2026-durand-cup-trophies-and-flagged-them-off/",
-        "post_id": 1723762,
+        "pubDate": "2026-07-07T08:43:25+00:00",
+        "link": "https://newsonair.gov.in/hi/hari-sunaryo-is-preserving-shared-cultural-heritage-through-a-private-collection-in-indonesia/",
+        "post_id": 1723763,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1273,6 +1275,94 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "भारत-इंडोनेशिया ने व्यापक रणनीतिक साझेदारी को और मजबूत करने की प्रतिबद्धता दोहराई",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी और इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो ने आज जकार्ता में हुई वार्ता के दौरान भारत-इंडोनेशिया व्यापक रणनीतिक साझेदारी को मजबूत करने की अपनी प्रतिबद्धता की पुष्टि की। दोनों नेताओं ने रक्षा, महत्वपूर्ण खनिज, कृषि, इस्पात, समुद्री सहयोग और उभरती प्रौद्योगिकियों से संबंधित कई समझौता ज्ञापनों पर हस्ताक्षर होते देखे। उन्होंने जकार्ता में […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी और इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो ने आज जकार्ता में हुई वार्ता के दौरान भारत-इंडोनेशिया व्यापक रणनीतिक साझेदारी को मजबूत करने की अपनी प्रतिबद्धता की पुष्टि की। दोनों नेताओं ने रक्षा, महत्वपूर्ण खनिज, कृषि, इस्पात, समुद्री सहयोग और उभरती प्रौद्योगिकियों से संबंधित कई समझौता ज्ञापनों पर हस्ताक्षर होते देखे। उन्होंने जकार्ता में आईआईएम बेंगलुरु की एक शाखा स्थापित करने पर सहमति व्यक्त की। दोनों पक्षों ने विनिर्माण, खाद्य सुरक्षा और डिजिटल प्रौद्योगिकी में सहयोग को मजबूत करने पर भी सहमति जताई। संयुक्त प्रेस वार्ता को संबोधित करते हुए राष्ट्रपति प्रबोवो ने भारत को एक विश्वसनीय रणनीतिक साझेदार बताया और प्रमुख क्षेत्रों में संबंधों के विस्तार का स्वागत किया।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T10:35:01+00:00",
+        "link": "https://newsonair.gov.in/hi/india-and-indonesia-reiterated-their-commitment-to-further-strengthening-the-comprehensive-strategic-partnership/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/18.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कृषि मंत्री शिवराज सिंह चौहान ने किया प्रगति परियोजना का शुभारंभ",
+        "summary": "कृषि मंत्री शिवराज सिंह चौहान ने आज प्रगति परियोजना का शुभारंभ किया जिसका उद्देश्य 20 हजार से अधिक कृषि उद्यमियों और 20 लाख किसानों को सशक्त बनाना है। नई दिल्ली में मीडिया से बातचीत में श्री चौहान ने विकसित भारत के लक्ष्य को प्राप्त करने के लिए कृषि विकास, समृद्ध गांवों और समृद्ध किसानों के […]",
+        "article": "कृषि मंत्री शिवराज सिंह चौहान ने आज प्रगति परियोजना का शुभारंभ किया जिसका उद्देश्य 20 हजार से अधिक कृषि उद्यमियों और 20 लाख किसानों को सशक्त बनाना है। नई दिल्ली में मीडिया से बातचीत में श्री चौहान ने विकसित भारत के लक्ष्य को प्राप्त करने के लिए कृषि विकास, समृद्ध गांवों और समृद्ध किसानों के विकास की आवश्यकता पर बल दिया। उन्होंने कहा कि सरकार इस लक्ष्य को प्राप्त करने के लिए हरसंभव प्रयास कर रही है। श्री चौहान ने कहा कि सरकार ने प्रगति कार्यक्रम के अंतर्गत 26 हजार लघु कृषि उद्यमियों को प्रशिक्षित करने का निर्णय लिया है। उन्होंने कहा कि ये उद्यमी एक गांव की कृषि कार्य में बदलाव लाने के लिए 100 से 200 किसानों के साथ सहयोग करते हैं।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T10:24:11+00:00",
+        "link": "https://newsonair.gov.in/hi/agriculture-minister-shivraj-singh-chouhan-launched-the-pragati-project/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/download-5.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय स्वास्थ्य मंत्री जेपी नड्डा ने टीबी मुक्त भारत बनाने का किया आह्वान",
+        "summary": "स्वास्थ्य मंत्री जेपी नड्डा ने आज नई दिल्ली में श्रम और रोजगार मंत्री मनसुख मांडविया तथा रक्षा राज्य मंत्री संजय सेठ के साथ टीबी मुक्त भारत अभियान को लेकर एक उच्चस्तरीय बैठक की अध्यक्षता की। टीबी उन्मूलन के लिए समग्र सरकारी दृष्टिकोण का आह्वान करते हुए श्री नड्डा ने सभी मंत्रालयों से अपने प्रयासों को […]",
+        "article": "स्वास्थ्य मंत्री जेपी नड्डा ने आज नई दिल्ली में श्रम और रोजगार मंत्री मनसुख मांडविया तथा रक्षा राज्य मंत्री संजय सेठ के साथ टीबी मुक्त भारत अभियान को लेकर एक उच्चस्तरीय बैठक की अध्यक्षता की। टीबी उन्मूलन के लिए समग्र सरकारी दृष्टिकोण का आह्वान करते हुए श्री नड्डा ने सभी मंत्रालयों से अपने प्रयासों को तेज करने का आग्रह किया और टीबी मुक्त भारत के लक्ष्य को प्राप्त करने में युवाओं की महत्वपूर्ण भूमिका पर जोर दिया। उन्होंने राष्ट्रीय अभियान को गति देने के लिए माय भारत, राष्ट्रीय सेवा योजना और राष्ट्रीय कैडेट कोर से स्वयंसेवकों को सक्रिय रूप से जुटाने का भी आह्वान किया।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T09:54:35+00:00",
+        "link": "https://newsonair.gov.in/hi/union-health-minister-jp-nadda-calls-for-a-tb-free-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/JP-NADDA-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय मंत्री जुएल ओराम ने जनजातीय विरासत संरक्षण के लिए स्वदेशी ज्ञान और आधुनिक तकनीक के समन्वय पर दिया जोर",
+        "summary": "केंद्रीय जनजातीय मामलों के मंत्रालय ने जनजातीय विकास के लिए ज्ञान, नवाचार और साक्ष्य-आधारित नीति निर्माण के केंद्र के रूप में जनजातीय अनुसंधान संस्थानों को मजबूत करने के लिए एक नया दृष्टिकोण प्रस्तुत किया है। भुवनेश्वर में आज दो दिवसीय राष्ट्रीय कार्यशाला का उद्घाटन करते हुए, केंद्रीय जनजातीय मामलों के मंत्री जुएल ओराम ने जनजातीय […]",
+        "article": "केंद्रीय जनजातीय मामलों के मंत्रालय ने जनजातीय विकास के लिए ज्ञान, नवाचार और साक्ष्य-आधारित नीति निर्माण के केंद्र के रूप में जनजातीय अनुसंधान संस्थानों को मजबूत करने के लिए एक नया दृष्टिकोण प्रस्तुत किया है। भुवनेश्वर में आज दो दिवसीय राष्ट्रीय कार्यशाला का उद्घाटन करते हुए, केंद्रीय जनजातीय मामलों के मंत्री जुएल ओराम ने जनजातीय विरासत को संरक्षित करने और समावेशी विकास को बढ़ावा देने के लिए स्वदेशी ज्ञान को अत्याधुनिक प्रौद्योगिकी के साथ एकीकृत करने का आह्वान किया।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:55:28+00:00",
+        "link": "https://newsonair.gov.in/hi/union-minister-jual-oram-emphasized-the-integration-of-indigenous-knowledge-and-modern-technology-for-the-preservation-of-tribal-heritage/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/4yLXnUYs_400x400.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "जोजिला सुरंग और केदारनाथ रोपवे समेत प्रमुख परियोजनाएं देश की कनेक्टिविटी और विकास को गति दे रही हैं: केंद्रीय मंत्री नितिन गडकरी",
+        "summary": "सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने कहा है कि 14 किलोमीटर लंबी जोजिला सुरंग, जम्मू-श्रीनगर कॉरिडोर पर 36 सुरंगें, केदारनाथ रोपवे और कश्मीर से कन्याकुमारी तक बेहतर सड़क संपर्क जैसी प्रमुख परियोजनाएं कनेक्टिविटी को मजबूत कर रही हैं और देश के विकास को गति दे रही हैं। नई दिल्ली में आयोजित विकसित भारत […]",
+        "article": "सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने कहा है कि 14 किलोमीटर लंबी जोजिला सुरंग, जम्मू-श्रीनगर कॉरिडोर पर 36 सुरंगें, केदारनाथ रोपवे और कश्मीर से कन्याकुमारी तक बेहतर सड़क संपर्क जैसी प्रमुख परियोजनाएं कनेक्टिविटी को मजबूत कर रही हैं और देश के विकास को गति दे रही हैं। नई दिल्ली में आयोजित विकसित भारत सम्मेलन को संबोधित करते हुए उन्होंने बुनियादी ढांचे पर आधारित विकास के लिए सरकार के प्रयासों पर जोर दिया और कहा कि शासन राष्ट्र निर्माण पर आधारित होना चाहिए। उन्होंने कहा कि राजनीति सामाजिक-आर्थिक परिवर्तन का साधन होनी चाहिए।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:53:47+00:00",
+        "link": "https://newsonair.gov.in/hi/major-projects-including-the-zojila-tunnel-and-the-kedarnath-ropeway-are-accelerating-the-countrys-connectivity-and-development-union-minister-nitin-gadkari/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nitin-gadkari.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने प्रख्यात समाज सुधारक रेट्टामलाई श्रीनिवासन की जयंती पर श्रद्धांजलि अर्पित की",
+        "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने नई दिल्ली के उपराष्ट्रपति भवन में प्रख्यात समाज सुधारक रेट्टामलाई श्रीनिवासन की जयंती पर उन्हें पुष्पांजलि अर्पित की। श्रीनिवासन को श्रद्धांजलि अर्पित करते हुए उपराष्ट्रपति ने कहा कि वे एक महान विद्वान और प्रख्यात समाज सुधारक थे।",
+        "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने नई दिल्ली के उपराष्ट्रपति भवन में प्रख्यात समाज सुधारक रेट्टामलाई श्रीनिवासन की जयंती पर उन्हें पुष्पांजलि अर्पित की। श्रीनिवासन को श्रद्धांजलि अर्पित करते हुए उपराष्ट्रपति ने कहा कि वे एक महान विद्वान और प्रख्यात समाज सुधारक थे।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:42:39+00:00",
+        "link": "https://newsonair.gov.in/hi/vice-president-c-p-radhakrishnan-paid-tribute-to-the-eminent-social-reformer-rettamalai-srinivasan-on-his-birth-anniversary/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/25.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय गृह मंत्री अमित शाह ने ‘एक पेड़ मां के नाम’ अभियान के तहत दिल्ली में 70 लाख पौधे लगाने के मिशन का शुभारंभ किया",
+        "summary": "केंद्रीय गृह मंत्री अमित शाह ने आज राष्ट्रीय राजधानी में हरियाली बढ़ाने के उद्देश्य से &#8216;एक पेड़ मां के नाम&#8217; अभियान के तहत दिल्ली में 70 लाख पौधे लगाने के मिशन का शुभारंभ किया। इस अवसर पर श्री शाह ने कहा कि यह अभियान दिल्ली के पर्यावरण को बदलने की दिशा में एक महत्वपूर्ण पहल […]",
+        "article": "केंद्रीय गृह मंत्री अमित शाह ने आज राष्ट्रीय राजधानी में हरियाली बढ़ाने के उद्देश्य से &#8216;एक पेड़ मां के नाम&#8217; अभियान के तहत दिल्ली में 70 लाख पौधे लगाने के मिशन का शुभारंभ किया। इस अवसर पर श्री शाह ने कहा कि यह अभियान दिल्ली के पर्यावरण को बदलने की दिशा में एक महत्वपूर्ण पहल है। उन्होंने कहा कि प्रधानमंत्री नरेंद्र मोदी ने पर्यावरण संरक्षण को बढ़ावा देने के लिए &#8216;एक पेड़ मां के नाम&#8217; अभियान शुरू किया था। गृह मंत्री ने कहा कि सरकार यमुना नदी को साफ करने के लिए निरंतर प्रयासरत है। उन्होंने कहा कि पिछले एक वर्ष में 129 सीवेज ट्रीटमेंट प्लांट चालू हो गए हैं, जिससे नदी में उपचारित जल का प्रवाह सुनिश्चित हो रहा है। उन्होंने यह भी बताया कि दिल्ली सरकार ने एक नई इलेक्ट्रिक वाहन नीति लागू की है और हरित दिल्ली के सपने को साकार करने के लिए प्रतिबद्ध है। श्री शाह ने सभी नागरिकों से अपनी मां के नाम पर एक पौधा लगाने की अपील की। पर्यावरण संरक्षण के महत्व पर प्रकाश डालते हुए श्री शाह ने दिल्ली रिज के पुनरुद्धार को कार्यक्रम का मुख्य केंद्र बताया। श्री शाह ने कहा कि रिज के लगभग पांच हजार हेक्टेयर क्षेत्र को अब औपचारिक रूप से वन भूमि घोषित कर दिया गया है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:40:10+00:00",
+        "link": "https://newsonair.gov.in/hi/union-home-minister-amit-shah-launched-a-mission-to-plant-70-lakh-saplings-in-delhi-under-the-ek-ped-maa-ke-naam-campaign/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/27.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "राष्ट्रपति द्रौपदी मुर्मु ने 2026 डूरंड कप ट्रॉफियों का अनावरण किया",
+        "summary": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट […]",
+        "article": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट में श्रीलंकाई टीम की भागीदारी पर खुशी व्यक्त की। राष्ट्रपति ने टूर्नामेंट में भाग लेने वाली सभी टीमों और खिलाड़ियों को शुभकामनाएं दीं। उन्होंने उनसे खेल भावना का पालन करने और सर्वश्रेष्ठ प्रदर्शन करके इस ऐतिहासिक प्रतियोगिता की प्रतिष्ठा को और बढ़ाने का आग्रह किया। इस अवसर पर चीफ ऑफ डिफेंस स्टाफ जनरल एनएस राजा सुब्रमणि, सेना प्रमुख धीरज सेठ और नौसेना प्रमुख एडमिरल कृष्णा स्वामीनाथन भी उपस्थित थे।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:39:25+00:00",
+        "link": "https://newsonair.gov.in/hi/president-droupadi-murmu-unveiled-the-2026-durand-cup-trophies-and-flagged-them-off/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/23.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "फैक्ट चैक: चीनी सेना के भारत में 60 किलोमीटर अंदर तक घुसने का दावा झूठा",
         "summary": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे उन वीडियो का खंडन किया है जिनमें झूठा दावा किया जा रहा है कि चीनी सेना भारत में 60 किलोमीटर अंदर तक घुस आई है। पत्र सूचना कार्यालय की तथ्य जाँच इकाई ने कहा कि यह दावा फर्जी है। उसने आगे स्पष्ट किया कि प्रसारित हो रहे […]",
         "article": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे उन वीडियो का खंडन किया है जिनमें झूठा दावा किया जा रहा है कि चीनी सेना भारत में 60 किलोमीटर अंदर तक घुस आई है। पत्र सूचना कार्यालय की तथ्य जाँच इकाई ने कहा कि यह दावा फर्जी है। उसने आगे स्पष्ट किया कि प्रसारित हो रहे वीडियो का इससे कोई संबंध नहीं है और ये भारत-चीन सीमा से संबंधित भी नहीं हैं।",
@@ -1284,101 +1374,13 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "लोकसभा अध्यक्ष ओम बिरला ने प्रधानमंत्री मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान पर दी बधाई",
-        "summary": "लोकसभा अध्यक्ष ओम बिरला ने प्रधानमंत्री नरेंद्र मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान, &#8216;बिंगतांग आदिपूर्णा ऑफ द रिपब्लिक ऑफ इंडोनेशिया&#8217; से सम्मानित किए जाने पर बधाई दी है। यह सम्मान इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो द्वारा प्रदान किया गया है। सोशल मीडिया पर एक पोस्ट में लोकसभा अध्यक्ष ने कहा कि यह प्रतिष्ठित सम्मान […]",
-        "article": "लोकसभा अध्यक्ष ओम बिरला ने प्रधानमंत्री नरेंद्र मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान, &#8216;बिंगतांग आदिपूर्णा ऑफ द रिपब्लिक ऑफ इंडोनेशिया&#8217; से सम्मानित किए जाने पर बधाई दी है। यह सम्मान इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो द्वारा प्रदान किया गया है। सोशल मीडिया पर एक पोस्ट में लोकसभा अध्यक्ष ने कहा कि यह प्रतिष्ठित सम्मान भारत-इंडोनेशिया साझेदारी को और मजबूत करता है और द्विपक्षीय संबंधों को सुदृढ़ करने तथा क्षेत्रीय और वैश्विक सहयोग को आगे बढ़ाने में प्रधानमंत्री के दूरदर्शी नेतृत्व की मान्यता है। यह दोनों देशों के बीच अटूट मित्रता, साझा मूल्यों और आपसी विश्वास की पुष्टि भी करता है। रक्षा मंत्री राजनाथ सिंह ने भी प्रधानमंत्री नरेंद्र मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान &#8216;बिंगतांग आदिपूर्णा ऑफ द रिपब्लिक ऑफ इंडोनेशिया&#8217; से सम्मानित किए जाने पर बधाई दी है। सोशल मीडिया पोस्ट में श्री सिंह ने कहा कि यह असाधारण सम्मान प्रधानमंत्री मोदी के दूरदर्शी नेतृत्व, परिवर्तनकारी राजनीतिज्ञता और आपसी विश्वास, सम्मान और साझा प्रगति पर आधारित वैश्विक साझेदारियों को मजबूत करते हुए भारत के राष्ट्रीय हितों को आगे बढ़ाने की उनकी अटूट प्रतिबद्धता की एक सशक्त मान्यता है। शिक्षा मंत्री धर्मेंद्र प्रधान ने भी प्रधानमंत्री नरेंद्र मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान से सम्मानित किए जाने पर बधाई दी है। सोशल मीडिया पोस्ट में उन्होंने कहा कि यह देश के लिए गर्व का क्षण है।",
+        "title": "इंडोनेशिया में निजी संग्रह के जरिए साझा सांस्कृतिक विरासत को सहेज रहे हैं हरी सुनार्यो",
+        "summary": "इंडोनेशिया के एक खनन सलाहकार हरी सुनार्यो अपने असाधारण निजी संग्रह के माध्यम से सदियों पुरानी साझा विरासत को संरक्षित कर रहे हैं। लगभग एक हजार मूर्तियों और 200 से अधिक पारंपरिक जावानीस कटार केरिस ने भारत और इंडोनेशिया के बीच गहरे सांस्कृतिक संबंधों को दर्शाने वाली कलाकृतियों की रक्षा के लिए दशकों समर्पित किए […]",
+        "article": "इंडोनेशिया के एक खनन सलाहकार हरी सुनार्यो अपने असाधारण निजी संग्रह के माध्यम से सदियों पुरानी साझा विरासत को संरक्षित कर रहे हैं। लगभग एक हजार मूर्तियों और 200 से अधिक पारंपरिक जावानीस कटार केरिस ने भारत और इंडोनेशिया के बीच गहरे सांस्कृतिक संबंधों को दर्शाने वाली कलाकृतियों की रक्षा के लिए दशकों समर्पित किए हैं। भारतीय कला और वास्तुकला के प्रबल प्रशंसक का मानना ​​है कि इनमें से कई वस्तुएं अकादमिक जगत में अधिक ध्यान आकर्षित करने योग्य हैं।",
         "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:27:46+00:00",
-        "link": "https://newsonair.gov.in/hi/lok-sabha-speaker-om-birla-congratulated-prime-minister-modi-on-receiving-indonesias-highest-civilian-honor/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/Om-birla-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पीएम नरेंद्र मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान ‘बिंतांग आदिपूर्णा रिपब्लिक ऑफ इंडोनेशिया’ से सम्मानित किया गया",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी को आज इंडोनेशिया के सर्वोच्च नागरिक सम्मान, बिंतांग आदिपूर्णा रिपब्लिक ऑफ इंडोनेशिया से सम्मानित किया गया। यह सम्मान उन्हें इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियंतो ने एक समारोह में प्रदान किया। इससे पहले, प्रधानमंत्री मोदी का राष्ट्रपति भवन में औपचारिक स्वागत किया गया, जहां कई बच्‍चे दोनों देशों के राष्ट्रीय ध्वज लहराते नजर […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी को आज इंडोनेशिया के सर्वोच्च नागरिक सम्मान, बिंतांग आदिपूर्णा रिपब्लिक ऑफ इंडोनेशिया से सम्मानित किया गया। यह सम्मान उन्हें इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियंतो ने एक समारोह में प्रदान किया। इससे पहले, प्रधानमंत्री मोदी का राष्ट्रपति भवन में औपचारिक स्वागत किया गया, जहां कई बच्&#x200d;चे दोनों देशों के राष्ट्रीय ध्वज लहराते नजर आए। वहां मौजूद सभी बच्&#x200d;चों ने प्रधानमंत्री मोदी और राष्ट्रपति प्रबोवो सुबियंतो का गर्मजोशी से स्वागत किया। दोनों नेताओं ने द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा करने के लिए प्रतिनिधिमंडल स्तर की वार्ता की और व्यापार, रक्षा, समुद्री सुरक्षा, डिजिटल प्रौद्योगिकी, स्वास्थ्य, शिक्षा और सांस्कृतिक आदान-प्रदान में सहयोग बढ़ाने के तरीकों पर चर्चा की। वार्ता के बाद कई समझौतों पर हस्ताक्षर किए गए। प्रधानमंत्री मोदी ने इस यात्रा को भारत-इंडोनेशिया संबंधों में एक नए अध्याय की शुरुआत बताया। उन्होंने कहा कि दोनों देश हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और विकास सुनिश्चित करने के लिए मिलकर काम करने के लिए प्रतिबद्ध हैं।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:16:35+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-was-conferred-with-indonesias-highest-civilian-honour-bintang-adipurna/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/22.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अहमदाबाद बम विस्फोट मामला: गुजरात हाईकोर्ट ने 38 दोषियों की फांसी, 11 अन्य की उम्रकैद बरकरार रखी",
-        "summary": "गुजरात उच्च न्यायालय ने 2008 के अहमदाबाद सिलसिलेवार बम विस्‍फोटों के मामले में आज विशेष न्यायालय के उस आदेश को बरकरार रखा जिसमें 38 दोषियों को मौत की सजा और 11 अन्य को आजीवन कारावास की सजा सुनाई गई थी। न्यायमूर्ति ए वाई कोगजे और न्यायमूर्ति समीर दवे की खंडपीठ ने निचली अदालत के आदेश […]",
-        "article": "गुजरात उच्च न्यायालय ने 2008 के अहमदाबाद सिलसिलेवार बम विस्&#x200d;फोटों के मामले में आज विशेष न्यायालय के उस आदेश को बरकरार रखा जिसमें 38 दोषियों को मौत की सजा और 11 अन्य को आजीवन कारावास की सजा सुनाई गई थी। न्यायमूर्ति ए वाई कोगजे और न्यायमूर्ति समीर दवे की खंडपीठ ने निचली अदालत के आदेश के खिलाफ सभी अपीलें खारिज कर दीं और मामले में आतंकी संगठन इंडियन मुजाहिदीन के सदस्यों को दी गई सजा को बरकरार रखते हुए अपने फैसले को सही ठहराया। 26 जुलाई 2008 को, अहमदाबाद में 70 मिनट के भीतर लगातार हुए 21 बम धमाकों ने तबाही मचा दी थी। इसमें 56 लोग मारे गए और 200 अन्य घायल हो गए थे। शहर के कुछ अस्पतालों को भी निशाना बनाया गया था।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:13:10+00:00",
-        "link": "https://newsonair.gov.in/hi/ahmedabad-bomb-blast-case-gujarat-high-court-upholds-death-sentences-of-38-convicts-and-life-imprisonment-for-11-others/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "मिजोरम का प्राकृतिक इतिहास संग्रहालय भारत का 21वां नामित जैव विविधता भंडारगृह घोषित",
-        "summary": "मिजोरम के प्राकृतिक इतिहास संग्रहालय को जैव विविधता अधिनियम, 2002 के तहत भारत के 21वें नामित भंडारगृह के रूप में अधिसूचित किया गया है। पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय ने राष्ट्रीय जैव विविधता प्राधिकरण की सिफारिश के आधार पर इस संस्थान को नामित भंडारगृह के रूप में अधिसूचित किया है। नामित भंडारगृह प्रमाणित जैविक […]",
-        "article": "मिजोरम के प्राकृतिक इतिहास संग्रहालय को जैव विविधता अधिनियम, 2002 के तहत भारत के 21वें नामित भंडारगृह के रूप में अधिसूचित किया गया है। पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय ने राष्ट्रीय जैव विविधता प्राधिकरण की सिफारिश के आधार पर इस संस्थान को नामित भंडारगृह के रूप में अधिसूचित किया है। नामित भंडारगृह प्रमाणित जैविक नमूनों के संरक्षण द्वारा भारत के जैव विविधता शासन ढांचे का एक महत्वपूर्ण घटक हैं। संग्रहालय में चुनिंदा वनस्पतियों, जिनमें मछलियां, पतंगे, भृंग और तितलियां जैसे जीवों के प्रमाणित नमूने रखे जाएंगे।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:08:57+00:00",
-        "link": "https://newsonair.gov.in/hi/mizorams-natural-history-museum-declared-indias-21st-designated-biodiversity-repository/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेन्‍द्र मोदी को इंडोनेशिया को बिन्तांग आदिपूर्णा सम्मान से सम्मानित किया जाना गर्व का विषय: विदेश मंत्री डॉ. एस. जयशंकर",
-        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कहा है कि प्रधानमंत्री नरेन्‍द्र मोदी को इंडोनेशिया का बिन्तांग आदिपूर्णा सम्मान से सम्मानित किया जाना, सभी भारतीयों के लिए अत्यंत गर्व का विषय है। सोशल मीडिया पर एक पोस्ट में डॉ. जयशंकर ने कहा कि यह सम्मान भारत की व्यापक रणनीतिक साझेदारी को सुदृढ़ करने और भारत-आसियान संबंधों […]",
-        "article": "विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कहा है कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी को इंडोनेशिया का बिन्तांग आदिपूर्णा सम्मान से सम्मानित किया जाना, सभी भारतीयों के लिए अत्यंत गर्व का विषय है। सोशल मीडिया पर एक पोस्ट में डॉ. जयशंकर ने कहा कि यह सम्मान भारत की व्यापक रणनीतिक साझेदारी को सुदृढ़ करने और भारत-आसियान संबंधों को मजबूत बनाने की दिशा में प्रधानमंत्री मोदी के निरंतर प्रयासों का प्रमाण है। 1959 में स्थापित &#8216;इंडोनेशिया का बिन्तांग आदिपूर्णा&#8217; उन व्यक्तियों को प्रदान किया जाता है जिन्होंने इंडोनेशिया गणराज्य की एकता, निरंतरता और समृद्धि के लिए उत्कृष्ट सेवाएं दी हैं।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:03:18+00:00",
-        "link": "https://newsonair.gov.in/hi/it-is-a-matter-of-pride-that-prime-minister-narendra-modi-is-being-conferred-with-indonesias-bintang-adipurna-award-external-affairs-minister-dr-s-jaishankar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/22.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "समृद्धि की सच्ची सुंदरता विनम्रता और निस्वार्थ सेवा में निहित: प्रधानमंत्री नरेन्‍द्र मोदी",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा है कि समृद्धि की सच्ची सुंदरता विनम्रता और निस्वार्थ सेवा में निहित है। संस्कृत के एक श्लोक सुभाषितम को साझा करते हुए श्री मोदी ने कहा कि सफलता तभी सार्थक होती है जब वह जन कल्याण और समाज की भलाई की भावना से प्रेरित हो।",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा है कि समृद्धि की सच्ची सुंदरता विनम्रता और निस्वार्थ सेवा में निहित है। संस्कृत के एक श्लोक सुभाषितम को साझा करते हुए श्री मोदी ने कहा कि सफलता तभी सार्थक होती है जब वह जन कल्याण और समाज की भलाई की भावना से प्रेरित हो।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T07:40:00+00:00",
-        "link": "https://newsonair.gov.in/hi/the-true-beauty-of-prosperity-lies-in-humility-and-selfless-service-prime-minister-narendra-modi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-07-130832.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-इंडोनेशिया के बीच व्यापक रणनीतिक साझेदारी प्रगति के नए चरण में प्रवेश कर रही है: पीएम मोदी",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। बैठक में द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के समझौते […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। बैठक में द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के समझौते किए गए। प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा कि भारत और इंडोनेशिया के बीच 2018 में स्थापित व्यापक रणनीतिक साझेदारी प्रगति के एक नए चरण में प्रवेश कर रही है। जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ संयुक्त संवाददाता सम्&#x200d;मेलन में उन्होंने कहा कि बढ़ते आपसी विश्वास ने रक्षा, सुरक्षा और समुद्री क्षेत्र में सहयोग को मजबूत किया है, और दोनों देश रक्षा आदान-प्रदान, आपदा प्रबंधन सहयोग और औद्योगिक सहयोग का विस्तार करने पर सहमत हुए हैं। श्री मोदी ने कहा कि यह साझेदारी विकास, सुरक्षा, प्रौद्योगिकी, संस्कृति और शिक्षा सहित कई क्षेत्रों में आगे बढ़ रही है। भविष्&#x200d;य के द्विपक्षीय संबंधों पर उन्होंने कहा कि भारत-इंडोनेशिया साझेदारी में एक नया स्वर्णिम अध्याय आज से शुरू होता है। प्रधानमंत्री ने कहा कि आज हस्ताक्षरित समझौते से भारत की उच्च गुणवत्ता वाली और सस्ती दवाएं इंडोनेशिया के लोगों के लिए अधिक आसानी से उपलब्ध हो सकेंगी। उन्होंने कहा कि भारत इंडोनेशिया के डॉक्टरों और स्वास्थ्य सेवा पेशेवरों की क्षमता निर्माण में योगदान देगा। उन्होंने कहा कि भारत में विकसित गेहूं के बीजों की आपूर्ति से इंडोनेशिया की खाद्य सुरक्षा मजबूत होगी, साथ ही दोनों देश सतत कृषि और कृषि प्रौद्योगिकी में सर्वोत्तम प्रथाओं को साझा करेंगे। श्री मोदी ने कहा कि दोनों पक्षों ने महत्वपूर्ण खनिजों और इस्पात की आपूर्ति श्रृंखला को सुदृढ़ करने के लिए एक महत्वपूर्ण समझौता किया है। उन्होंने कहा कि दोनों देशों की कंपनियां स्टेनलेस स्टील और दुर्लभ-पृथ्वी चुंबकों के क्षेत्र में नई साझेदारियां शुरू कर रही हैं। प्रधानमंत्री ने कहा कि भारत का एकीकृत भुगतान इंटरफेस (यूपीआई) जल्द ही इंडोनेशिया की भुगतान प्रणाली के साथ एकीकृत किया जाएगा, जिससे व्यापार और यात्रा दोनों में सुगमता आएगी। श्री मोदी ने कहा कि वे कल योग्यकार्ता में राष्ट्रपति प्रबोवो सुबियांतो के साथ एक हजार साल से अधिक पुराने प्रंबानन मंदिर के संरक्षण परियोजना का शुभारंभ करेंगे, जिसे उन्होंने भारत और इंडोनेशिया की साझा सांस्कृतिक विरासत का प्रतीक बताया। उन्होंने घोषणा की कि दोनों देश गुरुदेव रवींद्रनाथ टैगोर की इंडोनेशिया की ऐतिहासिक यात्रा की शताब्दी को उत्साह के साथ मनाएंगे। प्रधानमंत्री ने इंडोनेशिया के प्रथम शिक्षा मंत्री, की हाजर देवंतारा के योगदान का उल्&#x200d;लेख किया और कहा कि उनकी शैक्षिक विचारधारा गुरुदेव टैगोर के विचारों से गहराई से प्रभावित थी। श्री मोदी ने कहा कि वैश्विक अनिश्चितता के वर्तमान दौर में, भारत का मानना ​​है कि संवाद और कूटनीति की भूमिका पहले से कहीं अधिक महत्वपूर्ण हो गई है। फ़िलिस्तीन का जिक्र करते हुए, उन्होंने दो-राज्य समाधान और दीर्घकालिक शांति के लिए भारत के समर्थन को दोहराया। श्री मोदी ने इंडोनेशिया के सर्वोच्च नागरिक सम्मान &#8216;बिंगतांग आदिपूर्णा ऑफ द रिपब्लिक ऑफ इंडोनेशिया&#8217; से सम्मानित होने पर आभार व्यक्त किया। उन्होंने यह पुरस्कार भारत की जनता को समर्पित किया और इसे भारत और इंडोनेशिया के बीच स्थायी ऐतिहासिक और सभ्यतागत संबंधों का प्रतीक बताया। उन्होंने इस सम्मान के लिए राष्ट्रपति प्रबावो, इंडोनेशिया सरकार और वहां की जनता का आभार व्&#x200d;यक्&#x200d;त किया।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T06:50:56+00:00",
-        "link": "https://newsonair.gov.in/hi/the-comprehensive-strategic-partnership-established-between-india-and-indonesia-in-2018-is-entering-a-new-phase-of-progress-pm-modi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/18.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "श्री अमरनाथ जी यात्रा का छठा जत्था जम्मू के भगवती नगर आधार शिविर से कड़ी सुरक्षा के बीच रवाना",
-        "summary": "श्री अमरनाथ जी यात्रा का छठा जत्था आज सुबह जम्मू के भगवती नगर आधार शिविर से कड़ी सुरक्षा के बीच रवाना हुआ। हमारे संवाददाता ने बताया कि कुल आठ हजार 815 श्रद्धालु पवित्र गुफा मंदिर के लिए रवाना हुए। इनमें से तीन हजार 989 तीर्थयात्री बालतल मार्ग से और चार हजार 826 तीर्थयात्री पहलगाम मार्ग […]",
-        "article": "श्री अमरनाथ जी यात्रा का छठा जत्था आज सुबह जम्मू के भगवती नगर आधार शिविर से कड़ी सुरक्षा के बीच रवाना हुआ। हमारे संवाददाता ने बताया कि कुल आठ हजार 815 श्रद्धालु पवित्र गुफा मंदिर के लिए रवाना हुए। इनमें से तीन हजार 989 तीर्थयात्री बालतल मार्ग से और चार हजार 826 तीर्थयात्री पहलगाम मार्ग से रवाना हुए। यात्रियों की सुगम यात्रा के लिए कुल 363 वाहन तैनात किए गए थे। दोनों मार्गों पर तीर्थयात्रियों की सुरक्षित यात्रा सुनिश्चित करने के लिए पुलिस, सीआरपीएफ और अन्य सुरक्षा एजेंसियों को तैनात किया गया है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T06:45:50+00:00",
-        "link": "https://newsonair.gov.in/hi/the-sixth-batch-of-the-shri-amarnath-ji-yatra-departed-from-the-bhagwati-nagar-base-camp-in-jammu-this-morning-amidst-tight-security/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/amarnath-jatar-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "राष्ट्रपति द्रौपदी मुर्मु ने 2026 डूरंड कप ट्रॉफियों का अनावरण कर हरी झंडी दिखा किया रवाना",
-        "summary": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट […]",
-        "article": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट में श्रीलंकाई टीम की भागीदारी पर खुशी व्यक्त की। राष्ट्रपति ने टूर्नामेंट में भाग लेने वाली सभी टीमों और खिलाड़ियों को शुभकामनाएं दीं। उन्होंने उनसे खेल भावना का पालन करने और सर्वश्रेष्ठ प्रदर्शन करके इस ऐतिहासिक प्रतियोगिता की प्रतिष्ठा को और बढ़ाने का आग्रह किया। इस अवसर पर रक्षा प्रमुख जनरल एनएस राजा सुब्रमणि, सेना प्रमुख धीरज सेठ और नौसेना प्रमुख एडमिरल कृष्णा स्वामीनाथन भी उपस्थित थे।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:39:25+00:00",
-        "link": "https://newsonair.gov.in/hi/president-droupadi-murmu-unveiled-the-2026-durand-cup-trophies-and-flagged-them-off/",
-        "post_id": 1723762,
+        "pubDate": "2026-07-07T08:43:25+00:00",
+        "link": "https://newsonair.gov.in/hi/hari-sunaryo-is-preserving-shared-cultural-heritage-through-a-private-collection-in-indonesia/",
+        "post_id": 1723763,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1386,6 +1388,94 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "भारत-इंडोनेशिया ने व्यापक रणनीतिक साझेदारी को और मजबूत करने की प्रतिबद्धता दोहराई",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी और इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो ने आज जकार्ता में हुई वार्ता के दौरान भारत-इंडोनेशिया व्यापक रणनीतिक साझेदारी को मजबूत करने की अपनी प्रतिबद्धता की पुष्टि की। दोनों नेताओं ने रक्षा, महत्वपूर्ण खनिज, कृषि, इस्पात, समुद्री सहयोग और उभरती प्रौद्योगिकियों से संबंधित कई समझौता ज्ञापनों पर हस्ताक्षर होते देखे। उन्होंने जकार्ता में […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी और इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो ने आज जकार्ता में हुई वार्ता के दौरान भारत-इंडोनेशिया व्यापक रणनीतिक साझेदारी को मजबूत करने की अपनी प्रतिबद्धता की पुष्टि की। दोनों नेताओं ने रक्षा, महत्वपूर्ण खनिज, कृषि, इस्पात, समुद्री सहयोग और उभरती प्रौद्योगिकियों से संबंधित कई समझौता ज्ञापनों पर हस्ताक्षर होते देखे। उन्होंने जकार्ता में आईआईएम बेंगलुरु की एक शाखा स्थापित करने पर सहमति व्यक्त की। दोनों पक्षों ने विनिर्माण, खाद्य सुरक्षा और डिजिटल प्रौद्योगिकी में सहयोग को मजबूत करने पर भी सहमति जताई। संयुक्त प्रेस वार्ता को संबोधित करते हुए राष्ट्रपति प्रबोवो ने भारत को एक विश्वसनीय रणनीतिक साझेदार बताया और प्रमुख क्षेत्रों में संबंधों के विस्तार का स्वागत किया।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T10:35:01+00:00",
+        "link": "https://newsonair.gov.in/hi/india-and-indonesia-reiterated-their-commitment-to-further-strengthening-the-comprehensive-strategic-partnership/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/18.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कृषि मंत्री शिवराज सिंह चौहान ने किया प्रगति परियोजना का शुभारंभ",
+        "summary": "कृषि मंत्री शिवराज सिंह चौहान ने आज प्रगति परियोजना का शुभारंभ किया जिसका उद्देश्य 20 हजार से अधिक कृषि उद्यमियों और 20 लाख किसानों को सशक्त बनाना है। नई दिल्ली में मीडिया से बातचीत में श्री चौहान ने विकसित भारत के लक्ष्य को प्राप्त करने के लिए कृषि विकास, समृद्ध गांवों और समृद्ध किसानों के […]",
+        "article": "कृषि मंत्री शिवराज सिंह चौहान ने आज प्रगति परियोजना का शुभारंभ किया जिसका उद्देश्य 20 हजार से अधिक कृषि उद्यमियों और 20 लाख किसानों को सशक्त बनाना है। नई दिल्ली में मीडिया से बातचीत में श्री चौहान ने विकसित भारत के लक्ष्य को प्राप्त करने के लिए कृषि विकास, समृद्ध गांवों और समृद्ध किसानों के विकास की आवश्यकता पर बल दिया। उन्होंने कहा कि सरकार इस लक्ष्य को प्राप्त करने के लिए हरसंभव प्रयास कर रही है। श्री चौहान ने कहा कि सरकार ने प्रगति कार्यक्रम के अंतर्गत 26 हजार लघु कृषि उद्यमियों को प्रशिक्षित करने का निर्णय लिया है। उन्होंने कहा कि ये उद्यमी एक गांव की कृषि कार्य में बदलाव लाने के लिए 100 से 200 किसानों के साथ सहयोग करते हैं।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T10:24:11+00:00",
+        "link": "https://newsonair.gov.in/hi/agriculture-minister-shivraj-singh-chouhan-launched-the-pragati-project/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/download-5.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय स्वास्थ्य मंत्री जेपी नड्डा ने टीबी मुक्त भारत बनाने का किया आह्वान",
+        "summary": "स्वास्थ्य मंत्री जेपी नड्डा ने आज नई दिल्ली में श्रम और रोजगार मंत्री मनसुख मांडविया तथा रक्षा राज्य मंत्री संजय सेठ के साथ टीबी मुक्त भारत अभियान को लेकर एक उच्चस्तरीय बैठक की अध्यक्षता की। टीबी उन्मूलन के लिए समग्र सरकारी दृष्टिकोण का आह्वान करते हुए श्री नड्डा ने सभी मंत्रालयों से अपने प्रयासों को […]",
+        "article": "स्वास्थ्य मंत्री जेपी नड्डा ने आज नई दिल्ली में श्रम और रोजगार मंत्री मनसुख मांडविया तथा रक्षा राज्य मंत्री संजय सेठ के साथ टीबी मुक्त भारत अभियान को लेकर एक उच्चस्तरीय बैठक की अध्यक्षता की। टीबी उन्मूलन के लिए समग्र सरकारी दृष्टिकोण का आह्वान करते हुए श्री नड्डा ने सभी मंत्रालयों से अपने प्रयासों को तेज करने का आग्रह किया और टीबी मुक्त भारत के लक्ष्य को प्राप्त करने में युवाओं की महत्वपूर्ण भूमिका पर जोर दिया। उन्होंने राष्ट्रीय अभियान को गति देने के लिए माय भारत, राष्ट्रीय सेवा योजना और राष्ट्रीय कैडेट कोर से स्वयंसेवकों को सक्रिय रूप से जुटाने का भी आह्वान किया।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T09:54:35+00:00",
+        "link": "https://newsonair.gov.in/hi/union-health-minister-jp-nadda-calls-for-a-tb-free-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/JP-NADDA-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय मंत्री जुएल ओराम ने जनजातीय विरासत संरक्षण के लिए स्वदेशी ज्ञान और आधुनिक तकनीक के समन्वय पर दिया जोर",
+        "summary": "केंद्रीय जनजातीय मामलों के मंत्रालय ने जनजातीय विकास के लिए ज्ञान, नवाचार और साक्ष्य-आधारित नीति निर्माण के केंद्र के रूप में जनजातीय अनुसंधान संस्थानों को मजबूत करने के लिए एक नया दृष्टिकोण प्रस्तुत किया है। भुवनेश्वर में आज दो दिवसीय राष्ट्रीय कार्यशाला का उद्घाटन करते हुए, केंद्रीय जनजातीय मामलों के मंत्री जुएल ओराम ने जनजातीय […]",
+        "article": "केंद्रीय जनजातीय मामलों के मंत्रालय ने जनजातीय विकास के लिए ज्ञान, नवाचार और साक्ष्य-आधारित नीति निर्माण के केंद्र के रूप में जनजातीय अनुसंधान संस्थानों को मजबूत करने के लिए एक नया दृष्टिकोण प्रस्तुत किया है। भुवनेश्वर में आज दो दिवसीय राष्ट्रीय कार्यशाला का उद्घाटन करते हुए, केंद्रीय जनजातीय मामलों के मंत्री जुएल ओराम ने जनजातीय विरासत को संरक्षित करने और समावेशी विकास को बढ़ावा देने के लिए स्वदेशी ज्ञान को अत्याधुनिक प्रौद्योगिकी के साथ एकीकृत करने का आह्वान किया।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:55:28+00:00",
+        "link": "https://newsonair.gov.in/hi/union-minister-jual-oram-emphasized-the-integration-of-indigenous-knowledge-and-modern-technology-for-the-preservation-of-tribal-heritage/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/4yLXnUYs_400x400.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "जोजिला सुरंग और केदारनाथ रोपवे समेत प्रमुख परियोजनाएं देश की कनेक्टिविटी और विकास को गति दे रही हैं: केंद्रीय मंत्री नितिन गडकरी",
+        "summary": "सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने कहा है कि 14 किलोमीटर लंबी जोजिला सुरंग, जम्मू-श्रीनगर कॉरिडोर पर 36 सुरंगें, केदारनाथ रोपवे और कश्मीर से कन्याकुमारी तक बेहतर सड़क संपर्क जैसी प्रमुख परियोजनाएं कनेक्टिविटी को मजबूत कर रही हैं और देश के विकास को गति दे रही हैं। नई दिल्ली में आयोजित विकसित भारत […]",
+        "article": "सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी ने कहा है कि 14 किलोमीटर लंबी जोजिला सुरंग, जम्मू-श्रीनगर कॉरिडोर पर 36 सुरंगें, केदारनाथ रोपवे और कश्मीर से कन्याकुमारी तक बेहतर सड़क संपर्क जैसी प्रमुख परियोजनाएं कनेक्टिविटी को मजबूत कर रही हैं और देश के विकास को गति दे रही हैं। नई दिल्ली में आयोजित विकसित भारत सम्मेलन को संबोधित करते हुए उन्होंने बुनियादी ढांचे पर आधारित विकास के लिए सरकार के प्रयासों पर जोर दिया और कहा कि शासन राष्ट्र निर्माण पर आधारित होना चाहिए। उन्होंने कहा कि राजनीति सामाजिक-आर्थिक परिवर्तन का साधन होनी चाहिए।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:53:47+00:00",
+        "link": "https://newsonair.gov.in/hi/major-projects-including-the-zojila-tunnel-and-the-kedarnath-ropeway-are-accelerating-the-countrys-connectivity-and-development-union-minister-nitin-gadkari/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nitin-gadkari.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने प्रख्यात समाज सुधारक रेट्टामलाई श्रीनिवासन की जयंती पर श्रद्धांजलि अर्पित की",
+        "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने नई दिल्ली के उपराष्ट्रपति भवन में प्रख्यात समाज सुधारक रेट्टामलाई श्रीनिवासन की जयंती पर उन्हें पुष्पांजलि अर्पित की। श्रीनिवासन को श्रद्धांजलि अर्पित करते हुए उपराष्ट्रपति ने कहा कि वे एक महान विद्वान और प्रख्यात समाज सुधारक थे।",
+        "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने नई दिल्ली के उपराष्ट्रपति भवन में प्रख्यात समाज सुधारक रेट्टामलाई श्रीनिवासन की जयंती पर उन्हें पुष्पांजलि अर्पित की। श्रीनिवासन को श्रद्धांजलि अर्पित करते हुए उपराष्ट्रपति ने कहा कि वे एक महान विद्वान और प्रख्यात समाज सुधारक थे।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:42:39+00:00",
+        "link": "https://newsonair.gov.in/hi/vice-president-c-p-radhakrishnan-paid-tribute-to-the-eminent-social-reformer-rettamalai-srinivasan-on-his-birth-anniversary/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/25.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय गृह मंत्री अमित शाह ने ‘एक पेड़ मां के नाम’ अभियान के तहत दिल्ली में 70 लाख पौधे लगाने के मिशन का शुभारंभ किया",
+        "summary": "केंद्रीय गृह मंत्री अमित शाह ने आज राष्ट्रीय राजधानी में हरियाली बढ़ाने के उद्देश्य से &#8216;एक पेड़ मां के नाम&#8217; अभियान के तहत दिल्ली में 70 लाख पौधे लगाने के मिशन का शुभारंभ किया। इस अवसर पर श्री शाह ने कहा कि यह अभियान दिल्ली के पर्यावरण को बदलने की दिशा में एक महत्वपूर्ण पहल […]",
+        "article": "केंद्रीय गृह मंत्री अमित शाह ने आज राष्ट्रीय राजधानी में हरियाली बढ़ाने के उद्देश्य से &#8216;एक पेड़ मां के नाम&#8217; अभियान के तहत दिल्ली में 70 लाख पौधे लगाने के मिशन का शुभारंभ किया। इस अवसर पर श्री शाह ने कहा कि यह अभियान दिल्ली के पर्यावरण को बदलने की दिशा में एक महत्वपूर्ण पहल है। उन्होंने कहा कि प्रधानमंत्री नरेंद्र मोदी ने पर्यावरण संरक्षण को बढ़ावा देने के लिए &#8216;एक पेड़ मां के नाम&#8217; अभियान शुरू किया था। गृह मंत्री ने कहा कि सरकार यमुना नदी को साफ करने के लिए निरंतर प्रयासरत है। उन्होंने कहा कि पिछले एक वर्ष में 129 सीवेज ट्रीटमेंट प्लांट चालू हो गए हैं, जिससे नदी में उपचारित जल का प्रवाह सुनिश्चित हो रहा है। उन्होंने यह भी बताया कि दिल्ली सरकार ने एक नई इलेक्ट्रिक वाहन नीति लागू की है और हरित दिल्ली के सपने को साकार करने के लिए प्रतिबद्ध है। श्री शाह ने सभी नागरिकों से अपनी मां के नाम पर एक पौधा लगाने की अपील की। पर्यावरण संरक्षण के महत्व पर प्रकाश डालते हुए श्री शाह ने दिल्ली रिज के पुनरुद्धार को कार्यक्रम का मुख्य केंद्र बताया। श्री शाह ने कहा कि रिज के लगभग पांच हजार हेक्टेयर क्षेत्र को अब औपचारिक रूप से वन भूमि घोषित कर दिया गया है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:40:10+00:00",
+        "link": "https://newsonair.gov.in/hi/union-home-minister-amit-shah-launched-a-mission-to-plant-70-lakh-saplings-in-delhi-under-the-ek-ped-maa-ke-naam-campaign/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/27.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "राष्ट्रपति द्रौपदी मुर्मु ने 2026 डूरंड कप ट्रॉफियों का अनावरण किया",
+        "summary": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट […]",
+        "article": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट में श्रीलंकाई टीम की भागीदारी पर खुशी व्यक्त की। राष्ट्रपति ने टूर्नामेंट में भाग लेने वाली सभी टीमों और खिलाड़ियों को शुभकामनाएं दीं। उन्होंने उनसे खेल भावना का पालन करने और सर्वश्रेष्ठ प्रदर्शन करके इस ऐतिहासिक प्रतियोगिता की प्रतिष्ठा को और बढ़ाने का आग्रह किया। इस अवसर पर चीफ ऑफ डिफेंस स्टाफ जनरल एनएस राजा सुब्रमणि, सेना प्रमुख धीरज सेठ और नौसेना प्रमुख एडमिरल कृष्णा स्वामीनाथन भी उपस्थित थे।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:39:25+00:00",
+        "link": "https://newsonair.gov.in/hi/president-droupadi-murmu-unveiled-the-2026-durand-cup-trophies-and-flagged-them-off/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/23.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "फैक्ट चैक: चीनी सेना के भारत में 60 किलोमीटर अंदर तक घुसने का दावा झूठा",
         "summary": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे उन वीडियो का खंडन किया है जिनमें झूठा दावा किया जा रहा है कि चीनी सेना भारत में 60 किलोमीटर अंदर तक घुस आई है। पत्र सूचना कार्यालय की तथ्य जाँच इकाई ने कहा कि यह दावा फर्जी है। उसने आगे स्पष्ट किया कि प्रसारित हो रहे […]",
         "article": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे उन वीडियो का खंडन किया है जिनमें झूठा दावा किया जा रहा है कि चीनी सेना भारत में 60 किलोमीटर अंदर तक घुस आई है। पत्र सूचना कार्यालय की तथ्य जाँच इकाई ने कहा कि यह दावा फर्जी है। उसने आगे स्पष्ट किया कि प्रसारित हो रहे वीडियो का इससे कोई संबंध नहीं है और ये भारत-चीन सीमा से संबंधित भी नहीं हैं।",
@@ -1397,107 +1487,52 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "लोकसभा अध्यक्ष ओम बिरला ने प्रधानमंत्री मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान पर दी बधाई",
-        "summary": "लोकसभा अध्यक्ष ओम बिरला ने प्रधानमंत्री नरेंद्र मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान, &#8216;बिंगतांग आदिपूर्णा ऑफ द रिपब्लिक ऑफ इंडोनेशिया&#8217; से सम्मानित किए जाने पर बधाई दी है। यह सम्मान इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो द्वारा प्रदान किया गया है। सोशल मीडिया पर एक पोस्ट में लोकसभा अध्यक्ष ने कहा कि यह प्रतिष्ठित सम्मान […]",
-        "article": "लोकसभा अध्यक्ष ओम बिरला ने प्रधानमंत्री नरेंद्र मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान, &#8216;बिंगतांग आदिपूर्णा ऑफ द रिपब्लिक ऑफ इंडोनेशिया&#8217; से सम्मानित किए जाने पर बधाई दी है। यह सम्मान इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो द्वारा प्रदान किया गया है। सोशल मीडिया पर एक पोस्ट में लोकसभा अध्यक्ष ने कहा कि यह प्रतिष्ठित सम्मान भारत-इंडोनेशिया साझेदारी को और मजबूत करता है और द्विपक्षीय संबंधों को सुदृढ़ करने तथा क्षेत्रीय और वैश्विक सहयोग को आगे बढ़ाने में प्रधानमंत्री के दूरदर्शी नेतृत्व की मान्यता है। यह दोनों देशों के बीच अटूट मित्रता, साझा मूल्यों और आपसी विश्वास की पुष्टि भी करता है। रक्षा मंत्री राजनाथ सिंह ने भी प्रधानमंत्री नरेंद्र मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान &#8216;बिंगतांग आदिपूर्णा ऑफ द रिपब्लिक ऑफ इंडोनेशिया&#8217; से सम्मानित किए जाने पर बधाई दी है। सोशल मीडिया पोस्ट में श्री सिंह ने कहा कि यह असाधारण सम्मान प्रधानमंत्री मोदी के दूरदर्शी नेतृत्व, परिवर्तनकारी राजनीतिज्ञता और आपसी विश्वास, सम्मान और साझा प्रगति पर आधारित वैश्विक साझेदारियों को मजबूत करते हुए भारत के राष्ट्रीय हितों को आगे बढ़ाने की उनकी अटूट प्रतिबद्धता की एक सशक्त मान्यता है। शिक्षा मंत्री धर्मेंद्र प्रधान ने भी प्रधानमंत्री नरेंद्र मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान से सम्मानित किए जाने पर बधाई दी है। सोशल मीडिया पोस्ट में उन्होंने कहा कि यह देश के लिए गर्व का क्षण है।",
+        "title": "इंडोनेशिया में निजी संग्रह के जरिए साझा सांस्कृतिक विरासत को सहेज रहे हैं हरी सुनार्यो",
+        "summary": "इंडोनेशिया के एक खनन सलाहकार हरी सुनार्यो अपने असाधारण निजी संग्रह के माध्यम से सदियों पुरानी साझा विरासत को संरक्षित कर रहे हैं। लगभग एक हजार मूर्तियों और 200 से अधिक पारंपरिक जावानीस कटार केरिस ने भारत और इंडोनेशिया के बीच गहरे सांस्कृतिक संबंधों को दर्शाने वाली कलाकृतियों की रक्षा के लिए दशकों समर्पित किए […]",
+        "article": "इंडोनेशिया के एक खनन सलाहकार हरी सुनार्यो अपने असाधारण निजी संग्रह के माध्यम से सदियों पुरानी साझा विरासत को संरक्षित कर रहे हैं। लगभग एक हजार मूर्तियों और 200 से अधिक पारंपरिक जावानीस कटार केरिस ने भारत और इंडोनेशिया के बीच गहरे सांस्कृतिक संबंधों को दर्शाने वाली कलाकृतियों की रक्षा के लिए दशकों समर्पित किए हैं। भारतीय कला और वास्तुकला के प्रबल प्रशंसक का मानना ​​है कि इनमें से कई वस्तुएं अकादमिक जगत में अधिक ध्यान आकर्षित करने योग्य हैं।",
         "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:27:46+00:00",
-        "link": "https://newsonair.gov.in/hi/lok-sabha-speaker-om-birla-congratulated-prime-minister-modi-on-receiving-indonesias-highest-civilian-honor/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/Om-birla-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पीएम नरेंद्र मोदी को इंडोनेशिया के सर्वोच्च नागरिक सम्मान ‘बिंतांग आदिपूर्णा रिपब्लिक ऑफ इंडोनेशिया’ से सम्मानित किया गया",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी को आज इंडोनेशिया के सर्वोच्च नागरिक सम्मान, बिंतांग आदिपूर्णा रिपब्लिक ऑफ इंडोनेशिया से सम्मानित किया गया। यह सम्मान उन्हें इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियंतो ने एक समारोह में प्रदान किया। इससे पहले, प्रधानमंत्री मोदी का राष्ट्रपति भवन में औपचारिक स्वागत किया गया, जहां कई बच्‍चे दोनों देशों के राष्ट्रीय ध्वज लहराते नजर […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी को आज इंडोनेशिया के सर्वोच्च नागरिक सम्मान, बिंतांग आदिपूर्णा रिपब्लिक ऑफ इंडोनेशिया से सम्मानित किया गया। यह सम्मान उन्हें इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियंतो ने एक समारोह में प्रदान किया। इससे पहले, प्रधानमंत्री मोदी का राष्ट्रपति भवन में औपचारिक स्वागत किया गया, जहां कई बच्&#x200d;चे दोनों देशों के राष्ट्रीय ध्वज लहराते नजर आए। वहां मौजूद सभी बच्&#x200d;चों ने प्रधानमंत्री मोदी और राष्ट्रपति प्रबोवो सुबियंतो का गर्मजोशी से स्वागत किया। दोनों नेताओं ने द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा करने के लिए प्रतिनिधिमंडल स्तर की वार्ता की और व्यापार, रक्षा, समुद्री सुरक्षा, डिजिटल प्रौद्योगिकी, स्वास्थ्य, शिक्षा और सांस्कृतिक आदान-प्रदान में सहयोग बढ़ाने के तरीकों पर चर्चा की। वार्ता के बाद कई समझौतों पर हस्ताक्षर किए गए। प्रधानमंत्री मोदी ने इस यात्रा को भारत-इंडोनेशिया संबंधों में एक नए अध्याय की शुरुआत बताया। उन्होंने कहा कि दोनों देश हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और विकास सुनिश्चित करने के लिए मिलकर काम करने के लिए प्रतिबद्ध हैं।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:16:35+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-was-conferred-with-indonesias-highest-civilian-honour-bintang-adipurna/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/22.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अहमदाबाद बम विस्फोट मामला: गुजरात हाईकोर्ट ने 38 दोषियों की फांसी, 11 अन्य की उम्रकैद बरकरार रखी",
-        "summary": "गुजरात उच्च न्यायालय ने 2008 के अहमदाबाद सिलसिलेवार बम विस्‍फोटों के मामले में आज विशेष न्यायालय के उस आदेश को बरकरार रखा जिसमें 38 दोषियों को मौत की सजा और 11 अन्य को आजीवन कारावास की सजा सुनाई गई थी। न्यायमूर्ति ए वाई कोगजे और न्यायमूर्ति समीर दवे की खंडपीठ ने निचली अदालत के आदेश […]",
-        "article": "गुजरात उच्च न्यायालय ने 2008 के अहमदाबाद सिलसिलेवार बम विस्&#x200d;फोटों के मामले में आज विशेष न्यायालय के उस आदेश को बरकरार रखा जिसमें 38 दोषियों को मौत की सजा और 11 अन्य को आजीवन कारावास की सजा सुनाई गई थी। न्यायमूर्ति ए वाई कोगजे और न्यायमूर्ति समीर दवे की खंडपीठ ने निचली अदालत के आदेश के खिलाफ सभी अपीलें खारिज कर दीं और मामले में आतंकी संगठन इंडियन मुजाहिदीन के सदस्यों को दी गई सजा को बरकरार रखते हुए अपने फैसले को सही ठहराया। 26 जुलाई 2008 को, अहमदाबाद में 70 मिनट के भीतर लगातार हुए 21 बम धमाकों ने तबाही मचा दी थी। इसमें 56 लोग मारे गए और 200 अन्य घायल हो गए थे। शहर के कुछ अस्पतालों को भी निशाना बनाया गया था।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:13:10+00:00",
-        "link": "https://newsonair.gov.in/hi/ahmedabad-bomb-blast-case-gujarat-high-court-upholds-death-sentences-of-38-convicts-and-life-imprisonment-for-11-others/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "मिजोरम का प्राकृतिक इतिहास संग्रहालय भारत का 21वां नामित जैव विविधता भंडारगृह घोषित",
-        "summary": "मिजोरम के प्राकृतिक इतिहास संग्रहालय को जैव विविधता अधिनियम, 2002 के तहत भारत के 21वें नामित भंडारगृह के रूप में अधिसूचित किया गया है। पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय ने राष्ट्रीय जैव विविधता प्राधिकरण की सिफारिश के आधार पर इस संस्थान को नामित भंडारगृह के रूप में अधिसूचित किया है। नामित भंडारगृह प्रमाणित जैविक […]",
-        "article": "मिजोरम के प्राकृतिक इतिहास संग्रहालय को जैव विविधता अधिनियम, 2002 के तहत भारत के 21वें नामित भंडारगृह के रूप में अधिसूचित किया गया है। पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय ने राष्ट्रीय जैव विविधता प्राधिकरण की सिफारिश के आधार पर इस संस्थान को नामित भंडारगृह के रूप में अधिसूचित किया है। नामित भंडारगृह प्रमाणित जैविक नमूनों के संरक्षण द्वारा भारत के जैव विविधता शासन ढांचे का एक महत्वपूर्ण घटक हैं। संग्रहालय में चुनिंदा वनस्पतियों, जिनमें मछलियां, पतंगे, भृंग और तितलियां जैसे जीवों के प्रमाणित नमूने रखे जाएंगे।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:08:57+00:00",
-        "link": "https://newsonair.gov.in/hi/mizorams-natural-history-museum-declared-indias-21st-designated-biodiversity-repository/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेन्‍द्र मोदी को इंडोनेशिया को बिन्तांग आदिपूर्णा सम्मान से सम्मानित किया जाना गर्व का विषय: विदेश मंत्री डॉ. एस. जयशंकर",
-        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कहा है कि प्रधानमंत्री नरेन्‍द्र मोदी को इंडोनेशिया का बिन्तांग आदिपूर्णा सम्मान से सम्मानित किया जाना, सभी भारतीयों के लिए अत्यंत गर्व का विषय है। सोशल मीडिया पर एक पोस्ट में डॉ. जयशंकर ने कहा कि यह सम्मान भारत की व्यापक रणनीतिक साझेदारी को सुदृढ़ करने और भारत-आसियान संबंधों […]",
-        "article": "विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कहा है कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी को इंडोनेशिया का बिन्तांग आदिपूर्णा सम्मान से सम्मानित किया जाना, सभी भारतीयों के लिए अत्यंत गर्व का विषय है। सोशल मीडिया पर एक पोस्ट में डॉ. जयशंकर ने कहा कि यह सम्मान भारत की व्यापक रणनीतिक साझेदारी को सुदृढ़ करने और भारत-आसियान संबंधों को मजबूत बनाने की दिशा में प्रधानमंत्री मोदी के निरंतर प्रयासों का प्रमाण है। 1959 में स्थापित &#8216;इंडोनेशिया का बिन्तांग आदिपूर्णा&#8217; उन व्यक्तियों को प्रदान किया जाता है जिन्होंने इंडोनेशिया गणराज्य की एकता, निरंतरता और समृद्धि के लिए उत्कृष्ट सेवाएं दी हैं।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:03:18+00:00",
-        "link": "https://newsonair.gov.in/hi/it-is-a-matter-of-pride-that-prime-minister-narendra-modi-is-being-conferred-with-indonesias-bintang-adipurna-award-external-affairs-minister-dr-s-jaishankar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/22.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "समृद्धि की सच्ची सुंदरता विनम्रता और निस्वार्थ सेवा में निहित: प्रधानमंत्री नरेन्‍द्र मोदी",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा है कि समृद्धि की सच्ची सुंदरता विनम्रता और निस्वार्थ सेवा में निहित है। संस्कृत के एक श्लोक सुभाषितम को साझा करते हुए श्री मोदी ने कहा कि सफलता तभी सार्थक होती है जब वह जन कल्याण और समाज की भलाई की भावना से प्रेरित हो।",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा है कि समृद्धि की सच्ची सुंदरता विनम्रता और निस्वार्थ सेवा में निहित है। संस्कृत के एक श्लोक सुभाषितम को साझा करते हुए श्री मोदी ने कहा कि सफलता तभी सार्थक होती है जब वह जन कल्याण और समाज की भलाई की भावना से प्रेरित हो।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T07:40:00+00:00",
-        "link": "https://newsonair.gov.in/hi/the-true-beauty-of-prosperity-lies-in-humility-and-selfless-service-prime-minister-narendra-modi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-07-130832.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-इंडोनेशिया के बीच व्यापक रणनीतिक साझेदारी प्रगति के नए चरण में प्रवेश कर रही है: पीएम मोदी",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। बैठक में द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के समझौते […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ प्रतिनिधिमंडल स्तर की वार्ता की। बैठक में द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की गई और दोनों देशों के बीच व्यापक रणनीतिक साझेदारी को नई गति प्रदान की गई। दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने के समझौते किए गए। प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा कि भारत और इंडोनेशिया के बीच 2018 में स्थापित व्यापक रणनीतिक साझेदारी प्रगति के एक नए चरण में प्रवेश कर रही है। जकार्ता में इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के साथ संयुक्त संवाददाता सम्&#x200d;मेलन में उन्होंने कहा कि बढ़ते आपसी विश्वास ने रक्षा, सुरक्षा और समुद्री क्षेत्र में सहयोग को मजबूत किया है, और दोनों देश रक्षा आदान-प्रदान, आपदा प्रबंधन सहयोग और औद्योगिक सहयोग का विस्तार करने पर सहमत हुए हैं। श्री मोदी ने कहा कि यह साझेदारी विकास, सुरक्षा, प्रौद्योगिकी, संस्कृति और शिक्षा सहित कई क्षेत्रों में आगे बढ़ रही है। भविष्&#x200d;य के द्विपक्षीय संबंधों पर उन्होंने कहा कि भारत-इंडोनेशिया साझेदारी में एक नया स्वर्णिम अध्याय आज से शुरू होता है। प्रधानमंत्री ने कहा कि आज हस्ताक्षरित समझौते से भारत की उच्च गुणवत्ता वाली और सस्ती दवाएं इंडोनेशिया के लोगों के लिए अधिक आसानी से उपलब्ध हो सकेंगी। उन्होंने कहा कि भारत इंडोनेशिया के डॉक्टरों और स्वास्थ्य सेवा पेशेवरों की क्षमता निर्माण में योगदान देगा। उन्होंने कहा कि भारत में विकसित गेहूं के बीजों की आपूर्ति से इंडोनेशिया की खाद्य सुरक्षा मजबूत होगी, साथ ही दोनों देश सतत कृषि और कृषि प्रौद्योगिकी में सर्वोत्तम प्रथाओं को साझा करेंगे। श्री मोदी ने कहा कि दोनों पक्षों ने महत्वपूर्ण खनिजों और इस्पात की आपूर्ति श्रृंखला को सुदृढ़ करने के लिए एक महत्वपूर्ण समझौता किया है। उन्होंने कहा कि दोनों देशों की कंपनियां स्टेनलेस स्टील और दुर्लभ-पृथ्वी चुंबकों के क्षेत्र में नई साझेदारियां शुरू कर रही हैं। प्रधानमंत्री ने कहा कि भारत का एकीकृत भुगतान इंटरफेस (यूपीआई) जल्द ही इंडोनेशिया की भुगतान प्रणाली के साथ एकीकृत किया जाएगा, जिससे व्यापार और यात्रा दोनों में सुगमता आएगी। श्री मोदी ने कहा कि वे कल योग्यकार्ता में राष्ट्रपति प्रबोवो सुबियांतो के साथ एक हजार साल से अधिक पुराने प्रंबानन मंदिर के संरक्षण परियोजना का शुभारंभ करेंगे, जिसे उन्होंने भारत और इंडोनेशिया की साझा सांस्कृतिक विरासत का प्रतीक बताया। उन्होंने घोषणा की कि दोनों देश गुरुदेव रवींद्रनाथ टैगोर की इंडोनेशिया की ऐतिहासिक यात्रा की शताब्दी को उत्साह के साथ मनाएंगे। प्रधानमंत्री ने इंडोनेशिया के प्रथम शिक्षा मंत्री, की हाजर देवंतारा के योगदान का उल्&#x200d;लेख किया और कहा कि उनकी शैक्षिक विचारधारा गुरुदेव टैगोर के विचारों से गहराई से प्रभावित थी। श्री मोदी ने कहा कि वैश्विक अनिश्चितता के वर्तमान दौर में, भारत का मानना ​​है कि संवाद और कूटनीति की भूमिका पहले से कहीं अधिक महत्वपूर्ण हो गई है। फ़िलिस्तीन का जिक्र करते हुए, उन्होंने दो-राज्य समाधान और दीर्घकालिक शांति के लिए भारत के समर्थन को दोहराया। श्री मोदी ने इंडोनेशिया के सर्वोच्च नागरिक सम्मान &#8216;बिंगतांग आदिपूर्णा ऑफ द रिपब्लिक ऑफ इंडोनेशिया&#8217; से सम्मानित होने पर आभार व्यक्त किया। उन्होंने यह पुरस्कार भारत की जनता को समर्पित किया और इसे भारत और इंडोनेशिया के बीच स्थायी ऐतिहासिक और सभ्यतागत संबंधों का प्रतीक बताया। उन्होंने इस सम्मान के लिए राष्ट्रपति प्रबावो, इंडोनेशिया सरकार और वहां की जनता का आभार व्&#x200d;यक्&#x200d;त किया।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T06:50:56+00:00",
-        "link": "https://newsonair.gov.in/hi/the-comprehensive-strategic-partnership-established-between-india-and-indonesia-in-2018-is-entering-a-new-phase-of-progress-pm-modi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/18.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "श्री अमरनाथ जी यात्रा का छठा जत्था जम्मू के भगवती नगर आधार शिविर से कड़ी सुरक्षा के बीच रवाना",
-        "summary": "श्री अमरनाथ जी यात्रा का छठा जत्था आज सुबह जम्मू के भगवती नगर आधार शिविर से कड़ी सुरक्षा के बीच रवाना हुआ। हमारे संवाददाता ने बताया कि कुल आठ हजार 815 श्रद्धालु पवित्र गुफा मंदिर के लिए रवाना हुए। इनमें से तीन हजार 989 तीर्थयात्री बालतल मार्ग से और चार हजार 826 तीर्थयात्री पहलगाम मार्ग […]",
-        "article": "श्री अमरनाथ जी यात्रा का छठा जत्था आज सुबह जम्मू के भगवती नगर आधार शिविर से कड़ी सुरक्षा के बीच रवाना हुआ। हमारे संवाददाता ने बताया कि कुल आठ हजार 815 श्रद्धालु पवित्र गुफा मंदिर के लिए रवाना हुए। इनमें से तीन हजार 989 तीर्थयात्री बालतल मार्ग से और चार हजार 826 तीर्थयात्री पहलगाम मार्ग से रवाना हुए। यात्रियों की सुगम यात्रा के लिए कुल 363 वाहन तैनात किए गए थे। दोनों मार्गों पर तीर्थयात्रियों की सुरक्षित यात्रा सुनिश्चित करने के लिए पुलिस, सीआरपीएफ और अन्य सुरक्षा एजेंसियों को तैनात किया गया है।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T06:45:50+00:00",
-        "link": "https://newsonair.gov.in/hi/the-sixth-batch-of-the-shri-amarnath-ji-yatra-departed-from-the-bhagwati-nagar-base-camp-in-jammu-this-morning-amidst-tight-security/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/amarnath-jatar-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "राष्ट्रपति द्रौपदी मुर्मु ने 2026 डूरंड कप ट्रॉफियों का अनावरण कर हरी झंडी दिखा किया रवाना",
-        "summary": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट […]",
-        "article": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट में श्रीलंकाई टीम की भागीदारी पर खुशी व्यक्त की। राष्ट्रपति ने टूर्नामेंट में भाग लेने वाली सभी टीमों और खिलाड़ियों को शुभकामनाएं दीं। उन्होंने उनसे खेल भावना का पालन करने और सर्वश्रेष्ठ प्रदर्शन करके इस ऐतिहासिक प्रतियोगिता की प्रतिष्ठा को और बढ़ाने का आग्रह किया। इस अवसर पर रक्षा प्रमुख जनरल एनएस राजा सुब्रमणि, सेना प्रमुख धीरज सेठ और नौसेना प्रमुख एडमिरल कृष्णा स्वामीनाथन भी उपस्थित थे।",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:39:25+00:00",
-        "link": "https://newsonair.gov.in/hi/president-droupadi-murmu-unveiled-the-2026-durand-cup-trophies-and-flagged-them-off/",
-        "post_id": 1723762,
+        "pubDate": "2026-07-07T08:43:25+00:00",
+        "link": "https://newsonair.gov.in/hi/hari-sunaryo-is-preserving-shared-cultural-heritage-through-a-private-collection-in-indonesia/",
+        "post_id": 1723763,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "विदेश मंत्री डॉ. जयशंकर ने ईरान के उप प्रधानमंत्री खालिद बिन अब्दुल्ला अल खलीफा से की मुलाकात",
+        "summary": "विदेश मंत्री डॉ. एस. जयशंकर ने आज बहरीन के उप प्रधानमंत्री खालिद बिन अब्दुल्ला अल खलीफा से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि मुलाकात के दौरान दोनों पक्षों ने विभिन्न क्षेत्रों में द्विपक्षीय सहयोग को आगे बढ़ाने पर चर्चा की। उन्होंने क्षेत्रीय स्थिति पर भी अपने विचार साझा किए।",
+        "article": "विदेश मंत्री डॉ. एस. जयशंकर ने आज बहरीन के उप प्रधानमंत्री खालिद बिन अब्दुल्ला अल खलीफा से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि मुलाकात के दौरान दोनों पक्षों ने विभिन्न क्षेत्रों में द्विपक्षीय सहयोग को आगे बढ़ाने पर चर्चा की। उन्होंने क्षेत्रीय स्थिति पर भी अपने विचार साझा किए।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T10:31:35+00:00",
+        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-jaishankar-met-with-irans-deputy-prime-minister-khalid-bin-abdullah-al-khalifa/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMnYp5VWsAAOeSH.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीकी राष्ट्रपति डॉनल्ड ट्रंप की टिप्पणियों के बाद, ईरान ने बातचीत करने से किया इनकार",
+        "summary": "अमरीका के राष्ट्रपति डॉनल्ड ट्रंप की टिप्पणियों के बाद, ईरानी विदेश मंत्री सैयद अब्बास अराघची ने वाशिंगटन के साथ अंतिम समझौते पर बातचीत करने से साफ इनकार कर दिया है। सोशल मीडिया पोस्ट में, श्री अराघची ने ईरान और अमरीका के बीच हुए समझौता ज्ञापन का हवाला देते हुए कहा कि जब तक वाशिंगटन अपनी […]",
+        "article": "अमरीका के राष्ट्रपति डॉनल्ड ट्रंप की टिप्पणियों के बाद, ईरानी विदेश मंत्री सैयद अब्बास अराघची ने वाशिंगटन के साथ अंतिम समझौते पर बातचीत करने से साफ इनकार कर दिया है। सोशल मीडिया पोस्ट में, श्री अराघची ने ईरान और अमरीका के बीच हुए समझौता ज्ञापन का हवाला देते हुए कहा कि जब तक वाशिंगटन अपनी प्रतिबद्धताओं का सम्मान नहीं करता, तब तक तेहरान बातचीत शुरू नहीं करेगा। इससे पहले, राष्ट्रपति ट्रंप ने कहा था कि अमरीका या तो ईरान के साथ समझौता करेगा या &#8220;काम पूरा करेगा&#8221;, और दावा किया था कि जरूरत पड़ने पर वाशिंगटन ईरान के महत्वपूर्ण बुनियादी ढांचे को पंगु बना सकता है। ईरान ने इन टिप्पणियों की कड़ी निंदा की। आर्मेनिया स्थित ईरानी दूतावास ने भी सोशल मीडिया पर एक पोस्ट में अमरीका की आलोचना की। इस बीच, ईरानी सरकारी टेलीविजन ने बताया कि देश के पूर्व सर्वोच्च नेता का पार्थिव शरीर हेलीकॉप्टर से क़ोम पहुंच गया है।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T10:04:34+00:00",
+        "link": "https://newsonair.gov.in/hi/iran-refused-to-hold-talks-following-remarks-by-us-president-donald-trump/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/us-iran.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "इंडोनेशिया में निजी संग्रह के जरिए साझा सांस्कृतिक विरासत को सहेज रहे हैं हरी सुनार्यो",
+        "summary": "इंडोनेशिया के एक खनन सलाहकार हरी सुनार्यो अपने असाधारण निजी संग्रह के माध्यम से सदियों पुरानी साझा विरासत को संरक्षित कर रहे हैं। लगभग एक हजार मूर्तियों और 200 से अधिक पारंपरिक जावानीस कटार केरिस ने भारत और इंडोनेशिया के बीच गहरे सांस्कृतिक संबंधों को दर्शाने वाली कलाकृतियों की रक्षा के लिए दशकों समर्पित किए […]",
+        "article": "इंडोनेशिया के एक खनन सलाहकार हरी सुनार्यो अपने असाधारण निजी संग्रह के माध्यम से सदियों पुरानी साझा विरासत को संरक्षित कर रहे हैं। लगभग एक हजार मूर्तियों और 200 से अधिक पारंपरिक जावानीस कटार केरिस ने भारत और इंडोनेशिया के बीच गहरे सांस्कृतिक संबंधों को दर्शाने वाली कलाकृतियों की रक्षा के लिए दशकों समर्पित किए हैं। भारतीय कला और वास्तुकला के प्रबल प्रशंसक का मानना ​​है कि इनमें से कई वस्तुएं अकादमिक जगत में अधिक ध्यान आकर्षित करने योग्य हैं।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:43:25+00:00",
+        "link": "https://newsonair.gov.in/hi/hari-sunaryo-is-preserving-shared-cultural-heritage-through-a-private-collection-in-indonesia/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "कल से केरल के कोच्चि में शुरू होने वाली दो दिवसीय ब्रिक्स महिला मंत्रिस्तरीय बैठक की मेजबानी करेगा भारत",
         "summary": "भारत कल से केरल के कोच्चि में शुरू होने वाली दो दिवसीय ब्रिक्स महिला मंत्रिस्तरीय बैठक की मेजबानी करेगा। महिला और बाल विकास मंत्रालय ने बताया कि इस बैठक के दौरान ब्रिक्स सदस्य देशों के मंत्री सहयोग को मजबूत करेंगे और अपने-अपने ब्रिक्स अध्यक्षों के नेतृत्व में महिला नेतृत्व वाले विकास के लिए एक साझा […]",
@@ -1574,50 +1609,17 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/aaaa.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "यूक्रेन की राजधानी कीव पर रूस का मिसाइल हमला, 18 लोगों की मौत 60 घायल",
-        "summary": "यूक्रेन की राजधानी कीव पर रूस के मिसाइल और ड्रोन हमलों से 18 लोग मारे गए, जबकि 60 घायल हुए हैं। यूक्रेन की वायु सेना ने कहा कि रूस ने बैलिस्टिक और क्रूज मिसाइलों तथा ड्रोन हमले किए हैं। इन हमलों से पोडिल्स्की जिले में एक आवासीय इमारत आंशिक रूप से ढह गई। डार्नित्सिया जिले […]",
-        "article": "यूक्रेन की राजधानी कीव पर रूस के मिसाइल और ड्रोन हमलों से 18 लोग मारे गए, जबकि 60 घायल हुए हैं। यूक्रेन की वायु सेना ने कहा कि रूस ने बैलिस्टिक और क्रूज मिसाइलों तथा ड्रोन हमले किए हैं। इन हमलों से पोडिल्स्की जिले में एक आवासीय इमारत आंशिक रूप से ढह गई। डार्नित्सिया जिले में कई बहुमंजिला इमारतें क्षतिग्रस्त हो गईं। इन इमारतों के मलबे के नीचे लोगों के फंसे होने की आशंका है। ये हमले तुर्किए में होने वाले महत्वपूर्ण नाटो शिखर सम्मेलन से एक दिन पहले हुए, जिसमें अमरीका के राष्ट्रपति डोनाल्ड ट्रंप के शामिल होने की आशा है। इससे पहले, बृहस्पतिवार को कीव में हुए एक रूसी हमले में 31 लोग मारे गए थे। रूस के रक्षा मंत्रालय ने कहा कि यह बमबारी यूक्रेन के हालिया लंबी दूरी के हमलों के जवाब में की गई थी, जिससे ईंधन की गंभीर कमी हो गई थी।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T15:18:04+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%af%e0%a5%82%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%a8-%e0%a4%95%e0%a5%80-%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a5%80-%e0%a4%95%e0%a5%80%e0%a4%b5-%e0%a4%aa%e0%a4%b0-4/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "बहरीन पहुंचे विदेश मंत्री एस. जयशंकर, समकक्ष डॉ. अब्दुललतीफ बिन राशिद अल ज़ायनी से की मुलाकात",
-        "summary": "विदेश मंत्री डॉ. एस. जयशंकर कतर की यात्रा समाप्त करने के बाद पश्चिम एशिया यात्रा के दूसरे चरण में बहरीन पहुंच गए हैं। डॉ. जयशंकर ने मनामा में बहरीन के विदेश मंत्री डॉ. अब्दुललतीफ बिन राशिद अल ज़ायनी से मुलाकात की। सोशल मीडिया पर एक पोस्ट में डॉ. जयशंकर ने कहा कि मुलाकात के दौरान […]",
-        "article": "विदेश मंत्री डॉ. एस. जयशंकर कतर की यात्रा समाप्त करने के बाद पश्चिम एशिया यात्रा के दूसरे चरण में बहरीन पहुंच गए हैं। डॉ. जयशंकर ने मनामा में बहरीन के विदेश मंत्री डॉ. अब्दुललतीफ बिन राशिद अल ज़ायनी से मुलाकात की। सोशल मीडिया पर एक पोस्ट में डॉ. जयशंकर ने कहा कि मुलाकात के दौरान उन्होंने भारतीय समुदाय का कल्&#x200d;याण सुनिश्चित करने के लिए बहरीन के विदेश मंत्री की सराहना की। दोनों मंत्रियों ने द्विपक्षीय सहयोग को और मजबूत करने पर चर्चा की और क्षेत्र में चल रहे घटनाक्रमों पर विचार-विमर्श किया। डॉ. जयशंकर पश्चिम एशिया यात्रा के अंतर्गत कुवैत और ओमान का भी दौरा करेंगे।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T13:59:52+00:00",
-        "link": "https://newsonair.gov.in/hi/external-affairs-minister-s-jaishankar-arrives-in-bahrain-meets-his-counterpart-dr-abdullatif-bin-rashid-al-zayani/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMi6DyFXwAANvBH.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ईरान के पूर्व सर्वोच्च नेता अयातुल्ला अली ख़ामेनेई की अंतिम यात्रा, बड़ी संख्या में शामिल हुए लोग",
-        "summary": "ईरान की राजधानी तेहरान में आज पूर्व सर्वोच्च नेता अयातुल्ला अली ख़ामेनेई की अंतिम यात्रा में बड़ी संख्या में लोग शामिल हुए। खामेनेई और उनके परिवार के सदस्यों का पार्थिव शरीर एक विशेष वाहन पर रखा गया है। वाहन को एक इमाम की दरगाह की जालीदार बनावट की तरह सजाया गया है। इन लोगों की […]",
-        "article": "ईरान की राजधानी तेहरान में आज पूर्व सर्वोच्च नेता अयातुल्ला अली ख़ामेनेई की अंतिम यात्रा में बड़ी संख्या में लोग शामिल हुए। खामेनेई और उनके परिवार के सदस्यों का पार्थिव शरीर एक विशेष वाहन पर रखा गया है। वाहन को एक इमाम की दरगाह की जालीदार बनावट की तरह सजाया गया है। इन लोगों की 28 फरवरी को इस्राएल और अमरीका की ओर से किए गए हमलों में मृत्&#x200d;यु हो गई थी। अंतिम यात्रा की व्यवस्था संभाल रहे रिवोल्यूशनरी गार्ड के जनरल हसन हसनज़ादेह ने बताया कि पार्थिव शरीरों को लगभग बारह घंटे तक तेहरान की सड़कों से ले जाया जाएगा। इसके बाद उन्हें मेहराबाद अंतरराष्ट्रीय हवाई अड्डे पहुंचाया जाएगा। शोक की अवधि के दौरान प्रशासन ने राजधानी की कई प्रमुख सड़कों को बंद कर दिया है। देश का हवाई क्षेत्र भी अस्थायी रूप से बंद कर दिया गया है और सामान्य जनजीवन पर भी इसका असर पड़ा है। यह शोक शनिवार से शुरू हुआ है और बृहस्पतिवार तक जारी रहेगा। इसके बाद अयातुल्ला अली ख़ामेनेई को उनके जन्मस्थान मशहद स्थित इमाम रज़ा की दरगाह में सुपुर्द-ए-ख़ाक किया जाएगा। इस बीच, ईरान संघर्ष को स्थायी रूप से समाप्त करने के लिए अमरीका के साथ बातचीत भी जारी रखे हुए है।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T11:46:52+00:00",
-        "link": "https://newsonair.gov.in/hi/the-final-journey-of-irans-former-supreme-leader-ayatollah-ali-khamenei-large-numbers-of-people-participated/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMiY5G2aQAA7xhm.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "sports": [
       {
-        "title": "राष्ट्रपति द्रौपदी मुर्मु ने 2026 डूरंड कप ट्रॉफियों का अनावरण कर हरी झंडी दिखा किया रवाना",
-        "summary": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट […]",
-        "article": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट में श्रीलंकाई टीम की भागीदारी पर खुशी व्यक्त की। राष्ट्रपति ने टूर्नामेंट में भाग लेने वाली सभी टीमों और खिलाड़ियों को शुभकामनाएं दीं। उन्होंने उनसे खेल भावना का पालन करने और सर्वश्रेष्ठ प्रदर्शन करके इस ऐतिहासिक प्रतियोगिता की प्रतिष्ठा को और बढ़ाने का आग्रह किया। इस अवसर पर रक्षा प्रमुख जनरल एनएस राजा सुब्रमणि, सेना प्रमुख धीरज सेठ और नौसेना प्रमुख एडमिरल कृष्णा स्वामीनाथन भी उपस्थित थे।",
+        "title": "भारतीय क्रिकेट टीम के पूर्व कप्तान महेंद्र सिंह धोनी आज मना रहे अपना 45वां जन्मदिन",
+        "summary": "भारतीय क्रिकेट टीम के पूर्व कप्तान महेंद्र सिंह धोनी आज अपना 45वां जन्मदिन मना रहे हैं। इस अवसर पर रांची के सिमलिया स्थित उनके आवास के बाहर बड़ी संख्या में प्रशंसक जुटे और केक काटकर जन्मदिन मनाते हुए उनके दीर्घायु एवं स्वस्थ जीवन की कामना की। फैंस ने ‘हैप्पी बर्थडे माही’ और ‘धोनी-धोनी’ के नारों […]",
+        "article": "भारतीय क्रिकेट टीम के पूर्व कप्तान महेंद्र सिंह धोनी आज अपना 45वां जन्मदिन मना रहे हैं। इस अवसर पर रांची के सिमलिया स्थित उनके आवास के बाहर बड़ी संख्या में प्रशंसक जुटे और केक काटकर जन्मदिन मनाते हुए उनके दीर्घायु एवं स्वस्थ जीवन की कामना की। फैंस ने ‘हैप्पी बर्थडे माही’ और ‘धोनी-धोनी’ के नारों के साथ भारतीय क्रिकेट में उनके योगदान को याद किया तथा सोशल मीडिया के माध्यम से भी शुभकामनाएं दीं।",
         "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:39:25+00:00",
-        "link": "https://newsonair.gov.in/hi/president-droupadi-murmu-unveiled-the-2026-durand-cup-trophies-and-flagged-them-off/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/23.png",
+        "pubDate": "2026-07-07T10:18:17+00:00",
+        "link": "https://newsonair.gov.in/hi/former-indian-cricket-team-captain-mahendra-singh-dhoni-is-celebrating-his-45th-birthday-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-07-154634.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1710,14 +1712,15 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "फीफा विश्व कप के राउंड ऑफ 16 में आज कनाडा का मुकाबला मोरक्को से होगा",
-        "summary": "फीफा विश्व कप में, राउंड ऑफ 16 के पहले मैच में आज रात 10:30 बजे टेक्सास के ह्यूस्टन में कनाडा का समाना मोरक्को से होगा। कनाडा ने दक्षिण अफ्रीका को और मोरक्को ने नीदरलैंड्स को हराकर इस राउंड में जगह बनाई है। एक अन्य मुकाबले में, सुबह दो बजकर तीस मिनट पर पैराग्वे का सामना […]",
-        "article": "फीफा विश्व कप में, राउंड ऑफ 16 के पहले मैच में आज रात 10:30 बजे टेक्सास के ह्यूस्टन में कनाडा का समाना मोरक्को से होगा। कनाडा ने दक्षिण अफ्रीका को और मोरक्को ने नीदरलैंड्स को हराकर इस राउंड में जगह बनाई है। एक अन्य मुकाबले में, सुबह दो बजकर तीस मिनट पर पैराग्वे का सामना फ्रांस से होगा।",
-        "date": "2026-07-04",
-        "pubDate": "2026-07-04T11:27:23+00:00",
-        "link": "https://newsonair.gov.in/hi/canada-will-face-morocco-today-in-the-round-of-16-of-the-fifa-world-cup/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/fifa.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "राष्ट्रपति द्रौपदी मुर्मु ने 2026 डूरंड कप ट्रॉफियों का अनावरण किया",
+        "summary": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट […]",
+        "article": "राष्ट्रपति द्रौपदी मुर्मु ने आज नई दिल्ली में 2026 डूरंड कप टूर्नामेंट की ट्रॉफियों का अनावरण किया और उन्हें हरी झंडी दिखाकर रवाना किया। अपने संबोधन में राष्ट्रपति ने कहा कि इस वर्ष डूरंड कप, राष्ट्रपति कप और शिमला ट्रॉफी के चैंपियन बनने के लिए नई टीमें प्रतियोगिता में हिस्सा लेंगी। इस साल के टूर्नामेंट में श्रीलंकाई टीम की भागीदारी पर खुशी व्यक्त की। राष्ट्रपति ने टूर्नामेंट में भाग लेने वाली सभी टीमों और खिलाड़ियों को शुभकामनाएं दीं। उन्होंने उनसे खेल भावना का पालन करने और सर्वश्रेष्ठ प्रदर्शन करके इस ऐतिहासिक प्रतियोगिता की प्रतिष्ठा को और बढ़ाने का आग्रह किया। इस अवसर पर चीफ ऑफ डिफेंस स्टाफ जनरल एनएस राजा सुब्रमणि, सेना प्रमुख धीरज सेठ और नौसेना प्रमुख एडमिरल कृष्णा स्वामीनाथन भी उपस्थित थे।",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T08:39:25+00:00",
+        "link": "https://newsonair.gov.in/hi/president-droupadi-murmu-unveiled-the-2026-durand-cup-trophies-and-flagged-them-off/",
+        "post_id": 1723762,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
