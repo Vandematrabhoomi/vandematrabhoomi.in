@@ -39,5 +39,12 @@ jobs:
             echo "No changes."
           else
             git commit -m "news update $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git push
+            # A concurrent run may have pushed the same content already.
+            # Losing that race is fine - the site is fresh either way.
+            git pull --rebase origin main || {
+              git rebase --abort
+              echo "Remote already updated by a concurrent run - nothing to do."
+              exit 0
+            }
+            git push || echo "Push race lost - remote already updated."
           fi
