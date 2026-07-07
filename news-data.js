@@ -1,8 +1,19 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-07T10:41:50.137965",
+  "generated": "2026-07-07T11:28:46.297303",
   "en": {
     "top": [
+      {
+        "title": "Union Health Minister reviews progress of key programmes in Keralam",
+        "summary": "Union Health and Family Welfare Minister JP Nadda today chaired a virtual review meeting with Keralm Health Minister, K. Muraleedharan to review the implementation and progress of key health programmes and public health initiatives in the state. Mr Nadda appreciated the efforts made by the State in implementing various health initiatives and assured continued […]",
+        "article": "Union Health and Family Welfare Minister JP Nadda today chaired a virtual review meeting with Keralm Health Minister, K. Muraleedharan to review the implementation and progress of key health programmes and public health initiatives in the state. Mr Nadda appreciated the efforts made by the State in implementing various health initiatives and assured continued support from the centre for further strengthening Keralam&#8217;s healthcare ecosystem. He emphasized the importance of sustained Centre-State collaboration to ensure effective implementation of national health programmes and improved health outcomes for the people. The meeting focused on the implementation and progress of major flagship health programmes and initiatives in Kerala, including the TB-Mukt Bharat Abhiyaan, Free Drugs Service Initiative, Free Diagnostic Service Initiative, Human Resources for Health under the National Health Mission (NHM), Medical Education, Drug Regulation, and Food Safety and Standards. Mr Muraleedharan apprised the Health Minister of the progress made by Keralam under various flagship health programmes and highlighted the initiatives undertaken by the State Government to further strengthen healthcare delivery.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T11:17:13+00:00",
+        "link": "https://newsonair.gov.in/union-health-minister-reviews-progress-of-key-programmes-in-keralam/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Nadda-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "PM Modi addresses joint session of Indonesian Parliament: says both countries working closely to counter terrorism",
         "summary": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the […]",
@@ -103,17 +114,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Two-day BRICS Women Ministerial Meeting begins in Kochi on 8 July",
-        "summary": "India will host the two-day BRICS Women Ministerial Meeting in Kochi, Keralam, beginning tomorrow. The Ministry of Women and Child Development said the meeting will bring together ministers from BRICS member countries to strengthen cooperation and advance a shared vision for women-led development under India&#8217;s BRICS Chairship. The ministers will deliberate on the proposed outcomes […]",
-        "article": "India will host the two-day BRICS Women Ministerial Meeting in Kochi, Keralam, beginning tomorrow. The Ministry of Women and Child Development said the meeting will bring together ministers from BRICS member countries to strengthen cooperation and advance a shared vision for women-led development under India&#8217;s BRICS Chairship. The ministers will deliberate on the proposed outcomes and provide strategic direction for enhancing cooperation among BRICS member countries. The programme will feature a plenary session and thematic panel discussions involving eminent experts, policymakers and practitioners. The discussions will provide an opportunity to exchange experiences, share innovative approaches and foster partnerships for women&#8217;s empowerment. The Ministerial Meeting follows the BRICS Women Working Group Meeting held on 6 and 7 July, during which senior officials held substantive deliberations on the priority areas under the BRICS Women Track. The Ministerial Meeting will serve as a platform for high-level dialogue on promoting women&#8217;s leadership, expanding economic opportunities, and strengthening digital and financial inclusion.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T06:19:08+00:00",
-        "link": "https://newsonair.gov.in/two-day-brics-women-ministerial-meeting-begins-in-kochi-on-8-july/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/19.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Eight killed as severe storms batter central China",
         "summary": "Eight people were killed and several others are reported missing after thunderstorms and gale-force winds triggered by severe convective weather struck the eastern part of central China&#8217;s Hubei Province. According to provincial emergency management authorities, thunderstorms, strong winds and tornadoes hit several cities yesterday evening. In Huanggang, 275 people were injured, while more th",
         "article": "Eight people were killed and several others are reported missing after thunderstorms and gale-force winds triggered by severe convective weather struck the eastern part of central China&#8217;s Hubei Province. According to provincial emergency management authorities, thunderstorms, strong winds and tornadoes hit several cities yesterday evening. In Huanggang, 275 people were injured, while more than 400 residents were shifted to safer locations. Rescue and relief operations are continuing. Meanwhile, a landslide in Gansu Province has left several people missing. Authorities said 33 people were trapped, of whom 17 have been rescued, while search and rescue operations are continuing. In another weather-related incident, torrential rains triggered by Typhoon Maysak caused flooding in Guangxi, claiming two lives and affecting around 55,000 people. Nearly 48,000 residents have been evacuated.",
@@ -138,6 +138,17 @@ window.VM_NEWS = {
     ],
     "breaking": [
       {
+        "title": "Union Health Minister reviews progress of key programmes in Keralam",
+        "summary": "Union Health and Family Welfare Minister JP Nadda today chaired a virtual review meeting with Keralm Health Minister, K. Muraleedharan to review the implementation and progress of key health programmes and public health initiatives in the state. Mr Nadda appreciated the efforts made by the State in implementing various health initiatives and assured continued […]",
+        "article": "Union Health and Family Welfare Minister JP Nadda today chaired a virtual review meeting with Keralm Health Minister, K. Muraleedharan to review the implementation and progress of key health programmes and public health initiatives in the state. Mr Nadda appreciated the efforts made by the State in implementing various health initiatives and assured continued support from the centre for further strengthening Keralam&#8217;s healthcare ecosystem. He emphasized the importance of sustained Centre-State collaboration to ensure effective implementation of national health programmes and improved health outcomes for the people. The meeting focused on the implementation and progress of major flagship health programmes and initiatives in Kerala, including the TB-Mukt Bharat Abhiyaan, Free Drugs Service Initiative, Free Diagnostic Service Initiative, Human Resources for Health under the National Health Mission (NHM), Medical Education, Drug Regulation, and Food Safety and Standards. Mr Muraleedharan apprised the Health Minister of the progress made by Keralam under various flagship health programmes and highlighted the initiatives undertaken by the State Government to further strengthen healthcare delivery.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T11:17:13+00:00",
+        "link": "https://newsonair.gov.in/union-health-minister-reviews-progress-of-key-programmes-in-keralam/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Nadda-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Modi addresses joint session of Indonesian Parliament: says both countries working closely to counter terrorism",
         "summary": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the […]",
         "article": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the world&#8217;s faith that democracy creates opportunities and builds trust. The Prime Minister said history will be made when India&#8217;s 140 crore people and Indonesia&#8217;s 29 crore people move forward together in pursuit of shared progress. The Prime Minister said India and Indonesia are working closely to counter terrorism through the Joint Working Group mechanism. He reaffirmed India&#8217;s commitment to a free, open and inclusive Indo-Pacific and stressed the importance of ensuring freedom of navigation in the region. Mr. Modi also said that reforms of the United Nations Security Council can no longer be delayed. He added that India is ready to extend its support to Indonesia in the field of satellite launch technology.",
@@ -222,17 +233,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-07T07:35:53+00:00",
         "link": "https://newsonair.gov.in/lok-sabha-speaker-congratulates-pm-modi-on-indonesias-highest-honour/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/24.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Two-day BRICS Women Ministerial Meeting begins in Kochi on 8 July",
-        "summary": "India will host the two-day BRICS Women Ministerial Meeting in Kochi, Keralam, beginning tomorrow. The Ministry of Women and Child Development said the meeting will bring together ministers from BRICS member countries to strengthen cooperation and advance a shared vision for women-led development under India&#8217;s BRICS Chairship. The ministers will deliberate on the proposed outcomes […]",
-        "article": "India will host the two-day BRICS Women Ministerial Meeting in Kochi, Keralam, beginning tomorrow. The Ministry of Women and Child Development said the meeting will bring together ministers from BRICS member countries to strengthen cooperation and advance a shared vision for women-led development under India&#8217;s BRICS Chairship. The ministers will deliberate on the proposed outcomes and provide strategic direction for enhancing cooperation among BRICS member countries. The programme will feature a plenary session and thematic panel discussions involving eminent experts, policymakers and practitioners. The discussions will provide an opportunity to exchange experiences, share innovative approaches and foster partnerships for women&#8217;s empowerment. The Ministerial Meeting follows the BRICS Women Working Group Meeting held on 6 and 7 July, during which senior officials held substantive deliberations on the priority areas under the BRICS Women Track. The Ministerial Meeting will serve as a platform for high-level dialogue on promoting women&#8217;s leadership, expanding economic opportunities, and strengthening digital and financial inclusion.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T06:19:08+00:00",
-        "link": "https://newsonair.gov.in/two-day-brics-women-ministerial-meeting-begins-in-kochi-on-8-july/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/19.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -251,6 +251,17 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "Union Health Minister reviews progress of key programmes in Keralam",
+        "summary": "Union Health and Family Welfare Minister JP Nadda today chaired a virtual review meeting with Keralm Health Minister, K. Muraleedharan to review the implementation and progress of key health programmes and public health initiatives in the state. Mr Nadda appreciated the efforts made by the State in implementing various health initiatives and assured continued […]",
+        "article": "Union Health and Family Welfare Minister JP Nadda today chaired a virtual review meeting with Keralm Health Minister, K. Muraleedharan to review the implementation and progress of key health programmes and public health initiatives in the state. Mr Nadda appreciated the efforts made by the State in implementing various health initiatives and assured continued support from the centre for further strengthening Keralam&#8217;s healthcare ecosystem. He emphasized the importance of sustained Centre-State collaboration to ensure effective implementation of national health programmes and improved health outcomes for the people. The meeting focused on the implementation and progress of major flagship health programmes and initiatives in Kerala, including the TB-Mukt Bharat Abhiyaan, Free Drugs Service Initiative, Free Diagnostic Service Initiative, Human Resources for Health under the National Health Mission (NHM), Medical Education, Drug Regulation, and Food Safety and Standards. Mr Muraleedharan apprised the Health Minister of the progress made by Keralam under various flagship health programmes and highlighted the initiatives undertaken by the State Government to further strengthen healthcare delivery.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T11:17:13+00:00",
+        "link": "https://newsonair.gov.in/union-health-minister-reviews-progress-of-key-programmes-in-keralam/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Nadda-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Modi addresses joint session of Indonesian Parliament: says both countries working closely to counter terrorism",
         "summary": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the […]",
         "article": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the world&#8217;s faith that democracy creates opportunities and builds trust. The Prime Minister said history will be made when India&#8217;s 140 crore people and Indonesia&#8217;s 29 crore people move forward together in pursuit of shared progress. The Prime Minister said India and Indonesia are working closely to counter terrorism through the Joint Working Group mechanism. He reaffirmed India&#8217;s commitment to a free, open and inclusive Indo-Pacific and stressed the importance of ensuring freedom of navigation in the region. Mr. Modi also said that reforms of the United Nations Security Council can no longer be delayed. He added that India is ready to extend its support to Indonesia in the field of satellite launch technology.",
@@ -335,17 +346,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-07T07:35:53+00:00",
         "link": "https://newsonair.gov.in/lok-sabha-speaker-congratulates-pm-modi-on-indonesias-highest-honour/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/24.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Two-day BRICS Women Ministerial Meeting begins in Kochi on 8 July",
-        "summary": "India will host the two-day BRICS Women Ministerial Meeting in Kochi, Keralam, beginning tomorrow. The Ministry of Women and Child Development said the meeting will bring together ministers from BRICS member countries to strengthen cooperation and advance a shared vision for women-led development under India&#8217;s BRICS Chairship. The ministers will deliberate on the proposed outcomes […]",
-        "article": "India will host the two-day BRICS Women Ministerial Meeting in Kochi, Keralam, beginning tomorrow. The Ministry of Women and Child Development said the meeting will bring together ministers from BRICS member countries to strengthen cooperation and advance a shared vision for women-led development under India&#8217;s BRICS Chairship. The ministers will deliberate on the proposed outcomes and provide strategic direction for enhancing cooperation among BRICS member countries. The programme will feature a plenary session and thematic panel discussions involving eminent experts, policymakers and practitioners. The discussions will provide an opportunity to exchange experiences, share innovative approaches and foster partnerships for women&#8217;s empowerment. The Ministerial Meeting follows the BRICS Women Working Group Meeting held on 6 and 7 July, during which senior officials held substantive deliberations on the priority areas under the BRICS Women Track. The Ministerial Meeting will serve as a platform for high-level dialogue on promoting women&#8217;s leadership, expanding economic opportunities, and strengthening digital and financial inclusion.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T06:19:08+00:00",
-        "link": "https://newsonair.gov.in/two-day-brics-women-ministerial-meeting-begins-in-kochi-on-8-july/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/19.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -364,6 +364,17 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "Union Health Minister reviews progress of key programmes in Keralam",
+        "summary": "Union Health and Family Welfare Minister JP Nadda today chaired a virtual review meeting with Keralm Health Minister, K. Muraleedharan to review the implementation and progress of key health programmes and public health initiatives in the state. Mr Nadda appreciated the efforts made by the State in implementing various health initiatives and assured continued […]",
+        "article": "Union Health and Family Welfare Minister JP Nadda today chaired a virtual review meeting with Keralm Health Minister, K. Muraleedharan to review the implementation and progress of key health programmes and public health initiatives in the state. Mr Nadda appreciated the efforts made by the State in implementing various health initiatives and assured continued support from the centre for further strengthening Keralam&#8217;s healthcare ecosystem. He emphasized the importance of sustained Centre-State collaboration to ensure effective implementation of national health programmes and improved health outcomes for the people. The meeting focused on the implementation and progress of major flagship health programmes and initiatives in Kerala, including the TB-Mukt Bharat Abhiyaan, Free Drugs Service Initiative, Free Diagnostic Service Initiative, Human Resources for Health under the National Health Mission (NHM), Medical Education, Drug Regulation, and Food Safety and Standards. Mr Muraleedharan apprised the Health Minister of the progress made by Keralam under various flagship health programmes and highlighted the initiatives undertaken by the State Government to further strengthen healthcare delivery.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T11:17:13+00:00",
+        "link": "https://newsonair.gov.in/union-health-minister-reviews-progress-of-key-programmes-in-keralam/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Nadda-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Modi addresses joint session of Indonesian Parliament: says both countries working closely to counter terrorism",
         "summary": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the […]",
         "article": "Prime Minister Narendra Modi addressed a joint session of the Indonesian Parliament in Jakarta this afternoon. Highlighting the growing partnership between the two nations, Mr Modi said India and Indonesia have immense opportunities to deepen cooperation across a wide range of sectors. He noted that when India and Indonesia stand together, they reinforce the world&#8217;s faith that democracy creates opportunities and builds trust. The Prime Minister said history will be made when India&#8217;s 140 crore people and Indonesia&#8217;s 29 crore people move forward together in pursuit of shared progress. The Prime Minister said India and Indonesia are working closely to counter terrorism through the Joint Working Group mechanism. He reaffirmed India&#8217;s commitment to a free, open and inclusive Indo-Pacific and stressed the importance of ensuring freedom of navigation in the region. Mr. Modi also said that reforms of the United Nations Security Council can no longer be delayed. He added that India is ready to extend its support to Indonesia in the field of satellite launch technology.",
@@ -448,17 +459,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-07T07:35:53+00:00",
         "link": "https://newsonair.gov.in/lok-sabha-speaker-congratulates-pm-modi-on-indonesias-highest-honour/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/24.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Two-day BRICS Women Ministerial Meeting begins in Kochi on 8 July",
-        "summary": "India will host the two-day BRICS Women Ministerial Meeting in Kochi, Keralam, beginning tomorrow. The Ministry of Women and Child Development said the meeting will bring together ministers from BRICS member countries to strengthen cooperation and advance a shared vision for women-led development under India&#8217;s BRICS Chairship. The ministers will deliberate on the proposed outcomes […]",
-        "article": "India will host the two-day BRICS Women Ministerial Meeting in Kochi, Keralam, beginning tomorrow. The Ministry of Women and Child Development said the meeting will bring together ministers from BRICS member countries to strengthen cooperation and advance a shared vision for women-led development under India&#8217;s BRICS Chairship. The ministers will deliberate on the proposed outcomes and provide strategic direction for enhancing cooperation among BRICS member countries. The programme will feature a plenary session and thematic panel discussions involving eminent experts, policymakers and practitioners. The discussions will provide an opportunity to exchange experiences, share innovative approaches and foster partnerships for women&#8217;s empowerment. The Ministerial Meeting follows the BRICS Women Working Group Meeting held on 6 and 7 July, during which senior officials held substantive deliberations on the priority areas under the BRICS Women Track. The Ministerial Meeting will serve as a platform for high-level dialogue on promoting women&#8217;s leadership, expanding economic opportunities, and strengthening digital and financial inclusion.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T06:19:08+00:00",
-        "link": "https://newsonair.gov.in/two-day-brics-women-ministerial-meeting-begins-in-kochi-on-8-july/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/19.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1039,7 +1039,7 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "विदेश मंत्री डॉ. जयशंकर ने ईरान के उप प्रधानमंत्री खालिद बिन अब्दुल्ला अल खलीफा से की मुलाकात",
+        "title": "विदेश मंत्री डॉ. जयशंकर ने बहरीन के उप प्रधानमंत्री खालिद बिन अब्दुल्ला अल खलीफा से की मुलाकात",
         "summary": "विदेश मंत्री डॉ. एस. जयशंकर ने आज बहरीन के उप प्रधानमंत्री खालिद बिन अब्दुल्ला अल खलीफा से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि मुलाकात के दौरान दोनों पक्षों ने विभिन्न क्षेत्रों में द्विपक्षीय सहयोग को आगे बढ़ाने पर चर्चा की। उन्होंने क्षेत्रीय स्थिति पर भी अपने विचार साझा किए।",
         "article": "विदेश मंत्री डॉ. एस. जयशंकर ने आज बहरीन के उप प्रधानमंत्री खालिद बिन अब्दुल्ला अल खलीफा से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि मुलाकात के दौरान दोनों पक्षों ने विभिन्न क्षेत्रों में द्विपक्षीय सहयोग को आगे बढ़ाने पर चर्चा की। उन्होंने क्षेत्रीय स्थिति पर भी अपने विचार साझा किए।",
         "date": "2026-07-07",
@@ -1501,7 +1501,7 @@ window.VM_NEWS = {
     ],
     "world": [
       {
-        "title": "विदेश मंत्री डॉ. जयशंकर ने ईरान के उप प्रधानमंत्री खालिद बिन अब्दुल्ला अल खलीफा से की मुलाकात",
+        "title": "विदेश मंत्री डॉ. जयशंकर ने बहरीन के उप प्रधानमंत्री खालिद बिन अब्दुल्ला अल खलीफा से की मुलाकात",
         "summary": "विदेश मंत्री डॉ. एस. जयशंकर ने आज बहरीन के उप प्रधानमंत्री खालिद बिन अब्दुल्ला अल खलीफा से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि मुलाकात के दौरान दोनों पक्षों ने विभिन्न क्षेत्रों में द्विपक्षीय सहयोग को आगे बढ़ाने पर चर्चा की। उन्होंने क्षेत्रीय स्थिति पर भी अपने विचार साझा किए।",
         "article": "विदेश मंत्री डॉ. एस. जयशंकर ने आज बहरीन के उप प्रधानमंत्री खालिद बिन अब्दुल्ला अल खलीफा से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि मुलाकात के दौरान दोनों पक्षों ने विभिन्न क्षेत्रों में द्विपक्षीय सहयोग को आगे बढ़ाने पर चर्चा की। उन्होंने क्षेत्रीय स्थिति पर भी अपने विचार साझा किए।",
         "date": "2026-07-07",
