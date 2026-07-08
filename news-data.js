@@ -1,8 +1,30 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-08T06:59:23.863104",
+  "generated": "2026-07-08T07:45:22.856556",
   "en": {
     "top": [
+      {
+        "title": "India, Indonesia launch collaborative conservation initiative for Prambanan Temple Compound",
+        "summary": "India and Indonesia have taken a significant step towards preserving their shared civilisational heritage with the launch of a collaborative conservation initiative for the Prambanan Temple Compound, a UNESCO World Heritage Site in Yogyakarta. The decade-long project will focus on restoring the Pervara or subsidiary shrines, located in the temple’s second courtyard. Originally, the […]",
+        "article": "India and Indonesia have taken a significant step towards preserving their shared civilisational heritage with the launch of a collaborative conservation initiative for the Prambanan Temple Compound, a UNESCO World Heritage Site in Yogyakarta. The decade-long project will focus on restoring the Pervara or subsidiary shrines, located in the temple’s second courtyard. Originally, the Prambanan complex comprised 224 such shrines arranged in four concentric rows. However, only six have been restored so far, while over 200 remain in various stages of ruin. The conservation programme will begin in the north-east quadrant of the complex and will combine archaeological expertise with modern technology. Scientific investigations, AI-based digital reconstruction, advanced documentation, and the anastylosis method-where original stones are carefully reassembled in their original positions-will be used during the restoration. Besides conserving the historic structures, the initiative also aims to strengthen scientific documentation, improve site management and drainage, and promote knowledge exchange and capacity building between India and Indonesia. Built in the 9th century during the Mataram Kingdom, Prambanan is the largest Hindu temple complex in Indonesia and has been recognised as a UNESCO World Heritage Site since 1991. The collaboration underscores the enduring cultural and civilisational links between the two countries while ensuring that this architectural masterpiece is preserved for future generations.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T07:34:22+00:00",
+        "link": "https://newsonair.gov.in/india-indonesia-launch-collaborative-conservation-initiative-for-prambanan-temple-compound/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/46.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Textiles Ministry launches Handloom Hackathon 2026 aimed to strengthen India’s handloom sector",
+        "summary": "The Ministry of Textiles has launched a national innovation challenge &#8211; Handloom Hackathon 2026, aimed at harnessing technology, design, entrepreneurship and sustainable solutions to strengthen India’s handloom sector. The initiative is being organised as part of the celebrations of National Handloom Day 2026. Online registrations are open until 20th of this month. Students, innovators, […]",
+        "article": "The Ministry of Textiles has launched a national innovation challenge &#8211; Handloom Hackathon 2026, aimed at harnessing technology, design, entrepreneurship and sustainable solutions to strengthen India’s handloom sector. The initiative is being organised as part of the celebrations of National Handloom Day 2026. Online registrations are open until 20th of this month. Students, innovators, startups, researchers, designers, entrepreneurs and handloom practitioners can register and submit their ideas through www.youthideathon.in/handloom. The grand finale of the Hackathon will be held on 1st of August at the Foundation for Innovation and Technology Transfer (FITT), IIT Delhi, where shortlisted teams will present their solutions before an eminent jury. Speaking on the initiative, Development Commissioner (Handlooms), Ministry of Textiles Dr. M. Beena said that the Handloom Hackathon 2026 seeks to bring together the creativity of the country’s youth with the rich heritage of the handloom sector. She said, by providing a collaborative platform for weavers, designers, entrepreneurs and innovators, the initiative aims to generate practical and scalable solutions that address key challenges, enhance competitiveness and contribute to the sustainable growth of the handloom sector.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T07:28:38+00:00",
+        "link": "https://newsonair.gov.in/textiles-ministry-launches-handloom-hackathon-2026-aims-to-strengthen-indias-handloom-sector/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/a-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "US strikes over 80 targets in Iran after Hormuz attacks",
         "summary": "The US has carried out a fresh round of airstrikes on Iran, targeting more than 80 locations in response to Iran&#8217;s latest attacks on commercial ships passing through the Strait of Hormuz. According to U.S. Central Command (CENTCOM), the strikes targeted Iranian air defence systems, command and control centres, coastal radar sites, anti-ship missile […]",
@@ -92,51 +114,40 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "PMO holds meeting to review impact of El Niño and preparedness measures",
-        "summary": "The Prime Minister’s Office (PMO) held a high level review meeting to review possible impact of El Niño on various sectors and preparedness measures. The meeting was held under the chairmanship of Principal Secretary to Prime Minister, Dr P.K. Mishra, at the Seva Theerth yesterday. Secretaries and senior officials of more than fifteen Ministries were […]",
-        "article": "The Prime Minister’s Office (PMO) held a high level review meeting to review possible impact of El Niño on various sectors and preparedness measures. The meeting was held under the chairmanship of Principal Secretary to Prime Minister, Dr P.K. Mishra, at the Seva Theerth yesterday. Secretaries and senior officials of more than fifteen Ministries were present at the meeting. Dr Mishra directed that the overall situation should be continuously monitored and the impact of the monsoon or delayed monsoon on vulnerable districts must be assessed in coordination with States so that remedial action can be taken up when necessary. He emphasised that ensuring adequate availability of drinking water in vulnerable districts must be a top priority and directed optimal reservoir water utilisation and judicious use of available water. During the meeting, officials of the India Meteorological Department presented the overall rainfall situation in June and July. The Director General of the Met Department updated on the status of monsoon coverage in the country and the possible impact of El Nino. He informed that, weak to moderate El Nino is expected in July and August. Secretary, Agriculture made a detailed presentation on the preparedness for possible impact of El Nino during the kharif season. He underlined that weekly meetings of Crop Weather Watch group along with States are being convened to enable timely decision making and contingency response. He noted that District Agriculture Contingency Plans have been updated for 262 vulnerable districts and campaigns for Pradhan Mantri Fasal Bima Yojna and Kisan Credit Card coverage in vulnerable states have also been initiated. &nbsp; During the meeting, the Department of Animal Husbandry and Dairying was asked to assess the availability of dry fodder, green fodder and cattle feed, at both macro and micro level. Department of Drinking Water and Sanitation informed that they are continuously monitoring and the situation as on date is stable. The Department of Water Resources shared the position of ground water and reservoir status in the country. Department of Health and Family Welfare have also put in place advisories for heat waves, high humidity and dengue outbreaks. Effective communication of alerts and advisories will also be ensured till the field level. &nbsp; Further, the Department of Consumer Affairs and Fertilizer were suggested to constantly monitor both macro and micro availability of essential commodities and fertilizers. Department of Rural Development briefed on the works that commenced under Viksit Bharat- Guarantee for Rozgar and Ajeevika Mission from the 1st of this month. Apart from that, the Department of Agricultural Research and Education shared the spread of climate resilient seed varieties, while the Department of Power shared the status of generation and availability.",
+        "title": "PM Modi becomes first Indian Prime Minister to address Indonesian Parliament",
+        "summary": "Prime Minister Narendra Modi has become the first Indian Prime Minister to address the Parliament of Indonesia. Addressing Indonesian lawmakers in Jakarta, Mr Modi called for a new era in bilateral relations anchored in shared civilisational heritage, democratic values and a common vision for the future. Describing India as the “Mother of Democracy,” the […]",
+        "article": "Prime Minister Narendra Modi has become the first Indian Prime Minister to address the Parliament of Indonesia. Addressing Indonesian lawmakers in Jakarta, Mr Modi called for a new era in bilateral relations anchored in shared civilisational heritage, democratic values and a common vision for the future. Describing India as the “Mother of Democracy,” the Prime Minister said New Delhi is committed to strengthening democratic linkages with Indonesia. He said, the two countries are natural and trusted partners bound by centuries of shared history, maritime connections and cultural exchanges. Recalling over 2,000 years of civilisational engagement across the Indian Ocean, PM Modi said the exchange of ideas, trade, culture and faith had laid the foundation for the enduring relationship between the two nations. He also highlighted the common ideals of “Vasudhaiva Kutumbakam” (The World is One Family) and Indonesia’s national motto, “Bhinneka Tunggal Ika” (Unity in Diversity), saying these values continue to guide the India-Indonesia partnership. The Prime Minister noted that shared historical experiences, common developmental challenges and the aspirations of their people have brought India and Indonesia closer as strategic partners. Highlighting India’s development journey and the synergies between the vision of Viksit Bharat 2047 and Golden Indonesia 2045 (Indonesia Emas 2045), PM Modi called for deeper collaboration in trade, investment, connectivity, food and energy security, Digital Public Infrastructure and emerging technologies. He also reaffirmed India’s commitment to working closely with Indonesia to strengthen the voice of the Global South and promote a free, open, inclusive and rules-based Indo-Pacific.",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T02:00:47+00:00",
-        "link": "https://newsonair.gov.in/pmo-holds-meeting-to-review-impact-of-el-nino-and-preparedness-measures/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PMO-holds-meeting-to-review-impact-of-El-Nino-and-preparedness-measures.jpg",
+        "pubDate": "2026-07-08T02:05:57+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-becomes-first-indian-prime-minister-to-address-indonesian-parliament/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-becomes-first-Indian-Prime-Minister-to-address-Indonesian-Parliament.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "US launches fresh strikes on Iran after attacks in Strait of Hormuz",
-        "summary": "The US military has launched new strikes against Iran, hours after three merchant ships were struck in the Strait of Hormuz. In a statement posted to social media, US Central Command said American forces launched the strikes to impose heavy costs for targeting and attacking commercial shipping crewed by innocent civilians in an international waterway. […]",
-        "article": "The US military has launched new strikes against Iran, hours after three merchant ships were struck in the Strait of Hormuz. In a statement posted to social media, US Central Command said American forces launched the strikes to impose heavy costs for targeting and attacking commercial shipping crewed by innocent civilians in an international waterway. One US official said, the military is targeting Iranian air defence systems, coastal surveillance systems, ground-to-air missiles as well as launch sites for anti-ship cruise missiles and drones. Iranian port facilities are also being targeted. Iranian state media reported the sound of explosions in Qeshm and Bandar Abbas. Iran&#8217;s deputy foreign minister, Kazem Gharibabadi, said that the new attacks by the US are a violation of the agreement. United States has also revoked a licence that had authorised the sale of Iranian oil as part of the interim deal to end the fighting between the US and Iran. A US official said, the licence was revoked because Iran&#8217;s actions in the strait were unacceptable and needed to be met with consequences. Iranian Foreign Ministry condemned the US move to revoke the licence, saying that it violates the interim deal and that the US government bears responsibility for the consequences of this breach of commitment.",
+        "title": "PM Modi to visit Prambanan Temple with Indonesian President",
+        "summary": "Prime Minister Narendra Modi will visit the iconic Prambanan Temple in Yogyakarta along with Indonesian President today. The visit underscores the deep cultural and civilisational ties that have connected India and Indonesia for over a thousand years. Built in the 9th century, Prambanan is Indonesia’s largest Hindu temple complex and one of Southeast Asia’s […]",
+        "article": "Prime Minister Narendra Modi will visit the iconic Prambanan Temple in Yogyakarta along with Indonesian President today. The visit underscores the deep cultural and civilisational ties that have connected India and Indonesia for over a thousand years. Built in the 9th century, Prambanan is Indonesia’s largest Hindu temple complex and one of Southeast Asia’s finest architectural masterpieces. Originally comprising 240 large and small temples dedicated to Brahma, Vishnu and Shiva, the complex stands as a remarkable testament to the spread of Indian cultural influence across the region. Its magnificent stone reliefs depict scenes from the Ramayana, reflecting how Indian epics crossed the seas and became an integral part of Javanese culture. Even today, this shared heritage lives on through Indonesia’s internationally acclaimed Ramayana Ballet, staged against the backdrop of the temple. Yesterday, India and Indonesia announced a significant new initiative for the conservation and restoration of the Prambanan Temple Complex. Under this partnership, India, through the Archaeological Survey of India, will extend assistance for the conservation and restoration of selected structures within the UNESCO World Heritage Site, reaffirming the two countries’ shared commitment to preserving their common civilisational heritage. Over the centuries, earthquakes, volcanic eruptions and the passage of time damaged many of the structures. Years of careful conservation have restored much of the complex, making Prambanan one of the world’s finest surviving examples of classical Hindu temple architecture. Today’s visit by the Prime Minister, accompanied by the President of Indonesia, therefore carries special significance. It not only celebrates a shared cultural legacy spanning more than a millennium but also marks a renewed commitment to preserving this heritage for future generations. For All India Radio, from Yogyakarta, Indonesia, this is Utsav Parmar.",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T01:25:55+00:00",
-        "link": "https://newsonair.gov.in/us-launches-fresh-strikes-on-iran-after-attacks-in-strait-of-hormuz/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Bahrain discuss taking bilateral cooperation forward during meeting",
-        "summary": "External Affairs Minister Dr S Jaishankar has stated that the India &#8211; Bahrain cooperation continues to deepen. Dr Jaishankar concluded his two day visit to Bahrain yesterday. During the visit, Dr Jaishankar had an audience with Bahrain&#8217;s King Hamad bin Isa Al Khalifa in the presence of Crown Prince and Prime Minister, Prince Salman bin […]",
-        "article": "External Affairs Minister Dr S Jaishankar has stated that the India &#8211; Bahrain cooperation continues to deepen. Dr Jaishankar concluded his two day visit to Bahrain yesterday. During the visit, Dr Jaishankar had an audience with Bahrain&#8217;s King Hamad bin Isa Al Khalifa in the presence of Crown Prince and Prime Minister, Prince Salman bin Hamad Al Khalifa. He also had a separate call on Deputy Prime Minister Shaikh Khalid bin Abdullah Al Khalifa. During these meetings, the External Affairs Minister conveyed the greetings of President Droupadi Murmu, Prime Minister Narendra Modi and reaffirmed India&#8217;s commitment to further deepening the longstanding and friendly bilateral partnership with Bahrain. He thanked the leadership of Bahrain for ensuring the safety, security and well-being of the Indian community in the Kingdom. Dr Jaishankar held bilateral talks with his counterpart, Dr. Abdullatif bin Rashid Al Zayani. The two Ministers exchanged views on regional and international developments of mutual interest. They reviewed India-Bahrain bilateral relations and discussed avenues for further strengthening cooperation across diverse sectors. The External Affairs Minister congratulated Bahrain on its role as a non-permanent member of the United Nations Security Council for 2026 to 2027. He also interacted with members of the Indian community in Bahrain. He commended their valuable contribution to the economic development and social fabric of Bahrain and appreciated their role in further strengthening the close people-to-people ties between the two countries. He also appreciated their views and suggestions on further enhancing the India-Bahrain partnership. The External Affairs Minister is currently on an eleven day trip to Qatar, Bahrain, Kuwait, Oman, New York and Brussels.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T00:30:47+00:00",
-        "link": "https://newsonair.gov.in/india-and-bahrain-discuss-taking-india-bahrain-bilateral-cooperation-forward-during-meeting/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/UAE-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Four stakeholder states of Narmada Project reach agreement regarding displacement and compensation",
-        "summary": "Madhya Pradesh, Gujarat, Rajasthan, and Maharashtra governments today reached an agreement on pending issues related to the Narmada Project in the presence of Union Home Minister Amit Shah. ⁠This resolved the decades-old dispute regarding the displacement of people from flood-affected areas and compensation for land in the Narmada River Project. Union Home Ministry said […]",
-        "article": "Madhya Pradesh, Gujarat, Rajasthan, and Maharashtra governments today reached an agreement on pending issues related to the Narmada Project in the presence of Union Home Minister Amit Shah. ⁠This resolved the decades-old dispute regarding the displacement of people from flood-affected areas and compensation for land in the Narmada River Project. Union Home Ministry said the Chief Ministers of all states involved in the agreement agreed to an amicable settlement of the dispute under the leadership and guidance of the Union Home Minister. ⁠ Recently, significant progress has been made in resolving long-standing water-sharing issues between states &#8211; whether it be the Kishau Dam project in Himachal Pradesh or the water dispute between Rajasthan and Haryana.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T15:53:52+00:00",
-        "link": "https://newsonair.gov.in/four-stakeholder-states-of-narmada-project-reach-agreement-regarding-displacement-and-compensation/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Sardar-1.jpg",
+        "pubDate": "2026-07-08T02:02:55+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-to-visit-prambanan-temple-with-indonesian-president/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/18.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "Textiles Ministry launches Handloom Hackathon 2026 aimed to strengthen India’s handloom sector",
+        "summary": "The Ministry of Textiles has launched a national innovation challenge &#8211; Handloom Hackathon 2026, aimed at harnessing technology, design, entrepreneurship and sustainable solutions to strengthen India’s handloom sector. The initiative is being organised as part of the celebrations of National Handloom Day 2026. Online registrations are open until 20th of this month. Students, innovators, […]",
+        "article": "The Ministry of Textiles has launched a national innovation challenge &#8211; Handloom Hackathon 2026, aimed at harnessing technology, design, entrepreneurship and sustainable solutions to strengthen India’s handloom sector. The initiative is being organised as part of the celebrations of National Handloom Day 2026. Online registrations are open until 20th of this month. Students, innovators, startups, researchers, designers, entrepreneurs and handloom practitioners can register and submit their ideas through www.youthideathon.in/handloom. The grand finale of the Hackathon will be held on 1st of August at the Foundation for Innovation and Technology Transfer (FITT), IIT Delhi, where shortlisted teams will present their solutions before an eminent jury. Speaking on the initiative, Development Commissioner (Handlooms), Ministry of Textiles Dr. M. Beena said that the Handloom Hackathon 2026 seeks to bring together the creativity of the country’s youth with the rich heritage of the handloom sector. She said, by providing a collaborative platform for weavers, designers, entrepreneurs and innovators, the initiative aims to generate practical and scalable solutions that address key challenges, enhance competitiveness and contribute to the sustainable growth of the handloom sector.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T07:28:38+00:00",
+        "link": "https://newsonair.gov.in/textiles-ministry-launches-handloom-hackathon-2026-aims-to-strengthen-indias-handloom-sector/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/a-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Parliamentary Affairs Minister Kiren Rijiju pays tribute to former PM Chandrashekhar on his death anniversary",
         "summary": "Parliamentary Affairs Minister Kiren Rijiju today paid tributes to former Prime Minister Chandrashekhar on his death anniversary. In a social media post, Mr Rijiju said that his unwavering dedication to social justice, democratic values, and the national interest constitutes an invaluable legacy in Indian politics. He said, Chandrashekhar&#8217;s ideas and the ideal of public service […]",
@@ -171,36 +182,49 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "PMO holds meeting to review impact of El Niño and preparedness measures",
-        "summary": "The Prime Minister’s Office (PMO) held a high level review meeting to review possible impact of El Niño on various sectors and preparedness measures. The meeting was held under the chairmanship of Principal Secretary to Prime Minister, Dr P.K. Mishra, at the Seva Theerth yesterday. Secretaries and senior officials of more than fifteen Ministries were […]",
-        "article": "The Prime Minister’s Office (PMO) held a high level review meeting to review possible impact of El Niño on various sectors and preparedness measures. The meeting was held under the chairmanship of Principal Secretary to Prime Minister, Dr P.K. Mishra, at the Seva Theerth yesterday. Secretaries and senior officials of more than fifteen Ministries were present at the meeting. Dr Mishra directed that the overall situation should be continuously monitored and the impact of the monsoon or delayed monsoon on vulnerable districts must be assessed in coordination with States so that remedial action can be taken up when necessary. He emphasised that ensuring adequate availability of drinking water in vulnerable districts must be a top priority and directed optimal reservoir water utilisation and judicious use of available water. During the meeting, officials of the India Meteorological Department presented the overall rainfall situation in June and July. The Director General of the Met Department updated on the status of monsoon coverage in the country and the possible impact of El Nino. He informed that, weak to moderate El Nino is expected in July and August. Secretary, Agriculture made a detailed presentation on the preparedness for possible impact of El Nino during the kharif season. He underlined that weekly meetings of Crop Weather Watch group along with States are being convened to enable timely decision making and contingency response. He noted that District Agriculture Contingency Plans have been updated for 262 vulnerable districts and campaigns for Pradhan Mantri Fasal Bima Yojna and Kisan Credit Card coverage in vulnerable states have also been initiated. &nbsp; During the meeting, the Department of Animal Husbandry and Dairying was asked to assess the availability of dry fodder, green fodder and cattle feed, at both macro and micro level. Department of Drinking Water and Sanitation informed that they are continuously monitoring and the situation as on date is stable. The Department of Water Resources shared the position of ground water and reservoir status in the country. Department of Health and Family Welfare have also put in place advisories for heat waves, high humidity and dengue outbreaks. Effective communication of alerts and advisories will also be ensured till the field level. &nbsp; Further, the Department of Consumer Affairs and Fertilizer were suggested to constantly monitor both macro and micro availability of essential commodities and fertilizers. Department of Rural Development briefed on the works that commenced under Viksit Bharat- Guarantee for Rozgar and Ajeevika Mission from the 1st of this month. Apart from that, the Department of Agricultural Research and Education shared the spread of climate resilient seed varieties, while the Department of Power shared the status of generation and availability.",
+        "title": "PM Modi becomes first Indian Prime Minister to address Indonesian Parliament",
+        "summary": "Prime Minister Narendra Modi has become the first Indian Prime Minister to address the Parliament of Indonesia. Addressing Indonesian lawmakers in Jakarta, Mr Modi called for a new era in bilateral relations anchored in shared civilisational heritage, democratic values and a common vision for the future. Describing India as the “Mother of Democracy,” the […]",
+        "article": "Prime Minister Narendra Modi has become the first Indian Prime Minister to address the Parliament of Indonesia. Addressing Indonesian lawmakers in Jakarta, Mr Modi called for a new era in bilateral relations anchored in shared civilisational heritage, democratic values and a common vision for the future. Describing India as the “Mother of Democracy,” the Prime Minister said New Delhi is committed to strengthening democratic linkages with Indonesia. He said, the two countries are natural and trusted partners bound by centuries of shared history, maritime connections and cultural exchanges. Recalling over 2,000 years of civilisational engagement across the Indian Ocean, PM Modi said the exchange of ideas, trade, culture and faith had laid the foundation for the enduring relationship between the two nations. He also highlighted the common ideals of “Vasudhaiva Kutumbakam” (The World is One Family) and Indonesia’s national motto, “Bhinneka Tunggal Ika” (Unity in Diversity), saying these values continue to guide the India-Indonesia partnership. The Prime Minister noted that shared historical experiences, common developmental challenges and the aspirations of their people have brought India and Indonesia closer as strategic partners. Highlighting India’s development journey and the synergies between the vision of Viksit Bharat 2047 and Golden Indonesia 2045 (Indonesia Emas 2045), PM Modi called for deeper collaboration in trade, investment, connectivity, food and energy security, Digital Public Infrastructure and emerging technologies. He also reaffirmed India’s commitment to working closely with Indonesia to strengthen the voice of the Global South and promote a free, open, inclusive and rules-based Indo-Pacific.",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T02:00:47+00:00",
-        "link": "https://newsonair.gov.in/pmo-holds-meeting-to-review-impact-of-el-nino-and-preparedness-measures/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PMO-holds-meeting-to-review-impact-of-El-Nino-and-preparedness-measures.jpg",
+        "pubDate": "2026-07-08T02:05:57+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-becomes-first-indian-prime-minister-to-address-indonesian-parliament/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-becomes-first-Indian-Prime-Minister-to-address-Indonesian-Parliament.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "India and Bahrain discuss taking bilateral cooperation forward during meeting",
-        "summary": "External Affairs Minister Dr S Jaishankar has stated that the India &#8211; Bahrain cooperation continues to deepen. Dr Jaishankar concluded his two day visit to Bahrain yesterday. During the visit, Dr Jaishankar had an audience with Bahrain&#8217;s King Hamad bin Isa Al Khalifa in the presence of Crown Prince and Prime Minister, Prince Salman bin […]",
-        "article": "External Affairs Minister Dr S Jaishankar has stated that the India &#8211; Bahrain cooperation continues to deepen. Dr Jaishankar concluded his two day visit to Bahrain yesterday. During the visit, Dr Jaishankar had an audience with Bahrain&#8217;s King Hamad bin Isa Al Khalifa in the presence of Crown Prince and Prime Minister, Prince Salman bin Hamad Al Khalifa. He also had a separate call on Deputy Prime Minister Shaikh Khalid bin Abdullah Al Khalifa. During these meetings, the External Affairs Minister conveyed the greetings of President Droupadi Murmu, Prime Minister Narendra Modi and reaffirmed India&#8217;s commitment to further deepening the longstanding and friendly bilateral partnership with Bahrain. He thanked the leadership of Bahrain for ensuring the safety, security and well-being of the Indian community in the Kingdom. Dr Jaishankar held bilateral talks with his counterpart, Dr. Abdullatif bin Rashid Al Zayani. The two Ministers exchanged views on regional and international developments of mutual interest. They reviewed India-Bahrain bilateral relations and discussed avenues for further strengthening cooperation across diverse sectors. The External Affairs Minister congratulated Bahrain on its role as a non-permanent member of the United Nations Security Council for 2026 to 2027. He also interacted with members of the Indian community in Bahrain. He commended their valuable contribution to the economic development and social fabric of Bahrain and appreciated their role in further strengthening the close people-to-people ties between the two countries. He also appreciated their views and suggestions on further enhancing the India-Bahrain partnership. The External Affairs Minister is currently on an eleven day trip to Qatar, Bahrain, Kuwait, Oman, New York and Brussels.",
+        "title": "PM Modi to visit Prambanan Temple with Indonesian President",
+        "summary": "Prime Minister Narendra Modi will visit the iconic Prambanan Temple in Yogyakarta along with Indonesian President today. The visit underscores the deep cultural and civilisational ties that have connected India and Indonesia for over a thousand years. Built in the 9th century, Prambanan is Indonesia’s largest Hindu temple complex and one of Southeast Asia’s […]",
+        "article": "Prime Minister Narendra Modi will visit the iconic Prambanan Temple in Yogyakarta along with Indonesian President today. The visit underscores the deep cultural and civilisational ties that have connected India and Indonesia for over a thousand years. Built in the 9th century, Prambanan is Indonesia’s largest Hindu temple complex and one of Southeast Asia’s finest architectural masterpieces. Originally comprising 240 large and small temples dedicated to Brahma, Vishnu and Shiva, the complex stands as a remarkable testament to the spread of Indian cultural influence across the region. Its magnificent stone reliefs depict scenes from the Ramayana, reflecting how Indian epics crossed the seas and became an integral part of Javanese culture. Even today, this shared heritage lives on through Indonesia’s internationally acclaimed Ramayana Ballet, staged against the backdrop of the temple. Yesterday, India and Indonesia announced a significant new initiative for the conservation and restoration of the Prambanan Temple Complex. Under this partnership, India, through the Archaeological Survey of India, will extend assistance for the conservation and restoration of selected structures within the UNESCO World Heritage Site, reaffirming the two countries’ shared commitment to preserving their common civilisational heritage. Over the centuries, earthquakes, volcanic eruptions and the passage of time damaged many of the structures. Years of careful conservation have restored much of the complex, making Prambanan one of the world’s finest surviving examples of classical Hindu temple architecture. Today’s visit by the Prime Minister, accompanied by the President of Indonesia, therefore carries special significance. It not only celebrates a shared cultural legacy spanning more than a millennium but also marks a renewed commitment to preserving this heritage for future generations. For All India Radio, from Yogyakarta, Indonesia, this is Utsav Parmar.",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T00:30:47+00:00",
-        "link": "https://newsonair.gov.in/india-and-bahrain-discuss-taking-india-bahrain-bilateral-cooperation-forward-during-meeting/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/UAE-1.jpg",
+        "pubDate": "2026-07-08T02:02:55+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-to-visit-prambanan-temple-with-indonesian-president/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/18.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Four stakeholder states of Narmada Project reach agreement regarding displacement and compensation",
-        "summary": "Madhya Pradesh, Gujarat, Rajasthan, and Maharashtra governments today reached an agreement on pending issues related to the Narmada Project in the presence of Union Home Minister Amit Shah. ⁠This resolved the decades-old dispute regarding the displacement of people from flood-affected areas and compensation for land in the Narmada River Project. Union Home Ministry said […]",
-        "article": "Madhya Pradesh, Gujarat, Rajasthan, and Maharashtra governments today reached an agreement on pending issues related to the Narmada Project in the presence of Union Home Minister Amit Shah. ⁠This resolved the decades-old dispute regarding the displacement of people from flood-affected areas and compensation for land in the Narmada River Project. Union Home Ministry said the Chief Ministers of all states involved in the agreement agreed to an amicable settlement of the dispute under the leadership and guidance of the Union Home Minister. ⁠ Recently, significant progress has been made in resolving long-standing water-sharing issues between states &#8211; whether it be the Kishau Dam project in Himachal Pradesh or the water dispute between Rajasthan and Haryana.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T15:53:52+00:00",
-        "link": "https://newsonair.gov.in/four-stakeholder-states-of-narmada-project-reach-agreement-regarding-displacement-and-compensation/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Sardar-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "India hosts AITIGA Joint Committee meeting to advance the review of the ASEAN-India trade pact",
+        "summary": "India is hosting the 13th ASEAN-India Trade in Goods Agreement (AITIGA) Joint Committee meeting in New Delhi to advance the review of the ASEAN-India trade pact. The Joint Committee meeting and its related meetings are being held in a hybrid format till 10th of this month. The Ministry of Commerce and Industry said that […]",
+        "article": "India is hosting the 13th ASEAN-India Trade in Goods Agreement (AITIGA) Joint Committee meeting in New Delhi to advance the review of the ASEAN-India trade pact. The Joint Committee meeting and its related meetings are being held in a hybrid format till 10th of this month. The Ministry of Commerce and Industry said that the Joint Committee provided strategic guidance to the Sub-Committees in their respective areas of work and urged them to expedite the finalisation of the outstanding chapters under the AITIGA Review. The Sub-Committees were assigned time-bound deliverables and encouraged to work closely to achieve tangible outcomes within the agreed timelines. The Ministry further informed that meetings of three of the eight Sub-Committees under the AITIGA Joint Committee are currently being held on the sidelines of the 13th Joint Committee meeting. These include the Sub-Committee on Customs Procedures and Trade Facilitation (SC-CPTF), the Sub-Committee on National Treatment and Market Access (SC-NTMA), and the Sub-Committee on Rules of Origin (SC-ROO). The meetings serve as an important platform to deepen cooperation, strengthen mutual understanding, and advance constructive dialogue between India and ASEAN. The 13th AITIGA Joint Committee meeting, held yesterday, was co-chaired by Additional Secretary, Department of Commerce, Nitin Kumar Yadav, and Deputy Secretary General (Trade), Ministry of Investment, Trade and Industry, Malaysia Mastura Ahmad Mustafa. Delegations from all ASEAN Member States-Brunei, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, the Philippines, Singapore, Thailand and Viet Nam-participated in the meeting.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T07:39:40+00:00",
+        "link": "https://newsonair.gov.in/india-hosts-aitiga-joint-committee-meeting-to-advance-the-review-of-the-asean-india-trade-pact/",
+        "post_id": 1725531,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi says blessed to connect with Lord Shiva at sacred sites, addresses gathering at Prambanan Temple in Indonesia",
+        "summary": "Prime Minister Narendra Modi today said that he considers it his good fortune to have had repeated opportunities to connect with Lord Shiva at various sacred sites. &#160; Addressing the Prambanan Temple in Yogyakarta, Indonesia, the Prime Minister said he was born in Vadnagar, home to Hatkeshwar Mahadev, and that the Somnath Jyotirlinga in Gujarat, […]",
+        "article": "Prime Minister Narendra Modi today said that he considers it his good fortune to have had repeated opportunities to connect with Lord Shiva at various sacred sites. &nbsp; Addressing the Prambanan Temple in Yogyakarta, Indonesia, the Prime Minister said he was born in Vadnagar, home to Hatkeshwar Mahadev, and that the Somnath Jyotirlinga in Gujarat, the first among the twelve Jyotirlingas, holds special significance, with him having direct responsibility for its development. Mr. Modi also noted that his parliamentary constituency, Kashi (Varanasi), is home to Kashi Vishwanath Mahadev, whose blessings, he said, have always guided him. Referring to the redevelopment of the Kedarnath Temple and the Mahakaleshwar Temple in Ujjain, the Prime Minister said he had the privilege of contributing to these projects. He added that his visit to the Prambanan Temple had also given him the opportunity to initiate renovation efforts, describing it as a matter of great fortune.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T07:22:34+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-says-blessed-to-connect-with-lord-shiva-at-sacred-sites-addresses-gathering-at-prambanan-temple-in-indonesia/",
+        "post_id": 1725529,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -223,30 +247,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T02:08:43+00:00",
         "link": "https://newsonair.gov.in/india-indonesia-reaffirm-zero-tolerance-against-terrorism/",
         "post_id": 1724997,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi becomes first Indian Prime Minister to address Indonesian Parliament",
-        "summary": "Prime Minister Narendra Modi has become the first Indian Prime Minister to address the Parliament of Indonesia. Addressing Indonesian lawmakers in Jakarta, Mr Modi called for a new era in bilateral relations anchored in shared civilisational heritage, democratic values and a common vision for the future. Describing India as the “Mother of Democracy,” the […]",
-        "article": "Prime Minister Narendra Modi has become the first Indian Prime Minister to address the Parliament of Indonesia. Addressing Indonesian lawmakers in Jakarta, Mr Modi called for a new era in bilateral relations anchored in shared civilisational heritage, democratic values and a common vision for the future. Describing India as the “Mother of Democracy,” the Prime Minister said New Delhi is committed to strengthening democratic linkages with Indonesia. He said, the two countries are natural and trusted partners bound by centuries of shared history, maritime connections and cultural exchanges. Recalling over 2,000 years of civilisational engagement across the Indian Ocean, PM Modi said the exchange of ideas, trade, culture and faith had laid the foundation for the enduring relationship between the two nations. He also highlighted the common ideals of “Vasudhaiva Kutumbakam” (The World is One Family) and Indonesia’s national motto, “Bhinneka Tunggal Ika” (Unity in Diversity), saying these values continue to guide the India-Indonesia partnership. The Prime Minister noted that shared historical experiences, common developmental challenges and the aspirations of their people have brought India and Indonesia closer as strategic partners. Highlighting India’s development journey and the synergies between the vision of Viksit Bharat 2047 and Golden Indonesia 2045 (Indonesia Emas 2045), PM Modi called for deeper collaboration in trade, investment, connectivity, food and energy security, Digital Public Infrastructure and emerging technologies. He also reaffirmed India’s commitment to working closely with Indonesia to strengthen the voice of the Global South and promote a free, open, inclusive and rules-based Indo-Pacific.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T02:05:57+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-becomes-first-indian-prime-minister-to-address-indonesian-parliament/",
-        "post_id": 1724998,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi to visit Prambanan Temple with Indonesian President",
-        "summary": "Prime Minister Narendra Modi will visit the iconic Prambanan Temple in Yogyakarta along with Indonesian President today. The visit underscores the deep cultural and civilisational ties that have connected India and Indonesia for over a thousand years. Built in the 9th century, Prambanan is Indonesia’s largest Hindu temple complex and one of Southeast Asia’s […]",
-        "article": "Prime Minister Narendra Modi will visit the iconic Prambanan Temple in Yogyakarta along with Indonesian President today. The visit underscores the deep cultural and civilisational ties that have connected India and Indonesia for over a thousand years. Built in the 9th century, Prambanan is Indonesia’s largest Hindu temple complex and one of Southeast Asia’s finest architectural masterpieces. Originally comprising 240 large and small temples dedicated to Brahma, Vishnu and Shiva, the complex stands as a remarkable testament to the spread of Indian cultural influence across the region. Its magnificent stone reliefs depict scenes from the Ramayana, reflecting how Indian epics crossed the seas and became an integral part of Javanese culture. Even today, this shared heritage lives on through Indonesia’s internationally acclaimed Ramayana Ballet, staged against the backdrop of the temple. Yesterday, India and Indonesia announced a significant new initiative for the conservation and restoration of the Prambanan Temple Complex. Under this partnership, India, through the Archaeological Survey of India, will extend assistance for the conservation and restoration of selected structures within the UNESCO World Heritage Site, reaffirming the two countries’ shared commitment to preserving their common civilisational heritage. Over the centuries, earthquakes, volcanic eruptions and the passage of time damaged many of the structures. Years of careful conservation have restored much of the complex, making Prambanan one of the world’s finest surviving examples of classical Hindu temple architecture. Today’s visit by the Prime Minister, accompanied by the President of Indonesia, therefore carries special significance. It not only celebrates a shared cultural legacy spanning more than a millennium but also marks a renewed commitment to preserving this heritage for future generations. For All India Radio, from Yogyakarta, Indonesia, this is Utsav Parmar.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T02:02:55+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-to-visit-prambanan-temple-with-indonesian-president/",
-        "post_id": 1725004,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -254,6 +254,17 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "Textiles Ministry launches Handloom Hackathon 2026 aimed to strengthen India’s handloom sector",
+        "summary": "The Ministry of Textiles has launched a national innovation challenge &#8211; Handloom Hackathon 2026, aimed at harnessing technology, design, entrepreneurship and sustainable solutions to strengthen India’s handloom sector. The initiative is being organised as part of the celebrations of National Handloom Day 2026. Online registrations are open until 20th of this month. Students, innovators, […]",
+        "article": "The Ministry of Textiles has launched a national innovation challenge &#8211; Handloom Hackathon 2026, aimed at harnessing technology, design, entrepreneurship and sustainable solutions to strengthen India’s handloom sector. The initiative is being organised as part of the celebrations of National Handloom Day 2026. Online registrations are open until 20th of this month. Students, innovators, startups, researchers, designers, entrepreneurs and handloom practitioners can register and submit their ideas through www.youthideathon.in/handloom. The grand finale of the Hackathon will be held on 1st of August at the Foundation for Innovation and Technology Transfer (FITT), IIT Delhi, where shortlisted teams will present their solutions before an eminent jury. Speaking on the initiative, Development Commissioner (Handlooms), Ministry of Textiles Dr. M. Beena said that the Handloom Hackathon 2026 seeks to bring together the creativity of the country’s youth with the rich heritage of the handloom sector. She said, by providing a collaborative platform for weavers, designers, entrepreneurs and innovators, the initiative aims to generate practical and scalable solutions that address key challenges, enhance competitiveness and contribute to the sustainable growth of the handloom sector.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T07:28:38+00:00",
+        "link": "https://newsonair.gov.in/textiles-ministry-launches-handloom-hackathon-2026-aims-to-strengthen-indias-handloom-sector/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/a-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Parliamentary Affairs Minister Kiren Rijiju pays tribute to former PM Chandrashekhar on his death anniversary",
         "summary": "Parliamentary Affairs Minister Kiren Rijiju today paid tributes to former Prime Minister Chandrashekhar on his death anniversary. In a social media post, Mr Rijiju said that his unwavering dedication to social justice, democratic values, and the national interest constitutes an invaluable legacy in Indian politics. He said, Chandrashekhar&#8217;s ideas and the ideal of public service […]",
         "article": "Parliamentary Affairs Minister Kiren Rijiju today paid tributes to former Prime Minister Chandrashekhar on his death anniversary. In a social media post, Mr Rijiju said that his unwavering dedication to social justice, democratic values, and the national interest constitutes an invaluable legacy in Indian politics. He said, Chandrashekhar&#8217;s ideas and the ideal of public service continue to inspire everyone towards nation-building.",
@@ -287,36 +298,49 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "PMO holds meeting to review impact of El Niño and preparedness measures",
-        "summary": "The Prime Minister’s Office (PMO) held a high level review meeting to review possible impact of El Niño on various sectors and preparedness measures. The meeting was held under the chairmanship of Principal Secretary to Prime Minister, Dr P.K. Mishra, at the Seva Theerth yesterday. Secretaries and senior officials of more than fifteen Ministries were […]",
-        "article": "The Prime Minister’s Office (PMO) held a high level review meeting to review possible impact of El Niño on various sectors and preparedness measures. The meeting was held under the chairmanship of Principal Secretary to Prime Minister, Dr P.K. Mishra, at the Seva Theerth yesterday. Secretaries and senior officials of more than fifteen Ministries were present at the meeting. Dr Mishra directed that the overall situation should be continuously monitored and the impact of the monsoon or delayed monsoon on vulnerable districts must be assessed in coordination with States so that remedial action can be taken up when necessary. He emphasised that ensuring adequate availability of drinking water in vulnerable districts must be a top priority and directed optimal reservoir water utilisation and judicious use of available water. During the meeting, officials of the India Meteorological Department presented the overall rainfall situation in June and July. The Director General of the Met Department updated on the status of monsoon coverage in the country and the possible impact of El Nino. He informed that, weak to moderate El Nino is expected in July and August. Secretary, Agriculture made a detailed presentation on the preparedness for possible impact of El Nino during the kharif season. He underlined that weekly meetings of Crop Weather Watch group along with States are being convened to enable timely decision making and contingency response. He noted that District Agriculture Contingency Plans have been updated for 262 vulnerable districts and campaigns for Pradhan Mantri Fasal Bima Yojna and Kisan Credit Card coverage in vulnerable states have also been initiated. &nbsp; During the meeting, the Department of Animal Husbandry and Dairying was asked to assess the availability of dry fodder, green fodder and cattle feed, at both macro and micro level. Department of Drinking Water and Sanitation informed that they are continuously monitoring and the situation as on date is stable. The Department of Water Resources shared the position of ground water and reservoir status in the country. Department of Health and Family Welfare have also put in place advisories for heat waves, high humidity and dengue outbreaks. Effective communication of alerts and advisories will also be ensured till the field level. &nbsp; Further, the Department of Consumer Affairs and Fertilizer were suggested to constantly monitor both macro and micro availability of essential commodities and fertilizers. Department of Rural Development briefed on the works that commenced under Viksit Bharat- Guarantee for Rozgar and Ajeevika Mission from the 1st of this month. Apart from that, the Department of Agricultural Research and Education shared the spread of climate resilient seed varieties, while the Department of Power shared the status of generation and availability.",
+        "title": "PM Modi becomes first Indian Prime Minister to address Indonesian Parliament",
+        "summary": "Prime Minister Narendra Modi has become the first Indian Prime Minister to address the Parliament of Indonesia. Addressing Indonesian lawmakers in Jakarta, Mr Modi called for a new era in bilateral relations anchored in shared civilisational heritage, democratic values and a common vision for the future. Describing India as the “Mother of Democracy,” the […]",
+        "article": "Prime Minister Narendra Modi has become the first Indian Prime Minister to address the Parliament of Indonesia. Addressing Indonesian lawmakers in Jakarta, Mr Modi called for a new era in bilateral relations anchored in shared civilisational heritage, democratic values and a common vision for the future. Describing India as the “Mother of Democracy,” the Prime Minister said New Delhi is committed to strengthening democratic linkages with Indonesia. He said, the two countries are natural and trusted partners bound by centuries of shared history, maritime connections and cultural exchanges. Recalling over 2,000 years of civilisational engagement across the Indian Ocean, PM Modi said the exchange of ideas, trade, culture and faith had laid the foundation for the enduring relationship between the two nations. He also highlighted the common ideals of “Vasudhaiva Kutumbakam” (The World is One Family) and Indonesia’s national motto, “Bhinneka Tunggal Ika” (Unity in Diversity), saying these values continue to guide the India-Indonesia partnership. The Prime Minister noted that shared historical experiences, common developmental challenges and the aspirations of their people have brought India and Indonesia closer as strategic partners. Highlighting India’s development journey and the synergies between the vision of Viksit Bharat 2047 and Golden Indonesia 2045 (Indonesia Emas 2045), PM Modi called for deeper collaboration in trade, investment, connectivity, food and energy security, Digital Public Infrastructure and emerging technologies. He also reaffirmed India’s commitment to working closely with Indonesia to strengthen the voice of the Global South and promote a free, open, inclusive and rules-based Indo-Pacific.",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T02:00:47+00:00",
-        "link": "https://newsonair.gov.in/pmo-holds-meeting-to-review-impact-of-el-nino-and-preparedness-measures/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PMO-holds-meeting-to-review-impact-of-El-Nino-and-preparedness-measures.jpg",
+        "pubDate": "2026-07-08T02:05:57+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-becomes-first-indian-prime-minister-to-address-indonesian-parliament/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-becomes-first-Indian-Prime-Minister-to-address-Indonesian-Parliament.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "India and Bahrain discuss taking bilateral cooperation forward during meeting",
-        "summary": "External Affairs Minister Dr S Jaishankar has stated that the India &#8211; Bahrain cooperation continues to deepen. Dr Jaishankar concluded his two day visit to Bahrain yesterday. During the visit, Dr Jaishankar had an audience with Bahrain&#8217;s King Hamad bin Isa Al Khalifa in the presence of Crown Prince and Prime Minister, Prince Salman bin […]",
-        "article": "External Affairs Minister Dr S Jaishankar has stated that the India &#8211; Bahrain cooperation continues to deepen. Dr Jaishankar concluded his two day visit to Bahrain yesterday. During the visit, Dr Jaishankar had an audience with Bahrain&#8217;s King Hamad bin Isa Al Khalifa in the presence of Crown Prince and Prime Minister, Prince Salman bin Hamad Al Khalifa. He also had a separate call on Deputy Prime Minister Shaikh Khalid bin Abdullah Al Khalifa. During these meetings, the External Affairs Minister conveyed the greetings of President Droupadi Murmu, Prime Minister Narendra Modi and reaffirmed India&#8217;s commitment to further deepening the longstanding and friendly bilateral partnership with Bahrain. He thanked the leadership of Bahrain for ensuring the safety, security and well-being of the Indian community in the Kingdom. Dr Jaishankar held bilateral talks with his counterpart, Dr. Abdullatif bin Rashid Al Zayani. The two Ministers exchanged views on regional and international developments of mutual interest. They reviewed India-Bahrain bilateral relations and discussed avenues for further strengthening cooperation across diverse sectors. The External Affairs Minister congratulated Bahrain on its role as a non-permanent member of the United Nations Security Council for 2026 to 2027. He also interacted with members of the Indian community in Bahrain. He commended their valuable contribution to the economic development and social fabric of Bahrain and appreciated their role in further strengthening the close people-to-people ties between the two countries. He also appreciated their views and suggestions on further enhancing the India-Bahrain partnership. The External Affairs Minister is currently on an eleven day trip to Qatar, Bahrain, Kuwait, Oman, New York and Brussels.",
+        "title": "PM Modi to visit Prambanan Temple with Indonesian President",
+        "summary": "Prime Minister Narendra Modi will visit the iconic Prambanan Temple in Yogyakarta along with Indonesian President today. The visit underscores the deep cultural and civilisational ties that have connected India and Indonesia for over a thousand years. Built in the 9th century, Prambanan is Indonesia’s largest Hindu temple complex and one of Southeast Asia’s […]",
+        "article": "Prime Minister Narendra Modi will visit the iconic Prambanan Temple in Yogyakarta along with Indonesian President today. The visit underscores the deep cultural and civilisational ties that have connected India and Indonesia for over a thousand years. Built in the 9th century, Prambanan is Indonesia’s largest Hindu temple complex and one of Southeast Asia’s finest architectural masterpieces. Originally comprising 240 large and small temples dedicated to Brahma, Vishnu and Shiva, the complex stands as a remarkable testament to the spread of Indian cultural influence across the region. Its magnificent stone reliefs depict scenes from the Ramayana, reflecting how Indian epics crossed the seas and became an integral part of Javanese culture. Even today, this shared heritage lives on through Indonesia’s internationally acclaimed Ramayana Ballet, staged against the backdrop of the temple. Yesterday, India and Indonesia announced a significant new initiative for the conservation and restoration of the Prambanan Temple Complex. Under this partnership, India, through the Archaeological Survey of India, will extend assistance for the conservation and restoration of selected structures within the UNESCO World Heritage Site, reaffirming the two countries’ shared commitment to preserving their common civilisational heritage. Over the centuries, earthquakes, volcanic eruptions and the passage of time damaged many of the structures. Years of careful conservation have restored much of the complex, making Prambanan one of the world’s finest surviving examples of classical Hindu temple architecture. Today’s visit by the Prime Minister, accompanied by the President of Indonesia, therefore carries special significance. It not only celebrates a shared cultural legacy spanning more than a millennium but also marks a renewed commitment to preserving this heritage for future generations. For All India Radio, from Yogyakarta, Indonesia, this is Utsav Parmar.",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T00:30:47+00:00",
-        "link": "https://newsonair.gov.in/india-and-bahrain-discuss-taking-india-bahrain-bilateral-cooperation-forward-during-meeting/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/UAE-1.jpg",
+        "pubDate": "2026-07-08T02:02:55+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-to-visit-prambanan-temple-with-indonesian-president/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/18.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Four stakeholder states of Narmada Project reach agreement regarding displacement and compensation",
-        "summary": "Madhya Pradesh, Gujarat, Rajasthan, and Maharashtra governments today reached an agreement on pending issues related to the Narmada Project in the presence of Union Home Minister Amit Shah. ⁠This resolved the decades-old dispute regarding the displacement of people from flood-affected areas and compensation for land in the Narmada River Project. Union Home Ministry said […]",
-        "article": "Madhya Pradesh, Gujarat, Rajasthan, and Maharashtra governments today reached an agreement on pending issues related to the Narmada Project in the presence of Union Home Minister Amit Shah. ⁠This resolved the decades-old dispute regarding the displacement of people from flood-affected areas and compensation for land in the Narmada River Project. Union Home Ministry said the Chief Ministers of all states involved in the agreement agreed to an amicable settlement of the dispute under the leadership and guidance of the Union Home Minister. ⁠ Recently, significant progress has been made in resolving long-standing water-sharing issues between states &#8211; whether it be the Kishau Dam project in Himachal Pradesh or the water dispute between Rajasthan and Haryana.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T15:53:52+00:00",
-        "link": "https://newsonair.gov.in/four-stakeholder-states-of-narmada-project-reach-agreement-regarding-displacement-and-compensation/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Sardar-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "India hosts AITIGA Joint Committee meeting to advance the review of the ASEAN-India trade pact",
+        "summary": "India is hosting the 13th ASEAN-India Trade in Goods Agreement (AITIGA) Joint Committee meeting in New Delhi to advance the review of the ASEAN-India trade pact. The Joint Committee meeting and its related meetings are being held in a hybrid format till 10th of this month. The Ministry of Commerce and Industry said that […]",
+        "article": "India is hosting the 13th ASEAN-India Trade in Goods Agreement (AITIGA) Joint Committee meeting in New Delhi to advance the review of the ASEAN-India trade pact. The Joint Committee meeting and its related meetings are being held in a hybrid format till 10th of this month. The Ministry of Commerce and Industry said that the Joint Committee provided strategic guidance to the Sub-Committees in their respective areas of work and urged them to expedite the finalisation of the outstanding chapters under the AITIGA Review. The Sub-Committees were assigned time-bound deliverables and encouraged to work closely to achieve tangible outcomes within the agreed timelines. The Ministry further informed that meetings of three of the eight Sub-Committees under the AITIGA Joint Committee are currently being held on the sidelines of the 13th Joint Committee meeting. These include the Sub-Committee on Customs Procedures and Trade Facilitation (SC-CPTF), the Sub-Committee on National Treatment and Market Access (SC-NTMA), and the Sub-Committee on Rules of Origin (SC-ROO). The meetings serve as an important platform to deepen cooperation, strengthen mutual understanding, and advance constructive dialogue between India and ASEAN. The 13th AITIGA Joint Committee meeting, held yesterday, was co-chaired by Additional Secretary, Department of Commerce, Nitin Kumar Yadav, and Deputy Secretary General (Trade), Ministry of Investment, Trade and Industry, Malaysia Mastura Ahmad Mustafa. Delegations from all ASEAN Member States-Brunei, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, the Philippines, Singapore, Thailand and Viet Nam-participated in the meeting.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T07:39:40+00:00",
+        "link": "https://newsonair.gov.in/india-hosts-aitiga-joint-committee-meeting-to-advance-the-review-of-the-asean-india-trade-pact/",
+        "post_id": 1725531,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi says blessed to connect with Lord Shiva at sacred sites, addresses gathering at Prambanan Temple in Indonesia",
+        "summary": "Prime Minister Narendra Modi today said that he considers it his good fortune to have had repeated opportunities to connect with Lord Shiva at various sacred sites. &#160; Addressing the Prambanan Temple in Yogyakarta, Indonesia, the Prime Minister said he was born in Vadnagar, home to Hatkeshwar Mahadev, and that the Somnath Jyotirlinga in Gujarat, […]",
+        "article": "Prime Minister Narendra Modi today said that he considers it his good fortune to have had repeated opportunities to connect with Lord Shiva at various sacred sites. &nbsp; Addressing the Prambanan Temple in Yogyakarta, Indonesia, the Prime Minister said he was born in Vadnagar, home to Hatkeshwar Mahadev, and that the Somnath Jyotirlinga in Gujarat, the first among the twelve Jyotirlingas, holds special significance, with him having direct responsibility for its development. Mr. Modi also noted that his parliamentary constituency, Kashi (Varanasi), is home to Kashi Vishwanath Mahadev, whose blessings, he said, have always guided him. Referring to the redevelopment of the Kedarnath Temple and the Mahakaleshwar Temple in Ujjain, the Prime Minister said he had the privilege of contributing to these projects. He added that his visit to the Prambanan Temple had also given him the opportunity to initiate renovation efforts, describing it as a matter of great fortune.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T07:22:34+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-says-blessed-to-connect-with-lord-shiva-at-sacred-sites-addresses-gathering-at-prambanan-temple-in-indonesia/",
+        "post_id": 1725529,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -339,30 +363,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T02:08:43+00:00",
         "link": "https://newsonair.gov.in/india-indonesia-reaffirm-zero-tolerance-against-terrorism/",
         "post_id": 1724997,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi becomes first Indian Prime Minister to address Indonesian Parliament",
-        "summary": "Prime Minister Narendra Modi has become the first Indian Prime Minister to address the Parliament of Indonesia. Addressing Indonesian lawmakers in Jakarta, Mr Modi called for a new era in bilateral relations anchored in shared civilisational heritage, democratic values and a common vision for the future. Describing India as the “Mother of Democracy,” the […]",
-        "article": "Prime Minister Narendra Modi has become the first Indian Prime Minister to address the Parliament of Indonesia. Addressing Indonesian lawmakers in Jakarta, Mr Modi called for a new era in bilateral relations anchored in shared civilisational heritage, democratic values and a common vision for the future. Describing India as the “Mother of Democracy,” the Prime Minister said New Delhi is committed to strengthening democratic linkages with Indonesia. He said, the two countries are natural and trusted partners bound by centuries of shared history, maritime connections and cultural exchanges. Recalling over 2,000 years of civilisational engagement across the Indian Ocean, PM Modi said the exchange of ideas, trade, culture and faith had laid the foundation for the enduring relationship between the two nations. He also highlighted the common ideals of “Vasudhaiva Kutumbakam” (The World is One Family) and Indonesia’s national motto, “Bhinneka Tunggal Ika” (Unity in Diversity), saying these values continue to guide the India-Indonesia partnership. The Prime Minister noted that shared historical experiences, common developmental challenges and the aspirations of their people have brought India and Indonesia closer as strategic partners. Highlighting India’s development journey and the synergies between the vision of Viksit Bharat 2047 and Golden Indonesia 2045 (Indonesia Emas 2045), PM Modi called for deeper collaboration in trade, investment, connectivity, food and energy security, Digital Public Infrastructure and emerging technologies. He also reaffirmed India’s commitment to working closely with Indonesia to strengthen the voice of the Global South and promote a free, open, inclusive and rules-based Indo-Pacific.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T02:05:57+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-becomes-first-indian-prime-minister-to-address-indonesian-parliament/",
-        "post_id": 1724998,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi to visit Prambanan Temple with Indonesian President",
-        "summary": "Prime Minister Narendra Modi will visit the iconic Prambanan Temple in Yogyakarta along with Indonesian President today. The visit underscores the deep cultural and civilisational ties that have connected India and Indonesia for over a thousand years. Built in the 9th century, Prambanan is Indonesia’s largest Hindu temple complex and one of Southeast Asia’s […]",
-        "article": "Prime Minister Narendra Modi will visit the iconic Prambanan Temple in Yogyakarta along with Indonesian President today. The visit underscores the deep cultural and civilisational ties that have connected India and Indonesia for over a thousand years. Built in the 9th century, Prambanan is Indonesia’s largest Hindu temple complex and one of Southeast Asia’s finest architectural masterpieces. Originally comprising 240 large and small temples dedicated to Brahma, Vishnu and Shiva, the complex stands as a remarkable testament to the spread of Indian cultural influence across the region. Its magnificent stone reliefs depict scenes from the Ramayana, reflecting how Indian epics crossed the seas and became an integral part of Javanese culture. Even today, this shared heritage lives on through Indonesia’s internationally acclaimed Ramayana Ballet, staged against the backdrop of the temple. Yesterday, India and Indonesia announced a significant new initiative for the conservation and restoration of the Prambanan Temple Complex. Under this partnership, India, through the Archaeological Survey of India, will extend assistance for the conservation and restoration of selected structures within the UNESCO World Heritage Site, reaffirming the two countries’ shared commitment to preserving their common civilisational heritage. Over the centuries, earthquakes, volcanic eruptions and the passage of time damaged many of the structures. Years of careful conservation have restored much of the complex, making Prambanan one of the world’s finest surviving examples of classical Hindu temple architecture. Today’s visit by the Prime Minister, accompanied by the President of Indonesia, therefore carries special significance. It not only celebrates a shared cultural legacy spanning more than a millennium but also marks a renewed commitment to preserving this heritage for future generations. For All India Radio, from Yogyakarta, Indonesia, this is Utsav Parmar.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T02:02:55+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-to-visit-prambanan-temple-with-indonesian-president/",
-        "post_id": 1725004,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -370,6 +370,17 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "Textiles Ministry launches Handloom Hackathon 2026 aimed to strengthen India’s handloom sector",
+        "summary": "The Ministry of Textiles has launched a national innovation challenge &#8211; Handloom Hackathon 2026, aimed at harnessing technology, design, entrepreneurship and sustainable solutions to strengthen India’s handloom sector. The initiative is being organised as part of the celebrations of National Handloom Day 2026. Online registrations are open until 20th of this month. Students, innovators, […]",
+        "article": "The Ministry of Textiles has launched a national innovation challenge &#8211; Handloom Hackathon 2026, aimed at harnessing technology, design, entrepreneurship and sustainable solutions to strengthen India’s handloom sector. The initiative is being organised as part of the celebrations of National Handloom Day 2026. Online registrations are open until 20th of this month. Students, innovators, startups, researchers, designers, entrepreneurs and handloom practitioners can register and submit their ideas through www.youthideathon.in/handloom. The grand finale of the Hackathon will be held on 1st of August at the Foundation for Innovation and Technology Transfer (FITT), IIT Delhi, where shortlisted teams will present their solutions before an eminent jury. Speaking on the initiative, Development Commissioner (Handlooms), Ministry of Textiles Dr. M. Beena said that the Handloom Hackathon 2026 seeks to bring together the creativity of the country’s youth with the rich heritage of the handloom sector. She said, by providing a collaborative platform for weavers, designers, entrepreneurs and innovators, the initiative aims to generate practical and scalable solutions that address key challenges, enhance competitiveness and contribute to the sustainable growth of the handloom sector.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T07:28:38+00:00",
+        "link": "https://newsonair.gov.in/textiles-ministry-launches-handloom-hackathon-2026-aims-to-strengthen-indias-handloom-sector/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/a-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Parliamentary Affairs Minister Kiren Rijiju pays tribute to former PM Chandrashekhar on his death anniversary",
         "summary": "Parliamentary Affairs Minister Kiren Rijiju today paid tributes to former Prime Minister Chandrashekhar on his death anniversary. In a social media post, Mr Rijiju said that his unwavering dedication to social justice, democratic values, and the national interest constitutes an invaluable legacy in Indian politics. He said, Chandrashekhar&#8217;s ideas and the ideal of public service […]",
         "article": "Parliamentary Affairs Minister Kiren Rijiju today paid tributes to former Prime Minister Chandrashekhar on his death anniversary. In a social media post, Mr Rijiju said that his unwavering dedication to social justice, democratic values, and the national interest constitutes an invaluable legacy in Indian politics. He said, Chandrashekhar&#8217;s ideas and the ideal of public service continue to inspire everyone towards nation-building.",
@@ -403,36 +414,49 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "PMO holds meeting to review impact of El Niño and preparedness measures",
-        "summary": "The Prime Minister’s Office (PMO) held a high level review meeting to review possible impact of El Niño on various sectors and preparedness measures. The meeting was held under the chairmanship of Principal Secretary to Prime Minister, Dr P.K. Mishra, at the Seva Theerth yesterday. Secretaries and senior officials of more than fifteen Ministries were […]",
-        "article": "The Prime Minister’s Office (PMO) held a high level review meeting to review possible impact of El Niño on various sectors and preparedness measures. The meeting was held under the chairmanship of Principal Secretary to Prime Minister, Dr P.K. Mishra, at the Seva Theerth yesterday. Secretaries and senior officials of more than fifteen Ministries were present at the meeting. Dr Mishra directed that the overall situation should be continuously monitored and the impact of the monsoon or delayed monsoon on vulnerable districts must be assessed in coordination with States so that remedial action can be taken up when necessary. He emphasised that ensuring adequate availability of drinking water in vulnerable districts must be a top priority and directed optimal reservoir water utilisation and judicious use of available water. During the meeting, officials of the India Meteorological Department presented the overall rainfall situation in June and July. The Director General of the Met Department updated on the status of monsoon coverage in the country and the possible impact of El Nino. He informed that, weak to moderate El Nino is expected in July and August. Secretary, Agriculture made a detailed presentation on the preparedness for possible impact of El Nino during the kharif season. He underlined that weekly meetings of Crop Weather Watch group along with States are being convened to enable timely decision making and contingency response. He noted that District Agriculture Contingency Plans have been updated for 262 vulnerable districts and campaigns for Pradhan Mantri Fasal Bima Yojna and Kisan Credit Card coverage in vulnerable states have also been initiated. &nbsp; During the meeting, the Department of Animal Husbandry and Dairying was asked to assess the availability of dry fodder, green fodder and cattle feed, at both macro and micro level. Department of Drinking Water and Sanitation informed that they are continuously monitoring and the situation as on date is stable. The Department of Water Resources shared the position of ground water and reservoir status in the country. Department of Health and Family Welfare have also put in place advisories for heat waves, high humidity and dengue outbreaks. Effective communication of alerts and advisories will also be ensured till the field level. &nbsp; Further, the Department of Consumer Affairs and Fertilizer were suggested to constantly monitor both macro and micro availability of essential commodities and fertilizers. Department of Rural Development briefed on the works that commenced under Viksit Bharat- Guarantee for Rozgar and Ajeevika Mission from the 1st of this month. Apart from that, the Department of Agricultural Research and Education shared the spread of climate resilient seed varieties, while the Department of Power shared the status of generation and availability.",
+        "title": "PM Modi becomes first Indian Prime Minister to address Indonesian Parliament",
+        "summary": "Prime Minister Narendra Modi has become the first Indian Prime Minister to address the Parliament of Indonesia. Addressing Indonesian lawmakers in Jakarta, Mr Modi called for a new era in bilateral relations anchored in shared civilisational heritage, democratic values and a common vision for the future. Describing India as the “Mother of Democracy,” the […]",
+        "article": "Prime Minister Narendra Modi has become the first Indian Prime Minister to address the Parliament of Indonesia. Addressing Indonesian lawmakers in Jakarta, Mr Modi called for a new era in bilateral relations anchored in shared civilisational heritage, democratic values and a common vision for the future. Describing India as the “Mother of Democracy,” the Prime Minister said New Delhi is committed to strengthening democratic linkages with Indonesia. He said, the two countries are natural and trusted partners bound by centuries of shared history, maritime connections and cultural exchanges. Recalling over 2,000 years of civilisational engagement across the Indian Ocean, PM Modi said the exchange of ideas, trade, culture and faith had laid the foundation for the enduring relationship between the two nations. He also highlighted the common ideals of “Vasudhaiva Kutumbakam” (The World is One Family) and Indonesia’s national motto, “Bhinneka Tunggal Ika” (Unity in Diversity), saying these values continue to guide the India-Indonesia partnership. The Prime Minister noted that shared historical experiences, common developmental challenges and the aspirations of their people have brought India and Indonesia closer as strategic partners. Highlighting India’s development journey and the synergies between the vision of Viksit Bharat 2047 and Golden Indonesia 2045 (Indonesia Emas 2045), PM Modi called for deeper collaboration in trade, investment, connectivity, food and energy security, Digital Public Infrastructure and emerging technologies. He also reaffirmed India’s commitment to working closely with Indonesia to strengthen the voice of the Global South and promote a free, open, inclusive and rules-based Indo-Pacific.",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T02:00:47+00:00",
-        "link": "https://newsonair.gov.in/pmo-holds-meeting-to-review-impact-of-el-nino-and-preparedness-measures/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PMO-holds-meeting-to-review-impact-of-El-Nino-and-preparedness-measures.jpg",
+        "pubDate": "2026-07-08T02:05:57+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-becomes-first-indian-prime-minister-to-address-indonesian-parliament/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-becomes-first-Indian-Prime-Minister-to-address-Indonesian-Parliament.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "India and Bahrain discuss taking bilateral cooperation forward during meeting",
-        "summary": "External Affairs Minister Dr S Jaishankar has stated that the India &#8211; Bahrain cooperation continues to deepen. Dr Jaishankar concluded his two day visit to Bahrain yesterday. During the visit, Dr Jaishankar had an audience with Bahrain&#8217;s King Hamad bin Isa Al Khalifa in the presence of Crown Prince and Prime Minister, Prince Salman bin […]",
-        "article": "External Affairs Minister Dr S Jaishankar has stated that the India &#8211; Bahrain cooperation continues to deepen. Dr Jaishankar concluded his two day visit to Bahrain yesterday. During the visit, Dr Jaishankar had an audience with Bahrain&#8217;s King Hamad bin Isa Al Khalifa in the presence of Crown Prince and Prime Minister, Prince Salman bin Hamad Al Khalifa. He also had a separate call on Deputy Prime Minister Shaikh Khalid bin Abdullah Al Khalifa. During these meetings, the External Affairs Minister conveyed the greetings of President Droupadi Murmu, Prime Minister Narendra Modi and reaffirmed India&#8217;s commitment to further deepening the longstanding and friendly bilateral partnership with Bahrain. He thanked the leadership of Bahrain for ensuring the safety, security and well-being of the Indian community in the Kingdom. Dr Jaishankar held bilateral talks with his counterpart, Dr. Abdullatif bin Rashid Al Zayani. The two Ministers exchanged views on regional and international developments of mutual interest. They reviewed India-Bahrain bilateral relations and discussed avenues for further strengthening cooperation across diverse sectors. The External Affairs Minister congratulated Bahrain on its role as a non-permanent member of the United Nations Security Council for 2026 to 2027. He also interacted with members of the Indian community in Bahrain. He commended their valuable contribution to the economic development and social fabric of Bahrain and appreciated their role in further strengthening the close people-to-people ties between the two countries. He also appreciated their views and suggestions on further enhancing the India-Bahrain partnership. The External Affairs Minister is currently on an eleven day trip to Qatar, Bahrain, Kuwait, Oman, New York and Brussels.",
+        "title": "PM Modi to visit Prambanan Temple with Indonesian President",
+        "summary": "Prime Minister Narendra Modi will visit the iconic Prambanan Temple in Yogyakarta along with Indonesian President today. The visit underscores the deep cultural and civilisational ties that have connected India and Indonesia for over a thousand years. Built in the 9th century, Prambanan is Indonesia’s largest Hindu temple complex and one of Southeast Asia’s […]",
+        "article": "Prime Minister Narendra Modi will visit the iconic Prambanan Temple in Yogyakarta along with Indonesian President today. The visit underscores the deep cultural and civilisational ties that have connected India and Indonesia for over a thousand years. Built in the 9th century, Prambanan is Indonesia’s largest Hindu temple complex and one of Southeast Asia’s finest architectural masterpieces. Originally comprising 240 large and small temples dedicated to Brahma, Vishnu and Shiva, the complex stands as a remarkable testament to the spread of Indian cultural influence across the region. Its magnificent stone reliefs depict scenes from the Ramayana, reflecting how Indian epics crossed the seas and became an integral part of Javanese culture. Even today, this shared heritage lives on through Indonesia’s internationally acclaimed Ramayana Ballet, staged against the backdrop of the temple. Yesterday, India and Indonesia announced a significant new initiative for the conservation and restoration of the Prambanan Temple Complex. Under this partnership, India, through the Archaeological Survey of India, will extend assistance for the conservation and restoration of selected structures within the UNESCO World Heritage Site, reaffirming the two countries’ shared commitment to preserving their common civilisational heritage. Over the centuries, earthquakes, volcanic eruptions and the passage of time damaged many of the structures. Years of careful conservation have restored much of the complex, making Prambanan one of the world’s finest surviving examples of classical Hindu temple architecture. Today’s visit by the Prime Minister, accompanied by the President of Indonesia, therefore carries special significance. It not only celebrates a shared cultural legacy spanning more than a millennium but also marks a renewed commitment to preserving this heritage for future generations. For All India Radio, from Yogyakarta, Indonesia, this is Utsav Parmar.",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T00:30:47+00:00",
-        "link": "https://newsonair.gov.in/india-and-bahrain-discuss-taking-india-bahrain-bilateral-cooperation-forward-during-meeting/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/UAE-1.jpg",
+        "pubDate": "2026-07-08T02:02:55+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-to-visit-prambanan-temple-with-indonesian-president/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/18.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Four stakeholder states of Narmada Project reach agreement regarding displacement and compensation",
-        "summary": "Madhya Pradesh, Gujarat, Rajasthan, and Maharashtra governments today reached an agreement on pending issues related to the Narmada Project in the presence of Union Home Minister Amit Shah. ⁠This resolved the decades-old dispute regarding the displacement of people from flood-affected areas and compensation for land in the Narmada River Project. Union Home Ministry said […]",
-        "article": "Madhya Pradesh, Gujarat, Rajasthan, and Maharashtra governments today reached an agreement on pending issues related to the Narmada Project in the presence of Union Home Minister Amit Shah. ⁠This resolved the decades-old dispute regarding the displacement of people from flood-affected areas and compensation for land in the Narmada River Project. Union Home Ministry said the Chief Ministers of all states involved in the agreement agreed to an amicable settlement of the dispute under the leadership and guidance of the Union Home Minister. ⁠ Recently, significant progress has been made in resolving long-standing water-sharing issues between states &#8211; whether it be the Kishau Dam project in Himachal Pradesh or the water dispute between Rajasthan and Haryana.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T15:53:52+00:00",
-        "link": "https://newsonair.gov.in/four-stakeholder-states-of-narmada-project-reach-agreement-regarding-displacement-and-compensation/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Sardar-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "India hosts AITIGA Joint Committee meeting to advance the review of the ASEAN-India trade pact",
+        "summary": "India is hosting the 13th ASEAN-India Trade in Goods Agreement (AITIGA) Joint Committee meeting in New Delhi to advance the review of the ASEAN-India trade pact. The Joint Committee meeting and its related meetings are being held in a hybrid format till 10th of this month. The Ministry of Commerce and Industry said that […]",
+        "article": "India is hosting the 13th ASEAN-India Trade in Goods Agreement (AITIGA) Joint Committee meeting in New Delhi to advance the review of the ASEAN-India trade pact. The Joint Committee meeting and its related meetings are being held in a hybrid format till 10th of this month. The Ministry of Commerce and Industry said that the Joint Committee provided strategic guidance to the Sub-Committees in their respective areas of work and urged them to expedite the finalisation of the outstanding chapters under the AITIGA Review. The Sub-Committees were assigned time-bound deliverables and encouraged to work closely to achieve tangible outcomes within the agreed timelines. The Ministry further informed that meetings of three of the eight Sub-Committees under the AITIGA Joint Committee are currently being held on the sidelines of the 13th Joint Committee meeting. These include the Sub-Committee on Customs Procedures and Trade Facilitation (SC-CPTF), the Sub-Committee on National Treatment and Market Access (SC-NTMA), and the Sub-Committee on Rules of Origin (SC-ROO). The meetings serve as an important platform to deepen cooperation, strengthen mutual understanding, and advance constructive dialogue between India and ASEAN. The 13th AITIGA Joint Committee meeting, held yesterday, was co-chaired by Additional Secretary, Department of Commerce, Nitin Kumar Yadav, and Deputy Secretary General (Trade), Ministry of Investment, Trade and Industry, Malaysia Mastura Ahmad Mustafa. Delegations from all ASEAN Member States-Brunei, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, the Philippines, Singapore, Thailand and Viet Nam-participated in the meeting.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T07:39:40+00:00",
+        "link": "https://newsonair.gov.in/india-hosts-aitiga-joint-committee-meeting-to-advance-the-review-of-the-asean-india-trade-pact/",
+        "post_id": 1725531,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi says blessed to connect with Lord Shiva at sacred sites, addresses gathering at Prambanan Temple in Indonesia",
+        "summary": "Prime Minister Narendra Modi today said that he considers it his good fortune to have had repeated opportunities to connect with Lord Shiva at various sacred sites. &#160; Addressing the Prambanan Temple in Yogyakarta, Indonesia, the Prime Minister said he was born in Vadnagar, home to Hatkeshwar Mahadev, and that the Somnath Jyotirlinga in Gujarat, […]",
+        "article": "Prime Minister Narendra Modi today said that he considers it his good fortune to have had repeated opportunities to connect with Lord Shiva at various sacred sites. &nbsp; Addressing the Prambanan Temple in Yogyakarta, Indonesia, the Prime Minister said he was born in Vadnagar, home to Hatkeshwar Mahadev, and that the Somnath Jyotirlinga in Gujarat, the first among the twelve Jyotirlingas, holds special significance, with him having direct responsibility for its development. Mr. Modi also noted that his parliamentary constituency, Kashi (Varanasi), is home to Kashi Vishwanath Mahadev, whose blessings, he said, have always guided him. Referring to the redevelopment of the Kedarnath Temple and the Mahakaleshwar Temple in Ujjain, the Prime Minister said he had the privilege of contributing to these projects. He added that his visit to the Prambanan Temple had also given him the opportunity to initiate renovation efforts, describing it as a matter of great fortune.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T07:22:34+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-says-blessed-to-connect-with-lord-shiva-at-sacred-sites-addresses-gathering-at-prambanan-temple-in-indonesia/",
+        "post_id": 1725529,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -458,33 +482,42 @@ window.VM_NEWS = {
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi becomes first Indian Prime Minister to address Indonesian Parliament",
-        "summary": "Prime Minister Narendra Modi has become the first Indian Prime Minister to address the Parliament of Indonesia. Addressing Indonesian lawmakers in Jakarta, Mr Modi called for a new era in bilateral relations anchored in shared civilisational heritage, democratic values and a common vision for the future. Describing India as the “Mother of Democracy,” the […]",
-        "article": "Prime Minister Narendra Modi has become the first Indian Prime Minister to address the Parliament of Indonesia. Addressing Indonesian lawmakers in Jakarta, Mr Modi called for a new era in bilateral relations anchored in shared civilisational heritage, democratic values and a common vision for the future. Describing India as the “Mother of Democracy,” the Prime Minister said New Delhi is committed to strengthening democratic linkages with Indonesia. He said, the two countries are natural and trusted partners bound by centuries of shared history, maritime connections and cultural exchanges. Recalling over 2,000 years of civilisational engagement across the Indian Ocean, PM Modi said the exchange of ideas, trade, culture and faith had laid the foundation for the enduring relationship between the two nations. He also highlighted the common ideals of “Vasudhaiva Kutumbakam” (The World is One Family) and Indonesia’s national motto, “Bhinneka Tunggal Ika” (Unity in Diversity), saying these values continue to guide the India-Indonesia partnership. The Prime Minister noted that shared historical experiences, common developmental challenges and the aspirations of their people have brought India and Indonesia closer as strategic partners. Highlighting India’s development journey and the synergies between the vision of Viksit Bharat 2047 and Golden Indonesia 2045 (Indonesia Emas 2045), PM Modi called for deeper collaboration in trade, investment, connectivity, food and energy security, Digital Public Infrastructure and emerging technologies. He also reaffirmed India’s commitment to working closely with Indonesia to strengthen the voice of the Global South and promote a free, open, inclusive and rules-based Indo-Pacific.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T02:05:57+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-becomes-first-indian-prime-minister-to-address-indonesian-parliament/",
-        "post_id": 1724998,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi to visit Prambanan Temple with Indonesian President",
-        "summary": "Prime Minister Narendra Modi will visit the iconic Prambanan Temple in Yogyakarta along with Indonesian President today. The visit underscores the deep cultural and civilisational ties that have connected India and Indonesia for over a thousand years. Built in the 9th century, Prambanan is Indonesia’s largest Hindu temple complex and one of Southeast Asia’s […]",
-        "article": "Prime Minister Narendra Modi will visit the iconic Prambanan Temple in Yogyakarta along with Indonesian President today. The visit underscores the deep cultural and civilisational ties that have connected India and Indonesia for over a thousand years. Built in the 9th century, Prambanan is Indonesia’s largest Hindu temple complex and one of Southeast Asia’s finest architectural masterpieces. Originally comprising 240 large and small temples dedicated to Brahma, Vishnu and Shiva, the complex stands as a remarkable testament to the spread of Indian cultural influence across the region. Its magnificent stone reliefs depict scenes from the Ramayana, reflecting how Indian epics crossed the seas and became an integral part of Javanese culture. Even today, this shared heritage lives on through Indonesia’s internationally acclaimed Ramayana Ballet, staged against the backdrop of the temple. Yesterday, India and Indonesia announced a significant new initiative for the conservation and restoration of the Prambanan Temple Complex. Under this partnership, India, through the Archaeological Survey of India, will extend assistance for the conservation and restoration of selected structures within the UNESCO World Heritage Site, reaffirming the two countries’ shared commitment to preserving their common civilisational heritage. Over the centuries, earthquakes, volcanic eruptions and the passage of time damaged many of the structures. Years of careful conservation have restored much of the complex, making Prambanan one of the world’s finest surviving examples of classical Hindu temple architecture. Today’s visit by the Prime Minister, accompanied by the President of Indonesia, therefore carries special significance. It not only celebrates a shared cultural legacy spanning more than a millennium but also marks a renewed commitment to preserving this heritage for future generations. For All India Radio, from Yogyakarta, Indonesia, this is Utsav Parmar.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T02:02:55+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-to-visit-prambanan-temple-with-indonesian-president/",
-        "post_id": 1725004,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "India hosts AITIGA Joint Committee meeting to advance the review of the ASEAN-India trade pact",
+        "summary": "India is hosting the 13th ASEAN-India Trade in Goods Agreement (AITIGA) Joint Committee meeting in New Delhi to advance the review of the ASEAN-India trade pact. The Joint Committee meeting and its related meetings are being held in a hybrid format till 10th of this month. The Ministry of Commerce and Industry said that […]",
+        "article": "India is hosting the 13th ASEAN-India Trade in Goods Agreement (AITIGA) Joint Committee meeting in New Delhi to advance the review of the ASEAN-India trade pact. The Joint Committee meeting and its related meetings are being held in a hybrid format till 10th of this month. The Ministry of Commerce and Industry said that the Joint Committee provided strategic guidance to the Sub-Committees in their respective areas of work and urged them to expedite the finalisation of the outstanding chapters under the AITIGA Review. The Sub-Committees were assigned time-bound deliverables and encouraged to work closely to achieve tangible outcomes within the agreed timelines. The Ministry further informed that meetings of three of the eight Sub-Committees under the AITIGA Joint Committee are currently being held on the sidelines of the 13th Joint Committee meeting. These include the Sub-Committee on Customs Procedures and Trade Facilitation (SC-CPTF), the Sub-Committee on National Treatment and Market Access (SC-NTMA), and the Sub-Committee on Rules of Origin (SC-ROO). The meetings serve as an important platform to deepen cooperation, strengthen mutual understanding, and advance constructive dialogue between India and ASEAN. The 13th AITIGA Joint Committee meeting, held yesterday, was co-chaired by Additional Secretary, Department of Commerce, Nitin Kumar Yadav, and Deputy Secretary General (Trade), Ministry of Investment, Trade and Industry, Malaysia Mastura Ahmad Mustafa. Delegations from all ASEAN Member States-Brunei, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, the Philippines, Singapore, Thailand and Viet Nam-participated in the meeting.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T07:39:40+00:00",
+        "link": "https://newsonair.gov.in/india-hosts-aitiga-joint-committee-meeting-to-advance-the-review-of-the-asean-india-trade-pact/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/p.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, Indonesia launch collaborative conservation initiative for Prambanan Temple Compound",
+        "summary": "India and Indonesia have taken a significant step towards preserving their shared civilisational heritage with the launch of a collaborative conservation initiative for the Prambanan Temple Compound, a UNESCO World Heritage Site in Yogyakarta. The decade-long project will focus on restoring the Pervara or subsidiary shrines, located in the temple’s second courtyard. Originally, the […]",
+        "article": "India and Indonesia have taken a significant step towards preserving their shared civilisational heritage with the launch of a collaborative conservation initiative for the Prambanan Temple Compound, a UNESCO World Heritage Site in Yogyakarta. The decade-long project will focus on restoring the Pervara or subsidiary shrines, located in the temple’s second courtyard. Originally, the Prambanan complex comprised 224 such shrines arranged in four concentric rows. However, only six have been restored so far, while over 200 remain in various stages of ruin. The conservation programme will begin in the north-east quadrant of the complex and will combine archaeological expertise with modern technology. Scientific investigations, AI-based digital reconstruction, advanced documentation, and the anastylosis method-where original stones are carefully reassembled in their original positions-will be used during the restoration. Besides conserving the historic structures, the initiative also aims to strengthen scientific documentation, improve site management and drainage, and promote knowledge exchange and capacity building between India and Indonesia. Built in the 9th century during the Mataram Kingdom, Prambanan is the largest Hindu temple complex in Indonesia and has been recognised as a UNESCO World Heritage Site since 1991. The collaboration underscores the enduring cultural and civilisational links between the two countries while ensuring that this architectural masterpiece is preserved for future generations.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T07:34:22+00:00",
+        "link": "https://newsonair.gov.in/india-indonesia-launch-collaborative-conservation-initiative-for-prambanan-temple-compound/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/46.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi says blessed to connect with Lord Shiva at sacred sites, addresses gathering at Prambanan Temple in Indonesia",
+        "summary": "Prime Minister Narendra Modi today said that he considers it his good fortune to have had repeated opportunities to connect with Lord Shiva at various sacred sites. &#160; Addressing the Prambanan Temple in Yogyakarta, Indonesia, the Prime Minister said he was born in Vadnagar, home to Hatkeshwar Mahadev, and that the Somnath Jyotirlinga in Gujarat, […]",
+        "article": "Prime Minister Narendra Modi today said that he considers it his good fortune to have had repeated opportunities to connect with Lord Shiva at various sacred sites. &nbsp; Addressing the Prambanan Temple in Yogyakarta, Indonesia, the Prime Minister said he was born in Vadnagar, home to Hatkeshwar Mahadev, and that the Somnath Jyotirlinga in Gujarat, the first among the twelve Jyotirlingas, holds special significance, with him having direct responsibility for its development. Mr. Modi also noted that his parliamentary constituency, Kashi (Varanasi), is home to Kashi Vishwanath Mahadev, whose blessings, he said, have always guided him. Referring to the redevelopment of the Kedarnath Temple and the Mahakaleshwar Temple in Ujjain, the Prime Minister said he had the privilege of contributing to these projects. He added that his visit to the Prambanan Temple had also given him the opportunity to initiate renovation efforts, describing it as a matter of great fortune.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T07:22:34+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-says-blessed-to-connect-with-lord-shiva-at-sacred-sites-addresses-gathering-at-prambanan-temple-in-indonesia/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "US strikes over 80 targets in Iran after Hormuz attacks",
         "summary": "The US has carried out a fresh round of airstrikes on Iran, targeting more than 80 locations in response to Iran&#8217;s latest attacks on commercial ships passing through the Strait of Hormuz. According to U.S. Central Command (CENTCOM), the strikes targeted Iranian air defence systems, command and control centres, coastal radar sites, anti-ship missile […]",
@@ -559,39 +592,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T02:08:43+00:00",
         "link": "https://newsonair.gov.in/india-indonesia-reaffirm-zero-tolerance-against-terrorism/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/28.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi becomes first Indian Prime Minister to address Indonesian Parliament",
-        "summary": "Prime Minister Narendra Modi has become the first Indian Prime Minister to address the Parliament of Indonesia. Addressing Indonesian lawmakers in Jakarta, Mr Modi called for a new era in bilateral relations anchored in shared civilisational heritage, democratic values and a common vision for the future. Describing India as the “Mother of Democracy,” the […]",
-        "article": "Prime Minister Narendra Modi has become the first Indian Prime Minister to address the Parliament of Indonesia. Addressing Indonesian lawmakers in Jakarta, Mr Modi called for a new era in bilateral relations anchored in shared civilisational heritage, democratic values and a common vision for the future. Describing India as the “Mother of Democracy,” the Prime Minister said New Delhi is committed to strengthening democratic linkages with Indonesia. He said, the two countries are natural and trusted partners bound by centuries of shared history, maritime connections and cultural exchanges. Recalling over 2,000 years of civilisational engagement across the Indian Ocean, PM Modi said the exchange of ideas, trade, culture and faith had laid the foundation for the enduring relationship between the two nations. He also highlighted the common ideals of “Vasudhaiva Kutumbakam” (The World is One Family) and Indonesia’s national motto, “Bhinneka Tunggal Ika” (Unity in Diversity), saying these values continue to guide the India-Indonesia partnership. The Prime Minister noted that shared historical experiences, common developmental challenges and the aspirations of their people have brought India and Indonesia closer as strategic partners. Highlighting India’s development journey and the synergies between the vision of Viksit Bharat 2047 and Golden Indonesia 2045 (Indonesia Emas 2045), PM Modi called for deeper collaboration in trade, investment, connectivity, food and energy security, Digital Public Infrastructure and emerging technologies. He also reaffirmed India’s commitment to working closely with Indonesia to strengthen the voice of the Global South and promote a free, open, inclusive and rules-based Indo-Pacific.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T02:05:57+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-becomes-first-indian-prime-minister-to-address-indonesian-parliament/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-becomes-first-Indian-Prime-Minister-to-address-Indonesian-Parliament.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi to visit Prambanan Temple with Indonesian President",
-        "summary": "Prime Minister Narendra Modi will visit the iconic Prambanan Temple in Yogyakarta along with Indonesian President today. The visit underscores the deep cultural and civilisational ties that have connected India and Indonesia for over a thousand years. Built in the 9th century, Prambanan is Indonesia’s largest Hindu temple complex and one of Southeast Asia’s […]",
-        "article": "Prime Minister Narendra Modi will visit the iconic Prambanan Temple in Yogyakarta along with Indonesian President today. The visit underscores the deep cultural and civilisational ties that have connected India and Indonesia for over a thousand years. Built in the 9th century, Prambanan is Indonesia’s largest Hindu temple complex and one of Southeast Asia’s finest architectural masterpieces. Originally comprising 240 large and small temples dedicated to Brahma, Vishnu and Shiva, the complex stands as a remarkable testament to the spread of Indian cultural influence across the region. Its magnificent stone reliefs depict scenes from the Ramayana, reflecting how Indian epics crossed the seas and became an integral part of Javanese culture. Even today, this shared heritage lives on through Indonesia’s internationally acclaimed Ramayana Ballet, staged against the backdrop of the temple. Yesterday, India and Indonesia announced a significant new initiative for the conservation and restoration of the Prambanan Temple Complex. Under this partnership, India, through the Archaeological Survey of India, will extend assistance for the conservation and restoration of selected structures within the UNESCO World Heritage Site, reaffirming the two countries’ shared commitment to preserving their common civilisational heritage. Over the centuries, earthquakes, volcanic eruptions and the passage of time damaged many of the structures. Years of careful conservation have restored much of the complex, making Prambanan one of the world’s finest surviving examples of classical Hindu temple architecture. Today’s visit by the Prime Minister, accompanied by the President of Indonesia, therefore carries special significance. It not only celebrates a shared cultural legacy spanning more than a millennium but also marks a renewed commitment to preserving this heritage for future generations. For All India Radio, from Yogyakarta, Indonesia, this is Utsav Parmar.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T02:02:55+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-to-visit-prambanan-temple-with-indonesian-president/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/18.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "US launches fresh strikes on Iran after attacks in Strait of Hormuz",
-        "summary": "The US military has launched new strikes against Iran, hours after three merchant ships were struck in the Strait of Hormuz. In a statement posted to social media, US Central Command said American forces launched the strikes to impose heavy costs for targeting and attacking commercial shipping crewed by innocent civilians in an international waterway. […]",
-        "article": "The US military has launched new strikes against Iran, hours after three merchant ships were struck in the Strait of Hormuz. In a statement posted to social media, US Central Command said American forces launched the strikes to impose heavy costs for targeting and attacking commercial shipping crewed by innocent civilians in an international waterway. One US official said, the military is targeting Iranian air defence systems, coastal surveillance systems, ground-to-air missiles as well as launch sites for anti-ship cruise missiles and drones. Iranian port facilities are also being targeted. Iranian state media reported the sound of explosions in Qeshm and Bandar Abbas. Iran&#8217;s deputy foreign minister, Kazem Gharibabadi, said that the new attacks by the US are a violation of the agreement. United States has also revoked a licence that had authorised the sale of Iranian oil as part of the interim deal to end the fighting between the US and Iran. A US official said, the licence was revoked because Iran&#8217;s actions in the strait were unacceptable and needed to be met with consequences. Iranian Foreign Ministry condemned the US move to revoke the licence, saying that it violates the interim deal and that the US government bears responsibility for the consequences of this breach of commitment.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T01:25:55+00:00",
-        "link": "https://newsonair.gov.in/us-launches-fresh-strikes-on-iran-after-attacks-in-strait-of-hormuz/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -1037,17 +1037,6 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
-        "title": "अमरीका ने ईरान के 80 से अधिक ठिकानों पर हवाई हमले किये",
-        "summary": "होर्मुज जलडमरूमध्य में वाणिज्यिक जहाजों पर ईरान के हाल के हमलों के जवाब में अमरीका ने ईरान के 80 से अधिक ठिकानों पर ताजा हवाई हमले किये हैं। अमरीका की केंद्रीय कमान (सेंटकॉम) ने कहा है कि हमलों में ईरानी वायु रक्षा प्रणाली, कमान और नियंत्रण केंद्रों, तटीय रडार स्थलों, जहाज-रोधी मिसाइल प्रणालियों और होर्मुज […]",
-        "article": "होर्मुज जलडमरूमध्य में वाणिज्यिक जहाजों पर ईरान के हाल के हमलों के जवाब में अमरीका ने ईरान के 80 से अधिक ठिकानों पर ताजा हवाई हमले किये हैं। अमरीका की केंद्रीय कमान (सेंटकॉम) ने कहा है कि हमलों में ईरानी वायु रक्षा प्रणाली, कमान और नियंत्रण केंद्रों, तटीय रडार स्थलों, जहाज-रोधी मिसाइल प्रणालियों और होर्मुज जलडमरूमध्य तथा उसके आसपास स्थित इस्लामिक रिवोल्यूशनरी गार्ड कोर की 60 से अधिक नौकाओं को निशाना बनाया गया। ईरान ने हमलों की पुष्टि करते हुए कहा कि बंदर अब्बास, केशम और सिरिक में विस्फोटों की आवाजें सुनी गईं। हमलों से तत्&#x200d;काल किसी के मारे जाने या नुकसान की जानकारी नहीं है। ईरान की केंद्रीय सैन्य कमान ने इसे आक्रामकता और आतंकवाद का कृत्य बताते हुए जवाबी हमले की चेतावनी दी है। ईरान ने यह भी कहा है कि होर्मुज जलडमरूमध्य में किसी भी तरह के हस्तक्षेप की अनुमति नहीं दी जाएगी और न ही किसी को इस पर नियंत्रण करने दिया जाएगा। इस बीच अमरीका ने अंतरिम समझौते के तहत ईरान को तेल बेचने की छूट रद्द कर दी है। ईरान के उप विदेश मंत्री काज़ेम ग़रीबाबादी ने इसकी कड़ी निंदा करते हुए सोशल मीडिया पोस्ट में कहा कि अमरीकी हमले और कार्रवाई द्विपक्षीय समझौतों का गंभीर उल्लंघन है। इस बीच, कुवैत ने कहा है कि ईरान के मिसाइल हमलों को रोकने के लिए आज वायु रक्षा प्रणाली सक्रिय कर दी गई। बहरीन ने भी ईरानी मिसाइल हमले की जानकारी देते हुए कहा है कि तत्काल किसी के मारे जाने या नुकसान की खबर नहीं है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T06:41:07+00:00",
-        "link": "https://newsonair.gov.in/hi/the-us-carried-out-airstrikes-on-more-than-80-iranian-targets/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/hormuz-1.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "केन्‍द्र सरकार ने नवी मुंबई हवाई अड्डे के जरिए औषधि आयात की अनुमति दी",
         "summary": "केन्‍द्र सरकार ने महाराष्‍ट्र में हाल ही में शुरू हुए नवी मुंबई हवाई अड्डे के जरिए औषधि आयात की अनुमति दे दी है। इसका उद्देश्‍य औषधि आपूर्ति श्रृंखला को मजबूत करना और व्‍यापार को आसान बनाना है। स्‍वास्‍थ्‍य और परिवार कल्‍याण मंत्रालय ने औषधि नियम 1945 के अंतर्गत नवी मुंबई हवाई अड्डे को औषधि आयात […]",
         "article": "केन्&#x200d;द्र सरकार ने महाराष्&#x200d;ट्र में हाल ही में शुरू हुए नवी मुंबई हवाई अड्डे के जरिए औषधि आयात की अनुमति दे दी है। इसका उद्देश्&#x200d;य औषधि आपूर्ति श्रृंखला को मजबूत करना और व्&#x200d;यापार को आसान बनाना है। स्&#x200d;वास्&#x200d;थ्&#x200d;य और परिवार कल्&#x200d;याण मंत्रालय ने औषधि नियम 1945 के अंतर्गत नवी मुंबई हवाई अड्डे को औषधि आयात के रूप में अधिसूचित किया है। देश में औषधि आयात के लिए अधिसूचित हवाई अड्डों की कुल संख्&#x200d;या अब 42 हो गई है।",
@@ -1092,13 +1081,13 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "न्यूज़ीलैंड के ऑकलैंड में सनातन धर्म और भारतीय संस्कृति की छटा बिखेर रहा ‘द थर्ड आई’ स्टोर",
-        "summary": "भारत से हजारों किलोमीटर दूर न्यूज़ीलैंड के ऑकलैंड में सनातन धर्म और भारतीय संस्कृति की अनूठी छटा देखने को मिलती है। पिछले 26 वर्षों से ‘द थर्ड आई’ स्टोर भारतीय देवी-देवताओं की प्रतिमाओं, पूजा सामग्री, रंग-बिरंगे भारतीय परिधानों और पारंपरिक वस्तुओं के माध्यम से स्थानीय लोगों को भारतीय संस्कृति से परिचित करा रहा है। […]",
-        "article": "भारत से हजारों किलोमीटर दूर न्यूज़ीलैंड के ऑकलैंड में सनातन धर्म और भारतीय संस्कृति की अनूठी छटा देखने को मिलती है। पिछले 26 वर्षों से ‘द थर्ड आई’ स्टोर भारतीय देवी-देवताओं की प्रतिमाओं, पूजा सामग्री, रंग-बिरंगे भारतीय परिधानों और पारंपरिक वस्तुओं के माध्यम से स्थानीय लोगों को भारतीय संस्कृति से परिचित करा रहा है। आकाशवाणी समाचार से बातचीत में स्टोर की संचालिका किम होलुएर्डा ने बताया कि बड़ी संख्या में न्यूज़ीलैंड के लोग हिंदू देवी-देवताओं की प्रतिमाओं के साथ-साथ भारतीय परिधानों और आध्यात्मिक परंपराओं में भी गहरी रुचि दिखाते हैं। उन्होंने कहा कि सनातन धर्म का शांति, प्रेम और सकारात्मकता का संदेश लोगों को विशेष रूप से आकर्षित करता है।",
+        "title": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने वेनेज़ुएला का धन्यवाद किया",
+        "summary": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता […]",
+        "article": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता है। भारत ने 7.2 और 7.5 तीव्रता वाले विनाशकारी दोहरे भूकंपों के बाद वेनेज़ुएला की मदद के लिए &#8216;ऑपरेशन अमिस्ताद&#8217; शुरू किया था, जिनसे बड़े पैमाने पर तबाही हुई थी।",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T05:30:19+00:00",
-        "link": "https://newsonair.gov.in/hi/the-third-eye-store-in-auckland-new-zealand-showcases-the-essence-of-sanatan-dharma-and-indian-culture/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-5.png",
+        "pubDate": "2026-07-08T05:21:11+00:00",
+        "link": "https://newsonair.gov.in/hi/ministry-of-external-affairs-spokesperson-randhir-jaiswal-thanked-venezuela/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/mea-2.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1125,46 +1114,35 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "प्रधानमंत्री नरेन्‍द्र मोदी इंडोनेशिया की संसद को संबोधित करने वाले पहले भारतीय प्रधानमंत्री बने",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया की संसद को संबोधित करने वाले पहले भारतीय प्रधानमंत्री बन गए हैं। जकार्ता में इंडोनेशिया के सांसदों को संबोधित करते हुए श्री मोदी ने साझा सभ्यतागत विरासत, लोकतांत्रिक मूल्यों और भविष्य के लिए एक साझा दृष्टिकोण पर आधारित द्विपक्षीय संबंधों के एक नए युग का आह्वान किया। प्रधानमंत्री ने भारत को […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया की संसद को संबोधित करने वाले पहले भारतीय प्रधानमंत्री बन गए हैं। जकार्ता में इंडोनेशिया के सांसदों को संबोधित करते हुए श्री मोदी ने साझा सभ्यतागत विरासत, लोकतांत्रिक मूल्यों और भविष्य के लिए एक साझा दृष्टिकोण पर आधारित द्विपक्षीय संबंधों के एक नए युग का आह्वान किया। प्रधानमंत्री ने भारत को &#8220;लोकतंत्र की जननी&#8221; बताते हुए कहा कि भारत इंडोनेशिया के साथ लोकतांत्रिक संबंधों को मजबूत करने के लिए प्रतिबद्ध है। उन्होंने कहा कि दोनों देश सदियों के साझा इतिहास, समुद्री संबंधों और सांस्कृतिक आदान-प्रदान से जुड़े स्वाभाविक और भरोसेमंद साझेदार हैं। प्रधानमंत्री मोदी ने कहा कि हिंद महासागर के माध्यम से 2हजार वर्षों से अधिक समय से दोनों देशों के बीच विचारों, व्यापार, संस्कृति और आस्था के आदान-प्रदान होता रहा है। जिसने दोनों देशों के बीच स्थायी संबंधों की नींव रखी है। प्रधानमंत्री ने कहा कि &#8220;वसुधैव कुटुंबकम &#8211; विश्व एक परिवार है&#8221; और इंडोनेशिया के राष्ट्रीय आदर्श वाक्य, &#8220;भिनेका तुंग्गल इका -विविधता में एकता&#8221; के साझा मूल्य भारत-इंडोनेशिया साझेदारी का मार्गदर्शन करते रहेंगे। प्रधानमंत्री ने कहा कि साझा ऐतिहासिक अनुभव, विकासात्मक चुनौतियाँ और समान आकांक्षाएं भारत और इंडोनेशिया को रणनीतिक साझेदार के रूप में नई ऊंचाइयों तक ले जाने का आधार है। भारत की विकास यात्रा और विकसित भारत 2047 तथा स्वर्णिम इंडोनेशिया 2045 की परिकल्पनाओं के बीच तालमेल को रेखांकित करते हुए प्रधानमंत्री मोदी ने व्यापार, निवेश, खाद्य और ऊर्जा सुरक्षा, डिजिटल सार्वजनिक अवसंरचना और उभरती प्रौद्योगिकियों में गहन सहयोग का आह्वान किया। उन्होंने विकासशील देशों का प्रतिनिधित्व करने और एक स्वतंत्र, समावेशी और नियम-आधारित हिंद -प्रसांत क्षेत्र के लिए इंडोनेशिया के साथ मिलकर काम करने की भारत की प्रतिबद्धता को भी दोहराया।",
+        "title": "प्रधानमंत्री नरेंद्र मोदी आज इंडोनेशिया के योग्याकार्ता में प्रंबानन मंदिर का दौरा करेंगे",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी आज इंडोनेशिया के राष्ट्रपति के साथ योग्याकार्ता में प्रंबानन मंदिर का दौरा करेंगे। इससे भारत और इंडोनेशिया के बीच एक हजार वर्षों से चले आ रहे गहरे सांस्कृतिक और सभ्यतागत संबंध प्रदर्शित होते हैं। 9वीं शताब्दी में निर्मित प्रंबानन मंदिर, इंडोनेशिया का सबसे बड़ा हिंदू मंदिर परिसर और दक्षिणपूर्व एशिया की उत्कृष्ट […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी आज इंडोनेशिया के राष्ट्रपति के साथ योग्याकार्ता में प्रंबानन मंदिर का दौरा करेंगे। इससे भारत और इंडोनेशिया के बीच एक हजार वर्षों से चले आ रहे गहरे सांस्कृतिक और सभ्यतागत संबंध प्रदर्शित होते हैं। 9वीं शताब्दी में निर्मित प्रंबानन मंदिर, इंडोनेशिया का सबसे बड़ा हिंदू मंदिर परिसर और दक्षिणपूर्व एशिया की उत्कृष्ट स्थापत्य कला कृतियों में से एक है। मूल रूप इस परिसर में भगवान ब्रह्मा, विष्णु और शिव को समर्पित 240 छोटे-बड़े मंदिर हैं। इसमें पत्थरों पर रामायण के दृश्य उकेरे गये हैं। मंदिर परिसर में आज भी रामायण का मंचन किया जाता है। भारत और इंडोनेशिया ने प्रंबानन मंदिर परिसर के संरक्षण और जीर्णोद्धार के लिए कल एक महत्वपूर्ण पहल की घोषणा की। इस साझेदारी के तहत, भारत, भारतीय पुरातत्व सर्वेक्षण के माध्यम से, यूनेस्को विश्व धरोहर स्थल, प्रंबानन मंदिर के भीतर चुनिंदा संरचनाओं के संरक्षण और जीर्णोद्धार के लिए सहायता प्रदान करेगा।",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T03:03:35+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-became-the-first-indian-prime-minister-to-address-the-indonesian-parliament/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-2.png",
+        "pubDate": "2026-07-08T03:21:54+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-visit-the-prambanan-temple-in-yogyakarta-indonesia-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-4.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "प्रधानमंत्री नरेंद्र मोदी ने जकार्ता में भारतीय समुदाय के स्वागत समारोह में भाग लिया",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी ने कल जकार्ता में भारतीय समुदाय के स्वागत समारोह में भाग लिया। इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो भी इस कार्यक्रम में शामिल हुए। इस अवसर पर श्री मोदी ने इंडोनेशिया के विकास में भारतीय प्रवासियों के योगदान और दोनों देशों के बीच मित्रता के जीवंत सेतु के रूप में उनकी भूमिका की […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी ने कल जकार्ता में भारतीय समुदाय के स्वागत समारोह में भाग लिया। इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो भी इस कार्यक्रम में शामिल हुए। इस अवसर पर श्री मोदी ने इंडोनेशिया के विकास में भारतीय प्रवासियों के योगदान और दोनों देशों के बीच मित्रता के जीवंत सेतु के रूप में उनकी भूमिका की सराहना की। प्रधानमंत्री ने हाल के वर्षों में भारत की प्रगति का उल्&#x200d;लेख किया। इसमें बुनियादी ढांचे के विकास से लेकर स्टार्टअप क्रांति और सामाजिक विकास कार्यक्रमों के महत्वपूर्ण विस्तार शामिल हैं। इससे 25 करोड़ से अधिक लोग गरीबी रेखा से बाहर आए हैं। उन्होंने कहा कि भारत, पिछले कई वर्षों से विश्व की सबसे तेजी से बढ़ती प्रमुख अर्थव्यवस्था रहा है। प्रधानमंत्री मोदी ने कहा कि भारत में हो रहे बदलावों को 1 अरब 40 करोड़ लोगों की आकांक्षाओं की गति के रूप में देखा जाना चाहिए। श्री मोदी ने भारतीय समुदाय से वर्ष 2047 में विकसित भारत और 2045 में इंडोनेशिया के विकास की साझा आकांक्षाओं को पूरा करने में योगदान देने का आह्वान किया। उन्होंने कहा कि भारत, इंडोनेशिया और आसियान क्षेत्र की प्रगति के लिए एक प्रेरक शक्ति के रूप में कार्य करने के लिए प्रतिबद्ध है।",
+        "title": "प्रधानमंत्री नरेंद्र मोदी अपने तीन देशों के दौरे के दूसरे चरण में आज ऑस्ट्रेलिया पहुंचेंगे",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी अपने तीन देशों के दौरे के दूसरे चरण में आज मेलबर्न पहुंचेंगे। प्रधानमंत्री मोदी अपने तीन दिन के दौरे के दौरान ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बानीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। श्री मोदी भारत-ऑस्ट्रेलिया सीईओ फोरम में दोनों देशों के शीर्ष व्यापारिक नेताओं की सभा को भी […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी अपने तीन देशों के दौरे के दूसरे चरण में आज मेलबर्न पहुंचेंगे। प्रधानमंत्री मोदी अपने तीन दिन के दौरे के दौरान ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बानीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। श्री मोदी भारत-ऑस्ट्रेलिया सीईओ फोरम में दोनों देशों के शीर्ष व्यापारिक नेताओं की सभा को भी संबोधित करेंगे। श्री मोदी का प्रवासी भारतीयों की एक विशाल सभा को भी संबोधित करने का कार्यक्रम है।",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T02:59:25+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-attended-a-reception-hosted-by-the-indian-community-in-jakarta/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-1.png",
+        "pubDate": "2026-07-08T03:18:12+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-arrive-in-australia-today-for-the-second-leg-of-his-three-nation-tour/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shanghai-5.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "यूएई के शारजाह से पाकिस्तान के कराची जा रहा एक मालवाहक विमान हुआ दुर्घटनाग्रस्त",
-        "summary": "संयुक्‍त अरब अमीरात के शारजाह से पाकिस्‍तान के कराची जा रहा एक बोइंग 737 विमान नविगेशन प्रणाली में खराबी और पाकिस्‍तान में हवाई यातायात नियंत्रण कक्ष से संपर्क टूटने के बाद लापता हो गया है। इसमें पांच चालक दल के सदस्‍य सवार थे। के-2 एयरवेज द्वारा संचालित मालवाहक विमान कराची के दक्षिण-पश्चिम में समुद्र में […]",
-        "article": "संयुक्&#x200d;त अरब अमीरात के शारजाह से पाकिस्&#x200d;तान के कराची जा रहा एक बोइंग 737 विमान नविगेशन प्रणाली में खराबी और पाकिस्&#x200d;तान में हवाई यातायात नियंत्रण कक्ष से संपर्क टूटने के बाद लापता हो गया है। इसमें पांच चालक दल के सदस्&#x200d;य सवार थे। के-2 एयरवेज द्वारा संचालित मालवाहक विमान कराची के दक्षिण-पश्चिम में समुद्र में दुर्घटनाग्रस्त हो गया। विमान के मलबे और किसी व्&#x200d;यक्ति के जीवित बचे होने की अभी तक कोई जानकारी सामने नहीं आई है। खोज और बचाव अभियान जारी है।",
+        "title": "भारत और इंडोनेशिया ने आतंकवाद के सभी रूपों की कड़ी निंदा की",
+        "summary": "भारत और इंडोनेशिया ने सभी तरह के आतंकवाद की कड़ी निंदा की है। दोनों देशो ने अंतरराष्ट्रीय कानून के अनुसार आतंकवाद से निपटने के लिए निर्णायक और समन्वित प्रयासों का आह्वान किया है। जकार्ता में प्रधानमंत्री नरेंद्र मोदी और इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के बीच द्विपक्षीय वार्ता के बाद जारी संयुक्त वक्तव्य में, दोनों […]",
+        "article": "भारत और इंडोनेशिया ने सभी तरह के आतंकवाद की कड़ी निंदा की है। दोनों देशो ने अंतरराष्ट्रीय कानून के अनुसार आतंकवाद से निपटने के लिए निर्णायक और समन्वित प्रयासों का आह्वान किया है। जकार्ता में प्रधानमंत्री नरेंद्र मोदी और इंडोनेशिया के राष्ट्रपति प्रबावो सुबियांतो के बीच द्विपक्षीय वार्ता के बाद जारी संयुक्त वक्तव्य में, दोनों नेताओं ने संयुक्त राष्ट्र सुरक्षा परिषद की 1267 प्रतिबंध समिति के अंतर्गत नामित आतंकवादियों और आतंकवादी संगठनों सहित विश्व स्तर पर प्रतिबंधित आतंकवादियों और आतंकवादी संगठनों के खिलाफ कार्रवाई करने का आग्रह किया। दोनों नेताओं ने आतंकवाद और आतंकवाद को बढ़ावा देने वाले हिंसक उग्रवाद की रोकथाम और इसका मुकाबला करने में सहयोग को और गहरा करने पर सहमति व्यक्त की। इसमें आतंकवाद के वित्तपोषण पर अंकुश लगाने, अंतरराष्ट्रीय स्तर पर धन शोधन विरोधी और आतंकवाद के वित्तपोषण का मुकाबला करने वाले मानकों के कार्यान्वयन को मजबूत करने, आतंकवादी समूहों द्वारा उभरती प्रौद्योगिकियों के दुरुपयोग को रोकने और डिजिटल प्लेटफार्मों के माध्यम से नफरत फैलाने से निपटने के उपाय शामिल हैं। आतंकवाद के प्रति कडी नीति की पुष्टि करते हुए, दोनों पक्षों ने संयुक्त राष्ट्र और वित्तीय कार्रवाई कार्य बल सहित द्विपक्षीय और बहुपक्षीय सहयोग को बढ़ाने का संकल्प लिया। आतंकवाद और अंतरराष्ट्रीय संगठित अपराध के बीच संबंधों को रेखांकित करते हुए, भारत और इंडोनेशिया ने अपने घरेलू कानूनों और अंतरराष्ट्रीय दायित्वों के अनुसार सूचना साझा करने और सर्वोत्तम प्रथाओं के आदान-प्रदान को मजबूत करने पर सहमति व्यक्त की। उन्होंने आतंकवाद विरोधी सहयोग पर समझौता ज्ञापन के शीघ्र संपन्न होने का भी स्वागत किया। इस पर जल्द ही हस्ताक्षर होने की उम्मीद है। दोनों देशों ने आतंकवाद और अंतरराष्ट्रीय अपराधों की रोकथाम, साइबर सुरक्षा, उभरती प्रौद्योगिकियों, रक्षा उद्योग, समुद्री सुरक्षा और अंतरिक्ष क्षेत्र में सहयोग बढ़ाने के लिए तीसरे भारत-इंडोनेशिया सुरक्षा संवाद का स्वागत किया। दोनों नेताओं ने विकसित भारत 2047 विजन और इंडोनेशिया के इंडोनेशिया एमास 2045 एजेंडा के बीच समानताओं का भी उल्&#x200d;लेख किया। दोनों पक्ष इस बात पर सहमत हुए कि गहन आर्थिक एकीकरण से व्यापार और निवेश के अधिक अवसर खुलेंगे। दोनों पक्षों ने संतुलित और पारस्परिक रूप से लाभकारी, आसियान-भारत व्यापार समझौते की समीक्षा को समय पर पूरा करने का भी आह्वान किया। उन्होंने व्यापार और निवेश पर दूसरे कार्य समूह, चौथे द्विवार्षिक व्यापार मंत्रियों के मंच और 2026 में पहले संयुक्त आर्थिक और वित्तीय संवाद सहित मौजूदा द्विपक्षीय आर्थिक तंत्रों को मजबूत करने की आवश्यकता पर भी बल दिया। प्रधानमंत्री मोदी ने राष्ट्रपति सुबियांतो को भारत आने का निमंत्रण भी दिया।",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T02:41:11+00:00",
-        "link": "https://newsonair.gov.in/hi/a-cargo-plane-flying-from-sharjah-uae-to-karachi-pakistan-has-crashed/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सतत विकास के लक्ष्यों में से केवल 36% लक्ष्यों पर ही संतोषजनक प्रगति हुई: रिपोर्ट",
-        "summary": "संयुक्त राष्ट्र की एक रिपोर्ट के अनुसार, सतत विकास के लक्ष्यों को हालिस करने की समय सीमा में अब केवल चार वर्ष शेष हैं, लेकिन अब तक केवल 36 प्रतिशत लक्ष्यों पर ही संतोषजनक प्रगति हुई है। लगभग आधे लक्ष्य रुके हुए हैं और अन्य 15 प्रतिशत लक्ष्यों में गिरावट आई है। […]",
-        "article": "संयुक्त राष्ट्र की एक रिपोर्ट के अनुसार, सतत विकास के लक्ष्यों को हालिस करने की समय सीमा में अब केवल चार वर्ष शेष हैं, लेकिन अब तक केवल 36 प्रतिशत लक्ष्यों पर ही संतोषजनक प्रगति हुई है। लगभग आधे लक्ष्य रुके हुए हैं और अन्य 15 प्रतिशत लक्ष्यों में गिरावट आई है। सतत विकास लक्ष्य रिपोर्ट 2026 के अनुसार वर्ष 2015 में 2030 सतत विकास कार्य योजना को अपनाने के बाद निवेश, बेहतर नीतियों और अंतर्राष्ट्रीय सहयोग ने विश्व भर में अरबों लोगों के जीवन में सुधार हुआ। लगभग 100 करोड़ लोगों को सुरक्षित पेयजल और 120 करोड़ लोगों को सुरक्षित रूप से प्रबंधित स्वच्छता की सुविधा मिली है। रिपोर्ट के अनुसार 2015 और 2024 के बीच नए एच.आई.वी. संक्रमणों में 30 प्रतिशत की कमी आई है और एड्स से संबंधित मौतों में 35 प्रतिशत की कमी आई है। विश्व की 92 प्रतिशत आबादी तक बिजली पहुंच चुकी है। इंटरनेट का उपयोग 40 प्रतिशत से बढ़कर 74 प्रतिशत हो गई है। इतिहास में पहली बार दुनिया की आधे से अधिक आबादी सामाजिक सुरक्षा योजनाओं के दायरे में आई है। हिस्से को कवर करती है। संयुक्त राष्ट्र महासचिव एंटोनियो गुटेरेस ने कहा कि रिपोर्ट के आंकड़ों के आधार पर, वर्ष 2030 तक सतत विकास के लक्ष्यों को हासिल करना अब संभव है। संयुक्त राष्ट्र की उप महासचिव अमीना मोहम्मद ने लक्ष्य की प्राप्ति के लिए तीन प्रतिबद्धताओं पर बल दिया। इनमें लैंगिक समानता को बढ़ावा देना, नवीकरणीय ऊर्जा और लगातार बढ़ते सैन्य खर्च के बजाय विकास के साधनों में निवेश करके शांति को प्राथमिकता देना शामिल है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T02:30:46+00:00",
-        "link": "https://newsonair.gov.in/hi/satisfactory-progress-made-on-only-36-of-sustainable-development-goals-report/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/02/un.jpg",
+        "pubDate": "2026-07-08T03:11:52+00:00",
+        "link": "https://newsonair.gov.in/hi/india-and-indonesia-strongly-condemned-all-forms-of-terrorism/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-3.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -1215,6 +1193,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने वेनेज़ुएला का धन्यवाद किया",
+        "summary": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता […]",
+        "article": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता है। भारत ने 7.2 और 7.5 तीव्रता वाले विनाशकारी दोहरे भूकंपों के बाद वेनेज़ुएला की मदद के लिए &#8216;ऑपरेशन अमिस्ताद&#8217; शुरू किया था, जिनसे बड़े पैमाने पर तबाही हुई थी।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T05:21:11+00:00",
+        "link": "https://newsonair.gov.in/hi/ministry-of-external-affairs-spokesperson-randhir-jaiswal-thanked-venezuela/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/mea-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "किसी भी राष्ट्र की सबसे बड़ी शक्ति है धैर्य: प्रधानमंत्री नरेंद्र मोदी",
         "summary": "प्रधानमंत्री नरेंद्र मोदी ने कहा है कि धैर्य, किसी भी राष्ट्र की सबसे बड़ी शक्ति है, क्योंकि यह देश को सबसे कठिन चुनौतियों के बीच भी एकजुट रहने की प्रेरणा देता है। संस्कृत का एक प्रेरक कथन साझा करते हुए, श्री मोदी ने कहा कि धैर्य किसी राष्ट्र को निरंतर प्रगति, समृद्धि और आत्मनिर्भरता की […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी ने कहा है कि धैर्य, किसी भी राष्ट्र की सबसे बड़ी शक्ति है, क्योंकि यह देश को सबसे कठिन चुनौतियों के बीच भी एकजुट रहने की प्रेरणा देता है। संस्कृत का एक प्रेरक कथन साझा करते हुए, श्री मोदी ने कहा कि धैर्य किसी राष्ट्र को निरंतर प्रगति, समृद्धि और आत्मनिर्भरता की ओर ले जाता है।",
@@ -1237,27 +1226,14 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने वेनेज़ुएला का धन्यवाद किया",
-        "summary": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता […]",
-        "article": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता है। भारत ने 7.2 और 7.5 तीव्रता वाले विनाशकारी दोहरे भूकंपों के बाद वेनेज़ुएला की मदद के लिए &#8216;ऑपरेशन अमिस्ताद&#8217; शुरू किया था, जिनसे बड़े पैमाने पर तबाही हुई थी।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T05:21:11+00:00",
-        "link": "https://newsonair.gov.in/hi/ministry-of-external-affairs-spokesperson-randhir-jaiswal-thanked-venezuela/",
-        "post_id": 1725244,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "प्रधानमंत्री नरेंद्र मोदी आज इंडोनेशिया के योग्याकार्ता में प्रंबानन मंदिर का दौरा करेंगे",
         "summary": "प्रधानमंत्री नरेंद्र मोदी आज इंडोनेशिया के राष्ट्रपति के साथ योग्याकार्ता में प्रंबानन मंदिर का दौरा करेंगे। इससे भारत और इंडोनेशिया के बीच एक हजार वर्षों से चले आ रहे गहरे सांस्कृतिक और सभ्यतागत संबंध प्रदर्शित होते हैं। 9वीं शताब्दी में निर्मित प्रंबानन मंदिर, इंडोनेशिया का सबसे बड़ा हिंदू मंदिर परिसर और दक्षिणपूर्व एशिया की उत्कृष्ट […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी आज इंडोनेशिया के राष्ट्रपति के साथ योग्याकार्ता में प्रंबानन मंदिर का दौरा करेंगे। इससे भारत और इंडोनेशिया के बीच एक हजार वर्षों से चले आ रहे गहरे सांस्कृतिक और सभ्यतागत संबंध प्रदर्शित होते हैं। 9वीं शताब्दी में निर्मित प्रंबानन मंदिर, इंडोनेशिया का सबसे बड़ा हिंदू मंदिर परिसर और दक्षिणपूर्व एशिया की उत्कृष्ट स्थापत्य कला कृतियों में से एक है। मूल रूप इस परिसर में भगवान ब्रह्मा, विष्णु और शिव को समर्पित 240 छोटे-बड़े मंदिर हैं। इसमें पत्थरों पर रामायण के दृश्य उकेरे गये हैं। मंदिर परिसर में आज भी रामायण का मंचन किया जाता है। भारत और इंडोनेशिया ने प्रंबानन मंदिर परिसर के संरक्षण और जीर्णोद्धार के लिए कल एक महत्वपूर्ण पहल की घोषणा की। इस साझेदारी के तहत, भारत, भारतीय पुरातत्व सर्वेक्षण के माध्यम से, यूनेस्को विश्व धरोहर स्थल, प्रंबानन मंदिर के भीतर चुनिंदा संरचनाओं के संरक्षण और जीर्णोद्धार के लिए सहायता प्रदान करेगा।",
         "date": "2026-07-08",
         "pubDate": "2026-07-08T03:21:54+00:00",
         "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-visit-the-prambanan-temple-in-yogyakarta-indonesia-today/",
-        "post_id": 1725224,
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1267,9 +1243,8 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T03:18:12+00:00",
         "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-arrive-in-australia-today-for-the-second-leg-of-his-three-nation-tour/",
-        "post_id": 1725219,
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shanghai-5.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1279,9 +1254,8 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T03:11:52+00:00",
         "link": "https://newsonair.gov.in/hi/india-and-indonesia-strongly-condemned-all-forms-of-terrorism/",
-        "post_id": 1725181,
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
@@ -1331,6 +1305,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने वेनेज़ुएला का धन्यवाद किया",
+        "summary": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता […]",
+        "article": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता है। भारत ने 7.2 और 7.5 तीव्रता वाले विनाशकारी दोहरे भूकंपों के बाद वेनेज़ुएला की मदद के लिए &#8216;ऑपरेशन अमिस्ताद&#8217; शुरू किया था, जिनसे बड़े पैमाने पर तबाही हुई थी।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T05:21:11+00:00",
+        "link": "https://newsonair.gov.in/hi/ministry-of-external-affairs-spokesperson-randhir-jaiswal-thanked-venezuela/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/mea-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "किसी भी राष्ट्र की सबसे बड़ी शक्ति है धैर्य: प्रधानमंत्री नरेंद्र मोदी",
         "summary": "प्रधानमंत्री नरेंद्र मोदी ने कहा है कि धैर्य, किसी भी राष्ट्र की सबसे बड़ी शक्ति है, क्योंकि यह देश को सबसे कठिन चुनौतियों के बीच भी एकजुट रहने की प्रेरणा देता है। संस्कृत का एक प्रेरक कथन साझा करते हुए, श्री मोदी ने कहा कि धैर्य किसी राष्ट्र को निरंतर प्रगति, समृद्धि और आत्मनिर्भरता की […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी ने कहा है कि धैर्य, किसी भी राष्ट्र की सबसे बड़ी शक्ति है, क्योंकि यह देश को सबसे कठिन चुनौतियों के बीच भी एकजुट रहने की प्रेरणा देता है। संस्कृत का एक प्रेरक कथन साझा करते हुए, श्री मोदी ने कहा कि धैर्य किसी राष्ट्र को निरंतर प्रगति, समृद्धि और आत्मनिर्भरता की ओर ले जाता है।",
@@ -1353,27 +1338,14 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने वेनेज़ुएला का धन्यवाद किया",
-        "summary": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता […]",
-        "article": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता है। भारत ने 7.2 और 7.5 तीव्रता वाले विनाशकारी दोहरे भूकंपों के बाद वेनेज़ुएला की मदद के लिए &#8216;ऑपरेशन अमिस्ताद&#8217; शुरू किया था, जिनसे बड़े पैमाने पर तबाही हुई थी।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T05:21:11+00:00",
-        "link": "https://newsonair.gov.in/hi/ministry-of-external-affairs-spokesperson-randhir-jaiswal-thanked-venezuela/",
-        "post_id": 1725244,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "प्रधानमंत्री नरेंद्र मोदी आज इंडोनेशिया के योग्याकार्ता में प्रंबानन मंदिर का दौरा करेंगे",
         "summary": "प्रधानमंत्री नरेंद्र मोदी आज इंडोनेशिया के राष्ट्रपति के साथ योग्याकार्ता में प्रंबानन मंदिर का दौरा करेंगे। इससे भारत और इंडोनेशिया के बीच एक हजार वर्षों से चले आ रहे गहरे सांस्कृतिक और सभ्यतागत संबंध प्रदर्शित होते हैं। 9वीं शताब्दी में निर्मित प्रंबानन मंदिर, इंडोनेशिया का सबसे बड़ा हिंदू मंदिर परिसर और दक्षिणपूर्व एशिया की उत्कृष्ट […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी आज इंडोनेशिया के राष्ट्रपति के साथ योग्याकार्ता में प्रंबानन मंदिर का दौरा करेंगे। इससे भारत और इंडोनेशिया के बीच एक हजार वर्षों से चले आ रहे गहरे सांस्कृतिक और सभ्यतागत संबंध प्रदर्शित होते हैं। 9वीं शताब्दी में निर्मित प्रंबानन मंदिर, इंडोनेशिया का सबसे बड़ा हिंदू मंदिर परिसर और दक्षिणपूर्व एशिया की उत्कृष्ट स्थापत्य कला कृतियों में से एक है। मूल रूप इस परिसर में भगवान ब्रह्मा, विष्णु और शिव को समर्पित 240 छोटे-बड़े मंदिर हैं। इसमें पत्थरों पर रामायण के दृश्य उकेरे गये हैं। मंदिर परिसर में आज भी रामायण का मंचन किया जाता है। भारत और इंडोनेशिया ने प्रंबानन मंदिर परिसर के संरक्षण और जीर्णोद्धार के लिए कल एक महत्वपूर्ण पहल की घोषणा की। इस साझेदारी के तहत, भारत, भारतीय पुरातत्व सर्वेक्षण के माध्यम से, यूनेस्को विश्व धरोहर स्थल, प्रंबानन मंदिर के भीतर चुनिंदा संरचनाओं के संरक्षण और जीर्णोद्धार के लिए सहायता प्रदान करेगा।",
         "date": "2026-07-08",
         "pubDate": "2026-07-08T03:21:54+00:00",
         "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-visit-the-prambanan-temple-in-yogyakarta-indonesia-today/",
-        "post_id": 1725224,
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1383,9 +1355,8 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T03:18:12+00:00",
         "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-arrive-in-australia-today-for-the-second-leg-of-his-three-nation-tour/",
-        "post_id": 1725219,
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shanghai-5.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1395,9 +1366,8 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T03:11:52+00:00",
         "link": "https://newsonair.gov.in/hi/india-and-indonesia-strongly-condemned-all-forms-of-terrorism/",
-        "post_id": 1725181,
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
@@ -1447,6 +1417,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने वेनेज़ुएला का धन्यवाद किया",
+        "summary": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता […]",
+        "article": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता है। भारत ने 7.2 और 7.5 तीव्रता वाले विनाशकारी दोहरे भूकंपों के बाद वेनेज़ुएला की मदद के लिए &#8216;ऑपरेशन अमिस्ताद&#8217; शुरू किया था, जिनसे बड़े पैमाने पर तबाही हुई थी।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T05:21:11+00:00",
+        "link": "https://newsonair.gov.in/hi/ministry-of-external-affairs-spokesperson-randhir-jaiswal-thanked-venezuela/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/mea-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "किसी भी राष्ट्र की सबसे बड़ी शक्ति है धैर्य: प्रधानमंत्री नरेंद्र मोदी",
         "summary": "प्रधानमंत्री नरेंद्र मोदी ने कहा है कि धैर्य, किसी भी राष्ट्र की सबसे बड़ी शक्ति है, क्योंकि यह देश को सबसे कठिन चुनौतियों के बीच भी एकजुट रहने की प्रेरणा देता है। संस्कृत का एक प्रेरक कथन साझा करते हुए, श्री मोदी ने कहा कि धैर्य किसी राष्ट्र को निरंतर प्रगति, समृद्धि और आत्मनिर्भरता की […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी ने कहा है कि धैर्य, किसी भी राष्ट्र की सबसे बड़ी शक्ति है, क्योंकि यह देश को सबसे कठिन चुनौतियों के बीच भी एकजुट रहने की प्रेरणा देता है। संस्कृत का एक प्रेरक कथन साझा करते हुए, श्री मोदी ने कहा कि धैर्य किसी राष्ट्र को निरंतर प्रगति, समृद्धि और आत्मनिर्भरता की ओर ले जाता है।",
@@ -1469,27 +1450,14 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने वेनेज़ुएला का धन्यवाद किया",
-        "summary": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता […]",
-        "article": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता है। भारत ने 7.2 और 7.5 तीव्रता वाले विनाशकारी दोहरे भूकंपों के बाद वेनेज़ुएला की मदद के लिए &#8216;ऑपरेशन अमिस्ताद&#8217; शुरू किया था, जिनसे बड़े पैमाने पर तबाही हुई थी।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T05:21:11+00:00",
-        "link": "https://newsonair.gov.in/hi/ministry-of-external-affairs-spokesperson-randhir-jaiswal-thanked-venezuela/",
-        "post_id": 1725244,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "प्रधानमंत्री नरेंद्र मोदी आज इंडोनेशिया के योग्याकार्ता में प्रंबानन मंदिर का दौरा करेंगे",
         "summary": "प्रधानमंत्री नरेंद्र मोदी आज इंडोनेशिया के राष्ट्रपति के साथ योग्याकार्ता में प्रंबानन मंदिर का दौरा करेंगे। इससे भारत और इंडोनेशिया के बीच एक हजार वर्षों से चले आ रहे गहरे सांस्कृतिक और सभ्यतागत संबंध प्रदर्शित होते हैं। 9वीं शताब्दी में निर्मित प्रंबानन मंदिर, इंडोनेशिया का सबसे बड़ा हिंदू मंदिर परिसर और दक्षिणपूर्व एशिया की उत्कृष्ट […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी आज इंडोनेशिया के राष्ट्रपति के साथ योग्याकार्ता में प्रंबानन मंदिर का दौरा करेंगे। इससे भारत और इंडोनेशिया के बीच एक हजार वर्षों से चले आ रहे गहरे सांस्कृतिक और सभ्यतागत संबंध प्रदर्शित होते हैं। 9वीं शताब्दी में निर्मित प्रंबानन मंदिर, इंडोनेशिया का सबसे बड़ा हिंदू मंदिर परिसर और दक्षिणपूर्व एशिया की उत्कृष्ट स्थापत्य कला कृतियों में से एक है। मूल रूप इस परिसर में भगवान ब्रह्मा, विष्णु और शिव को समर्पित 240 छोटे-बड़े मंदिर हैं। इसमें पत्थरों पर रामायण के दृश्य उकेरे गये हैं। मंदिर परिसर में आज भी रामायण का मंचन किया जाता है। भारत और इंडोनेशिया ने प्रंबानन मंदिर परिसर के संरक्षण और जीर्णोद्धार के लिए कल एक महत्वपूर्ण पहल की घोषणा की। इस साझेदारी के तहत, भारत, भारतीय पुरातत्व सर्वेक्षण के माध्यम से, यूनेस्को विश्व धरोहर स्थल, प्रंबानन मंदिर के भीतर चुनिंदा संरचनाओं के संरक्षण और जीर्णोद्धार के लिए सहायता प्रदान करेगा।",
         "date": "2026-07-08",
         "pubDate": "2026-07-08T03:21:54+00:00",
         "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-visit-the-prambanan-temple-in-yogyakarta-indonesia-today/",
-        "post_id": 1725224,
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1499,9 +1467,8 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T03:18:12+00:00",
         "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-arrive-in-australia-today-for-the-second-leg-of-his-three-nation-tour/",
-        "post_id": 1725219,
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shanghai-5.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1511,9 +1478,8 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T03:11:52+00:00",
         "link": "https://newsonair.gov.in/hi/india-and-indonesia-strongly-condemned-all-forms-of-terrorism/",
-        "post_id": 1725181,
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
