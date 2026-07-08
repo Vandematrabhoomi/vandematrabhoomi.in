@@ -1,6 +1,6 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-08T18:11:00.452773",
+  "generated": "2026-07-08T22:17:03.073495",
   "en": {
     "top": [
       {
@@ -37,13 +37,13 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "IMF Projects India to Remain World’s Fastest-Growing Major Economy",
-        "summary": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year […]",
-        "article": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year to 6.4 per cent. The report said, the projected performance of Indian economy is supported by strong momentum in private consumption and services activity. India’s growth projections are more than twice the global numbers, as the report gave a 3 per cent projection for the world economy’s growth this year. The report presented a relatively positive outlook for the world economy growth, as it is expected to rise 3.4 per cent next year. China, which is the second fastest-growing economy, was projected to grow by 4.6 per cent this year and lose a half point, falling to 4.1 per cent next year. The US ranked third with a projected growth of 2.3 per cent this year and 2.2 per cent next year.",
+        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
+        "summary": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy […]",
+        "article": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy supplies and commerce. New Delhi has urged the parties to return to dialogue and diplomacy to achieve a peaceful and lasting solution to the conflict.",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:31:44+00:00",
-        "link": "https://newsonair.gov.in/imf-projects-india-to-remain-worlds-fastest-growing-major-economy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/IMF.jpg",
+        "pubDate": "2026-07-08T16:34:43+00:00",
+        "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mea-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -81,6 +81,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "EAM Jaishankar Meets Kuwait PM, Discusses Bilateral Cooperation",
+        "summary": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar […]",
+        "article": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar also met Defence Minister Abdullah Ali Abdullah Al-Salem Al-Sabah. The External Affairs Minister spoke about defence industry cooperation and maritime security.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T15:54:48+00:00",
+        "link": "https://newsonair.gov.in/eam-jaishankar-meets-kuwait-pm-discusses-bilateral-cooperation/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/kuwait.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "CEC Gyanesh Kumar Urges Officials to Counter Misinformation on Elections",
         "summary": "Chief Election Commissioner Gyanesh Kumar emphasized that each and every action of the Commission is based on the Constitution of India, electoral laws and written instructions issued from time to time in a transparent manner. Addressing the participants in third One-Day Conference for Media and Communication Officers in New Delhi, Mr Kumar said that the […]",
         "article": "Chief Election Commissioner Gyanesh Kumar emphasized that each and every action of the Commission is based on the Constitution of India, electoral laws and written instructions issued from time to time in a transparent manner. Addressing the participants in third One-Day Conference for Media and Communication Officers in New Delhi, Mr Kumar said that the highest ever voter turnouts in the recent Assembly Elections are a proof of the trust that the Indian electors have in the country’s electoral system. Cautioning the officials about the false narrative propagated on social media, Mr Kumar said the officials need to engage proactively to prevent the spread of misinformation. Election Commissioner Dr. Vivek Joshi also addressed the participants and urged the Media and Communication Officers to counter such attempts based on the rules, instructions and guidelines of the Commission. Around 200 Media and Communication Officers from 10 States and Union Territories participated in the conference. During the conference, participants were witnessed demonstration of the preparation of electoral rolls, polling process, and counting process in groups, followed by a guided walkthrough of the Exhibition and Media Corner.",
@@ -103,6 +114,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "India, Russia reaffirm commitment to strengthen counter terrorism cooperation at multilateral fora",
+        "summary": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister […]",
+        "article": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister of Russia, Dmitry Lyubinski co-chaired the meeting. Both sides condemned terrorism in all its forms and manifestation including cross-border terrorism, and called for concerted action against terrorists and terrorist groups and their proxies and affiliates. They shared their assessment on regional and global terrorism and agreed to enhance cooperation to address challenges such as radicalization, terror financing and misuse of new and emerging technologies for terrorist purposes.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T15:32:56+00:00",
+        "link": "https://newsonair.gov.in/india-russia-reaffirm-counter-terrorism-cooperation-at-joint-working-group-meeting/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/russia.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "US President Trump says, ceasefire with Iran is over",
         "summary": "US President Donald Trump today announced that the ceasefire with Iran is over. Speaking to reporters at the North Atlantic Treaty Organization (NATO) Summit in Ankara, Trump said that he does not want to waste his time negotiating with Iran. However, he said US representatives can continue negotiations, but he cast doubt on the outcome. […]",
         "article": "US President Donald Trump today announced that the ceasefire with Iran is over. Speaking to reporters at the North Atlantic Treaty Organization (NATO) Summit in Ankara, Trump said that he does not want to waste his time negotiating with Iran. However, he said US representatives can continue negotiations, but he cast doubt on the outcome. Trump&#8217;s statement comes hours after the US carried out a new round of military strikes against Iran, targeting more than 80 sites. The US said, the strikes were in response to Tehran’s attacks on commercial ships in the Strait of Hormuz. Announcing the operation, US Central Command (CENTCOM) said, the strikes were conducted using precision-guided munitions and were aimed at degrading Iran’s ability to threaten international maritime commerce. The Iranian military said, coastal bases and civilian facilities were struck in the provinces of Hormozgan and Mahshar. According to the Islamic Revolutionary Guard Corps (IRGC), strikes also hit Bandar Mashahr, south-west Iran. IRGC said, it had responded to the strikes by targeting US assets in neighbouring countries as sirens went off in Bahrain and Kuwait. Meanwhile, Kuwait&#8217;s Defence Ministry said, it intercepted two ballistic missiles and 13 drones overnight. Qatar condemned Iranian attacks on Bahrain and Kuwait, which its foreign ministry said were a blatant breach of international law and the two countries&#8217; sovereignty.",
@@ -110,28 +132,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T14:42:58+00:00",
         "link": "https://newsonair.gov.in/u-s-president-trump-says-mou-to-end-iran-conflict-is-over/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260616321f-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, Maldives Reiterate Commitment to Bilateral Investment Treaty and FTA",
-        "summary": "India and Maldives today reaffirmed their commitment to expediting the signing of the Bilateral Investment Treaty and the proposed Free Trade Agreement. In a social media post, Union Commerce and Industry Minister Piyush Goyal said that he held discussions with the Maldives&#8217; Minister of Economic Development and Trade, Mohamed Saeed, in New Delhi. Mr. Goyal […]",
-        "article": "India and Maldives today reaffirmed their commitment to expediting the signing of the Bilateral Investment Treaty and the proposed Free Trade Agreement. In a social media post, Union Commerce and Industry Minister Piyush Goyal said that he held discussions with the Maldives&#8217; Minister of Economic Development and Trade, Mohamed Saeed, in New Delhi. Mr. Goyal added that the agreements will further strengthen cooperation in tourism, startups, digital payments, MSMEs, and trade to unlock new opportunities for both countries. India and Maldives are celebrating 60 years of diplomatic relations this year.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T13:44:40+00:00",
-        "link": "https://newsonair.gov.in/india-maldives-reiterate-commitment-to-bilateral-investment-treaty-and-fta/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/comm.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Three Killed in Overnight Russian Attacks on Ukraine",
-        "summary": "Three people were killed across Ukraine in overnight Russian attacks, including one in Kyiv. In Kharkiv, two people were killed and 20 others were injured. Ukraine&#8217;s Air Force said Russia fired 169 long-range strike drones and seven missiles, including five ballistics last night. Russia&#8217;s Defence Ministry said the military carried out a strike on arms […]",
-        "article": "Three people were killed across Ukraine in overnight Russian attacks, including one in Kyiv. In Kharkiv, two people were killed and 20 others were injured. Ukraine&#8217;s Air Force said Russia fired 169 long-range strike drones and seven missiles, including five ballistics last night. Russia&#8217;s Defence Ministry said the military carried out a strike on arms industry facilities in Kyiv, hitting a plant that was manufacturing components for Flamingo cruise missiles and a facility assembling mid- and long-range drones. The ministry also said air defences shot down 415 Ukrainian drones overnight.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T12:56:50+00:00",
-        "link": "https://newsonair.gov.in/three-killed-in-overnight-russian-attacks-on-ukraine/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats-7.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -171,6 +171,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
+        "summary": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy […]",
+        "article": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy supplies and commerce. New Delhi has urged the parties to return to dialogue and diplomacy to achieve a peaceful and lasting solution to the conflict.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T16:34:43+00:00",
+        "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mea-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Union Minister Pralhad Joshi Holds Talks with States on Food Security Issues",
         "summary": "Union Minister of Consumer Affairs, Food and Public Distribution Pralhad Joshi today met Ministers and representatives from various states in New Delhi to discuss food security concerns. In a series of social media post, Mr Joshi said that he met Kerala&#8217;s Minister for Food and Civil Supplies, Anoop Jacob to discuss key issues concerning food security, […]",
         "article": "Union Minister of Consumer Affairs, Food and Public Distribution Pralhad Joshi today met Ministers and representatives from various states in New Delhi to discuss food security concerns. In a series of social media post , Mr Joshi said that he met Kerala&#8217;s Minister for Food and Civil Supplies, Anoop Jacob to discuss key issues concerning food security, the Public Distribution System, consumer affairs and legal metrology in the State. They deliberated on paddy procurement and related matters, along with measures to strengthen the Public Distribution System and consumer protection. During the meeting, Mr Joshi urged Kerala Government to adopt the rightful beneficiary targeting methodology followed by other States to ensure that food support reaches only genuine and eligible beneficiaries. He assured that the issues raised will be examined in accordance with the existing policy framework. The Consumer Affairs Minister also met Karnataka&#8217;s Minister of Food and Civil Supplies, K. H. Muniyappa and discussed matters related to the state&#8217;s Food and Civil Supplies Department. Discussions were held regarding the grants under the previous year&#8217;s MSP scheme. Earlier in the day, Mr Joshi met a delegation led by Union Minister G Kishan Reddy to discuss Telangana&#8217;s paddy procurement requirements. The delegation highlighted the State&#8217;s rising production and sought consideration for enhancing the procurement target to ensure better support for farmers. It also expressed appreciation for the Centre&#8217;s consistent support to Telangana through timely policy interventions and procurement-related decisions over the years. The Union Minister has asked the Department to examine the proposal in detail and assess its feasibility in accordance with the prevailing guidelines.",
@@ -189,6 +200,17 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T15:58:14+00:00",
         "link": "https://newsonair.gov.in/pm-modi-to-inaugurate-redeveloped-jalandhar-cantt-railway-station/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/jal.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM Jaishankar Meets Kuwait PM, Discusses Bilateral Cooperation",
+        "summary": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar […]",
+        "article": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar also met Defence Minister Abdullah Ali Abdullah Al-Salem Al-Sabah. The External Affairs Minister spoke about defence industry cooperation and maritime security.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T15:54:48+00:00",
+        "link": "https://newsonair.gov.in/eam-jaishankar-meets-kuwait-pm-discusses-bilateral-cooperation/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/kuwait.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -215,39 +237,14 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
-        "summary": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy […]",
-        "article": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy supplies and commerce. New Delhi has urged the parties to return to dialogue and diplomacy to achieve a peaceful and lasting solution to the conflict.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:34:43+00:00",
-        "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
-        "post_id": 1726819,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EAM Jaishankar Meets Kuwait PM, Discusses Bilateral Cooperation",
-        "summary": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar […]",
-        "article": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar also met Defence Minister Abdullah Ali Abdullah Al-Salem Al-Sabah. The External Affairs Minister spoke about defence industry cooperation and maritime security.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:54:48+00:00",
-        "link": "https://newsonair.gov.in/eam-jaishankar-meets-kuwait-pm-discusses-bilateral-cooperation/",
-        "post_id": 1726708,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "India, Russia reaffirm commitment to strengthen counter terrorism cooperation at multilateral fora",
         "summary": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister […]",
         "article": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister of Russia, Dmitry Lyubinski co-chaired the meeting. Both sides condemned terrorism in all its forms and manifestation including cross-border terrorism, and called for concerted action against terrorists and terrorist groups and their proxies and affiliates. They shared their assessment on regional and global terrorism and agreed to enhance cooperation to address challenges such as radicalization, terror financing and misuse of new and emerging technologies for terrorist purposes.",
         "date": "2026-07-08",
         "pubDate": "2026-07-08T15:32:56+00:00",
         "link": "https://newsonair.gov.in/india-russia-reaffirm-counter-terrorism-cooperation-at-joint-working-group-meeting/",
-        "post_id": 1726128,
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/russia.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
@@ -286,6 +283,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
+        "summary": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy […]",
+        "article": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy supplies and commerce. New Delhi has urged the parties to return to dialogue and diplomacy to achieve a peaceful and lasting solution to the conflict.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T16:34:43+00:00",
+        "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mea-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Union Minister Pralhad Joshi Holds Talks with States on Food Security Issues",
         "summary": "Union Minister of Consumer Affairs, Food and Public Distribution Pralhad Joshi today met Ministers and representatives from various states in New Delhi to discuss food security concerns. In a series of social media post, Mr Joshi said that he met Kerala&#8217;s Minister for Food and Civil Supplies, Anoop Jacob to discuss key issues concerning food security, […]",
         "article": "Union Minister of Consumer Affairs, Food and Public Distribution Pralhad Joshi today met Ministers and representatives from various states in New Delhi to discuss food security concerns. In a series of social media post , Mr Joshi said that he met Kerala&#8217;s Minister for Food and Civil Supplies, Anoop Jacob to discuss key issues concerning food security, the Public Distribution System, consumer affairs and legal metrology in the State. They deliberated on paddy procurement and related matters, along with measures to strengthen the Public Distribution System and consumer protection. During the meeting, Mr Joshi urged Kerala Government to adopt the rightful beneficiary targeting methodology followed by other States to ensure that food support reaches only genuine and eligible beneficiaries. He assured that the issues raised will be examined in accordance with the existing policy framework. The Consumer Affairs Minister also met Karnataka&#8217;s Minister of Food and Civil Supplies, K. H. Muniyappa and discussed matters related to the state&#8217;s Food and Civil Supplies Department. Discussions were held regarding the grants under the previous year&#8217;s MSP scheme. Earlier in the day, Mr Joshi met a delegation led by Union Minister G Kishan Reddy to discuss Telangana&#8217;s paddy procurement requirements. The delegation highlighted the State&#8217;s rising production and sought consideration for enhancing the procurement target to ensure better support for farmers. It also expressed appreciation for the Centre&#8217;s consistent support to Telangana through timely policy interventions and procurement-related decisions over the years. The Union Minister has asked the Department to examine the proposal in detail and assess its feasibility in accordance with the prevailing guidelines.",
@@ -304,6 +312,17 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T15:58:14+00:00",
         "link": "https://newsonair.gov.in/pm-modi-to-inaugurate-redeveloped-jalandhar-cantt-railway-station/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/jal.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM Jaishankar Meets Kuwait PM, Discusses Bilateral Cooperation",
+        "summary": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar […]",
+        "article": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar also met Defence Minister Abdullah Ali Abdullah Al-Salem Al-Sabah. The External Affairs Minister spoke about defence industry cooperation and maritime security.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T15:54:48+00:00",
+        "link": "https://newsonair.gov.in/eam-jaishankar-meets-kuwait-pm-discusses-bilateral-cooperation/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/kuwait.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -330,39 +349,14 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
-        "summary": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy […]",
-        "article": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy supplies and commerce. New Delhi has urged the parties to return to dialogue and diplomacy to achieve a peaceful and lasting solution to the conflict.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:34:43+00:00",
-        "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
-        "post_id": 1726819,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EAM Jaishankar Meets Kuwait PM, Discusses Bilateral Cooperation",
-        "summary": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar […]",
-        "article": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar also met Defence Minister Abdullah Ali Abdullah Al-Salem Al-Sabah. The External Affairs Minister spoke about defence industry cooperation and maritime security.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:54:48+00:00",
-        "link": "https://newsonair.gov.in/eam-jaishankar-meets-kuwait-pm-discusses-bilateral-cooperation/",
-        "post_id": 1726708,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "India, Russia reaffirm commitment to strengthen counter terrorism cooperation at multilateral fora",
         "summary": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister […]",
         "article": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister of Russia, Dmitry Lyubinski co-chaired the meeting. Both sides condemned terrorism in all its forms and manifestation including cross-border terrorism, and called for concerted action against terrorists and terrorist groups and their proxies and affiliates. They shared their assessment on regional and global terrorism and agreed to enhance cooperation to address challenges such as radicalization, terror financing and misuse of new and emerging technologies for terrorist purposes.",
         "date": "2026-07-08",
         "pubDate": "2026-07-08T15:32:56+00:00",
         "link": "https://newsonair.gov.in/india-russia-reaffirm-counter-terrorism-cooperation-at-joint-working-group-meeting/",
-        "post_id": 1726128,
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/russia.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
@@ -401,6 +395,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
+        "summary": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy […]",
+        "article": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy supplies and commerce. New Delhi has urged the parties to return to dialogue and diplomacy to achieve a peaceful and lasting solution to the conflict.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T16:34:43+00:00",
+        "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mea-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Union Minister Pralhad Joshi Holds Talks with States on Food Security Issues",
         "summary": "Union Minister of Consumer Affairs, Food and Public Distribution Pralhad Joshi today met Ministers and representatives from various states in New Delhi to discuss food security concerns. In a series of social media post, Mr Joshi said that he met Kerala&#8217;s Minister for Food and Civil Supplies, Anoop Jacob to discuss key issues concerning food security, […]",
         "article": "Union Minister of Consumer Affairs, Food and Public Distribution Pralhad Joshi today met Ministers and representatives from various states in New Delhi to discuss food security concerns. In a series of social media post , Mr Joshi said that he met Kerala&#8217;s Minister for Food and Civil Supplies, Anoop Jacob to discuss key issues concerning food security, the Public Distribution System, consumer affairs and legal metrology in the State. They deliberated on paddy procurement and related matters, along with measures to strengthen the Public Distribution System and consumer protection. During the meeting, Mr Joshi urged Kerala Government to adopt the rightful beneficiary targeting methodology followed by other States to ensure that food support reaches only genuine and eligible beneficiaries. He assured that the issues raised will be examined in accordance with the existing policy framework. The Consumer Affairs Minister also met Karnataka&#8217;s Minister of Food and Civil Supplies, K. H. Muniyappa and discussed matters related to the state&#8217;s Food and Civil Supplies Department. Discussions were held regarding the grants under the previous year&#8217;s MSP scheme. Earlier in the day, Mr Joshi met a delegation led by Union Minister G Kishan Reddy to discuss Telangana&#8217;s paddy procurement requirements. The delegation highlighted the State&#8217;s rising production and sought consideration for enhancing the procurement target to ensure better support for farmers. It also expressed appreciation for the Centre&#8217;s consistent support to Telangana through timely policy interventions and procurement-related decisions over the years. The Union Minister has asked the Department to examine the proposal in detail and assess its feasibility in accordance with the prevailing guidelines.",
@@ -419,6 +424,17 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T15:58:14+00:00",
         "link": "https://newsonair.gov.in/pm-modi-to-inaugurate-redeveloped-jalandhar-cantt-railway-station/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/jal.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM Jaishankar Meets Kuwait PM, Discusses Bilateral Cooperation",
+        "summary": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar […]",
+        "article": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar also met Defence Minister Abdullah Ali Abdullah Al-Salem Al-Sabah. The External Affairs Minister spoke about defence industry cooperation and maritime security.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T15:54:48+00:00",
+        "link": "https://newsonair.gov.in/eam-jaishankar-meets-kuwait-pm-discusses-bilateral-cooperation/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/kuwait.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -445,65 +461,18 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
-        "summary": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy […]",
-        "article": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy supplies and commerce. New Delhi has urged the parties to return to dialogue and diplomacy to achieve a peaceful and lasting solution to the conflict.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:34:43+00:00",
-        "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
-        "post_id": 1726819,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EAM Jaishankar Meets Kuwait PM, Discusses Bilateral Cooperation",
-        "summary": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar […]",
-        "article": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar also met Defence Minister Abdullah Ali Abdullah Al-Salem Al-Sabah. The External Affairs Minister spoke about defence industry cooperation and maritime security.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:54:48+00:00",
-        "link": "https://newsonair.gov.in/eam-jaishankar-meets-kuwait-pm-discusses-bilateral-cooperation/",
-        "post_id": 1726708,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "India, Russia reaffirm commitment to strengthen counter terrorism cooperation at multilateral fora",
         "summary": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister […]",
         "article": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister of Russia, Dmitry Lyubinski co-chaired the meeting. Both sides condemned terrorism in all its forms and manifestation including cross-border terrorism, and called for concerted action against terrorists and terrorist groups and their proxies and affiliates. They shared their assessment on regional and global terrorism and agreed to enhance cooperation to address challenges such as radicalization, terror financing and misuse of new and emerging technologies for terrorist purposes.",
         "date": "2026-07-08",
         "pubDate": "2026-07-08T15:32:56+00:00",
         "link": "https://newsonair.gov.in/india-russia-reaffirm-counter-terrorism-cooperation-at-joint-working-group-meeting/",
-        "post_id": 1726128,
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/russia.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "world": [
-      {
-        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
-        "summary": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy […]",
-        "article": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy supplies and commerce. New Delhi has urged the parties to return to dialogue and diplomacy to achieve a peaceful and lasting solution to the conflict.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:34:43+00:00",
-        "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mea-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMF Projects India to Remain World’s Fastest-Growing Major Economy",
-        "summary": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year […]",
-        "article": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year to 6.4 per cent. The report said, the projected performance of Indian economy is supported by strong momentum in private consumption and services activity. India’s growth projections are more than twice the global numbers, as the report gave a 3 per cent projection for the world economy’s growth this year. The report presented a relatively positive outlook for the world economy growth, as it is expected to rise 3.4 per cent next year. China, which is the second fastest-growing economy, was projected to grow by 4.6 per cent this year and lose a half point, falling to 4.1 per cent next year. The US ranked third with a projected growth of 2.3 per cent this year and 2.2 per cent next year.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:31:44+00:00",
-        "link": "https://newsonair.gov.in/imf-projects-india-to-remain-worlds-fastest-growing-major-economy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/IMF.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
       {
         "title": "Trump Accuses NATO Allies of Failing to Back US During Iran Operation",
         "summary": "US President Donald Trump today accused several key NATO allies of refusing to support the United States during its military operation against Iran. Mr. Trump said response of NATO allies left him disappointed despite decades of American security commitments to Europe. He was speaking alongside NATO Secretary General Mark Rutte before a meeting of alliance leaders in […]",
@@ -512,28 +481,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T16:13:11+00:00",
         "link": "https://newsonair.gov.in/trump-accuses-nato-allies-of-failing-to-back-us-during-iran-operation/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/trump-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EAM Jaishankar Meets Kuwait PM, Discusses Bilateral Cooperation",
-        "summary": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar […]",
-        "article": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar also met Defence Minister Abdullah Ali Abdullah Al-Salem Al-Sabah. The External Affairs Minister spoke about defence industry cooperation and maritime security.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:54:48+00:00",
-        "link": "https://newsonair.gov.in/eam-jaishankar-meets-kuwait-pm-discusses-bilateral-cooperation/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/kuwait.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, Russia reaffirm commitment to strengthen counter terrorism cooperation at multilateral fora",
-        "summary": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister […]",
-        "article": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister of Russia, Dmitry Lyubinski co-chaired the meeting. Both sides condemned terrorism in all its forms and manifestation including cross-border terrorism, and called for concerted action against terrorists and terrorist groups and their proxies and affiliates. They shared their assessment on regional and global terrorism and agreed to enhance cooperation to address challenges such as radicalization, terror financing and misuse of new and emerging technologies for terrorist purposes.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:32:56+00:00",
-        "link": "https://newsonair.gov.in/india-russia-reaffirm-counter-terrorism-cooperation-at-joint-working-group-meeting/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/russia.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -590,6 +537,54 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/pm-modi-concludes-indonesia-visit-departs-for-australia-for-second-leg-of-his-three-country-tour/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi.png",
         "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
+        "summary": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy […]",
+        "article": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy supplies and commerce. New Delhi has urged the parties to return to dialogue and diplomacy to achieve a peaceful and lasting solution to the conflict.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T16:34:43+00:00",
+        "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
+        "post_id": 1726819,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "IMF Projects India to Remain World’s Fastest-Growing Major Economy",
+        "summary": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year […]",
+        "article": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year to 6.4 per cent. The report said, the projected performance of Indian economy is supported by strong momentum in private consumption and services activity. India’s growth projections are more than twice the global numbers, as the report gave a 3 per cent projection for the world economy’s growth this year. The report presented a relatively positive outlook for the world economy growth, as it is expected to rise 3.4 per cent next year. China, which is the second fastest-growing economy, was projected to grow by 4.6 per cent this year and lose a half point, falling to 4.1 per cent next year. The US ranked third with a projected growth of 2.3 per cent this year and 2.2 per cent next year.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T16:31:44+00:00",
+        "link": "https://newsonair.gov.in/imf-projects-india-to-remain-worlds-fastest-growing-major-economy/",
+        "post_id": 1726776,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM Jaishankar Meets Kuwait PM, Discusses Bilateral Cooperation",
+        "summary": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar […]",
+        "article": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar also met Defence Minister Abdullah Ali Abdullah Al-Salem Al-Sabah. The External Affairs Minister spoke about defence industry cooperation and maritime security.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T15:54:48+00:00",
+        "link": "https://newsonair.gov.in/eam-jaishankar-meets-kuwait-pm-discusses-bilateral-cooperation/",
+        "post_id": 1726708,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, Russia reaffirm commitment to strengthen counter terrorism cooperation at multilateral fora",
+        "summary": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister […]",
+        "article": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister of Russia, Dmitry Lyubinski co-chaired the meeting. Both sides condemned terrorism in all its forms and manifestation including cross-border terrorism, and called for concerted action against terrorists and terrorist groups and their proxies and affiliates. They shared their assessment on regional and global terrorism and agreed to enhance cooperation to address challenges such as radicalization, terror financing and misuse of new and emerging technologies for terrorist purposes.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T15:32:56+00:00",
+        "link": "https://newsonair.gov.in/india-russia-reaffirm-counter-terrorism-cooperation-at-joint-working-group-meeting/",
+        "post_id": 1726128,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -707,6 +702,17 @@ window.VM_NEWS = {
     ],
     "business": [
       {
+        "title": "IMF Projects India to Remain World’s Fastest-Growing Major Economy",
+        "summary": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year […]",
+        "article": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year to 6.4 per cent. The report said, the projected performance of Indian economy is supported by strong momentum in private consumption and services activity. India’s growth projections are more than twice the global numbers, as the report gave a 3 per cent projection for the world economy’s growth this year. The report presented a relatively positive outlook for the world economy growth, as it is expected to rise 3.4 per cent next year. China, which is the second fastest-growing economy, was projected to grow by 4.6 per cent this year and lose a half point, falling to 4.1 per cent next year. The US ranked third with a projected growth of 2.3 per cent this year and 2.2 per cent next year.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T16:31:44+00:00",
+        "link": "https://newsonair.gov.in/imf-projects-india-to-remain-worlds-fastest-growing-major-economy/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/IMF.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "EPFO to Credit 8.25% Interest for FY 2025-26 by July 15",
         "summary": "The Employees&#8217; Provident Fund Organisation (EPFO) will complete the credit of 8.25 percent interest for the financial year 2025-26 into nearly 34 crore EPF accounts by 15th of July. Union Labour and Employment Minister Dr Mansukh Mandaviya said that over 1.44 lakh crore rupees will be credited to subscribers through its new Centralised IT Enabled […]",
         "article": "The Employees&#8217; Provident Fund Organisation (EPFO) will complete the credit of 8.25 percent interest for the financial year 2025-26 into nearly 34 crore EPF accounts by 15th of July. Union Labour and Employment Minister Dr Mansukh Mandaviya said that over 1.44 lakh crore rupees will be credited to subscribers through its new Centralised IT Enabled Services (CITES) system. The Minister said that the EPFO has completed the process of migrating its entire database of member records from decentralised architecture to the new centralised database. Under the new system, EPF members will have access to a unified member portal where they can view membership details, PF balances, claim status, pensionable service records and benefits through a single interface. The Minister said that the CITES platform also introduces automated pre-validation of claims. Before a withdrawal request reaches an EPFO office, the system will verify eligibility, identify deficiencies and inform members if they are attempting to claim more than the permissible amount. The move is expected to reduce claim rejections and improve first-time claim acceptance rates. The CITES Project is an initiative to modernize EPFO&#8217;s service delivery through automation and rule-based processing. The project is designed to enhance member convenience, improve EPFO operational efficiency, thereby deliver transparent, and seamless citizen-centric services.",
@@ -803,18 +809,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/gold-silver-prices-down-5/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/gold-silver.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMF Projects India to Remain World’s Fastest-Growing Major Economy",
-        "summary": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year […]",
-        "article": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year to 6.4 per cent. The report said, the projected performance of Indian economy is supported by strong momentum in private consumption and services activity. India’s growth projections are more than twice the global numbers, as the report gave a 3 per cent projection for the world economy’s growth this year. The report presented a relatively positive outlook for the world economy growth, as it is expected to rise 3.4 per cent next year. China, which is the second fastest-growing economy, was projected to grow by 4.6 per cent this year and lose a half point, falling to 4.1 per cent next year. The US ranked third with a projected growth of 2.3 per cent this year and 2.2 per cent next year.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:31:44+00:00",
-        "link": "https://newsonair.gov.in/imf-projects-india-to-remain-worlds-fastest-growing-major-economy/",
-        "post_id": 1726776,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -1046,17 +1040,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की",
-        "summary": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। […]",
-        "article": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। भारत ने ऊर्जा आपूर्ति और व्यापार की निर्बाध आवाजाही बनाए रखने पर भी जोर दिया है। साथ ही, सभी पक्षों से बातचीत और कूटनीति के माध्यम से इस संकट का शांतिपूर्ण और स्थायी समाधान निकालने का आग्रह किया है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:17:56+00:00",
-        "link": "https://newsonair.gov.in/hi/india-expressed-deep-concern-over-the-rising-tension-in-west-asia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mea-1-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में भारत का स्थान बरकरार",
         "summary": "अंतर्राष्ट्रीय मुद्रा कोष- आई.एम.एफ के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा आज जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू […]",
         "article": "अंतर्राष्ट्रीय मुद्रा कोष- आई.एम.एफ के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा आज जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू उत्पाद- जीडीपी में 6 दशमलव चार प्रतिशत की मामूली वृद्धि का अनुमान है। रिपोर्ट में कहा गया है कि भारतीय अर्थव्यवस्था के अनुमानित प्रदर्शन को निजी उपभोग और सेवा गतिविधियों में मजबूत गति का समर्थन प्राप्त है। भारत के वृद्धि अनुमान वैश्विक अनुमानों से दोगुने से भी अधिक हैं। रिपोर्ट में इस वर्ष विश्व अर्थव्यवस्था की वृद्धि दर 3 प्रतिशत बताई गई है। इसमें अगले वर्ष 3 दशमलव चार प्रतिशत की वृद्धि होने की उम्मीद है। दूसरी सबसे तेजी से बढ़ती अर्थव्यवस्था, चीन के जीडीपी में इस वर्ष 4 दशमलव छह प्रतिशत और अगले वर्ष 4 दशमलव एक प्रतिशत की वृद्धि का अनुमान है। अमरीका इस वर्ष 2 दशमलव तीन प्रतिशत और अगले वर्ष 2 दशमलव दो प्रतिशत की अनुमानित वृद्धि के साथ तीसरे स्थान पर रहा।",
@@ -1075,17 +1058,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T16:15:48+00:00",
         "link": "https://newsonair.gov.in/hi/indian-navys-drishti-10-crashes-near-porbandar-airfield-during-a-training-flight/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/The-Indian-Navy.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म जोशी के साथ स्वागत किया। उनके स्वागत में पारम्परिक नृत्य और संगीत का भी प्रदर्शन किया गया। श्री मोदी ने कहा कि यह यात्रा भारत-ऑस्ट्रेलिया व्यापक रणनीतिक साझेदारी को नई गति देगी। सोशल मीडिया पोस्ट में श्री मोदी ने कहा कि वह ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ वार्ता को लेकर उत्सुक हैं। उन्होंने कहा कि उन्हें भारतीय समुदाय से मिलने का भी अवसर मिलेगा, जो भारत-ऑस्ट्रेलिया साझेदारी का महत्वपूर्ण आधार है। यात्रा के दौरान प्रधानमंत्री तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। वे भारत-ऑस्ट्रेलिया सीईओ फोरम को भी संबोधित करेंगे। इस कार्यक्रम में दोनों देशों के प्रमुख उद्योग जगत के प्रतिनिधि शामिल होंगे।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:35:24+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-arrives-in-melbourne-on-second-leg-of-three-nation-tour/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-5-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1165,6 +1137,28 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/hormuz-1.webp",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
+      },
+      {
+        "title": "न्यूज़ीलैंड के ऑकलैंड में सनातन धर्म और भारतीय संस्कृति की छटा बिखेर रहा ‘द थर्ड आई’ स्टोर",
+        "summary": "भारत से हजारों किलोमीटर दूर न्यूज़ीलैंड के ऑकलैंड में सनातन धर्म और भारतीय संस्कृति की अनूठी छटा देखने को मिलती है। पिछले 26 वर्षों से ‘द थर्ड आई’ स्टोर भारतीय देवी-देवताओं की प्रतिमाओं, पूजा सामग्री, रंग-बिरंगे भारतीय परिधानों और पारंपरिक वस्तुओं के माध्यम से स्थानीय लोगों को भारतीय संस्कृति से परिचित करा रहा है। […]",
+        "article": "भारत से हजारों किलोमीटर दूर न्यूज़ीलैंड के ऑकलैंड में सनातन धर्म और भारतीय संस्कृति की अनूठी छटा देखने को मिलती है। पिछले 26 वर्षों से ‘द थर्ड आई’ स्टोर भारतीय देवी-देवताओं की प्रतिमाओं, पूजा सामग्री, रंग-बिरंगे भारतीय परिधानों और पारंपरिक वस्तुओं के माध्यम से स्थानीय लोगों को भारतीय संस्कृति से परिचित करा रहा है। आकाशवाणी समाचार से बातचीत में स्टोर की संचालिका किम होलुएर्डा ने बताया कि बड़ी संख्या में न्यूज़ीलैंड के लोग हिंदू देवी-देवताओं की प्रतिमाओं के साथ-साथ भारतीय परिधानों और आध्यात्मिक परंपराओं में भी गहरी रुचि दिखाते हैं। उन्होंने कहा कि सनातन धर्म का शांति, प्रेम और सकारात्मकता का संदेश लोगों को विशेष रूप से आकर्षित करता है।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T05:30:19+00:00",
+        "link": "https://newsonair.gov.in/hi/the-third-eye-store-in-auckland-new-zealand-showcases-the-essence-of-sanatan-dharma-and-indian-culture/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-5.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने वेनेज़ुएला का धन्यवाद किया",
+        "summary": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता […]",
+        "article": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता है। भारत ने 7.2 और 7.5 तीव्रता वाले विनाशकारी दोहरे भूकंपों के बाद वेनेज़ुएला की मदद के लिए &#8216;ऑपरेशन अमिस्ताद&#8217; शुरू किया था, जिनसे बड़े पैमाने पर तबाही हुई थी।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T05:21:11+00:00",
+        "link": "https://newsonair.gov.in/hi/ministry-of-external-affairs-spokesperson-randhir-jaiswal-thanked-venezuela/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/mea-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
@@ -1176,17 +1170,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T16:22:50+00:00",
         "link": "https://newsonair.gov.in/hi/isro-successfully-tested-the-main-parachute-for-the-gaganyaan-mission/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/isro-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की",
-        "summary": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। […]",
-        "article": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। भारत ने ऊर्जा आपूर्ति और व्यापार की निर्बाध आवाजाही बनाए रखने पर भी जोर दिया है। साथ ही, सभी पक्षों से बातचीत और कूटनीति के माध्यम से इस संकट का शांतिपूर्ण और स्थायी समाधान निकालने का आग्रह किया है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:17:56+00:00",
-        "link": "https://newsonair.gov.in/hi/india-expressed-deep-concern-over-the-rising-tension-in-west-asia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mea-1-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1209,17 +1192,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T16:15:48+00:00",
         "link": "https://newsonair.gov.in/hi/indian-navys-drishti-10-crashes-near-porbandar-airfield-during-a-training-flight/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/The-Indian-Navy.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म जोशी के साथ स्वागत किया। उनके स्वागत में पारम्परिक नृत्य और संगीत का भी प्रदर्शन किया गया। श्री मोदी ने कहा कि यह यात्रा भारत-ऑस्ट्रेलिया व्यापक रणनीतिक साझेदारी को नई गति देगी। सोशल मीडिया पोस्ट में श्री मोदी ने कहा कि वह ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ वार्ता को लेकर उत्सुक हैं। उन्होंने कहा कि उन्हें भारतीय समुदाय से मिलने का भी अवसर मिलेगा, जो भारत-ऑस्ट्रेलिया साझेदारी का महत्वपूर्ण आधार है। यात्रा के दौरान प्रधानमंत्री तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। वे भारत-ऑस्ट्रेलिया सीईओ फोरम को भी संबोधित करेंगे। इस कार्यक्रम में दोनों देशों के प्रमुख उद्योग जगत के प्रतिनिधि शामिल होंगे।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:35:24+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-arrives-in-melbourne-on-second-leg-of-three-nation-tour/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-5-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1268,12 +1240,36 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की",
+        "summary": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। […]",
+        "article": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। भारत ने ऊर्जा आपूर्ति और व्यापार की निर्बाध आवाजाही बनाए रखने पर भी जोर दिया है। साथ ही, सभी पक्षों से बातचीत और कूटनीति के माध्यम से इस संकट का शांतिपूर्ण और स्थायी समाधान निकालने का आग्रह किया है।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T16:17:56+00:00",
+        "link": "https://newsonair.gov.in/hi/india-expressed-deep-concern-over-the-rising-tension-in-west-asia/",
+        "post_id": 1726725,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "खाद्य प्रसंस्करण क्षेत्र को वित्तीय सहायता प्रदान करने के लिए उच्चस्तरीय बैठक",
         "summary": "खाद्य प्रसंस्करण उद्योग मंत्रालय ने आज नई दिल्ली में खाद्य प्रसंस्करण क्षेत्र को वित्तीय सहायता प्रदान करने के लिए भविष्य की कार्ययोजना पर विचार-विमर्श करने हेतु एक उच्च स्तरीय हितधारक परामर्श बैठक का आयोजन किया। इसका उद्देश्य प्रस्तावित योजना के विस्तार के लिए डिजाइन, कार्यक्षेत्र, कार्यान्वयन ढांचा और प्रोत्साहन संरचना पर उद्योग जगत को बढ़ावा […]",
         "article": "खाद्य प्रसंस्करण उद्योग मंत्रालय ने आज नई दिल्ली में खाद्य प्रसंस्करण क्षेत्र को वित्तीय सहायता प्रदान करने के लिए भविष्य की कार्ययोजना पर विचार-विमर्श करने हेतु एक उच्च स्तरीय हितधारक परामर्श बैठक का आयोजन किया। इसका उद्देश्य प्रस्तावित योजना के विस्तार के लिए डिजाइन, कार्यक्षेत्र, कार्यान्वयन ढांचा और प्रोत्साहन संरचना पर उद्योग जगत को बढ़ावा देना था। बैठक को संबोधित करते हुए खाद्य प्रसंस्करण उद्योग मंत्रालय के सचिव अविनाश जोशी ने इस बात पर जोर दिया कि सरकार खाद्य प्रसंस्करण प्रोत्साहनों की अगली पीढ़ी के लिए साक्ष्य-आधारित और उद्योग-प्रेरित ढांचा तैयार करने के लिए प्रतिबद्ध है।",
         "date": "2026-07-08",
         "pubDate": "2026-07-08T15:58:57+00:00",
         "link": "https://newsonair.gov.in/hi/high-level-meeting-to-provide-financial-assistance-to-the-food-processing-sector/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म जोशी के साथ स्वागत किया। उनके स्वागत में पारम्परिक नृत्य और संगीत का भी प्रदर्शन किया गया। श्री मोदी ने कहा कि यह यात्रा भारत-ऑस्ट्रेलिया व्यापक रणनीतिक साझेदारी को नई गति देगी। सोशल मीडिया पोस्ट में श्री मोदी ने कहा कि वह ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ वार्ता को लेकर उत्सुक हैं। उन्होंने कहा कि उन्हें भारतीय समुदाय से मिलने का भी अवसर मिलेगा, जो भारत-ऑस्ट्रेलिया साझेदारी का महत्वपूर्ण आधार है। यात्रा के दौरान प्रधानमंत्री तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। वे भारत-ऑस्ट्रेलिया सीईओ फोरम को भी संबोधित करेंगे। इस कार्यक्रम में दोनों देशों के प्रमुख उद्योग जगत के प्रतिनिधि शामिल होंगे।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T15:35:24+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-arrives-in-melbourne-on-second-leg-of-three-nation-tour/",
+        "post_id": 1726464,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1292,17 +1288,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की",
-        "summary": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। […]",
-        "article": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। भारत ने ऊर्जा आपूर्ति और व्यापार की निर्बाध आवाजाही बनाए रखने पर भी जोर दिया है। साथ ही, सभी पक्षों से बातचीत और कूटनीति के माध्यम से इस संकट का शांतिपूर्ण और स्थायी समाधान निकालने का आग्रह किया है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:17:56+00:00",
-        "link": "https://newsonair.gov.in/hi/india-expressed-deep-concern-over-the-rising-tension-in-west-asia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mea-1-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में भारत का स्थान बरकरार",
         "summary": "अंतर्राष्ट्रीय मुद्रा कोष- आई.एम.एफ के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा आज जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू […]",
         "article": "अंतर्राष्ट्रीय मुद्रा कोष- आई.एम.एफ के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा आज जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू उत्पाद- जीडीपी में 6 दशमलव चार प्रतिशत की मामूली वृद्धि का अनुमान है। रिपोर्ट में कहा गया है कि भारतीय अर्थव्यवस्था के अनुमानित प्रदर्शन को निजी उपभोग और सेवा गतिविधियों में मजबूत गति का समर्थन प्राप्त है। भारत के वृद्धि अनुमान वैश्विक अनुमानों से दोगुने से भी अधिक हैं। रिपोर्ट में इस वर्ष विश्व अर्थव्यवस्था की वृद्धि दर 3 प्रतिशत बताई गई है। इसमें अगले वर्ष 3 दशमलव चार प्रतिशत की वृद्धि होने की उम्मीद है। दूसरी सबसे तेजी से बढ़ती अर्थव्यवस्था, चीन के जीडीपी में इस वर्ष 4 दशमलव छह प्रतिशत और अगले वर्ष 4 दशमलव एक प्रतिशत की वृद्धि का अनुमान है। अमरीका इस वर्ष 2 दशमलव तीन प्रतिशत और अगले वर्ष 2 दशमलव दो प्रतिशत की अनुमानित वृद्धि के साथ तीसरे स्थान पर रहा।",
@@ -1321,17 +1306,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T16:15:48+00:00",
         "link": "https://newsonair.gov.in/hi/indian-navys-drishti-10-crashes-near-porbandar-airfield-during-a-training-flight/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/The-Indian-Navy.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म जोशी के साथ स्वागत किया। उनके स्वागत में पारम्परिक नृत्य और संगीत का भी प्रदर्शन किया गया। श्री मोदी ने कहा कि यह यात्रा भारत-ऑस्ट्रेलिया व्यापक रणनीतिक साझेदारी को नई गति देगी। सोशल मीडिया पोस्ट में श्री मोदी ने कहा कि वह ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ वार्ता को लेकर उत्सुक हैं। उन्होंने कहा कि उन्हें भारतीय समुदाय से मिलने का भी अवसर मिलेगा, जो भारत-ऑस्ट्रेलिया साझेदारी का महत्वपूर्ण आधार है। यात्रा के दौरान प्रधानमंत्री तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। वे भारत-ऑस्ट्रेलिया सीईओ फोरम को भी संबोधित करेंगे। इस कार्यक्रम में दोनों देशों के प्रमुख उद्योग जगत के प्रतिनिधि शामिल होंगे।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:35:24+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-arrives-in-melbourne-on-second-leg-of-three-nation-tour/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-5-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1380,12 +1354,36 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की",
+        "summary": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। […]",
+        "article": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। भारत ने ऊर्जा आपूर्ति और व्यापार की निर्बाध आवाजाही बनाए रखने पर भी जोर दिया है। साथ ही, सभी पक्षों से बातचीत और कूटनीति के माध्यम से इस संकट का शांतिपूर्ण और स्थायी समाधान निकालने का आग्रह किया है।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T16:17:56+00:00",
+        "link": "https://newsonair.gov.in/hi/india-expressed-deep-concern-over-the-rising-tension-in-west-asia/",
+        "post_id": 1726725,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "खाद्य प्रसंस्करण क्षेत्र को वित्तीय सहायता प्रदान करने के लिए उच्चस्तरीय बैठक",
         "summary": "खाद्य प्रसंस्करण उद्योग मंत्रालय ने आज नई दिल्ली में खाद्य प्रसंस्करण क्षेत्र को वित्तीय सहायता प्रदान करने के लिए भविष्य की कार्ययोजना पर विचार-विमर्श करने हेतु एक उच्च स्तरीय हितधारक परामर्श बैठक का आयोजन किया। इसका उद्देश्य प्रस्तावित योजना के विस्तार के लिए डिजाइन, कार्यक्षेत्र, कार्यान्वयन ढांचा और प्रोत्साहन संरचना पर उद्योग जगत को बढ़ावा […]",
         "article": "खाद्य प्रसंस्करण उद्योग मंत्रालय ने आज नई दिल्ली में खाद्य प्रसंस्करण क्षेत्र को वित्तीय सहायता प्रदान करने के लिए भविष्य की कार्ययोजना पर विचार-विमर्श करने हेतु एक उच्च स्तरीय हितधारक परामर्श बैठक का आयोजन किया। इसका उद्देश्य प्रस्तावित योजना के विस्तार के लिए डिजाइन, कार्यक्षेत्र, कार्यान्वयन ढांचा और प्रोत्साहन संरचना पर उद्योग जगत को बढ़ावा देना था। बैठक को संबोधित करते हुए खाद्य प्रसंस्करण उद्योग मंत्रालय के सचिव अविनाश जोशी ने इस बात पर जोर दिया कि सरकार खाद्य प्रसंस्करण प्रोत्साहनों की अगली पीढ़ी के लिए साक्ष्य-आधारित और उद्योग-प्रेरित ढांचा तैयार करने के लिए प्रतिबद्ध है।",
         "date": "2026-07-08",
         "pubDate": "2026-07-08T15:58:57+00:00",
         "link": "https://newsonair.gov.in/hi/high-level-meeting-to-provide-financial-assistance-to-the-food-processing-sector/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म जोशी के साथ स्वागत किया। उनके स्वागत में पारम्परिक नृत्य और संगीत का भी प्रदर्शन किया गया। श्री मोदी ने कहा कि यह यात्रा भारत-ऑस्ट्रेलिया व्यापक रणनीतिक साझेदारी को नई गति देगी। सोशल मीडिया पोस्ट में श्री मोदी ने कहा कि वह ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ वार्ता को लेकर उत्सुक हैं। उन्होंने कहा कि उन्हें भारतीय समुदाय से मिलने का भी अवसर मिलेगा, जो भारत-ऑस्ट्रेलिया साझेदारी का महत्वपूर्ण आधार है। यात्रा के दौरान प्रधानमंत्री तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। वे भारत-ऑस्ट्रेलिया सीईओ फोरम को भी संबोधित करेंगे। इस कार्यक्रम में दोनों देशों के प्रमुख उद्योग जगत के प्रतिनिधि शामिल होंगे।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T15:35:24+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-arrives-in-melbourne-on-second-leg-of-three-nation-tour/",
+        "post_id": 1726464,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1404,17 +1402,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की",
-        "summary": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। […]",
-        "article": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। भारत ने ऊर्जा आपूर्ति और व्यापार की निर्बाध आवाजाही बनाए रखने पर भी जोर दिया है। साथ ही, सभी पक्षों से बातचीत और कूटनीति के माध्यम से इस संकट का शांतिपूर्ण और स्थायी समाधान निकालने का आग्रह किया है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:17:56+00:00",
-        "link": "https://newsonair.gov.in/hi/india-expressed-deep-concern-over-the-rising-tension-in-west-asia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mea-1-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में भारत का स्थान बरकरार",
         "summary": "अंतर्राष्ट्रीय मुद्रा कोष- आई.एम.एफ के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा आज जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू […]",
         "article": "अंतर्राष्ट्रीय मुद्रा कोष- आई.एम.एफ के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा आज जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू उत्पाद- जीडीपी में 6 दशमलव चार प्रतिशत की मामूली वृद्धि का अनुमान है। रिपोर्ट में कहा गया है कि भारतीय अर्थव्यवस्था के अनुमानित प्रदर्शन को निजी उपभोग और सेवा गतिविधियों में मजबूत गति का समर्थन प्राप्त है। भारत के वृद्धि अनुमान वैश्विक अनुमानों से दोगुने से भी अधिक हैं। रिपोर्ट में इस वर्ष विश्व अर्थव्यवस्था की वृद्धि दर 3 प्रतिशत बताई गई है। इसमें अगले वर्ष 3 दशमलव चार प्रतिशत की वृद्धि होने की उम्मीद है। दूसरी सबसे तेजी से बढ़ती अर्थव्यवस्था, चीन के जीडीपी में इस वर्ष 4 दशमलव छह प्रतिशत और अगले वर्ष 4 दशमलव एक प्रतिशत की वृद्धि का अनुमान है। अमरीका इस वर्ष 2 दशमलव तीन प्रतिशत और अगले वर्ष 2 दशमलव दो प्रतिशत की अनुमानित वृद्धि के साथ तीसरे स्थान पर रहा।",
@@ -1433,17 +1420,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T16:15:48+00:00",
         "link": "https://newsonair.gov.in/hi/indian-navys-drishti-10-crashes-near-porbandar-airfield-during-a-training-flight/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/The-Indian-Navy.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म जोशी के साथ स्वागत किया। उनके स्वागत में पारम्परिक नृत्य और संगीत का भी प्रदर्शन किया गया। श्री मोदी ने कहा कि यह यात्रा भारत-ऑस्ट्रेलिया व्यापक रणनीतिक साझेदारी को नई गति देगी। सोशल मीडिया पोस्ट में श्री मोदी ने कहा कि वह ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ वार्ता को लेकर उत्सुक हैं। उन्होंने कहा कि उन्हें भारतीय समुदाय से मिलने का भी अवसर मिलेगा, जो भारत-ऑस्ट्रेलिया साझेदारी का महत्वपूर्ण आधार है। यात्रा के दौरान प्रधानमंत्री तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। वे भारत-ऑस्ट्रेलिया सीईओ फोरम को भी संबोधित करेंगे। इस कार्यक्रम में दोनों देशों के प्रमुख उद्योग जगत के प्रतिनिधि शामिल होंगे।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:35:24+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-arrives-in-melbourne-on-second-leg-of-three-nation-tour/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-5-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1492,6 +1468,18 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की",
+        "summary": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। […]",
+        "article": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। भारत ने ऊर्जा आपूर्ति और व्यापार की निर्बाध आवाजाही बनाए रखने पर भी जोर दिया है। साथ ही, सभी पक्षों से बातचीत और कूटनीति के माध्यम से इस संकट का शांतिपूर्ण और स्थायी समाधान निकालने का आग्रह किया है।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T16:17:56+00:00",
+        "link": "https://newsonair.gov.in/hi/india-expressed-deep-concern-over-the-rising-tension-in-west-asia/",
+        "post_id": 1726725,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "खाद्य प्रसंस्करण क्षेत्र को वित्तीय सहायता प्रदान करने के लिए उच्चस्तरीय बैठक",
         "summary": "खाद्य प्रसंस्करण उद्योग मंत्रालय ने आज नई दिल्ली में खाद्य प्रसंस्करण क्षेत्र को वित्तीय सहायता प्रदान करने के लिए भविष्य की कार्ययोजना पर विचार-विमर्श करने हेतु एक उच्च स्तरीय हितधारक परामर्श बैठक का आयोजन किया। इसका उद्देश्य प्रस्तावित योजना के विस्तार के लिए डिजाइन, कार्यक्षेत्र, कार्यान्वयन ढांचा और प्रोत्साहन संरचना पर उद्योग जगत को बढ़ावा […]",
         "article": "खाद्य प्रसंस्करण उद्योग मंत्रालय ने आज नई दिल्ली में खाद्य प्रसंस्करण क्षेत्र को वित्तीय सहायता प्रदान करने के लिए भविष्य की कार्ययोजना पर विचार-विमर्श करने हेतु एक उच्च स्तरीय हितधारक परामर्श बैठक का आयोजन किया। इसका उद्देश्य प्रस्तावित योजना के विस्तार के लिए डिजाइन, कार्यक्षेत्र, कार्यान्वयन ढांचा और प्रोत्साहन संरचना पर उद्योग जगत को बढ़ावा देना था। बैठक को संबोधित करते हुए खाद्य प्रसंस्करण उद्योग मंत्रालय के सचिव अविनाश जोशी ने इस बात पर जोर दिया कि सरकार खाद्य प्रसंस्करण प्रोत्साहनों की अगली पीढ़ी के लिए साक्ष्य-आधारित और उद्योग-प्रेरित ढांचा तैयार करने के लिए प्रतिबद्ध है।",
@@ -1501,9 +1489,43 @@ window.VM_NEWS = {
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म जोशी के साथ स्वागत किया। उनके स्वागत में पारम्परिक नृत्य और संगीत का भी प्रदर्शन किया गया। श्री मोदी ने कहा कि यह यात्रा भारत-ऑस्ट्रेलिया व्यापक रणनीतिक साझेदारी को नई गति देगी। सोशल मीडिया पोस्ट में श्री मोदी ने कहा कि वह ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ वार्ता को लेकर उत्सुक हैं। उन्होंने कहा कि उन्हें भारतीय समुदाय से मिलने का भी अवसर मिलेगा, जो भारत-ऑस्ट्रेलिया साझेदारी का महत्वपूर्ण आधार है। यात्रा के दौरान प्रधानमंत्री तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। वे भारत-ऑस्ट्रेलिया सीईओ फोरम को भी संबोधित करेंगे। इस कार्यक्रम में दोनों देशों के प्रमुख उद्योग जगत के प्रतिनिधि शामिल होंगे।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T15:35:24+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-arrives-in-melbourne-on-second-leg-of-three-nation-tour/",
+        "post_id": 1726464,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की",
+        "summary": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। […]",
+        "article": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। भारत ने ऊर्जा आपूर्ति और व्यापार की निर्बाध आवाजाही बनाए रखने पर भी जोर दिया है। साथ ही, सभी पक्षों से बातचीत और कूटनीति के माध्यम से इस संकट का शांतिपूर्ण और स्थायी समाधान निकालने का आग्रह किया है।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T16:17:56+00:00",
+        "link": "https://newsonair.gov.in/hi/india-expressed-deep-concern-over-the-rising-tension-in-west-asia/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mea-1-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म जोशी के साथ स्वागत किया। उनके स्वागत में पारम्परिक नृत्य और संगीत का भी प्रदर्शन किया गया। श्री मोदी ने कहा कि यह यात्रा भारत-ऑस्ट्रेलिया व्यापक रणनीतिक साझेदारी को नई गति देगी। सोशल मीडिया पोस्ट में श्री मोदी ने कहा कि वह ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ वार्ता को लेकर उत्सुक हैं। उन्होंने कहा कि उन्हें भारतीय समुदाय से मिलने का भी अवसर मिलेगा, जो भारत-ऑस्ट्रेलिया साझेदारी का महत्वपूर्ण आधार है। यात्रा के दौरान प्रधानमंत्री तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। वे भारत-ऑस्ट्रेलिया सीईओ फोरम को भी संबोधित करेंगे। इस कार्यक्रम में दोनों देशों के प्रमुख उद्योग जगत के प्रतिनिधि शामिल होंगे।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T15:35:24+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-arrives-in-melbourne-on-second-leg-of-three-nation-tour/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-5-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "ईआईयू रैंकिंग: पाकिस्तान के कराची को दुनिया का चौथा सबसे खराब शहर बताया गया",
         "summary": "इकॉनोमिस्ट इंटेलिजेंस यूनिट- ई.आई.यू ने वार्षिक ग्लोबल लिवेबिलिटी इंडेक्स 2026 यानी इस वर्ष की दुनिया के सबसे अच्छे और खराब शहरों की एक सूची जारी की है। इस सूची में पाकिस्तान के कराची को दुनिया का चौथा सबसे खराब शहर बताया गया है। ई.आई.यू ने 173 शहरों में कराची को 170वां स्थान दिया है। इस […]",
@@ -1582,36 +1604,12 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की",
-        "summary": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। […]",
-        "article": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। भारत ने ऊर्जा आपूर्ति और व्यापार की निर्बाध आवाजाही बनाए रखने पर भी जोर दिया है। साथ ही, सभी पक्षों से बातचीत और कूटनीति के माध्यम से इस संकट का शांतिपूर्ण और स्थायी समाधान निकालने का आग्रह किया है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:17:56+00:00",
-        "link": "https://newsonair.gov.in/hi/india-expressed-deep-concern-over-the-rising-tension-in-west-asia/",
-        "post_id": 1726725,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "ट्रंप ने नाटो के सहयोगी देशों पर ईरान के खिलाफ सैन्य अभियान के दौरान अमरीका का समर्थन न करने का आरोप लगाया",
         "summary": "अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने नाटो के कई सहयोगी देशों पर ईरान के खिलाफ सैन्य अभियान के दौरान अमरीका का समर्थन न करने का आरोप लगाया है। राष्ट्रपति ट्रंप ने कहा कि अमरीका का दशकों से यूरोप की सुरक्षा के प्रति प्रतिबद्ध रहने के बावजूद कई यूरोपीय देशों की प्रतिक्रिया से उन्हें निराशा हुई […]",
         "article": "अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने नाटो के कई सहयोगी देशों पर ईरान के खिलाफ सैन्य अभियान के दौरान अमरीका का समर्थन न करने का आरोप लगाया है। राष्ट्रपति ट्रंप ने कहा कि अमरीका का दशकों से यूरोप की सुरक्षा के प्रति प्रतिबद्ध रहने के बावजूद कई यूरोपीय देशों की प्रतिक्रिया से उन्हें निराशा हुई है। तुर्किए के अंकारा में नाटो नेताओं की आगामी बैठक से पहले संगठन के महासचिव मार्क रुट्टे के साथ संयुक्त बातचीत में श्री ट्रंप ने नाटो सहयोगियों के इस रुख पर निराशा व्यक्त की। उन्होंने कहा कि जब अमेरिका ने ईरान को आतंकवाद का नंबर एक प्रायोजक बताते हुए सहयोगियों से समर्थन मांगा, तो नाटो इस महत्वपूर्ण परीक्षा में विफल रहा। राष्ट्रपति ट्रंप ने कहा कि अमरीका को इस अभियान के लिए किसी सैन्य सहायता की जरूरत नहीं थी, वह केवल सहयोगियों की प्रतिक्रिया को परख रहे थे। श्री ट्रंप ने खुलासा किया कि उन्होंने व्यक्तिगत रूप से जर्मनी, फ्रांस, ब्रिटेन और इटली सहित कई यूरोपीय नेताओं से संपर्क किया, लेकिन नाटो के कुछ छोटे सदस्यों ने ही समर्थन किया है।",
         "date": "2026-07-08",
         "pubDate": "2026-07-08T16:03:49+00:00",
         "link": "https://newsonair.gov.in/hi/trump-accused-nato-allies-of-not-supporting-the-us-during-the-military-operation-against-iran/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म जोशी के साथ स्वागत किया। उनके स्वागत में पारम्परिक नृत्य और संगीत का भी प्रदर्शन किया गया। श्री मोदी ने कहा कि यह यात्रा भारत-ऑस्ट्रेलिया व्यापक रणनीतिक साझेदारी को नई गति देगी। सोशल मीडिया पोस्ट में श्री मोदी ने कहा कि वह ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ वार्ता को लेकर उत्सुक हैं। उन्होंने कहा कि उन्हें भारतीय समुदाय से मिलने का भी अवसर मिलेगा, जो भारत-ऑस्ट्रेलिया साझेदारी का महत्वपूर्ण आधार है। यात्रा के दौरान प्रधानमंत्री तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। वे भारत-ऑस्ट्रेलिया सीईओ फोरम को भी संबोधित करेंगे। इस कार्यक्रम में दोनों देशों के प्रमुख उद्योग जगत के प्रतिनिधि शामिल होंगे।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:35:24+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-arrives-in-melbourne-on-second-leg-of-three-nation-tour/",
-        "post_id": 1726464,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
