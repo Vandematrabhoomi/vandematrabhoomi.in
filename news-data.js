@@ -1,16 +1,60 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-08T08:39:54.814452",
+  "generated": "2026-07-08T10:33:41.588268",
   "en": {
     "top": [
       {
-        "title": "PM Modi concludes Indonesia visit, departs for Australia for second leg of his three-country tour",
+        "title": "Civil Aviation Minister Ram Mohan Naidu Applauds NAL for Saras MK-II Design Completion",
+        "summary": "Civil Aviation Minister Ram Mohan Naidu has congratulated National Aerospace Laboratories on successfully completing the design phase of 19-seater Saras MK-II. In a social media post, Mr Naidu said that Saras advances Prime Minister Narendra Modi’s Atmanirbhar Bharat vision on becoming country&#8217;s first indigenously designed light transport aircraft. The Minister said that this breakthrough in",
+        "article": "Civil Aviation Minister Ram Mohan Naidu has congratulated National Aerospace Laboratories on successfully completing the design phase of 19-seater Saras MK-II. In a social media post, Mr Naidu said that Saras advances Prime Minister Narendra Modi’s Atmanirbhar Bharat vision on becoming country&#8217;s first indigenously designed light transport aircraft. The Minister said that this breakthrough in domestic aerospace manufacturing will empower UDAN vision to connect the remotest and high-altitude airfields with Made in India aircraft.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T10:23:30+00:00",
+        "link": "https://newsonair.gov.in/civil-aviation-minister-ram-mohan-naidu-applauds-nal-for-saras-mk-ii-design-completion/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/saras.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "U.S. President Trump says MoU to end Iran conflict is over",
+        "summary": "U.S. President Donald Trump has said that the memorandum of understanding signed with Iran to end the conflict ‌is over, adding that he didn&#8217;t want to engage with Tehran. Mr Trump&#8217;s statement came during the press conference at NATO summit in the Turkish capital Ankara, following the US and Iran traded strikes, after three Tankers […]",
+        "article": "U.S. President Donald Trump has said that the memorandum of understanding signed with Iran to end the conflict ‌is over, adding that he didn&#8217;t want to engage with Tehran. Mr Trump&#8217;s statement came during the press conference at NATO summit in the Turkish capital Ankara, following the US and Iran traded strikes, after three Tankers were ⁠hit by projectiles in the Strait of Hormuz. Meanwhile, Iran has not directly claimed responsibility. The interim ceasefire agreement signed between Washington and Tehran was intended to provide a 60-day window for negotiations on a permanent agreement, but indirect talks in Qatar ended with no sign of headway, and the U.S. military unleashed a new wave of strikes against Iran yesterday. Earlier, Iran has launched retaliatory strikes on US military installations following the US attacks on its Hormozgan province and the port city of Mahshahr. According to Iranian media, the Islamic Revolutionary Guard Corps (IRGC) Navy and Aerospace Forces carried out a joint missile and drone operation targeting 85 US military facilities. The US has carried out a fresh round of airstrikes on Iran, targeting more than 80 locations in response to Iran&#8217;s latest attacks on commercial ships passing through the Strait of Hormuz. According to U.S. Central Command (CENTCOM), the strikes targeted Iranian air defence systems, command and control centres, coastal radar sites, anti-ship missile systems, and more than 60 Islamic Revolutionary Guard Corps fast boats in and around the Strait of Hormuz. The US said the operation was aimed at weakening Iran&#8217;s ability to attack international shipping. It also accused Tehran of targeting commercial vessels carrying civilian crews.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T09:42:58+00:00",
+        "link": "https://newsonair.gov.in/u-s-president-trump-says-mou-to-end-iran-conflict-is-over/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260616321f-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi visits UNESCO-listed Prambanan Temple with President Prabowo",
+        "summary": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century […]",
+        "article": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century temple complex, where Prime Minister Modi offered prayers at the main Shiva temple. They also viewed the temple’s intricate carvings before witnessing ongoing conservation efforts being supported through India-Indonesia cooperation. In a joint statement, President Prabowo said Prambanan stands as a symbol of the centuries-old civilisational bond between India and Indonesia. He thanked India for its support towards the conservation and restoration of the temple complex and said culture continues to serve as a bridge connecting the two nations. Prime Minister Modi described the visit as a deeply spiritual and memorable experience. He thanked the people of Indonesia for preserving this magnificent heritage for nearly twelve centuries and said India’s participation in the temple’s conservation reflects the shared cultural legacy of the two countries. Expressing confidence that the restoration project would further strengthen people-to-people ties, the Prime Minister also thanked President Prabowo for the warm hospitality extended during his three-day State Visit to Indonesia.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T08:46:08+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-visits-unesco-listed-prambanan-temple-with-president-prabowo/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/65.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi concludes his Indonesia visit; Leaves for Australia to participate in third India-Australia Annual Summit",
         "summary": "Prime Minister Narendra Modi concluded his State Visit to Indonesia and has departed for Melbourne for the second leg of his three-country tour. Ministry of External Affairs Spokesperson Randhir Jaiswal, in a social media post, said that, in a special gesture of friendship, Prime Minister Modi was seen off at the airport by Indonesian President […]",
         "article": "Prime Minister Narendra Modi concluded his State Visit to Indonesia and has departed for Melbourne for the second leg of his three-country tour. Ministry of External Affairs Spokesperson Randhir Jaiswal, in a social media post, said that, in a special gesture of friendship, Prime Minister Modi was seen off at the airport by Indonesian President Prabowo Subianto. &nbsp; Mr. Jaiswal added that the visit to Indonesia yielded significant outcomes across key areas of cooperation, strengthening the India-Indonesia partnership and setting an ambitious agenda for future collaboration.",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T08:34:53+00:00",
+        "pubDate": "2026-07-08T08:44:53+00:00",
         "link": "https://newsonair.gov.in/pm-modi-concludes-indonesia-visit-departs-for-australia-for-second-leg-of-his-three-country-tour/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Global crude oil prices rise over 2% amid renewed US-Iran tensions",
+        "summary": "Global crude oil prices rose more than two per cent today as renewed hostilities between the United States and Iran threatened to shatter the fragile ceasefire that had brought some relief to global energy markets. Brent crude was trading nearly 2.3 per cent up at 75 US dollars and 87 cents per barrel. West […]",
+        "article": "Global crude oil prices rose more than two per cent today as renewed hostilities between the United States and Iran threatened to shatter the fragile ceasefire that had brought some relief to global energy markets. Brent crude was trading nearly 2.3 per cent up at 75 US dollars and 87 cents per barrel. West Texas Intermediate crude was trading 2.2 per cent up at 71 US dollars and 96 cents per barrel, when reports last came in.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T08:41:17+00:00",
+        "link": "https://newsonair.gov.in/global-crude-oil-prices-rise-over-2-amid-renewed-us-iran-tensions/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/oil-prices.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -37,11 +81,11 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "BRICS Women’s Ministerial Meeting begins in Kochi",
+        "title": "BRICS Women Ministerial Meeting begins in Kochi to strengthen cooperation on women’s empowerment and sustainable development",
         "summary": "The BRICS Women’s Ministerial Meeting has commenced in Kochi. Union Minister for Women and Child Development Annpurna Devi and Secretary Anil Malik, among others, attended the main session organised as part of the meeting. The main session began this morning at Kochi. Earlier in the morning, Union Minister of State for Women and Child […]",
         "article": "The BRICS Women’s Ministerial Meeting has commenced in Kochi. Union Minister for Women and Child Development Annpurna Devi and Secretary Anil Malik, among others, attended the main session organised as part of the meeting. The main session began this morning at Kochi. Earlier in the morning, Union Minister of State for Women and Child Development Savitri Thakur and Secretary Anil Malik attended the plenary session. The joint statement will be adopted during the main session. Following this, the ministers representing the delegates at the meeting will visit an exhibition organised in connection with the BRICS summit. Exhibitions highlighting India&#8217;s achievements in women-led development across various sectors, such as rural development, Science, Technology, Engineering, and Mathematics, nutrition, and education, are being held near the venue. Kerala Chief Minister V. D. Satheesan will also attend the BRICS meeting this evening. The event will conclude tomorrow.",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T08:25:25+00:00",
+        "pubDate": "2026-07-08T08:30:25+00:00",
         "link": "https://newsonair.gov.in/brics-womens-ministerial-meeting-begins-in-kochi/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-Womens-Ministerial-Meeting-begins-in-Kochi.png",
         "image_credit": "Prasar Bharati / Akashvani News",
@@ -88,61 +132,39 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T07:34:22+00:00",
         "link": "https://newsonair.gov.in/india-indonesia-launch-collaborative-conservation-initiative-for-prambanan-temple-compound/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/46.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Textiles Ministry launches Handloom Hackathon 2026 aimed to strengthen India’s handloom sector",
-        "summary": "The Ministry of Textiles has launched a national innovation challenge &#8211; Handloom Hackathon 2026, aimed at harnessing technology, design, entrepreneurship and sustainable solutions to strengthen India’s handloom sector. The initiative is being organised as part of the celebrations of National Handloom Day 2026. Online registrations are open until 20th of this month. Students, innovators, […]",
-        "article": "The Ministry of Textiles has launched a national innovation challenge &#8211; Handloom Hackathon 2026, aimed at harnessing technology, design, entrepreneurship and sustainable solutions to strengthen India’s handloom sector. The initiative is being organised as part of the celebrations of National Handloom Day 2026. Online registrations are open until 20th of this month. Students, innovators, startups, researchers, designers, entrepreneurs and handloom practitioners can register and submit their ideas through www.youthideathon.in/handloom. The grand finale of the Hackathon will be held on 1st of August at the Foundation for Innovation and Technology Transfer (FITT), IIT Delhi, where shortlisted teams will present their solutions before an eminent jury. Speaking on the initiative, Development Commissioner (Handlooms), Ministry of Textiles Dr. M. Beena said that the Handloom Hackathon 2026 seeks to bring together the creativity of the country’s youth with the rich heritage of the handloom sector. She said, by providing a collaborative platform for weavers, designers, entrepreneurs and innovators, the initiative aims to generate practical and scalable solutions that address key challenges, enhance competitiveness and contribute to the sustainable growth of the handloom sector.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T07:28:38+00:00",
-        "link": "https://newsonair.gov.in/textiles-ministry-launches-handloom-hackathon-2026-aims-to-strengthen-indias-handloom-sector/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/a-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi says blessed to connect with Lord Shiva at sacred sites, addresses gathering at Prambanan Temple in Indonesia",
-        "summary": "Prime Minister Narendra Modi today said that he considers it his good fortune to have had repeated opportunities to connect with Lord Shiva at various sacred sites. &#160; Addressing the Prambanan Temple in Yogyakarta, Indonesia, the Prime Minister said he was born in Vadnagar, home to Hatkeshwar Mahadev, and that the Somnath Jyotirlinga in Gujarat, […]",
-        "article": "Prime Minister Narendra Modi today said that he considers it his good fortune to have had repeated opportunities to connect with Lord Shiva at various sacred sites. &nbsp; Addressing the Prambanan Temple in Yogyakarta, Indonesia, the Prime Minister said he was born in Vadnagar, home to Hatkeshwar Mahadev, and that the Somnath Jyotirlinga in Gujarat, the first among the twelve Jyotirlingas, holds special significance, with him having direct responsibility for its development. Mr. Modi also noted that his parliamentary constituency, Kashi (Varanasi), is home to Kashi Vishwanath Mahadev, whose blessings, he said, have always guided him. Referring to the redevelopment of the Kedarnath Temple and the Mahakaleshwar Temple in Ujjain, the Prime Minister said he had the privilege of contributing to these projects. He added that his visit to the Prambanan Temple had also given him the opportunity to initiate renovation efforts, describing it as a matter of great fortune.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T07:22:34+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-says-blessed-to-connect-with-lord-shiva-at-sacred-sites-addresses-gathering-at-prambanan-temple-in-indonesia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi visits UNESCO-listed Prambanan Temple with President Prabowo",
-        "summary": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century […]",
-        "article": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century temple complex, where Prime Minister Modi offered prayers at the main Shiva temple. They also viewed the temple’s intricate carvings before witnessing ongoing conservation efforts being supported through India-Indonesia cooperation. In a joint statement, President Prabowo said Prambanan stands as a symbol of the centuries-old civilisational bond between India and Indonesia. He thanked India for its support towards the conservation and restoration of the temple complex and said culture continues to serve as a bridge connecting the two nations. Prime Minister Modi described the visit as a deeply spiritual and memorable experience. He thanked the people of Indonesia for preserving this magnificent heritage for nearly twelve centuries and said India’s participation in the temple’s conservation reflects the shared cultural legacy of the two countries. Expressing confidence that the restoration project would further strengthen people-to-people ties, the Prime Minister also thanked President Prabowo for the warm hospitality extended during his three-day State Visit to Indonesia.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T06:43:08+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-visits-unesco-listed-prambanan-temple-with-president-prabowo/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/65.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Iran launches retaliatory strikes on US military bases after American attacks",
-        "summary": "Iran has launched retaliatory strikes on US military installations following the US attacks on its Hormozgan province and the port city of Mahshahr. According to Iranian media, the Islamic Revolutionary Guard Corps (IRGC) Navy and Aerospace Forces carried out a joint missile and drone operation targeting 85 US military facilities. The reported targets included […]",
-        "article": "Iran has launched retaliatory strikes on US military installations following the US attacks on its Hormozgan province and the port city of Mahshahr. According to Iranian media, the Islamic Revolutionary Guard Corps (IRGC) Navy and Aerospace Forces carried out a joint missile and drone operation targeting 85 US military facilities. The reported targets included Salman Port, the US Fifth Fleet headquarters in Bahrain, and the Ali Al Salem Air Base in Kuwait. Iranian media also quoted an IRGC spokesperson as saying that the country&#8217;s air defence systems had shot down a US MQ-9 drone over Bushehr Province. Meanwhile, Bahrain&#8217;s Ministry of Interior has urged residents to take shelter after warning sirens sounded across the country. The alert came shortly before Iran&#8217;s state broadcaster announced a fresh wave of strikes. Earlier, The US has carried out a fresh round of airstrikes on Iran, targeting more than 80 locations in response to Iran&#8217;s latest attacks on commercial ships passing through the Strait of Hormuz. According to U.S. Central Command (CENTCOM), the strikes targeted Iranian air defence systems, command and control centres, coastal radar sites, anti-ship missile systems, and more than 60 Islamic Revolutionary Guard Corps fast boats in and around the Strait of Hormuz. The US said the operation was aimed at weakening Iran&#8217;s ability to attack international shipping. It also accused Tehran of targeting commercial vessels carrying civilian crews. The United States has also revoked a licence that had allowed Iran to sell oil under the interim agreement. The licence had enabled Iran to openly export oil on the international market and receive payments in US dollars for the first time in years. Iran has long been suspected of selling sanctioned crude oil to China at below-market prices. Iran strongly condemned the latest US military action and the decision to cancel sanctions waivers on its oil exports. In a social media post, Iranian Deputy Foreign Minister Kazem Gharibabadi said the US actions, including the latest strikes, were a serious violation of bilateral understandings. He described them as violations of Memorandum of Understanding.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T05:55:33+00:00",
-        "link": "https://newsonair.gov.in/us-strikes-over-80-targets-in-iran-tensions-escalate/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/akashvani-news-2-5.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "breaking": [
       {
-        "title": "PM Modi concludes Indonesia visit, departs for Australia for second leg of his three-country tour",
+        "title": "Civil Aviation Minister Ram Mohan Naidu Applauds NAL for Saras MK-II Design Completion",
+        "summary": "Civil Aviation Minister Ram Mohan Naidu has congratulated National Aerospace Laboratories on successfully completing the design phase of 19-seater Saras MK-II. In a social media post, Mr Naidu said that Saras advances Prime Minister Narendra Modi’s Atmanirbhar Bharat vision on becoming country&#8217;s first indigenously designed light transport aircraft. The Minister said that this breakthrough in",
+        "article": "Civil Aviation Minister Ram Mohan Naidu has congratulated National Aerospace Laboratories on successfully completing the design phase of 19-seater Saras MK-II. In a social media post, Mr Naidu said that Saras advances Prime Minister Narendra Modi’s Atmanirbhar Bharat vision on becoming country&#8217;s first indigenously designed light transport aircraft. The Minister said that this breakthrough in domestic aerospace manufacturing will empower UDAN vision to connect the remotest and high-altitude airfields with Made in India aircraft.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T10:23:30+00:00",
+        "link": "https://newsonair.gov.in/civil-aviation-minister-ram-mohan-naidu-applauds-nal-for-saras-mk-ii-design-completion/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/saras.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi visits UNESCO-listed Prambanan Temple with President Prabowo",
+        "summary": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century […]",
+        "article": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century temple complex, where Prime Minister Modi offered prayers at the main Shiva temple. They also viewed the temple’s intricate carvings before witnessing ongoing conservation efforts being supported through India-Indonesia cooperation. In a joint statement, President Prabowo said Prambanan stands as a symbol of the centuries-old civilisational bond between India and Indonesia. He thanked India for its support towards the conservation and restoration of the temple complex and said culture continues to serve as a bridge connecting the two nations. Prime Minister Modi described the visit as a deeply spiritual and memorable experience. He thanked the people of Indonesia for preserving this magnificent heritage for nearly twelve centuries and said India’s participation in the temple’s conservation reflects the shared cultural legacy of the two countries. Expressing confidence that the restoration project would further strengthen people-to-people ties, the Prime Minister also thanked President Prabowo for the warm hospitality extended during his three-day State Visit to Indonesia.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T08:46:08+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-visits-unesco-listed-prambanan-temple-with-president-prabowo/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/65.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi concludes his Indonesia visit; Leaves for Australia to participate in third India-Australia Annual Summit",
         "summary": "Prime Minister Narendra Modi concluded his State Visit to Indonesia and has departed for Melbourne for the second leg of his three-country tour. Ministry of External Affairs Spokesperson Randhir Jaiswal, in a social media post, said that, in a special gesture of friendship, Prime Minister Modi was seen off at the airport by Indonesian President […]",
         "article": "Prime Minister Narendra Modi concluded his State Visit to Indonesia and has departed for Melbourne for the second leg of his three-country tour. Ministry of External Affairs Spokesperson Randhir Jaiswal, in a social media post, said that, in a special gesture of friendship, Prime Minister Modi was seen off at the airport by Indonesian President Prabowo Subianto. &nbsp; Mr. Jaiswal added that the visit to Indonesia yielded significant outcomes across key areas of cooperation, strengthening the India-Indonesia partnership and setting an ambitious agenda for future collaboration.",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T08:34:53+00:00",
+        "pubDate": "2026-07-08T08:44:53+00:00",
         "link": "https://newsonair.gov.in/pm-modi-concludes-indonesia-visit-departs-for-australia-for-second-leg-of-his-three-country-tour/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi.png",
         "image_credit": "Prasar Bharati / Akashvani News",
@@ -171,11 +193,11 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "BRICS Women’s Ministerial Meeting begins in Kochi",
+        "title": "BRICS Women Ministerial Meeting begins in Kochi to strengthen cooperation on women’s empowerment and sustainable development",
         "summary": "The BRICS Women’s Ministerial Meeting has commenced in Kochi. Union Minister for Women and Child Development Annpurna Devi and Secretary Anil Malik, among others, attended the main session organised as part of the meeting. The main session began this morning at Kochi. Earlier in the morning, Union Minister of State for Women and Child […]",
         "article": "The BRICS Women’s Ministerial Meeting has commenced in Kochi. Union Minister for Women and Child Development Annpurna Devi and Secretary Anil Malik, among others, attended the main session organised as part of the meeting. The main session began this morning at Kochi. Earlier in the morning, Union Minister of State for Women and Child Development Savitri Thakur and Secretary Anil Malik attended the plenary session. The joint statement will be adopted during the main session. Following this, the ministers representing the delegates at the meeting will visit an exhibition organised in connection with the BRICS summit. Exhibitions highlighting India&#8217;s achievements in women-led development across various sectors, such as rural development, Science, Technology, Engineering, and Mathematics, nutrition, and education, are being held near the venue. Kerala Chief Minister V. D. Satheesan will also attend the BRICS meeting this evening. The event will conclude tomorrow.",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T08:25:25+00:00",
+        "pubDate": "2026-07-08T08:30:25+00:00",
         "link": "https://newsonair.gov.in/brics-womens-ministerial-meeting-begins-in-kochi/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-Womens-Ministerial-Meeting-begins-in-Kochi.png",
         "image_credit": "Prasar Bharati / Akashvani News",
@@ -222,39 +244,39 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T07:28:38+00:00",
         "link": "https://newsonair.gov.in/textiles-ministry-launches-handloom-hackathon-2026-aims-to-strengthen-indias-handloom-sector/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/a-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi says blessed to connect with Lord Shiva at sacred sites, addresses gathering at Prambanan Temple in Indonesia",
-        "summary": "Prime Minister Narendra Modi today said that he considers it his good fortune to have had repeated opportunities to connect with Lord Shiva at various sacred sites. &#160; Addressing the Prambanan Temple in Yogyakarta, Indonesia, the Prime Minister said he was born in Vadnagar, home to Hatkeshwar Mahadev, and that the Somnath Jyotirlinga in Gujarat, […]",
-        "article": "Prime Minister Narendra Modi today said that he considers it his good fortune to have had repeated opportunities to connect with Lord Shiva at various sacred sites. &nbsp; Addressing the Prambanan Temple in Yogyakarta, Indonesia, the Prime Minister said he was born in Vadnagar, home to Hatkeshwar Mahadev, and that the Somnath Jyotirlinga in Gujarat, the first among the twelve Jyotirlingas, holds special significance, with him having direct responsibility for its development. Mr. Modi also noted that his parliamentary constituency, Kashi (Varanasi), is home to Kashi Vishwanath Mahadev, whose blessings, he said, have always guided him. Referring to the redevelopment of the Kedarnath Temple and the Mahakaleshwar Temple in Ujjain, the Prime Minister said he had the privilege of contributing to these projects. He added that his visit to the Prambanan Temple had also given him the opportunity to initiate renovation efforts, describing it as a matter of great fortune.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T07:22:34+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-says-blessed-to-connect-with-lord-shiva-at-sacred-sites-addresses-gathering-at-prambanan-temple-in-indonesia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi visits UNESCO-listed Prambanan Temple with President Prabowo",
-        "summary": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century […]",
-        "article": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century temple complex, where Prime Minister Modi offered prayers at the main Shiva temple. They also viewed the temple’s intricate carvings before witnessing ongoing conservation efforts being supported through India-Indonesia cooperation. In a joint statement, President Prabowo said Prambanan stands as a symbol of the centuries-old civilisational bond between India and Indonesia. He thanked India for its support towards the conservation and restoration of the temple complex and said culture continues to serve as a bridge connecting the two nations. Prime Minister Modi described the visit as a deeply spiritual and memorable experience. He thanked the people of Indonesia for preserving this magnificent heritage for nearly twelve centuries and said India’s participation in the temple’s conservation reflects the shared cultural legacy of the two countries. Expressing confidence that the restoration project would further strengthen people-to-people ties, the Prime Minister also thanked President Prabowo for the warm hospitality extended during his three-day State Visit to Indonesia.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T06:43:08+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-visits-unesco-listed-prambanan-temple-with-president-prabowo/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/65.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
-        "title": "PM Modi concludes Indonesia visit, departs for Australia for second leg of his three-country tour",
+        "title": "Civil Aviation Minister Ram Mohan Naidu Applauds NAL for Saras MK-II Design Completion",
+        "summary": "Civil Aviation Minister Ram Mohan Naidu has congratulated National Aerospace Laboratories on successfully completing the design phase of 19-seater Saras MK-II. In a social media post, Mr Naidu said that Saras advances Prime Minister Narendra Modi’s Atmanirbhar Bharat vision on becoming country&#8217;s first indigenously designed light transport aircraft. The Minister said that this breakthrough in",
+        "article": "Civil Aviation Minister Ram Mohan Naidu has congratulated National Aerospace Laboratories on successfully completing the design phase of 19-seater Saras MK-II. In a social media post, Mr Naidu said that Saras advances Prime Minister Narendra Modi’s Atmanirbhar Bharat vision on becoming country&#8217;s first indigenously designed light transport aircraft. The Minister said that this breakthrough in domestic aerospace manufacturing will empower UDAN vision to connect the remotest and high-altitude airfields with Made in India aircraft.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T10:23:30+00:00",
+        "link": "https://newsonair.gov.in/civil-aviation-minister-ram-mohan-naidu-applauds-nal-for-saras-mk-ii-design-completion/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/saras.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi visits UNESCO-listed Prambanan Temple with President Prabowo",
+        "summary": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century […]",
+        "article": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century temple complex, where Prime Minister Modi offered prayers at the main Shiva temple. They also viewed the temple’s intricate carvings before witnessing ongoing conservation efforts being supported through India-Indonesia cooperation. In a joint statement, President Prabowo said Prambanan stands as a symbol of the centuries-old civilisational bond between India and Indonesia. He thanked India for its support towards the conservation and restoration of the temple complex and said culture continues to serve as a bridge connecting the two nations. Prime Minister Modi described the visit as a deeply spiritual and memorable experience. He thanked the people of Indonesia for preserving this magnificent heritage for nearly twelve centuries and said India’s participation in the temple’s conservation reflects the shared cultural legacy of the two countries. Expressing confidence that the restoration project would further strengthen people-to-people ties, the Prime Minister also thanked President Prabowo for the warm hospitality extended during his three-day State Visit to Indonesia.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T08:46:08+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-visits-unesco-listed-prambanan-temple-with-president-prabowo/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/65.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi concludes his Indonesia visit; Leaves for Australia to participate in third India-Australia Annual Summit",
         "summary": "Prime Minister Narendra Modi concluded his State Visit to Indonesia and has departed for Melbourne for the second leg of his three-country tour. Ministry of External Affairs Spokesperson Randhir Jaiswal, in a social media post, said that, in a special gesture of friendship, Prime Minister Modi was seen off at the airport by Indonesian President […]",
         "article": "Prime Minister Narendra Modi concluded his State Visit to Indonesia and has departed for Melbourne for the second leg of his three-country tour. Ministry of External Affairs Spokesperson Randhir Jaiswal, in a social media post, said that, in a special gesture of friendship, Prime Minister Modi was seen off at the airport by Indonesian President Prabowo Subianto. &nbsp; Mr. Jaiswal added that the visit to Indonesia yielded significant outcomes across key areas of cooperation, strengthening the India-Indonesia partnership and setting an ambitious agenda for future collaboration.",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T08:34:53+00:00",
+        "pubDate": "2026-07-08T08:44:53+00:00",
         "link": "https://newsonair.gov.in/pm-modi-concludes-indonesia-visit-departs-for-australia-for-second-leg-of-his-three-country-tour/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi.png",
         "image_credit": "Prasar Bharati / Akashvani News",
@@ -283,11 +305,11 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "BRICS Women’s Ministerial Meeting begins in Kochi",
+        "title": "BRICS Women Ministerial Meeting begins in Kochi to strengthen cooperation on women’s empowerment and sustainable development",
         "summary": "The BRICS Women’s Ministerial Meeting has commenced in Kochi. Union Minister for Women and Child Development Annpurna Devi and Secretary Anil Malik, among others, attended the main session organised as part of the meeting. The main session began this morning at Kochi. Earlier in the morning, Union Minister of State for Women and Child […]",
         "article": "The BRICS Women’s Ministerial Meeting has commenced in Kochi. Union Minister for Women and Child Development Annpurna Devi and Secretary Anil Malik, among others, attended the main session organised as part of the meeting. The main session began this morning at Kochi. Earlier in the morning, Union Minister of State for Women and Child Development Savitri Thakur and Secretary Anil Malik attended the plenary session. The joint statement will be adopted during the main session. Following this, the ministers representing the delegates at the meeting will visit an exhibition organised in connection with the BRICS summit. Exhibitions highlighting India&#8217;s achievements in women-led development across various sectors, such as rural development, Science, Technology, Engineering, and Mathematics, nutrition, and education, are being held near the venue. Kerala Chief Minister V. D. Satheesan will also attend the BRICS meeting this evening. The event will conclude tomorrow.",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T08:25:25+00:00",
+        "pubDate": "2026-07-08T08:30:25+00:00",
         "link": "https://newsonair.gov.in/brics-womens-ministerial-meeting-begins-in-kochi/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-Womens-Ministerial-Meeting-begins-in-Kochi.png",
         "image_credit": "Prasar Bharati / Akashvani News",
@@ -334,39 +356,39 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T07:28:38+00:00",
         "link": "https://newsonair.gov.in/textiles-ministry-launches-handloom-hackathon-2026-aims-to-strengthen-indias-handloom-sector/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/a-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi says blessed to connect with Lord Shiva at sacred sites, addresses gathering at Prambanan Temple in Indonesia",
-        "summary": "Prime Minister Narendra Modi today said that he considers it his good fortune to have had repeated opportunities to connect with Lord Shiva at various sacred sites. &#160; Addressing the Prambanan Temple in Yogyakarta, Indonesia, the Prime Minister said he was born in Vadnagar, home to Hatkeshwar Mahadev, and that the Somnath Jyotirlinga in Gujarat, […]",
-        "article": "Prime Minister Narendra Modi today said that he considers it his good fortune to have had repeated opportunities to connect with Lord Shiva at various sacred sites. &nbsp; Addressing the Prambanan Temple in Yogyakarta, Indonesia, the Prime Minister said he was born in Vadnagar, home to Hatkeshwar Mahadev, and that the Somnath Jyotirlinga in Gujarat, the first among the twelve Jyotirlingas, holds special significance, with him having direct responsibility for its development. Mr. Modi also noted that his parliamentary constituency, Kashi (Varanasi), is home to Kashi Vishwanath Mahadev, whose blessings, he said, have always guided him. Referring to the redevelopment of the Kedarnath Temple and the Mahakaleshwar Temple in Ujjain, the Prime Minister said he had the privilege of contributing to these projects. He added that his visit to the Prambanan Temple had also given him the opportunity to initiate renovation efforts, describing it as a matter of great fortune.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T07:22:34+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-says-blessed-to-connect-with-lord-shiva-at-sacred-sites-addresses-gathering-at-prambanan-temple-in-indonesia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi visits UNESCO-listed Prambanan Temple with President Prabowo",
-        "summary": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century […]",
-        "article": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century temple complex, where Prime Minister Modi offered prayers at the main Shiva temple. They also viewed the temple’s intricate carvings before witnessing ongoing conservation efforts being supported through India-Indonesia cooperation. In a joint statement, President Prabowo said Prambanan stands as a symbol of the centuries-old civilisational bond between India and Indonesia. He thanked India for its support towards the conservation and restoration of the temple complex and said culture continues to serve as a bridge connecting the two nations. Prime Minister Modi described the visit as a deeply spiritual and memorable experience. He thanked the people of Indonesia for preserving this magnificent heritage for nearly twelve centuries and said India’s participation in the temple’s conservation reflects the shared cultural legacy of the two countries. Expressing confidence that the restoration project would further strengthen people-to-people ties, the Prime Minister also thanked President Prabowo for the warm hospitality extended during his three-day State Visit to Indonesia.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T06:43:08+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-visits-unesco-listed-prambanan-temple-with-president-prabowo/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/65.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
-        "title": "PM Modi concludes Indonesia visit, departs for Australia for second leg of his three-country tour",
+        "title": "Civil Aviation Minister Ram Mohan Naidu Applauds NAL for Saras MK-II Design Completion",
+        "summary": "Civil Aviation Minister Ram Mohan Naidu has congratulated National Aerospace Laboratories on successfully completing the design phase of 19-seater Saras MK-II. In a social media post, Mr Naidu said that Saras advances Prime Minister Narendra Modi’s Atmanirbhar Bharat vision on becoming country&#8217;s first indigenously designed light transport aircraft. The Minister said that this breakthrough in",
+        "article": "Civil Aviation Minister Ram Mohan Naidu has congratulated National Aerospace Laboratories on successfully completing the design phase of 19-seater Saras MK-II. In a social media post, Mr Naidu said that Saras advances Prime Minister Narendra Modi’s Atmanirbhar Bharat vision on becoming country&#8217;s first indigenously designed light transport aircraft. The Minister said that this breakthrough in domestic aerospace manufacturing will empower UDAN vision to connect the remotest and high-altitude airfields with Made in India aircraft.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T10:23:30+00:00",
+        "link": "https://newsonair.gov.in/civil-aviation-minister-ram-mohan-naidu-applauds-nal-for-saras-mk-ii-design-completion/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/saras.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi visits UNESCO-listed Prambanan Temple with President Prabowo",
+        "summary": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century […]",
+        "article": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century temple complex, where Prime Minister Modi offered prayers at the main Shiva temple. They also viewed the temple’s intricate carvings before witnessing ongoing conservation efforts being supported through India-Indonesia cooperation. In a joint statement, President Prabowo said Prambanan stands as a symbol of the centuries-old civilisational bond between India and Indonesia. He thanked India for its support towards the conservation and restoration of the temple complex and said culture continues to serve as a bridge connecting the two nations. Prime Minister Modi described the visit as a deeply spiritual and memorable experience. He thanked the people of Indonesia for preserving this magnificent heritage for nearly twelve centuries and said India’s participation in the temple’s conservation reflects the shared cultural legacy of the two countries. Expressing confidence that the restoration project would further strengthen people-to-people ties, the Prime Minister also thanked President Prabowo for the warm hospitality extended during his three-day State Visit to Indonesia.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T08:46:08+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-visits-unesco-listed-prambanan-temple-with-president-prabowo/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/65.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi concludes his Indonesia visit; Leaves for Australia to participate in third India-Australia Annual Summit",
         "summary": "Prime Minister Narendra Modi concluded his State Visit to Indonesia and has departed for Melbourne for the second leg of his three-country tour. Ministry of External Affairs Spokesperson Randhir Jaiswal, in a social media post, said that, in a special gesture of friendship, Prime Minister Modi was seen off at the airport by Indonesian President […]",
         "article": "Prime Minister Narendra Modi concluded his State Visit to Indonesia and has departed for Melbourne for the second leg of his three-country tour. Ministry of External Affairs Spokesperson Randhir Jaiswal, in a social media post, said that, in a special gesture of friendship, Prime Minister Modi was seen off at the airport by Indonesian President Prabowo Subianto. &nbsp; Mr. Jaiswal added that the visit to Indonesia yielded significant outcomes across key areas of cooperation, strengthening the India-Indonesia partnership and setting an ambitious agenda for future collaboration.",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T08:34:53+00:00",
+        "pubDate": "2026-07-08T08:44:53+00:00",
         "link": "https://newsonair.gov.in/pm-modi-concludes-indonesia-visit-departs-for-australia-for-second-leg-of-his-three-country-tour/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi.png",
         "image_credit": "Prasar Bharati / Akashvani News",
@@ -395,11 +417,11 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "BRICS Women’s Ministerial Meeting begins in Kochi",
+        "title": "BRICS Women Ministerial Meeting begins in Kochi to strengthen cooperation on women’s empowerment and sustainable development",
         "summary": "The BRICS Women’s Ministerial Meeting has commenced in Kochi. Union Minister for Women and Child Development Annpurna Devi and Secretary Anil Malik, among others, attended the main session organised as part of the meeting. The main session began this morning at Kochi. Earlier in the morning, Union Minister of State for Women and Child […]",
         "article": "The BRICS Women’s Ministerial Meeting has commenced in Kochi. Union Minister for Women and Child Development Annpurna Devi and Secretary Anil Malik, among others, attended the main session organised as part of the meeting. The main session began this morning at Kochi. Earlier in the morning, Union Minister of State for Women and Child Development Savitri Thakur and Secretary Anil Malik attended the plenary session. The joint statement will be adopted during the main session. Following this, the ministers representing the delegates at the meeting will visit an exhibition organised in connection with the BRICS summit. Exhibitions highlighting India&#8217;s achievements in women-led development across various sectors, such as rural development, Science, Technology, Engineering, and Mathematics, nutrition, and education, are being held near the venue. Kerala Chief Minister V. D. Satheesan will also attend the BRICS meeting this evening. The event will conclude tomorrow.",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T08:25:25+00:00",
+        "pubDate": "2026-07-08T08:30:25+00:00",
         "link": "https://newsonair.gov.in/brics-womens-ministerial-meeting-begins-in-kochi/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-Womens-Ministerial-Meeting-begins-in-Kochi.png",
         "image_credit": "Prasar Bharati / Akashvani News",
@@ -448,31 +470,31 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/a-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi says blessed to connect with Lord Shiva at sacred sites, addresses gathering at Prambanan Temple in Indonesia",
-        "summary": "Prime Minister Narendra Modi today said that he considers it his good fortune to have had repeated opportunities to connect with Lord Shiva at various sacred sites. &#160; Addressing the Prambanan Temple in Yogyakarta, Indonesia, the Prime Minister said he was born in Vadnagar, home to Hatkeshwar Mahadev, and that the Somnath Jyotirlinga in Gujarat, […]",
-        "article": "Prime Minister Narendra Modi today said that he considers it his good fortune to have had repeated opportunities to connect with Lord Shiva at various sacred sites. &nbsp; Addressing the Prambanan Temple in Yogyakarta, Indonesia, the Prime Minister said he was born in Vadnagar, home to Hatkeshwar Mahadev, and that the Somnath Jyotirlinga in Gujarat, the first among the twelve Jyotirlingas, holds special significance, with him having direct responsibility for its development. Mr. Modi also noted that his parliamentary constituency, Kashi (Varanasi), is home to Kashi Vishwanath Mahadev, whose blessings, he said, have always guided him. Referring to the redevelopment of the Kedarnath Temple and the Mahakaleshwar Temple in Ujjain, the Prime Minister said he had the privilege of contributing to these projects. He added that his visit to the Prambanan Temple had also given him the opportunity to initiate renovation efforts, describing it as a matter of great fortune.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T07:22:34+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-says-blessed-to-connect-with-lord-shiva-at-sacred-sites-addresses-gathering-at-prambanan-temple-in-indonesia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi visits UNESCO-listed Prambanan Temple with President Prabowo",
-        "summary": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century […]",
-        "article": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century temple complex, where Prime Minister Modi offered prayers at the main Shiva temple. They also viewed the temple’s intricate carvings before witnessing ongoing conservation efforts being supported through India-Indonesia cooperation. In a joint statement, President Prabowo said Prambanan stands as a symbol of the centuries-old civilisational bond between India and Indonesia. He thanked India for its support towards the conservation and restoration of the temple complex and said culture continues to serve as a bridge connecting the two nations. Prime Minister Modi described the visit as a deeply spiritual and memorable experience. He thanked the people of Indonesia for preserving this magnificent heritage for nearly twelve centuries and said India’s participation in the temple’s conservation reflects the shared cultural legacy of the two countries. Expressing confidence that the restoration project would further strengthen people-to-people ties, the Prime Minister also thanked President Prabowo for the warm hospitality extended during his three-day State Visit to Indonesia.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T06:43:08+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-visits-unesco-listed-prambanan-temple-with-president-prabowo/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/65.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "U.S. President Trump says MoU to end Iran conflict is over",
+        "summary": "U.S. President Donald Trump has said that the memorandum of understanding signed with Iran to end the conflict ‌is over, adding that he didn&#8217;t want to engage with Tehran. Mr Trump&#8217;s statement came during the press conference at NATO summit in the Turkish capital Ankara, following the US and Iran traded strikes, after three Tankers […]",
+        "article": "U.S. President Donald Trump has said that the memorandum of understanding signed with Iran to end the conflict ‌is over, adding that he didn&#8217;t want to engage with Tehran. Mr Trump&#8217;s statement came during the press conference at NATO summit in the Turkish capital Ankara, following the US and Iran traded strikes, after three Tankers were ⁠hit by projectiles in the Strait of Hormuz. Meanwhile, Iran has not directly claimed responsibility. The interim ceasefire agreement signed between Washington and Tehran was intended to provide a 60-day window for negotiations on a permanent agreement, but indirect talks in Qatar ended with no sign of headway, and the U.S. military unleashed a new wave of strikes against Iran yesterday. Earlier, Iran has launched retaliatory strikes on US military installations following the US attacks on its Hormozgan province and the port city of Mahshahr. According to Iranian media, the Islamic Revolutionary Guard Corps (IRGC) Navy and Aerospace Forces carried out a joint missile and drone operation targeting 85 US military facilities. The US has carried out a fresh round of airstrikes on Iran, targeting more than 80 locations in response to Iran&#8217;s latest attacks on commercial ships passing through the Strait of Hormuz. According to U.S. Central Command (CENTCOM), the strikes targeted Iranian air defence systems, command and control centres, coastal radar sites, anti-ship missile systems, and more than 60 Islamic Revolutionary Guard Corps fast boats in and around the Strait of Hormuz. The US said the operation was aimed at weakening Iran&#8217;s ability to attack international shipping. It also accused Tehran of targeting commercial vessels carrying civilian crews.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T09:42:58+00:00",
+        "link": "https://newsonair.gov.in/u-s-president-trump-says-mou-to-end-iran-conflict-is-over/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260616321f-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Global crude oil prices rise over 2% amid renewed US-Iran tensions",
+        "summary": "Global crude oil prices rose more than two per cent today as renewed hostilities between the United States and Iran threatened to shatter the fragile ceasefire that had brought some relief to global energy markets. Brent crude was trading nearly 2.3 per cent up at 75 US dollars and 87 cents per barrel. West […]",
+        "article": "Global crude oil prices rose more than two per cent today as renewed hostilities between the United States and Iran threatened to shatter the fragile ceasefire that had brought some relief to global energy markets. Brent crude was trading nearly 2.3 per cent up at 75 US dollars and 87 cents per barrel. West Texas Intermediate crude was trading 2.2 per cent up at 71 US dollars and 96 cents per barrel, when reports last came in.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T08:41:17+00:00",
+        "link": "https://newsonair.gov.in/global-crude-oil-prices-rise-over-2-amid-renewed-us-iran-tensions/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/oil-prices.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "India, Indonesia launch collaborative conservation initiative for Prambanan Temple Compound",
         "summary": "India and Indonesia have taken a significant step towards preserving their shared civilisational heritage with the launch of a collaborative conservation initiative for the Prambanan Temple Compound, a UNESCO World Heritage Site in Yogyakarta. The decade-long project will focus on restoring the Pervara or subsidiary shrines, located in the temple’s second courtyard. Originally, the […]",
@@ -481,6 +503,17 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T07:34:22+00:00",
         "link": "https://newsonair.gov.in/india-indonesia-launch-collaborative-conservation-initiative-for-prambanan-temple-compound/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/46.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi says blessed to connect with Lord Shiva at sacred sites, addresses gathering at Prambanan Temple in Indonesia",
+        "summary": "Prime Minister Narendra Modi today said that he considers it his good fortune to have had repeated opportunities to connect with Lord Shiva at various sacred sites. &#160; Addressing the Prambanan Temple in Yogyakarta, Indonesia, the Prime Minister said he was born in Vadnagar, home to Hatkeshwar Mahadev, and that the Somnath Jyotirlinga in Gujarat, […]",
+        "article": "Prime Minister Narendra Modi today said that he considers it his good fortune to have had repeated opportunities to connect with Lord Shiva at various sacred sites. &nbsp; Addressing the Prambanan Temple in Yogyakarta, Indonesia, the Prime Minister said he was born in Vadnagar, home to Hatkeshwar Mahadev, and that the Somnath Jyotirlinga in Gujarat, the first among the twelve Jyotirlingas, holds special significance, with him having direct responsibility for its development. Mr. Modi also noted that his parliamentary constituency, Kashi (Varanasi), is home to Kashi Vishwanath Mahadev, whose blessings, he said, have always guided him. Referring to the redevelopment of the Kedarnath Temple and the Mahakaleshwar Temple in Ujjain, the Prime Minister said he had the privilege of contributing to these projects. He added that his visit to the Prambanan Temple had also given him the opportunity to initiate renovation efforts, describing it as a matter of great fortune.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T07:22:34+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-says-blessed-to-connect-with-lord-shiva-at-sacred-sites-addresses-gathering-at-prambanan-temple-in-indonesia/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -507,33 +540,23 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "MEA welcomes Venezuela’s acknowledgement of Operation Amistad",
-        "summary": "External Affairs Ministry spokesperson Randhir Jaiswal has thanked Venezuela for acknowledging India&#8217;s humanitarian assistance under Operation Amistad following the double earthquake on 24th June. In a social media post, Mr Jaishwal said that the relief mission reflected the enduring friendship between the two countries. India had launched Operation Amistad to support Venezuela following dev",
-        "article": "External Affairs Ministry spokesperson Randhir Jaiswal has thanked Venezuela for acknowledging India&#8217;s humanitarian assistance under Operation Amistad following the double earthquake on 24th June. In a social media post, Mr Jaishwal said that the relief mission reflected the enduring friendship between the two countries. India had launched Operation Amistad to support Venezuela following devastating twin earthquakes of magnitudes 7.2 and 7.5 that caused widespread destruction.",
+        "title": "PM Modi visits UNESCO-listed Prambanan Temple with President Prabowo",
+        "summary": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century […]",
+        "article": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century temple complex, where Prime Minister Modi offered prayers at the main Shiva temple. They also viewed the temple’s intricate carvings before witnessing ongoing conservation efforts being supported through India-Indonesia cooperation. In a joint statement, President Prabowo said Prambanan stands as a symbol of the centuries-old civilisational bond between India and Indonesia. He thanked India for its support towards the conservation and restoration of the temple complex and said culture continues to serve as a bridge connecting the two nations. Prime Minister Modi described the visit as a deeply spiritual and memorable experience. He thanked the people of Indonesia for preserving this magnificent heritage for nearly twelve centuries and said India’s participation in the temple’s conservation reflects the shared cultural legacy of the two countries. Expressing confidence that the restoration project would further strengthen people-to-people ties, the Prime Minister also thanked President Prabowo for the warm hospitality extended during his three-day State Visit to Indonesia.",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T04:48:27+00:00",
-        "link": "https://newsonair.gov.in/mea-welcomes-venezuelas-acknowledgement-of-operation-amistad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/External-Affairs-Ministry-Spokesperson-Randhir-Jaiswal.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-08T08:46:08+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-visits-unesco-listed-prambanan-temple-with-president-prabowo/",
+        "post_id": 1725584,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "PM Modi calls Indian diaspora a bridge of India-Indonesia friendship",
-        "summary": "Prime Minister Narendra Modi participated in an Indian community reception in Jakarta yesterday. As a special gesture, Indonesian President Prabowo Subianto also joined Prime Minister Modi at the event. &#160; Addressing the gathering, Mr Modi commended the Indian diaspora for its contribution to Indonesia’s progress and prosperity and for serving as a living bridge of […]",
-        "article": "Prime Minister Narendra Modi participated in an Indian community reception in Jakarta yesterday. As a special gesture, Indonesian President Prabowo Subianto also joined Prime Minister Modi at the event. &nbsp; Addressing the gathering, Mr Modi commended the Indian diaspora for its contribution to Indonesia’s progress and prosperity and for serving as a living bridge of friendship between the two countries. Prime Minister highlighted the notable progress achieved by India in recent years, from next generation infrastructure development to start up revolution and significant expansion in social development programmes that has enabled over 25 crore people to move out of poverty. He noted that India has been the fastest growing major economy in the world for several years now, and this has made the country a key-driver of the global growth. &nbsp; Prime Minister expressed that the changes happening in India should be seen as aspirations of 1.4 billion people in motion. Mr Modi called upon the Indian community to contribute towards realising the shared aspirations of Viksit Bharat 2047 and Indonesia Emas 2045. He further noted that India is committed to act as a force multiplier for bringing progress and prosperity in Indonesia and in the ASEAN region.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T03:58:42+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-calls-indian-diaspora-a-bridge-of-india-indonesia-friendship/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-calls-Indian-diaspora-a-bridge-of-India-Indonesia-friendship.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi concludes Indonesia visit, departs for Australia for second leg of his three-country tour",
+        "title": "PM Modi concludes his Indonesia visit; Leaves for Australia to participate in third India-Australia Annual Summit",
         "summary": "Prime Minister Narendra Modi concluded his State Visit to Indonesia and has departed for Melbourne for the second leg of his three-country tour. Ministry of External Affairs Spokesperson Randhir Jaiswal, in a social media post, said that, in a special gesture of friendship, Prime Minister Modi was seen off at the airport by Indonesian President […]",
         "article": "Prime Minister Narendra Modi concluded his State Visit to Indonesia and has departed for Melbourne for the second leg of his three-country tour. Ministry of External Affairs Spokesperson Randhir Jaiswal, in a social media post, said that, in a special gesture of friendship, Prime Minister Modi was seen off at the airport by Indonesian President Prabowo Subianto. &nbsp; Mr. Jaiswal added that the visit to Indonesia yielded significant outcomes across key areas of cooperation, strengthening the India-Indonesia partnership and setting an ambitious agenda for future collaboration.",
         "date": "2026-07-08",
-        "pubDate": "2026-07-08T08:34:53+00:00",
+        "pubDate": "2026-07-08T08:44:53+00:00",
         "link": "https://newsonair.gov.in/pm-modi-concludes-indonesia-visit-departs-for-australia-for-second-leg-of-his-three-country-tour/",
         "post_id": 1725304,
         "image_url": "",
@@ -560,30 +583,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T07:39:40+00:00",
         "link": "https://newsonair.gov.in/india-hosts-aitiga-joint-committee-meeting-to-advance-the-review-of-the-asean-india-trade-pact/",
         "post_id": 1725531,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi says blessed to connect with Lord Shiva at sacred sites, addresses gathering at Prambanan Temple in Indonesia",
-        "summary": "Prime Minister Narendra Modi today said that he considers it his good fortune to have had repeated opportunities to connect with Lord Shiva at various sacred sites. &#160; Addressing the Prambanan Temple in Yogyakarta, Indonesia, the Prime Minister said he was born in Vadnagar, home to Hatkeshwar Mahadev, and that the Somnath Jyotirlinga in Gujarat, […]",
-        "article": "Prime Minister Narendra Modi today said that he considers it his good fortune to have had repeated opportunities to connect with Lord Shiva at various sacred sites. &nbsp; Addressing the Prambanan Temple in Yogyakarta, Indonesia, the Prime Minister said he was born in Vadnagar, home to Hatkeshwar Mahadev, and that the Somnath Jyotirlinga in Gujarat, the first among the twelve Jyotirlingas, holds special significance, with him having direct responsibility for its development. Mr. Modi also noted that his parliamentary constituency, Kashi (Varanasi), is home to Kashi Vishwanath Mahadev, whose blessings, he said, have always guided him. Referring to the redevelopment of the Kedarnath Temple and the Mahakaleshwar Temple in Ujjain, the Prime Minister said he had the privilege of contributing to these projects. He added that his visit to the Prambanan Temple had also given him the opportunity to initiate renovation efforts, describing it as a matter of great fortune.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T07:22:34+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-says-blessed-to-connect-with-lord-shiva-at-sacred-sites-addresses-gathering-at-prambanan-temple-in-indonesia/",
-        "post_id": 1725529,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi visits UNESCO-listed Prambanan Temple with President Prabowo",
-        "summary": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century […]",
-        "article": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century temple complex, where Prime Minister Modi offered prayers at the main Shiva temple. They also viewed the temple’s intricate carvings before witnessing ongoing conservation efforts being supported through India-Indonesia cooperation. In a joint statement, President Prabowo said Prambanan stands as a symbol of the centuries-old civilisational bond between India and Indonesia. He thanked India for its support towards the conservation and restoration of the temple complex and said culture continues to serve as a bridge connecting the two nations. Prime Minister Modi described the visit as a deeply spiritual and memorable experience. He thanked the people of Indonesia for preserving this magnificent heritage for nearly twelve centuries and said India’s participation in the temple’s conservation reflects the shared cultural legacy of the two countries. Expressing confidence that the restoration project would further strengthen people-to-people ties, the Prime Minister also thanked President Prabowo for the warm hospitality extended during his three-day State Visit to Indonesia.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T06:43:08+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-visits-unesco-listed-prambanan-temple-with-president-prabowo/",
-        "post_id": 1725584,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1030,6 +1029,61 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "प्रधानमंत्री नरेन्‍द्र मोदी ऑस्ट्रेलिया के लिए रवाना",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ऑस्ट्रेलिया के लिए रवाना हो गए हैं। इस यात्रा का उद्देश्य प्रवासी समुदाय पर विशेष ध्यान देते हुए दोनों देशों के बीच आर्थिक और रणनीतिक संबंधों को और मजबूती प्रदान करना है। आकाशवाणी समाचार से विशेष बातचीत में मेलबर्न स्थित प्रख्यात फार्मासिस्ट और ऑर्डर ऑफ ऑस्ट्रेलिया के सदस्य दीपक संघवी ने द्विपक्षीय […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ऑस्ट्रेलिया के लिए रवाना हो गए हैं। इस यात्रा का उद्देश्य प्रवासी समुदाय पर विशेष ध्यान देते हुए दोनों देशों के बीच आर्थिक और रणनीतिक संबंधों को और मजबूती प्रदान करना है। आकाशवाणी समाचार से विशेष बातचीत में मेलबर्न स्थित प्रख्यात फार्मासिस्ट और ऑर्डर ऑफ ऑस्ट्रेलिया के सदस्य दीपक संघवी ने द्विपक्षीय संबंधों के बारे में अपने विचार साझा किए। श्री संघवी ने बताया कि मेलबर्न में भारतीय सबसे अधिक संख्या में हैं। प्रधानमंत्री मोदी की पहल से भारतीय समुदाय की सार्वजनिक पहचान में बड़ा बदलाव आया है।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T09:38:44+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-concludes-his-indonesia-visit-leaves-for-australia-to-participate-in-third-india-australia-annual-summit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत वस्‍तु समझौते से संबंधित 13वीं आसियान-भारत व्‍यापार संयुक्‍त समिति की नई दिल्‍ली में बैठक की मेजबानी की",
+        "summary": "भारत वस्‍तु समझौते से संबंधित 13वीं आसियान-भारत व्‍यापार संयुक्‍त समिति की नई दिल्‍ली में बैठक की मेजबानी कर रहा है। इसका उद्देश्‍य आसियान-भारत व्‍यापार समझौते की समीक्षा को आगे बढ़ाना है। संयुक्‍त समिति की बैठक और उससे जुड़ी बैठकें ऑनलाइन और ऑफलाइन दोनों माध्‍यमों से दस जुलाई तक जारी रहेंगी। वाणिज्‍य और उद्योग मंत्रालय […]",
+        "article": "भारत वस्&#x200d;तु समझौते से संबंधित 13वीं आसियान-भारत व्&#x200d;यापार संयुक्&#x200d;त समिति की नई दिल्&#x200d;ली में बैठक की मेजबानी कर रहा है। इसका उद्देश्&#x200d;य आसियान-भारत व्&#x200d;यापार समझौते की समीक्षा को आगे बढ़ाना है। संयुक्&#x200d;त समिति की बैठक और उससे जुड़ी बैठकें ऑनलाइन और ऑफलाइन दोनों माध्&#x200d;यमों से दस जुलाई तक जारी रहेंगी। वाणिज्&#x200d;य और उद्योग मंत्रालय ने बताया है कि संयुक्&#x200d;त समिति ने उप-समितियों को उनके संबंधित कार्य क्षेत्र के लिए रणनीतिक मार्गदर्शन दिया है और उनसे लंबित मुद्दों को शीघ्र अंतिम रूप देने को कहा है। आसियान-भारत व्&#x200d;यापार संयुक्&#x200d;त समिति के अंतर्गत आठ उप-समितियां बनाई गई हैं। इनमें से तीन उप-समितियों की बैठक 13वीं संयुक्&#x200d;त समिति की बैठक के साथ-साथ चल रही है। इनमें सीमा शुल्&#x200d;क कार्यप्रणाली और व्&#x200d;यापार सुविधा पर उप-समिति, राष्&#x200d;ट्रीय बाजार सुलभता पर उप-समिति और उत्&#x200d;पत्ति के नियम पर उप-समिति शामिल हैं। इन बैठकों से भारत और आसियान के बीच सहयोग और आपसी समझा मजबूत होगी। कल हुई 13वीं संयुक्&#x200d;त समिति की बैठक में वाणिज्&#x200d;य विभाग के अपर सचिव नितिन कुमार यादव तथा मलेशिया के व्&#x200d;यापार मामलों के उप-महासचिव और निवेश और उद्योग मंत्री मस्&#x200d;तूरा अहमद मुस्&#x200d;तबा ने सह-अध्&#x200d;यक्षता की। इसमें आसियान के सभी सदस्&#x200d;य देशों के प्रतिनिधियों ने भाग लिया।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T09:06:42+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4-%e0%a4%b5%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%81-%e0%a4%b8%e0%a4%ae%e0%a4%9d%e0%a5%8c%e0%a4%a4%e0%a5%87-%e0%a4%b8%e0%a5%87-%e0%a4%b8%e0%a4%82%e0%a4%ac/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/asea.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वस्‍त्र मंत्रालय ने राष्‍ट्रीय नवाचार चुनौती – हथकरघा हैकेथॉन 2026 का शुभारंभ किया",
+        "summary": "वस्‍त्र मंत्रालय ने राष्‍ट्रीय नवाचार चुनौती &#8211; हथकरघा हैकेथॉन 2026 का शुभारंभ किया है। इसका उद्देश्‍य देश के हथकरघा क्षेत्र को मजबूती देने के लिए प्रौद्योगिकी, डिजाइन और उद्यमशीलता का उपयोग करना तथा सतत् समाधान प्रदान करना है। इस पहल का आयोजन राष्‍ट्रीय हथकरघा दिवस 2026 के समारोह के हिस्‍से के रूप में किया जा […]",
+        "article": "वस्&#x200d;त्र मंत्रालय ने राष्&#x200d;ट्रीय नवाचार चुनौती &#8211; हथकरघा हैकेथॉन 2026 का शुभारंभ किया है। इसका उद्देश्&#x200d;य देश के हथकरघा क्षेत्र को मजबूती देने के लिए प्रौद्योगिकी, डिजाइन और उद्यमशीलता का उपयोग करना तथा सतत् समाधान प्रदान करना है। इस पहल का आयोजन राष्&#x200d;ट्रीय हथकरघा दिवस 2026 के समारोह के हिस्&#x200d;से के रूप में किया जा रहा है। ऑनलाइन पंजीकरण 20 जुलाई तक खुले हैं। विद्यार्थी, नवोन्&#x200d;मेषक, स्&#x200d;टार्टअप, शोधकर्ता, डिजाइनर, उद्यमी तथा हथकरघा पेशेवर पंजीकरण करने के साथ अपने विचार www.youthideathon.in/handloom पर साझा कर सकते हैं। चुनी हुई टीमें पहली अगस्&#x200d;त को अपने समाधान ज्&#x200d;यूरी के समक्ष प्रस्&#x200d;तुत करेंगी। इसका आयोजन आईआईटी दिल्&#x200d;ली के फाउंडेशन फॉर इनोवेशन ट्रांसफर में होगा। इस पहल के बारे में वस्&#x200d;त्र मंत्रालय में हरकरघा मामलों की विकास आयुक्&#x200d;त डॉ. एम.&#x200d; बीना ने बताया कि हथकरघा हैकेथॉन 2026 का उद्देश्&#x200d;य देश की युवा रचनात्&#x200d;मकता को हरकरघा क्षेत्र की समृद्ध विरासत के साथ जोड़ना है।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T09:04:12+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%8d%e0%a4%b0-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%a8%e0%a5%87-%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/hath.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रवर्तन निदेशालय दिल्ली एनसीआर में पांच परिसरों पर तलाशी अभियान चलाया",
+        "summary": "प्रवर्तन निदेशालय दिल्ली एनसीआर में पांच परिसरों पर तलाशी अभियान चला रहा है। यह यह छापेमारी सब्सिडी पर मकान खरीदारों को ठगने के तीन मामलों की चल रही जांच के सिलसिले में चलाया जा रहा है। इससे पहले, केन्‍द्रीय अन्‍वेषण ब्‍यूरो द्वारा की गई जांच में पता चला है कि बिल्डरों ने सब्सिडी योजनाओं के […]",
+        "article": "प्रवर्तन निदेशालय दिल्ली एनसीआर में पांच परिसरों पर तलाशी अभियान चला रहा है। यह यह छापेमारी सब्सिडी पर मकान खरीदारों को ठगने के तीन मामलों की चल रही जांच के सिलसिले में चलाया जा रहा है। इससे पहले, केन्&#x200d;द्रीय अन्&#x200d;वेषण ब्&#x200d;यूरो द्वारा की गई जांच में पता चला है कि बिल्डरों ने सब्सिडी योजनाओं के नाम पर मकान खरीदारों और निवेशकों को धोखा दिया है। यह भी पता चला है कि बिल्डरों ने &#8216;पजेशन तक कोई ईएमआई नहीं&#8217; योजनाएं शुरू कीं, जिनके तहत घर खरीदारों ने आवास ऋण लेकर फ्लैट बुक किए। हालांकि, कई साल बीत जाने के बाद भी उन्हें फ्लैटों का पजेशन नहीं दिया गया है, जिससे घर खरीदारों को अनुचित नुकसान हुआ है। अपराध की धनराशि घर खरीदारों द्वारा किए गए भुगतानों को अन्य परियोजनाओं में लगाकर जुटाई गई थी।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T08:54:21+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8-%e0%a4%a8%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ed-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी ने कहा योग्याकार्ता में प्राम्बानन मंदिर के संरक्षण में भारत की भागीदारी दोनों देशों की साझा सांस्कृतिक विरासत को दर्शाती है",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा कि उन्हें विभिन्न पवित्र स्थलों पर भगवान शिव से बार-बार जुड़ने का सौभाग्य प्राप्त हुआ है। इंडोनेशिया के योग्याकार्ता स्थित प्राम्‍बानन मंदिर में एक सभा को संबोधित करते हुए प्रधानमंत्री ने कहा कि गुजरात स्थित सोमनाथ ज्योतिर्लिंग उनके लिए विशेष महत्व रखता है और इसके विकास की प्रत्यक्ष जिम्मेदारी उन्हीं […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा कि उन्हें विभिन्न पवित्र स्थलों पर भगवान शिव से बार-बार जुड़ने का सौभाग्य प्राप्त हुआ है। इंडोनेशिया के योग्याकार्ता स्थित प्राम्&#x200d;बानन मंदिर में एक सभा को संबोधित करते हुए प्रधानमंत्री ने कहा कि गुजरात स्थित सोमनाथ ज्योतिर्लिंग उनके लिए विशेष महत्व रखता है और इसके विकास की प्रत्यक्ष जिम्मेदारी उन्हीं पर है। श्री मोदी ने कहा कि उनके संसदीय क्षेत्र वाराणसी में स्थित काशी विश्वनाथ महादेव के आशीर्वाद से उन्&#x200d;हें हमेशा मार्गदर्शन मिला है। उत्तराखंड में केदारनाथ मंदिर और उज्जैन में महाकालेश्वर मंदिर के पुनर्निर्माण का उल्&#x200d;लेख करते हुए प्रधानमंत्री ने कहा कि उन्हें इन परियोजनाओं में योगदान का सौभाग्य प्राप्त हुआ है। उन्होंने प्रंबानन मंदिर की यात्रा और जीर्णोद्धार कार्यों की शुरुआत के अवसर को अपना सौभाग्य बताया।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T08:42:27+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80-%e0%a4%a8%e0%a5%87-%e0%a4%87%e0%a4%82%e0%a4%a1-4/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mandir.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "अमेरिका के हमलों के बाद ईरान ने बहरीन और कुवैत में अमेरिकी सैन्य ठिकानों को निशाना बनाया",
         "summary": "ईरान ने होर्मोज़गान प्रांत और माहशहर बंदरगाह पर अमरीकी हमलों के जवाब में अमरीकी सैन्य ठिकानों पर हमले किए हैं। ईरानी मीडिया के अनुसार इस्लामिक रिवोल्यूशनरी गार्ड कोर ने मिसाइल और ड्रोन हमले करते हुए अमरीका के 85 सैन्य ठिकानों को निशाना बनाया। इनमें बहरीन स्थित सलमान बंदरगाह और अमरीका के पांचवें बेड़े का मुख्यालय […]",
         "article": "ईरान ने होर्मोज़गान प्रांत और माहशहर बंदरगाह पर अमरीकी हमलों के जवाब में अमरीकी सैन्य ठिकानों पर हमले किए हैं। ईरानी मीडिया के अनुसार इस्लामिक रिवोल्यूशनरी गार्ड कोर ने मिसाइल और ड्रोन हमले करते हुए अमरीका के 85 सैन्य ठिकानों को निशाना बनाया। इनमें बहरीन स्थित सलमान बंदरगाह और अमरीका के पांचवें बेड़े का मुख्यालय तथा कुवैत में अली अल सलेम वायु सेना अड्डा शामिल हैं। ईरान के बुशहर प्रांत में अमरीका के एमक्यू-9 ड्रोन को भी मार गिराया गया। इस बीच, बहरीन के गृह मंत्रालय ने चेतावनी सायरन बजने पर लोगों से सुरक्षित स्&#x200d;थानों पर जाने को कहा है। इससे पहले, होर्मुज जलडमरूमध्य में वाणिज्यिक जहाजों पर ईरान के हाल के हमलों के जवाब में अमरीका ने ईरान के 80 से अधिक ठिकानों पर फिर हवाई हमले किये। अमरीका की केंद्रीय कमान-सेंटकॉम ने कहा कि हमलों में ईरानी वायु रक्षा प्रणाली, कमान और नियंत्रण केंद्रों, तटीय रडार स्थलों, जहाज-रोधी मिसाइल प्रणालियों और होर्मुज जलडमरूमध्य तथा उसके आसपास स्थित इस्लामिक रिवोल्यूशनरी गार्ड कोर की 60 से अधिक नौकाओं को निशाना बनाया गया। ईरान ने हमलों की पुष्टि करते हुए कहा कि बंदर अब्बास, केशम और सिरिक में विस्फोटों की आवाजें सुनी गईं। हमलों से तत्&#x200d;काल किसी के मारे जाने या नुकसान की जानकारी नहीं है। ईरान की केंद्रीय सैन्य कमान ने इसे आक्रामकता और आतंकवाद का कृत्य बताते हुए जवाबी हमले की चेतावनी दी है। ईरान ने यह भी कहा है कि होर्मुज जलडमरूमध्य में किसी भी तरह के हस्तक्षेप की अनुमति नहीं दी जाएगी और न ही किसी को इस पर नियंत्रण करने दिया जाएगा। इस बीच अमरीका ने अंतरिम समझौते के तहत ईरान को तेल बेचने की छूट रद्द कर दी है। ईरान के उप विदेश मंत्री काज़ेम ग़रीबाबादी ने इसकी कड़ी निंदा करते हुए सोशल मीडिया पोस्ट में कहा कि अमरीकी हमले और कार्रवाई द्विपक्षीय समझौतों का गंभीर उल्लंघन है। इस बीच, कुवैत ने कहा है कि ईरान के मिसाइल हमलों को रोकने के लिए आज वायु रक्षा प्रणाली सक्रिय कर दी गई। बहरीन ने भी ईरानी मिसाइल हमले की जानकारी देते हुए कहा है कि तत्काल किसी के मारे जाने या नुकसान की खबर नहीं है।",
@@ -1063,24 +1117,13 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "प्रधानमंत्री मोदी तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेने के लिए ऑस्ट्रेलिया के लिए रवाना हुए",
-        "summary": "प्रधानमंत्री तीन देशों के दौरे के दूसरे चरण में आज मेलबर्न पहुंचेंगे। प्रधानमंत्री मोदी इस दौरान ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। श्री मोदी भारत-ऑस्ट्रेलिया मुख्‍य कार्यकारी अधिकारी मंच को भी संबोधित करेंगे। प्रधानमंत्री मोदी का प्रवासी भारतीयों को भी संबोधित करने का कार्यक्रम है।",
-        "article": "प्रधानमंत्री तीन देशों के दौरे के दूसरे चरण में आज मेलबर्न पहुंचेंगे। प्रधानमंत्री मोदी इस दौरान ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। श्री मोदी भारत-ऑस्ट्रेलिया मुख्&#x200d;य कार्यकारी अधिकारी मंच को भी संबोधित करेंगे। प्रधानमंत्री मोदी का प्रवासी भारतीयों को भी संबोधित करने का कार्यक्रम है।",
+        "title": "प्रधानमंत्री मोदी तीसरे भारत ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेने के लिए ऑस्ट्रेलिया रवाना",
+        "summary": "प्रधानमंत्री तीन देशों के दौरे के दूसरे चरण में आज मेलबर्न पहुंचेंगे। प्रधानमंत्री मोदी इस दौरान ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। श्री मोदी भारत-ऑस्ट्रेलिया मुख्‍य कार्यकारी अधिकारी मंच को भी संबोधित करेंगे। प्रधानमंत्री मोदी का प्रवासी भारतीयों को भी संबोधित करने का कार्यक्रम है। &#160;",
+        "article": "प्रधानमंत्री तीन देशों के दौरे के दूसरे चरण में आज मेलबर्न पहुंचेंगे। प्रधानमंत्री मोदी इस दौरान ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। श्री मोदी भारत-ऑस्ट्रेलिया मुख्&#x200d;य कार्यकारी अधिकारी मंच को भी संबोधित करेंगे। प्रधानमंत्री मोदी का प्रवासी भारतीयों को भी संबोधित करने का कार्यक्रम है। &nbsp;",
         "date": "2026-07-08",
         "pubDate": "2026-07-08T08:05:34+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80-%e0%a4%a4%e0%a5%80%e0%a4%b8%e0%a4%b0%e0%a5%87/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2A.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी ने कहा योग्याकार्ता में यूनेस्को की विश्व धरोहर स्थल ‘प्राम्बानन मंदिर’ के संरक्षण में भारत की भागीदारी दोनों देशों की साझा सांस्कृतिक विरासत को दर्शाती है",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा कि उन्हें विभिन्न पवित्र स्थलों पर भगवान शिव से बार-बार जुड़ने का सौभाग्य प्राप्त हुआ है। इंडोनेशिया के योग्याकार्ता स्थित प्राम्‍बानन मंदिर में एक सभा को संबोधित करते हुए प्रधानमंत्री ने कहा कि गुजरात स्थित सोमनाथ ज्योतिर्लिंग उनके लिए विशेष महत्व रखता है और इसके विकास की प्रत्यक्ष जिम्मेदारी उन्हीं […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा कि उन्हें विभिन्न पवित्र स्थलों पर भगवान शिव से बार-बार जुड़ने का सौभाग्य प्राप्त हुआ है। इंडोनेशिया के योग्याकार्ता स्थित प्राम्&#x200d;बानन मंदिर में एक सभा को संबोधित करते हुए प्रधानमंत्री ने कहा कि गुजरात स्थित सोमनाथ ज्योतिर्लिंग उनके लिए विशेष महत्व रखता है और इसके विकास की प्रत्यक्ष जिम्मेदारी उन्हीं पर है। श्री मोदी ने कहा कि उनके संसदीय क्षेत्र वाराणसी में स्थित काशी विश्वनाथ महादेव के आशीर्वाद से उन्&#x200d;हें हमेशा मार्गदर्शन मिला है। उत्तराखंड में केदारनाथ मंदिर और उज्जैन में महाकालेश्वर मंदिर के पुनर्निर्माण का उल्&#x200d;लेख करते हुए प्रधानमंत्री ने कहा कि उन्हें इन परियोजनाओं में योगदान का सौभाग्य प्राप्त हुआ है। उन्होंने प्रंबानन मंदिर की यात्रा और जीर्णोद्धार कार्यों की शुरुआत के अवसर को अपना सौभाग्य बताया।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T08:00:27+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80-%e0%a4%a8%e0%a5%87-%e0%a4%87%e0%a4%82%e0%a4%a1-4/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mandir.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1103,28 +1146,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T06:14:10+00:00",
         "link": "https://newsonair.gov.in/hi/the-jammu-and-kashmir-administration-has-issued-a-new-advisory-for-the-shri-amarnath-ji-yatra/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260630640f.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "संसदीय कार्य मंत्री किरेन रिजिजू ने पूर्व प्रधानमंत्री चंद्रशेखर की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की",
-        "summary": "संसदीय कार्य मंत्री किरेन रिजिजू ने पूर्व प्रधानमंत्री चंद्रशेखर की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की है। सोशल मीडिया पोस्ट में श्री रिजिजू ने कहा कि सामाजिक न्याय, लोकतांत्रिक मूल्यों और राष्ट्रीय हित के प्रति उनकी अटूट निष्ठा भारतीय राजनीति में एक अमूल्य विरासत है। उन्होंने कहा कि चंद्रशेखर के विचार और जन सेवा का […]",
-        "article": "संसदीय कार्य मंत्री किरेन रिजिजू ने पूर्व प्रधानमंत्री चंद्रशेखर की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की है। सोशल मीडिया पोस्ट में श्री रिजिजू ने कहा कि सामाजिक न्याय, लोकतांत्रिक मूल्यों और राष्ट्रीय हित के प्रति उनकी अटूट निष्ठा भारतीय राजनीति में एक अमूल्य विरासत है। उन्होंने कहा कि चंद्रशेखर के विचार और जन सेवा का आदर्श राष्ट्र निर्माण की दिशा में सभी को प्रेरित करते रहेंगे।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T06:04:38+00:00",
-        "link": "https://newsonair.gov.in/hi/parliamentary-affairs-minister-kiren-rijiju-paid-tribute-to-former-prime-minister-chandra-shekhar-on-his-death-anniversary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/former-Prime-Minister-Chandrashekhar.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "उपराष्‍ट्रपति सी. पी. राधाकृष्‍णन कल ओडिसा गहरे समुद्री मत्‍स्‍य पालन मिशन दस्‍तावेज जारी करेंगे",
-        "summary": "उपराष्‍ट्रपति सी. पी. राधाकृष्‍णन &#8216;समुद्री जैव विविधता का संरक्षण करते हुए खुले समुद्र में सतत मत्‍स्‍य पालन के लिए प्राधिकार पत्र&#8217; तथा &#8216;ओडिसा गहरे समुद्री मत्‍स्‍य पालन मिशन&#8217; का दस्‍तावेज कल ओडिशा के भूवनेश्‍वर में जारी करेंगे। मत्‍स्‍य पालन विभाग द्वारा आयेजित इस कार्यक्रम में लगभग एक हजार मत्‍स्‍य किसान और मछुआरे भाग लेंगे। प्राधिकार […]",
-        "article": "उपराष्&#x200d;ट्रपति सी. पी. राधाकृष्&#x200d;णन &#8216;समुद्री जैव विविधता का संरक्षण करते हुए खुले समुद्र में सतत मत्&#x200d;स्&#x200d;य पालन के लिए प्राधिकार पत्र&#8217; तथा &#8216;ओडिसा गहरे समुद्री मत्&#x200d;स्&#x200d;य पालन मिशन&#8217; का दस्&#x200d;तावेज कल ओडिशा के भूवनेश्&#x200d;वर में जारी करेंगे। मत्&#x200d;स्&#x200d;य पालन विभाग द्वारा आयेजित इस कार्यक्रम में लगभग एक हजार मत्&#x200d;स्&#x200d;य किसान और मछुआरे भाग लेंगे। प्राधिकार पत्र वर्ष 2025 के भारतीय ध्&#x200d;वज वाले मत्&#x200d;स्&#x200d;य पोतो द्वारा खुले समुद्र में मत्&#x200d;स्&#x200d;य संसाधनों के सतत् दोहन संबंधी दिशानिर्देशों के तहत एक अनिवार्य प्रावधान है। ओडिसा गहरे समुद्री मत्&#x200d;स्&#x200d;य पालन मिशन 2026-36 समुद्री अर्थव्&#x200d;यवस्&#x200d;था की एक प्रमुख पहल है। इसका उद्देश्&#x200d;य राज्&#x200d;य के तटीय और गहरे समुद्री मत्&#x200d;स्&#x200d;य संसाधनों की क्षमता का दोहन करना तथा ओडिसा को गहरे समुद्र मत्&#x200d;स्&#x200d;य पालन और समुद्री उत्&#x200d;पादों के निर्यात के प्रमुख केन्&#x200d;द्र के रूप में स्&#x200d;थापित करना है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T05:59:40+00:00",
-        "link": "https://newsonair.gov.in/hi/vice-president-cp-radhakrishnan-to-release-odisha-deep-sea-fisheries-mission-document-tomorrow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/CP-Radhakrishnan-1757427859015.webp",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1138,31 +1159,64 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-5.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "किसी भी राष्ट्र की सबसे बड़ी शक्ति है धैर्य: प्रधानमंत्री नरेंद्र मोदी",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी ने कहा है कि धैर्य, किसी भी राष्ट्र की सबसे बड़ी शक्ति है, क्योंकि यह देश को सबसे कठिन चुनौतियों के बीच भी एकजुट रहने की प्रेरणा देता है। संस्कृत का एक प्रेरक कथन साझा करते हुए, श्री मोदी ने कहा कि धैर्य किसी राष्ट्र को निरंतर प्रगति, समृद्धि और आत्मनिर्भरता की […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी ने कहा है कि धैर्य, किसी भी राष्ट्र की सबसे बड़ी शक्ति है, क्योंकि यह देश को सबसे कठिन चुनौतियों के बीच भी एकजुट रहने की प्रेरणा देता है। संस्कृत का एक प्रेरक कथन साझा करते हुए, श्री मोदी ने कहा कि धैर्य किसी राष्ट्र को निरंतर प्रगति, समृद्धि और आत्मनिर्भरता की ओर ले जाता है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T03:27:50+00:00",
-        "link": "https://newsonair.gov.in/hi/patience-is-the-greatest-strength-of-any-nation-prime-minister-narendra-modi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260615376f-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेंद्र मोदी आज इंडोनेशिया के योग्याकार्ता में प्रंबानन मंदिर का दौरा करेंगे",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज इंडोनेशिया के राष्ट्रपति के साथ योग्याकार्ता में प्रंबानन मंदिर का दौरा करेंगे। इससे भारत और इंडोनेशिया के बीच एक हजार वर्षों से चले आ रहे गहरे सांस्कृतिक और सभ्यतागत संबंध प्रदर्शित होते हैं। 9वीं शताब्दी में निर्मित प्रंबानन मंदिर, इंडोनेशिया का सबसे बड़ा हिंदू मंदिर परिसर और दक्षिणपूर्व एशिया की उत्कृष्ट […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज इंडोनेशिया के राष्ट्रपति के साथ योग्याकार्ता में प्रंबानन मंदिर का दौरा करेंगे। इससे भारत और इंडोनेशिया के बीच एक हजार वर्षों से चले आ रहे गहरे सांस्कृतिक और सभ्यतागत संबंध प्रदर्शित होते हैं। 9वीं शताब्दी में निर्मित प्रंबानन मंदिर, इंडोनेशिया का सबसे बड़ा हिंदू मंदिर परिसर और दक्षिणपूर्व एशिया की उत्कृष्ट स्थापत्य कला कृतियों में से एक है। मूल रूप इस परिसर में भगवान ब्रह्मा, विष्णु और शिव को समर्पित 240 छोटे-बड़े मंदिर हैं। इसमें पत्थरों पर रामायण के दृश्य उकेरे गये हैं। मंदिर परिसर में आज भी रामायण का मंचन किया जाता है। भारत और इंडोनेशिया ने प्रंबानन मंदिर परिसर के संरक्षण और जीर्णोद्धार के लिए कल एक महत्वपूर्ण पहल की घोषणा की। इस साझेदारी के तहत, भारत, भारतीय पुरातत्व सर्वेक्षण के माध्यम से, यूनेस्को विश्व धरोहर स्थल, प्रंबानन मंदिर के भीतर चुनिंदा संरचनाओं के संरक्षण और जीर्णोद्धार के लिए सहायता प्रदान करेगा।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T03:21:54+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-visit-the-prambanan-temple-in-yogyakarta-indonesia-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-4.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "प्रधानमंत्री नरेन्‍द्र मोदी ऑस्ट्रेलिया के लिए रवाना",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ऑस्ट्रेलिया के लिए रवाना हो गए हैं। इस यात्रा का उद्देश्य प्रवासी समुदाय पर विशेष ध्यान देते हुए दोनों देशों के बीच आर्थिक और रणनीतिक संबंधों को और मजबूती प्रदान करना है। आकाशवाणी समाचार से विशेष बातचीत में मेलबर्न स्थित प्रख्यात फार्मासिस्ट और ऑर्डर ऑफ ऑस्ट्रेलिया के सदस्य दीपक संघवी ने द्विपक्षीय […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ऑस्ट्रेलिया के लिए रवाना हो गए हैं। इस यात्रा का उद्देश्य प्रवासी समुदाय पर विशेष ध्यान देते हुए दोनों देशों के बीच आर्थिक और रणनीतिक संबंधों को और मजबूती प्रदान करना है। आकाशवाणी समाचार से विशेष बातचीत में मेलबर्न स्थित प्रख्यात फार्मासिस्ट और ऑर्डर ऑफ ऑस्ट्रेलिया के सदस्य दीपक संघवी ने द्विपक्षीय संबंधों के बारे में अपने विचार साझा किए। श्री संघवी ने बताया कि मेलबर्न में भारतीय सबसे अधिक संख्या में हैं। प्रधानमंत्री मोदी की पहल से भारतीय समुदाय की सार्वजनिक पहचान में बड़ा बदलाव आया है।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T09:38:44+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-concludes-his-indonesia-visit-leaves-for-australia-to-participate-in-third-india-australia-annual-summit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत वस्‍तु समझौते से संबंधित 13वीं आसियान-भारत व्‍यापार संयुक्‍त समिति की नई दिल्‍ली में बैठक की मेजबानी की",
+        "summary": "भारत वस्‍तु समझौते से संबंधित 13वीं आसियान-भारत व्‍यापार संयुक्‍त समिति की नई दिल्‍ली में बैठक की मेजबानी कर रहा है। इसका उद्देश्‍य आसियान-भारत व्‍यापार समझौते की समीक्षा को आगे बढ़ाना है। संयुक्‍त समिति की बैठक और उससे जुड़ी बैठकें ऑनलाइन और ऑफलाइन दोनों माध्‍यमों से दस जुलाई तक जारी रहेंगी। वाणिज्‍य और उद्योग मंत्रालय […]",
+        "article": "भारत वस्&#x200d;तु समझौते से संबंधित 13वीं आसियान-भारत व्&#x200d;यापार संयुक्&#x200d;त समिति की नई दिल्&#x200d;ली में बैठक की मेजबानी कर रहा है। इसका उद्देश्&#x200d;य आसियान-भारत व्&#x200d;यापार समझौते की समीक्षा को आगे बढ़ाना है। संयुक्&#x200d;त समिति की बैठक और उससे जुड़ी बैठकें ऑनलाइन और ऑफलाइन दोनों माध्&#x200d;यमों से दस जुलाई तक जारी रहेंगी। वाणिज्&#x200d;य और उद्योग मंत्रालय ने बताया है कि संयुक्&#x200d;त समिति ने उप-समितियों को उनके संबंधित कार्य क्षेत्र के लिए रणनीतिक मार्गदर्शन दिया है और उनसे लंबित मुद्दों को शीघ्र अंतिम रूप देने को कहा है। आसियान-भारत व्&#x200d;यापार संयुक्&#x200d;त समिति के अंतर्गत आठ उप-समितियां बनाई गई हैं। इनमें से तीन उप-समितियों की बैठक 13वीं संयुक्&#x200d;त समिति की बैठक के साथ-साथ चल रही है। इनमें सीमा शुल्&#x200d;क कार्यप्रणाली और व्&#x200d;यापार सुविधा पर उप-समिति, राष्&#x200d;ट्रीय बाजार सुलभता पर उप-समिति और उत्&#x200d;पत्ति के नियम पर उप-समिति शामिल हैं। इन बैठकों से भारत और आसियान के बीच सहयोग और आपसी समझा मजबूत होगी। कल हुई 13वीं संयुक्&#x200d;त समिति की बैठक में वाणिज्&#x200d;य विभाग के अपर सचिव नितिन कुमार यादव तथा मलेशिया के व्&#x200d;यापार मामलों के उप-महासचिव और निवेश और उद्योग मंत्री मस्&#x200d;तूरा अहमद मुस्&#x200d;तबा ने सह-अध्&#x200d;यक्षता की। इसमें आसियान के सभी सदस्&#x200d;य देशों के प्रतिनिधियों ने भाग लिया।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T09:06:42+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4-%e0%a4%b5%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%81-%e0%a4%b8%e0%a4%ae%e0%a4%9d%e0%a5%8c%e0%a4%a4%e0%a5%87-%e0%a4%b8%e0%a5%87-%e0%a4%b8%e0%a4%82%e0%a4%ac/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/asea.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वस्‍त्र मंत्रालय ने राष्‍ट्रीय नवाचार चुनौती – हथकरघा हैकेथॉन 2026 का शुभारंभ किया",
+        "summary": "वस्‍त्र मंत्रालय ने राष्‍ट्रीय नवाचार चुनौती &#8211; हथकरघा हैकेथॉन 2026 का शुभारंभ किया है। इसका उद्देश्‍य देश के हथकरघा क्षेत्र को मजबूती देने के लिए प्रौद्योगिकी, डिजाइन और उद्यमशीलता का उपयोग करना तथा सतत् समाधान प्रदान करना है। इस पहल का आयोजन राष्‍ट्रीय हथकरघा दिवस 2026 के समारोह के हिस्‍से के रूप में किया जा […]",
+        "article": "वस्&#x200d;त्र मंत्रालय ने राष्&#x200d;ट्रीय नवाचार चुनौती &#8211; हथकरघा हैकेथॉन 2026 का शुभारंभ किया है। इसका उद्देश्&#x200d;य देश के हथकरघा क्षेत्र को मजबूती देने के लिए प्रौद्योगिकी, डिजाइन और उद्यमशीलता का उपयोग करना तथा सतत् समाधान प्रदान करना है। इस पहल का आयोजन राष्&#x200d;ट्रीय हथकरघा दिवस 2026 के समारोह के हिस्&#x200d;से के रूप में किया जा रहा है। ऑनलाइन पंजीकरण 20 जुलाई तक खुले हैं। विद्यार्थी, नवोन्&#x200d;मेषक, स्&#x200d;टार्टअप, शोधकर्ता, डिजाइनर, उद्यमी तथा हथकरघा पेशेवर पंजीकरण करने के साथ अपने विचार www.youthideathon.in/handloom पर साझा कर सकते हैं। चुनी हुई टीमें पहली अगस्&#x200d;त को अपने समाधान ज्&#x200d;यूरी के समक्ष प्रस्&#x200d;तुत करेंगी। इसका आयोजन आईआईटी दिल्&#x200d;ली के फाउंडेशन फॉर इनोवेशन ट्रांसफर में होगा। इस पहल के बारे में वस्&#x200d;त्र मंत्रालय में हरकरघा मामलों की विकास आयुक्&#x200d;त डॉ. एम.&#x200d; बीना ने बताया कि हथकरघा हैकेथॉन 2026 का उद्देश्&#x200d;य देश की युवा रचनात्&#x200d;मकता को हरकरघा क्षेत्र की समृद्ध विरासत के साथ जोड़ना है।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T09:04:12+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%8d%e0%a4%b0-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%a8%e0%a5%87-%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/hath.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रवर्तन निदेशालय दिल्ली एनसीआर में पांच परिसरों पर तलाशी अभियान चलाया",
+        "summary": "प्रवर्तन निदेशालय दिल्ली एनसीआर में पांच परिसरों पर तलाशी अभियान चला रहा है। यह यह छापेमारी सब्सिडी पर मकान खरीदारों को ठगने के तीन मामलों की चल रही जांच के सिलसिले में चलाया जा रहा है। इससे पहले, केन्‍द्रीय अन्‍वेषण ब्‍यूरो द्वारा की गई जांच में पता चला है कि बिल्डरों ने सब्सिडी योजनाओं के […]",
+        "article": "प्रवर्तन निदेशालय दिल्ली एनसीआर में पांच परिसरों पर तलाशी अभियान चला रहा है। यह यह छापेमारी सब्सिडी पर मकान खरीदारों को ठगने के तीन मामलों की चल रही जांच के सिलसिले में चलाया जा रहा है। इससे पहले, केन्&#x200d;द्रीय अन्&#x200d;वेषण ब्&#x200d;यूरो द्वारा की गई जांच में पता चला है कि बिल्डरों ने सब्सिडी योजनाओं के नाम पर मकान खरीदारों और निवेशकों को धोखा दिया है। यह भी पता चला है कि बिल्डरों ने &#8216;पजेशन तक कोई ईएमआई नहीं&#8217; योजनाएं शुरू कीं, जिनके तहत घर खरीदारों ने आवास ऋण लेकर फ्लैट बुक किए। हालांकि, कई साल बीत जाने के बाद भी उन्हें फ्लैटों का पजेशन नहीं दिया गया है, जिससे घर खरीदारों को अनुचित नुकसान हुआ है। अपराध की धनराशि घर खरीदारों द्वारा किए गए भुगतानों को अन्य परियोजनाओं में लगाकर जुटाई गई थी।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T08:54:21+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8-%e0%a4%a8%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ed-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी ने कहा योग्याकार्ता में प्राम्बानन मंदिर के संरक्षण में भारत की भागीदारी दोनों देशों की साझा सांस्कृतिक विरासत को दर्शाती है",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा कि उन्हें विभिन्न पवित्र स्थलों पर भगवान शिव से बार-बार जुड़ने का सौभाग्य प्राप्त हुआ है। इंडोनेशिया के योग्याकार्ता स्थित प्राम्‍बानन मंदिर में एक सभा को संबोधित करते हुए प्रधानमंत्री ने कहा कि गुजरात स्थित सोमनाथ ज्योतिर्लिंग उनके लिए विशेष महत्व रखता है और इसके विकास की प्रत्यक्ष जिम्मेदारी उन्हीं […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा कि उन्हें विभिन्न पवित्र स्थलों पर भगवान शिव से बार-बार जुड़ने का सौभाग्य प्राप्त हुआ है। इंडोनेशिया के योग्याकार्ता स्थित प्राम्&#x200d;बानन मंदिर में एक सभा को संबोधित करते हुए प्रधानमंत्री ने कहा कि गुजरात स्थित सोमनाथ ज्योतिर्लिंग उनके लिए विशेष महत्व रखता है और इसके विकास की प्रत्यक्ष जिम्मेदारी उन्हीं पर है। श्री मोदी ने कहा कि उनके संसदीय क्षेत्र वाराणसी में स्थित काशी विश्वनाथ महादेव के आशीर्वाद से उन्&#x200d;हें हमेशा मार्गदर्शन मिला है। उत्तराखंड में केदारनाथ मंदिर और उज्जैन में महाकालेश्वर मंदिर के पुनर्निर्माण का उल्&#x200d;लेख करते हुए प्रधानमंत्री ने कहा कि उन्हें इन परियोजनाओं में योगदान का सौभाग्य प्राप्त हुआ है। उन्होंने प्रंबानन मंदिर की यात्रा और जीर्णोद्धार कार्यों की शुरुआत के अवसर को अपना सौभाग्य बताया।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T08:42:27+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80-%e0%a4%a8%e0%a5%87-%e0%a4%87%e0%a4%82%e0%a4%a1-4/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mandir.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "कृषि मंत्री शिवराज सिंह चौहान ने अल नीनो के संभावित प्रभाव की समीक्षा के लिए उच्चस्तरीय बैठक की",
         "summary": "कृषि और किसान कल्याण मंत्री शिवराज सिंह चौहान ने आज अल नीनो के संभावित प्रभाव की समीक्षा के लिए उच्चस्तरीय बैठक की। पत्रकारों से बात करते हुए चौहान ने कहा कि केंद्र सरकार ने इस वर्ष अप्रैल में ही अल नीनो की चुनौती से निपटने की तैयारी शुरू कर दी थी। उन्होंने बताया कि अल […]",
@@ -1186,24 +1240,13 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "प्रधानमंत्री मोदी तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेने के लिए ऑस्ट्रेलिया के लिए रवाना हुए",
-        "summary": "प्रधानमंत्री तीन देशों के दौरे के दूसरे चरण में आज मेलबर्न पहुंचेंगे। प्रधानमंत्री मोदी इस दौरान ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। श्री मोदी भारत-ऑस्ट्रेलिया मुख्‍य कार्यकारी अधिकारी मंच को भी संबोधित करेंगे। प्रधानमंत्री मोदी का प्रवासी भारतीयों को भी संबोधित करने का कार्यक्रम है।",
-        "article": "प्रधानमंत्री तीन देशों के दौरे के दूसरे चरण में आज मेलबर्न पहुंचेंगे। प्रधानमंत्री मोदी इस दौरान ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। श्री मोदी भारत-ऑस्ट्रेलिया मुख्&#x200d;य कार्यकारी अधिकारी मंच को भी संबोधित करेंगे। प्रधानमंत्री मोदी का प्रवासी भारतीयों को भी संबोधित करने का कार्यक्रम है।",
+        "title": "प्रधानमंत्री मोदी तीसरे भारत ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेने के लिए ऑस्ट्रेलिया रवाना",
+        "summary": "प्रधानमंत्री तीन देशों के दौरे के दूसरे चरण में आज मेलबर्न पहुंचेंगे। प्रधानमंत्री मोदी इस दौरान ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। श्री मोदी भारत-ऑस्ट्रेलिया मुख्‍य कार्यकारी अधिकारी मंच को भी संबोधित करेंगे। प्रधानमंत्री मोदी का प्रवासी भारतीयों को भी संबोधित करने का कार्यक्रम है। &#160;",
+        "article": "प्रधानमंत्री तीन देशों के दौरे के दूसरे चरण में आज मेलबर्न पहुंचेंगे। प्रधानमंत्री मोदी इस दौरान ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। श्री मोदी भारत-ऑस्ट्रेलिया मुख्&#x200d;य कार्यकारी अधिकारी मंच को भी संबोधित करेंगे। प्रधानमंत्री मोदी का प्रवासी भारतीयों को भी संबोधित करने का कार्यक्रम है। &nbsp;",
         "date": "2026-07-08",
         "pubDate": "2026-07-08T08:05:34+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80-%e0%a4%a4%e0%a5%80%e0%a4%b8%e0%a4%b0%e0%a5%87/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2A.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी ने कहा योग्याकार्ता में यूनेस्को की विश्व धरोहर स्थल ‘प्राम्बानन मंदिर’ के संरक्षण में भारत की भागीदारी दोनों देशों की साझा सांस्कृतिक विरासत को दर्शाती है",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा कि उन्हें विभिन्न पवित्र स्थलों पर भगवान शिव से बार-बार जुड़ने का सौभाग्य प्राप्त हुआ है। इंडोनेशिया के योग्याकार्ता स्थित प्राम्‍बानन मंदिर में एक सभा को संबोधित करते हुए प्रधानमंत्री ने कहा कि गुजरात स्थित सोमनाथ ज्योतिर्लिंग उनके लिए विशेष महत्व रखता है और इसके विकास की प्रत्यक्ष जिम्मेदारी उन्हीं […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा कि उन्हें विभिन्न पवित्र स्थलों पर भगवान शिव से बार-बार जुड़ने का सौभाग्य प्राप्त हुआ है। इंडोनेशिया के योग्याकार्ता स्थित प्राम्&#x200d;बानन मंदिर में एक सभा को संबोधित करते हुए प्रधानमंत्री ने कहा कि गुजरात स्थित सोमनाथ ज्योतिर्लिंग उनके लिए विशेष महत्व रखता है और इसके विकास की प्रत्यक्ष जिम्मेदारी उन्हीं पर है। श्री मोदी ने कहा कि उनके संसदीय क्षेत्र वाराणसी में स्थित काशी विश्वनाथ महादेव के आशीर्वाद से उन्&#x200d;हें हमेशा मार्गदर्शन मिला है। उत्तराखंड में केदारनाथ मंदिर और उज्जैन में महाकालेश्वर मंदिर के पुनर्निर्माण का उल्&#x200d;लेख करते हुए प्रधानमंत्री ने कहा कि उन्हें इन परियोजनाओं में योगदान का सौभाग्य प्राप्त हुआ है। उन्होंने प्रंबानन मंदिर की यात्रा और जीर्णोद्धार कार्यों की शुरुआत के अवसर को अपना सौभाग्य बताया।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T08:00:27+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80-%e0%a4%a8%e0%a5%87-%e0%a4%87%e0%a4%82%e0%a4%a1-4/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mandir.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1227,56 +1270,66 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/the-jammu-and-kashmir-administration-has-issued-a-new-advisory-for-the-shri-amarnath-ji-yatra/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260630640f.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "संसदीय कार्य मंत्री किरेन रिजिजू ने पूर्व प्रधानमंत्री चंद्रशेखर की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की",
-        "summary": "संसदीय कार्य मंत्री किरेन रिजिजू ने पूर्व प्रधानमंत्री चंद्रशेखर की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की है। सोशल मीडिया पोस्ट में श्री रिजिजू ने कहा कि सामाजिक न्याय, लोकतांत्रिक मूल्यों और राष्ट्रीय हित के प्रति उनकी अटूट निष्ठा भारतीय राजनीति में एक अमूल्य विरासत है। उन्होंने कहा कि चंद्रशेखर के विचार और जन सेवा का […]",
-        "article": "संसदीय कार्य मंत्री किरेन रिजिजू ने पूर्व प्रधानमंत्री चंद्रशेखर की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की है। सोशल मीडिया पोस्ट में श्री रिजिजू ने कहा कि सामाजिक न्याय, लोकतांत्रिक मूल्यों और राष्ट्रीय हित के प्रति उनकी अटूट निष्ठा भारतीय राजनीति में एक अमूल्य विरासत है। उन्होंने कहा कि चंद्रशेखर के विचार और जन सेवा का आदर्श राष्ट्र निर्माण की दिशा में सभी को प्रेरित करते रहेंगे।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T06:04:38+00:00",
-        "link": "https://newsonair.gov.in/hi/parliamentary-affairs-minister-kiren-rijiju-paid-tribute-to-former-prime-minister-chandra-shekhar-on-his-death-anniversary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/former-Prime-Minister-Chandrashekhar.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "उपराष्‍ट्रपति सी. पी. राधाकृष्‍णन कल ओडिसा गहरे समुद्री मत्‍स्‍य पालन मिशन दस्‍तावेज जारी करेंगे",
-        "summary": "उपराष्‍ट्रपति सी. पी. राधाकृष्‍णन &#8216;समुद्री जैव विविधता का संरक्षण करते हुए खुले समुद्र में सतत मत्‍स्‍य पालन के लिए प्राधिकार पत्र&#8217; तथा &#8216;ओडिसा गहरे समुद्री मत्‍स्‍य पालन मिशन&#8217; का दस्‍तावेज कल ओडिशा के भूवनेश्‍वर में जारी करेंगे। मत्‍स्‍य पालन विभाग द्वारा आयेजित इस कार्यक्रम में लगभग एक हजार मत्‍स्‍य किसान और मछुआरे भाग लेंगे। प्राधिकार […]",
-        "article": "उपराष्&#x200d;ट्रपति सी. पी. राधाकृष्&#x200d;णन &#8216;समुद्री जैव विविधता का संरक्षण करते हुए खुले समुद्र में सतत मत्&#x200d;स्&#x200d;य पालन के लिए प्राधिकार पत्र&#8217; तथा &#8216;ओडिसा गहरे समुद्री मत्&#x200d;स्&#x200d;य पालन मिशन&#8217; का दस्&#x200d;तावेज कल ओडिशा के भूवनेश्&#x200d;वर में जारी करेंगे। मत्&#x200d;स्&#x200d;य पालन विभाग द्वारा आयेजित इस कार्यक्रम में लगभग एक हजार मत्&#x200d;स्&#x200d;य किसान और मछुआरे भाग लेंगे। प्राधिकार पत्र वर्ष 2025 के भारतीय ध्&#x200d;वज वाले मत्&#x200d;स्&#x200d;य पोतो द्वारा खुले समुद्र में मत्&#x200d;स्&#x200d;य संसाधनों के सतत् दोहन संबंधी दिशानिर्देशों के तहत एक अनिवार्य प्रावधान है। ओडिसा गहरे समुद्री मत्&#x200d;स्&#x200d;य पालन मिशन 2026-36 समुद्री अर्थव्&#x200d;यवस्&#x200d;था की एक प्रमुख पहल है। इसका उद्देश्&#x200d;य राज्&#x200d;य के तटीय और गहरे समुद्री मत्&#x200d;स्&#x200d;य संसाधनों की क्षमता का दोहन करना तथा ओडिसा को गहरे समुद्र मत्&#x200d;स्&#x200d;य पालन और समुद्री उत्&#x200d;पादों के निर्यात के प्रमुख केन्&#x200d;द्र के रूप में स्&#x200d;थापित करना है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T05:59:40+00:00",
-        "link": "https://newsonair.gov.in/hi/vice-president-cp-radhakrishnan-to-release-odisha-deep-sea-fisheries-mission-document-tomorrow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/CP-Radhakrishnan-1757427859015.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "किसी भी राष्ट्र की सबसे बड़ी शक्ति है धैर्य: प्रधानमंत्री नरेंद्र मोदी",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी ने कहा है कि धैर्य, किसी भी राष्ट्र की सबसे बड़ी शक्ति है, क्योंकि यह देश को सबसे कठिन चुनौतियों के बीच भी एकजुट रहने की प्रेरणा देता है। संस्कृत का एक प्रेरक कथन साझा करते हुए, श्री मोदी ने कहा कि धैर्य किसी राष्ट्र को निरंतर प्रगति, समृद्धि और आत्मनिर्भरता की […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी ने कहा है कि धैर्य, किसी भी राष्ट्र की सबसे बड़ी शक्ति है, क्योंकि यह देश को सबसे कठिन चुनौतियों के बीच भी एकजुट रहने की प्रेरणा देता है। संस्कृत का एक प्रेरक कथन साझा करते हुए, श्री मोदी ने कहा कि धैर्य किसी राष्ट्र को निरंतर प्रगति, समृद्धि और आत्मनिर्भरता की ओर ले जाता है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T03:27:50+00:00",
-        "link": "https://newsonair.gov.in/hi/patience-is-the-greatest-strength-of-any-nation-prime-minister-narendra-modi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260615376f-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने वेनेज़ुएला का धन्यवाद किया",
-        "summary": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता […]",
-        "article": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता है। भारत ने 7.2 और 7.5 तीव्रता वाले विनाशकारी दोहरे भूकंपों के बाद वेनेज़ुएला की मदद के लिए &#8216;ऑपरेशन अमिस्ताद&#8217; शुरू किया था, जिनसे बड़े पैमाने पर तबाही हुई थी।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T05:21:11+00:00",
-        "link": "https://newsonair.gov.in/hi/ministry-of-external-affairs-spokesperson-randhir-jaiswal-thanked-venezuela/",
-        "post_id": 1725244,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "प्रधानमंत्री नरेन्‍द्र मोदी ऑस्ट्रेलिया के लिए रवाना",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ऑस्ट्रेलिया के लिए रवाना हो गए हैं। इस यात्रा का उद्देश्य प्रवासी समुदाय पर विशेष ध्यान देते हुए दोनों देशों के बीच आर्थिक और रणनीतिक संबंधों को और मजबूती प्रदान करना है। आकाशवाणी समाचार से विशेष बातचीत में मेलबर्न स्थित प्रख्यात फार्मासिस्ट और ऑर्डर ऑफ ऑस्ट्रेलिया के सदस्य दीपक संघवी ने द्विपक्षीय […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ऑस्ट्रेलिया के लिए रवाना हो गए हैं। इस यात्रा का उद्देश्य प्रवासी समुदाय पर विशेष ध्यान देते हुए दोनों देशों के बीच आर्थिक और रणनीतिक संबंधों को और मजबूती प्रदान करना है। आकाशवाणी समाचार से विशेष बातचीत में मेलबर्न स्थित प्रख्यात फार्मासिस्ट और ऑर्डर ऑफ ऑस्ट्रेलिया के सदस्य दीपक संघवी ने द्विपक्षीय संबंधों के बारे में अपने विचार साझा किए। श्री संघवी ने बताया कि मेलबर्न में भारतीय सबसे अधिक संख्या में हैं। प्रधानमंत्री मोदी की पहल से भारतीय समुदाय की सार्वजनिक पहचान में बड़ा बदलाव आया है।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T09:38:44+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-concludes-his-indonesia-visit-leaves-for-australia-to-participate-in-third-india-australia-annual-summit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत वस्‍तु समझौते से संबंधित 13वीं आसियान-भारत व्‍यापार संयुक्‍त समिति की नई दिल्‍ली में बैठक की मेजबानी की",
+        "summary": "भारत वस्‍तु समझौते से संबंधित 13वीं आसियान-भारत व्‍यापार संयुक्‍त समिति की नई दिल्‍ली में बैठक की मेजबानी कर रहा है। इसका उद्देश्‍य आसियान-भारत व्‍यापार समझौते की समीक्षा को आगे बढ़ाना है। संयुक्‍त समिति की बैठक और उससे जुड़ी बैठकें ऑनलाइन और ऑफलाइन दोनों माध्‍यमों से दस जुलाई तक जारी रहेंगी। वाणिज्‍य और उद्योग मंत्रालय […]",
+        "article": "भारत वस्&#x200d;तु समझौते से संबंधित 13वीं आसियान-भारत व्&#x200d;यापार संयुक्&#x200d;त समिति की नई दिल्&#x200d;ली में बैठक की मेजबानी कर रहा है। इसका उद्देश्&#x200d;य आसियान-भारत व्&#x200d;यापार समझौते की समीक्षा को आगे बढ़ाना है। संयुक्&#x200d;त समिति की बैठक और उससे जुड़ी बैठकें ऑनलाइन और ऑफलाइन दोनों माध्&#x200d;यमों से दस जुलाई तक जारी रहेंगी। वाणिज्&#x200d;य और उद्योग मंत्रालय ने बताया है कि संयुक्&#x200d;त समिति ने उप-समितियों को उनके संबंधित कार्य क्षेत्र के लिए रणनीतिक मार्गदर्शन दिया है और उनसे लंबित मुद्दों को शीघ्र अंतिम रूप देने को कहा है। आसियान-भारत व्&#x200d;यापार संयुक्&#x200d;त समिति के अंतर्गत आठ उप-समितियां बनाई गई हैं। इनमें से तीन उप-समितियों की बैठक 13वीं संयुक्&#x200d;त समिति की बैठक के साथ-साथ चल रही है। इनमें सीमा शुल्&#x200d;क कार्यप्रणाली और व्&#x200d;यापार सुविधा पर उप-समिति, राष्&#x200d;ट्रीय बाजार सुलभता पर उप-समिति और उत्&#x200d;पत्ति के नियम पर उप-समिति शामिल हैं। इन बैठकों से भारत और आसियान के बीच सहयोग और आपसी समझा मजबूत होगी। कल हुई 13वीं संयुक्&#x200d;त समिति की बैठक में वाणिज्&#x200d;य विभाग के अपर सचिव नितिन कुमार यादव तथा मलेशिया के व्&#x200d;यापार मामलों के उप-महासचिव और निवेश और उद्योग मंत्री मस्&#x200d;तूरा अहमद मुस्&#x200d;तबा ने सह-अध्&#x200d;यक्षता की। इसमें आसियान के सभी सदस्&#x200d;य देशों के प्रतिनिधियों ने भाग लिया।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T09:06:42+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4-%e0%a4%b5%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%81-%e0%a4%b8%e0%a4%ae%e0%a4%9d%e0%a5%8c%e0%a4%a4%e0%a5%87-%e0%a4%b8%e0%a5%87-%e0%a4%b8%e0%a4%82%e0%a4%ac/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/asea.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वस्‍त्र मंत्रालय ने राष्‍ट्रीय नवाचार चुनौती – हथकरघा हैकेथॉन 2026 का शुभारंभ किया",
+        "summary": "वस्‍त्र मंत्रालय ने राष्‍ट्रीय नवाचार चुनौती &#8211; हथकरघा हैकेथॉन 2026 का शुभारंभ किया है। इसका उद्देश्‍य देश के हथकरघा क्षेत्र को मजबूती देने के लिए प्रौद्योगिकी, डिजाइन और उद्यमशीलता का उपयोग करना तथा सतत् समाधान प्रदान करना है। इस पहल का आयोजन राष्‍ट्रीय हथकरघा दिवस 2026 के समारोह के हिस्‍से के रूप में किया जा […]",
+        "article": "वस्&#x200d;त्र मंत्रालय ने राष्&#x200d;ट्रीय नवाचार चुनौती &#8211; हथकरघा हैकेथॉन 2026 का शुभारंभ किया है। इसका उद्देश्&#x200d;य देश के हथकरघा क्षेत्र को मजबूती देने के लिए प्रौद्योगिकी, डिजाइन और उद्यमशीलता का उपयोग करना तथा सतत् समाधान प्रदान करना है। इस पहल का आयोजन राष्&#x200d;ट्रीय हथकरघा दिवस 2026 के समारोह के हिस्&#x200d;से के रूप में किया जा रहा है। ऑनलाइन पंजीकरण 20 जुलाई तक खुले हैं। विद्यार्थी, नवोन्&#x200d;मेषक, स्&#x200d;टार्टअप, शोधकर्ता, डिजाइनर, उद्यमी तथा हथकरघा पेशेवर पंजीकरण करने के साथ अपने विचार www.youthideathon.in/handloom पर साझा कर सकते हैं। चुनी हुई टीमें पहली अगस्&#x200d;त को अपने समाधान ज्&#x200d;यूरी के समक्ष प्रस्&#x200d;तुत करेंगी। इसका आयोजन आईआईटी दिल्&#x200d;ली के फाउंडेशन फॉर इनोवेशन ट्रांसफर में होगा। इस पहल के बारे में वस्&#x200d;त्र मंत्रालय में हरकरघा मामलों की विकास आयुक्&#x200d;त डॉ. एम.&#x200d; बीना ने बताया कि हथकरघा हैकेथॉन 2026 का उद्देश्&#x200d;य देश की युवा रचनात्&#x200d;मकता को हरकरघा क्षेत्र की समृद्ध विरासत के साथ जोड़ना है।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T09:04:12+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%8d%e0%a4%b0-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%a8%e0%a5%87-%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/hath.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रवर्तन निदेशालय दिल्ली एनसीआर में पांच परिसरों पर तलाशी अभियान चलाया",
+        "summary": "प्रवर्तन निदेशालय दिल्ली एनसीआर में पांच परिसरों पर तलाशी अभियान चला रहा है। यह यह छापेमारी सब्सिडी पर मकान खरीदारों को ठगने के तीन मामलों की चल रही जांच के सिलसिले में चलाया जा रहा है। इससे पहले, केन्‍द्रीय अन्‍वेषण ब्‍यूरो द्वारा की गई जांच में पता चला है कि बिल्डरों ने सब्सिडी योजनाओं के […]",
+        "article": "प्रवर्तन निदेशालय दिल्ली एनसीआर में पांच परिसरों पर तलाशी अभियान चला रहा है। यह यह छापेमारी सब्सिडी पर मकान खरीदारों को ठगने के तीन मामलों की चल रही जांच के सिलसिले में चलाया जा रहा है। इससे पहले, केन्&#x200d;द्रीय अन्&#x200d;वेषण ब्&#x200d;यूरो द्वारा की गई जांच में पता चला है कि बिल्डरों ने सब्सिडी योजनाओं के नाम पर मकान खरीदारों और निवेशकों को धोखा दिया है। यह भी पता चला है कि बिल्डरों ने &#8216;पजेशन तक कोई ईएमआई नहीं&#8217; योजनाएं शुरू कीं, जिनके तहत घर खरीदारों ने आवास ऋण लेकर फ्लैट बुक किए। हालांकि, कई साल बीत जाने के बाद भी उन्हें फ्लैटों का पजेशन नहीं दिया गया है, जिससे घर खरीदारों को अनुचित नुकसान हुआ है। अपराध की धनराशि घर खरीदारों द्वारा किए गए भुगतानों को अन्य परियोजनाओं में लगाकर जुटाई गई थी।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T08:54:21+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8-%e0%a4%a8%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ed-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी ने कहा योग्याकार्ता में प्राम्बानन मंदिर के संरक्षण में भारत की भागीदारी दोनों देशों की साझा सांस्कृतिक विरासत को दर्शाती है",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा कि उन्हें विभिन्न पवित्र स्थलों पर भगवान शिव से बार-बार जुड़ने का सौभाग्य प्राप्त हुआ है। इंडोनेशिया के योग्याकार्ता स्थित प्राम्‍बानन मंदिर में एक सभा को संबोधित करते हुए प्रधानमंत्री ने कहा कि गुजरात स्थित सोमनाथ ज्योतिर्लिंग उनके लिए विशेष महत्व रखता है और इसके विकास की प्रत्यक्ष जिम्मेदारी उन्हीं […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा कि उन्हें विभिन्न पवित्र स्थलों पर भगवान शिव से बार-बार जुड़ने का सौभाग्य प्राप्त हुआ है। इंडोनेशिया के योग्याकार्ता स्थित प्राम्&#x200d;बानन मंदिर में एक सभा को संबोधित करते हुए प्रधानमंत्री ने कहा कि गुजरात स्थित सोमनाथ ज्योतिर्लिंग उनके लिए विशेष महत्व रखता है और इसके विकास की प्रत्यक्ष जिम्मेदारी उन्हीं पर है। श्री मोदी ने कहा कि उनके संसदीय क्षेत्र वाराणसी में स्थित काशी विश्वनाथ महादेव के आशीर्वाद से उन्&#x200d;हें हमेशा मार्गदर्शन मिला है। उत्तराखंड में केदारनाथ मंदिर और उज्जैन में महाकालेश्वर मंदिर के पुनर्निर्माण का उल्&#x200d;लेख करते हुए प्रधानमंत्री ने कहा कि उन्हें इन परियोजनाओं में योगदान का सौभाग्य प्राप्त हुआ है। उन्होंने प्रंबानन मंदिर की यात्रा और जीर्णोद्धार कार्यों की शुरुआत के अवसर को अपना सौभाग्य बताया।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T08:42:27+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80-%e0%a4%a8%e0%a5%87-%e0%a4%87%e0%a4%82%e0%a4%a1-4/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mandir.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "कृषि मंत्री शिवराज सिंह चौहान ने अल नीनो के संभावित प्रभाव की समीक्षा के लिए उच्चस्तरीय बैठक की",
         "summary": "कृषि और किसान कल्याण मंत्री शिवराज सिंह चौहान ने आज अल नीनो के संभावित प्रभाव की समीक्षा के लिए उच्चस्तरीय बैठक की। पत्रकारों से बात करते हुए चौहान ने कहा कि केंद्र सरकार ने इस वर्ष अप्रैल में ही अल नीनो की चुनौती से निपटने की तैयारी शुरू कर दी थी। उन्होंने बताया कि अल […]",
         "article": "कृषि और किसान कल्याण मंत्री शिवराज सिंह चौहान ने आज अल नीनो के संभावित प्रभाव की समीक्षा के लिए उच्चस्तरीय बैठक की। पत्रकारों से बात करते हुए चौहान ने कहा कि केंद्र सरकार ने इस वर्ष अप्रैल में ही अल नीनो की चुनौती से निपटने की तैयारी शुरू कर दी थी। उन्होंने बताया कि अल नीनो निगरानी प्रकोष्ठ और नोडल अधिकारियों के माध्यम से बुवाई, फसल और बाजार की स्थिति पर लगातार नजर रखी जा रही है। श्री चौहान ने कहा कि मानसून में देरी के कारण तुअर, सोयाबीन, कपास और अन्य फसलों की बुवाई प्रभावित हुई है। उन्होंने किसानों को मक्का, बाजरा और मूंग जैसी कम समय में पकने वाली फसलों को प्राथमिकता देने की सलाह दी है, जिनमें कम पानी की आवश्यकता होती है।",
@@ -1299,24 +1352,13 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "प्रधानमंत्री मोदी तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेने के लिए ऑस्ट्रेलिया के लिए रवाना हुए",
-        "summary": "प्रधानमंत्री तीन देशों के दौरे के दूसरे चरण में आज मेलबर्न पहुंचेंगे। प्रधानमंत्री मोदी इस दौरान ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। श्री मोदी भारत-ऑस्ट्रेलिया मुख्‍य कार्यकारी अधिकारी मंच को भी संबोधित करेंगे। प्रधानमंत्री मोदी का प्रवासी भारतीयों को भी संबोधित करने का कार्यक्रम है।",
-        "article": "प्रधानमंत्री तीन देशों के दौरे के दूसरे चरण में आज मेलबर्न पहुंचेंगे। प्रधानमंत्री मोदी इस दौरान ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। श्री मोदी भारत-ऑस्ट्रेलिया मुख्&#x200d;य कार्यकारी अधिकारी मंच को भी संबोधित करेंगे। प्रधानमंत्री मोदी का प्रवासी भारतीयों को भी संबोधित करने का कार्यक्रम है।",
+        "title": "प्रधानमंत्री मोदी तीसरे भारत ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेने के लिए ऑस्ट्रेलिया रवाना",
+        "summary": "प्रधानमंत्री तीन देशों के दौरे के दूसरे चरण में आज मेलबर्न पहुंचेंगे। प्रधानमंत्री मोदी इस दौरान ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। श्री मोदी भारत-ऑस्ट्रेलिया मुख्‍य कार्यकारी अधिकारी मंच को भी संबोधित करेंगे। प्रधानमंत्री मोदी का प्रवासी भारतीयों को भी संबोधित करने का कार्यक्रम है। &#160;",
+        "article": "प्रधानमंत्री तीन देशों के दौरे के दूसरे चरण में आज मेलबर्न पहुंचेंगे। प्रधानमंत्री मोदी इस दौरान ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। श्री मोदी भारत-ऑस्ट्रेलिया मुख्&#x200d;य कार्यकारी अधिकारी मंच को भी संबोधित करेंगे। प्रधानमंत्री मोदी का प्रवासी भारतीयों को भी संबोधित करने का कार्यक्रम है। &nbsp;",
         "date": "2026-07-08",
         "pubDate": "2026-07-08T08:05:34+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80-%e0%a4%a4%e0%a5%80%e0%a4%b8%e0%a4%b0%e0%a5%87/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2A.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी ने कहा योग्याकार्ता में यूनेस्को की विश्व धरोहर स्थल ‘प्राम्बानन मंदिर’ के संरक्षण में भारत की भागीदारी दोनों देशों की साझा सांस्कृतिक विरासत को दर्शाती है",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा कि उन्हें विभिन्न पवित्र स्थलों पर भगवान शिव से बार-बार जुड़ने का सौभाग्य प्राप्त हुआ है। इंडोनेशिया के योग्याकार्ता स्थित प्राम्‍बानन मंदिर में एक सभा को संबोधित करते हुए प्रधानमंत्री ने कहा कि गुजरात स्थित सोमनाथ ज्योतिर्लिंग उनके लिए विशेष महत्व रखता है और इसके विकास की प्रत्यक्ष जिम्मेदारी उन्हीं […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा कि उन्हें विभिन्न पवित्र स्थलों पर भगवान शिव से बार-बार जुड़ने का सौभाग्य प्राप्त हुआ है। इंडोनेशिया के योग्याकार्ता स्थित प्राम्&#x200d;बानन मंदिर में एक सभा को संबोधित करते हुए प्रधानमंत्री ने कहा कि गुजरात स्थित सोमनाथ ज्योतिर्लिंग उनके लिए विशेष महत्व रखता है और इसके विकास की प्रत्यक्ष जिम्मेदारी उन्हीं पर है। श्री मोदी ने कहा कि उनके संसदीय क्षेत्र वाराणसी में स्थित काशी विश्वनाथ महादेव के आशीर्वाद से उन्&#x200d;हें हमेशा मार्गदर्शन मिला है। उत्तराखंड में केदारनाथ मंदिर और उज्जैन में महाकालेश्वर मंदिर के पुनर्निर्माण का उल्&#x200d;लेख करते हुए प्रधानमंत्री ने कहा कि उन्हें इन परियोजनाओं में योगदान का सौभाग्य प्राप्त हुआ है। उन्होंने प्रंबानन मंदिर की यात्रा और जीर्णोद्धार कार्यों की शुरुआत के अवसर को अपना सौभाग्य बताया।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T08:00:27+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80-%e0%a4%a8%e0%a5%87-%e0%a4%87%e0%a4%82%e0%a4%a1-4/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mandir.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1340,56 +1382,66 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/the-jammu-and-kashmir-administration-has-issued-a-new-advisory-for-the-shri-amarnath-ji-yatra/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260630640f.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "संसदीय कार्य मंत्री किरेन रिजिजू ने पूर्व प्रधानमंत्री चंद्रशेखर की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की",
-        "summary": "संसदीय कार्य मंत्री किरेन रिजिजू ने पूर्व प्रधानमंत्री चंद्रशेखर की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की है। सोशल मीडिया पोस्ट में श्री रिजिजू ने कहा कि सामाजिक न्याय, लोकतांत्रिक मूल्यों और राष्ट्रीय हित के प्रति उनकी अटूट निष्ठा भारतीय राजनीति में एक अमूल्य विरासत है। उन्होंने कहा कि चंद्रशेखर के विचार और जन सेवा का […]",
-        "article": "संसदीय कार्य मंत्री किरेन रिजिजू ने पूर्व प्रधानमंत्री चंद्रशेखर की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की है। सोशल मीडिया पोस्ट में श्री रिजिजू ने कहा कि सामाजिक न्याय, लोकतांत्रिक मूल्यों और राष्ट्रीय हित के प्रति उनकी अटूट निष्ठा भारतीय राजनीति में एक अमूल्य विरासत है। उन्होंने कहा कि चंद्रशेखर के विचार और जन सेवा का आदर्श राष्ट्र निर्माण की दिशा में सभी को प्रेरित करते रहेंगे।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T06:04:38+00:00",
-        "link": "https://newsonair.gov.in/hi/parliamentary-affairs-minister-kiren-rijiju-paid-tribute-to-former-prime-minister-chandra-shekhar-on-his-death-anniversary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/former-Prime-Minister-Chandrashekhar.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "उपराष्‍ट्रपति सी. पी. राधाकृष्‍णन कल ओडिसा गहरे समुद्री मत्‍स्‍य पालन मिशन दस्‍तावेज जारी करेंगे",
-        "summary": "उपराष्‍ट्रपति सी. पी. राधाकृष्‍णन &#8216;समुद्री जैव विविधता का संरक्षण करते हुए खुले समुद्र में सतत मत्‍स्‍य पालन के लिए प्राधिकार पत्र&#8217; तथा &#8216;ओडिसा गहरे समुद्री मत्‍स्‍य पालन मिशन&#8217; का दस्‍तावेज कल ओडिशा के भूवनेश्‍वर में जारी करेंगे। मत्‍स्‍य पालन विभाग द्वारा आयेजित इस कार्यक्रम में लगभग एक हजार मत्‍स्‍य किसान और मछुआरे भाग लेंगे। प्राधिकार […]",
-        "article": "उपराष्&#x200d;ट्रपति सी. पी. राधाकृष्&#x200d;णन &#8216;समुद्री जैव विविधता का संरक्षण करते हुए खुले समुद्र में सतत मत्&#x200d;स्&#x200d;य पालन के लिए प्राधिकार पत्र&#8217; तथा &#8216;ओडिसा गहरे समुद्री मत्&#x200d;स्&#x200d;य पालन मिशन&#8217; का दस्&#x200d;तावेज कल ओडिशा के भूवनेश्&#x200d;वर में जारी करेंगे। मत्&#x200d;स्&#x200d;य पालन विभाग द्वारा आयेजित इस कार्यक्रम में लगभग एक हजार मत्&#x200d;स्&#x200d;य किसान और मछुआरे भाग लेंगे। प्राधिकार पत्र वर्ष 2025 के भारतीय ध्&#x200d;वज वाले मत्&#x200d;स्&#x200d;य पोतो द्वारा खुले समुद्र में मत्&#x200d;स्&#x200d;य संसाधनों के सतत् दोहन संबंधी दिशानिर्देशों के तहत एक अनिवार्य प्रावधान है। ओडिसा गहरे समुद्री मत्&#x200d;स्&#x200d;य पालन मिशन 2026-36 समुद्री अर्थव्&#x200d;यवस्&#x200d;था की एक प्रमुख पहल है। इसका उद्देश्&#x200d;य राज्&#x200d;य के तटीय और गहरे समुद्री मत्&#x200d;स्&#x200d;य संसाधनों की क्षमता का दोहन करना तथा ओडिसा को गहरे समुद्र मत्&#x200d;स्&#x200d;य पालन और समुद्री उत्&#x200d;पादों के निर्यात के प्रमुख केन्&#x200d;द्र के रूप में स्&#x200d;थापित करना है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T05:59:40+00:00",
-        "link": "https://newsonair.gov.in/hi/vice-president-cp-radhakrishnan-to-release-odisha-deep-sea-fisheries-mission-document-tomorrow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/CP-Radhakrishnan-1757427859015.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "किसी भी राष्ट्र की सबसे बड़ी शक्ति है धैर्य: प्रधानमंत्री नरेंद्र मोदी",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी ने कहा है कि धैर्य, किसी भी राष्ट्र की सबसे बड़ी शक्ति है, क्योंकि यह देश को सबसे कठिन चुनौतियों के बीच भी एकजुट रहने की प्रेरणा देता है। संस्कृत का एक प्रेरक कथन साझा करते हुए, श्री मोदी ने कहा कि धैर्य किसी राष्ट्र को निरंतर प्रगति, समृद्धि और आत्मनिर्भरता की […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी ने कहा है कि धैर्य, किसी भी राष्ट्र की सबसे बड़ी शक्ति है, क्योंकि यह देश को सबसे कठिन चुनौतियों के बीच भी एकजुट रहने की प्रेरणा देता है। संस्कृत का एक प्रेरक कथन साझा करते हुए, श्री मोदी ने कहा कि धैर्य किसी राष्ट्र को निरंतर प्रगति, समृद्धि और आत्मनिर्भरता की ओर ले जाता है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T03:27:50+00:00",
-        "link": "https://newsonair.gov.in/hi/patience-is-the-greatest-strength-of-any-nation-prime-minister-narendra-modi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260615376f-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने वेनेज़ुएला का धन्यवाद किया",
-        "summary": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता […]",
-        "article": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता है। भारत ने 7.2 और 7.5 तीव्रता वाले विनाशकारी दोहरे भूकंपों के बाद वेनेज़ुएला की मदद के लिए &#8216;ऑपरेशन अमिस्ताद&#8217; शुरू किया था, जिनसे बड़े पैमाने पर तबाही हुई थी।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T05:21:11+00:00",
-        "link": "https://newsonair.gov.in/hi/ministry-of-external-affairs-spokesperson-randhir-jaiswal-thanked-venezuela/",
-        "post_id": 1725244,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "प्रधानमंत्री नरेन्‍द्र मोदी ऑस्ट्रेलिया के लिए रवाना",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ऑस्ट्रेलिया के लिए रवाना हो गए हैं। इस यात्रा का उद्देश्य प्रवासी समुदाय पर विशेष ध्यान देते हुए दोनों देशों के बीच आर्थिक और रणनीतिक संबंधों को और मजबूती प्रदान करना है। आकाशवाणी समाचार से विशेष बातचीत में मेलबर्न स्थित प्रख्यात फार्मासिस्ट और ऑर्डर ऑफ ऑस्ट्रेलिया के सदस्य दीपक संघवी ने द्विपक्षीय […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ऑस्ट्रेलिया के लिए रवाना हो गए हैं। इस यात्रा का उद्देश्य प्रवासी समुदाय पर विशेष ध्यान देते हुए दोनों देशों के बीच आर्थिक और रणनीतिक संबंधों को और मजबूती प्रदान करना है। आकाशवाणी समाचार से विशेष बातचीत में मेलबर्न स्थित प्रख्यात फार्मासिस्ट और ऑर्डर ऑफ ऑस्ट्रेलिया के सदस्य दीपक संघवी ने द्विपक्षीय संबंधों के बारे में अपने विचार साझा किए। श्री संघवी ने बताया कि मेलबर्न में भारतीय सबसे अधिक संख्या में हैं। प्रधानमंत्री मोदी की पहल से भारतीय समुदाय की सार्वजनिक पहचान में बड़ा बदलाव आया है।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T09:38:44+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-concludes-his-indonesia-visit-leaves-for-australia-to-participate-in-third-india-australia-annual-summit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत वस्‍तु समझौते से संबंधित 13वीं आसियान-भारत व्‍यापार संयुक्‍त समिति की नई दिल्‍ली में बैठक की मेजबानी की",
+        "summary": "भारत वस्‍तु समझौते से संबंधित 13वीं आसियान-भारत व्‍यापार संयुक्‍त समिति की नई दिल्‍ली में बैठक की मेजबानी कर रहा है। इसका उद्देश्‍य आसियान-भारत व्‍यापार समझौते की समीक्षा को आगे बढ़ाना है। संयुक्‍त समिति की बैठक और उससे जुड़ी बैठकें ऑनलाइन और ऑफलाइन दोनों माध्‍यमों से दस जुलाई तक जारी रहेंगी। वाणिज्‍य और उद्योग मंत्रालय […]",
+        "article": "भारत वस्&#x200d;तु समझौते से संबंधित 13वीं आसियान-भारत व्&#x200d;यापार संयुक्&#x200d;त समिति की नई दिल्&#x200d;ली में बैठक की मेजबानी कर रहा है। इसका उद्देश्&#x200d;य आसियान-भारत व्&#x200d;यापार समझौते की समीक्षा को आगे बढ़ाना है। संयुक्&#x200d;त समिति की बैठक और उससे जुड़ी बैठकें ऑनलाइन और ऑफलाइन दोनों माध्&#x200d;यमों से दस जुलाई तक जारी रहेंगी। वाणिज्&#x200d;य और उद्योग मंत्रालय ने बताया है कि संयुक्&#x200d;त समिति ने उप-समितियों को उनके संबंधित कार्य क्षेत्र के लिए रणनीतिक मार्गदर्शन दिया है और उनसे लंबित मुद्दों को शीघ्र अंतिम रूप देने को कहा है। आसियान-भारत व्&#x200d;यापार संयुक्&#x200d;त समिति के अंतर्गत आठ उप-समितियां बनाई गई हैं। इनमें से तीन उप-समितियों की बैठक 13वीं संयुक्&#x200d;त समिति की बैठक के साथ-साथ चल रही है। इनमें सीमा शुल्&#x200d;क कार्यप्रणाली और व्&#x200d;यापार सुविधा पर उप-समिति, राष्&#x200d;ट्रीय बाजार सुलभता पर उप-समिति और उत्&#x200d;पत्ति के नियम पर उप-समिति शामिल हैं। इन बैठकों से भारत और आसियान के बीच सहयोग और आपसी समझा मजबूत होगी। कल हुई 13वीं संयुक्&#x200d;त समिति की बैठक में वाणिज्&#x200d;य विभाग के अपर सचिव नितिन कुमार यादव तथा मलेशिया के व्&#x200d;यापार मामलों के उप-महासचिव और निवेश और उद्योग मंत्री मस्&#x200d;तूरा अहमद मुस्&#x200d;तबा ने सह-अध्&#x200d;यक्षता की। इसमें आसियान के सभी सदस्&#x200d;य देशों के प्रतिनिधियों ने भाग लिया।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T09:06:42+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4-%e0%a4%b5%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%81-%e0%a4%b8%e0%a4%ae%e0%a4%9d%e0%a5%8c%e0%a4%a4%e0%a5%87-%e0%a4%b8%e0%a5%87-%e0%a4%b8%e0%a4%82%e0%a4%ac/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/asea.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वस्‍त्र मंत्रालय ने राष्‍ट्रीय नवाचार चुनौती – हथकरघा हैकेथॉन 2026 का शुभारंभ किया",
+        "summary": "वस्‍त्र मंत्रालय ने राष्‍ट्रीय नवाचार चुनौती &#8211; हथकरघा हैकेथॉन 2026 का शुभारंभ किया है। इसका उद्देश्‍य देश के हथकरघा क्षेत्र को मजबूती देने के लिए प्रौद्योगिकी, डिजाइन और उद्यमशीलता का उपयोग करना तथा सतत् समाधान प्रदान करना है। इस पहल का आयोजन राष्‍ट्रीय हथकरघा दिवस 2026 के समारोह के हिस्‍से के रूप में किया जा […]",
+        "article": "वस्&#x200d;त्र मंत्रालय ने राष्&#x200d;ट्रीय नवाचार चुनौती &#8211; हथकरघा हैकेथॉन 2026 का शुभारंभ किया है। इसका उद्देश्&#x200d;य देश के हथकरघा क्षेत्र को मजबूती देने के लिए प्रौद्योगिकी, डिजाइन और उद्यमशीलता का उपयोग करना तथा सतत् समाधान प्रदान करना है। इस पहल का आयोजन राष्&#x200d;ट्रीय हथकरघा दिवस 2026 के समारोह के हिस्&#x200d;से के रूप में किया जा रहा है। ऑनलाइन पंजीकरण 20 जुलाई तक खुले हैं। विद्यार्थी, नवोन्&#x200d;मेषक, स्&#x200d;टार्टअप, शोधकर्ता, डिजाइनर, उद्यमी तथा हथकरघा पेशेवर पंजीकरण करने के साथ अपने विचार www.youthideathon.in/handloom पर साझा कर सकते हैं। चुनी हुई टीमें पहली अगस्&#x200d;त को अपने समाधान ज्&#x200d;यूरी के समक्ष प्रस्&#x200d;तुत करेंगी। इसका आयोजन आईआईटी दिल्&#x200d;ली के फाउंडेशन फॉर इनोवेशन ट्रांसफर में होगा। इस पहल के बारे में वस्&#x200d;त्र मंत्रालय में हरकरघा मामलों की विकास आयुक्&#x200d;त डॉ. एम.&#x200d; बीना ने बताया कि हथकरघा हैकेथॉन 2026 का उद्देश्&#x200d;य देश की युवा रचनात्&#x200d;मकता को हरकरघा क्षेत्र की समृद्ध विरासत के साथ जोड़ना है।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T09:04:12+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%8d%e0%a4%b0-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%a8%e0%a5%87-%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/hath.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रवर्तन निदेशालय दिल्ली एनसीआर में पांच परिसरों पर तलाशी अभियान चलाया",
+        "summary": "प्रवर्तन निदेशालय दिल्ली एनसीआर में पांच परिसरों पर तलाशी अभियान चला रहा है। यह यह छापेमारी सब्सिडी पर मकान खरीदारों को ठगने के तीन मामलों की चल रही जांच के सिलसिले में चलाया जा रहा है। इससे पहले, केन्‍द्रीय अन्‍वेषण ब्‍यूरो द्वारा की गई जांच में पता चला है कि बिल्डरों ने सब्सिडी योजनाओं के […]",
+        "article": "प्रवर्तन निदेशालय दिल्ली एनसीआर में पांच परिसरों पर तलाशी अभियान चला रहा है। यह यह छापेमारी सब्सिडी पर मकान खरीदारों को ठगने के तीन मामलों की चल रही जांच के सिलसिले में चलाया जा रहा है। इससे पहले, केन्&#x200d;द्रीय अन्&#x200d;वेषण ब्&#x200d;यूरो द्वारा की गई जांच में पता चला है कि बिल्डरों ने सब्सिडी योजनाओं के नाम पर मकान खरीदारों और निवेशकों को धोखा दिया है। यह भी पता चला है कि बिल्डरों ने &#8216;पजेशन तक कोई ईएमआई नहीं&#8217; योजनाएं शुरू कीं, जिनके तहत घर खरीदारों ने आवास ऋण लेकर फ्लैट बुक किए। हालांकि, कई साल बीत जाने के बाद भी उन्हें फ्लैटों का पजेशन नहीं दिया गया है, जिससे घर खरीदारों को अनुचित नुकसान हुआ है। अपराध की धनराशि घर खरीदारों द्वारा किए गए भुगतानों को अन्य परियोजनाओं में लगाकर जुटाई गई थी।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T08:54:21+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8-%e0%a4%a8%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ed-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी ने कहा योग्याकार्ता में प्राम्बानन मंदिर के संरक्षण में भारत की भागीदारी दोनों देशों की साझा सांस्कृतिक विरासत को दर्शाती है",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा कि उन्हें विभिन्न पवित्र स्थलों पर भगवान शिव से बार-बार जुड़ने का सौभाग्य प्राप्त हुआ है। इंडोनेशिया के योग्याकार्ता स्थित प्राम्‍बानन मंदिर में एक सभा को संबोधित करते हुए प्रधानमंत्री ने कहा कि गुजरात स्थित सोमनाथ ज्योतिर्लिंग उनके लिए विशेष महत्व रखता है और इसके विकास की प्रत्यक्ष जिम्मेदारी उन्हीं […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा कि उन्हें विभिन्न पवित्र स्थलों पर भगवान शिव से बार-बार जुड़ने का सौभाग्य प्राप्त हुआ है। इंडोनेशिया के योग्याकार्ता स्थित प्राम्&#x200d;बानन मंदिर में एक सभा को संबोधित करते हुए प्रधानमंत्री ने कहा कि गुजरात स्थित सोमनाथ ज्योतिर्लिंग उनके लिए विशेष महत्व रखता है और इसके विकास की प्रत्यक्ष जिम्मेदारी उन्हीं पर है। श्री मोदी ने कहा कि उनके संसदीय क्षेत्र वाराणसी में स्थित काशी विश्वनाथ महादेव के आशीर्वाद से उन्&#x200d;हें हमेशा मार्गदर्शन मिला है। उत्तराखंड में केदारनाथ मंदिर और उज्जैन में महाकालेश्वर मंदिर के पुनर्निर्माण का उल्&#x200d;लेख करते हुए प्रधानमंत्री ने कहा कि उन्हें इन परियोजनाओं में योगदान का सौभाग्य प्राप्त हुआ है। उन्होंने प्रंबानन मंदिर की यात्रा और जीर्णोद्धार कार्यों की शुरुआत के अवसर को अपना सौभाग्य बताया।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T08:42:27+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80-%e0%a4%a8%e0%a5%87-%e0%a4%87%e0%a4%82%e0%a4%a1-4/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mandir.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "कृषि मंत्री शिवराज सिंह चौहान ने अल नीनो के संभावित प्रभाव की समीक्षा के लिए उच्चस्तरीय बैठक की",
         "summary": "कृषि और किसान कल्याण मंत्री शिवराज सिंह चौहान ने आज अल नीनो के संभावित प्रभाव की समीक्षा के लिए उच्चस्तरीय बैठक की। पत्रकारों से बात करते हुए चौहान ने कहा कि केंद्र सरकार ने इस वर्ष अप्रैल में ही अल नीनो की चुनौती से निपटने की तैयारी शुरू कर दी थी। उन्होंने बताया कि अल […]",
         "article": "कृषि और किसान कल्याण मंत्री शिवराज सिंह चौहान ने आज अल नीनो के संभावित प्रभाव की समीक्षा के लिए उच्चस्तरीय बैठक की। पत्रकारों से बात करते हुए चौहान ने कहा कि केंद्र सरकार ने इस वर्ष अप्रैल में ही अल नीनो की चुनौती से निपटने की तैयारी शुरू कर दी थी। उन्होंने बताया कि अल नीनो निगरानी प्रकोष्ठ और नोडल अधिकारियों के माध्यम से बुवाई, फसल और बाजार की स्थिति पर लगातार नजर रखी जा रही है। श्री चौहान ने कहा कि मानसून में देरी के कारण तुअर, सोयाबीन, कपास और अन्य फसलों की बुवाई प्रभावित हुई है। उन्होंने किसानों को मक्का, बाजरा और मूंग जैसी कम समय में पकने वाली फसलों को प्राथमिकता देने की सलाह दी है, जिनमें कम पानी की आवश्यकता होती है।",
@@ -1412,24 +1464,13 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "प्रधानमंत्री मोदी तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेने के लिए ऑस्ट्रेलिया के लिए रवाना हुए",
-        "summary": "प्रधानमंत्री तीन देशों के दौरे के दूसरे चरण में आज मेलबर्न पहुंचेंगे। प्रधानमंत्री मोदी इस दौरान ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। श्री मोदी भारत-ऑस्ट्रेलिया मुख्‍य कार्यकारी अधिकारी मंच को भी संबोधित करेंगे। प्रधानमंत्री मोदी का प्रवासी भारतीयों को भी संबोधित करने का कार्यक्रम है।",
-        "article": "प्रधानमंत्री तीन देशों के दौरे के दूसरे चरण में आज मेलबर्न पहुंचेंगे। प्रधानमंत्री मोदी इस दौरान ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। श्री मोदी भारत-ऑस्ट्रेलिया मुख्&#x200d;य कार्यकारी अधिकारी मंच को भी संबोधित करेंगे। प्रधानमंत्री मोदी का प्रवासी भारतीयों को भी संबोधित करने का कार्यक्रम है।",
+        "title": "प्रधानमंत्री मोदी तीसरे भारत ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेने के लिए ऑस्ट्रेलिया रवाना",
+        "summary": "प्रधानमंत्री तीन देशों के दौरे के दूसरे चरण में आज मेलबर्न पहुंचेंगे। प्रधानमंत्री मोदी इस दौरान ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। श्री मोदी भारत-ऑस्ट्रेलिया मुख्‍य कार्यकारी अधिकारी मंच को भी संबोधित करेंगे। प्रधानमंत्री मोदी का प्रवासी भारतीयों को भी संबोधित करने का कार्यक्रम है। &#160;",
+        "article": "प्रधानमंत्री तीन देशों के दौरे के दूसरे चरण में आज मेलबर्न पहुंचेंगे। प्रधानमंत्री मोदी इस दौरान ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। श्री मोदी भारत-ऑस्ट्रेलिया मुख्&#x200d;य कार्यकारी अधिकारी मंच को भी संबोधित करेंगे। प्रधानमंत्री मोदी का प्रवासी भारतीयों को भी संबोधित करने का कार्यक्रम है। &nbsp;",
         "date": "2026-07-08",
         "pubDate": "2026-07-08T08:05:34+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80-%e0%a4%a4%e0%a5%80%e0%a4%b8%e0%a4%b0%e0%a5%87/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2A.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी ने कहा योग्याकार्ता में यूनेस्को की विश्व धरोहर स्थल ‘प्राम्बानन मंदिर’ के संरक्षण में भारत की भागीदारी दोनों देशों की साझा सांस्कृतिक विरासत को दर्शाती है",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा कि उन्हें विभिन्न पवित्र स्थलों पर भगवान शिव से बार-बार जुड़ने का सौभाग्य प्राप्त हुआ है। इंडोनेशिया के योग्याकार्ता स्थित प्राम्‍बानन मंदिर में एक सभा को संबोधित करते हुए प्रधानमंत्री ने कहा कि गुजरात स्थित सोमनाथ ज्योतिर्लिंग उनके लिए विशेष महत्व रखता है और इसके विकास की प्रत्यक्ष जिम्मेदारी उन्हीं […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा कि उन्हें विभिन्न पवित्र स्थलों पर भगवान शिव से बार-बार जुड़ने का सौभाग्य प्राप्त हुआ है। इंडोनेशिया के योग्याकार्ता स्थित प्राम्&#x200d;बानन मंदिर में एक सभा को संबोधित करते हुए प्रधानमंत्री ने कहा कि गुजरात स्थित सोमनाथ ज्योतिर्लिंग उनके लिए विशेष महत्व रखता है और इसके विकास की प्रत्यक्ष जिम्मेदारी उन्हीं पर है। श्री मोदी ने कहा कि उनके संसदीय क्षेत्र वाराणसी में स्थित काशी विश्वनाथ महादेव के आशीर्वाद से उन्&#x200d;हें हमेशा मार्गदर्शन मिला है। उत्तराखंड में केदारनाथ मंदिर और उज्जैन में महाकालेश्वर मंदिर के पुनर्निर्माण का उल्&#x200d;लेख करते हुए प्रधानमंत्री ने कहा कि उन्हें इन परियोजनाओं में योगदान का सौभाग्य प्राप्त हुआ है। उन्होंने प्रंबानन मंदिर की यात्रा और जीर्णोद्धार कार्यों की शुरुआत के अवसर को अपना सौभाग्य बताया।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T08:00:27+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80-%e0%a4%a8%e0%a5%87-%e0%a4%87%e0%a4%82%e0%a4%a1-4/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mandir.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1453,51 +1494,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/the-jammu-and-kashmir-administration-has-issued-a-new-advisory-for-the-shri-amarnath-ji-yatra/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260630640f.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "संसदीय कार्य मंत्री किरेन रिजिजू ने पूर्व प्रधानमंत्री चंद्रशेखर की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की",
-        "summary": "संसदीय कार्य मंत्री किरेन रिजिजू ने पूर्व प्रधानमंत्री चंद्रशेखर की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की है। सोशल मीडिया पोस्ट में श्री रिजिजू ने कहा कि सामाजिक न्याय, लोकतांत्रिक मूल्यों और राष्ट्रीय हित के प्रति उनकी अटूट निष्ठा भारतीय राजनीति में एक अमूल्य विरासत है। उन्होंने कहा कि चंद्रशेखर के विचार और जन सेवा का […]",
-        "article": "संसदीय कार्य मंत्री किरेन रिजिजू ने पूर्व प्रधानमंत्री चंद्रशेखर की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की है। सोशल मीडिया पोस्ट में श्री रिजिजू ने कहा कि सामाजिक न्याय, लोकतांत्रिक मूल्यों और राष्ट्रीय हित के प्रति उनकी अटूट निष्ठा भारतीय राजनीति में एक अमूल्य विरासत है। उन्होंने कहा कि चंद्रशेखर के विचार और जन सेवा का आदर्श राष्ट्र निर्माण की दिशा में सभी को प्रेरित करते रहेंगे।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T06:04:38+00:00",
-        "link": "https://newsonair.gov.in/hi/parliamentary-affairs-minister-kiren-rijiju-paid-tribute-to-former-prime-minister-chandra-shekhar-on-his-death-anniversary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/former-Prime-Minister-Chandrashekhar.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "उपराष्‍ट्रपति सी. पी. राधाकृष्‍णन कल ओडिसा गहरे समुद्री मत्‍स्‍य पालन मिशन दस्‍तावेज जारी करेंगे",
-        "summary": "उपराष्‍ट्रपति सी. पी. राधाकृष्‍णन &#8216;समुद्री जैव विविधता का संरक्षण करते हुए खुले समुद्र में सतत मत्‍स्‍य पालन के लिए प्राधिकार पत्र&#8217; तथा &#8216;ओडिसा गहरे समुद्री मत्‍स्‍य पालन मिशन&#8217; का दस्‍तावेज कल ओडिशा के भूवनेश्‍वर में जारी करेंगे। मत्‍स्‍य पालन विभाग द्वारा आयेजित इस कार्यक्रम में लगभग एक हजार मत्‍स्‍य किसान और मछुआरे भाग लेंगे। प्राधिकार […]",
-        "article": "उपराष्&#x200d;ट्रपति सी. पी. राधाकृष्&#x200d;णन &#8216;समुद्री जैव विविधता का संरक्षण करते हुए खुले समुद्र में सतत मत्&#x200d;स्&#x200d;य पालन के लिए प्राधिकार पत्र&#8217; तथा &#8216;ओडिसा गहरे समुद्री मत्&#x200d;स्&#x200d;य पालन मिशन&#8217; का दस्&#x200d;तावेज कल ओडिशा के भूवनेश्&#x200d;वर में जारी करेंगे। मत्&#x200d;स्&#x200d;य पालन विभाग द्वारा आयेजित इस कार्यक्रम में लगभग एक हजार मत्&#x200d;स्&#x200d;य किसान और मछुआरे भाग लेंगे। प्राधिकार पत्र वर्ष 2025 के भारतीय ध्&#x200d;वज वाले मत्&#x200d;स्&#x200d;य पोतो द्वारा खुले समुद्र में मत्&#x200d;स्&#x200d;य संसाधनों के सतत् दोहन संबंधी दिशानिर्देशों के तहत एक अनिवार्य प्रावधान है। ओडिसा गहरे समुद्री मत्&#x200d;स्&#x200d;य पालन मिशन 2026-36 समुद्री अर्थव्&#x200d;यवस्&#x200d;था की एक प्रमुख पहल है। इसका उद्देश्&#x200d;य राज्&#x200d;य के तटीय और गहरे समुद्री मत्&#x200d;स्&#x200d;य संसाधनों की क्षमता का दोहन करना तथा ओडिसा को गहरे समुद्र मत्&#x200d;स्&#x200d;य पालन और समुद्री उत्&#x200d;पादों के निर्यात के प्रमुख केन्&#x200d;द्र के रूप में स्&#x200d;थापित करना है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T05:59:40+00:00",
-        "link": "https://newsonair.gov.in/hi/vice-president-cp-radhakrishnan-to-release-odisha-deep-sea-fisheries-mission-document-tomorrow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/CP-Radhakrishnan-1757427859015.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "किसी भी राष्ट्र की सबसे बड़ी शक्ति है धैर्य: प्रधानमंत्री नरेंद्र मोदी",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी ने कहा है कि धैर्य, किसी भी राष्ट्र की सबसे बड़ी शक्ति है, क्योंकि यह देश को सबसे कठिन चुनौतियों के बीच भी एकजुट रहने की प्रेरणा देता है। संस्कृत का एक प्रेरक कथन साझा करते हुए, श्री मोदी ने कहा कि धैर्य किसी राष्ट्र को निरंतर प्रगति, समृद्धि और आत्मनिर्भरता की […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी ने कहा है कि धैर्य, किसी भी राष्ट्र की सबसे बड़ी शक्ति है, क्योंकि यह देश को सबसे कठिन चुनौतियों के बीच भी एकजुट रहने की प्रेरणा देता है। संस्कृत का एक प्रेरक कथन साझा करते हुए, श्री मोदी ने कहा कि धैर्य किसी राष्ट्र को निरंतर प्रगति, समृद्धि और आत्मनिर्भरता की ओर ले जाता है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T03:27:50+00:00",
-        "link": "https://newsonair.gov.in/hi/patience-is-the-greatest-strength-of-any-nation-prime-minister-narendra-modi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260615376f-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने वेनेज़ुएला का धन्यवाद किया",
-        "summary": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता […]",
-        "article": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता है। भारत ने 7.2 और 7.5 तीव्रता वाले विनाशकारी दोहरे भूकंपों के बाद वेनेज़ुएला की मदद के लिए &#8216;ऑपरेशन अमिस्ताद&#8217; शुरू किया था, जिनसे बड़े पैमाने पर तबाही हुई थी।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T05:21:11+00:00",
-        "link": "https://newsonair.gov.in/hi/ministry-of-external-affairs-spokesperson-randhir-jaiswal-thanked-venezuela/",
-        "post_id": 1725244,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -1591,12 +1587,12 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "यूएई के शारजाह से पाकिस्तान के कराची जा रहा एक मालवाहक विमान हुआ दुर्घटनाग्रस्त",
-        "summary": "संयुक्‍त अरब अमीरात के शारजाह से पाकिस्‍तान के कराची जा रहा एक बोइंग 737 विमान नविगेशन प्रणाली में खराबी और पाकिस्‍तान में हवाई यातायात नियंत्रण कक्ष से संपर्क टूटने के बाद लापता हो गया है। इसमें पांच चालक दल के सदस्‍य सवार थे। के-2 एयरवेज द्वारा संचालित मालवाहक विमान कराची के दक्षिण-पश्चिम में समुद्र में […]",
-        "article": "संयुक्&#x200d;त अरब अमीरात के शारजाह से पाकिस्&#x200d;तान के कराची जा रहा एक बोइंग 737 विमान नविगेशन प्रणाली में खराबी और पाकिस्&#x200d;तान में हवाई यातायात नियंत्रण कक्ष से संपर्क टूटने के बाद लापता हो गया है। इसमें पांच चालक दल के सदस्&#x200d;य सवार थे। के-2 एयरवेज द्वारा संचालित मालवाहक विमान कराची के दक्षिण-पश्चिम में समुद्र में दुर्घटनाग्रस्त हो गया। विमान के मलबे और किसी व्&#x200d;यक्ति के जीवित बचे होने की अभी तक कोई जानकारी सामने नहीं आई है। खोज और बचाव अभियान जारी है।",
+        "title": "यूएई के शारजाह से पाकिस्तान के कराची जा रहा एक मालवाहक विमान हुआ लापता",
+        "summary": "शारजाह से कराची जा रहा एक मालवाहक विमान कल देर रात अरब सागर के ऊपर लापता हो गया। के-2 एयरवेज का बोइंग 737-400 विमान कराची से लगभग 300 किलोमीटर पश्चिम में पाकिस्तानी हवाई क्षेत्र में प्रवेश करते समय रडार से गायब हो गया। पायलट ने उड़ान के दौरान तकनीकी खराबी की सूचना विमान यातायात नियंत्रण […]",
+        "article": "शारजाह से कराची जा रहा एक मालवाहक विमान कल देर रात अरब सागर के ऊपर लापता हो गया। के-2 एयरवेज का बोइंग 737-400 विमान कराची से लगभग 300 किलोमीटर पश्चिम में पाकिस्तानी हवाई क्षेत्र में प्रवेश करते समय रडार से गायब हो गया। पायलट ने उड़ान के दौरान तकनीकी खराबी की सूचना विमान यातायात नियंत्रण को दी थी और क्षेत्रीय नियंत्रण केंद्र से सहायता का अनुरोध किया था। इसके तुरंत बाद विमान से संपर्क टूट गया। विमान में चालक दल के पांच सदस्य सवार थे। इस घटना ने एक बार फिर पाकिस्तान के विमानन सुरक्षा रिकॉर्ड पर चिंताएं बढ़ा दी हैं।",
         "date": "2026-07-08",
         "pubDate": "2026-07-08T02:41:11+00:00",
-        "link": "https://newsonair.gov.in/hi/a-cargo-plane-flying-from-sharjah-uae-to-karachi-pakistan-has-crashed/",
+        "link": "https://newsonair.gov.in/hi/a-cargo-plane-flying-from-sharjah-uae-to-karachi-pakistan-goes-missing/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
@@ -1614,6 +1610,17 @@ window.VM_NEWS = {
       }
     ],
     "sports": [
+      {
+        "title": "फीफा विश्व कप: स्विट्जरलैंड ने पेनल्टी शूटआउट में कोलंबिया को 4-3 से हराया, क्वार्टर फाइनल में अर्जेंटीना से मुकाबला होगा",
+        "summary": "अर्जेंटीना और स्विट्जरलैंड फीफा फुटबॉल विश्‍व कप के क्वार्टर फाइनल में पहुंच गये हैं। वैंकूवर में स्विट्जरलैंड और कोलंबिया अतिरिक्त समय के समाप्त होने तक कोई गोल नहीं कर सकें। इसके बाद पैनल्टी शूटआउट में स्विट्जरलैंड ने 4-3 से जीत दर्ज की। क्वार्टर फाइनल में अर्जेंटीना का मुकाबला स्विटजरलैंड से होगा। &#160; &#160;",
+        "article": "अर्जेंटीना और स्विट्जरलैंड फीफा फुटबॉल विश्&#x200d;व कप के क्वार्टर फाइनल में पहुंच गये हैं। वैंकूवर में स्विट्जरलैंड और कोलंबिया अतिरिक्त समय के समाप्त होने तक कोई गोल नहीं कर सकें। इसके बाद पैनल्टी शूटआउट में स्विट्जरलैंड ने 4-3 से जीत दर्ज की। क्वार्टर फाइनल में अर्जेंटीना का मुकाबला स्विटजरलैंड से होगा। &nbsp; &nbsp;",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T08:46:37+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%ab%e0%a5%80%e0%a4%ab%e0%a4%be-%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5-%e0%a4%95%e0%a4%aa-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%9f%e0%a5%8d%e0%a4%9c%e0%a4%b0%e0%a4%b2%e0%a5%88/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/fi-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "क्रिकेट: तीसरे टी-20 मैच में इंग्लैंड ने भारत को 125 रन से हराया",
         "summary": "पुरुष टी-20 क्रिकेट में इंग्लैंड ने भारत को 125 रन से हरा दिया है। पांच मैचों की श्रृंखला के तीसरे मैच में पहले बल्‍लेबाजी करते हुए कल रात नॉटिंघम में इंग्लैंड ने भारत को 202 रन का लक्ष्य दिया। भारतीय टीम 12वें ओवर में मात्र 76 रन बनाकर ऑलआउट हो गई। इंग्लैंड की […]",
@@ -1710,17 +1717,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-06T00:51:50+00:00",
         "link": "https://newsonair.gov.in/hi/novak-djokovic-secured-a-spot-in-the-wimbledon-mens-singles-quarter-finals-by-defeating-roman-safiullin/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMe6s2nWAAEuEn2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विंबलडन में एलिस मर्टेंस ने एलेना रायबाकिना को हराकर राउंड ऑफ 16 में प्रवेश किया",
-        "summary": "लंदन में विंबलडन टेनिस टूर्नामेंट में, बेल्जियम की एलिस मर्टेंस ने कल महिला सिंगल्‍स के तीसरे दौर में कजाकिस्तान की एलेना रायबाकिना को हराकर राउंड ऑफ़ 16 में जगह पक्की कर ली। एक अन्य मुकाबले में, फिलीपींस की एलेक्जेंड्रा एला ने तीसरी वरीयता प्राप्‍त पोलैंड की इगा स्वियाटेक को हराकर राउंड ऑफ़ 16 में प्रवेश […]",
-        "article": "लंदन में विंबलडन टेनिस टूर्नामेंट में, बेल्जियम की एलिस मर्टेंस ने कल महिला सिंगल्&#x200d;स के तीसरे दौर में कजाकिस्तान की एलेना रायबाकिना को हराकर राउंड ऑफ़ 16 में जगह पक्की कर ली। एक अन्य मुकाबले में, फिलीपींस की एलेक्जेंड्रा एला ने तीसरी वरीयता प्राप्&#x200d;त पोलैंड की इगा स्वियाटेक को हराकर राउंड ऑफ़ 16 में प्रवेश किया। पुरुष सिंगल्&#x200d;स में, दूसरी वरीयता प्राप्&#x200d;त जर्मनी के अलेक्जेंडर ज़्वेरेव ने तीसरे दौर में अमरीका के मार्कोस गिरोन को 6-2, 7-6, 6-4 से हराकर अगले दौर में प्रवेश किया। आज, सर्बिया के नोवाक जोकोविच का राउंड ऑफ़ 16 के मैच में रूस के रोमन सफिउलिन से मुकाबला होगा। वहीं शीर्ष वरीयता प्राप्&#x200d;त इटली के यानिक सिनर का सामना जापान के शिंतारो मोचिजुकी से होगा। महिला सिंग्&#x200d;ल्&#x200d;स के राउंड ऑफ 16 में शीर्ष वरीयता प्राप्त आर्यना सबलेंका और जापान की नाओमी ओसाका आमने सामने होंगी।",
-        "date": "2026-07-05",
-        "pubDate": "2026-07-05T01:05:49+00:00",
-        "link": "https://newsonair.gov.in/hi/wimbledon-mertens-stuns-rybakina/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607043852052.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
