@@ -1,8 +1,19 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-08T05:56:43.007455",
+  "generated": "2026-07-08T05:59:52.634194",
   "en": {
     "top": [
+      {
+        "title": "US strikes over 80 targets in Iran after Hormuz attacks",
+        "summary": "The US has carried out a fresh round of airstrikes on Iran, targeting more than 80 locations in response to Iran&#8217;s latest attacks on commercial ships passing through the Strait of Hormuz. According to U.S. Central Command (CENTCOM), the strikes targeted Iranian air defence systems, command and control centres, coastal radar sites, anti-ship missile […]",
+        "article": "The US has carried out a fresh round of airstrikes on Iran, targeting more than 80 locations in response to Iran&#8217;s latest attacks on commercial ships passing through the Strait of Hormuz. According to U.S. Central Command (CENTCOM), the strikes targeted Iranian air defence systems, command and control centres, coastal radar sites, anti-ship missile systems, and more than 60 Islamic Revolutionary Guard Corps fast boats in and around the Strait of Hormuz. The US said the operation was aimed at weakening Iran&#8217;s ability to attack international shipping. It also accused Tehran of targeting commercial vessels carrying civilian crews. Iran confirmed that the strikes had taken place but did not report any casualties or damage. Iranian state media said explosions were heard in Bandar Abbas, Qeshm and Sirik. Iran&#8217;s central military command warned that it would respond decisively to what it called an act of aggression and terrorism. It also said Iran would not allow any interference in the affairs of the Strait of Hormuz or permit others to control it. Meanwhile, the United States has revoked a licence that had allowed Iran to sell oil under the interim agreement. The licence had enabled Iran to openly export oil on the international market and receive payments in US dollars for the first time in years. Iran has long been suspected of selling sanctioned crude oil to China at below-market prices. Iran strongly condemned the latest US military action and the decision to cancel sanctions waivers on its oil exports. In a social media post, Iranian Deputy Foreign Minister Kazem Gharibabadi said the US actions, including the latest strikes, were a serious violation of bilateral understandings. Meanwhile, Kuwait has said that its air defence systems are activated today to intercept incoming missiles after the United States carried out airstrikes on Iran. Earlier, Bahrain also reported incoming missiles. There are no immediate reports of any damage or casualties. Both Bahrain and Kuwait have previously been targeted by Iranian attacks.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T05:55:33+00:00",
+        "link": "https://newsonair.gov.in/us-strikes-over-80-targets-in-iran-tensions-escalate/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/akashvani-news-2-5.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Parliamentary Affairs Minister Kiren Rijiju pays tribute to former PM Chandrashekhar on his death anniversary",
         "summary": "Parliamentary Affairs Minister Kiren Rijiju today paid tributes to former Prime Minister Chandrashekhar on his death anniversary. In a social media post, Mr Rijiju said that his unwavering dedication to social justice, democratic values, and the national interest constitutes an invaluable legacy in Indian politics. He said, Chandrashekhar&#8217;s ideas and the ideal of public service […]",
@@ -99,17 +110,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T01:25:55+00:00",
         "link": "https://newsonair.gov.in/us-launches-fresh-strikes-on-iran-after-attacks-in-strait-of-hormuz/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Venezuela earthquake death toll rises to 3,685",
-        "summary": "The death toll from the double earthquake that struck Venezuela on June 24 has risen to 3,685. The quakes, measuring 7.2 and 7.5 were the strongest to hit Venezuela in more than a century. The death toll has been steadily rising in recent weeks, with 16,740 people currently estimated to be injured. Thousands of people […]",
-        "article": "The death toll from the double earthquake that struck Venezuela on June 24 has risen to 3,685. The quakes, measuring 7.2 and 7.5 were the strongest to hit Venezuela in more than a century. The death toll has been steadily rising in recent weeks, with 16,740 people currently estimated to be injured. Thousands of people have previously been reported missing after the disaster, but authorities in the country did not update that figure. The earthquakes damaged Simón Bolívar International Airport outside the capital, Caracas, affecting air traffic to and from the country. Interim President Delcy Rodríguez said that commercial air traffic would be reopened as soon as possible using an alternative runway.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T01:25:34+00:00",
-        "link": "https://newsonair.gov.in/venezuela-earthquake-death-toll-rises-to-3685/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AP06_25_2026_000059A-scaled.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -486,6 +486,17 @@ window.VM_NEWS = {
     ],
     "world": [
       {
+        "title": "US strikes over 80 targets in Iran after Hormuz attacks",
+        "summary": "The US has carried out a fresh round of airstrikes on Iran, targeting more than 80 locations in response to Iran&#8217;s latest attacks on commercial ships passing through the Strait of Hormuz. According to U.S. Central Command (CENTCOM), the strikes targeted Iranian air defence systems, command and control centres, coastal radar sites, anti-ship missile […]",
+        "article": "The US has carried out a fresh round of airstrikes on Iran, targeting more than 80 locations in response to Iran&#8217;s latest attacks on commercial ships passing through the Strait of Hormuz. According to U.S. Central Command (CENTCOM), the strikes targeted Iranian air defence systems, command and control centres, coastal radar sites, anti-ship missile systems, and more than 60 Islamic Revolutionary Guard Corps fast boats in and around the Strait of Hormuz. The US said the operation was aimed at weakening Iran&#8217;s ability to attack international shipping. It also accused Tehran of targeting commercial vessels carrying civilian crews. Iran confirmed that the strikes had taken place but did not report any casualties or damage. Iranian state media said explosions were heard in Bandar Abbas, Qeshm and Sirik. Iran&#8217;s central military command warned that it would respond decisively to what it called an act of aggression and terrorism. It also said Iran would not allow any interference in the affairs of the Strait of Hormuz or permit others to control it. Meanwhile, the United States has revoked a licence that had allowed Iran to sell oil under the interim agreement. The licence had enabled Iran to openly export oil on the international market and receive payments in US dollars for the first time in years. Iran has long been suspected of selling sanctioned crude oil to China at below-market prices. Iran strongly condemned the latest US military action and the decision to cancel sanctions waivers on its oil exports. In a social media post, Iranian Deputy Foreign Minister Kazem Gharibabadi said the US actions, including the latest strikes, were a serious violation of bilateral understandings. Meanwhile, Kuwait has said that its air defence systems are activated today to intercept incoming missiles after the United States carried out airstrikes on Iran. Earlier, Bahrain also reported incoming missiles. There are no immediate reports of any damage or casualties. Both Bahrain and Kuwait have previously been targeted by Iranian attacks.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T05:55:33+00:00",
+        "link": "https://newsonair.gov.in/us-strikes-over-80-targets-in-iran-tensions-escalate/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/akashvani-news-2-5.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Indian culture, Sanatan Dharma continues to gain popularity in New Zealand",
         "summary": "Thousands of kilometres away from India, the influence of Sanatan Dharma and Indian culture continues to grow in New Zealand. In Auckland, The Third Eye store has been promoting Indian spirituality, yoga, colourful traditional attire, and cultural artefacts for the past 26 years. Speaking to Akashvani, Kim Holuuerda, Owner of The Third Eye store, said […]",
         "article": "Thousands of kilometres away from India, the influence of Sanatan Dharma and Indian culture continues to grow in New Zealand. In Auckland, The Third Eye store has been promoting Indian spirituality, yoga, colourful traditional attire, and cultural artefacts for the past 26 years. Speaking to Akashvani, Kim Holuuerda, Owner of The Third Eye store, said there is a growing fascination among New Zealanders with Indian culture, yoga, and Hindu gods and goddesses. She said many local visitors come to the store to explore India’s spiritual traditions and often return with family and friends, reflecting their deep interest in India’s rich cultural heritage. The store has become a unique cultural space, highlighting how India’s timeless traditions continue to connect people beyond borders.",
@@ -581,17 +592,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T01:25:55+00:00",
         "link": "https://newsonair.gov.in/us-launches-fresh-strikes-on-iran-after-attacks-in-strait-of-hormuz/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Venezuela earthquake death toll rises to 3,685",
-        "summary": "The death toll from the double earthquake that struck Venezuela on June 24 has risen to 3,685. The quakes, measuring 7.2 and 7.5 were the strongest to hit Venezuela in more than a century. The death toll has been steadily rising in recent weeks, with 16,740 people currently estimated to be injured. Thousands of people […]",
-        "article": "The death toll from the double earthquake that struck Venezuela on June 24 has risen to 3,685. The quakes, measuring 7.2 and 7.5 were the strongest to hit Venezuela in more than a century. The death toll has been steadily rising in recent weeks, with 16,740 people currently estimated to be injured. Thousands of people have previously been reported missing after the disaster, but authorities in the country did not update that figure. The earthquakes damaged Simón Bolívar International Airport outside the capital, Caracas, affecting air traffic to and from the country. Interim President Delcy Rodríguez said that commercial air traffic would be reopened as soon as possible using an alternative runway.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T01:25:34+00:00",
-        "link": "https://newsonair.gov.in/venezuela-earthquake-death-toll-rises-to-3685/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AP06_25_2026_000059A-scaled.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -1037,6 +1037,17 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "उपराष्‍ट्रपति सी. पी. राधाकृष्‍णन कल ओडिसा गहरे समुद्री मत्‍स्‍य पालन मिशन दस्‍तावेज जारी करेंगे",
+        "summary": "उपराष्‍ट्रपति सी. पी. राधाकृष्‍णन कल ओडिसा के भुवनेश्‍वर में खुले समुद्र में मत्‍स्‍य दोहन के लिए प्राधिकार पत्र तथा ओडिसा गहरे समुद्री मत्‍स्‍य पालन मिशन दस्‍तावेज जारी करेंगे। मत्‍स्‍य पालन विभाग द्वारा आयेजित इस कार्यक्रम में लगभग एक हजार मत्‍स्‍य किसान और मछुआरे भाग लेंगे। प्राधिकार पत्र वर्ष 2025 के भारतीय ध्‍वज वाले मत्‍स्‍य […]",
+        "article": "उपराष्&#x200d;ट्रपति सी. पी. राधाकृष्&#x200d;णन कल ओडिसा के भुवनेश्&#x200d;वर में खुले समुद्र में मत्&#x200d;स्&#x200d;य दोहन के लिए प्राधिकार पत्र तथा ओडिसा गहरे समुद्री मत्&#x200d;स्&#x200d;य पालन मिशन दस्&#x200d;तावेज जारी करेंगे। मत्&#x200d;स्&#x200d;य पालन विभाग द्वारा आयेजित इस कार्यक्रम में लगभग एक हजार मत्&#x200d;स्&#x200d;य किसान और मछुआरे भाग लेंगे। प्राधिकार पत्र वर्ष 2025 के भारतीय ध्&#x200d;वज वाले मत्&#x200d;स्&#x200d;य पोतों द्वारा खुले समुद्र में मत्&#x200d;स्&#x200d;य संसाधनों के सतत् दोहन संबंधी दिशानिर्देशों के तहत एक अनिवार्य प्रावधान है। ओडिसा गहरे समुद्री मत्&#x200d;स्&#x200d;य पालन मिशन 2026-36 समुद्री अर्थव्&#x200d;यवस्&#x200d;था की एक प्रमुख पहल है। इसका उद्देश्&#x200d;य राज्&#x200d;य के तटीय और गहरे समुद्री मत्&#x200d;स्&#x200d;य संसाधनों की क्षमता का दोहन करना तथा ओडिसा को गहरे समुद्र मत्&#x200d;स्&#x200d;य पालन और समुद्री उत्&#x200d;पादों के निर्यात के प्रमुख केन्&#x200d;द्र के रूप में स्&#x200d;थापित करना है।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T05:59:40+00:00",
+        "link": "https://newsonair.gov.in/hi/vice-president-cp-radhakrishnan-to-release-odisha-deep-sea-fisheries-mission-document-tomorrow/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/CP-Radhakrishnan-1757427859015.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "न्यूज़ीलैंड के ऑकलैंड में सनातन धर्म और भारतीय संस्कृति की छटा बिखेर रहा ‘द थर्ड आई’ स्टोर",
         "summary": "भारत से हजारों किलोमीटर दूर न्यूज़ीलैंड के ऑकलैंड में सनातन धर्म और भारतीय संस्कृति की अनूठी छटा देखने को मिलती है। पिछले 26 वर्षों से ‘द थर्ड आई’ स्टोर भारतीय देवी-देवताओं की प्रतिमाओं, पूजा सामग्री, रंग-बिरंगे भारतीय परिधानों और पारंपरिक वस्तुओं के माध्यम से स्थानीय लोगों को भारतीय संस्कृति से परिचित करा रहा है। […]",
         "article": "भारत से हजारों किलोमीटर दूर न्यूज़ीलैंड के ऑकलैंड में सनातन धर्म और भारतीय संस्कृति की अनूठी छटा देखने को मिलती है। पिछले 26 वर्षों से ‘द थर्ड आई’ स्टोर भारतीय देवी-देवताओं की प्रतिमाओं, पूजा सामग्री, रंग-बिरंगे भारतीय परिधानों और पारंपरिक वस्तुओं के माध्यम से स्थानीय लोगों को भारतीय संस्कृति से परिचित करा रहा है। आकाशवाणी समाचार से बातचीत में स्टोर की संचालिका किम होलुएर्डा ने बताया कि बड़ी संख्या में न्यूज़ीलैंड के लोग हिंदू देवी-देवताओं की प्रतिमाओं के साथ-साथ भारतीय परिधानों और आध्यात्मिक परंपराओं में भी गहरी रुचि दिखाते हैं। उन्होंने कहा कि सनातन धर्म का शांति, प्रेम और सकारात्मकता का संदेश लोगों को विशेष रूप से आकर्षित करता है।",
@@ -1156,20 +1167,20 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "सतत विकास के लक्ष्यों में से केवल 36% लक्ष्यों पर ही संतोषजनक प्रगति हुई: रिपोर्ट",
-        "summary": "संयुक्त राष्ट्र की एक रिपोर्ट के अनुसार, सतत विकास के लक्ष्यों को हालिस करने की समय सीमा में अब केवल चार वर्ष शेष हैं, लेकिन अब तक केवल 36 प्रतिशत लक्ष्यों पर ही संतोषजनक प्रगति हुई है। लगभग आधे लक्ष्य रुके हुए हैं और अन्य 15 प्रतिशत लक्ष्यों में गिरावट आई है। […]",
-        "article": "संयुक्त राष्ट्र की एक रिपोर्ट के अनुसार, सतत विकास के लक्ष्यों को हालिस करने की समय सीमा में अब केवल चार वर्ष शेष हैं, लेकिन अब तक केवल 36 प्रतिशत लक्ष्यों पर ही संतोषजनक प्रगति हुई है। लगभग आधे लक्ष्य रुके हुए हैं और अन्य 15 प्रतिशत लक्ष्यों में गिरावट आई है। सतत विकास लक्ष्य रिपोर्ट 2026 के अनुसार वर्ष 2015 में 2030 सतत विकास कार्य योजना को अपनाने के बाद निवेश, बेहतर नीतियों और अंतर्राष्ट्रीय सहयोग ने विश्व भर में अरबों लोगों के जीवन में सुधार हुआ। लगभग 100 करोड़ लोगों को सुरक्षित पेयजल और 120 करोड़ लोगों को सुरक्षित रूप से प्रबंधित स्वच्छता की सुविधा मिली है। रिपोर्ट के अनुसार 2015 और 2024 के बीच नए एच.आई.वी. संक्रमणों में 30 प्रतिशत की कमी आई है और एड्स से संबंधित मौतों में 35 प्रतिशत की कमी आई है। विश्व की 92 प्रतिशत आबादी तक बिजली पहुंच चुकी है। इंटरनेट का उपयोग 40 प्रतिशत से बढ़कर 74 प्रतिशत हो गई है। इतिहास में पहली बार दुनिया की आधे से अधिक आबादी सामाजिक सुरक्षा योजनाओं के दायरे में आई है। हिस्से को कवर करती है। संयुक्त राष्ट्र महासचिव एंटोनियो गुटेरेस ने कहा कि रिपोर्ट के आंकड़ों के आधार पर, वर्ष 2030 तक सतत विकास के लक्ष्यों को हासिल करना अब संभव है। संयुक्त राष्ट्र की उप महासचिव अमीना मोहम्मद ने लक्ष्य की प्राप्ति के लिए तीन प्रतिबद्धताओं पर बल दिया। इनमें लैंगिक समानता को बढ़ावा देना, नवीकरणीय ऊर्जा और लगातार बढ़ते सैन्य खर्च के बजाय विकास के साधनों में निवेश करके शांति को प्राथमिकता देना शामिल है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T02:30:46+00:00",
-        "link": "https://newsonair.gov.in/hi/satisfactory-progress-made-on-only-36-of-sustainable-development-goals-report/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/02/un.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "उपराष्‍ट्रपति सी. पी. राधाकृष्‍णन कल ओडिसा गहरे समुद्री मत्‍स्‍य पालन मिशन दस्‍तावेज जारी करेंगे",
+        "summary": "उपराष्‍ट्रपति सी. पी. राधाकृष्‍णन कल ओडिसा के भुवनेश्‍वर में खुले समुद्र में मत्‍स्‍य दोहन के लिए प्राधिकार पत्र तथा ओडिसा गहरे समुद्री मत्‍स्‍य पालन मिशन दस्‍तावेज जारी करेंगे। मत्‍स्‍य पालन विभाग द्वारा आयेजित इस कार्यक्रम में लगभग एक हजार मत्‍स्‍य किसान और मछुआरे भाग लेंगे। प्राधिकार पत्र वर्ष 2025 के भारतीय ध्‍वज वाले मत्‍स्‍य […]",
+        "article": "उपराष्&#x200d;ट्रपति सी. पी. राधाकृष्&#x200d;णन कल ओडिसा के भुवनेश्&#x200d;वर में खुले समुद्र में मत्&#x200d;स्&#x200d;य दोहन के लिए प्राधिकार पत्र तथा ओडिसा गहरे समुद्री मत्&#x200d;स्&#x200d;य पालन मिशन दस्&#x200d;तावेज जारी करेंगे। मत्&#x200d;स्&#x200d;य पालन विभाग द्वारा आयेजित इस कार्यक्रम में लगभग एक हजार मत्&#x200d;स्&#x200d;य किसान और मछुआरे भाग लेंगे। प्राधिकार पत्र वर्ष 2025 के भारतीय ध्&#x200d;वज वाले मत्&#x200d;स्&#x200d;य पोतों द्वारा खुले समुद्र में मत्&#x200d;स्&#x200d;य संसाधनों के सतत् दोहन संबंधी दिशानिर्देशों के तहत एक अनिवार्य प्रावधान है। ओडिसा गहरे समुद्री मत्&#x200d;स्&#x200d;य पालन मिशन 2026-36 समुद्री अर्थव्&#x200d;यवस्&#x200d;था की एक प्रमुख पहल है। इसका उद्देश्&#x200d;य राज्&#x200d;य के तटीय और गहरे समुद्री मत्&#x200d;स्&#x200d;य संसाधनों की क्षमता का दोहन करना तथा ओडिसा को गहरे समुद्र मत्&#x200d;स्&#x200d;य पालन और समुद्री उत्&#x200d;पादों के निर्यात के प्रमुख केन्&#x200d;द्र के रूप में स्&#x200d;थापित करना है।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T05:59:40+00:00",
+        "link": "https://newsonair.gov.in/hi/vice-president-cp-radhakrishnan-to-release-odisha-deep-sea-fisheries-mission-document-tomorrow/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/CP-Radhakrishnan-1757427859015.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने वेनेज़ुएला का धन्यवाद किया",
         "summary": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता […]",
@@ -1266,23 +1277,23 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T02:53:30+00:00",
         "link": "https://newsonair.gov.in/hi/pmo-reviews-el-nino-impact-asks-central-ministries-to-work-with-states-on-preparedness-measures/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/dr-pk-mishra.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ईडी ने टीएमसी से जुड़े संदिग्ध धन हस्तांतरण मामले में पांच परिसरों पर छापेमारी की",
-        "summary": "प्रवर्तन निदेशालय (ईडी) ने तृणमूल कांग्रेस (टीएमसी) के कुछ बैंक खातों से कथित वित्तीय लेन-देन, अवैध रूप से धन संग्रह और संदिग्ध धन के हस्तांतरण के संबंध में कोलकाता और उसके आसपास के पांच परिसरों पर तलाशी ली है। ये तलाशी, विमानन क्षेत्र में कार्यरत निजी कंपनी &#8211; केयरवेल समूह की कंपनियों, उसके निदेशकों […]",
-        "article": "प्रवर्तन निदेशालय (ईडी) ने तृणमूल कांग्रेस (टीएमसी) के कुछ बैंक खातों से कथित वित्तीय लेन-देन, अवैध रूप से धन संग्रह और संदिग्ध धन के हस्तांतरण के संबंध में कोलकाता और उसके आसपास के पांच परिसरों पर तलाशी ली है। ये तलाशी, विमानन क्षेत्र में कार्यरत निजी कंपनी &#8211; केयरवेल समूह की कंपनियों, उसके निदेशकों और एक कथित चुनावी ट्रस्ट से जुड़े परिसरों पर की गई। शुरूआती जांच के अनुसार, संदिग्ध गतिविधियों के लिए विमानन और यात्रा कंपनियों के जरिए से 150 करोड़ रुपये से अधिक का हस्तांतरण किया गया। ईडी ने बताया कि अप्रैल 2023 से जून 2026 के बीच, तृणमूल कांग्रेस के खातों से निजी विमानन कंपनी और उसकी संबद्ध इकाई को लगभग 160 करोड़ रुपये हस्तांतरित किए गए। निजी कंपनी ने 2023 से इस वर्ष के बीच एक अन्य नवगठित संबद्ध इकाई को 82 करोड़ रुपये से अधिक का हस्तांतरण भी किया। ईडी ने कहा कि एम्ब्रेयर लेगेसी 600 विमान और अगस्ता 109 एसपी हेलीकॉप्टर की खरीद के लिए निजी कंपनी की एक संबद्ध इकाई को बड़ी राशि हस्तांतरित की गई थी। रिपोर्ट में कहा गया है कि इन खरीदों के लिए 112 करोड़ रुपये खर्च किए गए। ईडी ने आरोप लगाया कि अगस्ता हेलीकॉप्टर की खरीद के लिए कुछ विदेशी धन का भी उपयोग किया गया, जबकि अधिकांश धनराशि सीधे तृणमूल कांग्रेस के खातों से प्राप्त की गई। ईडी के अनुसार, एम्ब्रेयर लेगेसी 600 विमान और अगस्ता हेलीकॉप्टर को पार्टी के कोष से खरीदे जाने के बावजूद बाद में तृणमूल कांग्रेस को किराए पर दे दिया गया। मामले की जांच जारी है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T02:16:21+00:00",
-        "link": "https://newsonair.gov.in/hi/the-ed-conducted-raids-on-five-premises-in-connection-with-a-case-of-suspicious-money-transfers-linked-to-the-tmc/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ED.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "उपराष्‍ट्रपति सी. पी. राधाकृष्‍णन कल ओडिसा गहरे समुद्री मत्‍स्‍य पालन मिशन दस्‍तावेज जारी करेंगे",
+        "summary": "उपराष्‍ट्रपति सी. पी. राधाकृष्‍णन कल ओडिसा के भुवनेश्‍वर में खुले समुद्र में मत्‍स्‍य दोहन के लिए प्राधिकार पत्र तथा ओडिसा गहरे समुद्री मत्‍स्‍य पालन मिशन दस्‍तावेज जारी करेंगे। मत्‍स्‍य पालन विभाग द्वारा आयेजित इस कार्यक्रम में लगभग एक हजार मत्‍स्‍य किसान और मछुआरे भाग लेंगे। प्राधिकार पत्र वर्ष 2025 के भारतीय ध्‍वज वाले मत्‍स्‍य […]",
+        "article": "उपराष्&#x200d;ट्रपति सी. पी. राधाकृष्&#x200d;णन कल ओडिसा के भुवनेश्&#x200d;वर में खुले समुद्र में मत्&#x200d;स्&#x200d;य दोहन के लिए प्राधिकार पत्र तथा ओडिसा गहरे समुद्री मत्&#x200d;स्&#x200d;य पालन मिशन दस्&#x200d;तावेज जारी करेंगे। मत्&#x200d;स्&#x200d;य पालन विभाग द्वारा आयेजित इस कार्यक्रम में लगभग एक हजार मत्&#x200d;स्&#x200d;य किसान और मछुआरे भाग लेंगे। प्राधिकार पत्र वर्ष 2025 के भारतीय ध्&#x200d;वज वाले मत्&#x200d;स्&#x200d;य पोतों द्वारा खुले समुद्र में मत्&#x200d;स्&#x200d;य संसाधनों के सतत् दोहन संबंधी दिशानिर्देशों के तहत एक अनिवार्य प्रावधान है। ओडिसा गहरे समुद्री मत्&#x200d;स्&#x200d;य पालन मिशन 2026-36 समुद्री अर्थव्&#x200d;यवस्&#x200d;था की एक प्रमुख पहल है। इसका उद्देश्&#x200d;य राज्&#x200d;य के तटीय और गहरे समुद्री मत्&#x200d;स्&#x200d;य संसाधनों की क्षमता का दोहन करना तथा ओडिसा को गहरे समुद्र मत्&#x200d;स्&#x200d;य पालन और समुद्री उत्&#x200d;पादों के निर्यात के प्रमुख केन्&#x200d;द्र के रूप में स्&#x200d;थापित करना है।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T05:59:40+00:00",
+        "link": "https://newsonair.gov.in/hi/vice-president-cp-radhakrishnan-to-release-odisha-deep-sea-fisheries-mission-document-tomorrow/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/CP-Radhakrishnan-1757427859015.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने वेनेज़ुएला का धन्यवाद किया",
         "summary": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता […]",
         "article": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता है। भारत ने 7.2 और 7.5 तीव्रता वाले विनाशकारी दोहरे भूकंपों के बाद वेनेज़ुएला की मदद के लिए &#8216;ऑपरेशन अमिस्ताद&#8217; शुरू किया था, जिनसे बड़े पैमाने पर तबाही हुई थी।",
@@ -1378,23 +1389,23 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T02:53:30+00:00",
         "link": "https://newsonair.gov.in/hi/pmo-reviews-el-nino-impact-asks-central-ministries-to-work-with-states-on-preparedness-measures/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/dr-pk-mishra.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ईडी ने टीएमसी से जुड़े संदिग्ध धन हस्तांतरण मामले में पांच परिसरों पर छापेमारी की",
-        "summary": "प्रवर्तन निदेशालय (ईडी) ने तृणमूल कांग्रेस (टीएमसी) के कुछ बैंक खातों से कथित वित्तीय लेन-देन, अवैध रूप से धन संग्रह और संदिग्ध धन के हस्तांतरण के संबंध में कोलकाता और उसके आसपास के पांच परिसरों पर तलाशी ली है। ये तलाशी, विमानन क्षेत्र में कार्यरत निजी कंपनी &#8211; केयरवेल समूह की कंपनियों, उसके निदेशकों […]",
-        "article": "प्रवर्तन निदेशालय (ईडी) ने तृणमूल कांग्रेस (टीएमसी) के कुछ बैंक खातों से कथित वित्तीय लेन-देन, अवैध रूप से धन संग्रह और संदिग्ध धन के हस्तांतरण के संबंध में कोलकाता और उसके आसपास के पांच परिसरों पर तलाशी ली है। ये तलाशी, विमानन क्षेत्र में कार्यरत निजी कंपनी &#8211; केयरवेल समूह की कंपनियों, उसके निदेशकों और एक कथित चुनावी ट्रस्ट से जुड़े परिसरों पर की गई। शुरूआती जांच के अनुसार, संदिग्ध गतिविधियों के लिए विमानन और यात्रा कंपनियों के जरिए से 150 करोड़ रुपये से अधिक का हस्तांतरण किया गया। ईडी ने बताया कि अप्रैल 2023 से जून 2026 के बीच, तृणमूल कांग्रेस के खातों से निजी विमानन कंपनी और उसकी संबद्ध इकाई को लगभग 160 करोड़ रुपये हस्तांतरित किए गए। निजी कंपनी ने 2023 से इस वर्ष के बीच एक अन्य नवगठित संबद्ध इकाई को 82 करोड़ रुपये से अधिक का हस्तांतरण भी किया। ईडी ने कहा कि एम्ब्रेयर लेगेसी 600 विमान और अगस्ता 109 एसपी हेलीकॉप्टर की खरीद के लिए निजी कंपनी की एक संबद्ध इकाई को बड़ी राशि हस्तांतरित की गई थी। रिपोर्ट में कहा गया है कि इन खरीदों के लिए 112 करोड़ रुपये खर्च किए गए। ईडी ने आरोप लगाया कि अगस्ता हेलीकॉप्टर की खरीद के लिए कुछ विदेशी धन का भी उपयोग किया गया, जबकि अधिकांश धनराशि सीधे तृणमूल कांग्रेस के खातों से प्राप्त की गई। ईडी के अनुसार, एम्ब्रेयर लेगेसी 600 विमान और अगस्ता हेलीकॉप्टर को पार्टी के कोष से खरीदे जाने के बावजूद बाद में तृणमूल कांग्रेस को किराए पर दे दिया गया। मामले की जांच जारी है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T02:16:21+00:00",
-        "link": "https://newsonair.gov.in/hi/the-ed-conducted-raids-on-five-premises-in-connection-with-a-case-of-suspicious-money-transfers-linked-to-the-tmc/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ED.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "उपराष्‍ट्रपति सी. पी. राधाकृष्‍णन कल ओडिसा गहरे समुद्री मत्‍स्‍य पालन मिशन दस्‍तावेज जारी करेंगे",
+        "summary": "उपराष्‍ट्रपति सी. पी. राधाकृष्‍णन कल ओडिसा के भुवनेश्‍वर में खुले समुद्र में मत्‍स्‍य दोहन के लिए प्राधिकार पत्र तथा ओडिसा गहरे समुद्री मत्‍स्‍य पालन मिशन दस्‍तावेज जारी करेंगे। मत्‍स्‍य पालन विभाग द्वारा आयेजित इस कार्यक्रम में लगभग एक हजार मत्‍स्‍य किसान और मछुआरे भाग लेंगे। प्राधिकार पत्र वर्ष 2025 के भारतीय ध्‍वज वाले मत्‍स्‍य […]",
+        "article": "उपराष्&#x200d;ट्रपति सी. पी. राधाकृष्&#x200d;णन कल ओडिसा के भुवनेश्&#x200d;वर में खुले समुद्र में मत्&#x200d;स्&#x200d;य दोहन के लिए प्राधिकार पत्र तथा ओडिसा गहरे समुद्री मत्&#x200d;स्&#x200d;य पालन मिशन दस्&#x200d;तावेज जारी करेंगे। मत्&#x200d;स्&#x200d;य पालन विभाग द्वारा आयेजित इस कार्यक्रम में लगभग एक हजार मत्&#x200d;स्&#x200d;य किसान और मछुआरे भाग लेंगे। प्राधिकार पत्र वर्ष 2025 के भारतीय ध्&#x200d;वज वाले मत्&#x200d;स्&#x200d;य पोतों द्वारा खुले समुद्र में मत्&#x200d;स्&#x200d;य संसाधनों के सतत् दोहन संबंधी दिशानिर्देशों के तहत एक अनिवार्य प्रावधान है। ओडिसा गहरे समुद्री मत्&#x200d;स्&#x200d;य पालन मिशन 2026-36 समुद्री अर्थव्&#x200d;यवस्&#x200d;था की एक प्रमुख पहल है। इसका उद्देश्&#x200d;य राज्&#x200d;य के तटीय और गहरे समुद्री मत्&#x200d;स्&#x200d;य संसाधनों की क्षमता का दोहन करना तथा ओडिसा को गहरे समुद्र मत्&#x200d;स्&#x200d;य पालन और समुद्री उत्&#x200d;पादों के निर्यात के प्रमुख केन्&#x200d;द्र के रूप में स्&#x200d;थापित करना है।",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T05:59:40+00:00",
+        "link": "https://newsonair.gov.in/hi/vice-president-cp-radhakrishnan-to-release-odisha-deep-sea-fisheries-mission-document-tomorrow/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/CP-Radhakrishnan-1757427859015.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने वेनेज़ुएला का धन्यवाद किया",
         "summary": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता […]",
         "article": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता है। भारत ने 7.2 और 7.5 तीव्रता वाले विनाशकारी दोहरे भूकंपों के बाद वेनेज़ुएला की मदद के लिए &#8216;ऑपरेशन अमिस्ताद&#8217; शुरू किया था, जिनसे बड़े पैमाने पर तबाही हुई थी।",
@@ -1490,17 +1501,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T02:53:30+00:00",
         "link": "https://newsonair.gov.in/hi/pmo-reviews-el-nino-impact-asks-central-ministries-to-work-with-states-on-preparedness-measures/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/dr-pk-mishra.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ईडी ने टीएमसी से जुड़े संदिग्ध धन हस्तांतरण मामले में पांच परिसरों पर छापेमारी की",
-        "summary": "प्रवर्तन निदेशालय (ईडी) ने तृणमूल कांग्रेस (टीएमसी) के कुछ बैंक खातों से कथित वित्तीय लेन-देन, अवैध रूप से धन संग्रह और संदिग्ध धन के हस्तांतरण के संबंध में कोलकाता और उसके आसपास के पांच परिसरों पर तलाशी ली है। ये तलाशी, विमानन क्षेत्र में कार्यरत निजी कंपनी &#8211; केयरवेल समूह की कंपनियों, उसके निदेशकों […]",
-        "article": "प्रवर्तन निदेशालय (ईडी) ने तृणमूल कांग्रेस (टीएमसी) के कुछ बैंक खातों से कथित वित्तीय लेन-देन, अवैध रूप से धन संग्रह और संदिग्ध धन के हस्तांतरण के संबंध में कोलकाता और उसके आसपास के पांच परिसरों पर तलाशी ली है। ये तलाशी, विमानन क्षेत्र में कार्यरत निजी कंपनी &#8211; केयरवेल समूह की कंपनियों, उसके निदेशकों और एक कथित चुनावी ट्रस्ट से जुड़े परिसरों पर की गई। शुरूआती जांच के अनुसार, संदिग्ध गतिविधियों के लिए विमानन और यात्रा कंपनियों के जरिए से 150 करोड़ रुपये से अधिक का हस्तांतरण किया गया। ईडी ने बताया कि अप्रैल 2023 से जून 2026 के बीच, तृणमूल कांग्रेस के खातों से निजी विमानन कंपनी और उसकी संबद्ध इकाई को लगभग 160 करोड़ रुपये हस्तांतरित किए गए। निजी कंपनी ने 2023 से इस वर्ष के बीच एक अन्य नवगठित संबद्ध इकाई को 82 करोड़ रुपये से अधिक का हस्तांतरण भी किया। ईडी ने कहा कि एम्ब्रेयर लेगेसी 600 विमान और अगस्ता 109 एसपी हेलीकॉप्टर की खरीद के लिए निजी कंपनी की एक संबद्ध इकाई को बड़ी राशि हस्तांतरित की गई थी। रिपोर्ट में कहा गया है कि इन खरीदों के लिए 112 करोड़ रुपये खर्च किए गए। ईडी ने आरोप लगाया कि अगस्ता हेलीकॉप्टर की खरीद के लिए कुछ विदेशी धन का भी उपयोग किया गया, जबकि अधिकांश धनराशि सीधे तृणमूल कांग्रेस के खातों से प्राप्त की गई। ईडी के अनुसार, एम्ब्रेयर लेगेसी 600 विमान और अगस्ता हेलीकॉप्टर को पार्टी के कोष से खरीदे जाने के बावजूद बाद में तृणमूल कांग्रेस को किराए पर दे दिया गया। मामले की जांच जारी है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T02:16:21+00:00",
-        "link": "https://newsonair.gov.in/hi/the-ed-conducted-raids-on-five-premises-in-connection-with-a-case-of-suspicious-money-transfers-linked-to-the-tmc/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ED.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
