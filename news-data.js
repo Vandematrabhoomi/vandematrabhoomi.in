@@ -1,8 +1,41 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-09T10:37:29.676959",
+  "generated": "2026-07-09T11:37:06.623975",
   "en": {
     "top": [
+      {
+        "title": "India reiterates its commitment to support Afghanistan during Joint Committee Meeting",
+        "summary": "India and Afghanistan today reviewed the entire spectrum of bilateral relations, including cooperation in the fields of humanitarian assistance, development partnership, food security, healthcare, capacity building, education, sports, trade, visa and connectivity. The fourth round of India-Afghanistan Joint Committee Meeting was held in New Delhi today. It was co-chaired by Joint Secretary, Extern",
+        "article": "India and Afghanistan today reviewed the entire spectrum of bilateral relations, including cooperation in the fields of humanitarian assistance, development partnership, food security, healthcare, capacity building, education, sports, trade, visa and connectivity. The fourth round of India-Afghanistan Joint Committee Meeting was held in New Delhi today. It was co-chaired by Joint Secretary, External Affairs Ministry, M. Anand Prakash and Director General, First Political Division, Afghan Foreign Affairs Ministry, Shuaib Baryalai. External Affairs Ministry said in a statement that the Indian side reiterated its continued commitment to supporting the welfare and development needs of the Afghan people. The Afghan side appreciated India’s sustained support and cooperation across various sectors. Both sides reaffirmed the importance of maintaining regular consultations and agreed to remain in close contact.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T11:19:50+00:00",
+        "link": "https://newsonair.gov.in/india-reiterates-its-commitment-to-support-afghanistan-during-joint-committee-meeting/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Afghanistan.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Communication Minister hails DOT’s Samriddh Gram for winning ITU Global award",
+        "summary": "Communications Minister Jyotiraditya Scindia today hailed the Department of Telecommunications’ flagship Samriddh Gram: Integrated Phygital Service Delivery Model Enabled by Bharat Net project on being declared the Global Winner of the prestigious World Summit on the Information Society Prizes 2026. The initiative has been awarded under Action Line C6: Enabling Environment by the International Tel",
+        "article": "Communications Minister Jyotiraditya Scindia today hailed the Department of Telecommunications’ flagship Samriddh Gram: Integrated Phygital Service Delivery Model Enabled by Bharat Net project on being declared the Global Winner of the prestigious World Summit on the Information Society Prizes 2026. The initiative has been awarded under Action Line C6: Enabling Environment by the International Telecommunication Union. The Minister described the recognition as a proud moment for India and a global endorsement of Prime Minister Narendra Modi’s vision of a Viksit Bharat and an inclusive Digital India. Mr Scindia noted that the recognition is a testament to India’s growing leadership in Digital Public Infrastructure, inclusive connectivity and citizen-centric digital innovation. He said that Samriddh Gram is not merely about providing internet connectivity. He added, it is about converting digital connectivity into meaningful services and real opportunities for rural communities. Mr Scindia said that the project brings together healthcare, education, agriculture, digital banking, e-Governance, skilling and livelihood services through village-level Samriddhi Kendras by leveraging BharatNet fibre connectivity. The Minister underlined that the integrated phygital model combines the power of digital platforms with the trust and accessibility of physical service delivery at the village level. He further said, the model thus enables farmers to access modern agricultural services, students to benefit from digital learning, patients to consult specialist doctors remotely, citizens to avail government services, and local entrepreneurs to connect with wider markets, all within their own villages. The WSIS Prizes are among the world’s most prestigious recognitions for projects harnessing Information and Communication Technologies to advance sustainable development. Built on the Bharat Net backbone, Samriddh Gram establishes village-level Samriddhi Kendras as one-stop hubs delivering integrated citizen-centric services spanning healthcare, education, agriculture, financial inclusion, skilling, e-Governance, e-commerce and digital connectivity. The initiative demonstrates how robust telecom infrastructure can evolve beyond connectivity into measurable socio-economic transformation through an integrated service delivery model supported by local facilitation and community participation.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T11:09:31+00:00",
+        "link": "https://newsonair.gov.in/union-communication-minister-hails-dots-samriddh-gram-for-winning-itu-global-award/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Scindhyia.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt refutes false social media report claiming attack on LPG tanker heading to India",
+        "summary": "The Government has refuted a claim circulating on social media that an LPG tanker heading to India was hit in an Iranian missile strike. The Fact Check Unit of the Press Information Bureau (PIB) said that the claim is fake. The PIB said that the image being shared is old and relates to a […]",
+        "article": "The Government has refuted a claim circulating on social media that an LPG tanker heading to India was hit in an Iranian missile strike. The Fact Check Unit of the Press Information Bureau (PIB) said that the claim is fake. The PIB said that the image being shared is old and relates to a fire that broke out onboard the Cameroon-flagged LPG tanker MV Falcon, following an explosion, off the coast of Aden, Yemen last year. It has advised citizens to beware of propaganda accounts circulating misinformation to create panic among citizens.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T10:53:47+00:00",
+        "link": "https://newsonair.gov.in/govt-refutes-false-social-media-report-claiming-attack-on-lpg-tanker-heading-to-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/5.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "PM Modi describes his recent visit as “hat-trick” reflecting growing India-Australia relations",
         "summary": "Prime Minister Narendra Modi has said that 21st-century India is working towards the goal of becoming a developed nation. Emphasising the country&#8217;s aspirations, the Prime Minister remarked that today&#8217;s India is a nation that believes in growing more and achieving more. Addressing a community event in Melbourne today, Mr. Modi recalled meeting members of the […]",
@@ -59,39 +92,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Vice President launches national initiative for sustainable utilisation of India’s high-seas fishery resources",
-        "summary": "Vice President C P Radhakrishnan today launched a landmark national initiative for the sustainable utilisation of India&#8217;s high-seas fishery resources at the Odisha University of Agriculture and Technology (OUAT) in Bhubaneswar. Calling the Blue Economy a transformative engine of national prosperity, he urged the youth to embrace modern, technology-driven fisheries and maritime professions as",
-        "article": "Vice President C P Radhakrishnan today launched a landmark national initiative for the sustainable utilisation of India&#8217;s high-seas fishery resources at the Odisha University of Agriculture and Technology (OUAT) in Bhubaneswar. Calling the Blue Economy a transformative engine of national prosperity, he urged the youth to embrace modern, technology-driven fisheries and maritime professions as a cornerstone of ‘Viksit Bharat’. India today marked a significant milestone in its maritime development with the launch of a landmark national initiative for the sustainable utilisation of high-seas fishery resources. Vice President CP Radhakrishnan inaugurated the national rollout of the Letters of Authorisation for Indian-flagged fishing vessels operating in distant waters, establishing a robust framework for responsible deep-sea fishing and marine resource conservation. He also unveiled the Odisha Deep Sea Fishing Mission Document, a strategic blueprint to strengthen the State&#8217;s deep-sea fishing ecosystem and expand the Blue Economy. Emphasising that India&#8217;s seafood exports have crossed 73 thousand crore rupees and now reach over 120 countries, the Vice President called for technology-driven fisheries through digital authorisation, vessel tracking and globally recognised certification standards. Urging young Indians to embrace fisheries as a modern, science-based profession with global opportunities, he said a vibrant Blue Economy would be a key driver of Viksit Bharat by 2047.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T07:32:45+00:00",
-        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-to-launch-high-seas-fisheries-initiative-in-odisha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMxSDiVaEAAAK2u.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt reiterates commitment to make India global hub for AI applications",
-        "summary": "The Government has reiterated its commitment to positioning India as the global hub for Artificial Intelligence applications and AI-driven solutions. Speaking at the inaugural session of the Confederation of Indian Industry’s Global Capacity Centres (GCCs) Business Summit 2026 in New Delhi today, Secretary in the Ministry of Electronics and Information Technology, S Krishnan, said […]",
-        "article": "The Government has reiterated its commitment to positioning India as the global hub for Artificial Intelligence applications and AI-driven solutions. Speaking at the inaugural session of the Confederation of Indian Industry’s Global Capacity Centres (GCCs) Business Summit 2026 in New Delhi today, Secretary in the Ministry of Electronics and Information Technology, S Krishnan, said the Government has viewed Artificial Intelligence with a positive and optimistic outlook from the very beginning. He said the focus has been on harnessing AI to enhance productivity, efficiency and effectiveness across a wide range of sectors. Mr Krishnan said the Government has been working on how India can adopt Artificial Intelligence effectively and contribute to the global AI ecosystem. He added that the vision has been to make India the application and AI-based solution capital of the world. Addressing the gathering, Chief Economic Advisor to the Government, Dr V Anantha Nageswaran, said that India now hosts around half of the Global Capacity Centres. He said this achievement was not by accident but was driven by the country&#8217;s people, because talent is the heart of the matter.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T07:19:51+00:00",
-        "link": "https://newsonair.gov.in/govt-reiterates-commitment-to-make-india-global-hub-for-ai-applications/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/G.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Uttarakhand becomes country’s sixth fully literate State",
-        "summary": "Uttarakhand has become the sixth fully literate State in the country after achieving the prescribed adult literacy benchmarks under the National Education Policy 2020 and the ULLAS &#8211; Understanding of Lifelong Learning for All in Society &#8211; New India Literacy Programme. &#160; The declaration was approved by the Governor on 8th July 2026, following the […]",
-        "article": "Uttarakhand has become the sixth fully literate State in the country after achieving the prescribed adult literacy benchmarks under the National Education Policy 2020 and the ULLAS &#8211; Understanding of Lifelong Learning for All in Society &#8211; New India Literacy Programme. &nbsp; The declaration was approved by the Governor on 8th July 2026, following the fulfilment of literacy standards laid down by the Department of School Education and Literacy under the Ministry of Education, Government of India. With this achievement, Uttarakhand joins Mizoram, Goa, Tripura, Himachal Pradesh and Sikkim on the list of fully literate States, marking a significant milestone in the State&#8217;s educational development. Chief Minister Pushkar Singh Dhami described the achievement as historic and said it reflects the sustained efforts of the government and the active participation of the people. He reaffirmed the State government&#8217;s commitment to promoting digital literacy, financial literacy, continuing education and life skills for all citizens and congratulated the people of Uttarakhand on the accomplishment.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T07:18:00+00:00",
-        "link": "https://newsonair.gov.in/uttarakhand-becomes-countrys-sixth-fully-literate-state/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/n.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "US launches fresh airstrikes on Iran; Tehran targets Bahrain, Kuwait and Qatar",
         "summary": "The United States launched new airstrikes against Iran this morning. Tehran responded by targeting Bahrain, Kuwait and Qatar, escalating crossfire that again threatened an interim deal aimed at ending the war in the Persian Gulf. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of […]",
         "article": "The United States launched new airstrikes against Iran this morning. Tehran responded by targeting Bahrain, Kuwait and Qatar, escalating crossfire that again threatened an interim deal aimed at ending the war in the Persian Gulf. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz had signalled the end of the fragile ceasefire. The US struck a range of military sites and port facilities early yesterday. The attacks followed Iran&#8217;s targeting of several merchant vessels off the coast of Oman, which triggered an Iranian response. Today&#8217;s attacks appeared to be larger on both sides. Sirens sounded at least twice in Bahrain, home to the US Navy&#8217;s 5th Fleet headquarters. There was no immediate word on damage in Bahrain, Kuwait or Qatar. Kuwait&#8217;s military said it was actively intercepting incoming drones and missiles. Iran&#8217;s Revolutionary Guard claimed responsibility for attacks on Bahrain and Kuwait. The US military&#8217;s Central Command said it struck about 90 targets across Iran. It also released black-and-white footage showing what appeared to be attacks on an airport runway and missile launchers. The US said the strikes were intended to “further degrade” Iran&#8217;s ability to threaten freedom of navigation in the Strait of Hormuz. Iranian state media reported explosions in several locations, including Bushehr, home to Iran&#8217;s nuclear power plant complex, and the southern port cities of Chabahar, Konarak, Bandar Abbas and Sirik. In Iranshahr, authorities said a strike killed a firefighter at an airport.",
@@ -138,6 +138,39 @@ window.VM_NEWS = {
     ],
     "breaking": [
       {
+        "title": "India reiterates its commitment to support Afghanistan during Joint Committee Meeting",
+        "summary": "India and Afghanistan today reviewed the entire spectrum of bilateral relations, including cooperation in the fields of humanitarian assistance, development partnership, food security, healthcare, capacity building, education, sports, trade, visa and connectivity. The fourth round of India-Afghanistan Joint Committee Meeting was held in New Delhi today. It was co-chaired by Joint Secretary, Extern",
+        "article": "India and Afghanistan today reviewed the entire spectrum of bilateral relations, including cooperation in the fields of humanitarian assistance, development partnership, food security, healthcare, capacity building, education, sports, trade, visa and connectivity. The fourth round of India-Afghanistan Joint Committee Meeting was held in New Delhi today. It was co-chaired by Joint Secretary, External Affairs Ministry, M. Anand Prakash and Director General, First Political Division, Afghan Foreign Affairs Ministry, Shuaib Baryalai. External Affairs Ministry said in a statement that the Indian side reiterated its continued commitment to supporting the welfare and development needs of the Afghan people. The Afghan side appreciated India’s sustained support and cooperation across various sectors. Both sides reaffirmed the importance of maintaining regular consultations and agreed to remain in close contact.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T11:19:50+00:00",
+        "link": "https://newsonair.gov.in/india-reiterates-its-commitment-to-support-afghanistan-during-joint-committee-meeting/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Afghanistan.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Communication Minister hails DOT’s Samriddh Gram for winning ITU Global award",
+        "summary": "Communications Minister Jyotiraditya Scindia today hailed the Department of Telecommunications’ flagship Samriddh Gram: Integrated Phygital Service Delivery Model Enabled by Bharat Net project on being declared the Global Winner of the prestigious World Summit on the Information Society Prizes 2026. The initiative has been awarded under Action Line C6: Enabling Environment by the International Tel",
+        "article": "Communications Minister Jyotiraditya Scindia today hailed the Department of Telecommunications’ flagship Samriddh Gram: Integrated Phygital Service Delivery Model Enabled by Bharat Net project on being declared the Global Winner of the prestigious World Summit on the Information Society Prizes 2026. The initiative has been awarded under Action Line C6: Enabling Environment by the International Telecommunication Union. The Minister described the recognition as a proud moment for India and a global endorsement of Prime Minister Narendra Modi’s vision of a Viksit Bharat and an inclusive Digital India. Mr Scindia noted that the recognition is a testament to India’s growing leadership in Digital Public Infrastructure, inclusive connectivity and citizen-centric digital innovation. He said that Samriddh Gram is not merely about providing internet connectivity. He added, it is about converting digital connectivity into meaningful services and real opportunities for rural communities. Mr Scindia said that the project brings together healthcare, education, agriculture, digital banking, e-Governance, skilling and livelihood services through village-level Samriddhi Kendras by leveraging BharatNet fibre connectivity. The Minister underlined that the integrated phygital model combines the power of digital platforms with the trust and accessibility of physical service delivery at the village level. He further said, the model thus enables farmers to access modern agricultural services, students to benefit from digital learning, patients to consult specialist doctors remotely, citizens to avail government services, and local entrepreneurs to connect with wider markets, all within their own villages. The WSIS Prizes are among the world’s most prestigious recognitions for projects harnessing Information and Communication Technologies to advance sustainable development. Built on the Bharat Net backbone, Samriddh Gram establishes village-level Samriddhi Kendras as one-stop hubs delivering integrated citizen-centric services spanning healthcare, education, agriculture, financial inclusion, skilling, e-Governance, e-commerce and digital connectivity. The initiative demonstrates how robust telecom infrastructure can evolve beyond connectivity into measurable socio-economic transformation through an integrated service delivery model supported by local facilitation and community participation.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T11:09:31+00:00",
+        "link": "https://newsonair.gov.in/union-communication-minister-hails-dots-samriddh-gram-for-winning-itu-global-award/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Scindhyia.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt refutes false social media report claiming attack on LPG tanker heading to India",
+        "summary": "The Government has refuted a claim circulating on social media that an LPG tanker heading to India was hit in an Iranian missile strike. The Fact Check Unit of the Press Information Bureau (PIB) said that the claim is fake. The PIB said that the image being shared is old and relates to a […]",
+        "article": "The Government has refuted a claim circulating on social media that an LPG tanker heading to India was hit in an Iranian missile strike. The Fact Check Unit of the Press Information Bureau (PIB) said that the claim is fake. The PIB said that the image being shared is old and relates to a fire that broke out onboard the Cameroon-flagged LPG tanker MV Falcon, following an explosion, off the coast of Aden, Yemen last year. It has advised citizens to beware of propaganda accounts circulating misinformation to create panic among citizens.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T10:53:47+00:00",
+        "link": "https://newsonair.gov.in/govt-refutes-false-social-media-report-claiming-attack-on-lpg-tanker-heading-to-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/5.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Modi describes his recent visit as “hat-trick” reflecting growing India-Australia relations",
         "summary": "Prime Minister Narendra Modi has said that 21st-century India is working towards the goal of becoming a developed nation. Emphasising the country&#8217;s aspirations, the Prime Minister remarked that today&#8217;s India is a nation that believes in growing more and achieving more. Addressing a community event in Melbourne today, Mr. Modi recalled meeting members of the […]",
         "article": "Prime Minister Narendra Modi has said that 21st-century India is working towards the goal of becoming a developed nation. Emphasising the country&#8217;s aspirations, the Prime Minister remarked that today&#8217;s India is a nation that believes in growing more and achieving more. Addressing a community event in Melbourne today, Mr. Modi recalled meeting members of the Indian diaspora earlier in Sydney and said he had been looking forward to interacting with the people of Melbourne as well. The Prime Minister said that when he first visited Australia in 2014, it was after a gap of 28 years since the visit of an Indian Prime Minister. Mr Modi said that his current visit is his third to Australia in the last 12 years, describing it as a &#8220;hat-trick&#8221;, which, he said, reflects the growing strength and new heights of India-Australia relations. Highlighting the close ties between the two countries, Mr Modi noted that Ahmedabad, home to the world&#8217;s largest cricket stadium, and Melbourne, renowned for its iconic cricket ground, symbolise the shared sporting and cultural connection between India and Australia. He said Australian Prime Minister Anthony Albanese has won the hearts of the Indian community through his warmth and goodwill. Mr. Modi began his address by acknowledging the Traditional Owners of the land and paid respects to their Elders, past, present and emerging. Referring to the enthusiastic response from the audience, he described the event as &#8220;houseful&#8221; and a &#8220;blockbuster&#8221;. Addressing the gathering, Australian Prime Minister Anthony Albanese said the energy witnessed at the event reflects the strength of the Australia-India partnership. He said the enthusiasm and dynamism of the people of both countries continue to drive positivity and promise in bilateral relations.",
@@ -178,39 +211,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-09T07:53:47+00:00",
         "link": "https://newsonair.gov.in/hm-amit-shah-to-review-border-security-with-sps-from-border-districts/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/deccanherald_2025-01-17_bz7fthpt_Amit-Shah-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Vice President launches national initiative for sustainable utilisation of India’s high-seas fishery resources",
-        "summary": "Vice President C P Radhakrishnan today launched a landmark national initiative for the sustainable utilisation of India&#8217;s high-seas fishery resources at the Odisha University of Agriculture and Technology (OUAT) in Bhubaneswar. Calling the Blue Economy a transformative engine of national prosperity, he urged the youth to embrace modern, technology-driven fisheries and maritime professions as",
-        "article": "Vice President C P Radhakrishnan today launched a landmark national initiative for the sustainable utilisation of India&#8217;s high-seas fishery resources at the Odisha University of Agriculture and Technology (OUAT) in Bhubaneswar. Calling the Blue Economy a transformative engine of national prosperity, he urged the youth to embrace modern, technology-driven fisheries and maritime professions as a cornerstone of ‘Viksit Bharat’. India today marked a significant milestone in its maritime development with the launch of a landmark national initiative for the sustainable utilisation of high-seas fishery resources. Vice President CP Radhakrishnan inaugurated the national rollout of the Letters of Authorisation for Indian-flagged fishing vessels operating in distant waters, establishing a robust framework for responsible deep-sea fishing and marine resource conservation. He also unveiled the Odisha Deep Sea Fishing Mission Document, a strategic blueprint to strengthen the State&#8217;s deep-sea fishing ecosystem and expand the Blue Economy. Emphasising that India&#8217;s seafood exports have crossed 73 thousand crore rupees and now reach over 120 countries, the Vice President called for technology-driven fisheries through digital authorisation, vessel tracking and globally recognised certification standards. Urging young Indians to embrace fisheries as a modern, science-based profession with global opportunities, he said a vibrant Blue Economy would be a key driver of Viksit Bharat by 2047.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T07:32:45+00:00",
-        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-to-launch-high-seas-fisheries-initiative-in-odisha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMxSDiVaEAAAK2u.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt reiterates commitment to make India global hub for AI applications",
-        "summary": "The Government has reiterated its commitment to positioning India as the global hub for Artificial Intelligence applications and AI-driven solutions. Speaking at the inaugural session of the Confederation of Indian Industry’s Global Capacity Centres (GCCs) Business Summit 2026 in New Delhi today, Secretary in the Ministry of Electronics and Information Technology, S Krishnan, said […]",
-        "article": "The Government has reiterated its commitment to positioning India as the global hub for Artificial Intelligence applications and AI-driven solutions. Speaking at the inaugural session of the Confederation of Indian Industry’s Global Capacity Centres (GCCs) Business Summit 2026 in New Delhi today, Secretary in the Ministry of Electronics and Information Technology, S Krishnan, said the Government has viewed Artificial Intelligence with a positive and optimistic outlook from the very beginning. He said the focus has been on harnessing AI to enhance productivity, efficiency and effectiveness across a wide range of sectors. Mr Krishnan said the Government has been working on how India can adopt Artificial Intelligence effectively and contribute to the global AI ecosystem. He added that the vision has been to make India the application and AI-based solution capital of the world. Addressing the gathering, Chief Economic Advisor to the Government, Dr V Anantha Nageswaran, said that India now hosts around half of the Global Capacity Centres. He said this achievement was not by accident but was driven by the country&#8217;s people, because talent is the heart of the matter.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T07:19:51+00:00",
-        "link": "https://newsonair.gov.in/govt-reiterates-commitment-to-make-india-global-hub-for-ai-applications/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/G.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Uttarakhand becomes country’s sixth fully literate State",
-        "summary": "Uttarakhand has become the sixth fully literate State in the country after achieving the prescribed adult literacy benchmarks under the National Education Policy 2020 and the ULLAS &#8211; Understanding of Lifelong Learning for All in Society &#8211; New India Literacy Programme. &#160; The declaration was approved by the Governor on 8th July 2026, following the […]",
-        "article": "Uttarakhand has become the sixth fully literate State in the country after achieving the prescribed adult literacy benchmarks under the National Education Policy 2020 and the ULLAS &#8211; Understanding of Lifelong Learning for All in Society &#8211; New India Literacy Programme. &nbsp; The declaration was approved by the Governor on 8th July 2026, following the fulfilment of literacy standards laid down by the Department of School Education and Literacy under the Ministry of Education, Government of India. With this achievement, Uttarakhand joins Mizoram, Goa, Tripura, Himachal Pradesh and Sikkim on the list of fully literate States, marking a significant milestone in the State&#8217;s educational development. Chief Minister Pushkar Singh Dhami described the achievement as historic and said it reflects the sustained efforts of the government and the active participation of the people. He reaffirmed the State government&#8217;s commitment to promoting digital literacy, financial literacy, continuing education and life skills for all citizens and congratulated the people of Uttarakhand on the accomplishment.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T07:18:00+00:00",
-        "link": "https://newsonair.gov.in/uttarakhand-becomes-countrys-sixth-fully-literate-state/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/n.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -252,6 +252,39 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "India reiterates its commitment to support Afghanistan during Joint Committee Meeting",
+        "summary": "India and Afghanistan today reviewed the entire spectrum of bilateral relations, including cooperation in the fields of humanitarian assistance, development partnership, food security, healthcare, capacity building, education, sports, trade, visa and connectivity. The fourth round of India-Afghanistan Joint Committee Meeting was held in New Delhi today. It was co-chaired by Joint Secretary, Extern",
+        "article": "India and Afghanistan today reviewed the entire spectrum of bilateral relations, including cooperation in the fields of humanitarian assistance, development partnership, food security, healthcare, capacity building, education, sports, trade, visa and connectivity. The fourth round of India-Afghanistan Joint Committee Meeting was held in New Delhi today. It was co-chaired by Joint Secretary, External Affairs Ministry, M. Anand Prakash and Director General, First Political Division, Afghan Foreign Affairs Ministry, Shuaib Baryalai. External Affairs Ministry said in a statement that the Indian side reiterated its continued commitment to supporting the welfare and development needs of the Afghan people. The Afghan side appreciated India’s sustained support and cooperation across various sectors. Both sides reaffirmed the importance of maintaining regular consultations and agreed to remain in close contact.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T11:19:50+00:00",
+        "link": "https://newsonair.gov.in/india-reiterates-its-commitment-to-support-afghanistan-during-joint-committee-meeting/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Afghanistan.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Communication Minister hails DOT’s Samriddh Gram for winning ITU Global award",
+        "summary": "Communications Minister Jyotiraditya Scindia today hailed the Department of Telecommunications’ flagship Samriddh Gram: Integrated Phygital Service Delivery Model Enabled by Bharat Net project on being declared the Global Winner of the prestigious World Summit on the Information Society Prizes 2026. The initiative has been awarded under Action Line C6: Enabling Environment by the International Tel",
+        "article": "Communications Minister Jyotiraditya Scindia today hailed the Department of Telecommunications’ flagship Samriddh Gram: Integrated Phygital Service Delivery Model Enabled by Bharat Net project on being declared the Global Winner of the prestigious World Summit on the Information Society Prizes 2026. The initiative has been awarded under Action Line C6: Enabling Environment by the International Telecommunication Union. The Minister described the recognition as a proud moment for India and a global endorsement of Prime Minister Narendra Modi’s vision of a Viksit Bharat and an inclusive Digital India. Mr Scindia noted that the recognition is a testament to India’s growing leadership in Digital Public Infrastructure, inclusive connectivity and citizen-centric digital innovation. He said that Samriddh Gram is not merely about providing internet connectivity. He added, it is about converting digital connectivity into meaningful services and real opportunities for rural communities. Mr Scindia said that the project brings together healthcare, education, agriculture, digital banking, e-Governance, skilling and livelihood services through village-level Samriddhi Kendras by leveraging BharatNet fibre connectivity. The Minister underlined that the integrated phygital model combines the power of digital platforms with the trust and accessibility of physical service delivery at the village level. He further said, the model thus enables farmers to access modern agricultural services, students to benefit from digital learning, patients to consult specialist doctors remotely, citizens to avail government services, and local entrepreneurs to connect with wider markets, all within their own villages. The WSIS Prizes are among the world’s most prestigious recognitions for projects harnessing Information and Communication Technologies to advance sustainable development. Built on the Bharat Net backbone, Samriddh Gram establishes village-level Samriddhi Kendras as one-stop hubs delivering integrated citizen-centric services spanning healthcare, education, agriculture, financial inclusion, skilling, e-Governance, e-commerce and digital connectivity. The initiative demonstrates how robust telecom infrastructure can evolve beyond connectivity into measurable socio-economic transformation through an integrated service delivery model supported by local facilitation and community participation.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T11:09:31+00:00",
+        "link": "https://newsonair.gov.in/union-communication-minister-hails-dots-samriddh-gram-for-winning-itu-global-award/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Scindhyia.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt refutes false social media report claiming attack on LPG tanker heading to India",
+        "summary": "The Government has refuted a claim circulating on social media that an LPG tanker heading to India was hit in an Iranian missile strike. The Fact Check Unit of the Press Information Bureau (PIB) said that the claim is fake. The PIB said that the image being shared is old and relates to a […]",
+        "article": "The Government has refuted a claim circulating on social media that an LPG tanker heading to India was hit in an Iranian missile strike. The Fact Check Unit of the Press Information Bureau (PIB) said that the claim is fake. The PIB said that the image being shared is old and relates to a fire that broke out onboard the Cameroon-flagged LPG tanker MV Falcon, following an explosion, off the coast of Aden, Yemen last year. It has advised citizens to beware of propaganda accounts circulating misinformation to create panic among citizens.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T10:53:47+00:00",
+        "link": "https://newsonair.gov.in/govt-refutes-false-social-media-report-claiming-attack-on-lpg-tanker-heading-to-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/5.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Modi describes his recent visit as “hat-trick” reflecting growing India-Australia relations",
         "summary": "Prime Minister Narendra Modi has said that 21st-century India is working towards the goal of becoming a developed nation. Emphasising the country&#8217;s aspirations, the Prime Minister remarked that today&#8217;s India is a nation that believes in growing more and achieving more. Addressing a community event in Melbourne today, Mr. Modi recalled meeting members of the […]",
         "article": "Prime Minister Narendra Modi has said that 21st-century India is working towards the goal of becoming a developed nation. Emphasising the country&#8217;s aspirations, the Prime Minister remarked that today&#8217;s India is a nation that believes in growing more and achieving more. Addressing a community event in Melbourne today, Mr. Modi recalled meeting members of the Indian diaspora earlier in Sydney and said he had been looking forward to interacting with the people of Melbourne as well. The Prime Minister said that when he first visited Australia in 2014, it was after a gap of 28 years since the visit of an Indian Prime Minister. Mr Modi said that his current visit is his third to Australia in the last 12 years, describing it as a &#8220;hat-trick&#8221;, which, he said, reflects the growing strength and new heights of India-Australia relations. Highlighting the close ties between the two countries, Mr Modi noted that Ahmedabad, home to the world&#8217;s largest cricket stadium, and Melbourne, renowned for its iconic cricket ground, symbolise the shared sporting and cultural connection between India and Australia. He said Australian Prime Minister Anthony Albanese has won the hearts of the Indian community through his warmth and goodwill. Mr. Modi began his address by acknowledging the Traditional Owners of the land and paid respects to their Elders, past, present and emerging. Referring to the enthusiastic response from the audience, he described the event as &#8220;houseful&#8221; and a &#8220;blockbuster&#8221;. Addressing the gathering, Australian Prime Minister Anthony Albanese said the energy witnessed at the event reflects the strength of the Australia-India partnership. He said the enthusiasm and dynamism of the people of both countries continue to drive positivity and promise in bilateral relations.",
@@ -292,39 +325,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-09T07:53:47+00:00",
         "link": "https://newsonair.gov.in/hm-amit-shah-to-review-border-security-with-sps-from-border-districts/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/deccanherald_2025-01-17_bz7fthpt_Amit-Shah-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Vice President launches national initiative for sustainable utilisation of India’s high-seas fishery resources",
-        "summary": "Vice President C P Radhakrishnan today launched a landmark national initiative for the sustainable utilisation of India&#8217;s high-seas fishery resources at the Odisha University of Agriculture and Technology (OUAT) in Bhubaneswar. Calling the Blue Economy a transformative engine of national prosperity, he urged the youth to embrace modern, technology-driven fisheries and maritime professions as",
-        "article": "Vice President C P Radhakrishnan today launched a landmark national initiative for the sustainable utilisation of India&#8217;s high-seas fishery resources at the Odisha University of Agriculture and Technology (OUAT) in Bhubaneswar. Calling the Blue Economy a transformative engine of national prosperity, he urged the youth to embrace modern, technology-driven fisheries and maritime professions as a cornerstone of ‘Viksit Bharat’. India today marked a significant milestone in its maritime development with the launch of a landmark national initiative for the sustainable utilisation of high-seas fishery resources. Vice President CP Radhakrishnan inaugurated the national rollout of the Letters of Authorisation for Indian-flagged fishing vessels operating in distant waters, establishing a robust framework for responsible deep-sea fishing and marine resource conservation. He also unveiled the Odisha Deep Sea Fishing Mission Document, a strategic blueprint to strengthen the State&#8217;s deep-sea fishing ecosystem and expand the Blue Economy. Emphasising that India&#8217;s seafood exports have crossed 73 thousand crore rupees and now reach over 120 countries, the Vice President called for technology-driven fisheries through digital authorisation, vessel tracking and globally recognised certification standards. Urging young Indians to embrace fisheries as a modern, science-based profession with global opportunities, he said a vibrant Blue Economy would be a key driver of Viksit Bharat by 2047.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T07:32:45+00:00",
-        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-to-launch-high-seas-fisheries-initiative-in-odisha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMxSDiVaEAAAK2u.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt reiterates commitment to make India global hub for AI applications",
-        "summary": "The Government has reiterated its commitment to positioning India as the global hub for Artificial Intelligence applications and AI-driven solutions. Speaking at the inaugural session of the Confederation of Indian Industry’s Global Capacity Centres (GCCs) Business Summit 2026 in New Delhi today, Secretary in the Ministry of Electronics and Information Technology, S Krishnan, said […]",
-        "article": "The Government has reiterated its commitment to positioning India as the global hub for Artificial Intelligence applications and AI-driven solutions. Speaking at the inaugural session of the Confederation of Indian Industry’s Global Capacity Centres (GCCs) Business Summit 2026 in New Delhi today, Secretary in the Ministry of Electronics and Information Technology, S Krishnan, said the Government has viewed Artificial Intelligence with a positive and optimistic outlook from the very beginning. He said the focus has been on harnessing AI to enhance productivity, efficiency and effectiveness across a wide range of sectors. Mr Krishnan said the Government has been working on how India can adopt Artificial Intelligence effectively and contribute to the global AI ecosystem. He added that the vision has been to make India the application and AI-based solution capital of the world. Addressing the gathering, Chief Economic Advisor to the Government, Dr V Anantha Nageswaran, said that India now hosts around half of the Global Capacity Centres. He said this achievement was not by accident but was driven by the country&#8217;s people, because talent is the heart of the matter.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T07:19:51+00:00",
-        "link": "https://newsonair.gov.in/govt-reiterates-commitment-to-make-india-global-hub-for-ai-applications/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/G.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Uttarakhand becomes country’s sixth fully literate State",
-        "summary": "Uttarakhand has become the sixth fully literate State in the country after achieving the prescribed adult literacy benchmarks under the National Education Policy 2020 and the ULLAS &#8211; Understanding of Lifelong Learning for All in Society &#8211; New India Literacy Programme. &#160; The declaration was approved by the Governor on 8th July 2026, following the […]",
-        "article": "Uttarakhand has become the sixth fully literate State in the country after achieving the prescribed adult literacy benchmarks under the National Education Policy 2020 and the ULLAS &#8211; Understanding of Lifelong Learning for All in Society &#8211; New India Literacy Programme. &nbsp; The declaration was approved by the Governor on 8th July 2026, following the fulfilment of literacy standards laid down by the Department of School Education and Literacy under the Ministry of Education, Government of India. With this achievement, Uttarakhand joins Mizoram, Goa, Tripura, Himachal Pradesh and Sikkim on the list of fully literate States, marking a significant milestone in the State&#8217;s educational development. Chief Minister Pushkar Singh Dhami described the achievement as historic and said it reflects the sustained efforts of the government and the active participation of the people. He reaffirmed the State government&#8217;s commitment to promoting digital literacy, financial literacy, continuing education and life skills for all citizens and congratulated the people of Uttarakhand on the accomplishment.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T07:18:00+00:00",
-        "link": "https://newsonair.gov.in/uttarakhand-becomes-countrys-sixth-fully-literate-state/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/n.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -366,6 +366,39 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "India reiterates its commitment to support Afghanistan during Joint Committee Meeting",
+        "summary": "India and Afghanistan today reviewed the entire spectrum of bilateral relations, including cooperation in the fields of humanitarian assistance, development partnership, food security, healthcare, capacity building, education, sports, trade, visa and connectivity. The fourth round of India-Afghanistan Joint Committee Meeting was held in New Delhi today. It was co-chaired by Joint Secretary, Extern",
+        "article": "India and Afghanistan today reviewed the entire spectrum of bilateral relations, including cooperation in the fields of humanitarian assistance, development partnership, food security, healthcare, capacity building, education, sports, trade, visa and connectivity. The fourth round of India-Afghanistan Joint Committee Meeting was held in New Delhi today. It was co-chaired by Joint Secretary, External Affairs Ministry, M. Anand Prakash and Director General, First Political Division, Afghan Foreign Affairs Ministry, Shuaib Baryalai. External Affairs Ministry said in a statement that the Indian side reiterated its continued commitment to supporting the welfare and development needs of the Afghan people. The Afghan side appreciated India’s sustained support and cooperation across various sectors. Both sides reaffirmed the importance of maintaining regular consultations and agreed to remain in close contact.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T11:19:50+00:00",
+        "link": "https://newsonair.gov.in/india-reiterates-its-commitment-to-support-afghanistan-during-joint-committee-meeting/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Afghanistan.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Communication Minister hails DOT’s Samriddh Gram for winning ITU Global award",
+        "summary": "Communications Minister Jyotiraditya Scindia today hailed the Department of Telecommunications’ flagship Samriddh Gram: Integrated Phygital Service Delivery Model Enabled by Bharat Net project on being declared the Global Winner of the prestigious World Summit on the Information Society Prizes 2026. The initiative has been awarded under Action Line C6: Enabling Environment by the International Tel",
+        "article": "Communications Minister Jyotiraditya Scindia today hailed the Department of Telecommunications’ flagship Samriddh Gram: Integrated Phygital Service Delivery Model Enabled by Bharat Net project on being declared the Global Winner of the prestigious World Summit on the Information Society Prizes 2026. The initiative has been awarded under Action Line C6: Enabling Environment by the International Telecommunication Union. The Minister described the recognition as a proud moment for India and a global endorsement of Prime Minister Narendra Modi’s vision of a Viksit Bharat and an inclusive Digital India. Mr Scindia noted that the recognition is a testament to India’s growing leadership in Digital Public Infrastructure, inclusive connectivity and citizen-centric digital innovation. He said that Samriddh Gram is not merely about providing internet connectivity. He added, it is about converting digital connectivity into meaningful services and real opportunities for rural communities. Mr Scindia said that the project brings together healthcare, education, agriculture, digital banking, e-Governance, skilling and livelihood services through village-level Samriddhi Kendras by leveraging BharatNet fibre connectivity. The Minister underlined that the integrated phygital model combines the power of digital platforms with the trust and accessibility of physical service delivery at the village level. He further said, the model thus enables farmers to access modern agricultural services, students to benefit from digital learning, patients to consult specialist doctors remotely, citizens to avail government services, and local entrepreneurs to connect with wider markets, all within their own villages. The WSIS Prizes are among the world’s most prestigious recognitions for projects harnessing Information and Communication Technologies to advance sustainable development. Built on the Bharat Net backbone, Samriddh Gram establishes village-level Samriddhi Kendras as one-stop hubs delivering integrated citizen-centric services spanning healthcare, education, agriculture, financial inclusion, skilling, e-Governance, e-commerce and digital connectivity. The initiative demonstrates how robust telecom infrastructure can evolve beyond connectivity into measurable socio-economic transformation through an integrated service delivery model supported by local facilitation and community participation.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T11:09:31+00:00",
+        "link": "https://newsonair.gov.in/union-communication-minister-hails-dots-samriddh-gram-for-winning-itu-global-award/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Scindhyia.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt refutes false social media report claiming attack on LPG tanker heading to India",
+        "summary": "The Government has refuted a claim circulating on social media that an LPG tanker heading to India was hit in an Iranian missile strike. The Fact Check Unit of the Press Information Bureau (PIB) said that the claim is fake. The PIB said that the image being shared is old and relates to a […]",
+        "article": "The Government has refuted a claim circulating on social media that an LPG tanker heading to India was hit in an Iranian missile strike. The Fact Check Unit of the Press Information Bureau (PIB) said that the claim is fake. The PIB said that the image being shared is old and relates to a fire that broke out onboard the Cameroon-flagged LPG tanker MV Falcon, following an explosion, off the coast of Aden, Yemen last year. It has advised citizens to beware of propaganda accounts circulating misinformation to create panic among citizens.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T10:53:47+00:00",
+        "link": "https://newsonair.gov.in/govt-refutes-false-social-media-report-claiming-attack-on-lpg-tanker-heading-to-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/5.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Modi describes his recent visit as “hat-trick” reflecting growing India-Australia relations",
         "summary": "Prime Minister Narendra Modi has said that 21st-century India is working towards the goal of becoming a developed nation. Emphasising the country&#8217;s aspirations, the Prime Minister remarked that today&#8217;s India is a nation that believes in growing more and achieving more. Addressing a community event in Melbourne today, Mr. Modi recalled meeting members of the […]",
         "article": "Prime Minister Narendra Modi has said that 21st-century India is working towards the goal of becoming a developed nation. Emphasising the country&#8217;s aspirations, the Prime Minister remarked that today&#8217;s India is a nation that believes in growing more and achieving more. Addressing a community event in Melbourne today, Mr. Modi recalled meeting members of the Indian diaspora earlier in Sydney and said he had been looking forward to interacting with the people of Melbourne as well. The Prime Minister said that when he first visited Australia in 2014, it was after a gap of 28 years since the visit of an Indian Prime Minister. Mr Modi said that his current visit is his third to Australia in the last 12 years, describing it as a &#8220;hat-trick&#8221;, which, he said, reflects the growing strength and new heights of India-Australia relations. Highlighting the close ties between the two countries, Mr Modi noted that Ahmedabad, home to the world&#8217;s largest cricket stadium, and Melbourne, renowned for its iconic cricket ground, symbolise the shared sporting and cultural connection between India and Australia. He said Australian Prime Minister Anthony Albanese has won the hearts of the Indian community through his warmth and goodwill. Mr. Modi began his address by acknowledging the Traditional Owners of the land and paid respects to their Elders, past, present and emerging. Referring to the enthusiastic response from the audience, he described the event as &#8220;houseful&#8221; and a &#8220;blockbuster&#8221;. Addressing the gathering, Australian Prime Minister Anthony Albanese said the energy witnessed at the event reflects the strength of the Australia-India partnership. He said the enthusiasm and dynamism of the people of both countries continue to drive positivity and promise in bilateral relations.",
@@ -406,39 +439,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-09T07:53:47+00:00",
         "link": "https://newsonair.gov.in/hm-amit-shah-to-review-border-security-with-sps-from-border-districts/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/deccanherald_2025-01-17_bz7fthpt_Amit-Shah-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Vice President launches national initiative for sustainable utilisation of India’s high-seas fishery resources",
-        "summary": "Vice President C P Radhakrishnan today launched a landmark national initiative for the sustainable utilisation of India&#8217;s high-seas fishery resources at the Odisha University of Agriculture and Technology (OUAT) in Bhubaneswar. Calling the Blue Economy a transformative engine of national prosperity, he urged the youth to embrace modern, technology-driven fisheries and maritime professions as",
-        "article": "Vice President C P Radhakrishnan today launched a landmark national initiative for the sustainable utilisation of India&#8217;s high-seas fishery resources at the Odisha University of Agriculture and Technology (OUAT) in Bhubaneswar. Calling the Blue Economy a transformative engine of national prosperity, he urged the youth to embrace modern, technology-driven fisheries and maritime professions as a cornerstone of ‘Viksit Bharat’. India today marked a significant milestone in its maritime development with the launch of a landmark national initiative for the sustainable utilisation of high-seas fishery resources. Vice President CP Radhakrishnan inaugurated the national rollout of the Letters of Authorisation for Indian-flagged fishing vessels operating in distant waters, establishing a robust framework for responsible deep-sea fishing and marine resource conservation. He also unveiled the Odisha Deep Sea Fishing Mission Document, a strategic blueprint to strengthen the State&#8217;s deep-sea fishing ecosystem and expand the Blue Economy. Emphasising that India&#8217;s seafood exports have crossed 73 thousand crore rupees and now reach over 120 countries, the Vice President called for technology-driven fisheries through digital authorisation, vessel tracking and globally recognised certification standards. Urging young Indians to embrace fisheries as a modern, science-based profession with global opportunities, he said a vibrant Blue Economy would be a key driver of Viksit Bharat by 2047.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T07:32:45+00:00",
-        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-to-launch-high-seas-fisheries-initiative-in-odisha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMxSDiVaEAAAK2u.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt reiterates commitment to make India global hub for AI applications",
-        "summary": "The Government has reiterated its commitment to positioning India as the global hub for Artificial Intelligence applications and AI-driven solutions. Speaking at the inaugural session of the Confederation of Indian Industry’s Global Capacity Centres (GCCs) Business Summit 2026 in New Delhi today, Secretary in the Ministry of Electronics and Information Technology, S Krishnan, said […]",
-        "article": "The Government has reiterated its commitment to positioning India as the global hub for Artificial Intelligence applications and AI-driven solutions. Speaking at the inaugural session of the Confederation of Indian Industry’s Global Capacity Centres (GCCs) Business Summit 2026 in New Delhi today, Secretary in the Ministry of Electronics and Information Technology, S Krishnan, said the Government has viewed Artificial Intelligence with a positive and optimistic outlook from the very beginning. He said the focus has been on harnessing AI to enhance productivity, efficiency and effectiveness across a wide range of sectors. Mr Krishnan said the Government has been working on how India can adopt Artificial Intelligence effectively and contribute to the global AI ecosystem. He added that the vision has been to make India the application and AI-based solution capital of the world. Addressing the gathering, Chief Economic Advisor to the Government, Dr V Anantha Nageswaran, said that India now hosts around half of the Global Capacity Centres. He said this achievement was not by accident but was driven by the country&#8217;s people, because talent is the heart of the matter.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T07:19:51+00:00",
-        "link": "https://newsonair.gov.in/govt-reiterates-commitment-to-make-india-global-hub-for-ai-applications/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/G.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Uttarakhand becomes country’s sixth fully literate State",
-        "summary": "Uttarakhand has become the sixth fully literate State in the country after achieving the prescribed adult literacy benchmarks under the National Education Policy 2020 and the ULLAS &#8211; Understanding of Lifelong Learning for All in Society &#8211; New India Literacy Programme. &#160; The declaration was approved by the Governor on 8th July 2026, following the […]",
-        "article": "Uttarakhand has become the sixth fully literate State in the country after achieving the prescribed adult literacy benchmarks under the National Education Policy 2020 and the ULLAS &#8211; Understanding of Lifelong Learning for All in Society &#8211; New India Literacy Programme. &nbsp; The declaration was approved by the Governor on 8th July 2026, following the fulfilment of literacy standards laid down by the Department of School Education and Literacy under the Ministry of Education, Government of India. With this achievement, Uttarakhand joins Mizoram, Goa, Tripura, Himachal Pradesh and Sikkim on the list of fully literate States, marking a significant milestone in the State&#8217;s educational development. Chief Minister Pushkar Singh Dhami described the achievement as historic and said it reflects the sustained efforts of the government and the active participation of the people. He reaffirmed the State government&#8217;s commitment to promoting digital literacy, financial literacy, continuing education and life skills for all citizens and congratulated the people of Uttarakhand on the accomplishment.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T07:18:00+00:00",
-        "link": "https://newsonair.gov.in/uttarakhand-becomes-countrys-sixth-fully-literate-state/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/n.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1031,6 +1031,28 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "भारत आ रहे एलपीजी टैंकर पर ईरान के हमले वाले दावे से जुड़ी खबर का सरकार ने किया खंडन",
+        "summary": "सरकार ने सोशल मीडिया पर उस दावे का खंडन किया है जिसमें भारत आ रहे एक एलपीजी टैंकर पर ईरान के मिसाइल हमले की बात कही गई है। पत्र सूचना कार्यालय की तथ्‍य जांच इकाई ने इस दावे को झूठा बताते हुए कहा कि साझा की जा रही तस्वीर पिछले साल यमन के अदन तट […]",
+        "article": "सरकार ने सोशल मीडिया पर उस दावे का खंडन किया है जिसमें भारत आ रहे एक एलपीजी टैंकर पर ईरान के मिसाइल हमले की बात कही गई है। पत्र सूचना कार्यालय की तथ्&#x200d;य जांच इकाई ने इस दावे को झूठा बताते हुए कहा कि साझा की जा रही तस्वीर पिछले साल यमन के अदन तट के पास कैमरून के झंडे वाले एलपीजी टैंकर एमवी फाल्कन में हुए विस्फोट के बाद लगी आग से संबंधित है। पीआईबी ने नागरिकों को गलत सूचना फैलाने वाले ऐसे दावों से सावधान रहने को कहा है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T10:48:52+00:00",
+        "link": "https://newsonair.gov.in/hi/the-government-has-denied-reports-claiming-that-iran-attacked-an-lpg-tanker-coming-to-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pib.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "21वीं सदी का भारत एक विकसित राष्ट्र बनने के लक्ष्य की ओर बढ़ रहा है: प्रधानमंत्री मोदी",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि 21वीं सदी का भारत एक विकसित राष्ट्र बनने के लक्ष्य की ओर बढ़ रहा है। देश की आकांक्षाओं का उल्‍लेख करते हुए प्रधानमंत्री ने कहा कि आज का भारत जो अधिक विकास और अधिक उपलब्धियां हासिल करने में विश्वास रखता है। ऑस्‍ट्रेलिया के मेलबर्न में आज प्रवासी भारतीय […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि 21वीं सदी का भारत एक विकसित राष्ट्र बनने के लक्ष्य की ओर बढ़ रहा है। देश की आकांक्षाओं का उल्&#x200d;लेख करते हुए प्रधानमंत्री ने कहा कि आज का भारत जो अधिक विकास और अधिक उपलब्धियां हासिल करने में विश्वास रखता है। ऑस्&#x200d;ट्रेलिया के मेलबर्न में आज प्रवासी भारतीय समुदाय के एक कार्यक्रम में श्री मोदी ने सिडनी में प्रवासी भारतीयों से हुई मुलाकात को याद करते हुए कहा कि वे मेलबर्न के लोगों से भी बातचीत करने के लिए उत्सुक थे। प्रधानमंत्री ने कहा कि जब उन्होंने 2014 में पहली बार ऑस्ट्रेलिया का दौरा किया था, तब वह किसी भारतीय प्रधानमंत्री की 28 वर्ष बाद ऑस्ट्रेलिया यात्रा थी। श्री मोदी ने कहा कि पिछले 12 वर्षों में ऑस्ट्रेलिया की यह उनकी तीसरी यात्रा है, जो भारत-ऑस्ट्रेलिया के मजबूत होते संबंधों को दर्शाती है। दोनों देशों के घनिष्ठ संबंधों का उल्&#x200d;लेख करते हुए श्री मोदी ने कहा कि विश्व के सबसे बड़े क्रिकेट स्टेडियम वाले अहमदाबाद और अपने प्रतिष्ठित क्रिकेट मैदान के लिए प्रसिद्ध मेलबर्न, भारत और ऑस्ट्रेलिया के बीच साझा खेल और सांस्कृतिक जुड़ाव के प्रतीक हैं। उन्होंने कहा कि ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ ने अपनी गर्मजोशी और सद्भावना से भारतीय समुदाय का दिल जीत लिया है। ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ ने इस अवसर पर कहा कि कार्यक्रम में दिखाई देने वाली ऊर्जा ऑस्ट्रेलिया-भारत साझेदारी की मजबूती को दर्शाती है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T10:36:29+00:00",
+        "link": "https://newsonair.gov.in/hi/21st-century-india-is-moving-towards-the-goal-of-becoming-a-developed-nation-pm-modi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/मोदी.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "भारत और ऑस्ट्रेलिया ने यूरेनियम आपूर्ति और समर्पित महत्वपूर्ण खनिज गलियारे पर ऐतिहासिक समझौतों पर हस्ताक्षर किए",
         "summary": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के बीच आज मेलबर्न में तीसरी ऑस्ट्रेलिया-भारत वार्षिक शिखर वार्ता हुई। इस दौरान दोनों नेताओं ने प्रतिनिधिमंडल स्तर की वार्ता कर द्विपक्षीय संबंधों को और सशक्त बनाने पर चर्चा की। शिखर सम्मेलन के समापन के बाद विक्टोरिया के गवर्नमेंट हाउस में दोनों प्रधानमंत्रियों ने संयुक्त वक्तव्य […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के बीच आज मेलबर्न में तीसरी ऑस्ट्रेलिया-भारत वार्षिक शिखर वार्ता हुई। इस दौरान दोनों नेताओं ने प्रतिनिधिमंडल स्तर की वार्ता कर द्विपक्षीय संबंधों को और सशक्त बनाने पर चर्चा की। शिखर सम्मेलन के समापन के बाद विक्टोरिया के गवर्नमेंट हाउस में दोनों प्रधानमंत्रियों ने संयुक्त वक्तव्य जारी किया। दोनों नेताओं ने द्विपक्षीय संबंधों में आए परिवर्तनकारी महत्वपूर्ण बदलाव का स्वागत करते हुए क्षेत्रीय स्थिरता, ऊर्जा सुरक्षा और प्रौद्योगिकी नवाचार के लिए व्यापक सहयोग ढांचे को अंतिम रूप दिया। हिंद-प्रशांत क्षेत्र में शांति और स्थिरता सुनिश्चित करने के उद्देश्य से दोनों देशों ने रक्षा और सुरक्षा सहयोग पर ऐतिहासिक संयुक्त घोषणा पर हस्ताक्षर किए, वार्षिक रक्षा मंत्रियों के संवाद को संस्थागत स्वरूप प्रदान किया तथा समुद्री सुरक्षा सहयोग रोडमैप का शुभारंभ किया। प्रधानमंत्री मोदी ने भारत और ऑस्ट्रेलिया को &#8220;जीवंत लोकतंत्र और महत्वपूर्ण समुद्री शक्तियां&#8221; बताते हुए कहा कि हिंद-प्रशांत केवल दो महासागरों का संगम नहीं, बल्कि भारत और ऑस्ट्रेलिया जैसे समान विचारधारा वाले लोकतांत्रिक देशों की साझा आकांक्षाओं का प्रतीक है। संवाददाताओं को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि दोनों देशों के संबंध गहरे पारस्परिक विश्वास के आधार पर एक नए और व्यापक युग में प्रवेश कर चुके हैं। शिखर सम्मेलन की प्रमुख उपलब्धियों में आर्थिक और व्यापारिक सहयोग को नई गति देना शामिल रहा। वर्ष 2022 के आर्थिक सहयोग और व्यापार समझौते की सफलता के आधार पर दोनों देशों ने संतुलित, महत्वाकांक्षी और पारस्परिक रूप से लाभकारी व्यापक आर्थिक सहयोग समझौते तथा द्विपक्षीय निवेश संधि को शीघ्र अंतिम रूप देने पर सहमति व्यक्त की। ऊर्जा सुरक्षा के क्षेत्र में एक महत्वपूर्ण उपलब्धि के रूप में भारत को दीर्घकालिक ऑस्ट्रेलियाई यूरेनियम आपूर्ति का मार्ग प्रशस्त करने वाले एक महत्&#x200d;वपूर्ण समझौते पर हस्ताक्षर किए गए, जिससे भारत के स्वच्छ ऊर्जा लक्ष्यों को नई मजबूती मिलेगी। यह दोनों देशों की नवीकरणीय ऊर्जा साझेदारी का भी विस्तार है, जिसके तहत गुजरात में महिलाओं और युवाओं को सशक्त बनाने के उद्देश्य से संयुक्त रूप से रूफटॉप सोलर ट्रेनिंग अकादमी की स्थापना की गई है। रणनीतिक प्रौद्योगिकी और संसाधन सुरक्षा के क्षेत्र में भी उल्लेखनीय प्रगति हुई है। इसके तहत ऑस्ट्रेलिया-भारत साइबर, क्रिटिकल टेक्नोलॉजीज़ और सप्लाई चेन साझेदारी को क्रियान्वित किया गया तथा क्रिटिकल मिनरल्स कॉरिडोर की स्थापना की गई। आर्थिक सहयोग के क्षेत्र में एक अन्य महत्वपूर्ण उपलब्धि के रूप में परमाणु सहयोग समझौते के अंतर्गत अंतिम प्रशासनिक व्यवस्था पर हस्ताक्षर किए गए, जिससे भारत की स्वच्छ ऊर्जा परिवर्तन यात्रा के लिए ऑस्ट्रेलिया से दीर्घकालिक यूरेनियम निर्यात का मार्ग प्रशस्त होगा। शिक्षा के क्षेत्र में भी दोनों देशों के सहयोग को नई ऊँचाइयाँ मिली हैं। इसके तहत ऑस्ट्रेलिया विश्वविद्यालयों की नई शाखाए बेंगलुरु और गुरुग्राम में स्थापित की जाएंगी। प्रधानमंत्री एंथनी अल्बनीज़ ने कहा कि इस भविष्य-उन्मुख भारत-ऑस्ट्रेलिया साझेदारी का सबसे मजबूत आधार दोनों देशों के बीच सेतु का कार्य करने वाला जीवंत भारतीय प्रवासी समुदाय है।",
@@ -1115,28 +1137,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-09T07:48:24+00:00",
         "link": "https://newsonair.gov.in/hi/the-government-distributed-22-lakh-agricultural-machines-to-farmers-under-the-sub-mission-on-agricultural-mechanization/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMxSiWyakAAm5-M.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "रेल मंत्री अश्विनी वैष्णव ने पुणे-मुंबई घाट में रेलवे बहाली के काम की समीक्षा की",
-        "summary": "रेल मंत्री अश्विनी वैष्णव ने आज पुणे-मुंबई घाट में रेलवे बहाली के काम की समीक्षा की। भूस्खलन भीषण था और रेलवे लाइन के साथ-साथ आसपास के क्षेत्रों को भी भारी नुकसान हुआ है। मध्य रेलवे और पश्चिमी रेलवे की टीमें समन्वय से काम कर रही हैं। श्री वैष्णव ने बताया कि एक लाइन बहाल कर […]",
-        "article": "रेल मंत्री अश्विनी वैष्णव ने आज पुणे-मुंबई घाट में रेलवे बहाली के काम की समीक्षा की। भूस्खलन भीषण था और रेलवे लाइन के साथ-साथ आसपास के क्षेत्रों को भी भारी नुकसान हुआ है। मध्य रेलवे और पश्चिमी रेलवे की टीमें समन्वय से काम कर रही हैं। श्री वैष्णव ने बताया कि एक लाइन बहाल कर दी गई है और रेलवे ने इस लाइन पर सभी ट्रेनों को दो इंजनों के साथ चलाने का निर्णय लिया है। उन्होंने कहा कि टीमें जिला अधिकारियों और वन विभाग के साथ समन्वय कर रही हैं।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T07:41:20+00:00",
-        "link": "https://newsonair.gov.in/hi/railway-minister-ashwini-vaishnaw-reviewed-the-railway-restoration-work-in-the-pune-mumbai-ghat-section/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PPPPPPPPP.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी",
-        "summary": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी है। उन्होंने कहा कि राष्ट्रप्रथम की भावना से प्रेरित अखिल भारतीय विद्यार्थी परिषद दशकों से विद्यार्थियों को राष्ट्रीय सेवा, नेतृत्व और सामाजिक जिम्मेदारी के लिए प्रेरित करती आ रही है। सोशल मीडिया पोस्ट में श्री सिंह ने […]",
-        "article": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी है। उन्होंने कहा कि राष्ट्रप्रथम की भावना से प्रेरित अखिल भारतीय विद्यार्थी परिषद दशकों से विद्यार्थियों को राष्ट्रीय सेवा, नेतृत्व और सामाजिक जिम्मेदारी के लिए प्रेरित करती आ रही है। सोशल मीडिया पोस्ट में श्री सिंह ने कहा कि इस संगठन ने राष्ट्रवादी विचारों, भारतीय संस्कृति, राष्ट्रीय एकता और सामाजिक चेतना को मजबूत करने में महत्वपूर्ण भूमिका निभाई है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T06:12:43+00:00",
-        "link": "https://newsonair.gov.in/hi/defence-minister-rajnath-singh-congratulated-all-students-on-the-foundation-day-of-the-akhil-bharatiya-vidyarthi-parishad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Rajnath-Singh-2.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1165,6 +1165,28 @@ window.VM_NEWS = {
     ],
     "breaking": [
       {
+        "title": "भारत आ रहे एलपीजी टैंकर पर ईरान के हमले वाले दावे से जुड़ी खबर का सरकार ने किया खंडन",
+        "summary": "सरकार ने सोशल मीडिया पर उस दावे का खंडन किया है जिसमें भारत आ रहे एक एलपीजी टैंकर पर ईरान के मिसाइल हमले की बात कही गई है। पत्र सूचना कार्यालय की तथ्‍य जांच इकाई ने इस दावे को झूठा बताते हुए कहा कि साझा की जा रही तस्वीर पिछले साल यमन के अदन तट […]",
+        "article": "सरकार ने सोशल मीडिया पर उस दावे का खंडन किया है जिसमें भारत आ रहे एक एलपीजी टैंकर पर ईरान के मिसाइल हमले की बात कही गई है। पत्र सूचना कार्यालय की तथ्&#x200d;य जांच इकाई ने इस दावे को झूठा बताते हुए कहा कि साझा की जा रही तस्वीर पिछले साल यमन के अदन तट के पास कैमरून के झंडे वाले एलपीजी टैंकर एमवी फाल्कन में हुए विस्फोट के बाद लगी आग से संबंधित है। पीआईबी ने नागरिकों को गलत सूचना फैलाने वाले ऐसे दावों से सावधान रहने को कहा है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T10:48:52+00:00",
+        "link": "https://newsonair.gov.in/hi/the-government-has-denied-reports-claiming-that-iran-attacked-an-lpg-tanker-coming-to-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pib.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "21वीं सदी का भारत एक विकसित राष्ट्र बनने के लक्ष्य की ओर बढ़ रहा है: प्रधानमंत्री मोदी",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि 21वीं सदी का भारत एक विकसित राष्ट्र बनने के लक्ष्य की ओर बढ़ रहा है। देश की आकांक्षाओं का उल्‍लेख करते हुए प्रधानमंत्री ने कहा कि आज का भारत जो अधिक विकास और अधिक उपलब्धियां हासिल करने में विश्वास रखता है। ऑस्‍ट्रेलिया के मेलबर्न में आज प्रवासी भारतीय […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि 21वीं सदी का भारत एक विकसित राष्ट्र बनने के लक्ष्य की ओर बढ़ रहा है। देश की आकांक्षाओं का उल्&#x200d;लेख करते हुए प्रधानमंत्री ने कहा कि आज का भारत जो अधिक विकास और अधिक उपलब्धियां हासिल करने में विश्वास रखता है। ऑस्&#x200d;ट्रेलिया के मेलबर्न में आज प्रवासी भारतीय समुदाय के एक कार्यक्रम में श्री मोदी ने सिडनी में प्रवासी भारतीयों से हुई मुलाकात को याद करते हुए कहा कि वे मेलबर्न के लोगों से भी बातचीत करने के लिए उत्सुक थे। प्रधानमंत्री ने कहा कि जब उन्होंने 2014 में पहली बार ऑस्ट्रेलिया का दौरा किया था, तब वह किसी भारतीय प्रधानमंत्री की 28 वर्ष बाद ऑस्ट्रेलिया यात्रा थी। श्री मोदी ने कहा कि पिछले 12 वर्षों में ऑस्ट्रेलिया की यह उनकी तीसरी यात्रा है, जो भारत-ऑस्ट्रेलिया के मजबूत होते संबंधों को दर्शाती है। दोनों देशों के घनिष्ठ संबंधों का उल्&#x200d;लेख करते हुए श्री मोदी ने कहा कि विश्व के सबसे बड़े क्रिकेट स्टेडियम वाले अहमदाबाद और अपने प्रतिष्ठित क्रिकेट मैदान के लिए प्रसिद्ध मेलबर्न, भारत और ऑस्ट्रेलिया के बीच साझा खेल और सांस्कृतिक जुड़ाव के प्रतीक हैं। उन्होंने कहा कि ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ ने अपनी गर्मजोशी और सद्भावना से भारतीय समुदाय का दिल जीत लिया है। ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ ने इस अवसर पर कहा कि कार्यक्रम में दिखाई देने वाली ऊर्जा ऑस्ट्रेलिया-भारत साझेदारी की मजबूती को दर्शाती है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T10:36:29+00:00",
+        "link": "https://newsonair.gov.in/hi/21st-century-india-is-moving-towards-the-goal-of-becoming-a-developed-nation-pm-modi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/मोदी.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "भारत और ऑस्ट्रेलिया ने यूरेनियम आपूर्ति और समर्पित महत्वपूर्ण खनिज गलियारे पर ऐतिहासिक समझौतों पर हस्ताक्षर किए",
         "summary": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के बीच आज मेलबर्न में तीसरी ऑस्ट्रेलिया-भारत वार्षिक शिखर वार्ता हुई। इस दौरान दोनों नेताओं ने प्रतिनिधिमंडल स्तर की वार्ता कर द्विपक्षीय संबंधों को और सशक्त बनाने पर चर्चा की। शिखर सम्मेलन के समापन के बाद विक्टोरिया के गवर्नमेंट हाउस में दोनों प्रधानमंत्रियों ने संयुक्त वक्तव्य […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के बीच आज मेलबर्न में तीसरी ऑस्ट्रेलिया-भारत वार्षिक शिखर वार्ता हुई। इस दौरान दोनों नेताओं ने प्रतिनिधिमंडल स्तर की वार्ता कर द्विपक्षीय संबंधों को और सशक्त बनाने पर चर्चा की। शिखर सम्मेलन के समापन के बाद विक्टोरिया के गवर्नमेंट हाउस में दोनों प्रधानमंत्रियों ने संयुक्त वक्तव्य जारी किया। दोनों नेताओं ने द्विपक्षीय संबंधों में आए परिवर्तनकारी महत्वपूर्ण बदलाव का स्वागत करते हुए क्षेत्रीय स्थिरता, ऊर्जा सुरक्षा और प्रौद्योगिकी नवाचार के लिए व्यापक सहयोग ढांचे को अंतिम रूप दिया। हिंद-प्रशांत क्षेत्र में शांति और स्थिरता सुनिश्चित करने के उद्देश्य से दोनों देशों ने रक्षा और सुरक्षा सहयोग पर ऐतिहासिक संयुक्त घोषणा पर हस्ताक्षर किए, वार्षिक रक्षा मंत्रियों के संवाद को संस्थागत स्वरूप प्रदान किया तथा समुद्री सुरक्षा सहयोग रोडमैप का शुभारंभ किया। प्रधानमंत्री मोदी ने भारत और ऑस्ट्रेलिया को &#8220;जीवंत लोकतंत्र और महत्वपूर्ण समुद्री शक्तियां&#8221; बताते हुए कहा कि हिंद-प्रशांत केवल दो महासागरों का संगम नहीं, बल्कि भारत और ऑस्ट्रेलिया जैसे समान विचारधारा वाले लोकतांत्रिक देशों की साझा आकांक्षाओं का प्रतीक है। संवाददाताओं को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि दोनों देशों के संबंध गहरे पारस्परिक विश्वास के आधार पर एक नए और व्यापक युग में प्रवेश कर चुके हैं। शिखर सम्मेलन की प्रमुख उपलब्धियों में आर्थिक और व्यापारिक सहयोग को नई गति देना शामिल रहा। वर्ष 2022 के आर्थिक सहयोग और व्यापार समझौते की सफलता के आधार पर दोनों देशों ने संतुलित, महत्वाकांक्षी और पारस्परिक रूप से लाभकारी व्यापक आर्थिक सहयोग समझौते तथा द्विपक्षीय निवेश संधि को शीघ्र अंतिम रूप देने पर सहमति व्यक्त की। ऊर्जा सुरक्षा के क्षेत्र में एक महत्वपूर्ण उपलब्धि के रूप में भारत को दीर्घकालिक ऑस्ट्रेलियाई यूरेनियम आपूर्ति का मार्ग प्रशस्त करने वाले एक महत्&#x200d;वपूर्ण समझौते पर हस्ताक्षर किए गए, जिससे भारत के स्वच्छ ऊर्जा लक्ष्यों को नई मजबूती मिलेगी। यह दोनों देशों की नवीकरणीय ऊर्जा साझेदारी का भी विस्तार है, जिसके तहत गुजरात में महिलाओं और युवाओं को सशक्त बनाने के उद्देश्य से संयुक्त रूप से रूफटॉप सोलर ट्रेनिंग अकादमी की स्थापना की गई है। रणनीतिक प्रौद्योगिकी और संसाधन सुरक्षा के क्षेत्र में भी उल्लेखनीय प्रगति हुई है। इसके तहत ऑस्ट्रेलिया-भारत साइबर, क्रिटिकल टेक्नोलॉजीज़ और सप्लाई चेन साझेदारी को क्रियान्वित किया गया तथा क्रिटिकल मिनरल्स कॉरिडोर की स्थापना की गई। आर्थिक सहयोग के क्षेत्र में एक अन्य महत्वपूर्ण उपलब्धि के रूप में परमाणु सहयोग समझौते के अंतर्गत अंतिम प्रशासनिक व्यवस्था पर हस्ताक्षर किए गए, जिससे भारत की स्वच्छ ऊर्जा परिवर्तन यात्रा के लिए ऑस्ट्रेलिया से दीर्घकालिक यूरेनियम निर्यात का मार्ग प्रशस्त होगा। शिक्षा के क्षेत्र में भी दोनों देशों के सहयोग को नई ऊँचाइयाँ मिली हैं। इसके तहत ऑस्ट्रेलिया विश्वविद्यालयों की नई शाखाए बेंगलुरु और गुरुग्राम में स्थापित की जाएंगी। प्रधानमंत्री एंथनी अल्बनीज़ ने कहा कि इस भविष्य-उन्मुख भारत-ऑस्ट्रेलिया साझेदारी का सबसे मजबूत आधार दोनों देशों के बीच सेतु का कार्य करने वाला जीवंत भारतीय प्रवासी समुदाय है।",
@@ -1249,34 +1271,34 @@ window.VM_NEWS = {
         "pubDate": "2026-07-09T07:48:24+00:00",
         "link": "https://newsonair.gov.in/hi/the-government-distributed-22-lakh-agricultural-machines-to-farmers-under-the-sub-mission-on-agricultural-mechanization/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMxSiWyakAAm5-M.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "रेल मंत्री अश्विनी वैष्णव ने पुणे-मुंबई घाट में रेलवे बहाली के काम की समीक्षा की",
-        "summary": "रेल मंत्री अश्विनी वैष्णव ने आज पुणे-मुंबई घाट में रेलवे बहाली के काम की समीक्षा की। भूस्खलन भीषण था और रेलवे लाइन के साथ-साथ आसपास के क्षेत्रों को भी भारी नुकसान हुआ है। मध्य रेलवे और पश्चिमी रेलवे की टीमें समन्वय से काम कर रही हैं। श्री वैष्णव ने बताया कि एक लाइन बहाल कर […]",
-        "article": "रेल मंत्री अश्विनी वैष्णव ने आज पुणे-मुंबई घाट में रेलवे बहाली के काम की समीक्षा की। भूस्खलन भीषण था और रेलवे लाइन के साथ-साथ आसपास के क्षेत्रों को भी भारी नुकसान हुआ है। मध्य रेलवे और पश्चिमी रेलवे की टीमें समन्वय से काम कर रही हैं। श्री वैष्णव ने बताया कि एक लाइन बहाल कर दी गई है और रेलवे ने इस लाइन पर सभी ट्रेनों को दो इंजनों के साथ चलाने का निर्णय लिया है। उन्होंने कहा कि टीमें जिला अधिकारियों और वन विभाग के साथ समन्वय कर रही हैं।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T07:41:20+00:00",
-        "link": "https://newsonair.gov.in/hi/railway-minister-ashwini-vaishnaw-reviewed-the-railway-restoration-work-in-the-pune-mumbai-ghat-section/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PPPPPPPPP.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी",
-        "summary": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी है। उन्होंने कहा कि राष्ट्रप्रथम की भावना से प्रेरित अखिल भारतीय विद्यार्थी परिषद दशकों से विद्यार्थियों को राष्ट्रीय सेवा, नेतृत्व और सामाजिक जिम्मेदारी के लिए प्रेरित करती आ रही है। सोशल मीडिया पोस्ट में श्री सिंह ने […]",
-        "article": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी है। उन्होंने कहा कि राष्ट्रप्रथम की भावना से प्रेरित अखिल भारतीय विद्यार्थी परिषद दशकों से विद्यार्थियों को राष्ट्रीय सेवा, नेतृत्व और सामाजिक जिम्मेदारी के लिए प्रेरित करती आ रही है। सोशल मीडिया पोस्ट में श्री सिंह ने कहा कि इस संगठन ने राष्ट्रवादी विचारों, भारतीय संस्कृति, राष्ट्रीय एकता और सामाजिक चेतना को मजबूत करने में महत्वपूर्ण भूमिका निभाई है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T06:12:43+00:00",
-        "link": "https://newsonair.gov.in/hi/defence-minister-rajnath-singh-congratulated-all-students-on-the-foundation-day-of-the-akhil-bharatiya-vidyarthi-parishad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Rajnath-Singh-2.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "भारत आ रहे एलपीजी टैंकर पर ईरान के हमले वाले दावे से जुड़ी खबर का सरकार ने किया खंडन",
+        "summary": "सरकार ने सोशल मीडिया पर उस दावे का खंडन किया है जिसमें भारत आ रहे एक एलपीजी टैंकर पर ईरान के मिसाइल हमले की बात कही गई है। पत्र सूचना कार्यालय की तथ्‍य जांच इकाई ने इस दावे को झूठा बताते हुए कहा कि साझा की जा रही तस्वीर पिछले साल यमन के अदन तट […]",
+        "article": "सरकार ने सोशल मीडिया पर उस दावे का खंडन किया है जिसमें भारत आ रहे एक एलपीजी टैंकर पर ईरान के मिसाइल हमले की बात कही गई है। पत्र सूचना कार्यालय की तथ्&#x200d;य जांच इकाई ने इस दावे को झूठा बताते हुए कहा कि साझा की जा रही तस्वीर पिछले साल यमन के अदन तट के पास कैमरून के झंडे वाले एलपीजी टैंकर एमवी फाल्कन में हुए विस्फोट के बाद लगी आग से संबंधित है। पीआईबी ने नागरिकों को गलत सूचना फैलाने वाले ऐसे दावों से सावधान रहने को कहा है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T10:48:52+00:00",
+        "link": "https://newsonair.gov.in/hi/the-government-has-denied-reports-claiming-that-iran-attacked-an-lpg-tanker-coming-to-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pib.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "21वीं सदी का भारत एक विकसित राष्ट्र बनने के लक्ष्य की ओर बढ़ रहा है: प्रधानमंत्री मोदी",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि 21वीं सदी का भारत एक विकसित राष्ट्र बनने के लक्ष्य की ओर बढ़ रहा है। देश की आकांक्षाओं का उल्‍लेख करते हुए प्रधानमंत्री ने कहा कि आज का भारत जो अधिक विकास और अधिक उपलब्धियां हासिल करने में विश्वास रखता है। ऑस्‍ट्रेलिया के मेलबर्न में आज प्रवासी भारतीय […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि 21वीं सदी का भारत एक विकसित राष्ट्र बनने के लक्ष्य की ओर बढ़ रहा है। देश की आकांक्षाओं का उल्&#x200d;लेख करते हुए प्रधानमंत्री ने कहा कि आज का भारत जो अधिक विकास और अधिक उपलब्धियां हासिल करने में विश्वास रखता है। ऑस्&#x200d;ट्रेलिया के मेलबर्न में आज प्रवासी भारतीय समुदाय के एक कार्यक्रम में श्री मोदी ने सिडनी में प्रवासी भारतीयों से हुई मुलाकात को याद करते हुए कहा कि वे मेलबर्न के लोगों से भी बातचीत करने के लिए उत्सुक थे। प्रधानमंत्री ने कहा कि जब उन्होंने 2014 में पहली बार ऑस्ट्रेलिया का दौरा किया था, तब वह किसी भारतीय प्रधानमंत्री की 28 वर्ष बाद ऑस्ट्रेलिया यात्रा थी। श्री मोदी ने कहा कि पिछले 12 वर्षों में ऑस्ट्रेलिया की यह उनकी तीसरी यात्रा है, जो भारत-ऑस्ट्रेलिया के मजबूत होते संबंधों को दर्शाती है। दोनों देशों के घनिष्ठ संबंधों का उल्&#x200d;लेख करते हुए श्री मोदी ने कहा कि विश्व के सबसे बड़े क्रिकेट स्टेडियम वाले अहमदाबाद और अपने प्रतिष्ठित क्रिकेट मैदान के लिए प्रसिद्ध मेलबर्न, भारत और ऑस्ट्रेलिया के बीच साझा खेल और सांस्कृतिक जुड़ाव के प्रतीक हैं। उन्होंने कहा कि ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ ने अपनी गर्मजोशी और सद्भावना से भारतीय समुदाय का दिल जीत लिया है। ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ ने इस अवसर पर कहा कि कार्यक्रम में दिखाई देने वाली ऊर्जा ऑस्ट्रेलिया-भारत साझेदारी की मजबूती को दर्शाती है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T10:36:29+00:00",
+        "link": "https://newsonair.gov.in/hi/21st-century-india-is-moving-towards-the-goal-of-becoming-a-developed-nation-pm-modi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/मोदी.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "भारत और ऑस्ट्रेलिया ने यूरेनियम आपूर्ति और समर्पित महत्वपूर्ण खनिज गलियारे पर ऐतिहासिक समझौतों पर हस्ताक्षर किए",
         "summary": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के बीच आज मेलबर्न में तीसरी ऑस्ट्रेलिया-भारत वार्षिक शिखर वार्ता हुई। इस दौरान दोनों नेताओं ने प्रतिनिधिमंडल स्तर की वार्ता कर द्विपक्षीय संबंधों को और सशक्त बनाने पर चर्चा की। शिखर सम्मेलन के समापन के बाद विक्टोरिया के गवर्नमेंट हाउस में दोनों प्रधानमंत्रियों ने संयुक्त वक्तव्य […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के बीच आज मेलबर्न में तीसरी ऑस्ट्रेलिया-भारत वार्षिक शिखर वार्ता हुई। इस दौरान दोनों नेताओं ने प्रतिनिधिमंडल स्तर की वार्ता कर द्विपक्षीय संबंधों को और सशक्त बनाने पर चर्चा की। शिखर सम्मेलन के समापन के बाद विक्टोरिया के गवर्नमेंट हाउस में दोनों प्रधानमंत्रियों ने संयुक्त वक्तव्य जारी किया। दोनों नेताओं ने द्विपक्षीय संबंधों में आए परिवर्तनकारी महत्वपूर्ण बदलाव का स्वागत करते हुए क्षेत्रीय स्थिरता, ऊर्जा सुरक्षा और प्रौद्योगिकी नवाचार के लिए व्यापक सहयोग ढांचे को अंतिम रूप दिया। हिंद-प्रशांत क्षेत्र में शांति और स्थिरता सुनिश्चित करने के उद्देश्य से दोनों देशों ने रक्षा और सुरक्षा सहयोग पर ऐतिहासिक संयुक्त घोषणा पर हस्ताक्षर किए, वार्षिक रक्षा मंत्रियों के संवाद को संस्थागत स्वरूप प्रदान किया तथा समुद्री सुरक्षा सहयोग रोडमैप का शुभारंभ किया। प्रधानमंत्री मोदी ने भारत और ऑस्ट्रेलिया को &#8220;जीवंत लोकतंत्र और महत्वपूर्ण समुद्री शक्तियां&#8221; बताते हुए कहा कि हिंद-प्रशांत केवल दो महासागरों का संगम नहीं, बल्कि भारत और ऑस्ट्रेलिया जैसे समान विचारधारा वाले लोकतांत्रिक देशों की साझा आकांक्षाओं का प्रतीक है। संवाददाताओं को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि दोनों देशों के संबंध गहरे पारस्परिक विश्वास के आधार पर एक नए और व्यापक युग में प्रवेश कर चुके हैं। शिखर सम्मेलन की प्रमुख उपलब्धियों में आर्थिक और व्यापारिक सहयोग को नई गति देना शामिल रहा। वर्ष 2022 के आर्थिक सहयोग और व्यापार समझौते की सफलता के आधार पर दोनों देशों ने संतुलित, महत्वाकांक्षी और पारस्परिक रूप से लाभकारी व्यापक आर्थिक सहयोग समझौते तथा द्विपक्षीय निवेश संधि को शीघ्र अंतिम रूप देने पर सहमति व्यक्त की। ऊर्जा सुरक्षा के क्षेत्र में एक महत्वपूर्ण उपलब्धि के रूप में भारत को दीर्घकालिक ऑस्ट्रेलियाई यूरेनियम आपूर्ति का मार्ग प्रशस्त करने वाले एक महत्&#x200d;वपूर्ण समझौते पर हस्ताक्षर किए गए, जिससे भारत के स्वच्छ ऊर्जा लक्ष्यों को नई मजबूती मिलेगी। यह दोनों देशों की नवीकरणीय ऊर्जा साझेदारी का भी विस्तार है, जिसके तहत गुजरात में महिलाओं और युवाओं को सशक्त बनाने के उद्देश्य से संयुक्त रूप से रूफटॉप सोलर ट्रेनिंग अकादमी की स्थापना की गई है। रणनीतिक प्रौद्योगिकी और संसाधन सुरक्षा के क्षेत्र में भी उल्लेखनीय प्रगति हुई है। इसके तहत ऑस्ट्रेलिया-भारत साइबर, क्रिटिकल टेक्नोलॉजीज़ और सप्लाई चेन साझेदारी को क्रियान्वित किया गया तथा क्रिटिकल मिनरल्स कॉरिडोर की स्थापना की गई। आर्थिक सहयोग के क्षेत्र में एक अन्य महत्वपूर्ण उपलब्धि के रूप में परमाणु सहयोग समझौते के अंतर्गत अंतिम प्रशासनिक व्यवस्था पर हस्ताक्षर किए गए, जिससे भारत की स्वच्छ ऊर्जा परिवर्तन यात्रा के लिए ऑस्ट्रेलिया से दीर्घकालिक यूरेनियम निर्यात का मार्ग प्रशस्त होगा। शिक्षा के क्षेत्र में भी दोनों देशों के सहयोग को नई ऊँचाइयाँ मिली हैं। इसके तहत ऑस्ट्रेलिया विश्वविद्यालयों की नई शाखाए बेंगलुरु और गुरुग्राम में स्थापित की जाएंगी। प्रधानमंत्री एंथनी अल्बनीज़ ने कहा कि इस भविष्य-उन्मुख भारत-ऑस्ट्रेलिया साझेदारी का सबसे मजबूत आधार दोनों देशों के बीच सेतु का कार्य करने वाला जीवंत भारतीय प्रवासी समुदाय है।",
@@ -1361,34 +1383,34 @@ window.VM_NEWS = {
         "pubDate": "2026-07-09T07:48:24+00:00",
         "link": "https://newsonair.gov.in/hi/the-government-distributed-22-lakh-agricultural-machines-to-farmers-under-the-sub-mission-on-agricultural-mechanization/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMxSiWyakAAm5-M.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "रेल मंत्री अश्विनी वैष्णव ने पुणे-मुंबई घाट में रेलवे बहाली के काम की समीक्षा की",
-        "summary": "रेल मंत्री अश्विनी वैष्णव ने आज पुणे-मुंबई घाट में रेलवे बहाली के काम की समीक्षा की। भूस्खलन भीषण था और रेलवे लाइन के साथ-साथ आसपास के क्षेत्रों को भी भारी नुकसान हुआ है। मध्य रेलवे और पश्चिमी रेलवे की टीमें समन्वय से काम कर रही हैं। श्री वैष्णव ने बताया कि एक लाइन बहाल कर […]",
-        "article": "रेल मंत्री अश्विनी वैष्णव ने आज पुणे-मुंबई घाट में रेलवे बहाली के काम की समीक्षा की। भूस्खलन भीषण था और रेलवे लाइन के साथ-साथ आसपास के क्षेत्रों को भी भारी नुकसान हुआ है। मध्य रेलवे और पश्चिमी रेलवे की टीमें समन्वय से काम कर रही हैं। श्री वैष्णव ने बताया कि एक लाइन बहाल कर दी गई है और रेलवे ने इस लाइन पर सभी ट्रेनों को दो इंजनों के साथ चलाने का निर्णय लिया है। उन्होंने कहा कि टीमें जिला अधिकारियों और वन विभाग के साथ समन्वय कर रही हैं।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T07:41:20+00:00",
-        "link": "https://newsonair.gov.in/hi/railway-minister-ashwini-vaishnaw-reviewed-the-railway-restoration-work-in-the-pune-mumbai-ghat-section/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PPPPPPPPP.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी",
-        "summary": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी है। उन्होंने कहा कि राष्ट्रप्रथम की भावना से प्रेरित अखिल भारतीय विद्यार्थी परिषद दशकों से विद्यार्थियों को राष्ट्रीय सेवा, नेतृत्व और सामाजिक जिम्मेदारी के लिए प्रेरित करती आ रही है। सोशल मीडिया पोस्ट में श्री सिंह ने […]",
-        "article": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी है। उन्होंने कहा कि राष्ट्रप्रथम की भावना से प्रेरित अखिल भारतीय विद्यार्थी परिषद दशकों से विद्यार्थियों को राष्ट्रीय सेवा, नेतृत्व और सामाजिक जिम्मेदारी के लिए प्रेरित करती आ रही है। सोशल मीडिया पोस्ट में श्री सिंह ने कहा कि इस संगठन ने राष्ट्रवादी विचारों, भारतीय संस्कृति, राष्ट्रीय एकता और सामाजिक चेतना को मजबूत करने में महत्वपूर्ण भूमिका निभाई है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T06:12:43+00:00",
-        "link": "https://newsonair.gov.in/hi/defence-minister-rajnath-singh-congratulated-all-students-on-the-foundation-day-of-the-akhil-bharatiya-vidyarthi-parishad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Rajnath-Singh-2.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "भारत आ रहे एलपीजी टैंकर पर ईरान के हमले वाले दावे से जुड़ी खबर का सरकार ने किया खंडन",
+        "summary": "सरकार ने सोशल मीडिया पर उस दावे का खंडन किया है जिसमें भारत आ रहे एक एलपीजी टैंकर पर ईरान के मिसाइल हमले की बात कही गई है। पत्र सूचना कार्यालय की तथ्‍य जांच इकाई ने इस दावे को झूठा बताते हुए कहा कि साझा की जा रही तस्वीर पिछले साल यमन के अदन तट […]",
+        "article": "सरकार ने सोशल मीडिया पर उस दावे का खंडन किया है जिसमें भारत आ रहे एक एलपीजी टैंकर पर ईरान के मिसाइल हमले की बात कही गई है। पत्र सूचना कार्यालय की तथ्&#x200d;य जांच इकाई ने इस दावे को झूठा बताते हुए कहा कि साझा की जा रही तस्वीर पिछले साल यमन के अदन तट के पास कैमरून के झंडे वाले एलपीजी टैंकर एमवी फाल्कन में हुए विस्फोट के बाद लगी आग से संबंधित है। पीआईबी ने नागरिकों को गलत सूचना फैलाने वाले ऐसे दावों से सावधान रहने को कहा है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T10:48:52+00:00",
+        "link": "https://newsonair.gov.in/hi/the-government-has-denied-reports-claiming-that-iran-attacked-an-lpg-tanker-coming-to-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pib.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "21वीं सदी का भारत एक विकसित राष्ट्र बनने के लक्ष्य की ओर बढ़ रहा है: प्रधानमंत्री मोदी",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि 21वीं सदी का भारत एक विकसित राष्ट्र बनने के लक्ष्य की ओर बढ़ रहा है। देश की आकांक्षाओं का उल्‍लेख करते हुए प्रधानमंत्री ने कहा कि आज का भारत जो अधिक विकास और अधिक उपलब्धियां हासिल करने में विश्वास रखता है। ऑस्‍ट्रेलिया के मेलबर्न में आज प्रवासी भारतीय […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि 21वीं सदी का भारत एक विकसित राष्ट्र बनने के लक्ष्य की ओर बढ़ रहा है। देश की आकांक्षाओं का उल्&#x200d;लेख करते हुए प्रधानमंत्री ने कहा कि आज का भारत जो अधिक विकास और अधिक उपलब्धियां हासिल करने में विश्वास रखता है। ऑस्&#x200d;ट्रेलिया के मेलबर्न में आज प्रवासी भारतीय समुदाय के एक कार्यक्रम में श्री मोदी ने सिडनी में प्रवासी भारतीयों से हुई मुलाकात को याद करते हुए कहा कि वे मेलबर्न के लोगों से भी बातचीत करने के लिए उत्सुक थे। प्रधानमंत्री ने कहा कि जब उन्होंने 2014 में पहली बार ऑस्ट्रेलिया का दौरा किया था, तब वह किसी भारतीय प्रधानमंत्री की 28 वर्ष बाद ऑस्ट्रेलिया यात्रा थी। श्री मोदी ने कहा कि पिछले 12 वर्षों में ऑस्ट्रेलिया की यह उनकी तीसरी यात्रा है, जो भारत-ऑस्ट्रेलिया के मजबूत होते संबंधों को दर्शाती है। दोनों देशों के घनिष्ठ संबंधों का उल्&#x200d;लेख करते हुए श्री मोदी ने कहा कि विश्व के सबसे बड़े क्रिकेट स्टेडियम वाले अहमदाबाद और अपने प्रतिष्ठित क्रिकेट मैदान के लिए प्रसिद्ध मेलबर्न, भारत और ऑस्ट्रेलिया के बीच साझा खेल और सांस्कृतिक जुड़ाव के प्रतीक हैं। उन्होंने कहा कि ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ ने अपनी गर्मजोशी और सद्भावना से भारतीय समुदाय का दिल जीत लिया है। ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ ने इस अवसर पर कहा कि कार्यक्रम में दिखाई देने वाली ऊर्जा ऑस्ट्रेलिया-भारत साझेदारी की मजबूती को दर्शाती है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T10:36:29+00:00",
+        "link": "https://newsonair.gov.in/hi/21st-century-india-is-moving-towards-the-goal-of-becoming-a-developed-nation-pm-modi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/मोदी.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "भारत और ऑस्ट्रेलिया ने यूरेनियम आपूर्ति और समर्पित महत्वपूर्ण खनिज गलियारे पर ऐतिहासिक समझौतों पर हस्ताक्षर किए",
         "summary": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के बीच आज मेलबर्न में तीसरी ऑस्ट्रेलिया-भारत वार्षिक शिखर वार्ता हुई। इस दौरान दोनों नेताओं ने प्रतिनिधिमंडल स्तर की वार्ता कर द्विपक्षीय संबंधों को और सशक्त बनाने पर चर्चा की। शिखर सम्मेलन के समापन के बाद विक्टोरिया के गवर्नमेंट हाउस में दोनों प्रधानमंत्रियों ने संयुक्त वक्तव्य […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के बीच आज मेलबर्न में तीसरी ऑस्ट्रेलिया-भारत वार्षिक शिखर वार्ता हुई। इस दौरान दोनों नेताओं ने प्रतिनिधिमंडल स्तर की वार्ता कर द्विपक्षीय संबंधों को और सशक्त बनाने पर चर्चा की। शिखर सम्मेलन के समापन के बाद विक्टोरिया के गवर्नमेंट हाउस में दोनों प्रधानमंत्रियों ने संयुक्त वक्तव्य जारी किया। दोनों नेताओं ने द्विपक्षीय संबंधों में आए परिवर्तनकारी महत्वपूर्ण बदलाव का स्वागत करते हुए क्षेत्रीय स्थिरता, ऊर्जा सुरक्षा और प्रौद्योगिकी नवाचार के लिए व्यापक सहयोग ढांचे को अंतिम रूप दिया। हिंद-प्रशांत क्षेत्र में शांति और स्थिरता सुनिश्चित करने के उद्देश्य से दोनों देशों ने रक्षा और सुरक्षा सहयोग पर ऐतिहासिक संयुक्त घोषणा पर हस्ताक्षर किए, वार्षिक रक्षा मंत्रियों के संवाद को संस्थागत स्वरूप प्रदान किया तथा समुद्री सुरक्षा सहयोग रोडमैप का शुभारंभ किया। प्रधानमंत्री मोदी ने भारत और ऑस्ट्रेलिया को &#8220;जीवंत लोकतंत्र और महत्वपूर्ण समुद्री शक्तियां&#8221; बताते हुए कहा कि हिंद-प्रशांत केवल दो महासागरों का संगम नहीं, बल्कि भारत और ऑस्ट्रेलिया जैसे समान विचारधारा वाले लोकतांत्रिक देशों की साझा आकांक्षाओं का प्रतीक है। संवाददाताओं को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि दोनों देशों के संबंध गहरे पारस्परिक विश्वास के आधार पर एक नए और व्यापक युग में प्रवेश कर चुके हैं। शिखर सम्मेलन की प्रमुख उपलब्धियों में आर्थिक और व्यापारिक सहयोग को नई गति देना शामिल रहा। वर्ष 2022 के आर्थिक सहयोग और व्यापार समझौते की सफलता के आधार पर दोनों देशों ने संतुलित, महत्वाकांक्षी और पारस्परिक रूप से लाभकारी व्यापक आर्थिक सहयोग समझौते तथा द्विपक्षीय निवेश संधि को शीघ्र अंतिम रूप देने पर सहमति व्यक्त की। ऊर्जा सुरक्षा के क्षेत्र में एक महत्वपूर्ण उपलब्धि के रूप में भारत को दीर्घकालिक ऑस्ट्रेलियाई यूरेनियम आपूर्ति का मार्ग प्रशस्त करने वाले एक महत्&#x200d;वपूर्ण समझौते पर हस्ताक्षर किए गए, जिससे भारत के स्वच्छ ऊर्जा लक्ष्यों को नई मजबूती मिलेगी। यह दोनों देशों की नवीकरणीय ऊर्जा साझेदारी का भी विस्तार है, जिसके तहत गुजरात में महिलाओं और युवाओं को सशक्त बनाने के उद्देश्य से संयुक्त रूप से रूफटॉप सोलर ट्रेनिंग अकादमी की स्थापना की गई है। रणनीतिक प्रौद्योगिकी और संसाधन सुरक्षा के क्षेत्र में भी उल्लेखनीय प्रगति हुई है। इसके तहत ऑस्ट्रेलिया-भारत साइबर, क्रिटिकल टेक्नोलॉजीज़ और सप्लाई चेन साझेदारी को क्रियान्वित किया गया तथा क्रिटिकल मिनरल्स कॉरिडोर की स्थापना की गई। आर्थिक सहयोग के क्षेत्र में एक अन्य महत्वपूर्ण उपलब्धि के रूप में परमाणु सहयोग समझौते के अंतर्गत अंतिम प्रशासनिक व्यवस्था पर हस्ताक्षर किए गए, जिससे भारत की स्वच्छ ऊर्जा परिवर्तन यात्रा के लिए ऑस्ट्रेलिया से दीर्घकालिक यूरेनियम निर्यात का मार्ग प्रशस्त होगा। शिक्षा के क्षेत्र में भी दोनों देशों के सहयोग को नई ऊँचाइयाँ मिली हैं। इसके तहत ऑस्ट्रेलिया विश्वविद्यालयों की नई शाखाए बेंगलुरु और गुरुग्राम में स्थापित की जाएंगी। प्रधानमंत्री एंथनी अल्बनीज़ ने कहा कि इस भविष्य-उन्मुख भारत-ऑस्ट्रेलिया साझेदारी का सबसे मजबूत आधार दोनों देशों के बीच सेतु का कार्य करने वाला जीवंत भारतीय प्रवासी समुदाय है।",
@@ -1473,28 +1495,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-09T07:48:24+00:00",
         "link": "https://newsonair.gov.in/hi/the-government-distributed-22-lakh-agricultural-machines-to-farmers-under-the-sub-mission-on-agricultural-mechanization/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMxSiWyakAAm5-M.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "रेल मंत्री अश्विनी वैष्णव ने पुणे-मुंबई घाट में रेलवे बहाली के काम की समीक्षा की",
-        "summary": "रेल मंत्री अश्विनी वैष्णव ने आज पुणे-मुंबई घाट में रेलवे बहाली के काम की समीक्षा की। भूस्खलन भीषण था और रेलवे लाइन के साथ-साथ आसपास के क्षेत्रों को भी भारी नुकसान हुआ है। मध्य रेलवे और पश्चिमी रेलवे की टीमें समन्वय से काम कर रही हैं। श्री वैष्णव ने बताया कि एक लाइन बहाल कर […]",
-        "article": "रेल मंत्री अश्विनी वैष्णव ने आज पुणे-मुंबई घाट में रेलवे बहाली के काम की समीक्षा की। भूस्खलन भीषण था और रेलवे लाइन के साथ-साथ आसपास के क्षेत्रों को भी भारी नुकसान हुआ है। मध्य रेलवे और पश्चिमी रेलवे की टीमें समन्वय से काम कर रही हैं। श्री वैष्णव ने बताया कि एक लाइन बहाल कर दी गई है और रेलवे ने इस लाइन पर सभी ट्रेनों को दो इंजनों के साथ चलाने का निर्णय लिया है। उन्होंने कहा कि टीमें जिला अधिकारियों और वन विभाग के साथ समन्वय कर रही हैं।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T07:41:20+00:00",
-        "link": "https://newsonair.gov.in/hi/railway-minister-ashwini-vaishnaw-reviewed-the-railway-restoration-work-in-the-pune-mumbai-ghat-section/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PPPPPPPPP.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी",
-        "summary": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी है। उन्होंने कहा कि राष्ट्रप्रथम की भावना से प्रेरित अखिल भारतीय विद्यार्थी परिषद दशकों से विद्यार्थियों को राष्ट्रीय सेवा, नेतृत्व और सामाजिक जिम्मेदारी के लिए प्रेरित करती आ रही है। सोशल मीडिया पोस्ट में श्री सिंह ने […]",
-        "article": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी है। उन्होंने कहा कि राष्ट्रप्रथम की भावना से प्रेरित अखिल भारतीय विद्यार्थी परिषद दशकों से विद्यार्थियों को राष्ट्रीय सेवा, नेतृत्व और सामाजिक जिम्मेदारी के लिए प्रेरित करती आ रही है। सोशल मीडिया पोस्ट में श्री सिंह ने कहा कि इस संगठन ने राष्ट्रवादी विचारों, भारतीय संस्कृति, राष्ट्रीय एकता और सामाजिक चेतना को मजबूत करने में महत्वपूर्ण भूमिका निभाई है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T06:12:43+00:00",
-        "link": "https://newsonair.gov.in/hi/defence-minister-rajnath-singh-congratulated-all-students-on-the-foundation-day-of-the-akhil-bharatiya-vidyarthi-parishad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Rajnath-Singh-2.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -1589,14 +1589,15 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "अमरीका और ईरान के बीच बढ़ा तनाव",
-        "summary": "अमरीका और ईरान के बीच तनाव एक बार फिर बढ़ गया है। अमरीका के राष्ट्रपति डोनाल्ड ट्रंप ने कहा है कि संघर्ष समाप्त करने के लिए ईरान के साथ हुआ समझौता अब प्रभावी नहीं है। उन्होंने कहा कि फिलहाल उनकी ईरान से बातचीत करने की कोई इच्छा नहीं है। राष्ट्रपति ट्रंप ने तुर्कीए की राजधानी […]",
-        "article": "अमरीका और ईरान के बीच तनाव एक बार फिर बढ़ गया है। अमरीका के राष्ट्रपति डोनाल्ड ट्रंप ने कहा है कि संघर्ष समाप्त करने के लिए ईरान के साथ हुआ समझौता अब प्रभावी नहीं है। उन्होंने कहा कि फिलहाल उनकी ईरान से बातचीत करने की कोई इच्छा नहीं है। राष्ट्रपति ट्रंप ने तुर्कीए की राजधानी अंकारा में नाटो शिखर सम्मेलन के दौरान आयोजित संवाददाता सम्मेलन में ये बात कहीं। उनका यह बयान ऐसे समय में आया है जब अमरीका और ईरान के बीच एक बार फिर हमले हुए हैं। होर्मुज़ जलडमरूमध्य में तीन तेल टैंकरों पर हमले के बाद तनाव और बढ़ गया। अमरीका और ईरान के बीच हुआ अंतरिम युद्धविराम समझौता स्थायी समझौते के लिए 60 दिनों की बातचीत का अवसर देने के उद्देश्य से किया गया था। लेकिन कतर में हुई अप्रत्यक्ष वार्ता किसी ठोस नतीजे के बिना समाप्त हो गई। इसके बाद अमरीका ने ईरान पर एक और दौर के हवाई हमले किए। इससे पहले, ईरान ने अपने माहशहर बंदरगाह शहर और होरमोज़गान प्रांत पर अमरीकी हमलों के जवाब में अमरीकी सैन्य ठिकानों पर मिसाइल और ड्रोन से हमले किए थे। ईरानी मीडिया के अनुसार, इस कार्रवाई को इस्लामिक रिवोल्यूशनरी गार्ड कोर ने अंजाम दिया। जवाबी कार्रवाई में अमरीका ने ईरान के 80 से अधिक ठिकानों पर हवाई हमले किए। अमरीकी सेंट्रल कमांड के अनुसार, इन हमलों में वायु रक्षा प्रणाली, कमांड एवं नियंत्रण केंद्र, तटीय रडार, जहाज-रोधी मिसाइल प्रणाली और होर्मुज जलडमरूमध्य के आसपास तैनात तेज़ गति वाली नौकाओं को निशाना बनाया गया।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T10:34:34+00:00",
-        "link": "https://newsonair.gov.in/hi/tensions-escalate-between-the-us-and-iran/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/west-asia.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "21वीं सदी का भारत एक विकसित राष्ट्र बनने के लक्ष्य की ओर बढ़ रहा है: प्रधानमंत्री मोदी",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि 21वीं सदी का भारत एक विकसित राष्ट्र बनने के लक्ष्य की ओर बढ़ रहा है। देश की आकांक्षाओं का उल्‍लेख करते हुए प्रधानमंत्री ने कहा कि आज का भारत जो अधिक विकास और अधिक उपलब्धियां हासिल करने में विश्वास रखता है। ऑस्‍ट्रेलिया के मेलबर्न में आज प्रवासी भारतीय […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि 21वीं सदी का भारत एक विकसित राष्ट्र बनने के लक्ष्य की ओर बढ़ रहा है। देश की आकांक्षाओं का उल्&#x200d;लेख करते हुए प्रधानमंत्री ने कहा कि आज का भारत जो अधिक विकास और अधिक उपलब्धियां हासिल करने में विश्वास रखता है। ऑस्&#x200d;ट्रेलिया के मेलबर्न में आज प्रवासी भारतीय समुदाय के एक कार्यक्रम में श्री मोदी ने सिडनी में प्रवासी भारतीयों से हुई मुलाकात को याद करते हुए कहा कि वे मेलबर्न के लोगों से भी बातचीत करने के लिए उत्सुक थे। प्रधानमंत्री ने कहा कि जब उन्होंने 2014 में पहली बार ऑस्ट्रेलिया का दौरा किया था, तब वह किसी भारतीय प्रधानमंत्री की 28 वर्ष बाद ऑस्ट्रेलिया यात्रा थी। श्री मोदी ने कहा कि पिछले 12 वर्षों में ऑस्ट्रेलिया की यह उनकी तीसरी यात्रा है, जो भारत-ऑस्ट्रेलिया के मजबूत होते संबंधों को दर्शाती है। दोनों देशों के घनिष्ठ संबंधों का उल्&#x200d;लेख करते हुए श्री मोदी ने कहा कि विश्व के सबसे बड़े क्रिकेट स्टेडियम वाले अहमदाबाद और अपने प्रतिष्ठित क्रिकेट मैदान के लिए प्रसिद्ध मेलबर्न, भारत और ऑस्ट्रेलिया के बीच साझा खेल और सांस्कृतिक जुड़ाव के प्रतीक हैं। उन्होंने कहा कि ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ ने अपनी गर्मजोशी और सद्भावना से भारतीय समुदाय का दिल जीत लिया है। ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ ने इस अवसर पर कहा कि कार्यक्रम में दिखाई देने वाली ऊर्जा ऑस्ट्रेलिया-भारत साझेदारी की मजबूती को दर्शाती है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T10:36:29+00:00",
+        "link": "https://newsonair.gov.in/hi/21st-century-india-is-moving-towards-the-goal-of-becoming-a-developed-nation-pm-modi/",
+        "post_id": 1727949,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
