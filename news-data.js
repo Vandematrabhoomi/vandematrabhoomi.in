@@ -1,8 +1,19 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-09T08:39:24.302997",
+  "generated": "2026-07-09T10:37:29.676959",
   "en": {
     "top": [
+      {
+        "title": "PM Modi describes his recent visit as “hat-trick” reflecting growing India-Australia relations",
+        "summary": "Prime Minister Narendra Modi has said that 21st-century India is working towards the goal of becoming a developed nation. Emphasising the country&#8217;s aspirations, the Prime Minister remarked that today&#8217;s India is a nation that believes in growing more and achieving more. Addressing a community event in Melbourne today, Mr. Modi recalled meeting members of the […]",
+        "article": "Prime Minister Narendra Modi has said that 21st-century India is working towards the goal of becoming a developed nation. Emphasising the country&#8217;s aspirations, the Prime Minister remarked that today&#8217;s India is a nation that believes in growing more and achieving more. Addressing a community event in Melbourne today, Mr. Modi recalled meeting members of the Indian diaspora earlier in Sydney and said he had been looking forward to interacting with the people of Melbourne as well. The Prime Minister said that when he first visited Australia in 2014, it was after a gap of 28 years since the visit of an Indian Prime Minister. Mr Modi said that his current visit is his third to Australia in the last 12 years, describing it as a &#8220;hat-trick&#8221;, which, he said, reflects the growing strength and new heights of India-Australia relations. Highlighting the close ties between the two countries, Mr Modi noted that Ahmedabad, home to the world&#8217;s largest cricket stadium, and Melbourne, renowned for its iconic cricket ground, symbolise the shared sporting and cultural connection between India and Australia. He said Australian Prime Minister Anthony Albanese has won the hearts of the Indian community through his warmth and goodwill. Mr. Modi began his address by acknowledging the Traditional Owners of the land and paid respects to their Elders, past, present and emerging. Referring to the enthusiastic response from the audience, he described the event as &#8220;houseful&#8221; and a &#8220;blockbuster&#8221;. Addressing the gathering, Australian Prime Minister Anthony Albanese said the energy witnessed at the event reflects the strength of the Australia-India partnership. He said the enthusiasm and dynamism of the people of both countries continue to drive positivity and promise in bilateral relations.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T10:28:35+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-describes-his-recent-visit-as-hat-trick-reflecting-growing-india-australia-relations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Australia.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Southwest Monsoon covers entire country, says IMD",
         "summary": "The Southwest Monsoon has covered the entire country today. The monsoon has further advanced into the remaining parts of Rajasthan, Haryana, Punjab, and the North Arabian Sea. &#160; Talking exclusively to Akashvani News, Senior Scientist at IMD, Dr. Naresh Kumar has said that in the last few days moderate to heavy rainfall is continuing in […]",
@@ -81,17 +92,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Defence Minister Rajnath Singh greets ABVP on its Foundation Day",
-        "summary": "Union Defence Minister Rajnath Singh has congratulated all the students of Akhil Bharatiya Vidyarthi Parishad on its Foundation Day. He said, with the spirit of Nation First, Akhil Bharatiya Vidyarthi Parishad has been inspiring students towards national service, leadership, and social responsibility for several decades. &#160; In a social media post, Mr Singh said that […]",
-        "article": "Union Defence Minister Rajnath Singh has congratulated all the students of Akhil Bharatiya Vidyarthi Parishad on its Foundation Day. He said, with the spirit of Nation First, Akhil Bharatiya Vidyarthi Parishad has been inspiring students towards national service, leadership, and social responsibility for several decades. &nbsp; In a social media post, Mr Singh said that this organisation has played a crucial role in strengthening nationalist ideas, Indian culture, national unity, and social consciousness. The Minister expressed confidence that this organisation will continue to advance its glorious journey for student welfare and national interest with renewed energy and enthusiasm.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T06:20:52+00:00",
-        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-greets-abvp-on-its-foundation-day/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/abvp.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "US launches fresh airstrikes on Iran; Tehran targets Bahrain, Kuwait and Qatar",
         "summary": "The United States launched new airstrikes against Iran this morning. Tehran responded by targeting Bahrain, Kuwait and Qatar, escalating crossfire that again threatened an interim deal aimed at ending the war in the Persian Gulf. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of […]",
         "article": "The United States launched new airstrikes against Iran this morning. Tehran responded by targeting Bahrain, Kuwait and Qatar, escalating crossfire that again threatened an interim deal aimed at ending the war in the Persian Gulf. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz had signalled the end of the fragile ceasefire. The US struck a range of military sites and port facilities early yesterday. The attacks followed Iran&#8217;s targeting of several merchant vessels off the coast of Oman, which triggered an Iranian response. Today&#8217;s attacks appeared to be larger on both sides. Sirens sounded at least twice in Bahrain, home to the US Navy&#8217;s 5th Fleet headquarters. There was no immediate word on damage in Bahrain, Kuwait or Qatar. Kuwait&#8217;s military said it was actively intercepting incoming drones and missiles. Iran&#8217;s Revolutionary Guard claimed responsibility for attacks on Bahrain and Kuwait. The US military&#8217;s Central Command said it struck about 90 targets across Iran. It also released black-and-white footage showing what appeared to be attacks on an airport runway and missile launchers. The US said the strikes were intended to “further degrade” Iran&#8217;s ability to threaten freedom of navigation in the Strait of Hormuz. Iranian state media reported explosions in several locations, including Bushehr, home to Iran&#8217;s nuclear power plant complex, and the southern port cities of Chabahar, Konarak, Bandar Abbas and Sirik. In Iranshahr, authorities said a strike killed a firefighter at an airport.",
@@ -138,6 +138,17 @@ window.VM_NEWS = {
     ],
     "breaking": [
       {
+        "title": "PM Modi describes his recent visit as “hat-trick” reflecting growing India-Australia relations",
+        "summary": "Prime Minister Narendra Modi has said that 21st-century India is working towards the goal of becoming a developed nation. Emphasising the country&#8217;s aspirations, the Prime Minister remarked that today&#8217;s India is a nation that believes in growing more and achieving more. Addressing a community event in Melbourne today, Mr. Modi recalled meeting members of the […]",
+        "article": "Prime Minister Narendra Modi has said that 21st-century India is working towards the goal of becoming a developed nation. Emphasising the country&#8217;s aspirations, the Prime Minister remarked that today&#8217;s India is a nation that believes in growing more and achieving more. Addressing a community event in Melbourne today, Mr. Modi recalled meeting members of the Indian diaspora earlier in Sydney and said he had been looking forward to interacting with the people of Melbourne as well. The Prime Minister said that when he first visited Australia in 2014, it was after a gap of 28 years since the visit of an Indian Prime Minister. Mr Modi said that his current visit is his third to Australia in the last 12 years, describing it as a &#8220;hat-trick&#8221;, which, he said, reflects the growing strength and new heights of India-Australia relations. Highlighting the close ties between the two countries, Mr Modi noted that Ahmedabad, home to the world&#8217;s largest cricket stadium, and Melbourne, renowned for its iconic cricket ground, symbolise the shared sporting and cultural connection between India and Australia. He said Australian Prime Minister Anthony Albanese has won the hearts of the Indian community through his warmth and goodwill. Mr. Modi began his address by acknowledging the Traditional Owners of the land and paid respects to their Elders, past, present and emerging. Referring to the enthusiastic response from the audience, he described the event as &#8220;houseful&#8221; and a &#8220;blockbuster&#8221;. Addressing the gathering, Australian Prime Minister Anthony Albanese said the energy witnessed at the event reflects the strength of the Australia-India partnership. He said the enthusiasm and dynamism of the people of both countries continue to drive positivity and promise in bilateral relations.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T10:28:35+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-describes-his-recent-visit-as-hat-trick-reflecting-growing-india-australia-relations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Australia.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Southwest Monsoon covers entire country, says IMD",
         "summary": "The Southwest Monsoon has covered the entire country today. The monsoon has further advanced into the remaining parts of Rajasthan, Haryana, Punjab, and the North Arabian Sea. &#160; Talking exclusively to Akashvani News, Senior Scientist at IMD, Dr. Naresh Kumar has said that in the last few days moderate to heavy rainfall is continuing in […]",
         "article": "The Southwest Monsoon has covered the entire country today. The monsoon has further advanced into the remaining parts of Rajasthan, Haryana, Punjab, and the North Arabian Sea. &nbsp; Talking exclusively to Akashvani News, Senior Scientist at IMD, Dr. Naresh Kumar has said that in the last few days moderate to heavy rainfall is continuing in Delhi NCR, Uttar Pradesh and Uttrakhand. He said, Orange alert for moderate to heavy rainfall has been issued in Delhi NCR for the day.",
@@ -200,17 +211,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-09T07:18:00+00:00",
         "link": "https://newsonair.gov.in/uttarakhand-becomes-countrys-sixth-fully-literate-state/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/n.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Defence Minister Rajnath Singh greets ABVP on its Foundation Day",
-        "summary": "Union Defence Minister Rajnath Singh has congratulated all the students of Akhil Bharatiya Vidyarthi Parishad on its Foundation Day. He said, with the spirit of Nation First, Akhil Bharatiya Vidyarthi Parishad has been inspiring students towards national service, leadership, and social responsibility for several decades. &#160; In a social media post, Mr Singh said that […]",
-        "article": "Union Defence Minister Rajnath Singh has congratulated all the students of Akhil Bharatiya Vidyarthi Parishad on its Foundation Day. He said, with the spirit of Nation First, Akhil Bharatiya Vidyarthi Parishad has been inspiring students towards national service, leadership, and social responsibility for several decades. &nbsp; In a social media post, Mr Singh said that this organisation has played a crucial role in strengthening nationalist ideas, Indian culture, national unity, and social consciousness. The Minister expressed confidence that this organisation will continue to advance its glorious journey for student welfare and national interest with renewed energy and enthusiasm.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T06:20:52+00:00",
-        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-greets-abvp-on-its-foundation-day/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/abvp.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -252,6 +252,17 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "PM Modi describes his recent visit as “hat-trick” reflecting growing India-Australia relations",
+        "summary": "Prime Minister Narendra Modi has said that 21st-century India is working towards the goal of becoming a developed nation. Emphasising the country&#8217;s aspirations, the Prime Minister remarked that today&#8217;s India is a nation that believes in growing more and achieving more. Addressing a community event in Melbourne today, Mr. Modi recalled meeting members of the […]",
+        "article": "Prime Minister Narendra Modi has said that 21st-century India is working towards the goal of becoming a developed nation. Emphasising the country&#8217;s aspirations, the Prime Minister remarked that today&#8217;s India is a nation that believes in growing more and achieving more. Addressing a community event in Melbourne today, Mr. Modi recalled meeting members of the Indian diaspora earlier in Sydney and said he had been looking forward to interacting with the people of Melbourne as well. The Prime Minister said that when he first visited Australia in 2014, it was after a gap of 28 years since the visit of an Indian Prime Minister. Mr Modi said that his current visit is his third to Australia in the last 12 years, describing it as a &#8220;hat-trick&#8221;, which, he said, reflects the growing strength and new heights of India-Australia relations. Highlighting the close ties between the two countries, Mr Modi noted that Ahmedabad, home to the world&#8217;s largest cricket stadium, and Melbourne, renowned for its iconic cricket ground, symbolise the shared sporting and cultural connection between India and Australia. He said Australian Prime Minister Anthony Albanese has won the hearts of the Indian community through his warmth and goodwill. Mr. Modi began his address by acknowledging the Traditional Owners of the land and paid respects to their Elders, past, present and emerging. Referring to the enthusiastic response from the audience, he described the event as &#8220;houseful&#8221; and a &#8220;blockbuster&#8221;. Addressing the gathering, Australian Prime Minister Anthony Albanese said the energy witnessed at the event reflects the strength of the Australia-India partnership. He said the enthusiasm and dynamism of the people of both countries continue to drive positivity and promise in bilateral relations.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T10:28:35+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-describes-his-recent-visit-as-hat-trick-reflecting-growing-india-australia-relations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Australia.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Southwest Monsoon covers entire country, says IMD",
         "summary": "The Southwest Monsoon has covered the entire country today. The monsoon has further advanced into the remaining parts of Rajasthan, Haryana, Punjab, and the North Arabian Sea. &#160; Talking exclusively to Akashvani News, Senior Scientist at IMD, Dr. Naresh Kumar has said that in the last few days moderate to heavy rainfall is continuing in […]",
         "article": "The Southwest Monsoon has covered the entire country today. The monsoon has further advanced into the remaining parts of Rajasthan, Haryana, Punjab, and the North Arabian Sea. &nbsp; Talking exclusively to Akashvani News, Senior Scientist at IMD, Dr. Naresh Kumar has said that in the last few days moderate to heavy rainfall is continuing in Delhi NCR, Uttar Pradesh and Uttrakhand. He said, Orange alert for moderate to heavy rainfall has been issued in Delhi NCR for the day.",
@@ -314,17 +325,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-09T07:18:00+00:00",
         "link": "https://newsonair.gov.in/uttarakhand-becomes-countrys-sixth-fully-literate-state/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/n.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Defence Minister Rajnath Singh greets ABVP on its Foundation Day",
-        "summary": "Union Defence Minister Rajnath Singh has congratulated all the students of Akhil Bharatiya Vidyarthi Parishad on its Foundation Day. He said, with the spirit of Nation First, Akhil Bharatiya Vidyarthi Parishad has been inspiring students towards national service, leadership, and social responsibility for several decades. &#160; In a social media post, Mr Singh said that […]",
-        "article": "Union Defence Minister Rajnath Singh has congratulated all the students of Akhil Bharatiya Vidyarthi Parishad on its Foundation Day. He said, with the spirit of Nation First, Akhil Bharatiya Vidyarthi Parishad has been inspiring students towards national service, leadership, and social responsibility for several decades. &nbsp; In a social media post, Mr Singh said that this organisation has played a crucial role in strengthening nationalist ideas, Indian culture, national unity, and social consciousness. The Minister expressed confidence that this organisation will continue to advance its glorious journey for student welfare and national interest with renewed energy and enthusiasm.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T06:20:52+00:00",
-        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-greets-abvp-on-its-foundation-day/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/abvp.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -366,6 +366,17 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "PM Modi describes his recent visit as “hat-trick” reflecting growing India-Australia relations",
+        "summary": "Prime Minister Narendra Modi has said that 21st-century India is working towards the goal of becoming a developed nation. Emphasising the country&#8217;s aspirations, the Prime Minister remarked that today&#8217;s India is a nation that believes in growing more and achieving more. Addressing a community event in Melbourne today, Mr. Modi recalled meeting members of the […]",
+        "article": "Prime Minister Narendra Modi has said that 21st-century India is working towards the goal of becoming a developed nation. Emphasising the country&#8217;s aspirations, the Prime Minister remarked that today&#8217;s India is a nation that believes in growing more and achieving more. Addressing a community event in Melbourne today, Mr. Modi recalled meeting members of the Indian diaspora earlier in Sydney and said he had been looking forward to interacting with the people of Melbourne as well. The Prime Minister said that when he first visited Australia in 2014, it was after a gap of 28 years since the visit of an Indian Prime Minister. Mr Modi said that his current visit is his third to Australia in the last 12 years, describing it as a &#8220;hat-trick&#8221;, which, he said, reflects the growing strength and new heights of India-Australia relations. Highlighting the close ties between the two countries, Mr Modi noted that Ahmedabad, home to the world&#8217;s largest cricket stadium, and Melbourne, renowned for its iconic cricket ground, symbolise the shared sporting and cultural connection between India and Australia. He said Australian Prime Minister Anthony Albanese has won the hearts of the Indian community through his warmth and goodwill. Mr. Modi began his address by acknowledging the Traditional Owners of the land and paid respects to their Elders, past, present and emerging. Referring to the enthusiastic response from the audience, he described the event as &#8220;houseful&#8221; and a &#8220;blockbuster&#8221;. Addressing the gathering, Australian Prime Minister Anthony Albanese said the energy witnessed at the event reflects the strength of the Australia-India partnership. He said the enthusiasm and dynamism of the people of both countries continue to drive positivity and promise in bilateral relations.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T10:28:35+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-describes-his-recent-visit-as-hat-trick-reflecting-growing-india-australia-relations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Australia.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Southwest Monsoon covers entire country, says IMD",
         "summary": "The Southwest Monsoon has covered the entire country today. The monsoon has further advanced into the remaining parts of Rajasthan, Haryana, Punjab, and the North Arabian Sea. &#160; Talking exclusively to Akashvani News, Senior Scientist at IMD, Dr. Naresh Kumar has said that in the last few days moderate to heavy rainfall is continuing in […]",
         "article": "The Southwest Monsoon has covered the entire country today. The monsoon has further advanced into the remaining parts of Rajasthan, Haryana, Punjab, and the North Arabian Sea. &nbsp; Talking exclusively to Akashvani News, Senior Scientist at IMD, Dr. Naresh Kumar has said that in the last few days moderate to heavy rainfall is continuing in Delhi NCR, Uttar Pradesh and Uttrakhand. He said, Orange alert for moderate to heavy rainfall has been issued in Delhi NCR for the day.",
@@ -428,17 +439,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-09T07:18:00+00:00",
         "link": "https://newsonair.gov.in/uttarakhand-becomes-countrys-sixth-fully-literate-state/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/n.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Defence Minister Rajnath Singh greets ABVP on its Foundation Day",
-        "summary": "Union Defence Minister Rajnath Singh has congratulated all the students of Akhil Bharatiya Vidyarthi Parishad on its Foundation Day. He said, with the spirit of Nation First, Akhil Bharatiya Vidyarthi Parishad has been inspiring students towards national service, leadership, and social responsibility for several decades. &#160; In a social media post, Mr Singh said that […]",
-        "article": "Union Defence Minister Rajnath Singh has congratulated all the students of Akhil Bharatiya Vidyarthi Parishad on its Foundation Day. He said, with the spirit of Nation First, Akhil Bharatiya Vidyarthi Parishad has been inspiring students towards national service, leadership, and social responsibility for several decades. &nbsp; In a social media post, Mr Singh said that this organisation has played a crucial role in strengthening nationalist ideas, Indian culture, national unity, and social consciousness. The Minister expressed confidence that this organisation will continue to advance its glorious journey for student welfare and national interest with renewed energy and enthusiasm.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T06:20:52+00:00",
-        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-greets-abvp-on-its-foundation-day/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/abvp.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1031,13 +1031,35 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
-        "title": "उपराष्ट्रपति ने ओडिशा में मत्स्य संसाधनों के सतत उपयोग के लिए राष्ट्रीय मिशन का शुभारंभ किया",
+        "title": "भारत और ऑस्ट्रेलिया ने यूरेनियम आपूर्ति और समर्पित महत्वपूर्ण खनिज गलियारे पर ऐतिहासिक समझौतों पर हस्ताक्षर किए",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के बीच आज मेलबर्न में तीसरी ऑस्ट्रेलिया-भारत वार्षिक शिखर वार्ता हुई। इस दौरान दोनों नेताओं ने प्रतिनिधिमंडल स्तर की वार्ता कर द्विपक्षीय संबंधों को और सशक्त बनाने पर चर्चा की। शिखर सम्मेलन के समापन के बाद विक्टोरिया के गवर्नमेंट हाउस में दोनों प्रधानमंत्रियों ने संयुक्त वक्तव्य […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के बीच आज मेलबर्न में तीसरी ऑस्ट्रेलिया-भारत वार्षिक शिखर वार्ता हुई। इस दौरान दोनों नेताओं ने प्रतिनिधिमंडल स्तर की वार्ता कर द्विपक्षीय संबंधों को और सशक्त बनाने पर चर्चा की। शिखर सम्मेलन के समापन के बाद विक्टोरिया के गवर्नमेंट हाउस में दोनों प्रधानमंत्रियों ने संयुक्त वक्तव्य जारी किया। दोनों नेताओं ने द्विपक्षीय संबंधों में आए परिवर्तनकारी महत्वपूर्ण बदलाव का स्वागत करते हुए क्षेत्रीय स्थिरता, ऊर्जा सुरक्षा और प्रौद्योगिकी नवाचार के लिए व्यापक सहयोग ढांचे को अंतिम रूप दिया। हिंद-प्रशांत क्षेत्र में शांति और स्थिरता सुनिश्चित करने के उद्देश्य से दोनों देशों ने रक्षा और सुरक्षा सहयोग पर ऐतिहासिक संयुक्त घोषणा पर हस्ताक्षर किए, वार्षिक रक्षा मंत्रियों के संवाद को संस्थागत स्वरूप प्रदान किया तथा समुद्री सुरक्षा सहयोग रोडमैप का शुभारंभ किया। प्रधानमंत्री मोदी ने भारत और ऑस्ट्रेलिया को &#8220;जीवंत लोकतंत्र और महत्वपूर्ण समुद्री शक्तियां&#8221; बताते हुए कहा कि हिंद-प्रशांत केवल दो महासागरों का संगम नहीं, बल्कि भारत और ऑस्ट्रेलिया जैसे समान विचारधारा वाले लोकतांत्रिक देशों की साझा आकांक्षाओं का प्रतीक है। संवाददाताओं को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि दोनों देशों के संबंध गहरे पारस्परिक विश्वास के आधार पर एक नए और व्यापक युग में प्रवेश कर चुके हैं। शिखर सम्मेलन की प्रमुख उपलब्धियों में आर्थिक और व्यापारिक सहयोग को नई गति देना शामिल रहा। वर्ष 2022 के आर्थिक सहयोग और व्यापार समझौते की सफलता के आधार पर दोनों देशों ने संतुलित, महत्वाकांक्षी और पारस्परिक रूप से लाभकारी व्यापक आर्थिक सहयोग समझौते तथा द्विपक्षीय निवेश संधि को शीघ्र अंतिम रूप देने पर सहमति व्यक्त की। ऊर्जा सुरक्षा के क्षेत्र में एक महत्वपूर्ण उपलब्धि के रूप में भारत को दीर्घकालिक ऑस्ट्रेलियाई यूरेनियम आपूर्ति का मार्ग प्रशस्त करने वाले एक महत्&#x200d;वपूर्ण समझौते पर हस्ताक्षर किए गए, जिससे भारत के स्वच्छ ऊर्जा लक्ष्यों को नई मजबूती मिलेगी। यह दोनों देशों की नवीकरणीय ऊर्जा साझेदारी का भी विस्तार है, जिसके तहत गुजरात में महिलाओं और युवाओं को सशक्त बनाने के उद्देश्य से संयुक्त रूप से रूफटॉप सोलर ट्रेनिंग अकादमी की स्थापना की गई है। रणनीतिक प्रौद्योगिकी और संसाधन सुरक्षा के क्षेत्र में भी उल्लेखनीय प्रगति हुई है। इसके तहत ऑस्ट्रेलिया-भारत साइबर, क्रिटिकल टेक्नोलॉजीज़ और सप्लाई चेन साझेदारी को क्रियान्वित किया गया तथा क्रिटिकल मिनरल्स कॉरिडोर की स्थापना की गई। आर्थिक सहयोग के क्षेत्र में एक अन्य महत्वपूर्ण उपलब्धि के रूप में परमाणु सहयोग समझौते के अंतर्गत अंतिम प्रशासनिक व्यवस्था पर हस्ताक्षर किए गए, जिससे भारत की स्वच्छ ऊर्जा परिवर्तन यात्रा के लिए ऑस्ट्रेलिया से दीर्घकालिक यूरेनियम निर्यात का मार्ग प्रशस्त होगा। शिक्षा के क्षेत्र में भी दोनों देशों के सहयोग को नई ऊँचाइयाँ मिली हैं। इसके तहत ऑस्ट्रेलिया विश्वविद्यालयों की नई शाखाए बेंगलुरु और गुरुग्राम में स्थापित की जाएंगी। प्रधानमंत्री एंथनी अल्बनीज़ ने कहा कि इस भविष्य-उन्मुख भारत-ऑस्ट्रेलिया साझेदारी का सबसे मजबूत आधार दोनों देशों के बीच सेतु का कार्य करने वाला जीवंत भारतीय प्रवासी समुदाय है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T08:55:12+00:00",
+        "link": "https://newsonair.gov.in/hi/india-and-australia-signed-historic-agreements-on-uranium-supply-and-a-dedicated-critical-minerals-corridor/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMw8ltRbAAACxLY.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उपराष्ट्रपति सी पी राधाकृष्णन ने भुवनेश्वर में खुले समुद्र के मत्स्य संसाधनों के सतत उपयोग के लिए राष्ट्रीय मिशन का अनावरण किया",
         "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने आज भुवनेश्वर स्थित ओडिशा कृषि और प्रौद्योगिकी विश्वविद्यालय में खुले समुद्र में मत्स्य संसाधनों के सतत उपयोग के लिए एक महत्वपूर्ण राष्ट्रीय मिशन का शुभारंभ किया। उन्होंने नीली अर्थव्यवस्था को राष्ट्रीय समृद्धि का परिवर्तनकारी इंजन बताते हुए युवाओं से आधुनिक, प्रौद्योगिकी-आधारित मत्स्य पालन और समुद्री व्यवसायों को &#8216;विकसित भारत&#8217; की आधारशिला […]",
         "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने आज भुवनेश्वर स्थित ओडिशा कृषि और प्रौद्योगिकी विश्वविद्यालय में खुले समुद्र में मत्स्य संसाधनों के सतत उपयोग के लिए एक महत्वपूर्ण राष्ट्रीय मिशन का शुभारंभ किया। उन्होंने नीली अर्थव्यवस्था को राष्ट्रीय समृद्धि का परिवर्तनकारी इंजन बताते हुए युवाओं से आधुनिक, प्रौद्योगिकी-आधारित मत्स्य पालन और समुद्री व्यवसायों को &#8216;विकसित भारत&#8217; की आधारशिला के रूप में अपनाने का आग्रह किया।",
         "date": "2026-07-09",
-        "pubDate": "2026-07-09T08:19:37+00:00",
-        "link": "https://newsonair.gov.in/hi/the-vice-president-launched-the-national-mission-for-the-sustainable-use-of-fisheries-resources-in-odisha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/VP-Radhakrishnan-to-visit-Jharkhand-tomorrow.jpg",
+        "pubDate": "2026-07-09T08:54:37+00:00",
+        "link": "https://newsonair.gov.in/hi/vice-president-c-p-radhakrishnan-unveiled-the-national-mission-for-the-sustainable-use-of-open-sea-fishery-resources-in-bhubaneswar/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMxSDiVaEAAAK2u.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वर्ल्ड इंटैंजीबल इन्वेस्टमेंट रिपोर्ट 2026 में भारत के वैश्विक नवाचार शक्ति के रूप में उभरने की पुष्टि की गई",
+        "summary": "विश्व बौद्धिक संपदा संगठन (डब्ल्यूआईपीओ) और लुइस बिजनेस स्कूल द्वारा जारी वर्ल्ड इंटैंजीबल इन्वेस्टमेंट रिपोर्ट 2026 में भारत के वैश्विक नवाचार शक्ति के रूप में उभरने की पुष्टि की गई है। वाणिज्य और उद्योग मंत्री पीयूष गोयल ने सोशल मीडिया पोस्ट में कहा कि यह रिपोर्ट सॉफ्टवेयर, अनुसंधान और विकास, बौद्धिक संपदा, नवाचार और संगठनात्मक […]",
+        "article": "विश्व बौद्धिक संपदा संगठन (डब्ल्यूआईपीओ) और लुइस बिजनेस स्कूल द्वारा जारी वर्ल्ड इंटैंजीबल इन्वेस्टमेंट रिपोर्ट 2026 में भारत के वैश्विक नवाचार शक्ति के रूप में उभरने की पुष्टि की गई है। वाणिज्य और उद्योग मंत्री पीयूष गोयल ने सोशल मीडिया पोस्ट में कहा कि यह रिपोर्ट सॉफ्टवेयर, अनुसंधान और विकास, बौद्धिक संपदा, नवाचार और संगठनात्मक क्षमताओं जैसे क्षेत्रों में भारत के बढ़ते निवेश को रेखांकित करती है, जो भविष्य की अर्थव्यवस्था को आकार दे रहे हैं। रिपोर्ट के अनुसार, भारत ने विश्व की 15 सबसे बड़ी अर्थव्यवस्थाओं में अमूर्त निवेश में सबसे तेज वृद्धि दर्ज की है। वर्ष 2023 में यह निवेश 7.9 प्रतिशत बढ़कर 78 अरब डॉलर से अधिक पहुंच गया। श्री गोयल ने कहा कि युवा इनोवेटर, उद्यमियों और रचनाकारों की ऊर्जा तथा आकांक्षाओं से प्रेरित भारत, विश्व की सबसे तेजी से बढ़ती प्रमुख अर्थव्यवस्था के रूप में एक वैश्विक केंद्र बना हुआ है और विचारों, नवाचार तथा उद्यम से संचालित ज्ञान-आधारित भविष्य का निर्माण कर रहा है। उन्होंने कहा कि प्रधानमंत्री के नेतृत्व में भारत निरंतर सुधारों, डिजिटल परिवर्तन और स्टार्टअप्स को समर्थन के माध्यम से अपने नवाचार पारिस्थितिकी तंत्र को लगातार मजबूत कर रहा है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T08:47:15+00:00",
+        "link": "https://newsonair.gov.in/hi/the-world-intangible-investment-report-2026-confirms-indias-emergence-as-a-global-innovation-powerhouse/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1108,17 +1130,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "प्रधानमंत्री मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने द्विपक्षीय संबंधों में आए परिवर्तनकारी बदलाव का स्वागत किया",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने विक्टोरिया के गवर्नमेंट हाउस में आयोजित तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन के समापन के बाद संयुक्त बयान जारी किया। दोनों नेताओं ने द्विपक्षीय संबंधों में आए परिवर्तनकारी बदलाव का स्वागत किया और क्षेत्रीय स्थिरता, ऊर्जा सुरक्षा तथा प्रौद्योगिकी नवाचार के लिए व्यापक रूपरेखाओं को अंतिम […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने विक्टोरिया के गवर्नमेंट हाउस में आयोजित तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन के समापन के बाद संयुक्त बयान जारी किया। दोनों नेताओं ने द्विपक्षीय संबंधों में आए परिवर्तनकारी बदलाव का स्वागत किया और क्षेत्रीय स्थिरता, ऊर्जा सुरक्षा तथा प्रौद्योगिकी नवाचार के लिए व्यापक रूपरेखाओं को अंतिम रूप दिया। प्रधानमंत्री मोदी ने कहा कि भारत-ऑस्ट्रेलिया साझेदारी भविष्य के लिए निर्मित एक सुदृढ़ और स्थायी संबंध है। उन्होंने मीडिया को संबोधित करते हुए कहा कि दोनों देशों के संबंध गहरे पारस्परिक विश्वास के आधार पर एक नए और व्यापक दौर में प्रवेश कर चुके हैं। शिखर सम्मेलन की प्रमुख उपलब्धियों में आर्थिक और व्यापारिक सहयोग को नई गति देना शामिल रहा। वर्ष 2022 के आर्थिक सहयोग और व्यापार समझौते की सफलता के आधार पर दोनों देशों ने संतुलित, महत्वाकांक्षी और पारस्परिक रूप से लाभकारी व्यापक आर्थिक सहयोग समझौते तथा द्विपक्षीय निवेश संधि को शीघ्र अंतिम रूप देने पर सहमति व्यक्त की। ऊर्जा सुरक्षा के क्षेत्र में एक बड़ी उपलब्धि के रूप में भारत को दीर्घकालिक ऑस्ट्रेलियाई यूरेनियम आपूर्ति का मार्ग प्रशस्त करने हेतु एक महत्वपूर्ण समझौते पर हस्ताक्षर किए गए, जिससे भारत के स्वच्छ ऊर्जा लक्ष्यों को नई मजबूती मिलेगी। यह दोनों देशों की सफल नवीकरणीय ऊर्जा साझेदारी का भी पूरक है, जिसके अंतर्गत गुजरात में महिलाओं और युवाओं को सशक्त बनाने के उद्देश्य से संयुक्त रूप से रूफटॉप सोलर ट्रेनिंग अकादमी की स्थापना की गई है। रणनीतिक प्रौद्योगिकी और संसाधन सुरक्षा के क्षेत्र में भी महत्वपूर्ण प्रगति हुई है। इसके अन्&#x200d;तर्गत ऑस्ट्रेलिया-भारत साइबर, क्रिटिकल टेक्नोलॉजीज़ और सप्लाई चेन साझेदारी को क्रियान्वित किया गया तथा महत्&#x200d;वपूर्ण खनिज कॉरिडोर की स्थापना की गई। हिंद-प्रशांत क्षेत्र की सुरक्षा को सुदृढ़ करने के उद्देश्य से दोनों नेताओं ने रक्षा और सुरक्षा सहयोग पर संयुक्त घोषणा जारी की। इसके अंतर्गत समुद्री सुरक्षा सहयोग रोडमैप शुरू किया गया तथा स्टार्टअप्स और उद्योगों को जोड़ने के लिए एक अभिनव डिफेंस इनोवेशन कॉरिडोर की शुरुआत की गई। प्रधानमंत्री एंथनी अल्बनीज़ ने कहा कि भारत-ऑस्ट्रेलिया संबंध पहले कभी इतने महत्वपूर्ण, गतिशील और व्यापक नहीं रहे। हिंद-प्रशांत क्षेत्र में शांति और स्थिरता सुनिश्चित करने के लिए दोनों नेताओं ने रक्षा और सुरक्षा सहयोग पर ऐतिहासिक संयुक्त घोषणा पर हस्ताक्षर किए, वार्षिक रक्षा मंत्रियों के संवाद को संस्थागत रूप दिया तथा एक साझा समुद्री सुरक्षा सहयोग रोडमैप का शुभारंभ किया। आर्थिक क्षेत्र में एक बड़ी उपलब्धि के रूप में परमाणु सहयोग समझौते के अंतर्गत अंतिम प्रशासनिक व्यवस्था पर हस्ताक्षर किए गए, जिससे भारत की स्वच्छ ऊर्जा परिवर्तन यात्रा के लिए ऑस्ट्रेलिया से दीर्घकालिक यूरेनियम निर्यात का मार्ग प्रशस्त होगा। शिक्षा के क्षेत्र में भी अभूतपूर्व प्रगति हुई है। इसके तहत ऑस्ट्रेलियाई विश्वविद्यालयों के नए शाखा परिसर बेंगलुरु और गुरुग्राम में स्थापित किए जाएंगे। प्रधानमंत्री अल्बनीज़ ने इस बात पर विशेष बल दिया कि इस भविष्य-उन्मुख साझेदारी का सबसे मजबूत आधार दोनों देशों के बीच सेतु का कार्य करने वाला जीवंत भारतीय प्रवासी समुदाय है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T06:15:12+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-and-australian-prime-minister-anthony-albanese-announced-a-joint-declaration-on-defense-and-security-cooperation/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMw8oFWbkAAQfhF.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी",
         "summary": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी है। उन्होंने कहा कि राष्ट्रप्रथम की भावना से प्रेरित अखिल भारतीय विद्यार्थी परिषद दशकों से विद्यार्थियों को राष्ट्रीय सेवा, नेतृत्व और सामाजिक जिम्मेदारी के लिए प्रेरित करती आ रही है। सोशल मीडिया पोस्ट में श्री सिंह ने […]",
         "article": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी है। उन्होंने कहा कि राष्ट्रप्रथम की भावना से प्रेरित अखिल भारतीय विद्यार्थी परिषद दशकों से विद्यार्थियों को राष्ट्रीय सेवा, नेतृत्व और सामाजिक जिम्मेदारी के लिए प्रेरित करती आ रही है। सोशल मीडिया पोस्ट में श्री सिंह ने कहा कि इस संगठन ने राष्ट्रवादी विचारों, भारतीय संस्कृति, राष्ट्रीय एकता और सामाजिक चेतना को मजबूत करने में महत्वपूर्ण भूमिका निभाई है।",
@@ -1126,17 +1137,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-09T06:12:43+00:00",
         "link": "https://newsonair.gov.in/hi/defence-minister-rajnath-singh-congratulated-all-students-on-the-foundation-day-of-the-akhil-bharatiya-vidyarthi-parishad/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Rajnath-Singh-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्‍य विश्व विश्वनाथन ने “मेक विद इंडिया” पहल के बढ़ते असर पर ज़ोर दिया",
-        "summary": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्‍य विश्व विश्वनाथन ने &#8220;मेक विद इंडिया&#8221; पहल के बढ़ते असर पर ज़ोर दिया। यह समूह रणनीतिक कॉर्पोरेट पार्टनरशिप को बढ़ावा देकर, ऑस्ट्रेलिया में प्रधानमंत्री नरेंद्र मोदी के &#8220;मेक इन इंडिया&#8221; दृष्टिकोण को लागू करने का काम कर रहा है। श्री विश्वनाथन ने कहा कि यह सहयोग पारंपरिक व्यापार से […]",
-        "article": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्&#x200d;य विश्व विश्वनाथन ने &#8220;मेक विद इंडिया&#8221; पहल के बढ़ते असर पर ज़ोर दिया। यह समूह रणनीतिक कॉर्पोरेट पार्टनरशिप को बढ़ावा देकर, ऑस्ट्रेलिया में प्रधानमंत्री नरेंद्र मोदी के &#8220;मेक इन इंडिया&#8221; दृष्टिकोण को लागू करने का काम कर रहा है। श्री विश्वनाथन ने कहा कि यह सहयोग पारंपरिक व्यापार से आगे बढ़कर, महत्&#x200d;वपूर्ण क्षेत्रों पर ध्यान केंद्रित करता है। ऑस्ट्रेलिया की कंपनियों को आधुनिक तकनीक, स्&#x200d;वच्&#x200d;छ ऊर्जा, रक्षा और कृषि व्&#x200d;यवसाय जैसे क्षेत्रों में भारत के साथ साझेदारी करने के लिए सक्रिय रूप से प्रोत्साहित किया जा रहा है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T05:43:21+00:00",
-        "link": "https://newsonair.gov.in/hi/vishwa-vishwanathan-a-key-member-of-the-australia-india-business-council-emphasized-the-growing-impact-of-the-make-with-india-initiative/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1165,13 +1165,35 @@ window.VM_NEWS = {
     ],
     "breaking": [
       {
-        "title": "उपराष्ट्रपति ने ओडिशा में मत्स्य संसाधनों के सतत उपयोग के लिए राष्ट्रीय मिशन का शुभारंभ किया",
+        "title": "भारत और ऑस्ट्रेलिया ने यूरेनियम आपूर्ति और समर्पित महत्वपूर्ण खनिज गलियारे पर ऐतिहासिक समझौतों पर हस्ताक्षर किए",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के बीच आज मेलबर्न में तीसरी ऑस्ट्रेलिया-भारत वार्षिक शिखर वार्ता हुई। इस दौरान दोनों नेताओं ने प्रतिनिधिमंडल स्तर की वार्ता कर द्विपक्षीय संबंधों को और सशक्त बनाने पर चर्चा की। शिखर सम्मेलन के समापन के बाद विक्टोरिया के गवर्नमेंट हाउस में दोनों प्रधानमंत्रियों ने संयुक्त वक्तव्य […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के बीच आज मेलबर्न में तीसरी ऑस्ट्रेलिया-भारत वार्षिक शिखर वार्ता हुई। इस दौरान दोनों नेताओं ने प्रतिनिधिमंडल स्तर की वार्ता कर द्विपक्षीय संबंधों को और सशक्त बनाने पर चर्चा की। शिखर सम्मेलन के समापन के बाद विक्टोरिया के गवर्नमेंट हाउस में दोनों प्रधानमंत्रियों ने संयुक्त वक्तव्य जारी किया। दोनों नेताओं ने द्विपक्षीय संबंधों में आए परिवर्तनकारी महत्वपूर्ण बदलाव का स्वागत करते हुए क्षेत्रीय स्थिरता, ऊर्जा सुरक्षा और प्रौद्योगिकी नवाचार के लिए व्यापक सहयोग ढांचे को अंतिम रूप दिया। हिंद-प्रशांत क्षेत्र में शांति और स्थिरता सुनिश्चित करने के उद्देश्य से दोनों देशों ने रक्षा और सुरक्षा सहयोग पर ऐतिहासिक संयुक्त घोषणा पर हस्ताक्षर किए, वार्षिक रक्षा मंत्रियों के संवाद को संस्थागत स्वरूप प्रदान किया तथा समुद्री सुरक्षा सहयोग रोडमैप का शुभारंभ किया। प्रधानमंत्री मोदी ने भारत और ऑस्ट्रेलिया को &#8220;जीवंत लोकतंत्र और महत्वपूर्ण समुद्री शक्तियां&#8221; बताते हुए कहा कि हिंद-प्रशांत केवल दो महासागरों का संगम नहीं, बल्कि भारत और ऑस्ट्रेलिया जैसे समान विचारधारा वाले लोकतांत्रिक देशों की साझा आकांक्षाओं का प्रतीक है। संवाददाताओं को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि दोनों देशों के संबंध गहरे पारस्परिक विश्वास के आधार पर एक नए और व्यापक युग में प्रवेश कर चुके हैं। शिखर सम्मेलन की प्रमुख उपलब्धियों में आर्थिक और व्यापारिक सहयोग को नई गति देना शामिल रहा। वर्ष 2022 के आर्थिक सहयोग और व्यापार समझौते की सफलता के आधार पर दोनों देशों ने संतुलित, महत्वाकांक्षी और पारस्परिक रूप से लाभकारी व्यापक आर्थिक सहयोग समझौते तथा द्विपक्षीय निवेश संधि को शीघ्र अंतिम रूप देने पर सहमति व्यक्त की। ऊर्जा सुरक्षा के क्षेत्र में एक महत्वपूर्ण उपलब्धि के रूप में भारत को दीर्घकालिक ऑस्ट्रेलियाई यूरेनियम आपूर्ति का मार्ग प्रशस्त करने वाले एक महत्&#x200d;वपूर्ण समझौते पर हस्ताक्षर किए गए, जिससे भारत के स्वच्छ ऊर्जा लक्ष्यों को नई मजबूती मिलेगी। यह दोनों देशों की नवीकरणीय ऊर्जा साझेदारी का भी विस्तार है, जिसके तहत गुजरात में महिलाओं और युवाओं को सशक्त बनाने के उद्देश्य से संयुक्त रूप से रूफटॉप सोलर ट्रेनिंग अकादमी की स्थापना की गई है। रणनीतिक प्रौद्योगिकी और संसाधन सुरक्षा के क्षेत्र में भी उल्लेखनीय प्रगति हुई है। इसके तहत ऑस्ट्रेलिया-भारत साइबर, क्रिटिकल टेक्नोलॉजीज़ और सप्लाई चेन साझेदारी को क्रियान्वित किया गया तथा क्रिटिकल मिनरल्स कॉरिडोर की स्थापना की गई। आर्थिक सहयोग के क्षेत्र में एक अन्य महत्वपूर्ण उपलब्धि के रूप में परमाणु सहयोग समझौते के अंतर्गत अंतिम प्रशासनिक व्यवस्था पर हस्ताक्षर किए गए, जिससे भारत की स्वच्छ ऊर्जा परिवर्तन यात्रा के लिए ऑस्ट्रेलिया से दीर्घकालिक यूरेनियम निर्यात का मार्ग प्रशस्त होगा। शिक्षा के क्षेत्र में भी दोनों देशों के सहयोग को नई ऊँचाइयाँ मिली हैं। इसके तहत ऑस्ट्रेलिया विश्वविद्यालयों की नई शाखाए बेंगलुरु और गुरुग्राम में स्थापित की जाएंगी। प्रधानमंत्री एंथनी अल्बनीज़ ने कहा कि इस भविष्य-उन्मुख भारत-ऑस्ट्रेलिया साझेदारी का सबसे मजबूत आधार दोनों देशों के बीच सेतु का कार्य करने वाला जीवंत भारतीय प्रवासी समुदाय है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T08:55:12+00:00",
+        "link": "https://newsonair.gov.in/hi/india-and-australia-signed-historic-agreements-on-uranium-supply-and-a-dedicated-critical-minerals-corridor/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMw8ltRbAAACxLY.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उपराष्ट्रपति सी पी राधाकृष्णन ने भुवनेश्वर में खुले समुद्र के मत्स्य संसाधनों के सतत उपयोग के लिए राष्ट्रीय मिशन का अनावरण किया",
         "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने आज भुवनेश्वर स्थित ओडिशा कृषि और प्रौद्योगिकी विश्वविद्यालय में खुले समुद्र में मत्स्य संसाधनों के सतत उपयोग के लिए एक महत्वपूर्ण राष्ट्रीय मिशन का शुभारंभ किया। उन्होंने नीली अर्थव्यवस्था को राष्ट्रीय समृद्धि का परिवर्तनकारी इंजन बताते हुए युवाओं से आधुनिक, प्रौद्योगिकी-आधारित मत्स्य पालन और समुद्री व्यवसायों को &#8216;विकसित भारत&#8217; की आधारशिला […]",
         "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने आज भुवनेश्वर स्थित ओडिशा कृषि और प्रौद्योगिकी विश्वविद्यालय में खुले समुद्र में मत्स्य संसाधनों के सतत उपयोग के लिए एक महत्वपूर्ण राष्ट्रीय मिशन का शुभारंभ किया। उन्होंने नीली अर्थव्यवस्था को राष्ट्रीय समृद्धि का परिवर्तनकारी इंजन बताते हुए युवाओं से आधुनिक, प्रौद्योगिकी-आधारित मत्स्य पालन और समुद्री व्यवसायों को &#8216;विकसित भारत&#8217; की आधारशिला के रूप में अपनाने का आग्रह किया।",
         "date": "2026-07-09",
-        "pubDate": "2026-07-09T08:19:37+00:00",
-        "link": "https://newsonair.gov.in/hi/the-vice-president-launched-the-national-mission-for-the-sustainable-use-of-fisheries-resources-in-odisha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/VP-Radhakrishnan-to-visit-Jharkhand-tomorrow.jpg",
+        "pubDate": "2026-07-09T08:54:37+00:00",
+        "link": "https://newsonair.gov.in/hi/vice-president-c-p-radhakrishnan-unveiled-the-national-mission-for-the-sustainable-use-of-open-sea-fishery-resources-in-bhubaneswar/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMxSDiVaEAAAK2u.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वर्ल्ड इंटैंजीबल इन्वेस्टमेंट रिपोर्ट 2026 में भारत के वैश्विक नवाचार शक्ति के रूप में उभरने की पुष्टि की गई",
+        "summary": "विश्व बौद्धिक संपदा संगठन (डब्ल्यूआईपीओ) और लुइस बिजनेस स्कूल द्वारा जारी वर्ल्ड इंटैंजीबल इन्वेस्टमेंट रिपोर्ट 2026 में भारत के वैश्विक नवाचार शक्ति के रूप में उभरने की पुष्टि की गई है। वाणिज्य और उद्योग मंत्री पीयूष गोयल ने सोशल मीडिया पोस्ट में कहा कि यह रिपोर्ट सॉफ्टवेयर, अनुसंधान और विकास, बौद्धिक संपदा, नवाचार और संगठनात्मक […]",
+        "article": "विश्व बौद्धिक संपदा संगठन (डब्ल्यूआईपीओ) और लुइस बिजनेस स्कूल द्वारा जारी वर्ल्ड इंटैंजीबल इन्वेस्टमेंट रिपोर्ट 2026 में भारत के वैश्विक नवाचार शक्ति के रूप में उभरने की पुष्टि की गई है। वाणिज्य और उद्योग मंत्री पीयूष गोयल ने सोशल मीडिया पोस्ट में कहा कि यह रिपोर्ट सॉफ्टवेयर, अनुसंधान और विकास, बौद्धिक संपदा, नवाचार और संगठनात्मक क्षमताओं जैसे क्षेत्रों में भारत के बढ़ते निवेश को रेखांकित करती है, जो भविष्य की अर्थव्यवस्था को आकार दे रहे हैं। रिपोर्ट के अनुसार, भारत ने विश्व की 15 सबसे बड़ी अर्थव्यवस्थाओं में अमूर्त निवेश में सबसे तेज वृद्धि दर्ज की है। वर्ष 2023 में यह निवेश 7.9 प्रतिशत बढ़कर 78 अरब डॉलर से अधिक पहुंच गया। श्री गोयल ने कहा कि युवा इनोवेटर, उद्यमियों और रचनाकारों की ऊर्जा तथा आकांक्षाओं से प्रेरित भारत, विश्व की सबसे तेजी से बढ़ती प्रमुख अर्थव्यवस्था के रूप में एक वैश्विक केंद्र बना हुआ है और विचारों, नवाचार तथा उद्यम से संचालित ज्ञान-आधारित भविष्य का निर्माण कर रहा है। उन्होंने कहा कि प्रधानमंत्री के नेतृत्व में भारत निरंतर सुधारों, डिजिटल परिवर्तन और स्टार्टअप्स को समर्थन के माध्यम से अपने नवाचार पारिस्थितिकी तंत्र को लगातार मजबूत कर रहा है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T08:47:15+00:00",
+        "link": "https://newsonair.gov.in/hi/the-world-intangible-investment-report-2026-confirms-indias-emergence-as-a-global-innovation-powerhouse/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1242,17 +1264,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "प्रधानमंत्री मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने द्विपक्षीय संबंधों में आए परिवर्तनकारी बदलाव का स्वागत किया",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने विक्टोरिया के गवर्नमेंट हाउस में आयोजित तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन के समापन के बाद संयुक्त बयान जारी किया। दोनों नेताओं ने द्विपक्षीय संबंधों में आए परिवर्तनकारी बदलाव का स्वागत किया और क्षेत्रीय स्थिरता, ऊर्जा सुरक्षा तथा प्रौद्योगिकी नवाचार के लिए व्यापक रूपरेखाओं को अंतिम […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने विक्टोरिया के गवर्नमेंट हाउस में आयोजित तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन के समापन के बाद संयुक्त बयान जारी किया। दोनों नेताओं ने द्विपक्षीय संबंधों में आए परिवर्तनकारी बदलाव का स्वागत किया और क्षेत्रीय स्थिरता, ऊर्जा सुरक्षा तथा प्रौद्योगिकी नवाचार के लिए व्यापक रूपरेखाओं को अंतिम रूप दिया। प्रधानमंत्री मोदी ने कहा कि भारत-ऑस्ट्रेलिया साझेदारी भविष्य के लिए निर्मित एक सुदृढ़ और स्थायी संबंध है। उन्होंने मीडिया को संबोधित करते हुए कहा कि दोनों देशों के संबंध गहरे पारस्परिक विश्वास के आधार पर एक नए और व्यापक दौर में प्रवेश कर चुके हैं। शिखर सम्मेलन की प्रमुख उपलब्धियों में आर्थिक और व्यापारिक सहयोग को नई गति देना शामिल रहा। वर्ष 2022 के आर्थिक सहयोग और व्यापार समझौते की सफलता के आधार पर दोनों देशों ने संतुलित, महत्वाकांक्षी और पारस्परिक रूप से लाभकारी व्यापक आर्थिक सहयोग समझौते तथा द्विपक्षीय निवेश संधि को शीघ्र अंतिम रूप देने पर सहमति व्यक्त की। ऊर्जा सुरक्षा के क्षेत्र में एक बड़ी उपलब्धि के रूप में भारत को दीर्घकालिक ऑस्ट्रेलियाई यूरेनियम आपूर्ति का मार्ग प्रशस्त करने हेतु एक महत्वपूर्ण समझौते पर हस्ताक्षर किए गए, जिससे भारत के स्वच्छ ऊर्जा लक्ष्यों को नई मजबूती मिलेगी। यह दोनों देशों की सफल नवीकरणीय ऊर्जा साझेदारी का भी पूरक है, जिसके अंतर्गत गुजरात में महिलाओं और युवाओं को सशक्त बनाने के उद्देश्य से संयुक्त रूप से रूफटॉप सोलर ट्रेनिंग अकादमी की स्थापना की गई है। रणनीतिक प्रौद्योगिकी और संसाधन सुरक्षा के क्षेत्र में भी महत्वपूर्ण प्रगति हुई है। इसके अन्&#x200d;तर्गत ऑस्ट्रेलिया-भारत साइबर, क्रिटिकल टेक्नोलॉजीज़ और सप्लाई चेन साझेदारी को क्रियान्वित किया गया तथा महत्&#x200d;वपूर्ण खनिज कॉरिडोर की स्थापना की गई। हिंद-प्रशांत क्षेत्र की सुरक्षा को सुदृढ़ करने के उद्देश्य से दोनों नेताओं ने रक्षा और सुरक्षा सहयोग पर संयुक्त घोषणा जारी की। इसके अंतर्गत समुद्री सुरक्षा सहयोग रोडमैप शुरू किया गया तथा स्टार्टअप्स और उद्योगों को जोड़ने के लिए एक अभिनव डिफेंस इनोवेशन कॉरिडोर की शुरुआत की गई। प्रधानमंत्री एंथनी अल्बनीज़ ने कहा कि भारत-ऑस्ट्रेलिया संबंध पहले कभी इतने महत्वपूर्ण, गतिशील और व्यापक नहीं रहे। हिंद-प्रशांत क्षेत्र में शांति और स्थिरता सुनिश्चित करने के लिए दोनों नेताओं ने रक्षा और सुरक्षा सहयोग पर ऐतिहासिक संयुक्त घोषणा पर हस्ताक्षर किए, वार्षिक रक्षा मंत्रियों के संवाद को संस्थागत रूप दिया तथा एक साझा समुद्री सुरक्षा सहयोग रोडमैप का शुभारंभ किया। आर्थिक क्षेत्र में एक बड़ी उपलब्धि के रूप में परमाणु सहयोग समझौते के अंतर्गत अंतिम प्रशासनिक व्यवस्था पर हस्ताक्षर किए गए, जिससे भारत की स्वच्छ ऊर्जा परिवर्तन यात्रा के लिए ऑस्ट्रेलिया से दीर्घकालिक यूरेनियम निर्यात का मार्ग प्रशस्त होगा। शिक्षा के क्षेत्र में भी अभूतपूर्व प्रगति हुई है। इसके तहत ऑस्ट्रेलियाई विश्वविद्यालयों के नए शाखा परिसर बेंगलुरु और गुरुग्राम में स्थापित किए जाएंगे। प्रधानमंत्री अल्बनीज़ ने इस बात पर विशेष बल दिया कि इस भविष्य-उन्मुख साझेदारी का सबसे मजबूत आधार दोनों देशों के बीच सेतु का कार्य करने वाला जीवंत भारतीय प्रवासी समुदाय है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T06:15:12+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-and-australian-prime-minister-anthony-albanese-announced-a-joint-declaration-on-defense-and-security-cooperation/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMw8oFWbkAAQfhF.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी",
         "summary": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी है। उन्होंने कहा कि राष्ट्रप्रथम की भावना से प्रेरित अखिल भारतीय विद्यार्थी परिषद दशकों से विद्यार्थियों को राष्ट्रीय सेवा, नेतृत्व और सामाजिक जिम्मेदारी के लिए प्रेरित करती आ रही है। सोशल मीडिया पोस्ट में श्री सिंह ने […]",
         "article": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी है। उन्होंने कहा कि राष्ट्रप्रथम की भावना से प्रेरित अखिल भारतीय विद्यार्थी परिषद दशकों से विद्यार्थियों को राष्ट्रीय सेवा, नेतृत्व और सामाजिक जिम्मेदारी के लिए प्रेरित करती आ रही है। सोशल मीडिया पोस्ट में श्री सिंह ने कहा कि इस संगठन ने राष्ट्रवादी विचारों, भारतीय संस्कृति, राष्ट्रीय एकता और सामाजिक चेतना को मजबूत करने में महत्वपूर्ण भूमिका निभाई है।",
@@ -1260,30 +1271,41 @@ window.VM_NEWS = {
         "pubDate": "2026-07-09T06:12:43+00:00",
         "link": "https://newsonair.gov.in/hi/defence-minister-rajnath-singh-congratulated-all-students-on-the-foundation-day-of-the-akhil-bharatiya-vidyarthi-parishad/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Rajnath-Singh-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्‍य विश्व विश्वनाथन ने “मेक विद इंडिया” पहल के बढ़ते असर पर ज़ोर दिया",
-        "summary": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्‍य विश्व विश्वनाथन ने &#8220;मेक विद इंडिया&#8221; पहल के बढ़ते असर पर ज़ोर दिया। यह समूह रणनीतिक कॉर्पोरेट पार्टनरशिप को बढ़ावा देकर, ऑस्ट्रेलिया में प्रधानमंत्री नरेंद्र मोदी के &#8220;मेक इन इंडिया&#8221; दृष्टिकोण को लागू करने का काम कर रहा है। श्री विश्वनाथन ने कहा कि यह सहयोग पारंपरिक व्यापार से […]",
-        "article": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्&#x200d;य विश्व विश्वनाथन ने &#8220;मेक विद इंडिया&#8221; पहल के बढ़ते असर पर ज़ोर दिया। यह समूह रणनीतिक कॉर्पोरेट पार्टनरशिप को बढ़ावा देकर, ऑस्ट्रेलिया में प्रधानमंत्री नरेंद्र मोदी के &#8220;मेक इन इंडिया&#8221; दृष्टिकोण को लागू करने का काम कर रहा है। श्री विश्वनाथन ने कहा कि यह सहयोग पारंपरिक व्यापार से आगे बढ़कर, महत्&#x200d;वपूर्ण क्षेत्रों पर ध्यान केंद्रित करता है। ऑस्ट्रेलिया की कंपनियों को आधुनिक तकनीक, स्&#x200d;वच्&#x200d;छ ऊर्जा, रक्षा और कृषि व्&#x200d;यवसाय जैसे क्षेत्रों में भारत के साथ साझेदारी करने के लिए सक्रिय रूप से प्रोत्साहित किया जा रहा है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T05:43:21+00:00",
-        "link": "https://newsonair.gov.in/hi/vishwa-vishwanathan-a-key-member-of-the-australia-india-business-council-emphasized-the-growing-impact-of-the-make-with-india-initiative/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
-        "title": "उपराष्ट्रपति ने ओडिशा में मत्स्य संसाधनों के सतत उपयोग के लिए राष्ट्रीय मिशन का शुभारंभ किया",
+        "title": "भारत और ऑस्ट्रेलिया ने यूरेनियम आपूर्ति और समर्पित महत्वपूर्ण खनिज गलियारे पर ऐतिहासिक समझौतों पर हस्ताक्षर किए",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के बीच आज मेलबर्न में तीसरी ऑस्ट्रेलिया-भारत वार्षिक शिखर वार्ता हुई। इस दौरान दोनों नेताओं ने प्रतिनिधिमंडल स्तर की वार्ता कर द्विपक्षीय संबंधों को और सशक्त बनाने पर चर्चा की। शिखर सम्मेलन के समापन के बाद विक्टोरिया के गवर्नमेंट हाउस में दोनों प्रधानमंत्रियों ने संयुक्त वक्तव्य […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के बीच आज मेलबर्न में तीसरी ऑस्ट्रेलिया-भारत वार्षिक शिखर वार्ता हुई। इस दौरान दोनों नेताओं ने प्रतिनिधिमंडल स्तर की वार्ता कर द्विपक्षीय संबंधों को और सशक्त बनाने पर चर्चा की। शिखर सम्मेलन के समापन के बाद विक्टोरिया के गवर्नमेंट हाउस में दोनों प्रधानमंत्रियों ने संयुक्त वक्तव्य जारी किया। दोनों नेताओं ने द्विपक्षीय संबंधों में आए परिवर्तनकारी महत्वपूर्ण बदलाव का स्वागत करते हुए क्षेत्रीय स्थिरता, ऊर्जा सुरक्षा और प्रौद्योगिकी नवाचार के लिए व्यापक सहयोग ढांचे को अंतिम रूप दिया। हिंद-प्रशांत क्षेत्र में शांति और स्थिरता सुनिश्चित करने के उद्देश्य से दोनों देशों ने रक्षा और सुरक्षा सहयोग पर ऐतिहासिक संयुक्त घोषणा पर हस्ताक्षर किए, वार्षिक रक्षा मंत्रियों के संवाद को संस्थागत स्वरूप प्रदान किया तथा समुद्री सुरक्षा सहयोग रोडमैप का शुभारंभ किया। प्रधानमंत्री मोदी ने भारत और ऑस्ट्रेलिया को &#8220;जीवंत लोकतंत्र और महत्वपूर्ण समुद्री शक्तियां&#8221; बताते हुए कहा कि हिंद-प्रशांत केवल दो महासागरों का संगम नहीं, बल्कि भारत और ऑस्ट्रेलिया जैसे समान विचारधारा वाले लोकतांत्रिक देशों की साझा आकांक्षाओं का प्रतीक है। संवाददाताओं को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि दोनों देशों के संबंध गहरे पारस्परिक विश्वास के आधार पर एक नए और व्यापक युग में प्रवेश कर चुके हैं। शिखर सम्मेलन की प्रमुख उपलब्धियों में आर्थिक और व्यापारिक सहयोग को नई गति देना शामिल रहा। वर्ष 2022 के आर्थिक सहयोग और व्यापार समझौते की सफलता के आधार पर दोनों देशों ने संतुलित, महत्वाकांक्षी और पारस्परिक रूप से लाभकारी व्यापक आर्थिक सहयोग समझौते तथा द्विपक्षीय निवेश संधि को शीघ्र अंतिम रूप देने पर सहमति व्यक्त की। ऊर्जा सुरक्षा के क्षेत्र में एक महत्वपूर्ण उपलब्धि के रूप में भारत को दीर्घकालिक ऑस्ट्रेलियाई यूरेनियम आपूर्ति का मार्ग प्रशस्त करने वाले एक महत्&#x200d;वपूर्ण समझौते पर हस्ताक्षर किए गए, जिससे भारत के स्वच्छ ऊर्जा लक्ष्यों को नई मजबूती मिलेगी। यह दोनों देशों की नवीकरणीय ऊर्जा साझेदारी का भी विस्तार है, जिसके तहत गुजरात में महिलाओं और युवाओं को सशक्त बनाने के उद्देश्य से संयुक्त रूप से रूफटॉप सोलर ट्रेनिंग अकादमी की स्थापना की गई है। रणनीतिक प्रौद्योगिकी और संसाधन सुरक्षा के क्षेत्र में भी उल्लेखनीय प्रगति हुई है। इसके तहत ऑस्ट्रेलिया-भारत साइबर, क्रिटिकल टेक्नोलॉजीज़ और सप्लाई चेन साझेदारी को क्रियान्वित किया गया तथा क्रिटिकल मिनरल्स कॉरिडोर की स्थापना की गई। आर्थिक सहयोग के क्षेत्र में एक अन्य महत्वपूर्ण उपलब्धि के रूप में परमाणु सहयोग समझौते के अंतर्गत अंतिम प्रशासनिक व्यवस्था पर हस्ताक्षर किए गए, जिससे भारत की स्वच्छ ऊर्जा परिवर्तन यात्रा के लिए ऑस्ट्रेलिया से दीर्घकालिक यूरेनियम निर्यात का मार्ग प्रशस्त होगा। शिक्षा के क्षेत्र में भी दोनों देशों के सहयोग को नई ऊँचाइयाँ मिली हैं। इसके तहत ऑस्ट्रेलिया विश्वविद्यालयों की नई शाखाए बेंगलुरु और गुरुग्राम में स्थापित की जाएंगी। प्रधानमंत्री एंथनी अल्बनीज़ ने कहा कि इस भविष्य-उन्मुख भारत-ऑस्ट्रेलिया साझेदारी का सबसे मजबूत आधार दोनों देशों के बीच सेतु का कार्य करने वाला जीवंत भारतीय प्रवासी समुदाय है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T08:55:12+00:00",
+        "link": "https://newsonair.gov.in/hi/india-and-australia-signed-historic-agreements-on-uranium-supply-and-a-dedicated-critical-minerals-corridor/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMw8ltRbAAACxLY.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उपराष्ट्रपति सी पी राधाकृष्णन ने भुवनेश्वर में खुले समुद्र के मत्स्य संसाधनों के सतत उपयोग के लिए राष्ट्रीय मिशन का अनावरण किया",
         "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने आज भुवनेश्वर स्थित ओडिशा कृषि और प्रौद्योगिकी विश्वविद्यालय में खुले समुद्र में मत्स्य संसाधनों के सतत उपयोग के लिए एक महत्वपूर्ण राष्ट्रीय मिशन का शुभारंभ किया। उन्होंने नीली अर्थव्यवस्था को राष्ट्रीय समृद्धि का परिवर्तनकारी इंजन बताते हुए युवाओं से आधुनिक, प्रौद्योगिकी-आधारित मत्स्य पालन और समुद्री व्यवसायों को &#8216;विकसित भारत&#8217; की आधारशिला […]",
         "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने आज भुवनेश्वर स्थित ओडिशा कृषि और प्रौद्योगिकी विश्वविद्यालय में खुले समुद्र में मत्स्य संसाधनों के सतत उपयोग के लिए एक महत्वपूर्ण राष्ट्रीय मिशन का शुभारंभ किया। उन्होंने नीली अर्थव्यवस्था को राष्ट्रीय समृद्धि का परिवर्तनकारी इंजन बताते हुए युवाओं से आधुनिक, प्रौद्योगिकी-आधारित मत्स्य पालन और समुद्री व्यवसायों को &#8216;विकसित भारत&#8217; की आधारशिला के रूप में अपनाने का आग्रह किया।",
         "date": "2026-07-09",
-        "pubDate": "2026-07-09T08:19:37+00:00",
-        "link": "https://newsonair.gov.in/hi/the-vice-president-launched-the-national-mission-for-the-sustainable-use-of-fisheries-resources-in-odisha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/VP-Radhakrishnan-to-visit-Jharkhand-tomorrow.jpg",
+        "pubDate": "2026-07-09T08:54:37+00:00",
+        "link": "https://newsonair.gov.in/hi/vice-president-c-p-radhakrishnan-unveiled-the-national-mission-for-the-sustainable-use-of-open-sea-fishery-resources-in-bhubaneswar/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMxSDiVaEAAAK2u.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वर्ल्ड इंटैंजीबल इन्वेस्टमेंट रिपोर्ट 2026 में भारत के वैश्विक नवाचार शक्ति के रूप में उभरने की पुष्टि की गई",
+        "summary": "विश्व बौद्धिक संपदा संगठन (डब्ल्यूआईपीओ) और लुइस बिजनेस स्कूल द्वारा जारी वर्ल्ड इंटैंजीबल इन्वेस्टमेंट रिपोर्ट 2026 में भारत के वैश्विक नवाचार शक्ति के रूप में उभरने की पुष्टि की गई है। वाणिज्य और उद्योग मंत्री पीयूष गोयल ने सोशल मीडिया पोस्ट में कहा कि यह रिपोर्ट सॉफ्टवेयर, अनुसंधान और विकास, बौद्धिक संपदा, नवाचार और संगठनात्मक […]",
+        "article": "विश्व बौद्धिक संपदा संगठन (डब्ल्यूआईपीओ) और लुइस बिजनेस स्कूल द्वारा जारी वर्ल्ड इंटैंजीबल इन्वेस्टमेंट रिपोर्ट 2026 में भारत के वैश्विक नवाचार शक्ति के रूप में उभरने की पुष्टि की गई है। वाणिज्य और उद्योग मंत्री पीयूष गोयल ने सोशल मीडिया पोस्ट में कहा कि यह रिपोर्ट सॉफ्टवेयर, अनुसंधान और विकास, बौद्धिक संपदा, नवाचार और संगठनात्मक क्षमताओं जैसे क्षेत्रों में भारत के बढ़ते निवेश को रेखांकित करती है, जो भविष्य की अर्थव्यवस्था को आकार दे रहे हैं। रिपोर्ट के अनुसार, भारत ने विश्व की 15 सबसे बड़ी अर्थव्यवस्थाओं में अमूर्त निवेश में सबसे तेज वृद्धि दर्ज की है। वर्ष 2023 में यह निवेश 7.9 प्रतिशत बढ़कर 78 अरब डॉलर से अधिक पहुंच गया। श्री गोयल ने कहा कि युवा इनोवेटर, उद्यमियों और रचनाकारों की ऊर्जा तथा आकांक्षाओं से प्रेरित भारत, विश्व की सबसे तेजी से बढ़ती प्रमुख अर्थव्यवस्था के रूप में एक वैश्विक केंद्र बना हुआ है और विचारों, नवाचार तथा उद्यम से संचालित ज्ञान-आधारित भविष्य का निर्माण कर रहा है। उन्होंने कहा कि प्रधानमंत्री के नेतृत्व में भारत निरंतर सुधारों, डिजिटल परिवर्तन और स्टार्टअप्स को समर्थन के माध्यम से अपने नवाचार पारिस्थितिकी तंत्र को लगातार मजबूत कर रहा है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T08:47:15+00:00",
+        "link": "https://newsonair.gov.in/hi/the-world-intangible-investment-report-2026-confirms-indias-emergence-as-a-global-innovation-powerhouse/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1354,17 +1376,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "प्रधानमंत्री मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने द्विपक्षीय संबंधों में आए परिवर्तनकारी बदलाव का स्वागत किया",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने विक्टोरिया के गवर्नमेंट हाउस में आयोजित तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन के समापन के बाद संयुक्त बयान जारी किया। दोनों नेताओं ने द्विपक्षीय संबंधों में आए परिवर्तनकारी बदलाव का स्वागत किया और क्षेत्रीय स्थिरता, ऊर्जा सुरक्षा तथा प्रौद्योगिकी नवाचार के लिए व्यापक रूपरेखाओं को अंतिम […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने विक्टोरिया के गवर्नमेंट हाउस में आयोजित तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन के समापन के बाद संयुक्त बयान जारी किया। दोनों नेताओं ने द्विपक्षीय संबंधों में आए परिवर्तनकारी बदलाव का स्वागत किया और क्षेत्रीय स्थिरता, ऊर्जा सुरक्षा तथा प्रौद्योगिकी नवाचार के लिए व्यापक रूपरेखाओं को अंतिम रूप दिया। प्रधानमंत्री मोदी ने कहा कि भारत-ऑस्ट्रेलिया साझेदारी भविष्य के लिए निर्मित एक सुदृढ़ और स्थायी संबंध है। उन्होंने मीडिया को संबोधित करते हुए कहा कि दोनों देशों के संबंध गहरे पारस्परिक विश्वास के आधार पर एक नए और व्यापक दौर में प्रवेश कर चुके हैं। शिखर सम्मेलन की प्रमुख उपलब्धियों में आर्थिक और व्यापारिक सहयोग को नई गति देना शामिल रहा। वर्ष 2022 के आर्थिक सहयोग और व्यापार समझौते की सफलता के आधार पर दोनों देशों ने संतुलित, महत्वाकांक्षी और पारस्परिक रूप से लाभकारी व्यापक आर्थिक सहयोग समझौते तथा द्विपक्षीय निवेश संधि को शीघ्र अंतिम रूप देने पर सहमति व्यक्त की। ऊर्जा सुरक्षा के क्षेत्र में एक बड़ी उपलब्धि के रूप में भारत को दीर्घकालिक ऑस्ट्रेलियाई यूरेनियम आपूर्ति का मार्ग प्रशस्त करने हेतु एक महत्वपूर्ण समझौते पर हस्ताक्षर किए गए, जिससे भारत के स्वच्छ ऊर्जा लक्ष्यों को नई मजबूती मिलेगी। यह दोनों देशों की सफल नवीकरणीय ऊर्जा साझेदारी का भी पूरक है, जिसके अंतर्गत गुजरात में महिलाओं और युवाओं को सशक्त बनाने के उद्देश्य से संयुक्त रूप से रूफटॉप सोलर ट्रेनिंग अकादमी की स्थापना की गई है। रणनीतिक प्रौद्योगिकी और संसाधन सुरक्षा के क्षेत्र में भी महत्वपूर्ण प्रगति हुई है। इसके अन्&#x200d;तर्गत ऑस्ट्रेलिया-भारत साइबर, क्रिटिकल टेक्नोलॉजीज़ और सप्लाई चेन साझेदारी को क्रियान्वित किया गया तथा महत्&#x200d;वपूर्ण खनिज कॉरिडोर की स्थापना की गई। हिंद-प्रशांत क्षेत्र की सुरक्षा को सुदृढ़ करने के उद्देश्य से दोनों नेताओं ने रक्षा और सुरक्षा सहयोग पर संयुक्त घोषणा जारी की। इसके अंतर्गत समुद्री सुरक्षा सहयोग रोडमैप शुरू किया गया तथा स्टार्टअप्स और उद्योगों को जोड़ने के लिए एक अभिनव डिफेंस इनोवेशन कॉरिडोर की शुरुआत की गई। प्रधानमंत्री एंथनी अल्बनीज़ ने कहा कि भारत-ऑस्ट्रेलिया संबंध पहले कभी इतने महत्वपूर्ण, गतिशील और व्यापक नहीं रहे। हिंद-प्रशांत क्षेत्र में शांति और स्थिरता सुनिश्चित करने के लिए दोनों नेताओं ने रक्षा और सुरक्षा सहयोग पर ऐतिहासिक संयुक्त घोषणा पर हस्ताक्षर किए, वार्षिक रक्षा मंत्रियों के संवाद को संस्थागत रूप दिया तथा एक साझा समुद्री सुरक्षा सहयोग रोडमैप का शुभारंभ किया। आर्थिक क्षेत्र में एक बड़ी उपलब्धि के रूप में परमाणु सहयोग समझौते के अंतर्गत अंतिम प्रशासनिक व्यवस्था पर हस्ताक्षर किए गए, जिससे भारत की स्वच्छ ऊर्जा परिवर्तन यात्रा के लिए ऑस्ट्रेलिया से दीर्घकालिक यूरेनियम निर्यात का मार्ग प्रशस्त होगा। शिक्षा के क्षेत्र में भी अभूतपूर्व प्रगति हुई है। इसके तहत ऑस्ट्रेलियाई विश्वविद्यालयों के नए शाखा परिसर बेंगलुरु और गुरुग्राम में स्थापित किए जाएंगे। प्रधानमंत्री अल्बनीज़ ने इस बात पर विशेष बल दिया कि इस भविष्य-उन्मुख साझेदारी का सबसे मजबूत आधार दोनों देशों के बीच सेतु का कार्य करने वाला जीवंत भारतीय प्रवासी समुदाय है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T06:15:12+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-and-australian-prime-minister-anthony-albanese-announced-a-joint-declaration-on-defense-and-security-cooperation/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMw8oFWbkAAQfhF.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी",
         "summary": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी है। उन्होंने कहा कि राष्ट्रप्रथम की भावना से प्रेरित अखिल भारतीय विद्यार्थी परिषद दशकों से विद्यार्थियों को राष्ट्रीय सेवा, नेतृत्व और सामाजिक जिम्मेदारी के लिए प्रेरित करती आ रही है। सोशल मीडिया पोस्ट में श्री सिंह ने […]",
         "article": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी है। उन्होंने कहा कि राष्ट्रप्रथम की भावना से प्रेरित अखिल भारतीय विद्यार्थी परिषद दशकों से विद्यार्थियों को राष्ट्रीय सेवा, नेतृत्व और सामाजिक जिम्मेदारी के लिए प्रेरित करती आ रही है। सोशल मीडिया पोस्ट में श्री सिंह ने कहा कि इस संगठन ने राष्ट्रवादी विचारों, भारतीय संस्कृति, राष्ट्रीय एकता और सामाजिक चेतना को मजबूत करने में महत्वपूर्ण भूमिका निभाई है।",
@@ -1372,30 +1383,41 @@ window.VM_NEWS = {
         "pubDate": "2026-07-09T06:12:43+00:00",
         "link": "https://newsonair.gov.in/hi/defence-minister-rajnath-singh-congratulated-all-students-on-the-foundation-day-of-the-akhil-bharatiya-vidyarthi-parishad/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Rajnath-Singh-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्‍य विश्व विश्वनाथन ने “मेक विद इंडिया” पहल के बढ़ते असर पर ज़ोर दिया",
-        "summary": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्‍य विश्व विश्वनाथन ने &#8220;मेक विद इंडिया&#8221; पहल के बढ़ते असर पर ज़ोर दिया। यह समूह रणनीतिक कॉर्पोरेट पार्टनरशिप को बढ़ावा देकर, ऑस्ट्रेलिया में प्रधानमंत्री नरेंद्र मोदी के &#8220;मेक इन इंडिया&#8221; दृष्टिकोण को लागू करने का काम कर रहा है। श्री विश्वनाथन ने कहा कि यह सहयोग पारंपरिक व्यापार से […]",
-        "article": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्&#x200d;य विश्व विश्वनाथन ने &#8220;मेक विद इंडिया&#8221; पहल के बढ़ते असर पर ज़ोर दिया। यह समूह रणनीतिक कॉर्पोरेट पार्टनरशिप को बढ़ावा देकर, ऑस्ट्रेलिया में प्रधानमंत्री नरेंद्र मोदी के &#8220;मेक इन इंडिया&#8221; दृष्टिकोण को लागू करने का काम कर रहा है। श्री विश्वनाथन ने कहा कि यह सहयोग पारंपरिक व्यापार से आगे बढ़कर, महत्&#x200d;वपूर्ण क्षेत्रों पर ध्यान केंद्रित करता है। ऑस्ट्रेलिया की कंपनियों को आधुनिक तकनीक, स्&#x200d;वच्&#x200d;छ ऊर्जा, रक्षा और कृषि व्&#x200d;यवसाय जैसे क्षेत्रों में भारत के साथ साझेदारी करने के लिए सक्रिय रूप से प्रोत्साहित किया जा रहा है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T05:43:21+00:00",
-        "link": "https://newsonair.gov.in/hi/vishwa-vishwanathan-a-key-member-of-the-australia-india-business-council-emphasized-the-growing-impact-of-the-make-with-india-initiative/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
-        "title": "उपराष्ट्रपति ने ओडिशा में मत्स्य संसाधनों के सतत उपयोग के लिए राष्ट्रीय मिशन का शुभारंभ किया",
+        "title": "भारत और ऑस्ट्रेलिया ने यूरेनियम आपूर्ति और समर्पित महत्वपूर्ण खनिज गलियारे पर ऐतिहासिक समझौतों पर हस्ताक्षर किए",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के बीच आज मेलबर्न में तीसरी ऑस्ट्रेलिया-भारत वार्षिक शिखर वार्ता हुई। इस दौरान दोनों नेताओं ने प्रतिनिधिमंडल स्तर की वार्ता कर द्विपक्षीय संबंधों को और सशक्त बनाने पर चर्चा की। शिखर सम्मेलन के समापन के बाद विक्टोरिया के गवर्नमेंट हाउस में दोनों प्रधानमंत्रियों ने संयुक्त वक्तव्य […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के बीच आज मेलबर्न में तीसरी ऑस्ट्रेलिया-भारत वार्षिक शिखर वार्ता हुई। इस दौरान दोनों नेताओं ने प्रतिनिधिमंडल स्तर की वार्ता कर द्विपक्षीय संबंधों को और सशक्त बनाने पर चर्चा की। शिखर सम्मेलन के समापन के बाद विक्टोरिया के गवर्नमेंट हाउस में दोनों प्रधानमंत्रियों ने संयुक्त वक्तव्य जारी किया। दोनों नेताओं ने द्विपक्षीय संबंधों में आए परिवर्तनकारी महत्वपूर्ण बदलाव का स्वागत करते हुए क्षेत्रीय स्थिरता, ऊर्जा सुरक्षा और प्रौद्योगिकी नवाचार के लिए व्यापक सहयोग ढांचे को अंतिम रूप दिया। हिंद-प्रशांत क्षेत्र में शांति और स्थिरता सुनिश्चित करने के उद्देश्य से दोनों देशों ने रक्षा और सुरक्षा सहयोग पर ऐतिहासिक संयुक्त घोषणा पर हस्ताक्षर किए, वार्षिक रक्षा मंत्रियों के संवाद को संस्थागत स्वरूप प्रदान किया तथा समुद्री सुरक्षा सहयोग रोडमैप का शुभारंभ किया। प्रधानमंत्री मोदी ने भारत और ऑस्ट्रेलिया को &#8220;जीवंत लोकतंत्र और महत्वपूर्ण समुद्री शक्तियां&#8221; बताते हुए कहा कि हिंद-प्रशांत केवल दो महासागरों का संगम नहीं, बल्कि भारत और ऑस्ट्रेलिया जैसे समान विचारधारा वाले लोकतांत्रिक देशों की साझा आकांक्षाओं का प्रतीक है। संवाददाताओं को संबोधित करते हुए प्रधानमंत्री मोदी ने कहा कि दोनों देशों के संबंध गहरे पारस्परिक विश्वास के आधार पर एक नए और व्यापक युग में प्रवेश कर चुके हैं। शिखर सम्मेलन की प्रमुख उपलब्धियों में आर्थिक और व्यापारिक सहयोग को नई गति देना शामिल रहा। वर्ष 2022 के आर्थिक सहयोग और व्यापार समझौते की सफलता के आधार पर दोनों देशों ने संतुलित, महत्वाकांक्षी और पारस्परिक रूप से लाभकारी व्यापक आर्थिक सहयोग समझौते तथा द्विपक्षीय निवेश संधि को शीघ्र अंतिम रूप देने पर सहमति व्यक्त की। ऊर्जा सुरक्षा के क्षेत्र में एक महत्वपूर्ण उपलब्धि के रूप में भारत को दीर्घकालिक ऑस्ट्रेलियाई यूरेनियम आपूर्ति का मार्ग प्रशस्त करने वाले एक महत्&#x200d;वपूर्ण समझौते पर हस्ताक्षर किए गए, जिससे भारत के स्वच्छ ऊर्जा लक्ष्यों को नई मजबूती मिलेगी। यह दोनों देशों की नवीकरणीय ऊर्जा साझेदारी का भी विस्तार है, जिसके तहत गुजरात में महिलाओं और युवाओं को सशक्त बनाने के उद्देश्य से संयुक्त रूप से रूफटॉप सोलर ट्रेनिंग अकादमी की स्थापना की गई है। रणनीतिक प्रौद्योगिकी और संसाधन सुरक्षा के क्षेत्र में भी उल्लेखनीय प्रगति हुई है। इसके तहत ऑस्ट्रेलिया-भारत साइबर, क्रिटिकल टेक्नोलॉजीज़ और सप्लाई चेन साझेदारी को क्रियान्वित किया गया तथा क्रिटिकल मिनरल्स कॉरिडोर की स्थापना की गई। आर्थिक सहयोग के क्षेत्र में एक अन्य महत्वपूर्ण उपलब्धि के रूप में परमाणु सहयोग समझौते के अंतर्गत अंतिम प्रशासनिक व्यवस्था पर हस्ताक्षर किए गए, जिससे भारत की स्वच्छ ऊर्जा परिवर्तन यात्रा के लिए ऑस्ट्रेलिया से दीर्घकालिक यूरेनियम निर्यात का मार्ग प्रशस्त होगा। शिक्षा के क्षेत्र में भी दोनों देशों के सहयोग को नई ऊँचाइयाँ मिली हैं। इसके तहत ऑस्ट्रेलिया विश्वविद्यालयों की नई शाखाए बेंगलुरु और गुरुग्राम में स्थापित की जाएंगी। प्रधानमंत्री एंथनी अल्बनीज़ ने कहा कि इस भविष्य-उन्मुख भारत-ऑस्ट्रेलिया साझेदारी का सबसे मजबूत आधार दोनों देशों के बीच सेतु का कार्य करने वाला जीवंत भारतीय प्रवासी समुदाय है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T08:55:12+00:00",
+        "link": "https://newsonair.gov.in/hi/india-and-australia-signed-historic-agreements-on-uranium-supply-and-a-dedicated-critical-minerals-corridor/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMw8ltRbAAACxLY.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उपराष्ट्रपति सी पी राधाकृष्णन ने भुवनेश्वर में खुले समुद्र के मत्स्य संसाधनों के सतत उपयोग के लिए राष्ट्रीय मिशन का अनावरण किया",
         "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने आज भुवनेश्वर स्थित ओडिशा कृषि और प्रौद्योगिकी विश्वविद्यालय में खुले समुद्र में मत्स्य संसाधनों के सतत उपयोग के लिए एक महत्वपूर्ण राष्ट्रीय मिशन का शुभारंभ किया। उन्होंने नीली अर्थव्यवस्था को राष्ट्रीय समृद्धि का परिवर्तनकारी इंजन बताते हुए युवाओं से आधुनिक, प्रौद्योगिकी-आधारित मत्स्य पालन और समुद्री व्यवसायों को &#8216;विकसित भारत&#8217; की आधारशिला […]",
         "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने आज भुवनेश्वर स्थित ओडिशा कृषि और प्रौद्योगिकी विश्वविद्यालय में खुले समुद्र में मत्स्य संसाधनों के सतत उपयोग के लिए एक महत्वपूर्ण राष्ट्रीय मिशन का शुभारंभ किया। उन्होंने नीली अर्थव्यवस्था को राष्ट्रीय समृद्धि का परिवर्तनकारी इंजन बताते हुए युवाओं से आधुनिक, प्रौद्योगिकी-आधारित मत्स्य पालन और समुद्री व्यवसायों को &#8216;विकसित भारत&#8217; की आधारशिला के रूप में अपनाने का आग्रह किया।",
         "date": "2026-07-09",
-        "pubDate": "2026-07-09T08:19:37+00:00",
-        "link": "https://newsonair.gov.in/hi/the-vice-president-launched-the-national-mission-for-the-sustainable-use-of-fisheries-resources-in-odisha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/VP-Radhakrishnan-to-visit-Jharkhand-tomorrow.jpg",
+        "pubDate": "2026-07-09T08:54:37+00:00",
+        "link": "https://newsonair.gov.in/hi/vice-president-c-p-radhakrishnan-unveiled-the-national-mission-for-the-sustainable-use-of-open-sea-fishery-resources-in-bhubaneswar/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMxSDiVaEAAAK2u.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वर्ल्ड इंटैंजीबल इन्वेस्टमेंट रिपोर्ट 2026 में भारत के वैश्विक नवाचार शक्ति के रूप में उभरने की पुष्टि की गई",
+        "summary": "विश्व बौद्धिक संपदा संगठन (डब्ल्यूआईपीओ) और लुइस बिजनेस स्कूल द्वारा जारी वर्ल्ड इंटैंजीबल इन्वेस्टमेंट रिपोर्ट 2026 में भारत के वैश्विक नवाचार शक्ति के रूप में उभरने की पुष्टि की गई है। वाणिज्य और उद्योग मंत्री पीयूष गोयल ने सोशल मीडिया पोस्ट में कहा कि यह रिपोर्ट सॉफ्टवेयर, अनुसंधान और विकास, बौद्धिक संपदा, नवाचार और संगठनात्मक […]",
+        "article": "विश्व बौद्धिक संपदा संगठन (डब्ल्यूआईपीओ) और लुइस बिजनेस स्कूल द्वारा जारी वर्ल्ड इंटैंजीबल इन्वेस्टमेंट रिपोर्ट 2026 में भारत के वैश्विक नवाचार शक्ति के रूप में उभरने की पुष्टि की गई है। वाणिज्य और उद्योग मंत्री पीयूष गोयल ने सोशल मीडिया पोस्ट में कहा कि यह रिपोर्ट सॉफ्टवेयर, अनुसंधान और विकास, बौद्धिक संपदा, नवाचार और संगठनात्मक क्षमताओं जैसे क्षेत्रों में भारत के बढ़ते निवेश को रेखांकित करती है, जो भविष्य की अर्थव्यवस्था को आकार दे रहे हैं। रिपोर्ट के अनुसार, भारत ने विश्व की 15 सबसे बड़ी अर्थव्यवस्थाओं में अमूर्त निवेश में सबसे तेज वृद्धि दर्ज की है। वर्ष 2023 में यह निवेश 7.9 प्रतिशत बढ़कर 78 अरब डॉलर से अधिक पहुंच गया। श्री गोयल ने कहा कि युवा इनोवेटर, उद्यमियों और रचनाकारों की ऊर्जा तथा आकांक्षाओं से प्रेरित भारत, विश्व की सबसे तेजी से बढ़ती प्रमुख अर्थव्यवस्था के रूप में एक वैश्विक केंद्र बना हुआ है और विचारों, नवाचार तथा उद्यम से संचालित ज्ञान-आधारित भविष्य का निर्माण कर रहा है। उन्होंने कहा कि प्रधानमंत्री के नेतृत्व में भारत निरंतर सुधारों, डिजिटल परिवर्तन और स्टार्टअप्स को समर्थन के माध्यम से अपने नवाचार पारिस्थितिकी तंत्र को लगातार मजबूत कर रहा है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T08:47:15+00:00",
+        "link": "https://newsonair.gov.in/hi/the-world-intangible-investment-report-2026-confirms-indias-emergence-as-a-global-innovation-powerhouse/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1466,17 +1488,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "प्रधानमंत्री मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने द्विपक्षीय संबंधों में आए परिवर्तनकारी बदलाव का स्वागत किया",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने विक्टोरिया के गवर्नमेंट हाउस में आयोजित तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन के समापन के बाद संयुक्त बयान जारी किया। दोनों नेताओं ने द्विपक्षीय संबंधों में आए परिवर्तनकारी बदलाव का स्वागत किया और क्षेत्रीय स्थिरता, ऊर्जा सुरक्षा तथा प्रौद्योगिकी नवाचार के लिए व्यापक रूपरेखाओं को अंतिम […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने विक्टोरिया के गवर्नमेंट हाउस में आयोजित तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन के समापन के बाद संयुक्त बयान जारी किया। दोनों नेताओं ने द्विपक्षीय संबंधों में आए परिवर्तनकारी बदलाव का स्वागत किया और क्षेत्रीय स्थिरता, ऊर्जा सुरक्षा तथा प्रौद्योगिकी नवाचार के लिए व्यापक रूपरेखाओं को अंतिम रूप दिया। प्रधानमंत्री मोदी ने कहा कि भारत-ऑस्ट्रेलिया साझेदारी भविष्य के लिए निर्मित एक सुदृढ़ और स्थायी संबंध है। उन्होंने मीडिया को संबोधित करते हुए कहा कि दोनों देशों के संबंध गहरे पारस्परिक विश्वास के आधार पर एक नए और व्यापक दौर में प्रवेश कर चुके हैं। शिखर सम्मेलन की प्रमुख उपलब्धियों में आर्थिक और व्यापारिक सहयोग को नई गति देना शामिल रहा। वर्ष 2022 के आर्थिक सहयोग और व्यापार समझौते की सफलता के आधार पर दोनों देशों ने संतुलित, महत्वाकांक्षी और पारस्परिक रूप से लाभकारी व्यापक आर्थिक सहयोग समझौते तथा द्विपक्षीय निवेश संधि को शीघ्र अंतिम रूप देने पर सहमति व्यक्त की। ऊर्जा सुरक्षा के क्षेत्र में एक बड़ी उपलब्धि के रूप में भारत को दीर्घकालिक ऑस्ट्रेलियाई यूरेनियम आपूर्ति का मार्ग प्रशस्त करने हेतु एक महत्वपूर्ण समझौते पर हस्ताक्षर किए गए, जिससे भारत के स्वच्छ ऊर्जा लक्ष्यों को नई मजबूती मिलेगी। यह दोनों देशों की सफल नवीकरणीय ऊर्जा साझेदारी का भी पूरक है, जिसके अंतर्गत गुजरात में महिलाओं और युवाओं को सशक्त बनाने के उद्देश्य से संयुक्त रूप से रूफटॉप सोलर ट्रेनिंग अकादमी की स्थापना की गई है। रणनीतिक प्रौद्योगिकी और संसाधन सुरक्षा के क्षेत्र में भी महत्वपूर्ण प्रगति हुई है। इसके अन्&#x200d;तर्गत ऑस्ट्रेलिया-भारत साइबर, क्रिटिकल टेक्नोलॉजीज़ और सप्लाई चेन साझेदारी को क्रियान्वित किया गया तथा महत्&#x200d;वपूर्ण खनिज कॉरिडोर की स्थापना की गई। हिंद-प्रशांत क्षेत्र की सुरक्षा को सुदृढ़ करने के उद्देश्य से दोनों नेताओं ने रक्षा और सुरक्षा सहयोग पर संयुक्त घोषणा जारी की। इसके अंतर्गत समुद्री सुरक्षा सहयोग रोडमैप शुरू किया गया तथा स्टार्टअप्स और उद्योगों को जोड़ने के लिए एक अभिनव डिफेंस इनोवेशन कॉरिडोर की शुरुआत की गई। प्रधानमंत्री एंथनी अल्बनीज़ ने कहा कि भारत-ऑस्ट्रेलिया संबंध पहले कभी इतने महत्वपूर्ण, गतिशील और व्यापक नहीं रहे। हिंद-प्रशांत क्षेत्र में शांति और स्थिरता सुनिश्चित करने के लिए दोनों नेताओं ने रक्षा और सुरक्षा सहयोग पर ऐतिहासिक संयुक्त घोषणा पर हस्ताक्षर किए, वार्षिक रक्षा मंत्रियों के संवाद को संस्थागत रूप दिया तथा एक साझा समुद्री सुरक्षा सहयोग रोडमैप का शुभारंभ किया। आर्थिक क्षेत्र में एक बड़ी उपलब्धि के रूप में परमाणु सहयोग समझौते के अंतर्गत अंतिम प्रशासनिक व्यवस्था पर हस्ताक्षर किए गए, जिससे भारत की स्वच्छ ऊर्जा परिवर्तन यात्रा के लिए ऑस्ट्रेलिया से दीर्घकालिक यूरेनियम निर्यात का मार्ग प्रशस्त होगा। शिक्षा के क्षेत्र में भी अभूतपूर्व प्रगति हुई है। इसके तहत ऑस्ट्रेलियाई विश्वविद्यालयों के नए शाखा परिसर बेंगलुरु और गुरुग्राम में स्थापित किए जाएंगे। प्रधानमंत्री अल्बनीज़ ने इस बात पर विशेष बल दिया कि इस भविष्य-उन्मुख साझेदारी का सबसे मजबूत आधार दोनों देशों के बीच सेतु का कार्य करने वाला जीवंत भारतीय प्रवासी समुदाय है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T06:15:12+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-and-australian-prime-minister-anthony-albanese-announced-a-joint-declaration-on-defense-and-security-cooperation/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMw8oFWbkAAQfhF.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी",
         "summary": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी है। उन्होंने कहा कि राष्ट्रप्रथम की भावना से प्रेरित अखिल भारतीय विद्यार्थी परिषद दशकों से विद्यार्थियों को राष्ट्रीय सेवा, नेतृत्व और सामाजिक जिम्मेदारी के लिए प्रेरित करती आ रही है। सोशल मीडिया पोस्ट में श्री सिंह ने […]",
         "article": "रक्षा मंत्री राजनाथ सिंह ने अखिल भारतीय विद्यार्थी परिषद के स्थापना दिवस पर सभी विद्यार्थियों को बधाई दी है। उन्होंने कहा कि राष्ट्रप्रथम की भावना से प्रेरित अखिल भारतीय विद्यार्थी परिषद दशकों से विद्यार्थियों को राष्ट्रीय सेवा, नेतृत्व और सामाजिक जिम्मेदारी के लिए प्रेरित करती आ रही है। सोशल मीडिया पोस्ट में श्री सिंह ने कहा कि इस संगठन ने राष्ट्रवादी विचारों, भारतीय संस्कृति, राष्ट्रीय एकता और सामाजिक चेतना को मजबूत करने में महत्वपूर्ण भूमिका निभाई है।",
@@ -1484,17 +1495,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-09T06:12:43+00:00",
         "link": "https://newsonair.gov.in/hi/defence-minister-rajnath-singh-congratulated-all-students-on-the-foundation-day-of-the-akhil-bharatiya-vidyarthi-parishad/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Rajnath-Singh-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्‍य विश्व विश्वनाथन ने “मेक विद इंडिया” पहल के बढ़ते असर पर ज़ोर दिया",
-        "summary": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्‍य विश्व विश्वनाथन ने &#8220;मेक विद इंडिया&#8221; पहल के बढ़ते असर पर ज़ोर दिया। यह समूह रणनीतिक कॉर्पोरेट पार्टनरशिप को बढ़ावा देकर, ऑस्ट्रेलिया में प्रधानमंत्री नरेंद्र मोदी के &#8220;मेक इन इंडिया&#8221; दृष्टिकोण को लागू करने का काम कर रहा है। श्री विश्वनाथन ने कहा कि यह सहयोग पारंपरिक व्यापार से […]",
-        "article": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्&#x200d;य विश्व विश्वनाथन ने &#8220;मेक विद इंडिया&#8221; पहल के बढ़ते असर पर ज़ोर दिया। यह समूह रणनीतिक कॉर्पोरेट पार्टनरशिप को बढ़ावा देकर, ऑस्ट्रेलिया में प्रधानमंत्री नरेंद्र मोदी के &#8220;मेक इन इंडिया&#8221; दृष्टिकोण को लागू करने का काम कर रहा है। श्री विश्वनाथन ने कहा कि यह सहयोग पारंपरिक व्यापार से आगे बढ़कर, महत्&#x200d;वपूर्ण क्षेत्रों पर ध्यान केंद्रित करता है। ऑस्ट्रेलिया की कंपनियों को आधुनिक तकनीक, स्&#x200d;वच्&#x200d;छ ऊर्जा, रक्षा और कृषि व्&#x200d;यवसाय जैसे क्षेत्रों में भारत के साथ साझेदारी करने के लिए सक्रिय रूप से प्रोत्साहित किया जा रहा है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T05:43:21+00:00",
-        "link": "https://newsonair.gov.in/hi/vishwa-vishwanathan-a-key-member-of-the-australia-india-business-council-emphasized-the-growing-impact-of-the-make-with-india-initiative/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
