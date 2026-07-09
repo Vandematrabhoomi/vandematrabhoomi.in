@@ -1,17 +1,39 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-09T02:38:08.678468",
+  "generated": "2026-07-09T06:09:51.286196",
   "en": {
     "top": [
       {
-        "title": "PM Modi to hold talks with his Australian counterpart Anthony Albanese in Melbourne today",
-        "summary": "Prime Minister Narendra Modi will hold talks with his Australian counterpart Anthony Albanese in Melbourne today. Discussions between the two leaders are expected to focus on strengthening cooperation in trade, defence, critical technologies, education and people-to-people ties. His visit is expected to provide fresh momentum to the India-Australia Comprehensive Strategic Partnership. Prime Minist",
-        "article": "Prime Minister Narendra Modi will hold talks with his Australian counterpart Anthony Albanese in Melbourne today. Discussions between the two leaders are expected to focus on strengthening cooperation in trade, defence, critical technologies, education and people-to-people ties. His visit is expected to provide fresh momentum to the India-Australia Comprehensive Strategic Partnership. Prime Minister Modi is also scheduled to participate in the India-Australia CEOs Forum and address business leaders from both countries. He will also interact with the Indian diaspora at a community event in Melbourne. Mr Modi arrived in Melbourne yesterday evening on a 3-day visit to Australia at the invitation of Australian Prime Minister. PM Modi arrived in Melbourne from Indonesia in the second leg of his three-nation tour. Prime Minister thanked the Indian community in Melbourne for the warm welcome accorded to him, describing the reception as truly unforgettable. Braving the winter chill, members of the Indian diaspora gathered in large numbers outside the Prime Minister’s hotel, greeting him with chants of “Bharat Mata Ki Jai” and “Modi, Modi”. The welcome also featured cultural performances by local artists. Prime Minister also praised the Australian-India Orchestra for its rendition of ‘Maa Tujhe Salaam’, saying the performance reflected the role of music in strengthening people-to-people ties between the two countries. India’s High Commissioner to Australia, Nagesh Singh, said Mr Modi’s third visit to Australia in a decade reflects the significant growth in bilateral relations over the past few years. Mr Singh said, evolving global circumstances have brought India and Australia closer, with both countries sharing common strategic interests and a wide-ranging partnership. The High Commissioner said cooperation between the two countries has expanded across multiple sectors, reflecting the growing depth and diversity of India-Australia engagement.",
+        "title": "Vice President to launch Letters of Authorisation for sustainable high seas fishing in Odisha",
+        "summary": "Vice President C P Radhakrishnan will be visiting Bhubaneswar, Odisha, today. During the visit, the Vice President will attend the National Launch Programme for the issuance of Letters of Authorisation for Sustainable Harnessing of Fisheries in the High Seas at the Odisha University of Agriculture and Technology, Bhubaneswar. On the occasion, Mr Radhakrishnan will also […]",
+        "article": "Vice President C P Radhakrishnan will be visiting Bhubaneswar, Odisha, today. During the visit, the Vice President will attend the National Launch Programme for the issuance of Letters of Authorisation for Sustainable Harnessing of Fisheries in the High Seas at the Odisha University of Agriculture and Technology, Bhubaneswar. On the occasion, Mr Radhakrishnan will also launch the Odisha Deep Sea Fishing Mission Document. Later, the Vice President will attend the 15th Graduation Ceremony of the National Institute of Science Education and Research, Khordha, Bhubaneswar.",
         "date": "2026-07-09",
-        "pubDate": "2026-07-09T02:03:20+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-to-hold-talks-with-his-australian-counterpart-anthony-albanese-in-melbourne-today/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Anthony_Albanese_portrait_%28re-crop%29.jpg/1280px-Anthony_Albanese_portrait_%28re-crop%29.jpg",
-        "image_credit": "Wikipedia – Anthony Albanese (CC BY-SA)",
+        "pubDate": "2026-07-09T05:32:45+00:00",
+        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-to-launch-high-seas-fisheries-initiative-in-odisha/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/vp-cp-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "3rd BRICS Transport Ministers’ Meeting to begin in Maharashtra’s Nagpur today",
+        "summary": "The 3rd BRICS Transport Ministers Meeting under India&#8217;s BRICS Chairship will begin at Nagpur in Maharashtra from today. The meeting will bring together Ministers and Senior Officials from BRICS member countries to deliberate on key priorities in the transport sector, sustainability in infrastructure and mobility at the 3rd BRICS Transport Ministers&#8217; Meeting which is being […]",
+        "article": "The 3rd BRICS Transport Ministers Meeting under India&#8217;s BRICS Chairship will begin at Nagpur in Maharashtra from today. The meeting will bring together Ministers and Senior Officials from BRICS member countries to deliberate on key priorities in the transport sector, sustainability in infrastructure and mobility at the 3rd BRICS Transport Ministers&#8217; Meeting which is being arranged on 11th and 12th of this month in city of Nagpur. The meeting is being convened under India&#8217;s BRICS Chairship theme: &#8220;Building for Resilience, Innovation, Cooperation and Sustainability (BRICS)&#8221;, which reflects the shared commitment of BRICS nations to drive inclusive growth through technological innovation and enhanced connectivity. Union Transport Minister Nitin Gadkari will chair the BRICS Transport Ministers’ meeting on 11th of this month, which will see the participation from Ministers of other member countries. The opening session of Transport Working Group, including the senior officials from BRICS countries, has started today. Following the first two pivotal meetings of the Transport Working Group hosted by Russia and Brazil, this third iteration aims to deepen international transport cooperation. Over the two days, senior officials will review the progress of transport cooperation achieved since the Russian and Brazilian chairmanships, exchange international best practices and deliberate on emerging areas of collaboration, including Sustainable Aviation Fuel (SAF), urban mobility, multi-modal transport, resilient logistics’ supply chains, decarbonisation and the adoption of expanding AI-based technologies.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:27:31+00:00",
+        "link": "https://newsonair.gov.in/3rd-brics-transport-ministers-meeting-to-begin-in-maharashtras-nagpur-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/brics.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "HM Amit Shah greets ABVP workers on Foundation Day",
+        "summary": "Union Home Minister Amit Shah has greeted all workers of the Akhil Bharatiya Vidyarthi Parishad on its Foundation Day. In a social media post, Mr Shah said that, following the ideals of Swami Vivekananda, the organisation has been carrying out the task of organising student power and instilling the spirit of patriotism among the youth. […]",
+        "article": "Union Home Minister Amit Shah has greeted all workers of the Akhil Bharatiya Vidyarthi Parishad on its Foundation Day. In a social media post, Mr Shah said that, following the ideals of Swami Vivekananda, the organisation has been carrying out the task of organising student power and instilling the spirit of patriotism among the youth. The Home Minister said that whether it was the struggle against the Emergency or the issue of infiltration in the Northeast, the Vidyarthi Parishad has always inspired young people to play a leading role in nation-building. He expressed confidence that the organisation will continue to stand firm in the face of every challenge before the country and motivate the younger generation to keep national interests above all.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T04:03:14+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-greets-abvp-workers-on-foundation-day/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/abvp.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -21,19 +43,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T01:40:40+00:00",
         "link": "https://newsonair.gov.in/brics-womens-ministerial-meeting-reviews-draft-resolution-in-kochi/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kochi_Skyline.jpg",
-        "image_credit": "Wikipedia – Kochi (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "BRICS Women’s Ministerial Meeting Held in Kochi",
-        "summary": "The BRICS Women’s Ministerial Meeting, organized by the Union Ministry of Women and Child Development, was held in Kochi, Keralam. Union Minister for Women and Child Development Annapurna Devi, Minister of State Savitri Thakur and other dignitaries participated in the sessions. Union Minister Annapurna Devi highlighted the four key priorities of India’s BRICS Chairship: Resilience, […]",
-        "article": "The BRICS Women’s Ministerial Meeting, organized by the Union Ministry of Women and Child Development, was held in Kochi, Keralam. Union Minister for Women and Child Development Annapurna Devi, Minister of State Savitri Thakur and other dignitaries participated in the sessions. Union Minister Annapurna Devi highlighted the four key priorities of India’s BRICS Chairship: Resilience, Innovation, Cooperation, and Sustainability. ​Participating in the plenary session of the thematic panel discussions, Minister of State Savitri Thakur explained the significance India places on women&#8217;s empowerment and women-led development under the visionary leadership of Prime Minister Narendra Modi. Delegates from 11 countries are participating in the meetings. In connection with the meeting, a special exhibition has also been organized at the venue.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:37:37+00:00",
-        "link": "https://newsonair.gov.in/brics-womens-ministerial-meeting-held-in-kochi/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kochi_Skyline.jpg",
-        "image_credit": "Wikipedia – Kochi (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-Womens-Ministerial-Meeting-begins-in-Kochi.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -43,63 +54,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T01:37:35+00:00",
         "link": "https://newsonair.gov.in/imd-forecasts-heavy-to-very-heavy-rainfall-across-parts-of-north-east-and-northeast-india/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, Myanmar review bilateral security cooperation at National Level Meeting",
-        "summary": "India and Myanmar have discussed bilateral security cooperation and reviewed progress under bilateral dialogue mechanisms. The two-day 23rd National Level Meeting between India and Myanmar concluded in New Delhi yesterday. Ministry of Home Affairs said that the two sides discussed cooperation in combating transnational crimes, including terrorism, insurgency, narcotics trafficking, arms smuggling,",
-        "article": "India and Myanmar have discussed bilateral security cooperation and reviewed progress under bilateral dialogue mechanisms. The two-day 23rd National Level Meeting between India and Myanmar concluded in New Delhi yesterday. Ministry of Home Affairs said that the two sides discussed cooperation in combating transnational crimes, including terrorism, insurgency, narcotics trafficking, arms smuggling, human trafficking, wildlife trafficking, cybercrime and other forms of organised crime. They also agreed to enhance intelligence sharing and operational coordination, and undertake capacity-building initiatives to address shared security challenges effectively. The meeting reaffirmed the importance attached by both countries to their longstanding friendship and close partnership and their shared commitment to further strengthen cooperation for the mutual benefit of the two countries. They reviewed the prevailing security situation along the India-Myanmar border and reaffirmed the importance of maintaining peace, stability and security along the India-Myanmar border. Both sides underscored the importance of preventing the misuse of sovereign territory for activities inimical to their security interests. The Myanmar side assured that its territory would not be permitted to be used against India’s security interests. The two sides shared the importance of working closely towards the completion of Kaladan Multi-Modal Transit Transport project and the India-Myanmar-Thailand trilateral highway. The two sides agreed to continue close engagement and cooperation on security matters among relevant agencies through existing bilateral mechanisms, regular exchanges, training programmes and implementation of mutually agreed decisions. The Indian side underlined that Myanmar occupies an important place in India&#8217;s Neighbourhood First, Act East and Mutual and Holistic Advancement for Security and Growth Across Regions (MAHASAGAR) policies. Home Secretary, Govind Mohan led the Indian delegation and Deputy Minister, Myanmar’s Ministry of Home Affairs, Major General Min Thu led the Myanmar delegation.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T01:35:04+00:00",
-        "link": "https://newsonair.gov.in/india-myanmar-review-bilateral-security-cooperation-at-national-level-meeting/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NTA issues advance city intimation slip for CSIR UGC NET June 2026 exam",
-        "summary": "The National Testing Agency (NTA) has released advance city intimation slip for CSIR UGC NET June 2026. The exam will be held on the 17th and 18th of this month. Students are advised to download their slip from the official website www.csirnet.nta.nic.in to know allotted exam city.",
-        "article": "The National Testing Agency (NTA) has released advance city intimation slip for CSIR UGC NET June 2026. The exam will be held on the 17th and 18th of this month. Students are advised to download their slip from the official website www.csirnet.nta.nic.in to know allotted exam city.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T01:21:10+00:00",
-        "link": "https://newsonair.gov.in/nta-issues-advance-city-intimation-slip-for-csir-ugc-net-june-2026-exam/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMF says India to remain world’s fastest-growing major economy",
-        "summary": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year […]",
-        "article": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year to 6.4 per cent. The report said, the projected performance of Indian economy is supported by strong momentum in private consumption and services activity. India’s growth projections are more than twice the global numbers, as the report gave a 3 per cent projection for the world economy’s growth this year. The report presented a relatively positive outlook for the world economy growth, as it is expected to rise 3.4 per cent next year. China, which is the second fastest-growing economy, was projected to grow by 4.6 per cent this year and lose a half point, falling to 4.1 per cent next year. The US ranked third with a projected growth of 2.3 per cent this year and 2.2 per cent next year.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T00:30:44+00:00",
-        "link": "https://newsonair.gov.in/imf-projects-india-to-remain-worlds-fastest-growing-major-economy/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Jitendra Singh Highlights AI Potential to Boost Agriculture Economy",
-        "summary": "Science and Technology Minister Dr Jitendra Singh today said that Artificial Intelligence intervention holds promise of multifold increase in country&#8217;s agricultural economy. He added, according to one estimates, AI-driven optimisation alone can help each farmer save nearly five thousand rupees annually, creating an estimated seventy thousand crore rupees value addition for the overall agricu",
-        "article": "Science and Technology Minister Dr Jitendra Singh today said that Artificial Intelligence intervention holds promise of multifold increase in country&#8217;s agricultural economy. He added, according to one estimates , AI-driven optimisation alone can help each farmer save nearly five thousand rupees annually, creating an estimated seventy thousand crore rupees value addition for the overall agricultural economy. Addressing the 17th Agriculture Leadership Conclave 2026 in New Delhi, Dr Singh said that Agri-Startups are the defining force of India&#8217;s agricultural future. The Minister highlighted that agriculture today demands close collaboration among government, industry, research institutions, startups and farmers to ensure that innovation reaches the field and translates into economic gains. He emphasised that India must continuously adapt to new scientific developments in order to remain globally competitive and ensure long-term food and nutritional security.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:49:07+00:00",
-        "link": "https://newsonair.gov.in/union-minister-jitendra-singh-highlights-ai-potential-to-boost-agriculture-economy/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ISRO Successfully Conducts Integrated Main parachute Airdrop Test for Gaganyaan Mission",
-        "summary": "The Indian Space Research Organisation (ISRO) has successfully conducted a critical Integrated Main parachute Airdrop Test (IMAT) for the Gaganyaan Missions at the Aerial Delivery Research and Development Establishment (ADRDE) drop zone in Sheopur, Madhya Pradesh. ISRO said that the objective of the test was to qualify the Main Parachute for its structural integrity and […]",
-        "article": "The Indian Space Research Organisation (ISRO) has successfully conducted a critical Integrated Main parachute Airdrop Test (IMAT) for the Gaganyaan Missions at the Aerial Delivery Research and Development Establishment (ADRDE) drop zone in Sheopur, Madhya Pradesh. ISRO said that the objective of the test was to qualify the Main Parachute for its structural integrity and design margins under the maximum expected load conditions in the first uncrewed Gaganyaan G1 mission. ISRO highlighted that this is the 5th test in a series of Integrated Main parachute Airdrop Tests (IMAT) to qualify the critical Main Parachute for the Gaganyaan Mission. It added that the successful completion of IMAT-05 provides necessary confidence in the performance and reliability of the Main Parachute System for the first Uncrewed Gaganyaan Mission (G1). During the test, a simulated assembly of a single main parachute and a dummy mass was dropped from an altitude of 2.5 kilometres using an Indian Air Force IL-76 aircraft. The complex descent sequence began with an extractor parachute that deployed a Drogue parachute to stabilize oscillations. Upon achieving the requisite conditions, the main parachute was deployed, which slowed the payload to a safe terminal speed. ISRO highlighted that the deceleration system of Gaganyaan Crew Module comprises a total of 10 parachutes of 4 types. The descent sequence begins with two Apex Cover Separation parachutes that remove the protective cover of the parachute compartment, followed by two Drogue Parachutes that stabilize and decelerate the module. Upon release of the drogues, three Pilot Parachutes are deployed to extract three Main Parachutes, which further slows down the Crew Module to ensure a safe splashdown in the sea.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:43:14+00:00",
-        "link": "https://newsonair.gov.in/isro-successfully-conducts-integrated-main-parachute-airdrop-test-for-gaganyaan-mission/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/imd-5-1-13.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -109,19 +65,8 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T16:34:43+00:00",
         "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Pralhad Joshi Holds Talks with States on Food Security Issues",
-        "summary": "Union Minister of Consumer Affairs, Food and Public Distribution Pralhad Joshi today met Ministers and representatives from various states in New Delhi to discuss food security concerns. In a series of social media post, Mr Joshi said that he met Kerala&#8217;s Minister for Food and Civil Supplies, Anoop Jacob to discuss key issues concerning food security, […]",
-        "article": "Union Minister of Consumer Affairs, Food and Public Distribution Pralhad Joshi today met Ministers and representatives from various states in New Delhi to discuss food security concerns. In a series of social media post , Mr Joshi said that he met Kerala&#8217;s Minister for Food and Civil Supplies, Anoop Jacob to discuss key issues concerning food security, the Public Distribution System, consumer affairs and legal metrology in the State. They deliberated on paddy procurement and related matters, along with measures to strengthen the Public Distribution System and consumer protection. During the meeting, Mr Joshi urged Kerala Government to adopt the rightful beneficiary targeting methodology followed by other States to ensure that food support reaches only genuine and eligible beneficiaries. He assured that the issues raised will be examined in accordance with the existing policy framework. The Consumer Affairs Minister also met Karnataka&#8217;s Minister of Food and Civil Supplies, K. H. Muniyappa and discussed matters related to the state&#8217;s Food and Civil Supplies Department. Discussions were held regarding the grants under the previous year&#8217;s MSP scheme. Earlier in the day, Mr Joshi met a delegation led by Union Minister G Kishan Reddy to discuss Telangana&#8217;s paddy procurement requirements. The delegation highlighted the State&#8217;s rising production and sought consideration for enhancing the procurement target to ensure better support for farmers. It also expressed appreciation for the Centre&#8217;s consistent support to Telangana through timely policy interventions and procurement-related decisions over the years. The Union Minister has asked the Department to examine the proposal in detail and assess its feasibility in accordance with the prevailing guidelines.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:29:16+00:00",
-        "link": "https://newsonair.gov.in/union-minister-pralhad-joshi-holds-talks-with-states-on-food-security-issues/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mea-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -131,6 +76,66 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T16:13:11+00:00",
         "link": "https://newsonair.gov.in/trump-accuses-nato-allies-of-failing-to-back-us-during-iran-operation/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/trump-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi welcomes AustralianSuper’s 500 million Australian dollar investment in India",
+        "summary": "India welcomed the five hundred million Australian dollar investment from AustralianSuper, announced by their Chief Executive Officer, Paul Schroder this morning in Melbourne. &#160; In a social media post, Prime Minister Narendra Modi said that this is another glimpse of the global confidence in India’s growth and reform trajectory. He added it also reflects the […]",
+        "article": "India welcomed the five hundred million Australian dollar investment from AustralianSuper, announced by their Chief Executive Officer, Paul Schroder this morning in Melbourne. &nbsp; In a social media post, Prime Minister Narendra Modi said that this is another glimpse of the global confidence in India’s growth and reform trajectory. He added it also reflects the immense opportunities that India’s dynamic economy offers to global investors.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:36:48+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-welcomes-australiansupers-500-million-australian-dollar-investment-in-india/",
+        "post_id": 1727467,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Australia India Business Council highlights growing momentum of ‘Make with India’ initiative",
+        "summary": "Mr Vish Vishwanathan from the Australia-India Business Council highlighted the growing impact of the &#8220;Make with India&#8221; initiative. This industry chapter actively translates Prime Minister Narendra Modi’s &#8220;Make in India&#8221; vision into reality on Australian soil by fostering strategic corporate partnerships. &#160; Mr. Vishwanathan emphasised that this collaboration extends far",
+        "article": "Mr Vish Vishwanathan from the Australia-India Business Council highlighted the growing impact of the &#8220;Make with India&#8221; initiative. This industry chapter actively translates Prime Minister Narendra Modi’s &#8220;Make in India&#8221; vision into reality on Australian soil by fostering strategic corporate partnerships. &nbsp; Mr. Vishwanathan emphasised that this collaboration extends far beyond traditional trade, focusing on critical emerging sectors. Australian companies are being actively encouraged to partner with India in advanced manufacturing, clean energy, defence, and agribusiness. A particularly encouraging aspect of this bilateral relationship is the strong bipartisan political support it enjoys in Australia, ensuring continuity and growth regardless of political shifts. Central to this strengthening bridge is the more than one million-strong Indian diaspora. Describing them as a highly skilled and enthusiastic community, Mr. Vishwanathan, who has lived in Australia for over thirty-seven years while remaining a proud Indian passport holder, noted that the diaspora is uniquely positioned to drive this partnership forward, opening new chapters of mutual global growth.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:20:07+00:00",
+        "link": "https://newsonair.gov.in/australia-india-business-council-highlights-growing-momentum-of-make-with-india-initiative/",
+        "post_id": 1727334,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India’s Aswath S becomes country’s 98th Chess Grandmaster",
+        "summary": "India&#8217;s march towards its 100th Grandmaster gathered momentum yesterday, with 17-year-old Aswath S from Kanyakumari becoming the country&#8217;s 98th Grandmaster after clinching his final GM norm at the 2026 Pune International Grandmaster Round Robin. Needing a win in the final round, Aswath defeated USA&#8217;s FM Kannan Vaidyanathan with the black pieces to complete the […]",
+        "article": "India&#8217;s march towards its 100th Grandmaster gathered momentum yesterday, with 17-year-old Aswath S from Kanyakumari becoming the country&#8217;s 98th Grandmaster after clinching his final GM norm at the 2026 Pune International Grandmaster Round Robin. Needing a win in the final round, Aswath defeated USA&#8217;s FM Kannan Vaidyanathan with the black pieces to complete the Grandmaster title requirements. He finished the tournament with 7 points from 9 rounds, recording six wins, two draws, and one loss to secure second place. Aswath had earned his first GM norm at the Grenke Open last year and his second at the First Saturday GM Round Robin in Budapest in December, where he also crossed the 2500 rating mark. After a slow start in Pune, including a loss to GM Abhijeet Gupta, Aswath bounced back with a strong finish to achieve the biggest milestone of his chess career. He is the latest Indian to achieve the Grandmaster title, continuing the country&#8217;s impressive rise in world chess.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T04:05:36+00:00",
+        "link": "https://newsonair.gov.in/indias-aswath-s-becomes-countrys-98th-chess-grandmaster/",
+        "post_id": 1726955,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi, Australian PM Anthony Albanese attend India-Australia CEO Forum in Melbourne",
+        "summary": "Prime Minister Modi and his counterpart Albanese addressed the high-profile India-Australia CEO Forum and Economic Roadmap Business Reception in Melbourne today. Addressing the business reception, Prime Minister Modi said the India-Australia partnership has entered a transformative, high-tech era. He outlined a visionary roadmap to accelerate bilateral trade toward its monumental 100 billion US Do",
+        "article": "Prime Minister Modi and his counterpart Albanese addressed the high-profile India-Australia CEO Forum and Economic Roadmap Business Reception in Melbourne today. Addressing the business reception, Prime Minister Modi said the India-Australia partnership has entered a transformative, high-tech era. He outlined a visionary roadmap to accelerate bilateral trade toward its monumental 100 billion US Dollars target by 2030, emphasising a structural transition to high-value, future-ready commerce. The Prime Minister emphasised that, amidst global supply chain disruptions, India and Australia stand together as natural, trusted anchors of stability. He invited deep commercial collaboration across future-ready frontiers, highlighting India’s ambitious target of achieving 500 GW of renewable energy capacity by 2030 and net-zero emissions by 2070 and its newly opened private nuclear sector with a target of achieving 100 GW of nuclear power capacity by 2047, backed by Australia’s massive uranium reserves. Turning to core industries, the Prime Minister spotlighted India’s unprecedented infrastructure expansion, currently constructing 34 kilometres of national highways and over 1 kilometre of railway tracks daily, positioning the country as an ideal, secure destination for long-term Australian pension fund capital. As the world&#8217;s second-largest crude steel producer, India is also primed to co-develop low-carbon aluminium and green iron to build highly resilient, sustainable supply chains. In the high-tech space, backed by a USD 10 billion government incentive program, he advocated for co-creating global solutions in semiconductors, artificial intelligence, quantum computing, data centres, and digital public infrastructure. On human capital, he celebrated the establishment of Australian university campuses in GIFT City, urging corporate leaders to structurally convert student mobility into a lifelong talent partnership. Crucially, the Prime Minister suggested a decentralised approach to economic diplomacy, urging corporate leaders to bypass a capital-centric focus and instead forge direct, state-to-state alliances. By linking Western Australia’s critical minerals with Gujarat’s manufacturing and Victoria’s innovation hubs with Karnataka&#8217;s tech ecosystem, this strategic roadmap transforms high-level diplomatic trust into localised, enduring engines of prosperity. Speaking at the forum, Australian Prime Minister Anthony Albanese celebrated the historic transformation of the Australia-India alliance from parallel journeys into a deeply integrated, future-ready partnership. He highlighted that India is securely on track to become the world&#8217;s third-largest economy. Albanese outlined major milestones driving this strategic roadmap, including AustralianSuper’s additional 500 million AUD commitment to India&#8217;s National Investment and Infrastructure Fund. Educational cooperation has reached unprecedented heights, expanding beyond GIFT City campuses to embrace massive resource investments by Monash University to fund exchange programmes and critical scholarships. Furthermore, industrial synergy is actively taking shape through the landmark Perdaman Project Ceres urea plant, which seamlessly pairs advanced Indian machinery with Australian resources to secure global agricultural supply chains. Ultimately, Albanese emphasised that the true custodians of this dynamic partnership remain the vibrant, one-million-strong diaspora bridging both …",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T03:04:26+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-australian-pm-anthony-albanese-attend-india-australia-ceo-forum-in-melbourne/",
+        "post_id": 1727000,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi to hold talks with his Australian counterpart Anthony Albanese in Melbourne today",
+        "summary": "Prime Minister Narendra Modi will hold talks with his Australian counterpart Anthony Albanese in Melbourne today. Discussions between the two leaders are expected to focus on strengthening cooperation in trade, defence, critical technologies, education and people-to-people ties. His visit is expected to provide fresh momentum to the India-Australia Comprehensive Strategic Partnership. Prime Minist",
+        "article": "Prime Minister Narendra Modi will hold talks with his Australian counterpart Anthony Albanese in Melbourne today. Discussions between the two leaders are expected to focus on strengthening cooperation in trade, defence, critical technologies, education and people-to-people ties. His visit is expected to provide fresh momentum to the India-Australia Comprehensive Strategic Partnership. Prime Minister Modi is also scheduled to participate in the India-Australia CEOs Forum and address business leaders from both countries. He will also interact with the Indian diaspora at a community event in Melbourne. Mr Modi arrived in Melbourne yesterday evening on a 3-day visit to Australia at the invitation of Australian Prime Minister. PM Modi arrived in Melbourne from Indonesia in the second leg of his three-nation tour. Prime Minister thanked the Indian community in Melbourne for the warm welcome accorded to him, describing the reception as truly unforgettable. Braving the winter chill, members of the Indian diaspora gathered in large numbers outside the Prime Minister’s hotel, greeting him with chants of “Bharat Mata Ki Jai” and “Modi, Modi”. The welcome also featured cultural performances by local artists. Prime Minister also praised the Australian-India Orchestra for its rendition of ‘Maa Tujhe Salaam’, saying the performance reflected the role of music in strengthening people-to-people ties between the two countries. India’s High Commissioner to Australia, Nagesh Singh, said Mr Modi’s third visit to Australia in a decade reflects the significant growth in bilateral relations over the past few years. Mr Singh said, evolving global circumstances have brought India and Australia closer, with both countries sharing common strategic interests and a wide-ranging partnership. The High Commissioner said cooperation between the two countries has expanded across multiple sectors, reflecting the growing depth and diversity of India-Australia engagement.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T02:03:20+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-to-hold-talks-with-his-australian-counterpart-anthony-albanese-in-melbourne-today/",
+        "post_id": 1726888,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -138,14 +143,25 @@ window.VM_NEWS = {
     ],
     "breaking": [
       {
-        "title": "PM Modi to hold talks with his Australian counterpart Anthony Albanese in Melbourne today",
-        "summary": "Prime Minister Narendra Modi will hold talks with his Australian counterpart Anthony Albanese in Melbourne today. Discussions between the two leaders are expected to focus on strengthening cooperation in trade, defence, critical technologies, education and people-to-people ties. His visit is expected to provide fresh momentum to the India-Australia Comprehensive Strategic Partnership. Prime Minist",
-        "article": "Prime Minister Narendra Modi will hold talks with his Australian counterpart Anthony Albanese in Melbourne today. Discussions between the two leaders are expected to focus on strengthening cooperation in trade, defence, critical technologies, education and people-to-people ties. His visit is expected to provide fresh momentum to the India-Australia Comprehensive Strategic Partnership. Prime Minister Modi is also scheduled to participate in the India-Australia CEOs Forum and address business leaders from both countries. He will also interact with the Indian diaspora at a community event in Melbourne. Mr Modi arrived in Melbourne yesterday evening on a 3-day visit to Australia at the invitation of Australian Prime Minister. PM Modi arrived in Melbourne from Indonesia in the second leg of his three-nation tour. Prime Minister thanked the Indian community in Melbourne for the warm welcome accorded to him, describing the reception as truly unforgettable. Braving the winter chill, members of the Indian diaspora gathered in large numbers outside the Prime Minister’s hotel, greeting him with chants of “Bharat Mata Ki Jai” and “Modi, Modi”. The welcome also featured cultural performances by local artists. Prime Minister also praised the Australian-India Orchestra for its rendition of ‘Maa Tujhe Salaam’, saying the performance reflected the role of music in strengthening people-to-people ties between the two countries. India’s High Commissioner to Australia, Nagesh Singh, said Mr Modi’s third visit to Australia in a decade reflects the significant growth in bilateral relations over the past few years. Mr Singh said, evolving global circumstances have brought India and Australia closer, with both countries sharing common strategic interests and a wide-ranging partnership. The High Commissioner said cooperation between the two countries has expanded across multiple sectors, reflecting the growing depth and diversity of India-Australia engagement.",
+        "title": "Vice President to launch Letters of Authorisation for sustainable high seas fishing in Odisha",
+        "summary": "Vice President C P Radhakrishnan will be visiting Bhubaneswar, Odisha, today. During the visit, the Vice President will attend the National Launch Programme for the issuance of Letters of Authorisation for Sustainable Harnessing of Fisheries in the High Seas at the Odisha University of Agriculture and Technology, Bhubaneswar. On the occasion, Mr Radhakrishnan will also […]",
+        "article": "Vice President C P Radhakrishnan will be visiting Bhubaneswar, Odisha, today. During the visit, the Vice President will attend the National Launch Programme for the issuance of Letters of Authorisation for Sustainable Harnessing of Fisheries in the High Seas at the Odisha University of Agriculture and Technology, Bhubaneswar. On the occasion, Mr Radhakrishnan will also launch the Odisha Deep Sea Fishing Mission Document. Later, the Vice President will attend the 15th Graduation Ceremony of the National Institute of Science Education and Research, Khordha, Bhubaneswar.",
         "date": "2026-07-09",
-        "pubDate": "2026-07-09T02:03:20+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-to-hold-talks-with-his-australian-counterpart-anthony-albanese-in-melbourne-today/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Anthony_Albanese_portrait_%28re-crop%29.jpg/1280px-Anthony_Albanese_portrait_%28re-crop%29.jpg",
-        "image_credit": "Wikipedia – Anthony Albanese (CC BY-SA)",
+        "pubDate": "2026-07-09T05:32:45+00:00",
+        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-to-launch-high-seas-fisheries-initiative-in-odisha/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/vp-cp-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "HM Amit Shah greets ABVP workers on Foundation Day",
+        "summary": "Union Home Minister Amit Shah has greeted all workers of the Akhil Bharatiya Vidyarthi Parishad on its Foundation Day. In a social media post, Mr Shah said that, following the ideals of Swami Vivekananda, the organisation has been carrying out the task of organising student power and instilling the spirit of patriotism among the youth. […]",
+        "article": "Union Home Minister Amit Shah has greeted all workers of the Akhil Bharatiya Vidyarthi Parishad on its Foundation Day. In a social media post, Mr Shah said that, following the ideals of Swami Vivekananda, the organisation has been carrying out the task of organising student power and instilling the spirit of patriotism among the youth. The Home Minister said that whether it was the struggle against the Emergency or the issue of infiltration in the Northeast, the Vidyarthi Parishad has always inspired young people to play a leading role in nation-building. He expressed confidence that the organisation will continue to stand firm in the face of every challenge before the country and motivate the younger generation to keep national interests above all.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T04:03:14+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-greets-abvp-workers-on-foundation-day/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/abvp.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -155,19 +171,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T01:40:40+00:00",
         "link": "https://newsonair.gov.in/brics-womens-ministerial-meeting-reviews-draft-resolution-in-kochi/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kochi_Skyline.jpg",
-        "image_credit": "Wikipedia – Kochi (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "BRICS Women’s Ministerial Meeting Held in Kochi",
-        "summary": "The BRICS Women’s Ministerial Meeting, organized by the Union Ministry of Women and Child Development, was held in Kochi, Keralam. Union Minister for Women and Child Development Annapurna Devi, Minister of State Savitri Thakur and other dignitaries participated in the sessions. Union Minister Annapurna Devi highlighted the four key priorities of India’s BRICS Chairship: Resilience, […]",
-        "article": "The BRICS Women’s Ministerial Meeting, organized by the Union Ministry of Women and Child Development, was held in Kochi, Keralam. Union Minister for Women and Child Development Annapurna Devi, Minister of State Savitri Thakur and other dignitaries participated in the sessions. Union Minister Annapurna Devi highlighted the four key priorities of India’s BRICS Chairship: Resilience, Innovation, Cooperation, and Sustainability. ​Participating in the plenary session of the thematic panel discussions, Minister of State Savitri Thakur explained the significance India places on women&#8217;s empowerment and women-led development under the visionary leadership of Prime Minister Narendra Modi. Delegates from 11 countries are participating in the meetings. In connection with the meeting, a special exhibition has also been organized at the venue.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:37:37+00:00",
-        "link": "https://newsonair.gov.in/brics-womens-ministerial-meeting-held-in-kochi/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kochi_Skyline.jpg",
-        "image_credit": "Wikipedia – Kochi (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-Womens-Ministerial-Meeting-begins-in-Kochi.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -177,302 +182,58 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T01:37:35+00:00",
         "link": "https://newsonair.gov.in/imd-forecasts-heavy-to-very-heavy-rainfall-across-parts-of-north-east-and-northeast-india/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/imd-5-1-13.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "India, Myanmar review bilateral security cooperation at National Level Meeting",
-        "summary": "India and Myanmar have discussed bilateral security cooperation and reviewed progress under bilateral dialogue mechanisms. The two-day 23rd National Level Meeting between India and Myanmar concluded in New Delhi yesterday. Ministry of Home Affairs said that the two sides discussed cooperation in combating transnational crimes, including terrorism, insurgency, narcotics trafficking, arms smuggling,",
-        "article": "India and Myanmar have discussed bilateral security cooperation and reviewed progress under bilateral dialogue mechanisms. The two-day 23rd National Level Meeting between India and Myanmar concluded in New Delhi yesterday. Ministry of Home Affairs said that the two sides discussed cooperation in combating transnational crimes, including terrorism, insurgency, narcotics trafficking, arms smuggling, human trafficking, wildlife trafficking, cybercrime and other forms of organised crime. They also agreed to enhance intelligence sharing and operational coordination, and undertake capacity-building initiatives to address shared security challenges effectively. The meeting reaffirmed the importance attached by both countries to their longstanding friendship and close partnership and their shared commitment to further strengthen cooperation for the mutual benefit of the two countries. They reviewed the prevailing security situation along the India-Myanmar border and reaffirmed the importance of maintaining peace, stability and security along the India-Myanmar border. Both sides underscored the importance of preventing the misuse of sovereign territory for activities inimical to their security interests. The Myanmar side assured that its territory would not be permitted to be used against India’s security interests. The two sides shared the importance of working closely towards the completion of Kaladan Multi-Modal Transit Transport project and the India-Myanmar-Thailand trilateral highway. The two sides agreed to continue close engagement and cooperation on security matters among relevant agencies through existing bilateral mechanisms, regular exchanges, training programmes and implementation of mutually agreed decisions. The Indian side underlined that Myanmar occupies an important place in India&#8217;s Neighbourhood First, Act East and Mutual and Holistic Advancement for Security and Growth Across Regions (MAHASAGAR) policies. Home Secretary, Govind Mohan led the Indian delegation and Deputy Minister, Myanmar’s Ministry of Home Affairs, Major General Min Thu led the Myanmar delegation.",
+        "title": "PM Modi welcomes AustralianSuper’s 500 million Australian dollar investment in India",
+        "summary": "India welcomed the five hundred million Australian dollar investment from AustralianSuper, announced by their Chief Executive Officer, Paul Schroder this morning in Melbourne. &#160; In a social media post, Prime Minister Narendra Modi said that this is another glimpse of the global confidence in India’s growth and reform trajectory. He added it also reflects the […]",
+        "article": "India welcomed the five hundred million Australian dollar investment from AustralianSuper, announced by their Chief Executive Officer, Paul Schroder this morning in Melbourne. &nbsp; In a social media post, Prime Minister Narendra Modi said that this is another glimpse of the global confidence in India’s growth and reform trajectory. He added it also reflects the immense opportunities that India’s dynamic economy offers to global investors.",
         "date": "2026-07-09",
-        "pubDate": "2026-07-09T01:35:04+00:00",
-        "link": "https://newsonair.gov.in/india-myanmar-review-bilateral-security-cooperation-at-national-level-meeting/",
+        "pubDate": "2026-07-09T05:36:48+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-welcomes-australiansupers-500-million-australian-dollar-investment-in-india/",
+        "post_id": 1727467,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "NTA issues advance city intimation slip for CSIR UGC NET June 2026 exam",
-        "summary": "The National Testing Agency (NTA) has released advance city intimation slip for CSIR UGC NET June 2026. The exam will be held on the 17th and 18th of this month. Students are advised to download their slip from the official website www.csirnet.nta.nic.in to know allotted exam city.",
-        "article": "The National Testing Agency (NTA) has released advance city intimation slip for CSIR UGC NET June 2026. The exam will be held on the 17th and 18th of this month. Students are advised to download their slip from the official website www.csirnet.nta.nic.in to know allotted exam city.",
+        "title": "Australia India Business Council highlights growing momentum of ‘Make with India’ initiative",
+        "summary": "Mr Vish Vishwanathan from the Australia-India Business Council highlighted the growing impact of the &#8220;Make with India&#8221; initiative. This industry chapter actively translates Prime Minister Narendra Modi’s &#8220;Make in India&#8221; vision into reality on Australian soil by fostering strategic corporate partnerships. &#160; Mr. Vishwanathan emphasised that this collaboration extends far",
+        "article": "Mr Vish Vishwanathan from the Australia-India Business Council highlighted the growing impact of the &#8220;Make with India&#8221; initiative. This industry chapter actively translates Prime Minister Narendra Modi’s &#8220;Make in India&#8221; vision into reality on Australian soil by fostering strategic corporate partnerships. &nbsp; Mr. Vishwanathan emphasised that this collaboration extends far beyond traditional trade, focusing on critical emerging sectors. Australian companies are being actively encouraged to partner with India in advanced manufacturing, clean energy, defence, and agribusiness. A particularly encouraging aspect of this bilateral relationship is the strong bipartisan political support it enjoys in Australia, ensuring continuity and growth regardless of political shifts. Central to this strengthening bridge is the more than one million-strong Indian diaspora. Describing them as a highly skilled and enthusiastic community, Mr. Vishwanathan, who has lived in Australia for over thirty-seven years while remaining a proud Indian passport holder, noted that the diaspora is uniquely positioned to drive this partnership forward, opening new chapters of mutual global growth.",
         "date": "2026-07-09",
-        "pubDate": "2026-07-09T01:21:10+00:00",
-        "link": "https://newsonair.gov.in/nta-issues-advance-city-intimation-slip-for-csir-ugc-net-june-2026-exam/",
+        "pubDate": "2026-07-09T05:20:07+00:00",
+        "link": "https://newsonair.gov.in/australia-india-business-council-highlights-growing-momentum-of-make-with-india-initiative/",
+        "post_id": 1727334,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Union Minister Jitendra Singh Highlights AI Potential to Boost Agriculture Economy",
-        "summary": "Science and Technology Minister Dr Jitendra Singh today said that Artificial Intelligence intervention holds promise of multifold increase in country&#8217;s agricultural economy. He added, according to one estimates, AI-driven optimisation alone can help each farmer save nearly five thousand rupees annually, creating an estimated seventy thousand crore rupees value addition for the overall agricu",
-        "article": "Science and Technology Minister Dr Jitendra Singh today said that Artificial Intelligence intervention holds promise of multifold increase in country&#8217;s agricultural economy. He added, according to one estimates , AI-driven optimisation alone can help each farmer save nearly five thousand rupees annually, creating an estimated seventy thousand crore rupees value addition for the overall agricultural economy. Addressing the 17th Agriculture Leadership Conclave 2026 in New Delhi, Dr Singh said that Agri-Startups are the defining force of India&#8217;s agricultural future. The Minister highlighted that agriculture today demands close collaboration among government, industry, research institutions, startups and farmers to ensure that innovation reaches the field and translates into economic gains. He emphasised that India must continuously adapt to new scientific developments in order to remain globally competitive and ensure long-term food and nutritional security.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:49:07+00:00",
-        "link": "https://newsonair.gov.in/union-minister-jitendra-singh-highlights-ai-potential-to-boost-agriculture-economy/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ISRO Successfully Conducts Integrated Main parachute Airdrop Test for Gaganyaan Mission",
-        "summary": "The Indian Space Research Organisation (ISRO) has successfully conducted a critical Integrated Main parachute Airdrop Test (IMAT) for the Gaganyaan Missions at the Aerial Delivery Research and Development Establishment (ADRDE) drop zone in Sheopur, Madhya Pradesh. ISRO said that the objective of the test was to qualify the Main Parachute for its structural integrity and […]",
-        "article": "The Indian Space Research Organisation (ISRO) has successfully conducted a critical Integrated Main parachute Airdrop Test (IMAT) for the Gaganyaan Missions at the Aerial Delivery Research and Development Establishment (ADRDE) drop zone in Sheopur, Madhya Pradesh. ISRO said that the objective of the test was to qualify the Main Parachute for its structural integrity and design margins under the maximum expected load conditions in the first uncrewed Gaganyaan G1 mission. ISRO highlighted that this is the 5th test in a series of Integrated Main parachute Airdrop Tests (IMAT) to qualify the critical Main Parachute for the Gaganyaan Mission. It added that the successful completion of IMAT-05 provides necessary confidence in the performance and reliability of the Main Parachute System for the first Uncrewed Gaganyaan Mission (G1). During the test, a simulated assembly of a single main parachute and a dummy mass was dropped from an altitude of 2.5 kilometres using an Indian Air Force IL-76 aircraft. The complex descent sequence began with an extractor parachute that deployed a Drogue parachute to stabilize oscillations. Upon achieving the requisite conditions, the main parachute was deployed, which slowed the payload to a safe terminal speed. ISRO highlighted that the deceleration system of Gaganyaan Crew Module comprises a total of 10 parachutes of 4 types. The descent sequence begins with two Apex Cover Separation parachutes that remove the protective cover of the parachute compartment, followed by two Drogue Parachutes that stabilize and decelerate the module. Upon release of the drogues, three Pilot Parachutes are deployed to extract three Main Parachutes, which further slows down the Crew Module to ensure a safe splashdown in the sea.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:43:14+00:00",
-        "link": "https://newsonair.gov.in/isro-successfully-conducts-integrated-main-parachute-airdrop-test-for-gaganyaan-mission/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
-        "summary": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy […]",
-        "article": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy supplies and commerce. New Delhi has urged the parties to return to dialogue and diplomacy to achieve a peaceful and lasting solution to the conflict.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:34:43+00:00",
-        "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Pralhad Joshi Holds Talks with States on Food Security Issues",
-        "summary": "Union Minister of Consumer Affairs, Food and Public Distribution Pralhad Joshi today met Ministers and representatives from various states in New Delhi to discuss food security concerns. In a series of social media post, Mr Joshi said that he met Kerala&#8217;s Minister for Food and Civil Supplies, Anoop Jacob to discuss key issues concerning food security, […]",
-        "article": "Union Minister of Consumer Affairs, Food and Public Distribution Pralhad Joshi today met Ministers and representatives from various states in New Delhi to discuss food security concerns. In a series of social media post , Mr Joshi said that he met Kerala&#8217;s Minister for Food and Civil Supplies, Anoop Jacob to discuss key issues concerning food security, the Public Distribution System, consumer affairs and legal metrology in the State. They deliberated on paddy procurement and related matters, along with measures to strengthen the Public Distribution System and consumer protection. During the meeting, Mr Joshi urged Kerala Government to adopt the rightful beneficiary targeting methodology followed by other States to ensure that food support reaches only genuine and eligible beneficiaries. He assured that the issues raised will be examined in accordance with the existing policy framework. The Consumer Affairs Minister also met Karnataka&#8217;s Minister of Food and Civil Supplies, K. H. Muniyappa and discussed matters related to the state&#8217;s Food and Civil Supplies Department. Discussions were held regarding the grants under the previous year&#8217;s MSP scheme. Earlier in the day, Mr Joshi met a delegation led by Union Minister G Kishan Reddy to discuss Telangana&#8217;s paddy procurement requirements. The delegation highlighted the State&#8217;s rising production and sought consideration for enhancing the procurement target to ensure better support for farmers. It also expressed appreciation for the Centre&#8217;s consistent support to Telangana through timely policy interventions and procurement-related decisions over the years. The Union Minister has asked the Department to examine the proposal in detail and assess its feasibility in accordance with the prevailing guidelines.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:29:16+00:00",
-        "link": "https://newsonair.gov.in/union-minister-pralhad-joshi-holds-talks-with-states-on-food-security-issues/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "national": [
-      {
-        "title": "PM Modi to hold talks with his Australian counterpart Anthony Albanese in Melbourne today",
-        "summary": "Prime Minister Narendra Modi will hold talks with his Australian counterpart Anthony Albanese in Melbourne today. Discussions between the two leaders are expected to focus on strengthening cooperation in trade, defence, critical technologies, education and people-to-people ties. His visit is expected to provide fresh momentum to the India-Australia Comprehensive Strategic Partnership. Prime Minist",
-        "article": "Prime Minister Narendra Modi will hold talks with his Australian counterpart Anthony Albanese in Melbourne today. Discussions between the two leaders are expected to focus on strengthening cooperation in trade, defence, critical technologies, education and people-to-people ties. His visit is expected to provide fresh momentum to the India-Australia Comprehensive Strategic Partnership. Prime Minister Modi is also scheduled to participate in the India-Australia CEOs Forum and address business leaders from both countries. He will also interact with the Indian diaspora at a community event in Melbourne. Mr Modi arrived in Melbourne yesterday evening on a 3-day visit to Australia at the invitation of Australian Prime Minister. PM Modi arrived in Melbourne from Indonesia in the second leg of his three-nation tour. Prime Minister thanked the Indian community in Melbourne for the warm welcome accorded to him, describing the reception as truly unforgettable. Braving the winter chill, members of the Indian diaspora gathered in large numbers outside the Prime Minister’s hotel, greeting him with chants of “Bharat Mata Ki Jai” and “Modi, Modi”. The welcome also featured cultural performances by local artists. Prime Minister also praised the Australian-India Orchestra for its rendition of ‘Maa Tujhe Salaam’, saying the performance reflected the role of music in strengthening people-to-people ties between the two countries. India’s High Commissioner to Australia, Nagesh Singh, said Mr Modi’s third visit to Australia in a decade reflects the significant growth in bilateral relations over the past few years. Mr Singh said, evolving global circumstances have brought India and Australia closer, with both countries sharing common strategic interests and a wide-ranging partnership. The High Commissioner said cooperation between the two countries has expanded across multiple sectors, reflecting the growing depth and diversity of India-Australia engagement.",
+        "title": "India’s Aswath S becomes country’s 98th Chess Grandmaster",
+        "summary": "India&#8217;s march towards its 100th Grandmaster gathered momentum yesterday, with 17-year-old Aswath S from Kanyakumari becoming the country&#8217;s 98th Grandmaster after clinching his final GM norm at the 2026 Pune International Grandmaster Round Robin. Needing a win in the final round, Aswath defeated USA&#8217;s FM Kannan Vaidyanathan with the black pieces to complete the […]",
+        "article": "India&#8217;s march towards its 100th Grandmaster gathered momentum yesterday, with 17-year-old Aswath S from Kanyakumari becoming the country&#8217;s 98th Grandmaster after clinching his final GM norm at the 2026 Pune International Grandmaster Round Robin. Needing a win in the final round, Aswath defeated USA&#8217;s FM Kannan Vaidyanathan with the black pieces to complete the Grandmaster title requirements. He finished the tournament with 7 points from 9 rounds, recording six wins, two draws, and one loss to secure second place. Aswath had earned his first GM norm at the Grenke Open last year and his second at the First Saturday GM Round Robin in Budapest in December, where he also crossed the 2500 rating mark. After a slow start in Pune, including a loss to GM Abhijeet Gupta, Aswath bounced back with a strong finish to achieve the biggest milestone of his chess career. He is the latest Indian to achieve the Grandmaster title, continuing the country&#8217;s impressive rise in world chess.",
         "date": "2026-07-09",
-        "pubDate": "2026-07-09T02:03:20+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-to-hold-talks-with-his-australian-counterpart-anthony-albanese-in-melbourne-today/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Anthony_Albanese_portrait_%28re-crop%29.jpg/1280px-Anthony_Albanese_portrait_%28re-crop%29.jpg",
-        "image_credit": "Wikipedia – Anthony Albanese (CC BY-SA)",
+        "pubDate": "2026-07-09T04:05:36+00:00",
+        "link": "https://newsonair.gov.in/indias-aswath-s-becomes-countrys-98th-chess-grandmaster/",
+        "post_id": 1726955,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "BRICS Women’s Ministerial Meeting reviews draft resolution in Kochi",
-        "summary": "Ministers from various countries held discussions yesterday on the draft resolution during the BRICS Women&#8217;s Ministerial Meeting. Under India&#8217;s BRICS Chairship 2026, the meeting is being organised by the Ministry of Panchayati Raj in Kochi. &#160; The BRICS Women&#8217;s Working Group meeting was held in Kochi ahead of the ministerial meeting to discuss key issues […]",
-        "article": "Ministers from various countries held discussions yesterday on the draft resolution during the BRICS Women&#8217;s Ministerial Meeting. Under India&#8217;s BRICS Chairship 2026, the meeting is being organised by the Ministry of Panchayati Raj in Kochi. &nbsp; The BRICS Women&#8217;s Working Group meeting was held in Kochi ahead of the ministerial meeting to discuss key issues related to women&#8217;s empowerment and women-led development. The joint resolution of the Ministerial Meeting is expected to be adopted this evening.",
+        "title": "PM Modi, Australian PM Anthony Albanese attend India-Australia CEO Forum in Melbourne",
+        "summary": "Prime Minister Modi and his counterpart Albanese addressed the high-profile India-Australia CEO Forum and Economic Roadmap Business Reception in Melbourne today. Addressing the business reception, Prime Minister Modi said the India-Australia partnership has entered a transformative, high-tech era. He outlined a visionary roadmap to accelerate bilateral trade toward its monumental 100 billion US Do",
+        "article": "Prime Minister Modi and his counterpart Albanese addressed the high-profile India-Australia CEO Forum and Economic Roadmap Business Reception in Melbourne today. Addressing the business reception, Prime Minister Modi said the India-Australia partnership has entered a transformative, high-tech era. He outlined a visionary roadmap to accelerate bilateral trade toward its monumental 100 billion US Dollars target by 2030, emphasising a structural transition to high-value, future-ready commerce. The Prime Minister emphasised that, amidst global supply chain disruptions, India and Australia stand together as natural, trusted anchors of stability. He invited deep commercial collaboration across future-ready frontiers, highlighting India’s ambitious target of achieving 500 GW of renewable energy capacity by 2030 and net-zero emissions by 2070 and its newly opened private nuclear sector with a target of achieving 100 GW of nuclear power capacity by 2047, backed by Australia’s massive uranium reserves. Turning to core industries, the Prime Minister spotlighted India’s unprecedented infrastructure expansion, currently constructing 34 kilometres of national highways and over 1 kilometre of railway tracks daily, positioning the country as an ideal, secure destination for long-term Australian pension fund capital. As the world&#8217;s second-largest crude steel producer, India is also primed to co-develop low-carbon aluminium and green iron to build highly resilient, sustainable supply chains. In the high-tech space, backed by a USD 10 billion government incentive program, he advocated for co-creating global solutions in semiconductors, artificial intelligence, quantum computing, data centres, and digital public infrastructure. On human capital, he celebrated the establishment of Australian university campuses in GIFT City, urging corporate leaders to structurally convert student mobility into a lifelong talent partnership. Crucially, the Prime Minister suggested a decentralised approach to economic diplomacy, urging corporate leaders to bypass a capital-centric focus and instead forge direct, state-to-state alliances. By linking Western Australia’s critical minerals with Gujarat’s manufacturing and Victoria’s innovation hubs with Karnataka&#8217;s tech ecosystem, this strategic roadmap transforms high-level diplomatic trust into localised, enduring engines of prosperity. Speaking at the forum, Australian Prime Minister Anthony Albanese celebrated the historic transformation of the Australia-India alliance from parallel journeys into a deeply integrated, future-ready partnership. He highlighted that India is securely on track to become the world&#8217;s third-largest economy. Albanese outlined major milestones driving this strategic roadmap, including AustralianSuper’s additional 500 million AUD commitment to India&#8217;s National Investment and Infrastructure Fund. Educational cooperation has reached unprecedented heights, expanding beyond GIFT City campuses to embrace massive resource investments by Monash University to fund exchange programmes and critical scholarships. Furthermore, industrial synergy is actively taking shape through the landmark Perdaman Project Ceres urea plant, which seamlessly pairs advanced Indian machinery with Australian resources to secure global agricultural supply chains. Ultimately, Albanese emphasised that the true custodians of this dynamic partnership remain the vibrant, one-million-strong diaspora bridging both …",
         "date": "2026-07-09",
-        "pubDate": "2026-07-09T01:40:40+00:00",
-        "link": "https://newsonair.gov.in/brics-womens-ministerial-meeting-reviews-draft-resolution-in-kochi/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kochi_Skyline.jpg",
-        "image_credit": "Wikipedia – Kochi (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "BRICS Women’s Ministerial Meeting Held in Kochi",
-        "summary": "The BRICS Women’s Ministerial Meeting, organized by the Union Ministry of Women and Child Development, was held in Kochi, Keralam. Union Minister for Women and Child Development Annapurna Devi, Minister of State Savitri Thakur and other dignitaries participated in the sessions. Union Minister Annapurna Devi highlighted the four key priorities of India’s BRICS Chairship: Resilience, […]",
-        "article": "The BRICS Women’s Ministerial Meeting, organized by the Union Ministry of Women and Child Development, was held in Kochi, Keralam. Union Minister for Women and Child Development Annapurna Devi, Minister of State Savitri Thakur and other dignitaries participated in the sessions. Union Minister Annapurna Devi highlighted the four key priorities of India’s BRICS Chairship: Resilience, Innovation, Cooperation, and Sustainability. ​Participating in the plenary session of the thematic panel discussions, Minister of State Savitri Thakur explained the significance India places on women&#8217;s empowerment and women-led development under the visionary leadership of Prime Minister Narendra Modi. Delegates from 11 countries are participating in the meetings. In connection with the meeting, a special exhibition has also been organized at the venue.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:37:37+00:00",
-        "link": "https://newsonair.gov.in/brics-womens-ministerial-meeting-held-in-kochi/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kochi_Skyline.jpg",
-        "image_credit": "Wikipedia – Kochi (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMD forecasts heavy to very heavy rainfall across parts of north, east and northeast India",
-        "summary": "The India Meteorological Department (IMD) has issued an orange alert for heavy to very heavy rainfall over Arunachal Pradesh, Assam, Meghalaya, Bihar, East Rajasthan, Madhya Pradesh, Sub Himalayan West Bengal, Sikkim and West Uttar Pradesh during the day. The weather agency has also predicted heavy rainfall conditions over Coastal Karnataka, East Uttar Pradesh, Gangetic […]",
-        "article": "The India Meteorological Department (IMD) has issued an orange alert for heavy to very heavy rainfall over Arunachal Pradesh, Assam, Meghalaya, Bihar, East Rajasthan, Madhya Pradesh, Sub Himalayan West Bengal, Sikkim and West Uttar Pradesh during the day. The weather agency has also predicted heavy rainfall conditions over Coastal Karnataka, East Uttar Pradesh, Gangetic West Bengal, Gujarat, Haryana, Chandigarh and Delhi for the day. Similar weather conditions are predicted over Himachal Pradesh, Kerala, Mahe, Konkan, Goa, Madhya, Maharashtra, Nagaland, Manipur, Mizoram, Tripura, Punjab, South Interior Karnataka, Tamil Nadu, Puducherry, Karaikal and Uttarakhand today. Meanwhile, moderate rainfall lashed several parts of the national capital this morning, bringing fresh weather and much-needed relief to residents. The IMD predicted cloudy sky with a spell of very light to light rain at many places with moderate rain at isolated places in the city during the day.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T01:37:35+00:00",
-        "link": "https://newsonair.gov.in/imd-forecasts-heavy-to-very-heavy-rainfall-across-parts-of-north-east-and-northeast-india/",
+        "pubDate": "2026-07-09T03:04:26+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-australian-pm-anthony-albanese-attend-india-australia-ceo-forum-in-melbourne/",
+        "post_id": 1727000,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
       },
-      {
-        "title": "India, Myanmar review bilateral security cooperation at National Level Meeting",
-        "summary": "India and Myanmar have discussed bilateral security cooperation and reviewed progress under bilateral dialogue mechanisms. The two-day 23rd National Level Meeting between India and Myanmar concluded in New Delhi yesterday. Ministry of Home Affairs said that the two sides discussed cooperation in combating transnational crimes, including terrorism, insurgency, narcotics trafficking, arms smuggling,",
-        "article": "India and Myanmar have discussed bilateral security cooperation and reviewed progress under bilateral dialogue mechanisms. The two-day 23rd National Level Meeting between India and Myanmar concluded in New Delhi yesterday. Ministry of Home Affairs said that the two sides discussed cooperation in combating transnational crimes, including terrorism, insurgency, narcotics trafficking, arms smuggling, human trafficking, wildlife trafficking, cybercrime and other forms of organised crime. They also agreed to enhance intelligence sharing and operational coordination, and undertake capacity-building initiatives to address shared security challenges effectively. The meeting reaffirmed the importance attached by both countries to their longstanding friendship and close partnership and their shared commitment to further strengthen cooperation for the mutual benefit of the two countries. They reviewed the prevailing security situation along the India-Myanmar border and reaffirmed the importance of maintaining peace, stability and security along the India-Myanmar border. Both sides underscored the importance of preventing the misuse of sovereign territory for activities inimical to their security interests. The Myanmar side assured that its territory would not be permitted to be used against India’s security interests. The two sides shared the importance of working closely towards the completion of Kaladan Multi-Modal Transit Transport project and the India-Myanmar-Thailand trilateral highway. The two sides agreed to continue close engagement and cooperation on security matters among relevant agencies through existing bilateral mechanisms, regular exchanges, training programmes and implementation of mutually agreed decisions. The Indian side underlined that Myanmar occupies an important place in India&#8217;s Neighbourhood First, Act East and Mutual and Holistic Advancement for Security and Growth Across Regions (MAHASAGAR) policies. Home Secretary, Govind Mohan led the Indian delegation and Deputy Minister, Myanmar’s Ministry of Home Affairs, Major General Min Thu led the Myanmar delegation.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T01:35:04+00:00",
-        "link": "https://newsonair.gov.in/india-myanmar-review-bilateral-security-cooperation-at-national-level-meeting/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NTA issues advance city intimation slip for CSIR UGC NET June 2026 exam",
-        "summary": "The National Testing Agency (NTA) has released advance city intimation slip for CSIR UGC NET June 2026. The exam will be held on the 17th and 18th of this month. Students are advised to download their slip from the official website www.csirnet.nta.nic.in to know allotted exam city.",
-        "article": "The National Testing Agency (NTA) has released advance city intimation slip for CSIR UGC NET June 2026. The exam will be held on the 17th and 18th of this month. Students are advised to download their slip from the official website www.csirnet.nta.nic.in to know allotted exam city.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T01:21:10+00:00",
-        "link": "https://newsonair.gov.in/nta-issues-advance-city-intimation-slip-for-csir-ugc-net-june-2026-exam/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Jitendra Singh Highlights AI Potential to Boost Agriculture Economy",
-        "summary": "Science and Technology Minister Dr Jitendra Singh today said that Artificial Intelligence intervention holds promise of multifold increase in country&#8217;s agricultural economy. He added, according to one estimates, AI-driven optimisation alone can help each farmer save nearly five thousand rupees annually, creating an estimated seventy thousand crore rupees value addition for the overall agricu",
-        "article": "Science and Technology Minister Dr Jitendra Singh today said that Artificial Intelligence intervention holds promise of multifold increase in country&#8217;s agricultural economy. He added, according to one estimates , AI-driven optimisation alone can help each farmer save nearly five thousand rupees annually, creating an estimated seventy thousand crore rupees value addition for the overall agricultural economy. Addressing the 17th Agriculture Leadership Conclave 2026 in New Delhi, Dr Singh said that Agri-Startups are the defining force of India&#8217;s agricultural future. The Minister highlighted that agriculture today demands close collaboration among government, industry, research institutions, startups and farmers to ensure that innovation reaches the field and translates into economic gains. He emphasised that India must continuously adapt to new scientific developments in order to remain globally competitive and ensure long-term food and nutritional security.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:49:07+00:00",
-        "link": "https://newsonair.gov.in/union-minister-jitendra-singh-highlights-ai-potential-to-boost-agriculture-economy/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ISRO Successfully Conducts Integrated Main parachute Airdrop Test for Gaganyaan Mission",
-        "summary": "The Indian Space Research Organisation (ISRO) has successfully conducted a critical Integrated Main parachute Airdrop Test (IMAT) for the Gaganyaan Missions at the Aerial Delivery Research and Development Establishment (ADRDE) drop zone in Sheopur, Madhya Pradesh. ISRO said that the objective of the test was to qualify the Main Parachute for its structural integrity and […]",
-        "article": "The Indian Space Research Organisation (ISRO) has successfully conducted a critical Integrated Main parachute Airdrop Test (IMAT) for the Gaganyaan Missions at the Aerial Delivery Research and Development Establishment (ADRDE) drop zone in Sheopur, Madhya Pradesh. ISRO said that the objective of the test was to qualify the Main Parachute for its structural integrity and design margins under the maximum expected load conditions in the first uncrewed Gaganyaan G1 mission. ISRO highlighted that this is the 5th test in a series of Integrated Main parachute Airdrop Tests (IMAT) to qualify the critical Main Parachute for the Gaganyaan Mission. It added that the successful completion of IMAT-05 provides necessary confidence in the performance and reliability of the Main Parachute System for the first Uncrewed Gaganyaan Mission (G1). During the test, a simulated assembly of a single main parachute and a dummy mass was dropped from an altitude of 2.5 kilometres using an Indian Air Force IL-76 aircraft. The complex descent sequence began with an extractor parachute that deployed a Drogue parachute to stabilize oscillations. Upon achieving the requisite conditions, the main parachute was deployed, which slowed the payload to a safe terminal speed. ISRO highlighted that the deceleration system of Gaganyaan Crew Module comprises a total of 10 parachutes of 4 types. The descent sequence begins with two Apex Cover Separation parachutes that remove the protective cover of the parachute compartment, followed by two Drogue Parachutes that stabilize and decelerate the module. Upon release of the drogues, three Pilot Parachutes are deployed to extract three Main Parachutes, which further slows down the Crew Module to ensure a safe splashdown in the sea.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:43:14+00:00",
-        "link": "https://newsonair.gov.in/isro-successfully-conducts-integrated-main-parachute-airdrop-test-for-gaganyaan-mission/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
-        "summary": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy […]",
-        "article": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy supplies and commerce. New Delhi has urged the parties to return to dialogue and diplomacy to achieve a peaceful and lasting solution to the conflict.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:34:43+00:00",
-        "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Pralhad Joshi Holds Talks with States on Food Security Issues",
-        "summary": "Union Minister of Consumer Affairs, Food and Public Distribution Pralhad Joshi today met Ministers and representatives from various states in New Delhi to discuss food security concerns. In a series of social media post, Mr Joshi said that he met Kerala&#8217;s Minister for Food and Civil Supplies, Anoop Jacob to discuss key issues concerning food security, […]",
-        "article": "Union Minister of Consumer Affairs, Food and Public Distribution Pralhad Joshi today met Ministers and representatives from various states in New Delhi to discuss food security concerns. In a series of social media post , Mr Joshi said that he met Kerala&#8217;s Minister for Food and Civil Supplies, Anoop Jacob to discuss key issues concerning food security, the Public Distribution System, consumer affairs and legal metrology in the State. They deliberated on paddy procurement and related matters, along with measures to strengthen the Public Distribution System and consumer protection. During the meeting, Mr Joshi urged Kerala Government to adopt the rightful beneficiary targeting methodology followed by other States to ensure that food support reaches only genuine and eligible beneficiaries. He assured that the issues raised will be examined in accordance with the existing policy framework. The Consumer Affairs Minister also met Karnataka&#8217;s Minister of Food and Civil Supplies, K. H. Muniyappa and discussed matters related to the state&#8217;s Food and Civil Supplies Department. Discussions were held regarding the grants under the previous year&#8217;s MSP scheme. Earlier in the day, Mr Joshi met a delegation led by Union Minister G Kishan Reddy to discuss Telangana&#8217;s paddy procurement requirements. The delegation highlighted the State&#8217;s rising production and sought consideration for enhancing the procurement target to ensure better support for farmers. It also expressed appreciation for the Centre&#8217;s consistent support to Telangana through timely policy interventions and procurement-related decisions over the years. The Union Minister has asked the Department to examine the proposal in detail and assess its feasibility in accordance with the prevailing guidelines.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:29:16+00:00",
-        "link": "https://newsonair.gov.in/union-minister-pralhad-joshi-holds-talks-with-states-on-food-security-issues/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "politics": [
-      {
-        "title": "PM Modi to hold talks with his Australian counterpart Anthony Albanese in Melbourne today",
-        "summary": "Prime Minister Narendra Modi will hold talks with his Australian counterpart Anthony Albanese in Melbourne today. Discussions between the two leaders are expected to focus on strengthening cooperation in trade, defence, critical technologies, education and people-to-people ties. His visit is expected to provide fresh momentum to the India-Australia Comprehensive Strategic Partnership. Prime Minist",
-        "article": "Prime Minister Narendra Modi will hold talks with his Australian counterpart Anthony Albanese in Melbourne today. Discussions between the two leaders are expected to focus on strengthening cooperation in trade, defence, critical technologies, education and people-to-people ties. His visit is expected to provide fresh momentum to the India-Australia Comprehensive Strategic Partnership. Prime Minister Modi is also scheduled to participate in the India-Australia CEOs Forum and address business leaders from both countries. He will also interact with the Indian diaspora at a community event in Melbourne. Mr Modi arrived in Melbourne yesterday evening on a 3-day visit to Australia at the invitation of Australian Prime Minister. PM Modi arrived in Melbourne from Indonesia in the second leg of his three-nation tour. Prime Minister thanked the Indian community in Melbourne for the warm welcome accorded to him, describing the reception as truly unforgettable. Braving the winter chill, members of the Indian diaspora gathered in large numbers outside the Prime Minister’s hotel, greeting him with chants of “Bharat Mata Ki Jai” and “Modi, Modi”. The welcome also featured cultural performances by local artists. Prime Minister also praised the Australian-India Orchestra for its rendition of ‘Maa Tujhe Salaam’, saying the performance reflected the role of music in strengthening people-to-people ties between the two countries. India’s High Commissioner to Australia, Nagesh Singh, said Mr Modi’s third visit to Australia in a decade reflects the significant growth in bilateral relations over the past few years. Mr Singh said, evolving global circumstances have brought India and Australia closer, with both countries sharing common strategic interests and a wide-ranging partnership. The High Commissioner said cooperation between the two countries has expanded across multiple sectors, reflecting the growing depth and diversity of India-Australia engagement.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T02:03:20+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-to-hold-talks-with-his-australian-counterpart-anthony-albanese-in-melbourne-today/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Anthony_Albanese_portrait_%28re-crop%29.jpg/1280px-Anthony_Albanese_portrait_%28re-crop%29.jpg",
-        "image_credit": "Wikipedia – Anthony Albanese (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "BRICS Women’s Ministerial Meeting reviews draft resolution in Kochi",
-        "summary": "Ministers from various countries held discussions yesterday on the draft resolution during the BRICS Women&#8217;s Ministerial Meeting. Under India&#8217;s BRICS Chairship 2026, the meeting is being organised by the Ministry of Panchayati Raj in Kochi. &#160; The BRICS Women&#8217;s Working Group meeting was held in Kochi ahead of the ministerial meeting to discuss key issues […]",
-        "article": "Ministers from various countries held discussions yesterday on the draft resolution during the BRICS Women&#8217;s Ministerial Meeting. Under India&#8217;s BRICS Chairship 2026, the meeting is being organised by the Ministry of Panchayati Raj in Kochi. &nbsp; The BRICS Women&#8217;s Working Group meeting was held in Kochi ahead of the ministerial meeting to discuss key issues related to women&#8217;s empowerment and women-led development. The joint resolution of the Ministerial Meeting is expected to be adopted this evening.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T01:40:40+00:00",
-        "link": "https://newsonair.gov.in/brics-womens-ministerial-meeting-reviews-draft-resolution-in-kochi/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kochi_Skyline.jpg",
-        "image_credit": "Wikipedia – Kochi (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "BRICS Women’s Ministerial Meeting Held in Kochi",
-        "summary": "The BRICS Women’s Ministerial Meeting, organized by the Union Ministry of Women and Child Development, was held in Kochi, Keralam. Union Minister for Women and Child Development Annapurna Devi, Minister of State Savitri Thakur and other dignitaries participated in the sessions. Union Minister Annapurna Devi highlighted the four key priorities of India’s BRICS Chairship: Resilience, […]",
-        "article": "The BRICS Women’s Ministerial Meeting, organized by the Union Ministry of Women and Child Development, was held in Kochi, Keralam. Union Minister for Women and Child Development Annapurna Devi, Minister of State Savitri Thakur and other dignitaries participated in the sessions. Union Minister Annapurna Devi highlighted the four key priorities of India’s BRICS Chairship: Resilience, Innovation, Cooperation, and Sustainability. ​Participating in the plenary session of the thematic panel discussions, Minister of State Savitri Thakur explained the significance India places on women&#8217;s empowerment and women-led development under the visionary leadership of Prime Minister Narendra Modi. Delegates from 11 countries are participating in the meetings. In connection with the meeting, a special exhibition has also been organized at the venue.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:37:37+00:00",
-        "link": "https://newsonair.gov.in/brics-womens-ministerial-meeting-held-in-kochi/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kochi_Skyline.jpg",
-        "image_credit": "Wikipedia – Kochi (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMD forecasts heavy to very heavy rainfall across parts of north, east and northeast India",
-        "summary": "The India Meteorological Department (IMD) has issued an orange alert for heavy to very heavy rainfall over Arunachal Pradesh, Assam, Meghalaya, Bihar, East Rajasthan, Madhya Pradesh, Sub Himalayan West Bengal, Sikkim and West Uttar Pradesh during the day. The weather agency has also predicted heavy rainfall conditions over Coastal Karnataka, East Uttar Pradesh, Gangetic […]",
-        "article": "The India Meteorological Department (IMD) has issued an orange alert for heavy to very heavy rainfall over Arunachal Pradesh, Assam, Meghalaya, Bihar, East Rajasthan, Madhya Pradesh, Sub Himalayan West Bengal, Sikkim and West Uttar Pradesh during the day. The weather agency has also predicted heavy rainfall conditions over Coastal Karnataka, East Uttar Pradesh, Gangetic West Bengal, Gujarat, Haryana, Chandigarh and Delhi for the day. Similar weather conditions are predicted over Himachal Pradesh, Kerala, Mahe, Konkan, Goa, Madhya, Maharashtra, Nagaland, Manipur, Mizoram, Tripura, Punjab, South Interior Karnataka, Tamil Nadu, Puducherry, Karaikal and Uttarakhand today. Meanwhile, moderate rainfall lashed several parts of the national capital this morning, bringing fresh weather and much-needed relief to residents. The IMD predicted cloudy sky with a spell of very light to light rain at many places with moderate rain at isolated places in the city during the day.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T01:37:35+00:00",
-        "link": "https://newsonair.gov.in/imd-forecasts-heavy-to-very-heavy-rainfall-across-parts-of-north-east-and-northeast-india/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, Myanmar review bilateral security cooperation at National Level Meeting",
-        "summary": "India and Myanmar have discussed bilateral security cooperation and reviewed progress under bilateral dialogue mechanisms. The two-day 23rd National Level Meeting between India and Myanmar concluded in New Delhi yesterday. Ministry of Home Affairs said that the two sides discussed cooperation in combating transnational crimes, including terrorism, insurgency, narcotics trafficking, arms smuggling,",
-        "article": "India and Myanmar have discussed bilateral security cooperation and reviewed progress under bilateral dialogue mechanisms. The two-day 23rd National Level Meeting between India and Myanmar concluded in New Delhi yesterday. Ministry of Home Affairs said that the two sides discussed cooperation in combating transnational crimes, including terrorism, insurgency, narcotics trafficking, arms smuggling, human trafficking, wildlife trafficking, cybercrime and other forms of organised crime. They also agreed to enhance intelligence sharing and operational coordination, and undertake capacity-building initiatives to address shared security challenges effectively. The meeting reaffirmed the importance attached by both countries to their longstanding friendship and close partnership and their shared commitment to further strengthen cooperation for the mutual benefit of the two countries. They reviewed the prevailing security situation along the India-Myanmar border and reaffirmed the importance of maintaining peace, stability and security along the India-Myanmar border. Both sides underscored the importance of preventing the misuse of sovereign territory for activities inimical to their security interests. The Myanmar side assured that its territory would not be permitted to be used against India’s security interests. The two sides shared the importance of working closely towards the completion of Kaladan Multi-Modal Transit Transport project and the India-Myanmar-Thailand trilateral highway. The two sides agreed to continue close engagement and cooperation on security matters among relevant agencies through existing bilateral mechanisms, regular exchanges, training programmes and implementation of mutually agreed decisions. The Indian side underlined that Myanmar occupies an important place in India&#8217;s Neighbourhood First, Act East and Mutual and Holistic Advancement for Security and Growth Across Regions (MAHASAGAR) policies. Home Secretary, Govind Mohan led the Indian delegation and Deputy Minister, Myanmar’s Ministry of Home Affairs, Major General Min Thu led the Myanmar delegation.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T01:35:04+00:00",
-        "link": "https://newsonair.gov.in/india-myanmar-review-bilateral-security-cooperation-at-national-level-meeting/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NTA issues advance city intimation slip for CSIR UGC NET June 2026 exam",
-        "summary": "The National Testing Agency (NTA) has released advance city intimation slip for CSIR UGC NET June 2026. The exam will be held on the 17th and 18th of this month. Students are advised to download their slip from the official website www.csirnet.nta.nic.in to know allotted exam city.",
-        "article": "The National Testing Agency (NTA) has released advance city intimation slip for CSIR UGC NET June 2026. The exam will be held on the 17th and 18th of this month. Students are advised to download their slip from the official website www.csirnet.nta.nic.in to know allotted exam city.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T01:21:10+00:00",
-        "link": "https://newsonair.gov.in/nta-issues-advance-city-intimation-slip-for-csir-ugc-net-june-2026-exam/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Jitendra Singh Highlights AI Potential to Boost Agriculture Economy",
-        "summary": "Science and Technology Minister Dr Jitendra Singh today said that Artificial Intelligence intervention holds promise of multifold increase in country&#8217;s agricultural economy. He added, according to one estimates, AI-driven optimisation alone can help each farmer save nearly five thousand rupees annually, creating an estimated seventy thousand crore rupees value addition for the overall agricu",
-        "article": "Science and Technology Minister Dr Jitendra Singh today said that Artificial Intelligence intervention holds promise of multifold increase in country&#8217;s agricultural economy. He added, according to one estimates , AI-driven optimisation alone can help each farmer save nearly five thousand rupees annually, creating an estimated seventy thousand crore rupees value addition for the overall agricultural economy. Addressing the 17th Agriculture Leadership Conclave 2026 in New Delhi, Dr Singh said that Agri-Startups are the defining force of India&#8217;s agricultural future. The Minister highlighted that agriculture today demands close collaboration among government, industry, research institutions, startups and farmers to ensure that innovation reaches the field and translates into economic gains. He emphasised that India must continuously adapt to new scientific developments in order to remain globally competitive and ensure long-term food and nutritional security.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:49:07+00:00",
-        "link": "https://newsonair.gov.in/union-minister-jitendra-singh-highlights-ai-potential-to-boost-agriculture-economy/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ISRO Successfully Conducts Integrated Main parachute Airdrop Test for Gaganyaan Mission",
-        "summary": "The Indian Space Research Organisation (ISRO) has successfully conducted a critical Integrated Main parachute Airdrop Test (IMAT) for the Gaganyaan Missions at the Aerial Delivery Research and Development Establishment (ADRDE) drop zone in Sheopur, Madhya Pradesh. ISRO said that the objective of the test was to qualify the Main Parachute for its structural integrity and […]",
-        "article": "The Indian Space Research Organisation (ISRO) has successfully conducted a critical Integrated Main parachute Airdrop Test (IMAT) for the Gaganyaan Missions at the Aerial Delivery Research and Development Establishment (ADRDE) drop zone in Sheopur, Madhya Pradesh. ISRO said that the objective of the test was to qualify the Main Parachute for its structural integrity and design margins under the maximum expected load conditions in the first uncrewed Gaganyaan G1 mission. ISRO highlighted that this is the 5th test in a series of Integrated Main parachute Airdrop Tests (IMAT) to qualify the critical Main Parachute for the Gaganyaan Mission. It added that the successful completion of IMAT-05 provides necessary confidence in the performance and reliability of the Main Parachute System for the first Uncrewed Gaganyaan Mission (G1). During the test, a simulated assembly of a single main parachute and a dummy mass was dropped from an altitude of 2.5 kilometres using an Indian Air Force IL-76 aircraft. The complex descent sequence began with an extractor parachute that deployed a Drogue parachute to stabilize oscillations. Upon achieving the requisite conditions, the main parachute was deployed, which slowed the payload to a safe terminal speed. ISRO highlighted that the deceleration system of Gaganyaan Crew Module comprises a total of 10 parachutes of 4 types. The descent sequence begins with two Apex Cover Separation parachutes that remove the protective cover of the parachute compartment, followed by two Drogue Parachutes that stabilize and decelerate the module. Upon release of the drogues, three Pilot Parachutes are deployed to extract three Main Parachutes, which further slows down the Crew Module to ensure a safe splashdown in the sea.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:43:14+00:00",
-        "link": "https://newsonair.gov.in/isro-successfully-conducts-integrated-main-parachute-airdrop-test-for-gaganyaan-mission/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
-        "summary": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy […]",
-        "article": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy supplies and commerce. New Delhi has urged the parties to return to dialogue and diplomacy to achieve a peaceful and lasting solution to the conflict.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:34:43+00:00",
-        "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Pralhad Joshi Holds Talks with States on Food Security Issues",
-        "summary": "Union Minister of Consumer Affairs, Food and Public Distribution Pralhad Joshi today met Ministers and representatives from various states in New Delhi to discuss food security concerns. In a series of social media post, Mr Joshi said that he met Kerala&#8217;s Minister for Food and Civil Supplies, Anoop Jacob to discuss key issues concerning food security, […]",
-        "article": "Union Minister of Consumer Affairs, Food and Public Distribution Pralhad Joshi today met Ministers and representatives from various states in New Delhi to discuss food security concerns. In a series of social media post , Mr Joshi said that he met Kerala&#8217;s Minister for Food and Civil Supplies, Anoop Jacob to discuss key issues concerning food security, the Public Distribution System, consumer affairs and legal metrology in the State. They deliberated on paddy procurement and related matters, along with measures to strengthen the Public Distribution System and consumer protection. During the meeting, Mr Joshi urged Kerala Government to adopt the rightful beneficiary targeting methodology followed by other States to ensure that food support reaches only genuine and eligible beneficiaries. He assured that the issues raised will be examined in accordance with the existing policy framework. The Consumer Affairs Minister also met Karnataka&#8217;s Minister of Food and Civil Supplies, K. H. Muniyappa and discussed matters related to the state&#8217;s Food and Civil Supplies Department. Discussions were held regarding the grants under the previous year&#8217;s MSP scheme. Earlier in the day, Mr Joshi met a delegation led by Union Minister G Kishan Reddy to discuss Telangana&#8217;s paddy procurement requirements. The delegation highlighted the State&#8217;s rising production and sought consideration for enhancing the procurement target to ensure better support for farmers. It also expressed appreciation for the Centre&#8217;s consistent support to Telangana through timely policy interventions and procurement-related decisions over the years. The Union Minister has asked the Department to examine the proposal in detail and assess its feasibility in accordance with the prevailing guidelines.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:29:16+00:00",
-        "link": "https://newsonair.gov.in/union-minister-pralhad-joshi-holds-talks-with-states-on-food-security-issues/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "world": [
       {
         "title": "PM Modi to hold talks with his Australian counterpart Anthony Albanese in Melbourne today",
         "summary": "Prime Minister Narendra Modi will hold talks with his Australian counterpart Anthony Albanese in Melbourne today. Discussions between the two leaders are expected to focus on strengthening cooperation in trade, defence, critical technologies, education and people-to-people ties. His visit is expected to provide fresh momentum to the India-Australia Comprehensive Strategic Partnership. Prime Minist",
@@ -496,16 +257,320 @@ window.VM_NEWS = {
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
+      }
+    ],
+    "national": [
+      {
+        "title": "Vice President to launch Letters of Authorisation for sustainable high seas fishing in Odisha",
+        "summary": "Vice President C P Radhakrishnan will be visiting Bhubaneswar, Odisha, today. During the visit, the Vice President will attend the National Launch Programme for the issuance of Letters of Authorisation for Sustainable Harnessing of Fisheries in the High Seas at the Odisha University of Agriculture and Technology, Bhubaneswar. On the occasion, Mr Radhakrishnan will also […]",
+        "article": "Vice President C P Radhakrishnan will be visiting Bhubaneswar, Odisha, today. During the visit, the Vice President will attend the National Launch Programme for the issuance of Letters of Authorisation for Sustainable Harnessing of Fisheries in the High Seas at the Odisha University of Agriculture and Technology, Bhubaneswar. On the occasion, Mr Radhakrishnan will also launch the Odisha Deep Sea Fishing Mission Document. Later, the Vice President will attend the 15th Graduation Ceremony of the National Institute of Science Education and Research, Khordha, Bhubaneswar.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:32:45+00:00",
+        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-to-launch-high-seas-fisheries-initiative-in-odisha/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/vp-cp-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
       },
       {
-        "title": "IMF says India to remain world’s fastest-growing major economy",
-        "summary": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year […]",
-        "article": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year to 6.4 per cent. The report said, the projected performance of Indian economy is supported by strong momentum in private consumption and services activity. India’s growth projections are more than twice the global numbers, as the report gave a 3 per cent projection for the world economy’s growth this year. The report presented a relatively positive outlook for the world economy growth, as it is expected to rise 3.4 per cent next year. China, which is the second fastest-growing economy, was projected to grow by 4.6 per cent this year and lose a half point, falling to 4.1 per cent next year. The US ranked third with a projected growth of 2.3 per cent this year and 2.2 per cent next year.",
+        "title": "HM Amit Shah greets ABVP workers on Foundation Day",
+        "summary": "Union Home Minister Amit Shah has greeted all workers of the Akhil Bharatiya Vidyarthi Parishad on its Foundation Day. In a social media post, Mr Shah said that, following the ideals of Swami Vivekananda, the organisation has been carrying out the task of organising student power and instilling the spirit of patriotism among the youth. […]",
+        "article": "Union Home Minister Amit Shah has greeted all workers of the Akhil Bharatiya Vidyarthi Parishad on its Foundation Day. In a social media post, Mr Shah said that, following the ideals of Swami Vivekananda, the organisation has been carrying out the task of organising student power and instilling the spirit of patriotism among the youth. The Home Minister said that whether it was the struggle against the Emergency or the issue of infiltration in the Northeast, the Vidyarthi Parishad has always inspired young people to play a leading role in nation-building. He expressed confidence that the organisation will continue to stand firm in the face of every challenge before the country and motivate the younger generation to keep national interests above all.",
         "date": "2026-07-09",
-        "pubDate": "2026-07-09T00:30:44+00:00",
-        "link": "https://newsonair.gov.in/imf-projects-india-to-remain-worlds-fastest-growing-major-economy/",
+        "pubDate": "2026-07-09T04:03:14+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-greets-abvp-workers-on-foundation-day/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/abvp.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "BRICS Women’s Ministerial Meeting reviews draft resolution in Kochi",
+        "summary": "Ministers from various countries held discussions yesterday on the draft resolution during the BRICS Women&#8217;s Ministerial Meeting. Under India&#8217;s BRICS Chairship 2026, the meeting is being organised by the Ministry of Panchayati Raj in Kochi. &#160; The BRICS Women&#8217;s Working Group meeting was held in Kochi ahead of the ministerial meeting to discuss key issues […]",
+        "article": "Ministers from various countries held discussions yesterday on the draft resolution during the BRICS Women&#8217;s Ministerial Meeting. Under India&#8217;s BRICS Chairship 2026, the meeting is being organised by the Ministry of Panchayati Raj in Kochi. &nbsp; The BRICS Women&#8217;s Working Group meeting was held in Kochi ahead of the ministerial meeting to discuss key issues related to women&#8217;s empowerment and women-led development. The joint resolution of the Ministerial Meeting is expected to be adopted this evening.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T01:40:40+00:00",
+        "link": "https://newsonair.gov.in/brics-womens-ministerial-meeting-reviews-draft-resolution-in-kochi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-Womens-Ministerial-Meeting-begins-in-Kochi.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "IMD forecasts heavy to very heavy rainfall across parts of north, east and northeast India",
+        "summary": "The India Meteorological Department (IMD) has issued an orange alert for heavy to very heavy rainfall over Arunachal Pradesh, Assam, Meghalaya, Bihar, East Rajasthan, Madhya Pradesh, Sub Himalayan West Bengal, Sikkim and West Uttar Pradesh during the day. The weather agency has also predicted heavy rainfall conditions over Coastal Karnataka, East Uttar Pradesh, Gangetic […]",
+        "article": "The India Meteorological Department (IMD) has issued an orange alert for heavy to very heavy rainfall over Arunachal Pradesh, Assam, Meghalaya, Bihar, East Rajasthan, Madhya Pradesh, Sub Himalayan West Bengal, Sikkim and West Uttar Pradesh during the day. The weather agency has also predicted heavy rainfall conditions over Coastal Karnataka, East Uttar Pradesh, Gangetic West Bengal, Gujarat, Haryana, Chandigarh and Delhi for the day. Similar weather conditions are predicted over Himachal Pradesh, Kerala, Mahe, Konkan, Goa, Madhya, Maharashtra, Nagaland, Manipur, Mizoram, Tripura, Punjab, South Interior Karnataka, Tamil Nadu, Puducherry, Karaikal and Uttarakhand today. Meanwhile, moderate rainfall lashed several parts of the national capital this morning, bringing fresh weather and much-needed relief to residents. The IMD predicted cloudy sky with a spell of very light to light rain at many places with moderate rain at isolated places in the city during the day.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T01:37:35+00:00",
+        "link": "https://newsonair.gov.in/imd-forecasts-heavy-to-very-heavy-rainfall-across-parts-of-north-east-and-northeast-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/imd-5-1-13.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi welcomes AustralianSuper’s 500 million Australian dollar investment in India",
+        "summary": "India welcomed the five hundred million Australian dollar investment from AustralianSuper, announced by their Chief Executive Officer, Paul Schroder this morning in Melbourne. &#160; In a social media post, Prime Minister Narendra Modi said that this is another glimpse of the global confidence in India’s growth and reform trajectory. He added it also reflects the […]",
+        "article": "India welcomed the five hundred million Australian dollar investment from AustralianSuper, announced by their Chief Executive Officer, Paul Schroder this morning in Melbourne. &nbsp; In a social media post, Prime Minister Narendra Modi said that this is another glimpse of the global confidence in India’s growth and reform trajectory. He added it also reflects the immense opportunities that India’s dynamic economy offers to global investors.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:36:48+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-welcomes-australiansupers-500-million-australian-dollar-investment-in-india/",
+        "post_id": 1727467,
         "image_url": "",
         "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Australia India Business Council highlights growing momentum of ‘Make with India’ initiative",
+        "summary": "Mr Vish Vishwanathan from the Australia-India Business Council highlighted the growing impact of the &#8220;Make with India&#8221; initiative. This industry chapter actively translates Prime Minister Narendra Modi’s &#8220;Make in India&#8221; vision into reality on Australian soil by fostering strategic corporate partnerships. &#160; Mr. Vishwanathan emphasised that this collaboration extends far",
+        "article": "Mr Vish Vishwanathan from the Australia-India Business Council highlighted the growing impact of the &#8220;Make with India&#8221; initiative. This industry chapter actively translates Prime Minister Narendra Modi’s &#8220;Make in India&#8221; vision into reality on Australian soil by fostering strategic corporate partnerships. &nbsp; Mr. Vishwanathan emphasised that this collaboration extends far beyond traditional trade, focusing on critical emerging sectors. Australian companies are being actively encouraged to partner with India in advanced manufacturing, clean energy, defence, and agribusiness. A particularly encouraging aspect of this bilateral relationship is the strong bipartisan political support it enjoys in Australia, ensuring continuity and growth regardless of political shifts. Central to this strengthening bridge is the more than one million-strong Indian diaspora. Describing them as a highly skilled and enthusiastic community, Mr. Vishwanathan, who has lived in Australia for over thirty-seven years while remaining a proud Indian passport holder, noted that the diaspora is uniquely positioned to drive this partnership forward, opening new chapters of mutual global growth.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:20:07+00:00",
+        "link": "https://newsonair.gov.in/australia-india-business-council-highlights-growing-momentum-of-make-with-india-initiative/",
+        "post_id": 1727334,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India’s Aswath S becomes country’s 98th Chess Grandmaster",
+        "summary": "India&#8217;s march towards its 100th Grandmaster gathered momentum yesterday, with 17-year-old Aswath S from Kanyakumari becoming the country&#8217;s 98th Grandmaster after clinching his final GM norm at the 2026 Pune International Grandmaster Round Robin. Needing a win in the final round, Aswath defeated USA&#8217;s FM Kannan Vaidyanathan with the black pieces to complete the […]",
+        "article": "India&#8217;s march towards its 100th Grandmaster gathered momentum yesterday, with 17-year-old Aswath S from Kanyakumari becoming the country&#8217;s 98th Grandmaster after clinching his final GM norm at the 2026 Pune International Grandmaster Round Robin. Needing a win in the final round, Aswath defeated USA&#8217;s FM Kannan Vaidyanathan with the black pieces to complete the Grandmaster title requirements. He finished the tournament with 7 points from 9 rounds, recording six wins, two draws, and one loss to secure second place. Aswath had earned his first GM norm at the Grenke Open last year and his second at the First Saturday GM Round Robin in Budapest in December, where he also crossed the 2500 rating mark. After a slow start in Pune, including a loss to GM Abhijeet Gupta, Aswath bounced back with a strong finish to achieve the biggest milestone of his chess career. He is the latest Indian to achieve the Grandmaster title, continuing the country&#8217;s impressive rise in world chess.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T04:05:36+00:00",
+        "link": "https://newsonair.gov.in/indias-aswath-s-becomes-countrys-98th-chess-grandmaster/",
+        "post_id": 1726955,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi, Australian PM Anthony Albanese attend India-Australia CEO Forum in Melbourne",
+        "summary": "Prime Minister Modi and his counterpart Albanese addressed the high-profile India-Australia CEO Forum and Economic Roadmap Business Reception in Melbourne today. Addressing the business reception, Prime Minister Modi said the India-Australia partnership has entered a transformative, high-tech era. He outlined a visionary roadmap to accelerate bilateral trade toward its monumental 100 billion US Do",
+        "article": "Prime Minister Modi and his counterpart Albanese addressed the high-profile India-Australia CEO Forum and Economic Roadmap Business Reception in Melbourne today. Addressing the business reception, Prime Minister Modi said the India-Australia partnership has entered a transformative, high-tech era. He outlined a visionary roadmap to accelerate bilateral trade toward its monumental 100 billion US Dollars target by 2030, emphasising a structural transition to high-value, future-ready commerce. The Prime Minister emphasised that, amidst global supply chain disruptions, India and Australia stand together as natural, trusted anchors of stability. He invited deep commercial collaboration across future-ready frontiers, highlighting India’s ambitious target of achieving 500 GW of renewable energy capacity by 2030 and net-zero emissions by 2070 and its newly opened private nuclear sector with a target of achieving 100 GW of nuclear power capacity by 2047, backed by Australia’s massive uranium reserves. Turning to core industries, the Prime Minister spotlighted India’s unprecedented infrastructure expansion, currently constructing 34 kilometres of national highways and over 1 kilometre of railway tracks daily, positioning the country as an ideal, secure destination for long-term Australian pension fund capital. As the world&#8217;s second-largest crude steel producer, India is also primed to co-develop low-carbon aluminium and green iron to build highly resilient, sustainable supply chains. In the high-tech space, backed by a USD 10 billion government incentive program, he advocated for co-creating global solutions in semiconductors, artificial intelligence, quantum computing, data centres, and digital public infrastructure. On human capital, he celebrated the establishment of Australian university campuses in GIFT City, urging corporate leaders to structurally convert student mobility into a lifelong talent partnership. Crucially, the Prime Minister suggested a decentralised approach to economic diplomacy, urging corporate leaders to bypass a capital-centric focus and instead forge direct, state-to-state alliances. By linking Western Australia’s critical minerals with Gujarat’s manufacturing and Victoria’s innovation hubs with Karnataka&#8217;s tech ecosystem, this strategic roadmap transforms high-level diplomatic trust into localised, enduring engines of prosperity. Speaking at the forum, Australian Prime Minister Anthony Albanese celebrated the historic transformation of the Australia-India alliance from parallel journeys into a deeply integrated, future-ready partnership. He highlighted that India is securely on track to become the world&#8217;s third-largest economy. Albanese outlined major milestones driving this strategic roadmap, including AustralianSuper’s additional 500 million AUD commitment to India&#8217;s National Investment and Infrastructure Fund. Educational cooperation has reached unprecedented heights, expanding beyond GIFT City campuses to embrace massive resource investments by Monash University to fund exchange programmes and critical scholarships. Furthermore, industrial synergy is actively taking shape through the landmark Perdaman Project Ceres urea plant, which seamlessly pairs advanced Indian machinery with Australian resources to secure global agricultural supply chains. Ultimately, Albanese emphasised that the true custodians of this dynamic partnership remain the vibrant, one-million-strong diaspora bridging both …",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T03:04:26+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-australian-pm-anthony-albanese-attend-india-australia-ceo-forum-in-melbourne/",
+        "post_id": 1727000,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi to hold talks with his Australian counterpart Anthony Albanese in Melbourne today",
+        "summary": "Prime Minister Narendra Modi will hold talks with his Australian counterpart Anthony Albanese in Melbourne today. Discussions between the two leaders are expected to focus on strengthening cooperation in trade, defence, critical technologies, education and people-to-people ties. His visit is expected to provide fresh momentum to the India-Australia Comprehensive Strategic Partnership. Prime Minist",
+        "article": "Prime Minister Narendra Modi will hold talks with his Australian counterpart Anthony Albanese in Melbourne today. Discussions between the two leaders are expected to focus on strengthening cooperation in trade, defence, critical technologies, education and people-to-people ties. His visit is expected to provide fresh momentum to the India-Australia Comprehensive Strategic Partnership. Prime Minister Modi is also scheduled to participate in the India-Australia CEOs Forum and address business leaders from both countries. He will also interact with the Indian diaspora at a community event in Melbourne. Mr Modi arrived in Melbourne yesterday evening on a 3-day visit to Australia at the invitation of Australian Prime Minister. PM Modi arrived in Melbourne from Indonesia in the second leg of his three-nation tour. Prime Minister thanked the Indian community in Melbourne for the warm welcome accorded to him, describing the reception as truly unforgettable. Braving the winter chill, members of the Indian diaspora gathered in large numbers outside the Prime Minister’s hotel, greeting him with chants of “Bharat Mata Ki Jai” and “Modi, Modi”. The welcome also featured cultural performances by local artists. Prime Minister also praised the Australian-India Orchestra for its rendition of ‘Maa Tujhe Salaam’, saying the performance reflected the role of music in strengthening people-to-people ties between the two countries. India’s High Commissioner to Australia, Nagesh Singh, said Mr Modi’s third visit to Australia in a decade reflects the significant growth in bilateral relations over the past few years. Mr Singh said, evolving global circumstances have brought India and Australia closer, with both countries sharing common strategic interests and a wide-ranging partnership. The High Commissioner said cooperation between the two countries has expanded across multiple sectors, reflecting the growing depth and diversity of India-Australia engagement.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T02:03:20+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-to-hold-talks-with-his-australian-counterpart-anthony-albanese-in-melbourne-today/",
+        "post_id": 1726888,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, Myanmar review bilateral security cooperation at National Level Meeting",
+        "summary": "India and Myanmar have discussed bilateral security cooperation and reviewed progress under bilateral dialogue mechanisms. The two-day 23rd National Level Meeting between India and Myanmar concluded in New Delhi yesterday. Ministry of Home Affairs said that the two sides discussed cooperation in combating transnational crimes, including terrorism, insurgency, narcotics trafficking, arms smuggling,",
+        "article": "India and Myanmar have discussed bilateral security cooperation and reviewed progress under bilateral dialogue mechanisms. The two-day 23rd National Level Meeting between India and Myanmar concluded in New Delhi yesterday. Ministry of Home Affairs said that the two sides discussed cooperation in combating transnational crimes, including terrorism, insurgency, narcotics trafficking, arms smuggling, human trafficking, wildlife trafficking, cybercrime and other forms of organised crime. They also agreed to enhance intelligence sharing and operational coordination, and undertake capacity-building initiatives to address shared security challenges effectively. The meeting reaffirmed the importance attached by both countries to their longstanding friendship and close partnership and their shared commitment to further strengthen cooperation for the mutual benefit of the two countries. They reviewed the prevailing security situation along the India-Myanmar border and reaffirmed the importance of maintaining peace, stability and security along the India-Myanmar border. Both sides underscored the importance of preventing the misuse of sovereign territory for activities inimical to their security interests. The Myanmar side assured that its territory would not be permitted to be used against India’s security interests. The two sides shared the importance of working closely towards the completion of Kaladan Multi-Modal Transit Transport project and the India-Myanmar-Thailand trilateral highway. The two sides agreed to continue close engagement and cooperation on security matters among relevant agencies through existing bilateral mechanisms, regular exchanges, training programmes and implementation of mutually agreed decisions. The Indian side underlined that Myanmar occupies an important place in India&#8217;s Neighbourhood First, Act East and Mutual and Holistic Advancement for Security and Growth Across Regions (MAHASAGAR) policies. Home Secretary, Govind Mohan led the Indian delegation and Deputy Minister, Myanmar’s Ministry of Home Affairs, Major General Min Thu led the Myanmar delegation.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T01:35:04+00:00",
+        "link": "https://newsonair.gov.in/india-myanmar-review-bilateral-security-cooperation-at-national-level-meeting/",
+        "post_id": 1726897,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "politics": [
+      {
+        "title": "Vice President to launch Letters of Authorisation for sustainable high seas fishing in Odisha",
+        "summary": "Vice President C P Radhakrishnan will be visiting Bhubaneswar, Odisha, today. During the visit, the Vice President will attend the National Launch Programme for the issuance of Letters of Authorisation for Sustainable Harnessing of Fisheries in the High Seas at the Odisha University of Agriculture and Technology, Bhubaneswar. On the occasion, Mr Radhakrishnan will also […]",
+        "article": "Vice President C P Radhakrishnan will be visiting Bhubaneswar, Odisha, today. During the visit, the Vice President will attend the National Launch Programme for the issuance of Letters of Authorisation for Sustainable Harnessing of Fisheries in the High Seas at the Odisha University of Agriculture and Technology, Bhubaneswar. On the occasion, Mr Radhakrishnan will also launch the Odisha Deep Sea Fishing Mission Document. Later, the Vice President will attend the 15th Graduation Ceremony of the National Institute of Science Education and Research, Khordha, Bhubaneswar.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:32:45+00:00",
+        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-to-launch-high-seas-fisheries-initiative-in-odisha/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/vp-cp-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "HM Amit Shah greets ABVP workers on Foundation Day",
+        "summary": "Union Home Minister Amit Shah has greeted all workers of the Akhil Bharatiya Vidyarthi Parishad on its Foundation Day. In a social media post, Mr Shah said that, following the ideals of Swami Vivekananda, the organisation has been carrying out the task of organising student power and instilling the spirit of patriotism among the youth. […]",
+        "article": "Union Home Minister Amit Shah has greeted all workers of the Akhil Bharatiya Vidyarthi Parishad on its Foundation Day. In a social media post, Mr Shah said that, following the ideals of Swami Vivekananda, the organisation has been carrying out the task of organising student power and instilling the spirit of patriotism among the youth. The Home Minister said that whether it was the struggle against the Emergency or the issue of infiltration in the Northeast, the Vidyarthi Parishad has always inspired young people to play a leading role in nation-building. He expressed confidence that the organisation will continue to stand firm in the face of every challenge before the country and motivate the younger generation to keep national interests above all.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T04:03:14+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-greets-abvp-workers-on-foundation-day/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/abvp.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "BRICS Women’s Ministerial Meeting reviews draft resolution in Kochi",
+        "summary": "Ministers from various countries held discussions yesterday on the draft resolution during the BRICS Women&#8217;s Ministerial Meeting. Under India&#8217;s BRICS Chairship 2026, the meeting is being organised by the Ministry of Panchayati Raj in Kochi. &#160; The BRICS Women&#8217;s Working Group meeting was held in Kochi ahead of the ministerial meeting to discuss key issues […]",
+        "article": "Ministers from various countries held discussions yesterday on the draft resolution during the BRICS Women&#8217;s Ministerial Meeting. Under India&#8217;s BRICS Chairship 2026, the meeting is being organised by the Ministry of Panchayati Raj in Kochi. &nbsp; The BRICS Women&#8217;s Working Group meeting was held in Kochi ahead of the ministerial meeting to discuss key issues related to women&#8217;s empowerment and women-led development. The joint resolution of the Ministerial Meeting is expected to be adopted this evening.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T01:40:40+00:00",
+        "link": "https://newsonair.gov.in/brics-womens-ministerial-meeting-reviews-draft-resolution-in-kochi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-Womens-Ministerial-Meeting-begins-in-Kochi.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "IMD forecasts heavy to very heavy rainfall across parts of north, east and northeast India",
+        "summary": "The India Meteorological Department (IMD) has issued an orange alert for heavy to very heavy rainfall over Arunachal Pradesh, Assam, Meghalaya, Bihar, East Rajasthan, Madhya Pradesh, Sub Himalayan West Bengal, Sikkim and West Uttar Pradesh during the day. The weather agency has also predicted heavy rainfall conditions over Coastal Karnataka, East Uttar Pradesh, Gangetic […]",
+        "article": "The India Meteorological Department (IMD) has issued an orange alert for heavy to very heavy rainfall over Arunachal Pradesh, Assam, Meghalaya, Bihar, East Rajasthan, Madhya Pradesh, Sub Himalayan West Bengal, Sikkim and West Uttar Pradesh during the day. The weather agency has also predicted heavy rainfall conditions over Coastal Karnataka, East Uttar Pradesh, Gangetic West Bengal, Gujarat, Haryana, Chandigarh and Delhi for the day. Similar weather conditions are predicted over Himachal Pradesh, Kerala, Mahe, Konkan, Goa, Madhya, Maharashtra, Nagaland, Manipur, Mizoram, Tripura, Punjab, South Interior Karnataka, Tamil Nadu, Puducherry, Karaikal and Uttarakhand today. Meanwhile, moderate rainfall lashed several parts of the national capital this morning, bringing fresh weather and much-needed relief to residents. The IMD predicted cloudy sky with a spell of very light to light rain at many places with moderate rain at isolated places in the city during the day.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T01:37:35+00:00",
+        "link": "https://newsonair.gov.in/imd-forecasts-heavy-to-very-heavy-rainfall-across-parts-of-north-east-and-northeast-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/imd-5-1-13.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi welcomes AustralianSuper’s 500 million Australian dollar investment in India",
+        "summary": "India welcomed the five hundred million Australian dollar investment from AustralianSuper, announced by their Chief Executive Officer, Paul Schroder this morning in Melbourne. &#160; In a social media post, Prime Minister Narendra Modi said that this is another glimpse of the global confidence in India’s growth and reform trajectory. He added it also reflects the […]",
+        "article": "India welcomed the five hundred million Australian dollar investment from AustralianSuper, announced by their Chief Executive Officer, Paul Schroder this morning in Melbourne. &nbsp; In a social media post, Prime Minister Narendra Modi said that this is another glimpse of the global confidence in India’s growth and reform trajectory. He added it also reflects the immense opportunities that India’s dynamic economy offers to global investors.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:36:48+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-welcomes-australiansupers-500-million-australian-dollar-investment-in-india/",
+        "post_id": 1727467,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Australia India Business Council highlights growing momentum of ‘Make with India’ initiative",
+        "summary": "Mr Vish Vishwanathan from the Australia-India Business Council highlighted the growing impact of the &#8220;Make with India&#8221; initiative. This industry chapter actively translates Prime Minister Narendra Modi’s &#8220;Make in India&#8221; vision into reality on Australian soil by fostering strategic corporate partnerships. &#160; Mr. Vishwanathan emphasised that this collaboration extends far",
+        "article": "Mr Vish Vishwanathan from the Australia-India Business Council highlighted the growing impact of the &#8220;Make with India&#8221; initiative. This industry chapter actively translates Prime Minister Narendra Modi’s &#8220;Make in India&#8221; vision into reality on Australian soil by fostering strategic corporate partnerships. &nbsp; Mr. Vishwanathan emphasised that this collaboration extends far beyond traditional trade, focusing on critical emerging sectors. Australian companies are being actively encouraged to partner with India in advanced manufacturing, clean energy, defence, and agribusiness. A particularly encouraging aspect of this bilateral relationship is the strong bipartisan political support it enjoys in Australia, ensuring continuity and growth regardless of political shifts. Central to this strengthening bridge is the more than one million-strong Indian diaspora. Describing them as a highly skilled and enthusiastic community, Mr. Vishwanathan, who has lived in Australia for over thirty-seven years while remaining a proud Indian passport holder, noted that the diaspora is uniquely positioned to drive this partnership forward, opening new chapters of mutual global growth.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:20:07+00:00",
+        "link": "https://newsonair.gov.in/australia-india-business-council-highlights-growing-momentum-of-make-with-india-initiative/",
+        "post_id": 1727334,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India’s Aswath S becomes country’s 98th Chess Grandmaster",
+        "summary": "India&#8217;s march towards its 100th Grandmaster gathered momentum yesterday, with 17-year-old Aswath S from Kanyakumari becoming the country&#8217;s 98th Grandmaster after clinching his final GM norm at the 2026 Pune International Grandmaster Round Robin. Needing a win in the final round, Aswath defeated USA&#8217;s FM Kannan Vaidyanathan with the black pieces to complete the […]",
+        "article": "India&#8217;s march towards its 100th Grandmaster gathered momentum yesterday, with 17-year-old Aswath S from Kanyakumari becoming the country&#8217;s 98th Grandmaster after clinching his final GM norm at the 2026 Pune International Grandmaster Round Robin. Needing a win in the final round, Aswath defeated USA&#8217;s FM Kannan Vaidyanathan with the black pieces to complete the Grandmaster title requirements. He finished the tournament with 7 points from 9 rounds, recording six wins, two draws, and one loss to secure second place. Aswath had earned his first GM norm at the Grenke Open last year and his second at the First Saturday GM Round Robin in Budapest in December, where he also crossed the 2500 rating mark. After a slow start in Pune, including a loss to GM Abhijeet Gupta, Aswath bounced back with a strong finish to achieve the biggest milestone of his chess career. He is the latest Indian to achieve the Grandmaster title, continuing the country&#8217;s impressive rise in world chess.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T04:05:36+00:00",
+        "link": "https://newsonair.gov.in/indias-aswath-s-becomes-countrys-98th-chess-grandmaster/",
+        "post_id": 1726955,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi, Australian PM Anthony Albanese attend India-Australia CEO Forum in Melbourne",
+        "summary": "Prime Minister Modi and his counterpart Albanese addressed the high-profile India-Australia CEO Forum and Economic Roadmap Business Reception in Melbourne today. Addressing the business reception, Prime Minister Modi said the India-Australia partnership has entered a transformative, high-tech era. He outlined a visionary roadmap to accelerate bilateral trade toward its monumental 100 billion US Do",
+        "article": "Prime Minister Modi and his counterpart Albanese addressed the high-profile India-Australia CEO Forum and Economic Roadmap Business Reception in Melbourne today. Addressing the business reception, Prime Minister Modi said the India-Australia partnership has entered a transformative, high-tech era. He outlined a visionary roadmap to accelerate bilateral trade toward its monumental 100 billion US Dollars target by 2030, emphasising a structural transition to high-value, future-ready commerce. The Prime Minister emphasised that, amidst global supply chain disruptions, India and Australia stand together as natural, trusted anchors of stability. He invited deep commercial collaboration across future-ready frontiers, highlighting India’s ambitious target of achieving 500 GW of renewable energy capacity by 2030 and net-zero emissions by 2070 and its newly opened private nuclear sector with a target of achieving 100 GW of nuclear power capacity by 2047, backed by Australia’s massive uranium reserves. Turning to core industries, the Prime Minister spotlighted India’s unprecedented infrastructure expansion, currently constructing 34 kilometres of national highways and over 1 kilometre of railway tracks daily, positioning the country as an ideal, secure destination for long-term Australian pension fund capital. As the world&#8217;s second-largest crude steel producer, India is also primed to co-develop low-carbon aluminium and green iron to build highly resilient, sustainable supply chains. In the high-tech space, backed by a USD 10 billion government incentive program, he advocated for co-creating global solutions in semiconductors, artificial intelligence, quantum computing, data centres, and digital public infrastructure. On human capital, he celebrated the establishment of Australian university campuses in GIFT City, urging corporate leaders to structurally convert student mobility into a lifelong talent partnership. Crucially, the Prime Minister suggested a decentralised approach to economic diplomacy, urging corporate leaders to bypass a capital-centric focus and instead forge direct, state-to-state alliances. By linking Western Australia’s critical minerals with Gujarat’s manufacturing and Victoria’s innovation hubs with Karnataka&#8217;s tech ecosystem, this strategic roadmap transforms high-level diplomatic trust into localised, enduring engines of prosperity. Speaking at the forum, Australian Prime Minister Anthony Albanese celebrated the historic transformation of the Australia-India alliance from parallel journeys into a deeply integrated, future-ready partnership. He highlighted that India is securely on track to become the world&#8217;s third-largest economy. Albanese outlined major milestones driving this strategic roadmap, including AustralianSuper’s additional 500 million AUD commitment to India&#8217;s National Investment and Infrastructure Fund. Educational cooperation has reached unprecedented heights, expanding beyond GIFT City campuses to embrace massive resource investments by Monash University to fund exchange programmes and critical scholarships. Furthermore, industrial synergy is actively taking shape through the landmark Perdaman Project Ceres urea plant, which seamlessly pairs advanced Indian machinery with Australian resources to secure global agricultural supply chains. Ultimately, Albanese emphasised that the true custodians of this dynamic partnership remain the vibrant, one-million-strong diaspora bridging both …",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T03:04:26+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-australian-pm-anthony-albanese-attend-india-australia-ceo-forum-in-melbourne/",
+        "post_id": 1727000,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi to hold talks with his Australian counterpart Anthony Albanese in Melbourne today",
+        "summary": "Prime Minister Narendra Modi will hold talks with his Australian counterpart Anthony Albanese in Melbourne today. Discussions between the two leaders are expected to focus on strengthening cooperation in trade, defence, critical technologies, education and people-to-people ties. His visit is expected to provide fresh momentum to the India-Australia Comprehensive Strategic Partnership. Prime Minist",
+        "article": "Prime Minister Narendra Modi will hold talks with his Australian counterpart Anthony Albanese in Melbourne today. Discussions between the two leaders are expected to focus on strengthening cooperation in trade, defence, critical technologies, education and people-to-people ties. His visit is expected to provide fresh momentum to the India-Australia Comprehensive Strategic Partnership. Prime Minister Modi is also scheduled to participate in the India-Australia CEOs Forum and address business leaders from both countries. He will also interact with the Indian diaspora at a community event in Melbourne. Mr Modi arrived in Melbourne yesterday evening on a 3-day visit to Australia at the invitation of Australian Prime Minister. PM Modi arrived in Melbourne from Indonesia in the second leg of his three-nation tour. Prime Minister thanked the Indian community in Melbourne for the warm welcome accorded to him, describing the reception as truly unforgettable. Braving the winter chill, members of the Indian diaspora gathered in large numbers outside the Prime Minister’s hotel, greeting him with chants of “Bharat Mata Ki Jai” and “Modi, Modi”. The welcome also featured cultural performances by local artists. Prime Minister also praised the Australian-India Orchestra for its rendition of ‘Maa Tujhe Salaam’, saying the performance reflected the role of music in strengthening people-to-people ties between the two countries. India’s High Commissioner to Australia, Nagesh Singh, said Mr Modi’s third visit to Australia in a decade reflects the significant growth in bilateral relations over the past few years. Mr Singh said, evolving global circumstances have brought India and Australia closer, with both countries sharing common strategic interests and a wide-ranging partnership. The High Commissioner said cooperation between the two countries has expanded across multiple sectors, reflecting the growing depth and diversity of India-Australia engagement.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T02:03:20+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-to-hold-talks-with-his-australian-counterpart-anthony-albanese-in-melbourne-today/",
+        "post_id": 1726888,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, Myanmar review bilateral security cooperation at National Level Meeting",
+        "summary": "India and Myanmar have discussed bilateral security cooperation and reviewed progress under bilateral dialogue mechanisms. The two-day 23rd National Level Meeting between India and Myanmar concluded in New Delhi yesterday. Ministry of Home Affairs said that the two sides discussed cooperation in combating transnational crimes, including terrorism, insurgency, narcotics trafficking, arms smuggling,",
+        "article": "India and Myanmar have discussed bilateral security cooperation and reviewed progress under bilateral dialogue mechanisms. The two-day 23rd National Level Meeting between India and Myanmar concluded in New Delhi yesterday. Ministry of Home Affairs said that the two sides discussed cooperation in combating transnational crimes, including terrorism, insurgency, narcotics trafficking, arms smuggling, human trafficking, wildlife trafficking, cybercrime and other forms of organised crime. They also agreed to enhance intelligence sharing and operational coordination, and undertake capacity-building initiatives to address shared security challenges effectively. The meeting reaffirmed the importance attached by both countries to their longstanding friendship and close partnership and their shared commitment to further strengthen cooperation for the mutual benefit of the two countries. They reviewed the prevailing security situation along the India-Myanmar border and reaffirmed the importance of maintaining peace, stability and security along the India-Myanmar border. Both sides underscored the importance of preventing the misuse of sovereign territory for activities inimical to their security interests. The Myanmar side assured that its territory would not be permitted to be used against India’s security interests. The two sides shared the importance of working closely towards the completion of Kaladan Multi-Modal Transit Transport project and the India-Myanmar-Thailand trilateral highway. The two sides agreed to continue close engagement and cooperation on security matters among relevant agencies through existing bilateral mechanisms, regular exchanges, training programmes and implementation of mutually agreed decisions. The Indian side underlined that Myanmar occupies an important place in India&#8217;s Neighbourhood First, Act East and Mutual and Holistic Advancement for Security and Growth Across Regions (MAHASAGAR) policies. Home Secretary, Govind Mohan led the Indian delegation and Deputy Minister, Myanmar’s Ministry of Home Affairs, Major General Min Thu led the Myanmar delegation.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T01:35:04+00:00",
+        "link": "https://newsonair.gov.in/india-myanmar-review-bilateral-security-cooperation-at-national-level-meeting/",
+        "post_id": 1726897,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "world": [
+      {
+        "title": "PM Modi welcomes AustralianSuper’s 500 million Australian dollar investment in India",
+        "summary": "India welcomed the five hundred million Australian dollar investment from AustralianSuper, announced by their Chief Executive Officer, Paul Schroder this morning in Melbourne. &#160; In a social media post, Prime Minister Narendra Modi said that this is another glimpse of the global confidence in India’s growth and reform trajectory. He added it also reflects the […]",
+        "article": "India welcomed the five hundred million Australian dollar investment from AustralianSuper, announced by their Chief Executive Officer, Paul Schroder this morning in Melbourne. &nbsp; In a social media post, Prime Minister Narendra Modi said that this is another glimpse of the global confidence in India’s growth and reform trajectory. He added it also reflects the immense opportunities that India’s dynamic economy offers to global investors.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:36:48+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-welcomes-australiansupers-500-million-australian-dollar-investment-in-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260707682f.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "3rd BRICS Transport Ministers’ Meeting to begin in Maharashtra’s Nagpur today",
+        "summary": "The 3rd BRICS Transport Ministers Meeting under India&#8217;s BRICS Chairship will begin at Nagpur in Maharashtra from today. The meeting will bring together Ministers and Senior Officials from BRICS member countries to deliberate on key priorities in the transport sector, sustainability in infrastructure and mobility at the 3rd BRICS Transport Ministers&#8217; Meeting which is being […]",
+        "article": "The 3rd BRICS Transport Ministers Meeting under India&#8217;s BRICS Chairship will begin at Nagpur in Maharashtra from today. The meeting will bring together Ministers and Senior Officials from BRICS member countries to deliberate on key priorities in the transport sector, sustainability in infrastructure and mobility at the 3rd BRICS Transport Ministers&#8217; Meeting which is being arranged on 11th and 12th of this month in city of Nagpur. The meeting is being convened under India&#8217;s BRICS Chairship theme: &#8220;Building for Resilience, Innovation, Cooperation and Sustainability (BRICS)&#8221;, which reflects the shared commitment of BRICS nations to drive inclusive growth through technological innovation and enhanced connectivity. Union Transport Minister Nitin Gadkari will chair the BRICS Transport Ministers’ meeting on 11th of this month, which will see the participation from Ministers of other member countries. The opening session of Transport Working Group, including the senior officials from BRICS countries, has started today. Following the first two pivotal meetings of the Transport Working Group hosted by Russia and Brazil, this third iteration aims to deepen international transport cooperation. Over the two days, senior officials will review the progress of transport cooperation achieved since the Russian and Brazilian chairmanships, exchange international best practices and deliberate on emerging areas of collaboration, including Sustainable Aviation Fuel (SAF), urban mobility, multi-modal transport, resilient logistics’ supply chains, decarbonisation and the adoption of expanding AI-based technologies.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:27:31+00:00",
+        "link": "https://newsonair.gov.in/3rd-brics-transport-ministers-meeting-to-begin-in-maharashtras-nagpur-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/brics.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Australia India Business Council highlights growing momentum of ‘Make with India’ initiative",
+        "summary": "Mr Vish Vishwanathan from the Australia-India Business Council highlighted the growing impact of the &#8220;Make with India&#8221; initiative. This industry chapter actively translates Prime Minister Narendra Modi’s &#8220;Make in India&#8221; vision into reality on Australian soil by fostering strategic corporate partnerships. &#160; Mr. Vishwanathan emphasised that this collaboration extends far",
+        "article": "Mr Vish Vishwanathan from the Australia-India Business Council highlighted the growing impact of the &#8220;Make with India&#8221; initiative. This industry chapter actively translates Prime Minister Narendra Modi’s &#8220;Make in India&#8221; vision into reality on Australian soil by fostering strategic corporate partnerships. &nbsp; Mr. Vishwanathan emphasised that this collaboration extends far beyond traditional trade, focusing on critical emerging sectors. Australian companies are being actively encouraged to partner with India in advanced manufacturing, clean energy, defence, and agribusiness. A particularly encouraging aspect of this bilateral relationship is the strong bipartisan political support it enjoys in Australia, ensuring continuity and growth regardless of political shifts. Central to this strengthening bridge is the more than one million-strong Indian diaspora. Describing them as a highly skilled and enthusiastic community, Mr. Vishwanathan, who has lived in Australia for over thirty-seven years while remaining a proud Indian passport holder, noted that the diaspora is uniquely positioned to drive this partnership forward, opening new chapters of mutual global growth.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:20:07+00:00",
+        "link": "https://newsonair.gov.in/australia-india-business-council-highlights-growing-momentum-of-make-with-india-initiative/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India’s Aswath S becomes country’s 98th Chess Grandmaster",
+        "summary": "India&#8217;s march towards its 100th Grandmaster gathered momentum yesterday, with 17-year-old Aswath S from Kanyakumari becoming the country&#8217;s 98th Grandmaster after clinching his final GM norm at the 2026 Pune International Grandmaster Round Robin. Needing a win in the final round, Aswath defeated USA&#8217;s FM Kannan Vaidyanathan with the black pieces to complete the […]",
+        "article": "India&#8217;s march towards its 100th Grandmaster gathered momentum yesterday, with 17-year-old Aswath S from Kanyakumari becoming the country&#8217;s 98th Grandmaster after clinching his final GM norm at the 2026 Pune International Grandmaster Round Robin. Needing a win in the final round, Aswath defeated USA&#8217;s FM Kannan Vaidyanathan with the black pieces to complete the Grandmaster title requirements. He finished the tournament with 7 points from 9 rounds, recording six wins, two draws, and one loss to secure second place. Aswath had earned his first GM norm at the Grenke Open last year and his second at the First Saturday GM Round Robin in Budapest in December, where he also crossed the 2500 rating mark. After a slow start in Pune, including a loss to GM Abhijeet Gupta, Aswath bounced back with a strong finish to achieve the biggest milestone of his chess career. He is the latest Indian to achieve the Grandmaster title, continuing the country&#8217;s impressive rise in world chess.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T04:05:36+00:00",
+        "link": "https://newsonair.gov.in/indias-aswath-s-becomes-countrys-98th-chess-grandmaster/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indias-Aswath-S-becomes-countrys-98th-Chess-Grandmaster.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi, Australian PM Anthony Albanese attend India-Australia CEO Forum in Melbourne",
+        "summary": "Prime Minister Modi and his counterpart Albanese addressed the high-profile India-Australia CEO Forum and Economic Roadmap Business Reception in Melbourne today. Addressing the business reception, Prime Minister Modi said the India-Australia partnership has entered a transformative, high-tech era. He outlined a visionary roadmap to accelerate bilateral trade toward its monumental 100 billion US Do",
+        "article": "Prime Minister Modi and his counterpart Albanese addressed the high-profile India-Australia CEO Forum and Economic Roadmap Business Reception in Melbourne today. Addressing the business reception, Prime Minister Modi said the India-Australia partnership has entered a transformative, high-tech era. He outlined a visionary roadmap to accelerate bilateral trade toward its monumental 100 billion US Dollars target by 2030, emphasising a structural transition to high-value, future-ready commerce. The Prime Minister emphasised that, amidst global supply chain disruptions, India and Australia stand together as natural, trusted anchors of stability. He invited deep commercial collaboration across future-ready frontiers, highlighting India’s ambitious target of achieving 500 GW of renewable energy capacity by 2030 and net-zero emissions by 2070 and its newly opened private nuclear sector with a target of achieving 100 GW of nuclear power capacity by 2047, backed by Australia’s massive uranium reserves. Turning to core industries, the Prime Minister spotlighted India’s unprecedented infrastructure expansion, currently constructing 34 kilometres of national highways and over 1 kilometre of railway tracks daily, positioning the country as an ideal, secure destination for long-term Australian pension fund capital. As the world&#8217;s second-largest crude steel producer, India is also primed to co-develop low-carbon aluminium and green iron to build highly resilient, sustainable supply chains. In the high-tech space, backed by a USD 10 billion government incentive program, he advocated for co-creating global solutions in semiconductors, artificial intelligence, quantum computing, data centres, and digital public infrastructure. On human capital, he celebrated the establishment of Australian university campuses in GIFT City, urging corporate leaders to structurally convert student mobility into a lifelong talent partnership. Crucially, the Prime Minister suggested a decentralised approach to economic diplomacy, urging corporate leaders to bypass a capital-centric focus and instead forge direct, state-to-state alliances. By linking Western Australia’s critical minerals with Gujarat’s manufacturing and Victoria’s innovation hubs with Karnataka&#8217;s tech ecosystem, this strategic roadmap transforms high-level diplomatic trust into localised, enduring engines of prosperity. Speaking at the forum, Australian Prime Minister Anthony Albanese celebrated the historic transformation of the Australia-India alliance from parallel journeys into a deeply integrated, future-ready partnership. He highlighted that India is securely on track to become the world&#8217;s third-largest economy. Albanese outlined major milestones driving this strategic roadmap, including AustralianSuper’s additional 500 million AUD commitment to India&#8217;s National Investment and Infrastructure Fund. Educational cooperation has reached unprecedented heights, expanding beyond GIFT City campuses to embrace massive resource investments by Monash University to fund exchange programmes and critical scholarships. Furthermore, industrial synergy is actively taking shape through the landmark Perdaman Project Ceres urea plant, which seamlessly pairs advanced Indian machinery with Australian resources to secure global agricultural supply chains. Ultimately, Albanese emphasised that the true custodians of this dynamic partnership remain the vibrant, one-million-strong diaspora bridging both …",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T03:04:26+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-australian-pm-anthony-albanese-attend-india-australia-ceo-forum-in-melbourne/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-Australian-PM-Anthony-Albanese-attend-India-Australia-CEO-Forum-in-Melbourne.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi to hold talks with his Australian counterpart Anthony Albanese in Melbourne today",
+        "summary": "Prime Minister Narendra Modi will hold talks with his Australian counterpart Anthony Albanese in Melbourne today. Discussions between the two leaders are expected to focus on strengthening cooperation in trade, defence, critical technologies, education and people-to-people ties. His visit is expected to provide fresh momentum to the India-Australia Comprehensive Strategic Partnership. Prime Minist",
+        "article": "Prime Minister Narendra Modi will hold talks with his Australian counterpart Anthony Albanese in Melbourne today. Discussions between the two leaders are expected to focus on strengthening cooperation in trade, defence, critical technologies, education and people-to-people ties. His visit is expected to provide fresh momentum to the India-Australia Comprehensive Strategic Partnership. Prime Minister Modi is also scheduled to participate in the India-Australia CEOs Forum and address business leaders from both countries. He will also interact with the Indian diaspora at a community event in Melbourne. Mr Modi arrived in Melbourne yesterday evening on a 3-day visit to Australia at the invitation of Australian Prime Minister. PM Modi arrived in Melbourne from Indonesia in the second leg of his three-nation tour. Prime Minister thanked the Indian community in Melbourne for the warm welcome accorded to him, describing the reception as truly unforgettable. Braving the winter chill, members of the Indian diaspora gathered in large numbers outside the Prime Minister’s hotel, greeting him with chants of “Bharat Mata Ki Jai” and “Modi, Modi”. The welcome also featured cultural performances by local artists. Prime Minister also praised the Australian-India Orchestra for its rendition of ‘Maa Tujhe Salaam’, saying the performance reflected the role of music in strengthening people-to-people ties between the two countries. India’s High Commissioner to Australia, Nagesh Singh, said Mr Modi’s third visit to Australia in a decade reflects the significant growth in bilateral relations over the past few years. Mr Singh said, evolving global circumstances have brought India and Australia closer, with both countries sharing common strategic interests and a wide-ranging partnership. The High Commissioner said cooperation between the two countries has expanded across multiple sectors, reflecting the growing depth and diversity of India-Australia engagement.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T02:03:20+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-to-hold-talks-with-his-australian-counterpart-anthony-albanese-in-melbourne-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-to-hold-Annual-Summit-talks-with-Australian-PM-Anthony-Albanese.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, Myanmar review bilateral security cooperation at National Level Meeting",
+        "summary": "India and Myanmar have discussed bilateral security cooperation and reviewed progress under bilateral dialogue mechanisms. The two-day 23rd National Level Meeting between India and Myanmar concluded in New Delhi yesterday. Ministry of Home Affairs said that the two sides discussed cooperation in combating transnational crimes, including terrorism, insurgency, narcotics trafficking, arms smuggling,",
+        "article": "India and Myanmar have discussed bilateral security cooperation and reviewed progress under bilateral dialogue mechanisms. The two-day 23rd National Level Meeting between India and Myanmar concluded in New Delhi yesterday. Ministry of Home Affairs said that the two sides discussed cooperation in combating transnational crimes, including terrorism, insurgency, narcotics trafficking, arms smuggling, human trafficking, wildlife trafficking, cybercrime and other forms of organised crime. They also agreed to enhance intelligence sharing and operational coordination, and undertake capacity-building initiatives to address shared security challenges effectively. The meeting reaffirmed the importance attached by both countries to their longstanding friendship and close partnership and their shared commitment to further strengthen cooperation for the mutual benefit of the two countries. They reviewed the prevailing security situation along the India-Myanmar border and reaffirmed the importance of maintaining peace, stability and security along the India-Myanmar border. Both sides underscored the importance of preventing the misuse of sovereign territory for activities inimical to their security interests. The Myanmar side assured that its territory would not be permitted to be used against India’s security interests. The two sides shared the importance of working closely towards the completion of Kaladan Multi-Modal Transit Transport project and the India-Myanmar-Thailand trilateral highway. The two sides agreed to continue close engagement and cooperation on security matters among relevant agencies through existing bilateral mechanisms, regular exchanges, training programmes and implementation of mutually agreed decisions. The Indian side underlined that Myanmar occupies an important place in India&#8217;s Neighbourhood First, Act East and Mutual and Holistic Advancement for Security and Growth Across Regions (MAHASAGAR) policies. Home Secretary, Govind Mohan led the Indian delegation and Deputy Minister, Myanmar’s Ministry of Home Affairs, Major General Min Thu led the Myanmar delegation.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T01:35:04+00:00",
+        "link": "https://newsonair.gov.in/india-myanmar-review-bilateral-security-cooperation-at-national-level-meeting/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ChatGPT-Image-Jul-8-2026-09_45_54-PM-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -515,9 +580,8 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T16:34:43+00:00",
         "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
-        "post_id": 1726819,
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mea-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -527,61 +591,18 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T16:13:11+00:00",
         "link": "https://newsonair.gov.in/trump-accuses-nato-allies-of-failing-to-back-us-during-iran-operation/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/trump-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "EAM Jaishankar Meets Kuwait PM, Discusses Bilateral Cooperation",
-        "summary": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar […]",
-        "article": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar also met Defence Minister Abdullah Ali Abdullah Al-Salem Al-Sabah. The External Affairs Minister spoke about defence industry cooperation and maritime security.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:54:48+00:00",
-        "link": "https://newsonair.gov.in/eam-jaishankar-meets-kuwait-pm-discusses-bilateral-cooperation/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, Russia reaffirm commitment to strengthen counter terrorism cooperation at multilateral fora",
-        "summary": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister […]",
-        "article": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister of Russia, Dmitry Lyubinski co-chaired the meeting. Both sides condemned terrorism in all its forms and manifestation including cross-border terrorism, and called for concerted action against terrorists and terrorist groups and their proxies and affiliates. They shared their assessment on regional and global terrorism and agreed to enhance cooperation to address challenges such as radicalization, terror financing and misuse of new and emerging technologies for terrorist purposes.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:32:56+00:00",
-        "link": "https://newsonair.gov.in/india-russia-reaffirm-counter-terrorism-cooperation-at-joint-working-group-meeting/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "US President Trump says, ceasefire with Iran is over",
-        "summary": "US President Donald Trump today announced that the ceasefire with Iran is over. Speaking to reporters at the North Atlantic Treaty Organization (NATO) Summit in Ankara, Trump said that he does not want to waste his time negotiating with Iran. However, he said US representatives can continue negotiations, but he cast doubt on the outcome. […]",
-        "article": "US President Donald Trump today announced that the ceasefire with Iran is over. Speaking to reporters at the North Atlantic Treaty Organization (NATO) Summit in Ankara, Trump said that he does not want to waste his time negotiating with Iran. However, he said US representatives can continue negotiations, but he cast doubt on the outcome. Trump&#8217;s statement comes hours after the US carried out a new round of military strikes against Iran, targeting more than 80 sites. The US said, the strikes were in response to Tehran’s attacks on commercial ships in the Strait of Hormuz. Announcing the operation, US Central Command (CENTCOM) said, the strikes were conducted using precision-guided munitions and were aimed at degrading Iran’s ability to threaten international maritime commerce. The Iranian military said, coastal bases and civilian facilities were struck in the provinces of Hormozgan and Mahshar. According to the Islamic Revolutionary Guard Corps (IRGC), strikes also hit Bandar Mashahr, south-west Iran. IRGC said, it had responded to the strikes by targeting US assets in neighbouring countries as sirens went off in Bahrain and Kuwait. Meanwhile, Kuwait&#8217;s Defence Ministry said, it intercepted two ballistic missiles and 13 drones overnight. Qatar condemned Iranian attacks on Bahrain and Kuwait, which its foreign ministry said were a blatant breach of international law and the two countries&#8217; sovereignty.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T14:42:58+00:00",
-        "link": "https://newsonair.gov.in/u-s-president-trump-says-mou-to-end-iran-conflict-is-over/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, Maldives Reiterate Commitment to Bilateral Investment Treaty and FTA",
-        "summary": "India and Maldives today reaffirmed their commitment to expediting the signing of the Bilateral Investment Treaty and the proposed Free Trade Agreement. In a social media post, Union Commerce and Industry Minister Piyush Goyal said that he held discussions with the Maldives&#8217; Minister of Economic Development and Trade, Mohamed Saeed, in New Delhi. Mr. Goyal […]",
-        "article": "India and Maldives today reaffirmed their commitment to expediting the signing of the Bilateral Investment Treaty and the proposed Free Trade Agreement. In a social media post, Union Commerce and Industry Minister Piyush Goyal said that he held discussions with the Maldives&#8217; Minister of Economic Development and Trade, Mohamed Saeed, in New Delhi. Mr. Goyal added that the agreements will further strengthen cooperation in tourism, startups, digital payments, MSMEs, and trade to unlock new opportunities for both countries. India and Maldives are celebrating 60 years of diplomatic relations this year.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T13:44:40+00:00",
-        "link": "https://newsonair.gov.in/india-maldives-reiterate-commitment-to-bilateral-investment-treaty-and-fta/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Three Killed in Overnight Russian Attacks on Ukraine",
-        "summary": "Three people were killed across Ukraine in overnight Russian attacks, including one in Kyiv. In Kharkiv, two people were killed and 20 others were injured. Ukraine&#8217;s Air Force said Russia fired 169 long-range strike drones and seven missiles, including five ballistics last night. Russia&#8217;s Defence Ministry said the military carried out a strike on arms […]",
-        "article": "Three people were killed across Ukraine in overnight Russian attacks, including one in Kyiv. In Kharkiv, two people were killed and 20 others were injured. Ukraine&#8217;s Air Force said Russia fired 169 long-range strike drones and seven missiles, including five ballistics last night. Russia&#8217;s Defence Ministry said the military carried out a strike on arms industry facilities in Kyiv, hitting a plant that was manufacturing components for Flamingo cruise missiles and a facility assembling mid- and long-range drones. The ministry also said air defences shot down 415 Ukrainian drones overnight.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T12:56:50+00:00",
-        "link": "https://newsonair.gov.in/three-killed-in-overnight-russian-attacks-on-ukraine/",
+        "title": "IMF says India to remain world’s fastest-growing major economy",
+        "summary": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year […]",
+        "article": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year to 6.4 per cent. The report said, the projected performance of Indian economy is supported by strong momentum in private consumption and services activity. India’s growth projections are more than twice the global numbers, as the report gave a 3 per cent projection for the world economy’s growth this year. The report presented a relatively positive outlook for the world economy growth, as it is expected to rise 3.4 per cent next year. China, which is the second fastest-growing economy, was projected to grow by 4.6 per cent this year and lose a half point, falling to 4.1 per cent next year. The US ranked third with a projected growth of 2.3 per cent this year and 2.2 per cent next year.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T00:30:44+00:00",
+        "link": "https://newsonair.gov.in/imf-projects-india-to-remain-worlds-fastest-growing-major-economy/",
+        "post_id": 1726776,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -589,58 +610,25 @@ window.VM_NEWS = {
     ],
     "sports": [
       {
+        "title": "India’s Arnav Paparkar reaches Wimbledon Juniors boys’ singles quarter-finals",
+        "summary": "India&#8217;s Arnav Paparkar created history by becoming the first Indian in 36 years to reach the boys&#8217; singles quarter-finals at the Wimbledon Juniors 2026. The 18-year-old Paparkar defeated Japan&#8217;s Ryo Tabata 6-2, 6-1 in just 52 minutes in the prequarter-finals. Earlier, he shocked world No. 3 Keaton Hance of the United States with a […]",
+        "article": "India&#8217;s Arnav Paparkar created history by becoming the first Indian in 36 years to reach the boys&#8217; singles quarter-finals at the Wimbledon Juniors 2026. The 18-year-old Paparkar defeated Japan&#8217;s Ryo Tabata 6-2, 6-1 in just 52 minutes in the prequarter-finals. Earlier, he shocked world No. 3 Keaton Hance of the United States with a 6-2, 6-3 win after beating Great Britain&#8217;s Joshua Craze 6-2, 6-2 in the opening round. He has not dropped a set so far in the tournament. Paparkar will next face either Jordan Lee of the United States in the quarter-finals at 5 PM today. Only three Indians have won the Wimbledon Juniors boys&#8217; singles title: Ramanathan Krishnan in 1954, Ramesh Krishnan in 1979, and the last was Leander Paes in 1990. Paparkar will now aim to join that elite list.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:32:30+00:00",
+        "link": "https://newsonair.gov.in/indias-arnav-paparkar-reaches-wimbledon-juniors-boys-singles-quarter-finals/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Ultimate Table Tennis Season 7 to Begin Tomorrow in Goa",
         "summary": "The Ultimate Table Tennis Season 7 will be held from tomorrow to 26th of July at Dr. Shyama Prasad Mukherjee Indoor Stadium in Goa, with seven franchises competing in the country&#8217;s premier franchise table tennis league. Home side Dempo Goa Challengers will be aiming to secure a record third UTT title. The season will also […]",
         "article": "The Ultimate Table Tennis Season 7 will be held from tomorrow to 26th of July at Dr. Shyama Prasad Mukherjee Indoor Stadium in Goa, with seven franchises competing in the country&#8217;s premier franchise table tennis league. Home side Dempo Goa Challengers will be aiming to secure a record third UTT title. The season will also mark the debut of the UP Prometheans, taking the number of participating teams to seven. The league will be played in a single round-robin format, where each team will face every other team once during the league stage. Each tie will consist of five matches (15 games), with the top four teams progressing to the semi-finals. The tournament will feature several of India&#8217;s leading paddlers, including Manika Batra, Sharath Kamal, Sathiyan Gnanasekaran, and Manav Thakkar, alongside top international players. Romanian star Bernadette Szőcs was the highest-valued player at the Season 7 auction, attracting a bid of 40 lakh tokens.",
         "date": "2026-07-08",
         "pubDate": "2026-07-08T16:19:12+00:00",
         "link": "https://newsonair.gov.in/ultimate-table-tennis-season-7-to-begin-tomorrow-in-goa/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BeachFun.jpg/1280px-BeachFun.jpg",
-        "image_credit": "Wikipedia – Goa (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Telangana to Host 8th Khelo India Youth Games 2026",
-        "summary": "The 8th Khelo India Youth Games 2026 will be hosted by Telangana. Union Youth Affairs and Sports Minister Dr Mansukh Mandaviya made the announcement today. He said the Games will provide another platform for country&#8217;s youth to showcase their sporting talent. The Minister added that the initiative is driven by Prime Minister Narendra Modi&#8217;s vision to nurture […]",
-        "article": "The 8th Khelo India Youth Games 2026 will be hosted by Telangana. Union Youth Affairs and Sports Minister Dr Mansukh Mandaviya made the announcement today. He said the Games will provide another platform for country&#8217;s youth to showcase their sporting talent. The Minister added that the initiative is driven by Prime Minister Narendra Modi&#8217;s vision to nurture grassroots sporting talent across the country.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T12:26:57+00:00",
-        "link": "https://newsonair.gov.in/telangana-to-host-8th-khelo-india-youth-games-2026/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Khelo_India.svg/1280px-Khelo_India.svg.png",
-        "image_credit": "Wikipedia – Khelo India Youth Games (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "FIFA World Cup: Switzerland, Argentina enter quarterfinals",
-        "summary": "In football, Switzerland beat Colombia 4-3 in a penalty shootout in Vancouver to reach the quarterfinals of FIFA World Cup for the first time since 1954. Colombia faltered when Davinson Sánchez smashed his spot-kick against the bar and Cucho Hernández had his effort saved by goalkeeper Gregor Kobel, before Rubén Vargas scored to book a […]",
-        "article": "In football, Switzerland beat Colombia 4-3 in a penalty shootout in Vancouver to reach the quarterfinals of FIFA World Cup for the first time since 1954. Colombia faltered when Davinson Sánchez smashed his spot-kick against the bar and Cucho Hernández had his effort saved by goalkeeper Gregor Kobel, before Rubén Vargas scored to book a quarterfinal date with holders Argentina. The two sides were tied 0-0 after extra time. In another Round of 16 match, Argentina defeated Egypt 3-2 in Atlanta. Argentina was trailing by two goals till 78th minute when the defending champions pulled off a stunning comeback with Cristian Romaro scoring the first goal at 79 minutes. The equalizer came through Messi in 83 minutes while Enzo Fernandez completed the turnaround with the winner in the extra time. With this win Argentina entered the quarter finals of the tournament.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T01:18:40+00:00",
-        "link": "https://newsonair.gov.in/fifa-world-cup-switzerland-argentina-enter-quarterfinals/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpg",
-        "image_credit": "Wikipedia – FIFA World Cup (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Wimbledon: Defending champion Jannik Sinner storms into Men’s Singles semifinal",
-        "summary": "In the Wimbledon Tennis, World No. 1 and defending champion Jannik Sinner has stormed into Men&#8217;s Singles semifinal beating Jan-Lennard Struff of Germany. Sinner defeated Struff in straight sets 7-5, 7-6, 6-3 in the quarter-final match this evening. In Women&#8217;s Singles, Coco Gauff advanced to the Wimbledon semi-finals after defeating fellow American Jessica Pegula 4-6, […]",
-        "article": "In the Wimbledon Tennis, World No. 1 and defending champion Jannik Sinner has stormed into Men&#8217;s Singles semifinal beating Jan-Lennard Struff of Germany. Sinner defeated Struff in straight sets 7-5, 7-6, 6-3 in the quarter-final match this evening. In Women&#8217;s Singles, Coco Gauff advanced to the Wimbledon semi-finals after defeating fellow American Jessica Pegula 4-6, 6-3, 6-3 in a thrilling quarter-final match. In other quarter-finals tomorrow, Czech player Linda Nosková will face Belgian Elise Mertens while Ukrainian player Marta Kostyuk will take on Italian Jasmine Paolini.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T15:46:01+00:00",
-        "link": "https://newsonair.gov.in/wimbledon-tennis-ninth-seed-flavio-cobolli-enters-mens-singles-quarter-finals/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Jannik_Sinner_2025_US_Open.jpg",
-        "image_credit": "Wikipedia – Jannik Sinner (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "President Droupadi Murmu flags off trophies of Durand Cup tournament 2026 in New Delhi",
-        "summary": "President Droupadi Murmu unveiled and flagged off the trophies for the Durand Cup 2026 in New Delhi. Addressing the gathering, the President said that new teams will compete this year for the Durand Cup, the President&#8217;s Cup and the Shimla Trophy. Expressing happiness over the participation of a Sri Lankan team in this year&#8217;s tournament, […]",
-        "article": "President Droupadi Murmu unveiled and flagged off the trophies for the Durand Cup 2026 in New Delhi. Addressing the gathering, the President said that new teams will compete this year for the Durand Cup, the President&#8217;s Cup and the Shimla Trophy. Expressing happiness over the participation of a Sri Lankan team in this year&#8217;s tournament, she said the inclusion of new teams would make the historic competition even more popular. President Murmu extended her best wishes to all the teams and players participating in the tournament. She urged them to uphold the true spirit of sportsmanship and further enhance the prestige of the historic competition through their best performances. The President also expressed happiness that, in addition to Kolkata, Guwahati, Imphal and Shillong, this year&#8217;s Durand Cup will also be hosted in Ranchi. Highlighting the unifying power of football, President Murmu said the sport has the unique ability to bring people together. She noted that the values of sportsmanship extend far beyond the playing field by promoting discipline, determination and team spirit. She said India still has a long way to go to emerge as a leading force in football and called upon everyone to contribute to this journey. The President expressed hope that the tournament would provide a platform for nurturing and developing football talent in the country. Chief of Defence Staff General Anil Chauhan, Chief of the Army Staff General Dhiraj Seth and Chief of the Naval Staff Admiral Krishna Swaminathan were also present on the occasion.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T08:15:18+00:00",
-        "link": "https://newsonair.gov.in/president-murmu-unveils-durand-cup-2026-trophies/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
-        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/tab.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -650,8 +638,19 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T15:46:30+00:00",
         "link": "https://newsonair.gov.in/wimbledon-marta-kostyuk-linda-noskova-enter-womens-singles-semi-finals/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/wim.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Telangana to Host 8th Khelo India Youth Games 2026",
+        "summary": "The 8th Khelo India Youth Games 2026 will be hosted by Telangana. Union Youth Affairs and Sports Minister Dr Mansukh Mandaviya made the announcement today. He said the Games will provide another platform for country&#8217;s youth to showcase their sporting talent. The Minister added that the initiative is driven by Prime Minister Narendra Modi&#8217;s vision to nurture […]",
+        "article": "The 8th Khelo India Youth Games 2026 will be hosted by Telangana. Union Youth Affairs and Sports Minister Dr Mansukh Mandaviya made the announcement today. He said the Games will provide another platform for country&#8217;s youth to showcase their sporting talent. The Minister added that the initiative is driven by Prime Minister Narendra Modi&#8217;s vision to nurture grassroots sporting talent across the country.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T12:26:57+00:00",
+        "link": "https://newsonair.gov.in/telangana-to-host-8th-khelo-india-youth-games-2026/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/khelo-india.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -661,8 +660,8 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T11:43:51+00:00",
         "link": "https://newsonair.gov.in/fifa-world-cup-quarter-final-lineup-finalised/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats-5-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -672,8 +671,30 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T01:27:33+00:00",
         "link": "https://newsonair.gov.in/england-beat-india-by-125-runs-in-third-t20i/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/England-beat-India-by-125-runs-in-third-T20I.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "FIFA World Cup: Switzerland, Argentina enter quarterfinals",
+        "summary": "In football, Switzerland beat Colombia 4-3 in a penalty shootout in Vancouver to reach the quarterfinals of FIFA World Cup for the first time since 1954. Colombia faltered when Davinson Sánchez smashed his spot-kick against the bar and Cucho Hernández had his effort saved by goalkeeper Gregor Kobel, before Rubén Vargas scored to book a […]",
+        "article": "In football, Switzerland beat Colombia 4-3 in a penalty shootout in Vancouver to reach the quarterfinals of FIFA World Cup for the first time since 1954. Colombia faltered when Davinson Sánchez smashed his spot-kick against the bar and Cucho Hernández had his effort saved by goalkeeper Gregor Kobel, before Rubén Vargas scored to book a quarterfinal date with holders Argentina. The two sides were tied 0-0 after extra time. In another Round of 16 match, Argentina defeated Egypt 3-2 in Atlanta. Argentina was trailing by two goals till 78th minute when the defending champions pulled off a stunning comeback with Cristian Romaro scoring the first goal at 79 minutes. The equalizer came through Messi in 83 minutes while Enzo Fernandez completed the turnaround with the winner in the extra time. With this win Argentina entered the quarter finals of the tournament.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T01:18:40+00:00",
+        "link": "https://newsonair.gov.in/fifa-world-cup-switzerland-argentina-enter-quarterfinals/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/2026-FIFA-World-Cup-begins-today-across-United-States-Canada-and-Mexico.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Wimbledon: Defending champion Jannik Sinner storms into Men’s Singles semifinal",
+        "summary": "In the Wimbledon Tennis, World No. 1 and defending champion Jannik Sinner has stormed into Men&#8217;s Singles semifinal beating Jan-Lennard Struff of Germany. Sinner defeated Struff in straight sets 7-5, 7-6, 6-3 in the quarter-final match this evening. In Women&#8217;s Singles, Coco Gauff advanced to the Wimbledon semi-finals after defeating fellow American Jessica Pegula 4-6, […]",
+        "article": "In the Wimbledon Tennis, World No. 1 and defending champion Jannik Sinner has stormed into Men&#8217;s Singles semifinal beating Jan-Lennard Struff of Germany. Sinner defeated Struff in straight sets 7-5, 7-6, 6-3 in the quarter-final match this evening. In Women&#8217;s Singles, Coco Gauff advanced to the Wimbledon semi-finals after defeating fellow American Jessica Pegula 4-6, 6-3, 6-3 in a thrilling quarter-final match. In other quarter-finals tomorrow, Czech player Linda Nosková will face Belgian Elise Mertens while Ukrainian player Marta Kostyuk will take on Italian Jasmine Paolini.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T15:46:01+00:00",
+        "link": "https://newsonair.gov.in/wimbledon-tennis-ninth-seed-flavio-cobolli-enters-mens-singles-quarter-finals/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Wimbeldon.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -683,8 +704,8 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T13:22:32+00:00",
         "link": "https://newsonair.gov.in/indian-participants-at-cwg-2026-to-wear-jute-viscose-blended-apparel/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Sports-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -694,18 +715,18 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T12:53:05+00:00",
         "link": "https://newsonair.gov.in/fifa-wc-defending-champion-argentina-to-take-on-egypt-switzerland-vs-colombia/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/FIFA-3.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "business": [
       {
-        "title": "IMF Projects India to Remain World’s Fastest-Growing Major Economy",
+        "title": "IMF says India to remain world’s fastest-growing major economy",
         "summary": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year […]",
         "article": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year to 6.4 per cent. The report said, the projected performance of Indian economy is supported by strong momentum in private consumption and services activity. India’s growth projections are more than twice the global numbers, as the report gave a 3 per cent projection for the world economy’s growth this year. The report presented a relatively positive outlook for the world economy growth, as it is expected to rise 3.4 per cent next year. China, which is the second fastest-growing economy, was projected to grow by 4.6 per cent this year and lose a half point, falling to 4.1 per cent next year. The US ranked third with a projected growth of 2.3 per cent this year and 2.2 per cent next year.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:31:44+00:00",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T00:30:44+00:00",
         "link": "https://newsonair.gov.in/imf-projects-india-to-remain-worlds-fastest-growing-major-economy/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/IMF.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
@@ -813,36 +834,14 @@ window.VM_NEWS = {
     ],
     "entertainment": [
       {
-        "title": "UK Named Country Partner for Hornbill Festival 2025 in Nagaland",
-        "summary": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence […]",
-        "article": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence of British High Commissioner to India Lindy Cameron, and senior representatives from both sides at New Delhi. Under this partnership, the British Council, working with the British Deputy High Commission in Kolkata, will curate meaningful programming for the festival, including bringing an artist from the UK to participate in the festival. The state also named Air India Express as the Official Travel Partner for the Hornbill Festival. The partnership was announced by Advisor to Chief Minister, Abu Metha and Managing Director, Air India Express, Aloke Singh, at the airline&#8217;s headquarters in Gurugram in the presence of several key officials. As part of the collaboration, Air India Express will introduce a Boeing 737-8 aircraft featuring a livery inspired by the Tsüngkotepsü design of the Ao Naga tribe’s warrior shawl, under its ‘Tales of India’ initiative. The special aircraft will be received by Chief Minister Neiphiu Rio at Dimapur Airport on November 22. The airline will also offer a 15 percent discount on flights to and from Nagaland, starting November 20. Welcoming the partnerships, Chief Minister Neiphiu Rio expressed hopes that the ties will drive tourism, cultural exchange, and economic growth.",
-        "date": "2025-11-18",
-        "pubDate": "2025-11-18T06:24:16+00:00",
-        "link": "https://newsonair.gov.in/uk-named-country-partner-for-hornbill-festival-2025-in-nagaland/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kapamodzu.jpg/1280px-Kapamodzu.jpg",
-        "image_credit": "Wikipedia – Nagaland (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "BIFF 2025: Shape of Momo to Premiere in Vision Section of Asia’s Biggest Film Festival",
-        "summary": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &#160; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its […]",
-        "article": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &nbsp; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its Vision Section highlights promising works from independent Asian cinema, showcasing daring and original stories from both emerging and mid-career directors. &nbsp; The selection places Shape of Momo alongside some of the most exciting contemporary films from across Asia. The film will also be screened at the San Sebastián International Film Festival in September, marking a significant step in its international journey.",
-        "date": "2025-08-21",
-        "pubDate": "2025-08-21T05:59:25+00:00",
-        "link": "https://newsonair.gov.in/biff-2025-shape-of-momo-to-premiere-in-vision-section-of-asias-biggest-film-festival/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Premiere_at_Chinese_Theater_%283555047236%29.jpg/1280px-Premiere_at_Chinese_Theater_%283555047236%29.jpg",
-        "image_credit": "Wikipedia – Premiere (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Veteran producer and former CBFC chairperson Pahlaj Nihalani passes away",
         "summary": "Veteran producer and former chairperson of the Central Board of Film Certification (CBFC), Pahlaj Nihalani, has passed away in Mumbai today. He was 76. Born on January 10, 1950, Nihalani started his career as a producer with the 1982 movie ‘Haathkadi’. He is widely credited for giving actor Govinda his first big break with the […]",
         "article": "Veteran producer and former chairperson of the Central Board of Film Certification (CBFC), Pahlaj Nihalani, has passed away in Mumbai today. He was 76. Born on January 10, 1950, Nihalani started his career as a producer with the 1982 movie ‘Haathkadi’. He is widely credited for giving actor Govinda his first big break with the 1986 movie ‘Ilzaam’. He also introduced actor Chunky Panday with ‘Aag Hi Aag’ in 1987. He also produced films like ‘Shola Aur Shabnam’, ‘Aankhen’, ‘Dil Tera Diwana’, ‘Talaash’ and ‘Rangeela Raja’. In January 2015, Nihalani was appointed as the chairperson of the Central Board of Film Certification. During his stint, he introduced strict new guidelines barring certain expletives even in &#8216;A&#8217; rated films and sought to restrict content that could be seen as hurting religious sentiments or depicting violence. Critics in the film fraternity frequently accused him of overreach, while he maintained he was simply doing his job. Current chairperson of the CBFC Shashi Shekhar Vempati has condoled Nihalani&#8217;s demise.",
         "date": "2026-06-04",
         "pubDate": "2026-06-04T08:26:03+00:00",
         "link": "https://newsonair.gov.in/veteran-producer-and-former-cbfc-chairperson-pahlaj-nihalani-passes-away/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/pahln.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -852,8 +851,8 @@ window.VM_NEWS = {
         "date": "2025-12-25",
         "pubDate": "2025-12-25T06:41:17+00:00",
         "link": "https://newsonair.gov.in/150th-shree-baba-harivallabh-sangeet-sammelan-begins-in-jalandhar-tomorrow/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/hargobind.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -863,8 +862,8 @@ window.VM_NEWS = {
         "date": "2025-11-27",
         "pubDate": "2025-11-27T07:31:40+00:00",
         "link": "https://newsonair.gov.in/goa-cm-releases-commemorative-stamp-honouring-filmmaker-k-vaikunth-at-iffi-56/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/pramod.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -874,8 +873,19 @@ window.VM_NEWS = {
         "date": "2025-11-18",
         "pubDate": "2025-11-18T08:00:22+00:00",
         "link": "https://newsonair.gov.in/media-and-entertainment-sector-among-indias-fastest-growing-industries/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/media.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "UK Named Country Partner for Hornbill Festival 2025 in Nagaland",
+        "summary": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence […]",
+        "article": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence of British High Commissioner to India Lindy Cameron, and senior representatives from both sides at New Delhi. Under this partnership, the British Council, working with the British Deputy High Commission in Kolkata, will curate meaningful programming for the festival, including bringing an artist from the UK to participate in the festival. The state also named Air India Express as the Official Travel Partner for the Hornbill Festival. The partnership was announced by Advisor to Chief Minister, Abu Metha and Managing Director, Air India Express, Aloke Singh, at the airline&#8217;s headquarters in Gurugram in the presence of several key officials. As part of the collaboration, Air India Express will introduce a Boeing 737-8 aircraft featuring a livery inspired by the Tsüngkotepsü design of the Ao Naga tribe’s warrior shawl, under its ‘Tales of India’ initiative. The special aircraft will be received by Chief Minister Neiphiu Rio at Dimapur Airport on November 22. The airline will also offer a 15 percent discount on flights to and from Nagaland, starting November 20. Welcoming the partnerships, Chief Minister Neiphiu Rio expressed hopes that the ties will drive tourism, cultural exchange, and economic growth.",
+        "date": "2025-11-18",
+        "pubDate": "2025-11-18T06:24:16+00:00",
+        "link": "https://newsonair.gov.in/uk-named-country-partner-for-hornbill-festival-2025-in-nagaland/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/hornbill.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -885,8 +895,8 @@ window.VM_NEWS = {
         "date": "2025-11-17",
         "pubDate": "2025-11-17T04:43:41+00:00",
         "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-urges-media-to-be-partners-in-nation-building-at-ramoji-excellence-awards-2025/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/CP-radha.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -896,8 +906,8 @@ window.VM_NEWS = {
         "date": "2025-11-02",
         "pubDate": "2025-11-02T16:25:04+00:00",
         "link": "https://newsonair.gov.in/prasar-bharati-and-culture-ministry-launch-month-long-akashvani-sangeet-sammelan-nationwide/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/akashvani.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -907,8 +917,19 @@ window.VM_NEWS = {
         "date": "2025-08-22",
         "pubDate": "2025-08-22T06:34:48+00:00",
         "link": "https://newsonair.gov.in/comedian-and-veteran-punjabi-actor-jaswinder-bhalla-passes-away/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/bhalla.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "BIFF 2025: Shape of Momo to Premiere in Vision Section of Asia’s Biggest Film Festival",
+        "summary": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &#160; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its […]",
+        "article": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &nbsp; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its Vision Section highlights promising works from independent Asian cinema, showcasing daring and original stories from both emerging and mid-career directors. &nbsp; The selection places Shape of Momo alongside some of the most exciting contemporary films from across Asia. The film will also be screened at the San Sebastián International Film Festival in September, marking a significant step in its international journey.",
+        "date": "2025-08-21",
+        "pubDate": "2025-08-21T05:59:25+00:00",
+        "link": "https://newsonair.gov.in/biff-2025-shape-of-momo-to-premiere-in-vision-section-of-asias-biggest-film-festival/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/bfii.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -918,8 +939,8 @@ window.VM_NEWS = {
         "date": "2025-02-17",
         "pubDate": "2025-02-17T02:02:43+00:00",
         "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-strengthens-ties-with-indian-ocean-nations-at-muscat-conference/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/02/cats-476.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
@@ -931,30 +952,8 @@ window.VM_NEWS = {
         "date": "2026-03-24",
         "pubDate": "2026-03-24T07:13:43+00:00",
         "link": "https://newsonair.gov.in/health-minister-jp-nadda-urges-citizens-to-eliminate-tb-on-world-tuberculosis-day/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/World_Tuberculosis_Day_%287020132217%29.jpg/1280px-World_Tuberculosis_Day_%287020132217%29.jpg",
-        "image_credit": "Wikipedia – World Tuberculosis Day (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "West Bengal reports two suspected Nipah cases; centre sends response team",
-        "summary": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry […]",
-        "article": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry of Health and Family Welfare has shared a video in which Union Health Minister Jagat Prakash Nadda said the Central government firmly stands with the State government, and it is providing comprehensive technical, logistical and operational support to the State Government for the effective management and prevention of the outbreak. He added that upon receipt of information, the Secretary, Health and Family Welfare, immediately held discussions with the Chief Secretary and Principal Secretary, Health of West Bengal, to review the situation. Mr Nadda said he had also spoken to the West Bengal Chief Minister, Mamata Banerjee and emphasised for Centre- State co-ordination in this direction. Meanwhile, our Kolkata Correspondent reports the West Bengal government has implemented comprehensive precautionary measures to contain the spread of the virus, including two healthcare workers at a private hospital in Barasat, North 24 Parganas. State&#8217;s Chief Secretary, Nandini Chakraborty, convened an emergency meeting at Nabanna with the state&#8217;s Health Secretary and other senior officials to review the situation. Briefing the press, she confirmed that both patients are currently undergoing treatment, with a specialized medical team monitoring their condition. Preliminary investigations suggest the individuals contracted the virus during a work-related visit to Purba Bardhaman. Consequently, surveillance has been intensified across Purba Bardhaman, North 24 Parganas, and Nadia districts, while authorities are actively tracing high-risk contacts. To assist citizens, the State government has launched two helpline numbers: 033 2333-0180 and 9874708858. &nbsp;",
-        "date": "2026-01-13",
-        "pubDate": "2026-01-13T03:53:37+00:00",
-        "link": "https://newsonair.gov.in/west-bengal-reports-two-suspected-nipah-cases-centre-sends-response-team/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Howrah_bridge_betwixt_Lights.jpg/1280px-Howrah_bridge_betwixt_Lights.jpg",
-        "image_credit": "Wikipedia – West Bengal (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Chikungunya Outbreak in China: Over 7,000 Cases Emerge in Guangdong",
-        "summary": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. […]",
-        "article": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. Apart from Foshan, at least 12 other cities in China&#8217;s southern Guangdong province have reported infections from this a mosquito-borne virus, with nearly 3,000 cases got reported last week. Although rare in China, chikungunya outbreaks are common in South and South East Asia and parts of Africa. On Monday, Hong Kong reported its first case of the viral disease after a 12-year-old boy who developed fever, rash and joint pain after traveling to Foshan in July. An official said, all the reported cases have been mild so far, with 95 per cent of the patients discharged within seven days, Still, the cases have led to some panic, given the virus is not widely known in the country. Meanwhile, the US has urged travellers to China to exercise &#8220;increased caution&#8221; following the outbreak.",
-        "date": "2025-08-05",
-        "pubDate": "2025-08-05T12:03:13+00:00",
-        "link": "https://newsonair.gov.in/chikungunya-outbreak-in-china-over-7000-cases-emerge-in-guangdong/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg/1280px-China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg",
-        "image_credit": "Wikipedia – Guangdong (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/TB-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -964,8 +963,8 @@ window.VM_NEWS = {
         "date": "2026-03-24",
         "pubDate": "2026-03-24T06:13:25+00:00",
         "link": "https://newsonair.gov.in/india-tightens-surveillance-on-glp-1-weight-loss-drug-sales/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/wei.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -975,8 +974,19 @@ window.VM_NEWS = {
         "date": "2026-01-13",
         "pubDate": "2026-01-13T11:18:49+00:00",
         "link": "https://newsonair.gov.in/vp-radhakrishnan-urges-youth-to-be-drug-free-for-a-viksit-bharat/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/vp-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "West Bengal reports two suspected Nipah cases; centre sends response team",
+        "summary": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry […]",
+        "article": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry of Health and Family Welfare has shared a video in which Union Health Minister Jagat Prakash Nadda said the Central government firmly stands with the State government, and it is providing comprehensive technical, logistical and operational support to the State Government for the effective management and prevention of the outbreak. He added that upon receipt of information, the Secretary, Health and Family Welfare, immediately held discussions with the Chief Secretary and Principal Secretary, Health of West Bengal, to review the situation. Mr Nadda said he had also spoken to the West Bengal Chief Minister, Mamata Banerjee and emphasised for Centre- State co-ordination in this direction. Meanwhile, our Kolkata Correspondent reports the West Bengal government has implemented comprehensive precautionary measures to contain the spread of the virus, including two healthcare workers at a private hospital in Barasat, North 24 Parganas. State&#8217;s Chief Secretary, Nandini Chakraborty, convened an emergency meeting at Nabanna with the state&#8217;s Health Secretary and other senior officials to review the situation. Briefing the press, she confirmed that both patients are currently undergoing treatment, with a specialized medical team monitoring their condition. Preliminary investigations suggest the individuals contracted the virus during a work-related visit to Purba Bardhaman. Consequently, surveillance has been intensified across Purba Bardhaman, North 24 Parganas, and Nadia districts, while authorities are actively tracing high-risk contacts. To assist citizens, the State government has launched two helpline numbers: 033 2333-0180 and 9874708858. &nbsp;",
+        "date": "2026-01-13",
+        "pubDate": "2026-01-13T03:53:37+00:00",
+        "link": "https://newsonair.gov.in/west-bengal-reports-two-suspected-nipah-cases-centre-sends-response-team/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/09/nipha.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -986,8 +996,19 @@ window.VM_NEWS = {
         "date": "2025-08-13",
         "pubDate": "2025-08-13T11:11:04+00:00",
         "link": "https://newsonair.gov.in/wild-poliovirus-detected-in-sewage-samples-across-42-sites-in-pakistan/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/PPPPP.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Chikungunya Outbreak in China: Over 7,000 Cases Emerge in Guangdong",
+        "summary": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. […]",
+        "article": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. Apart from Foshan, at least 12 other cities in China&#8217;s southern Guangdong province have reported infections from this a mosquito-borne virus, with nearly 3,000 cases got reported last week. Although rare in China, chikungunya outbreaks are common in South and South East Asia and parts of Africa. On Monday, Hong Kong reported its first case of the viral disease after a 12-year-old boy who developed fever, rash and joint pain after traveling to Foshan in July. An official said, all the reported cases have been mild so far, with 95 per cent of the patients discharged within seven days, Still, the cases have led to some panic, given the virus is not widely known in the country. Meanwhile, the US has urged travellers to China to exercise &#8220;increased caution&#8221; following the outbreak.",
+        "date": "2025-08-05",
+        "pubDate": "2025-08-05T12:03:13+00:00",
+        "link": "https://newsonair.gov.in/chikungunya-outbreak-in-china-over-7000-cases-emerge-in-guangdong/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/chikungunya.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -997,8 +1018,8 @@ window.VM_NEWS = {
         "date": "2025-08-05",
         "pubDate": "2025-08-05T02:16:32+00:00",
         "link": "https://newsonair.gov.in/pm-matru-vandana-yojana-registration-drive-extended-till-august-15/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/pradhanmantri-matri-vandana-yojana-pmmvy.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1008,8 +1029,8 @@ window.VM_NEWS = {
         "date": "2025-07-28",
         "pubDate": "2025-07-28T03:24:29+00:00",
         "link": "https://newsonair.gov.in/vaccines-prevented-over-2-5-million-covid-deaths-worldwide-study/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/07/ffd.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1019,8 +1040,8 @@ window.VM_NEWS = {
         "date": "2025-07-14",
         "pubDate": "2025-07-14T11:41:18+00:00",
         "link": "https://newsonair.gov.in/world-embracing-ayurvedas-science-and-potential-ayush-minister/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/Pratap-Rao-Jadhav-1-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ]
@@ -1028,13 +1049,123 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
-        "title": "आईएमएफ रिपोर्ट: 7% वृद्धि अनुमान के साथ भारत सबसे तेज़ी से बढ़ती अर्थव्यवस्था",
-        "summary": "अंतर्राष्ट्रीय मुद्रा कोष (आई.एम.एफ) के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा कल जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू […]",
-        "article": "अंतर्राष्ट्रीय मुद्रा कोष (आई.एम.एफ) के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा कल जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू उत्पाद- जीडीपी में 6 दशमलव चार प्रतिशत की मामूली वृद्धि का अनुमान है। रिपोर्ट में कहा गया है कि भारतीय अर्थव्यवस्था के अनुमानित प्रदर्शन को निजी उपभोग और सेवा गतिविधियों में मजबूत गति का समर्थन प्राप्त है। भारत के वृद्धि अनुमान वैश्विक अनुमानों से दोगुने से भी अधिक हैं। रिपोर्ट में इस वर्ष वैश्विक अर्थव्यवस्था की वृद्धि दर 3 प्रतिशत बताई गई है। इसमें अगले वर्ष 3 दशमलव चार प्रतिशत की वृद्धि होने की उम्मीद है। दूसरी सबसे तेजी से बढ़ती अर्थव्यवस्था, चीन के जीडीपी में इस वर्ष 4 दशमलव छह प्रतिशत और अगले वर्ष 4 दशमलव एक प्रतिशत की वृद्धि का अनुमान है। अमरीका इस वर्ष 2 दशमलव तीन प्रतिशत और अगले वर्ष 2.2 प्रतिशत की अनुमानित वृद्धि के साथ तीसरे स्थान पर रहा।",
+        "title": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्‍य विश्व विश्वनाथन ने “मेक विद इंडिया” पहल के बढ़ते असर पर ज़ोर दिया",
+        "summary": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्‍य विश्व विश्वनाथन ने &#8220;मेक विद इंडिया&#8221; पहल के बढ़ते असर पर ज़ोर दिया। यह समूह रणनीतिक कॉर्पोरेट पार्टनरशिप को बढ़ावा देकर, ऑस्ट्रेलिया में प्रधानमंत्री नरेंद्र मोदी के &#8220;मेक इन इंडिया&#8221; दृष्टिकोण को लागू करने का काम कर रहा है। श्री विश्वनाथन ने कहा कि यह सहयोग पारंपरिक व्यापार से […]",
+        "article": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्&#x200d;य विश्व विश्वनाथन ने &#8220;मेक विद इंडिया&#8221; पहल के बढ़ते असर पर ज़ोर दिया। यह समूह रणनीतिक कॉर्पोरेट पार्टनरशिप को बढ़ावा देकर, ऑस्ट्रेलिया में प्रधानमंत्री नरेंद्र मोदी के &#8220;मेक इन इंडिया&#8221; दृष्टिकोण को लागू करने का काम कर रहा है। श्री विश्वनाथन ने कहा कि यह सहयोग पारंपरिक व्यापार से आगे बढ़कर, महत्&#x200d;वपूर्ण क्षेत्रों पर ध्यान केंद्रित करता है। ऑस्ट्रेलिया की कंपनियों को आधुनिक तकनीक, स्&#x200d;वच्&#x200d;छ ऊर्जा, रक्षा और कृषि व्&#x200d;यवसाय जैसे क्षेत्रों में भारत के साथ साझेदारी करने के लिए सक्रिय रूप से प्रोत्साहित किया जा रहा है।",
         "date": "2026-07-09",
-        "pubDate": "2026-07-09T01:58:14+00:00",
-        "link": "https://newsonair.gov.in/hi/imf-report-india-is-the-fastest-growing-economy-with-a-projected-growth-rate-of-7/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/06/imf-2.jpg",
+        "pubDate": "2026-07-09T05:43:21+00:00",
+        "link": "https://newsonair.gov.in/hi/vishwa-vishwanathan-a-key-member-of-the-australia-india-business-council-emphasized-the-growing-impact-of-the-make-with-india-initiative/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी तीसरे वार्षिक नेता शिखर सम्मेलन के लिए विक्टोरिया स्थित गवर्नमेंट हाउस पहुंचे",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी तीसरे वार्षिक नेता शिखर सम्मेलन के लिए विक्टोरिया स्थित गवर्नमेंट हाउस पहुंचे। प्रधानमंत्री मोदी ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बानीज़ के साथ बहुप्रतीक्षित, तीसरे वार्षिक नेता शिखर सम्मेलन में शामिल होने के लिए गवर्नमेंट हाउस पहुंचे हैं। दोनों नेताओं के बीच कई महत्वपूर्ण विषयों पर व्यापक चर्चा होने की उम्मीद है। बैठक के […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी तीसरे वार्षिक नेता शिखर सम्मेलन के लिए विक्टोरिया स्थित गवर्नमेंट हाउस पहुंचे। प्रधानमंत्री मोदी ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बानीज़ के साथ बहुप्रतीक्षित, तीसरे वार्षिक नेता शिखर सम्मेलन में शामिल होने के लिए गवर्नमेंट हाउस पहुंचे हैं। दोनों नेताओं के बीच कई महत्वपूर्ण विषयों पर व्यापक चर्चा होने की उम्मीद है। बैठक के बाद संयुक्त प्रेस वक्तव्य दिया जाएगा।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:01:58+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-arrived-at-government-house-in-victoria-for-the-third-annual-leaders-summit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-09-103115.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत की ब्रिक्स अध्यक्षता में ब्रिक्स परिवहन मंत्रियों की तीसरी बैठक आज नागपुर में शुरू होगी",
+        "summary": "भारत की ब्रिक्स अध्यक्षता में ब्रिक्स परिवहन मंत्रियों की तीसरी बैठक आज महाराष्ट्र के नागपुर में शुरू होगी। इस बैठक में ब्रिक्स सदस्य देशों के मंत्री और वरिष्ठ अधिकारी शामिल होंगे। इसमें परिवहन क्षेत्र, बुनियादी ढांचे जैसे मुद्दों पर चर्चा करेंगे। यह बैठक इस महीने की 11 और 12 तारीख को नागपुर शहर में आयोजित […]",
+        "article": "भारत की ब्रिक्स अध्यक्षता में ब्रिक्स परिवहन मंत्रियों की तीसरी बैठक आज महाराष्ट्र के नागपुर में शुरू होगी। इस बैठक में ब्रिक्स सदस्य देशों के मंत्री और वरिष्ठ अधिकारी शामिल होंगे। इसमें परिवहन क्षेत्र, बुनियादी ढांचे जैसे मुद्दों पर चर्चा करेंगे। यह बैठक इस महीने की 11 और 12 तारीख को नागपुर शहर में आयोजित की जा रही है। यह बैठक भारत की ब्रिक्स अध्यक्षता की थीम &#8211; &#8220;बिल्डिंग फॉर रेजिलिएंस, इनोवेशन, कोऑपरेशन एंड सस्टेनेबिलिटी &#8211; के तहत आयोजित की जा रही है। यह थीम तकनीकी नवाचार और बेहतर कनेक्टिविटी के माध्यम से समावेशी विकास को बढ़ावा देने के लिए ब्रिक्स देशों की साझा प्रतिबद्धता को दर्शाती है। केंद्रीय परिवहन मंत्री नितिन गडकरी इस महीने की 11 तारीख को ब्रिक्स परिवहन मंत्रियों की बैठक की अध्यक्षता करेंगे। रूस और ब्राज़ील द्वारा आयोजित ट्रांसपोर्ट वर्किंग ग्रुप की पहली दो महत्वपूर्ण बैठकों के बाद, इस तीसरी बैठक का उद्देश्य अंतरराष्ट्रीय परिवहन सहयोग को और मजबूत करना है। दो दिनों तक चलने वाली इस बैठक में, वरिष्ठ अधिकारी रूस और ब्राज़ील की अध्यक्षता के दौरान परिवहन सहयोग में हुई प्रगति की समीक्षा करेंगे। इसमें परिवहन क्षेत्र में अंतरराष्ट्रीय स्तर पर अपनाए जा रहे बेहतरीन तरीकों का आदान-प्रदान करेंगे और सहयोग के नए क्षेत्रों पर चर्चा करेंगे। इन क्षेत्रों में सस्टेनेबल एविएशन फ्यूल, शहरी मोबिलिटी, मल्टी-मॉडल ट्रांसपोर्ट, मजबूत लॉजिस्टिक्स सप्लाई चेन, डीकार्बोनाइज़ेशन और AI-आधारित तकनीकों को अपनाना शामिल है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T04:50:36+00:00",
+        "link": "https://newsonair.gov.in/hi/the-third-meeting-of-brics-transport-ministers-under-indias-brics-chairmanship-will-begin-in-nagpur-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/brics-6.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ऑस्ट्रेलिया सुपर द्वारा किए गए 500 मिलियन ऑस्ट्रेलियाई डॉलर के निवेश का भारत ने स्वागत किया",
+        "summary": "ऑस्ट्रेलिया सुपर द्वारा किए गए 500 मिलियन ऑस्ट्रेलियाई डॉलर के निवेश का भारत ने स्वागत किया है। मेलबर्न में कंपनी के मुख्य कार्यकारी अधिकारी पॉल श्रोडर आज सुबह मेलबर्न में इसकी घोषणा की। सोशल मीडिया पोस्ट में प्रधानमंत्री नरेंद्र मोदी ने कहा कि यह निवेश भारत के विकास पथ पर दुनिया भर के विश्वास को […]",
+        "article": "ऑस्ट्रेलिया सुपर द्वारा किए गए 500 मिलियन ऑस्ट्रेलियाई डॉलर के निवेश का भारत ने स्वागत किया है। मेलबर्न में कंपनी के मुख्य कार्यकारी अधिकारी पॉल श्रोडर आज सुबह मेलबर्न में इसकी घोषणा की। सोशल मीडिया पोस्ट में प्रधानमंत्री नरेंद्र मोदी ने कहा कि यह निवेश भारत के विकास पथ पर दुनिया भर के विश्वास को दर्शाता है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T04:34:44+00:00",
+        "link": "https://newsonair.gov.in/hi/india-welcomed-the-investment-of-500-million-australian-dollars-made-by-australiansuper/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-9.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमेरिका ने सीरिया को आतंकवाद प्रायोजक देशों की सूची से हटाने का फैसला किया",
+        "summary": "अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने सीरिया के राष्ट्रपति अहमद अल-शारा को पत्र लिखकर बताया है कि उन्होंने सीरिया को आतंकवाद प्रायोजित करने वाले देशों की अमरीकी सूची से हटाने का फैसला किया है। ट्रंप ने कहा कि इससे सीरिया के पुनर्निर्माण का रास्ता खुलेगा और अमरीकी कंपनियां वहां निवेश के लिए तैयार हैं। इस […]",
+        "article": "अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने सीरिया के राष्ट्रपति अहमद अल-शारा को पत्र लिखकर बताया है कि उन्होंने सीरिया को आतंकवाद प्रायोजित करने वाले देशों की अमरीकी सूची से हटाने का फैसला किया है। ट्रंप ने कहा कि इससे सीरिया के पुनर्निर्माण का रास्ता खुलेगा और अमरीकी कंपनियां वहां निवेश के लिए तैयार हैं। इस फैसले को लागू होने से पहले अमरीकी कांग्रेस 45 दिनों तक इसकी समीक्षा करेगी।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T03:26:01+00:00",
+        "link": "https://newsonair.gov.in/hi/the-us-has-decided-to-remove-syria-from-the-list-of-state-sponsors-of-terrorism/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/DONALD-TRUMP.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कराची तट से लापता बोइंग कार्गो विमान का मलबा मिला, पांच चालक दल के सदस्यों की तलाश जारी",
+        "summary": "अधिकारियों ने बताया कि कराची तट से 12 घंटे पहले लापता हुए बोइंग कार्गो विमान का मलबा आज गहरे समुद्र में खोज अभियान के दौरान पाकिस्तानी बचाव दल को मिल गया है। विमान में सवार पांच चालक दल के सदस्यों की तलाश जारी है। पाकिस्तान हवाई अड्डा प्राधिकरण ने बताया कि के2 एयरवेज के कार्गो […]",
+        "article": "अधिकारियों ने बताया कि कराची तट से 12 घंटे पहले लापता हुए बोइंग कार्गो विमान का मलबा आज गहरे समुद्र में खोज अभियान के दौरान पाकिस्तानी बचाव दल को मिल गया है। विमान में सवार पांच चालक दल के सदस्यों की तलाश जारी है। पाकिस्तान हवाई अड्डा प्राधिकरण ने बताया कि के2 एयरवेज के कार्गो बोइंग 737 विमान का मलबा ओरमारा बंदरगाह से 53 समुद्री मील (98 किमी) दक्षिण में बरामद किया गया। प्रधानमंत्री शहबाज शरीफ ने प्रभावित परिवारों के प्रति अपनी गहरी संवेदना व्यक्त की। फ्लाइट ट्रैकिंग सेवा फ्लाइटराडार24 के अनुसार, विमान कराची के दक्षिण-पश्चिम में समुद्र में कई बार ऊंचाई में अचानक बदलाव के बाद तेजी से नीचे उतरने के कारण दुर्घटनाग्रस्त हो गया होगा।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T03:25:41+00:00",
+        "link": "https://newsonair.gov.in/hi/debris-of-boeing-cargo-plane-missing-off-karachi-coast-found-search-for-five-crew-members-continues/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उपराष्ट्रपति सी.पी. राधाकृष्णन आज भुवनेश्वर में मत्स्य पालन के लिए प्राधिकरण पत्र जारी करने से जुड़े कार्यक्रम में शामिल होंगे",
+        "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन आज ओडिशा के दौरे पर हैं। उपराष्ट्रपति, राजधानी भुवनेश्वर में ओडिशा कृषि और प्रौद्योगिकी विश्वविद्यालय में खुले समुद्र में मत्स्य पालन के लिए प्राधिकरण पत्र जारी करने से जुड़े कार्यक्रम में भाग लेंगे। इस अवसर पर, श्री राधाकृष्णन ओडिशा डीप सी फिशिंग मिशन दस्तावेज़ का भी विमोचन करेंगे। इसके बाद, उपराष्ट्रपति भुवनेश्वर […]",
+        "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन आज ओडिशा के दौरे पर हैं। उपराष्ट्रपति, राजधानी भुवनेश्वर में ओडिशा कृषि और प्रौद्योगिकी विश्वविद्यालय में खुले समुद्र में मत्स्य पालन के लिए प्राधिकरण पत्र जारी करने से जुड़े कार्यक्रम में भाग लेंगे। इस अवसर पर, श्री राधाकृष्णन ओडिशा डीप सी फिशिंग मिशन दस्तावेज़ का भी विमोचन करेंगे। इसके बाद, उपराष्ट्रपति भुवनेश्वर में राष्ट्रीय विज्ञान शिक्षा और अनुसंधान संस्थान, खुर्दा के 15वें दीक्षांत समारोह में शामिल होंगे।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T03:19:37+00:00",
+        "link": "https://newsonair.gov.in/hi/vice-president-c-p-radhakrishnan-will-attend-a-programme-in-bhubaneswar-today-related-to-the-issuance-of-authorization-letters-for-fisheries/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/VP-Radhakrishnan-to-visit-Jharkhand-tomorrow.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री नरेंद्र मोदी ने मेलबर्न में भारत-ऑस्ट्रेलिया सीईओ फ़ोरम को संबोधित किया",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी और ऑस्‍ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने आज मेलबर्न में उच्चस्तरीय भारत-ऑस्ट्रेलिया सीईओ फोरम और आर्थिक कार्ययोजना कार्यक्रम को संबोधित किया। इस अवसर पर प्रधानमंत्री मोदी ने कहा कि भारत-ऑस्ट्रेलिया साझेदारी एक परिवर्तनकारी, उच्च-तकनीकी युग में प्रवेश कर चुकी है। उन्होंने वर्ष 2030 तक 100 अरब अमरीकी डॉलर के द्विपक्षीय व्यापार को […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी और ऑस्&#x200d;ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने आज मेलबर्न में उच्चस्तरीय भारत-ऑस्ट्रेलिया सीईओ फोरम और आर्थिक कार्ययोजना कार्यक्रम को संबोधित किया। इस अवसर पर प्रधानमंत्री मोदी ने कहा कि भारत-ऑस्ट्रेलिया साझेदारी एक परिवर्तनकारी, उच्च-तकनीकी युग में प्रवेश कर चुकी है। उन्होंने वर्ष 2030 तक 100 अरब अमरीकी डॉलर के द्विपक्षीय व्यापार को गति देने के लिए एक दूरदर्शी कार्ययोजना की रूपरेखा प्रस्तुत की। प्रधानमंत्री ने इस बात पर बल दिया कि वैश्विक आपूर्ति श्रृंखला में व्यवधानों के बीच, भारत और ऑस्ट्रेलिया स्थिरता के स्वाभाविक, विश्वसनीय स्तंभों के रूप में एक साथ खड़े हैं। उन्होंने भविष्य के लिए तैयार सीमाओं पर गहन वाणिज्यिक सहयोग का आह्वान किया, जिसमें वर्ष 2030 तक 500 गीगावाट नवीकरणीय ऊर्जा क्षमता और 2070 तक शुद्ध शून्य उत्सर्जन के भारत के महत्वाकांक्षी लक्ष्य और ऑस्ट्रेलिया के विशाल यूरेनियम भंडार के माध्&#x200d;यम से 2047 तक 100 गीगावाट परमाणु ऊर्जा क्षमता प्राप्त करने का लक्ष्य शामिल हैं। प्रमुख उद्योगों का उल्&#x200d;लेख करते हुए, प्रधानमंत्री ने भारत के अभूतपूर्व ढांचागत विस्&#x200d;तार के बारे में जानकारी दी। उन्&#x200d;होंने कहा कि इस समय भारत में प्रतिदिन 34 किलोमीटर राष्ट्रीय राजमार्ग और एक किलोमीटर से अधिक रेलवे ट्रैक का निर्माण हो रहा है। विश्व के दूसरे सबसे बड़े कच्चे इस्पात उत्पादक के रूप में, भारत कम कार्बन वाले एल्युमीनियम और हरित लौह के विकास के लिए भी तैयार है जिससे अत्यधिक लचीली और टिकाऊ आपूर्ति श्रृंखला का निर्माण हो सकेगा। श्री मोदी ने कहा कि उच्च-तकनीकी क्षेत्र में 10 अरब अमरीकी डॉलर के सरकारी प्रोत्साहन कार्यक्रम के माध्&#x200d;यम से सेमीकंडक्टर, कृत्रिम बुद्धिमत्ता, क्वांटम कंप्यूटिंग, डेटा सेंटर और डिजिटल सार्वजनिक अवसंरचना में प्रगति संभव है। मानव पूंजी के संदर्भ में, उन्होंने गिफ्ट सिटी में ऑस्ट्रेलियाई विश्वविद्यालय परिसरों की स्थापना का उल्&#x200d;लेख किया और कॉरपोरेट जगत से आग्रह किया कि वे छात्र गतिशीलता को आजीवन प्रतिभा साझेदारी में संरचनात्मक रूप से परिवर्तित करें। प्रधानमंत्री ने आर्थिक कूटनीति के लिए एक विकेन्द्रीकृत दृष्टिकोण का सुझाव दिया और कॉरपोरेट जगत से पूंजी-केंद्रित दृष्टिकोण को दरकिनार करते हुए, इसके बजाय प्रत्यक्ष, राज्य-दर-राज्य गठबंधन बनाने का आग्रह किया। पश्चिमी ऑस्ट्रेलिया के महत्वपूर्ण खनिजों को गुजरात के विनिर्माण क्षेत्र से और विक्टोरिया के नवाचार केंद्रों को कर्नाटक के तकनीकी पारिस्थितिकी तंत्र से जोड़कर, यह रणनीतिक कार्य योजना उच्च स्तरीय राजनयिक विश्वास को स्थानीय, स्थायी समृद्धि में परिवर्तित करती है। ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने ऑस्ट्रेलिया-भारत गठबंधन के ऐतिहासिक परिवर्तन का उल्&#x200d;लेख किया जो समानांतर यात्राओं से एकीकृत, भविष्य के लिए तैयार साझेदारी में परिवर्तित हुआ है। उन्होंने इस बात पर जोर दिया कि भारत विश्व की तीसरी सबसे बड़ी अर्थव्यवस्था बनने की राह पर मजबूती से अग्रसर है। श्री अल्बनीज़ ने इस रणनीतिक कार्ययोजना को आगे बढ़ाने वाले प्रमुख पड़ावों का उल्लेख किया, जिनमें ऑस्ट्रेलियनसुपर द्वारा भारत के राष्ट्रीय निवेश और अवसंरचना कोष में 500 मिलियन ऑस्ट्रेलियाई डॉलर की अतिरिक्त प्रतिबद्धता शामिल है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T02:49:23+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0-%e0%a4%ae%e0%a5%8b-643/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-Australian-PM-Anthony-Albanese-attend-India-Australia-CEO-Forum-in-Melbourne.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ब्रिक्स महिला मंत्रिस्तरीय बैठक आज कोच्चि में होगी सम्‍पन्‍न",
+        "summary": "ब्रिक्स महिला मंत्रिस्तरीय बैठक आज कोच्चि में सम्‍पन्‍न होगी। कई देशों के मंत्रियों ने कल इस बैठक के दौरान मसौदा प्रस्ताव पर चर्चा की। भारत की अध्यक्षता में यह बैठक पंचायती राज मंत्रालय द्वारा आयोजित की जा रही है। मंत्रिस्तरीय बैठक से पहले कोच्चि में ब्रिक्स महिला कार्य समूह की बैठक भी हुई। इसमें महिला […]",
+        "article": "ब्रिक्स महिला मंत्रिस्तरीय बैठक आज कोच्चि में सम्&#x200d;पन्&#x200d;न होगी। कई देशों के मंत्रियों ने कल इस बैठक के दौरान मसौदा प्रस्ताव पर चर्चा की। भारत की अध्यक्षता में यह बैठक पंचायती राज मंत्रालय द्वारा आयोजित की जा रही है। मंत्रिस्तरीय बैठक से पहले कोच्चि में ब्रिक्स महिला कार्य समूह की बैठक भी हुई। इसमें महिला सशक्तिकरण और महिलाओं के नेतृत्व में विकास से संबंधित प्रमुख मुद्दों पर चर्चा हुई। मंत्रिस्तरीय बैठक के संयुक्त प्रस्ताव को आज शाम तक जारी किए जाने की सम्&#x200d;भावना है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T02:37:55+00:00",
+        "link": "https://newsonair.gov.in/hi/brics-women-ministerial-meeting-to-conclude-in-kochi-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-Womens-Ministerial-Meeting-begins-in-Kochi-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "पाकिस्तान के कब्जे वाले जम्मू-कश्मीर में जेएएसी ने एक बड़े और आखिरी विरोध प्रदर्शन का आह्वान किया",
+        "summary": "पाकिस्तान के कब्जे वाले जम्मू-कश्मीर में बढ़ती राजनीतिक अशांति के बीच, विरोध प्रदर्शन कर रहे प्रमुख गुट संयुक्त अवामी एक्शन कमेटी-जेएएसी ने आज एक बड़े और आखिरी विरोध प्रदर्शन का आह्वान किया है। यह आह्वान उनकी मांगे मानने के लिए 48 घंटे की समय सीमा का पालन करने में पाकिस्‍तान के विफल रहने के बाद […]",
+        "article": "पाकिस्तान के कब्जे वाले जम्मू-कश्मीर में बढ़ती राजनीतिक अशांति के बीच, विरोध प्रदर्शन कर रहे प्रमुख गुट संयुक्त अवामी एक्शन कमेटी-जेएएसी ने आज एक बड़े और आखिरी विरोध प्रदर्शन का आह्वान किया है। यह आह्वान उनकी मांगे मानने के लिए 48 घंटे की समय सीमा का पालन करने में पाकिस्&#x200d;तान के विफल रहने के बाद किया गया है। यह गुट अपने गिरफ्तार नेताओं की रिहाई, दमनकारी कार्रवाई पर रोक, संचार सेवाओं की बहाली, भोजन और दवाओं की निर्बाध आपूर्ति तथा 38 सूत्री समझौते को लागू करने की मांग कर रहा है। मुजफ्फरबाद, रावलकोट, हवेली, पुलंदरी, दडियाल और अन्य क्षेत्रों में हजारों लोग विरोध प्रदर्शन में शामिल हुए हैं, आजादी के समर्थन में नारे लगा रहे हैं और जनमत संग्रह की मांग कर रहे हैं। पाकिस्तानी अधिकारियों ने आतंकवाद विरोधी अधिनियम के तहत जेएएसी पर प्रतिबंध लगा दिया है। प्रदर्शनकारियों ने सरकार पर भोजन, आटा और दवाओं की आपूर्ति को प्रतिबंधित करके आर्थिक नाकाबंदी लगाने का भी आरोप लगाया है। जमीयत उलेमा-ए-इस्लाम के नेताओं का दावा है कि उनके बैंक खाते फ्रीज कर दिए गए हैं और उनके पहचान पत्र जब्त कर लिए गए हैं। खबरों में यह भी बताया गया है कि कई इलाकों में प्रदर्शनकारियों और सुरक्षा बलों के बीच झड़पें हुई हैं, सड़कें अवरुद्ध हैं और दमनकारी कार्रवाई के बावजूद धरने जारी हैं। जेएएसी के एक नेता ने अशांति के बीच भारत से मानवीय सहायता की अपील की है। उन्होंने भारत से आवश्यक वस्तुओं की आपूर्ति के लिए नियंत्रण रेखा खोलने का आग्रह किया और कहा कि हालात बिगड़ने पर पाकिस्&#x200d;तान के कब्&#x200d;जे वाले कश्&#x200d;मीर के नागरिकों को भारत आने की अनुमति दी जानी चाहिए।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T02:30:08+00:00",
+        "link": "https://newsonair.gov.in/hi/the-jaac-has-called-for-a-massive-and-final-protest-in-pakistan-occupied-jammu-and-kashmir/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका ने ईरान पर हवाई हमले किए",
+        "summary": "अमरीका ने ईरान पर फिर हवाई हमले किए हैं। ये हमले राष्ट्रपति, डॉनल्ड ट्रंप द्वारा ईरान के फिर से किए गए हमलों को दोनों देशों के बीच, युद्धविराम की समाप्ति के बाद किए गए हैं। ट्रंप ने ईरान पर होर्मुज जलडमरूमध्य में वाणिज्यिक जहाजों पर हमला करने का आरोप लगाते हुए कहा कि अमरीकी हमले, […]",
+        "article": "अमरीका ने ईरान पर फिर हवाई हमले किए हैं। ये हमले राष्ट्रपति, डॉनल्ड ट्रंप द्वारा ईरान के फिर से किए गए हमलों को दोनों देशों के बीच, युद्धविराम की समाप्ति के बाद किए गए हैं। ट्रंप ने ईरान पर होर्मुज जलडमरूमध्य में वाणिज्यिक जहाजों पर हमला करने का आरोप लगाते हुए कहा कि अमरीकी हमले, जवाबी कार्रवाई में किए गए थे। उन्होंने चेतावनी दी कि यदि ईरान ने फिर हमले किए तो अमरीका इसका और कड़ा जवाब देगा। ईरान के मीडिया ने चाबहार, बंदर अब्बास, बुशहर और बंदर महशहर सहित कई दक्षिणी तटीय शहरों में विस्फोटों की सूचना दी है। अमरीकी केंद्रीय कमान ने कहा कि ईरान में कई रक्षा प्रतिष्&#x200d;ठानों को निशाना बनाया गया है। ये हमले ईरान द्वारा बहरीन और कुवैत में अमरीका के सैन्य ठिकानों पर हमले के बाद हुए। ईरान का कहा है कि उसे होर्मुज जलडमरूमध्य नौवहन गतिविधियों को नियंत्रित करने का अधिकार है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T02:08:22+00:00",
+        "link": "https://newsonair.gov.in/hi/the-us-carried-out-airstrikes-on-iran/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1047,106 +1178,84 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/a-two-day-meeting-between-india-and-myanmar-concluded-in-new-delhi/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ChatGPT-Image-Jul-8-2026-09_45_54-PM-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "इसरो ने गगनयान मिशन के लिए मुख्य पैराशूट का सफल परीक्षण किया",
-        "summary": "भारतीय अंतरिक्ष अनुसंधान संगठन- इसरो ने मध्य प्रदेश के श्योपुर में गगनयान मिशन के लिए एकीकृत मुख्य पैराशूट एयरड्रॉप परीक्षण-आईएमएटी सफलतापूर्वक पूरा कर लिया है। यह परीक्षण एरियल डिलीवरी रिसर्च एंड डेवलपमेंट एस्टैब्लिशमेंट के ड्रॉप ज़ोन में आयोजित किया गया था। इस परीक्षण का मुख्य उद्देश्य आगामी पहले मानवरहित गगनयान जी-1 मिशन के लिए पैराशूट […]",
-        "article": "भारतीय अंतरिक्ष अनुसंधान संगठन- इसरो ने मध्य प्रदेश के श्योपुर में गगनयान मिशन के लिए एकीकृत मुख्य पैराशूट एयरड्रॉप परीक्षण-आईएमएटी सफलतापूर्वक पूरा कर लिया है। यह परीक्षण एरियल डिलीवरी रिसर्च एंड डेवलपमेंट एस्टैब्लिशमेंट के ड्रॉप ज़ोन में आयोजित किया गया था। इस परीक्षण का मुख्य उद्देश्य आगामी पहले मानवरहित गगनयान जी-1 मिशन के लिए पैराशूट प्रणाली को परखना था। परीक्षण के दौरान मुख्य पैराशूट पर अधिकतम संभावित भार डाला गया, ताकि उसकी संरचनात्मक अखंडता और डिज़ाइन क्षमता की सटीकता को जांचा जा सके। गगनयान मिशन के दौरान जब अंतरिक्ष यात्री धरती पर वापस लौटेंगे, तब क्रू मॉड्यूल को सुरक्षित रूप से समुद्र या जमीन पर उतारने की जिम्मेदारी इन्हीं मुख्य पैराशूट्स की होगी। इस सफल परीक्षण से इसरो ने अंतरिक्ष यात्रियों की सुरक्षित वापसी की दिशा में एक महत्वपूर्ण कदम आगे बढ़ाया है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:22:50+00:00",
-        "link": "https://newsonair.gov.in/hi/isro-successfully-tested-the-main-parachute-for-the-gaganyaan-mission/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/isro-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की",
-        "summary": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। […]",
-        "article": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। भारत ने ऊर्जा आपूर्ति और व्यापार की निर्बाध आवाजाही बनाए रखने पर भी जोर दिया है। साथ ही, सभी पक्षों से बातचीत और कूटनीति के माध्यम से इस संकट का शांतिपूर्ण और स्थायी समाधान निकालने का आग्रह किया है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:17:56+00:00",
-        "link": "https://newsonair.gov.in/hi/india-expressed-deep-concern-over-the-rising-tension-in-west-asia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mea-1-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में भारत का स्थान बरकरार",
-        "summary": "अंतर्राष्ट्रीय मुद्रा कोष- आई.एम.एफ के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा आज जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू […]",
-        "article": "अंतर्राष्ट्रीय मुद्रा कोष- आई.एम.एफ के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा आज जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू उत्पाद- जीडीपी में 6 दशमलव चार प्रतिशत की मामूली वृद्धि का अनुमान है। रिपोर्ट में कहा गया है कि भारतीय अर्थव्यवस्था के अनुमानित प्रदर्शन को निजी उपभोग और सेवा गतिविधियों में मजबूत गति का समर्थन प्राप्त है। भारत के वृद्धि अनुमान वैश्विक अनुमानों से दोगुने से भी अधिक हैं। रिपोर्ट में इस वर्ष विश्व अर्थव्यवस्था की वृद्धि दर 3 प्रतिशत बताई गई है। इसमें अगले वर्ष 3 दशमलव चार प्रतिशत की वृद्धि होने की उम्मीद है। दूसरी सबसे तेजी से बढ़ती अर्थव्यवस्था, चीन के जीडीपी में इस वर्ष 4 दशमलव छह प्रतिशत और अगले वर्ष 4 दशमलव एक प्रतिशत की वृद्धि का अनुमान है। अमरीका इस वर्ष 2 दशमलव तीन प्रतिशत और अगले वर्ष 2 दशमलव दो प्रतिशत की अनुमानित वृद्धि के साथ तीसरे स्थान पर रहा।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:17:10+00:00",
-        "link": "https://newsonair.gov.in/hi/india-retains-its-position-as-the-worlds-fastest-growing-economy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/economy.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतीय नौसेना का ‘दृष्टि-10’ प्रशिक्षण उड़ान के दौरान पोरबंदर एयरफील्ड के पास दुर्घटनाग्रस्त",
-        "summary": "भारतीय नौसेना का मानव रहित हवाई वाहन &#8211; ‘दृष्टि-10’ आज दोपहर प्रशिक्षण उड़ान के दौरान पोरबंदर एयरफील्ड के पास दुर्घटनाग्रस्त हो गया। भारतीय नौसेना ने सोशल मीडिया पोस्ट में कहा कि इस घटना में किसी के हताहत होने की सूचना नहीं है। दुर्घटना के कारणों की जांच की जा रही है।",
-        "article": "भारतीय नौसेना का मानव रहित हवाई वाहन &#8211; ‘दृष्टि-10’ आज दोपहर प्रशिक्षण उड़ान के दौरान पोरबंदर एयरफील्ड के पास दुर्घटनाग्रस्त हो गया। भारतीय नौसेना ने सोशल मीडिया पोस्ट में कहा कि इस घटना में किसी के हताहत होने की सूचना नहीं है। दुर्घटना के कारणों की जांच की जा रही है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:15:48+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-navys-drishti-10-crashes-near-porbandar-airfield-during-a-training-flight/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/The-Indian-Navy.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म जोशी के साथ स्वागत किया। उनके स्वागत में पारम्परिक नृत्य और संगीत का भी प्रदर्शन किया गया। श्री मोदी ने कहा कि यह यात्रा भारत-ऑस्ट्रेलिया व्यापक रणनीतिक साझेदारी को नई गति देगी। सोशल मीडिया पोस्ट में श्री मोदी ने कहा कि वह ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ वार्ता को लेकर उत्सुक हैं। उन्होंने कहा कि उन्हें भारतीय समुदाय से मिलने का भी अवसर मिलेगा, जो भारत-ऑस्ट्रेलिया साझेदारी का महत्वपूर्ण आधार है। यात्रा के दौरान प्रधानमंत्री तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। वे भारत-ऑस्ट्रेलिया सीईओ फोरम को भी संबोधित करेंगे। इस कार्यक्रम में दोनों देशों के प्रमुख उद्योग जगत के प्रतिनिधि शामिल होंगे।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:35:24+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-arrives-in-melbourne-on-second-leg-of-three-nation-tour/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-5-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "एनटीए ने सीएसआईआर यूजीसी नेट जून 2026 परीक्षा के लिए अग्रिम शहर सूचना पर्ची जारी की",
-        "summary": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने सीएसआईआर यूजीसी नेट जून 2026 परीक्षा के लिए अग्रिम शहर सूचना पर्ची जारी कर दी है। यह परीक्षा 17 और 18 जुलाई को आयोजित की जाएगी। उम्‍मीदवारों को आवंटित परीक्षा शहर की जानकारी के लिए आधिकारिक वेबसाइट www.csirnet.nta.nic.in से अपनी पर्ची डाउनलोड करने की सलाह दी गई है।",
-        "article": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने सीएसआईआर यूजीसी नेट जून 2026 परीक्षा के लिए अग्रिम शहर सूचना पर्ची जारी कर दी है। यह परीक्षा 17 और 18 जुलाई को आयोजित की जाएगी। उम्&#x200d;मीदवारों को आवंटित परीक्षा शहर की जानकारी के लिए आधिकारिक वेबसाइट www.csirnet.nta.nic.in से अपनी पर्ची डाउनलोड करने की सलाह दी गई है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T01:50:28+00:00",
-        "link": "https://newsonair.gov.in/hi/nta-has-released-the-advance-city-intimation-slip-for-the-csir-ugc-net-june-2026-exam/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कोयला गैसीकरण परियोजनाओं के लिए आवेदन आमंत्रित",
-        "summary": "कोयला मंत्रालय ने सतही कोयला या लिग्नाइट गैसीकरण परियोजनाओं को प्रोत्साहन देने की योजना के अंतर्गत आवेदन आमंत्रित किए हैं। सरकार ने इस वर्ष मई में 37 हजार 500 करोड़ रुपये के कुल वित्तीय परिव्यय वाली इन परियोजनाओं को मंजूरी दी थी। आवेदन जमा करने की अंतिम तिथि 7 सितंबर 2026 है।",
-        "article": "कोयला मंत्रालय ने सतही कोयला या लिग्नाइट गैसीकरण परियोजनाओं को प्रोत्साहन देने की योजना के अंतर्गत आवेदन आमंत्रित किए हैं। सरकार ने इस वर्ष मई में 37 हजार 500 करोड़ रुपये के कुल वित्तीय परिव्यय वाली इन परियोजनाओं को मंजूरी दी थी। आवेदन जमा करने की अंतिम तिथि 7 सितंबर 2026 है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:18:56+00:00",
-        "link": "https://newsonair.gov.in/hi/applications-invited-for-coal-gasification-projects/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "खाद्य प्रसंस्करण क्षेत्र को वित्तीय सहायता प्रदान करने के लिए उच्चस्तरीय बैठक",
-        "summary": "खाद्य प्रसंस्करण उद्योग मंत्रालय ने आज नई दिल्ली में खाद्य प्रसंस्करण क्षेत्र को वित्तीय सहायता प्रदान करने के लिए भविष्य की कार्ययोजना पर विचार-विमर्श करने हेतु एक उच्च स्तरीय हितधारक परामर्श बैठक का आयोजन किया। इसका उद्देश्य प्रस्तावित योजना के विस्तार के लिए डिजाइन, कार्यक्षेत्र, कार्यान्वयन ढांचा और प्रोत्साहन संरचना पर उद्योग जगत को बढ़ावा […]",
-        "article": "खाद्य प्रसंस्करण उद्योग मंत्रालय ने आज नई दिल्ली में खाद्य प्रसंस्करण क्षेत्र को वित्तीय सहायता प्रदान करने के लिए भविष्य की कार्ययोजना पर विचार-विमर्श करने हेतु एक उच्च स्तरीय हितधारक परामर्श बैठक का आयोजन किया। इसका उद्देश्य प्रस्तावित योजना के विस्तार के लिए डिजाइन, कार्यक्षेत्र, कार्यान्वयन ढांचा और प्रोत्साहन संरचना पर उद्योग जगत को बढ़ावा देना था। बैठक को संबोधित करते हुए खाद्य प्रसंस्करण उद्योग मंत्रालय के सचिव अविनाश जोशी ने इस बात पर जोर दिया कि सरकार खाद्य प्रसंस्करण प्रोत्साहनों की अगली पीढ़ी के लिए साक्ष्य-आधारित और उद्योग-प्रेरित ढांचा तैयार करने के लिए प्रतिबद्ध है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:58:57+00:00",
-        "link": "https://newsonair.gov.in/hi/high-level-meeting-to-provide-financial-assistance-to-the-food-processing-sector/",
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "breaking": [
       {
-        "title": "आईएमएफ रिपोर्ट: 7% वृद्धि अनुमान के साथ भारत सबसे तेज़ी से बढ़ती अर्थव्यवस्था",
-        "summary": "अंतर्राष्ट्रीय मुद्रा कोष (आई.एम.एफ) के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा कल जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू […]",
-        "article": "अंतर्राष्ट्रीय मुद्रा कोष (आई.एम.एफ) के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा कल जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू उत्पाद- जीडीपी में 6 दशमलव चार प्रतिशत की मामूली वृद्धि का अनुमान है। रिपोर्ट में कहा गया है कि भारतीय अर्थव्यवस्था के अनुमानित प्रदर्शन को निजी उपभोग और सेवा गतिविधियों में मजबूत गति का समर्थन प्राप्त है। भारत के वृद्धि अनुमान वैश्विक अनुमानों से दोगुने से भी अधिक हैं। रिपोर्ट में इस वर्ष वैश्विक अर्थव्यवस्था की वृद्धि दर 3 प्रतिशत बताई गई है। इसमें अगले वर्ष 3 दशमलव चार प्रतिशत की वृद्धि होने की उम्मीद है। दूसरी सबसे तेजी से बढ़ती अर्थव्यवस्था, चीन के जीडीपी में इस वर्ष 4 दशमलव छह प्रतिशत और अगले वर्ष 4 दशमलव एक प्रतिशत की वृद्धि का अनुमान है। अमरीका इस वर्ष 2 दशमलव तीन प्रतिशत और अगले वर्ष 2.2 प्रतिशत की अनुमानित वृद्धि के साथ तीसरे स्थान पर रहा।",
+        "title": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्‍य विश्व विश्वनाथन ने “मेक विद इंडिया” पहल के बढ़ते असर पर ज़ोर दिया",
+        "summary": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्‍य विश्व विश्वनाथन ने &#8220;मेक विद इंडिया&#8221; पहल के बढ़ते असर पर ज़ोर दिया। यह समूह रणनीतिक कॉर्पोरेट पार्टनरशिप को बढ़ावा देकर, ऑस्ट्रेलिया में प्रधानमंत्री नरेंद्र मोदी के &#8220;मेक इन इंडिया&#8221; दृष्टिकोण को लागू करने का काम कर रहा है। श्री विश्वनाथन ने कहा कि यह सहयोग पारंपरिक व्यापार से […]",
+        "article": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्&#x200d;य विश्व विश्वनाथन ने &#8220;मेक विद इंडिया&#8221; पहल के बढ़ते असर पर ज़ोर दिया। यह समूह रणनीतिक कॉर्पोरेट पार्टनरशिप को बढ़ावा देकर, ऑस्ट्रेलिया में प्रधानमंत्री नरेंद्र मोदी के &#8220;मेक इन इंडिया&#8221; दृष्टिकोण को लागू करने का काम कर रहा है। श्री विश्वनाथन ने कहा कि यह सहयोग पारंपरिक व्यापार से आगे बढ़कर, महत्&#x200d;वपूर्ण क्षेत्रों पर ध्यान केंद्रित करता है। ऑस्ट्रेलिया की कंपनियों को आधुनिक तकनीक, स्&#x200d;वच्&#x200d;छ ऊर्जा, रक्षा और कृषि व्&#x200d;यवसाय जैसे क्षेत्रों में भारत के साथ साझेदारी करने के लिए सक्रिय रूप से प्रोत्साहित किया जा रहा है।",
         "date": "2026-07-09",
-        "pubDate": "2026-07-09T01:58:14+00:00",
-        "link": "https://newsonair.gov.in/hi/imf-report-india-is-the-fastest-growing-economy-with-a-projected-growth-rate-of-7/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/06/imf-2.jpg",
+        "pubDate": "2026-07-09T05:43:21+00:00",
+        "link": "https://newsonair.gov.in/hi/vishwa-vishwanathan-a-key-member-of-the-australia-india-business-council-emphasized-the-growing-impact-of-the-make-with-india-initiative/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी तीसरे वार्षिक नेता शिखर सम्मेलन के लिए विक्टोरिया स्थित गवर्नमेंट हाउस पहुंचे",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी तीसरे वार्षिक नेता शिखर सम्मेलन के लिए विक्टोरिया स्थित गवर्नमेंट हाउस पहुंचे। प्रधानमंत्री मोदी ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बानीज़ के साथ बहुप्रतीक्षित, तीसरे वार्षिक नेता शिखर सम्मेलन में शामिल होने के लिए गवर्नमेंट हाउस पहुंचे हैं। दोनों नेताओं के बीच कई महत्वपूर्ण विषयों पर व्यापक चर्चा होने की उम्मीद है। बैठक के […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी तीसरे वार्षिक नेता शिखर सम्मेलन के लिए विक्टोरिया स्थित गवर्नमेंट हाउस पहुंचे। प्रधानमंत्री मोदी ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बानीज़ के साथ बहुप्रतीक्षित, तीसरे वार्षिक नेता शिखर सम्मेलन में शामिल होने के लिए गवर्नमेंट हाउस पहुंचे हैं। दोनों नेताओं के बीच कई महत्वपूर्ण विषयों पर व्यापक चर्चा होने की उम्मीद है। बैठक के बाद संयुक्त प्रेस वक्तव्य दिया जाएगा।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:01:58+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-arrived-at-government-house-in-victoria-for-the-third-annual-leaders-summit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-09-103115.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत की ब्रिक्स अध्यक्षता में ब्रिक्स परिवहन मंत्रियों की तीसरी बैठक आज नागपुर में शुरू होगी",
+        "summary": "भारत की ब्रिक्स अध्यक्षता में ब्रिक्स परिवहन मंत्रियों की तीसरी बैठक आज महाराष्ट्र के नागपुर में शुरू होगी। इस बैठक में ब्रिक्स सदस्य देशों के मंत्री और वरिष्ठ अधिकारी शामिल होंगे। इसमें परिवहन क्षेत्र, बुनियादी ढांचे जैसे मुद्दों पर चर्चा करेंगे। यह बैठक इस महीने की 11 और 12 तारीख को नागपुर शहर में आयोजित […]",
+        "article": "भारत की ब्रिक्स अध्यक्षता में ब्रिक्स परिवहन मंत्रियों की तीसरी बैठक आज महाराष्ट्र के नागपुर में शुरू होगी। इस बैठक में ब्रिक्स सदस्य देशों के मंत्री और वरिष्ठ अधिकारी शामिल होंगे। इसमें परिवहन क्षेत्र, बुनियादी ढांचे जैसे मुद्दों पर चर्चा करेंगे। यह बैठक इस महीने की 11 और 12 तारीख को नागपुर शहर में आयोजित की जा रही है। यह बैठक भारत की ब्रिक्स अध्यक्षता की थीम &#8211; &#8220;बिल्डिंग फॉर रेजिलिएंस, इनोवेशन, कोऑपरेशन एंड सस्टेनेबिलिटी &#8211; के तहत आयोजित की जा रही है। यह थीम तकनीकी नवाचार और बेहतर कनेक्टिविटी के माध्यम से समावेशी विकास को बढ़ावा देने के लिए ब्रिक्स देशों की साझा प्रतिबद्धता को दर्शाती है। केंद्रीय परिवहन मंत्री नितिन गडकरी इस महीने की 11 तारीख को ब्रिक्स परिवहन मंत्रियों की बैठक की अध्यक्षता करेंगे। रूस और ब्राज़ील द्वारा आयोजित ट्रांसपोर्ट वर्किंग ग्रुप की पहली दो महत्वपूर्ण बैठकों के बाद, इस तीसरी बैठक का उद्देश्य अंतरराष्ट्रीय परिवहन सहयोग को और मजबूत करना है। दो दिनों तक चलने वाली इस बैठक में, वरिष्ठ अधिकारी रूस और ब्राज़ील की अध्यक्षता के दौरान परिवहन सहयोग में हुई प्रगति की समीक्षा करेंगे। इसमें परिवहन क्षेत्र में अंतरराष्ट्रीय स्तर पर अपनाए जा रहे बेहतरीन तरीकों का आदान-प्रदान करेंगे और सहयोग के नए क्षेत्रों पर चर्चा करेंगे। इन क्षेत्रों में सस्टेनेबल एविएशन फ्यूल, शहरी मोबिलिटी, मल्टी-मॉडल ट्रांसपोर्ट, मजबूत लॉजिस्टिक्स सप्लाई चेन, डीकार्बोनाइज़ेशन और AI-आधारित तकनीकों को अपनाना शामिल है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T04:50:36+00:00",
+        "link": "https://newsonair.gov.in/hi/the-third-meeting-of-brics-transport-ministers-under-indias-brics-chairmanship-will-begin-in-nagpur-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/brics-6.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ऑस्ट्रेलिया सुपर द्वारा किए गए 500 मिलियन ऑस्ट्रेलियाई डॉलर के निवेश का भारत ने स्वागत किया",
+        "summary": "ऑस्ट्रेलिया सुपर द्वारा किए गए 500 मिलियन ऑस्ट्रेलियाई डॉलर के निवेश का भारत ने स्वागत किया है। मेलबर्न में कंपनी के मुख्य कार्यकारी अधिकारी पॉल श्रोडर आज सुबह मेलबर्न में इसकी घोषणा की। सोशल मीडिया पोस्ट में प्रधानमंत्री नरेंद्र मोदी ने कहा कि यह निवेश भारत के विकास पथ पर दुनिया भर के विश्वास को […]",
+        "article": "ऑस्ट्रेलिया सुपर द्वारा किए गए 500 मिलियन ऑस्ट्रेलियाई डॉलर के निवेश का भारत ने स्वागत किया है। मेलबर्न में कंपनी के मुख्य कार्यकारी अधिकारी पॉल श्रोडर आज सुबह मेलबर्न में इसकी घोषणा की। सोशल मीडिया पोस्ट में प्रधानमंत्री नरेंद्र मोदी ने कहा कि यह निवेश भारत के विकास पथ पर दुनिया भर के विश्वास को दर्शाता है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T04:34:44+00:00",
+        "link": "https://newsonair.gov.in/hi/india-welcomed-the-investment-of-500-million-australian-dollars-made-by-australiansuper/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-9.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उपराष्ट्रपति सी.पी. राधाकृष्णन आज भुवनेश्वर में मत्स्य पालन के लिए प्राधिकरण पत्र जारी करने से जुड़े कार्यक्रम में शामिल होंगे",
+        "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन आज ओडिशा के दौरे पर हैं। उपराष्ट्रपति, राजधानी भुवनेश्वर में ओडिशा कृषि और प्रौद्योगिकी विश्वविद्यालय में खुले समुद्र में मत्स्य पालन के लिए प्राधिकरण पत्र जारी करने से जुड़े कार्यक्रम में भाग लेंगे। इस अवसर पर, श्री राधाकृष्णन ओडिशा डीप सी फिशिंग मिशन दस्तावेज़ का भी विमोचन करेंगे। इसके बाद, उपराष्ट्रपति भुवनेश्वर […]",
+        "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन आज ओडिशा के दौरे पर हैं। उपराष्ट्रपति, राजधानी भुवनेश्वर में ओडिशा कृषि और प्रौद्योगिकी विश्वविद्यालय में खुले समुद्र में मत्स्य पालन के लिए प्राधिकरण पत्र जारी करने से जुड़े कार्यक्रम में भाग लेंगे। इस अवसर पर, श्री राधाकृष्णन ओडिशा डीप सी फिशिंग मिशन दस्तावेज़ का भी विमोचन करेंगे। इसके बाद, उपराष्ट्रपति भुवनेश्वर में राष्ट्रीय विज्ञान शिक्षा और अनुसंधान संस्थान, खुर्दा के 15वें दीक्षांत समारोह में शामिल होंगे।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T03:19:37+00:00",
+        "link": "https://newsonair.gov.in/hi/vice-president-c-p-radhakrishnan-will-attend-a-programme-in-bhubaneswar-today-related-to-the-issuance-of-authorization-letters-for-fisheries/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/VP-Radhakrishnan-to-visit-Jharkhand-tomorrow.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री नरेंद्र मोदी ने मेलबर्न में भारत-ऑस्ट्रेलिया सीईओ फ़ोरम को संबोधित किया",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी और ऑस्‍ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने आज मेलबर्न में उच्चस्तरीय भारत-ऑस्ट्रेलिया सीईओ फोरम और आर्थिक कार्ययोजना कार्यक्रम को संबोधित किया। इस अवसर पर प्रधानमंत्री मोदी ने कहा कि भारत-ऑस्ट्रेलिया साझेदारी एक परिवर्तनकारी, उच्च-तकनीकी युग में प्रवेश कर चुकी है। उन्होंने वर्ष 2030 तक 100 अरब अमरीकी डॉलर के द्विपक्षीय व्यापार को […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी और ऑस्&#x200d;ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने आज मेलबर्न में उच्चस्तरीय भारत-ऑस्ट्रेलिया सीईओ फोरम और आर्थिक कार्ययोजना कार्यक्रम को संबोधित किया। इस अवसर पर प्रधानमंत्री मोदी ने कहा कि भारत-ऑस्ट्रेलिया साझेदारी एक परिवर्तनकारी, उच्च-तकनीकी युग में प्रवेश कर चुकी है। उन्होंने वर्ष 2030 तक 100 अरब अमरीकी डॉलर के द्विपक्षीय व्यापार को गति देने के लिए एक दूरदर्शी कार्ययोजना की रूपरेखा प्रस्तुत की। प्रधानमंत्री ने इस बात पर बल दिया कि वैश्विक आपूर्ति श्रृंखला में व्यवधानों के बीच, भारत और ऑस्ट्रेलिया स्थिरता के स्वाभाविक, विश्वसनीय स्तंभों के रूप में एक साथ खड़े हैं। उन्होंने भविष्य के लिए तैयार सीमाओं पर गहन वाणिज्यिक सहयोग का आह्वान किया, जिसमें वर्ष 2030 तक 500 गीगावाट नवीकरणीय ऊर्जा क्षमता और 2070 तक शुद्ध शून्य उत्सर्जन के भारत के महत्वाकांक्षी लक्ष्य और ऑस्ट्रेलिया के विशाल यूरेनियम भंडार के माध्&#x200d;यम से 2047 तक 100 गीगावाट परमाणु ऊर्जा क्षमता प्राप्त करने का लक्ष्य शामिल हैं। प्रमुख उद्योगों का उल्&#x200d;लेख करते हुए, प्रधानमंत्री ने भारत के अभूतपूर्व ढांचागत विस्&#x200d;तार के बारे में जानकारी दी। उन्&#x200d;होंने कहा कि इस समय भारत में प्रतिदिन 34 किलोमीटर राष्ट्रीय राजमार्ग और एक किलोमीटर से अधिक रेलवे ट्रैक का निर्माण हो रहा है। विश्व के दूसरे सबसे बड़े कच्चे इस्पात उत्पादक के रूप में, भारत कम कार्बन वाले एल्युमीनियम और हरित लौह के विकास के लिए भी तैयार है जिससे अत्यधिक लचीली और टिकाऊ आपूर्ति श्रृंखला का निर्माण हो सकेगा। श्री मोदी ने कहा कि उच्च-तकनीकी क्षेत्र में 10 अरब अमरीकी डॉलर के सरकारी प्रोत्साहन कार्यक्रम के माध्&#x200d;यम से सेमीकंडक्टर, कृत्रिम बुद्धिमत्ता, क्वांटम कंप्यूटिंग, डेटा सेंटर और डिजिटल सार्वजनिक अवसंरचना में प्रगति संभव है। मानव पूंजी के संदर्भ में, उन्होंने गिफ्ट सिटी में ऑस्ट्रेलियाई विश्वविद्यालय परिसरों की स्थापना का उल्&#x200d;लेख किया और कॉरपोरेट जगत से आग्रह किया कि वे छात्र गतिशीलता को आजीवन प्रतिभा साझेदारी में संरचनात्मक रूप से परिवर्तित करें। प्रधानमंत्री ने आर्थिक कूटनीति के लिए एक विकेन्द्रीकृत दृष्टिकोण का सुझाव दिया और कॉरपोरेट जगत से पूंजी-केंद्रित दृष्टिकोण को दरकिनार करते हुए, इसके बजाय प्रत्यक्ष, राज्य-दर-राज्य गठबंधन बनाने का आग्रह किया। पश्चिमी ऑस्ट्रेलिया के महत्वपूर्ण खनिजों को गुजरात के विनिर्माण क्षेत्र से और विक्टोरिया के नवाचार केंद्रों को कर्नाटक के तकनीकी पारिस्थितिकी तंत्र से जोड़कर, यह रणनीतिक कार्य योजना उच्च स्तरीय राजनयिक विश्वास को स्थानीय, स्थायी समृद्धि में परिवर्तित करती है। ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने ऑस्ट्रेलिया-भारत गठबंधन के ऐतिहासिक परिवर्तन का उल्&#x200d;लेख किया जो समानांतर यात्राओं से एकीकृत, भविष्य के लिए तैयार साझेदारी में परिवर्तित हुआ है। उन्होंने इस बात पर जोर दिया कि भारत विश्व की तीसरी सबसे बड़ी अर्थव्यवस्था बनने की राह पर मजबूती से अग्रसर है। श्री अल्बनीज़ ने इस रणनीतिक कार्ययोजना को आगे बढ़ाने वाले प्रमुख पड़ावों का उल्लेख किया, जिनमें ऑस्ट्रेलियनसुपर द्वारा भारत के राष्ट्रीय निवेश और अवसंरचना कोष में 500 मिलियन ऑस्ट्रेलियाई डॉलर की अतिरिक्त प्रतिबद्धता शामिल है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T02:49:23+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0-%e0%a4%ae%e0%a5%8b-643/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-Australian-PM-Anthony-Albanese-attend-India-Australia-CEO-Forum-in-Melbourne.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ब्रिक्स महिला मंत्रिस्तरीय बैठक आज कोच्चि में होगी सम्‍पन्‍न",
+        "summary": "ब्रिक्स महिला मंत्रिस्तरीय बैठक आज कोच्चि में सम्‍पन्‍न होगी। कई देशों के मंत्रियों ने कल इस बैठक के दौरान मसौदा प्रस्ताव पर चर्चा की। भारत की अध्यक्षता में यह बैठक पंचायती राज मंत्रालय द्वारा आयोजित की जा रही है। मंत्रिस्तरीय बैठक से पहले कोच्चि में ब्रिक्स महिला कार्य समूह की बैठक भी हुई। इसमें महिला […]",
+        "article": "ब्रिक्स महिला मंत्रिस्तरीय बैठक आज कोच्चि में सम्&#x200d;पन्&#x200d;न होगी। कई देशों के मंत्रियों ने कल इस बैठक के दौरान मसौदा प्रस्ताव पर चर्चा की। भारत की अध्यक्षता में यह बैठक पंचायती राज मंत्रालय द्वारा आयोजित की जा रही है। मंत्रिस्तरीय बैठक से पहले कोच्चि में ब्रिक्स महिला कार्य समूह की बैठक भी हुई। इसमें महिला सशक्तिकरण और महिलाओं के नेतृत्व में विकास से संबंधित प्रमुख मुद्दों पर चर्चा हुई। मंत्रिस्तरीय बैठक के संयुक्त प्रस्ताव को आज शाम तक जारी किए जाने की सम्&#x200d;भावना है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T02:37:55+00:00",
+        "link": "https://newsonair.gov.in/hi/brics-women-ministerial-meeting-to-conclude-in-kochi-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-Womens-Ministerial-Meeting-begins-in-Kochi-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1162,58 +1271,15 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "इसरो ने गगनयान मिशन के लिए मुख्य पैराशूट का सफल परीक्षण किया",
-        "summary": "भारतीय अंतरिक्ष अनुसंधान संगठन- इसरो ने मध्य प्रदेश के श्योपुर में गगनयान मिशन के लिए एकीकृत मुख्य पैराशूट एयरड्रॉप परीक्षण-आईएमएटी सफलतापूर्वक पूरा कर लिया है। यह परीक्षण एरियल डिलीवरी रिसर्च एंड डेवलपमेंट एस्टैब्लिशमेंट के ड्रॉप ज़ोन में आयोजित किया गया था। इस परीक्षण का मुख्य उद्देश्य आगामी पहले मानवरहित गगनयान जी-1 मिशन के लिए पैराशूट […]",
-        "article": "भारतीय अंतरिक्ष अनुसंधान संगठन- इसरो ने मध्य प्रदेश के श्योपुर में गगनयान मिशन के लिए एकीकृत मुख्य पैराशूट एयरड्रॉप परीक्षण-आईएमएटी सफलतापूर्वक पूरा कर लिया है। यह परीक्षण एरियल डिलीवरी रिसर्च एंड डेवलपमेंट एस्टैब्लिशमेंट के ड्रॉप ज़ोन में आयोजित किया गया था। इस परीक्षण का मुख्य उद्देश्य आगामी पहले मानवरहित गगनयान जी-1 मिशन के लिए पैराशूट प्रणाली को परखना था। परीक्षण के दौरान मुख्य पैराशूट पर अधिकतम संभावित भार डाला गया, ताकि उसकी संरचनात्मक अखंडता और डिज़ाइन क्षमता की सटीकता को जांचा जा सके। गगनयान मिशन के दौरान जब अंतरिक्ष यात्री धरती पर वापस लौटेंगे, तब क्रू मॉड्यूल को सुरक्षित रूप से समुद्र या जमीन पर उतारने की जिम्मेदारी इन्हीं मुख्य पैराशूट्स की होगी। इस सफल परीक्षण से इसरो ने अंतरिक्ष यात्रियों की सुरक्षित वापसी की दिशा में एक महत्वपूर्ण कदम आगे बढ़ाया है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:22:50+00:00",
-        "link": "https://newsonair.gov.in/hi/isro-successfully-tested-the-main-parachute-for-the-gaganyaan-mission/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/isro-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की",
-        "summary": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। […]",
-        "article": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। भारत ने ऊर्जा आपूर्ति और व्यापार की निर्बाध आवाजाही बनाए रखने पर भी जोर दिया है। साथ ही, सभी पक्षों से बातचीत और कूटनीति के माध्यम से इस संकट का शांतिपूर्ण और स्थायी समाधान निकालने का आग्रह किया है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:17:56+00:00",
-        "link": "https://newsonair.gov.in/hi/india-expressed-deep-concern-over-the-rising-tension-in-west-asia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mea-1-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में भारत का स्थान बरकरार",
-        "summary": "अंतर्राष्ट्रीय मुद्रा कोष- आई.एम.एफ के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा आज जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू […]",
-        "article": "अंतर्राष्ट्रीय मुद्रा कोष- आई.एम.एफ के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा आज जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू उत्पाद- जीडीपी में 6 दशमलव चार प्रतिशत की मामूली वृद्धि का अनुमान है। रिपोर्ट में कहा गया है कि भारतीय अर्थव्यवस्था के अनुमानित प्रदर्शन को निजी उपभोग और सेवा गतिविधियों में मजबूत गति का समर्थन प्राप्त है। भारत के वृद्धि अनुमान वैश्विक अनुमानों से दोगुने से भी अधिक हैं। रिपोर्ट में इस वर्ष विश्व अर्थव्यवस्था की वृद्धि दर 3 प्रतिशत बताई गई है। इसमें अगले वर्ष 3 दशमलव चार प्रतिशत की वृद्धि होने की उम्मीद है। दूसरी सबसे तेजी से बढ़ती अर्थव्यवस्था, चीन के जीडीपी में इस वर्ष 4 दशमलव छह प्रतिशत और अगले वर्ष 4 दशमलव एक प्रतिशत की वृद्धि का अनुमान है। अमरीका इस वर्ष 2 दशमलव तीन प्रतिशत और अगले वर्ष 2 दशमलव दो प्रतिशत की अनुमानित वृद्धि के साथ तीसरे स्थान पर रहा।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:17:10+00:00",
-        "link": "https://newsonair.gov.in/hi/india-retains-its-position-as-the-worlds-fastest-growing-economy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/economy.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतीय नौसेना का ‘दृष्टि-10’ प्रशिक्षण उड़ान के दौरान पोरबंदर एयरफील्ड के पास दुर्घटनाग्रस्त",
-        "summary": "भारतीय नौसेना का मानव रहित हवाई वाहन &#8211; ‘दृष्टि-10’ आज दोपहर प्रशिक्षण उड़ान के दौरान पोरबंदर एयरफील्ड के पास दुर्घटनाग्रस्त हो गया। भारतीय नौसेना ने सोशल मीडिया पोस्ट में कहा कि इस घटना में किसी के हताहत होने की सूचना नहीं है। दुर्घटना के कारणों की जांच की जा रही है।",
-        "article": "भारतीय नौसेना का मानव रहित हवाई वाहन &#8211; ‘दृष्टि-10’ आज दोपहर प्रशिक्षण उड़ान के दौरान पोरबंदर एयरफील्ड के पास दुर्घटनाग्रस्त हो गया। भारतीय नौसेना ने सोशल मीडिया पोस्ट में कहा कि इस घटना में किसी के हताहत होने की सूचना नहीं है। दुर्घटना के कारणों की जांच की जा रही है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:15:48+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-navys-drishti-10-crashes-near-porbandar-airfield-during-a-training-flight/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/The-Indian-Navy.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म जोशी के साथ स्वागत किया। उनके स्वागत में पारम्परिक नृत्य और संगीत का भी प्रदर्शन किया गया। श्री मोदी ने कहा कि यह यात्रा भारत-ऑस्ट्रेलिया व्यापक रणनीतिक साझेदारी को नई गति देगी। सोशल मीडिया पोस्ट में श्री मोदी ने कहा कि वह ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ वार्ता को लेकर उत्सुक हैं। उन्होंने कहा कि उन्हें भारतीय समुदाय से मिलने का भी अवसर मिलेगा, जो भारत-ऑस्ट्रेलिया साझेदारी का महत्वपूर्ण आधार है। यात्रा के दौरान प्रधानमंत्री तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। वे भारत-ऑस्ट्रेलिया सीईओ फोरम को भी संबोधित करेंगे। इस कार्यक्रम में दोनों देशों के प्रमुख उद्योग जगत के प्रतिनिधि शामिल होंगे।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:35:24+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-arrives-in-melbourne-on-second-leg-of-three-nation-tour/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-5-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "आईएमएफ रिपोर्ट: 7% वृद्धि अनुमान के साथ भारत सबसे तेज़ी से बढ़ती अर्थव्यवस्था",
+        "summary": "अंतर्राष्ट्रीय मुद्रा कोष (आई.एम.एफ) के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा कल जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू […]",
+        "article": "अंतर्राष्ट्रीय मुद्रा कोष (आई.एम.एफ) के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा कल जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू उत्पाद- जीडीपी में 6 दशमलव चार प्रतिशत की मामूली वृद्धि का अनुमान है। रिपोर्ट में कहा गया है कि भारतीय अर्थव्यवस्था के अनुमानित प्रदर्शन को निजी उपभोग और सेवा गतिविधियों में मजबूत गति का समर्थन प्राप्त है। भारत के वृद्धि अनुमान वैश्विक अनुमानों से दोगुने से भी अधिक हैं। रिपोर्ट में इस वर्ष वैश्विक अर्थव्यवस्था की वृद्धि दर 3 प्रतिशत बताई गई है। इसमें अगले वर्ष 3 दशमलव चार प्रतिशत की वृद्धि होने की उम्मीद है। दूसरी सबसे तेजी से बढ़ती अर्थव्यवस्था, चीन के जीडीपी में इस वर्ष 4 दशमलव छह प्रतिशत और अगले वर्ष 4 दशमलव एक प्रतिशत की वृद्धि का अनुमान है। अमरीका इस वर्ष 2 दशमलव तीन प्रतिशत और अगले वर्ष 2.2 प्रतिशत की अनुमानित वृद्धि के साथ तीसरे स्थान पर रहा।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T01:58:14+00:00",
+        "link": "https://newsonair.gov.in/hi/imf-report-india-is-the-fastest-growing-economy-with-a-projected-growth-rate-of-7/",
+        "post_id": 1726970,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1223,28 +1289,6 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T01:50:28+00:00",
         "link": "https://newsonair.gov.in/hi/nta-has-released-the-advance-city-intimation-slip-for-the-csir-ugc-net-june-2026-exam/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कोयला गैसीकरण परियोजनाओं के लिए आवेदन आमंत्रित",
-        "summary": "कोयला मंत्रालय ने सतही कोयला या लिग्नाइट गैसीकरण परियोजनाओं को प्रोत्साहन देने की योजना के अंतर्गत आवेदन आमंत्रित किए हैं। सरकार ने इस वर्ष मई में 37 हजार 500 करोड़ रुपये के कुल वित्तीय परिव्यय वाली इन परियोजनाओं को मंजूरी दी थी। आवेदन जमा करने की अंतिम तिथि 7 सितंबर 2026 है।",
-        "article": "कोयला मंत्रालय ने सतही कोयला या लिग्नाइट गैसीकरण परियोजनाओं को प्रोत्साहन देने की योजना के अंतर्गत आवेदन आमंत्रित किए हैं। सरकार ने इस वर्ष मई में 37 हजार 500 करोड़ रुपये के कुल वित्तीय परिव्यय वाली इन परियोजनाओं को मंजूरी दी थी। आवेदन जमा करने की अंतिम तिथि 7 सितंबर 2026 है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:18:56+00:00",
-        "link": "https://newsonair.gov.in/hi/applications-invited-for-coal-gasification-projects/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "खाद्य प्रसंस्करण क्षेत्र को वित्तीय सहायता प्रदान करने के लिए उच्चस्तरीय बैठक",
-        "summary": "खाद्य प्रसंस्करण उद्योग मंत्रालय ने आज नई दिल्ली में खाद्य प्रसंस्करण क्षेत्र को वित्तीय सहायता प्रदान करने के लिए भविष्य की कार्ययोजना पर विचार-विमर्श करने हेतु एक उच्च स्तरीय हितधारक परामर्श बैठक का आयोजन किया। इसका उद्देश्य प्रस्तावित योजना के विस्तार के लिए डिजाइन, कार्यक्षेत्र, कार्यान्वयन ढांचा और प्रोत्साहन संरचना पर उद्योग जगत को बढ़ावा […]",
-        "article": "खाद्य प्रसंस्करण उद्योग मंत्रालय ने आज नई दिल्ली में खाद्य प्रसंस्करण क्षेत्र को वित्तीय सहायता प्रदान करने के लिए भविष्य की कार्ययोजना पर विचार-विमर्श करने हेतु एक उच्च स्तरीय हितधारक परामर्श बैठक का आयोजन किया। इसका उद्देश्य प्रस्तावित योजना के विस्तार के लिए डिजाइन, कार्यक्षेत्र, कार्यान्वयन ढांचा और प्रोत्साहन संरचना पर उद्योग जगत को बढ़ावा देना था। बैठक को संबोधित करते हुए खाद्य प्रसंस्करण उद्योग मंत्रालय के सचिव अविनाश जोशी ने इस बात पर जोर दिया कि सरकार खाद्य प्रसंस्करण प्रोत्साहनों की अगली पीढ़ी के लिए साक्ष्य-आधारित और उद्योग-प्रेरित ढांचा तैयार करने के लिए प्रतिबद्ध है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:58:57+00:00",
-        "link": "https://newsonair.gov.in/hi/high-level-meeting-to-provide-financial-assistance-to-the-food-processing-sector/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1252,13 +1296,79 @@ window.VM_NEWS = {
     ],
     "national": [
       {
-        "title": "आईएमएफ रिपोर्ट: 7% वृद्धि अनुमान के साथ भारत सबसे तेज़ी से बढ़ती अर्थव्यवस्था",
-        "summary": "अंतर्राष्ट्रीय मुद्रा कोष (आई.एम.एफ) के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा कल जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू […]",
-        "article": "अंतर्राष्ट्रीय मुद्रा कोष (आई.एम.एफ) के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा कल जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू उत्पाद- जीडीपी में 6 दशमलव चार प्रतिशत की मामूली वृद्धि का अनुमान है। रिपोर्ट में कहा गया है कि भारतीय अर्थव्यवस्था के अनुमानित प्रदर्शन को निजी उपभोग और सेवा गतिविधियों में मजबूत गति का समर्थन प्राप्त है। भारत के वृद्धि अनुमान वैश्विक अनुमानों से दोगुने से भी अधिक हैं। रिपोर्ट में इस वर्ष वैश्विक अर्थव्यवस्था की वृद्धि दर 3 प्रतिशत बताई गई है। इसमें अगले वर्ष 3 दशमलव चार प्रतिशत की वृद्धि होने की उम्मीद है। दूसरी सबसे तेजी से बढ़ती अर्थव्यवस्था, चीन के जीडीपी में इस वर्ष 4 दशमलव छह प्रतिशत और अगले वर्ष 4 दशमलव एक प्रतिशत की वृद्धि का अनुमान है। अमरीका इस वर्ष 2 दशमलव तीन प्रतिशत और अगले वर्ष 2.2 प्रतिशत की अनुमानित वृद्धि के साथ तीसरे स्थान पर रहा।",
+        "title": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्‍य विश्व विश्वनाथन ने “मेक विद इंडिया” पहल के बढ़ते असर पर ज़ोर दिया",
+        "summary": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्‍य विश्व विश्वनाथन ने &#8220;मेक विद इंडिया&#8221; पहल के बढ़ते असर पर ज़ोर दिया। यह समूह रणनीतिक कॉर्पोरेट पार्टनरशिप को बढ़ावा देकर, ऑस्ट्रेलिया में प्रधानमंत्री नरेंद्र मोदी के &#8220;मेक इन इंडिया&#8221; दृष्टिकोण को लागू करने का काम कर रहा है। श्री विश्वनाथन ने कहा कि यह सहयोग पारंपरिक व्यापार से […]",
+        "article": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्&#x200d;य विश्व विश्वनाथन ने &#8220;मेक विद इंडिया&#8221; पहल के बढ़ते असर पर ज़ोर दिया। यह समूह रणनीतिक कॉर्पोरेट पार्टनरशिप को बढ़ावा देकर, ऑस्ट्रेलिया में प्रधानमंत्री नरेंद्र मोदी के &#8220;मेक इन इंडिया&#8221; दृष्टिकोण को लागू करने का काम कर रहा है। श्री विश्वनाथन ने कहा कि यह सहयोग पारंपरिक व्यापार से आगे बढ़कर, महत्&#x200d;वपूर्ण क्षेत्रों पर ध्यान केंद्रित करता है। ऑस्ट्रेलिया की कंपनियों को आधुनिक तकनीक, स्&#x200d;वच्&#x200d;छ ऊर्जा, रक्षा और कृषि व्&#x200d;यवसाय जैसे क्षेत्रों में भारत के साथ साझेदारी करने के लिए सक्रिय रूप से प्रोत्साहित किया जा रहा है।",
         "date": "2026-07-09",
-        "pubDate": "2026-07-09T01:58:14+00:00",
-        "link": "https://newsonair.gov.in/hi/imf-report-india-is-the-fastest-growing-economy-with-a-projected-growth-rate-of-7/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/06/imf-2.jpg",
+        "pubDate": "2026-07-09T05:43:21+00:00",
+        "link": "https://newsonair.gov.in/hi/vishwa-vishwanathan-a-key-member-of-the-australia-india-business-council-emphasized-the-growing-impact-of-the-make-with-india-initiative/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी तीसरे वार्षिक नेता शिखर सम्मेलन के लिए विक्टोरिया स्थित गवर्नमेंट हाउस पहुंचे",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी तीसरे वार्षिक नेता शिखर सम्मेलन के लिए विक्टोरिया स्थित गवर्नमेंट हाउस पहुंचे। प्रधानमंत्री मोदी ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बानीज़ के साथ बहुप्रतीक्षित, तीसरे वार्षिक नेता शिखर सम्मेलन में शामिल होने के लिए गवर्नमेंट हाउस पहुंचे हैं। दोनों नेताओं के बीच कई महत्वपूर्ण विषयों पर व्यापक चर्चा होने की उम्मीद है। बैठक के […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी तीसरे वार्षिक नेता शिखर सम्मेलन के लिए विक्टोरिया स्थित गवर्नमेंट हाउस पहुंचे। प्रधानमंत्री मोदी ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बानीज़ के साथ बहुप्रतीक्षित, तीसरे वार्षिक नेता शिखर सम्मेलन में शामिल होने के लिए गवर्नमेंट हाउस पहुंचे हैं। दोनों नेताओं के बीच कई महत्वपूर्ण विषयों पर व्यापक चर्चा होने की उम्मीद है। बैठक के बाद संयुक्त प्रेस वक्तव्य दिया जाएगा।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:01:58+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-arrived-at-government-house-in-victoria-for-the-third-annual-leaders-summit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-09-103115.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत की ब्रिक्स अध्यक्षता में ब्रिक्स परिवहन मंत्रियों की तीसरी बैठक आज नागपुर में शुरू होगी",
+        "summary": "भारत की ब्रिक्स अध्यक्षता में ब्रिक्स परिवहन मंत्रियों की तीसरी बैठक आज महाराष्ट्र के नागपुर में शुरू होगी। इस बैठक में ब्रिक्स सदस्य देशों के मंत्री और वरिष्ठ अधिकारी शामिल होंगे। इसमें परिवहन क्षेत्र, बुनियादी ढांचे जैसे मुद्दों पर चर्चा करेंगे। यह बैठक इस महीने की 11 और 12 तारीख को नागपुर शहर में आयोजित […]",
+        "article": "भारत की ब्रिक्स अध्यक्षता में ब्रिक्स परिवहन मंत्रियों की तीसरी बैठक आज महाराष्ट्र के नागपुर में शुरू होगी। इस बैठक में ब्रिक्स सदस्य देशों के मंत्री और वरिष्ठ अधिकारी शामिल होंगे। इसमें परिवहन क्षेत्र, बुनियादी ढांचे जैसे मुद्दों पर चर्चा करेंगे। यह बैठक इस महीने की 11 और 12 तारीख को नागपुर शहर में आयोजित की जा रही है। यह बैठक भारत की ब्रिक्स अध्यक्षता की थीम &#8211; &#8220;बिल्डिंग फॉर रेजिलिएंस, इनोवेशन, कोऑपरेशन एंड सस्टेनेबिलिटी &#8211; के तहत आयोजित की जा रही है। यह थीम तकनीकी नवाचार और बेहतर कनेक्टिविटी के माध्यम से समावेशी विकास को बढ़ावा देने के लिए ब्रिक्स देशों की साझा प्रतिबद्धता को दर्शाती है। केंद्रीय परिवहन मंत्री नितिन गडकरी इस महीने की 11 तारीख को ब्रिक्स परिवहन मंत्रियों की बैठक की अध्यक्षता करेंगे। रूस और ब्राज़ील द्वारा आयोजित ट्रांसपोर्ट वर्किंग ग्रुप की पहली दो महत्वपूर्ण बैठकों के बाद, इस तीसरी बैठक का उद्देश्य अंतरराष्ट्रीय परिवहन सहयोग को और मजबूत करना है। दो दिनों तक चलने वाली इस बैठक में, वरिष्ठ अधिकारी रूस और ब्राज़ील की अध्यक्षता के दौरान परिवहन सहयोग में हुई प्रगति की समीक्षा करेंगे। इसमें परिवहन क्षेत्र में अंतरराष्ट्रीय स्तर पर अपनाए जा रहे बेहतरीन तरीकों का आदान-प्रदान करेंगे और सहयोग के नए क्षेत्रों पर चर्चा करेंगे। इन क्षेत्रों में सस्टेनेबल एविएशन फ्यूल, शहरी मोबिलिटी, मल्टी-मॉडल ट्रांसपोर्ट, मजबूत लॉजिस्टिक्स सप्लाई चेन, डीकार्बोनाइज़ेशन और AI-आधारित तकनीकों को अपनाना शामिल है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T04:50:36+00:00",
+        "link": "https://newsonair.gov.in/hi/the-third-meeting-of-brics-transport-ministers-under-indias-brics-chairmanship-will-begin-in-nagpur-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/brics-6.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ऑस्ट्रेलिया सुपर द्वारा किए गए 500 मिलियन ऑस्ट्रेलियाई डॉलर के निवेश का भारत ने स्वागत किया",
+        "summary": "ऑस्ट्रेलिया सुपर द्वारा किए गए 500 मिलियन ऑस्ट्रेलियाई डॉलर के निवेश का भारत ने स्वागत किया है। मेलबर्न में कंपनी के मुख्य कार्यकारी अधिकारी पॉल श्रोडर आज सुबह मेलबर्न में इसकी घोषणा की। सोशल मीडिया पोस्ट में प्रधानमंत्री नरेंद्र मोदी ने कहा कि यह निवेश भारत के विकास पथ पर दुनिया भर के विश्वास को […]",
+        "article": "ऑस्ट्रेलिया सुपर द्वारा किए गए 500 मिलियन ऑस्ट्रेलियाई डॉलर के निवेश का भारत ने स्वागत किया है। मेलबर्न में कंपनी के मुख्य कार्यकारी अधिकारी पॉल श्रोडर आज सुबह मेलबर्न में इसकी घोषणा की। सोशल मीडिया पोस्ट में प्रधानमंत्री नरेंद्र मोदी ने कहा कि यह निवेश भारत के विकास पथ पर दुनिया भर के विश्वास को दर्शाता है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T04:34:44+00:00",
+        "link": "https://newsonair.gov.in/hi/india-welcomed-the-investment-of-500-million-australian-dollars-made-by-australiansuper/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-9.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उपराष्ट्रपति सी.पी. राधाकृष्णन आज भुवनेश्वर में मत्स्य पालन के लिए प्राधिकरण पत्र जारी करने से जुड़े कार्यक्रम में शामिल होंगे",
+        "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन आज ओडिशा के दौरे पर हैं। उपराष्ट्रपति, राजधानी भुवनेश्वर में ओडिशा कृषि और प्रौद्योगिकी विश्वविद्यालय में खुले समुद्र में मत्स्य पालन के लिए प्राधिकरण पत्र जारी करने से जुड़े कार्यक्रम में भाग लेंगे। इस अवसर पर, श्री राधाकृष्णन ओडिशा डीप सी फिशिंग मिशन दस्तावेज़ का भी विमोचन करेंगे। इसके बाद, उपराष्ट्रपति भुवनेश्वर […]",
+        "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन आज ओडिशा के दौरे पर हैं। उपराष्ट्रपति, राजधानी भुवनेश्वर में ओडिशा कृषि और प्रौद्योगिकी विश्वविद्यालय में खुले समुद्र में मत्स्य पालन के लिए प्राधिकरण पत्र जारी करने से जुड़े कार्यक्रम में भाग लेंगे। इस अवसर पर, श्री राधाकृष्णन ओडिशा डीप सी फिशिंग मिशन दस्तावेज़ का भी विमोचन करेंगे। इसके बाद, उपराष्ट्रपति भुवनेश्वर में राष्ट्रीय विज्ञान शिक्षा और अनुसंधान संस्थान, खुर्दा के 15वें दीक्षांत समारोह में शामिल होंगे।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T03:19:37+00:00",
+        "link": "https://newsonair.gov.in/hi/vice-president-c-p-radhakrishnan-will-attend-a-programme-in-bhubaneswar-today-related-to-the-issuance-of-authorization-letters-for-fisheries/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/VP-Radhakrishnan-to-visit-Jharkhand-tomorrow.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री नरेंद्र मोदी ने मेलबर्न में भारत-ऑस्ट्रेलिया सीईओ फ़ोरम को संबोधित किया",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी और ऑस्‍ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने आज मेलबर्न में उच्चस्तरीय भारत-ऑस्ट्रेलिया सीईओ फोरम और आर्थिक कार्ययोजना कार्यक्रम को संबोधित किया। इस अवसर पर प्रधानमंत्री मोदी ने कहा कि भारत-ऑस्ट्रेलिया साझेदारी एक परिवर्तनकारी, उच्च-तकनीकी युग में प्रवेश कर चुकी है। उन्होंने वर्ष 2030 तक 100 अरब अमरीकी डॉलर के द्विपक्षीय व्यापार को […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी और ऑस्&#x200d;ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने आज मेलबर्न में उच्चस्तरीय भारत-ऑस्ट्रेलिया सीईओ फोरम और आर्थिक कार्ययोजना कार्यक्रम को संबोधित किया। इस अवसर पर प्रधानमंत्री मोदी ने कहा कि भारत-ऑस्ट्रेलिया साझेदारी एक परिवर्तनकारी, उच्च-तकनीकी युग में प्रवेश कर चुकी है। उन्होंने वर्ष 2030 तक 100 अरब अमरीकी डॉलर के द्विपक्षीय व्यापार को गति देने के लिए एक दूरदर्शी कार्ययोजना की रूपरेखा प्रस्तुत की। प्रधानमंत्री ने इस बात पर बल दिया कि वैश्विक आपूर्ति श्रृंखला में व्यवधानों के बीच, भारत और ऑस्ट्रेलिया स्थिरता के स्वाभाविक, विश्वसनीय स्तंभों के रूप में एक साथ खड़े हैं। उन्होंने भविष्य के लिए तैयार सीमाओं पर गहन वाणिज्यिक सहयोग का आह्वान किया, जिसमें वर्ष 2030 तक 500 गीगावाट नवीकरणीय ऊर्जा क्षमता और 2070 तक शुद्ध शून्य उत्सर्जन के भारत के महत्वाकांक्षी लक्ष्य और ऑस्ट्रेलिया के विशाल यूरेनियम भंडार के माध्&#x200d;यम से 2047 तक 100 गीगावाट परमाणु ऊर्जा क्षमता प्राप्त करने का लक्ष्य शामिल हैं। प्रमुख उद्योगों का उल्&#x200d;लेख करते हुए, प्रधानमंत्री ने भारत के अभूतपूर्व ढांचागत विस्&#x200d;तार के बारे में जानकारी दी। उन्&#x200d;होंने कहा कि इस समय भारत में प्रतिदिन 34 किलोमीटर राष्ट्रीय राजमार्ग और एक किलोमीटर से अधिक रेलवे ट्रैक का निर्माण हो रहा है। विश्व के दूसरे सबसे बड़े कच्चे इस्पात उत्पादक के रूप में, भारत कम कार्बन वाले एल्युमीनियम और हरित लौह के विकास के लिए भी तैयार है जिससे अत्यधिक लचीली और टिकाऊ आपूर्ति श्रृंखला का निर्माण हो सकेगा। श्री मोदी ने कहा कि उच्च-तकनीकी क्षेत्र में 10 अरब अमरीकी डॉलर के सरकारी प्रोत्साहन कार्यक्रम के माध्&#x200d;यम से सेमीकंडक्टर, कृत्रिम बुद्धिमत्ता, क्वांटम कंप्यूटिंग, डेटा सेंटर और डिजिटल सार्वजनिक अवसंरचना में प्रगति संभव है। मानव पूंजी के संदर्भ में, उन्होंने गिफ्ट सिटी में ऑस्ट्रेलियाई विश्वविद्यालय परिसरों की स्थापना का उल्&#x200d;लेख किया और कॉरपोरेट जगत से आग्रह किया कि वे छात्र गतिशीलता को आजीवन प्रतिभा साझेदारी में संरचनात्मक रूप से परिवर्तित करें। प्रधानमंत्री ने आर्थिक कूटनीति के लिए एक विकेन्द्रीकृत दृष्टिकोण का सुझाव दिया और कॉरपोरेट जगत से पूंजी-केंद्रित दृष्टिकोण को दरकिनार करते हुए, इसके बजाय प्रत्यक्ष, राज्य-दर-राज्य गठबंधन बनाने का आग्रह किया। पश्चिमी ऑस्ट्रेलिया के महत्वपूर्ण खनिजों को गुजरात के विनिर्माण क्षेत्र से और विक्टोरिया के नवाचार केंद्रों को कर्नाटक के तकनीकी पारिस्थितिकी तंत्र से जोड़कर, यह रणनीतिक कार्य योजना उच्च स्तरीय राजनयिक विश्वास को स्थानीय, स्थायी समृद्धि में परिवर्तित करती है। ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने ऑस्ट्रेलिया-भारत गठबंधन के ऐतिहासिक परिवर्तन का उल्&#x200d;लेख किया जो समानांतर यात्राओं से एकीकृत, भविष्य के लिए तैयार साझेदारी में परिवर्तित हुआ है। उन्होंने इस बात पर जोर दिया कि भारत विश्व की तीसरी सबसे बड़ी अर्थव्यवस्था बनने की राह पर मजबूती से अग्रसर है। श्री अल्बनीज़ ने इस रणनीतिक कार्ययोजना को आगे बढ़ाने वाले प्रमुख पड़ावों का उल्लेख किया, जिनमें ऑस्ट्रेलियनसुपर द्वारा भारत के राष्ट्रीय निवेश और अवसंरचना कोष में 500 मिलियन ऑस्ट्रेलियाई डॉलर की अतिरिक्त प्रतिबद्धता शामिल है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T02:49:23+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0-%e0%a4%ae%e0%a5%8b-643/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-Australian-PM-Anthony-Albanese-attend-India-Australia-CEO-Forum-in-Melbourne.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ब्रिक्स महिला मंत्रिस्तरीय बैठक आज कोच्चि में होगी सम्‍पन्‍न",
+        "summary": "ब्रिक्स महिला मंत्रिस्तरीय बैठक आज कोच्चि में सम्‍पन्‍न होगी। कई देशों के मंत्रियों ने कल इस बैठक के दौरान मसौदा प्रस्ताव पर चर्चा की। भारत की अध्यक्षता में यह बैठक पंचायती राज मंत्रालय द्वारा आयोजित की जा रही है। मंत्रिस्तरीय बैठक से पहले कोच्चि में ब्रिक्स महिला कार्य समूह की बैठक भी हुई। इसमें महिला […]",
+        "article": "ब्रिक्स महिला मंत्रिस्तरीय बैठक आज कोच्चि में सम्&#x200d;पन्&#x200d;न होगी। कई देशों के मंत्रियों ने कल इस बैठक के दौरान मसौदा प्रस्ताव पर चर्चा की। भारत की अध्यक्षता में यह बैठक पंचायती राज मंत्रालय द्वारा आयोजित की जा रही है। मंत्रिस्तरीय बैठक से पहले कोच्चि में ब्रिक्स महिला कार्य समूह की बैठक भी हुई। इसमें महिला सशक्तिकरण और महिलाओं के नेतृत्व में विकास से संबंधित प्रमुख मुद्दों पर चर्चा हुई। मंत्रिस्तरीय बैठक के संयुक्त प्रस्ताव को आज शाम तक जारी किए जाने की सम्&#x200d;भावना है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T02:37:55+00:00",
+        "link": "https://newsonair.gov.in/hi/brics-women-ministerial-meeting-to-conclude-in-kochi-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-Womens-Ministerial-Meeting-begins-in-Kochi-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1274,58 +1384,15 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "इसरो ने गगनयान मिशन के लिए मुख्य पैराशूट का सफल परीक्षण किया",
-        "summary": "भारतीय अंतरिक्ष अनुसंधान संगठन- इसरो ने मध्य प्रदेश के श्योपुर में गगनयान मिशन के लिए एकीकृत मुख्य पैराशूट एयरड्रॉप परीक्षण-आईएमएटी सफलतापूर्वक पूरा कर लिया है। यह परीक्षण एरियल डिलीवरी रिसर्च एंड डेवलपमेंट एस्टैब्लिशमेंट के ड्रॉप ज़ोन में आयोजित किया गया था। इस परीक्षण का मुख्य उद्देश्य आगामी पहले मानवरहित गगनयान जी-1 मिशन के लिए पैराशूट […]",
-        "article": "भारतीय अंतरिक्ष अनुसंधान संगठन- इसरो ने मध्य प्रदेश के श्योपुर में गगनयान मिशन के लिए एकीकृत मुख्य पैराशूट एयरड्रॉप परीक्षण-आईएमएटी सफलतापूर्वक पूरा कर लिया है। यह परीक्षण एरियल डिलीवरी रिसर्च एंड डेवलपमेंट एस्टैब्लिशमेंट के ड्रॉप ज़ोन में आयोजित किया गया था। इस परीक्षण का मुख्य उद्देश्य आगामी पहले मानवरहित गगनयान जी-1 मिशन के लिए पैराशूट प्रणाली को परखना था। परीक्षण के दौरान मुख्य पैराशूट पर अधिकतम संभावित भार डाला गया, ताकि उसकी संरचनात्मक अखंडता और डिज़ाइन क्षमता की सटीकता को जांचा जा सके। गगनयान मिशन के दौरान जब अंतरिक्ष यात्री धरती पर वापस लौटेंगे, तब क्रू मॉड्यूल को सुरक्षित रूप से समुद्र या जमीन पर उतारने की जिम्मेदारी इन्हीं मुख्य पैराशूट्स की होगी। इस सफल परीक्षण से इसरो ने अंतरिक्ष यात्रियों की सुरक्षित वापसी की दिशा में एक महत्वपूर्ण कदम आगे बढ़ाया है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:22:50+00:00",
-        "link": "https://newsonair.gov.in/hi/isro-successfully-tested-the-main-parachute-for-the-gaganyaan-mission/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/isro-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की",
-        "summary": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। […]",
-        "article": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। भारत ने ऊर्जा आपूर्ति और व्यापार की निर्बाध आवाजाही बनाए रखने पर भी जोर दिया है। साथ ही, सभी पक्षों से बातचीत और कूटनीति के माध्यम से इस संकट का शांतिपूर्ण और स्थायी समाधान निकालने का आग्रह किया है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:17:56+00:00",
-        "link": "https://newsonair.gov.in/hi/india-expressed-deep-concern-over-the-rising-tension-in-west-asia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mea-1-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में भारत का स्थान बरकरार",
-        "summary": "अंतर्राष्ट्रीय मुद्रा कोष- आई.एम.एफ के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा आज जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू […]",
-        "article": "अंतर्राष्ट्रीय मुद्रा कोष- आई.एम.एफ के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा आज जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू उत्पाद- जीडीपी में 6 दशमलव चार प्रतिशत की मामूली वृद्धि का अनुमान है। रिपोर्ट में कहा गया है कि भारतीय अर्थव्यवस्था के अनुमानित प्रदर्शन को निजी उपभोग और सेवा गतिविधियों में मजबूत गति का समर्थन प्राप्त है। भारत के वृद्धि अनुमान वैश्विक अनुमानों से दोगुने से भी अधिक हैं। रिपोर्ट में इस वर्ष विश्व अर्थव्यवस्था की वृद्धि दर 3 प्रतिशत बताई गई है। इसमें अगले वर्ष 3 दशमलव चार प्रतिशत की वृद्धि होने की उम्मीद है। दूसरी सबसे तेजी से बढ़ती अर्थव्यवस्था, चीन के जीडीपी में इस वर्ष 4 दशमलव छह प्रतिशत और अगले वर्ष 4 दशमलव एक प्रतिशत की वृद्धि का अनुमान है। अमरीका इस वर्ष 2 दशमलव तीन प्रतिशत और अगले वर्ष 2 दशमलव दो प्रतिशत की अनुमानित वृद्धि के साथ तीसरे स्थान पर रहा।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:17:10+00:00",
-        "link": "https://newsonair.gov.in/hi/india-retains-its-position-as-the-worlds-fastest-growing-economy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/economy.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतीय नौसेना का ‘दृष्टि-10’ प्रशिक्षण उड़ान के दौरान पोरबंदर एयरफील्ड के पास दुर्घटनाग्रस्त",
-        "summary": "भारतीय नौसेना का मानव रहित हवाई वाहन &#8211; ‘दृष्टि-10’ आज दोपहर प्रशिक्षण उड़ान के दौरान पोरबंदर एयरफील्ड के पास दुर्घटनाग्रस्त हो गया। भारतीय नौसेना ने सोशल मीडिया पोस्ट में कहा कि इस घटना में किसी के हताहत होने की सूचना नहीं है। दुर्घटना के कारणों की जांच की जा रही है।",
-        "article": "भारतीय नौसेना का मानव रहित हवाई वाहन &#8211; ‘दृष्टि-10’ आज दोपहर प्रशिक्षण उड़ान के दौरान पोरबंदर एयरफील्ड के पास दुर्घटनाग्रस्त हो गया। भारतीय नौसेना ने सोशल मीडिया पोस्ट में कहा कि इस घटना में किसी के हताहत होने की सूचना नहीं है। दुर्घटना के कारणों की जांच की जा रही है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:15:48+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-navys-drishti-10-crashes-near-porbandar-airfield-during-a-training-flight/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/The-Indian-Navy.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म जोशी के साथ स्वागत किया। उनके स्वागत में पारम्परिक नृत्य और संगीत का भी प्रदर्शन किया गया। श्री मोदी ने कहा कि यह यात्रा भारत-ऑस्ट्रेलिया व्यापक रणनीतिक साझेदारी को नई गति देगी। सोशल मीडिया पोस्ट में श्री मोदी ने कहा कि वह ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ वार्ता को लेकर उत्सुक हैं। उन्होंने कहा कि उन्हें भारतीय समुदाय से मिलने का भी अवसर मिलेगा, जो भारत-ऑस्ट्रेलिया साझेदारी का महत्वपूर्ण आधार है। यात्रा के दौरान प्रधानमंत्री तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। वे भारत-ऑस्ट्रेलिया सीईओ फोरम को भी संबोधित करेंगे। इस कार्यक्रम में दोनों देशों के प्रमुख उद्योग जगत के प्रतिनिधि शामिल होंगे।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:35:24+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-arrives-in-melbourne-on-second-leg-of-three-nation-tour/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-5-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "आईएमएफ रिपोर्ट: 7% वृद्धि अनुमान के साथ भारत सबसे तेज़ी से बढ़ती अर्थव्यवस्था",
+        "summary": "अंतर्राष्ट्रीय मुद्रा कोष (आई.एम.एफ) के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा कल जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू […]",
+        "article": "अंतर्राष्ट्रीय मुद्रा कोष (आई.एम.एफ) के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा कल जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू उत्पाद- जीडीपी में 6 दशमलव चार प्रतिशत की मामूली वृद्धि का अनुमान है। रिपोर्ट में कहा गया है कि भारतीय अर्थव्यवस्था के अनुमानित प्रदर्शन को निजी उपभोग और सेवा गतिविधियों में मजबूत गति का समर्थन प्राप्त है। भारत के वृद्धि अनुमान वैश्विक अनुमानों से दोगुने से भी अधिक हैं। रिपोर्ट में इस वर्ष वैश्विक अर्थव्यवस्था की वृद्धि दर 3 प्रतिशत बताई गई है। इसमें अगले वर्ष 3 दशमलव चार प्रतिशत की वृद्धि होने की उम्मीद है। दूसरी सबसे तेजी से बढ़ती अर्थव्यवस्था, चीन के जीडीपी में इस वर्ष 4 दशमलव छह प्रतिशत और अगले वर्ष 4 दशमलव एक प्रतिशत की वृद्धि का अनुमान है। अमरीका इस वर्ष 2 दशमलव तीन प्रतिशत और अगले वर्ष 2.2 प्रतिशत की अनुमानित वृद्धि के साथ तीसरे स्थान पर रहा।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T01:58:14+00:00",
+        "link": "https://newsonair.gov.in/hi/imf-report-india-is-the-fastest-growing-economy-with-a-projected-growth-rate-of-7/",
+        "post_id": 1726970,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1335,28 +1402,6 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T01:50:28+00:00",
         "link": "https://newsonair.gov.in/hi/nta-has-released-the-advance-city-intimation-slip-for-the-csir-ugc-net-june-2026-exam/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कोयला गैसीकरण परियोजनाओं के लिए आवेदन आमंत्रित",
-        "summary": "कोयला मंत्रालय ने सतही कोयला या लिग्नाइट गैसीकरण परियोजनाओं को प्रोत्साहन देने की योजना के अंतर्गत आवेदन आमंत्रित किए हैं। सरकार ने इस वर्ष मई में 37 हजार 500 करोड़ रुपये के कुल वित्तीय परिव्यय वाली इन परियोजनाओं को मंजूरी दी थी। आवेदन जमा करने की अंतिम तिथि 7 सितंबर 2026 है।",
-        "article": "कोयला मंत्रालय ने सतही कोयला या लिग्नाइट गैसीकरण परियोजनाओं को प्रोत्साहन देने की योजना के अंतर्गत आवेदन आमंत्रित किए हैं। सरकार ने इस वर्ष मई में 37 हजार 500 करोड़ रुपये के कुल वित्तीय परिव्यय वाली इन परियोजनाओं को मंजूरी दी थी। आवेदन जमा करने की अंतिम तिथि 7 सितंबर 2026 है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:18:56+00:00",
-        "link": "https://newsonair.gov.in/hi/applications-invited-for-coal-gasification-projects/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "खाद्य प्रसंस्करण क्षेत्र को वित्तीय सहायता प्रदान करने के लिए उच्चस्तरीय बैठक",
-        "summary": "खाद्य प्रसंस्करण उद्योग मंत्रालय ने आज नई दिल्ली में खाद्य प्रसंस्करण क्षेत्र को वित्तीय सहायता प्रदान करने के लिए भविष्य की कार्ययोजना पर विचार-विमर्श करने हेतु एक उच्च स्तरीय हितधारक परामर्श बैठक का आयोजन किया। इसका उद्देश्य प्रस्तावित योजना के विस्तार के लिए डिजाइन, कार्यक्षेत्र, कार्यान्वयन ढांचा और प्रोत्साहन संरचना पर उद्योग जगत को बढ़ावा […]",
-        "article": "खाद्य प्रसंस्करण उद्योग मंत्रालय ने आज नई दिल्ली में खाद्य प्रसंस्करण क्षेत्र को वित्तीय सहायता प्रदान करने के लिए भविष्य की कार्ययोजना पर विचार-विमर्श करने हेतु एक उच्च स्तरीय हितधारक परामर्श बैठक का आयोजन किया। इसका उद्देश्य प्रस्तावित योजना के विस्तार के लिए डिजाइन, कार्यक्षेत्र, कार्यान्वयन ढांचा और प्रोत्साहन संरचना पर उद्योग जगत को बढ़ावा देना था। बैठक को संबोधित करते हुए खाद्य प्रसंस्करण उद्योग मंत्रालय के सचिव अविनाश जोशी ने इस बात पर जोर दिया कि सरकार खाद्य प्रसंस्करण प्रोत्साहनों की अगली पीढ़ी के लिए साक्ष्य-आधारित और उद्योग-प्रेरित ढांचा तैयार करने के लिए प्रतिबद्ध है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:58:57+00:00",
-        "link": "https://newsonair.gov.in/hi/high-level-meeting-to-provide-financial-assistance-to-the-food-processing-sector/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1364,13 +1409,79 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
-        "title": "आईएमएफ रिपोर्ट: 7% वृद्धि अनुमान के साथ भारत सबसे तेज़ी से बढ़ती अर्थव्यवस्था",
-        "summary": "अंतर्राष्ट्रीय मुद्रा कोष (आई.एम.एफ) के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा कल जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू […]",
-        "article": "अंतर्राष्ट्रीय मुद्रा कोष (आई.एम.एफ) के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा कल जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू उत्पाद- जीडीपी में 6 दशमलव चार प्रतिशत की मामूली वृद्धि का अनुमान है। रिपोर्ट में कहा गया है कि भारतीय अर्थव्यवस्था के अनुमानित प्रदर्शन को निजी उपभोग और सेवा गतिविधियों में मजबूत गति का समर्थन प्राप्त है। भारत के वृद्धि अनुमान वैश्विक अनुमानों से दोगुने से भी अधिक हैं। रिपोर्ट में इस वर्ष वैश्विक अर्थव्यवस्था की वृद्धि दर 3 प्रतिशत बताई गई है। इसमें अगले वर्ष 3 दशमलव चार प्रतिशत की वृद्धि होने की उम्मीद है। दूसरी सबसे तेजी से बढ़ती अर्थव्यवस्था, चीन के जीडीपी में इस वर्ष 4 दशमलव छह प्रतिशत और अगले वर्ष 4 दशमलव एक प्रतिशत की वृद्धि का अनुमान है। अमरीका इस वर्ष 2 दशमलव तीन प्रतिशत और अगले वर्ष 2.2 प्रतिशत की अनुमानित वृद्धि के साथ तीसरे स्थान पर रहा।",
+        "title": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्‍य विश्व विश्वनाथन ने “मेक विद इंडिया” पहल के बढ़ते असर पर ज़ोर दिया",
+        "summary": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्‍य विश्व विश्वनाथन ने &#8220;मेक विद इंडिया&#8221; पहल के बढ़ते असर पर ज़ोर दिया। यह समूह रणनीतिक कॉर्पोरेट पार्टनरशिप को बढ़ावा देकर, ऑस्ट्रेलिया में प्रधानमंत्री नरेंद्र मोदी के &#8220;मेक इन इंडिया&#8221; दृष्टिकोण को लागू करने का काम कर रहा है। श्री विश्वनाथन ने कहा कि यह सहयोग पारंपरिक व्यापार से […]",
+        "article": "ऑस्ट्रेलिया-भारत बिज़नेस काउंसिल के प्रमुख सदस्&#x200d;य विश्व विश्वनाथन ने &#8220;मेक विद इंडिया&#8221; पहल के बढ़ते असर पर ज़ोर दिया। यह समूह रणनीतिक कॉर्पोरेट पार्टनरशिप को बढ़ावा देकर, ऑस्ट्रेलिया में प्रधानमंत्री नरेंद्र मोदी के &#8220;मेक इन इंडिया&#8221; दृष्टिकोण को लागू करने का काम कर रहा है। श्री विश्वनाथन ने कहा कि यह सहयोग पारंपरिक व्यापार से आगे बढ़कर, महत्&#x200d;वपूर्ण क्षेत्रों पर ध्यान केंद्रित करता है। ऑस्ट्रेलिया की कंपनियों को आधुनिक तकनीक, स्&#x200d;वच्&#x200d;छ ऊर्जा, रक्षा और कृषि व्&#x200d;यवसाय जैसे क्षेत्रों में भारत के साथ साझेदारी करने के लिए सक्रिय रूप से प्रोत्साहित किया जा रहा है।",
         "date": "2026-07-09",
-        "pubDate": "2026-07-09T01:58:14+00:00",
-        "link": "https://newsonair.gov.in/hi/imf-report-india-is-the-fastest-growing-economy-with-a-projected-growth-rate-of-7/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/06/imf-2.jpg",
+        "pubDate": "2026-07-09T05:43:21+00:00",
+        "link": "https://newsonair.gov.in/hi/vishwa-vishwanathan-a-key-member-of-the-australia-india-business-council-emphasized-the-growing-impact-of-the-make-with-india-initiative/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी तीसरे वार्षिक नेता शिखर सम्मेलन के लिए विक्टोरिया स्थित गवर्नमेंट हाउस पहुंचे",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी तीसरे वार्षिक नेता शिखर सम्मेलन के लिए विक्टोरिया स्थित गवर्नमेंट हाउस पहुंचे। प्रधानमंत्री मोदी ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बानीज़ के साथ बहुप्रतीक्षित, तीसरे वार्षिक नेता शिखर सम्मेलन में शामिल होने के लिए गवर्नमेंट हाउस पहुंचे हैं। दोनों नेताओं के बीच कई महत्वपूर्ण विषयों पर व्यापक चर्चा होने की उम्मीद है। बैठक के […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी तीसरे वार्षिक नेता शिखर सम्मेलन के लिए विक्टोरिया स्थित गवर्नमेंट हाउस पहुंचे। प्रधानमंत्री मोदी ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बानीज़ के साथ बहुप्रतीक्षित, तीसरे वार्षिक नेता शिखर सम्मेलन में शामिल होने के लिए गवर्नमेंट हाउस पहुंचे हैं। दोनों नेताओं के बीच कई महत्वपूर्ण विषयों पर व्यापक चर्चा होने की उम्मीद है। बैठक के बाद संयुक्त प्रेस वक्तव्य दिया जाएगा।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:01:58+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-arrived-at-government-house-in-victoria-for-the-third-annual-leaders-summit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-09-103115.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत की ब्रिक्स अध्यक्षता में ब्रिक्स परिवहन मंत्रियों की तीसरी बैठक आज नागपुर में शुरू होगी",
+        "summary": "भारत की ब्रिक्स अध्यक्षता में ब्रिक्स परिवहन मंत्रियों की तीसरी बैठक आज महाराष्ट्र के नागपुर में शुरू होगी। इस बैठक में ब्रिक्स सदस्य देशों के मंत्री और वरिष्ठ अधिकारी शामिल होंगे। इसमें परिवहन क्षेत्र, बुनियादी ढांचे जैसे मुद्दों पर चर्चा करेंगे। यह बैठक इस महीने की 11 और 12 तारीख को नागपुर शहर में आयोजित […]",
+        "article": "भारत की ब्रिक्स अध्यक्षता में ब्रिक्स परिवहन मंत्रियों की तीसरी बैठक आज महाराष्ट्र के नागपुर में शुरू होगी। इस बैठक में ब्रिक्स सदस्य देशों के मंत्री और वरिष्ठ अधिकारी शामिल होंगे। इसमें परिवहन क्षेत्र, बुनियादी ढांचे जैसे मुद्दों पर चर्चा करेंगे। यह बैठक इस महीने की 11 और 12 तारीख को नागपुर शहर में आयोजित की जा रही है। यह बैठक भारत की ब्रिक्स अध्यक्षता की थीम &#8211; &#8220;बिल्डिंग फॉर रेजिलिएंस, इनोवेशन, कोऑपरेशन एंड सस्टेनेबिलिटी &#8211; के तहत आयोजित की जा रही है। यह थीम तकनीकी नवाचार और बेहतर कनेक्टिविटी के माध्यम से समावेशी विकास को बढ़ावा देने के लिए ब्रिक्स देशों की साझा प्रतिबद्धता को दर्शाती है। केंद्रीय परिवहन मंत्री नितिन गडकरी इस महीने की 11 तारीख को ब्रिक्स परिवहन मंत्रियों की बैठक की अध्यक्षता करेंगे। रूस और ब्राज़ील द्वारा आयोजित ट्रांसपोर्ट वर्किंग ग्रुप की पहली दो महत्वपूर्ण बैठकों के बाद, इस तीसरी बैठक का उद्देश्य अंतरराष्ट्रीय परिवहन सहयोग को और मजबूत करना है। दो दिनों तक चलने वाली इस बैठक में, वरिष्ठ अधिकारी रूस और ब्राज़ील की अध्यक्षता के दौरान परिवहन सहयोग में हुई प्रगति की समीक्षा करेंगे। इसमें परिवहन क्षेत्र में अंतरराष्ट्रीय स्तर पर अपनाए जा रहे बेहतरीन तरीकों का आदान-प्रदान करेंगे और सहयोग के नए क्षेत्रों पर चर्चा करेंगे। इन क्षेत्रों में सस्टेनेबल एविएशन फ्यूल, शहरी मोबिलिटी, मल्टी-मॉडल ट्रांसपोर्ट, मजबूत लॉजिस्टिक्स सप्लाई चेन, डीकार्बोनाइज़ेशन और AI-आधारित तकनीकों को अपनाना शामिल है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T04:50:36+00:00",
+        "link": "https://newsonair.gov.in/hi/the-third-meeting-of-brics-transport-ministers-under-indias-brics-chairmanship-will-begin-in-nagpur-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/brics-6.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ऑस्ट्रेलिया सुपर द्वारा किए गए 500 मिलियन ऑस्ट्रेलियाई डॉलर के निवेश का भारत ने स्वागत किया",
+        "summary": "ऑस्ट्रेलिया सुपर द्वारा किए गए 500 मिलियन ऑस्ट्रेलियाई डॉलर के निवेश का भारत ने स्वागत किया है। मेलबर्न में कंपनी के मुख्य कार्यकारी अधिकारी पॉल श्रोडर आज सुबह मेलबर्न में इसकी घोषणा की। सोशल मीडिया पोस्ट में प्रधानमंत्री नरेंद्र मोदी ने कहा कि यह निवेश भारत के विकास पथ पर दुनिया भर के विश्वास को […]",
+        "article": "ऑस्ट्रेलिया सुपर द्वारा किए गए 500 मिलियन ऑस्ट्रेलियाई डॉलर के निवेश का भारत ने स्वागत किया है। मेलबर्न में कंपनी के मुख्य कार्यकारी अधिकारी पॉल श्रोडर आज सुबह मेलबर्न में इसकी घोषणा की। सोशल मीडिया पोस्ट में प्रधानमंत्री नरेंद्र मोदी ने कहा कि यह निवेश भारत के विकास पथ पर दुनिया भर के विश्वास को दर्शाता है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T04:34:44+00:00",
+        "link": "https://newsonair.gov.in/hi/india-welcomed-the-investment-of-500-million-australian-dollars-made-by-australiansuper/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-9.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उपराष्ट्रपति सी.पी. राधाकृष्णन आज भुवनेश्वर में मत्स्य पालन के लिए प्राधिकरण पत्र जारी करने से जुड़े कार्यक्रम में शामिल होंगे",
+        "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन आज ओडिशा के दौरे पर हैं। उपराष्ट्रपति, राजधानी भुवनेश्वर में ओडिशा कृषि और प्रौद्योगिकी विश्वविद्यालय में खुले समुद्र में मत्स्य पालन के लिए प्राधिकरण पत्र जारी करने से जुड़े कार्यक्रम में भाग लेंगे। इस अवसर पर, श्री राधाकृष्णन ओडिशा डीप सी फिशिंग मिशन दस्तावेज़ का भी विमोचन करेंगे। इसके बाद, उपराष्ट्रपति भुवनेश्वर […]",
+        "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन आज ओडिशा के दौरे पर हैं। उपराष्ट्रपति, राजधानी भुवनेश्वर में ओडिशा कृषि और प्रौद्योगिकी विश्वविद्यालय में खुले समुद्र में मत्स्य पालन के लिए प्राधिकरण पत्र जारी करने से जुड़े कार्यक्रम में भाग लेंगे। इस अवसर पर, श्री राधाकृष्णन ओडिशा डीप सी फिशिंग मिशन दस्तावेज़ का भी विमोचन करेंगे। इसके बाद, उपराष्ट्रपति भुवनेश्वर में राष्ट्रीय विज्ञान शिक्षा और अनुसंधान संस्थान, खुर्दा के 15वें दीक्षांत समारोह में शामिल होंगे।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T03:19:37+00:00",
+        "link": "https://newsonair.gov.in/hi/vice-president-c-p-radhakrishnan-will-attend-a-programme-in-bhubaneswar-today-related-to-the-issuance-of-authorization-letters-for-fisheries/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/VP-Radhakrishnan-to-visit-Jharkhand-tomorrow.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री नरेंद्र मोदी ने मेलबर्न में भारत-ऑस्ट्रेलिया सीईओ फ़ोरम को संबोधित किया",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी और ऑस्‍ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने आज मेलबर्न में उच्चस्तरीय भारत-ऑस्ट्रेलिया सीईओ फोरम और आर्थिक कार्ययोजना कार्यक्रम को संबोधित किया। इस अवसर पर प्रधानमंत्री मोदी ने कहा कि भारत-ऑस्ट्रेलिया साझेदारी एक परिवर्तनकारी, उच्च-तकनीकी युग में प्रवेश कर चुकी है। उन्होंने वर्ष 2030 तक 100 अरब अमरीकी डॉलर के द्विपक्षीय व्यापार को […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी और ऑस्&#x200d;ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने आज मेलबर्न में उच्चस्तरीय भारत-ऑस्ट्रेलिया सीईओ फोरम और आर्थिक कार्ययोजना कार्यक्रम को संबोधित किया। इस अवसर पर प्रधानमंत्री मोदी ने कहा कि भारत-ऑस्ट्रेलिया साझेदारी एक परिवर्तनकारी, उच्च-तकनीकी युग में प्रवेश कर चुकी है। उन्होंने वर्ष 2030 तक 100 अरब अमरीकी डॉलर के द्विपक्षीय व्यापार को गति देने के लिए एक दूरदर्शी कार्ययोजना की रूपरेखा प्रस्तुत की। प्रधानमंत्री ने इस बात पर बल दिया कि वैश्विक आपूर्ति श्रृंखला में व्यवधानों के बीच, भारत और ऑस्ट्रेलिया स्थिरता के स्वाभाविक, विश्वसनीय स्तंभों के रूप में एक साथ खड़े हैं। उन्होंने भविष्य के लिए तैयार सीमाओं पर गहन वाणिज्यिक सहयोग का आह्वान किया, जिसमें वर्ष 2030 तक 500 गीगावाट नवीकरणीय ऊर्जा क्षमता और 2070 तक शुद्ध शून्य उत्सर्जन के भारत के महत्वाकांक्षी लक्ष्य और ऑस्ट्रेलिया के विशाल यूरेनियम भंडार के माध्&#x200d;यम से 2047 तक 100 गीगावाट परमाणु ऊर्जा क्षमता प्राप्त करने का लक्ष्य शामिल हैं। प्रमुख उद्योगों का उल्&#x200d;लेख करते हुए, प्रधानमंत्री ने भारत के अभूतपूर्व ढांचागत विस्&#x200d;तार के बारे में जानकारी दी। उन्&#x200d;होंने कहा कि इस समय भारत में प्रतिदिन 34 किलोमीटर राष्ट्रीय राजमार्ग और एक किलोमीटर से अधिक रेलवे ट्रैक का निर्माण हो रहा है। विश्व के दूसरे सबसे बड़े कच्चे इस्पात उत्पादक के रूप में, भारत कम कार्बन वाले एल्युमीनियम और हरित लौह के विकास के लिए भी तैयार है जिससे अत्यधिक लचीली और टिकाऊ आपूर्ति श्रृंखला का निर्माण हो सकेगा। श्री मोदी ने कहा कि उच्च-तकनीकी क्षेत्र में 10 अरब अमरीकी डॉलर के सरकारी प्रोत्साहन कार्यक्रम के माध्&#x200d;यम से सेमीकंडक्टर, कृत्रिम बुद्धिमत्ता, क्वांटम कंप्यूटिंग, डेटा सेंटर और डिजिटल सार्वजनिक अवसंरचना में प्रगति संभव है। मानव पूंजी के संदर्भ में, उन्होंने गिफ्ट सिटी में ऑस्ट्रेलियाई विश्वविद्यालय परिसरों की स्थापना का उल्&#x200d;लेख किया और कॉरपोरेट जगत से आग्रह किया कि वे छात्र गतिशीलता को आजीवन प्रतिभा साझेदारी में संरचनात्मक रूप से परिवर्तित करें। प्रधानमंत्री ने आर्थिक कूटनीति के लिए एक विकेन्द्रीकृत दृष्टिकोण का सुझाव दिया और कॉरपोरेट जगत से पूंजी-केंद्रित दृष्टिकोण को दरकिनार करते हुए, इसके बजाय प्रत्यक्ष, राज्य-दर-राज्य गठबंधन बनाने का आग्रह किया। पश्चिमी ऑस्ट्रेलिया के महत्वपूर्ण खनिजों को गुजरात के विनिर्माण क्षेत्र से और विक्टोरिया के नवाचार केंद्रों को कर्नाटक के तकनीकी पारिस्थितिकी तंत्र से जोड़कर, यह रणनीतिक कार्य योजना उच्च स्तरीय राजनयिक विश्वास को स्थानीय, स्थायी समृद्धि में परिवर्तित करती है। ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ ने ऑस्ट्रेलिया-भारत गठबंधन के ऐतिहासिक परिवर्तन का उल्&#x200d;लेख किया जो समानांतर यात्राओं से एकीकृत, भविष्य के लिए तैयार साझेदारी में परिवर्तित हुआ है। उन्होंने इस बात पर जोर दिया कि भारत विश्व की तीसरी सबसे बड़ी अर्थव्यवस्था बनने की राह पर मजबूती से अग्रसर है। श्री अल्बनीज़ ने इस रणनीतिक कार्ययोजना को आगे बढ़ाने वाले प्रमुख पड़ावों का उल्लेख किया, जिनमें ऑस्ट्रेलियनसुपर द्वारा भारत के राष्ट्रीय निवेश और अवसंरचना कोष में 500 मिलियन ऑस्ट्रेलियाई डॉलर की अतिरिक्त प्रतिबद्धता शामिल है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T02:49:23+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0-%e0%a4%ae%e0%a5%8b-643/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-Australian-PM-Anthony-Albanese-attend-India-Australia-CEO-Forum-in-Melbourne.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ब्रिक्स महिला मंत्रिस्तरीय बैठक आज कोच्चि में होगी सम्‍पन्‍न",
+        "summary": "ब्रिक्स महिला मंत्रिस्तरीय बैठक आज कोच्चि में सम्‍पन्‍न होगी। कई देशों के मंत्रियों ने कल इस बैठक के दौरान मसौदा प्रस्ताव पर चर्चा की। भारत की अध्यक्षता में यह बैठक पंचायती राज मंत्रालय द्वारा आयोजित की जा रही है। मंत्रिस्तरीय बैठक से पहले कोच्चि में ब्रिक्स महिला कार्य समूह की बैठक भी हुई। इसमें महिला […]",
+        "article": "ब्रिक्स महिला मंत्रिस्तरीय बैठक आज कोच्चि में सम्&#x200d;पन्&#x200d;न होगी। कई देशों के मंत्रियों ने कल इस बैठक के दौरान मसौदा प्रस्ताव पर चर्चा की। भारत की अध्यक्षता में यह बैठक पंचायती राज मंत्रालय द्वारा आयोजित की जा रही है। मंत्रिस्तरीय बैठक से पहले कोच्चि में ब्रिक्स महिला कार्य समूह की बैठक भी हुई। इसमें महिला सशक्तिकरण और महिलाओं के नेतृत्व में विकास से संबंधित प्रमुख मुद्दों पर चर्चा हुई। मंत्रिस्तरीय बैठक के संयुक्त प्रस्ताव को आज शाम तक जारी किए जाने की सम्&#x200d;भावना है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T02:37:55+00:00",
+        "link": "https://newsonair.gov.in/hi/brics-women-ministerial-meeting-to-conclude-in-kochi-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-Womens-Ministerial-Meeting-begins-in-Kochi-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1386,58 +1497,15 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "इसरो ने गगनयान मिशन के लिए मुख्य पैराशूट का सफल परीक्षण किया",
-        "summary": "भारतीय अंतरिक्ष अनुसंधान संगठन- इसरो ने मध्य प्रदेश के श्योपुर में गगनयान मिशन के लिए एकीकृत मुख्य पैराशूट एयरड्रॉप परीक्षण-आईएमएटी सफलतापूर्वक पूरा कर लिया है। यह परीक्षण एरियल डिलीवरी रिसर्च एंड डेवलपमेंट एस्टैब्लिशमेंट के ड्रॉप ज़ोन में आयोजित किया गया था। इस परीक्षण का मुख्य उद्देश्य आगामी पहले मानवरहित गगनयान जी-1 मिशन के लिए पैराशूट […]",
-        "article": "भारतीय अंतरिक्ष अनुसंधान संगठन- इसरो ने मध्य प्रदेश के श्योपुर में गगनयान मिशन के लिए एकीकृत मुख्य पैराशूट एयरड्रॉप परीक्षण-आईएमएटी सफलतापूर्वक पूरा कर लिया है। यह परीक्षण एरियल डिलीवरी रिसर्च एंड डेवलपमेंट एस्टैब्लिशमेंट के ड्रॉप ज़ोन में आयोजित किया गया था। इस परीक्षण का मुख्य उद्देश्य आगामी पहले मानवरहित गगनयान जी-1 मिशन के लिए पैराशूट प्रणाली को परखना था। परीक्षण के दौरान मुख्य पैराशूट पर अधिकतम संभावित भार डाला गया, ताकि उसकी संरचनात्मक अखंडता और डिज़ाइन क्षमता की सटीकता को जांचा जा सके। गगनयान मिशन के दौरान जब अंतरिक्ष यात्री धरती पर वापस लौटेंगे, तब क्रू मॉड्यूल को सुरक्षित रूप से समुद्र या जमीन पर उतारने की जिम्मेदारी इन्हीं मुख्य पैराशूट्स की होगी। इस सफल परीक्षण से इसरो ने अंतरिक्ष यात्रियों की सुरक्षित वापसी की दिशा में एक महत्वपूर्ण कदम आगे बढ़ाया है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:22:50+00:00",
-        "link": "https://newsonair.gov.in/hi/isro-successfully-tested-the-main-parachute-for-the-gaganyaan-mission/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/isro-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की",
-        "summary": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। […]",
-        "article": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। भारत ने ऊर्जा आपूर्ति और व्यापार की निर्बाध आवाजाही बनाए रखने पर भी जोर दिया है। साथ ही, सभी पक्षों से बातचीत और कूटनीति के माध्यम से इस संकट का शांतिपूर्ण और स्थायी समाधान निकालने का आग्रह किया है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:17:56+00:00",
-        "link": "https://newsonair.gov.in/hi/india-expressed-deep-concern-over-the-rising-tension-in-west-asia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mea-1-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में भारत का स्थान बरकरार",
-        "summary": "अंतर्राष्ट्रीय मुद्रा कोष- आई.एम.एफ के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा आज जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू […]",
-        "article": "अंतर्राष्ट्रीय मुद्रा कोष- आई.एम.एफ के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा आज जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू उत्पाद- जीडीपी में 6 दशमलव चार प्रतिशत की मामूली वृद्धि का अनुमान है। रिपोर्ट में कहा गया है कि भारतीय अर्थव्यवस्था के अनुमानित प्रदर्शन को निजी उपभोग और सेवा गतिविधियों में मजबूत गति का समर्थन प्राप्त है। भारत के वृद्धि अनुमान वैश्विक अनुमानों से दोगुने से भी अधिक हैं। रिपोर्ट में इस वर्ष विश्व अर्थव्यवस्था की वृद्धि दर 3 प्रतिशत बताई गई है। इसमें अगले वर्ष 3 दशमलव चार प्रतिशत की वृद्धि होने की उम्मीद है। दूसरी सबसे तेजी से बढ़ती अर्थव्यवस्था, चीन के जीडीपी में इस वर्ष 4 दशमलव छह प्रतिशत और अगले वर्ष 4 दशमलव एक प्रतिशत की वृद्धि का अनुमान है। अमरीका इस वर्ष 2 दशमलव तीन प्रतिशत और अगले वर्ष 2 दशमलव दो प्रतिशत की अनुमानित वृद्धि के साथ तीसरे स्थान पर रहा।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:17:10+00:00",
-        "link": "https://newsonair.gov.in/hi/india-retains-its-position-as-the-worlds-fastest-growing-economy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/economy.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतीय नौसेना का ‘दृष्टि-10’ प्रशिक्षण उड़ान के दौरान पोरबंदर एयरफील्ड के पास दुर्घटनाग्रस्त",
-        "summary": "भारतीय नौसेना का मानव रहित हवाई वाहन &#8211; ‘दृष्टि-10’ आज दोपहर प्रशिक्षण उड़ान के दौरान पोरबंदर एयरफील्ड के पास दुर्घटनाग्रस्त हो गया। भारतीय नौसेना ने सोशल मीडिया पोस्ट में कहा कि इस घटना में किसी के हताहत होने की सूचना नहीं है। दुर्घटना के कारणों की जांच की जा रही है।",
-        "article": "भारतीय नौसेना का मानव रहित हवाई वाहन &#8211; ‘दृष्टि-10’ आज दोपहर प्रशिक्षण उड़ान के दौरान पोरबंदर एयरफील्ड के पास दुर्घटनाग्रस्त हो गया। भारतीय नौसेना ने सोशल मीडिया पोस्ट में कहा कि इस घटना में किसी के हताहत होने की सूचना नहीं है। दुर्घटना के कारणों की जांच की जा रही है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:15:48+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-navys-drishti-10-crashes-near-porbandar-airfield-during-a-training-flight/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/The-Indian-Navy.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज तीन देशों की यात्रा के दूसरे चरण में ऑस्ट्रेलिया के मेलबर्न पहुंचे। हवाई अड्डे पर ऑस्ट्रेलिया की मंत्री क्लेयर ओ&#8217;नील ने प्रधानमंत्री मोदी की अगवानी की। उन्हें औपचारिक गार्ड ऑफ ऑनर भी दिया गया। मेलबर्न में आयोजित सामुदायिक स्वागत समारोह में बड़ी संख्या में प्रवासी भारतीयों ने श्री मोदी का गर्म जोशी के साथ स्वागत किया। उनके स्वागत में पारम्परिक नृत्य और संगीत का भी प्रदर्शन किया गया। श्री मोदी ने कहा कि यह यात्रा भारत-ऑस्ट्रेलिया व्यापक रणनीतिक साझेदारी को नई गति देगी। सोशल मीडिया पोस्ट में श्री मोदी ने कहा कि वह ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बनीज़ के साथ वार्ता को लेकर उत्सुक हैं। उन्होंने कहा कि उन्हें भारतीय समुदाय से मिलने का भी अवसर मिलेगा, जो भारत-ऑस्ट्रेलिया साझेदारी का महत्वपूर्ण आधार है। यात्रा के दौरान प्रधानमंत्री तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लेंगे। वे भारत-ऑस्ट्रेलिया सीईओ फोरम को भी संबोधित करेंगे। इस कार्यक्रम में दोनों देशों के प्रमुख उद्योग जगत के प्रतिनिधि शामिल होंगे।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:35:24+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-arrives-in-melbourne-on-second-leg-of-three-nation-tour/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-5-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "आईएमएफ रिपोर्ट: 7% वृद्धि अनुमान के साथ भारत सबसे तेज़ी से बढ़ती अर्थव्यवस्था",
+        "summary": "अंतर्राष्ट्रीय मुद्रा कोष (आई.एम.एफ) के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा कल जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू […]",
+        "article": "अंतर्राष्ट्रीय मुद्रा कोष (आई.एम.एफ) के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा कल जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू उत्पाद- जीडीपी में 6 दशमलव चार प्रतिशत की मामूली वृद्धि का अनुमान है। रिपोर्ट में कहा गया है कि भारतीय अर्थव्यवस्था के अनुमानित प्रदर्शन को निजी उपभोग और सेवा गतिविधियों में मजबूत गति का समर्थन प्राप्त है। भारत के वृद्धि अनुमान वैश्विक अनुमानों से दोगुने से भी अधिक हैं। रिपोर्ट में इस वर्ष वैश्विक अर्थव्यवस्था की वृद्धि दर 3 प्रतिशत बताई गई है। इसमें अगले वर्ष 3 दशमलव चार प्रतिशत की वृद्धि होने की उम्मीद है। दूसरी सबसे तेजी से बढ़ती अर्थव्यवस्था, चीन के जीडीपी में इस वर्ष 4 दशमलव छह प्रतिशत और अगले वर्ष 4 दशमलव एक प्रतिशत की वृद्धि का अनुमान है। अमरीका इस वर्ष 2 दशमलव तीन प्रतिशत और अगले वर्ष 2.2 प्रतिशत की अनुमानित वृद्धि के साथ तीसरे स्थान पर रहा।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T01:58:14+00:00",
+        "link": "https://newsonair.gov.in/hi/imf-report-india-is-the-fastest-growing-economy-with-a-projected-growth-rate-of-7/",
+        "post_id": 1726970,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1450,31 +1518,53 @@ window.VM_NEWS = {
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "कोयला गैसीकरण परियोजनाओं के लिए आवेदन आमंत्रित",
-        "summary": "कोयला मंत्रालय ने सतही कोयला या लिग्नाइट गैसीकरण परियोजनाओं को प्रोत्साहन देने की योजना के अंतर्गत आवेदन आमंत्रित किए हैं। सरकार ने इस वर्ष मई में 37 हजार 500 करोड़ रुपये के कुल वित्तीय परिव्यय वाली इन परियोजनाओं को मंजूरी दी थी। आवेदन जमा करने की अंतिम तिथि 7 सितंबर 2026 है।",
-        "article": "कोयला मंत्रालय ने सतही कोयला या लिग्नाइट गैसीकरण परियोजनाओं को प्रोत्साहन देने की योजना के अंतर्गत आवेदन आमंत्रित किए हैं। सरकार ने इस वर्ष मई में 37 हजार 500 करोड़ रुपये के कुल वित्तीय परिव्यय वाली इन परियोजनाओं को मंजूरी दी थी। आवेदन जमा करने की अंतिम तिथि 7 सितंबर 2026 है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:18:56+00:00",
-        "link": "https://newsonair.gov.in/hi/applications-invited-for-coal-gasification-projects/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "खाद्य प्रसंस्करण क्षेत्र को वित्तीय सहायता प्रदान करने के लिए उच्चस्तरीय बैठक",
-        "summary": "खाद्य प्रसंस्करण उद्योग मंत्रालय ने आज नई दिल्ली में खाद्य प्रसंस्करण क्षेत्र को वित्तीय सहायता प्रदान करने के लिए भविष्य की कार्ययोजना पर विचार-विमर्श करने हेतु एक उच्च स्तरीय हितधारक परामर्श बैठक का आयोजन किया। इसका उद्देश्य प्रस्तावित योजना के विस्तार के लिए डिजाइन, कार्यक्षेत्र, कार्यान्वयन ढांचा और प्रोत्साहन संरचना पर उद्योग जगत को बढ़ावा […]",
-        "article": "खाद्य प्रसंस्करण उद्योग मंत्रालय ने आज नई दिल्ली में खाद्य प्रसंस्करण क्षेत्र को वित्तीय सहायता प्रदान करने के लिए भविष्य की कार्ययोजना पर विचार-विमर्श करने हेतु एक उच्च स्तरीय हितधारक परामर्श बैठक का आयोजन किया। इसका उद्देश्य प्रस्तावित योजना के विस्तार के लिए डिजाइन, कार्यक्षेत्र, कार्यान्वयन ढांचा और प्रोत्साहन संरचना पर उद्योग जगत को बढ़ावा देना था। बैठक को संबोधित करते हुए खाद्य प्रसंस्करण उद्योग मंत्रालय के सचिव अविनाश जोशी ने इस बात पर जोर दिया कि सरकार खाद्य प्रसंस्करण प्रोत्साहनों की अगली पीढ़ी के लिए साक्ष्य-आधारित और उद्योग-प्रेरित ढांचा तैयार करने के लिए प्रतिबद्ध है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:58:57+00:00",
-        "link": "https://newsonair.gov.in/hi/high-level-meeting-to-provide-financial-assistance-to-the-food-processing-sector/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "अमेरिका ने सीरिया को आतंकवाद प्रायोजक देशों की सूची से हटाने का फैसला किया",
+        "summary": "अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने सीरिया के राष्ट्रपति अहमद अल-शारा को पत्र लिखकर बताया है कि उन्होंने सीरिया को आतंकवाद प्रायोजित करने वाले देशों की अमरीकी सूची से हटाने का फैसला किया है। ट्रंप ने कहा कि इससे सीरिया के पुनर्निर्माण का रास्ता खुलेगा और अमरीकी कंपनियां वहां निवेश के लिए तैयार हैं। इस […]",
+        "article": "अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने सीरिया के राष्ट्रपति अहमद अल-शारा को पत्र लिखकर बताया है कि उन्होंने सीरिया को आतंकवाद प्रायोजित करने वाले देशों की अमरीकी सूची से हटाने का फैसला किया है। ट्रंप ने कहा कि इससे सीरिया के पुनर्निर्माण का रास्ता खुलेगा और अमरीकी कंपनियां वहां निवेश के लिए तैयार हैं। इस फैसले को लागू होने से पहले अमरीकी कांग्रेस 45 दिनों तक इसकी समीक्षा करेगी।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T03:26:01+00:00",
+        "link": "https://newsonair.gov.in/hi/the-us-has-decided-to-remove-syria-from-the-list-of-state-sponsors-of-terrorism/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/DONALD-TRUMP.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कराची तट से लापता बोइंग कार्गो विमान का मलबा मिला, पांच चालक दल के सदस्यों की तलाश जारी",
+        "summary": "अधिकारियों ने बताया कि कराची तट से 12 घंटे पहले लापता हुए बोइंग कार्गो विमान का मलबा आज गहरे समुद्र में खोज अभियान के दौरान पाकिस्तानी बचाव दल को मिल गया है। विमान में सवार पांच चालक दल के सदस्यों की तलाश जारी है। पाकिस्तान हवाई अड्डा प्राधिकरण ने बताया कि के2 एयरवेज के कार्गो […]",
+        "article": "अधिकारियों ने बताया कि कराची तट से 12 घंटे पहले लापता हुए बोइंग कार्गो विमान का मलबा आज गहरे समुद्र में खोज अभियान के दौरान पाकिस्तानी बचाव दल को मिल गया है। विमान में सवार पांच चालक दल के सदस्यों की तलाश जारी है। पाकिस्तान हवाई अड्डा प्राधिकरण ने बताया कि के2 एयरवेज के कार्गो बोइंग 737 विमान का मलबा ओरमारा बंदरगाह से 53 समुद्री मील (98 किमी) दक्षिण में बरामद किया गया। प्रधानमंत्री शहबाज शरीफ ने प्रभावित परिवारों के प्रति अपनी गहरी संवेदना व्यक्त की। फ्लाइट ट्रैकिंग सेवा फ्लाइटराडार24 के अनुसार, विमान कराची के दक्षिण-पश्चिम में समुद्र में कई बार ऊंचाई में अचानक बदलाव के बाद तेजी से नीचे उतरने के कारण दुर्घटनाग्रस्त हो गया होगा।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T03:25:41+00:00",
+        "link": "https://newsonair.gov.in/hi/debris-of-boeing-cargo-plane-missing-off-karachi-coast-found-search-for-five-crew-members-continues/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "पाकिस्तान के कब्जे वाले जम्मू-कश्मीर में जेएएसी ने एक बड़े और आखिरी विरोध प्रदर्शन का आह्वान किया",
+        "summary": "पाकिस्तान के कब्जे वाले जम्मू-कश्मीर में बढ़ती राजनीतिक अशांति के बीच, विरोध प्रदर्शन कर रहे प्रमुख गुट संयुक्त अवामी एक्शन कमेटी-जेएएसी ने आज एक बड़े और आखिरी विरोध प्रदर्शन का आह्वान किया है। यह आह्वान उनकी मांगे मानने के लिए 48 घंटे की समय सीमा का पालन करने में पाकिस्‍तान के विफल रहने के बाद […]",
+        "article": "पाकिस्तान के कब्जे वाले जम्मू-कश्मीर में बढ़ती राजनीतिक अशांति के बीच, विरोध प्रदर्शन कर रहे प्रमुख गुट संयुक्त अवामी एक्शन कमेटी-जेएएसी ने आज एक बड़े और आखिरी विरोध प्रदर्शन का आह्वान किया है। यह आह्वान उनकी मांगे मानने के लिए 48 घंटे की समय सीमा का पालन करने में पाकिस्&#x200d;तान के विफल रहने के बाद किया गया है। यह गुट अपने गिरफ्तार नेताओं की रिहाई, दमनकारी कार्रवाई पर रोक, संचार सेवाओं की बहाली, भोजन और दवाओं की निर्बाध आपूर्ति तथा 38 सूत्री समझौते को लागू करने की मांग कर रहा है। मुजफ्फरबाद, रावलकोट, हवेली, पुलंदरी, दडियाल और अन्य क्षेत्रों में हजारों लोग विरोध प्रदर्शन में शामिल हुए हैं, आजादी के समर्थन में नारे लगा रहे हैं और जनमत संग्रह की मांग कर रहे हैं। पाकिस्तानी अधिकारियों ने आतंकवाद विरोधी अधिनियम के तहत जेएएसी पर प्रतिबंध लगा दिया है। प्रदर्शनकारियों ने सरकार पर भोजन, आटा और दवाओं की आपूर्ति को प्रतिबंधित करके आर्थिक नाकाबंदी लगाने का भी आरोप लगाया है। जमीयत उलेमा-ए-इस्लाम के नेताओं का दावा है कि उनके बैंक खाते फ्रीज कर दिए गए हैं और उनके पहचान पत्र जब्त कर लिए गए हैं। खबरों में यह भी बताया गया है कि कई इलाकों में प्रदर्शनकारियों और सुरक्षा बलों के बीच झड़पें हुई हैं, सड़कें अवरुद्ध हैं और दमनकारी कार्रवाई के बावजूद धरने जारी हैं। जेएएसी के एक नेता ने अशांति के बीच भारत से मानवीय सहायता की अपील की है। उन्होंने भारत से आवश्यक वस्तुओं की आपूर्ति के लिए नियंत्रण रेखा खोलने का आग्रह किया और कहा कि हालात बिगड़ने पर पाकिस्&#x200d;तान के कब्&#x200d;जे वाले कश्&#x200d;मीर के नागरिकों को भारत आने की अनुमति दी जानी चाहिए।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T02:30:08+00:00",
+        "link": "https://newsonair.gov.in/hi/the-jaac-has-called-for-a-massive-and-final-protest-in-pakistan-occupied-jammu-and-kashmir/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका ने ईरान पर हवाई हमले किए",
+        "summary": "अमरीका ने ईरान पर फिर हवाई हमले किए हैं। ये हमले राष्ट्रपति, डॉनल्ड ट्रंप द्वारा ईरान के फिर से किए गए हमलों को दोनों देशों के बीच, युद्धविराम की समाप्ति के बाद किए गए हैं। ट्रंप ने ईरान पर होर्मुज जलडमरूमध्य में वाणिज्यिक जहाजों पर हमला करने का आरोप लगाते हुए कहा कि अमरीकी हमले, […]",
+        "article": "अमरीका ने ईरान पर फिर हवाई हमले किए हैं। ये हमले राष्ट्रपति, डॉनल्ड ट्रंप द्वारा ईरान के फिर से किए गए हमलों को दोनों देशों के बीच, युद्धविराम की समाप्ति के बाद किए गए हैं। ट्रंप ने ईरान पर होर्मुज जलडमरूमध्य में वाणिज्यिक जहाजों पर हमला करने का आरोप लगाते हुए कहा कि अमरीकी हमले, जवाबी कार्रवाई में किए गए थे। उन्होंने चेतावनी दी कि यदि ईरान ने फिर हमले किए तो अमरीका इसका और कड़ा जवाब देगा। ईरान के मीडिया ने चाबहार, बंदर अब्बास, बुशहर और बंदर महशहर सहित कई दक्षिणी तटीय शहरों में विस्फोटों की सूचना दी है। अमरीकी केंद्रीय कमान ने कहा कि ईरान में कई रक्षा प्रतिष्&#x200d;ठानों को निशाना बनाया गया है। ये हमले ईरान द्वारा बहरीन और कुवैत में अमरीका के सैन्य ठिकानों पर हमले के बाद हुए। ईरान का कहा है कि उसे होर्मुज जलडमरूमध्य नौवहन गतिविधियों को नियंत्रित करने का अधिकार है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T02:08:22+00:00",
+        "link": "https://newsonair.gov.in/hi/the-us-carried-out-airstrikes-on-iran/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की",
         "summary": "भारत ने पश्चिम एशिया में बढ़ते तनाव पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने कहा है कि इन घटनाक्रमों से क्षेत्र में शांति, सुरक्षा और स्थिरता पर प्रतिकूल प्रभाव पड़ सकता है। भारत ने सभी पक्षों से संयम बरतने, तनाव कम करने तथा आम नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। […]",
@@ -1531,50 +1621,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "अमेरिका के हमलों के बाद ईरान ने बहरीन और कुवैत में अमेरिकी सैन्य ठिकानों को निशाना बनाया",
-        "summary": "ईरान ने होर्मोज़गान प्रांत और माहशहर बंदरगाह पर अमरीकी हमलों के जवाब में अमरीकी सैन्य ठिकानों पर हमले किए हैं। ईरानी मीडिया के अनुसार इस्लामिक रिवोल्यूशनरी गार्ड कोर ने मिसाइल और ड्रोन हमले करते हुए अमरीका के 85 सैन्य ठिकानों को निशाना बनाया। इनमें बहरीन स्थित सलमान बंदरगाह और अमरीका के पांचवें बेड़े का मुख्यालय […]",
-        "article": "ईरान ने होर्मोज़गान प्रांत और माहशहर बंदरगाह पर अमरीकी हमलों के जवाब में अमरीकी सैन्य ठिकानों पर हमले किए हैं। ईरानी मीडिया के अनुसार इस्लामिक रिवोल्यूशनरी गार्ड कोर ने मिसाइल और ड्रोन हमले करते हुए अमरीका के 85 सैन्य ठिकानों को निशाना बनाया। इनमें बहरीन स्थित सलमान बंदरगाह और अमरीका के पांचवें बेड़े का मुख्यालय तथा कुवैत में अली अल सलेम वायु सेना अड्डा शामिल हैं। ईरान के बुशहर प्रांत में अमरीका के एमक्यू-9 ड्रोन को भी मार गिराया गया। इस बीच, बहरीन के गृह मंत्रालय ने चेतावनी सायरन बजने पर लोगों से सुरक्षित स्&#x200d;थानों पर जाने को कहा है। इससे पहले, होर्मुज जलडमरूमध्य में वाणिज्यिक जहाजों पर ईरान के हाल के हमलों के जवाब में अमरीका ने ईरान के 80 से अधिक ठिकानों पर फिर हवाई हमले किये। अमरीका की केंद्रीय कमान-सेंटकॉम ने कहा कि हमलों में ईरानी वायु रक्षा प्रणाली, कमान और नियंत्रण केंद्रों, तटीय रडार स्थलों, जहाज-रोधी मिसाइल प्रणालियों और होर्मुज जलडमरूमध्य तथा उसके आसपास स्थित इस्लामिक रिवोल्यूशनरी गार्ड कोर की 60 से अधिक नौकाओं को निशाना बनाया गया। ईरान ने हमलों की पुष्टि करते हुए कहा कि बंदर अब्बास, केशम और सिरिक में विस्फोटों की आवाजें सुनी गईं। हमलों से तत्&#x200d;काल किसी के मारे जाने या नुकसान की जानकारी नहीं है। ईरान की केंद्रीय सैन्य कमान ने इसे आक्रामकता और आतंकवाद का कृत्य बताते हुए जवाबी हमले की चेतावनी दी है। ईरान ने यह भी कहा है कि होर्मुज जलडमरूमध्य में किसी भी तरह के हस्तक्षेप की अनुमति नहीं दी जाएगी और न ही किसी को इस पर नियंत्रण करने दिया जाएगा। इस बीच अमरीका ने अंतरिम समझौते के तहत ईरान को तेल बेचने की छूट रद्द कर दी है। ईरान के उप विदेश मंत्री काज़ेम ग़रीबाबादी ने इसकी कड़ी निंदा करते हुए सोशल मीडिया पोस्ट में कहा कि अमरीकी हमले और कार्रवाई द्विपक्षीय समझौतों का गंभीर उल्लंघन है। इस बीच, कुवैत ने कहा है कि ईरान के मिसाइल हमलों को रोकने के लिए आज वायु रक्षा प्रणाली सक्रिय कर दी गई। बहरीन ने भी ईरानी मिसाइल हमले की जानकारी देते हुए कहा है कि तत्काल किसी के मारे जाने या नुकसान की खबर नहीं है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T08:32:07+00:00",
-        "link": "https://newsonair.gov.in/hi/the-us-carried-out-airstrikes-on-more-than-80-iranian-targets/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/hormuz-1.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "न्यूज़ीलैंड के ऑकलैंड में सनातन धर्म और भारतीय संस्कृति की छटा बिखेर रहा ‘द थर्ड आई’ स्टोर",
-        "summary": "भारत से हजारों किलोमीटर दूर न्यूज़ीलैंड के ऑकलैंड में सनातन धर्म और भारतीय संस्कृति की अनूठी छटा देखने को मिलती है। पिछले 26 वर्षों से ‘द थर्ड आई’ स्टोर भारतीय देवी-देवताओं की प्रतिमाओं, पूजा सामग्री, रंग-बिरंगे भारतीय परिधानों और पारंपरिक वस्तुओं के माध्यम से स्थानीय लोगों को भारतीय संस्कृति से परिचित करा रहा है। […]",
-        "article": "भारत से हजारों किलोमीटर दूर न्यूज़ीलैंड के ऑकलैंड में सनातन धर्म और भारतीय संस्कृति की अनूठी छटा देखने को मिलती है। पिछले 26 वर्षों से ‘द थर्ड आई’ स्टोर भारतीय देवी-देवताओं की प्रतिमाओं, पूजा सामग्री, रंग-बिरंगे भारतीय परिधानों और पारंपरिक वस्तुओं के माध्यम से स्थानीय लोगों को भारतीय संस्कृति से परिचित करा रहा है। आकाशवाणी समाचार से बातचीत में स्टोर की संचालिका किम होलुएर्डा ने बताया कि बड़ी संख्या में न्यूज़ीलैंड के लोग हिंदू देवी-देवताओं की प्रतिमाओं के साथ-साथ भारतीय परिधानों और आध्यात्मिक परंपराओं में भी गहरी रुचि दिखाते हैं। उन्होंने कहा कि सनातन धर्म का शांति, प्रेम और सकारात्मकता का संदेश लोगों को विशेष रूप से आकर्षित करता है।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T05:30:19+00:00",
-        "link": "https://newsonair.gov.in/hi/the-third-eye-store-in-auckland-new-zealand-showcases-the-essence-of-sanatan-dharma-and-indian-culture/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-5.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने वेनेज़ुएला का धन्यवाद किया",
-        "summary": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता […]",
-        "article": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने 24 जून को आए दोहरे भूकंप के बाद &#8216;ऑपरेशन अमिस्ताद&#8217; के तहत भारत की मानवीय सहायता को स्वीकार करने के लिए वेनेज़ुएला का धन्यवाद किया है। सोशल मीडिया पर एक पोस्ट में, श्री जायसवाल ने कहा कि यह राहत अभियान दोनों देशों के बीच गहरी दोस्ती को दर्शाता है। भारत ने 7.2 और 7.5 तीव्रता वाले विनाशकारी दोहरे भूकंपों के बाद वेनेज़ुएला की मदद के लिए &#8216;ऑपरेशन अमिस्ताद&#8217; शुरू किया था, जिनसे बड़े पैमाने पर तबाही हुई थी।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T05:21:11+00:00",
-        "link": "https://newsonair.gov.in/hi/ministry-of-external-affairs-spokesperson-randhir-jaiswal-thanked-venezuela/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/mea-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेंद्र मोदी आज इंडोनेशिया के योग्याकार्ता में प्रंबानन मंदिर का दौरा करेंगे",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी आज इंडोनेशिया के राष्ट्रपति के साथ योग्याकार्ता में प्रंबानन मंदिर का दौरा करेंगे। इससे भारत और इंडोनेशिया के बीच एक हजार वर्षों से चले आ रहे गहरे सांस्कृतिक और सभ्यतागत संबंध प्रदर्शित होते हैं। 9वीं शताब्दी में निर्मित प्रंबानन मंदिर, इंडोनेशिया का सबसे बड़ा हिंदू मंदिर परिसर और दक्षिणपूर्व एशिया की उत्कृष्ट […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी आज इंडोनेशिया के राष्ट्रपति के साथ योग्याकार्ता में प्रंबानन मंदिर का दौरा करेंगे। इससे भारत और इंडोनेशिया के बीच एक हजार वर्षों से चले आ रहे गहरे सांस्कृतिक और सभ्यतागत संबंध प्रदर्शित होते हैं। 9वीं शताब्दी में निर्मित प्रंबानन मंदिर, इंडोनेशिया का सबसे बड़ा हिंदू मंदिर परिसर और दक्षिणपूर्व एशिया की उत्कृष्ट स्थापत्य कला कृतियों में से एक है। मूल रूप इस परिसर में भगवान ब्रह्मा, विष्णु और शिव को समर्पित 240 छोटे-बड़े मंदिर हैं। इसमें पत्थरों पर रामायण के दृश्य उकेरे गये हैं। मंदिर परिसर में आज भी रामायण का मंचन किया जाता है। भारत और इंडोनेशिया ने प्रंबानन मंदिर परिसर के संरक्षण और जीर्णोद्धार के लिए कल एक महत्वपूर्ण पहल की घोषणा की। इस साझेदारी के तहत, भारत, भारतीय पुरातत्व सर्वेक्षण के माध्यम से, यूनेस्को विश्व धरोहर स्थल, प्रंबानन मंदिर के भीतर चुनिंदा संरचनाओं के संरक्षण और जीर्णोद्धार के लिए सहायता प्रदान करेगा।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T03:21:54+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-will-visit-the-prambanan-temple-in-yogyakarta-indonesia-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-4.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "ट्रंप ने नाटो के सहयोगी देशों पर ईरान के खिलाफ सैन्य अभियान के दौरान अमरीका का समर्थन न करने का आरोप लगाया",
         "summary": "अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने नाटो के कई सहयोगी देशों पर ईरान के खिलाफ सैन्य अभियान के दौरान अमरीका का समर्थन न करने का आरोप लगाया है। राष्ट्रपति ट्रंप ने कहा कि अमरीका का दशकों से यूरोप की सुरक्षा के प्रति प्रतिबद्ध रहने के बावजूद कई यूरोपीय देशों की प्रतिक्रिया से उन्हें निराशा हुई […]",
         "article": "अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने नाटो के कई सहयोगी देशों पर ईरान के खिलाफ सैन्य अभियान के दौरान अमरीका का समर्थन न करने का आरोप लगाया है। राष्ट्रपति ट्रंप ने कहा कि अमरीका का दशकों से यूरोप की सुरक्षा के प्रति प्रतिबद्ध रहने के बावजूद कई यूरोपीय देशों की प्रतिक्रिया से उन्हें निराशा हुई है। तुर्किए के अंकारा में नाटो नेताओं की आगामी बैठक से पहले संगठन के महासचिव मार्क रुट्टे के साथ संयुक्त बातचीत में श्री ट्रंप ने नाटो सहयोगियों के इस रुख पर निराशा व्यक्त की। उन्होंने कहा कि जब अमेरिका ने ईरान को आतंकवाद का नंबर एक प्रायोजक बताते हुए सहयोगियों से समर्थन मांगा, तो नाटो इस महत्वपूर्ण परीक्षा में विफल रहा। राष्ट्रपति ट्रंप ने कहा कि अमरीका को इस अभियान के लिए किसी सैन्य सहायता की जरूरत नहीं थी, वह केवल सहयोगियों की प्रतिक्रिया को परख रहे थे। श्री ट्रंप ने खुलासा किया कि उन्होंने व्यक्तिगत रूप से जर्मनी, फ्रांस, ब्रिटेन और इटली सहित कई यूरोपीय नेताओं से संपर्क किया, लेकिन नाटो के कुछ छोटे सदस्यों ने ही समर्थन किया है।",
@@ -1587,6 +1633,39 @@ window.VM_NEWS = {
       }
     ],
     "sports": [
+      {
+        "title": "17 वर्षीय अश्वथ एस. बने भारत के 98वें शतरंज ग्रैंडमास्टर",
+        "summary": "कन्याकुमारी के 17 वर्षीय अश्वथ एस. पुणे इंटरनेशनल ग्रैंडमास्टर राउंड रॉबिन में अपना अंतिम ग्रैंडमास्टर नॉर्म हासिल करते हुए भारत के 98वें ग्रैंडमास्टर बन गए हैं। अंतिम दौर में अश्वथ ने काले मोहरों से खेलते हुए अमरीका के कन्नन वैद्यनाथन को हराकर ग्रैंडमास्टर खिताब हासिल किया। उन्होंने 9 राउंड में 7 अंक प्राप्त करते हुए […]",
+        "article": "कन्याकुमारी के 17 वर्षीय अश्वथ एस. पुणे इंटरनेशनल ग्रैंडमास्टर राउंड रॉबिन में अपना अंतिम ग्रैंडमास्टर नॉर्म हासिल करते हुए भारत के 98वें ग्रैंडमास्टर बन गए हैं। अंतिम दौर में अश्वथ ने काले मोहरों से खेलते हुए अमरीका के कन्नन वैद्यनाथन को हराकर ग्रैंडमास्टर खिताब हासिल किया। उन्होंने 9 राउंड में 7 अंक प्राप्त करते हुए दूसरा स्थान हासिल किया।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T03:21:40+00:00",
+        "link": "https://newsonair.gov.in/hi/17-year-old-ashwath-s-becomes-indias-98th-chess-grandmaster/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indias-Aswath-S-becomes-countrys-98th-Chess-Grandmaster.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विंबलडन जूनियर्स 2026: अर्णव पापरकर लड़कों के सिंगल्स क्वार्टर फाइनल में पहुंचे",
+        "summary": "भारत के अर्णव पापरकर ने विंबलडन जूनियर्स 2026 में लड़कों के सिंगल्‍स क्वार्टर फाइनल में पहुंचकर इतिहास रच दिया है। पिछले 36 वर्षों में सिंगल्‍स क्वार्टर फाइनल में पहुंचने वाले वे भारत के पहले खिलाड़ी हैं। 18 वर्षीय पापरकर ने प्री-क्वार्टर फाइनल में जापान के रयो ताबाता को मात्र 52 मिनट में 6-2, 6-1 से […]",
+        "article": "भारत के अर्णव पापरकर ने विंबलडन जूनियर्स 2026 में लड़कों के सिंगल्&#x200d;स क्वार्टर फाइनल में पहुंचकर इतिहास रच दिया है। पिछले 36 वर्षों में सिंगल्&#x200d;स क्वार्टर फाइनल में पहुंचने वाले वे भारत के पहले खिलाड़ी हैं। 18 वर्षीय पापरकर ने प्री-क्वार्टर फाइनल में जापान के रयो ताबाता को मात्र 52 मिनट में 6-2, 6-1 से हराया। इससे पहले, उन्होंने पहले दौर में ग्रेट ब्रिटेन के जोशुआ क्रेज़ को 6-2, 6-2 से हराया और अगले दौर में तीसरी वरीयता प्राप्&#x200d;त अमरीका के कीटन हैंस को 6-2, 6-3 से हराकर बड़ा उलटफेर किया। उन्&#x200d;होंने इस टूर्नामेंट में अभी तक एक भी सेट नहीं गंवाया है। पापरकर का अगला मुकाबला आज शाम 5 बजे क्वार्टर फाइनल में अमरीका के जॉर्डन ली से होगा।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T02:16:49+00:00",
+        "link": "https://newsonair.gov.in/hi/wimbledon-juniors-2026-arnav-paparkar-reaches-boys-singles-quarter-finals/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMwdDqMbYAAvdZp.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत और इंग्‍लैंड के बीच पांच टी-ट्वेंटी क्रिकेट मैच श्रृंखला का चौथा मुकाबला आज ब्रिस्‍टल में खेला जाएगा",
+        "summary": "भारत और इंग्‍लैंड के बीच पांच टी-ट्वेंटी क्रिकेट मैच श्रृंखला का चौथा मुकाबला आज ब्रिस्‍टल में खेला जाएगा। भारतीय समय के अनुसार यह मैच रात दस बजे से शुरू होगा। इंग्‍लैंड, श्रृंखला में फिलहाल दो-शून्‍य से आगे है और श्रृंखला में बने रहने के लिए भारत को यह मैच जीतना ही होगा। इससे पहले, तीसरे […]",
+        "article": "भारत और इंग्&#x200d;लैंड के बीच पांच टी-ट्वेंटी क्रिकेट मैच श्रृंखला का चौथा मुकाबला आज ब्रिस्&#x200d;टल में खेला जाएगा। भारतीय समय के अनुसार यह मैच रात दस बजे से शुरू होगा। इंग्&#x200d;लैंड, श्रृंखला में फिलहाल दो-शून्&#x200d;य से आगे है और श्रृंखला में बने रहने के लिए भारत को यह मैच जीतना ही होगा। इससे पहले, तीसरे मैच में भारत को इंग्&#x200d;लैंड से 125 रन से हार का सामना करना पड़ा था।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T01:49:00+00:00",
+        "link": "https://newsonair.gov.in/hi/the-fourth-match-of-the-five-match-t20-cricket-series-between-india-and-england-will-be-played-in-bristol-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-7.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "फीफा विश्व कप: स्विट्जरलैंड ने पेनल्टी शूटआउट में कोलंबिया को 4-3 से हराया, क्वार्टर फाइनल में अर्जेंटीना से मुकाबला होगा",
         "summary": "अर्जेंटीना और स्विट्जरलैंड फीफा फुटबॉल विश्‍व कप के क्वार्टर फाइनल में पहुंच गये हैं। वैंकूवर में स्विट्जरलैंड और कोलंबिया अतिरिक्त समय के समाप्त होने तक कोई गोल नहीं कर सकें। इसके बाद पैनल्टी शूटआउट में स्विट्जरलैंड ने 4-3 से जीत दर्ज की। क्वार्टर फाइनल में अर्जेंटीना का मुकाबला स्विटजरलैंड से होगा। &#160; &#160;",
@@ -1663,42 +1742,20 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/Bcci.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "फीफा विश्व कप: इंग्लैंड ने मेक्सिको को 3-2 से हराकर क्वार्टर फाइनल में प्रवेश किया",
-        "summary": "फीफा वर्ल्ड कप में मेक्सिको सिटी के एज़्टेका स्टेडियम में खेले गए मैच में इंग्लैंड ने मेक्सिको को 3-2 से हराकर क्वार्टर फाइनल में प्रवेश कर लिया। वहीं, दूसरी ओर, ब्राजील के दिग्गज खिलाड़ी नेमार जूनियर ने अंतरराष्ट्रीय फुटबॉल से संन्यास की घोषणा कर दी है। पांच बार के विश्व चैंपियन ब्राजील को कल रात […]",
-        "article": "फीफा वर्ल्ड कप में मेक्सिको सिटी के एज़्टेका स्टेडियम में खेले गए मैच में इंग्लैंड ने मेक्सिको को 3-2 से हराकर क्वार्टर फाइनल में प्रवेश कर लिया। वहीं, दूसरी ओर, ब्राजील के दिग्गज खिलाड़ी नेमार जूनियर ने अंतरराष्ट्रीय फुटबॉल से संन्यास की घोषणा कर दी है। पांच बार के विश्व चैंपियन ब्राजील को कल रात फीफा विश्व कप के राउंड ऑफ 16 में नॉर्वे के हाथों 2-1 से करारी हार का सामना करना पड़ा। ब्राजील के लिए यह लगातार सातवीं बार था जब उसे यूरोपीय टीम के हाथों विश्व कप के नॉकआउट राउंड में हार का सामना करना पड़ा।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T07:48:04+00:00",
-        "link": "https://newsonair.gov.in/hi/fifa-world-cup-england-defeated-mexico-3-2-to-enter-the-quarter-finals/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/FIFA-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ब्राजील के नेमार जूनियर ने अंतरराष्ट्रीय फुटबॉल से संन्यास की घोषणा की",
-        "summary": "ब्राजील के दिग्गज फुटबॉल खिलाड़ी नेमार जूनियर ने, फीफा विश्‍वकप के राउंड-16 में कल रात नॉर्वे से 2-1 से हार के बाद, अंतरराष्‍ट्रीर फुटबॉल से संन्यास लेने की घोषणा की है। नेमार जूनियर हमेशा ब्राजील के सबसे प्रमुख स्‍कोरर रहे। कल के मैच में ब्राजील के लिये एकमात्र गोल करने के बावजूद नेमार अपनी टीम […]",
-        "article": "ब्राजील के दिग्गज फुटबॉल खिलाड़ी नेमार जूनियर ने, फीफा विश्&#x200d;वकप के राउंड-16 में कल रात नॉर्वे से 2-1 से हार के बाद, अंतरराष्&#x200d;ट्रीर फुटबॉल से संन्यास लेने की घोषणा की है। नेमार जूनियर हमेशा ब्राजील के सबसे प्रमुख स्&#x200d;कोरर रहे। कल के मैच में ब्राजील के लिये एकमात्र गोल करने के बावजूद नेमार अपनी टीम को हार से नहीं बचा पाये। उनके सन्&#x200d;यास से ब्राजील फुटबॉल के सर्वाधिक प्रमुख अंतरराष्&#x200d;ट्रीय करियर का अंत हो गया है।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T02:40:48+00:00",
-        "link": "https://newsonair.gov.in/hi/brazils-neymar-jr-has-announced-his-retirement-from-international-football/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shanghai-5-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "नोवाक जोकोविच ने रोमन सफिउलिन को हराकर विंबलडन टेनिस पुरुष सिंगल्‍स क्वार्टर फाइनल में बनाई जगह",
-        "summary": "सर्बिया के नोवाक जोकोविच ने रूस के रोमन सफिउलिन को हराकर विंबलडन टेनिस पुरुष सिंगल्‍स क्वार्टर फाइनल में जगह पक्की कर ली है। इसके साथ ही जोकोविच ने ऑल इंग्लैंड क्लब में अपना 106वां सिंगल्‍स खिताब जीता है। उन्होंने रोजर फेडरर के 105 विंबलडन पुरुष सिंगल्‍स खिताब के रिकॉर्ड को पीछे छोड़ दिया। विंबलडन टेनिस […]",
-        "article": "सर्बिया के नोवाक जोकोविच ने रूस के रोमन सफिउलिन को हराकर विंबलडन टेनिस पुरुष सिंगल्&#x200d;स क्वार्टर फाइनल में जगह पक्की कर ली है। इसके साथ ही जोकोविच ने ऑल इंग्लैंड क्लब में अपना 106वां सिंगल्&#x200d;स खिताब जीता है। उन्होंने रोजर फेडरर के 105 विंबलडन पुरुष सिंगल्&#x200d;स खिताब के रिकॉर्ड को पीछे छोड़ दिया। विंबलडन टेनिस में केवल मार्टिना नवरातिलोवा ने ही उनसे अधिक 120 सिंगल्&#x200d;स मैच जीते हैं। क्वार्टर फाइनल में जोकोविच का सामना फेलिक्स ऑगर-एलियासिमे या एलेजांद्रो डेविडोविच फोकिना से होगा। महिला सिंगल्&#x200d;स में कैरोलिना मुचोवा ने अपने कॅरियर में तीसरी बार विंबलडन क्वार्टर फाइनल में जगह बनाई है। उन्होंने चौथे दौर के रोमांचक मुकाबले में पूर्व चैंपियन बारबोरा क्रेजचिकोवा को 7-5, 5-7, 6-3 से हराया। एक अन्य मुकाबले में, नाओमी ओसाका ने एरीना सबलेंका को हराकर ऑल इंग्लैंड क्लब में अपने पहले क्वार्टर फाइनल में प्रवेश किया। इससे पहले, अमरीका की जेसिका पेगुला ने महिला सिंगल्&#x200d;स में अमरीका की ही इवा जोविक को 4-6, 6-3, 6-1 से हराकर क्वार्टर फाइनल में जगह बनाई।",
-        "date": "2026-07-06",
-        "pubDate": "2026-07-06T00:51:50+00:00",
-        "link": "https://newsonair.gov.in/hi/novak-djokovic-secured-a-spot-in-the-wimbledon-mens-singles-quarter-finals-by-defeating-roman-safiullin/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMe6s2nWAAEuEn2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "business": [
+      {
+        "title": "आईएमएफ रिपोर्ट: 7% वृद्धि अनुमान के साथ भारत सबसे तेज़ी से बढ़ती अर्थव्यवस्था",
+        "summary": "अंतर्राष्ट्रीय मुद्रा कोष (आई.एम.एफ) के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा कल जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू […]",
+        "article": "अंतर्राष्ट्रीय मुद्रा कोष (आई.एम.एफ) के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा कल जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू उत्पाद- जीडीपी में 6 दशमलव चार प्रतिशत की मामूली वृद्धि का अनुमान है। रिपोर्ट में कहा गया है कि भारतीय अर्थव्यवस्था के अनुमानित प्रदर्शन को निजी उपभोग और सेवा गतिविधियों में मजबूत गति का समर्थन प्राप्त है। भारत के वृद्धि अनुमान वैश्विक अनुमानों से दोगुने से भी अधिक हैं। रिपोर्ट में इस वर्ष वैश्विक अर्थव्यवस्था की वृद्धि दर 3 प्रतिशत बताई गई है। इसमें अगले वर्ष 3 दशमलव चार प्रतिशत की वृद्धि होने की उम्मीद है। दूसरी सबसे तेजी से बढ़ती अर्थव्यवस्था, चीन के जीडीपी में इस वर्ष 4 दशमलव छह प्रतिशत और अगले वर्ष 4 दशमलव एक प्रतिशत की वृद्धि का अनुमान है। अमरीका इस वर्ष 2 दशमलव तीन प्रतिशत और अगले वर्ष 2.2 प्रतिशत की अनुमानित वृद्धि के साथ तीसरे स्थान पर रहा।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T01:58:14+00:00",
+        "link": "https://newsonair.gov.in/hi/imf-report-india-is-the-fastest-growing-economy-with-a-projected-growth-rate-of-7/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/06/imf-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "एफपीआई ने जुलाई के तीन शुरूआती कारोबारी सत्रों में इस महीने अब तक 708 करोड़ रुपये के भारतीय शेयर खरीदे",
         "summary": "विदेशी पोर्टफोलियो निवेशकों-एफपीआई ने जुलाई के तीन शुरूआती कारोबारी सत्रों में लिवाली का रूख बनाए रखा और इस महीने अब तक 708 करोड़ रुपये के भारतीय शेयर खरीदे। जून में उन्‍होंने भारतीय शेयर बाजार से 49 हजार 340 करोड़ रुपये निकाले थे, लेकिन अब यह रूख उलटता हुआ दिखाई दे रहा है। लेकिन भारतीय ऋण […]",
@@ -1774,18 +1831,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/ministry-of-mines-gives-impetus-to-mineral-mission-with-successful-7th-round-of-auctions/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/Ministry-of-mines.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "आईएमएफ रिपोर्ट: 7% वृद्धि अनुमान के साथ भारत सबसे तेज़ी से बढ़ती अर्थव्यवस्था",
-        "summary": "अंतर्राष्ट्रीय मुद्रा कोष (आई.एम.एफ) के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा कल जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू […]",
-        "article": "अंतर्राष्ट्रीय मुद्रा कोष (आई.एम.एफ) के चालू वर्ष में 7 प्रतिशत की वृद्धि दर के अनुमान के साथ भारत, विश्व की सबसे तेजी से बढ़ती अर्थव्यवस्था के रूप में अपना स्थान बरकरार रखे हुए है। आई.एम.एफ द्वारा कल जारी की गई प्रमुख अर्धवार्षिक रिपोर्ट, वर्ल्ड इकोनॉमिक आउटलुक अपडेट के अनुसार अगले वर्ष भारत के सकल घरेलू उत्पाद- जीडीपी में 6 दशमलव चार प्रतिशत की मामूली वृद्धि का अनुमान है। रिपोर्ट में कहा गया है कि भारतीय अर्थव्यवस्था के अनुमानित प्रदर्शन को निजी उपभोग और सेवा गतिविधियों में मजबूत गति का समर्थन प्राप्त है। भारत के वृद्धि अनुमान वैश्विक अनुमानों से दोगुने से भी अधिक हैं। रिपोर्ट में इस वर्ष वैश्विक अर्थव्यवस्था की वृद्धि दर 3 प्रतिशत बताई गई है। इसमें अगले वर्ष 3 दशमलव चार प्रतिशत की वृद्धि होने की उम्मीद है। दूसरी सबसे तेजी से बढ़ती अर्थव्यवस्था, चीन के जीडीपी में इस वर्ष 4 दशमलव छह प्रतिशत और अगले वर्ष 4 दशमलव एक प्रतिशत की वृद्धि का अनुमान है। अमरीका इस वर्ष 2 दशमलव तीन प्रतिशत और अगले वर्ष 2.2 प्रतिशत की अनुमानित वृद्धि के साथ तीसरे स्थान पर रहा।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T01:58:14+00:00",
-        "link": "https://newsonair.gov.in/hi/imf-report-india-is-the-fastest-growing-economy-with-a-projected-growth-rate-of-7/",
-        "post_id": 1726970,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
