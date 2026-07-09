@@ -1,6 +1,6 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-08T22:17:03.073495",
+  "generated": "2026-07-09T00:29:54.341695",
   "en": {
     "top": [
       {
@@ -33,17 +33,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T16:37:37+00:00",
         "link": "https://newsonair.gov.in/brics-womens-ministerial-meeting-held-in-kochi/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats-12.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
-        "summary": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy […]",
-        "article": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy supplies and commerce. New Delhi has urged the parties to return to dialogue and diplomacy to achieve a peaceful and lasting solution to the conflict.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:34:43+00:00",
-        "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mea-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -81,17 +70,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "EAM Jaishankar Meets Kuwait PM, Discusses Bilateral Cooperation",
-        "summary": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar […]",
-        "article": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar also met Defence Minister Abdullah Ali Abdullah Al-Salem Al-Sabah. The External Affairs Minister spoke about defence industry cooperation and maritime security.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:54:48+00:00",
-        "link": "https://newsonair.gov.in/eam-jaishankar-meets-kuwait-pm-discusses-bilateral-cooperation/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/kuwait.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "CEC Gyanesh Kumar Urges Officials to Counter Misinformation on Elections",
         "summary": "Chief Election Commissioner Gyanesh Kumar emphasized that each and every action of the Commission is based on the Constitution of India, electoral laws and written instructions issued from time to time in a transparent manner. Addressing the participants in third One-Day Conference for Media and Communication Officers in New Delhi, Mr Kumar said that the […]",
         "article": "Chief Election Commissioner Gyanesh Kumar emphasized that each and every action of the Commission is based on the Constitution of India, electoral laws and written instructions issued from time to time in a transparent manner. Addressing the participants in third One-Day Conference for Media and Communication Officers in New Delhi, Mr Kumar said that the highest ever voter turnouts in the recent Assembly Elections are a proof of the trust that the Indian electors have in the country’s electoral system. Cautioning the officials about the false narrative propagated on social media, Mr Kumar said the officials need to engage proactively to prevent the spread of misinformation. Election Commissioner Dr. Vivek Joshi also addressed the participants and urged the Media and Communication Officers to counter such attempts based on the rules, instructions and guidelines of the Commission. Around 200 Media and Communication Officers from 10 States and Union Territories participated in the conference. During the conference, participants were witnessed demonstration of the preparation of electoral rolls, polling process, and counting process in groups, followed by a guided walkthrough of the Exhibition and Media Corner.",
@@ -114,17 +92,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India, Russia reaffirm commitment to strengthen counter terrorism cooperation at multilateral fora",
-        "summary": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister […]",
-        "article": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister of Russia, Dmitry Lyubinski co-chaired the meeting. Both sides condemned terrorism in all its forms and manifestation including cross-border terrorism, and called for concerted action against terrorists and terrorist groups and their proxies and affiliates. They shared their assessment on regional and global terrorism and agreed to enhance cooperation to address challenges such as radicalization, terror financing and misuse of new and emerging technologies for terrorist purposes.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:32:56+00:00",
-        "link": "https://newsonair.gov.in/india-russia-reaffirm-counter-terrorism-cooperation-at-joint-working-group-meeting/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/russia.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "US President Trump says, ceasefire with Iran is over",
         "summary": "US President Donald Trump today announced that the ceasefire with Iran is over. Speaking to reporters at the North Atlantic Treaty Organization (NATO) Summit in Ankara, Trump said that he does not want to waste his time negotiating with Iran. However, he said US representatives can continue negotiations, but he cast doubt on the outcome. […]",
         "article": "US President Donald Trump today announced that the ceasefire with Iran is over. Speaking to reporters at the North Atlantic Treaty Organization (NATO) Summit in Ankara, Trump said that he does not want to waste his time negotiating with Iran. However, he said US representatives can continue negotiations, but he cast doubt on the outcome. Trump&#8217;s statement comes hours after the US carried out a new round of military strikes against Iran, targeting more than 80 sites. The US said, the strikes were in response to Tehran’s attacks on commercial ships in the Strait of Hormuz. Announcing the operation, US Central Command (CENTCOM) said, the strikes were conducted using precision-guided munitions and were aimed at degrading Iran’s ability to threaten international maritime commerce. The Iranian military said, coastal bases and civilian facilities were struck in the provinces of Hormozgan and Mahshar. According to the Islamic Revolutionary Guard Corps (IRGC), strikes also hit Bandar Mashahr, south-west Iran. IRGC said, it had responded to the strikes by targeting US assets in neighbouring countries as sirens went off in Bahrain and Kuwait. Meanwhile, Kuwait&#8217;s Defence Ministry said, it intercepted two ballistic missiles and 13 drones overnight. Qatar condemned Iranian attacks on Bahrain and Kuwait, which its foreign ministry said were a blatant breach of international law and the two countries&#8217; sovereignty.",
@@ -132,6 +99,39 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T14:42:58+00:00",
         "link": "https://newsonair.gov.in/u-s-president-trump-says-mou-to-end-iran-conflict-is-over/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260616321f-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, Maldives Reiterate Commitment to Bilateral Investment Treaty and FTA",
+        "summary": "India and Maldives today reaffirmed their commitment to expediting the signing of the Bilateral Investment Treaty and the proposed Free Trade Agreement. In a social media post, Union Commerce and Industry Minister Piyush Goyal said that he held discussions with the Maldives&#8217; Minister of Economic Development and Trade, Mohamed Saeed, in New Delhi. Mr. Goyal […]",
+        "article": "India and Maldives today reaffirmed their commitment to expediting the signing of the Bilateral Investment Treaty and the proposed Free Trade Agreement. In a social media post, Union Commerce and Industry Minister Piyush Goyal said that he held discussions with the Maldives&#8217; Minister of Economic Development and Trade, Mohamed Saeed, in New Delhi. Mr. Goyal added that the agreements will further strengthen cooperation in tourism, startups, digital payments, MSMEs, and trade to unlock new opportunities for both countries. India and Maldives are celebrating 60 years of diplomatic relations this year.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T13:44:40+00:00",
+        "link": "https://newsonair.gov.in/india-maldives-reiterate-commitment-to-bilateral-investment-treaty-and-fta/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/comm.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Three Killed in Overnight Russian Attacks on Ukraine",
+        "summary": "Three people were killed across Ukraine in overnight Russian attacks, including one in Kyiv. In Kharkiv, two people were killed and 20 others were injured. Ukraine&#8217;s Air Force said Russia fired 169 long-range strike drones and seven missiles, including five ballistics last night. Russia&#8217;s Defence Ministry said the military carried out a strike on arms […]",
+        "article": "Three people were killed across Ukraine in overnight Russian attacks, including one in Kyiv. In Kharkiv, two people were killed and 20 others were injured. Ukraine&#8217;s Air Force said Russia fired 169 long-range strike drones and seven missiles, including five ballistics last night. Russia&#8217;s Defence Ministry said the military carried out a strike on arms industry facilities in Kyiv, hitting a plant that was manufacturing components for Flamingo cruise missiles and a facility assembling mid- and long-range drones. The ministry also said air defences shot down 415 Ukrainian drones overnight.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T12:56:50+00:00",
+        "link": "https://newsonair.gov.in/three-killed-in-overnight-russian-attacks-on-ukraine/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats-7.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi visits UNESCO-listed Prambanan Temple with President Prabowo",
+        "summary": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century […]",
+        "article": "Prime Minister Narendra Modi today visited the UNESCO World Heritage site of Prambanan Temple in Yogyakarta along with Indonesian President Prabowo Subianto. The Prime Minister was accorded a traditional welcome with the resonant notes of a gamelan ensemble and a classical Yogyakarta dance performance, reflecting Indonesia’s rich cultural heritage. The two leaders toured the 9th-century temple complex, where Prime Minister Modi offered prayers at the main Shiva temple. They also viewed the temple’s intricate carvings before witnessing ongoing conservation efforts being supported through India-Indonesia cooperation. In a joint statement, President Prabowo said Prambanan stands as a symbol of the centuries-old civilisational bond between India and Indonesia. He thanked India for its support towards the conservation and restoration of the temple complex and said culture continues to serve as a bridge connecting the two nations. Prime Minister Modi described the visit as a deeply spiritual and memorable experience. He thanked the people of Indonesia for preserving this magnificent heritage for nearly twelve centuries and said India’s participation in the temple’s conservation reflects the shared cultural legacy of the two countries. Expressing confidence that the restoration project would further strengthen people-to-people ties, the Prime Minister also thanked President Prabowo for the warm hospitality extended during his three-day State Visit to Indonesia.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T08:46:08+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-visits-unesco-listed-prambanan-temple-with-president-prabowo/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/65.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -171,17 +171,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
-        "summary": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy […]",
-        "article": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy supplies and commerce. New Delhi has urged the parties to return to dialogue and diplomacy to achieve a peaceful and lasting solution to the conflict.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:34:43+00:00",
-        "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mea-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Union Minister Pralhad Joshi Holds Talks with States on Food Security Issues",
         "summary": "Union Minister of Consumer Affairs, Food and Public Distribution Pralhad Joshi today met Ministers and representatives from various states in New Delhi to discuss food security concerns. In a series of social media post, Mr Joshi said that he met Kerala&#8217;s Minister for Food and Civil Supplies, Anoop Jacob to discuss key issues concerning food security, […]",
         "article": "Union Minister of Consumer Affairs, Food and Public Distribution Pralhad Joshi today met Ministers and representatives from various states in New Delhi to discuss food security concerns. In a series of social media post , Mr Joshi said that he met Kerala&#8217;s Minister for Food and Civil Supplies, Anoop Jacob to discuss key issues concerning food security, the Public Distribution System, consumer affairs and legal metrology in the State. They deliberated on paddy procurement and related matters, along with measures to strengthen the Public Distribution System and consumer protection. During the meeting, Mr Joshi urged Kerala Government to adopt the rightful beneficiary targeting methodology followed by other States to ensure that food support reaches only genuine and eligible beneficiaries. He assured that the issues raised will be examined in accordance with the existing policy framework. The Consumer Affairs Minister also met Karnataka&#8217;s Minister of Food and Civil Supplies, K. H. Muniyappa and discussed matters related to the state&#8217;s Food and Civil Supplies Department. Discussions were held regarding the grants under the previous year&#8217;s MSP scheme. Earlier in the day, Mr Joshi met a delegation led by Union Minister G Kishan Reddy to discuss Telangana&#8217;s paddy procurement requirements. The delegation highlighted the State&#8217;s rising production and sought consideration for enhancing the procurement target to ensure better support for farmers. It also expressed appreciation for the Centre&#8217;s consistent support to Telangana through timely policy interventions and procurement-related decisions over the years. The Union Minister has asked the Department to examine the proposal in detail and assess its feasibility in accordance with the prevailing guidelines.",
@@ -200,17 +189,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T15:58:14+00:00",
         "link": "https://newsonair.gov.in/pm-modi-to-inaugurate-redeveloped-jalandhar-cantt-railway-station/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/jal.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EAM Jaishankar Meets Kuwait PM, Discusses Bilateral Cooperation",
-        "summary": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar […]",
-        "article": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar also met Defence Minister Abdullah Ali Abdullah Al-Salem Al-Sabah. The External Affairs Minister spoke about defence industry cooperation and maritime security.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:54:48+00:00",
-        "link": "https://newsonair.gov.in/eam-jaishankar-meets-kuwait-pm-discusses-bilateral-cooperation/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/kuwait.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -237,14 +215,39 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
+        "summary": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy […]",
+        "article": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy supplies and commerce. New Delhi has urged the parties to return to dialogue and diplomacy to achieve a peaceful and lasting solution to the conflict.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T16:34:43+00:00",
+        "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
+        "post_id": 1726819,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM Jaishankar Meets Kuwait PM, Discusses Bilateral Cooperation",
+        "summary": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar […]",
+        "article": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar also met Defence Minister Abdullah Ali Abdullah Al-Salem Al-Sabah. The External Affairs Minister spoke about defence industry cooperation and maritime security.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T15:54:48+00:00",
+        "link": "https://newsonair.gov.in/eam-jaishankar-meets-kuwait-pm-discusses-bilateral-cooperation/",
+        "post_id": 1726708,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "India, Russia reaffirm commitment to strengthen counter terrorism cooperation at multilateral fora",
         "summary": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister […]",
         "article": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister of Russia, Dmitry Lyubinski co-chaired the meeting. Both sides condemned terrorism in all its forms and manifestation including cross-border terrorism, and called for concerted action against terrorists and terrorist groups and their proxies and affiliates. They shared their assessment on regional and global terrorism and agreed to enhance cooperation to address challenges such as radicalization, terror financing and misuse of new and emerging technologies for terrorist purposes.",
         "date": "2026-07-08",
         "pubDate": "2026-07-08T15:32:56+00:00",
         "link": "https://newsonair.gov.in/india-russia-reaffirm-counter-terrorism-cooperation-at-joint-working-group-meeting/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/russia.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "post_id": 1726128,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -283,17 +286,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
-        "summary": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy […]",
-        "article": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy supplies and commerce. New Delhi has urged the parties to return to dialogue and diplomacy to achieve a peaceful and lasting solution to the conflict.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:34:43+00:00",
-        "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mea-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Union Minister Pralhad Joshi Holds Talks with States on Food Security Issues",
         "summary": "Union Minister of Consumer Affairs, Food and Public Distribution Pralhad Joshi today met Ministers and representatives from various states in New Delhi to discuss food security concerns. In a series of social media post, Mr Joshi said that he met Kerala&#8217;s Minister for Food and Civil Supplies, Anoop Jacob to discuss key issues concerning food security, […]",
         "article": "Union Minister of Consumer Affairs, Food and Public Distribution Pralhad Joshi today met Ministers and representatives from various states in New Delhi to discuss food security concerns. In a series of social media post , Mr Joshi said that he met Kerala&#8217;s Minister for Food and Civil Supplies, Anoop Jacob to discuss key issues concerning food security, the Public Distribution System, consumer affairs and legal metrology in the State. They deliberated on paddy procurement and related matters, along with measures to strengthen the Public Distribution System and consumer protection. During the meeting, Mr Joshi urged Kerala Government to adopt the rightful beneficiary targeting methodology followed by other States to ensure that food support reaches only genuine and eligible beneficiaries. He assured that the issues raised will be examined in accordance with the existing policy framework. The Consumer Affairs Minister also met Karnataka&#8217;s Minister of Food and Civil Supplies, K. H. Muniyappa and discussed matters related to the state&#8217;s Food and Civil Supplies Department. Discussions were held regarding the grants under the previous year&#8217;s MSP scheme. Earlier in the day, Mr Joshi met a delegation led by Union Minister G Kishan Reddy to discuss Telangana&#8217;s paddy procurement requirements. The delegation highlighted the State&#8217;s rising production and sought consideration for enhancing the procurement target to ensure better support for farmers. It also expressed appreciation for the Centre&#8217;s consistent support to Telangana through timely policy interventions and procurement-related decisions over the years. The Union Minister has asked the Department to examine the proposal in detail and assess its feasibility in accordance with the prevailing guidelines.",
@@ -312,17 +304,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T15:58:14+00:00",
         "link": "https://newsonair.gov.in/pm-modi-to-inaugurate-redeveloped-jalandhar-cantt-railway-station/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/jal.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EAM Jaishankar Meets Kuwait PM, Discusses Bilateral Cooperation",
-        "summary": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar […]",
-        "article": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar also met Defence Minister Abdullah Ali Abdullah Al-Salem Al-Sabah. The External Affairs Minister spoke about defence industry cooperation and maritime security.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:54:48+00:00",
-        "link": "https://newsonair.gov.in/eam-jaishankar-meets-kuwait-pm-discusses-bilateral-cooperation/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/kuwait.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -349,14 +330,39 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
+        "summary": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy […]",
+        "article": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy supplies and commerce. New Delhi has urged the parties to return to dialogue and diplomacy to achieve a peaceful and lasting solution to the conflict.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T16:34:43+00:00",
+        "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
+        "post_id": 1726819,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM Jaishankar Meets Kuwait PM, Discusses Bilateral Cooperation",
+        "summary": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar […]",
+        "article": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar also met Defence Minister Abdullah Ali Abdullah Al-Salem Al-Sabah. The External Affairs Minister spoke about defence industry cooperation and maritime security.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T15:54:48+00:00",
+        "link": "https://newsonair.gov.in/eam-jaishankar-meets-kuwait-pm-discusses-bilateral-cooperation/",
+        "post_id": 1726708,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "India, Russia reaffirm commitment to strengthen counter terrorism cooperation at multilateral fora",
         "summary": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister […]",
         "article": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister of Russia, Dmitry Lyubinski co-chaired the meeting. Both sides condemned terrorism in all its forms and manifestation including cross-border terrorism, and called for concerted action against terrorists and terrorist groups and their proxies and affiliates. They shared their assessment on regional and global terrorism and agreed to enhance cooperation to address challenges such as radicalization, terror financing and misuse of new and emerging technologies for terrorist purposes.",
         "date": "2026-07-08",
         "pubDate": "2026-07-08T15:32:56+00:00",
         "link": "https://newsonair.gov.in/india-russia-reaffirm-counter-terrorism-cooperation-at-joint-working-group-meeting/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/russia.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "post_id": 1726128,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -395,17 +401,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
-        "summary": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy […]",
-        "article": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy supplies and commerce. New Delhi has urged the parties to return to dialogue and diplomacy to achieve a peaceful and lasting solution to the conflict.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:34:43+00:00",
-        "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mea-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Union Minister Pralhad Joshi Holds Talks with States on Food Security Issues",
         "summary": "Union Minister of Consumer Affairs, Food and Public Distribution Pralhad Joshi today met Ministers and representatives from various states in New Delhi to discuss food security concerns. In a series of social media post, Mr Joshi said that he met Kerala&#8217;s Minister for Food and Civil Supplies, Anoop Jacob to discuss key issues concerning food security, […]",
         "article": "Union Minister of Consumer Affairs, Food and Public Distribution Pralhad Joshi today met Ministers and representatives from various states in New Delhi to discuss food security concerns. In a series of social media post , Mr Joshi said that he met Kerala&#8217;s Minister for Food and Civil Supplies, Anoop Jacob to discuss key issues concerning food security, the Public Distribution System, consumer affairs and legal metrology in the State. They deliberated on paddy procurement and related matters, along with measures to strengthen the Public Distribution System and consumer protection. During the meeting, Mr Joshi urged Kerala Government to adopt the rightful beneficiary targeting methodology followed by other States to ensure that food support reaches only genuine and eligible beneficiaries. He assured that the issues raised will be examined in accordance with the existing policy framework. The Consumer Affairs Minister also met Karnataka&#8217;s Minister of Food and Civil Supplies, K. H. Muniyappa and discussed matters related to the state&#8217;s Food and Civil Supplies Department. Discussions were held regarding the grants under the previous year&#8217;s MSP scheme. Earlier in the day, Mr Joshi met a delegation led by Union Minister G Kishan Reddy to discuss Telangana&#8217;s paddy procurement requirements. The delegation highlighted the State&#8217;s rising production and sought consideration for enhancing the procurement target to ensure better support for farmers. It also expressed appreciation for the Centre&#8217;s consistent support to Telangana through timely policy interventions and procurement-related decisions over the years. The Union Minister has asked the Department to examine the proposal in detail and assess its feasibility in accordance with the prevailing guidelines.",
@@ -424,17 +419,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T15:58:14+00:00",
         "link": "https://newsonair.gov.in/pm-modi-to-inaugurate-redeveloped-jalandhar-cantt-railway-station/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/jal.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EAM Jaishankar Meets Kuwait PM, Discusses Bilateral Cooperation",
-        "summary": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar […]",
-        "article": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar also met Defence Minister Abdullah Ali Abdullah Al-Salem Al-Sabah. The External Affairs Minister spoke about defence industry cooperation and maritime security.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:54:48+00:00",
-        "link": "https://newsonair.gov.in/eam-jaishankar-meets-kuwait-pm-discusses-bilateral-cooperation/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/kuwait.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -461,18 +445,54 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
+        "summary": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy […]",
+        "article": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy supplies and commerce. New Delhi has urged the parties to return to dialogue and diplomacy to achieve a peaceful and lasting solution to the conflict.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T16:34:43+00:00",
+        "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
+        "post_id": 1726819,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM Jaishankar Meets Kuwait PM, Discusses Bilateral Cooperation",
+        "summary": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar […]",
+        "article": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar also met Defence Minister Abdullah Ali Abdullah Al-Salem Al-Sabah. The External Affairs Minister spoke about defence industry cooperation and maritime security.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T15:54:48+00:00",
+        "link": "https://newsonair.gov.in/eam-jaishankar-meets-kuwait-pm-discusses-bilateral-cooperation/",
+        "post_id": 1726708,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "India, Russia reaffirm commitment to strengthen counter terrorism cooperation at multilateral fora",
         "summary": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister […]",
         "article": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister of Russia, Dmitry Lyubinski co-chaired the meeting. Both sides condemned terrorism in all its forms and manifestation including cross-border terrorism, and called for concerted action against terrorists and terrorist groups and their proxies and affiliates. They shared their assessment on regional and global terrorism and agreed to enhance cooperation to address challenges such as radicalization, terror financing and misuse of new and emerging technologies for terrorist purposes.",
         "date": "2026-07-08",
         "pubDate": "2026-07-08T15:32:56+00:00",
         "link": "https://newsonair.gov.in/india-russia-reaffirm-counter-terrorism-cooperation-at-joint-working-group-meeting/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/russia.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "post_id": 1726128,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
+        "summary": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy […]",
+        "article": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy supplies and commerce. New Delhi has urged the parties to return to dialogue and diplomacy to achieve a peaceful and lasting solution to the conflict.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T16:34:43+00:00",
+        "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mea-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Trump Accuses NATO Allies of Failing to Back US During Iran Operation",
         "summary": "US President Donald Trump today accused several key NATO allies of refusing to support the United States during its military operation against Iran. Mr. Trump said response of NATO allies left him disappointed despite decades of American security commitments to Europe. He was speaking alongside NATO Secretary General Mark Rutte before a meeting of alliance leaders in […]",
@@ -481,6 +501,28 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T16:13:11+00:00",
         "link": "https://newsonair.gov.in/trump-accuses-nato-allies-of-failing-to-back-us-during-iran-operation/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/trump-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM Jaishankar Meets Kuwait PM, Discusses Bilateral Cooperation",
+        "summary": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar […]",
+        "article": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar also met Defence Minister Abdullah Ali Abdullah Al-Salem Al-Sabah. The External Affairs Minister spoke about defence industry cooperation and maritime security.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T15:54:48+00:00",
+        "link": "https://newsonair.gov.in/eam-jaishankar-meets-kuwait-pm-discusses-bilateral-cooperation/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/kuwait.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, Russia reaffirm commitment to strengthen counter terrorism cooperation at multilateral fora",
+        "summary": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister […]",
+        "article": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister of Russia, Dmitry Lyubinski co-chaired the meeting. Both sides condemned terrorism in all its forms and manifestation including cross-border terrorism, and called for concerted action against terrorists and terrorist groups and their proxies and affiliates. They shared their assessment on regional and global terrorism and agreed to enhance cooperation to address challenges such as radicalization, terror financing and misuse of new and emerging technologies for terrorist purposes.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T15:32:56+00:00",
+        "link": "https://newsonair.gov.in/india-russia-reaffirm-counter-terrorism-cooperation-at-joint-working-group-meeting/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/russia.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -540,18 +582,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India Calls for Restraint, Dialogue Amid Rising West Asia Tensions",
-        "summary": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy […]",
-        "article": "India has expressed deep concern over the recent attacks and escalation of tensions in West Asia. The External Affairs Ministry said that these developments risk undermining regional peace, security and stability. India has called upon all parties to exercise restraint, de-escalate tensions, and ensure protection of civilians as well as the uninterrupted flow of energy supplies and commerce. New Delhi has urged the parties to return to dialogue and diplomacy to achieve a peaceful and lasting solution to the conflict.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T16:34:43+00:00",
-        "link": "https://newsonair.gov.in/india-calls-for-restraint-dialogue-amid-rising-west-asia-tensions/",
-        "post_id": 1726819,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "IMF Projects India to Remain World’s Fastest-Growing Major Economy",
         "summary": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year […]",
         "article": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year to 6.4 per cent. The report said, the projected performance of Indian economy is supported by strong momentum in private consumption and services activity. India’s growth projections are more than twice the global numbers, as the report gave a 3 per cent projection for the world economy’s growth this year. The report presented a relatively positive outlook for the world economy growth, as it is expected to rise 3.4 per cent next year. China, which is the second fastest-growing economy, was projected to grow by 4.6 per cent this year and lose a half point, falling to 4.1 per cent next year. The US ranked third with a projected growth of 2.3 per cent this year and 2.2 per cent next year.",
@@ -559,30 +589,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T16:31:44+00:00",
         "link": "https://newsonair.gov.in/imf-projects-india-to-remain-worlds-fastest-growing-major-economy/",
         "post_id": 1726776,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EAM Jaishankar Meets Kuwait PM, Discusses Bilateral Cooperation",
-        "summary": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar […]",
-        "article": "External Affairs Minister Dr S Jaishankar called on Prime Minister of Kuwait, Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah. Dr Jaishankar thanked Prime Minister of Kuwait for support to Indian community’s welfare and well-being. In a social media post, the External Affairs Minister welcomed the vision of Mr Al Sabah for stronger and mutually beneficial India-Kuwait cooperation. Dr Jaishankar also met Defence Minister Abdullah Ali Abdullah Al-Salem Al-Sabah. The External Affairs Minister spoke about defence industry cooperation and maritime security.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:54:48+00:00",
-        "link": "https://newsonair.gov.in/eam-jaishankar-meets-kuwait-pm-discusses-bilateral-cooperation/",
-        "post_id": 1726708,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, Russia reaffirm commitment to strengthen counter terrorism cooperation at multilateral fora",
-        "summary": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister […]",
-        "article": "India and Russia today reaffirmed their commitment to strengthen counter terrorism cooperation at multilateral fora, including at the UN, BRICS, EAG and SCO. Ministry of External Affairs said that the 14th Meeting of India-Russia Joint Working Group on Counter Terrorism was held in New Delhi. Secretary (West), Ministry of External Affairs, Sibi George and Deputy Foreign Minister of Russia, Dmitry Lyubinski co-chaired the meeting. Both sides condemned terrorism in all its forms and manifestation including cross-border terrorism, and called for concerted action against terrorists and terrorist groups and their proxies and affiliates. They shared their assessment on regional and global terrorism and agreed to enhance cooperation to address challenges such as radicalization, terror financing and misuse of new and emerging technologies for terrorist purposes.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T15:32:56+00:00",
-        "link": "https://newsonair.gov.in/india-russia-reaffirm-counter-terrorism-cooperation-at-joint-working-group-meeting/",
-        "post_id": 1726128,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
