@@ -1,63 +1,8 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-10T06:05:33.916344",
+  "generated": "2026-07-10T08:45:36.167061",
   "en": {
     "top": [
-      {
-        "title": "PM Modi meets Australian Opposition Leader Angus Taylor in Melbourne",
-        "summary": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on",
-        "article": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on the growing strength of India-Australia ties and the many opportunities ahead. Mr Modi further said that he deeply values the warmth and broad support that India&#8217;s partnership enjoys across Australia. Akashvani&#8217;s correspondent reports that the meeting highlights the deep bipartisan support that the India-Australia relationship enjoys within the Australian parliament. Backing the strategic partnership, the Opposition Leader has called Prime Minister Narendra Modi &#8220;a true friend of our nation&#8221; and strongly advocates for strengthened ties to defend sovereignty and support Indo-Pacific stability. Aligning with key summit outcomes, Taylor supports the export of Australian uranium to India for peaceful purposes and backs collaborative technological efforts like the International Solar Alliance. This dialogue ensures continuous, rock-solid cooperation across critical security and energy frameworks, regardless of political transitions.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:39:58+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-meets-australian-opposition-leader-angus-taylor-in-melbourne/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Melbourne_skyline_sor.jpg/1280px-Melbourne_skyline_sor.jpg",
-        "image_credit": "Wikipedia – Melbourne (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi to reach Auckland today on a two-day visit to New Zealand",
-        "summary": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome […]",
-        "article": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome Prime Minister Narendra Modi. Along with the Indian diaspora, many New Zealand people are also eager to greet him with the traditional Māori welcome, “Kia Ora Modi&#8221;. Women, youth, business leaders, academics and community members see the visit as the beginning of a new chapter in India-New Zealand relations. They believe it will further strengthen cooperation in trade, education, investment, sports and cultural exchanges. Members of the Indian diaspora say that the visit of an Indian Prime Minister after nearly 40 years is a moment of pride and deep emotion for them. New Zealanders also see the visit as an opportunity to further strengthen the friendship and partnership between the two countries. The Indian community continues to serve as a living bridge between India and New Zealand. Prime Minister Modi’s visit is expected to add fresh momentum to bilateral ties while further strengthening the people-to-people connection between the two nations.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:03:27+00:00",
-        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_-_May_2024_%282%29.jpg/1280px-Auckland_skyline_-_May_2024_%282%29.jpg",
-        "image_credit": "Wikipedia – Auckland (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMD issues red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand",
-        "summary": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand today. While in some parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh, heavy to very heavy rainfall is expected today. The weather agency estimated heavy rainfall […]",
-        "article": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand today. While in some parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh, heavy to very heavy rainfall is expected today. The weather agency estimated heavy rainfall over Delhi, Haryana, Chandigarh, Himachal Pradesh, Bihar, East Madhya Pradesh and Madhya Maharashtra over the next 3-4 days. Karnataka, Kerala, Mahe, Nagaland, Manipur, Mizoram, Tripura, Tamil Nadu, Puducherry and Karaikal are expected to witness similar weather conditions during the same period. Meanwhile, since this morning, several areas of the National Capital have been witnessing very light to light rainfall. The Met Department has issued a yellow alert for light to moderate rainfall over the National Capital today.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:49:33+00:00",
-        "link": "https://newsonair.gov.in/imd-issues-red-alert-for-heavy-to-very-heavy-rainfall-with-isolated-extremely-heavy-rainfall-in-uttarakhand/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nanda_Devi_-_Hidden_Summit%2C_Uttarakhand_India_2013.jpg/1280px-Nanda_Devi_-_Hidden_Summit%2C_Uttarakhand_India_2013.jpg",
-        "image_credit": "Wikipedia – Uttarakhand (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMD says Southwest Monsoon covered entire country",
-        "summary": "The India Meteorological Department (IMD) today said that the Southwest Monsoon has covered the entire country. The IMD has issued a red alert for heavy to very heavy rain with isolated extremely heavy rainfall over Uttarakhand tomorrow. According to IMD, parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh will […]",
-        "article": "The India Meteorological Department (IMD) today said that the Southwest Monsoon has covered the entire country. The IMD has issued a red alert for heavy to very heavy rain with isolated extremely heavy rainfall over Uttarakhand tomorrow. According to IMD, parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh will experience heavy to very heavy rainfall on Friday. Further, the weather agency has predicted heavy rainfall over Delhi, Haryana, Chandigarh, Himachal Pradesh, Bihar, East Madhya Pradesh and Madhya Maharashtra over the next four days. Similar conditions will prevail over Karnataka, Kerala, Mahe, Nagaland, Manipur, Mizoram, Tripura, Tamil Nadu, Puducherry and Karaikal during the period. Also, Jammu and Kashmir, Ladakh, Odisha, Jharkhand, Andaman and Nicobar Islands, Andhra Pradesh and Telangana are expected to witness thunderstorms, lightning and gusty winds during the next two days. Meanwhile, parts of Delhi-NCR witnessed light to moderate rain today. There has been no significant change in minimum temperature but there is a fall in maximum temperatures by one to three degree Celsius during the past 24 hours. The Met Department has issued a yellow alert for the National Capital for light to moderate rain tomorrow. The minimum and maximum temperature is likely to hover around 23 and 33 degree Celsius.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:24:54+00:00",
-        "link": "https://newsonair.gov.in/imd-says-southwest-monsoon-covered-entire-country/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/District_Darrang_-_Assam._%28IA_dr_district-darrang-assam-10620000%29.jpg/1280px-District_Darrang_-_Assam._%28IA_dr_district-darrang-assam-10620000%29.jpg",
-        "image_credit": "Wikimedia Commons (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Australia sign Joint Declaration on Defence & Security Cooperation to ensure free & open Indo-Pacific",
-        "summary": "India and Australia today signed a new Joint Declaration on Defence and Security Cooperation to secure peace and stability across the Indo-Pacific region. Both countries also adopted Maritime Security Collaboration Roadmap to promote a free, open and inclusive Indo-Pacific. Both sides finalized the administrative arrangement for the long-term supply of Australian uranium to India. The […]",
-        "article": "India and Australia today signed a new Joint Declaration on Defence and Security Cooperation to secure peace and stability across the Indo-Pacific region. Both countries also adopted Maritime Security Collaboration Roadmap to promote a free, open and inclusive Indo-Pacific. Both sides finalized the administrative arrangement for the long-term supply of Australian uranium to India. The agreements were signed following delegation-level talks between Prime Minister Narendra Modi and his Australian counterpart, Anthony Albanese during the third Australia-India Annual Leaders&#8217; Summit in Melbourne. In a joint press statement after the talks, Prime Minister Modi said that the Indo-Pacific is not just a meeting point of two oceans but showcases the shared aspirations of like-minded democracies like India and Australia. Later briefing the media, Foreign Secretary Vikram Misri said the discussions between Prime Minister Modi and his Australian counterpart Anthony Albanese reflected the growing strategic partnership and close understanding between the two leaders. On the economic front, following a high-powered India-Australia CEOs Forum, both leaders fast-tracked negotiations for the Comprehensive Economic Cooperation Agreement (CECA) to fully build upon the 55 percent surge in two-way trade delivered by the 2022 ECTA pact. Emerging horizons also took center stage, with the operationalization of the Australia-India Partnership for Cyber Critical Technologies and Supply Chains (AI PACTS) and extended Australian support for India&#8217;s historic Gaganyaan human spaceflight program. Addressing evolving regional dynamics, the two maritime powers adopted a historic Joint Declaration on Defense and Security Cooperation alongside a unified Maritime Security Collaboration Roadmap to ensure a free and open Indo-Pacific. The leaders strongly reaffirmed their shared commitment to the Quad as a vital mechanism for counterterrorism and disaster relief, while Prime Minister Modi expressed India&#8217;s firm stance on sustained peace in West Asia.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:50:05+00:00",
-        "link": "https://newsonair.gov.in/india-and-australia-sign-landmark-deals-on-uranium-supply-and-dedicated-critical-minerals-corridor/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Indo-Pacific_biogeographic_region_map-en.png/1280px-Indo-Pacific_biogeographic_region_map-en.png",
-        "image_credit": "Wikipedia – Indo-Pacific (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
       {
         "title": "Iran accuses US of alleged airstrike near nuke power plant in Bushehr",
         "summary": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the […]",
@@ -92,12 +37,79 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "Palestinian Authority President Mahmoud Abbas announces legislative elections in late November",
+        "summary": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The […]",
+        "article": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The decree said the elections aim to strengthen democracy and complete the electoral process in Palestine.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:45:40+00:00",
+        "link": "https://newsonair.gov.in/palestinian-authority-president-mahmoud-abbas-announces-legislative-elections-in-late-november/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Clean energy meets over 50 % of country’s electricity demand for second time: Union Minister Pralhad Joshi",
+        "summary": "New and Renewable Energy Minister Pralhad Joshi today said that clean energy met over 50 percent of the country&#8217;s electricity demand for the second time. In a social media post, Mr Joshi said that renewable sources contributed 50.2 percent of the power supply on the 6th of this month. The Minister called this a testament […]",
+        "article": "New and Renewable Energy Minister Pralhad Joshi today said that clean energy met over 50 percent of the country&#8217;s electricity demand for the second time. In a social media post, Mr Joshi said that renewable sources contributed 50.2 percent of the power supply on the 6th of this month. The Minister called this a testament to the growing strength and reliability of India’s Clean Energy ecosystem. He said that under the leadership of Prime Minister Narendra Modi, India continues to power sustainable growth with speed and determination.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:18:57+00:00",
+        "link": "https://newsonair.gov.in/clean-energy-meets-over-50-of-countrys-electricity-demand-for-second-time-union-minister-pralhad-joshi/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NITI Aayog Member Dr Joram Aniya holds interaction with UNICEF India Representative in New Delhi",
+        "summary": "NITI Aayog Member Dr Joram Aniya held an interaction with UNICEF India Representative Cynthia McCaffrey and her delegation in New Delhi to strengthen collaboration on child-centric development, school education, and human development. According to NITI Aayog, the discussions focused on safe and inclusive learning, foundational literacy and numeracy, teacher education, student well-being, cyber saf",
+        "article": "NITI Aayog Member Dr Joram Aniya held an interaction with UNICEF India Representative Cynthia McCaffrey and her delegation in New Delhi to strengthen collaboration on child-centric development, school education, and human development. According to NITI Aayog, the discussions focused on safe and inclusive learning, foundational literacy and numeracy, teacher education, student well-being, cyber safety, and digital security, particularly in Aspirational Districts and Blocks. During the meeting, Dr Aniya also stressed evidence-based policymaking, community participation, disaster resilience, and the role of women’s Self-Help Groups in improving child welfare and education outcomes.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:14:09+00:00",
+        "link": "https://newsonair.gov.in/niti-aayog-member-dr-joram-aniya-holds-interaction-with-unicef-india-representative-in-new-delhi/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
+        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
+        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:12:43+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
+        "post_id": 1729413,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Modi concludes state visit to Australia",
         "summary": "Prime Minister Narendra Modi has officially concluded a historic, high-stakes state visit to Australia, leaving behind a future-proof blueprint for the India-Australia Comprehensive Strategic Partnership. From high-powered boardrooms to iconic landmarks, this intense itinerary systematically advanced diplomatic, economic, and security ties between the two democratic giants. The economic momentum i",
         "article": "Prime Minister Narendra Modi has officially concluded a historic, high-stakes state visit to Australia, leaving behind a future-proof blueprint for the India-Australia Comprehensive Strategic Partnership. From high-powered boardrooms to iconic landmarks, this intense itinerary systematically advanced diplomatic, economic, and security ties between the two democratic giants. The economic momentum ignited early with the India-Australia CEOs Forum, where business leaders celebrated a 55 percent surge in two-way trade driven by the 2022 ECTA agreement. To unlock further potential, Prime Minister Modi and his Australian counterpart, Anthony Albanese, fast-tracked negotiations for the Comprehensive Economic Cooperation Agreement (CECA). The bilateral talks scaled a historic milestone in clean energy with the finalisation of the administrative arrangement enabling long-term Australian uranium supply to India, reviving a foundational 2014 framework. Strategic security also took center stage as both maritime powers adopted a Joint Declaration on Defence and Security Cooperation alongside a Maritime Security Collaboration Roadmap to ensure a free and open Indo-Pacific. The tour&#8217;s unparalleled public resonance was on full display at the &#8220;Melbourne Meets Modi&#8221; diaspora rally, where an ecstatic crowd of around 25,000 at Marvel Stadium welcomed both leaders. Prime Minister Modi hailed the one-million-strong Indian-Australian community as the ultimate &#8220;living bridge&#8221;, a sentiment echoed by Prime Minister Albanese, who called the diaspora a multicultural powerhouse driving Australia&#8217;s prosperity. Maintaining deep bipartisan ties, the Prime Minister also met with the Leader of the Opposition, Angus Taylor, who called Modi &#8220;a true friend of our nation&#8221; and backed key initiatives like the International Solar Alliance and peaceful uranium exports. The grand tour culminated in spectacular sports diplomacy at the iconic Melbourne Cricket Ground (MCG). Standing on the historic turf, the two leaders officially launched the India-Australia Sports Collaboration Roadmap, supercharging ties in sports science and infrastructure as India prepares for the 2030 Commonwealth Games and Australia gears up for the 2032 Brisbane Olympics. The landmark event also delivered a major cricketing breakthrough, with the historic announcement that the Australian Men&#8217;s Big Bash League will play its opening match in Chennai this December, anchoring the week-long G&#8217;Day Namaste festival in India. Akashvani&#8217;s correspondent reports that this monumental state visit has systematically transformed India-Australia relations from standard diplomatic engagements into a deeply integrated, multi-layered alliance. By seamlessly bridging industrial trade surges, high-tech defense roadmaps, and historic nuclear supply arrangements with the soft power of sports diplomacy at the MCG, both nations have anchored a vital corridor of Indo-Pacific stability. Validated by strong bipartisan backing from the Australian opposition and the electric energy of a thriving million-strong living bridge, the strategic blueprint forged on this tour ensures that both democracies are moving in lockstep to master the economic and geopolitical landscapes of the 21st century. Following the conclusion of his engagements here, the Prime Minister has now departed directly for Auckland, New Zealand, marking a historic next leg of his three-nation tour.",
         "date": "2026-07-10",
         "pubDate": "2026-07-10T05:41:29+00:00",
         "link": "https://newsonair.gov.in/pm-modi-concludes-state-visit-to-australia/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi meets Australian Opposition Leader Angus Taylor in Melbourne",
+        "summary": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on",
+        "article": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on the growing strength of India-Australia ties and the many opportunities ahead. Mr Modi further said that he deeply values the warmth and broad support that India&#8217;s partnership enjoys across Australia. Akashvani&#8217;s correspondent reports that the meeting highlights the deep bipartisan support that the India-Australia relationship enjoys within the Australian parliament. Backing the strategic partnership, the Opposition Leader has called Prime Minister Narendra Modi &#8220;a true friend of our nation&#8221; and strongly advocates for strengthened ties to defend sovereignty and support Indo-Pacific stability. Aligning with key summit outcomes, Taylor supports the export of Australian uranium to India for peaceful purposes and backs collaborative technological efforts like the International Solar Alliance. This dialogue ensures continuous, rock-solid cooperation across critical security and energy frameworks, regardless of political transitions.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T05:39:58+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-meets-australian-opposition-leader-angus-taylor-in-melbourne/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi to reach Auckland today on a two-day visit to New Zealand",
+        "summary": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome […]",
+        "article": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome Prime Minister Narendra Modi. Along with the Indian diaspora, many New Zealand people are also eager to greet him with the traditional Māori welcome, “Kia Ora Modi&#8221;. Women, youth, business leaders, academics and community members see the visit as the beginning of a new chapter in India-New Zealand relations. They believe it will further strengthen cooperation in trade, education, investment, sports and cultural exchanges. Members of the Indian diaspora say that the visit of an Indian Prime Minister after nearly 40 years is a moment of pride and deep emotion for them. New Zealanders also see the visit as an opportunity to further strengthen the friendship and partnership between the two countries. The Indian community continues to serve as a living bridge between India and New Zealand. Prime Minister Modi’s visit is expected to add fresh momentum to bilateral ties while further strengthening the people-to-people connection between the two nations.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T05:03:27+00:00",
+        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -120,17 +132,6 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T03:40:31+00:00",
         "link": "https://newsonair.gov.in/govt-plans-to-introduce-e85-fuel-at-rs-20-less-per-litre-than-standard-e20-petrol-says-union-minister-hardeep-singh-puri/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EAM Dr. S. Jaishankar arrives in Oman after concluding successful visit to Kuwait",
-        "summary": "External Affairs Minister Dr. S. Jaishankar has arrived in Oman after concluding his visit to Kuwait. On his arrival, he was received by the Director General at the Foreign Ministry of Oman, Sheikh Ahmed Al Maskari. Dr. Jaishankar is currently on an eleven-day tour covering Qatar, Bahrain, Kuwait, Oman, New York, and Brussels. After […]",
-        "article": "External Affairs Minister Dr. S. Jaishankar has arrived in Oman after concluding his visit to Kuwait. On his arrival, he was received by the Director General at the Foreign Ministry of Oman, Sheikh Ahmed Al Maskari. Dr. Jaishankar is currently on an eleven-day tour covering Qatar, Bahrain, Kuwait, Oman, New York, and Brussels. After completing his visit to Oman, he will travel to New York to launch India&#8217;s official campaign for the UN Security Council tenure 2028-29. He will then visit Brussels on the 14th and 15th of July to attend the third India-European Union Trade and Technology Council meeting and hold interactions with his European Union and Belgian counterparts.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:56:27+00:00",
-        "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-arrives-in-oman-after-concluding-successful-visit-to-kuwait/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -138,58 +139,37 @@ window.VM_NEWS = {
     ],
     "breaking": [
       {
-        "title": "PM Modi meets Australian Opposition Leader Angus Taylor in Melbourne",
-        "summary": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on",
-        "article": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on the growing strength of India-Australia ties and the many opportunities ahead. Mr Modi further said that he deeply values the warmth and broad support that India&#8217;s partnership enjoys across Australia. Akashvani&#8217;s correspondent reports that the meeting highlights the deep bipartisan support that the India-Australia relationship enjoys within the Australian parliament. Backing the strategic partnership, the Opposition Leader has called Prime Minister Narendra Modi &#8220;a true friend of our nation&#8221; and strongly advocates for strengthened ties to defend sovereignty and support Indo-Pacific stability. Aligning with key summit outcomes, Taylor supports the export of Australian uranium to India for peaceful purposes and backs collaborative technological efforts like the International Solar Alliance. This dialogue ensures continuous, rock-solid cooperation across critical security and energy frameworks, regardless of political transitions.",
+        "title": "Clean energy meets over 50 % of country’s electricity demand for second time: Union Minister Pralhad Joshi",
+        "summary": "New and Renewable Energy Minister Pralhad Joshi today said that clean energy met over 50 percent of the country&#8217;s electricity demand for the second time. In a social media post, Mr Joshi said that renewable sources contributed 50.2 percent of the power supply on the 6th of this month. The Minister called this a testament […]",
+        "article": "New and Renewable Energy Minister Pralhad Joshi today said that clean energy met over 50 percent of the country&#8217;s electricity demand for the second time. In a social media post, Mr Joshi said that renewable sources contributed 50.2 percent of the power supply on the 6th of this month. The Minister called this a testament to the growing strength and reliability of India’s Clean Energy ecosystem. He said that under the leadership of Prime Minister Narendra Modi, India continues to power sustainable growth with speed and determination.",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:39:58+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-meets-australian-opposition-leader-angus-taylor-in-melbourne/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Melbourne_skyline_sor.jpg/1280px-Melbourne_skyline_sor.jpg",
-        "image_credit": "Wikipedia – Melbourne (CC BY-SA)",
+        "pubDate": "2026-07-10T07:18:57+00:00",
+        "link": "https://newsonair.gov.in/clean-energy-meets-over-50-of-countrys-electricity-demand-for-second-time-union-minister-pralhad-joshi/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "PM Modi to reach Auckland today on a two-day visit to New Zealand",
-        "summary": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome […]",
-        "article": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome Prime Minister Narendra Modi. Along with the Indian diaspora, many New Zealand people are also eager to greet him with the traditional Māori welcome, “Kia Ora Modi&#8221;. Women, youth, business leaders, academics and community members see the visit as the beginning of a new chapter in India-New Zealand relations. They believe it will further strengthen cooperation in trade, education, investment, sports and cultural exchanges. Members of the Indian diaspora say that the visit of an Indian Prime Minister after nearly 40 years is a moment of pride and deep emotion for them. New Zealanders also see the visit as an opportunity to further strengthen the friendship and partnership between the two countries. The Indian community continues to serve as a living bridge between India and New Zealand. Prime Minister Modi’s visit is expected to add fresh momentum to bilateral ties while further strengthening the people-to-people connection between the two nations.",
+        "title": "NITI Aayog Member Dr Joram Aniya holds interaction with UNICEF India Representative in New Delhi",
+        "summary": "NITI Aayog Member Dr Joram Aniya held an interaction with UNICEF India Representative Cynthia McCaffrey and her delegation in New Delhi to strengthen collaboration on child-centric development, school education, and human development. According to NITI Aayog, the discussions focused on safe and inclusive learning, foundational literacy and numeracy, teacher education, student well-being, cyber saf",
+        "article": "NITI Aayog Member Dr Joram Aniya held an interaction with UNICEF India Representative Cynthia McCaffrey and her delegation in New Delhi to strengthen collaboration on child-centric development, school education, and human development. According to NITI Aayog, the discussions focused on safe and inclusive learning, foundational literacy and numeracy, teacher education, student well-being, cyber safety, and digital security, particularly in Aspirational Districts and Blocks. During the meeting, Dr Aniya also stressed evidence-based policymaking, community participation, disaster resilience, and the role of women’s Self-Help Groups in improving child welfare and education outcomes.",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:03:27+00:00",
-        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_-_May_2024_%282%29.jpg/1280px-Auckland_skyline_-_May_2024_%282%29.jpg",
-        "image_credit": "Wikipedia – Auckland (CC BY-SA)",
+        "pubDate": "2026-07-10T07:14:09+00:00",
+        "link": "https://newsonair.gov.in/niti-aayog-member-dr-joram-aniya-holds-interaction-with-unicef-india-representative-in-new-delhi/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "IMD issues red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand",
-        "summary": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand today. While in some parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh, heavy to very heavy rainfall is expected today. The weather agency estimated heavy rainfall […]",
-        "article": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand today. While in some parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh, heavy to very heavy rainfall is expected today. The weather agency estimated heavy rainfall over Delhi, Haryana, Chandigarh, Himachal Pradesh, Bihar, East Madhya Pradesh and Madhya Maharashtra over the next 3-4 days. Karnataka, Kerala, Mahe, Nagaland, Manipur, Mizoram, Tripura, Tamil Nadu, Puducherry and Karaikal are expected to witness similar weather conditions during the same period. Meanwhile, since this morning, several areas of the National Capital have been witnessing very light to light rainfall. The Met Department has issued a yellow alert for light to moderate rainfall over the National Capital today.",
+        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
+        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
+        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:49:33+00:00",
-        "link": "https://newsonair.gov.in/imd-issues-red-alert-for-heavy-to-very-heavy-rainfall-with-isolated-extremely-heavy-rainfall-in-uttarakhand/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nanda_Devi_-_Hidden_Summit%2C_Uttarakhand_India_2013.jpg/1280px-Nanda_Devi_-_Hidden_Summit%2C_Uttarakhand_India_2013.jpg",
-        "image_credit": "Wikipedia – Uttarakhand (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMD says Southwest Monsoon covered entire country",
-        "summary": "The India Meteorological Department (IMD) today said that the Southwest Monsoon has covered the entire country. The IMD has issued a red alert for heavy to very heavy rain with isolated extremely heavy rainfall over Uttarakhand tomorrow. According to IMD, parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh will […]",
-        "article": "The India Meteorological Department (IMD) today said that the Southwest Monsoon has covered the entire country. The IMD has issued a red alert for heavy to very heavy rain with isolated extremely heavy rainfall over Uttarakhand tomorrow. According to IMD, parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh will experience heavy to very heavy rainfall on Friday. Further, the weather agency has predicted heavy rainfall over Delhi, Haryana, Chandigarh, Himachal Pradesh, Bihar, East Madhya Pradesh and Madhya Maharashtra over the next four days. Similar conditions will prevail over Karnataka, Kerala, Mahe, Nagaland, Manipur, Mizoram, Tripura, Tamil Nadu, Puducherry and Karaikal during the period. Also, Jammu and Kashmir, Ladakh, Odisha, Jharkhand, Andaman and Nicobar Islands, Andhra Pradesh and Telangana are expected to witness thunderstorms, lightning and gusty winds during the next two days. Meanwhile, parts of Delhi-NCR witnessed light to moderate rain today. There has been no significant change in minimum temperature but there is a fall in maximum temperatures by one to three degree Celsius during the past 24 hours. The Met Department has issued a yellow alert for the National Capital for light to moderate rain tomorrow. The minimum and maximum temperature is likely to hover around 23 and 33 degree Celsius.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:24:54+00:00",
-        "link": "https://newsonair.gov.in/imd-says-southwest-monsoon-covered-entire-country/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/District_Darrang_-_Assam._%28IA_dr_district-darrang-assam-10620000%29.jpg/1280px-District_Darrang_-_Assam._%28IA_dr_district-darrang-assam-10620000%29.jpg",
-        "image_credit": "Wikimedia Commons (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Australia sign Joint Declaration on Defence & Security Cooperation to ensure free & open Indo-Pacific",
-        "summary": "India and Australia today signed a new Joint Declaration on Defence and Security Cooperation to secure peace and stability across the Indo-Pacific region. Both countries also adopted Maritime Security Collaboration Roadmap to promote a free, open and inclusive Indo-Pacific. Both sides finalized the administrative arrangement for the long-term supply of Australian uranium to India. The […]",
-        "article": "India and Australia today signed a new Joint Declaration on Defence and Security Cooperation to secure peace and stability across the Indo-Pacific region. Both countries also adopted Maritime Security Collaboration Roadmap to promote a free, open and inclusive Indo-Pacific. Both sides finalized the administrative arrangement for the long-term supply of Australian uranium to India. The agreements were signed following delegation-level talks between Prime Minister Narendra Modi and his Australian counterpart, Anthony Albanese during the third Australia-India Annual Leaders&#8217; Summit in Melbourne. In a joint press statement after the talks, Prime Minister Modi said that the Indo-Pacific is not just a meeting point of two oceans but showcases the shared aspirations of like-minded democracies like India and Australia. Later briefing the media, Foreign Secretary Vikram Misri said the discussions between Prime Minister Modi and his Australian counterpart Anthony Albanese reflected the growing strategic partnership and close understanding between the two leaders. On the economic front, following a high-powered India-Australia CEOs Forum, both leaders fast-tracked negotiations for the Comprehensive Economic Cooperation Agreement (CECA) to fully build upon the 55 percent surge in two-way trade delivered by the 2022 ECTA pact. Emerging horizons also took center stage, with the operationalization of the Australia-India Partnership for Cyber Critical Technologies and Supply Chains (AI PACTS) and extended Australian support for India&#8217;s historic Gaganyaan human spaceflight program. Addressing evolving regional dynamics, the two maritime powers adopted a historic Joint Declaration on Defense and Security Cooperation alongside a unified Maritime Security Collaboration Roadmap to ensure a free and open Indo-Pacific. The leaders strongly reaffirmed their shared commitment to the Quad as a vital mechanism for counterterrorism and disaster relief, while Prime Minister Modi expressed India&#8217;s firm stance on sustained peace in West Asia.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:50:05+00:00",
-        "link": "https://newsonair.gov.in/india-and-australia-sign-landmark-deals-on-uranium-supply-and-dedicated-critical-minerals-corridor/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Indo-Pacific_biogeographic_region_map-en.png/1280px-Indo-Pacific_biogeographic_region_map-en.png",
-        "image_credit": "Wikipedia – Indo-Pacific (CC BY-SA)",
+        "pubDate": "2026-07-10T07:12:43+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
+        "post_id": 1729413,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -199,6 +179,28 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T05:41:29+00:00",
         "link": "https://newsonair.gov.in/pm-modi-concludes-state-visit-to-australia/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi meets Australian Opposition Leader Angus Taylor in Melbourne",
+        "summary": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on",
+        "article": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on the growing strength of India-Australia ties and the many opportunities ahead. Mr Modi further said that he deeply values the warmth and broad support that India&#8217;s partnership enjoys across Australia. Akashvani&#8217;s correspondent reports that the meeting highlights the deep bipartisan support that the India-Australia relationship enjoys within the Australian parliament. Backing the strategic partnership, the Opposition Leader has called Prime Minister Narendra Modi &#8220;a true friend of our nation&#8221; and strongly advocates for strengthened ties to defend sovereignty and support Indo-Pacific stability. Aligning with key summit outcomes, Taylor supports the export of Australian uranium to India for peaceful purposes and backs collaborative technological efforts like the International Solar Alliance. This dialogue ensures continuous, rock-solid cooperation across critical security and energy frameworks, regardless of political transitions.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T05:39:58+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-meets-australian-opposition-leader-angus-taylor-in-melbourne/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi to reach Auckland today on a two-day visit to New Zealand",
+        "summary": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome […]",
+        "article": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome Prime Minister Narendra Modi. Along with the Indian diaspora, many New Zealand people are also eager to greet him with the traditional Māori welcome, “Kia Ora Modi&#8221;. Women, youth, business leaders, academics and community members see the visit as the beginning of a new chapter in India-New Zealand relations. They believe it will further strengthen cooperation in trade, education, investment, sports and cultural exchanges. Members of the Indian diaspora say that the visit of an Indian Prime Minister after nearly 40 years is a moment of pride and deep emotion for them. New Zealanders also see the visit as an opportunity to further strengthen the friendship and partnership between the two countries. The Indian community continues to serve as a living bridge between India and New Zealand. Prime Minister Modi’s visit is expected to add fresh momentum to bilateral ties while further strengthening the people-to-people connection between the two nations.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T05:03:27+00:00",
+        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -237,12 +239,12 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India continues to emerge as preferred destination for Global Capability Centres, says FM Nirmala Sitharaman",
-        "summary": "Finance Minister Nirmala Sitharaman has said India continues to emerge as a preferred destination for Global Capability Centres (GCCs) because of its skilled and strong institutions and innovation ecosystem. Addressing the CII National GCC Business Summit in New Delhi, the Finance Minister said, the country hosts more than 2100 GCCs employing 23 lakh professionals directly […]",
-        "article": "Finance Minister Nirmala Sitharaman has said India continues to emerge as a preferred destination for Global Capability Centres (GCCs) because of its skilled and strong institutions and innovation ecosystem. Addressing the CII National GCC Business Summit in New Delhi, the Finance Minister said, the country hosts more than 2100 GCCs employing 23 lakh professionals directly and generating nearly 100 billion US dollars in annual revenue. She said Global Capability Centres represent transformation by bringing together engineering, research, artificial intelligence, cybersecurity, finance, product design, and data science to drive continuous innovation. Ms Sitharaman said, MNCs are now more likely to build their next capability centres in India than anywhere else. She highlighted that India&#8217;s GCC ecosystem represents the world&#8217;s largest organised knowledge export. The Finance Minister said, Indian GCCs are assuming a growing share of global leadership mandates and strategic decision-making responsibilities. She added that India&#8217;s aspiration is not merely to host the world&#8217;s capability centres but to shape the next-generation technologies, products and enterprises of the future. &nbsp;",
+        "title": "IMD issues red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand",
+        "summary": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand today. While in some parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh, heavy to very heavy rainfall is expected today. The weather agency estimated heavy rainfall […]",
+        "article": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand today. While in some parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh, heavy to very heavy rainfall is expected today. The weather agency estimated heavy rainfall over Delhi, Haryana, Chandigarh, Himachal Pradesh, Bihar, East Madhya Pradesh and Madhya Maharashtra over the next 3-4 days. Karnataka, Kerala, Mahe, Nagaland, Manipur, Mizoram, Tripura, Tamil Nadu, Puducherry and Karaikal are expected to witness similar weather conditions during the same period. Meanwhile, since this morning, several areas of the National Capital have been witnessing very light to light rainfall. The Met Department has issued a yellow alert for light to moderate rainfall over the National Capital today.",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T01:53:47+00:00",
-        "link": "https://newsonair.gov.in/india-continues-to-emerge-as-preferred-destination-for-global-capability-centres-says-fm-nirmala-sitharaman/",
+        "pubDate": "2026-07-10T02:49:33+00:00",
+        "link": "https://newsonair.gov.in/imd-issues-red-alert-for-heavy-to-very-heavy-rainfall-with-isolated-extremely-heavy-rainfall-in-uttarakhand/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -250,58 +252,37 @@ window.VM_NEWS = {
     ],
     "national": [
       {
-        "title": "PM Modi meets Australian Opposition Leader Angus Taylor in Melbourne",
-        "summary": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on",
-        "article": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on the growing strength of India-Australia ties and the many opportunities ahead. Mr Modi further said that he deeply values the warmth and broad support that India&#8217;s partnership enjoys across Australia. Akashvani&#8217;s correspondent reports that the meeting highlights the deep bipartisan support that the India-Australia relationship enjoys within the Australian parliament. Backing the strategic partnership, the Opposition Leader has called Prime Minister Narendra Modi &#8220;a true friend of our nation&#8221; and strongly advocates for strengthened ties to defend sovereignty and support Indo-Pacific stability. Aligning with key summit outcomes, Taylor supports the export of Australian uranium to India for peaceful purposes and backs collaborative technological efforts like the International Solar Alliance. This dialogue ensures continuous, rock-solid cooperation across critical security and energy frameworks, regardless of political transitions.",
+        "title": "Clean energy meets over 50 % of country’s electricity demand for second time: Union Minister Pralhad Joshi",
+        "summary": "New and Renewable Energy Minister Pralhad Joshi today said that clean energy met over 50 percent of the country&#8217;s electricity demand for the second time. In a social media post, Mr Joshi said that renewable sources contributed 50.2 percent of the power supply on the 6th of this month. The Minister called this a testament […]",
+        "article": "New and Renewable Energy Minister Pralhad Joshi today said that clean energy met over 50 percent of the country&#8217;s electricity demand for the second time. In a social media post, Mr Joshi said that renewable sources contributed 50.2 percent of the power supply on the 6th of this month. The Minister called this a testament to the growing strength and reliability of India’s Clean Energy ecosystem. He said that under the leadership of Prime Minister Narendra Modi, India continues to power sustainable growth with speed and determination.",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:39:58+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-meets-australian-opposition-leader-angus-taylor-in-melbourne/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Melbourne_skyline_sor.jpg/1280px-Melbourne_skyline_sor.jpg",
-        "image_credit": "Wikipedia – Melbourne (CC BY-SA)",
+        "pubDate": "2026-07-10T07:18:57+00:00",
+        "link": "https://newsonair.gov.in/clean-energy-meets-over-50-of-countrys-electricity-demand-for-second-time-union-minister-pralhad-joshi/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "PM Modi to reach Auckland today on a two-day visit to New Zealand",
-        "summary": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome […]",
-        "article": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome Prime Minister Narendra Modi. Along with the Indian diaspora, many New Zealand people are also eager to greet him with the traditional Māori welcome, “Kia Ora Modi&#8221;. Women, youth, business leaders, academics and community members see the visit as the beginning of a new chapter in India-New Zealand relations. They believe it will further strengthen cooperation in trade, education, investment, sports and cultural exchanges. Members of the Indian diaspora say that the visit of an Indian Prime Minister after nearly 40 years is a moment of pride and deep emotion for them. New Zealanders also see the visit as an opportunity to further strengthen the friendship and partnership between the two countries. The Indian community continues to serve as a living bridge between India and New Zealand. Prime Minister Modi’s visit is expected to add fresh momentum to bilateral ties while further strengthening the people-to-people connection between the two nations.",
+        "title": "NITI Aayog Member Dr Joram Aniya holds interaction with UNICEF India Representative in New Delhi",
+        "summary": "NITI Aayog Member Dr Joram Aniya held an interaction with UNICEF India Representative Cynthia McCaffrey and her delegation in New Delhi to strengthen collaboration on child-centric development, school education, and human development. According to NITI Aayog, the discussions focused on safe and inclusive learning, foundational literacy and numeracy, teacher education, student well-being, cyber saf",
+        "article": "NITI Aayog Member Dr Joram Aniya held an interaction with UNICEF India Representative Cynthia McCaffrey and her delegation in New Delhi to strengthen collaboration on child-centric development, school education, and human development. According to NITI Aayog, the discussions focused on safe and inclusive learning, foundational literacy and numeracy, teacher education, student well-being, cyber safety, and digital security, particularly in Aspirational Districts and Blocks. During the meeting, Dr Aniya also stressed evidence-based policymaking, community participation, disaster resilience, and the role of women’s Self-Help Groups in improving child welfare and education outcomes.",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:03:27+00:00",
-        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_-_May_2024_%282%29.jpg/1280px-Auckland_skyline_-_May_2024_%282%29.jpg",
-        "image_credit": "Wikipedia – Auckland (CC BY-SA)",
+        "pubDate": "2026-07-10T07:14:09+00:00",
+        "link": "https://newsonair.gov.in/niti-aayog-member-dr-joram-aniya-holds-interaction-with-unicef-india-representative-in-new-delhi/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "IMD issues red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand",
-        "summary": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand today. While in some parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh, heavy to very heavy rainfall is expected today. The weather agency estimated heavy rainfall […]",
-        "article": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand today. While in some parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh, heavy to very heavy rainfall is expected today. The weather agency estimated heavy rainfall over Delhi, Haryana, Chandigarh, Himachal Pradesh, Bihar, East Madhya Pradesh and Madhya Maharashtra over the next 3-4 days. Karnataka, Kerala, Mahe, Nagaland, Manipur, Mizoram, Tripura, Tamil Nadu, Puducherry and Karaikal are expected to witness similar weather conditions during the same period. Meanwhile, since this morning, several areas of the National Capital have been witnessing very light to light rainfall. The Met Department has issued a yellow alert for light to moderate rainfall over the National Capital today.",
+        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
+        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
+        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:49:33+00:00",
-        "link": "https://newsonair.gov.in/imd-issues-red-alert-for-heavy-to-very-heavy-rainfall-with-isolated-extremely-heavy-rainfall-in-uttarakhand/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nanda_Devi_-_Hidden_Summit%2C_Uttarakhand_India_2013.jpg/1280px-Nanda_Devi_-_Hidden_Summit%2C_Uttarakhand_India_2013.jpg",
-        "image_credit": "Wikipedia – Uttarakhand (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMD says Southwest Monsoon covered entire country",
-        "summary": "The India Meteorological Department (IMD) today said that the Southwest Monsoon has covered the entire country. The IMD has issued a red alert for heavy to very heavy rain with isolated extremely heavy rainfall over Uttarakhand tomorrow. According to IMD, parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh will […]",
-        "article": "The India Meteorological Department (IMD) today said that the Southwest Monsoon has covered the entire country. The IMD has issued a red alert for heavy to very heavy rain with isolated extremely heavy rainfall over Uttarakhand tomorrow. According to IMD, parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh will experience heavy to very heavy rainfall on Friday. Further, the weather agency has predicted heavy rainfall over Delhi, Haryana, Chandigarh, Himachal Pradesh, Bihar, East Madhya Pradesh and Madhya Maharashtra over the next four days. Similar conditions will prevail over Karnataka, Kerala, Mahe, Nagaland, Manipur, Mizoram, Tripura, Tamil Nadu, Puducherry and Karaikal during the period. Also, Jammu and Kashmir, Ladakh, Odisha, Jharkhand, Andaman and Nicobar Islands, Andhra Pradesh and Telangana are expected to witness thunderstorms, lightning and gusty winds during the next two days. Meanwhile, parts of Delhi-NCR witnessed light to moderate rain today. There has been no significant change in minimum temperature but there is a fall in maximum temperatures by one to three degree Celsius during the past 24 hours. The Met Department has issued a yellow alert for the National Capital for light to moderate rain tomorrow. The minimum and maximum temperature is likely to hover around 23 and 33 degree Celsius.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:24:54+00:00",
-        "link": "https://newsonair.gov.in/imd-says-southwest-monsoon-covered-entire-country/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/District_Darrang_-_Assam._%28IA_dr_district-darrang-assam-10620000%29.jpg/1280px-District_Darrang_-_Assam._%28IA_dr_district-darrang-assam-10620000%29.jpg",
-        "image_credit": "Wikimedia Commons (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Australia sign Joint Declaration on Defence & Security Cooperation to ensure free & open Indo-Pacific",
-        "summary": "India and Australia today signed a new Joint Declaration on Defence and Security Cooperation to secure peace and stability across the Indo-Pacific region. Both countries also adopted Maritime Security Collaboration Roadmap to promote a free, open and inclusive Indo-Pacific. Both sides finalized the administrative arrangement for the long-term supply of Australian uranium to India. The […]",
-        "article": "India and Australia today signed a new Joint Declaration on Defence and Security Cooperation to secure peace and stability across the Indo-Pacific region. Both countries also adopted Maritime Security Collaboration Roadmap to promote a free, open and inclusive Indo-Pacific. Both sides finalized the administrative arrangement for the long-term supply of Australian uranium to India. The agreements were signed following delegation-level talks between Prime Minister Narendra Modi and his Australian counterpart, Anthony Albanese during the third Australia-India Annual Leaders&#8217; Summit in Melbourne. In a joint press statement after the talks, Prime Minister Modi said that the Indo-Pacific is not just a meeting point of two oceans but showcases the shared aspirations of like-minded democracies like India and Australia. Later briefing the media, Foreign Secretary Vikram Misri said the discussions between Prime Minister Modi and his Australian counterpart Anthony Albanese reflected the growing strategic partnership and close understanding between the two leaders. On the economic front, following a high-powered India-Australia CEOs Forum, both leaders fast-tracked negotiations for the Comprehensive Economic Cooperation Agreement (CECA) to fully build upon the 55 percent surge in two-way trade delivered by the 2022 ECTA pact. Emerging horizons also took center stage, with the operationalization of the Australia-India Partnership for Cyber Critical Technologies and Supply Chains (AI PACTS) and extended Australian support for India&#8217;s historic Gaganyaan human spaceflight program. Addressing evolving regional dynamics, the two maritime powers adopted a historic Joint Declaration on Defense and Security Cooperation alongside a unified Maritime Security Collaboration Roadmap to ensure a free and open Indo-Pacific. The leaders strongly reaffirmed their shared commitment to the Quad as a vital mechanism for counterterrorism and disaster relief, while Prime Minister Modi expressed India&#8217;s firm stance on sustained peace in West Asia.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:50:05+00:00",
-        "link": "https://newsonair.gov.in/india-and-australia-sign-landmark-deals-on-uranium-supply-and-dedicated-critical-minerals-corridor/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Indo-Pacific_biogeographic_region_map-en.png/1280px-Indo-Pacific_biogeographic_region_map-en.png",
-        "image_credit": "Wikipedia – Indo-Pacific (CC BY-SA)",
+        "pubDate": "2026-07-10T07:12:43+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
+        "post_id": 1729413,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -311,6 +292,28 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T05:41:29+00:00",
         "link": "https://newsonair.gov.in/pm-modi-concludes-state-visit-to-australia/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi meets Australian Opposition Leader Angus Taylor in Melbourne",
+        "summary": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on",
+        "article": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on the growing strength of India-Australia ties and the many opportunities ahead. Mr Modi further said that he deeply values the warmth and broad support that India&#8217;s partnership enjoys across Australia. Akashvani&#8217;s correspondent reports that the meeting highlights the deep bipartisan support that the India-Australia relationship enjoys within the Australian parliament. Backing the strategic partnership, the Opposition Leader has called Prime Minister Narendra Modi &#8220;a true friend of our nation&#8221; and strongly advocates for strengthened ties to defend sovereignty and support Indo-Pacific stability. Aligning with key summit outcomes, Taylor supports the export of Australian uranium to India for peaceful purposes and backs collaborative technological efforts like the International Solar Alliance. This dialogue ensures continuous, rock-solid cooperation across critical security and energy frameworks, regardless of political transitions.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T05:39:58+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-meets-australian-opposition-leader-angus-taylor-in-melbourne/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi to reach Auckland today on a two-day visit to New Zealand",
+        "summary": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome […]",
+        "article": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome Prime Minister Narendra Modi. Along with the Indian diaspora, many New Zealand people are also eager to greet him with the traditional Māori welcome, “Kia Ora Modi&#8221;. Women, youth, business leaders, academics and community members see the visit as the beginning of a new chapter in India-New Zealand relations. They believe it will further strengthen cooperation in trade, education, investment, sports and cultural exchanges. Members of the Indian diaspora say that the visit of an Indian Prime Minister after nearly 40 years is a moment of pride and deep emotion for them. New Zealanders also see the visit as an opportunity to further strengthen the friendship and partnership between the two countries. The Indian community continues to serve as a living bridge between India and New Zealand. Prime Minister Modi’s visit is expected to add fresh momentum to bilateral ties while further strengthening the people-to-people connection between the two nations.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T05:03:27+00:00",
+        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -349,12 +352,12 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India continues to emerge as preferred destination for Global Capability Centres, says FM Nirmala Sitharaman",
-        "summary": "Finance Minister Nirmala Sitharaman has said India continues to emerge as a preferred destination for Global Capability Centres (GCCs) because of its skilled and strong institutions and innovation ecosystem. Addressing the CII National GCC Business Summit in New Delhi, the Finance Minister said, the country hosts more than 2100 GCCs employing 23 lakh professionals directly […]",
-        "article": "Finance Minister Nirmala Sitharaman has said India continues to emerge as a preferred destination for Global Capability Centres (GCCs) because of its skilled and strong institutions and innovation ecosystem. Addressing the CII National GCC Business Summit in New Delhi, the Finance Minister said, the country hosts more than 2100 GCCs employing 23 lakh professionals directly and generating nearly 100 billion US dollars in annual revenue. She said Global Capability Centres represent transformation by bringing together engineering, research, artificial intelligence, cybersecurity, finance, product design, and data science to drive continuous innovation. Ms Sitharaman said, MNCs are now more likely to build their next capability centres in India than anywhere else. She highlighted that India&#8217;s GCC ecosystem represents the world&#8217;s largest organised knowledge export. The Finance Minister said, Indian GCCs are assuming a growing share of global leadership mandates and strategic decision-making responsibilities. She added that India&#8217;s aspiration is not merely to host the world&#8217;s capability centres but to shape the next-generation technologies, products and enterprises of the future. &nbsp;",
+        "title": "IMD issues red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand",
+        "summary": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand today. While in some parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh, heavy to very heavy rainfall is expected today. The weather agency estimated heavy rainfall […]",
+        "article": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand today. While in some parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh, heavy to very heavy rainfall is expected today. The weather agency estimated heavy rainfall over Delhi, Haryana, Chandigarh, Himachal Pradesh, Bihar, East Madhya Pradesh and Madhya Maharashtra over the next 3-4 days. Karnataka, Kerala, Mahe, Nagaland, Manipur, Mizoram, Tripura, Tamil Nadu, Puducherry and Karaikal are expected to witness similar weather conditions during the same period. Meanwhile, since this morning, several areas of the National Capital have been witnessing very light to light rainfall. The Met Department has issued a yellow alert for light to moderate rainfall over the National Capital today.",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T01:53:47+00:00",
-        "link": "https://newsonair.gov.in/india-continues-to-emerge-as-preferred-destination-for-global-capability-centres-says-fm-nirmala-sitharaman/",
+        "pubDate": "2026-07-10T02:49:33+00:00",
+        "link": "https://newsonair.gov.in/imd-issues-red-alert-for-heavy-to-very-heavy-rainfall-with-isolated-extremely-heavy-rainfall-in-uttarakhand/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -362,58 +365,37 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
-        "title": "PM Modi meets Australian Opposition Leader Angus Taylor in Melbourne",
-        "summary": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on",
-        "article": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on the growing strength of India-Australia ties and the many opportunities ahead. Mr Modi further said that he deeply values the warmth and broad support that India&#8217;s partnership enjoys across Australia. Akashvani&#8217;s correspondent reports that the meeting highlights the deep bipartisan support that the India-Australia relationship enjoys within the Australian parliament. Backing the strategic partnership, the Opposition Leader has called Prime Minister Narendra Modi &#8220;a true friend of our nation&#8221; and strongly advocates for strengthened ties to defend sovereignty and support Indo-Pacific stability. Aligning with key summit outcomes, Taylor supports the export of Australian uranium to India for peaceful purposes and backs collaborative technological efforts like the International Solar Alliance. This dialogue ensures continuous, rock-solid cooperation across critical security and energy frameworks, regardless of political transitions.",
+        "title": "Clean energy meets over 50 % of country’s electricity demand for second time: Union Minister Pralhad Joshi",
+        "summary": "New and Renewable Energy Minister Pralhad Joshi today said that clean energy met over 50 percent of the country&#8217;s electricity demand for the second time. In a social media post, Mr Joshi said that renewable sources contributed 50.2 percent of the power supply on the 6th of this month. The Minister called this a testament […]",
+        "article": "New and Renewable Energy Minister Pralhad Joshi today said that clean energy met over 50 percent of the country&#8217;s electricity demand for the second time. In a social media post, Mr Joshi said that renewable sources contributed 50.2 percent of the power supply on the 6th of this month. The Minister called this a testament to the growing strength and reliability of India’s Clean Energy ecosystem. He said that under the leadership of Prime Minister Narendra Modi, India continues to power sustainable growth with speed and determination.",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:39:58+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-meets-australian-opposition-leader-angus-taylor-in-melbourne/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Melbourne_skyline_sor.jpg/1280px-Melbourne_skyline_sor.jpg",
-        "image_credit": "Wikipedia – Melbourne (CC BY-SA)",
+        "pubDate": "2026-07-10T07:18:57+00:00",
+        "link": "https://newsonair.gov.in/clean-energy-meets-over-50-of-countrys-electricity-demand-for-second-time-union-minister-pralhad-joshi/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "PM Modi to reach Auckland today on a two-day visit to New Zealand",
-        "summary": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome […]",
-        "article": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome Prime Minister Narendra Modi. Along with the Indian diaspora, many New Zealand people are also eager to greet him with the traditional Māori welcome, “Kia Ora Modi&#8221;. Women, youth, business leaders, academics and community members see the visit as the beginning of a new chapter in India-New Zealand relations. They believe it will further strengthen cooperation in trade, education, investment, sports and cultural exchanges. Members of the Indian diaspora say that the visit of an Indian Prime Minister after nearly 40 years is a moment of pride and deep emotion for them. New Zealanders also see the visit as an opportunity to further strengthen the friendship and partnership between the two countries. The Indian community continues to serve as a living bridge between India and New Zealand. Prime Minister Modi’s visit is expected to add fresh momentum to bilateral ties while further strengthening the people-to-people connection between the two nations.",
+        "title": "NITI Aayog Member Dr Joram Aniya holds interaction with UNICEF India Representative in New Delhi",
+        "summary": "NITI Aayog Member Dr Joram Aniya held an interaction with UNICEF India Representative Cynthia McCaffrey and her delegation in New Delhi to strengthen collaboration on child-centric development, school education, and human development. According to NITI Aayog, the discussions focused on safe and inclusive learning, foundational literacy and numeracy, teacher education, student well-being, cyber saf",
+        "article": "NITI Aayog Member Dr Joram Aniya held an interaction with UNICEF India Representative Cynthia McCaffrey and her delegation in New Delhi to strengthen collaboration on child-centric development, school education, and human development. According to NITI Aayog, the discussions focused on safe and inclusive learning, foundational literacy and numeracy, teacher education, student well-being, cyber safety, and digital security, particularly in Aspirational Districts and Blocks. During the meeting, Dr Aniya also stressed evidence-based policymaking, community participation, disaster resilience, and the role of women’s Self-Help Groups in improving child welfare and education outcomes.",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:03:27+00:00",
-        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_-_May_2024_%282%29.jpg/1280px-Auckland_skyline_-_May_2024_%282%29.jpg",
-        "image_credit": "Wikipedia – Auckland (CC BY-SA)",
+        "pubDate": "2026-07-10T07:14:09+00:00",
+        "link": "https://newsonair.gov.in/niti-aayog-member-dr-joram-aniya-holds-interaction-with-unicef-india-representative-in-new-delhi/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "IMD issues red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand",
-        "summary": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand today. While in some parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh, heavy to very heavy rainfall is expected today. The weather agency estimated heavy rainfall […]",
-        "article": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand today. While in some parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh, heavy to very heavy rainfall is expected today. The weather agency estimated heavy rainfall over Delhi, Haryana, Chandigarh, Himachal Pradesh, Bihar, East Madhya Pradesh and Madhya Maharashtra over the next 3-4 days. Karnataka, Kerala, Mahe, Nagaland, Manipur, Mizoram, Tripura, Tamil Nadu, Puducherry and Karaikal are expected to witness similar weather conditions during the same period. Meanwhile, since this morning, several areas of the National Capital have been witnessing very light to light rainfall. The Met Department has issued a yellow alert for light to moderate rainfall over the National Capital today.",
+        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
+        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
+        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:49:33+00:00",
-        "link": "https://newsonair.gov.in/imd-issues-red-alert-for-heavy-to-very-heavy-rainfall-with-isolated-extremely-heavy-rainfall-in-uttarakhand/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nanda_Devi_-_Hidden_Summit%2C_Uttarakhand_India_2013.jpg/1280px-Nanda_Devi_-_Hidden_Summit%2C_Uttarakhand_India_2013.jpg",
-        "image_credit": "Wikipedia – Uttarakhand (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMD says Southwest Monsoon covered entire country",
-        "summary": "The India Meteorological Department (IMD) today said that the Southwest Monsoon has covered the entire country. The IMD has issued a red alert for heavy to very heavy rain with isolated extremely heavy rainfall over Uttarakhand tomorrow. According to IMD, parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh will […]",
-        "article": "The India Meteorological Department (IMD) today said that the Southwest Monsoon has covered the entire country. The IMD has issued a red alert for heavy to very heavy rain with isolated extremely heavy rainfall over Uttarakhand tomorrow. According to IMD, parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh will experience heavy to very heavy rainfall on Friday. Further, the weather agency has predicted heavy rainfall over Delhi, Haryana, Chandigarh, Himachal Pradesh, Bihar, East Madhya Pradesh and Madhya Maharashtra over the next four days. Similar conditions will prevail over Karnataka, Kerala, Mahe, Nagaland, Manipur, Mizoram, Tripura, Tamil Nadu, Puducherry and Karaikal during the period. Also, Jammu and Kashmir, Ladakh, Odisha, Jharkhand, Andaman and Nicobar Islands, Andhra Pradesh and Telangana are expected to witness thunderstorms, lightning and gusty winds during the next two days. Meanwhile, parts of Delhi-NCR witnessed light to moderate rain today. There has been no significant change in minimum temperature but there is a fall in maximum temperatures by one to three degree Celsius during the past 24 hours. The Met Department has issued a yellow alert for the National Capital for light to moderate rain tomorrow. The minimum and maximum temperature is likely to hover around 23 and 33 degree Celsius.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:24:54+00:00",
-        "link": "https://newsonair.gov.in/imd-says-southwest-monsoon-covered-entire-country/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/District_Darrang_-_Assam._%28IA_dr_district-darrang-assam-10620000%29.jpg/1280px-District_Darrang_-_Assam._%28IA_dr_district-darrang-assam-10620000%29.jpg",
-        "image_credit": "Wikimedia Commons (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Australia sign Joint Declaration on Defence & Security Cooperation to ensure free & open Indo-Pacific",
-        "summary": "India and Australia today signed a new Joint Declaration on Defence and Security Cooperation to secure peace and stability across the Indo-Pacific region. Both countries also adopted Maritime Security Collaboration Roadmap to promote a free, open and inclusive Indo-Pacific. Both sides finalized the administrative arrangement for the long-term supply of Australian uranium to India. The […]",
-        "article": "India and Australia today signed a new Joint Declaration on Defence and Security Cooperation to secure peace and stability across the Indo-Pacific region. Both countries also adopted Maritime Security Collaboration Roadmap to promote a free, open and inclusive Indo-Pacific. Both sides finalized the administrative arrangement for the long-term supply of Australian uranium to India. The agreements were signed following delegation-level talks between Prime Minister Narendra Modi and his Australian counterpart, Anthony Albanese during the third Australia-India Annual Leaders&#8217; Summit in Melbourne. In a joint press statement after the talks, Prime Minister Modi said that the Indo-Pacific is not just a meeting point of two oceans but showcases the shared aspirations of like-minded democracies like India and Australia. Later briefing the media, Foreign Secretary Vikram Misri said the discussions between Prime Minister Modi and his Australian counterpart Anthony Albanese reflected the growing strategic partnership and close understanding between the two leaders. On the economic front, following a high-powered India-Australia CEOs Forum, both leaders fast-tracked negotiations for the Comprehensive Economic Cooperation Agreement (CECA) to fully build upon the 55 percent surge in two-way trade delivered by the 2022 ECTA pact. Emerging horizons also took center stage, with the operationalization of the Australia-India Partnership for Cyber Critical Technologies and Supply Chains (AI PACTS) and extended Australian support for India&#8217;s historic Gaganyaan human spaceflight program. Addressing evolving regional dynamics, the two maritime powers adopted a historic Joint Declaration on Defense and Security Cooperation alongside a unified Maritime Security Collaboration Roadmap to ensure a free and open Indo-Pacific. The leaders strongly reaffirmed their shared commitment to the Quad as a vital mechanism for counterterrorism and disaster relief, while Prime Minister Modi expressed India&#8217;s firm stance on sustained peace in West Asia.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:50:05+00:00",
-        "link": "https://newsonair.gov.in/india-and-australia-sign-landmark-deals-on-uranium-supply-and-dedicated-critical-minerals-corridor/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Indo-Pacific_biogeographic_region_map-en.png/1280px-Indo-Pacific_biogeographic_region_map-en.png",
-        "image_credit": "Wikipedia – Indo-Pacific (CC BY-SA)",
+        "pubDate": "2026-07-10T07:12:43+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
+        "post_id": 1729413,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -423,6 +405,28 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T05:41:29+00:00",
         "link": "https://newsonair.gov.in/pm-modi-concludes-state-visit-to-australia/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi meets Australian Opposition Leader Angus Taylor in Melbourne",
+        "summary": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on",
+        "article": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on the growing strength of India-Australia ties and the many opportunities ahead. Mr Modi further said that he deeply values the warmth and broad support that India&#8217;s partnership enjoys across Australia. Akashvani&#8217;s correspondent reports that the meeting highlights the deep bipartisan support that the India-Australia relationship enjoys within the Australian parliament. Backing the strategic partnership, the Opposition Leader has called Prime Minister Narendra Modi &#8220;a true friend of our nation&#8221; and strongly advocates for strengthened ties to defend sovereignty and support Indo-Pacific stability. Aligning with key summit outcomes, Taylor supports the export of Australian uranium to India for peaceful purposes and backs collaborative technological efforts like the International Solar Alliance. This dialogue ensures continuous, rock-solid cooperation across critical security and energy frameworks, regardless of political transitions.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T05:39:58+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-meets-australian-opposition-leader-angus-taylor-in-melbourne/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi to reach Auckland today on a two-day visit to New Zealand",
+        "summary": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome […]",
+        "article": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome Prime Minister Narendra Modi. Along with the Indian diaspora, many New Zealand people are also eager to greet him with the traditional Māori welcome, “Kia Ora Modi&#8221;. Women, youth, business leaders, academics and community members see the visit as the beginning of a new chapter in India-New Zealand relations. They believe it will further strengthen cooperation in trade, education, investment, sports and cultural exchanges. Members of the Indian diaspora say that the visit of an Indian Prime Minister after nearly 40 years is a moment of pride and deep emotion for them. New Zealanders also see the visit as an opportunity to further strengthen the friendship and partnership between the two countries. The Indian community continues to serve as a living bridge between India and New Zealand. Prime Minister Modi’s visit is expected to add fresh momentum to bilateral ties while further strengthening the people-to-people connection between the two nations.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T05:03:27+00:00",
+        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -461,12 +465,12 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India continues to emerge as preferred destination for Global Capability Centres, says FM Nirmala Sitharaman",
-        "summary": "Finance Minister Nirmala Sitharaman has said India continues to emerge as a preferred destination for Global Capability Centres (GCCs) because of its skilled and strong institutions and innovation ecosystem. Addressing the CII National GCC Business Summit in New Delhi, the Finance Minister said, the country hosts more than 2100 GCCs employing 23 lakh professionals directly […]",
-        "article": "Finance Minister Nirmala Sitharaman has said India continues to emerge as a preferred destination for Global Capability Centres (GCCs) because of its skilled and strong institutions and innovation ecosystem. Addressing the CII National GCC Business Summit in New Delhi, the Finance Minister said, the country hosts more than 2100 GCCs employing 23 lakh professionals directly and generating nearly 100 billion US dollars in annual revenue. She said Global Capability Centres represent transformation by bringing together engineering, research, artificial intelligence, cybersecurity, finance, product design, and data science to drive continuous innovation. Ms Sitharaman said, MNCs are now more likely to build their next capability centres in India than anywhere else. She highlighted that India&#8217;s GCC ecosystem represents the world&#8217;s largest organised knowledge export. The Finance Minister said, Indian GCCs are assuming a growing share of global leadership mandates and strategic decision-making responsibilities. She added that India&#8217;s aspiration is not merely to host the world&#8217;s capability centres but to shape the next-generation technologies, products and enterprises of the future. &nbsp;",
+        "title": "IMD issues red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand",
+        "summary": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand today. While in some parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh, heavy to very heavy rainfall is expected today. The weather agency estimated heavy rainfall […]",
+        "article": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand today. While in some parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh, heavy to very heavy rainfall is expected today. The weather agency estimated heavy rainfall over Delhi, Haryana, Chandigarh, Himachal Pradesh, Bihar, East Madhya Pradesh and Madhya Maharashtra over the next 3-4 days. Karnataka, Kerala, Mahe, Nagaland, Manipur, Mizoram, Tripura, Tamil Nadu, Puducherry and Karaikal are expected to witness similar weather conditions during the same period. Meanwhile, since this morning, several areas of the National Capital have been witnessing very light to light rainfall. The Met Department has issued a yellow alert for light to moderate rainfall over the National Capital today.",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T01:53:47+00:00",
-        "link": "https://newsonair.gov.in/india-continues-to-emerge-as-preferred-destination-for-global-capability-centres-says-fm-nirmala-sitharaman/",
+        "pubDate": "2026-07-10T02:49:33+00:00",
+        "link": "https://newsonair.gov.in/imd-issues-red-alert-for-heavy-to-very-heavy-rainfall-with-isolated-extremely-heavy-rainfall-in-uttarakhand/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -504,6 +508,28 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/3rd-brics-transport-ministers-meeting-to-begin-in-maharashtras-nagpur-today/",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cave_26%2C_Ajanta.jpg/1280px-Cave_26%2C_Ajanta.jpg",
         "image_credit": "Wikipedia – Maharashtra (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Palestinian Authority President Mahmoud Abbas announces legislative elections in late November",
+        "summary": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The […]",
+        "article": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The decree said the elections aim to strengthen democracy and complete the electoral process in Palestine.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:45:40+00:00",
+        "link": "https://newsonair.gov.in/palestinian-authority-president-mahmoud-abbas-announces-legislative-elections-in-late-november/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
+        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
+        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:12:43+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -560,28 +586,6 @@ window.VM_NEWS = {
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi arrives at Government House in Victoria for 3rd India-Australia Leaders’ Summit",
-        "summary": "Prime Minister Modi arrives at Government House, Victoria for the 3rd annual leader summit. Following the high-powered corporate meetings, the diplomatic centre of gravity has shifted to Government House, Victoria, where Prime Minister Narendra Modi has arrived for the highly anticipated 3rd Annual Leaders&#8217; Summit alongside Australian Prime Minister Anthony Albanese. The two leaders […]",
-        "article": "Prime Minister Modi arrives at Government House, Victoria for the 3rd annual leader summit. Following the high-powered corporate meetings, the diplomatic centre of gravity has shifted to Government House, Victoria, where Prime Minister Narendra Modi has arrived for the highly anticipated 3rd Annual Leaders&#8217; Summit alongside Australian Prime Minister Anthony Albanese. The two leaders are expected to hold comprehensive talks on a host of critical topics. The high-stakes diplomatic deliberations will culminate with joint Press Statements, formalising new long-term institutional agreements between the two vibrant democracies.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T04:14:32+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-arrives-at-government-house-in-victoria-for-3rd-india-australia-leaders-summit/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India’s Aswath S becomes country’s 98th Chess Grandmaster",
-        "summary": "India&#8217;s march towards its 100th Grandmaster gathered momentum yesterday, with 17-year-old Aswath S from Kanyakumari becoming the country&#8217;s 98th Grandmaster after clinching his final GM norm at the 2026 Pune International Grandmaster Round Robin. Needing a win in the final round, Aswath defeated USA&#8217;s FM Kannan Vaidyanathan with the black pieces to complete the […]",
-        "article": "India&#8217;s march towards its 100th Grandmaster gathered momentum yesterday, with 17-year-old Aswath S from Kanyakumari becoming the country&#8217;s 98th Grandmaster after clinching his final GM norm at the 2026 Pune International Grandmaster Round Robin. Needing a win in the final round, Aswath defeated USA&#8217;s FM Kannan Vaidyanathan with the black pieces to complete the Grandmaster title requirements. He finished the tournament with 7 points from 9 rounds, recording six wins, two draws, and one loss to secure second place. Aswath had earned his first GM norm at the Grenke Open last year and his second at the First Saturday GM Round Robin in Budapest in December, where he also crossed the 2500 rating mark. After a slow start in Pune, including a loss to GM Abhijeet Gupta, Aswath bounced back with a strong finish to achieve the biggest milestone of his chess career. He is the latest Indian to achieve the Grandmaster title, continuing the country&#8217;s impressive rise in world chess.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T04:05:36+00:00",
-        "link": "https://newsonair.gov.in/indias-aswath-s-becomes-countrys-98th-chess-grandmaster/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
       }
     ],
     "sports": [
@@ -592,8 +596,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T06:30:09+00:00",
         "link": "https://newsonair.gov.in/mens-cricket-india-to-face-england-in-fourth-t20i-in-bristol-today/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Clifton_Suspension_Bridge_and_the_Observatory_in_Bristol%2C_England.jpg/1280px-Clifton_Suspension_Bridge_and_the_Observatory_in_Bristol%2C_England.jpg",
-        "image_credit": "Wikipedia – Bristol (CC BY-SA)",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Pollock_to_Hussey.jpg",
+        "image_credit": "Wikipedia – Cricket (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -603,8 +607,30 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T12:26:57+00:00",
         "link": "https://newsonair.gov.in/telangana-to-host-8th-khelo-india-youth-games-2026/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/A_typical_charminar_evening.jpg",
-        "image_credit": "Wikipedia – Telangana (CC BY-SA)",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Khelo_India.svg/1280px-Khelo_India.svg.png",
+        "image_credit": "Wikipedia – Khelo India Youth Games (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "FIFA World Cup: Switzerland, Argentina enter quarterfinals",
+        "summary": "In football, Switzerland beat Colombia 4-3 in a penalty shootout in Vancouver to reach the quarterfinals of FIFA World Cup for the first time since 1954. Colombia faltered when Davinson Sánchez smashed his spot-kick against the bar and Cucho Hernández had his effort saved by goalkeeper Gregor Kobel, before Rubén Vargas scored to book a […]",
+        "article": "In football, Switzerland beat Colombia 4-3 in a penalty shootout in Vancouver to reach the quarterfinals of FIFA World Cup for the first time since 1954. Colombia faltered when Davinson Sánchez smashed his spot-kick against the bar and Cucho Hernández had his effort saved by goalkeeper Gregor Kobel, before Rubén Vargas scored to book a quarterfinal date with holders Argentina. The two sides were tied 0-0 after extra time. In another Round of 16 match, Argentina defeated Egypt 3-2 in Atlanta. Argentina was trailing by two goals till 78th minute when the defending champions pulled off a stunning comeback with Cristian Romaro scoring the first goal at 79 minutes. The equalizer came through Messi in 83 minutes while Enzo Fernandez completed the turnaround with the winner in the extra time. With this win Argentina entered the quarter finals of the tournament.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T01:18:40+00:00",
+        "link": "https://newsonair.gov.in/fifa-world-cup-switzerland-argentina-enter-quarterfinals/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpg",
+        "image_credit": "Wikipedia – FIFA World Cup (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Wimbledon: Defending champion Jannik Sinner storms into Men’s Singles semifinal",
+        "summary": "In the Wimbledon Tennis, World No. 1 and defending champion Jannik Sinner has stormed into Men&#8217;s Singles semifinal beating Jan-Lennard Struff of Germany. Sinner defeated Struff in straight sets 7-5, 7-6, 6-3 in the quarter-final match this evening. In Women&#8217;s Singles, Coco Gauff advanced to the Wimbledon semi-finals after defeating fellow American Jessica Pegula 4-6, […]",
+        "article": "In the Wimbledon Tennis, World No. 1 and defending champion Jannik Sinner has stormed into Men&#8217;s Singles semifinal beating Jan-Lennard Struff of Germany. Sinner defeated Struff in straight sets 7-5, 7-6, 6-3 in the quarter-final match this evening. In Women&#8217;s Singles, Coco Gauff advanced to the Wimbledon semi-finals after defeating fellow American Jessica Pegula 4-6, 6-3, 6-3 in a thrilling quarter-final match. In other quarter-finals tomorrow, Czech player Linda Nosková will face Belgian Elise Mertens while Ukrainian player Marta Kostyuk will take on Italian Jasmine Paolini.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T15:46:01+00:00",
+        "link": "https://newsonair.gov.in/wimbledon-tennis-ninth-seed-flavio-cobolli-enters-mens-singles-quarter-finals/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Jannik_Sinner_2025_US_Open.jpg",
+        "image_credit": "Wikipedia – Jannik Sinner (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -669,28 +695,6 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T01:27:33+00:00",
         "link": "https://newsonair.gov.in/england-beat-india-by-125-runs-in-third-t20i/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "FIFA World Cup: Switzerland, Argentina enter quarterfinals",
-        "summary": "In football, Switzerland beat Colombia 4-3 in a penalty shootout in Vancouver to reach the quarterfinals of FIFA World Cup for the first time since 1954. Colombia faltered when Davinson Sánchez smashed his spot-kick against the bar and Cucho Hernández had his effort saved by goalkeeper Gregor Kobel, before Rubén Vargas scored to book a […]",
-        "article": "In football, Switzerland beat Colombia 4-3 in a penalty shootout in Vancouver to reach the quarterfinals of FIFA World Cup for the first time since 1954. Colombia faltered when Davinson Sánchez smashed his spot-kick against the bar and Cucho Hernández had his effort saved by goalkeeper Gregor Kobel, before Rubén Vargas scored to book a quarterfinal date with holders Argentina. The two sides were tied 0-0 after extra time. In another Round of 16 match, Argentina defeated Egypt 3-2 in Atlanta. Argentina was trailing by two goals till 78th minute when the defending champions pulled off a stunning comeback with Cristian Romaro scoring the first goal at 79 minutes. The equalizer came through Messi in 83 minutes while Enzo Fernandez completed the turnaround with the winner in the extra time. With this win Argentina entered the quarter finals of the tournament.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T01:18:40+00:00",
-        "link": "https://newsonair.gov.in/fifa-world-cup-switzerland-argentina-enter-quarterfinals/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Wimbledon: Defending champion Jannik Sinner storms into Men’s Singles semifinal",
-        "summary": "In the Wimbledon Tennis, World No. 1 and defending champion Jannik Sinner has stormed into Men&#8217;s Singles semifinal beating Jan-Lennard Struff of Germany. Sinner defeated Struff in straight sets 7-5, 7-6, 6-3 in the quarter-final match this evening. In Women&#8217;s Singles, Coco Gauff advanced to the Wimbledon semi-finals after defeating fellow American Jessica Pegula 4-6, […]",
-        "article": "In the Wimbledon Tennis, World No. 1 and defending champion Jannik Sinner has stormed into Men&#8217;s Singles semifinal beating Jan-Lennard Struff of Germany. Sinner defeated Struff in straight sets 7-5, 7-6, 6-3 in the quarter-final match this evening. In Women&#8217;s Singles, Coco Gauff advanced to the Wimbledon semi-finals after defeating fellow American Jessica Pegula 4-6, 6-3, 6-3 in a thrilling quarter-final match. In other quarter-finals tomorrow, Czech player Linda Nosková will face Belgian Elise Mertens while Ukrainian player Marta Kostyuk will take on Italian Jasmine Paolini.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T15:46:01+00:00",
-        "link": "https://newsonair.gov.in/wimbledon-tennis-ninth-seed-flavio-cobolli-enters-mens-singles-quarter-finals/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1025,24 +1029,57 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
-        "title": "निस्वार्थ कर्म मानवता की सबसे बड़ी शक्ति है: प्रधानमंत्री मोदी",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा है कि निस्वार्थ कर्म मानवता की सबसे बड़ी शक्ति है। सोशल मीडिया पोस्‍ट में संस्कृत सुभाषितम साझा करते हुए श्री मोदी ने कहा कि सेवा और समर्पण की इसी भावना से प्रेरित होकर देश प्रत्येक नागरिक के जीवन को बेहतर बनाने के संकल्प के साथ आगे बढ़ रहा है।",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा है कि निस्वार्थ कर्म मानवता की सबसे बड़ी शक्ति है। सोशल मीडिया पोस्&#x200d;ट में संस्कृत सुभाषितम साझा करते हुए श्री मोदी ने कहा कि सेवा और समर्पण की इसी भावना से प्रेरित होकर देश प्रत्येक नागरिक के जीवन को बेहतर बनाने के संकल्प के साथ आगे बढ़ रहा है।",
+        "title": "प्रधानमंत्री मोदी ने अपनी ऑस्ट्रेलिया यात्रा को लेकर ऑस्ट्रेलिया सरकार और वहां की जनता का आभार व्यक्त किया",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने अपनी ऑस्ट्रेलिया यात्रा के दौरान मिले भव्‍य स्‍वागत और आतिथ्य के लिए ऑस्ट्रेलिया सरकार और वहां की जनता के साथ-साथ ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ का आभार व्यक्त किया है। ऑस्ट्रेलिया यात्रा के समापन पर सोशल मीडिया पर श्री मोदी ने कहा कि इस यात्रा के परिणामों ने भारत-ऑस्ट्रेलिया साझेदारी को और […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने अपनी ऑस्ट्रेलिया यात्रा के दौरान मिले भव्&#x200d;य स्&#x200d;वागत और आतिथ्य के लिए ऑस्ट्रेलिया सरकार और वहां की जनता के साथ-साथ ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ का आभार व्यक्त किया है। ऑस्ट्रेलिया यात्रा के समापन पर सोशल मीडिया पर श्री मोदी ने कहा कि इस यात्रा के परिणामों ने भारत-ऑस्ट्रेलिया साझेदारी को और मजबूत किया है और विभिन्न क्षेत्रों में सहयोग के नए रास्ते खोले हैं। उन्होंने विश्वास व्यक्त किया कि इस यात्रा से मिली गति दोनों देशों के लिए लाभकारी होगी और वैश्विक समुदाय में सकारात्मक योगदान देगी।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:02:21+00:00",
-        "link": "https://newsonair.gov.in/hi/selfless-service-is-humanitys-greatest-strength-prime-minister-modi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-10-103142.png",
+        "pubDate": "2026-07-10T08:36:19+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-expressed-his-gratitude-to-the-australian-government-and-the-people-of-australia-for-his-visit-to-the-country/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM1iY0CbQAAEOL9.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "मौसम विभाग ने आज देश के कई हिस्सों में मूसलाधार वर्षा की चेतावनी जारी की",
-        "summary": "मौसम विभाग ने उत्तराखंड में आज मूसलाधार वर्षा की चेतावनी जारी की है। अरुणाचल प्रदेश, असम, मेघालय, सिक्किम, पश्चिम बंगाल के तराई क्षेत्रों और उत्तर प्रदेश के कुछ हिस्सों में भी आज मूसलाधार वर्षा का अनुमान है। अगले 3-4 दिनों में दिल्ली, हरियाणा, चंडीगढ़, हिमाचल प्रदेश, बिहार, पूर्वी मध्य प्रदेश और मध्य महाराष्ट्र में तेज […]",
-        "article": "मौसम विभाग ने उत्तराखंड में आज मूसलाधार वर्षा की चेतावनी जारी की है। अरुणाचल प्रदेश, असम, मेघालय, सिक्किम, पश्चिम बंगाल के तराई क्षेत्रों और उत्तर प्रदेश के कुछ हिस्सों में भी आज मूसलाधार वर्षा का अनुमान है। अगले 3-4 दिनों में दिल्ली, हरियाणा, चंडीगढ़, हिमाचल प्रदेश, बिहार, पूर्वी मध्य प्रदेश और मध्य महाराष्ट्र में तेज बारिश के आसार हैं। कर्नाटक, केरलम, माहे, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, तमिलनाडु, पुद्दुचेरी और कारईक्काल में भी ऐसी ही स्थिति रहने की संभावना है। इस बीच, राष्ट्रीय राजधानी के कई इलाकों में आज सुबह से ही हल्की से मध्यम बारिश हो रही है।",
+        "title": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत",
+        "summary": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत हो चुकी है और छह लोग घायल हो गए हैं। स्पेन की सैन्य आपातकालीन इकाई, आने वाले घंटों में आग बुझाने के प्रयासों में शामिल होने हसो सकती है। आग से सड़कें भी बंद हो गईं और […]",
+        "article": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत हो चुकी है और छह लोग घायल हो गए हैं। स्पेन की सैन्य आपातकालीन इकाई, आने वाले घंटों में आग बुझाने के प्रयासों में शामिल होने हसो सकती है। आग से सड़कें भी बंद हो गईं और एक हजार से अधिक लोगों को सुरक्षित स्थानों पर पहुंचाया गया। अधिकारियों ने कहा कि यह आग अब तक इस क्षेत्र में लगी सबसे घातक आग है।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T03:00:28+00:00",
-        "link": "https://newsonair.gov.in/hi/the-meteorological-department-issued-a-warning-for-torrential-rain-in-several-parts-of-the-country-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzN5ZVbwAAGLhh.jpg",
+        "pubDate": "2026-07-10T08:20:56+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a5%87%e0%a4%a8-%e0%a4%95%e0%a5%87-%e0%a4%a6%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a3%e0%a5%80-%e0%a4%ad%e0%a4%be%e0%a4%97-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%ad/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM2i8CvbQAAgtlX.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका के राष्ट्रपति डॉनल्‍ड ट्रंप और इस्राएल के प्रधानमंत्री बेन्‍यामिन नेतन्याहू के बीच बातचीत",
+        "summary": "अमरीका के राष्ट्रपति डॉनल्‍ड ट्रंप ने ईरान में हाल में हमलों के बाद इस्राएल के प्रधानमंत्री बेन्‍यामिन नेतन्याहू को खाड़ी क्षेत्र में अमरीकी सेना की नई गतिविधियों के बारे में जानकारी दी है। इस्राएल के प्रधानमंत्री कार्यालय के अनुसार, दोनों नेताओं ने कल रात फोन पर बातचीत की और अमरीका और इस्राएल के बीच विभिन्‍न […]",
+        "article": "अमरीका के राष्ट्रपति डॉनल्&#x200d;ड ट्रंप ने ईरान में हाल में हमलों के बाद इस्राएल के प्रधानमंत्री बेन्&#x200d;यामिन नेतन्याहू को खाड़ी क्षेत्र में अमरीकी सेना की नई गतिविधियों के बारे में जानकारी दी है। इस्राएल के प्रधानमंत्री कार्यालय के अनुसार, दोनों नेताओं ने कल रात फोन पर बातचीत की और अमरीका और इस्राएल के बीच विभिन्&#x200d;न क्षेत्रों में तालमेल बनाए रखने पर सहमति व्&#x200d;यक्&#x200d;त की। इस बीच, ईरान के इस्लामिक रिवोल्यूशनरी गार्ड ने कल दावा किया कि उसने उत्तरी जॉर्डन में अमरीका के अल-अज़राक सैन्&#x200d;य हवाई अड्डे पर दस बैलिस्टिक मिसाइलें दागीं। उसने कहा कि यह हमला तेहरान पर हाल ही में हुए अमरीकी हमले के जवाब में किया गया था। उसने चेतावनी दी कि अमरीका की ओर से किसी भी सैन्य कार्रवाई किए जाने पर जवाब में क्षेत्र में अमरीकी ठिकानों पर और हमले किए जाएंगे।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:12:09+00:00",
+        "link": "https://newsonair.gov.in/hi/talks-between-us-president-donald-trump-and-israeli-prime-minister-benjamin-netanyahu/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "फलस्तीन: राष्ट्रपति महमूद अब्बास ने विधायी चुनाव की घोषणा की",
+        "summary": "फलस्तीन के राष्ट्रपति महमूद अब्बास ने इस वर्ष नवंबर के आखिर में विधायी चुनाव कराने की घोषणा की है। वर्ष 2006 के बाद यह पहला विधायी चुनाव होगा। राष्ट्रपति अब्बास ने 28 नवंबर को यरूशलेम, वेस्ट बैंक और गजा पट्टी समेत सभी फलस्तीन क्षेत्रों में मतदान कराने का आदेश जारी किया है। आदेश में कहा […]",
+        "article": "फलस्तीन के राष्ट्रपति महमूद अब्बास ने इस वर्ष नवंबर के आखिर में विधायी चुनाव कराने की घोषणा की है। वर्ष 2006 के बाद यह पहला विधायी चुनाव होगा। राष्ट्रपति अब्बास ने 28 नवंबर को यरूशलेम, वेस्ट बैंक और गजा पट्टी समेत सभी फलस्तीन क्षेत्रों में मतदान कराने का आदेश जारी किया है। आदेश में कहा गया है कि चुनाव का उद्देश्य फलस्तीन में लोकतांत्रिक प्रक्रिया को मजबूत करना और चुनावी प्रक्रिया को आगे बढ़ाना है।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:38:04+00:00",
+        "link": "https://newsonair.gov.in/hi/palestine-president-mahmoud-abbas-announces-legislative-elections/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ताइवान के राष्ट्रीय रक्षा मंत्रालय ने कहा कि उसके सशस्त्र बल चीन की गतिविधियों पर नजर रखे हुए हैं",
+        "summary": "ताइवान के राष्ट्रीय रक्षा मंत्रालय ने आज द्वीप के आसपास चीन पीपुल्स लिबरेशन आर्मी &#8211; पीएलए के दो विमान, पीएलए नौसेना के पांच पोत और तीन आधिकारिक चीन के जहाजों का पता लगाया। सोशल मीडिया पर मंत्रालय ने कहा कि उसके सशस्त्र बल चीन की गतिविधियों पर नजर रखे हुए हैं। इससे पूर्व भी मंत्रालय […]",
+        "article": "ताइवान के राष्ट्रीय रक्षा मंत्रालय ने आज द्वीप के आसपास चीन पीपुल्स लिबरेशन आर्मी &#8211; पीएलए के दो विमान, पीएलए नौसेना के पांच पोत और तीन आधिकारिक चीन के जहाजों का पता लगाया। सोशल मीडिया पर मंत्रालय ने कहा कि उसके सशस्त्र बल चीन की गतिविधियों पर नजर रखे हुए हैं। इससे पूर्व भी मंत्रालय ने ताइवान के आसपास पीएलए के चार विमान, 9 नौसैनिक पोत और तीन आधिकारिक जहाजों का पता लगाया था। चार विमानों में से तीन ने ताइवान जलडमरूमध्य की मध्य रेखा को पार किया और ताइवान के दक्षिण-पश्चिमी वायु रक्षा पहचान क्षेत्र में प्रवेश किया।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:26:56+00:00",
+        "link": "https://newsonair.gov.in/hi/taiwans-ministry-of-national-defense-stated-that-its-armed-forces-are-monitoring-chinas-activities/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR2.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1080,79 +1117,24 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "सरकार ई85 ईंधन लाने की योजना बना रही: हरदीप सिंह पुरी",
-        "summary": "पेट्रोलियम और प्राकृतिक गैस मंत्री हरदीप सिंह पुरी ने कहा है कि सरकार ई85 ईंधन लाने की योजना बना रही है, जो मानक ई20 पेट्रोल से करीब 20 रुपये प्रति लीटर सस्ता होगा। उन्होंने कहा कि ई85 केवल उन वाहनों के लिए उपलब्ध होगा जो विशेष रूप से इस ईंधन के उपयोग के लिए डिज़ाइन […]",
-        "article": "पेट्रोलियम और प्राकृतिक गैस मंत्री हरदीप सिंह पुरी ने कहा है कि सरकार ई85 ईंधन लाने की योजना बना रही है, जो मानक ई20 पेट्रोल से करीब 20 रुपये प्रति लीटर सस्ता होगा। उन्होंने कहा कि ई85 केवल उन वाहनों के लिए उपलब्ध होगा जो विशेष रूप से इस ईंधन के उपयोग के लिए डिज़ाइन किए गए हैं। एक निजी समाचार चैनल को दिए साक्षात्कार में पेट्रोलियम मंत्री ने कहा कि प्रस्तावित कदम का उद्देश्य उपभोक्ताओं को आर्थिक राहत प्रदान करना और साथ ही सरकार के इथेनॉल मिश्रण कार्यक्रम को आगे बढ़ाना है। उन्होंने व्यापक जैव ईंधन नीति का बचाव करते हुए इथेनॉल मिश्रित पेट्रोल से इंजन को होने वाले नुकसान और वाहन के प्रदर्शन से संबंधित चिंताओं को खारिज कर दिया।",
+        "title": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर",
+        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कुवैत की यात्रा पूरी करने के बाद ओमान पहुंच गए हैं। उनके आगमन पर ओमान के विदेश मंत्रालय के महानिदेशक शेख अहमद अल मस्कारी ने उनका स्वागत किया। डॉ. जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर हैं। ओमान यात्रा पूरी करने के बाद, […]",
+        "article": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कुवैत की यात्रा पूरी करने के बाद ओमान पहुंच गए हैं। उनके आगमन पर ओमान के विदेश मंत्रालय के महानिदेशक शेख अहमद अल मस्कारी ने उनका स्वागत किया। डॉ. जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर हैं। ओमान यात्रा पूरी करने के बाद, वे न्यूयॉर्क में संयुक्त राष्ट्र सुरक्षा परिषद के 2028-29 कार्यकाल के लिए भारत के आधिकारिक अभियान की शुरुआत करेंगे। इसके बाद विदेश मंत्री 14 और 15 जुलाई को ब्रुसेल्स में तीसरे भारत-यूरोपीय संघ व्यापार और प्रौद्योगिकी परिषद की बैठक में शामिल होंगे। डॉ. जयशंकर यूरोपीय संघ और बेल्जियम के विदेश मंत्री के साथ बातचीत भी करेंगे।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:23:12+00:00",
-        "link": "https://newsonair.gov.in/hi/government-planning-to-introduce-e85-fuel-hardeep-singh-puri/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Hardeep.jpg",
+        "pubDate": "2026-07-10T01:50:45+00:00",
+        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-on-an-11-day-visit-to-qatar-bahrain-kuwait-oman-new-york-and-brussels/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzH5rtawAE5FAC-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बनाते हैं: अमित शाह",
-        "summary": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा […]",
-        "article": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा कि सरकार देश को पूरी तरह से घुसपैठ मुक्त बनाने के लिए एक मजबूत व्यवस्था का निर्माण कर रही है। श्री शाह कल नई दिल्ली में सीमावर्ती जिलों के पुलिस अधीक्षकों के एक सम्मेलन को संबोधित कर रहे थे। उन्होंने बताया कि नरेंद्र मोदी के नेतृत्व वाली सरकार ने वैज्ञानिक रूप से सीमावर्ती बुनियादी ढांचे में चार सौ प्रतिशत की वृद्धि की है। श्री शाह ने कहा कि सरकार 1600 किलोमीटर से अधिक लंबी भारत-म्यांमार सीमा पर 31 हजार करोड़ रुपये की लागत से बाड़ लगा रही है। उन्होंने इस बात पर जोर दिया कि सीमावर्ती क्षेत्रों में असामान्य कारकों की वजह से होने वाले जनसांख्यिकीय परिवर्तनों की जानकारी जमीनी स्तर से लेकर उच्च स्तर तक जल्द से जल्द पहुंचाई जानी चाहिए। गृह मंत्री ने कहा कि सरकार का उद्देश्य सीमावर्ती क्षेत्रों को सुरक्षित और रहने योग्य बनाते हुए, परोक्ष युद्ध, अवैध घुसपैठ, कट्टरपंथ, मादक पदार्थों की तस्करी, ड्रोन से संबंधित खतरों और जनसांख्यिकीय परिवर्तनों जैसी अन्य सुरक्षा चुनौतियों को रोकना है। इस सम्मेलन में जम्मू-कश्मीर, पंजाब, उत्तराखंड, राजस्थान, गुजरात, उत्तर प्रदेश, बिहार, पश्चिम बंगाल और पूर्वोत्तर राज्यों सहित सीमावर्ती राज्यों और केंद्र शासित प्रदेशों के पुलिस अधीक्षकों ने भाग लिया। सम्&#x200d;मेलन में गृह मंत्रालय के वरिष्ठ अधिकारियों ने भी भाग लिया। सम्मेलन का उद्देश्य संवेदनशील सीमावर्ती क्षेत्रों की वर्तमान स्थिति का आकलन करके प्रवर्तन में सुधार के उपायों की पहचान कर देश के सीमा सुरक्षा ढांचे को मजबूत करना था। यह सम्मेलन केंद्र सरकार के कुछ महीने पहले लिए गए उस निर्णय की पृष्ठभूमि में आयोजित किया गया था जिसमें देश के विभिन्न हिस्सों में हो रहे जनसांख्यिकीय परिवर्तनों की सीमा का अध्ययन करने और उनके लिए जिम्मेदार कारकों की पहचान करने के लिए एक उच्च स्तरीय समिति गठित करने का निर्णय लिया गया था।",
+        "title": "भारत ने संघर्ष-संबंधी यौन हिंसा की कड़ी निंदा की",
+        "summary": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते […]",
+        "article": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते हुए, संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि, राजदूत पी. ​​हरीश ने कहा कि इस तरह की हिंसा दण्ड मुक्ति की प्रचलित संस्कृति के बीच जारी है। उन्&#x200d;होंने कहा कि भारत ऐसे जघन्य कृत्यों की कड़ी निंदा करता है। संयुक्त राष्ट्र महासचिव की रिपोर्ट का संदर्भ देते हुए उन्होंने कहा कि 2025 में सत्यापित मामलों में हुई तीव्र वृद्धि सामूहिक कार्रवाई की तत्काल आवश्यकता को रेखांकित करती है। संयुक्त राष्ट्र शांतिरक्षा में भारत के महत्वपूर्ण योगदानों पर प्रकाश डालते हुए, श्री हरीश ने कहा कि महिला शांतिरक्षकों की तैनाती ने संघर्ष-संबंधी यौन हिंसा से निपटने में &#8220;परिवर्तनकारी प्रभाव&#8221; डाला है। उन्होंने यह घोषणा भी की कि संघर्ष से संबंधित यौन हिंसा को रोकने में उनके उत्कृष्ट प्रयासों के लिए भारतीय शांति रक्षक मेजर मोइज़ यासीन और मेजर सोनिया देवेंद्र नवस्कर को वर्ष 2026 के लिए संयुक्त राष्ट्र महासचिव का मिलिट्री जेंडर ऑफ द ईयर का मान्&#x200d;यता प्रमाणपत्र प्रदान किया जाएगा।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:19:00+00:00",
-        "link": "https://newsonair.gov.in/hi/secure-borders-prosperous-border-regions-and-an-aware-society-together-make-the-country-secure-amit-shah/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzYWyNaoAAXI3z.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कुशल कार्यबल और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों के पसंदीदा देशों में शामिल: वित्त मंत्री",
-        "summary": "वित्त मंत्री निर्मला सीतारामन ने कहा है कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों &#8211; जीसीसी के लिए सबसे पसंदीदा देशों में शामिल है। नई दिल्ली में सीआईआई राष्ट्रीय जीसीसी बिजनेस समिट-2026 को संबोधित करते हुए वित्तमंत्री ने कहा कि देश में इक्कीस सौ से अधिक जीसीसी हैं, जहां […]",
-        "article": "वित्त मंत्री निर्मला सीतारामन ने कहा है कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों &#8211; जीसीसी के लिए सबसे पसंदीदा देशों में शामिल है। नई दिल्ली में सीआईआई राष्ट्रीय जीसीसी बिजनेस समिट-2026 को संबोधित करते हुए वित्तमंत्री ने कहा कि देश में इक्कीस सौ से अधिक जीसीसी हैं, जहां 23 लाख से अधिक लोग प्रत्यक्ष रूप से कार्यरत हैं। इन केंद्रों से हर साल लगभग दस हज़ार करोड़ डॉलर का राजस्व प्राप्त होता है। उन्होंने कहा कि यह केंद्र इंजीनियरिंग, अनुसंधान, आर्टिफिशियल इंटेलीजेंस, साइबर सुरक्षा, वित्त, उत्पाद डिजाइन और डेटा विज्ञान को एक साथ लाकर नवाचार को बढ़ावा दे रहे हैं। वित्त मंत्री ने कहा कि बहुराष्ट्रीय कंपनियां अपने क्षमता केंद्र भारत में स्थापित करने की अधिक इच्छा रखती हैं। उन्होंने बल देकर कहा कि भारत का जीसीसी पारिस्थितिकी तंत्र विश्व का सबसे बड़ा संगठित ज्ञान निर्यात केंद्र है। वित्त मंत्री ने कहा कि भारत की आकांक्षा केवल विश्व के क्षमता केंद्रों की मेजबानी करना ही नहीं है, बल्कि भविष्य की नई प्रौद्योगिकियों और उद्यमों का नेतृत्व करना भी है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T01:46:15+00:00",
-        "link": "https://newsonair.gov.in/hi/india-among-preferred-destinations-for-global-capability-centres-due-to-skilled-workforce-and-innovation-finance-minister/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzJdF4boAA0p-8.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वित्त मंत्री निर्मला सीतारमण ने नेशनल जीसीसी बिजनेस समिट 2026 को किया संबोधित",
-        "summary": "वित्त मंत्री निर्मला सीतारमण ने आज कहा कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार पारिस्थितिकी तंत्र के कारण भारत वैश्विक क्षमता केंद्र (जीसीसी) के लिए पसंदीदा गंतव्य के रूप में उभर रहा है। नई दिल्ली में भारतीय उद्योग परिसंघ द्वारा आयोजित नेशनल जीसीसी बिजनेस समिट 2026 को संबोधित करते हुए, सुश्री सीतारामन ने कहा कि […]",
-        "article": "वित्त मंत्री निर्मला सीतारमण ने आज कहा कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार पारिस्थितिकी तंत्र के कारण भारत वैश्विक क्षमता केंद्र (जीसीसी) के लिए पसंदीदा गंतव्य के रूप में उभर रहा है। नई दिल्ली में भारतीय उद्योग परिसंघ द्वारा आयोजित नेशनल जीसीसी बिजनेस समिट 2026 को संबोधित करते हुए, सुश्री सीतारामन ने कहा कि देश में 2100 से अधिक वैश्विक क्षमता केंद्र हैं, जिनमें 23 लाख पेशेवर प्रत्यक्ष रूप से कार्यरत हैं और लगभग 100 अरब अमरीकी डॉलर का वार्षिक राजस्व उत्पन्न होता है। उन्होंने कहा कि वैश्विक क्षमता केंद्र इंजीनियरिंग, अनुसंधान, एआई, साइबर सुरक्षा, वित्त, उत्पाद डिजाइन और डेटा विज्ञान को एक साथ लाकर निरंतर नवाचार को बढ़ावा देकर परिवर्तन का प्रतिनिधित्व करते हैं।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:37:59+00:00",
-        "link": "https://newsonair.gov.in/hi/finance-minister-nirmala-sitharaman-addressed-the-national-gcc-business-summit-2026/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/निर्मला.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विकसित भारत-2047 के लिए जे.पी. नड्डा का बुद्धिजीवियों से राष्ट्र निर्माण का आह्वान",
-        "summary": "केंद्रीय स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने बुद्धिजीवियों से विकासशील भारत-2047 के लक्ष्य को प्राप्त करने के लिए राष्ट्र निर्माण प्रक्रिया में भागीदार बनने का आह्वान किया। हैदराबाद में आज आयोजित बुद्धिजीवी सम्मेलन को संबोधित करते हुए जेपी नड्डा ने कहा कि केंद्र सरकार का शासन &#8220;सबका साथ, सबका विकास, सबका विश्वास&#8221; […]",
-        "article": "केंद्रीय स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने बुद्धिजीवियों से विकासशील भारत-2047 के लक्ष्य को प्राप्त करने के लिए राष्ट्र निर्माण प्रक्रिया में भागीदार बनने का आह्वान किया। हैदराबाद में आज आयोजित बुद्धिजीवी सम्मेलन को संबोधित करते हुए जेपी नड्डा ने कहा कि केंद्र सरकार का शासन &#8220;सबका साथ, सबका विकास, सबका विश्वास&#8221; और &#8220;सभी के लिए न्याय&#8221; के सिद्धांतों पर आधारित है। उन्होंने कहा कि प्रधानमंत्री नरेंद्र मोदी के नेतृत्व में सरकार का दृष्टिकोण समावेशी विकास, जवाबदेही, प्रभावी कार्यान्वयन और प्रत्येक नागरिक के सम्मान को सुनिश्चित करने पर केंद्रित है। उन्होंने कहा कि सरकार ने ग्रामीण और दूरस्थ क्षेत्रों में बिजली, सड़क संपर्क और आवश्यक बुनियादी ढांचे की पहुंच बढ़ाकर आर्थिक विकास और आम जनता के कल्याण दोनों को प्राथमिकता दी है। श्री नड्डा ने कहा कि बेहतर सड़कों ने किसानों को कृषि उपज को बाजारों तक अधिक कुशलता से पहुंचाने में मदद करके ग्रामीण अर्थव्यवस्थाओं को मजबूत किया है। इससे बेहतर आय और उत्पादकता प्राप्त हुई है। भारत के डिजिटल परिवर्तन का उल्लेख करते हुए नड्डा ने कहा कि डिजिटल भुगतान और प्रत्यक्ष लाभ हस्तांतरण &#8211; डीबीटी ने पारदर्शिता और वित्तीय समावेशन में सुधार किया है। उन्होंने कहा कि क्यूआर कोड आधारित लेनदेन गांवों और छोटे कस्बों में भी आम हो गए हैं। यह देश भर में डिजिटल प्रौद्योगिकी के बढ़ते उपयोग को दर्शाता है। गरीबी उन्मूलन और कल्याणकारी कार्यक्रमों का जिक्र करते हुए उन्होंने कहा कि लाखों लोग गरीबी से बाहर निकल चुके हैं। वहीं लाभार्थियों को आवास, वित्तीय सहायता और स्वास्थ्य देखभाल योजनाओं के तहत सहायता मिलती रहती है। श्री नड्डा ने आयुष्मान भारत को दुनिया का सबसे बड़ा सार्वजनिक स्वास्थ्य बीमा कार्यक्रम बताया। यह पात्र लाभार्थियों को 5 लाख रुपये तक का स्वास्थ्य कवरेज प्रदान करता है। उन्होंने स्वच्छ भारत मिशन का उल्लेख करते हुए कहा कि देश भर में शौचालयों के निर्माण से विशेष रूप से महिलाओं के लिए स्वच्छता और सम्मान में सुधार हुआ है। आंतरिक सुरक्षा पर श्री नड्डा ने बताया कि सरकार ने वामपंथी उग्रवाद के प्रति शून्य-सहिष्णुता नीति अपनाई है। उन्होंने दावा किया कि प्रभावित जिलों की संख्या में पिछले कुछ वर्षों में काफी कमी आई है। श्री नड्डा ने आतंकवाद विरोधी अभियानों में सशस्त्र बलों के पेशेवर रवैये और सटीकता की भी प्रशंसा की। उन्होंने कहा कि आधुनिक प्रौद्योगिकी और उन्नत क्षमताओं के माध्यम से भारत की रक्षा तैयारियों को मजबूत किया गया है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:36:48+00:00",
-        "link": "https://newsonair.gov.in/hi/j-p-nadda-calls-upon-intellectuals-to-contribute-to-nation-building-for-a-viksit-bharat-2047-developed-india-2047/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/J-p-Nadda.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "डीपीआईआईटी ने दो गुणवत्ता नियंत्रण आदेशों में संशोधन किया",
-        "summary": "उद्योग और आंतरिक व्यापार संवर्धन विभाग (डीपीआईआईटी) ने व्यापार सुगमता को बढ़ावा देने और घरेलू जूता निर्माण प्रणाली को मजबूत करने के उद्देश्य से जूता क्षेत्र से संबंधित दो गुणवत्ता नियंत्रण आदेशों (क्यूसीओ) में संशोधन किया है। वाणिज्य और उद्योग मंत्रालय ने बताया कि अधिसूचित संशोधन चमड़े और अन्य सामग्रियों से बने जूता तथा पूर्णतः […]",
-        "article": "उद्योग और आंतरिक व्यापार संवर्धन विभाग ( डीपीआईआईटी) ने व्यापार सुगमता को बढ़ावा देने और घरेलू जूता निर्माण प्रणाली को मजबूत करने के उद्देश्य से जूता क्षेत्र से संबंधित दो गुणवत्ता नियंत्रण आदेशों (क्यूसीओ) में संशोधन किया है। वाणिज्य और उद्योग मंत्रालय ने बताया कि अधिसूचित संशोधन चमड़े और अन्य सामग्रियों से बने जूता तथा पूर्णतः रबर और पूर्णतः पॉलिमर सामग्री और उसके घटकों से बने जूता से संबंधित हैं। संशोधनों के अंतर्गत, पुराने स्टॉक को निपटाने की समयसीमा इस वर्ष की 31 जुलाई से बढ़ाकर अगले वर्ष की इसी तिथि तक कर दी गई है। यह अतिरिक्त एक वर्ष की अवधि निर्माताओं, वितरकों और खुदरा विक्रेताओं को मौजूदा स्टॉक को व्यवस्थित रूप से निपटाने के लिए पर्याप्त समय प्रदान करेगी। इससे अनुपालन का बोझ कम होने, व्यापार में व्यवधान कम होने और यह सुनिश्चित होने की उम्मीद है कि इसके बाद बाजार में केवल बीआईएस प्रमाणित जूता उत्पाद ही बेचे जाएं। संशोधनों में अनुसंधान और विकास के लिए नमूनों के आयात पर छूट भी दी गई है। चमड़े और जूते बनाने वाली कंपनियां अनुसंधान और विकास तथा अन्य गैर-व्यावसायिक उद्देश्यों के लिए प्रतिवर्ष अधिकतम चार हजार पांच सौ जोड़ी जूते आयात कर सकती हैं।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:35:38+00:00",
-        "link": "https://newsonair.gov.in/hi/dpiit-amended-two-quality-control-orders-for-the-footwear-sector/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "‘मेलबर्न मीट्स मोदी’ कार्यक्रम में प्रधानमंत्री मोदी ने कहा- भारत-ऑस्ट्रेलिया गठबंधन नई उल्लेखनीय ऊंचाइयों पर",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने आज ऑस्‍ट्रेलिया के मेलबर्न में ऐतिहासिक मेलबर्न मीट्स मोदी कार्यक्रम में कहा कि भारत-ऑस्ट्रेलिया गठबंधन नई उल्लेखनीय ऊंचाइयों पर पहुंच गया है। बारह वर्षों में ऑस्ट्रेलिया की अपनी तीसरी यात्रा में प्रधानमंत्री ने दस लाख से अधिक प्रवासी भारतीयों को द्विपक्षीय मित्रता का आधार स्तंभ बताया। प्रधानमंत्री ने अधिक विकास &#8211; […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने आज ऑस्&#x200d;ट्रेलिया के मेलबर्न में ऐतिहासिक मेलबर्न मीट्स मोदी कार्यक्रम में कहा कि भारत-ऑस्ट्रेलिया गठबंधन नई उल्लेखनीय ऊंचाइयों पर पहुंच गया है। बारह वर्षों में ऑस्ट्रेलिया की अपनी तीसरी यात्रा में प्रधानमंत्री ने दस लाख से अधिक प्रवासी भारतीयों को द्विपक्षीय मित्रता का आधार स्तंभ बताया। प्रधानमंत्री ने अधिक विकास &#8211; अधिक उपलब्धि के मंत्र से प्रेरित भविष्य के लिए तैयार और विकसित भारत का एक मजबूत रोडमैप प्रस्तुत किया। चिप से लेकर जहाजों तक फैले विनिर्माण इकोसिस्&#x200d;टम का उल्&#x200d;लेख करते हुए उन्होंने कहा कि मेक इन इंडिया अब इलेक्ट्रॉनिक्स, ऑटोमोबाइल और फार्मास्यूटिकल्स में एक वैश्विक ब्रांड है। श्री मोदी ने विश्व के तीसरे सबसे बड़े मेट्रो नेटवर्क और सेमी हाई स्&#x200d;पीड नमो भारत रैपिड रेल तथा वंदे भारत ट्रेनों के तेजी से विस्तार का उल्&#x200d;लेख करते हुए भारत में तीव्र अवसंरचना आधुनिकीकरण को रेखांकित किया। सामरिक सुरक्षा और नवाचार पर प्रधानमंत्री ने भारत के स्वदेशी रक्षा प्लेटफार्मों की वैश्विक विश्वसनीयता और विशेष रूप से ऑपरेशन सिंदूर के अंतर्गत निर्णायक आतंकवाद रोधी हमलों का उल्&#x200d;लेख किया। उन्होंने भारत के विश्व के तीसरे सबसे बड़े स्टार्टअप इकोसिस्टम के रूप में उभरने का की बात कही। प्रधानमंत्री ने भारत की 2030 राष्ट्रमंडल खेलों की मेजबानी और 2036 ओलंपिक के लिए दावेदारी का उल्&#x200d;लेख करते हुए खेल जगत में घनिष्ठ सहयोग का आह्वान किया। प्रधानमंत्री ने नागरिक देवो भव के सार्वभौमिक मंत्र पर बल दिया और दोहराया कि जब भारत म्यांमार में ऑपरेशन ब्रह्मा या श्रीलंका में ऑपरेशन सागर बंधु जैसे संकटों के दौरान मदद का हाथ बढ़ाता है तो वह पासपोर्ट का रंग नहीं देखता। इस अवसर पर ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बानीज़ ने कहा कि इस आयोजन की ऊर्जा स्&#x200d;पष्&#x200d;ट रूप से महसूस की जा सकती है। श्री अल्बानीज़ ने प्रवासी भारतीयों को ऑस्ट्रेलिया की समृद्धि को गति देने वाली एक बहुसांस्कृतिक शक्ति बताया और एक अटूट साझेदारी को आधार देने वाला जीवंत सेतु बताया।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:30:57+00:00",
-        "link": "https://newsonair.gov.in/hi/india-australia-alliance-reaches-new-remarkable-heights-pm-modi-at-melbourne-meets-modi-event/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi-ji.png",
+        "pubDate": "2026-07-10T01:37:00+00:00",
+        "link": "https://newsonair.gov.in/hi/india-strongly-condemned-conflict-related-sexual-violence/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-10-070515-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -1501,6 +1483,61 @@ window.VM_NEWS = {
     ],
     "world": [
       {
+        "title": "प्रधानमंत्री मोदी ने अपनी ऑस्ट्रेलिया यात्रा को लेकर ऑस्ट्रेलिया सरकार और वहां की जनता का आभार व्यक्त किया",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने अपनी ऑस्ट्रेलिया यात्रा के दौरान मिले भव्‍य स्‍वागत और आतिथ्य के लिए ऑस्ट्रेलिया सरकार और वहां की जनता के साथ-साथ ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ का आभार व्यक्त किया है। ऑस्ट्रेलिया यात्रा के समापन पर सोशल मीडिया पर श्री मोदी ने कहा कि इस यात्रा के परिणामों ने भारत-ऑस्ट्रेलिया साझेदारी को और […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने अपनी ऑस्ट्रेलिया यात्रा के दौरान मिले भव्&#x200d;य स्&#x200d;वागत और आतिथ्य के लिए ऑस्ट्रेलिया सरकार और वहां की जनता के साथ-साथ ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ का आभार व्यक्त किया है। ऑस्ट्रेलिया यात्रा के समापन पर सोशल मीडिया पर श्री मोदी ने कहा कि इस यात्रा के परिणामों ने भारत-ऑस्ट्रेलिया साझेदारी को और मजबूत किया है और विभिन्न क्षेत्रों में सहयोग के नए रास्ते खोले हैं। उन्होंने विश्वास व्यक्त किया कि इस यात्रा से मिली गति दोनों देशों के लिए लाभकारी होगी और वैश्विक समुदाय में सकारात्मक योगदान देगी।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:36:19+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-expressed-his-gratitude-to-the-australian-government-and-the-people-of-australia-for-his-visit-to-the-country/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM1iY0CbQAAEOL9.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत",
+        "summary": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत हो चुकी है और छह लोग घायल हो गए हैं। स्पेन की सैन्य आपातकालीन इकाई, आने वाले घंटों में आग बुझाने के प्रयासों में शामिल होने हसो सकती है। आग से सड़कें भी बंद हो गईं और […]",
+        "article": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत हो चुकी है और छह लोग घायल हो गए हैं। स्पेन की सैन्य आपातकालीन इकाई, आने वाले घंटों में आग बुझाने के प्रयासों में शामिल होने हसो सकती है। आग से सड़कें भी बंद हो गईं और एक हजार से अधिक लोगों को सुरक्षित स्थानों पर पहुंचाया गया। अधिकारियों ने कहा कि यह आग अब तक इस क्षेत्र में लगी सबसे घातक आग है।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:20:56+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a5%87%e0%a4%a8-%e0%a4%95%e0%a5%87-%e0%a4%a6%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a3%e0%a5%80-%e0%a4%ad%e0%a4%be%e0%a4%97-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%ad/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM2i8CvbQAAgtlX.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका के राष्ट्रपति डॉनल्‍ड ट्रंप और इस्राएल के प्रधानमंत्री बेन्‍यामिन नेतन्याहू के बीच बातचीत",
+        "summary": "अमरीका के राष्ट्रपति डॉनल्‍ड ट्रंप ने ईरान में हाल में हमलों के बाद इस्राएल के प्रधानमंत्री बेन्‍यामिन नेतन्याहू को खाड़ी क्षेत्र में अमरीकी सेना की नई गतिविधियों के बारे में जानकारी दी है। इस्राएल के प्रधानमंत्री कार्यालय के अनुसार, दोनों नेताओं ने कल रात फोन पर बातचीत की और अमरीका और इस्राएल के बीच विभिन्‍न […]",
+        "article": "अमरीका के राष्ट्रपति डॉनल्&#x200d;ड ट्रंप ने ईरान में हाल में हमलों के बाद इस्राएल के प्रधानमंत्री बेन्&#x200d;यामिन नेतन्याहू को खाड़ी क्षेत्र में अमरीकी सेना की नई गतिविधियों के बारे में जानकारी दी है। इस्राएल के प्रधानमंत्री कार्यालय के अनुसार, दोनों नेताओं ने कल रात फोन पर बातचीत की और अमरीका और इस्राएल के बीच विभिन्&#x200d;न क्षेत्रों में तालमेल बनाए रखने पर सहमति व्&#x200d;यक्&#x200d;त की। इस बीच, ईरान के इस्लामिक रिवोल्यूशनरी गार्ड ने कल दावा किया कि उसने उत्तरी जॉर्डन में अमरीका के अल-अज़राक सैन्&#x200d;य हवाई अड्डे पर दस बैलिस्टिक मिसाइलें दागीं। उसने कहा कि यह हमला तेहरान पर हाल ही में हुए अमरीकी हमले के जवाब में किया गया था। उसने चेतावनी दी कि अमरीका की ओर से किसी भी सैन्य कार्रवाई किए जाने पर जवाब में क्षेत्र में अमरीकी ठिकानों पर और हमले किए जाएंगे।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:12:09+00:00",
+        "link": "https://newsonair.gov.in/hi/talks-between-us-president-donald-trump-and-israeli-prime-minister-benjamin-netanyahu/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "फलस्तीन: राष्ट्रपति महमूद अब्बास ने विधायी चुनाव की घोषणा की",
+        "summary": "फलस्तीन के राष्ट्रपति महमूद अब्बास ने इस वर्ष नवंबर के आखिर में विधायी चुनाव कराने की घोषणा की है। वर्ष 2006 के बाद यह पहला विधायी चुनाव होगा। राष्ट्रपति अब्बास ने 28 नवंबर को यरूशलेम, वेस्ट बैंक और गजा पट्टी समेत सभी फलस्तीन क्षेत्रों में मतदान कराने का आदेश जारी किया है। आदेश में कहा […]",
+        "article": "फलस्तीन के राष्ट्रपति महमूद अब्बास ने इस वर्ष नवंबर के आखिर में विधायी चुनाव कराने की घोषणा की है। वर्ष 2006 के बाद यह पहला विधायी चुनाव होगा। राष्ट्रपति अब्बास ने 28 नवंबर को यरूशलेम, वेस्ट बैंक और गजा पट्टी समेत सभी फलस्तीन क्षेत्रों में मतदान कराने का आदेश जारी किया है। आदेश में कहा गया है कि चुनाव का उद्देश्य फलस्तीन में लोकतांत्रिक प्रक्रिया को मजबूत करना और चुनावी प्रक्रिया को आगे बढ़ाना है।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:38:04+00:00",
+        "link": "https://newsonair.gov.in/hi/palestine-president-mahmoud-abbas-announces-legislative-elections/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ताइवान के राष्ट्रीय रक्षा मंत्रालय ने कहा कि उसके सशस्त्र बल चीन की गतिविधियों पर नजर रखे हुए हैं",
+        "summary": "ताइवान के राष्ट्रीय रक्षा मंत्रालय ने आज द्वीप के आसपास चीन पीपुल्स लिबरेशन आर्मी &#8211; पीएलए के दो विमान, पीएलए नौसेना के पांच पोत और तीन आधिकारिक चीन के जहाजों का पता लगाया। सोशल मीडिया पर मंत्रालय ने कहा कि उसके सशस्त्र बल चीन की गतिविधियों पर नजर रखे हुए हैं। इससे पूर्व भी मंत्रालय […]",
+        "article": "ताइवान के राष्ट्रीय रक्षा मंत्रालय ने आज द्वीप के आसपास चीन पीपुल्स लिबरेशन आर्मी &#8211; पीएलए के दो विमान, पीएलए नौसेना के पांच पोत और तीन आधिकारिक चीन के जहाजों का पता लगाया। सोशल मीडिया पर मंत्रालय ने कहा कि उसके सशस्त्र बल चीन की गतिविधियों पर नजर रखे हुए हैं। इससे पूर्व भी मंत्रालय ने ताइवान के आसपास पीएलए के चार विमान, 9 नौसैनिक पोत और तीन आधिकारिक जहाजों का पता लगाया था। चार विमानों में से तीन ने ताइवान जलडमरूमध्य की मध्य रेखा को पार किया और ताइवान के दक्षिण-पश्चिमी वायु रक्षा पहचान क्षेत्र में प्रवेश किया।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:26:56+00:00",
+        "link": "https://newsonair.gov.in/hi/taiwans-ministry-of-national-defense-stated-that-its-armed-forces-are-monitoring-chinas-activities/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "ईरान के पूर्व सर्वोच्च नेता अयातुल्ला अली खामेनेई को मशहद स्थित इमाम रजा दरगाह में दी गई अंतिम विदाई",
         "summary": "ईरान के पूर्व सर्वोच्च नेता अयातुल्ला अली खामेनेई को मशहद स्थित इमाम रजा दरगाह में अंतिम विदाई दी गई। हजारों समर्थक उनके अंतिम दर्शन के लिए एकत्रित हुए। ईरानी मीडिया ने बताया कि उनके सबसे बड़े बेटे, सैयद मुस्तफा खामेनेई ने अंतिम संस्कार की रस्में पूरी कीं। इस वर्ष 28 फरवरी को अमरीका-इजरायल के हमलों […]",
         "article": "ईरान के पूर्व सर्वोच्च नेता अयातुल्ला अली खामेनेई को मशहद स्थित इमाम रजा दरगाह में अंतिम विदाई दी गई। हजारों समर्थक उनके अंतिम दर्शन के लिए एकत्रित हुए। ईरानी मीडिया ने बताया कि उनके सबसे बड़े बेटे, सैयद मुस्तफा खामेनेई ने अंतिम संस्कार की रस्में पूरी कीं। इस वर्ष 28 फरवरी को अमरीका-इजरायल के हमलों में अयातुल्ला अली खामेनेई की हत्या कर दी गई थी, जिसके बाद पश्चिम एशिया क्षेत्र में संघर्ष तेज हो गया था। खामेनेई की मृत्यु के बाद उनके बेटे मोजतबा खामेनेई को इस्लामी गणराज्य का नया सर्वोच्च नेता चुना गया।",
@@ -1553,61 +1590,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/india-strongly-condemned-conflict-related-sexual-violence/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-10-070515-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "‘मेलबर्न मीट्स मोदी’ कार्यक्रम में प्रधानमंत्री मोदी ने कहा- भारत-ऑस्ट्रेलिया गठबंधन नई उल्लेखनीय ऊंचाइयों पर",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने आज ऑस्‍ट्रेलिया के मेलबर्न में ऐतिहासिक मेलबर्न मीट्स मोदी कार्यक्रम में कहा कि भारत-ऑस्ट्रेलिया गठबंधन नई उल्लेखनीय ऊंचाइयों पर पहुंच गया है। बारह वर्षों में ऑस्ट्रेलिया की अपनी तीसरी यात्रा में प्रधानमंत्री ने दस लाख से अधिक प्रवासी भारतीयों को द्विपक्षीय मित्रता का आधार स्तंभ बताया। प्रधानमंत्री ने अधिक विकास &#8211; […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने आज ऑस्&#x200d;ट्रेलिया के मेलबर्न में ऐतिहासिक मेलबर्न मीट्स मोदी कार्यक्रम में कहा कि भारत-ऑस्ट्रेलिया गठबंधन नई उल्लेखनीय ऊंचाइयों पर पहुंच गया है। बारह वर्षों में ऑस्ट्रेलिया की अपनी तीसरी यात्रा में प्रधानमंत्री ने दस लाख से अधिक प्रवासी भारतीयों को द्विपक्षीय मित्रता का आधार स्तंभ बताया। प्रधानमंत्री ने अधिक विकास &#8211; अधिक उपलब्धि के मंत्र से प्रेरित भविष्य के लिए तैयार और विकसित भारत का एक मजबूत रोडमैप प्रस्तुत किया। चिप से लेकर जहाजों तक फैले विनिर्माण इकोसिस्&#x200d;टम का उल्&#x200d;लेख करते हुए उन्होंने कहा कि मेक इन इंडिया अब इलेक्ट्रॉनिक्स, ऑटोमोबाइल और फार्मास्यूटिकल्स में एक वैश्विक ब्रांड है। श्री मोदी ने विश्व के तीसरे सबसे बड़े मेट्रो नेटवर्क और सेमी हाई स्&#x200d;पीड नमो भारत रैपिड रेल तथा वंदे भारत ट्रेनों के तेजी से विस्तार का उल्&#x200d;लेख करते हुए भारत में तीव्र अवसंरचना आधुनिकीकरण को रेखांकित किया। सामरिक सुरक्षा और नवाचार पर प्रधानमंत्री ने भारत के स्वदेशी रक्षा प्लेटफार्मों की वैश्विक विश्वसनीयता और विशेष रूप से ऑपरेशन सिंदूर के अंतर्गत निर्णायक आतंकवाद रोधी हमलों का उल्&#x200d;लेख किया। उन्होंने भारत के विश्व के तीसरे सबसे बड़े स्टार्टअप इकोसिस्टम के रूप में उभरने का की बात कही। प्रधानमंत्री ने भारत की 2030 राष्ट्रमंडल खेलों की मेजबानी और 2036 ओलंपिक के लिए दावेदारी का उल्&#x200d;लेख करते हुए खेल जगत में घनिष्ठ सहयोग का आह्वान किया। प्रधानमंत्री ने नागरिक देवो भव के सार्वभौमिक मंत्र पर बल दिया और दोहराया कि जब भारत म्यांमार में ऑपरेशन ब्रह्मा या श्रीलंका में ऑपरेशन सागर बंधु जैसे संकटों के दौरान मदद का हाथ बढ़ाता है तो वह पासपोर्ट का रंग नहीं देखता। इस अवसर पर ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बानीज़ ने कहा कि इस आयोजन की ऊर्जा स्&#x200d;पष्&#x200d;ट रूप से महसूस की जा सकती है। श्री अल्बानीज़ ने प्रवासी भारतीयों को ऑस्ट्रेलिया की समृद्धि को गति देने वाली एक बहुसांस्कृतिक शक्ति बताया और एक अटूट साझेदारी को आधार देने वाला जीवंत सेतु बताया।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:30:57+00:00",
-        "link": "https://newsonair.gov.in/hi/india-australia-alliance-reaches-new-remarkable-heights-pm-modi-at-melbourne-meets-modi-event/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi-ji.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ऑस्ट्रेलिया भारत को लौटाएगा तीन प्राचीन सांस्कृतिक धरोहरें",
-        "summary": "आधुनिक कूटनीति की नींव रखने वाली सभ्यतागत समानता का एक गहरा प्रमाण देते हुए, सांस्कृतिक रूप से महत्वपूर्ण तीन प्राचीन कलाकृतियों को ऑस्ट्रेलिया भारत को लौटाने जा रहा है। संस्कृति मंत्रालय ने बताया कि इन कलाकृतियों में देवी भद्रकाली का एक कांस्य त्रिशूल, नंदी की एक भव्य ग्रेनाइट प्रतिमा और छह सिर वाले कार्तिकेय की […]",
-        "article": "आधुनिक कूटनीति की नींव रखने वाली सभ्यतागत समानता का एक गहरा प्रमाण देते हुए, सांस्कृतिक रूप से महत्वपूर्ण तीन प्राचीन कलाकृतियों को ऑस्ट्रेलिया भारत को लौटाने जा रहा है। संस्कृति मंत्रालय ने बताया कि इन कलाकृतियों में देवी भद्रकाली का एक कांस्य त्रिशूल, नंदी की एक भव्य ग्रेनाइट प्रतिमा और छह सिर वाले कार्तिकेय की बेसाल्ट पत्थर की एक मूर्ति शामिल हैं। ये सभी वस्तुएँ 11वीं और 12वीं शताब्दी की हैं और मूल रूप से तमिलनाडु के ऐतिहासिक मंदिरों से प्राप्त की गई थीं। इस प्रत्यावर्तन की आधिकारिक घोषणा प्रधानमंत्री नरेंद्र मोदी की ऑस्ट्रेलिया यात्रा के साथ हुई है। यह दोनों देशों के बीच मजबूत सांस्कृतिक जुड़ाव को भी दर्शाता है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:17:09+00:00",
-        "link": "https://newsonair.gov.in/hi/australia-to-return-three-ancient-cultural-artifacts-to-india/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/आस्ट्रेलिया.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत की तीन प्राचीन कलाकृतियों को वापस लौटाएगा ऑस्ट्रेलिया",
-        "summary": "आधुनिक कूटनीति की नींव रखने वाली सभ्यतागत समानता का एक गहरा प्रमाण देते हुए, सांस्कृतिक रूप से महत्वपूर्ण तीन प्राचीन कलाकृतियों को ऑस्ट्रेलिया भारत को लौटाने जा रहा है। संस्कृति मंत्रालय ने बताया कि इन कलाकृतियों में देवी भद्रकाली का एक कांस्य त्रिशूल, नंदी की एक भव्य ग्रेनाइट प्रतिमा और छह सिर वाले कार्तिकेय की […]",
-        "article": "आधुनिक कूटनीति की नींव रखने वाली सभ्यतागत समानता का एक गहरा प्रमाण देते हुए, सांस्कृतिक रूप से महत्वपूर्ण तीन प्राचीन कलाकृतियों को ऑस्ट्रेलिया भारत को लौटाने जा रहा है। संस्कृति मंत्रालय ने बताया कि इन कलाकृतियों में देवी भद्रकाली का एक कांस्य त्रिशूल, नंदी की एक भव्य ग्रेनाइट प्रतिमा और छह सिर वाले कार्तिकेय की बेसाल्ट पत्थर की एक मूर्ति शामिल हैं। ये सभी वस्तुएँ 11वीं और 12वीं शताब्दी की हैं और मूल रूप से तमिलनाडु के ऐतिहासिक मंदिरों से प्राप्त की गई थीं। इस प्रत्यावर्तन की आधिकारिक घोषणा प्रधानमंत्री नरेंद्र मोदी की ऑस्ट्रेलिया यात्रा के साथ हुई है। यह दोनों देशों के बीच मजबूत सांस्कृतिक जुड़ाव को भी दर्शाता है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:05:30+00:00",
-        "link": "https://newsonair.gov.in/hi/australia-to-return-three-ancient-indian-artefacts/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/आस्ट्रेलिया.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ऑस्ट्रेलिया की बेहद सफल राजकीय यात्रा का समापन कर, कल अगले चरण की यात्रा की शुरुआत करेंगे प्रधानमंत्री मोदी",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी की ऑस्ट्रेलिया की बेहद सफल राजकीय यात्रा का समापन हो रहा है। मेलबर्न में कल उनका कार्यक्रम समाप्त होगा। इसके बाद वे अपनी तीन देशों की यात्रा के अगले चरण की शुरुआत करेंगे। दिन की शुरुआत आज राजनयिक मुलाकात से हुई, जब प्रधानमंत्री नरेंद्र मोदी ने विपक्ष के नेता एंगस टेलर से […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी की ऑस्ट्रेलिया की बेहद सफल राजकीय यात्रा का समापन हो रहा है। मेलबर्न में कल उनका कार्यक्रम समाप्त होगा। इसके बाद वे अपनी तीन देशों की यात्रा के अगले चरण की शुरुआत करेंगे। दिन की शुरुआत आज राजनयिक मुलाकात से हुई, जब प्रधानमंत्री नरेंद्र मोदी ने विपक्ष के नेता एंगस टेलर से मुलाकात की प्रधानमंत्री मोदी, ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बानीज़ के साथ प्रतिष्ठित मेलबर्न क्रिकेट ग्राउंड &#8211; एमसीजी का दौरा करेंगे। द्विपक्षीय सहयोग के तेजी से बढ़ते क्षेत्र के रूप में खेलों का जिक्र करते हुए दोनों नेता इस अवसर पर ऐतिहासिक भारत-ऑस्ट्रेलिया खेल सहयोग रोडमैप का अनावरण करेंगे। भारत 2030 में राष्ट्रमंडल खेलों की मेजबानी करने जा रहा है और ऑस्ट्रेलिया 2032 में ओलंपिक खेलों की मेजबानी करेगा। ऐसे में यह रणनीतिक रोडमैप सहयोग के व्यापक अवसर के द्वार खोलने का वचन देता है। इससे क्रिकेट के साथ-साथ खेल भी दोनों लोकतंत्रों को जोड़ने वाले एक शक्तिशाली &#8220;जीवंत सेतु&#8221; के रूप में और अधिक मजबूत होंगे। यह यादगार राजकीय यात्रा कल दोपहर आधिकारिक रूप से समाप्त हो जाएगी। प्रधानमंत्री और उनका प्रतिनिधिमंडल मेलबर्न से रवाना होकर तस्मान सागर पार करते हुए ऑकलैंड, न्यूजीलैंड के लिए रवाना होगा, जहां से इस तीन देशों की यात्रा का अंतिम चरण शुरू होगा।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:38:36+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-concludes-his-highly-successful-state-visit-to-australia-and-begins-the-next-leg-of-his-visit-tomorrow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modiiiiii.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "चीन के जिनजियांग शहर में आज एक जूता कारखाने में लगी भीषण आग में 28 लोगों की मौत",
-        "summary": "चीन के जिनजियांग शहर में आज एक जूता कारखाने में लगी भीषण आग में 28 लोगों की मौत हो गई। आपातकालीन प्रबंधन मंत्रालय ने राहत और बचाव कार्यों के लिए पूर्वी चीन के फुजियान प्रांत के क्वानझोउ स्थित जिनजियांग शहर में एक संयुक्त कार्य दल भेजा है। मंत्रालय ने बताया कि कारखाने में दोपहर करीब […]",
-        "article": "चीन के जिनजियांग शहर में आज एक जूता कारखाने में लगी भीषण आग में 28 लोगों की मौत हो गई। आपातकालीन प्रबंधन मंत्रालय ने राहत और बचाव कार्यों के लिए पूर्वी चीन के फुजियान प्रांत के क्वानझोउ स्थित जिनजियांग शहर में एक संयुक्त कार्य दल भेजा है। मंत्रालय ने बताया कि कारखाने में दोपहर करीब 12 बजे आग लगी। घटना के वीडियो में आग पूरी इमारत और आसपास की इमारतों को अपनी चपेट में लेती हुई दिखाई दे रही है। चीन के राष्ट्रपति शी जिनपिंग ने अधिकारियों को तलाश और बचाव अभियान चलाने, दुर्घटना के कारण का पता लगाने और दोषियों को सजा दिलाने के लिए हरसंभव प्रयास करने का निर्देश दिया है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:26:52+00:00",
-        "link": "https://newsonair.gov.in/hi/twenty-eight-people-died-in-a-massive-fire-at-a-shoe-factory-in-chinas-jinjiang-city-today/",
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
