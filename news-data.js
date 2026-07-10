@@ -1,6 +1,6 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-10T00:34:42.957454",
+  "generated": "2026-07-10T02:40:57.254762",
   "en": {
     "top": [
       {
@@ -10,8 +10,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:24:54+00:00",
         "link": "https://newsonair.gov.in/imd-says-southwest-monsoon-covered-entire-country/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607044589f-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/District_Darrang_-_Assam._%28IA_dr_district-darrang-assam-10620000%29.jpg/1280px-District_Darrang_-_Assam._%28IA_dr_district-darrang-assam-10620000%29.jpg",
+        "image_credit": "Wikimedia Commons (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -21,52 +21,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T15:50:05+00:00",
         "link": "https://newsonair.gov.in/india-and-australia-sign-landmark-deals-on-uranium-supply-and-dedicated-critical-minerals-corridor/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-to-hold-Annual-Summit-talks-with-Australian-PM-Anthony-Albanese.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi says, India aspires to be one of world’s top three economies driven by motto of Grow More, Achieve More",
-        "summary": "Prime Minister Narendra Modi today said, India&#8217;s aspiration to become one of the world&#8217;s top three economies at the earliest is driven by the motto of &#8220;Grow more, achieve more. Addressing a roaring crowd at Marvel Stadium for the historic &#8220;Melbourne Meets Modi&#8221; reception in Australia, the Prime Minister hailed the vibrant, one-million-strong diaspora […]",
-        "article": "Prime Minister Narendra Modi today said, India&#8217;s aspiration to become one of the world&#8217;s top three economies at the earliest is driven by the motto of &#8220;Grow more, achieve more. Addressing a roaring crowd at Marvel Stadium for the historic &#8220;Melbourne Meets Modi&#8221; reception in Australia, the Prime Minister hailed the vibrant, one-million-strong diaspora as a foundation pillar of bilateral friendship. Completing a diplomatic &#8220;hat-trick&#8221; with his third visit to Australia over twelve years, t he Prime Minister highlighted a manufacturing ecosystem stretching &#8220;from chips to ships,&#8221;. He noted that &#8220;Make in India&#8221; is a global brand across electronics, automobiles, and pharmaceuticals. India’s rapid infrastructure modernization took center stage, with the Prime Minister spotlighting the country&#8217;s rise as the world’s third-largest metro network alongside the swift expansion of semi-high-speed Namo Bharat Rapid Rail and Vande Bharat systems. Turning to strategic security and innovation, the Prime Minister highlighted the global credibility of India&#8217;s indigenous defense platforms, specifically citing the definitive anti-terror strikes executed under Operation Sindoor. He also celebrated India&#8217;s emergence as the world&#8217;s third-largest startup ecosystem, noting an upcoming milestone where a domestic space startup will launch a satellite using its own rocket. Looking ahead, he invited closer sports collaboration as India prepares to host the 2030 Commonwealth Games and contends for the 2036 Olympics. Crucially, the Prime Minister emphasised the universal mantra of &#8220;Nagrik Devo Bhava,&#8221; reiterating that when India extends a helping hand during crises-like Operation Brahma in Myanmar or Operation Sagar Bandhu in Sri Lanka-it never looks at the color of a passport. Australian Prime Minister Anthony Albanese celebrated the rally&#8217;s palpable energy. Recalling his deep connection to India that began as a backpacker in 1991, Albanese lauded the diaspora as a multicultural powerhouse driving Australia&#8217;s prosperity and hailed the community as the ultimate &#8220;living bridge&#8221; anchoring an unstoppable partnership. Our correspondent reports that the deafening cheers inside Marvel Stadium echo a fundamental truth: the India-Australia relationship has evolved far beyond standard diplomacy. Prime Minister Modi’s vision of an aspiring, developed India, from global manufacturing triumphs to critical humanitarian interventions under Operation Brahma, proves that a stronger India serves all of humanity. As Prime Minister Albanese rightfully honoured this thriving community as the ultimate &#8220;living bridge,&#8221; it is clear that the Indian diaspora is actively fueling the economic engines and strategic defence corridors of both nations, ensuring our shared future remains secure, prosperous, and bound by deep mutual trust.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:40:35+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-describes-his-recent-visit-as-hat-trick-reflecting-growing-india-australia-relations/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Australia.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NCW forms high-level Expert Committee to review laws governing IVF clinics",
-        "summary": "Amid growing concerns over irregularities in the rapidly expanding Assisted Reproductive Technology (ART) sector, the National Commission for Women (NCW) today constituted a high-level Expert Committee. It will undertake a comprehensive review of the regulatory framework and concerned laws governing IVF clinics, ART centres and gamete banks, with a focus on protecting the reproductive […]",
-        "article": "Amid growing concerns over irregularities in the rapidly expanding Assisted Reproductive Technology (ART) sector, the National Commission for Women (NCW) today constituted a high-level Expert Committee. It will undertake a comprehensive review of the regulatory framework and concerned laws governing IVF clinics, ART centres and gamete banks, with a focus on protecting the reproductive rights, dignity and safety of women. Former Judge of the Delhi High Court, Justice Asha Menon will chair the expert committee. It will bring together experts from the judiciary, medicine, forensic science, law enforcement, gynaecology, public policy and the Ministry of Health and Family Welfare. The commission has observed that regulatory compliance has not been sufficient to prevent unethical practices. The Commission said that the emergence of medical tourism in the fertility sector has also raised concerns about the possible circumvention of India’s legal safeguards, including those aimed at preventing sex selection. It said, the absence of uniform treatment protocols across states has further highlighted the need for stronger oversight to protect women from unnecessary procedures, inconsistent standards of care and financial exploitation. The committee will also review the implementation of the Assisted Reproductive Technology (Regulation) Act, 2021, the surrogacy (Regulation) Act, 2021, and the relevant Amendment Rules notified in 2026. It will examine existing safeguards relating to consent, privacy and biological traceability, identify regulatory and procedural gaps that may enable exploitation or fraudulent practices and recommend reforms to strengthen institutional accountability. It will also propose Standard Operating Procedures (SOPs) and best practices for ART clinics and IVF Centres to promote ethical treatment practices, standardised clinical protocol and greater transparency across the sector. NCW has reiterated that reproductive healthcare must be guided by the principles of dignity, informed choice, transparency and accountability and that every woman accessing assisted reproductive services must be assured of safety, ethical treatment and protection of her rights.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:34:30+00:00",
-        "link": "https://newsonair.gov.in/ncw-forms-high-level-expert-committee-to-review-laws-governing-ivf-clinics/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NCW-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "UK expresses concern over unrest in PoJK due to brutal crackdown on civilians by Pak security forces",
-        "summary": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party",
-        "article": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party leader and MP, Bob Blackman, said that Pakistani security forces had opened fire on peaceful demonstrators in PoJK, resulting in multiple deaths and injuries of civilians, including British nationals. He asked the British government whether it had summoned Pakistan&#8217;s High Commissioner over the reported violence and what steps had been taken to protect innocent bystanders. Raising the issue in a parliamentary debate, another UK lawmaker, Imran Hussain, voiced serious concern over continued bloodshed, arbitrary arrests and restrictions on communication in PoJK. Hussain said that reports suggesting restrictions on the movement of food and medical supplies into several parts of the region are deeply alarming. He emphasised that respect for the human rights of Kashmiris in PoJK must remain at the heart of any negotiations. The Joint Awami Action Committee, JAAC has warned Pakistan it will launch final action if its demands are unmet, inviting global observers to witness the situation. These demands include economic reforms, fair resource distribution, reduced paramilitary presence, and changes to legislative seat allocations. JAAC leader Sardar Aman Khan has sought humanitarian aid from India, citing shortages due to an alleged blockade and military crackdown. He accused Islamabad of hypocrisy for labelling activists as terrorists.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T14:31:52+00:00",
-        "link": "https://newsonair.gov.in/uk-expresses-concern-over-unrest-in-pojk-due-to-brutal-crackdown-on-civilians-by-pak-security-forces/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "HM Amit Shah reviews security with SPs from border districts to curb illegal immigration",
-        "summary": "Union Home Minister Amit Shah today chaired a conference of Superintendents of Police SPs from border districts in New Delhi. Superintendents of Police from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal and the northeastern state participated in the conference. Senior officials of the Home […]",
-        "article": "Union Home Minister Amit Shah today chaired a conference of Superintendents of Police SPs from border districts in New Delhi. Superintendents of Police from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal and the northeastern state participated in the conference. Senior officials of the Home Ministry also attended the conference. The conference was aimed at strengthening the country&#8217;s border security framework by assessing the prevailing situation in vulnerable frontier regions and identifying measures to improve enforcement. The meeting assumes significance amid the Centre’s intensified campaign against illegal immigration, which has been an organised attempt to alter the demographic composition of districts located along the international border in the eastern part of the country. Apart from infiltration, illegal immigration and demographic changes, border security, drone threats and narcotics trafficking were discussed during the meeting. The conference took place against the backdrop of the Centre’s decision to constitute a high-level committee a few months ago to examine the extent of demographic changes taking place in different parts of the country and identify the factors responsible for them.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T14:30:47+00:00",
-        "link": "https://newsonair.gov.in/hm-amit-shah-to-review-border-security-with-sps-from-border-districts/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Amit-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Indo-Pacific_biogeographic_region_map-en.png/1280px-Indo-Pacific_biogeographic_region_map-en.png",
+        "image_credit": "Wikipedia – Indo-Pacific (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -76,8 +32,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T14:26:23+00:00",
         "link": "https://newsonair.gov.in/brics-women-ministers-meeting-welcomes-indias-proposals-for-brics-digital-capacity-building-guidelines/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sitzung_von_Wiki_Loves_Broadcast_im_Kontor_Hamburg.jpg/1280px-Sitzung_von_Wiki_Loves_Broadcast_im_Kontor_Hamburg.jpg",
+        "image_credit": "Wikipedia – Meeting (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -87,30 +43,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T13:58:39+00:00",
         "link": "https://newsonair.gov.in/cbi-rescue-53-protected-animals-and-birds/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Birds.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "INS Sudarshini’s port call at New York signifies cultural partnership between India & US",
-        "summary": "The Indian Naval Sail Training Ship Sudarshini concluded her port call at New York, USA, marking another significant milestone in the ongoing Lokayan 2026 transoceanic expedition. Defence Ministry said that the visit showcased India&#8217;s rich maritime heritage while further strengthening the strategic and cultural partnership between India and the United States. It carried the […]",
-        "article": "The Indian Naval Sail Training Ship Sudarshini concluded her port call at New York, USA, marking another significant milestone in the ongoing Lokayan 2026 transoceanic expedition. Defence Ministry said that the visit showcased India&#8217;s rich maritime heritage while further strengthening the strategic and cultural partnership between India and the United States. It carried the Indian Navy&#8217;s message of friendship, maritime cooperation and goodwill across the oceans as part of the Lokayan 2026 expedition. As part of the Indian Navy&#8217;s 10-month transoceanic deployment, the indigenously built three-masted barque represented India at the International Naval Review 250 and Sail4th 250 celebrations. It was organised to commemorate the 250th anniversary of the independence of the United States. A major highlight of the visit was INS Sudarshini&#8217;s participation in the spectacular Parade of Sail, during which the ship sailed past the Statue of Liberty and along the Hudson River, proudly flying the Indian National Flag.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T13:53:11+00:00",
-        "link": "https://newsonair.gov.in/ins-sudarshinis-port-call-at-new-york-signifies-cultural-partnership-between-india-us/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/naval-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "QCI-NSIC Partnership to Integrate ZED Certification, Digital Market Access and MSME Support Initiatives",
-        "summary": "The Quality Council of India (QCI) today signed an agreement with National Small Industries Corporation Limited (NSIC) in New Delhi to establish a collaborative ecosystem aimed at strengthening quality, competitiveness and market access for Micro, Small and Medium Enterprises (MSMEs) across the country. The partnership brings together QCI&#8217;s expertise in quality, accreditation and certificati",
-        "article": "The Quality Council of India (QCI) today signed an agreement with National Small Industries Corporation Limited (NSIC) in New Delhi to establish a collaborative ecosystem aimed at strengthening quality, competitiveness and market access for Micro, Small and Medium Enterprises (MSMEs) across the country. The partnership brings together QCI&#8217;s expertise in quality, accreditation and certification with NSIC&#8217;s extensive MSME support ecosystem to accelerate the adoption of globally recognised quality standards and enhance the growth of Indian enterprises. The collaboration seeks to integrate key national initiatives, including the MSME Sustainable Certification Scheme, MSME Global Mart, the TEAM Initiative and the Single Point Registration Scheme. It will facilitate wider adoption of Zero Defect Zero Effect (ZED) Certification, improve digital market access, strengthen testing and accreditation infrastructure, and expand capacity-building opportunities for MSMEs and training institutions. Chairman-cum-Managing Director, NSIC, Dr. Subhransu Sekhar Acharya and Senior Director and Head, National Division for Industry Excellence, QCI, Dr. A. Raj were present on the occasion. Speaking on the occasion, Dr Acharya said that the collaboration would help build a stronger ecosystem that empowers enterprises to compete confidently in both domestic and global markets. Further, Dr Raj said that the partnership would enhance MSME competitiveness, strengthen quality consciousness and further advance QCI&#8217;s National Quality Campaign.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T12:45:34+00:00",
-        "link": "https://newsonair.gov.in/qci-nsic-partnership-to-integrate-zed-certification-digital-market-access-and-msme-support-initiatives/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ZED.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gebirgstrage02_Patient_Seilsicherung.jpg/1280px-Gebirgstrage02_Patient_Seilsicherung.jpg",
+        "image_credit": "Wikipedia – Rescue (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -120,19 +54,85 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T12:00:53+00:00",
         "link": "https://newsonair.gov.in/iran-accuses-us-of-alleged-airstrike-near-nuke-power-plant-in-bushehr/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bushehr_City.jpg",
+        "image_credit": "Wikipedia – Bushehr (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
-        "title": "India and Russia call for concerted action against terrorists and terrorist groups during JWG meeting",
-        "summary": "India and Russia have called for concerted action against terrorists and terrorist groups, including those listed in the UNSC 1267 Sanctions Committee and their proxy groups and affiliates. The 14th meeting of the India-Russia Joint Working Group on Counter Terrorism took place in New Delhi yesterday. The meeting was co-chaired by Secretary (West) […]",
-        "article": "India and Russia have called for concerted action against terrorists and terrorist groups, including those listed in the UNSC 1267 Sanctions Committee and their proxy groups and affiliates. The 14th meeting of the India-Russia Joint Working Group on Counter Terrorism took place in New Delhi yesterday. The meeting was co-chaired by Secretary (West) in the Ministry of External Affairs, Sibi George and Deputy Minister of Foreign Affairs of Russia, Dmitry Lyubinsky. Representatives of relevant departments and agencies from both sides also participated in the meeting. Both sides condemned terrorism in all its forms and manifestations, including cross-border terrorism. They condemned the terrorist attack in Pahalgam on 22 April 2025 and the terror incident near Red Fort on 10th November 2025, in the strongest terms. External Affairs Ministry said in a statement that the two sides shared their experiences in countering terrorism and agreed to enhance cooperation to address challenges of violent extremism, radicalization, terror financing and the use of new and emerging technologies and digital financial technologies for terrorist purposes. They discussed the current and emerging terrorist threats at the global and regional level. Both sides reaffirmed their commitment to strengthening counter-terrorism cooperation in bilateral as well as multilateral platforms including at the UN, BRICS, and SCO.",
+        "title": "US launches fresh airstrikes on Iran; Tehran targets Bahrain, Kuwait and Qatar",
+        "summary": "The United States launched new airstrikes against Iran this morning. Tehran responded by targeting Bahrain, Kuwait and Qatar, escalating crossfire that again threatened an interim deal aimed at ending the war in the Persian Gulf. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of […]",
+        "article": "The United States launched new airstrikes against Iran this morning. Tehran responded by targeting Bahrain, Kuwait and Qatar, escalating crossfire that again threatened an interim deal aimed at ending the war in the Persian Gulf. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz had signalled the end of the fragile ceasefire. The US struck a range of military sites and port facilities early yesterday. The attacks followed Iran&#8217;s targeting of several merchant vessels off the coast of Oman, which triggered an Iranian response. Today&#8217;s attacks appeared to be larger on both sides. Sirens sounded at least twice in Bahrain, home to the US Navy&#8217;s 5th Fleet headquarters. There was no immediate word on damage in Bahrain, Kuwait or Qatar. Kuwait&#8217;s military said it was actively intercepting incoming drones and missiles. Iran&#8217;s Revolutionary Guard claimed responsibility for attacks on Bahrain and Kuwait. The US military&#8217;s Central Command said it struck about 90 targets across Iran. It also released black-and-white footage showing what appeared to be attacks on an airport runway and missile launchers. The US said the strikes were intended to “further degrade” Iran&#8217;s ability to threaten freedom of navigation in the Strait of Hormuz. Iranian state media reported explosions in several locations, including Bushehr, home to Iran&#8217;s nuclear power plant complex, and the southern port cities of Chabahar, Konarak, Bandar Abbas and Sirik. In Iranshahr, authorities said a strike killed a firefighter at an airport.",
         "date": "2026-07-09",
-        "pubDate": "2026-07-09T11:37:58+00:00",
-        "link": "https://newsonair.gov.in/india-and-russia-call-for-concerted-action-against-terrorists-and-terrorist-groups-during-jwg-meeting/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Russia-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-09T06:20:24+00:00",
+        "link": "https://newsonair.gov.in/us-launches-fresh-airstrikes-on-iran-tehran-targets-bahrain-kuwait-and-qatar/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/1280px-North_of_Tehran_Skyline_view.jpg",
+        "image_credit": "Wikipedia – Tehran (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "3rd BRICS Transport Ministers’ Meeting begins in Maharashtra’s Nagpur today",
+        "summary": "Meeting of the BRICS Transport Working Group has begun today in Nagpur on the occasion of the third BRICS Transport Ministers&#8217; Meeting under BRICS 2026 chairship of India. Addressing the media persons, after the Working Group meeting, Union Transport Secretary V. Umashankar said that senior officials deliberated on the main issues of circularity, mobility, […]",
+        "article": "Meeting of the BRICS Transport Working Group has begun today in Nagpur on the occasion of the third BRICS Transport Ministers&#8217; Meeting under BRICS 2026 chairship of India. Addressing the media persons, after the Working Group meeting, Union Transport Secretary V. Umashankar said that senior officials deliberated on the main issues of circularity, mobility, urban infrastructure, and sustainable development. Similarly, best practices in the transport sector and transportation issues were discussed in collaboration with these officials. Meanwhile, 3rd BRICS Transport Ministers&#8217; Meeting which is arranged on 11th and 12th of this month in city of Nagpur will be convened under India&#8217;s BRICS Chairship theme: &#8220;Building for Resilience, Innovation, Cooperation and Sustainability (BRICS)&#8221;. Union Transport Minister Nitin Gadkari will chair the BRICS Transport Ministers’ meeting on the 11th of this month, which will see the participation from Ministers of other member countries. Following the first two pivotal meetings of the Transport Working Group hosted by Russia and Brazil, this third iteration aims to deepen international transport cooperation. Over the two days, senior officials will review the progress of transport cooperation achieved since the Russian and Brazilian Chairships, exchange international best practices and deliberate on emerging areas of collaboration, including Sustainable Aviation Fuel (SAF), urban mobility, multi-modal transport, resilient logistics’ supply chains, decarbonisation and the adoption of expanding AI-based technologies.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:27:31+00:00",
+        "link": "https://newsonair.gov.in/3rd-brics-transport-ministers-meeting-to-begin-in-maharashtras-nagpur-today/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cave_26%2C_Ajanta.jpg/1280px-Cave_26%2C_Ajanta.jpg",
+        "image_credit": "Wikipedia – Maharashtra (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India continues to emerge as preferred destination for Global Capability Centres, says FM Nirmala Sitharaman",
+        "summary": "Finance Minister Nirmala Sitharaman has said India continues to emerge as a preferred destination for Global Capability Centres (GCCs) because of its skilled and strong institutions and innovation ecosystem. Addressing the CII National GCC Business Summit in New Delhi, the Finance Minister said, the country hosts more than 2100 GCCs employing 23 lakh professionals directly […]",
+        "article": "Finance Minister Nirmala Sitharaman has said India continues to emerge as a preferred destination for Global Capability Centres (GCCs) because of its skilled and strong institutions and innovation ecosystem. Addressing the CII National GCC Business Summit in New Delhi, the Finance Minister said, the country hosts more than 2100 GCCs employing 23 lakh professionals directly and generating nearly 100 billion US dollars in annual revenue. She said Global Capability Centres represent transformation by bringing together engineering, research, artificial intelligence, cybersecurity, finance, product design, and data science to drive continuous innovation. Ms Sitharaman said, MNCs are now more likely to build their next capability centres in India than anywhere else. She highlighted that India&#8217;s GCC ecosystem represents the world&#8217;s largest organised knowledge export. The Finance Minister said, Indian GCCs are assuming a growing share of global leadership mandates and strategic decision-making responsibilities. She added that India&#8217;s aspiration is not merely to host the world&#8217;s capability centres but to shape the next-generation technologies, products and enterprises of the future. &nbsp;",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:53:47+00:00",
+        "link": "https://newsonair.gov.in/india-continues-to-emerge-as-preferred-destination-for-global-capability-centres-says-fm-nirmala-sitharaman/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Secure border, prosperous border region & vigilant society together can make country secure: HM Amit Shah",
+        "summary": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, […]",
+        "article": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, the government is creating a robust system to make the country completely infiltration-free. Mr Shah was addressing a conference of Superintendents of Police (SPs) from border districts in New Delhi yesterday. He noted that the Narendra Modi-led government has scientifically increased border infrastructure by four hundred percent. Mr. Shah said the government is fencing the over one thousand six hundred km-long India-Myanmar border at a cost of thirty-one thousand crore rupees. He stressed the importance of ensuring that information on demographic changes caused by abnormal factors in border areas is communicated from the grassroots to the highest level at the earliest. The Home Minister said the government&#8217;s objectives are to prevent proxy war, illegal infiltration, radicalisation, narcotics trafficking, drone-related threats, and demographic changes, among other security challenges, while making border areas safer and more livable. SPs from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal, and northeastern states, participated in the conference. Senior officials of the Home Ministry also attended. The conference aimed to strengthen the country&#8217;s border security framework by assessing the current situation in vulnerable frontier regions and identifying measures to improve enforcement. The conference took place against the backdrop of the Centre&#8217;s decision a few months ago to constitute a high-level committee to examine the extent of demographic changes taking place in different parts of the country and identify the factors responsible for them.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:43:11+00:00",
+        "link": "https://newsonair.gov.in/secure-border-prosperous-border-region-and-vigilant-society-together-can-make-country-secure-hm-amit-shah/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi says, India aspires to be one of world’s top three economies driven by motto of Grow More, Achieve More",
+        "summary": "Prime Minister Narendra Modi today said, India&#8217;s aspiration to become one of the world&#8217;s top three economies at the earliest is driven by the motto of &#8220;Grow more, achieve more. Addressing a roaring crowd at Marvel Stadium for the historic &#8220;Melbourne Meets Modi&#8221; reception in Australia, the Prime Minister hailed the vibrant, one-million-strong diaspora […]",
+        "article": "Prime Minister Narendra Modi today said, India&#8217;s aspiration to become one of the world&#8217;s top three economies at the earliest is driven by the motto of &#8220;Grow more, achieve more. Addressing a roaring crowd at Marvel Stadium for the historic &#8220;Melbourne Meets Modi&#8221; reception in Australia, the Prime Minister hailed the vibrant, one-million-strong diaspora as a foundation pillar of bilateral friendship. Completing a diplomatic &#8220;hat-trick&#8221; with his third visit to Australia over twelve years, t he Prime Minister highlighted a manufacturing ecosystem stretching &#8220;from chips to ships,&#8221;. He noted that &#8220;Make in India&#8221; is a global brand across electronics, automobiles, and pharmaceuticals. India’s rapid infrastructure modernization took center stage, with the Prime Minister spotlighting the country&#8217;s rise as the world’s third-largest metro network alongside the swift expansion of semi-high-speed Namo Bharat Rapid Rail and Vande Bharat systems. Turning to strategic security and innovation, the Prime Minister highlighted the global credibility of India&#8217;s indigenous defense platforms, specifically citing the definitive anti-terror strikes executed under Operation Sindoor. He also celebrated India&#8217;s emergence as the world&#8217;s third-largest startup ecosystem, noting an upcoming milestone where a domestic space startup will launch a satellite using its own rocket. Looking ahead, he invited closer sports collaboration as India prepares to host the 2030 Commonwealth Games and contends for the 2036 Olympics. Crucially, the Prime Minister emphasised the universal mantra of &#8220;Nagrik Devo Bhava,&#8221; reiterating that when India extends a helping hand during crises-like Operation Brahma in Myanmar or Operation Sagar Bandhu in Sri Lanka-it never looks at the color of a passport. Australian Prime Minister Anthony Albanese celebrated the rally&#8217;s palpable energy. Recalling his deep connection to India that began as a backpacker in 1991, Albanese lauded the diaspora as a multicultural powerhouse driving Australia&#8217;s prosperity and hailed the community as the ultimate &#8220;living bridge&#8221; anchoring an unstoppable partnership. Our correspondent reports that the deafening cheers inside Marvel Stadium echo a fundamental truth: the India-Australia relationship has evolved far beyond standard diplomacy. Prime Minister Modi’s vision of an aspiring, developed India, from global manufacturing triumphs to critical humanitarian interventions under Operation Brahma, proves that a stronger India serves all of humanity. As Prime Minister Albanese rightfully honoured this thriving community as the ultimate &#8220;living bridge,&#8221; it is clear that the Indian diaspora is actively fueling the economic engines and strategic defence corridors of both nations, ensuring our shared future remains secure, prosperous, and bound by deep mutual trust.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T15:40:35+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-describes-his-recent-visit-as-hat-trick-reflecting-growing-india-australia-relations/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NCW forms high-level Expert Committee to review laws governing IVF clinics",
+        "summary": "Amid growing concerns over irregularities in the rapidly expanding Assisted Reproductive Technology (ART) sector, the National Commission for Women (NCW) today constituted a high-level Expert Committee. It will undertake a comprehensive review of the regulatory framework and concerned laws governing IVF clinics, ART centres and gamete banks, with a focus on protecting the reproductive […]",
+        "article": "Amid growing concerns over irregularities in the rapidly expanding Assisted Reproductive Technology (ART) sector, the National Commission for Women (NCW) today constituted a high-level Expert Committee. It will undertake a comprehensive review of the regulatory framework and concerned laws governing IVF clinics, ART centres and gamete banks, with a focus on protecting the reproductive rights, dignity and safety of women. Former Judge of the Delhi High Court, Justice Asha Menon will chair the expert committee. It will bring together experts from the judiciary, medicine, forensic science, law enforcement, gynaecology, public policy and the Ministry of Health and Family Welfare. The commission has observed that regulatory compliance has not been sufficient to prevent unethical practices. The Commission said that the emergence of medical tourism in the fertility sector has also raised concerns about the possible circumvention of India’s legal safeguards, including those aimed at preventing sex selection. It said, the absence of uniform treatment protocols across states has further highlighted the need for stronger oversight to protect women from unnecessary procedures, inconsistent standards of care and financial exploitation. The committee will also review the implementation of the Assisted Reproductive Technology (Regulation) Act, 2021, the surrogacy (Regulation) Act, 2021, and the relevant Amendment Rules notified in 2026. It will examine existing safeguards relating to consent, privacy and biological traceability, identify regulatory and procedural gaps that may enable exploitation or fraudulent practices and recommend reforms to strengthen institutional accountability. It will also propose Standard Operating Procedures (SOPs) and best practices for ART clinics and IVF Centres to promote ethical treatment practices, standardised clinical protocol and greater transparency across the sector. NCW has reiterated that reproductive healthcare must be guided by the principles of dignity, informed choice, transparency and accountability and that every woman accessing assisted reproductive services must be assured of safety, ethical treatment and protection of her rights.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T15:34:30+00:00",
+        "link": "https://newsonair.gov.in/ncw-forms-high-level-expert-committee-to-review-laws-governing-ivf-clinics/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "UK expresses concern over unrest in PoJK due to brutal crackdown on civilians by Pak security forces",
+        "summary": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party",
+        "article": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party leader and MP, Bob Blackman, said that Pakistani security forces had opened fire on peaceful demonstrators in PoJK, resulting in multiple deaths and injuries of civilians, including British nationals. He asked the British government whether it had summoned Pakistan&#8217;s High Commissioner over the reported violence and what steps had been taken to protect innocent bystanders. Raising the issue in a parliamentary debate, another UK lawmaker, Imran Hussain, voiced serious concern over continued bloodshed, arbitrary arrests and restrictions on communication in PoJK. Hussain said that reports suggesting restrictions on the movement of food and medical supplies into several parts of the region are deeply alarming. He emphasised that respect for the human rights of Kashmiris in PoJK must remain at the heart of any negotiations. The Joint Awami Action Committee, JAAC has warned Pakistan it will launch final action if its demands are unmet, inviting global observers to witness the situation. These demands include economic reforms, fair resource distribution, reduced paramilitary presence, and changes to legislative seat allocations. JAAC leader Sardar Aman Khan has sought humanitarian aid from India, citing shortages due to an alleged blockade and military crackdown. He accused Islamabad of hypocrisy for labelling activists as terrorists.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T14:31:52+00:00",
+        "link": "https://newsonair.gov.in/uk-expresses-concern-over-unrest-in-pojk-due-to-brutal-crackdown-on-civilians-by-pak-security-forces/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -144,8 +144,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:24:54+00:00",
         "link": "https://newsonair.gov.in/imd-says-southwest-monsoon-covered-entire-country/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607044589f-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/District_Darrang_-_Assam._%28IA_dr_district-darrang-assam-10620000%29.jpg/1280px-District_Darrang_-_Assam._%28IA_dr_district-darrang-assam-10620000%29.jpg",
+        "image_credit": "Wikimedia Commons (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -155,41 +155,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T15:50:05+00:00",
         "link": "https://newsonair.gov.in/india-and-australia-sign-landmark-deals-on-uranium-supply-and-dedicated-critical-minerals-corridor/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-to-hold-Annual-Summit-talks-with-Australian-PM-Anthony-Albanese.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi says, India aspires to be one of world’s top three economies driven by motto of Grow More, Achieve More",
-        "summary": "Prime Minister Narendra Modi today said, India&#8217;s aspiration to become one of the world&#8217;s top three economies at the earliest is driven by the motto of &#8220;Grow more, achieve more. Addressing a roaring crowd at Marvel Stadium for the historic &#8220;Melbourne Meets Modi&#8221; reception in Australia, the Prime Minister hailed the vibrant, one-million-strong diaspora […]",
-        "article": "Prime Minister Narendra Modi today said, India&#8217;s aspiration to become one of the world&#8217;s top three economies at the earliest is driven by the motto of &#8220;Grow more, achieve more. Addressing a roaring crowd at Marvel Stadium for the historic &#8220;Melbourne Meets Modi&#8221; reception in Australia, the Prime Minister hailed the vibrant, one-million-strong diaspora as a foundation pillar of bilateral friendship. Completing a diplomatic &#8220;hat-trick&#8221; with his third visit to Australia over twelve years, t he Prime Minister highlighted a manufacturing ecosystem stretching &#8220;from chips to ships,&#8221;. He noted that &#8220;Make in India&#8221; is a global brand across electronics, automobiles, and pharmaceuticals. India’s rapid infrastructure modernization took center stage, with the Prime Minister spotlighting the country&#8217;s rise as the world’s third-largest metro network alongside the swift expansion of semi-high-speed Namo Bharat Rapid Rail and Vande Bharat systems. Turning to strategic security and innovation, the Prime Minister highlighted the global credibility of India&#8217;s indigenous defense platforms, specifically citing the definitive anti-terror strikes executed under Operation Sindoor. He also celebrated India&#8217;s emergence as the world&#8217;s third-largest startup ecosystem, noting an upcoming milestone where a domestic space startup will launch a satellite using its own rocket. Looking ahead, he invited closer sports collaboration as India prepares to host the 2030 Commonwealth Games and contends for the 2036 Olympics. Crucially, the Prime Minister emphasised the universal mantra of &#8220;Nagrik Devo Bhava,&#8221; reiterating that when India extends a helping hand during crises-like Operation Brahma in Myanmar or Operation Sagar Bandhu in Sri Lanka-it never looks at the color of a passport. Australian Prime Minister Anthony Albanese celebrated the rally&#8217;s palpable energy. Recalling his deep connection to India that began as a backpacker in 1991, Albanese lauded the diaspora as a multicultural powerhouse driving Australia&#8217;s prosperity and hailed the community as the ultimate &#8220;living bridge&#8221; anchoring an unstoppable partnership. Our correspondent reports that the deafening cheers inside Marvel Stadium echo a fundamental truth: the India-Australia relationship has evolved far beyond standard diplomacy. Prime Minister Modi’s vision of an aspiring, developed India, from global manufacturing triumphs to critical humanitarian interventions under Operation Brahma, proves that a stronger India serves all of humanity. As Prime Minister Albanese rightfully honoured this thriving community as the ultimate &#8220;living bridge,&#8221; it is clear that the Indian diaspora is actively fueling the economic engines and strategic defence corridors of both nations, ensuring our shared future remains secure, prosperous, and bound by deep mutual trust.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:40:35+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-describes-his-recent-visit-as-hat-trick-reflecting-growing-india-australia-relations/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Australia.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NCW forms high-level Expert Committee to review laws governing IVF clinics",
-        "summary": "Amid growing concerns over irregularities in the rapidly expanding Assisted Reproductive Technology (ART) sector, the National Commission for Women (NCW) today constituted a high-level Expert Committee. It will undertake a comprehensive review of the regulatory framework and concerned laws governing IVF clinics, ART centres and gamete banks, with a focus on protecting the reproductive […]",
-        "article": "Amid growing concerns over irregularities in the rapidly expanding Assisted Reproductive Technology (ART) sector, the National Commission for Women (NCW) today constituted a high-level Expert Committee. It will undertake a comprehensive review of the regulatory framework and concerned laws governing IVF clinics, ART centres and gamete banks, with a focus on protecting the reproductive rights, dignity and safety of women. Former Judge of the Delhi High Court, Justice Asha Menon will chair the expert committee. It will bring together experts from the judiciary, medicine, forensic science, law enforcement, gynaecology, public policy and the Ministry of Health and Family Welfare. The commission has observed that regulatory compliance has not been sufficient to prevent unethical practices. The Commission said that the emergence of medical tourism in the fertility sector has also raised concerns about the possible circumvention of India’s legal safeguards, including those aimed at preventing sex selection. It said, the absence of uniform treatment protocols across states has further highlighted the need for stronger oversight to protect women from unnecessary procedures, inconsistent standards of care and financial exploitation. The committee will also review the implementation of the Assisted Reproductive Technology (Regulation) Act, 2021, the surrogacy (Regulation) Act, 2021, and the relevant Amendment Rules notified in 2026. It will examine existing safeguards relating to consent, privacy and biological traceability, identify regulatory and procedural gaps that may enable exploitation or fraudulent practices and recommend reforms to strengthen institutional accountability. It will also propose Standard Operating Procedures (SOPs) and best practices for ART clinics and IVF Centres to promote ethical treatment practices, standardised clinical protocol and greater transparency across the sector. NCW has reiterated that reproductive healthcare must be guided by the principles of dignity, informed choice, transparency and accountability and that every woman accessing assisted reproductive services must be assured of safety, ethical treatment and protection of her rights.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:34:30+00:00",
-        "link": "https://newsonair.gov.in/ncw-forms-high-level-expert-committee-to-review-laws-governing-ivf-clinics/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NCW-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "HM Amit Shah reviews security with SPs from border districts to curb illegal immigration",
-        "summary": "Union Home Minister Amit Shah today chaired a conference of Superintendents of Police SPs from border districts in New Delhi. Superintendents of Police from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal and the northeastern state participated in the conference. Senior officials of the Home […]",
-        "article": "Union Home Minister Amit Shah today chaired a conference of Superintendents of Police SPs from border districts in New Delhi. Superintendents of Police from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal and the northeastern state participated in the conference. Senior officials of the Home Ministry also attended the conference. The conference was aimed at strengthening the country&#8217;s border security framework by assessing the prevailing situation in vulnerable frontier regions and identifying measures to improve enforcement. The meeting assumes significance amid the Centre’s intensified campaign against illegal immigration, which has been an organised attempt to alter the demographic composition of districts located along the international border in the eastern part of the country. Apart from infiltration, illegal immigration and demographic changes, border security, drone threats and narcotics trafficking were discussed during the meeting. The conference took place against the backdrop of the Centre’s decision to constitute a high-level committee a few months ago to examine the extent of demographic changes taking place in different parts of the country and identify the factors responsible for them.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T14:30:47+00:00",
-        "link": "https://newsonair.gov.in/hm-amit-shah-to-review-border-security-with-sps-from-border-districts/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Amit-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Indo-Pacific_biogeographic_region_map-en.png/1280px-Indo-Pacific_biogeographic_region_map-en.png",
+        "image_credit": "Wikipedia – Indo-Pacific (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -199,8 +166,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T14:26:23+00:00",
         "link": "https://newsonair.gov.in/brics-women-ministers-meeting-welcomes-indias-proposals-for-brics-digital-capacity-building-guidelines/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sitzung_von_Wiki_Loves_Broadcast_im_Kontor_Hamburg.jpg/1280px-Sitzung_von_Wiki_Loves_Broadcast_im_Kontor_Hamburg.jpg",
+        "image_credit": "Wikipedia – Meeting (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -210,8 +177,63 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T13:58:39+00:00",
         "link": "https://newsonair.gov.in/cbi-rescue-53-protected-animals-and-birds/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Birds.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gebirgstrage02_Patient_Seilsicherung.jpg/1280px-Gebirgstrage02_Patient_Seilsicherung.jpg",
+        "image_credit": "Wikipedia – Rescue (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India continues to emerge as preferred destination for Global Capability Centres, says FM Nirmala Sitharaman",
+        "summary": "Finance Minister Nirmala Sitharaman has said India continues to emerge as a preferred destination for Global Capability Centres (GCCs) because of its skilled and strong institutions and innovation ecosystem. Addressing the CII National GCC Business Summit in New Delhi, the Finance Minister said, the country hosts more than 2100 GCCs employing 23 lakh professionals directly […]",
+        "article": "Finance Minister Nirmala Sitharaman has said India continues to emerge as a preferred destination for Global Capability Centres (GCCs) because of its skilled and strong institutions and innovation ecosystem. Addressing the CII National GCC Business Summit in New Delhi, the Finance Minister said, the country hosts more than 2100 GCCs employing 23 lakh professionals directly and generating nearly 100 billion US dollars in annual revenue. She said Global Capability Centres represent transformation by bringing together engineering, research, artificial intelligence, cybersecurity, finance, product design, and data science to drive continuous innovation. Ms Sitharaman said, MNCs are now more likely to build their next capability centres in India than anywhere else. She highlighted that India&#8217;s GCC ecosystem represents the world&#8217;s largest organised knowledge export. The Finance Minister said, Indian GCCs are assuming a growing share of global leadership mandates and strategic decision-making responsibilities. She added that India&#8217;s aspiration is not merely to host the world&#8217;s capability centres but to shape the next-generation technologies, products and enterprises of the future. &nbsp;",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:53:47+00:00",
+        "link": "https://newsonair.gov.in/india-continues-to-emerge-as-preferred-destination-for-global-capability-centres-says-fm-nirmala-sitharaman/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Secure border, prosperous border region & vigilant society together can make country secure: HM Amit Shah",
+        "summary": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, […]",
+        "article": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, the government is creating a robust system to make the country completely infiltration-free. Mr Shah was addressing a conference of Superintendents of Police (SPs) from border districts in New Delhi yesterday. He noted that the Narendra Modi-led government has scientifically increased border infrastructure by four hundred percent. Mr. Shah said the government is fencing the over one thousand six hundred km-long India-Myanmar border at a cost of thirty-one thousand crore rupees. He stressed the importance of ensuring that information on demographic changes caused by abnormal factors in border areas is communicated from the grassroots to the highest level at the earliest. The Home Minister said the government&#8217;s objectives are to prevent proxy war, illegal infiltration, radicalisation, narcotics trafficking, drone-related threats, and demographic changes, among other security challenges, while making border areas safer and more livable. SPs from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal, and northeastern states, participated in the conference. Senior officials of the Home Ministry also attended. The conference aimed to strengthen the country&#8217;s border security framework by assessing the current situation in vulnerable frontier regions and identifying measures to improve enforcement. The conference took place against the backdrop of the Centre&#8217;s decision a few months ago to constitute a high-level committee to examine the extent of demographic changes taking place in different parts of the country and identify the factors responsible for them.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:43:11+00:00",
+        "link": "https://newsonair.gov.in/secure-border-prosperous-border-region-and-vigilant-society-together-can-make-country-secure-hm-amit-shah/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi says, India aspires to be one of world’s top three economies driven by motto of Grow More, Achieve More",
+        "summary": "Prime Minister Narendra Modi today said, India&#8217;s aspiration to become one of the world&#8217;s top three economies at the earliest is driven by the motto of &#8220;Grow more, achieve more. Addressing a roaring crowd at Marvel Stadium for the historic &#8220;Melbourne Meets Modi&#8221; reception in Australia, the Prime Minister hailed the vibrant, one-million-strong diaspora […]",
+        "article": "Prime Minister Narendra Modi today said, India&#8217;s aspiration to become one of the world&#8217;s top three economies at the earliest is driven by the motto of &#8220;Grow more, achieve more. Addressing a roaring crowd at Marvel Stadium for the historic &#8220;Melbourne Meets Modi&#8221; reception in Australia, the Prime Minister hailed the vibrant, one-million-strong diaspora as a foundation pillar of bilateral friendship. Completing a diplomatic &#8220;hat-trick&#8221; with his third visit to Australia over twelve years, t he Prime Minister highlighted a manufacturing ecosystem stretching &#8220;from chips to ships,&#8221;. He noted that &#8220;Make in India&#8221; is a global brand across electronics, automobiles, and pharmaceuticals. India’s rapid infrastructure modernization took center stage, with the Prime Minister spotlighting the country&#8217;s rise as the world’s third-largest metro network alongside the swift expansion of semi-high-speed Namo Bharat Rapid Rail and Vande Bharat systems. Turning to strategic security and innovation, the Prime Minister highlighted the global credibility of India&#8217;s indigenous defense platforms, specifically citing the definitive anti-terror strikes executed under Operation Sindoor. He also celebrated India&#8217;s emergence as the world&#8217;s third-largest startup ecosystem, noting an upcoming milestone where a domestic space startup will launch a satellite using its own rocket. Looking ahead, he invited closer sports collaboration as India prepares to host the 2030 Commonwealth Games and contends for the 2036 Olympics. Crucially, the Prime Minister emphasised the universal mantra of &#8220;Nagrik Devo Bhava,&#8221; reiterating that when India extends a helping hand during crises-like Operation Brahma in Myanmar or Operation Sagar Bandhu in Sri Lanka-it never looks at the color of a passport. Australian Prime Minister Anthony Albanese celebrated the rally&#8217;s palpable energy. Recalling his deep connection to India that began as a backpacker in 1991, Albanese lauded the diaspora as a multicultural powerhouse driving Australia&#8217;s prosperity and hailed the community as the ultimate &#8220;living bridge&#8221; anchoring an unstoppable partnership. Our correspondent reports that the deafening cheers inside Marvel Stadium echo a fundamental truth: the India-Australia relationship has evolved far beyond standard diplomacy. Prime Minister Modi’s vision of an aspiring, developed India, from global manufacturing triumphs to critical humanitarian interventions under Operation Brahma, proves that a stronger India serves all of humanity. As Prime Minister Albanese rightfully honoured this thriving community as the ultimate &#8220;living bridge,&#8221; it is clear that the Indian diaspora is actively fueling the economic engines and strategic defence corridors of both nations, ensuring our shared future remains secure, prosperous, and bound by deep mutual trust.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T15:40:35+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-describes-his-recent-visit-as-hat-trick-reflecting-growing-india-australia-relations/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NCW forms high-level Expert Committee to review laws governing IVF clinics",
+        "summary": "Amid growing concerns over irregularities in the rapidly expanding Assisted Reproductive Technology (ART) sector, the National Commission for Women (NCW) today constituted a high-level Expert Committee. It will undertake a comprehensive review of the regulatory framework and concerned laws governing IVF clinics, ART centres and gamete banks, with a focus on protecting the reproductive […]",
+        "article": "Amid growing concerns over irregularities in the rapidly expanding Assisted Reproductive Technology (ART) sector, the National Commission for Women (NCW) today constituted a high-level Expert Committee. It will undertake a comprehensive review of the regulatory framework and concerned laws governing IVF clinics, ART centres and gamete banks, with a focus on protecting the reproductive rights, dignity and safety of women. Former Judge of the Delhi High Court, Justice Asha Menon will chair the expert committee. It will bring together experts from the judiciary, medicine, forensic science, law enforcement, gynaecology, public policy and the Ministry of Health and Family Welfare. The commission has observed that regulatory compliance has not been sufficient to prevent unethical practices. The Commission said that the emergence of medical tourism in the fertility sector has also raised concerns about the possible circumvention of India’s legal safeguards, including those aimed at preventing sex selection. It said, the absence of uniform treatment protocols across states has further highlighted the need for stronger oversight to protect women from unnecessary procedures, inconsistent standards of care and financial exploitation. The committee will also review the implementation of the Assisted Reproductive Technology (Regulation) Act, 2021, the surrogacy (Regulation) Act, 2021, and the relevant Amendment Rules notified in 2026. It will examine existing safeguards relating to consent, privacy and biological traceability, identify regulatory and procedural gaps that may enable exploitation or fraudulent practices and recommend reforms to strengthen institutional accountability. It will also propose Standard Operating Procedures (SOPs) and best practices for ART clinics and IVF Centres to promote ethical treatment practices, standardised clinical protocol and greater transparency across the sector. NCW has reiterated that reproductive healthcare must be guided by the principles of dignity, informed choice, transparency and accountability and that every woman accessing assisted reproductive services must be assured of safety, ethical treatment and protection of her rights.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T15:34:30+00:00",
+        "link": "https://newsonair.gov.in/ncw-forms-high-level-expert-committee-to-review-laws-governing-ivf-clinics/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "HM Amit Shah reviews security with SPs from border districts to curb illegal immigration",
+        "summary": "Union Home Minister Amit Shah today chaired a conference of Superintendents of Police SPs from border districts in New Delhi. Superintendents of Police from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal and the northeastern state participated in the conference. Senior officials of the Home […]",
+        "article": "Union Home Minister Amit Shah today chaired a conference of Superintendents of Police SPs from border districts in New Delhi. Superintendents of Police from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal and the northeastern state participated in the conference. Senior officials of the Home Ministry also attended the conference. The conference was aimed at strengthening the country&#8217;s border security framework by assessing the prevailing situation in vulnerable frontier regions and identifying measures to improve enforcement. The meeting assumes significance amid the Centre’s intensified campaign against illegal immigration, which has been an organised attempt to alter the demographic composition of districts located along the international border in the eastern part of the country. Apart from infiltration, illegal immigration and demographic changes, border security, drone threats and narcotics trafficking were discussed during the meeting. The conference took place against the backdrop of the Centre’s decision to constitute a high-level committee a few months ago to examine the extent of demographic changes taking place in different parts of the country and identify the factors responsible for them.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T14:30:47+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-to-review-border-security-with-sps-from-border-districts/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -221,30 +243,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T13:53:11+00:00",
         "link": "https://newsonair.gov.in/ins-sudarshinis-port-call-at-new-york-signifies-cultural-partnership-between-india-us/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/naval-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "QCI-NSIC Partnership to Integrate ZED Certification, Digital Market Access and MSME Support Initiatives",
-        "summary": "The Quality Council of India (QCI) today signed an agreement with National Small Industries Corporation Limited (NSIC) in New Delhi to establish a collaborative ecosystem aimed at strengthening quality, competitiveness and market access for Micro, Small and Medium Enterprises (MSMEs) across the country. The partnership brings together QCI&#8217;s expertise in quality, accreditation and certificati",
-        "article": "The Quality Council of India (QCI) today signed an agreement with National Small Industries Corporation Limited (NSIC) in New Delhi to establish a collaborative ecosystem aimed at strengthening quality, competitiveness and market access for Micro, Small and Medium Enterprises (MSMEs) across the country. The partnership brings together QCI&#8217;s expertise in quality, accreditation and certification with NSIC&#8217;s extensive MSME support ecosystem to accelerate the adoption of globally recognised quality standards and enhance the growth of Indian enterprises. The collaboration seeks to integrate key national initiatives, including the MSME Sustainable Certification Scheme, MSME Global Mart, the TEAM Initiative and the Single Point Registration Scheme. It will facilitate wider adoption of Zero Defect Zero Effect (ZED) Certification, improve digital market access, strengthen testing and accreditation infrastructure, and expand capacity-building opportunities for MSMEs and training institutions. Chairman-cum-Managing Director, NSIC, Dr. Subhransu Sekhar Acharya and Senior Director and Head, National Division for Industry Excellence, QCI, Dr. A. Raj were present on the occasion. Speaking on the occasion, Dr Acharya said that the collaboration would help build a stronger ecosystem that empowers enterprises to compete confidently in both domestic and global markets. Further, Dr Raj said that the partnership would enhance MSME competitiveness, strengthen quality consciousness and further advance QCI&#8217;s National Quality Campaign.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T12:45:34+00:00",
-        "link": "https://newsonair.gov.in/qci-nsic-partnership-to-integrate-zed-certification-digital-market-access-and-msme-support-initiatives/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ZED.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Russia call for concerted action against terrorists and terrorist groups during JWG meeting",
-        "summary": "India and Russia have called for concerted action against terrorists and terrorist groups, including those listed in the UNSC 1267 Sanctions Committee and their proxy groups and affiliates. The 14th meeting of the India-Russia Joint Working Group on Counter Terrorism took place in New Delhi yesterday. The meeting was co-chaired by Secretary (West) […]",
-        "article": "India and Russia have called for concerted action against terrorists and terrorist groups, including those listed in the UNSC 1267 Sanctions Committee and their proxy groups and affiliates. The 14th meeting of the India-Russia Joint Working Group on Counter Terrorism took place in New Delhi yesterday. The meeting was co-chaired by Secretary (West) in the Ministry of External Affairs, Sibi George and Deputy Minister of Foreign Affairs of Russia, Dmitry Lyubinsky. Representatives of relevant departments and agencies from both sides also participated in the meeting. Both sides condemned terrorism in all its forms and manifestations, including cross-border terrorism. They condemned the terrorist attack in Pahalgam on 22 April 2025 and the terror incident near Red Fort on 10th November 2025, in the strongest terms. External Affairs Ministry said in a statement that the two sides shared their experiences in countering terrorism and agreed to enhance cooperation to address challenges of violent extremism, radicalization, terror financing and the use of new and emerging technologies and digital financial technologies for terrorist purposes. They discussed the current and emerging terrorist threats at the global and regional level. Both sides reaffirmed their commitment to strengthening counter-terrorism cooperation in bilateral as well as multilateral platforms including at the UN, BRICS, and SCO.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T11:37:58+00:00",
-        "link": "https://newsonair.gov.in/india-and-russia-call-for-concerted-action-against-terrorists-and-terrorist-groups-during-jwg-meeting/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Russia-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -256,8 +256,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:24:54+00:00",
         "link": "https://newsonair.gov.in/imd-says-southwest-monsoon-covered-entire-country/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607044589f-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/District_Darrang_-_Assam._%28IA_dr_district-darrang-assam-10620000%29.jpg/1280px-District_Darrang_-_Assam._%28IA_dr_district-darrang-assam-10620000%29.jpg",
+        "image_credit": "Wikimedia Commons (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -267,41 +267,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T15:50:05+00:00",
         "link": "https://newsonair.gov.in/india-and-australia-sign-landmark-deals-on-uranium-supply-and-dedicated-critical-minerals-corridor/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-to-hold-Annual-Summit-talks-with-Australian-PM-Anthony-Albanese.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi says, India aspires to be one of world’s top three economies driven by motto of Grow More, Achieve More",
-        "summary": "Prime Minister Narendra Modi today said, India&#8217;s aspiration to become one of the world&#8217;s top three economies at the earliest is driven by the motto of &#8220;Grow more, achieve more. Addressing a roaring crowd at Marvel Stadium for the historic &#8220;Melbourne Meets Modi&#8221; reception in Australia, the Prime Minister hailed the vibrant, one-million-strong diaspora […]",
-        "article": "Prime Minister Narendra Modi today said, India&#8217;s aspiration to become one of the world&#8217;s top three economies at the earliest is driven by the motto of &#8220;Grow more, achieve more. Addressing a roaring crowd at Marvel Stadium for the historic &#8220;Melbourne Meets Modi&#8221; reception in Australia, the Prime Minister hailed the vibrant, one-million-strong diaspora as a foundation pillar of bilateral friendship. Completing a diplomatic &#8220;hat-trick&#8221; with his third visit to Australia over twelve years, t he Prime Minister highlighted a manufacturing ecosystem stretching &#8220;from chips to ships,&#8221;. He noted that &#8220;Make in India&#8221; is a global brand across electronics, automobiles, and pharmaceuticals. India’s rapid infrastructure modernization took center stage, with the Prime Minister spotlighting the country&#8217;s rise as the world’s third-largest metro network alongside the swift expansion of semi-high-speed Namo Bharat Rapid Rail and Vande Bharat systems. Turning to strategic security and innovation, the Prime Minister highlighted the global credibility of India&#8217;s indigenous defense platforms, specifically citing the definitive anti-terror strikes executed under Operation Sindoor. He also celebrated India&#8217;s emergence as the world&#8217;s third-largest startup ecosystem, noting an upcoming milestone where a domestic space startup will launch a satellite using its own rocket. Looking ahead, he invited closer sports collaboration as India prepares to host the 2030 Commonwealth Games and contends for the 2036 Olympics. Crucially, the Prime Minister emphasised the universal mantra of &#8220;Nagrik Devo Bhava,&#8221; reiterating that when India extends a helping hand during crises-like Operation Brahma in Myanmar or Operation Sagar Bandhu in Sri Lanka-it never looks at the color of a passport. Australian Prime Minister Anthony Albanese celebrated the rally&#8217;s palpable energy. Recalling his deep connection to India that began as a backpacker in 1991, Albanese lauded the diaspora as a multicultural powerhouse driving Australia&#8217;s prosperity and hailed the community as the ultimate &#8220;living bridge&#8221; anchoring an unstoppable partnership. Our correspondent reports that the deafening cheers inside Marvel Stadium echo a fundamental truth: the India-Australia relationship has evolved far beyond standard diplomacy. Prime Minister Modi’s vision of an aspiring, developed India, from global manufacturing triumphs to critical humanitarian interventions under Operation Brahma, proves that a stronger India serves all of humanity. As Prime Minister Albanese rightfully honoured this thriving community as the ultimate &#8220;living bridge,&#8221; it is clear that the Indian diaspora is actively fueling the economic engines and strategic defence corridors of both nations, ensuring our shared future remains secure, prosperous, and bound by deep mutual trust.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:40:35+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-describes-his-recent-visit-as-hat-trick-reflecting-growing-india-australia-relations/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Australia.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NCW forms high-level Expert Committee to review laws governing IVF clinics",
-        "summary": "Amid growing concerns over irregularities in the rapidly expanding Assisted Reproductive Technology (ART) sector, the National Commission for Women (NCW) today constituted a high-level Expert Committee. It will undertake a comprehensive review of the regulatory framework and concerned laws governing IVF clinics, ART centres and gamete banks, with a focus on protecting the reproductive […]",
-        "article": "Amid growing concerns over irregularities in the rapidly expanding Assisted Reproductive Technology (ART) sector, the National Commission for Women (NCW) today constituted a high-level Expert Committee. It will undertake a comprehensive review of the regulatory framework and concerned laws governing IVF clinics, ART centres and gamete banks, with a focus on protecting the reproductive rights, dignity and safety of women. Former Judge of the Delhi High Court, Justice Asha Menon will chair the expert committee. It will bring together experts from the judiciary, medicine, forensic science, law enforcement, gynaecology, public policy and the Ministry of Health and Family Welfare. The commission has observed that regulatory compliance has not been sufficient to prevent unethical practices. The Commission said that the emergence of medical tourism in the fertility sector has also raised concerns about the possible circumvention of India’s legal safeguards, including those aimed at preventing sex selection. It said, the absence of uniform treatment protocols across states has further highlighted the need for stronger oversight to protect women from unnecessary procedures, inconsistent standards of care and financial exploitation. The committee will also review the implementation of the Assisted Reproductive Technology (Regulation) Act, 2021, the surrogacy (Regulation) Act, 2021, and the relevant Amendment Rules notified in 2026. It will examine existing safeguards relating to consent, privacy and biological traceability, identify regulatory and procedural gaps that may enable exploitation or fraudulent practices and recommend reforms to strengthen institutional accountability. It will also propose Standard Operating Procedures (SOPs) and best practices for ART clinics and IVF Centres to promote ethical treatment practices, standardised clinical protocol and greater transparency across the sector. NCW has reiterated that reproductive healthcare must be guided by the principles of dignity, informed choice, transparency and accountability and that every woman accessing assisted reproductive services must be assured of safety, ethical treatment and protection of her rights.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:34:30+00:00",
-        "link": "https://newsonair.gov.in/ncw-forms-high-level-expert-committee-to-review-laws-governing-ivf-clinics/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NCW-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "HM Amit Shah reviews security with SPs from border districts to curb illegal immigration",
-        "summary": "Union Home Minister Amit Shah today chaired a conference of Superintendents of Police SPs from border districts in New Delhi. Superintendents of Police from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal and the northeastern state participated in the conference. Senior officials of the Home […]",
-        "article": "Union Home Minister Amit Shah today chaired a conference of Superintendents of Police SPs from border districts in New Delhi. Superintendents of Police from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal and the northeastern state participated in the conference. Senior officials of the Home Ministry also attended the conference. The conference was aimed at strengthening the country&#8217;s border security framework by assessing the prevailing situation in vulnerable frontier regions and identifying measures to improve enforcement. The meeting assumes significance amid the Centre’s intensified campaign against illegal immigration, which has been an organised attempt to alter the demographic composition of districts located along the international border in the eastern part of the country. Apart from infiltration, illegal immigration and demographic changes, border security, drone threats and narcotics trafficking were discussed during the meeting. The conference took place against the backdrop of the Centre’s decision to constitute a high-level committee a few months ago to examine the extent of demographic changes taking place in different parts of the country and identify the factors responsible for them.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T14:30:47+00:00",
-        "link": "https://newsonair.gov.in/hm-amit-shah-to-review-border-security-with-sps-from-border-districts/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Amit-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Indo-Pacific_biogeographic_region_map-en.png/1280px-Indo-Pacific_biogeographic_region_map-en.png",
+        "image_credit": "Wikipedia – Indo-Pacific (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -311,8 +278,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T14:26:23+00:00",
         "link": "https://newsonair.gov.in/brics-women-ministers-meeting-welcomes-indias-proposals-for-brics-digital-capacity-building-guidelines/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sitzung_von_Wiki_Loves_Broadcast_im_Kontor_Hamburg.jpg/1280px-Sitzung_von_Wiki_Loves_Broadcast_im_Kontor_Hamburg.jpg",
+        "image_credit": "Wikipedia – Meeting (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -322,8 +289,63 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T13:58:39+00:00",
         "link": "https://newsonair.gov.in/cbi-rescue-53-protected-animals-and-birds/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Birds.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gebirgstrage02_Patient_Seilsicherung.jpg/1280px-Gebirgstrage02_Patient_Seilsicherung.jpg",
+        "image_credit": "Wikipedia – Rescue (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India continues to emerge as preferred destination for Global Capability Centres, says FM Nirmala Sitharaman",
+        "summary": "Finance Minister Nirmala Sitharaman has said India continues to emerge as a preferred destination for Global Capability Centres (GCCs) because of its skilled and strong institutions and innovation ecosystem. Addressing the CII National GCC Business Summit in New Delhi, the Finance Minister said, the country hosts more than 2100 GCCs employing 23 lakh professionals directly […]",
+        "article": "Finance Minister Nirmala Sitharaman has said India continues to emerge as a preferred destination for Global Capability Centres (GCCs) because of its skilled and strong institutions and innovation ecosystem. Addressing the CII National GCC Business Summit in New Delhi, the Finance Minister said, the country hosts more than 2100 GCCs employing 23 lakh professionals directly and generating nearly 100 billion US dollars in annual revenue. She said Global Capability Centres represent transformation by bringing together engineering, research, artificial intelligence, cybersecurity, finance, product design, and data science to drive continuous innovation. Ms Sitharaman said, MNCs are now more likely to build their next capability centres in India than anywhere else. She highlighted that India&#8217;s GCC ecosystem represents the world&#8217;s largest organised knowledge export. The Finance Minister said, Indian GCCs are assuming a growing share of global leadership mandates and strategic decision-making responsibilities. She added that India&#8217;s aspiration is not merely to host the world&#8217;s capability centres but to shape the next-generation technologies, products and enterprises of the future. &nbsp;",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:53:47+00:00",
+        "link": "https://newsonair.gov.in/india-continues-to-emerge-as-preferred-destination-for-global-capability-centres-says-fm-nirmala-sitharaman/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Secure border, prosperous border region & vigilant society together can make country secure: HM Amit Shah",
+        "summary": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, […]",
+        "article": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, the government is creating a robust system to make the country completely infiltration-free. Mr Shah was addressing a conference of Superintendents of Police (SPs) from border districts in New Delhi yesterday. He noted that the Narendra Modi-led government has scientifically increased border infrastructure by four hundred percent. Mr. Shah said the government is fencing the over one thousand six hundred km-long India-Myanmar border at a cost of thirty-one thousand crore rupees. He stressed the importance of ensuring that information on demographic changes caused by abnormal factors in border areas is communicated from the grassroots to the highest level at the earliest. The Home Minister said the government&#8217;s objectives are to prevent proxy war, illegal infiltration, radicalisation, narcotics trafficking, drone-related threats, and demographic changes, among other security challenges, while making border areas safer and more livable. SPs from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal, and northeastern states, participated in the conference. Senior officials of the Home Ministry also attended. The conference aimed to strengthen the country&#8217;s border security framework by assessing the current situation in vulnerable frontier regions and identifying measures to improve enforcement. The conference took place against the backdrop of the Centre&#8217;s decision a few months ago to constitute a high-level committee to examine the extent of demographic changes taking place in different parts of the country and identify the factors responsible for them.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:43:11+00:00",
+        "link": "https://newsonair.gov.in/secure-border-prosperous-border-region-and-vigilant-society-together-can-make-country-secure-hm-amit-shah/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi says, India aspires to be one of world’s top three economies driven by motto of Grow More, Achieve More",
+        "summary": "Prime Minister Narendra Modi today said, India&#8217;s aspiration to become one of the world&#8217;s top three economies at the earliest is driven by the motto of &#8220;Grow more, achieve more. Addressing a roaring crowd at Marvel Stadium for the historic &#8220;Melbourne Meets Modi&#8221; reception in Australia, the Prime Minister hailed the vibrant, one-million-strong diaspora […]",
+        "article": "Prime Minister Narendra Modi today said, India&#8217;s aspiration to become one of the world&#8217;s top three economies at the earliest is driven by the motto of &#8220;Grow more, achieve more. Addressing a roaring crowd at Marvel Stadium for the historic &#8220;Melbourne Meets Modi&#8221; reception in Australia, the Prime Minister hailed the vibrant, one-million-strong diaspora as a foundation pillar of bilateral friendship. Completing a diplomatic &#8220;hat-trick&#8221; with his third visit to Australia over twelve years, t he Prime Minister highlighted a manufacturing ecosystem stretching &#8220;from chips to ships,&#8221;. He noted that &#8220;Make in India&#8221; is a global brand across electronics, automobiles, and pharmaceuticals. India’s rapid infrastructure modernization took center stage, with the Prime Minister spotlighting the country&#8217;s rise as the world’s third-largest metro network alongside the swift expansion of semi-high-speed Namo Bharat Rapid Rail and Vande Bharat systems. Turning to strategic security and innovation, the Prime Minister highlighted the global credibility of India&#8217;s indigenous defense platforms, specifically citing the definitive anti-terror strikes executed under Operation Sindoor. He also celebrated India&#8217;s emergence as the world&#8217;s third-largest startup ecosystem, noting an upcoming milestone where a domestic space startup will launch a satellite using its own rocket. Looking ahead, he invited closer sports collaboration as India prepares to host the 2030 Commonwealth Games and contends for the 2036 Olympics. Crucially, the Prime Minister emphasised the universal mantra of &#8220;Nagrik Devo Bhava,&#8221; reiterating that when India extends a helping hand during crises-like Operation Brahma in Myanmar or Operation Sagar Bandhu in Sri Lanka-it never looks at the color of a passport. Australian Prime Minister Anthony Albanese celebrated the rally&#8217;s palpable energy. Recalling his deep connection to India that began as a backpacker in 1991, Albanese lauded the diaspora as a multicultural powerhouse driving Australia&#8217;s prosperity and hailed the community as the ultimate &#8220;living bridge&#8221; anchoring an unstoppable partnership. Our correspondent reports that the deafening cheers inside Marvel Stadium echo a fundamental truth: the India-Australia relationship has evolved far beyond standard diplomacy. Prime Minister Modi’s vision of an aspiring, developed India, from global manufacturing triumphs to critical humanitarian interventions under Operation Brahma, proves that a stronger India serves all of humanity. As Prime Minister Albanese rightfully honoured this thriving community as the ultimate &#8220;living bridge,&#8221; it is clear that the Indian diaspora is actively fueling the economic engines and strategic defence corridors of both nations, ensuring our shared future remains secure, prosperous, and bound by deep mutual trust.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T15:40:35+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-describes-his-recent-visit-as-hat-trick-reflecting-growing-india-australia-relations/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NCW forms high-level Expert Committee to review laws governing IVF clinics",
+        "summary": "Amid growing concerns over irregularities in the rapidly expanding Assisted Reproductive Technology (ART) sector, the National Commission for Women (NCW) today constituted a high-level Expert Committee. It will undertake a comprehensive review of the regulatory framework and concerned laws governing IVF clinics, ART centres and gamete banks, with a focus on protecting the reproductive […]",
+        "article": "Amid growing concerns over irregularities in the rapidly expanding Assisted Reproductive Technology (ART) sector, the National Commission for Women (NCW) today constituted a high-level Expert Committee. It will undertake a comprehensive review of the regulatory framework and concerned laws governing IVF clinics, ART centres and gamete banks, with a focus on protecting the reproductive rights, dignity and safety of women. Former Judge of the Delhi High Court, Justice Asha Menon will chair the expert committee. It will bring together experts from the judiciary, medicine, forensic science, law enforcement, gynaecology, public policy and the Ministry of Health and Family Welfare. The commission has observed that regulatory compliance has not been sufficient to prevent unethical practices. The Commission said that the emergence of medical tourism in the fertility sector has also raised concerns about the possible circumvention of India’s legal safeguards, including those aimed at preventing sex selection. It said, the absence of uniform treatment protocols across states has further highlighted the need for stronger oversight to protect women from unnecessary procedures, inconsistent standards of care and financial exploitation. The committee will also review the implementation of the Assisted Reproductive Technology (Regulation) Act, 2021, the surrogacy (Regulation) Act, 2021, and the relevant Amendment Rules notified in 2026. It will examine existing safeguards relating to consent, privacy and biological traceability, identify regulatory and procedural gaps that may enable exploitation or fraudulent practices and recommend reforms to strengthen institutional accountability. It will also propose Standard Operating Procedures (SOPs) and best practices for ART clinics and IVF Centres to promote ethical treatment practices, standardised clinical protocol and greater transparency across the sector. NCW has reiterated that reproductive healthcare must be guided by the principles of dignity, informed choice, transparency and accountability and that every woman accessing assisted reproductive services must be assured of safety, ethical treatment and protection of her rights.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T15:34:30+00:00",
+        "link": "https://newsonair.gov.in/ncw-forms-high-level-expert-committee-to-review-laws-governing-ivf-clinics/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "HM Amit Shah reviews security with SPs from border districts to curb illegal immigration",
+        "summary": "Union Home Minister Amit Shah today chaired a conference of Superintendents of Police SPs from border districts in New Delhi. Superintendents of Police from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal and the northeastern state participated in the conference. Senior officials of the Home […]",
+        "article": "Union Home Minister Amit Shah today chaired a conference of Superintendents of Police SPs from border districts in New Delhi. Superintendents of Police from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal and the northeastern state participated in the conference. Senior officials of the Home Ministry also attended the conference. The conference was aimed at strengthening the country&#8217;s border security framework by assessing the prevailing situation in vulnerable frontier regions and identifying measures to improve enforcement. The meeting assumes significance amid the Centre’s intensified campaign against illegal immigration, which has been an organised attempt to alter the demographic composition of districts located along the international border in the eastern part of the country. Apart from infiltration, illegal immigration and demographic changes, border security, drone threats and narcotics trafficking were discussed during the meeting. The conference took place against the backdrop of the Centre’s decision to constitute a high-level committee a few months ago to examine the extent of demographic changes taking place in different parts of the country and identify the factors responsible for them.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T14:30:47+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-to-review-border-security-with-sps-from-border-districts/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -333,30 +355,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T13:53:11+00:00",
         "link": "https://newsonair.gov.in/ins-sudarshinis-port-call-at-new-york-signifies-cultural-partnership-between-india-us/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/naval-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "QCI-NSIC Partnership to Integrate ZED Certification, Digital Market Access and MSME Support Initiatives",
-        "summary": "The Quality Council of India (QCI) today signed an agreement with National Small Industries Corporation Limited (NSIC) in New Delhi to establish a collaborative ecosystem aimed at strengthening quality, competitiveness and market access for Micro, Small and Medium Enterprises (MSMEs) across the country. The partnership brings together QCI&#8217;s expertise in quality, accreditation and certificati",
-        "article": "The Quality Council of India (QCI) today signed an agreement with National Small Industries Corporation Limited (NSIC) in New Delhi to establish a collaborative ecosystem aimed at strengthening quality, competitiveness and market access for Micro, Small and Medium Enterprises (MSMEs) across the country. The partnership brings together QCI&#8217;s expertise in quality, accreditation and certification with NSIC&#8217;s extensive MSME support ecosystem to accelerate the adoption of globally recognised quality standards and enhance the growth of Indian enterprises. The collaboration seeks to integrate key national initiatives, including the MSME Sustainable Certification Scheme, MSME Global Mart, the TEAM Initiative and the Single Point Registration Scheme. It will facilitate wider adoption of Zero Defect Zero Effect (ZED) Certification, improve digital market access, strengthen testing and accreditation infrastructure, and expand capacity-building opportunities for MSMEs and training institutions. Chairman-cum-Managing Director, NSIC, Dr. Subhransu Sekhar Acharya and Senior Director and Head, National Division for Industry Excellence, QCI, Dr. A. Raj were present on the occasion. Speaking on the occasion, Dr Acharya said that the collaboration would help build a stronger ecosystem that empowers enterprises to compete confidently in both domestic and global markets. Further, Dr Raj said that the partnership would enhance MSME competitiveness, strengthen quality consciousness and further advance QCI&#8217;s National Quality Campaign.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T12:45:34+00:00",
-        "link": "https://newsonair.gov.in/qci-nsic-partnership-to-integrate-zed-certification-digital-market-access-and-msme-support-initiatives/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ZED.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Russia call for concerted action against terrorists and terrorist groups during JWG meeting",
-        "summary": "India and Russia have called for concerted action against terrorists and terrorist groups, including those listed in the UNSC 1267 Sanctions Committee and their proxy groups and affiliates. The 14th meeting of the India-Russia Joint Working Group on Counter Terrorism took place in New Delhi yesterday. The meeting was co-chaired by Secretary (West) […]",
-        "article": "India and Russia have called for concerted action against terrorists and terrorist groups, including those listed in the UNSC 1267 Sanctions Committee and their proxy groups and affiliates. The 14th meeting of the India-Russia Joint Working Group on Counter Terrorism took place in New Delhi yesterday. The meeting was co-chaired by Secretary (West) in the Ministry of External Affairs, Sibi George and Deputy Minister of Foreign Affairs of Russia, Dmitry Lyubinsky. Representatives of relevant departments and agencies from both sides also participated in the meeting. Both sides condemned terrorism in all its forms and manifestations, including cross-border terrorism. They condemned the terrorist attack in Pahalgam on 22 April 2025 and the terror incident near Red Fort on 10th November 2025, in the strongest terms. External Affairs Ministry said in a statement that the two sides shared their experiences in countering terrorism and agreed to enhance cooperation to address challenges of violent extremism, radicalization, terror financing and the use of new and emerging technologies and digital financial technologies for terrorist purposes. They discussed the current and emerging terrorist threats at the global and regional level. Both sides reaffirmed their commitment to strengthening counter-terrorism cooperation in bilateral as well as multilateral platforms including at the UN, BRICS, and SCO.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T11:37:58+00:00",
-        "link": "https://newsonair.gov.in/india-and-russia-call-for-concerted-action-against-terrorists-and-terrorist-groups-during-jwg-meeting/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Russia-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -368,8 +368,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:24:54+00:00",
         "link": "https://newsonair.gov.in/imd-says-southwest-monsoon-covered-entire-country/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607044589f-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/District_Darrang_-_Assam._%28IA_dr_district-darrang-assam-10620000%29.jpg/1280px-District_Darrang_-_Assam._%28IA_dr_district-darrang-assam-10620000%29.jpg",
+        "image_credit": "Wikimedia Commons (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -379,41 +379,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T15:50:05+00:00",
         "link": "https://newsonair.gov.in/india-and-australia-sign-landmark-deals-on-uranium-supply-and-dedicated-critical-minerals-corridor/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-to-hold-Annual-Summit-talks-with-Australian-PM-Anthony-Albanese.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi says, India aspires to be one of world’s top three economies driven by motto of Grow More, Achieve More",
-        "summary": "Prime Minister Narendra Modi today said, India&#8217;s aspiration to become one of the world&#8217;s top three economies at the earliest is driven by the motto of &#8220;Grow more, achieve more. Addressing a roaring crowd at Marvel Stadium for the historic &#8220;Melbourne Meets Modi&#8221; reception in Australia, the Prime Minister hailed the vibrant, one-million-strong diaspora […]",
-        "article": "Prime Minister Narendra Modi today said, India&#8217;s aspiration to become one of the world&#8217;s top three economies at the earliest is driven by the motto of &#8220;Grow more, achieve more. Addressing a roaring crowd at Marvel Stadium for the historic &#8220;Melbourne Meets Modi&#8221; reception in Australia, the Prime Minister hailed the vibrant, one-million-strong diaspora as a foundation pillar of bilateral friendship. Completing a diplomatic &#8220;hat-trick&#8221; with his third visit to Australia over twelve years, t he Prime Minister highlighted a manufacturing ecosystem stretching &#8220;from chips to ships,&#8221;. He noted that &#8220;Make in India&#8221; is a global brand across electronics, automobiles, and pharmaceuticals. India’s rapid infrastructure modernization took center stage, with the Prime Minister spotlighting the country&#8217;s rise as the world’s third-largest metro network alongside the swift expansion of semi-high-speed Namo Bharat Rapid Rail and Vande Bharat systems. Turning to strategic security and innovation, the Prime Minister highlighted the global credibility of India&#8217;s indigenous defense platforms, specifically citing the definitive anti-terror strikes executed under Operation Sindoor. He also celebrated India&#8217;s emergence as the world&#8217;s third-largest startup ecosystem, noting an upcoming milestone where a domestic space startup will launch a satellite using its own rocket. Looking ahead, he invited closer sports collaboration as India prepares to host the 2030 Commonwealth Games and contends for the 2036 Olympics. Crucially, the Prime Minister emphasised the universal mantra of &#8220;Nagrik Devo Bhava,&#8221; reiterating that when India extends a helping hand during crises-like Operation Brahma in Myanmar or Operation Sagar Bandhu in Sri Lanka-it never looks at the color of a passport. Australian Prime Minister Anthony Albanese celebrated the rally&#8217;s palpable energy. Recalling his deep connection to India that began as a backpacker in 1991, Albanese lauded the diaspora as a multicultural powerhouse driving Australia&#8217;s prosperity and hailed the community as the ultimate &#8220;living bridge&#8221; anchoring an unstoppable partnership. Our correspondent reports that the deafening cheers inside Marvel Stadium echo a fundamental truth: the India-Australia relationship has evolved far beyond standard diplomacy. Prime Minister Modi’s vision of an aspiring, developed India, from global manufacturing triumphs to critical humanitarian interventions under Operation Brahma, proves that a stronger India serves all of humanity. As Prime Minister Albanese rightfully honoured this thriving community as the ultimate &#8220;living bridge,&#8221; it is clear that the Indian diaspora is actively fueling the economic engines and strategic defence corridors of both nations, ensuring our shared future remains secure, prosperous, and bound by deep mutual trust.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:40:35+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-describes-his-recent-visit-as-hat-trick-reflecting-growing-india-australia-relations/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Australia.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NCW forms high-level Expert Committee to review laws governing IVF clinics",
-        "summary": "Amid growing concerns over irregularities in the rapidly expanding Assisted Reproductive Technology (ART) sector, the National Commission for Women (NCW) today constituted a high-level Expert Committee. It will undertake a comprehensive review of the regulatory framework and concerned laws governing IVF clinics, ART centres and gamete banks, with a focus on protecting the reproductive […]",
-        "article": "Amid growing concerns over irregularities in the rapidly expanding Assisted Reproductive Technology (ART) sector, the National Commission for Women (NCW) today constituted a high-level Expert Committee. It will undertake a comprehensive review of the regulatory framework and concerned laws governing IVF clinics, ART centres and gamete banks, with a focus on protecting the reproductive rights, dignity and safety of women. Former Judge of the Delhi High Court, Justice Asha Menon will chair the expert committee. It will bring together experts from the judiciary, medicine, forensic science, law enforcement, gynaecology, public policy and the Ministry of Health and Family Welfare. The commission has observed that regulatory compliance has not been sufficient to prevent unethical practices. The Commission said that the emergence of medical tourism in the fertility sector has also raised concerns about the possible circumvention of India’s legal safeguards, including those aimed at preventing sex selection. It said, the absence of uniform treatment protocols across states has further highlighted the need for stronger oversight to protect women from unnecessary procedures, inconsistent standards of care and financial exploitation. The committee will also review the implementation of the Assisted Reproductive Technology (Regulation) Act, 2021, the surrogacy (Regulation) Act, 2021, and the relevant Amendment Rules notified in 2026. It will examine existing safeguards relating to consent, privacy and biological traceability, identify regulatory and procedural gaps that may enable exploitation or fraudulent practices and recommend reforms to strengthen institutional accountability. It will also propose Standard Operating Procedures (SOPs) and best practices for ART clinics and IVF Centres to promote ethical treatment practices, standardised clinical protocol and greater transparency across the sector. NCW has reiterated that reproductive healthcare must be guided by the principles of dignity, informed choice, transparency and accountability and that every woman accessing assisted reproductive services must be assured of safety, ethical treatment and protection of her rights.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:34:30+00:00",
-        "link": "https://newsonair.gov.in/ncw-forms-high-level-expert-committee-to-review-laws-governing-ivf-clinics/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NCW-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "HM Amit Shah reviews security with SPs from border districts to curb illegal immigration",
-        "summary": "Union Home Minister Amit Shah today chaired a conference of Superintendents of Police SPs from border districts in New Delhi. Superintendents of Police from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal and the northeastern state participated in the conference. Senior officials of the Home […]",
-        "article": "Union Home Minister Amit Shah today chaired a conference of Superintendents of Police SPs from border districts in New Delhi. Superintendents of Police from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal and the northeastern state participated in the conference. Senior officials of the Home Ministry also attended the conference. The conference was aimed at strengthening the country&#8217;s border security framework by assessing the prevailing situation in vulnerable frontier regions and identifying measures to improve enforcement. The meeting assumes significance amid the Centre’s intensified campaign against illegal immigration, which has been an organised attempt to alter the demographic composition of districts located along the international border in the eastern part of the country. Apart from infiltration, illegal immigration and demographic changes, border security, drone threats and narcotics trafficking were discussed during the meeting. The conference took place against the backdrop of the Centre’s decision to constitute a high-level committee a few months ago to examine the extent of demographic changes taking place in different parts of the country and identify the factors responsible for them.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T14:30:47+00:00",
-        "link": "https://newsonair.gov.in/hm-amit-shah-to-review-border-security-with-sps-from-border-districts/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Amit-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Indo-Pacific_biogeographic_region_map-en.png/1280px-Indo-Pacific_biogeographic_region_map-en.png",
+        "image_credit": "Wikipedia – Indo-Pacific (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -423,8 +390,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T14:26:23+00:00",
         "link": "https://newsonair.gov.in/brics-women-ministers-meeting-welcomes-indias-proposals-for-brics-digital-capacity-building-guidelines/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sitzung_von_Wiki_Loves_Broadcast_im_Kontor_Hamburg.jpg/1280px-Sitzung_von_Wiki_Loves_Broadcast_im_Kontor_Hamburg.jpg",
+        "image_credit": "Wikipedia – Meeting (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -434,8 +401,63 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T13:58:39+00:00",
         "link": "https://newsonair.gov.in/cbi-rescue-53-protected-animals-and-birds/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Birds.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gebirgstrage02_Patient_Seilsicherung.jpg/1280px-Gebirgstrage02_Patient_Seilsicherung.jpg",
+        "image_credit": "Wikipedia – Rescue (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India continues to emerge as preferred destination for Global Capability Centres, says FM Nirmala Sitharaman",
+        "summary": "Finance Minister Nirmala Sitharaman has said India continues to emerge as a preferred destination for Global Capability Centres (GCCs) because of its skilled and strong institutions and innovation ecosystem. Addressing the CII National GCC Business Summit in New Delhi, the Finance Minister said, the country hosts more than 2100 GCCs employing 23 lakh professionals directly […]",
+        "article": "Finance Minister Nirmala Sitharaman has said India continues to emerge as a preferred destination for Global Capability Centres (GCCs) because of its skilled and strong institutions and innovation ecosystem. Addressing the CII National GCC Business Summit in New Delhi, the Finance Minister said, the country hosts more than 2100 GCCs employing 23 lakh professionals directly and generating nearly 100 billion US dollars in annual revenue. She said Global Capability Centres represent transformation by bringing together engineering, research, artificial intelligence, cybersecurity, finance, product design, and data science to drive continuous innovation. Ms Sitharaman said, MNCs are now more likely to build their next capability centres in India than anywhere else. She highlighted that India&#8217;s GCC ecosystem represents the world&#8217;s largest organised knowledge export. The Finance Minister said, Indian GCCs are assuming a growing share of global leadership mandates and strategic decision-making responsibilities. She added that India&#8217;s aspiration is not merely to host the world&#8217;s capability centres but to shape the next-generation technologies, products and enterprises of the future. &nbsp;",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:53:47+00:00",
+        "link": "https://newsonair.gov.in/india-continues-to-emerge-as-preferred-destination-for-global-capability-centres-says-fm-nirmala-sitharaman/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Secure border, prosperous border region & vigilant society together can make country secure: HM Amit Shah",
+        "summary": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, […]",
+        "article": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, the government is creating a robust system to make the country completely infiltration-free. Mr Shah was addressing a conference of Superintendents of Police (SPs) from border districts in New Delhi yesterday. He noted that the Narendra Modi-led government has scientifically increased border infrastructure by four hundred percent. Mr. Shah said the government is fencing the over one thousand six hundred km-long India-Myanmar border at a cost of thirty-one thousand crore rupees. He stressed the importance of ensuring that information on demographic changes caused by abnormal factors in border areas is communicated from the grassroots to the highest level at the earliest. The Home Minister said the government&#8217;s objectives are to prevent proxy war, illegal infiltration, radicalisation, narcotics trafficking, drone-related threats, and demographic changes, among other security challenges, while making border areas safer and more livable. SPs from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal, and northeastern states, participated in the conference. Senior officials of the Home Ministry also attended. The conference aimed to strengthen the country&#8217;s border security framework by assessing the current situation in vulnerable frontier regions and identifying measures to improve enforcement. The conference took place against the backdrop of the Centre&#8217;s decision a few months ago to constitute a high-level committee to examine the extent of demographic changes taking place in different parts of the country and identify the factors responsible for them.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:43:11+00:00",
+        "link": "https://newsonair.gov.in/secure-border-prosperous-border-region-and-vigilant-society-together-can-make-country-secure-hm-amit-shah/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi says, India aspires to be one of world’s top three economies driven by motto of Grow More, Achieve More",
+        "summary": "Prime Minister Narendra Modi today said, India&#8217;s aspiration to become one of the world&#8217;s top three economies at the earliest is driven by the motto of &#8220;Grow more, achieve more. Addressing a roaring crowd at Marvel Stadium for the historic &#8220;Melbourne Meets Modi&#8221; reception in Australia, the Prime Minister hailed the vibrant, one-million-strong diaspora […]",
+        "article": "Prime Minister Narendra Modi today said, India&#8217;s aspiration to become one of the world&#8217;s top three economies at the earliest is driven by the motto of &#8220;Grow more, achieve more. Addressing a roaring crowd at Marvel Stadium for the historic &#8220;Melbourne Meets Modi&#8221; reception in Australia, the Prime Minister hailed the vibrant, one-million-strong diaspora as a foundation pillar of bilateral friendship. Completing a diplomatic &#8220;hat-trick&#8221; with his third visit to Australia over twelve years, t he Prime Minister highlighted a manufacturing ecosystem stretching &#8220;from chips to ships,&#8221;. He noted that &#8220;Make in India&#8221; is a global brand across electronics, automobiles, and pharmaceuticals. India’s rapid infrastructure modernization took center stage, with the Prime Minister spotlighting the country&#8217;s rise as the world’s third-largest metro network alongside the swift expansion of semi-high-speed Namo Bharat Rapid Rail and Vande Bharat systems. Turning to strategic security and innovation, the Prime Minister highlighted the global credibility of India&#8217;s indigenous defense platforms, specifically citing the definitive anti-terror strikes executed under Operation Sindoor. He also celebrated India&#8217;s emergence as the world&#8217;s third-largest startup ecosystem, noting an upcoming milestone where a domestic space startup will launch a satellite using its own rocket. Looking ahead, he invited closer sports collaboration as India prepares to host the 2030 Commonwealth Games and contends for the 2036 Olympics. Crucially, the Prime Minister emphasised the universal mantra of &#8220;Nagrik Devo Bhava,&#8221; reiterating that when India extends a helping hand during crises-like Operation Brahma in Myanmar or Operation Sagar Bandhu in Sri Lanka-it never looks at the color of a passport. Australian Prime Minister Anthony Albanese celebrated the rally&#8217;s palpable energy. Recalling his deep connection to India that began as a backpacker in 1991, Albanese lauded the diaspora as a multicultural powerhouse driving Australia&#8217;s prosperity and hailed the community as the ultimate &#8220;living bridge&#8221; anchoring an unstoppable partnership. Our correspondent reports that the deafening cheers inside Marvel Stadium echo a fundamental truth: the India-Australia relationship has evolved far beyond standard diplomacy. Prime Minister Modi’s vision of an aspiring, developed India, from global manufacturing triumphs to critical humanitarian interventions under Operation Brahma, proves that a stronger India serves all of humanity. As Prime Minister Albanese rightfully honoured this thriving community as the ultimate &#8220;living bridge,&#8221; it is clear that the Indian diaspora is actively fueling the economic engines and strategic defence corridors of both nations, ensuring our shared future remains secure, prosperous, and bound by deep mutual trust.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T15:40:35+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-describes-his-recent-visit-as-hat-trick-reflecting-growing-india-australia-relations/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NCW forms high-level Expert Committee to review laws governing IVF clinics",
+        "summary": "Amid growing concerns over irregularities in the rapidly expanding Assisted Reproductive Technology (ART) sector, the National Commission for Women (NCW) today constituted a high-level Expert Committee. It will undertake a comprehensive review of the regulatory framework and concerned laws governing IVF clinics, ART centres and gamete banks, with a focus on protecting the reproductive […]",
+        "article": "Amid growing concerns over irregularities in the rapidly expanding Assisted Reproductive Technology (ART) sector, the National Commission for Women (NCW) today constituted a high-level Expert Committee. It will undertake a comprehensive review of the regulatory framework and concerned laws governing IVF clinics, ART centres and gamete banks, with a focus on protecting the reproductive rights, dignity and safety of women. Former Judge of the Delhi High Court, Justice Asha Menon will chair the expert committee. It will bring together experts from the judiciary, medicine, forensic science, law enforcement, gynaecology, public policy and the Ministry of Health and Family Welfare. The commission has observed that regulatory compliance has not been sufficient to prevent unethical practices. The Commission said that the emergence of medical tourism in the fertility sector has also raised concerns about the possible circumvention of India’s legal safeguards, including those aimed at preventing sex selection. It said, the absence of uniform treatment protocols across states has further highlighted the need for stronger oversight to protect women from unnecessary procedures, inconsistent standards of care and financial exploitation. The committee will also review the implementation of the Assisted Reproductive Technology (Regulation) Act, 2021, the surrogacy (Regulation) Act, 2021, and the relevant Amendment Rules notified in 2026. It will examine existing safeguards relating to consent, privacy and biological traceability, identify regulatory and procedural gaps that may enable exploitation or fraudulent practices and recommend reforms to strengthen institutional accountability. It will also propose Standard Operating Procedures (SOPs) and best practices for ART clinics and IVF Centres to promote ethical treatment practices, standardised clinical protocol and greater transparency across the sector. NCW has reiterated that reproductive healthcare must be guided by the principles of dignity, informed choice, transparency and accountability and that every woman accessing assisted reproductive services must be assured of safety, ethical treatment and protection of her rights.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T15:34:30+00:00",
+        "link": "https://newsonair.gov.in/ncw-forms-high-level-expert-committee-to-review-laws-governing-ivf-clinics/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "HM Amit Shah reviews security with SPs from border districts to curb illegal immigration",
+        "summary": "Union Home Minister Amit Shah today chaired a conference of Superintendents of Police SPs from border districts in New Delhi. Superintendents of Police from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal and the northeastern state participated in the conference. Senior officials of the Home […]",
+        "article": "Union Home Minister Amit Shah today chaired a conference of Superintendents of Police SPs from border districts in New Delhi. Superintendents of Police from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal and the northeastern state participated in the conference. Senior officials of the Home Ministry also attended the conference. The conference was aimed at strengthening the country&#8217;s border security framework by assessing the prevailing situation in vulnerable frontier regions and identifying measures to improve enforcement. The meeting assumes significance amid the Centre’s intensified campaign against illegal immigration, which has been an organised attempt to alter the demographic composition of districts located along the international border in the eastern part of the country. Apart from infiltration, illegal immigration and demographic changes, border security, drone threats and narcotics trafficking were discussed during the meeting. The conference took place against the backdrop of the Centre’s decision to constitute a high-level committee a few months ago to examine the extent of demographic changes taking place in different parts of the country and identify the factors responsible for them.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T14:30:47+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-to-review-border-security-with-sps-from-border-districts/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -445,45 +467,12 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T13:53:11+00:00",
         "link": "https://newsonair.gov.in/ins-sudarshinis-port-call-at-new-york-signifies-cultural-partnership-between-india-us/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/naval-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "QCI-NSIC Partnership to Integrate ZED Certification, Digital Market Access and MSME Support Initiatives",
-        "summary": "The Quality Council of India (QCI) today signed an agreement with National Small Industries Corporation Limited (NSIC) in New Delhi to establish a collaborative ecosystem aimed at strengthening quality, competitiveness and market access for Micro, Small and Medium Enterprises (MSMEs) across the country. The partnership brings together QCI&#8217;s expertise in quality, accreditation and certificati",
-        "article": "The Quality Council of India (QCI) today signed an agreement with National Small Industries Corporation Limited (NSIC) in New Delhi to establish a collaborative ecosystem aimed at strengthening quality, competitiveness and market access for Micro, Small and Medium Enterprises (MSMEs) across the country. The partnership brings together QCI&#8217;s expertise in quality, accreditation and certification with NSIC&#8217;s extensive MSME support ecosystem to accelerate the adoption of globally recognised quality standards and enhance the growth of Indian enterprises. The collaboration seeks to integrate key national initiatives, including the MSME Sustainable Certification Scheme, MSME Global Mart, the TEAM Initiative and the Single Point Registration Scheme. It will facilitate wider adoption of Zero Defect Zero Effect (ZED) Certification, improve digital market access, strengthen testing and accreditation infrastructure, and expand capacity-building opportunities for MSMEs and training institutions. Chairman-cum-Managing Director, NSIC, Dr. Subhransu Sekhar Acharya and Senior Director and Head, National Division for Industry Excellence, QCI, Dr. A. Raj were present on the occasion. Speaking on the occasion, Dr Acharya said that the collaboration would help build a stronger ecosystem that empowers enterprises to compete confidently in both domestic and global markets. Further, Dr Raj said that the partnership would enhance MSME competitiveness, strengthen quality consciousness and further advance QCI&#8217;s National Quality Campaign.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T12:45:34+00:00",
-        "link": "https://newsonair.gov.in/qci-nsic-partnership-to-integrate-zed-certification-digital-market-access-and-msme-support-initiatives/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ZED.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Russia call for concerted action against terrorists and terrorist groups during JWG meeting",
-        "summary": "India and Russia have called for concerted action against terrorists and terrorist groups, including those listed in the UNSC 1267 Sanctions Committee and their proxy groups and affiliates. The 14th meeting of the India-Russia Joint Working Group on Counter Terrorism took place in New Delhi yesterday. The meeting was co-chaired by Secretary (West) […]",
-        "article": "India and Russia have called for concerted action against terrorists and terrorist groups, including those listed in the UNSC 1267 Sanctions Committee and their proxy groups and affiliates. The 14th meeting of the India-Russia Joint Working Group on Counter Terrorism took place in New Delhi yesterday. The meeting was co-chaired by Secretary (West) in the Ministry of External Affairs, Sibi George and Deputy Minister of Foreign Affairs of Russia, Dmitry Lyubinsky. Representatives of relevant departments and agencies from both sides also participated in the meeting. Both sides condemned terrorism in all its forms and manifestations, including cross-border terrorism. They condemned the terrorist attack in Pahalgam on 22 April 2025 and the terror incident near Red Fort on 10th November 2025, in the strongest terms. External Affairs Ministry said in a statement that the two sides shared their experiences in countering terrorism and agreed to enhance cooperation to address challenges of violent extremism, radicalization, terror financing and the use of new and emerging technologies and digital financial technologies for terrorist purposes. They discussed the current and emerging terrorist threats at the global and regional level. Both sides reaffirmed their commitment to strengthening counter-terrorism cooperation in bilateral as well as multilateral platforms including at the UN, BRICS, and SCO.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T11:37:58+00:00",
-        "link": "https://newsonair.gov.in/india-and-russia-call-for-concerted-action-against-terrorists-and-terrorist-groups-during-jwg-meeting/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Russia-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "world": [
-      {
-        "title": "UK expresses concern over unrest in PoJK due to brutal crackdown on civilians by Pak security forces",
-        "summary": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party",
-        "article": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party leader and MP, Bob Blackman, said that Pakistani security forces had opened fire on peaceful demonstrators in PoJK, resulting in multiple deaths and injuries of civilians, including British nationals. He asked the British government whether it had summoned Pakistan&#8217;s High Commissioner over the reported violence and what steps had been taken to protect innocent bystanders. Raising the issue in a parliamentary debate, another UK lawmaker, Imran Hussain, voiced serious concern over continued bloodshed, arbitrary arrests and restrictions on communication in PoJK. Hussain said that reports suggesting restrictions on the movement of food and medical supplies into several parts of the region are deeply alarming. He emphasised that respect for the human rights of Kashmiris in PoJK must remain at the heart of any negotiations. The Joint Awami Action Committee, JAAC has warned Pakistan it will launch final action if its demands are unmet, inviting global observers to witness the situation. These demands include economic reforms, fair resource distribution, reduced paramilitary presence, and changes to legislative seat allocations. JAAC leader Sardar Aman Khan has sought humanitarian aid from India, citing shortages due to an alleged blockade and military crackdown. He accused Islamabad of hypocrisy for labelling activists as terrorists.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T14:31:52+00:00",
-        "link": "https://newsonair.gov.in/uk-expresses-concern-over-unrest-in-pojk-due-to-brutal-crackdown-on-civilians-by-pak-security-forces/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
       {
         "title": "Iran accuses US of alleged airstrike near nuke power plant in Bushehr",
         "summary": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the […]",
@@ -491,30 +480,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T12:00:53+00:00",
         "link": "https://newsonair.gov.in/iran-accuses-us-of-alleged-airstrike-near-nuke-power-plant-in-bushehr/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Indian diaspora gathers in large numbers for ‘Melbourne Meets Modi’ event",
-        "summary": "The air inside Melbourne’s iconic Marvel Stadium is vibrating with raw, electric energy as a massive crowd of ecstatic members of the Indian-Australian community is gathering for the historic &#8220;Melbourne Meets Modi&#8221; diaspora event. It is not a world-class sporting finale or a stadium-rock concert drawing this ocean of people, but a loud, high-octane celebration […]",
-        "article": "The air inside Melbourne’s iconic Marvel Stadium is vibrating with raw, electric energy as a massive crowd of ecstatic members of the Indian-Australian community is gathering for the historic &#8220;Melbourne Meets Modi&#8221; diaspora event. It is not a world-class sporting finale or a stadium-rock concert drawing this ocean of people, but a loud, high-octane celebration of cultural pride and shared heritage. The venue is transforming into a spectacular sea of tricolour flags, traditional attire, and deafening cheers. As roaring chants are bouncing off the stadium&#8217;s retractable roof, this grand gathering is proving that the diaspora is truly acting as a vibrant force driving the future of the India-Australia strategic partnership.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T08:20:24+00:00",
-        "link": "https://newsonair.gov.in/indian-diaspora-gathers-in-large-numbers-for-melbourne-meets-modi-event/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indian-diaspora-gathers-in-large-numbers-for-Melbourne-Meets-Modi-event.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "WIPO report reaffirms India’s emergence as a global innovation powerhouse",
-        "summary": "The World Intangible Investment Report 2026, launched by World Intellectual Property Organization and Luiss Business School, reaffirms India&#8217;s emergence as a global innovation powerhouse. &#160; In a social media post, Union Commerce and Industry Minister Piyush Goyal said that the report highlights India&#8217;s growing intangible investment in areas such as software, R&#38;D, intellectual",
-        "article": "The World Intangible Investment Report 2026, launched by World Intellectual Property Organization and Luiss Business School, reaffirms India&#8217;s emergence as a global innovation powerhouse. &nbsp; In a social media post, Union Commerce and Industry Minister Piyush Goyal said that the report highlights India&#8217;s growing intangible investment in areas such as software, R&D, intellectual property, innovation and organisational capabilities that are shaping the economy of the future. It mentions how India recorded the fastest growth in intangible investment among the world&#8217;s 15 largest economies, reaching 78.2 billion dollar in 2023, with 7.9 percent growth, ahead of tangible investment. Mr Goyal added that driven by the energy and aspirations of the young innovators, entrepreneurs and creators, India remains the world&#8217;s fastest-growing major economy, a global bright spot, and is steadily building a knowledge-driven future powered by ideas, innovation and enterprise. &nbsp; The Minister noted that under the leadership of the Prime Minister, India continues to strengthen its innovation ecosystem through sustained reforms, digital transformation and support for startups.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T08:11:13+00:00",
-        "link": "https://newsonair.gov.in/wipo-report-reaffirms-indias-emergence-as-a-global-innovation-powerhouse/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-17.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bushehr_City.jpg",
+        "image_credit": "Wikipedia – Bushehr (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -524,19 +491,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T06:20:24+00:00",
         "link": "https://newsonair.gov.in/us-launches-fresh-airstrikes-on-iran-tehran-targets-bahrain-kuwait-and-qatar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Akashvani-News.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi welcomes AustralianSuper’s 500 million Australian dollar investment in India",
-        "summary": "India welcomed the five hundred million Australian dollar investment from AustralianSuper, announced by their Chief Executive Officer, Paul Schroder this morning in Melbourne. &#160; In a social media post, Prime Minister Narendra Modi said that this is another glimpse of the global confidence in India’s growth and reform trajectory. He added it also reflects the […]",
-        "article": "India welcomed the five hundred million Australian dollar investment from AustralianSuper, announced by their Chief Executive Officer, Paul Schroder this morning in Melbourne. &nbsp; In a social media post, Prime Minister Narendra Modi said that this is another glimpse of the global confidence in India’s growth and reform trajectory. He added it also reflects the immense opportunities that India’s dynamic economy offers to global investors.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T05:36:48+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-welcomes-australiansupers-500-million-australian-dollar-investment-in-india/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260707682f.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/1280px-North_of_Tehran_Skyline_view.jpg",
+        "image_credit": "Wikipedia – Tehran (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -546,8 +502,52 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T05:27:31+00:00",
         "link": "https://newsonair.gov.in/3rd-brics-transport-ministers-meeting-to-begin-in-maharashtras-nagpur-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/brics.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cave_26%2C_Ajanta.jpg/1280px-Cave_26%2C_Ajanta.jpg",
+        "image_credit": "Wikipedia – Maharashtra (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "UK expresses concern over unrest in PoJK due to brutal crackdown on civilians by Pak security forces",
+        "summary": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party",
+        "article": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party leader and MP, Bob Blackman, said that Pakistani security forces had opened fire on peaceful demonstrators in PoJK, resulting in multiple deaths and injuries of civilians, including British nationals. He asked the British government whether it had summoned Pakistan&#8217;s High Commissioner over the reported violence and what steps had been taken to protect innocent bystanders. Raising the issue in a parliamentary debate, another UK lawmaker, Imran Hussain, voiced serious concern over continued bloodshed, arbitrary arrests and restrictions on communication in PoJK. Hussain said that reports suggesting restrictions on the movement of food and medical supplies into several parts of the region are deeply alarming. He emphasised that respect for the human rights of Kashmiris in PoJK must remain at the heart of any negotiations. The Joint Awami Action Committee, JAAC has warned Pakistan it will launch final action if its demands are unmet, inviting global observers to witness the situation. These demands include economic reforms, fair resource distribution, reduced paramilitary presence, and changes to legislative seat allocations. JAAC leader Sardar Aman Khan has sought humanitarian aid from India, citing shortages due to an alleged blockade and military crackdown. He accused Islamabad of hypocrisy for labelling activists as terrorists.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T14:31:52+00:00",
+        "link": "https://newsonair.gov.in/uk-expresses-concern-over-unrest-in-pojk-due-to-brutal-crackdown-on-civilians-by-pak-security-forces/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian diaspora gathers in large numbers for ‘Melbourne Meets Modi’ event",
+        "summary": "The air inside Melbourne’s iconic Marvel Stadium is vibrating with raw, electric energy as a massive crowd of ecstatic members of the Indian-Australian community is gathering for the historic &#8220;Melbourne Meets Modi&#8221; diaspora event. It is not a world-class sporting finale or a stadium-rock concert drawing this ocean of people, but a loud, high-octane celebration […]",
+        "article": "The air inside Melbourne’s iconic Marvel Stadium is vibrating with raw, electric energy as a massive crowd of ecstatic members of the Indian-Australian community is gathering for the historic &#8220;Melbourne Meets Modi&#8221; diaspora event. It is not a world-class sporting finale or a stadium-rock concert drawing this ocean of people, but a loud, high-octane celebration of cultural pride and shared heritage. The venue is transforming into a spectacular sea of tricolour flags, traditional attire, and deafening cheers. As roaring chants are bouncing off the stadium&#8217;s retractable roof, this grand gathering is proving that the diaspora is truly acting as a vibrant force driving the future of the India-Australia strategic partnership.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T08:20:24+00:00",
+        "link": "https://newsonair.gov.in/indian-diaspora-gathers-in-large-numbers-for-melbourne-meets-modi-event/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "WIPO report reaffirms India’s emergence as a global innovation powerhouse",
+        "summary": "The World Intangible Investment Report 2026, launched by World Intellectual Property Organization and Luiss Business School, reaffirms India&#8217;s emergence as a global innovation powerhouse. &#160; In a social media post, Union Commerce and Industry Minister Piyush Goyal said that the report highlights India&#8217;s growing intangible investment in areas such as software, R&#38;D, intellectual",
+        "article": "The World Intangible Investment Report 2026, launched by World Intellectual Property Organization and Luiss Business School, reaffirms India&#8217;s emergence as a global innovation powerhouse. &nbsp; In a social media post, Union Commerce and Industry Minister Piyush Goyal said that the report highlights India&#8217;s growing intangible investment in areas such as software, R&D, intellectual property, innovation and organisational capabilities that are shaping the economy of the future. It mentions how India recorded the fastest growth in intangible investment among the world&#8217;s 15 largest economies, reaching 78.2 billion dollar in 2023, with 7.9 percent growth, ahead of tangible investment. Mr Goyal added that driven by the energy and aspirations of the young innovators, entrepreneurs and creators, India remains the world&#8217;s fastest-growing major economy, a global bright spot, and is steadily building a knowledge-driven future powered by ideas, innovation and enterprise. &nbsp; The Minister noted that under the leadership of the Prime Minister, India continues to strengthen its innovation ecosystem through sustained reforms, digital transformation and support for startups.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T08:11:13+00:00",
+        "link": "https://newsonair.gov.in/wipo-report-reaffirms-indias-emergence-as-a-global-innovation-powerhouse/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi welcomes AustralianSuper’s 500 million Australian dollar investment in India",
+        "summary": "India welcomed the five hundred million Australian dollar investment from AustralianSuper, announced by their Chief Executive Officer, Paul Schroder this morning in Melbourne. &#160; In a social media post, Prime Minister Narendra Modi said that this is another glimpse of the global confidence in India’s growth and reform trajectory. He added it also reflects the […]",
+        "article": "India welcomed the five hundred million Australian dollar investment from AustralianSuper, announced by their Chief Executive Officer, Paul Schroder this morning in Melbourne. &nbsp; In a social media post, Prime Minister Narendra Modi said that this is another glimpse of the global confidence in India’s growth and reform trajectory. He added it also reflects the immense opportunities that India’s dynamic economy offers to global investors.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:36:48+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-welcomes-australiansupers-500-million-australian-dollar-investment-in-india/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -557,8 +557,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T05:20:07+00:00",
         "link": "https://newsonair.gov.in/australia-india-business-council-highlights-growing-momentum-of-make-with-india-initiative/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -568,8 +568,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T04:14:32+00:00",
         "link": "https://newsonair.gov.in/pm-modi-arrives-at-government-house-in-victoria-for-3rd-india-australia-leaders-summit/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/mel.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -579,45 +579,12 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T04:05:36+00:00",
         "link": "https://newsonair.gov.in/indias-aswath-s-becomes-countrys-98th-chess-grandmaster/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indias-Aswath-S-becomes-countrys-98th-Chess-Grandmaster.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "sports": [
-      {
-        "title": "Govt orders recognised sports federations to publish qualifications & selection process for LA Olympics",
-        "summary": "The Ministry of Youth Affairs and Sports has directed all recognised National Sports Federations (NSFs) to publish the Olympic qualification and selection pathway, including the criteria and process to be adopted for the selection of athletes for the Los Angeles 2028 Olympic Games. The Ministry said that the selection policy and criteria for mega sporting […]",
-        "article": "The Ministry of Youth Affairs and Sports has directed all recognised National Sports Federations (NSFs) to publish the Olympic qualification and selection pathway, including the criteria and process to be adopted for the selection of athletes for the Los Angeles 2028 Olympic Games. The Ministry said that the selection policy and criteria for mega sporting events such as the Olympics, Paralympics, Asian Games, Para Asian Games and Commonwealth Games should be well publicised and uploaded on the official website of the concerned NSF at least two years before the commencement of the respective Games. The selection policy and criteria should also be shared with the member units of the NSFs and the Sports Authority of India. The Los Angeles Olympic Games are scheduled to be held between 14th and 30th July in 2028. The qualification pathways for the Los Angeles 2028 Olympic Games have been released by the respective International Federations. All recognised National Sports Federations have been requested to publish the Olympic qualification and selection pathway, including the criteria and process to be adopted for the selection of athletes for the Games before the 15th of this month. The Ministry said that the initiative is aimed at promoting greater transparency and accountability in the athlete selection process for the benefit of all stakeholders.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:50:12+00:00",
-        "link": "https://newsonair.gov.in/govt-orders-recognised-sports-federations-to-publish-qualifications-selection-process-for-la-olympics/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/LA.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Wimbledon: Karolína Muchová of Czech Republic reaches Women’s Singles final",
-        "summary": "In Wimbledon Tennis, Karolína Muchová of Czech Republic has reached Women&#8217;s Singles final. 10th seed Muchová defeated 7th seed American player Coco Gauff 6-2, 1-6, 7-6 in the first semi final of Women&#8217;s Singles this evening. Later in the second semi final, Ukraine&#8217;s Marta Kostyuk will take on Czech player Linda Noskova. Men&#8217;s Singles […]",
-        "article": "In Wimbledon Tennis, Karolína Muchová of Czech Republic has reached Women&#8217;s Singles final. 10th seed Muchová defeated 7th seed American player Coco Gauff 6-2, 1-6, 7-6 in the first semi final of Women&#8217;s Singles this evening. Later in the second semi final, Ukraine&#8217;s Marta Kostyuk will take on Czech player Linda Noskova. Men&#8217;s Singles semi finals will be played tomorrow. In the first semi final match, British player Arthur Fery will clash with Alexander Zverev of Germany while World No. 1 and defending champion Jannik Sinner of Italy will face Serbia&#8217;s Novak Djokovic in the second semi final.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:46:30+00:00",
-        "link": "https://newsonair.gov.in/wimbledon-marta-kostyuk-linda-noskova-enter-womens-singles-semi-finals/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Wimbeldon-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Indian Pickleball Association announces squad for Pickleball World Cup 2026",
-        "summary": "The Indian Pickleball Association has announced the Indian contingent for the Pickleball World Cup 2026 after a highly competitive selection process to represent the nation in Pro category at the Pickleball World Cup 2026, which will be held at Da Nang, Vietnam, from August 30 to September 6. &#160; Harsh Mehta, a recurring name on […]",
-        "article": "The Indian Pickleball Association has announced the Indian contingent for the Pickleball World Cup 2026 after a highly competitive selection process to represent the nation in Pro category at the Pickleball World Cup 2026, which will be held at Da Nang, Vietnam, from August 30 to September 6. &nbsp; Harsh Mehta, a recurring name on the international pickleball circuit, will be leading the charge. He will be accompanied by Arjun Singh, who is also representing and captaining India in the Under-18 category at the World Cup. Anish Frolian and Aman Patel make the cut as well in the men’s category. Mihika Yadav, Aaliyah Ebrahim, Pearl Amalsadiwala and Naomi Amalsadiwali make up the contingent on the women’s side.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T08:00:16+00:00",
-        "link": "https://newsonair.gov.in/indian-pickleball-association-announces-squad-for-pickleball-world-cup-2026/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indian-Pickleball-Association.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
       {
         "title": "Men’s Cricket: India to face England in fourth T20I in Bristol today",
         "summary": "In Men&#8217;s Cricket, India will face England in the fourth T20 International of the five-match series at the County Ground in Bristol tonight. The match will begin at 10 PM IST. India trails the series 0-2, making this a must-win game to stay alive. Captain Shreyas Iyer and head coach Gautam Gambhir are under […]",
@@ -625,19 +592,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T06:30:09+00:00",
         "link": "https://newsonair.gov.in/mens-cricket-india-to-face-england-in-fourth-t20i-in-bristol-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/crics.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India’s Arnav Paparkar reaches Wimbledon Juniors boys’ singles quarter-finals",
-        "summary": "India&#8217;s Arnav Paparkar created history by becoming the first Indian in 36 years to reach the boys&#8217; singles quarter-finals at the Wimbledon Juniors 2026. The 18-year-old Paparkar defeated Japan&#8217;s Ryo Tabata 6-2, 6-1 in just 52 minutes in the prequarter-finals. Earlier, he shocked world No. 3 Keaton Hance of the United States with a […]",
-        "article": "India&#8217;s Arnav Paparkar created history by becoming the first Indian in 36 years to reach the boys&#8217; singles quarter-finals at the Wimbledon Juniors 2026. The 18-year-old Paparkar defeated Japan&#8217;s Ryo Tabata 6-2, 6-1 in just 52 minutes in the prequarter-finals. Earlier, he shocked world No. 3 Keaton Hance of the United States with a 6-2, 6-3 win after beating Great Britain&#8217;s Joshua Craze 6-2, 6-2 in the opening round. He has not dropped a set so far in the tournament. Paparkar will next face either Jordan Lee of the United States in the quarter-finals at 5 PM today. Only three Indians have won the Wimbledon Juniors boys&#8217; singles title: Ramanathan Krishnan in 1954, Ramesh Krishnan in 1979, and the last was Leander Paes in 1990. Paparkar will now aim to join that elite list.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T05:32:30+00:00",
-        "link": "https://newsonair.gov.in/indias-arnav-paparkar-reaches-wimbledon-juniors-boys-singles-quarter-finals/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Pollock_to_Hussey.jpg",
+        "image_credit": "Wikipedia – Cricket (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -647,30 +603,8 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T12:26:57+00:00",
         "link": "https://newsonair.gov.in/telangana-to-host-8th-khelo-india-youth-games-2026/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/khelo-india.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "FIFA World Cup Quarter-Final Lineup Finalised",
-        "summary": "The quarter-final lineup for the FIFA World Cup has been finalised. France, Morocco, Norway, England, Spain, Belgium, Argentina and Switzerland have booked their places in the last eight after winning their round of 16 matches. The knockout stage now enters a crucial phase, with each team aiming to secure a place in the semifinals. France […]",
-        "article": "The quarter-final lineup for the FIFA World Cup has been finalised. France, Morocco, Norway, England, Spain, Belgium, Argentina and Switzerland have booked their places in the last eight after winning their round of 16 matches. The knockout stage now enters a crucial phase, with each team aiming to secure a place in the semifinals. France will face Morocco in the first quarter-final on Friday. The match will start at 1:30 AM. While Spain will take on Belgium on Saturday at 12:30 AM. On Sunday, Norway will play against England in their maiden FIFA World Cup quarter-final, and defending champions Argentina will meet Switzerland in the final quarter-final.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T11:43:51+00:00",
-        "link": "https://newsonair.gov.in/fifa-world-cup-quarter-final-lineup-finalised/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats-5-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "England beat India by 125 runs in third T20I",
-        "summary": "In Men&#8217;s Cricket, England defeated India by 125 runs in the 3rd T20 International at Trent Bridge in Nottingham last night. Chasing a target of 202 runs set by England, India lost wickets in quick succession and were all out with a paltry score of 76 in 11.4 overs. For England, Josh Tongue took 4 […]",
-        "article": "In Men&#8217;s Cricket, England defeated India by 125 runs in the 3rd T20 International at Trent Bridge in Nottingham last night. Chasing a target of 202 runs set by England, India lost wickets in quick succession and were all out with a paltry score of 76 in 11.4 overs. For England, Josh Tongue took 4 wickets, while Jofra Archer scalped 3. Earlier, India won the toss and opted to bowl. Put to bat, England scored 201 for 7 in stipulated 20 overs. Philip Salt was top scorer with 70 runs. Sam Curran made 41 runs. For India Prince Yadav and Harshit Rana scalped 2 wickets each. Jofra Archer was adjudged as the Player of the Match. With this win, England leads the 5 match series 2-0. England defeated India by 4 wickets in the second T20 match on Saturday in Manchester. The first T20 match between both the sides ended with no result due to rain. Bristol and Southampton will host the final two matches of the series. Following this, India will take on England in a three-match ODI series.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T01:27:33+00:00",
-        "link": "https://newsonair.gov.in/england-beat-india-by-125-runs-in-third-t20i/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/England-beat-India-by-125-runs-in-third-T20I.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Khelo_India.svg/1280px-Khelo_India.svg.png",
+        "image_credit": "Wikipedia – Khelo India Youth Games (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -680,8 +614,8 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T01:18:40+00:00",
         "link": "https://newsonair.gov.in/fifa-world-cup-switzerland-argentina-enter-quarterfinals/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/2026-FIFA-World-Cup-begins-today-across-United-States-Canada-and-Mexico.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpg",
+        "image_credit": "Wikipedia – FIFA World Cup (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -691,23 +625,78 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T15:46:01+00:00",
         "link": "https://newsonair.gov.in/wimbledon-tennis-ninth-seed-flavio-cobolli-enters-mens-singles-quarter-finals/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Wimbeldon.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Jannik_Sinner_2025_US_Open.jpg",
+        "image_credit": "Wikipedia – Jannik Sinner (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt orders recognised sports federations to publish qualifications & selection process for LA Olympics",
+        "summary": "The Ministry of Youth Affairs and Sports has directed all recognised National Sports Federations (NSFs) to publish the Olympic qualification and selection pathway, including the criteria and process to be adopted for the selection of athletes for the Los Angeles 2028 Olympic Games. The Ministry said that the selection policy and criteria for mega sporting […]",
+        "article": "The Ministry of Youth Affairs and Sports has directed all recognised National Sports Federations (NSFs) to publish the Olympic qualification and selection pathway, including the criteria and process to be adopted for the selection of athletes for the Los Angeles 2028 Olympic Games. The Ministry said that the selection policy and criteria for mega sporting events such as the Olympics, Paralympics, Asian Games, Para Asian Games and Commonwealth Games should be well publicised and uploaded on the official website of the concerned NSF at least two years before the commencement of the respective Games. The selection policy and criteria should also be shared with the member units of the NSFs and the Sports Authority of India. The Los Angeles Olympic Games are scheduled to be held between 14th and 30th July in 2028. The qualification pathways for the Los Angeles 2028 Olympic Games have been released by the respective International Federations. All recognised National Sports Federations have been requested to publish the Olympic qualification and selection pathway, including the criteria and process to be adopted for the selection of athletes for the Games before the 15th of this month. The Ministry said that the initiative is aimed at promoting greater transparency and accountability in the athlete selection process for the benefit of all stakeholders.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T15:50:12+00:00",
+        "link": "https://newsonair.gov.in/govt-orders-recognised-sports-federations-to-publish-qualifications-selection-process-for-la-olympics/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Wimbledon: Karolína Muchová of Czech Republic reaches Women’s Singles final",
+        "summary": "In Wimbledon Tennis, Karolína Muchová of Czech Republic has reached Women&#8217;s Singles final. 10th seed Muchová defeated 7th seed American player Coco Gauff 6-2, 1-6, 7-6 in the first semi final of Women&#8217;s Singles this evening. Later in the second semi final, Ukraine&#8217;s Marta Kostyuk will take on Czech player Linda Noskova. Men&#8217;s Singles […]",
+        "article": "In Wimbledon Tennis, Karolína Muchová of Czech Republic has reached Women&#8217;s Singles final. 10th seed Muchová defeated 7th seed American player Coco Gauff 6-2, 1-6, 7-6 in the first semi final of Women&#8217;s Singles this evening. Later in the second semi final, Ukraine&#8217;s Marta Kostyuk will take on Czech player Linda Noskova. Men&#8217;s Singles semi finals will be played tomorrow. In the first semi final match, British player Arthur Fery will clash with Alexander Zverev of Germany while World No. 1 and defending champion Jannik Sinner of Italy will face Serbia&#8217;s Novak Djokovic in the second semi final.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T15:46:30+00:00",
+        "link": "https://newsonair.gov.in/wimbledon-marta-kostyuk-linda-noskova-enter-womens-singles-semi-finals/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian Pickleball Association announces squad for Pickleball World Cup 2026",
+        "summary": "The Indian Pickleball Association has announced the Indian contingent for the Pickleball World Cup 2026 after a highly competitive selection process to represent the nation in Pro category at the Pickleball World Cup 2026, which will be held at Da Nang, Vietnam, from August 30 to September 6. &#160; Harsh Mehta, a recurring name on […]",
+        "article": "The Indian Pickleball Association has announced the Indian contingent for the Pickleball World Cup 2026 after a highly competitive selection process to represent the nation in Pro category at the Pickleball World Cup 2026, which will be held at Da Nang, Vietnam, from August 30 to September 6. &nbsp; Harsh Mehta, a recurring name on the international pickleball circuit, will be leading the charge. He will be accompanied by Arjun Singh, who is also representing and captaining India in the Under-18 category at the World Cup. Anish Frolian and Aman Patel make the cut as well in the men’s category. Mihika Yadav, Aaliyah Ebrahim, Pearl Amalsadiwala and Naomi Amalsadiwali make up the contingent on the women’s side.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T08:00:16+00:00",
+        "link": "https://newsonair.gov.in/indian-pickleball-association-announces-squad-for-pickleball-world-cup-2026/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India’s Arnav Paparkar reaches Wimbledon Juniors boys’ singles quarter-finals",
+        "summary": "India&#8217;s Arnav Paparkar created history by becoming the first Indian in 36 years to reach the boys&#8217; singles quarter-finals at the Wimbledon Juniors 2026. The 18-year-old Paparkar defeated Japan&#8217;s Ryo Tabata 6-2, 6-1 in just 52 minutes in the prequarter-finals. Earlier, he shocked world No. 3 Keaton Hance of the United States with a […]",
+        "article": "India&#8217;s Arnav Paparkar created history by becoming the first Indian in 36 years to reach the boys&#8217; singles quarter-finals at the Wimbledon Juniors 2026. The 18-year-old Paparkar defeated Japan&#8217;s Ryo Tabata 6-2, 6-1 in just 52 minutes in the prequarter-finals. Earlier, he shocked world No. 3 Keaton Hance of the United States with a 6-2, 6-3 win after beating Great Britain&#8217;s Joshua Craze 6-2, 6-2 in the opening round. He has not dropped a set so far in the tournament. Paparkar will next face either Jordan Lee of the United States in the quarter-finals at 5 PM today. Only three Indians have won the Wimbledon Juniors boys&#8217; singles title: Ramanathan Krishnan in 1954, Ramesh Krishnan in 1979, and the last was Leander Paes in 1990. Paparkar will now aim to join that elite list.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:32:30+00:00",
+        "link": "https://newsonair.gov.in/indias-arnav-paparkar-reaches-wimbledon-juniors-boys-singles-quarter-finals/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "FIFA World Cup Quarter-Final Lineup Finalised",
+        "summary": "The quarter-final lineup for the FIFA World Cup has been finalised. France, Morocco, Norway, England, Spain, Belgium, Argentina and Switzerland have booked their places in the last eight after winning their round of 16 matches. The knockout stage now enters a crucial phase, with each team aiming to secure a place in the semifinals. France […]",
+        "article": "The quarter-final lineup for the FIFA World Cup has been finalised. France, Morocco, Norway, England, Spain, Belgium, Argentina and Switzerland have booked their places in the last eight after winning their round of 16 matches. The knockout stage now enters a crucial phase, with each team aiming to secure a place in the semifinals. France will face Morocco in the first quarter-final on Friday. The match will start at 1:30 AM. While Spain will take on Belgium on Saturday at 12:30 AM. On Sunday, Norway will play against England in their maiden FIFA World Cup quarter-final, and defending champions Argentina will meet Switzerland in the final quarter-final.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T11:43:51+00:00",
+        "link": "https://newsonair.gov.in/fifa-world-cup-quarter-final-lineup-finalised/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "England beat India by 125 runs in third T20I",
+        "summary": "In Men&#8217;s Cricket, England defeated India by 125 runs in the 3rd T20 International at Trent Bridge in Nottingham last night. Chasing a target of 202 runs set by England, India lost wickets in quick succession and were all out with a paltry score of 76 in 11.4 overs. For England, Josh Tongue took 4 […]",
+        "article": "In Men&#8217;s Cricket, England defeated India by 125 runs in the 3rd T20 International at Trent Bridge in Nottingham last night. Chasing a target of 202 runs set by England, India lost wickets in quick succession and were all out with a paltry score of 76 in 11.4 overs. For England, Josh Tongue took 4 wickets, while Jofra Archer scalped 3. Earlier, India won the toss and opted to bowl. Put to bat, England scored 201 for 7 in stipulated 20 overs. Philip Salt was top scorer with 70 runs. Sam Curran made 41 runs. For India Prince Yadav and Harshit Rana scalped 2 wickets each. Jofra Archer was adjudged as the Player of the Match. With this win, England leads the 5 match series 2-0. England defeated India by 4 wickets in the second T20 match on Saturday in Manchester. The first T20 match between both the sides ended with no result due to rain. Bristol and Southampton will host the final two matches of the series. Following this, India will take on England in a three-match ODI series.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T01:27:33+00:00",
+        "link": "https://newsonair.gov.in/england-beat-india-by-125-runs-in-third-t20i/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "business": [
-      {
-        "title": "Govt waives basic customs duty on key components of electronic devices to promote domestic production",
-        "summary": "The Government has waived the basic customs duty on goods used in the manufacturing of display assemblies, lithium-ion cells and inductor coil modules with an aim to promote domestic production of electronic devices like smartphones, laptops, wearables and smart TVs. The Ministry of Finance has issued three separate notifications giving effect to the basic […]",
-        "article": "The Government has waived the basic customs duty on goods used in the manufacturing of display assemblies, lithium-ion cells and inductor coil modules with an aim to promote domestic production of electronic devices like smartphones, laptops, wearables and smart TVs. The Ministry of Finance has issued three separate notifications giving effect to the basic customs duty waiver on the goods used in manufacture of the three key components used in electronic devices. Electronics and IT Secretary S Krishnan said, the government&#8217;s move to waive basic customs duty on key components for electronics manufacturing will help deepen the value chain and the ecosystem.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:57:07+00:00",
-        "link": "https://newsonair.gov.in/govt-waives-basic-customs-duty-on-key-components-of-electronic-devices-to-promote-domestic-production/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Electronics.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
       {
         "title": "Oil prices up",
         "summary": "Global crude oil prices rose today. Brent crude was trading 0.9 per cent up at 78 US dollars and 69 cents per barrel. West Texas Intermediate crude was trading 0.7 per cent up at 74 US dollars and five cents per barrel, when reports last came in.",
@@ -715,8 +704,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T12:51:18+00:00",
         "link": "https://newsonair.gov.in/oil-prices-up-5/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Price_Utah.jpg/1280px-Price_Utah.jpg",
+        "image_credit": "Wikimedia Commons (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -726,8 +715,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T11:43:52+00:00",
         "link": "https://newsonair.gov.in/gold-silver-prices-up-4/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/gold-silver.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/1280px-Gold-crystals.jpg",
+        "image_credit": "Wikipedia – Gold (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -737,30 +726,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T11:40:30+00:00",
         "link": "https://newsonair.gov.in/rupee-appreciates-by-18-paise-to-close-at-95-38-against-us-dollar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/02/rupee.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Domestic markets end with modest gains despite positive opening",
-        "summary": "Benchmark domestic equity indices ended with modest gains of over 0.3 per cent today. The Sensex rose 238 points to close at 76,742. The Nifty also added 81 points to settle at 23,963. In the broader market on the National Stock Exchange, the Midcap 100 index climbed 1.4 per cent while the Smallcap 100 […]",
-        "article": "Benchmark domestic equity indices ended with modest gains of over 0.3 per cent today. The Sensex rose 238 points to close at 76,742. The Nifty also added 81 points to settle at 23,963. In the broader market on the National Stock Exchange, the Midcap 100 index climbed 1.4 per cent while the Smallcap 100 index surged 1.8 per cent. Earlier, markets opened on a positive note and traded higher despite lingering geopolitical uncertainties. However, both indices pared their early gains in the final half hour of trade amid profit-booking. In the Sensex pack, 17 out of 30 companies registered gains. Among the top performers, Sun Pharma soared 2.7 per cent, Bharti Airtel as well as Bajaj Finserv, gained over 2.1 per cent and Indigo jumped two per cent. In contrast, Infosys shed 1.8 per cent, Maruti as well as NTPC dropped one and a half per cent, and Axis Bank lost one per cent. In the sectoral indices on the BSE, 22 out of the 25 sectors ended in the positive zone. Among the top gainers, Reality jumped 3.7 per cent, PSU Banks rose over 1.7 per cent, and Telecommunication added nearly 1.7 per cent. In contrast, Utilities dropped 0.3 per cent, IT fell a quater of a per cent and Auto dipped 0.1 per cent. The overall market breadth at the BSE was positive, as shares of 2 thousand 825 advanced, 1 thousand 424 companies declined, and 167 remained unchanged.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T10:51:21+00:00",
-        "link": "https://newsonair.gov.in/domestic-markets-end-with-modest-gains-despite-positive-opening/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/SENSEX.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMF says India to remain world’s fastest-growing major economy",
-        "summary": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year […]",
-        "article": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year to 6.4 per cent. The report said, the projected performance of Indian economy is supported by strong momentum in private consumption and services activity. India’s growth projections are more than twice the global numbers, as the report gave a 3 per cent projection for the world economy’s growth this year. The report presented a relatively positive outlook for the world economy growth, as it is expected to rise 3.4 per cent next year. China, which is the second fastest-growing economy, was projected to grow by 4.6 per cent this year and lose a half point, falling to 4.1 per cent next year. The US ranked third with a projected growth of 2.3 per cent this year and 2.2 per cent next year.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T00:30:44+00:00",
-        "link": "https://newsonair.gov.in/imf-projects-india-to-remain-worlds-fastest-growing-major-economy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/IMF.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Rupee_Usage.png/1280px-Rupee_Usage.png",
+        "image_credit": "Wikipedia – Rupee (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -770,30 +737,19 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T12:00:11+00:00",
         "link": "https://newsonair.gov.in/epfo-to-credit-8-25-interest-for-fy-2025-26-by-july-15/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/epfo.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Malawi_interest_rates.JPG",
+        "image_credit": "Wikipedia – Interest (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
-        "title": "India ensures uninterrupted LPG supply by strengthening domestic production & effective diplomacy: Hardeep Puri",
-        "summary": "Petroleum and Natural Gas Minister Hardeep Singh Puri has said that domestic petrol and diesel prices are expected to move in a positive direction if international crude oil prices remain stable or decline. The Minister expressed confidence that the outlook for consumers remains favourable as global oil and gas supplies continue to expand. […]",
-        "article": "Petroleum and Natural Gas Minister Hardeep Singh Puri has said that domestic petrol and diesel prices are expected to move in a positive direction if international crude oil prices remain stable or decline. The Minister expressed confidence that the outlook for consumers remains favourable as global oil and gas supplies continue to expand. Addressing the Viksit Bharat Conclave 2026 in New Delhi, Mr. Puri said India successfully weathered one of the most challenging global energy disruptions in recent decades through a combination of diplomatic engagement, timely policy interventions, enhanced domestic production and diversified imports. He said the country&#8217;s experience demonstrated the importance of long-term energy reforms in ensuring energy security. Highlighting the government&#8217;s response to the crisis, the Minister said India ensured an uninterrupted supply of LPG by taking timely steps to strengthen domestic production and secure energy supplies. He said effective diplomacy helped facilitate the movement of Indian energy cargoes that were stranded following disruptions in the Strait of Hormuz, while close coordination with countries including Iran, Oman, Qatar and the UAE enabled the safe passage of Indian vessels. Mr. Puri said the government simultaneously increased domestic LPG production by directing refineries to prioritise cooking gas over higher-value petrochemical products. As a result, India&#8217;s LPG production capacity rose from about 35 thousand metric tonnes per day to 54 thousand metric tonnes per day within a short period, ensuring uninterrupted cooking gas supply to more than 33 crore LPG consumers across the country. The Minister said India also diversified its import basket to minimise the impact of supply disruptions. Apart from traditional suppliers in the Gulf, the country sourced LPG from the United States, Algeria, Argentina and several other countries. He added that Indian energy companies also reorganised shipping operations and redirected vessels to ensure that supplies continued without interruption. Mr. Puri said despite one of the most severe global energy crises, India did not face shortages of crude oil, natural gas or LPG. He noted that none of the country&#8217;s fuel retail outlets ran dry during the crisis and said timely government intervention helped prevent panic and stabilise supplies. On fuel prices, the Minister said petrol and diesel prices in India have remained among the lowest globally over the past four years. He attributed this to three rounds of excise duty reductions undertaken by the Centre, which absorbed a significant fiscal burden instead of passing the impact of higher international crude prices on to consumers. Speaking on the government&#8217;s long-term energy strategy, Mr. Puri said India has expanded its crude oil sourcing from 21 countries to nearly 40 while accelerating reforms in the upstream energy sector. He said the government has amended petroleum laws, opened previously restricted areas for exploration and introduced policy reforms to encourage greater investment in oil and gas exploration.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T00:34:42+00:00",
-        "link": "https://newsonair.gov.in/india-ensures-uninterrupted-lpg-supply-by-strengthening-domestic-production-effective-diplomacy-hardeep-puri/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Hardeep.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Domestic markets end in red despite opening on positive note",
-        "summary": "Benchmark domestic equity indices gave up their initial gains and ended on a negative note today. The Sensex dropped 104 points to close at 78 thousand 181. The Nifty dipped 32 points to settle at 24 thousand and 399. Both the indices dropped 0.13 per cent. In the broader market on the National Stock Exchange, […]",
-        "article": "Benchmark domestic equity indices gave up their initial gains and ended on a negative note today. The Sensex dropped 104 points to close at 78 thousand 181. The Nifty dipped 32 points to settle at 24 thousand and 399. Both the indices dropped 0.13 per cent. In the broader market on the National Stock Exchange, the Midcap 100 index fell 0.3 per cent while the Smallcap 100 index lost more than half a per cent. Earlier, markets opened on a positive note and traded with gains for most of the session. However, both indices lost momentum in the final hour of trade, weighed down by profit booking and weak global cues. In the Sensex pack, shares of 16 out of 30 companies registered losses. Among the top underperformers, Trent nosedived over 12.4 per cent, Adani Ports dropped 1.6 per cent, and Bharat Electronics Limited lost over one and a half per cent. Conversely, HCL Tech soared 3.1 per cent, Tech Mahindra as well as Infosys surged 2.8 per cent and Titan jumped 2.6 per cent. In the sectoral indices on the BSE, 20 out of 25 sectors ended in negative zone. Among the key laggards, Capital Goods shed over 1.7 per cent, Realty fell 1.6 per cent, and Industrials lost one and a half per cent. In contrast, Focused IT jumped more than 2.2 per cent, IT rose 2.1 per cent, and Consumer Durables added over 0.6 per cent. The overall market breadth at the BSE was negative, as shares of 2 thousand 633 declined, 1 thousand 599 companies advanced, and 165 remained unchanged.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T12:52:33+00:00",
-        "link": "https://newsonair.gov.in/domestic-markets-end-in-red-despite-opening-on-positive-note/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/sen.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "Govt waives basic customs duty on key components of electronic devices to promote domestic production",
+        "summary": "The Government has waived the basic customs duty on goods used in the manufacturing of display assemblies, lithium-ion cells and inductor coil modules with an aim to promote domestic production of electronic devices like smartphones, laptops, wearables and smart TVs. The Ministry of Finance has issued three separate notifications giving effect to the basic […]",
+        "article": "The Government has waived the basic customs duty on goods used in the manufacturing of display assemblies, lithium-ion cells and inductor coil modules with an aim to promote domestic production of electronic devices like smartphones, laptops, wearables and smart TVs. The Ministry of Finance has issued three separate notifications giving effect to the basic customs duty waiver on the goods used in manufacture of the three key components used in electronic devices. Electronics and IT Secretary S Krishnan said, the government&#8217;s move to waive basic customs duty on key components for electronics manufacturing will help deepen the value chain and the ecosystem.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T15:57:07+00:00",
+        "link": "https://newsonair.gov.in/govt-waives-basic-customs-duty-on-key-components-of-electronic-devices-to-promote-domestic-production/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -803,6 +759,50 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T11:30:06+00:00",
         "link": "https://newsonair.gov.in/asian-markets-send-on-positive-note/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Domestic markets end with modest gains despite positive opening",
+        "summary": "Benchmark domestic equity indices ended with modest gains of over 0.3 per cent today. The Sensex rose 238 points to close at 76,742. The Nifty also added 81 points to settle at 23,963. In the broader market on the National Stock Exchange, the Midcap 100 index climbed 1.4 per cent while the Smallcap 100 […]",
+        "article": "Benchmark domestic equity indices ended with modest gains of over 0.3 per cent today. The Sensex rose 238 points to close at 76,742. The Nifty also added 81 points to settle at 23,963. In the broader market on the National Stock Exchange, the Midcap 100 index climbed 1.4 per cent while the Smallcap 100 index surged 1.8 per cent. Earlier, markets opened on a positive note and traded higher despite lingering geopolitical uncertainties. However, both indices pared their early gains in the final half hour of trade amid profit-booking. In the Sensex pack, 17 out of 30 companies registered gains. Among the top performers, Sun Pharma soared 2.7 per cent, Bharti Airtel as well as Bajaj Finserv, gained over 2.1 per cent and Indigo jumped two per cent. In contrast, Infosys shed 1.8 per cent, Maruti as well as NTPC dropped one and a half per cent, and Axis Bank lost one per cent. In the sectoral indices on the BSE, 22 out of the 25 sectors ended in the positive zone. Among the top gainers, Reality jumped 3.7 per cent, PSU Banks rose over 1.7 per cent, and Telecommunication added nearly 1.7 per cent. In contrast, Utilities dropped 0.3 per cent, IT fell a quater of a per cent and Auto dipped 0.1 per cent. The overall market breadth at the BSE was positive, as shares of 2 thousand 825 advanced, 1 thousand 424 companies declined, and 167 remained unchanged.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T10:51:21+00:00",
+        "link": "https://newsonair.gov.in/domestic-markets-end-with-modest-gains-despite-positive-opening/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "IMF says India to remain world’s fastest-growing major economy",
+        "summary": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year […]",
+        "article": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year to 6.4 per cent. The report said, the projected performance of Indian economy is supported by strong momentum in private consumption and services activity. India’s growth projections are more than twice the global numbers, as the report gave a 3 per cent projection for the world economy’s growth this year. The report presented a relatively positive outlook for the world economy growth, as it is expected to rise 3.4 per cent next year. China, which is the second fastest-growing economy, was projected to grow by 4.6 per cent this year and lose a half point, falling to 4.1 per cent next year. The US ranked third with a projected growth of 2.3 per cent this year and 2.2 per cent next year.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T00:30:44+00:00",
+        "link": "https://newsonair.gov.in/imf-projects-india-to-remain-worlds-fastest-growing-major-economy/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India ensures uninterrupted LPG supply by strengthening domestic production & effective diplomacy: Hardeep Puri",
+        "summary": "Petroleum and Natural Gas Minister Hardeep Singh Puri has said that domestic petrol and diesel prices are expected to move in a positive direction if international crude oil prices remain stable or decline. The Minister expressed confidence that the outlook for consumers remains favourable as global oil and gas supplies continue to expand. […]",
+        "article": "Petroleum and Natural Gas Minister Hardeep Singh Puri has said that domestic petrol and diesel prices are expected to move in a positive direction if international crude oil prices remain stable or decline. The Minister expressed confidence that the outlook for consumers remains favourable as global oil and gas supplies continue to expand. Addressing the Viksit Bharat Conclave 2026 in New Delhi, Mr. Puri said India successfully weathered one of the most challenging global energy disruptions in recent decades through a combination of diplomatic engagement, timely policy interventions, enhanced domestic production and diversified imports. He said the country&#8217;s experience demonstrated the importance of long-term energy reforms in ensuring energy security. Highlighting the government&#8217;s response to the crisis, the Minister said India ensured an uninterrupted supply of LPG by taking timely steps to strengthen domestic production and secure energy supplies. He said effective diplomacy helped facilitate the movement of Indian energy cargoes that were stranded following disruptions in the Strait of Hormuz, while close coordination with countries including Iran, Oman, Qatar and the UAE enabled the safe passage of Indian vessels. Mr. Puri said the government simultaneously increased domestic LPG production by directing refineries to prioritise cooking gas over higher-value petrochemical products. As a result, India&#8217;s LPG production capacity rose from about 35 thousand metric tonnes per day to 54 thousand metric tonnes per day within a short period, ensuring uninterrupted cooking gas supply to more than 33 crore LPG consumers across the country. The Minister said India also diversified its import basket to minimise the impact of supply disruptions. Apart from traditional suppliers in the Gulf, the country sourced LPG from the United States, Algeria, Argentina and several other countries. He added that Indian energy companies also reorganised shipping operations and redirected vessels to ensure that supplies continued without interruption. Mr. Puri said despite one of the most severe global energy crises, India did not face shortages of crude oil, natural gas or LPG. He noted that none of the country&#8217;s fuel retail outlets ran dry during the crisis and said timely government intervention helped prevent panic and stabilise supplies. On fuel prices, the Minister said petrol and diesel prices in India have remained among the lowest globally over the past four years. He attributed this to three rounds of excise duty reductions undertaken by the Centre, which absorbed a significant fiscal burden instead of passing the impact of higher international crude prices on to consumers. Speaking on the government&#8217;s long-term energy strategy, Mr. Puri said India has expanded its crude oil sourcing from 21 countries to nearly 40 while accelerating reforms in the upstream energy sector. He said the government has amended petroleum laws, opened previously restricted areas for exploration and introduced policy reforms to encourage greater investment in oil and gas exploration.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T00:34:42+00:00",
+        "link": "https://newsonair.gov.in/india-ensures-uninterrupted-lpg-supply-by-strengthening-domestic-production-effective-diplomacy-hardeep-puri/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Domestic markets end in red despite opening on positive note",
+        "summary": "Benchmark domestic equity indices gave up their initial gains and ended on a negative note today. The Sensex dropped 104 points to close at 78 thousand 181. The Nifty dipped 32 points to settle at 24 thousand and 399. Both the indices dropped 0.13 per cent. In the broader market on the National Stock Exchange, […]",
+        "article": "Benchmark domestic equity indices gave up their initial gains and ended on a negative note today. The Sensex dropped 104 points to close at 78 thousand 181. The Nifty dipped 32 points to settle at 24 thousand and 399. Both the indices dropped 0.13 per cent. In the broader market on the National Stock Exchange, the Midcap 100 index fell 0.3 per cent while the Smallcap 100 index lost more than half a per cent. Earlier, markets opened on a positive note and traded with gains for most of the session. However, both indices lost momentum in the final hour of trade, weighed down by profit booking and weak global cues. In the Sensex pack, shares of 16 out of 30 companies registered losses. Among the top underperformers, Trent nosedived over 12.4 per cent, Adani Ports dropped 1.6 per cent, and Bharat Electronics Limited lost over one and a half per cent. Conversely, HCL Tech soared 3.1 per cent, Tech Mahindra as well as Infosys surged 2.8 per cent and Titan jumped 2.6 per cent. In the sectoral indices on the BSE, 20 out of 25 sectors ended in negative zone. Among the key laggards, Capital Goods shed over 1.7 per cent, Realty fell 1.6 per cent, and Industrials lost one and a half per cent. In contrast, Focused IT jumped more than 2.2 per cent, IT rose 2.1 per cent, and Consumer Durables added over 0.6 per cent. The overall market breadth at the BSE was negative, as shares of 2 thousand 633 declined, 1 thousand 599 companies advanced, and 165 remained unchanged.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T12:52:33+00:00",
+        "link": "https://newsonair.gov.in/domestic-markets-end-in-red-despite-opening-on-positive-note/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -928,30 +928,8 @@ window.VM_NEWS = {
         "date": "2026-03-24",
         "pubDate": "2026-03-24T07:13:43+00:00",
         "link": "https://newsonair.gov.in/health-minister-jp-nadda-urges-citizens-to-eliminate-tb-on-world-tuberculosis-day/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/TB-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India Tightens Surveillance on GLP-1 Weight Loss Drug Sales",
-        "summary": "The Drugs Controller of India has intensified regulatory surveillance against unauthorised sale and promotion of GLP-1 based Weight Loss Drugs. The move comes amid growing concerns over the increasing availability of multiple generic variants of these drugs in the Indian market, through retail pharmacies, online platforms, wholesalers, and wellness clinics. The Ministry of Health […]",
-        "article": "The Drugs Controller of India has intensified regulatory surveillance against unauthorised sale and promotion of GLP-1 based Weight Loss Drugs. The move comes amid growing concerns over the increasing availability of multiple generic variants of these drugs in the Indian market, through retail pharmacies, online platforms, wholesalers, and wellness clinics. The Ministry of Health and Family Welfare said that these drugs, when used without proper medical supervision, may lead to serious adverse effects and related health risks. Taking cognisance of the situation, India’s Drugs Controller, in collaboration with State Regulators, has initiated a series of targeted actions to curb possible malpractices across the pharmaceutical supply chain and prevent unauthorised sales and use. The Ministry noted that an advisory was issued on the 10th of this month, directing manufacturers to avoid surrogate advertisements and any form of indirect promotion that could mislead consumers or encourage off-label usage. It added that regulatory surveillance will continue to be intensified in the coming weeks, and non-compliances will be dealt with strictly, with actions including cancellation of licences, penalties, and prosecution under applicable laws. The Health Ministry advised the citizens to use such medications only under the guidance of qualified medical practitioners. The Ministry said the drug has been approved in the country with the condition of a prescription by Endocrinologists and Internal Medicine Specialists, and for some indications, by Cardiologists only.",
-        "date": "2026-03-24",
-        "pubDate": "2026-03-24T06:13:25+00:00",
-        "link": "https://newsonair.gov.in/india-tightens-surveillance-on-glp-1-weight-loss-drug-sales/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/wei.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "VP Radhakrishnan says Drug-free youth key to Viksit Bharat vision",
-        "summary": "Vice President CP Radhakrishnan today said that the vision of a Viksit Bharat can only be realised when the youth of the country is drug-free, healthy and purpose-driven. Mr Radhakrishnan said this while addressing Delhi University&#8217;s Drug Free Campus Campaign in the National Capital. On the occasion, Mr Radhakrishnan also launched a dedicated e-pledge platform […]",
-        "article": "Vice President CP Radhakrishnan today said that the vision of a Viksit Bharat can only be realised when the youth of the country is drug-free, healthy and purpose-driven. Mr Radhakrishnan said this while addressing Delhi University&#8217;s Drug Free Campus Campaign in the National Capital. On the occasion, Mr Radhakrishnan also launched a dedicated e-pledge platform and Mobile App for Drug-Free Campuses. The Vice President said that the campaign aligns strongly with the government’s Nasha Mukt Bharat Abhiyan. He underlined that substance abuse is a social challenge, a public health concern and a threat to the country’s demographic dividend. Mr Radhakrishnan also urged the students to actively participate and take the pledge for a drug-free campus. Mr Radhakrishnan highlighted that it is the need of the hour for everyone to keep themselves away from drugs. He also stressed the need to rise against drug abuse and spread awareness amongst everyone against the use of drugs. Mr Radhakrishnan said that drugs also spoil the physical and mental health of people. The Vice President also asserted that the youth are the greatest asset of the country and their talent, innovation and productivity form the backbone of the nation&#8217;s economic growth. He added that a drug-free youth is better equipped to acquire skills and foster entrepreneurship, which strengthens the economic progress of the nation. Mr Radhakrishnan said that drug terrorism is closely linked to narco-terrorism. He said that this business happens at the cost of humanity, and everyone must rise against the drug mafia. Speaking on the occasion, Education Minister Dharmendra Pradhan emphasised that the Drug Free Campus Campaign is aligned with the National Education Policy 2020. He also underscored the need for teachers and administrators to create a campus culture which prioritises student well-being.",
-        "date": "2026-01-13",
-        "pubDate": "2026-01-13T11:18:49+00:00",
-        "link": "https://newsonair.gov.in/vp-radhakrishnan-urges-youth-to-be-drug-free-for-a-viksit-bharat/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/vp-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/World_Tuberculosis_Day_%287020132217%29.jpg/1280px-World_Tuberculosis_Day_%287020132217%29.jpg",
+        "image_credit": "Wikipedia – World Tuberculosis Day (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -961,19 +939,8 @@ window.VM_NEWS = {
         "date": "2026-01-13",
         "pubDate": "2026-01-13T03:53:37+00:00",
         "link": "https://newsonair.gov.in/west-bengal-reports-two-suspected-nipah-cases-centre-sends-response-team/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/09/nipha.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Wild Poliovirus Detected in Sewage Samples Across 42 Sites in Pakistan",
-        "summary": "Wild poliovirus type 1 (WPV1) has been detected in sewage samples from 42 sites across Pakistan. The health officials reported that out of 127 samples collected from 87 districts in July, 42 tested positive, 75 were negative, and 10 are under process. The findings follow three new polio cases reported earlier this month, raising Pakistan&#8217;s […]",
-        "article": "Wild poliovirus type 1 (WPV1) has been detected in sewage samples from 42 sites across Pakistan. The health officials reported that out of 127 samples collected from 87 districts in July, 42 tested positive, 75 were negative, and 10 are under process. The findings follow three new polio cases reported earlier this month, raising Pakistan&#8217;s 2025 total to 17 cases, 10 from Khyber Pakhtunkhwa, five from Sindh, and one each from Punjab and Gilgit-Baltistan.",
-        "date": "2025-08-13",
-        "pubDate": "2025-08-13T11:11:04+00:00",
-        "link": "https://newsonair.gov.in/wild-poliovirus-detected-in-sewage-samples-across-42-sites-in-pakistan/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/PPPPP.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Howrah_bridge_betwixt_Lights.jpg/1280px-Howrah_bridge_betwixt_Lights.jpg",
+        "image_credit": "Wikipedia – West Bengal (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -983,8 +950,41 @@ window.VM_NEWS = {
         "date": "2025-08-05",
         "pubDate": "2025-08-05T12:03:13+00:00",
         "link": "https://newsonair.gov.in/chikungunya-outbreak-in-china-over-7000-cases-emerge-in-guangdong/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/chikungunya.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg/1280px-China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg",
+        "image_credit": "Wikipedia – Guangdong (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India Tightens Surveillance on GLP-1 Weight Loss Drug Sales",
+        "summary": "The Drugs Controller of India has intensified regulatory surveillance against unauthorised sale and promotion of GLP-1 based Weight Loss Drugs. The move comes amid growing concerns over the increasing availability of multiple generic variants of these drugs in the Indian market, through retail pharmacies, online platforms, wholesalers, and wellness clinics. The Ministry of Health […]",
+        "article": "The Drugs Controller of India has intensified regulatory surveillance against unauthorised sale and promotion of GLP-1 based Weight Loss Drugs. The move comes amid growing concerns over the increasing availability of multiple generic variants of these drugs in the Indian market, through retail pharmacies, online platforms, wholesalers, and wellness clinics. The Ministry of Health and Family Welfare said that these drugs, when used without proper medical supervision, may lead to serious adverse effects and related health risks. Taking cognisance of the situation, India’s Drugs Controller, in collaboration with State Regulators, has initiated a series of targeted actions to curb possible malpractices across the pharmaceutical supply chain and prevent unauthorised sales and use. The Ministry noted that an advisory was issued on the 10th of this month, directing manufacturers to avoid surrogate advertisements and any form of indirect promotion that could mislead consumers or encourage off-label usage. It added that regulatory surveillance will continue to be intensified in the coming weeks, and non-compliances will be dealt with strictly, with actions including cancellation of licences, penalties, and prosecution under applicable laws. The Health Ministry advised the citizens to use such medications only under the guidance of qualified medical practitioners. The Ministry said the drug has been approved in the country with the condition of a prescription by Endocrinologists and Internal Medicine Specialists, and for some indications, by Cardiologists only.",
+        "date": "2026-03-24",
+        "pubDate": "2026-03-24T06:13:25+00:00",
+        "link": "https://newsonair.gov.in/india-tightens-surveillance-on-glp-1-weight-loss-drug-sales/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "VP Radhakrishnan says Drug-free youth key to Viksit Bharat vision",
+        "summary": "Vice President CP Radhakrishnan today said that the vision of a Viksit Bharat can only be realised when the youth of the country is drug-free, healthy and purpose-driven. Mr Radhakrishnan said this while addressing Delhi University&#8217;s Drug Free Campus Campaign in the National Capital. On the occasion, Mr Radhakrishnan also launched a dedicated e-pledge platform […]",
+        "article": "Vice President CP Radhakrishnan today said that the vision of a Viksit Bharat can only be realised when the youth of the country is drug-free, healthy and purpose-driven. Mr Radhakrishnan said this while addressing Delhi University&#8217;s Drug Free Campus Campaign in the National Capital. On the occasion, Mr Radhakrishnan also launched a dedicated e-pledge platform and Mobile App for Drug-Free Campuses. The Vice President said that the campaign aligns strongly with the government’s Nasha Mukt Bharat Abhiyan. He underlined that substance abuse is a social challenge, a public health concern and a threat to the country’s demographic dividend. Mr Radhakrishnan also urged the students to actively participate and take the pledge for a drug-free campus. Mr Radhakrishnan highlighted that it is the need of the hour for everyone to keep themselves away from drugs. He also stressed the need to rise against drug abuse and spread awareness amongst everyone against the use of drugs. Mr Radhakrishnan said that drugs also spoil the physical and mental health of people. The Vice President also asserted that the youth are the greatest asset of the country and their talent, innovation and productivity form the backbone of the nation&#8217;s economic growth. He added that a drug-free youth is better equipped to acquire skills and foster entrepreneurship, which strengthens the economic progress of the nation. Mr Radhakrishnan said that drug terrorism is closely linked to narco-terrorism. He said that this business happens at the cost of humanity, and everyone must rise against the drug mafia. Speaking on the occasion, Education Minister Dharmendra Pradhan emphasised that the Drug Free Campus Campaign is aligned with the National Education Policy 2020. He also underscored the need for teachers and administrators to create a campus culture which prioritises student well-being.",
+        "date": "2026-01-13",
+        "pubDate": "2026-01-13T11:18:49+00:00",
+        "link": "https://newsonair.gov.in/vp-radhakrishnan-urges-youth-to-be-drug-free-for-a-viksit-bharat/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Wild Poliovirus Detected in Sewage Samples Across 42 Sites in Pakistan",
+        "summary": "Wild poliovirus type 1 (WPV1) has been detected in sewage samples from 42 sites across Pakistan. The health officials reported that out of 127 samples collected from 87 districts in July, 42 tested positive, 75 were negative, and 10 are under process. The findings follow three new polio cases reported earlier this month, raising Pakistan&#8217;s […]",
+        "article": "Wild poliovirus type 1 (WPV1) has been detected in sewage samples from 42 sites across Pakistan. The health officials reported that out of 127 samples collected from 87 districts in July, 42 tested positive, 75 were negative, and 10 are under process. The findings follow three new polio cases reported earlier this month, raising Pakistan&#8217;s 2025 total to 17 cases, 10 from Khyber Pakhtunkhwa, five from Sindh, and one each from Punjab and Gilgit-Baltistan.",
+        "date": "2025-08-13",
+        "pubDate": "2025-08-13T11:11:04+00:00",
+        "link": "https://newsonair.gov.in/wild-poliovirus-detected-in-sewage-samples-across-42-sites-in-pakistan/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -994,8 +994,8 @@ window.VM_NEWS = {
         "date": "2025-08-05",
         "pubDate": "2025-08-05T02:16:32+00:00",
         "link": "https://newsonair.gov.in/pm-matru-vandana-yojana-registration-drive-extended-till-august-15/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/pradhanmantri-matri-vandana-yojana-pmmvy.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1005,8 +1005,8 @@ window.VM_NEWS = {
         "date": "2025-07-28",
         "pubDate": "2025-07-28T03:24:29+00:00",
         "link": "https://newsonair.gov.in/vaccines-prevented-over-2-5-million-covid-deaths-worldwide-study/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/07/ffd.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1016,8 +1016,8 @@ window.VM_NEWS = {
         "date": "2025-07-14",
         "pubDate": "2025-07-14T11:41:18+00:00",
         "link": "https://newsonair.gov.in/world-embracing-ayurvedas-science-and-potential-ayush-minister/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/Pratap-Rao-Jadhav-1-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ]
@@ -1025,14 +1025,69 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "सरकार ई85 ईंधन लाने की योजना बना रही: हरदीप सिंह पुरी",
+        "summary": "पेट्रोलियम और प्राकृतिक गैस मंत्री हरदीप सिंह पुरी ने कहा है कि सरकार ई85 ईंधन लाने की योजना बना रही है, जो मानक ई20 पेट्रोल से करीब 20 रुपये प्रति लीटर सस्ता होगा। उन्होंने कहा कि ई85 केवल उन वाहनों के लिए उपलब्ध होगा जो विशेष रूप से इस ईंधन के उपयोग के लिए डिज़ाइन […]",
+        "article": "पेट्रोलियम और प्राकृतिक गैस मंत्री हरदीप सिंह पुरी ने कहा है कि सरकार ई85 ईंधन लाने की योजना बना रही है, जो मानक ई20 पेट्रोल से करीब 20 रुपये प्रति लीटर सस्ता होगा। उन्होंने कहा कि ई85 केवल उन वाहनों के लिए उपलब्ध होगा जो विशेष रूप से इस ईंधन के उपयोग के लिए डिज़ाइन किए गए हैं। एक निजी समाचार चैनल को दिए साक्षात्कार में पेट्रोलियम मंत्री ने कहा कि प्रस्तावित कदम का उद्देश्य उपभोक्ताओं को आर्थिक राहत प्रदान करना और साथ ही सरकार के इथेनॉल मिश्रण कार्यक्रम को आगे बढ़ाना है। उन्होंने व्यापक जैव ईंधन नीति का बचाव करते हुए इथेनॉल मिश्रित पेट्रोल से इंजन को होने वाले नुकसान और वाहन के प्रदर्शन से संबंधित चिंताओं को खारिज कर दिया।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T02:23:12+00:00",
+        "link": "https://newsonair.gov.in/hi/government-planning-to-introduce-e85-fuel-hardeep-singh-puri/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Hardeep.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बनाते हैं: अमित शाह",
+        "summary": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा […]",
+        "article": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा कि सरकार देश को पूरी तरह से घुसपैठ मुक्त बनाने के लिए एक मजबूत व्यवस्था का निर्माण कर रही है। श्री शाह कल नई दिल्ली में सीमावर्ती जिलों के पुलिस अधीक्षकों के एक सम्मेलन को संबोधित कर रहे थे। उन्होंने बताया कि नरेंद्र मोदी के नेतृत्व वाली सरकार ने वैज्ञानिक रूप से सीमावर्ती बुनियादी ढांचे में चार सौ प्रतिशत की वृद्धि की है। श्री शाह ने कहा कि सरकार 1600 किलोमीटर से अधिक लंबी भारत-म्यांमार सीमा पर 31 हजार करोड़ रुपये की लागत से बाड़ लगा रही है। उन्होंने इस बात पर जोर दिया कि सीमावर्ती क्षेत्रों में असामान्य कारकों की वजह से होने वाले जनसांख्यिकीय परिवर्तनों की जानकारी जमीनी स्तर से लेकर उच्च स्तर तक जल्द से जल्द पहुंचाई जानी चाहिए। गृह मंत्री ने कहा कि सरकार का उद्देश्य सीमावर्ती क्षेत्रों को सुरक्षित और रहने योग्य बनाते हुए, परोक्ष युद्ध, अवैध घुसपैठ, कट्टरपंथ, मादक पदार्थों की तस्करी, ड्रोन से संबंधित खतरों और जनसांख्यिकीय परिवर्तनों जैसी अन्य सुरक्षा चुनौतियों को रोकना है। इस सम्मेलन में जम्मू-कश्मीर, पंजाब, उत्तराखंड, राजस्थान, गुजरात, उत्तर प्रदेश, बिहार, पश्चिम बंगाल और पूर्वोत्तर राज्यों सहित सीमावर्ती राज्यों और केंद्र शासित प्रदेशों के पुलिस अधीक्षकों ने भाग लिया। सम्&#x200d;मेलन में गृह मंत्रालय के वरिष्ठ अधिकारियों ने भी भाग लिया। सम्मेलन का उद्देश्य संवेदनशील सीमावर्ती क्षेत्रों की वर्तमान स्थिति का आकलन करके प्रवर्तन में सुधार के उपायों की पहचान कर देश के सीमा सुरक्षा ढांचे को मजबूत करना था। यह सम्मेलन केंद्र सरकार के कुछ महीने पहले लिए गए उस निर्णय की पृष्ठभूमि में आयोजित किया गया था जिसमें देश के विभिन्न हिस्सों में हो रहे जनसांख्यिकीय परिवर्तनों की सीमा का अध्ययन करने और उनके लिए जिम्मेदार कारकों की पहचान करने के लिए एक उच्च स्तरीय समिति गठित करने का निर्णय लिया गया था।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T02:19:00+00:00",
+        "link": "https://newsonair.gov.in/hi/secure-borders-prosperous-border-regions-and-an-aware-society-together-make-the-country-secure-amit-shah/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzYWyNaoAAXI3z.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर",
+        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कुवैत की यात्रा पूरी करने के बाद ओमान पहुंच गए हैं। उनके आगमन पर ओमान के विदेश मंत्रालय के महानिदेशक शेख अहमद अल मस्कारी ने उनका स्वागत किया। डॉ. जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर हैं। ओमान यात्रा पूरी करने के बाद, […]",
+        "article": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कुवैत की यात्रा पूरी करने के बाद ओमान पहुंच गए हैं। उनके आगमन पर ओमान के विदेश मंत्रालय के महानिदेशक शेख अहमद अल मस्कारी ने उनका स्वागत किया। डॉ. जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर हैं। ओमान यात्रा पूरी करने के बाद, वे न्यूयॉर्क में संयुक्त राष्ट्र सुरक्षा परिषद के 2028-29 कार्यकाल के लिए भारत के आधिकारिक अभियान की शुरुआत करेंगे। इसके बाद विदेश मंत्री 14 और 15 जुलाई को ब्रुसेल्स में तीसरे भारत-यूरोपीय संघ व्यापार और प्रौद्योगिकी परिषद की बैठक में शामिल होंगे। डॉ. जयशंकर यूरोपीय संघ और बेल्जियम के विदेश मंत्री के साथ बातचीत भी करेंगे।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:50:45+00:00",
+        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-on-an-11-day-visit-to-qatar-bahrain-kuwait-oman-new-york-and-brussels/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzH5rtawAE5FAC-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कुशल कार्यबल और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों के पसंदीदा देशों में शामिल: वित्त मंत्री",
+        "summary": "वित्त मंत्री निर्मला सीतारामन ने कहा है कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों &#8211; जीसीसी के लिए सबसे पसंदीदा देशों में शामिल है। नई दिल्ली में सीआईआई राष्ट्रीय जीसीसी बिजनेस समिट-2026 को संबोधित करते हुए वित्तमंत्री ने कहा कि देश में इक्कीस सौ से अधिक जीसीसी हैं, जहां […]",
+        "article": "वित्त मंत्री निर्मला सीतारामन ने कहा है कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों &#8211; जीसीसी के लिए सबसे पसंदीदा देशों में शामिल है। नई दिल्ली में सीआईआई राष्ट्रीय जीसीसी बिजनेस समिट-2026 को संबोधित करते हुए वित्तमंत्री ने कहा कि देश में इक्कीस सौ से अधिक जीसीसी हैं, जहां 23 लाख से अधिक लोग प्रत्यक्ष रूप से कार्यरत हैं। इन केंद्रों से हर साल लगभग दस हज़ार करोड़ डॉलर का राजस्व प्राप्त होता है। उन्होंने कहा कि यह केंद्र इंजीनियरिंग, अनुसंधान, आर्टिफिशियल इंटेलीजेंस, साइबर सुरक्षा, वित्त, उत्पाद डिजाइन और डेटा विज्ञान को एक साथ लाकर नवाचार को बढ़ावा दे रहे हैं। वित्त मंत्री ने कहा कि बहुराष्ट्रीय कंपनियां अपने क्षमता केंद्र भारत में स्थापित करने की अधिक इच्छा रखती हैं। उन्होंने बल देकर कहा कि भारत का जीसीसी पारिस्थितिकी तंत्र विश्व का सबसे बड़ा संगठित ज्ञान निर्यात केंद्र है। वित्त मंत्री ने कहा कि भारत की आकांक्षा केवल विश्व के क्षमता केंद्रों की मेजबानी करना ही नहीं है, बल्कि भविष्य की नई प्रौद्योगिकियों और उद्यमों का नेतृत्व करना भी है।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:46:15+00:00",
+        "link": "https://newsonair.gov.in/hi/india-among-preferred-destinations-for-global-capability-centres-due-to-skilled-workforce-and-innovation-finance-minister/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzJdF4boAA0p-8.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संघर्ष-संबंधी यौन हिंसा की कड़ी निंदा की",
+        "summary": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते […]",
+        "article": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते हुए, संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि, राजदूत पी. ​​हरीश ने कहा कि इस तरह की हिंसा दण्ड मुक्ति की प्रचलित संस्कृति के बीच जारी है। उन्&#x200d;होंने कहा कि भारत ऐसे जघन्य कृत्यों की कड़ी निंदा करता है। संयुक्त राष्ट्र महासचिव की रिपोर्ट का संदर्भ देते हुए उन्होंने कहा कि 2025 में सत्यापित मामलों में हुई तीव्र वृद्धि सामूहिक कार्रवाई की तत्काल आवश्यकता को रेखांकित करती है। संयुक्त राष्ट्र शांतिरक्षा में भारत के महत्वपूर्ण योगदानों पर प्रकाश डालते हुए, श्री हरीश ने कहा कि महिला शांतिरक्षकों की तैनाती ने संघर्ष-संबंधी यौन हिंसा से निपटने में &#8220;परिवर्तनकारी प्रभाव&#8221; डाला है। उन्होंने यह घोषणा भी की कि संघर्ष से संबंधित यौन हिंसा को रोकने में उनके उत्कृष्ट प्रयासों के लिए भारतीय शांति रक्षक मेजर मोइज़ यासीन और मेजर सोनिया देवेंद्र नवस्कर को वर्ष 2026 के लिए संयुक्त राष्ट्र महासचिव का मिलिट्री जेंडर ऑफ द ईयर का मान्&#x200d;यता प्रमाणपत्र प्रदान किया जाएगा।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:37:00+00:00",
+        "link": "https://newsonair.gov.in/hi/india-strongly-condemned-conflict-related-sexual-violence/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-10-070515-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "वित्त मंत्री निर्मला सीतारमण ने नेशनल जीसीसी बिजनेस समिट 2026 को किया संबोधित",
         "summary": "वित्त मंत्री निर्मला सीतारमण ने आज कहा कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार पारिस्थितिकी तंत्र के कारण भारत वैश्विक क्षमता केंद्र (जीसीसी) के लिए पसंदीदा गंतव्य के रूप में उभर रहा है। नई दिल्ली में भारतीय उद्योग परिसंघ द्वारा आयोजित नेशनल जीसीसी बिजनेस समिट 2026 को संबोधित करते हुए, सुश्री सीतारामन ने कहा कि […]",
         "article": "वित्त मंत्री निर्मला सीतारमण ने आज कहा कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार पारिस्थितिकी तंत्र के कारण भारत वैश्विक क्षमता केंद्र (जीसीसी) के लिए पसंदीदा गंतव्य के रूप में उभर रहा है। नई दिल्ली में भारतीय उद्योग परिसंघ द्वारा आयोजित नेशनल जीसीसी बिजनेस समिट 2026 को संबोधित करते हुए, सुश्री सीतारामन ने कहा कि देश में 2100 से अधिक वैश्विक क्षमता केंद्र हैं, जिनमें 23 लाख पेशेवर प्रत्यक्ष रूप से कार्यरत हैं और लगभग 100 अरब अमरीकी डॉलर का वार्षिक राजस्व उत्पन्न होता है। उन्होंने कहा कि वैश्विक क्षमता केंद्र इंजीनियरिंग, अनुसंधान, एआई, साइबर सुरक्षा, वित्त, उत्पाद डिजाइन और डेटा विज्ञान को एक साथ लाकर निरंतर नवाचार को बढ़ावा देकर परिवर्तन का प्रतिनिधित्व करते हैं।",
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:37:59+00:00",
         "link": "https://newsonair.gov.in/hi/finance-minister-nirmala-sitharaman-addressed-the-national-gcc-business-summit-2026/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/निर्मला.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1042,8 +1097,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:36:48+00:00",
         "link": "https://newsonair.gov.in/hi/j-p-nadda-calls-upon-intellectuals-to-contribute-to-nation-building-for-a-viksit-bharat-2047-developed-india-2047/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/J-p-Nadda.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1053,8 +1108,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:35:38+00:00",
         "link": "https://newsonair.gov.in/hi/dpiit-amended-two-quality-control-orders-for-the-footwear-sector/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1064,8 +1119,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:34:22+00:00",
         "link": "https://newsonair.gov.in/hi/the-indian-navys-training-ship-sudarshini-completed-its-voyage-in-new-york-usa/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/naval-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1075,63 +1130,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:30:57+00:00",
         "link": "https://newsonair.gov.in/hi/india-australia-alliance-reaches-new-remarkable-heights-pm-modi-at-melbourne-meets-modi-event/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "एफएसएसएआई ने मादक पेय निर्माताओं को नियम उल्लंघन पर नोटिस जारी किए",
-        "summary": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (एफएसएसएआई) ने मादक पेय पदार्थों के निर्माताओं को मिलावटी स्वादों और भ्रामक आयु संबंधी दावों से संबंधित नियामक प्रावधानों का कथित रूप से पालन नहीं करने के लिए नोटिस जारी किए हैं। खाद्य व्यवसाय संचालकों (एफबीओ) को अनुपालन सुनिश्चित करने का निर्देश दिया गया है। अनुपालनों में मिलावटी स्वादों […]",
-        "article": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण ( एफएसएसएआई) ने मादक पेय पदार्थों के निर्माताओं को मिलावटी स्वादों और भ्रामक आयु संबंधी दावों से संबंधित नियामक प्रावधानों का कथित रूप से पालन नहीं करने के लिए नोटिस जारी किए हैं। खाद्य व्यवसाय संचालकों ( एफबीओ) को अनुपालन सुनिश्चित करने का निर्देश दिया गया है। अनुपालनों में मिलावटी स्वादों का निषिद्ध उपयोग और एफबीओ द्वारा आयु दर्शाने वाले शब्दों, पर्यायवाची शब्दों या अप्रत्यक्ष अभिव्यक्तियों का उपयोग करके अनधिकृत आयु संबंधी दावे करना शामिल है। एफएसएसएआई ने पाया कि कुछ निर्माता ऐसे मिलावटी स्वादों का उपयोग कर रहे हैं जो उत्पाद के प्राकृतिक स्वरूप की नकल करते हैं।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:30:41+00:00",
-        "link": "https://newsonair.gov.in/hi/fssai-issued-notices-to-alcoholic-beverage-manufacturers-for-rule-violations/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वस्त्र मंत्री गिरिराज सिंह ने आज नई दिल्ली में एक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता की",
-        "summary": "वस्त्र मंत्री गिरिराज सिंह ने आज नई दिल्ली में एक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता की। इस बैठक में प्रौद्योगिकी उन्नयन, संस्थागत सुधारों और उद्योग को बेहतर समर्थन के माध्यम से भारत के वस्त्र पारिस्थितिकी तंत्र को मजबूत करने के उद्देश्य से शुरू की गई प्रमुख पहलों की प्रगति का आकलन किया गया। वस्त्र […]",
-        "article": "वस्त्र मंत्री गिरिराज सिंह ने आज नई दिल्ली में एक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता की। इस बैठक में प्रौद्योगिकी उन्नयन, संस्थागत सुधारों और उद्योग को बेहतर समर्थन के माध्यम से भारत के वस्त्र पारिस्थितिकी तंत्र को मजबूत करने के उद्देश्य से शुरू की गई प्रमुख पहलों की प्रगति का आकलन किया गया। वस्त्र मंत्री ने पूर्ववर्ती पावरलूम सेवा केंद्रों के एकीकृत वस्त्र और परिधान विकास केंद्रों (आईटीएडीसी) में परिवर्तन की समीक्षा की। इन केंद्रों को वस्त्र क्षेत्र के लिए एकीकृत विकास केंद्रों के रूप में पुनर्स्थापित किया जा रहा है। नए आईटीएडीसी को वस्त्र उद्यमियों, सूक्ष्म, लघु और मध्यम उद्यमों और वस्त्र मूल्य श्रृंखला के अन्य हितधारकों को कौशल विकास, परीक्षण, डिजाइन सहायता, प्रौद्योगिकी अपनाने, उद्यमिता विकास, ऋण सुविधा, निर्यात प्रोत्साहन और बाजार संपर्क जैसी सुविधाएं प्रदान करने वाले एक ही स्थान पर सभी सुविधाएं उपलब्ध कराने वाले केंद्रों के रूप में परिकल्पित किया गया है। श्री सिंह ने संशोधित प्रौद्योगिकी उन्नयन निधि योजना के कार्यान्वयन की भी समीक्षा की और भारतीय वस्त्र उद्योग के आधुनिकीकरण में इसके योगदान की सराहना की। उन्होंने वस्त्र आयुक्त कार्यालय की नई वेबसाइट का उद्घाटन किया। इसमें योजनाओं, सेवाओं और संस्थागत गतिविधियों की व्यापक जानकारी के साथ एक आधुनिक, सुलभ और उपयोगकर्ता के अनुकूल इंटरफेस है। श्री सिंह ने आईटीएडीसी के लिए नव विकसित प्रमुख प्रदर्शन संकेतक पोर्टल का भी उद्घाटन किया। बैठक के दौरान श्री सिंह ने कहा कि आईटीएडीसी लगातार नवाचार और उद्यम विकास केंद्रों के रूप में विकसित हो रहे हैं। यह वस्त्र व्यवसायों को प्रारंभिक अवस्था से लेकर बाजार विस्तार तक सहयोग देने में सक्षम हैं। वस्त्र मंत्री ने कहा कि ये केंद्र उद्यमियों और उद्योग के लिए एक ही स्थान पर सभी सुविधाएं प्रदान करने वाले केंद्रों के रूप में कार्य करके भारत के वस्त्र विकास के अगले चरण को आधार प्रदान करेंगे। वस्त्र मंत्रालय की सचिव नीलम शमी राव भी इस अवसर पर उपस्थित थीं। उन्होंने संस्थागत समन्वय के महत्व पर जोर दिया। उन्होंने कहा कि सरकारी पहलों के अधिकतम प्रभाव के लिए क्षेत्रीय इकाइयों, वस्त्र समिति, निर्यात संवर्धन परिषदों, वस्त्र अनुसंधान संघों और उद्योग संघों को घनिष्ठ समन्वय में कार्य करना चाहिए।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:28:52+00:00",
-        "link": "https://newsonair.gov.in/hi/textiles-minister-giriraj-singh-chaired-a-high-level-review-meeting-in-new-delhi-today/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "चीन के जिनजियांग शहर में आज एक जूता कारखाने में लगी भीषण आग में 28 लोगों की मौत",
-        "summary": "चीन के जिनजियांग शहर में आज एक जूता कारखाने में लगी भीषण आग में 28 लोगों की मौत हो गई। आपातकालीन प्रबंधन मंत्रालय ने राहत और बचाव कार्यों के लिए पूर्वी चीन के फुजियान प्रांत के क्वानझोउ स्थित जिनजियांग शहर में एक संयुक्त कार्य दल भेजा है। मंत्रालय ने बताया कि कारखाने में दोपहर करीब […]",
-        "article": "चीन के जिनजियांग शहर में आज एक जूता कारखाने में लगी भीषण आग में 28 लोगों की मौत हो गई। आपातकालीन प्रबंधन मंत्रालय ने राहत और बचाव कार्यों के लिए पूर्वी चीन के फुजियान प्रांत के क्वानझोउ स्थित जिनजियांग शहर में एक संयुक्त कार्य दल भेजा है। मंत्रालय ने बताया कि कारखाने में दोपहर करीब 12 बजे आग लगी। घटना के वीडियो में आग पूरी इमारत और आसपास की इमारतों को अपनी चपेट में लेती हुई दिखाई दे रही है। चीन के राष्ट्रपति शी जिनपिंग ने अधिकारियों को तलाश और बचाव अभियान चलाने, दुर्घटना के कारण का पता लगाने और दोषियों को सजा दिलाने के लिए हरसंभव प्रयास करने का निर्देश दिया है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:26:52+00:00",
-        "link": "https://newsonair.gov.in/hi/twenty-eight-people-died-in-a-massive-fire-at-a-shoe-factory-in-chinas-jinjiang-city-today/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सीएक्यूएम का दिल्ली में स्वच्छ वायु अभियान, विशेष निरीक्षण अभियान चलाया",
-        "summary": "दिल्ली और राष्ट्रीय राजधानी क्षेत्र (एनसीआर) और आसपास के क्षेत्रों में वायु गुणवत्ता प्रबंधन आयोग (सीएक्यूएम) ने कल दिल्ली में स्वच्छ वायु अभियान के तहत एक विशेष निरीक्षण अभियान चलाया। यह निरीक्षण शहरी सड़कों के पक्कीकरण और हरियाली के लिए मानक ढांचे के अनुसार किए गए सड़क पुनर्विकास कार्यों की स्थिति का आकलन करने के […]",
-        "article": "दिल्ली और राष्ट्रीय राजधानी क्षेत्र (एनसीआर) और आसपास के क्षेत्रों में वायु गुणवत्ता प्रबंधन आयोग (सीएक्यूएम) ने कल दिल्ली में स्वच्छ वायु अभियान के तहत एक विशेष निरीक्षण अभियान चलाया। यह निरीक्षण शहरी सड़कों के पक्कीकरण और हरियाली के लिए मानक ढांचे के अनुसार किए गए सड़क पुनर्विकास कार्यों की स्थिति का आकलन करने के लिए किया गया था। सीएक्यूएम ने बताया कि निरीक्षण के दौरान दिल्ली नगर निगम &#8211; एमसीडी के अधिकार क्षेत्र में आने वाली 79 सड़कों में से 78 सड़कों पर पूर्ण पक्कीकरण पाया गया। यह मानक ढांचे के अनुपालन को दर्शाता है। आयोग ने बताया कि दिल्ली के विभिन्न हिस्सों में लगभग 13 किलोमीटर लंबी सड़कों के निरीक्षण के लिए 10 हवाई दस्ते तैनात किए गए थे। सीएक्यूएम ने कहा कि एमसीडी द्वारा किए गए सड़क पुनर्विकास कार्यों से निरीक्षण की गई सड़कों पर पक्कीकरण में उल्लेखनीय सुधार हुआ है। इससे शहरी क्षेत्रों में कण प्रदूषण के प्रमुख स्रोतों में से एक, सड़क धूल उत्सर्जन को कम करने में मदद मिलेगी। इसमें कहा गया है कि दिल्ली-एनसीआर में सभी सड़क स्वामित्व एजेंसियों द्वारा शहरी सड़कों के पक्कीकरण और हरियाली के लिए मानक ढांचे का कार्यान्वयन सड़क की धूल को दीर्घकालिक रूप से कम करने के लिए आवश्यक है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:25:21+00:00",
-        "link": "https://newsonair.gov.in/hi/caqm-conducted-a-clean-air-campaign-and-a-special-inspection-drive-in-delhi/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने इलेक्ट्रॉनिक उपकरणों में इस्तेमाल होने वाले मुख्य पुर्ज़ों पर मूल सीमा शुल्क में छूट दी",
-        "summary": "सरकार ने स्मार्टफोन, लैपटॉप, पहनने योग्‍य स्‍मार्ट उपकरणों और स्मार्ट टीवी जैसे इलेक्ट्रॉनिक उपकरणों के निर्माण को बढ़ावा देने के उद्देश्य से डिस्प्ले असेंबली, लिथियम-आयन सेल और इंडक्टर कॉयल मॉड्यूल के निर्माण में उपयोग होने वाले सामान पर मूल सीमा शुल्क में छूट देने का फैसला किया है। वित्त मंत्रालय ने इलेक्ट्रॉनिक उपकरणों के इन […]",
-        "article": "सरकार ने स्मार्टफोन, लैपटॉप, पहनने योग्&#x200d;य स्&#x200d;मार्ट उपकरणों और स्मार्ट टीवी जैसे इलेक्ट्रॉनिक उपकरणों के निर्माण को बढ़ावा देने के उद्देश्य से डिस्प्ले असेंबली, लिथियम-आयन सेल और इंडक्टर कॉयल मॉड्यूल के निर्माण में उपयोग होने वाले सामान पर मूल सीमा शुल्क में छूट देने का फैसला किया है। वित्त मंत्रालय ने इलेक्ट्रॉनिक उपकरणों के इन तीन प्रमुख घटकों के निर्माण में उपयोग होने वाले सामान पर मूल सीमा शुल्क में छूट देने संबंधी तीन अलग-अलग अधिसूचनाएं जारी की हैं। मूल सीमा शुल्&#x200d;क में यह छूट सरकार की उत्पादन आधारित प्रोत्साहन योजना के अंतर्गत घरेलू इलेक्ट्रॉनिक्स विनिर्माण को बढ़ावा देने के प्रयासों के अनुरूप है। इससे आयात पर निर्भरता कम होगी और स्थानीय उत्पादन को बढ़ावा मिलेगा, जिससे देश में इलेक्ट्रॉनिक्स विनिर्माण इकोसिस्&#x200d;टम और मजबूत होगा। इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी सचिव एस. कृष्णन ने कहा कि इलेक्ट्रॉनिक्स विनिर्माण के प्रमुख घटकों पर मूल सीमा शुल्क में छूट के निर्णय से मूल्य श्रृंखला और विनिर्माण इकोसिस्&#x200d;टम को और सुदृढ़ करने में मदद मिलेगी।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:20:48+00:00",
-        "link": "https://newsonair.gov.in/hi/government-exempts-basic-customs-duty-on-key-components-used-in-electronic-devices/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi-ji.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1141,8 +1141,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:17:09+00:00",
         "link": "https://newsonair.gov.in/hi/australia-to-return-three-ancient-cultural-artifacts-to-india/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/आस्ट्रेलिया.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1152,21 +1152,76 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:05:30+00:00",
         "link": "https://newsonair.gov.in/hi/australia-to-return-three-ancient-indian-artefacts/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/आस्ट्रेलिया.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "breaking": [
       {
+        "title": "सरकार ई85 ईंधन लाने की योजना बना रही: हरदीप सिंह पुरी",
+        "summary": "पेट्रोलियम और प्राकृतिक गैस मंत्री हरदीप सिंह पुरी ने कहा है कि सरकार ई85 ईंधन लाने की योजना बना रही है, जो मानक ई20 पेट्रोल से करीब 20 रुपये प्रति लीटर सस्ता होगा। उन्होंने कहा कि ई85 केवल उन वाहनों के लिए उपलब्ध होगा जो विशेष रूप से इस ईंधन के उपयोग के लिए डिज़ाइन […]",
+        "article": "पेट्रोलियम और प्राकृतिक गैस मंत्री हरदीप सिंह पुरी ने कहा है कि सरकार ई85 ईंधन लाने की योजना बना रही है, जो मानक ई20 पेट्रोल से करीब 20 रुपये प्रति लीटर सस्ता होगा। उन्होंने कहा कि ई85 केवल उन वाहनों के लिए उपलब्ध होगा जो विशेष रूप से इस ईंधन के उपयोग के लिए डिज़ाइन किए गए हैं। एक निजी समाचार चैनल को दिए साक्षात्कार में पेट्रोलियम मंत्री ने कहा कि प्रस्तावित कदम का उद्देश्य उपभोक्ताओं को आर्थिक राहत प्रदान करना और साथ ही सरकार के इथेनॉल मिश्रण कार्यक्रम को आगे बढ़ाना है। उन्होंने व्यापक जैव ईंधन नीति का बचाव करते हुए इथेनॉल मिश्रित पेट्रोल से इंजन को होने वाले नुकसान और वाहन के प्रदर्शन से संबंधित चिंताओं को खारिज कर दिया।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T02:23:12+00:00",
+        "link": "https://newsonair.gov.in/hi/government-planning-to-introduce-e85-fuel-hardeep-singh-puri/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Hardeep.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बनाते हैं: अमित शाह",
+        "summary": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा […]",
+        "article": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा कि सरकार देश को पूरी तरह से घुसपैठ मुक्त बनाने के लिए एक मजबूत व्यवस्था का निर्माण कर रही है। श्री शाह कल नई दिल्ली में सीमावर्ती जिलों के पुलिस अधीक्षकों के एक सम्मेलन को संबोधित कर रहे थे। उन्होंने बताया कि नरेंद्र मोदी के नेतृत्व वाली सरकार ने वैज्ञानिक रूप से सीमावर्ती बुनियादी ढांचे में चार सौ प्रतिशत की वृद्धि की है। श्री शाह ने कहा कि सरकार 1600 किलोमीटर से अधिक लंबी भारत-म्यांमार सीमा पर 31 हजार करोड़ रुपये की लागत से बाड़ लगा रही है। उन्होंने इस बात पर जोर दिया कि सीमावर्ती क्षेत्रों में असामान्य कारकों की वजह से होने वाले जनसांख्यिकीय परिवर्तनों की जानकारी जमीनी स्तर से लेकर उच्च स्तर तक जल्द से जल्द पहुंचाई जानी चाहिए। गृह मंत्री ने कहा कि सरकार का उद्देश्य सीमावर्ती क्षेत्रों को सुरक्षित और रहने योग्य बनाते हुए, परोक्ष युद्ध, अवैध घुसपैठ, कट्टरपंथ, मादक पदार्थों की तस्करी, ड्रोन से संबंधित खतरों और जनसांख्यिकीय परिवर्तनों जैसी अन्य सुरक्षा चुनौतियों को रोकना है। इस सम्मेलन में जम्मू-कश्मीर, पंजाब, उत्तराखंड, राजस्थान, गुजरात, उत्तर प्रदेश, बिहार, पश्चिम बंगाल और पूर्वोत्तर राज्यों सहित सीमावर्ती राज्यों और केंद्र शासित प्रदेशों के पुलिस अधीक्षकों ने भाग लिया। सम्&#x200d;मेलन में गृह मंत्रालय के वरिष्ठ अधिकारियों ने भी भाग लिया। सम्मेलन का उद्देश्य संवेदनशील सीमावर्ती क्षेत्रों की वर्तमान स्थिति का आकलन करके प्रवर्तन में सुधार के उपायों की पहचान कर देश के सीमा सुरक्षा ढांचे को मजबूत करना था। यह सम्मेलन केंद्र सरकार के कुछ महीने पहले लिए गए उस निर्णय की पृष्ठभूमि में आयोजित किया गया था जिसमें देश के विभिन्न हिस्सों में हो रहे जनसांख्यिकीय परिवर्तनों की सीमा का अध्ययन करने और उनके लिए जिम्मेदार कारकों की पहचान करने के लिए एक उच्च स्तरीय समिति गठित करने का निर्णय लिया गया था।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T02:19:00+00:00",
+        "link": "https://newsonair.gov.in/hi/secure-borders-prosperous-border-regions-and-an-aware-society-together-make-the-country-secure-amit-shah/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzYWyNaoAAXI3z.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर",
+        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कुवैत की यात्रा पूरी करने के बाद ओमान पहुंच गए हैं। उनके आगमन पर ओमान के विदेश मंत्रालय के महानिदेशक शेख अहमद अल मस्कारी ने उनका स्वागत किया। डॉ. जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर हैं। ओमान यात्रा पूरी करने के बाद, […]",
+        "article": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कुवैत की यात्रा पूरी करने के बाद ओमान पहुंच गए हैं। उनके आगमन पर ओमान के विदेश मंत्रालय के महानिदेशक शेख अहमद अल मस्कारी ने उनका स्वागत किया। डॉ. जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर हैं। ओमान यात्रा पूरी करने के बाद, वे न्यूयॉर्क में संयुक्त राष्ट्र सुरक्षा परिषद के 2028-29 कार्यकाल के लिए भारत के आधिकारिक अभियान की शुरुआत करेंगे। इसके बाद विदेश मंत्री 14 और 15 जुलाई को ब्रुसेल्स में तीसरे भारत-यूरोपीय संघ व्यापार और प्रौद्योगिकी परिषद की बैठक में शामिल होंगे। डॉ. जयशंकर यूरोपीय संघ और बेल्जियम के विदेश मंत्री के साथ बातचीत भी करेंगे।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:50:45+00:00",
+        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-on-an-11-day-visit-to-qatar-bahrain-kuwait-oman-new-york-and-brussels/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzH5rtawAE5FAC-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कुशल कार्यबल और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों के पसंदीदा देशों में शामिल: वित्त मंत्री",
+        "summary": "वित्त मंत्री निर्मला सीतारामन ने कहा है कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों &#8211; जीसीसी के लिए सबसे पसंदीदा देशों में शामिल है। नई दिल्ली में सीआईआई राष्ट्रीय जीसीसी बिजनेस समिट-2026 को संबोधित करते हुए वित्तमंत्री ने कहा कि देश में इक्कीस सौ से अधिक जीसीसी हैं, जहां […]",
+        "article": "वित्त मंत्री निर्मला सीतारामन ने कहा है कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों &#8211; जीसीसी के लिए सबसे पसंदीदा देशों में शामिल है। नई दिल्ली में सीआईआई राष्ट्रीय जीसीसी बिजनेस समिट-2026 को संबोधित करते हुए वित्तमंत्री ने कहा कि देश में इक्कीस सौ से अधिक जीसीसी हैं, जहां 23 लाख से अधिक लोग प्रत्यक्ष रूप से कार्यरत हैं। इन केंद्रों से हर साल लगभग दस हज़ार करोड़ डॉलर का राजस्व प्राप्त होता है। उन्होंने कहा कि यह केंद्र इंजीनियरिंग, अनुसंधान, आर्टिफिशियल इंटेलीजेंस, साइबर सुरक्षा, वित्त, उत्पाद डिजाइन और डेटा विज्ञान को एक साथ लाकर नवाचार को बढ़ावा दे रहे हैं। वित्त मंत्री ने कहा कि बहुराष्ट्रीय कंपनियां अपने क्षमता केंद्र भारत में स्थापित करने की अधिक इच्छा रखती हैं। उन्होंने बल देकर कहा कि भारत का जीसीसी पारिस्थितिकी तंत्र विश्व का सबसे बड़ा संगठित ज्ञान निर्यात केंद्र है। वित्त मंत्री ने कहा कि भारत की आकांक्षा केवल विश्व के क्षमता केंद्रों की मेजबानी करना ही नहीं है, बल्कि भविष्य की नई प्रौद्योगिकियों और उद्यमों का नेतृत्व करना भी है।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:46:15+00:00",
+        "link": "https://newsonair.gov.in/hi/india-among-preferred-destinations-for-global-capability-centres-due-to-skilled-workforce-and-innovation-finance-minister/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzJdF4boAA0p-8.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संघर्ष-संबंधी यौन हिंसा की कड़ी निंदा की",
+        "summary": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते […]",
+        "article": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते हुए, संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि, राजदूत पी. ​​हरीश ने कहा कि इस तरह की हिंसा दण्ड मुक्ति की प्रचलित संस्कृति के बीच जारी है। उन्&#x200d;होंने कहा कि भारत ऐसे जघन्य कृत्यों की कड़ी निंदा करता है। संयुक्त राष्ट्र महासचिव की रिपोर्ट का संदर्भ देते हुए उन्होंने कहा कि 2025 में सत्यापित मामलों में हुई तीव्र वृद्धि सामूहिक कार्रवाई की तत्काल आवश्यकता को रेखांकित करती है। संयुक्त राष्ट्र शांतिरक्षा में भारत के महत्वपूर्ण योगदानों पर प्रकाश डालते हुए, श्री हरीश ने कहा कि महिला शांतिरक्षकों की तैनाती ने संघर्ष-संबंधी यौन हिंसा से निपटने में &#8220;परिवर्तनकारी प्रभाव&#8221; डाला है। उन्होंने यह घोषणा भी की कि संघर्ष से संबंधित यौन हिंसा को रोकने में उनके उत्कृष्ट प्रयासों के लिए भारतीय शांति रक्षक मेजर मोइज़ यासीन और मेजर सोनिया देवेंद्र नवस्कर को वर्ष 2026 के लिए संयुक्त राष्ट्र महासचिव का मिलिट्री जेंडर ऑफ द ईयर का मान्&#x200d;यता प्रमाणपत्र प्रदान किया जाएगा।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:37:00+00:00",
+        "link": "https://newsonair.gov.in/hi/india-strongly-condemned-conflict-related-sexual-violence/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-10-070515-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "वित्त मंत्री निर्मला सीतारमण ने नेशनल जीसीसी बिजनेस समिट 2026 को किया संबोधित",
         "summary": "वित्त मंत्री निर्मला सीतारमण ने आज कहा कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार पारिस्थितिकी तंत्र के कारण भारत वैश्विक क्षमता केंद्र (जीसीसी) के लिए पसंदीदा गंतव्य के रूप में उभर रहा है। नई दिल्ली में भारतीय उद्योग परिसंघ द्वारा आयोजित नेशनल जीसीसी बिजनेस समिट 2026 को संबोधित करते हुए, सुश्री सीतारामन ने कहा कि […]",
         "article": "वित्त मंत्री निर्मला सीतारमण ने आज कहा कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार पारिस्थितिकी तंत्र के कारण भारत वैश्विक क्षमता केंद्र (जीसीसी) के लिए पसंदीदा गंतव्य के रूप में उभर रहा है। नई दिल्ली में भारतीय उद्योग परिसंघ द्वारा आयोजित नेशनल जीसीसी बिजनेस समिट 2026 को संबोधित करते हुए, सुश्री सीतारामन ने कहा कि देश में 2100 से अधिक वैश्विक क्षमता केंद्र हैं, जिनमें 23 लाख पेशेवर प्रत्यक्ष रूप से कार्यरत हैं और लगभग 100 अरब अमरीकी डॉलर का वार्षिक राजस्व उत्पन्न होता है। उन्होंने कहा कि वैश्विक क्षमता केंद्र इंजीनियरिंग, अनुसंधान, एआई, साइबर सुरक्षा, वित्त, उत्पाद डिजाइन और डेटा विज्ञान को एक साथ लाकर निरंतर नवाचार को बढ़ावा देकर परिवर्तन का प्रतिनिधित्व करते हैं।",
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:37:59+00:00",
         "link": "https://newsonair.gov.in/hi/finance-minister-nirmala-sitharaman-addressed-the-national-gcc-business-summit-2026/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/निर्मला.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1176,8 +1231,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:36:48+00:00",
         "link": "https://newsonair.gov.in/hi/j-p-nadda-calls-upon-intellectuals-to-contribute-to-nation-building-for-a-viksit-bharat-2047-developed-india-2047/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/J-p-Nadda.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1187,8 +1242,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:35:38+00:00",
         "link": "https://newsonair.gov.in/hi/dpiit-amended-two-quality-control-orders-for-the-footwear-sector/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1198,8 +1253,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:34:22+00:00",
         "link": "https://newsonair.gov.in/hi/the-indian-navys-training-ship-sudarshini-completed-its-voyage-in-new-york-usa/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/naval-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1209,76 +1264,76 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:30:57+00:00",
         "link": "https://newsonair.gov.in/hi/india-australia-alliance-reaches-new-remarkable-heights-pm-modi-at-melbourne-meets-modi-event/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "एफएसएसएआई ने मादक पेय निर्माताओं को नियम उल्लंघन पर नोटिस जारी किए",
-        "summary": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (एफएसएसएआई) ने मादक पेय पदार्थों के निर्माताओं को मिलावटी स्वादों और भ्रामक आयु संबंधी दावों से संबंधित नियामक प्रावधानों का कथित रूप से पालन नहीं करने के लिए नोटिस जारी किए हैं। खाद्य व्यवसाय संचालकों (एफबीओ) को अनुपालन सुनिश्चित करने का निर्देश दिया गया है। अनुपालनों में मिलावटी स्वादों […]",
-        "article": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण ( एफएसएसएआई) ने मादक पेय पदार्थों के निर्माताओं को मिलावटी स्वादों और भ्रामक आयु संबंधी दावों से संबंधित नियामक प्रावधानों का कथित रूप से पालन नहीं करने के लिए नोटिस जारी किए हैं। खाद्य व्यवसाय संचालकों ( एफबीओ) को अनुपालन सुनिश्चित करने का निर्देश दिया गया है। अनुपालनों में मिलावटी स्वादों का निषिद्ध उपयोग और एफबीओ द्वारा आयु दर्शाने वाले शब्दों, पर्यायवाची शब्दों या अप्रत्यक्ष अभिव्यक्तियों का उपयोग करके अनधिकृत आयु संबंधी दावे करना शामिल है। एफएसएसएआई ने पाया कि कुछ निर्माता ऐसे मिलावटी स्वादों का उपयोग कर रहे हैं जो उत्पाद के प्राकृतिक स्वरूप की नकल करते हैं।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:30:41+00:00",
-        "link": "https://newsonair.gov.in/hi/fssai-issued-notices-to-alcoholic-beverage-manufacturers-for-rule-violations/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वस्त्र मंत्री गिरिराज सिंह ने आज नई दिल्ली में एक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता की",
-        "summary": "वस्त्र मंत्री गिरिराज सिंह ने आज नई दिल्ली में एक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता की। इस बैठक में प्रौद्योगिकी उन्नयन, संस्थागत सुधारों और उद्योग को बेहतर समर्थन के माध्यम से भारत के वस्त्र पारिस्थितिकी तंत्र को मजबूत करने के उद्देश्य से शुरू की गई प्रमुख पहलों की प्रगति का आकलन किया गया। वस्त्र […]",
-        "article": "वस्त्र मंत्री गिरिराज सिंह ने आज नई दिल्ली में एक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता की। इस बैठक में प्रौद्योगिकी उन्नयन, संस्थागत सुधारों और उद्योग को बेहतर समर्थन के माध्यम से भारत के वस्त्र पारिस्थितिकी तंत्र को मजबूत करने के उद्देश्य से शुरू की गई प्रमुख पहलों की प्रगति का आकलन किया गया। वस्त्र मंत्री ने पूर्ववर्ती पावरलूम सेवा केंद्रों के एकीकृत वस्त्र और परिधान विकास केंद्रों (आईटीएडीसी) में परिवर्तन की समीक्षा की। इन केंद्रों को वस्त्र क्षेत्र के लिए एकीकृत विकास केंद्रों के रूप में पुनर्स्थापित किया जा रहा है। नए आईटीएडीसी को वस्त्र उद्यमियों, सूक्ष्म, लघु और मध्यम उद्यमों और वस्त्र मूल्य श्रृंखला के अन्य हितधारकों को कौशल विकास, परीक्षण, डिजाइन सहायता, प्रौद्योगिकी अपनाने, उद्यमिता विकास, ऋण सुविधा, निर्यात प्रोत्साहन और बाजार संपर्क जैसी सुविधाएं प्रदान करने वाले एक ही स्थान पर सभी सुविधाएं उपलब्ध कराने वाले केंद्रों के रूप में परिकल्पित किया गया है। श्री सिंह ने संशोधित प्रौद्योगिकी उन्नयन निधि योजना के कार्यान्वयन की भी समीक्षा की और भारतीय वस्त्र उद्योग के आधुनिकीकरण में इसके योगदान की सराहना की। उन्होंने वस्त्र आयुक्त कार्यालय की नई वेबसाइट का उद्घाटन किया। इसमें योजनाओं, सेवाओं और संस्थागत गतिविधियों की व्यापक जानकारी के साथ एक आधुनिक, सुलभ और उपयोगकर्ता के अनुकूल इंटरफेस है। श्री सिंह ने आईटीएडीसी के लिए नव विकसित प्रमुख प्रदर्शन संकेतक पोर्टल का भी उद्घाटन किया। बैठक के दौरान श्री सिंह ने कहा कि आईटीएडीसी लगातार नवाचार और उद्यम विकास केंद्रों के रूप में विकसित हो रहे हैं। यह वस्त्र व्यवसायों को प्रारंभिक अवस्था से लेकर बाजार विस्तार तक सहयोग देने में सक्षम हैं। वस्त्र मंत्री ने कहा कि ये केंद्र उद्यमियों और उद्योग के लिए एक ही स्थान पर सभी सुविधाएं प्रदान करने वाले केंद्रों के रूप में कार्य करके भारत के वस्त्र विकास के अगले चरण को आधार प्रदान करेंगे। वस्त्र मंत्रालय की सचिव नीलम शमी राव भी इस अवसर पर उपस्थित थीं। उन्होंने संस्थागत समन्वय के महत्व पर जोर दिया। उन्होंने कहा कि सरकारी पहलों के अधिकतम प्रभाव के लिए क्षेत्रीय इकाइयों, वस्त्र समिति, निर्यात संवर्धन परिषदों, वस्त्र अनुसंधान संघों और उद्योग संघों को घनिष्ठ समन्वय में कार्य करना चाहिए।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:28:52+00:00",
-        "link": "https://newsonair.gov.in/hi/textiles-minister-giriraj-singh-chaired-a-high-level-review-meeting-in-new-delhi-today/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सीएक्यूएम का दिल्ली में स्वच्छ वायु अभियान, विशेष निरीक्षण अभियान चलाया",
-        "summary": "दिल्ली और राष्ट्रीय राजधानी क्षेत्र (एनसीआर) और आसपास के क्षेत्रों में वायु गुणवत्ता प्रबंधन आयोग (सीएक्यूएम) ने कल दिल्ली में स्वच्छ वायु अभियान के तहत एक विशेष निरीक्षण अभियान चलाया। यह निरीक्षण शहरी सड़कों के पक्कीकरण और हरियाली के लिए मानक ढांचे के अनुसार किए गए सड़क पुनर्विकास कार्यों की स्थिति का आकलन करने के […]",
-        "article": "दिल्ली और राष्ट्रीय राजधानी क्षेत्र (एनसीआर) और आसपास के क्षेत्रों में वायु गुणवत्ता प्रबंधन आयोग (सीएक्यूएम) ने कल दिल्ली में स्वच्छ वायु अभियान के तहत एक विशेष निरीक्षण अभियान चलाया। यह निरीक्षण शहरी सड़कों के पक्कीकरण और हरियाली के लिए मानक ढांचे के अनुसार किए गए सड़क पुनर्विकास कार्यों की स्थिति का आकलन करने के लिए किया गया था। सीएक्यूएम ने बताया कि निरीक्षण के दौरान दिल्ली नगर निगम &#8211; एमसीडी के अधिकार क्षेत्र में आने वाली 79 सड़कों में से 78 सड़कों पर पूर्ण पक्कीकरण पाया गया। यह मानक ढांचे के अनुपालन को दर्शाता है। आयोग ने बताया कि दिल्ली के विभिन्न हिस्सों में लगभग 13 किलोमीटर लंबी सड़कों के निरीक्षण के लिए 10 हवाई दस्ते तैनात किए गए थे। सीएक्यूएम ने कहा कि एमसीडी द्वारा किए गए सड़क पुनर्विकास कार्यों से निरीक्षण की गई सड़कों पर पक्कीकरण में उल्लेखनीय सुधार हुआ है। इससे शहरी क्षेत्रों में कण प्रदूषण के प्रमुख स्रोतों में से एक, सड़क धूल उत्सर्जन को कम करने में मदद मिलेगी। इसमें कहा गया है कि दिल्ली-एनसीआर में सभी सड़क स्वामित्व एजेंसियों द्वारा शहरी सड़कों के पक्कीकरण और हरियाली के लिए मानक ढांचे का कार्यान्वयन सड़क की धूल को दीर्घकालिक रूप से कम करने के लिए आवश्यक है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:25:21+00:00",
-        "link": "https://newsonair.gov.in/hi/caqm-conducted-a-clean-air-campaign-and-a-special-inspection-drive-in-delhi/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने इलेक्ट्रॉनिक उपकरणों में इस्तेमाल होने वाले मुख्य पुर्ज़ों पर मूल सीमा शुल्क में छूट दी",
-        "summary": "सरकार ने स्मार्टफोन, लैपटॉप, पहनने योग्‍य स्‍मार्ट उपकरणों और स्मार्ट टीवी जैसे इलेक्ट्रॉनिक उपकरणों के निर्माण को बढ़ावा देने के उद्देश्य से डिस्प्ले असेंबली, लिथियम-आयन सेल और इंडक्टर कॉयल मॉड्यूल के निर्माण में उपयोग होने वाले सामान पर मूल सीमा शुल्क में छूट देने का फैसला किया है। वित्त मंत्रालय ने इलेक्ट्रॉनिक उपकरणों के इन […]",
-        "article": "सरकार ने स्मार्टफोन, लैपटॉप, पहनने योग्&#x200d;य स्&#x200d;मार्ट उपकरणों और स्मार्ट टीवी जैसे इलेक्ट्रॉनिक उपकरणों के निर्माण को बढ़ावा देने के उद्देश्य से डिस्प्ले असेंबली, लिथियम-आयन सेल और इंडक्टर कॉयल मॉड्यूल के निर्माण में उपयोग होने वाले सामान पर मूल सीमा शुल्क में छूट देने का फैसला किया है। वित्त मंत्रालय ने इलेक्ट्रॉनिक उपकरणों के इन तीन प्रमुख घटकों के निर्माण में उपयोग होने वाले सामान पर मूल सीमा शुल्क में छूट देने संबंधी तीन अलग-अलग अधिसूचनाएं जारी की हैं। मूल सीमा शुल्&#x200d;क में यह छूट सरकार की उत्पादन आधारित प्रोत्साहन योजना के अंतर्गत घरेलू इलेक्ट्रॉनिक्स विनिर्माण को बढ़ावा देने के प्रयासों के अनुरूप है। इससे आयात पर निर्भरता कम होगी और स्थानीय उत्पादन को बढ़ावा मिलेगा, जिससे देश में इलेक्ट्रॉनिक्स विनिर्माण इकोसिस्&#x200d;टम और मजबूत होगा। इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी सचिव एस. कृष्णन ने कहा कि इलेक्ट्रॉनिक्स विनिर्माण के प्रमुख घटकों पर मूल सीमा शुल्क में छूट के निर्णय से मूल्य श्रृंखला और विनिर्माण इकोसिस्&#x200d;टम को और सुदृढ़ करने में मदद मिलेगी।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:20:48+00:00",
-        "link": "https://newsonair.gov.in/hi/government-exempts-basic-customs-duty-on-key-components-used-in-electronic-devices/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ऑस्ट्रेलिया भारत को लौटाएगा तीन प्राचीन सांस्कृतिक धरोहरें",
-        "summary": "आधुनिक कूटनीति की नींव रखने वाली सभ्यतागत समानता का एक गहरा प्रमाण देते हुए, सांस्कृतिक रूप से महत्वपूर्ण तीन प्राचीन कलाकृतियों को ऑस्ट्रेलिया भारत को लौटाने जा रहा है। संस्कृति मंत्रालय ने बताया कि इन कलाकृतियों में देवी भद्रकाली का एक कांस्य त्रिशूल, नंदी की एक भव्य ग्रेनाइट प्रतिमा और छह सिर वाले कार्तिकेय की […]",
-        "article": "आधुनिक कूटनीति की नींव रखने वाली सभ्यतागत समानता का एक गहरा प्रमाण देते हुए, सांस्कृतिक रूप से महत्वपूर्ण तीन प्राचीन कलाकृतियों को ऑस्ट्रेलिया भारत को लौटाने जा रहा है। संस्कृति मंत्रालय ने बताया कि इन कलाकृतियों में देवी भद्रकाली का एक कांस्य त्रिशूल, नंदी की एक भव्य ग्रेनाइट प्रतिमा और छह सिर वाले कार्तिकेय की बेसाल्ट पत्थर की एक मूर्ति शामिल हैं। ये सभी वस्तुएँ 11वीं और 12वीं शताब्दी की हैं और मूल रूप से तमिलनाडु के ऐतिहासिक मंदिरों से प्राप्त की गई थीं। इस प्रत्यावर्तन की आधिकारिक घोषणा प्रधानमंत्री नरेंद्र मोदी की ऑस्ट्रेलिया यात्रा के साथ हुई है। यह दोनों देशों के बीच मजबूत सांस्कृतिक जुड़ाव को भी दर्शाता है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:17:09+00:00",
-        "link": "https://newsonair.gov.in/hi/australia-to-return-three-ancient-cultural-artifacts-to-india/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi-ji.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "सरकार ई85 ईंधन लाने की योजना बना रही: हरदीप सिंह पुरी",
+        "summary": "पेट्रोलियम और प्राकृतिक गैस मंत्री हरदीप सिंह पुरी ने कहा है कि सरकार ई85 ईंधन लाने की योजना बना रही है, जो मानक ई20 पेट्रोल से करीब 20 रुपये प्रति लीटर सस्ता होगा। उन्होंने कहा कि ई85 केवल उन वाहनों के लिए उपलब्ध होगा जो विशेष रूप से इस ईंधन के उपयोग के लिए डिज़ाइन […]",
+        "article": "पेट्रोलियम और प्राकृतिक गैस मंत्री हरदीप सिंह पुरी ने कहा है कि सरकार ई85 ईंधन लाने की योजना बना रही है, जो मानक ई20 पेट्रोल से करीब 20 रुपये प्रति लीटर सस्ता होगा। उन्होंने कहा कि ई85 केवल उन वाहनों के लिए उपलब्ध होगा जो विशेष रूप से इस ईंधन के उपयोग के लिए डिज़ाइन किए गए हैं। एक निजी समाचार चैनल को दिए साक्षात्कार में पेट्रोलियम मंत्री ने कहा कि प्रस्तावित कदम का उद्देश्य उपभोक्ताओं को आर्थिक राहत प्रदान करना और साथ ही सरकार के इथेनॉल मिश्रण कार्यक्रम को आगे बढ़ाना है। उन्होंने व्यापक जैव ईंधन नीति का बचाव करते हुए इथेनॉल मिश्रित पेट्रोल से इंजन को होने वाले नुकसान और वाहन के प्रदर्शन से संबंधित चिंताओं को खारिज कर दिया।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T02:23:12+00:00",
+        "link": "https://newsonair.gov.in/hi/government-planning-to-introduce-e85-fuel-hardeep-singh-puri/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Hardeep.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बनाते हैं: अमित शाह",
+        "summary": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा […]",
+        "article": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा कि सरकार देश को पूरी तरह से घुसपैठ मुक्त बनाने के लिए एक मजबूत व्यवस्था का निर्माण कर रही है। श्री शाह कल नई दिल्ली में सीमावर्ती जिलों के पुलिस अधीक्षकों के एक सम्मेलन को संबोधित कर रहे थे। उन्होंने बताया कि नरेंद्र मोदी के नेतृत्व वाली सरकार ने वैज्ञानिक रूप से सीमावर्ती बुनियादी ढांचे में चार सौ प्रतिशत की वृद्धि की है। श्री शाह ने कहा कि सरकार 1600 किलोमीटर से अधिक लंबी भारत-म्यांमार सीमा पर 31 हजार करोड़ रुपये की लागत से बाड़ लगा रही है। उन्होंने इस बात पर जोर दिया कि सीमावर्ती क्षेत्रों में असामान्य कारकों की वजह से होने वाले जनसांख्यिकीय परिवर्तनों की जानकारी जमीनी स्तर से लेकर उच्च स्तर तक जल्द से जल्द पहुंचाई जानी चाहिए। गृह मंत्री ने कहा कि सरकार का उद्देश्य सीमावर्ती क्षेत्रों को सुरक्षित और रहने योग्य बनाते हुए, परोक्ष युद्ध, अवैध घुसपैठ, कट्टरपंथ, मादक पदार्थों की तस्करी, ड्रोन से संबंधित खतरों और जनसांख्यिकीय परिवर्तनों जैसी अन्य सुरक्षा चुनौतियों को रोकना है। इस सम्मेलन में जम्मू-कश्मीर, पंजाब, उत्तराखंड, राजस्थान, गुजरात, उत्तर प्रदेश, बिहार, पश्चिम बंगाल और पूर्वोत्तर राज्यों सहित सीमावर्ती राज्यों और केंद्र शासित प्रदेशों के पुलिस अधीक्षकों ने भाग लिया। सम्&#x200d;मेलन में गृह मंत्रालय के वरिष्ठ अधिकारियों ने भी भाग लिया। सम्मेलन का उद्देश्य संवेदनशील सीमावर्ती क्षेत्रों की वर्तमान स्थिति का आकलन करके प्रवर्तन में सुधार के उपायों की पहचान कर देश के सीमा सुरक्षा ढांचे को मजबूत करना था। यह सम्मेलन केंद्र सरकार के कुछ महीने पहले लिए गए उस निर्णय की पृष्ठभूमि में आयोजित किया गया था जिसमें देश के विभिन्न हिस्सों में हो रहे जनसांख्यिकीय परिवर्तनों की सीमा का अध्ययन करने और उनके लिए जिम्मेदार कारकों की पहचान करने के लिए एक उच्च स्तरीय समिति गठित करने का निर्णय लिया गया था।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T02:19:00+00:00",
+        "link": "https://newsonair.gov.in/hi/secure-borders-prosperous-border-regions-and-an-aware-society-together-make-the-country-secure-amit-shah/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzYWyNaoAAXI3z.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर",
+        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कुवैत की यात्रा पूरी करने के बाद ओमान पहुंच गए हैं। उनके आगमन पर ओमान के विदेश मंत्रालय के महानिदेशक शेख अहमद अल मस्कारी ने उनका स्वागत किया। डॉ. जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर हैं। ओमान यात्रा पूरी करने के बाद, […]",
+        "article": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कुवैत की यात्रा पूरी करने के बाद ओमान पहुंच गए हैं। उनके आगमन पर ओमान के विदेश मंत्रालय के महानिदेशक शेख अहमद अल मस्कारी ने उनका स्वागत किया। डॉ. जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर हैं। ओमान यात्रा पूरी करने के बाद, वे न्यूयॉर्क में संयुक्त राष्ट्र सुरक्षा परिषद के 2028-29 कार्यकाल के लिए भारत के आधिकारिक अभियान की शुरुआत करेंगे। इसके बाद विदेश मंत्री 14 और 15 जुलाई को ब्रुसेल्स में तीसरे भारत-यूरोपीय संघ व्यापार और प्रौद्योगिकी परिषद की बैठक में शामिल होंगे। डॉ. जयशंकर यूरोपीय संघ और बेल्जियम के विदेश मंत्री के साथ बातचीत भी करेंगे।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:50:45+00:00",
+        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-on-an-11-day-visit-to-qatar-bahrain-kuwait-oman-new-york-and-brussels/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzH5rtawAE5FAC-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कुशल कार्यबल और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों के पसंदीदा देशों में शामिल: वित्त मंत्री",
+        "summary": "वित्त मंत्री निर्मला सीतारामन ने कहा है कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों &#8211; जीसीसी के लिए सबसे पसंदीदा देशों में शामिल है। नई दिल्ली में सीआईआई राष्ट्रीय जीसीसी बिजनेस समिट-2026 को संबोधित करते हुए वित्तमंत्री ने कहा कि देश में इक्कीस सौ से अधिक जीसीसी हैं, जहां […]",
+        "article": "वित्त मंत्री निर्मला सीतारामन ने कहा है कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों &#8211; जीसीसी के लिए सबसे पसंदीदा देशों में शामिल है। नई दिल्ली में सीआईआई राष्ट्रीय जीसीसी बिजनेस समिट-2026 को संबोधित करते हुए वित्तमंत्री ने कहा कि देश में इक्कीस सौ से अधिक जीसीसी हैं, जहां 23 लाख से अधिक लोग प्रत्यक्ष रूप से कार्यरत हैं। इन केंद्रों से हर साल लगभग दस हज़ार करोड़ डॉलर का राजस्व प्राप्त होता है। उन्होंने कहा कि यह केंद्र इंजीनियरिंग, अनुसंधान, आर्टिफिशियल इंटेलीजेंस, साइबर सुरक्षा, वित्त, उत्पाद डिजाइन और डेटा विज्ञान को एक साथ लाकर नवाचार को बढ़ावा दे रहे हैं। वित्त मंत्री ने कहा कि बहुराष्ट्रीय कंपनियां अपने क्षमता केंद्र भारत में स्थापित करने की अधिक इच्छा रखती हैं। उन्होंने बल देकर कहा कि भारत का जीसीसी पारिस्थितिकी तंत्र विश्व का सबसे बड़ा संगठित ज्ञान निर्यात केंद्र है। वित्त मंत्री ने कहा कि भारत की आकांक्षा केवल विश्व के क्षमता केंद्रों की मेजबानी करना ही नहीं है, बल्कि भविष्य की नई प्रौद्योगिकियों और उद्यमों का नेतृत्व करना भी है।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:46:15+00:00",
+        "link": "https://newsonair.gov.in/hi/india-among-preferred-destinations-for-global-capability-centres-due-to-skilled-workforce-and-innovation-finance-minister/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzJdF4boAA0p-8.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संघर्ष-संबंधी यौन हिंसा की कड़ी निंदा की",
+        "summary": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते […]",
+        "article": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते हुए, संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि, राजदूत पी. ​​हरीश ने कहा कि इस तरह की हिंसा दण्ड मुक्ति की प्रचलित संस्कृति के बीच जारी है। उन्&#x200d;होंने कहा कि भारत ऐसे जघन्य कृत्यों की कड़ी निंदा करता है। संयुक्त राष्ट्र महासचिव की रिपोर्ट का संदर्भ देते हुए उन्होंने कहा कि 2025 में सत्यापित मामलों में हुई तीव्र वृद्धि सामूहिक कार्रवाई की तत्काल आवश्यकता को रेखांकित करती है। संयुक्त राष्ट्र शांतिरक्षा में भारत के महत्वपूर्ण योगदानों पर प्रकाश डालते हुए, श्री हरीश ने कहा कि महिला शांतिरक्षकों की तैनाती ने संघर्ष-संबंधी यौन हिंसा से निपटने में &#8220;परिवर्तनकारी प्रभाव&#8221; डाला है। उन्होंने यह घोषणा भी की कि संघर्ष से संबंधित यौन हिंसा को रोकने में उनके उत्कृष्ट प्रयासों के लिए भारतीय शांति रक्षक मेजर मोइज़ यासीन और मेजर सोनिया देवेंद्र नवस्कर को वर्ष 2026 के लिए संयुक्त राष्ट्र महासचिव का मिलिट्री जेंडर ऑफ द ईयर का मान्&#x200d;यता प्रमाणपत्र प्रदान किया जाएगा।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:37:00+00:00",
+        "link": "https://newsonair.gov.in/hi/india-strongly-condemned-conflict-related-sexual-violence/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-10-070515-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "वित्त मंत्री निर्मला सीतारमण ने नेशनल जीसीसी बिजनेस समिट 2026 को किया संबोधित",
         "summary": "वित्त मंत्री निर्मला सीतारमण ने आज कहा कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार पारिस्थितिकी तंत्र के कारण भारत वैश्विक क्षमता केंद्र (जीसीसी) के लिए पसंदीदा गंतव्य के रूप में उभर रहा है। नई दिल्ली में भारतीय उद्योग परिसंघ द्वारा आयोजित नेशनल जीसीसी बिजनेस समिट 2026 को संबोधित करते हुए, सुश्री सीतारामन ने कहा कि […]",
         "article": "वित्त मंत्री निर्मला सीतारमण ने आज कहा कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार पारिस्थितिकी तंत्र के कारण भारत वैश्विक क्षमता केंद्र (जीसीसी) के लिए पसंदीदा गंतव्य के रूप में उभर रहा है। नई दिल्ली में भारतीय उद्योग परिसंघ द्वारा आयोजित नेशनल जीसीसी बिजनेस समिट 2026 को संबोधित करते हुए, सुश्री सीतारामन ने कहा कि देश में 2100 से अधिक वैश्विक क्षमता केंद्र हैं, जिनमें 23 लाख पेशेवर प्रत्यक्ष रूप से कार्यरत हैं और लगभग 100 अरब अमरीकी डॉलर का वार्षिक राजस्व उत्पन्न होता है। उन्होंने कहा कि वैश्विक क्षमता केंद्र इंजीनियरिंग, अनुसंधान, एआई, साइबर सुरक्षा, वित्त, उत्पाद डिजाइन और डेटा विज्ञान को एक साथ लाकर निरंतर नवाचार को बढ़ावा देकर परिवर्तन का प्रतिनिधित्व करते हैं।",
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:37:59+00:00",
         "link": "https://newsonair.gov.in/hi/finance-minister-nirmala-sitharaman-addressed-the-national-gcc-business-summit-2026/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/निर्मला.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1288,8 +1343,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:36:48+00:00",
         "link": "https://newsonair.gov.in/hi/j-p-nadda-calls-upon-intellectuals-to-contribute-to-nation-building-for-a-viksit-bharat-2047-developed-india-2047/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/J-p-Nadda.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1299,8 +1354,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:35:38+00:00",
         "link": "https://newsonair.gov.in/hi/dpiit-amended-two-quality-control-orders-for-the-footwear-sector/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1310,8 +1365,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:34:22+00:00",
         "link": "https://newsonair.gov.in/hi/the-indian-navys-training-ship-sudarshini-completed-its-voyage-in-new-york-usa/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/naval-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1321,76 +1376,76 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:30:57+00:00",
         "link": "https://newsonair.gov.in/hi/india-australia-alliance-reaches-new-remarkable-heights-pm-modi-at-melbourne-meets-modi-event/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "एफएसएसएआई ने मादक पेय निर्माताओं को नियम उल्लंघन पर नोटिस जारी किए",
-        "summary": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (एफएसएसएआई) ने मादक पेय पदार्थों के निर्माताओं को मिलावटी स्वादों और भ्रामक आयु संबंधी दावों से संबंधित नियामक प्रावधानों का कथित रूप से पालन नहीं करने के लिए नोटिस जारी किए हैं। खाद्य व्यवसाय संचालकों (एफबीओ) को अनुपालन सुनिश्चित करने का निर्देश दिया गया है। अनुपालनों में मिलावटी स्वादों […]",
-        "article": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण ( एफएसएसएआई) ने मादक पेय पदार्थों के निर्माताओं को मिलावटी स्वादों और भ्रामक आयु संबंधी दावों से संबंधित नियामक प्रावधानों का कथित रूप से पालन नहीं करने के लिए नोटिस जारी किए हैं। खाद्य व्यवसाय संचालकों ( एफबीओ) को अनुपालन सुनिश्चित करने का निर्देश दिया गया है। अनुपालनों में मिलावटी स्वादों का निषिद्ध उपयोग और एफबीओ द्वारा आयु दर्शाने वाले शब्दों, पर्यायवाची शब्दों या अप्रत्यक्ष अभिव्यक्तियों का उपयोग करके अनधिकृत आयु संबंधी दावे करना शामिल है। एफएसएसएआई ने पाया कि कुछ निर्माता ऐसे मिलावटी स्वादों का उपयोग कर रहे हैं जो उत्पाद के प्राकृतिक स्वरूप की नकल करते हैं।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:30:41+00:00",
-        "link": "https://newsonair.gov.in/hi/fssai-issued-notices-to-alcoholic-beverage-manufacturers-for-rule-violations/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वस्त्र मंत्री गिरिराज सिंह ने आज नई दिल्ली में एक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता की",
-        "summary": "वस्त्र मंत्री गिरिराज सिंह ने आज नई दिल्ली में एक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता की। इस बैठक में प्रौद्योगिकी उन्नयन, संस्थागत सुधारों और उद्योग को बेहतर समर्थन के माध्यम से भारत के वस्त्र पारिस्थितिकी तंत्र को मजबूत करने के उद्देश्य से शुरू की गई प्रमुख पहलों की प्रगति का आकलन किया गया। वस्त्र […]",
-        "article": "वस्त्र मंत्री गिरिराज सिंह ने आज नई दिल्ली में एक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता की। इस बैठक में प्रौद्योगिकी उन्नयन, संस्थागत सुधारों और उद्योग को बेहतर समर्थन के माध्यम से भारत के वस्त्र पारिस्थितिकी तंत्र को मजबूत करने के उद्देश्य से शुरू की गई प्रमुख पहलों की प्रगति का आकलन किया गया। वस्त्र मंत्री ने पूर्ववर्ती पावरलूम सेवा केंद्रों के एकीकृत वस्त्र और परिधान विकास केंद्रों (आईटीएडीसी) में परिवर्तन की समीक्षा की। इन केंद्रों को वस्त्र क्षेत्र के लिए एकीकृत विकास केंद्रों के रूप में पुनर्स्थापित किया जा रहा है। नए आईटीएडीसी को वस्त्र उद्यमियों, सूक्ष्म, लघु और मध्यम उद्यमों और वस्त्र मूल्य श्रृंखला के अन्य हितधारकों को कौशल विकास, परीक्षण, डिजाइन सहायता, प्रौद्योगिकी अपनाने, उद्यमिता विकास, ऋण सुविधा, निर्यात प्रोत्साहन और बाजार संपर्क जैसी सुविधाएं प्रदान करने वाले एक ही स्थान पर सभी सुविधाएं उपलब्ध कराने वाले केंद्रों के रूप में परिकल्पित किया गया है। श्री सिंह ने संशोधित प्रौद्योगिकी उन्नयन निधि योजना के कार्यान्वयन की भी समीक्षा की और भारतीय वस्त्र उद्योग के आधुनिकीकरण में इसके योगदान की सराहना की। उन्होंने वस्त्र आयुक्त कार्यालय की नई वेबसाइट का उद्घाटन किया। इसमें योजनाओं, सेवाओं और संस्थागत गतिविधियों की व्यापक जानकारी के साथ एक आधुनिक, सुलभ और उपयोगकर्ता के अनुकूल इंटरफेस है। श्री सिंह ने आईटीएडीसी के लिए नव विकसित प्रमुख प्रदर्शन संकेतक पोर्टल का भी उद्घाटन किया। बैठक के दौरान श्री सिंह ने कहा कि आईटीएडीसी लगातार नवाचार और उद्यम विकास केंद्रों के रूप में विकसित हो रहे हैं। यह वस्त्र व्यवसायों को प्रारंभिक अवस्था से लेकर बाजार विस्तार तक सहयोग देने में सक्षम हैं। वस्त्र मंत्री ने कहा कि ये केंद्र उद्यमियों और उद्योग के लिए एक ही स्थान पर सभी सुविधाएं प्रदान करने वाले केंद्रों के रूप में कार्य करके भारत के वस्त्र विकास के अगले चरण को आधार प्रदान करेंगे। वस्त्र मंत्रालय की सचिव नीलम शमी राव भी इस अवसर पर उपस्थित थीं। उन्होंने संस्थागत समन्वय के महत्व पर जोर दिया। उन्होंने कहा कि सरकारी पहलों के अधिकतम प्रभाव के लिए क्षेत्रीय इकाइयों, वस्त्र समिति, निर्यात संवर्धन परिषदों, वस्त्र अनुसंधान संघों और उद्योग संघों को घनिष्ठ समन्वय में कार्य करना चाहिए।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:28:52+00:00",
-        "link": "https://newsonair.gov.in/hi/textiles-minister-giriraj-singh-chaired-a-high-level-review-meeting-in-new-delhi-today/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सीएक्यूएम का दिल्ली में स्वच्छ वायु अभियान, विशेष निरीक्षण अभियान चलाया",
-        "summary": "दिल्ली और राष्ट्रीय राजधानी क्षेत्र (एनसीआर) और आसपास के क्षेत्रों में वायु गुणवत्ता प्रबंधन आयोग (सीएक्यूएम) ने कल दिल्ली में स्वच्छ वायु अभियान के तहत एक विशेष निरीक्षण अभियान चलाया। यह निरीक्षण शहरी सड़कों के पक्कीकरण और हरियाली के लिए मानक ढांचे के अनुसार किए गए सड़क पुनर्विकास कार्यों की स्थिति का आकलन करने के […]",
-        "article": "दिल्ली और राष्ट्रीय राजधानी क्षेत्र (एनसीआर) और आसपास के क्षेत्रों में वायु गुणवत्ता प्रबंधन आयोग (सीएक्यूएम) ने कल दिल्ली में स्वच्छ वायु अभियान के तहत एक विशेष निरीक्षण अभियान चलाया। यह निरीक्षण शहरी सड़कों के पक्कीकरण और हरियाली के लिए मानक ढांचे के अनुसार किए गए सड़क पुनर्विकास कार्यों की स्थिति का आकलन करने के लिए किया गया था। सीएक्यूएम ने बताया कि निरीक्षण के दौरान दिल्ली नगर निगम &#8211; एमसीडी के अधिकार क्षेत्र में आने वाली 79 सड़कों में से 78 सड़कों पर पूर्ण पक्कीकरण पाया गया। यह मानक ढांचे के अनुपालन को दर्शाता है। आयोग ने बताया कि दिल्ली के विभिन्न हिस्सों में लगभग 13 किलोमीटर लंबी सड़कों के निरीक्षण के लिए 10 हवाई दस्ते तैनात किए गए थे। सीएक्यूएम ने कहा कि एमसीडी द्वारा किए गए सड़क पुनर्विकास कार्यों से निरीक्षण की गई सड़कों पर पक्कीकरण में उल्लेखनीय सुधार हुआ है। इससे शहरी क्षेत्रों में कण प्रदूषण के प्रमुख स्रोतों में से एक, सड़क धूल उत्सर्जन को कम करने में मदद मिलेगी। इसमें कहा गया है कि दिल्ली-एनसीआर में सभी सड़क स्वामित्व एजेंसियों द्वारा शहरी सड़कों के पक्कीकरण और हरियाली के लिए मानक ढांचे का कार्यान्वयन सड़क की धूल को दीर्घकालिक रूप से कम करने के लिए आवश्यक है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:25:21+00:00",
-        "link": "https://newsonair.gov.in/hi/caqm-conducted-a-clean-air-campaign-and-a-special-inspection-drive-in-delhi/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने इलेक्ट्रॉनिक उपकरणों में इस्तेमाल होने वाले मुख्य पुर्ज़ों पर मूल सीमा शुल्क में छूट दी",
-        "summary": "सरकार ने स्मार्टफोन, लैपटॉप, पहनने योग्‍य स्‍मार्ट उपकरणों और स्मार्ट टीवी जैसे इलेक्ट्रॉनिक उपकरणों के निर्माण को बढ़ावा देने के उद्देश्य से डिस्प्ले असेंबली, लिथियम-आयन सेल और इंडक्टर कॉयल मॉड्यूल के निर्माण में उपयोग होने वाले सामान पर मूल सीमा शुल्क में छूट देने का फैसला किया है। वित्त मंत्रालय ने इलेक्ट्रॉनिक उपकरणों के इन […]",
-        "article": "सरकार ने स्मार्टफोन, लैपटॉप, पहनने योग्&#x200d;य स्&#x200d;मार्ट उपकरणों और स्मार्ट टीवी जैसे इलेक्ट्रॉनिक उपकरणों के निर्माण को बढ़ावा देने के उद्देश्य से डिस्प्ले असेंबली, लिथियम-आयन सेल और इंडक्टर कॉयल मॉड्यूल के निर्माण में उपयोग होने वाले सामान पर मूल सीमा शुल्क में छूट देने का फैसला किया है। वित्त मंत्रालय ने इलेक्ट्रॉनिक उपकरणों के इन तीन प्रमुख घटकों के निर्माण में उपयोग होने वाले सामान पर मूल सीमा शुल्क में छूट देने संबंधी तीन अलग-अलग अधिसूचनाएं जारी की हैं। मूल सीमा शुल्&#x200d;क में यह छूट सरकार की उत्पादन आधारित प्रोत्साहन योजना के अंतर्गत घरेलू इलेक्ट्रॉनिक्स विनिर्माण को बढ़ावा देने के प्रयासों के अनुरूप है। इससे आयात पर निर्भरता कम होगी और स्थानीय उत्पादन को बढ़ावा मिलेगा, जिससे देश में इलेक्ट्रॉनिक्स विनिर्माण इकोसिस्&#x200d;टम और मजबूत होगा। इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी सचिव एस. कृष्णन ने कहा कि इलेक्ट्रॉनिक्स विनिर्माण के प्रमुख घटकों पर मूल सीमा शुल्क में छूट के निर्णय से मूल्य श्रृंखला और विनिर्माण इकोसिस्&#x200d;टम को और सुदृढ़ करने में मदद मिलेगी।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:20:48+00:00",
-        "link": "https://newsonair.gov.in/hi/government-exempts-basic-customs-duty-on-key-components-used-in-electronic-devices/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ऑस्ट्रेलिया भारत को लौटाएगा तीन प्राचीन सांस्कृतिक धरोहरें",
-        "summary": "आधुनिक कूटनीति की नींव रखने वाली सभ्यतागत समानता का एक गहरा प्रमाण देते हुए, सांस्कृतिक रूप से महत्वपूर्ण तीन प्राचीन कलाकृतियों को ऑस्ट्रेलिया भारत को लौटाने जा रहा है। संस्कृति मंत्रालय ने बताया कि इन कलाकृतियों में देवी भद्रकाली का एक कांस्य त्रिशूल, नंदी की एक भव्य ग्रेनाइट प्रतिमा और छह सिर वाले कार्तिकेय की […]",
-        "article": "आधुनिक कूटनीति की नींव रखने वाली सभ्यतागत समानता का एक गहरा प्रमाण देते हुए, सांस्कृतिक रूप से महत्वपूर्ण तीन प्राचीन कलाकृतियों को ऑस्ट्रेलिया भारत को लौटाने जा रहा है। संस्कृति मंत्रालय ने बताया कि इन कलाकृतियों में देवी भद्रकाली का एक कांस्य त्रिशूल, नंदी की एक भव्य ग्रेनाइट प्रतिमा और छह सिर वाले कार्तिकेय की बेसाल्ट पत्थर की एक मूर्ति शामिल हैं। ये सभी वस्तुएँ 11वीं और 12वीं शताब्दी की हैं और मूल रूप से तमिलनाडु के ऐतिहासिक मंदिरों से प्राप्त की गई थीं। इस प्रत्यावर्तन की आधिकारिक घोषणा प्रधानमंत्री नरेंद्र मोदी की ऑस्ट्रेलिया यात्रा के साथ हुई है। यह दोनों देशों के बीच मजबूत सांस्कृतिक जुड़ाव को भी दर्शाता है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:17:09+00:00",
-        "link": "https://newsonair.gov.in/hi/australia-to-return-three-ancient-cultural-artifacts-to-india/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi-ji.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "सरकार ई85 ईंधन लाने की योजना बना रही: हरदीप सिंह पुरी",
+        "summary": "पेट्रोलियम और प्राकृतिक गैस मंत्री हरदीप सिंह पुरी ने कहा है कि सरकार ई85 ईंधन लाने की योजना बना रही है, जो मानक ई20 पेट्रोल से करीब 20 रुपये प्रति लीटर सस्ता होगा। उन्होंने कहा कि ई85 केवल उन वाहनों के लिए उपलब्ध होगा जो विशेष रूप से इस ईंधन के उपयोग के लिए डिज़ाइन […]",
+        "article": "पेट्रोलियम और प्राकृतिक गैस मंत्री हरदीप सिंह पुरी ने कहा है कि सरकार ई85 ईंधन लाने की योजना बना रही है, जो मानक ई20 पेट्रोल से करीब 20 रुपये प्रति लीटर सस्ता होगा। उन्होंने कहा कि ई85 केवल उन वाहनों के लिए उपलब्ध होगा जो विशेष रूप से इस ईंधन के उपयोग के लिए डिज़ाइन किए गए हैं। एक निजी समाचार चैनल को दिए साक्षात्कार में पेट्रोलियम मंत्री ने कहा कि प्रस्तावित कदम का उद्देश्य उपभोक्ताओं को आर्थिक राहत प्रदान करना और साथ ही सरकार के इथेनॉल मिश्रण कार्यक्रम को आगे बढ़ाना है। उन्होंने व्यापक जैव ईंधन नीति का बचाव करते हुए इथेनॉल मिश्रित पेट्रोल से इंजन को होने वाले नुकसान और वाहन के प्रदर्शन से संबंधित चिंताओं को खारिज कर दिया।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T02:23:12+00:00",
+        "link": "https://newsonair.gov.in/hi/government-planning-to-introduce-e85-fuel-hardeep-singh-puri/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Hardeep.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बनाते हैं: अमित शाह",
+        "summary": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा […]",
+        "article": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा कि सरकार देश को पूरी तरह से घुसपैठ मुक्त बनाने के लिए एक मजबूत व्यवस्था का निर्माण कर रही है। श्री शाह कल नई दिल्ली में सीमावर्ती जिलों के पुलिस अधीक्षकों के एक सम्मेलन को संबोधित कर रहे थे। उन्होंने बताया कि नरेंद्र मोदी के नेतृत्व वाली सरकार ने वैज्ञानिक रूप से सीमावर्ती बुनियादी ढांचे में चार सौ प्रतिशत की वृद्धि की है। श्री शाह ने कहा कि सरकार 1600 किलोमीटर से अधिक लंबी भारत-म्यांमार सीमा पर 31 हजार करोड़ रुपये की लागत से बाड़ लगा रही है। उन्होंने इस बात पर जोर दिया कि सीमावर्ती क्षेत्रों में असामान्य कारकों की वजह से होने वाले जनसांख्यिकीय परिवर्तनों की जानकारी जमीनी स्तर से लेकर उच्च स्तर तक जल्द से जल्द पहुंचाई जानी चाहिए। गृह मंत्री ने कहा कि सरकार का उद्देश्य सीमावर्ती क्षेत्रों को सुरक्षित और रहने योग्य बनाते हुए, परोक्ष युद्ध, अवैध घुसपैठ, कट्टरपंथ, मादक पदार्थों की तस्करी, ड्रोन से संबंधित खतरों और जनसांख्यिकीय परिवर्तनों जैसी अन्य सुरक्षा चुनौतियों को रोकना है। इस सम्मेलन में जम्मू-कश्मीर, पंजाब, उत्तराखंड, राजस्थान, गुजरात, उत्तर प्रदेश, बिहार, पश्चिम बंगाल और पूर्वोत्तर राज्यों सहित सीमावर्ती राज्यों और केंद्र शासित प्रदेशों के पुलिस अधीक्षकों ने भाग लिया। सम्&#x200d;मेलन में गृह मंत्रालय के वरिष्ठ अधिकारियों ने भी भाग लिया। सम्मेलन का उद्देश्य संवेदनशील सीमावर्ती क्षेत्रों की वर्तमान स्थिति का आकलन करके प्रवर्तन में सुधार के उपायों की पहचान कर देश के सीमा सुरक्षा ढांचे को मजबूत करना था। यह सम्मेलन केंद्र सरकार के कुछ महीने पहले लिए गए उस निर्णय की पृष्ठभूमि में आयोजित किया गया था जिसमें देश के विभिन्न हिस्सों में हो रहे जनसांख्यिकीय परिवर्तनों की सीमा का अध्ययन करने और उनके लिए जिम्मेदार कारकों की पहचान करने के लिए एक उच्च स्तरीय समिति गठित करने का निर्णय लिया गया था।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T02:19:00+00:00",
+        "link": "https://newsonair.gov.in/hi/secure-borders-prosperous-border-regions-and-an-aware-society-together-make-the-country-secure-amit-shah/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzYWyNaoAAXI3z.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर",
+        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कुवैत की यात्रा पूरी करने के बाद ओमान पहुंच गए हैं। उनके आगमन पर ओमान के विदेश मंत्रालय के महानिदेशक शेख अहमद अल मस्कारी ने उनका स्वागत किया। डॉ. जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर हैं। ओमान यात्रा पूरी करने के बाद, […]",
+        "article": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कुवैत की यात्रा पूरी करने के बाद ओमान पहुंच गए हैं। उनके आगमन पर ओमान के विदेश मंत्रालय के महानिदेशक शेख अहमद अल मस्कारी ने उनका स्वागत किया। डॉ. जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर हैं। ओमान यात्रा पूरी करने के बाद, वे न्यूयॉर्क में संयुक्त राष्ट्र सुरक्षा परिषद के 2028-29 कार्यकाल के लिए भारत के आधिकारिक अभियान की शुरुआत करेंगे। इसके बाद विदेश मंत्री 14 और 15 जुलाई को ब्रुसेल्स में तीसरे भारत-यूरोपीय संघ व्यापार और प्रौद्योगिकी परिषद की बैठक में शामिल होंगे। डॉ. जयशंकर यूरोपीय संघ और बेल्जियम के विदेश मंत्री के साथ बातचीत भी करेंगे।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:50:45+00:00",
+        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-on-an-11-day-visit-to-qatar-bahrain-kuwait-oman-new-york-and-brussels/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzH5rtawAE5FAC-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कुशल कार्यबल और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों के पसंदीदा देशों में शामिल: वित्त मंत्री",
+        "summary": "वित्त मंत्री निर्मला सीतारामन ने कहा है कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों &#8211; जीसीसी के लिए सबसे पसंदीदा देशों में शामिल है। नई दिल्ली में सीआईआई राष्ट्रीय जीसीसी बिजनेस समिट-2026 को संबोधित करते हुए वित्तमंत्री ने कहा कि देश में इक्कीस सौ से अधिक जीसीसी हैं, जहां […]",
+        "article": "वित्त मंत्री निर्मला सीतारामन ने कहा है कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों &#8211; जीसीसी के लिए सबसे पसंदीदा देशों में शामिल है। नई दिल्ली में सीआईआई राष्ट्रीय जीसीसी बिजनेस समिट-2026 को संबोधित करते हुए वित्तमंत्री ने कहा कि देश में इक्कीस सौ से अधिक जीसीसी हैं, जहां 23 लाख से अधिक लोग प्रत्यक्ष रूप से कार्यरत हैं। इन केंद्रों से हर साल लगभग दस हज़ार करोड़ डॉलर का राजस्व प्राप्त होता है। उन्होंने कहा कि यह केंद्र इंजीनियरिंग, अनुसंधान, आर्टिफिशियल इंटेलीजेंस, साइबर सुरक्षा, वित्त, उत्पाद डिजाइन और डेटा विज्ञान को एक साथ लाकर नवाचार को बढ़ावा दे रहे हैं। वित्त मंत्री ने कहा कि बहुराष्ट्रीय कंपनियां अपने क्षमता केंद्र भारत में स्थापित करने की अधिक इच्छा रखती हैं। उन्होंने बल देकर कहा कि भारत का जीसीसी पारिस्थितिकी तंत्र विश्व का सबसे बड़ा संगठित ज्ञान निर्यात केंद्र है। वित्त मंत्री ने कहा कि भारत की आकांक्षा केवल विश्व के क्षमता केंद्रों की मेजबानी करना ही नहीं है, बल्कि भविष्य की नई प्रौद्योगिकियों और उद्यमों का नेतृत्व करना भी है।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:46:15+00:00",
+        "link": "https://newsonair.gov.in/hi/india-among-preferred-destinations-for-global-capability-centres-due-to-skilled-workforce-and-innovation-finance-minister/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzJdF4boAA0p-8.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संघर्ष-संबंधी यौन हिंसा की कड़ी निंदा की",
+        "summary": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते […]",
+        "article": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते हुए, संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि, राजदूत पी. ​​हरीश ने कहा कि इस तरह की हिंसा दण्ड मुक्ति की प्रचलित संस्कृति के बीच जारी है। उन्&#x200d;होंने कहा कि भारत ऐसे जघन्य कृत्यों की कड़ी निंदा करता है। संयुक्त राष्ट्र महासचिव की रिपोर्ट का संदर्भ देते हुए उन्होंने कहा कि 2025 में सत्यापित मामलों में हुई तीव्र वृद्धि सामूहिक कार्रवाई की तत्काल आवश्यकता को रेखांकित करती है। संयुक्त राष्ट्र शांतिरक्षा में भारत के महत्वपूर्ण योगदानों पर प्रकाश डालते हुए, श्री हरीश ने कहा कि महिला शांतिरक्षकों की तैनाती ने संघर्ष-संबंधी यौन हिंसा से निपटने में &#8220;परिवर्तनकारी प्रभाव&#8221; डाला है। उन्होंने यह घोषणा भी की कि संघर्ष से संबंधित यौन हिंसा को रोकने में उनके उत्कृष्ट प्रयासों के लिए भारतीय शांति रक्षक मेजर मोइज़ यासीन और मेजर सोनिया देवेंद्र नवस्कर को वर्ष 2026 के लिए संयुक्त राष्ट्र महासचिव का मिलिट्री जेंडर ऑफ द ईयर का मान्&#x200d;यता प्रमाणपत्र प्रदान किया जाएगा।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:37:00+00:00",
+        "link": "https://newsonair.gov.in/hi/india-strongly-condemned-conflict-related-sexual-violence/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-10-070515-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "वित्त मंत्री निर्मला सीतारमण ने नेशनल जीसीसी बिजनेस समिट 2026 को किया संबोधित",
         "summary": "वित्त मंत्री निर्मला सीतारमण ने आज कहा कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार पारिस्थितिकी तंत्र के कारण भारत वैश्विक क्षमता केंद्र (जीसीसी) के लिए पसंदीदा गंतव्य के रूप में उभर रहा है। नई दिल्ली में भारतीय उद्योग परिसंघ द्वारा आयोजित नेशनल जीसीसी बिजनेस समिट 2026 को संबोधित करते हुए, सुश्री सीतारामन ने कहा कि […]",
         "article": "वित्त मंत्री निर्मला सीतारमण ने आज कहा कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार पारिस्थितिकी तंत्र के कारण भारत वैश्विक क्षमता केंद्र (जीसीसी) के लिए पसंदीदा गंतव्य के रूप में उभर रहा है। नई दिल्ली में भारतीय उद्योग परिसंघ द्वारा आयोजित नेशनल जीसीसी बिजनेस समिट 2026 को संबोधित करते हुए, सुश्री सीतारामन ने कहा कि देश में 2100 से अधिक वैश्विक क्षमता केंद्र हैं, जिनमें 23 लाख पेशेवर प्रत्यक्ष रूप से कार्यरत हैं और लगभग 100 अरब अमरीकी डॉलर का वार्षिक राजस्व उत्पन्न होता है। उन्होंने कहा कि वैश्विक क्षमता केंद्र इंजीनियरिंग, अनुसंधान, एआई, साइबर सुरक्षा, वित्त, उत्पाद डिजाइन और डेटा विज्ञान को एक साथ लाकर निरंतर नवाचार को बढ़ावा देकर परिवर्तन का प्रतिनिधित्व करते हैं।",
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:37:59+00:00",
         "link": "https://newsonair.gov.in/hi/finance-minister-nirmala-sitharaman-addressed-the-national-gcc-business-summit-2026/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/निर्मला.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1400,8 +1455,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:36:48+00:00",
         "link": "https://newsonair.gov.in/hi/j-p-nadda-calls-upon-intellectuals-to-contribute-to-nation-building-for-a-viksit-bharat-2047-developed-india-2047/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/J-p-Nadda.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1411,8 +1466,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:35:38+00:00",
         "link": "https://newsonair.gov.in/hi/dpiit-amended-two-quality-control-orders-for-the-footwear-sector/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1422,8 +1477,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:34:22+00:00",
         "link": "https://newsonair.gov.in/hi/the-indian-navys-training-ship-sudarshini-completed-its-voyage-in-new-york-usa/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/naval-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1433,54 +1488,12 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:30:57+00:00",
         "link": "https://newsonair.gov.in/hi/india-australia-alliance-reaches-new-remarkable-heights-pm-modi-at-melbourne-meets-modi-event/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi-ji.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "एफएसएसएआई ने मादक पेय निर्माताओं को नियम उल्लंघन पर नोटिस जारी किए",
-        "summary": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (एफएसएसएआई) ने मादक पेय पदार्थों के निर्माताओं को मिलावटी स्वादों और भ्रामक आयु संबंधी दावों से संबंधित नियामक प्रावधानों का कथित रूप से पालन नहीं करने के लिए नोटिस जारी किए हैं। खाद्य व्यवसाय संचालकों (एफबीओ) को अनुपालन सुनिश्चित करने का निर्देश दिया गया है। अनुपालनों में मिलावटी स्वादों […]",
-        "article": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण ( एफएसएसएआई) ने मादक पेय पदार्थों के निर्माताओं को मिलावटी स्वादों और भ्रामक आयु संबंधी दावों से संबंधित नियामक प्रावधानों का कथित रूप से पालन नहीं करने के लिए नोटिस जारी किए हैं। खाद्य व्यवसाय संचालकों ( एफबीओ) को अनुपालन सुनिश्चित करने का निर्देश दिया गया है। अनुपालनों में मिलावटी स्वादों का निषिद्ध उपयोग और एफबीओ द्वारा आयु दर्शाने वाले शब्दों, पर्यायवाची शब्दों या अप्रत्यक्ष अभिव्यक्तियों का उपयोग करके अनधिकृत आयु संबंधी दावे करना शामिल है। एफएसएसएआई ने पाया कि कुछ निर्माता ऐसे मिलावटी स्वादों का उपयोग कर रहे हैं जो उत्पाद के प्राकृतिक स्वरूप की नकल करते हैं।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:30:41+00:00",
-        "link": "https://newsonair.gov.in/hi/fssai-issued-notices-to-alcoholic-beverage-manufacturers-for-rule-violations/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वस्त्र मंत्री गिरिराज सिंह ने आज नई दिल्ली में एक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता की",
-        "summary": "वस्त्र मंत्री गिरिराज सिंह ने आज नई दिल्ली में एक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता की। इस बैठक में प्रौद्योगिकी उन्नयन, संस्थागत सुधारों और उद्योग को बेहतर समर्थन के माध्यम से भारत के वस्त्र पारिस्थितिकी तंत्र को मजबूत करने के उद्देश्य से शुरू की गई प्रमुख पहलों की प्रगति का आकलन किया गया। वस्त्र […]",
-        "article": "वस्त्र मंत्री गिरिराज सिंह ने आज नई दिल्ली में एक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता की। इस बैठक में प्रौद्योगिकी उन्नयन, संस्थागत सुधारों और उद्योग को बेहतर समर्थन के माध्यम से भारत के वस्त्र पारिस्थितिकी तंत्र को मजबूत करने के उद्देश्य से शुरू की गई प्रमुख पहलों की प्रगति का आकलन किया गया। वस्त्र मंत्री ने पूर्ववर्ती पावरलूम सेवा केंद्रों के एकीकृत वस्त्र और परिधान विकास केंद्रों (आईटीएडीसी) में परिवर्तन की समीक्षा की। इन केंद्रों को वस्त्र क्षेत्र के लिए एकीकृत विकास केंद्रों के रूप में पुनर्स्थापित किया जा रहा है। नए आईटीएडीसी को वस्त्र उद्यमियों, सूक्ष्म, लघु और मध्यम उद्यमों और वस्त्र मूल्य श्रृंखला के अन्य हितधारकों को कौशल विकास, परीक्षण, डिजाइन सहायता, प्रौद्योगिकी अपनाने, उद्यमिता विकास, ऋण सुविधा, निर्यात प्रोत्साहन और बाजार संपर्क जैसी सुविधाएं प्रदान करने वाले एक ही स्थान पर सभी सुविधाएं उपलब्ध कराने वाले केंद्रों के रूप में परिकल्पित किया गया है। श्री सिंह ने संशोधित प्रौद्योगिकी उन्नयन निधि योजना के कार्यान्वयन की भी समीक्षा की और भारतीय वस्त्र उद्योग के आधुनिकीकरण में इसके योगदान की सराहना की। उन्होंने वस्त्र आयुक्त कार्यालय की नई वेबसाइट का उद्घाटन किया। इसमें योजनाओं, सेवाओं और संस्थागत गतिविधियों की व्यापक जानकारी के साथ एक आधुनिक, सुलभ और उपयोगकर्ता के अनुकूल इंटरफेस है। श्री सिंह ने आईटीएडीसी के लिए नव विकसित प्रमुख प्रदर्शन संकेतक पोर्टल का भी उद्घाटन किया। बैठक के दौरान श्री सिंह ने कहा कि आईटीएडीसी लगातार नवाचार और उद्यम विकास केंद्रों के रूप में विकसित हो रहे हैं। यह वस्त्र व्यवसायों को प्रारंभिक अवस्था से लेकर बाजार विस्तार तक सहयोग देने में सक्षम हैं। वस्त्र मंत्री ने कहा कि ये केंद्र उद्यमियों और उद्योग के लिए एक ही स्थान पर सभी सुविधाएं प्रदान करने वाले केंद्रों के रूप में कार्य करके भारत के वस्त्र विकास के अगले चरण को आधार प्रदान करेंगे। वस्त्र मंत्रालय की सचिव नीलम शमी राव भी इस अवसर पर उपस्थित थीं। उन्होंने संस्थागत समन्वय के महत्व पर जोर दिया। उन्होंने कहा कि सरकारी पहलों के अधिकतम प्रभाव के लिए क्षेत्रीय इकाइयों, वस्त्र समिति, निर्यात संवर्धन परिषदों, वस्त्र अनुसंधान संघों और उद्योग संघों को घनिष्ठ समन्वय में कार्य करना चाहिए।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:28:52+00:00",
-        "link": "https://newsonair.gov.in/hi/textiles-minister-giriraj-singh-chaired-a-high-level-review-meeting-in-new-delhi-today/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सीएक्यूएम का दिल्ली में स्वच्छ वायु अभियान, विशेष निरीक्षण अभियान चलाया",
-        "summary": "दिल्ली और राष्ट्रीय राजधानी क्षेत्र (एनसीआर) और आसपास के क्षेत्रों में वायु गुणवत्ता प्रबंधन आयोग (सीएक्यूएम) ने कल दिल्ली में स्वच्छ वायु अभियान के तहत एक विशेष निरीक्षण अभियान चलाया। यह निरीक्षण शहरी सड़कों के पक्कीकरण और हरियाली के लिए मानक ढांचे के अनुसार किए गए सड़क पुनर्विकास कार्यों की स्थिति का आकलन करने के […]",
-        "article": "दिल्ली और राष्ट्रीय राजधानी क्षेत्र (एनसीआर) और आसपास के क्षेत्रों में वायु गुणवत्ता प्रबंधन आयोग (सीएक्यूएम) ने कल दिल्ली में स्वच्छ वायु अभियान के तहत एक विशेष निरीक्षण अभियान चलाया। यह निरीक्षण शहरी सड़कों के पक्कीकरण और हरियाली के लिए मानक ढांचे के अनुसार किए गए सड़क पुनर्विकास कार्यों की स्थिति का आकलन करने के लिए किया गया था। सीएक्यूएम ने बताया कि निरीक्षण के दौरान दिल्ली नगर निगम &#8211; एमसीडी के अधिकार क्षेत्र में आने वाली 79 सड़कों में से 78 सड़कों पर पूर्ण पक्कीकरण पाया गया। यह मानक ढांचे के अनुपालन को दर्शाता है। आयोग ने बताया कि दिल्ली के विभिन्न हिस्सों में लगभग 13 किलोमीटर लंबी सड़कों के निरीक्षण के लिए 10 हवाई दस्ते तैनात किए गए थे। सीएक्यूएम ने कहा कि एमसीडी द्वारा किए गए सड़क पुनर्विकास कार्यों से निरीक्षण की गई सड़कों पर पक्कीकरण में उल्लेखनीय सुधार हुआ है। इससे शहरी क्षेत्रों में कण प्रदूषण के प्रमुख स्रोतों में से एक, सड़क धूल उत्सर्जन को कम करने में मदद मिलेगी। इसमें कहा गया है कि दिल्ली-एनसीआर में सभी सड़क स्वामित्व एजेंसियों द्वारा शहरी सड़कों के पक्कीकरण और हरियाली के लिए मानक ढांचे का कार्यान्वयन सड़क की धूल को दीर्घकालिक रूप से कम करने के लिए आवश्यक है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:25:21+00:00",
-        "link": "https://newsonair.gov.in/hi/caqm-conducted-a-clean-air-campaign-and-a-special-inspection-drive-in-delhi/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने इलेक्ट्रॉनिक उपकरणों में इस्तेमाल होने वाले मुख्य पुर्ज़ों पर मूल सीमा शुल्क में छूट दी",
-        "summary": "सरकार ने स्मार्टफोन, लैपटॉप, पहनने योग्‍य स्‍मार्ट उपकरणों और स्मार्ट टीवी जैसे इलेक्ट्रॉनिक उपकरणों के निर्माण को बढ़ावा देने के उद्देश्य से डिस्प्ले असेंबली, लिथियम-आयन सेल और इंडक्टर कॉयल मॉड्यूल के निर्माण में उपयोग होने वाले सामान पर मूल सीमा शुल्क में छूट देने का फैसला किया है। वित्त मंत्रालय ने इलेक्ट्रॉनिक उपकरणों के इन […]",
-        "article": "सरकार ने स्मार्टफोन, लैपटॉप, पहनने योग्&#x200d;य स्&#x200d;मार्ट उपकरणों और स्मार्ट टीवी जैसे इलेक्ट्रॉनिक उपकरणों के निर्माण को बढ़ावा देने के उद्देश्य से डिस्प्ले असेंबली, लिथियम-आयन सेल और इंडक्टर कॉयल मॉड्यूल के निर्माण में उपयोग होने वाले सामान पर मूल सीमा शुल्क में छूट देने का फैसला किया है। वित्त मंत्रालय ने इलेक्ट्रॉनिक उपकरणों के इन तीन प्रमुख घटकों के निर्माण में उपयोग होने वाले सामान पर मूल सीमा शुल्क में छूट देने संबंधी तीन अलग-अलग अधिसूचनाएं जारी की हैं। मूल सीमा शुल्&#x200d;क में यह छूट सरकार की उत्पादन आधारित प्रोत्साहन योजना के अंतर्गत घरेलू इलेक्ट्रॉनिक्स विनिर्माण को बढ़ावा देने के प्रयासों के अनुरूप है। इससे आयात पर निर्भरता कम होगी और स्थानीय उत्पादन को बढ़ावा मिलेगा, जिससे देश में इलेक्ट्रॉनिक्स विनिर्माण इकोसिस्&#x200d;टम और मजबूत होगा। इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी सचिव एस. कृष्णन ने कहा कि इलेक्ट्रॉनिक्स विनिर्माण के प्रमुख घटकों पर मूल सीमा शुल्क में छूट के निर्णय से मूल्य श्रृंखला और विनिर्माण इकोसिस्&#x200d;टम को और सुदृढ़ करने में मदद मिलेगी।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:20:48+00:00",
-        "link": "https://newsonair.gov.in/hi/government-exempts-basic-customs-duty-on-key-components-used-in-electronic-devices/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
+      }
+    ],
+    "world": [
       {
         "title": "ऑस्ट्रेलिया भारत को लौटाएगा तीन प्राचीन सांस्कृतिक धरोहरें",
         "summary": "आधुनिक कूटनीति की नींव रखने वाली सभ्यतागत समानता का एक गहरा प्रमाण देते हुए, सांस्कृतिक रूप से महत्वपूर्ण तीन प्राचीन कलाकृतियों को ऑस्ट्रेलिया भारत को लौटाने जा रहा है। संस्कृति मंत्रालय ने बताया कि इन कलाकृतियों में देवी भद्रकाली का एक कांस्य त्रिशूल, नंदी की एक भव्य ग्रेनाइट प्रतिमा और छह सिर वाले कार्तिकेय की […]",
@@ -1488,12 +1501,89 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:17:09+00:00",
         "link": "https://newsonair.gov.in/hi/australia-to-return-three-ancient-cultural-artifacts-to-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/आस्ट्रेलिया.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत की तीन प्राचीन कलाकृतियों को वापस लौटाएगा ऑस्ट्रेलिया",
+        "summary": "आधुनिक कूटनीति की नींव रखने वाली सभ्यतागत समानता का एक गहरा प्रमाण देते हुए, सांस्कृतिक रूप से महत्वपूर्ण तीन प्राचीन कलाकृतियों को ऑस्ट्रेलिया भारत को लौटाने जा रहा है। संस्कृति मंत्रालय ने बताया कि इन कलाकृतियों में देवी भद्रकाली का एक कांस्य त्रिशूल, नंदी की एक भव्य ग्रेनाइट प्रतिमा और छह सिर वाले कार्तिकेय की […]",
+        "article": "आधुनिक कूटनीति की नींव रखने वाली सभ्यतागत समानता का एक गहरा प्रमाण देते हुए, सांस्कृतिक रूप से महत्वपूर्ण तीन प्राचीन कलाकृतियों को ऑस्ट्रेलिया भारत को लौटाने जा रहा है। संस्कृति मंत्रालय ने बताया कि इन कलाकृतियों में देवी भद्रकाली का एक कांस्य त्रिशूल, नंदी की एक भव्य ग्रेनाइट प्रतिमा और छह सिर वाले कार्तिकेय की बेसाल्ट पत्थर की एक मूर्ति शामिल हैं। ये सभी वस्तुएँ 11वीं और 12वीं शताब्दी की हैं और मूल रूप से तमिलनाडु के ऐतिहासिक मंदिरों से प्राप्त की गई थीं। इस प्रत्यावर्तन की आधिकारिक घोषणा प्रधानमंत्री नरेंद्र मोदी की ऑस्ट्रेलिया यात्रा के साथ हुई है। यह दोनों देशों के बीच मजबूत सांस्कृतिक जुड़ाव को भी दर्शाता है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T16:05:30+00:00",
+        "link": "https://newsonair.gov.in/hi/australia-to-return-three-ancient-indian-artefacts/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/आस्ट्रेलिया.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ऑस्ट्रेलिया की बेहद सफल राजकीय यात्रा का समापन कर, कल अगले चरण की यात्रा की शुरुआत करेंगे प्रधानमंत्री मोदी",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी की ऑस्ट्रेलिया की बेहद सफल राजकीय यात्रा का समापन हो रहा है। मेलबर्न में कल उनका कार्यक्रम समाप्त होगा। इसके बाद वे अपनी तीन देशों की यात्रा के अगले चरण की शुरुआत करेंगे। दिन की शुरुआत आज राजनयिक मुलाकात से हुई, जब प्रधानमंत्री नरेंद्र मोदी ने विपक्ष के नेता एंगस टेलर से […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी की ऑस्ट्रेलिया की बेहद सफल राजकीय यात्रा का समापन हो रहा है। मेलबर्न में कल उनका कार्यक्रम समाप्त होगा। इसके बाद वे अपनी तीन देशों की यात्रा के अगले चरण की शुरुआत करेंगे। दिन की शुरुआत आज राजनयिक मुलाकात से हुई, जब प्रधानमंत्री नरेंद्र मोदी ने विपक्ष के नेता एंगस टेलर से मुलाकात की प्रधानमंत्री मोदी, ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बानीज़ के साथ प्रतिष्ठित मेलबर्न क्रिकेट ग्राउंड &#8211; एमसीजी का दौरा करेंगे। द्विपक्षीय सहयोग के तेजी से बढ़ते क्षेत्र के रूप में खेलों का जिक्र करते हुए दोनों नेता इस अवसर पर ऐतिहासिक भारत-ऑस्ट्रेलिया खेल सहयोग रोडमैप का अनावरण करेंगे। भारत 2030 में राष्ट्रमंडल खेलों की मेजबानी करने जा रहा है और ऑस्ट्रेलिया 2032 में ओलंपिक खेलों की मेजबानी करेगा। ऐसे में यह रणनीतिक रोडमैप सहयोग के व्यापक अवसर के द्वार खोलने का वचन देता है। इससे क्रिकेट के साथ-साथ खेल भी दोनों लोकतंत्रों को जोड़ने वाले एक शक्तिशाली &#8220;जीवंत सेतु&#8221; के रूप में और अधिक मजबूत होंगे। यह यादगार राजकीय यात्रा कल दोपहर आधिकारिक रूप से समाप्त हो जाएगी। प्रधानमंत्री और उनका प्रतिनिधिमंडल मेलबर्न से रवाना होकर तस्मान सागर पार करते हुए ऑकलैंड, न्यूजीलैंड के लिए रवाना होगा, जहां से इस तीन देशों की यात्रा का अंतिम चरण शुरू होगा।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T15:38:36+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-concludes-his-highly-successful-state-visit-to-australia-and-begins-the-next-leg-of-his-visit-tomorrow/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modiiiiii.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ब्रिटेन के कई सांसदों ने पाकिस्तान के अवैध कब्जे वाले जम्मू-कश्मीर में बढ़ती अशांति पर गंभीर चिंता व्यक्त की",
+        "summary": "ब्रिटेन के कई सांसदों ने पाकिस्तान के अवैध कब्जे वाले जम्मू-कश्मीर &#8211; पीओजेके में बढ़ती अशांति पर गंभीर चिंता व्यक्त की है। इस क्षेत्र में पाकिस्तानी सुरक्षा बलों के बर्बर हमलों में कई नागरिक मारे गए हैं या घायल हुए है। इस क्षेत्र में सख्त लॉकडाउन, कर्फ्यू और संचार व्यवस्था पूरी तरह से ठप है। […]",
+        "article": "ब्रिटेन के कई सांसदों ने पाकिस्तान के अवैध कब्जे वाले जम्मू-कश्मीर &#8211; पीओजेके में बढ़ती अशांति पर गंभीर चिंता व्यक्त की है। इस क्षेत्र में पाकिस्तानी सुरक्षा बलों के बर्बर हमलों में कई नागरिक मारे गए हैं या घायल हुए है। इस क्षेत्र में सख्त लॉकडाउन, कर्फ्यू और संचार व्यवस्था पूरी तरह से ठप है। ब्रिटेन की संसद को संबोधित करते हुए कंजर्वेटिव पार्टी के नेता और सांसद बॉब ब्लैकमैन ने कहा कि पाकिस्तान के सुरक्षाबलों ने पीओजेके में शांतिपूर्ण प्रदर्शनकारियों पर गोलीबारी की है। इस हमले में ब्रिटिश नागरिक सहित कई लोगों की मृत्यु हुई है और नागरिक घायल हुए हैं। उन्होंने ब्रिटिश सरकार से सवाल किया कि कथित हिंसा पर क्या पाकिस्तान के उच्चायोग को तलब किया गया है और आसपास खड़े बेगुनाह लोगों की रक्षा के लिए क्या उपाय किए गए थे। संसद की बहस में इस मुद्दे को उठाते हुए ब्रिटेन के एक अन्य सांसद इमरान हुसैन ने इस क्षेत्र में लगातार हो रहे रक्तपात, मनमाने ढंग की गिरफ्तारियां और पीओजेके में संचार व्यवस्था पर लगाए गए प्रतिबंध पर गंभीर चिंता व्यक्त की। हुसैन ने कहा कि इस क्षेत्र के कई हिस्सों में खाद्य और चिकित्सा आपूर्ति की आवाजाही पर लगे प्रतिबंध चौंकाने वाले हैं। उन्होंने कहा कि पीओजेके में कश्मीरियों के मानवाधिकार के सम्मान को किसी भी वार्ता का मुख्य मुद्दा बनाया जाना चाहिए। संयुक्त अवामी कार्रवाई समिति (जेएएसी) ने पाकिस्तान को चेतावनी दी है कि वह अपनी मांगों को पूरा नहीं होने की स्थिति में निर्णायक कार्रवाई शुरु करेगी। समिति ने इस स्थिति का साक्षी बनने के लिए वैश्विक पर्यवेक्षकों को आमंत्रित किया है। इनकी मांगों में आर्थिक सुधार, संसाधनों का निष्पक्ष वितरण, अर्धसैनिक बलों की उपस्थिति में कटौती और विधायी सीटों के आवंटन में परिवर्तन शामिल हैं। इस समिति के नेता सरदार अमान खान ने कथित नाकाबंदी और सैन्य हमलों के कारण जरूरी आपूर्तियों में हुई कमी का हवाला देते हुए भारत से मानवीय सहायता की मांग की है। सरदार खान ने कार्यकर्ताओं को आतंकवादी करार देने संबंधी पाकिस्तान के पाखंड की आलोचना की है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T15:28:12+00:00",
+        "link": "https://newsonair.gov.in/hi/several-uk-mps-expressed-serious-concern-over-the-growing-unrest-in-pakistan-occupied-jammu-and-kashmir/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ईरान ने अमरीका पर बुशहर परमाणु ऊर्जा संयंत्र के पास हवाई हमला करने का आरोप लगाया",
+        "summary": "ईरान ने अमरीका पर आज बुशहर परमाणु ऊर्जा संयंत्र के पास हवाई हमला करने का आरोप लगाया। ईरान की सरकारी समाचार एजेंसी ने बताया कि अमरीकी सेना की केंद्रीय कमान द्वारा ईरान पर हमले समाप्त करने की घोषणा के कुछ घंटों बाद दोपहर में यह हमला हुआ। अमरीकी केंद्रीय कमान ने तत्‍काल इसकी पुष्टि नहीं […]",
+        "article": "ईरान ने अमरीका पर आज बुशहर परमाणु ऊर्जा संयंत्र के पास हवाई हमला करने का आरोप लगाया। ईरान की सरकारी समाचार एजेंसी ने बताया कि अमरीकी सेना की केंद्रीय कमान द्वारा ईरान पर हमले समाप्त करने की घोषणा के कुछ घंटों बाद दोपहर में यह हमला हुआ। अमरीकी केंद्रीय कमान ने तत्&#x200d;काल इसकी पुष्टि नहीं की है। अमरीका ने आज सुबह ईरान पर नए हवाई हमले किए। ईरान ने भी खाड़ी क्षेत्र में अमरीका के सहयोगी देशों को निशाना बनाकर जवाबी कार्रवाई की। ईरानी मिसाइलों ने कुवैत और कतर को निशाना बनाया। बहरीन में कम से कम तीन बार चेतावनी सायरन बजे। जॉर्डन में भी सायरन बजने की आवाजें सुनाई दी। इन नए हमलों से पश्चिम एशिया में युद्ध समाप्त करने का अंतरिम समझौता खतरे में पड़ गया है। ईरान के स्वास्थ्य मंत्रालय के अनुसार अमरीकी हवाई हमलों से दो दिन में कम से कम 14 लोग मारे गए है और 78 अन्य घायल हैं।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T14:03:33+00:00",
+        "link": "https://newsonair.gov.in/hi/iran-accuses-us-of-airstrike-near-bushehr-nuclear-power-plant/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत और ऑस्ट्रेलिया के बीच संबंध गतिशील हैं: विदेश सचिव विक्रम मिस्री",
+        "summary": "विदेश सचिव विक्रम मिस्री ने कहा है कि भारत और ऑस्ट्रेलिया के बीच संबंध गतिशील हैं और तेज़ी से आगे बढ़ रहे हैं। आज मेलबर्न में श्री मिस्री ने कहा कि व्यापार, रक्षा और ऊर्जा सहित अनेक क्षेत्रों में दोनों देशों की द्विपक्षीय साझेदारी लगातार सुदृढ़ हुई है। उन्होंने कहा कि कई क्षेत्रों में रणनीतिक […]",
+        "article": "विदेश सचिव विक्रम मिस्री ने कहा है कि भारत और ऑस्ट्रेलिया के बीच संबंध गतिशील हैं और तेज़ी से आगे बढ़ रहे हैं। आज मेलबर्न में श्री मिस्री ने कहा कि व्यापार, रक्षा और ऊर्जा सहित अनेक क्षेत्रों में दोनों देशों की द्विपक्षीय साझेदारी लगातार सुदृढ़ हुई है। उन्होंने कहा कि कई क्षेत्रों में रणनीतिक और आर्थिक सहयोग तेजी से बढ़ा है।",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T12:48:53+00:00",
+        "link": "https://newsonair.gov.in/hi/relations-between-india-and-australia-are-dynamic-foreign-secretary-vikram-misri/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/vikram.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर",
+        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कुवैत की यात्रा पूरी करने के बाद ओमान पहुंच गए हैं। उनके आगमन पर ओमान के विदेश मंत्रालय के महानिदेशक शेख अहमद अल मस्कारी ने उनका स्वागत किया। डॉ. जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर हैं। ओमान यात्रा पूरी करने के बाद, […]",
+        "article": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कुवैत की यात्रा पूरी करने के बाद ओमान पहुंच गए हैं। उनके आगमन पर ओमान के विदेश मंत्रालय के महानिदेशक शेख अहमद अल मस्कारी ने उनका स्वागत किया। डॉ. जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर हैं। ओमान यात्रा पूरी करने के बाद, वे न्यूयॉर्क में संयुक्त राष्ट्र सुरक्षा परिषद के 2028-29 कार्यकाल के लिए भारत के आधिकारिक अभियान की शुरुआत करेंगे। इसके बाद विदेश मंत्री 14 और 15 जुलाई को ब्रुसेल्स में तीसरे भारत-यूरोपीय संघ व्यापार और प्रौद्योगिकी परिषद की बैठक में शामिल होंगे। डॉ. जयशंकर यूरोपीय संघ और बेल्जियम के विदेश मंत्री के साथ बातचीत भी करेंगे।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:50:45+00:00",
+        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-on-an-11-day-visit-to-qatar-bahrain-kuwait-oman-new-york-and-brussels/",
+        "post_id": 1728866,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
-      }
-    ],
-    "world": [
+      },
+      {
+        "title": "भारत ने संघर्ष-संबंधी यौन हिंसा की कड़ी निंदा की",
+        "summary": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते […]",
+        "article": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते हुए, संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि, राजदूत पी. ​​हरीश ने कहा कि इस तरह की हिंसा दण्ड मुक्ति की प्रचलित संस्कृति के बीच जारी है। उन्&#x200d;होंने कहा कि भारत ऐसे जघन्य कृत्यों की कड़ी निंदा करता है। संयुक्त राष्ट्र महासचिव की रिपोर्ट का संदर्भ देते हुए उन्होंने कहा कि 2025 में सत्यापित मामलों में हुई तीव्र वृद्धि सामूहिक कार्रवाई की तत्काल आवश्यकता को रेखांकित करती है। संयुक्त राष्ट्र शांतिरक्षा में भारत के महत्वपूर्ण योगदानों पर प्रकाश डालते हुए, श्री हरीश ने कहा कि महिला शांतिरक्षकों की तैनाती ने संघर्ष-संबंधी यौन हिंसा से निपटने में &#8220;परिवर्तनकारी प्रभाव&#8221; डाला है। उन्होंने यह घोषणा भी की कि संघर्ष से संबंधित यौन हिंसा को रोकने में उनके उत्कृष्ट प्रयासों के लिए भारतीय शांति रक्षक मेजर मोइज़ यासीन और मेजर सोनिया देवेंद्र नवस्कर को वर्ष 2026 के लिए संयुक्त राष्ट्र महासचिव का मिलिट्री जेंडर ऑफ द ईयर का मान्&#x200d;यता प्रमाणपत्र प्रदान किया जाएगा।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T01:37:00+00:00",
+        "link": "https://newsonair.gov.in/hi/india-strongly-condemned-conflict-related-sexual-violence/",
+        "post_id": 1728862,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "‘मेलबर्न मीट्स मोदी’ कार्यक्रम में प्रधानमंत्री मोदी ने कहा- भारत-ऑस्ट्रेलिया गठबंधन नई उल्लेखनीय ऊंचाइयों पर",
         "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने आज ऑस्‍ट्रेलिया के मेलबर्न में ऐतिहासिक मेलबर्न मीट्स मोदी कार्यक्रम में कहा कि भारत-ऑस्ट्रेलिया गठबंधन नई उल्लेखनीय ऊंचाइयों पर पहुंच गया है। बारह वर्षों में ऑस्ट्रेलिया की अपनी तीसरी यात्रा में प्रधानमंत्री ने दस लाख से अधिक प्रवासी भारतीयों को द्विपक्षीय मित्रता का आधार स्तंभ बताया। प्रधानमंत्री ने अधिक विकास &#8211; […]",
@@ -1513,95 +1603,6 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T16:26:52+00:00",
         "link": "https://newsonair.gov.in/hi/twenty-eight-people-died-in-a-massive-fire-at-a-shoe-factory-in-chinas-jinjiang-city-today/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ऑस्ट्रेलिया भारत को लौटाएगा तीन प्राचीन सांस्कृतिक धरोहरें",
-        "summary": "आधुनिक कूटनीति की नींव रखने वाली सभ्यतागत समानता का एक गहरा प्रमाण देते हुए, सांस्कृतिक रूप से महत्वपूर्ण तीन प्राचीन कलाकृतियों को ऑस्ट्रेलिया भारत को लौटाने जा रहा है। संस्कृति मंत्रालय ने बताया कि इन कलाकृतियों में देवी भद्रकाली का एक कांस्य त्रिशूल, नंदी की एक भव्य ग्रेनाइट प्रतिमा और छह सिर वाले कार्तिकेय की […]",
-        "article": "आधुनिक कूटनीति की नींव रखने वाली सभ्यतागत समानता का एक गहरा प्रमाण देते हुए, सांस्कृतिक रूप से महत्वपूर्ण तीन प्राचीन कलाकृतियों को ऑस्ट्रेलिया भारत को लौटाने जा रहा है। संस्कृति मंत्रालय ने बताया कि इन कलाकृतियों में देवी भद्रकाली का एक कांस्य त्रिशूल, नंदी की एक भव्य ग्रेनाइट प्रतिमा और छह सिर वाले कार्तिकेय की बेसाल्ट पत्थर की एक मूर्ति शामिल हैं। ये सभी वस्तुएँ 11वीं और 12वीं शताब्दी की हैं और मूल रूप से तमिलनाडु के ऐतिहासिक मंदिरों से प्राप्त की गई थीं। इस प्रत्यावर्तन की आधिकारिक घोषणा प्रधानमंत्री नरेंद्र मोदी की ऑस्ट्रेलिया यात्रा के साथ हुई है। यह दोनों देशों के बीच मजबूत सांस्कृतिक जुड़ाव को भी दर्शाता है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:17:09+00:00",
-        "link": "https://newsonair.gov.in/hi/australia-to-return-three-ancient-cultural-artifacts-to-india/",
-        "post_id": 1728673,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत की तीन प्राचीन कलाकृतियों को वापस लौटाएगा ऑस्ट्रेलिया",
-        "summary": "आधुनिक कूटनीति की नींव रखने वाली सभ्यतागत समानता का एक गहरा प्रमाण देते हुए, सांस्कृतिक रूप से महत्वपूर्ण तीन प्राचीन कलाकृतियों को ऑस्ट्रेलिया भारत को लौटाने जा रहा है। संस्कृति मंत्रालय ने बताया कि इन कलाकृतियों में देवी भद्रकाली का एक कांस्य त्रिशूल, नंदी की एक भव्य ग्रेनाइट प्रतिमा और छह सिर वाले कार्तिकेय की […]",
-        "article": "आधुनिक कूटनीति की नींव रखने वाली सभ्यतागत समानता का एक गहरा प्रमाण देते हुए, सांस्कृतिक रूप से महत्वपूर्ण तीन प्राचीन कलाकृतियों को ऑस्ट्रेलिया भारत को लौटाने जा रहा है। संस्कृति मंत्रालय ने बताया कि इन कलाकृतियों में देवी भद्रकाली का एक कांस्य त्रिशूल, नंदी की एक भव्य ग्रेनाइट प्रतिमा और छह सिर वाले कार्तिकेय की बेसाल्ट पत्थर की एक मूर्ति शामिल हैं। ये सभी वस्तुएँ 11वीं और 12वीं शताब्दी की हैं और मूल रूप से तमिलनाडु के ऐतिहासिक मंदिरों से प्राप्त की गई थीं। इस प्रत्यावर्तन की आधिकारिक घोषणा प्रधानमंत्री नरेंद्र मोदी की ऑस्ट्रेलिया यात्रा के साथ हुई है। यह दोनों देशों के बीच मजबूत सांस्कृतिक जुड़ाव को भी दर्शाता है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:05:30+00:00",
-        "link": "https://newsonair.gov.in/hi/australia-to-return-three-ancient-indian-artefacts/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ऑस्ट्रेलिया की बेहद सफल राजकीय यात्रा का समापन कर, कल अगले चरण की यात्रा की शुरुआत करेंगे प्रधानमंत्री मोदी",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी की ऑस्ट्रेलिया की बेहद सफल राजकीय यात्रा का समापन हो रहा है। मेलबर्न में कल उनका कार्यक्रम समाप्त होगा। इसके बाद वे अपनी तीन देशों की यात्रा के अगले चरण की शुरुआत करेंगे। दिन की शुरुआत आज राजनयिक मुलाकात से हुई, जब प्रधानमंत्री नरेंद्र मोदी ने विपक्ष के नेता एंगस टेलर से […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी की ऑस्ट्रेलिया की बेहद सफल राजकीय यात्रा का समापन हो रहा है। मेलबर्न में कल उनका कार्यक्रम समाप्त होगा। इसके बाद वे अपनी तीन देशों की यात्रा के अगले चरण की शुरुआत करेंगे। दिन की शुरुआत आज राजनयिक मुलाकात से हुई, जब प्रधानमंत्री नरेंद्र मोदी ने विपक्ष के नेता एंगस टेलर से मुलाकात की प्रधानमंत्री मोदी, ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बानीज़ के साथ प्रतिष्ठित मेलबर्न क्रिकेट ग्राउंड &#8211; एमसीजी का दौरा करेंगे। द्विपक्षीय सहयोग के तेजी से बढ़ते क्षेत्र के रूप में खेलों का जिक्र करते हुए दोनों नेता इस अवसर पर ऐतिहासिक भारत-ऑस्ट्रेलिया खेल सहयोग रोडमैप का अनावरण करेंगे। भारत 2030 में राष्ट्रमंडल खेलों की मेजबानी करने जा रहा है और ऑस्ट्रेलिया 2032 में ओलंपिक खेलों की मेजबानी करेगा। ऐसे में यह रणनीतिक रोडमैप सहयोग के व्यापक अवसर के द्वार खोलने का वचन देता है। इससे क्रिकेट के साथ-साथ खेल भी दोनों लोकतंत्रों को जोड़ने वाले एक शक्तिशाली &#8220;जीवंत सेतु&#8221; के रूप में और अधिक मजबूत होंगे। यह यादगार राजकीय यात्रा कल दोपहर आधिकारिक रूप से समाप्त हो जाएगी। प्रधानमंत्री और उनका प्रतिनिधिमंडल मेलबर्न से रवाना होकर तस्मान सागर पार करते हुए ऑकलैंड, न्यूजीलैंड के लिए रवाना होगा, जहां से इस तीन देशों की यात्रा का अंतिम चरण शुरू होगा।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:38:36+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-concludes-his-highly-successful-state-visit-to-australia-and-begins-the-next-leg-of-his-visit-tomorrow/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ब्रिटेन के कई सांसदों ने पाकिस्तान के अवैध कब्जे वाले जम्मू-कश्मीर में बढ़ती अशांति पर गंभीर चिंता व्यक्त की",
-        "summary": "ब्रिटेन के कई सांसदों ने पाकिस्तान के अवैध कब्जे वाले जम्मू-कश्मीर &#8211; पीओजेके में बढ़ती अशांति पर गंभीर चिंता व्यक्त की है। इस क्षेत्र में पाकिस्तानी सुरक्षा बलों के बर्बर हमलों में कई नागरिक मारे गए हैं या घायल हुए है। इस क्षेत्र में सख्त लॉकडाउन, कर्फ्यू और संचार व्यवस्था पूरी तरह से ठप है। […]",
-        "article": "ब्रिटेन के कई सांसदों ने पाकिस्तान के अवैध कब्जे वाले जम्मू-कश्मीर &#8211; पीओजेके में बढ़ती अशांति पर गंभीर चिंता व्यक्त की है। इस क्षेत्र में पाकिस्तानी सुरक्षा बलों के बर्बर हमलों में कई नागरिक मारे गए हैं या घायल हुए है। इस क्षेत्र में सख्त लॉकडाउन, कर्फ्यू और संचार व्यवस्था पूरी तरह से ठप है। ब्रिटेन की संसद को संबोधित करते हुए कंजर्वेटिव पार्टी के नेता और सांसद बॉब ब्लैकमैन ने कहा कि पाकिस्तान के सुरक्षाबलों ने पीओजेके में शांतिपूर्ण प्रदर्शनकारियों पर गोलीबारी की है। इस हमले में ब्रिटिश नागरिक सहित कई लोगों की मृत्यु हुई है और नागरिक घायल हुए हैं। उन्होंने ब्रिटिश सरकार से सवाल किया कि कथित हिंसा पर क्या पाकिस्तान के उच्चायोग को तलब किया गया है और आसपास खड़े बेगुनाह लोगों की रक्षा के लिए क्या उपाय किए गए थे। संसद की बहस में इस मुद्दे को उठाते हुए ब्रिटेन के एक अन्य सांसद इमरान हुसैन ने इस क्षेत्र में लगातार हो रहे रक्तपात, मनमाने ढंग की गिरफ्तारियां और पीओजेके में संचार व्यवस्था पर लगाए गए प्रतिबंध पर गंभीर चिंता व्यक्त की। हुसैन ने कहा कि इस क्षेत्र के कई हिस्सों में खाद्य और चिकित्सा आपूर्ति की आवाजाही पर लगे प्रतिबंध चौंकाने वाले हैं। उन्होंने कहा कि पीओजेके में कश्मीरियों के मानवाधिकार के सम्मान को किसी भी वार्ता का मुख्य मुद्दा बनाया जाना चाहिए। संयुक्त अवामी कार्रवाई समिति (जेएएसी) ने पाकिस्तान को चेतावनी दी है कि वह अपनी मांगों को पूरा नहीं होने की स्थिति में निर्णायक कार्रवाई शुरु करेगी। समिति ने इस स्थिति का साक्षी बनने के लिए वैश्विक पर्यवेक्षकों को आमंत्रित किया है। इनकी मांगों में आर्थिक सुधार, संसाधनों का निष्पक्ष वितरण, अर्धसैनिक बलों की उपस्थिति में कटौती और विधायी सीटों के आवंटन में परिवर्तन शामिल हैं। इस समिति के नेता सरदार अमान खान ने कथित नाकाबंदी और सैन्य हमलों के कारण जरूरी आपूर्तियों में हुई कमी का हवाला देते हुए भारत से मानवीय सहायता की मांग की है। सरदार खान ने कार्यकर्ताओं को आतंकवादी करार देने संबंधी पाकिस्तान के पाखंड की आलोचना की है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:28:12+00:00",
-        "link": "https://newsonair.gov.in/hi/several-uk-mps-expressed-serious-concern-over-the-growing-unrest-in-pakistan-occupied-jammu-and-kashmir/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ईरान ने अमरीका पर बुशहर परमाणु ऊर्जा संयंत्र के पास हवाई हमला करने का आरोप लगाया",
-        "summary": "ईरान ने अमरीका पर आज बुशहर परमाणु ऊर्जा संयंत्र के पास हवाई हमला करने का आरोप लगाया। ईरान की सरकारी समाचार एजेंसी ने बताया कि अमरीकी सेना की केंद्रीय कमान द्वारा ईरान पर हमले समाप्त करने की घोषणा के कुछ घंटों बाद दोपहर में यह हमला हुआ। अमरीकी केंद्रीय कमान ने तत्‍काल इसकी पुष्टि नहीं […]",
-        "article": "ईरान ने अमरीका पर आज बुशहर परमाणु ऊर्जा संयंत्र के पास हवाई हमला करने का आरोप लगाया। ईरान की सरकारी समाचार एजेंसी ने बताया कि अमरीकी सेना की केंद्रीय कमान द्वारा ईरान पर हमले समाप्त करने की घोषणा के कुछ घंटों बाद दोपहर में यह हमला हुआ। अमरीकी केंद्रीय कमान ने तत्&#x200d;काल इसकी पुष्टि नहीं की है। अमरीका ने आज सुबह ईरान पर नए हवाई हमले किए। ईरान ने भी खाड़ी क्षेत्र में अमरीका के सहयोगी देशों को निशाना बनाकर जवाबी कार्रवाई की। ईरानी मिसाइलों ने कुवैत और कतर को निशाना बनाया। बहरीन में कम से कम तीन बार चेतावनी सायरन बजे। जॉर्डन में भी सायरन बजने की आवाजें सुनाई दी। इन नए हमलों से पश्चिम एशिया में युद्ध समाप्त करने का अंतरिम समझौता खतरे में पड़ गया है। ईरान के स्वास्थ्य मंत्रालय के अनुसार अमरीकी हवाई हमलों से दो दिन में कम से कम 14 लोग मारे गए है और 78 अन्य घायल हैं।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T14:03:33+00:00",
-        "link": "https://newsonair.gov.in/hi/iran-accuses-us-of-airstrike-near-bushehr-nuclear-power-plant/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत और ऑस्ट्रेलिया के बीच संबंध गतिशील हैं: विदेश सचिव विक्रम मिस्री",
-        "summary": "विदेश सचिव विक्रम मिस्री ने कहा है कि भारत और ऑस्ट्रेलिया के बीच संबंध गतिशील हैं और तेज़ी से आगे बढ़ रहे हैं। आज मेलबर्न में श्री मिस्री ने कहा कि व्यापार, रक्षा और ऊर्जा सहित अनेक क्षेत्रों में दोनों देशों की द्विपक्षीय साझेदारी लगातार सुदृढ़ हुई है। उन्होंने कहा कि कई क्षेत्रों में रणनीतिक […]",
-        "article": "विदेश सचिव विक्रम मिस्री ने कहा है कि भारत और ऑस्ट्रेलिया के बीच संबंध गतिशील हैं और तेज़ी से आगे बढ़ रहे हैं। आज मेलबर्न में श्री मिस्री ने कहा कि व्यापार, रक्षा और ऊर्जा सहित अनेक क्षेत्रों में दोनों देशों की द्विपक्षीय साझेदारी लगातार सुदृढ़ हुई है। उन्होंने कहा कि कई क्षेत्रों में रणनीतिक और आर्थिक सहयोग तेजी से बढ़ा है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T12:48:53+00:00",
-        "link": "https://newsonair.gov.in/hi/relations-between-india-and-australia-are-dynamic-foreign-secretary-vikram-misri/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "नई दिल्ली में आयोजित हुई भारत-अफ़गानिस्तान संयुक्त समिति की चौथी बैठक",
-        "summary": "भारत-अफ़गानिस्तान संयुक्त समिति की चौथी बैठक आज नई दिल्ली में आयोजित हुई। इस दौरान मानवीय सहायता, विकास साझेदारी, खाद्य सुरक्षा, स्वास्थ्य सेवा, क्षमता निर्माण, शिक्षा, खेल, व्यापार, वीज़ा और संपर्क सहित द्विपक्षीय संबंधों के समूचे परिदृश्‍य की समीक्षा की गई। बैठक की सह-अध्यक्षता विदेश मंत्रालय के संयुक्त सचिव एम. आनंद प्रकाश और अफ़गानिस्तान के विदेश […]",
-        "article": "भारत-अफ़गानिस्तान संयुक्त समिति की चौथी बैठक आज नई दिल्ली में आयोजित हुई। इस दौरान मानवीय सहायता, विकास साझेदारी, खाद्य सुरक्षा, स्वास्थ्य सेवा, क्षमता निर्माण, शिक्षा, खेल, व्यापार, वीज़ा और संपर्क सहित द्विपक्षीय संबंधों के समूचे परिदृश्&#x200d;य की समीक्षा की गई। बैठक की सह-अध्यक्षता विदेश मंत्रालय के संयुक्त सचिव एम. आनंद प्रकाश और अफ़गानिस्तान के विदेश मंत्रालय के महानिदेशक शुएब बरयालाई ने की। विदेश मंत्रालय ने एक बयान में कहा कि बैठक में भारत ने अफ़गान जनता के कल्याण और विकास आवश्यकताओं के प्रति निरंतर प्रतिबद्धता दोहराई। अफ़गान पक्ष ने विभिन्न क्षेत्रों में भारत के सतत सहयोग और समर्थन की सराहना की।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T12:45:06+00:00",
-        "link": "https://newsonair.gov.in/hi/4th-india-afghanistan-joint-committee-meeting-held-in-new-delhi/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "21वीं सदी का भारत एक विकसित राष्ट्र बनने के लक्ष्य की ओर बढ़ रहा है: प्रधानमंत्री मोदी",
-        "summary": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि 21वीं सदी का भारत एक विकसित राष्ट्र बनने के लक्ष्य की ओर बढ़ रहा है। देश की आकांक्षाओं का उल्‍लेख करते हुए प्रधानमंत्री ने कहा कि आज का भारत जो अधिक विकास और अधिक उपलब्धियां हासिल करने में विश्वास रखता है। ऑस्‍ट्रेलिया के मेलबर्न में आज प्रवासी भारतीय […]",
-        "article": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि 21वीं सदी का भारत एक विकसित राष्ट्र बनने के लक्ष्य की ओर बढ़ रहा है। देश की आकांक्षाओं का उल्&#x200d;लेख करते हुए प्रधानमंत्री ने कहा कि आज का भारत जो अधिक विकास और अधिक उपलब्धियां हासिल करने में विश्वास रखता है। ऑस्&#x200d;ट्रेलिया के मेलबर्न में आज प्रवासी भारतीय समुदाय के एक कार्यक्रम में श्री मोदी ने सिडनी में प्रवासी भारतीयों से हुई मुलाकात को याद करते हुए कहा कि वे मेलबर्न के लोगों से भी बातचीत करने के लिए उत्सुक थे। प्रधानमंत्री ने कहा कि जब उन्होंने 2014 में पहली बार ऑस्ट्रेलिया का दौरा किया था, तब वह किसी भारतीय प्रधानमंत्री की 28 वर्ष बाद ऑस्ट्रेलिया यात्रा थी। श्री मोदी ने कहा कि पिछले 12 वर्षों में ऑस्ट्रेलिया की यह उनकी तीसरी यात्रा है, जो भारत-ऑस्ट्रेलिया के मजबूत होते संबंधों को दर्शाती है। दोनों देशों के घनिष्ठ संबंधों का उल्&#x200d;लेख करते हुए श्री मोदी ने कहा कि विश्व के सबसे बड़े क्रिकेट स्टेडियम वाले अहमदाबाद और अपने प्रतिष्ठित क्रिकेट मैदान के लिए प्रसिद्ध मेलबर्न, भारत और ऑस्ट्रेलिया के बीच साझा खेल और सांस्कृतिक जुड़ाव के प्रतीक हैं। उन्होंने कहा कि ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ ने अपनी गर्मजोशी और सद्भावना से भारतीय समुदाय का दिल जीत लिया है। ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ ने इस अवसर पर कहा कि कार्यक्रम में दिखाई देने वाली ऊर्जा ऑस्ट्रेलिया-भारत साझेदारी की मजबूती को दर्शाती है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T10:36:29+00:00",
-        "link": "https://newsonair.gov.in/hi/21st-century-india-is-moving-towards-the-goal-of-becoming-a-developed-nation-pm-modi/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1727,8 +1728,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T01:58:14+00:00",
         "link": "https://newsonair.gov.in/hi/imf-report-india-is-the-fastest-growing-economy-with-a-projected-growth-rate-of-7/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/06/imf-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1738,8 +1739,8 @@ window.VM_NEWS = {
         "date": "2026-07-05",
         "pubDate": "2026-07-05T14:44:07+00:00",
         "link": "https://newsonair.gov.in/hi/fpis-bought-indian-shares-worth-rs-708-crore-in-the-first-three-trading-sessions-of-july-taking-their-total-purchases-so-far-this-month/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FPI.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1749,8 +1750,63 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T02:58:26+00:00",
         "link": "https://newsonair.gov.in/hi/epfo-officially-announces-8-25-interest-rate-on-epf-deposits-for-the-financial-year-2025-26/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/dgrmc13c_epfo_625x300_09_April_25.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "19 किलोग्राम व्यावसायिक एलपीजी सिलेंडर सस्ता, कीमत में 183.50 रुपये की कमी",
+        "summary": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्‍यावसायिक एलपीजी सिलेंडर के मूल्‍य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि‍टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्‍यावसायिक एलपीजी सिलेंडर दिल्‍ली में 2930 रुपये में मिलेगा। इस फैसले से […]",
+        "article": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्&#x200d;यावसायिक एलपीजी सिलेंडर के मूल्&#x200d;य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि&#x200d;टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्&#x200d;यावसायिक एलपीजी सिलेंडर दिल्&#x200d;ली में 2930 रुपये में मिलेगा। इस फैसले से रेस्&#x200d;तरां, ढाबा, होटल और अन्&#x200d;य खान-पान व्&#x200d;यावसायियों को लाभ होगा।",
+        "date": "2026-07-01",
+        "pubDate": "2026-07-01T05:04:37+00:00",
+        "link": "https://newsonair.gov.in/hi/commercial-lpg-cylinder-price-cut-by-183-50-rupees/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260502237f-1-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील की अंतिम तिथि 31 जुलाई तक बढ़ाई",
+        "summary": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्‍त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्‍न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्‍या […]",
+        "article": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्&#x200d;त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्&#x200d;न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्&#x200d;या के कारण आई तकनीकी बाधा का हवाला दिया था। जिसके बाद सरकार ने अंतिम तिथि बढ़ाकर 31 जुलाई निर्धारित की। सरकार ने करदाताओं को भी सलाह दी है कि वे समय रहते ही अपील दायर कर दें और अंतिम तिथ&#x200d;ि का इंतजार न करें।",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:55:27+00:00",
+        "link": "https://newsonair.gov.in/hi/gst-appellate-tribunal-appeal-deadline-extended-july-31/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Untitled-design-1-8.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने एक जुलाई से पेट्रोल और डीज़ल की बिक्री व वितरण पर लगा प्रतिबंध हटाने का फैसला किया",
+        "summary": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम […]",
+        "article": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम एशिया संकट के दौरान अंतरराष्ट्रीय बाजार में ईंधन की कीमतों में तेज़ बढ़ोतरी के बावजूद सरकार ने पेट्रोल और डीज़ल की खुदरा कीमतों को स्थिर रखा। इससे खुदरा और थोक उपभोक्ताओं के लिए ईंधन की कीमतों में बड़ा अंतर पैदा हो गया था। इस स्थिति से निपटने के लिए 12 जून से अस्थायी नियामक उपाय लागू किए गए थे। इनके तहत खुदरा पेट्रोल पंपों पर एक ग्राहक या वाहन को प्रतिदिन अधिकतम 200 लीटर हाई स्पीड डीज़ल देने की सीमा तय की गई थी। साथ ही औद्योगिक, संस्थागत और व्यावसायिक उपभोक्ताओं के लिए अलग व्यवस्था की गई थी। इन उपायों का उद्देश्य डीज़ल की कालाबाज़ारी, जमाखोरी और अवैध बिक्री को रोकना तथा आम उपभोक्ताओं के लिए पेट्रोल और डीज़ल की निर्बाध उपलब्धता सुनिश्चित करना था। मंत्रालय ने कहा कि अब देश में पेट्रोलियम उत्पादों की आपूर्ति सामान्य हो गई है और पेट्रोल-डीज़ल की पर्याप्त उपलब्धता सुनिश्चित है। इसलिए जनहित में इन अस्थायी प्रतिबंधों को वापस लेने का निर्णय लिया गया है।",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T03:05:15+00:00",
+        "link": "https://newsonair.gov.in/hi/fuel-sales-restrictions/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260523106F_cPfEGOF-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उत्तराखंड के लिपुलेख दर्रे से भारत-चीन सीमा व्यापार 6 वर्ष बाद फिर होगा शुरू, 26 व्यापार पास जारी किए गए",
+        "summary": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि […]",
+        "article": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि व्यापार को सुगम बनाने के लिए गुंजी में सीमा शुल्क कार्यालय खोला गया है। व्यापारियों ने अपना सामान पहले ही लिपुलेख दर्रे के निकट स्थित गोदामों में पहुंचा दिया है। प्रशासन को 103 से अधिक व्यापारियों के आवेदन प्राप्त हुए हैं और जल्द ही 25 व्यापारियों के दूसरे दल को भी व्यापार पास जारी किए जाएंगे। सामान ढुलाई के लिए नाभीढांग के पास खच्चरों और घोड़ों की व्यवस्था की गई है। भारत-चीन सीमा व्यापार वर्ष 1991 में पुनः शुरू हुआ था, लेकिन कोविड-19 महामारी के कारण वर्ष 2020 में इसे स्थगित कर दिया गया था। छह वर्ष बाद व्यापार बहाल होने से सीमावर्ती क्षेत्रों की अर्थव्यवस्था को नई गति मिलने की उम्मीद है।",
+        "date": "2026-06-25",
+        "pubDate": "2026-06-25T02:30:19+00:00",
+        "link": "https://newsonair.gov.in/hi/india-china-border-trade-via-uttarakhands-lipulekh-pass-to-resume-after-six-years-26-trade-passes-issued/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Untitled-design-5-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "खनन मंत्रालय ने 7वें चरण की सफल नीलामी के साथ दी खनिज मिशन को गति",
+        "summary": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई […]",
+        "article": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई है। इनमें ग्रेफाइट, रेयर अर्थ एलिमेंट, वैनेडियम, टाइटेनियम, ग्लूकोनाइट और रॉक फॉस्फेट जैसे खनिज शामिल हैं। अब नीलाम किए गए अन्वेषण लाइसेंस ब्लॉक की संख्या 11 हो गई है। अरुणाचल प्रदेश, उत्तर प्रदेश और ओडिशा में पहली बार अन्वेषण लाइसेंस ब्लॉक की नीलामी की गई। खान मंत्रालय के अनुसार, यह नीलामी भारत के खनिज क्षेत्र में उद्योग जगत के बढ़ते भरोसे को दिखाती है। इससे स्वच्छ उर्जा, इलेक्ट्रिक मोबिलिटी, नवीकरणीय उर्जा, इलेक्ट्रॉनिक्स, रक्षा और उन्नत विनिर्माण के लिए ज़रूरी खनिज की खोज और विकास में तेज़ी आएगी। इससे आयात पर निर्भरता कम होगी और घरेलू खनिज आपूर्ति श्रृंखला मज़बूत होगी।",
+        "date": "2026-06-24",
+        "pubDate": "2026-06-24T02:04:58+00:00",
+        "link": "https://newsonair.gov.in/hi/ministry-of-mines-gives-impetus-to-mineral-mission-with-successful-7th-round-of-auctions/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/Ministry-of-mines.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1765,67 +1821,12 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "19 किलोग्राम व्यावसायिक एलपीजी सिलेंडर सस्ता, कीमत में 183.50 रुपये की कमी",
-        "summary": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्‍यावसायिक एलपीजी सिलेंडर के मूल्‍य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि‍टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्‍यावसायिक एलपीजी सिलेंडर दिल्‍ली में 2930 रुपये में मिलेगा। इस फैसले से […]",
-        "article": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्&#x200d;यावसायिक एलपीजी सिलेंडर के मूल्&#x200d;य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि&#x200d;टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्&#x200d;यावसायिक एलपीजी सिलेंडर दिल्&#x200d;ली में 2930 रुपये में मिलेगा। इस फैसले से रेस्&#x200d;तरां, ढाबा, होटल और अन्&#x200d;य खान-पान व्&#x200d;यावसायियों को लाभ होगा।",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T05:04:37+00:00",
-        "link": "https://newsonair.gov.in/hi/commercial-lpg-cylinder-price-cut-by-183-50-rupees/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील की अंतिम तिथि 31 जुलाई तक बढ़ाई",
-        "summary": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्‍त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्‍न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्‍या […]",
-        "article": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्&#x200d;त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्&#x200d;न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्&#x200d;या के कारण आई तकनीकी बाधा का हवाला दिया था। जिसके बाद सरकार ने अंतिम तिथि बढ़ाकर 31 जुलाई निर्धारित की। सरकार ने करदाताओं को भी सलाह दी है कि वे समय रहते ही अपील दायर कर दें और अंतिम तिथ&#x200d;ि का इंतजार न करें।",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T07:55:27+00:00",
-        "link": "https://newsonair.gov.in/hi/gst-appellate-tribunal-appeal-deadline-extended-july-31/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने एक जुलाई से पेट्रोल और डीज़ल की बिक्री व वितरण पर लगा प्रतिबंध हटाने का फैसला किया",
-        "summary": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम […]",
-        "article": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम एशिया संकट के दौरान अंतरराष्ट्रीय बाजार में ईंधन की कीमतों में तेज़ बढ़ोतरी के बावजूद सरकार ने पेट्रोल और डीज़ल की खुदरा कीमतों को स्थिर रखा। इससे खुदरा और थोक उपभोक्ताओं के लिए ईंधन की कीमतों में बड़ा अंतर पैदा हो गया था। इस स्थिति से निपटने के लिए 12 जून से अस्थायी नियामक उपाय लागू किए गए थे। इनके तहत खुदरा पेट्रोल पंपों पर एक ग्राहक या वाहन को प्रतिदिन अधिकतम 200 लीटर हाई स्पीड डीज़ल देने की सीमा तय की गई थी। साथ ही औद्योगिक, संस्थागत और व्यावसायिक उपभोक्ताओं के लिए अलग व्यवस्था की गई थी। इन उपायों का उद्देश्य डीज़ल की कालाबाज़ारी, जमाखोरी और अवैध बिक्री को रोकना तथा आम उपभोक्ताओं के लिए पेट्रोल और डीज़ल की निर्बाध उपलब्धता सुनिश्चित करना था। मंत्रालय ने कहा कि अब देश में पेट्रोलियम उत्पादों की आपूर्ति सामान्य हो गई है और पेट्रोल-डीज़ल की पर्याप्त उपलब्धता सुनिश्चित है। इसलिए जनहित में इन अस्थायी प्रतिबंधों को वापस लेने का निर्णय लिया गया है।",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T03:05:15+00:00",
-        "link": "https://newsonair.gov.in/hi/fuel-sales-restrictions/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "उत्तराखंड के लिपुलेख दर्रे से भारत-चीन सीमा व्यापार 6 वर्ष बाद फिर होगा शुरू, 26 व्यापार पास जारी किए गए",
-        "summary": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि […]",
-        "article": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि व्यापार को सुगम बनाने के लिए गुंजी में सीमा शुल्क कार्यालय खोला गया है। व्यापारियों ने अपना सामान पहले ही लिपुलेख दर्रे के निकट स्थित गोदामों में पहुंचा दिया है। प्रशासन को 103 से अधिक व्यापारियों के आवेदन प्राप्त हुए हैं और जल्द ही 25 व्यापारियों के दूसरे दल को भी व्यापार पास जारी किए जाएंगे। सामान ढुलाई के लिए नाभीढांग के पास खच्चरों और घोड़ों की व्यवस्था की गई है। भारत-चीन सीमा व्यापार वर्ष 1991 में पुनः शुरू हुआ था, लेकिन कोविड-19 महामारी के कारण वर्ष 2020 में इसे स्थगित कर दिया गया था। छह वर्ष बाद व्यापार बहाल होने से सीमावर्ती क्षेत्रों की अर्थव्यवस्था को नई गति मिलने की उम्मीद है।",
-        "date": "2026-06-25",
-        "pubDate": "2026-06-25T02:30:19+00:00",
-        "link": "https://newsonair.gov.in/hi/india-china-border-trade-via-uttarakhands-lipulekh-pass-to-resume-after-six-years-26-trade-passes-issued/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "नीति आयोग के उपाध्यक्ष ने कहा, पिछली तिमाही में भारत का कुल व्यापार 5.4% बढ़ा",
         "summary": "नीति आयोग के उपाध्यक्ष डॉ. अशोक कुमार लाहिड़ी ने कहा है कि पिछली तिमाही में भारत का कुल व्यापार 5.4 प्रतिशत बढ़ा है। कल नई दिल्ली में &#8216;ट्रेड वॉच क्वार्टरली&#8216; रिपोर्ट का नया संस्करण जारी करते हुए उन्होंने कहा कि पिछली तिमाही में भारत का निर्यात 1 खरब 84 अरब डॉलर पर पहुंच गया और […]",
         "article": "नीति आयोग के उपाध्यक्ष डॉ. अशोक कुमार लाहिड़ी ने कहा है कि पिछली तिमाही में भारत का कुल व्यापार 5.4 प्रतिशत बढ़ा है। कल नई दिल्ली में &#8216; ट्रेड वॉच क्वार्टरली &#8216; रिपोर्ट का नया संस्करण जारी करते हुए उन्होंने कहा कि पिछली तिमाही में भारत का निर्यात 1 खरब 84 अरब डॉलर पर पहुंच गया और आयात में साढ़े 6 प्रतिशत की वृद्धि हुई। रिपोर्ट में, वैश्विक व्यापार में भारत की भूमिका का विश्लेषण किया गया है, जिसमें ख़ासकर औषधि व्यापार पर ध्यान केंद्रित किया गया है।",
         "date": "2026-06-24",
         "pubDate": "2026-06-24T02:06:08+00:00",
         "link": "https://newsonair.gov.in/hi/niti-aayog-vice-chairman-says-indias-total-trade-grew-by-5-4-in-the-last-quarter/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "खनन मंत्रालय ने 7वें चरण की सफल नीलामी के साथ दी खनिज मिशन को गति",
-        "summary": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई […]",
-        "article": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई है। इनमें ग्रेफाइट, रेयर अर्थ एलिमेंट, वैनेडियम, टाइटेनियम, ग्लूकोनाइट और रॉक फॉस्फेट जैसे खनिज शामिल हैं। अब नीलाम किए गए अन्वेषण लाइसेंस ब्लॉक की संख्या 11 हो गई है। अरुणाचल प्रदेश, उत्तर प्रदेश और ओडिशा में पहली बार अन्वेषण लाइसेंस ब्लॉक की नीलामी की गई। खान मंत्रालय के अनुसार, यह नीलामी भारत के खनिज क्षेत्र में उद्योग जगत के बढ़ते भरोसे को दिखाती है। इससे स्वच्छ उर्जा, इलेक्ट्रिक मोबिलिटी, नवीकरणीय उर्जा, इलेक्ट्रॉनिक्स, रक्षा और उन्नत विनिर्माण के लिए ज़रूरी खनिज की खोज और विकास में तेज़ी आएगी। इससे आयात पर निर्भरता कम होगी और घरेलू खनिज आपूर्ति श्रृंखला मज़बूत होगी।",
-        "date": "2026-06-24",
-        "pubDate": "2026-06-24T02:04:58+00:00",
-        "link": "https://newsonair.gov.in/hi/ministry-of-mines-gives-impetus-to-mineral-mission-with-successful-7th-round-of-auctions/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
