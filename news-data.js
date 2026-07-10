@@ -1,39 +1,39 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-10T08:45:36.167061",
+  "generated": "2026-07-10T10:46:49.344876",
   "en": {
     "top": [
       {
-        "title": "Iran accuses US of alleged airstrike near nuke power plant in Bushehr",
-        "summary": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the […]",
-        "article": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the United States launched new airstrikes against Iran, and Tehran responded by targeting US-allied countries in the West Asia in an exchange of fire that threatened an interim deal intended to help end the war in the West Asia. Sirens sounding at least three times in Bahrain, home to the US Navy&#8217;s 5th Fleet headquarters, and Iranian missiles targeting Kuwait and Qatar. Sirens sounded Thursday afternoon in Jordan as well, where the US has stationed troops and aircraft. In Iran, the two days of American airstrikes have killed at least 14 people and wounded another 78, according to Iran&#8217;s Health Ministry. Most of those reportedly members of the armed forces. Back-and-forth attacks, including a day earlier, have repeatedly threatened the ceasefire, but today&#8217;s exchange of fire appeared bigger all around. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz signalled the end of a fragile ceasefire and threatened to escalate the conflict if they did not stop.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T12:00:53+00:00",
-        "link": "https://newsonair.gov.in/iran-accuses-us-of-alleged-airstrike-near-nuke-power-plant-in-bushehr/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bushehr_City.jpg",
-        "image_credit": "Wikipedia – Bushehr (CC BY-SA)",
+        "title": "PM Modi reaches Auckland on a two-day visit to New Zealand",
+        "summary": "Prime Minister Narendra Modi arrived in Auckland today on the final leg of his three-nation tour, where he received a warm ceremonial welcome from New Zealand Prime Minister Christopher Luxon. The two leaders shared a warm embrace as Prime Minister Luxon personally received Mr. Modi on the red carpet at Auckland Airport. Prime Minister Modi […]",
+        "article": "Prime Minister Narendra Modi arrived in Auckland today on the final leg of his three-nation tour, where he received a warm ceremonial welcome from New Zealand Prime Minister Christopher Luxon. The two leaders shared a warm embrace as Prime Minister Luxon personally received Mr. Modi on the red carpet at Auckland Airport. Prime Minister Modi was accorded a ceremonial reception on the tarmac, with representatives of the Indian and New Zealand armed forces in attendance. Akashvani&#8217;s correspondent reports that Auckland is buzzing with excitement in wake of Prime Minister Narendra Modi’s visit. Along with the Indian diaspora, many New Zealand people are also eager to greet him with the traditional Māori welcome, “Kia Ora Modi&#8221;. Women, youth, business leaders, academics and community members see the visit as the beginning of a new chapter in India-New Zealand relations. They believe it will further strengthen cooperation in trade, education, investment, sports and cultural exchanges. Members of the Indian diaspora say that the visit of an Indian Prime Minister after nearly 40 years is a moment of pride and deep emotion for them. New Zealanders also see the visit as an opportunity to further strengthen the friendship and partnership between the two countries. The Indian community continues to serve as a living bridge between India and New Zealand. Prime Minister Modi’s visit is expected to add fresh momentum to bilateral ties while further strengthening the people-to-people connection between the two nations.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T09:03:27+00:00",
+        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_-_May_2024_%282%29.jpg/1280px-Auckland_skyline_-_May_2024_%282%29.jpg",
+        "image_credit": "Wikipedia – Auckland (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
-        "title": "US launches fresh airstrikes on Iran; Tehran targets Bahrain, Kuwait and Qatar",
-        "summary": "The United States launched new airstrikes against Iran this morning. Tehran responded by targeting Bahrain, Kuwait and Qatar, escalating crossfire that again threatened an interim deal aimed at ending the war in the Persian Gulf. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of […]",
-        "article": "The United States launched new airstrikes against Iran this morning. Tehran responded by targeting Bahrain, Kuwait and Qatar, escalating crossfire that again threatened an interim deal aimed at ending the war in the Persian Gulf. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz had signalled the end of the fragile ceasefire. The US struck a range of military sites and port facilities early yesterday. The attacks followed Iran&#8217;s targeting of several merchant vessels off the coast of Oman, which triggered an Iranian response. Today&#8217;s attacks appeared to be larger on both sides. Sirens sounded at least twice in Bahrain, home to the US Navy&#8217;s 5th Fleet headquarters. There was no immediate word on damage in Bahrain, Kuwait or Qatar. Kuwait&#8217;s military said it was actively intercepting incoming drones and missiles. Iran&#8217;s Revolutionary Guard claimed responsibility for attacks on Bahrain and Kuwait. The US military&#8217;s Central Command said it struck about 90 targets across Iran. It also released black-and-white footage showing what appeared to be attacks on an airport runway and missile launchers. The US said the strikes were intended to “further degrade” Iran&#8217;s ability to threaten freedom of navigation in the Strait of Hormuz. Iranian state media reported explosions in several locations, including Bushehr, home to Iran&#8217;s nuclear power plant complex, and the southern port cities of Chabahar, Konarak, Bandar Abbas and Sirik. In Iranshahr, authorities said a strike killed a firefighter at an airport.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T06:20:24+00:00",
-        "link": "https://newsonair.gov.in/us-launches-fresh-airstrikes-on-iran-tehran-targets-bahrain-kuwait-and-qatar/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/1280px-North_of_Tehran_Skyline_view.jpg",
-        "image_credit": "Wikipedia – Tehran (CC BY-SA)",
+        "title": "Centre amends Drugs Rules, 1945 to strengthen regulation of High Alcohol-Containing Drug Formulation",
+        "summary": "The Central Government has amended the Drugs Rules, 1945, to strengthen the regulation of High Alcohol-Containing Drug Formulations. The Ministry of Health and Family Welfare has removed the existing exemption (under Schedule K) from licensing requirements for formulations containing ethyl alcohol. According to the notification issued by the Ministry of Health and Family Welfare, all […]",
+        "article": "The Central Government has amended the Drugs Rules, 1945, to strengthen the regulation of High Alcohol-Containing Drug Formulations. The Ministry of Health and Family Welfare has removed the existing exemption (under Schedule K) from licensing requirements for formulations containing ethyl alcohol. According to the notification issued by the Ministry of Health and Family Welfare, all formulations containing more than 12 percent volume per volume ethyl alcohol, in quantities exceeding 30 millilitres, will no longer be covered under the exemption provided to them under Schedule K. Such products will be required to obtain the requisite licenses under the Drugs and Cosmetics Act, 1940. Earlier, certain medicinal products, including tinctures of cardamom, ginger and other aromatic preparations, had been exempted from licensing requirements under Schedule K of the Drugs Rules, 1945. Some of these formulations contain high concentrations of ethyl alcohol, in certain cases up to 80 to 90 percent volume per volume, making them susceptible to misuse for intoxication. The amendment is expected to strengthen regulatory oversight over those medicinal products containing alcohol, ensuring their supply only through the regulated pharmaceutical supply chain. It will significantly reduce the possibility of diversion and misuse while ensuring their continued availability for legitimate therapeutic use.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:55:17+00:00",
+        "link": "https://newsonair.gov.in/centre-amends-drugs-rules-1945-to-strengthen-regulation-of-high-alcohol-containing-drug-formulation/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM2jt_6bcAAAQ1z.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "3rd BRICS Transport Ministers’ Meeting begins in Maharashtra’s Nagpur today",
-        "summary": "Meeting of the BRICS Transport Working Group has begun today in Nagpur on the occasion of the third BRICS Transport Ministers&#8217; Meeting under BRICS 2026 chairship of India. Addressing the media persons, after the Working Group meeting, Union Transport Secretary V. Umashankar said that senior officials deliberated on the main issues of circularity, mobility, […]",
-        "article": "Meeting of the BRICS Transport Working Group has begun today in Nagpur on the occasion of the third BRICS Transport Ministers&#8217; Meeting under BRICS 2026 chairship of India. Addressing the media persons, after the Working Group meeting, Union Transport Secretary V. Umashankar said that senior officials deliberated on the main issues of circularity, mobility, urban infrastructure, and sustainable development. Similarly, best practices in the transport sector and transportation issues were discussed in collaboration with these officials. Meanwhile, 3rd BRICS Transport Ministers&#8217; Meeting which is arranged on 11th and 12th of this month in city of Nagpur will be convened under India&#8217;s BRICS Chairship theme: &#8220;Building for Resilience, Innovation, Cooperation and Sustainability (BRICS)&#8221;. Union Transport Minister Nitin Gadkari will chair the BRICS Transport Ministers’ meeting on the 11th of this month, which will see the participation from Ministers of other member countries. Following the first two pivotal meetings of the Transport Working Group hosted by Russia and Brazil, this third iteration aims to deepen international transport cooperation. Over the two days, senior officials will review the progress of transport cooperation achieved since the Russian and Brazilian Chairships, exchange international best practices and deliberate on emerging areas of collaboration, including Sustainable Aviation Fuel (SAF), urban mobility, multi-modal transport, resilient logistics’ supply chains, decarbonisation and the adoption of expanding AI-based technologies.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T05:27:31+00:00",
-        "link": "https://newsonair.gov.in/3rd-brics-transport-ministers-meeting-to-begin-in-maharashtras-nagpur-today/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cave_26%2C_Ajanta.jpg/1280px-Cave_26%2C_Ajanta.jpg",
-        "image_credit": "Wikipedia – Maharashtra (CC BY-SA)",
+        "title": "WhatsApp submits reply to Govt regarding rollout of Usernames feature",
+        "summary": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the […]",
+        "article": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the Government had issued a notice to Meta regarding the rollout of the Usernames feature on WhatsApp in India. Sources said that the Ministry directed Meta to furnish a detailed explanation on the feature. The Ministry also directed Meta not to roll out the usernames feature until consultation on the matter is over.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:43:02+00:00",
+        "link": "https://newsonair.gov.in/whatsapp-submits-reply-to-govt-regarding-rollout-of-usernames-feature/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -43,8 +43,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T07:45:40+00:00",
         "link": "https://newsonair.gov.in/palestinian-authority-president-mahmoud-abbas-announces-legislative-elections-in-late-november/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-3-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -54,8 +54,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T07:18:57+00:00",
         "link": "https://newsonair.gov.in/clean-energy-meets-over-50-of-countrys-electricity-demand-for-second-time-union-minister-pralhad-joshi/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM18pxTbQAAxzWH.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -65,8 +65,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T07:14:09+00:00",
         "link": "https://newsonair.gov.in/niti-aayog-member-dr-joram-aniya-holds-interaction-with-unicef-india-representative-in-new-delhi/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -76,9 +76,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T07:12:43+00:00",
         "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
-        "post_id": 1729413,
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FIH-Hockey-Pro-League.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -88,8 +87,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T05:41:29+00:00",
         "link": "https://newsonair.gov.in/pm-modi-concludes-state-visit-to-australia/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM1-X4PaQAA_EKy.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -99,19 +98,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T05:39:58+00:00",
         "link": "https://newsonair.gov.in/pm-modi-meets-australian-opposition-leader-angus-taylor-in-melbourne/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi to reach Auckland today on a two-day visit to New Zealand",
-        "summary": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome […]",
-        "article": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome Prime Minister Narendra Modi. Along with the Indian diaspora, many New Zealand people are also eager to greet him with the traditional Māori welcome, “Kia Ora Modi&#8221;. Women, youth, business leaders, academics and community members see the visit as the beginning of a new chapter in India-New Zealand relations. They believe it will further strengthen cooperation in trade, education, investment, sports and cultural exchanges. Members of the Indian diaspora say that the visit of an Indian Prime Minister after nearly 40 years is a moment of pride and deep emotion for them. New Zealanders also see the visit as an opportunity to further strengthen the friendship and partnership between the two countries. The Indian community continues to serve as a living bridge between India and New Zealand. Prime Minister Modi’s visit is expected to add fresh momentum to bilateral ties while further strengthening the people-to-people connection between the two nations.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:03:27+00:00",
-        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -121,415 +109,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T03:50:11+00:00",
         "link": "https://newsonair.gov.in/secure-border-prosperous-border-region-and-vigilant-society-together-can-make-country-secure-hm-amit-shah/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt plans to introduce E85 fuel at Rs 20 less per litre than standard E20 petrol, says Union Minister Hardeep Singh Puri",
-        "summary": "Union Petroleum and Natural Gas Minister Hardeep Singh Puri has said that the government is planning to introduce E85 fuel, which would be about 20 rupees cheaper per litre than standard E20 petrol. He said E85 would be restricted to vehicles specifically designed to use the fuel. In an interview with a private news […]",
-        "article": "Union Petroleum and Natural Gas Minister Hardeep Singh Puri has said that the government is planning to introduce E85 fuel, which would be about 20 rupees cheaper per litre than standard E20 petrol. He said E85 would be restricted to vehicles specifically designed to use the fuel. In an interview with a private news channel, the Petroleum Minister said the proposed move aims to provide financial relief to consumers while advancing the government&#8217;s ethanol blending programme. He also defended the broader biofuel policy, dismissing concerns about engine damage and vehicle performance linked to ethanol-blended petrol.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T03:40:31+00:00",
-        "link": "https://newsonair.gov.in/govt-plans-to-introduce-e85-fuel-at-rs-20-less-per-litre-than-standard-e20-petrol-says-union-minister-hardeep-singh-puri/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "breaking": [
-      {
-        "title": "Clean energy meets over 50 % of country’s electricity demand for second time: Union Minister Pralhad Joshi",
-        "summary": "New and Renewable Energy Minister Pralhad Joshi today said that clean energy met over 50 percent of the country&#8217;s electricity demand for the second time. In a social media post, Mr Joshi said that renewable sources contributed 50.2 percent of the power supply on the 6th of this month. The Minister called this a testament […]",
-        "article": "New and Renewable Energy Minister Pralhad Joshi today said that clean energy met over 50 percent of the country&#8217;s electricity demand for the second time. In a social media post, Mr Joshi said that renewable sources contributed 50.2 percent of the power supply on the 6th of this month. The Minister called this a testament to the growing strength and reliability of India’s Clean Energy ecosystem. He said that under the leadership of Prime Minister Narendra Modi, India continues to power sustainable growth with speed and determination.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:18:57+00:00",
-        "link": "https://newsonair.gov.in/clean-energy-meets-over-50-of-countrys-electricity-demand-for-second-time-union-minister-pralhad-joshi/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NITI Aayog Member Dr Joram Aniya holds interaction with UNICEF India Representative in New Delhi",
-        "summary": "NITI Aayog Member Dr Joram Aniya held an interaction with UNICEF India Representative Cynthia McCaffrey and her delegation in New Delhi to strengthen collaboration on child-centric development, school education, and human development. According to NITI Aayog, the discussions focused on safe and inclusive learning, foundational literacy and numeracy, teacher education, student well-being, cyber saf",
-        "article": "NITI Aayog Member Dr Joram Aniya held an interaction with UNICEF India Representative Cynthia McCaffrey and her delegation in New Delhi to strengthen collaboration on child-centric development, school education, and human development. According to NITI Aayog, the discussions focused on safe and inclusive learning, foundational literacy and numeracy, teacher education, student well-being, cyber safety, and digital security, particularly in Aspirational Districts and Blocks. During the meeting, Dr Aniya also stressed evidence-based policymaking, community participation, disaster resilience, and the role of women’s Self-Help Groups in improving child welfare and education outcomes.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:14:09+00:00",
-        "link": "https://newsonair.gov.in/niti-aayog-member-dr-joram-aniya-holds-interaction-with-unicef-india-representative-in-new-delhi/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
-        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
-        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:12:43+00:00",
-        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
-        "post_id": 1729413,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi concludes state visit to Australia",
-        "summary": "Prime Minister Narendra Modi has officially concluded a historic, high-stakes state visit to Australia, leaving behind a future-proof blueprint for the India-Australia Comprehensive Strategic Partnership. From high-powered boardrooms to iconic landmarks, this intense itinerary systematically advanced diplomatic, economic, and security ties between the two democratic giants. The economic momentum i",
-        "article": "Prime Minister Narendra Modi has officially concluded a historic, high-stakes state visit to Australia, leaving behind a future-proof blueprint for the India-Australia Comprehensive Strategic Partnership. From high-powered boardrooms to iconic landmarks, this intense itinerary systematically advanced diplomatic, economic, and security ties between the two democratic giants. The economic momentum ignited early with the India-Australia CEOs Forum, where business leaders celebrated a 55 percent surge in two-way trade driven by the 2022 ECTA agreement. To unlock further potential, Prime Minister Modi and his Australian counterpart, Anthony Albanese, fast-tracked negotiations for the Comprehensive Economic Cooperation Agreement (CECA). The bilateral talks scaled a historic milestone in clean energy with the finalisation of the administrative arrangement enabling long-term Australian uranium supply to India, reviving a foundational 2014 framework. Strategic security also took center stage as both maritime powers adopted a Joint Declaration on Defence and Security Cooperation alongside a Maritime Security Collaboration Roadmap to ensure a free and open Indo-Pacific. The tour&#8217;s unparalleled public resonance was on full display at the &#8220;Melbourne Meets Modi&#8221; diaspora rally, where an ecstatic crowd of around 25,000 at Marvel Stadium welcomed both leaders. Prime Minister Modi hailed the one-million-strong Indian-Australian community as the ultimate &#8220;living bridge&#8221;, a sentiment echoed by Prime Minister Albanese, who called the diaspora a multicultural powerhouse driving Australia&#8217;s prosperity. Maintaining deep bipartisan ties, the Prime Minister also met with the Leader of the Opposition, Angus Taylor, who called Modi &#8220;a true friend of our nation&#8221; and backed key initiatives like the International Solar Alliance and peaceful uranium exports. The grand tour culminated in spectacular sports diplomacy at the iconic Melbourne Cricket Ground (MCG). Standing on the historic turf, the two leaders officially launched the India-Australia Sports Collaboration Roadmap, supercharging ties in sports science and infrastructure as India prepares for the 2030 Commonwealth Games and Australia gears up for the 2032 Brisbane Olympics. The landmark event also delivered a major cricketing breakthrough, with the historic announcement that the Australian Men&#8217;s Big Bash League will play its opening match in Chennai this December, anchoring the week-long G&#8217;Day Namaste festival in India. Akashvani&#8217;s correspondent reports that this monumental state visit has systematically transformed India-Australia relations from standard diplomatic engagements into a deeply integrated, multi-layered alliance. By seamlessly bridging industrial trade surges, high-tech defense roadmaps, and historic nuclear supply arrangements with the soft power of sports diplomacy at the MCG, both nations have anchored a vital corridor of Indo-Pacific stability. Validated by strong bipartisan backing from the Australian opposition and the electric energy of a thriving million-strong living bridge, the strategic blueprint forged on this tour ensures that both democracies are moving in lockstep to master the economic and geopolitical landscapes of the 21st century. Following the conclusion of his engagements here, the Prime Minister has now departed directly for Auckland, New Zealand, marking a historic next leg of his three-nation tour.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:41:29+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-concludes-state-visit-to-australia/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi meets Australian Opposition Leader Angus Taylor in Melbourne",
-        "summary": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on",
-        "article": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on the growing strength of India-Australia ties and the many opportunities ahead. Mr Modi further said that he deeply values the warmth and broad support that India&#8217;s partnership enjoys across Australia. Akashvani&#8217;s correspondent reports that the meeting highlights the deep bipartisan support that the India-Australia relationship enjoys within the Australian parliament. Backing the strategic partnership, the Opposition Leader has called Prime Minister Narendra Modi &#8220;a true friend of our nation&#8221; and strongly advocates for strengthened ties to defend sovereignty and support Indo-Pacific stability. Aligning with key summit outcomes, Taylor supports the export of Australian uranium to India for peaceful purposes and backs collaborative technological efforts like the International Solar Alliance. This dialogue ensures continuous, rock-solid cooperation across critical security and energy frameworks, regardless of political transitions.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:39:58+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-meets-australian-opposition-leader-angus-taylor-in-melbourne/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi to reach Auckland today on a two-day visit to New Zealand",
-        "summary": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome […]",
-        "article": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome Prime Minister Narendra Modi. Along with the Indian diaspora, many New Zealand people are also eager to greet him with the traditional Māori welcome, “Kia Ora Modi&#8221;. Women, youth, business leaders, academics and community members see the visit as the beginning of a new chapter in India-New Zealand relations. They believe it will further strengthen cooperation in trade, education, investment, sports and cultural exchanges. Members of the Indian diaspora say that the visit of an Indian Prime Minister after nearly 40 years is a moment of pride and deep emotion for them. New Zealanders also see the visit as an opportunity to further strengthen the friendship and partnership between the two countries. The Indian community continues to serve as a living bridge between India and New Zealand. Prime Minister Modi’s visit is expected to add fresh momentum to bilateral ties while further strengthening the people-to-people connection between the two nations.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:03:27+00:00",
-        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Secure border, prosperous border region & vigilant society together can make country secure: HM Amit Shah",
-        "summary": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, […]",
-        "article": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, the government is creating a robust system to make the country completely infiltration-free. Mr Shah was addressing a conference of Superintendents of Police (SPs) from border districts in New Delhi yesterday. He noted that the Narendra Modi-led government has scientifically increased border infrastructure by four hundred percent. Mr. Shah said the government is fencing the over one thousand six hundred km-long India-Myanmar border at a cost of thirty-one thousand crore rupees. He stressed the importance of ensuring that information on demographic changes caused by abnormal factors in border areas is communicated from the grassroots to the highest level at the earliest. The Home Minister said the government&#8217;s objectives are to prevent proxy war, illegal infiltration, radicalisation, narcotics trafficking, drone-related threats, and demographic changes, among other security challenges, while making border areas safer and more livable. SPs from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal, and northeastern states, participated in the conference. Senior officials of the Home Ministry also attended. The conference aimed to strengthen the country&#8217;s border security framework by assessing the current situation in vulnerable frontier regions and identifying measures to improve enforcement. The conference took place against the backdrop of the Centre&#8217;s decision a few months ago to constitute a high-level committee to examine the extent of demographic changes taking place in different parts of the country and identify the factors responsible for them.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T03:50:11+00:00",
-        "link": "https://newsonair.gov.in/secure-border-prosperous-border-region-and-vigilant-society-together-can-make-country-secure-hm-amit-shah/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt plans to introduce E85 fuel at Rs 20 less per litre than standard E20 petrol, says Union Minister Hardeep Singh Puri",
-        "summary": "Union Petroleum and Natural Gas Minister Hardeep Singh Puri has said that the government is planning to introduce E85 fuel, which would be about 20 rupees cheaper per litre than standard E20 petrol. He said E85 would be restricted to vehicles specifically designed to use the fuel. In an interview with a private news […]",
-        "article": "Union Petroleum and Natural Gas Minister Hardeep Singh Puri has said that the government is planning to introduce E85 fuel, which would be about 20 rupees cheaper per litre than standard E20 petrol. He said E85 would be restricted to vehicles specifically designed to use the fuel. In an interview with a private news channel, the Petroleum Minister said the proposed move aims to provide financial relief to consumers while advancing the government&#8217;s ethanol blending programme. He also defended the broader biofuel policy, dismissing concerns about engine damage and vehicle performance linked to ethanol-blended petrol.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T03:40:31+00:00",
-        "link": "https://newsonair.gov.in/govt-plans-to-introduce-e85-fuel-at-rs-20-less-per-litre-than-standard-e20-petrol-says-union-minister-hardeep-singh-puri/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EAM Dr. S. Jaishankar arrives in Oman after concluding successful visit to Kuwait",
-        "summary": "External Affairs Minister Dr. S. Jaishankar has arrived in Oman after concluding his visit to Kuwait. On his arrival, he was received by the Director General at the Foreign Ministry of Oman, Sheikh Ahmed Al Maskari. Dr. Jaishankar is currently on an eleven-day tour covering Qatar, Bahrain, Kuwait, Oman, New York, and Brussels. After […]",
-        "article": "External Affairs Minister Dr. S. Jaishankar has arrived in Oman after concluding his visit to Kuwait. On his arrival, he was received by the Director General at the Foreign Ministry of Oman, Sheikh Ahmed Al Maskari. Dr. Jaishankar is currently on an eleven-day tour covering Qatar, Bahrain, Kuwait, Oman, New York, and Brussels. After completing his visit to Oman, he will travel to New York to launch India&#8217;s official campaign for the UN Security Council tenure 2028-29. He will then visit Brussels on the 14th and 15th of July to attend the third India-European Union Trade and Technology Council meeting and hold interactions with his European Union and Belgian counterparts.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:56:27+00:00",
-        "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-arrives-in-oman-after-concluding-successful-visit-to-kuwait/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMD issues red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand",
-        "summary": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand today. While in some parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh, heavy to very heavy rainfall is expected today. The weather agency estimated heavy rainfall […]",
-        "article": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand today. While in some parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh, heavy to very heavy rainfall is expected today. The weather agency estimated heavy rainfall over Delhi, Haryana, Chandigarh, Himachal Pradesh, Bihar, East Madhya Pradesh and Madhya Maharashtra over the next 3-4 days. Karnataka, Kerala, Mahe, Nagaland, Manipur, Mizoram, Tripura, Tamil Nadu, Puducherry and Karaikal are expected to witness similar weather conditions during the same period. Meanwhile, since this morning, several areas of the National Capital have been witnessing very light to light rainfall. The Met Department has issued a yellow alert for light to moderate rainfall over the National Capital today.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:49:33+00:00",
-        "link": "https://newsonair.gov.in/imd-issues-red-alert-for-heavy-to-very-heavy-rainfall-with-isolated-extremely-heavy-rainfall-in-uttarakhand/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "national": [
-      {
-        "title": "Clean energy meets over 50 % of country’s electricity demand for second time: Union Minister Pralhad Joshi",
-        "summary": "New and Renewable Energy Minister Pralhad Joshi today said that clean energy met over 50 percent of the country&#8217;s electricity demand for the second time. In a social media post, Mr Joshi said that renewable sources contributed 50.2 percent of the power supply on the 6th of this month. The Minister called this a testament […]",
-        "article": "New and Renewable Energy Minister Pralhad Joshi today said that clean energy met over 50 percent of the country&#8217;s electricity demand for the second time. In a social media post, Mr Joshi said that renewable sources contributed 50.2 percent of the power supply on the 6th of this month. The Minister called this a testament to the growing strength and reliability of India’s Clean Energy ecosystem. He said that under the leadership of Prime Minister Narendra Modi, India continues to power sustainable growth with speed and determination.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:18:57+00:00",
-        "link": "https://newsonair.gov.in/clean-energy-meets-over-50-of-countrys-electricity-demand-for-second-time-union-minister-pralhad-joshi/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NITI Aayog Member Dr Joram Aniya holds interaction with UNICEF India Representative in New Delhi",
-        "summary": "NITI Aayog Member Dr Joram Aniya held an interaction with UNICEF India Representative Cynthia McCaffrey and her delegation in New Delhi to strengthen collaboration on child-centric development, school education, and human development. According to NITI Aayog, the discussions focused on safe and inclusive learning, foundational literacy and numeracy, teacher education, student well-being, cyber saf",
-        "article": "NITI Aayog Member Dr Joram Aniya held an interaction with UNICEF India Representative Cynthia McCaffrey and her delegation in New Delhi to strengthen collaboration on child-centric development, school education, and human development. According to NITI Aayog, the discussions focused on safe and inclusive learning, foundational literacy and numeracy, teacher education, student well-being, cyber safety, and digital security, particularly in Aspirational Districts and Blocks. During the meeting, Dr Aniya also stressed evidence-based policymaking, community participation, disaster resilience, and the role of women’s Self-Help Groups in improving child welfare and education outcomes.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:14:09+00:00",
-        "link": "https://newsonair.gov.in/niti-aayog-member-dr-joram-aniya-holds-interaction-with-unicef-india-representative-in-new-delhi/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
-        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
-        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:12:43+00:00",
-        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
-        "post_id": 1729413,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi concludes state visit to Australia",
-        "summary": "Prime Minister Narendra Modi has officially concluded a historic, high-stakes state visit to Australia, leaving behind a future-proof blueprint for the India-Australia Comprehensive Strategic Partnership. From high-powered boardrooms to iconic landmarks, this intense itinerary systematically advanced diplomatic, economic, and security ties between the two democratic giants. The economic momentum i",
-        "article": "Prime Minister Narendra Modi has officially concluded a historic, high-stakes state visit to Australia, leaving behind a future-proof blueprint for the India-Australia Comprehensive Strategic Partnership. From high-powered boardrooms to iconic landmarks, this intense itinerary systematically advanced diplomatic, economic, and security ties between the two democratic giants. The economic momentum ignited early with the India-Australia CEOs Forum, where business leaders celebrated a 55 percent surge in two-way trade driven by the 2022 ECTA agreement. To unlock further potential, Prime Minister Modi and his Australian counterpart, Anthony Albanese, fast-tracked negotiations for the Comprehensive Economic Cooperation Agreement (CECA). The bilateral talks scaled a historic milestone in clean energy with the finalisation of the administrative arrangement enabling long-term Australian uranium supply to India, reviving a foundational 2014 framework. Strategic security also took center stage as both maritime powers adopted a Joint Declaration on Defence and Security Cooperation alongside a Maritime Security Collaboration Roadmap to ensure a free and open Indo-Pacific. The tour&#8217;s unparalleled public resonance was on full display at the &#8220;Melbourne Meets Modi&#8221; diaspora rally, where an ecstatic crowd of around 25,000 at Marvel Stadium welcomed both leaders. Prime Minister Modi hailed the one-million-strong Indian-Australian community as the ultimate &#8220;living bridge&#8221;, a sentiment echoed by Prime Minister Albanese, who called the diaspora a multicultural powerhouse driving Australia&#8217;s prosperity. Maintaining deep bipartisan ties, the Prime Minister also met with the Leader of the Opposition, Angus Taylor, who called Modi &#8220;a true friend of our nation&#8221; and backed key initiatives like the International Solar Alliance and peaceful uranium exports. The grand tour culminated in spectacular sports diplomacy at the iconic Melbourne Cricket Ground (MCG). Standing on the historic turf, the two leaders officially launched the India-Australia Sports Collaboration Roadmap, supercharging ties in sports science and infrastructure as India prepares for the 2030 Commonwealth Games and Australia gears up for the 2032 Brisbane Olympics. The landmark event also delivered a major cricketing breakthrough, with the historic announcement that the Australian Men&#8217;s Big Bash League will play its opening match in Chennai this December, anchoring the week-long G&#8217;Day Namaste festival in India. Akashvani&#8217;s correspondent reports that this monumental state visit has systematically transformed India-Australia relations from standard diplomatic engagements into a deeply integrated, multi-layered alliance. By seamlessly bridging industrial trade surges, high-tech defense roadmaps, and historic nuclear supply arrangements with the soft power of sports diplomacy at the MCG, both nations have anchored a vital corridor of Indo-Pacific stability. Validated by strong bipartisan backing from the Australian opposition and the electric energy of a thriving million-strong living bridge, the strategic blueprint forged on this tour ensures that both democracies are moving in lockstep to master the economic and geopolitical landscapes of the 21st century. Following the conclusion of his engagements here, the Prime Minister has now departed directly for Auckland, New Zealand, marking a historic next leg of his three-nation tour.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:41:29+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-concludes-state-visit-to-australia/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi meets Australian Opposition Leader Angus Taylor in Melbourne",
-        "summary": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on",
-        "article": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on the growing strength of India-Australia ties and the many opportunities ahead. Mr Modi further said that he deeply values the warmth and broad support that India&#8217;s partnership enjoys across Australia. Akashvani&#8217;s correspondent reports that the meeting highlights the deep bipartisan support that the India-Australia relationship enjoys within the Australian parliament. Backing the strategic partnership, the Opposition Leader has called Prime Minister Narendra Modi &#8220;a true friend of our nation&#8221; and strongly advocates for strengthened ties to defend sovereignty and support Indo-Pacific stability. Aligning with key summit outcomes, Taylor supports the export of Australian uranium to India for peaceful purposes and backs collaborative technological efforts like the International Solar Alliance. This dialogue ensures continuous, rock-solid cooperation across critical security and energy frameworks, regardless of political transitions.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:39:58+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-meets-australian-opposition-leader-angus-taylor-in-melbourne/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi to reach Auckland today on a two-day visit to New Zealand",
-        "summary": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome […]",
-        "article": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome Prime Minister Narendra Modi. Along with the Indian diaspora, many New Zealand people are also eager to greet him with the traditional Māori welcome, “Kia Ora Modi&#8221;. Women, youth, business leaders, academics and community members see the visit as the beginning of a new chapter in India-New Zealand relations. They believe it will further strengthen cooperation in trade, education, investment, sports and cultural exchanges. Members of the Indian diaspora say that the visit of an Indian Prime Minister after nearly 40 years is a moment of pride and deep emotion for them. New Zealanders also see the visit as an opportunity to further strengthen the friendship and partnership between the two countries. The Indian community continues to serve as a living bridge between India and New Zealand. Prime Minister Modi’s visit is expected to add fresh momentum to bilateral ties while further strengthening the people-to-people connection between the two nations.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:03:27+00:00",
-        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Secure border, prosperous border region & vigilant society together can make country secure: HM Amit Shah",
-        "summary": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, […]",
-        "article": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, the government is creating a robust system to make the country completely infiltration-free. Mr Shah was addressing a conference of Superintendents of Police (SPs) from border districts in New Delhi yesterday. He noted that the Narendra Modi-led government has scientifically increased border infrastructure by four hundred percent. Mr. Shah said the government is fencing the over one thousand six hundred km-long India-Myanmar border at a cost of thirty-one thousand crore rupees. He stressed the importance of ensuring that information on demographic changes caused by abnormal factors in border areas is communicated from the grassroots to the highest level at the earliest. The Home Minister said the government&#8217;s objectives are to prevent proxy war, illegal infiltration, radicalisation, narcotics trafficking, drone-related threats, and demographic changes, among other security challenges, while making border areas safer and more livable. SPs from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal, and northeastern states, participated in the conference. Senior officials of the Home Ministry also attended. The conference aimed to strengthen the country&#8217;s border security framework by assessing the current situation in vulnerable frontier regions and identifying measures to improve enforcement. The conference took place against the backdrop of the Centre&#8217;s decision a few months ago to constitute a high-level committee to examine the extent of demographic changes taking place in different parts of the country and identify the factors responsible for them.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T03:50:11+00:00",
-        "link": "https://newsonair.gov.in/secure-border-prosperous-border-region-and-vigilant-society-together-can-make-country-secure-hm-amit-shah/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt plans to introduce E85 fuel at Rs 20 less per litre than standard E20 petrol, says Union Minister Hardeep Singh Puri",
-        "summary": "Union Petroleum and Natural Gas Minister Hardeep Singh Puri has said that the government is planning to introduce E85 fuel, which would be about 20 rupees cheaper per litre than standard E20 petrol. He said E85 would be restricted to vehicles specifically designed to use the fuel. In an interview with a private news […]",
-        "article": "Union Petroleum and Natural Gas Minister Hardeep Singh Puri has said that the government is planning to introduce E85 fuel, which would be about 20 rupees cheaper per litre than standard E20 petrol. He said E85 would be restricted to vehicles specifically designed to use the fuel. In an interview with a private news channel, the Petroleum Minister said the proposed move aims to provide financial relief to consumers while advancing the government&#8217;s ethanol blending programme. He also defended the broader biofuel policy, dismissing concerns about engine damage and vehicle performance linked to ethanol-blended petrol.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T03:40:31+00:00",
-        "link": "https://newsonair.gov.in/govt-plans-to-introduce-e85-fuel-at-rs-20-less-per-litre-than-standard-e20-petrol-says-union-minister-hardeep-singh-puri/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EAM Dr. S. Jaishankar arrives in Oman after concluding successful visit to Kuwait",
-        "summary": "External Affairs Minister Dr. S. Jaishankar has arrived in Oman after concluding his visit to Kuwait. On his arrival, he was received by the Director General at the Foreign Ministry of Oman, Sheikh Ahmed Al Maskari. Dr. Jaishankar is currently on an eleven-day tour covering Qatar, Bahrain, Kuwait, Oman, New York, and Brussels. After […]",
-        "article": "External Affairs Minister Dr. S. Jaishankar has arrived in Oman after concluding his visit to Kuwait. On his arrival, he was received by the Director General at the Foreign Ministry of Oman, Sheikh Ahmed Al Maskari. Dr. Jaishankar is currently on an eleven-day tour covering Qatar, Bahrain, Kuwait, Oman, New York, and Brussels. After completing his visit to Oman, he will travel to New York to launch India&#8217;s official campaign for the UN Security Council tenure 2028-29. He will then visit Brussels on the 14th and 15th of July to attend the third India-European Union Trade and Technology Council meeting and hold interactions with his European Union and Belgian counterparts.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:56:27+00:00",
-        "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-arrives-in-oman-after-concluding-successful-visit-to-kuwait/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMD issues red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand",
-        "summary": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand today. While in some parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh, heavy to very heavy rainfall is expected today. The weather agency estimated heavy rainfall […]",
-        "article": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand today. While in some parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh, heavy to very heavy rainfall is expected today. The weather agency estimated heavy rainfall over Delhi, Haryana, Chandigarh, Himachal Pradesh, Bihar, East Madhya Pradesh and Madhya Maharashtra over the next 3-4 days. Karnataka, Kerala, Mahe, Nagaland, Manipur, Mizoram, Tripura, Tamil Nadu, Puducherry and Karaikal are expected to witness similar weather conditions during the same period. Meanwhile, since this morning, several areas of the National Capital have been witnessing very light to light rainfall. The Met Department has issued a yellow alert for light to moderate rainfall over the National Capital today.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:49:33+00:00",
-        "link": "https://newsonair.gov.in/imd-issues-red-alert-for-heavy-to-very-heavy-rainfall-with-isolated-extremely-heavy-rainfall-in-uttarakhand/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "politics": [
-      {
-        "title": "Clean energy meets over 50 % of country’s electricity demand for second time: Union Minister Pralhad Joshi",
-        "summary": "New and Renewable Energy Minister Pralhad Joshi today said that clean energy met over 50 percent of the country&#8217;s electricity demand for the second time. In a social media post, Mr Joshi said that renewable sources contributed 50.2 percent of the power supply on the 6th of this month. The Minister called this a testament […]",
-        "article": "New and Renewable Energy Minister Pralhad Joshi today said that clean energy met over 50 percent of the country&#8217;s electricity demand for the second time. In a social media post, Mr Joshi said that renewable sources contributed 50.2 percent of the power supply on the 6th of this month. The Minister called this a testament to the growing strength and reliability of India’s Clean Energy ecosystem. He said that under the leadership of Prime Minister Narendra Modi, India continues to power sustainable growth with speed and determination.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:18:57+00:00",
-        "link": "https://newsonair.gov.in/clean-energy-meets-over-50-of-countrys-electricity-demand-for-second-time-union-minister-pralhad-joshi/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NITI Aayog Member Dr Joram Aniya holds interaction with UNICEF India Representative in New Delhi",
-        "summary": "NITI Aayog Member Dr Joram Aniya held an interaction with UNICEF India Representative Cynthia McCaffrey and her delegation in New Delhi to strengthen collaboration on child-centric development, school education, and human development. According to NITI Aayog, the discussions focused on safe and inclusive learning, foundational literacy and numeracy, teacher education, student well-being, cyber saf",
-        "article": "NITI Aayog Member Dr Joram Aniya held an interaction with UNICEF India Representative Cynthia McCaffrey and her delegation in New Delhi to strengthen collaboration on child-centric development, school education, and human development. According to NITI Aayog, the discussions focused on safe and inclusive learning, foundational literacy and numeracy, teacher education, student well-being, cyber safety, and digital security, particularly in Aspirational Districts and Blocks. During the meeting, Dr Aniya also stressed evidence-based policymaking, community participation, disaster resilience, and the role of women’s Self-Help Groups in improving child welfare and education outcomes.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:14:09+00:00",
-        "link": "https://newsonair.gov.in/niti-aayog-member-dr-joram-aniya-holds-interaction-with-unicef-india-representative-in-new-delhi/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
-        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
-        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:12:43+00:00",
-        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
-        "post_id": 1729413,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi concludes state visit to Australia",
-        "summary": "Prime Minister Narendra Modi has officially concluded a historic, high-stakes state visit to Australia, leaving behind a future-proof blueprint for the India-Australia Comprehensive Strategic Partnership. From high-powered boardrooms to iconic landmarks, this intense itinerary systematically advanced diplomatic, economic, and security ties between the two democratic giants. The economic momentum i",
-        "article": "Prime Minister Narendra Modi has officially concluded a historic, high-stakes state visit to Australia, leaving behind a future-proof blueprint for the India-Australia Comprehensive Strategic Partnership. From high-powered boardrooms to iconic landmarks, this intense itinerary systematically advanced diplomatic, economic, and security ties between the two democratic giants. The economic momentum ignited early with the India-Australia CEOs Forum, where business leaders celebrated a 55 percent surge in two-way trade driven by the 2022 ECTA agreement. To unlock further potential, Prime Minister Modi and his Australian counterpart, Anthony Albanese, fast-tracked negotiations for the Comprehensive Economic Cooperation Agreement (CECA). The bilateral talks scaled a historic milestone in clean energy with the finalisation of the administrative arrangement enabling long-term Australian uranium supply to India, reviving a foundational 2014 framework. Strategic security also took center stage as both maritime powers adopted a Joint Declaration on Defence and Security Cooperation alongside a Maritime Security Collaboration Roadmap to ensure a free and open Indo-Pacific. The tour&#8217;s unparalleled public resonance was on full display at the &#8220;Melbourne Meets Modi&#8221; diaspora rally, where an ecstatic crowd of around 25,000 at Marvel Stadium welcomed both leaders. Prime Minister Modi hailed the one-million-strong Indian-Australian community as the ultimate &#8220;living bridge&#8221;, a sentiment echoed by Prime Minister Albanese, who called the diaspora a multicultural powerhouse driving Australia&#8217;s prosperity. Maintaining deep bipartisan ties, the Prime Minister also met with the Leader of the Opposition, Angus Taylor, who called Modi &#8220;a true friend of our nation&#8221; and backed key initiatives like the International Solar Alliance and peaceful uranium exports. The grand tour culminated in spectacular sports diplomacy at the iconic Melbourne Cricket Ground (MCG). Standing on the historic turf, the two leaders officially launched the India-Australia Sports Collaboration Roadmap, supercharging ties in sports science and infrastructure as India prepares for the 2030 Commonwealth Games and Australia gears up for the 2032 Brisbane Olympics. The landmark event also delivered a major cricketing breakthrough, with the historic announcement that the Australian Men&#8217;s Big Bash League will play its opening match in Chennai this December, anchoring the week-long G&#8217;Day Namaste festival in India. Akashvani&#8217;s correspondent reports that this monumental state visit has systematically transformed India-Australia relations from standard diplomatic engagements into a deeply integrated, multi-layered alliance. By seamlessly bridging industrial trade surges, high-tech defense roadmaps, and historic nuclear supply arrangements with the soft power of sports diplomacy at the MCG, both nations have anchored a vital corridor of Indo-Pacific stability. Validated by strong bipartisan backing from the Australian opposition and the electric energy of a thriving million-strong living bridge, the strategic blueprint forged on this tour ensures that both democracies are moving in lockstep to master the economic and geopolitical landscapes of the 21st century. Following the conclusion of his engagements here, the Prime Minister has now departed directly for Auckland, New Zealand, marking a historic next leg of his three-nation tour.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:41:29+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-concludes-state-visit-to-australia/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi meets Australian Opposition Leader Angus Taylor in Melbourne",
-        "summary": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on",
-        "article": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on the growing strength of India-Australia ties and the many opportunities ahead. Mr Modi further said that he deeply values the warmth and broad support that India&#8217;s partnership enjoys across Australia. Akashvani&#8217;s correspondent reports that the meeting highlights the deep bipartisan support that the India-Australia relationship enjoys within the Australian parliament. Backing the strategic partnership, the Opposition Leader has called Prime Minister Narendra Modi &#8220;a true friend of our nation&#8221; and strongly advocates for strengthened ties to defend sovereignty and support Indo-Pacific stability. Aligning with key summit outcomes, Taylor supports the export of Australian uranium to India for peaceful purposes and backs collaborative technological efforts like the International Solar Alliance. This dialogue ensures continuous, rock-solid cooperation across critical security and energy frameworks, regardless of political transitions.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:39:58+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-meets-australian-opposition-leader-angus-taylor-in-melbourne/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi to reach Auckland today on a two-day visit to New Zealand",
-        "summary": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome […]",
-        "article": "Auckland is buzzing with excitement ahead of Prime Minister Narendra Modi’s visit to New Zealand. Nearly four decades after the last visit by an Indian Prime Minister, both the Indian community and New Zealanders are looking forward to this historic occasion. Akashvani&#8217;s correspondent reports that preparations are in full swing in Auckland to welcome Prime Minister Narendra Modi. Along with the Indian diaspora, many New Zealand people are also eager to greet him with the traditional Māori welcome, “Kia Ora Modi&#8221;. Women, youth, business leaders, academics and community members see the visit as the beginning of a new chapter in India-New Zealand relations. They believe it will further strengthen cooperation in trade, education, investment, sports and cultural exchanges. Members of the Indian diaspora say that the visit of an Indian Prime Minister after nearly 40 years is a moment of pride and deep emotion for them. New Zealanders also see the visit as an opportunity to further strengthen the friendship and partnership between the two countries. The Indian community continues to serve as a living bridge between India and New Zealand. Prime Minister Modi’s visit is expected to add fresh momentum to bilateral ties while further strengthening the people-to-people connection between the two nations.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:03:27+00:00",
-        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Secure border, prosperous border region & vigilant society together can make country secure: HM Amit Shah",
-        "summary": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, […]",
-        "article": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, the government is creating a robust system to make the country completely infiltration-free. Mr Shah was addressing a conference of Superintendents of Police (SPs) from border districts in New Delhi yesterday. He noted that the Narendra Modi-led government has scientifically increased border infrastructure by four hundred percent. Mr. Shah said the government is fencing the over one thousand six hundred km-long India-Myanmar border at a cost of thirty-one thousand crore rupees. He stressed the importance of ensuring that information on demographic changes caused by abnormal factors in border areas is communicated from the grassroots to the highest level at the earliest. The Home Minister said the government&#8217;s objectives are to prevent proxy war, illegal infiltration, radicalisation, narcotics trafficking, drone-related threats, and demographic changes, among other security challenges, while making border areas safer and more livable. SPs from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal, and northeastern states, participated in the conference. Senior officials of the Home Ministry also attended. The conference aimed to strengthen the country&#8217;s border security framework by assessing the current situation in vulnerable frontier regions and identifying measures to improve enforcement. The conference took place against the backdrop of the Centre&#8217;s decision a few months ago to constitute a high-level committee to examine the extent of demographic changes taking place in different parts of the country and identify the factors responsible for them.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T03:50:11+00:00",
-        "link": "https://newsonair.gov.in/secure-border-prosperous-border-region-and-vigilant-society-together-can-make-country-secure-hm-amit-shah/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt plans to introduce E85 fuel at Rs 20 less per litre than standard E20 petrol, says Union Minister Hardeep Singh Puri",
-        "summary": "Union Petroleum and Natural Gas Minister Hardeep Singh Puri has said that the government is planning to introduce E85 fuel, which would be about 20 rupees cheaper per litre than standard E20 petrol. He said E85 would be restricted to vehicles specifically designed to use the fuel. In an interview with a private news […]",
-        "article": "Union Petroleum and Natural Gas Minister Hardeep Singh Puri has said that the government is planning to introduce E85 fuel, which would be about 20 rupees cheaper per litre than standard E20 petrol. He said E85 would be restricted to vehicles specifically designed to use the fuel. In an interview with a private news channel, the Petroleum Minister said the proposed move aims to provide financial relief to consumers while advancing the government&#8217;s ethanol blending programme. He also defended the broader biofuel policy, dismissing concerns about engine damage and vehicle performance linked to ethanol-blended petrol.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T03:40:31+00:00",
-        "link": "https://newsonair.gov.in/govt-plans-to-introduce-e85-fuel-at-rs-20-less-per-litre-than-standard-e20-petrol-says-union-minister-hardeep-singh-puri/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EAM Dr. S. Jaishankar arrives in Oman after concluding successful visit to Kuwait",
-        "summary": "External Affairs Minister Dr. S. Jaishankar has arrived in Oman after concluding his visit to Kuwait. On his arrival, he was received by the Director General at the Foreign Ministry of Oman, Sheikh Ahmed Al Maskari. Dr. Jaishankar is currently on an eleven-day tour covering Qatar, Bahrain, Kuwait, Oman, New York, and Brussels. After […]",
-        "article": "External Affairs Minister Dr. S. Jaishankar has arrived in Oman after concluding his visit to Kuwait. On his arrival, he was received by the Director General at the Foreign Ministry of Oman, Sheikh Ahmed Al Maskari. Dr. Jaishankar is currently on an eleven-day tour covering Qatar, Bahrain, Kuwait, Oman, New York, and Brussels. After completing his visit to Oman, he will travel to New York to launch India&#8217;s official campaign for the UN Security Council tenure 2028-29. He will then visit Brussels on the 14th and 15th of July to attend the third India-European Union Trade and Technology Council meeting and hold interactions with his European Union and Belgian counterparts.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:56:27+00:00",
-        "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-arrives-in-oman-after-concluding-successful-visit-to-kuwait/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMD issues red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand",
-        "summary": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand today. While in some parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh, heavy to very heavy rainfall is expected today. The weather agency estimated heavy rainfall […]",
-        "article": "The India Meteorological Department (IMD) has issued a red alert for heavy to very heavy rainfall with isolated extremely heavy rainfall in Uttarakhand today. While in some parts of Arunachal Pradesh, Assam, Meghalaya, Sub-Himalayan West Bengal, Sikkim and Uttar Pradesh, heavy to very heavy rainfall is expected today. The weather agency estimated heavy rainfall over Delhi, Haryana, Chandigarh, Himachal Pradesh, Bihar, East Madhya Pradesh and Madhya Maharashtra over the next 3-4 days. Karnataka, Kerala, Mahe, Nagaland, Manipur, Mizoram, Tripura, Tamil Nadu, Puducherry and Karaikal are expected to witness similar weather conditions during the same period. Meanwhile, since this morning, several areas of the National Capital have been witnessing very light to light rainfall. The Met Department has issued a yellow alert for light to moderate rainfall over the National Capital today.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:49:33+00:00",
-        "link": "https://newsonair.gov.in/imd-issues-red-alert-for-heavy-to-very-heavy-rainfall-with-isolated-extremely-heavy-rainfall-in-uttarakhand/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "world": [
-      {
-        "title": "Iran accuses US of alleged airstrike near nuke power plant in Bushehr",
-        "summary": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the […]",
-        "article": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the United States launched new airstrikes against Iran, and Tehran responded by targeting US-allied countries in the West Asia in an exchange of fire that threatened an interim deal intended to help end the war in the West Asia. Sirens sounding at least three times in Bahrain, home to the US Navy&#8217;s 5th Fleet headquarters, and Iranian missiles targeting Kuwait and Qatar. Sirens sounded Thursday afternoon in Jordan as well, where the US has stationed troops and aircraft. In Iran, the two days of American airstrikes have killed at least 14 people and wounded another 78, according to Iran&#8217;s Health Ministry. Most of those reportedly members of the armed forces. Back-and-forth attacks, including a day earlier, have repeatedly threatened the ceasefire, but today&#8217;s exchange of fire appeared bigger all around. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz signalled the end of a fragile ceasefire and threatened to escalate the conflict if they did not stop.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T12:00:53+00:00",
-        "link": "https://newsonair.gov.in/iran-accuses-us-of-alleged-airstrike-near-nuke-power-plant-in-bushehr/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bushehr_City.jpg",
-        "image_credit": "Wikipedia – Bushehr (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "US launches fresh airstrikes on Iran; Tehran targets Bahrain, Kuwait and Qatar",
-        "summary": "The United States launched new airstrikes against Iran this morning. Tehran responded by targeting Bahrain, Kuwait and Qatar, escalating crossfire that again threatened an interim deal aimed at ending the war in the Persian Gulf. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of […]",
-        "article": "The United States launched new airstrikes against Iran this morning. Tehran responded by targeting Bahrain, Kuwait and Qatar, escalating crossfire that again threatened an interim deal aimed at ending the war in the Persian Gulf. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz had signalled the end of the fragile ceasefire. The US struck a range of military sites and port facilities early yesterday. The attacks followed Iran&#8217;s targeting of several merchant vessels off the coast of Oman, which triggered an Iranian response. Today&#8217;s attacks appeared to be larger on both sides. Sirens sounded at least twice in Bahrain, home to the US Navy&#8217;s 5th Fleet headquarters. There was no immediate word on damage in Bahrain, Kuwait or Qatar. Kuwait&#8217;s military said it was actively intercepting incoming drones and missiles. Iran&#8217;s Revolutionary Guard claimed responsibility for attacks on Bahrain and Kuwait. The US military&#8217;s Central Command said it struck about 90 targets across Iran. It also released black-and-white footage showing what appeared to be attacks on an airport runway and missile launchers. The US said the strikes were intended to “further degrade” Iran&#8217;s ability to threaten freedom of navigation in the Strait of Hormuz. Iranian state media reported explosions in several locations, including Bushehr, home to Iran&#8217;s nuclear power plant complex, and the southern port cities of Chabahar, Konarak, Bandar Abbas and Sirik. In Iranshahr, authorities said a strike killed a firefighter at an airport.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T06:20:24+00:00",
-        "link": "https://newsonair.gov.in/us-launches-fresh-airstrikes-on-iran-tehran-targets-bahrain-kuwait-and-qatar/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/1280px-North_of_Tehran_Skyline_view.jpg",
-        "image_credit": "Wikipedia – Tehran (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "3rd BRICS Transport Ministers’ Meeting begins in Maharashtra’s Nagpur today",
-        "summary": "Meeting of the BRICS Transport Working Group has begun today in Nagpur on the occasion of the third BRICS Transport Ministers&#8217; Meeting under BRICS 2026 chairship of India. Addressing the media persons, after the Working Group meeting, Union Transport Secretary V. Umashankar said that senior officials deliberated on the main issues of circularity, mobility, […]",
-        "article": "Meeting of the BRICS Transport Working Group has begun today in Nagpur on the occasion of the third BRICS Transport Ministers&#8217; Meeting under BRICS 2026 chairship of India. Addressing the media persons, after the Working Group meeting, Union Transport Secretary V. Umashankar said that senior officials deliberated on the main issues of circularity, mobility, urban infrastructure, and sustainable development. Similarly, best practices in the transport sector and transportation issues were discussed in collaboration with these officials. Meanwhile, 3rd BRICS Transport Ministers&#8217; Meeting which is arranged on 11th and 12th of this month in city of Nagpur will be convened under India&#8217;s BRICS Chairship theme: &#8220;Building for Resilience, Innovation, Cooperation and Sustainability (BRICS)&#8221;. Union Transport Minister Nitin Gadkari will chair the BRICS Transport Ministers’ meeting on the 11th of this month, which will see the participation from Ministers of other member countries. Following the first two pivotal meetings of the Transport Working Group hosted by Russia and Brazil, this third iteration aims to deepen international transport cooperation. Over the two days, senior officials will review the progress of transport cooperation achieved since the Russian and Brazilian Chairships, exchange international best practices and deliberate on emerging areas of collaboration, including Sustainable Aviation Fuel (SAF), urban mobility, multi-modal transport, resilient logistics’ supply chains, decarbonisation and the adoption of expanding AI-based technologies.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T05:27:31+00:00",
-        "link": "https://newsonair.gov.in/3rd-brics-transport-ministers-meeting-to-begin-in-maharashtras-nagpur-today/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cave_26%2C_Ajanta.jpg/1280px-Cave_26%2C_Ajanta.jpg",
-        "image_credit": "Wikipedia – Maharashtra (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Palestinian Authority President Mahmoud Abbas announces legislative elections in late November",
-        "summary": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The […]",
-        "article": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The decree said the elections aim to strengthen democracy and complete the electoral process in Palestine.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:45:40+00:00",
-        "link": "https://newsonair.gov.in/palestinian-authority-president-mahmoud-abbas-announces-legislative-elections-in-late-november/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
-        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
-        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:12:43+00:00",
-        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-18.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -539,8 +120,390 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T14:31:52+00:00",
         "link": "https://newsonair.gov.in/uk-expresses-concern-over-unrest-in-pojk-due-to-brutal-crackdown-on-civilians-by-pak-security-forces/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Iran accuses US of alleged airstrike near nuke power plant in Bushehr",
+        "summary": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the […]",
+        "article": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the United States launched new airstrikes against Iran, and Tehran responded by targeting US-allied countries in the West Asia in an exchange of fire that threatened an interim deal intended to help end the war in the West Asia. Sirens sounding at least three times in Bahrain, home to the US Navy&#8217;s 5th Fleet headquarters, and Iranian missiles targeting Kuwait and Qatar. Sirens sounded Thursday afternoon in Jordan as well, where the US has stationed troops and aircraft. In Iran, the two days of American airstrikes have killed at least 14 people and wounded another 78, according to Iran&#8217;s Health Ministry. Most of those reportedly members of the armed forces. Back-and-forth attacks, including a day earlier, have repeatedly threatened the ceasefire, but today&#8217;s exchange of fire appeared bigger all around. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz signalled the end of a fragile ceasefire and threatened to escalate the conflict if they did not stop.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T12:00:53+00:00",
+        "link": "https://newsonair.gov.in/iran-accuses-us-of-alleged-airstrike-near-nuke-power-plant-in-bushehr/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "breaking": [
+      {
+        "title": "PM Modi reaches Auckland on a two-day visit to New Zealand",
+        "summary": "Prime Minister Narendra Modi arrived in Auckland today on the final leg of his three-nation tour, where he received a warm ceremonial welcome from New Zealand Prime Minister Christopher Luxon. The two leaders shared a warm embrace as Prime Minister Luxon personally received Mr. Modi on the red carpet at Auckland Airport. Prime Minister Modi […]",
+        "article": "Prime Minister Narendra Modi arrived in Auckland today on the final leg of his three-nation tour, where he received a warm ceremonial welcome from New Zealand Prime Minister Christopher Luxon. The two leaders shared a warm embrace as Prime Minister Luxon personally received Mr. Modi on the red carpet at Auckland Airport. Prime Minister Modi was accorded a ceremonial reception on the tarmac, with representatives of the Indian and New Zealand armed forces in attendance. Akashvani&#8217;s correspondent reports that Auckland is buzzing with excitement in wake of Prime Minister Narendra Modi’s visit. Along with the Indian diaspora, many New Zealand people are also eager to greet him with the traditional Māori welcome, “Kia Ora Modi&#8221;. Women, youth, business leaders, academics and community members see the visit as the beginning of a new chapter in India-New Zealand relations. They believe it will further strengthen cooperation in trade, education, investment, sports and cultural exchanges. Members of the Indian diaspora say that the visit of an Indian Prime Minister after nearly 40 years is a moment of pride and deep emotion for them. New Zealanders also see the visit as an opportunity to further strengthen the friendship and partnership between the two countries. The Indian community continues to serve as a living bridge between India and New Zealand. Prime Minister Modi’s visit is expected to add fresh momentum to bilateral ties while further strengthening the people-to-people connection between the two nations.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T09:03:27+00:00",
+        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_-_May_2024_%282%29.jpg/1280px-Auckland_skyline_-_May_2024_%282%29.jpg",
+        "image_credit": "Wikipedia – Auckland (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Centre amends Drugs Rules, 1945 to strengthen regulation of High Alcohol-Containing Drug Formulation",
+        "summary": "The Central Government has amended the Drugs Rules, 1945, to strengthen the regulation of High Alcohol-Containing Drug Formulations. The Ministry of Health and Family Welfare has removed the existing exemption (under Schedule K) from licensing requirements for formulations containing ethyl alcohol. According to the notification issued by the Ministry of Health and Family Welfare, all […]",
+        "article": "The Central Government has amended the Drugs Rules, 1945, to strengthen the regulation of High Alcohol-Containing Drug Formulations. The Ministry of Health and Family Welfare has removed the existing exemption (under Schedule K) from licensing requirements for formulations containing ethyl alcohol. According to the notification issued by the Ministry of Health and Family Welfare, all formulations containing more than 12 percent volume per volume ethyl alcohol, in quantities exceeding 30 millilitres, will no longer be covered under the exemption provided to them under Schedule K. Such products will be required to obtain the requisite licenses under the Drugs and Cosmetics Act, 1940. Earlier, certain medicinal products, including tinctures of cardamom, ginger and other aromatic preparations, had been exempted from licensing requirements under Schedule K of the Drugs Rules, 1945. Some of these formulations contain high concentrations of ethyl alcohol, in certain cases up to 80 to 90 percent volume per volume, making them susceptible to misuse for intoxication. The amendment is expected to strengthen regulatory oversight over those medicinal products containing alcohol, ensuring their supply only through the regulated pharmaceutical supply chain. It will significantly reduce the possibility of diversion and misuse while ensuring their continued availability for legitimate therapeutic use.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:55:17+00:00",
+        "link": "https://newsonair.gov.in/centre-amends-drugs-rules-1945-to-strengthen-regulation-of-high-alcohol-containing-drug-formulation/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM2jt_6bcAAAQ1z.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "WhatsApp submits reply to Govt regarding rollout of Usernames feature",
+        "summary": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the […]",
+        "article": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the Government had issued a notice to Meta regarding the rollout of the Usernames feature on WhatsApp in India. Sources said that the Ministry directed Meta to furnish a detailed explanation on the feature. The Ministry also directed Meta not to roll out the usernames feature until consultation on the matter is over.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:43:02+00:00",
+        "link": "https://newsonair.gov.in/whatsapp-submits-reply-to-govt-regarding-rollout-of-usernames-feature/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Clean energy meets over 50 % of country’s electricity demand for second time: Union Minister Pralhad Joshi",
+        "summary": "New and Renewable Energy Minister Pralhad Joshi today said that clean energy met over 50 percent of the country&#8217;s electricity demand for the second time. In a social media post, Mr Joshi said that renewable sources contributed 50.2 percent of the power supply on the 6th of this month. The Minister called this a testament […]",
+        "article": "New and Renewable Energy Minister Pralhad Joshi today said that clean energy met over 50 percent of the country&#8217;s electricity demand for the second time. In a social media post, Mr Joshi said that renewable sources contributed 50.2 percent of the power supply on the 6th of this month. The Minister called this a testament to the growing strength and reliability of India’s Clean Energy ecosystem. He said that under the leadership of Prime Minister Narendra Modi, India continues to power sustainable growth with speed and determination.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:18:57+00:00",
+        "link": "https://newsonair.gov.in/clean-energy-meets-over-50-of-countrys-electricity-demand-for-second-time-union-minister-pralhad-joshi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM18pxTbQAAxzWH.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NITI Aayog Member Dr Joram Aniya holds interaction with UNICEF India Representative in New Delhi",
+        "summary": "NITI Aayog Member Dr Joram Aniya held an interaction with UNICEF India Representative Cynthia McCaffrey and her delegation in New Delhi to strengthen collaboration on child-centric development, school education, and human development. According to NITI Aayog, the discussions focused on safe and inclusive learning, foundational literacy and numeracy, teacher education, student well-being, cyber saf",
+        "article": "NITI Aayog Member Dr Joram Aniya held an interaction with UNICEF India Representative Cynthia McCaffrey and her delegation in New Delhi to strengthen collaboration on child-centric development, school education, and human development. According to NITI Aayog, the discussions focused on safe and inclusive learning, foundational literacy and numeracy, teacher education, student well-being, cyber safety, and digital security, particularly in Aspirational Districts and Blocks. During the meeting, Dr Aniya also stressed evidence-based policymaking, community participation, disaster resilience, and the role of women’s Self-Help Groups in improving child welfare and education outcomes.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:14:09+00:00",
+        "link": "https://newsonair.gov.in/niti-aayog-member-dr-joram-aniya-holds-interaction-with-unicef-india-representative-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
+        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
+        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:12:43+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FIH-Hockey-Pro-League.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi concludes state visit to Australia",
+        "summary": "Prime Minister Narendra Modi has officially concluded a historic, high-stakes state visit to Australia, leaving behind a future-proof blueprint for the India-Australia Comprehensive Strategic Partnership. From high-powered boardrooms to iconic landmarks, this intense itinerary systematically advanced diplomatic, economic, and security ties between the two democratic giants. The economic momentum i",
+        "article": "Prime Minister Narendra Modi has officially concluded a historic, high-stakes state visit to Australia, leaving behind a future-proof blueprint for the India-Australia Comprehensive Strategic Partnership. From high-powered boardrooms to iconic landmarks, this intense itinerary systematically advanced diplomatic, economic, and security ties between the two democratic giants. The economic momentum ignited early with the India-Australia CEOs Forum, where business leaders celebrated a 55 percent surge in two-way trade driven by the 2022 ECTA agreement. To unlock further potential, Prime Minister Modi and his Australian counterpart, Anthony Albanese, fast-tracked negotiations for the Comprehensive Economic Cooperation Agreement (CECA). The bilateral talks scaled a historic milestone in clean energy with the finalisation of the administrative arrangement enabling long-term Australian uranium supply to India, reviving a foundational 2014 framework. Strategic security also took center stage as both maritime powers adopted a Joint Declaration on Defence and Security Cooperation alongside a Maritime Security Collaboration Roadmap to ensure a free and open Indo-Pacific. The tour&#8217;s unparalleled public resonance was on full display at the &#8220;Melbourne Meets Modi&#8221; diaspora rally, where an ecstatic crowd of around 25,000 at Marvel Stadium welcomed both leaders. Prime Minister Modi hailed the one-million-strong Indian-Australian community as the ultimate &#8220;living bridge&#8221;, a sentiment echoed by Prime Minister Albanese, who called the diaspora a multicultural powerhouse driving Australia&#8217;s prosperity. Maintaining deep bipartisan ties, the Prime Minister also met with the Leader of the Opposition, Angus Taylor, who called Modi &#8220;a true friend of our nation&#8221; and backed key initiatives like the International Solar Alliance and peaceful uranium exports. The grand tour culminated in spectacular sports diplomacy at the iconic Melbourne Cricket Ground (MCG). Standing on the historic turf, the two leaders officially launched the India-Australia Sports Collaboration Roadmap, supercharging ties in sports science and infrastructure as India prepares for the 2030 Commonwealth Games and Australia gears up for the 2032 Brisbane Olympics. The landmark event also delivered a major cricketing breakthrough, with the historic announcement that the Australian Men&#8217;s Big Bash League will play its opening match in Chennai this December, anchoring the week-long G&#8217;Day Namaste festival in India. Akashvani&#8217;s correspondent reports that this monumental state visit has systematically transformed India-Australia relations from standard diplomatic engagements into a deeply integrated, multi-layered alliance. By seamlessly bridging industrial trade surges, high-tech defense roadmaps, and historic nuclear supply arrangements with the soft power of sports diplomacy at the MCG, both nations have anchored a vital corridor of Indo-Pacific stability. Validated by strong bipartisan backing from the Australian opposition and the electric energy of a thriving million-strong living bridge, the strategic blueprint forged on this tour ensures that both democracies are moving in lockstep to master the economic and geopolitical landscapes of the 21st century. Following the conclusion of his engagements here, the Prime Minister has now departed directly for Auckland, New Zealand, marking a historic next leg of his three-nation tour.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T05:41:29+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-concludes-state-visit-to-australia/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM1-X4PaQAA_EKy.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi meets Australian Opposition Leader Angus Taylor in Melbourne",
+        "summary": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on",
+        "article": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on the growing strength of India-Australia ties and the many opportunities ahead. Mr Modi further said that he deeply values the warmth and broad support that India&#8217;s partnership enjoys across Australia. Akashvani&#8217;s correspondent reports that the meeting highlights the deep bipartisan support that the India-Australia relationship enjoys within the Australian parliament. Backing the strategic partnership, the Opposition Leader has called Prime Minister Narendra Modi &#8220;a true friend of our nation&#8221; and strongly advocates for strengthened ties to defend sovereignty and support Indo-Pacific stability. Aligning with key summit outcomes, Taylor supports the export of Australian uranium to India for peaceful purposes and backs collaborative technological efforts like the International Solar Alliance. This dialogue ensures continuous, rock-solid cooperation across critical security and energy frameworks, regardless of political transitions.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T05:39:58+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-meets-australian-opposition-leader-angus-taylor-in-melbourne/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Secure border, prosperous border region & vigilant society together can make country secure: HM Amit Shah",
+        "summary": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, […]",
+        "article": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, the government is creating a robust system to make the country completely infiltration-free. Mr Shah was addressing a conference of Superintendents of Police (SPs) from border districts in New Delhi yesterday. He noted that the Narendra Modi-led government has scientifically increased border infrastructure by four hundred percent. Mr. Shah said the government is fencing the over one thousand six hundred km-long India-Myanmar border at a cost of thirty-one thousand crore rupees. He stressed the importance of ensuring that information on demographic changes caused by abnormal factors in border areas is communicated from the grassroots to the highest level at the earliest. The Home Minister said the government&#8217;s objectives are to prevent proxy war, illegal infiltration, radicalisation, narcotics trafficking, drone-related threats, and demographic changes, among other security challenges, while making border areas safer and more livable. SPs from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal, and northeastern states, participated in the conference. Senior officials of the Home Ministry also attended. The conference aimed to strengthen the country&#8217;s border security framework by assessing the current situation in vulnerable frontier regions and identifying measures to improve enforcement. The conference took place against the backdrop of the Centre&#8217;s decision a few months ago to constitute a high-level committee to examine the extent of demographic changes taking place in different parts of the country and identify the factors responsible for them.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T03:50:11+00:00",
+        "link": "https://newsonair.gov.in/secure-border-prosperous-border-region-and-vigilant-society-together-can-make-country-secure-hm-amit-shah/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-18.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi expresses gratitude to Australia for warm hospitality",
+        "summary": "Prime Minister Narendra Modi has expressed gratitude to the Government and people of Australia, as well as Australian Prime Minister Anthony Albanese, for the warm hospitality during his visit. In a social media post as his Australia visit concluded, Mr. Modi said the outcomes of the visit have further strengthened the India-Australia partnership and opened […]",
+        "article": "Prime Minister Narendra Modi has expressed gratitude to the Government and people of Australia, as well as Australian Prime Minister Anthony Albanese, for the warm hospitality during his visit. In a social media post as his Australia visit concluded, Mr. Modi said the outcomes of the visit have further strengthened the India-Australia partnership and opened new avenues for cooperation across diverse sectors. He expressed confidence that the momentum generated during the visit will benefit both nations and contribute positively to the global community.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:52:17+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-expresses-gratitude-to-australia-for-warm-hospitality/",
         "image_url": "",
         "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "national": [
+      {
+        "title": "PM Modi reaches Auckland on a two-day visit to New Zealand",
+        "summary": "Prime Minister Narendra Modi arrived in Auckland today on the final leg of his three-nation tour, where he received a warm ceremonial welcome from New Zealand Prime Minister Christopher Luxon. The two leaders shared a warm embrace as Prime Minister Luxon personally received Mr. Modi on the red carpet at Auckland Airport. Prime Minister Modi […]",
+        "article": "Prime Minister Narendra Modi arrived in Auckland today on the final leg of his three-nation tour, where he received a warm ceremonial welcome from New Zealand Prime Minister Christopher Luxon. The two leaders shared a warm embrace as Prime Minister Luxon personally received Mr. Modi on the red carpet at Auckland Airport. Prime Minister Modi was accorded a ceremonial reception on the tarmac, with representatives of the Indian and New Zealand armed forces in attendance. Akashvani&#8217;s correspondent reports that Auckland is buzzing with excitement in wake of Prime Minister Narendra Modi’s visit. Along with the Indian diaspora, many New Zealand people are also eager to greet him with the traditional Māori welcome, “Kia Ora Modi&#8221;. Women, youth, business leaders, academics and community members see the visit as the beginning of a new chapter in India-New Zealand relations. They believe it will further strengthen cooperation in trade, education, investment, sports and cultural exchanges. Members of the Indian diaspora say that the visit of an Indian Prime Minister after nearly 40 years is a moment of pride and deep emotion for them. New Zealanders also see the visit as an opportunity to further strengthen the friendship and partnership between the two countries. The Indian community continues to serve as a living bridge between India and New Zealand. Prime Minister Modi’s visit is expected to add fresh momentum to bilateral ties while further strengthening the people-to-people connection between the two nations.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T09:03:27+00:00",
+        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_-_May_2024_%282%29.jpg/1280px-Auckland_skyline_-_May_2024_%282%29.jpg",
+        "image_credit": "Wikipedia – Auckland (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Centre amends Drugs Rules, 1945 to strengthen regulation of High Alcohol-Containing Drug Formulation",
+        "summary": "The Central Government has amended the Drugs Rules, 1945, to strengthen the regulation of High Alcohol-Containing Drug Formulations. The Ministry of Health and Family Welfare has removed the existing exemption (under Schedule K) from licensing requirements for formulations containing ethyl alcohol. According to the notification issued by the Ministry of Health and Family Welfare, all […]",
+        "article": "The Central Government has amended the Drugs Rules, 1945, to strengthen the regulation of High Alcohol-Containing Drug Formulations. The Ministry of Health and Family Welfare has removed the existing exemption (under Schedule K) from licensing requirements for formulations containing ethyl alcohol. According to the notification issued by the Ministry of Health and Family Welfare, all formulations containing more than 12 percent volume per volume ethyl alcohol, in quantities exceeding 30 millilitres, will no longer be covered under the exemption provided to them under Schedule K. Such products will be required to obtain the requisite licenses under the Drugs and Cosmetics Act, 1940. Earlier, certain medicinal products, including tinctures of cardamom, ginger and other aromatic preparations, had been exempted from licensing requirements under Schedule K of the Drugs Rules, 1945. Some of these formulations contain high concentrations of ethyl alcohol, in certain cases up to 80 to 90 percent volume per volume, making them susceptible to misuse for intoxication. The amendment is expected to strengthen regulatory oversight over those medicinal products containing alcohol, ensuring their supply only through the regulated pharmaceutical supply chain. It will significantly reduce the possibility of diversion and misuse while ensuring their continued availability for legitimate therapeutic use.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:55:17+00:00",
+        "link": "https://newsonair.gov.in/centre-amends-drugs-rules-1945-to-strengthen-regulation-of-high-alcohol-containing-drug-formulation/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM2jt_6bcAAAQ1z.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "WhatsApp submits reply to Govt regarding rollout of Usernames feature",
+        "summary": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the […]",
+        "article": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the Government had issued a notice to Meta regarding the rollout of the Usernames feature on WhatsApp in India. Sources said that the Ministry directed Meta to furnish a detailed explanation on the feature. The Ministry also directed Meta not to roll out the usernames feature until consultation on the matter is over.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:43:02+00:00",
+        "link": "https://newsonair.gov.in/whatsapp-submits-reply-to-govt-regarding-rollout-of-usernames-feature/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Clean energy meets over 50 % of country’s electricity demand for second time: Union Minister Pralhad Joshi",
+        "summary": "New and Renewable Energy Minister Pralhad Joshi today said that clean energy met over 50 percent of the country&#8217;s electricity demand for the second time. In a social media post, Mr Joshi said that renewable sources contributed 50.2 percent of the power supply on the 6th of this month. The Minister called this a testament […]",
+        "article": "New and Renewable Energy Minister Pralhad Joshi today said that clean energy met over 50 percent of the country&#8217;s electricity demand for the second time. In a social media post, Mr Joshi said that renewable sources contributed 50.2 percent of the power supply on the 6th of this month. The Minister called this a testament to the growing strength and reliability of India’s Clean Energy ecosystem. He said that under the leadership of Prime Minister Narendra Modi, India continues to power sustainable growth with speed and determination.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:18:57+00:00",
+        "link": "https://newsonair.gov.in/clean-energy-meets-over-50-of-countrys-electricity-demand-for-second-time-union-minister-pralhad-joshi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM18pxTbQAAxzWH.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NITI Aayog Member Dr Joram Aniya holds interaction with UNICEF India Representative in New Delhi",
+        "summary": "NITI Aayog Member Dr Joram Aniya held an interaction with UNICEF India Representative Cynthia McCaffrey and her delegation in New Delhi to strengthen collaboration on child-centric development, school education, and human development. According to NITI Aayog, the discussions focused on safe and inclusive learning, foundational literacy and numeracy, teacher education, student well-being, cyber saf",
+        "article": "NITI Aayog Member Dr Joram Aniya held an interaction with UNICEF India Representative Cynthia McCaffrey and her delegation in New Delhi to strengthen collaboration on child-centric development, school education, and human development. According to NITI Aayog, the discussions focused on safe and inclusive learning, foundational literacy and numeracy, teacher education, student well-being, cyber safety, and digital security, particularly in Aspirational Districts and Blocks. During the meeting, Dr Aniya also stressed evidence-based policymaking, community participation, disaster resilience, and the role of women’s Self-Help Groups in improving child welfare and education outcomes.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:14:09+00:00",
+        "link": "https://newsonair.gov.in/niti-aayog-member-dr-joram-aniya-holds-interaction-with-unicef-india-representative-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
+        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
+        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:12:43+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FIH-Hockey-Pro-League.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi concludes state visit to Australia",
+        "summary": "Prime Minister Narendra Modi has officially concluded a historic, high-stakes state visit to Australia, leaving behind a future-proof blueprint for the India-Australia Comprehensive Strategic Partnership. From high-powered boardrooms to iconic landmarks, this intense itinerary systematically advanced diplomatic, economic, and security ties between the two democratic giants. The economic momentum i",
+        "article": "Prime Minister Narendra Modi has officially concluded a historic, high-stakes state visit to Australia, leaving behind a future-proof blueprint for the India-Australia Comprehensive Strategic Partnership. From high-powered boardrooms to iconic landmarks, this intense itinerary systematically advanced diplomatic, economic, and security ties between the two democratic giants. The economic momentum ignited early with the India-Australia CEOs Forum, where business leaders celebrated a 55 percent surge in two-way trade driven by the 2022 ECTA agreement. To unlock further potential, Prime Minister Modi and his Australian counterpart, Anthony Albanese, fast-tracked negotiations for the Comprehensive Economic Cooperation Agreement (CECA). The bilateral talks scaled a historic milestone in clean energy with the finalisation of the administrative arrangement enabling long-term Australian uranium supply to India, reviving a foundational 2014 framework. Strategic security also took center stage as both maritime powers adopted a Joint Declaration on Defence and Security Cooperation alongside a Maritime Security Collaboration Roadmap to ensure a free and open Indo-Pacific. The tour&#8217;s unparalleled public resonance was on full display at the &#8220;Melbourne Meets Modi&#8221; diaspora rally, where an ecstatic crowd of around 25,000 at Marvel Stadium welcomed both leaders. Prime Minister Modi hailed the one-million-strong Indian-Australian community as the ultimate &#8220;living bridge&#8221;, a sentiment echoed by Prime Minister Albanese, who called the diaspora a multicultural powerhouse driving Australia&#8217;s prosperity. Maintaining deep bipartisan ties, the Prime Minister also met with the Leader of the Opposition, Angus Taylor, who called Modi &#8220;a true friend of our nation&#8221; and backed key initiatives like the International Solar Alliance and peaceful uranium exports. The grand tour culminated in spectacular sports diplomacy at the iconic Melbourne Cricket Ground (MCG). Standing on the historic turf, the two leaders officially launched the India-Australia Sports Collaboration Roadmap, supercharging ties in sports science and infrastructure as India prepares for the 2030 Commonwealth Games and Australia gears up for the 2032 Brisbane Olympics. The landmark event also delivered a major cricketing breakthrough, with the historic announcement that the Australian Men&#8217;s Big Bash League will play its opening match in Chennai this December, anchoring the week-long G&#8217;Day Namaste festival in India. Akashvani&#8217;s correspondent reports that this monumental state visit has systematically transformed India-Australia relations from standard diplomatic engagements into a deeply integrated, multi-layered alliance. By seamlessly bridging industrial trade surges, high-tech defense roadmaps, and historic nuclear supply arrangements with the soft power of sports diplomacy at the MCG, both nations have anchored a vital corridor of Indo-Pacific stability. Validated by strong bipartisan backing from the Australian opposition and the electric energy of a thriving million-strong living bridge, the strategic blueprint forged on this tour ensures that both democracies are moving in lockstep to master the economic and geopolitical landscapes of the 21st century. Following the conclusion of his engagements here, the Prime Minister has now departed directly for Auckland, New Zealand, marking a historic next leg of his three-nation tour.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T05:41:29+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-concludes-state-visit-to-australia/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM1-X4PaQAA_EKy.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi meets Australian Opposition Leader Angus Taylor in Melbourne",
+        "summary": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on",
+        "article": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on the growing strength of India-Australia ties and the many opportunities ahead. Mr Modi further said that he deeply values the warmth and broad support that India&#8217;s partnership enjoys across Australia. Akashvani&#8217;s correspondent reports that the meeting highlights the deep bipartisan support that the India-Australia relationship enjoys within the Australian parliament. Backing the strategic partnership, the Opposition Leader has called Prime Minister Narendra Modi &#8220;a true friend of our nation&#8221; and strongly advocates for strengthened ties to defend sovereignty and support Indo-Pacific stability. Aligning with key summit outcomes, Taylor supports the export of Australian uranium to India for peaceful purposes and backs collaborative technological efforts like the International Solar Alliance. This dialogue ensures continuous, rock-solid cooperation across critical security and energy frameworks, regardless of political transitions.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T05:39:58+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-meets-australian-opposition-leader-angus-taylor-in-melbourne/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Secure border, prosperous border region & vigilant society together can make country secure: HM Amit Shah",
+        "summary": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, […]",
+        "article": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, the government is creating a robust system to make the country completely infiltration-free. Mr Shah was addressing a conference of Superintendents of Police (SPs) from border districts in New Delhi yesterday. He noted that the Narendra Modi-led government has scientifically increased border infrastructure by four hundred percent. Mr. Shah said the government is fencing the over one thousand six hundred km-long India-Myanmar border at a cost of thirty-one thousand crore rupees. He stressed the importance of ensuring that information on demographic changes caused by abnormal factors in border areas is communicated from the grassroots to the highest level at the earliest. The Home Minister said the government&#8217;s objectives are to prevent proxy war, illegal infiltration, radicalisation, narcotics trafficking, drone-related threats, and demographic changes, among other security challenges, while making border areas safer and more livable. SPs from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal, and northeastern states, participated in the conference. Senior officials of the Home Ministry also attended. The conference aimed to strengthen the country&#8217;s border security framework by assessing the current situation in vulnerable frontier regions and identifying measures to improve enforcement. The conference took place against the backdrop of the Centre&#8217;s decision a few months ago to constitute a high-level committee to examine the extent of demographic changes taking place in different parts of the country and identify the factors responsible for them.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T03:50:11+00:00",
+        "link": "https://newsonair.gov.in/secure-border-prosperous-border-region-and-vigilant-society-together-can-make-country-secure-hm-amit-shah/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-18.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi expresses gratitude to Australia for warm hospitality",
+        "summary": "Prime Minister Narendra Modi has expressed gratitude to the Government and people of Australia, as well as Australian Prime Minister Anthony Albanese, for the warm hospitality during his visit. In a social media post as his Australia visit concluded, Mr. Modi said the outcomes of the visit have further strengthened the India-Australia partnership and opened […]",
+        "article": "Prime Minister Narendra Modi has expressed gratitude to the Government and people of Australia, as well as Australian Prime Minister Anthony Albanese, for the warm hospitality during his visit. In a social media post as his Australia visit concluded, Mr. Modi said the outcomes of the visit have further strengthened the India-Australia partnership and opened new avenues for cooperation across diverse sectors. He expressed confidence that the momentum generated during the visit will benefit both nations and contribute positively to the global community.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:52:17+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-expresses-gratitude-to-australia-for-warm-hospitality/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "politics": [
+      {
+        "title": "PM Modi reaches Auckland on a two-day visit to New Zealand",
+        "summary": "Prime Minister Narendra Modi arrived in Auckland today on the final leg of his three-nation tour, where he received a warm ceremonial welcome from New Zealand Prime Minister Christopher Luxon. The two leaders shared a warm embrace as Prime Minister Luxon personally received Mr. Modi on the red carpet at Auckland Airport. Prime Minister Modi […]",
+        "article": "Prime Minister Narendra Modi arrived in Auckland today on the final leg of his three-nation tour, where he received a warm ceremonial welcome from New Zealand Prime Minister Christopher Luxon. The two leaders shared a warm embrace as Prime Minister Luxon personally received Mr. Modi on the red carpet at Auckland Airport. Prime Minister Modi was accorded a ceremonial reception on the tarmac, with representatives of the Indian and New Zealand armed forces in attendance. Akashvani&#8217;s correspondent reports that Auckland is buzzing with excitement in wake of Prime Minister Narendra Modi’s visit. Along with the Indian diaspora, many New Zealand people are also eager to greet him with the traditional Māori welcome, “Kia Ora Modi&#8221;. Women, youth, business leaders, academics and community members see the visit as the beginning of a new chapter in India-New Zealand relations. They believe it will further strengthen cooperation in trade, education, investment, sports and cultural exchanges. Members of the Indian diaspora say that the visit of an Indian Prime Minister after nearly 40 years is a moment of pride and deep emotion for them. New Zealanders also see the visit as an opportunity to further strengthen the friendship and partnership between the two countries. The Indian community continues to serve as a living bridge between India and New Zealand. Prime Minister Modi’s visit is expected to add fresh momentum to bilateral ties while further strengthening the people-to-people connection between the two nations.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T09:03:27+00:00",
+        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_-_May_2024_%282%29.jpg/1280px-Auckland_skyline_-_May_2024_%282%29.jpg",
+        "image_credit": "Wikipedia – Auckland (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Centre amends Drugs Rules, 1945 to strengthen regulation of High Alcohol-Containing Drug Formulation",
+        "summary": "The Central Government has amended the Drugs Rules, 1945, to strengthen the regulation of High Alcohol-Containing Drug Formulations. The Ministry of Health and Family Welfare has removed the existing exemption (under Schedule K) from licensing requirements for formulations containing ethyl alcohol. According to the notification issued by the Ministry of Health and Family Welfare, all […]",
+        "article": "The Central Government has amended the Drugs Rules, 1945, to strengthen the regulation of High Alcohol-Containing Drug Formulations. The Ministry of Health and Family Welfare has removed the existing exemption (under Schedule K) from licensing requirements for formulations containing ethyl alcohol. According to the notification issued by the Ministry of Health and Family Welfare, all formulations containing more than 12 percent volume per volume ethyl alcohol, in quantities exceeding 30 millilitres, will no longer be covered under the exemption provided to them under Schedule K. Such products will be required to obtain the requisite licenses under the Drugs and Cosmetics Act, 1940. Earlier, certain medicinal products, including tinctures of cardamom, ginger and other aromatic preparations, had been exempted from licensing requirements under Schedule K of the Drugs Rules, 1945. Some of these formulations contain high concentrations of ethyl alcohol, in certain cases up to 80 to 90 percent volume per volume, making them susceptible to misuse for intoxication. The amendment is expected to strengthen regulatory oversight over those medicinal products containing alcohol, ensuring their supply only through the regulated pharmaceutical supply chain. It will significantly reduce the possibility of diversion and misuse while ensuring their continued availability for legitimate therapeutic use.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:55:17+00:00",
+        "link": "https://newsonair.gov.in/centre-amends-drugs-rules-1945-to-strengthen-regulation-of-high-alcohol-containing-drug-formulation/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM2jt_6bcAAAQ1z.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "WhatsApp submits reply to Govt regarding rollout of Usernames feature",
+        "summary": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the […]",
+        "article": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the Government had issued a notice to Meta regarding the rollout of the Usernames feature on WhatsApp in India. Sources said that the Ministry directed Meta to furnish a detailed explanation on the feature. The Ministry also directed Meta not to roll out the usernames feature until consultation on the matter is over.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:43:02+00:00",
+        "link": "https://newsonair.gov.in/whatsapp-submits-reply-to-govt-regarding-rollout-of-usernames-feature/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Clean energy meets over 50 % of country’s electricity demand for second time: Union Minister Pralhad Joshi",
+        "summary": "New and Renewable Energy Minister Pralhad Joshi today said that clean energy met over 50 percent of the country&#8217;s electricity demand for the second time. In a social media post, Mr Joshi said that renewable sources contributed 50.2 percent of the power supply on the 6th of this month. The Minister called this a testament […]",
+        "article": "New and Renewable Energy Minister Pralhad Joshi today said that clean energy met over 50 percent of the country&#8217;s electricity demand for the second time. In a social media post, Mr Joshi said that renewable sources contributed 50.2 percent of the power supply on the 6th of this month. The Minister called this a testament to the growing strength and reliability of India’s Clean Energy ecosystem. He said that under the leadership of Prime Minister Narendra Modi, India continues to power sustainable growth with speed and determination.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:18:57+00:00",
+        "link": "https://newsonair.gov.in/clean-energy-meets-over-50-of-countrys-electricity-demand-for-second-time-union-minister-pralhad-joshi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM18pxTbQAAxzWH.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NITI Aayog Member Dr Joram Aniya holds interaction with UNICEF India Representative in New Delhi",
+        "summary": "NITI Aayog Member Dr Joram Aniya held an interaction with UNICEF India Representative Cynthia McCaffrey and her delegation in New Delhi to strengthen collaboration on child-centric development, school education, and human development. According to NITI Aayog, the discussions focused on safe and inclusive learning, foundational literacy and numeracy, teacher education, student well-being, cyber saf",
+        "article": "NITI Aayog Member Dr Joram Aniya held an interaction with UNICEF India Representative Cynthia McCaffrey and her delegation in New Delhi to strengthen collaboration on child-centric development, school education, and human development. According to NITI Aayog, the discussions focused on safe and inclusive learning, foundational literacy and numeracy, teacher education, student well-being, cyber safety, and digital security, particularly in Aspirational Districts and Blocks. During the meeting, Dr Aniya also stressed evidence-based policymaking, community participation, disaster resilience, and the role of women’s Self-Help Groups in improving child welfare and education outcomes.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:14:09+00:00",
+        "link": "https://newsonair.gov.in/niti-aayog-member-dr-joram-aniya-holds-interaction-with-unicef-india-representative-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
+        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
+        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:12:43+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FIH-Hockey-Pro-League.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi concludes state visit to Australia",
+        "summary": "Prime Minister Narendra Modi has officially concluded a historic, high-stakes state visit to Australia, leaving behind a future-proof blueprint for the India-Australia Comprehensive Strategic Partnership. From high-powered boardrooms to iconic landmarks, this intense itinerary systematically advanced diplomatic, economic, and security ties between the two democratic giants. The economic momentum i",
+        "article": "Prime Minister Narendra Modi has officially concluded a historic, high-stakes state visit to Australia, leaving behind a future-proof blueprint for the India-Australia Comprehensive Strategic Partnership. From high-powered boardrooms to iconic landmarks, this intense itinerary systematically advanced diplomatic, economic, and security ties between the two democratic giants. The economic momentum ignited early with the India-Australia CEOs Forum, where business leaders celebrated a 55 percent surge in two-way trade driven by the 2022 ECTA agreement. To unlock further potential, Prime Minister Modi and his Australian counterpart, Anthony Albanese, fast-tracked negotiations for the Comprehensive Economic Cooperation Agreement (CECA). The bilateral talks scaled a historic milestone in clean energy with the finalisation of the administrative arrangement enabling long-term Australian uranium supply to India, reviving a foundational 2014 framework. Strategic security also took center stage as both maritime powers adopted a Joint Declaration on Defence and Security Cooperation alongside a Maritime Security Collaboration Roadmap to ensure a free and open Indo-Pacific. The tour&#8217;s unparalleled public resonance was on full display at the &#8220;Melbourne Meets Modi&#8221; diaspora rally, where an ecstatic crowd of around 25,000 at Marvel Stadium welcomed both leaders. Prime Minister Modi hailed the one-million-strong Indian-Australian community as the ultimate &#8220;living bridge&#8221;, a sentiment echoed by Prime Minister Albanese, who called the diaspora a multicultural powerhouse driving Australia&#8217;s prosperity. Maintaining deep bipartisan ties, the Prime Minister also met with the Leader of the Opposition, Angus Taylor, who called Modi &#8220;a true friend of our nation&#8221; and backed key initiatives like the International Solar Alliance and peaceful uranium exports. The grand tour culminated in spectacular sports diplomacy at the iconic Melbourne Cricket Ground (MCG). Standing on the historic turf, the two leaders officially launched the India-Australia Sports Collaboration Roadmap, supercharging ties in sports science and infrastructure as India prepares for the 2030 Commonwealth Games and Australia gears up for the 2032 Brisbane Olympics. The landmark event also delivered a major cricketing breakthrough, with the historic announcement that the Australian Men&#8217;s Big Bash League will play its opening match in Chennai this December, anchoring the week-long G&#8217;Day Namaste festival in India. Akashvani&#8217;s correspondent reports that this monumental state visit has systematically transformed India-Australia relations from standard diplomatic engagements into a deeply integrated, multi-layered alliance. By seamlessly bridging industrial trade surges, high-tech defense roadmaps, and historic nuclear supply arrangements with the soft power of sports diplomacy at the MCG, both nations have anchored a vital corridor of Indo-Pacific stability. Validated by strong bipartisan backing from the Australian opposition and the electric energy of a thriving million-strong living bridge, the strategic blueprint forged on this tour ensures that both democracies are moving in lockstep to master the economic and geopolitical landscapes of the 21st century. Following the conclusion of his engagements here, the Prime Minister has now departed directly for Auckland, New Zealand, marking a historic next leg of his three-nation tour.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T05:41:29+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-concludes-state-visit-to-australia/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM1-X4PaQAA_EKy.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi meets Australian Opposition Leader Angus Taylor in Melbourne",
+        "summary": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on",
+        "article": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on the growing strength of India-Australia ties and the many opportunities ahead. Mr Modi further said that he deeply values the warmth and broad support that India&#8217;s partnership enjoys across Australia. Akashvani&#8217;s correspondent reports that the meeting highlights the deep bipartisan support that the India-Australia relationship enjoys within the Australian parliament. Backing the strategic partnership, the Opposition Leader has called Prime Minister Narendra Modi &#8220;a true friend of our nation&#8221; and strongly advocates for strengthened ties to defend sovereignty and support Indo-Pacific stability. Aligning with key summit outcomes, Taylor supports the export of Australian uranium to India for peaceful purposes and backs collaborative technological efforts like the International Solar Alliance. This dialogue ensures continuous, rock-solid cooperation across critical security and energy frameworks, regardless of political transitions.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T05:39:58+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-meets-australian-opposition-leader-angus-taylor-in-melbourne/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Secure border, prosperous border region & vigilant society together can make country secure: HM Amit Shah",
+        "summary": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, […]",
+        "article": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, the government is creating a robust system to make the country completely infiltration-free. Mr Shah was addressing a conference of Superintendents of Police (SPs) from border districts in New Delhi yesterday. He noted that the Narendra Modi-led government has scientifically increased border infrastructure by four hundred percent. Mr. Shah said the government is fencing the over one thousand six hundred km-long India-Myanmar border at a cost of thirty-one thousand crore rupees. He stressed the importance of ensuring that information on demographic changes caused by abnormal factors in border areas is communicated from the grassroots to the highest level at the earliest. The Home Minister said the government&#8217;s objectives are to prevent proxy war, illegal infiltration, radicalisation, narcotics trafficking, drone-related threats, and demographic changes, among other security challenges, while making border areas safer and more livable. SPs from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal, and northeastern states, participated in the conference. Senior officials of the Home Ministry also attended. The conference aimed to strengthen the country&#8217;s border security framework by assessing the current situation in vulnerable frontier regions and identifying measures to improve enforcement. The conference took place against the backdrop of the Centre&#8217;s decision a few months ago to constitute a high-level committee to examine the extent of demographic changes taking place in different parts of the country and identify the factors responsible for them.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T03:50:11+00:00",
+        "link": "https://newsonair.gov.in/secure-border-prosperous-border-region-and-vigilant-society-together-can-make-country-secure-hm-amit-shah/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-18.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi expresses gratitude to Australia for warm hospitality",
+        "summary": "Prime Minister Narendra Modi has expressed gratitude to the Government and people of Australia, as well as Australian Prime Minister Anthony Albanese, for the warm hospitality during his visit. In a social media post as his Australia visit concluded, Mr. Modi said the outcomes of the visit have further strengthened the India-Australia partnership and opened […]",
+        "article": "Prime Minister Narendra Modi has expressed gratitude to the Government and people of Australia, as well as Australian Prime Minister Anthony Albanese, for the warm hospitality during his visit. In a social media post as his Australia visit concluded, Mr. Modi said the outcomes of the visit have further strengthened the India-Australia partnership and opened new avenues for cooperation across diverse sectors. He expressed confidence that the momentum generated during the visit will benefit both nations and contribute positively to the global community.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:52:17+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-expresses-gratitude-to-australia-for-warm-hospitality/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "world": [
+      {
+        "title": "Palestinian Authority President Mahmoud Abbas announces legislative elections in late November",
+        "summary": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The […]",
+        "article": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The decree said the elections aim to strengthen democracy and complete the electoral process in Palestine.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:45:40+00:00",
+        "link": "https://newsonair.gov.in/palestinian-authority-president-mahmoud-abbas-announces-legislative-elections-in-late-november/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-3-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "UK expresses concern over unrest in PoJK due to brutal crackdown on civilians by Pak security forces",
+        "summary": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party",
+        "article": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party leader and MP, Bob Blackman, said that Pakistani security forces had opened fire on peaceful demonstrators in PoJK, resulting in multiple deaths and injuries of civilians, including British nationals. He asked the British government whether it had summoned Pakistan&#8217;s High Commissioner over the reported violence and what steps had been taken to protect innocent bystanders. Raising the issue in a parliamentary debate, another UK lawmaker, Imran Hussain, voiced serious concern over continued bloodshed, arbitrary arrests and restrictions on communication in PoJK. Hussain said that reports suggesting restrictions on the movement of food and medical supplies into several parts of the region are deeply alarming. He emphasised that respect for the human rights of Kashmiris in PoJK must remain at the heart of any negotiations. The Joint Awami Action Committee, JAAC has warned Pakistan it will launch final action if its demands are unmet, inviting global observers to witness the situation. These demands include economic reforms, fair resource distribution, reduced paramilitary presence, and changes to legislative seat allocations. JAAC leader Sardar Aman Khan has sought humanitarian aid from India, citing shortages due to an alleged blockade and military crackdown. He accused Islamabad of hypocrisy for labelling activists as terrorists.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T14:31:52+00:00",
+        "link": "https://newsonair.gov.in/uk-expresses-concern-over-unrest-in-pojk-due-to-brutal-crackdown-on-civilians-by-pak-security-forces/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Iran accuses US of alleged airstrike near nuke power plant in Bushehr",
+        "summary": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the […]",
+        "article": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the United States launched new airstrikes against Iran, and Tehran responded by targeting US-allied countries in the West Asia in an exchange of fire that threatened an interim deal intended to help end the war in the West Asia. Sirens sounding at least three times in Bahrain, home to the US Navy&#8217;s 5th Fleet headquarters, and Iranian missiles targeting Kuwait and Qatar. Sirens sounded Thursday afternoon in Jordan as well, where the US has stationed troops and aircraft. In Iran, the two days of American airstrikes have killed at least 14 people and wounded another 78, according to Iran&#8217;s Health Ministry. Most of those reportedly members of the armed forces. Back-and-forth attacks, including a day earlier, have repeatedly threatened the ceasefire, but today&#8217;s exchange of fire appeared bigger all around. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz signalled the end of a fragile ceasefire and threatened to escalate the conflict if they did not stop.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T12:00:53+00:00",
+        "link": "https://newsonair.gov.in/iran-accuses-us-of-alleged-airstrike-near-nuke-power-plant-in-bushehr/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -550,8 +513,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T08:20:24+00:00",
         "link": "https://newsonair.gov.in/indian-diaspora-gathers-in-large-numbers-for-melbourne-meets-modi-event/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indian-diaspora-gathers-in-large-numbers-for-Melbourne-Meets-Modi-event.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -561,8 +524,19 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T08:11:13+00:00",
         "link": "https://newsonair.gov.in/wipo-report-reaffirms-indias-emergence-as-a-global-innovation-powerhouse/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-17.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "US launches fresh airstrikes on Iran; Tehran targets Bahrain, Kuwait and Qatar",
+        "summary": "The United States launched new airstrikes against Iran this morning. Tehran responded by targeting Bahrain, Kuwait and Qatar, escalating crossfire that again threatened an interim deal aimed at ending the war in the Persian Gulf. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of […]",
+        "article": "The United States launched new airstrikes against Iran this morning. Tehran responded by targeting Bahrain, Kuwait and Qatar, escalating crossfire that again threatened an interim deal aimed at ending the war in the Persian Gulf. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz had signalled the end of the fragile ceasefire. The US struck a range of military sites and port facilities early yesterday. The attacks followed Iran&#8217;s targeting of several merchant vessels off the coast of Oman, which triggered an Iranian response. Today&#8217;s attacks appeared to be larger on both sides. Sirens sounded at least twice in Bahrain, home to the US Navy&#8217;s 5th Fleet headquarters. There was no immediate word on damage in Bahrain, Kuwait or Qatar. Kuwait&#8217;s military said it was actively intercepting incoming drones and missiles. Iran&#8217;s Revolutionary Guard claimed responsibility for attacks on Bahrain and Kuwait. The US military&#8217;s Central Command said it struck about 90 targets across Iran. It also released black-and-white footage showing what appeared to be attacks on an airport runway and missile launchers. The US said the strikes were intended to “further degrade” Iran&#8217;s ability to threaten freedom of navigation in the Strait of Hormuz. Iranian state media reported explosions in several locations, including Bushehr, home to Iran&#8217;s nuclear power plant complex, and the southern port cities of Chabahar, Konarak, Bandar Abbas and Sirik. In Iranshahr, authorities said a strike killed a firefighter at an airport.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T06:20:24+00:00",
+        "link": "https://newsonair.gov.in/us-launches-fresh-airstrikes-on-iran-tehran-targets-bahrain-kuwait-and-qatar/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Akashvani-News.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -572,8 +546,19 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T05:36:48+00:00",
         "link": "https://newsonair.gov.in/pm-modi-welcomes-australiansupers-500-million-australian-dollar-investment-in-india/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260707682f.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "3rd BRICS Transport Ministers’ Meeting begins in Maharashtra’s Nagpur today",
+        "summary": "Meeting of the BRICS Transport Working Group has begun today in Nagpur on the occasion of the third BRICS Transport Ministers&#8217; Meeting under BRICS 2026 chairship of India. Addressing the media persons, after the Working Group meeting, Union Transport Secretary V. Umashankar said that senior officials deliberated on the main issues of circularity, mobility, […]",
+        "article": "Meeting of the BRICS Transport Working Group has begun today in Nagpur on the occasion of the third BRICS Transport Ministers&#8217; Meeting under BRICS 2026 chairship of India. Addressing the media persons, after the Working Group meeting, Union Transport Secretary V. Umashankar said that senior officials deliberated on the main issues of circularity, mobility, urban infrastructure, and sustainable development. Similarly, best practices in the transport sector and transportation issues were discussed in collaboration with these officials. Meanwhile, 3rd BRICS Transport Ministers&#8217; Meeting which is arranged on 11th and 12th of this month in city of Nagpur will be convened under India&#8217;s BRICS Chairship theme: &#8220;Building for Resilience, Innovation, Cooperation and Sustainability (BRICS)&#8221;. Union Transport Minister Nitin Gadkari will chair the BRICS Transport Ministers’ meeting on the 11th of this month, which will see the participation from Ministers of other member countries. Following the first two pivotal meetings of the Transport Working Group hosted by Russia and Brazil, this third iteration aims to deepen international transport cooperation. Over the two days, senior officials will review the progress of transport cooperation achieved since the Russian and Brazilian Chairships, exchange international best practices and deliberate on emerging areas of collaboration, including Sustainable Aviation Fuel (SAF), urban mobility, multi-modal transport, resilient logistics’ supply chains, decarbonisation and the adoption of expanding AI-based technologies.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:27:31+00:00",
+        "link": "https://newsonair.gov.in/3rd-brics-transport-ministers-meeting-to-begin-in-maharashtras-nagpur-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/brics.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -583,6 +568,18 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T05:20:07+00:00",
         "link": "https://newsonair.gov.in/australia-india-business-council-highlights-growing-momentum-of-make-with-india-initiative/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
+        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
+        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:12:43+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
+        "post_id": 1729413,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -590,58 +587,14 @@ window.VM_NEWS = {
     ],
     "sports": [
       {
-        "title": "Men’s Cricket: India to face England in fourth T20I in Bristol today",
-        "summary": "In Men&#8217;s Cricket, India will face England in the fourth T20 International of the five-match series at the County Ground in Bristol tonight. The match will begin at 10 PM IST. India trails the series 0-2, making this a must-win game to stay alive. Captain Shreyas Iyer and head coach Gautam Gambhir are under […]",
-        "article": "In Men&#8217;s Cricket, India will face England in the fourth T20 International of the five-match series at the County Ground in Bristol tonight. The match will begin at 10 PM IST. India trails the series 0-2, making this a must-win game to stay alive. Captain Shreyas Iyer and head coach Gautam Gambhir are under pressure after India&#8217;s heavy 125-run defeat in the third T20I match. One of the biggest selection questions is whether Sanju Samson will return to the playing XI after missing the last two matches. India&#8217;s batting has struggled throughout the series. Vice-captain Tilak Varma has failed to make an impact, while the bowling attack has also disappointed, with spinner Varun Chakaravarthy taking just one wicket so far. England, led by Harry Brook, enters the match with confidence. Opener Phil Salt is back in form after scoring 70 in the last game, while fast bowlers Jofra Archer and Josh Tongue have troubled India&#8217;s batters with their pace and bounce. England will aim to seal the series with another victory, while India hopes to bounce back and force the contest into the final T20I in Southampton on Saturday. Earlier, hosts England defeated India by 4 wickets in the second T20 International in Manchester. The first match between both the sides ended with no result due to rain.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T06:30:09+00:00",
-        "link": "https://newsonair.gov.in/mens-cricket-india-to-face-england-in-fourth-t20i-in-bristol-today/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Pollock_to_Hussey.jpg",
-        "image_credit": "Wikipedia – Cricket (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Telangana to Host 8th Khelo India Youth Games 2026",
-        "summary": "The 8th Khelo India Youth Games 2026 will be hosted by Telangana. Union Youth Affairs and Sports Minister Dr Mansukh Mandaviya made the announcement today. He said the Games will provide another platform for country&#8217;s youth to showcase their sporting talent. The Minister added that the initiative is driven by Prime Minister Narendra Modi&#8217;s vision to nurture […]",
-        "article": "The 8th Khelo India Youth Games 2026 will be hosted by Telangana. Union Youth Affairs and Sports Minister Dr Mansukh Mandaviya made the announcement today. He said the Games will provide another platform for country&#8217;s youth to showcase their sporting talent. The Minister added that the initiative is driven by Prime Minister Narendra Modi&#8217;s vision to nurture grassroots sporting talent across the country.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T12:26:57+00:00",
-        "link": "https://newsonair.gov.in/telangana-to-host-8th-khelo-india-youth-games-2026/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Khelo_India.svg/1280px-Khelo_India.svg.png",
-        "image_credit": "Wikipedia – Khelo India Youth Games (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "FIFA World Cup: Switzerland, Argentina enter quarterfinals",
-        "summary": "In football, Switzerland beat Colombia 4-3 in a penalty shootout in Vancouver to reach the quarterfinals of FIFA World Cup for the first time since 1954. Colombia faltered when Davinson Sánchez smashed his spot-kick against the bar and Cucho Hernández had his effort saved by goalkeeper Gregor Kobel, before Rubén Vargas scored to book a […]",
-        "article": "In football, Switzerland beat Colombia 4-3 in a penalty shootout in Vancouver to reach the quarterfinals of FIFA World Cup for the first time since 1954. Colombia faltered when Davinson Sánchez smashed his spot-kick against the bar and Cucho Hernández had his effort saved by goalkeeper Gregor Kobel, before Rubén Vargas scored to book a quarterfinal date with holders Argentina. The two sides were tied 0-0 after extra time. In another Round of 16 match, Argentina defeated Egypt 3-2 in Atlanta. Argentina was trailing by two goals till 78th minute when the defending champions pulled off a stunning comeback with Cristian Romaro scoring the first goal at 79 minutes. The equalizer came through Messi in 83 minutes while Enzo Fernandez completed the turnaround with the winner in the extra time. With this win Argentina entered the quarter finals of the tournament.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T01:18:40+00:00",
-        "link": "https://newsonair.gov.in/fifa-world-cup-switzerland-argentina-enter-quarterfinals/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpg",
-        "image_credit": "Wikipedia – FIFA World Cup (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Wimbledon: Defending champion Jannik Sinner storms into Men’s Singles semifinal",
-        "summary": "In the Wimbledon Tennis, World No. 1 and defending champion Jannik Sinner has stormed into Men&#8217;s Singles semifinal beating Jan-Lennard Struff of Germany. Sinner defeated Struff in straight sets 7-5, 7-6, 6-3 in the quarter-final match this evening. In Women&#8217;s Singles, Coco Gauff advanced to the Wimbledon semi-finals after defeating fellow American Jessica Pegula 4-6, […]",
-        "article": "In the Wimbledon Tennis, World No. 1 and defending champion Jannik Sinner has stormed into Men&#8217;s Singles semifinal beating Jan-Lennard Struff of Germany. Sinner defeated Struff in straight sets 7-5, 7-6, 6-3 in the quarter-final match this evening. In Women&#8217;s Singles, Coco Gauff advanced to the Wimbledon semi-finals after defeating fellow American Jessica Pegula 4-6, 6-3, 6-3 in a thrilling quarter-final match. In other quarter-finals tomorrow, Czech player Linda Nosková will face Belgian Elise Mertens while Ukrainian player Marta Kostyuk will take on Italian Jasmine Paolini.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T15:46:01+00:00",
-        "link": "https://newsonair.gov.in/wimbledon-tennis-ninth-seed-flavio-cobolli-enters-mens-singles-quarter-finals/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Jannik_Sinner_2025_US_Open.jpg",
-        "image_credit": "Wikipedia – Jannik Sinner (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Govt orders recognised sports federations to publish qualifications & selection process for LA Olympics",
         "summary": "The Ministry of Youth Affairs and Sports has directed all recognised National Sports Federations (NSFs) to publish the Olympic qualification and selection pathway, including the criteria and process to be adopted for the selection of athletes for the Los Angeles 2028 Olympic Games. The Ministry said that the selection policy and criteria for mega sporting […]",
         "article": "The Ministry of Youth Affairs and Sports has directed all recognised National Sports Federations (NSFs) to publish the Olympic qualification and selection pathway, including the criteria and process to be adopted for the selection of athletes for the Los Angeles 2028 Olympic Games. The Ministry said that the selection policy and criteria for mega sporting events such as the Olympics, Paralympics, Asian Games, Para Asian Games and Commonwealth Games should be well publicised and uploaded on the official website of the concerned NSF at least two years before the commencement of the respective Games. The selection policy and criteria should also be shared with the member units of the NSFs and the Sports Authority of India. The Los Angeles Olympic Games are scheduled to be held between 14th and 30th July in 2028. The qualification pathways for the Los Angeles 2028 Olympic Games have been released by the respective International Federations. All recognised National Sports Federations have been requested to publish the Olympic qualification and selection pathway, including the criteria and process to be adopted for the selection of athletes for the Games before the 15th of this month. The Ministry said that the initiative is aimed at promoting greater transparency and accountability in the athlete selection process for the benefit of all stakeholders.",
         "date": "2026-07-09",
         "pubDate": "2026-07-09T15:50:12+00:00",
         "link": "https://newsonair.gov.in/govt-orders-recognised-sports-federations-to-publish-qualifications-selection-process-for-la-olympics/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/LA.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -651,8 +604,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T15:46:30+00:00",
         "link": "https://newsonair.gov.in/wimbledon-marta-kostyuk-linda-noskova-enter-womens-singles-semi-finals/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Wimbeldon-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -662,8 +615,19 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T08:00:16+00:00",
         "link": "https://newsonair.gov.in/indian-pickleball-association-announces-squad-for-pickleball-world-cup-2026/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indian-Pickleball-Association.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Men’s Cricket: India to face England in fourth T20I in Bristol today",
+        "summary": "In Men&#8217;s Cricket, India will face England in the fourth T20 International of the five-match series at the County Ground in Bristol tonight. The match will begin at 10 PM IST. India trails the series 0-2, making this a must-win game to stay alive. Captain Shreyas Iyer and head coach Gautam Gambhir are under […]",
+        "article": "In Men&#8217;s Cricket, India will face England in the fourth T20 International of the five-match series at the County Ground in Bristol tonight. The match will begin at 10 PM IST. India trails the series 0-2, making this a must-win game to stay alive. Captain Shreyas Iyer and head coach Gautam Gambhir are under pressure after India&#8217;s heavy 125-run defeat in the third T20I match. One of the biggest selection questions is whether Sanju Samson will return to the playing XI after missing the last two matches. India&#8217;s batting has struggled throughout the series. Vice-captain Tilak Varma has failed to make an impact, while the bowling attack has also disappointed, with spinner Varun Chakaravarthy taking just one wicket so far. England, led by Harry Brook, enters the match with confidence. Opener Phil Salt is back in form after scoring 70 in the last game, while fast bowlers Jofra Archer and Josh Tongue have troubled India&#8217;s batters with their pace and bounce. England will aim to seal the series with another victory, while India hopes to bounce back and force the contest into the final T20I in Southampton on Saturday. Earlier, hosts England defeated India by 4 wickets in the second T20 International in Manchester. The first match between both the sides ended with no result due to rain.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T06:30:09+00:00",
+        "link": "https://newsonair.gov.in/mens-cricket-india-to-face-england-in-fourth-t20i-in-bristol-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/crics.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -673,8 +637,19 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T05:32:30+00:00",
         "link": "https://newsonair.gov.in/indias-arnav-paparkar-reaches-wimbledon-juniors-boys-singles-quarter-finals/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Telangana to Host 8th Khelo India Youth Games 2026",
+        "summary": "The 8th Khelo India Youth Games 2026 will be hosted by Telangana. Union Youth Affairs and Sports Minister Dr Mansukh Mandaviya made the announcement today. He said the Games will provide another platform for country&#8217;s youth to showcase their sporting talent. The Minister added that the initiative is driven by Prime Minister Narendra Modi&#8217;s vision to nurture […]",
+        "article": "The 8th Khelo India Youth Games 2026 will be hosted by Telangana. Union Youth Affairs and Sports Minister Dr Mansukh Mandaviya made the announcement today. He said the Games will provide another platform for country&#8217;s youth to showcase their sporting talent. The Minister added that the initiative is driven by Prime Minister Narendra Modi&#8217;s vision to nurture grassroots sporting talent across the country.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T12:26:57+00:00",
+        "link": "https://newsonair.gov.in/telangana-to-host-8th-khelo-india-youth-games-2026/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/khelo-india.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -684,8 +659,8 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T11:43:51+00:00",
         "link": "https://newsonair.gov.in/fifa-world-cup-quarter-final-lineup-finalised/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats-5-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -695,12 +670,45 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T01:27:33+00:00",
         "link": "https://newsonair.gov.in/england-beat-india-by-125-runs-in-third-t20i/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/England-beat-India-by-125-runs-in-third-T20I.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "FIFA World Cup: Switzerland, Argentina enter quarterfinals",
+        "summary": "In football, Switzerland beat Colombia 4-3 in a penalty shootout in Vancouver to reach the quarterfinals of FIFA World Cup for the first time since 1954. Colombia faltered when Davinson Sánchez smashed his spot-kick against the bar and Cucho Hernández had his effort saved by goalkeeper Gregor Kobel, before Rubén Vargas scored to book a […]",
+        "article": "In football, Switzerland beat Colombia 4-3 in a penalty shootout in Vancouver to reach the quarterfinals of FIFA World Cup for the first time since 1954. Colombia faltered when Davinson Sánchez smashed his spot-kick against the bar and Cucho Hernández had his effort saved by goalkeeper Gregor Kobel, before Rubén Vargas scored to book a quarterfinal date with holders Argentina. The two sides were tied 0-0 after extra time. In another Round of 16 match, Argentina defeated Egypt 3-2 in Atlanta. Argentina was trailing by two goals till 78th minute when the defending champions pulled off a stunning comeback with Cristian Romaro scoring the first goal at 79 minutes. The equalizer came through Messi in 83 minutes while Enzo Fernandez completed the turnaround with the winner in the extra time. With this win Argentina entered the quarter finals of the tournament.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T01:18:40+00:00",
+        "link": "https://newsonair.gov.in/fifa-world-cup-switzerland-argentina-enter-quarterfinals/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/2026-FIFA-World-Cup-begins-today-across-United-States-Canada-and-Mexico.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Wimbledon: Defending champion Jannik Sinner storms into Men’s Singles semifinal",
+        "summary": "In the Wimbledon Tennis, World No. 1 and defending champion Jannik Sinner has stormed into Men&#8217;s Singles semifinal beating Jan-Lennard Struff of Germany. Sinner defeated Struff in straight sets 7-5, 7-6, 6-3 in the quarter-final match this evening. In Women&#8217;s Singles, Coco Gauff advanced to the Wimbledon semi-finals after defeating fellow American Jessica Pegula 4-6, […]",
+        "article": "In the Wimbledon Tennis, World No. 1 and defending champion Jannik Sinner has stormed into Men&#8217;s Singles semifinal beating Jan-Lennard Struff of Germany. Sinner defeated Struff in straight sets 7-5, 7-6, 6-3 in the quarter-final match this evening. In Women&#8217;s Singles, Coco Gauff advanced to the Wimbledon semi-finals after defeating fellow American Jessica Pegula 4-6, 6-3, 6-3 in a thrilling quarter-final match. In other quarter-finals tomorrow, Czech player Linda Nosková will face Belgian Elise Mertens while Ukrainian player Marta Kostyuk will take on Italian Jasmine Paolini.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T15:46:01+00:00",
+        "link": "https://newsonair.gov.in/wimbledon-tennis-ninth-seed-flavio-cobolli-enters-mens-singles-quarter-finals/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Wimbeldon.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "business": [
+      {
+        "title": "Govt waives basic customs duty on key components of electronic devices to promote domestic production",
+        "summary": "The Government has waived the basic customs duty on goods used in the manufacturing of display assemblies, lithium-ion cells and inductor coil modules with an aim to promote domestic production of electronic devices like smartphones, laptops, wearables and smart TVs. The Ministry of Finance has issued three separate notifications giving effect to the basic […]",
+        "article": "The Government has waived the basic customs duty on goods used in the manufacturing of display assemblies, lithium-ion cells and inductor coil modules with an aim to promote domestic production of electronic devices like smartphones, laptops, wearables and smart TVs. The Ministry of Finance has issued three separate notifications giving effect to the basic customs duty waiver on the goods used in manufacture of the three key components used in electronic devices. Electronics and IT Secretary S Krishnan said, the government&#8217;s move to waive basic customs duty on key components for electronics manufacturing will help deepen the value chain and the ecosystem.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T15:57:07+00:00",
+        "link": "https://newsonair.gov.in/govt-waives-basic-customs-duty-on-key-components-of-electronic-devices-to-promote-domestic-production/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Electronics.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Oil prices up",
         "summary": "Global crude oil prices rose today. Brent crude was trading 0.9 per cent up at 78 US dollars and 69 cents per barrel. West Texas Intermediate crude was trading 0.7 per cent up at 74 US dollars and five cents per barrel, when reports last came in.",
@@ -708,8 +716,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T12:51:18+00:00",
         "link": "https://newsonair.gov.in/oil-prices-up-5/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Price_Utah.jpg/1280px-Price_Utah.jpg",
-        "image_credit": "Wikimedia Commons (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -719,8 +727,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T11:43:52+00:00",
         "link": "https://newsonair.gov.in/gold-silver-prices-up-4/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/1280px-Gold-crystals.jpg",
-        "image_credit": "Wikipedia – Gold (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/gold-silver.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -730,41 +738,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T11:40:30+00:00",
         "link": "https://newsonair.gov.in/rupee-appreciates-by-18-paise-to-close-at-95-38-against-us-dollar/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Rupee_Usage.png/1280px-Rupee_Usage.png",
-        "image_credit": "Wikipedia – Rupee (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EPFO to Credit 8.25% Interest for FY 2025-26 by July 15",
-        "summary": "The Employees&#8217; Provident Fund Organisation (EPFO) will complete the credit of 8.25 percent interest for the financial year 2025-26 into nearly 34 crore EPF accounts by 15th of July. Union Labour and Employment Minister Dr Mansukh Mandaviya said that over 1.44 lakh crore rupees will be credited to subscribers through its new Centralised IT Enabled […]",
-        "article": "The Employees&#8217; Provident Fund Organisation (EPFO) will complete the credit of 8.25 percent interest for the financial year 2025-26 into nearly 34 crore EPF accounts by 15th of July. Union Labour and Employment Minister Dr Mansukh Mandaviya said that over 1.44 lakh crore rupees will be credited to subscribers through its new Centralised IT Enabled Services (CITES) system. The Minister said that the EPFO has completed the process of migrating its entire database of member records from decentralised architecture to the new centralised database. Under the new system, EPF members will have access to a unified member portal where they can view membership details, PF balances, claim status, pensionable service records and benefits through a single interface. The Minister said that the CITES platform also introduces automated pre-validation of claims. Before a withdrawal request reaches an EPFO office, the system will verify eligibility, identify deficiencies and inform members if they are attempting to claim more than the permissible amount. The move is expected to reduce claim rejections and improve first-time claim acceptance rates. The CITES Project is an initiative to modernize EPFO&#8217;s service delivery through automation and rule-based processing. The project is designed to enhance member convenience, improve EPFO operational efficiency, thereby deliver transparent, and seamless citizen-centric services.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T12:00:11+00:00",
-        "link": "https://newsonair.gov.in/epfo-to-credit-8-25-interest-for-fy-2025-26-by-july-15/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Malawi_interest_rates.JPG",
-        "image_credit": "Wikipedia – Interest (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt waives basic customs duty on key components of electronic devices to promote domestic production",
-        "summary": "The Government has waived the basic customs duty on goods used in the manufacturing of display assemblies, lithium-ion cells and inductor coil modules with an aim to promote domestic production of electronic devices like smartphones, laptops, wearables and smart TVs. The Ministry of Finance has issued three separate notifications giving effect to the basic […]",
-        "article": "The Government has waived the basic customs duty on goods used in the manufacturing of display assemblies, lithium-ion cells and inductor coil modules with an aim to promote domestic production of electronic devices like smartphones, laptops, wearables and smart TVs. The Ministry of Finance has issued three separate notifications giving effect to the basic customs duty waiver on the goods used in manufacture of the three key components used in electronic devices. Electronics and IT Secretary S Krishnan said, the government&#8217;s move to waive basic customs duty on key components for electronics manufacturing will help deepen the value chain and the ecosystem.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:57:07+00:00",
-        "link": "https://newsonair.gov.in/govt-waives-basic-customs-duty-on-key-components-of-electronic-devices-to-promote-domestic-production/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Asian markets end on positive note",
-        "summary": "Most Asian stock market indices ended on a positive note today. China&#8217;s Shanghai Composite index climbed over 1.6 per cent, Japan&#8217;s Nikkei 225 gained 1.4 per cent, Singapore’s Strait Times index added 1.2 per cent and South Korea&#8217;s Kospi rose over 0.6 per cent. In contrast, Taiwan&#8217;s Taiex dropped over 0.8 per cent, and Hong […]",
-        "article": "Most Asian stock market indices ended on a positive note today. China&#8217;s Shanghai Composite index climbed over 1.6 per cent, Japan&#8217;s Nikkei 225 gained 1.4 per cent, Singapore’s Strait Times index added 1.2 per cent and South Korea&#8217;s Kospi rose over 0.6 per cent. In contrast, Taiwan&#8217;s Taiex dropped over 0.8 per cent, and Hong Kong’s Hang Seng index slipped 0.7 per cent. On the economic front, China’s Consumer prices rose one per cent in June from a year ago, down from 1.2 per cent in May, according to data released by the National Bureau of Statistics today. Meanwhile, the producer price index jumped 4.1 per cent on an annual basis, up from 3.9 per cent in May. Major European indices were trading on a mixed note today. France’s CAC 40 rose 0.3 per cent, Germany’s DAX added 0.1 per cent, while London’s FTSE 100 was trading 0.6 per cent down, when reports last came in.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T11:30:06+00:00",
-        "link": "https://newsonair.gov.in/asian-markets-send-on-positive-note/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/02/rupee.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -774,8 +749,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T10:51:21+00:00",
         "link": "https://newsonair.gov.in/domestic-markets-end-with-modest-gains-despite-positive-opening/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/SENSEX.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -785,8 +760,19 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T00:30:44+00:00",
         "link": "https://newsonair.gov.in/imf-projects-india-to-remain-worlds-fastest-growing-major-economy/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/IMF.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EPFO to Credit 8.25% Interest for FY 2025-26 by July 15",
+        "summary": "The Employees&#8217; Provident Fund Organisation (EPFO) will complete the credit of 8.25 percent interest for the financial year 2025-26 into nearly 34 crore EPF accounts by 15th of July. Union Labour and Employment Minister Dr Mansukh Mandaviya said that over 1.44 lakh crore rupees will be credited to subscribers through its new Centralised IT Enabled […]",
+        "article": "The Employees&#8217; Provident Fund Organisation (EPFO) will complete the credit of 8.25 percent interest for the financial year 2025-26 into nearly 34 crore EPF accounts by 15th of July. Union Labour and Employment Minister Dr Mansukh Mandaviya said that over 1.44 lakh crore rupees will be credited to subscribers through its new Centralised IT Enabled Services (CITES) system. The Minister said that the EPFO has completed the process of migrating its entire database of member records from decentralised architecture to the new centralised database. Under the new system, EPF members will have access to a unified member portal where they can view membership details, PF balances, claim status, pensionable service records and benefits through a single interface. The Minister said that the CITES platform also introduces automated pre-validation of claims. Before a withdrawal request reaches an EPFO office, the system will verify eligibility, identify deficiencies and inform members if they are attempting to claim more than the permissible amount. The move is expected to reduce claim rejections and improve first-time claim acceptance rates. The CITES Project is an initiative to modernize EPFO&#8217;s service delivery through automation and rule-based processing. The project is designed to enhance member convenience, improve EPFO operational efficiency, thereby deliver transparent, and seamless citizen-centric services.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T12:00:11+00:00",
+        "link": "https://newsonair.gov.in/epfo-to-credit-8-25-interest-for-fy-2025-26-by-july-15/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/epfo.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -796,8 +782,8 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T00:34:42+00:00",
         "link": "https://newsonair.gov.in/india-ensures-uninterrupted-lpg-supply-by-strengthening-domestic-production-effective-diplomacy-hardeep-puri/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Hardeep.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -807,6 +793,17 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T12:52:33+00:00",
         "link": "https://newsonair.gov.in/domestic-markets-end-in-red-despite-opening-on-positive-note/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/sen.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Asian markets end on positive note",
+        "summary": "Most Asian stock market indices ended on a positive note today. China&#8217;s Shanghai Composite index climbed over 1.6 per cent, Japan&#8217;s Nikkei 225 gained 1.4 per cent, Singapore’s Strait Times index added 1.2 per cent and South Korea&#8217;s Kospi rose over 0.6 per cent. In contrast, Taiwan&#8217;s Taiex dropped over 0.8 per cent, and Hong […]",
+        "article": "Most Asian stock market indices ended on a positive note today. China&#8217;s Shanghai Composite index climbed over 1.6 per cent, Japan&#8217;s Nikkei 225 gained 1.4 per cent, Singapore’s Strait Times index added 1.2 per cent and South Korea&#8217;s Kospi rose over 0.6 per cent. In contrast, Taiwan&#8217;s Taiex dropped over 0.8 per cent, and Hong Kong’s Hang Seng index slipped 0.7 per cent. On the economic front, China’s Consumer prices rose one per cent in June from a year ago, down from 1.2 per cent in May, according to data released by the National Bureau of Statistics today. Meanwhile, the producer price index jumped 4.1 per cent on an annual basis, up from 3.9 per cent in May. Major European indices were trading on a mixed note today. France’s CAC 40 rose 0.3 per cent, Germany’s DAX added 0.1 per cent, while London’s FTSE 100 was trading 0.6 per cent down, when reports last came in.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T11:30:06+00:00",
+        "link": "https://newsonair.gov.in/asian-markets-send-on-positive-note/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -820,30 +817,8 @@ window.VM_NEWS = {
         "date": "2026-06-04",
         "pubDate": "2026-06-04T08:26:03+00:00",
         "link": "https://newsonair.gov.in/veteran-producer-and-former-cbfc-chairperson-pahlaj-nihalani-passes-away/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sydney_2015_Anzac_Day_march_%2817119683648%29.jpg/1280px-Sydney_2015_Anzac_Day_march_%2817119683648%29.jpg",
-        "image_credit": "Wikipedia – Veteran (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "UK Named Country Partner for Hornbill Festival 2025 in Nagaland",
-        "summary": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence […]",
-        "article": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence of British High Commissioner to India Lindy Cameron, and senior representatives from both sides at New Delhi. Under this partnership, the British Council, working with the British Deputy High Commission in Kolkata, will curate meaningful programming for the festival, including bringing an artist from the UK to participate in the festival. The state also named Air India Express as the Official Travel Partner for the Hornbill Festival. The partnership was announced by Advisor to Chief Minister, Abu Metha and Managing Director, Air India Express, Aloke Singh, at the airline&#8217;s headquarters in Gurugram in the presence of several key officials. As part of the collaboration, Air India Express will introduce a Boeing 737-8 aircraft featuring a livery inspired by the Tsüngkotepsü design of the Ao Naga tribe’s warrior shawl, under its ‘Tales of India’ initiative. The special aircraft will be received by Chief Minister Neiphiu Rio at Dimapur Airport on November 22. The airline will also offer a 15 percent discount on flights to and from Nagaland, starting November 20. Welcoming the partnerships, Chief Minister Neiphiu Rio expressed hopes that the ties will drive tourism, cultural exchange, and economic growth.",
-        "date": "2025-11-18",
-        "pubDate": "2025-11-18T06:24:16+00:00",
-        "link": "https://newsonair.gov.in/uk-named-country-partner-for-hornbill-festival-2025-in-nagaland/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kapamodzu.jpg/1280px-Kapamodzu.jpg",
-        "image_credit": "Wikipedia – Nagaland (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "BIFF 2025: Shape of Momo to Premiere in Vision Section of Asia’s Biggest Film Festival",
-        "summary": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &#160; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its […]",
-        "article": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &nbsp; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its Vision Section highlights promising works from independent Asian cinema, showcasing daring and original stories from both emerging and mid-career directors. &nbsp; The selection places Shape of Momo alongside some of the most exciting contemporary films from across Asia. The film will also be screened at the San Sebastián International Film Festival in September, marking a significant step in its international journey.",
-        "date": "2025-08-21",
-        "pubDate": "2025-08-21T05:59:25+00:00",
-        "link": "https://newsonair.gov.in/biff-2025-shape-of-momo-to-premiere-in-vision-section-of-asias-biggest-film-festival/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Premiere_at_Chinese_Theater_%283555047236%29.jpg/1280px-Premiere_at_Chinese_Theater_%283555047236%29.jpg",
-        "image_credit": "Wikipedia – Premiere (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/pahln.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -853,8 +828,8 @@ window.VM_NEWS = {
         "date": "2025-12-25",
         "pubDate": "2025-12-25T06:41:17+00:00",
         "link": "https://newsonair.gov.in/150th-shree-baba-harivallabh-sangeet-sammelan-begins-in-jalandhar-tomorrow/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/hargobind.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -864,8 +839,8 @@ window.VM_NEWS = {
         "date": "2025-11-27",
         "pubDate": "2025-11-27T07:31:40+00:00",
         "link": "https://newsonair.gov.in/goa-cm-releases-commemorative-stamp-honouring-filmmaker-k-vaikunth-at-iffi-56/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/pramod.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -875,8 +850,19 @@ window.VM_NEWS = {
         "date": "2025-11-18",
         "pubDate": "2025-11-18T08:00:22+00:00",
         "link": "https://newsonair.gov.in/media-and-entertainment-sector-among-indias-fastest-growing-industries/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/media.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "UK Named Country Partner for Hornbill Festival 2025 in Nagaland",
+        "summary": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence […]",
+        "article": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence of British High Commissioner to India Lindy Cameron, and senior representatives from both sides at New Delhi. Under this partnership, the British Council, working with the British Deputy High Commission in Kolkata, will curate meaningful programming for the festival, including bringing an artist from the UK to participate in the festival. The state also named Air India Express as the Official Travel Partner for the Hornbill Festival. The partnership was announced by Advisor to Chief Minister, Abu Metha and Managing Director, Air India Express, Aloke Singh, at the airline&#8217;s headquarters in Gurugram in the presence of several key officials. As part of the collaboration, Air India Express will introduce a Boeing 737-8 aircraft featuring a livery inspired by the Tsüngkotepsü design of the Ao Naga tribe’s warrior shawl, under its ‘Tales of India’ initiative. The special aircraft will be received by Chief Minister Neiphiu Rio at Dimapur Airport on November 22. The airline will also offer a 15 percent discount on flights to and from Nagaland, starting November 20. Welcoming the partnerships, Chief Minister Neiphiu Rio expressed hopes that the ties will drive tourism, cultural exchange, and economic growth.",
+        "date": "2025-11-18",
+        "pubDate": "2025-11-18T06:24:16+00:00",
+        "link": "https://newsonair.gov.in/uk-named-country-partner-for-hornbill-festival-2025-in-nagaland/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/hornbill.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -886,8 +872,8 @@ window.VM_NEWS = {
         "date": "2025-11-17",
         "pubDate": "2025-11-17T04:43:41+00:00",
         "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-urges-media-to-be-partners-in-nation-building-at-ramoji-excellence-awards-2025/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/CP-radha.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -897,8 +883,8 @@ window.VM_NEWS = {
         "date": "2025-11-02",
         "pubDate": "2025-11-02T16:25:04+00:00",
         "link": "https://newsonair.gov.in/prasar-bharati-and-culture-ministry-launch-month-long-akashvani-sangeet-sammelan-nationwide/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/akashvani.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -908,8 +894,19 @@ window.VM_NEWS = {
         "date": "2025-08-22",
         "pubDate": "2025-08-22T06:34:48+00:00",
         "link": "https://newsonair.gov.in/comedian-and-veteran-punjabi-actor-jaswinder-bhalla-passes-away/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/bhalla.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "BIFF 2025: Shape of Momo to Premiere in Vision Section of Asia’s Biggest Film Festival",
+        "summary": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &#160; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its […]",
+        "article": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &nbsp; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its Vision Section highlights promising works from independent Asian cinema, showcasing daring and original stories from both emerging and mid-career directors. &nbsp; The selection places Shape of Momo alongside some of the most exciting contemporary films from across Asia. The film will also be screened at the San Sebastián International Film Festival in September, marking a significant step in its international journey.",
+        "date": "2025-08-21",
+        "pubDate": "2025-08-21T05:59:25+00:00",
+        "link": "https://newsonair.gov.in/biff-2025-shape-of-momo-to-premiere-in-vision-section-of-asias-biggest-film-festival/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/bfii.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -919,8 +916,8 @@ window.VM_NEWS = {
         "date": "2025-02-17",
         "pubDate": "2025-02-17T02:02:43+00:00",
         "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-strengthens-ties-with-indian-ocean-nations-at-muscat-conference/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/02/cats-476.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
@@ -932,30 +929,8 @@ window.VM_NEWS = {
         "date": "2026-03-24",
         "pubDate": "2026-03-24T07:13:43+00:00",
         "link": "https://newsonair.gov.in/health-minister-jp-nadda-urges-citizens-to-eliminate-tb-on-world-tuberculosis-day/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/World_Tuberculosis_Day_%287020132217%29.jpg/1280px-World_Tuberculosis_Day_%287020132217%29.jpg",
-        "image_credit": "Wikipedia – World Tuberculosis Day (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "West Bengal reports two suspected Nipah cases; centre sends response team",
-        "summary": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry […]",
-        "article": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry of Health and Family Welfare has shared a video in which Union Health Minister Jagat Prakash Nadda said the Central government firmly stands with the State government, and it is providing comprehensive technical, logistical and operational support to the State Government for the effective management and prevention of the outbreak. He added that upon receipt of information, the Secretary, Health and Family Welfare, immediately held discussions with the Chief Secretary and Principal Secretary, Health of West Bengal, to review the situation. Mr Nadda said he had also spoken to the West Bengal Chief Minister, Mamata Banerjee and emphasised for Centre- State co-ordination in this direction. Meanwhile, our Kolkata Correspondent reports the West Bengal government has implemented comprehensive precautionary measures to contain the spread of the virus, including two healthcare workers at a private hospital in Barasat, North 24 Parganas. State&#8217;s Chief Secretary, Nandini Chakraborty, convened an emergency meeting at Nabanna with the state&#8217;s Health Secretary and other senior officials to review the situation. Briefing the press, she confirmed that both patients are currently undergoing treatment, with a specialized medical team monitoring their condition. Preliminary investigations suggest the individuals contracted the virus during a work-related visit to Purba Bardhaman. Consequently, surveillance has been intensified across Purba Bardhaman, North 24 Parganas, and Nadia districts, while authorities are actively tracing high-risk contacts. To assist citizens, the State government has launched two helpline numbers: 033 2333-0180 and 9874708858. &nbsp;",
-        "date": "2026-01-13",
-        "pubDate": "2026-01-13T03:53:37+00:00",
-        "link": "https://newsonair.gov.in/west-bengal-reports-two-suspected-nipah-cases-centre-sends-response-team/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Howrah_bridge_betwixt_Lights.jpg/1280px-Howrah_bridge_betwixt_Lights.jpg",
-        "image_credit": "Wikipedia – West Bengal (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Chikungunya Outbreak in China: Over 7,000 Cases Emerge in Guangdong",
-        "summary": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. […]",
-        "article": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. Apart from Foshan, at least 12 other cities in China&#8217;s southern Guangdong province have reported infections from this a mosquito-borne virus, with nearly 3,000 cases got reported last week. Although rare in China, chikungunya outbreaks are common in South and South East Asia and parts of Africa. On Monday, Hong Kong reported its first case of the viral disease after a 12-year-old boy who developed fever, rash and joint pain after traveling to Foshan in July. An official said, all the reported cases have been mild so far, with 95 per cent of the patients discharged within seven days, Still, the cases have led to some panic, given the virus is not widely known in the country. Meanwhile, the US has urged travellers to China to exercise &#8220;increased caution&#8221; following the outbreak.",
-        "date": "2025-08-05",
-        "pubDate": "2025-08-05T12:03:13+00:00",
-        "link": "https://newsonair.gov.in/chikungunya-outbreak-in-china-over-7000-cases-emerge-in-guangdong/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg/1280px-China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg",
-        "image_credit": "Wikipedia – Guangdong (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/TB-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -965,8 +940,8 @@ window.VM_NEWS = {
         "date": "2026-03-24",
         "pubDate": "2026-03-24T06:13:25+00:00",
         "link": "https://newsonair.gov.in/india-tightens-surveillance-on-glp-1-weight-loss-drug-sales/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/wei.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -976,8 +951,19 @@ window.VM_NEWS = {
         "date": "2026-01-13",
         "pubDate": "2026-01-13T11:18:49+00:00",
         "link": "https://newsonair.gov.in/vp-radhakrishnan-urges-youth-to-be-drug-free-for-a-viksit-bharat/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/vp-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "West Bengal reports two suspected Nipah cases; centre sends response team",
+        "summary": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry […]",
+        "article": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry of Health and Family Welfare has shared a video in which Union Health Minister Jagat Prakash Nadda said the Central government firmly stands with the State government, and it is providing comprehensive technical, logistical and operational support to the State Government for the effective management and prevention of the outbreak. He added that upon receipt of information, the Secretary, Health and Family Welfare, immediately held discussions with the Chief Secretary and Principal Secretary, Health of West Bengal, to review the situation. Mr Nadda said he had also spoken to the West Bengal Chief Minister, Mamata Banerjee and emphasised for Centre- State co-ordination in this direction. Meanwhile, our Kolkata Correspondent reports the West Bengal government has implemented comprehensive precautionary measures to contain the spread of the virus, including two healthcare workers at a private hospital in Barasat, North 24 Parganas. State&#8217;s Chief Secretary, Nandini Chakraborty, convened an emergency meeting at Nabanna with the state&#8217;s Health Secretary and other senior officials to review the situation. Briefing the press, she confirmed that both patients are currently undergoing treatment, with a specialized medical team monitoring their condition. Preliminary investigations suggest the individuals contracted the virus during a work-related visit to Purba Bardhaman. Consequently, surveillance has been intensified across Purba Bardhaman, North 24 Parganas, and Nadia districts, while authorities are actively tracing high-risk contacts. To assist citizens, the State government has launched two helpline numbers: 033 2333-0180 and 9874708858. &nbsp;",
+        "date": "2026-01-13",
+        "pubDate": "2026-01-13T03:53:37+00:00",
+        "link": "https://newsonair.gov.in/west-bengal-reports-two-suspected-nipah-cases-centre-sends-response-team/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/09/nipha.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -987,8 +973,19 @@ window.VM_NEWS = {
         "date": "2025-08-13",
         "pubDate": "2025-08-13T11:11:04+00:00",
         "link": "https://newsonair.gov.in/wild-poliovirus-detected-in-sewage-samples-across-42-sites-in-pakistan/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/PPPPP.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Chikungunya Outbreak in China: Over 7,000 Cases Emerge in Guangdong",
+        "summary": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. […]",
+        "article": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. Apart from Foshan, at least 12 other cities in China&#8217;s southern Guangdong province have reported infections from this a mosquito-borne virus, with nearly 3,000 cases got reported last week. Although rare in China, chikungunya outbreaks are common in South and South East Asia and parts of Africa. On Monday, Hong Kong reported its first case of the viral disease after a 12-year-old boy who developed fever, rash and joint pain after traveling to Foshan in July. An official said, all the reported cases have been mild so far, with 95 per cent of the patients discharged within seven days, Still, the cases have led to some panic, given the virus is not widely known in the country. Meanwhile, the US has urged travellers to China to exercise &#8220;increased caution&#8221; following the outbreak.",
+        "date": "2025-08-05",
+        "pubDate": "2025-08-05T12:03:13+00:00",
+        "link": "https://newsonair.gov.in/chikungunya-outbreak-in-china-over-7000-cases-emerge-in-guangdong/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/chikungunya.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -998,8 +995,8 @@ window.VM_NEWS = {
         "date": "2025-08-05",
         "pubDate": "2025-08-05T02:16:32+00:00",
         "link": "https://newsonair.gov.in/pm-matru-vandana-yojana-registration-drive-extended-till-august-15/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/pradhanmantri-matri-vandana-yojana-pmmvy.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1009,8 +1006,8 @@ window.VM_NEWS = {
         "date": "2025-07-28",
         "pubDate": "2025-07-28T03:24:29+00:00",
         "link": "https://newsonair.gov.in/vaccines-prevented-over-2-5-million-covid-deaths-worldwide-study/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/07/ffd.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1020,8 +1017,8 @@ window.VM_NEWS = {
         "date": "2025-07-14",
         "pubDate": "2025-07-14T11:41:18+00:00",
         "link": "https://newsonair.gov.in/world-embracing-ayurvedas-science-and-potential-ayush-minister/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/Pratap-Rao-Jadhav-1-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ]
@@ -1040,6 +1037,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "भारत ने संघर्ष-संबंधी यौन हिंसा की कड़ी निंदा की",
+        "summary": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते […]",
+        "article": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते हुए, संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि, राजदूत पी. ​​हरीश ने कहा कि इस तरह की हिंसा दण्ड मुक्ति की प्रचलित संस्कृति के बीच जारी है। उन्&#x200d;होंने कहा कि भारत ऐसे जघन्य कृत्यों की कड़ी निंदा करता है। संयुक्त राष्ट्र महासचिव की रिपोर्ट का संदर्भ देते हुए उन्होंने कहा कि 2025 में सत्यापित मामलों में हुई तीव्र वृद्धि सामूहिक कार्रवाई की तत्काल आवश्यकता को रेखांकित करती है। संयुक्त राष्ट्र शांतिरक्षा में भारत के महत्वपूर्ण योगदानों पर प्रकाश डालते हुए, श्री हरीश ने कहा कि महिला शांतिरक्षकों की तैनाती ने संघर्ष-संबंधी यौन हिंसा से निपटने में &#8220;परिवर्तनकारी प्रभाव&#8221; डाला है। उन्होंने यह घोषणा भी की कि संघर्ष से संबंधित यौन हिंसा को रोकने में उनके उत्कृष्ट प्रयासों के लिए भारतीय शांति रक्षक मेजर मोइज़ यासीन और मेजर सोनिया देवेंद्र नवस्कर को वर्ष 2026 के लिए संयुक्त राष्ट्र महासचिव का मिलिट्री जेंडर ऑफ द ईयर का मान्&#x200d;यता प्रमाणपत्र प्रदान किया जाएगा।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:35:00+00:00",
+        "link": "https://newsonair.gov.in/hi/india-strongly-condemned-conflict-related-sexual-violence/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-10-070515-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत",
         "summary": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत हो चुकी है और छह लोग घायल हो गए हैं। स्पेन की सैन्य आपातकालीन इकाई, आने वाले घंटों में आग बुझाने के प्रयासों में शामिल होने हसो सकती है। आग से सड़कें भी बंद हो गईं और […]",
         "article": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत हो चुकी है और छह लोग घायल हो गए हैं। स्पेन की सैन्य आपातकालीन इकाई, आने वाले घंटों में आग बुझाने के प्रयासों में शामिल होने हसो सकती है। आग से सड़कें भी बंद हो गईं और एक हजार से अधिक लोगों को सुरक्षित स्थानों पर पहुंचाया गया। अधिकारियों ने कहा कि यह आग अब तक इस क्षेत्र में लगी सबसे घातक आग है।",
@@ -1124,17 +1132,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-10T01:50:45+00:00",
         "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-on-an-11-day-visit-to-qatar-bahrain-kuwait-oman-new-york-and-brussels/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzH5rtawAE5FAC-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने संघर्ष-संबंधी यौन हिंसा की कड़ी निंदा की",
-        "summary": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते […]",
-        "article": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते हुए, संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि, राजदूत पी. ​​हरीश ने कहा कि इस तरह की हिंसा दण्ड मुक्ति की प्रचलित संस्कृति के बीच जारी है। उन्&#x200d;होंने कहा कि भारत ऐसे जघन्य कृत्यों की कड़ी निंदा करता है। संयुक्त राष्ट्र महासचिव की रिपोर्ट का संदर्भ देते हुए उन्होंने कहा कि 2025 में सत्यापित मामलों में हुई तीव्र वृद्धि सामूहिक कार्रवाई की तत्काल आवश्यकता को रेखांकित करती है। संयुक्त राष्ट्र शांतिरक्षा में भारत के महत्वपूर्ण योगदानों पर प्रकाश डालते हुए, श्री हरीश ने कहा कि महिला शांतिरक्षकों की तैनाती ने संघर्ष-संबंधी यौन हिंसा से निपटने में &#8220;परिवर्तनकारी प्रभाव&#8221; डाला है। उन्होंने यह घोषणा भी की कि संघर्ष से संबंधित यौन हिंसा को रोकने में उनके उत्कृष्ट प्रयासों के लिए भारतीय शांति रक्षक मेजर मोइज़ यासीन और मेजर सोनिया देवेंद्र नवस्कर को वर्ष 2026 के लिए संयुक्त राष्ट्र महासचिव का मिलिट्री जेंडर ऑफ द ईयर का मान्&#x200d;यता प्रमाणपत्र प्रदान किया जाएगा।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T01:37:00+00:00",
-        "link": "https://newsonair.gov.in/hi/india-strongly-condemned-conflict-related-sexual-violence/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-10-070515-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -1494,6 +1491,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "भारत ने संघर्ष-संबंधी यौन हिंसा की कड़ी निंदा की",
+        "summary": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते […]",
+        "article": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते हुए, संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि, राजदूत पी. ​​हरीश ने कहा कि इस तरह की हिंसा दण्ड मुक्ति की प्रचलित संस्कृति के बीच जारी है। उन्&#x200d;होंने कहा कि भारत ऐसे जघन्य कृत्यों की कड़ी निंदा करता है। संयुक्त राष्ट्र महासचिव की रिपोर्ट का संदर्भ देते हुए उन्होंने कहा कि 2025 में सत्यापित मामलों में हुई तीव्र वृद्धि सामूहिक कार्रवाई की तत्काल आवश्यकता को रेखांकित करती है। संयुक्त राष्ट्र शांतिरक्षा में भारत के महत्वपूर्ण योगदानों पर प्रकाश डालते हुए, श्री हरीश ने कहा कि महिला शांतिरक्षकों की तैनाती ने संघर्ष-संबंधी यौन हिंसा से निपटने में &#8220;परिवर्तनकारी प्रभाव&#8221; डाला है। उन्होंने यह घोषणा भी की कि संघर्ष से संबंधित यौन हिंसा को रोकने में उनके उत्कृष्ट प्रयासों के लिए भारतीय शांति रक्षक मेजर मोइज़ यासीन और मेजर सोनिया देवेंद्र नवस्कर को वर्ष 2026 के लिए संयुक्त राष्ट्र महासचिव का मिलिट्री जेंडर ऑफ द ईयर का मान्&#x200d;यता प्रमाणपत्र प्रदान किया जाएगा।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:35:00+00:00",
+        "link": "https://newsonair.gov.in/hi/india-strongly-condemned-conflict-related-sexual-violence/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-10-070515-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत",
         "summary": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत हो चुकी है और छह लोग घायल हो गए हैं। स्पेन की सैन्य आपातकालीन इकाई, आने वाले घंटों में आग बुझाने के प्रयासों में शामिल होने हसो सकती है। आग से सड़कें भी बंद हो गईं और […]",
         "article": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत हो चुकी है और छह लोग घायल हो गए हैं। स्पेन की सैन्य आपातकालीन इकाई, आने वाले घंटों में आग बुझाने के प्रयासों में शामिल होने हसो सकती है। आग से सड़कें भी बंद हो गईं और एक हजार से अधिक लोगों को सुरक्षित स्थानों पर पहुंचाया गया। अधिकारियों ने कहा कि यह आग अब तक इस क्षेत्र में लगी सबसे घातक आग है।",
@@ -1578,17 +1586,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-10T01:50:45+00:00",
         "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-on-an-11-day-visit-to-qatar-bahrain-kuwait-oman-new-york-and-brussels/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzH5rtawAE5FAC-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने संघर्ष-संबंधी यौन हिंसा की कड़ी निंदा की",
-        "summary": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते […]",
-        "article": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते हुए, संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि, राजदूत पी. ​​हरीश ने कहा कि इस तरह की हिंसा दण्ड मुक्ति की प्रचलित संस्कृति के बीच जारी है। उन्&#x200d;होंने कहा कि भारत ऐसे जघन्य कृत्यों की कड़ी निंदा करता है। संयुक्त राष्ट्र महासचिव की रिपोर्ट का संदर्भ देते हुए उन्होंने कहा कि 2025 में सत्यापित मामलों में हुई तीव्र वृद्धि सामूहिक कार्रवाई की तत्काल आवश्यकता को रेखांकित करती है। संयुक्त राष्ट्र शांतिरक्षा में भारत के महत्वपूर्ण योगदानों पर प्रकाश डालते हुए, श्री हरीश ने कहा कि महिला शांतिरक्षकों की तैनाती ने संघर्ष-संबंधी यौन हिंसा से निपटने में &#8220;परिवर्तनकारी प्रभाव&#8221; डाला है। उन्होंने यह घोषणा भी की कि संघर्ष से संबंधित यौन हिंसा को रोकने में उनके उत्कृष्ट प्रयासों के लिए भारतीय शांति रक्षक मेजर मोइज़ यासीन और मेजर सोनिया देवेंद्र नवस्कर को वर्ष 2026 के लिए संयुक्त राष्ट्र महासचिव का मिलिट्री जेंडर ऑफ द ईयर का मान्&#x200d;यता प्रमाणपत्र प्रदान किया जाएगा।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T01:37:00+00:00",
-        "link": "https://newsonair.gov.in/hi/india-strongly-condemned-conflict-related-sexual-violence/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-10-070515-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
