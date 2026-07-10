@@ -1,8 +1,30 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-10T10:46:49.344876",
+  "generated": "2026-07-10T11:44:14.097743",
   "en": {
     "top": [
+      {
+        "title": "Next phase of Ayushman Bharat Digital Mission focuses on maximum adoption & utilization: J P Nadda",
+        "summary": "Union Health and Family Welfare Minister Jagat Prakash Nadda today chaired the 3rd Meeting of the Mission Steering Group to review the progress of the Ayushman Bharat Digital Mission (ABDM). During the meeting, it was noted that the Ayushman Bharat Digital Mission has emerged as one of the world&#8217;s largest digital health ecosystems, with […]",
+        "article": "Union Health and Family Welfare Minister Jagat Prakash Nadda today chaired the 3rd Meeting of the Mission Steering Group to review the progress of the Ayushman Bharat Digital Mission (ABDM). During the meeting, it was noted that the Ayushman Bharat Digital Mission has emerged as one of the world&#8217;s largest digital health ecosystems, with around 94 crore Ayushman Bharat Health Account numbers created and 105 crore health records linked. It also highlighted that 5.33 lakh health facilities and around ten lakh healthcare professionals have been registered on the national digital health registries. Addressing the meeting, Mr Nadda said that a robust digital healthcare infrastructure has been created under ABDM and the next phase must focus on maximising its adoption and utilization across the country. He said that technology must continue to serve as a powerful enabler for achieving Universal Health Coverage while ensuring inclusiveness, accessibility and ease of use for every citizen. Mr Nadda also underscored the transformative role of digital public infrastructure in improving access to quality healthcare, enhancing continuity of care and empowering citizens through secure and consent-based access to their health records. The meeting also deliberated on the future roadmap for the Mission with a focus on scaling up digital health adoption, leveraging emerging technologies including Artificial Intelligence, strengthening institutional capabilities and deepening collaboration with States and Union Territories.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T11:18:52+00:00",
+        "link": "https://newsonair.gov.in/next-phase-of-ayushman-bharat-digital-mission-focuses-on-maximum-adoption-utilization-j-p-nadda/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Ayush.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Railways approve 260 cr for Kavach deployment to enhance safety & operational efficiency",
+        "summary": "Indian Railways has approved 206 crore rupees for Kavach Deployment on 680 route kilometres of Northern Railway to enhance safety and operational efficiency. The project aimed at expanding the indigenous safety system across high-density and strategically important routes. The Railway Ministry said, the provision of Kavach Version 4.0 will be implented on the Rewari-Delhi and […]",
+        "article": "Indian Railways has approved 206 crore rupees for Kavach Deployment on 680 route kilometres of Northern Railway to enhance safety and operational efficiency. The project aimed at expanding the indigenous safety system across high-density and strategically important routes. The Railway Ministry said, the provision of Kavach Version 4.0 will be implented on the Rewari-Delhi and Shakurbasti-Bathinda sections of Delhi Division. The system has been designed to significantly enhance railway safety by preventing Signal Passed at Danger incidents and train collisions. The Ministry said, the system continuously monitors train movements, automatically applies brakes whenever necessary, permits trains to operate safely at maximum permissible speeds. It also supports reliable train operations even during adverse weather conditions such as dense fog.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T10:52:13+00:00",
+        "link": "https://newsonair.gov.in/railways-approve-260-cr-for-kavach-deployment-to-enhance-safety-operational-efficiency/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Railways.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "PM Modi reaches Auckland on a two-day visit to New Zealand",
         "summary": "Prime Minister Narendra Modi arrived in Auckland today on the final leg of his three-nation tour, where he received a warm ceremonial welcome from New Zealand Prime Minister Christopher Luxon. The two leaders shared a warm embrace as Prime Minister Luxon personally received Mr. Modi on the red carpet at Auckland Airport. Prime Minister Modi […]",
@@ -92,28 +114,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "PM Modi meets Australian Opposition Leader Angus Taylor in Melbourne",
-        "summary": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on",
-        "article": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on the growing strength of India-Australia ties and the many opportunities ahead. Mr Modi further said that he deeply values the warmth and broad support that India&#8217;s partnership enjoys across Australia. Akashvani&#8217;s correspondent reports that the meeting highlights the deep bipartisan support that the India-Australia relationship enjoys within the Australian parliament. Backing the strategic partnership, the Opposition Leader has called Prime Minister Narendra Modi &#8220;a true friend of our nation&#8221; and strongly advocates for strengthened ties to defend sovereignty and support Indo-Pacific stability. Aligning with key summit outcomes, Taylor supports the export of Australian uranium to India for peaceful purposes and backs collaborative technological efforts like the International Solar Alliance. This dialogue ensures continuous, rock-solid cooperation across critical security and energy frameworks, regardless of political transitions.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:39:58+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-meets-australian-opposition-leader-angus-taylor-in-melbourne/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-3.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Secure border, prosperous border region & vigilant society together can make country secure: HM Amit Shah",
-        "summary": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, […]",
-        "article": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, the government is creating a robust system to make the country completely infiltration-free. Mr Shah was addressing a conference of Superintendents of Police (SPs) from border districts in New Delhi yesterday. He noted that the Narendra Modi-led government has scientifically increased border infrastructure by four hundred percent. Mr. Shah said the government is fencing the over one thousand six hundred km-long India-Myanmar border at a cost of thirty-one thousand crore rupees. He stressed the importance of ensuring that information on demographic changes caused by abnormal factors in border areas is communicated from the grassroots to the highest level at the earliest. The Home Minister said the government&#8217;s objectives are to prevent proxy war, illegal infiltration, radicalisation, narcotics trafficking, drone-related threats, and demographic changes, among other security challenges, while making border areas safer and more livable. SPs from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal, and northeastern states, participated in the conference. Senior officials of the Home Ministry also attended. The conference aimed to strengthen the country&#8217;s border security framework by assessing the current situation in vulnerable frontier regions and identifying measures to improve enforcement. The conference took place against the backdrop of the Centre&#8217;s decision a few months ago to constitute a high-level committee to examine the extent of demographic changes taking place in different parts of the country and identify the factors responsible for them.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T03:50:11+00:00",
-        "link": "https://newsonair.gov.in/secure-border-prosperous-border-region-and-vigilant-society-together-can-make-country-secure-hm-amit-shah/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-18.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "UK expresses concern over unrest in PoJK due to brutal crackdown on civilians by Pak security forces",
         "summary": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party",
         "article": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party leader and MP, Bob Blackman, said that Pakistani security forces had opened fire on peaceful demonstrators in PoJK, resulting in multiple deaths and injuries of civilians, including British nationals. He asked the British government whether it had summoned Pakistan&#8217;s High Commissioner over the reported violence and what steps had been taken to protect innocent bystanders. Raising the issue in a parliamentary debate, another UK lawmaker, Imran Hussain, voiced serious concern over continued bloodshed, arbitrary arrests and restrictions on communication in PoJK. Hussain said that reports suggesting restrictions on the movement of food and medical supplies into several parts of the region are deeply alarming. He emphasised that respect for the human rights of Kashmiris in PoJK must remain at the heart of any negotiations. The Joint Awami Action Committee, JAAC has warned Pakistan it will launch final action if its demands are unmet, inviting global observers to witness the situation. These demands include economic reforms, fair resource distribution, reduced paramilitary presence, and changes to legislative seat allocations. JAAC leader Sardar Aman Khan has sought humanitarian aid from India, citing shortages due to an alleged blockade and military crackdown. He accused Islamabad of hypocrisy for labelling activists as terrorists.",
@@ -138,6 +138,28 @@ window.VM_NEWS = {
     ],
     "breaking": [
       {
+        "title": "Next phase of Ayushman Bharat Digital Mission focuses on maximum adoption & utilization: J P Nadda",
+        "summary": "Union Health and Family Welfare Minister Jagat Prakash Nadda today chaired the 3rd Meeting of the Mission Steering Group to review the progress of the Ayushman Bharat Digital Mission (ABDM). During the meeting, it was noted that the Ayushman Bharat Digital Mission has emerged as one of the world&#8217;s largest digital health ecosystems, with […]",
+        "article": "Union Health and Family Welfare Minister Jagat Prakash Nadda today chaired the 3rd Meeting of the Mission Steering Group to review the progress of the Ayushman Bharat Digital Mission (ABDM). During the meeting, it was noted that the Ayushman Bharat Digital Mission has emerged as one of the world&#8217;s largest digital health ecosystems, with around 94 crore Ayushman Bharat Health Account numbers created and 105 crore health records linked. It also highlighted that 5.33 lakh health facilities and around ten lakh healthcare professionals have been registered on the national digital health registries. Addressing the meeting, Mr Nadda said that a robust digital healthcare infrastructure has been created under ABDM and the next phase must focus on maximising its adoption and utilization across the country. He said that technology must continue to serve as a powerful enabler for achieving Universal Health Coverage while ensuring inclusiveness, accessibility and ease of use for every citizen. Mr Nadda also underscored the transformative role of digital public infrastructure in improving access to quality healthcare, enhancing continuity of care and empowering citizens through secure and consent-based access to their health records. The meeting also deliberated on the future roadmap for the Mission with a focus on scaling up digital health adoption, leveraging emerging technologies including Artificial Intelligence, strengthening institutional capabilities and deepening collaboration with States and Union Territories.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T11:18:52+00:00",
+        "link": "https://newsonair.gov.in/next-phase-of-ayushman-bharat-digital-mission-focuses-on-maximum-adoption-utilization-j-p-nadda/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Ayush.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Railways approve 260 cr for Kavach deployment to enhance safety & operational efficiency",
+        "summary": "Indian Railways has approved 206 crore rupees for Kavach Deployment on 680 route kilometres of Northern Railway to enhance safety and operational efficiency. The project aimed at expanding the indigenous safety system across high-density and strategically important routes. The Railway Ministry said, the provision of Kavach Version 4.0 will be implented on the Rewari-Delhi and […]",
+        "article": "Indian Railways has approved 206 crore rupees for Kavach Deployment on 680 route kilometres of Northern Railway to enhance safety and operational efficiency. The project aimed at expanding the indigenous safety system across high-density and strategically important routes. The Railway Ministry said, the provision of Kavach Version 4.0 will be implented on the Rewari-Delhi and Shakurbasti-Bathinda sections of Delhi Division. The system has been designed to significantly enhance railway safety by preventing Signal Passed at Danger incidents and train collisions. The Ministry said, the system continuously monitors train movements, automatically applies brakes whenever necessary, permits trains to operate safely at maximum permissible speeds. It also supports reliable train operations even during adverse weather conditions such as dense fog.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T10:52:13+00:00",
+        "link": "https://newsonair.gov.in/railways-approve-260-cr-for-kavach-deployment-to-enhance-safety-operational-efficiency/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Railways.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Modi reaches Auckland on a two-day visit to New Zealand",
         "summary": "Prime Minister Narendra Modi arrived in Auckland today on the final leg of his three-nation tour, where he received a warm ceremonial welcome from New Zealand Prime Minister Christopher Luxon. The two leaders shared a warm embrace as Prime Minister Luxon personally received Mr. Modi on the red carpet at Auckland Airport. Prime Minister Modi […]",
         "article": "Prime Minister Narendra Modi arrived in Auckland today on the final leg of his three-nation tour, where he received a warm ceremonial welcome from New Zealand Prime Minister Christopher Luxon. The two leaders shared a warm embrace as Prime Minister Luxon personally received Mr. Modi on the red carpet at Auckland Airport. Prime Minister Modi was accorded a ceremonial reception on the tarmac, with representatives of the Indian and New Zealand armed forces in attendance. Akashvani&#8217;s correspondent reports that Auckland is buzzing with excitement in wake of Prime Minister Narendra Modi’s visit. Along with the Indian diaspora, many New Zealand people are also eager to greet him with the traditional Māori welcome, “Kia Ora Modi&#8221;. Women, youth, business leaders, academics and community members see the visit as the beginning of a new chapter in India-New Zealand relations. They believe it will further strengthen cooperation in trade, education, investment, sports and cultural exchanges. Members of the Indian diaspora say that the visit of an Indian Prime Minister after nearly 40 years is a moment of pride and deep emotion for them. New Zealanders also see the visit as an opportunity to further strengthen the friendship and partnership between the two countries. The Indian community continues to serve as a living bridge between India and New Zealand. Prime Minister Modi’s visit is expected to add fresh momentum to bilateral ties while further strengthening the people-to-people connection between the two nations.",
@@ -211,28 +233,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-10T05:41:29+00:00",
         "link": "https://newsonair.gov.in/pm-modi-concludes-state-visit-to-australia/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM1-X4PaQAA_EKy.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi meets Australian Opposition Leader Angus Taylor in Melbourne",
-        "summary": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on",
-        "article": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on the growing strength of India-Australia ties and the many opportunities ahead. Mr Modi further said that he deeply values the warmth and broad support that India&#8217;s partnership enjoys across Australia. Akashvani&#8217;s correspondent reports that the meeting highlights the deep bipartisan support that the India-Australia relationship enjoys within the Australian parliament. Backing the strategic partnership, the Opposition Leader has called Prime Minister Narendra Modi &#8220;a true friend of our nation&#8221; and strongly advocates for strengthened ties to defend sovereignty and support Indo-Pacific stability. Aligning with key summit outcomes, Taylor supports the export of Australian uranium to India for peaceful purposes and backs collaborative technological efforts like the International Solar Alliance. This dialogue ensures continuous, rock-solid cooperation across critical security and energy frameworks, regardless of political transitions.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:39:58+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-meets-australian-opposition-leader-angus-taylor-in-melbourne/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-3.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Secure border, prosperous border region & vigilant society together can make country secure: HM Amit Shah",
-        "summary": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, […]",
-        "article": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, the government is creating a robust system to make the country completely infiltration-free. Mr Shah was addressing a conference of Superintendents of Police (SPs) from border districts in New Delhi yesterday. He noted that the Narendra Modi-led government has scientifically increased border infrastructure by four hundred percent. Mr. Shah said the government is fencing the over one thousand six hundred km-long India-Myanmar border at a cost of thirty-one thousand crore rupees. He stressed the importance of ensuring that information on demographic changes caused by abnormal factors in border areas is communicated from the grassroots to the highest level at the earliest. The Home Minister said the government&#8217;s objectives are to prevent proxy war, illegal infiltration, radicalisation, narcotics trafficking, drone-related threats, and demographic changes, among other security challenges, while making border areas safer and more livable. SPs from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal, and northeastern states, participated in the conference. Senior officials of the Home Ministry also attended. The conference aimed to strengthen the country&#8217;s border security framework by assessing the current situation in vulnerable frontier regions and identifying measures to improve enforcement. The conference took place against the backdrop of the Centre&#8217;s decision a few months ago to constitute a high-level committee to examine the extent of demographic changes taking place in different parts of the country and identify the factors responsible for them.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T03:50:11+00:00",
-        "link": "https://newsonair.gov.in/secure-border-prosperous-border-region-and-vigilant-society-together-can-make-country-secure-hm-amit-shah/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-18.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -250,6 +250,28 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "Next phase of Ayushman Bharat Digital Mission focuses on maximum adoption & utilization: J P Nadda",
+        "summary": "Union Health and Family Welfare Minister Jagat Prakash Nadda today chaired the 3rd Meeting of the Mission Steering Group to review the progress of the Ayushman Bharat Digital Mission (ABDM). During the meeting, it was noted that the Ayushman Bharat Digital Mission has emerged as one of the world&#8217;s largest digital health ecosystems, with […]",
+        "article": "Union Health and Family Welfare Minister Jagat Prakash Nadda today chaired the 3rd Meeting of the Mission Steering Group to review the progress of the Ayushman Bharat Digital Mission (ABDM). During the meeting, it was noted that the Ayushman Bharat Digital Mission has emerged as one of the world&#8217;s largest digital health ecosystems, with around 94 crore Ayushman Bharat Health Account numbers created and 105 crore health records linked. It also highlighted that 5.33 lakh health facilities and around ten lakh healthcare professionals have been registered on the national digital health registries. Addressing the meeting, Mr Nadda said that a robust digital healthcare infrastructure has been created under ABDM and the next phase must focus on maximising its adoption and utilization across the country. He said that technology must continue to serve as a powerful enabler for achieving Universal Health Coverage while ensuring inclusiveness, accessibility and ease of use for every citizen. Mr Nadda also underscored the transformative role of digital public infrastructure in improving access to quality healthcare, enhancing continuity of care and empowering citizens through secure and consent-based access to their health records. The meeting also deliberated on the future roadmap for the Mission with a focus on scaling up digital health adoption, leveraging emerging technologies including Artificial Intelligence, strengthening institutional capabilities and deepening collaboration with States and Union Territories.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T11:18:52+00:00",
+        "link": "https://newsonair.gov.in/next-phase-of-ayushman-bharat-digital-mission-focuses-on-maximum-adoption-utilization-j-p-nadda/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Ayush.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Railways approve 260 cr for Kavach deployment to enhance safety & operational efficiency",
+        "summary": "Indian Railways has approved 206 crore rupees for Kavach Deployment on 680 route kilometres of Northern Railway to enhance safety and operational efficiency. The project aimed at expanding the indigenous safety system across high-density and strategically important routes. The Railway Ministry said, the provision of Kavach Version 4.0 will be implented on the Rewari-Delhi and […]",
+        "article": "Indian Railways has approved 206 crore rupees for Kavach Deployment on 680 route kilometres of Northern Railway to enhance safety and operational efficiency. The project aimed at expanding the indigenous safety system across high-density and strategically important routes. The Railway Ministry said, the provision of Kavach Version 4.0 will be implented on the Rewari-Delhi and Shakurbasti-Bathinda sections of Delhi Division. The system has been designed to significantly enhance railway safety by preventing Signal Passed at Danger incidents and train collisions. The Ministry said, the system continuously monitors train movements, automatically applies brakes whenever necessary, permits trains to operate safely at maximum permissible speeds. It also supports reliable train operations even during adverse weather conditions such as dense fog.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T10:52:13+00:00",
+        "link": "https://newsonair.gov.in/railways-approve-260-cr-for-kavach-deployment-to-enhance-safety-operational-efficiency/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Railways.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Modi reaches Auckland on a two-day visit to New Zealand",
         "summary": "Prime Minister Narendra Modi arrived in Auckland today on the final leg of his three-nation tour, where he received a warm ceremonial welcome from New Zealand Prime Minister Christopher Luxon. The two leaders shared a warm embrace as Prime Minister Luxon personally received Mr. Modi on the red carpet at Auckland Airport. Prime Minister Modi […]",
         "article": "Prime Minister Narendra Modi arrived in Auckland today on the final leg of his three-nation tour, where he received a warm ceremonial welcome from New Zealand Prime Minister Christopher Luxon. The two leaders shared a warm embrace as Prime Minister Luxon personally received Mr. Modi on the red carpet at Auckland Airport. Prime Minister Modi was accorded a ceremonial reception on the tarmac, with representatives of the Indian and New Zealand armed forces in attendance. Akashvani&#8217;s correspondent reports that Auckland is buzzing with excitement in wake of Prime Minister Narendra Modi’s visit. Along with the Indian diaspora, many New Zealand people are also eager to greet him with the traditional Māori welcome, “Kia Ora Modi&#8221;. Women, youth, business leaders, academics and community members see the visit as the beginning of a new chapter in India-New Zealand relations. They believe it will further strengthen cooperation in trade, education, investment, sports and cultural exchanges. Members of the Indian diaspora say that the visit of an Indian Prime Minister after nearly 40 years is a moment of pride and deep emotion for them. New Zealanders also see the visit as an opportunity to further strengthen the friendship and partnership between the two countries. The Indian community continues to serve as a living bridge between India and New Zealand. Prime Minister Modi’s visit is expected to add fresh momentum to bilateral ties while further strengthening the people-to-people connection between the two nations.",
@@ -323,28 +345,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-10T05:41:29+00:00",
         "link": "https://newsonair.gov.in/pm-modi-concludes-state-visit-to-australia/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM1-X4PaQAA_EKy.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi meets Australian Opposition Leader Angus Taylor in Melbourne",
-        "summary": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on",
-        "article": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on the growing strength of India-Australia ties and the many opportunities ahead. Mr Modi further said that he deeply values the warmth and broad support that India&#8217;s partnership enjoys across Australia. Akashvani&#8217;s correspondent reports that the meeting highlights the deep bipartisan support that the India-Australia relationship enjoys within the Australian parliament. Backing the strategic partnership, the Opposition Leader has called Prime Minister Narendra Modi &#8220;a true friend of our nation&#8221; and strongly advocates for strengthened ties to defend sovereignty and support Indo-Pacific stability. Aligning with key summit outcomes, Taylor supports the export of Australian uranium to India for peaceful purposes and backs collaborative technological efforts like the International Solar Alliance. This dialogue ensures continuous, rock-solid cooperation across critical security and energy frameworks, regardless of political transitions.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:39:58+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-meets-australian-opposition-leader-angus-taylor-in-melbourne/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-3.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Secure border, prosperous border region & vigilant society together can make country secure: HM Amit Shah",
-        "summary": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, […]",
-        "article": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, the government is creating a robust system to make the country completely infiltration-free. Mr Shah was addressing a conference of Superintendents of Police (SPs) from border districts in New Delhi yesterday. He noted that the Narendra Modi-led government has scientifically increased border infrastructure by four hundred percent. Mr. Shah said the government is fencing the over one thousand six hundred km-long India-Myanmar border at a cost of thirty-one thousand crore rupees. He stressed the importance of ensuring that information on demographic changes caused by abnormal factors in border areas is communicated from the grassroots to the highest level at the earliest. The Home Minister said the government&#8217;s objectives are to prevent proxy war, illegal infiltration, radicalisation, narcotics trafficking, drone-related threats, and demographic changes, among other security challenges, while making border areas safer and more livable. SPs from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal, and northeastern states, participated in the conference. Senior officials of the Home Ministry also attended. The conference aimed to strengthen the country&#8217;s border security framework by assessing the current situation in vulnerable frontier regions and identifying measures to improve enforcement. The conference took place against the backdrop of the Centre&#8217;s decision a few months ago to constitute a high-level committee to examine the extent of demographic changes taking place in different parts of the country and identify the factors responsible for them.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T03:50:11+00:00",
-        "link": "https://newsonair.gov.in/secure-border-prosperous-border-region-and-vigilant-society-together-can-make-country-secure-hm-amit-shah/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-18.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -362,6 +362,28 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "Next phase of Ayushman Bharat Digital Mission focuses on maximum adoption & utilization: J P Nadda",
+        "summary": "Union Health and Family Welfare Minister Jagat Prakash Nadda today chaired the 3rd Meeting of the Mission Steering Group to review the progress of the Ayushman Bharat Digital Mission (ABDM). During the meeting, it was noted that the Ayushman Bharat Digital Mission has emerged as one of the world&#8217;s largest digital health ecosystems, with […]",
+        "article": "Union Health and Family Welfare Minister Jagat Prakash Nadda today chaired the 3rd Meeting of the Mission Steering Group to review the progress of the Ayushman Bharat Digital Mission (ABDM). During the meeting, it was noted that the Ayushman Bharat Digital Mission has emerged as one of the world&#8217;s largest digital health ecosystems, with around 94 crore Ayushman Bharat Health Account numbers created and 105 crore health records linked. It also highlighted that 5.33 lakh health facilities and around ten lakh healthcare professionals have been registered on the national digital health registries. Addressing the meeting, Mr Nadda said that a robust digital healthcare infrastructure has been created under ABDM and the next phase must focus on maximising its adoption and utilization across the country. He said that technology must continue to serve as a powerful enabler for achieving Universal Health Coverage while ensuring inclusiveness, accessibility and ease of use for every citizen. Mr Nadda also underscored the transformative role of digital public infrastructure in improving access to quality healthcare, enhancing continuity of care and empowering citizens through secure and consent-based access to their health records. The meeting also deliberated on the future roadmap for the Mission with a focus on scaling up digital health adoption, leveraging emerging technologies including Artificial Intelligence, strengthening institutional capabilities and deepening collaboration with States and Union Territories.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T11:18:52+00:00",
+        "link": "https://newsonair.gov.in/next-phase-of-ayushman-bharat-digital-mission-focuses-on-maximum-adoption-utilization-j-p-nadda/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Ayush.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Railways approve 260 cr for Kavach deployment to enhance safety & operational efficiency",
+        "summary": "Indian Railways has approved 206 crore rupees for Kavach Deployment on 680 route kilometres of Northern Railway to enhance safety and operational efficiency. The project aimed at expanding the indigenous safety system across high-density and strategically important routes. The Railway Ministry said, the provision of Kavach Version 4.0 will be implented on the Rewari-Delhi and […]",
+        "article": "Indian Railways has approved 206 crore rupees for Kavach Deployment on 680 route kilometres of Northern Railway to enhance safety and operational efficiency. The project aimed at expanding the indigenous safety system across high-density and strategically important routes. The Railway Ministry said, the provision of Kavach Version 4.0 will be implented on the Rewari-Delhi and Shakurbasti-Bathinda sections of Delhi Division. The system has been designed to significantly enhance railway safety by preventing Signal Passed at Danger incidents and train collisions. The Ministry said, the system continuously monitors train movements, automatically applies brakes whenever necessary, permits trains to operate safely at maximum permissible speeds. It also supports reliable train operations even during adverse weather conditions such as dense fog.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T10:52:13+00:00",
+        "link": "https://newsonair.gov.in/railways-approve-260-cr-for-kavach-deployment-to-enhance-safety-operational-efficiency/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Railways.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Modi reaches Auckland on a two-day visit to New Zealand",
         "summary": "Prime Minister Narendra Modi arrived in Auckland today on the final leg of his three-nation tour, where he received a warm ceremonial welcome from New Zealand Prime Minister Christopher Luxon. The two leaders shared a warm embrace as Prime Minister Luxon personally received Mr. Modi on the red carpet at Auckland Airport. Prime Minister Modi […]",
         "article": "Prime Minister Narendra Modi arrived in Auckland today on the final leg of his three-nation tour, where he received a warm ceremonial welcome from New Zealand Prime Minister Christopher Luxon. The two leaders shared a warm embrace as Prime Minister Luxon personally received Mr. Modi on the red carpet at Auckland Airport. Prime Minister Modi was accorded a ceremonial reception on the tarmac, with representatives of the Indian and New Zealand armed forces in attendance. Akashvani&#8217;s correspondent reports that Auckland is buzzing with excitement in wake of Prime Minister Narendra Modi’s visit. Along with the Indian diaspora, many New Zealand people are also eager to greet him with the traditional Māori welcome, “Kia Ora Modi&#8221;. Women, youth, business leaders, academics and community members see the visit as the beginning of a new chapter in India-New Zealand relations. They believe it will further strengthen cooperation in trade, education, investment, sports and cultural exchanges. Members of the Indian diaspora say that the visit of an Indian Prime Minister after nearly 40 years is a moment of pride and deep emotion for them. New Zealanders also see the visit as an opportunity to further strengthen the friendship and partnership between the two countries. The Indian community continues to serve as a living bridge between India and New Zealand. Prime Minister Modi’s visit is expected to add fresh momentum to bilateral ties while further strengthening the people-to-people connection between the two nations.",
@@ -435,28 +457,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-10T05:41:29+00:00",
         "link": "https://newsonair.gov.in/pm-modi-concludes-state-visit-to-australia/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM1-X4PaQAA_EKy.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi meets Australian Opposition Leader Angus Taylor in Melbourne",
-        "summary": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on",
-        "article": "On the final day of his Australia visit, Prime Minister Narendra Modi met Australian Opposition Leader Angus Taylor in Melbourne today, reaffirming bipartisan support for stronger India-Australia ties across defence, trade, education, Indo-Pacific security, investment and people-to-people relations. In a social media post, Prime Minister Modi said that both leaders had an engaging conversation on the growing strength of India-Australia ties and the many opportunities ahead. Mr Modi further said that he deeply values the warmth and broad support that India&#8217;s partnership enjoys across Australia. Akashvani&#8217;s correspondent reports that the meeting highlights the deep bipartisan support that the India-Australia relationship enjoys within the Australian parliament. Backing the strategic partnership, the Opposition Leader has called Prime Minister Narendra Modi &#8220;a true friend of our nation&#8221; and strongly advocates for strengthened ties to defend sovereignty and support Indo-Pacific stability. Aligning with key summit outcomes, Taylor supports the export of Australian uranium to India for peaceful purposes and backs collaborative technological efforts like the International Solar Alliance. This dialogue ensures continuous, rock-solid cooperation across critical security and energy frameworks, regardless of political transitions.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:39:58+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-meets-australian-opposition-leader-angus-taylor-in-melbourne/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-3.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Secure border, prosperous border region & vigilant society together can make country secure: HM Amit Shah",
-        "summary": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, […]",
-        "article": "Union Home Minister Amit Shah has said that a secure border, a prosperous border region, and a vigilant society together can make the country secure. The Home Minister said, under the Vibrant Villages Programme, efforts are being made to prevent migration, create jobs, and ensure 100 percent implementation of government welfare schemes. He said, the government is creating a robust system to make the country completely infiltration-free. Mr Shah was addressing a conference of Superintendents of Police (SPs) from border districts in New Delhi yesterday. He noted that the Narendra Modi-led government has scientifically increased border infrastructure by four hundred percent. Mr. Shah said the government is fencing the over one thousand six hundred km-long India-Myanmar border at a cost of thirty-one thousand crore rupees. He stressed the importance of ensuring that information on demographic changes caused by abnormal factors in border areas is communicated from the grassroots to the highest level at the earliest. The Home Minister said the government&#8217;s objectives are to prevent proxy war, illegal infiltration, radicalisation, narcotics trafficking, drone-related threats, and demographic changes, among other security challenges, while making border areas safer and more livable. SPs from border states and Union Territories, including Jammu and Kashmir, Punjab, Uttarakhand, Rajasthan, Gujarat, Uttar Pradesh, Bihar, West Bengal, and northeastern states, participated in the conference. Senior officials of the Home Ministry also attended. The conference aimed to strengthen the country&#8217;s border security framework by assessing the current situation in vulnerable frontier regions and identifying measures to improve enforcement. The conference took place against the backdrop of the Centre&#8217;s decision a few months ago to constitute a high-level committee to examine the extent of demographic changes taking place in different parts of the country and identify the factors responsible for them.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T03:50:11+00:00",
-        "link": "https://newsonair.gov.in/secure-border-prosperous-border-region-and-vigilant-society-together-can-make-country-secure-hm-amit-shah/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-18.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -699,6 +699,28 @@ window.VM_NEWS = {
     ],
     "business": [
       {
+        "title": "SIP contributions increased by 2.7% in June compared to May",
+        "summary": "Inflows into Indian equity mutual funds accelerated over 26 per cent to 28,973 crore rupees in June, compared with 22,908 crore rupees in May. According to data released by the Association of Mutual Funds in India (AMFI), Systematic Investment Plan (SIP) contributions stood at 31,781 crore rupees in June, marking a 2.7 per cent increase […]",
+        "article": "Inflows into Indian equity mutual funds accelerated over 26 per cent to 28,973 crore rupees in June, compared with 22,908 crore rupees in May. According to data released by the Association of Mutual Funds in India (AMFI), Systematic Investment Plan (SIP) contributions stood at 31,781 crore rupees in June, marking a 2.7 per cent increase from May. Among the equity fund categories, Mid-cap funds attracted the highest inflows in june, garnering more than 6,000 crore rupees. They were followed by small-cap funds, flexi-cap funds, Multi-cap funds and large-cap funds. Meanwhile, the trend reversed in Gold Exchange Traded Funds (ETFs), which witnessed inflows of 3,443 crore rupees last month as compared with the outflows recorded in previous months. However, Debt funds continued to witness net outflows in June, with total withdrawals of around 1 lakh 9 thousand crore rupees.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T11:00:31+00:00",
+        "link": "https://newsonair.gov.in/sip-contributions-increased-by-2-7-in-june-compared-to-may/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/01/SIP-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Domestic markets end bit higher with 1% hike",
+        "summary": "Benchmark domestic equity indices ended over one per cent higher today. The Sensex rose 828 points to close at 77 thousand 569. The Nifty also climbed 244 points to settle at 24 thousand 207. In the broader market on the National Stock Exchange, the Midcap 100 index jumped 1.4 per cent while the Smallcap […]",
+        "article": "Benchmark domestic equity indices ended over one per cent higher today. The Sensex rose 828 points to close at 77 thousand 569. The Nifty also climbed 244 points to settle at 24 thousand 207. In the broader market on the National Stock Exchange, the Midcap 100 index jumped 1.4 per cent while the Smallcap 100 index surged over one and a half per cent.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T10:51:21+00:00",
+        "link": "https://newsonair.gov.in/domestic-markets-end-with-modest-gains-despite-positive-opening/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/SENSEX.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Govt waives basic customs duty on key components of electronic devices to promote domestic production",
         "summary": "The Government has waived the basic customs duty on goods used in the manufacturing of display assemblies, lithium-ion cells and inductor coil modules with an aim to promote domestic production of electronic devices like smartphones, laptops, wearables and smart TVs. The Ministry of Finance has issued three separate notifications giving effect to the basic […]",
         "article": "The Government has waived the basic customs duty on goods used in the manufacturing of display assemblies, lithium-ion cells and inductor coil modules with an aim to promote domestic production of electronic devices like smartphones, laptops, wearables and smart TVs. The Ministry of Finance has issued three separate notifications giving effect to the basic customs duty waiver on the goods used in manufacture of the three key components used in electronic devices. Electronics and IT Secretary S Krishnan said, the government&#8217;s move to waive basic customs duty on key components for electronics manufacturing will help deepen the value chain and the ecosystem.",
@@ -743,17 +765,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Domestic markets end with modest gains despite positive opening",
-        "summary": "Benchmark domestic equity indices ended with modest gains of over 0.3 per cent today. The Sensex rose 238 points to close at 76,742. The Nifty also added 81 points to settle at 23,963. In the broader market on the National Stock Exchange, the Midcap 100 index climbed 1.4 per cent while the Smallcap 100 […]",
-        "article": "Benchmark domestic equity indices ended with modest gains of over 0.3 per cent today. The Sensex rose 238 points to close at 76,742. The Nifty also added 81 points to settle at 23,963. In the broader market on the National Stock Exchange, the Midcap 100 index climbed 1.4 per cent while the Smallcap 100 index surged 1.8 per cent. Earlier, markets opened on a positive note and traded higher despite lingering geopolitical uncertainties. However, both indices pared their early gains in the final half hour of trade amid profit-booking. In the Sensex pack, 17 out of 30 companies registered gains. Among the top performers, Sun Pharma soared 2.7 per cent, Bharti Airtel as well as Bajaj Finserv, gained over 2.1 per cent and Indigo jumped two per cent. In contrast, Infosys shed 1.8 per cent, Maruti as well as NTPC dropped one and a half per cent, and Axis Bank lost one per cent. In the sectoral indices on the BSE, 22 out of the 25 sectors ended in the positive zone. Among the top gainers, Reality jumped 3.7 per cent, PSU Banks rose over 1.7 per cent, and Telecommunication added nearly 1.7 per cent. In contrast, Utilities dropped 0.3 per cent, IT fell a quater of a per cent and Auto dipped 0.1 per cent. The overall market breadth at the BSE was positive, as shares of 2 thousand 825 advanced, 1 thousand 424 companies declined, and 167 remained unchanged.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T10:51:21+00:00",
-        "link": "https://newsonair.gov.in/domestic-markets-end-with-modest-gains-despite-positive-opening/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/SENSEX.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "IMF says India to remain world’s fastest-growing major economy",
         "summary": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year […]",
         "article": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year to 6.4 per cent. The report said, the projected performance of Indian economy is supported by strong momentum in private consumption and services activity. India’s growth projections are more than twice the global numbers, as the report gave a 3 per cent projection for the world economy’s growth this year. The report presented a relatively positive outlook for the world economy growth, as it is expected to rise 3.4 per cent next year. China, which is the second fastest-growing economy, was projected to grow by 4.6 per cent this year and lose a half point, falling to 4.1 per cent next year. The US ranked third with a projected growth of 2.3 per cent this year and 2.2 per cent next year.",
@@ -783,17 +794,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T00:34:42+00:00",
         "link": "https://newsonair.gov.in/india-ensures-uninterrupted-lpg-supply-by-strengthening-domestic-production-effective-diplomacy-hardeep-puri/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Hardeep.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Domestic markets end in red despite opening on positive note",
-        "summary": "Benchmark domestic equity indices gave up their initial gains and ended on a negative note today. The Sensex dropped 104 points to close at 78 thousand 181. The Nifty dipped 32 points to settle at 24 thousand and 399. Both the indices dropped 0.13 per cent. In the broader market on the National Stock Exchange, […]",
-        "article": "Benchmark domestic equity indices gave up their initial gains and ended on a negative note today. The Sensex dropped 104 points to close at 78 thousand 181. The Nifty dipped 32 points to settle at 24 thousand and 399. Both the indices dropped 0.13 per cent. In the broader market on the National Stock Exchange, the Midcap 100 index fell 0.3 per cent while the Smallcap 100 index lost more than half a per cent. Earlier, markets opened on a positive note and traded with gains for most of the session. However, both indices lost momentum in the final hour of trade, weighed down by profit booking and weak global cues. In the Sensex pack, shares of 16 out of 30 companies registered losses. Among the top underperformers, Trent nosedived over 12.4 per cent, Adani Ports dropped 1.6 per cent, and Bharat Electronics Limited lost over one and a half per cent. Conversely, HCL Tech soared 3.1 per cent, Tech Mahindra as well as Infosys surged 2.8 per cent and Titan jumped 2.6 per cent. In the sectoral indices on the BSE, 20 out of 25 sectors ended in negative zone. Among the key laggards, Capital Goods shed over 1.7 per cent, Realty fell 1.6 per cent, and Industrials lost one and a half per cent. In contrast, Focused IT jumped more than 2.2 per cent, IT rose 2.1 per cent, and Consumer Durables added over 0.6 per cent. The overall market breadth at the BSE was negative, as shares of 2 thousand 633 declined, 1 thousand 599 companies advanced, and 165 remained unchanged.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T12:52:33+00:00",
-        "link": "https://newsonair.gov.in/domestic-markets-end-in-red-despite-opening-on-positive-note/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/sen.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1026,14 +1026,91 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "रेलवे ने छत्तीसगढ़ में 250 इलेक्ट्रिक लोकोमोटिव के लिए अतिरिक्त प्राथमिक रखरखाव केंद्र बनाने के लिए 175 करोड़ रुपये किए मंज़ूर",
+        "summary": "रेलवे ने छत्तीसगढ़ के रायपुर में 250 इलेक्ट्रिक लोकोमोटिव के लिए अतिरिक्त प्राथमिक रखरखाव केंद्र बनाने के लिए 175 करोड़ रुपये मंज़ूर किए हैं। प्राथमिक केंद्र लोकोमोटिव के तय समय पर होने वाले सुरक्षा जाँच, मरम्मत और देखभाल के लिए ज़िम्मेदार होता है। रेल मंत्रालय के अनुसार यह परियोजना भारतीय रेल के विद्युत इंजन बेड़े […]",
+        "article": "रेलवे ने छत्तीसगढ़ के रायपुर में 250 इलेक्ट्रिक लोकोमोटिव के लिए अतिरिक्त प्राथमिक रखरखाव केंद्र बनाने के लिए 175 करोड़ रुपये मंज़ूर किए हैं। प्राथमिक केंद्र लोकोमोटिव के तय समय पर होने वाले सुरक्षा जाँच, मरम्मत और देखभाल के लिए ज़िम्मेदार होता है। रेल मंत्रालय के अनुसार यह परियोजना भारतीय रेल के विद्युत इंजन बेड़े के तेजी से हो रहे विस्तार और पूरे नेटवर्क पर माल ढुलाई और यात्री परिचालन बढ़ोतरी को ध्यान में रखते हुए बुनियादी ढांचे को बेहतर बनाने के प्रयासों का हिस्सा है। अतिरिक्त प्राथमिक केंद्रों से रेलवे मौजूदा बुनियादी ढाँचे का बेहतर इस्तेमाल कर पाएगा और साथ ही रायपुर मंडल भविष्य में तकनीकी विस्तार के लिए महत्वपूर्ण स्थान बन पाएगा।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T10:44:55+00:00",
+        "link": "https://newsonair.gov.in/hi/railways-sanctions-%e2%82%b9175-crore-to-set-up-additional-primary-maintenance-centres-for-250-electric-locomotives-in-chhattisgarh/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने ऑस्ट्रेलिया से तमिलनाडु की अमूल्य पुरावशेषों की सफल वापसी पर प्रसन्नता व्यक्त की",
+        "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने ऑस्ट्रेलिया से तमिलनाडु की अमूल्य पुरावशेषों की सफल वापसी पर प्रसन्नता व्यक्त की है। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने कहा कि पुरावशेषों की वापसी भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करने की दिशा में महत्वपूर्ण उपलब्धि है। श्री राधाकृष्णन ने सांस्कृतिक धरोहरों को देश में वापस लाने के लिए […]",
+        "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने ऑस्ट्रेलिया से तमिलनाडु की अमूल्य पुरावशेषों की सफल वापसी पर प्रसन्नता व्यक्त की है। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने कहा कि पुरावशेषों की वापसी भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करने की दिशा में महत्वपूर्ण उपलब्धि है। श्री राधाकृष्णन ने सांस्कृतिक धरोहरों को देश में वापस लाने के लिए सरकार के प्रयासों की सराहना की। उन्होंने कहा कि पुरावशेषों की वापसी में उल्लेखनीय प्रगति हुई है और 2014 से अब तक 600 से अधिक कलाकृतियां भारत लौट चुकी हैं। उपराष्ट्रपति ने कहा कि पुरातत्व अवशेषों की वापसी भारत के विकास भी, विरासत भी के प्रति दृढ़ प्रतिबद्धता को दर्शाती है।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T10:42:35+00:00",
+        "link": "https://newsonair.gov.in/hi/vice-president-c-p-radhakrishnan-expressed-happiness-over-the-successful-return-of-tamil-nadus-priceless-antiquities-from-australia/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने आयुष्मान भारत डिजिटल मिशन की समीक्षा के लिए बैठक की",
+        "summary": "स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने आज आयुष्मान भारत डिजिटल मिशन की प्रगति की समीक्षा के लिए मिशन संचालन समूह की तीसरी बैठक की अध्यक्षता की। बैठक में बताया गया कि आयुष्मान भारत डिजिटल मिशन विश्व के सबसे बड़े डिजिटल स्वास्थ्य पारिस्थितिकी तंत्रों में से एक के रूप में उभरा है। इसमें […]",
+        "article": "स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने आज आयुष्मान भारत डिजिटल मिशन की प्रगति की समीक्षा के लिए मिशन संचालन समूह की तीसरी बैठक की अध्यक्षता की। बैठक में बताया गया कि आयुष्मान भारत डिजिटल मिशन विश्व के सबसे बड़े डिजिटल स्वास्थ्य पारिस्थितिकी तंत्रों में से एक के रूप में उभरा है। इसमें लगभग 94 करोड़ आयुष्मान भारत स्वास्थ्य खाता संख्याएँ बनाई गई हैं और 105 करोड़ स्वास्थ्य रिकॉर्ड लिंक किए गए हैं। इसमें यह भी बताया गया कि 53 लाख स्वास्थ्य सुविधाएं और लगभग 10 लाख स्वास्थ्य पेशेवर राष्ट्रीय डिजिटल स्वास्थ्य रजिस्टरों पर पंजीकृत हैं। बैठक को संबोधित करते हुए श्री नड्डा ने कहा कि मिशन के तहत एक मजबूत डिजिटल स्वास्थ्य सेवा बुनियादी ढांचा का निर्माण किया गया है और अगले चरण में इसके अधिकतम उपयोग पर ध्यान केंद्रित किया जाना चाहिए। उन्होंने कहा कि सार्वभौमिक स्वास्थ्य कवरेज प्राप्त करने के लिए प्रौद्योगिकी एक शक्तिशाली साधन के रूप में कार्य करती रहनी चाहिए, साथ ही प्रत्येक नागरिक के लिए समावेशिता, पहुंच और उपयोग में आसानी सुनिश्चित करनी चाहिए। श्री नड्डा ने गुणवत्तापूर्ण स्वास्थ्य सेवा तक पहुंच में सुधार लाने, देखभाल की निरंतरता को बढ़ाने और नागरिकों को उनके स्वास्थ्य रिकॉर्ड तक सुरक्षित और सहमति-आधारित पहुंच प्रदान करके सशक्त बनाने में डिजिटल सार्वजनिक अवसंरचना की परिवर्तनकारी भूमिका पर भी जोर दिया। बैठक में मिशन के भविष्य के रोडमैप पर भी विचार-विमर्श किया गया, जिसमें डिजिटल स्वास्थ्य को अपनाने को बढ़ावा देना, एआई सहित उभरती प्रौद्योगिकियों का लाभ उठाना, संस्थागत क्षमताओं को मजबूत करना और राज्यों और केंद्र शासित प्रदेशों के साथ सहयोग को गहरा करना शामिल था।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T10:40:50+00:00",
+        "link": "https://newsonair.gov.in/hi/health-and-family-welfare-minister-jagat-prakash-nadda-held-a-meeting-to-review-the-ayushman-bharat-digital-mission/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी अपने तीन देशों के दौरे के अंतिम चरण में न्यूजीलैंड के ऑकलैंड पहुंचे",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी अपने तीन देशों के दौरे के अंतिम चरण में आज न्यूजीलैंड के ऑकलैंड पहुंचे। हवाई अड्डे पर प्रधानमंत्री लक्सन ने श्री मोदी का स्वागत किया और दोनों नेताओं ने एक-दूसरे को गले लगाया। हवाई अड्डे के रनवे पर भी प्रधानमंत्री मोदी का औपचारिक स्वागत किया गया, जिसमें भारतीय और न्यूजीलैंड सशस्त्र बलों […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी अपने तीन देशों के दौरे के अंतिम चरण में आज न्यूजीलैंड के ऑकलैंड पहुंचे। हवाई अड्डे पर प्रधानमंत्री लक्सन ने श्री मोदी का स्वागत किया और दोनों नेताओं ने एक-दूसरे को गले लगाया। हवाई अड्डे के रनवे पर भी प्रधानमंत्री मोदी का औपचारिक स्वागत किया गया, जिसमें भारतीय और न्यूजीलैंड सशस्त्र बलों के प्रतिनिधि उपस्थित थे।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T10:23:04+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-arrived-in-auckland-new-zealand-on-the-final-leg-of-his-three-nation-tour/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री नरेंद्र मोदी पहुंचे न्यूज़ीलैंड, न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने किया स्वागत",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी न्यूज़ीलैंड पहुंचे, न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने किया पीएम मोदी का स्वागत। 4 दशक बाद किसी भारतीय पीएम की यह पहली न्यूज़ीलैंड यात्रा है। प्रधानमंत्री नरेन्‍द्र मोदी ने ऑस्‍ट्रेलिया की अपनी एतिहासिक और महत्‍वपूर्ण राजकीय यात्रा आधिकारिक रूप से संपन्‍न कर ली है। इस यात्रा ने भारत-ऑस्‍ट्रेलिया व्‍यापक रणनीतिक साझेदारी को […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी न्यूज़ीलैंड पहुंचे, न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने किया पीएम मोदी का स्वागत। 4 दशक बाद किसी भारतीय पीएम की यह पहली न्यूज़ीलैंड यात्रा है। प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने ऑस्&#x200d;ट्रेलिया की अपनी एतिहासिक और महत्&#x200d;वपूर्ण राजकीय यात्रा आधिकारिक रूप से संपन्&#x200d;न कर ली है। इस यात्रा ने भारत-ऑस्&#x200d;ट्रेलिया व्&#x200d;यापक रणनीतिक साझेदारी को भविष्&#x200d;य के अनुरुप एक नई दिशा और मजबूत आधार प्रदान किया है। यात्रा के दौरान दोनों देशों के बीच कूटनीतिक, आर्थिक और सुरक्षा संबंध नई उंचाईयों पर पहुंचे। यात्रा की शुरूआत भारत-ऑस्&#x200d;ट्रेलिया मुख्&#x200d;य कार्यकारी मंच से हुई, जहां कारोबार जगत के प्रमुखों ने वर्ष 2022 के आर्थिक सहयोग और व्&#x200d;यापार समझौते से द्विपक्षीय व्&#x200d;यापार में 55 प्रतिशत की वृद्धि का स्&#x200d;वागत किया। इस गति को आगे बढ़ाने के लिए प्रधानमंत्री मोदी और ऑस्&#x200d;ट्रेलिया के प्रधानमंत्री एंथनी एल्&#x200d;बनीज ने व्&#x200d;यापक आर्थिक सहयोग समझौते पर वार्ता में तेजी लाने पर सहमति व्&#x200d;यक्&#x200d;त की। स्&#x200d;वच्&#x200d;छ ऊर्जा के क्षेत्र में भी दोनों देशों ने ऐतिहासिक उपलब्धि हासिल की। भारत को ऑस्&#x200d;ट्रेलिया से दीर्घकालिक यूरेनियम आ&#x200d;पूर्ति सुनिश्चित करने के लिए प्रशासनिक व्&#x200d;यवस्&#x200d;था को अंतिम रूप दिया गया। स्&#x200d;वतंत्र और मुक्&#x200d;त हिन्&#x200d;द प्रशांत क्षेत्र के लिए दोनों देशों ने रक्षा और सुरक्षा सहयोग पर संयुक्&#x200d;त घोषणा पत्र तथा समुद्री सुरक्षा सहयोग प्रारूप स्&#x200d;वीकार किया। यात्रा का सबसे प्रभावशाली जनसंपर्क कार्यक्रम मेलबर्न के मार्वल स्&#x200d;टेडियम में आयोजित मेलबर्न मीट्स मोदी प्रवासी भारतीय सम्&#x200d;मेलन रहा, जिसमें लगभग 25 हजार लोग उपस्थित थे। प्रधानमंत्री मोदी ने लगभग 10 लाख भारतीय मूल के ऑस्&#x200d;ट्रेलियाई लोगों को दोनों देशों के बीच जीवंत सेतु बताया। प्रधानमंत्री एंथनी एल्&#x200d;बनीज ने भी भारतीय समुदाय सराहना करते हुए कहा कि ये बहु-सांस्&#x200d;कृतिक शक्ति ऑस्&#x200d;ट्रेलिया की समृद्धि में महत्&#x200d;वपूर्ण योगदान दे रही है। प्रधानमंत्री मोदी ने ऑस्&#x200d;ट्रेलिया में विपक्ष के नेता एंगस टेलर से भी मुलाकात की। श्री टेलर ने प्रधानमंत्री मोदी को ऑस्ट्रेलिया का सच्&#x200d;चा मित्र बताते हुए अंतर्राष्&#x200d;ट्रीय सौर गठबंधन और शांतिपूर्ण उद्देश्&#x200d;यों के लिए यूरेनियम निर्यात जैसी पहलों का समर्थन किया। यात्रा का समापन प्रतिष्ठित मेलबर्न क्रिकेट मैदान में खेल कूटनीति के ऐतिहासिक कार्यक्रम के साथ हुआ। दोनों नेताओं ने भारत-ऑस्&#x200d;ट्रेलिया खेल सहयोग प्रारूप जारी किया जिससे खेल विज्ञान और खेल अवसंरचना के क्षेत्र में सहयोग को नई गति मिलेगी। ये पहल ऐसे समय में शुरू की गई है जब भारत 2030 के राष्&#x200d;ट्रमंडल खेलों की तैयारी मे जुटा है और ऑस्&#x200d;ट्र&#x200d;ेलिया 2032 के ब्रिसबेन ओलम्पिक की बेजबानी की तैयारी कर रहा है। इस अवसर पर क्रिकेट जगत के लिए भी महत्&#x200d;वपूर्ण घोषणा की गई। ऑस्&#x200d;ट्रेलिया की पुरूष बिग बैश लीग का उद्घाटन मैच इस वर्ष दिसंबर चेन्&#x200d;नई में आयोजित होगा।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T09:05:53+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-arrives-in-new-zealand/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "मौसम विभाग ने देश के कई हिस्सों में अगले दो दिन तक मूसलाधार बारिश का अनुमान व्‍यक्‍त किया",
+        "summary": "मौसम विभाग ने उत्तराखंड में आज मूसलाधार वर्षा और कुछ स्थानों पर अत्यधिक तेज बारिश का अनुमान व्‍यक्‍त किया है। अगले दो दिन तक हरियाणा, हिमाचल प्रदेश, उत्तर प्रदेश, बिहार, उप-हिमालयी पश्चिम बंगाल, सिक्किम और उत्तर-पूर्वी भारत के उत्तरी भागों में मूसलाधार बारिश होने की संभावना है। इस बीच, राष्ट्रीय राजधानी दिल्‍ली में कुछ […]",
+        "article": "मौसम विभाग ने उत्तराखंड में आज मूसलाधार वर्षा और कुछ स्थानों पर अत्यधिक तेज बारिश का अनुमान व्&#x200d;यक्&#x200d;त किया है। अगले दो दिन तक हरियाणा, हिमाचल प्रदेश, उत्तर प्रदेश, बिहार, उप-हिमालयी पश्चिम बंगाल, सिक्किम और उत्तर-पूर्वी भारत के उत्तरी भागों में मूसलाधार बारिश होने की संभावना है। इस बीच, राष्ट्रीय राजधानी दिल्&#x200d;ली में कुछ जगह आज तड़के हल्की बारिश हुई। आकाशवाणी से बात करते हुए, मौसम विभाग के वैज्ञानिक डॉ. शशि कांत ने बताया कि दिल्ली और आसपास के क्षेत्र में आज और कल कोई चेतावनी नहीं है।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:45:39+00:00",
+        "link": "https://newsonair.gov.in/hi/the-meteorological-department-has-forecast-torrential-rain-in-several-parts-of-the-country-over-the-next-two-days/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्र सरकार ने उच्च अल्कोहल मात्रा वाली औषधियों के नियमन को और सख्त करने के लिए नियम में संशोधन किया",
+        "summary": "केंद्र सरकार ने उच्च अल्कोहल मात्रा वाली औषधियों के नियमन को और सख्त करने के लिए औषधि नियम, 1945 में संशोधन किया है। स्वास्थ्य और परिवार कल्याण मंत्रालय ने इथाएल अल्कोहल युक्त औषधियों के लिए अनुसूची-के के तहत लाइसेंस अनिवार्यता से मिली मौजूदा छूट समाप्त कर दी है। मंत्रालय की अधिसूचना के अनुसार, 30 मिलीलीटर […]",
+        "article": "केंद्र सरकार ने उच्च अल्कोहल मात्रा वाली औषधियों के नियमन को और सख्त करने के लिए औषधि नियम, 1945 में संशोधन किया है। स्वास्थ्य और परिवार कल्याण मंत्रालय ने इथाएल अल्कोहल युक्त औषधियों के लिए अनुसूची-के के तहत लाइसेंस अनिवार्यता से मिली मौजूदा छूट समाप्त कर दी है। मंत्रालय की अधिसूचना के अनुसार, 30 मिलीलीटर से अधिक मात्रा में 12 प्रतिशत से अधिक इथाएल अल्कोहल वाली सभी औषधियों को अब छूट प्रदान नहीं की जाएगी। ऐसी औषधियों को औषधि और कॉस्&#x200d;मेटिक अधिनियम 1940 के अंतर्गत आवश्&#x200d;यक लाइसेंस प्राप्&#x200d;त करना होगा। अब तक इलायची, अदरक और अन्य सुगंधित औषधियों के टिंचर जैसे कुछ औषधीय उत्पादों को औषधि नियम, 1945 की अनुसूची-के के तहत लाइसेंस लेने से छूट प्राप्त थी। इनमें से कुछ औषधियों में इथाएल अल्कोहल की मात्रा काफी अधिक 80 से 90 प्रतिशत तक होती है, जिससे इनके नशे के लिए दुरुपयोग की आशंका रहती थी। इस संशोधन से अल्कोहल युक्त औषधीय उत्पादों पर नियामक निगरानी और मजबूत होने की उम्&#x200d;मीद है। इससे इनकी आपूर्ति केवल अधिकृत दवा आपूर्ति श्रृंखला के माध्यम से सुनिश्चित की जा सकेगी। साथ ही, दुरुपयोग और अवैध इस्तेमाल की संभावना कम होगी तथा वैध चिकित्सीय उपयोग के लिए इनकी उपलब्धता भी बनी रहेगी।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:43:57+00:00",
+        "link": "https://newsonair.gov.in/hi/the-central-government-has-amended-the-rules-to-further-tighten-the-regulation-of-medicines-with-high-alcohol-content/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "प्रधानमंत्री मोदी ने अपनी ऑस्ट्रेलिया यात्रा को लेकर ऑस्ट्रेलिया सरकार और वहां की जनता का आभार व्यक्त किया",
         "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने अपनी ऑस्ट्रेलिया यात्रा के दौरान मिले भव्‍य स्‍वागत और आतिथ्य के लिए ऑस्ट्रेलिया सरकार और वहां की जनता के साथ-साथ ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ का आभार व्यक्त किया है। ऑस्ट्रेलिया यात्रा के समापन पर सोशल मीडिया पर श्री मोदी ने कहा कि इस यात्रा के परिणामों ने भारत-ऑस्ट्रेलिया साझेदारी को और […]",
         "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने अपनी ऑस्ट्रेलिया यात्रा के दौरान मिले भव्&#x200d;य स्&#x200d;वागत और आतिथ्य के लिए ऑस्ट्रेलिया सरकार और वहां की जनता के साथ-साथ ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ का आभार व्यक्त किया है। ऑस्ट्रेलिया यात्रा के समापन पर सोशल मीडिया पर श्री मोदी ने कहा कि इस यात्रा के परिणामों ने भारत-ऑस्ट्रेलिया साझेदारी को और मजबूत किया है और विभिन्न क्षेत्रों में सहयोग के नए रास्ते खोले हैं। उन्होंने विश्वास व्यक्त किया कि इस यात्रा से मिली गति दोनों देशों के लिए लाभकारी होगी और वैश्विक समुदाय में सकारात्मक योगदान देगी।",
         "date": "2026-07-10",
         "pubDate": "2026-07-10T08:36:19+00:00",
         "link": "https://newsonair.gov.in/hi/prime-minister-modi-expressed-his-gratitude-to-the-australian-government-and-the-people-of-australia-for-his-visit-to-the-country/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM1iY0CbQAAEOL9.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1043,131 +1120,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T08:35:00+00:00",
         "link": "https://newsonair.gov.in/hi/india-strongly-condemned-conflict-related-sexual-violence/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-10-070515-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत",
-        "summary": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत हो चुकी है और छह लोग घायल हो गए हैं। स्पेन की सैन्य आपातकालीन इकाई, आने वाले घंटों में आग बुझाने के प्रयासों में शामिल होने हसो सकती है। आग से सड़कें भी बंद हो गईं और […]",
-        "article": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत हो चुकी है और छह लोग घायल हो गए हैं। स्पेन की सैन्य आपातकालीन इकाई, आने वाले घंटों में आग बुझाने के प्रयासों में शामिल होने हसो सकती है। आग से सड़कें भी बंद हो गईं और एक हजार से अधिक लोगों को सुरक्षित स्थानों पर पहुंचाया गया। अधिकारियों ने कहा कि यह आग अब तक इस क्षेत्र में लगी सबसे घातक आग है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:20:56+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a5%87%e0%a4%a8-%e0%a4%95%e0%a5%87-%e0%a4%a6%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a3%e0%a5%80-%e0%a4%ad%e0%a4%be%e0%a4%97-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%ad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM2i8CvbQAAgtlX.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीका के राष्ट्रपति डॉनल्‍ड ट्रंप और इस्राएल के प्रधानमंत्री बेन्‍यामिन नेतन्याहू के बीच बातचीत",
-        "summary": "अमरीका के राष्ट्रपति डॉनल्‍ड ट्रंप ने ईरान में हाल में हमलों के बाद इस्राएल के प्रधानमंत्री बेन्‍यामिन नेतन्याहू को खाड़ी क्षेत्र में अमरीकी सेना की नई गतिविधियों के बारे में जानकारी दी है। इस्राएल के प्रधानमंत्री कार्यालय के अनुसार, दोनों नेताओं ने कल रात फोन पर बातचीत की और अमरीका और इस्राएल के बीच विभिन्‍न […]",
-        "article": "अमरीका के राष्ट्रपति डॉनल्&#x200d;ड ट्रंप ने ईरान में हाल में हमलों के बाद इस्राएल के प्रधानमंत्री बेन्&#x200d;यामिन नेतन्याहू को खाड़ी क्षेत्र में अमरीकी सेना की नई गतिविधियों के बारे में जानकारी दी है। इस्राएल के प्रधानमंत्री कार्यालय के अनुसार, दोनों नेताओं ने कल रात फोन पर बातचीत की और अमरीका और इस्राएल के बीच विभिन्&#x200d;न क्षेत्रों में तालमेल बनाए रखने पर सहमति व्&#x200d;यक्&#x200d;त की। इस बीच, ईरान के इस्लामिक रिवोल्यूशनरी गार्ड ने कल दावा किया कि उसने उत्तरी जॉर्डन में अमरीका के अल-अज़राक सैन्&#x200d;य हवाई अड्डे पर दस बैलिस्टिक मिसाइलें दागीं। उसने कहा कि यह हमला तेहरान पर हाल ही में हुए अमरीकी हमले के जवाब में किया गया था। उसने चेतावनी दी कि अमरीका की ओर से किसी भी सैन्य कार्रवाई किए जाने पर जवाब में क्षेत्र में अमरीकी ठिकानों पर और हमले किए जाएंगे।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:12:09+00:00",
-        "link": "https://newsonair.gov.in/hi/talks-between-us-president-donald-trump-and-israeli-prime-minister-benjamin-netanyahu/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "फलस्तीन: राष्ट्रपति महमूद अब्बास ने विधायी चुनाव की घोषणा की",
-        "summary": "फलस्तीन के राष्ट्रपति महमूद अब्बास ने इस वर्ष नवंबर के आखिर में विधायी चुनाव कराने की घोषणा की है। वर्ष 2006 के बाद यह पहला विधायी चुनाव होगा। राष्ट्रपति अब्बास ने 28 नवंबर को यरूशलेम, वेस्ट बैंक और गजा पट्टी समेत सभी फलस्तीन क्षेत्रों में मतदान कराने का आदेश जारी किया है। आदेश में कहा […]",
-        "article": "फलस्तीन के राष्ट्रपति महमूद अब्बास ने इस वर्ष नवंबर के आखिर में विधायी चुनाव कराने की घोषणा की है। वर्ष 2006 के बाद यह पहला विधायी चुनाव होगा। राष्ट्रपति अब्बास ने 28 नवंबर को यरूशलेम, वेस्ट बैंक और गजा पट्टी समेत सभी फलस्तीन क्षेत्रों में मतदान कराने का आदेश जारी किया है। आदेश में कहा गया है कि चुनाव का उद्देश्य फलस्तीन में लोकतांत्रिक प्रक्रिया को मजबूत करना और चुनावी प्रक्रिया को आगे बढ़ाना है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:38:04+00:00",
-        "link": "https://newsonair.gov.in/hi/palestine-president-mahmoud-abbas-announces-legislative-elections/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ताइवान के राष्ट्रीय रक्षा मंत्रालय ने कहा कि उसके सशस्त्र बल चीन की गतिविधियों पर नजर रखे हुए हैं",
-        "summary": "ताइवान के राष्ट्रीय रक्षा मंत्रालय ने आज द्वीप के आसपास चीन पीपुल्स लिबरेशन आर्मी &#8211; पीएलए के दो विमान, पीएलए नौसेना के पांच पोत और तीन आधिकारिक चीन के जहाजों का पता लगाया। सोशल मीडिया पर मंत्रालय ने कहा कि उसके सशस्त्र बल चीन की गतिविधियों पर नजर रखे हुए हैं। इससे पूर्व भी मंत्रालय […]",
-        "article": "ताइवान के राष्ट्रीय रक्षा मंत्रालय ने आज द्वीप के आसपास चीन पीपुल्स लिबरेशन आर्मी &#8211; पीएलए के दो विमान, पीएलए नौसेना के पांच पोत और तीन आधिकारिक चीन के जहाजों का पता लगाया। सोशल मीडिया पर मंत्रालय ने कहा कि उसके सशस्त्र बल चीन की गतिविधियों पर नजर रखे हुए हैं। इससे पूर्व भी मंत्रालय ने ताइवान के आसपास पीएलए के चार विमान, 9 नौसैनिक पोत और तीन आधिकारिक जहाजों का पता लगाया था। चार विमानों में से तीन ने ताइवान जलडमरूमध्य की मध्य रेखा को पार किया और ताइवान के दक्षिण-पश्चिमी वायु रक्षा पहचान क्षेत्र में प्रवेश किया।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:26:56+00:00",
-        "link": "https://newsonair.gov.in/hi/taiwans-ministry-of-national-defense-stated-that-its-armed-forces-are-monitoring-chinas-activities/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ईरान के पूर्व सर्वोच्च नेता अयातुल्ला अली खामेनेई को मशहद स्थित इमाम रजा दरगाह में दी गई अंतिम विदाई",
-        "summary": "ईरान के पूर्व सर्वोच्च नेता अयातुल्ला अली खामेनेई को मशहद स्थित इमाम रजा दरगाह में अंतिम विदाई दी गई। हजारों समर्थक उनके अंतिम दर्शन के लिए एकत्रित हुए। ईरानी मीडिया ने बताया कि उनके सबसे बड़े बेटे, सैयद मुस्तफा खामेनेई ने अंतिम संस्कार की रस्में पूरी कीं। इस वर्ष 28 फरवरी को अमरीका-इजरायल के हमलों […]",
-        "article": "ईरान के पूर्व सर्वोच्च नेता अयातुल्ला अली खामेनेई को मशहद स्थित इमाम रजा दरगाह में अंतिम विदाई दी गई। हजारों समर्थक उनके अंतिम दर्शन के लिए एकत्रित हुए। ईरानी मीडिया ने बताया कि उनके सबसे बड़े बेटे, सैयद मुस्तफा खामेनेई ने अंतिम संस्कार की रस्में पूरी कीं। इस वर्ष 28 फरवरी को अमरीका-इजरायल के हमलों में अयातुल्ला अली खामेनेई की हत्या कर दी गई थी, जिसके बाद पश्चिम एशिया क्षेत्र में संघर्ष तेज हो गया था। खामेनेई की मृत्यु के बाद उनके बेटे मोजतबा खामेनेई को इस्लामी गणराज्य का नया सर्वोच्च नेता चुना गया।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:49:30+00:00",
-        "link": "https://newsonair.gov.in/hi/the-final-farewell-paid-to-irans-former-supreme-leader-ayatollah-ali-khamenei-at-the-imam-reza-shrine-in-mashhad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/x47s7VHm.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "न्यूजीलैंड में आशा, स्मरण और नई शुरुआत का समय, माओरी नववर्ष मातारिकी मनाया जा रहा",
-        "summary": "न्यूजीलैंड में आशा, स्मरण और नई शुरुआत का समय, माओरी नववर्ष मातारिकी मनाया जा रहा है। इस शुभ अवसर पर, प्रधानमंत्री नरेंद्र मोदी न्यूजीलैंड की अपनी ऐतिहासिक दो दिन की यात्रा शुरू कर रहे हैं, जो लगभग चार दशकों में किसी भारतीय प्रधानमंत्री की पहली यात्रा है। इन दो घटनाओं के संयोग ने यात्रा को […]",
-        "article": "न्यूजीलैंड में आशा, स्मरण और नई शुरुआत का समय, माओरी नववर्ष मातारिकी मनाया जा रहा है। इस शुभ अवसर पर, प्रधानमंत्री नरेंद्र मोदी न्यूजीलैंड की अपनी ऐतिहासिक दो दिन की यात्रा शुरू कर रहे हैं, जो लगभग चार दशकों में किसी भारतीय प्रधानमंत्री की पहली यात्रा है। इन दो घटनाओं के संयोग ने यात्रा को विशेष महत्व दिया है, और कई लोग इसे भारत और न्यूजीलैंड के बीच साझा सांस्कृतिक मूल्यों और आपसी सम्मान पर आधारित मित्रता के बंधन को मजबूत करने के अवसर के रूप में देख रहे हैं। ऐसे समय में जब न्यूजीलैंड में नवीनीकरण का त्योहार मनाया जा रहा है, भारत के प्रधानमंत्री का दौरा एक ऐतिहासिक राजनयिक मील का पत्&#x200d;थर साबित हो रहा है। मातारिकी महोत्&#x200d;सव के समय में प्रधानमंत्री नरेंद्र मोदी की यात्रा का यह संयोग दोनों नेताओं की मुलाकात के साथ-साथ संस्कृतियों, परंपराओं और साझा आकांक्षाओं संगम को भी दर्शाता है। यह मुलाकात दोनों देशों के बीच साझेदारी के एक नये अध्याय की शुरूआत करेगी।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:48:35+00:00",
-        "link": "https://newsonair.gov.in/hi/matariki-the-maori-new-year-a-time-of-hope-remembrance-and-new-beginnings-is-being-celebrated-in-new-zealand/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR5-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "मशहूर वेल्श गायिका और गीतकार बोनी टायलर का निधन",
-        "summary": "मशहूर वेल्श गायिका और गीतकार बोनी टायलर का कल पुर्तगाल के एक अस्पताल में निधन हो गया। वह 75 वर्ष की थीं। टायलर के परिवार ने उनके निधन की पुष्टि की और बताया कि इस वर्ष मई में हुई उनकी आंत की सर्जरी के बाद उनका इलाज चल रहा था। बोनी टायलर का मूल नाम […]",
-        "article": "मशहूर वेल्श गायिका और गीतकार बोनी टायलर का कल पुर्तगाल के एक अस्पताल में निधन हो गया। वह 75 वर्ष की थीं। टायलर के परिवार ने उनके निधन की पुष्टि की और बताया कि इस वर्ष मई में हुई उनकी आंत की सर्जरी के बाद उनका इलाज चल रहा था। बोनी टायलर का मूल नाम गेनर सुलिवन था। उन्होंने संगीत जगत को कई सुपरहिट गाने दिए, जिनमें इट्स अ हार्टेक और होल्डिंग आउट फॉर अ हीरो काफी लोकप्रिय हुए। 80 के दशक में आया उनका लोकप्रिय गीत टोटल एक्लिप्स ऑफ द हार्ट ब्लॉकबस्टर साबित हुआ था। उनके करियर के तीन ग्रैमी नॉमिनेशन में से एक बार वह इसी गाने के लिए चुनी गई थीं। संगीत में योगदान के लिए टायलर को वर्ष 2022 में ऑर्डर ऑफ द ब्रिटिश एम्पायर के सदस्य के रूप में भी सम्मानित किया गया था।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:44:20+00:00",
-        "link": "https://newsonair.gov.in/hi/famous-welsh-singer-and-songwriter-bonnie-tyler-passed-away-yesterday-at-a-hospital-in-portugal/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM1PVw3bEAASGlS.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर",
-        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कुवैत की यात्रा पूरी करने के बाद ओमान पहुंच गए हैं। उनके आगमन पर ओमान के विदेश मंत्रालय के महानिदेशक शेख अहमद अल मस्कारी ने उनका स्वागत किया। डॉ. जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर हैं। ओमान यात्रा पूरी करने के बाद, […]",
-        "article": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कुवैत की यात्रा पूरी करने के बाद ओमान पहुंच गए हैं। उनके आगमन पर ओमान के विदेश मंत्रालय के महानिदेशक शेख अहमद अल मस्कारी ने उनका स्वागत किया। डॉ. जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर हैं। ओमान यात्रा पूरी करने के बाद, वे न्यूयॉर्क में संयुक्त राष्ट्र सुरक्षा परिषद के 2028-29 कार्यकाल के लिए भारत के आधिकारिक अभियान की शुरुआत करेंगे। इसके बाद विदेश मंत्री 14 और 15 जुलाई को ब्रुसेल्स में तीसरे भारत-यूरोपीय संघ व्यापार और प्रौद्योगिकी परिषद की बैठक में शामिल होंगे। डॉ. जयशंकर यूरोपीय संघ और बेल्जियम के विदेश मंत्री के साथ बातचीत भी करेंगे।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T01:50:45+00:00",
-        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-on-an-11-day-visit-to-qatar-bahrain-kuwait-oman-new-york-and-brussels/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzH5rtawAE5FAC-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "breaking": [
-      {
-        "title": "निस्वार्थ कर्म मानवता की सबसे बड़ी शक्ति है: प्रधानमंत्री मोदी",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा है कि निस्वार्थ कर्म मानवता की सबसे बड़ी शक्ति है। सोशल मीडिया पोस्‍ट में संस्कृत सुभाषितम साझा करते हुए श्री मोदी ने कहा कि सेवा और समर्पण की इसी भावना से प्रेरित होकर देश प्रत्येक नागरिक के जीवन को बेहतर बनाने के संकल्प के साथ आगे बढ़ रहा है।",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा है कि निस्वार्थ कर्म मानवता की सबसे बड़ी शक्ति है। सोशल मीडिया पोस्&#x200d;ट में संस्कृत सुभाषितम साझा करते हुए श्री मोदी ने कहा कि सेवा और समर्पण की इसी भावना से प्रेरित होकर देश प्रत्येक नागरिक के जीवन को बेहतर बनाने के संकल्प के साथ आगे बढ़ रहा है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:02:21+00:00",
-        "link": "https://newsonair.gov.in/hi/selfless-service-is-humanitys-greatest-strength-prime-minister-modi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-10-103142.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "मौसम विभाग ने आज देश के कई हिस्सों में मूसलाधार वर्षा की चेतावनी जारी की",
-        "summary": "मौसम विभाग ने उत्तराखंड में आज मूसलाधार वर्षा की चेतावनी जारी की है। अरुणाचल प्रदेश, असम, मेघालय, सिक्किम, पश्चिम बंगाल के तराई क्षेत्रों और उत्तर प्रदेश के कुछ हिस्सों में भी आज मूसलाधार वर्षा का अनुमान है। अगले 3-4 दिनों में दिल्ली, हरियाणा, चंडीगढ़, हिमाचल प्रदेश, बिहार, पूर्वी मध्य प्रदेश और मध्य महाराष्ट्र में तेज […]",
-        "article": "मौसम विभाग ने उत्तराखंड में आज मूसलाधार वर्षा की चेतावनी जारी की है। अरुणाचल प्रदेश, असम, मेघालय, सिक्किम, पश्चिम बंगाल के तराई क्षेत्रों और उत्तर प्रदेश के कुछ हिस्सों में भी आज मूसलाधार वर्षा का अनुमान है। अगले 3-4 दिनों में दिल्ली, हरियाणा, चंडीगढ़, हिमाचल प्रदेश, बिहार, पूर्वी मध्य प्रदेश और मध्य महाराष्ट्र में तेज बारिश के आसार हैं। कर्नाटक, केरलम, माहे, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, तमिलनाडु, पुद्दुचेरी और कारईक्काल में भी ऐसी ही स्थिति रहने की संभावना है। इस बीच, राष्ट्रीय राजधानी के कई इलाकों में आज सुबह से ही हल्की से मध्यम बारिश हो रही है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T03:00:28+00:00",
-        "link": "https://newsonair.gov.in/hi/the-meteorological-department-issued-a-warning-for-torrential-rain-in-several-parts-of-the-country-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzN5ZVbwAAGLhh.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ई85 ईंधन लाने की योजना बना रही: हरदीप सिंह पुरी",
-        "summary": "पेट्रोलियम और प्राकृतिक गैस मंत्री हरदीप सिंह पुरी ने कहा है कि सरकार ई85 ईंधन लाने की योजना बना रही है, जो मानक ई20 पेट्रोल से करीब 20 रुपये प्रति लीटर सस्ता होगा। उन्होंने कहा कि ई85 केवल उन वाहनों के लिए उपलब्ध होगा जो विशेष रूप से इस ईंधन के उपयोग के लिए डिज़ाइन […]",
-        "article": "पेट्रोलियम और प्राकृतिक गैस मंत्री हरदीप सिंह पुरी ने कहा है कि सरकार ई85 ईंधन लाने की योजना बना रही है, जो मानक ई20 पेट्रोल से करीब 20 रुपये प्रति लीटर सस्ता होगा। उन्होंने कहा कि ई85 केवल उन वाहनों के लिए उपलब्ध होगा जो विशेष रूप से इस ईंधन के उपयोग के लिए डिज़ाइन किए गए हैं। एक निजी समाचार चैनल को दिए साक्षात्कार में पेट्रोलियम मंत्री ने कहा कि प्रस्तावित कदम का उद्देश्य उपभोक्ताओं को आर्थिक राहत प्रदान करना और साथ ही सरकार के इथेनॉल मिश्रण कार्यक्रम को आगे बढ़ाना है। उन्होंने व्यापक जैव ईंधन नीति का बचाव करते हुए इथेनॉल मिश्रित पेट्रोल से इंजन को होने वाले नुकसान और वाहन के प्रदर्शन से संबंधित चिंताओं को खारिज कर दिया।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:23:12+00:00",
-        "link": "https://newsonair.gov.in/hi/government-planning-to-introduce-e85-fuel-hardeep-singh-puri/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Hardeep.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1175,64 +1129,98 @@ window.VM_NEWS = {
         "summary": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा […]",
         "article": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा कि सरकार देश को पूरी तरह से घुसपैठ मुक्त बनाने के लिए एक मजबूत व्यवस्था का निर्माण कर रही है। श्री शाह कल नई दिल्ली में सीमावर्ती जिलों के पुलिस अधीक्षकों के एक सम्मेलन को संबोधित कर रहे थे। उन्होंने बताया कि नरेंद्र मोदी के नेतृत्व वाली सरकार ने वैज्ञानिक रूप से सीमावर्ती बुनियादी ढांचे में चार सौ प्रतिशत की वृद्धि की है। श्री शाह ने कहा कि सरकार 1600 किलोमीटर से अधिक लंबी भारत-म्यांमार सीमा पर 31 हजार करोड़ रुपये की लागत से बाड़ लगा रही है। उन्होंने इस बात पर जोर दिया कि सीमावर्ती क्षेत्रों में असामान्य कारकों की वजह से होने वाले जनसांख्यिकीय परिवर्तनों की जानकारी जमीनी स्तर से लेकर उच्च स्तर तक जल्द से जल्द पहुंचाई जानी चाहिए। गृह मंत्री ने कहा कि सरकार का उद्देश्य सीमावर्ती क्षेत्रों को सुरक्षित और रहने योग्य बनाते हुए, परोक्ष युद्ध, अवैध घुसपैठ, कट्टरपंथ, मादक पदार्थों की तस्करी, ड्रोन से संबंधित खतरों और जनसांख्यिकीय परिवर्तनों जैसी अन्य सुरक्षा चुनौतियों को रोकना है। इस सम्मेलन में जम्मू-कश्मीर, पंजाब, उत्तराखंड, राजस्थान, गुजरात, उत्तर प्रदेश, बिहार, पश्चिम बंगाल और पूर्वोत्तर राज्यों सहित सीमावर्ती राज्यों और केंद्र शासित प्रदेशों के पुलिस अधीक्षकों ने भाग लिया। सम्&#x200d;मेलन में गृह मंत्रालय के वरिष्ठ अधिकारियों ने भी भाग लिया। सम्मेलन का उद्देश्य संवेदनशील सीमावर्ती क्षेत्रों की वर्तमान स्थिति का आकलन करके प्रवर्तन में सुधार के उपायों की पहचान कर देश के सीमा सुरक्षा ढांचे को मजबूत करना था। यह सम्मेलन केंद्र सरकार के कुछ महीने पहले लिए गए उस निर्णय की पृष्ठभूमि में आयोजित किया गया था जिसमें देश के विभिन्न हिस्सों में हो रहे जनसांख्यिकीय परिवर्तनों की सीमा का अध्ययन करने और उनके लिए जिम्मेदार कारकों की पहचान करने के लिए एक उच्च स्तरीय समिति गठित करने का निर्णय लिया गया था।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:19:00+00:00",
+        "pubDate": "2026-07-10T08:30:00+00:00",
         "link": "https://newsonair.gov.in/hi/secure-borders-prosperous-border-regions-and-an-aware-society-together-make-the-country-secure-amit-shah/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzYWyNaoAAXI3z.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
-      },
+      }
+    ],
+    "breaking": [
       {
-        "title": "कुशल कार्यबल और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों के पसंदीदा देशों में शामिल: वित्त मंत्री",
-        "summary": "वित्त मंत्री निर्मला सीतारामन ने कहा है कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों &#8211; जीसीसी के लिए सबसे पसंदीदा देशों में शामिल है। नई दिल्ली में सीआईआई राष्ट्रीय जीसीसी बिजनेस समिट-2026 को संबोधित करते हुए वित्तमंत्री ने कहा कि देश में इक्कीस सौ से अधिक जीसीसी हैं, जहां […]",
-        "article": "वित्त मंत्री निर्मला सीतारामन ने कहा है कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों &#8211; जीसीसी के लिए सबसे पसंदीदा देशों में शामिल है। नई दिल्ली में सीआईआई राष्ट्रीय जीसीसी बिजनेस समिट-2026 को संबोधित करते हुए वित्तमंत्री ने कहा कि देश में इक्कीस सौ से अधिक जीसीसी हैं, जहां 23 लाख से अधिक लोग प्रत्यक्ष रूप से कार्यरत हैं। इन केंद्रों से हर साल लगभग दस हज़ार करोड़ डॉलर का राजस्व प्राप्त होता है। उन्होंने कहा कि यह केंद्र इंजीनियरिंग, अनुसंधान, आर्टिफिशियल इंटेलीजेंस, साइबर सुरक्षा, वित्त, उत्पाद डिजाइन और डेटा विज्ञान को एक साथ लाकर नवाचार को बढ़ावा दे रहे हैं। वित्त मंत्री ने कहा कि बहुराष्ट्रीय कंपनियां अपने क्षमता केंद्र भारत में स्थापित करने की अधिक इच्छा रखती हैं। उन्होंने बल देकर कहा कि भारत का जीसीसी पारिस्थितिकी तंत्र विश्व का सबसे बड़ा संगठित ज्ञान निर्यात केंद्र है। वित्त मंत्री ने कहा कि भारत की आकांक्षा केवल विश्व के क्षमता केंद्रों की मेजबानी करना ही नहीं है, बल्कि भविष्य की नई प्रौद्योगिकियों और उद्यमों का नेतृत्व करना भी है।",
+        "title": "रेलवे ने छत्तीसगढ़ में 250 इलेक्ट्रिक लोकोमोटिव के लिए अतिरिक्त प्राथमिक रखरखाव केंद्र बनाने के लिए 175 करोड़ रुपये किए मंज़ूर",
+        "summary": "रेलवे ने छत्तीसगढ़ के रायपुर में 250 इलेक्ट्रिक लोकोमोटिव के लिए अतिरिक्त प्राथमिक रखरखाव केंद्र बनाने के लिए 175 करोड़ रुपये मंज़ूर किए हैं। प्राथमिक केंद्र लोकोमोटिव के तय समय पर होने वाले सुरक्षा जाँच, मरम्मत और देखभाल के लिए ज़िम्मेदार होता है। रेल मंत्रालय के अनुसार यह परियोजना भारतीय रेल के विद्युत इंजन बेड़े […]",
+        "article": "रेलवे ने छत्तीसगढ़ के रायपुर में 250 इलेक्ट्रिक लोकोमोटिव के लिए अतिरिक्त प्राथमिक रखरखाव केंद्र बनाने के लिए 175 करोड़ रुपये मंज़ूर किए हैं। प्राथमिक केंद्र लोकोमोटिव के तय समय पर होने वाले सुरक्षा जाँच, मरम्मत और देखभाल के लिए ज़िम्मेदार होता है। रेल मंत्रालय के अनुसार यह परियोजना भारतीय रेल के विद्युत इंजन बेड़े के तेजी से हो रहे विस्तार और पूरे नेटवर्क पर माल ढुलाई और यात्री परिचालन बढ़ोतरी को ध्यान में रखते हुए बुनियादी ढांचे को बेहतर बनाने के प्रयासों का हिस्सा है। अतिरिक्त प्राथमिक केंद्रों से रेलवे मौजूदा बुनियादी ढाँचे का बेहतर इस्तेमाल कर पाएगा और साथ ही रायपुर मंडल भविष्य में तकनीकी विस्तार के लिए महत्वपूर्ण स्थान बन पाएगा।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T01:46:15+00:00",
-        "link": "https://newsonair.gov.in/hi/india-among-preferred-destinations-for-global-capability-centres-due-to-skilled-workforce-and-innovation-finance-minister/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzJdF4boAA0p-8.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-10T10:44:55+00:00",
+        "link": "https://newsonair.gov.in/hi/railways-sanctions-%e2%82%b9175-crore-to-set-up-additional-primary-maintenance-centres-for-250-electric-locomotives-in-chhattisgarh/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "वित्त मंत्री निर्मला सीतारमण ने नेशनल जीसीसी बिजनेस समिट 2026 को किया संबोधित",
-        "summary": "वित्त मंत्री निर्मला सीतारमण ने आज कहा कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार पारिस्थितिकी तंत्र के कारण भारत वैश्विक क्षमता केंद्र (जीसीसी) के लिए पसंदीदा गंतव्य के रूप में उभर रहा है। नई दिल्ली में भारतीय उद्योग परिसंघ द्वारा आयोजित नेशनल जीसीसी बिजनेस समिट 2026 को संबोधित करते हुए, सुश्री सीतारामन ने कहा कि […]",
-        "article": "वित्त मंत्री निर्मला सीतारमण ने आज कहा कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार पारिस्थितिकी तंत्र के कारण भारत वैश्विक क्षमता केंद्र (जीसीसी) के लिए पसंदीदा गंतव्य के रूप में उभर रहा है। नई दिल्ली में भारतीय उद्योग परिसंघ द्वारा आयोजित नेशनल जीसीसी बिजनेस समिट 2026 को संबोधित करते हुए, सुश्री सीतारामन ने कहा कि देश में 2100 से अधिक वैश्विक क्षमता केंद्र हैं, जिनमें 23 लाख पेशेवर प्रत्यक्ष रूप से कार्यरत हैं और लगभग 100 अरब अमरीकी डॉलर का वार्षिक राजस्व उत्पन्न होता है। उन्होंने कहा कि वैश्विक क्षमता केंद्र इंजीनियरिंग, अनुसंधान, एआई, साइबर सुरक्षा, वित्त, उत्पाद डिजाइन और डेटा विज्ञान को एक साथ लाकर निरंतर नवाचार को बढ़ावा देकर परिवर्तन का प्रतिनिधित्व करते हैं।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:37:59+00:00",
-        "link": "https://newsonair.gov.in/hi/finance-minister-nirmala-sitharaman-addressed-the-national-gcc-business-summit-2026/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/निर्मला.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विकसित भारत-2047 के लिए जे.पी. नड्डा का बुद्धिजीवियों से राष्ट्र निर्माण का आह्वान",
-        "summary": "केंद्रीय स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने बुद्धिजीवियों से विकासशील भारत-2047 के लक्ष्य को प्राप्त करने के लिए राष्ट्र निर्माण प्रक्रिया में भागीदार बनने का आह्वान किया। हैदराबाद में आज आयोजित बुद्धिजीवी सम्मेलन को संबोधित करते हुए जेपी नड्डा ने कहा कि केंद्र सरकार का शासन &#8220;सबका साथ, सबका विकास, सबका विश्वास&#8221; […]",
-        "article": "केंद्रीय स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने बुद्धिजीवियों से विकासशील भारत-2047 के लक्ष्य को प्राप्त करने के लिए राष्ट्र निर्माण प्रक्रिया में भागीदार बनने का आह्वान किया। हैदराबाद में आज आयोजित बुद्धिजीवी सम्मेलन को संबोधित करते हुए जेपी नड्डा ने कहा कि केंद्र सरकार का शासन &#8220;सबका साथ, सबका विकास, सबका विश्वास&#8221; और &#8220;सभी के लिए न्याय&#8221; के सिद्धांतों पर आधारित है। उन्होंने कहा कि प्रधानमंत्री नरेंद्र मोदी के नेतृत्व में सरकार का दृष्टिकोण समावेशी विकास, जवाबदेही, प्रभावी कार्यान्वयन और प्रत्येक नागरिक के सम्मान को सुनिश्चित करने पर केंद्रित है। उन्होंने कहा कि सरकार ने ग्रामीण और दूरस्थ क्षेत्रों में बिजली, सड़क संपर्क और आवश्यक बुनियादी ढांचे की पहुंच बढ़ाकर आर्थिक विकास और आम जनता के कल्याण दोनों को प्राथमिकता दी है। श्री नड्डा ने कहा कि बेहतर सड़कों ने किसानों को कृषि उपज को बाजारों तक अधिक कुशलता से पहुंचाने में मदद करके ग्रामीण अर्थव्यवस्थाओं को मजबूत किया है। इससे बेहतर आय और उत्पादकता प्राप्त हुई है। भारत के डिजिटल परिवर्तन का उल्लेख करते हुए नड्डा ने कहा कि डिजिटल भुगतान और प्रत्यक्ष लाभ हस्तांतरण &#8211; डीबीटी ने पारदर्शिता और वित्तीय समावेशन में सुधार किया है। उन्होंने कहा कि क्यूआर कोड आधारित लेनदेन गांवों और छोटे कस्बों में भी आम हो गए हैं। यह देश भर में डिजिटल प्रौद्योगिकी के बढ़ते उपयोग को दर्शाता है। गरीबी उन्मूलन और कल्याणकारी कार्यक्रमों का जिक्र करते हुए उन्होंने कहा कि लाखों लोग गरीबी से बाहर निकल चुके हैं। वहीं लाभार्थियों को आवास, वित्तीय सहायता और स्वास्थ्य देखभाल योजनाओं के तहत सहायता मिलती रहती है। श्री नड्डा ने आयुष्मान भारत को दुनिया का सबसे बड़ा सार्वजनिक स्वास्थ्य बीमा कार्यक्रम बताया। यह पात्र लाभार्थियों को 5 लाख रुपये तक का स्वास्थ्य कवरेज प्रदान करता है। उन्होंने स्वच्छ भारत मिशन का उल्लेख करते हुए कहा कि देश भर में शौचालयों के निर्माण से विशेष रूप से महिलाओं के लिए स्वच्छता और सम्मान में सुधार हुआ है। आंतरिक सुरक्षा पर श्री नड्डा ने बताया कि सरकार ने वामपंथी उग्रवाद के प्रति शून्य-सहिष्णुता नीति अपनाई है। उन्होंने दावा किया कि प्रभावित जिलों की संख्या में पिछले कुछ वर्षों में काफी कमी आई है। श्री नड्डा ने आतंकवाद विरोधी अभियानों में सशस्त्र बलों के पेशेवर रवैये और सटीकता की भी प्रशंसा की। उन्होंने कहा कि आधुनिक प्रौद्योगिकी और उन्नत क्षमताओं के माध्यम से भारत की रक्षा तैयारियों को मजबूत किया गया है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:36:48+00:00",
-        "link": "https://newsonair.gov.in/hi/j-p-nadda-calls-upon-intellectuals-to-contribute-to-nation-building-for-a-viksit-bharat-2047-developed-india-2047/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/J-p-Nadda.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "डीपीआईआईटी ने दो गुणवत्ता नियंत्रण आदेशों में संशोधन किया",
-        "summary": "उद्योग और आंतरिक व्यापार संवर्धन विभाग (डीपीआईआईटी) ने व्यापार सुगमता को बढ़ावा देने और घरेलू जूता निर्माण प्रणाली को मजबूत करने के उद्देश्य से जूता क्षेत्र से संबंधित दो गुणवत्ता नियंत्रण आदेशों (क्यूसीओ) में संशोधन किया है। वाणिज्य और उद्योग मंत्रालय ने बताया कि अधिसूचित संशोधन चमड़े और अन्य सामग्रियों से बने जूता तथा पूर्णतः […]",
-        "article": "उद्योग और आंतरिक व्यापार संवर्धन विभाग ( डीपीआईआईटी) ने व्यापार सुगमता को बढ़ावा देने और घरेलू जूता निर्माण प्रणाली को मजबूत करने के उद्देश्य से जूता क्षेत्र से संबंधित दो गुणवत्ता नियंत्रण आदेशों (क्यूसीओ) में संशोधन किया है। वाणिज्य और उद्योग मंत्रालय ने बताया कि अधिसूचित संशोधन चमड़े और अन्य सामग्रियों से बने जूता तथा पूर्णतः रबर और पूर्णतः पॉलिमर सामग्री और उसके घटकों से बने जूता से संबंधित हैं। संशोधनों के अंतर्गत, पुराने स्टॉक को निपटाने की समयसीमा इस वर्ष की 31 जुलाई से बढ़ाकर अगले वर्ष की इसी तिथि तक कर दी गई है। यह अतिरिक्त एक वर्ष की अवधि निर्माताओं, वितरकों और खुदरा विक्रेताओं को मौजूदा स्टॉक को व्यवस्थित रूप से निपटाने के लिए पर्याप्त समय प्रदान करेगी। इससे अनुपालन का बोझ कम होने, व्यापार में व्यवधान कम होने और यह सुनिश्चित होने की उम्मीद है कि इसके बाद बाजार में केवल बीआईएस प्रमाणित जूता उत्पाद ही बेचे जाएं। संशोधनों में अनुसंधान और विकास के लिए नमूनों के आयात पर छूट भी दी गई है। चमड़े और जूते बनाने वाली कंपनियां अनुसंधान और विकास तथा अन्य गैर-व्यावसायिक उद्देश्यों के लिए प्रतिवर्ष अधिकतम चार हजार पांच सौ जोड़ी जूते आयात कर सकती हैं।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:35:38+00:00",
-        "link": "https://newsonair.gov.in/hi/dpiit-amended-two-quality-control-orders-for-the-footwear-sector/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर",
-        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कुवैत की यात्रा पूरी करने के बाद ओमान पहुंच गए हैं। उनके आगमन पर ओमान के विदेश मंत्रालय के महानिदेशक शेख अहमद अल मस्कारी ने उनका स्वागत किया। डॉ. जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर हैं। ओमान यात्रा पूरी करने के बाद, […]",
-        "article": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कुवैत की यात्रा पूरी करने के बाद ओमान पहुंच गए हैं। उनके आगमन पर ओमान के विदेश मंत्रालय के महानिदेशक शेख अहमद अल मस्कारी ने उनका स्वागत किया। डॉ. जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर हैं। ओमान यात्रा पूरी करने के बाद, वे न्यूयॉर्क में संयुक्त राष्ट्र सुरक्षा परिषद के 2028-29 कार्यकाल के लिए भारत के आधिकारिक अभियान की शुरुआत करेंगे। इसके बाद विदेश मंत्री 14 और 15 जुलाई को ब्रुसेल्स में तीसरे भारत-यूरोपीय संघ व्यापार और प्रौद्योगिकी परिषद की बैठक में शामिल होंगे। डॉ. जयशंकर यूरोपीय संघ और बेल्जियम के विदेश मंत्री के साथ बातचीत भी करेंगे।",
+        "title": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने ऑस्ट्रेलिया से तमिलनाडु की अमूल्य पुरावशेषों की सफल वापसी पर प्रसन्नता व्यक्त की",
+        "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने ऑस्ट्रेलिया से तमिलनाडु की अमूल्य पुरावशेषों की सफल वापसी पर प्रसन्नता व्यक्त की है। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने कहा कि पुरावशेषों की वापसी भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करने की दिशा में महत्वपूर्ण उपलब्धि है। श्री राधाकृष्णन ने सांस्कृतिक धरोहरों को देश में वापस लाने के लिए […]",
+        "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने ऑस्ट्रेलिया से तमिलनाडु की अमूल्य पुरावशेषों की सफल वापसी पर प्रसन्नता व्यक्त की है। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने कहा कि पुरावशेषों की वापसी भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करने की दिशा में महत्वपूर्ण उपलब्धि है। श्री राधाकृष्णन ने सांस्कृतिक धरोहरों को देश में वापस लाने के लिए सरकार के प्रयासों की सराहना की। उन्होंने कहा कि पुरावशेषों की वापसी में उल्लेखनीय प्रगति हुई है और 2014 से अब तक 600 से अधिक कलाकृतियां भारत लौट चुकी हैं। उपराष्ट्रपति ने कहा कि पुरातत्व अवशेषों की वापसी भारत के विकास भी, विरासत भी के प्रति दृढ़ प्रतिबद्धता को दर्शाती है।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T01:50:45+00:00",
-        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-on-an-11-day-visit-to-qatar-bahrain-kuwait-oman-new-york-and-brussels/",
-        "post_id": 1728866,
+        "pubDate": "2026-07-10T10:42:35+00:00",
+        "link": "https://newsonair.gov.in/hi/vice-president-c-p-radhakrishnan-expressed-happiness-over-the-successful-return-of-tamil-nadus-priceless-antiquities-from-australia/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने आयुष्मान भारत डिजिटल मिशन की समीक्षा के लिए बैठक की",
+        "summary": "स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने आज आयुष्मान भारत डिजिटल मिशन की प्रगति की समीक्षा के लिए मिशन संचालन समूह की तीसरी बैठक की अध्यक्षता की। बैठक में बताया गया कि आयुष्मान भारत डिजिटल मिशन विश्व के सबसे बड़े डिजिटल स्वास्थ्य पारिस्थितिकी तंत्रों में से एक के रूप में उभरा है। इसमें […]",
+        "article": "स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने आज आयुष्मान भारत डिजिटल मिशन की प्रगति की समीक्षा के लिए मिशन संचालन समूह की तीसरी बैठक की अध्यक्षता की। बैठक में बताया गया कि आयुष्मान भारत डिजिटल मिशन विश्व के सबसे बड़े डिजिटल स्वास्थ्य पारिस्थितिकी तंत्रों में से एक के रूप में उभरा है। इसमें लगभग 94 करोड़ आयुष्मान भारत स्वास्थ्य खाता संख्याएँ बनाई गई हैं और 105 करोड़ स्वास्थ्य रिकॉर्ड लिंक किए गए हैं। इसमें यह भी बताया गया कि 53 लाख स्वास्थ्य सुविधाएं और लगभग 10 लाख स्वास्थ्य पेशेवर राष्ट्रीय डिजिटल स्वास्थ्य रजिस्टरों पर पंजीकृत हैं। बैठक को संबोधित करते हुए श्री नड्डा ने कहा कि मिशन के तहत एक मजबूत डिजिटल स्वास्थ्य सेवा बुनियादी ढांचा का निर्माण किया गया है और अगले चरण में इसके अधिकतम उपयोग पर ध्यान केंद्रित किया जाना चाहिए। उन्होंने कहा कि सार्वभौमिक स्वास्थ्य कवरेज प्राप्त करने के लिए प्रौद्योगिकी एक शक्तिशाली साधन के रूप में कार्य करती रहनी चाहिए, साथ ही प्रत्येक नागरिक के लिए समावेशिता, पहुंच और उपयोग में आसानी सुनिश्चित करनी चाहिए। श्री नड्डा ने गुणवत्तापूर्ण स्वास्थ्य सेवा तक पहुंच में सुधार लाने, देखभाल की निरंतरता को बढ़ाने और नागरिकों को उनके स्वास्थ्य रिकॉर्ड तक सुरक्षित और सहमति-आधारित पहुंच प्रदान करके सशक्त बनाने में डिजिटल सार्वजनिक अवसंरचना की परिवर्तनकारी भूमिका पर भी जोर दिया। बैठक में मिशन के भविष्य के रोडमैप पर भी विचार-विमर्श किया गया, जिसमें डिजिटल स्वास्थ्य को अपनाने को बढ़ावा देना, एआई सहित उभरती प्रौद्योगिकियों का लाभ उठाना, संस्थागत क्षमताओं को मजबूत करना और राज्यों और केंद्र शासित प्रदेशों के साथ सहयोग को गहरा करना शामिल था।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T10:40:50+00:00",
+        "link": "https://newsonair.gov.in/hi/health-and-family-welfare-minister-jagat-prakash-nadda-held-a-meeting-to-review-the-ayushman-bharat-digital-mission/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी अपने तीन देशों के दौरे के अंतिम चरण में न्यूजीलैंड के ऑकलैंड पहुंचे",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी अपने तीन देशों के दौरे के अंतिम चरण में आज न्यूजीलैंड के ऑकलैंड पहुंचे। हवाई अड्डे पर प्रधानमंत्री लक्सन ने श्री मोदी का स्वागत किया और दोनों नेताओं ने एक-दूसरे को गले लगाया। हवाई अड्डे के रनवे पर भी प्रधानमंत्री मोदी का औपचारिक स्वागत किया गया, जिसमें भारतीय और न्यूजीलैंड सशस्त्र बलों […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी अपने तीन देशों के दौरे के अंतिम चरण में आज न्यूजीलैंड के ऑकलैंड पहुंचे। हवाई अड्डे पर प्रधानमंत्री लक्सन ने श्री मोदी का स्वागत किया और दोनों नेताओं ने एक-दूसरे को गले लगाया। हवाई अड्डे के रनवे पर भी प्रधानमंत्री मोदी का औपचारिक स्वागत किया गया, जिसमें भारतीय और न्यूजीलैंड सशस्त्र बलों के प्रतिनिधि उपस्थित थे।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T10:23:04+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-arrived-in-auckland-new-zealand-on-the-final-leg-of-his-three-nation-tour/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री नरेंद्र मोदी पहुंचे न्यूज़ीलैंड, न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने किया स्वागत",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी न्यूज़ीलैंड पहुंचे, न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने किया पीएम मोदी का स्वागत। 4 दशक बाद किसी भारतीय पीएम की यह पहली न्यूज़ीलैंड यात्रा है। प्रधानमंत्री नरेन्‍द्र मोदी ने ऑस्‍ट्रेलिया की अपनी एतिहासिक और महत्‍वपूर्ण राजकीय यात्रा आधिकारिक रूप से संपन्‍न कर ली है। इस यात्रा ने भारत-ऑस्‍ट्रेलिया व्‍यापक रणनीतिक साझेदारी को […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी न्यूज़ीलैंड पहुंचे, न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने किया पीएम मोदी का स्वागत। 4 दशक बाद किसी भारतीय पीएम की यह पहली न्यूज़ीलैंड यात्रा है। प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने ऑस्&#x200d;ट्रेलिया की अपनी एतिहासिक और महत्&#x200d;वपूर्ण राजकीय यात्रा आधिकारिक रूप से संपन्&#x200d;न कर ली है। इस यात्रा ने भारत-ऑस्&#x200d;ट्रेलिया व्&#x200d;यापक रणनीतिक साझेदारी को भविष्&#x200d;य के अनुरुप एक नई दिशा और मजबूत आधार प्रदान किया है। यात्रा के दौरान दोनों देशों के बीच कूटनीतिक, आर्थिक और सुरक्षा संबंध नई उंचाईयों पर पहुंचे। यात्रा की शुरूआत भारत-ऑस्&#x200d;ट्रेलिया मुख्&#x200d;य कार्यकारी मंच से हुई, जहां कारोबार जगत के प्रमुखों ने वर्ष 2022 के आर्थिक सहयोग और व्&#x200d;यापार समझौते से द्विपक्षीय व्&#x200d;यापार में 55 प्रतिशत की वृद्धि का स्&#x200d;वागत किया। इस गति को आगे बढ़ाने के लिए प्रधानमंत्री मोदी और ऑस्&#x200d;ट्रेलिया के प्रधानमंत्री एंथनी एल्&#x200d;बनीज ने व्&#x200d;यापक आर्थिक सहयोग समझौते पर वार्ता में तेजी लाने पर सहमति व्&#x200d;यक्&#x200d;त की। स्&#x200d;वच्&#x200d;छ ऊर्जा के क्षेत्र में भी दोनों देशों ने ऐतिहासिक उपलब्धि हासिल की। भारत को ऑस्&#x200d;ट्रेलिया से दीर्घकालिक यूरेनियम आ&#x200d;पूर्ति सुनिश्चित करने के लिए प्रशासनिक व्&#x200d;यवस्&#x200d;था को अंतिम रूप दिया गया। स्&#x200d;वतंत्र और मुक्&#x200d;त हिन्&#x200d;द प्रशांत क्षेत्र के लिए दोनों देशों ने रक्षा और सुरक्षा सहयोग पर संयुक्&#x200d;त घोषणा पत्र तथा समुद्री सुरक्षा सहयोग प्रारूप स्&#x200d;वीकार किया। यात्रा का सबसे प्रभावशाली जनसंपर्क कार्यक्रम मेलबर्न के मार्वल स्&#x200d;टेडियम में आयोजित मेलबर्न मीट्स मोदी प्रवासी भारतीय सम्&#x200d;मेलन रहा, जिसमें लगभग 25 हजार लोग उपस्थित थे। प्रधानमंत्री मोदी ने लगभग 10 लाख भारतीय मूल के ऑस्&#x200d;ट्रेलियाई लोगों को दोनों देशों के बीच जीवंत सेतु बताया। प्रधानमंत्री एंथनी एल्&#x200d;बनीज ने भी भारतीय समुदाय सराहना करते हुए कहा कि ये बहु-सांस्&#x200d;कृतिक शक्ति ऑस्&#x200d;ट्रेलिया की समृद्धि में महत्&#x200d;वपूर्ण योगदान दे रही है। प्रधानमंत्री मोदी ने ऑस्&#x200d;ट्रेलिया में विपक्ष के नेता एंगस टेलर से भी मुलाकात की। श्री टेलर ने प्रधानमंत्री मोदी को ऑस्ट्रेलिया का सच्&#x200d;चा मित्र बताते हुए अंतर्राष्&#x200d;ट्रीय सौर गठबंधन और शांतिपूर्ण उद्देश्&#x200d;यों के लिए यूरेनियम निर्यात जैसी पहलों का समर्थन किया। यात्रा का समापन प्रतिष्ठित मेलबर्न क्रिकेट मैदान में खेल कूटनीति के ऐतिहासिक कार्यक्रम के साथ हुआ। दोनों नेताओं ने भारत-ऑस्&#x200d;ट्रेलिया खेल सहयोग प्रारूप जारी किया जिससे खेल विज्ञान और खेल अवसंरचना के क्षेत्र में सहयोग को नई गति मिलेगी। ये पहल ऐसे समय में शुरू की गई है जब भारत 2030 के राष्&#x200d;ट्रमंडल खेलों की तैयारी मे जुटा है और ऑस्&#x200d;ट्र&#x200d;ेलिया 2032 के ब्रिसबेन ओलम्पिक की बेजबानी की तैयारी कर रहा है। इस अवसर पर क्रिकेट जगत के लिए भी महत्&#x200d;वपूर्ण घोषणा की गई। ऑस्&#x200d;ट्रेलिया की पुरूष बिग बैश लीग का उद्घाटन मैच इस वर्ष दिसंबर चेन्&#x200d;नई में आयोजित होगा।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T09:05:53+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-arrives-in-new-zealand/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "मौसम विभाग ने देश के कई हिस्सों में अगले दो दिन तक मूसलाधार बारिश का अनुमान व्‍यक्‍त किया",
+        "summary": "मौसम विभाग ने उत्तराखंड में आज मूसलाधार वर्षा और कुछ स्थानों पर अत्यधिक तेज बारिश का अनुमान व्‍यक्‍त किया है। अगले दो दिन तक हरियाणा, हिमाचल प्रदेश, उत्तर प्रदेश, बिहार, उप-हिमालयी पश्चिम बंगाल, सिक्किम और उत्तर-पूर्वी भारत के उत्तरी भागों में मूसलाधार बारिश होने की संभावना है। इस बीच, राष्ट्रीय राजधानी दिल्‍ली में कुछ […]",
+        "article": "मौसम विभाग ने उत्तराखंड में आज मूसलाधार वर्षा और कुछ स्थानों पर अत्यधिक तेज बारिश का अनुमान व्&#x200d;यक्&#x200d;त किया है। अगले दो दिन तक हरियाणा, हिमाचल प्रदेश, उत्तर प्रदेश, बिहार, उप-हिमालयी पश्चिम बंगाल, सिक्किम और उत्तर-पूर्वी भारत के उत्तरी भागों में मूसलाधार बारिश होने की संभावना है। इस बीच, राष्ट्रीय राजधानी दिल्&#x200d;ली में कुछ जगह आज तड़के हल्की बारिश हुई। आकाशवाणी से बात करते हुए, मौसम विभाग के वैज्ञानिक डॉ. शशि कांत ने बताया कि दिल्ली और आसपास के क्षेत्र में आज और कल कोई चेतावनी नहीं है।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:45:39+00:00",
+        "link": "https://newsonair.gov.in/hi/the-meteorological-department-has-forecast-torrential-rain-in-several-parts-of-the-country-over-the-next-two-days/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्र सरकार ने उच्च अल्कोहल मात्रा वाली औषधियों के नियमन को और सख्त करने के लिए नियम में संशोधन किया",
+        "summary": "केंद्र सरकार ने उच्च अल्कोहल मात्रा वाली औषधियों के नियमन को और सख्त करने के लिए औषधि नियम, 1945 में संशोधन किया है। स्वास्थ्य और परिवार कल्याण मंत्रालय ने इथाएल अल्कोहल युक्त औषधियों के लिए अनुसूची-के के तहत लाइसेंस अनिवार्यता से मिली मौजूदा छूट समाप्त कर दी है। मंत्रालय की अधिसूचना के अनुसार, 30 मिलीलीटर […]",
+        "article": "केंद्र सरकार ने उच्च अल्कोहल मात्रा वाली औषधियों के नियमन को और सख्त करने के लिए औषधि नियम, 1945 में संशोधन किया है। स्वास्थ्य और परिवार कल्याण मंत्रालय ने इथाएल अल्कोहल युक्त औषधियों के लिए अनुसूची-के के तहत लाइसेंस अनिवार्यता से मिली मौजूदा छूट समाप्त कर दी है। मंत्रालय की अधिसूचना के अनुसार, 30 मिलीलीटर से अधिक मात्रा में 12 प्रतिशत से अधिक इथाएल अल्कोहल वाली सभी औषधियों को अब छूट प्रदान नहीं की जाएगी। ऐसी औषधियों को औषधि और कॉस्&#x200d;मेटिक अधिनियम 1940 के अंतर्गत आवश्&#x200d;यक लाइसेंस प्राप्&#x200d;त करना होगा। अब तक इलायची, अदरक और अन्य सुगंधित औषधियों के टिंचर जैसे कुछ औषधीय उत्पादों को औषधि नियम, 1945 की अनुसूची-के के तहत लाइसेंस लेने से छूट प्राप्त थी। इनमें से कुछ औषधियों में इथाएल अल्कोहल की मात्रा काफी अधिक 80 से 90 प्रतिशत तक होती है, जिससे इनके नशे के लिए दुरुपयोग की आशंका रहती थी। इस संशोधन से अल्कोहल युक्त औषधीय उत्पादों पर नियामक निगरानी और मजबूत होने की उम्&#x200d;मीद है। इससे इनकी आपूर्ति केवल अधिकृत दवा आपूर्ति श्रृंखला के माध्यम से सुनिश्चित की जा सकेगी। साथ ही, दुरुपयोग और अवैध इस्तेमाल की संभावना कम होगी तथा वैध चिकित्सीय उपयोग के लिए इनकी उपलब्धता भी बनी रहेगी।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:43:57+00:00",
+        "link": "https://newsonair.gov.in/hi/the-central-government-has-amended-the-rules-to-further-tighten-the-regulation-of-medicines-with-high-alcohol-content/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी ने अपनी ऑस्ट्रेलिया यात्रा को लेकर ऑस्ट्रेलिया सरकार और वहां की जनता का आभार व्यक्त किया",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने अपनी ऑस्ट्रेलिया यात्रा के दौरान मिले भव्‍य स्‍वागत और आतिथ्य के लिए ऑस्ट्रेलिया सरकार और वहां की जनता के साथ-साथ ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ का आभार व्यक्त किया है। ऑस्ट्रेलिया यात्रा के समापन पर सोशल मीडिया पर श्री मोदी ने कहा कि इस यात्रा के परिणामों ने भारत-ऑस्ट्रेलिया साझेदारी को और […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने अपनी ऑस्ट्रेलिया यात्रा के दौरान मिले भव्&#x200d;य स्&#x200d;वागत और आतिथ्य के लिए ऑस्ट्रेलिया सरकार और वहां की जनता के साथ-साथ ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ का आभार व्यक्त किया है। ऑस्ट्रेलिया यात्रा के समापन पर सोशल मीडिया पर श्री मोदी ने कहा कि इस यात्रा के परिणामों ने भारत-ऑस्ट्रेलिया साझेदारी को और मजबूत किया है और विभिन्न क्षेत्रों में सहयोग के नए रास्ते खोले हैं। उन्होंने विश्वास व्यक्त किया कि इस यात्रा से मिली गति दोनों देशों के लिए लाभकारी होगी और वैश्विक समुदाय में सकारात्मक योगदान देगी।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:36:19+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-expressed-his-gratitude-to-the-australian-government-and-the-people-of-australia-for-his-visit-to-the-country/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1242,9 +1230,19 @@ window.VM_NEWS = {
         "summary": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते […]",
         "article": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते हुए, संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि, राजदूत पी. ​​हरीश ने कहा कि इस तरह की हिंसा दण्ड मुक्ति की प्रचलित संस्कृति के बीच जारी है। उन्&#x200d;होंने कहा कि भारत ऐसे जघन्य कृत्यों की कड़ी निंदा करता है। संयुक्त राष्ट्र महासचिव की रिपोर्ट का संदर्भ देते हुए उन्होंने कहा कि 2025 में सत्यापित मामलों में हुई तीव्र वृद्धि सामूहिक कार्रवाई की तत्काल आवश्यकता को रेखांकित करती है। संयुक्त राष्ट्र शांतिरक्षा में भारत के महत्वपूर्ण योगदानों पर प्रकाश डालते हुए, श्री हरीश ने कहा कि महिला शांतिरक्षकों की तैनाती ने संघर्ष-संबंधी यौन हिंसा से निपटने में &#8220;परिवर्तनकारी प्रभाव&#8221; डाला है। उन्होंने यह घोषणा भी की कि संघर्ष से संबंधित यौन हिंसा को रोकने में उनके उत्कृष्ट प्रयासों के लिए भारतीय शांति रक्षक मेजर मोइज़ यासीन और मेजर सोनिया देवेंद्र नवस्कर को वर्ष 2026 के लिए संयुक्त राष्ट्र महासचिव का मिलिट्री जेंडर ऑफ द ईयर का मान्&#x200d;यता प्रमाणपत्र प्रदान किया जाएगा।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T01:37:00+00:00",
+        "pubDate": "2026-07-10T08:35:00+00:00",
         "link": "https://newsonair.gov.in/hi/india-strongly-condemned-conflict-related-sexual-violence/",
-        "post_id": 1728862,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बनाते हैं: अमित शाह",
+        "summary": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा […]",
+        "article": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा कि सरकार देश को पूरी तरह से घुसपैठ मुक्त बनाने के लिए एक मजबूत व्यवस्था का निर्माण कर रही है। श्री शाह कल नई दिल्ली में सीमावर्ती जिलों के पुलिस अधीक्षकों के एक सम्मेलन को संबोधित कर रहे थे। उन्होंने बताया कि नरेंद्र मोदी के नेतृत्व वाली सरकार ने वैज्ञानिक रूप से सीमावर्ती बुनियादी ढांचे में चार सौ प्रतिशत की वृद्धि की है। श्री शाह ने कहा कि सरकार 1600 किलोमीटर से अधिक लंबी भारत-म्यांमार सीमा पर 31 हजार करोड़ रुपये की लागत से बाड़ लगा रही है। उन्होंने इस बात पर जोर दिया कि सीमावर्ती क्षेत्रों में असामान्य कारकों की वजह से होने वाले जनसांख्यिकीय परिवर्तनों की जानकारी जमीनी स्तर से लेकर उच्च स्तर तक जल्द से जल्द पहुंचाई जानी चाहिए। गृह मंत्री ने कहा कि सरकार का उद्देश्य सीमावर्ती क्षेत्रों को सुरक्षित और रहने योग्य बनाते हुए, परोक्ष युद्ध, अवैध घुसपैठ, कट्टरपंथ, मादक पदार्थों की तस्करी, ड्रोन से संबंधित खतरों और जनसांख्यिकीय परिवर्तनों जैसी अन्य सुरक्षा चुनौतियों को रोकना है। इस सम्मेलन में जम्मू-कश्मीर, पंजाब, उत्तराखंड, राजस्थान, गुजरात, उत्तर प्रदेश, बिहार, पश्चिम बंगाल और पूर्वोत्तर राज्यों सहित सीमावर्ती राज्यों और केंद्र शासित प्रदेशों के पुलिस अधीक्षकों ने भाग लिया। सम्&#x200d;मेलन में गृह मंत्रालय के वरिष्ठ अधिकारियों ने भी भाग लिया। सम्मेलन का उद्देश्य संवेदनशील सीमावर्ती क्षेत्रों की वर्तमान स्थिति का आकलन करके प्रवर्तन में सुधार के उपायों की पहचान कर देश के सीमा सुरक्षा ढांचे को मजबूत करना था। यह सम्मेलन केंद्र सरकार के कुछ महीने पहले लिए गए उस निर्णय की पृष्ठभूमि में आयोजित किया गया था जिसमें देश के विभिन्न हिस्सों में हो रहे जनसांख्यिकीय परिवर्तनों की सीमा का अध्ययन करने और उनके लिए जिम्मेदार कारकों की पहचान करने के लिए एक उच्च स्तरीय समिति गठित करने का निर्णय लिया गया था।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:30:00+00:00",
+        "link": "https://newsonair.gov.in/hi/secure-borders-prosperous-border-regions-and-an-aware-society-together-make-the-country-secure-amit-shah/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1252,101 +1250,89 @@ window.VM_NEWS = {
     ],
     "national": [
       {
-        "title": "निस्वार्थ कर्म मानवता की सबसे बड़ी शक्ति है: प्रधानमंत्री मोदी",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा है कि निस्वार्थ कर्म मानवता की सबसे बड़ी शक्ति है। सोशल मीडिया पोस्‍ट में संस्कृत सुभाषितम साझा करते हुए श्री मोदी ने कहा कि सेवा और समर्पण की इसी भावना से प्रेरित होकर देश प्रत्येक नागरिक के जीवन को बेहतर बनाने के संकल्प के साथ आगे बढ़ रहा है।",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा है कि निस्वार्थ कर्म मानवता की सबसे बड़ी शक्ति है। सोशल मीडिया पोस्&#x200d;ट में संस्कृत सुभाषितम साझा करते हुए श्री मोदी ने कहा कि सेवा और समर्पण की इसी भावना से प्रेरित होकर देश प्रत्येक नागरिक के जीवन को बेहतर बनाने के संकल्प के साथ आगे बढ़ रहा है।",
+        "title": "रेलवे ने छत्तीसगढ़ में 250 इलेक्ट्रिक लोकोमोटिव के लिए अतिरिक्त प्राथमिक रखरखाव केंद्र बनाने के लिए 175 करोड़ रुपये किए मंज़ूर",
+        "summary": "रेलवे ने छत्तीसगढ़ के रायपुर में 250 इलेक्ट्रिक लोकोमोटिव के लिए अतिरिक्त प्राथमिक रखरखाव केंद्र बनाने के लिए 175 करोड़ रुपये मंज़ूर किए हैं। प्राथमिक केंद्र लोकोमोटिव के तय समय पर होने वाले सुरक्षा जाँच, मरम्मत और देखभाल के लिए ज़िम्मेदार होता है। रेल मंत्रालय के अनुसार यह परियोजना भारतीय रेल के विद्युत इंजन बेड़े […]",
+        "article": "रेलवे ने छत्तीसगढ़ के रायपुर में 250 इलेक्ट्रिक लोकोमोटिव के लिए अतिरिक्त प्राथमिक रखरखाव केंद्र बनाने के लिए 175 करोड़ रुपये मंज़ूर किए हैं। प्राथमिक केंद्र लोकोमोटिव के तय समय पर होने वाले सुरक्षा जाँच, मरम्मत और देखभाल के लिए ज़िम्मेदार होता है। रेल मंत्रालय के अनुसार यह परियोजना भारतीय रेल के विद्युत इंजन बेड़े के तेजी से हो रहे विस्तार और पूरे नेटवर्क पर माल ढुलाई और यात्री परिचालन बढ़ोतरी को ध्यान में रखते हुए बुनियादी ढांचे को बेहतर बनाने के प्रयासों का हिस्सा है। अतिरिक्त प्राथमिक केंद्रों से रेलवे मौजूदा बुनियादी ढाँचे का बेहतर इस्तेमाल कर पाएगा और साथ ही रायपुर मंडल भविष्य में तकनीकी विस्तार के लिए महत्वपूर्ण स्थान बन पाएगा।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:02:21+00:00",
-        "link": "https://newsonair.gov.in/hi/selfless-service-is-humanitys-greatest-strength-prime-minister-modi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-10-103142.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-10T10:44:55+00:00",
+        "link": "https://newsonair.gov.in/hi/railways-sanctions-%e2%82%b9175-crore-to-set-up-additional-primary-maintenance-centres-for-250-electric-locomotives-in-chhattisgarh/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "मौसम विभाग ने आज देश के कई हिस्सों में मूसलाधार वर्षा की चेतावनी जारी की",
-        "summary": "मौसम विभाग ने उत्तराखंड में आज मूसलाधार वर्षा की चेतावनी जारी की है। अरुणाचल प्रदेश, असम, मेघालय, सिक्किम, पश्चिम बंगाल के तराई क्षेत्रों और उत्तर प्रदेश के कुछ हिस्सों में भी आज मूसलाधार वर्षा का अनुमान है। अगले 3-4 दिनों में दिल्ली, हरियाणा, चंडीगढ़, हिमाचल प्रदेश, बिहार, पूर्वी मध्य प्रदेश और मध्य महाराष्ट्र में तेज […]",
-        "article": "मौसम विभाग ने उत्तराखंड में आज मूसलाधार वर्षा की चेतावनी जारी की है। अरुणाचल प्रदेश, असम, मेघालय, सिक्किम, पश्चिम बंगाल के तराई क्षेत्रों और उत्तर प्रदेश के कुछ हिस्सों में भी आज मूसलाधार वर्षा का अनुमान है। अगले 3-4 दिनों में दिल्ली, हरियाणा, चंडीगढ़, हिमाचल प्रदेश, बिहार, पूर्वी मध्य प्रदेश और मध्य महाराष्ट्र में तेज बारिश के आसार हैं। कर्नाटक, केरलम, माहे, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, तमिलनाडु, पुद्दुचेरी और कारईक्काल में भी ऐसी ही स्थिति रहने की संभावना है। इस बीच, राष्ट्रीय राजधानी के कई इलाकों में आज सुबह से ही हल्की से मध्यम बारिश हो रही है।",
+        "title": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने ऑस्ट्रेलिया से तमिलनाडु की अमूल्य पुरावशेषों की सफल वापसी पर प्रसन्नता व्यक्त की",
+        "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने ऑस्ट्रेलिया से तमिलनाडु की अमूल्य पुरावशेषों की सफल वापसी पर प्रसन्नता व्यक्त की है। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने कहा कि पुरावशेषों की वापसी भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करने की दिशा में महत्वपूर्ण उपलब्धि है। श्री राधाकृष्णन ने सांस्कृतिक धरोहरों को देश में वापस लाने के लिए […]",
+        "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने ऑस्ट्रेलिया से तमिलनाडु की अमूल्य पुरावशेषों की सफल वापसी पर प्रसन्नता व्यक्त की है। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने कहा कि पुरावशेषों की वापसी भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करने की दिशा में महत्वपूर्ण उपलब्धि है। श्री राधाकृष्णन ने सांस्कृतिक धरोहरों को देश में वापस लाने के लिए सरकार के प्रयासों की सराहना की। उन्होंने कहा कि पुरावशेषों की वापसी में उल्लेखनीय प्रगति हुई है और 2014 से अब तक 600 से अधिक कलाकृतियां भारत लौट चुकी हैं। उपराष्ट्रपति ने कहा कि पुरातत्व अवशेषों की वापसी भारत के विकास भी, विरासत भी के प्रति दृढ़ प्रतिबद्धता को दर्शाती है।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T03:00:28+00:00",
-        "link": "https://newsonair.gov.in/hi/the-meteorological-department-issued-a-warning-for-torrential-rain-in-several-parts-of-the-country-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzN5ZVbwAAGLhh.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-10T10:42:35+00:00",
+        "link": "https://newsonair.gov.in/hi/vice-president-c-p-radhakrishnan-expressed-happiness-over-the-successful-return-of-tamil-nadus-priceless-antiquities-from-australia/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "सरकार ई85 ईंधन लाने की योजना बना रही: हरदीप सिंह पुरी",
-        "summary": "पेट्रोलियम और प्राकृतिक गैस मंत्री हरदीप सिंह पुरी ने कहा है कि सरकार ई85 ईंधन लाने की योजना बना रही है, जो मानक ई20 पेट्रोल से करीब 20 रुपये प्रति लीटर सस्ता होगा। उन्होंने कहा कि ई85 केवल उन वाहनों के लिए उपलब्ध होगा जो विशेष रूप से इस ईंधन के उपयोग के लिए डिज़ाइन […]",
-        "article": "पेट्रोलियम और प्राकृतिक गैस मंत्री हरदीप सिंह पुरी ने कहा है कि सरकार ई85 ईंधन लाने की योजना बना रही है, जो मानक ई20 पेट्रोल से करीब 20 रुपये प्रति लीटर सस्ता होगा। उन्होंने कहा कि ई85 केवल उन वाहनों के लिए उपलब्ध होगा जो विशेष रूप से इस ईंधन के उपयोग के लिए डिज़ाइन किए गए हैं। एक निजी समाचार चैनल को दिए साक्षात्कार में पेट्रोलियम मंत्री ने कहा कि प्रस्तावित कदम का उद्देश्य उपभोक्ताओं को आर्थिक राहत प्रदान करना और साथ ही सरकार के इथेनॉल मिश्रण कार्यक्रम को आगे बढ़ाना है। उन्होंने व्यापक जैव ईंधन नीति का बचाव करते हुए इथेनॉल मिश्रित पेट्रोल से इंजन को होने वाले नुकसान और वाहन के प्रदर्शन से संबंधित चिंताओं को खारिज कर दिया।",
+        "title": "स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने आयुष्मान भारत डिजिटल मिशन की समीक्षा के लिए बैठक की",
+        "summary": "स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने आज आयुष्मान भारत डिजिटल मिशन की प्रगति की समीक्षा के लिए मिशन संचालन समूह की तीसरी बैठक की अध्यक्षता की। बैठक में बताया गया कि आयुष्मान भारत डिजिटल मिशन विश्व के सबसे बड़े डिजिटल स्वास्थ्य पारिस्थितिकी तंत्रों में से एक के रूप में उभरा है। इसमें […]",
+        "article": "स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने आज आयुष्मान भारत डिजिटल मिशन की प्रगति की समीक्षा के लिए मिशन संचालन समूह की तीसरी बैठक की अध्यक्षता की। बैठक में बताया गया कि आयुष्मान भारत डिजिटल मिशन विश्व के सबसे बड़े डिजिटल स्वास्थ्य पारिस्थितिकी तंत्रों में से एक के रूप में उभरा है। इसमें लगभग 94 करोड़ आयुष्मान भारत स्वास्थ्य खाता संख्याएँ बनाई गई हैं और 105 करोड़ स्वास्थ्य रिकॉर्ड लिंक किए गए हैं। इसमें यह भी बताया गया कि 53 लाख स्वास्थ्य सुविधाएं और लगभग 10 लाख स्वास्थ्य पेशेवर राष्ट्रीय डिजिटल स्वास्थ्य रजिस्टरों पर पंजीकृत हैं। बैठक को संबोधित करते हुए श्री नड्डा ने कहा कि मिशन के तहत एक मजबूत डिजिटल स्वास्थ्य सेवा बुनियादी ढांचा का निर्माण किया गया है और अगले चरण में इसके अधिकतम उपयोग पर ध्यान केंद्रित किया जाना चाहिए। उन्होंने कहा कि सार्वभौमिक स्वास्थ्य कवरेज प्राप्त करने के लिए प्रौद्योगिकी एक शक्तिशाली साधन के रूप में कार्य करती रहनी चाहिए, साथ ही प्रत्येक नागरिक के लिए समावेशिता, पहुंच और उपयोग में आसानी सुनिश्चित करनी चाहिए। श्री नड्डा ने गुणवत्तापूर्ण स्वास्थ्य सेवा तक पहुंच में सुधार लाने, देखभाल की निरंतरता को बढ़ाने और नागरिकों को उनके स्वास्थ्य रिकॉर्ड तक सुरक्षित और सहमति-आधारित पहुंच प्रदान करके सशक्त बनाने में डिजिटल सार्वजनिक अवसंरचना की परिवर्तनकारी भूमिका पर भी जोर दिया। बैठक में मिशन के भविष्य के रोडमैप पर भी विचार-विमर्श किया गया, जिसमें डिजिटल स्वास्थ्य को अपनाने को बढ़ावा देना, एआई सहित उभरती प्रौद्योगिकियों का लाभ उठाना, संस्थागत क्षमताओं को मजबूत करना और राज्यों और केंद्र शासित प्रदेशों के साथ सहयोग को गहरा करना शामिल था।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:23:12+00:00",
-        "link": "https://newsonair.gov.in/hi/government-planning-to-introduce-e85-fuel-hardeep-singh-puri/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Hardeep.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-10T10:40:50+00:00",
+        "link": "https://newsonair.gov.in/hi/health-and-family-welfare-minister-jagat-prakash-nadda-held-a-meeting-to-review-the-ayushman-bharat-digital-mission/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बनाते हैं: अमित शाह",
-        "summary": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा […]",
-        "article": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा कि सरकार देश को पूरी तरह से घुसपैठ मुक्त बनाने के लिए एक मजबूत व्यवस्था का निर्माण कर रही है। श्री शाह कल नई दिल्ली में सीमावर्ती जिलों के पुलिस अधीक्षकों के एक सम्मेलन को संबोधित कर रहे थे। उन्होंने बताया कि नरेंद्र मोदी के नेतृत्व वाली सरकार ने वैज्ञानिक रूप से सीमावर्ती बुनियादी ढांचे में चार सौ प्रतिशत की वृद्धि की है। श्री शाह ने कहा कि सरकार 1600 किलोमीटर से अधिक लंबी भारत-म्यांमार सीमा पर 31 हजार करोड़ रुपये की लागत से बाड़ लगा रही है। उन्होंने इस बात पर जोर दिया कि सीमावर्ती क्षेत्रों में असामान्य कारकों की वजह से होने वाले जनसांख्यिकीय परिवर्तनों की जानकारी जमीनी स्तर से लेकर उच्च स्तर तक जल्द से जल्द पहुंचाई जानी चाहिए। गृह मंत्री ने कहा कि सरकार का उद्देश्य सीमावर्ती क्षेत्रों को सुरक्षित और रहने योग्य बनाते हुए, परोक्ष युद्ध, अवैध घुसपैठ, कट्टरपंथ, मादक पदार्थों की तस्करी, ड्रोन से संबंधित खतरों और जनसांख्यिकीय परिवर्तनों जैसी अन्य सुरक्षा चुनौतियों को रोकना है। इस सम्मेलन में जम्मू-कश्मीर, पंजाब, उत्तराखंड, राजस्थान, गुजरात, उत्तर प्रदेश, बिहार, पश्चिम बंगाल और पूर्वोत्तर राज्यों सहित सीमावर्ती राज्यों और केंद्र शासित प्रदेशों के पुलिस अधीक्षकों ने भाग लिया। सम्&#x200d;मेलन में गृह मंत्रालय के वरिष्ठ अधिकारियों ने भी भाग लिया। सम्मेलन का उद्देश्य संवेदनशील सीमावर्ती क्षेत्रों की वर्तमान स्थिति का आकलन करके प्रवर्तन में सुधार के उपायों की पहचान कर देश के सीमा सुरक्षा ढांचे को मजबूत करना था। यह सम्मेलन केंद्र सरकार के कुछ महीने पहले लिए गए उस निर्णय की पृष्ठभूमि में आयोजित किया गया था जिसमें देश के विभिन्न हिस्सों में हो रहे जनसांख्यिकीय परिवर्तनों की सीमा का अध्ययन करने और उनके लिए जिम्मेदार कारकों की पहचान करने के लिए एक उच्च स्तरीय समिति गठित करने का निर्णय लिया गया था।",
+        "title": "प्रधानमंत्री मोदी अपने तीन देशों के दौरे के अंतिम चरण में न्यूजीलैंड के ऑकलैंड पहुंचे",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी अपने तीन देशों के दौरे के अंतिम चरण में आज न्यूजीलैंड के ऑकलैंड पहुंचे। हवाई अड्डे पर प्रधानमंत्री लक्सन ने श्री मोदी का स्वागत किया और दोनों नेताओं ने एक-दूसरे को गले लगाया। हवाई अड्डे के रनवे पर भी प्रधानमंत्री मोदी का औपचारिक स्वागत किया गया, जिसमें भारतीय और न्यूजीलैंड सशस्त्र बलों […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी अपने तीन देशों के दौरे के अंतिम चरण में आज न्यूजीलैंड के ऑकलैंड पहुंचे। हवाई अड्डे पर प्रधानमंत्री लक्सन ने श्री मोदी का स्वागत किया और दोनों नेताओं ने एक-दूसरे को गले लगाया। हवाई अड्डे के रनवे पर भी प्रधानमंत्री मोदी का औपचारिक स्वागत किया गया, जिसमें भारतीय और न्यूजीलैंड सशस्त्र बलों के प्रतिनिधि उपस्थित थे।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:19:00+00:00",
-        "link": "https://newsonair.gov.in/hi/secure-borders-prosperous-border-regions-and-an-aware-society-together-make-the-country-secure-amit-shah/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzYWyNaoAAXI3z.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-10T10:23:04+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-arrived-in-auckland-new-zealand-on-the-final-leg-of-his-three-nation-tour/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "कुशल कार्यबल और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों के पसंदीदा देशों में शामिल: वित्त मंत्री",
-        "summary": "वित्त मंत्री निर्मला सीतारामन ने कहा है कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों &#8211; जीसीसी के लिए सबसे पसंदीदा देशों में शामिल है। नई दिल्ली में सीआईआई राष्ट्रीय जीसीसी बिजनेस समिट-2026 को संबोधित करते हुए वित्तमंत्री ने कहा कि देश में इक्कीस सौ से अधिक जीसीसी हैं, जहां […]",
-        "article": "वित्त मंत्री निर्मला सीतारामन ने कहा है कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों &#8211; जीसीसी के लिए सबसे पसंदीदा देशों में शामिल है। नई दिल्ली में सीआईआई राष्ट्रीय जीसीसी बिजनेस समिट-2026 को संबोधित करते हुए वित्तमंत्री ने कहा कि देश में इक्कीस सौ से अधिक जीसीसी हैं, जहां 23 लाख से अधिक लोग प्रत्यक्ष रूप से कार्यरत हैं। इन केंद्रों से हर साल लगभग दस हज़ार करोड़ डॉलर का राजस्व प्राप्त होता है। उन्होंने कहा कि यह केंद्र इंजीनियरिंग, अनुसंधान, आर्टिफिशियल इंटेलीजेंस, साइबर सुरक्षा, वित्त, उत्पाद डिजाइन और डेटा विज्ञान को एक साथ लाकर नवाचार को बढ़ावा दे रहे हैं। वित्त मंत्री ने कहा कि बहुराष्ट्रीय कंपनियां अपने क्षमता केंद्र भारत में स्थापित करने की अधिक इच्छा रखती हैं। उन्होंने बल देकर कहा कि भारत का जीसीसी पारिस्थितिकी तंत्र विश्व का सबसे बड़ा संगठित ज्ञान निर्यात केंद्र है। वित्त मंत्री ने कहा कि भारत की आकांक्षा केवल विश्व के क्षमता केंद्रों की मेजबानी करना ही नहीं है, बल्कि भविष्य की नई प्रौद्योगिकियों और उद्यमों का नेतृत्व करना भी है।",
+        "title": "प्रधानमंत्री नरेंद्र मोदी पहुंचे न्यूज़ीलैंड, न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने किया स्वागत",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी न्यूज़ीलैंड पहुंचे, न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने किया पीएम मोदी का स्वागत। 4 दशक बाद किसी भारतीय पीएम की यह पहली न्यूज़ीलैंड यात्रा है। प्रधानमंत्री नरेन्‍द्र मोदी ने ऑस्‍ट्रेलिया की अपनी एतिहासिक और महत्‍वपूर्ण राजकीय यात्रा आधिकारिक रूप से संपन्‍न कर ली है। इस यात्रा ने भारत-ऑस्‍ट्रेलिया व्‍यापक रणनीतिक साझेदारी को […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी न्यूज़ीलैंड पहुंचे, न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने किया पीएम मोदी का स्वागत। 4 दशक बाद किसी भारतीय पीएम की यह पहली न्यूज़ीलैंड यात्रा है। प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने ऑस्&#x200d;ट्रेलिया की अपनी एतिहासिक और महत्&#x200d;वपूर्ण राजकीय यात्रा आधिकारिक रूप से संपन्&#x200d;न कर ली है। इस यात्रा ने भारत-ऑस्&#x200d;ट्रेलिया व्&#x200d;यापक रणनीतिक साझेदारी को भविष्&#x200d;य के अनुरुप एक नई दिशा और मजबूत आधार प्रदान किया है। यात्रा के दौरान दोनों देशों के बीच कूटनीतिक, आर्थिक और सुरक्षा संबंध नई उंचाईयों पर पहुंचे। यात्रा की शुरूआत भारत-ऑस्&#x200d;ट्रेलिया मुख्&#x200d;य कार्यकारी मंच से हुई, जहां कारोबार जगत के प्रमुखों ने वर्ष 2022 के आर्थिक सहयोग और व्&#x200d;यापार समझौते से द्विपक्षीय व्&#x200d;यापार में 55 प्रतिशत की वृद्धि का स्&#x200d;वागत किया। इस गति को आगे बढ़ाने के लिए प्रधानमंत्री मोदी और ऑस्&#x200d;ट्रेलिया के प्रधानमंत्री एंथनी एल्&#x200d;बनीज ने व्&#x200d;यापक आर्थिक सहयोग समझौते पर वार्ता में तेजी लाने पर सहमति व्&#x200d;यक्&#x200d;त की। स्&#x200d;वच्&#x200d;छ ऊर्जा के क्षेत्र में भी दोनों देशों ने ऐतिहासिक उपलब्धि हासिल की। भारत को ऑस्&#x200d;ट्रेलिया से दीर्घकालिक यूरेनियम आ&#x200d;पूर्ति सुनिश्चित करने के लिए प्रशासनिक व्&#x200d;यवस्&#x200d;था को अंतिम रूप दिया गया। स्&#x200d;वतंत्र और मुक्&#x200d;त हिन्&#x200d;द प्रशांत क्षेत्र के लिए दोनों देशों ने रक्षा और सुरक्षा सहयोग पर संयुक्&#x200d;त घोषणा पत्र तथा समुद्री सुरक्षा सहयोग प्रारूप स्&#x200d;वीकार किया। यात्रा का सबसे प्रभावशाली जनसंपर्क कार्यक्रम मेलबर्न के मार्वल स्&#x200d;टेडियम में आयोजित मेलबर्न मीट्स मोदी प्रवासी भारतीय सम्&#x200d;मेलन रहा, जिसमें लगभग 25 हजार लोग उपस्थित थे। प्रधानमंत्री मोदी ने लगभग 10 लाख भारतीय मूल के ऑस्&#x200d;ट्रेलियाई लोगों को दोनों देशों के बीच जीवंत सेतु बताया। प्रधानमंत्री एंथनी एल्&#x200d;बनीज ने भी भारतीय समुदाय सराहना करते हुए कहा कि ये बहु-सांस्&#x200d;कृतिक शक्ति ऑस्&#x200d;ट्रेलिया की समृद्धि में महत्&#x200d;वपूर्ण योगदान दे रही है। प्रधानमंत्री मोदी ने ऑस्&#x200d;ट्रेलिया में विपक्ष के नेता एंगस टेलर से भी मुलाकात की। श्री टेलर ने प्रधानमंत्री मोदी को ऑस्ट्रेलिया का सच्&#x200d;चा मित्र बताते हुए अंतर्राष्&#x200d;ट्रीय सौर गठबंधन और शांतिपूर्ण उद्देश्&#x200d;यों के लिए यूरेनियम निर्यात जैसी पहलों का समर्थन किया। यात्रा का समापन प्रतिष्ठित मेलबर्न क्रिकेट मैदान में खेल कूटनीति के ऐतिहासिक कार्यक्रम के साथ हुआ। दोनों नेताओं ने भारत-ऑस्&#x200d;ट्रेलिया खेल सहयोग प्रारूप जारी किया जिससे खेल विज्ञान और खेल अवसंरचना के क्षेत्र में सहयोग को नई गति मिलेगी। ये पहल ऐसे समय में शुरू की गई है जब भारत 2030 के राष्&#x200d;ट्रमंडल खेलों की तैयारी मे जुटा है और ऑस्&#x200d;ट्र&#x200d;ेलिया 2032 के ब्रिसबेन ओलम्पिक की बेजबानी की तैयारी कर रहा है। इस अवसर पर क्रिकेट जगत के लिए भी महत्&#x200d;वपूर्ण घोषणा की गई। ऑस्&#x200d;ट्रेलिया की पुरूष बिग बैश लीग का उद्घाटन मैच इस वर्ष दिसंबर चेन्&#x200d;नई में आयोजित होगा।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T01:46:15+00:00",
-        "link": "https://newsonair.gov.in/hi/india-among-preferred-destinations-for-global-capability-centres-due-to-skilled-workforce-and-innovation-finance-minister/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzJdF4boAA0p-8.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-10T09:05:53+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-arrives-in-new-zealand/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "वित्त मंत्री निर्मला सीतारमण ने नेशनल जीसीसी बिजनेस समिट 2026 को किया संबोधित",
-        "summary": "वित्त मंत्री निर्मला सीतारमण ने आज कहा कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार पारिस्थितिकी तंत्र के कारण भारत वैश्विक क्षमता केंद्र (जीसीसी) के लिए पसंदीदा गंतव्य के रूप में उभर रहा है। नई दिल्ली में भारतीय उद्योग परिसंघ द्वारा आयोजित नेशनल जीसीसी बिजनेस समिट 2026 को संबोधित करते हुए, सुश्री सीतारामन ने कहा कि […]",
-        "article": "वित्त मंत्री निर्मला सीतारमण ने आज कहा कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार पारिस्थितिकी तंत्र के कारण भारत वैश्विक क्षमता केंद्र (जीसीसी) के लिए पसंदीदा गंतव्य के रूप में उभर रहा है। नई दिल्ली में भारतीय उद्योग परिसंघ द्वारा आयोजित नेशनल जीसीसी बिजनेस समिट 2026 को संबोधित करते हुए, सुश्री सीतारामन ने कहा कि देश में 2100 से अधिक वैश्विक क्षमता केंद्र हैं, जिनमें 23 लाख पेशेवर प्रत्यक्ष रूप से कार्यरत हैं और लगभग 100 अरब अमरीकी डॉलर का वार्षिक राजस्व उत्पन्न होता है। उन्होंने कहा कि वैश्विक क्षमता केंद्र इंजीनियरिंग, अनुसंधान, एआई, साइबर सुरक्षा, वित्त, उत्पाद डिजाइन और डेटा विज्ञान को एक साथ लाकर निरंतर नवाचार को बढ़ावा देकर परिवर्तन का प्रतिनिधित्व करते हैं।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:37:59+00:00",
-        "link": "https://newsonair.gov.in/hi/finance-minister-nirmala-sitharaman-addressed-the-national-gcc-business-summit-2026/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/निर्मला.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विकसित भारत-2047 के लिए जे.पी. नड्डा का बुद्धिजीवियों से राष्ट्र निर्माण का आह्वान",
-        "summary": "केंद्रीय स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने बुद्धिजीवियों से विकासशील भारत-2047 के लक्ष्य को प्राप्त करने के लिए राष्ट्र निर्माण प्रक्रिया में भागीदार बनने का आह्वान किया। हैदराबाद में आज आयोजित बुद्धिजीवी सम्मेलन को संबोधित करते हुए जेपी नड्डा ने कहा कि केंद्र सरकार का शासन &#8220;सबका साथ, सबका विकास, सबका विश्वास&#8221; […]",
-        "article": "केंद्रीय स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने बुद्धिजीवियों से विकासशील भारत-2047 के लक्ष्य को प्राप्त करने के लिए राष्ट्र निर्माण प्रक्रिया में भागीदार बनने का आह्वान किया। हैदराबाद में आज आयोजित बुद्धिजीवी सम्मेलन को संबोधित करते हुए जेपी नड्डा ने कहा कि केंद्र सरकार का शासन &#8220;सबका साथ, सबका विकास, सबका विश्वास&#8221; और &#8220;सभी के लिए न्याय&#8221; के सिद्धांतों पर आधारित है। उन्होंने कहा कि प्रधानमंत्री नरेंद्र मोदी के नेतृत्व में सरकार का दृष्टिकोण समावेशी विकास, जवाबदेही, प्रभावी कार्यान्वयन और प्रत्येक नागरिक के सम्मान को सुनिश्चित करने पर केंद्रित है। उन्होंने कहा कि सरकार ने ग्रामीण और दूरस्थ क्षेत्रों में बिजली, सड़क संपर्क और आवश्यक बुनियादी ढांचे की पहुंच बढ़ाकर आर्थिक विकास और आम जनता के कल्याण दोनों को प्राथमिकता दी है। श्री नड्डा ने कहा कि बेहतर सड़कों ने किसानों को कृषि उपज को बाजारों तक अधिक कुशलता से पहुंचाने में मदद करके ग्रामीण अर्थव्यवस्थाओं को मजबूत किया है। इससे बेहतर आय और उत्पादकता प्राप्त हुई है। भारत के डिजिटल परिवर्तन का उल्लेख करते हुए नड्डा ने कहा कि डिजिटल भुगतान और प्रत्यक्ष लाभ हस्तांतरण &#8211; डीबीटी ने पारदर्शिता और वित्तीय समावेशन में सुधार किया है। उन्होंने कहा कि क्यूआर कोड आधारित लेनदेन गांवों और छोटे कस्बों में भी आम हो गए हैं। यह देश भर में डिजिटल प्रौद्योगिकी के बढ़ते उपयोग को दर्शाता है। गरीबी उन्मूलन और कल्याणकारी कार्यक्रमों का जिक्र करते हुए उन्होंने कहा कि लाखों लोग गरीबी से बाहर निकल चुके हैं। वहीं लाभार्थियों को आवास, वित्तीय सहायता और स्वास्थ्य देखभाल योजनाओं के तहत सहायता मिलती रहती है। श्री नड्डा ने आयुष्मान भारत को दुनिया का सबसे बड़ा सार्वजनिक स्वास्थ्य बीमा कार्यक्रम बताया। यह पात्र लाभार्थियों को 5 लाख रुपये तक का स्वास्थ्य कवरेज प्रदान करता है। उन्होंने स्वच्छ भारत मिशन का उल्लेख करते हुए कहा कि देश भर में शौचालयों के निर्माण से विशेष रूप से महिलाओं के लिए स्वच्छता और सम्मान में सुधार हुआ है। आंतरिक सुरक्षा पर श्री नड्डा ने बताया कि सरकार ने वामपंथी उग्रवाद के प्रति शून्य-सहिष्णुता नीति अपनाई है। उन्होंने दावा किया कि प्रभावित जिलों की संख्या में पिछले कुछ वर्षों में काफी कमी आई है। श्री नड्डा ने आतंकवाद विरोधी अभियानों में सशस्त्र बलों के पेशेवर रवैये और सटीकता की भी प्रशंसा की। उन्होंने कहा कि आधुनिक प्रौद्योगिकी और उन्नत क्षमताओं के माध्यम से भारत की रक्षा तैयारियों को मजबूत किया गया है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:36:48+00:00",
-        "link": "https://newsonair.gov.in/hi/j-p-nadda-calls-upon-intellectuals-to-contribute-to-nation-building-for-a-viksit-bharat-2047-developed-india-2047/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/J-p-Nadda.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "डीपीआईआईटी ने दो गुणवत्ता नियंत्रण आदेशों में संशोधन किया",
-        "summary": "उद्योग और आंतरिक व्यापार संवर्धन विभाग (डीपीआईआईटी) ने व्यापार सुगमता को बढ़ावा देने और घरेलू जूता निर्माण प्रणाली को मजबूत करने के उद्देश्य से जूता क्षेत्र से संबंधित दो गुणवत्ता नियंत्रण आदेशों (क्यूसीओ) में संशोधन किया है। वाणिज्य और उद्योग मंत्रालय ने बताया कि अधिसूचित संशोधन चमड़े और अन्य सामग्रियों से बने जूता तथा पूर्णतः […]",
-        "article": "उद्योग और आंतरिक व्यापार संवर्धन विभाग ( डीपीआईआईटी) ने व्यापार सुगमता को बढ़ावा देने और घरेलू जूता निर्माण प्रणाली को मजबूत करने के उद्देश्य से जूता क्षेत्र से संबंधित दो गुणवत्ता नियंत्रण आदेशों (क्यूसीओ) में संशोधन किया है। वाणिज्य और उद्योग मंत्रालय ने बताया कि अधिसूचित संशोधन चमड़े और अन्य सामग्रियों से बने जूता तथा पूर्णतः रबर और पूर्णतः पॉलिमर सामग्री और उसके घटकों से बने जूता से संबंधित हैं। संशोधनों के अंतर्गत, पुराने स्टॉक को निपटाने की समयसीमा इस वर्ष की 31 जुलाई से बढ़ाकर अगले वर्ष की इसी तिथि तक कर दी गई है। यह अतिरिक्त एक वर्ष की अवधि निर्माताओं, वितरकों और खुदरा विक्रेताओं को मौजूदा स्टॉक को व्यवस्थित रूप से निपटाने के लिए पर्याप्त समय प्रदान करेगी। इससे अनुपालन का बोझ कम होने, व्यापार में व्यवधान कम होने और यह सुनिश्चित होने की उम्मीद है कि इसके बाद बाजार में केवल बीआईएस प्रमाणित जूता उत्पाद ही बेचे जाएं। संशोधनों में अनुसंधान और विकास के लिए नमूनों के आयात पर छूट भी दी गई है। चमड़े और जूते बनाने वाली कंपनियां अनुसंधान और विकास तथा अन्य गैर-व्यावसायिक उद्देश्यों के लिए प्रतिवर्ष अधिकतम चार हजार पांच सौ जोड़ी जूते आयात कर सकती हैं।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:35:38+00:00",
-        "link": "https://newsonair.gov.in/hi/dpiit-amended-two-quality-control-orders-for-the-footwear-sector/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर",
-        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कुवैत की यात्रा पूरी करने के बाद ओमान पहुंच गए हैं। उनके आगमन पर ओमान के विदेश मंत्रालय के महानिदेशक शेख अहमद अल मस्कारी ने उनका स्वागत किया। डॉ. जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर हैं। ओमान यात्रा पूरी करने के बाद, […]",
-        "article": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कुवैत की यात्रा पूरी करने के बाद ओमान पहुंच गए हैं। उनके आगमन पर ओमान के विदेश मंत्रालय के महानिदेशक शेख अहमद अल मस्कारी ने उनका स्वागत किया। डॉ. जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर हैं। ओमान यात्रा पूरी करने के बाद, वे न्यूयॉर्क में संयुक्त राष्ट्र सुरक्षा परिषद के 2028-29 कार्यकाल के लिए भारत के आधिकारिक अभियान की शुरुआत करेंगे। इसके बाद विदेश मंत्री 14 और 15 जुलाई को ब्रुसेल्स में तीसरे भारत-यूरोपीय संघ व्यापार और प्रौद्योगिकी परिषद की बैठक में शामिल होंगे। डॉ. जयशंकर यूरोपीय संघ और बेल्जियम के विदेश मंत्री के साथ बातचीत भी करेंगे।",
+        "title": "मौसम विभाग ने देश के कई हिस्सों में अगले दो दिन तक मूसलाधार बारिश का अनुमान व्‍यक्‍त किया",
+        "summary": "मौसम विभाग ने उत्तराखंड में आज मूसलाधार वर्षा और कुछ स्थानों पर अत्यधिक तेज बारिश का अनुमान व्‍यक्‍त किया है। अगले दो दिन तक हरियाणा, हिमाचल प्रदेश, उत्तर प्रदेश, बिहार, उप-हिमालयी पश्चिम बंगाल, सिक्किम और उत्तर-पूर्वी भारत के उत्तरी भागों में मूसलाधार बारिश होने की संभावना है। इस बीच, राष्ट्रीय राजधानी दिल्‍ली में कुछ […]",
+        "article": "मौसम विभाग ने उत्तराखंड में आज मूसलाधार वर्षा और कुछ स्थानों पर अत्यधिक तेज बारिश का अनुमान व्&#x200d;यक्&#x200d;त किया है। अगले दो दिन तक हरियाणा, हिमाचल प्रदेश, उत्तर प्रदेश, बिहार, उप-हिमालयी पश्चिम बंगाल, सिक्किम और उत्तर-पूर्वी भारत के उत्तरी भागों में मूसलाधार बारिश होने की संभावना है। इस बीच, राष्ट्रीय राजधानी दिल्&#x200d;ली में कुछ जगह आज तड़के हल्की बारिश हुई। आकाशवाणी से बात करते हुए, मौसम विभाग के वैज्ञानिक डॉ. शशि कांत ने बताया कि दिल्ली और आसपास के क्षेत्र में आज और कल कोई चेतावनी नहीं है।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T01:50:45+00:00",
-        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-on-an-11-day-visit-to-qatar-bahrain-kuwait-oman-new-york-and-brussels/",
-        "post_id": 1728866,
+        "pubDate": "2026-07-10T08:45:39+00:00",
+        "link": "https://newsonair.gov.in/hi/the-meteorological-department-has-forecast-torrential-rain-in-several-parts-of-the-country-over-the-next-two-days/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्र सरकार ने उच्च अल्कोहल मात्रा वाली औषधियों के नियमन को और सख्त करने के लिए नियम में संशोधन किया",
+        "summary": "केंद्र सरकार ने उच्च अल्कोहल मात्रा वाली औषधियों के नियमन को और सख्त करने के लिए औषधि नियम, 1945 में संशोधन किया है। स्वास्थ्य और परिवार कल्याण मंत्रालय ने इथाएल अल्कोहल युक्त औषधियों के लिए अनुसूची-के के तहत लाइसेंस अनिवार्यता से मिली मौजूदा छूट समाप्त कर दी है। मंत्रालय की अधिसूचना के अनुसार, 30 मिलीलीटर […]",
+        "article": "केंद्र सरकार ने उच्च अल्कोहल मात्रा वाली औषधियों के नियमन को और सख्त करने के लिए औषधि नियम, 1945 में संशोधन किया है। स्वास्थ्य और परिवार कल्याण मंत्रालय ने इथाएल अल्कोहल युक्त औषधियों के लिए अनुसूची-के के तहत लाइसेंस अनिवार्यता से मिली मौजूदा छूट समाप्त कर दी है। मंत्रालय की अधिसूचना के अनुसार, 30 मिलीलीटर से अधिक मात्रा में 12 प्रतिशत से अधिक इथाएल अल्कोहल वाली सभी औषधियों को अब छूट प्रदान नहीं की जाएगी। ऐसी औषधियों को औषधि और कॉस्&#x200d;मेटिक अधिनियम 1940 के अंतर्गत आवश्&#x200d;यक लाइसेंस प्राप्&#x200d;त करना होगा। अब तक इलायची, अदरक और अन्य सुगंधित औषधियों के टिंचर जैसे कुछ औषधीय उत्पादों को औषधि नियम, 1945 की अनुसूची-के के तहत लाइसेंस लेने से छूट प्राप्त थी। इनमें से कुछ औषधियों में इथाएल अल्कोहल की मात्रा काफी अधिक 80 से 90 प्रतिशत तक होती है, जिससे इनके नशे के लिए दुरुपयोग की आशंका रहती थी। इस संशोधन से अल्कोहल युक्त औषधीय उत्पादों पर नियामक निगरानी और मजबूत होने की उम्&#x200d;मीद है। इससे इनकी आपूर्ति केवल अधिकृत दवा आपूर्ति श्रृंखला के माध्यम से सुनिश्चित की जा सकेगी। साथ ही, दुरुपयोग और अवैध इस्तेमाल की संभावना कम होगी तथा वैध चिकित्सीय उपयोग के लिए इनकी उपलब्धता भी बनी रहेगी।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:43:57+00:00",
+        "link": "https://newsonair.gov.in/hi/the-central-government-has-amended-the-rules-to-further-tighten-the-regulation-of-medicines-with-high-alcohol-content/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी ने अपनी ऑस्ट्रेलिया यात्रा को लेकर ऑस्ट्रेलिया सरकार और वहां की जनता का आभार व्यक्त किया",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने अपनी ऑस्ट्रेलिया यात्रा के दौरान मिले भव्‍य स्‍वागत और आतिथ्य के लिए ऑस्ट्रेलिया सरकार और वहां की जनता के साथ-साथ ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ का आभार व्यक्त किया है। ऑस्ट्रेलिया यात्रा के समापन पर सोशल मीडिया पर श्री मोदी ने कहा कि इस यात्रा के परिणामों ने भारत-ऑस्ट्रेलिया साझेदारी को और […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने अपनी ऑस्ट्रेलिया यात्रा के दौरान मिले भव्&#x200d;य स्&#x200d;वागत और आतिथ्य के लिए ऑस्ट्रेलिया सरकार और वहां की जनता के साथ-साथ ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ का आभार व्यक्त किया है। ऑस्ट्रेलिया यात्रा के समापन पर सोशल मीडिया पर श्री मोदी ने कहा कि इस यात्रा के परिणामों ने भारत-ऑस्ट्रेलिया साझेदारी को और मजबूत किया है और विभिन्न क्षेत्रों में सहयोग के नए रास्ते खोले हैं। उन्होंने विश्वास व्यक्त किया कि इस यात्रा से मिली गति दोनों देशों के लिए लाभकारी होगी और वैश्विक समुदाय में सकारात्मक योगदान देगी।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:36:19+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-expressed-his-gratitude-to-the-australian-government-and-the-people-of-australia-for-his-visit-to-the-country/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1356,9 +1342,19 @@ window.VM_NEWS = {
         "summary": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते […]",
         "article": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते हुए, संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि, राजदूत पी. ​​हरीश ने कहा कि इस तरह की हिंसा दण्ड मुक्ति की प्रचलित संस्कृति के बीच जारी है। उन्&#x200d;होंने कहा कि भारत ऐसे जघन्य कृत्यों की कड़ी निंदा करता है। संयुक्त राष्ट्र महासचिव की रिपोर्ट का संदर्भ देते हुए उन्होंने कहा कि 2025 में सत्यापित मामलों में हुई तीव्र वृद्धि सामूहिक कार्रवाई की तत्काल आवश्यकता को रेखांकित करती है। संयुक्त राष्ट्र शांतिरक्षा में भारत के महत्वपूर्ण योगदानों पर प्रकाश डालते हुए, श्री हरीश ने कहा कि महिला शांतिरक्षकों की तैनाती ने संघर्ष-संबंधी यौन हिंसा से निपटने में &#8220;परिवर्तनकारी प्रभाव&#8221; डाला है। उन्होंने यह घोषणा भी की कि संघर्ष से संबंधित यौन हिंसा को रोकने में उनके उत्कृष्ट प्रयासों के लिए भारतीय शांति रक्षक मेजर मोइज़ यासीन और मेजर सोनिया देवेंद्र नवस्कर को वर्ष 2026 के लिए संयुक्त राष्ट्र महासचिव का मिलिट्री जेंडर ऑफ द ईयर का मान्&#x200d;यता प्रमाणपत्र प्रदान किया जाएगा।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T01:37:00+00:00",
+        "pubDate": "2026-07-10T08:35:00+00:00",
         "link": "https://newsonair.gov.in/hi/india-strongly-condemned-conflict-related-sexual-violence/",
-        "post_id": 1728862,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बनाते हैं: अमित शाह",
+        "summary": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा […]",
+        "article": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा कि सरकार देश को पूरी तरह से घुसपैठ मुक्त बनाने के लिए एक मजबूत व्यवस्था का निर्माण कर रही है। श्री शाह कल नई दिल्ली में सीमावर्ती जिलों के पुलिस अधीक्षकों के एक सम्मेलन को संबोधित कर रहे थे। उन्होंने बताया कि नरेंद्र मोदी के नेतृत्व वाली सरकार ने वैज्ञानिक रूप से सीमावर्ती बुनियादी ढांचे में चार सौ प्रतिशत की वृद्धि की है। श्री शाह ने कहा कि सरकार 1600 किलोमीटर से अधिक लंबी भारत-म्यांमार सीमा पर 31 हजार करोड़ रुपये की लागत से बाड़ लगा रही है। उन्होंने इस बात पर जोर दिया कि सीमावर्ती क्षेत्रों में असामान्य कारकों की वजह से होने वाले जनसांख्यिकीय परिवर्तनों की जानकारी जमीनी स्तर से लेकर उच्च स्तर तक जल्द से जल्द पहुंचाई जानी चाहिए। गृह मंत्री ने कहा कि सरकार का उद्देश्य सीमावर्ती क्षेत्रों को सुरक्षित और रहने योग्य बनाते हुए, परोक्ष युद्ध, अवैध घुसपैठ, कट्टरपंथ, मादक पदार्थों की तस्करी, ड्रोन से संबंधित खतरों और जनसांख्यिकीय परिवर्तनों जैसी अन्य सुरक्षा चुनौतियों को रोकना है। इस सम्मेलन में जम्मू-कश्मीर, पंजाब, उत्तराखंड, राजस्थान, गुजरात, उत्तर प्रदेश, बिहार, पश्चिम बंगाल और पूर्वोत्तर राज्यों सहित सीमावर्ती राज्यों और केंद्र शासित प्रदेशों के पुलिस अधीक्षकों ने भाग लिया। सम्&#x200d;मेलन में गृह मंत्रालय के वरिष्ठ अधिकारियों ने भी भाग लिया। सम्मेलन का उद्देश्य संवेदनशील सीमावर्ती क्षेत्रों की वर्तमान स्थिति का आकलन करके प्रवर्तन में सुधार के उपायों की पहचान कर देश के सीमा सुरक्षा ढांचे को मजबूत करना था। यह सम्मेलन केंद्र सरकार के कुछ महीने पहले लिए गए उस निर्णय की पृष्ठभूमि में आयोजित किया गया था जिसमें देश के विभिन्न हिस्सों में हो रहे जनसांख्यिकीय परिवर्तनों की सीमा का अध्ययन करने और उनके लिए जिम्मेदार कारकों की पहचान करने के लिए एक उच्च स्तरीय समिति गठित करने का निर्णय लिया गया था।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:30:00+00:00",
+        "link": "https://newsonair.gov.in/hi/secure-borders-prosperous-border-regions-and-an-aware-society-together-make-the-country-secure-amit-shah/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1366,101 +1362,89 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
-        "title": "निस्वार्थ कर्म मानवता की सबसे बड़ी शक्ति है: प्रधानमंत्री मोदी",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने कहा है कि निस्वार्थ कर्म मानवता की सबसे बड़ी शक्ति है। सोशल मीडिया पोस्‍ट में संस्कृत सुभाषितम साझा करते हुए श्री मोदी ने कहा कि सेवा और समर्पण की इसी भावना से प्रेरित होकर देश प्रत्येक नागरिक के जीवन को बेहतर बनाने के संकल्प के साथ आगे बढ़ रहा है।",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने कहा है कि निस्वार्थ कर्म मानवता की सबसे बड़ी शक्ति है। सोशल मीडिया पोस्&#x200d;ट में संस्कृत सुभाषितम साझा करते हुए श्री मोदी ने कहा कि सेवा और समर्पण की इसी भावना से प्रेरित होकर देश प्रत्येक नागरिक के जीवन को बेहतर बनाने के संकल्प के साथ आगे बढ़ रहा है।",
+        "title": "रेलवे ने छत्तीसगढ़ में 250 इलेक्ट्रिक लोकोमोटिव के लिए अतिरिक्त प्राथमिक रखरखाव केंद्र बनाने के लिए 175 करोड़ रुपये किए मंज़ूर",
+        "summary": "रेलवे ने छत्तीसगढ़ के रायपुर में 250 इलेक्ट्रिक लोकोमोटिव के लिए अतिरिक्त प्राथमिक रखरखाव केंद्र बनाने के लिए 175 करोड़ रुपये मंज़ूर किए हैं। प्राथमिक केंद्र लोकोमोटिव के तय समय पर होने वाले सुरक्षा जाँच, मरम्मत और देखभाल के लिए ज़िम्मेदार होता है। रेल मंत्रालय के अनुसार यह परियोजना भारतीय रेल के विद्युत इंजन बेड़े […]",
+        "article": "रेलवे ने छत्तीसगढ़ के रायपुर में 250 इलेक्ट्रिक लोकोमोटिव के लिए अतिरिक्त प्राथमिक रखरखाव केंद्र बनाने के लिए 175 करोड़ रुपये मंज़ूर किए हैं। प्राथमिक केंद्र लोकोमोटिव के तय समय पर होने वाले सुरक्षा जाँच, मरम्मत और देखभाल के लिए ज़िम्मेदार होता है। रेल मंत्रालय के अनुसार यह परियोजना भारतीय रेल के विद्युत इंजन बेड़े के तेजी से हो रहे विस्तार और पूरे नेटवर्क पर माल ढुलाई और यात्री परिचालन बढ़ोतरी को ध्यान में रखते हुए बुनियादी ढांचे को बेहतर बनाने के प्रयासों का हिस्सा है। अतिरिक्त प्राथमिक केंद्रों से रेलवे मौजूदा बुनियादी ढाँचे का बेहतर इस्तेमाल कर पाएगा और साथ ही रायपुर मंडल भविष्य में तकनीकी विस्तार के लिए महत्वपूर्ण स्थान बन पाएगा।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T05:02:21+00:00",
-        "link": "https://newsonair.gov.in/hi/selfless-service-is-humanitys-greatest-strength-prime-minister-modi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-10-103142.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-10T10:44:55+00:00",
+        "link": "https://newsonair.gov.in/hi/railways-sanctions-%e2%82%b9175-crore-to-set-up-additional-primary-maintenance-centres-for-250-electric-locomotives-in-chhattisgarh/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "मौसम विभाग ने आज देश के कई हिस्सों में मूसलाधार वर्षा की चेतावनी जारी की",
-        "summary": "मौसम विभाग ने उत्तराखंड में आज मूसलाधार वर्षा की चेतावनी जारी की है। अरुणाचल प्रदेश, असम, मेघालय, सिक्किम, पश्चिम बंगाल के तराई क्षेत्रों और उत्तर प्रदेश के कुछ हिस्सों में भी आज मूसलाधार वर्षा का अनुमान है। अगले 3-4 दिनों में दिल्ली, हरियाणा, चंडीगढ़, हिमाचल प्रदेश, बिहार, पूर्वी मध्य प्रदेश और मध्य महाराष्ट्र में तेज […]",
-        "article": "मौसम विभाग ने उत्तराखंड में आज मूसलाधार वर्षा की चेतावनी जारी की है। अरुणाचल प्रदेश, असम, मेघालय, सिक्किम, पश्चिम बंगाल के तराई क्षेत्रों और उत्तर प्रदेश के कुछ हिस्सों में भी आज मूसलाधार वर्षा का अनुमान है। अगले 3-4 दिनों में दिल्ली, हरियाणा, चंडीगढ़, हिमाचल प्रदेश, बिहार, पूर्वी मध्य प्रदेश और मध्य महाराष्ट्र में तेज बारिश के आसार हैं। कर्नाटक, केरलम, माहे, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, तमिलनाडु, पुद्दुचेरी और कारईक्काल में भी ऐसी ही स्थिति रहने की संभावना है। इस बीच, राष्ट्रीय राजधानी के कई इलाकों में आज सुबह से ही हल्की से मध्यम बारिश हो रही है।",
+        "title": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने ऑस्ट्रेलिया से तमिलनाडु की अमूल्य पुरावशेषों की सफल वापसी पर प्रसन्नता व्यक्त की",
+        "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने ऑस्ट्रेलिया से तमिलनाडु की अमूल्य पुरावशेषों की सफल वापसी पर प्रसन्नता व्यक्त की है। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने कहा कि पुरावशेषों की वापसी भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करने की दिशा में महत्वपूर्ण उपलब्धि है। श्री राधाकृष्णन ने सांस्कृतिक धरोहरों को देश में वापस लाने के लिए […]",
+        "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने ऑस्ट्रेलिया से तमिलनाडु की अमूल्य पुरावशेषों की सफल वापसी पर प्रसन्नता व्यक्त की है। सोशल मीडिया पोस्ट में उपराष्ट्रपति ने कहा कि पुरावशेषों की वापसी भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करने की दिशा में महत्वपूर्ण उपलब्धि है। श्री राधाकृष्णन ने सांस्कृतिक धरोहरों को देश में वापस लाने के लिए सरकार के प्रयासों की सराहना की। उन्होंने कहा कि पुरावशेषों की वापसी में उल्लेखनीय प्रगति हुई है और 2014 से अब तक 600 से अधिक कलाकृतियां भारत लौट चुकी हैं। उपराष्ट्रपति ने कहा कि पुरातत्व अवशेषों की वापसी भारत के विकास भी, विरासत भी के प्रति दृढ़ प्रतिबद्धता को दर्शाती है।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T03:00:28+00:00",
-        "link": "https://newsonair.gov.in/hi/the-meteorological-department-issued-a-warning-for-torrential-rain-in-several-parts-of-the-country-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzN5ZVbwAAGLhh.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-10T10:42:35+00:00",
+        "link": "https://newsonair.gov.in/hi/vice-president-c-p-radhakrishnan-expressed-happiness-over-the-successful-return-of-tamil-nadus-priceless-antiquities-from-australia/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "सरकार ई85 ईंधन लाने की योजना बना रही: हरदीप सिंह पुरी",
-        "summary": "पेट्रोलियम और प्राकृतिक गैस मंत्री हरदीप सिंह पुरी ने कहा है कि सरकार ई85 ईंधन लाने की योजना बना रही है, जो मानक ई20 पेट्रोल से करीब 20 रुपये प्रति लीटर सस्ता होगा। उन्होंने कहा कि ई85 केवल उन वाहनों के लिए उपलब्ध होगा जो विशेष रूप से इस ईंधन के उपयोग के लिए डिज़ाइन […]",
-        "article": "पेट्रोलियम और प्राकृतिक गैस मंत्री हरदीप सिंह पुरी ने कहा है कि सरकार ई85 ईंधन लाने की योजना बना रही है, जो मानक ई20 पेट्रोल से करीब 20 रुपये प्रति लीटर सस्ता होगा। उन्होंने कहा कि ई85 केवल उन वाहनों के लिए उपलब्ध होगा जो विशेष रूप से इस ईंधन के उपयोग के लिए डिज़ाइन किए गए हैं। एक निजी समाचार चैनल को दिए साक्षात्कार में पेट्रोलियम मंत्री ने कहा कि प्रस्तावित कदम का उद्देश्य उपभोक्ताओं को आर्थिक राहत प्रदान करना और साथ ही सरकार के इथेनॉल मिश्रण कार्यक्रम को आगे बढ़ाना है। उन्होंने व्यापक जैव ईंधन नीति का बचाव करते हुए इथेनॉल मिश्रित पेट्रोल से इंजन को होने वाले नुकसान और वाहन के प्रदर्शन से संबंधित चिंताओं को खारिज कर दिया।",
+        "title": "स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने आयुष्मान भारत डिजिटल मिशन की समीक्षा के लिए बैठक की",
+        "summary": "स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने आज आयुष्मान भारत डिजिटल मिशन की प्रगति की समीक्षा के लिए मिशन संचालन समूह की तीसरी बैठक की अध्यक्षता की। बैठक में बताया गया कि आयुष्मान भारत डिजिटल मिशन विश्व के सबसे बड़े डिजिटल स्वास्थ्य पारिस्थितिकी तंत्रों में से एक के रूप में उभरा है। इसमें […]",
+        "article": "स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने आज आयुष्मान भारत डिजिटल मिशन की प्रगति की समीक्षा के लिए मिशन संचालन समूह की तीसरी बैठक की अध्यक्षता की। बैठक में बताया गया कि आयुष्मान भारत डिजिटल मिशन विश्व के सबसे बड़े डिजिटल स्वास्थ्य पारिस्थितिकी तंत्रों में से एक के रूप में उभरा है। इसमें लगभग 94 करोड़ आयुष्मान भारत स्वास्थ्य खाता संख्याएँ बनाई गई हैं और 105 करोड़ स्वास्थ्य रिकॉर्ड लिंक किए गए हैं। इसमें यह भी बताया गया कि 53 लाख स्वास्थ्य सुविधाएं और लगभग 10 लाख स्वास्थ्य पेशेवर राष्ट्रीय डिजिटल स्वास्थ्य रजिस्टरों पर पंजीकृत हैं। बैठक को संबोधित करते हुए श्री नड्डा ने कहा कि मिशन के तहत एक मजबूत डिजिटल स्वास्थ्य सेवा बुनियादी ढांचा का निर्माण किया गया है और अगले चरण में इसके अधिकतम उपयोग पर ध्यान केंद्रित किया जाना चाहिए। उन्होंने कहा कि सार्वभौमिक स्वास्थ्य कवरेज प्राप्त करने के लिए प्रौद्योगिकी एक शक्तिशाली साधन के रूप में कार्य करती रहनी चाहिए, साथ ही प्रत्येक नागरिक के लिए समावेशिता, पहुंच और उपयोग में आसानी सुनिश्चित करनी चाहिए। श्री नड्डा ने गुणवत्तापूर्ण स्वास्थ्य सेवा तक पहुंच में सुधार लाने, देखभाल की निरंतरता को बढ़ाने और नागरिकों को उनके स्वास्थ्य रिकॉर्ड तक सुरक्षित और सहमति-आधारित पहुंच प्रदान करके सशक्त बनाने में डिजिटल सार्वजनिक अवसंरचना की परिवर्तनकारी भूमिका पर भी जोर दिया। बैठक में मिशन के भविष्य के रोडमैप पर भी विचार-विमर्श किया गया, जिसमें डिजिटल स्वास्थ्य को अपनाने को बढ़ावा देना, एआई सहित उभरती प्रौद्योगिकियों का लाभ उठाना, संस्थागत क्षमताओं को मजबूत करना और राज्यों और केंद्र शासित प्रदेशों के साथ सहयोग को गहरा करना शामिल था।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:23:12+00:00",
-        "link": "https://newsonair.gov.in/hi/government-planning-to-introduce-e85-fuel-hardeep-singh-puri/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Hardeep.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-10T10:40:50+00:00",
+        "link": "https://newsonair.gov.in/hi/health-and-family-welfare-minister-jagat-prakash-nadda-held-a-meeting-to-review-the-ayushman-bharat-digital-mission/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बनाते हैं: अमित शाह",
-        "summary": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा […]",
-        "article": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा कि सरकार देश को पूरी तरह से घुसपैठ मुक्त बनाने के लिए एक मजबूत व्यवस्था का निर्माण कर रही है। श्री शाह कल नई दिल्ली में सीमावर्ती जिलों के पुलिस अधीक्षकों के एक सम्मेलन को संबोधित कर रहे थे। उन्होंने बताया कि नरेंद्र मोदी के नेतृत्व वाली सरकार ने वैज्ञानिक रूप से सीमावर्ती बुनियादी ढांचे में चार सौ प्रतिशत की वृद्धि की है। श्री शाह ने कहा कि सरकार 1600 किलोमीटर से अधिक लंबी भारत-म्यांमार सीमा पर 31 हजार करोड़ रुपये की लागत से बाड़ लगा रही है। उन्होंने इस बात पर जोर दिया कि सीमावर्ती क्षेत्रों में असामान्य कारकों की वजह से होने वाले जनसांख्यिकीय परिवर्तनों की जानकारी जमीनी स्तर से लेकर उच्च स्तर तक जल्द से जल्द पहुंचाई जानी चाहिए। गृह मंत्री ने कहा कि सरकार का उद्देश्य सीमावर्ती क्षेत्रों को सुरक्षित और रहने योग्य बनाते हुए, परोक्ष युद्ध, अवैध घुसपैठ, कट्टरपंथ, मादक पदार्थों की तस्करी, ड्रोन से संबंधित खतरों और जनसांख्यिकीय परिवर्तनों जैसी अन्य सुरक्षा चुनौतियों को रोकना है। इस सम्मेलन में जम्मू-कश्मीर, पंजाब, उत्तराखंड, राजस्थान, गुजरात, उत्तर प्रदेश, बिहार, पश्चिम बंगाल और पूर्वोत्तर राज्यों सहित सीमावर्ती राज्यों और केंद्र शासित प्रदेशों के पुलिस अधीक्षकों ने भाग लिया। सम्&#x200d;मेलन में गृह मंत्रालय के वरिष्ठ अधिकारियों ने भी भाग लिया। सम्मेलन का उद्देश्य संवेदनशील सीमावर्ती क्षेत्रों की वर्तमान स्थिति का आकलन करके प्रवर्तन में सुधार के उपायों की पहचान कर देश के सीमा सुरक्षा ढांचे को मजबूत करना था। यह सम्मेलन केंद्र सरकार के कुछ महीने पहले लिए गए उस निर्णय की पृष्ठभूमि में आयोजित किया गया था जिसमें देश के विभिन्न हिस्सों में हो रहे जनसांख्यिकीय परिवर्तनों की सीमा का अध्ययन करने और उनके लिए जिम्मेदार कारकों की पहचान करने के लिए एक उच्च स्तरीय समिति गठित करने का निर्णय लिया गया था।",
+        "title": "प्रधानमंत्री मोदी अपने तीन देशों के दौरे के अंतिम चरण में न्यूजीलैंड के ऑकलैंड पहुंचे",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी अपने तीन देशों के दौरे के अंतिम चरण में आज न्यूजीलैंड के ऑकलैंड पहुंचे। हवाई अड्डे पर प्रधानमंत्री लक्सन ने श्री मोदी का स्वागत किया और दोनों नेताओं ने एक-दूसरे को गले लगाया। हवाई अड्डे के रनवे पर भी प्रधानमंत्री मोदी का औपचारिक स्वागत किया गया, जिसमें भारतीय और न्यूजीलैंड सशस्त्र बलों […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी अपने तीन देशों के दौरे के अंतिम चरण में आज न्यूजीलैंड के ऑकलैंड पहुंचे। हवाई अड्डे पर प्रधानमंत्री लक्सन ने श्री मोदी का स्वागत किया और दोनों नेताओं ने एक-दूसरे को गले लगाया। हवाई अड्डे के रनवे पर भी प्रधानमंत्री मोदी का औपचारिक स्वागत किया गया, जिसमें भारतीय और न्यूजीलैंड सशस्त्र बलों के प्रतिनिधि उपस्थित थे।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:19:00+00:00",
-        "link": "https://newsonair.gov.in/hi/secure-borders-prosperous-border-regions-and-an-aware-society-together-make-the-country-secure-amit-shah/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzYWyNaoAAXI3z.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-10T10:23:04+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-arrived-in-auckland-new-zealand-on-the-final-leg-of-his-three-nation-tour/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "कुशल कार्यबल और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों के पसंदीदा देशों में शामिल: वित्त मंत्री",
-        "summary": "वित्त मंत्री निर्मला सीतारामन ने कहा है कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों &#8211; जीसीसी के लिए सबसे पसंदीदा देशों में शामिल है। नई दिल्ली में सीआईआई राष्ट्रीय जीसीसी बिजनेस समिट-2026 को संबोधित करते हुए वित्तमंत्री ने कहा कि देश में इक्कीस सौ से अधिक जीसीसी हैं, जहां […]",
-        "article": "वित्त मंत्री निर्मला सीतारामन ने कहा है कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार के कारण भारत वैश्विक क्षमता केंद्रों &#8211; जीसीसी के लिए सबसे पसंदीदा देशों में शामिल है। नई दिल्ली में सीआईआई राष्ट्रीय जीसीसी बिजनेस समिट-2026 को संबोधित करते हुए वित्तमंत्री ने कहा कि देश में इक्कीस सौ से अधिक जीसीसी हैं, जहां 23 लाख से अधिक लोग प्रत्यक्ष रूप से कार्यरत हैं। इन केंद्रों से हर साल लगभग दस हज़ार करोड़ डॉलर का राजस्व प्राप्त होता है। उन्होंने कहा कि यह केंद्र इंजीनियरिंग, अनुसंधान, आर्टिफिशियल इंटेलीजेंस, साइबर सुरक्षा, वित्त, उत्पाद डिजाइन और डेटा विज्ञान को एक साथ लाकर नवाचार को बढ़ावा दे रहे हैं। वित्त मंत्री ने कहा कि बहुराष्ट्रीय कंपनियां अपने क्षमता केंद्र भारत में स्थापित करने की अधिक इच्छा रखती हैं। उन्होंने बल देकर कहा कि भारत का जीसीसी पारिस्थितिकी तंत्र विश्व का सबसे बड़ा संगठित ज्ञान निर्यात केंद्र है। वित्त मंत्री ने कहा कि भारत की आकांक्षा केवल विश्व के क्षमता केंद्रों की मेजबानी करना ही नहीं है, बल्कि भविष्य की नई प्रौद्योगिकियों और उद्यमों का नेतृत्व करना भी है।",
+        "title": "प्रधानमंत्री नरेंद्र मोदी पहुंचे न्यूज़ीलैंड, न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने किया स्वागत",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी न्यूज़ीलैंड पहुंचे, न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने किया पीएम मोदी का स्वागत। 4 दशक बाद किसी भारतीय पीएम की यह पहली न्यूज़ीलैंड यात्रा है। प्रधानमंत्री नरेन्‍द्र मोदी ने ऑस्‍ट्रेलिया की अपनी एतिहासिक और महत्‍वपूर्ण राजकीय यात्रा आधिकारिक रूप से संपन्‍न कर ली है। इस यात्रा ने भारत-ऑस्‍ट्रेलिया व्‍यापक रणनीतिक साझेदारी को […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी न्यूज़ीलैंड पहुंचे, न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने किया पीएम मोदी का स्वागत। 4 दशक बाद किसी भारतीय पीएम की यह पहली न्यूज़ीलैंड यात्रा है। प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने ऑस्&#x200d;ट्रेलिया की अपनी एतिहासिक और महत्&#x200d;वपूर्ण राजकीय यात्रा आधिकारिक रूप से संपन्&#x200d;न कर ली है। इस यात्रा ने भारत-ऑस्&#x200d;ट्रेलिया व्&#x200d;यापक रणनीतिक साझेदारी को भविष्&#x200d;य के अनुरुप एक नई दिशा और मजबूत आधार प्रदान किया है। यात्रा के दौरान दोनों देशों के बीच कूटनीतिक, आर्थिक और सुरक्षा संबंध नई उंचाईयों पर पहुंचे। यात्रा की शुरूआत भारत-ऑस्&#x200d;ट्रेलिया मुख्&#x200d;य कार्यकारी मंच से हुई, जहां कारोबार जगत के प्रमुखों ने वर्ष 2022 के आर्थिक सहयोग और व्&#x200d;यापार समझौते से द्विपक्षीय व्&#x200d;यापार में 55 प्रतिशत की वृद्धि का स्&#x200d;वागत किया। इस गति को आगे बढ़ाने के लिए प्रधानमंत्री मोदी और ऑस्&#x200d;ट्रेलिया के प्रधानमंत्री एंथनी एल्&#x200d;बनीज ने व्&#x200d;यापक आर्थिक सहयोग समझौते पर वार्ता में तेजी लाने पर सहमति व्&#x200d;यक्&#x200d;त की। स्&#x200d;वच्&#x200d;छ ऊर्जा के क्षेत्र में भी दोनों देशों ने ऐतिहासिक उपलब्धि हासिल की। भारत को ऑस्&#x200d;ट्रेलिया से दीर्घकालिक यूरेनियम आ&#x200d;पूर्ति सुनिश्चित करने के लिए प्रशासनिक व्&#x200d;यवस्&#x200d;था को अंतिम रूप दिया गया। स्&#x200d;वतंत्र और मुक्&#x200d;त हिन्&#x200d;द प्रशांत क्षेत्र के लिए दोनों देशों ने रक्षा और सुरक्षा सहयोग पर संयुक्&#x200d;त घोषणा पत्र तथा समुद्री सुरक्षा सहयोग प्रारूप स्&#x200d;वीकार किया। यात्रा का सबसे प्रभावशाली जनसंपर्क कार्यक्रम मेलबर्न के मार्वल स्&#x200d;टेडियम में आयोजित मेलबर्न मीट्स मोदी प्रवासी भारतीय सम्&#x200d;मेलन रहा, जिसमें लगभग 25 हजार लोग उपस्थित थे। प्रधानमंत्री मोदी ने लगभग 10 लाख भारतीय मूल के ऑस्&#x200d;ट्रेलियाई लोगों को दोनों देशों के बीच जीवंत सेतु बताया। प्रधानमंत्री एंथनी एल्&#x200d;बनीज ने भी भारतीय समुदाय सराहना करते हुए कहा कि ये बहु-सांस्&#x200d;कृतिक शक्ति ऑस्&#x200d;ट्रेलिया की समृद्धि में महत्&#x200d;वपूर्ण योगदान दे रही है। प्रधानमंत्री मोदी ने ऑस्&#x200d;ट्रेलिया में विपक्ष के नेता एंगस टेलर से भी मुलाकात की। श्री टेलर ने प्रधानमंत्री मोदी को ऑस्ट्रेलिया का सच्&#x200d;चा मित्र बताते हुए अंतर्राष्&#x200d;ट्रीय सौर गठबंधन और शांतिपूर्ण उद्देश्&#x200d;यों के लिए यूरेनियम निर्यात जैसी पहलों का समर्थन किया। यात्रा का समापन प्रतिष्ठित मेलबर्न क्रिकेट मैदान में खेल कूटनीति के ऐतिहासिक कार्यक्रम के साथ हुआ। दोनों नेताओं ने भारत-ऑस्&#x200d;ट्रेलिया खेल सहयोग प्रारूप जारी किया जिससे खेल विज्ञान और खेल अवसंरचना के क्षेत्र में सहयोग को नई गति मिलेगी। ये पहल ऐसे समय में शुरू की गई है जब भारत 2030 के राष्&#x200d;ट्रमंडल खेलों की तैयारी मे जुटा है और ऑस्&#x200d;ट्र&#x200d;ेलिया 2032 के ब्रिसबेन ओलम्पिक की बेजबानी की तैयारी कर रहा है। इस अवसर पर क्रिकेट जगत के लिए भी महत्&#x200d;वपूर्ण घोषणा की गई। ऑस्&#x200d;ट्रेलिया की पुरूष बिग बैश लीग का उद्घाटन मैच इस वर्ष दिसंबर चेन्&#x200d;नई में आयोजित होगा।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T01:46:15+00:00",
-        "link": "https://newsonair.gov.in/hi/india-among-preferred-destinations-for-global-capability-centres-due-to-skilled-workforce-and-innovation-finance-minister/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzJdF4boAA0p-8.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-10T09:05:53+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-arrives-in-new-zealand/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "वित्त मंत्री निर्मला सीतारमण ने नेशनल जीसीसी बिजनेस समिट 2026 को किया संबोधित",
-        "summary": "वित्त मंत्री निर्मला सीतारमण ने आज कहा कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार पारिस्थितिकी तंत्र के कारण भारत वैश्विक क्षमता केंद्र (जीसीसी) के लिए पसंदीदा गंतव्य के रूप में उभर रहा है। नई दिल्ली में भारतीय उद्योग परिसंघ द्वारा आयोजित नेशनल जीसीसी बिजनेस समिट 2026 को संबोधित करते हुए, सुश्री सीतारामन ने कहा कि […]",
-        "article": "वित्त मंत्री निर्मला सीतारमण ने आज कहा कि कुशल कार्यबल, मजबूत संस्थानों और नवाचार पारिस्थितिकी तंत्र के कारण भारत वैश्विक क्षमता केंद्र (जीसीसी) के लिए पसंदीदा गंतव्य के रूप में उभर रहा है। नई दिल्ली में भारतीय उद्योग परिसंघ द्वारा आयोजित नेशनल जीसीसी बिजनेस समिट 2026 को संबोधित करते हुए, सुश्री सीतारामन ने कहा कि देश में 2100 से अधिक वैश्विक क्षमता केंद्र हैं, जिनमें 23 लाख पेशेवर प्रत्यक्ष रूप से कार्यरत हैं और लगभग 100 अरब अमरीकी डॉलर का वार्षिक राजस्व उत्पन्न होता है। उन्होंने कहा कि वैश्विक क्षमता केंद्र इंजीनियरिंग, अनुसंधान, एआई, साइबर सुरक्षा, वित्त, उत्पाद डिजाइन और डेटा विज्ञान को एक साथ लाकर निरंतर नवाचार को बढ़ावा देकर परिवर्तन का प्रतिनिधित्व करते हैं।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:37:59+00:00",
-        "link": "https://newsonair.gov.in/hi/finance-minister-nirmala-sitharaman-addressed-the-national-gcc-business-summit-2026/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/निर्मला.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विकसित भारत-2047 के लिए जे.पी. नड्डा का बुद्धिजीवियों से राष्ट्र निर्माण का आह्वान",
-        "summary": "केंद्रीय स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने बुद्धिजीवियों से विकासशील भारत-2047 के लक्ष्य को प्राप्त करने के लिए राष्ट्र निर्माण प्रक्रिया में भागीदार बनने का आह्वान किया। हैदराबाद में आज आयोजित बुद्धिजीवी सम्मेलन को संबोधित करते हुए जेपी नड्डा ने कहा कि केंद्र सरकार का शासन &#8220;सबका साथ, सबका विकास, सबका विश्वास&#8221; […]",
-        "article": "केंद्रीय स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने बुद्धिजीवियों से विकासशील भारत-2047 के लक्ष्य को प्राप्त करने के लिए राष्ट्र निर्माण प्रक्रिया में भागीदार बनने का आह्वान किया। हैदराबाद में आज आयोजित बुद्धिजीवी सम्मेलन को संबोधित करते हुए जेपी नड्डा ने कहा कि केंद्र सरकार का शासन &#8220;सबका साथ, सबका विकास, सबका विश्वास&#8221; और &#8220;सभी के लिए न्याय&#8221; के सिद्धांतों पर आधारित है। उन्होंने कहा कि प्रधानमंत्री नरेंद्र मोदी के नेतृत्व में सरकार का दृष्टिकोण समावेशी विकास, जवाबदेही, प्रभावी कार्यान्वयन और प्रत्येक नागरिक के सम्मान को सुनिश्चित करने पर केंद्रित है। उन्होंने कहा कि सरकार ने ग्रामीण और दूरस्थ क्षेत्रों में बिजली, सड़क संपर्क और आवश्यक बुनियादी ढांचे की पहुंच बढ़ाकर आर्थिक विकास और आम जनता के कल्याण दोनों को प्राथमिकता दी है। श्री नड्डा ने कहा कि बेहतर सड़कों ने किसानों को कृषि उपज को बाजारों तक अधिक कुशलता से पहुंचाने में मदद करके ग्रामीण अर्थव्यवस्थाओं को मजबूत किया है। इससे बेहतर आय और उत्पादकता प्राप्त हुई है। भारत के डिजिटल परिवर्तन का उल्लेख करते हुए नड्डा ने कहा कि डिजिटल भुगतान और प्रत्यक्ष लाभ हस्तांतरण &#8211; डीबीटी ने पारदर्शिता और वित्तीय समावेशन में सुधार किया है। उन्होंने कहा कि क्यूआर कोड आधारित लेनदेन गांवों और छोटे कस्बों में भी आम हो गए हैं। यह देश भर में डिजिटल प्रौद्योगिकी के बढ़ते उपयोग को दर्शाता है। गरीबी उन्मूलन और कल्याणकारी कार्यक्रमों का जिक्र करते हुए उन्होंने कहा कि लाखों लोग गरीबी से बाहर निकल चुके हैं। वहीं लाभार्थियों को आवास, वित्तीय सहायता और स्वास्थ्य देखभाल योजनाओं के तहत सहायता मिलती रहती है। श्री नड्डा ने आयुष्मान भारत को दुनिया का सबसे बड़ा सार्वजनिक स्वास्थ्य बीमा कार्यक्रम बताया। यह पात्र लाभार्थियों को 5 लाख रुपये तक का स्वास्थ्य कवरेज प्रदान करता है। उन्होंने स्वच्छ भारत मिशन का उल्लेख करते हुए कहा कि देश भर में शौचालयों के निर्माण से विशेष रूप से महिलाओं के लिए स्वच्छता और सम्मान में सुधार हुआ है। आंतरिक सुरक्षा पर श्री नड्डा ने बताया कि सरकार ने वामपंथी उग्रवाद के प्रति शून्य-सहिष्णुता नीति अपनाई है। उन्होंने दावा किया कि प्रभावित जिलों की संख्या में पिछले कुछ वर्षों में काफी कमी आई है। श्री नड्डा ने आतंकवाद विरोधी अभियानों में सशस्त्र बलों के पेशेवर रवैये और सटीकता की भी प्रशंसा की। उन्होंने कहा कि आधुनिक प्रौद्योगिकी और उन्नत क्षमताओं के माध्यम से भारत की रक्षा तैयारियों को मजबूत किया गया है।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:36:48+00:00",
-        "link": "https://newsonair.gov.in/hi/j-p-nadda-calls-upon-intellectuals-to-contribute-to-nation-building-for-a-viksit-bharat-2047-developed-india-2047/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/J-p-Nadda.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "डीपीआईआईटी ने दो गुणवत्ता नियंत्रण आदेशों में संशोधन किया",
-        "summary": "उद्योग और आंतरिक व्यापार संवर्धन विभाग (डीपीआईआईटी) ने व्यापार सुगमता को बढ़ावा देने और घरेलू जूता निर्माण प्रणाली को मजबूत करने के उद्देश्य से जूता क्षेत्र से संबंधित दो गुणवत्ता नियंत्रण आदेशों (क्यूसीओ) में संशोधन किया है। वाणिज्य और उद्योग मंत्रालय ने बताया कि अधिसूचित संशोधन चमड़े और अन्य सामग्रियों से बने जूता तथा पूर्णतः […]",
-        "article": "उद्योग और आंतरिक व्यापार संवर्धन विभाग ( डीपीआईआईटी) ने व्यापार सुगमता को बढ़ावा देने और घरेलू जूता निर्माण प्रणाली को मजबूत करने के उद्देश्य से जूता क्षेत्र से संबंधित दो गुणवत्ता नियंत्रण आदेशों (क्यूसीओ) में संशोधन किया है। वाणिज्य और उद्योग मंत्रालय ने बताया कि अधिसूचित संशोधन चमड़े और अन्य सामग्रियों से बने जूता तथा पूर्णतः रबर और पूर्णतः पॉलिमर सामग्री और उसके घटकों से बने जूता से संबंधित हैं। संशोधनों के अंतर्गत, पुराने स्टॉक को निपटाने की समयसीमा इस वर्ष की 31 जुलाई से बढ़ाकर अगले वर्ष की इसी तिथि तक कर दी गई है। यह अतिरिक्त एक वर्ष की अवधि निर्माताओं, वितरकों और खुदरा विक्रेताओं को मौजूदा स्टॉक को व्यवस्थित रूप से निपटाने के लिए पर्याप्त समय प्रदान करेगी। इससे अनुपालन का बोझ कम होने, व्यापार में व्यवधान कम होने और यह सुनिश्चित होने की उम्मीद है कि इसके बाद बाजार में केवल बीआईएस प्रमाणित जूता उत्पाद ही बेचे जाएं। संशोधनों में अनुसंधान और विकास के लिए नमूनों के आयात पर छूट भी दी गई है। चमड़े और जूते बनाने वाली कंपनियां अनुसंधान और विकास तथा अन्य गैर-व्यावसायिक उद्देश्यों के लिए प्रतिवर्ष अधिकतम चार हजार पांच सौ जोड़ी जूते आयात कर सकती हैं।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T16:35:38+00:00",
-        "link": "https://newsonair.gov.in/hi/dpiit-amended-two-quality-control-orders-for-the-footwear-sector/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर",
-        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कुवैत की यात्रा पूरी करने के बाद ओमान पहुंच गए हैं। उनके आगमन पर ओमान के विदेश मंत्रालय के महानिदेशक शेख अहमद अल मस्कारी ने उनका स्वागत किया। डॉ. जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर हैं। ओमान यात्रा पूरी करने के बाद, […]",
-        "article": "विदेश मंत्री डॉ. सुब्रह्मण्यम जयशंकर कुवैत की यात्रा पूरी करने के बाद ओमान पहुंच गए हैं। उनके आगमन पर ओमान के विदेश मंत्रालय के महानिदेशक शेख अहमद अल मस्कारी ने उनका स्वागत किया। डॉ. जयशंकर कतर, बहरीन, कुवैत, ओमान, न्यूयॉर्क और ब्रुसेल्स की 11 दिन की यात्रा पर हैं। ओमान यात्रा पूरी करने के बाद, वे न्यूयॉर्क में संयुक्त राष्ट्र सुरक्षा परिषद के 2028-29 कार्यकाल के लिए भारत के आधिकारिक अभियान की शुरुआत करेंगे। इसके बाद विदेश मंत्री 14 और 15 जुलाई को ब्रुसेल्स में तीसरे भारत-यूरोपीय संघ व्यापार और प्रौद्योगिकी परिषद की बैठक में शामिल होंगे। डॉ. जयशंकर यूरोपीय संघ और बेल्जियम के विदेश मंत्री के साथ बातचीत भी करेंगे।",
+        "title": "मौसम विभाग ने देश के कई हिस्सों में अगले दो दिन तक मूसलाधार बारिश का अनुमान व्‍यक्‍त किया",
+        "summary": "मौसम विभाग ने उत्तराखंड में आज मूसलाधार वर्षा और कुछ स्थानों पर अत्यधिक तेज बारिश का अनुमान व्‍यक्‍त किया है। अगले दो दिन तक हरियाणा, हिमाचल प्रदेश, उत्तर प्रदेश, बिहार, उप-हिमालयी पश्चिम बंगाल, सिक्किम और उत्तर-पूर्वी भारत के उत्तरी भागों में मूसलाधार बारिश होने की संभावना है। इस बीच, राष्ट्रीय राजधानी दिल्‍ली में कुछ […]",
+        "article": "मौसम विभाग ने उत्तराखंड में आज मूसलाधार वर्षा और कुछ स्थानों पर अत्यधिक तेज बारिश का अनुमान व्&#x200d;यक्&#x200d;त किया है। अगले दो दिन तक हरियाणा, हिमाचल प्रदेश, उत्तर प्रदेश, बिहार, उप-हिमालयी पश्चिम बंगाल, सिक्किम और उत्तर-पूर्वी भारत के उत्तरी भागों में मूसलाधार बारिश होने की संभावना है। इस बीच, राष्ट्रीय राजधानी दिल्&#x200d;ली में कुछ जगह आज तड़के हल्की बारिश हुई। आकाशवाणी से बात करते हुए, मौसम विभाग के वैज्ञानिक डॉ. शशि कांत ने बताया कि दिल्ली और आसपास के क्षेत्र में आज और कल कोई चेतावनी नहीं है।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T01:50:45+00:00",
-        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-on-an-11-day-visit-to-qatar-bahrain-kuwait-oman-new-york-and-brussels/",
-        "post_id": 1728866,
+        "pubDate": "2026-07-10T08:45:39+00:00",
+        "link": "https://newsonair.gov.in/hi/the-meteorological-department-has-forecast-torrential-rain-in-several-parts-of-the-country-over-the-next-two-days/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्र सरकार ने उच्च अल्कोहल मात्रा वाली औषधियों के नियमन को और सख्त करने के लिए नियम में संशोधन किया",
+        "summary": "केंद्र सरकार ने उच्च अल्कोहल मात्रा वाली औषधियों के नियमन को और सख्त करने के लिए औषधि नियम, 1945 में संशोधन किया है। स्वास्थ्य और परिवार कल्याण मंत्रालय ने इथाएल अल्कोहल युक्त औषधियों के लिए अनुसूची-के के तहत लाइसेंस अनिवार्यता से मिली मौजूदा छूट समाप्त कर दी है। मंत्रालय की अधिसूचना के अनुसार, 30 मिलीलीटर […]",
+        "article": "केंद्र सरकार ने उच्च अल्कोहल मात्रा वाली औषधियों के नियमन को और सख्त करने के लिए औषधि नियम, 1945 में संशोधन किया है। स्वास्थ्य और परिवार कल्याण मंत्रालय ने इथाएल अल्कोहल युक्त औषधियों के लिए अनुसूची-के के तहत लाइसेंस अनिवार्यता से मिली मौजूदा छूट समाप्त कर दी है। मंत्रालय की अधिसूचना के अनुसार, 30 मिलीलीटर से अधिक मात्रा में 12 प्रतिशत से अधिक इथाएल अल्कोहल वाली सभी औषधियों को अब छूट प्रदान नहीं की जाएगी। ऐसी औषधियों को औषधि और कॉस्&#x200d;मेटिक अधिनियम 1940 के अंतर्गत आवश्&#x200d;यक लाइसेंस प्राप्&#x200d;त करना होगा। अब तक इलायची, अदरक और अन्य सुगंधित औषधियों के टिंचर जैसे कुछ औषधीय उत्पादों को औषधि नियम, 1945 की अनुसूची-के के तहत लाइसेंस लेने से छूट प्राप्त थी। इनमें से कुछ औषधियों में इथाएल अल्कोहल की मात्रा काफी अधिक 80 से 90 प्रतिशत तक होती है, जिससे इनके नशे के लिए दुरुपयोग की आशंका रहती थी। इस संशोधन से अल्कोहल युक्त औषधीय उत्पादों पर नियामक निगरानी और मजबूत होने की उम्&#x200d;मीद है। इससे इनकी आपूर्ति केवल अधिकृत दवा आपूर्ति श्रृंखला के माध्यम से सुनिश्चित की जा सकेगी। साथ ही, दुरुपयोग और अवैध इस्तेमाल की संभावना कम होगी तथा वैध चिकित्सीय उपयोग के लिए इनकी उपलब्धता भी बनी रहेगी।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:43:57+00:00",
+        "link": "https://newsonair.gov.in/hi/the-central-government-has-amended-the-rules-to-further-tighten-the-regulation-of-medicines-with-high-alcohol-content/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी ने अपनी ऑस्ट्रेलिया यात्रा को लेकर ऑस्ट्रेलिया सरकार और वहां की जनता का आभार व्यक्त किया",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने अपनी ऑस्ट्रेलिया यात्रा के दौरान मिले भव्‍य स्‍वागत और आतिथ्य के लिए ऑस्ट्रेलिया सरकार और वहां की जनता के साथ-साथ ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ का आभार व्यक्त किया है। ऑस्ट्रेलिया यात्रा के समापन पर सोशल मीडिया पर श्री मोदी ने कहा कि इस यात्रा के परिणामों ने भारत-ऑस्ट्रेलिया साझेदारी को और […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने अपनी ऑस्ट्रेलिया यात्रा के दौरान मिले भव्&#x200d;य स्&#x200d;वागत और आतिथ्य के लिए ऑस्ट्रेलिया सरकार और वहां की जनता के साथ-साथ ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ का आभार व्यक्त किया है। ऑस्ट्रेलिया यात्रा के समापन पर सोशल मीडिया पर श्री मोदी ने कहा कि इस यात्रा के परिणामों ने भारत-ऑस्ट्रेलिया साझेदारी को और मजबूत किया है और विभिन्न क्षेत्रों में सहयोग के नए रास्ते खोले हैं। उन्होंने विश्वास व्यक्त किया कि इस यात्रा से मिली गति दोनों देशों के लिए लाभकारी होगी और वैश्विक समुदाय में सकारात्मक योगदान देगी।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:36:19+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-expressed-his-gratitude-to-the-australian-government-and-the-people-of-australia-for-his-visit-to-the-country/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1470,9 +1454,19 @@ window.VM_NEWS = {
         "summary": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते […]",
         "article": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते हुए, संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि, राजदूत पी. ​​हरीश ने कहा कि इस तरह की हिंसा दण्ड मुक्ति की प्रचलित संस्कृति के बीच जारी है। उन्&#x200d;होंने कहा कि भारत ऐसे जघन्य कृत्यों की कड़ी निंदा करता है। संयुक्त राष्ट्र महासचिव की रिपोर्ट का संदर्भ देते हुए उन्होंने कहा कि 2025 में सत्यापित मामलों में हुई तीव्र वृद्धि सामूहिक कार्रवाई की तत्काल आवश्यकता को रेखांकित करती है। संयुक्त राष्ट्र शांतिरक्षा में भारत के महत्वपूर्ण योगदानों पर प्रकाश डालते हुए, श्री हरीश ने कहा कि महिला शांतिरक्षकों की तैनाती ने संघर्ष-संबंधी यौन हिंसा से निपटने में &#8220;परिवर्तनकारी प्रभाव&#8221; डाला है। उन्होंने यह घोषणा भी की कि संघर्ष से संबंधित यौन हिंसा को रोकने में उनके उत्कृष्ट प्रयासों के लिए भारतीय शांति रक्षक मेजर मोइज़ यासीन और मेजर सोनिया देवेंद्र नवस्कर को वर्ष 2026 के लिए संयुक्त राष्ट्र महासचिव का मिलिट्री जेंडर ऑफ द ईयर का मान्&#x200d;यता प्रमाणपत्र प्रदान किया जाएगा।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T01:37:00+00:00",
+        "pubDate": "2026-07-10T08:35:00+00:00",
         "link": "https://newsonair.gov.in/hi/india-strongly-condemned-conflict-related-sexual-violence/",
-        "post_id": 1728862,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बनाते हैं: अमित शाह",
+        "summary": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा […]",
+        "article": "केंद्रीय गृह मंत्री अमित शाह ने कहा है कि सुरक्षित सीमा, समृद्ध सीमावर्ती क्षेत्र और जागरूक समाज मिलकर देश को सुरक्षित बना सकते हैं। उन्होंने कहा कि जीवंत ग्राम कार्यक्रम के अंतर्गत पलायन रोकने, रोजगार सृजित करने और सरकारी कल्याणकारी योजनाओं का शत प्रतिशत कार्यान्वयन सुनिश्चित करने के प्रयास किए जा रहे हैं। उन्होंने कहा कि सरकार देश को पूरी तरह से घुसपैठ मुक्त बनाने के लिए एक मजबूत व्यवस्था का निर्माण कर रही है। श्री शाह कल नई दिल्ली में सीमावर्ती जिलों के पुलिस अधीक्षकों के एक सम्मेलन को संबोधित कर रहे थे। उन्होंने बताया कि नरेंद्र मोदी के नेतृत्व वाली सरकार ने वैज्ञानिक रूप से सीमावर्ती बुनियादी ढांचे में चार सौ प्रतिशत की वृद्धि की है। श्री शाह ने कहा कि सरकार 1600 किलोमीटर से अधिक लंबी भारत-म्यांमार सीमा पर 31 हजार करोड़ रुपये की लागत से बाड़ लगा रही है। उन्होंने इस बात पर जोर दिया कि सीमावर्ती क्षेत्रों में असामान्य कारकों की वजह से होने वाले जनसांख्यिकीय परिवर्तनों की जानकारी जमीनी स्तर से लेकर उच्च स्तर तक जल्द से जल्द पहुंचाई जानी चाहिए। गृह मंत्री ने कहा कि सरकार का उद्देश्य सीमावर्ती क्षेत्रों को सुरक्षित और रहने योग्य बनाते हुए, परोक्ष युद्ध, अवैध घुसपैठ, कट्टरपंथ, मादक पदार्थों की तस्करी, ड्रोन से संबंधित खतरों और जनसांख्यिकीय परिवर्तनों जैसी अन्य सुरक्षा चुनौतियों को रोकना है। इस सम्मेलन में जम्मू-कश्मीर, पंजाब, उत्तराखंड, राजस्थान, गुजरात, उत्तर प्रदेश, बिहार, पश्चिम बंगाल और पूर्वोत्तर राज्यों सहित सीमावर्ती राज्यों और केंद्र शासित प्रदेशों के पुलिस अधीक्षकों ने भाग लिया। सम्&#x200d;मेलन में गृह मंत्रालय के वरिष्ठ अधिकारियों ने भी भाग लिया। सम्मेलन का उद्देश्य संवेदनशील सीमावर्ती क्षेत्रों की वर्तमान स्थिति का आकलन करके प्रवर्तन में सुधार के उपायों की पहचान कर देश के सीमा सुरक्षा ढांचे को मजबूत करना था। यह सम्मेलन केंद्र सरकार के कुछ महीने पहले लिए गए उस निर्णय की पृष्ठभूमि में आयोजित किया गया था जिसमें देश के विभिन्न हिस्सों में हो रहे जनसांख्यिकीय परिवर्तनों की सीमा का अध्ययन करने और उनके लिए जिम्मेदार कारकों की पहचान करने के लिए एक उच्च स्तरीय समिति गठित करने का निर्णय लिया गया था।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:30:00+00:00",
+        "link": "https://newsonair.gov.in/hi/secure-borders-prosperous-border-regions-and-an-aware-society-together-make-the-country-secure-amit-shah/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1598,8 +1592,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T03:07:39+00:00",
         "link": "https://newsonair.gov.in/hi/the-pair-of-marcelo-arevalo-and-jelena-ostapenko-won-the-mixed-doubles-title-at-the-wimbledon-tennis-tournament/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM0bpkqXIAAhsCn.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1609,8 +1603,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T02:55:17+00:00",
         "link": "https://newsonair.gov.in/hi/india-suffered-a-crushing-9-wicket-defeat-against-england-in-the-fourth-t20-international-cricket-match/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMz03lPbYAE25po-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1620,8 +1614,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T02:54:58+00:00",
         "link": "https://newsonair.gov.in/hi/the-indian-womens-cricket-team-will-play-an-odi-match-against-england-at-lords-in-london-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/bcci.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1631,8 +1625,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T08:11:01+00:00",
         "link": "https://newsonair.gov.in/hi/the-all-india-pickleball-association-has-announced-the-indian-squad-for-the-2026-pickleball-world-cup/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indian-Pickleball-Association.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1642,8 +1636,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T03:21:40+00:00",
         "link": "https://newsonair.gov.in/hi/17-year-old-ashwath-s-becomes-indias-98th-chess-grandmaster/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indias-Aswath-S-becomes-countrys-98th-Chess-Grandmaster.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1653,8 +1647,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T02:16:49+00:00",
         "link": "https://newsonair.gov.in/hi/wimbledon-juniors-2026-arnav-paparkar-reaches-boys-singles-quarter-finals/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMwdDqMbYAAvdZp.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1664,8 +1658,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T01:49:00+00:00",
         "link": "https://newsonair.gov.in/hi/the-fourth-match-of-the-five-match-t20-cricket-series-between-india-and-england-will-be-played-in-bristol-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-7.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1675,8 +1669,8 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T08:46:37+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%ab%e0%a5%80%e0%a4%ab%e0%a4%be-%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5-%e0%a4%95%e0%a4%aa-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%9f%e0%a5%8d%e0%a4%9c%e0%a4%b0%e0%a4%b2%e0%a5%88/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/fi-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1686,8 +1680,8 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T01:40:35+00:00",
         "link": "https://newsonair.gov.in/hi/cricket-england-defeated-india-by-125-runs-in-the-third-t20-match/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/England-beat-India-by-125-runs-in-third-T20I.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1697,8 +1691,8 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T01:26:28+00:00",
         "link": "https://newsonair.gov.in/hi/fifa-world-cup-switzerland-reaches-quarter-finals-for-the-first-time-since-1954/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMqSqsSXsAESjol.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -1934,8 +1928,8 @@ window.VM_NEWS = {
         "date": "2026-06-04",
         "pubDate": "2026-06-04T06:01:50+00:00",
         "link": "https://newsonair.gov.in/hi/who-expresses-concern-over-rapid-spread-of-ebola-outbreak-in-congo/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/WHO.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1945,8 +1939,8 @@ window.VM_NEWS = {
         "date": "2026-05-21",
         "pubDate": "2026-05-21T07:50:34+00:00",
         "link": "https://newsonair.gov.in/hi/directorate-general-of-health-services-issues-advisory-for-travellers-arriving-from-and-transiting-through-ebola-affected-countries/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/cds.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1956,8 +1950,8 @@ window.VM_NEWS = {
         "date": "2026-05-21",
         "pubDate": "2026-05-21T07:00:38+00:00",
         "link": "https://newsonair.gov.in/hi/india-launches-worlds-largest-screening-drive-to-eliminate-tb-union-health-minister-j-p-nadda/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/jp-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1967,8 +1961,8 @@ window.VM_NEWS = {
         "date": "2026-05-08",
         "pubDate": "2026-05-08T07:44:50+00:00",
         "link": "https://newsonair.gov.in/hi/health-minister-jp-nadda-launches-integrated-training-programme-for-primary-health-teams/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/J-p-Nadda.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1978,8 +1972,8 @@ window.VM_NEWS = {
         "date": "2026-05-07",
         "pubDate": "2026-05-07T03:01:43+00:00",
         "link": "https://newsonair.gov.in/hi/union-minister-to-launch-nationwide-annual-health-check-up-initiative-for-workers-from-esic/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/man.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1989,8 +1983,8 @@ window.VM_NEWS = {
         "date": "2026-04-07",
         "pubDate": "2026-04-07T08:28:42+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af-%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8-%e0%a4%aa%e0%a5%80%e0%a4%8f/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Untitled-design-3-5.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -2000,8 +1994,8 @@ window.VM_NEWS = {
         "date": "2026-02-11",
         "pubDate": "2026-02-11T01:59:38+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a5%87%e0%a4%a6%e0%a4%bf%e0%a4%95-%e0%a4%94%e0%a4%b7%e0%a4%a7%e0%a4%bf-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a4%e0%a4%be/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/HAz4fsPbUAAOn4m-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -2011,8 +2005,8 @@ window.VM_NEWS = {
         "date": "2026-01-15",
         "pubDate": "2026-01-15T12:24:16+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4-%e0%a4%95%e0%a5%87-%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b7-%e0%a4%b9%e0%a4%b0%e0%a5%8d%e0%a4%ac%e0%a4%b2-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Untitled-design-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -2022,8 +2016,8 @@ window.VM_NEWS = {
         "date": "2025-12-27",
         "pubDate": "2025-12-27T04:59:50+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%9c%e0%a5%87-%e0%a4%aa%e0%a5%80-%e0%a4%a8%e0%a4%a1%e0%a5%8d/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G9GqIftaAAEWJQP.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -2033,8 +2027,8 @@ window.VM_NEWS = {
         "date": "2025-12-20",
         "pubDate": "2025-12-20T08:20:53+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%9c%e0%a5%87%e0%a4%aa%e0%a5%80-%e0%a4%a8%e0%a4%a1%e0%a5%8d-3/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G8jVc1PbMAQhk_x.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ]
