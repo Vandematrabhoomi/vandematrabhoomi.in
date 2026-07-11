@@ -1,8 +1,19 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-11T00:38:05.555817",
+  "generated": "2026-07-11T02:42:00.081654",
   "en": {
     "top": [
+      {
+        "title": "Indian Navy to commission indigenous stealth frigate Mahendragiri in Visakhapatnam today",
+        "summary": "The Indian Navy is all set to commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38) into its Eastern Fleet at Visakhapatnam in Andhra Pradesh today. The ceremony will be presided over by Defence Minister Rajnath Singh. It will mark another significant milestone in India&#8217;s journey towards defence self-reliance and indigenous warship construction. Addressing […]",
+        "article": "The Indian Navy is all set to commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38) into its Eastern Fleet at Visakhapatnam in Andhra Pradesh today. The ceremony will be presided over by Defence Minister Rajnath Singh. It will mark another significant milestone in India&#8217;s journey towards defence self-reliance and indigenous warship construction. Addressing the naval personnel in Visakhapatnam during Barakhana on the eve of the commissioning ceremony, the defence minister reaffirmed India&#8217;s stand as the primary guarantor of peace and stability in the Indian Ocean region. We have Akashvani Correspondent reports that the Mahendragiri, designed by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited in Mumbai, is a state-of-the-art stealth frigate equipped with advanced weapons, sensors and electronic warfare systems. The warship is capable of undertaking anti-air, anti-surface and anti-submarine operations. It can also conduct maritime security patrols, search-and-rescue missions, humanitarian assistance and disaster relief operations, and sustained deployments in the Indian Ocean Region. With over 75 per cent indigenous content, the frigate reflects the government&#8217;s push for self-reliance in defence manufacturing under the Aatmanirbhar Bharat initiative. Its construction involved several Indian industries, including MSMEs (Micro, Small and Medium Enterprises), strengthening the domestic defence industrial base and generating employment. Named after the Mahendragiri mountain range in the Eastern Ghats, the warship symbolises strength and resilience. The government says its induction will further enhance the Indian Navy’s operational capability and reinforce India’s position as a leading indigenous warship-building nation and a preferred security partner in the Indian Ocean region.",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:28:48+00:00",
+        "link": "https://newsonair.gov.in/indian-navy-to-commission-indigenous-stealth-frigate-mahendragiri-in-visakhapatnam-today/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/What_is_Shipyard.jpg/1280px-What_is_Shipyard.jpg",
+        "image_credit": "Wikipedia – Visakhapatnam (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "PM Modi receives rousing welcome upon his arrival in Auckland: First Indian PM to visit New Zealand in four decades",
         "summary": "Prime Minister Narendra Modi received a warm and enthusiastic welcome upon his arrival in Auckland, marking the start of his historic two-day visit to New Zealand. This is the first visit by an Indian Prime Minister in nearly four decades. After arriving in Auckland, Prime Minister Modi was received at the airport by New […]",
@@ -59,6 +70,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "India & New Zealand sign 5 MoUs in key areas",
+        "summary": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in […]",
+        "article": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in Auckland. The two countries signed a memorandum of arrangement between the Ministry of Defence and the New Zealand Defence Force to enhance maritime cooperation, aimed at strengthening security in the Indo-Pacific region. The agreement on animal husbandry and dairy will promote research, innovation and the exchange of best practices. The tourism pact is expected to boost visitor exchanges and strengthen cooperation in the travel sector. Both sides also adopted a Joint Action Plan on Sport to deepen collaboration in sports development and athlete exchanges. An MoU on disaster management will enhance cooperation in disaster preparedness, emergency response and resilience. The five agreements reflect the growing India-New Zealand partnership and the shared commitment to expand cooperation across strategic, economic and people-to-people sectors. Earlier, speaking during delegation-level talks, Prime Minister Modi said that his visit to New Zealand marks a historic milestone in bilateral relations and will give fresh momentum to ties between the two countries. Mr Modi thanked the people and leadership of New Zealand for their warmth and support, saying the visit of an Indian Prime Minister after four decades reflects the growing strength of the partnership. Hailing the Free Trade Agreement (FTA) between the two countries, Mr Modi appreciated New Zealand&#8217;s efforts in concluding the FTA process in a short period and thanked Prime Minister Luxon and his government for their leadership. He said the two countries have now taken a significant step by establishing a strategic partnership, which will guide future cooperation. Highlighting the shared democratic values and maritime ties between the two nations, Prime Minister Modi said India and New Zealand can play an important role in strengthening peace, stability and security in the Indo-Pacific region. He expressed confidence that the visit would further deepen bilateral relations and enhance cooperation for global peace and prosperity. Speaking on the occasion, the New Zealand prime minister described Mr Modi&#8217;s visit as a historic milestone, marking the first visit by an Indian prime minister to New Zealand in 40 years. Welcoming Prime Minister Modi, Mr Luxon said it was a pleasure and an honour to host him, adding that the visit reflects the growing strength of bilateral ties. He said the two countries have made significant progress on the trade agenda and emphasised that the relationship extends beyond the Free Trade Agreement. Mr Luxon also announced that India and New Zealand will establish a strategic partnership to provide a broader framework for expanding cooperation across key sectors. The bilateral discussions were preceded by a ceremonial welcome at the Government House, where Prime Minister Modi was accorded a Guard of Honour. Later in the day, Prime Minister Modi will also interact with prominent business and sports personalities. In a reflection of the strong people-to-people ties that exist between the two countries, Mr Modi will address a large gathering of the Indian Diaspora today. Prime Minister …",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:13:24+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-sign-5-mous-in-key-areas/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Centre reviews preparations for upcoming Monsoon Session",
         "summary": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a […]",
         "article": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a comprehensive review of the legislative business scheduled for the upcoming session was conducted and necessary guidelines were issued.",
@@ -109,28 +131,6 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T10:52:13+00:00",
         "link": "https://newsonair.gov.in/railways-approve-260-cr-for-kavach-deployment-to-enhance-safety-operational-efficiency/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Centre amends Drugs Rules, 1945 to strengthen regulation of High Alcohol-Containing Drug Formulation",
-        "summary": "The Central Government has amended the Drugs Rules, 1945, to strengthen the regulation of High Alcohol-Containing Drug Formulations. The Ministry of Health and Family Welfare has removed the existing exemption (under Schedule K) from licensing requirements for formulations containing ethyl alcohol. According to the notification issued by the Ministry of Health and Family Welfare, all […]",
-        "article": "The Central Government has amended the Drugs Rules, 1945, to strengthen the regulation of High Alcohol-Containing Drug Formulations. The Ministry of Health and Family Welfare has removed the existing exemption (under Schedule K) from licensing requirements for formulations containing ethyl alcohol. According to the notification issued by the Ministry of Health and Family Welfare, all formulations containing more than 12 percent volume per volume ethyl alcohol, in quantities exceeding 30 millilitres, will no longer be covered under the exemption provided to them under Schedule K. Such products will be required to obtain the requisite licenses under the Drugs and Cosmetics Act, 1940. Earlier, certain medicinal products, including tinctures of cardamom, ginger and other aromatic preparations, had been exempted from licensing requirements under Schedule K of the Drugs Rules, 1945. Some of these formulations contain high concentrations of ethyl alcohol, in certain cases up to 80 to 90 percent volume per volume, making them susceptible to misuse for intoxication. The amendment is expected to strengthen regulatory oversight over those medicinal products containing alcohol, ensuring their supply only through the regulated pharmaceutical supply chain. It will significantly reduce the possibility of diversion and misuse while ensuring their continued availability for legitimate therapeutic use.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:55:17+00:00",
-        "link": "https://newsonair.gov.in/centre-amends-drugs-rules-1945-to-strengthen-regulation-of-high-alcohol-containing-drug-formulation/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi expresses gratitude to Australia for warm hospitality",
-        "summary": "Prime Minister Narendra Modi has expressed gratitude to the Government and people of Australia, as well as Australian Prime Minister Anthony Albanese, for the warm hospitality during his visit. In a social media post as his Australia visit concluded, Mr. Modi said the outcomes of the visit have further strengthened the India-Australia partnership and opened […]",
-        "article": "Prime Minister Narendra Modi has expressed gratitude to the Government and people of Australia, as well as Australian Prime Minister Anthony Albanese, for the warm hospitality during his visit. In a social media post as his Australia visit concluded, Mr. Modi said the outcomes of the visit have further strengthened the India-Australia partnership and opened new avenues for cooperation across diverse sectors. He expressed confidence that the momentum generated during the visit will benefit both nations and contribute positively to the global community.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:52:17+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-expresses-gratitude-to-australia-for-warm-hospitality/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -138,6 +138,17 @@ window.VM_NEWS = {
     ],
     "breaking": [
       {
+        "title": "Indian Navy to commission indigenous stealth frigate Mahendragiri in Visakhapatnam today",
+        "summary": "The Indian Navy is all set to commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38) into its Eastern Fleet at Visakhapatnam in Andhra Pradesh today. The ceremony will be presided over by Defence Minister Rajnath Singh. It will mark another significant milestone in India&#8217;s journey towards defence self-reliance and indigenous warship construction. Addressing […]",
+        "article": "The Indian Navy is all set to commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38) into its Eastern Fleet at Visakhapatnam in Andhra Pradesh today. The ceremony will be presided over by Defence Minister Rajnath Singh. It will mark another significant milestone in India&#8217;s journey towards defence self-reliance and indigenous warship construction. Addressing the naval personnel in Visakhapatnam during Barakhana on the eve of the commissioning ceremony, the defence minister reaffirmed India&#8217;s stand as the primary guarantor of peace and stability in the Indian Ocean region. We have Akashvani Correspondent reports that the Mahendragiri, designed by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited in Mumbai, is a state-of-the-art stealth frigate equipped with advanced weapons, sensors and electronic warfare systems. The warship is capable of undertaking anti-air, anti-surface and anti-submarine operations. It can also conduct maritime security patrols, search-and-rescue missions, humanitarian assistance and disaster relief operations, and sustained deployments in the Indian Ocean Region. With over 75 per cent indigenous content, the frigate reflects the government&#8217;s push for self-reliance in defence manufacturing under the Aatmanirbhar Bharat initiative. Its construction involved several Indian industries, including MSMEs (Micro, Small and Medium Enterprises), strengthening the domestic defence industrial base and generating employment. Named after the Mahendragiri mountain range in the Eastern Ghats, the warship symbolises strength and resilience. The government says its induction will further enhance the Indian Navy’s operational capability and reinforce India’s position as a leading indigenous warship-building nation and a preferred security partner in the Indian Ocean region.",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:28:48+00:00",
+        "link": "https://newsonair.gov.in/indian-navy-to-commission-indigenous-stealth-frigate-mahendragiri-in-visakhapatnam-today/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/What_is_Shipyard.jpg/1280px-What_is_Shipyard.jpg",
+        "image_credit": "Wikipedia – Visakhapatnam (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Modi receives rousing welcome upon his arrival in Auckland: First Indian PM to visit New Zealand in four decades",
         "summary": "Prime Minister Narendra Modi received a warm and enthusiastic welcome upon his arrival in Auckland, marking the start of his historic two-day visit to New Zealand. This is the first visit by an Indian Prime Minister in nearly four decades. After arriving in Auckland, Prime Minister Modi was received at the airport by New […]",
         "article": "Prime Minister Narendra Modi received a warm and enthusiastic welcome upon his arrival in Auckland, marking the start of his historic two-day visit to New Zealand. This is the first visit by an Indian Prime Minister in nearly four decades. After arriving in Auckland, Prime Minister Modi was received at the airport by New Zealand Prime Minister Christopher Luxon. The Indian community gathered in large numbers to greet him. The atmosphere was filled with excitement as people waved the Indian tricolour and chanted “Kia Ora Modi” to welcome him. Later, Prime Minister witnessed a vibrant celebration of India’s rich cultural heritage during the community welcome in Auckland this evening. In a series of social media posts, the Prime Minister said that the performances showcased the cultures of Punjab and Tamil Nadu, a fusion of Carnatic and Hindustani classical music, and a stirring rendition of Vande Mataram. Mr Modi complimented the diaspora for keeping India’s cultural heritage vibrant across generations and continents and for strengthening the enduring people-to-people bonds between India and New Zealand. The Prime Minister also expressed delight to witness the performance by the Naad Vocal Ensemble. He said music has a unique ability to bring people together, and today’s performance beautifully reflected the warmth and depth of India-New Zealand friendship. During the visit, the two leaders are expected to discuss ways to further strengthen cooperation in trade, investment, education, technology, and people-to-people ties, reflecting the growing partnership between India and New Zealand.",
@@ -157,6 +168,17 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/sc-to-hear-ayodhya-ram-temple-donation-case-on-monday/",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Galileo_moon_phases.jpg",
         "image_credit": "Wikipedia – Monday (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India & New Zealand sign 5 MoUs in key areas",
+        "summary": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in […]",
+        "article": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in Auckland. The two countries signed a memorandum of arrangement between the Ministry of Defence and the New Zealand Defence Force to enhance maritime cooperation, aimed at strengthening security in the Indo-Pacific region. The agreement on animal husbandry and dairy will promote research, innovation and the exchange of best practices. The tourism pact is expected to boost visitor exchanges and strengthen cooperation in the travel sector. Both sides also adopted a Joint Action Plan on Sport to deepen collaboration in sports development and athlete exchanges. An MoU on disaster management will enhance cooperation in disaster preparedness, emergency response and resilience. The five agreements reflect the growing India-New Zealand partnership and the shared commitment to expand cooperation across strategic, economic and people-to-people sectors. Earlier, speaking during delegation-level talks, Prime Minister Modi said that his visit to New Zealand marks a historic milestone in bilateral relations and will give fresh momentum to ties between the two countries. Mr Modi thanked the people and leadership of New Zealand for their warmth and support, saying the visit of an Indian Prime Minister after four decades reflects the growing strength of the partnership. Hailing the Free Trade Agreement (FTA) between the two countries, Mr Modi appreciated New Zealand&#8217;s efforts in concluding the FTA process in a short period and thanked Prime Minister Luxon and his government for their leadership. He said the two countries have now taken a significant step by establishing a strategic partnership, which will guide future cooperation. Highlighting the shared democratic values and maritime ties between the two nations, Prime Minister Modi said India and New Zealand can play an important role in strengthening peace, stability and security in the Indo-Pacific region. He expressed confidence that the visit would further deepen bilateral relations and enhance cooperation for global peace and prosperity. Speaking on the occasion, the New Zealand prime minister described Mr Modi&#8217;s visit as a historic milestone, marking the first visit by an Indian prime minister to New Zealand in 40 years. Welcoming Prime Minister Modi, Mr Luxon said it was a pleasure and an honour to host him, adding that the visit reflects the growing strength of bilateral ties. He said the two countries have made significant progress on the trade agenda and emphasised that the relationship extends beyond the Free Trade Agreement. Mr Luxon also announced that India and New Zealand will establish a strategic partnership to provide a broader framework for expanding cooperation across key sectors. The bilateral discussions were preceded by a ceremonial welcome at the Government House, where Prime Minister Modi was accorded a Guard of Honour. Later in the day, Prime Minister Modi will also interact with prominent business and sports personalities. In a reflection of the strong people-to-people ties that exist between the two countries, Mr Modi will address a large gathering of the Indian Diaspora today. Prime Minister …",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:13:24+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-sign-5-mous-in-key-areas/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -221,28 +243,6 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T08:55:17+00:00",
         "link": "https://newsonair.gov.in/centre-amends-drugs-rules-1945-to-strengthen-regulation-of-high-alcohol-containing-drug-formulation/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi expresses gratitude to Australia for warm hospitality",
-        "summary": "Prime Minister Narendra Modi has expressed gratitude to the Government and people of Australia, as well as Australian Prime Minister Anthony Albanese, for the warm hospitality during his visit. In a social media post as his Australia visit concluded, Mr. Modi said the outcomes of the visit have further strengthened the India-Australia partnership and opened […]",
-        "article": "Prime Minister Narendra Modi has expressed gratitude to the Government and people of Australia, as well as Australian Prime Minister Anthony Albanese, for the warm hospitality during his visit. In a social media post as his Australia visit concluded, Mr. Modi said the outcomes of the visit have further strengthened the India-Australia partnership and opened new avenues for cooperation across diverse sectors. He expressed confidence that the momentum generated during the visit will benefit both nations and contribute positively to the global community.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:52:17+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-expresses-gratitude-to-australia-for-warm-hospitality/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "WhatsApp submits reply to Govt regarding rollout of Usernames feature",
-        "summary": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the […]",
-        "article": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the Government had issued a notice to Meta regarding the rollout of the Usernames feature on WhatsApp in India. Sources said that the Ministry directed Meta to furnish a detailed explanation on the feature. The Ministry also directed Meta not to roll out the usernames feature until consultation on the matter is over.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:43:02+00:00",
-        "link": "https://newsonair.gov.in/whatsapp-submits-reply-to-govt-regarding-rollout-of-usernames-feature/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -250,6 +250,17 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "Indian Navy to commission indigenous stealth frigate Mahendragiri in Visakhapatnam today",
+        "summary": "The Indian Navy is all set to commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38) into its Eastern Fleet at Visakhapatnam in Andhra Pradesh today. The ceremony will be presided over by Defence Minister Rajnath Singh. It will mark another significant milestone in India&#8217;s journey towards defence self-reliance and indigenous warship construction. Addressing […]",
+        "article": "The Indian Navy is all set to commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38) into its Eastern Fleet at Visakhapatnam in Andhra Pradesh today. The ceremony will be presided over by Defence Minister Rajnath Singh. It will mark another significant milestone in India&#8217;s journey towards defence self-reliance and indigenous warship construction. Addressing the naval personnel in Visakhapatnam during Barakhana on the eve of the commissioning ceremony, the defence minister reaffirmed India&#8217;s stand as the primary guarantor of peace and stability in the Indian Ocean region. We have Akashvani Correspondent reports that the Mahendragiri, designed by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited in Mumbai, is a state-of-the-art stealth frigate equipped with advanced weapons, sensors and electronic warfare systems. The warship is capable of undertaking anti-air, anti-surface and anti-submarine operations. It can also conduct maritime security patrols, search-and-rescue missions, humanitarian assistance and disaster relief operations, and sustained deployments in the Indian Ocean Region. With over 75 per cent indigenous content, the frigate reflects the government&#8217;s push for self-reliance in defence manufacturing under the Aatmanirbhar Bharat initiative. Its construction involved several Indian industries, including MSMEs (Micro, Small and Medium Enterprises), strengthening the domestic defence industrial base and generating employment. Named after the Mahendragiri mountain range in the Eastern Ghats, the warship symbolises strength and resilience. The government says its induction will further enhance the Indian Navy’s operational capability and reinforce India’s position as a leading indigenous warship-building nation and a preferred security partner in the Indian Ocean region.",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:28:48+00:00",
+        "link": "https://newsonair.gov.in/indian-navy-to-commission-indigenous-stealth-frigate-mahendragiri-in-visakhapatnam-today/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/What_is_Shipyard.jpg/1280px-What_is_Shipyard.jpg",
+        "image_credit": "Wikipedia – Visakhapatnam (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Modi receives rousing welcome upon his arrival in Auckland: First Indian PM to visit New Zealand in four decades",
         "summary": "Prime Minister Narendra Modi received a warm and enthusiastic welcome upon his arrival in Auckland, marking the start of his historic two-day visit to New Zealand. This is the first visit by an Indian Prime Minister in nearly four decades. After arriving in Auckland, Prime Minister Modi was received at the airport by New […]",
         "article": "Prime Minister Narendra Modi received a warm and enthusiastic welcome upon his arrival in Auckland, marking the start of his historic two-day visit to New Zealand. This is the first visit by an Indian Prime Minister in nearly four decades. After arriving in Auckland, Prime Minister Modi was received at the airport by New Zealand Prime Minister Christopher Luxon. The Indian community gathered in large numbers to greet him. The atmosphere was filled with excitement as people waved the Indian tricolour and chanted “Kia Ora Modi” to welcome him. Later, Prime Minister witnessed a vibrant celebration of India’s rich cultural heritage during the community welcome in Auckland this evening. In a series of social media posts, the Prime Minister said that the performances showcased the cultures of Punjab and Tamil Nadu, a fusion of Carnatic and Hindustani classical music, and a stirring rendition of Vande Mataram. Mr Modi complimented the diaspora for keeping India’s cultural heritage vibrant across generations and continents and for strengthening the enduring people-to-people bonds between India and New Zealand. The Prime Minister also expressed delight to witness the performance by the Naad Vocal Ensemble. He said music has a unique ability to bring people together, and today’s performance beautifully reflected the warmth and depth of India-New Zealand friendship. During the visit, the two leaders are expected to discuss ways to further strengthen cooperation in trade, investment, education, technology, and people-to-people ties, reflecting the growing partnership between India and New Zealand.",
@@ -269,6 +280,17 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/sc-to-hear-ayodhya-ram-temple-donation-case-on-monday/",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Galileo_moon_phases.jpg",
         "image_credit": "Wikipedia – Monday (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India & New Zealand sign 5 MoUs in key areas",
+        "summary": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in […]",
+        "article": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in Auckland. The two countries signed a memorandum of arrangement between the Ministry of Defence and the New Zealand Defence Force to enhance maritime cooperation, aimed at strengthening security in the Indo-Pacific region. The agreement on animal husbandry and dairy will promote research, innovation and the exchange of best practices. The tourism pact is expected to boost visitor exchanges and strengthen cooperation in the travel sector. Both sides also adopted a Joint Action Plan on Sport to deepen collaboration in sports development and athlete exchanges. An MoU on disaster management will enhance cooperation in disaster preparedness, emergency response and resilience. The five agreements reflect the growing India-New Zealand partnership and the shared commitment to expand cooperation across strategic, economic and people-to-people sectors. Earlier, speaking during delegation-level talks, Prime Minister Modi said that his visit to New Zealand marks a historic milestone in bilateral relations and will give fresh momentum to ties between the two countries. Mr Modi thanked the people and leadership of New Zealand for their warmth and support, saying the visit of an Indian Prime Minister after four decades reflects the growing strength of the partnership. Hailing the Free Trade Agreement (FTA) between the two countries, Mr Modi appreciated New Zealand&#8217;s efforts in concluding the FTA process in a short period and thanked Prime Minister Luxon and his government for their leadership. He said the two countries have now taken a significant step by establishing a strategic partnership, which will guide future cooperation. Highlighting the shared democratic values and maritime ties between the two nations, Prime Minister Modi said India and New Zealand can play an important role in strengthening peace, stability and security in the Indo-Pacific region. He expressed confidence that the visit would further deepen bilateral relations and enhance cooperation for global peace and prosperity. Speaking on the occasion, the New Zealand prime minister described Mr Modi&#8217;s visit as a historic milestone, marking the first visit by an Indian prime minister to New Zealand in 40 years. Welcoming Prime Minister Modi, Mr Luxon said it was a pleasure and an honour to host him, adding that the visit reflects the growing strength of bilateral ties. He said the two countries have made significant progress on the trade agenda and emphasised that the relationship extends beyond the Free Trade Agreement. Mr Luxon also announced that India and New Zealand will establish a strategic partnership to provide a broader framework for expanding cooperation across key sectors. The bilateral discussions were preceded by a ceremonial welcome at the Government House, where Prime Minister Modi was accorded a Guard of Honour. Later in the day, Prime Minister Modi will also interact with prominent business and sports personalities. In a reflection of the strong people-to-people ties that exist between the two countries, Mr Modi will address a large gathering of the Indian Diaspora today. Prime Minister …",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:13:24+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-sign-5-mous-in-key-areas/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -333,28 +355,6 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T08:55:17+00:00",
         "link": "https://newsonair.gov.in/centre-amends-drugs-rules-1945-to-strengthen-regulation-of-high-alcohol-containing-drug-formulation/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi expresses gratitude to Australia for warm hospitality",
-        "summary": "Prime Minister Narendra Modi has expressed gratitude to the Government and people of Australia, as well as Australian Prime Minister Anthony Albanese, for the warm hospitality during his visit. In a social media post as his Australia visit concluded, Mr. Modi said the outcomes of the visit have further strengthened the India-Australia partnership and opened […]",
-        "article": "Prime Minister Narendra Modi has expressed gratitude to the Government and people of Australia, as well as Australian Prime Minister Anthony Albanese, for the warm hospitality during his visit. In a social media post as his Australia visit concluded, Mr. Modi said the outcomes of the visit have further strengthened the India-Australia partnership and opened new avenues for cooperation across diverse sectors. He expressed confidence that the momentum generated during the visit will benefit both nations and contribute positively to the global community.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:52:17+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-expresses-gratitude-to-australia-for-warm-hospitality/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "WhatsApp submits reply to Govt regarding rollout of Usernames feature",
-        "summary": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the […]",
-        "article": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the Government had issued a notice to Meta regarding the rollout of the Usernames feature on WhatsApp in India. Sources said that the Ministry directed Meta to furnish a detailed explanation on the feature. The Ministry also directed Meta not to roll out the usernames feature until consultation on the matter is over.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:43:02+00:00",
-        "link": "https://newsonair.gov.in/whatsapp-submits-reply-to-govt-regarding-rollout-of-usernames-feature/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -362,6 +362,17 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "Indian Navy to commission indigenous stealth frigate Mahendragiri in Visakhapatnam today",
+        "summary": "The Indian Navy is all set to commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38) into its Eastern Fleet at Visakhapatnam in Andhra Pradesh today. The ceremony will be presided over by Defence Minister Rajnath Singh. It will mark another significant milestone in India&#8217;s journey towards defence self-reliance and indigenous warship construction. Addressing […]",
+        "article": "The Indian Navy is all set to commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38) into its Eastern Fleet at Visakhapatnam in Andhra Pradesh today. The ceremony will be presided over by Defence Minister Rajnath Singh. It will mark another significant milestone in India&#8217;s journey towards defence self-reliance and indigenous warship construction. Addressing the naval personnel in Visakhapatnam during Barakhana on the eve of the commissioning ceremony, the defence minister reaffirmed India&#8217;s stand as the primary guarantor of peace and stability in the Indian Ocean region. We have Akashvani Correspondent reports that the Mahendragiri, designed by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited in Mumbai, is a state-of-the-art stealth frigate equipped with advanced weapons, sensors and electronic warfare systems. The warship is capable of undertaking anti-air, anti-surface and anti-submarine operations. It can also conduct maritime security patrols, search-and-rescue missions, humanitarian assistance and disaster relief operations, and sustained deployments in the Indian Ocean Region. With over 75 per cent indigenous content, the frigate reflects the government&#8217;s push for self-reliance in defence manufacturing under the Aatmanirbhar Bharat initiative. Its construction involved several Indian industries, including MSMEs (Micro, Small and Medium Enterprises), strengthening the domestic defence industrial base and generating employment. Named after the Mahendragiri mountain range in the Eastern Ghats, the warship symbolises strength and resilience. The government says its induction will further enhance the Indian Navy’s operational capability and reinforce India’s position as a leading indigenous warship-building nation and a preferred security partner in the Indian Ocean region.",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:28:48+00:00",
+        "link": "https://newsonair.gov.in/indian-navy-to-commission-indigenous-stealth-frigate-mahendragiri-in-visakhapatnam-today/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/What_is_Shipyard.jpg/1280px-What_is_Shipyard.jpg",
+        "image_credit": "Wikipedia – Visakhapatnam (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Modi receives rousing welcome upon his arrival in Auckland: First Indian PM to visit New Zealand in four decades",
         "summary": "Prime Minister Narendra Modi received a warm and enthusiastic welcome upon his arrival in Auckland, marking the start of his historic two-day visit to New Zealand. This is the first visit by an Indian Prime Minister in nearly four decades. After arriving in Auckland, Prime Minister Modi was received at the airport by New […]",
         "article": "Prime Minister Narendra Modi received a warm and enthusiastic welcome upon his arrival in Auckland, marking the start of his historic two-day visit to New Zealand. This is the first visit by an Indian Prime Minister in nearly four decades. After arriving in Auckland, Prime Minister Modi was received at the airport by New Zealand Prime Minister Christopher Luxon. The Indian community gathered in large numbers to greet him. The atmosphere was filled with excitement as people waved the Indian tricolour and chanted “Kia Ora Modi” to welcome him. Later, Prime Minister witnessed a vibrant celebration of India’s rich cultural heritage during the community welcome in Auckland this evening. In a series of social media posts, the Prime Minister said that the performances showcased the cultures of Punjab and Tamil Nadu, a fusion of Carnatic and Hindustani classical music, and a stirring rendition of Vande Mataram. Mr Modi complimented the diaspora for keeping India’s cultural heritage vibrant across generations and continents and for strengthening the enduring people-to-people bonds between India and New Zealand. The Prime Minister also expressed delight to witness the performance by the Naad Vocal Ensemble. He said music has a unique ability to bring people together, and today’s performance beautifully reflected the warmth and depth of India-New Zealand friendship. During the visit, the two leaders are expected to discuss ways to further strengthen cooperation in trade, investment, education, technology, and people-to-people ties, reflecting the growing partnership between India and New Zealand.",
@@ -381,6 +392,17 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/sc-to-hear-ayodhya-ram-temple-donation-case-on-monday/",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Galileo_moon_phases.jpg",
         "image_credit": "Wikipedia – Monday (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India & New Zealand sign 5 MoUs in key areas",
+        "summary": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in […]",
+        "article": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in Auckland. The two countries signed a memorandum of arrangement between the Ministry of Defence and the New Zealand Defence Force to enhance maritime cooperation, aimed at strengthening security in the Indo-Pacific region. The agreement on animal husbandry and dairy will promote research, innovation and the exchange of best practices. The tourism pact is expected to boost visitor exchanges and strengthen cooperation in the travel sector. Both sides also adopted a Joint Action Plan on Sport to deepen collaboration in sports development and athlete exchanges. An MoU on disaster management will enhance cooperation in disaster preparedness, emergency response and resilience. The five agreements reflect the growing India-New Zealand partnership and the shared commitment to expand cooperation across strategic, economic and people-to-people sectors. Earlier, speaking during delegation-level talks, Prime Minister Modi said that his visit to New Zealand marks a historic milestone in bilateral relations and will give fresh momentum to ties between the two countries. Mr Modi thanked the people and leadership of New Zealand for their warmth and support, saying the visit of an Indian Prime Minister after four decades reflects the growing strength of the partnership. Hailing the Free Trade Agreement (FTA) between the two countries, Mr Modi appreciated New Zealand&#8217;s efforts in concluding the FTA process in a short period and thanked Prime Minister Luxon and his government for their leadership. He said the two countries have now taken a significant step by establishing a strategic partnership, which will guide future cooperation. Highlighting the shared democratic values and maritime ties between the two nations, Prime Minister Modi said India and New Zealand can play an important role in strengthening peace, stability and security in the Indo-Pacific region. He expressed confidence that the visit would further deepen bilateral relations and enhance cooperation for global peace and prosperity. Speaking on the occasion, the New Zealand prime minister described Mr Modi&#8217;s visit as a historic milestone, marking the first visit by an Indian prime minister to New Zealand in 40 years. Welcoming Prime Minister Modi, Mr Luxon said it was a pleasure and an honour to host him, adding that the visit reflects the growing strength of bilateral ties. He said the two countries have made significant progress on the trade agenda and emphasised that the relationship extends beyond the Free Trade Agreement. Mr Luxon also announced that India and New Zealand will establish a strategic partnership to provide a broader framework for expanding cooperation across key sectors. The bilateral discussions were preceded by a ceremonial welcome at the Government House, where Prime Minister Modi was accorded a Guard of Honour. Later in the day, Prime Minister Modi will also interact with prominent business and sports personalities. In a reflection of the strong people-to-people ties that exist between the two countries, Mr Modi will address a large gathering of the Indian Diaspora today. Prime Minister …",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:13:24+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-sign-5-mous-in-key-areas/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -445,28 +467,6 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T08:55:17+00:00",
         "link": "https://newsonair.gov.in/centre-amends-drugs-rules-1945-to-strengthen-regulation-of-high-alcohol-containing-drug-formulation/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi expresses gratitude to Australia for warm hospitality",
-        "summary": "Prime Minister Narendra Modi has expressed gratitude to the Government and people of Australia, as well as Australian Prime Minister Anthony Albanese, for the warm hospitality during his visit. In a social media post as his Australia visit concluded, Mr. Modi said the outcomes of the visit have further strengthened the India-Australia partnership and opened […]",
-        "article": "Prime Minister Narendra Modi has expressed gratitude to the Government and people of Australia, as well as Australian Prime Minister Anthony Albanese, for the warm hospitality during his visit. In a social media post as his Australia visit concluded, Mr. Modi said the outcomes of the visit have further strengthened the India-Australia partnership and opened new avenues for cooperation across diverse sectors. He expressed confidence that the momentum generated during the visit will benefit both nations and contribute positively to the global community.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:52:17+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-expresses-gratitude-to-australia-for-warm-hospitality/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "WhatsApp submits reply to Govt regarding rollout of Usernames feature",
-        "summary": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the […]",
-        "article": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the Government had issued a notice to Meta regarding the rollout of the Usernames feature on WhatsApp in India. Sources said that the Ministry directed Meta to furnish a detailed explanation on the feature. The Ministry also directed Meta not to roll out the usernames feature until consultation on the matter is over.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:43:02+00:00",
-        "link": "https://newsonair.gov.in/whatsapp-submits-reply-to-govt-regarding-rollout-of-usernames-feature/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -592,8 +592,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T06:30:09+00:00",
         "link": "https://newsonair.gov.in/mens-cricket-india-to-face-england-in-fourth-t20i-in-bristol-today/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Clifton_Suspension_Bridge_and_the_Observatory_in_Bristol%2C_England.jpg/1280px-Clifton_Suspension_Bridge_and_the_Observatory_in_Bristol%2C_England.jpg",
-        "image_credit": "Wikipedia – Bristol (CC BY-SA)",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Pollock_to_Hussey.jpg",
+        "image_credit": "Wikipedia – Cricket (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -603,8 +603,30 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T12:26:57+00:00",
         "link": "https://newsonair.gov.in/telangana-to-host-8th-khelo-india-youth-games-2026/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/A_typical_charminar_evening.jpg",
-        "image_credit": "Wikipedia – Telangana (CC BY-SA)",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Khelo_India.svg/1280px-Khelo_India.svg.png",
+        "image_credit": "Wikipedia – Khelo India Youth Games (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "FIFA World Cup: Switzerland, Argentina enter quarterfinals",
+        "summary": "In football, Switzerland beat Colombia 4-3 in a penalty shootout in Vancouver to reach the quarterfinals of FIFA World Cup for the first time since 1954. Colombia faltered when Davinson Sánchez smashed his spot-kick against the bar and Cucho Hernández had his effort saved by goalkeeper Gregor Kobel, before Rubén Vargas scored to book a […]",
+        "article": "In football, Switzerland beat Colombia 4-3 in a penalty shootout in Vancouver to reach the quarterfinals of FIFA World Cup for the first time since 1954. Colombia faltered when Davinson Sánchez smashed his spot-kick against the bar and Cucho Hernández had his effort saved by goalkeeper Gregor Kobel, before Rubén Vargas scored to book a quarterfinal date with holders Argentina. The two sides were tied 0-0 after extra time. In another Round of 16 match, Argentina defeated Egypt 3-2 in Atlanta. Argentina was trailing by two goals till 78th minute when the defending champions pulled off a stunning comeback with Cristian Romaro scoring the first goal at 79 minutes. The equalizer came through Messi in 83 minutes while Enzo Fernandez completed the turnaround with the winner in the extra time. With this win Argentina entered the quarter finals of the tournament.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T01:18:40+00:00",
+        "link": "https://newsonair.gov.in/fifa-world-cup-switzerland-argentina-enter-quarterfinals/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpg",
+        "image_credit": "Wikipedia – FIFA World Cup (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Wimbledon: Defending champion Jannik Sinner storms into Men’s Singles semifinal",
+        "summary": "In the Wimbledon Tennis, World No. 1 and defending champion Jannik Sinner has stormed into Men&#8217;s Singles semifinal beating Jan-Lennard Struff of Germany. Sinner defeated Struff in straight sets 7-5, 7-6, 6-3 in the quarter-final match this evening. In Women&#8217;s Singles, Coco Gauff advanced to the Wimbledon semi-finals after defeating fellow American Jessica Pegula 4-6, […]",
+        "article": "In the Wimbledon Tennis, World No. 1 and defending champion Jannik Sinner has stormed into Men&#8217;s Singles semifinal beating Jan-Lennard Struff of Germany. Sinner defeated Struff in straight sets 7-5, 7-6, 6-3 in the quarter-final match this evening. In Women&#8217;s Singles, Coco Gauff advanced to the Wimbledon semi-finals after defeating fellow American Jessica Pegula 4-6, 6-3, 6-3 in a thrilling quarter-final match. In other quarter-finals tomorrow, Czech player Linda Nosková will face Belgian Elise Mertens while Ukrainian player Marta Kostyuk will take on Italian Jasmine Paolini.",
+        "date": "2026-07-07",
+        "pubDate": "2026-07-07T15:46:01+00:00",
+        "link": "https://newsonair.gov.in/wimbledon-tennis-ninth-seed-flavio-cobolli-enters-mens-singles-quarter-finals/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Jannik_Sinner_2025_US_Open.jpg",
+        "image_credit": "Wikipedia – Jannik Sinner (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -669,28 +691,6 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T01:27:33+00:00",
         "link": "https://newsonair.gov.in/england-beat-india-by-125-runs-in-third-t20i/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "FIFA World Cup: Switzerland, Argentina enter quarterfinals",
-        "summary": "In football, Switzerland beat Colombia 4-3 in a penalty shootout in Vancouver to reach the quarterfinals of FIFA World Cup for the first time since 1954. Colombia faltered when Davinson Sánchez smashed his spot-kick against the bar and Cucho Hernández had his effort saved by goalkeeper Gregor Kobel, before Rubén Vargas scored to book a […]",
-        "article": "In football, Switzerland beat Colombia 4-3 in a penalty shootout in Vancouver to reach the quarterfinals of FIFA World Cup for the first time since 1954. Colombia faltered when Davinson Sánchez smashed his spot-kick against the bar and Cucho Hernández had his effort saved by goalkeeper Gregor Kobel, before Rubén Vargas scored to book a quarterfinal date with holders Argentina. The two sides were tied 0-0 after extra time. In another Round of 16 match, Argentina defeated Egypt 3-2 in Atlanta. Argentina was trailing by two goals till 78th minute when the defending champions pulled off a stunning comeback with Cristian Romaro scoring the first goal at 79 minutes. The equalizer came through Messi in 83 minutes while Enzo Fernandez completed the turnaround with the winner in the extra time. With this win Argentina entered the quarter finals of the tournament.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T01:18:40+00:00",
-        "link": "https://newsonair.gov.in/fifa-world-cup-switzerland-argentina-enter-quarterfinals/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Wimbledon: Defending champion Jannik Sinner storms into Men’s Singles semifinal",
-        "summary": "In the Wimbledon Tennis, World No. 1 and defending champion Jannik Sinner has stormed into Men&#8217;s Singles semifinal beating Jan-Lennard Struff of Germany. Sinner defeated Struff in straight sets 7-5, 7-6, 6-3 in the quarter-final match this evening. In Women&#8217;s Singles, Coco Gauff advanced to the Wimbledon semi-finals after defeating fellow American Jessica Pegula 4-6, […]",
-        "article": "In the Wimbledon Tennis, World No. 1 and defending champion Jannik Sinner has stormed into Men&#8217;s Singles semifinal beating Jan-Lennard Struff of Germany. Sinner defeated Struff in straight sets 7-5, 7-6, 6-3 in the quarter-final match this evening. In Women&#8217;s Singles, Coco Gauff advanced to the Wimbledon semi-finals after defeating fellow American Jessica Pegula 4-6, 6-3, 6-3 in a thrilling quarter-final match. In other quarter-finals tomorrow, Czech player Linda Nosková will face Belgian Elise Mertens while Ukrainian player Marta Kostyuk will take on Italian Jasmine Paolini.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T15:46:01+00:00",
-        "link": "https://newsonair.gov.in/wimbledon-tennis-ninth-seed-flavio-cobolli-enters-mens-singles-quarter-finals/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -832,17 +832,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "BIFF 2025: Shape of Momo to Premiere in Vision Section of Asia’s Biggest Film Festival",
-        "summary": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &#160; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its […]",
-        "article": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &nbsp; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its Vision Section highlights promising works from independent Asian cinema, showcasing daring and original stories from both emerging and mid-career directors. &nbsp; The selection places Shape of Momo alongside some of the most exciting contemporary films from across Asia. The film will also be screened at the San Sebastián International Film Festival in September, marking a significant step in its international journey.",
-        "date": "2025-08-21",
-        "pubDate": "2025-08-21T05:59:25+00:00",
-        "link": "https://newsonair.gov.in/biff-2025-shape-of-momo-to-premiere-in-vision-section-of-asias-biggest-film-festival/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Premiere_at_Chinese_Theater_%283555047236%29.jpg/1280px-Premiere_at_Chinese_Theater_%283555047236%29.jpg",
-        "image_credit": "Wikipedia – Premiere (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "150th Shree Baba Harivallabh Sangeet Sammelan Begins in Jalandhar Tomorrow",
         "summary": "In Punjab, the 150th Shree Baba Harivallabh Sangeet Sammelan, the oldest Hindustani classical music festival in the country, is starting from tomorrow evening at Shree Devi Talab Temple, Jalandhar. The festival is being organised in collaboration with the North Zone Cultural Centre (NZCC), Patiala of the Union Ministry of Culture, Govt. of India and […]",
         "article": "In Punjab, the 150th Shree Baba Harivallabh Sangeet Sammelan, the oldest Hindustani classical music festival in the country, is starting from tomorrow evening at Shree Devi Talab Temple, Jalandhar. The festival is being organised in collaboration with the North Zone Cultural Centre (NZCC), Patiala of the Union Ministry of Culture, Govt. of India and supported by the state government. The 3-day festival is dedicated to the 350th martyrdom anniversary of Guru Tegh Bahadur Ji and acclaimed Banaras Gharana vocalist Pt Chhannu Lal Mishra, who passed away in October this year. Renowned classical music artists like folk vocalist icon Vidushi Malini Awasthi, Pt Sajan Mishara, his son Swaransh Mishra, Pt Ronu Majumdar, Shashank Subramanyam, Ashwini Bhide, Pt Sanjeev Abhyankar, Pt Shubhendra Rao, Saskia Rao-de-Haas, Ustad Faiyaz Wasifuddin Dagar, Pt Vijay Ghate, V Selvaganesh, Naveen Sharma and Shikharnaad Qureshi, among others, will perform from 26 to 28 December.",
@@ -909,6 +898,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "BIFF 2025: Shape of Momo to Premiere in Vision Section of Asia’s Biggest Film Festival",
+        "summary": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &#160; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its […]",
+        "article": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &nbsp; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its Vision Section highlights promising works from independent Asian cinema, showcasing daring and original stories from both emerging and mid-career directors. &nbsp; The selection places Shape of Momo alongside some of the most exciting contemporary films from across Asia. The film will also be screened at the San Sebastián International Film Festival in September, marking a significant step in its international journey.",
+        "date": "2025-08-21",
+        "pubDate": "2025-08-21T05:59:25+00:00",
+        "link": "https://newsonair.gov.in/biff-2025-shape-of-momo-to-premiere-in-vision-section-of-asias-biggest-film-festival/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "EAM Dr. S. Jaishankar Strengthens Ties with Indian Ocean Nations at Muscat Conference",
         "summary": "External Affairs Minister Dr. S. Jaishankar held meetings with his counterparts from Mauritius, Maldives, Nepal, Bhutan and Sri Lanka on the sidelines of the Indian Ocean Conference in Oman&#8217;s capital Muscat yesterday. During his meeting with his Mauritian counterpart Dhananjay Ritish Ramful, Dr. Jaishankar emphasised upon the commitment to further strengthen &#8220;special bonds of friendshi",
         "article": "External Affairs Minister Dr. S. Jaishankar held meetings with his counterparts from Mauritius, Maldives, Nepal, Bhutan and Sri Lanka on the sidelines of the Indian Ocean Conference in Oman&#8217;s capital Muscat yesterday. During his meeting with his Mauritian counterpart Dhananjay Ritish Ramful, Dr. Jaishankar emphasised upon the commitment to further strengthen &#8220;special bonds of friendship&#8221; between the two nations. It was Dr. Jaishankar&#8217;s first meeting with Ramful. The External Affairs Minister, during his meeting with his Maldivian counterpart Abdulla Khaleel, discussed many facets of India-Maldives cooperation. With his Sri Lankan counterpart Vijitha Herath, Dr. Jaishankar discussed wide-ranging cooperation between the two nations. He also expressed India&#8217;s commitment to the economic recovery and progress of Sri Lanka. During his visit to Oman, Jaishankar also met his counterparts from Oman, Brunei and Iran on the sidelines of the Indian Ocean Conference. He also held a meeting with Bangladesh Foreign Affairs Advisor Md. Touhid Hossain. The 8th Indian Ocean Conference is being organised by the India Foundation in association with Oman&#8217;s Ministry of Foreign Affairs in Muscat on February 16-17, 2025.",
@@ -922,28 +922,6 @@ window.VM_NEWS = {
     ],
     "lifestyle": [
       {
-        "title": "Health Minister JP Nadda Urges Citizens to Eliminate TB on World Tuberculosis Day",
-        "summary": "Health and Family Welfare Minister Jagat Prakash Nadda today called on citizens to eliminate TB and ensure better health for all, especially the most vulnerable, on the occasion of World Tuberculosis Day. In a social media post, the Health Minister said that India has made notable progress through the National TB Elimination Programme, strengthening efforts […]",
-        "article": "Health and Family Welfare Minister Jagat Prakash Nadda today called on citizens to eliminate TB and ensure better health for all, especially the most vulnerable, on the occasion of World Tuberculosis Day. In a social media post, the Health Minister said that India has made notable progress through the National TB Elimination Programme, strengthening efforts across prevention, detection, and treatment. Highlighting this year’s theme: Yes! We Can End TB. Led by Bharat. Powered by Janbhagidari, Mr Nadda said it reflects the country’s shared commitment and belief in a TB-free future. Expressing gratitude to healthcare workers for their tireless service and compassionate care, the Minister called on the citizens to work towards a TB Mukt Bharat and a healthier, stronger nation.",
-        "date": "2026-03-24",
-        "pubDate": "2026-03-24T07:13:43+00:00",
-        "link": "https://newsonair.gov.in/health-minister-jp-nadda-urges-citizens-to-eliminate-tb-on-world-tuberculosis-day/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/World_Tuberculosis_Day_%287020132217%29.jpg/1280px-World_Tuberculosis_Day_%287020132217%29.jpg",
-        "image_credit": "Wikipedia – World Tuberculosis Day (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "West Bengal reports two suspected Nipah cases; centre sends response team",
-        "summary": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry […]",
-        "article": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry of Health and Family Welfare has shared a video in which Union Health Minister Jagat Prakash Nadda said the Central government firmly stands with the State government, and it is providing comprehensive technical, logistical and operational support to the State Government for the effective management and prevention of the outbreak. He added that upon receipt of information, the Secretary, Health and Family Welfare, immediately held discussions with the Chief Secretary and Principal Secretary, Health of West Bengal, to review the situation. Mr Nadda said he had also spoken to the West Bengal Chief Minister, Mamata Banerjee and emphasised for Centre- State co-ordination in this direction. Meanwhile, our Kolkata Correspondent reports the West Bengal government has implemented comprehensive precautionary measures to contain the spread of the virus, including two healthcare workers at a private hospital in Barasat, North 24 Parganas. State&#8217;s Chief Secretary, Nandini Chakraborty, convened an emergency meeting at Nabanna with the state&#8217;s Health Secretary and other senior officials to review the situation. Briefing the press, she confirmed that both patients are currently undergoing treatment, with a specialized medical team monitoring their condition. Preliminary investigations suggest the individuals contracted the virus during a work-related visit to Purba Bardhaman. Consequently, surveillance has been intensified across Purba Bardhaman, North 24 Parganas, and Nadia districts, while authorities are actively tracing high-risk contacts. To assist citizens, the State government has launched two helpline numbers: 033 2333-0180 and 9874708858. &nbsp;",
-        "date": "2026-01-13",
-        "pubDate": "2026-01-13T03:53:37+00:00",
-        "link": "https://newsonair.gov.in/west-bengal-reports-two-suspected-nipah-cases-centre-sends-response-team/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Howrah_bridge_betwixt_Lights.jpg/1280px-Howrah_bridge_betwixt_Lights.jpg",
-        "image_credit": "Wikipedia – West Bengal (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Chikungunya Outbreak in China: Over 7,000 Cases Emerge in Guangdong",
         "summary": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. […]",
         "article": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. Apart from Foshan, at least 12 other cities in China&#8217;s southern Guangdong province have reported infections from this a mosquito-borne virus, with nearly 3,000 cases got reported last week. Although rare in China, chikungunya outbreaks are common in South and South East Asia and parts of Africa. On Monday, Hong Kong reported its first case of the viral disease after a 12-year-old boy who developed fever, rash and joint pain after traveling to Foshan in July. An official said, all the reported cases have been mild so far, with 95 per cent of the patients discharged within seven days, Still, the cases have led to some panic, given the virus is not widely known in the country. Meanwhile, the US has urged travellers to China to exercise &#8220;increased caution&#8221; following the outbreak.",
@@ -952,6 +930,17 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/chikungunya-outbreak-in-china-over-7000-cases-emerge-in-guangdong/",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg/1280px-China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg",
         "image_credit": "Wikipedia – Guangdong (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Health Minister JP Nadda Urges Citizens to Eliminate TB on World Tuberculosis Day",
+        "summary": "Health and Family Welfare Minister Jagat Prakash Nadda today called on citizens to eliminate TB and ensure better health for all, especially the most vulnerable, on the occasion of World Tuberculosis Day. In a social media post, the Health Minister said that India has made notable progress through the National TB Elimination Programme, strengthening efforts […]",
+        "article": "Health and Family Welfare Minister Jagat Prakash Nadda today called on citizens to eliminate TB and ensure better health for all, especially the most vulnerable, on the occasion of World Tuberculosis Day. In a social media post, the Health Minister said that India has made notable progress through the National TB Elimination Programme, strengthening efforts across prevention, detection, and treatment. Highlighting this year’s theme: Yes! We Can End TB. Led by Bharat. Powered by Janbhagidari, Mr Nadda said it reflects the country’s shared commitment and belief in a TB-free future. Expressing gratitude to healthcare workers for their tireless service and compassionate care, the Minister called on the citizens to work towards a TB Mukt Bharat and a healthier, stronger nation.",
+        "date": "2026-03-24",
+        "pubDate": "2026-03-24T07:13:43+00:00",
+        "link": "https://newsonair.gov.in/health-minister-jp-nadda-urges-citizens-to-eliminate-tb-on-world-tuberculosis-day/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -972,6 +961,17 @@ window.VM_NEWS = {
         "date": "2026-01-13",
         "pubDate": "2026-01-13T11:18:49+00:00",
         "link": "https://newsonair.gov.in/vp-radhakrishnan-urges-youth-to-be-drug-free-for-a-viksit-bharat/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "West Bengal reports two suspected Nipah cases; centre sends response team",
+        "summary": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry […]",
+        "article": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry of Health and Family Welfare has shared a video in which Union Health Minister Jagat Prakash Nadda said the Central government firmly stands with the State government, and it is providing comprehensive technical, logistical and operational support to the State Government for the effective management and prevention of the outbreak. He added that upon receipt of information, the Secretary, Health and Family Welfare, immediately held discussions with the Chief Secretary and Principal Secretary, Health of West Bengal, to review the situation. Mr Nadda said he had also spoken to the West Bengal Chief Minister, Mamata Banerjee and emphasised for Centre- State co-ordination in this direction. Meanwhile, our Kolkata Correspondent reports the West Bengal government has implemented comprehensive precautionary measures to contain the spread of the virus, including two healthcare workers at a private hospital in Barasat, North 24 Parganas. State&#8217;s Chief Secretary, Nandini Chakraborty, convened an emergency meeting at Nabanna with the state&#8217;s Health Secretary and other senior officials to review the situation. Briefing the press, she confirmed that both patients are currently undergoing treatment, with a specialized medical team monitoring their condition. Preliminary investigations suggest the individuals contracted the virus during a work-related visit to Purba Bardhaman. Consequently, surveillance has been intensified across Purba Bardhaman, North 24 Parganas, and Nadia districts, while authorities are actively tracing high-risk contacts. To assist citizens, the State government has launched two helpline numbers: 033 2333-0180 and 9874708858. &nbsp;",
+        "date": "2026-01-13",
+        "pubDate": "2026-01-13T03:53:37+00:00",
+        "link": "https://newsonair.gov.in/west-bengal-reports-two-suspected-nipah-cases-centre-sends-response-team/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1588,6 +1588,17 @@ window.VM_NEWS = {
     ],
     "sports": [
       {
+        "title": "फीफा विश्व कप: स्पेन ने बेल्जियम को 2-1 से हराकर सेमीफाइनल में जगह बनायी",
+        "summary": "फीफा विश्व कप में स्पेन ने बेल्जियम को 2-1 से हराकर सेमीफाइनल में जगह बना ली है। लॉस एंजिलिस के इंगलवुड में खेले गए दूसरे क्वार्टर फाइनल में पहले हाफ तक दोनों टीमें 1-1 की बराबरी पर थीं। स्पेन के लिए विजयी गोल मिकेल मेरिनो ने 88वें मिनट में किया। इससे पहले फ्रांस ने पहले […]",
+        "article": "फीफा विश्व कप में स्पेन ने बेल्जियम को 2-1 से हराकर सेमीफाइनल में जगह बना ली है। लॉस एंजिलिस के इंगलवुड में खेले गए दूसरे क्वार्टर फाइनल में पहले हाफ तक दोनों टीमें 1-1 की बराबरी पर थीं। स्पेन के लिए विजयी गोल मिकेल मेरिनो ने 88वें मिनट में किया। इससे पहले फ्रांस ने पहले क्वार्टर फाइनल में मोरक्को को 2-0 से हराकर सेमीफाइनल में प्रवेश किया। आज तीसरे क्वार्टर फाइनल में नॉर्वे का मुकाबला इंग्लैंड से होगा। यह मैच भारतीय समयानुसार रात 2 बजकर 30 मिनट पर शुरू होगा। वहीं, चौथे क्वार्टर फाइनल में मौजूदा चैंपियन अर्जेंटीना का सामना कल स्विट्जरलैंड से होगा।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T00:51:25+00:00",
+        "link": "https://newsonair.gov.in/hi/fifa-world-cup-spain-defeated-belgium-2-1-to-secure-a-spot-in-the-semi-finals/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats-5-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "मार्सेलो अरेवालो और जेलेना ओस्टापेंको की जोडी ने विंबलडन टेनिस टूर्नामेंट का मिक्स्ड डबल्स खिताब जीता",
         "summary": "मार्सेलो अरेवालो और जेलेना ओस्टापेंको की जोडी ने विंबलडन टेनिस टूर्नामेंट का मिक्स्ड डबल्स खिताब जीत लिया है। एक घंटे 56 मिनट के रोमांचक मैच में इस ऑस्ट्रेलियाई जोड़ी ने स्टॉर्म हंटर और मार्क पोलमैन्स की जो़ड़ी को 4-6, 7-5, 6-2 से हराया। इसके साथ ही दूसरी वरीयता प्राप्त जोड़ी ने अपना पहला मिक्स्ड डबल्स […]",
         "article": "मार्सेलो अरेवालो और जेलेना ओस्टापेंको की जोडी ने विंबलडन टेनिस टूर्नामेंट का मिक्स्ड डबल्स खिताब जीत लिया है। एक घंटे 56 मिनट के रोमांचक मैच में इस ऑस्ट्रेलियाई जोड़ी ने स्टॉर्म हंटर और मार्क पोलमैन्स की जो़ड़ी को 4-6, 7-5, 6-2 से हराया। इसके साथ ही दूसरी वरीयता प्राप्त जोड़ी ने अपना पहला मिक्स्ड डबल्स का मेजर और पहला विंबलडन खिताब अपने नाम किया।",
@@ -1683,17 +1694,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-08T01:40:35+00:00",
         "link": "https://newsonair.gov.in/hi/cricket-england-defeated-india-by-125-runs-in-the-third-t20-match/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/England-beat-India-by-125-runs-in-third-T20I.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "फीफा विश्व कप: 1954 के बाद पहली बार क्वार्टर फाइनल में पहुंचा स्विट्जरलैंड",
-        "summary": "फुटबॉल में, स्विट्जरलैंड कोलंबिया को हराकर 1954 के बाद पहली बार फीफा विश्व कप के क्वार्टर फाइनल में पहुंच गया है। वैंकूवर में खेले गए मुकाबले में दोनों टीमें अतिरिक्त समय के समाप्त होने तक कोई गोल नहीं कर सकीं। इसके बाद पैनल्टी शूटआउट में स्विट्जरलैंड ने 4-3 से जीत दर्ज की। […]",
-        "article": "फुटबॉल में, स्विट्जरलैंड कोलंबिया को हराकर 1954 के बाद पहली बार फीफा विश्व कप के क्वार्टर फाइनल में पहुंच गया है। वैंकूवर में खेले गए मुकाबले में दोनों टीमें अतिरिक्त समय के समाप्त होने तक कोई गोल नहीं कर सकीं। इसके बाद पैनल्टी शूटआउट में स्विट्जरलैंड ने 4-3 से जीत दर्ज की। वहीं, राउंड ऑफ 16 के एक अन्य मैच में, अर्जेंटीना ने मिस्र को 3-2 से हराया। अटलांटा में खेले गए मुकाबले में अर्जेंटीना 78वें मिनट तक दो गोल से पीछे था, लेकिन मौजूदा चैंपियन ने शानदार वापसी की। अर्जेंटीना के लिए क्रिस्टियन रोमारो के 79वें मिनट में, मेस्सी ने 83वें मिनट में गोल किये और एन्ज़ो फर्नांडीज़ ने अतिरिक्त समय में विजयी गोल दागा। क्वार्टर फाइनल में अर्जेंटीना का मुकाबला स्विटजरलैंड से होगा।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T01:26:28+00:00",
-        "link": "https://newsonair.gov.in/hi/fifa-world-cup-switzerland-reaches-quarter-finals-for-the-first-time-since-1954/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMqSqsSXsAESjol.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
