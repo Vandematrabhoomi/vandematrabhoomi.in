@@ -1,142 +1,30 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-11T02:42:00.081654",
+  "generated": "2026-07-11T06:05:34.720577",
   "en": {
     "top": [
       {
-        "title": "Indian Navy to commission indigenous stealth frigate Mahendragiri in Visakhapatnam today",
-        "summary": "The Indian Navy is all set to commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38) into its Eastern Fleet at Visakhapatnam in Andhra Pradesh today. The ceremony will be presided over by Defence Minister Rajnath Singh. It will mark another significant milestone in India&#8217;s journey towards defence self-reliance and indigenous warship construction. Addressing […]",
-        "article": "The Indian Navy is all set to commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38) into its Eastern Fleet at Visakhapatnam in Andhra Pradesh today. The ceremony will be presided over by Defence Minister Rajnath Singh. It will mark another significant milestone in India&#8217;s journey towards defence self-reliance and indigenous warship construction. Addressing the naval personnel in Visakhapatnam during Barakhana on the eve of the commissioning ceremony, the defence minister reaffirmed India&#8217;s stand as the primary guarantor of peace and stability in the Indian Ocean region. We have Akashvani Correspondent reports that the Mahendragiri, designed by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited in Mumbai, is a state-of-the-art stealth frigate equipped with advanced weapons, sensors and electronic warfare systems. The warship is capable of undertaking anti-air, anti-surface and anti-submarine operations. It can also conduct maritime security patrols, search-and-rescue missions, humanitarian assistance and disaster relief operations, and sustained deployments in the Indian Ocean Region. With over 75 per cent indigenous content, the frigate reflects the government&#8217;s push for self-reliance in defence manufacturing under the Aatmanirbhar Bharat initiative. Its construction involved several Indian industries, including MSMEs (Micro, Small and Medium Enterprises), strengthening the domestic defence industrial base and generating employment. Named after the Mahendragiri mountain range in the Eastern Ghats, the warship symbolises strength and resilience. The government says its induction will further enhance the Indian Navy’s operational capability and reinforce India’s position as a leading indigenous warship-building nation and a preferred security partner in the Indian Ocean region.",
+        "title": "Qatari delegation is in Iran, aims to boost mediation role, Iranian media says",
+        "summary": "Iranian state media has reported that a Qatari delegation is visiting Tehran in an effort by Doha to strengthen its role as a mediator following the recent escalation of hostilities in the Gulf region. The report said the visit comes after Qatar accused Iran of involvement in an alleged incident in the Strait of Hormuz, […]",
+        "article": "Iranian state media has reported that a Qatari delegation is visiting Tehran in an effort by Doha to strengthen its role as a mediator following the recent escalation of hostilities in the Gulf region. The report said the visit comes after Qatar accused Iran of involvement in an alleged incident in the Strait of Hormuz, followed by US strikes on Iranian military and civilian targets. It added that Qatari officials are holding talks with Iranian authorities to help de-escalate tensions and create conditions for wider negotiations. The discussions are reportedly being conducted in coordination with the United States.",
         "date": "2026-07-11",
-        "pubDate": "2026-07-11T02:28:48+00:00",
-        "link": "https://newsonair.gov.in/indian-navy-to-commission-indigenous-stealth-frigate-mahendragiri-in-visakhapatnam-today/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/What_is_Shipyard.jpg/1280px-What_is_Shipyard.jpg",
-        "image_credit": "Wikipedia – Visakhapatnam (CC BY-SA)",
+        "pubDate": "2026-07-11T04:08:42+00:00",
+        "link": "https://newsonair.gov.in/qatari-delegation-is-in-iran-aims-to-boost-mediation-role-iranian-media-says/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "PM Modi receives rousing welcome upon his arrival in Auckland: First Indian PM to visit New Zealand in four decades",
-        "summary": "Prime Minister Narendra Modi received a warm and enthusiastic welcome upon his arrival in Auckland, marking the start of his historic two-day visit to New Zealand. This is the first visit by an Indian Prime Minister in nearly four decades. After arriving in Auckland, Prime Minister Modi was received at the airport by New […]",
-        "article": "Prime Minister Narendra Modi received a warm and enthusiastic welcome upon his arrival in Auckland, marking the start of his historic two-day visit to New Zealand. This is the first visit by an Indian Prime Minister in nearly four decades. After arriving in Auckland, Prime Minister Modi was received at the airport by New Zealand Prime Minister Christopher Luxon. The Indian community gathered in large numbers to greet him. The atmosphere was filled with excitement as people waved the Indian tricolour and chanted “Kia Ora Modi” to welcome him. Later, Prime Minister witnessed a vibrant celebration of India’s rich cultural heritage during the community welcome in Auckland this evening. In a series of social media posts, the Prime Minister said that the performances showcased the cultures of Punjab and Tamil Nadu, a fusion of Carnatic and Hindustani classical music, and a stirring rendition of Vande Mataram. Mr Modi complimented the diaspora for keeping India’s cultural heritage vibrant across generations and continents and for strengthening the enduring people-to-people bonds between India and New Zealand. The Prime Minister also expressed delight to witness the performance by the Naad Vocal Ensemble. He said music has a unique ability to bring people together, and today’s performance beautifully reflected the warmth and depth of India-New Zealand friendship. During the visit, the two leaders are expected to discuss ways to further strengthen cooperation in trade, investment, education, technology, and people-to-people ties, reflecting the growing partnership between India and New Zealand.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:45:27+00:00",
-        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_-_May_2024_%282%29.jpg/1280px-Auckland_skyline_-_May_2024_%282%29.jpg",
-        "image_credit": "Wikipedia – Auckland (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "SC to hear Ayodhya Ram temple donation case on Monday",
-        "summary": "The Supreme Court would hear a batch of pleas seeking a fair and time-bound probe into the alleged embezzlement of donations at the Ram temple in Ayodhya on Monday. On 7 July, an Ayodhya court granted one-day police remand for three of the eight accused arrested in connection with the alleged theft of donations […]",
-        "article": "The Supreme Court would hear a batch of pleas seeking a fair and time-bound probe into the alleged embezzlement of donations at the Ram temple in Ayodhya on Monday. On 7 July, an Ayodhya court granted one-day police remand for three of the eight accused arrested in connection with the alleged theft of donations at the Ram temple. A local court had sent all the eight accused to 14-day judicial custody on 29th of last month. On 13th of last month, the Uttar Pradesh government constituted the SIT on a request from the temple trust following allegations of misappropriation of donations received at the Ram temple.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T12:54:34+00:00",
-        "link": "https://newsonair.gov.in/sc-to-hear-ayodhya-ram-temple-donation-case-on-monday/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Galileo_moon_phases.jpg",
-        "image_credit": "Wikipedia – Monday (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Iran accuses US of alleged airstrike near nuke power plant in Bushehr",
-        "summary": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the […]",
-        "article": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the United States launched new airstrikes against Iran, and Tehran responded by targeting US-allied countries in the West Asia in an exchange of fire that threatened an interim deal intended to help end the war in the West Asia. Sirens sounding at least three times in Bahrain, home to the US Navy&#8217;s 5th Fleet headquarters, and Iranian missiles targeting Kuwait and Qatar. Sirens sounded Thursday afternoon in Jordan as well, where the US has stationed troops and aircraft. In Iran, the two days of American airstrikes have killed at least 14 people and wounded another 78, according to Iran&#8217;s Health Ministry. Most of those reportedly members of the armed forces. Back-and-forth attacks, including a day earlier, have repeatedly threatened the ceasefire, but today&#8217;s exchange of fire appeared bigger all around. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz signalled the end of a fragile ceasefire and threatened to escalate the conflict if they did not stop.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T12:00:53+00:00",
-        "link": "https://newsonair.gov.in/iran-accuses-us-of-alleged-airstrike-near-nuke-power-plant-in-bushehr/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bushehr_City.jpg",
-        "image_credit": "Wikipedia – Bushehr (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "US launches fresh airstrikes on Iran; Tehran targets Bahrain, Kuwait and Qatar",
-        "summary": "The United States launched new airstrikes against Iran this morning. Tehran responded by targeting Bahrain, Kuwait and Qatar, escalating crossfire that again threatened an interim deal aimed at ending the war in the Persian Gulf. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of […]",
-        "article": "The United States launched new airstrikes against Iran this morning. Tehran responded by targeting Bahrain, Kuwait and Qatar, escalating crossfire that again threatened an interim deal aimed at ending the war in the Persian Gulf. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz had signalled the end of the fragile ceasefire. The US struck a range of military sites and port facilities early yesterday. The attacks followed Iran&#8217;s targeting of several merchant vessels off the coast of Oman, which triggered an Iranian response. Today&#8217;s attacks appeared to be larger on both sides. Sirens sounded at least twice in Bahrain, home to the US Navy&#8217;s 5th Fleet headquarters. There was no immediate word on damage in Bahrain, Kuwait or Qatar. Kuwait&#8217;s military said it was actively intercepting incoming drones and missiles. Iran&#8217;s Revolutionary Guard claimed responsibility for attacks on Bahrain and Kuwait. The US military&#8217;s Central Command said it struck about 90 targets across Iran. It also released black-and-white footage showing what appeared to be attacks on an airport runway and missile launchers. The US said the strikes were intended to “further degrade” Iran&#8217;s ability to threaten freedom of navigation in the Strait of Hormuz. Iranian state media reported explosions in several locations, including Bushehr, home to Iran&#8217;s nuclear power plant complex, and the southern port cities of Chabahar, Konarak, Bandar Abbas and Sirik. In Iranshahr, authorities said a strike killed a firefighter at an airport.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T06:20:24+00:00",
-        "link": "https://newsonair.gov.in/us-launches-fresh-airstrikes-on-iran-tehran-targets-bahrain-kuwait-and-qatar/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/1280px-North_of_Tehran_Skyline_view.jpg",
-        "image_credit": "Wikipedia – Tehran (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "3rd BRICS Transport Ministers’ Meeting begins in Maharashtra’s Nagpur today",
-        "summary": "Meeting of the BRICS Transport Working Group has begun today in Nagpur on the occasion of the third BRICS Transport Ministers&#8217; Meeting under BRICS 2026 chairship of India. Addressing the media persons, after the Working Group meeting, Union Transport Secretary V. Umashankar said that senior officials deliberated on the main issues of circularity, mobility, […]",
-        "article": "Meeting of the BRICS Transport Working Group has begun today in Nagpur on the occasion of the third BRICS Transport Ministers&#8217; Meeting under BRICS 2026 chairship of India. Addressing the media persons, after the Working Group meeting, Union Transport Secretary V. Umashankar said that senior officials deliberated on the main issues of circularity, mobility, urban infrastructure, and sustainable development. Similarly, best practices in the transport sector and transportation issues were discussed in collaboration with these officials. Meanwhile, 3rd BRICS Transport Ministers&#8217; Meeting which is arranged on 11th and 12th of this month in city of Nagpur will be convened under India&#8217;s BRICS Chairship theme: &#8220;Building for Resilience, Innovation, Cooperation and Sustainability (BRICS)&#8221;. Union Transport Minister Nitin Gadkari will chair the BRICS Transport Ministers’ meeting on the 11th of this month, which will see the participation from Ministers of other member countries. Following the first two pivotal meetings of the Transport Working Group hosted by Russia and Brazil, this third iteration aims to deepen international transport cooperation. Over the two days, senior officials will review the progress of transport cooperation achieved since the Russian and Brazilian Chairships, exchange international best practices and deliberate on emerging areas of collaboration, including Sustainable Aviation Fuel (SAF), urban mobility, multi-modal transport, resilient logistics’ supply chains, decarbonisation and the adoption of expanding AI-based technologies.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T05:27:31+00:00",
-        "link": "https://newsonair.gov.in/3rd-brics-transport-ministers-meeting-to-begin-in-maharashtras-nagpur-today/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cave_26%2C_Ajanta.jpg/1280px-Cave_26%2C_Ajanta.jpg",
-        "image_credit": "Wikipedia – Maharashtra (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India & New Zealand sign 5 MoUs in key areas",
-        "summary": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in […]",
-        "article": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in Auckland. The two countries signed a memorandum of arrangement between the Ministry of Defence and the New Zealand Defence Force to enhance maritime cooperation, aimed at strengthening security in the Indo-Pacific region. The agreement on animal husbandry and dairy will promote research, innovation and the exchange of best practices. The tourism pact is expected to boost visitor exchanges and strengthen cooperation in the travel sector. Both sides also adopted a Joint Action Plan on Sport to deepen collaboration in sports development and athlete exchanges. An MoU on disaster management will enhance cooperation in disaster preparedness, emergency response and resilience. The five agreements reflect the growing India-New Zealand partnership and the shared commitment to expand cooperation across strategic, economic and people-to-people sectors. Earlier, speaking during delegation-level talks, Prime Minister Modi said that his visit to New Zealand marks a historic milestone in bilateral relations and will give fresh momentum to ties between the two countries. Mr Modi thanked the people and leadership of New Zealand for their warmth and support, saying the visit of an Indian Prime Minister after four decades reflects the growing strength of the partnership. Hailing the Free Trade Agreement (FTA) between the two countries, Mr Modi appreciated New Zealand&#8217;s efforts in concluding the FTA process in a short period and thanked Prime Minister Luxon and his government for their leadership. He said the two countries have now taken a significant step by establishing a strategic partnership, which will guide future cooperation. Highlighting the shared democratic values and maritime ties between the two nations, Prime Minister Modi said India and New Zealand can play an important role in strengthening peace, stability and security in the Indo-Pacific region. He expressed confidence that the visit would further deepen bilateral relations and enhance cooperation for global peace and prosperity. Speaking on the occasion, the New Zealand prime minister described Mr Modi&#8217;s visit as a historic milestone, marking the first visit by an Indian prime minister to New Zealand in 40 years. Welcoming Prime Minister Modi, Mr Luxon said it was a pleasure and an honour to host him, adding that the visit reflects the growing strength of bilateral ties. He said the two countries have made significant progress on the trade agenda and emphasised that the relationship extends beyond the Free Trade Agreement. Mr Luxon also announced that India and New Zealand will establish a strategic partnership to provide a broader framework for expanding cooperation across key sectors. The bilateral discussions were preceded by a ceremonial welcome at the Government House, where Prime Minister Modi was accorded a Guard of Honour. Later in the day, Prime Minister Modi will also interact with prominent business and sports personalities. In a reflection of the strong people-to-people ties that exist between the two countries, Mr Modi will address a large gathering of the Indian Diaspora today. Prime Minister …",
+        "title": "HM Amit Shah reviews progress in rollout of Bureau of Port Security; Directs stronger coastal security measures",
+        "summary": "Union Home Minister Amit Shah has said that the government is firmly committed to making the country&#8217;s coastal security unbreachable. Mr Shah made the remarks while reviewing progress on the establishment of the Bureau of Port Security (BoPS) along with Union Minister for Ports, Shipping and Waterways, Sarbananda Sonowal. The Home Minister said […]",
+        "article": "Union Home Minister Amit Shah has said that the government is firmly committed to making the country&#8217;s coastal security unbreachable. Mr Shah made the remarks while reviewing progress on the establishment of the Bureau of Port Security (BoPS) along with Union Minister for Ports, Shipping and Waterways, Sarbananda Sonowal. The Home Minister said that only licensed private security agencies should be entrusted with port security, and only personnel trained by the Central Industrial Security Force (CISF) should be deployed. He directed that training at the Port Security Training Institute should begin at the earliest by utilising the existing infrastructure. He also instructed officials to create a comprehensive database of all security personnel to be deployed under the BoPS. The Home Minister further said that all ports covered under the BoPS security framework should be equipped with container-scanning facilities. He directed the CISF to conduct trial runs of the proposed security arrangements at major ports, including Visakhapatnam Port, Jawaharlal Nehru Port and Mundra Port. Akashvani correspondent reports that the meeting was attended by the Union Home Secretary, the Director of the Intelligence Bureau, the Secretary (Border Management), the Secretary of the Ministry of Ports, Shipping and Waterways, the Secretary of Department of Fisheries, the Director General of the CISF, and other senior officials. The Bureau of Port Security is being established as a statutory body under Section 13 of the Merchant Shipping Act, 2025. To be headed by a director general, the Bureau will function under the Ministry of Ports, Shipping and Waterways. It will be responsible for regulating and inspecting the security of ships and port facilities. The Bureau will also ensure the timely collection, analysis and sharing of security-related information, with a special focus on cybersecurity. A dedicated division will safeguard the IT infrastructure of ports against cyber threats. Mr Shah also reviewed security arrangements for fishing harbours and fish landing centres with officials of the Department of Fisheries. He directed that the ISRO-developed &#8216;Nabhmitra&#8217; app be promoted more extensively so that more fishermen can download it on their mobile phones. He also asked the Department to write to district magistrates and superintendents of police across the country, seeking details of all fish landing centres in their respective districts. The Home Minister further directed that the registration process for fishermen be simplified and that District Superintendents of Police ensure adequate security at fish landing centres by deploying permanent police personnel.",
         "date": "2026-07-11",
-        "pubDate": "2026-07-11T02:13:24+00:00",
-        "link": "https://newsonair.gov.in/india-new-zealand-sign-5-mous-in-key-areas/",
-        "image_url": "",
-        "image_credit": "",
+        "pubDate": "2026-07-11T02:39:34+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-reviews-progress-in-rollout-of-bureau-of-port-security-directs-stronger-coastal-security-measures/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
-      {
-        "title": "Centre reviews preparations for upcoming Monsoon Session",
-        "summary": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a […]",
-        "article": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a comprehensive review of the legislative business scheduled for the upcoming session was conducted and necessary guidelines were issued.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:34:13+00:00",
-        "link": "https://newsonair.gov.in/centre-reviews-preparations-for-upcoming-monsoon-session/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Operation Amistad: Venezuela thanked India for timely help & support during recent earthquakes",
-        "summary": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External […]",
-        "article": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External Affairs Ministry said in a statement that on 26th June, two Indian Air Force C-17 Globemaster III aircraft carried a 41-member contingent from the Indian Army’s 60 Para Field Hospital Unit to Venezuela. It comprised surgeons, anaesthesiologists, orthopaedic surgeons, dental and other physicians, paramedical staff and support personnel. It also included two BHISHM Cubes, which are state-of-the-art modular and portable mobile mini-hospitals designed for rapid disaster response, 6 tons of essential medicines and medical equipment, and 30 tons of emergency relief supplies, including tents, solar lamps, portable water purifiers, and generator sets. Operation Amistad was undertaken in close coordination with the Venezuelan Government, whose support and facilitation enabled the swift deployment and effective functioning of the Indian Army Field Hospital. During its deployment, the Field Hospital provided critical assistance and care to hundreds of earthquake-impacted persons, carrying out over 8000 medical procedures and laboratory investigations, including over 20 major surgeries. India has conveyed its sincere appreciation to the Government of Venezuela for the assistance and cooperation extended to the Indian contingent throughout the mission. Operation Amistad underscores the enduring friendship and solidarity between India and Venezuela, and reflects India’s commitment to stand steadfastly with partner countries in difficult times, in the spirit of Vasudhaiva Kutumbakam.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T14:14:22+00:00",
-        "link": "https://newsonair.gov.in/operation-amistad-venezuela-thanked-india-for-timely-help-support-during-recent-earthquakes/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Oman hold discussion to ensure peace and stability in the Gulf",
-        "summary": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The […]",
-        "article": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The two leaders also held a comprehensive exchange of views on developments in the Gulf, and efforts to ensure peace and stability in the region. Dr Jaishankar highlighted that the discussions reflected the trust and strength of Strategic Partnership between India and Oman. Meanwhile, the Omani Foreign Minister said that the longstanding maritime ties between India and Oman have connected their people for centuries and continue to provide a strong foundation for the partnership between the two countries. In a social media post, Mr Badr Albusaidi said that the two leaders held discussion on intensive diplomacy to secure freedom of navigation in Strait of Hormuz and thanked India for its support.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T13:02:14+00:00",
-        "link": "https://newsonair.gov.in/india-and-oman-held-discussion-to-ensure-peace-and-stability-in-the-gulf/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Next phase of Ayushman Bharat Digital Mission focuses on maximum adoption & utilization: J P Nadda",
-        "summary": "Union Health and Family Welfare Minister Jagat Prakash Nadda today chaired the 3rd Meeting of the Mission Steering Group to review the progress of the Ayushman Bharat Digital Mission (ABDM). During the meeting, it was noted that the Ayushman Bharat Digital Mission has emerged as one of the world&#8217;s largest digital health ecosystems, with […]",
-        "article": "Union Health and Family Welfare Minister Jagat Prakash Nadda today chaired the 3rd Meeting of the Mission Steering Group to review the progress of the Ayushman Bharat Digital Mission (ABDM). During the meeting, it was noted that the Ayushman Bharat Digital Mission has emerged as one of the world&#8217;s largest digital health ecosystems, with around 94 crore Ayushman Bharat Health Account numbers created and 105 crore health records linked. It also highlighted that 5.33 lakh health facilities and around ten lakh healthcare professionals have been registered on the national digital health registries. Addressing the meeting, Mr Nadda said that a robust digital healthcare infrastructure has been created under ABDM and the next phase must focus on maximising its adoption and utilization across the country. He said that technology must continue to serve as a powerful enabler for achieving Universal Health Coverage while ensuring inclusiveness, accessibility and ease of use for every citizen. Mr Nadda also underscored the transformative role of digital public infrastructure in improving access to quality healthcare, enhancing continuity of care and empowering citizens through secure and consent-based access to their health records. The meeting also deliberated on the future roadmap for the Mission with a focus on scaling up digital health adoption, leveraging emerging technologies including Artificial Intelligence, strengthening institutional capabilities and deepening collaboration with States and Union Territories.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T11:18:52+00:00",
-        "link": "https://newsonair.gov.in/next-phase-of-ayushman-bharat-digital-mission-focuses-on-maximum-adoption-utilization-j-p-nadda/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Railways approve 260 cr for Kavach deployment to enhance safety & operational efficiency",
-        "summary": "Indian Railways has approved 206 crore rupees for Kavach Deployment on 680 route kilometres of Northern Railway to enhance safety and operational efficiency. The project aimed at expanding the indigenous safety system across high-density and strategically important routes. The Railway Ministry said the provision of Kavach Version 4.0 will be implemented on the Rewari-Delhi and […]",
-        "article": "Indian Railways has approved 206 crore rupees for Kavach Deployment on 680 route kilometres of Northern Railway to enhance safety and operational efficiency. The project aimed at expanding the indigenous safety system across high-density and strategically important routes. The Railway Ministry said the provision of Kavach Version 4.0 will be implemented on the Rewari-Delhi and Shakurbasti-Bathinda sections of the Delhi Division. The system has been designed to significantly enhance railway safety by preventing Signal Passed at Danger incidents and train collisions. The Ministry said the system continuously monitors train movements, automatically applies brakes whenever necessary, and permits trains to operate safely at maximum permissible speeds. It also supports reliable train operations even during adverse weather conditions such as dense fog.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T10:52:13+00:00",
-        "link": "https://newsonair.gov.in/railways-approve-260-cr-for-kavach-deployment-to-enhance-safety-operational-efficiency/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "breaking": [
       {
         "title": "Indian Navy to commission indigenous stealth frigate Mahendragiri in Visakhapatnam today",
         "summary": "The Indian Navy is all set to commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38) into its Eastern Fleet at Visakhapatnam in Andhra Pradesh today. The ceremony will be presided over by Defence Minister Rajnath Singh. It will mark another significant milestone in India&#8217;s journey towards defence self-reliance and indigenous warship construction. Addressing […]",
@@ -149,115 +37,14 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "PM Modi receives rousing welcome upon his arrival in Auckland: First Indian PM to visit New Zealand in four decades",
-        "summary": "Prime Minister Narendra Modi received a warm and enthusiastic welcome upon his arrival in Auckland, marking the start of his historic two-day visit to New Zealand. This is the first visit by an Indian Prime Minister in nearly four decades. After arriving in Auckland, Prime Minister Modi was received at the airport by New […]",
-        "article": "Prime Minister Narendra Modi received a warm and enthusiastic welcome upon his arrival in Auckland, marking the start of his historic two-day visit to New Zealand. This is the first visit by an Indian Prime Minister in nearly four decades. After arriving in Auckland, Prime Minister Modi was received at the airport by New Zealand Prime Minister Christopher Luxon. The Indian community gathered in large numbers to greet him. The atmosphere was filled with excitement as people waved the Indian tricolour and chanted “Kia Ora Modi” to welcome him. Later, Prime Minister witnessed a vibrant celebration of India’s rich cultural heritage during the community welcome in Auckland this evening. In a series of social media posts, the Prime Minister said that the performances showcased the cultures of Punjab and Tamil Nadu, a fusion of Carnatic and Hindustani classical music, and a stirring rendition of Vande Mataram. Mr Modi complimented the diaspora for keeping India’s cultural heritage vibrant across generations and continents and for strengthening the enduring people-to-people bonds between India and New Zealand. The Prime Minister also expressed delight to witness the performance by the Naad Vocal Ensemble. He said music has a unique ability to bring people together, and today’s performance beautifully reflected the warmth and depth of India-New Zealand friendship. During the visit, the two leaders are expected to discuss ways to further strengthen cooperation in trade, investment, education, technology, and people-to-people ties, reflecting the growing partnership between India and New Zealand.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:45:27+00:00",
-        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_-_May_2024_%282%29.jpg/1280px-Auckland_skyline_-_May_2024_%282%29.jpg",
-        "image_credit": "Wikipedia – Auckland (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "SC to hear Ayodhya Ram temple donation case on Monday",
-        "summary": "The Supreme Court would hear a batch of pleas seeking a fair and time-bound probe into the alleged embezzlement of donations at the Ram temple in Ayodhya on Monday. On 7 July, an Ayodhya court granted one-day police remand for three of the eight accused arrested in connection with the alleged theft of donations […]",
-        "article": "The Supreme Court would hear a batch of pleas seeking a fair and time-bound probe into the alleged embezzlement of donations at the Ram temple in Ayodhya on Monday. On 7 July, an Ayodhya court granted one-day police remand for three of the eight accused arrested in connection with the alleged theft of donations at the Ram temple. A local court had sent all the eight accused to 14-day judicial custody on 29th of last month. On 13th of last month, the Uttar Pradesh government constituted the SIT on a request from the temple trust following allegations of misappropriation of donations received at the Ram temple.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T12:54:34+00:00",
-        "link": "https://newsonair.gov.in/sc-to-hear-ayodhya-ram-temple-donation-case-on-monday/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Galileo_moon_phases.jpg",
-        "image_credit": "Wikipedia – Monday (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "India & New Zealand sign 5 MoUs in key areas",
         "summary": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in […]",
         "article": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in Auckland. The two countries signed a memorandum of arrangement between the Ministry of Defence and the New Zealand Defence Force to enhance maritime cooperation, aimed at strengthening security in the Indo-Pacific region. The agreement on animal husbandry and dairy will promote research, innovation and the exchange of best practices. The tourism pact is expected to boost visitor exchanges and strengthen cooperation in the travel sector. Both sides also adopted a Joint Action Plan on Sport to deepen collaboration in sports development and athlete exchanges. An MoU on disaster management will enhance cooperation in disaster preparedness, emergency response and resilience. The five agreements reflect the growing India-New Zealand partnership and the shared commitment to expand cooperation across strategic, economic and people-to-people sectors. Earlier, speaking during delegation-level talks, Prime Minister Modi said that his visit to New Zealand marks a historic milestone in bilateral relations and will give fresh momentum to ties between the two countries. Mr Modi thanked the people and leadership of New Zealand for their warmth and support, saying the visit of an Indian Prime Minister after four decades reflects the growing strength of the partnership. Hailing the Free Trade Agreement (FTA) between the two countries, Mr Modi appreciated New Zealand&#8217;s efforts in concluding the FTA process in a short period and thanked Prime Minister Luxon and his government for their leadership. He said the two countries have now taken a significant step by establishing a strategic partnership, which will guide future cooperation. Highlighting the shared democratic values and maritime ties between the two nations, Prime Minister Modi said India and New Zealand can play an important role in strengthening peace, stability and security in the Indo-Pacific region. He expressed confidence that the visit would further deepen bilateral relations and enhance cooperation for global peace and prosperity. Speaking on the occasion, the New Zealand prime minister described Mr Modi&#8217;s visit as a historic milestone, marking the first visit by an Indian prime minister to New Zealand in 40 years. Welcoming Prime Minister Modi, Mr Luxon said it was a pleasure and an honour to host him, adding that the visit reflects the growing strength of bilateral ties. He said the two countries have made significant progress on the trade agenda and emphasised that the relationship extends beyond the Free Trade Agreement. Mr Luxon also announced that India and New Zealand will establish a strategic partnership to provide a broader framework for expanding cooperation across key sectors. The bilateral discussions were preceded by a ceremonial welcome at the Government House, where Prime Minister Modi was accorded a Guard of Honour. Later in the day, Prime Minister Modi will also interact with prominent business and sports personalities. In a reflection of the strong people-to-people ties that exist between the two countries, Mr Modi will address a large gathering of the Indian Diaspora today. Prime Minister …",
         "date": "2026-07-11",
         "pubDate": "2026-07-11T02:13:24+00:00",
         "link": "https://newsonair.gov.in/india-new-zealand-sign-5-mous-in-key-areas/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Centre reviews preparations for upcoming Monsoon Session",
-        "summary": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a […]",
-        "article": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a comprehensive review of the legislative business scheduled for the upcoming session was conducted and necessary guidelines were issued.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:34:13+00:00",
-        "link": "https://newsonair.gov.in/centre-reviews-preparations-for-upcoming-monsoon-session/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Operation Amistad: Venezuela thanked India for timely help & support during recent earthquakes",
-        "summary": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External […]",
-        "article": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External Affairs Ministry said in a statement that on 26th June, two Indian Air Force C-17 Globemaster III aircraft carried a 41-member contingent from the Indian Army’s 60 Para Field Hospital Unit to Venezuela. It comprised surgeons, anaesthesiologists, orthopaedic surgeons, dental and other physicians, paramedical staff and support personnel. It also included two BHISHM Cubes, which are state-of-the-art modular and portable mobile mini-hospitals designed for rapid disaster response, 6 tons of essential medicines and medical equipment, and 30 tons of emergency relief supplies, including tents, solar lamps, portable water purifiers, and generator sets. Operation Amistad was undertaken in close coordination with the Venezuelan Government, whose support and facilitation enabled the swift deployment and effective functioning of the Indian Army Field Hospital. During its deployment, the Field Hospital provided critical assistance and care to hundreds of earthquake-impacted persons, carrying out over 8000 medical procedures and laboratory investigations, including over 20 major surgeries. India has conveyed its sincere appreciation to the Government of Venezuela for the assistance and cooperation extended to the Indian contingent throughout the mission. Operation Amistad underscores the enduring friendship and solidarity between India and Venezuela, and reflects India’s commitment to stand steadfastly with partner countries in difficult times, in the spirit of Vasudhaiva Kutumbakam.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T14:14:22+00:00",
-        "link": "https://newsonair.gov.in/operation-amistad-venezuela-thanked-india-for-timely-help-support-during-recent-earthquakes/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Oman hold discussion to ensure peace and stability in the Gulf",
-        "summary": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The […]",
-        "article": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The two leaders also held a comprehensive exchange of views on developments in the Gulf, and efforts to ensure peace and stability in the region. Dr Jaishankar highlighted that the discussions reflected the trust and strength of Strategic Partnership between India and Oman. Meanwhile, the Omani Foreign Minister said that the longstanding maritime ties between India and Oman have connected their people for centuries and continue to provide a strong foundation for the partnership between the two countries. In a social media post, Mr Badr Albusaidi said that the two leaders held discussion on intensive diplomacy to secure freedom of navigation in Strait of Hormuz and thanked India for its support.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T13:02:14+00:00",
-        "link": "https://newsonair.gov.in/india-and-oman-held-discussion-to-ensure-peace-and-stability-in-the-gulf/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Next phase of Ayushman Bharat Digital Mission focuses on maximum adoption & utilization: J P Nadda",
-        "summary": "Union Health and Family Welfare Minister Jagat Prakash Nadda today chaired the 3rd Meeting of the Mission Steering Group to review the progress of the Ayushman Bharat Digital Mission (ABDM). During the meeting, it was noted that the Ayushman Bharat Digital Mission has emerged as one of the world&#8217;s largest digital health ecosystems, with […]",
-        "article": "Union Health and Family Welfare Minister Jagat Prakash Nadda today chaired the 3rd Meeting of the Mission Steering Group to review the progress of the Ayushman Bharat Digital Mission (ABDM). During the meeting, it was noted that the Ayushman Bharat Digital Mission has emerged as one of the world&#8217;s largest digital health ecosystems, with around 94 crore Ayushman Bharat Health Account numbers created and 105 crore health records linked. It also highlighted that 5.33 lakh health facilities and around ten lakh healthcare professionals have been registered on the national digital health registries. Addressing the meeting, Mr Nadda said that a robust digital healthcare infrastructure has been created under ABDM and the next phase must focus on maximising its adoption and utilization across the country. He said that technology must continue to serve as a powerful enabler for achieving Universal Health Coverage while ensuring inclusiveness, accessibility and ease of use for every citizen. Mr Nadda also underscored the transformative role of digital public infrastructure in improving access to quality healthcare, enhancing continuity of care and empowering citizens through secure and consent-based access to their health records. The meeting also deliberated on the future roadmap for the Mission with a focus on scaling up digital health adoption, leveraging emerging technologies including Artificial Intelligence, strengthening institutional capabilities and deepening collaboration with States and Union Territories.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T11:18:52+00:00",
-        "link": "https://newsonair.gov.in/next-phase-of-ayushman-bharat-digital-mission-focuses-on-maximum-adoption-utilization-j-p-nadda/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Railways approve 260 cr for Kavach deployment to enhance safety & operational efficiency",
-        "summary": "Indian Railways has approved 206 crore rupees for Kavach Deployment on 680 route kilometres of Northern Railway to enhance safety and operational efficiency. The project aimed at expanding the indigenous safety system across high-density and strategically important routes. The Railway Ministry said the provision of Kavach Version 4.0 will be implemented on the Rewari-Delhi and […]",
-        "article": "Indian Railways has approved 206 crore rupees for Kavach Deployment on 680 route kilometres of Northern Railway to enhance safety and operational efficiency. The project aimed at expanding the indigenous safety system across high-density and strategically important routes. The Railway Ministry said the provision of Kavach Version 4.0 will be implemented on the Rewari-Delhi and Shakurbasti-Bathinda sections of the Delhi Division. The system has been designed to significantly enhance railway safety by preventing Signal Passed at Danger incidents and train collisions. The Ministry said the system continuously monitors train movements, automatically applies brakes whenever necessary, and permits trains to operate safely at maximum permissible speeds. It also supports reliable train operations even during adverse weather conditions such as dense fog.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T10:52:13+00:00",
-        "link": "https://newsonair.gov.in/railways-approve-260-cr-for-kavach-deployment-to-enhance-safety-operational-efficiency/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Centre amends Drugs Rules, 1945 to strengthen regulation of High Alcohol-Containing Drug Formulation",
-        "summary": "The Central Government has amended the Drugs Rules, 1945, to strengthen the regulation of High Alcohol-Containing Drug Formulations. The Ministry of Health and Family Welfare has removed the existing exemption (under Schedule K) from licensing requirements for formulations containing ethyl alcohol. According to the notification issued by the Ministry of Health and Family Welfare, all […]",
-        "article": "The Central Government has amended the Drugs Rules, 1945, to strengthen the regulation of High Alcohol-Containing Drug Formulations. The Ministry of Health and Family Welfare has removed the existing exemption (under Schedule K) from licensing requirements for formulations containing ethyl alcohol. According to the notification issued by the Ministry of Health and Family Welfare, all formulations containing more than 12 percent volume per volume ethyl alcohol, in quantities exceeding 30 millilitres, will no longer be covered under the exemption provided to them under Schedule K. Such products will be required to obtain the requisite licenses under the Drugs and Cosmetics Act, 1940. Earlier, certain medicinal products, including tinctures of cardamom, ginger and other aromatic preparations, had been exempted from licensing requirements under Schedule K of the Drugs Rules, 1945. Some of these formulations contain high concentrations of ethyl alcohol, in certain cases up to 80 to 90 percent volume per volume, making them susceptible to misuse for intoxication. The amendment is expected to strengthen regulatory oversight over those medicinal products containing alcohol, ensuring their supply only through the regulated pharmaceutical supply chain. It will significantly reduce the possibility of diversion and misuse while ensuring their continued availability for legitimate therapeutic use.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:55:17+00:00",
-        "link": "https://newsonair.gov.in/centre-amends-drugs-rules-1945-to-strengthen-regulation-of-high-alcohol-containing-drug-formulation/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "national": [
-      {
-        "title": "Indian Navy to commission indigenous stealth frigate Mahendragiri in Visakhapatnam today",
-        "summary": "The Indian Navy is all set to commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38) into its Eastern Fleet at Visakhapatnam in Andhra Pradesh today. The ceremony will be presided over by Defence Minister Rajnath Singh. It will mark another significant milestone in India&#8217;s journey towards defence self-reliance and indigenous warship construction. Addressing […]",
-        "article": "The Indian Navy is all set to commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38) into its Eastern Fleet at Visakhapatnam in Andhra Pradesh today. The ceremony will be presided over by Defence Minister Rajnath Singh. It will mark another significant milestone in India&#8217;s journey towards defence self-reliance and indigenous warship construction. Addressing the naval personnel in Visakhapatnam during Barakhana on the eve of the commissioning ceremony, the defence minister reaffirmed India&#8217;s stand as the primary guarantor of peace and stability in the Indian Ocean region. We have Akashvani Correspondent reports that the Mahendragiri, designed by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited in Mumbai, is a state-of-the-art stealth frigate equipped with advanced weapons, sensors and electronic warfare systems. The warship is capable of undertaking anti-air, anti-surface and anti-submarine operations. It can also conduct maritime security patrols, search-and-rescue missions, humanitarian assistance and disaster relief operations, and sustained deployments in the Indian Ocean Region. With over 75 per cent indigenous content, the frigate reflects the government&#8217;s push for self-reliance in defence manufacturing under the Aatmanirbhar Bharat initiative. Its construction involved several Indian industries, including MSMEs (Micro, Small and Medium Enterprises), strengthening the domestic defence industrial base and generating employment. Named after the Mahendragiri mountain range in the Eastern Ghats, the warship symbolises strength and resilience. The government says its induction will further enhance the Indian Navy’s operational capability and reinforce India’s position as a leading indigenous warship-building nation and a preferred security partner in the Indian Ocean region.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T02:28:48+00:00",
-        "link": "https://newsonair.gov.in/indian-navy-to-commission-indigenous-stealth-frigate-mahendragiri-in-visakhapatnam-today/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/What_is_Shipyard.jpg/1280px-What_is_Shipyard.jpg",
-        "image_credit": "Wikipedia – Visakhapatnam (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1-5.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -267,30 +54,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T15:45:27+00:00",
         "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_-_May_2024_%282%29.jpg/1280px-Auckland_skyline_-_May_2024_%282%29.jpg",
-        "image_credit": "Wikipedia – Auckland (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "SC to hear Ayodhya Ram temple donation case on Monday",
-        "summary": "The Supreme Court would hear a batch of pleas seeking a fair and time-bound probe into the alleged embezzlement of donations at the Ram temple in Ayodhya on Monday. On 7 July, an Ayodhya court granted one-day police remand for three of the eight accused arrested in connection with the alleged theft of donations […]",
-        "article": "The Supreme Court would hear a batch of pleas seeking a fair and time-bound probe into the alleged embezzlement of donations at the Ram temple in Ayodhya on Monday. On 7 July, an Ayodhya court granted one-day police remand for three of the eight accused arrested in connection with the alleged theft of donations at the Ram temple. A local court had sent all the eight accused to 14-day judicial custody on 29th of last month. On 13th of last month, the Uttar Pradesh government constituted the SIT on a request from the temple trust following allegations of misappropriation of donations received at the Ram temple.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T12:54:34+00:00",
-        "link": "https://newsonair.gov.in/sc-to-hear-ayodhya-ram-temple-donation-case-on-monday/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Galileo_moon_phases.jpg",
-        "image_credit": "Wikipedia – Monday (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India & New Zealand sign 5 MoUs in key areas",
-        "summary": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in […]",
-        "article": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in Auckland. The two countries signed a memorandum of arrangement between the Ministry of Defence and the New Zealand Defence Force to enhance maritime cooperation, aimed at strengthening security in the Indo-Pacific region. The agreement on animal husbandry and dairy will promote research, innovation and the exchange of best practices. The tourism pact is expected to boost visitor exchanges and strengthen cooperation in the travel sector. Both sides also adopted a Joint Action Plan on Sport to deepen collaboration in sports development and athlete exchanges. An MoU on disaster management will enhance cooperation in disaster preparedness, emergency response and resilience. The five agreements reflect the growing India-New Zealand partnership and the shared commitment to expand cooperation across strategic, economic and people-to-people sectors. Earlier, speaking during delegation-level talks, Prime Minister Modi said that his visit to New Zealand marks a historic milestone in bilateral relations and will give fresh momentum to ties between the two countries. Mr Modi thanked the people and leadership of New Zealand for their warmth and support, saying the visit of an Indian Prime Minister after four decades reflects the growing strength of the partnership. Hailing the Free Trade Agreement (FTA) between the two countries, Mr Modi appreciated New Zealand&#8217;s efforts in concluding the FTA process in a short period and thanked Prime Minister Luxon and his government for their leadership. He said the two countries have now taken a significant step by establishing a strategic partnership, which will guide future cooperation. Highlighting the shared democratic values and maritime ties between the two nations, Prime Minister Modi said India and New Zealand can play an important role in strengthening peace, stability and security in the Indo-Pacific region. He expressed confidence that the visit would further deepen bilateral relations and enhance cooperation for global peace and prosperity. Speaking on the occasion, the New Zealand prime minister described Mr Modi&#8217;s visit as a historic milestone, marking the first visit by an Indian prime minister to New Zealand in 40 years. Welcoming Prime Minister Modi, Mr Luxon said it was a pleasure and an honour to host him, adding that the visit reflects the growing strength of bilateral ties. He said the two countries have made significant progress on the trade agenda and emphasised that the relationship extends beyond the Free Trade Agreement. Mr Luxon also announced that India and New Zealand will establish a strategic partnership to provide a broader framework for expanding cooperation across key sectors. The bilateral discussions were preceded by a ceremonial welcome at the Government House, where Prime Minister Modi was accorded a Guard of Honour. Later in the day, Prime Minister Modi will also interact with prominent business and sports personalities. In a reflection of the strong people-to-people ties that exist between the two countries, Mr Modi will address a large gathering of the Indian Diaspora today. Prime Minister …",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T02:13:24+00:00",
-        "link": "https://newsonair.gov.in/india-new-zealand-sign-5-mous-in-key-areas/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-6.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -300,8 +65,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T15:34:13+00:00",
         "link": "https://newsonair.gov.in/centre-reviews-preparations-for-upcoming-monsoon-session/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Meghwal-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -311,8 +76,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T14:14:22+00:00",
         "link": "https://newsonair.gov.in/operation-amistad-venezuela-thanked-india-for-timely-help-support-during-recent-earthquakes/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Op.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -322,65 +87,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T13:02:14+00:00",
         "link": "https://newsonair.gov.in/india-and-oman-held-discussion-to-ensure-peace-and-stability-in-the-gulf/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Next phase of Ayushman Bharat Digital Mission focuses on maximum adoption & utilization: J P Nadda",
-        "summary": "Union Health and Family Welfare Minister Jagat Prakash Nadda today chaired the 3rd Meeting of the Mission Steering Group to review the progress of the Ayushman Bharat Digital Mission (ABDM). During the meeting, it was noted that the Ayushman Bharat Digital Mission has emerged as one of the world&#8217;s largest digital health ecosystems, with […]",
-        "article": "Union Health and Family Welfare Minister Jagat Prakash Nadda today chaired the 3rd Meeting of the Mission Steering Group to review the progress of the Ayushman Bharat Digital Mission (ABDM). During the meeting, it was noted that the Ayushman Bharat Digital Mission has emerged as one of the world&#8217;s largest digital health ecosystems, with around 94 crore Ayushman Bharat Health Account numbers created and 105 crore health records linked. It also highlighted that 5.33 lakh health facilities and around ten lakh healthcare professionals have been registered on the national digital health registries. Addressing the meeting, Mr Nadda said that a robust digital healthcare infrastructure has been created under ABDM and the next phase must focus on maximising its adoption and utilization across the country. He said that technology must continue to serve as a powerful enabler for achieving Universal Health Coverage while ensuring inclusiveness, accessibility and ease of use for every citizen. Mr Nadda also underscored the transformative role of digital public infrastructure in improving access to quality healthcare, enhancing continuity of care and empowering citizens through secure and consent-based access to their health records. The meeting also deliberated on the future roadmap for the Mission with a focus on scaling up digital health adoption, leveraging emerging technologies including Artificial Intelligence, strengthening institutional capabilities and deepening collaboration with States and Union Territories.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T11:18:52+00:00",
-        "link": "https://newsonair.gov.in/next-phase-of-ayushman-bharat-digital-mission-focuses-on-maximum-adoption-utilization-j-p-nadda/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Railways approve 260 cr for Kavach deployment to enhance safety & operational efficiency",
-        "summary": "Indian Railways has approved 206 crore rupees for Kavach Deployment on 680 route kilometres of Northern Railway to enhance safety and operational efficiency. The project aimed at expanding the indigenous safety system across high-density and strategically important routes. The Railway Ministry said the provision of Kavach Version 4.0 will be implemented on the Rewari-Delhi and […]",
-        "article": "Indian Railways has approved 206 crore rupees for Kavach Deployment on 680 route kilometres of Northern Railway to enhance safety and operational efficiency. The project aimed at expanding the indigenous safety system across high-density and strategically important routes. The Railway Ministry said the provision of Kavach Version 4.0 will be implemented on the Rewari-Delhi and Shakurbasti-Bathinda sections of the Delhi Division. The system has been designed to significantly enhance railway safety by preventing Signal Passed at Danger incidents and train collisions. The Ministry said the system continuously monitors train movements, automatically applies brakes whenever necessary, and permits trains to operate safely at maximum permissible speeds. It also supports reliable train operations even during adverse weather conditions such as dense fog.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T10:52:13+00:00",
-        "link": "https://newsonair.gov.in/railways-approve-260-cr-for-kavach-deployment-to-enhance-safety-operational-efficiency/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Centre amends Drugs Rules, 1945 to strengthen regulation of High Alcohol-Containing Drug Formulation",
-        "summary": "The Central Government has amended the Drugs Rules, 1945, to strengthen the regulation of High Alcohol-Containing Drug Formulations. The Ministry of Health and Family Welfare has removed the existing exemption (under Schedule K) from licensing requirements for formulations containing ethyl alcohol. According to the notification issued by the Ministry of Health and Family Welfare, all […]",
-        "article": "The Central Government has amended the Drugs Rules, 1945, to strengthen the regulation of High Alcohol-Containing Drug Formulations. The Ministry of Health and Family Welfare has removed the existing exemption (under Schedule K) from licensing requirements for formulations containing ethyl alcohol. According to the notification issued by the Ministry of Health and Family Welfare, all formulations containing more than 12 percent volume per volume ethyl alcohol, in quantities exceeding 30 millilitres, will no longer be covered under the exemption provided to them under Schedule K. Such products will be required to obtain the requisite licenses under the Drugs and Cosmetics Act, 1940. Earlier, certain medicinal products, including tinctures of cardamom, ginger and other aromatic preparations, had been exempted from licensing requirements under Schedule K of the Drugs Rules, 1945. Some of these formulations contain high concentrations of ethyl alcohol, in certain cases up to 80 to 90 percent volume per volume, making them susceptible to misuse for intoxication. The amendment is expected to strengthen regulatory oversight over those medicinal products containing alcohol, ensuring their supply only through the regulated pharmaceutical supply chain. It will significantly reduce the possibility of diversion and misuse while ensuring their continued availability for legitimate therapeutic use.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:55:17+00:00",
-        "link": "https://newsonair.gov.in/centre-amends-drugs-rules-1945-to-strengthen-regulation-of-high-alcohol-containing-drug-formulation/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "politics": [
-      {
-        "title": "Indian Navy to commission indigenous stealth frigate Mahendragiri in Visakhapatnam today",
-        "summary": "The Indian Navy is all set to commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38) into its Eastern Fleet at Visakhapatnam in Andhra Pradesh today. The ceremony will be presided over by Defence Minister Rajnath Singh. It will mark another significant milestone in India&#8217;s journey towards defence self-reliance and indigenous warship construction. Addressing […]",
-        "article": "The Indian Navy is all set to commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38) into its Eastern Fleet at Visakhapatnam in Andhra Pradesh today. The ceremony will be presided over by Defence Minister Rajnath Singh. It will mark another significant milestone in India&#8217;s journey towards defence self-reliance and indigenous warship construction. Addressing the naval personnel in Visakhapatnam during Barakhana on the eve of the commissioning ceremony, the defence minister reaffirmed India&#8217;s stand as the primary guarantor of peace and stability in the Indian Ocean region. We have Akashvani Correspondent reports that the Mahendragiri, designed by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited in Mumbai, is a state-of-the-art stealth frigate equipped with advanced weapons, sensors and electronic warfare systems. The warship is capable of undertaking anti-air, anti-surface and anti-submarine operations. It can also conduct maritime security patrols, search-and-rescue missions, humanitarian assistance and disaster relief operations, and sustained deployments in the Indian Ocean Region. With over 75 per cent indigenous content, the frigate reflects the government&#8217;s push for self-reliance in defence manufacturing under the Aatmanirbhar Bharat initiative. Its construction involved several Indian industries, including MSMEs (Micro, Small and Medium Enterprises), strengthening the domestic defence industrial base and generating employment. Named after the Mahendragiri mountain range in the Eastern Ghats, the warship symbolises strength and resilience. The government says its induction will further enhance the Indian Navy’s operational capability and reinforce India’s position as a leading indigenous warship-building nation and a preferred security partner in the Indian Ocean region.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T02:28:48+00:00",
-        "link": "https://newsonair.gov.in/indian-navy-to-commission-indigenous-stealth-frigate-mahendragiri-in-visakhapatnam-today/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/What_is_Shipyard.jpg/1280px-What_is_Shipyard.jpg",
-        "image_credit": "Wikipedia – Visakhapatnam (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi receives rousing welcome upon his arrival in Auckland: First Indian PM to visit New Zealand in four decades",
-        "summary": "Prime Minister Narendra Modi received a warm and enthusiastic welcome upon his arrival in Auckland, marking the start of his historic two-day visit to New Zealand. This is the first visit by an Indian Prime Minister in nearly four decades. After arriving in Auckland, Prime Minister Modi was received at the airport by New […]",
-        "article": "Prime Minister Narendra Modi received a warm and enthusiastic welcome upon his arrival in Auckland, marking the start of his historic two-day visit to New Zealand. This is the first visit by an Indian Prime Minister in nearly four decades. After arriving in Auckland, Prime Minister Modi was received at the airport by New Zealand Prime Minister Christopher Luxon. The Indian community gathered in large numbers to greet him. The atmosphere was filled with excitement as people waved the Indian tricolour and chanted “Kia Ora Modi” to welcome him. Later, Prime Minister witnessed a vibrant celebration of India’s rich cultural heritage during the community welcome in Auckland this evening. In a series of social media posts, the Prime Minister said that the performances showcased the cultures of Punjab and Tamil Nadu, a fusion of Carnatic and Hindustani classical music, and a stirring rendition of Vande Mataram. Mr Modi complimented the diaspora for keeping India’s cultural heritage vibrant across generations and continents and for strengthening the enduring people-to-people bonds between India and New Zealand. The Prime Minister also expressed delight to witness the performance by the Naad Vocal Ensemble. He said music has a unique ability to bring people together, and today’s performance beautifully reflected the warmth and depth of India-New Zealand friendship. During the visit, the two leaders are expected to discuss ways to further strengthen cooperation in trade, investment, education, technology, and people-to-people ties, reflecting the growing partnership between India and New Zealand.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:45:27+00:00",
-        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_-_May_2024_%282%29.jpg/1280px-Auckland_skyline_-_May_2024_%282%29.jpg",
-        "image_credit": "Wikipedia – Auckland (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Oman.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -390,52 +98,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T12:54:34+00:00",
         "link": "https://newsonair.gov.in/sc-to-hear-ayodhya-ram-temple-donation-case-on-monday/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Galileo_moon_phases.jpg",
-        "image_credit": "Wikipedia – Monday (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India & New Zealand sign 5 MoUs in key areas",
-        "summary": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in […]",
-        "article": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in Auckland. The two countries signed a memorandum of arrangement between the Ministry of Defence and the New Zealand Defence Force to enhance maritime cooperation, aimed at strengthening security in the Indo-Pacific region. The agreement on animal husbandry and dairy will promote research, innovation and the exchange of best practices. The tourism pact is expected to boost visitor exchanges and strengthen cooperation in the travel sector. Both sides also adopted a Joint Action Plan on Sport to deepen collaboration in sports development and athlete exchanges. An MoU on disaster management will enhance cooperation in disaster preparedness, emergency response and resilience. The five agreements reflect the growing India-New Zealand partnership and the shared commitment to expand cooperation across strategic, economic and people-to-people sectors. Earlier, speaking during delegation-level talks, Prime Minister Modi said that his visit to New Zealand marks a historic milestone in bilateral relations and will give fresh momentum to ties between the two countries. Mr Modi thanked the people and leadership of New Zealand for their warmth and support, saying the visit of an Indian Prime Minister after four decades reflects the growing strength of the partnership. Hailing the Free Trade Agreement (FTA) between the two countries, Mr Modi appreciated New Zealand&#8217;s efforts in concluding the FTA process in a short period and thanked Prime Minister Luxon and his government for their leadership. He said the two countries have now taken a significant step by establishing a strategic partnership, which will guide future cooperation. Highlighting the shared democratic values and maritime ties between the two nations, Prime Minister Modi said India and New Zealand can play an important role in strengthening peace, stability and security in the Indo-Pacific region. He expressed confidence that the visit would further deepen bilateral relations and enhance cooperation for global peace and prosperity. Speaking on the occasion, the New Zealand prime minister described Mr Modi&#8217;s visit as a historic milestone, marking the first visit by an Indian prime minister to New Zealand in 40 years. Welcoming Prime Minister Modi, Mr Luxon said it was a pleasure and an honour to host him, adding that the visit reflects the growing strength of bilateral ties. He said the two countries have made significant progress on the trade agenda and emphasised that the relationship extends beyond the Free Trade Agreement. Mr Luxon also announced that India and New Zealand will establish a strategic partnership to provide a broader framework for expanding cooperation across key sectors. The bilateral discussions were preceded by a ceremonial welcome at the Government House, where Prime Minister Modi was accorded a Guard of Honour. Later in the day, Prime Minister Modi will also interact with prominent business and sports personalities. In a reflection of the strong people-to-people ties that exist between the two countries, Mr Modi will address a large gathering of the Indian Diaspora today. Prime Minister …",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T02:13:24+00:00",
-        "link": "https://newsonair.gov.in/india-new-zealand-sign-5-mous-in-key-areas/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Centre reviews preparations for upcoming Monsoon Session",
-        "summary": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a […]",
-        "article": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a comprehensive review of the legislative business scheduled for the upcoming session was conducted and necessary guidelines were issued.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:34:13+00:00",
-        "link": "https://newsonair.gov.in/centre-reviews-preparations-for-upcoming-monsoon-session/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Operation Amistad: Venezuela thanked India for timely help & support during recent earthquakes",
-        "summary": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External […]",
-        "article": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External Affairs Ministry said in a statement that on 26th June, two Indian Air Force C-17 Globemaster III aircraft carried a 41-member contingent from the Indian Army’s 60 Para Field Hospital Unit to Venezuela. It comprised surgeons, anaesthesiologists, orthopaedic surgeons, dental and other physicians, paramedical staff and support personnel. It also included two BHISHM Cubes, which are state-of-the-art modular and portable mobile mini-hospitals designed for rapid disaster response, 6 tons of essential medicines and medical equipment, and 30 tons of emergency relief supplies, including tents, solar lamps, portable water purifiers, and generator sets. Operation Amistad was undertaken in close coordination with the Venezuelan Government, whose support and facilitation enabled the swift deployment and effective functioning of the Indian Army Field Hospital. During its deployment, the Field Hospital provided critical assistance and care to hundreds of earthquake-impacted persons, carrying out over 8000 medical procedures and laboratory investigations, including over 20 major surgeries. India has conveyed its sincere appreciation to the Government of Venezuela for the assistance and cooperation extended to the Indian contingent throughout the mission. Operation Amistad underscores the enduring friendship and solidarity between India and Venezuela, and reflects India’s commitment to stand steadfastly with partner countries in difficult times, in the spirit of Vasudhaiva Kutumbakam.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T14:14:22+00:00",
-        "link": "https://newsonair.gov.in/operation-amistad-venezuela-thanked-india-for-timely-help-support-during-recent-earthquakes/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Oman hold discussion to ensure peace and stability in the Gulf",
-        "summary": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The […]",
-        "article": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The two leaders also held a comprehensive exchange of views on developments in the Gulf, and efforts to ensure peace and stability in the region. Dr Jaishankar highlighted that the discussions reflected the trust and strength of Strategic Partnership between India and Oman. Meanwhile, the Omani Foreign Minister said that the longstanding maritime ties between India and Oman have connected their people for centuries and continue to provide a strong foundation for the partnership between the two countries. In a social media post, Mr Badr Albusaidi said that the two leaders held discussion on intensive diplomacy to secure freedom of navigation in Strait of Hormuz and thanked India for its support.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T13:02:14+00:00",
-        "link": "https://newsonair.gov.in/india-and-oman-held-discussion-to-ensure-peace-and-stability-in-the-gulf/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/supreme-court-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -445,8 +109,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T11:18:52+00:00",
         "link": "https://newsonair.gov.in/next-phase-of-ayushman-bharat-digital-mission-focuses-on-maximum-adoption-utilization-j-p-nadda/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Ayush.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -456,54 +120,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T10:52:13+00:00",
         "link": "https://newsonair.gov.in/railways-approve-260-cr-for-kavach-deployment-to-enhance-safety-operational-efficiency/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Centre amends Drugs Rules, 1945 to strengthen regulation of High Alcohol-Containing Drug Formulation",
-        "summary": "The Central Government has amended the Drugs Rules, 1945, to strengthen the regulation of High Alcohol-Containing Drug Formulations. The Ministry of Health and Family Welfare has removed the existing exemption (under Schedule K) from licensing requirements for formulations containing ethyl alcohol. According to the notification issued by the Ministry of Health and Family Welfare, all […]",
-        "article": "The Central Government has amended the Drugs Rules, 1945, to strengthen the regulation of High Alcohol-Containing Drug Formulations. The Ministry of Health and Family Welfare has removed the existing exemption (under Schedule K) from licensing requirements for formulations containing ethyl alcohol. According to the notification issued by the Ministry of Health and Family Welfare, all formulations containing more than 12 percent volume per volume ethyl alcohol, in quantities exceeding 30 millilitres, will no longer be covered under the exemption provided to them under Schedule K. Such products will be required to obtain the requisite licenses under the Drugs and Cosmetics Act, 1940. Earlier, certain medicinal products, including tinctures of cardamom, ginger and other aromatic preparations, had been exempted from licensing requirements under Schedule K of the Drugs Rules, 1945. Some of these formulations contain high concentrations of ethyl alcohol, in certain cases up to 80 to 90 percent volume per volume, making them susceptible to misuse for intoxication. The amendment is expected to strengthen regulatory oversight over those medicinal products containing alcohol, ensuring their supply only through the regulated pharmaceutical supply chain. It will significantly reduce the possibility of diversion and misuse while ensuring their continued availability for legitimate therapeutic use.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:55:17+00:00",
-        "link": "https://newsonair.gov.in/centre-amends-drugs-rules-1945-to-strengthen-regulation-of-high-alcohol-containing-drug-formulation/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "world": [
-      {
-        "title": "Iran accuses US of alleged airstrike near nuke power plant in Bushehr",
-        "summary": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the […]",
-        "article": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the United States launched new airstrikes against Iran, and Tehran responded by targeting US-allied countries in the West Asia in an exchange of fire that threatened an interim deal intended to help end the war in the West Asia. Sirens sounding at least three times in Bahrain, home to the US Navy&#8217;s 5th Fleet headquarters, and Iranian missiles targeting Kuwait and Qatar. Sirens sounded Thursday afternoon in Jordan as well, where the US has stationed troops and aircraft. In Iran, the two days of American airstrikes have killed at least 14 people and wounded another 78, according to Iran&#8217;s Health Ministry. Most of those reportedly members of the armed forces. Back-and-forth attacks, including a day earlier, have repeatedly threatened the ceasefire, but today&#8217;s exchange of fire appeared bigger all around. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz signalled the end of a fragile ceasefire and threatened to escalate the conflict if they did not stop.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T12:00:53+00:00",
-        "link": "https://newsonair.gov.in/iran-accuses-us-of-alleged-airstrike-near-nuke-power-plant-in-bushehr/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bushehr_City.jpg",
-        "image_credit": "Wikipedia – Bushehr (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "US launches fresh airstrikes on Iran; Tehran targets Bahrain, Kuwait and Qatar",
-        "summary": "The United States launched new airstrikes against Iran this morning. Tehran responded by targeting Bahrain, Kuwait and Qatar, escalating crossfire that again threatened an interim deal aimed at ending the war in the Persian Gulf. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of […]",
-        "article": "The United States launched new airstrikes against Iran this morning. Tehran responded by targeting Bahrain, Kuwait and Qatar, escalating crossfire that again threatened an interim deal aimed at ending the war in the Persian Gulf. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz had signalled the end of the fragile ceasefire. The US struck a range of military sites and port facilities early yesterday. The attacks followed Iran&#8217;s targeting of several merchant vessels off the coast of Oman, which triggered an Iranian response. Today&#8217;s attacks appeared to be larger on both sides. Sirens sounded at least twice in Bahrain, home to the US Navy&#8217;s 5th Fleet headquarters. There was no immediate word on damage in Bahrain, Kuwait or Qatar. Kuwait&#8217;s military said it was actively intercepting incoming drones and missiles. Iran&#8217;s Revolutionary Guard claimed responsibility for attacks on Bahrain and Kuwait. The US military&#8217;s Central Command said it struck about 90 targets across Iran. It also released black-and-white footage showing what appeared to be attacks on an airport runway and missile launchers. The US said the strikes were intended to “further degrade” Iran&#8217;s ability to threaten freedom of navigation in the Strait of Hormuz. Iranian state media reported explosions in several locations, including Bushehr, home to Iran&#8217;s nuclear power plant complex, and the southern port cities of Chabahar, Konarak, Bandar Abbas and Sirik. In Iranshahr, authorities said a strike killed a firefighter at an airport.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T06:20:24+00:00",
-        "link": "https://newsonair.gov.in/us-launches-fresh-airstrikes-on-iran-tehran-targets-bahrain-kuwait-and-qatar/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/1280px-North_of_Tehran_Skyline_view.jpg",
-        "image_credit": "Wikipedia – Tehran (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "3rd BRICS Transport Ministers’ Meeting begins in Maharashtra’s Nagpur today",
-        "summary": "Meeting of the BRICS Transport Working Group has begun today in Nagpur on the occasion of the third BRICS Transport Ministers&#8217; Meeting under BRICS 2026 chairship of India. Addressing the media persons, after the Working Group meeting, Union Transport Secretary V. Umashankar said that senior officials deliberated on the main issues of circularity, mobility, […]",
-        "article": "Meeting of the BRICS Transport Working Group has begun today in Nagpur on the occasion of the third BRICS Transport Ministers&#8217; Meeting under BRICS 2026 chairship of India. Addressing the media persons, after the Working Group meeting, Union Transport Secretary V. Umashankar said that senior officials deliberated on the main issues of circularity, mobility, urban infrastructure, and sustainable development. Similarly, best practices in the transport sector and transportation issues were discussed in collaboration with these officials. Meanwhile, 3rd BRICS Transport Ministers&#8217; Meeting which is arranged on 11th and 12th of this month in city of Nagpur will be convened under India&#8217;s BRICS Chairship theme: &#8220;Building for Resilience, Innovation, Cooperation and Sustainability (BRICS)&#8221;. Union Transport Minister Nitin Gadkari will chair the BRICS Transport Ministers’ meeting on the 11th of this month, which will see the participation from Ministers of other member countries. Following the first two pivotal meetings of the Transport Working Group hosted by Russia and Brazil, this third iteration aims to deepen international transport cooperation. Over the two days, senior officials will review the progress of transport cooperation achieved since the Russian and Brazilian Chairships, exchange international best practices and deliberate on emerging areas of collaboration, including Sustainable Aviation Fuel (SAF), urban mobility, multi-modal transport, resilient logistics’ supply chains, decarbonisation and the adoption of expanding AI-based technologies.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T05:27:31+00:00",
-        "link": "https://newsonair.gov.in/3rd-brics-transport-ministers-meeting-to-begin-in-maharashtras-nagpur-today/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cave_26%2C_Ajanta.jpg/1280px-Cave_26%2C_Ajanta.jpg",
-        "image_credit": "Wikipedia – Maharashtra (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Railways.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -513,8 +131,368 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T07:45:40+00:00",
         "link": "https://newsonair.gov.in/palestinian-authority-president-mahmoud-abbas-announces-legislative-elections-in-late-november/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-3-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "breaking": [
+      {
+        "title": "HM Amit Shah reviews progress in rollout of Bureau of Port Security; Directs stronger coastal security measures",
+        "summary": "Union Home Minister Amit Shah has said that the government is firmly committed to making the country&#8217;s coastal security unbreachable. Mr Shah made the remarks while reviewing progress on the establishment of the Bureau of Port Security (BoPS) along with Union Minister for Ports, Shipping and Waterways, Sarbananda Sonowal. The Home Minister said […]",
+        "article": "Union Home Minister Amit Shah has said that the government is firmly committed to making the country&#8217;s coastal security unbreachable. Mr Shah made the remarks while reviewing progress on the establishment of the Bureau of Port Security (BoPS) along with Union Minister for Ports, Shipping and Waterways, Sarbananda Sonowal. The Home Minister said that only licensed private security agencies should be entrusted with port security, and only personnel trained by the Central Industrial Security Force (CISF) should be deployed. He directed that training at the Port Security Training Institute should begin at the earliest by utilising the existing infrastructure. He also instructed officials to create a comprehensive database of all security personnel to be deployed under the BoPS. The Home Minister further said that all ports covered under the BoPS security framework should be equipped with container-scanning facilities. He directed the CISF to conduct trial runs of the proposed security arrangements at major ports, including Visakhapatnam Port, Jawaharlal Nehru Port and Mundra Port. Akashvani correspondent reports that the meeting was attended by the Union Home Secretary, the Director of the Intelligence Bureau, the Secretary (Border Management), the Secretary of the Ministry of Ports, Shipping and Waterways, the Secretary of Department of Fisheries, the Director General of the CISF, and other senior officials. The Bureau of Port Security is being established as a statutory body under Section 13 of the Merchant Shipping Act, 2025. To be headed by a director general, the Bureau will function under the Ministry of Ports, Shipping and Waterways. It will be responsible for regulating and inspecting the security of ships and port facilities. The Bureau will also ensure the timely collection, analysis and sharing of security-related information, with a special focus on cybersecurity. A dedicated division will safeguard the IT infrastructure of ports against cyber threats. Mr Shah also reviewed security arrangements for fishing harbours and fish landing centres with officials of the Department of Fisheries. He directed that the ISRO-developed &#8216;Nabhmitra&#8217; app be promoted more extensively so that more fishermen can download it on their mobile phones. He also asked the Department to write to district magistrates and superintendents of police across the country, seeking details of all fish landing centres in their respective districts. The Home Minister further directed that the registration process for fishermen be simplified and that District Superintendents of Police ensure adequate security at fish landing centres by deploying permanent police personnel.",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:39:34+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-reviews-progress-in-rollout-of-bureau-of-port-security-directs-stronger-coastal-security-measures/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian Navy to commission indigenous stealth frigate Mahendragiri in Visakhapatnam today",
+        "summary": "The Indian Navy is all set to commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38) into its Eastern Fleet at Visakhapatnam in Andhra Pradesh today. The ceremony will be presided over by Defence Minister Rajnath Singh. It will mark another significant milestone in India&#8217;s journey towards defence self-reliance and indigenous warship construction. Addressing […]",
+        "article": "The Indian Navy is all set to commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38) into its Eastern Fleet at Visakhapatnam in Andhra Pradesh today. The ceremony will be presided over by Defence Minister Rajnath Singh. It will mark another significant milestone in India&#8217;s journey towards defence self-reliance and indigenous warship construction. Addressing the naval personnel in Visakhapatnam during Barakhana on the eve of the commissioning ceremony, the defence minister reaffirmed India&#8217;s stand as the primary guarantor of peace and stability in the Indian Ocean region. We have Akashvani Correspondent reports that the Mahendragiri, designed by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited in Mumbai, is a state-of-the-art stealth frigate equipped with advanced weapons, sensors and electronic warfare systems. The warship is capable of undertaking anti-air, anti-surface and anti-submarine operations. It can also conduct maritime security patrols, search-and-rescue missions, humanitarian assistance and disaster relief operations, and sustained deployments in the Indian Ocean Region. With over 75 per cent indigenous content, the frigate reflects the government&#8217;s push for self-reliance in defence manufacturing under the Aatmanirbhar Bharat initiative. Its construction involved several Indian industries, including MSMEs (Micro, Small and Medium Enterprises), strengthening the domestic defence industrial base and generating employment. Named after the Mahendragiri mountain range in the Eastern Ghats, the warship symbolises strength and resilience. The government says its induction will further enhance the Indian Navy’s operational capability and reinforce India’s position as a leading indigenous warship-building nation and a preferred security partner in the Indian Ocean region.",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:28:48+00:00",
+        "link": "https://newsonair.gov.in/indian-navy-to-commission-indigenous-stealth-frigate-mahendragiri-in-visakhapatnam-today/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/What_is_Shipyard.jpg/1280px-What_is_Shipyard.jpg",
+        "image_credit": "Wikipedia – Visakhapatnam (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India & New Zealand sign 5 MoUs in key areas",
+        "summary": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in […]",
+        "article": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in Auckland. The two countries signed a memorandum of arrangement between the Ministry of Defence and the New Zealand Defence Force to enhance maritime cooperation, aimed at strengthening security in the Indo-Pacific region. The agreement on animal husbandry and dairy will promote research, innovation and the exchange of best practices. The tourism pact is expected to boost visitor exchanges and strengthen cooperation in the travel sector. Both sides also adopted a Joint Action Plan on Sport to deepen collaboration in sports development and athlete exchanges. An MoU on disaster management will enhance cooperation in disaster preparedness, emergency response and resilience. The five agreements reflect the growing India-New Zealand partnership and the shared commitment to expand cooperation across strategic, economic and people-to-people sectors. Earlier, speaking during delegation-level talks, Prime Minister Modi said that his visit to New Zealand marks a historic milestone in bilateral relations and will give fresh momentum to ties between the two countries. Mr Modi thanked the people and leadership of New Zealand for their warmth and support, saying the visit of an Indian Prime Minister after four decades reflects the growing strength of the partnership. Hailing the Free Trade Agreement (FTA) between the two countries, Mr Modi appreciated New Zealand&#8217;s efforts in concluding the FTA process in a short period and thanked Prime Minister Luxon and his government for their leadership. He said the two countries have now taken a significant step by establishing a strategic partnership, which will guide future cooperation. Highlighting the shared democratic values and maritime ties between the two nations, Prime Minister Modi said India and New Zealand can play an important role in strengthening peace, stability and security in the Indo-Pacific region. He expressed confidence that the visit would further deepen bilateral relations and enhance cooperation for global peace and prosperity. Speaking on the occasion, the New Zealand prime minister described Mr Modi&#8217;s visit as a historic milestone, marking the first visit by an Indian prime minister to New Zealand in 40 years. Welcoming Prime Minister Modi, Mr Luxon said it was a pleasure and an honour to host him, adding that the visit reflects the growing strength of bilateral ties. He said the two countries have made significant progress on the trade agenda and emphasised that the relationship extends beyond the Free Trade Agreement. Mr Luxon also announced that India and New Zealand will establish a strategic partnership to provide a broader framework for expanding cooperation across key sectors. The bilateral discussions were preceded by a ceremonial welcome at the Government House, where Prime Minister Modi was accorded a Guard of Honour. Later in the day, Prime Minister Modi will also interact with prominent business and sports personalities. In a reflection of the strong people-to-people ties that exist between the two countries, Mr Modi will address a large gathering of the Indian Diaspora today. Prime Minister …",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:13:24+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-sign-5-mous-in-key-areas/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1-5.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi receives rousing welcome upon his arrival in Auckland: First Indian PM to visit New Zealand in four decades",
+        "summary": "Prime Minister Narendra Modi received a warm and enthusiastic welcome upon his arrival in Auckland, marking the start of his historic two-day visit to New Zealand. This is the first visit by an Indian Prime Minister in nearly four decades. After arriving in Auckland, Prime Minister Modi was received at the airport by New […]",
+        "article": "Prime Minister Narendra Modi received a warm and enthusiastic welcome upon his arrival in Auckland, marking the start of his historic two-day visit to New Zealand. This is the first visit by an Indian Prime Minister in nearly four decades. After arriving in Auckland, Prime Minister Modi was received at the airport by New Zealand Prime Minister Christopher Luxon. The Indian community gathered in large numbers to greet him. The atmosphere was filled with excitement as people waved the Indian tricolour and chanted “Kia Ora Modi” to welcome him. Later, Prime Minister witnessed a vibrant celebration of India’s rich cultural heritage during the community welcome in Auckland this evening. In a series of social media posts, the Prime Minister said that the performances showcased the cultures of Punjab and Tamil Nadu, a fusion of Carnatic and Hindustani classical music, and a stirring rendition of Vande Mataram. Mr Modi complimented the diaspora for keeping India’s cultural heritage vibrant across generations and continents and for strengthening the enduring people-to-people bonds between India and New Zealand. The Prime Minister also expressed delight to witness the performance by the Naad Vocal Ensemble. He said music has a unique ability to bring people together, and today’s performance beautifully reflected the warmth and depth of India-New Zealand friendship. During the visit, the two leaders are expected to discuss ways to further strengthen cooperation in trade, investment, education, technology, and people-to-people ties, reflecting the growing partnership between India and New Zealand.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T15:45:27+00:00",
+        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-6.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Centre reviews preparations for upcoming Monsoon Session",
+        "summary": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a […]",
+        "article": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a comprehensive review of the legislative business scheduled for the upcoming session was conducted and necessary guidelines were issued.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T15:34:13+00:00",
+        "link": "https://newsonair.gov.in/centre-reviews-preparations-for-upcoming-monsoon-session/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Meghwal-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Operation Amistad: Venezuela thanked India for timely help & support during recent earthquakes",
+        "summary": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External […]",
+        "article": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External Affairs Ministry said in a statement that on 26th June, two Indian Air Force C-17 Globemaster III aircraft carried a 41-member contingent from the Indian Army’s 60 Para Field Hospital Unit to Venezuela. It comprised surgeons, anaesthesiologists, orthopaedic surgeons, dental and other physicians, paramedical staff and support personnel. It also included two BHISHM Cubes, which are state-of-the-art modular and portable mobile mini-hospitals designed for rapid disaster response, 6 tons of essential medicines and medical equipment, and 30 tons of emergency relief supplies, including tents, solar lamps, portable water purifiers, and generator sets. Operation Amistad was undertaken in close coordination with the Venezuelan Government, whose support and facilitation enabled the swift deployment and effective functioning of the Indian Army Field Hospital. During its deployment, the Field Hospital provided critical assistance and care to hundreds of earthquake-impacted persons, carrying out over 8000 medical procedures and laboratory investigations, including over 20 major surgeries. India has conveyed its sincere appreciation to the Government of Venezuela for the assistance and cooperation extended to the Indian contingent throughout the mission. Operation Amistad underscores the enduring friendship and solidarity between India and Venezuela, and reflects India’s commitment to stand steadfastly with partner countries in difficult times, in the spirit of Vasudhaiva Kutumbakam.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T14:14:22+00:00",
+        "link": "https://newsonair.gov.in/operation-amistad-venezuela-thanked-india-for-timely-help-support-during-recent-earthquakes/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Op.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India and Oman hold discussion to ensure peace and stability in the Gulf",
+        "summary": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The […]",
+        "article": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The two leaders also held a comprehensive exchange of views on developments in the Gulf, and efforts to ensure peace and stability in the region. Dr Jaishankar highlighted that the discussions reflected the trust and strength of Strategic Partnership between India and Oman. Meanwhile, the Omani Foreign Minister said that the longstanding maritime ties between India and Oman have connected their people for centuries and continue to provide a strong foundation for the partnership between the two countries. In a social media post, Mr Badr Albusaidi said that the two leaders held discussion on intensive diplomacy to secure freedom of navigation in Strait of Hormuz and thanked India for its support.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T13:02:14+00:00",
+        "link": "https://newsonair.gov.in/india-and-oman-held-discussion-to-ensure-peace-and-stability-in-the-gulf/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Oman.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "SC to hear Ayodhya Ram temple donation case on Monday",
+        "summary": "The Supreme Court would hear a batch of pleas seeking a fair and time-bound probe into the alleged embezzlement of donations at the Ram temple in Ayodhya on Monday. On 7 July, an Ayodhya court granted one-day police remand for three of the eight accused arrested in connection with the alleged theft of donations […]",
+        "article": "The Supreme Court would hear a batch of pleas seeking a fair and time-bound probe into the alleged embezzlement of donations at the Ram temple in Ayodhya on Monday. On 7 July, an Ayodhya court granted one-day police remand for three of the eight accused arrested in connection with the alleged theft of donations at the Ram temple. A local court had sent all the eight accused to 14-day judicial custody on 29th of last month. On 13th of last month, the Uttar Pradesh government constituted the SIT on a request from the temple trust following allegations of misappropriation of donations received at the Ram temple.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T12:54:34+00:00",
+        "link": "https://newsonair.gov.in/sc-to-hear-ayodhya-ram-temple-donation-case-on-monday/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/supreme-court-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Next phase of Ayushman Bharat Digital Mission focuses on maximum adoption & utilization: J P Nadda",
+        "summary": "Union Health and Family Welfare Minister Jagat Prakash Nadda today chaired the 3rd Meeting of the Mission Steering Group to review the progress of the Ayushman Bharat Digital Mission (ABDM). During the meeting, it was noted that the Ayushman Bharat Digital Mission has emerged as one of the world&#8217;s largest digital health ecosystems, with […]",
+        "article": "Union Health and Family Welfare Minister Jagat Prakash Nadda today chaired the 3rd Meeting of the Mission Steering Group to review the progress of the Ayushman Bharat Digital Mission (ABDM). During the meeting, it was noted that the Ayushman Bharat Digital Mission has emerged as one of the world&#8217;s largest digital health ecosystems, with around 94 crore Ayushman Bharat Health Account numbers created and 105 crore health records linked. It also highlighted that 5.33 lakh health facilities and around ten lakh healthcare professionals have been registered on the national digital health registries. Addressing the meeting, Mr Nadda said that a robust digital healthcare infrastructure has been created under ABDM and the next phase must focus on maximising its adoption and utilization across the country. He said that technology must continue to serve as a powerful enabler for achieving Universal Health Coverage while ensuring inclusiveness, accessibility and ease of use for every citizen. Mr Nadda also underscored the transformative role of digital public infrastructure in improving access to quality healthcare, enhancing continuity of care and empowering citizens through secure and consent-based access to their health records. The meeting also deliberated on the future roadmap for the Mission with a focus on scaling up digital health adoption, leveraging emerging technologies including Artificial Intelligence, strengthening institutional capabilities and deepening collaboration with States and Union Territories.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T11:18:52+00:00",
+        "link": "https://newsonair.gov.in/next-phase-of-ayushman-bharat-digital-mission-focuses-on-maximum-adoption-utilization-j-p-nadda/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Ayush.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Railways approve 260 cr for Kavach deployment to enhance safety & operational efficiency",
+        "summary": "Indian Railways has approved 206 crore rupees for Kavach Deployment on 680 route kilometres of Northern Railway to enhance safety and operational efficiency. The project aimed at expanding the indigenous safety system across high-density and strategically important routes. The Railway Ministry said the provision of Kavach Version 4.0 will be implemented on the Rewari-Delhi and […]",
+        "article": "Indian Railways has approved 206 crore rupees for Kavach Deployment on 680 route kilometres of Northern Railway to enhance safety and operational efficiency. The project aimed at expanding the indigenous safety system across high-density and strategically important routes. The Railway Ministry said the provision of Kavach Version 4.0 will be implemented on the Rewari-Delhi and Shakurbasti-Bathinda sections of the Delhi Division. The system has been designed to significantly enhance railway safety by preventing Signal Passed at Danger incidents and train collisions. The Ministry said the system continuously monitors train movements, automatically applies brakes whenever necessary, and permits trains to operate safely at maximum permissible speeds. It also supports reliable train operations even during adverse weather conditions such as dense fog.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T10:52:13+00:00",
+        "link": "https://newsonair.gov.in/railways-approve-260-cr-for-kavach-deployment-to-enhance-safety-operational-efficiency/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Railways.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "national": [
+      {
+        "title": "HM Amit Shah reviews progress in rollout of Bureau of Port Security; Directs stronger coastal security measures",
+        "summary": "Union Home Minister Amit Shah has said that the government is firmly committed to making the country&#8217;s coastal security unbreachable. Mr Shah made the remarks while reviewing progress on the establishment of the Bureau of Port Security (BoPS) along with Union Minister for Ports, Shipping and Waterways, Sarbananda Sonowal. The Home Minister said […]",
+        "article": "Union Home Minister Amit Shah has said that the government is firmly committed to making the country&#8217;s coastal security unbreachable. Mr Shah made the remarks while reviewing progress on the establishment of the Bureau of Port Security (BoPS) along with Union Minister for Ports, Shipping and Waterways, Sarbananda Sonowal. The Home Minister said that only licensed private security agencies should be entrusted with port security, and only personnel trained by the Central Industrial Security Force (CISF) should be deployed. He directed that training at the Port Security Training Institute should begin at the earliest by utilising the existing infrastructure. He also instructed officials to create a comprehensive database of all security personnel to be deployed under the BoPS. The Home Minister further said that all ports covered under the BoPS security framework should be equipped with container-scanning facilities. He directed the CISF to conduct trial runs of the proposed security arrangements at major ports, including Visakhapatnam Port, Jawaharlal Nehru Port and Mundra Port. Akashvani correspondent reports that the meeting was attended by the Union Home Secretary, the Director of the Intelligence Bureau, the Secretary (Border Management), the Secretary of the Ministry of Ports, Shipping and Waterways, the Secretary of Department of Fisheries, the Director General of the CISF, and other senior officials. The Bureau of Port Security is being established as a statutory body under Section 13 of the Merchant Shipping Act, 2025. To be headed by a director general, the Bureau will function under the Ministry of Ports, Shipping and Waterways. It will be responsible for regulating and inspecting the security of ships and port facilities. The Bureau will also ensure the timely collection, analysis and sharing of security-related information, with a special focus on cybersecurity. A dedicated division will safeguard the IT infrastructure of ports against cyber threats. Mr Shah also reviewed security arrangements for fishing harbours and fish landing centres with officials of the Department of Fisheries. He directed that the ISRO-developed &#8216;Nabhmitra&#8217; app be promoted more extensively so that more fishermen can download it on their mobile phones. He also asked the Department to write to district magistrates and superintendents of police across the country, seeking details of all fish landing centres in their respective districts. The Home Minister further directed that the registration process for fishermen be simplified and that District Superintendents of Police ensure adequate security at fish landing centres by deploying permanent police personnel.",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:39:34+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-reviews-progress-in-rollout-of-bureau-of-port-security-directs-stronger-coastal-security-measures/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian Navy to commission indigenous stealth frigate Mahendragiri in Visakhapatnam today",
+        "summary": "The Indian Navy is all set to commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38) into its Eastern Fleet at Visakhapatnam in Andhra Pradesh today. The ceremony will be presided over by Defence Minister Rajnath Singh. It will mark another significant milestone in India&#8217;s journey towards defence self-reliance and indigenous warship construction. Addressing […]",
+        "article": "The Indian Navy is all set to commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38) into its Eastern Fleet at Visakhapatnam in Andhra Pradesh today. The ceremony will be presided over by Defence Minister Rajnath Singh. It will mark another significant milestone in India&#8217;s journey towards defence self-reliance and indigenous warship construction. Addressing the naval personnel in Visakhapatnam during Barakhana on the eve of the commissioning ceremony, the defence minister reaffirmed India&#8217;s stand as the primary guarantor of peace and stability in the Indian Ocean region. We have Akashvani Correspondent reports that the Mahendragiri, designed by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited in Mumbai, is a state-of-the-art stealth frigate equipped with advanced weapons, sensors and electronic warfare systems. The warship is capable of undertaking anti-air, anti-surface and anti-submarine operations. It can also conduct maritime security patrols, search-and-rescue missions, humanitarian assistance and disaster relief operations, and sustained deployments in the Indian Ocean Region. With over 75 per cent indigenous content, the frigate reflects the government&#8217;s push for self-reliance in defence manufacturing under the Aatmanirbhar Bharat initiative. Its construction involved several Indian industries, including MSMEs (Micro, Small and Medium Enterprises), strengthening the domestic defence industrial base and generating employment. Named after the Mahendragiri mountain range in the Eastern Ghats, the warship symbolises strength and resilience. The government says its induction will further enhance the Indian Navy’s operational capability and reinforce India’s position as a leading indigenous warship-building nation and a preferred security partner in the Indian Ocean region.",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:28:48+00:00",
+        "link": "https://newsonair.gov.in/indian-navy-to-commission-indigenous-stealth-frigate-mahendragiri-in-visakhapatnam-today/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/What_is_Shipyard.jpg/1280px-What_is_Shipyard.jpg",
+        "image_credit": "Wikipedia – Visakhapatnam (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India & New Zealand sign 5 MoUs in key areas",
+        "summary": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in […]",
+        "article": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in Auckland. The two countries signed a memorandum of arrangement between the Ministry of Defence and the New Zealand Defence Force to enhance maritime cooperation, aimed at strengthening security in the Indo-Pacific region. The agreement on animal husbandry and dairy will promote research, innovation and the exchange of best practices. The tourism pact is expected to boost visitor exchanges and strengthen cooperation in the travel sector. Both sides also adopted a Joint Action Plan on Sport to deepen collaboration in sports development and athlete exchanges. An MoU on disaster management will enhance cooperation in disaster preparedness, emergency response and resilience. The five agreements reflect the growing India-New Zealand partnership and the shared commitment to expand cooperation across strategic, economic and people-to-people sectors. Earlier, speaking during delegation-level talks, Prime Minister Modi said that his visit to New Zealand marks a historic milestone in bilateral relations and will give fresh momentum to ties between the two countries. Mr Modi thanked the people and leadership of New Zealand for their warmth and support, saying the visit of an Indian Prime Minister after four decades reflects the growing strength of the partnership. Hailing the Free Trade Agreement (FTA) between the two countries, Mr Modi appreciated New Zealand&#8217;s efforts in concluding the FTA process in a short period and thanked Prime Minister Luxon and his government for their leadership. He said the two countries have now taken a significant step by establishing a strategic partnership, which will guide future cooperation. Highlighting the shared democratic values and maritime ties between the two nations, Prime Minister Modi said India and New Zealand can play an important role in strengthening peace, stability and security in the Indo-Pacific region. He expressed confidence that the visit would further deepen bilateral relations and enhance cooperation for global peace and prosperity. Speaking on the occasion, the New Zealand prime minister described Mr Modi&#8217;s visit as a historic milestone, marking the first visit by an Indian prime minister to New Zealand in 40 years. Welcoming Prime Minister Modi, Mr Luxon said it was a pleasure and an honour to host him, adding that the visit reflects the growing strength of bilateral ties. He said the two countries have made significant progress on the trade agenda and emphasised that the relationship extends beyond the Free Trade Agreement. Mr Luxon also announced that India and New Zealand will establish a strategic partnership to provide a broader framework for expanding cooperation across key sectors. The bilateral discussions were preceded by a ceremonial welcome at the Government House, where Prime Minister Modi was accorded a Guard of Honour. Later in the day, Prime Minister Modi will also interact with prominent business and sports personalities. In a reflection of the strong people-to-people ties that exist between the two countries, Mr Modi will address a large gathering of the Indian Diaspora today. Prime Minister …",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:13:24+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-sign-5-mous-in-key-areas/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1-5.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi receives rousing welcome upon his arrival in Auckland: First Indian PM to visit New Zealand in four decades",
+        "summary": "Prime Minister Narendra Modi received a warm and enthusiastic welcome upon his arrival in Auckland, marking the start of his historic two-day visit to New Zealand. This is the first visit by an Indian Prime Minister in nearly four decades. After arriving in Auckland, Prime Minister Modi was received at the airport by New […]",
+        "article": "Prime Minister Narendra Modi received a warm and enthusiastic welcome upon his arrival in Auckland, marking the start of his historic two-day visit to New Zealand. This is the first visit by an Indian Prime Minister in nearly four decades. After arriving in Auckland, Prime Minister Modi was received at the airport by New Zealand Prime Minister Christopher Luxon. The Indian community gathered in large numbers to greet him. The atmosphere was filled with excitement as people waved the Indian tricolour and chanted “Kia Ora Modi” to welcome him. Later, Prime Minister witnessed a vibrant celebration of India’s rich cultural heritage during the community welcome in Auckland this evening. In a series of social media posts, the Prime Minister said that the performances showcased the cultures of Punjab and Tamil Nadu, a fusion of Carnatic and Hindustani classical music, and a stirring rendition of Vande Mataram. Mr Modi complimented the diaspora for keeping India’s cultural heritage vibrant across generations and continents and for strengthening the enduring people-to-people bonds between India and New Zealand. The Prime Minister also expressed delight to witness the performance by the Naad Vocal Ensemble. He said music has a unique ability to bring people together, and today’s performance beautifully reflected the warmth and depth of India-New Zealand friendship. During the visit, the two leaders are expected to discuss ways to further strengthen cooperation in trade, investment, education, technology, and people-to-people ties, reflecting the growing partnership between India and New Zealand.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T15:45:27+00:00",
+        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-6.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Centre reviews preparations for upcoming Monsoon Session",
+        "summary": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a […]",
+        "article": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a comprehensive review of the legislative business scheduled for the upcoming session was conducted and necessary guidelines were issued.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T15:34:13+00:00",
+        "link": "https://newsonair.gov.in/centre-reviews-preparations-for-upcoming-monsoon-session/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Meghwal-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Operation Amistad: Venezuela thanked India for timely help & support during recent earthquakes",
+        "summary": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External […]",
+        "article": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External Affairs Ministry said in a statement that on 26th June, two Indian Air Force C-17 Globemaster III aircraft carried a 41-member contingent from the Indian Army’s 60 Para Field Hospital Unit to Venezuela. It comprised surgeons, anaesthesiologists, orthopaedic surgeons, dental and other physicians, paramedical staff and support personnel. It also included two BHISHM Cubes, which are state-of-the-art modular and portable mobile mini-hospitals designed for rapid disaster response, 6 tons of essential medicines and medical equipment, and 30 tons of emergency relief supplies, including tents, solar lamps, portable water purifiers, and generator sets. Operation Amistad was undertaken in close coordination with the Venezuelan Government, whose support and facilitation enabled the swift deployment and effective functioning of the Indian Army Field Hospital. During its deployment, the Field Hospital provided critical assistance and care to hundreds of earthquake-impacted persons, carrying out over 8000 medical procedures and laboratory investigations, including over 20 major surgeries. India has conveyed its sincere appreciation to the Government of Venezuela for the assistance and cooperation extended to the Indian contingent throughout the mission. Operation Amistad underscores the enduring friendship and solidarity between India and Venezuela, and reflects India’s commitment to stand steadfastly with partner countries in difficult times, in the spirit of Vasudhaiva Kutumbakam.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T14:14:22+00:00",
+        "link": "https://newsonair.gov.in/operation-amistad-venezuela-thanked-india-for-timely-help-support-during-recent-earthquakes/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Op.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India and Oman hold discussion to ensure peace and stability in the Gulf",
+        "summary": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The […]",
+        "article": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The two leaders also held a comprehensive exchange of views on developments in the Gulf, and efforts to ensure peace and stability in the region. Dr Jaishankar highlighted that the discussions reflected the trust and strength of Strategic Partnership between India and Oman. Meanwhile, the Omani Foreign Minister said that the longstanding maritime ties between India and Oman have connected their people for centuries and continue to provide a strong foundation for the partnership between the two countries. In a social media post, Mr Badr Albusaidi said that the two leaders held discussion on intensive diplomacy to secure freedom of navigation in Strait of Hormuz and thanked India for its support.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T13:02:14+00:00",
+        "link": "https://newsonair.gov.in/india-and-oman-held-discussion-to-ensure-peace-and-stability-in-the-gulf/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Oman.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "SC to hear Ayodhya Ram temple donation case on Monday",
+        "summary": "The Supreme Court would hear a batch of pleas seeking a fair and time-bound probe into the alleged embezzlement of donations at the Ram temple in Ayodhya on Monday. On 7 July, an Ayodhya court granted one-day police remand for three of the eight accused arrested in connection with the alleged theft of donations […]",
+        "article": "The Supreme Court would hear a batch of pleas seeking a fair and time-bound probe into the alleged embezzlement of donations at the Ram temple in Ayodhya on Monday. On 7 July, an Ayodhya court granted one-day police remand for three of the eight accused arrested in connection with the alleged theft of donations at the Ram temple. A local court had sent all the eight accused to 14-day judicial custody on 29th of last month. On 13th of last month, the Uttar Pradesh government constituted the SIT on a request from the temple trust following allegations of misappropriation of donations received at the Ram temple.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T12:54:34+00:00",
+        "link": "https://newsonair.gov.in/sc-to-hear-ayodhya-ram-temple-donation-case-on-monday/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/supreme-court-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Next phase of Ayushman Bharat Digital Mission focuses on maximum adoption & utilization: J P Nadda",
+        "summary": "Union Health and Family Welfare Minister Jagat Prakash Nadda today chaired the 3rd Meeting of the Mission Steering Group to review the progress of the Ayushman Bharat Digital Mission (ABDM). During the meeting, it was noted that the Ayushman Bharat Digital Mission has emerged as one of the world&#8217;s largest digital health ecosystems, with […]",
+        "article": "Union Health and Family Welfare Minister Jagat Prakash Nadda today chaired the 3rd Meeting of the Mission Steering Group to review the progress of the Ayushman Bharat Digital Mission (ABDM). During the meeting, it was noted that the Ayushman Bharat Digital Mission has emerged as one of the world&#8217;s largest digital health ecosystems, with around 94 crore Ayushman Bharat Health Account numbers created and 105 crore health records linked. It also highlighted that 5.33 lakh health facilities and around ten lakh healthcare professionals have been registered on the national digital health registries. Addressing the meeting, Mr Nadda said that a robust digital healthcare infrastructure has been created under ABDM and the next phase must focus on maximising its adoption and utilization across the country. He said that technology must continue to serve as a powerful enabler for achieving Universal Health Coverage while ensuring inclusiveness, accessibility and ease of use for every citizen. Mr Nadda also underscored the transformative role of digital public infrastructure in improving access to quality healthcare, enhancing continuity of care and empowering citizens through secure and consent-based access to their health records. The meeting also deliberated on the future roadmap for the Mission with a focus on scaling up digital health adoption, leveraging emerging technologies including Artificial Intelligence, strengthening institutional capabilities and deepening collaboration with States and Union Territories.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T11:18:52+00:00",
+        "link": "https://newsonair.gov.in/next-phase-of-ayushman-bharat-digital-mission-focuses-on-maximum-adoption-utilization-j-p-nadda/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Ayush.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Railways approve 260 cr for Kavach deployment to enhance safety & operational efficiency",
+        "summary": "Indian Railways has approved 206 crore rupees for Kavach Deployment on 680 route kilometres of Northern Railway to enhance safety and operational efficiency. The project aimed at expanding the indigenous safety system across high-density and strategically important routes. The Railway Ministry said the provision of Kavach Version 4.0 will be implemented on the Rewari-Delhi and […]",
+        "article": "Indian Railways has approved 206 crore rupees for Kavach Deployment on 680 route kilometres of Northern Railway to enhance safety and operational efficiency. The project aimed at expanding the indigenous safety system across high-density and strategically important routes. The Railway Ministry said the provision of Kavach Version 4.0 will be implemented on the Rewari-Delhi and Shakurbasti-Bathinda sections of the Delhi Division. The system has been designed to significantly enhance railway safety by preventing Signal Passed at Danger incidents and train collisions. The Ministry said the system continuously monitors train movements, automatically applies brakes whenever necessary, and permits trains to operate safely at maximum permissible speeds. It also supports reliable train operations even during adverse weather conditions such as dense fog.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T10:52:13+00:00",
+        "link": "https://newsonair.gov.in/railways-approve-260-cr-for-kavach-deployment-to-enhance-safety-operational-efficiency/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Railways.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "politics": [
+      {
+        "title": "HM Amit Shah reviews progress in rollout of Bureau of Port Security; Directs stronger coastal security measures",
+        "summary": "Union Home Minister Amit Shah has said that the government is firmly committed to making the country&#8217;s coastal security unbreachable. Mr Shah made the remarks while reviewing progress on the establishment of the Bureau of Port Security (BoPS) along with Union Minister for Ports, Shipping and Waterways, Sarbananda Sonowal. The Home Minister said […]",
+        "article": "Union Home Minister Amit Shah has said that the government is firmly committed to making the country&#8217;s coastal security unbreachable. Mr Shah made the remarks while reviewing progress on the establishment of the Bureau of Port Security (BoPS) along with Union Minister for Ports, Shipping and Waterways, Sarbananda Sonowal. The Home Minister said that only licensed private security agencies should be entrusted with port security, and only personnel trained by the Central Industrial Security Force (CISF) should be deployed. He directed that training at the Port Security Training Institute should begin at the earliest by utilising the existing infrastructure. He also instructed officials to create a comprehensive database of all security personnel to be deployed under the BoPS. The Home Minister further said that all ports covered under the BoPS security framework should be equipped with container-scanning facilities. He directed the CISF to conduct trial runs of the proposed security arrangements at major ports, including Visakhapatnam Port, Jawaharlal Nehru Port and Mundra Port. Akashvani correspondent reports that the meeting was attended by the Union Home Secretary, the Director of the Intelligence Bureau, the Secretary (Border Management), the Secretary of the Ministry of Ports, Shipping and Waterways, the Secretary of Department of Fisheries, the Director General of the CISF, and other senior officials. The Bureau of Port Security is being established as a statutory body under Section 13 of the Merchant Shipping Act, 2025. To be headed by a director general, the Bureau will function under the Ministry of Ports, Shipping and Waterways. It will be responsible for regulating and inspecting the security of ships and port facilities. The Bureau will also ensure the timely collection, analysis and sharing of security-related information, with a special focus on cybersecurity. A dedicated division will safeguard the IT infrastructure of ports against cyber threats. Mr Shah also reviewed security arrangements for fishing harbours and fish landing centres with officials of the Department of Fisheries. He directed that the ISRO-developed &#8216;Nabhmitra&#8217; app be promoted more extensively so that more fishermen can download it on their mobile phones. He also asked the Department to write to district magistrates and superintendents of police across the country, seeking details of all fish landing centres in their respective districts. The Home Minister further directed that the registration process for fishermen be simplified and that District Superintendents of Police ensure adequate security at fish landing centres by deploying permanent police personnel.",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:39:34+00:00",
+        "link": "https://newsonair.gov.in/hm-amit-shah-reviews-progress-in-rollout-of-bureau-of-port-security-directs-stronger-coastal-security-measures/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian Navy to commission indigenous stealth frigate Mahendragiri in Visakhapatnam today",
+        "summary": "The Indian Navy is all set to commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38) into its Eastern Fleet at Visakhapatnam in Andhra Pradesh today. The ceremony will be presided over by Defence Minister Rajnath Singh. It will mark another significant milestone in India&#8217;s journey towards defence self-reliance and indigenous warship construction. Addressing […]",
+        "article": "The Indian Navy is all set to commission its sixth Project 17A indigenous stealth frigate, Mahendragiri (F38) into its Eastern Fleet at Visakhapatnam in Andhra Pradesh today. The ceremony will be presided over by Defence Minister Rajnath Singh. It will mark another significant milestone in India&#8217;s journey towards defence self-reliance and indigenous warship construction. Addressing the naval personnel in Visakhapatnam during Barakhana on the eve of the commissioning ceremony, the defence minister reaffirmed India&#8217;s stand as the primary guarantor of peace and stability in the Indian Ocean region. We have Akashvani Correspondent reports that the Mahendragiri, designed by the Indian Navy’s Warship Design Bureau and built by Mazagon Dock Shipbuilders Limited in Mumbai, is a state-of-the-art stealth frigate equipped with advanced weapons, sensors and electronic warfare systems. The warship is capable of undertaking anti-air, anti-surface and anti-submarine operations. It can also conduct maritime security patrols, search-and-rescue missions, humanitarian assistance and disaster relief operations, and sustained deployments in the Indian Ocean Region. With over 75 per cent indigenous content, the frigate reflects the government&#8217;s push for self-reliance in defence manufacturing under the Aatmanirbhar Bharat initiative. Its construction involved several Indian industries, including MSMEs (Micro, Small and Medium Enterprises), strengthening the domestic defence industrial base and generating employment. Named after the Mahendragiri mountain range in the Eastern Ghats, the warship symbolises strength and resilience. The government says its induction will further enhance the Indian Navy’s operational capability and reinforce India’s position as a leading indigenous warship-building nation and a preferred security partner in the Indian Ocean region.",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:28:48+00:00",
+        "link": "https://newsonair.gov.in/indian-navy-to-commission-indigenous-stealth-frigate-mahendragiri-in-visakhapatnam-today/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/What_is_Shipyard.jpg/1280px-What_is_Shipyard.jpg",
+        "image_credit": "Wikipedia – Visakhapatnam (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India & New Zealand sign 5 MoUs in key areas",
+        "summary": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in […]",
+        "article": "India and New Zealand today signed five key Memorandums of Understanding (MoUs) covering defence, animal husbandry and dairy, tourism, sports, and disaster management, marking a new chapter in bilateral ties between the two nations. The deals were inked following delegation-level talks between Prime Minister Narendra Modi and his New Zealand counterpart Christopher Luxon in Auckland. The two countries signed a memorandum of arrangement between the Ministry of Defence and the New Zealand Defence Force to enhance maritime cooperation, aimed at strengthening security in the Indo-Pacific region. The agreement on animal husbandry and dairy will promote research, innovation and the exchange of best practices. The tourism pact is expected to boost visitor exchanges and strengthen cooperation in the travel sector. Both sides also adopted a Joint Action Plan on Sport to deepen collaboration in sports development and athlete exchanges. An MoU on disaster management will enhance cooperation in disaster preparedness, emergency response and resilience. The five agreements reflect the growing India-New Zealand partnership and the shared commitment to expand cooperation across strategic, economic and people-to-people sectors. Earlier, speaking during delegation-level talks, Prime Minister Modi said that his visit to New Zealand marks a historic milestone in bilateral relations and will give fresh momentum to ties between the two countries. Mr Modi thanked the people and leadership of New Zealand for their warmth and support, saying the visit of an Indian Prime Minister after four decades reflects the growing strength of the partnership. Hailing the Free Trade Agreement (FTA) between the two countries, Mr Modi appreciated New Zealand&#8217;s efforts in concluding the FTA process in a short period and thanked Prime Minister Luxon and his government for their leadership. He said the two countries have now taken a significant step by establishing a strategic partnership, which will guide future cooperation. Highlighting the shared democratic values and maritime ties between the two nations, Prime Minister Modi said India and New Zealand can play an important role in strengthening peace, stability and security in the Indo-Pacific region. He expressed confidence that the visit would further deepen bilateral relations and enhance cooperation for global peace and prosperity. Speaking on the occasion, the New Zealand prime minister described Mr Modi&#8217;s visit as a historic milestone, marking the first visit by an Indian prime minister to New Zealand in 40 years. Welcoming Prime Minister Modi, Mr Luxon said it was a pleasure and an honour to host him, adding that the visit reflects the growing strength of bilateral ties. He said the two countries have made significant progress on the trade agenda and emphasised that the relationship extends beyond the Free Trade Agreement. Mr Luxon also announced that India and New Zealand will establish a strategic partnership to provide a broader framework for expanding cooperation across key sectors. The bilateral discussions were preceded by a ceremonial welcome at the Government House, where Prime Minister Modi was accorded a Guard of Honour. Later in the day, Prime Minister Modi will also interact with prominent business and sports personalities. In a reflection of the strong people-to-people ties that exist between the two countries, Mr Modi will address a large gathering of the Indian Diaspora today. Prime Minister …",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:13:24+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-sign-5-mous-in-key-areas/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1-5.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi receives rousing welcome upon his arrival in Auckland: First Indian PM to visit New Zealand in four decades",
+        "summary": "Prime Minister Narendra Modi received a warm and enthusiastic welcome upon his arrival in Auckland, marking the start of his historic two-day visit to New Zealand. This is the first visit by an Indian Prime Minister in nearly four decades. After arriving in Auckland, Prime Minister Modi was received at the airport by New […]",
+        "article": "Prime Minister Narendra Modi received a warm and enthusiastic welcome upon his arrival in Auckland, marking the start of his historic two-day visit to New Zealand. This is the first visit by an Indian Prime Minister in nearly four decades. After arriving in Auckland, Prime Minister Modi was received at the airport by New Zealand Prime Minister Christopher Luxon. The Indian community gathered in large numbers to greet him. The atmosphere was filled with excitement as people waved the Indian tricolour and chanted “Kia Ora Modi” to welcome him. Later, Prime Minister witnessed a vibrant celebration of India’s rich cultural heritage during the community welcome in Auckland this evening. In a series of social media posts, the Prime Minister said that the performances showcased the cultures of Punjab and Tamil Nadu, a fusion of Carnatic and Hindustani classical music, and a stirring rendition of Vande Mataram. Mr Modi complimented the diaspora for keeping India’s cultural heritage vibrant across generations and continents and for strengthening the enduring people-to-people bonds between India and New Zealand. The Prime Minister also expressed delight to witness the performance by the Naad Vocal Ensemble. He said music has a unique ability to bring people together, and today’s performance beautifully reflected the warmth and depth of India-New Zealand friendship. During the visit, the two leaders are expected to discuss ways to further strengthen cooperation in trade, investment, education, technology, and people-to-people ties, reflecting the growing partnership between India and New Zealand.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T15:45:27+00:00",
+        "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-6.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Centre reviews preparations for upcoming Monsoon Session",
+        "summary": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a […]",
+        "article": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a comprehensive review of the legislative business scheduled for the upcoming session was conducted and necessary guidelines were issued.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T15:34:13+00:00",
+        "link": "https://newsonair.gov.in/centre-reviews-preparations-for-upcoming-monsoon-session/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Meghwal-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Operation Amistad: Venezuela thanked India for timely help & support during recent earthquakes",
+        "summary": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External […]",
+        "article": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External Affairs Ministry said in a statement that on 26th June, two Indian Air Force C-17 Globemaster III aircraft carried a 41-member contingent from the Indian Army’s 60 Para Field Hospital Unit to Venezuela. It comprised surgeons, anaesthesiologists, orthopaedic surgeons, dental and other physicians, paramedical staff and support personnel. It also included two BHISHM Cubes, which are state-of-the-art modular and portable mobile mini-hospitals designed for rapid disaster response, 6 tons of essential medicines and medical equipment, and 30 tons of emergency relief supplies, including tents, solar lamps, portable water purifiers, and generator sets. Operation Amistad was undertaken in close coordination with the Venezuelan Government, whose support and facilitation enabled the swift deployment and effective functioning of the Indian Army Field Hospital. During its deployment, the Field Hospital provided critical assistance and care to hundreds of earthquake-impacted persons, carrying out over 8000 medical procedures and laboratory investigations, including over 20 major surgeries. India has conveyed its sincere appreciation to the Government of Venezuela for the assistance and cooperation extended to the Indian contingent throughout the mission. Operation Amistad underscores the enduring friendship and solidarity between India and Venezuela, and reflects India’s commitment to stand steadfastly with partner countries in difficult times, in the spirit of Vasudhaiva Kutumbakam.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T14:14:22+00:00",
+        "link": "https://newsonair.gov.in/operation-amistad-venezuela-thanked-india-for-timely-help-support-during-recent-earthquakes/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Op.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India and Oman hold discussion to ensure peace and stability in the Gulf",
+        "summary": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The […]",
+        "article": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The two leaders also held a comprehensive exchange of views on developments in the Gulf, and efforts to ensure peace and stability in the region. Dr Jaishankar highlighted that the discussions reflected the trust and strength of Strategic Partnership between India and Oman. Meanwhile, the Omani Foreign Minister said that the longstanding maritime ties between India and Oman have connected their people for centuries and continue to provide a strong foundation for the partnership between the two countries. In a social media post, Mr Badr Albusaidi said that the two leaders held discussion on intensive diplomacy to secure freedom of navigation in Strait of Hormuz and thanked India for its support.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T13:02:14+00:00",
+        "link": "https://newsonair.gov.in/india-and-oman-held-discussion-to-ensure-peace-and-stability-in-the-gulf/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Oman.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "SC to hear Ayodhya Ram temple donation case on Monday",
+        "summary": "The Supreme Court would hear a batch of pleas seeking a fair and time-bound probe into the alleged embezzlement of donations at the Ram temple in Ayodhya on Monday. On 7 July, an Ayodhya court granted one-day police remand for three of the eight accused arrested in connection with the alleged theft of donations […]",
+        "article": "The Supreme Court would hear a batch of pleas seeking a fair and time-bound probe into the alleged embezzlement of donations at the Ram temple in Ayodhya on Monday. On 7 July, an Ayodhya court granted one-day police remand for three of the eight accused arrested in connection with the alleged theft of donations at the Ram temple. A local court had sent all the eight accused to 14-day judicial custody on 29th of last month. On 13th of last month, the Uttar Pradesh government constituted the SIT on a request from the temple trust following allegations of misappropriation of donations received at the Ram temple.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T12:54:34+00:00",
+        "link": "https://newsonair.gov.in/sc-to-hear-ayodhya-ram-temple-donation-case-on-monday/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/supreme-court-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Next phase of Ayushman Bharat Digital Mission focuses on maximum adoption & utilization: J P Nadda",
+        "summary": "Union Health and Family Welfare Minister Jagat Prakash Nadda today chaired the 3rd Meeting of the Mission Steering Group to review the progress of the Ayushman Bharat Digital Mission (ABDM). During the meeting, it was noted that the Ayushman Bharat Digital Mission has emerged as one of the world&#8217;s largest digital health ecosystems, with […]",
+        "article": "Union Health and Family Welfare Minister Jagat Prakash Nadda today chaired the 3rd Meeting of the Mission Steering Group to review the progress of the Ayushman Bharat Digital Mission (ABDM). During the meeting, it was noted that the Ayushman Bharat Digital Mission has emerged as one of the world&#8217;s largest digital health ecosystems, with around 94 crore Ayushman Bharat Health Account numbers created and 105 crore health records linked. It also highlighted that 5.33 lakh health facilities and around ten lakh healthcare professionals have been registered on the national digital health registries. Addressing the meeting, Mr Nadda said that a robust digital healthcare infrastructure has been created under ABDM and the next phase must focus on maximising its adoption and utilization across the country. He said that technology must continue to serve as a powerful enabler for achieving Universal Health Coverage while ensuring inclusiveness, accessibility and ease of use for every citizen. Mr Nadda also underscored the transformative role of digital public infrastructure in improving access to quality healthcare, enhancing continuity of care and empowering citizens through secure and consent-based access to their health records. The meeting also deliberated on the future roadmap for the Mission with a focus on scaling up digital health adoption, leveraging emerging technologies including Artificial Intelligence, strengthening institutional capabilities and deepening collaboration with States and Union Territories.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T11:18:52+00:00",
+        "link": "https://newsonair.gov.in/next-phase-of-ayushman-bharat-digital-mission-focuses-on-maximum-adoption-utilization-j-p-nadda/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Ayush.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Railways approve 260 cr for Kavach deployment to enhance safety & operational efficiency",
+        "summary": "Indian Railways has approved 206 crore rupees for Kavach Deployment on 680 route kilometres of Northern Railway to enhance safety and operational efficiency. The project aimed at expanding the indigenous safety system across high-density and strategically important routes. The Railway Ministry said the provision of Kavach Version 4.0 will be implemented on the Rewari-Delhi and […]",
+        "article": "Indian Railways has approved 206 crore rupees for Kavach Deployment on 680 route kilometres of Northern Railway to enhance safety and operational efficiency. The project aimed at expanding the indigenous safety system across high-density and strategically important routes. The Railway Ministry said the provision of Kavach Version 4.0 will be implemented on the Rewari-Delhi and Shakurbasti-Bathinda sections of the Delhi Division. The system has been designed to significantly enhance railway safety by preventing Signal Passed at Danger incidents and train collisions. The Ministry said the system continuously monitors train movements, automatically applies brakes whenever necessary, and permits trains to operate safely at maximum permissible speeds. It also supports reliable train operations even during adverse weather conditions such as dense fog.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T10:52:13+00:00",
+        "link": "https://newsonair.gov.in/railways-approve-260-cr-for-kavach-deployment-to-enhance-safety-operational-efficiency/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Railways.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "world": [
+      {
+        "title": "Qatari delegation is in Iran, aims to boost mediation role, Iranian media says",
+        "summary": "Iranian state media has reported that a Qatari delegation is visiting Tehran in an effort by Doha to strengthen its role as a mediator following the recent escalation of hostilities in the Gulf region. The report said the visit comes after Qatar accused Iran of involvement in an alleged incident in the Strait of Hormuz, […]",
+        "article": "Iranian state media has reported that a Qatari delegation is visiting Tehran in an effort by Doha to strengthen its role as a mediator following the recent escalation of hostilities in the Gulf region. The report said the visit comes after Qatar accused Iran of involvement in an alleged incident in the Strait of Hormuz, followed by US strikes on Iranian military and civilian targets. It added that Qatari officials are holding talks with Iranian authorities to help de-escalate tensions and create conditions for wider negotiations. The discussions are reportedly being conducted in coordination with the United States.",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T04:08:42+00:00",
+        "link": "https://newsonair.gov.in/qatari-delegation-is-in-iran-aims-to-boost-mediation-role-iranian-media-says/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Palestinian Authority President Mahmoud Abbas announces legislative elections in late November",
+        "summary": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The […]",
+        "article": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The decree said the elections aim to strengthen democracy and complete the electoral process in Palestine.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:45:40+00:00",
+        "link": "https://newsonair.gov.in/palestinian-authority-president-mahmoud-abbas-announces-legislative-elections-in-late-november/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-3-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -524,8 +502,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T07:12:43+00:00",
         "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FIH-Hockey-Pro-League.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -535,8 +513,19 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T14:31:52+00:00",
         "link": "https://newsonair.gov.in/uk-expresses-concern-over-unrest-in-pojk-due-to-brutal-crackdown-on-civilians-by-pak-security-forces/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Iran accuses US of alleged airstrike near nuke power plant in Bushehr",
+        "summary": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the […]",
+        "article": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the United States launched new airstrikes against Iran, and Tehran responded by targeting US-allied countries in the West Asia in an exchange of fire that threatened an interim deal intended to help end the war in the West Asia. Sirens sounding at least three times in Bahrain, home to the US Navy&#8217;s 5th Fleet headquarters, and Iranian missiles targeting Kuwait and Qatar. Sirens sounded Thursday afternoon in Jordan as well, where the US has stationed troops and aircraft. In Iran, the two days of American airstrikes have killed at least 14 people and wounded another 78, according to Iran&#8217;s Health Ministry. Most of those reportedly members of the armed forces. Back-and-forth attacks, including a day earlier, have repeatedly threatened the ceasefire, but today&#8217;s exchange of fire appeared bigger all around. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz signalled the end of a fragile ceasefire and threatened to escalate the conflict if they did not stop.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T12:00:53+00:00",
+        "link": "https://newsonair.gov.in/iran-accuses-us-of-alleged-airstrike-near-nuke-power-plant-in-bushehr/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -546,8 +535,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T08:20:24+00:00",
         "link": "https://newsonair.gov.in/indian-diaspora-gathers-in-large-numbers-for-melbourne-meets-modi-event/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indian-diaspora-gathers-in-large-numbers-for-Melbourne-Meets-Modi-event.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -557,8 +546,19 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T08:11:13+00:00",
         "link": "https://newsonair.gov.in/wipo-report-reaffirms-indias-emergence-as-a-global-innovation-powerhouse/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-17.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "US launches fresh airstrikes on Iran; Tehran targets Bahrain, Kuwait and Qatar",
+        "summary": "The United States launched new airstrikes against Iran this morning. Tehran responded by targeting Bahrain, Kuwait and Qatar, escalating crossfire that again threatened an interim deal aimed at ending the war in the Persian Gulf. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of […]",
+        "article": "The United States launched new airstrikes against Iran this morning. Tehran responded by targeting Bahrain, Kuwait and Qatar, escalating crossfire that again threatened an interim deal aimed at ending the war in the Persian Gulf. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz had signalled the end of the fragile ceasefire. The US struck a range of military sites and port facilities early yesterday. The attacks followed Iran&#8217;s targeting of several merchant vessels off the coast of Oman, which triggered an Iranian response. Today&#8217;s attacks appeared to be larger on both sides. Sirens sounded at least twice in Bahrain, home to the US Navy&#8217;s 5th Fleet headquarters. There was no immediate word on damage in Bahrain, Kuwait or Qatar. Kuwait&#8217;s military said it was actively intercepting incoming drones and missiles. Iran&#8217;s Revolutionary Guard claimed responsibility for attacks on Bahrain and Kuwait. The US military&#8217;s Central Command said it struck about 90 targets across Iran. It also released black-and-white footage showing what appeared to be attacks on an airport runway and missile launchers. The US said the strikes were intended to “further degrade” Iran&#8217;s ability to threaten freedom of navigation in the Strait of Hormuz. Iranian state media reported explosions in several locations, including Bushehr, home to Iran&#8217;s nuclear power plant complex, and the southern port cities of Chabahar, Konarak, Bandar Abbas and Sirik. In Iranshahr, authorities said a strike killed a firefighter at an airport.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T06:20:24+00:00",
+        "link": "https://newsonair.gov.in/us-launches-fresh-airstrikes-on-iran-tehran-targets-bahrain-kuwait-and-qatar/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Akashvani-News.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -568,65 +568,32 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T05:36:48+00:00",
         "link": "https://newsonair.gov.in/pm-modi-welcomes-australiansupers-500-million-australian-dollar-investment-in-india/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260707682f.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Australia India Business Council highlights growing momentum of ‘Make with India’ initiative",
-        "summary": "Mr Vish Vishwanathan from the Australia-India Business Council highlighted the growing impact of the &#8220;Make with India&#8221; initiative. This industry chapter actively translates Prime Minister Narendra Modi’s &#8220;Make in India&#8221; vision into reality on Australian soil by fostering strategic corporate partnerships. &#160; Mr. Vishwanathan emphasised that this collaboration extends far",
-        "article": "Mr Vish Vishwanathan from the Australia-India Business Council highlighted the growing impact of the &#8220;Make with India&#8221; initiative. This industry chapter actively translates Prime Minister Narendra Modi’s &#8220;Make in India&#8221; vision into reality on Australian soil by fostering strategic corporate partnerships. &nbsp; Mr. Vishwanathan emphasised that this collaboration extends far beyond traditional trade, focusing on critical emerging sectors. Australian companies are being actively encouraged to partner with India in advanced manufacturing, clean energy, defence, and agribusiness. A particularly encouraging aspect of this bilateral relationship is the strong bipartisan political support it enjoys in Australia, ensuring continuity and growth regardless of political shifts. Central to this strengthening bridge is the more than one million-strong Indian diaspora. Describing them as a highly skilled and enthusiastic community, Mr. Vishwanathan, who has lived in Australia for over thirty-seven years while remaining a proud Indian passport holder, noted that the diaspora is uniquely positioned to drive this partnership forward, opening new chapters of mutual global growth.",
+        "title": "3rd BRICS Transport Ministers’ Meeting begins in Maharashtra’s Nagpur today",
+        "summary": "Meeting of the BRICS Transport Working Group has begun today in Nagpur on the occasion of the third BRICS Transport Ministers&#8217; Meeting under BRICS 2026 chairship of India. Addressing the media persons, after the Working Group meeting, Union Transport Secretary V. Umashankar said that senior officials deliberated on the main issues of circularity, mobility, […]",
+        "article": "Meeting of the BRICS Transport Working Group has begun today in Nagpur on the occasion of the third BRICS Transport Ministers&#8217; Meeting under BRICS 2026 chairship of India. Addressing the media persons, after the Working Group meeting, Union Transport Secretary V. Umashankar said that senior officials deliberated on the main issues of circularity, mobility, urban infrastructure, and sustainable development. Similarly, best practices in the transport sector and transportation issues were discussed in collaboration with these officials. Meanwhile, 3rd BRICS Transport Ministers&#8217; Meeting which is arranged on 11th and 12th of this month in city of Nagpur will be convened under India&#8217;s BRICS Chairship theme: &#8220;Building for Resilience, Innovation, Cooperation and Sustainability (BRICS)&#8221;. Union Transport Minister Nitin Gadkari will chair the BRICS Transport Ministers’ meeting on the 11th of this month, which will see the participation from Ministers of other member countries. Following the first two pivotal meetings of the Transport Working Group hosted by Russia and Brazil, this third iteration aims to deepen international transport cooperation. Over the two days, senior officials will review the progress of transport cooperation achieved since the Russian and Brazilian Chairships, exchange international best practices and deliberate on emerging areas of collaboration, including Sustainable Aviation Fuel (SAF), urban mobility, multi-modal transport, resilient logistics’ supply chains, decarbonisation and the adoption of expanding AI-based technologies.",
         "date": "2026-07-09",
-        "pubDate": "2026-07-09T05:20:07+00:00",
-        "link": "https://newsonair.gov.in/australia-india-business-council-highlights-growing-momentum-of-make-with-india-initiative/",
-        "image_url": "",
-        "image_credit": "",
+        "pubDate": "2026-07-09T05:27:31+00:00",
+        "link": "https://newsonair.gov.in/3rd-brics-transport-ministers-meeting-to-begin-in-maharashtras-nagpur-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/brics.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "sports": [
       {
-        "title": "Men’s Cricket: India to face England in fourth T20I in Bristol today",
-        "summary": "In Men&#8217;s Cricket, India will face England in the fourth T20 International of the five-match series at the County Ground in Bristol tonight. The match will begin at 10 PM IST. India trails the series 0-2, making this a must-win game to stay alive. Captain Shreyas Iyer and head coach Gautam Gambhir are under […]",
-        "article": "In Men&#8217;s Cricket, India will face England in the fourth T20 International of the five-match series at the County Ground in Bristol tonight. The match will begin at 10 PM IST. India trails the series 0-2, making this a must-win game to stay alive. Captain Shreyas Iyer and head coach Gautam Gambhir are under pressure after India&#8217;s heavy 125-run defeat in the third T20I match. One of the biggest selection questions is whether Sanju Samson will return to the playing XI after missing the last two matches. India&#8217;s batting has struggled throughout the series. Vice-captain Tilak Varma has failed to make an impact, while the bowling attack has also disappointed, with spinner Varun Chakaravarthy taking just one wicket so far. England, led by Harry Brook, enters the match with confidence. Opener Phil Salt is back in form after scoring 70 in the last game, while fast bowlers Jofra Archer and Josh Tongue have troubled India&#8217;s batters with their pace and bounce. England will aim to seal the series with another victory, while India hopes to bounce back and force the contest into the final T20I in Southampton on Saturday. Earlier, hosts England defeated India by 4 wickets in the second T20 International in Manchester. The first match between both the sides ended with no result due to rain.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T06:30:09+00:00",
-        "link": "https://newsonair.gov.in/mens-cricket-india-to-face-england-in-fourth-t20i-in-bristol-today/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Pollock_to_Hussey.jpg",
-        "image_credit": "Wikipedia – Cricket (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Telangana to Host 8th Khelo India Youth Games 2026",
-        "summary": "The 8th Khelo India Youth Games 2026 will be hosted by Telangana. Union Youth Affairs and Sports Minister Dr Mansukh Mandaviya made the announcement today. He said the Games will provide another platform for country&#8217;s youth to showcase their sporting talent. The Minister added that the initiative is driven by Prime Minister Narendra Modi&#8217;s vision to nurture […]",
-        "article": "The 8th Khelo India Youth Games 2026 will be hosted by Telangana. Union Youth Affairs and Sports Minister Dr Mansukh Mandaviya made the announcement today. He said the Games will provide another platform for country&#8217;s youth to showcase their sporting talent. The Minister added that the initiative is driven by Prime Minister Narendra Modi&#8217;s vision to nurture grassroots sporting talent across the country.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T12:26:57+00:00",
-        "link": "https://newsonair.gov.in/telangana-to-host-8th-khelo-india-youth-games-2026/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Khelo_India.svg/1280px-Khelo_India.svg.png",
-        "image_credit": "Wikipedia – Khelo India Youth Games (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "FIFA World Cup: Switzerland, Argentina enter quarterfinals",
-        "summary": "In football, Switzerland beat Colombia 4-3 in a penalty shootout in Vancouver to reach the quarterfinals of FIFA World Cup for the first time since 1954. Colombia faltered when Davinson Sánchez smashed his spot-kick against the bar and Cucho Hernández had his effort saved by goalkeeper Gregor Kobel, before Rubén Vargas scored to book a […]",
-        "article": "In football, Switzerland beat Colombia 4-3 in a penalty shootout in Vancouver to reach the quarterfinals of FIFA World Cup for the first time since 1954. Colombia faltered when Davinson Sánchez smashed his spot-kick against the bar and Cucho Hernández had his effort saved by goalkeeper Gregor Kobel, before Rubén Vargas scored to book a quarterfinal date with holders Argentina. The two sides were tied 0-0 after extra time. In another Round of 16 match, Argentina defeated Egypt 3-2 in Atlanta. Argentina was trailing by two goals till 78th minute when the defending champions pulled off a stunning comeback with Cristian Romaro scoring the first goal at 79 minutes. The equalizer came through Messi in 83 minutes while Enzo Fernandez completed the turnaround with the winner in the extra time. With this win Argentina entered the quarter finals of the tournament.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T01:18:40+00:00",
-        "link": "https://newsonair.gov.in/fifa-world-cup-switzerland-argentina-enter-quarterfinals/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpg",
-        "image_credit": "Wikipedia – FIFA World Cup (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Wimbledon: Defending champion Jannik Sinner storms into Men’s Singles semifinal",
-        "summary": "In the Wimbledon Tennis, World No. 1 and defending champion Jannik Sinner has stormed into Men&#8217;s Singles semifinal beating Jan-Lennard Struff of Germany. Sinner defeated Struff in straight sets 7-5, 7-6, 6-3 in the quarter-final match this evening. In Women&#8217;s Singles, Coco Gauff advanced to the Wimbledon semi-finals after defeating fellow American Jessica Pegula 4-6, […]",
-        "article": "In the Wimbledon Tennis, World No. 1 and defending champion Jannik Sinner has stormed into Men&#8217;s Singles semifinal beating Jan-Lennard Struff of Germany. Sinner defeated Struff in straight sets 7-5, 7-6, 6-3 in the quarter-final match this evening. In Women&#8217;s Singles, Coco Gauff advanced to the Wimbledon semi-finals after defeating fellow American Jessica Pegula 4-6, 6-3, 6-3 in a thrilling quarter-final match. In other quarter-finals tomorrow, Czech player Linda Nosková will face Belgian Elise Mertens while Ukrainian player Marta Kostyuk will take on Italian Jasmine Paolini.",
-        "date": "2026-07-07",
-        "pubDate": "2026-07-07T15:46:01+00:00",
-        "link": "https://newsonair.gov.in/wimbledon-tennis-ninth-seed-flavio-cobolli-enters-mens-singles-quarter-finals/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Jannik_Sinner_2025_US_Open.jpg",
-        "image_credit": "Wikipedia – Jannik Sinner (CC BY-SA)",
+        "title": "FIFA World Cup: Spain book spot in semi-finals, defeating Belgium 2-1; Norway to face England in third quarter-final today",
+        "summary": "In the FIFA World Cup, Spain has booked its place in the semi-finals, defeating Belgium 2-1 in the second quarter-final at Los Angeles Stadium in Inglewood, United States, last night. Earlier, France advanced to the semi-finals with a comfortable 2-Nil victory over Morocco in the first quarter-final in Boston. In the remaining quarter-finals, Norway will […]",
+        "article": "In the FIFA World Cup, Spain has booked its place in the semi-finals, defeating Belgium 2-1 in the second quarter-final at Los Angeles Stadium in Inglewood, United States, last night. Earlier, France advanced to the semi-finals with a comfortable 2-Nil victory over Morocco in the first quarter-final in Boston. In the remaining quarter-finals, Norway will face England at Miami Gardens tonight. The match will begin at 2:30 a.m. Indian Standard Time. Defending champions Argentina will take on Switzerland in the fourth quarter-final at Kansas City tomorrow.",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T04:12:48+00:00",
+        "link": "https://newsonair.gov.in/fifa-world-cup-spain-book-spot-in-semi-finals-defeating-belgium-2-1-norway-to-face-england-in-third-quarter-final-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/fifa-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -636,8 +603,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T15:50:12+00:00",
         "link": "https://newsonair.gov.in/govt-orders-recognised-sports-federations-to-publish-qualifications-selection-process-for-la-olympics/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/LA.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -647,8 +614,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T15:46:30+00:00",
         "link": "https://newsonair.gov.in/wimbledon-marta-kostyuk-linda-noskova-enter-womens-singles-semi-finals/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Wimbeldon-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -658,8 +625,19 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T08:00:16+00:00",
         "link": "https://newsonair.gov.in/indian-pickleball-association-announces-squad-for-pickleball-world-cup-2026/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indian-Pickleball-Association.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Men’s Cricket: India to face England in fourth T20I in Bristol today",
+        "summary": "In Men&#8217;s Cricket, India will face England in the fourth T20 International of the five-match series at the County Ground in Bristol tonight. The match will begin at 10 PM IST. India trails the series 0-2, making this a must-win game to stay alive. Captain Shreyas Iyer and head coach Gautam Gambhir are under […]",
+        "article": "In Men&#8217;s Cricket, India will face England in the fourth T20 International of the five-match series at the County Ground in Bristol tonight. The match will begin at 10 PM IST. India trails the series 0-2, making this a must-win game to stay alive. Captain Shreyas Iyer and head coach Gautam Gambhir are under pressure after India&#8217;s heavy 125-run defeat in the third T20I match. One of the biggest selection questions is whether Sanju Samson will return to the playing XI after missing the last two matches. India&#8217;s batting has struggled throughout the series. Vice-captain Tilak Varma has failed to make an impact, while the bowling attack has also disappointed, with spinner Varun Chakaravarthy taking just one wicket so far. England, led by Harry Brook, enters the match with confidence. Opener Phil Salt is back in form after scoring 70 in the last game, while fast bowlers Jofra Archer and Josh Tongue have troubled India&#8217;s batters with their pace and bounce. England will aim to seal the series with another victory, while India hopes to bounce back and force the contest into the final T20I in Southampton on Saturday. Earlier, hosts England defeated India by 4 wickets in the second T20 International in Manchester. The first match between both the sides ended with no result due to rain.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T06:30:09+00:00",
+        "link": "https://newsonair.gov.in/mens-cricket-india-to-face-england-in-fourth-t20i-in-bristol-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/crics.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -669,8 +647,19 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T05:32:30+00:00",
         "link": "https://newsonair.gov.in/indias-arnav-paparkar-reaches-wimbledon-juniors-boys-singles-quarter-finals/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Telangana to Host 8th Khelo India Youth Games 2026",
+        "summary": "The 8th Khelo India Youth Games 2026 will be hosted by Telangana. Union Youth Affairs and Sports Minister Dr Mansukh Mandaviya made the announcement today. He said the Games will provide another platform for country&#8217;s youth to showcase their sporting talent. The Minister added that the initiative is driven by Prime Minister Narendra Modi&#8217;s vision to nurture […]",
+        "article": "The 8th Khelo India Youth Games 2026 will be hosted by Telangana. Union Youth Affairs and Sports Minister Dr Mansukh Mandaviya made the announcement today. He said the Games will provide another platform for country&#8217;s youth to showcase their sporting talent. The Minister added that the initiative is driven by Prime Minister Narendra Modi&#8217;s vision to nurture grassroots sporting talent across the country.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T12:26:57+00:00",
+        "link": "https://newsonair.gov.in/telangana-to-host-8th-khelo-india-youth-games-2026/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/khelo-india.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -680,8 +669,8 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T11:43:51+00:00",
         "link": "https://newsonair.gov.in/fifa-world-cup-quarter-final-lineup-finalised/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats-5-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -691,8 +680,19 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T01:27:33+00:00",
         "link": "https://newsonair.gov.in/england-beat-india-by-125-runs-in-third-t20i/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/England-beat-India-by-125-runs-in-third-T20I.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "FIFA World Cup: Switzerland, Argentina enter quarterfinals",
+        "summary": "In football, Switzerland beat Colombia 4-3 in a penalty shootout in Vancouver to reach the quarterfinals of FIFA World Cup for the first time since 1954. Colombia faltered when Davinson Sánchez smashed his spot-kick against the bar and Cucho Hernández had his effort saved by goalkeeper Gregor Kobel, before Rubén Vargas scored to book a […]",
+        "article": "In football, Switzerland beat Colombia 4-3 in a penalty shootout in Vancouver to reach the quarterfinals of FIFA World Cup for the first time since 1954. Colombia faltered when Davinson Sánchez smashed his spot-kick against the bar and Cucho Hernández had his effort saved by goalkeeper Gregor Kobel, before Rubén Vargas scored to book a quarterfinal date with holders Argentina. The two sides were tied 0-0 after extra time. In another Round of 16 match, Argentina defeated Egypt 3-2 in Atlanta. Argentina was trailing by two goals till 78th minute when the defending champions pulled off a stunning comeback with Cristian Romaro scoring the first goal at 79 minutes. The equalizer came through Messi in 83 minutes while Enzo Fernandez completed the turnaround with the winner in the extra time. With this win Argentina entered the quarter finals of the tournament.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T01:18:40+00:00",
+        "link": "https://newsonair.gov.in/fifa-world-cup-switzerland-argentina-enter-quarterfinals/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/2026-FIFA-World-Cup-begins-today-across-United-States-Canada-and-Mexico.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
@@ -704,8 +704,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T12:51:18+00:00",
         "link": "https://newsonair.gov.in/oil-prices-up-5/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Price_Utah.jpg/1280px-Price_Utah.jpg",
-        "image_credit": "Wikimedia Commons (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -715,8 +715,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T11:43:52+00:00",
         "link": "https://newsonair.gov.in/gold-silver-prices-down-5/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/1280px-Gold-crystals.jpg",
-        "image_credit": "Wikipedia – Gold (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/gold-silver.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -726,30 +726,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T11:00:31+00:00",
         "link": "https://newsonair.gov.in/sip-contributions-increased-by-2-7-in-june-compared-to-may/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Podophyllum_peltatum_Shenks_Ferry_2.jpg/1280px-Podophyllum_peltatum_Shenks_Ferry_2.jpg",
-        "image_credit": "Wikipedia – May (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Rupee appreciates by 18 paise to close at 95.38 against US dollar",
-        "summary": "In the forex market today, the rupee appreciated by 18 paise to close at 95 rupees and 38 paise against the US dollar. The dollar index, which indicates the US dollar&#8217;s strength against a basket of six other leading currencies, was trading at 101 in intra-day trade today.",
-        "article": "In the forex market today, the rupee appreciated by 18 paise to close at 95 rupees and 38 paise against the US dollar. The dollar index, which indicates the US dollar&#8217;s strength against a basket of six other leading currencies, was trading at 101 in intra-day trade today.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T11:40:30+00:00",
-        "link": "https://newsonair.gov.in/rupee-appreciates-by-18-paise-to-close-at-95-38-against-us-dollar/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Rupee_Usage.png/1280px-Rupee_Usage.png",
-        "image_credit": "Wikipedia – Rupee (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EPFO to Credit 8.25% Interest for FY 2025-26 by July 15",
-        "summary": "The Employees&#8217; Provident Fund Organisation (EPFO) will complete the credit of 8.25 percent interest for the financial year 2025-26 into nearly 34 crore EPF accounts by 15th of July. Union Labour and Employment Minister Dr Mansukh Mandaviya said that over 1.44 lakh crore rupees will be credited to subscribers through its new Centralised IT Enabled […]",
-        "article": "The Employees&#8217; Provident Fund Organisation (EPFO) will complete the credit of 8.25 percent interest for the financial year 2025-26 into nearly 34 crore EPF accounts by 15th of July. Union Labour and Employment Minister Dr Mansukh Mandaviya said that over 1.44 lakh crore rupees will be credited to subscribers through its new Centralised IT Enabled Services (CITES) system. The Minister said that the EPFO has completed the process of migrating its entire database of member records from decentralised architecture to the new centralised database. Under the new system, EPF members will have access to a unified member portal where they can view membership details, PF balances, claim status, pensionable service records and benefits through a single interface. The Minister said that the CITES platform also introduces automated pre-validation of claims. Before a withdrawal request reaches an EPFO office, the system will verify eligibility, identify deficiencies and inform members if they are attempting to claim more than the permissible amount. The move is expected to reduce claim rejections and improve first-time claim acceptance rates. The CITES Project is an initiative to modernize EPFO&#8217;s service delivery through automation and rule-based processing. The project is designed to enhance member convenience, improve EPFO operational efficiency, thereby deliver transparent, and seamless citizen-centric services.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T12:00:11+00:00",
-        "link": "https://newsonair.gov.in/epfo-to-credit-8-25-interest-for-fy-2025-26-by-july-15/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Malawi_interest_rates.JPG",
-        "image_credit": "Wikipedia – Interest (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/01/SIP-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -759,8 +737,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T10:51:21+00:00",
         "link": "https://newsonair.gov.in/domestic-markets-end-with-modest-gains-despite-positive-opening/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/SENSEX.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -770,19 +748,19 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T15:57:07+00:00",
         "link": "https://newsonair.gov.in/govt-waives-basic-customs-duty-on-key-components-of-electronic-devices-to-promote-domestic-production/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Electronics.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Asian markets end on positive note",
-        "summary": "Most Asian stock market indices ended on a positive note today. China&#8217;s Shanghai Composite index climbed over 1.6 per cent, Japan&#8217;s Nikkei 225 gained 1.4 per cent, Singapore’s Strait Times index added 1.2 per cent and South Korea&#8217;s Kospi rose over 0.6 per cent. In contrast, Taiwan&#8217;s Taiex dropped over 0.8 per cent, and Hong […]",
-        "article": "Most Asian stock market indices ended on a positive note today. China&#8217;s Shanghai Composite index climbed over 1.6 per cent, Japan&#8217;s Nikkei 225 gained 1.4 per cent, Singapore’s Strait Times index added 1.2 per cent and South Korea&#8217;s Kospi rose over 0.6 per cent. In contrast, Taiwan&#8217;s Taiex dropped over 0.8 per cent, and Hong Kong’s Hang Seng index slipped 0.7 per cent. On the economic front, China’s Consumer prices rose one per cent in June from a year ago, down from 1.2 per cent in May, according to data released by the National Bureau of Statistics today. Meanwhile, the producer price index jumped 4.1 per cent on an annual basis, up from 3.9 per cent in May. Major European indices were trading on a mixed note today. France’s CAC 40 rose 0.3 per cent, Germany’s DAX added 0.1 per cent, while London’s FTSE 100 was trading 0.6 per cent down, when reports last came in.",
+        "title": "Rupee appreciates by 18 paise to close at 95.38 against US dollar",
+        "summary": "In the forex market today, the rupee appreciated by 18 paise to close at 95 rupees and 38 paise against the US dollar. The dollar index, which indicates the US dollar&#8217;s strength against a basket of six other leading currencies, was trading at 101 in intra-day trade today.",
+        "article": "In the forex market today, the rupee appreciated by 18 paise to close at 95 rupees and 38 paise against the US dollar. The dollar index, which indicates the US dollar&#8217;s strength against a basket of six other leading currencies, was trading at 101 in intra-day trade today.",
         "date": "2026-07-09",
-        "pubDate": "2026-07-09T11:30:06+00:00",
-        "link": "https://newsonair.gov.in/asian-markets-send-on-positive-note/",
-        "image_url": "",
-        "image_credit": "",
+        "pubDate": "2026-07-09T11:40:30+00:00",
+        "link": "https://newsonair.gov.in/rupee-appreciates-by-18-paise-to-close-at-95-38-against-us-dollar/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/02/rupee.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -792,8 +770,19 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T00:30:44+00:00",
         "link": "https://newsonair.gov.in/imf-projects-india-to-remain-worlds-fastest-growing-major-economy/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/IMF.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EPFO to Credit 8.25% Interest for FY 2025-26 by July 15",
+        "summary": "The Employees&#8217; Provident Fund Organisation (EPFO) will complete the credit of 8.25 percent interest for the financial year 2025-26 into nearly 34 crore EPF accounts by 15th of July. Union Labour and Employment Minister Dr Mansukh Mandaviya said that over 1.44 lakh crore rupees will be credited to subscribers through its new Centralised IT Enabled […]",
+        "article": "The Employees&#8217; Provident Fund Organisation (EPFO) will complete the credit of 8.25 percent interest for the financial year 2025-26 into nearly 34 crore EPF accounts by 15th of July. Union Labour and Employment Minister Dr Mansukh Mandaviya said that over 1.44 lakh crore rupees will be credited to subscribers through its new Centralised IT Enabled Services (CITES) system. The Minister said that the EPFO has completed the process of migrating its entire database of member records from decentralised architecture to the new centralised database. Under the new system, EPF members will have access to a unified member portal where they can view membership details, PF balances, claim status, pensionable service records and benefits through a single interface. The Minister said that the CITES platform also introduces automated pre-validation of claims. Before a withdrawal request reaches an EPFO office, the system will verify eligibility, identify deficiencies and inform members if they are attempting to claim more than the permissible amount. The move is expected to reduce claim rejections and improve first-time claim acceptance rates. The CITES Project is an initiative to modernize EPFO&#8217;s service delivery through automation and rule-based processing. The project is designed to enhance member convenience, improve EPFO operational efficiency, thereby deliver transparent, and seamless citizen-centric services.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T12:00:11+00:00",
+        "link": "https://newsonair.gov.in/epfo-to-credit-8-25-interest-for-fy-2025-26-by-july-15/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/epfo.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -803,6 +792,17 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T00:34:42+00:00",
         "link": "https://newsonair.gov.in/india-ensures-uninterrupted-lpg-supply-by-strengthening-domestic-production-effective-diplomacy-hardeep-puri/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Hardeep.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Asian markets end on positive note",
+        "summary": "Most Asian stock market indices ended on a positive note today. China&#8217;s Shanghai Composite index climbed over 1.6 per cent, Japan&#8217;s Nikkei 225 gained 1.4 per cent, Singapore’s Strait Times index added 1.2 per cent and South Korea&#8217;s Kospi rose over 0.6 per cent. In contrast, Taiwan&#8217;s Taiex dropped over 0.8 per cent, and Hong […]",
+        "article": "Most Asian stock market indices ended on a positive note today. China&#8217;s Shanghai Composite index climbed over 1.6 per cent, Japan&#8217;s Nikkei 225 gained 1.4 per cent, Singapore’s Strait Times index added 1.2 per cent and South Korea&#8217;s Kospi rose over 0.6 per cent. In contrast, Taiwan&#8217;s Taiex dropped over 0.8 per cent, and Hong Kong’s Hang Seng index slipped 0.7 per cent. On the economic front, China’s Consumer prices rose one per cent in June from a year ago, down from 1.2 per cent in May, according to data released by the National Bureau of Statistics today. Meanwhile, the producer price index jumped 4.1 per cent on an annual basis, up from 3.9 per cent in May. Major European indices were trading on a mixed note today. France’s CAC 40 rose 0.3 per cent, Germany’s DAX added 0.1 per cent, while London’s FTSE 100 was trading 0.6 per cent down, when reports last came in.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T11:30:06+00:00",
+        "link": "https://newsonair.gov.in/asian-markets-send-on-positive-note/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -816,19 +816,8 @@ window.VM_NEWS = {
         "date": "2026-06-04",
         "pubDate": "2026-06-04T08:26:03+00:00",
         "link": "https://newsonair.gov.in/veteran-producer-and-former-cbfc-chairperson-pahlaj-nihalani-passes-away/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sydney_2015_Anzac_Day_march_%2817119683648%29.jpg/1280px-Sydney_2015_Anzac_Day_march_%2817119683648%29.jpg",
-        "image_credit": "Wikipedia – Veteran (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "UK Named Country Partner for Hornbill Festival 2025 in Nagaland",
-        "summary": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence […]",
-        "article": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence of British High Commissioner to India Lindy Cameron, and senior representatives from both sides at New Delhi. Under this partnership, the British Council, working with the British Deputy High Commission in Kolkata, will curate meaningful programming for the festival, including bringing an artist from the UK to participate in the festival. The state also named Air India Express as the Official Travel Partner for the Hornbill Festival. The partnership was announced by Advisor to Chief Minister, Abu Metha and Managing Director, Air India Express, Aloke Singh, at the airline&#8217;s headquarters in Gurugram in the presence of several key officials. As part of the collaboration, Air India Express will introduce a Boeing 737-8 aircraft featuring a livery inspired by the Tsüngkotepsü design of the Ao Naga tribe’s warrior shawl, under its ‘Tales of India’ initiative. The special aircraft will be received by Chief Minister Neiphiu Rio at Dimapur Airport on November 22. The airline will also offer a 15 percent discount on flights to and from Nagaland, starting November 20. Welcoming the partnerships, Chief Minister Neiphiu Rio expressed hopes that the ties will drive tourism, cultural exchange, and economic growth.",
-        "date": "2025-11-18",
-        "pubDate": "2025-11-18T06:24:16+00:00",
-        "link": "https://newsonair.gov.in/uk-named-country-partner-for-hornbill-festival-2025-in-nagaland/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kapamodzu.jpg/1280px-Kapamodzu.jpg",
-        "image_credit": "Wikipedia – Nagaland (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/pahln.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -838,8 +827,8 @@ window.VM_NEWS = {
         "date": "2025-12-25",
         "pubDate": "2025-12-25T06:41:17+00:00",
         "link": "https://newsonair.gov.in/150th-shree-baba-harivallabh-sangeet-sammelan-begins-in-jalandhar-tomorrow/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/hargobind.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -849,8 +838,8 @@ window.VM_NEWS = {
         "date": "2025-11-27",
         "pubDate": "2025-11-27T07:31:40+00:00",
         "link": "https://newsonair.gov.in/goa-cm-releases-commemorative-stamp-honouring-filmmaker-k-vaikunth-at-iffi-56/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/pramod.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -860,8 +849,19 @@ window.VM_NEWS = {
         "date": "2025-11-18",
         "pubDate": "2025-11-18T08:00:22+00:00",
         "link": "https://newsonair.gov.in/media-and-entertainment-sector-among-indias-fastest-growing-industries/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/media.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "UK Named Country Partner for Hornbill Festival 2025 in Nagaland",
+        "summary": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence […]",
+        "article": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence of British High Commissioner to India Lindy Cameron, and senior representatives from both sides at New Delhi. Under this partnership, the British Council, working with the British Deputy High Commission in Kolkata, will curate meaningful programming for the festival, including bringing an artist from the UK to participate in the festival. The state also named Air India Express as the Official Travel Partner for the Hornbill Festival. The partnership was announced by Advisor to Chief Minister, Abu Metha and Managing Director, Air India Express, Aloke Singh, at the airline&#8217;s headquarters in Gurugram in the presence of several key officials. As part of the collaboration, Air India Express will introduce a Boeing 737-8 aircraft featuring a livery inspired by the Tsüngkotepsü design of the Ao Naga tribe’s warrior shawl, under its ‘Tales of India’ initiative. The special aircraft will be received by Chief Minister Neiphiu Rio at Dimapur Airport on November 22. The airline will also offer a 15 percent discount on flights to and from Nagaland, starting November 20. Welcoming the partnerships, Chief Minister Neiphiu Rio expressed hopes that the ties will drive tourism, cultural exchange, and economic growth.",
+        "date": "2025-11-18",
+        "pubDate": "2025-11-18T06:24:16+00:00",
+        "link": "https://newsonair.gov.in/uk-named-country-partner-for-hornbill-festival-2025-in-nagaland/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/hornbill.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -871,8 +871,8 @@ window.VM_NEWS = {
         "date": "2025-11-17",
         "pubDate": "2025-11-17T04:43:41+00:00",
         "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-urges-media-to-be-partners-in-nation-building-at-ramoji-excellence-awards-2025/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/CP-radha.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -882,8 +882,8 @@ window.VM_NEWS = {
         "date": "2025-11-02",
         "pubDate": "2025-11-02T16:25:04+00:00",
         "link": "https://newsonair.gov.in/prasar-bharati-and-culture-ministry-launch-month-long-akashvani-sangeet-sammelan-nationwide/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/akashvani.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -893,8 +893,8 @@ window.VM_NEWS = {
         "date": "2025-08-22",
         "pubDate": "2025-08-22T06:34:48+00:00",
         "link": "https://newsonair.gov.in/comedian-and-veteran-punjabi-actor-jaswinder-bhalla-passes-away/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/bhalla.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -904,8 +904,8 @@ window.VM_NEWS = {
         "date": "2025-08-21",
         "pubDate": "2025-08-21T05:59:25+00:00",
         "link": "https://newsonair.gov.in/biff-2025-shape-of-momo-to-premiere-in-vision-section-of-asias-biggest-film-festival/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/bfii.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -915,23 +915,12 @@ window.VM_NEWS = {
         "date": "2025-02-17",
         "pubDate": "2025-02-17T02:02:43+00:00",
         "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-strengthens-ties-with-indian-ocean-nations-at-muscat-conference/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/02/cats-476.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "lifestyle": [
-      {
-        "title": "Chikungunya Outbreak in China: Over 7,000 Cases Emerge in Guangdong",
-        "summary": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. […]",
-        "article": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. Apart from Foshan, at least 12 other cities in China&#8217;s southern Guangdong province have reported infections from this a mosquito-borne virus, with nearly 3,000 cases got reported last week. Although rare in China, chikungunya outbreaks are common in South and South East Asia and parts of Africa. On Monday, Hong Kong reported its first case of the viral disease after a 12-year-old boy who developed fever, rash and joint pain after traveling to Foshan in July. An official said, all the reported cases have been mild so far, with 95 per cent of the patients discharged within seven days, Still, the cases have led to some panic, given the virus is not widely known in the country. Meanwhile, the US has urged travellers to China to exercise &#8220;increased caution&#8221; following the outbreak.",
-        "date": "2025-08-05",
-        "pubDate": "2025-08-05T12:03:13+00:00",
-        "link": "https://newsonair.gov.in/chikungunya-outbreak-in-china-over-7000-cases-emerge-in-guangdong/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg/1280px-China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg",
-        "image_credit": "Wikipedia – Guangdong (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
       {
         "title": "Health Minister JP Nadda Urges Citizens to Eliminate TB on World Tuberculosis Day",
         "summary": "Health and Family Welfare Minister Jagat Prakash Nadda today called on citizens to eliminate TB and ensure better health for all, especially the most vulnerable, on the occasion of World Tuberculosis Day. In a social media post, the Health Minister said that India has made notable progress through the National TB Elimination Programme, strengthening efforts […]",
@@ -939,8 +928,8 @@ window.VM_NEWS = {
         "date": "2026-03-24",
         "pubDate": "2026-03-24T07:13:43+00:00",
         "link": "https://newsonair.gov.in/health-minister-jp-nadda-urges-citizens-to-eliminate-tb-on-world-tuberculosis-day/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/TB-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -950,8 +939,8 @@ window.VM_NEWS = {
         "date": "2026-03-24",
         "pubDate": "2026-03-24T06:13:25+00:00",
         "link": "https://newsonair.gov.in/india-tightens-surveillance-on-glp-1-weight-loss-drug-sales/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/wei.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -961,8 +950,8 @@ window.VM_NEWS = {
         "date": "2026-01-13",
         "pubDate": "2026-01-13T11:18:49+00:00",
         "link": "https://newsonair.gov.in/vp-radhakrishnan-urges-youth-to-be-drug-free-for-a-viksit-bharat/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/vp-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -972,8 +961,8 @@ window.VM_NEWS = {
         "date": "2026-01-13",
         "pubDate": "2026-01-13T03:53:37+00:00",
         "link": "https://newsonair.gov.in/west-bengal-reports-two-suspected-nipah-cases-centre-sends-response-team/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/09/nipha.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -983,8 +972,19 @@ window.VM_NEWS = {
         "date": "2025-08-13",
         "pubDate": "2025-08-13T11:11:04+00:00",
         "link": "https://newsonair.gov.in/wild-poliovirus-detected-in-sewage-samples-across-42-sites-in-pakistan/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/PPPPP.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Chikungunya Outbreak in China: Over 7,000 Cases Emerge in Guangdong",
+        "summary": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. […]",
+        "article": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. Apart from Foshan, at least 12 other cities in China&#8217;s southern Guangdong province have reported infections from this a mosquito-borne virus, with nearly 3,000 cases got reported last week. Although rare in China, chikungunya outbreaks are common in South and South East Asia and parts of Africa. On Monday, Hong Kong reported its first case of the viral disease after a 12-year-old boy who developed fever, rash and joint pain after traveling to Foshan in July. An official said, all the reported cases have been mild so far, with 95 per cent of the patients discharged within seven days, Still, the cases have led to some panic, given the virus is not widely known in the country. Meanwhile, the US has urged travellers to China to exercise &#8220;increased caution&#8221; following the outbreak.",
+        "date": "2025-08-05",
+        "pubDate": "2025-08-05T12:03:13+00:00",
+        "link": "https://newsonair.gov.in/chikungunya-outbreak-in-china-over-7000-cases-emerge-in-guangdong/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/chikungunya.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -994,8 +994,8 @@ window.VM_NEWS = {
         "date": "2025-08-05",
         "pubDate": "2025-08-05T02:16:32+00:00",
         "link": "https://newsonair.gov.in/pm-matru-vandana-yojana-registration-drive-extended-till-august-15/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/pradhanmantri-matri-vandana-yojana-pmmvy.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1005,8 +1005,8 @@ window.VM_NEWS = {
         "date": "2025-07-28",
         "pubDate": "2025-07-28T03:24:29+00:00",
         "link": "https://newsonair.gov.in/vaccines-prevented-over-2-5-million-covid-deaths-worldwide-study/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/07/ffd.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1016,8 +1016,8 @@ window.VM_NEWS = {
         "date": "2025-07-14",
         "pubDate": "2025-07-14T11:41:18+00:00",
         "link": "https://newsonair.gov.in/world-embracing-ayurvedas-science-and-potential-ayush-minister/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/Pratap-Rao-Jadhav-1-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ]
@@ -1025,111 +1025,135 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
-        "title": "पिछले 18 महीनों में निधि कटौती के कारण लगभग दस लाख महिलाएं आवश्यक मानवीय सहायता से वंचित: संयुक्त राष्ट्र महिला संगठन, संयुक्त राष्ट्र",
-        "summary": "संयुक्त राष्ट्र की संस्था संयुक्त राष्ट्र महिला संगठन ने कहा है कि पिछले 18 महीनों में निधि कटौती के कारण लगभग दस लाख महिलाएं आवश्यक मानवीय सहायता से वंचित रह गई हैं। संस्था ने कहा कि जनवरी 2025 में अमरीकी राष्ट्रपति डॉनाल्ड ट्रम्प के पदभार ग्रहण करने के बाद विदेशी सहायता में की गई कटौती […]",
-        "article": "संयुक्त राष्ट्र की संस्था संयुक्त राष्ट्र महिला संगठन ने कहा है कि पिछले 18 महीनों में निधि कटौती के कारण लगभग दस लाख महिलाएं आवश्यक मानवीय सहायता से वंचित रह गई हैं। संस्था ने कहा कि जनवरी 2025 में अमरीकी राष्ट्रपति डॉनाल्ड ट्रम्प के पदभार ग्रहण करने के बाद विदेशी सहायता में की गई कटौती के बाद स्थिति और भी खराब हो गई। अमरीका और अन्य प्रमुख दानदाताओं द्वारा सहायता में कटौती के कारण अन्य संयुक्त राष्ट्र एजेंसियों को भी कर्मचारियों की संख्या कम करनी पड़ी है और दुनिया भर में कार्यक्रमों को सीमित करना पड़ा है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:30:54+00:00",
-        "link": "https://newsonair.gov.in/hi/approximately-one-million-women-have-been-deprived-of-essential-humanitarian-aid-due-to-funding-cuts-over-the-past-18-months/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "वेनेज़ुएला में पिछले महीने आए शक्तिशाली भूकंप में मरने वालों का आंकड़ा 4 हज़ार के पार",
+        "summary": "वेनेज़ुएला में पिछले महीने आए दो शक्तिशाली भूकंपों में मरने वालों की संख्या 4 हजार से अधिक हो गई है। वेनेज़ुएला संसद प्रमुख जॉर्ज रोड्रिगेज़ के अनुसार, अब तक 4 हजार 118 लोगों की मौत हो चुकी है और 16 हजार 740 लोग घायल हुए हैं। वहीं, हजारों लोग अब भी लापता हैं। 24 जून […]",
+        "article": "वेनेज़ुएला में पिछले महीने आए दो शक्तिशाली भूकंपों में मरने वालों की संख्या 4 हजार से अधिक हो गई है। वेनेज़ुएला संसद प्रमुख जॉर्ज रोड्रिगेज़ के अनुसार, अब तक 4 हजार 118 लोगों की मौत हो चुकी है और 16 हजार 740 लोग घायल हुए हैं। वहीं, हजारों लोग अब भी लापता हैं। 24 जून को आए 7.2 और 7.5 तीव्रता के भूकंपों से ला गुएरा प्रांत में भारी तबाही हुई थी। संयुक्त राष्ट्र ने राहत और पुनर्वास कार्यों के लिए लगभग 30 करोड़ अमरीकी डॉलर की सहायता की अपील की है।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T06:01:15+00:00",
+        "link": "https://newsonair.gov.in/hi/the-death-toll-from-the-powerful-earthquake-that-struck-venezuela-last-month-has-crossed-4000/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "भारत-ओमान के बीच खाड़ी क्षेत्र में शांति तथा स्थिरता सुनिश्चित करने के प्रयासों पर व्यापक विचार-विमर्श",
-        "summary": "विदेश मंत्री डॉ. एस. जयशंकर ने आज मस्कत में ओमान के विदेश मंत्री बदर-बिन-हमद-अल बुसैदी से मुलाकात की और दोनों देशों के बीच सहयोग के विभिन्न पहलुओं पर चर्चा की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि चर्चा व्यापार, निवेश, संपर्क, समुद्री क्षेत्र, प्रौद्योगिकी, रक्षा और साइबर तथा एआई क्षेत्रों पर केंद्रित रही। […]",
-        "article": "विदेश मंत्री डॉ. एस. जयशंकर ने आज मस्कत में ओमान के विदेश मंत्री बदर-बिन-हमद-अल बुसैदी से मुलाकात की और दोनों देशों के बीच सहयोग के विभिन्न पहलुओं पर चर्चा की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि चर्चा व्यापार, निवेश, संपर्क, समुद्री क्षेत्र, प्रौद्योगिकी, रक्षा और साइबर तथा एआई क्षेत्रों पर केंद्रित रही। दोनों नेताओं ने खाड़ी क्षेत्र में हो रहे घटनाक्रमों और क्षेत्र में शांति तथा स्थिरता सुनिश्चित करने के प्रयासों पर भी व्यापक विचार-विमर्श किया। डॉ. जयशंकर ने कहा कि चर्चा से दोनों देशों के बीच रणनीतिक साझेदारी के विश्&#x200d;वास और मजबूती का पता चलता है। इस बीच, ओमान के विदेश मंत्री ने कहा कि भारत और ओमान के बीच सदियों पुराने समुद्री संबंध दोनों देशों के लोगों को सदियों से जोड़ते रहे हैं और एक-दूसरे के बीच साझेदारी के लिए मजबूत आधार प्रदान करते हैं। सोशल मीडिया पोस्ट में श्री बदर अल बुसैदी ने कहा कि दोनों नेताओं ने होर्मुज जलडमरूमध्य में नौवहन की स्वतंत्रता सुनिश्चित करने के लिए गहन कूटनीति पर चर्चा की और भारत का उसके समर्थन के लिए आभार व्&#x200d;यक्&#x200d;त किया।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:25:34+00:00",
-        "link": "https://newsonair.gov.in/hi/india-and-oman-held-discussion-to-ensure-peace-and-stability-in-the-gulf/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Oman-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "भारत-न्यूजीलैंड द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाने पर सहमत: विदेश मंत्रालय",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने आज ऑकलैंड में वार्ता की। विदेश मंत्रालय में पूर्वी देशों के प्रभारी सचिव, रूद्रेंद्र टंडन ने ऑकलैंड में संवाददाता सम्मेलन में बताया कि दोनों नेता द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाने पर सहमत हुए हैं। श्री टंडन ने बताया कि श्री मोदी और श्री […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने आज ऑकलैंड में वार्ता की। विदेश मंत्रालय में पूर्वी देशों के प्रभारी सचिव, रूद्रेंद्र टंडन ने ऑकलैंड में संवाददाता सम्मेलन में बताया कि दोनों नेता द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाने पर सहमत हुए हैं। श्री टंडन ने बताया कि श्री मोदी और श्री लक्सन ने आगामी 4 वर्षों में साझा रूप से काम करने के लिए भारत-न्यूजीलैंड रणनीतिक साझेदारी-2030 तक की रूपरेखा को भी मंजूरी दी है। उन्होंने कहा कि इसका उद्देश्य द्विपक्षीय संबंधों को और मज़बूत करना है।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T05:56:23+00:00",
+        "link": "https://newsonair.gov.in/hi/agreed-to-elevate-india-new-zealand-bilateral-relations-to-a-strategic-partnership-ministry-of-external-affairs/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "स्पेन में भीषण आग के कारण 12 लोगों की मौत, 8 घायल",
-        "summary": "दक्षिणी स्पेन में, भीषण आग के कारण 12 लोगों की मौत हो गई और 8 लोग घायल हुए। यह आग लोकप्रिय पर्यटन स्थल अल्मेरिया में लगी। 300 से अधिक आपातकालीन कर्मी आग को बुझाने में जुटे हुए हैं। अधिकारियों ने आग लगने का कारण अभी तक स्पष्ट नहीं किया है। स्पेन में इस समय […]",
-        "article": "दक्षिणी स्पेन में, भीषण आग के कारण 12 लोगों की मौत हो गई और 8 लोग घायल हुए। यह आग लोकप्रिय पर्यटन स्थल अल्मेरिया में लगी। 300 से अधिक आपातकालीन कर्मी आग को बुझाने में जुटे हुए हैं। अधिकारियों ने आग लगने का कारण अभी तक स्पष्ट नहीं किया है। स्पेन में इस समय भीषण गर्मी के कारण तापमान 40 डिग्री सेल्सियस के आसपास बना हुआ है। उच्च तापमान, तेज हवाओं और लंबे समय तक सूखे की स्थिति के कारण छोटी-छोटी आग भी तेजी से फैल जाती हैं।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T14:09:44+00:00",
-        "link": "https://newsonair.gov.in/hi/12-people-die-in-a-massive-fire-in-spain/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "विश्व जनसंख्या दिवस आज: बढ़ती जनसंख्या से जुड़ी चुनौतियों के प्रति जागरूकता बढ़ाना है उद्देश्य",
+        "summary": "आज विश्व जनसंख्या दिवस है। प्रत्‍येक वर्ष 11 जुलाई को मनाया जाने वाला यह दिन बढ़ती जनसंख्या से जुड़ी चुनौतियों और अवसरों के प्रति जागरूकता बढ़ाने के लिए मनाया जाता है। इसका उद्देश्य जनसंख्या से जुड़े मुद्दों पर ध्यान केंद्रित करना और सतत विकास की दिशा में प्रयासों को प्रोत्साहित करना है। विश्व जनसंख्या दिवस […]",
+        "article": "आज विश्व जनसंख्या दिवस है। प्रत्&#x200d;येक वर्ष 11 जुलाई को मनाया जाने वाला यह दिन बढ़ती जनसंख्या से जुड़ी चुनौतियों और अवसरों के प्रति जागरूकता बढ़ाने के लिए मनाया जाता है। इसका उद्देश्य जनसंख्या से जुड़े मुद्दों पर ध्यान केंद्रित करना और सतत विकास की दिशा में प्रयासों को प्रोत्साहित करना है। विश्व जनसंख्या दिवस की शुरुआत वर्ष 1989 में संयुक्त राष्ट्र विकास कार्यक्रम के तत्कालीन शासी परिषद ने की थी। इसके बाद वर्ष 1990 में संयुक्त राष्ट्र महासभा ने एक प्रस्ताव पारित कर इस दिवस को नियमित रूप से मनाने का निर्णय लिया। इस वर्ष विश्व जनसंख्या दिवस का विषय है-युवाओं की आशाओं और आकांक्षाओं को साकार करना &#8211; आज और भविष्य के लिए।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T05:33:08+00:00",
+        "link": "https://newsonair.gov.in/hi/today-is-world-population-day-the-objective-is-to-raise-awareness-about-the-challenges-associated-with-a-growing-population/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "विदेश मंत्री डॉ. जयशंकर ने ओमान में रहने वाले भारतीय प्रवासियों से की बातचीत",
-        "summary": "विदेश मंत्री डॉ. जयशंकर ने आज ओमान में रहने वाले भारतीय प्रवासियों से बातचीत की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि भारत-ओमान संबंधों को मजबूत करने के प्रति उनका उत्साह स्पष्ट रूप से दिखाई देता है। उन्होंने भारत-ओमान साझेदारी में भारतीय प्रवासियों के योगदान की सराहना की।",
-        "article": "विदेश मंत्री डॉ. जयशंकर ने आज ओमान में रहने वाले भारतीय प्रवासियों से बातचीत की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि भारत-ओमान संबंधों को मजबूत करने के प्रति उनका उत्साह स्पष्ट रूप से दिखाई देता है। उन्होंने भारत-ओमान साझेदारी में भारतीय प्रवासियों के योगदान की सराहना की।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T12:40:55+00:00",
-        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-jaishankar-interacted-with-the-indian-diaspora-in-oman/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/1-7.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "भारत-न्यूज़ीलैंड के बीच रक्षा, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 समझौता ज्ञापनों पर हस्ताक्षर",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और डेयरी संबंधी समझौता अनुसंधान, नवाचार और बेहतर तकनीकों के आदान-प्रदान को प्रोत्साहित करेगा। पर्यटन समझौते से दोनों देशों के बीच पर्यटन और यात्रा सहयोग बढ़ेगा। खेल के क्षेत्र में संयुक्त कार्ययोजना भी अपनाई गई है, जबकि आपदा प्रबंधन समझौते से आपदा तैयारी, राहत और बचाव कार्यों में सहयोग मजबूत होगा। वार्ता के दौरान प्रधानमंत्री मोदी ने कहा कि 40 वर्ष बाद किसी भारतीय प्रधानमंत्री की न्यूज़ीलैंड यात्रा दोनों देशों के संबंधों में एक ऐतिहासिक पड़ाव है। उन्होंने कहा कि दोनों देशों ने सामरिक साझेदारी स्थापित करने का महत्वपूर्ण निर्णय लिया है, जो भविष्य के सहयोग को नई दिशा देगा। प्रधानमंत्री ने मुक्त व्यापार समझौते की दिशा में हुई प्रगति की सराहना करते हुए कहा कि भारत और न्यूज़ीलैंड हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और सुरक्षा को मजबूत करने में महत्वपूर्ण भूमिका निभा सकते हैं। न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने कहा कि प्रधानमंत्री मोदी की यह यात्रा दोनों देशों के संबंधों को नई ऊंचाई देगी। उन्होंने कहा कि सामरिक साझेदारी से व्यापार सहित कई क्षेत्रों में सहयोग का दायरा और बढ़ेगा। इससे पहले गवर्नमेंट हाउस में प्रधानमंत्री मोदी का औपचारिक स्वागत किया गया और उन्हें गार्ड ऑफ ऑनर दिया गया। प्रधानमंत्री आज भारतीय समुदाय को संबोधित करेंगे तथा उद्योग और खेल जगत की प्रमुख हस्तियों से भी मुलाकात करेंगे।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T04:51:24+00:00",
+        "link": "https://newsonair.gov.in/hi/five-memorandums-of-understanding-mous-signed-between-india-and-new-zealand-covering-defense-tourism-sports-and-disaster-management/",
+        "post_id": 1730821,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "प्रधानमंत्री मोदी ने अपनी ऑस्ट्रेलिया यात्रा को लेकर ऑस्ट्रेलिया सरकार और वहां की जनता का आभार व्यक्त किया",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने अपनी ऑस्ट्रेलिया यात्रा के दौरान मिले भव्‍य स्‍वागत और आतिथ्य के लिए ऑस्ट्रेलिया सरकार और वहां की जनता के साथ-साथ ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ का आभार व्यक्त किया है। ऑस्ट्रेलिया यात्रा के समापन पर सोशल मीडिया पर श्री मोदी ने कहा कि इस यात्रा के परिणामों ने भारत-ऑस्ट्रेलिया साझेदारी को और […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने अपनी ऑस्ट्रेलिया यात्रा के दौरान मिले भव्&#x200d;य स्&#x200d;वागत और आतिथ्य के लिए ऑस्ट्रेलिया सरकार और वहां की जनता के साथ-साथ ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ का आभार व्यक्त किया है। ऑस्ट्रेलिया यात्रा के समापन पर सोशल मीडिया पर श्री मोदी ने कहा कि इस यात्रा के परिणामों ने भारत-ऑस्ट्रेलिया साझेदारी को और मजबूत किया है और विभिन्न क्षेत्रों में सहयोग के नए रास्ते खोले हैं। उन्होंने विश्वास व्यक्त किया कि इस यात्रा से मिली गति दोनों देशों के लिए लाभकारी होगी और वैश्विक समुदाय में सकारात्मक योगदान देगी।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:36:19+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-expressed-his-gratitude-to-the-australian-government-and-the-people-of-australia-for-his-visit-to-the-country/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM1iY0CbQAAEOL9.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "प्रधानमंत्री मोदी और न्यूज़ीलैंड के पीएम लक्सन ने द्विपक्षीय व्यापार को ₹35 हजार करोड़ तक पहुंचाने का लक्ष्य रखा",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच ऑकलैंड में हुई वार्ता के बाद दोनों देशों ने अपने संबंधों को सामरिक साझेदारी का दर्जा दिया। दोनों नेताओं ने वर्ष 2030 तक द्विपक्षीय वस्तु और सेवा व्यापार को बढ़ाकर 35 हजार करोड़ रुपये तक पहुंचाने का लक्ष्य भी तय किया। वार्ता के दौरान […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच ऑकलैंड में हुई वार्ता के बाद दोनों देशों ने अपने संबंधों को सामरिक साझेदारी का दर्जा दिया। दोनों नेताओं ने वर्ष 2030 तक द्विपक्षीय वस्तु और सेवा व्यापार को बढ़ाकर 35 हजार करोड़ रुपये तक पहुंचाने का लक्ष्य भी तय किया। वार्ता के दौरान अगले 4 वर्षों के लिए सहयोग रणनीति, हिंद-प्रशांत क्षेत्र में समुद्री सहयोग बढ़ाने की रूपरेखा और भारतीय नौसेना तथा न्यूज़ीलैंड रक्षा बल के बीच पारस्परिक लॉजिस्टिक सहयोग समझौते पर सहमति बनी। दोनों नेताओं ने हिंद-प्रशांत क्षेत्र को स्वतंत्र, खुला, सुरक्षित और समृद्ध बनाए रखने की प्रतिबद्धता दोहराई। उन्होंने समुद्री सुरक्षा सहयोग और सूचनाओं के आदान-प्रदान के लिए समुद्री सुरक्षा संवाद शुरू करने पर भी सहमति व्यक्त की। दोनों नेताओं ने भारत-न्यूज़ीलैंड मुक्त व्यापार समझौते का स्वागत करते हुए इसे जल्द लागू करने पर जोर दिया। पश्चिम एशिया की स्थिति पर चिंता व्यक्त करते हुए उन्होंने सभी पक्षों से संयम बरतने, तनाव कम करने और नागरिकों की सुरक्षा सुनिश्चित करने की अपील की। दोनों नेताओं ने संयुक्त राष्ट्र सुरक्षा परिषद में सुधार और उसके विस्तार की आवश्यकता पर भी बल दिया।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T04:46:03+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-and-new-zealand-prime-minister-luxon-set-a-target-to-take-bilateral-trade-to-%e2%82%b935000-crore/",
+        "post_id": 1731385,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "भारत ने संघर्ष-संबंधी यौन हिंसा की कड़ी निंदा की",
-        "summary": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते […]",
-        "article": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते हुए, संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि, राजदूत पी. ​​हरीश ने कहा कि इस तरह की हिंसा दण्ड मुक्ति की प्रचलित संस्कृति के बीच जारी है। उन्&#x200d;होंने कहा कि भारत ऐसे जघन्य कृत्यों की कड़ी निंदा करता है। संयुक्त राष्ट्र महासचिव की रिपोर्ट का संदर्भ देते हुए उन्होंने कहा कि 2025 में सत्यापित मामलों में हुई तीव्र वृद्धि सामूहिक कार्रवाई की तत्काल आवश्यकता को रेखांकित करती है। संयुक्त राष्ट्र शांतिरक्षा में भारत के महत्वपूर्ण योगदानों पर प्रकाश डालते हुए, श्री हरीश ने कहा कि महिला शांतिरक्षकों की तैनाती ने संघर्ष-संबंधी यौन हिंसा से निपटने में &#8220;परिवर्तनकारी प्रभाव&#8221; डाला है। उन्होंने यह घोषणा भी की कि संघर्ष से संबंधित यौन हिंसा को रोकने में उनके उत्कृष्ट प्रयासों के लिए भारतीय शांति रक्षक मेजर मोइज़ यासीन और मेजर सोनिया देवेंद्र नवस्कर को वर्ष 2026 के लिए संयुक्त राष्ट्र महासचिव का मिलिट्री जेंडर ऑफ द ईयर का मान्&#x200d;यता प्रमाणपत्र प्रदान किया जाएगा।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:35:00+00:00",
-        "link": "https://newsonair.gov.in/hi/india-strongly-condemned-conflict-related-sexual-violence/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-10-070515-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "अमरीका ने ईरान पर लगाए नए प्रतिबंध",
+        "summary": "अमेरिका में, ट्रंप प्रशासन ने आज ईरान पर नए प्रतिबंध लगाए हैं। इन प्रतिबंधों में ईरान के नेतृत्व से जुड़े व्यक्तियों और वित्तीय नेटवर्कों को निशाना बनाया गया है। इस सप्ताह की शुरुआत में वाणिज्यिक जहाजों पर तेहरान के हमलों के जवाब में यह कार्रवाई की गई है। इससे पहले अमेरिका ने कई जवाबी कदम […]",
+        "article": "अमेरिका में, ट्रंप प्रशासन ने आज ईरान पर नए प्रतिबंध लगाए हैं। इन प्रतिबंधों में ईरान के नेतृत्व से जुड़े व्यक्तियों और वित्तीय नेटवर्कों को निशाना बनाया गया है। इस सप्ताह की शुरुआत में वाणिज्यिक जहाजों पर तेहरान के हमलों के जवाब में यह कार्रवाई की गई है। इससे पहले अमेरिका ने कई जवाबी कदम उठाए हैं, जिनमें ईरानी ठिकानों पर हमले और तेहरान को तेल बेचने की अनुमति देने वाली छूट को वापस लेना शामिल है। अमेरिकी वित्त विभाग ने कहा कि ये प्रतिबंध दुबई स्थित ईरानी वित्तीय सुविधाकर्ता अली अंसारी पर लगाये गये हैं, जो ईरान के नए सर्वोच्च नेता मोजतबा खामेनेई और शासन से जुड़े विशिष्ट वर्ग को लाभ पहुंचाने वाली संपत्तियों के एक विशाल वैश्विक नेटवर्क की देखरेख करते हैं। इन प्रतिबंधों में प्रमुख ईरानी एक्सचेंज हाउस भी शामिल हैं, जिन पर प्रतिबंधित ईरानी बैंकों की ओर से सालाना अरबों डॉलर के लेन-देन का आरोप है। अमेरिका के विदेश विभाग के प्रवक्ता टॉमी पिगोट ने एक बयान में कहा कि अमरीका ईरान के सत्ताधारी विशिष्ट वर्ग को सहारा देने वाले वित्तीय साधनों को समाप्&#x200d;त करने के लिए निर्णायक कार्रवाई कर रहा है। ये प्रतिबंध ऐसे समय में आए हैं जब राष्ट्रपति डोनाल्ड ट्रम्प द्वारा अमेरिका-ईरान समझौता ज्ञापन के समाप्त होने की घोषणा के बावजूद तनाव कम करने के लिए राजनयिक प्रयास जारी हैं। हालांकि, राष्ट्रपति ट्रम्प ने कहा कि ईरान के साथ बातचीत जारी रहेगी।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T04:34:09+00:00",
+        "link": "https://newsonair.gov.in/hi/us-imposes-new-sanctions-on-iran/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत",
-        "summary": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत हो चुकी है और छह लोग घायल हो गए हैं। स्पेन की सैन्य आपातकालीन इकाई, आने वाले घंटों में आग बुझाने के प्रयासों में शामिल होने हसो सकती है। आग से सड़कें भी बंद हो गईं और […]",
-        "article": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत हो चुकी है और छह लोग घायल हो गए हैं। स्पेन की सैन्य आपातकालीन इकाई, आने वाले घंटों में आग बुझाने के प्रयासों में शामिल होने हसो सकती है। आग से सड़कें भी बंद हो गईं और एक हजार से अधिक लोगों को सुरक्षित स्थानों पर पहुंचाया गया। अधिकारियों ने कहा कि यह आग अब तक इस क्षेत्र में लगी सबसे घातक आग है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:20:56+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a5%87%e0%a4%a8-%e0%a4%95%e0%a5%87-%e0%a4%a6%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a3%e0%a5%80-%e0%a4%ad%e0%a4%be%e0%a4%97-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%ad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM2i8CvbQAAgtlX.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "मेरा युवा-मेरा गौरव सम्मेलन 2026’ का उद्घाटन आज",
+        "summary": "मेरा युवा-मेरा गौरव सम्मेलन 2026’ का उद्घाटन मध्य प्रदेश के मुख्यमंत्री डॉ. मोहन यादव आज इंदौर में करेंगे। राज्य भर से लगभग 5 हज़ार युवाओं के इस कार्यक्रम में भाग लेने की उम्मीद है। सम्मेलन का उद्देश्य राज्य के विकास और नीति निर्माण प्रक्रिया में युवाओं को शामिल करना है। शिक्षा, खेल, उद्यमिता, कृषि, स्वास्थ्य […]",
+        "article": "मेरा युवा-मेरा गौरव सम्मेलन 2026’ का उद्घाटन मध्य प्रदेश के मुख्यमंत्री डॉ. मोहन यादव आज इंदौर में करेंगे। राज्य भर से लगभग 5 हज़ार युवाओं के इस कार्यक्रम में भाग लेने की उम्मीद है। सम्मेलन का उद्देश्य राज्य के विकास और नीति निर्माण प्रक्रिया में युवाओं को शामिल करना है। शिक्षा, खेल, उद्यमिता, कृषि, स्वास्थ्य सेवा, सूचना प्रौद्योगिकी और कौशल विकास सहित विभिन्न विषयों पर चर्चा और कार्यशालाएं आयोजित की जाएंगी। युवा प्रतिनिधि कार्यशाला के दौरान अपने विचार और सुझाव प्रस्तुत करेंगे, जिन्हें “मध्य प्रदेश युवा संकल्प 2026” दस्तावेज़ में संकलित किया जाएगा। मुख्यमंत्री 4 नए राज्य स्तरीय युवा पुरस्कारों की भी घोषणा करेंगे। सांस्कृतिक प्रस्तुतियां और स्थानीय युवा उद्यमियों द्वारा निर्मित फूड स्ट्रीट कार्यक्रम के मुख्य आकर्षण में शामिल होंगे।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T03:39:37+00:00",
+        "link": "https://newsonair.gov.in/hi/mera-yuva-mera-gaurav-sammelan-2026-inaugurated-today/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "अमरीका के राष्ट्रपति डॉनल्‍ड ट्रंप और इस्राएल के प्रधानमंत्री बेन्‍यामिन नेतन्याहू के बीच बातचीत",
-        "summary": "अमरीका के राष्ट्रपति डॉनल्‍ड ट्रंप ने ईरान में हाल में हमलों के बाद इस्राएल के प्रधानमंत्री बेन्‍यामिन नेतन्याहू को खाड़ी क्षेत्र में अमरीकी सेना की नई गतिविधियों के बारे में जानकारी दी है। इस्राएल के प्रधानमंत्री कार्यालय के अनुसार, दोनों नेताओं ने कल रात फोन पर बातचीत की और अमरीका और इस्राएल के बीच विभिन्‍न […]",
-        "article": "अमरीका के राष्ट्रपति डॉनल्&#x200d;ड ट्रंप ने ईरान में हाल में हमलों के बाद इस्राएल के प्रधानमंत्री बेन्&#x200d;यामिन नेतन्याहू को खाड़ी क्षेत्र में अमरीकी सेना की नई गतिविधियों के बारे में जानकारी दी है। इस्राएल के प्रधानमंत्री कार्यालय के अनुसार, दोनों नेताओं ने कल रात फोन पर बातचीत की और अमरीका और इस्राएल के बीच विभिन्&#x200d;न क्षेत्रों में तालमेल बनाए रखने पर सहमति व्&#x200d;यक्&#x200d;त की। इस बीच, ईरान के इस्लामिक रिवोल्यूशनरी गार्ड ने कल दावा किया कि उसने उत्तरी जॉर्डन में अमरीका के अल-अज़राक सैन्&#x200d;य हवाई अड्डे पर दस बैलिस्टिक मिसाइलें दागीं। उसने कहा कि यह हमला तेहरान पर हाल ही में हुए अमरीकी हमले के जवाब में किया गया था। उसने चेतावनी दी कि अमरीका की ओर से किसी भी सैन्य कार्रवाई किए जाने पर जवाब में क्षेत्र में अमरीकी ठिकानों पर और हमले किए जाएंगे।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:12:09+00:00",
-        "link": "https://newsonair.gov.in/hi/talks-between-us-president-donald-trump-and-israeli-prime-minister-benjamin-netanyahu/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "देश के कई राज्यों में तेज वर्षा की संभावना: मौसम विभाग",
+        "summary": "मौसम विभाग ने बिहार, उत्तर प्रदेश, असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल के तराई वाले क्षेत्र और सिक्किम में अगले 3 दिन मूसलाधार वर्षा का अनुमान व्‍यक्‍त किया है। विभाग ने दिल्ली, हरियाणा, चंडीगढ़, पंजाब, अरुणाचल प्रदेश, हिमाचल प्रदेश, उत्तराखंड, लद्दाख और जम्मू-कश्मीर में अगले 5 दिन घनघोर बारिश की आशंका जताई है। […]",
+        "article": "मौसम विभाग ने बिहार, उत्तर प्रदेश, असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल के तराई वाले क्षेत्र और सिक्किम में अगले 3 दिन मूसलाधार वर्षा का अनुमान व्&#x200d;यक्&#x200d;त किया है। विभाग ने दिल्ली, हरियाणा, चंडीगढ़, पंजाब, अरुणाचल प्रदेश, हिमाचल प्रदेश, उत्तराखंड, लद्दाख और जम्मू-कश्मीर में अगले 5 दिन घनघोर बारिश की आशंका जताई है। वहीं, अंडमान-निकोबार द्वीप समूह, आंध्र प्रदेश, मध्य प्रदेश, तेलंगाना, कर्नाटक, ओडिशा, तमिलनाडु, पुद्दुचेरी, कराईक्&#x200d;काल, मध्य प्रदेश, छत्तीसगढ़, झारखंड और पूर्वोत्&#x200d;तर क्षेत्र के कुछ हिस्सों में अगले 3-4 दिनों में तेज हवाओं के साथ बारिश होने की संभावना है।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T03:12:32+00:00",
+        "link": "https://newsonair.gov.in/hi/possibility-of-heavy-rain-in-several-states-across-the-country-meteorological-department/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "फलस्तीन: राष्ट्रपति महमूद अब्बास ने विधायी चुनाव की घोषणा की",
-        "summary": "फलस्तीन के राष्ट्रपति महमूद अब्बास ने इस वर्ष नवंबर के आखिर में विधायी चुनाव कराने की घोषणा की है। वर्ष 2006 के बाद यह पहला विधायी चुनाव होगा। राष्ट्रपति अब्बास ने 28 नवंबर को यरूशलेम, वेस्ट बैंक और गजा पट्टी समेत सभी फलस्तीन क्षेत्रों में मतदान कराने का आदेश जारी किया है। आदेश में कहा […]",
-        "article": "फलस्तीन के राष्ट्रपति महमूद अब्बास ने इस वर्ष नवंबर के आखिर में विधायी चुनाव कराने की घोषणा की है। वर्ष 2006 के बाद यह पहला विधायी चुनाव होगा। राष्ट्रपति अब्बास ने 28 नवंबर को यरूशलेम, वेस्ट बैंक और गजा पट्टी समेत सभी फलस्तीन क्षेत्रों में मतदान कराने का आदेश जारी किया है। आदेश में कहा गया है कि चुनाव का उद्देश्य फलस्तीन में लोकतांत्रिक प्रक्रिया को मजबूत करना और चुनावी प्रक्रिया को आगे बढ़ाना है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:38:04+00:00",
-        "link": "https://newsonair.gov.in/hi/palestine-president-mahmoud-abbas-announces-legislative-elections/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "ब्रिक्स देशों के परिवहन मंत्रियों की बैठक आज, केंद्रीय मंत्री नितिन गडकरी करेंगे अध्यक्षता",
+        "summary": "केंद्रीय सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी आज नागपुर में ब्रिक्स देशों के परिवहन मंत्रियों की बैठक की अध्यक्षता करेंगे। यह बैठक, भारत की ब्रिक्स अध्यक्षता की थीम “लचीलापन, नवाचार, सहयोग और सतत विकास” पर केंद्रित है। बैठक में ब्रिक्स देशों के बीच परिवहन क्षेत्र में सहयोग बढ़ाने और साझा परिवहन रणनीति पर चर्चा […]",
+        "article": "केंद्रीय सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी आज नागपुर में ब्रिक्स देशों के परिवहन मंत्रियों की बैठक की अध्यक्षता करेंगे। यह बैठक, भारत की ब्रिक्स अध्यक्षता की थीम “लचीलापन, नवाचार, सहयोग और सतत विकास” पर केंद्रित है। बैठक में ब्रिक्स देशों के बीच परिवहन क्षेत्र में सहयोग बढ़ाने और साझा परिवहन रणनीति पर चर्चा की जाएगी।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T03:09:02+00:00",
+        "link": "https://newsonair.gov.in/hi/meeting-of-brics-transport-ministers-today-union-minister-nitin-gadkari-to-preside/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "तेल की भारी अतिरिक्त आपूर्ति का अनुमान गलत साबित हो सकता है: आई ई ए",
-        "summary": "इंटरनेशनल एनर्जी एजेंसी -आई ई ए ने आज कहा कि अमरीका और ईरान के बीच तनाव दोबारा बढ़ने से 2027 में दुनिया भर में तेल की भारी अतिरिक्त आपूर्ति का उसका अनुमान गलत साबित हो सकता है। एजेंसी की रिपोर्ट के अनुसार जून में वैश्‍विक तेल आपूर्ति चार दशमलव एक मिलियन बैरल प्रति दिन बढ़कर […]",
-        "article": "इंटरनेशनल एनर्जी एजेंसी -आई ई ए ने आज कहा कि अमरीका और ईरान के बीच तनाव दोबारा बढ़ने से 2027 में दुनिया भर में तेल की भारी अतिरिक्त आपूर्ति का उसका अनुमान गलत साबित हो सकता है। एजेंसी की रिपोर्ट के अनुसार जून में वैश्&#x200d;विक तेल आपूर्ति चार दशमलव एक मिलियन बैरल प्रति दिन बढ़कर 98.8 मिलियन बैरल प्रति दिन हो गई। यह बढ़ोतरी इसलिए हुई क्योंकि युद्धविराम के बाद होर्मुज जलडमरूमध्य के पास फंसे टैंकरों ने अपनी यात्रा फिर से शुरू कर दी है। इस सुधार के बावजूद, वैश्विक उत्पादन युद्ध से पहले के स्तर से 9.4 मिलियन बैरल प्रति दिन कम है। एजेंसी का अनुमान है कि इस साल वैश्विक तेल की मांग में एक मिलियन बैरल प्रति दिन की कमी आएगी, लेकिन 2027 में इसमें 2 मिलियन बैरल प्रति दिन की बढ़ोतरी होगी; यह छह वर्षों में पहली वार्षिक गिरावट होगी। वहीं, एजेंसी का अनुमान है कि इस साल 3.7 मिलियन बैरल प्रति दिन की कमी के बाद अगले साल ऑयल सप्लाई में 7.5 मिलियन बैरल प्रति दिन की बढ़ोतरी होगी, लेकिन यह रिकवरी होर्मुज जलडमरूमध्य से बेहतर ट्रांजिट फ्लो (आवाजाही) पर निर्भर करती है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T13:38:53+00:00",
-        "link": "https://newsonair.gov.in/hi/the-forecast-of-a-massive-oil-oversupply-could-prove-to-be-incorrect/",
+        "title": "अमरीकी राष्ट्रपति डॉनल्ड ट्रंप ने कहा, हालिया तनाव के बावजूद अमरीका-ईरान वार्ता जारी रखने पर सहमत",
+        "summary": "अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने कहा है कि हालिया तनाव बढ़ने के बावजूद अमरीका और ईरान वार्ता जारी रखने पर सहमत हो गए हैं, लेकिन पिछले महीने हुआ युद्धविराम समाप्त हो गया है। राष्ट्रपति ट्रंप ने कहा कि ईरान ने वार्ता जारी रखने का अनुरोध किया है और अमरीका इसपर सहमत हो गया है। […]",
+        "article": "अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने कहा है कि हालिया तनाव बढ़ने के बावजूद अमरीका और ईरान वार्ता जारी रखने पर सहमत हो गए हैं, लेकिन पिछले महीने हुआ युद्धविराम समाप्त हो गया है। राष्ट्रपति ट्रंप ने कहा कि ईरान ने वार्ता जारी रखने का अनुरोध किया है और अमरीका इसपर सहमत हो गया है। अमरीका ने ईरान से होर्मुज जलडमरूमध्य में जहाजों पर हमले रोकने की मांग भी तेज कर दी है। इन हमलों के कारण तनाव बढ़ने से अंतर्राष्&#x200d;ट्रीय बाजार में कच्&#x200d;चे तेल की कीमतें बढ़ गई हैं। इस संघर्ष के दौरान कतर और सऊदी अरब के 3 वाणिज्यिक टैंकरों पर हमले हुए थे, जिसके जवाब में अमरीका ने ईरानी ठिकानों पर हमले किए। इसके जवाब में ईरान ने खाड़ी देशों में अमरीकी सैन्य ठिकानों पर हमले किए। इस बीच, क्षेत्र में कल किसी नये हमले की खबर नहीं है। ईरान की सरकारी मीडिया ने बताया है कि खाड़ी क्षेत्र में तनाव कम करने के लिए मध्यस्थ के रूप में कतर का एक प्रतिनिधिमंडल तेहरान जा रहा है। रिपोर्ट में कहा गया है कि कतर के अधिकारी तनाव कम करने और व्यापक वार्ता के लिए अनुकूल स्थिति बनाने में सहायता के लिए ईरानी अधिकारियों के साथ बातचीत कर रहे हैं। बताया जा रहा है कि ये बातचीत अमरीका के समन्वय से संचालित की जा रही हैं।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T03:06:36+00:00",
+        "link": "https://newsonair.gov.in/hi/us-president-donald-trump-said-that-despite-the-recent-tensions-america-and-iran-have-agreed-to-continue-talks/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "नाइजीरिया: सुरक्षा एजेंसियों ने 2 महीने पहले अगवा किए गए शिक्षकों और स्कूली बच्चों को बचाया",
+        "summary": "नाइजीरिया में सुरक्षा एजेंसियों ने लगभग दो महीने पहले अगवा किए गए शिक्षकों और स्कूली बच्चों को सुरक्षित बचा लिया है। यह कार्रवाई दक्षिण-पश्चिमी ओयो राज्य में की गई। सरकारी प्रवक्ता के अनुसार, अभियान के दौरान 8 संदिग्ध अपहरणकर्ताओं को गिरफ्तार किया गया, जबकि कई अन्य मारे गए। उन्होंने कहा कि बंधकों की रिहाई के […]",
+        "article": "नाइजीरिया में सुरक्षा एजेंसियों ने लगभग दो महीने पहले अगवा किए गए शिक्षकों और स्कूली बच्चों को सुरक्षित बचा लिया है। यह कार्रवाई दक्षिण-पश्चिमी ओयो राज्य में की गई। सरकारी प्रवक्ता के अनुसार, अभियान के दौरान 8 संदिग्ध अपहरणकर्ताओं को गिरफ्तार किया गया, जबकि कई अन्य मारे गए। उन्होंने कहा कि बंधकों की रिहाई के लिए न तो कोई फिरौती दी गई और न ही कैदियों की अदला-बदली की गई। ओयो राज्य के गवर्नर सेयी माकिंदे ने इस सफल अभियान पर सुरक्षा बलों की सराहना की और कहा कि बचाए गए लोगों को चिकित्सा और मानसिक सहायता उपलब्ध कराई जाएगी।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:33:30+00:00",
+        "link": "https://newsonair.gov.in/hi/nigeria-security-agencies-rescue-teachers-and-schoolchildren-abducted-two-months-ago-nigeria-security-agencies-rescue-teachers-and-schoolchildren-abducted-two-months-ago/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत की संस्कृति और विरासत के संरक्षण में एआई का इस्तेमाल करने की ज़रूरत: मंत्री अर्जुन राम मेघवाल",
+        "summary": "कानून और न्याय राज्य मंत्री अर्जुन राम मेघवाल ने कहा है कि आर्टिफिशियल इंटेलिजेंस यानी एआई को भारत की संस्कृति और विरासत के संरक्षण तथा समावेशी विकास के लिए प्रभावी ढंग से इस्तेमाल किया जाना चाहिए। नई दिल्ली में एक पुस्तक लोकार्पण कार्यक्रम में उन्होंने कहा कि तकनीकी प्रगति भारत के सांस्कृतिक मूल्यों और राष्ट्रीय […]",
+        "article": "कानून और न्याय राज्य मंत्री अर्जुन राम मेघवाल ने कहा है कि आर्टिफिशियल इंटेलिजेंस यानी एआई को भारत की संस्कृति और विरासत के संरक्षण तथा समावेशी विकास के लिए प्रभावी ढंग से इस्तेमाल किया जाना चाहिए। नई दिल्ली में एक पुस्तक लोकार्पण कार्यक्रम में उन्होंने कहा कि तकनीकी प्रगति भारत के सांस्कृतिक मूल्यों और राष्ट्रीय प्राथमिकताओं के अनुरूप होनी चाहिए। महिला एवं बाल विकास राज्य मंत्री सावित्री ठाकुर ने कहा कि महिलाओं को नई तकनीकों का केवल उपयोगकर्ता ही नहीं, बल्कि उनके विकास में भी सक्रिय भागीदार बनना चाहिए। उन्होंने कहा कि इंडिया एआई मिशन के तहत देश में आर्टिफिशियल इंटेलिजेंस का मजबूत तंत्र विकसित किया जा रहा है।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:29:55+00:00",
+        "link": "https://newsonair.gov.in/hi/the-need-to-use-ai-in-the-preservation-of-indias-culture-and-heritage/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1137,112 +1161,113 @@ window.VM_NEWS = {
     ],
     "breaking": [
       {
-        "title": "सीबीआई ने 133 करोड़ रुपये से अधिक की बैंक धोखाधड़ी का मामला दर्ज किया",
-        "summary": "केंद्रीय अन्वेषण ब्यूरो ने मुंबई में एक निजी कंपनी के निदेशकों के खिलाफ 133 करोड़ रुपये से अधिक धनराशि की कथित धोखाधड़ी का मामला दर्ज किया है। ब्यूरो ने आज मुंबई, महाराष्ट्र और कोच्चि, केरल में आरोपियों से जुड़े कई परिसरों पर तलाशी ली। यह मामला कल मुंबई स्थित भारतीय स्टेट बैंक की शिकायत के […]",
-        "article": "केंद्रीय अन्वेषण ब्यूरो ने मुंबई में एक निजी कंपनी के निदेशकों के खिलाफ 133 करोड़ रुपये से अधिक धनराशि की कथित धोखाधड़ी का मामला दर्ज किया है। ब्यूरो ने आज मुंबई, महाराष्ट्र और कोच्चि, केरल में आरोपियों से जुड़े कई परिसरों पर तलाशी ली। यह मामला कल मुंबई स्थित भारतीय स्टेट बैंक की शिकायत के आधार पर दर्ज किया गया था। शिकायत में आरोप है कि आरोपी निदेशकों ने अज्ञात सरकारी कर्मचारियों और अन्य व्यक्तियों के साथ मिलकर बैंक को 133 करोड़ 52 लाख रुपये से अधिक का नुकसान पहुंचाया है। ब्यूरो के अनुसार, आरोपियों ने कथित तौर पर आपराधिक साजिश रचकर गलत वित्तीय जानकारी प्रस्तुत करके बैंक से अधिक ऋण सुविधाएं प्राप्त कीं। ऋण राशि को स्वीकृत उद्देश्यों के अलावा अन्य उद्देश्यों के लिए इस्तेमाल किया गया, जिसके परिणामस्वरूप बैंक को वित्तीय नुकसान हुआ। ब्यूरो ने कहा कि तलाशी के दौरान जांच से संबंधित आपत्तिजनक सामग्री बरामद हुई है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T16:00:10+00:00",
-        "link": "https://newsonair.gov.in/hi/the-cbi-registered-a-case-of-bank-fraud-worth-over-%e2%82%b9133-crore/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/cbi-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन 14 जुलाई को अंतरिक्ष मिशन पर होंगे रवाना",
-        "summary": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन 14 जुलाई को कजाकिस्तान के बैकोनूर अंतरिक्ष प्रशिक्षण केंद्र से अंतर्राष्ट्रीय अंतरिक्ष स्टेशन के लिए आठ महीने के मिशन पर रवाना होने वाले हैं। वे अंतरिक्ष यात्रियों प्योत्र दुब्रोव और अन्ना किकिना के साथ रूस की अंतरिक्ष एजेंसी रोस्कोस्मोस के सोयुज एमएस-29 अंतरिक्ष यान में सवार होकर […]",
-        "article": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन 14 जुलाई को कजाकिस्तान के बैकोनूर अंतरिक्ष प्रशिक्षण केंद्र से अंतर्राष्ट्रीय अंतरिक्ष स्टेशन के लिए आठ महीने के मिशन पर रवाना होने वाले हैं। वे अंतरिक्ष यात्रियों प्योत्र दुब्रोव और अन्ना किकिना के साथ रूस की अंतरिक्ष एजेंसी रोस्कोस्मोस के सोयुज एमएस-29 अंतरिक्ष यान में सवार होकर अंतरिक्ष यात्रा करेंगे। अंतरिक्ष स्टेशन में रहते हुए, श्री मेनन लंबी अवधि की अंतरिक्ष यात्रा के शारीरिक प्रभावों और सूक्ष्म गुरुत्वाकर्षण के अंतरिक्ष यात्रियों में रक्त प्रवाह, शिरा संरचना और रक्त संरचना पर प्रभाव का अध्ययन करेंगे। वे अंतरिक्ष स्टेशन की पेय जल प्रणाली का उपयोग करके अंतःशिरा द्रव तैयार करने की तकनीकों का परीक्षण करने में भी मदद करेंगे। वे अल्ट्रासाउंड जांच भी करेंगे जिससे भविष्य के अंतरिक्ष अभियानों में पृथ्वी से चिकित्सा सहायता की आवश्यकता समाप्त हो सकती है। मिनियापोलिस में जन्मे अनिल मेनन आपातकालीन चिकित्सा चिकित्सक और अमरीकी अंतरिक्ष बल में कर्नल हैं। 49 वर्षीय मेनन ने 2014 में नासा में फ्लाइट सर्जन के रूप में अपना करियर शुरू किया और अंतर्राष्ट्रीय अंतरिक्ष सेवा केंद्र पर रहने और काम करने वाले अंतरिक्ष यात्रियों के साथ काम किया। मेनन 2018 में स्पेसएक्स में शामिल हुए। दिसंबर 2021 में उनका चयन नासा के अंतरिक्ष यात्री के रूप में हुआ और उन्होंने दो साल का प्रशिक्षण शुरू किया।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:57:52+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-origin-nasa-astronaut-anil-menon-will-depart-for-a-space-mission-on-july-14/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM4C2OrXEAEVLNO.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पीएम-सेतु पहल के तहत सूरत आईटीआई समूह के लिए 240 करोड़ रुपये की निवेश योजना",
-        "summary": "कौशल विकास, उद्यमिता और शिक्षा राज्य मंत्री जयंत चौधरी ने आज पीएम-सेतु पहल के अंतर्गत सूरत औद्योगिक प्रशिक्षण संस्थान-आईटीआई समूह के लिए 240 करोड़ रुपये की रणनीतिक निवेश योजना का अनावरण किया। इस पहल में आर्सेलर मित्तल निप्पॉन स्टील इंडिया को समूह का प्रमुख उद्योग भागीदार नामित किया गया है। आईटीआई सूरत को अगले पांच […]",
-        "article": "कौशल विकास, उद्यमिता और शिक्षा राज्य मंत्री जयंत चौधरी ने आज पीएम-सेतु पहल के अंतर्गत सूरत औद्योगिक प्रशिक्षण संस्थान-आईटीआई समूह के लिए 240 करोड़ रुपये की रणनीतिक निवेश योजना का अनावरण किया। इस पहल में आर्सेलर मित्तल निप्पॉन स्टील इंडिया को समूह का प्रमुख उद्योग भागीदार नामित किया गया है। आईटीआई सूरत को अगले पांच वर्षों में केंद्रीय केंद्र के रूप में विकसित किया जाएगा। वहीं, हजीरा, बरदोली, सचिन और महिला आईटीआई सूरत सहायक संस्थानों के रूप में कार्य करेंगे। इस परियोजना का उद्देश्य 25 हजार से अधिक युवाओं को आधुनिक उद्योग-उन्मुख प्रशिक्षण, शिक्षुता और नए रोजगार के अवसर प्रदान करना है। इस योजना में आर्सेलर मित्तल निप्पॉन स्टील इंडिया औद्योगिक आवश्यकताओं के अनुरूप उन्नत पाठ्यक्रम, डिजिटल शिक्षा, उद्योग में भागीदारी, कार्यस्थल पर प्रशिक्षण और शिक्षकों के कौशल विकास की शुरुआत करेगा।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:46:56+00:00",
-        "link": "https://newsonair.gov.in/hi/investment-plan-of-%e2%82%b9240-crore-for-the-surat-iti-cluster-under-the-pm-setu-initiative/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/jayanta-choudhury-minister-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेंद्र मोदी तीन देशों की यात्रा के अंतिम चरण में न्‍यूजीलैंड के ऑकलैंड पहुंचे",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी का न्यूजीलैंड की अपनी दो दिन की ऐतिहासिक यात्रा के शुरू में ऑकलैंड पहुंचने पर हार्दिक स्वागत किया गया। किसी भारतीय प्रधानमंत्री की लगभग चार दशकों में यह पहली न्यूजीलैंड यात्रा है। ऑकलैंड पहुंचने पर न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने हवाई अड्डे पर प्रधानमंत्री का स्वागत किया। भारतीय समुदाय के लोग […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी का न्यूजीलैंड की अपनी दो दिन की ऐतिहासिक यात्रा के शुरू में ऑकलैंड पहुंचने पर हार्दिक स्वागत किया गया। किसी भारतीय प्रधानमंत्री की लगभग चार दशकों में यह पहली न्यूजीलैंड यात्रा है। ऑकलैंड पहुंचने पर न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने हवाई अड्डे पर प्रधानमंत्री का स्वागत किया। भारतीय समुदाय के लोग बड़ी संख्या में उनके स्वागत के लिए एकत्रित हुए थे। लोगों ने भारतीय तिरंगा लहराते हुए और &#8220;किया ओरा मोदी&#8221; के नारे लगाते हुए उनका स्वागत किया, जिससे वातावरण उत्साह से भर गया। इस यात्रा के दौरान, दोनों नेताओं द्वारा व्यापार, निवेश, शिक्षा, प्रौद्योगिकी और आपसी संबंधों में सहयोग को और मजबूत करने के तरीकों पर चर्चा किए जाने की उम्मीद है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:40:04+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-arrived-in-auckland-new-zealand-on-the-final-leg-of-his-three-nation-tour/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/noname-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतीय नौसेना स्वदेशी स्टील्थ फ्रिगेट महेंद्रगिरि को पूर्वी बेड़े में करेगी शामिल",
-        "summary": "भारतीय नौसेना कल विशाखापत्तनम में अपने पूर्वी बेड़े में 17ए परियोजना के अंतर्गत निर्मित छठे स्वदेशी स्टील्थ फ्रिगेट महेंद्रगिरि को शामिल करेगी। रक्षा मंत्री राजनाथ सिंह नौसेना में युद्धपोत को औपचारिक रूप से शामिल करने के समारोह की अध्यक्षता करेंगे। भारतीय नौसेना के युद्धपोत डिजाइन इकाई द्वारा तैयार की गई रूपरेखा के आधार पर […]",
-        "article": "भारतीय नौसेना कल विशाखापत्तनम में अपने पूर्वी बेड़े में 17ए परियोजना के अंतर्गत निर्मित छठे स्वदेशी स्टील्थ फ्रिगेट महेंद्रगिरि को शामिल करेगी। रक्षा मंत्री राजनाथ सिंह नौसेना में युद्धपोत को औपचारिक रूप से शामिल करने के समारोह की अध्यक्षता करेंगे। भारतीय नौसेना के युद्धपोत डिजाइन इकाई द्वारा तैयार की गई रूपरेखा के आधार पर मुंबई स्थित मझगांव डॉक शिपबिल्डर्स लिमिटेड में निर्मित युद्धपोत महेंद्रगिरि देश के अग्रणी स्वदेशी स्टील्थ युद्धपोतों में से एक हैं। यह युद्धपोत उन्नत स्टील्थ तकनीक, रडार से बचने और उच्च स्तर की स्वचालन प्रणाली से युक्त है। युक्त यह युद्धपोत नौसैनिक युद्ध के सभी आयामों में समुद्री अभियानों की पूरी श्रृंखला को अंजाम देने के लिए डिज़ाइन किया गया है। इस पोत के निर्माण में सूक्ष्म, लघु और मध्यम सहित बड़ी संख्या में भारतीय उद्योग शामिल हैं, जिससे देश के रक्षा औद्योगिक आधार को मजबूती मिली है और महत्वपूर्ण रोजगार सृजित हुए हैं।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:38:56+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-navy-to-induct-indigenous-stealth-frigate-mahendragiri-into-eastern-fleet/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM3YdywaAAAs7e9.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कई राज्यों में अगले 3-4 दिन भारी से अत्यधिक बारिश का ऑरेंज अलर्ट",
-        "summary": "मौसम विभाग ने अगले तीन से चार दिन के दौरान बिहार, उत्तर प्रदेश, असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा और पश्चिम बंगाल के तराई वाले क्षेत्रों तथा सिक्किम में मूसलाधार और कुछ स्थानों पर अत्यधिक बारिश का ओरेंज अलर्ट जारी किया है।",
-        "article": "मौसम विभाग ने अगले तीन से चार दिन के दौरान बिहार, उत्तर प्रदेश, असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा और पश्चिम बंगाल के तराई वाले क्षेत्रों तथा सिक्किम में मूसलाधार और कुछ स्थानों पर अत्यधिक बारिश का ओरेंज अलर्ट जारी किया है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:36:33+00:00",
-        "link": "https://newsonair.gov.in/hi/orange-alert-for-heavy-to-extremely-heavy-rainfall-in-several-states-over-the-next-3-4-days/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/rain-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कैलाश मानसरोवर यात्रा का पहले जत्थे ने उत्तराखंड के पिथौरागढ़ जिले के लिपुलेख दर्रे से चीन में किया प्रवेश",
-        "summary": "कैलाश मानसरोवर यात्रा का पहला जत्था आज उत्तराखंड के पिथौरागढ़ जिले के लिपुलेख दर्रे से चीन में प्रवेश कर गया। भारत-तिब्बत सीमा पुलिस के अधिकारियों ने जत्‍थे की सभी आवश्यक आव्रजन और सीमा संबंधी औपचारिकताओं को पूरा करवाया। इस जत्थे में 52 सदस्य हैं, जिनमें 48 तीर्थयात्री, एक चिकित्सा कर्मी और तीन रसोइये हैं। चीन […]",
-        "article": "कैलाश मानसरोवर यात्रा का पहला जत्था आज उत्तराखंड के पिथौरागढ़ जिले के लिपुलेख दर्रे से चीन में प्रवेश कर गया। भारत-तिब्बत सीमा पुलिस के अधिकारियों ने जत्&#x200d;थे की सभी आवश्यक आव्रजन और सीमा संबंधी औपचारिकताओं को पूरा करवाया। इस जत्थे में 52 सदस्य हैं, जिनमें 48 तीर्थयात्री, एक चिकित्सा कर्मी और तीन रसोइये हैं। चीन में प्रवेश करने के बाद, समूह आगामी दिनों में पवित्र कैलाश पर्वत और मानसरोवर झील की यात्रा से पहले निर्धारित शिविरों में विश्राम करेगा। प्रशासन और सुरक्षा एजेंसियों ने तीर्थयात्रा को सुरक्षित और सुचारू रूप से संपन्न कराने के लिए लिपुलेख मार्ग पर व्यापक व्यवस्था की है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:31:28+00:00",
-        "link": "https://newsonair.gov.in/hi/the-first-batch-of-the-kailash-mansarovar-yatra-entered-china-via-the-lipulekh-pass-in-uttarakhands-pithoragarh-district/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/kailash-mansarovar.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "मानसून सत्र की तैयारियों की समीक्षा, संसदीय कार्य राज्य मंत्रियों ने दिए निर्देश",
-        "summary": "संसदीय कार्य राज्य मंत्री अर्जुन राम मेघवाल और डॉ. एल. मुरुगन ने आज संसद भवन परिसर में आगामी मानसून सत्र की तैयारियों की समीक्षा की। संसद का सत्र 20 जुलाई से 13 अगस्त तक चलेगा। सोशल मीडिया पोस्ट में श्री मेघवाल ने बताया कि आगामी सत्र के लिए निर्धारित विधायी कार्यों की समीक्षा की गई […]",
-        "article": "संसदीय कार्य राज्य मंत्री अर्जुन राम मेघवाल और डॉ. एल. मुरुगन ने आज संसद भवन परिसर में आगामी मानसून सत्र की तैयारियों की समीक्षा की। संसद का सत्र 20 जुलाई से 13 अगस्त तक चलेगा। सोशल मीडिया पोस्ट में श्री मेघवाल ने बताया कि आगामी सत्र के लिए निर्धारित विधायी कार्यों की समीक्षा की गई और आवश्यक निर्देश जारी किए गए।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:18:13+00:00",
-        "link": "https://newsonair.gov.in/hi/review-of-preparations-for-the-monsoon-session-ministers-of-state-for-parliamentary-affairs-issue-directives/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/12/Arjun-Meghwal.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गृह मंत्री अमित शाह ने तटीय और बंदरगाह सुरक्षा की समीक्षा की",
-        "summary": "गृह मंत्री अमित शाह ने कहा कि प्रधानमंत्री नरेन्द्र मोदी के नेतृत्व में सरकार देश की तटीय सुरक्षा को अभेद्य बनाने के लिए पूरी तरह प्रतिबद्ध है। श्री शाह ने पोत पत्तन परिवहन और जलमार्ग मंत्री सरबानंद सोनोवाल के साथ आज बंदरगाह सुरक्षा ब्यूरो-बीओपीएस की स्थापना में हुई प्रगति की समीक्षा की। श्री शाह […]",
-        "article": "गृह मंत्री अमित शाह ने कहा कि प्रधानमंत्री नरेन्द्र मोदी के नेतृत्व में सरकार देश की तटीय सुरक्षा को अभेद्य बनाने के लिए पूरी तरह प्रतिबद्ध है। श्री शाह ने पोत पत्तन परिवहन और जलमार्ग मंत्री सरबानंद सोनोवाल के साथ आज बंदरगाह सुरक्षा ब्यूरो-बीओपीएस की स्थापना में हुई प्रगति की समीक्षा की। श्री शाह ने कहा कि बंदरगाह सुरक्षा केवल लाइसेंस प्राप्त निजी सुरक्षा एजेंसियों को ही सौंपा जाना चाहिए। बंदरगाह की सुरक्षा में केंद्रीय औद्योगिक सुरक्षा बल-सीआईएसएफ से प्रशिक्षण प्राप्त निजी सुरक्षा कर्मियों को ही तैनात किया जाना चाहिए। श्री शाह ने सीआईएसएफ को विशाखापत्तनम बंदरगाह, जवाहरलाल नेहरू बंदरगाह और मुंद्रा बंदरगाह सहित देश भर के प्रमुख बंदरगाहों पर बंदरगाह सुरक्षा ब्यूरो को सौंपे जाने वाले प्रस्तावित सुरक्षा व्यवस्थाओं का परीक्षण करने का निर्देश दिया। बंदरगाह सुरक्षा ब्यूरो की स्थापना व्यापारिक जहाजरानी अधिनियम, 2025 की धारा 13 के प्रावधानों के अंतर्गत एक वैधानिक निकाय के रूप में की जा रही है। ब्यूरो का नेतृत्व एक महानिदेशक करेंगे और यह बंदरगाह, जहाजरानी और जलमार्ग मंत्रालय के अधीन कार्य करेगा। श्री शाह ने मत्स्य विभाग के अधिकारियों के साथ बैठक की और मछली पकड़ने के बंदरगाह केंद्रों की सुरक्षा मजबूत करने के लिए आवश्यक निर्देश जारी किए। उन्होंने निर्देश दिया कि भारतीय अंतरिक्ष अनुसंधान संगठन द्वारा विकसित नभमित्र ऐप का व्यापक प्रचार-प्रसार किया जाए जिससे अधिक से अधिक मछुआरे इसे अपने मोबाइल फोन पर डाउनलोड कर सकें। बैठक में केंद्रीय गृह सचिव, खुफिया विभाग के निदेशक, सीमा प्रबंधन सचिव, पोत पत्तन परिवहन और जलमार्ग सचिव, मत्स्य विभाग के सचिव, केंद्रीय औद्योगिक सुरक्षा बल के महानिदेशक और अन्य वरिष्ठ अधिकारी उपस्थित थे।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:39:08+00:00",
-        "link": "https://newsonair.gov.in/hi/home-minister-amit-shah-reviewed-coastal-and-port-security/",
+        "title": "भारत-न्यूजीलैंड द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाने पर सहमत: विदेश मंत्रालय",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने आज ऑकलैंड में वार्ता की। विदेश मंत्रालय में पूर्वी देशों के प्रभारी सचिव, रूद्रेंद्र टंडन ने ऑकलैंड में संवाददाता सम्मेलन में बताया कि दोनों नेता द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाने पर सहमत हुए हैं। श्री टंडन ने बताया कि श्री मोदी और श्री […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने आज ऑकलैंड में वार्ता की। विदेश मंत्रालय में पूर्वी देशों के प्रभारी सचिव, रूद्रेंद्र टंडन ने ऑकलैंड में संवाददाता सम्मेलन में बताया कि दोनों नेता द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाने पर सहमत हुए हैं। श्री टंडन ने बताया कि श्री मोदी और श्री लक्सन ने आगामी 4 वर्षों में साझा रूप से काम करने के लिए भारत-न्यूजीलैंड रणनीतिक साझेदारी-2030 तक की रूपरेखा को भी मंजूरी दी है। उन्होंने कहा कि इसका उद्देश्य द्विपक्षीय संबंधों को और मज़बूत करना है।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T05:56:23+00:00",
+        "link": "https://newsonair.gov.in/hi/agreed-to-elevate-india-new-zealand-bilateral-relations-to-a-strategic-partnership-ministry-of-external-affairs/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "भारत-ओमान के बीच खाड़ी क्षेत्र में शांति तथा स्थिरता सुनिश्चित करने के प्रयासों पर व्यापक विचार-विमर्श",
-        "summary": "विदेश मंत्री डॉ. एस. जयशंकर ने आज मस्कत में ओमान के विदेश मंत्री बदर-बिन-हमद-अल बुसैदी से मुलाकात की और दोनों देशों के बीच सहयोग के विभिन्न पहलुओं पर चर्चा की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि चर्चा व्यापार, निवेश, संपर्क, समुद्री क्षेत्र, प्रौद्योगिकी, रक्षा और साइबर तथा एआई क्षेत्रों पर केंद्रित रही। […]",
-        "article": "विदेश मंत्री डॉ. एस. जयशंकर ने आज मस्कत में ओमान के विदेश मंत्री बदर-बिन-हमद-अल बुसैदी से मुलाकात की और दोनों देशों के बीच सहयोग के विभिन्न पहलुओं पर चर्चा की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि चर्चा व्यापार, निवेश, संपर्क, समुद्री क्षेत्र, प्रौद्योगिकी, रक्षा और साइबर तथा एआई क्षेत्रों पर केंद्रित रही। दोनों नेताओं ने खाड़ी क्षेत्र में हो रहे घटनाक्रमों और क्षेत्र में शांति तथा स्थिरता सुनिश्चित करने के प्रयासों पर भी व्यापक विचार-विमर्श किया। डॉ. जयशंकर ने कहा कि चर्चा से दोनों देशों के बीच रणनीतिक साझेदारी के विश्&#x200d;वास और मजबूती का पता चलता है। इस बीच, ओमान के विदेश मंत्री ने कहा कि भारत और ओमान के बीच सदियों पुराने समुद्री संबंध दोनों देशों के लोगों को सदियों से जोड़ते रहे हैं और एक-दूसरे के बीच साझेदारी के लिए मजबूत आधार प्रदान करते हैं। सोशल मीडिया पोस्ट में श्री बदर अल बुसैदी ने कहा कि दोनों नेताओं ने होर्मुज जलडमरूमध्य में नौवहन की स्वतंत्रता सुनिश्चित करने के लिए गहन कूटनीति पर चर्चा की और भारत का उसके समर्थन के लिए आभार व्&#x200d;यक्&#x200d;त किया।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:25:34+00:00",
-        "link": "https://newsonair.gov.in/hi/india-and-oman-held-discussion-to-ensure-peace-and-stability-in-the-gulf/",
-        "post_id": 1730296,
+        "title": "विश्व जनसंख्या दिवस आज: बढ़ती जनसंख्या से जुड़ी चुनौतियों के प्रति जागरूकता बढ़ाना है उद्देश्य",
+        "summary": "आज विश्व जनसंख्या दिवस है। प्रत्‍येक वर्ष 11 जुलाई को मनाया जाने वाला यह दिन बढ़ती जनसंख्या से जुड़ी चुनौतियों और अवसरों के प्रति जागरूकता बढ़ाने के लिए मनाया जाता है। इसका उद्देश्य जनसंख्या से जुड़े मुद्दों पर ध्यान केंद्रित करना और सतत विकास की दिशा में प्रयासों को प्रोत्साहित करना है। विश्व जनसंख्या दिवस […]",
+        "article": "आज विश्व जनसंख्या दिवस है। प्रत्&#x200d;येक वर्ष 11 जुलाई को मनाया जाने वाला यह दिन बढ़ती जनसंख्या से जुड़ी चुनौतियों और अवसरों के प्रति जागरूकता बढ़ाने के लिए मनाया जाता है। इसका उद्देश्य जनसंख्या से जुड़े मुद्दों पर ध्यान केंद्रित करना और सतत विकास की दिशा में प्रयासों को प्रोत्साहित करना है। विश्व जनसंख्या दिवस की शुरुआत वर्ष 1989 में संयुक्त राष्ट्र विकास कार्यक्रम के तत्कालीन शासी परिषद ने की थी। इसके बाद वर्ष 1990 में संयुक्त राष्ट्र महासभा ने एक प्रस्ताव पारित कर इस दिवस को नियमित रूप से मनाने का निर्णय लिया। इस वर्ष विश्व जनसंख्या दिवस का विषय है-युवाओं की आशाओं और आकांक्षाओं को साकार करना &#8211; आज और भविष्य के लिए।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T05:33:08+00:00",
+        "link": "https://newsonair.gov.in/hi/today-is-world-population-day-the-objective-is-to-raise-awareness-about-the-challenges-associated-with-a-growing-population/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत-न्यूज़ीलैंड के बीच रक्षा, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 समझौता ज्ञापनों पर हस्ताक्षर",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और डेयरी संबंधी समझौता अनुसंधान, नवाचार और बेहतर तकनीकों के आदान-प्रदान को प्रोत्साहित करेगा। पर्यटन समझौते से दोनों देशों के बीच पर्यटन और यात्रा सहयोग बढ़ेगा। खेल के क्षेत्र में संयुक्त कार्ययोजना भी अपनाई गई है, जबकि आपदा प्रबंधन समझौते से आपदा तैयारी, राहत और बचाव कार्यों में सहयोग मजबूत होगा। वार्ता के दौरान प्रधानमंत्री मोदी ने कहा कि 40 वर्ष बाद किसी भारतीय प्रधानमंत्री की न्यूज़ीलैंड यात्रा दोनों देशों के संबंधों में एक ऐतिहासिक पड़ाव है। उन्होंने कहा कि दोनों देशों ने सामरिक साझेदारी स्थापित करने का महत्वपूर्ण निर्णय लिया है, जो भविष्य के सहयोग को नई दिशा देगा। प्रधानमंत्री ने मुक्त व्यापार समझौते की दिशा में हुई प्रगति की सराहना करते हुए कहा कि भारत और न्यूज़ीलैंड हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और सुरक्षा को मजबूत करने में महत्वपूर्ण भूमिका निभा सकते हैं। न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने कहा कि प्रधानमंत्री मोदी की यह यात्रा दोनों देशों के संबंधों को नई ऊंचाई देगी। उन्होंने कहा कि सामरिक साझेदारी से व्यापार सहित कई क्षेत्रों में सहयोग का दायरा और बढ़ेगा। इससे पहले गवर्नमेंट हाउस में प्रधानमंत्री मोदी का औपचारिक स्वागत किया गया और उन्हें गार्ड ऑफ ऑनर दिया गया। प्रधानमंत्री आज भारतीय समुदाय को संबोधित करेंगे तथा उद्योग और खेल जगत की प्रमुख हस्तियों से भी मुलाकात करेंगे।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T04:51:24+00:00",
+        "link": "https://newsonair.gov.in/hi/five-memorandums-of-understanding-mous-signed-between-india-and-new-zealand-covering-defense-tourism-sports-and-disaster-management/",
+        "post_id": 1730821,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी और न्यूज़ीलैंड के पीएम लक्सन ने द्विपक्षीय व्यापार को ₹35 हजार करोड़ तक पहुंचाने का लक्ष्य रखा",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच ऑकलैंड में हुई वार्ता के बाद दोनों देशों ने अपने संबंधों को सामरिक साझेदारी का दर्जा दिया। दोनों नेताओं ने वर्ष 2030 तक द्विपक्षीय वस्तु और सेवा व्यापार को बढ़ाकर 35 हजार करोड़ रुपये तक पहुंचाने का लक्ष्य भी तय किया। वार्ता के दौरान […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच ऑकलैंड में हुई वार्ता के बाद दोनों देशों ने अपने संबंधों को सामरिक साझेदारी का दर्जा दिया। दोनों नेताओं ने वर्ष 2030 तक द्विपक्षीय वस्तु और सेवा व्यापार को बढ़ाकर 35 हजार करोड़ रुपये तक पहुंचाने का लक्ष्य भी तय किया। वार्ता के दौरान अगले 4 वर्षों के लिए सहयोग रणनीति, हिंद-प्रशांत क्षेत्र में समुद्री सहयोग बढ़ाने की रूपरेखा और भारतीय नौसेना तथा न्यूज़ीलैंड रक्षा बल के बीच पारस्परिक लॉजिस्टिक सहयोग समझौते पर सहमति बनी। दोनों नेताओं ने हिंद-प्रशांत क्षेत्र को स्वतंत्र, खुला, सुरक्षित और समृद्ध बनाए रखने की प्रतिबद्धता दोहराई। उन्होंने समुद्री सुरक्षा सहयोग और सूचनाओं के आदान-प्रदान के लिए समुद्री सुरक्षा संवाद शुरू करने पर भी सहमति व्यक्त की। दोनों नेताओं ने भारत-न्यूज़ीलैंड मुक्त व्यापार समझौते का स्वागत करते हुए इसे जल्द लागू करने पर जोर दिया। पश्चिम एशिया की स्थिति पर चिंता व्यक्त करते हुए उन्होंने सभी पक्षों से संयम बरतने, तनाव कम करने और नागरिकों की सुरक्षा सुनिश्चित करने की अपील की। दोनों नेताओं ने संयुक्त राष्ट्र सुरक्षा परिषद में सुधार और उसके विस्तार की आवश्यकता पर भी बल दिया।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T04:46:03+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-and-new-zealand-prime-minister-luxon-set-a-target-to-take-bilateral-trade-to-%e2%82%b935000-crore/",
+        "post_id": 1731385,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "मेरा युवा-मेरा गौरव सम्मेलन 2026’ का उद्घाटन आज",
+        "summary": "मेरा युवा-मेरा गौरव सम्मेलन 2026’ का उद्घाटन मध्य प्रदेश के मुख्यमंत्री डॉ. मोहन यादव आज इंदौर में करेंगे। राज्य भर से लगभग 5 हज़ार युवाओं के इस कार्यक्रम में भाग लेने की उम्मीद है। सम्मेलन का उद्देश्य राज्य के विकास और नीति निर्माण प्रक्रिया में युवाओं को शामिल करना है। शिक्षा, खेल, उद्यमिता, कृषि, स्वास्थ्य […]",
+        "article": "मेरा युवा-मेरा गौरव सम्मेलन 2026’ का उद्घाटन मध्य प्रदेश के मुख्यमंत्री डॉ. मोहन यादव आज इंदौर में करेंगे। राज्य भर से लगभग 5 हज़ार युवाओं के इस कार्यक्रम में भाग लेने की उम्मीद है। सम्मेलन का उद्देश्य राज्य के विकास और नीति निर्माण प्रक्रिया में युवाओं को शामिल करना है। शिक्षा, खेल, उद्यमिता, कृषि, स्वास्थ्य सेवा, सूचना प्रौद्योगिकी और कौशल विकास सहित विभिन्न विषयों पर चर्चा और कार्यशालाएं आयोजित की जाएंगी। युवा प्रतिनिधि कार्यशाला के दौरान अपने विचार और सुझाव प्रस्तुत करेंगे, जिन्हें “मध्य प्रदेश युवा संकल्प 2026” दस्तावेज़ में संकलित किया जाएगा। मुख्यमंत्री 4 नए राज्य स्तरीय युवा पुरस्कारों की भी घोषणा करेंगे। सांस्कृतिक प्रस्तुतियां और स्थानीय युवा उद्यमियों द्वारा निर्मित फूड स्ट्रीट कार्यक्रम के मुख्य आकर्षण में शामिल होंगे।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T03:39:37+00:00",
+        "link": "https://newsonair.gov.in/hi/mera-yuva-mera-gaurav-sammelan-2026-inaugurated-today/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "देश के कई राज्यों में तेज वर्षा की संभावना: मौसम विभाग",
+        "summary": "मौसम विभाग ने बिहार, उत्तर प्रदेश, असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल के तराई वाले क्षेत्र और सिक्किम में अगले 3 दिन मूसलाधार वर्षा का अनुमान व्‍यक्‍त किया है। विभाग ने दिल्ली, हरियाणा, चंडीगढ़, पंजाब, अरुणाचल प्रदेश, हिमाचल प्रदेश, उत्तराखंड, लद्दाख और जम्मू-कश्मीर में अगले 5 दिन घनघोर बारिश की आशंका जताई है। […]",
+        "article": "मौसम विभाग ने बिहार, उत्तर प्रदेश, असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल के तराई वाले क्षेत्र और सिक्किम में अगले 3 दिन मूसलाधार वर्षा का अनुमान व्&#x200d;यक्&#x200d;त किया है। विभाग ने दिल्ली, हरियाणा, चंडीगढ़, पंजाब, अरुणाचल प्रदेश, हिमाचल प्रदेश, उत्तराखंड, लद्दाख और जम्मू-कश्मीर में अगले 5 दिन घनघोर बारिश की आशंका जताई है। वहीं, अंडमान-निकोबार द्वीप समूह, आंध्र प्रदेश, मध्य प्रदेश, तेलंगाना, कर्नाटक, ओडिशा, तमिलनाडु, पुद्दुचेरी, कराईक्&#x200d;काल, मध्य प्रदेश, छत्तीसगढ़, झारखंड और पूर्वोत्&#x200d;तर क्षेत्र के कुछ हिस्सों में अगले 3-4 दिनों में तेज हवाओं के साथ बारिश होने की संभावना है।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T03:12:32+00:00",
+        "link": "https://newsonair.gov.in/hi/possibility-of-heavy-rain-in-several-states-across-the-country-meteorological-department/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ब्रिक्स देशों के परिवहन मंत्रियों की बैठक आज, केंद्रीय मंत्री नितिन गडकरी करेंगे अध्यक्षता",
+        "summary": "केंद्रीय सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी आज नागपुर में ब्रिक्स देशों के परिवहन मंत्रियों की बैठक की अध्यक्षता करेंगे। यह बैठक, भारत की ब्रिक्स अध्यक्षता की थीम “लचीलापन, नवाचार, सहयोग और सतत विकास” पर केंद्रित है। बैठक में ब्रिक्स देशों के बीच परिवहन क्षेत्र में सहयोग बढ़ाने और साझा परिवहन रणनीति पर चर्चा […]",
+        "article": "केंद्रीय सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी आज नागपुर में ब्रिक्स देशों के परिवहन मंत्रियों की बैठक की अध्यक्षता करेंगे। यह बैठक, भारत की ब्रिक्स अध्यक्षता की थीम “लचीलापन, नवाचार, सहयोग और सतत विकास” पर केंद्रित है। बैठक में ब्रिक्स देशों के बीच परिवहन क्षेत्र में सहयोग बढ़ाने और साझा परिवहन रणनीति पर चर्चा की जाएगी।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T03:09:02+00:00",
+        "link": "https://newsonair.gov.in/hi/meeting-of-brics-transport-ministers-today-union-minister-nitin-gadkari-to-preside/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत की संस्कृति और विरासत के संरक्षण में एआई का इस्तेमाल करने की ज़रूरत: मंत्री अर्जुन राम मेघवाल",
+        "summary": "कानून और न्याय राज्य मंत्री अर्जुन राम मेघवाल ने कहा है कि आर्टिफिशियल इंटेलिजेंस यानी एआई को भारत की संस्कृति और विरासत के संरक्षण तथा समावेशी विकास के लिए प्रभावी ढंग से इस्तेमाल किया जाना चाहिए। नई दिल्ली में एक पुस्तक लोकार्पण कार्यक्रम में उन्होंने कहा कि तकनीकी प्रगति भारत के सांस्कृतिक मूल्यों और राष्ट्रीय […]",
+        "article": "कानून और न्याय राज्य मंत्री अर्जुन राम मेघवाल ने कहा है कि आर्टिफिशियल इंटेलिजेंस यानी एआई को भारत की संस्कृति और विरासत के संरक्षण तथा समावेशी विकास के लिए प्रभावी ढंग से इस्तेमाल किया जाना चाहिए। नई दिल्ली में एक पुस्तक लोकार्पण कार्यक्रम में उन्होंने कहा कि तकनीकी प्रगति भारत के सांस्कृतिक मूल्यों और राष्ट्रीय प्राथमिकताओं के अनुरूप होनी चाहिए। महिला एवं बाल विकास राज्य मंत्री सावित्री ठाकुर ने कहा कि महिलाओं को नई तकनीकों का केवल उपयोगकर्ता ही नहीं, बल्कि उनके विकास में भी सक्रिय भागीदार बनना चाहिए। उन्होंने कहा कि इंडिया एआई मिशन के तहत देश में आर्टिफिशियल इंटेलिजेंस का मजबूत तंत्र विकसित किया जा रहा है।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:29:55+00:00",
+        "link": "https://newsonair.gov.in/hi/the-need-to-use-ai-in-the-preservation-of-indias-culture-and-heritage/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार देश की तटीय सुरक्षा सुदृढ़ करने के लिए पूरी तरह प्रतिबद्ध: गृह मंत्री अमित शाह",
+        "summary": "गृह मंत्री अमित शाह ने कहा है कि सरकार देश की तटीय सुरक्षा सुदृढ़ करने के लिए पूरी तरह प्रतिबद्ध है। श्री शाह ने पत्‍तन, पोत परिवहन और जलमार्ग मंत्री सरबानंद सोनोवाल के साथ पत्‍तन सुरक्षा ब्यूरो की स्थापना में हुई प्रगति की समीक्षा के दौरान ये बात कही। गृह मंत्री ने कहा कि पत्‍तन […]",
+        "article": "गृह मंत्री अमित शाह ने कहा है कि सरकार देश की तटीय सुरक्षा सुदृढ़ करने के लिए पूरी तरह प्रतिबद्ध है। श्री शाह ने पत्&#x200d;तन, पोत परिवहन और जलमार्ग मंत्री सरबानंद सोनोवाल के साथ पत्&#x200d;तन सुरक्षा ब्यूरो की स्थापना में हुई प्रगति की समीक्षा के दौरान ये बात कही। गृह मंत्री ने कहा कि पत्&#x200d;तन सुरक्षा का दायित्&#x200d;व केवल लाइसेंस प्राप्त निजी सुरक्षा एजेंसियों को सौंपा जाना चाहिए और केवल केंद्रीय औद्योगिक सुरक्षा बल से प्रशिक्षित कर्मियों को ही तैनात किया जाना चाहिए। उन्होंने वर्तमान बुनियादी ढांचे का उपयोग करते हुए पत्&#x200d;तन सुरक्षा प्रशिक्षण संस्थान में प्रशिक्षण शीघ्र शुरू करने को कहा। गृह मंत्री ने अधिकारियों को ब्&#x200d;यूरो के अंर्तगत तैनात किए जाने वाले सभी सुरक्षा कर्मियों का एक व्यापक डेटाबेस बनाने का भी निर्देश दिया। श्री शाह ने कहा कि ब्&#x200d;यूरो के सुरक्षा ढांचे के अंतर्गत आने वाले सभी बंदरगाहों में कंटेनर स्कैनिंग की सुविधा होनी चाहिए। इस बैठक में केंद्रीय गृह सचिव, खुफिया ब्यूरो के निदेशक, सीमा प्रबंधन सचिव, पत्&#x200d;तन, पोत परिवहन और जलमार्ग मंत्रालय सचिव, मत्स्य विभाग के सचिव, केंद्रीय औद्योगिक सुरक्षा बल के महानिदेशक और अन्य वरिष्ठ अधिकारी उपस्थित थे। श्री शाह ने मत्स्य विभाग के अधिकारियों के साथ मछली पकड़ने वाले बंदरगाहों और मछली उतारने के केंद्रों के लिए सुरक्षा व्यवस्था की समीक्षा भी की। उन्होंने विभाग को देशभर के जिलाधिकारियों और पुलिस अधीक्षकों को उनके संबंधित जिलों में सभी मछली उतारने के केंद्रों का विवरण मांगने का भी निर्देश दिया। गृह मंत्री ने मछुआरों के लिए पंजीकरण प्रक्रिया सरल बनाने और जिला पुलिस अधीक्षक को मछली उतारने के केंद्रों पर स्थायी पुलिस कर्मियों की तैनाती करने का निर्देश दिया।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T01:27:15+00:00",
+        "link": "https://newsonair.gov.in/hi/government-fully-committed-to-strengthening-the-countrys-coastal-security-home-minister-amit-shah/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कोयला ब्लॉकों की नीलामी के 15वें चरण में 8 ब्लॉकों के लिए प्राप्त हुई 21 बोलियां",
+        "summary": "कोयला मंत्रालय ने वाणिज्यिक कोयला ब्लॉकों की नीलामी के 15वें चरण तथा 13वें और 14वें चरण के दूसरे प्रयास के लिए प्राप्त बोलियां खोल दी हैं। मंत्रालय के अनुसार, 23 कोयला ब्लॉकों में से 8 के लिए कुल 21 बोलियां प्राप्त हुई हैं। मंत्रालय ने बताया कि इस नीलामी प्रक्रिया में 16 कंपनियों ने भाग […]",
+        "article": "कोयला मंत्रालय ने वाणिज्यिक कोयला ब्लॉकों की नीलामी के 15वें चरण तथा 13वें और 14वें चरण के दूसरे प्रयास के लिए प्राप्त बोलियां खोल दी हैं। मंत्रालय के अनुसार, 23 कोयला ब्लॉकों में से 8 के लिए कुल 21 बोलियां प्राप्त हुई हैं। मंत्रालय ने बताया कि इस नीलामी प्रक्रिया में 16 कंपनियों ने भाग लिया, जो वाणिज्यिक कोयला खनन में उद्योगों की मजबूत भागीदारी को दर्शाता है।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T01:22:04+00:00",
+        "link": "https://newsonair.gov.in/hi/21-bids-received-for-8-blocks-in-the-15th-round-of-coal-block-auctions/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1250,112 +1275,113 @@ window.VM_NEWS = {
     ],
     "national": [
       {
-        "title": "सीबीआई ने 133 करोड़ रुपये से अधिक की बैंक धोखाधड़ी का मामला दर्ज किया",
-        "summary": "केंद्रीय अन्वेषण ब्यूरो ने मुंबई में एक निजी कंपनी के निदेशकों के खिलाफ 133 करोड़ रुपये से अधिक धनराशि की कथित धोखाधड़ी का मामला दर्ज किया है। ब्यूरो ने आज मुंबई, महाराष्ट्र और कोच्चि, केरल में आरोपियों से जुड़े कई परिसरों पर तलाशी ली। यह मामला कल मुंबई स्थित भारतीय स्टेट बैंक की शिकायत के […]",
-        "article": "केंद्रीय अन्वेषण ब्यूरो ने मुंबई में एक निजी कंपनी के निदेशकों के खिलाफ 133 करोड़ रुपये से अधिक धनराशि की कथित धोखाधड़ी का मामला दर्ज किया है। ब्यूरो ने आज मुंबई, महाराष्ट्र और कोच्चि, केरल में आरोपियों से जुड़े कई परिसरों पर तलाशी ली। यह मामला कल मुंबई स्थित भारतीय स्टेट बैंक की शिकायत के आधार पर दर्ज किया गया था। शिकायत में आरोप है कि आरोपी निदेशकों ने अज्ञात सरकारी कर्मचारियों और अन्य व्यक्तियों के साथ मिलकर बैंक को 133 करोड़ 52 लाख रुपये से अधिक का नुकसान पहुंचाया है। ब्यूरो के अनुसार, आरोपियों ने कथित तौर पर आपराधिक साजिश रचकर गलत वित्तीय जानकारी प्रस्तुत करके बैंक से अधिक ऋण सुविधाएं प्राप्त कीं। ऋण राशि को स्वीकृत उद्देश्यों के अलावा अन्य उद्देश्यों के लिए इस्तेमाल किया गया, जिसके परिणामस्वरूप बैंक को वित्तीय नुकसान हुआ। ब्यूरो ने कहा कि तलाशी के दौरान जांच से संबंधित आपत्तिजनक सामग्री बरामद हुई है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T16:00:10+00:00",
-        "link": "https://newsonair.gov.in/hi/the-cbi-registered-a-case-of-bank-fraud-worth-over-%e2%82%b9133-crore/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/cbi-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन 14 जुलाई को अंतरिक्ष मिशन पर होंगे रवाना",
-        "summary": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन 14 जुलाई को कजाकिस्तान के बैकोनूर अंतरिक्ष प्रशिक्षण केंद्र से अंतर्राष्ट्रीय अंतरिक्ष स्टेशन के लिए आठ महीने के मिशन पर रवाना होने वाले हैं। वे अंतरिक्ष यात्रियों प्योत्र दुब्रोव और अन्ना किकिना के साथ रूस की अंतरिक्ष एजेंसी रोस्कोस्मोस के सोयुज एमएस-29 अंतरिक्ष यान में सवार होकर […]",
-        "article": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन 14 जुलाई को कजाकिस्तान के बैकोनूर अंतरिक्ष प्रशिक्षण केंद्र से अंतर्राष्ट्रीय अंतरिक्ष स्टेशन के लिए आठ महीने के मिशन पर रवाना होने वाले हैं। वे अंतरिक्ष यात्रियों प्योत्र दुब्रोव और अन्ना किकिना के साथ रूस की अंतरिक्ष एजेंसी रोस्कोस्मोस के सोयुज एमएस-29 अंतरिक्ष यान में सवार होकर अंतरिक्ष यात्रा करेंगे। अंतरिक्ष स्टेशन में रहते हुए, श्री मेनन लंबी अवधि की अंतरिक्ष यात्रा के शारीरिक प्रभावों और सूक्ष्म गुरुत्वाकर्षण के अंतरिक्ष यात्रियों में रक्त प्रवाह, शिरा संरचना और रक्त संरचना पर प्रभाव का अध्ययन करेंगे। वे अंतरिक्ष स्टेशन की पेय जल प्रणाली का उपयोग करके अंतःशिरा द्रव तैयार करने की तकनीकों का परीक्षण करने में भी मदद करेंगे। वे अल्ट्रासाउंड जांच भी करेंगे जिससे भविष्य के अंतरिक्ष अभियानों में पृथ्वी से चिकित्सा सहायता की आवश्यकता समाप्त हो सकती है। मिनियापोलिस में जन्मे अनिल मेनन आपातकालीन चिकित्सा चिकित्सक और अमरीकी अंतरिक्ष बल में कर्नल हैं। 49 वर्षीय मेनन ने 2014 में नासा में फ्लाइट सर्जन के रूप में अपना करियर शुरू किया और अंतर्राष्ट्रीय अंतरिक्ष सेवा केंद्र पर रहने और काम करने वाले अंतरिक्ष यात्रियों के साथ काम किया। मेनन 2018 में स्पेसएक्स में शामिल हुए। दिसंबर 2021 में उनका चयन नासा के अंतरिक्ष यात्री के रूप में हुआ और उन्होंने दो साल का प्रशिक्षण शुरू किया।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:57:52+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-origin-nasa-astronaut-anil-menon-will-depart-for-a-space-mission-on-july-14/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM4C2OrXEAEVLNO.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पीएम-सेतु पहल के तहत सूरत आईटीआई समूह के लिए 240 करोड़ रुपये की निवेश योजना",
-        "summary": "कौशल विकास, उद्यमिता और शिक्षा राज्य मंत्री जयंत चौधरी ने आज पीएम-सेतु पहल के अंतर्गत सूरत औद्योगिक प्रशिक्षण संस्थान-आईटीआई समूह के लिए 240 करोड़ रुपये की रणनीतिक निवेश योजना का अनावरण किया। इस पहल में आर्सेलर मित्तल निप्पॉन स्टील इंडिया को समूह का प्रमुख उद्योग भागीदार नामित किया गया है। आईटीआई सूरत को अगले पांच […]",
-        "article": "कौशल विकास, उद्यमिता और शिक्षा राज्य मंत्री जयंत चौधरी ने आज पीएम-सेतु पहल के अंतर्गत सूरत औद्योगिक प्रशिक्षण संस्थान-आईटीआई समूह के लिए 240 करोड़ रुपये की रणनीतिक निवेश योजना का अनावरण किया। इस पहल में आर्सेलर मित्तल निप्पॉन स्टील इंडिया को समूह का प्रमुख उद्योग भागीदार नामित किया गया है। आईटीआई सूरत को अगले पांच वर्षों में केंद्रीय केंद्र के रूप में विकसित किया जाएगा। वहीं, हजीरा, बरदोली, सचिन और महिला आईटीआई सूरत सहायक संस्थानों के रूप में कार्य करेंगे। इस परियोजना का उद्देश्य 25 हजार से अधिक युवाओं को आधुनिक उद्योग-उन्मुख प्रशिक्षण, शिक्षुता और नए रोजगार के अवसर प्रदान करना है। इस योजना में आर्सेलर मित्तल निप्पॉन स्टील इंडिया औद्योगिक आवश्यकताओं के अनुरूप उन्नत पाठ्यक्रम, डिजिटल शिक्षा, उद्योग में भागीदारी, कार्यस्थल पर प्रशिक्षण और शिक्षकों के कौशल विकास की शुरुआत करेगा।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:46:56+00:00",
-        "link": "https://newsonair.gov.in/hi/investment-plan-of-%e2%82%b9240-crore-for-the-surat-iti-cluster-under-the-pm-setu-initiative/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/jayanta-choudhury-minister-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेंद्र मोदी तीन देशों की यात्रा के अंतिम चरण में न्‍यूजीलैंड के ऑकलैंड पहुंचे",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी का न्यूजीलैंड की अपनी दो दिन की ऐतिहासिक यात्रा के शुरू में ऑकलैंड पहुंचने पर हार्दिक स्वागत किया गया। किसी भारतीय प्रधानमंत्री की लगभग चार दशकों में यह पहली न्यूजीलैंड यात्रा है। ऑकलैंड पहुंचने पर न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने हवाई अड्डे पर प्रधानमंत्री का स्वागत किया। भारतीय समुदाय के लोग […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी का न्यूजीलैंड की अपनी दो दिन की ऐतिहासिक यात्रा के शुरू में ऑकलैंड पहुंचने पर हार्दिक स्वागत किया गया। किसी भारतीय प्रधानमंत्री की लगभग चार दशकों में यह पहली न्यूजीलैंड यात्रा है। ऑकलैंड पहुंचने पर न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने हवाई अड्डे पर प्रधानमंत्री का स्वागत किया। भारतीय समुदाय के लोग बड़ी संख्या में उनके स्वागत के लिए एकत्रित हुए थे। लोगों ने भारतीय तिरंगा लहराते हुए और &#8220;किया ओरा मोदी&#8221; के नारे लगाते हुए उनका स्वागत किया, जिससे वातावरण उत्साह से भर गया। इस यात्रा के दौरान, दोनों नेताओं द्वारा व्यापार, निवेश, शिक्षा, प्रौद्योगिकी और आपसी संबंधों में सहयोग को और मजबूत करने के तरीकों पर चर्चा किए जाने की उम्मीद है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:40:04+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-arrived-in-auckland-new-zealand-on-the-final-leg-of-his-three-nation-tour/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/noname-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतीय नौसेना स्वदेशी स्टील्थ फ्रिगेट महेंद्रगिरि को पूर्वी बेड़े में करेगी शामिल",
-        "summary": "भारतीय नौसेना कल विशाखापत्तनम में अपने पूर्वी बेड़े में 17ए परियोजना के अंतर्गत निर्मित छठे स्वदेशी स्टील्थ फ्रिगेट महेंद्रगिरि को शामिल करेगी। रक्षा मंत्री राजनाथ सिंह नौसेना में युद्धपोत को औपचारिक रूप से शामिल करने के समारोह की अध्यक्षता करेंगे। भारतीय नौसेना के युद्धपोत डिजाइन इकाई द्वारा तैयार की गई रूपरेखा के आधार पर […]",
-        "article": "भारतीय नौसेना कल विशाखापत्तनम में अपने पूर्वी बेड़े में 17ए परियोजना के अंतर्गत निर्मित छठे स्वदेशी स्टील्थ फ्रिगेट महेंद्रगिरि को शामिल करेगी। रक्षा मंत्री राजनाथ सिंह नौसेना में युद्धपोत को औपचारिक रूप से शामिल करने के समारोह की अध्यक्षता करेंगे। भारतीय नौसेना के युद्धपोत डिजाइन इकाई द्वारा तैयार की गई रूपरेखा के आधार पर मुंबई स्थित मझगांव डॉक शिपबिल्डर्स लिमिटेड में निर्मित युद्धपोत महेंद्रगिरि देश के अग्रणी स्वदेशी स्टील्थ युद्धपोतों में से एक हैं। यह युद्धपोत उन्नत स्टील्थ तकनीक, रडार से बचने और उच्च स्तर की स्वचालन प्रणाली से युक्त है। युक्त यह युद्धपोत नौसैनिक युद्ध के सभी आयामों में समुद्री अभियानों की पूरी श्रृंखला को अंजाम देने के लिए डिज़ाइन किया गया है। इस पोत के निर्माण में सूक्ष्म, लघु और मध्यम सहित बड़ी संख्या में भारतीय उद्योग शामिल हैं, जिससे देश के रक्षा औद्योगिक आधार को मजबूती मिली है और महत्वपूर्ण रोजगार सृजित हुए हैं।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:38:56+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-navy-to-induct-indigenous-stealth-frigate-mahendragiri-into-eastern-fleet/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM3YdywaAAAs7e9.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कई राज्यों में अगले 3-4 दिन भारी से अत्यधिक बारिश का ऑरेंज अलर्ट",
-        "summary": "मौसम विभाग ने अगले तीन से चार दिन के दौरान बिहार, उत्तर प्रदेश, असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा और पश्चिम बंगाल के तराई वाले क्षेत्रों तथा सिक्किम में मूसलाधार और कुछ स्थानों पर अत्यधिक बारिश का ओरेंज अलर्ट जारी किया है।",
-        "article": "मौसम विभाग ने अगले तीन से चार दिन के दौरान बिहार, उत्तर प्रदेश, असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा और पश्चिम बंगाल के तराई वाले क्षेत्रों तथा सिक्किम में मूसलाधार और कुछ स्थानों पर अत्यधिक बारिश का ओरेंज अलर्ट जारी किया है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:36:33+00:00",
-        "link": "https://newsonair.gov.in/hi/orange-alert-for-heavy-to-extremely-heavy-rainfall-in-several-states-over-the-next-3-4-days/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/rain-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कैलाश मानसरोवर यात्रा का पहले जत्थे ने उत्तराखंड के पिथौरागढ़ जिले के लिपुलेख दर्रे से चीन में किया प्रवेश",
-        "summary": "कैलाश मानसरोवर यात्रा का पहला जत्था आज उत्तराखंड के पिथौरागढ़ जिले के लिपुलेख दर्रे से चीन में प्रवेश कर गया। भारत-तिब्बत सीमा पुलिस के अधिकारियों ने जत्‍थे की सभी आवश्यक आव्रजन और सीमा संबंधी औपचारिकताओं को पूरा करवाया। इस जत्थे में 52 सदस्य हैं, जिनमें 48 तीर्थयात्री, एक चिकित्सा कर्मी और तीन रसोइये हैं। चीन […]",
-        "article": "कैलाश मानसरोवर यात्रा का पहला जत्था आज उत्तराखंड के पिथौरागढ़ जिले के लिपुलेख दर्रे से चीन में प्रवेश कर गया। भारत-तिब्बत सीमा पुलिस के अधिकारियों ने जत्&#x200d;थे की सभी आवश्यक आव्रजन और सीमा संबंधी औपचारिकताओं को पूरा करवाया। इस जत्थे में 52 सदस्य हैं, जिनमें 48 तीर्थयात्री, एक चिकित्सा कर्मी और तीन रसोइये हैं। चीन में प्रवेश करने के बाद, समूह आगामी दिनों में पवित्र कैलाश पर्वत और मानसरोवर झील की यात्रा से पहले निर्धारित शिविरों में विश्राम करेगा। प्रशासन और सुरक्षा एजेंसियों ने तीर्थयात्रा को सुरक्षित और सुचारू रूप से संपन्न कराने के लिए लिपुलेख मार्ग पर व्यापक व्यवस्था की है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:31:28+00:00",
-        "link": "https://newsonair.gov.in/hi/the-first-batch-of-the-kailash-mansarovar-yatra-entered-china-via-the-lipulekh-pass-in-uttarakhands-pithoragarh-district/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/kailash-mansarovar.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "मानसून सत्र की तैयारियों की समीक्षा, संसदीय कार्य राज्य मंत्रियों ने दिए निर्देश",
-        "summary": "संसदीय कार्य राज्य मंत्री अर्जुन राम मेघवाल और डॉ. एल. मुरुगन ने आज संसद भवन परिसर में आगामी मानसून सत्र की तैयारियों की समीक्षा की। संसद का सत्र 20 जुलाई से 13 अगस्त तक चलेगा। सोशल मीडिया पोस्ट में श्री मेघवाल ने बताया कि आगामी सत्र के लिए निर्धारित विधायी कार्यों की समीक्षा की गई […]",
-        "article": "संसदीय कार्य राज्य मंत्री अर्जुन राम मेघवाल और डॉ. एल. मुरुगन ने आज संसद भवन परिसर में आगामी मानसून सत्र की तैयारियों की समीक्षा की। संसद का सत्र 20 जुलाई से 13 अगस्त तक चलेगा। सोशल मीडिया पोस्ट में श्री मेघवाल ने बताया कि आगामी सत्र के लिए निर्धारित विधायी कार्यों की समीक्षा की गई और आवश्यक निर्देश जारी किए गए।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:18:13+00:00",
-        "link": "https://newsonair.gov.in/hi/review-of-preparations-for-the-monsoon-session-ministers-of-state-for-parliamentary-affairs-issue-directives/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/12/Arjun-Meghwal.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गृह मंत्री अमित शाह ने तटीय और बंदरगाह सुरक्षा की समीक्षा की",
-        "summary": "गृह मंत्री अमित शाह ने कहा कि प्रधानमंत्री नरेन्द्र मोदी के नेतृत्व में सरकार देश की तटीय सुरक्षा को अभेद्य बनाने के लिए पूरी तरह प्रतिबद्ध है। श्री शाह ने पोत पत्तन परिवहन और जलमार्ग मंत्री सरबानंद सोनोवाल के साथ आज बंदरगाह सुरक्षा ब्यूरो-बीओपीएस की स्थापना में हुई प्रगति की समीक्षा की। श्री शाह […]",
-        "article": "गृह मंत्री अमित शाह ने कहा कि प्रधानमंत्री नरेन्द्र मोदी के नेतृत्व में सरकार देश की तटीय सुरक्षा को अभेद्य बनाने के लिए पूरी तरह प्रतिबद्ध है। श्री शाह ने पोत पत्तन परिवहन और जलमार्ग मंत्री सरबानंद सोनोवाल के साथ आज बंदरगाह सुरक्षा ब्यूरो-बीओपीएस की स्थापना में हुई प्रगति की समीक्षा की। श्री शाह ने कहा कि बंदरगाह सुरक्षा केवल लाइसेंस प्राप्त निजी सुरक्षा एजेंसियों को ही सौंपा जाना चाहिए। बंदरगाह की सुरक्षा में केंद्रीय औद्योगिक सुरक्षा बल-सीआईएसएफ से प्रशिक्षण प्राप्त निजी सुरक्षा कर्मियों को ही तैनात किया जाना चाहिए। श्री शाह ने सीआईएसएफ को विशाखापत्तनम बंदरगाह, जवाहरलाल नेहरू बंदरगाह और मुंद्रा बंदरगाह सहित देश भर के प्रमुख बंदरगाहों पर बंदरगाह सुरक्षा ब्यूरो को सौंपे जाने वाले प्रस्तावित सुरक्षा व्यवस्थाओं का परीक्षण करने का निर्देश दिया। बंदरगाह सुरक्षा ब्यूरो की स्थापना व्यापारिक जहाजरानी अधिनियम, 2025 की धारा 13 के प्रावधानों के अंतर्गत एक वैधानिक निकाय के रूप में की जा रही है। ब्यूरो का नेतृत्व एक महानिदेशक करेंगे और यह बंदरगाह, जहाजरानी और जलमार्ग मंत्रालय के अधीन कार्य करेगा। श्री शाह ने मत्स्य विभाग के अधिकारियों के साथ बैठक की और मछली पकड़ने के बंदरगाह केंद्रों की सुरक्षा मजबूत करने के लिए आवश्यक निर्देश जारी किए। उन्होंने निर्देश दिया कि भारतीय अंतरिक्ष अनुसंधान संगठन द्वारा विकसित नभमित्र ऐप का व्यापक प्रचार-प्रसार किया जाए जिससे अधिक से अधिक मछुआरे इसे अपने मोबाइल फोन पर डाउनलोड कर सकें। बैठक में केंद्रीय गृह सचिव, खुफिया विभाग के निदेशक, सीमा प्रबंधन सचिव, पोत पत्तन परिवहन और जलमार्ग सचिव, मत्स्य विभाग के सचिव, केंद्रीय औद्योगिक सुरक्षा बल के महानिदेशक और अन्य वरिष्ठ अधिकारी उपस्थित थे।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:39:08+00:00",
-        "link": "https://newsonair.gov.in/hi/home-minister-amit-shah-reviewed-coastal-and-port-security/",
+        "title": "भारत-न्यूजीलैंड द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाने पर सहमत: विदेश मंत्रालय",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने आज ऑकलैंड में वार्ता की। विदेश मंत्रालय में पूर्वी देशों के प्रभारी सचिव, रूद्रेंद्र टंडन ने ऑकलैंड में संवाददाता सम्मेलन में बताया कि दोनों नेता द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाने पर सहमत हुए हैं। श्री टंडन ने बताया कि श्री मोदी और श्री […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने आज ऑकलैंड में वार्ता की। विदेश मंत्रालय में पूर्वी देशों के प्रभारी सचिव, रूद्रेंद्र टंडन ने ऑकलैंड में संवाददाता सम्मेलन में बताया कि दोनों नेता द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाने पर सहमत हुए हैं। श्री टंडन ने बताया कि श्री मोदी और श्री लक्सन ने आगामी 4 वर्षों में साझा रूप से काम करने के लिए भारत-न्यूजीलैंड रणनीतिक साझेदारी-2030 तक की रूपरेखा को भी मंजूरी दी है। उन्होंने कहा कि इसका उद्देश्य द्विपक्षीय संबंधों को और मज़बूत करना है।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T05:56:23+00:00",
+        "link": "https://newsonair.gov.in/hi/agreed-to-elevate-india-new-zealand-bilateral-relations-to-a-strategic-partnership-ministry-of-external-affairs/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "भारत-ओमान के बीच खाड़ी क्षेत्र में शांति तथा स्थिरता सुनिश्चित करने के प्रयासों पर व्यापक विचार-विमर्श",
-        "summary": "विदेश मंत्री डॉ. एस. जयशंकर ने आज मस्कत में ओमान के विदेश मंत्री बदर-बिन-हमद-अल बुसैदी से मुलाकात की और दोनों देशों के बीच सहयोग के विभिन्न पहलुओं पर चर्चा की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि चर्चा व्यापार, निवेश, संपर्क, समुद्री क्षेत्र, प्रौद्योगिकी, रक्षा और साइबर तथा एआई क्षेत्रों पर केंद्रित रही। […]",
-        "article": "विदेश मंत्री डॉ. एस. जयशंकर ने आज मस्कत में ओमान के विदेश मंत्री बदर-बिन-हमद-अल बुसैदी से मुलाकात की और दोनों देशों के बीच सहयोग के विभिन्न पहलुओं पर चर्चा की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि चर्चा व्यापार, निवेश, संपर्क, समुद्री क्षेत्र, प्रौद्योगिकी, रक्षा और साइबर तथा एआई क्षेत्रों पर केंद्रित रही। दोनों नेताओं ने खाड़ी क्षेत्र में हो रहे घटनाक्रमों और क्षेत्र में शांति तथा स्थिरता सुनिश्चित करने के प्रयासों पर भी व्यापक विचार-विमर्श किया। डॉ. जयशंकर ने कहा कि चर्चा से दोनों देशों के बीच रणनीतिक साझेदारी के विश्&#x200d;वास और मजबूती का पता चलता है। इस बीच, ओमान के विदेश मंत्री ने कहा कि भारत और ओमान के बीच सदियों पुराने समुद्री संबंध दोनों देशों के लोगों को सदियों से जोड़ते रहे हैं और एक-दूसरे के बीच साझेदारी के लिए मजबूत आधार प्रदान करते हैं। सोशल मीडिया पोस्ट में श्री बदर अल बुसैदी ने कहा कि दोनों नेताओं ने होर्मुज जलडमरूमध्य में नौवहन की स्वतंत्रता सुनिश्चित करने के लिए गहन कूटनीति पर चर्चा की और भारत का उसके समर्थन के लिए आभार व्&#x200d;यक्&#x200d;त किया।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:25:34+00:00",
-        "link": "https://newsonair.gov.in/hi/india-and-oman-held-discussion-to-ensure-peace-and-stability-in-the-gulf/",
-        "post_id": 1730296,
+        "title": "विश्व जनसंख्या दिवस आज: बढ़ती जनसंख्या से जुड़ी चुनौतियों के प्रति जागरूकता बढ़ाना है उद्देश्य",
+        "summary": "आज विश्व जनसंख्या दिवस है। प्रत्‍येक वर्ष 11 जुलाई को मनाया जाने वाला यह दिन बढ़ती जनसंख्या से जुड़ी चुनौतियों और अवसरों के प्रति जागरूकता बढ़ाने के लिए मनाया जाता है। इसका उद्देश्य जनसंख्या से जुड़े मुद्दों पर ध्यान केंद्रित करना और सतत विकास की दिशा में प्रयासों को प्रोत्साहित करना है। विश्व जनसंख्या दिवस […]",
+        "article": "आज विश्व जनसंख्या दिवस है। प्रत्&#x200d;येक वर्ष 11 जुलाई को मनाया जाने वाला यह दिन बढ़ती जनसंख्या से जुड़ी चुनौतियों और अवसरों के प्रति जागरूकता बढ़ाने के लिए मनाया जाता है। इसका उद्देश्य जनसंख्या से जुड़े मुद्दों पर ध्यान केंद्रित करना और सतत विकास की दिशा में प्रयासों को प्रोत्साहित करना है। विश्व जनसंख्या दिवस की शुरुआत वर्ष 1989 में संयुक्त राष्ट्र विकास कार्यक्रम के तत्कालीन शासी परिषद ने की थी। इसके बाद वर्ष 1990 में संयुक्त राष्ट्र महासभा ने एक प्रस्ताव पारित कर इस दिवस को नियमित रूप से मनाने का निर्णय लिया। इस वर्ष विश्व जनसंख्या दिवस का विषय है-युवाओं की आशाओं और आकांक्षाओं को साकार करना &#8211; आज और भविष्य के लिए।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T05:33:08+00:00",
+        "link": "https://newsonair.gov.in/hi/today-is-world-population-day-the-objective-is-to-raise-awareness-about-the-challenges-associated-with-a-growing-population/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत-न्यूज़ीलैंड के बीच रक्षा, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 समझौता ज्ञापनों पर हस्ताक्षर",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और डेयरी संबंधी समझौता अनुसंधान, नवाचार और बेहतर तकनीकों के आदान-प्रदान को प्रोत्साहित करेगा। पर्यटन समझौते से दोनों देशों के बीच पर्यटन और यात्रा सहयोग बढ़ेगा। खेल के क्षेत्र में संयुक्त कार्ययोजना भी अपनाई गई है, जबकि आपदा प्रबंधन समझौते से आपदा तैयारी, राहत और बचाव कार्यों में सहयोग मजबूत होगा। वार्ता के दौरान प्रधानमंत्री मोदी ने कहा कि 40 वर्ष बाद किसी भारतीय प्रधानमंत्री की न्यूज़ीलैंड यात्रा दोनों देशों के संबंधों में एक ऐतिहासिक पड़ाव है। उन्होंने कहा कि दोनों देशों ने सामरिक साझेदारी स्थापित करने का महत्वपूर्ण निर्णय लिया है, जो भविष्य के सहयोग को नई दिशा देगा। प्रधानमंत्री ने मुक्त व्यापार समझौते की दिशा में हुई प्रगति की सराहना करते हुए कहा कि भारत और न्यूज़ीलैंड हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और सुरक्षा को मजबूत करने में महत्वपूर्ण भूमिका निभा सकते हैं। न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने कहा कि प्रधानमंत्री मोदी की यह यात्रा दोनों देशों के संबंधों को नई ऊंचाई देगी। उन्होंने कहा कि सामरिक साझेदारी से व्यापार सहित कई क्षेत्रों में सहयोग का दायरा और बढ़ेगा। इससे पहले गवर्नमेंट हाउस में प्रधानमंत्री मोदी का औपचारिक स्वागत किया गया और उन्हें गार्ड ऑफ ऑनर दिया गया। प्रधानमंत्री आज भारतीय समुदाय को संबोधित करेंगे तथा उद्योग और खेल जगत की प्रमुख हस्तियों से भी मुलाकात करेंगे।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T04:51:24+00:00",
+        "link": "https://newsonair.gov.in/hi/five-memorandums-of-understanding-mous-signed-between-india-and-new-zealand-covering-defense-tourism-sports-and-disaster-management/",
+        "post_id": 1730821,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी और न्यूज़ीलैंड के पीएम लक्सन ने द्विपक्षीय व्यापार को ₹35 हजार करोड़ तक पहुंचाने का लक्ष्य रखा",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच ऑकलैंड में हुई वार्ता के बाद दोनों देशों ने अपने संबंधों को सामरिक साझेदारी का दर्जा दिया। दोनों नेताओं ने वर्ष 2030 तक द्विपक्षीय वस्तु और सेवा व्यापार को बढ़ाकर 35 हजार करोड़ रुपये तक पहुंचाने का लक्ष्य भी तय किया। वार्ता के दौरान […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच ऑकलैंड में हुई वार्ता के बाद दोनों देशों ने अपने संबंधों को सामरिक साझेदारी का दर्जा दिया। दोनों नेताओं ने वर्ष 2030 तक द्विपक्षीय वस्तु और सेवा व्यापार को बढ़ाकर 35 हजार करोड़ रुपये तक पहुंचाने का लक्ष्य भी तय किया। वार्ता के दौरान अगले 4 वर्षों के लिए सहयोग रणनीति, हिंद-प्रशांत क्षेत्र में समुद्री सहयोग बढ़ाने की रूपरेखा और भारतीय नौसेना तथा न्यूज़ीलैंड रक्षा बल के बीच पारस्परिक लॉजिस्टिक सहयोग समझौते पर सहमति बनी। दोनों नेताओं ने हिंद-प्रशांत क्षेत्र को स्वतंत्र, खुला, सुरक्षित और समृद्ध बनाए रखने की प्रतिबद्धता दोहराई। उन्होंने समुद्री सुरक्षा सहयोग और सूचनाओं के आदान-प्रदान के लिए समुद्री सुरक्षा संवाद शुरू करने पर भी सहमति व्यक्त की। दोनों नेताओं ने भारत-न्यूज़ीलैंड मुक्त व्यापार समझौते का स्वागत करते हुए इसे जल्द लागू करने पर जोर दिया। पश्चिम एशिया की स्थिति पर चिंता व्यक्त करते हुए उन्होंने सभी पक्षों से संयम बरतने, तनाव कम करने और नागरिकों की सुरक्षा सुनिश्चित करने की अपील की। दोनों नेताओं ने संयुक्त राष्ट्र सुरक्षा परिषद में सुधार और उसके विस्तार की आवश्यकता पर भी बल दिया।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T04:46:03+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-and-new-zealand-prime-minister-luxon-set-a-target-to-take-bilateral-trade-to-%e2%82%b935000-crore/",
+        "post_id": 1731385,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "मेरा युवा-मेरा गौरव सम्मेलन 2026’ का उद्घाटन आज",
+        "summary": "मेरा युवा-मेरा गौरव सम्मेलन 2026’ का उद्घाटन मध्य प्रदेश के मुख्यमंत्री डॉ. मोहन यादव आज इंदौर में करेंगे। राज्य भर से लगभग 5 हज़ार युवाओं के इस कार्यक्रम में भाग लेने की उम्मीद है। सम्मेलन का उद्देश्य राज्य के विकास और नीति निर्माण प्रक्रिया में युवाओं को शामिल करना है। शिक्षा, खेल, उद्यमिता, कृषि, स्वास्थ्य […]",
+        "article": "मेरा युवा-मेरा गौरव सम्मेलन 2026’ का उद्घाटन मध्य प्रदेश के मुख्यमंत्री डॉ. मोहन यादव आज इंदौर में करेंगे। राज्य भर से लगभग 5 हज़ार युवाओं के इस कार्यक्रम में भाग लेने की उम्मीद है। सम्मेलन का उद्देश्य राज्य के विकास और नीति निर्माण प्रक्रिया में युवाओं को शामिल करना है। शिक्षा, खेल, उद्यमिता, कृषि, स्वास्थ्य सेवा, सूचना प्रौद्योगिकी और कौशल विकास सहित विभिन्न विषयों पर चर्चा और कार्यशालाएं आयोजित की जाएंगी। युवा प्रतिनिधि कार्यशाला के दौरान अपने विचार और सुझाव प्रस्तुत करेंगे, जिन्हें “मध्य प्रदेश युवा संकल्प 2026” दस्तावेज़ में संकलित किया जाएगा। मुख्यमंत्री 4 नए राज्य स्तरीय युवा पुरस्कारों की भी घोषणा करेंगे। सांस्कृतिक प्रस्तुतियां और स्थानीय युवा उद्यमियों द्वारा निर्मित फूड स्ट्रीट कार्यक्रम के मुख्य आकर्षण में शामिल होंगे।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T03:39:37+00:00",
+        "link": "https://newsonair.gov.in/hi/mera-yuva-mera-gaurav-sammelan-2026-inaugurated-today/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "देश के कई राज्यों में तेज वर्षा की संभावना: मौसम विभाग",
+        "summary": "मौसम विभाग ने बिहार, उत्तर प्रदेश, असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल के तराई वाले क्षेत्र और सिक्किम में अगले 3 दिन मूसलाधार वर्षा का अनुमान व्‍यक्‍त किया है। विभाग ने दिल्ली, हरियाणा, चंडीगढ़, पंजाब, अरुणाचल प्रदेश, हिमाचल प्रदेश, उत्तराखंड, लद्दाख और जम्मू-कश्मीर में अगले 5 दिन घनघोर बारिश की आशंका जताई है। […]",
+        "article": "मौसम विभाग ने बिहार, उत्तर प्रदेश, असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल के तराई वाले क्षेत्र और सिक्किम में अगले 3 दिन मूसलाधार वर्षा का अनुमान व्&#x200d;यक्&#x200d;त किया है। विभाग ने दिल्ली, हरियाणा, चंडीगढ़, पंजाब, अरुणाचल प्रदेश, हिमाचल प्रदेश, उत्तराखंड, लद्दाख और जम्मू-कश्मीर में अगले 5 दिन घनघोर बारिश की आशंका जताई है। वहीं, अंडमान-निकोबार द्वीप समूह, आंध्र प्रदेश, मध्य प्रदेश, तेलंगाना, कर्नाटक, ओडिशा, तमिलनाडु, पुद्दुचेरी, कराईक्&#x200d;काल, मध्य प्रदेश, छत्तीसगढ़, झारखंड और पूर्वोत्&#x200d;तर क्षेत्र के कुछ हिस्सों में अगले 3-4 दिनों में तेज हवाओं के साथ बारिश होने की संभावना है।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T03:12:32+00:00",
+        "link": "https://newsonair.gov.in/hi/possibility-of-heavy-rain-in-several-states-across-the-country-meteorological-department/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ब्रिक्स देशों के परिवहन मंत्रियों की बैठक आज, केंद्रीय मंत्री नितिन गडकरी करेंगे अध्यक्षता",
+        "summary": "केंद्रीय सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी आज नागपुर में ब्रिक्स देशों के परिवहन मंत्रियों की बैठक की अध्यक्षता करेंगे। यह बैठक, भारत की ब्रिक्स अध्यक्षता की थीम “लचीलापन, नवाचार, सहयोग और सतत विकास” पर केंद्रित है। बैठक में ब्रिक्स देशों के बीच परिवहन क्षेत्र में सहयोग बढ़ाने और साझा परिवहन रणनीति पर चर्चा […]",
+        "article": "केंद्रीय सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी आज नागपुर में ब्रिक्स देशों के परिवहन मंत्रियों की बैठक की अध्यक्षता करेंगे। यह बैठक, भारत की ब्रिक्स अध्यक्षता की थीम “लचीलापन, नवाचार, सहयोग और सतत विकास” पर केंद्रित है। बैठक में ब्रिक्स देशों के बीच परिवहन क्षेत्र में सहयोग बढ़ाने और साझा परिवहन रणनीति पर चर्चा की जाएगी।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T03:09:02+00:00",
+        "link": "https://newsonair.gov.in/hi/meeting-of-brics-transport-ministers-today-union-minister-nitin-gadkari-to-preside/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत की संस्कृति और विरासत के संरक्षण में एआई का इस्तेमाल करने की ज़रूरत: मंत्री अर्जुन राम मेघवाल",
+        "summary": "कानून और न्याय राज्य मंत्री अर्जुन राम मेघवाल ने कहा है कि आर्टिफिशियल इंटेलिजेंस यानी एआई को भारत की संस्कृति और विरासत के संरक्षण तथा समावेशी विकास के लिए प्रभावी ढंग से इस्तेमाल किया जाना चाहिए। नई दिल्ली में एक पुस्तक लोकार्पण कार्यक्रम में उन्होंने कहा कि तकनीकी प्रगति भारत के सांस्कृतिक मूल्यों और राष्ट्रीय […]",
+        "article": "कानून और न्याय राज्य मंत्री अर्जुन राम मेघवाल ने कहा है कि आर्टिफिशियल इंटेलिजेंस यानी एआई को भारत की संस्कृति और विरासत के संरक्षण तथा समावेशी विकास के लिए प्रभावी ढंग से इस्तेमाल किया जाना चाहिए। नई दिल्ली में एक पुस्तक लोकार्पण कार्यक्रम में उन्होंने कहा कि तकनीकी प्रगति भारत के सांस्कृतिक मूल्यों और राष्ट्रीय प्राथमिकताओं के अनुरूप होनी चाहिए। महिला एवं बाल विकास राज्य मंत्री सावित्री ठाकुर ने कहा कि महिलाओं को नई तकनीकों का केवल उपयोगकर्ता ही नहीं, बल्कि उनके विकास में भी सक्रिय भागीदार बनना चाहिए। उन्होंने कहा कि इंडिया एआई मिशन के तहत देश में आर्टिफिशियल इंटेलिजेंस का मजबूत तंत्र विकसित किया जा रहा है।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:29:55+00:00",
+        "link": "https://newsonair.gov.in/hi/the-need-to-use-ai-in-the-preservation-of-indias-culture-and-heritage/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार देश की तटीय सुरक्षा सुदृढ़ करने के लिए पूरी तरह प्रतिबद्ध: गृह मंत्री अमित शाह",
+        "summary": "गृह मंत्री अमित शाह ने कहा है कि सरकार देश की तटीय सुरक्षा सुदृढ़ करने के लिए पूरी तरह प्रतिबद्ध है। श्री शाह ने पत्‍तन, पोत परिवहन और जलमार्ग मंत्री सरबानंद सोनोवाल के साथ पत्‍तन सुरक्षा ब्यूरो की स्थापना में हुई प्रगति की समीक्षा के दौरान ये बात कही। गृह मंत्री ने कहा कि पत्‍तन […]",
+        "article": "गृह मंत्री अमित शाह ने कहा है कि सरकार देश की तटीय सुरक्षा सुदृढ़ करने के लिए पूरी तरह प्रतिबद्ध है। श्री शाह ने पत्&#x200d;तन, पोत परिवहन और जलमार्ग मंत्री सरबानंद सोनोवाल के साथ पत्&#x200d;तन सुरक्षा ब्यूरो की स्थापना में हुई प्रगति की समीक्षा के दौरान ये बात कही। गृह मंत्री ने कहा कि पत्&#x200d;तन सुरक्षा का दायित्&#x200d;व केवल लाइसेंस प्राप्त निजी सुरक्षा एजेंसियों को सौंपा जाना चाहिए और केवल केंद्रीय औद्योगिक सुरक्षा बल से प्रशिक्षित कर्मियों को ही तैनात किया जाना चाहिए। उन्होंने वर्तमान बुनियादी ढांचे का उपयोग करते हुए पत्&#x200d;तन सुरक्षा प्रशिक्षण संस्थान में प्रशिक्षण शीघ्र शुरू करने को कहा। गृह मंत्री ने अधिकारियों को ब्&#x200d;यूरो के अंर्तगत तैनात किए जाने वाले सभी सुरक्षा कर्मियों का एक व्यापक डेटाबेस बनाने का भी निर्देश दिया। श्री शाह ने कहा कि ब्&#x200d;यूरो के सुरक्षा ढांचे के अंतर्गत आने वाले सभी बंदरगाहों में कंटेनर स्कैनिंग की सुविधा होनी चाहिए। इस बैठक में केंद्रीय गृह सचिव, खुफिया ब्यूरो के निदेशक, सीमा प्रबंधन सचिव, पत्&#x200d;तन, पोत परिवहन और जलमार्ग मंत्रालय सचिव, मत्स्य विभाग के सचिव, केंद्रीय औद्योगिक सुरक्षा बल के महानिदेशक और अन्य वरिष्ठ अधिकारी उपस्थित थे। श्री शाह ने मत्स्य विभाग के अधिकारियों के साथ मछली पकड़ने वाले बंदरगाहों और मछली उतारने के केंद्रों के लिए सुरक्षा व्यवस्था की समीक्षा भी की। उन्होंने विभाग को देशभर के जिलाधिकारियों और पुलिस अधीक्षकों को उनके संबंधित जिलों में सभी मछली उतारने के केंद्रों का विवरण मांगने का भी निर्देश दिया। गृह मंत्री ने मछुआरों के लिए पंजीकरण प्रक्रिया सरल बनाने और जिला पुलिस अधीक्षक को मछली उतारने के केंद्रों पर स्थायी पुलिस कर्मियों की तैनाती करने का निर्देश दिया।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T01:27:15+00:00",
+        "link": "https://newsonair.gov.in/hi/government-fully-committed-to-strengthening-the-countrys-coastal-security-home-minister-amit-shah/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कोयला ब्लॉकों की नीलामी के 15वें चरण में 8 ब्लॉकों के लिए प्राप्त हुई 21 बोलियां",
+        "summary": "कोयला मंत्रालय ने वाणिज्यिक कोयला ब्लॉकों की नीलामी के 15वें चरण तथा 13वें और 14वें चरण के दूसरे प्रयास के लिए प्राप्त बोलियां खोल दी हैं। मंत्रालय के अनुसार, 23 कोयला ब्लॉकों में से 8 के लिए कुल 21 बोलियां प्राप्त हुई हैं। मंत्रालय ने बताया कि इस नीलामी प्रक्रिया में 16 कंपनियों ने भाग […]",
+        "article": "कोयला मंत्रालय ने वाणिज्यिक कोयला ब्लॉकों की नीलामी के 15वें चरण तथा 13वें और 14वें चरण के दूसरे प्रयास के लिए प्राप्त बोलियां खोल दी हैं। मंत्रालय के अनुसार, 23 कोयला ब्लॉकों में से 8 के लिए कुल 21 बोलियां प्राप्त हुई हैं। मंत्रालय ने बताया कि इस नीलामी प्रक्रिया में 16 कंपनियों ने भाग लिया, जो वाणिज्यिक कोयला खनन में उद्योगों की मजबूत भागीदारी को दर्शाता है।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T01:22:04+00:00",
+        "link": "https://newsonair.gov.in/hi/21-bids-received-for-8-blocks-in-the-15th-round-of-coal-block-auctions/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1363,112 +1389,113 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
-        "title": "सीबीआई ने 133 करोड़ रुपये से अधिक की बैंक धोखाधड़ी का मामला दर्ज किया",
-        "summary": "केंद्रीय अन्वेषण ब्यूरो ने मुंबई में एक निजी कंपनी के निदेशकों के खिलाफ 133 करोड़ रुपये से अधिक धनराशि की कथित धोखाधड़ी का मामला दर्ज किया है। ब्यूरो ने आज मुंबई, महाराष्ट्र और कोच्चि, केरल में आरोपियों से जुड़े कई परिसरों पर तलाशी ली। यह मामला कल मुंबई स्थित भारतीय स्टेट बैंक की शिकायत के […]",
-        "article": "केंद्रीय अन्वेषण ब्यूरो ने मुंबई में एक निजी कंपनी के निदेशकों के खिलाफ 133 करोड़ रुपये से अधिक धनराशि की कथित धोखाधड़ी का मामला दर्ज किया है। ब्यूरो ने आज मुंबई, महाराष्ट्र और कोच्चि, केरल में आरोपियों से जुड़े कई परिसरों पर तलाशी ली। यह मामला कल मुंबई स्थित भारतीय स्टेट बैंक की शिकायत के आधार पर दर्ज किया गया था। शिकायत में आरोप है कि आरोपी निदेशकों ने अज्ञात सरकारी कर्मचारियों और अन्य व्यक्तियों के साथ मिलकर बैंक को 133 करोड़ 52 लाख रुपये से अधिक का नुकसान पहुंचाया है। ब्यूरो के अनुसार, आरोपियों ने कथित तौर पर आपराधिक साजिश रचकर गलत वित्तीय जानकारी प्रस्तुत करके बैंक से अधिक ऋण सुविधाएं प्राप्त कीं। ऋण राशि को स्वीकृत उद्देश्यों के अलावा अन्य उद्देश्यों के लिए इस्तेमाल किया गया, जिसके परिणामस्वरूप बैंक को वित्तीय नुकसान हुआ। ब्यूरो ने कहा कि तलाशी के दौरान जांच से संबंधित आपत्तिजनक सामग्री बरामद हुई है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T16:00:10+00:00",
-        "link": "https://newsonair.gov.in/hi/the-cbi-registered-a-case-of-bank-fraud-worth-over-%e2%82%b9133-crore/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/cbi-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन 14 जुलाई को अंतरिक्ष मिशन पर होंगे रवाना",
-        "summary": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन 14 जुलाई को कजाकिस्तान के बैकोनूर अंतरिक्ष प्रशिक्षण केंद्र से अंतर्राष्ट्रीय अंतरिक्ष स्टेशन के लिए आठ महीने के मिशन पर रवाना होने वाले हैं। वे अंतरिक्ष यात्रियों प्योत्र दुब्रोव और अन्ना किकिना के साथ रूस की अंतरिक्ष एजेंसी रोस्कोस्मोस के सोयुज एमएस-29 अंतरिक्ष यान में सवार होकर […]",
-        "article": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन 14 जुलाई को कजाकिस्तान के बैकोनूर अंतरिक्ष प्रशिक्षण केंद्र से अंतर्राष्ट्रीय अंतरिक्ष स्टेशन के लिए आठ महीने के मिशन पर रवाना होने वाले हैं। वे अंतरिक्ष यात्रियों प्योत्र दुब्रोव और अन्ना किकिना के साथ रूस की अंतरिक्ष एजेंसी रोस्कोस्मोस के सोयुज एमएस-29 अंतरिक्ष यान में सवार होकर अंतरिक्ष यात्रा करेंगे। अंतरिक्ष स्टेशन में रहते हुए, श्री मेनन लंबी अवधि की अंतरिक्ष यात्रा के शारीरिक प्रभावों और सूक्ष्म गुरुत्वाकर्षण के अंतरिक्ष यात्रियों में रक्त प्रवाह, शिरा संरचना और रक्त संरचना पर प्रभाव का अध्ययन करेंगे। वे अंतरिक्ष स्टेशन की पेय जल प्रणाली का उपयोग करके अंतःशिरा द्रव तैयार करने की तकनीकों का परीक्षण करने में भी मदद करेंगे। वे अल्ट्रासाउंड जांच भी करेंगे जिससे भविष्य के अंतरिक्ष अभियानों में पृथ्वी से चिकित्सा सहायता की आवश्यकता समाप्त हो सकती है। मिनियापोलिस में जन्मे अनिल मेनन आपातकालीन चिकित्सा चिकित्सक और अमरीकी अंतरिक्ष बल में कर्नल हैं। 49 वर्षीय मेनन ने 2014 में नासा में फ्लाइट सर्जन के रूप में अपना करियर शुरू किया और अंतर्राष्ट्रीय अंतरिक्ष सेवा केंद्र पर रहने और काम करने वाले अंतरिक्ष यात्रियों के साथ काम किया। मेनन 2018 में स्पेसएक्स में शामिल हुए। दिसंबर 2021 में उनका चयन नासा के अंतरिक्ष यात्री के रूप में हुआ और उन्होंने दो साल का प्रशिक्षण शुरू किया।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:57:52+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-origin-nasa-astronaut-anil-menon-will-depart-for-a-space-mission-on-july-14/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM4C2OrXEAEVLNO.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पीएम-सेतु पहल के तहत सूरत आईटीआई समूह के लिए 240 करोड़ रुपये की निवेश योजना",
-        "summary": "कौशल विकास, उद्यमिता और शिक्षा राज्य मंत्री जयंत चौधरी ने आज पीएम-सेतु पहल के अंतर्गत सूरत औद्योगिक प्रशिक्षण संस्थान-आईटीआई समूह के लिए 240 करोड़ रुपये की रणनीतिक निवेश योजना का अनावरण किया। इस पहल में आर्सेलर मित्तल निप्पॉन स्टील इंडिया को समूह का प्रमुख उद्योग भागीदार नामित किया गया है। आईटीआई सूरत को अगले पांच […]",
-        "article": "कौशल विकास, उद्यमिता और शिक्षा राज्य मंत्री जयंत चौधरी ने आज पीएम-सेतु पहल के अंतर्गत सूरत औद्योगिक प्रशिक्षण संस्थान-आईटीआई समूह के लिए 240 करोड़ रुपये की रणनीतिक निवेश योजना का अनावरण किया। इस पहल में आर्सेलर मित्तल निप्पॉन स्टील इंडिया को समूह का प्रमुख उद्योग भागीदार नामित किया गया है। आईटीआई सूरत को अगले पांच वर्षों में केंद्रीय केंद्र के रूप में विकसित किया जाएगा। वहीं, हजीरा, बरदोली, सचिन और महिला आईटीआई सूरत सहायक संस्थानों के रूप में कार्य करेंगे। इस परियोजना का उद्देश्य 25 हजार से अधिक युवाओं को आधुनिक उद्योग-उन्मुख प्रशिक्षण, शिक्षुता और नए रोजगार के अवसर प्रदान करना है। इस योजना में आर्सेलर मित्तल निप्पॉन स्टील इंडिया औद्योगिक आवश्यकताओं के अनुरूप उन्नत पाठ्यक्रम, डिजिटल शिक्षा, उद्योग में भागीदारी, कार्यस्थल पर प्रशिक्षण और शिक्षकों के कौशल विकास की शुरुआत करेगा।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:46:56+00:00",
-        "link": "https://newsonair.gov.in/hi/investment-plan-of-%e2%82%b9240-crore-for-the-surat-iti-cluster-under-the-pm-setu-initiative/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/jayanta-choudhury-minister-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेंद्र मोदी तीन देशों की यात्रा के अंतिम चरण में न्‍यूजीलैंड के ऑकलैंड पहुंचे",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी का न्यूजीलैंड की अपनी दो दिन की ऐतिहासिक यात्रा के शुरू में ऑकलैंड पहुंचने पर हार्दिक स्वागत किया गया। किसी भारतीय प्रधानमंत्री की लगभग चार दशकों में यह पहली न्यूजीलैंड यात्रा है। ऑकलैंड पहुंचने पर न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने हवाई अड्डे पर प्रधानमंत्री का स्वागत किया। भारतीय समुदाय के लोग […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी का न्यूजीलैंड की अपनी दो दिन की ऐतिहासिक यात्रा के शुरू में ऑकलैंड पहुंचने पर हार्दिक स्वागत किया गया। किसी भारतीय प्रधानमंत्री की लगभग चार दशकों में यह पहली न्यूजीलैंड यात्रा है। ऑकलैंड पहुंचने पर न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने हवाई अड्डे पर प्रधानमंत्री का स्वागत किया। भारतीय समुदाय के लोग बड़ी संख्या में उनके स्वागत के लिए एकत्रित हुए थे। लोगों ने भारतीय तिरंगा लहराते हुए और &#8220;किया ओरा मोदी&#8221; के नारे लगाते हुए उनका स्वागत किया, जिससे वातावरण उत्साह से भर गया। इस यात्रा के दौरान, दोनों नेताओं द्वारा व्यापार, निवेश, शिक्षा, प्रौद्योगिकी और आपसी संबंधों में सहयोग को और मजबूत करने के तरीकों पर चर्चा किए जाने की उम्मीद है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:40:04+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-arrived-in-auckland-new-zealand-on-the-final-leg-of-his-three-nation-tour/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/noname-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतीय नौसेना स्वदेशी स्टील्थ फ्रिगेट महेंद्रगिरि को पूर्वी बेड़े में करेगी शामिल",
-        "summary": "भारतीय नौसेना कल विशाखापत्तनम में अपने पूर्वी बेड़े में 17ए परियोजना के अंतर्गत निर्मित छठे स्वदेशी स्टील्थ फ्रिगेट महेंद्रगिरि को शामिल करेगी। रक्षा मंत्री राजनाथ सिंह नौसेना में युद्धपोत को औपचारिक रूप से शामिल करने के समारोह की अध्यक्षता करेंगे। भारतीय नौसेना के युद्धपोत डिजाइन इकाई द्वारा तैयार की गई रूपरेखा के आधार पर […]",
-        "article": "भारतीय नौसेना कल विशाखापत्तनम में अपने पूर्वी बेड़े में 17ए परियोजना के अंतर्गत निर्मित छठे स्वदेशी स्टील्थ फ्रिगेट महेंद्रगिरि को शामिल करेगी। रक्षा मंत्री राजनाथ सिंह नौसेना में युद्धपोत को औपचारिक रूप से शामिल करने के समारोह की अध्यक्षता करेंगे। भारतीय नौसेना के युद्धपोत डिजाइन इकाई द्वारा तैयार की गई रूपरेखा के आधार पर मुंबई स्थित मझगांव डॉक शिपबिल्डर्स लिमिटेड में निर्मित युद्धपोत महेंद्रगिरि देश के अग्रणी स्वदेशी स्टील्थ युद्धपोतों में से एक हैं। यह युद्धपोत उन्नत स्टील्थ तकनीक, रडार से बचने और उच्च स्तर की स्वचालन प्रणाली से युक्त है। युक्त यह युद्धपोत नौसैनिक युद्ध के सभी आयामों में समुद्री अभियानों की पूरी श्रृंखला को अंजाम देने के लिए डिज़ाइन किया गया है। इस पोत के निर्माण में सूक्ष्म, लघु और मध्यम सहित बड़ी संख्या में भारतीय उद्योग शामिल हैं, जिससे देश के रक्षा औद्योगिक आधार को मजबूती मिली है और महत्वपूर्ण रोजगार सृजित हुए हैं।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:38:56+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-navy-to-induct-indigenous-stealth-frigate-mahendragiri-into-eastern-fleet/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM3YdywaAAAs7e9.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कई राज्यों में अगले 3-4 दिन भारी से अत्यधिक बारिश का ऑरेंज अलर्ट",
-        "summary": "मौसम विभाग ने अगले तीन से चार दिन के दौरान बिहार, उत्तर प्रदेश, असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा और पश्चिम बंगाल के तराई वाले क्षेत्रों तथा सिक्किम में मूसलाधार और कुछ स्थानों पर अत्यधिक बारिश का ओरेंज अलर्ट जारी किया है।",
-        "article": "मौसम विभाग ने अगले तीन से चार दिन के दौरान बिहार, उत्तर प्रदेश, असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा और पश्चिम बंगाल के तराई वाले क्षेत्रों तथा सिक्किम में मूसलाधार और कुछ स्थानों पर अत्यधिक बारिश का ओरेंज अलर्ट जारी किया है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:36:33+00:00",
-        "link": "https://newsonair.gov.in/hi/orange-alert-for-heavy-to-extremely-heavy-rainfall-in-several-states-over-the-next-3-4-days/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/rain-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कैलाश मानसरोवर यात्रा का पहले जत्थे ने उत्तराखंड के पिथौरागढ़ जिले के लिपुलेख दर्रे से चीन में किया प्रवेश",
-        "summary": "कैलाश मानसरोवर यात्रा का पहला जत्था आज उत्तराखंड के पिथौरागढ़ जिले के लिपुलेख दर्रे से चीन में प्रवेश कर गया। भारत-तिब्बत सीमा पुलिस के अधिकारियों ने जत्‍थे की सभी आवश्यक आव्रजन और सीमा संबंधी औपचारिकताओं को पूरा करवाया। इस जत्थे में 52 सदस्य हैं, जिनमें 48 तीर्थयात्री, एक चिकित्सा कर्मी और तीन रसोइये हैं। चीन […]",
-        "article": "कैलाश मानसरोवर यात्रा का पहला जत्था आज उत्तराखंड के पिथौरागढ़ जिले के लिपुलेख दर्रे से चीन में प्रवेश कर गया। भारत-तिब्बत सीमा पुलिस के अधिकारियों ने जत्&#x200d;थे की सभी आवश्यक आव्रजन और सीमा संबंधी औपचारिकताओं को पूरा करवाया। इस जत्थे में 52 सदस्य हैं, जिनमें 48 तीर्थयात्री, एक चिकित्सा कर्मी और तीन रसोइये हैं। चीन में प्रवेश करने के बाद, समूह आगामी दिनों में पवित्र कैलाश पर्वत और मानसरोवर झील की यात्रा से पहले निर्धारित शिविरों में विश्राम करेगा। प्रशासन और सुरक्षा एजेंसियों ने तीर्थयात्रा को सुरक्षित और सुचारू रूप से संपन्न कराने के लिए लिपुलेख मार्ग पर व्यापक व्यवस्था की है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:31:28+00:00",
-        "link": "https://newsonair.gov.in/hi/the-first-batch-of-the-kailash-mansarovar-yatra-entered-china-via-the-lipulekh-pass-in-uttarakhands-pithoragarh-district/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/kailash-mansarovar.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "मानसून सत्र की तैयारियों की समीक्षा, संसदीय कार्य राज्य मंत्रियों ने दिए निर्देश",
-        "summary": "संसदीय कार्य राज्य मंत्री अर्जुन राम मेघवाल और डॉ. एल. मुरुगन ने आज संसद भवन परिसर में आगामी मानसून सत्र की तैयारियों की समीक्षा की। संसद का सत्र 20 जुलाई से 13 अगस्त तक चलेगा। सोशल मीडिया पोस्ट में श्री मेघवाल ने बताया कि आगामी सत्र के लिए निर्धारित विधायी कार्यों की समीक्षा की गई […]",
-        "article": "संसदीय कार्य राज्य मंत्री अर्जुन राम मेघवाल और डॉ. एल. मुरुगन ने आज संसद भवन परिसर में आगामी मानसून सत्र की तैयारियों की समीक्षा की। संसद का सत्र 20 जुलाई से 13 अगस्त तक चलेगा। सोशल मीडिया पोस्ट में श्री मेघवाल ने बताया कि आगामी सत्र के लिए निर्धारित विधायी कार्यों की समीक्षा की गई और आवश्यक निर्देश जारी किए गए।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:18:13+00:00",
-        "link": "https://newsonair.gov.in/hi/review-of-preparations-for-the-monsoon-session-ministers-of-state-for-parliamentary-affairs-issue-directives/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/12/Arjun-Meghwal.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गृह मंत्री अमित शाह ने तटीय और बंदरगाह सुरक्षा की समीक्षा की",
-        "summary": "गृह मंत्री अमित शाह ने कहा कि प्रधानमंत्री नरेन्द्र मोदी के नेतृत्व में सरकार देश की तटीय सुरक्षा को अभेद्य बनाने के लिए पूरी तरह प्रतिबद्ध है। श्री शाह ने पोत पत्तन परिवहन और जलमार्ग मंत्री सरबानंद सोनोवाल के साथ आज बंदरगाह सुरक्षा ब्यूरो-बीओपीएस की स्थापना में हुई प्रगति की समीक्षा की। श्री शाह […]",
-        "article": "गृह मंत्री अमित शाह ने कहा कि प्रधानमंत्री नरेन्द्र मोदी के नेतृत्व में सरकार देश की तटीय सुरक्षा को अभेद्य बनाने के लिए पूरी तरह प्रतिबद्ध है। श्री शाह ने पोत पत्तन परिवहन और जलमार्ग मंत्री सरबानंद सोनोवाल के साथ आज बंदरगाह सुरक्षा ब्यूरो-बीओपीएस की स्थापना में हुई प्रगति की समीक्षा की। श्री शाह ने कहा कि बंदरगाह सुरक्षा केवल लाइसेंस प्राप्त निजी सुरक्षा एजेंसियों को ही सौंपा जाना चाहिए। बंदरगाह की सुरक्षा में केंद्रीय औद्योगिक सुरक्षा बल-सीआईएसएफ से प्रशिक्षण प्राप्त निजी सुरक्षा कर्मियों को ही तैनात किया जाना चाहिए। श्री शाह ने सीआईएसएफ को विशाखापत्तनम बंदरगाह, जवाहरलाल नेहरू बंदरगाह और मुंद्रा बंदरगाह सहित देश भर के प्रमुख बंदरगाहों पर बंदरगाह सुरक्षा ब्यूरो को सौंपे जाने वाले प्रस्तावित सुरक्षा व्यवस्थाओं का परीक्षण करने का निर्देश दिया। बंदरगाह सुरक्षा ब्यूरो की स्थापना व्यापारिक जहाजरानी अधिनियम, 2025 की धारा 13 के प्रावधानों के अंतर्गत एक वैधानिक निकाय के रूप में की जा रही है। ब्यूरो का नेतृत्व एक महानिदेशक करेंगे और यह बंदरगाह, जहाजरानी और जलमार्ग मंत्रालय के अधीन कार्य करेगा। श्री शाह ने मत्स्य विभाग के अधिकारियों के साथ बैठक की और मछली पकड़ने के बंदरगाह केंद्रों की सुरक्षा मजबूत करने के लिए आवश्यक निर्देश जारी किए। उन्होंने निर्देश दिया कि भारतीय अंतरिक्ष अनुसंधान संगठन द्वारा विकसित नभमित्र ऐप का व्यापक प्रचार-प्रसार किया जाए जिससे अधिक से अधिक मछुआरे इसे अपने मोबाइल फोन पर डाउनलोड कर सकें। बैठक में केंद्रीय गृह सचिव, खुफिया विभाग के निदेशक, सीमा प्रबंधन सचिव, पोत पत्तन परिवहन और जलमार्ग सचिव, मत्स्य विभाग के सचिव, केंद्रीय औद्योगिक सुरक्षा बल के महानिदेशक और अन्य वरिष्ठ अधिकारी उपस्थित थे।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:39:08+00:00",
-        "link": "https://newsonair.gov.in/hi/home-minister-amit-shah-reviewed-coastal-and-port-security/",
+        "title": "भारत-न्यूजीलैंड द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाने पर सहमत: विदेश मंत्रालय",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने आज ऑकलैंड में वार्ता की। विदेश मंत्रालय में पूर्वी देशों के प्रभारी सचिव, रूद्रेंद्र टंडन ने ऑकलैंड में संवाददाता सम्मेलन में बताया कि दोनों नेता द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाने पर सहमत हुए हैं। श्री टंडन ने बताया कि श्री मोदी और श्री […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने आज ऑकलैंड में वार्ता की। विदेश मंत्रालय में पूर्वी देशों के प्रभारी सचिव, रूद्रेंद्र टंडन ने ऑकलैंड में संवाददाता सम्मेलन में बताया कि दोनों नेता द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाने पर सहमत हुए हैं। श्री टंडन ने बताया कि श्री मोदी और श्री लक्सन ने आगामी 4 वर्षों में साझा रूप से काम करने के लिए भारत-न्यूजीलैंड रणनीतिक साझेदारी-2030 तक की रूपरेखा को भी मंजूरी दी है। उन्होंने कहा कि इसका उद्देश्य द्विपक्षीय संबंधों को और मज़बूत करना है।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T05:56:23+00:00",
+        "link": "https://newsonair.gov.in/hi/agreed-to-elevate-india-new-zealand-bilateral-relations-to-a-strategic-partnership-ministry-of-external-affairs/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "भारत-ओमान के बीच खाड़ी क्षेत्र में शांति तथा स्थिरता सुनिश्चित करने के प्रयासों पर व्यापक विचार-विमर्श",
-        "summary": "विदेश मंत्री डॉ. एस. जयशंकर ने आज मस्कत में ओमान के विदेश मंत्री बदर-बिन-हमद-अल बुसैदी से मुलाकात की और दोनों देशों के बीच सहयोग के विभिन्न पहलुओं पर चर्चा की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि चर्चा व्यापार, निवेश, संपर्क, समुद्री क्षेत्र, प्रौद्योगिकी, रक्षा और साइबर तथा एआई क्षेत्रों पर केंद्रित रही। […]",
-        "article": "विदेश मंत्री डॉ. एस. जयशंकर ने आज मस्कत में ओमान के विदेश मंत्री बदर-बिन-हमद-अल बुसैदी से मुलाकात की और दोनों देशों के बीच सहयोग के विभिन्न पहलुओं पर चर्चा की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि चर्चा व्यापार, निवेश, संपर्क, समुद्री क्षेत्र, प्रौद्योगिकी, रक्षा और साइबर तथा एआई क्षेत्रों पर केंद्रित रही। दोनों नेताओं ने खाड़ी क्षेत्र में हो रहे घटनाक्रमों और क्षेत्र में शांति तथा स्थिरता सुनिश्चित करने के प्रयासों पर भी व्यापक विचार-विमर्श किया। डॉ. जयशंकर ने कहा कि चर्चा से दोनों देशों के बीच रणनीतिक साझेदारी के विश्&#x200d;वास और मजबूती का पता चलता है। इस बीच, ओमान के विदेश मंत्री ने कहा कि भारत और ओमान के बीच सदियों पुराने समुद्री संबंध दोनों देशों के लोगों को सदियों से जोड़ते रहे हैं और एक-दूसरे के बीच साझेदारी के लिए मजबूत आधार प्रदान करते हैं। सोशल मीडिया पोस्ट में श्री बदर अल बुसैदी ने कहा कि दोनों नेताओं ने होर्मुज जलडमरूमध्य में नौवहन की स्वतंत्रता सुनिश्चित करने के लिए गहन कूटनीति पर चर्चा की और भारत का उसके समर्थन के लिए आभार व्&#x200d;यक्&#x200d;त किया।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:25:34+00:00",
-        "link": "https://newsonair.gov.in/hi/india-and-oman-held-discussion-to-ensure-peace-and-stability-in-the-gulf/",
-        "post_id": 1730296,
+        "title": "विश्व जनसंख्या दिवस आज: बढ़ती जनसंख्या से जुड़ी चुनौतियों के प्रति जागरूकता बढ़ाना है उद्देश्य",
+        "summary": "आज विश्व जनसंख्या दिवस है। प्रत्‍येक वर्ष 11 जुलाई को मनाया जाने वाला यह दिन बढ़ती जनसंख्या से जुड़ी चुनौतियों और अवसरों के प्रति जागरूकता बढ़ाने के लिए मनाया जाता है। इसका उद्देश्य जनसंख्या से जुड़े मुद्दों पर ध्यान केंद्रित करना और सतत विकास की दिशा में प्रयासों को प्रोत्साहित करना है। विश्व जनसंख्या दिवस […]",
+        "article": "आज विश्व जनसंख्या दिवस है। प्रत्&#x200d;येक वर्ष 11 जुलाई को मनाया जाने वाला यह दिन बढ़ती जनसंख्या से जुड़ी चुनौतियों और अवसरों के प्रति जागरूकता बढ़ाने के लिए मनाया जाता है। इसका उद्देश्य जनसंख्या से जुड़े मुद्दों पर ध्यान केंद्रित करना और सतत विकास की दिशा में प्रयासों को प्रोत्साहित करना है। विश्व जनसंख्या दिवस की शुरुआत वर्ष 1989 में संयुक्त राष्ट्र विकास कार्यक्रम के तत्कालीन शासी परिषद ने की थी। इसके बाद वर्ष 1990 में संयुक्त राष्ट्र महासभा ने एक प्रस्ताव पारित कर इस दिवस को नियमित रूप से मनाने का निर्णय लिया। इस वर्ष विश्व जनसंख्या दिवस का विषय है-युवाओं की आशाओं और आकांक्षाओं को साकार करना &#8211; आज और भविष्य के लिए।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T05:33:08+00:00",
+        "link": "https://newsonair.gov.in/hi/today-is-world-population-day-the-objective-is-to-raise-awareness-about-the-challenges-associated-with-a-growing-population/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत-न्यूज़ीलैंड के बीच रक्षा, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 समझौता ज्ञापनों पर हस्ताक्षर",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और डेयरी संबंधी समझौता अनुसंधान, नवाचार और बेहतर तकनीकों के आदान-प्रदान को प्रोत्साहित करेगा। पर्यटन समझौते से दोनों देशों के बीच पर्यटन और यात्रा सहयोग बढ़ेगा। खेल के क्षेत्र में संयुक्त कार्ययोजना भी अपनाई गई है, जबकि आपदा प्रबंधन समझौते से आपदा तैयारी, राहत और बचाव कार्यों में सहयोग मजबूत होगा। वार्ता के दौरान प्रधानमंत्री मोदी ने कहा कि 40 वर्ष बाद किसी भारतीय प्रधानमंत्री की न्यूज़ीलैंड यात्रा दोनों देशों के संबंधों में एक ऐतिहासिक पड़ाव है। उन्होंने कहा कि दोनों देशों ने सामरिक साझेदारी स्थापित करने का महत्वपूर्ण निर्णय लिया है, जो भविष्य के सहयोग को नई दिशा देगा। प्रधानमंत्री ने मुक्त व्यापार समझौते की दिशा में हुई प्रगति की सराहना करते हुए कहा कि भारत और न्यूज़ीलैंड हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और सुरक्षा को मजबूत करने में महत्वपूर्ण भूमिका निभा सकते हैं। न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने कहा कि प्रधानमंत्री मोदी की यह यात्रा दोनों देशों के संबंधों को नई ऊंचाई देगी। उन्होंने कहा कि सामरिक साझेदारी से व्यापार सहित कई क्षेत्रों में सहयोग का दायरा और बढ़ेगा। इससे पहले गवर्नमेंट हाउस में प्रधानमंत्री मोदी का औपचारिक स्वागत किया गया और उन्हें गार्ड ऑफ ऑनर दिया गया। प्रधानमंत्री आज भारतीय समुदाय को संबोधित करेंगे तथा उद्योग और खेल जगत की प्रमुख हस्तियों से भी मुलाकात करेंगे।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T04:51:24+00:00",
+        "link": "https://newsonair.gov.in/hi/five-memorandums-of-understanding-mous-signed-between-india-and-new-zealand-covering-defense-tourism-sports-and-disaster-management/",
+        "post_id": 1730821,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी और न्यूज़ीलैंड के पीएम लक्सन ने द्विपक्षीय व्यापार को ₹35 हजार करोड़ तक पहुंचाने का लक्ष्य रखा",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच ऑकलैंड में हुई वार्ता के बाद दोनों देशों ने अपने संबंधों को सामरिक साझेदारी का दर्जा दिया। दोनों नेताओं ने वर्ष 2030 तक द्विपक्षीय वस्तु और सेवा व्यापार को बढ़ाकर 35 हजार करोड़ रुपये तक पहुंचाने का लक्ष्य भी तय किया। वार्ता के दौरान […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच ऑकलैंड में हुई वार्ता के बाद दोनों देशों ने अपने संबंधों को सामरिक साझेदारी का दर्जा दिया। दोनों नेताओं ने वर्ष 2030 तक द्विपक्षीय वस्तु और सेवा व्यापार को बढ़ाकर 35 हजार करोड़ रुपये तक पहुंचाने का लक्ष्य भी तय किया। वार्ता के दौरान अगले 4 वर्षों के लिए सहयोग रणनीति, हिंद-प्रशांत क्षेत्र में समुद्री सहयोग बढ़ाने की रूपरेखा और भारतीय नौसेना तथा न्यूज़ीलैंड रक्षा बल के बीच पारस्परिक लॉजिस्टिक सहयोग समझौते पर सहमति बनी। दोनों नेताओं ने हिंद-प्रशांत क्षेत्र को स्वतंत्र, खुला, सुरक्षित और समृद्ध बनाए रखने की प्रतिबद्धता दोहराई। उन्होंने समुद्री सुरक्षा सहयोग और सूचनाओं के आदान-प्रदान के लिए समुद्री सुरक्षा संवाद शुरू करने पर भी सहमति व्यक्त की। दोनों नेताओं ने भारत-न्यूज़ीलैंड मुक्त व्यापार समझौते का स्वागत करते हुए इसे जल्द लागू करने पर जोर दिया। पश्चिम एशिया की स्थिति पर चिंता व्यक्त करते हुए उन्होंने सभी पक्षों से संयम बरतने, तनाव कम करने और नागरिकों की सुरक्षा सुनिश्चित करने की अपील की। दोनों नेताओं ने संयुक्त राष्ट्र सुरक्षा परिषद में सुधार और उसके विस्तार की आवश्यकता पर भी बल दिया।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T04:46:03+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-and-new-zealand-prime-minister-luxon-set-a-target-to-take-bilateral-trade-to-%e2%82%b935000-crore/",
+        "post_id": 1731385,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "मेरा युवा-मेरा गौरव सम्मेलन 2026’ का उद्घाटन आज",
+        "summary": "मेरा युवा-मेरा गौरव सम्मेलन 2026’ का उद्घाटन मध्य प्रदेश के मुख्यमंत्री डॉ. मोहन यादव आज इंदौर में करेंगे। राज्य भर से लगभग 5 हज़ार युवाओं के इस कार्यक्रम में भाग लेने की उम्मीद है। सम्मेलन का उद्देश्य राज्य के विकास और नीति निर्माण प्रक्रिया में युवाओं को शामिल करना है। शिक्षा, खेल, उद्यमिता, कृषि, स्वास्थ्य […]",
+        "article": "मेरा युवा-मेरा गौरव सम्मेलन 2026’ का उद्घाटन मध्य प्रदेश के मुख्यमंत्री डॉ. मोहन यादव आज इंदौर में करेंगे। राज्य भर से लगभग 5 हज़ार युवाओं के इस कार्यक्रम में भाग लेने की उम्मीद है। सम्मेलन का उद्देश्य राज्य के विकास और नीति निर्माण प्रक्रिया में युवाओं को शामिल करना है। शिक्षा, खेल, उद्यमिता, कृषि, स्वास्थ्य सेवा, सूचना प्रौद्योगिकी और कौशल विकास सहित विभिन्न विषयों पर चर्चा और कार्यशालाएं आयोजित की जाएंगी। युवा प्रतिनिधि कार्यशाला के दौरान अपने विचार और सुझाव प्रस्तुत करेंगे, जिन्हें “मध्य प्रदेश युवा संकल्प 2026” दस्तावेज़ में संकलित किया जाएगा। मुख्यमंत्री 4 नए राज्य स्तरीय युवा पुरस्कारों की भी घोषणा करेंगे। सांस्कृतिक प्रस्तुतियां और स्थानीय युवा उद्यमियों द्वारा निर्मित फूड स्ट्रीट कार्यक्रम के मुख्य आकर्षण में शामिल होंगे।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T03:39:37+00:00",
+        "link": "https://newsonair.gov.in/hi/mera-yuva-mera-gaurav-sammelan-2026-inaugurated-today/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "देश के कई राज्यों में तेज वर्षा की संभावना: मौसम विभाग",
+        "summary": "मौसम विभाग ने बिहार, उत्तर प्रदेश, असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल के तराई वाले क्षेत्र और सिक्किम में अगले 3 दिन मूसलाधार वर्षा का अनुमान व्‍यक्‍त किया है। विभाग ने दिल्ली, हरियाणा, चंडीगढ़, पंजाब, अरुणाचल प्रदेश, हिमाचल प्रदेश, उत्तराखंड, लद्दाख और जम्मू-कश्मीर में अगले 5 दिन घनघोर बारिश की आशंका जताई है। […]",
+        "article": "मौसम विभाग ने बिहार, उत्तर प्रदेश, असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल के तराई वाले क्षेत्र और सिक्किम में अगले 3 दिन मूसलाधार वर्षा का अनुमान व्&#x200d;यक्&#x200d;त किया है। विभाग ने दिल्ली, हरियाणा, चंडीगढ़, पंजाब, अरुणाचल प्रदेश, हिमाचल प्रदेश, उत्तराखंड, लद्दाख और जम्मू-कश्मीर में अगले 5 दिन घनघोर बारिश की आशंका जताई है। वहीं, अंडमान-निकोबार द्वीप समूह, आंध्र प्रदेश, मध्य प्रदेश, तेलंगाना, कर्नाटक, ओडिशा, तमिलनाडु, पुद्दुचेरी, कराईक्&#x200d;काल, मध्य प्रदेश, छत्तीसगढ़, झारखंड और पूर्वोत्&#x200d;तर क्षेत्र के कुछ हिस्सों में अगले 3-4 दिनों में तेज हवाओं के साथ बारिश होने की संभावना है।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T03:12:32+00:00",
+        "link": "https://newsonair.gov.in/hi/possibility-of-heavy-rain-in-several-states-across-the-country-meteorological-department/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ब्रिक्स देशों के परिवहन मंत्रियों की बैठक आज, केंद्रीय मंत्री नितिन गडकरी करेंगे अध्यक्षता",
+        "summary": "केंद्रीय सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी आज नागपुर में ब्रिक्स देशों के परिवहन मंत्रियों की बैठक की अध्यक्षता करेंगे। यह बैठक, भारत की ब्रिक्स अध्यक्षता की थीम “लचीलापन, नवाचार, सहयोग और सतत विकास” पर केंद्रित है। बैठक में ब्रिक्स देशों के बीच परिवहन क्षेत्र में सहयोग बढ़ाने और साझा परिवहन रणनीति पर चर्चा […]",
+        "article": "केंद्रीय सड़क परिवहन और राजमार्ग मंत्री नितिन गडकरी आज नागपुर में ब्रिक्स देशों के परिवहन मंत्रियों की बैठक की अध्यक्षता करेंगे। यह बैठक, भारत की ब्रिक्स अध्यक्षता की थीम “लचीलापन, नवाचार, सहयोग और सतत विकास” पर केंद्रित है। बैठक में ब्रिक्स देशों के बीच परिवहन क्षेत्र में सहयोग बढ़ाने और साझा परिवहन रणनीति पर चर्चा की जाएगी।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T03:09:02+00:00",
+        "link": "https://newsonair.gov.in/hi/meeting-of-brics-transport-ministers-today-union-minister-nitin-gadkari-to-preside/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत की संस्कृति और विरासत के संरक्षण में एआई का इस्तेमाल करने की ज़रूरत: मंत्री अर्जुन राम मेघवाल",
+        "summary": "कानून और न्याय राज्य मंत्री अर्जुन राम मेघवाल ने कहा है कि आर्टिफिशियल इंटेलिजेंस यानी एआई को भारत की संस्कृति और विरासत के संरक्षण तथा समावेशी विकास के लिए प्रभावी ढंग से इस्तेमाल किया जाना चाहिए। नई दिल्ली में एक पुस्तक लोकार्पण कार्यक्रम में उन्होंने कहा कि तकनीकी प्रगति भारत के सांस्कृतिक मूल्यों और राष्ट्रीय […]",
+        "article": "कानून और न्याय राज्य मंत्री अर्जुन राम मेघवाल ने कहा है कि आर्टिफिशियल इंटेलिजेंस यानी एआई को भारत की संस्कृति और विरासत के संरक्षण तथा समावेशी विकास के लिए प्रभावी ढंग से इस्तेमाल किया जाना चाहिए। नई दिल्ली में एक पुस्तक लोकार्पण कार्यक्रम में उन्होंने कहा कि तकनीकी प्रगति भारत के सांस्कृतिक मूल्यों और राष्ट्रीय प्राथमिकताओं के अनुरूप होनी चाहिए। महिला एवं बाल विकास राज्य मंत्री सावित्री ठाकुर ने कहा कि महिलाओं को नई तकनीकों का केवल उपयोगकर्ता ही नहीं, बल्कि उनके विकास में भी सक्रिय भागीदार बनना चाहिए। उन्होंने कहा कि इंडिया एआई मिशन के तहत देश में आर्टिफिशियल इंटेलिजेंस का मजबूत तंत्र विकसित किया जा रहा है।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:29:55+00:00",
+        "link": "https://newsonair.gov.in/hi/the-need-to-use-ai-in-the-preservation-of-indias-culture-and-heritage/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार देश की तटीय सुरक्षा सुदृढ़ करने के लिए पूरी तरह प्रतिबद्ध: गृह मंत्री अमित शाह",
+        "summary": "गृह मंत्री अमित शाह ने कहा है कि सरकार देश की तटीय सुरक्षा सुदृढ़ करने के लिए पूरी तरह प्रतिबद्ध है। श्री शाह ने पत्‍तन, पोत परिवहन और जलमार्ग मंत्री सरबानंद सोनोवाल के साथ पत्‍तन सुरक्षा ब्यूरो की स्थापना में हुई प्रगति की समीक्षा के दौरान ये बात कही। गृह मंत्री ने कहा कि पत्‍तन […]",
+        "article": "गृह मंत्री अमित शाह ने कहा है कि सरकार देश की तटीय सुरक्षा सुदृढ़ करने के लिए पूरी तरह प्रतिबद्ध है। श्री शाह ने पत्&#x200d;तन, पोत परिवहन और जलमार्ग मंत्री सरबानंद सोनोवाल के साथ पत्&#x200d;तन सुरक्षा ब्यूरो की स्थापना में हुई प्रगति की समीक्षा के दौरान ये बात कही। गृह मंत्री ने कहा कि पत्&#x200d;तन सुरक्षा का दायित्&#x200d;व केवल लाइसेंस प्राप्त निजी सुरक्षा एजेंसियों को सौंपा जाना चाहिए और केवल केंद्रीय औद्योगिक सुरक्षा बल से प्रशिक्षित कर्मियों को ही तैनात किया जाना चाहिए। उन्होंने वर्तमान बुनियादी ढांचे का उपयोग करते हुए पत्&#x200d;तन सुरक्षा प्रशिक्षण संस्थान में प्रशिक्षण शीघ्र शुरू करने को कहा। गृह मंत्री ने अधिकारियों को ब्&#x200d;यूरो के अंर्तगत तैनात किए जाने वाले सभी सुरक्षा कर्मियों का एक व्यापक डेटाबेस बनाने का भी निर्देश दिया। श्री शाह ने कहा कि ब्&#x200d;यूरो के सुरक्षा ढांचे के अंतर्गत आने वाले सभी बंदरगाहों में कंटेनर स्कैनिंग की सुविधा होनी चाहिए। इस बैठक में केंद्रीय गृह सचिव, खुफिया ब्यूरो के निदेशक, सीमा प्रबंधन सचिव, पत्&#x200d;तन, पोत परिवहन और जलमार्ग मंत्रालय सचिव, मत्स्य विभाग के सचिव, केंद्रीय औद्योगिक सुरक्षा बल के महानिदेशक और अन्य वरिष्ठ अधिकारी उपस्थित थे। श्री शाह ने मत्स्य विभाग के अधिकारियों के साथ मछली पकड़ने वाले बंदरगाहों और मछली उतारने के केंद्रों के लिए सुरक्षा व्यवस्था की समीक्षा भी की। उन्होंने विभाग को देशभर के जिलाधिकारियों और पुलिस अधीक्षकों को उनके संबंधित जिलों में सभी मछली उतारने के केंद्रों का विवरण मांगने का भी निर्देश दिया। गृह मंत्री ने मछुआरों के लिए पंजीकरण प्रक्रिया सरल बनाने और जिला पुलिस अधीक्षक को मछली उतारने के केंद्रों पर स्थायी पुलिस कर्मियों की तैनाती करने का निर्देश दिया।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T01:27:15+00:00",
+        "link": "https://newsonair.gov.in/hi/government-fully-committed-to-strengthening-the-countrys-coastal-security-home-minister-amit-shah/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कोयला ब्लॉकों की नीलामी के 15वें चरण में 8 ब्लॉकों के लिए प्राप्त हुई 21 बोलियां",
+        "summary": "कोयला मंत्रालय ने वाणिज्यिक कोयला ब्लॉकों की नीलामी के 15वें चरण तथा 13वें और 14वें चरण के दूसरे प्रयास के लिए प्राप्त बोलियां खोल दी हैं। मंत्रालय के अनुसार, 23 कोयला ब्लॉकों में से 8 के लिए कुल 21 बोलियां प्राप्त हुई हैं। मंत्रालय ने बताया कि इस नीलामी प्रक्रिया में 16 कंपनियों ने भाग […]",
+        "article": "कोयला मंत्रालय ने वाणिज्यिक कोयला ब्लॉकों की नीलामी के 15वें चरण तथा 13वें और 14वें चरण के दूसरे प्रयास के लिए प्राप्त बोलियां खोल दी हैं। मंत्रालय के अनुसार, 23 कोयला ब्लॉकों में से 8 के लिए कुल 21 बोलियां प्राप्त हुई हैं। मंत्रालय ने बताया कि इस नीलामी प्रक्रिया में 16 कंपनियों ने भाग लिया, जो वाणिज्यिक कोयला खनन में उद्योगों की मजबूत भागीदारी को दर्शाता है।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T01:22:04+00:00",
+        "link": "https://newsonair.gov.in/hi/21-bids-received-for-8-blocks-in-the-15th-round-of-coal-block-auctions/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1476,14 +1503,80 @@ window.VM_NEWS = {
     ],
     "world": [
       {
+        "title": "वेनेज़ुएला में पिछले महीने आए शक्तिशाली भूकंप में मरने वालों का आंकड़ा 4 हज़ार के पार",
+        "summary": "वेनेज़ुएला में पिछले महीने आए दो शक्तिशाली भूकंपों में मरने वालों की संख्या 4 हजार से अधिक हो गई है। वेनेज़ुएला संसद प्रमुख जॉर्ज रोड्रिगेज़ के अनुसार, अब तक 4 हजार 118 लोगों की मौत हो चुकी है और 16 हजार 740 लोग घायल हुए हैं। वहीं, हजारों लोग अब भी लापता हैं। 24 जून […]",
+        "article": "वेनेज़ुएला में पिछले महीने आए दो शक्तिशाली भूकंपों में मरने वालों की संख्या 4 हजार से अधिक हो गई है। वेनेज़ुएला संसद प्रमुख जॉर्ज रोड्रिगेज़ के अनुसार, अब तक 4 हजार 118 लोगों की मौत हो चुकी है और 16 हजार 740 लोग घायल हुए हैं। वहीं, हजारों लोग अब भी लापता हैं। 24 जून को आए 7.2 और 7.5 तीव्रता के भूकंपों से ला गुएरा प्रांत में भारी तबाही हुई थी। संयुक्त राष्ट्र ने राहत और पुनर्वास कार्यों के लिए लगभग 30 करोड़ अमरीकी डॉलर की सहायता की अपील की है।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T06:01:15+00:00",
+        "link": "https://newsonair.gov.in/hi/the-death-toll-from-the-powerful-earthquake-that-struck-venezuela-last-month-has-crossed-4000/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत-न्यूज़ीलैंड के बीच रक्षा, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 समझौता ज्ञापनों पर हस्ताक्षर",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और डेयरी संबंधी समझौता अनुसंधान, नवाचार और बेहतर तकनीकों के आदान-प्रदान को प्रोत्साहित करेगा। पर्यटन समझौते से दोनों देशों के बीच पर्यटन और यात्रा सहयोग बढ़ेगा। खेल के क्षेत्र में संयुक्त कार्ययोजना भी अपनाई गई है, जबकि आपदा प्रबंधन समझौते से आपदा तैयारी, राहत और बचाव कार्यों में सहयोग मजबूत होगा। वार्ता के दौरान प्रधानमंत्री मोदी ने कहा कि 40 वर्ष बाद किसी भारतीय प्रधानमंत्री की न्यूज़ीलैंड यात्रा दोनों देशों के संबंधों में एक ऐतिहासिक पड़ाव है। उन्होंने कहा कि दोनों देशों ने सामरिक साझेदारी स्थापित करने का महत्वपूर्ण निर्णय लिया है, जो भविष्य के सहयोग को नई दिशा देगा। प्रधानमंत्री ने मुक्त व्यापार समझौते की दिशा में हुई प्रगति की सराहना करते हुए कहा कि भारत और न्यूज़ीलैंड हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और सुरक्षा को मजबूत करने में महत्वपूर्ण भूमिका निभा सकते हैं। न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने कहा कि प्रधानमंत्री मोदी की यह यात्रा दोनों देशों के संबंधों को नई ऊंचाई देगी। उन्होंने कहा कि सामरिक साझेदारी से व्यापार सहित कई क्षेत्रों में सहयोग का दायरा और बढ़ेगा। इससे पहले गवर्नमेंट हाउस में प्रधानमंत्री मोदी का औपचारिक स्वागत किया गया और उन्हें गार्ड ऑफ ऑनर दिया गया। प्रधानमंत्री आज भारतीय समुदाय को संबोधित करेंगे तथा उद्योग और खेल जगत की प्रमुख हस्तियों से भी मुलाकात करेंगे।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T04:51:24+00:00",
+        "link": "https://newsonair.gov.in/hi/five-memorandums-of-understanding-mous-signed-between-india-and-new-zealand-covering-defense-tourism-sports-and-disaster-management/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी और न्यूज़ीलैंड के पीएम लक्सन ने द्विपक्षीय व्यापार को ₹35 हजार करोड़ तक पहुंचाने का लक्ष्य रखा",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच ऑकलैंड में हुई वार्ता के बाद दोनों देशों ने अपने संबंधों को सामरिक साझेदारी का दर्जा दिया। दोनों नेताओं ने वर्ष 2030 तक द्विपक्षीय वस्तु और सेवा व्यापार को बढ़ाकर 35 हजार करोड़ रुपये तक पहुंचाने का लक्ष्य भी तय किया। वार्ता के दौरान […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच ऑकलैंड में हुई वार्ता के बाद दोनों देशों ने अपने संबंधों को सामरिक साझेदारी का दर्जा दिया। दोनों नेताओं ने वर्ष 2030 तक द्विपक्षीय वस्तु और सेवा व्यापार को बढ़ाकर 35 हजार करोड़ रुपये तक पहुंचाने का लक्ष्य भी तय किया। वार्ता के दौरान अगले 4 वर्षों के लिए सहयोग रणनीति, हिंद-प्रशांत क्षेत्र में समुद्री सहयोग बढ़ाने की रूपरेखा और भारतीय नौसेना तथा न्यूज़ीलैंड रक्षा बल के बीच पारस्परिक लॉजिस्टिक सहयोग समझौते पर सहमति बनी। दोनों नेताओं ने हिंद-प्रशांत क्षेत्र को स्वतंत्र, खुला, सुरक्षित और समृद्ध बनाए रखने की प्रतिबद्धता दोहराई। उन्होंने समुद्री सुरक्षा सहयोग और सूचनाओं के आदान-प्रदान के लिए समुद्री सुरक्षा संवाद शुरू करने पर भी सहमति व्यक्त की। दोनों नेताओं ने भारत-न्यूज़ीलैंड मुक्त व्यापार समझौते का स्वागत करते हुए इसे जल्द लागू करने पर जोर दिया। पश्चिम एशिया की स्थिति पर चिंता व्यक्त करते हुए उन्होंने सभी पक्षों से संयम बरतने, तनाव कम करने और नागरिकों की सुरक्षा सुनिश्चित करने की अपील की। दोनों नेताओं ने संयुक्त राष्ट्र सुरक्षा परिषद में सुधार और उसके विस्तार की आवश्यकता पर भी बल दिया।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T04:46:03+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-and-new-zealand-prime-minister-luxon-set-a-target-to-take-bilateral-trade-to-%e2%82%b935000-crore/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका ने ईरान पर लगाए नए प्रतिबंध",
+        "summary": "अमेरिका में, ट्रंप प्रशासन ने आज ईरान पर नए प्रतिबंध लगाए हैं। इन प्रतिबंधों में ईरान के नेतृत्व से जुड़े व्यक्तियों और वित्तीय नेटवर्कों को निशाना बनाया गया है। इस सप्ताह की शुरुआत में वाणिज्यिक जहाजों पर तेहरान के हमलों के जवाब में यह कार्रवाई की गई है। इससे पहले अमेरिका ने कई जवाबी कदम […]",
+        "article": "अमेरिका में, ट्रंप प्रशासन ने आज ईरान पर नए प्रतिबंध लगाए हैं। इन प्रतिबंधों में ईरान के नेतृत्व से जुड़े व्यक्तियों और वित्तीय नेटवर्कों को निशाना बनाया गया है। इस सप्ताह की शुरुआत में वाणिज्यिक जहाजों पर तेहरान के हमलों के जवाब में यह कार्रवाई की गई है। इससे पहले अमेरिका ने कई जवाबी कदम उठाए हैं, जिनमें ईरानी ठिकानों पर हमले और तेहरान को तेल बेचने की अनुमति देने वाली छूट को वापस लेना शामिल है। अमेरिकी वित्त विभाग ने कहा कि ये प्रतिबंध दुबई स्थित ईरानी वित्तीय सुविधाकर्ता अली अंसारी पर लगाये गये हैं, जो ईरान के नए सर्वोच्च नेता मोजतबा खामेनेई और शासन से जुड़े विशिष्ट वर्ग को लाभ पहुंचाने वाली संपत्तियों के एक विशाल वैश्विक नेटवर्क की देखरेख करते हैं। इन प्रतिबंधों में प्रमुख ईरानी एक्सचेंज हाउस भी शामिल हैं, जिन पर प्रतिबंधित ईरानी बैंकों की ओर से सालाना अरबों डॉलर के लेन-देन का आरोप है। अमेरिका के विदेश विभाग के प्रवक्ता टॉमी पिगोट ने एक बयान में कहा कि अमरीका ईरान के सत्ताधारी विशिष्ट वर्ग को सहारा देने वाले वित्तीय साधनों को समाप्&#x200d;त करने के लिए निर्णायक कार्रवाई कर रहा है। ये प्रतिबंध ऐसे समय में आए हैं जब राष्ट्रपति डोनाल्ड ट्रम्प द्वारा अमेरिका-ईरान समझौता ज्ञापन के समाप्त होने की घोषणा के बावजूद तनाव कम करने के लिए राजनयिक प्रयास जारी हैं। हालांकि, राष्ट्रपति ट्रम्प ने कहा कि ईरान के साथ बातचीत जारी रहेगी।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T04:34:09+00:00",
+        "link": "https://newsonair.gov.in/hi/us-imposes-new-sanctions-on-iran/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीकी राष्ट्रपति डॉनल्ड ट्रंप ने कहा, हालिया तनाव के बावजूद अमरीका-ईरान वार्ता जारी रखने पर सहमत",
+        "summary": "अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने कहा है कि हालिया तनाव बढ़ने के बावजूद अमरीका और ईरान वार्ता जारी रखने पर सहमत हो गए हैं, लेकिन पिछले महीने हुआ युद्धविराम समाप्त हो गया है। राष्ट्रपति ट्रंप ने कहा कि ईरान ने वार्ता जारी रखने का अनुरोध किया है और अमरीका इसपर सहमत हो गया है। […]",
+        "article": "अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने कहा है कि हालिया तनाव बढ़ने के बावजूद अमरीका और ईरान वार्ता जारी रखने पर सहमत हो गए हैं, लेकिन पिछले महीने हुआ युद्धविराम समाप्त हो गया है। राष्ट्रपति ट्रंप ने कहा कि ईरान ने वार्ता जारी रखने का अनुरोध किया है और अमरीका इसपर सहमत हो गया है। अमरीका ने ईरान से होर्मुज जलडमरूमध्य में जहाजों पर हमले रोकने की मांग भी तेज कर दी है। इन हमलों के कारण तनाव बढ़ने से अंतर्राष्&#x200d;ट्रीय बाजार में कच्&#x200d;चे तेल की कीमतें बढ़ गई हैं। इस संघर्ष के दौरान कतर और सऊदी अरब के 3 वाणिज्यिक टैंकरों पर हमले हुए थे, जिसके जवाब में अमरीका ने ईरानी ठिकानों पर हमले किए। इसके जवाब में ईरान ने खाड़ी देशों में अमरीकी सैन्य ठिकानों पर हमले किए। इस बीच, क्षेत्र में कल किसी नये हमले की खबर नहीं है। ईरान की सरकारी मीडिया ने बताया है कि खाड़ी क्षेत्र में तनाव कम करने के लिए मध्यस्थ के रूप में कतर का एक प्रतिनिधिमंडल तेहरान जा रहा है। रिपोर्ट में कहा गया है कि कतर के अधिकारी तनाव कम करने और व्यापक वार्ता के लिए अनुकूल स्थिति बनाने में सहायता के लिए ईरानी अधिकारियों के साथ बातचीत कर रहे हैं। बताया जा रहा है कि ये बातचीत अमरीका के समन्वय से संचालित की जा रही हैं।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T03:06:36+00:00",
+        "link": "https://newsonair.gov.in/hi/us-president-donald-trump-said-that-despite-the-recent-tensions-america-and-iran-have-agreed-to-continue-talks/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "नाइजीरिया: सुरक्षा एजेंसियों ने 2 महीने पहले अगवा किए गए शिक्षकों और स्कूली बच्चों को बचाया",
+        "summary": "नाइजीरिया में सुरक्षा एजेंसियों ने लगभग दो महीने पहले अगवा किए गए शिक्षकों और स्कूली बच्चों को सुरक्षित बचा लिया है। यह कार्रवाई दक्षिण-पश्चिमी ओयो राज्य में की गई। सरकारी प्रवक्ता के अनुसार, अभियान के दौरान 8 संदिग्ध अपहरणकर्ताओं को गिरफ्तार किया गया, जबकि कई अन्य मारे गए। उन्होंने कहा कि बंधकों की रिहाई के […]",
+        "article": "नाइजीरिया में सुरक्षा एजेंसियों ने लगभग दो महीने पहले अगवा किए गए शिक्षकों और स्कूली बच्चों को सुरक्षित बचा लिया है। यह कार्रवाई दक्षिण-पश्चिमी ओयो राज्य में की गई। सरकारी प्रवक्ता के अनुसार, अभियान के दौरान 8 संदिग्ध अपहरणकर्ताओं को गिरफ्तार किया गया, जबकि कई अन्य मारे गए। उन्होंने कहा कि बंधकों की रिहाई के लिए न तो कोई फिरौती दी गई और न ही कैदियों की अदला-बदली की गई। ओयो राज्य के गवर्नर सेयी माकिंदे ने इस सफल अभियान पर सुरक्षा बलों की सराहना की और कहा कि बचाए गए लोगों को चिकित्सा और मानसिक सहायता उपलब्ध कराई जाएगी।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:33:30+00:00",
+        "link": "https://newsonair.gov.in/hi/nigeria-security-agencies-rescue-teachers-and-schoolchildren-abducted-two-months-ago-nigeria-security-agencies-rescue-teachers-and-schoolchildren-abducted-two-months-ago/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "पिछले 18 महीनों में निधि कटौती के कारण लगभग दस लाख महिलाएं आवश्यक मानवीय सहायता से वंचित: संयुक्त राष्ट्र महिला संगठन, संयुक्त राष्ट्र",
         "summary": "संयुक्त राष्ट्र की संस्था संयुक्त राष्ट्र महिला संगठन ने कहा है कि पिछले 18 महीनों में निधि कटौती के कारण लगभग दस लाख महिलाएं आवश्यक मानवीय सहायता से वंचित रह गई हैं। संस्था ने कहा कि जनवरी 2025 में अमरीकी राष्ट्रपति डॉनाल्ड ट्रम्प के पदभार ग्रहण करने के बाद विदेशी सहायता में की गई कटौती […]",
         "article": "संयुक्त राष्ट्र की संस्था संयुक्त राष्ट्र महिला संगठन ने कहा है कि पिछले 18 महीनों में निधि कटौती के कारण लगभग दस लाख महिलाएं आवश्यक मानवीय सहायता से वंचित रह गई हैं। संस्था ने कहा कि जनवरी 2025 में अमरीकी राष्ट्रपति डॉनाल्ड ट्रम्प के पदभार ग्रहण करने के बाद विदेशी सहायता में की गई कटौती के बाद स्थिति और भी खराब हो गई। अमरीका और अन्य प्रमुख दानदाताओं द्वारा सहायता में कटौती के कारण अन्य संयुक्त राष्ट्र एजेंसियों को भी कर्मचारियों की संख्या कम करनी पड़ी है और दुनिया भर में कार्यक्रमों को सीमित करना पड़ा है।",
         "date": "2026-07-10",
         "pubDate": "2026-07-10T15:30:54+00:00",
         "link": "https://newsonair.gov.in/hi/approximately-one-million-women-have-been-deprived-of-essential-humanitarian-aid-due-to-funding-cuts-over-the-past-18-months/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1493,8 +1586,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T15:25:34+00:00",
         "link": "https://newsonair.gov.in/hi/india-and-oman-held-discussion-to-ensure-peace-and-stability-in-the-gulf/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Oman-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1504,83 +1597,6 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T14:09:44+00:00",
         "link": "https://newsonair.gov.in/hi/12-people-die-in-a-massive-fire-in-spain/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्री डॉ. जयशंकर ने ओमान में रहने वाले भारतीय प्रवासियों से की बातचीत",
-        "summary": "विदेश मंत्री डॉ. जयशंकर ने आज ओमान में रहने वाले भारतीय प्रवासियों से बातचीत की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि भारत-ओमान संबंधों को मजबूत करने के प्रति उनका उत्साह स्पष्ट रूप से दिखाई देता है। उन्होंने भारत-ओमान साझेदारी में भारतीय प्रवासियों के योगदान की सराहना की।",
-        "article": "विदेश मंत्री डॉ. जयशंकर ने आज ओमान में रहने वाले भारतीय प्रवासियों से बातचीत की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि भारत-ओमान संबंधों को मजबूत करने के प्रति उनका उत्साह स्पष्ट रूप से दिखाई देता है। उन्होंने भारत-ओमान साझेदारी में भारतीय प्रवासियों के योगदान की सराहना की।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T12:40:55+00:00",
-        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-jaishankar-interacted-with-the-indian-diaspora-in-oman/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/1-7.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी ने अपनी ऑस्ट्रेलिया यात्रा को लेकर ऑस्ट्रेलिया सरकार और वहां की जनता का आभार व्यक्त किया",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी ने अपनी ऑस्ट्रेलिया यात्रा के दौरान मिले भव्‍य स्‍वागत और आतिथ्य के लिए ऑस्ट्रेलिया सरकार और वहां की जनता के साथ-साथ ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ का आभार व्यक्त किया है। ऑस्ट्रेलिया यात्रा के समापन पर सोशल मीडिया पर श्री मोदी ने कहा कि इस यात्रा के परिणामों ने भारत-ऑस्ट्रेलिया साझेदारी को और […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने अपनी ऑस्ट्रेलिया यात्रा के दौरान मिले भव्&#x200d;य स्&#x200d;वागत और आतिथ्य के लिए ऑस्ट्रेलिया सरकार और वहां की जनता के साथ-साथ ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ का आभार व्यक्त किया है। ऑस्ट्रेलिया यात्रा के समापन पर सोशल मीडिया पर श्री मोदी ने कहा कि इस यात्रा के परिणामों ने भारत-ऑस्ट्रेलिया साझेदारी को और मजबूत किया है और विभिन्न क्षेत्रों में सहयोग के नए रास्ते खोले हैं। उन्होंने विश्वास व्यक्त किया कि इस यात्रा से मिली गति दोनों देशों के लिए लाभकारी होगी और वैश्विक समुदाय में सकारात्मक योगदान देगी।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:36:19+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-expressed-his-gratitude-to-the-australian-government-and-the-people-of-australia-for-his-visit-to-the-country/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM1iY0CbQAAEOL9.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने संघर्ष-संबंधी यौन हिंसा की कड़ी निंदा की",
-        "summary": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते […]",
-        "article": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते हुए, संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि, राजदूत पी. ​​हरीश ने कहा कि इस तरह की हिंसा दण्ड मुक्ति की प्रचलित संस्कृति के बीच जारी है। उन्&#x200d;होंने कहा कि भारत ऐसे जघन्य कृत्यों की कड़ी निंदा करता है। संयुक्त राष्ट्र महासचिव की रिपोर्ट का संदर्भ देते हुए उन्होंने कहा कि 2025 में सत्यापित मामलों में हुई तीव्र वृद्धि सामूहिक कार्रवाई की तत्काल आवश्यकता को रेखांकित करती है। संयुक्त राष्ट्र शांतिरक्षा में भारत के महत्वपूर्ण योगदानों पर प्रकाश डालते हुए, श्री हरीश ने कहा कि महिला शांतिरक्षकों की तैनाती ने संघर्ष-संबंधी यौन हिंसा से निपटने में &#8220;परिवर्तनकारी प्रभाव&#8221; डाला है। उन्होंने यह घोषणा भी की कि संघर्ष से संबंधित यौन हिंसा को रोकने में उनके उत्कृष्ट प्रयासों के लिए भारतीय शांति रक्षक मेजर मोइज़ यासीन और मेजर सोनिया देवेंद्र नवस्कर को वर्ष 2026 के लिए संयुक्त राष्ट्र महासचिव का मिलिट्री जेंडर ऑफ द ईयर का मान्&#x200d;यता प्रमाणपत्र प्रदान किया जाएगा।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:35:00+00:00",
-        "link": "https://newsonair.gov.in/hi/india-strongly-condemned-conflict-related-sexual-violence/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-10-070515-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत",
-        "summary": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत हो चुकी है और छह लोग घायल हो गए हैं। स्पेन की सैन्य आपातकालीन इकाई, आने वाले घंटों में आग बुझाने के प्रयासों में शामिल होने हसो सकती है। आग से सड़कें भी बंद हो गईं और […]",
-        "article": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत हो चुकी है और छह लोग घायल हो गए हैं। स्पेन की सैन्य आपातकालीन इकाई, आने वाले घंटों में आग बुझाने के प्रयासों में शामिल होने हसो सकती है। आग से सड़कें भी बंद हो गईं और एक हजार से अधिक लोगों को सुरक्षित स्थानों पर पहुंचाया गया। अधिकारियों ने कहा कि यह आग अब तक इस क्षेत्र में लगी सबसे घातक आग है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:20:56+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a5%87%e0%a4%a8-%e0%a4%95%e0%a5%87-%e0%a4%a6%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a3%e0%a5%80-%e0%a4%ad%e0%a4%be%e0%a4%97-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%ad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM2i8CvbQAAgtlX.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीका के राष्ट्रपति डॉनल्‍ड ट्रंप और इस्राएल के प्रधानमंत्री बेन्‍यामिन नेतन्याहू के बीच बातचीत",
-        "summary": "अमरीका के राष्ट्रपति डॉनल्‍ड ट्रंप ने ईरान में हाल में हमलों के बाद इस्राएल के प्रधानमंत्री बेन्‍यामिन नेतन्याहू को खाड़ी क्षेत्र में अमरीकी सेना की नई गतिविधियों के बारे में जानकारी दी है। इस्राएल के प्रधानमंत्री कार्यालय के अनुसार, दोनों नेताओं ने कल रात फोन पर बातचीत की और अमरीका और इस्राएल के बीच विभिन्‍न […]",
-        "article": "अमरीका के राष्ट्रपति डॉनल्&#x200d;ड ट्रंप ने ईरान में हाल में हमलों के बाद इस्राएल के प्रधानमंत्री बेन्&#x200d;यामिन नेतन्याहू को खाड़ी क्षेत्र में अमरीकी सेना की नई गतिविधियों के बारे में जानकारी दी है। इस्राएल के प्रधानमंत्री कार्यालय के अनुसार, दोनों नेताओं ने कल रात फोन पर बातचीत की और अमरीका और इस्राएल के बीच विभिन्&#x200d;न क्षेत्रों में तालमेल बनाए रखने पर सहमति व्&#x200d;यक्&#x200d;त की। इस बीच, ईरान के इस्लामिक रिवोल्यूशनरी गार्ड ने कल दावा किया कि उसने उत्तरी जॉर्डन में अमरीका के अल-अज़राक सैन्&#x200d;य हवाई अड्डे पर दस बैलिस्टिक मिसाइलें दागीं। उसने कहा कि यह हमला तेहरान पर हाल ही में हुए अमरीकी हमले के जवाब में किया गया था। उसने चेतावनी दी कि अमरीका की ओर से किसी भी सैन्य कार्रवाई किए जाने पर जवाब में क्षेत्र में अमरीकी ठिकानों पर और हमले किए जाएंगे।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:12:09+00:00",
-        "link": "https://newsonair.gov.in/hi/talks-between-us-president-donald-trump-and-israeli-prime-minister-benjamin-netanyahu/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "फलस्तीन: राष्ट्रपति महमूद अब्बास ने विधायी चुनाव की घोषणा की",
-        "summary": "फलस्तीन के राष्ट्रपति महमूद अब्बास ने इस वर्ष नवंबर के आखिर में विधायी चुनाव कराने की घोषणा की है। वर्ष 2006 के बाद यह पहला विधायी चुनाव होगा। राष्ट्रपति अब्बास ने 28 नवंबर को यरूशलेम, वेस्ट बैंक और गजा पट्टी समेत सभी फलस्तीन क्षेत्रों में मतदान कराने का आदेश जारी किया है। आदेश में कहा […]",
-        "article": "फलस्तीन के राष्ट्रपति महमूद अब्बास ने इस वर्ष नवंबर के आखिर में विधायी चुनाव कराने की घोषणा की है। वर्ष 2006 के बाद यह पहला विधायी चुनाव होगा। राष्ट्रपति अब्बास ने 28 नवंबर को यरूशलेम, वेस्ट बैंक और गजा पट्टी समेत सभी फलस्तीन क्षेत्रों में मतदान कराने का आदेश जारी किया है। आदेश में कहा गया है कि चुनाव का उद्देश्य फलस्तीन में लोकतांत्रिक प्रक्रिया को मजबूत करना और चुनावी प्रक्रिया को आगे बढ़ाना है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:38:04+00:00",
-        "link": "https://newsonair.gov.in/hi/palestine-president-mahmoud-abbas-announces-legislative-elections/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "तेल की भारी अतिरिक्त आपूर्ति का अनुमान गलत साबित हो सकता है: आई ई ए",
-        "summary": "इंटरनेशनल एनर्जी एजेंसी -आई ई ए ने आज कहा कि अमरीका और ईरान के बीच तनाव दोबारा बढ़ने से 2027 में दुनिया भर में तेल की भारी अतिरिक्त आपूर्ति का उसका अनुमान गलत साबित हो सकता है। एजेंसी की रिपोर्ट के अनुसार जून में वैश्‍विक तेल आपूर्ति चार दशमलव एक मिलियन बैरल प्रति दिन बढ़कर […]",
-        "article": "इंटरनेशनल एनर्जी एजेंसी -आई ई ए ने आज कहा कि अमरीका और ईरान के बीच तनाव दोबारा बढ़ने से 2027 में दुनिया भर में तेल की भारी अतिरिक्त आपूर्ति का उसका अनुमान गलत साबित हो सकता है। एजेंसी की रिपोर्ट के अनुसार जून में वैश्&#x200d;विक तेल आपूर्ति चार दशमलव एक मिलियन बैरल प्रति दिन बढ़कर 98.8 मिलियन बैरल प्रति दिन हो गई। यह बढ़ोतरी इसलिए हुई क्योंकि युद्धविराम के बाद होर्मुज जलडमरूमध्य के पास फंसे टैंकरों ने अपनी यात्रा फिर से शुरू कर दी है। इस सुधार के बावजूद, वैश्विक उत्पादन युद्ध से पहले के स्तर से 9.4 मिलियन बैरल प्रति दिन कम है। एजेंसी का अनुमान है कि इस साल वैश्विक तेल की मांग में एक मिलियन बैरल प्रति दिन की कमी आएगी, लेकिन 2027 में इसमें 2 मिलियन बैरल प्रति दिन की बढ़ोतरी होगी; यह छह वर्षों में पहली वार्षिक गिरावट होगी। वहीं, एजेंसी का अनुमान है कि इस साल 3.7 मिलियन बैरल प्रति दिन की कमी के बाद अगले साल ऑयल सप्लाई में 7.5 मिलियन बैरल प्रति दिन की बढ़ोतरी होगी, लेकिन यह रिकवरी होर्मुज जलडमरूमध्य से बेहतर ट्रांजिट फ्लो (आवाजाही) पर निर्भर करती है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T13:38:53+00:00",
-        "link": "https://newsonair.gov.in/hi/the-forecast-of-a-massive-oil-oversupply-could-prove-to-be-incorrect/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1588,14 +1604,25 @@ window.VM_NEWS = {
     ],
     "sports": [
       {
+        "title": "महिला क्रिकेट: भारत के खिलाफ़ पहली पारी में 21 रन से आगे खेलेगा इंग्लैंड",
+        "summary": "लंदन के लॉर्ड्स में पहले महिला क्रिकेट टेस्ट के दूसरे दिन आज इंग्लैंड पहली पारी में कल के 21 रन पर एक विकेट के स्कोर से आगे खेलेगा। कल का खेल समाप्‍त होने के समय माईया बाउचियर 17 और हीथर नाईट एक रन बनाकर क्रीज पर थीं। इससे पहले भारत ने पहली पारी में 285 […]",
+        "article": "लंदन के लॉर्ड्स में पहले महिला क्रिकेट टेस्ट के दूसरे दिन आज इंग्लैंड पहली पारी में कल के 21 रन पर एक विकेट के स्कोर से आगे खेलेगा। कल का खेल समाप्&#x200d;त होने के समय माईया बाउचियर 17 और हीथर नाईट एक रन बनाकर क्रीज पर थीं। इससे पहले भारत ने पहली पारी में 285 रन बनाए थे। स्मृति मंधाना ने 83 रन, कप्तान हरमनप्रीत कौर और दीप्ति शर्मा ने अर्धशतक बनाए। इंग्&#x200d;लैंड की ओर से सोफी एक्लेस्टन ने 3, मैडी विलियर्स, इस्सी वोंग और लॉरेंन फायलर ने 2-2 विकेट लिए।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T02:45:14+00:00",
+        "link": "https://newsonair.gov.in/hi/womens-cricket-england-to-resume-first-innings-against-india-leading-by-21-runs/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "फीफा विश्व कप: स्पेन ने बेल्जियम को 2-1 से हराकर सेमीफाइनल में जगह बनायी",
         "summary": "फीफा विश्व कप में स्पेन ने बेल्जियम को 2-1 से हराकर सेमीफाइनल में जगह बना ली है। लॉस एंजिलिस के इंगलवुड में खेले गए दूसरे क्वार्टर फाइनल में पहले हाफ तक दोनों टीमें 1-1 की बराबरी पर थीं। स्पेन के लिए विजयी गोल मिकेल मेरिनो ने 88वें मिनट में किया। इससे पहले फ्रांस ने पहले […]",
         "article": "फीफा विश्व कप में स्पेन ने बेल्जियम को 2-1 से हराकर सेमीफाइनल में जगह बना ली है। लॉस एंजिलिस के इंगलवुड में खेले गए दूसरे क्वार्टर फाइनल में पहले हाफ तक दोनों टीमें 1-1 की बराबरी पर थीं। स्पेन के लिए विजयी गोल मिकेल मेरिनो ने 88वें मिनट में किया। इससे पहले फ्रांस ने पहले क्वार्टर फाइनल में मोरक्को को 2-0 से हराकर सेमीफाइनल में प्रवेश किया। आज तीसरे क्वार्टर फाइनल में नॉर्वे का मुकाबला इंग्लैंड से होगा। यह मैच भारतीय समयानुसार रात 2 बजकर 30 मिनट पर शुरू होगा। वहीं, चौथे क्वार्टर फाइनल में मौजूदा चैंपियन अर्जेंटीना का सामना कल स्विट्जरलैंड से होगा।",
         "date": "2026-07-11",
         "pubDate": "2026-07-11T00:51:25+00:00",
         "link": "https://newsonair.gov.in/hi/fifa-world-cup-spain-defeated-belgium-2-1-to-secure-a-spot-in-the-semi-finals/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats-5-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1605,8 +1632,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T03:07:39+00:00",
         "link": "https://newsonair.gov.in/hi/the-pair-of-marcelo-arevalo-and-jelena-ostapenko-won-the-mixed-doubles-title-at-the-wimbledon-tennis-tournament/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM0bpkqXIAAhsCn.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1616,8 +1643,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T02:55:17+00:00",
         "link": "https://newsonair.gov.in/hi/india-suffered-a-crushing-9-wicket-defeat-against-england-in-the-fourth-t20-international-cricket-match/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMz03lPbYAE25po-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1627,8 +1654,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T02:54:58+00:00",
         "link": "https://newsonair.gov.in/hi/the-indian-womens-cricket-team-will-play-an-odi-match-against-england-at-lords-in-london-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/bcci.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1638,8 +1665,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T08:11:01+00:00",
         "link": "https://newsonair.gov.in/hi/the-all-india-pickleball-association-has-announced-the-indian-squad-for-the-2026-pickleball-world-cup/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indian-Pickleball-Association.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1649,8 +1676,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T03:21:40+00:00",
         "link": "https://newsonair.gov.in/hi/17-year-old-ashwath-s-becomes-indias-98th-chess-grandmaster/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indias-Aswath-S-becomes-countrys-98th-Chess-Grandmaster.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1660,8 +1687,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T02:16:49+00:00",
         "link": "https://newsonair.gov.in/hi/wimbledon-juniors-2026-arnav-paparkar-reaches-boys-singles-quarter-finals/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMwdDqMbYAAvdZp.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1671,8 +1698,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T01:49:00+00:00",
         "link": "https://newsonair.gov.in/hi/the-fourth-match-of-the-five-match-t20-cricket-series-between-india-and-england-will-be-played-in-bristol-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/NewsOnAir-7.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1682,19 +1709,8 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T08:46:37+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%ab%e0%a5%80%e0%a4%ab%e0%a4%be-%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5-%e0%a4%95%e0%a4%aa-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%9f%e0%a5%8d%e0%a4%9c%e0%a4%b0%e0%a4%b2%e0%a5%88/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/fi-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "क्रिकेट: तीसरे टी-20 मैच में इंग्लैंड ने भारत को 125 रन से हराया",
-        "summary": "पुरुष टी-20 क्रिकेट में इंग्लैंड ने भारत को 125 रन से हरा दिया है। पांच मैचों की श्रृंखला के तीसरे मैच में पहले बल्‍लेबाजी करते हुए कल रात नॉटिंघम में इंग्लैंड ने भारत को 202 रन का लक्ष्य दिया। भारतीय टीम 12वें ओवर में मात्र 76 रन बनाकर ऑलआउट हो गई। इंग्लैंड की […]",
-        "article": "पुरुष टी-20 क्रिकेट में इंग्लैंड ने भारत को 125 रन से हरा दिया है। पांच मैचों की श्रृंखला के तीसरे मैच में पहले बल्&#x200d;लेबाजी करते हुए कल रात नॉटिंघम में इंग्लैंड ने भारत को 202 रन का लक्ष्य दिया। भारतीय टीम 12वें ओवर में मात्र 76 रन बनाकर ऑलआउट हो गई। इंग्लैंड की ओर से जोश टोंग ने 4 विकेट लिए, जबकि जोफ्रा आर्चर ने 3 विकेट लिए। जोफ्रा आर्चर को प्&#x200d;लेयर ऑफ द मैच चुना गया। इस जीत के साथ इंग्लैंड को श्रृंखला में 2-0 की बढ़त मिल गई है। श्रृंखला के आखिरी दो मैच ब्रिस्टल और साउथेम्प्टन में खेले जाएंगे। इसके बाद भारत इंग्लैंड के खिलाफ तीन मैचों की एकदिवसीय श्रृंखला भी खेलेगा।",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T01:40:35+00:00",
-        "link": "https://newsonair.gov.in/hi/cricket-england-defeated-india-by-125-runs-in-the-third-t20-match/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/England-beat-India-by-125-runs-in-third-T20I.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -1706,8 +1722,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T01:58:14+00:00",
         "link": "https://newsonair.gov.in/hi/imf-report-india-is-the-fastest-growing-economy-with-a-projected-growth-rate-of-7/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/06/imf-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1717,8 +1733,8 @@ window.VM_NEWS = {
         "date": "2026-07-05",
         "pubDate": "2026-07-05T14:44:07+00:00",
         "link": "https://newsonair.gov.in/hi/fpis-bought-indian-shares-worth-rs-708-crore-in-the-first-three-trading-sessions-of-july-taking-their-total-purchases-so-far-this-month/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FPI.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1728,63 +1744,8 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T02:58:26+00:00",
         "link": "https://newsonair.gov.in/hi/epfo-officially-announces-8-25-interest-rate-on-epf-deposits-for-the-financial-year-2025-26/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/dgrmc13c_epfo_625x300_09_April_25.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "19 किलोग्राम व्यावसायिक एलपीजी सिलेंडर सस्ता, कीमत में 183.50 रुपये की कमी",
-        "summary": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्‍यावसायिक एलपीजी सिलेंडर के मूल्‍य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि‍टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्‍यावसायिक एलपीजी सिलेंडर दिल्‍ली में 2930 रुपये में मिलेगा। इस फैसले से […]",
-        "article": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्&#x200d;यावसायिक एलपीजी सिलेंडर के मूल्&#x200d;य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि&#x200d;टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्&#x200d;यावसायिक एलपीजी सिलेंडर दिल्&#x200d;ली में 2930 रुपये में मिलेगा। इस फैसले से रेस्&#x200d;तरां, ढाबा, होटल और अन्&#x200d;य खान-पान व्&#x200d;यावसायियों को लाभ होगा।",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T05:04:37+00:00",
-        "link": "https://newsonair.gov.in/hi/commercial-lpg-cylinder-price-cut-by-183-50-rupees/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260502237f-1-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील की अंतिम तिथि 31 जुलाई तक बढ़ाई",
-        "summary": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्‍त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्‍न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्‍या […]",
-        "article": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्&#x200d;त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्&#x200d;न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्&#x200d;या के कारण आई तकनीकी बाधा का हवाला दिया था। जिसके बाद सरकार ने अंतिम तिथि बढ़ाकर 31 जुलाई निर्धारित की। सरकार ने करदाताओं को भी सलाह दी है कि वे समय रहते ही अपील दायर कर दें और अंतिम तिथ&#x200d;ि का इंतजार न करें।",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T07:55:27+00:00",
-        "link": "https://newsonair.gov.in/hi/gst-appellate-tribunal-appeal-deadline-extended-july-31/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Untitled-design-1-8.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने एक जुलाई से पेट्रोल और डीज़ल की बिक्री व वितरण पर लगा प्रतिबंध हटाने का फैसला किया",
-        "summary": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम […]",
-        "article": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम एशिया संकट के दौरान अंतरराष्ट्रीय बाजार में ईंधन की कीमतों में तेज़ बढ़ोतरी के बावजूद सरकार ने पेट्रोल और डीज़ल की खुदरा कीमतों को स्थिर रखा। इससे खुदरा और थोक उपभोक्ताओं के लिए ईंधन की कीमतों में बड़ा अंतर पैदा हो गया था। इस स्थिति से निपटने के लिए 12 जून से अस्थायी नियामक उपाय लागू किए गए थे। इनके तहत खुदरा पेट्रोल पंपों पर एक ग्राहक या वाहन को प्रतिदिन अधिकतम 200 लीटर हाई स्पीड डीज़ल देने की सीमा तय की गई थी। साथ ही औद्योगिक, संस्थागत और व्यावसायिक उपभोक्ताओं के लिए अलग व्यवस्था की गई थी। इन उपायों का उद्देश्य डीज़ल की कालाबाज़ारी, जमाखोरी और अवैध बिक्री को रोकना तथा आम उपभोक्ताओं के लिए पेट्रोल और डीज़ल की निर्बाध उपलब्धता सुनिश्चित करना था। मंत्रालय ने कहा कि अब देश में पेट्रोलियम उत्पादों की आपूर्ति सामान्य हो गई है और पेट्रोल-डीज़ल की पर्याप्त उपलब्धता सुनिश्चित है। इसलिए जनहित में इन अस्थायी प्रतिबंधों को वापस लेने का निर्णय लिया गया है।",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T03:05:15+00:00",
-        "link": "https://newsonair.gov.in/hi/fuel-sales-restrictions/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260523106F_cPfEGOF-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "उत्तराखंड के लिपुलेख दर्रे से भारत-चीन सीमा व्यापार 6 वर्ष बाद फिर होगा शुरू, 26 व्यापार पास जारी किए गए",
-        "summary": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि […]",
-        "article": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि व्यापार को सुगम बनाने के लिए गुंजी में सीमा शुल्क कार्यालय खोला गया है। व्यापारियों ने अपना सामान पहले ही लिपुलेख दर्रे के निकट स्थित गोदामों में पहुंचा दिया है। प्रशासन को 103 से अधिक व्यापारियों के आवेदन प्राप्त हुए हैं और जल्द ही 25 व्यापारियों के दूसरे दल को भी व्यापार पास जारी किए जाएंगे। सामान ढुलाई के लिए नाभीढांग के पास खच्चरों और घोड़ों की व्यवस्था की गई है। भारत-चीन सीमा व्यापार वर्ष 1991 में पुनः शुरू हुआ था, लेकिन कोविड-19 महामारी के कारण वर्ष 2020 में इसे स्थगित कर दिया गया था। छह वर्ष बाद व्यापार बहाल होने से सीमावर्ती क्षेत्रों की अर्थव्यवस्था को नई गति मिलने की उम्मीद है।",
-        "date": "2026-06-25",
-        "pubDate": "2026-06-25T02:30:19+00:00",
-        "link": "https://newsonair.gov.in/hi/india-china-border-trade-via-uttarakhands-lipulekh-pass-to-resume-after-six-years-26-trade-passes-issued/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Untitled-design-5-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "खनन मंत्रालय ने 7वें चरण की सफल नीलामी के साथ दी खनिज मिशन को गति",
-        "summary": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई […]",
-        "article": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई है। इनमें ग्रेफाइट, रेयर अर्थ एलिमेंट, वैनेडियम, टाइटेनियम, ग्लूकोनाइट और रॉक फॉस्फेट जैसे खनिज शामिल हैं। अब नीलाम किए गए अन्वेषण लाइसेंस ब्लॉक की संख्या 11 हो गई है। अरुणाचल प्रदेश, उत्तर प्रदेश और ओडिशा में पहली बार अन्वेषण लाइसेंस ब्लॉक की नीलामी की गई। खान मंत्रालय के अनुसार, यह नीलामी भारत के खनिज क्षेत्र में उद्योग जगत के बढ़ते भरोसे को दिखाती है। इससे स्वच्छ उर्जा, इलेक्ट्रिक मोबिलिटी, नवीकरणीय उर्जा, इलेक्ट्रॉनिक्स, रक्षा और उन्नत विनिर्माण के लिए ज़रूरी खनिज की खोज और विकास में तेज़ी आएगी। इससे आयात पर निर्भरता कम होगी और घरेलू खनिज आपूर्ति श्रृंखला मज़बूत होगी।",
-        "date": "2026-06-24",
-        "pubDate": "2026-06-24T02:04:58+00:00",
-        "link": "https://newsonair.gov.in/hi/ministry-of-mines-gives-impetus-to-mineral-mission-with-successful-7th-round-of-auctions/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/Ministry-of-mines.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1799,12 +1760,67 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "19 किलोग्राम व्यावसायिक एलपीजी सिलेंडर सस्ता, कीमत में 183.50 रुपये की कमी",
+        "summary": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्‍यावसायिक एलपीजी सिलेंडर के मूल्‍य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि‍टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्‍यावसायिक एलपीजी सिलेंडर दिल्‍ली में 2930 रुपये में मिलेगा। इस फैसले से […]",
+        "article": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्&#x200d;यावसायिक एलपीजी सिलेंडर के मूल्&#x200d;य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि&#x200d;टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्&#x200d;यावसायिक एलपीजी सिलेंडर दिल्&#x200d;ली में 2930 रुपये में मिलेगा। इस फैसले से रेस्&#x200d;तरां, ढाबा, होटल और अन्&#x200d;य खान-पान व्&#x200d;यावसायियों को लाभ होगा।",
+        "date": "2026-07-01",
+        "pubDate": "2026-07-01T05:04:37+00:00",
+        "link": "https://newsonair.gov.in/hi/commercial-lpg-cylinder-price-cut-by-183-50-rupees/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील की अंतिम तिथि 31 जुलाई तक बढ़ाई",
+        "summary": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्‍त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्‍न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्‍या […]",
+        "article": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्&#x200d;त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्&#x200d;न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्&#x200d;या के कारण आई तकनीकी बाधा का हवाला दिया था। जिसके बाद सरकार ने अंतिम तिथि बढ़ाकर 31 जुलाई निर्धारित की। सरकार ने करदाताओं को भी सलाह दी है कि वे समय रहते ही अपील दायर कर दें और अंतिम तिथ&#x200d;ि का इंतजार न करें।",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:55:27+00:00",
+        "link": "https://newsonair.gov.in/hi/gst-appellate-tribunal-appeal-deadline-extended-july-31/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने एक जुलाई से पेट्रोल और डीज़ल की बिक्री व वितरण पर लगा प्रतिबंध हटाने का फैसला किया",
+        "summary": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम […]",
+        "article": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम एशिया संकट के दौरान अंतरराष्ट्रीय बाजार में ईंधन की कीमतों में तेज़ बढ़ोतरी के बावजूद सरकार ने पेट्रोल और डीज़ल की खुदरा कीमतों को स्थिर रखा। इससे खुदरा और थोक उपभोक्ताओं के लिए ईंधन की कीमतों में बड़ा अंतर पैदा हो गया था। इस स्थिति से निपटने के लिए 12 जून से अस्थायी नियामक उपाय लागू किए गए थे। इनके तहत खुदरा पेट्रोल पंपों पर एक ग्राहक या वाहन को प्रतिदिन अधिकतम 200 लीटर हाई स्पीड डीज़ल देने की सीमा तय की गई थी। साथ ही औद्योगिक, संस्थागत और व्यावसायिक उपभोक्ताओं के लिए अलग व्यवस्था की गई थी। इन उपायों का उद्देश्य डीज़ल की कालाबाज़ारी, जमाखोरी और अवैध बिक्री को रोकना तथा आम उपभोक्ताओं के लिए पेट्रोल और डीज़ल की निर्बाध उपलब्धता सुनिश्चित करना था। मंत्रालय ने कहा कि अब देश में पेट्रोलियम उत्पादों की आपूर्ति सामान्य हो गई है और पेट्रोल-डीज़ल की पर्याप्त उपलब्धता सुनिश्चित है। इसलिए जनहित में इन अस्थायी प्रतिबंधों को वापस लेने का निर्णय लिया गया है।",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T03:05:15+00:00",
+        "link": "https://newsonair.gov.in/hi/fuel-sales-restrictions/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उत्तराखंड के लिपुलेख दर्रे से भारत-चीन सीमा व्यापार 6 वर्ष बाद फिर होगा शुरू, 26 व्यापार पास जारी किए गए",
+        "summary": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि […]",
+        "article": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि व्यापार को सुगम बनाने के लिए गुंजी में सीमा शुल्क कार्यालय खोला गया है। व्यापारियों ने अपना सामान पहले ही लिपुलेख दर्रे के निकट स्थित गोदामों में पहुंचा दिया है। प्रशासन को 103 से अधिक व्यापारियों के आवेदन प्राप्त हुए हैं और जल्द ही 25 व्यापारियों के दूसरे दल को भी व्यापार पास जारी किए जाएंगे। सामान ढुलाई के लिए नाभीढांग के पास खच्चरों और घोड़ों की व्यवस्था की गई है। भारत-चीन सीमा व्यापार वर्ष 1991 में पुनः शुरू हुआ था, लेकिन कोविड-19 महामारी के कारण वर्ष 2020 में इसे स्थगित कर दिया गया था। छह वर्ष बाद व्यापार बहाल होने से सीमावर्ती क्षेत्रों की अर्थव्यवस्था को नई गति मिलने की उम्मीद है।",
+        "date": "2026-06-25",
+        "pubDate": "2026-06-25T02:30:19+00:00",
+        "link": "https://newsonair.gov.in/hi/india-china-border-trade-via-uttarakhands-lipulekh-pass-to-resume-after-six-years-26-trade-passes-issued/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "नीति आयोग के उपाध्यक्ष ने कहा, पिछली तिमाही में भारत का कुल व्यापार 5.4% बढ़ा",
         "summary": "नीति आयोग के उपाध्यक्ष डॉ. अशोक कुमार लाहिड़ी ने कहा है कि पिछली तिमाही में भारत का कुल व्यापार 5.4 प्रतिशत बढ़ा है। कल नई दिल्ली में &#8216;ट्रेड वॉच क्वार्टरली&#8216; रिपोर्ट का नया संस्करण जारी करते हुए उन्होंने कहा कि पिछली तिमाही में भारत का निर्यात 1 खरब 84 अरब डॉलर पर पहुंच गया और […]",
         "article": "नीति आयोग के उपाध्यक्ष डॉ. अशोक कुमार लाहिड़ी ने कहा है कि पिछली तिमाही में भारत का कुल व्यापार 5.4 प्रतिशत बढ़ा है। कल नई दिल्ली में &#8216; ट्रेड वॉच क्वार्टरली &#8216; रिपोर्ट का नया संस्करण जारी करते हुए उन्होंने कहा कि पिछली तिमाही में भारत का निर्यात 1 खरब 84 अरब डॉलर पर पहुंच गया और आयात में साढ़े 6 प्रतिशत की वृद्धि हुई। रिपोर्ट में, वैश्विक व्यापार में भारत की भूमिका का विश्लेषण किया गया है, जिसमें ख़ासकर औषधि व्यापार पर ध्यान केंद्रित किया गया है।",
         "date": "2026-06-24",
         "pubDate": "2026-06-24T02:06:08+00:00",
         "link": "https://newsonair.gov.in/hi/niti-aayog-vice-chairman-says-indias-total-trade-grew-by-5-4-in-the-last-quarter/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "खनन मंत्रालय ने 7वें चरण की सफल नीलामी के साथ दी खनिज मिशन को गति",
+        "summary": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई […]",
+        "article": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई है। इनमें ग्रेफाइट, रेयर अर्थ एलिमेंट, वैनेडियम, टाइटेनियम, ग्लूकोनाइट और रॉक फॉस्फेट जैसे खनिज शामिल हैं। अब नीलाम किए गए अन्वेषण लाइसेंस ब्लॉक की संख्या 11 हो गई है। अरुणाचल प्रदेश, उत्तर प्रदेश और ओडिशा में पहली बार अन्वेषण लाइसेंस ब्लॉक की नीलामी की गई। खान मंत्रालय के अनुसार, यह नीलामी भारत के खनिज क्षेत्र में उद्योग जगत के बढ़ते भरोसे को दिखाती है। इससे स्वच्छ उर्जा, इलेक्ट्रिक मोबिलिटी, नवीकरणीय उर्जा, इलेक्ट्रॉनिक्स, रक्षा और उन्नत विनिर्माण के लिए ज़रूरी खनिज की खोज और विकास में तेज़ी आएगी। इससे आयात पर निर्भरता कम होगी और घरेलू खनिज आपूर्ति श्रृंखला मज़बूत होगी।",
+        "date": "2026-06-24",
+        "pubDate": "2026-06-24T02:04:58+00:00",
+        "link": "https://newsonair.gov.in/hi/ministry-of-mines-gives-impetus-to-mineral-mission-with-successful-7th-round-of-auctions/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1818,8 +1834,8 @@ window.VM_NEWS = {
         "date": "2026-05-22",
         "pubDate": "2026-05-22T02:24:07+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a4%be%e0%a4%a8%e0%a5%8d%e0%a4%b8-%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae-%e0%a4%ae%e0%a4%b9%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%b8%e0%a4%b5-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b9/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/Untitled-design-27.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1829,8 +1845,8 @@ window.VM_NEWS = {
         "date": "2026-03-31",
         "pubDate": "2026-03-31T07:55:25+00:00",
         "link": "https://newsonair.gov.in/hi/iffd-2026-will-conclude-with-the-screening-of-lalo-krishna-sada-sahayate/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/लालो.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1840,8 +1856,8 @@ window.VM_NEWS = {
         "date": "2026-02-23",
         "pubDate": "2026-02-23T04:47:52+00:00",
         "link": "https://newsonair.gov.in/hi/manipuri-comedy-drama-film-boong-wins-best-childrens-and-family-film-category-at-bafta-awards/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/Boong-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1851,8 +1867,8 @@ window.VM_NEWS = {
         "date": "2026-02-23",
         "pubDate": "2026-02-23T03:36:35+00:00",
         "link": "https://newsonair.gov.in/hi/the-film-one-battle-after-another-created-a-stir-at-the-79th-bafta-awards/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/HBykUy4XMAAB08r.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1862,8 +1878,8 @@ window.VM_NEWS = {
         "date": "2026-01-23",
         "pubDate": "2026-01-23T04:07:03+00:00",
         "link": "https://newsonair.gov.in/hi/24th-international-film-festival-of-pune-concludes-with-a-colourful-ceremony/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/पुणे.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1873,8 +1889,8 @@ window.VM_NEWS = {
         "date": "2025-12-17",
         "pubDate": "2025-12-17T08:10:26+00:00",
         "link": "https://newsonair.gov.in/hi/the-indian-film-homebound-has-been-nominated-in-the-best-feature-film-category-at-the-98th-academy-awards/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/homeeee.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1884,19 +1900,8 @@ window.VM_NEWS = {
         "date": "2025-12-08",
         "pubDate": "2025-12-08T03:03:45+00:00",
         "link": "https://newsonair.gov.in/hi/renowned-actor-kalyan-chattopadhyay-passes-away-at-the-age-of-82/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/kalyan.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "56वां भारतीय अंतरराष्ट्रीय फिल्म महोत्सव भव्यता के साथ हो रहा है सम्‍पन्‍न",
-        "summary": "56वां भारतीय अंतरराष्ट्रीय फिल्म महोत्सव आज सम्‍पन्‍न हो रहा है। महोत्सव का भव्य उद्घाटन 20 नवंबर को परेड के साथ हुआ था। गोवा के मुख्यमंत्री प्रमोद सावंत, केंद्रीय सूचना और प्रसारण मंत्री अश्विनी वैष्णव तथा सूचना और प्रसारण राज्य मंत्री डॉ. एल. मुरुगन, महोत्सव निदेशक शेखर कपूर के साथ इस समारोह में शामिल […]",
-        "article": "56वां भारतीय अंतरराष्ट्रीय फिल्म महोत्सव आज सम्&#x200d;पन्&#x200d;न हो रहा है। महोत्सव का भव्य उद्घाटन 20 नवंबर को परेड के साथ हुआ था। गोवा के मुख्यमंत्री प्रमोद सावंत, केंद्रीय सूचना और प्रसारण मंत्री अश्विनी वैष्णव तथा सूचना और प्रसारण राज्य मंत्री डॉ. एल. मुरुगन, महोत्सव निदेशक शेखर कपूर के साथ इस समारोह में शामिल होंगे। कई गणमान्य व्यक्तियों के भी इस आयोजन में शामिल होने की आशा है। इस दौरान प्रतिष्ठित गोल्डन पीकॉक अवार्ड, सिल्वर पीकॉक अवार्ड और आईसीएफटी-यूनेस्को गांधी मेडल दिए जाएंगे। इस वर्ष फिल्मोत्सव में 81 देशों की 240 से अधिक फिल्में दिखाई गई जिनमें जापान फोकस कंट्री, स्पेन पार्टनर कंट्री और ऑस्ट्रेलिया स्पॉटलाइट कंट्री रहा।",
-        "date": "2025-11-28",
-        "pubDate": "2025-11-28T12:32:09+00:00",
-        "link": "https://newsonair.gov.in/hi/56%e0%a4%b5%e0%a4%be%e0%a4%82-%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/आईएफएफ.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1906,6 +1911,17 @@ window.VM_NEWS = {
         "date": "2025-11-28",
         "pubDate": "2025-11-28T15:45:34+00:00",
         "link": "https://newsonair.gov.in/hi/56%e0%a4%b5%e0%a4%be%e0%a4%82-%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "56वां भारतीय अंतरराष्ट्रीय फिल्म महोत्सव भव्यता के साथ हो रहा है सम्‍पन्‍न",
+        "summary": "56वां भारतीय अंतरराष्ट्रीय फिल्म महोत्सव आज सम्‍पन्‍न हो रहा है। महोत्सव का भव्य उद्घाटन 20 नवंबर को परेड के साथ हुआ था। गोवा के मुख्यमंत्री प्रमोद सावंत, केंद्रीय सूचना और प्रसारण मंत्री अश्विनी वैष्णव तथा सूचना और प्रसारण राज्य मंत्री डॉ. एल. मुरुगन, महोत्सव निदेशक शेखर कपूर के साथ इस समारोह में शामिल […]",
+        "article": "56वां भारतीय अंतरराष्ट्रीय फिल्म महोत्सव आज सम्&#x200d;पन्&#x200d;न हो रहा है। महोत्सव का भव्य उद्घाटन 20 नवंबर को परेड के साथ हुआ था। गोवा के मुख्यमंत्री प्रमोद सावंत, केंद्रीय सूचना और प्रसारण मंत्री अश्विनी वैष्णव तथा सूचना और प्रसारण राज्य मंत्री डॉ. एल. मुरुगन, महोत्सव निदेशक शेखर कपूर के साथ इस समारोह में शामिल होंगे। कई गणमान्य व्यक्तियों के भी इस आयोजन में शामिल होने की आशा है। इस दौरान प्रतिष्ठित गोल्डन पीकॉक अवार्ड, सिल्वर पीकॉक अवार्ड और आईसीएफटी-यूनेस्को गांधी मेडल दिए जाएंगे। इस वर्ष फिल्मोत्सव में 81 देशों की 240 से अधिक फिल्में दिखाई गई जिनमें जापान फोकस कंट्री, स्पेन पार्टनर कंट्री और ऑस्ट्रेलिया स्पॉटलाइट कंट्री रहा।",
+        "date": "2025-11-28",
+        "pubDate": "2025-11-28T12:32:09+00:00",
+        "link": "https://newsonair.gov.in/hi/56%e0%a4%b5%e0%a4%be%e0%a4%82-%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1930,8 +1946,8 @@ window.VM_NEWS = {
         "date": "2026-06-04",
         "pubDate": "2026-06-04T06:01:50+00:00",
         "link": "https://newsonair.gov.in/hi/who-expresses-concern-over-rapid-spread-of-ebola-outbreak-in-congo/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/WHO.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1941,8 +1957,8 @@ window.VM_NEWS = {
         "date": "2026-05-21",
         "pubDate": "2026-05-21T07:50:34+00:00",
         "link": "https://newsonair.gov.in/hi/directorate-general-of-health-services-issues-advisory-for-travellers-arriving-from-and-transiting-through-ebola-affected-countries/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/cds.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1952,8 +1968,8 @@ window.VM_NEWS = {
         "date": "2026-05-21",
         "pubDate": "2026-05-21T07:00:38+00:00",
         "link": "https://newsonair.gov.in/hi/india-launches-worlds-largest-screening-drive-to-eliminate-tb-union-health-minister-j-p-nadda/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/jp-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1963,8 +1979,8 @@ window.VM_NEWS = {
         "date": "2026-05-08",
         "pubDate": "2026-05-08T07:44:50+00:00",
         "link": "https://newsonair.gov.in/hi/health-minister-jp-nadda-launches-integrated-training-programme-for-primary-health-teams/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/J-p-Nadda.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1974,8 +1990,8 @@ window.VM_NEWS = {
         "date": "2026-05-07",
         "pubDate": "2026-05-07T03:01:43+00:00",
         "link": "https://newsonair.gov.in/hi/union-minister-to-launch-nationwide-annual-health-check-up-initiative-for-workers-from-esic/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/man.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1985,8 +2001,8 @@ window.VM_NEWS = {
         "date": "2026-04-07",
         "pubDate": "2026-04-07T08:28:42+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af-%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8-%e0%a4%aa%e0%a5%80%e0%a4%8f/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Untitled-design-3-5.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1996,8 +2012,8 @@ window.VM_NEWS = {
         "date": "2026-02-11",
         "pubDate": "2026-02-11T01:59:38+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a5%87%e0%a4%a6%e0%a4%bf%e0%a4%95-%e0%a4%94%e0%a4%b7%e0%a4%a7%e0%a4%bf-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a4%e0%a4%be/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/HAz4fsPbUAAOn4m-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -2007,8 +2023,8 @@ window.VM_NEWS = {
         "date": "2026-01-15",
         "pubDate": "2026-01-15T12:24:16+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4-%e0%a4%95%e0%a5%87-%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b7-%e0%a4%b9%e0%a4%b0%e0%a5%8d%e0%a4%ac%e0%a4%b2-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Untitled-design-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -2018,8 +2034,8 @@ window.VM_NEWS = {
         "date": "2025-12-27",
         "pubDate": "2025-12-27T04:59:50+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%9c%e0%a5%87-%e0%a4%aa%e0%a5%80-%e0%a4%a8%e0%a4%a1%e0%a5%8d/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G9GqIftaAAEWJQP.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -2029,8 +2045,8 @@ window.VM_NEWS = {
         "date": "2025-12-20",
         "pubDate": "2025-12-20T08:20:53+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%9c%e0%a5%87%e0%a4%aa%e0%a5%80-%e0%a4%a8%e0%a4%a1%e0%a5%8d-3/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G8jVc1PbMAQhk_x.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ]
