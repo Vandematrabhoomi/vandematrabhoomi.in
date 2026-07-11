@@ -1,6 +1,6 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-10T21:32:08.054071",
+  "generated": "2026-07-11T00:38:05.555817",
   "en": {
     "top": [
       {
@@ -10,41 +10,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T15:45:27+00:00",
         "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-6.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Centre reviews preparations for upcoming Monsoon Session",
-        "summary": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a […]",
-        "article": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a comprehensive review of the legislative business scheduled for the upcoming session was conducted and necessary guidelines were issued.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:34:13+00:00",
-        "link": "https://newsonair.gov.in/centre-reviews-preparations-for-upcoming-monsoon-session/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Meghwal-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Operation Amistad: Venezuela thanked India for timely help & support during recent earthquakes",
-        "summary": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External […]",
-        "article": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External Affairs Ministry said in a statement that on 26th June, two Indian Air Force C-17 Globemaster III aircraft carried a 41-member contingent from the Indian Army’s 60 Para Field Hospital Unit to Venezuela. It comprised surgeons, anaesthesiologists, orthopaedic surgeons, dental and other physicians, paramedical staff and support personnel. It also included two BHISHM Cubes, which are state-of-the-art modular and portable mobile mini-hospitals designed for rapid disaster response, 6 tons of essential medicines and medical equipment, and 30 tons of emergency relief supplies, including tents, solar lamps, portable water purifiers, and generator sets. Operation Amistad was undertaken in close coordination with the Venezuelan Government, whose support and facilitation enabled the swift deployment and effective functioning of the Indian Army Field Hospital. During its deployment, the Field Hospital provided critical assistance and care to hundreds of earthquake-impacted persons, carrying out over 8000 medical procedures and laboratory investigations, including over 20 major surgeries. India has conveyed its sincere appreciation to the Government of Venezuela for the assistance and cooperation extended to the Indian contingent throughout the mission. Operation Amistad underscores the enduring friendship and solidarity between India and Venezuela, and reflects India’s commitment to stand steadfastly with partner countries in difficult times, in the spirit of Vasudhaiva Kutumbakam.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T14:14:22+00:00",
-        "link": "https://newsonair.gov.in/operation-amistad-venezuela-thanked-india-for-timely-help-support-during-recent-earthquakes/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Op.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Oman hold discussion to ensure peace and stability in the Gulf",
-        "summary": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The […]",
-        "article": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The two leaders also held a comprehensive exchange of views on developments in the Gulf, and efforts to ensure peace and stability in the region. Dr Jaishankar highlighted that the discussions reflected the trust and strength of Strategic Partnership between India and Oman. Meanwhile, the Omani Foreign Minister said that the longstanding maritime ties between India and Oman have connected their people for centuries and continue to provide a strong foundation for the partnership between the two countries. In a social media post, Mr Badr Albusaidi said that the two leaders held discussion on intensive diplomacy to secure freedom of navigation in Strait of Hormuz and thanked India for its support.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T13:02:14+00:00",
-        "link": "https://newsonair.gov.in/india-and-oman-held-discussion-to-ensure-peace-and-stability-in-the-gulf/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Oman.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_-_May_2024_%282%29.jpg/1280px-Auckland_skyline_-_May_2024_%282%29.jpg",
+        "image_credit": "Wikipedia – Auckland (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -54,8 +21,74 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T12:54:34+00:00",
         "link": "https://newsonair.gov.in/sc-to-hear-ayodhya-ram-temple-donation-case-on-monday/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/supreme-court-4.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Galileo_moon_phases.jpg",
+        "image_credit": "Wikipedia – Monday (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Iran accuses US of alleged airstrike near nuke power plant in Bushehr",
+        "summary": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the […]",
+        "article": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the United States launched new airstrikes against Iran, and Tehran responded by targeting US-allied countries in the West Asia in an exchange of fire that threatened an interim deal intended to help end the war in the West Asia. Sirens sounding at least three times in Bahrain, home to the US Navy&#8217;s 5th Fleet headquarters, and Iranian missiles targeting Kuwait and Qatar. Sirens sounded Thursday afternoon in Jordan as well, where the US has stationed troops and aircraft. In Iran, the two days of American airstrikes have killed at least 14 people and wounded another 78, according to Iran&#8217;s Health Ministry. Most of those reportedly members of the armed forces. Back-and-forth attacks, including a day earlier, have repeatedly threatened the ceasefire, but today&#8217;s exchange of fire appeared bigger all around. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz signalled the end of a fragile ceasefire and threatened to escalate the conflict if they did not stop.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T12:00:53+00:00",
+        "link": "https://newsonair.gov.in/iran-accuses-us-of-alleged-airstrike-near-nuke-power-plant-in-bushehr/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bushehr_City.jpg",
+        "image_credit": "Wikipedia – Bushehr (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "US launches fresh airstrikes on Iran; Tehran targets Bahrain, Kuwait and Qatar",
+        "summary": "The United States launched new airstrikes against Iran this morning. Tehran responded by targeting Bahrain, Kuwait and Qatar, escalating crossfire that again threatened an interim deal aimed at ending the war in the Persian Gulf. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of […]",
+        "article": "The United States launched new airstrikes against Iran this morning. Tehran responded by targeting Bahrain, Kuwait and Qatar, escalating crossfire that again threatened an interim deal aimed at ending the war in the Persian Gulf. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz had signalled the end of the fragile ceasefire. The US struck a range of military sites and port facilities early yesterday. The attacks followed Iran&#8217;s targeting of several merchant vessels off the coast of Oman, which triggered an Iranian response. Today&#8217;s attacks appeared to be larger on both sides. Sirens sounded at least twice in Bahrain, home to the US Navy&#8217;s 5th Fleet headquarters. There was no immediate word on damage in Bahrain, Kuwait or Qatar. Kuwait&#8217;s military said it was actively intercepting incoming drones and missiles. Iran&#8217;s Revolutionary Guard claimed responsibility for attacks on Bahrain and Kuwait. The US military&#8217;s Central Command said it struck about 90 targets across Iran. It also released black-and-white footage showing what appeared to be attacks on an airport runway and missile launchers. The US said the strikes were intended to “further degrade” Iran&#8217;s ability to threaten freedom of navigation in the Strait of Hormuz. Iranian state media reported explosions in several locations, including Bushehr, home to Iran&#8217;s nuclear power plant complex, and the southern port cities of Chabahar, Konarak, Bandar Abbas and Sirik. In Iranshahr, authorities said a strike killed a firefighter at an airport.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T06:20:24+00:00",
+        "link": "https://newsonair.gov.in/us-launches-fresh-airstrikes-on-iran-tehran-targets-bahrain-kuwait-and-qatar/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/1280px-North_of_Tehran_Skyline_view.jpg",
+        "image_credit": "Wikipedia – Tehran (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "3rd BRICS Transport Ministers’ Meeting begins in Maharashtra’s Nagpur today",
+        "summary": "Meeting of the BRICS Transport Working Group has begun today in Nagpur on the occasion of the third BRICS Transport Ministers&#8217; Meeting under BRICS 2026 chairship of India. Addressing the media persons, after the Working Group meeting, Union Transport Secretary V. Umashankar said that senior officials deliberated on the main issues of circularity, mobility, […]",
+        "article": "Meeting of the BRICS Transport Working Group has begun today in Nagpur on the occasion of the third BRICS Transport Ministers&#8217; Meeting under BRICS 2026 chairship of India. Addressing the media persons, after the Working Group meeting, Union Transport Secretary V. Umashankar said that senior officials deliberated on the main issues of circularity, mobility, urban infrastructure, and sustainable development. Similarly, best practices in the transport sector and transportation issues were discussed in collaboration with these officials. Meanwhile, 3rd BRICS Transport Ministers&#8217; Meeting which is arranged on 11th and 12th of this month in city of Nagpur will be convened under India&#8217;s BRICS Chairship theme: &#8220;Building for Resilience, Innovation, Cooperation and Sustainability (BRICS)&#8221;. Union Transport Minister Nitin Gadkari will chair the BRICS Transport Ministers’ meeting on the 11th of this month, which will see the participation from Ministers of other member countries. Following the first two pivotal meetings of the Transport Working Group hosted by Russia and Brazil, this third iteration aims to deepen international transport cooperation. Over the two days, senior officials will review the progress of transport cooperation achieved since the Russian and Brazilian Chairships, exchange international best practices and deliberate on emerging areas of collaboration, including Sustainable Aviation Fuel (SAF), urban mobility, multi-modal transport, resilient logistics’ supply chains, decarbonisation and the adoption of expanding AI-based technologies.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:27:31+00:00",
+        "link": "https://newsonair.gov.in/3rd-brics-transport-ministers-meeting-to-begin-in-maharashtras-nagpur-today/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cave_26%2C_Ajanta.jpg/1280px-Cave_26%2C_Ajanta.jpg",
+        "image_credit": "Wikipedia – Maharashtra (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Centre reviews preparations for upcoming Monsoon Session",
+        "summary": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a […]",
+        "article": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a comprehensive review of the legislative business scheduled for the upcoming session was conducted and necessary guidelines were issued.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T15:34:13+00:00",
+        "link": "https://newsonair.gov.in/centre-reviews-preparations-for-upcoming-monsoon-session/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Operation Amistad: Venezuela thanked India for timely help & support during recent earthquakes",
+        "summary": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External […]",
+        "article": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External Affairs Ministry said in a statement that on 26th June, two Indian Air Force C-17 Globemaster III aircraft carried a 41-member contingent from the Indian Army’s 60 Para Field Hospital Unit to Venezuela. It comprised surgeons, anaesthesiologists, orthopaedic surgeons, dental and other physicians, paramedical staff and support personnel. It also included two BHISHM Cubes, which are state-of-the-art modular and portable mobile mini-hospitals designed for rapid disaster response, 6 tons of essential medicines and medical equipment, and 30 tons of emergency relief supplies, including tents, solar lamps, portable water purifiers, and generator sets. Operation Amistad was undertaken in close coordination with the Venezuelan Government, whose support and facilitation enabled the swift deployment and effective functioning of the Indian Army Field Hospital. During its deployment, the Field Hospital provided critical assistance and care to hundreds of earthquake-impacted persons, carrying out over 8000 medical procedures and laboratory investigations, including over 20 major surgeries. India has conveyed its sincere appreciation to the Government of Venezuela for the assistance and cooperation extended to the Indian contingent throughout the mission. Operation Amistad underscores the enduring friendship and solidarity between India and Venezuela, and reflects India’s commitment to stand steadfastly with partner countries in difficult times, in the spirit of Vasudhaiva Kutumbakam.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T14:14:22+00:00",
+        "link": "https://newsonair.gov.in/operation-amistad-venezuela-thanked-india-for-timely-help-support-during-recent-earthquakes/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India and Oman hold discussion to ensure peace and stability in the Gulf",
+        "summary": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The […]",
+        "article": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The two leaders also held a comprehensive exchange of views on developments in the Gulf, and efforts to ensure peace and stability in the region. Dr Jaishankar highlighted that the discussions reflected the trust and strength of Strategic Partnership between India and Oman. Meanwhile, the Omani Foreign Minister said that the longstanding maritime ties between India and Oman have connected their people for centuries and continue to provide a strong foundation for the partnership between the two countries. In a social media post, Mr Badr Albusaidi said that the two leaders held discussion on intensive diplomacy to secure freedom of navigation in Strait of Hormuz and thanked India for its support.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T13:02:14+00:00",
+        "link": "https://newsonair.gov.in/india-and-oman-held-discussion-to-ensure-peace-and-stability-in-the-gulf/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -65,8 +98,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T11:18:52+00:00",
         "link": "https://newsonair.gov.in/next-phase-of-ayushman-bharat-digital-mission-focuses-on-maximum-adoption-utilization-j-p-nadda/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Ayush.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -76,8 +109,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T10:52:13+00:00",
         "link": "https://newsonair.gov.in/railways-approve-260-cr-for-kavach-deployment-to-enhance-safety-operational-efficiency/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Railways.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -87,52 +120,19 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T08:55:17+00:00",
         "link": "https://newsonair.gov.in/centre-amends-drugs-rules-1945-to-strengthen-regulation-of-high-alcohol-containing-drug-formulation/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM2jt_6bcAAAQ1z.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "WhatsApp submits reply to Govt regarding rollout of Usernames feature",
-        "summary": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the […]",
-        "article": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the Government had issued a notice to Meta regarding the rollout of the Usernames feature on WhatsApp in India. Sources said that the Ministry directed Meta to furnish a detailed explanation on the feature. The Ministry also directed Meta not to roll out the usernames feature until consultation on the matter is over.",
+        "title": "PM Modi expresses gratitude to Australia for warm hospitality",
+        "summary": "Prime Minister Narendra Modi has expressed gratitude to the Government and people of Australia, as well as Australian Prime Minister Anthony Albanese, for the warm hospitality during his visit. In a social media post as his Australia visit concluded, Mr. Modi said the outcomes of the visit have further strengthened the India-Australia partnership and opened […]",
+        "article": "Prime Minister Narendra Modi has expressed gratitude to the Government and people of Australia, as well as Australian Prime Minister Anthony Albanese, for the warm hospitality during his visit. In a social media post as his Australia visit concluded, Mr. Modi said the outcomes of the visit have further strengthened the India-Australia partnership and opened new avenues for cooperation across diverse sectors. He expressed confidence that the momentum generated during the visit will benefit both nations and contribute positively to the global community.",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:43:02+00:00",
-        "link": "https://newsonair.gov.in/whatsapp-submits-reply-to-govt-regarding-rollout-of-usernames-feature/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-4.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Palestinian Authority President Mahmoud Abbas announces legislative elections in late November",
-        "summary": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The […]",
-        "article": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The decree said the elections aim to strengthen democracy and complete the electoral process in Palestine.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:45:40+00:00",
-        "link": "https://newsonair.gov.in/palestinian-authority-president-mahmoud-abbas-announces-legislative-elections-in-late-november/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-3-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
-        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
-        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:12:43+00:00",
-        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FIH-Hockey-Pro-League.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "UK expresses concern over unrest in PoJK due to brutal crackdown on civilians by Pak security forces",
-        "summary": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party",
-        "article": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party leader and MP, Bob Blackman, said that Pakistani security forces had opened fire on peaceful demonstrators in PoJK, resulting in multiple deaths and injuries of civilians, including British nationals. He asked the British government whether it had summoned Pakistan&#8217;s High Commissioner over the reported violence and what steps had been taken to protect innocent bystanders. Raising the issue in a parliamentary debate, another UK lawmaker, Imran Hussain, voiced serious concern over continued bloodshed, arbitrary arrests and restrictions on communication in PoJK. Hussain said that reports suggesting restrictions on the movement of food and medical supplies into several parts of the region are deeply alarming. He emphasised that respect for the human rights of Kashmiris in PoJK must remain at the heart of any negotiations. The Joint Awami Action Committee, JAAC has warned Pakistan it will launch final action if its demands are unmet, inviting global observers to witness the situation. These demands include economic reforms, fair resource distribution, reduced paramilitary presence, and changes to legislative seat allocations. JAAC leader Sardar Aman Khan has sought humanitarian aid from India, citing shortages due to an alleged blockade and military crackdown. He accused Islamabad of hypocrisy for labelling activists as terrorists.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T14:31:52+00:00",
-        "link": "https://newsonair.gov.in/uk-expresses-concern-over-unrest-in-pojk-due-to-brutal-crackdown-on-civilians-by-pak-security-forces/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-10T08:52:17+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-expresses-gratitude-to-australia-for-warm-hospitality/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -144,41 +144,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T15:45:27+00:00",
         "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-6.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Centre reviews preparations for upcoming Monsoon Session",
-        "summary": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a […]",
-        "article": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a comprehensive review of the legislative business scheduled for the upcoming session was conducted and necessary guidelines were issued.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:34:13+00:00",
-        "link": "https://newsonair.gov.in/centre-reviews-preparations-for-upcoming-monsoon-session/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Meghwal-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Operation Amistad: Venezuela thanked India for timely help & support during recent earthquakes",
-        "summary": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External […]",
-        "article": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External Affairs Ministry said in a statement that on 26th June, two Indian Air Force C-17 Globemaster III aircraft carried a 41-member contingent from the Indian Army’s 60 Para Field Hospital Unit to Venezuela. It comprised surgeons, anaesthesiologists, orthopaedic surgeons, dental and other physicians, paramedical staff and support personnel. It also included two BHISHM Cubes, which are state-of-the-art modular and portable mobile mini-hospitals designed for rapid disaster response, 6 tons of essential medicines and medical equipment, and 30 tons of emergency relief supplies, including tents, solar lamps, portable water purifiers, and generator sets. Operation Amistad was undertaken in close coordination with the Venezuelan Government, whose support and facilitation enabled the swift deployment and effective functioning of the Indian Army Field Hospital. During its deployment, the Field Hospital provided critical assistance and care to hundreds of earthquake-impacted persons, carrying out over 8000 medical procedures and laboratory investigations, including over 20 major surgeries. India has conveyed its sincere appreciation to the Government of Venezuela for the assistance and cooperation extended to the Indian contingent throughout the mission. Operation Amistad underscores the enduring friendship and solidarity between India and Venezuela, and reflects India’s commitment to stand steadfastly with partner countries in difficult times, in the spirit of Vasudhaiva Kutumbakam.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T14:14:22+00:00",
-        "link": "https://newsonair.gov.in/operation-amistad-venezuela-thanked-india-for-timely-help-support-during-recent-earthquakes/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Op.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Oman hold discussion to ensure peace and stability in the Gulf",
-        "summary": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The […]",
-        "article": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The two leaders also held a comprehensive exchange of views on developments in the Gulf, and efforts to ensure peace and stability in the region. Dr Jaishankar highlighted that the discussions reflected the trust and strength of Strategic Partnership between India and Oman. Meanwhile, the Omani Foreign Minister said that the longstanding maritime ties between India and Oman have connected their people for centuries and continue to provide a strong foundation for the partnership between the two countries. In a social media post, Mr Badr Albusaidi said that the two leaders held discussion on intensive diplomacy to secure freedom of navigation in Strait of Hormuz and thanked India for its support.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T13:02:14+00:00",
-        "link": "https://newsonair.gov.in/india-and-oman-held-discussion-to-ensure-peace-and-stability-in-the-gulf/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Oman.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_-_May_2024_%282%29.jpg/1280px-Auckland_skyline_-_May_2024_%282%29.jpg",
+        "image_credit": "Wikipedia – Auckland (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -188,8 +155,41 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T12:54:34+00:00",
         "link": "https://newsonair.gov.in/sc-to-hear-ayodhya-ram-temple-donation-case-on-monday/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/supreme-court-4.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Galileo_moon_phases.jpg",
+        "image_credit": "Wikipedia – Monday (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Centre reviews preparations for upcoming Monsoon Session",
+        "summary": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a […]",
+        "article": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a comprehensive review of the legislative business scheduled for the upcoming session was conducted and necessary guidelines were issued.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T15:34:13+00:00",
+        "link": "https://newsonair.gov.in/centre-reviews-preparations-for-upcoming-monsoon-session/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Operation Amistad: Venezuela thanked India for timely help & support during recent earthquakes",
+        "summary": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External […]",
+        "article": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External Affairs Ministry said in a statement that on 26th June, two Indian Air Force C-17 Globemaster III aircraft carried a 41-member contingent from the Indian Army’s 60 Para Field Hospital Unit to Venezuela. It comprised surgeons, anaesthesiologists, orthopaedic surgeons, dental and other physicians, paramedical staff and support personnel. It also included two BHISHM Cubes, which are state-of-the-art modular and portable mobile mini-hospitals designed for rapid disaster response, 6 tons of essential medicines and medical equipment, and 30 tons of emergency relief supplies, including tents, solar lamps, portable water purifiers, and generator sets. Operation Amistad was undertaken in close coordination with the Venezuelan Government, whose support and facilitation enabled the swift deployment and effective functioning of the Indian Army Field Hospital. During its deployment, the Field Hospital provided critical assistance and care to hundreds of earthquake-impacted persons, carrying out over 8000 medical procedures and laboratory investigations, including over 20 major surgeries. India has conveyed its sincere appreciation to the Government of Venezuela for the assistance and cooperation extended to the Indian contingent throughout the mission. Operation Amistad underscores the enduring friendship and solidarity between India and Venezuela, and reflects India’s commitment to stand steadfastly with partner countries in difficult times, in the spirit of Vasudhaiva Kutumbakam.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T14:14:22+00:00",
+        "link": "https://newsonair.gov.in/operation-amistad-venezuela-thanked-india-for-timely-help-support-during-recent-earthquakes/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India and Oman hold discussion to ensure peace and stability in the Gulf",
+        "summary": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The […]",
+        "article": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The two leaders also held a comprehensive exchange of views on developments in the Gulf, and efforts to ensure peace and stability in the region. Dr Jaishankar highlighted that the discussions reflected the trust and strength of Strategic Partnership between India and Oman. Meanwhile, the Omani Foreign Minister said that the longstanding maritime ties between India and Oman have connected their people for centuries and continue to provide a strong foundation for the partnership between the two countries. In a social media post, Mr Badr Albusaidi said that the two leaders held discussion on intensive diplomacy to secure freedom of navigation in Strait of Hormuz and thanked India for its support.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T13:02:14+00:00",
+        "link": "https://newsonair.gov.in/india-and-oman-held-discussion-to-ensure-peace-and-stability-in-the-gulf/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -199,8 +199,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T11:18:52+00:00",
         "link": "https://newsonair.gov.in/next-phase-of-ayushman-bharat-digital-mission-focuses-on-maximum-adoption-utilization-j-p-nadda/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Ayush.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -210,8 +210,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T10:52:13+00:00",
         "link": "https://newsonair.gov.in/railways-approve-260-cr-for-kavach-deployment-to-enhance-safety-operational-efficiency/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Railways.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -221,19 +221,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T08:55:17+00:00",
         "link": "https://newsonair.gov.in/centre-amends-drugs-rules-1945-to-strengthen-regulation-of-high-alcohol-containing-drug-formulation/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM2jt_6bcAAAQ1z.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "WhatsApp submits reply to Govt regarding rollout of Usernames feature",
-        "summary": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the […]",
-        "article": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the Government had issued a notice to Meta regarding the rollout of the Usernames feature on WhatsApp in India. Sources said that the Ministry directed Meta to furnish a detailed explanation on the feature. The Ministry also directed Meta not to roll out the usernames feature until consultation on the matter is over.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:43:02+00:00",
-        "link": "https://newsonair.gov.in/whatsapp-submits-reply-to-govt-regarding-rollout-of-usernames-feature/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-4.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -243,6 +232,17 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T08:52:17+00:00",
         "link": "https://newsonair.gov.in/pm-modi-expresses-gratitude-to-australia-for-warm-hospitality/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "WhatsApp submits reply to Govt regarding rollout of Usernames feature",
+        "summary": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the […]",
+        "article": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the Government had issued a notice to Meta regarding the rollout of the Usernames feature on WhatsApp in India. Sources said that the Ministry directed Meta to furnish a detailed explanation on the feature. The Ministry also directed Meta not to roll out the usernames feature until consultation on the matter is over.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:43:02+00:00",
+        "link": "https://newsonair.gov.in/whatsapp-submits-reply-to-govt-regarding-rollout-of-usernames-feature/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -256,41 +256,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T15:45:27+00:00",
         "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-6.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Centre reviews preparations for upcoming Monsoon Session",
-        "summary": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a […]",
-        "article": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a comprehensive review of the legislative business scheduled for the upcoming session was conducted and necessary guidelines were issued.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:34:13+00:00",
-        "link": "https://newsonair.gov.in/centre-reviews-preparations-for-upcoming-monsoon-session/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Meghwal-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Operation Amistad: Venezuela thanked India for timely help & support during recent earthquakes",
-        "summary": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External […]",
-        "article": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External Affairs Ministry said in a statement that on 26th June, two Indian Air Force C-17 Globemaster III aircraft carried a 41-member contingent from the Indian Army’s 60 Para Field Hospital Unit to Venezuela. It comprised surgeons, anaesthesiologists, orthopaedic surgeons, dental and other physicians, paramedical staff and support personnel. It also included two BHISHM Cubes, which are state-of-the-art modular and portable mobile mini-hospitals designed for rapid disaster response, 6 tons of essential medicines and medical equipment, and 30 tons of emergency relief supplies, including tents, solar lamps, portable water purifiers, and generator sets. Operation Amistad was undertaken in close coordination with the Venezuelan Government, whose support and facilitation enabled the swift deployment and effective functioning of the Indian Army Field Hospital. During its deployment, the Field Hospital provided critical assistance and care to hundreds of earthquake-impacted persons, carrying out over 8000 medical procedures and laboratory investigations, including over 20 major surgeries. India has conveyed its sincere appreciation to the Government of Venezuela for the assistance and cooperation extended to the Indian contingent throughout the mission. Operation Amistad underscores the enduring friendship and solidarity between India and Venezuela, and reflects India’s commitment to stand steadfastly with partner countries in difficult times, in the spirit of Vasudhaiva Kutumbakam.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T14:14:22+00:00",
-        "link": "https://newsonair.gov.in/operation-amistad-venezuela-thanked-india-for-timely-help-support-during-recent-earthquakes/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Op.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Oman hold discussion to ensure peace and stability in the Gulf",
-        "summary": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The […]",
-        "article": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The two leaders also held a comprehensive exchange of views on developments in the Gulf, and efforts to ensure peace and stability in the region. Dr Jaishankar highlighted that the discussions reflected the trust and strength of Strategic Partnership between India and Oman. Meanwhile, the Omani Foreign Minister said that the longstanding maritime ties between India and Oman have connected their people for centuries and continue to provide a strong foundation for the partnership between the two countries. In a social media post, Mr Badr Albusaidi said that the two leaders held discussion on intensive diplomacy to secure freedom of navigation in Strait of Hormuz and thanked India for its support.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T13:02:14+00:00",
-        "link": "https://newsonair.gov.in/india-and-oman-held-discussion-to-ensure-peace-and-stability-in-the-gulf/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Oman.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_-_May_2024_%282%29.jpg/1280px-Auckland_skyline_-_May_2024_%282%29.jpg",
+        "image_credit": "Wikipedia – Auckland (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -300,8 +267,41 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T12:54:34+00:00",
         "link": "https://newsonair.gov.in/sc-to-hear-ayodhya-ram-temple-donation-case-on-monday/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/supreme-court-4.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Galileo_moon_phases.jpg",
+        "image_credit": "Wikipedia – Monday (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Centre reviews preparations for upcoming Monsoon Session",
+        "summary": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a […]",
+        "article": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a comprehensive review of the legislative business scheduled for the upcoming session was conducted and necessary guidelines were issued.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T15:34:13+00:00",
+        "link": "https://newsonair.gov.in/centre-reviews-preparations-for-upcoming-monsoon-session/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Operation Amistad: Venezuela thanked India for timely help & support during recent earthquakes",
+        "summary": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External […]",
+        "article": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External Affairs Ministry said in a statement that on 26th June, two Indian Air Force C-17 Globemaster III aircraft carried a 41-member contingent from the Indian Army’s 60 Para Field Hospital Unit to Venezuela. It comprised surgeons, anaesthesiologists, orthopaedic surgeons, dental and other physicians, paramedical staff and support personnel. It also included two BHISHM Cubes, which are state-of-the-art modular and portable mobile mini-hospitals designed for rapid disaster response, 6 tons of essential medicines and medical equipment, and 30 tons of emergency relief supplies, including tents, solar lamps, portable water purifiers, and generator sets. Operation Amistad was undertaken in close coordination with the Venezuelan Government, whose support and facilitation enabled the swift deployment and effective functioning of the Indian Army Field Hospital. During its deployment, the Field Hospital provided critical assistance and care to hundreds of earthquake-impacted persons, carrying out over 8000 medical procedures and laboratory investigations, including over 20 major surgeries. India has conveyed its sincere appreciation to the Government of Venezuela for the assistance and cooperation extended to the Indian contingent throughout the mission. Operation Amistad underscores the enduring friendship and solidarity between India and Venezuela, and reflects India’s commitment to stand steadfastly with partner countries in difficult times, in the spirit of Vasudhaiva Kutumbakam.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T14:14:22+00:00",
+        "link": "https://newsonair.gov.in/operation-amistad-venezuela-thanked-india-for-timely-help-support-during-recent-earthquakes/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India and Oman hold discussion to ensure peace and stability in the Gulf",
+        "summary": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The […]",
+        "article": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The two leaders also held a comprehensive exchange of views on developments in the Gulf, and efforts to ensure peace and stability in the region. Dr Jaishankar highlighted that the discussions reflected the trust and strength of Strategic Partnership between India and Oman. Meanwhile, the Omani Foreign Minister said that the longstanding maritime ties between India and Oman have connected their people for centuries and continue to provide a strong foundation for the partnership between the two countries. In a social media post, Mr Badr Albusaidi said that the two leaders held discussion on intensive diplomacy to secure freedom of navigation in Strait of Hormuz and thanked India for its support.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T13:02:14+00:00",
+        "link": "https://newsonair.gov.in/india-and-oman-held-discussion-to-ensure-peace-and-stability-in-the-gulf/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -311,8 +311,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T11:18:52+00:00",
         "link": "https://newsonair.gov.in/next-phase-of-ayushman-bharat-digital-mission-focuses-on-maximum-adoption-utilization-j-p-nadda/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Ayush.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -322,8 +322,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T10:52:13+00:00",
         "link": "https://newsonair.gov.in/railways-approve-260-cr-for-kavach-deployment-to-enhance-safety-operational-efficiency/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Railways.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -333,19 +333,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T08:55:17+00:00",
         "link": "https://newsonair.gov.in/centre-amends-drugs-rules-1945-to-strengthen-regulation-of-high-alcohol-containing-drug-formulation/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM2jt_6bcAAAQ1z.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "WhatsApp submits reply to Govt regarding rollout of Usernames feature",
-        "summary": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the […]",
-        "article": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the Government had issued a notice to Meta regarding the rollout of the Usernames feature on WhatsApp in India. Sources said that the Ministry directed Meta to furnish a detailed explanation on the feature. The Ministry also directed Meta not to roll out the usernames feature until consultation on the matter is over.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:43:02+00:00",
-        "link": "https://newsonair.gov.in/whatsapp-submits-reply-to-govt-regarding-rollout-of-usernames-feature/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-4.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -355,6 +344,17 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T08:52:17+00:00",
         "link": "https://newsonair.gov.in/pm-modi-expresses-gratitude-to-australia-for-warm-hospitality/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "WhatsApp submits reply to Govt regarding rollout of Usernames feature",
+        "summary": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the […]",
+        "article": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the Government had issued a notice to Meta regarding the rollout of the Usernames feature on WhatsApp in India. Sources said that the Ministry directed Meta to furnish a detailed explanation on the feature. The Ministry also directed Meta not to roll out the usernames feature until consultation on the matter is over.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:43:02+00:00",
+        "link": "https://newsonair.gov.in/whatsapp-submits-reply-to-govt-regarding-rollout-of-usernames-feature/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -368,41 +368,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T15:45:27+00:00",
         "link": "https://newsonair.gov.in/auckland-abuzz-ahead-of-pm-narendra-modis-new-zealand-visit/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-6.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Centre reviews preparations for upcoming Monsoon Session",
-        "summary": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a […]",
-        "article": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a comprehensive review of the legislative business scheduled for the upcoming session was conducted and necessary guidelines were issued.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:34:13+00:00",
-        "link": "https://newsonair.gov.in/centre-reviews-preparations-for-upcoming-monsoon-session/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Meghwal-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Operation Amistad: Venezuela thanked India for timely help & support during recent earthquakes",
-        "summary": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External […]",
-        "article": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External Affairs Ministry said in a statement that on 26th June, two Indian Air Force C-17 Globemaster III aircraft carried a 41-member contingent from the Indian Army’s 60 Para Field Hospital Unit to Venezuela. It comprised surgeons, anaesthesiologists, orthopaedic surgeons, dental and other physicians, paramedical staff and support personnel. It also included two BHISHM Cubes, which are state-of-the-art modular and portable mobile mini-hospitals designed for rapid disaster response, 6 tons of essential medicines and medical equipment, and 30 tons of emergency relief supplies, including tents, solar lamps, portable water purifiers, and generator sets. Operation Amistad was undertaken in close coordination with the Venezuelan Government, whose support and facilitation enabled the swift deployment and effective functioning of the Indian Army Field Hospital. During its deployment, the Field Hospital provided critical assistance and care to hundreds of earthquake-impacted persons, carrying out over 8000 medical procedures and laboratory investigations, including over 20 major surgeries. India has conveyed its sincere appreciation to the Government of Venezuela for the assistance and cooperation extended to the Indian contingent throughout the mission. Operation Amistad underscores the enduring friendship and solidarity between India and Venezuela, and reflects India’s commitment to stand steadfastly with partner countries in difficult times, in the spirit of Vasudhaiva Kutumbakam.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T14:14:22+00:00",
-        "link": "https://newsonair.gov.in/operation-amistad-venezuela-thanked-india-for-timely-help-support-during-recent-earthquakes/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Op.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Oman hold discussion to ensure peace and stability in the Gulf",
-        "summary": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The […]",
-        "article": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The two leaders also held a comprehensive exchange of views on developments in the Gulf, and efforts to ensure peace and stability in the region. Dr Jaishankar highlighted that the discussions reflected the trust and strength of Strategic Partnership between India and Oman. Meanwhile, the Omani Foreign Minister said that the longstanding maritime ties between India and Oman have connected their people for centuries and continue to provide a strong foundation for the partnership between the two countries. In a social media post, Mr Badr Albusaidi said that the two leaders held discussion on intensive diplomacy to secure freedom of navigation in Strait of Hormuz and thanked India for its support.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T13:02:14+00:00",
-        "link": "https://newsonair.gov.in/india-and-oman-held-discussion-to-ensure-peace-and-stability-in-the-gulf/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Oman.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_-_May_2024_%282%29.jpg/1280px-Auckland_skyline_-_May_2024_%282%29.jpg",
+        "image_credit": "Wikipedia – Auckland (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -412,8 +379,41 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T12:54:34+00:00",
         "link": "https://newsonair.gov.in/sc-to-hear-ayodhya-ram-temple-donation-case-on-monday/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/supreme-court-4.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Galileo_moon_phases.jpg",
+        "image_credit": "Wikipedia – Monday (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Centre reviews preparations for upcoming Monsoon Session",
+        "summary": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a […]",
+        "article": "Minister of State for Parliamentary Affairs Arjun Ram Meghwal and Dr L. Murugan today reviewed preparations for the upcoming Monsoon Session in the Parliament House complex. The session of the Parliament will commence on 20th of this month and continue till the 13th of August. In a social media post, Mr Meghwal said, a comprehensive review of the legislative business scheduled for the upcoming session was conducted and necessary guidelines were issued.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T15:34:13+00:00",
+        "link": "https://newsonair.gov.in/centre-reviews-preparations-for-upcoming-monsoon-session/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Operation Amistad: Venezuela thanked India for timely help & support during recent earthquakes",
+        "summary": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External […]",
+        "article": "Operation Amistad has concluded successfully with the return of the Indian contingent to New Delhi from Venezuela today. The Humanitarian Assistance and Disaster Response mission was launched following the recent earthquakes in Venezuela. Acting President of Venezuela, Delcy Rodríguez, thanked Prime Minister Narendra Modi for the timely help, support and solidarity extended by India. External Affairs Ministry said in a statement that on 26th June, two Indian Air Force C-17 Globemaster III aircraft carried a 41-member contingent from the Indian Army’s 60 Para Field Hospital Unit to Venezuela. It comprised surgeons, anaesthesiologists, orthopaedic surgeons, dental and other physicians, paramedical staff and support personnel. It also included two BHISHM Cubes, which are state-of-the-art modular and portable mobile mini-hospitals designed for rapid disaster response, 6 tons of essential medicines and medical equipment, and 30 tons of emergency relief supplies, including tents, solar lamps, portable water purifiers, and generator sets. Operation Amistad was undertaken in close coordination with the Venezuelan Government, whose support and facilitation enabled the swift deployment and effective functioning of the Indian Army Field Hospital. During its deployment, the Field Hospital provided critical assistance and care to hundreds of earthquake-impacted persons, carrying out over 8000 medical procedures and laboratory investigations, including over 20 major surgeries. India has conveyed its sincere appreciation to the Government of Venezuela for the assistance and cooperation extended to the Indian contingent throughout the mission. Operation Amistad underscores the enduring friendship and solidarity between India and Venezuela, and reflects India’s commitment to stand steadfastly with partner countries in difficult times, in the spirit of Vasudhaiva Kutumbakam.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T14:14:22+00:00",
+        "link": "https://newsonair.gov.in/operation-amistad-venezuela-thanked-india-for-timely-help-support-during-recent-earthquakes/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India and Oman hold discussion to ensure peace and stability in the Gulf",
+        "summary": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The […]",
+        "article": "External Affairs Minister Dr S Jaishankar today met his Omani counterpart Badr bin Hamad Al Busaidi in Muscat and held discussions on various facets of the cooperation between the two countries. In a social media post, Dr Jaishankar said the talks focused on trade, investments, connectivity, maritime, technology, defence and cyber and AI domains. The two leaders also held a comprehensive exchange of views on developments in the Gulf, and efforts to ensure peace and stability in the region. Dr Jaishankar highlighted that the discussions reflected the trust and strength of Strategic Partnership between India and Oman. Meanwhile, the Omani Foreign Minister said that the longstanding maritime ties between India and Oman have connected their people for centuries and continue to provide a strong foundation for the partnership between the two countries. In a social media post, Mr Badr Albusaidi said that the two leaders held discussion on intensive diplomacy to secure freedom of navigation in Strait of Hormuz and thanked India for its support.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T13:02:14+00:00",
+        "link": "https://newsonair.gov.in/india-and-oman-held-discussion-to-ensure-peace-and-stability-in-the-gulf/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -423,8 +423,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T11:18:52+00:00",
         "link": "https://newsonair.gov.in/next-phase-of-ayushman-bharat-digital-mission-focuses-on-maximum-adoption-utilization-j-p-nadda/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Ayush.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -434,8 +434,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T10:52:13+00:00",
         "link": "https://newsonair.gov.in/railways-approve-260-cr-for-kavach-deployment-to-enhance-safety-operational-efficiency/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Railways.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -445,19 +445,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T08:55:17+00:00",
         "link": "https://newsonair.gov.in/centre-amends-drugs-rules-1945-to-strengthen-regulation-of-high-alcohol-containing-drug-formulation/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM2jt_6bcAAAQ1z.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "WhatsApp submits reply to Govt regarding rollout of Usernames feature",
-        "summary": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the […]",
-        "article": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the Government had issued a notice to Meta regarding the rollout of the Usernames feature on WhatsApp in India. Sources said that the Ministry directed Meta to furnish a detailed explanation on the feature. The Ministry also directed Meta not to roll out the usernames feature until consultation on the matter is over.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T08:43:02+00:00",
-        "link": "https://newsonair.gov.in/whatsapp-submits-reply-to-govt-regarding-rollout-of-usernames-feature/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-4.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -470,42 +459,20 @@ window.VM_NEWS = {
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
+      },
+      {
+        "title": "WhatsApp submits reply to Govt regarding rollout of Usernames feature",
+        "summary": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the […]",
+        "article": "Social media platform WhatsApp has submitted its reply to the government regarding the rollout of the Usernames feature. Sources at the Ministry of Electronics and Information Technology have said that a response was received last night from the Meta-owned social media platform and is currently under examination. Earlier on the 1st of this month, the Government had issued a notice to Meta regarding the rollout of the Usernames feature on WhatsApp in India. Sources said that the Ministry directed Meta to furnish a detailed explanation on the feature. The Ministry also directed Meta not to roll out the usernames feature until consultation on the matter is over.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:43:02+00:00",
+        "link": "https://newsonair.gov.in/whatsapp-submits-reply-to-govt-regarding-rollout-of-usernames-feature/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
       }
     ],
     "world": [
-      {
-        "title": "Palestinian Authority President Mahmoud Abbas announces legislative elections in late November",
-        "summary": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The […]",
-        "article": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The decree said the elections aim to strengthen democracy and complete the electoral process in Palestine.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:45:40+00:00",
-        "link": "https://newsonair.gov.in/palestinian-authority-president-mahmoud-abbas-announces-legislative-elections-in-late-november/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-3-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
-        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
-        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:12:43+00:00",
-        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FIH-Hockey-Pro-League.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "UK expresses concern over unrest in PoJK due to brutal crackdown on civilians by Pak security forces",
-        "summary": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party",
-        "article": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party leader and MP, Bob Blackman, said that Pakistani security forces had opened fire on peaceful demonstrators in PoJK, resulting in multiple deaths and injuries of civilians, including British nationals. He asked the British government whether it had summoned Pakistan&#8217;s High Commissioner over the reported violence and what steps had been taken to protect innocent bystanders. Raising the issue in a parliamentary debate, another UK lawmaker, Imran Hussain, voiced serious concern over continued bloodshed, arbitrary arrests and restrictions on communication in PoJK. Hussain said that reports suggesting restrictions on the movement of food and medical supplies into several parts of the region are deeply alarming. He emphasised that respect for the human rights of Kashmiris in PoJK must remain at the heart of any negotiations. The Joint Awami Action Committee, JAAC has warned Pakistan it will launch final action if its demands are unmet, inviting global observers to witness the situation. These demands include economic reforms, fair resource distribution, reduced paramilitary presence, and changes to legislative seat allocations. JAAC leader Sardar Aman Khan has sought humanitarian aid from India, citing shortages due to an alleged blockade and military crackdown. He accused Islamabad of hypocrisy for labelling activists as terrorists.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T14:31:52+00:00",
-        "link": "https://newsonair.gov.in/uk-expresses-concern-over-unrest-in-pojk-due-to-brutal-crackdown-on-civilians-by-pak-security-forces/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
       {
         "title": "Iran accuses US of alleged airstrike near nuke power plant in Bushehr",
         "summary": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the […]",
@@ -513,30 +480,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T12:00:53+00:00",
         "link": "https://newsonair.gov.in/iran-accuses-us-of-alleged-airstrike-near-nuke-power-plant-in-bushehr/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Indian diaspora gathers in large numbers for ‘Melbourne Meets Modi’ event",
-        "summary": "The air inside Melbourne’s iconic Marvel Stadium is vibrating with raw, electric energy as a massive crowd of ecstatic members of the Indian-Australian community is gathering for the historic &#8220;Melbourne Meets Modi&#8221; diaspora event. It is not a world-class sporting finale or a stadium-rock concert drawing this ocean of people, but a loud, high-octane celebration […]",
-        "article": "The air inside Melbourne’s iconic Marvel Stadium is vibrating with raw, electric energy as a massive crowd of ecstatic members of the Indian-Australian community is gathering for the historic &#8220;Melbourne Meets Modi&#8221; diaspora event. It is not a world-class sporting finale or a stadium-rock concert drawing this ocean of people, but a loud, high-octane celebration of cultural pride and shared heritage. The venue is transforming into a spectacular sea of tricolour flags, traditional attire, and deafening cheers. As roaring chants are bouncing off the stadium&#8217;s retractable roof, this grand gathering is proving that the diaspora is truly acting as a vibrant force driving the future of the India-Australia strategic partnership.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T08:20:24+00:00",
-        "link": "https://newsonair.gov.in/indian-diaspora-gathers-in-large-numbers-for-melbourne-meets-modi-event/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indian-diaspora-gathers-in-large-numbers-for-Melbourne-Meets-Modi-event.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "WIPO report reaffirms India’s emergence as a global innovation powerhouse",
-        "summary": "The World Intangible Investment Report 2026, launched by World Intellectual Property Organization and Luiss Business School, reaffirms India&#8217;s emergence as a global innovation powerhouse. &#160; In a social media post, Union Commerce and Industry Minister Piyush Goyal said that the report highlights India&#8217;s growing intangible investment in areas such as software, R&#38;D, intellectual",
-        "article": "The World Intangible Investment Report 2026, launched by World Intellectual Property Organization and Luiss Business School, reaffirms India&#8217;s emergence as a global innovation powerhouse. &nbsp; In a social media post, Union Commerce and Industry Minister Piyush Goyal said that the report highlights India&#8217;s growing intangible investment in areas such as software, R&D, intellectual property, innovation and organisational capabilities that are shaping the economy of the future. It mentions how India recorded the fastest growth in intangible investment among the world&#8217;s 15 largest economies, reaching 78.2 billion dollar in 2023, with 7.9 percent growth, ahead of tangible investment. Mr Goyal added that driven by the energy and aspirations of the young innovators, entrepreneurs and creators, India remains the world&#8217;s fastest-growing major economy, a global bright spot, and is steadily building a knowledge-driven future powered by ideas, innovation and enterprise. &nbsp; The Minister noted that under the leadership of the Prime Minister, India continues to strengthen its innovation ecosystem through sustained reforms, digital transformation and support for startups.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T08:11:13+00:00",
-        "link": "https://newsonair.gov.in/wipo-report-reaffirms-indias-emergence-as-a-global-innovation-powerhouse/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-17.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bushehr_City.jpg",
+        "image_credit": "Wikipedia – Bushehr (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -546,19 +491,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T06:20:24+00:00",
         "link": "https://newsonair.gov.in/us-launches-fresh-airstrikes-on-iran-tehran-targets-bahrain-kuwait-and-qatar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Akashvani-News.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi welcomes AustralianSuper’s 500 million Australian dollar investment in India",
-        "summary": "India welcomed the five hundred million Australian dollar investment from AustralianSuper, announced by their Chief Executive Officer, Paul Schroder this morning in Melbourne. &#160; In a social media post, Prime Minister Narendra Modi said that this is another glimpse of the global confidence in India’s growth and reform trajectory. He added it also reflects the […]",
-        "article": "India welcomed the five hundred million Australian dollar investment from AustralianSuper, announced by their Chief Executive Officer, Paul Schroder this morning in Melbourne. &nbsp; In a social media post, Prime Minister Narendra Modi said that this is another glimpse of the global confidence in India’s growth and reform trajectory. He added it also reflects the immense opportunities that India’s dynamic economy offers to global investors.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T05:36:48+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-welcomes-australiansupers-500-million-australian-dollar-investment-in-india/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260707682f.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/1280px-North_of_Tehran_Skyline_view.jpg",
+        "image_credit": "Wikipedia – Tehran (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -568,8 +502,74 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T05:27:31+00:00",
         "link": "https://newsonair.gov.in/3rd-brics-transport-ministers-meeting-to-begin-in-maharashtras-nagpur-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/brics.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cave_26%2C_Ajanta.jpg/1280px-Cave_26%2C_Ajanta.jpg",
+        "image_credit": "Wikipedia – Maharashtra (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Palestinian Authority President Mahmoud Abbas announces legislative elections in late November",
+        "summary": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The […]",
+        "article": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The decree said the elections aim to strengthen democracy and complete the electoral process in Palestine.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:45:40+00:00",
+        "link": "https://newsonair.gov.in/palestinian-authority-president-mahmoud-abbas-announces-legislative-elections-in-late-november/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
+        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
+        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:12:43+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "UK expresses concern over unrest in PoJK due to brutal crackdown on civilians by Pak security forces",
+        "summary": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party",
+        "article": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party leader and MP, Bob Blackman, said that Pakistani security forces had opened fire on peaceful demonstrators in PoJK, resulting in multiple deaths and injuries of civilians, including British nationals. He asked the British government whether it had summoned Pakistan&#8217;s High Commissioner over the reported violence and what steps had been taken to protect innocent bystanders. Raising the issue in a parliamentary debate, another UK lawmaker, Imran Hussain, voiced serious concern over continued bloodshed, arbitrary arrests and restrictions on communication in PoJK. Hussain said that reports suggesting restrictions on the movement of food and medical supplies into several parts of the region are deeply alarming. He emphasised that respect for the human rights of Kashmiris in PoJK must remain at the heart of any negotiations. The Joint Awami Action Committee, JAAC has warned Pakistan it will launch final action if its demands are unmet, inviting global observers to witness the situation. These demands include economic reforms, fair resource distribution, reduced paramilitary presence, and changes to legislative seat allocations. JAAC leader Sardar Aman Khan has sought humanitarian aid from India, citing shortages due to an alleged blockade and military crackdown. He accused Islamabad of hypocrisy for labelling activists as terrorists.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T14:31:52+00:00",
+        "link": "https://newsonair.gov.in/uk-expresses-concern-over-unrest-in-pojk-due-to-brutal-crackdown-on-civilians-by-pak-security-forces/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian diaspora gathers in large numbers for ‘Melbourne Meets Modi’ event",
+        "summary": "The air inside Melbourne’s iconic Marvel Stadium is vibrating with raw, electric energy as a massive crowd of ecstatic members of the Indian-Australian community is gathering for the historic &#8220;Melbourne Meets Modi&#8221; diaspora event. It is not a world-class sporting finale or a stadium-rock concert drawing this ocean of people, but a loud, high-octane celebration […]",
+        "article": "The air inside Melbourne’s iconic Marvel Stadium is vibrating with raw, electric energy as a massive crowd of ecstatic members of the Indian-Australian community is gathering for the historic &#8220;Melbourne Meets Modi&#8221; diaspora event. It is not a world-class sporting finale or a stadium-rock concert drawing this ocean of people, but a loud, high-octane celebration of cultural pride and shared heritage. The venue is transforming into a spectacular sea of tricolour flags, traditional attire, and deafening cheers. As roaring chants are bouncing off the stadium&#8217;s retractable roof, this grand gathering is proving that the diaspora is truly acting as a vibrant force driving the future of the India-Australia strategic partnership.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T08:20:24+00:00",
+        "link": "https://newsonair.gov.in/indian-diaspora-gathers-in-large-numbers-for-melbourne-meets-modi-event/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "WIPO report reaffirms India’s emergence as a global innovation powerhouse",
+        "summary": "The World Intangible Investment Report 2026, launched by World Intellectual Property Organization and Luiss Business School, reaffirms India&#8217;s emergence as a global innovation powerhouse. &#160; In a social media post, Union Commerce and Industry Minister Piyush Goyal said that the report highlights India&#8217;s growing intangible investment in areas such as software, R&#38;D, intellectual",
+        "article": "The World Intangible Investment Report 2026, launched by World Intellectual Property Organization and Luiss Business School, reaffirms India&#8217;s emergence as a global innovation powerhouse. &nbsp; In a social media post, Union Commerce and Industry Minister Piyush Goyal said that the report highlights India&#8217;s growing intangible investment in areas such as software, R&D, intellectual property, innovation and organisational capabilities that are shaping the economy of the future. It mentions how India recorded the fastest growth in intangible investment among the world&#8217;s 15 largest economies, reaching 78.2 billion dollar in 2023, with 7.9 percent growth, ahead of tangible investment. Mr Goyal added that driven by the energy and aspirations of the young innovators, entrepreneurs and creators, India remains the world&#8217;s fastest-growing major economy, a global bright spot, and is steadily building a knowledge-driven future powered by ideas, innovation and enterprise. &nbsp; The Minister noted that under the leadership of the Prime Minister, India continues to strengthen its innovation ecosystem through sustained reforms, digital transformation and support for startups.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T08:11:13+00:00",
+        "link": "https://newsonair.gov.in/wipo-report-reaffirms-indias-emergence-as-a-global-innovation-powerhouse/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi welcomes AustralianSuper’s 500 million Australian dollar investment in India",
+        "summary": "India welcomed the five hundred million Australian dollar investment from AustralianSuper, announced by their Chief Executive Officer, Paul Schroder this morning in Melbourne. &#160; In a social media post, Prime Minister Narendra Modi said that this is another glimpse of the global confidence in India’s growth and reform trajectory. He added it also reflects the […]",
+        "article": "India welcomed the five hundred million Australian dollar investment from AustralianSuper, announced by their Chief Executive Officer, Paul Schroder this morning in Melbourne. &nbsp; In a social media post, Prime Minister Narendra Modi said that this is another glimpse of the global confidence in India’s growth and reform trajectory. He added it also reflects the immense opportunities that India’s dynamic economy offers to global investors.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:36:48+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-welcomes-australiansupers-500-million-australian-dollar-investment-in-india/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -579,45 +579,12 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T05:20:07+00:00",
         "link": "https://newsonair.gov.in/australia-india-business-council-highlights-growing-momentum-of-make-with-india-initiative/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "sports": [
-      {
-        "title": "Govt orders recognised sports federations to publish qualifications & selection process for LA Olympics",
-        "summary": "The Ministry of Youth Affairs and Sports has directed all recognised National Sports Federations (NSFs) to publish the Olympic qualification and selection pathway, including the criteria and process to be adopted for the selection of athletes for the Los Angeles 2028 Olympic Games. The Ministry said that the selection policy and criteria for mega sporting […]",
-        "article": "The Ministry of Youth Affairs and Sports has directed all recognised National Sports Federations (NSFs) to publish the Olympic qualification and selection pathway, including the criteria and process to be adopted for the selection of athletes for the Los Angeles 2028 Olympic Games. The Ministry said that the selection policy and criteria for mega sporting events such as the Olympics, Paralympics, Asian Games, Para Asian Games and Commonwealth Games should be well publicised and uploaded on the official website of the concerned NSF at least two years before the commencement of the respective Games. The selection policy and criteria should also be shared with the member units of the NSFs and the Sports Authority of India. The Los Angeles Olympic Games are scheduled to be held between 14th and 30th July in 2028. The qualification pathways for the Los Angeles 2028 Olympic Games have been released by the respective International Federations. All recognised National Sports Federations have been requested to publish the Olympic qualification and selection pathway, including the criteria and process to be adopted for the selection of athletes for the Games before the 15th of this month. The Ministry said that the initiative is aimed at promoting greater transparency and accountability in the athlete selection process for the benefit of all stakeholders.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:50:12+00:00",
-        "link": "https://newsonair.gov.in/govt-orders-recognised-sports-federations-to-publish-qualifications-selection-process-for-la-olympics/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/LA.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Wimbledon: Karolína Muchová of Czech Republic reaches Women’s Singles final",
-        "summary": "In Wimbledon Tennis, Karolína Muchová of Czech Republic has reached Women&#8217;s Singles final. 10th seed Muchová defeated 7th seed American player Coco Gauff 6-2, 1-6, 7-6 in the first semi final of Women&#8217;s Singles this evening. Later in the second semi final, Ukraine&#8217;s Marta Kostyuk will take on Czech player Linda Noskova. Men&#8217;s Singles […]",
-        "article": "In Wimbledon Tennis, Karolína Muchová of Czech Republic has reached Women&#8217;s Singles final. 10th seed Muchová defeated 7th seed American player Coco Gauff 6-2, 1-6, 7-6 in the first semi final of Women&#8217;s Singles this evening. Later in the second semi final, Ukraine&#8217;s Marta Kostyuk will take on Czech player Linda Noskova. Men&#8217;s Singles semi finals will be played tomorrow. In the first semi final match, British player Arthur Fery will clash with Alexander Zverev of Germany while World No. 1 and defending champion Jannik Sinner of Italy will face Serbia&#8217;s Novak Djokovic in the second semi final.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:46:30+00:00",
-        "link": "https://newsonair.gov.in/wimbledon-marta-kostyuk-linda-noskova-enter-womens-singles-semi-finals/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Wimbeldon-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Indian Pickleball Association announces squad for Pickleball World Cup 2026",
-        "summary": "The Indian Pickleball Association has announced the Indian contingent for the Pickleball World Cup 2026 after a highly competitive selection process to represent the nation in Pro category at the Pickleball World Cup 2026, which will be held at Da Nang, Vietnam, from August 30 to September 6. &#160; Harsh Mehta, a recurring name on […]",
-        "article": "The Indian Pickleball Association has announced the Indian contingent for the Pickleball World Cup 2026 after a highly competitive selection process to represent the nation in Pro category at the Pickleball World Cup 2026, which will be held at Da Nang, Vietnam, from August 30 to September 6. &nbsp; Harsh Mehta, a recurring name on the international pickleball circuit, will be leading the charge. He will be accompanied by Arjun Singh, who is also representing and captaining India in the Under-18 category at the World Cup. Anish Frolian and Aman Patel make the cut as well in the men’s category. Mihika Yadav, Aaliyah Ebrahim, Pearl Amalsadiwala and Naomi Amalsadiwali make up the contingent on the women’s side.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T08:00:16+00:00",
-        "link": "https://newsonair.gov.in/indian-pickleball-association-announces-squad-for-pickleball-world-cup-2026/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indian-Pickleball-Association.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
       {
         "title": "Men’s Cricket: India to face England in fourth T20I in Bristol today",
         "summary": "In Men&#8217;s Cricket, India will face England in the fourth T20 International of the five-match series at the County Ground in Bristol tonight. The match will begin at 10 PM IST. India trails the series 0-2, making this a must-win game to stay alive. Captain Shreyas Iyer and head coach Gautam Gambhir are under […]",
@@ -625,19 +592,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T06:30:09+00:00",
         "link": "https://newsonair.gov.in/mens-cricket-india-to-face-england-in-fourth-t20i-in-bristol-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/crics.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India’s Arnav Paparkar reaches Wimbledon Juniors boys’ singles quarter-finals",
-        "summary": "India&#8217;s Arnav Paparkar created history by becoming the first Indian in 36 years to reach the boys&#8217; singles quarter-finals at the Wimbledon Juniors 2026. The 18-year-old Paparkar defeated Japan&#8217;s Ryo Tabata 6-2, 6-1 in just 52 minutes in the prequarter-finals. Earlier, he shocked world No. 3 Keaton Hance of the United States with a […]",
-        "article": "India&#8217;s Arnav Paparkar created history by becoming the first Indian in 36 years to reach the boys&#8217; singles quarter-finals at the Wimbledon Juniors 2026. The 18-year-old Paparkar defeated Japan&#8217;s Ryo Tabata 6-2, 6-1 in just 52 minutes in the prequarter-finals. Earlier, he shocked world No. 3 Keaton Hance of the United States with a 6-2, 6-3 win after beating Great Britain&#8217;s Joshua Craze 6-2, 6-2 in the opening round. He has not dropped a set so far in the tournament. Paparkar will next face either Jordan Lee of the United States in the quarter-finals at 5 PM today. Only three Indians have won the Wimbledon Juniors boys&#8217; singles title: Ramanathan Krishnan in 1954, Ramesh Krishnan in 1979, and the last was Leander Paes in 1990. Paparkar will now aim to join that elite list.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T05:32:30+00:00",
-        "link": "https://newsonair.gov.in/indias-arnav-paparkar-reaches-wimbledon-juniors-boys-singles-quarter-finals/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Clifton_Suspension_Bridge_and_the_Observatory_in_Bristol%2C_England.jpg/1280px-Clifton_Suspension_Bridge_and_the_Observatory_in_Bristol%2C_England.jpg",
+        "image_credit": "Wikipedia – Bristol (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -647,8 +603,52 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T12:26:57+00:00",
         "link": "https://newsonair.gov.in/telangana-to-host-8th-khelo-india-youth-games-2026/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/khelo-india.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/A_typical_charminar_evening.jpg",
+        "image_credit": "Wikipedia – Telangana (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt orders recognised sports federations to publish qualifications & selection process for LA Olympics",
+        "summary": "The Ministry of Youth Affairs and Sports has directed all recognised National Sports Federations (NSFs) to publish the Olympic qualification and selection pathway, including the criteria and process to be adopted for the selection of athletes for the Los Angeles 2028 Olympic Games. The Ministry said that the selection policy and criteria for mega sporting […]",
+        "article": "The Ministry of Youth Affairs and Sports has directed all recognised National Sports Federations (NSFs) to publish the Olympic qualification and selection pathway, including the criteria and process to be adopted for the selection of athletes for the Los Angeles 2028 Olympic Games. The Ministry said that the selection policy and criteria for mega sporting events such as the Olympics, Paralympics, Asian Games, Para Asian Games and Commonwealth Games should be well publicised and uploaded on the official website of the concerned NSF at least two years before the commencement of the respective Games. The selection policy and criteria should also be shared with the member units of the NSFs and the Sports Authority of India. The Los Angeles Olympic Games are scheduled to be held between 14th and 30th July in 2028. The qualification pathways for the Los Angeles 2028 Olympic Games have been released by the respective International Federations. All recognised National Sports Federations have been requested to publish the Olympic qualification and selection pathway, including the criteria and process to be adopted for the selection of athletes for the Games before the 15th of this month. The Ministry said that the initiative is aimed at promoting greater transparency and accountability in the athlete selection process for the benefit of all stakeholders.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T15:50:12+00:00",
+        "link": "https://newsonair.gov.in/govt-orders-recognised-sports-federations-to-publish-qualifications-selection-process-for-la-olympics/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Wimbledon: Karolína Muchová of Czech Republic reaches Women’s Singles final",
+        "summary": "In Wimbledon Tennis, Karolína Muchová of Czech Republic has reached Women&#8217;s Singles final. 10th seed Muchová defeated 7th seed American player Coco Gauff 6-2, 1-6, 7-6 in the first semi final of Women&#8217;s Singles this evening. Later in the second semi final, Ukraine&#8217;s Marta Kostyuk will take on Czech player Linda Noskova. Men&#8217;s Singles […]",
+        "article": "In Wimbledon Tennis, Karolína Muchová of Czech Republic has reached Women&#8217;s Singles final. 10th seed Muchová defeated 7th seed American player Coco Gauff 6-2, 1-6, 7-6 in the first semi final of Women&#8217;s Singles this evening. Later in the second semi final, Ukraine&#8217;s Marta Kostyuk will take on Czech player Linda Noskova. Men&#8217;s Singles semi finals will be played tomorrow. In the first semi final match, British player Arthur Fery will clash with Alexander Zverev of Germany while World No. 1 and defending champion Jannik Sinner of Italy will face Serbia&#8217;s Novak Djokovic in the second semi final.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T15:46:30+00:00",
+        "link": "https://newsonair.gov.in/wimbledon-marta-kostyuk-linda-noskova-enter-womens-singles-semi-finals/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian Pickleball Association announces squad for Pickleball World Cup 2026",
+        "summary": "The Indian Pickleball Association has announced the Indian contingent for the Pickleball World Cup 2026 after a highly competitive selection process to represent the nation in Pro category at the Pickleball World Cup 2026, which will be held at Da Nang, Vietnam, from August 30 to September 6. &#160; Harsh Mehta, a recurring name on […]",
+        "article": "The Indian Pickleball Association has announced the Indian contingent for the Pickleball World Cup 2026 after a highly competitive selection process to represent the nation in Pro category at the Pickleball World Cup 2026, which will be held at Da Nang, Vietnam, from August 30 to September 6. &nbsp; Harsh Mehta, a recurring name on the international pickleball circuit, will be leading the charge. He will be accompanied by Arjun Singh, who is also representing and captaining India in the Under-18 category at the World Cup. Anish Frolian and Aman Patel make the cut as well in the men’s category. Mihika Yadav, Aaliyah Ebrahim, Pearl Amalsadiwala and Naomi Amalsadiwali make up the contingent on the women’s side.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T08:00:16+00:00",
+        "link": "https://newsonair.gov.in/indian-pickleball-association-announces-squad-for-pickleball-world-cup-2026/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India’s Arnav Paparkar reaches Wimbledon Juniors boys’ singles quarter-finals",
+        "summary": "India&#8217;s Arnav Paparkar created history by becoming the first Indian in 36 years to reach the boys&#8217; singles quarter-finals at the Wimbledon Juniors 2026. The 18-year-old Paparkar defeated Japan&#8217;s Ryo Tabata 6-2, 6-1 in just 52 minutes in the prequarter-finals. Earlier, he shocked world No. 3 Keaton Hance of the United States with a […]",
+        "article": "India&#8217;s Arnav Paparkar created history by becoming the first Indian in 36 years to reach the boys&#8217; singles quarter-finals at the Wimbledon Juniors 2026. The 18-year-old Paparkar defeated Japan&#8217;s Ryo Tabata 6-2, 6-1 in just 52 minutes in the prequarter-finals. Earlier, he shocked world No. 3 Keaton Hance of the United States with a 6-2, 6-3 win after beating Great Britain&#8217;s Joshua Craze 6-2, 6-2 in the opening round. He has not dropped a set so far in the tournament. Paparkar will next face either Jordan Lee of the United States in the quarter-finals at 5 PM today. Only three Indians have won the Wimbledon Juniors boys&#8217; singles title: Ramanathan Krishnan in 1954, Ramesh Krishnan in 1979, and the last was Leander Paes in 1990. Paparkar will now aim to join that elite list.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T05:32:30+00:00",
+        "link": "https://newsonair.gov.in/indias-arnav-paparkar-reaches-wimbledon-juniors-boys-singles-quarter-finals/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -658,8 +658,8 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T11:43:51+00:00",
         "link": "https://newsonair.gov.in/fifa-world-cup-quarter-final-lineup-finalised/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats-5-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -669,8 +669,8 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T01:27:33+00:00",
         "link": "https://newsonair.gov.in/england-beat-india-by-125-runs-in-third-t20i/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/England-beat-India-by-125-runs-in-third-T20I.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -680,8 +680,8 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T01:18:40+00:00",
         "link": "https://newsonair.gov.in/fifa-world-cup-switzerland-argentina-enter-quarterfinals/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/2026-FIFA-World-Cup-begins-today-across-United-States-Canada-and-Mexico.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -691,8 +691,8 @@ window.VM_NEWS = {
         "date": "2026-07-07",
         "pubDate": "2026-07-07T15:46:01+00:00",
         "link": "https://newsonair.gov.in/wimbledon-tennis-ninth-seed-flavio-cobolli-enters-mens-singles-quarter-finals/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Wimbeldon.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -704,8 +704,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T12:51:18+00:00",
         "link": "https://newsonair.gov.in/oil-prices-up-5/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Price_Utah.jpg/1280px-Price_Utah.jpg",
+        "image_credit": "Wikimedia Commons (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -715,8 +715,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T11:43:52+00:00",
         "link": "https://newsonair.gov.in/gold-silver-prices-down-5/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/gold-silver.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/1280px-Gold-crystals.jpg",
+        "image_credit": "Wikipedia – Gold (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -726,30 +726,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T11:00:31+00:00",
         "link": "https://newsonair.gov.in/sip-contributions-increased-by-2-7-in-june-compared-to-may/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/01/SIP-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Domestic markets end bit higher with 1% hike",
-        "summary": "Benchmark domestic equity indices ended over one per cent higher today led by broad-based buying. The Sensex rose 828 points to close at 77 thousand 569. The Nifty also climbed 244 points to settle at 24 thousand 207. The broader markets on the National Stock Exchange outperformed the frontline indices. The Midcap 100 advanced 1.4 […]",
-        "article": "Benchmark domestic equity indices ended over one per cent higher today led by broad-based buying. The Sensex rose 828 points to close at 77 thousand 569. The Nifty also climbed 244 points to settle at 24 thousand 207. The broader markets on the National Stock Exchange outperformed the frontline indices. The Midcap 100 advanced 1.4 per cent, while the Smallcap 100 climbed more than 1.5 per cent. Both the indices touched their fresh 52-week highs during the trading session. Earlier today, the benchmark indices opened higher amid positive global cues and maintained upbeat momentum throughout the session. In the Sensex pack, 25 out of 30 companies registered gains. Among the top performers, Reliance soared 2.3 per cent, Tech Mahindra as well as Bharat Electronics Limited gained around 2.2 per cent and Axis Bank jumped 1.9 per cent. In contrast, Eternal shed 0.9 per cent, Bharti Airtel dropped half a per cent, and Sun Pharma lost 0.2 per cent. In the sectoral indices on the BSE, all 25 sectors ended in the positive zone. Among the top gainers, Realty jumped 3.4 per cent, PSU Banks rose over 3.2 per cent, and MidSmall Private Banks Quality Tilt added more than two and a half per cent. The overall market breadth at the BSE was positive, as shares of 2 thousand 883 advanced, 1 thousand 377 companies declined, and 174 remained unchanged.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T10:51:21+00:00",
-        "link": "https://newsonair.gov.in/domestic-markets-end-with-modest-gains-despite-positive-opening/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/SENSEX.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt waives basic customs duty on key components of electronic devices to promote domestic production",
-        "summary": "The Government has waived the basic customs duty on goods used in the manufacturing of display assemblies, lithium-ion cells and inductor coil modules with an aim to promote domestic production of electronic devices like smartphones, laptops, wearables and smart TVs. The Ministry of Finance has issued three separate notifications giving effect to the basic […]",
-        "article": "The Government has waived the basic customs duty on goods used in the manufacturing of display assemblies, lithium-ion cells and inductor coil modules with an aim to promote domestic production of electronic devices like smartphones, laptops, wearables and smart TVs. The Ministry of Finance has issued three separate notifications giving effect to the basic customs duty waiver on the goods used in manufacture of the three key components used in electronic devices. Electronics and IT Secretary S Krishnan said, the government&#8217;s move to waive basic customs duty on key components for electronics manufacturing will help deepen the value chain and the ecosystem.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:57:07+00:00",
-        "link": "https://newsonair.gov.in/govt-waives-basic-customs-duty-on-key-components-of-electronic-devices-to-promote-domestic-production/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Electronics.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Podophyllum_peltatum_Shenks_Ferry_2.jpg/1280px-Podophyllum_peltatum_Shenks_Ferry_2.jpg",
+        "image_credit": "Wikipedia – May (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -759,19 +737,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T11:40:30+00:00",
         "link": "https://newsonair.gov.in/rupee-appreciates-by-18-paise-to-close-at-95-38-against-us-dollar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/02/rupee.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMF says India to remain world’s fastest-growing major economy",
-        "summary": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year […]",
-        "article": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year to 6.4 per cent. The report said, the projected performance of Indian economy is supported by strong momentum in private consumption and services activity. India’s growth projections are more than twice the global numbers, as the report gave a 3 per cent projection for the world economy’s growth this year. The report presented a relatively positive outlook for the world economy growth, as it is expected to rise 3.4 per cent next year. China, which is the second fastest-growing economy, was projected to grow by 4.6 per cent this year and lose a half point, falling to 4.1 per cent next year. The US ranked third with a projected growth of 2.3 per cent this year and 2.2 per cent next year.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T00:30:44+00:00",
-        "link": "https://newsonair.gov.in/imf-projects-india-to-remain-worlds-fastest-growing-major-economy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/IMF.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Rupee_Usage.png/1280px-Rupee_Usage.png",
+        "image_credit": "Wikipedia – Rupee (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -781,19 +748,30 @@ window.VM_NEWS = {
         "date": "2026-07-08",
         "pubDate": "2026-07-08T12:00:11+00:00",
         "link": "https://newsonair.gov.in/epfo-to-credit-8-25-interest-for-fy-2025-26-by-july-15/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/epfo.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Malawi_interest_rates.JPG",
+        "image_credit": "Wikipedia – Interest (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
-        "title": "India ensures uninterrupted LPG supply by strengthening domestic production & effective diplomacy: Hardeep Puri",
-        "summary": "Petroleum and Natural Gas Minister Hardeep Singh Puri has said that domestic petrol and diesel prices are expected to move in a positive direction if international crude oil prices remain stable or decline. The Minister expressed confidence that the outlook for consumers remains favourable as global oil and gas supplies continue to expand. […]",
-        "article": "Petroleum and Natural Gas Minister Hardeep Singh Puri has said that domestic petrol and diesel prices are expected to move in a positive direction if international crude oil prices remain stable or decline. The Minister expressed confidence that the outlook for consumers remains favourable as global oil and gas supplies continue to expand. Addressing the Viksit Bharat Conclave 2026 in New Delhi, Mr. Puri said India successfully weathered one of the most challenging global energy disruptions in recent decades through a combination of diplomatic engagement, timely policy interventions, enhanced domestic production and diversified imports. He said the country&#8217;s experience demonstrated the importance of long-term energy reforms in ensuring energy security. Highlighting the government&#8217;s response to the crisis, the Minister said India ensured an uninterrupted supply of LPG by taking timely steps to strengthen domestic production and secure energy supplies. He said effective diplomacy helped facilitate the movement of Indian energy cargoes that were stranded following disruptions in the Strait of Hormuz, while close coordination with countries including Iran, Oman, Qatar and the UAE enabled the safe passage of Indian vessels. Mr. Puri said the government simultaneously increased domestic LPG production by directing refineries to prioritise cooking gas over higher-value petrochemical products. As a result, India&#8217;s LPG production capacity rose from about 35 thousand metric tonnes per day to 54 thousand metric tonnes per day within a short period, ensuring uninterrupted cooking gas supply to more than 33 crore LPG consumers across the country. The Minister said India also diversified its import basket to minimise the impact of supply disruptions. Apart from traditional suppliers in the Gulf, the country sourced LPG from the United States, Algeria, Argentina and several other countries. He added that Indian energy companies also reorganised shipping operations and redirected vessels to ensure that supplies continued without interruption. Mr. Puri said despite one of the most severe global energy crises, India did not face shortages of crude oil, natural gas or LPG. He noted that none of the country&#8217;s fuel retail outlets ran dry during the crisis and said timely government intervention helped prevent panic and stabilise supplies. On fuel prices, the Minister said petrol and diesel prices in India have remained among the lowest globally over the past four years. He attributed this to three rounds of excise duty reductions undertaken by the Centre, which absorbed a significant fiscal burden instead of passing the impact of higher international crude prices on to consumers. Speaking on the government&#8217;s long-term energy strategy, Mr. Puri said India has expanded its crude oil sourcing from 21 countries to nearly 40 while accelerating reforms in the upstream energy sector. He said the government has amended petroleum laws, opened previously restricted areas for exploration and introduced policy reforms to encourage greater investment in oil and gas exploration.",
-        "date": "2026-07-08",
-        "pubDate": "2026-07-08T00:34:42+00:00",
-        "link": "https://newsonair.gov.in/india-ensures-uninterrupted-lpg-supply-by-strengthening-domestic-production-effective-diplomacy-hardeep-puri/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Hardeep.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "Domestic markets end bit higher with 1% hike",
+        "summary": "Benchmark domestic equity indices ended over one per cent higher today led by broad-based buying. The Sensex rose 828 points to close at 77 thousand 569. The Nifty also climbed 244 points to settle at 24 thousand 207. The broader markets on the National Stock Exchange outperformed the frontline indices. The Midcap 100 advanced 1.4 […]",
+        "article": "Benchmark domestic equity indices ended over one per cent higher today led by broad-based buying. The Sensex rose 828 points to close at 77 thousand 569. The Nifty also climbed 244 points to settle at 24 thousand 207. The broader markets on the National Stock Exchange outperformed the frontline indices. The Midcap 100 advanced 1.4 per cent, while the Smallcap 100 climbed more than 1.5 per cent. Both the indices touched their fresh 52-week highs during the trading session. Earlier today, the benchmark indices opened higher amid positive global cues and maintained upbeat momentum throughout the session. In the Sensex pack, 25 out of 30 companies registered gains. Among the top performers, Reliance soared 2.3 per cent, Tech Mahindra as well as Bharat Electronics Limited gained around 2.2 per cent and Axis Bank jumped 1.9 per cent. In contrast, Eternal shed 0.9 per cent, Bharti Airtel dropped half a per cent, and Sun Pharma lost 0.2 per cent. In the sectoral indices on the BSE, all 25 sectors ended in the positive zone. Among the top gainers, Realty jumped 3.4 per cent, PSU Banks rose over 3.2 per cent, and MidSmall Private Banks Quality Tilt added more than two and a half per cent. The overall market breadth at the BSE was positive, as shares of 2 thousand 883 advanced, 1 thousand 377 companies declined, and 174 remained unchanged.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T10:51:21+00:00",
+        "link": "https://newsonair.gov.in/domestic-markets-end-with-modest-gains-despite-positive-opening/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt waives basic customs duty on key components of electronic devices to promote domestic production",
+        "summary": "The Government has waived the basic customs duty on goods used in the manufacturing of display assemblies, lithium-ion cells and inductor coil modules with an aim to promote domestic production of electronic devices like smartphones, laptops, wearables and smart TVs. The Ministry of Finance has issued three separate notifications giving effect to the basic […]",
+        "article": "The Government has waived the basic customs duty on goods used in the manufacturing of display assemblies, lithium-ion cells and inductor coil modules with an aim to promote domestic production of electronic devices like smartphones, laptops, wearables and smart TVs. The Ministry of Finance has issued three separate notifications giving effect to the basic customs duty waiver on the goods used in manufacture of the three key components used in electronic devices. Electronics and IT Secretary S Krishnan said, the government&#8217;s move to waive basic customs duty on key components for electronics manufacturing will help deepen the value chain and the ecosystem.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T15:57:07+00:00",
+        "link": "https://newsonair.gov.in/govt-waives-basic-customs-duty-on-key-components-of-electronic-devices-to-promote-domestic-production/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -803,6 +781,28 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T11:30:06+00:00",
         "link": "https://newsonair.gov.in/asian-markets-send-on-positive-note/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "IMF says India to remain world’s fastest-growing major economy",
+        "summary": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year […]",
+        "article": "India is holding on to its crown as the world’s fastest-growing major economy with the International Monetary Fund (IMF) projecting it to grow at 7 per cent during the current calendar year. IMF&#8217;s flagship biannual report, the World Economic Outlook Update, released today projected India’s gross domestic product to moderate in the next calendar year to 6.4 per cent. The report said, the projected performance of Indian economy is supported by strong momentum in private consumption and services activity. India’s growth projections are more than twice the global numbers, as the report gave a 3 per cent projection for the world economy’s growth this year. The report presented a relatively positive outlook for the world economy growth, as it is expected to rise 3.4 per cent next year. China, which is the second fastest-growing economy, was projected to grow by 4.6 per cent this year and lose a half point, falling to 4.1 per cent next year. The US ranked third with a projected growth of 2.3 per cent this year and 2.2 per cent next year.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T00:30:44+00:00",
+        "link": "https://newsonair.gov.in/imf-projects-india-to-remain-worlds-fastest-growing-major-economy/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India ensures uninterrupted LPG supply by strengthening domestic production & effective diplomacy: Hardeep Puri",
+        "summary": "Petroleum and Natural Gas Minister Hardeep Singh Puri has said that domestic petrol and diesel prices are expected to move in a positive direction if international crude oil prices remain stable or decline. The Minister expressed confidence that the outlook for consumers remains favourable as global oil and gas supplies continue to expand. […]",
+        "article": "Petroleum and Natural Gas Minister Hardeep Singh Puri has said that domestic petrol and diesel prices are expected to move in a positive direction if international crude oil prices remain stable or decline. The Minister expressed confidence that the outlook for consumers remains favourable as global oil and gas supplies continue to expand. Addressing the Viksit Bharat Conclave 2026 in New Delhi, Mr. Puri said India successfully weathered one of the most challenging global energy disruptions in recent decades through a combination of diplomatic engagement, timely policy interventions, enhanced domestic production and diversified imports. He said the country&#8217;s experience demonstrated the importance of long-term energy reforms in ensuring energy security. Highlighting the government&#8217;s response to the crisis, the Minister said India ensured an uninterrupted supply of LPG by taking timely steps to strengthen domestic production and secure energy supplies. He said effective diplomacy helped facilitate the movement of Indian energy cargoes that were stranded following disruptions in the Strait of Hormuz, while close coordination with countries including Iran, Oman, Qatar and the UAE enabled the safe passage of Indian vessels. Mr. Puri said the government simultaneously increased domestic LPG production by directing refineries to prioritise cooking gas over higher-value petrochemical products. As a result, India&#8217;s LPG production capacity rose from about 35 thousand metric tonnes per day to 54 thousand metric tonnes per day within a short period, ensuring uninterrupted cooking gas supply to more than 33 crore LPG consumers across the country. The Minister said India also diversified its import basket to minimise the impact of supply disruptions. Apart from traditional suppliers in the Gulf, the country sourced LPG from the United States, Algeria, Argentina and several other countries. He added that Indian energy companies also reorganised shipping operations and redirected vessels to ensure that supplies continued without interruption. Mr. Puri said despite one of the most severe global energy crises, India did not face shortages of crude oil, natural gas or LPG. He noted that none of the country&#8217;s fuel retail outlets ran dry during the crisis and said timely government intervention helped prevent panic and stabilise supplies. On fuel prices, the Minister said petrol and diesel prices in India have remained among the lowest globally over the past four years. He attributed this to three rounds of excise duty reductions undertaken by the Centre, which absorbed a significant fiscal burden instead of passing the impact of higher international crude prices on to consumers. Speaking on the government&#8217;s long-term energy strategy, Mr. Puri said India has expanded its crude oil sourcing from 21 countries to nearly 40 while accelerating reforms in the upstream energy sector. He said the government has amended petroleum laws, opened previously restricted areas for exploration and introduced policy reforms to encourage greater investment in oil and gas exploration.",
+        "date": "2026-07-08",
+        "pubDate": "2026-07-08T00:34:42+00:00",
+        "link": "https://newsonair.gov.in/india-ensures-uninterrupted-lpg-supply-by-strengthening-domestic-production-effective-diplomacy-hardeep-puri/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -816,41 +816,8 @@ window.VM_NEWS = {
         "date": "2026-06-04",
         "pubDate": "2026-06-04T08:26:03+00:00",
         "link": "https://newsonair.gov.in/veteran-producer-and-former-cbfc-chairperson-pahlaj-nihalani-passes-away/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/pahln.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "150th Shree Baba Harivallabh Sangeet Sammelan Begins in Jalandhar Tomorrow",
-        "summary": "In Punjab, the 150th Shree Baba Harivallabh Sangeet Sammelan, the oldest Hindustani classical music festival in the country, is starting from tomorrow evening at Shree Devi Talab Temple, Jalandhar. The festival is being organised in collaboration with the North Zone Cultural Centre (NZCC), Patiala of the Union Ministry of Culture, Govt. of India and […]",
-        "article": "In Punjab, the 150th Shree Baba Harivallabh Sangeet Sammelan, the oldest Hindustani classical music festival in the country, is starting from tomorrow evening at Shree Devi Talab Temple, Jalandhar. The festival is being organised in collaboration with the North Zone Cultural Centre (NZCC), Patiala of the Union Ministry of Culture, Govt. of India and supported by the state government. The 3-day festival is dedicated to the 350th martyrdom anniversary of Guru Tegh Bahadur Ji and acclaimed Banaras Gharana vocalist Pt Chhannu Lal Mishra, who passed away in October this year. Renowned classical music artists like folk vocalist icon Vidushi Malini Awasthi, Pt Sajan Mishara, his son Swaransh Mishra, Pt Ronu Majumdar, Shashank Subramanyam, Ashwini Bhide, Pt Sanjeev Abhyankar, Pt Shubhendra Rao, Saskia Rao-de-Haas, Ustad Faiyaz Wasifuddin Dagar, Pt Vijay Ghate, V Selvaganesh, Naveen Sharma and Shikharnaad Qureshi, among others, will perform from 26 to 28 December.",
-        "date": "2025-12-25",
-        "pubDate": "2025-12-25T06:41:17+00:00",
-        "link": "https://newsonair.gov.in/150th-shree-baba-harivallabh-sangeet-sammelan-begins-in-jalandhar-tomorrow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/hargobind.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Goa CM Releases Commemorative Stamp Honouring Filmmaker K Vaikunth at IFFI 56",
-        "summary": "Goa Chief Minister Pramod Sawant today released a commemorative stamp in honour of legendary cinematographer and filmmaker K Vaikunth at the 56th International Film Festival of India (IFFI) in Panaji, Goa. Addressing the gathering, Mr Sawant said that the K Vaikunth left a mark on Indian cinema even before Goa used to be associated […]",
-        "article": "Goa Chief Minister Pramod Sawant today released a commemorative stamp in honour of legendary cinematographer and filmmaker K Vaikunth at the 56th International Film Festival of India (IFFI) in Panaji, Goa. Addressing the gathering, Mr Sawant said that the K Vaikunth left a mark on Indian cinema even before Goa used to be associated with movies. The Goa Chief Minister called him the man whose camera shaped the visual language of classic Indian cinema. He added that Mr Vaikunth&#8217;s unique style captured both grand spectacles and soft, subtle human emotions. During the occasion, Mr Vaikunth&#8217;s 1977 documentary &#8211; &#8216;Goa Marches On&#8217; was also screened. In a career spanning more than 5 decades, K Vaikunth worked on more than 35 feature films along with numerous ads and documentaries. He was behind some of the biggest hits, notably, Mere Apne, Bandhan, Mausam, Raaz and Parichay. Mr Vaikunth passed away on 9th February 2003.",
-        "date": "2025-11-27",
-        "pubDate": "2025-11-27T07:31:40+00:00",
-        "link": "https://newsonair.gov.in/goa-cm-releases-commemorative-stamp-honouring-filmmaker-k-vaikunth-at-iffi-56/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/pramod.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Media and Entertainment Sector Among India’s Fastest-Growing Industries",
-        "summary": "India’s Media and Entertainment sector has become one of the country’s fastest-growing industries and is projected to cross one hundred billion US dollars by 2030. Economically, the Media and Entertainment sector contributes significantly to value addition and job creation, with its gross value-added share steadily increasing over the last decade. The country offers a 40 […]",
-        "article": "India’s Media and Entertainment sector has become one of the country’s fastest-growing industries and is projected to cross one hundred billion US dollars by 2030. Economically, the Media and Entertainment sector contributes significantly to value addition and job creation, with its gross value-added share steadily increasing over the last decade. The country offers a 40 to 60 percent cost advantage in animation and VFX services, supported by a large, skilled workforce. The creative economy of the country has entered a transformative phase with the formal recognition of the Animation, Visual Effects, Gaming, Comics and Extended Reality (AVGC-XR) sector as a key driver of growth. The policy journey gained momentum in 2022 with the constitution of the AVGC Promotion Task Force, established to formulate a comprehensive national strategy for nurturing country&#8217;s AVGC-XR ecosystem as a global hub for creative technology and digital content production. The Task Force’s report projected the creation of around 20 lakh direct and indirect jobs in the coming ten years, while estimating that the sector could contribute to India’s GDP through production, exports, and allied services. Complementing national initiatives, several states are advancing the AVGC-XR vision through targeted policies and institutional frameworks. Karnataka has been one of the firsts to implement a dedicated AVGC-XR Policy 2024-2029, focusing on skilling, incubation, and global market competitiveness. Maharashtra has also taken significant steps with the approval of its AVGC-XR Policy 2025 in September this year, backed by a financial plan of more than three thousand 200 crore rupees including a long-term roadmap extending to 2050. The policy seeks to attract investments, create employment opportunities, and strengthen state-level production infrastructure through dedicated clusters and training initiatives. Furthermore, the Indian Institute of Creative Technologies is reshaping creative education through global partnerships with Netflix, Google, Microsoft, NVIDIA and others, building a world-class talent ecosystem. India’s technological evolution in this sector reflects a decade-long progression from experimentation to excellence.",
-        "date": "2025-11-18",
-        "pubDate": "2025-11-18T08:00:22+00:00",
-        "link": "https://newsonair.gov.in/media-and-entertainment-sector-among-indias-fastest-growing-industries/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/media.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sydney_2015_Anzac_Day_march_%2817119683648%29.jpg/1280px-Sydney_2015_Anzac_Day_march_%2817119683648%29.jpg",
+        "image_credit": "Wikipedia – Veteran (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -860,41 +827,8 @@ window.VM_NEWS = {
         "date": "2025-11-18",
         "pubDate": "2025-11-18T06:24:16+00:00",
         "link": "https://newsonair.gov.in/uk-named-country-partner-for-hornbill-festival-2025-in-nagaland/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/hornbill.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Vice-President C.P. Radhakrishnan Urges Media to Be Partners in Nation-Building at Ramoji Excellence Awards 2025",
-        "summary": "Vice-President C.P. Radhakrishnan has urged media houses to become partners in nation-building through their constructive role as the fourth pillar of the democratic system. He emphasised the urgency to check the spread of fake news and misinformation in the digital era. Addressing the inaugural event of Ramoji Excellence Awards-2025 at Ramoji Film City in […]",
-        "article": "Vice-President C.P. Radhakrishnan has urged media houses to become partners in nation-building through their constructive role as the fourth pillar of the democratic system. He emphasised the urgency to check the spread of fake news and misinformation in the digital era. Addressing the inaugural event of Ramoji Excellence Awards-2025 at Ramoji Film City in Hyderabad, the Vice-President lauded the efforts of late media industrialist Ramoji Rao in value-based journalism. He hailed Ramoji Group for instituting the Excellence Awards in his memory. Telangana Chief Minister A. Revanth Reddy termed the Ramoji Film City as the fourth wonder of Hyderabad and said that the State government will extend all support to sustain the legacy of the “Ramoji” brand in various sectors, mainly journalism and the promotion of the state-of-the-art Ramoji Film City, which has emerged as the hub of film-making in the world. Chief Minister of Andhra Pradesh N. Chandrababu Naidu said Ramoji Rao, as a media house owner, championed the people’s issues. Telangana Governor Jishnu Dev Varma, former Vice-President M Venkaiah Naidu, and former Chief Justice of India NV Ramana called Ramoji Rao a true inspiration for generations to come and recalled his services in the field of journalism. The award recipients include Pallabi Ghosh in the Women Achievers category, Sathupati Prasanna Sree in Arts and Culture, Akash Tandon in Service to Humanity, Jaideep Hardikar in Journalism, Madhavi Latha in Science and Technology, Srikanth Bolla in Youth Icon, and Amla Ruia in the Rural Development category. Union Ministers Kishan Reddy, K Ram Mohan Naidu and Ministers of state Bandi Sanjay and others were also present on the occasion.",
-        "date": "2025-11-17",
-        "pubDate": "2025-11-17T04:43:41+00:00",
-        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-urges-media-to-be-partners-in-nation-building-at-ramoji-excellence-awards-2025/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/CP-radha.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Melodies of India Resonate as 67th Akashvani Sangeet Sammelan Begins Nationwide",
-        "summary": "The 67th edition of Akashvani Sangeet Sammelan began today with concerts at Delhi, Mumbai and Chennai. The sammelan is being organised by Prasar Bharati, in collaboration with the Culture Ministry. In the National Capital at Akashvani Rang Bhawan, Flutist Pt. Rakesh Chaurasia and Marathi Folk artist Nandesh Umap and his team performed […]",
-        "article": "The 67th edition of Akashvani Sangeet Sammelan began today with concerts at Delhi, Mumbai and Chennai. The sammelan is being organised by Prasar Bharati, in collaboration with the Culture Ministry. In the National Capital at Akashvani Rang Bhawan, Flutist Pt. Rakesh Chaurasia and Marathi Folk artist Nandesh Umap and his team performed a vibrant program. Prasar Bharati Chairman Navneet Kumar Sehgal and Akashvani Director General Rajiv Kumar Jain also attended the event Akashvani Sangeet Sammelan will be held in 24 cities across the country. During the month-long event, The sangeet sammelan will bring Hindustani, Carnatic, Light and Folk music to audiences from across the country. All concerts are open to the public without any entry fee. Invitation cards can be collected from the respective Akashvani stations on a first-come, first-served basis.",
-        "date": "2025-11-02",
-        "pubDate": "2025-11-02T16:25:04+00:00",
-        "link": "https://newsonair.gov.in/prasar-bharati-and-culture-ministry-launch-month-long-akashvani-sangeet-sammelan-nationwide/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/akashvani.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Comedian and Veteran Punjabi Actor Jaswinder Bhalla Passes Away",
-        "summary": "Famous comedian and veteran actor of Punjabi cinema Jaswinder Bhalla died this morning in a private hospital in Mohali. He was 65 years old. According to the information received, his last rites will be performed tomorrow at noon at Balongi crematorium. &#160; Born in Doraha town of Ludhiana, Jaswinder Bhalla obtained an M.Sc. from Punjab […]",
-        "article": "Famous comedian and veteran actor of Punjabi cinema Jaswinder Bhalla died this morning in a private hospital in Mohali. He was 65 years old. According to the information received, his last rites will be performed tomorrow at noon at Balongi crematorium. &nbsp; Born in Doraha town of Ludhiana, Jaswinder Bhalla obtained an M.Sc. from Punjab Agricultural University and a PhD from Chaudhary Charan Singh Post Graduate College, Meerut. Jaswinder Bhalla, who came to the comedy and film world from teaching, left an indelible mark on the entertainment world with his unique comic style and memorable characters in films. &nbsp; He started his career in 1988 and worked in many popular Punjabi films, including Carry On Jatta, Naukar Vohti Da. His film journey started with the film &#8220;Dulla Bhatti&#8221;. He also performed in various programs of Jalandhar Doordarshan at the beginning of his career.",
-        "date": "2025-08-22",
-        "pubDate": "2025-08-22T06:34:48+00:00",
-        "link": "https://newsonair.gov.in/comedian-and-veteran-punjabi-actor-jaswinder-bhalla-passes-away/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/bhalla.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kapamodzu.jpg/1280px-Kapamodzu.jpg",
+        "image_credit": "Wikipedia – Nagaland (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -904,8 +838,74 @@ window.VM_NEWS = {
         "date": "2025-08-21",
         "pubDate": "2025-08-21T05:59:25+00:00",
         "link": "https://newsonair.gov.in/biff-2025-shape-of-momo-to-premiere-in-vision-section-of-asias-biggest-film-festival/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/bfii.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Premiere_at_Chinese_Theater_%283555047236%29.jpg/1280px-Premiere_at_Chinese_Theater_%283555047236%29.jpg",
+        "image_credit": "Wikipedia – Premiere (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "150th Shree Baba Harivallabh Sangeet Sammelan Begins in Jalandhar Tomorrow",
+        "summary": "In Punjab, the 150th Shree Baba Harivallabh Sangeet Sammelan, the oldest Hindustani classical music festival in the country, is starting from tomorrow evening at Shree Devi Talab Temple, Jalandhar. The festival is being organised in collaboration with the North Zone Cultural Centre (NZCC), Patiala of the Union Ministry of Culture, Govt. of India and […]",
+        "article": "In Punjab, the 150th Shree Baba Harivallabh Sangeet Sammelan, the oldest Hindustani classical music festival in the country, is starting from tomorrow evening at Shree Devi Talab Temple, Jalandhar. The festival is being organised in collaboration with the North Zone Cultural Centre (NZCC), Patiala of the Union Ministry of Culture, Govt. of India and supported by the state government. The 3-day festival is dedicated to the 350th martyrdom anniversary of Guru Tegh Bahadur Ji and acclaimed Banaras Gharana vocalist Pt Chhannu Lal Mishra, who passed away in October this year. Renowned classical music artists like folk vocalist icon Vidushi Malini Awasthi, Pt Sajan Mishara, his son Swaransh Mishra, Pt Ronu Majumdar, Shashank Subramanyam, Ashwini Bhide, Pt Sanjeev Abhyankar, Pt Shubhendra Rao, Saskia Rao-de-Haas, Ustad Faiyaz Wasifuddin Dagar, Pt Vijay Ghate, V Selvaganesh, Naveen Sharma and Shikharnaad Qureshi, among others, will perform from 26 to 28 December.",
+        "date": "2025-12-25",
+        "pubDate": "2025-12-25T06:41:17+00:00",
+        "link": "https://newsonair.gov.in/150th-shree-baba-harivallabh-sangeet-sammelan-begins-in-jalandhar-tomorrow/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Goa CM Releases Commemorative Stamp Honouring Filmmaker K Vaikunth at IFFI 56",
+        "summary": "Goa Chief Minister Pramod Sawant today released a commemorative stamp in honour of legendary cinematographer and filmmaker K Vaikunth at the 56th International Film Festival of India (IFFI) in Panaji, Goa. Addressing the gathering, Mr Sawant said that the K Vaikunth left a mark on Indian cinema even before Goa used to be associated […]",
+        "article": "Goa Chief Minister Pramod Sawant today released a commemorative stamp in honour of legendary cinematographer and filmmaker K Vaikunth at the 56th International Film Festival of India (IFFI) in Panaji, Goa. Addressing the gathering, Mr Sawant said that the K Vaikunth left a mark on Indian cinema even before Goa used to be associated with movies. The Goa Chief Minister called him the man whose camera shaped the visual language of classic Indian cinema. He added that Mr Vaikunth&#8217;s unique style captured both grand spectacles and soft, subtle human emotions. During the occasion, Mr Vaikunth&#8217;s 1977 documentary &#8211; &#8216;Goa Marches On&#8217; was also screened. In a career spanning more than 5 decades, K Vaikunth worked on more than 35 feature films along with numerous ads and documentaries. He was behind some of the biggest hits, notably, Mere Apne, Bandhan, Mausam, Raaz and Parichay. Mr Vaikunth passed away on 9th February 2003.",
+        "date": "2025-11-27",
+        "pubDate": "2025-11-27T07:31:40+00:00",
+        "link": "https://newsonair.gov.in/goa-cm-releases-commemorative-stamp-honouring-filmmaker-k-vaikunth-at-iffi-56/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Media and Entertainment Sector Among India’s Fastest-Growing Industries",
+        "summary": "India’s Media and Entertainment sector has become one of the country’s fastest-growing industries and is projected to cross one hundred billion US dollars by 2030. Economically, the Media and Entertainment sector contributes significantly to value addition and job creation, with its gross value-added share steadily increasing over the last decade. The country offers a 40 […]",
+        "article": "India’s Media and Entertainment sector has become one of the country’s fastest-growing industries and is projected to cross one hundred billion US dollars by 2030. Economically, the Media and Entertainment sector contributes significantly to value addition and job creation, with its gross value-added share steadily increasing over the last decade. The country offers a 40 to 60 percent cost advantage in animation and VFX services, supported by a large, skilled workforce. The creative economy of the country has entered a transformative phase with the formal recognition of the Animation, Visual Effects, Gaming, Comics and Extended Reality (AVGC-XR) sector as a key driver of growth. The policy journey gained momentum in 2022 with the constitution of the AVGC Promotion Task Force, established to formulate a comprehensive national strategy for nurturing country&#8217;s AVGC-XR ecosystem as a global hub for creative technology and digital content production. The Task Force’s report projected the creation of around 20 lakh direct and indirect jobs in the coming ten years, while estimating that the sector could contribute to India’s GDP through production, exports, and allied services. Complementing national initiatives, several states are advancing the AVGC-XR vision through targeted policies and institutional frameworks. Karnataka has been one of the firsts to implement a dedicated AVGC-XR Policy 2024-2029, focusing on skilling, incubation, and global market competitiveness. Maharashtra has also taken significant steps with the approval of its AVGC-XR Policy 2025 in September this year, backed by a financial plan of more than three thousand 200 crore rupees including a long-term roadmap extending to 2050. The policy seeks to attract investments, create employment opportunities, and strengthen state-level production infrastructure through dedicated clusters and training initiatives. Furthermore, the Indian Institute of Creative Technologies is reshaping creative education through global partnerships with Netflix, Google, Microsoft, NVIDIA and others, building a world-class talent ecosystem. India’s technological evolution in this sector reflects a decade-long progression from experimentation to excellence.",
+        "date": "2025-11-18",
+        "pubDate": "2025-11-18T08:00:22+00:00",
+        "link": "https://newsonair.gov.in/media-and-entertainment-sector-among-indias-fastest-growing-industries/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Vice-President C.P. Radhakrishnan Urges Media to Be Partners in Nation-Building at Ramoji Excellence Awards 2025",
+        "summary": "Vice-President C.P. Radhakrishnan has urged media houses to become partners in nation-building through their constructive role as the fourth pillar of the democratic system. He emphasised the urgency to check the spread of fake news and misinformation in the digital era. Addressing the inaugural event of Ramoji Excellence Awards-2025 at Ramoji Film City in […]",
+        "article": "Vice-President C.P. Radhakrishnan has urged media houses to become partners in nation-building through their constructive role as the fourth pillar of the democratic system. He emphasised the urgency to check the spread of fake news and misinformation in the digital era. Addressing the inaugural event of Ramoji Excellence Awards-2025 at Ramoji Film City in Hyderabad, the Vice-President lauded the efforts of late media industrialist Ramoji Rao in value-based journalism. He hailed Ramoji Group for instituting the Excellence Awards in his memory. Telangana Chief Minister A. Revanth Reddy termed the Ramoji Film City as the fourth wonder of Hyderabad and said that the State government will extend all support to sustain the legacy of the “Ramoji” brand in various sectors, mainly journalism and the promotion of the state-of-the-art Ramoji Film City, which has emerged as the hub of film-making in the world. Chief Minister of Andhra Pradesh N. Chandrababu Naidu said Ramoji Rao, as a media house owner, championed the people’s issues. Telangana Governor Jishnu Dev Varma, former Vice-President M Venkaiah Naidu, and former Chief Justice of India NV Ramana called Ramoji Rao a true inspiration for generations to come and recalled his services in the field of journalism. The award recipients include Pallabi Ghosh in the Women Achievers category, Sathupati Prasanna Sree in Arts and Culture, Akash Tandon in Service to Humanity, Jaideep Hardikar in Journalism, Madhavi Latha in Science and Technology, Srikanth Bolla in Youth Icon, and Amla Ruia in the Rural Development category. Union Ministers Kishan Reddy, K Ram Mohan Naidu and Ministers of state Bandi Sanjay and others were also present on the occasion.",
+        "date": "2025-11-17",
+        "pubDate": "2025-11-17T04:43:41+00:00",
+        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-urges-media-to-be-partners-in-nation-building-at-ramoji-excellence-awards-2025/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Melodies of India Resonate as 67th Akashvani Sangeet Sammelan Begins Nationwide",
+        "summary": "The 67th edition of Akashvani Sangeet Sammelan began today with concerts at Delhi, Mumbai and Chennai. The sammelan is being organised by Prasar Bharati, in collaboration with the Culture Ministry. In the National Capital at Akashvani Rang Bhawan, Flutist Pt. Rakesh Chaurasia and Marathi Folk artist Nandesh Umap and his team performed […]",
+        "article": "The 67th edition of Akashvani Sangeet Sammelan began today with concerts at Delhi, Mumbai and Chennai. The sammelan is being organised by Prasar Bharati, in collaboration with the Culture Ministry. In the National Capital at Akashvani Rang Bhawan, Flutist Pt. Rakesh Chaurasia and Marathi Folk artist Nandesh Umap and his team performed a vibrant program. Prasar Bharati Chairman Navneet Kumar Sehgal and Akashvani Director General Rajiv Kumar Jain also attended the event Akashvani Sangeet Sammelan will be held in 24 cities across the country. During the month-long event, The sangeet sammelan will bring Hindustani, Carnatic, Light and Folk music to audiences from across the country. All concerts are open to the public without any entry fee. Invitation cards can be collected from the respective Akashvani stations on a first-come, first-served basis.",
+        "date": "2025-11-02",
+        "pubDate": "2025-11-02T16:25:04+00:00",
+        "link": "https://newsonair.gov.in/prasar-bharati-and-culture-ministry-launch-month-long-akashvani-sangeet-sammelan-nationwide/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Comedian and Veteran Punjabi Actor Jaswinder Bhalla Passes Away",
+        "summary": "Famous comedian and veteran actor of Punjabi cinema Jaswinder Bhalla died this morning in a private hospital in Mohali. He was 65 years old. According to the information received, his last rites will be performed tomorrow at noon at Balongi crematorium. &#160; Born in Doraha town of Ludhiana, Jaswinder Bhalla obtained an M.Sc. from Punjab […]",
+        "article": "Famous comedian and veteran actor of Punjabi cinema Jaswinder Bhalla died this morning in a private hospital in Mohali. He was 65 years old. According to the information received, his last rites will be performed tomorrow at noon at Balongi crematorium. &nbsp; Born in Doraha town of Ludhiana, Jaswinder Bhalla obtained an M.Sc. from Punjab Agricultural University and a PhD from Chaudhary Charan Singh Post Graduate College, Meerut. Jaswinder Bhalla, who came to the comedy and film world from teaching, left an indelible mark on the entertainment world with his unique comic style and memorable characters in films. &nbsp; He started his career in 1988 and worked in many popular Punjabi films, including Carry On Jatta, Naukar Vohti Da. His film journey started with the film &#8220;Dulla Bhatti&#8221;. He also performed in various programs of Jalandhar Doordarshan at the beginning of his career.",
+        "date": "2025-08-22",
+        "pubDate": "2025-08-22T06:34:48+00:00",
+        "link": "https://newsonair.gov.in/comedian-and-veteran-punjabi-actor-jaswinder-bhalla-passes-away/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -915,8 +915,8 @@ window.VM_NEWS = {
         "date": "2025-02-17",
         "pubDate": "2025-02-17T02:02:43+00:00",
         "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-strengthens-ties-with-indian-ocean-nations-at-muscat-conference/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/02/cats-476.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -928,30 +928,8 @@ window.VM_NEWS = {
         "date": "2026-03-24",
         "pubDate": "2026-03-24T07:13:43+00:00",
         "link": "https://newsonair.gov.in/health-minister-jp-nadda-urges-citizens-to-eliminate-tb-on-world-tuberculosis-day/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/TB-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India Tightens Surveillance on GLP-1 Weight Loss Drug Sales",
-        "summary": "The Drugs Controller of India has intensified regulatory surveillance against unauthorised sale and promotion of GLP-1 based Weight Loss Drugs. The move comes amid growing concerns over the increasing availability of multiple generic variants of these drugs in the Indian market, through retail pharmacies, online platforms, wholesalers, and wellness clinics. The Ministry of Health […]",
-        "article": "The Drugs Controller of India has intensified regulatory surveillance against unauthorised sale and promotion of GLP-1 based Weight Loss Drugs. The move comes amid growing concerns over the increasing availability of multiple generic variants of these drugs in the Indian market, through retail pharmacies, online platforms, wholesalers, and wellness clinics. The Ministry of Health and Family Welfare said that these drugs, when used without proper medical supervision, may lead to serious adverse effects and related health risks. Taking cognisance of the situation, India’s Drugs Controller, in collaboration with State Regulators, has initiated a series of targeted actions to curb possible malpractices across the pharmaceutical supply chain and prevent unauthorised sales and use. The Ministry noted that an advisory was issued on the 10th of this month, directing manufacturers to avoid surrogate advertisements and any form of indirect promotion that could mislead consumers or encourage off-label usage. It added that regulatory surveillance will continue to be intensified in the coming weeks, and non-compliances will be dealt with strictly, with actions including cancellation of licences, penalties, and prosecution under applicable laws. The Health Ministry advised the citizens to use such medications only under the guidance of qualified medical practitioners. The Ministry said the drug has been approved in the country with the condition of a prescription by Endocrinologists and Internal Medicine Specialists, and for some indications, by Cardiologists only.",
-        "date": "2026-03-24",
-        "pubDate": "2026-03-24T06:13:25+00:00",
-        "link": "https://newsonair.gov.in/india-tightens-surveillance-on-glp-1-weight-loss-drug-sales/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/wei.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "VP Radhakrishnan says Drug-free youth key to Viksit Bharat vision",
-        "summary": "Vice President CP Radhakrishnan today said that the vision of a Viksit Bharat can only be realised when the youth of the country is drug-free, healthy and purpose-driven. Mr Radhakrishnan said this while addressing Delhi University&#8217;s Drug Free Campus Campaign in the National Capital. On the occasion, Mr Radhakrishnan also launched a dedicated e-pledge platform […]",
-        "article": "Vice President CP Radhakrishnan today said that the vision of a Viksit Bharat can only be realised when the youth of the country is drug-free, healthy and purpose-driven. Mr Radhakrishnan said this while addressing Delhi University&#8217;s Drug Free Campus Campaign in the National Capital. On the occasion, Mr Radhakrishnan also launched a dedicated e-pledge platform and Mobile App for Drug-Free Campuses. The Vice President said that the campaign aligns strongly with the government’s Nasha Mukt Bharat Abhiyan. He underlined that substance abuse is a social challenge, a public health concern and a threat to the country’s demographic dividend. Mr Radhakrishnan also urged the students to actively participate and take the pledge for a drug-free campus. Mr Radhakrishnan highlighted that it is the need of the hour for everyone to keep themselves away from drugs. He also stressed the need to rise against drug abuse and spread awareness amongst everyone against the use of drugs. Mr Radhakrishnan said that drugs also spoil the physical and mental health of people. The Vice President also asserted that the youth are the greatest asset of the country and their talent, innovation and productivity form the backbone of the nation&#8217;s economic growth. He added that a drug-free youth is better equipped to acquire skills and foster entrepreneurship, which strengthens the economic progress of the nation. Mr Radhakrishnan said that drug terrorism is closely linked to narco-terrorism. He said that this business happens at the cost of humanity, and everyone must rise against the drug mafia. Speaking on the occasion, Education Minister Dharmendra Pradhan emphasised that the Drug Free Campus Campaign is aligned with the National Education Policy 2020. He also underscored the need for teachers and administrators to create a campus culture which prioritises student well-being.",
-        "date": "2026-01-13",
-        "pubDate": "2026-01-13T11:18:49+00:00",
-        "link": "https://newsonair.gov.in/vp-radhakrishnan-urges-youth-to-be-drug-free-for-a-viksit-bharat/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/vp-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/World_Tuberculosis_Day_%287020132217%29.jpg/1280px-World_Tuberculosis_Day_%287020132217%29.jpg",
+        "image_credit": "Wikipedia – World Tuberculosis Day (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -961,19 +939,8 @@ window.VM_NEWS = {
         "date": "2026-01-13",
         "pubDate": "2026-01-13T03:53:37+00:00",
         "link": "https://newsonair.gov.in/west-bengal-reports-two-suspected-nipah-cases-centre-sends-response-team/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/09/nipha.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Wild Poliovirus Detected in Sewage Samples Across 42 Sites in Pakistan",
-        "summary": "Wild poliovirus type 1 (WPV1) has been detected in sewage samples from 42 sites across Pakistan. The health officials reported that out of 127 samples collected from 87 districts in July, 42 tested positive, 75 were negative, and 10 are under process. The findings follow three new polio cases reported earlier this month, raising Pakistan&#8217;s […]",
-        "article": "Wild poliovirus type 1 (WPV1) has been detected in sewage samples from 42 sites across Pakistan. The health officials reported that out of 127 samples collected from 87 districts in July, 42 tested positive, 75 were negative, and 10 are under process. The findings follow three new polio cases reported earlier this month, raising Pakistan&#8217;s 2025 total to 17 cases, 10 from Khyber Pakhtunkhwa, five from Sindh, and one each from Punjab and Gilgit-Baltistan.",
-        "date": "2025-08-13",
-        "pubDate": "2025-08-13T11:11:04+00:00",
-        "link": "https://newsonair.gov.in/wild-poliovirus-detected-in-sewage-samples-across-42-sites-in-pakistan/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/PPPPP.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Howrah_bridge_betwixt_Lights.jpg/1280px-Howrah_bridge_betwixt_Lights.jpg",
+        "image_credit": "Wikipedia – West Bengal (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -983,8 +950,41 @@ window.VM_NEWS = {
         "date": "2025-08-05",
         "pubDate": "2025-08-05T12:03:13+00:00",
         "link": "https://newsonair.gov.in/chikungunya-outbreak-in-china-over-7000-cases-emerge-in-guangdong/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/chikungunya.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg/1280px-China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg",
+        "image_credit": "Wikipedia – Guangdong (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India Tightens Surveillance on GLP-1 Weight Loss Drug Sales",
+        "summary": "The Drugs Controller of India has intensified regulatory surveillance against unauthorised sale and promotion of GLP-1 based Weight Loss Drugs. The move comes amid growing concerns over the increasing availability of multiple generic variants of these drugs in the Indian market, through retail pharmacies, online platforms, wholesalers, and wellness clinics. The Ministry of Health […]",
+        "article": "The Drugs Controller of India has intensified regulatory surveillance against unauthorised sale and promotion of GLP-1 based Weight Loss Drugs. The move comes amid growing concerns over the increasing availability of multiple generic variants of these drugs in the Indian market, through retail pharmacies, online platforms, wholesalers, and wellness clinics. The Ministry of Health and Family Welfare said that these drugs, when used without proper medical supervision, may lead to serious adverse effects and related health risks. Taking cognisance of the situation, India’s Drugs Controller, in collaboration with State Regulators, has initiated a series of targeted actions to curb possible malpractices across the pharmaceutical supply chain and prevent unauthorised sales and use. The Ministry noted that an advisory was issued on the 10th of this month, directing manufacturers to avoid surrogate advertisements and any form of indirect promotion that could mislead consumers or encourage off-label usage. It added that regulatory surveillance will continue to be intensified in the coming weeks, and non-compliances will be dealt with strictly, with actions including cancellation of licences, penalties, and prosecution under applicable laws. The Health Ministry advised the citizens to use such medications only under the guidance of qualified medical practitioners. The Ministry said the drug has been approved in the country with the condition of a prescription by Endocrinologists and Internal Medicine Specialists, and for some indications, by Cardiologists only.",
+        "date": "2026-03-24",
+        "pubDate": "2026-03-24T06:13:25+00:00",
+        "link": "https://newsonair.gov.in/india-tightens-surveillance-on-glp-1-weight-loss-drug-sales/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "VP Radhakrishnan says Drug-free youth key to Viksit Bharat vision",
+        "summary": "Vice President CP Radhakrishnan today said that the vision of a Viksit Bharat can only be realised when the youth of the country is drug-free, healthy and purpose-driven. Mr Radhakrishnan said this while addressing Delhi University&#8217;s Drug Free Campus Campaign in the National Capital. On the occasion, Mr Radhakrishnan also launched a dedicated e-pledge platform […]",
+        "article": "Vice President CP Radhakrishnan today said that the vision of a Viksit Bharat can only be realised when the youth of the country is drug-free, healthy and purpose-driven. Mr Radhakrishnan said this while addressing Delhi University&#8217;s Drug Free Campus Campaign in the National Capital. On the occasion, Mr Radhakrishnan also launched a dedicated e-pledge platform and Mobile App for Drug-Free Campuses. The Vice President said that the campaign aligns strongly with the government’s Nasha Mukt Bharat Abhiyan. He underlined that substance abuse is a social challenge, a public health concern and a threat to the country’s demographic dividend. Mr Radhakrishnan also urged the students to actively participate and take the pledge for a drug-free campus. Mr Radhakrishnan highlighted that it is the need of the hour for everyone to keep themselves away from drugs. He also stressed the need to rise against drug abuse and spread awareness amongst everyone against the use of drugs. Mr Radhakrishnan said that drugs also spoil the physical and mental health of people. The Vice President also asserted that the youth are the greatest asset of the country and their talent, innovation and productivity form the backbone of the nation&#8217;s economic growth. He added that a drug-free youth is better equipped to acquire skills and foster entrepreneurship, which strengthens the economic progress of the nation. Mr Radhakrishnan said that drug terrorism is closely linked to narco-terrorism. He said that this business happens at the cost of humanity, and everyone must rise against the drug mafia. Speaking on the occasion, Education Minister Dharmendra Pradhan emphasised that the Drug Free Campus Campaign is aligned with the National Education Policy 2020. He also underscored the need for teachers and administrators to create a campus culture which prioritises student well-being.",
+        "date": "2026-01-13",
+        "pubDate": "2026-01-13T11:18:49+00:00",
+        "link": "https://newsonair.gov.in/vp-radhakrishnan-urges-youth-to-be-drug-free-for-a-viksit-bharat/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Wild Poliovirus Detected in Sewage Samples Across 42 Sites in Pakistan",
+        "summary": "Wild poliovirus type 1 (WPV1) has been detected in sewage samples from 42 sites across Pakistan. The health officials reported that out of 127 samples collected from 87 districts in July, 42 tested positive, 75 were negative, and 10 are under process. The findings follow three new polio cases reported earlier this month, raising Pakistan&#8217;s […]",
+        "article": "Wild poliovirus type 1 (WPV1) has been detected in sewage samples from 42 sites across Pakistan. The health officials reported that out of 127 samples collected from 87 districts in July, 42 tested positive, 75 were negative, and 10 are under process. The findings follow three new polio cases reported earlier this month, raising Pakistan&#8217;s 2025 total to 17 cases, 10 from Khyber Pakhtunkhwa, five from Sindh, and one each from Punjab and Gilgit-Baltistan.",
+        "date": "2025-08-13",
+        "pubDate": "2025-08-13T11:11:04+00:00",
+        "link": "https://newsonair.gov.in/wild-poliovirus-detected-in-sewage-samples-across-42-sites-in-pakistan/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -994,8 +994,8 @@ window.VM_NEWS = {
         "date": "2025-08-05",
         "pubDate": "2025-08-05T02:16:32+00:00",
         "link": "https://newsonair.gov.in/pm-matru-vandana-yojana-registration-drive-extended-till-august-15/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/pradhanmantri-matri-vandana-yojana-pmmvy.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1005,8 +1005,8 @@ window.VM_NEWS = {
         "date": "2025-07-28",
         "pubDate": "2025-07-28T03:24:29+00:00",
         "link": "https://newsonair.gov.in/vaccines-prevented-over-2-5-million-covid-deaths-worldwide-study/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/07/ffd.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1016,91 +1016,14 @@ window.VM_NEWS = {
         "date": "2025-07-14",
         "pubDate": "2025-07-14T11:41:18+00:00",
         "link": "https://newsonair.gov.in/world-embracing-ayurvedas-science-and-potential-ayush-minister/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/Pratap-Rao-Jadhav-1-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ]
   },
   "hi": {
     "top": [
-      {
-        "title": "सीबीआई ने 133 करोड़ रुपये से अधिक की बैंक धोखाधड़ी का मामला दर्ज किया",
-        "summary": "केंद्रीय अन्वेषण ब्यूरो ने मुंबई में एक निजी कंपनी के निदेशकों के खिलाफ 133 करोड़ रुपये से अधिक धनराशि की कथित धोखाधड़ी का मामला दर्ज किया है। ब्यूरो ने आज मुंबई, महाराष्ट्र और कोच्चि, केरल में आरोपियों से जुड़े कई परिसरों पर तलाशी ली। यह मामला कल मुंबई स्थित भारतीय स्टेट बैंक की शिकायत के […]",
-        "article": "केंद्रीय अन्वेषण ब्यूरो ने मुंबई में एक निजी कंपनी के निदेशकों के खिलाफ 133 करोड़ रुपये से अधिक धनराशि की कथित धोखाधड़ी का मामला दर्ज किया है। ब्यूरो ने आज मुंबई, महाराष्ट्र और कोच्चि, केरल में आरोपियों से जुड़े कई परिसरों पर तलाशी ली। यह मामला कल मुंबई स्थित भारतीय स्टेट बैंक की शिकायत के आधार पर दर्ज किया गया था। शिकायत में आरोप है कि आरोपी निदेशकों ने अज्ञात सरकारी कर्मचारियों और अन्य व्यक्तियों के साथ मिलकर बैंक को 133 करोड़ 52 लाख रुपये से अधिक का नुकसान पहुंचाया है। ब्यूरो के अनुसार, आरोपियों ने कथित तौर पर आपराधिक साजिश रचकर गलत वित्तीय जानकारी प्रस्तुत करके बैंक से अधिक ऋण सुविधाएं प्राप्त कीं। ऋण राशि को स्वीकृत उद्देश्यों के अलावा अन्य उद्देश्यों के लिए इस्तेमाल किया गया, जिसके परिणामस्वरूप बैंक को वित्तीय नुकसान हुआ। ब्यूरो ने कहा कि तलाशी के दौरान जांच से संबंधित आपत्तिजनक सामग्री बरामद हुई है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T16:00:10+00:00",
-        "link": "https://newsonair.gov.in/hi/the-cbi-registered-a-case-of-bank-fraud-worth-over-%e2%82%b9133-crore/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/cbi-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन 14 जुलाई को अंतरिक्ष मिशन पर होंगे रवाना",
-        "summary": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन 14 जुलाई को कजाकिस्तान के बैकोनूर अंतरिक्ष प्रशिक्षण केंद्र से अंतर्राष्ट्रीय अंतरिक्ष स्टेशन के लिए आठ महीने के मिशन पर रवाना होने वाले हैं। वे अंतरिक्ष यात्रियों प्योत्र दुब्रोव और अन्ना किकिना के साथ रूस की अंतरिक्ष एजेंसी रोस्कोस्मोस के सोयुज एमएस-29 अंतरिक्ष यान में सवार होकर […]",
-        "article": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन 14 जुलाई को कजाकिस्तान के बैकोनूर अंतरिक्ष प्रशिक्षण केंद्र से अंतर्राष्ट्रीय अंतरिक्ष स्टेशन के लिए आठ महीने के मिशन पर रवाना होने वाले हैं। वे अंतरिक्ष यात्रियों प्योत्र दुब्रोव और अन्ना किकिना के साथ रूस की अंतरिक्ष एजेंसी रोस्कोस्मोस के सोयुज एमएस-29 अंतरिक्ष यान में सवार होकर अंतरिक्ष यात्रा करेंगे। अंतरिक्ष स्टेशन में रहते हुए, श्री मेनन लंबी अवधि की अंतरिक्ष यात्रा के शारीरिक प्रभावों और सूक्ष्म गुरुत्वाकर्षण के अंतरिक्ष यात्रियों में रक्त प्रवाह, शिरा संरचना और रक्त संरचना पर प्रभाव का अध्ययन करेंगे। वे अंतरिक्ष स्टेशन की पेय जल प्रणाली का उपयोग करके अंतःशिरा द्रव तैयार करने की तकनीकों का परीक्षण करने में भी मदद करेंगे। वे अल्ट्रासाउंड जांच भी करेंगे जिससे भविष्य के अंतरिक्ष अभियानों में पृथ्वी से चिकित्सा सहायता की आवश्यकता समाप्त हो सकती है। मिनियापोलिस में जन्मे अनिल मेनन आपातकालीन चिकित्सा चिकित्सक और अमरीकी अंतरिक्ष बल में कर्नल हैं। 49 वर्षीय मेनन ने 2014 में नासा में फ्लाइट सर्जन के रूप में अपना करियर शुरू किया और अंतर्राष्ट्रीय अंतरिक्ष सेवा केंद्र पर रहने और काम करने वाले अंतरिक्ष यात्रियों के साथ काम किया। मेनन 2018 में स्पेसएक्स में शामिल हुए। दिसंबर 2021 में उनका चयन नासा के अंतरिक्ष यात्री के रूप में हुआ और उन्होंने दो साल का प्रशिक्षण शुरू किया।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:57:52+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-origin-nasa-astronaut-anil-menon-will-depart-for-a-space-mission-on-july-14/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM4C2OrXEAEVLNO.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पीएम-सेतु पहल के तहत सूरत आईटीआई समूह के लिए 240 करोड़ रुपये की निवेश योजना",
-        "summary": "कौशल विकास, उद्यमिता और शिक्षा राज्य मंत्री जयंत चौधरी ने आज पीएम-सेतु पहल के अंतर्गत सूरत औद्योगिक प्रशिक्षण संस्थान-आईटीआई समूह के लिए 240 करोड़ रुपये की रणनीतिक निवेश योजना का अनावरण किया। इस पहल में आर्सेलर मित्तल निप्पॉन स्टील इंडिया को समूह का प्रमुख उद्योग भागीदार नामित किया गया है। आईटीआई सूरत को अगले पांच […]",
-        "article": "कौशल विकास, उद्यमिता और शिक्षा राज्य मंत्री जयंत चौधरी ने आज पीएम-सेतु पहल के अंतर्गत सूरत औद्योगिक प्रशिक्षण संस्थान-आईटीआई समूह के लिए 240 करोड़ रुपये की रणनीतिक निवेश योजना का अनावरण किया। इस पहल में आर्सेलर मित्तल निप्पॉन स्टील इंडिया को समूह का प्रमुख उद्योग भागीदार नामित किया गया है। आईटीआई सूरत को अगले पांच वर्षों में केंद्रीय केंद्र के रूप में विकसित किया जाएगा। वहीं, हजीरा, बरदोली, सचिन और महिला आईटीआई सूरत सहायक संस्थानों के रूप में कार्य करेंगे। इस परियोजना का उद्देश्य 25 हजार से अधिक युवाओं को आधुनिक उद्योग-उन्मुख प्रशिक्षण, शिक्षुता और नए रोजगार के अवसर प्रदान करना है। इस योजना में आर्सेलर मित्तल निप्पॉन स्टील इंडिया औद्योगिक आवश्यकताओं के अनुरूप उन्नत पाठ्यक्रम, डिजिटल शिक्षा, उद्योग में भागीदारी, कार्यस्थल पर प्रशिक्षण और शिक्षकों के कौशल विकास की शुरुआत करेगा।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:46:56+00:00",
-        "link": "https://newsonair.gov.in/hi/investment-plan-of-%e2%82%b9240-crore-for-the-surat-iti-cluster-under-the-pm-setu-initiative/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/jayanta-choudhury-minister-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेंद्र मोदी तीन देशों की यात्रा के अंतिम चरण में न्‍यूजीलैंड के ऑकलैंड पहुंचे",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी का न्यूजीलैंड की अपनी दो दिन की ऐतिहासिक यात्रा के शुरू में ऑकलैंड पहुंचने पर हार्दिक स्वागत किया गया। किसी भारतीय प्रधानमंत्री की लगभग चार दशकों में यह पहली न्यूजीलैंड यात्रा है। ऑकलैंड पहुंचने पर न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने हवाई अड्डे पर प्रधानमंत्री का स्वागत किया। भारतीय समुदाय के लोग […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी का न्यूजीलैंड की अपनी दो दिन की ऐतिहासिक यात्रा के शुरू में ऑकलैंड पहुंचने पर हार्दिक स्वागत किया गया। किसी भारतीय प्रधानमंत्री की लगभग चार दशकों में यह पहली न्यूजीलैंड यात्रा है। ऑकलैंड पहुंचने पर न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने हवाई अड्डे पर प्रधानमंत्री का स्वागत किया। भारतीय समुदाय के लोग बड़ी संख्या में उनके स्वागत के लिए एकत्रित हुए थे। लोगों ने भारतीय तिरंगा लहराते हुए और &#8220;किया ओरा मोदी&#8221; के नारे लगाते हुए उनका स्वागत किया, जिससे वातावरण उत्साह से भर गया। इस यात्रा के दौरान, दोनों नेताओं द्वारा व्यापार, निवेश, शिक्षा, प्रौद्योगिकी और आपसी संबंधों में सहयोग को और मजबूत करने के तरीकों पर चर्चा किए जाने की उम्मीद है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:40:04+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-arrived-in-auckland-new-zealand-on-the-final-leg-of-his-three-nation-tour/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/noname-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतीय नौसेना स्वदेशी स्टील्थ फ्रिगेट महेंद्रगिरि को पूर्वी बेड़े में करेगी शामिल",
-        "summary": "भारतीय नौसेना कल विशाखापत्तनम में अपने पूर्वी बेड़े में 17ए परियोजना के अंतर्गत निर्मित छठे स्वदेशी स्टील्थ फ्रिगेट महेंद्रगिरि को शामिल करेगी। रक्षा मंत्री राजनाथ सिंह नौसेना में युद्धपोत को औपचारिक रूप से शामिल करने के समारोह की अध्यक्षता करेंगे। भारतीय नौसेना के युद्धपोत डिजाइन इकाई द्वारा तैयार की गई रूपरेखा के आधार पर […]",
-        "article": "भारतीय नौसेना कल विशाखापत्तनम में अपने पूर्वी बेड़े में 17ए परियोजना के अंतर्गत निर्मित छठे स्वदेशी स्टील्थ फ्रिगेट महेंद्रगिरि को शामिल करेगी। रक्षा मंत्री राजनाथ सिंह नौसेना में युद्धपोत को औपचारिक रूप से शामिल करने के समारोह की अध्यक्षता करेंगे। भारतीय नौसेना के युद्धपोत डिजाइन इकाई द्वारा तैयार की गई रूपरेखा के आधार पर मुंबई स्थित मझगांव डॉक शिपबिल्डर्स लिमिटेड में निर्मित युद्धपोत महेंद्रगिरि देश के अग्रणी स्वदेशी स्टील्थ युद्धपोतों में से एक हैं। यह युद्धपोत उन्नत स्टील्थ तकनीक, रडार से बचने और उच्च स्तर की स्वचालन प्रणाली से युक्त है। युक्त यह युद्धपोत नौसैनिक युद्ध के सभी आयामों में समुद्री अभियानों की पूरी श्रृंखला को अंजाम देने के लिए डिज़ाइन किया गया है। इस पोत के निर्माण में सूक्ष्म, लघु और मध्यम सहित बड़ी संख्या में भारतीय उद्योग शामिल हैं, जिससे देश के रक्षा औद्योगिक आधार को मजबूती मिली है और महत्वपूर्ण रोजगार सृजित हुए हैं।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:38:56+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-navy-to-induct-indigenous-stealth-frigate-mahendragiri-into-eastern-fleet/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM3YdywaAAAs7e9.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कई राज्यों में अगले 3-4 दिन भारी से अत्यधिक बारिश का ऑरेंज अलर्ट",
-        "summary": "मौसम विभाग ने अगले तीन से चार दिन के दौरान बिहार, उत्तर प्रदेश, असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा और पश्चिम बंगाल के तराई वाले क्षेत्रों तथा सिक्किम में मूसलाधार और कुछ स्थानों पर अत्यधिक बारिश का ओरेंज अलर्ट जारी किया है।",
-        "article": "मौसम विभाग ने अगले तीन से चार दिन के दौरान बिहार, उत्तर प्रदेश, असम, मेघालय, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा और पश्चिम बंगाल के तराई वाले क्षेत्रों तथा सिक्किम में मूसलाधार और कुछ स्थानों पर अत्यधिक बारिश का ओरेंज अलर्ट जारी किया है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:36:33+00:00",
-        "link": "https://newsonair.gov.in/hi/orange-alert-for-heavy-to-extremely-heavy-rainfall-in-several-states-over-the-next-3-4-days/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/rain-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कैलाश मानसरोवर यात्रा का पहले जत्थे ने उत्तराखंड के पिथौरागढ़ जिले के लिपुलेख दर्रे से चीन में किया प्रवेश",
-        "summary": "कैलाश मानसरोवर यात्रा का पहला जत्था आज उत्तराखंड के पिथौरागढ़ जिले के लिपुलेख दर्रे से चीन में प्रवेश कर गया। भारत-तिब्बत सीमा पुलिस के अधिकारियों ने जत्‍थे की सभी आवश्यक आव्रजन और सीमा संबंधी औपचारिकताओं को पूरा करवाया। इस जत्थे में 52 सदस्य हैं, जिनमें 48 तीर्थयात्री, एक चिकित्सा कर्मी और तीन रसोइये हैं। चीन […]",
-        "article": "कैलाश मानसरोवर यात्रा का पहला जत्था आज उत्तराखंड के पिथौरागढ़ जिले के लिपुलेख दर्रे से चीन में प्रवेश कर गया। भारत-तिब्बत सीमा पुलिस के अधिकारियों ने जत्&#x200d;थे की सभी आवश्यक आव्रजन और सीमा संबंधी औपचारिकताओं को पूरा करवाया। इस जत्थे में 52 सदस्य हैं, जिनमें 48 तीर्थयात्री, एक चिकित्सा कर्मी और तीन रसोइये हैं। चीन में प्रवेश करने के बाद, समूह आगामी दिनों में पवित्र कैलाश पर्वत और मानसरोवर झील की यात्रा से पहले निर्धारित शिविरों में विश्राम करेगा। प्रशासन और सुरक्षा एजेंसियों ने तीर्थयात्रा को सुरक्षित और सुचारू रूप से संपन्न कराने के लिए लिपुलेख मार्ग पर व्यापक व्यवस्था की है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:31:28+00:00",
-        "link": "https://newsonair.gov.in/hi/the-first-batch-of-the-kailash-mansarovar-yatra-entered-china-via-the-lipulekh-pass-in-uttarakhands-pithoragarh-district/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/kailash-mansarovar.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
       {
         "title": "पिछले 18 महीनों में निधि कटौती के कारण लगभग दस लाख महिलाएं आवश्यक मानवीय सहायता से वंचित: संयुक्त राष्ट्र महिला संगठन, संयुक्त राष्ट्र",
         "summary": "संयुक्त राष्ट्र की संस्था संयुक्त राष्ट्र महिला संगठन ने कहा है कि पिछले 18 महीनों में निधि कटौती के कारण लगभग दस लाख महिलाएं आवश्यक मानवीय सहायता से वंचित रह गई हैं। संस्था ने कहा कि जनवरी 2025 में अमरीकी राष्ट्रपति डॉनाल्ड ट्रम्प के पदभार ग्रहण करने के बाद विदेशी सहायता में की गई कटौती […]",
@@ -1113,13 +1036,13 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "मानसून सत्र की तैयारियों की समीक्षा, संसदीय कार्य राज्य मंत्रियों ने दिए निर्देश",
-        "summary": "संसदीय कार्य राज्य मंत्री अर्जुन राम मेघवाल और डॉ. एल. मुरुगन ने आज संसद भवन परिसर में आगामी मानसून सत्र की तैयारियों की समीक्षा की। संसद का सत्र 20 जुलाई से 13 अगस्त तक चलेगा। सोशल मीडिया पोस्ट में श्री मेघवाल ने बताया कि आगामी सत्र के लिए निर्धारित विधायी कार्यों की समीक्षा की गई […]",
-        "article": "संसदीय कार्य राज्य मंत्री अर्जुन राम मेघवाल और डॉ. एल. मुरुगन ने आज संसद भवन परिसर में आगामी मानसून सत्र की तैयारियों की समीक्षा की। संसद का सत्र 20 जुलाई से 13 अगस्त तक चलेगा। सोशल मीडिया पोस्ट में श्री मेघवाल ने बताया कि आगामी सत्र के लिए निर्धारित विधायी कार्यों की समीक्षा की गई और आवश्यक निर्देश जारी किए गए।",
+        "title": "भारत-ओमान के बीच खाड़ी क्षेत्र में शांति तथा स्थिरता सुनिश्चित करने के प्रयासों पर व्यापक विचार-विमर्श",
+        "summary": "विदेश मंत्री डॉ. एस. जयशंकर ने आज मस्कत में ओमान के विदेश मंत्री बदर-बिन-हमद-अल बुसैदी से मुलाकात की और दोनों देशों के बीच सहयोग के विभिन्न पहलुओं पर चर्चा की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि चर्चा व्यापार, निवेश, संपर्क, समुद्री क्षेत्र, प्रौद्योगिकी, रक्षा और साइबर तथा एआई क्षेत्रों पर केंद्रित रही। […]",
+        "article": "विदेश मंत्री डॉ. एस. जयशंकर ने आज मस्कत में ओमान के विदेश मंत्री बदर-बिन-हमद-अल बुसैदी से मुलाकात की और दोनों देशों के बीच सहयोग के विभिन्न पहलुओं पर चर्चा की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि चर्चा व्यापार, निवेश, संपर्क, समुद्री क्षेत्र, प्रौद्योगिकी, रक्षा और साइबर तथा एआई क्षेत्रों पर केंद्रित रही। दोनों नेताओं ने खाड़ी क्षेत्र में हो रहे घटनाक्रमों और क्षेत्र में शांति तथा स्थिरता सुनिश्चित करने के प्रयासों पर भी व्यापक विचार-विमर्श किया। डॉ. जयशंकर ने कहा कि चर्चा से दोनों देशों के बीच रणनीतिक साझेदारी के विश्&#x200d;वास और मजबूती का पता चलता है। इस बीच, ओमान के विदेश मंत्री ने कहा कि भारत और ओमान के बीच सदियों पुराने समुद्री संबंध दोनों देशों के लोगों को सदियों से जोड़ते रहे हैं और एक-दूसरे के बीच साझेदारी के लिए मजबूत आधार प्रदान करते हैं। सोशल मीडिया पोस्ट में श्री बदर अल बुसैदी ने कहा कि दोनों नेताओं ने होर्मुज जलडमरूमध्य में नौवहन की स्वतंत्रता सुनिश्चित करने के लिए गहन कूटनीति पर चर्चा की और भारत का उसके समर्थन के लिए आभार व्&#x200d;यक्&#x200d;त किया।",
         "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:18:13+00:00",
-        "link": "https://newsonair.gov.in/hi/review-of-preparations-for-the-monsoon-session-ministers-of-state-for-parliamentary-affairs-issue-directives/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/12/Arjun-Meghwal.jpg",
+        "pubDate": "2026-07-10T15:25:34+00:00",
+        "link": "https://newsonair.gov.in/hi/india-and-oman-held-discussion-to-ensure-peace-and-stability-in-the-gulf/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Oman-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1154,6 +1077,61 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/prime-minister-modi-expressed-his-gratitude-to-the-australian-government-and-the-people-of-australia-for-his-visit-to-the-country/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM1iY0CbQAAEOL9.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संघर्ष-संबंधी यौन हिंसा की कड़ी निंदा की",
+        "summary": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते […]",
+        "article": "भारत ने संघर्ष-संबंधी यौन हिंसा &#8211; सीआरएसवी की कड़ी निंदा करते हुए इसे युद्ध, आतंकवाद, यातना और राजनीतिक दमन का एक हथियार बताया है, जिसका प्रयोग समुदायों को अधीन करने, असहमति को दबाने और मानवीय पीड़ा पहुंचाने के लिए किया जाता है। संयुक्त राष्ट्र सुरक्षा परिषद में संघर्ष-संबंधी यौन हिंसा पर खुली बहस में बोलते हुए, संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि, राजदूत पी. ​​हरीश ने कहा कि इस तरह की हिंसा दण्ड मुक्ति की प्रचलित संस्कृति के बीच जारी है। उन्&#x200d;होंने कहा कि भारत ऐसे जघन्य कृत्यों की कड़ी निंदा करता है। संयुक्त राष्ट्र महासचिव की रिपोर्ट का संदर्भ देते हुए उन्होंने कहा कि 2025 में सत्यापित मामलों में हुई तीव्र वृद्धि सामूहिक कार्रवाई की तत्काल आवश्यकता को रेखांकित करती है। संयुक्त राष्ट्र शांतिरक्षा में भारत के महत्वपूर्ण योगदानों पर प्रकाश डालते हुए, श्री हरीश ने कहा कि महिला शांतिरक्षकों की तैनाती ने संघर्ष-संबंधी यौन हिंसा से निपटने में &#8220;परिवर्तनकारी प्रभाव&#8221; डाला है। उन्होंने यह घोषणा भी की कि संघर्ष से संबंधित यौन हिंसा को रोकने में उनके उत्कृष्ट प्रयासों के लिए भारतीय शांति रक्षक मेजर मोइज़ यासीन और मेजर सोनिया देवेंद्र नवस्कर को वर्ष 2026 के लिए संयुक्त राष्ट्र महासचिव का मिलिट्री जेंडर ऑफ द ईयर का मान्&#x200d;यता प्रमाणपत्र प्रदान किया जाएगा।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:35:00+00:00",
+        "link": "https://newsonair.gov.in/hi/india-strongly-condemned-conflict-related-sexual-violence/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-10-070515-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत",
+        "summary": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत हो चुकी है और छह लोग घायल हो गए हैं। स्पेन की सैन्य आपातकालीन इकाई, आने वाले घंटों में आग बुझाने के प्रयासों में शामिल होने हसो सकती है। आग से सड़कें भी बंद हो गईं और […]",
+        "article": "स्पेन के दक्षिणी भाग में भीषण गर्मी के बीच लगी आग में अब तक 11 लोगों की मौत हो चुकी है और छह लोग घायल हो गए हैं। स्पेन की सैन्य आपातकालीन इकाई, आने वाले घंटों में आग बुझाने के प्रयासों में शामिल होने हसो सकती है। आग से सड़कें भी बंद हो गईं और एक हजार से अधिक लोगों को सुरक्षित स्थानों पर पहुंचाया गया। अधिकारियों ने कहा कि यह आग अब तक इस क्षेत्र में लगी सबसे घातक आग है।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:20:56+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a5%87%e0%a4%a8-%e0%a4%95%e0%a5%87-%e0%a4%a6%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a3%e0%a5%80-%e0%a4%ad%e0%a4%be%e0%a4%97-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%ad/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM2i8CvbQAAgtlX.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका के राष्ट्रपति डॉनल्‍ड ट्रंप और इस्राएल के प्रधानमंत्री बेन्‍यामिन नेतन्याहू के बीच बातचीत",
+        "summary": "अमरीका के राष्ट्रपति डॉनल्‍ड ट्रंप ने ईरान में हाल में हमलों के बाद इस्राएल के प्रधानमंत्री बेन्‍यामिन नेतन्याहू को खाड़ी क्षेत्र में अमरीकी सेना की नई गतिविधियों के बारे में जानकारी दी है। इस्राएल के प्रधानमंत्री कार्यालय के अनुसार, दोनों नेताओं ने कल रात फोन पर बातचीत की और अमरीका और इस्राएल के बीच विभिन्‍न […]",
+        "article": "अमरीका के राष्ट्रपति डॉनल्&#x200d;ड ट्रंप ने ईरान में हाल में हमलों के बाद इस्राएल के प्रधानमंत्री बेन्&#x200d;यामिन नेतन्याहू को खाड़ी क्षेत्र में अमरीकी सेना की नई गतिविधियों के बारे में जानकारी दी है। इस्राएल के प्रधानमंत्री कार्यालय के अनुसार, दोनों नेताओं ने कल रात फोन पर बातचीत की और अमरीका और इस्राएल के बीच विभिन्&#x200d;न क्षेत्रों में तालमेल बनाए रखने पर सहमति व्&#x200d;यक्&#x200d;त की। इस बीच, ईरान के इस्लामिक रिवोल्यूशनरी गार्ड ने कल दावा किया कि उसने उत्तरी जॉर्डन में अमरीका के अल-अज़राक सैन्&#x200d;य हवाई अड्डे पर दस बैलिस्टिक मिसाइलें दागीं। उसने कहा कि यह हमला तेहरान पर हाल ही में हुए अमरीकी हमले के जवाब में किया गया था। उसने चेतावनी दी कि अमरीका की ओर से किसी भी सैन्य कार्रवाई किए जाने पर जवाब में क्षेत्र में अमरीकी ठिकानों पर और हमले किए जाएंगे।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T08:12:09+00:00",
+        "link": "https://newsonair.gov.in/hi/talks-between-us-president-donald-trump-and-israeli-prime-minister-benjamin-netanyahu/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "फलस्तीन: राष्ट्रपति महमूद अब्बास ने विधायी चुनाव की घोषणा की",
+        "summary": "फलस्तीन के राष्ट्रपति महमूद अब्बास ने इस वर्ष नवंबर के आखिर में विधायी चुनाव कराने की घोषणा की है। वर्ष 2006 के बाद यह पहला विधायी चुनाव होगा। राष्ट्रपति अब्बास ने 28 नवंबर को यरूशलेम, वेस्ट बैंक और गजा पट्टी समेत सभी फलस्तीन क्षेत्रों में मतदान कराने का आदेश जारी किया है। आदेश में कहा […]",
+        "article": "फलस्तीन के राष्ट्रपति महमूद अब्बास ने इस वर्ष नवंबर के आखिर में विधायी चुनाव कराने की घोषणा की है। वर्ष 2006 के बाद यह पहला विधायी चुनाव होगा। राष्ट्रपति अब्बास ने 28 नवंबर को यरूशलेम, वेस्ट बैंक और गजा पट्टी समेत सभी फलस्तीन क्षेत्रों में मतदान कराने का आदेश जारी किया है। आदेश में कहा गया है कि चुनाव का उद्देश्य फलस्तीन में लोकतांत्रिक प्रक्रिया को मजबूत करना और चुनावी प्रक्रिया को आगे बढ़ाना है।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:38:04+00:00",
+        "link": "https://newsonair.gov.in/hi/palestine-president-mahmoud-abbas-announces-legislative-elections/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "तेल की भारी अतिरिक्त आपूर्ति का अनुमान गलत साबित हो सकता है: आई ई ए",
+        "summary": "इंटरनेशनल एनर्जी एजेंसी -आई ई ए ने आज कहा कि अमरीका और ईरान के बीच तनाव दोबारा बढ़ने से 2027 में दुनिया भर में तेल की भारी अतिरिक्त आपूर्ति का उसका अनुमान गलत साबित हो सकता है। एजेंसी की रिपोर्ट के अनुसार जून में वैश्‍विक तेल आपूर्ति चार दशमलव एक मिलियन बैरल प्रति दिन बढ़कर […]",
+        "article": "इंटरनेशनल एनर्जी एजेंसी -आई ई ए ने आज कहा कि अमरीका और ईरान के बीच तनाव दोबारा बढ़ने से 2027 में दुनिया भर में तेल की भारी अतिरिक्त आपूर्ति का उसका अनुमान गलत साबित हो सकता है। एजेंसी की रिपोर्ट के अनुसार जून में वैश्&#x200d;विक तेल आपूर्ति चार दशमलव एक मिलियन बैरल प्रति दिन बढ़कर 98.8 मिलियन बैरल प्रति दिन हो गई। यह बढ़ोतरी इसलिए हुई क्योंकि युद्धविराम के बाद होर्मुज जलडमरूमध्य के पास फंसे टैंकरों ने अपनी यात्रा फिर से शुरू कर दी है। इस सुधार के बावजूद, वैश्विक उत्पादन युद्ध से पहले के स्तर से 9.4 मिलियन बैरल प्रति दिन कम है। एजेंसी का अनुमान है कि इस साल वैश्विक तेल की मांग में एक मिलियन बैरल प्रति दिन की कमी आएगी, लेकिन 2027 में इसमें 2 मिलियन बैरल प्रति दिन की बढ़ोतरी होगी; यह छह वर्षों में पहली वार्षिक गिरावट होगी। वहीं, एजेंसी का अनुमान है कि इस साल 3.7 मिलियन बैरल प्रति दिन की कमी के बाद अगले साल ऑयल सप्लाई में 7.5 मिलियन बैरल प्रति दिन की बढ़ोतरी होगी, लेकिन यह रिकवरी होर्मुज जलडमरूमध्य से बेहतर ट्रांजिट फ्लो (आवाजाही) पर निर्भर करती है।",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T13:38:53+00:00",
+        "link": "https://newsonair.gov.in/hi/the-forecast-of-a-massive-oil-oversupply-could-prove-to-be-incorrect/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
