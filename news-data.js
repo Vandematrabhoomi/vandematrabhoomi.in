@@ -1,6 +1,6 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-12T02:35:04.782139",
+  "generated": "2026-07-12T05:59:50.267015",
   "en": {
     "top": [
       {
@@ -15,6 +15,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "Vietnam government orders probe into speedboat tragedy that killed 15 Indian tourists",
+        "summary": "Vietnamese Prime Minister Le Minh Hun has ordered a probe into the speedboat tragedy near Phu Quoc Island that claimed the lives of 15 Indian tourists. According to a statement issued by the Consulate General of Vietnam in Mumbai, PM Hun asked authorities to identify shortcomings, determine both the direct and indirect causes of […]",
+        "article": "Vietnamese Prime Minister Le Minh Hun has ordered a probe into the speedboat tragedy near Phu Quoc Island that claimed the lives of 15 Indian tourists. According to a statement issued by the Consulate General of Vietnam in Mumbai, PM Hun asked authorities to identify shortcomings, determine both the direct and indirect causes of the accident, and implement corrective measures to prevent similar incidents in the future. The Vietnamese Prime Minister also directed authorities to take strict legal action against anyone found to have violated regulations that may have caused the accident. Vietnamese Prime Minister also directed authorities to assist victims and their families. The Consulate General further stated that the Prime Minister has directed authorities to mobilise all necessary medical resources and supplies to treat the injured, minimise further loss of life and provide support and encouragement to the families of those who lost their loved ones in the accident. The tragic incident occurred yesterday when the speedboat carrying 36 people, including 4 crew members, flipped after reportedly being hit by a sudden wave off Rut Ngoai Islet. While local authorities managed to rescue 21 people, 15 Indians, including 2 women, were dead. The Indian embassy in Vietnam released the list of the deceased provided by the Vietnamese authorities. Of the 15 deceased, 10 are from Tamil Nadu, three from Andhra Pradesh, and two from Kerala. External Affairs Minister Dr S Jaishankar has expressed grief over the Vietnam boat accident, which resulted in the death of 15 Indian nationals near Phu Quoc Island, Vietnam. In a social media post, Dr Jaishankar said that he is deeply distressed by the unfortunate boat accident. The External Affairs Minister conveyed his condolences to the bereaved families. He also wished for the swift recovery of those injured.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:18:33+00:00",
+        "link": "https://newsonair.gov.in/rescue-operations-underway-after-boat-carrying-indian-tourists-capsizes-near-phu-quoc-island/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-5.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "US launches new round of strikes against Iran after IRGC forces attack container ship transiting Strait of Hormuz",
         "summary": "The United States launched a new round of strikes against Iran after Islamic Revolutionary Guard Corps (IRGC) forces attacked a Cyprus-flagged container ship transiting the Strait of Hormuz. US military said the strikes were carried out at the direction of President Donald Trump. US CENTCOM said the attack on the commercial vessel left […]",
         "article": "The United States launched a new round of strikes against Iran after Islamic Revolutionary Guard Corps (IRGC) forces attacked a Cyprus-flagged container ship transiting the Strait of Hormuz. US military said the strikes were carried out at the direction of President Donald Trump. US CENTCOM said the attack on the commercial vessel left a civilian crew member missing and the vessel is unable to continue the journey due to an onboard fire and significant engine room damage. Explosions were heard in Qeshm Island, Bandar Abbas and Sirik following the attacks. Meanwhile, Iran has closed Strait of Hormuz until further notice. Iran&#8217;s IRGC Navy said the sea route was closed following an incident involving a vessel that attempted to use an unauthorised route. The force said no ships will be allowed to transit through the strategic waterway until what it called US interference in the region ends. The announcement came after the IRGC claimed it fired a warning shot and stopped the vessel. IRGC Navy said any attempt by the enemy to use the recent Strait of Hormuz incident as a pretext for further action will invite a severe response. The US is demanding that Iran make a public statement saying the Strait of Hormuz is open and that ships crossing the vital corridor will not be attacked anymore. Senior US officials said that internal power struggles in Tehran have made it difficult to reach and keep a deal. Meanwhile, US President Donald Trump said that negotiations with Iran will continue despite tensions. His comments came as the fragile interim agreement came under strain following renewed military exchanges in the region. Iran insists the Strait of Hormuz must remain under its control and maintains its demand that vessels passing through the strategic waterway pay fees. Iran said it has exclusive authority over activities in the strait. However, Oman has proposed having two separately managed routes for shipping through the Strait of Hormuz &#8211; one through Iranian waters and another through Omani waters. Tehran had rejected a similar proposal in earlier discussions, insisting on a single management system involving both countries. Iranian officials remain concerned that separate routes could allow ships to bypass Iranian waters, reducing Tehran’s leverage in negotiations.",
@@ -23,17 +34,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/us-launches-new-round-of-strikes-against-iran-after-irgc-forces-attack-container-ship-transiting-strait-of-hormuz/",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ISS-44_Strait_of_Gibraltar.jpg/1280px-ISS-44_Strait_of_Gibraltar.jpg",
         "image_credit": "Wikipedia – Strait (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Vietnam government orders probe into speedboat tragedy that killed 15 Indian tourists",
-        "summary": "Vietnamese Prime Minister Le Minh Hun has ordered a probe into the speedboat tragedy near Phu Quoc Island that claimed the lives of 15 Indian tourists. According to a statement issued by the Consulate General of Vietnam in Mumbai, PM Hun asked authorities to identify shortcomings, determine both the direct and indirect causes of […]",
-        "article": "Vietnamese Prime Minister Le Minh Hun has ordered a probe into the speedboat tragedy near Phu Quoc Island that claimed the lives of 15 Indian tourists. According to a statement issued by the Consulate General of Vietnam in Mumbai, PM Hun asked authorities to identify shortcomings, determine both the direct and indirect causes of the accident, and implement corrective measures to prevent similar incidents in the future. The Vietnamese Prime Minister also directed authorities to take strict legal action against anyone found to have violated regulations that may have caused the accident. Vietnamese Prime Minister also directed authorities to assist victims and their families. The Consulate General further stated that the Prime Minister has directed authorities to mobilise all necessary medical resources and supplies to treat the injured, minimise further loss of life and provide support and encouragement to the families of those who lost their loved ones in the accident. The tragic incident occurred yesterday when the speedboat carrying 36 people, including 4 crew members, flipped after reportedly being hit by a sudden wave off Rut Ngoai Islet. While local authorities managed to rescue 21 people, 15 Indians, including 2 women, were dead. The Indian embassy in Vietnam released the list of the deceased provided by the Vietnamese authorities. Of the 15 deceased, 10 are from Tamil Nadu, three from Andhra Pradesh, and two from Kerala.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T01:18:33+00:00",
-        "link": "https://newsonair.gov.in/rescue-operations-underway-after-boat-carrying-indian-tourists-capsizes-near-phu-quoc-island/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -70,50 +70,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Vice President, PM Modi express condolences over Vietnam boat tragedy",
-        "summary": "Vice President CP Radhakrishnan and Prime Minister Narendra Modi have expressed condolences at the tragic boat accident involving Indian nationals near Phu Quoc island, Vietnam. In his message, the Vice President prayed for the swift and complete recovery of those injured. He wished strength and courage to all those affected by this tragic incident. &#160; […]",
-        "article": "Vice President CP Radhakrishnan and Prime Minister Narendra Modi have expressed condolences at the tragic boat accident involving Indian nationals near Phu Quoc island, Vietnam. In his message, the Vice President prayed for the swift and complete recovery of those injured. He wished strength and courage to all those affected by this tragic incident. &nbsp; Prime Minister Modi extended condolences to the families who lost their loved ones and hoped for the early recovery of the injured survivors. He said, the Indian Embassy and Consulate in Vietnam are providing all possible assistance and are in close contact with the Vietnamese authorities.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T14:01:38+00:00",
-        "link": "https://newsonair.gov.in/vice-president-pm-modi-express-condolences-over-vietnam-boat-tragedy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Health Ministry launches monthly webinar series on best practices under National Health Mission",
-        "summary": "Union Ministry of Health and Family Welfare has launched the Monthly Webinar Series on Best Practices under the National Health Mission on the occasion of World Population Day 2026. Envisioned as a year-round knowledge-sharing platform, the initiative will bring together States and Union Territories to present successful innovations, exchange implementation experiences, and accelerate the adoption",
-        "article": "Union Ministry of Health and Family Welfare has launched the Monthly Webinar Series on Best Practices under the National Health Mission on the occasion of World Population Day 2026. Envisioned as a year-round knowledge-sharing platform, the initiative will bring together States and Union Territories to present successful innovations, exchange implementation experiences, and accelerate the adoption of evidence-based practices for strengthening healthcare delivery nationwide. &nbsp; Chairing the inaugural session of the webinar, Additonal Secretary in the Ministry, Aradhana Patnaik emphasised that innovation lies at the heart of responsive and resilient public health system. She described the webinar series as an important institutional mechanism to identify, document and disseminate innovative practices. Ms Patnaik called upon all States and Union Territories to actively participate in the webinar series and contribute towards building a culture of continuous learning, knowledge exchange and innovation-driven programme implementation. The inaugural webinar focused on the theme Anaemia, Child and Adolescent Health. More than five hundred officials from the national, State, and district levels attended the webinar, reflecting a strong commitment towards collaborative learning and innovation-driven health system strengthening.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T13:58:52+00:00",
-        "link": "https://newsonair.gov.in/health-ministry-launches-monthly-webinar-series-on-best-practices-under-national-health-mission/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/health-ministry-Webinar-Ser.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Law Ministry holds national conference on integration of regional languages in legal education",
-        "summary": "The Department of Legal Affairs under Ministry of Law and Justice, in collaboration with the Bar Council of India (BCI), today organised a National Conference on Strengthening Legal Education through Integration of Regional Languages in New Delhi. The Conference was organised with the objective of formulating a Ten-Year Perspective Action Plan for promoting Legal Education […]",
-        "article": "The Department of Legal Affairs under Ministry of Law and Justice, in collaboration with the Bar Council of India (BCI), today organised a National Conference on Strengthening Legal Education through Integration of Regional Languages in New Delhi. The Conference was organised with the objective of formulating a Ten-Year Perspective Action Plan for promoting Legal Education in Hindi and other Indian languages and the justice delivery system. The deliberations focused on developing a phased, structured, measurable and quality-assured framework for integrating Indian languages into legal education while preserving English as an important national and international link language. The proposed framework aims to promote a bilingual and progressively multilingual legal education model to enhance legal comprehension, improve access to justice, strengthen legal aid and clinical legal education, and better prepare future legal professionals for practice before district and subordinate courts. The participants also deliberated upon the role of technology in accelerating language integration within the legal ecosystem.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T13:55:08+00:00",
-        "link": "https://newsonair.gov.in/law-ministry-holds-national-conference-on-integration-of-regional-languages-in-legal-education/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/yyyy-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PMFME scheme sanctions loans to over two lakh micro food processing enterprises, says Union Minister Chirag Paswan",
-        "summary": "The Pradhan Mantri Formalisation of Micro Food Processing Enterprises (PMFME) Scheme has crossed the milestone of sanctioning loans to more than two lakh micro food processing enterprises across the country. The Scheme has leveraged project investments of over 20 thousand 300 crore rupees and generated nearly 11 lakh direct and indirect employment opportunities. &#160; Addressing […]",
-        "article": "The Pradhan Mantri Formalisation of Micro Food Processing Enterprises (PMFME) Scheme has crossed the milestone of sanctioning loans to more than two lakh micro food processing enterprises across the country. The Scheme has leveraged project investments of over 20 thousand 300 crore rupees and generated nearly 11 lakh direct and indirect employment opportunities. &nbsp; Addressing a special event in New Delhi today, Union Minister for Food Processing Industries Chirag Paswan said that the achievement is not merely a milestone to celebrate but a strong foundation for the next phase of India&#8217;s food processing growth story. He emphasised that the achievement demonstrates that the vision is translating into measurable outcomes across the country. Mr Paswan also underlined that the participation of women entrepreneurs, at nearly 44 per cent of all beneficiaries, reflects the true spirit of women-led development, a cornerstone of Viksit Bharat. During the event, Mr Paswan also felicitated the two lakh beneficiary, Inderjeet Singh from Ranchi in Jharkhand, and handed over the sanction letter and certificate. On the occasion, the Minister highlighted the Scheme&#8217;s Seed Capital support, under which more than four lakh 18 thousand Self Help Group members have been supported. He said, 80 Common Incubation Centres have been approved across 27 States and Union Territories, of which 32 have been commissioned. He also commended the performance of leading States, including Bihar, Maharashtra, Uttar Pradesh, Tamil Nadu and Madhya Pradesh, and appreciated State Governments, district administrations and field functionaries for transforming a national policy into a grassroots movement for enterprise development. Ministry of Food Processing Industries has said that nearly 90 per cent of the beneficiaries under the Scheme are first-generation entrepreneurs, while 44 per cent are women entrepreneurs. The Ministry noted that over 75 thousand PMFME-supported enterprises have entered the formal economy through registrations such as Udyam Aadhaar, Udyam Assist, FSSAI and GST. It further highlighted that more than one lakh 76 thousand beneficiaries have been trained under the Scheme, of whom 77 per cent are women. Addressing the event, Secretary, Food Processing Industries, A P Das Joshi said the milestone reflects the emergence of a stronger ecosystem for the micro food processing sector in India. He said PMFME combines finance, formalisation, technology, capacity building and market access into an integrated approach for enterprise development. Mr Joshi also highlighted the Scheme&#8217;s network of District Resource Persons. He said their work reflects the successful convergence of Digital India and Ease of Doing Business at the grassroots level. Joint Secretary in the Ministry, Devesh Deval said the PMFME Scheme provides end-to-end support to micro food processing entrepreneurs, including financial assistance, training, handholding, branding, marketing and market linkages. He added that the Scheme is transforming livelihoods, strengthening local value chains and creating sustainable employment opportunities across the country. The officials also highlighted the Scheme&#8217;s One District One Product approach and its support for 40 common brands covering nearly 200 products. The initiative is building local value chains around products such as Makhana, millets, spices and GI-tagged products across the country. The event featured the release of key …",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T12:49:57+00:00",
-        "link": "https://newsonair.gov.in/pmfme-scheme-sanctions-loans-to-over-two-lakh-micro-food-processing-enterprises-says-union-minister-chirag-paswan/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM8j_Noa0AA5O_b-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Qatari delegation is in Iran, aims to boost mediation role, Iranian media says",
         "summary": "Iranian state media has reported that a Qatari delegation is visiting Tehran in an effort by Doha to strengthen its role as a mediator following the recent escalation of hostilities in the Gulf region. The report said the visit comes after Qatar accused Iran of involvement in an alleged incident in the Strait of Hormuz, […]",
         "article": "Iranian state media has reported that a Qatari delegation is visiting Tehran in an effort by Doha to strengthen its role as a mediator following the recent escalation of hostilities in the Gulf region. The report said the visit comes after Qatar accused Iran of involvement in an alleged incident in the Strait of Hormuz, followed by US strikes on Iranian military and civilian targets. It added that Qatari officials are holding talks with Iranian authorities to help de-escalate tensions and create conditions for wider negotiations. The discussions are reportedly being conducted in coordination with the United States.",
@@ -132,6 +88,50 @@ window.VM_NEWS = {
         "pubDate": "2026-07-10T07:45:40+00:00",
         "link": "https://newsonair.gov.in/palestinian-authority-president-mahmoud-abbas-announces-legislative-elections-in-late-november/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-3-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
+        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
+        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:12:43+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FIH-Hockey-Pro-League.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "UK expresses concern over unrest in PoJK due to brutal crackdown on civilians by Pak security forces",
+        "summary": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party",
+        "article": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party leader and MP, Bob Blackman, said that Pakistani security forces had opened fire on peaceful demonstrators in PoJK, resulting in multiple deaths and injuries of civilians, including British nationals. He asked the British government whether it had summoned Pakistan&#8217;s High Commissioner over the reported violence and what steps had been taken to protect innocent bystanders. Raising the issue in a parliamentary debate, another UK lawmaker, Imran Hussain, voiced serious concern over continued bloodshed, arbitrary arrests and restrictions on communication in PoJK. Hussain said that reports suggesting restrictions on the movement of food and medical supplies into several parts of the region are deeply alarming. He emphasised that respect for the human rights of Kashmiris in PoJK must remain at the heart of any negotiations. The Joint Awami Action Committee, JAAC has warned Pakistan it will launch final action if its demands are unmet, inviting global observers to witness the situation. These demands include economic reforms, fair resource distribution, reduced paramilitary presence, and changes to legislative seat allocations. JAAC leader Sardar Aman Khan has sought humanitarian aid from India, citing shortages due to an alleged blockade and military crackdown. He accused Islamabad of hypocrisy for labelling activists as terrorists.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T14:31:52+00:00",
+        "link": "https://newsonair.gov.in/uk-expresses-concern-over-unrest-in-pojk-due-to-brutal-crackdown-on-civilians-by-pak-security-forces/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Iran accuses US of alleged airstrike near nuke power plant in Bushehr",
+        "summary": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the […]",
+        "article": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the United States launched new airstrikes against Iran, and Tehran responded by targeting US-allied countries in the West Asia in an exchange of fire that threatened an interim deal intended to help end the war in the West Asia. Sirens sounding at least three times in Bahrain, home to the US Navy&#8217;s 5th Fleet headquarters, and Iranian missiles targeting Kuwait and Qatar. Sirens sounded Thursday afternoon in Jordan as well, where the US has stationed troops and aircraft. In Iran, the two days of American airstrikes have killed at least 14 people and wounded another 78, according to Iran&#8217;s Health Ministry. Most of those reportedly members of the armed forces. Back-and-forth attacks, including a day earlier, have repeatedly threatened the ceasefire, but today&#8217;s exchange of fire appeared bigger all around. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz signalled the end of a fragile ceasefire and threatened to escalate the conflict if they did not stop.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T12:00:53+00:00",
+        "link": "https://newsonair.gov.in/iran-accuses-us-of-alleged-airstrike-near-nuke-power-plant-in-bushehr/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian diaspora gathers in large numbers for ‘Melbourne Meets Modi’ event",
+        "summary": "The air inside Melbourne’s iconic Marvel Stadium is vibrating with raw, electric energy as a massive crowd of ecstatic members of the Indian-Australian community is gathering for the historic &#8220;Melbourne Meets Modi&#8221; diaspora event. It is not a world-class sporting finale or a stadium-rock concert drawing this ocean of people, but a loud, high-octane celebration […]",
+        "article": "The air inside Melbourne’s iconic Marvel Stadium is vibrating with raw, electric energy as a massive crowd of ecstatic members of the Indian-Australian community is gathering for the historic &#8220;Melbourne Meets Modi&#8221; diaspora event. It is not a world-class sporting finale or a stadium-rock concert drawing this ocean of people, but a loud, high-octane celebration of cultural pride and shared heritage. The venue is transforming into a spectacular sea of tricolour flags, traditional attire, and deafening cheers. As roaring chants are bouncing off the stadium&#8217;s retractable roof, this grand gathering is proving that the diaspora is truly acting as a vibrant force driving the future of the India-Australia strategic partnership.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T08:20:24+00:00",
+        "link": "https://newsonair.gov.in/indian-diaspora-gathers-in-large-numbers-for-melbourne-meets-modi-event/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indian-diaspora-gathers-in-large-numbers-for-Melbourne-Meets-Modi-event.webp",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -171,47 +171,47 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Vice President, PM Modi express condolences over Vietnam boat tragedy",
-        "summary": "Vice President CP Radhakrishnan and Prime Minister Narendra Modi have expressed condolences at the tragic boat accident involving Indian nationals near Phu Quoc island, Vietnam. In his message, the Vice President prayed for the swift and complete recovery of those injured. He wished strength and courage to all those affected by this tragic incident. &#160; […]",
-        "article": "Vice President CP Radhakrishnan and Prime Minister Narendra Modi have expressed condolences at the tragic boat accident involving Indian nationals near Phu Quoc island, Vietnam. In his message, the Vice President prayed for the swift and complete recovery of those injured. He wished strength and courage to all those affected by this tragic incident. &nbsp; Prime Minister Modi extended condolences to the families who lost their loved ones and hoped for the early recovery of the injured survivors. He said, the Indian Embassy and Consulate in Vietnam are providing all possible assistance and are in close contact with the Vietnamese authorities.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T14:01:38+00:00",
-        "link": "https://newsonair.gov.in/vice-president-pm-modi-express-condolences-over-vietnam-boat-tragedy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "India lifts special travel conditions for Yemen, withdraws 2017 notification",
+        "summary": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the […]",
+        "article": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the Ministry of External Affairs said that it continues to advise all Indian nationals to refrain from non-essential travel to Yemen. MEA said that if travel is unavoidable, it should be undertaken only after a thorough assessment of the local security situation and travel to active conflict zones must be avoided. The Ministry advised Indian nationals residing in Yemen to be alert and to restrict their movements within Yemen. MEA also advised Indian nationals in Yemen and those who need to travel to Yemen to register with the Embassy of India in Riyadh to facilitate better communication and assistance in case of emergencies.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T05:57:28+00:00",
+        "link": "https://newsonair.gov.in/india-lifts-special-travel-conditions-for-yemen-withdraws-2017-notification/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Health Ministry launches monthly webinar series on best practices under National Health Mission",
-        "summary": "Union Ministry of Health and Family Welfare has launched the Monthly Webinar Series on Best Practices under the National Health Mission on the occasion of World Population Day 2026. Envisioned as a year-round knowledge-sharing platform, the initiative will bring together States and Union Territories to present successful innovations, exchange implementation experiences, and accelerate the adoption",
-        "article": "Union Ministry of Health and Family Welfare has launched the Monthly Webinar Series on Best Practices under the National Health Mission on the occasion of World Population Day 2026. Envisioned as a year-round knowledge-sharing platform, the initiative will bring together States and Union Territories to present successful innovations, exchange implementation experiences, and accelerate the adoption of evidence-based practices for strengthening healthcare delivery nationwide. &nbsp; Chairing the inaugural session of the webinar, Additonal Secretary in the Ministry, Aradhana Patnaik emphasised that innovation lies at the heart of responsive and resilient public health system. She described the webinar series as an important institutional mechanism to identify, document and disseminate innovative practices. Ms Patnaik called upon all States and Union Territories to actively participate in the webinar series and contribute towards building a culture of continuous learning, knowledge exchange and innovation-driven programme implementation. The inaugural webinar focused on the theme Anaemia, Child and Adolescent Health. More than five hundred officials from the national, State, and district levels attended the webinar, reflecting a strong commitment towards collaborative learning and innovation-driven health system strengthening.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T13:58:52+00:00",
-        "link": "https://newsonair.gov.in/health-ministry-launches-monthly-webinar-series-on-best-practices-under-national-health-mission/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/health-ministry-Webinar-Ser.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "Union Minister Shivraj Singh Chouhan to participate in Paryavaran Sanrakshan Sankalp’ program at the PUSA Campus in New Delhi today",
+        "summary": "Union Minister for Agriculture and Farmers Welfare Shivraj Singh Chouhan will participate in the Paryavaran Sanrakshan Sankalp&#8217; program at the PUSA Campus in New Delhi today. On the occasion, he will interact with nearly 17 thousand Vriksh Mitras from across the country and call for transforming environmental conservation into a nationwide people&#8217;s movement through active […]",
+        "article": "Union Minister for Agriculture and Farmers Welfare Shivraj Singh Chouhan will participate in the Paryavaran Sanrakshan Sankalp&#8217; program at the PUSA Campus in New Delhi today. On the occasion, he will interact with nearly 17 thousand Vriksh Mitras from across the country and call for transforming environmental conservation into a nationwide people&#8217;s movement through active public participation. The program will witness the participation of Vriksh Mitras from nearly every state in the country who have made notable contributions in the fields of tree plantation, water conservation and ecological restoration. As part of the programme, the agriculture minister will undertake a plantation drive with the participating Vriksh Mitras at the PUSA Campus, reaffirming the collective commitment towards a greener India.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T05:49:51+00:00",
+        "link": "https://newsonair.gov.in/union-minister-shivraj-singh-chouhan-to-participate-in-paryavaran-sanrakshan-sankalp-program-at-the-pusa-campus-in-new-delhi-today/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Law Ministry holds national conference on integration of regional languages in legal education",
-        "summary": "The Department of Legal Affairs under Ministry of Law and Justice, in collaboration with the Bar Council of India (BCI), today organised a National Conference on Strengthening Legal Education through Integration of Regional Languages in New Delhi. The Conference was organised with the objective of formulating a Ten-Year Perspective Action Plan for promoting Legal Education […]",
-        "article": "The Department of Legal Affairs under Ministry of Law and Justice, in collaboration with the Bar Council of India (BCI), today organised a National Conference on Strengthening Legal Education through Integration of Regional Languages in New Delhi. The Conference was organised with the objective of formulating a Ten-Year Perspective Action Plan for promoting Legal Education in Hindi and other Indian languages and the justice delivery system. The deliberations focused on developing a phased, structured, measurable and quality-assured framework for integrating Indian languages into legal education while preserving English as an important national and international link language. The proposed framework aims to promote a bilingual and progressively multilingual legal education model to enhance legal comprehension, improve access to justice, strengthen legal aid and clinical legal education, and better prepare future legal professionals for practice before district and subordinate courts. The participants also deliberated upon the role of technology in accelerating language integration within the legal ecosystem.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T13:55:08+00:00",
-        "link": "https://newsonair.gov.in/law-ministry-holds-national-conference-on-integration-of-regional-languages-in-legal-education/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/yyyy-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "FSSAI issues notices to Swiggy Instamart over alleged food safety violations",
+        "summary": "The Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing […]",
+        "article": "The Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing which appropriate legal action will be initiated. Consumer complaints alleged the supply of expired, spoiled, rotten, contaminated and otherwise unsafe food products through Swiggy Instamart. The Food Regulator&#8217;s notices also raised concerns over incorrect, invalid or non-existent licence numbers and food business entities allegedly operating under names different from those registered with FSSAI.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T05:32:38+00:00",
+        "link": "https://newsonair.gov.in/fssai-issues-notices-to-swiggy-instamart-over-alleged-food-safety-violations/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "PMFME scheme sanctions loans to over two lakh micro food processing enterprises, says Union Minister Chirag Paswan",
-        "summary": "The Pradhan Mantri Formalisation of Micro Food Processing Enterprises (PMFME) Scheme has crossed the milestone of sanctioning loans to more than two lakh micro food processing enterprises across the country. The Scheme has leveraged project investments of over 20 thousand 300 crore rupees and generated nearly 11 lakh direct and indirect employment opportunities. &#160; Addressing […]",
-        "article": "The Pradhan Mantri Formalisation of Micro Food Processing Enterprises (PMFME) Scheme has crossed the milestone of sanctioning loans to more than two lakh micro food processing enterprises across the country. The Scheme has leveraged project investments of over 20 thousand 300 crore rupees and generated nearly 11 lakh direct and indirect employment opportunities. &nbsp; Addressing a special event in New Delhi today, Union Minister for Food Processing Industries Chirag Paswan said that the achievement is not merely a milestone to celebrate but a strong foundation for the next phase of India&#8217;s food processing growth story. He emphasised that the achievement demonstrates that the vision is translating into measurable outcomes across the country. Mr Paswan also underlined that the participation of women entrepreneurs, at nearly 44 per cent of all beneficiaries, reflects the true spirit of women-led development, a cornerstone of Viksit Bharat. During the event, Mr Paswan also felicitated the two lakh beneficiary, Inderjeet Singh from Ranchi in Jharkhand, and handed over the sanction letter and certificate. On the occasion, the Minister highlighted the Scheme&#8217;s Seed Capital support, under which more than four lakh 18 thousand Self Help Group members have been supported. He said, 80 Common Incubation Centres have been approved across 27 States and Union Territories, of which 32 have been commissioned. He also commended the performance of leading States, including Bihar, Maharashtra, Uttar Pradesh, Tamil Nadu and Madhya Pradesh, and appreciated State Governments, district administrations and field functionaries for transforming a national policy into a grassroots movement for enterprise development. Ministry of Food Processing Industries has said that nearly 90 per cent of the beneficiaries under the Scheme are first-generation entrepreneurs, while 44 per cent are women entrepreneurs. The Ministry noted that over 75 thousand PMFME-supported enterprises have entered the formal economy through registrations such as Udyam Aadhaar, Udyam Assist, FSSAI and GST. It further highlighted that more than one lakh 76 thousand beneficiaries have been trained under the Scheme, of whom 77 per cent are women. Addressing the event, Secretary, Food Processing Industries, A P Das Joshi said the milestone reflects the emergence of a stronger ecosystem for the micro food processing sector in India. He said PMFME combines finance, formalisation, technology, capacity building and market access into an integrated approach for enterprise development. Mr Joshi also highlighted the Scheme&#8217;s network of District Resource Persons. He said their work reflects the successful convergence of Digital India and Ease of Doing Business at the grassroots level. Joint Secretary in the Ministry, Devesh Deval said the PMFME Scheme provides end-to-end support to micro food processing entrepreneurs, including financial assistance, training, handholding, branding, marketing and market linkages. He added that the Scheme is transforming livelihoods, strengthening local value chains and creating sustainable employment opportunities across the country. The officials also highlighted the Scheme&#8217;s One District One Product approach and its support for 40 common brands covering nearly 200 products. The initiative is building local value chains around products such as Makhana, millets, spices and GI-tagged products across the country. The event featured the release of key …",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T12:49:57+00:00",
-        "link": "https://newsonair.gov.in/pmfme-scheme-sanctions-loans-to-over-two-lakh-micro-food-processing-enterprises-says-union-minister-chirag-paswan/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM8j_Noa0AA5O_b-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "PM Modi expresses grief over the demise of distinguished playback singer S Janaki Amma",
+        "summary": "Prime Minister Narendra Modi has expressed grief over the demise of distinguished playback singer S. Janaki Amma. In a social media post, Mr Modi said that the passing of S Janaki Amma is an irreparable loss to the world of music and culture. Prime Minister said that her songs in various languages were popular across […]",
+        "article": "Prime Minister Narendra Modi has expressed grief over the demise of distinguished playback singer S. Janaki Amma. In a social media post, Mr Modi said that the passing of S Janaki Amma is an irreparable loss to the world of music and culture. Prime Minister said that her songs in various languages were popular across generations, and they gave voice to every emotion with unparalleled grace as well as versatility. He said that S Janaki Amma&#8217;s melodies will continue to enchant listeners in the years to come. Mr Modi conveyed his condolences to her family, countless admirers and the entire music fraternity in this hour of grief.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T04:44:47+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-expresses-grief-over-the-demise-of-distinguished-playback-singer-s-janaki-amma/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -283,47 +283,47 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Vice President, PM Modi express condolences over Vietnam boat tragedy",
-        "summary": "Vice President CP Radhakrishnan and Prime Minister Narendra Modi have expressed condolences at the tragic boat accident involving Indian nationals near Phu Quoc island, Vietnam. In his message, the Vice President prayed for the swift and complete recovery of those injured. He wished strength and courage to all those affected by this tragic incident. &#160; […]",
-        "article": "Vice President CP Radhakrishnan and Prime Minister Narendra Modi have expressed condolences at the tragic boat accident involving Indian nationals near Phu Quoc island, Vietnam. In his message, the Vice President prayed for the swift and complete recovery of those injured. He wished strength and courage to all those affected by this tragic incident. &nbsp; Prime Minister Modi extended condolences to the families who lost their loved ones and hoped for the early recovery of the injured survivors. He said, the Indian Embassy and Consulate in Vietnam are providing all possible assistance and are in close contact with the Vietnamese authorities.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T14:01:38+00:00",
-        "link": "https://newsonair.gov.in/vice-president-pm-modi-express-condolences-over-vietnam-boat-tragedy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "India lifts special travel conditions for Yemen, withdraws 2017 notification",
+        "summary": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the […]",
+        "article": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the Ministry of External Affairs said that it continues to advise all Indian nationals to refrain from non-essential travel to Yemen. MEA said that if travel is unavoidable, it should be undertaken only after a thorough assessment of the local security situation and travel to active conflict zones must be avoided. The Ministry advised Indian nationals residing in Yemen to be alert and to restrict their movements within Yemen. MEA also advised Indian nationals in Yemen and those who need to travel to Yemen to register with the Embassy of India in Riyadh to facilitate better communication and assistance in case of emergencies.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T05:57:28+00:00",
+        "link": "https://newsonair.gov.in/india-lifts-special-travel-conditions-for-yemen-withdraws-2017-notification/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Health Ministry launches monthly webinar series on best practices under National Health Mission",
-        "summary": "Union Ministry of Health and Family Welfare has launched the Monthly Webinar Series on Best Practices under the National Health Mission on the occasion of World Population Day 2026. Envisioned as a year-round knowledge-sharing platform, the initiative will bring together States and Union Territories to present successful innovations, exchange implementation experiences, and accelerate the adoption",
-        "article": "Union Ministry of Health and Family Welfare has launched the Monthly Webinar Series on Best Practices under the National Health Mission on the occasion of World Population Day 2026. Envisioned as a year-round knowledge-sharing platform, the initiative will bring together States and Union Territories to present successful innovations, exchange implementation experiences, and accelerate the adoption of evidence-based practices for strengthening healthcare delivery nationwide. &nbsp; Chairing the inaugural session of the webinar, Additonal Secretary in the Ministry, Aradhana Patnaik emphasised that innovation lies at the heart of responsive and resilient public health system. She described the webinar series as an important institutional mechanism to identify, document and disseminate innovative practices. Ms Patnaik called upon all States and Union Territories to actively participate in the webinar series and contribute towards building a culture of continuous learning, knowledge exchange and innovation-driven programme implementation. The inaugural webinar focused on the theme Anaemia, Child and Adolescent Health. More than five hundred officials from the national, State, and district levels attended the webinar, reflecting a strong commitment towards collaborative learning and innovation-driven health system strengthening.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T13:58:52+00:00",
-        "link": "https://newsonair.gov.in/health-ministry-launches-monthly-webinar-series-on-best-practices-under-national-health-mission/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/health-ministry-Webinar-Ser.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "Union Minister Shivraj Singh Chouhan to participate in Paryavaran Sanrakshan Sankalp’ program at the PUSA Campus in New Delhi today",
+        "summary": "Union Minister for Agriculture and Farmers Welfare Shivraj Singh Chouhan will participate in the Paryavaran Sanrakshan Sankalp&#8217; program at the PUSA Campus in New Delhi today. On the occasion, he will interact with nearly 17 thousand Vriksh Mitras from across the country and call for transforming environmental conservation into a nationwide people&#8217;s movement through active […]",
+        "article": "Union Minister for Agriculture and Farmers Welfare Shivraj Singh Chouhan will participate in the Paryavaran Sanrakshan Sankalp&#8217; program at the PUSA Campus in New Delhi today. On the occasion, he will interact with nearly 17 thousand Vriksh Mitras from across the country and call for transforming environmental conservation into a nationwide people&#8217;s movement through active public participation. The program will witness the participation of Vriksh Mitras from nearly every state in the country who have made notable contributions in the fields of tree plantation, water conservation and ecological restoration. As part of the programme, the agriculture minister will undertake a plantation drive with the participating Vriksh Mitras at the PUSA Campus, reaffirming the collective commitment towards a greener India.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T05:49:51+00:00",
+        "link": "https://newsonair.gov.in/union-minister-shivraj-singh-chouhan-to-participate-in-paryavaran-sanrakshan-sankalp-program-at-the-pusa-campus-in-new-delhi-today/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Law Ministry holds national conference on integration of regional languages in legal education",
-        "summary": "The Department of Legal Affairs under Ministry of Law and Justice, in collaboration with the Bar Council of India (BCI), today organised a National Conference on Strengthening Legal Education through Integration of Regional Languages in New Delhi. The Conference was organised with the objective of formulating a Ten-Year Perspective Action Plan for promoting Legal Education […]",
-        "article": "The Department of Legal Affairs under Ministry of Law and Justice, in collaboration with the Bar Council of India (BCI), today organised a National Conference on Strengthening Legal Education through Integration of Regional Languages in New Delhi. The Conference was organised with the objective of formulating a Ten-Year Perspective Action Plan for promoting Legal Education in Hindi and other Indian languages and the justice delivery system. The deliberations focused on developing a phased, structured, measurable and quality-assured framework for integrating Indian languages into legal education while preserving English as an important national and international link language. The proposed framework aims to promote a bilingual and progressively multilingual legal education model to enhance legal comprehension, improve access to justice, strengthen legal aid and clinical legal education, and better prepare future legal professionals for practice before district and subordinate courts. The participants also deliberated upon the role of technology in accelerating language integration within the legal ecosystem.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T13:55:08+00:00",
-        "link": "https://newsonair.gov.in/law-ministry-holds-national-conference-on-integration-of-regional-languages-in-legal-education/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/yyyy-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "FSSAI issues notices to Swiggy Instamart over alleged food safety violations",
+        "summary": "The Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing […]",
+        "article": "The Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing which appropriate legal action will be initiated. Consumer complaints alleged the supply of expired, spoiled, rotten, contaminated and otherwise unsafe food products through Swiggy Instamart. The Food Regulator&#8217;s notices also raised concerns over incorrect, invalid or non-existent licence numbers and food business entities allegedly operating under names different from those registered with FSSAI.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T05:32:38+00:00",
+        "link": "https://newsonair.gov.in/fssai-issues-notices-to-swiggy-instamart-over-alleged-food-safety-violations/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "PMFME scheme sanctions loans to over two lakh micro food processing enterprises, says Union Minister Chirag Paswan",
-        "summary": "The Pradhan Mantri Formalisation of Micro Food Processing Enterprises (PMFME) Scheme has crossed the milestone of sanctioning loans to more than two lakh micro food processing enterprises across the country. The Scheme has leveraged project investments of over 20 thousand 300 crore rupees and generated nearly 11 lakh direct and indirect employment opportunities. &#160; Addressing […]",
-        "article": "The Pradhan Mantri Formalisation of Micro Food Processing Enterprises (PMFME) Scheme has crossed the milestone of sanctioning loans to more than two lakh micro food processing enterprises across the country. The Scheme has leveraged project investments of over 20 thousand 300 crore rupees and generated nearly 11 lakh direct and indirect employment opportunities. &nbsp; Addressing a special event in New Delhi today, Union Minister for Food Processing Industries Chirag Paswan said that the achievement is not merely a milestone to celebrate but a strong foundation for the next phase of India&#8217;s food processing growth story. He emphasised that the achievement demonstrates that the vision is translating into measurable outcomes across the country. Mr Paswan also underlined that the participation of women entrepreneurs, at nearly 44 per cent of all beneficiaries, reflects the true spirit of women-led development, a cornerstone of Viksit Bharat. During the event, Mr Paswan also felicitated the two lakh beneficiary, Inderjeet Singh from Ranchi in Jharkhand, and handed over the sanction letter and certificate. On the occasion, the Minister highlighted the Scheme&#8217;s Seed Capital support, under which more than four lakh 18 thousand Self Help Group members have been supported. He said, 80 Common Incubation Centres have been approved across 27 States and Union Territories, of which 32 have been commissioned. He also commended the performance of leading States, including Bihar, Maharashtra, Uttar Pradesh, Tamil Nadu and Madhya Pradesh, and appreciated State Governments, district administrations and field functionaries for transforming a national policy into a grassroots movement for enterprise development. Ministry of Food Processing Industries has said that nearly 90 per cent of the beneficiaries under the Scheme are first-generation entrepreneurs, while 44 per cent are women entrepreneurs. The Ministry noted that over 75 thousand PMFME-supported enterprises have entered the formal economy through registrations such as Udyam Aadhaar, Udyam Assist, FSSAI and GST. It further highlighted that more than one lakh 76 thousand beneficiaries have been trained under the Scheme, of whom 77 per cent are women. Addressing the event, Secretary, Food Processing Industries, A P Das Joshi said the milestone reflects the emergence of a stronger ecosystem for the micro food processing sector in India. He said PMFME combines finance, formalisation, technology, capacity building and market access into an integrated approach for enterprise development. Mr Joshi also highlighted the Scheme&#8217;s network of District Resource Persons. He said their work reflects the successful convergence of Digital India and Ease of Doing Business at the grassroots level. Joint Secretary in the Ministry, Devesh Deval said the PMFME Scheme provides end-to-end support to micro food processing entrepreneurs, including financial assistance, training, handholding, branding, marketing and market linkages. He added that the Scheme is transforming livelihoods, strengthening local value chains and creating sustainable employment opportunities across the country. The officials also highlighted the Scheme&#8217;s One District One Product approach and its support for 40 common brands covering nearly 200 products. The initiative is building local value chains around products such as Makhana, millets, spices and GI-tagged products across the country. The event featured the release of key …",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T12:49:57+00:00",
-        "link": "https://newsonair.gov.in/pmfme-scheme-sanctions-loans-to-over-two-lakh-micro-food-processing-enterprises-says-union-minister-chirag-paswan/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM8j_Noa0AA5O_b-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "PM Modi expresses grief over the demise of distinguished playback singer S Janaki Amma",
+        "summary": "Prime Minister Narendra Modi has expressed grief over the demise of distinguished playback singer S. Janaki Amma. In a social media post, Mr Modi said that the passing of S Janaki Amma is an irreparable loss to the world of music and culture. Prime Minister said that her songs in various languages were popular across […]",
+        "article": "Prime Minister Narendra Modi has expressed grief over the demise of distinguished playback singer S. Janaki Amma. In a social media post, Mr Modi said that the passing of S Janaki Amma is an irreparable loss to the world of music and culture. Prime Minister said that her songs in various languages were popular across generations, and they gave voice to every emotion with unparalleled grace as well as versatility. He said that S Janaki Amma&#8217;s melodies will continue to enchant listeners in the years to come. Mr Modi conveyed his condolences to her family, countless admirers and the entire music fraternity in this hour of grief.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T04:44:47+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-expresses-grief-over-the-demise-of-distinguished-playback-singer-s-janaki-amma/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -395,47 +395,47 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Vice President, PM Modi express condolences over Vietnam boat tragedy",
-        "summary": "Vice President CP Radhakrishnan and Prime Minister Narendra Modi have expressed condolences at the tragic boat accident involving Indian nationals near Phu Quoc island, Vietnam. In his message, the Vice President prayed for the swift and complete recovery of those injured. He wished strength and courage to all those affected by this tragic incident. &#160; […]",
-        "article": "Vice President CP Radhakrishnan and Prime Minister Narendra Modi have expressed condolences at the tragic boat accident involving Indian nationals near Phu Quoc island, Vietnam. In his message, the Vice President prayed for the swift and complete recovery of those injured. He wished strength and courage to all those affected by this tragic incident. &nbsp; Prime Minister Modi extended condolences to the families who lost their loved ones and hoped for the early recovery of the injured survivors. He said, the Indian Embassy and Consulate in Vietnam are providing all possible assistance and are in close contact with the Vietnamese authorities.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T14:01:38+00:00",
-        "link": "https://newsonair.gov.in/vice-president-pm-modi-express-condolences-over-vietnam-boat-tragedy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "India lifts special travel conditions for Yemen, withdraws 2017 notification",
+        "summary": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the […]",
+        "article": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the Ministry of External Affairs said that it continues to advise all Indian nationals to refrain from non-essential travel to Yemen. MEA said that if travel is unavoidable, it should be undertaken only after a thorough assessment of the local security situation and travel to active conflict zones must be avoided. The Ministry advised Indian nationals residing in Yemen to be alert and to restrict their movements within Yemen. MEA also advised Indian nationals in Yemen and those who need to travel to Yemen to register with the Embassy of India in Riyadh to facilitate better communication and assistance in case of emergencies.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T05:57:28+00:00",
+        "link": "https://newsonair.gov.in/india-lifts-special-travel-conditions-for-yemen-withdraws-2017-notification/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Health Ministry launches monthly webinar series on best practices under National Health Mission",
-        "summary": "Union Ministry of Health and Family Welfare has launched the Monthly Webinar Series on Best Practices under the National Health Mission on the occasion of World Population Day 2026. Envisioned as a year-round knowledge-sharing platform, the initiative will bring together States and Union Territories to present successful innovations, exchange implementation experiences, and accelerate the adoption",
-        "article": "Union Ministry of Health and Family Welfare has launched the Monthly Webinar Series on Best Practices under the National Health Mission on the occasion of World Population Day 2026. Envisioned as a year-round knowledge-sharing platform, the initiative will bring together States and Union Territories to present successful innovations, exchange implementation experiences, and accelerate the adoption of evidence-based practices for strengthening healthcare delivery nationwide. &nbsp; Chairing the inaugural session of the webinar, Additonal Secretary in the Ministry, Aradhana Patnaik emphasised that innovation lies at the heart of responsive and resilient public health system. She described the webinar series as an important institutional mechanism to identify, document and disseminate innovative practices. Ms Patnaik called upon all States and Union Territories to actively participate in the webinar series and contribute towards building a culture of continuous learning, knowledge exchange and innovation-driven programme implementation. The inaugural webinar focused on the theme Anaemia, Child and Adolescent Health. More than five hundred officials from the national, State, and district levels attended the webinar, reflecting a strong commitment towards collaborative learning and innovation-driven health system strengthening.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T13:58:52+00:00",
-        "link": "https://newsonair.gov.in/health-ministry-launches-monthly-webinar-series-on-best-practices-under-national-health-mission/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/health-ministry-Webinar-Ser.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "Union Minister Shivraj Singh Chouhan to participate in Paryavaran Sanrakshan Sankalp’ program at the PUSA Campus in New Delhi today",
+        "summary": "Union Minister for Agriculture and Farmers Welfare Shivraj Singh Chouhan will participate in the Paryavaran Sanrakshan Sankalp&#8217; program at the PUSA Campus in New Delhi today. On the occasion, he will interact with nearly 17 thousand Vriksh Mitras from across the country and call for transforming environmental conservation into a nationwide people&#8217;s movement through active […]",
+        "article": "Union Minister for Agriculture and Farmers Welfare Shivraj Singh Chouhan will participate in the Paryavaran Sanrakshan Sankalp&#8217; program at the PUSA Campus in New Delhi today. On the occasion, he will interact with nearly 17 thousand Vriksh Mitras from across the country and call for transforming environmental conservation into a nationwide people&#8217;s movement through active public participation. The program will witness the participation of Vriksh Mitras from nearly every state in the country who have made notable contributions in the fields of tree plantation, water conservation and ecological restoration. As part of the programme, the agriculture minister will undertake a plantation drive with the participating Vriksh Mitras at the PUSA Campus, reaffirming the collective commitment towards a greener India.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T05:49:51+00:00",
+        "link": "https://newsonair.gov.in/union-minister-shivraj-singh-chouhan-to-participate-in-paryavaran-sanrakshan-sankalp-program-at-the-pusa-campus-in-new-delhi-today/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Law Ministry holds national conference on integration of regional languages in legal education",
-        "summary": "The Department of Legal Affairs under Ministry of Law and Justice, in collaboration with the Bar Council of India (BCI), today organised a National Conference on Strengthening Legal Education through Integration of Regional Languages in New Delhi. The Conference was organised with the objective of formulating a Ten-Year Perspective Action Plan for promoting Legal Education […]",
-        "article": "The Department of Legal Affairs under Ministry of Law and Justice, in collaboration with the Bar Council of India (BCI), today organised a National Conference on Strengthening Legal Education through Integration of Regional Languages in New Delhi. The Conference was organised with the objective of formulating a Ten-Year Perspective Action Plan for promoting Legal Education in Hindi and other Indian languages and the justice delivery system. The deliberations focused on developing a phased, structured, measurable and quality-assured framework for integrating Indian languages into legal education while preserving English as an important national and international link language. The proposed framework aims to promote a bilingual and progressively multilingual legal education model to enhance legal comprehension, improve access to justice, strengthen legal aid and clinical legal education, and better prepare future legal professionals for practice before district and subordinate courts. The participants also deliberated upon the role of technology in accelerating language integration within the legal ecosystem.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T13:55:08+00:00",
-        "link": "https://newsonair.gov.in/law-ministry-holds-national-conference-on-integration-of-regional-languages-in-legal-education/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/yyyy-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "FSSAI issues notices to Swiggy Instamart over alleged food safety violations",
+        "summary": "The Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing […]",
+        "article": "The Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing which appropriate legal action will be initiated. Consumer complaints alleged the supply of expired, spoiled, rotten, contaminated and otherwise unsafe food products through Swiggy Instamart. The Food Regulator&#8217;s notices also raised concerns over incorrect, invalid or non-existent licence numbers and food business entities allegedly operating under names different from those registered with FSSAI.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T05:32:38+00:00",
+        "link": "https://newsonair.gov.in/fssai-issues-notices-to-swiggy-instamart-over-alleged-food-safety-violations/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "PMFME scheme sanctions loans to over two lakh micro food processing enterprises, says Union Minister Chirag Paswan",
-        "summary": "The Pradhan Mantri Formalisation of Micro Food Processing Enterprises (PMFME) Scheme has crossed the milestone of sanctioning loans to more than two lakh micro food processing enterprises across the country. The Scheme has leveraged project investments of over 20 thousand 300 crore rupees and generated nearly 11 lakh direct and indirect employment opportunities. &#160; Addressing […]",
-        "article": "The Pradhan Mantri Formalisation of Micro Food Processing Enterprises (PMFME) Scheme has crossed the milestone of sanctioning loans to more than two lakh micro food processing enterprises across the country. The Scheme has leveraged project investments of over 20 thousand 300 crore rupees and generated nearly 11 lakh direct and indirect employment opportunities. &nbsp; Addressing a special event in New Delhi today, Union Minister for Food Processing Industries Chirag Paswan said that the achievement is not merely a milestone to celebrate but a strong foundation for the next phase of India&#8217;s food processing growth story. He emphasised that the achievement demonstrates that the vision is translating into measurable outcomes across the country. Mr Paswan also underlined that the participation of women entrepreneurs, at nearly 44 per cent of all beneficiaries, reflects the true spirit of women-led development, a cornerstone of Viksit Bharat. During the event, Mr Paswan also felicitated the two lakh beneficiary, Inderjeet Singh from Ranchi in Jharkhand, and handed over the sanction letter and certificate. On the occasion, the Minister highlighted the Scheme&#8217;s Seed Capital support, under which more than four lakh 18 thousand Self Help Group members have been supported. He said, 80 Common Incubation Centres have been approved across 27 States and Union Territories, of which 32 have been commissioned. He also commended the performance of leading States, including Bihar, Maharashtra, Uttar Pradesh, Tamil Nadu and Madhya Pradesh, and appreciated State Governments, district administrations and field functionaries for transforming a national policy into a grassroots movement for enterprise development. Ministry of Food Processing Industries has said that nearly 90 per cent of the beneficiaries under the Scheme are first-generation entrepreneurs, while 44 per cent are women entrepreneurs. The Ministry noted that over 75 thousand PMFME-supported enterprises have entered the formal economy through registrations such as Udyam Aadhaar, Udyam Assist, FSSAI and GST. It further highlighted that more than one lakh 76 thousand beneficiaries have been trained under the Scheme, of whom 77 per cent are women. Addressing the event, Secretary, Food Processing Industries, A P Das Joshi said the milestone reflects the emergence of a stronger ecosystem for the micro food processing sector in India. He said PMFME combines finance, formalisation, technology, capacity building and market access into an integrated approach for enterprise development. Mr Joshi also highlighted the Scheme&#8217;s network of District Resource Persons. He said their work reflects the successful convergence of Digital India and Ease of Doing Business at the grassroots level. Joint Secretary in the Ministry, Devesh Deval said the PMFME Scheme provides end-to-end support to micro food processing entrepreneurs, including financial assistance, training, handholding, branding, marketing and market linkages. He added that the Scheme is transforming livelihoods, strengthening local value chains and creating sustainable employment opportunities across the country. The officials also highlighted the Scheme&#8217;s One District One Product approach and its support for 40 common brands covering nearly 200 products. The initiative is building local value chains around products such as Makhana, millets, spices and GI-tagged products across the country. The event featured the release of key …",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T12:49:57+00:00",
-        "link": "https://newsonair.gov.in/pmfme-scheme-sanctions-loans-to-over-two-lakh-micro-food-processing-enterprises-says-union-minister-chirag-paswan/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM8j_Noa0AA5O_b-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "PM Modi expresses grief over the demise of distinguished playback singer S Janaki Amma",
+        "summary": "Prime Minister Narendra Modi has expressed grief over the demise of distinguished playback singer S. Janaki Amma. In a social media post, Mr Modi said that the passing of S Janaki Amma is an irreparable loss to the world of music and culture. Prime Minister said that her songs in various languages were popular across […]",
+        "article": "Prime Minister Narendra Modi has expressed grief over the demise of distinguished playback singer S. Janaki Amma. In a social media post, Mr Modi said that the passing of S Janaki Amma is an irreparable loss to the world of music and culture. Prime Minister said that her songs in various languages were popular across generations, and they gave voice to every emotion with unparalleled grace as well as versatility. He said that S Janaki Amma&#8217;s melodies will continue to enchant listeners in the years to come. Mr Modi conveyed his condolences to her family, countless admirers and the entire music fraternity in this hour of grief.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T04:44:47+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-expresses-grief-over-the-demise-of-distinguished-playback-singer-s-janaki-amma/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -485,6 +485,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "Vietnam government orders probe into speedboat tragedy that killed 15 Indian tourists",
+        "summary": "Vietnamese Prime Minister Le Minh Hun has ordered a probe into the speedboat tragedy near Phu Quoc Island that claimed the lives of 15 Indian tourists. According to a statement issued by the Consulate General of Vietnam in Mumbai, PM Hun asked authorities to identify shortcomings, determine both the direct and indirect causes of […]",
+        "article": "Vietnamese Prime Minister Le Minh Hun has ordered a probe into the speedboat tragedy near Phu Quoc Island that claimed the lives of 15 Indian tourists. According to a statement issued by the Consulate General of Vietnam in Mumbai, PM Hun asked authorities to identify shortcomings, determine both the direct and indirect causes of the accident, and implement corrective measures to prevent similar incidents in the future. The Vietnamese Prime Minister also directed authorities to take strict legal action against anyone found to have violated regulations that may have caused the accident. Vietnamese Prime Minister also directed authorities to assist victims and their families. The Consulate General further stated that the Prime Minister has directed authorities to mobilise all necessary medical resources and supplies to treat the injured, minimise further loss of life and provide support and encouragement to the families of those who lost their loved ones in the accident. The tragic incident occurred yesterday when the speedboat carrying 36 people, including 4 crew members, flipped after reportedly being hit by a sudden wave off Rut Ngoai Islet. While local authorities managed to rescue 21 people, 15 Indians, including 2 women, were dead. The Indian embassy in Vietnam released the list of the deceased provided by the Vietnamese authorities. Of the 15 deceased, 10 are from Tamil Nadu, three from Andhra Pradesh, and two from Kerala. External Affairs Minister Dr S Jaishankar has expressed grief over the Vietnam boat accident, which resulted in the death of 15 Indian nationals near Phu Quoc Island, Vietnam. In a social media post, Dr Jaishankar said that he is deeply distressed by the unfortunate boat accident. The External Affairs Minister conveyed his condolences to the bereaved families. He also wished for the swift recovery of those injured.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:18:33+00:00",
+        "link": "https://newsonair.gov.in/rescue-operations-underway-after-boat-carrying-indian-tourists-capsizes-near-phu-quoc-island/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-5.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "US launches new round of strikes against Iran after IRGC forces attack container ship transiting Strait of Hormuz",
         "summary": "The United States launched a new round of strikes against Iran after Islamic Revolutionary Guard Corps (IRGC) forces attacked a Cyprus-flagged container ship transiting the Strait of Hormuz. US military said the strikes were carried out at the direction of President Donald Trump. US CENTCOM said the attack on the commercial vessel left […]",
         "article": "The United States launched a new round of strikes against Iran after Islamic Revolutionary Guard Corps (IRGC) forces attacked a Cyprus-flagged container ship transiting the Strait of Hormuz. US military said the strikes were carried out at the direction of President Donald Trump. US CENTCOM said the attack on the commercial vessel left a civilian crew member missing and the vessel is unable to continue the journey due to an onboard fire and significant engine room damage. Explosions were heard in Qeshm Island, Bandar Abbas and Sirik following the attacks. Meanwhile, Iran has closed Strait of Hormuz until further notice. Iran&#8217;s IRGC Navy said the sea route was closed following an incident involving a vessel that attempted to use an unauthorised route. The force said no ships will be allowed to transit through the strategic waterway until what it called US interference in the region ends. The announcement came after the IRGC claimed it fired a warning shot and stopped the vessel. IRGC Navy said any attempt by the enemy to use the recent Strait of Hormuz incident as a pretext for further action will invite a severe response. The US is demanding that Iran make a public statement saying the Strait of Hormuz is open and that ships crossing the vital corridor will not be attacked anymore. Senior US officials said that internal power struggles in Tehran have made it difficult to reach and keep a deal. Meanwhile, US President Donald Trump said that negotiations with Iran will continue despite tensions. His comments came as the fragile interim agreement came under strain following renewed military exchanges in the region. Iran insists the Strait of Hormuz must remain under its control and maintains its demand that vessels passing through the strategic waterway pay fees. Iran said it has exclusive authority over activities in the strait. However, Oman has proposed having two separately managed routes for shipping through the Strait of Hormuz &#8211; one through Iranian waters and another through Omani waters. Tehran had rejected a similar proposal in earlier discussions, insisting on a single management system involving both countries. Iranian officials remain concerned that separate routes could allow ships to bypass Iranian waters, reducing Tehran’s leverage in negotiations.",
@@ -493,17 +504,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/us-launches-new-round-of-strikes-against-iran-after-irgc-forces-attack-container-ship-transiting-strait-of-hormuz/",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ISS-44_Strait_of_Gibraltar.jpg/1280px-ISS-44_Strait_of_Gibraltar.jpg",
         "image_credit": "Wikipedia – Strait (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Vietnam government orders probe into speedboat tragedy that killed 15 Indian tourists",
-        "summary": "Vietnamese Prime Minister Le Minh Hun has ordered a probe into the speedboat tragedy near Phu Quoc Island that claimed the lives of 15 Indian tourists. According to a statement issued by the Consulate General of Vietnam in Mumbai, PM Hun asked authorities to identify shortcomings, determine both the direct and indirect causes of […]",
-        "article": "Vietnamese Prime Minister Le Minh Hun has ordered a probe into the speedboat tragedy near Phu Quoc Island that claimed the lives of 15 Indian tourists. According to a statement issued by the Consulate General of Vietnam in Mumbai, PM Hun asked authorities to identify shortcomings, determine both the direct and indirect causes of the accident, and implement corrective measures to prevent similar incidents in the future. The Vietnamese Prime Minister also directed authorities to take strict legal action against anyone found to have violated regulations that may have caused the accident. Vietnamese Prime Minister also directed authorities to assist victims and their families. The Consulate General further stated that the Prime Minister has directed authorities to mobilise all necessary medical resources and supplies to treat the injured, minimise further loss of life and provide support and encouragement to the families of those who lost their loved ones in the accident. The tragic incident occurred yesterday when the speedboat carrying 36 people, including 4 crew members, flipped after reportedly being hit by a sudden wave off Rut Ngoai Islet. While local authorities managed to rescue 21 people, 15 Indians, including 2 women, were dead. The Indian embassy in Vietnam released the list of the deceased provided by the Vietnamese authorities. Of the 15 deceased, 10 are from Tamil Nadu, three from Andhra Pradesh, and two from Kerala.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T01:18:33+00:00",
-        "link": "https://newsonair.gov.in/rescue-operations-underway-after-boat-carrying-indian-tourists-capsizes-near-phu-quoc-island/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -586,6 +586,28 @@ window.VM_NEWS = {
     ],
     "sports": [
       {
+        "title": "FIFA World Cup: Argentina and England advance to the semifinal",
+        "summary": "In the FIFA World Cup, Argentina and England have advanced to the semifinals. England beat Norway 2-1 in today&#8217;s quarter-final match at Miami Stadium, Florida. Defending champion Argentina beat Switzerland 3-1 in the last quarter-final match in Kansas City, Missouri, this morning. Spain and France have already booked their places in the last […]",
+        "article": "In the FIFA World Cup, Argentina and England have advanced to the semifinals. England beat Norway 2-1 in today&#8217;s quarter-final match at Miami Stadium, Florida. Defending champion Argentina beat Switzerland 3-1 in the last quarter-final match in Kansas City, Missouri, this morning. Spain and France have already booked their places in the last four. Spain secured a thrilling 2-1 victory over Belgium to advance, while France progressed with a comfortable 2-nil win over Morocco.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T04:37:31+00:00",
+        "link": "https://newsonair.gov.in/fifa-world-cup-england-beat-norway-2-1-to-reach-semi-final/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpg",
+        "image_credit": "Wikipedia – FIFA World Cup (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "England beat India by 56 runs to win series 4-0 in Southampton",
+        "summary": "In Men&#8217;s Cricket, England beat India by 56 runs in the 5th and final T20I at Southampton last night to sweep the five-match series 4-0. England set a target of 258 runs for India. In reply, India could score only 201 runs for 8 in 20 overs. Earlier, put into bat, England posted 257 for […]",
+        "article": "In Men&#8217;s Cricket, England beat India by 56 runs in the 5th and final T20I at Southampton last night to sweep the five-match series 4-0. England set a target of 258 runs for India. In reply, India could score only 201 runs for 8 in 20 overs. Earlier, put into bat, England posted 257 for 3 in their allotted 20 overs. Jos Buttler was adjudged Player of the Match. The first T20 match between the sides ended with no result due to rain.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:41:51+00:00",
+        "link": "https://newsonair.gov.in/england-beat-india-by-56-runs-to-win-series-4-0-in-southampton/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/View_across_Ocean_Village_Marina_%28geograph_5432669%29.jpg",
+        "image_credit": "Wikipedia – Southampton (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Manipur CM inaugurates 19th Governor’s Taekwondo Cup 2026",
         "summary": "Manipur Chief Minister Yumnam Khemchand Singh today formally inaugurated the 19th Governor&#8217;s Taekwondo Cup, Manipur 2026. It is is organised by the All Manipur Taekwondo Association at Khuman Lampak Indoor Stadium, Imphal. The championship which will continue till July 15, has drawn a total of 1,141 players representing 29 units, comprising 691 men and 450 […]",
         "article": "Manipur Chief Minister Yumnam Khemchand Singh today formally inaugurated the 19th Governor&#8217;s Taekwondo Cup, Manipur 2026. It is is organised by the All Manipur Taekwondo Association at Khuman Lampak Indoor Stadium, Imphal. The championship which will continue till July 15, has drawn a total of 1,141 players representing 29 units, comprising 691 men and 450 women. Addressing the gathering, the Chief Minister said that Manipur has produced more than 40 international players from the State. He said that this success is possible with the unwavering commitment of the All Manipur Taekwondo Association, its technical officials, coaches and teachers in nurturing talented sportspersons. .",
@@ -637,28 +659,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-09T15:46:30+00:00",
         "link": "https://newsonair.gov.in/wimbledon-marta-kostyuk-linda-noskova-enter-womens-singles-semi-finals/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Wimbeldon-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Indian Pickleball Association announces squad for Pickleball World Cup 2026",
-        "summary": "The Indian Pickleball Association has announced the Indian contingent for the Pickleball World Cup 2026 after a highly competitive selection process to represent the nation in Pro category at the Pickleball World Cup 2026, which will be held at Da Nang, Vietnam, from August 30 to September 6. &#160; Harsh Mehta, a recurring name on […]",
-        "article": "The Indian Pickleball Association has announced the Indian contingent for the Pickleball World Cup 2026 after a highly competitive selection process to represent the nation in Pro category at the Pickleball World Cup 2026, which will be held at Da Nang, Vietnam, from August 30 to September 6. &nbsp; Harsh Mehta, a recurring name on the international pickleball circuit, will be leading the charge. He will be accompanied by Arjun Singh, who is also representing and captaining India in the Under-18 category at the World Cup. Anish Frolian and Aman Patel make the cut as well in the men’s category. Mihika Yadav, Aaliyah Ebrahim, Pearl Amalsadiwala and Naomi Amalsadiwali make up the contingent on the women’s side.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T08:00:16+00:00",
-        "link": "https://newsonair.gov.in/indian-pickleball-association-announces-squad-for-pickleball-world-cup-2026/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indian-Pickleball-Association.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Men’s Cricket: India to face England in fourth T20I in Bristol today",
-        "summary": "In Men&#8217;s Cricket, India will face England in the fourth T20 International of the five-match series at the County Ground in Bristol tonight. The match will begin at 10 PM IST. India trails the series 0-2, making this a must-win game to stay alive. Captain Shreyas Iyer and head coach Gautam Gambhir are under […]",
-        "article": "In Men&#8217;s Cricket, India will face England in the fourth T20 International of the five-match series at the County Ground in Bristol tonight. The match will begin at 10 PM IST. India trails the series 0-2, making this a must-win game to stay alive. Captain Shreyas Iyer and head coach Gautam Gambhir are under pressure after India&#8217;s heavy 125-run defeat in the third T20I match. One of the biggest selection questions is whether Sanju Samson will return to the playing XI after missing the last two matches. India&#8217;s batting has struggled throughout the series. Vice-captain Tilak Varma has failed to make an impact, while the bowling attack has also disappointed, with spinner Varun Chakaravarthy taking just one wicket so far. England, led by Harry Brook, enters the match with confidence. Opener Phil Salt is back in form after scoring 70 in the last game, while fast bowlers Jofra Archer and Josh Tongue have troubled India&#8217;s batters with their pace and bounce. England will aim to seal the series with another victory, while India hopes to bounce back and force the contest into the final T20I in Southampton on Saturday. Earlier, hosts England defeated India by 4 wickets in the second T20 International in Manchester. The first match between both the sides ended with no result due to rain.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T06:30:09+00:00",
-        "link": "https://newsonair.gov.in/mens-cricket-india-to-face-england-in-fourth-t20i-in-bristol-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/crics.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1025,14 +1025,36 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
-        "title": "एफएसएसएआई ने उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए",
-        "summary": "खाद्य सुरक्षा एवं मानक प्राधिकरण-एफएसएसएआई ने खाद्य सुरक्षा और मानक अधिनियम 2006 के अंतर्गत नियमों का उल्लंघन करने के आरोपों से संबंधित कई उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए हैं। सोशल मीडिया पोस्ट में एफएसएसएआई ने कहा है कि स्विगी को विस्तृत स्पष्टीकरण और अनुपालन रिपोर्ट प्रस्तुत करने का निर्देश […]",
-        "article": "खाद्य सुरक्षा एवं मानक प्राधिकरण-एफएसएसएआई ने खाद्य सुरक्षा और मानक अधिनियम 2006 के अंतर्गत नियमों का उल्लंघन करने के आरोपों से संबंधित कई उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए हैं। सोशल मीडिया पोस्ट में एफएसएसएआई ने कहा है कि स्विगी को विस्तृत स्पष्टीकरण और अनुपालन रिपोर्ट प्रस्तुत करने का निर्देश दिया गया है और ऐसा न करने पर उचित कानूनी कार्रवाई शुरू की जाएगी। उपभोक्ता शिकायतों में स्विगी इंस्टामार्ट पर उत्&#x200d;पादों की निर्धारित अवधि समाप्&#x200d;त होने, खराब, सड़े, दूषित और अन्य प्रकार के असुरक्षित खाद्य उत्पादों की आपूर्ति का आरोप लगाया गया है। एफएसएसएआई के नोटिस में गलत, अमान्य या अनुपलब्&#x200d;ध लाइसेंस नंबरों और पंजीकृत नाम के स्&#x200d;थान पर किसी अलग नाम से संचालित खाद्य व्यवसाय संस्थाओं पर भी चिंता व्यक्त की गई है।",
+        "title": "प्रधानमंत्री नरेंद्र मोदी छह दिन की इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड यात्रा के बाद नई दिल्ली लौटे",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के राष्ट्रपति के साथ द्विपक्षीय चर्चा की और साझेदारी में हुई प्रगति की समीक्षा की। अपनी यात्रा के दूसरे चरण में, प्रधानमंत्री मोदी मेलबर्न, ऑस्ट्रेलिया गए। श्री मोदी ने ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लिया। अपनी यात्रा के दौरान, प्रधानमंत्री मोदी ने भारत-ऑस्ट्रेलिया सीईओ फोरम में भी भाग लिया, जहां उन्होंने दोनों देशों के शीर्ष व्यापारिक नेताओं की सभा को संबोधित किया। तीन देशों की यात्रा के तीसरे और अंतिम चरण में, प्रधानमंत्री ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के निमंत्रण पर 10 से 11 जुलाई तक ऑकलैंड का दौरा किया। न्यूजीलैंड की यह यात्रा किसी भी भारतीय प्रधानमंत्री की 40 वर्षों में पहली यात्रा थी।",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:23:07+00:00",
-        "link": "https://newsonair.gov.in/hi/fssai-notice-to-swiggy/",
-        "image_url": "",
-        "image_credit": "",
+        "pubDate": "2026-07-12T05:51:27+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-three-nation-tour/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM8J-CXbMAAQjus.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "आईआरजीसी के जहाज पर हमले के बाद अमरीका ने ईरान पर नए हमले शुरू किए, होर्मुज जलडमरूमध्य अगले आदेश तक बंद",
+        "summary": "इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स के होर्मुज जलडमरूमध्य में साइप्रस के झंडे वाले जहाज पर हमले के बाद, अमरीका ने ईरान पर नए हमले शुरू कर दिए हैं। अमरीकी सेना ने कहा है कि ये हमले राष्ट्रपति डॉनल्‍ड ट्रंप के निर्देश पर किए गए। अमरीका ने बताया है कि व्‍यापारिक जहाज पर हुए हमले में चालक […]",
+        "article": "इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स के होर्मुज जलडमरूमध्य में साइप्रस के झंडे वाले जहाज पर हमले के बाद, अमरीका ने ईरान पर नए हमले शुरू कर दिए हैं। अमरीकी सेना ने कहा है कि ये हमले राष्ट्रपति डॉनल्&#x200d;ड ट्रंप के निर्देश पर किए गए। अमरीका ने बताया है कि व्&#x200d;यापारिक जहाज पर हुए हमले में चालक दल का एक नागरिक सदस्य लापता है और जहाज पर आग लगने से काफी नुकसान हुआ है। इस बीच, ईरान ने होर्मुज जलडमरूमध्य को अगली सूचना तक बंद कर दिया है। ईरान की नौसेना ने कहा है कि एक जहाज़ के अनधिकृत रास्ते का इस्तेमाल करने की कोशिश के बाद यह समुद्री रास्ता बंद किया गया है। नौसेना ने कहा कि इस इलाके में अमरीका का दखल खत्म होने तक किसी भी जहाज़ को इस रास्ते से निकलने की अनुमति नहीं दी जाएगी। नौसेना ने कहा कि होर्मुज जलडमरूमध्य की इस घटना को लेकर अमरीका की किसी भी कार्रवाई का कड़ा जवाब दिया जाएगा। अमरीका, ईरान से सार्वजनिक रूप से होर्मुज जलडमरूमध्य से गुज़रने वाले जहाज़ों पर हमला नहीं करने का आश्&#x200d;वासन चाहता है। अमरीका के एक वरिष्&#x200d;ठ अधिकारी ने कहा है कि ईरान में आंतरिक सत्&#x200d;ता संघर्ष के कारण किसी समझौते पर पहुंचना मुश्किल हो गया है। इस बीच, अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने कहा है कि तनाव के बावजूद ईरान के साथ बातचीत जारी रहेगी। ईरान ने कहा है कि होर्मुज जलडमरूमध्य उसके नियंत्रण में ही रहेगा और इस मार्ग से गुज़रने वाले जहाज़ों को शुल्क देना होगा। ईरान ने जलडमरूमध्य पर पूरे अधिकार का दावा किया है। इस बीच, ओमान ने होर्मुज जलडमरूमध्य से जहाज़ों की आवाजाही के लिए दो अलग-अलग रास्तों का प्रस्ताव दिया है, लेकिन ईरान ने इस तरह के प्रस्ताव को पहले ही खारिज कर दिया था।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:53:42+00:00",
+        "link": "https://newsonair.gov.in/hi/hormuz-strait-closed/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/Strait-of-Hormuz-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "तूफान बावी ने दी पूर्वी चीन में दस्तक, लगभग 20 लाख लोगों को सुरक्षित स्थानों पर पहुंचाया गया",
+        "summary": "तूफान बावी ने कल रात पूर्वी चीन के तटीय शहर ताइझोऊ में दस्तक दी। तूफान को देखते हुए लगभग 20 लाख लोगों को सुरक्षित स्थानों पर पहुंचाया गया है। इससे पहले बावी जापान के दक्षिणी साकिशिमा द्वीप समूह से टकराया और उत्तरी ताइवान के पास से गुजरा। हालांकि यह अब उत्तर-पश्चिम की ओर बढ़ते हुए […]",
+        "article": "तूफान बावी ने कल रात पूर्वी चीन के तटीय शहर ताइझोऊ में दस्तक दी। तूफान को देखते हुए लगभग 20 लाख लोगों को सुरक्षित स्थानों पर पहुंचाया गया है। इससे पहले बावी जापान के दक्षिणी साकिशिमा द्वीप समूह से टकराया और उत्तरी ताइवान के पास से गुजरा। हालांकि यह अब उत्तर-पश्चिम की ओर बढ़ते हुए धीरे-धीरे कमजोर पड़ रहा है, लेकिन इसके साथ तेज वर्षा का खतरा बना हुआ है। सरकारी मीडिया के अनुसार, झेजियांग प्रांत से 17 लाख से अधिक लोगों को सुरक्षित स्थानों पर पहुंचाया गया है। इसके अलावा फुजियान प्रांत और बीजिंग से एक-एक लाख से अधिक तथा शंघाई से करीब 34 हजार लोगों को भी निकाला गया है। जापान और ताइवान में अब तक इस तूफान से किसी की मृत्यु की खबर नहीं है। हालांकि बावी के असर से दक्षिण-पश्चिम मानसून के और सक्रिय होने के कारण फिलीपींस में भारी बारिश से 17 लोगों की मौत हो गई है। ताइवान के अग्निशमन विभाग के अनुसार 113 लोग घायल हुए हैं। इनमें अधिकांश लोग तेज हवाओं के दौरान मोटरसाइकिल या साइकिल से गिरने, फिसलने या किसी वस्तु की चपेट में आने से घायल हुए।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:45:51+00:00",
+        "link": "https://newsonair.gov.in/hi/typhoon-bavi-china/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM_n9-fbEAAWGXT.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1042,19 +1064,8 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T02:21:04+00:00",
         "link": "https://newsonair.gov.in/hi/venezuela-earthquake/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेन्द्र मोदी दो दिन की ऐतिहासिक न्यूजीलैंड यात्रा के बाद स्वदेश रवाना",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड की यात्रा पूरी कर स्‍वदेश रवाना हो गए हैं। इस दौरान श्री मोदी ने न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के साथ व्यापक बातचीत की। भारत और न्यूज़ीलैंड ने द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाया है। इस दौरान रक्षा, पर्यटन, खेल, आपदा प्रबंधन और डेयरी तथा पशुपालन सहित […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड की यात्रा पूरी कर स्&#x200d;वदेश रवाना हो गए हैं। इस दौरान श्री मोदी ने न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के साथ व्यापक बातचीत की। भारत और न्यूज़ीलैंड ने द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाया है। इस दौरान रक्षा, पर्यटन, खेल, आपदा प्रबंधन और डेयरी तथा पशुपालन सहित कई प्रमुख क्षेत्रों में समझौतों पर हस्ताक्षर किए गए। ऑकलैंड में सामुदायिक कार्यक्रम में भारतीय मूल के दस हज़ार से अधिक लोगों ने भाग लिया। श्री मोदी ने सभा को संबोधित करते हुए कहा कि भारत और न्यूज़ीलैंड का भविष्य आपस में जुड़ा हुआ है। उन्&#x200d;होंने कहा कि द्विपक्षीय व्यापार समझौता भारत की विकसित राष्ट्र बनने की यात्रा को गति प्रदान करेगा। प्रधानमंत्री लक्सन ने भारत को विश्&#x200d;वसनीय मित्र बताते हुए न्यूज़ीलैंड की प्रगति में भारतीय समुदाय के योगदान की सराहना की। उन्&#x200d;होंने प्रधानमंत्री मोदी के नेतृत्व की भी प्रशंसा की। श्री मोदी ने श्री लक्सन के शानदार आतिथ्य के लिए धन्यवाद दिया। उन्&#x200d;होंने कहा कि इस यात्रा से भारत-न्यूज़ीलैंड संबंधों में एक नया अध्याय शुरू है। श्री मोदी ने 40 वर्ष बाद भारतीय प्रधानमंत्री की न्&#x200d;यूजीलैंड यात्रा के बारे में कहा कि अगली यात्रा में इतना समय नहीं लगेगा। यात्रा की समाप्ति पर, प्रधानमंत्री लक्सन ने श्री मोदी को व्यक्तिगत रूप से हवाई अड्डे पर विदाई दी। सोशल मीडिया पोस्ट में, प्रधानमंत्री मोदी ने इस सफल यात्रा के दौरान मिले असाधारण स्नेह के लिए प्रधानमंत्री लक्सन, न्यूज़ीलैंड सरकार और लोगों को धन्यवाद दिया। श्री मोदी ने कहा कि संबंधों को रणनीतिक साझेदारी के स्तर तक ले जाने का निर्णय, व्यापार और निवेश में प्रगति तथा रक्षा, शिक्षा, संस्कृति, खेल और लोगों के बीच आपसी संबंधों में आई नई गति हमारी दोस्ती की बढ़ती गहराई को दर्शाती है। विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा कि प्रधानमंत्री मोदी की तीन देशों की यात्रा के महत्&#x200d;वपूर्ण परिणाम निकले हैं। इससे व्यापार, प्रौद्योगिकी, सुरक्षा, शिक्षा, नवाचार और लोगों के बीच आपसी संपर्क जैसे कई क्षेत्रों में सहयोग को बढ़ावा मिला है। उन्होंने बताया कि प्रधानमंत्री मोदी और न्यूज़ीलैंड के प्रधानमंत्री ने द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की। बातचीत में व्यापार और निवेश, रक्षा और सुरक्षा, कृषि प्रौद्योगिकी, खेल, शिक्षा, पर्यटन, संस्कृति और लोगों के बीच आपसी संपर्क जैसे विषय शामिल थे। प्रवक्ता ने कहा कि दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने की प्रतिबद्धता दोहराई। दोनों नेताओं ने भारत-न्यूज़ीलैंड मुक्त व्यापार समझौते को शीघ्र लागू करने के महत्व पर बल दिया। प्रधानमंत्री मोदी की तीन देशों की यात्रा के दौरान भारत ने इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड के साथ व्यापार, प्रौद्योगिकी, सुरक्षा, नवाचार, शिक्षा और लोगों के बीच आपसी संबंधों जैसे कई क्षेत्रों में सहयोग का विस्तार किया।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:17:27+00:00",
-        "link": "https://newsonair.gov.in/hi/return-journey-following-prime-minister-narendra-modis-historic-two-day-visit-to-new-zealand/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM_fTDpaUAAafRH.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1064,8 +1075,8 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T02:14:48+00:00",
         "link": "https://newsonair.gov.in/hi/environment-protection-pledge/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Union-Minister-Shivraj-Singh-Chouhan-holds-review-meeting-on-El-Nino-effect-on-agriculture.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1075,30 +1086,8 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T01:43:13+00:00",
         "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "स्पीडबोट हादसे के बाद वियतनाम के प्रधानमंत्री ने जांच के आदेश दिए, विदेश मंत्री डॉ. एस जयशंकर ने जताया शोक",
-        "summary": "वियतनाम के प्रधानमंत्री ले मिन्ह हुन ने फु क्वोक द्वीप के पास स्पीडबोट हादसे की जांच के आदेश दिए हैं। इस हादसे में 15 भारतीय पर्यटकों की मौत हो गई । मुंबई में वियतनाम के महावाणिज्य दूतावास के अनुसार, प्रधानमंत्री ने अधिकारियों से हादसे के कारणों का पता लगाने और भविष्य में ऐसे हादसों को […]",
-        "article": "वियतनाम के प्रधानमंत्री ले मिन्ह हुन ने फु क्वोक द्वीप के पास स्पीडबोट हादसे की जांच के आदेश दिए हैं। इस हादसे में 15 भारतीय पर्यटकों की मौत हो गई । मुंबई में वियतनाम के महावाणिज्य दूतावास के अनुसार, प्रधानमंत्री ने अधिकारियों से हादसे के कारणों का पता लगाने और भविष्य में ऐसे हादसों को रोकने के लिए जरूरी कदम उठाने को कहा है। उन्होंने नियमों के उल्लंघन के लिए जिम्मेदार लोगों के खिलाफ सख्त कानूनी कार्रवाई के भी निर्देश दिए हैं। साथ ही घायलों के इलाज और मृतकों के परिजनों को हर संभव सहायता देने को कहा है। यह हादसा कल उस समय हुआ जब 36 लोगों को लेकर जा रही स्पीडबोट फु क्वोक द्वीप के पास रट नगोआई टापू के निकट अचानक ऊंची लहर की चपेट में आकर पलट गई। नाव में चालक दल के चार सदस्य भी सवार थे। स्थानीय प्रशासन ने 21 लोगों को बचा लिया, जबकि 15 भारतीयों की मौत हो गई। मृतकों में दो महिलाएं हैं। वियतनाम में भारतीय दूतावास ने मृतकों की सूची जारी की है। इनमें 10 लोग तमिलनाडु, तीन आंध्र प्रदेश और दो केरल के रहने वाले थे। विदेश मंत्री डॉ. एस जयशंकर ने वियतनाम में फू क्&#x200d;योक द्वीप के पास हुई नौका दुर्घटना में 15 भारतीय नागरिकों की मौत पर दुख व्&#x200d;यक्&#x200d;त किया है। डॉ. जयशंकर ने सोशल मीडिया पोस्&#x200d;ट में कहा है कि वे दुखद नौका दुर्घटना से काफी आहत हैं। विदेश मंत्री ने मृतकों के परिवारों के प्रति संवेदना व्&#x200d;यक्&#x200d;त करते हुए घायलों के शीघ्र स्&#x200d;वस्&#x200d;थ होने की कामना की है।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T01:40:25+00:00",
-        "link": "https://newsonair.gov.in/hi/vietnam-boat-tragedy/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "आईआरजीसी के जहाज पर हमले के बाद अमरीका ने ईरान पर नए हमले शुरू किए, होर्मुज जलडमरूमध्य अगले आदेश तक बंद",
-        "summary": "इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स के होर्मुज जलडमरूमध्य में साइप्रस के झंडे वाले जहाज पर हमले के बाद, अमरीका ने ईरान पर नए हमले शुरू कर दिए हैं। अमरीकी सेना ने कहा है कि ये हमले राष्ट्रपति डॉनल्‍ड ट्रंप के निर्देश पर किए गए। अमरीका ने बताया है कि व्‍यापारिक जहाज पर हुए हमले में चालक […]",
-        "article": "इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स के होर्मुज जलडमरूमध्य में साइप्रस के झंडे वाले जहाज पर हमले के बाद, अमरीका ने ईरान पर नए हमले शुरू कर दिए हैं। अमरीकी सेना ने कहा है कि ये हमले राष्ट्रपति डॉनल्&#x200d;ड ट्रंप के निर्देश पर किए गए। अमरीका ने बताया है कि व्&#x200d;यापारिक जहाज पर हुए हमले में चालक दल का एक नागरिक सदस्य लापता है और जहाज पर आग लगने से काफी नुकसान हुआ है। इस बीच, ईरान ने होर्मुज जलडमरूमध्य को अगली सूचना तक बंद कर दिया है। ईरान की नौसेना ने कहा है कि एक जहाज़ के अनधिकृत रास्ते का इस्तेमाल करने की कोशिश के बाद यह समुद्री रास्ता बंद किया गया है। नौसेना ने कहा कि इस इलाके में अमरीका का दखल खत्म होने तक किसी भी जहाज़ को इस रास्ते से निकलने की अनुमति नहीं दी जाएगी। नौसेना ने कहा कि होर्मुज जलडमरूमध्य की इस घटना को लेकर अमरीका की किसी भी कार्रवाई का कड़ा जवाब दिया जाएगा। अमरीका, ईरान से सार्वजनिक रूप से होर्मुज जलडमरूमध्य से गुज़रने वाले जहाज़ों पर हमला नहीं करने का आश्&#x200d;वासन चाहता है। अमरीका के एक वरिष्&#x200d;ठ अधिकारी ने कहा है कि ईरान में आंतरिक सत्&#x200d;ता संघर्ष के कारण किसी समझौते पर पहुंचना मुश्किल हो गया है। इस बीच, अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने कहा है कि तनाव के बावजूद ईरान के साथ बातचीत जारी रहेगी। ईरान ने कहा है कि होर्मुज जलडमरूमध्य उसके नियंत्रण में ही रहेगा और इस मार्ग से गुज़रने वाले जहाज़ों को शुल्क देना होगा। ईरान ने जलडमरूमध्य पर पूरे अधिकार का दावा किया है। इस बीच, ओमान ने होर्मुज जलडमरूमध्य से जहाज़ों की आवाजाही के लिए दो अलग-अलग रास्तों का प्रस्ताव दिया है, लेकिन ईरान ने इस तरह के प्रस्ताव को पहले ही खारिज कर दिया था।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T00:48:42+00:00",
-        "link": "https://newsonair.gov.in/hi/hormuz-strait-closed/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/AMIT-SHAH-1-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1108,8 +1097,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T16:00:43+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5-%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a4%82%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%be-%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8-%e0%a4%aa%e0%a4%b0-%e0%a4%b8%e0%a5%8d/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-1-3.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1119,19 +1108,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:56:16+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%a8%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%87-%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a5%87-%e0%a4%a4%e0%a5%80%e0%a4%a8-%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7-%e0%a4%aa/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "स्पेन के अंडालूसिया क्षेत्र में भीषण जंगल की आग, काबू पाने के प्रयास जारी",
-        "summary": "दक्षिण-पूर्वी स्पेन के अंडालूसिया क्षेत्र में भीषण जंगल की आग को काबू में करने के लिए सैकड़ों दमकलकर्मी और सैन्य कर्मी संघर्ष कर रहे हैं। यह आग हाल के दशकों में देश की सबसे घातक जंगल की आग में से एक बन गई है। स्पेन के अधिकारियों के अनुसार, बेदार गांव के आसपास आपातकालीन सेवाओं […]",
-        "article": "दक्षिण-पूर्वी स्पेन के अंडालूसिया क्षेत्र में भीषण जंगल की आग को काबू में करने के लिए सैकड़ों दमकलकर्मी और सैन्य कर्मी संघर्ष कर रहे हैं। यह आग हाल के दशकों में देश की सबसे घातक जंगल की आग में से एक बन गई है। स्पेन के अधिकारियों के अनुसार, बेदार गांव के आसपास आपातकालीन सेवाओं को तैनात किया गया है, जहां 12 लोगों की मौत हो गई है &#8211; जिनमें चार ब्रिटिश नागरिक शामिल हैं। 23 अन्य लोग अभी भी लापता हैं। अल्मेरिया के लॉस गैलार्डोस क्षेत्र के स्थानीय अधिकारियों ने चेतावनी दी है कि मृतकों की संख्या बढ़ सकती है। लगभग 40 डिग्री सेल्सियस के तापमान वाली भीषण गर्मी में दक्षिणी यूरोप, विशेष रूप से फ्रांस, पुर्तगाल और स्पेन में जंगल की आग को जन्म दिया है। बढ़ते तापमान, अत्यधिक शुष्क जमीन और तेज हवाओं के कारण गुरुवार दोपहर को लॉस गैलार्डोस में आग तेजी से फैल गई। अंडालूसिया के स्वास्थ्य और आपातकालीन मंत्री एंटोनियो सैन्ज़ ने कहा कि आग 6 हजार 600 हेक्टेयर भूमि में फैल चुकी है।.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:50:04+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a5%87%e0%a4%a8-%e0%a4%95%e0%a5%87-%e0%a4%85%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b2%e0%a5%82%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be-%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%87/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1141,43 +1119,54 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:33:27+00:00",
         "link": "https://newsonair.gov.in/hi/pradhan-mantri-formalisation-of-micro-food-processing-enterprises-scheme-crosses-the-milestone-of-two-lakh-loan-sanctions/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-210208.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "वियतनाम में नाव दुर्घटना में 15 भारतीयों की मौत। राष्‍ट्रपति, उपराष्ट्रपति और प्रधानमंत्री ने शोक व्यक्त किया",
-        "summary": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की […]",
-        "article": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की सूची साझा करते हुए कहा कि ये नाम वियतनामी अधिकारियों द्वारा उपलब्ध कराए गए हैं। दूतावास के अनुसार, मृतकों में से 10 तमिलनाडु से, तीन आंध्र प्रदेश से और दो केरल से थे। नाव में 32 भारतीय पर्यटकों, तीन चालक दल के सदस्यों और एक परिचारक सहित कुल 36 लोग सवार थे। 17 यात्रियों और चालक दल के चार सदस्यों सहित 21 लोगों को बचा लिया गया और अस्पतालों में भर्ती कराया गया। दो जीवित बचे लोगों की हालत गंभीर बनी हुई है और उन्हें गहन चिकित्सा देखभाल दी जा रही है। हनोई स्थित भारतीय दूतावास ने बताया कि खोज और बचाव अभियान जारी है । कुछ घंटे पहले हुई इस दुर्घटना के कारणों का पता लगाया जा रहा है। वहीं, प्रभावित परिवारों को जानकारी और सहायता प्रदान करने के लिए, हो ची मिन्ह सिटी स्थित भारतीय दूतावास में एक नियंत्रण कक्ष स्थापित किया गया है। यहां, +84 36 281 7930, +84 91 552 37 14 और +84 33 452 0414 नंबरों से संपर्क किया जा सकता है। दूतावास ने सोशल मीडिया पोस्ट में बताया कि हनोई में भी एक नियंत्रण कक्ष स्थापित किया गया है और यहां +84 91 308 9165 नंबर से संपर्क किया जा सकता है। राष्ट्रपति द्रौपदी मुर्मु, उपराष्ट्रपति सीपी राधाकृष्णन और प्रधानमंत्री नरेंद्र मोदी ने वियतनाम में नाव दुर्घटना में भारतीयों की मौत पर शोक व्यक्त किया है। राष्&#x200d;ट्रपति ने शोक संतप्त परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। उपराष्ट्रपति ने घायलों के शीघ्र और पूर्ण स्वस्थ होने की प्रार्थना की। उन्होंने इस दुखद घटना से प्रभावित सभी लोगों को शक्ति और साहस प्रदान करने की कामना की है। प्रधानमंत्री मोदी ने अपने परिजनों को खोने वाले परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। श्री मोदी ने कहा कि वियतनाम में भारतीय दूतावास तथा वाणिज्य दूतावास हरसंभव सहायता प्रदान कर रहे हैं और वियतनामी अधिकारियों के साथ लगातार संपर्क में हैं।",
+        "title": "केंद्रीय गृह मंत्री अमित शाह ने युवाओं से पुस्तकालयों से जुड़ने का आह्वान किया",
+        "summary": "केंद्रीय गृह मंत्री अमित शाह ने व्यक्तित्व निर्माण में पुस्तकालयों की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए युवा पीढ़ी से पुस्तकालयों से जुड़ने की अपील की है । आज नई दिल्ली में जयप्रकाश नारायण सार्वजनिक पुस्तकालय का उद्घाटन करते हुए उन्‍होंने कहा कि लोकनायक जयप्रकाश नारायण एक महान स्वतंत्रता सेनानी, विचारक और राष्ट्रवादी नेता थे […]",
+        "article": "केंद्रीय गृह मंत्री अमित शाह ने व्यक्तित्व निर्माण में पुस्तकालयों की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए युवा पीढ़ी से पुस्तकालयों से जुड़ने की अपील की है । आज नई दिल्ली में जयप्रकाश नारायण सार्वजनिक पुस्तकालय का उद्घाटन करते हुए उन्&#x200d;होंने कहा कि लोकनायक जयप्रकाश नारायण एक महान स्वतंत्रता सेनानी, विचारक और राष्ट्रवादी नेता थे जिन्होंने देश के लिए उल्लेखनीय योगदान दिया। गृह मंत्री ने कहा कि देश और उसके लोगों को समझने के लिए पढ़ना आवश्यक है। उन्होंने राष्ट्र निर्माण में पुस्तकालयों की भूमिका पर प्रकाश डालते हुए कहा कि वे आधुनिक शिक्षा के साथ-साथ जनसमुदाय में देश की संस्कृति और ज्ञान के प्रसार का सशक्त माध्यम हैं। श्री अमित शाह ने कहा कि राष्ट्र निर्माण में योगदान देने वाली और देश को गौरव दिलाने वाली सभी गतिविधियाँ ज्ञान पर आधारित हैं, जो व्यवहार में लागू होने पर बुद्धिमत्ता और विवेक में परिवर्तित हो जाता है। उन्होंने कहा कि पुस्तकालय ऐसे ज्ञान का एक महत्वपूर्ण स्रोत हैं। श्री अमित शाह ने रेखांकित किया कि सरकार ने विदयाथियों में पढ़ने को प्रोत्साहित करने के लिए पुस्तकालयों को विद्यालयों से जोड़ने के प्रयास किए हैं। उन्होंने बताया कि गांधीनगर लोकसभा क्षेत्र में हर गांव में पुस्तकालय खोले गए हैं, जिनमें से प्रत्येक में लगभग 3 से 4 हजार पुस्तकें हैं। उन्होंने कहा कि ये पुस्तकालय एक केंद्रीय पुस्तकालय से जुड़े हैं, जिसमें एक लाख 25 हजार से अधिक पुस्तकों का संग्रह है। श्री अमित शाह ने दिल्ली सरकार से शहर भर के सभी पुस्तकालयों को आपस में जोड़ने और उन्हें स्कूलों से जोड़ने के लिए एक व्यापक योजना बनाने का आग्रह किया। उन्होंने कहा कि पुस्तक प्रेमियों को पुस्तकालयों से जुड़ने के लिए प्रोत्साहित करने के लिए एक सुव्यवस्थित कार्य योजना तैयार की जानी चाहिए। उन्होंने जयप्रकाश नारायण सार्वजनिक पुस्तकालय के कर्मचारियों से नई दिल्ली के आसपास के दस विधानसभा क्षेत्रों के सभी स्कूलों तक पहुंचने, युवाओं को पुस्तकालय से जोड़ने और उन्हें आने के लिए प्रेरित करने की अपील की। ​​उन्होंने कहा कि एक बार युवाओं में पढ़ने की आदत विकसित हो जाए, तो वे इसे स्वयं जारी रखेंगे। केंद्रीय गृह मंत्री ने कहा कि जयप्रकाश नारायण सार्वजनिक पुस्तकालय में 32 हजार से अधिक पुस्तकों का संग्रह है। उन्होंने कहा कि पुस्तकालय में शोधकर्ताओं के लिए समर्पित सुविधाएं, एक आधुनिक बहुउद्देशीय सभागार, समकालीन पठन क्षेत्र, बाल क्षेत्र, एक शोध केंद्र और एक करोड़ ऑनलाइन पुस्तकों तक पहुंच प्रदान करने वाला एक ई-पुस्तकालय है। पुस्तकालय में हर जगह मुफ्त वाई-फाई उपलब्ध है। उन्होंने बताया कि कई मॉनिटर भी लगाए गए हैं, जिससे आगंतुक अध्ययन के दौरान नोट्स ले सकते हैं, सामग्री डाउनलोड कर सकते हैं तथा अपने विचारों को और विकसित कर सकते हैं। पुस्तकालय अत्याधुनिक आरएफआईडी आधारित पुस्तक प्रबंधन प्रणाली से सुसज्जित है। इस अवसर पर दिल्ली की मुख्यमंत्री रेखा गुप्ता, दिल्ली के सार्वजनिक परिवहन विभाग के मंत्री परवेश वर्मा, नई दिल्ली नगर परिषद के अध्यक्ष केशव चंद्र और कई अन्य गणमान्य व्यक्ति उपस्थित थे।",
         "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:28:24+00:00",
-        "link": "https://newsonair.gov.in/hi/15-indians-die-in-a-boat-accident-in-vietnam-president-vice-president-and-prime-minister-express-condolences/",
-        "image_url": "",
-        "image_credit": "",
+        "pubDate": "2026-07-11T15:26:50+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%97%e0%a5%83%e0%a4%b9-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4-85/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-205348.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "रेलमंत्री अश्विनी वैष्णव ने तेलंगाना में मेधा रेल कोच कलपुर्जा निर्माण सुविधा का निरीक्षण किया",
+        "summary": "रेलमंत्री अश्विनी वैष्‍णव ने तेलंगाना के संगारेड्डी जिले के नंदीगामा क्षेत्र में स्थित मेधा रेल कोच कलपुर्जा निर्माण सुविधा स्‍थल का निरीक्षण किया। 375 एकड़ भू-भाग में फैली यह विशाल औद्योगिक इकाई रेलवे के आधुनिकीकरण में महत्‍वपूर्ण प्रगति को प्रदर्शित करती है। अपनी यात्रा के दौरान श्री वैष्‍णव ने मेक इन इंडिया पहल के एक […]",
+        "article": "रेलमंत्री अश्विनी वैष्&#x200d;णव ने तेलंगाना के संगारेड्डी जिले के नंदीगामा क्षेत्र में स्थित मेधा रेल कोच कलपुर्जा निर्माण सुविधा स्&#x200d;थल का निरीक्षण किया। 375 एकड़ भू-भाग में फैली यह विशाल औद्योगिक इकाई रेलवे के आधुनिकीकरण में महत्&#x200d;वपूर्ण प्रगति को प्रदर्शित करती है। अपनी यात्रा के दौरान श्री वैष्&#x200d;णव ने मेक इन इंडिया पहल के एक महत्&#x200d;वपूर्ण हिस्&#x200d;से के रूप में निजी क्षेत्र के उद्यमों को बढ़ावा देने संबंधी सरकार की वचनबद्धता पर बल दिया। इस सुविधा के दौरे के दौरान श्री वैष्&#x200d;णव ने कलपुर्जा विनिर्माण प्रक्रिया का निकटता से पर्यवेक्षण किया। उन्&#x200d;होंने श्रमिकों से बातचीत भी की। श्री वैष्&#x200d;णव ने उनके तकनीकी कौशल, परिचालनगत कार्यप्रवाह, इस सुविधा द्वारा अपनाई गई समग्र विनिर्माण कार्यपद्धति के बारे में पूछताछ की। साथ ही उन्&#x200d;होंने मेधा संगठन द्वारा हाल ही में विकसित उन्&#x200d;नत चालकविहीन वाहन का निरीक्षण किया। यह परिवहन व्&#x200d;यवस्&#x200d;था की आधुनिक प्रौद्योगिकी को दर्शाता है। इस निरीक्षण के दौरान रेल मंत्री वैष्णव के साथ केंद्रीय मंत्री जी. किशन रेड्डी, तेलंगाना के भाजपा अध्यक्ष रामचंद्र राव और सांसद कोंडा विश्वेश्वर रेड्डी जैसे प्रमुख नेता और अधिकारी, तथा विनिर्माण कंपनी के कई प्रतिनिधि भी मौजूद थे।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T15:09:07+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a5%80-%e0%a4%b5%e0%a5%88%e0%a4%b7%e0%a5%8d%e0%a4%a3-5/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-203808.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत-न्यूज़ीलैंड के बीच रक्षा, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 समझौता ज्ञापनों पर हस्ताक्षर",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और डेयरी संबंधी समझौता अनुसंधान, नवाचार और बेहतर तकनीकों के आदान-प्रदान को प्रोत्साहित करेगा। पर्यटन समझौते से दोनों देशों के बीच पर्यटन और यात्रा सहयोग बढ़ेगा। खेल के क्षेत्र में संयुक्त कार्ययोजना भी अपनाई गई है, जबकि आपदा प्रबंधन समझौते से आपदा तैयारी, राहत और बचाव कार्यों में सहयोग मजबूत होगा। वार्ता के दौरान प्रधानमंत्री मोदी ने कहा कि 40 वर्ष बाद किसी भारतीय प्रधानमंत्री की न्यूज़ीलैंड यात्रा दोनों देशों के संबंधों में एक ऐतिहासिक पड़ाव है। उन्होंने कहा कि दोनों देशों ने सामरिक साझेदारी स्थापित करने का महत्वपूर्ण निर्णय लिया है, जो भविष्य के सहयोग को नई दिशा देगा। प्रधानमंत्री ने मुक्त व्यापार समझौते की दिशा में हुई प्रगति की सराहना करते हुए कहा कि भारत और न्यूज़ीलैंड हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और सुरक्षा को मजबूत करने में महत्वपूर्ण भूमिका निभा सकते हैं। न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने कहा कि प्रधानमंत्री मोदी की यह यात्रा दोनों देशों के संबंधों को नई ऊंचाई देगी। उन्होंने कहा कि सामरिक साझेदारी से व्यापार सहित कई क्षेत्रों में सहयोग का दायरा और बढ़ेगा। इससे पहले गवर्नमेंट हाउस में प्रधानमंत्री मोदी का औपचारिक स्वागत किया गया और उन्हें गार्ड ऑफ ऑनर दिया गया। प्रधानमंत्री आज भारतीय समुदाय को संबोधित करेंगे तथा उद्योग और खेल जगत की प्रमुख हस्तियों से भी मुलाकात करेंगे।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T09:07:24+00:00",
+        "link": "https://newsonair.gov.in/hi/five-memorandums-of-understanding-mous-signed-between-india-and-new-zealand-covering-defense-tourism-sports-and-disaster-management/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/A-3.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "breaking": [
       {
-        "title": "एफएसएसएआई ने उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए",
-        "summary": "खाद्य सुरक्षा एवं मानक प्राधिकरण-एफएसएसएआई ने खाद्य सुरक्षा और मानक अधिनियम 2006 के अंतर्गत नियमों का उल्लंघन करने के आरोपों से संबंधित कई उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए हैं। सोशल मीडिया पोस्ट में एफएसएसएआई ने कहा है कि स्विगी को विस्तृत स्पष्टीकरण और अनुपालन रिपोर्ट प्रस्तुत करने का निर्देश […]",
-        "article": "खाद्य सुरक्षा एवं मानक प्राधिकरण-एफएसएसएआई ने खाद्य सुरक्षा और मानक अधिनियम 2006 के अंतर्गत नियमों का उल्लंघन करने के आरोपों से संबंधित कई उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए हैं। सोशल मीडिया पोस्ट में एफएसएसएआई ने कहा है कि स्विगी को विस्तृत स्पष्टीकरण और अनुपालन रिपोर्ट प्रस्तुत करने का निर्देश दिया गया है और ऐसा न करने पर उचित कानूनी कार्रवाई शुरू की जाएगी। उपभोक्ता शिकायतों में स्विगी इंस्टामार्ट पर उत्&#x200d;पादों की निर्धारित अवधि समाप्&#x200d;त होने, खराब, सड़े, दूषित और अन्य प्रकार के असुरक्षित खाद्य उत्पादों की आपूर्ति का आरोप लगाया गया है। एफएसएसएआई के नोटिस में गलत, अमान्य या अनुपलब्&#x200d;ध लाइसेंस नंबरों और पंजीकृत नाम के स्&#x200d;थान पर किसी अलग नाम से संचालित खाद्य व्यवसाय संस्थाओं पर भी चिंता व्यक्त की गई है।",
+        "title": "प्रधानमंत्री नरेंद्र मोदी छह दिन की इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड यात्रा के बाद नई दिल्ली लौटे",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के राष्ट्रपति के साथ द्विपक्षीय चर्चा की और साझेदारी में हुई प्रगति की समीक्षा की। अपनी यात्रा के दूसरे चरण में, प्रधानमंत्री मोदी मेलबर्न, ऑस्ट्रेलिया गए। श्री मोदी ने ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लिया। अपनी यात्रा के दौरान, प्रधानमंत्री मोदी ने भारत-ऑस्ट्रेलिया सीईओ फोरम में भी भाग लिया, जहां उन्होंने दोनों देशों के शीर्ष व्यापारिक नेताओं की सभा को संबोधित किया। तीन देशों की यात्रा के तीसरे और अंतिम चरण में, प्रधानमंत्री ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के निमंत्रण पर 10 से 11 जुलाई तक ऑकलैंड का दौरा किया। न्यूजीलैंड की यह यात्रा किसी भी भारतीय प्रधानमंत्री की 40 वर्षों में पहली यात्रा थी।",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:23:07+00:00",
-        "link": "https://newsonair.gov.in/hi/fssai-notice-to-swiggy/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेन्द्र मोदी दो दिन की ऐतिहासिक न्यूजीलैंड यात्रा के बाद स्वदेश रवाना",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड की यात्रा पूरी कर स्‍वदेश रवाना हो गए हैं। इस दौरान श्री मोदी ने न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के साथ व्यापक बातचीत की। भारत और न्यूज़ीलैंड ने द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाया है। इस दौरान रक्षा, पर्यटन, खेल, आपदा प्रबंधन और डेयरी तथा पशुपालन सहित […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड की यात्रा पूरी कर स्&#x200d;वदेश रवाना हो गए हैं। इस दौरान श्री मोदी ने न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के साथ व्यापक बातचीत की। भारत और न्यूज़ीलैंड ने द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाया है। इस दौरान रक्षा, पर्यटन, खेल, आपदा प्रबंधन और डेयरी तथा पशुपालन सहित कई प्रमुख क्षेत्रों में समझौतों पर हस्ताक्षर किए गए। ऑकलैंड में सामुदायिक कार्यक्रम में भारतीय मूल के दस हज़ार से अधिक लोगों ने भाग लिया। श्री मोदी ने सभा को संबोधित करते हुए कहा कि भारत और न्यूज़ीलैंड का भविष्य आपस में जुड़ा हुआ है। उन्&#x200d;होंने कहा कि द्विपक्षीय व्यापार समझौता भारत की विकसित राष्ट्र बनने की यात्रा को गति प्रदान करेगा। प्रधानमंत्री लक्सन ने भारत को विश्&#x200d;वसनीय मित्र बताते हुए न्यूज़ीलैंड की प्रगति में भारतीय समुदाय के योगदान की सराहना की। उन्&#x200d;होंने प्रधानमंत्री मोदी के नेतृत्व की भी प्रशंसा की। श्री मोदी ने श्री लक्सन के शानदार आतिथ्य के लिए धन्यवाद दिया। उन्&#x200d;होंने कहा कि इस यात्रा से भारत-न्यूज़ीलैंड संबंधों में एक नया अध्याय शुरू है। श्री मोदी ने 40 वर्ष बाद भारतीय प्रधानमंत्री की न्&#x200d;यूजीलैंड यात्रा के बारे में कहा कि अगली यात्रा में इतना समय नहीं लगेगा। यात्रा की समाप्ति पर, प्रधानमंत्री लक्सन ने श्री मोदी को व्यक्तिगत रूप से हवाई अड्डे पर विदाई दी। सोशल मीडिया पोस्ट में, प्रधानमंत्री मोदी ने इस सफल यात्रा के दौरान मिले असाधारण स्नेह के लिए प्रधानमंत्री लक्सन, न्यूज़ीलैंड सरकार और लोगों को धन्यवाद दिया। श्री मोदी ने कहा कि संबंधों को रणनीतिक साझेदारी के स्तर तक ले जाने का निर्णय, व्यापार और निवेश में प्रगति तथा रक्षा, शिक्षा, संस्कृति, खेल और लोगों के बीच आपसी संबंधों में आई नई गति हमारी दोस्ती की बढ़ती गहराई को दर्शाती है। विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा कि प्रधानमंत्री मोदी की तीन देशों की यात्रा के महत्&#x200d;वपूर्ण परिणाम निकले हैं। इससे व्यापार, प्रौद्योगिकी, सुरक्षा, शिक्षा, नवाचार और लोगों के बीच आपसी संपर्क जैसे कई क्षेत्रों में सहयोग को बढ़ावा मिला है। उन्होंने बताया कि प्रधानमंत्री मोदी और न्यूज़ीलैंड के प्रधानमंत्री ने द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की। बातचीत में व्यापार और निवेश, रक्षा और सुरक्षा, कृषि प्रौद्योगिकी, खेल, शिक्षा, पर्यटन, संस्कृति और लोगों के बीच आपसी संपर्क जैसे विषय शामिल थे। प्रवक्ता ने कहा कि दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने की प्रतिबद्धता दोहराई। दोनों नेताओं ने भारत-न्यूज़ीलैंड मुक्त व्यापार समझौते को शीघ्र लागू करने के महत्व पर बल दिया। प्रधानमंत्री मोदी की तीन देशों की यात्रा के दौरान भारत ने इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड के साथ व्यापार, प्रौद्योगिकी, सुरक्षा, नवाचार, शिक्षा और लोगों के बीच आपसी संबंधों जैसे कई क्षेत्रों में सहयोग का विस्तार किया।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:17:27+00:00",
-        "link": "https://newsonair.gov.in/hi/return-journey-following-prime-minister-narendra-modis-historic-two-day-visit-to-new-zealand/",
-        "image_url": "",
-        "image_credit": "",
+        "pubDate": "2026-07-12T05:51:27+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-three-nation-tour/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM8J-CXbMAAQjus.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1187,8 +1176,8 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T02:14:48+00:00",
         "link": "https://newsonair.gov.in/hi/environment-protection-pledge/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Union-Minister-Shivraj-Singh-Chouhan-holds-review-meeting-on-El-Nino-effect-on-agriculture.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1198,8 +1187,8 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T01:43:13+00:00",
         "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/AMIT-SHAH-1-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1209,8 +1198,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T16:00:43+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5-%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a4%82%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%be-%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8-%e0%a4%aa%e0%a4%b0-%e0%a4%b8%e0%a5%8d/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-1-3.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1220,8 +1209,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:56:16+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%a8%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%87-%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a5%87-%e0%a4%a4%e0%a5%80%e0%a4%a8-%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7-%e0%a4%aa/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1231,19 +1220,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:33:27+00:00",
         "link": "https://newsonair.gov.in/hi/pradhan-mantri-formalisation-of-micro-food-processing-enterprises-scheme-crosses-the-milestone-of-two-lakh-loan-sanctions/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम में नाव दुर्घटना में 15 भारतीयों की मौत। राष्‍ट्रपति, उपराष्ट्रपति और प्रधानमंत्री ने शोक व्यक्त किया",
-        "summary": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की […]",
-        "article": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की सूची साझा करते हुए कहा कि ये नाम वियतनामी अधिकारियों द्वारा उपलब्ध कराए गए हैं। दूतावास के अनुसार, मृतकों में से 10 तमिलनाडु से, तीन आंध्र प्रदेश से और दो केरल से थे। नाव में 32 भारतीय पर्यटकों, तीन चालक दल के सदस्यों और एक परिचारक सहित कुल 36 लोग सवार थे। 17 यात्रियों और चालक दल के चार सदस्यों सहित 21 लोगों को बचा लिया गया और अस्पतालों में भर्ती कराया गया। दो जीवित बचे लोगों की हालत गंभीर बनी हुई है और उन्हें गहन चिकित्सा देखभाल दी जा रही है। हनोई स्थित भारतीय दूतावास ने बताया कि खोज और बचाव अभियान जारी है । कुछ घंटे पहले हुई इस दुर्घटना के कारणों का पता लगाया जा रहा है। वहीं, प्रभावित परिवारों को जानकारी और सहायता प्रदान करने के लिए, हो ची मिन्ह सिटी स्थित भारतीय दूतावास में एक नियंत्रण कक्ष स्थापित किया गया है। यहां, +84 36 281 7930, +84 91 552 37 14 और +84 33 452 0414 नंबरों से संपर्क किया जा सकता है। दूतावास ने सोशल मीडिया पोस्ट में बताया कि हनोई में भी एक नियंत्रण कक्ष स्थापित किया गया है और यहां +84 91 308 9165 नंबर से संपर्क किया जा सकता है। राष्ट्रपति द्रौपदी मुर्मु, उपराष्ट्रपति सीपी राधाकृष्णन और प्रधानमंत्री नरेंद्र मोदी ने वियतनाम में नाव दुर्घटना में भारतीयों की मौत पर शोक व्यक्त किया है। राष्&#x200d;ट्रपति ने शोक संतप्त परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। उपराष्ट्रपति ने घायलों के शीघ्र और पूर्ण स्वस्थ होने की प्रार्थना की। उन्होंने इस दुखद घटना से प्रभावित सभी लोगों को शक्ति और साहस प्रदान करने की कामना की है। प्रधानमंत्री मोदी ने अपने परिजनों को खोने वाले परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। श्री मोदी ने कहा कि वियतनाम में भारतीय दूतावास तथा वाणिज्य दूतावास हरसंभव सहायता प्रदान कर रहे हैं और वियतनामी अधिकारियों के साथ लगातार संपर्क में हैं।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:28:24+00:00",
-        "link": "https://newsonair.gov.in/hi/15-indians-die-in-a-boat-accident-in-vietnam-president-vice-president-and-prime-minister-express-condolences/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-210208.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1253,8 +1231,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:26:50+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%97%e0%a5%83%e0%a4%b9-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4-85/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-205348.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1264,12 +1242,10 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:09:07+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a5%80-%e0%a4%b5%e0%a5%88%e0%a4%b7%e0%a5%8d%e0%a4%a3-5/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-203808.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      }
-    ],
-    "national": [
+      },
       {
         "title": "एफएसएसएआई ने उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए",
         "summary": "खाद्य सुरक्षा एवं मानक प्राधिकरण-एफएसएसएआई ने खाद्य सुरक्षा और मानक अधिनियम 2006 के अंतर्गत नियमों का उल्लंघन करने के आरोपों से संबंधित कई उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए हैं। सोशल मीडिया पोस्ट में एफएसएसएआई ने कहा है कि स्विगी को विस्तृत स्पष्टीकरण और अनुपालन रिपोर्ट प्रस्तुत करने का निर्देश […]",
@@ -1277,263 +1253,6 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T02:23:07+00:00",
         "link": "https://newsonair.gov.in/hi/fssai-notice-to-swiggy/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेन्द्र मोदी दो दिन की ऐतिहासिक न्यूजीलैंड यात्रा के बाद स्वदेश रवाना",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड की यात्रा पूरी कर स्‍वदेश रवाना हो गए हैं। इस दौरान श्री मोदी ने न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के साथ व्यापक बातचीत की। भारत और न्यूज़ीलैंड ने द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाया है। इस दौरान रक्षा, पर्यटन, खेल, आपदा प्रबंधन और डेयरी तथा पशुपालन सहित […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड की यात्रा पूरी कर स्&#x200d;वदेश रवाना हो गए हैं। इस दौरान श्री मोदी ने न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के साथ व्यापक बातचीत की। भारत और न्यूज़ीलैंड ने द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाया है। इस दौरान रक्षा, पर्यटन, खेल, आपदा प्रबंधन और डेयरी तथा पशुपालन सहित कई प्रमुख क्षेत्रों में समझौतों पर हस्ताक्षर किए गए। ऑकलैंड में सामुदायिक कार्यक्रम में भारतीय मूल के दस हज़ार से अधिक लोगों ने भाग लिया। श्री मोदी ने सभा को संबोधित करते हुए कहा कि भारत और न्यूज़ीलैंड का भविष्य आपस में जुड़ा हुआ है। उन्&#x200d;होंने कहा कि द्विपक्षीय व्यापार समझौता भारत की विकसित राष्ट्र बनने की यात्रा को गति प्रदान करेगा। प्रधानमंत्री लक्सन ने भारत को विश्&#x200d;वसनीय मित्र बताते हुए न्यूज़ीलैंड की प्रगति में भारतीय समुदाय के योगदान की सराहना की। उन्&#x200d;होंने प्रधानमंत्री मोदी के नेतृत्व की भी प्रशंसा की। श्री मोदी ने श्री लक्सन के शानदार आतिथ्य के लिए धन्यवाद दिया। उन्&#x200d;होंने कहा कि इस यात्रा से भारत-न्यूज़ीलैंड संबंधों में एक नया अध्याय शुरू है। श्री मोदी ने 40 वर्ष बाद भारतीय प्रधानमंत्री की न्&#x200d;यूजीलैंड यात्रा के बारे में कहा कि अगली यात्रा में इतना समय नहीं लगेगा। यात्रा की समाप्ति पर, प्रधानमंत्री लक्सन ने श्री मोदी को व्यक्तिगत रूप से हवाई अड्डे पर विदाई दी। सोशल मीडिया पोस्ट में, प्रधानमंत्री मोदी ने इस सफल यात्रा के दौरान मिले असाधारण स्नेह के लिए प्रधानमंत्री लक्सन, न्यूज़ीलैंड सरकार और लोगों को धन्यवाद दिया। श्री मोदी ने कहा कि संबंधों को रणनीतिक साझेदारी के स्तर तक ले जाने का निर्णय, व्यापार और निवेश में प्रगति तथा रक्षा, शिक्षा, संस्कृति, खेल और लोगों के बीच आपसी संबंधों में आई नई गति हमारी दोस्ती की बढ़ती गहराई को दर्शाती है। विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा कि प्रधानमंत्री मोदी की तीन देशों की यात्रा के महत्&#x200d;वपूर्ण परिणाम निकले हैं। इससे व्यापार, प्रौद्योगिकी, सुरक्षा, शिक्षा, नवाचार और लोगों के बीच आपसी संपर्क जैसे कई क्षेत्रों में सहयोग को बढ़ावा मिला है। उन्होंने बताया कि प्रधानमंत्री मोदी और न्यूज़ीलैंड के प्रधानमंत्री ने द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की। बातचीत में व्यापार और निवेश, रक्षा और सुरक्षा, कृषि प्रौद्योगिकी, खेल, शिक्षा, पर्यटन, संस्कृति और लोगों के बीच आपसी संपर्क जैसे विषय शामिल थे। प्रवक्ता ने कहा कि दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने की प्रतिबद्धता दोहराई। दोनों नेताओं ने भारत-न्यूज़ीलैंड मुक्त व्यापार समझौते को शीघ्र लागू करने के महत्व पर बल दिया। प्रधानमंत्री मोदी की तीन देशों की यात्रा के दौरान भारत ने इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड के साथ व्यापार, प्रौद्योगिकी, सुरक्षा, नवाचार, शिक्षा और लोगों के बीच आपसी संबंधों जैसे कई क्षेत्रों में सहयोग का विस्तार किया।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:17:27+00:00",
-        "link": "https://newsonair.gov.in/hi/return-journey-following-prime-minister-narendra-modis-historic-two-day-visit-to-new-zealand/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कृषि मंत्री शिवराज सिंह चौहान आज ‘पर्यावरण संरक्षण संकल्प’ कार्यक्रम में 17 हजार वृक्ष मित्रों से संवाद करेंगे",
-        "summary": "केंद्रीय कृषि और किसान कल्याण मंत्री शिवराज सिंह चौहान आज दिल्ली स्थित पूसा परिसर में &#8216;पर्यावरण संरक्षण संकल्प&#8217; कार्यक्रम में भाग लेंगे। इस अवसर पर वे देशभर से आए लगभग 17 हजार वृक्ष मित्रों से संवाद करेंगे और जनभागीदारी के माध्यम से पर्यावरण संरक्षण को राष्ट्रव्यापी जन आंदोलन में परिवर्तित करने का आह्वान करेंगे। […]",
-        "article": "केंद्रीय कृषि और किसान कल्याण मंत्री शिवराज सिंह चौहान आज दिल्ली स्थित पूसा परिसर में &#8216;पर्यावरण संरक्षण संकल्प&#8217; कार्यक्रम में भाग लेंगे। इस अवसर पर वे देशभर से आए लगभग 17 हजार वृक्ष मित्रों से संवाद करेंगे और जनभागीदारी के माध्यम से पर्यावरण संरक्षण को राष्ट्रव्यापी जन आंदोलन में परिवर्तित करने का आह्वान करेंगे। इस कार्यक्रम में देश के लगभग सभी राज्यों से ऐसे वृक्ष मित्र शामिल होंगे, जिन्होंने वृक्षारोपण, जल संरक्षण और पारिस्थितिकी पुनर्स्थापन के क्षेत्र में उल्लेखनीय योगदान दिया है। केंद्रीय मंत्री वृक्ष मित्रों के साथ पूसा परिसर में वृक्षारोपण अभियान में भी हिस्सा लेंगे।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:14:48+00:00",
-        "link": "https://newsonair.gov.in/hi/environment-protection-pledge/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गृह मंत्री अमित शाह आज अहमदाबाद में विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे",
-        "summary": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्‍वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
-        "article": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्&#x200d;न परियोजनाओं का शुभारंभ और शिलान्&#x200d;यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्&#x200d;वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T01:43:13+00:00",
-        "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विश्व जनसंख्या दिवस पर स्वास्थ्य मंत्रालय ने राष्ट्रीय स्वास्थ्य मिशन के तहत मासिक वेबिनार श्रृंखला शुरू की",
-        "summary": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की […]",
-        "article": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की अध्यक्षता करते हुए मंत्रालय की अतिरिक्त सचिव आराधना पटनायक ने इस बात पर बल दिया कि नवाचार उत्तरदायी और लचीली सार्वजनिक स्वास्थ्य प्रणाली का मूल आधार है। उन्होंने वेबिनार श्रृंखला को नवीन पद्धतियों की पहचान, दस्तावेजीकरण और प्रसार के लिए एक महत्वपूर्ण संस्थागत तंत्र बताया। सुश्री पटनायक ने सभी राज्यों और केंद्र शासित प्रदेशों से वेबिनार श्रृंखला में सक्रिय रूप से भाग लेने और निरंतर सीखने, ज्ञान के आदान-प्रदान और नवाचार-संचालित कार्यक्रम में योगदान देने का आह्वान किया। पहला वेबिनार &#8220;एनीमिया, बाल और किशोर स्वास्थ्य&#8221; विषय पर केंद्रित था। वेबिनार में राष्ट्रीय, राज्य और जिला स्तर के पांच सौ से अधिक अधिकारियों ने भाग लिया।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T16:00:43+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5-%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a4%82%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%be-%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8-%e0%a4%aa%e0%a4%b0-%e0%a4%b8%e0%a5%8d/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "नमस्ते योजना के तीन वर्ष पूरे होने पर 14 जुलाई को तीसरा नमस्ते दिवस",
-        "summary": "सामाजिक न्याय और अधिकारिता मंत्रालय, 2023 में शुरू हुए मशीनीकृत स्वच्छता पारिस्थितिकी तंत्र के लिए राष्ट्रीय कार्रवाई &#8211; नमस्‍ते योजना के तीन वर्ष पूरे होने के अवसर पर 14 जुलाई को तीसरा नमस्‍ते दिवस मनायेगा। दिव्‍य कला मेला के साथ मुख्‍य कार्यक्रम पश्चिम बंगाल में आयोजित किया जाएगा। वहीं, समूचे राष्‍ट्र में शहरी स्‍थानीय निकायों […]",
-        "article": "सामाजिक न्याय और अधिकारिता मंत्रालय, 2023 में शुरू हुए मशीनीकृत स्वच्छता पारिस्थितिकी तंत्र के लिए राष्ट्रीय कार्रवाई &#8211; नमस्&#x200d;ते योजना के तीन वर्ष पूरे होने के अवसर पर 14 जुलाई को तीसरा नमस्&#x200d;ते दिवस मनायेगा। दिव्&#x200d;य कला मेला के साथ मुख्&#x200d;य कार्यक्रम पश्चिम बंगाल में आयोजित किया जाएगा। वहीं, समूचे राष्&#x200d;ट्र में शहरी स्&#x200d;थानीय निकायों में भी कार्यक्रम आयोजित किए जाएंगे। समाजिक न्&#x200d;याय और अधिकारिता मंत्री डॉ. वीरेन्&#x200d;द्र कुमार और पश्चिम बंगाल के मुख्&#x200d;यमंत्री के इस कार्यक्रम में भागीदारी करने की उम्&#x200d;मीद है। सामाजिक न्&#x200d;याय और अधिकारिता मंत्रालय ने कहा कि इस अवसर पर शहरी स्&#x200d;थानीय निकाय पेशेवर सुरक्षा प्रशिक्षण, स्&#x200d;वास्&#x200d;थ्&#x200d;य जांच शिविर, मशीनों से सफाई करने वाले उपकरणों तथा सुरक्षा गियर का डेमो और सफाई कर्मचारियों के योगदान के लिए उन्हें सम्&#x200d;मानित किया जाएगा। इसके अलावा शहरी स्&#x200d;थानीय निकाय स्&#x200d;वच्&#x200d;छता कर्मचारियों के कल्&#x200d;याण पर केंद्रित कार्यक्रम भी आयोजित करेंगे।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:56:16+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%a8%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%87-%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a5%87-%e0%a4%a4%e0%a5%80%e0%a4%a8-%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7-%e0%a4%aa/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्नयन योजना ने दो लाख ऋण मंजूरी का आंकड़ा पार किया",
-        "summary": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्‍नयन योजना &#8211; पीएमएफएमई ने देश भर में दो लाख से ज़्यादा सूक्ष्म खाद्य प्रसंस्करण उद्यमों को ऋण मंज़ूर करने का अहम पड़ाव पार कर लिया है। इस योजना के तहत 20 हज़ार 300 करोड़ रुपये से ज़्यादा का निवेश हुआ है और लगभग 11 लाख प्रत्यक्ष और अप्रत्यक्ष रोज़गार के […]",
-        "article": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्&#x200d;नयन योजना &#8211; पीएमएफएमई ने देश भर में दो लाख से ज़्यादा सूक्ष्म खाद्य प्रसंस्करण उद्यमों को ऋण मंज़ूर करने का अहम पड़ाव पार कर लिया है। इस योजना के तहत 20 हज़ार 300 करोड़ रुपये से ज़्यादा का निवेश हुआ है और लगभग 11 लाख प्रत्यक्ष और अप्रत्यक्ष रोज़गार के अवसर पैदा हुए हैं। नई दिल्ली में आज एक विशेष कार्यक्रम को संबोधित करते हुए केंद्रीय खाद्य प्रसंस्करण उद्योग मंत्री चिराग पासवान ने कहा कि यह उपलब्धि न केवल जश्न मनाने का मौका है, बल्कि भारत की खाद्य प्रसंस्करण विकास यात्रा के अगले चरण के लिए एक मज़बूत आधार भी है। यह उपलब्धि दिखाती है कि योजना का विज़न देश भर में ठोस नतीजों में बदल रहा है। श्री पासवान ने इस बात पर भी ज़ोर दिया कि सभी लाभार्थियों में लगभग 44 प्रतिशत महिला उद्यमियों की भागीदारी &#8216;महिला-नेतृत्व वाले विकास&#8217; की सच्ची भावना को दर्शाती है। यह &#8216;विकसित भारत&#8217; का एक अहम आधार है। इस अवसर पर श्री पासवान ने योजना के तहत मिलने वाली &#8216;सीड कैपिटल&#8217; की सहायता का भी उल्&#x200d;लेख किया। इसके माध्&#x200d;यम से चार लाख 18 हज़ार से ज़्यादा स्वयं सहायता समूह के सदस्यों की मदद की गई है। कार्यक्रम को संबोधित करते हुए खाद्य प्रसंस्करण उद्योग मंत्रालय के सचिव ए.पी. दास जोशी ने कहा कि यह उपलब्धि भारत में सूक्ष्म खाद्य प्रसंस्करण क्षेत्र के लिए एक मज़बूत पारिस्थितिकी तंत्र के उभार को दिखाती है। उन्होंने कहा कि पीएमएफएमई उद्यम विकास के लिए एक एकीकृत दृष्टिकोण के तहत वित्त, औपचारिकीकरण, तकनीक, क्षमता निर्माण और बाज़ार तक पहुँच को एक साथ लाता है। श्री जोशी ने योजना के तहत ज़िला संसाधन व्यक्तियों के नेटवर्क पर भी ज़ोर दिया। उन्होंने कहा कि उनका काम ज़मीनी स्तर पर &#8216;डिजिटल इंडिया&#8217; और कारोबार करने की सुगमता के सफल तालमेल को दर्शाता है। मंत्रालय में संयुक्त सचिव देवेश देवल ने कहा कि पीएमएफएमई योजना सूक्ष्म खाद्य प्रसंस्करण उद्यमियों को शुरू से अंत तक सहायता देती है, जिसमें वित्तीय सहायता, प्रशिक्षण, मार्गदर्शन, ब्रांडिंग, विपणन और बाज़ार से जुड़ाव शामिल है। उन्होंने कहा कि यह योजना लोगों की आजीविका बदल रही है, स्थानीय मूल्&#x200d;य श्रृंखला को मज़बूत कर रही है और पूरे देश में रोज़गार के टिकाऊ अवसर पैदा कर रही है। अधिकारियों ने योजना के &#8216;एक ज़िला एक उत्पाद&#8217; दृष्टिकोण और लगभग 200 उत्पादों वाले 40 कॉमन ब्रांड के लिए इसके समर्थन का भी उल्&#x200d;लेख किया। यह पहल पूरे देश में मखाना, मोटे अनाज, मसालों और जीआई-टैग वाले उत्पादों के लिए स्थानीय मूल्&#x200d;य श्रृंखला बना रही है। कार्यक्रम में योजना की उपलब्धियों को उजागर करने वाले मुख्य प्रकाशन जारी किए गए और उद्यमियों ने अपनी सफलता की कहानियाँ साझा कीं। इस कार्यक्रम में मंत्रालय के वरिष्ठ अधिकारी, राज्य सरकारों के प्रतिनिधि, सहयोगी मंत्रालय, बैंकिंग संस्थान, विकास भागीदार, उद्यमी, स्वयं सहायता समूह और किसान उत्पादक संगठन शामिल हुए।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:33:27+00:00",
-        "link": "https://newsonair.gov.in/hi/pradhan-mantri-formalisation-of-micro-food-processing-enterprises-scheme-crosses-the-milestone-of-two-lakh-loan-sanctions/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम में नाव दुर्घटना में 15 भारतीयों की मौत। राष्‍ट्रपति, उपराष्ट्रपति और प्रधानमंत्री ने शोक व्यक्त किया",
-        "summary": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की […]",
-        "article": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की सूची साझा करते हुए कहा कि ये नाम वियतनामी अधिकारियों द्वारा उपलब्ध कराए गए हैं। दूतावास के अनुसार, मृतकों में से 10 तमिलनाडु से, तीन आंध्र प्रदेश से और दो केरल से थे। नाव में 32 भारतीय पर्यटकों, तीन चालक दल के सदस्यों और एक परिचारक सहित कुल 36 लोग सवार थे। 17 यात्रियों और चालक दल के चार सदस्यों सहित 21 लोगों को बचा लिया गया और अस्पतालों में भर्ती कराया गया। दो जीवित बचे लोगों की हालत गंभीर बनी हुई है और उन्हें गहन चिकित्सा देखभाल दी जा रही है। हनोई स्थित भारतीय दूतावास ने बताया कि खोज और बचाव अभियान जारी है । कुछ घंटे पहले हुई इस दुर्घटना के कारणों का पता लगाया जा रहा है। वहीं, प्रभावित परिवारों को जानकारी और सहायता प्रदान करने के लिए, हो ची मिन्ह सिटी स्थित भारतीय दूतावास में एक नियंत्रण कक्ष स्थापित किया गया है। यहां, +84 36 281 7930, +84 91 552 37 14 और +84 33 452 0414 नंबरों से संपर्क किया जा सकता है। दूतावास ने सोशल मीडिया पोस्ट में बताया कि हनोई में भी एक नियंत्रण कक्ष स्थापित किया गया है और यहां +84 91 308 9165 नंबर से संपर्क किया जा सकता है। राष्ट्रपति द्रौपदी मुर्मु, उपराष्ट्रपति सीपी राधाकृष्णन और प्रधानमंत्री नरेंद्र मोदी ने वियतनाम में नाव दुर्घटना में भारतीयों की मौत पर शोक व्यक्त किया है। राष्&#x200d;ट्रपति ने शोक संतप्त परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। उपराष्ट्रपति ने घायलों के शीघ्र और पूर्ण स्वस्थ होने की प्रार्थना की। उन्होंने इस दुखद घटना से प्रभावित सभी लोगों को शक्ति और साहस प्रदान करने की कामना की है। प्रधानमंत्री मोदी ने अपने परिजनों को खोने वाले परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। श्री मोदी ने कहा कि वियतनाम में भारतीय दूतावास तथा वाणिज्य दूतावास हरसंभव सहायता प्रदान कर रहे हैं और वियतनामी अधिकारियों के साथ लगातार संपर्क में हैं।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:28:24+00:00",
-        "link": "https://newsonair.gov.in/hi/15-indians-die-in-a-boat-accident-in-vietnam-president-vice-president-and-prime-minister-express-condolences/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "केंद्रीय गृह मंत्री अमित शाह ने युवाओं से पुस्तकालयों से जुड़ने का आह्वान किया",
-        "summary": "केंद्रीय गृह मंत्री अमित शाह ने व्यक्तित्व निर्माण में पुस्तकालयों की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए युवा पीढ़ी से पुस्तकालयों से जुड़ने की अपील की है । आज नई दिल्ली में जयप्रकाश नारायण सार्वजनिक पुस्तकालय का उद्घाटन करते हुए उन्‍होंने कहा कि लोकनायक जयप्रकाश नारायण एक महान स्वतंत्रता सेनानी, विचारक और राष्ट्रवादी नेता थे […]",
-        "article": "केंद्रीय गृह मंत्री अमित शाह ने व्यक्तित्व निर्माण में पुस्तकालयों की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए युवा पीढ़ी से पुस्तकालयों से जुड़ने की अपील की है । आज नई दिल्ली में जयप्रकाश नारायण सार्वजनिक पुस्तकालय का उद्घाटन करते हुए उन्&#x200d;होंने कहा कि लोकनायक जयप्रकाश नारायण एक महान स्वतंत्रता सेनानी, विचारक और राष्ट्रवादी नेता थे जिन्होंने देश के लिए उल्लेखनीय योगदान दिया। गृह मंत्री ने कहा कि देश और उसके लोगों को समझने के लिए पढ़ना आवश्यक है। उन्होंने राष्ट्र निर्माण में पुस्तकालयों की भूमिका पर प्रकाश डालते हुए कहा कि वे आधुनिक शिक्षा के साथ-साथ जनसमुदाय में देश की संस्कृति और ज्ञान के प्रसार का सशक्त माध्यम हैं। श्री अमित शाह ने कहा कि राष्ट्र निर्माण में योगदान देने वाली और देश को गौरव दिलाने वाली सभी गतिविधियाँ ज्ञान पर आधारित हैं, जो व्यवहार में लागू होने पर बुद्धिमत्ता और विवेक में परिवर्तित हो जाता है। उन्होंने कहा कि पुस्तकालय ऐसे ज्ञान का एक महत्वपूर्ण स्रोत हैं। श्री अमित शाह ने रेखांकित किया कि सरकार ने विदयाथियों में पढ़ने को प्रोत्साहित करने के लिए पुस्तकालयों को विद्यालयों से जोड़ने के प्रयास किए हैं। उन्होंने बताया कि गांधीनगर लोकसभा क्षेत्र में हर गांव में पुस्तकालय खोले गए हैं, जिनमें से प्रत्येक में लगभग 3 से 4 हजार पुस्तकें हैं। उन्होंने कहा कि ये पुस्तकालय एक केंद्रीय पुस्तकालय से जुड़े हैं, जिसमें एक लाख 25 हजार से अधिक पुस्तकों का संग्रह है। श्री अमित शाह ने दिल्ली सरकार से शहर भर के सभी पुस्तकालयों को आपस में जोड़ने और उन्हें स्कूलों से जोड़ने के लिए एक व्यापक योजना बनाने का आग्रह किया। उन्होंने कहा कि पुस्तक प्रेमियों को पुस्तकालयों से जुड़ने के लिए प्रोत्साहित करने के लिए एक सुव्यवस्थित कार्य योजना तैयार की जानी चाहिए। उन्होंने जयप्रकाश नारायण सार्वजनिक पुस्तकालय के कर्मचारियों से नई दिल्ली के आसपास के दस विधानसभा क्षेत्रों के सभी स्कूलों तक पहुंचने, युवाओं को पुस्तकालय से जोड़ने और उन्हें आने के लिए प्रेरित करने की अपील की। ​​उन्होंने कहा कि एक बार युवाओं में पढ़ने की आदत विकसित हो जाए, तो वे इसे स्वयं जारी रखेंगे। केंद्रीय गृह मंत्री ने कहा कि जयप्रकाश नारायण सार्वजनिक पुस्तकालय में 32 हजार से अधिक पुस्तकों का संग्रह है। उन्होंने कहा कि पुस्तकालय में शोधकर्ताओं के लिए समर्पित सुविधाएं, एक आधुनिक बहुउद्देशीय सभागार, समकालीन पठन क्षेत्र, बाल क्षेत्र, एक शोध केंद्र और एक करोड़ ऑनलाइन पुस्तकों तक पहुंच प्रदान करने वाला एक ई-पुस्तकालय है। पुस्तकालय में हर जगह मुफ्त वाई-फाई उपलब्ध है। उन्होंने बताया कि कई मॉनिटर भी लगाए गए हैं, जिससे आगंतुक अध्ययन के दौरान नोट्स ले सकते हैं, सामग्री डाउनलोड कर सकते हैं तथा अपने विचारों को और विकसित कर सकते हैं। पुस्तकालय अत्याधुनिक आरएफआईडी आधारित पुस्तक प्रबंधन प्रणाली से सुसज्जित है। इस अवसर पर दिल्ली की मुख्यमंत्री रेखा गुप्ता, दिल्ली के सार्वजनिक परिवहन विभाग के मंत्री परवेश वर्मा, नई दिल्ली नगर परिषद के अध्यक्ष केशव चंद्र और कई अन्य गणमान्य व्यक्ति उपस्थित थे।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:26:50+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%97%e0%a5%83%e0%a4%b9-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4-85/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "रेलमंत्री अश्विनी वैष्णव ने तेलंगाना में मेधा रेल कोच कलपुर्जा निर्माण सुविधा का निरीक्षण किया",
-        "summary": "रेलमंत्री अश्विनी वैष्‍णव ने तेलंगाना के संगारेड्डी जिले के नंदीगामा क्षेत्र में स्थित मेधा रेल कोच कलपुर्जा निर्माण सुविधा स्‍थल का निरीक्षण किया। 375 एकड़ भू-भाग में फैली यह विशाल औद्योगिक इकाई रेलवे के आधुनिकीकरण में महत्‍वपूर्ण प्रगति को प्रदर्शित करती है। अपनी यात्रा के दौरान श्री वैष्‍णव ने मेक इन इंडिया पहल के एक […]",
-        "article": "रेलमंत्री अश्विनी वैष्&#x200d;णव ने तेलंगाना के संगारेड्डी जिले के नंदीगामा क्षेत्र में स्थित मेधा रेल कोच कलपुर्जा निर्माण सुविधा स्&#x200d;थल का निरीक्षण किया। 375 एकड़ भू-भाग में फैली यह विशाल औद्योगिक इकाई रेलवे के आधुनिकीकरण में महत्&#x200d;वपूर्ण प्रगति को प्रदर्शित करती है। अपनी यात्रा के दौरान श्री वैष्&#x200d;णव ने मेक इन इंडिया पहल के एक महत्&#x200d;वपूर्ण हिस्&#x200d;से के रूप में निजी क्षेत्र के उद्यमों को बढ़ावा देने संबंधी सरकार की वचनबद्धता पर बल दिया। इस सुविधा के दौरे के दौरान श्री वैष्&#x200d;णव ने कलपुर्जा विनिर्माण प्रक्रिया का निकटता से पर्यवेक्षण किया। उन्&#x200d;होंने श्रमिकों से बातचीत भी की। श्री वैष्&#x200d;णव ने उनके तकनीकी कौशल, परिचालनगत कार्यप्रवाह, इस सुविधा द्वारा अपनाई गई समग्र विनिर्माण कार्यपद्धति के बारे में पूछताछ की। साथ ही उन्&#x200d;होंने मेधा संगठन द्वारा हाल ही में विकसित उन्&#x200d;नत चालकविहीन वाहन का निरीक्षण किया। यह परिवहन व्&#x200d;यवस्&#x200d;था की आधुनिक प्रौद्योगिकी को दर्शाता है। इस निरीक्षण के दौरान रेल मंत्री वैष्णव के साथ केंद्रीय मंत्री जी. किशन रेड्डी, तेलंगाना के भाजपा अध्यक्ष रामचंद्र राव और सांसद कोंडा विश्वेश्वर रेड्डी जैसे प्रमुख नेता और अधिकारी, तथा विनिर्माण कंपनी के कई प्रतिनिधि भी मौजूद थे।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:09:07+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a5%80-%e0%a4%b5%e0%a5%88%e0%a4%b7%e0%a5%8d%e0%a4%a3-5/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "politics": [
-      {
-        "title": "एफएसएसएआई ने उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए",
-        "summary": "खाद्य सुरक्षा एवं मानक प्राधिकरण-एफएसएसएआई ने खाद्य सुरक्षा और मानक अधिनियम 2006 के अंतर्गत नियमों का उल्लंघन करने के आरोपों से संबंधित कई उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए हैं। सोशल मीडिया पोस्ट में एफएसएसएआई ने कहा है कि स्विगी को विस्तृत स्पष्टीकरण और अनुपालन रिपोर्ट प्रस्तुत करने का निर्देश […]",
-        "article": "खाद्य सुरक्षा एवं मानक प्राधिकरण-एफएसएसएआई ने खाद्य सुरक्षा और मानक अधिनियम 2006 के अंतर्गत नियमों का उल्लंघन करने के आरोपों से संबंधित कई उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए हैं। सोशल मीडिया पोस्ट में एफएसएसएआई ने कहा है कि स्विगी को विस्तृत स्पष्टीकरण और अनुपालन रिपोर्ट प्रस्तुत करने का निर्देश दिया गया है और ऐसा न करने पर उचित कानूनी कार्रवाई शुरू की जाएगी। उपभोक्ता शिकायतों में स्विगी इंस्टामार्ट पर उत्&#x200d;पादों की निर्धारित अवधि समाप्&#x200d;त होने, खराब, सड़े, दूषित और अन्य प्रकार के असुरक्षित खाद्य उत्पादों की आपूर्ति का आरोप लगाया गया है। एफएसएसएआई के नोटिस में गलत, अमान्य या अनुपलब्&#x200d;ध लाइसेंस नंबरों और पंजीकृत नाम के स्&#x200d;थान पर किसी अलग नाम से संचालित खाद्य व्यवसाय संस्थाओं पर भी चिंता व्यक्त की गई है।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:23:07+00:00",
-        "link": "https://newsonair.gov.in/hi/fssai-notice-to-swiggy/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेन्द्र मोदी दो दिन की ऐतिहासिक न्यूजीलैंड यात्रा के बाद स्वदेश रवाना",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड की यात्रा पूरी कर स्‍वदेश रवाना हो गए हैं। इस दौरान श्री मोदी ने न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के साथ व्यापक बातचीत की। भारत और न्यूज़ीलैंड ने द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाया है। इस दौरान रक्षा, पर्यटन, खेल, आपदा प्रबंधन और डेयरी तथा पशुपालन सहित […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड की यात्रा पूरी कर स्&#x200d;वदेश रवाना हो गए हैं। इस दौरान श्री मोदी ने न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के साथ व्यापक बातचीत की। भारत और न्यूज़ीलैंड ने द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाया है। इस दौरान रक्षा, पर्यटन, खेल, आपदा प्रबंधन और डेयरी तथा पशुपालन सहित कई प्रमुख क्षेत्रों में समझौतों पर हस्ताक्षर किए गए। ऑकलैंड में सामुदायिक कार्यक्रम में भारतीय मूल के दस हज़ार से अधिक लोगों ने भाग लिया। श्री मोदी ने सभा को संबोधित करते हुए कहा कि भारत और न्यूज़ीलैंड का भविष्य आपस में जुड़ा हुआ है। उन्&#x200d;होंने कहा कि द्विपक्षीय व्यापार समझौता भारत की विकसित राष्ट्र बनने की यात्रा को गति प्रदान करेगा। प्रधानमंत्री लक्सन ने भारत को विश्&#x200d;वसनीय मित्र बताते हुए न्यूज़ीलैंड की प्रगति में भारतीय समुदाय के योगदान की सराहना की। उन्&#x200d;होंने प्रधानमंत्री मोदी के नेतृत्व की भी प्रशंसा की। श्री मोदी ने श्री लक्सन के शानदार आतिथ्य के लिए धन्यवाद दिया। उन्&#x200d;होंने कहा कि इस यात्रा से भारत-न्यूज़ीलैंड संबंधों में एक नया अध्याय शुरू है। श्री मोदी ने 40 वर्ष बाद भारतीय प्रधानमंत्री की न्&#x200d;यूजीलैंड यात्रा के बारे में कहा कि अगली यात्रा में इतना समय नहीं लगेगा। यात्रा की समाप्ति पर, प्रधानमंत्री लक्सन ने श्री मोदी को व्यक्तिगत रूप से हवाई अड्डे पर विदाई दी। सोशल मीडिया पोस्ट में, प्रधानमंत्री मोदी ने इस सफल यात्रा के दौरान मिले असाधारण स्नेह के लिए प्रधानमंत्री लक्सन, न्यूज़ीलैंड सरकार और लोगों को धन्यवाद दिया। श्री मोदी ने कहा कि संबंधों को रणनीतिक साझेदारी के स्तर तक ले जाने का निर्णय, व्यापार और निवेश में प्रगति तथा रक्षा, शिक्षा, संस्कृति, खेल और लोगों के बीच आपसी संबंधों में आई नई गति हमारी दोस्ती की बढ़ती गहराई को दर्शाती है। विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा कि प्रधानमंत्री मोदी की तीन देशों की यात्रा के महत्&#x200d;वपूर्ण परिणाम निकले हैं। इससे व्यापार, प्रौद्योगिकी, सुरक्षा, शिक्षा, नवाचार और लोगों के बीच आपसी संपर्क जैसे कई क्षेत्रों में सहयोग को बढ़ावा मिला है। उन्होंने बताया कि प्रधानमंत्री मोदी और न्यूज़ीलैंड के प्रधानमंत्री ने द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की। बातचीत में व्यापार और निवेश, रक्षा और सुरक्षा, कृषि प्रौद्योगिकी, खेल, शिक्षा, पर्यटन, संस्कृति और लोगों के बीच आपसी संपर्क जैसे विषय शामिल थे। प्रवक्ता ने कहा कि दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने की प्रतिबद्धता दोहराई। दोनों नेताओं ने भारत-न्यूज़ीलैंड मुक्त व्यापार समझौते को शीघ्र लागू करने के महत्व पर बल दिया। प्रधानमंत्री मोदी की तीन देशों की यात्रा के दौरान भारत ने इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड के साथ व्यापार, प्रौद्योगिकी, सुरक्षा, नवाचार, शिक्षा और लोगों के बीच आपसी संबंधों जैसे कई क्षेत्रों में सहयोग का विस्तार किया।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:17:27+00:00",
-        "link": "https://newsonair.gov.in/hi/return-journey-following-prime-minister-narendra-modis-historic-two-day-visit-to-new-zealand/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कृषि मंत्री शिवराज सिंह चौहान आज ‘पर्यावरण संरक्षण संकल्प’ कार्यक्रम में 17 हजार वृक्ष मित्रों से संवाद करेंगे",
-        "summary": "केंद्रीय कृषि और किसान कल्याण मंत्री शिवराज सिंह चौहान आज दिल्ली स्थित पूसा परिसर में &#8216;पर्यावरण संरक्षण संकल्प&#8217; कार्यक्रम में भाग लेंगे। इस अवसर पर वे देशभर से आए लगभग 17 हजार वृक्ष मित्रों से संवाद करेंगे और जनभागीदारी के माध्यम से पर्यावरण संरक्षण को राष्ट्रव्यापी जन आंदोलन में परिवर्तित करने का आह्वान करेंगे। […]",
-        "article": "केंद्रीय कृषि और किसान कल्याण मंत्री शिवराज सिंह चौहान आज दिल्ली स्थित पूसा परिसर में &#8216;पर्यावरण संरक्षण संकल्प&#8217; कार्यक्रम में भाग लेंगे। इस अवसर पर वे देशभर से आए लगभग 17 हजार वृक्ष मित्रों से संवाद करेंगे और जनभागीदारी के माध्यम से पर्यावरण संरक्षण को राष्ट्रव्यापी जन आंदोलन में परिवर्तित करने का आह्वान करेंगे। इस कार्यक्रम में देश के लगभग सभी राज्यों से ऐसे वृक्ष मित्र शामिल होंगे, जिन्होंने वृक्षारोपण, जल संरक्षण और पारिस्थितिकी पुनर्स्थापन के क्षेत्र में उल्लेखनीय योगदान दिया है। केंद्रीय मंत्री वृक्ष मित्रों के साथ पूसा परिसर में वृक्षारोपण अभियान में भी हिस्सा लेंगे।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:14:48+00:00",
-        "link": "https://newsonair.gov.in/hi/environment-protection-pledge/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गृह मंत्री अमित शाह आज अहमदाबाद में विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे",
-        "summary": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्‍वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
-        "article": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्&#x200d;न परियोजनाओं का शुभारंभ और शिलान्&#x200d;यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्&#x200d;वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T01:43:13+00:00",
-        "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विश्व जनसंख्या दिवस पर स्वास्थ्य मंत्रालय ने राष्ट्रीय स्वास्थ्य मिशन के तहत मासिक वेबिनार श्रृंखला शुरू की",
-        "summary": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की […]",
-        "article": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की अध्यक्षता करते हुए मंत्रालय की अतिरिक्त सचिव आराधना पटनायक ने इस बात पर बल दिया कि नवाचार उत्तरदायी और लचीली सार्वजनिक स्वास्थ्य प्रणाली का मूल आधार है। उन्होंने वेबिनार श्रृंखला को नवीन पद्धतियों की पहचान, दस्तावेजीकरण और प्रसार के लिए एक महत्वपूर्ण संस्थागत तंत्र बताया। सुश्री पटनायक ने सभी राज्यों और केंद्र शासित प्रदेशों से वेबिनार श्रृंखला में सक्रिय रूप से भाग लेने और निरंतर सीखने, ज्ञान के आदान-प्रदान और नवाचार-संचालित कार्यक्रम में योगदान देने का आह्वान किया। पहला वेबिनार &#8220;एनीमिया, बाल और किशोर स्वास्थ्य&#8221; विषय पर केंद्रित था। वेबिनार में राष्ट्रीय, राज्य और जिला स्तर के पांच सौ से अधिक अधिकारियों ने भाग लिया।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T16:00:43+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5-%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a4%82%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%be-%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8-%e0%a4%aa%e0%a4%b0-%e0%a4%b8%e0%a5%8d/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "नमस्ते योजना के तीन वर्ष पूरे होने पर 14 जुलाई को तीसरा नमस्ते दिवस",
-        "summary": "सामाजिक न्याय और अधिकारिता मंत्रालय, 2023 में शुरू हुए मशीनीकृत स्वच्छता पारिस्थितिकी तंत्र के लिए राष्ट्रीय कार्रवाई &#8211; नमस्‍ते योजना के तीन वर्ष पूरे होने के अवसर पर 14 जुलाई को तीसरा नमस्‍ते दिवस मनायेगा। दिव्‍य कला मेला के साथ मुख्‍य कार्यक्रम पश्चिम बंगाल में आयोजित किया जाएगा। वहीं, समूचे राष्‍ट्र में शहरी स्‍थानीय निकायों […]",
-        "article": "सामाजिक न्याय और अधिकारिता मंत्रालय, 2023 में शुरू हुए मशीनीकृत स्वच्छता पारिस्थितिकी तंत्र के लिए राष्ट्रीय कार्रवाई &#8211; नमस्&#x200d;ते योजना के तीन वर्ष पूरे होने के अवसर पर 14 जुलाई को तीसरा नमस्&#x200d;ते दिवस मनायेगा। दिव्&#x200d;य कला मेला के साथ मुख्&#x200d;य कार्यक्रम पश्चिम बंगाल में आयोजित किया जाएगा। वहीं, समूचे राष्&#x200d;ट्र में शहरी स्&#x200d;थानीय निकायों में भी कार्यक्रम आयोजित किए जाएंगे। समाजिक न्&#x200d;याय और अधिकारिता मंत्री डॉ. वीरेन्&#x200d;द्र कुमार और पश्चिम बंगाल के मुख्&#x200d;यमंत्री के इस कार्यक्रम में भागीदारी करने की उम्&#x200d;मीद है। सामाजिक न्&#x200d;याय और अधिकारिता मंत्रालय ने कहा कि इस अवसर पर शहरी स्&#x200d;थानीय निकाय पेशेवर सुरक्षा प्रशिक्षण, स्&#x200d;वास्&#x200d;थ्&#x200d;य जांच शिविर, मशीनों से सफाई करने वाले उपकरणों तथा सुरक्षा गियर का डेमो और सफाई कर्मचारियों के योगदान के लिए उन्हें सम्&#x200d;मानित किया जाएगा। इसके अलावा शहरी स्&#x200d;थानीय निकाय स्&#x200d;वच्&#x200d;छता कर्मचारियों के कल्&#x200d;याण पर केंद्रित कार्यक्रम भी आयोजित करेंगे।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:56:16+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%a8%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%87-%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a5%87-%e0%a4%a4%e0%a5%80%e0%a4%a8-%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7-%e0%a4%aa/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्नयन योजना ने दो लाख ऋण मंजूरी का आंकड़ा पार किया",
-        "summary": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्‍नयन योजना &#8211; पीएमएफएमई ने देश भर में दो लाख से ज़्यादा सूक्ष्म खाद्य प्रसंस्करण उद्यमों को ऋण मंज़ूर करने का अहम पड़ाव पार कर लिया है। इस योजना के तहत 20 हज़ार 300 करोड़ रुपये से ज़्यादा का निवेश हुआ है और लगभग 11 लाख प्रत्यक्ष और अप्रत्यक्ष रोज़गार के […]",
-        "article": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्&#x200d;नयन योजना &#8211; पीएमएफएमई ने देश भर में दो लाख से ज़्यादा सूक्ष्म खाद्य प्रसंस्करण उद्यमों को ऋण मंज़ूर करने का अहम पड़ाव पार कर लिया है। इस योजना के तहत 20 हज़ार 300 करोड़ रुपये से ज़्यादा का निवेश हुआ है और लगभग 11 लाख प्रत्यक्ष और अप्रत्यक्ष रोज़गार के अवसर पैदा हुए हैं। नई दिल्ली में आज एक विशेष कार्यक्रम को संबोधित करते हुए केंद्रीय खाद्य प्रसंस्करण उद्योग मंत्री चिराग पासवान ने कहा कि यह उपलब्धि न केवल जश्न मनाने का मौका है, बल्कि भारत की खाद्य प्रसंस्करण विकास यात्रा के अगले चरण के लिए एक मज़बूत आधार भी है। यह उपलब्धि दिखाती है कि योजना का विज़न देश भर में ठोस नतीजों में बदल रहा है। श्री पासवान ने इस बात पर भी ज़ोर दिया कि सभी लाभार्थियों में लगभग 44 प्रतिशत महिला उद्यमियों की भागीदारी &#8216;महिला-नेतृत्व वाले विकास&#8217; की सच्ची भावना को दर्शाती है। यह &#8216;विकसित भारत&#8217; का एक अहम आधार है। इस अवसर पर श्री पासवान ने योजना के तहत मिलने वाली &#8216;सीड कैपिटल&#8217; की सहायता का भी उल्&#x200d;लेख किया। इसके माध्&#x200d;यम से चार लाख 18 हज़ार से ज़्यादा स्वयं सहायता समूह के सदस्यों की मदद की गई है। कार्यक्रम को संबोधित करते हुए खाद्य प्रसंस्करण उद्योग मंत्रालय के सचिव ए.पी. दास जोशी ने कहा कि यह उपलब्धि भारत में सूक्ष्म खाद्य प्रसंस्करण क्षेत्र के लिए एक मज़बूत पारिस्थितिकी तंत्र के उभार को दिखाती है। उन्होंने कहा कि पीएमएफएमई उद्यम विकास के लिए एक एकीकृत दृष्टिकोण के तहत वित्त, औपचारिकीकरण, तकनीक, क्षमता निर्माण और बाज़ार तक पहुँच को एक साथ लाता है। श्री जोशी ने योजना के तहत ज़िला संसाधन व्यक्तियों के नेटवर्क पर भी ज़ोर दिया। उन्होंने कहा कि उनका काम ज़मीनी स्तर पर &#8216;डिजिटल इंडिया&#8217; और कारोबार करने की सुगमता के सफल तालमेल को दर्शाता है। मंत्रालय में संयुक्त सचिव देवेश देवल ने कहा कि पीएमएफएमई योजना सूक्ष्म खाद्य प्रसंस्करण उद्यमियों को शुरू से अंत तक सहायता देती है, जिसमें वित्तीय सहायता, प्रशिक्षण, मार्गदर्शन, ब्रांडिंग, विपणन और बाज़ार से जुड़ाव शामिल है। उन्होंने कहा कि यह योजना लोगों की आजीविका बदल रही है, स्थानीय मूल्&#x200d;य श्रृंखला को मज़बूत कर रही है और पूरे देश में रोज़गार के टिकाऊ अवसर पैदा कर रही है। अधिकारियों ने योजना के &#8216;एक ज़िला एक उत्पाद&#8217; दृष्टिकोण और लगभग 200 उत्पादों वाले 40 कॉमन ब्रांड के लिए इसके समर्थन का भी उल्&#x200d;लेख किया। यह पहल पूरे देश में मखाना, मोटे अनाज, मसालों और जीआई-टैग वाले उत्पादों के लिए स्थानीय मूल्&#x200d;य श्रृंखला बना रही है। कार्यक्रम में योजना की उपलब्धियों को उजागर करने वाले मुख्य प्रकाशन जारी किए गए और उद्यमियों ने अपनी सफलता की कहानियाँ साझा कीं। इस कार्यक्रम में मंत्रालय के वरिष्ठ अधिकारी, राज्य सरकारों के प्रतिनिधि, सहयोगी मंत्रालय, बैंकिंग संस्थान, विकास भागीदार, उद्यमी, स्वयं सहायता समूह और किसान उत्पादक संगठन शामिल हुए।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:33:27+00:00",
-        "link": "https://newsonair.gov.in/hi/pradhan-mantri-formalisation-of-micro-food-processing-enterprises-scheme-crosses-the-milestone-of-two-lakh-loan-sanctions/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम में नाव दुर्घटना में 15 भारतीयों की मौत। राष्‍ट्रपति, उपराष्ट्रपति और प्रधानमंत्री ने शोक व्यक्त किया",
-        "summary": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की […]",
-        "article": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की सूची साझा करते हुए कहा कि ये नाम वियतनामी अधिकारियों द्वारा उपलब्ध कराए गए हैं। दूतावास के अनुसार, मृतकों में से 10 तमिलनाडु से, तीन आंध्र प्रदेश से और दो केरल से थे। नाव में 32 भारतीय पर्यटकों, तीन चालक दल के सदस्यों और एक परिचारक सहित कुल 36 लोग सवार थे। 17 यात्रियों और चालक दल के चार सदस्यों सहित 21 लोगों को बचा लिया गया और अस्पतालों में भर्ती कराया गया। दो जीवित बचे लोगों की हालत गंभीर बनी हुई है और उन्हें गहन चिकित्सा देखभाल दी जा रही है। हनोई स्थित भारतीय दूतावास ने बताया कि खोज और बचाव अभियान जारी है । कुछ घंटे पहले हुई इस दुर्घटना के कारणों का पता लगाया जा रहा है। वहीं, प्रभावित परिवारों को जानकारी और सहायता प्रदान करने के लिए, हो ची मिन्ह सिटी स्थित भारतीय दूतावास में एक नियंत्रण कक्ष स्थापित किया गया है। यहां, +84 36 281 7930, +84 91 552 37 14 और +84 33 452 0414 नंबरों से संपर्क किया जा सकता है। दूतावास ने सोशल मीडिया पोस्ट में बताया कि हनोई में भी एक नियंत्रण कक्ष स्थापित किया गया है और यहां +84 91 308 9165 नंबर से संपर्क किया जा सकता है। राष्ट्रपति द्रौपदी मुर्मु, उपराष्ट्रपति सीपी राधाकृष्णन और प्रधानमंत्री नरेंद्र मोदी ने वियतनाम में नाव दुर्घटना में भारतीयों की मौत पर शोक व्यक्त किया है। राष्&#x200d;ट्रपति ने शोक संतप्त परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। उपराष्ट्रपति ने घायलों के शीघ्र और पूर्ण स्वस्थ होने की प्रार्थना की। उन्होंने इस दुखद घटना से प्रभावित सभी लोगों को शक्ति और साहस प्रदान करने की कामना की है। प्रधानमंत्री मोदी ने अपने परिजनों को खोने वाले परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। श्री मोदी ने कहा कि वियतनाम में भारतीय दूतावास तथा वाणिज्य दूतावास हरसंभव सहायता प्रदान कर रहे हैं और वियतनामी अधिकारियों के साथ लगातार संपर्क में हैं।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:28:24+00:00",
-        "link": "https://newsonair.gov.in/hi/15-indians-die-in-a-boat-accident-in-vietnam-president-vice-president-and-prime-minister-express-condolences/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "केंद्रीय गृह मंत्री अमित शाह ने युवाओं से पुस्तकालयों से जुड़ने का आह्वान किया",
-        "summary": "केंद्रीय गृह मंत्री अमित शाह ने व्यक्तित्व निर्माण में पुस्तकालयों की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए युवा पीढ़ी से पुस्तकालयों से जुड़ने की अपील की है । आज नई दिल्ली में जयप्रकाश नारायण सार्वजनिक पुस्तकालय का उद्घाटन करते हुए उन्‍होंने कहा कि लोकनायक जयप्रकाश नारायण एक महान स्वतंत्रता सेनानी, विचारक और राष्ट्रवादी नेता थे […]",
-        "article": "केंद्रीय गृह मंत्री अमित शाह ने व्यक्तित्व निर्माण में पुस्तकालयों की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए युवा पीढ़ी से पुस्तकालयों से जुड़ने की अपील की है । आज नई दिल्ली में जयप्रकाश नारायण सार्वजनिक पुस्तकालय का उद्घाटन करते हुए उन्&#x200d;होंने कहा कि लोकनायक जयप्रकाश नारायण एक महान स्वतंत्रता सेनानी, विचारक और राष्ट्रवादी नेता थे जिन्होंने देश के लिए उल्लेखनीय योगदान दिया। गृह मंत्री ने कहा कि देश और उसके लोगों को समझने के लिए पढ़ना आवश्यक है। उन्होंने राष्ट्र निर्माण में पुस्तकालयों की भूमिका पर प्रकाश डालते हुए कहा कि वे आधुनिक शिक्षा के साथ-साथ जनसमुदाय में देश की संस्कृति और ज्ञान के प्रसार का सशक्त माध्यम हैं। श्री अमित शाह ने कहा कि राष्ट्र निर्माण में योगदान देने वाली और देश को गौरव दिलाने वाली सभी गतिविधियाँ ज्ञान पर आधारित हैं, जो व्यवहार में लागू होने पर बुद्धिमत्ता और विवेक में परिवर्तित हो जाता है। उन्होंने कहा कि पुस्तकालय ऐसे ज्ञान का एक महत्वपूर्ण स्रोत हैं। श्री अमित शाह ने रेखांकित किया कि सरकार ने विदयाथियों में पढ़ने को प्रोत्साहित करने के लिए पुस्तकालयों को विद्यालयों से जोड़ने के प्रयास किए हैं। उन्होंने बताया कि गांधीनगर लोकसभा क्षेत्र में हर गांव में पुस्तकालय खोले गए हैं, जिनमें से प्रत्येक में लगभग 3 से 4 हजार पुस्तकें हैं। उन्होंने कहा कि ये पुस्तकालय एक केंद्रीय पुस्तकालय से जुड़े हैं, जिसमें एक लाख 25 हजार से अधिक पुस्तकों का संग्रह है। श्री अमित शाह ने दिल्ली सरकार से शहर भर के सभी पुस्तकालयों को आपस में जोड़ने और उन्हें स्कूलों से जोड़ने के लिए एक व्यापक योजना बनाने का आग्रह किया। उन्होंने कहा कि पुस्तक प्रेमियों को पुस्तकालयों से जुड़ने के लिए प्रोत्साहित करने के लिए एक सुव्यवस्थित कार्य योजना तैयार की जानी चाहिए। उन्होंने जयप्रकाश नारायण सार्वजनिक पुस्तकालय के कर्मचारियों से नई दिल्ली के आसपास के दस विधानसभा क्षेत्रों के सभी स्कूलों तक पहुंचने, युवाओं को पुस्तकालय से जोड़ने और उन्हें आने के लिए प्रेरित करने की अपील की। ​​उन्होंने कहा कि एक बार युवाओं में पढ़ने की आदत विकसित हो जाए, तो वे इसे स्वयं जारी रखेंगे। केंद्रीय गृह मंत्री ने कहा कि जयप्रकाश नारायण सार्वजनिक पुस्तकालय में 32 हजार से अधिक पुस्तकों का संग्रह है। उन्होंने कहा कि पुस्तकालय में शोधकर्ताओं के लिए समर्पित सुविधाएं, एक आधुनिक बहुउद्देशीय सभागार, समकालीन पठन क्षेत्र, बाल क्षेत्र, एक शोध केंद्र और एक करोड़ ऑनलाइन पुस्तकों तक पहुंच प्रदान करने वाला एक ई-पुस्तकालय है। पुस्तकालय में हर जगह मुफ्त वाई-फाई उपलब्ध है। उन्होंने बताया कि कई मॉनिटर भी लगाए गए हैं, जिससे आगंतुक अध्ययन के दौरान नोट्स ले सकते हैं, सामग्री डाउनलोड कर सकते हैं तथा अपने विचारों को और विकसित कर सकते हैं। पुस्तकालय अत्याधुनिक आरएफआईडी आधारित पुस्तक प्रबंधन प्रणाली से सुसज्जित है। इस अवसर पर दिल्ली की मुख्यमंत्री रेखा गुप्ता, दिल्ली के सार्वजनिक परिवहन विभाग के मंत्री परवेश वर्मा, नई दिल्ली नगर परिषद के अध्यक्ष केशव चंद्र और कई अन्य गणमान्य व्यक्ति उपस्थित थे।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:26:50+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%97%e0%a5%83%e0%a4%b9-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4-85/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "रेलमंत्री अश्विनी वैष्णव ने तेलंगाना में मेधा रेल कोच कलपुर्जा निर्माण सुविधा का निरीक्षण किया",
-        "summary": "रेलमंत्री अश्विनी वैष्‍णव ने तेलंगाना के संगारेड्डी जिले के नंदीगामा क्षेत्र में स्थित मेधा रेल कोच कलपुर्जा निर्माण सुविधा स्‍थल का निरीक्षण किया। 375 एकड़ भू-भाग में फैली यह विशाल औद्योगिक इकाई रेलवे के आधुनिकीकरण में महत्‍वपूर्ण प्रगति को प्रदर्शित करती है। अपनी यात्रा के दौरान श्री वैष्‍णव ने मेक इन इंडिया पहल के एक […]",
-        "article": "रेलमंत्री अश्विनी वैष्&#x200d;णव ने तेलंगाना के संगारेड्डी जिले के नंदीगामा क्षेत्र में स्थित मेधा रेल कोच कलपुर्जा निर्माण सुविधा स्&#x200d;थल का निरीक्षण किया। 375 एकड़ भू-भाग में फैली यह विशाल औद्योगिक इकाई रेलवे के आधुनिकीकरण में महत्&#x200d;वपूर्ण प्रगति को प्रदर्शित करती है। अपनी यात्रा के दौरान श्री वैष्&#x200d;णव ने मेक इन इंडिया पहल के एक महत्&#x200d;वपूर्ण हिस्&#x200d;से के रूप में निजी क्षेत्र के उद्यमों को बढ़ावा देने संबंधी सरकार की वचनबद्धता पर बल दिया। इस सुविधा के दौरे के दौरान श्री वैष्&#x200d;णव ने कलपुर्जा विनिर्माण प्रक्रिया का निकटता से पर्यवेक्षण किया। उन्&#x200d;होंने श्रमिकों से बातचीत भी की। श्री वैष्&#x200d;णव ने उनके तकनीकी कौशल, परिचालनगत कार्यप्रवाह, इस सुविधा द्वारा अपनाई गई समग्र विनिर्माण कार्यपद्धति के बारे में पूछताछ की। साथ ही उन्&#x200d;होंने मेधा संगठन द्वारा हाल ही में विकसित उन्&#x200d;नत चालकविहीन वाहन का निरीक्षण किया। यह परिवहन व्&#x200d;यवस्&#x200d;था की आधुनिक प्रौद्योगिकी को दर्शाता है। इस निरीक्षण के दौरान रेल मंत्री वैष्णव के साथ केंद्रीय मंत्री जी. किशन रेड्डी, तेलंगाना के भाजपा अध्यक्ष रामचंद्र राव और सांसद कोंडा विश्वेश्वर रेड्डी जैसे प्रमुख नेता और अधिकारी, तथा विनिर्माण कंपनी के कई प्रतिनिधि भी मौजूद थे।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:09:07+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a5%80-%e0%a4%b5%e0%a5%88%e0%a4%b7%e0%a5%8d%e0%a4%a3-5/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "world": [
-      {
-        "title": "वेनेजुएला में विनाशकारी भूकंप के बाद मृतकों की संख्या 4,300 के पार",
-        "summary": "वेनेजुएला में पिछले महीने आए विनाशकारी भूकंप में मरने वालों की संख्या बढ़कर 4300 से अधिक हो गई है। 24 जून को ला गुआइरा में कुछ ही सेकंड के अंतराल पर 7.2 और 7.5 तीव्रता के दो भूकंप आए थे। ये एक सदी से अधिक समय में वेनेजुएला के सबसे भीषण भूकंप माने जा रहे […]",
-        "article": "वेनेजुएला में पिछले महीने आए विनाशकारी भूकंप में मरने वालों की संख्या बढ़कर 4300 से अधिक हो गई है। 24 जून को ला गुआइरा में कुछ ही सेकंड के अंतराल पर 7.2 और 7.5 तीव्रता के दो भूकंप आए थे। ये एक सदी से अधिक समय में वेनेजुएला के सबसे भीषण भूकंप माने जा रहे हैं। संयुक्त राष्ट्र ने इस सप्ताह 13 लाख लोगों की मदद के लिए 29 करोड़ 60 लाख अमरीकी डॉलर की राहत राशि जुटाने की अपील की है। संयुक्त राष्ट्र के मानवीय मामलों के प्रमुख टॉम फ्लेचर ने मंगलवार को ला गुआइरा का दौरा किया। इस दौरान उन्होंने लापता बच्&#x200d;चों की माताओं से मुलाकात की।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:21:04+00:00",
-        "link": "https://newsonair.gov.in/hi/venezuela-earthquake/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "स्पीडबोट हादसे के बाद वियतनाम के प्रधानमंत्री ने जांच के आदेश दिए, विदेश मंत्री डॉ. एस जयशंकर ने जताया शोक",
-        "summary": "वियतनाम के प्रधानमंत्री ले मिन्ह हुन ने फु क्वोक द्वीप के पास स्पीडबोट हादसे की जांच के आदेश दिए हैं। इस हादसे में 15 भारतीय पर्यटकों की मौत हो गई । मुंबई में वियतनाम के महावाणिज्य दूतावास के अनुसार, प्रधानमंत्री ने अधिकारियों से हादसे के कारणों का पता लगाने और भविष्य में ऐसे हादसों को […]",
-        "article": "वियतनाम के प्रधानमंत्री ले मिन्ह हुन ने फु क्वोक द्वीप के पास स्पीडबोट हादसे की जांच के आदेश दिए हैं। इस हादसे में 15 भारतीय पर्यटकों की मौत हो गई । मुंबई में वियतनाम के महावाणिज्य दूतावास के अनुसार, प्रधानमंत्री ने अधिकारियों से हादसे के कारणों का पता लगाने और भविष्य में ऐसे हादसों को रोकने के लिए जरूरी कदम उठाने को कहा है। उन्होंने नियमों के उल्लंघन के लिए जिम्मेदार लोगों के खिलाफ सख्त कानूनी कार्रवाई के भी निर्देश दिए हैं। साथ ही घायलों के इलाज और मृतकों के परिजनों को हर संभव सहायता देने को कहा है। यह हादसा कल उस समय हुआ जब 36 लोगों को लेकर जा रही स्पीडबोट फु क्वोक द्वीप के पास रट नगोआई टापू के निकट अचानक ऊंची लहर की चपेट में आकर पलट गई। नाव में चालक दल के चार सदस्य भी सवार थे। स्थानीय प्रशासन ने 21 लोगों को बचा लिया, जबकि 15 भारतीयों की मौत हो गई। मृतकों में दो महिलाएं हैं। वियतनाम में भारतीय दूतावास ने मृतकों की सूची जारी की है। इनमें 10 लोग तमिलनाडु, तीन आंध्र प्रदेश और दो केरल के रहने वाले थे। विदेश मंत्री डॉ. एस जयशंकर ने वियतनाम में फू क्&#x200d;योक द्वीप के पास हुई नौका दुर्घटना में 15 भारतीय नागरिकों की मौत पर दुख व्&#x200d;यक्&#x200d;त किया है। डॉ. जयशंकर ने सोशल मीडिया पोस्&#x200d;ट में कहा है कि वे दुखद नौका दुर्घटना से काफी आहत हैं। विदेश मंत्री ने मृतकों के परिवारों के प्रति संवेदना व्&#x200d;यक्&#x200d;त करते हुए घायलों के शीघ्र स्&#x200d;वस्&#x200d;थ होने की कामना की है।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T01:40:25+00:00",
-        "link": "https://newsonair.gov.in/hi/vietnam-boat-tragedy/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "आईआरजीसी के जहाज पर हमले के बाद अमरीका ने ईरान पर नए हमले शुरू किए, होर्मुज जलडमरूमध्य अगले आदेश तक बंद",
-        "summary": "इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स के होर्मुज जलडमरूमध्य में साइप्रस के झंडे वाले जहाज पर हमले के बाद, अमरीका ने ईरान पर नए हमले शुरू कर दिए हैं। अमरीकी सेना ने कहा है कि ये हमले राष्ट्रपति डॉनल्‍ड ट्रंप के निर्देश पर किए गए। अमरीका ने बताया है कि व्‍यापारिक जहाज पर हुए हमले में चालक […]",
-        "article": "इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स के होर्मुज जलडमरूमध्य में साइप्रस के झंडे वाले जहाज पर हमले के बाद, अमरीका ने ईरान पर नए हमले शुरू कर दिए हैं। अमरीकी सेना ने कहा है कि ये हमले राष्ट्रपति डॉनल्&#x200d;ड ट्रंप के निर्देश पर किए गए। अमरीका ने बताया है कि व्&#x200d;यापारिक जहाज पर हुए हमले में चालक दल का एक नागरिक सदस्य लापता है और जहाज पर आग लगने से काफी नुकसान हुआ है। इस बीच, ईरान ने होर्मुज जलडमरूमध्य को अगली सूचना तक बंद कर दिया है। ईरान की नौसेना ने कहा है कि एक जहाज़ के अनधिकृत रास्ते का इस्तेमाल करने की कोशिश के बाद यह समुद्री रास्ता बंद किया गया है। नौसेना ने कहा कि इस इलाके में अमरीका का दखल खत्म होने तक किसी भी जहाज़ को इस रास्ते से निकलने की अनुमति नहीं दी जाएगी। नौसेना ने कहा कि होर्मुज जलडमरूमध्य की इस घटना को लेकर अमरीका की किसी भी कार्रवाई का कड़ा जवाब दिया जाएगा। अमरीका, ईरान से सार्वजनिक रूप से होर्मुज जलडमरूमध्य से गुज़रने वाले जहाज़ों पर हमला नहीं करने का आश्&#x200d;वासन चाहता है। अमरीका के एक वरिष्&#x200d;ठ अधिकारी ने कहा है कि ईरान में आंतरिक सत्&#x200d;ता संघर्ष के कारण किसी समझौते पर पहुंचना मुश्किल हो गया है। इस बीच, अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने कहा है कि तनाव के बावजूद ईरान के साथ बातचीत जारी रहेगी। ईरान ने कहा है कि होर्मुज जलडमरूमध्य उसके नियंत्रण में ही रहेगा और इस मार्ग से गुज़रने वाले जहाज़ों को शुल्क देना होगा। ईरान ने जलडमरूमध्य पर पूरे अधिकार का दावा किया है। इस बीच, ओमान ने होर्मुज जलडमरूमध्य से जहाज़ों की आवाजाही के लिए दो अलग-अलग रास्तों का प्रस्ताव दिया है, लेकिन ईरान ने इस तरह के प्रस्ताव को पहले ही खारिज कर दिया था।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T00:48:42+00:00",
-        "link": "https://newsonair.gov.in/hi/hormuz-strait-closed/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "स्पेन के अंडालूसिया क्षेत्र में भीषण जंगल की आग, काबू पाने के प्रयास जारी",
-        "summary": "दक्षिण-पूर्वी स्पेन के अंडालूसिया क्षेत्र में भीषण जंगल की आग को काबू में करने के लिए सैकड़ों दमकलकर्मी और सैन्य कर्मी संघर्ष कर रहे हैं। यह आग हाल के दशकों में देश की सबसे घातक जंगल की आग में से एक बन गई है। स्पेन के अधिकारियों के अनुसार, बेदार गांव के आसपास आपातकालीन सेवाओं […]",
-        "article": "दक्षिण-पूर्वी स्पेन के अंडालूसिया क्षेत्र में भीषण जंगल की आग को काबू में करने के लिए सैकड़ों दमकलकर्मी और सैन्य कर्मी संघर्ष कर रहे हैं। यह आग हाल के दशकों में देश की सबसे घातक जंगल की आग में से एक बन गई है। स्पेन के अधिकारियों के अनुसार, बेदार गांव के आसपास आपातकालीन सेवाओं को तैनात किया गया है, जहां 12 लोगों की मौत हो गई है &#8211; जिनमें चार ब्रिटिश नागरिक शामिल हैं। 23 अन्य लोग अभी भी लापता हैं। अल्मेरिया के लॉस गैलार्डोस क्षेत्र के स्थानीय अधिकारियों ने चेतावनी दी है कि मृतकों की संख्या बढ़ सकती है। लगभग 40 डिग्री सेल्सियस के तापमान वाली भीषण गर्मी में दक्षिणी यूरोप, विशेष रूप से फ्रांस, पुर्तगाल और स्पेन में जंगल की आग को जन्म दिया है। बढ़ते तापमान, अत्यधिक शुष्क जमीन और तेज हवाओं के कारण गुरुवार दोपहर को लॉस गैलार्डोस में आग तेजी से फैल गई। अंडालूसिया के स्वास्थ्य और आपातकालीन मंत्री एंटोनियो सैन्ज़ ने कहा कि आग 6 हजार 600 हेक्टेयर भूमि में फैल चुकी है।.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:50:04+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a5%87%e0%a4%a8-%e0%a4%95%e0%a5%87-%e0%a4%85%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b2%e0%a5%82%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be-%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%87/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1549,6 +1268,278 @@ window.VM_NEWS = {
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
+      }
+    ],
+    "national": [
+      {
+        "title": "प्रधानमंत्री नरेंद्र मोदी छह दिन की इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड यात्रा के बाद नई दिल्ली लौटे",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के राष्ट्रपति के साथ द्विपक्षीय चर्चा की और साझेदारी में हुई प्रगति की समीक्षा की। अपनी यात्रा के दूसरे चरण में, प्रधानमंत्री मोदी मेलबर्न, ऑस्ट्रेलिया गए। श्री मोदी ने ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लिया। अपनी यात्रा के दौरान, प्रधानमंत्री मोदी ने भारत-ऑस्ट्रेलिया सीईओ फोरम में भी भाग लिया, जहां उन्होंने दोनों देशों के शीर्ष व्यापारिक नेताओं की सभा को संबोधित किया। तीन देशों की यात्रा के तीसरे और अंतिम चरण में, प्रधानमंत्री ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के निमंत्रण पर 10 से 11 जुलाई तक ऑकलैंड का दौरा किया। न्यूजीलैंड की यह यात्रा किसी भी भारतीय प्रधानमंत्री की 40 वर्षों में पहली यात्रा थी।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T05:51:27+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-three-nation-tour/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM8J-CXbMAAQjus.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कृषि मंत्री शिवराज सिंह चौहान आज ‘पर्यावरण संरक्षण संकल्प’ कार्यक्रम में 17 हजार वृक्ष मित्रों से संवाद करेंगे",
+        "summary": "केंद्रीय कृषि और किसान कल्याण मंत्री शिवराज सिंह चौहान आज दिल्ली स्थित पूसा परिसर में &#8216;पर्यावरण संरक्षण संकल्प&#8217; कार्यक्रम में भाग लेंगे। इस अवसर पर वे देशभर से आए लगभग 17 हजार वृक्ष मित्रों से संवाद करेंगे और जनभागीदारी के माध्यम से पर्यावरण संरक्षण को राष्ट्रव्यापी जन आंदोलन में परिवर्तित करने का आह्वान करेंगे। […]",
+        "article": "केंद्रीय कृषि और किसान कल्याण मंत्री शिवराज सिंह चौहान आज दिल्ली स्थित पूसा परिसर में &#8216;पर्यावरण संरक्षण संकल्प&#8217; कार्यक्रम में भाग लेंगे। इस अवसर पर वे देशभर से आए लगभग 17 हजार वृक्ष मित्रों से संवाद करेंगे और जनभागीदारी के माध्यम से पर्यावरण संरक्षण को राष्ट्रव्यापी जन आंदोलन में परिवर्तित करने का आह्वान करेंगे। इस कार्यक्रम में देश के लगभग सभी राज्यों से ऐसे वृक्ष मित्र शामिल होंगे, जिन्होंने वृक्षारोपण, जल संरक्षण और पारिस्थितिकी पुनर्स्थापन के क्षेत्र में उल्लेखनीय योगदान दिया है। केंद्रीय मंत्री वृक्ष मित्रों के साथ पूसा परिसर में वृक्षारोपण अभियान में भी हिस्सा लेंगे।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:14:48+00:00",
+        "link": "https://newsonair.gov.in/hi/environment-protection-pledge/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Union-Minister-Shivraj-Singh-Chouhan-holds-review-meeting-on-El-Nino-effect-on-agriculture.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गृह मंत्री अमित शाह आज अहमदाबाद में विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे",
+        "summary": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्‍वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
+        "article": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्&#x200d;न परियोजनाओं का शुभारंभ और शिलान्&#x200d;यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्&#x200d;वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T01:43:13+00:00",
+        "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/AMIT-SHAH-1-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विश्व जनसंख्या दिवस पर स्वास्थ्य मंत्रालय ने राष्ट्रीय स्वास्थ्य मिशन के तहत मासिक वेबिनार श्रृंखला शुरू की",
+        "summary": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की […]",
+        "article": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की अध्यक्षता करते हुए मंत्रालय की अतिरिक्त सचिव आराधना पटनायक ने इस बात पर बल दिया कि नवाचार उत्तरदायी और लचीली सार्वजनिक स्वास्थ्य प्रणाली का मूल आधार है। उन्होंने वेबिनार श्रृंखला को नवीन पद्धतियों की पहचान, दस्तावेजीकरण और प्रसार के लिए एक महत्वपूर्ण संस्थागत तंत्र बताया। सुश्री पटनायक ने सभी राज्यों और केंद्र शासित प्रदेशों से वेबिनार श्रृंखला में सक्रिय रूप से भाग लेने और निरंतर सीखने, ज्ञान के आदान-प्रदान और नवाचार-संचालित कार्यक्रम में योगदान देने का आह्वान किया। पहला वेबिनार &#8220;एनीमिया, बाल और किशोर स्वास्थ्य&#8221; विषय पर केंद्रित था। वेबिनार में राष्ट्रीय, राज्य और जिला स्तर के पांच सौ से अधिक अधिकारियों ने भाग लिया।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T16:00:43+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5-%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a4%82%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%be-%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8-%e0%a4%aa%e0%a4%b0-%e0%a4%b8%e0%a5%8d/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-1-3.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "नमस्ते योजना के तीन वर्ष पूरे होने पर 14 जुलाई को तीसरा नमस्ते दिवस",
+        "summary": "सामाजिक न्याय और अधिकारिता मंत्रालय, 2023 में शुरू हुए मशीनीकृत स्वच्छता पारिस्थितिकी तंत्र के लिए राष्ट्रीय कार्रवाई &#8211; नमस्‍ते योजना के तीन वर्ष पूरे होने के अवसर पर 14 जुलाई को तीसरा नमस्‍ते दिवस मनायेगा। दिव्‍य कला मेला के साथ मुख्‍य कार्यक्रम पश्चिम बंगाल में आयोजित किया जाएगा। वहीं, समूचे राष्‍ट्र में शहरी स्‍थानीय निकायों […]",
+        "article": "सामाजिक न्याय और अधिकारिता मंत्रालय, 2023 में शुरू हुए मशीनीकृत स्वच्छता पारिस्थितिकी तंत्र के लिए राष्ट्रीय कार्रवाई &#8211; नमस्&#x200d;ते योजना के तीन वर्ष पूरे होने के अवसर पर 14 जुलाई को तीसरा नमस्&#x200d;ते दिवस मनायेगा। दिव्&#x200d;य कला मेला के साथ मुख्&#x200d;य कार्यक्रम पश्चिम बंगाल में आयोजित किया जाएगा। वहीं, समूचे राष्&#x200d;ट्र में शहरी स्&#x200d;थानीय निकायों में भी कार्यक्रम आयोजित किए जाएंगे। समाजिक न्&#x200d;याय और अधिकारिता मंत्री डॉ. वीरेन्&#x200d;द्र कुमार और पश्चिम बंगाल के मुख्&#x200d;यमंत्री के इस कार्यक्रम में भागीदारी करने की उम्&#x200d;मीद है। सामाजिक न्&#x200d;याय और अधिकारिता मंत्रालय ने कहा कि इस अवसर पर शहरी स्&#x200d;थानीय निकाय पेशेवर सुरक्षा प्रशिक्षण, स्&#x200d;वास्&#x200d;थ्&#x200d;य जांच शिविर, मशीनों से सफाई करने वाले उपकरणों तथा सुरक्षा गियर का डेमो और सफाई कर्मचारियों के योगदान के लिए उन्हें सम्&#x200d;मानित किया जाएगा। इसके अलावा शहरी स्&#x200d;थानीय निकाय स्&#x200d;वच्&#x200d;छता कर्मचारियों के कल्&#x200d;याण पर केंद्रित कार्यक्रम भी आयोजित करेंगे।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T15:56:16+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%a8%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%87-%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a5%87-%e0%a4%a4%e0%a5%80%e0%a4%a8-%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7-%e0%a4%aa/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्नयन योजना ने दो लाख ऋण मंजूरी का आंकड़ा पार किया",
+        "summary": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्‍नयन योजना &#8211; पीएमएफएमई ने देश भर में दो लाख से ज़्यादा सूक्ष्म खाद्य प्रसंस्करण उद्यमों को ऋण मंज़ूर करने का अहम पड़ाव पार कर लिया है। इस योजना के तहत 20 हज़ार 300 करोड़ रुपये से ज़्यादा का निवेश हुआ है और लगभग 11 लाख प्रत्यक्ष और अप्रत्यक्ष रोज़गार के […]",
+        "article": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्&#x200d;नयन योजना &#8211; पीएमएफएमई ने देश भर में दो लाख से ज़्यादा सूक्ष्म खाद्य प्रसंस्करण उद्यमों को ऋण मंज़ूर करने का अहम पड़ाव पार कर लिया है। इस योजना के तहत 20 हज़ार 300 करोड़ रुपये से ज़्यादा का निवेश हुआ है और लगभग 11 लाख प्रत्यक्ष और अप्रत्यक्ष रोज़गार के अवसर पैदा हुए हैं। नई दिल्ली में आज एक विशेष कार्यक्रम को संबोधित करते हुए केंद्रीय खाद्य प्रसंस्करण उद्योग मंत्री चिराग पासवान ने कहा कि यह उपलब्धि न केवल जश्न मनाने का मौका है, बल्कि भारत की खाद्य प्रसंस्करण विकास यात्रा के अगले चरण के लिए एक मज़बूत आधार भी है। यह उपलब्धि दिखाती है कि योजना का विज़न देश भर में ठोस नतीजों में बदल रहा है। श्री पासवान ने इस बात पर भी ज़ोर दिया कि सभी लाभार्थियों में लगभग 44 प्रतिशत महिला उद्यमियों की भागीदारी &#8216;महिला-नेतृत्व वाले विकास&#8217; की सच्ची भावना को दर्शाती है। यह &#8216;विकसित भारत&#8217; का एक अहम आधार है। इस अवसर पर श्री पासवान ने योजना के तहत मिलने वाली &#8216;सीड कैपिटल&#8217; की सहायता का भी उल्&#x200d;लेख किया। इसके माध्&#x200d;यम से चार लाख 18 हज़ार से ज़्यादा स्वयं सहायता समूह के सदस्यों की मदद की गई है। कार्यक्रम को संबोधित करते हुए खाद्य प्रसंस्करण उद्योग मंत्रालय के सचिव ए.पी. दास जोशी ने कहा कि यह उपलब्धि भारत में सूक्ष्म खाद्य प्रसंस्करण क्षेत्र के लिए एक मज़बूत पारिस्थितिकी तंत्र के उभार को दिखाती है। उन्होंने कहा कि पीएमएफएमई उद्यम विकास के लिए एक एकीकृत दृष्टिकोण के तहत वित्त, औपचारिकीकरण, तकनीक, क्षमता निर्माण और बाज़ार तक पहुँच को एक साथ लाता है। श्री जोशी ने योजना के तहत ज़िला संसाधन व्यक्तियों के नेटवर्क पर भी ज़ोर दिया। उन्होंने कहा कि उनका काम ज़मीनी स्तर पर &#8216;डिजिटल इंडिया&#8217; और कारोबार करने की सुगमता के सफल तालमेल को दर्शाता है। मंत्रालय में संयुक्त सचिव देवेश देवल ने कहा कि पीएमएफएमई योजना सूक्ष्म खाद्य प्रसंस्करण उद्यमियों को शुरू से अंत तक सहायता देती है, जिसमें वित्तीय सहायता, प्रशिक्षण, मार्गदर्शन, ब्रांडिंग, विपणन और बाज़ार से जुड़ाव शामिल है। उन्होंने कहा कि यह योजना लोगों की आजीविका बदल रही है, स्थानीय मूल्&#x200d;य श्रृंखला को मज़बूत कर रही है और पूरे देश में रोज़गार के टिकाऊ अवसर पैदा कर रही है। अधिकारियों ने योजना के &#8216;एक ज़िला एक उत्पाद&#8217; दृष्टिकोण और लगभग 200 उत्पादों वाले 40 कॉमन ब्रांड के लिए इसके समर्थन का भी उल्&#x200d;लेख किया। यह पहल पूरे देश में मखाना, मोटे अनाज, मसालों और जीआई-टैग वाले उत्पादों के लिए स्थानीय मूल्&#x200d;य श्रृंखला बना रही है। कार्यक्रम में योजना की उपलब्धियों को उजागर करने वाले मुख्य प्रकाशन जारी किए गए और उद्यमियों ने अपनी सफलता की कहानियाँ साझा कीं। इस कार्यक्रम में मंत्रालय के वरिष्ठ अधिकारी, राज्य सरकारों के प्रतिनिधि, सहयोगी मंत्रालय, बैंकिंग संस्थान, विकास भागीदार, उद्यमी, स्वयं सहायता समूह और किसान उत्पादक संगठन शामिल हुए।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T15:33:27+00:00",
+        "link": "https://newsonair.gov.in/hi/pradhan-mantri-formalisation-of-micro-food-processing-enterprises-scheme-crosses-the-milestone-of-two-lakh-loan-sanctions/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-210208.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय गृह मंत्री अमित शाह ने युवाओं से पुस्तकालयों से जुड़ने का आह्वान किया",
+        "summary": "केंद्रीय गृह मंत्री अमित शाह ने व्यक्तित्व निर्माण में पुस्तकालयों की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए युवा पीढ़ी से पुस्तकालयों से जुड़ने की अपील की है । आज नई दिल्ली में जयप्रकाश नारायण सार्वजनिक पुस्तकालय का उद्घाटन करते हुए उन्‍होंने कहा कि लोकनायक जयप्रकाश नारायण एक महान स्वतंत्रता सेनानी, विचारक और राष्ट्रवादी नेता थे […]",
+        "article": "केंद्रीय गृह मंत्री अमित शाह ने व्यक्तित्व निर्माण में पुस्तकालयों की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए युवा पीढ़ी से पुस्तकालयों से जुड़ने की अपील की है । आज नई दिल्ली में जयप्रकाश नारायण सार्वजनिक पुस्तकालय का उद्घाटन करते हुए उन्&#x200d;होंने कहा कि लोकनायक जयप्रकाश नारायण एक महान स्वतंत्रता सेनानी, विचारक और राष्ट्रवादी नेता थे जिन्होंने देश के लिए उल्लेखनीय योगदान दिया। गृह मंत्री ने कहा कि देश और उसके लोगों को समझने के लिए पढ़ना आवश्यक है। उन्होंने राष्ट्र निर्माण में पुस्तकालयों की भूमिका पर प्रकाश डालते हुए कहा कि वे आधुनिक शिक्षा के साथ-साथ जनसमुदाय में देश की संस्कृति और ज्ञान के प्रसार का सशक्त माध्यम हैं। श्री अमित शाह ने कहा कि राष्ट्र निर्माण में योगदान देने वाली और देश को गौरव दिलाने वाली सभी गतिविधियाँ ज्ञान पर आधारित हैं, जो व्यवहार में लागू होने पर बुद्धिमत्ता और विवेक में परिवर्तित हो जाता है। उन्होंने कहा कि पुस्तकालय ऐसे ज्ञान का एक महत्वपूर्ण स्रोत हैं। श्री अमित शाह ने रेखांकित किया कि सरकार ने विदयाथियों में पढ़ने को प्रोत्साहित करने के लिए पुस्तकालयों को विद्यालयों से जोड़ने के प्रयास किए हैं। उन्होंने बताया कि गांधीनगर लोकसभा क्षेत्र में हर गांव में पुस्तकालय खोले गए हैं, जिनमें से प्रत्येक में लगभग 3 से 4 हजार पुस्तकें हैं। उन्होंने कहा कि ये पुस्तकालय एक केंद्रीय पुस्तकालय से जुड़े हैं, जिसमें एक लाख 25 हजार से अधिक पुस्तकों का संग्रह है। श्री अमित शाह ने दिल्ली सरकार से शहर भर के सभी पुस्तकालयों को आपस में जोड़ने और उन्हें स्कूलों से जोड़ने के लिए एक व्यापक योजना बनाने का आग्रह किया। उन्होंने कहा कि पुस्तक प्रेमियों को पुस्तकालयों से जुड़ने के लिए प्रोत्साहित करने के लिए एक सुव्यवस्थित कार्य योजना तैयार की जानी चाहिए। उन्होंने जयप्रकाश नारायण सार्वजनिक पुस्तकालय के कर्मचारियों से नई दिल्ली के आसपास के दस विधानसभा क्षेत्रों के सभी स्कूलों तक पहुंचने, युवाओं को पुस्तकालय से जोड़ने और उन्हें आने के लिए प्रेरित करने की अपील की। ​​उन्होंने कहा कि एक बार युवाओं में पढ़ने की आदत विकसित हो जाए, तो वे इसे स्वयं जारी रखेंगे। केंद्रीय गृह मंत्री ने कहा कि जयप्रकाश नारायण सार्वजनिक पुस्तकालय में 32 हजार से अधिक पुस्तकों का संग्रह है। उन्होंने कहा कि पुस्तकालय में शोधकर्ताओं के लिए समर्पित सुविधाएं, एक आधुनिक बहुउद्देशीय सभागार, समकालीन पठन क्षेत्र, बाल क्षेत्र, एक शोध केंद्र और एक करोड़ ऑनलाइन पुस्तकों तक पहुंच प्रदान करने वाला एक ई-पुस्तकालय है। पुस्तकालय में हर जगह मुफ्त वाई-फाई उपलब्ध है। उन्होंने बताया कि कई मॉनिटर भी लगाए गए हैं, जिससे आगंतुक अध्ययन के दौरान नोट्स ले सकते हैं, सामग्री डाउनलोड कर सकते हैं तथा अपने विचारों को और विकसित कर सकते हैं। पुस्तकालय अत्याधुनिक आरएफआईडी आधारित पुस्तक प्रबंधन प्रणाली से सुसज्जित है। इस अवसर पर दिल्ली की मुख्यमंत्री रेखा गुप्ता, दिल्ली के सार्वजनिक परिवहन विभाग के मंत्री परवेश वर्मा, नई दिल्ली नगर परिषद के अध्यक्ष केशव चंद्र और कई अन्य गणमान्य व्यक्ति उपस्थित थे।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T15:26:50+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%97%e0%a5%83%e0%a4%b9-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4-85/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-205348.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "रेलमंत्री अश्विनी वैष्णव ने तेलंगाना में मेधा रेल कोच कलपुर्जा निर्माण सुविधा का निरीक्षण किया",
+        "summary": "रेलमंत्री अश्विनी वैष्‍णव ने तेलंगाना के संगारेड्डी जिले के नंदीगामा क्षेत्र में स्थित मेधा रेल कोच कलपुर्जा निर्माण सुविधा स्‍थल का निरीक्षण किया। 375 एकड़ भू-भाग में फैली यह विशाल औद्योगिक इकाई रेलवे के आधुनिकीकरण में महत्‍वपूर्ण प्रगति को प्रदर्शित करती है। अपनी यात्रा के दौरान श्री वैष्‍णव ने मेक इन इंडिया पहल के एक […]",
+        "article": "रेलमंत्री अश्विनी वैष्&#x200d;णव ने तेलंगाना के संगारेड्डी जिले के नंदीगामा क्षेत्र में स्थित मेधा रेल कोच कलपुर्जा निर्माण सुविधा स्&#x200d;थल का निरीक्षण किया। 375 एकड़ भू-भाग में फैली यह विशाल औद्योगिक इकाई रेलवे के आधुनिकीकरण में महत्&#x200d;वपूर्ण प्रगति को प्रदर्शित करती है। अपनी यात्रा के दौरान श्री वैष्&#x200d;णव ने मेक इन इंडिया पहल के एक महत्&#x200d;वपूर्ण हिस्&#x200d;से के रूप में निजी क्षेत्र के उद्यमों को बढ़ावा देने संबंधी सरकार की वचनबद्धता पर बल दिया। इस सुविधा के दौरे के दौरान श्री वैष्&#x200d;णव ने कलपुर्जा विनिर्माण प्रक्रिया का निकटता से पर्यवेक्षण किया। उन्&#x200d;होंने श्रमिकों से बातचीत भी की। श्री वैष्&#x200d;णव ने उनके तकनीकी कौशल, परिचालनगत कार्यप्रवाह, इस सुविधा द्वारा अपनाई गई समग्र विनिर्माण कार्यपद्धति के बारे में पूछताछ की। साथ ही उन्&#x200d;होंने मेधा संगठन द्वारा हाल ही में विकसित उन्&#x200d;नत चालकविहीन वाहन का निरीक्षण किया। यह परिवहन व्&#x200d;यवस्&#x200d;था की आधुनिक प्रौद्योगिकी को दर्शाता है। इस निरीक्षण के दौरान रेल मंत्री वैष्णव के साथ केंद्रीय मंत्री जी. किशन रेड्डी, तेलंगाना के भाजपा अध्यक्ष रामचंद्र राव और सांसद कोंडा विश्वेश्वर रेड्डी जैसे प्रमुख नेता और अधिकारी, तथा विनिर्माण कंपनी के कई प्रतिनिधि भी मौजूद थे।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T15:09:07+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a5%80-%e0%a4%b5%e0%a5%88%e0%a4%b7%e0%a5%8d%e0%a4%a3-5/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-203808.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "एफएसएसएआई ने उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए",
+        "summary": "खाद्य सुरक्षा एवं मानक प्राधिकरण-एफएसएसएआई ने खाद्य सुरक्षा और मानक अधिनियम 2006 के अंतर्गत नियमों का उल्लंघन करने के आरोपों से संबंधित कई उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए हैं। सोशल मीडिया पोस्ट में एफएसएसएआई ने कहा है कि स्विगी को विस्तृत स्पष्टीकरण और अनुपालन रिपोर्ट प्रस्तुत करने का निर्देश […]",
+        "article": "खाद्य सुरक्षा एवं मानक प्राधिकरण-एफएसएसएआई ने खाद्य सुरक्षा और मानक अधिनियम 2006 के अंतर्गत नियमों का उल्लंघन करने के आरोपों से संबंधित कई उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए हैं। सोशल मीडिया पोस्ट में एफएसएसएआई ने कहा है कि स्विगी को विस्तृत स्पष्टीकरण और अनुपालन रिपोर्ट प्रस्तुत करने का निर्देश दिया गया है और ऐसा न करने पर उचित कानूनी कार्रवाई शुरू की जाएगी। उपभोक्ता शिकायतों में स्विगी इंस्टामार्ट पर उत्&#x200d;पादों की निर्धारित अवधि समाप्&#x200d;त होने, खराब, सड़े, दूषित और अन्य प्रकार के असुरक्षित खाद्य उत्पादों की आपूर्ति का आरोप लगाया गया है। एफएसएसएआई के नोटिस में गलत, अमान्य या अनुपलब्&#x200d;ध लाइसेंस नंबरों और पंजीकृत नाम के स्&#x200d;थान पर किसी अलग नाम से संचालित खाद्य व्यवसाय संस्थाओं पर भी चिंता व्यक्त की गई है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:23:07+00:00",
+        "link": "https://newsonair.gov.in/hi/fssai-notice-to-swiggy/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वियतनाम में नाव दुर्घटना में 15 भारतीयों की मौत। राष्‍ट्रपति, उपराष्ट्रपति और प्रधानमंत्री ने शोक व्यक्त किया",
+        "summary": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की […]",
+        "article": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की सूची साझा करते हुए कहा कि ये नाम वियतनामी अधिकारियों द्वारा उपलब्ध कराए गए हैं। दूतावास के अनुसार, मृतकों में से 10 तमिलनाडु से, तीन आंध्र प्रदेश से और दो केरल से थे। नाव में 32 भारतीय पर्यटकों, तीन चालक दल के सदस्यों और एक परिचारक सहित कुल 36 लोग सवार थे। 17 यात्रियों और चालक दल के चार सदस्यों सहित 21 लोगों को बचा लिया गया और अस्पतालों में भर्ती कराया गया। दो जीवित बचे लोगों की हालत गंभीर बनी हुई है और उन्हें गहन चिकित्सा देखभाल दी जा रही है। हनोई स्थित भारतीय दूतावास ने बताया कि खोज और बचाव अभियान जारी है । कुछ घंटे पहले हुई इस दुर्घटना के कारणों का पता लगाया जा रहा है। वहीं, प्रभावित परिवारों को जानकारी और सहायता प्रदान करने के लिए, हो ची मिन्ह सिटी स्थित भारतीय दूतावास में एक नियंत्रण कक्ष स्थापित किया गया है। यहां, +84 36 281 7930, +84 91 552 37 14 और +84 33 452 0414 नंबरों से संपर्क किया जा सकता है। दूतावास ने सोशल मीडिया पोस्ट में बताया कि हनोई में भी एक नियंत्रण कक्ष स्थापित किया गया है और यहां +84 91 308 9165 नंबर से संपर्क किया जा सकता है। राष्ट्रपति द्रौपदी मुर्मु, उपराष्ट्रपति सीपी राधाकृष्णन और प्रधानमंत्री नरेंद्र मोदी ने वियतनाम में नाव दुर्घटना में भारतीयों की मौत पर शोक व्यक्त किया है। राष्&#x200d;ट्रपति ने शोक संतप्त परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। उपराष्ट्रपति ने घायलों के शीघ्र और पूर्ण स्वस्थ होने की प्रार्थना की। उन्होंने इस दुखद घटना से प्रभावित सभी लोगों को शक्ति और साहस प्रदान करने की कामना की है। प्रधानमंत्री मोदी ने अपने परिजनों को खोने वाले परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। श्री मोदी ने कहा कि वियतनाम में भारतीय दूतावास तथा वाणिज्य दूतावास हरसंभव सहायता प्रदान कर रहे हैं और वियतनामी अधिकारियों के साथ लगातार संपर्क में हैं।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T15:28:24+00:00",
+        "link": "https://newsonair.gov.in/hi/15-indians-die-in-a-boat-accident-in-vietnam-president-vice-president-and-prime-minister-express-condolences/",
+        "post_id": 1732375,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "politics": [
+      {
+        "title": "प्रधानमंत्री नरेंद्र मोदी छह दिन की इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड यात्रा के बाद नई दिल्ली लौटे",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के राष्ट्रपति के साथ द्विपक्षीय चर्चा की और साझेदारी में हुई प्रगति की समीक्षा की। अपनी यात्रा के दूसरे चरण में, प्रधानमंत्री मोदी मेलबर्न, ऑस्ट्रेलिया गए। श्री मोदी ने ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लिया। अपनी यात्रा के दौरान, प्रधानमंत्री मोदी ने भारत-ऑस्ट्रेलिया सीईओ फोरम में भी भाग लिया, जहां उन्होंने दोनों देशों के शीर्ष व्यापारिक नेताओं की सभा को संबोधित किया। तीन देशों की यात्रा के तीसरे और अंतिम चरण में, प्रधानमंत्री ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के निमंत्रण पर 10 से 11 जुलाई तक ऑकलैंड का दौरा किया। न्यूजीलैंड की यह यात्रा किसी भी भारतीय प्रधानमंत्री की 40 वर्षों में पहली यात्रा थी।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T05:51:27+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-modi-three-nation-tour/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM8J-CXbMAAQjus.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कृषि मंत्री शिवराज सिंह चौहान आज ‘पर्यावरण संरक्षण संकल्प’ कार्यक्रम में 17 हजार वृक्ष मित्रों से संवाद करेंगे",
+        "summary": "केंद्रीय कृषि और किसान कल्याण मंत्री शिवराज सिंह चौहान आज दिल्ली स्थित पूसा परिसर में &#8216;पर्यावरण संरक्षण संकल्प&#8217; कार्यक्रम में भाग लेंगे। इस अवसर पर वे देशभर से आए लगभग 17 हजार वृक्ष मित्रों से संवाद करेंगे और जनभागीदारी के माध्यम से पर्यावरण संरक्षण को राष्ट्रव्यापी जन आंदोलन में परिवर्तित करने का आह्वान करेंगे। […]",
+        "article": "केंद्रीय कृषि और किसान कल्याण मंत्री शिवराज सिंह चौहान आज दिल्ली स्थित पूसा परिसर में &#8216;पर्यावरण संरक्षण संकल्प&#8217; कार्यक्रम में भाग लेंगे। इस अवसर पर वे देशभर से आए लगभग 17 हजार वृक्ष मित्रों से संवाद करेंगे और जनभागीदारी के माध्यम से पर्यावरण संरक्षण को राष्ट्रव्यापी जन आंदोलन में परिवर्तित करने का आह्वान करेंगे। इस कार्यक्रम में देश के लगभग सभी राज्यों से ऐसे वृक्ष मित्र शामिल होंगे, जिन्होंने वृक्षारोपण, जल संरक्षण और पारिस्थितिकी पुनर्स्थापन के क्षेत्र में उल्लेखनीय योगदान दिया है। केंद्रीय मंत्री वृक्ष मित्रों के साथ पूसा परिसर में वृक्षारोपण अभियान में भी हिस्सा लेंगे।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:14:48+00:00",
+        "link": "https://newsonair.gov.in/hi/environment-protection-pledge/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Union-Minister-Shivraj-Singh-Chouhan-holds-review-meeting-on-El-Nino-effect-on-agriculture.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गृह मंत्री अमित शाह आज अहमदाबाद में विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे",
+        "summary": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्‍वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
+        "article": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्&#x200d;न परियोजनाओं का शुभारंभ और शिलान्&#x200d;यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्&#x200d;वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T01:43:13+00:00",
+        "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/AMIT-SHAH-1-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विश्व जनसंख्या दिवस पर स्वास्थ्य मंत्रालय ने राष्ट्रीय स्वास्थ्य मिशन के तहत मासिक वेबिनार श्रृंखला शुरू की",
+        "summary": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की […]",
+        "article": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की अध्यक्षता करते हुए मंत्रालय की अतिरिक्त सचिव आराधना पटनायक ने इस बात पर बल दिया कि नवाचार उत्तरदायी और लचीली सार्वजनिक स्वास्थ्य प्रणाली का मूल आधार है। उन्होंने वेबिनार श्रृंखला को नवीन पद्धतियों की पहचान, दस्तावेजीकरण और प्रसार के लिए एक महत्वपूर्ण संस्थागत तंत्र बताया। सुश्री पटनायक ने सभी राज्यों और केंद्र शासित प्रदेशों से वेबिनार श्रृंखला में सक्रिय रूप से भाग लेने और निरंतर सीखने, ज्ञान के आदान-प्रदान और नवाचार-संचालित कार्यक्रम में योगदान देने का आह्वान किया। पहला वेबिनार &#8220;एनीमिया, बाल और किशोर स्वास्थ्य&#8221; विषय पर केंद्रित था। वेबिनार में राष्ट्रीय, राज्य और जिला स्तर के पांच सौ से अधिक अधिकारियों ने भाग लिया।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T16:00:43+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5-%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a4%82%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%be-%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8-%e0%a4%aa%e0%a4%b0-%e0%a4%b8%e0%a5%8d/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-1-3.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "नमस्ते योजना के तीन वर्ष पूरे होने पर 14 जुलाई को तीसरा नमस्ते दिवस",
+        "summary": "सामाजिक न्याय और अधिकारिता मंत्रालय, 2023 में शुरू हुए मशीनीकृत स्वच्छता पारिस्थितिकी तंत्र के लिए राष्ट्रीय कार्रवाई &#8211; नमस्‍ते योजना के तीन वर्ष पूरे होने के अवसर पर 14 जुलाई को तीसरा नमस्‍ते दिवस मनायेगा। दिव्‍य कला मेला के साथ मुख्‍य कार्यक्रम पश्चिम बंगाल में आयोजित किया जाएगा। वहीं, समूचे राष्‍ट्र में शहरी स्‍थानीय निकायों […]",
+        "article": "सामाजिक न्याय और अधिकारिता मंत्रालय, 2023 में शुरू हुए मशीनीकृत स्वच्छता पारिस्थितिकी तंत्र के लिए राष्ट्रीय कार्रवाई &#8211; नमस्&#x200d;ते योजना के तीन वर्ष पूरे होने के अवसर पर 14 जुलाई को तीसरा नमस्&#x200d;ते दिवस मनायेगा। दिव्&#x200d;य कला मेला के साथ मुख्&#x200d;य कार्यक्रम पश्चिम बंगाल में आयोजित किया जाएगा। वहीं, समूचे राष्&#x200d;ट्र में शहरी स्&#x200d;थानीय निकायों में भी कार्यक्रम आयोजित किए जाएंगे। समाजिक न्&#x200d;याय और अधिकारिता मंत्री डॉ. वीरेन्&#x200d;द्र कुमार और पश्चिम बंगाल के मुख्&#x200d;यमंत्री के इस कार्यक्रम में भागीदारी करने की उम्&#x200d;मीद है। सामाजिक न्&#x200d;याय और अधिकारिता मंत्रालय ने कहा कि इस अवसर पर शहरी स्&#x200d;थानीय निकाय पेशेवर सुरक्षा प्रशिक्षण, स्&#x200d;वास्&#x200d;थ्&#x200d;य जांच शिविर, मशीनों से सफाई करने वाले उपकरणों तथा सुरक्षा गियर का डेमो और सफाई कर्मचारियों के योगदान के लिए उन्हें सम्&#x200d;मानित किया जाएगा। इसके अलावा शहरी स्&#x200d;थानीय निकाय स्&#x200d;वच्&#x200d;छता कर्मचारियों के कल्&#x200d;याण पर केंद्रित कार्यक्रम भी आयोजित करेंगे।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T15:56:16+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%a8%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%87-%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a5%87-%e0%a4%a4%e0%a5%80%e0%a4%a8-%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7-%e0%a4%aa/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्नयन योजना ने दो लाख ऋण मंजूरी का आंकड़ा पार किया",
+        "summary": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्‍नयन योजना &#8211; पीएमएफएमई ने देश भर में दो लाख से ज़्यादा सूक्ष्म खाद्य प्रसंस्करण उद्यमों को ऋण मंज़ूर करने का अहम पड़ाव पार कर लिया है। इस योजना के तहत 20 हज़ार 300 करोड़ रुपये से ज़्यादा का निवेश हुआ है और लगभग 11 लाख प्रत्यक्ष और अप्रत्यक्ष रोज़गार के […]",
+        "article": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्&#x200d;नयन योजना &#8211; पीएमएफएमई ने देश भर में दो लाख से ज़्यादा सूक्ष्म खाद्य प्रसंस्करण उद्यमों को ऋण मंज़ूर करने का अहम पड़ाव पार कर लिया है। इस योजना के तहत 20 हज़ार 300 करोड़ रुपये से ज़्यादा का निवेश हुआ है और लगभग 11 लाख प्रत्यक्ष और अप्रत्यक्ष रोज़गार के अवसर पैदा हुए हैं। नई दिल्ली में आज एक विशेष कार्यक्रम को संबोधित करते हुए केंद्रीय खाद्य प्रसंस्करण उद्योग मंत्री चिराग पासवान ने कहा कि यह उपलब्धि न केवल जश्न मनाने का मौका है, बल्कि भारत की खाद्य प्रसंस्करण विकास यात्रा के अगले चरण के लिए एक मज़बूत आधार भी है। यह उपलब्धि दिखाती है कि योजना का विज़न देश भर में ठोस नतीजों में बदल रहा है। श्री पासवान ने इस बात पर भी ज़ोर दिया कि सभी लाभार्थियों में लगभग 44 प्रतिशत महिला उद्यमियों की भागीदारी &#8216;महिला-नेतृत्व वाले विकास&#8217; की सच्ची भावना को दर्शाती है। यह &#8216;विकसित भारत&#8217; का एक अहम आधार है। इस अवसर पर श्री पासवान ने योजना के तहत मिलने वाली &#8216;सीड कैपिटल&#8217; की सहायता का भी उल्&#x200d;लेख किया। इसके माध्&#x200d;यम से चार लाख 18 हज़ार से ज़्यादा स्वयं सहायता समूह के सदस्यों की मदद की गई है। कार्यक्रम को संबोधित करते हुए खाद्य प्रसंस्करण उद्योग मंत्रालय के सचिव ए.पी. दास जोशी ने कहा कि यह उपलब्धि भारत में सूक्ष्म खाद्य प्रसंस्करण क्षेत्र के लिए एक मज़बूत पारिस्थितिकी तंत्र के उभार को दिखाती है। उन्होंने कहा कि पीएमएफएमई उद्यम विकास के लिए एक एकीकृत दृष्टिकोण के तहत वित्त, औपचारिकीकरण, तकनीक, क्षमता निर्माण और बाज़ार तक पहुँच को एक साथ लाता है। श्री जोशी ने योजना के तहत ज़िला संसाधन व्यक्तियों के नेटवर्क पर भी ज़ोर दिया। उन्होंने कहा कि उनका काम ज़मीनी स्तर पर &#8216;डिजिटल इंडिया&#8217; और कारोबार करने की सुगमता के सफल तालमेल को दर्शाता है। मंत्रालय में संयुक्त सचिव देवेश देवल ने कहा कि पीएमएफएमई योजना सूक्ष्म खाद्य प्रसंस्करण उद्यमियों को शुरू से अंत तक सहायता देती है, जिसमें वित्तीय सहायता, प्रशिक्षण, मार्गदर्शन, ब्रांडिंग, विपणन और बाज़ार से जुड़ाव शामिल है। उन्होंने कहा कि यह योजना लोगों की आजीविका बदल रही है, स्थानीय मूल्&#x200d;य श्रृंखला को मज़बूत कर रही है और पूरे देश में रोज़गार के टिकाऊ अवसर पैदा कर रही है। अधिकारियों ने योजना के &#8216;एक ज़िला एक उत्पाद&#8217; दृष्टिकोण और लगभग 200 उत्पादों वाले 40 कॉमन ब्रांड के लिए इसके समर्थन का भी उल्&#x200d;लेख किया। यह पहल पूरे देश में मखाना, मोटे अनाज, मसालों और जीआई-टैग वाले उत्पादों के लिए स्थानीय मूल्&#x200d;य श्रृंखला बना रही है। कार्यक्रम में योजना की उपलब्धियों को उजागर करने वाले मुख्य प्रकाशन जारी किए गए और उद्यमियों ने अपनी सफलता की कहानियाँ साझा कीं। इस कार्यक्रम में मंत्रालय के वरिष्ठ अधिकारी, राज्य सरकारों के प्रतिनिधि, सहयोगी मंत्रालय, बैंकिंग संस्थान, विकास भागीदार, उद्यमी, स्वयं सहायता समूह और किसान उत्पादक संगठन शामिल हुए।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T15:33:27+00:00",
+        "link": "https://newsonair.gov.in/hi/pradhan-mantri-formalisation-of-micro-food-processing-enterprises-scheme-crosses-the-milestone-of-two-lakh-loan-sanctions/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-210208.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय गृह मंत्री अमित शाह ने युवाओं से पुस्तकालयों से जुड़ने का आह्वान किया",
+        "summary": "केंद्रीय गृह मंत्री अमित शाह ने व्यक्तित्व निर्माण में पुस्तकालयों की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए युवा पीढ़ी से पुस्तकालयों से जुड़ने की अपील की है । आज नई दिल्ली में जयप्रकाश नारायण सार्वजनिक पुस्तकालय का उद्घाटन करते हुए उन्‍होंने कहा कि लोकनायक जयप्रकाश नारायण एक महान स्वतंत्रता सेनानी, विचारक और राष्ट्रवादी नेता थे […]",
+        "article": "केंद्रीय गृह मंत्री अमित शाह ने व्यक्तित्व निर्माण में पुस्तकालयों की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए युवा पीढ़ी से पुस्तकालयों से जुड़ने की अपील की है । आज नई दिल्ली में जयप्रकाश नारायण सार्वजनिक पुस्तकालय का उद्घाटन करते हुए उन्&#x200d;होंने कहा कि लोकनायक जयप्रकाश नारायण एक महान स्वतंत्रता सेनानी, विचारक और राष्ट्रवादी नेता थे जिन्होंने देश के लिए उल्लेखनीय योगदान दिया। गृह मंत्री ने कहा कि देश और उसके लोगों को समझने के लिए पढ़ना आवश्यक है। उन्होंने राष्ट्र निर्माण में पुस्तकालयों की भूमिका पर प्रकाश डालते हुए कहा कि वे आधुनिक शिक्षा के साथ-साथ जनसमुदाय में देश की संस्कृति और ज्ञान के प्रसार का सशक्त माध्यम हैं। श्री अमित शाह ने कहा कि राष्ट्र निर्माण में योगदान देने वाली और देश को गौरव दिलाने वाली सभी गतिविधियाँ ज्ञान पर आधारित हैं, जो व्यवहार में लागू होने पर बुद्धिमत्ता और विवेक में परिवर्तित हो जाता है। उन्होंने कहा कि पुस्तकालय ऐसे ज्ञान का एक महत्वपूर्ण स्रोत हैं। श्री अमित शाह ने रेखांकित किया कि सरकार ने विदयाथियों में पढ़ने को प्रोत्साहित करने के लिए पुस्तकालयों को विद्यालयों से जोड़ने के प्रयास किए हैं। उन्होंने बताया कि गांधीनगर लोकसभा क्षेत्र में हर गांव में पुस्तकालय खोले गए हैं, जिनमें से प्रत्येक में लगभग 3 से 4 हजार पुस्तकें हैं। उन्होंने कहा कि ये पुस्तकालय एक केंद्रीय पुस्तकालय से जुड़े हैं, जिसमें एक लाख 25 हजार से अधिक पुस्तकों का संग्रह है। श्री अमित शाह ने दिल्ली सरकार से शहर भर के सभी पुस्तकालयों को आपस में जोड़ने और उन्हें स्कूलों से जोड़ने के लिए एक व्यापक योजना बनाने का आग्रह किया। उन्होंने कहा कि पुस्तक प्रेमियों को पुस्तकालयों से जुड़ने के लिए प्रोत्साहित करने के लिए एक सुव्यवस्थित कार्य योजना तैयार की जानी चाहिए। उन्होंने जयप्रकाश नारायण सार्वजनिक पुस्तकालय के कर्मचारियों से नई दिल्ली के आसपास के दस विधानसभा क्षेत्रों के सभी स्कूलों तक पहुंचने, युवाओं को पुस्तकालय से जोड़ने और उन्हें आने के लिए प्रेरित करने की अपील की। ​​उन्होंने कहा कि एक बार युवाओं में पढ़ने की आदत विकसित हो जाए, तो वे इसे स्वयं जारी रखेंगे। केंद्रीय गृह मंत्री ने कहा कि जयप्रकाश नारायण सार्वजनिक पुस्तकालय में 32 हजार से अधिक पुस्तकों का संग्रह है। उन्होंने कहा कि पुस्तकालय में शोधकर्ताओं के लिए समर्पित सुविधाएं, एक आधुनिक बहुउद्देशीय सभागार, समकालीन पठन क्षेत्र, बाल क्षेत्र, एक शोध केंद्र और एक करोड़ ऑनलाइन पुस्तकों तक पहुंच प्रदान करने वाला एक ई-पुस्तकालय है। पुस्तकालय में हर जगह मुफ्त वाई-फाई उपलब्ध है। उन्होंने बताया कि कई मॉनिटर भी लगाए गए हैं, जिससे आगंतुक अध्ययन के दौरान नोट्स ले सकते हैं, सामग्री डाउनलोड कर सकते हैं तथा अपने विचारों को और विकसित कर सकते हैं। पुस्तकालय अत्याधुनिक आरएफआईडी आधारित पुस्तक प्रबंधन प्रणाली से सुसज्जित है। इस अवसर पर दिल्ली की मुख्यमंत्री रेखा गुप्ता, दिल्ली के सार्वजनिक परिवहन विभाग के मंत्री परवेश वर्मा, नई दिल्ली नगर परिषद के अध्यक्ष केशव चंद्र और कई अन्य गणमान्य व्यक्ति उपस्थित थे।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T15:26:50+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%97%e0%a5%83%e0%a4%b9-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4-85/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-205348.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "रेलमंत्री अश्विनी वैष्णव ने तेलंगाना में मेधा रेल कोच कलपुर्जा निर्माण सुविधा का निरीक्षण किया",
+        "summary": "रेलमंत्री अश्विनी वैष्‍णव ने तेलंगाना के संगारेड्डी जिले के नंदीगामा क्षेत्र में स्थित मेधा रेल कोच कलपुर्जा निर्माण सुविधा स्‍थल का निरीक्षण किया। 375 एकड़ भू-भाग में फैली यह विशाल औद्योगिक इकाई रेलवे के आधुनिकीकरण में महत्‍वपूर्ण प्रगति को प्रदर्शित करती है। अपनी यात्रा के दौरान श्री वैष्‍णव ने मेक इन इंडिया पहल के एक […]",
+        "article": "रेलमंत्री अश्विनी वैष्&#x200d;णव ने तेलंगाना के संगारेड्डी जिले के नंदीगामा क्षेत्र में स्थित मेधा रेल कोच कलपुर्जा निर्माण सुविधा स्&#x200d;थल का निरीक्षण किया। 375 एकड़ भू-भाग में फैली यह विशाल औद्योगिक इकाई रेलवे के आधुनिकीकरण में महत्&#x200d;वपूर्ण प्रगति को प्रदर्शित करती है। अपनी यात्रा के दौरान श्री वैष्&#x200d;णव ने मेक इन इंडिया पहल के एक महत्&#x200d;वपूर्ण हिस्&#x200d;से के रूप में निजी क्षेत्र के उद्यमों को बढ़ावा देने संबंधी सरकार की वचनबद्धता पर बल दिया। इस सुविधा के दौरे के दौरान श्री वैष्&#x200d;णव ने कलपुर्जा विनिर्माण प्रक्रिया का निकटता से पर्यवेक्षण किया। उन्&#x200d;होंने श्रमिकों से बातचीत भी की। श्री वैष्&#x200d;णव ने उनके तकनीकी कौशल, परिचालनगत कार्यप्रवाह, इस सुविधा द्वारा अपनाई गई समग्र विनिर्माण कार्यपद्धति के बारे में पूछताछ की। साथ ही उन्&#x200d;होंने मेधा संगठन द्वारा हाल ही में विकसित उन्&#x200d;नत चालकविहीन वाहन का निरीक्षण किया। यह परिवहन व्&#x200d;यवस्&#x200d;था की आधुनिक प्रौद्योगिकी को दर्शाता है। इस निरीक्षण के दौरान रेल मंत्री वैष्णव के साथ केंद्रीय मंत्री जी. किशन रेड्डी, तेलंगाना के भाजपा अध्यक्ष रामचंद्र राव और सांसद कोंडा विश्वेश्वर रेड्डी जैसे प्रमुख नेता और अधिकारी, तथा विनिर्माण कंपनी के कई प्रतिनिधि भी मौजूद थे।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T15:09:07+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a5%80-%e0%a4%b5%e0%a5%88%e0%a4%b7%e0%a5%8d%e0%a4%a3-5/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-203808.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "एफएसएसएआई ने उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए",
+        "summary": "खाद्य सुरक्षा एवं मानक प्राधिकरण-एफएसएसएआई ने खाद्य सुरक्षा और मानक अधिनियम 2006 के अंतर्गत नियमों का उल्लंघन करने के आरोपों से संबंधित कई उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए हैं। सोशल मीडिया पोस्ट में एफएसएसएआई ने कहा है कि स्विगी को विस्तृत स्पष्टीकरण और अनुपालन रिपोर्ट प्रस्तुत करने का निर्देश […]",
+        "article": "खाद्य सुरक्षा एवं मानक प्राधिकरण-एफएसएसएआई ने खाद्य सुरक्षा और मानक अधिनियम 2006 के अंतर्गत नियमों का उल्लंघन करने के आरोपों से संबंधित कई उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए हैं। सोशल मीडिया पोस्ट में एफएसएसएआई ने कहा है कि स्विगी को विस्तृत स्पष्टीकरण और अनुपालन रिपोर्ट प्रस्तुत करने का निर्देश दिया गया है और ऐसा न करने पर उचित कानूनी कार्रवाई शुरू की जाएगी। उपभोक्ता शिकायतों में स्विगी इंस्टामार्ट पर उत्&#x200d;पादों की निर्धारित अवधि समाप्&#x200d;त होने, खराब, सड़े, दूषित और अन्य प्रकार के असुरक्षित खाद्य उत्पादों की आपूर्ति का आरोप लगाया गया है। एफएसएसएआई के नोटिस में गलत, अमान्य या अनुपलब्&#x200d;ध लाइसेंस नंबरों और पंजीकृत नाम के स्&#x200d;थान पर किसी अलग नाम से संचालित खाद्य व्यवसाय संस्थाओं पर भी चिंता व्यक्त की गई है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:23:07+00:00",
+        "link": "https://newsonair.gov.in/hi/fssai-notice-to-swiggy/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वियतनाम में नाव दुर्घटना में 15 भारतीयों की मौत। राष्‍ट्रपति, उपराष्ट्रपति और प्रधानमंत्री ने शोक व्यक्त किया",
+        "summary": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की […]",
+        "article": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की सूची साझा करते हुए कहा कि ये नाम वियतनामी अधिकारियों द्वारा उपलब्ध कराए गए हैं। दूतावास के अनुसार, मृतकों में से 10 तमिलनाडु से, तीन आंध्र प्रदेश से और दो केरल से थे। नाव में 32 भारतीय पर्यटकों, तीन चालक दल के सदस्यों और एक परिचारक सहित कुल 36 लोग सवार थे। 17 यात्रियों और चालक दल के चार सदस्यों सहित 21 लोगों को बचा लिया गया और अस्पतालों में भर्ती कराया गया। दो जीवित बचे लोगों की हालत गंभीर बनी हुई है और उन्हें गहन चिकित्सा देखभाल दी जा रही है। हनोई स्थित भारतीय दूतावास ने बताया कि खोज और बचाव अभियान जारी है । कुछ घंटे पहले हुई इस दुर्घटना के कारणों का पता लगाया जा रहा है। वहीं, प्रभावित परिवारों को जानकारी और सहायता प्रदान करने के लिए, हो ची मिन्ह सिटी स्थित भारतीय दूतावास में एक नियंत्रण कक्ष स्थापित किया गया है। यहां, +84 36 281 7930, +84 91 552 37 14 और +84 33 452 0414 नंबरों से संपर्क किया जा सकता है। दूतावास ने सोशल मीडिया पोस्ट में बताया कि हनोई में भी एक नियंत्रण कक्ष स्थापित किया गया है और यहां +84 91 308 9165 नंबर से संपर्क किया जा सकता है। राष्ट्रपति द्रौपदी मुर्मु, उपराष्ट्रपति सीपी राधाकृष्णन और प्रधानमंत्री नरेंद्र मोदी ने वियतनाम में नाव दुर्घटना में भारतीयों की मौत पर शोक व्यक्त किया है। राष्&#x200d;ट्रपति ने शोक संतप्त परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। उपराष्ट्रपति ने घायलों के शीघ्र और पूर्ण स्वस्थ होने की प्रार्थना की। उन्होंने इस दुखद घटना से प्रभावित सभी लोगों को शक्ति और साहस प्रदान करने की कामना की है। प्रधानमंत्री मोदी ने अपने परिजनों को खोने वाले परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। श्री मोदी ने कहा कि वियतनाम में भारतीय दूतावास तथा वाणिज्य दूतावास हरसंभव सहायता प्रदान कर रहे हैं और वियतनामी अधिकारियों के साथ लगातार संपर्क में हैं।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T15:28:24+00:00",
+        "link": "https://newsonair.gov.in/hi/15-indians-die-in-a-boat-accident-in-vietnam-president-vice-president-and-prime-minister-express-condolences/",
+        "post_id": 1732375,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "world": [
+      {
+        "title": "आईआरजीसी के जहाज पर हमले के बाद अमरीका ने ईरान पर नए हमले शुरू किए, होर्मुज जलडमरूमध्य अगले आदेश तक बंद",
+        "summary": "इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स के होर्मुज जलडमरूमध्य में साइप्रस के झंडे वाले जहाज पर हमले के बाद, अमरीका ने ईरान पर नए हमले शुरू कर दिए हैं। अमरीकी सेना ने कहा है कि ये हमले राष्ट्रपति डॉनल्‍ड ट्रंप के निर्देश पर किए गए। अमरीका ने बताया है कि व्‍यापारिक जहाज पर हुए हमले में चालक […]",
+        "article": "इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स के होर्मुज जलडमरूमध्य में साइप्रस के झंडे वाले जहाज पर हमले के बाद, अमरीका ने ईरान पर नए हमले शुरू कर दिए हैं। अमरीकी सेना ने कहा है कि ये हमले राष्ट्रपति डॉनल्&#x200d;ड ट्रंप के निर्देश पर किए गए। अमरीका ने बताया है कि व्&#x200d;यापारिक जहाज पर हुए हमले में चालक दल का एक नागरिक सदस्य लापता है और जहाज पर आग लगने से काफी नुकसान हुआ है। इस बीच, ईरान ने होर्मुज जलडमरूमध्य को अगली सूचना तक बंद कर दिया है। ईरान की नौसेना ने कहा है कि एक जहाज़ के अनधिकृत रास्ते का इस्तेमाल करने की कोशिश के बाद यह समुद्री रास्ता बंद किया गया है। नौसेना ने कहा कि इस इलाके में अमरीका का दखल खत्म होने तक किसी भी जहाज़ को इस रास्ते से निकलने की अनुमति नहीं दी जाएगी। नौसेना ने कहा कि होर्मुज जलडमरूमध्य की इस घटना को लेकर अमरीका की किसी भी कार्रवाई का कड़ा जवाब दिया जाएगा। अमरीका, ईरान से सार्वजनिक रूप से होर्मुज जलडमरूमध्य से गुज़रने वाले जहाज़ों पर हमला नहीं करने का आश्&#x200d;वासन चाहता है। अमरीका के एक वरिष्&#x200d;ठ अधिकारी ने कहा है कि ईरान में आंतरिक सत्&#x200d;ता संघर्ष के कारण किसी समझौते पर पहुंचना मुश्किल हो गया है। इस बीच, अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने कहा है कि तनाव के बावजूद ईरान के साथ बातचीत जारी रहेगी। ईरान ने कहा है कि होर्मुज जलडमरूमध्य उसके नियंत्रण में ही रहेगा और इस मार्ग से गुज़रने वाले जहाज़ों को शुल्क देना होगा। ईरान ने जलडमरूमध्य पर पूरे अधिकार का दावा किया है। इस बीच, ओमान ने होर्मुज जलडमरूमध्य से जहाज़ों की आवाजाही के लिए दो अलग-अलग रास्तों का प्रस्ताव दिया है, लेकिन ईरान ने इस तरह के प्रस्ताव को पहले ही खारिज कर दिया था।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:53:42+00:00",
+        "link": "https://newsonair.gov.in/hi/hormuz-strait-closed/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/Strait-of-Hormuz-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "तूफान बावी ने दी पूर्वी चीन में दस्तक, लगभग 20 लाख लोगों को सुरक्षित स्थानों पर पहुंचाया गया",
+        "summary": "तूफान बावी ने कल रात पूर्वी चीन के तटीय शहर ताइझोऊ में दस्तक दी। तूफान को देखते हुए लगभग 20 लाख लोगों को सुरक्षित स्थानों पर पहुंचाया गया है। इससे पहले बावी जापान के दक्षिणी साकिशिमा द्वीप समूह से टकराया और उत्तरी ताइवान के पास से गुजरा। हालांकि यह अब उत्तर-पश्चिम की ओर बढ़ते हुए […]",
+        "article": "तूफान बावी ने कल रात पूर्वी चीन के तटीय शहर ताइझोऊ में दस्तक दी। तूफान को देखते हुए लगभग 20 लाख लोगों को सुरक्षित स्थानों पर पहुंचाया गया है। इससे पहले बावी जापान के दक्षिणी साकिशिमा द्वीप समूह से टकराया और उत्तरी ताइवान के पास से गुजरा। हालांकि यह अब उत्तर-पश्चिम की ओर बढ़ते हुए धीरे-धीरे कमजोर पड़ रहा है, लेकिन इसके साथ तेज वर्षा का खतरा बना हुआ है। सरकारी मीडिया के अनुसार, झेजियांग प्रांत से 17 लाख से अधिक लोगों को सुरक्षित स्थानों पर पहुंचाया गया है। इसके अलावा फुजियान प्रांत और बीजिंग से एक-एक लाख से अधिक तथा शंघाई से करीब 34 हजार लोगों को भी निकाला गया है। जापान और ताइवान में अब तक इस तूफान से किसी की मृत्यु की खबर नहीं है। हालांकि बावी के असर से दक्षिण-पश्चिम मानसून के और सक्रिय होने के कारण फिलीपींस में भारी बारिश से 17 लोगों की मौत हो गई है। ताइवान के अग्निशमन विभाग के अनुसार 113 लोग घायल हुए हैं। इनमें अधिकांश लोग तेज हवाओं के दौरान मोटरसाइकिल या साइकिल से गिरने, फिसलने या किसी वस्तु की चपेट में आने से घायल हुए।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:45:51+00:00",
+        "link": "https://newsonair.gov.in/hi/typhoon-bavi-china/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM_n9-fbEAAWGXT.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वेनेजुएला में विनाशकारी भूकंप के बाद मृतकों की संख्या 4,300 के पार",
+        "summary": "वेनेजुएला में पिछले महीने आए विनाशकारी भूकंप में मरने वालों की संख्या बढ़कर 4300 से अधिक हो गई है। 24 जून को ला गुआइरा में कुछ ही सेकंड के अंतराल पर 7.2 और 7.5 तीव्रता के दो भूकंप आए थे। ये एक सदी से अधिक समय में वेनेजुएला के सबसे भीषण भूकंप माने जा रहे […]",
+        "article": "वेनेजुएला में पिछले महीने आए विनाशकारी भूकंप में मरने वालों की संख्या बढ़कर 4300 से अधिक हो गई है। 24 जून को ला गुआइरा में कुछ ही सेकंड के अंतराल पर 7.2 और 7.5 तीव्रता के दो भूकंप आए थे। ये एक सदी से अधिक समय में वेनेजुएला के सबसे भीषण भूकंप माने जा रहे हैं। संयुक्त राष्ट्र ने इस सप्ताह 13 लाख लोगों की मदद के लिए 29 करोड़ 60 लाख अमरीकी डॉलर की राहत राशि जुटाने की अपील की है। संयुक्त राष्ट्र के मानवीय मामलों के प्रमुख टॉम फ्लेचर ने मंगलवार को ला गुआइरा का दौरा किया। इस दौरान उन्होंने लापता बच्&#x200d;चों की माताओं से मुलाकात की।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:21:04+00:00",
+        "link": "https://newsonair.gov.in/hi/venezuela-earthquake/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM_fTDpaUAAafRH.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वियतनाम में नाव दुर्घटना में 15 भारतीयों की मौत। राष्‍ट्रपति, उपराष्ट्रपति और प्रधानमंत्री ने शोक व्यक्त किया",
+        "summary": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की […]",
+        "article": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की सूची साझा करते हुए कहा कि ये नाम वियतनामी अधिकारियों द्वारा उपलब्ध कराए गए हैं। दूतावास के अनुसार, मृतकों में से 10 तमिलनाडु से, तीन आंध्र प्रदेश से और दो केरल से थे। नाव में 32 भारतीय पर्यटकों, तीन चालक दल के सदस्यों और एक परिचारक सहित कुल 36 लोग सवार थे। 17 यात्रियों और चालक दल के चार सदस्यों सहित 21 लोगों को बचा लिया गया और अस्पतालों में भर्ती कराया गया। दो जीवित बचे लोगों की हालत गंभीर बनी हुई है और उन्हें गहन चिकित्सा देखभाल दी जा रही है। हनोई स्थित भारतीय दूतावास ने बताया कि खोज और बचाव अभियान जारी है । कुछ घंटे पहले हुई इस दुर्घटना के कारणों का पता लगाया जा रहा है। वहीं, प्रभावित परिवारों को जानकारी और सहायता प्रदान करने के लिए, हो ची मिन्ह सिटी स्थित भारतीय दूतावास में एक नियंत्रण कक्ष स्थापित किया गया है। यहां, +84 36 281 7930, +84 91 552 37 14 और +84 33 452 0414 नंबरों से संपर्क किया जा सकता है। दूतावास ने सोशल मीडिया पोस्ट में बताया कि हनोई में भी एक नियंत्रण कक्ष स्थापित किया गया है और यहां +84 91 308 9165 नंबर से संपर्क किया जा सकता है। राष्ट्रपति द्रौपदी मुर्मु, उपराष्ट्रपति सीपी राधाकृष्णन और प्रधानमंत्री नरेंद्र मोदी ने वियतनाम में नाव दुर्घटना में भारतीयों की मौत पर शोक व्यक्त किया है। राष्&#x200d;ट्रपति ने शोक संतप्त परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। उपराष्ट्रपति ने घायलों के शीघ्र और पूर्ण स्वस्थ होने की प्रार्थना की। उन्होंने इस दुखद घटना से प्रभावित सभी लोगों को शक्ति और साहस प्रदान करने की कामना की है। प्रधानमंत्री मोदी ने अपने परिजनों को खोने वाले परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। श्री मोदी ने कहा कि वियतनाम में भारतीय दूतावास तथा वाणिज्य दूतावास हरसंभव सहायता प्रदान कर रहे हैं और वियतनामी अधिकारियों के साथ लगातार संपर्क में हैं।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T15:28:24+00:00",
+        "link": "https://newsonair.gov.in/hi/15-indians-die-in-a-boat-accident-in-vietnam-president-vice-president-and-prime-minister-express-condolences/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1a0038fd-0e2d-4acc-b665-df32ae74896a.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
       },
       {
         "title": "भारत-न्यूज़ीलैंड के बीच रक्षा, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 समझौता ज्ञापनों पर हस्ताक्षर",
@@ -1557,8 +1548,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T09:07:24+00:00",
         "link": "https://newsonair.gov.in/hi/five-memorandums-of-understanding-mous-signed-between-india-and-new-zealand-covering-defense-tourism-sports-and-disaster-management/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/A-3.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1568,8 +1559,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T08:59:57+00:00",
         "link": "https://newsonair.gov.in/hi/indian-community-in-new-zealand-is-the-foundation-of-strong-ties-between-the-two-countries-prime-minister-modi/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-142921.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1579,8 +1570,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T06:01:15+00:00",
         "link": "https://newsonair.gov.in/hi/the-death-toll-from-the-powerful-earthquake-that-struck-venezuela-last-month-has-crossed-4000/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMcAu8qawAA0-2g-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1590,17 +1581,28 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T04:46:03+00:00",
         "link": "https://newsonair.gov.in/hi/prime-minister-modi-and-new-zealand-prime-minister-luxon-set-a-target-to-take-bilateral-trade-to-%e2%82%b935000-crore/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM6iShdbwAAw1s-.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "स्पीडबोट हादसे के बाद वियतनाम के प्रधानमंत्री ने जांच के आदेश दिए, विदेश मंत्री डॉ. एस जयशंकर ने जताया शोक",
+        "summary": "वियतनाम के प्रधानमंत्री ले मिन्ह हुन ने फु क्वोक द्वीप के पास स्पीडबोट हादसे की जांच के आदेश दिए हैं। इस हादसे में 15 भारतीय पर्यटकों की मौत हो गई । मुंबई में वियतनाम के महावाणिज्य दूतावास के अनुसार, प्रधानमंत्री ने अधिकारियों से हादसे के कारणों का पता लगाने और भविष्य में ऐसे हादसों को […]",
+        "article": "वियतनाम के प्रधानमंत्री ले मिन्ह हुन ने फु क्वोक द्वीप के पास स्पीडबोट हादसे की जांच के आदेश दिए हैं। इस हादसे में 15 भारतीय पर्यटकों की मौत हो गई । मुंबई में वियतनाम के महावाणिज्य दूतावास के अनुसार, प्रधानमंत्री ने अधिकारियों से हादसे के कारणों का पता लगाने और भविष्य में ऐसे हादसों को रोकने के लिए जरूरी कदम उठाने को कहा है। उन्होंने नियमों के उल्लंघन के लिए जिम्मेदार लोगों के खिलाफ सख्त कानूनी कार्रवाई के भी निर्देश दिए हैं। साथ ही घायलों के इलाज और मृतकों के परिजनों को हर संभव सहायता देने को कहा है। यह हादसा कल उस समय हुआ जब 36 लोगों को लेकर जा रही स्पीडबोट फु क्वोक द्वीप के पास रट नगोआई टापू के निकट अचानक ऊंची लहर की चपेट में आकर पलट गई। नाव में चालक दल के चार सदस्य भी सवार थे। स्थानीय प्रशासन ने 21 लोगों को बचा लिया, जबकि 15 भारतीयों की मौत हो गई। मृतकों में दो महिलाएं हैं। वियतनाम में भारतीय दूतावास ने मृतकों की सूची जारी की है। इनमें 10 लोग तमिलनाडु, तीन आंध्र प्रदेश और दो केरल के रहने वाले थे। विदेश मंत्री डॉ. एस जयशंकर ने वियतनाम में फू क्&#x200d;योक द्वीप के पास हुई नौका दुर्घटना में 15 भारतीय नागरिकों की मौत पर दुख व्&#x200d;यक्&#x200d;त किया है। डॉ. जयशंकर ने सोशल मीडिया पोस्&#x200d;ट में कहा है कि वे दुखद नौका दुर्घटना से काफी आहत हैं। विदेश मंत्री ने मृतकों के परिवारों के प्रति संवेदना व्&#x200d;यक्&#x200d;त करते हुए घायलों के शीघ्र स्&#x200d;वस्&#x200d;थ होने की कामना की है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:54:25+00:00",
+        "link": "https://newsonair.gov.in/hi/vietnam-boat-tragedy/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "अमरीका ने ईरान पर लगाए नए प्रतिबंध",
-        "summary": "अमेरिका में, ट्रंप प्रशासन ने आज ईरान पर नए प्रतिबंध लगाए हैं। इन प्रतिबंधों में ईरान के नेतृत्व से जुड़े व्यक्तियों और वित्तीय नेटवर्कों को निशाना बनाया गया है। इस सप्ताह की शुरुआत में वाणिज्यिक जहाजों पर तेहरान के हमलों के जवाब में यह कार्रवाई की गई है। इससे पहले अमेरिका ने कई जवाबी कदम […]",
-        "article": "अमेरिका में, ट्रंप प्रशासन ने आज ईरान पर नए प्रतिबंध लगाए हैं। इन प्रतिबंधों में ईरान के नेतृत्व से जुड़े व्यक्तियों और वित्तीय नेटवर्कों को निशाना बनाया गया है। इस सप्ताह की शुरुआत में वाणिज्यिक जहाजों पर तेहरान के हमलों के जवाब में यह कार्रवाई की गई है। इससे पहले अमेरिका ने कई जवाबी कदम उठाए हैं, जिनमें ईरानी ठिकानों पर हमले और तेहरान को तेल बेचने की अनुमति देने वाली छूट को वापस लेना शामिल है। अमेरिकी वित्त विभाग ने कहा कि ये प्रतिबंध दुबई स्थित ईरानी वित्तीय सुविधाकर्ता अली अंसारी पर लगाये गये हैं, जो ईरान के नए सर्वोच्च नेता मोजतबा खामेनेई और शासन से जुड़े विशिष्ट वर्ग को लाभ पहुंचाने वाली संपत्तियों के एक विशाल वैश्विक नेटवर्क की देखरेख करते हैं। इन प्रतिबंधों में प्रमुख ईरानी एक्सचेंज हाउस भी शामिल हैं, जिन पर प्रतिबंधित ईरानी बैंकों की ओर से सालाना अरबों डॉलर के लेन-देन का आरोप है। अमेरिका के विदेश विभाग के प्रवक्ता टॉमी पिगोट ने एक बयान में कहा कि अमरीका ईरान के सत्ताधारी विशिष्ट वर्ग को सहारा देने वाले वित्तीय साधनों को समाप्&#x200d;त करने के लिए निर्णायक कार्रवाई कर रहा है। ये प्रतिबंध ऐसे समय में आए हैं जब राष्ट्रपति डोनाल्ड ट्रम्प द्वारा अमेरिका-ईरान समझौता ज्ञापन के समाप्त होने की घोषणा के बावजूद तनाव कम करने के लिए राजनयिक प्रयास जारी हैं। हालांकि, राष्ट्रपति ट्रम्प ने कहा कि ईरान के साथ बातचीत जारी रहेगी।",
+        "title": "स्पेन के अंडालूसिया क्षेत्र में भीषण जंगल की आग, काबू पाने के प्रयास जारी",
+        "summary": "दक्षिण-पूर्वी स्पेन के अंडालूसिया क्षेत्र में भीषण जंगल की आग को काबू में करने के लिए सैकड़ों दमकलकर्मी और सैन्य कर्मी संघर्ष कर रहे हैं। यह आग हाल के दशकों में देश की सबसे घातक जंगल की आग में से एक बन गई है। स्पेन के अधिकारियों के अनुसार, बेदार गांव के आसपास आपातकालीन सेवाओं […]",
+        "article": "दक्षिण-पूर्वी स्पेन के अंडालूसिया क्षेत्र में भीषण जंगल की आग को काबू में करने के लिए सैकड़ों दमकलकर्मी और सैन्य कर्मी संघर्ष कर रहे हैं। यह आग हाल के दशकों में देश की सबसे घातक जंगल की आग में से एक बन गई है। स्पेन के अधिकारियों के अनुसार, बेदार गांव के आसपास आपातकालीन सेवाओं को तैनात किया गया है, जहां 12 लोगों की मौत हो गई है &#8211; जिनमें चार ब्रिटिश नागरिक शामिल हैं। 23 अन्य लोग अभी भी लापता हैं। अल्मेरिया के लॉस गैलार्डोस क्षेत्र के स्थानीय अधिकारियों ने चेतावनी दी है कि मृतकों की संख्या बढ़ सकती है। लगभग 40 डिग्री सेल्सियस के तापमान वाली भीषण गर्मी में दक्षिणी यूरोप, विशेष रूप से फ्रांस, पुर्तगाल और स्पेन में जंगल की आग को जन्म दिया है। बढ़ते तापमान, अत्यधिक शुष्क जमीन और तेज हवाओं के कारण गुरुवार दोपहर को लॉस गैलार्डोस में आग तेजी से फैल गई। अंडालूसिया के स्वास्थ्य और आपातकालीन मंत्री एंटोनियो सैन्ज़ ने कहा कि आग 6 हजार 600 हेक्टेयर भूमि में फैल चुकी है।.",
         "date": "2026-07-11",
-        "pubDate": "2026-07-11T04:34:09+00:00",
-        "link": "https://newsonair.gov.in/hi/us-imposes-new-sanctions-on-iran/",
+        "pubDate": "2026-07-11T15:50:04+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a5%87%e0%a4%a8-%e0%a4%95%e0%a5%87-%e0%a4%85%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b2%e0%a5%82%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be-%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%87/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1614,8 +1616,8 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T02:07:52+00:00",
         "link": "https://newsonair.gov.in/hi/england-beat-india/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM_euvobsAA5bKU-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1625,8 +1627,8 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T01:50:02+00:00",
         "link": "https://newsonair.gov.in/hi/wimbledon-linda-noskova-wins/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM_a7fOacAAAGml.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1636,8 +1638,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T08:41:40+00:00",
         "link": "https://newsonair.gov.in/hi/the-fifth-t20-match-between-india-and-england-will-start-at-7-pm/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzeCA7XUAA4E3A-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1647,8 +1649,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T08:15:19+00:00",
         "link": "https://newsonair.gov.in/hi/fifa-world-cup-norway-to-face-england-in-the-quarter-final-match-today/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM7W1SYawAAMJ0K.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1658,8 +1660,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T02:52:46+00:00",
         "link": "https://newsonair.gov.in/hi/wimbledon-tennis-karolina-muchova-and-linda-noskova-face-off-in-the-womens-singles-final/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Wimbledon_1400.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1669,8 +1671,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T02:45:14+00:00",
         "link": "https://newsonair.gov.in/hi/womens-cricket-england-to-resume-first-innings-against-india-leading-by-21-runs/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM4l_zdaMAALWa9.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1680,8 +1682,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T00:51:25+00:00",
         "link": "https://newsonair.gov.in/hi/fifa-world-cup-spain-defeated-belgium-2-1-to-secure-a-spot-in-the-semi-finals/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats-5-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1691,8 +1693,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T03:07:39+00:00",
         "link": "https://newsonair.gov.in/hi/the-pair-of-marcelo-arevalo-and-jelena-ostapenko-won-the-mixed-doubles-title-at-the-wimbledon-tennis-tournament/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM0bpkqXIAAhsCn.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1702,8 +1704,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T02:55:17+00:00",
         "link": "https://newsonair.gov.in/hi/india-suffered-a-crushing-9-wicket-defeat-against-england-in-the-fourth-t20-international-cricket-match/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMz03lPbYAE25po-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1713,8 +1715,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T02:54:58+00:00",
         "link": "https://newsonair.gov.in/hi/the-indian-womens-cricket-team-will-play-an-odi-match-against-england-at-lords-in-london-today/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/bcci.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
@@ -1726,8 +1728,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T01:58:14+00:00",
         "link": "https://newsonair.gov.in/hi/imf-report-india-is-the-fastest-growing-economy-with-a-projected-growth-rate-of-7/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/06/imf-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1737,8 +1739,8 @@ window.VM_NEWS = {
         "date": "2026-07-05",
         "pubDate": "2026-07-05T14:44:07+00:00",
         "link": "https://newsonair.gov.in/hi/fpis-bought-indian-shares-worth-rs-708-crore-in-the-first-three-trading-sessions-of-july-taking-their-total-purchases-so-far-this-month/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FPI.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1748,8 +1750,63 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T02:58:26+00:00",
         "link": "https://newsonair.gov.in/hi/epfo-officially-announces-8-25-interest-rate-on-epf-deposits-for-the-financial-year-2025-26/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/dgrmc13c_epfo_625x300_09_April_25.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "19 किलोग्राम व्यावसायिक एलपीजी सिलेंडर सस्ता, कीमत में 183.50 रुपये की कमी",
+        "summary": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्‍यावसायिक एलपीजी सिलेंडर के मूल्‍य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि‍टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्‍यावसायिक एलपीजी सिलेंडर दिल्‍ली में 2930 रुपये में मिलेगा। इस फैसले से […]",
+        "article": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्&#x200d;यावसायिक एलपीजी सिलेंडर के मूल्&#x200d;य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि&#x200d;टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्&#x200d;यावसायिक एलपीजी सिलेंडर दिल्&#x200d;ली में 2930 रुपये में मिलेगा। इस फैसले से रेस्&#x200d;तरां, ढाबा, होटल और अन्&#x200d;य खान-पान व्&#x200d;यावसायियों को लाभ होगा।",
+        "date": "2026-07-01",
+        "pubDate": "2026-07-01T05:04:37+00:00",
+        "link": "https://newsonair.gov.in/hi/commercial-lpg-cylinder-price-cut-by-183-50-rupees/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260502237f-1-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील की अंतिम तिथि 31 जुलाई तक बढ़ाई",
+        "summary": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्‍त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्‍न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्‍या […]",
+        "article": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्&#x200d;त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्&#x200d;न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्&#x200d;या के कारण आई तकनीकी बाधा का हवाला दिया था। जिसके बाद सरकार ने अंतिम तिथि बढ़ाकर 31 जुलाई निर्धारित की। सरकार ने करदाताओं को भी सलाह दी है कि वे समय रहते ही अपील दायर कर दें और अंतिम तिथ&#x200d;ि का इंतजार न करें।",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:55:27+00:00",
+        "link": "https://newsonair.gov.in/hi/gst-appellate-tribunal-appeal-deadline-extended-july-31/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Untitled-design-1-8.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने एक जुलाई से पेट्रोल और डीज़ल की बिक्री व वितरण पर लगा प्रतिबंध हटाने का फैसला किया",
+        "summary": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम […]",
+        "article": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम एशिया संकट के दौरान अंतरराष्ट्रीय बाजार में ईंधन की कीमतों में तेज़ बढ़ोतरी के बावजूद सरकार ने पेट्रोल और डीज़ल की खुदरा कीमतों को स्थिर रखा। इससे खुदरा और थोक उपभोक्ताओं के लिए ईंधन की कीमतों में बड़ा अंतर पैदा हो गया था। इस स्थिति से निपटने के लिए 12 जून से अस्थायी नियामक उपाय लागू किए गए थे। इनके तहत खुदरा पेट्रोल पंपों पर एक ग्राहक या वाहन को प्रतिदिन अधिकतम 200 लीटर हाई स्पीड डीज़ल देने की सीमा तय की गई थी। साथ ही औद्योगिक, संस्थागत और व्यावसायिक उपभोक्ताओं के लिए अलग व्यवस्था की गई थी। इन उपायों का उद्देश्य डीज़ल की कालाबाज़ारी, जमाखोरी और अवैध बिक्री को रोकना तथा आम उपभोक्ताओं के लिए पेट्रोल और डीज़ल की निर्बाध उपलब्धता सुनिश्चित करना था। मंत्रालय ने कहा कि अब देश में पेट्रोलियम उत्पादों की आपूर्ति सामान्य हो गई है और पेट्रोल-डीज़ल की पर्याप्त उपलब्धता सुनिश्चित है। इसलिए जनहित में इन अस्थायी प्रतिबंधों को वापस लेने का निर्णय लिया गया है।",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T03:05:15+00:00",
+        "link": "https://newsonair.gov.in/hi/fuel-sales-restrictions/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260523106F_cPfEGOF-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उत्तराखंड के लिपुलेख दर्रे से भारत-चीन सीमा व्यापार 6 वर्ष बाद फिर होगा शुरू, 26 व्यापार पास जारी किए गए",
+        "summary": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि […]",
+        "article": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि व्यापार को सुगम बनाने के लिए गुंजी में सीमा शुल्क कार्यालय खोला गया है। व्यापारियों ने अपना सामान पहले ही लिपुलेख दर्रे के निकट स्थित गोदामों में पहुंचा दिया है। प्रशासन को 103 से अधिक व्यापारियों के आवेदन प्राप्त हुए हैं और जल्द ही 25 व्यापारियों के दूसरे दल को भी व्यापार पास जारी किए जाएंगे। सामान ढुलाई के लिए नाभीढांग के पास खच्चरों और घोड़ों की व्यवस्था की गई है। भारत-चीन सीमा व्यापार वर्ष 1991 में पुनः शुरू हुआ था, लेकिन कोविड-19 महामारी के कारण वर्ष 2020 में इसे स्थगित कर दिया गया था। छह वर्ष बाद व्यापार बहाल होने से सीमावर्ती क्षेत्रों की अर्थव्यवस्था को नई गति मिलने की उम्मीद है।",
+        "date": "2026-06-25",
+        "pubDate": "2026-06-25T02:30:19+00:00",
+        "link": "https://newsonair.gov.in/hi/india-china-border-trade-via-uttarakhands-lipulekh-pass-to-resume-after-six-years-26-trade-passes-issued/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Untitled-design-5-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "खनन मंत्रालय ने 7वें चरण की सफल नीलामी के साथ दी खनिज मिशन को गति",
+        "summary": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई […]",
+        "article": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई है। इनमें ग्रेफाइट, रेयर अर्थ एलिमेंट, वैनेडियम, टाइटेनियम, ग्लूकोनाइट और रॉक फॉस्फेट जैसे खनिज शामिल हैं। अब नीलाम किए गए अन्वेषण लाइसेंस ब्लॉक की संख्या 11 हो गई है। अरुणाचल प्रदेश, उत्तर प्रदेश और ओडिशा में पहली बार अन्वेषण लाइसेंस ब्लॉक की नीलामी की गई। खान मंत्रालय के अनुसार, यह नीलामी भारत के खनिज क्षेत्र में उद्योग जगत के बढ़ते भरोसे को दिखाती है। इससे स्वच्छ उर्जा, इलेक्ट्रिक मोबिलिटी, नवीकरणीय उर्जा, इलेक्ट्रॉनिक्स, रक्षा और उन्नत विनिर्माण के लिए ज़रूरी खनिज की खोज और विकास में तेज़ी आएगी। इससे आयात पर निर्भरता कम होगी और घरेलू खनिज आपूर्ति श्रृंखला मज़बूत होगी।",
+        "date": "2026-06-24",
+        "pubDate": "2026-06-24T02:04:58+00:00",
+        "link": "https://newsonair.gov.in/hi/ministry-of-mines-gives-impetus-to-mineral-mission-with-successful-7th-round-of-auctions/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/Ministry-of-mines.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1764,67 +1821,12 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "19 किलोग्राम व्यावसायिक एलपीजी सिलेंडर सस्ता, कीमत में 183.50 रुपये की कमी",
-        "summary": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्‍यावसायिक एलपीजी सिलेंडर के मूल्‍य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि‍टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्‍यावसायिक एलपीजी सिलेंडर दिल्‍ली में 2930 रुपये में मिलेगा। इस फैसले से […]",
-        "article": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्&#x200d;यावसायिक एलपीजी सिलेंडर के मूल्&#x200d;य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि&#x200d;टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्&#x200d;यावसायिक एलपीजी सिलेंडर दिल्&#x200d;ली में 2930 रुपये में मिलेगा। इस फैसले से रेस्&#x200d;तरां, ढाबा, होटल और अन्&#x200d;य खान-पान व्&#x200d;यावसायियों को लाभ होगा।",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T05:04:37+00:00",
-        "link": "https://newsonair.gov.in/hi/commercial-lpg-cylinder-price-cut-by-183-50-rupees/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील की अंतिम तिथि 31 जुलाई तक बढ़ाई",
-        "summary": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्‍त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्‍न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्‍या […]",
-        "article": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्&#x200d;त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्&#x200d;न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्&#x200d;या के कारण आई तकनीकी बाधा का हवाला दिया था। जिसके बाद सरकार ने अंतिम तिथि बढ़ाकर 31 जुलाई निर्धारित की। सरकार ने करदाताओं को भी सलाह दी है कि वे समय रहते ही अपील दायर कर दें और अंतिम तिथ&#x200d;ि का इंतजार न करें।",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T07:55:27+00:00",
-        "link": "https://newsonair.gov.in/hi/gst-appellate-tribunal-appeal-deadline-extended-july-31/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने एक जुलाई से पेट्रोल और डीज़ल की बिक्री व वितरण पर लगा प्रतिबंध हटाने का फैसला किया",
-        "summary": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम […]",
-        "article": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम एशिया संकट के दौरान अंतरराष्ट्रीय बाजार में ईंधन की कीमतों में तेज़ बढ़ोतरी के बावजूद सरकार ने पेट्रोल और डीज़ल की खुदरा कीमतों को स्थिर रखा। इससे खुदरा और थोक उपभोक्ताओं के लिए ईंधन की कीमतों में बड़ा अंतर पैदा हो गया था। इस स्थिति से निपटने के लिए 12 जून से अस्थायी नियामक उपाय लागू किए गए थे। इनके तहत खुदरा पेट्रोल पंपों पर एक ग्राहक या वाहन को प्रतिदिन अधिकतम 200 लीटर हाई स्पीड डीज़ल देने की सीमा तय की गई थी। साथ ही औद्योगिक, संस्थागत और व्यावसायिक उपभोक्ताओं के लिए अलग व्यवस्था की गई थी। इन उपायों का उद्देश्य डीज़ल की कालाबाज़ारी, जमाखोरी और अवैध बिक्री को रोकना तथा आम उपभोक्ताओं के लिए पेट्रोल और डीज़ल की निर्बाध उपलब्धता सुनिश्चित करना था। मंत्रालय ने कहा कि अब देश में पेट्रोलियम उत्पादों की आपूर्ति सामान्य हो गई है और पेट्रोल-डीज़ल की पर्याप्त उपलब्धता सुनिश्चित है। इसलिए जनहित में इन अस्थायी प्रतिबंधों को वापस लेने का निर्णय लिया गया है।",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T03:05:15+00:00",
-        "link": "https://newsonair.gov.in/hi/fuel-sales-restrictions/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "उत्तराखंड के लिपुलेख दर्रे से भारत-चीन सीमा व्यापार 6 वर्ष बाद फिर होगा शुरू, 26 व्यापार पास जारी किए गए",
-        "summary": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि […]",
-        "article": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि व्यापार को सुगम बनाने के लिए गुंजी में सीमा शुल्क कार्यालय खोला गया है। व्यापारियों ने अपना सामान पहले ही लिपुलेख दर्रे के निकट स्थित गोदामों में पहुंचा दिया है। प्रशासन को 103 से अधिक व्यापारियों के आवेदन प्राप्त हुए हैं और जल्द ही 25 व्यापारियों के दूसरे दल को भी व्यापार पास जारी किए जाएंगे। सामान ढुलाई के लिए नाभीढांग के पास खच्चरों और घोड़ों की व्यवस्था की गई है। भारत-चीन सीमा व्यापार वर्ष 1991 में पुनः शुरू हुआ था, लेकिन कोविड-19 महामारी के कारण वर्ष 2020 में इसे स्थगित कर दिया गया था। छह वर्ष बाद व्यापार बहाल होने से सीमावर्ती क्षेत्रों की अर्थव्यवस्था को नई गति मिलने की उम्मीद है।",
-        "date": "2026-06-25",
-        "pubDate": "2026-06-25T02:30:19+00:00",
-        "link": "https://newsonair.gov.in/hi/india-china-border-trade-via-uttarakhands-lipulekh-pass-to-resume-after-six-years-26-trade-passes-issued/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "नीति आयोग के उपाध्यक्ष ने कहा, पिछली तिमाही में भारत का कुल व्यापार 5.4% बढ़ा",
         "summary": "नीति आयोग के उपाध्यक्ष डॉ. अशोक कुमार लाहिड़ी ने कहा है कि पिछली तिमाही में भारत का कुल व्यापार 5.4 प्रतिशत बढ़ा है। कल नई दिल्ली में &#8216;ट्रेड वॉच क्वार्टरली&#8216; रिपोर्ट का नया संस्करण जारी करते हुए उन्होंने कहा कि पिछली तिमाही में भारत का निर्यात 1 खरब 84 अरब डॉलर पर पहुंच गया और […]",
         "article": "नीति आयोग के उपाध्यक्ष डॉ. अशोक कुमार लाहिड़ी ने कहा है कि पिछली तिमाही में भारत का कुल व्यापार 5.4 प्रतिशत बढ़ा है। कल नई दिल्ली में &#8216; ट्रेड वॉच क्वार्टरली &#8216; रिपोर्ट का नया संस्करण जारी करते हुए उन्होंने कहा कि पिछली तिमाही में भारत का निर्यात 1 खरब 84 अरब डॉलर पर पहुंच गया और आयात में साढ़े 6 प्रतिशत की वृद्धि हुई। रिपोर्ट में, वैश्विक व्यापार में भारत की भूमिका का विश्लेषण किया गया है, जिसमें ख़ासकर औषधि व्यापार पर ध्यान केंद्रित किया गया है।",
         "date": "2026-06-24",
         "pubDate": "2026-06-24T02:06:08+00:00",
         "link": "https://newsonair.gov.in/hi/niti-aayog-vice-chairman-says-indias-total-trade-grew-by-5-4-in-the-last-quarter/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "खनन मंत्रालय ने 7वें चरण की सफल नीलामी के साथ दी खनिज मिशन को गति",
-        "summary": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई […]",
-        "article": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई है। इनमें ग्रेफाइट, रेयर अर्थ एलिमेंट, वैनेडियम, टाइटेनियम, ग्लूकोनाइट और रॉक फॉस्फेट जैसे खनिज शामिल हैं। अब नीलाम किए गए अन्वेषण लाइसेंस ब्लॉक की संख्या 11 हो गई है। अरुणाचल प्रदेश, उत्तर प्रदेश और ओडिशा में पहली बार अन्वेषण लाइसेंस ब्लॉक की नीलामी की गई। खान मंत्रालय के अनुसार, यह नीलामी भारत के खनिज क्षेत्र में उद्योग जगत के बढ़ते भरोसे को दिखाती है। इससे स्वच्छ उर्जा, इलेक्ट्रिक मोबिलिटी, नवीकरणीय उर्जा, इलेक्ट्रॉनिक्स, रक्षा और उन्नत विनिर्माण के लिए ज़रूरी खनिज की खोज और विकास में तेज़ी आएगी। इससे आयात पर निर्भरता कम होगी और घरेलू खनिज आपूर्ति श्रृंखला मज़बूत होगी।",
-        "date": "2026-06-24",
-        "pubDate": "2026-06-24T02:04:58+00:00",
-        "link": "https://newsonair.gov.in/hi/ministry-of-mines-gives-impetus-to-mineral-mission-with-successful-7th-round-of-auctions/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1838,8 +1840,8 @@ window.VM_NEWS = {
         "date": "2026-05-22",
         "pubDate": "2026-05-22T02:24:07+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a4%be%e0%a4%a8%e0%a5%8d%e0%a4%b8-%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae-%e0%a4%ae%e0%a4%b9%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%b8%e0%a4%b5-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b9/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/Untitled-design-27.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1849,8 +1851,8 @@ window.VM_NEWS = {
         "date": "2026-03-31",
         "pubDate": "2026-03-31T07:55:25+00:00",
         "link": "https://newsonair.gov.in/hi/iffd-2026-will-conclude-with-the-screening-of-lalo-krishna-sada-sahayate/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/लालो.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1860,8 +1862,8 @@ window.VM_NEWS = {
         "date": "2026-02-23",
         "pubDate": "2026-02-23T04:47:52+00:00",
         "link": "https://newsonair.gov.in/hi/manipuri-comedy-drama-film-boong-wins-best-childrens-and-family-film-category-at-bafta-awards/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/Boong-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1871,8 +1873,8 @@ window.VM_NEWS = {
         "date": "2026-02-23",
         "pubDate": "2026-02-23T03:36:35+00:00",
         "link": "https://newsonair.gov.in/hi/the-film-one-battle-after-another-created-a-stir-at-the-79th-bafta-awards/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/HBykUy4XMAAB08r.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1882,8 +1884,8 @@ window.VM_NEWS = {
         "date": "2026-01-23",
         "pubDate": "2026-01-23T04:07:03+00:00",
         "link": "https://newsonair.gov.in/hi/24th-international-film-festival-of-pune-concludes-with-a-colourful-ceremony/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/पुणे.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1893,8 +1895,8 @@ window.VM_NEWS = {
         "date": "2025-12-17",
         "pubDate": "2025-12-17T08:10:26+00:00",
         "link": "https://newsonair.gov.in/hi/the-indian-film-homebound-has-been-nominated-in-the-best-feature-film-category-at-the-98th-academy-awards/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/homeeee.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1904,19 +1906,8 @@ window.VM_NEWS = {
         "date": "2025-12-08",
         "pubDate": "2025-12-08T03:03:45+00:00",
         "link": "https://newsonair.gov.in/hi/renowned-actor-kalyan-chattopadhyay-passes-away-at-the-age-of-82/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "56वां भारतीय अंतरराष्‍ट्रीय फिल्‍म महोत्‍सव गोवा में शानदार पुरस्‍कार समारोह के साथ सम्‍पन्‍न",
-        "summary": "56वां भारतीय अंतरराष्‍ट्रीय फिल्‍म महोत्‍सव गोवा में शानदार पुरस्‍कार समारोह के साथ सम्‍पन्‍न हो गया। इसमें दुनिया भर की बेहतरीन फिल्मों को सम्मानित किया गया, जो इस वर्ष की फिल्मों के उत्‍सव का यादगार फिनाले था। बेस्ट फीचर फिल्म के लिए प्रतिष्ठित गोल्डन पीकॉक अवॉर्ड वियतनामी फिल्म स्किन ऑफ यूथ को दिया गया, जिसे […]",
-        "article": "56वां भारतीय अंतरराष्&#x200d;ट्रीय फिल्&#x200d;म महोत्&#x200d;सव गोवा में शानदार पुरस्&#x200d;कार समारोह के साथ सम्&#x200d;पन्&#x200d;न हो गया। इसमें दुनिया भर की बेहतरीन फिल्मों को सम्मानित किया गया, जो इस वर्ष की फिल्मों के उत्&#x200d;सव का यादगार फिनाले था। बेस्ट फीचर फिल्म के लिए प्रतिष्ठित गोल्डन पीकॉक अवॉर्ड वियतनामी फिल्म स्किन ऑफ यूथ को दिया गया, जिसे एशले मेफेयर ने डायरेक्ट किया था। सिल्वर पीकॉक कैटेगरी में, संतोष दवाखर ने मराठी फिल्म गोंधल के लिए बेस्ट डायरेक्टर का अवॉर्ड जीता। उबेइमार रियोस को स्पेनिश फिल्म ए पोएट के लिए बेस्ट मेल एक्टर मिला, जबकि जारा सोफिया ओस्तान को स्लोवेनियाई फिल्म लिटिल ट्रबल गर्ल्स में उनके परफॉर्मेंस के लिए बेस्ट फीमेल एक्टर का अवॉर्ड मिला। ईरानी फिल्ममेकर हेसम फरहमंद और एस्टोनियाई डायरेक्टर टोनीस पिल एक डायरेक्टर की बेस्ट डेब्यू फीचर फिल्म के संयुक्&#x200d;त विजेता बने। करण सिंह त्यागी ने केसरी चैप्टर 2 के लिए इंडियन फीचर फिल्म के बेस्ट डेब्यू डायरेक्टर का अवॉर्ड जीता। बेस्ट वेब सीरीज-ओटीटी का अवॉर्ड बंदिश बैंडिट्स सीजन 2 को मिला। शांति और इंटरकल्चरल बातचीत को बढ़ावा देने के लिए नॉर्वे की फिल्म सेफ हाउस को ICFT-UNESCO गांधी मेडल दिया गया। इस वर्ष एक खास बात यह रही कि महान अभिनेता रजनीकांत को भारतीय सिनेमा में 50 वर्ष पूरे करने पर सम्मानित किया गया। उन्होंने शुक्रिया अदा करते हुए कहा कि “यह सम्मान पूरी फिल्म इंडस्ट्री का है। भले ही मुझे सौ जन्म लेने पड़ें, मैं रजनीकांत के रूप में पैदा होना चाहता हूं, क्योंकि मुझे सिनेमा और अभिनय से प्यार है।” फेस्टिवल के खत्म होने के दौरान मुख्&#x200d;यमंत्री डॉ. प्रमोद सावंत ने समारोह को संबोधित किया, उन्होंने कहा कि इस बार इफ्फी पिछले कई दिनों में वैश्विक सहयोग में रचनात्&#x200d;मक लोगों, आर्टिस्ट्री और ब्रिलियंस के शानदार एकजुटता का कॉसंगम था, और गोवा ने आइडिया और कल्चर के असाधारण संगम को देखा है। फिल्ममेकर शेखर कपूर ने कहा कि इफ्फी ने कहानी कहने में नवाचार और परंपरा दोनों का उत्&#x200d;सव मनाते हुए, ग्लोबल क्रिएटिव हब के रूप में भारत की स्थिति को मजबूत करना जारी रखा है।",
-        "date": "2025-11-28",
-        "pubDate": "2025-11-28T15:45:34+00:00",
-        "link": "https://newsonair.gov.in/hi/56%e0%a4%b5%e0%a4%be%e0%a4%82-%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/kalyan.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1926,6 +1917,17 @@ window.VM_NEWS = {
         "date": "2025-11-28",
         "pubDate": "2025-11-28T12:32:09+00:00",
         "link": "https://newsonair.gov.in/hi/56%e0%a4%b5%e0%a4%be%e0%a4%82-%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/आईएफएफ.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "56वां भारतीय अंतरराष्‍ट्रीय फिल्‍म महोत्‍सव गोवा में शानदार पुरस्‍कार समारोह के साथ सम्‍पन्‍न",
+        "summary": "56वां भारतीय अंतरराष्‍ट्रीय फिल्‍म महोत्‍सव गोवा में शानदार पुरस्‍कार समारोह के साथ सम्‍पन्‍न हो गया। इसमें दुनिया भर की बेहतरीन फिल्मों को सम्मानित किया गया, जो इस वर्ष की फिल्मों के उत्‍सव का यादगार फिनाले था। बेस्ट फीचर फिल्म के लिए प्रतिष्ठित गोल्डन पीकॉक अवॉर्ड वियतनामी फिल्म स्किन ऑफ यूथ को दिया गया, जिसे […]",
+        "article": "56वां भारतीय अंतरराष्&#x200d;ट्रीय फिल्&#x200d;म महोत्&#x200d;सव गोवा में शानदार पुरस्&#x200d;कार समारोह के साथ सम्&#x200d;पन्&#x200d;न हो गया। इसमें दुनिया भर की बेहतरीन फिल्मों को सम्मानित किया गया, जो इस वर्ष की फिल्मों के उत्&#x200d;सव का यादगार फिनाले था। बेस्ट फीचर फिल्म के लिए प्रतिष्ठित गोल्डन पीकॉक अवॉर्ड वियतनामी फिल्म स्किन ऑफ यूथ को दिया गया, जिसे एशले मेफेयर ने डायरेक्ट किया था। सिल्वर पीकॉक कैटेगरी में, संतोष दवाखर ने मराठी फिल्म गोंधल के लिए बेस्ट डायरेक्टर का अवॉर्ड जीता। उबेइमार रियोस को स्पेनिश फिल्म ए पोएट के लिए बेस्ट मेल एक्टर मिला, जबकि जारा सोफिया ओस्तान को स्लोवेनियाई फिल्म लिटिल ट्रबल गर्ल्स में उनके परफॉर्मेंस के लिए बेस्ट फीमेल एक्टर का अवॉर्ड मिला। ईरानी फिल्ममेकर हेसम फरहमंद और एस्टोनियाई डायरेक्टर टोनीस पिल एक डायरेक्टर की बेस्ट डेब्यू फीचर फिल्म के संयुक्&#x200d;त विजेता बने। करण सिंह त्यागी ने केसरी चैप्टर 2 के लिए इंडियन फीचर फिल्म के बेस्ट डेब्यू डायरेक्टर का अवॉर्ड जीता। बेस्ट वेब सीरीज-ओटीटी का अवॉर्ड बंदिश बैंडिट्स सीजन 2 को मिला। शांति और इंटरकल्चरल बातचीत को बढ़ावा देने के लिए नॉर्वे की फिल्म सेफ हाउस को ICFT-UNESCO गांधी मेडल दिया गया। इस वर्ष एक खास बात यह रही कि महान अभिनेता रजनीकांत को भारतीय सिनेमा में 50 वर्ष पूरे करने पर सम्मानित किया गया। उन्होंने शुक्रिया अदा करते हुए कहा कि “यह सम्मान पूरी फिल्म इंडस्ट्री का है। भले ही मुझे सौ जन्म लेने पड़ें, मैं रजनीकांत के रूप में पैदा होना चाहता हूं, क्योंकि मुझे सिनेमा और अभिनय से प्यार है।” फेस्टिवल के खत्म होने के दौरान मुख्&#x200d;यमंत्री डॉ. प्रमोद सावंत ने समारोह को संबोधित किया, उन्होंने कहा कि इस बार इफ्फी पिछले कई दिनों में वैश्विक सहयोग में रचनात्&#x200d;मक लोगों, आर्टिस्ट्री और ब्रिलियंस के शानदार एकजुटता का कॉसंगम था, और गोवा ने आइडिया और कल्चर के असाधारण संगम को देखा है। फिल्ममेकर शेखर कपूर ने कहा कि इफ्फी ने कहानी कहने में नवाचार और परंपरा दोनों का उत्&#x200d;सव मनाते हुए, ग्लोबल क्रिएटिव हब के रूप में भारत की स्थिति को मजबूत करना जारी रखा है।",
+        "date": "2025-11-28",
+        "pubDate": "2025-11-28T15:45:34+00:00",
+        "link": "https://newsonair.gov.in/hi/56%e0%a4%b5%e0%a4%be%e0%a4%82-%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1950,8 +1952,8 @@ window.VM_NEWS = {
         "date": "2026-06-04",
         "pubDate": "2026-06-04T06:01:50+00:00",
         "link": "https://newsonair.gov.in/hi/who-expresses-concern-over-rapid-spread-of-ebola-outbreak-in-congo/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/WHO.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1961,8 +1963,8 @@ window.VM_NEWS = {
         "date": "2026-05-21",
         "pubDate": "2026-05-21T07:50:34+00:00",
         "link": "https://newsonair.gov.in/hi/directorate-general-of-health-services-issues-advisory-for-travellers-arriving-from-and-transiting-through-ebola-affected-countries/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/cds.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1972,8 +1974,8 @@ window.VM_NEWS = {
         "date": "2026-05-21",
         "pubDate": "2026-05-21T07:00:38+00:00",
         "link": "https://newsonair.gov.in/hi/india-launches-worlds-largest-screening-drive-to-eliminate-tb-union-health-minister-j-p-nadda/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/jp-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1983,8 +1985,8 @@ window.VM_NEWS = {
         "date": "2026-05-08",
         "pubDate": "2026-05-08T07:44:50+00:00",
         "link": "https://newsonair.gov.in/hi/health-minister-jp-nadda-launches-integrated-training-programme-for-primary-health-teams/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/J-p-Nadda.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1994,8 +1996,8 @@ window.VM_NEWS = {
         "date": "2026-05-07",
         "pubDate": "2026-05-07T03:01:43+00:00",
         "link": "https://newsonair.gov.in/hi/union-minister-to-launch-nationwide-annual-health-check-up-initiative-for-workers-from-esic/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/man.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -2005,8 +2007,8 @@ window.VM_NEWS = {
         "date": "2026-04-07",
         "pubDate": "2026-04-07T08:28:42+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af-%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8-%e0%a4%aa%e0%a5%80%e0%a4%8f/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Untitled-design-3-5.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -2016,8 +2018,8 @@ window.VM_NEWS = {
         "date": "2026-02-11",
         "pubDate": "2026-02-11T01:59:38+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a5%87%e0%a4%a6%e0%a4%bf%e0%a4%95-%e0%a4%94%e0%a4%b7%e0%a4%a7%e0%a4%bf-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a4%e0%a4%be/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/HAz4fsPbUAAOn4m-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -2027,8 +2029,8 @@ window.VM_NEWS = {
         "date": "2026-01-15",
         "pubDate": "2026-01-15T12:24:16+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4-%e0%a4%95%e0%a5%87-%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b7-%e0%a4%b9%e0%a4%b0%e0%a5%8d%e0%a4%ac%e0%a4%b2-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Untitled-design-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -2038,8 +2040,8 @@ window.VM_NEWS = {
         "date": "2025-12-27",
         "pubDate": "2025-12-27T04:59:50+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%9c%e0%a5%87-%e0%a4%aa%e0%a5%80-%e0%a4%a8%e0%a4%a1%e0%a5%8d/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G9GqIftaAAEWJQP.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -2049,8 +2051,8 @@ window.VM_NEWS = {
         "date": "2025-12-20",
         "pubDate": "2025-12-20T08:20:53+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%9c%e0%a5%87%e0%a4%aa%e0%a5%80-%e0%a4%a8%e0%a4%a1%e0%a5%8d-3/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G8jVc1PbMAQhk_x.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ]
