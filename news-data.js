@@ -1,8 +1,52 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-12T15:37:05.431860",
+  "generated": "2026-07-12T18:42:32.636888",
   "en": {
     "top": [
+      {
+        "title": "India conducts massive tree-planting campaign across country",
+        "summary": "A massive tree-planting campaign was conducted across the country today. Uttar Pradesh Chief Minister Yogi Adityanath launched the state-wide Vriksharopan Maha Yagya drive from Gorakhpur by planting the sacred Triveni (Neem, Peepal and Banyan) near the Link Expressway. He also planted a Maulshri sapling along Tal Ring Road. The LinkState created history by planting more […]",
+        "article": "A massive tree-planting campaign was conducted across the country today. Uttar Pradesh Chief Minister Yogi Adityanath launched the state-wide Vriksharopan Maha Yagya drive from Gorakhpur by planting the sacred Triveni (Neem, Peepal and Banyan) near the Link Expressway. He also planted a Maulshri sapling along Tal Ring Road. The LinkState created history by planting more than 35 crore 27 lakh saplings today. Under the theme &#8220;Ek Ped Maa Ke Naam, a total of 3,527,899,260 saplings were planted across the state till 6:12 pm. This is 27.89 lakh more than the government&#8217;s target of 35 crore. Chief Minister Yogi Adityanath congratulated the people of the state for this achievement. Uttar Pradesh Governor Anandiben Patel planted a white sandalwood sapling at the Jan Bhawan premises as part of the campaign. A total of 29 sandalwood saplings were planted at the Nakshatra Vatika of Jan Bhawan during the programme. Officials and employees of Jan Bhawan, along with girls from the Government Girls’ Home, Sindhi Kheda, participated in the plantation drive. Many Ministers and public representatives participate in the campaign along with members of NGO, Various departments, students and the general public. The campaign ran in all 18 divisions and 75 districts of the state. State also planted more than 5 Crore saplings on the World Environment Day on 5th June this year. Cumulative plantation for this year for Uttar Pradesh stands at 40 crore and 29 lakh. The plantation mega campaign was carried out through the coordination of 27 departments; the Forest Department completed the largest target of 15.50 crore saplings. Home Minister Amit Shah launched a massive tree plantation drive in Gandhinagar, Gujarat, which saw the planting of over 1.25 crore saplings across his Lok Sabha constituency today. Addressing the gathering, the Home Minister highlighted a long-term environmental roadmap to increase the green cover of the constituency to 20 per cent by 2029. The Home Minister stressed that planting indigenous species like Banyan, Peepal, Jambu, and Arjun will help lower the city&#8217;s temperature by 5 per cent. Addressing the Vriksh Mitra Programme and Paryavaran Sanrakshan Sankalp event in New Delhi today, Union Minister Shivraj Singh Chouhan emphasised that planting trees is extremely important for protecting the environment and ensuring a sustainable future. The Minister highlighted initiatives like Ek Ped Maa Ke Naam and Mission LiFE to protect and preserve the environment. Mr Chouhan said that India has set a target of achieving net zero carbon emissions by 2070. Madhya Pradesh Chief Minister Dr Mohan Yadav flagged off the plantation drive in Indore, which targets planting 21 lakh saplings across the state. It also plans to set up 51 thousand rainwater harvesting units. The goal is to turn environmental protection and water conservation into a people&#8217;s movement. Union Urban Development Minister Kailash Vijayvargiya and Indore Mayor Pushyamitra Bhargav were present at the event. Social organisations, NGOs, students and a large number of citizens took part in the plantation drive.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T16:57:54+00:00",
+        "link": "https://newsonair.gov.in/india-conducts-massive-tree-planting-campaign-across-country/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNCbyoCaIAAoCpE.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India declares one-day national mourning tomorrow as mark of respect for Father Amir of Qatar",
+        "summary": "India has declared one-day national mourning tomorrow as a mark of respect for Father Amir of Qatar, Sheikh Hamad bin Khalifa Al-Thani, who passed away today. The National Flag will be flown at half-mast on the day of mourning throughout India on all buildings where the National Flag is flown regularly. There will be no […]",
+        "article": "India has declared one-day national mourning tomorrow as a mark of respect for Father Amir of Qatar, Sheikh Hamad bin Khalifa Al-Thani, who passed away today. The National Flag will be flown at half-mast on the day of mourning throughout India on all buildings where the National Flag is flown regularly. There will be no official entertainment on the day. Prime Minister Narendra Modi has expressed condolences at the demise of Father Amir Sheikh Hamad bin Khalifa Al-Thani, noting that he was a visionary leader who led Qatar to great levels of development and prosperity. External Affairs Ministry said in a statement that Parliamentary Affairs and Minority Affairs Minister Kiren Rijiju is visiting Qatar to convey condolences on behalf of the Government of India to the State of Qatar.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:53:41+00:00",
+        "link": "https://newsonair.gov.in/india-declares-one-day-national-mourning-tomorrow-as-mark-of-respect-for-father-amir-of-qatar/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India calls for immediate de-escalation of tension in West Asia after attack on ship carrying Indian nationals off Oman coast",
+        "summary": "New Delhi has reiterated the call for immediate de-escalation of tensions in the West Asia region after the attack on a commercial vessel, GFS Galaxy, carrying Indian crew members off the coast of Oman today. Condemning the attack, the External Affairs Ministry informed in a statement that out of 11 Indian nationals on board, 10 […]",
+        "article": "New Delhi has reiterated the call for immediate de-escalation of tensions in the West Asia region after the attack on a commercial vessel, GFS Galaxy, carrying Indian crew members off the coast of Oman today. Condemning the attack, the External Affairs Ministry informed in a statement that out of 11 Indian nationals on board, 10 have been rescued so far, while one Indian National is reportedly missing. It said the Indian Embassy in Oman is closely monitoring the situation and proactively coordinating with the Omani authorities in the ongoing Search and Rescue operation. India has thanked the Omani authorities for their support. India expressed concern over the continuing incidents of attacks on commercial shipping in the region. It also reiterated the call for the conclusion of ongoing negotiations for a diplomatic solution so that peace and stability can return to the region.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:41:35+00:00",
+        "link": "https://newsonair.gov.in/india-calls-for-immediate-de-escalation-of-tension-in-west-asia-after-attack-on-ship-carrying-indian-nationals-off-oman-coast/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Manohar Lal calls for adopting environmental friendly construction methods",
+        "summary": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength […]",
+        "article": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength should not be compromised. Mr Manohar Lal noted that as India&#8217;s infrastructure aspirations continue to grow, CPWD has an even greater responsibility to lead with innovation, adopt sustainable construction practices and deliver projects that uphold the highest standards of quality, durability and structural integrity. The Union Minister also emphasised moving forward with the spirit of SANKALP – Speed, Accessibility, Nek Niyat, Kartavya Nishtha, Adoption of Technology, Lokhit and Pardarshita for creating citizen-centric infrastructure. He called upon the officers and staff of the CPWD to work with full honesty and morality to enhance the credibility of the organisation. On the occasion, the Union Minister also virtually laid the foundation stone of the National Council for Public Works Building at Ghaziabad in Uttar Pradesh. In his address, Secretary of the Ministry of Housing and Urban Affairs, Srinivas Katikithala, appreciated the CPWD&#8217;s significant contribution to the creation of quality public infrastructure across the country. He highlighted that CPWD has evolved into a modern, technology-driven organisation capable of executing complex and iconic projects. He further emphasised that CPWD should continue to lead the adoption of best engineering practices, digital technologies, sustainable construction methods and efficient project management systems. Director General, CPWD Satinder Pal Singh reiterated CPWD&#8217;s commitment to delivering high-quality public infrastructure through innovation and emphasised the timely execution of projects. He said that capacity-building and skill development remain key priorities of the Department.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:38:59+00:00",
+        "link": "https://newsonair.gov.in/union-minister-manohar-lal-calls-for-adopting-environmental-friendly-construction-methods/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "US says Strait of Hormuz open to all vessels and American military ready to ensure freedom of navigation",
         "summary": "The US Central Command (CENTCOM) has said that the Strait of Hormuz remains open to all vessels seeking lawful passage hours after Iran&#8217;s Islamic Revolutionary Guard Corps (IRGC) announced the closure of the strategic waterway until further notice. The statement came after US President Donald Trump said in a press meeting that the Strait of […]",
@@ -11,6 +55,17 @@ window.VM_NEWS = {
         "pubDate": "2026-07-12T15:23:18+00:00",
         "link": "https://newsonair.gov.in/us-says-strait-of-hormuz-open-to-all-vessels-and-american-military-ready-to-ensure-freedom-of-navigation/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/strait-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Vietnam Boat Tragedy: Mortal remains of 15 Indians brought to Ho Chi Minh City; To be transported to India",
+        "summary": "The mortal remains of the 15 Indian tourists who lost their lives in yesterday&#8217;s boat capsize incident near Phu Quoc Island in Vietnam were taken to Ho Chi Minh City today. The Indian Embassy in Vietnam, in a social media post, stated that after the completion of necessary formalities in Ho Chi Minh City, the […]",
+        "article": "The mortal remains of the 15 Indian tourists who lost their lives in yesterday&#8217;s boat capsize incident near Phu Quoc Island in Vietnam were taken to Ho Chi Minh City today. The Indian Embassy in Vietnam, in a social media post, stated that after the completion of necessary formalities in Ho Chi Minh City, the mortal remains will be transported to India at the earliest. It added that the Embassy stated that the Consulate General are closely coordinating with the Vietnamese authorities and assured all possible assistance to facilitate the early transportation of the mortal remains to India. Earlier in the day, the Embassy said, 15 survivors of the tragic boat accident have been discharged from the hospital after receiving medical treatment and are returning to India. It said the other continues to undergo treatment at a hospital in Phu Quoc.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:10:26+00:00",
+        "link": "https://newsonair.gov.in/vietnam-boat-tragedy-mortal-remains-of-15-indians-brought-to-ho-chi-minh-city-to-be-transported-to-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -79,64 +134,53 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
+      }
+    ],
+    "breaking": [
+      {
+        "title": "India conducts massive tree-planting campaign across country",
+        "summary": "A massive tree-planting campaign was conducted across the country today. Uttar Pradesh Chief Minister Yogi Adityanath launched the state-wide Vriksharopan Maha Yagya drive from Gorakhpur by planting the sacred Triveni (Neem, Peepal and Banyan) near the Link Expressway. He also planted a Maulshri sapling along Tal Ring Road. The LinkState created history by planting more […]",
+        "article": "A massive tree-planting campaign was conducted across the country today. Uttar Pradesh Chief Minister Yogi Adityanath launched the state-wide Vriksharopan Maha Yagya drive from Gorakhpur by planting the sacred Triveni (Neem, Peepal and Banyan) near the Link Expressway. He also planted a Maulshri sapling along Tal Ring Road. The LinkState created history by planting more than 35 crore 27 lakh saplings today. Under the theme &#8220;Ek Ped Maa Ke Naam, a total of 3,527,899,260 saplings were planted across the state till 6:12 pm. This is 27.89 lakh more than the government&#8217;s target of 35 crore. Chief Minister Yogi Adityanath congratulated the people of the state for this achievement. Uttar Pradesh Governor Anandiben Patel planted a white sandalwood sapling at the Jan Bhawan premises as part of the campaign. A total of 29 sandalwood saplings were planted at the Nakshatra Vatika of Jan Bhawan during the programme. Officials and employees of Jan Bhawan, along with girls from the Government Girls’ Home, Sindhi Kheda, participated in the plantation drive. Many Ministers and public representatives participate in the campaign along with members of NGO, Various departments, students and the general public. The campaign ran in all 18 divisions and 75 districts of the state. State also planted more than 5 Crore saplings on the World Environment Day on 5th June this year. Cumulative plantation for this year for Uttar Pradesh stands at 40 crore and 29 lakh. The plantation mega campaign was carried out through the coordination of 27 departments; the Forest Department completed the largest target of 15.50 crore saplings. Home Minister Amit Shah launched a massive tree plantation drive in Gandhinagar, Gujarat, which saw the planting of over 1.25 crore saplings across his Lok Sabha constituency today. Addressing the gathering, the Home Minister highlighted a long-term environmental roadmap to increase the green cover of the constituency to 20 per cent by 2029. The Home Minister stressed that planting indigenous species like Banyan, Peepal, Jambu, and Arjun will help lower the city&#8217;s temperature by 5 per cent. Addressing the Vriksh Mitra Programme and Paryavaran Sanrakshan Sankalp event in New Delhi today, Union Minister Shivraj Singh Chouhan emphasised that planting trees is extremely important for protecting the environment and ensuring a sustainable future. The Minister highlighted initiatives like Ek Ped Maa Ke Naam and Mission LiFE to protect and preserve the environment. Mr Chouhan said that India has set a target of achieving net zero carbon emissions by 2070. Madhya Pradesh Chief Minister Dr Mohan Yadav flagged off the plantation drive in Indore, which targets planting 21 lakh saplings across the state. It also plans to set up 51 thousand rainwater harvesting units. The goal is to turn environmental protection and water conservation into a people&#8217;s movement. Union Urban Development Minister Kailash Vijayvargiya and Indore Mayor Pushyamitra Bhargav were present at the event. Social organisations, NGOs, students and a large number of citizens took part in the plantation drive.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T16:57:54+00:00",
+        "link": "https://newsonair.gov.in/india-conducts-massive-tree-planting-campaign-across-country/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNCbyoCaIAAoCpE.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
       },
       {
-        "title": "Union Minister Mansukh Mandaviya will inaugurate 7 ESI healthcare projects worth ₹668 crore",
-        "summary": "Union Minister for Labour and Employment, Dr Mansukh Mandaviya, will inaugurate seven Employees&#8217; State Insurance (ESI) healthcare projects worth around 668 crore rupees across the country on Tuesday. These projects include the new Outpatient Department (OPD) Block at the ESIC Hospital in Sanathnagar, Telangana; the upgraded 200-bed ESIC Hospital at Beltola, Assam; the 100-bed ESIC […]",
-        "article": "Union Minister for Labour and Employment, Dr Mansukh Mandaviya, will inaugurate seven Employees&#8217; State Insurance (ESI) healthcare projects worth around 668 crore rupees across the country on Tuesday. These projects include the new Outpatient Department (OPD) Block at the ESIC Hospital in Sanathnagar, Telangana; the upgraded 200-bed ESIC Hospital at Beltola, Assam; the 100-bed ESIC Hospital at Sriperumbudur, Tamil Nadu; the ESIS Hospital at Rajamahendravaram, Andhra Pradesh; the ESI Dispensary and Branch Office at Surendranagar, Gujarat; and the ESI Dispensary and Branch Office at Udyog Nagar, Kota, along with the ESI Dispensary at Bhawani Mandi in Rajasthan. The Ministry of Labour and Employment said Dr Mandaviya will be in Sanathnagar to inaugurate the new OPD Block at the ESIC Hospital, while the remaining six projects will be inaugurated virtually. The Ministry noted that these healthcare facilities will cater to the medical needs of around 53 lakh beneficiaries across the country. On the occasion, Dr Mandaviya will also honour construction workers who contributed to the development of the OPD Block at the ESIC Hospital in Sanathnagar, recognising their role in nation-building. He will also disburse cash benefits to ESI beneficiaries, reaffirming the government&#8217;s commitment to workers&#8217; welfare. Minister of State for Labour and Employment Shobha Karandlaje will also attend the event.",
+        "title": "India calls for immediate de-escalation of tension in West Asia after attack on ship carrying Indian nationals off Oman coast",
+        "summary": "New Delhi has reiterated the call for immediate de-escalation of tensions in the West Asia region after the attack on a commercial vessel, GFS Galaxy, carrying Indian crew members off the coast of Oman today. Condemning the attack, the External Affairs Ministry informed in a statement that out of 11 Indian nationals on board, 10 […]",
+        "article": "New Delhi has reiterated the call for immediate de-escalation of tensions in the West Asia region after the attack on a commercial vessel, GFS Galaxy, carrying Indian crew members off the coast of Oman today. Condemning the attack, the External Affairs Ministry informed in a statement that out of 11 Indian nationals on board, 10 have been rescued so far, while one Indian National is reportedly missing. It said the Indian Embassy in Oman is closely monitoring the situation and proactively coordinating with the Omani authorities in the ongoing Search and Rescue operation. India has thanked the Omani authorities for their support. India expressed concern over the continuing incidents of attacks on commercial shipping in the region. It also reiterated the call for the conclusion of ongoing negotiations for a diplomatic solution so that peace and stability can return to the region.",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T12:31:42+00:00",
-        "link": "https://newsonair.gov.in/union-minister-mansukh-mandaviya-will-inaugurate-7-esi-healthcare-projects-worth-%e2%82%b9668-crore/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/12/Mansukh_Mandaviya_photo_2.png",
+        "pubDate": "2026-07-12T15:41:35+00:00",
+        "link": "https://newsonair.gov.in/india-calls-for-immediate-de-escalation-of-tension-in-west-asia-after-attack-on-ship-carrying-indian-nationals-off-oman-coast/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-2.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
         "title": "Union Minister Manohar Lal calls for adopting environmental friendly construction methods",
         "summary": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength […]",
-        "article": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength should not be compromised. He called upon the officers and staff of the CPWD to work with full honesty and morality to enhance the credibility of the organisation. On the occasion, the Union Minister also virtually laid the foundation stone of the National Council for Public Works Building at Ghaziabad in Uttar Pradesh. The Secretary of the Ministry of Housing and Urban Affairs, Srinivas Katikithala and the Director General of CPWD were also present on the occasion.",
+        "article": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength should not be compromised. Mr Manohar Lal noted that as India&#8217;s infrastructure aspirations continue to grow, CPWD has an even greater responsibility to lead with innovation, adopt sustainable construction practices and deliver projects that uphold the highest standards of quality, durability and structural integrity. The Union Minister also emphasised moving forward with the spirit of SANKALP – Speed, Accessibility, Nek Niyat, Kartavya Nishtha, Adoption of Technology, Lokhit and Pardarshita for creating citizen-centric infrastructure. He called upon the officers and staff of the CPWD to work with full honesty and morality to enhance the credibility of the organisation. On the occasion, the Union Minister also virtually laid the foundation stone of the National Council for Public Works Building at Ghaziabad in Uttar Pradesh. In his address, Secretary of the Ministry of Housing and Urban Affairs, Srinivas Katikithala, appreciated the CPWD&#8217;s significant contribution to the creation of quality public infrastructure across the country. He highlighted that CPWD has evolved into a modern, technology-driven organisation capable of executing complex and iconic projects. He further emphasised that CPWD should continue to lead the adoption of best engineering practices, digital technologies, sustainable construction methods and efficient project management systems. Director General, CPWD Satinder Pal Singh reiterated CPWD&#8217;s commitment to delivering high-quality public infrastructure through innovation and emphasised the timely execution of projects. He said that capacity-building and skill development remain key priorities of the Department.",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T12:21:59+00:00",
+        "pubDate": "2026-07-12T15:38:59+00:00",
         "link": "https://newsonair.gov.in/union-minister-manohar-lal-calls-for-adopting-environmental-friendly-construction-methods/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "US President Trump ally Lindsey Graham passes away after brief illness at 71",
-        "summary": "US Senator Lindsey Graham, a close ally of President Donald Trump, has passed away following a brief illness. He was 71. A member of the Republican Party, Graham was first elected to the U.S. Senate in 2002 and was re-elected in 2008, 2014 and 2020. During President Trump&#8217;s second term, Graham emerged as a key […]",
-        "article": "US Senator Lindsey Graham, a close ally of President Donald Trump, has passed away following a brief illness. He was 71. A member of the Republican Party, Graham was first elected to the U.S. Senate in 2002 and was re-elected in 2008, 2014 and 2020. During President Trump&#8217;s second term, Graham emerged as a key voice on US foreign policy. He was a strong supporter of the 2003 US invasion of Iraq and had long pushed for military action against Iran and strongly opposed the Iran nuclear deal negotiated under former President Barack Obama.",
+        "title": "Vietnam Boat Tragedy: Mortal remains of 15 Indians brought to Ho Chi Minh City; To be transported to India",
+        "summary": "The mortal remains of the 15 Indian tourists who lost their lives in yesterday&#8217;s boat capsize incident near Phu Quoc Island in Vietnam were taken to Ho Chi Minh City today. The Indian Embassy in Vietnam, in a social media post, stated that after the completion of necessary formalities in Ho Chi Minh City, the […]",
+        "article": "The mortal remains of the 15 Indian tourists who lost their lives in yesterday&#8217;s boat capsize incident near Phu Quoc Island in Vietnam were taken to Ho Chi Minh City today. The Indian Embassy in Vietnam, in a social media post, stated that after the completion of necessary formalities in Ho Chi Minh City, the mortal remains will be transported to India at the earliest. It added that the Embassy stated that the Consulate General are closely coordinating with the Vietnamese authorities and assured all possible assistance to facilitate the early transportation of the mortal remains to India. Earlier in the day, the Embassy said, 15 survivors of the tragic boat accident have been discharged from the hospital after receiving medical treatment and are returning to India. It said the other continues to undergo treatment at a hospital in Phu Quoc.",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T10:57:36+00:00",
-        "link": "https://newsonair.gov.in/us-president-trump-ally-lindsey-graham-passes-away-after-brief-illness-at-71/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-12-162414.jpg",
+        "pubDate": "2026-07-12T15:10:26+00:00",
+        "link": "https://newsonair.gov.in/vietnam-boat-tragedy-mortal-remains-of-15-indians-brought-to-ho-chi-minh-city-to-be-transported-to-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
-      {
-        "title": "President Murmu expresses grief over demise of playback singer S Janaki Amma",
-        "summary": "President Droupadi Murmu has expressed grief over the demise of playback singer S Janaki Amma. In a social media post, the President said that the country has lost a musical icon. The President added that S. Janaki Amma’s extraordinary singing enthralled generations. President Murmu said S. Janaki Amma’s illustrious career spanned more than six decades, […]",
-        "article": "President Droupadi Murmu has expressed grief over the demise of playback singer S Janaki Amma. In a social media post, the President said that the country has lost a musical icon. The President added that S. Janaki Amma’s extraordinary singing enthralled generations. President Murmu said S. Janaki Amma’s illustrious career spanned more than six decades, during which she recorded thousands of songs in nearly 20 Indian languages, including Hindi, Odia, Tulu, Urdu, Punjabi and Bengali. The President said that her timeless music will always remain valuable.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T10:44:45+00:00",
-        "link": "https://newsonair.gov.in/president-murmu-expresses-grief-over-demise-of-playback-singer-s-janaki-amma/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Murmu-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "VP Radhakrishnan unveils social reformer & freedom fighter Mannathu Padmanabhan’s statue in New Delhi",
-        "summary": "Vice President C. P. Radhakrishnan today asserted that it is the duty of every citizen to respect and uphold the great legacy of the nation&#8217;s social reformers. Mr Radhakrishnan was speaking after unveiling the statue of social reformer and freedom fighter Mannathu Padmanabhan and inaugurating the Mannam Smrithi Mandapam at the Mannam International Centre in […]",
-        "article": "Vice President C. P. Radhakrishnan today asserted that it is the duty of every citizen to respect and uphold the great legacy of the nation&#8217;s social reformers. Mr Radhakrishnan was speaking after unveiling the statue of social reformer and freedom fighter Mannathu Padmanabhan and inaugurating the Mannam Smrithi Mandapam at the Mannam International Centre in Dwarka, New Delhi. Addressing the gathering, the Vice President highlighted Mannathu Padmanabhan’s lifelong commitment to social justice, equality, education and community service. He said Mannathu Padmanabhan’s ideals continue to inspire the nation in its journey towards building an inclusive and harmonious society. Describing Mannathu Padmanabhan as one of modern India’s greatest social reformers, Mr Radhakrishnan said his life was devoted to the upliftment of society through education, social reform, self-reliance and community service. He said that at a time when the concept of social reform was hardly understood and many people were suffering without support, Mannathu Padmanabhan came forward to serve society. The Vice President added that Mannathu Padmanabhan’s association with the national movement further reflected his commitment to these ideals. He noted that, alongside Mahatma Gandhi, Mannathu Padmanabhan played a significant role in championing the cause of the socially deprived. Mr Radhakrishnan also highlighted his active participation in the historic Vaikom Satyagraha, describing it as one of the defining chapters of India’s social reform movement. The Vice President said that if there had been no Adi Shankaracharya of Kalady, there would have been no Sanatana Dharma in India, and that without Sree Narayana Guru and Mannathu Padmanabhan, Sanatana Dharma would not have survived in Keralam in the same way. He noted that Keralam became the first state in the country to achieve 100 per cent literacy. Mr Radhakrishnan said this achievement was neither the result of government efforts alone nor the contribution of any single political party, but was also shaped by the immense contributions of Mannathu Padmanabhan and Sree Narayana Guru. Mr Radhakrishnan said the dedication of the Mannam Smrithi Mandapam is not merely the inauguration of a structure, but the consecration of an enduring legacy. He added that through the Smrithi Mandapam, the nation is paying tribute to one of its greatest social reformers. The Vice President underscored that the Mandapam stands as a living tribute to a visionary whose ideals transcended the boundaries of caste and religion, and whose life continues to illuminate the path of social justice, equality and service to the nation and society. Mr Radhakrishnan also appreciated the efforts of the Nair Service Society (NSS), in preserving and carrying forward Mannathu Padmanabhan’s legacy through the establishment of the Smrithi Mandapam. He said that more than a century after the establishment of the NSS, the ideals of Karmayogi Mannathu Padmanabhan has travelled far beyond the land of their origin. The Vice President also highlighted that the preservation and promotion of Kerala’s rich cultural heritage through Kalaripayattu, Kathakali and Mohiniyattam will ensure that future generations remain connected to their roots while embracing modernity. On the occasion, Vice President C. P. Radhakrishnan also planted a sapling under the ‘Ek Ped Maa Ke Naam’ campaign. Union Minister of State Suresh Gopi, NSS Delhi President M. K. G. Pillai, NSS Delhi …",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T09:33:59+00:00",
-        "link": "https://newsonair.gov.in/vp-radhakrishnan-unveils-social-reformer-freedom-fighter-mannathu-padmanabhans-statue-in-new-delhi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNA6LpfbAAEqZ1R.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "breaking": [
       {
         "title": "PM Narendra Modi to address nation in Mann Ki Baat on 26 July",
         "summary": "Prime Minister Narendra Modi will share his thoughts with the people of the country and abroad in the Mann Ki Baat programme on Akashvani on 26th July. It will be the 136th episode of the monthly radio programme. People can submit their ideas and suggestions for the programme through the toll-free number 1800-11-7800. They […]",
@@ -182,17 +226,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Union Minister Manohar Lal calls for adopting environmental friendly construction methods",
-        "summary": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength […]",
-        "article": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength should not be compromised. He called upon the officers and staff of the CPWD to work with full honesty and morality to enhance the credibility of the organisation. On the occasion, the Union Minister also virtually laid the foundation stone of the National Council for Public Works Building at Ghaziabad in Uttar Pradesh. The Secretary of the Ministry of Housing and Urban Affairs, Srinivas Katikithala and the Director General of CPWD were also present on the occasion.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T12:21:59+00:00",
-        "link": "https://newsonair.gov.in/union-minister-manohar-lal-calls-for-adopting-environmental-friendly-construction-methods/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "President Murmu expresses grief over demise of playback singer S Janaki Amma",
         "summary": "President Droupadi Murmu has expressed grief over the demise of playback singer S Janaki Amma. In a social media post, the President said that the country has lost a musical icon. The President added that S. Janaki Amma’s extraordinary singing enthralled generations. President Murmu said S. Janaki Amma’s illustrious career spanned more than six decades, […]",
         "article": "President Droupadi Murmu has expressed grief over the demise of playback singer S Janaki Amma. In a social media post, the President said that the country has lost a musical icon. The President added that S. Janaki Amma’s extraordinary singing enthralled generations. President Murmu said S. Janaki Amma’s illustrious career spanned more than six decades, during which she recorded thousands of songs in nearly 20 Indian languages, including Hindi, Odia, Tulu, Urdu, Punjabi and Bengali. The President said that her timeless music will always remain valuable.",
@@ -212,44 +245,55 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/vp-radhakrishnan-unveils-social-reformer-freedom-fighter-mannathu-padmanabhans-statue-in-new-delhi/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNA6LpfbAAEqZ1R.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India condemns attack on commercial vessel GFS Galaxy off coast of Oman; 10 Indians rescued, one reported missing; New Delhi expresses concern over continuing attacks on commercial shipping in region",
-        "summary": "India has condemned the attack on the commercial vessel GFS Galaxy off the coast of Oman earlier today. The External Affairs Ministry informed in a statement that of the 11 Indian nationals on board, 10 have been rescued so far, while one Indian National is reportedly missing. It said the Indian Embassy in Oman is […]",
-        "article": "India has condemned the attack on the commercial vessel GFS Galaxy off the coast of Oman earlier today. The External Affairs Ministry informed in a statement that of the 11 Indian nationals on board, 10 have been rescued so far, while one Indian National is reportedly missing. It said the Indian Embassy in Oman is closely monitoring the situation and proactively coordinating with the Omani authorities in the ongoing Search and Rescue operation. India has thanked the Omani authorities for their support. New Delhi has expressed concern over the continuing incidents of attacks on commercial shipping in the region. It reiterated the call for immediate de-escalation of tensions and the conclusion of ongoing negotiations for a diplomatic solution so that peace and stability can return to the region. The External Affairs Ministry said the targeting of commercial shipping and civilian infrastructure in the region must end, and free and unimpeded navigation and commerce through the international waterways in the region, in keeping with international law, must be restored at the earliest. &nbsp;",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:19:50+00:00",
-        "link": "https://newsonair.gov.in/india-condemns-attack-on-commercial-vessel-gfs-galaxy-off-coast-of-oman-10-indians-rescued-one-reported-missing-new-delhi-expresses-concern-over-continuing-attacks-on-commercial-shipping-in-the-reg/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
-        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Piyush Goyal will lead business delegation to Spain, Belgium and Finland from tomorrow",
-        "summary": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation to Spain, Belgium and Finland from tomorrow till the 17th of this month. The Ministry of Commerce and Industry said that the visit aims to strengthen India&#8217;s economic partnerships with Europe with a focus on trade, investment, technology, innovation and sustainability. […]",
-        "article": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation to Spain, Belgium and Finland from tomorrow till the 17th of this month. The Ministry of Commerce and Industry said that the visit aims to strengthen India&#8217;s economic partnerships with Europe with a focus on trade, investment, technology, innovation and sustainability. In the first leg of his tour, Mr Goyal will visit Spain tomorrow, where he will participate in a Business Roundtable with the Chamber of Commerce of Spain, CEOE and ICEX Spain Trade and Investment. The session will bring together Spanish and Indian industry leaders to explore opportunities in automotive, renewable energy, railways, artificial intelligence, semiconductors, food processing, and tourism. The Minister will then visit Belgium on the 14th and 15th of this month. He will hold meetings with the leadership of Thales Group and Silox Group. The programme includes participation in the India-EU Business Roundtable and the Trade and Technology Council Plenary, where discussions will centre on foreign investment, trade facilitation, sustainable technologies and resilient supply chains. Thereafter, Mr Goyal will visit Finland on the 16th and 17th of this month. He will attend the India-Finland Business Roundtable. The Minister will visit leading Finnish companies and research institutions, including Nokia, Kone, Kemppi Group and VTT Research Centre, to explore collaboration in telecommunications, advanced manufacturing, clean energy, mobility and innovation.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:38:44+00:00",
-        "link": "https://newsonair.gov.in/union-minister-piyush-goyal-will-lead-business-delegation-to-spain-belgium-and-finland-from-tomorrow/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Shivraj Singh Chouhan emphasises planting trees is extremely important for protecting environment",
-        "summary": "Union Minister Shivraj Singh Chouhan has emphasised that planting trees is extremely important for protecting the environment and ensuring a sustainable future. Addressing the Vriksh Mitra Programme and Paryavaran Sanrakshan Sankalp event in New Delhi, Mr Chouhan said, today the entire world is concerned about climate change and global warming. He noted that […]",
-        "article": "Union Minister Shivraj Singh Chouhan has emphasised that planting trees is extremely important for protecting the environment and ensuring a sustainable future. Addressing the Vriksh Mitra Programme and Paryavaran Sanrakshan Sankalp event in New Delhi, Mr Chouhan said, today the entire world is concerned about climate change and global warming. He noted that since 1880, rising ocean temperatures and melting glaciers have led to an increase in global sea levels by about 20 to 23 centimetres. He added that the Earth’s average temperature has risen by nearly 1.5 degrees Celsius compared to 1900, which is a serious warning sign of climate change. Mr Chouhan highlighted that Prime Minister Narendra Modi has taken several key initiatives to tackle this crisis. He said that there has been a significant increase in renewable energy capacity in the country. The Minister also mentioned initiatives like Ek Ped Maa Ke Naam campaign and Mission LiFE to protect and preserve the environment. Mr Chouhan said that India has set a target of achieving net-zero carbon emissions by 2070.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:29:51+00:00",
-        "link": "https://newsonair.gov.in/union-minister-shivraj-singh-chouhan-to-participate-in-paryavaran-sanrakshan-sankalp-program-at-the-pusa-campus-in-new-delhi-today/",
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "India conducts massive tree-planting campaign across country",
+        "summary": "A massive tree-planting campaign was conducted across the country today. Uttar Pradesh Chief Minister Yogi Adityanath launched the state-wide Vriksharopan Maha Yagya drive from Gorakhpur by planting the sacred Triveni (Neem, Peepal and Banyan) near the Link Expressway. He also planted a Maulshri sapling along Tal Ring Road. The LinkState created history by planting more […]",
+        "article": "A massive tree-planting campaign was conducted across the country today. Uttar Pradesh Chief Minister Yogi Adityanath launched the state-wide Vriksharopan Maha Yagya drive from Gorakhpur by planting the sacred Triveni (Neem, Peepal and Banyan) near the Link Expressway. He also planted a Maulshri sapling along Tal Ring Road. The LinkState created history by planting more than 35 crore 27 lakh saplings today. Under the theme &#8220;Ek Ped Maa Ke Naam, a total of 3,527,899,260 saplings were planted across the state till 6:12 pm. This is 27.89 lakh more than the government&#8217;s target of 35 crore. Chief Minister Yogi Adityanath congratulated the people of the state for this achievement. Uttar Pradesh Governor Anandiben Patel planted a white sandalwood sapling at the Jan Bhawan premises as part of the campaign. A total of 29 sandalwood saplings were planted at the Nakshatra Vatika of Jan Bhawan during the programme. Officials and employees of Jan Bhawan, along with girls from the Government Girls’ Home, Sindhi Kheda, participated in the plantation drive. Many Ministers and public representatives participate in the campaign along with members of NGO, Various departments, students and the general public. The campaign ran in all 18 divisions and 75 districts of the state. State also planted more than 5 Crore saplings on the World Environment Day on 5th June this year. Cumulative plantation for this year for Uttar Pradesh stands at 40 crore and 29 lakh. The plantation mega campaign was carried out through the coordination of 27 departments; the Forest Department completed the largest target of 15.50 crore saplings. Home Minister Amit Shah launched a massive tree plantation drive in Gandhinagar, Gujarat, which saw the planting of over 1.25 crore saplings across his Lok Sabha constituency today. Addressing the gathering, the Home Minister highlighted a long-term environmental roadmap to increase the green cover of the constituency to 20 per cent by 2029. The Home Minister stressed that planting indigenous species like Banyan, Peepal, Jambu, and Arjun will help lower the city&#8217;s temperature by 5 per cent. Addressing the Vriksh Mitra Programme and Paryavaran Sanrakshan Sankalp event in New Delhi today, Union Minister Shivraj Singh Chouhan emphasised that planting trees is extremely important for protecting the environment and ensuring a sustainable future. The Minister highlighted initiatives like Ek Ped Maa Ke Naam and Mission LiFE to protect and preserve the environment. Mr Chouhan said that India has set a target of achieving net zero carbon emissions by 2070. Madhya Pradesh Chief Minister Dr Mohan Yadav flagged off the plantation drive in Indore, which targets planting 21 lakh saplings across the state. It also plans to set up 51 thousand rainwater harvesting units. The goal is to turn environmental protection and water conservation into a people&#8217;s movement. Union Urban Development Minister Kailash Vijayvargiya and Indore Mayor Pushyamitra Bhargav were present at the event. Social organisations, NGOs, students and a large number of citizens took part in the plantation drive.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T16:57:54+00:00",
+        "link": "https://newsonair.gov.in/india-conducts-massive-tree-planting-campaign-across-country/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNCbyoCaIAAoCpE.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India calls for immediate de-escalation of tension in West Asia after attack on ship carrying Indian nationals off Oman coast",
+        "summary": "New Delhi has reiterated the call for immediate de-escalation of tensions in the West Asia region after the attack on a commercial vessel, GFS Galaxy, carrying Indian crew members off the coast of Oman today. Condemning the attack, the External Affairs Ministry informed in a statement that out of 11 Indian nationals on board, 10 […]",
+        "article": "New Delhi has reiterated the call for immediate de-escalation of tensions in the West Asia region after the attack on a commercial vessel, GFS Galaxy, carrying Indian crew members off the coast of Oman today. Condemning the attack, the External Affairs Ministry informed in a statement that out of 11 Indian nationals on board, 10 have been rescued so far, while one Indian National is reportedly missing. It said the Indian Embassy in Oman is closely monitoring the situation and proactively coordinating with the Omani authorities in the ongoing Search and Rescue operation. India has thanked the Omani authorities for their support. India expressed concern over the continuing incidents of attacks on commercial shipping in the region. It also reiterated the call for the conclusion of ongoing negotiations for a diplomatic solution so that peace and stability can return to the region.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:41:35+00:00",
+        "link": "https://newsonair.gov.in/india-calls-for-immediate-de-escalation-of-tension-in-west-asia-after-attack-on-ship-carrying-indian-nationals-off-oman-coast/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Manohar Lal calls for adopting environmental friendly construction methods",
+        "summary": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength […]",
+        "article": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength should not be compromised. Mr Manohar Lal noted that as India&#8217;s infrastructure aspirations continue to grow, CPWD has an even greater responsibility to lead with innovation, adopt sustainable construction practices and deliver projects that uphold the highest standards of quality, durability and structural integrity. The Union Minister also emphasised moving forward with the spirit of SANKALP – Speed, Accessibility, Nek Niyat, Kartavya Nishtha, Adoption of Technology, Lokhit and Pardarshita for creating citizen-centric infrastructure. He called upon the officers and staff of the CPWD to work with full honesty and morality to enhance the credibility of the organisation. On the occasion, the Union Minister also virtually laid the foundation stone of the National Council for Public Works Building at Ghaziabad in Uttar Pradesh. In his address, Secretary of the Ministry of Housing and Urban Affairs, Srinivas Katikithala, appreciated the CPWD&#8217;s significant contribution to the creation of quality public infrastructure across the country. He highlighted that CPWD has evolved into a modern, technology-driven organisation capable of executing complex and iconic projects. He further emphasised that CPWD should continue to lead the adoption of best engineering practices, digital technologies, sustainable construction methods and efficient project management systems. Director General, CPWD Satinder Pal Singh reiterated CPWD&#8217;s commitment to delivering high-quality public infrastructure through innovation and emphasised the timely execution of projects. He said that capacity-building and skill development remain key priorities of the Department.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:38:59+00:00",
+        "link": "https://newsonair.gov.in/union-minister-manohar-lal-calls-for-adopting-environmental-friendly-construction-methods/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Vietnam Boat Tragedy: Mortal remains of 15 Indians brought to Ho Chi Minh City; To be transported to India",
+        "summary": "The mortal remains of the 15 Indian tourists who lost their lives in yesterday&#8217;s boat capsize incident near Phu Quoc Island in Vietnam were taken to Ho Chi Minh City today. The Indian Embassy in Vietnam, in a social media post, stated that after the completion of necessary formalities in Ho Chi Minh City, the […]",
+        "article": "The mortal remains of the 15 Indian tourists who lost their lives in yesterday&#8217;s boat capsize incident near Phu Quoc Island in Vietnam were taken to Ho Chi Minh City today. The Indian Embassy in Vietnam, in a social media post, stated that after the completion of necessary formalities in Ho Chi Minh City, the mortal remains will be transported to India at the earliest. It added that the Embassy stated that the Consulate General are closely coordinating with the Vietnamese authorities and assured all possible assistance to facilitate the early transportation of the mortal remains to India. Earlier in the day, the Embassy said, 15 survivors of the tragic boat accident have been discharged from the hospital after receiving medical treatment and are returning to India. It said the other continues to undergo treatment at a hospital in Phu Quoc.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:10:26+00:00",
+        "link": "https://newsonair.gov.in/vietnam-boat-tragedy-mortal-remains-of-15-indians-brought-to-ho-chi-minh-city-to-be-transported-to-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Narendra Modi to address nation in Mann Ki Baat on 26 July",
         "summary": "Prime Minister Narendra Modi will share his thoughts with the people of the country and abroad in the Mann Ki Baat programme on Akashvani on 26th July. It will be the 136th episode of the monthly radio programme. People can submit their ideas and suggestions for the programme through the toll-free number 1800-11-7800. They […]",
         "article": "Prime Minister Narendra Modi will share his thoughts with the people of the country and abroad in the Mann Ki Baat programme on Akashvani on 26th July. It will be the 136th episode of the monthly radio programme. People can submit their ideas and suggestions for the programme through the toll-free number 1800-11-7800. They can also share their input online via the Narendra Modi App or the MyGov Open Forum. The citizens can also give a missed call on 1922 and follow the link received in SMS to directly give their suggestions to the Prime Minister. Suggestions for the upcoming episode will be accepted until the 24th of this month.",
@@ -294,17 +338,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Union Minister Manohar Lal calls for adopting environmental friendly construction methods",
-        "summary": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength […]",
-        "article": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength should not be compromised. He called upon the officers and staff of the CPWD to work with full honesty and morality to enhance the credibility of the organisation. On the occasion, the Union Minister also virtually laid the foundation stone of the National Council for Public Works Building at Ghaziabad in Uttar Pradesh. The Secretary of the Ministry of Housing and Urban Affairs, Srinivas Katikithala and the Director General of CPWD were also present on the occasion.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T12:21:59+00:00",
-        "link": "https://newsonair.gov.in/union-minister-manohar-lal-calls-for-adopting-environmental-friendly-construction-methods/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "President Murmu expresses grief over demise of playback singer S Janaki Amma",
         "summary": "President Droupadi Murmu has expressed grief over the demise of playback singer S Janaki Amma. In a social media post, the President said that the country has lost a musical icon. The President added that S. Janaki Amma’s extraordinary singing enthralled generations. President Murmu said S. Janaki Amma’s illustrious career spanned more than six decades, […]",
         "article": "President Droupadi Murmu has expressed grief over the demise of playback singer S Janaki Amma. In a social media post, the President said that the country has lost a musical icon. The President added that S. Janaki Amma’s extraordinary singing enthralled generations. President Murmu said S. Janaki Amma’s illustrious career spanned more than six decades, during which she recorded thousands of songs in nearly 20 Indian languages, including Hindi, Odia, Tulu, Urdu, Punjabi and Bengali. The President said that her timeless music will always remain valuable.",
@@ -324,44 +357,55 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/vp-radhakrishnan-unveils-social-reformer-freedom-fighter-mannathu-padmanabhans-statue-in-new-delhi/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNA6LpfbAAEqZ1R.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India condemns attack on commercial vessel GFS Galaxy off coast of Oman; 10 Indians rescued, one reported missing; New Delhi expresses concern over continuing attacks on commercial shipping in region",
-        "summary": "India has condemned the attack on the commercial vessel GFS Galaxy off the coast of Oman earlier today. The External Affairs Ministry informed in a statement that of the 11 Indian nationals on board, 10 have been rescued so far, while one Indian National is reportedly missing. It said the Indian Embassy in Oman is […]",
-        "article": "India has condemned the attack on the commercial vessel GFS Galaxy off the coast of Oman earlier today. The External Affairs Ministry informed in a statement that of the 11 Indian nationals on board, 10 have been rescued so far, while one Indian National is reportedly missing. It said the Indian Embassy in Oman is closely monitoring the situation and proactively coordinating with the Omani authorities in the ongoing Search and Rescue operation. India has thanked the Omani authorities for their support. New Delhi has expressed concern over the continuing incidents of attacks on commercial shipping in the region. It reiterated the call for immediate de-escalation of tensions and the conclusion of ongoing negotiations for a diplomatic solution so that peace and stability can return to the region. The External Affairs Ministry said the targeting of commercial shipping and civilian infrastructure in the region must end, and free and unimpeded navigation and commerce through the international waterways in the region, in keeping with international law, must be restored at the earliest. &nbsp;",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:19:50+00:00",
-        "link": "https://newsonair.gov.in/india-condemns-attack-on-commercial-vessel-gfs-galaxy-off-coast-of-oman-10-indians-rescued-one-reported-missing-new-delhi-expresses-concern-over-continuing-attacks-on-commercial-shipping-in-the-reg/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
-        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Piyush Goyal will lead business delegation to Spain, Belgium and Finland from tomorrow",
-        "summary": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation to Spain, Belgium and Finland from tomorrow till the 17th of this month. The Ministry of Commerce and Industry said that the visit aims to strengthen India&#8217;s economic partnerships with Europe with a focus on trade, investment, technology, innovation and sustainability. […]",
-        "article": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation to Spain, Belgium and Finland from tomorrow till the 17th of this month. The Ministry of Commerce and Industry said that the visit aims to strengthen India&#8217;s economic partnerships with Europe with a focus on trade, investment, technology, innovation and sustainability. In the first leg of his tour, Mr Goyal will visit Spain tomorrow, where he will participate in a Business Roundtable with the Chamber of Commerce of Spain, CEOE and ICEX Spain Trade and Investment. The session will bring together Spanish and Indian industry leaders to explore opportunities in automotive, renewable energy, railways, artificial intelligence, semiconductors, food processing, and tourism. The Minister will then visit Belgium on the 14th and 15th of this month. He will hold meetings with the leadership of Thales Group and Silox Group. The programme includes participation in the India-EU Business Roundtable and the Trade and Technology Council Plenary, where discussions will centre on foreign investment, trade facilitation, sustainable technologies and resilient supply chains. Thereafter, Mr Goyal will visit Finland on the 16th and 17th of this month. He will attend the India-Finland Business Roundtable. The Minister will visit leading Finnish companies and research institutions, including Nokia, Kone, Kemppi Group and VTT Research Centre, to explore collaboration in telecommunications, advanced manufacturing, clean energy, mobility and innovation.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:38:44+00:00",
-        "link": "https://newsonair.gov.in/union-minister-piyush-goyal-will-lead-business-delegation-to-spain-belgium-and-finland-from-tomorrow/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Shivraj Singh Chouhan emphasises planting trees is extremely important for protecting environment",
-        "summary": "Union Minister Shivraj Singh Chouhan has emphasised that planting trees is extremely important for protecting the environment and ensuring a sustainable future. Addressing the Vriksh Mitra Programme and Paryavaran Sanrakshan Sankalp event in New Delhi, Mr Chouhan said, today the entire world is concerned about climate change and global warming. He noted that […]",
-        "article": "Union Minister Shivraj Singh Chouhan has emphasised that planting trees is extremely important for protecting the environment and ensuring a sustainable future. Addressing the Vriksh Mitra Programme and Paryavaran Sanrakshan Sankalp event in New Delhi, Mr Chouhan said, today the entire world is concerned about climate change and global warming. He noted that since 1880, rising ocean temperatures and melting glaciers have led to an increase in global sea levels by about 20 to 23 centimetres. He added that the Earth’s average temperature has risen by nearly 1.5 degrees Celsius compared to 1900, which is a serious warning sign of climate change. Mr Chouhan highlighted that Prime Minister Narendra Modi has taken several key initiatives to tackle this crisis. He said that there has been a significant increase in renewable energy capacity in the country. The Minister also mentioned initiatives like Ek Ped Maa Ke Naam campaign and Mission LiFE to protect and preserve the environment. Mr Chouhan said that India has set a target of achieving net-zero carbon emissions by 2070.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:29:51+00:00",
-        "link": "https://newsonair.gov.in/union-minister-shivraj-singh-chouhan-to-participate-in-paryavaran-sanrakshan-sankalp-program-at-the-pusa-campus-in-new-delhi-today/",
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "India conducts massive tree-planting campaign across country",
+        "summary": "A massive tree-planting campaign was conducted across the country today. Uttar Pradesh Chief Minister Yogi Adityanath launched the state-wide Vriksharopan Maha Yagya drive from Gorakhpur by planting the sacred Triveni (Neem, Peepal and Banyan) near the Link Expressway. He also planted a Maulshri sapling along Tal Ring Road. The LinkState created history by planting more […]",
+        "article": "A massive tree-planting campaign was conducted across the country today. Uttar Pradesh Chief Minister Yogi Adityanath launched the state-wide Vriksharopan Maha Yagya drive from Gorakhpur by planting the sacred Triveni (Neem, Peepal and Banyan) near the Link Expressway. He also planted a Maulshri sapling along Tal Ring Road. The LinkState created history by planting more than 35 crore 27 lakh saplings today. Under the theme &#8220;Ek Ped Maa Ke Naam, a total of 3,527,899,260 saplings were planted across the state till 6:12 pm. This is 27.89 lakh more than the government&#8217;s target of 35 crore. Chief Minister Yogi Adityanath congratulated the people of the state for this achievement. Uttar Pradesh Governor Anandiben Patel planted a white sandalwood sapling at the Jan Bhawan premises as part of the campaign. A total of 29 sandalwood saplings were planted at the Nakshatra Vatika of Jan Bhawan during the programme. Officials and employees of Jan Bhawan, along with girls from the Government Girls’ Home, Sindhi Kheda, participated in the plantation drive. Many Ministers and public representatives participate in the campaign along with members of NGO, Various departments, students and the general public. The campaign ran in all 18 divisions and 75 districts of the state. State also planted more than 5 Crore saplings on the World Environment Day on 5th June this year. Cumulative plantation for this year for Uttar Pradesh stands at 40 crore and 29 lakh. The plantation mega campaign was carried out through the coordination of 27 departments; the Forest Department completed the largest target of 15.50 crore saplings. Home Minister Amit Shah launched a massive tree plantation drive in Gandhinagar, Gujarat, which saw the planting of over 1.25 crore saplings across his Lok Sabha constituency today. Addressing the gathering, the Home Minister highlighted a long-term environmental roadmap to increase the green cover of the constituency to 20 per cent by 2029. The Home Minister stressed that planting indigenous species like Banyan, Peepal, Jambu, and Arjun will help lower the city&#8217;s temperature by 5 per cent. Addressing the Vriksh Mitra Programme and Paryavaran Sanrakshan Sankalp event in New Delhi today, Union Minister Shivraj Singh Chouhan emphasised that planting trees is extremely important for protecting the environment and ensuring a sustainable future. The Minister highlighted initiatives like Ek Ped Maa Ke Naam and Mission LiFE to protect and preserve the environment. Mr Chouhan said that India has set a target of achieving net zero carbon emissions by 2070. Madhya Pradesh Chief Minister Dr Mohan Yadav flagged off the plantation drive in Indore, which targets planting 21 lakh saplings across the state. It also plans to set up 51 thousand rainwater harvesting units. The goal is to turn environmental protection and water conservation into a people&#8217;s movement. Union Urban Development Minister Kailash Vijayvargiya and Indore Mayor Pushyamitra Bhargav were present at the event. Social organisations, NGOs, students and a large number of citizens took part in the plantation drive.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T16:57:54+00:00",
+        "link": "https://newsonair.gov.in/india-conducts-massive-tree-planting-campaign-across-country/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNCbyoCaIAAoCpE.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India calls for immediate de-escalation of tension in West Asia after attack on ship carrying Indian nationals off Oman coast",
+        "summary": "New Delhi has reiterated the call for immediate de-escalation of tensions in the West Asia region after the attack on a commercial vessel, GFS Galaxy, carrying Indian crew members off the coast of Oman today. Condemning the attack, the External Affairs Ministry informed in a statement that out of 11 Indian nationals on board, 10 […]",
+        "article": "New Delhi has reiterated the call for immediate de-escalation of tensions in the West Asia region after the attack on a commercial vessel, GFS Galaxy, carrying Indian crew members off the coast of Oman today. Condemning the attack, the External Affairs Ministry informed in a statement that out of 11 Indian nationals on board, 10 have been rescued so far, while one Indian National is reportedly missing. It said the Indian Embassy in Oman is closely monitoring the situation and proactively coordinating with the Omani authorities in the ongoing Search and Rescue operation. India has thanked the Omani authorities for their support. India expressed concern over the continuing incidents of attacks on commercial shipping in the region. It also reiterated the call for the conclusion of ongoing negotiations for a diplomatic solution so that peace and stability can return to the region.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:41:35+00:00",
+        "link": "https://newsonair.gov.in/india-calls-for-immediate-de-escalation-of-tension-in-west-asia-after-attack-on-ship-carrying-indian-nationals-off-oman-coast/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Manohar Lal calls for adopting environmental friendly construction methods",
+        "summary": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength […]",
+        "article": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength should not be compromised. Mr Manohar Lal noted that as India&#8217;s infrastructure aspirations continue to grow, CPWD has an even greater responsibility to lead with innovation, adopt sustainable construction practices and deliver projects that uphold the highest standards of quality, durability and structural integrity. The Union Minister also emphasised moving forward with the spirit of SANKALP – Speed, Accessibility, Nek Niyat, Kartavya Nishtha, Adoption of Technology, Lokhit and Pardarshita for creating citizen-centric infrastructure. He called upon the officers and staff of the CPWD to work with full honesty and morality to enhance the credibility of the organisation. On the occasion, the Union Minister also virtually laid the foundation stone of the National Council for Public Works Building at Ghaziabad in Uttar Pradesh. In his address, Secretary of the Ministry of Housing and Urban Affairs, Srinivas Katikithala, appreciated the CPWD&#8217;s significant contribution to the creation of quality public infrastructure across the country. He highlighted that CPWD has evolved into a modern, technology-driven organisation capable of executing complex and iconic projects. He further emphasised that CPWD should continue to lead the adoption of best engineering practices, digital technologies, sustainable construction methods and efficient project management systems. Director General, CPWD Satinder Pal Singh reiterated CPWD&#8217;s commitment to delivering high-quality public infrastructure through innovation and emphasised the timely execution of projects. He said that capacity-building and skill development remain key priorities of the Department.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:38:59+00:00",
+        "link": "https://newsonair.gov.in/union-minister-manohar-lal-calls-for-adopting-environmental-friendly-construction-methods/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Vietnam Boat Tragedy: Mortal remains of 15 Indians brought to Ho Chi Minh City; To be transported to India",
+        "summary": "The mortal remains of the 15 Indian tourists who lost their lives in yesterday&#8217;s boat capsize incident near Phu Quoc Island in Vietnam were taken to Ho Chi Minh City today. The Indian Embassy in Vietnam, in a social media post, stated that after the completion of necessary formalities in Ho Chi Minh City, the […]",
+        "article": "The mortal remains of the 15 Indian tourists who lost their lives in yesterday&#8217;s boat capsize incident near Phu Quoc Island in Vietnam were taken to Ho Chi Minh City today. The Indian Embassy in Vietnam, in a social media post, stated that after the completion of necessary formalities in Ho Chi Minh City, the mortal remains will be transported to India at the earliest. It added that the Embassy stated that the Consulate General are closely coordinating with the Vietnamese authorities and assured all possible assistance to facilitate the early transportation of the mortal remains to India. Earlier in the day, the Embassy said, 15 survivors of the tragic boat accident have been discharged from the hospital after receiving medical treatment and are returning to India. It said the other continues to undergo treatment at a hospital in Phu Quoc.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:10:26+00:00",
+        "link": "https://newsonair.gov.in/vietnam-boat-tragedy-mortal-remains-of-15-indians-brought-to-ho-chi-minh-city-to-be-transported-to-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-1-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "PM Narendra Modi to address nation in Mann Ki Baat on 26 July",
         "summary": "Prime Minister Narendra Modi will share his thoughts with the people of the country and abroad in the Mann Ki Baat programme on Akashvani on 26th July. It will be the 136th episode of the monthly radio programme. People can submit their ideas and suggestions for the programme through the toll-free number 1800-11-7800. They […]",
         "article": "Prime Minister Narendra Modi will share his thoughts with the people of the country and abroad in the Mann Ki Baat programme on Akashvani on 26th July. It will be the 136th episode of the monthly radio programme. People can submit their ideas and suggestions for the programme through the toll-free number 1800-11-7800. They can also share their input online via the Narendra Modi App or the MyGov Open Forum. The citizens can also give a missed call on 1922 and follow the link received in SMS to directly give their suggestions to the Prime Minister. Suggestions for the upcoming episode will be accepted until the 24th of this month.",
@@ -406,17 +450,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Union Minister Manohar Lal calls for adopting environmental friendly construction methods",
-        "summary": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength […]",
-        "article": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength should not be compromised. He called upon the officers and staff of the CPWD to work with full honesty and morality to enhance the credibility of the organisation. On the occasion, the Union Minister also virtually laid the foundation stone of the National Council for Public Works Building at Ghaziabad in Uttar Pradesh. The Secretary of the Ministry of Housing and Urban Affairs, Srinivas Katikithala and the Director General of CPWD were also present on the occasion.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T12:21:59+00:00",
-        "link": "https://newsonair.gov.in/union-minister-manohar-lal-calls-for-adopting-environmental-friendly-construction-methods/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "President Murmu expresses grief over demise of playback singer S Janaki Amma",
         "summary": "President Droupadi Murmu has expressed grief over the demise of playback singer S Janaki Amma. In a social media post, the President said that the country has lost a musical icon. The President added that S. Janaki Amma’s extraordinary singing enthralled generations. President Murmu said S. Janaki Amma’s illustrious career spanned more than six decades, […]",
         "article": "President Droupadi Murmu has expressed grief over the demise of playback singer S Janaki Amma. In a social media post, the President said that the country has lost a musical icon. The President added that S. Janaki Amma’s extraordinary singing enthralled generations. President Murmu said S. Janaki Amma’s illustrious career spanned more than six decades, during which she recorded thousands of songs in nearly 20 Indian languages, including Hindi, Odia, Tulu, Urdu, Punjabi and Bengali. The President said that her timeless music will always remain valuable.",
@@ -437,42 +470,20 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNA6LpfbAAEqZ1R.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "India condemns attack on commercial vessel GFS Galaxy off coast of Oman; 10 Indians rescued, one reported missing; New Delhi expresses concern over continuing attacks on commercial shipping in region",
-        "summary": "India has condemned the attack on the commercial vessel GFS Galaxy off the coast of Oman earlier today. The External Affairs Ministry informed in a statement that of the 11 Indian nationals on board, 10 have been rescued so far, while one Indian National is reportedly missing. It said the Indian Embassy in Oman is […]",
-        "article": "India has condemned the attack on the commercial vessel GFS Galaxy off the coast of Oman earlier today. The External Affairs Ministry informed in a statement that of the 11 Indian nationals on board, 10 have been rescued so far, while one Indian National is reportedly missing. It said the Indian Embassy in Oman is closely monitoring the situation and proactively coordinating with the Omani authorities in the ongoing Search and Rescue operation. India has thanked the Omani authorities for their support. New Delhi has expressed concern over the continuing incidents of attacks on commercial shipping in the region. It reiterated the call for immediate de-escalation of tensions and the conclusion of ongoing negotiations for a diplomatic solution so that peace and stability can return to the region. The External Affairs Ministry said the targeting of commercial shipping and civilian infrastructure in the region must end, and free and unimpeded navigation and commerce through the international waterways in the region, in keeping with international law, must be restored at the earliest. &nbsp;",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:19:50+00:00",
-        "link": "https://newsonair.gov.in/india-condemns-attack-on-commercial-vessel-gfs-galaxy-off-coast-of-oman-10-indians-rescued-one-reported-missing-new-delhi-expresses-concern-over-continuing-attacks-on-commercial-shipping-in-the-reg/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
-        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Piyush Goyal will lead business delegation to Spain, Belgium and Finland from tomorrow",
-        "summary": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation to Spain, Belgium and Finland from tomorrow till the 17th of this month. The Ministry of Commerce and Industry said that the visit aims to strengthen India&#8217;s economic partnerships with Europe with a focus on trade, investment, technology, innovation and sustainability. […]",
-        "article": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation to Spain, Belgium and Finland from tomorrow till the 17th of this month. The Ministry of Commerce and Industry said that the visit aims to strengthen India&#8217;s economic partnerships with Europe with a focus on trade, investment, technology, innovation and sustainability. In the first leg of his tour, Mr Goyal will visit Spain tomorrow, where he will participate in a Business Roundtable with the Chamber of Commerce of Spain, CEOE and ICEX Spain Trade and Investment. The session will bring together Spanish and Indian industry leaders to explore opportunities in automotive, renewable energy, railways, artificial intelligence, semiconductors, food processing, and tourism. The Minister will then visit Belgium on the 14th and 15th of this month. He will hold meetings with the leadership of Thales Group and Silox Group. The programme includes participation in the India-EU Business Roundtable and the Trade and Technology Council Plenary, where discussions will centre on foreign investment, trade facilitation, sustainable technologies and resilient supply chains. Thereafter, Mr Goyal will visit Finland on the 16th and 17th of this month. He will attend the India-Finland Business Roundtable. The Minister will visit leading Finnish companies and research institutions, including Nokia, Kone, Kemppi Group and VTT Research Centre, to explore collaboration in telecommunications, advanced manufacturing, clean energy, mobility and innovation.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:38:44+00:00",
-        "link": "https://newsonair.gov.in/union-minister-piyush-goyal-will-lead-business-delegation-to-spain-belgium-and-finland-from-tomorrow/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Shivraj Singh Chouhan emphasises planting trees is extremely important for protecting environment",
-        "summary": "Union Minister Shivraj Singh Chouhan has emphasised that planting trees is extremely important for protecting the environment and ensuring a sustainable future. Addressing the Vriksh Mitra Programme and Paryavaran Sanrakshan Sankalp event in New Delhi, Mr Chouhan said, today the entire world is concerned about climate change and global warming. He noted that […]",
-        "article": "Union Minister Shivraj Singh Chouhan has emphasised that planting trees is extremely important for protecting the environment and ensuring a sustainable future. Addressing the Vriksh Mitra Programme and Paryavaran Sanrakshan Sankalp event in New Delhi, Mr Chouhan said, today the entire world is concerned about climate change and global warming. He noted that since 1880, rising ocean temperatures and melting glaciers have led to an increase in global sea levels by about 20 to 23 centimetres. He added that the Earth’s average temperature has risen by nearly 1.5 degrees Celsius compared to 1900, which is a serious warning sign of climate change. Mr Chouhan highlighted that Prime Minister Narendra Modi has taken several key initiatives to tackle this crisis. He said that there has been a significant increase in renewable energy capacity in the country. The Minister also mentioned initiatives like Ek Ped Maa Ke Naam campaign and Mission LiFE to protect and preserve the environment. Mr Chouhan said that India has set a target of achieving net-zero carbon emissions by 2070.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:29:51+00:00",
-        "link": "https://newsonair.gov.in/union-minister-shivraj-singh-chouhan-to-participate-in-paryavaran-sanrakshan-sankalp-program-at-the-pusa-campus-in-new-delhi-today/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "India declares one-day national mourning tomorrow as mark of respect for Father Amir of Qatar",
+        "summary": "India has declared one-day national mourning tomorrow as a mark of respect for Father Amir of Qatar, Sheikh Hamad bin Khalifa Al-Thani, who passed away today. The National Flag will be flown at half-mast on the day of mourning throughout India on all buildings where the National Flag is flown regularly. There will be no […]",
+        "article": "India has declared one-day national mourning tomorrow as a mark of respect for Father Amir of Qatar, Sheikh Hamad bin Khalifa Al-Thani, who passed away today. The National Flag will be flown at half-mast on the day of mourning throughout India on all buildings where the National Flag is flown regularly. There will be no official entertainment on the day. Prime Minister Narendra Modi has expressed condolences at the demise of Father Amir Sheikh Hamad bin Khalifa Al-Thani, noting that he was a visionary leader who led Qatar to great levels of development and prosperity. External Affairs Ministry said in a statement that Parliamentary Affairs and Minority Affairs Minister Kiren Rijiju is visiting Qatar to convey condolences on behalf of the Government of India to the State of Qatar.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:53:41+00:00",
+        "link": "https://newsonair.gov.in/india-declares-one-day-national-mourning-tomorrow-as-mark-of-respect-for-father-amir-of-qatar/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "US says Strait of Hormuz open to all vessels and American military ready to ensure freedom of navigation",
         "summary": "The US Central Command (CENTCOM) has said that the Strait of Hormuz remains open to all vessels seeking lawful passage hours after Iran&#8217;s Islamic Revolutionary Guard Corps (IRGC) announced the closure of the strategic waterway until further notice. The statement came after US President Donald Trump said in a press meeting that the Strait of […]",
@@ -568,17 +579,6 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T07:46:19+00:00",
         "link": "https://newsonair.gov.in/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74-pm-modi-condoles-the-demise-of-father-of-emir-of-qatar/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Typhoon Bavi forces flight cancellations and school closures in Japan & Taiwan",
-        "summary": "Typhoon Bavi churned through the East China Sea today, bringing strong winds and heavy rain to Japan&#8217;s southern islands as Taiwan and eastern China braced for landfall. The typhoon, with maximum sustained winds of 144 kilometres per hour, was forecast to pass north of Taiwan before making landfall in China&#8217;s Zhejiang province early tomorrow. In […]",
-        "article": "Typhoon Bavi churned through the East China Sea today, bringing strong winds and heavy rain to Japan&#8217;s southern islands as Taiwan and eastern China braced for landfall. The typhoon, with maximum sustained winds of 144 kilometres per hour, was forecast to pass north of Taiwan before making landfall in China&#8217;s Zhejiang province early tomorrow. In Japan&#8217;s Okinawa prefecture, more than 200 flights were cancelled as authorities warned of storm surges and high waves. In Taiwan, schools and government offices remained closed. Authorities said at least 36 people were injured and more than 14,000 residents were evacuated. Meanwhile, China has issued an orange alert for the typhoon and a red alert for heavy rainfall. Thousands of people were relocated from coastal areas of Fujian province, while emergency rescue teams were deployed. Ferry services and several high-speed rail operations were suspended as the storm approached. &nbsp;",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T08:41:19+00:00",
-        "link": "https://newsonair.gov.in/typhoon-bavi-forces-flight-cancellations-and-school-closures-in-japan-taiwan/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1025,6 +1025,72 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "शिलांग में कल से नेक्स्ट जेनरेशन प्रशासनिक एवं ई-गवर्नेंस सुधार पर राष्ट्रीय सम्मेलन",
+        "summary": "प्रशासनिक सुधार और लोक शिकायत विभाग मेघालय सरकार के सहयोग से कल शिलांग में &#8220;नेक्स्ट जेनरेशन प्रशासनिक एवं ई-गवर्नेंस सुधार&#8221; विषय पर दो दिवसीय राष्ट्रीय सम्मेलन का आयोजन कर रहा है। केंद्रीय मंत्री डॉ. जितेंद्र सिंह और मेघालय के मुख्यमंत्री कॉनराड संगमा इस सम्मेलन के उद्घाटन सत्र को संबोधित करेंगे। यह सम्मेलन देश भर के […]",
+        "article": "प्रशासनिक सुधार और लोक शिकायत विभाग मेघालय सरकार के सहयोग से कल शिलांग में &#8220;नेक्स्ट जेनरेशन प्रशासनिक एवं ई-गवर्नेंस सुधार&#8221; विषय पर दो दिवसीय राष्ट्रीय सम्मेलन का आयोजन कर रहा है। केंद्रीय मंत्री डॉ. जितेंद्र सिंह और मेघालय के मुख्यमंत्री कॉनराड संगमा इस सम्मेलन के उद्घाटन सत्र को संबोधित करेंगे। यह सम्मेलन देश भर के नीति निर्माताओं, प्रशासकों, प्रौद्योगिकीविदों और शासन विशेषज्ञों को लोक प्रशासन और डिजिटल शासन के भविष्य पर विचार-विमर्श करने के लिए एक साथ लाएगा।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T16:40:24+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b6%e0%a4%bf%e0%a4%b2%e0%a4%be%e0%a4%82%e0%a4%97-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%95%e0%a4%b2-%e0%a4%b8%e0%a5%87-%e0%a4%a8%e0%a5%87%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a5%8d%e0%a4%9f-%e0%a4%9c/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-3-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "नागपुर में तीसरी ब्रिक्स परिवहन मंत्रियों की बैठक का समापन",
+        "summary": "भारत की ब्रिक्स अध्यक्षता 2026 के अंतर्गत नागपुर में आयोजित तीसरी ब्रिक्स परिवहन मंत्रियों की बैठक का आज समापन हुआ। चार दिवसीय यह बैठक 9 जुलाई को शुरू हुई थी। इसका समापन मंत्रिस्तरीय घोषणापत्र को सर्वसम्मति से अपनाने के साथ हुआ, जिसमें सतत परिवहन, रसद, परिवहन में कार्बन उत्सर्जन कम करना, सतत विमानन ईंधन, शहरी […]",
+        "article": "भारत की ब्रिक्स अध्यक्षता 2026 के अंतर्गत नागपुर में आयोजित तीसरी ब्रिक्स परिवहन मंत्रियों की बैठक का आज समापन हुआ। चार दिवसीय यह बैठक 9 जुलाई को शुरू हुई थी। इसका समापन मंत्रिस्तरीय घोषणापत्र को सर्वसम्मति से अपनाने के साथ हुआ, जिसमें सतत परिवहन, रसद, परिवहन में कार्बन उत्सर्जन कम करना, सतत विमानन ईंधन, शहरी गतिशीलता, चक्रीय अवसंरचना और रेलवे अनुसंधान सहित विभिन्न क्षेत्रों में ब्रिक्स देशों के बीच सहयोग की रूपरेखा प्रस्तुत की गई है। केंद्रीय सड़क परिवहन मंत्री नितिन गडकरी ने कल बैठक की अध्यक्षता की। उन्&#x200d;होंने इसके लिए सभी प्रतिभागी प्रतिनिधिमंडलों को धन्यवाद दिया। इस बैठक से पहले 9 और 10 जुलाई को ब्रिक्स परिवहन कार्य समूह के वरिष्ठ अधिकारियों की तीसरी बैठक आयोजित की गई थी, जिसमें एजेंडा के परिणाम और मंत्रिस्तरीय घोषणापत्र को अंतिम रूप दिया गया था। इस चार दिवसीय कार्यक्रम में ब्रिक्स सदस्य देशों के परिवहन मंत्रियों, वरिष्ठ अधिकारियों और तकनीकी विशेषज्ञों ने भाग लिया।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T16:29:23+00:00",
+        "link": "https://newsonair.gov.in/hi/conclusion-of-the-3rd-brics-transport-ministers-meeting-in-nagpur/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNCeoYwbsAAR7r0-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका : होर्मुज जलडमरूमध्‍य सभी जहाजों के लिए खुला और अमरीकी सेना नौवहन की स्‍वतंत्रता सुनिश्चित करने के लिए तैयार",
+        "summary": "ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कोर द्वारा रणनीतिक जलमार्ग को अगले आदेश तक बंद करने की घोषणा के कुछ घंटों बाद, अमरीकी सेंट्रल कमान ने कहा है कि होर्मुज जलडमरूमध्य सभी वैध आवागमन चाहने वाले जहाजों के लिए खुला है। यह बयान अमरीकी राष्ट्रपति डॉनल्ड ट्रम्प के संवाददाता सम्‍मेलन में यह कहने के बाद आया […]",
+        "article": "ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कोर द्वारा रणनीतिक जलमार्ग को अगले आदेश तक बंद करने की घोषणा के कुछ घंटों बाद, अमरीकी सेंट्रल कमान ने कहा है कि होर्मुज जलडमरूमध्य सभी वैध आवागमन चाहने वाले जहाजों के लिए खुला है। यह बयान अमरीकी राष्ट्रपति डॉनल्ड ट्रम्प के संवाददाता सम्&#x200d;मेलन में यह कहने के बाद आया है कि होर्मुज जलडमरूमध्य वाणिज्यिक जहाजों के लिए खुला है। अमरीकी सेंट्रल कमान ने सोशल मीडिया पोस्ट में कहा कि जलडमरूमध्य से समुद्री यातायात सुचारू रूप से चल रहा है और अमरीकी सेनाएं ईरानी आक्रामकता, उत्पीड़न, धमकियों और मनमानी घोषणाओं के बावजूद नौवहन की स्वतंत्रता सुनिश्चित करने के लिए तैनात हैं। उसने कहा कि ईरान का होर्मुज जलडमरूमध्य पर कोई नियंत्रण नहीं है और सुरक्षित पारगमन मार्ग खुले हैं। अमरीकी सेंट्रल कमान ने कहा कि अमरीकी सेनाओं ने पिछले दो महीनों में 800 से अधिक जहाजों और 4 करोड़ बैरल से अधिक कच्चे तेल के परिवहन में सहायता की है। इससे पहले, ईरान द्वारा होर्मुज जलडमरूमध्य में एक वाणिज्यिक पोत पर हमला करने और उसे आग लगाकर चालक दल को जहाज छोड़ने के लिए मजबूर करने के बाद, अमरीका ने ईरान पर नए हवाई हमले किए। कमान के अनुसार, हमलों में मिसाइल, ड्रोन और संचार सुविधाओं सहित लगभग 140 ईरानी सैन्य ठिकानों को निशाना बनाया गया। ईरान ने बहरीन, कुवैत, कतर और संयुक्त अरब अमीरात को निशाना बनाकर मिसाइल और ड्रोन हमले किए। कतर और कुवैत ने कहा कि उन्होंने आने वाली मिसाइलों को रोक लिया, जबकि बहरीन ने मिसाइल अलर्ट जारी कर दिया। ईरान ने जॉर्डन में एक अमरीकी सैन्य अड्डे पर भी हमला करने का दावा किया। इस ताजा तनाव ने क्षेत्रीय सुरक्षा और वैश्विक ऊर्जा बाजारों को लेकर चिंताएं बढ़ा दी हैं, क्योंकि होर्मुज जलडमरूमध्य दुनिया के तेल और प्राकृतिक गैस व्यापार के एक महत्वपूर्ण हिस्से के लिए एक महत्वपूर्ण शिपिंग मार्ग है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T16:11:14+00:00",
+        "link": "https://newsonair.gov.in/hi/us-strait-of-hormuz-open-to-all-ships-us-military-ready-to-ensure-freedom-of-navigation/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNCeD0aaMAAjo0Z.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी 26 जुलाई को ‘मन की बात’ कार्यक्रम में देशवासियों को करेंगे संबोधित",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी इस महीने की 26 तारीख को आकाशवाणी के मासिक रेडियो कार्यक्रम &#8216;मन की बात&#8217; में देश और विदेश के लोगों से अपने विचार साझा करेंगे। यह इस कार्यक्रम का 136वां एपिसोड होगा। श्रोता टोल-फ्री नंबर 1800-11-7800 पर कार्यक्रम के लिए अपने विचार और सुझाव भेज सकते हैं। वे नरेंद्र मोदी ऐप या […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी इस महीने की 26 तारीख को आकाशवाणी के मासिक रेडियो कार्यक्रम &#8216;मन की बात&#8217; में देश और विदेश के लोगों से अपने विचार साझा करेंगे। यह इस कार्यक्रम का 136वां एपिसोड होगा। श्रोता टोल-फ्री नंबर 1800-11-7800 पर कार्यक्रम के लिए अपने विचार और सुझाव भेज सकते हैं। वे नरेंद्र मोदी ऐप या MyGov Open Forum के माध्यम से भी ऑनलाइन अपने सुझाव दे सकते हैं। नागरिक 1 9 2 2 नंबर पर मिस्ड कॉल देकर और एसएमएस में प्राप्त लिंक का अनुसरण करके सीधे प्रधानमंत्री को अपने सुझाव भेज सकते हैं। आगामी एपिसोड के लिए सुझाव इस महीने की 24 तारीख तक स्वीकार किए जाएंगे।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:58:08+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-will-address-the-nation-in-the-mann-ki-baat-programme-on-july-26/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNCOHaeaMAACp2I.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "चीन में चक्रवाती तूफान बावी कमजोर होकर उष्णकटिबंधीय तूफान बना",
+        "summary": "चीन में, चक्रवाती तूफान बावी झेजियांग प्रांत में दस्तक देने के कुछ घंटों बाद ही कमजोर होकर उष्णकटिबंधीय तूफान में बदल गया है। हालांकि, देश के कई हिस्सों में अब भी तेज हवाएं और भारी बारिश जारी है। चीन के मौसम विज्ञान केंद्र ने बताया कि तूफान पूर्वी चीन से होते हुए उत्तर-पश्चिम दिशा में […]",
+        "article": "चीन में, चक्रवाती तूफान बावी झेजियांग प्रांत में दस्तक देने के कुछ घंटों बाद ही कमजोर होकर उष्णकटिबंधीय तूफान में बदल गया है। हालांकि, देश के कई हिस्सों में अब भी तेज हवाएं और भारी बारिश जारी है। चीन के मौसम विज्ञान केंद्र ने बताया कि तूफान पूर्वी चीन से होते हुए उत्तर-पश्चिम दिशा में अनहुई प्रांत की ओर बढ़ रहा है और धीरे-धीरे कमजोर होता जा रहा है। अगले दो दिनों में पूर्वी और उत्तर-पूर्वी चीन के कई शहरों में मूसलाधार बारिश होने और तेज हवाएं चलने की संभावना है। अनहुई और आसपास के कई प्रांतों में अत्यधिक बारिश दर्ज की जा चुकी है। तूफान के कारण शंघाई के पुडोंग और होंगकियाओ अंतरराष्ट्रीय हवाई अड्डों से लगभग 653 उड़ानें रद्द किए जाने की संभावना है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:56:23+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%9a%e0%a5%80%e0%a4%a8-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%9a%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%be%e0%a4%a4%e0%a5%80-%e0%a4%a4%e0%a5%82%e0%a4%ab%e0%a4%be%e0%a4%a8-%e0%a4%ac%e0%a4%be/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-12-212232.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "मुख्य न्यायाधीश न्यायमूर्ति सूर्यकांत ने गुरुग्राम में ‘टावर ऑफ जस्टिस’ का उद्घाटन किया",
+        "summary": "भारत के मुख्य न्यायाधीश न्यायमूर्ति सूर्यकांत ने आज गुरुग्राम में नवीन न्यायिक न्यायालय परिसर &#8216;टावर ऑफ़ जस्टिस&#8217; का उद्घाटन किया। इस अवसर पर हरियाणा के मुख्यमंत्री नायब सिंह सैनी, केंद्रीय आवासन एवं शहरी कार्य मंत्री मनोहर लाल, केंद्रीय विधि एवं न्याय राज्य मंत्री अर्जुन राम मेघवाल, और केंद्रीय राज्य मंत्री राव इंद्रजीत सिंह उपस्थित रहे। […]",
+        "article": "भारत के मुख्य न्यायाधीश न्यायमूर्ति सूर्यकांत ने आज गुरुग्राम में नवीन न्यायिक न्यायालय परिसर &#8216;टावर ऑफ़ जस्टिस&#8217; का उद्घाटन किया। इस अवसर पर हरियाणा के मुख्यमंत्री नायब सिंह सैनी, केंद्रीय आवासन एवं शहरी कार्य मंत्री मनोहर लाल, केंद्रीय विधि एवं न्याय राज्य मंत्री अर्जुन राम मेघवाल, और केंद्रीय राज्य मंत्री राव इंद्रजीत सिंह उपस्थित रहे। एक रिपोर्ट: कार्यक्रम को सम्बोधित करते हुए न्यायमूर्ति सूर्यकांत ने कहा कि भविष्य की ज़रुरत को ध्यान में रखते हुए इस भवन को आधुनिक तकनीक और सुविधाओं से सुसज्जित किया गया है, जिससे न्याय मिलने की गति में तेज़ी आएगी। उन्होंने आगे बताया कि परिसर में महिला अधिवक्ताओं के लिए एक विशेष बार रूम भी बनाया गया है, जिससे उन्हें अपने कार्यों को करने में और अधिक सुविधा होगी। वहीं, श्री सैनी ने कहा कि यह भवन संविधान की मर्यादा, न्यायपालिका पर जनता के विश्वास और आधुनिक न्याय व्यवस्था का प्रतीक है। मुख्यमंत्री ने विश्वास व्यक्त किया कि अत्याधुनिक तकनीक से सुसज्जित यह नया परिसर मामलों के त्वरित निपटारे में सहायक होगा तथा न्याय को आम नागरिक के लिए और अधिक सुलभ बनाएगा। केंद्रीय आवासन एवं शहरी कार्य मंत्री मनोहर लाल ने कहा कि यह भवन सुलभ, व्यवस्थित और आधुनिक न्याय व्यवस्था की दिशा में एक महत्वपूर्ण पहल है। उन्होंने विश्वास व्यक्त किया कि यह नवीन न्यायालय परिसर नागरिकों को त्वरित और सुगम न्याय उपलब्ध कराने में मील का पत्थर सिद्ध होगा। वहीं, केंद्रीय विधि एवं न्याय राज्य मंत्री अर्जुन राम मेघवाल ने कहा कि प्रधानमंत्री नरेंद्र मोदी के नेतृत्व में रिफार्म, परफॉर्म और ट्रांसफॉर्म के मंत्र को आत्मसात करते हुए भारत की न्याय व्यवस्था को अधिक सुलभ, पारदर्शी, तकनीक-सक्षम और नागरिक-केंद्रित बनाया जा रहा है। उन्होंने आशा व्यक्त करते हुए कहा कि गुरुग्राम का टॉवर ऑफ जस्टिस न्यायिक इन्फ़्रास्ट्रक्चर को नई मजबूती प्रदान करते हुए आमजन को त्वरित और सुलभ न्याय सुनिश्चित करने की दिशा में एक महत्वपूर्ण मील का पत्थर सिद्ध होगा। इस न्&#x200d;यायालय परिसर के उद्घाटन से लोगों को समयबद्ध और त्&#x200d;वरित न्&#x200d;याय सुनिश्चित होगा। सक़लैन अख्तर के साथ, दीपेंद्र कुमार, आकाशवाणी समाचार, दिल्ली।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:43:37+00:00",
+        "link": "https://newsonair.gov.in/hi/chief-justice-surya-kant-inaugurated-the-tower-of-justice-in-gurugram/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNBb2wobkAALsyp.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "बांग्लादेश में बाढ़ और भूस्खलन से 44 लोगों की मृत्‍यु",
         "summary": "बांग्लादेश में पिछले एक सप्ताह में बाढ़ और भूस्खलन के कारण 44 लोगों की मृत्‍यु हो गई है। बांग्‍लादेश के आपदा प्रबंधन मंत्रालय के प्रवक्ता ने बताया कि बाढ़ से लगभग दो लाख 67 हजार परिवार प्रभावित हुए हैं। रात भर हुई भारी बारिश से राजधानी ढाका के कुछ हिस्से जलमग्न हो गए, जिससे जनजीवन […]",
         "article": "बांग्लादेश में पिछले एक सप्ताह में बाढ़ और भूस्खलन के कारण 44 लोगों की मृत्&#x200d;यु हो गई है। बांग्&#x200d;लादेश के आपदा प्रबंधन मंत्रालय के प्रवक्ता ने बताया कि बाढ़ से लगभग दो लाख 67 हजार परिवार प्रभावित हुए हैं। रात भर हुई भारी बारिश से राजधानी ढाका के कुछ हिस्से जलमग्न हो गए, जिससे जनजीवन अस्त-व्यस्त हो गया। सेना, नौसेना और वायु सेना स्थानीय एजेंसियों के साथ प्रभावित जिलों में राहत कार्य चला रही है। बाढ़ पूर्वानुमान और चेतावनी केंद्र ने चेतावनी दी है कि नदियों का बढ़ता जलस्तर कई उत्तरी और उत्तर-पश्चिमी जिलों में और अधिक बाढ़ ला सकता है, जबकि उत्तर-पूर्वी और उत्तर-पश्चिमी क्षेत्रों में स्थिति और बिगड़ सकती है।",
@@ -1043,50 +1109,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-12T12:14:49+00:00",
         "link": "https://newsonair.gov.in/hi/the-government-has-refuted-a-fake-image-showing-problems-in-a-vehicles-fuel-tank-caused-by-ethanol-blended-petrol/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNBKkVZa0AAxmRU.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "समाज सुधारकों की महान विरासत का सम्मान करना हर नागरिक का कर्तव्य: उपराष्ट्रपति सी. पी. राधाकृष्णन",
-        "summary": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज कहा कि देश के समाज सुधारकों की महान विरासत का सम्मान करना और उसे बनाए रखना हर नागरिक का कर्तव्य है। श्री राधाकृष्णन ने नई दिल्ली के द्वारका में मन्नम इंटरनेशनल सेंटर में समाज सुधारक और स्वतंत्रता सेनानी मन्नाथ पद्मनाभन की प्रतिमा का अनावरण करने और &#8216;मन्नम स्मृति मंडपम&#8217; […]",
-        "article": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज कहा कि देश के समाज सुधारकों की महान विरासत का सम्मान करना और उसे बनाए रखना हर नागरिक का कर्तव्य है। श्री राधाकृष्णन ने नई दिल्ली के द्वारका में मन्नम इंटरनेशनल सेंटर में समाज सुधारक और स्वतंत्रता सेनानी मन्नाथ पद्मनाभन की प्रतिमा का अनावरण करने और &#8216;मन्नम स्मृति मंडपम&#8217; का उद्घाटन के अवसर पर यह बात कही। सभा को संबोधित करते हुए, उपराष्ट्रपति ने सामाजिक न्याय, समानता, शिक्षा और सामुदायिक सेवा के प्रति मन्नाथ पद्मनाभन की जीवन भर की प्रतिबद्धता का उल्&#x200d;लेख किया। उन्होंने कहा कि मन्नाथ पद्मनाभन के आदर्श एक समावेशी और सौहार्दपूर्ण समाज के निर्माण की दिशा में देश को प्रेरित करते रहते हैं। मन्नाथ पद्मनाभन को आधुनिक भारत के महानतम समाज सुधारकों में से एक बताते हुए श्री राधाकृष्णन ने कहा कि उनका जीवन शिक्षा, समाज सुधार, आत्मनिर्भरता और सामुदायिक सेवा के माध्यम से समाज के उत्थान के लिए समर्पित था। उन्होंने कहा कि जब समाज सुधार की अवधारणा को शायद ही समझा जाता था और कई लोग बिना किसी सहारे के कष्ट झेल रहे थे, उन्&#x200d;ही दिनों मन्नाथ पद्मनाभन समाज की सेवा के लिए आगे आए। उपराष्ट्रपति ने कहा कि राष्ट्रीय आंदोलन के साथ मन्नाथ पद्मनाभन का जुड़ाव इन आदर्शों के प्रति उनकी प्रतिबद्धता को और अधिक दर्शाता है। उन्होंने कहा कि महात्मा गांधी के साथ-साथ, मन्नाथ पद्मनाभन ने सामाजिक रूप से वंचित लोगों के हितों की रक्षा करने में महत्वपूर्ण भूमिका निभाई। श्री राधाकृष्णन ने ऐतिहासिक &#8216;वायकोम सत्याग्रह&#8217; में उनकी सक्रिय भागीदारी पर भी उल्&#x200d;लेख किया। उन्&#x200d;होंने इसे भारत के समाज सुधार आंदोलन के सबसे महत्वपूर्ण अध्यायों में से एक बताया। इस अवसर पर, उपराष्ट्रपति सी. पी. राधाकृष्णन ने &#8216;एक पेड़ मां के नाम&#8217; अभियान के तहत एक पौधा भी लगाया। इस अवसर पर केंद्रीय राज्य मंत्री सुरेश गोपी, नायर सर्विस सोसायटी-एनएसएस दिल्ली के अध्यक्ष एम. के. जी. पिल्लई, एनएसएस दिल्ली के महासचिव एम. डी. जयप्रकाश और अन्य गणमान्य अतिथि उपस्थित थे।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T10:58:56+00:00",
-        "link": "https://newsonair.gov.in/hi/honouring-the-great-legacy-of-social-reformers-is-the-duty-of-every-citizen-vice-president-c-p-radhakrishnan/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNA6On6bkAExCM3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "केंद्रीय मंत्री पीयूष गोयल 13 से 17 जुलाई तक रहेंगे स्पेन, बेल्जियम और फिनलैंड की यात्रा पर",
-        "summary": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल कल से 17 जुलाई तक स्पेन, बेल्जियम और फिनलैंड की यात्रा पर रहेंगे। इस दौरान वे भारतीय उद्योग जगत के एक उच्चस्तरीय प्रतिनिधिमंडल का नेतृत्व करेंगे। वाणिज्य और उद्योग मंत्रालय ने कहा है कि इस यात्रा का उद्देश्य व्यापार, निवेश, प्रौद्योगिकी, नवाचार और सतत विकास पर विशेष ध्यान […]",
-        "article": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल कल से 17 जुलाई तक स्पेन, बेल्जियम और फिनलैंड की यात्रा पर रहेंगे। इस दौरान वे भारतीय उद्योग जगत के एक उच्चस्तरीय प्रतिनिधिमंडल का नेतृत्व करेंगे। वाणिज्य और उद्योग मंत्रालय ने कहा है कि इस यात्रा का उद्देश्य व्यापार, निवेश, प्रौद्योगिकी, नवाचार और सतत विकास पर विशेष ध्यान देते हुए यूरोप के साथ भारत की आर्थिक साझेदारी को और मजबूत करना है। यात्रा के पहले चरण में श्री गोयल कल स्पेन पहुंचेंगे, जहां वे स्पेन चैंबर ऑफ कॉमर्स और आईसीईएक्स स्पेन ट्रेड एंड इन्वेस्टमेंट के साथ आयोजित एक व्&#x200d;यापारिक बैठक में भाग लेंगे। श्री गोयल 14 और 15 जुलाई को बेल्जियम का दौरा करेंगे। इस दौरान वे थेल्स समूह और सिलॉक्स समूह के शीर्ष नेतृत्व से मुलाकात करेंगे। यात्रा के अंतिम चरण में श्री गोयल 16 और 17 जुलाई को फिनलैंड जाएंगे। वहां वे भारत-फिनलैंड व्&#x200d;यापार बैठक में भाग लेंगे। इस दौरान दूरसंचार, उन्नत विनिर्माण, स्वच्छ ऊर्जा, गतिशीलता और नवाचार के क्षेत्रों में सहयोग की संभावनाओं पर विचार किया जाएगा।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T10:34:42+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%aa%e0%a5%80%e0%a4%af%e0%a5%82%e0%a4%b7-%e0%a4%97%e0%a5%8b-27/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/piyush-goyal-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "केंद्रीय मंत्री शिवराज सिंह चौहान ने पौधारोपण को सतत भविष्य और पर्यावरण संरक्षण के लिए महत्वपूर्ण बताया",
-        "summary": "केन्‍द्रीय मंत्री शिवराज सिंह चौहान ने कहा कि सतत भविष्‍य सुनिश्चित करने तथा पर्यावरण संरक्षण के लिए पौधा रोपण बहुत ही महत्‍वपूर्ण है। नई दिल्‍ली में वृक्ष मित्र और पर्यावरण संरक्षण संकल्‍प कार्यक्रम को संबोधित करते हुए श्री चौहान ने कहा कि आज पूरी दुनिया जलवायु परिवर्तन और धरती का तापमान बढ़ने को लेकर चिंतित […]",
-        "article": "केन्&#x200d;द्रीय मंत्री शिवराज सिंह चौहान ने कहा कि सतत भविष्&#x200d;य सुनिश्चित करने तथा पर्यावरण संरक्षण के लिए पौधा रोपण बहुत ही महत्&#x200d;वपूर्ण है। नई दिल्&#x200d;ली में वृक्ष मित्र और पर्यावरण संरक्षण संकल्&#x200d;प कार्यक्रम को संबोधित करते हुए श्री चौहान ने कहा कि आज पूरी दुनिया जलवायु परिवर्तन और धरती का तापमान बढ़ने को लेकर चिंतित है। उन्&#x200d;होंने कहा कि वर्ष 1880 के बाद समुद्र के बढ़ते तापमान और पिघलते हिमनदों ने वैश्विक समुद्री जल स्&#x200d;तरों को लगभग 20 से 23 सेंटीमीटर तक बढ़ा दिया है। उन्&#x200d;होंने कहा कि धरती का औसत तापमान वर्ष 1900 की तुलना में लगभग डेढ़ डिग्री सेल्सियस तक बढ़ गया है। यह जलवायु परिवर्तन के लिए गंभीर चेतावनी का संकेत है। श्री चौहान ने कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने इस संकट से निपटने के लिए कई पहल की हैं। उन्&#x200d;होंने कहा कि देश में नवीकरणीय ऊर्जा क्षमता में महत्&#x200d;वपूर्ण वृद्धि हुई है। श्री चौहान ने पर्यावरण की रक्षा और संरक्षण के लिए एक पेड़ मां के नाम अभियान और मिशन लाइफ जैसी पहलों का भी उल्&#x200d;लेख किया। उन्&#x200d;होंने कहा कि भारत ने वर्ष 2070 तक शून्&#x200d;य कार्बन उत्&#x200d;सर्जन का लक्ष्&#x200d;य निर्धारित किया है।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:42:37+00:00",
-        "link": "https://newsonair.gov.in/hi/shivraj-on-environment/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/shivraj-mp.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गृह मंत्री अमित शाह ने अहमदाबाद में विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास किया",
-        "summary": "केन्‍द्रीय गृह मंत्री अमित शाह ने आज अहमदाबाद में 405 करोड़ रुपये की लागत वाली नगर निगम की कई विकास परियोजनाओं का लोकापर्ण और शिलान्‍यास किया। इस अवसर पर श्री शाह ने एक पेड़ मां के नाम अभियान के अंतर्गत विशाल पौधारोपण अभियान का शुभारंभ भी किया। इस अभियान के तहत आज उनके लोकसभा क्षेत्र […]",
-        "article": "केन्&#x200d;द्रीय गृह मंत्री अमित शाह ने आज अहमदाबाद में 405 करोड़ रुपये की लागत वाली नगर निगम की कई विकास परियोजनाओं का लोकापर्ण और शिलान्&#x200d;यास किया। इस अवसर पर श्री शाह ने एक पेड़ मां के नाम अभियान के अंतर्गत विशाल पौधारोपण अभियान का शुभारंभ भी किया। इस अभियान के तहत आज उनके लोकसभा क्षेत्र गांधीनगर में एक करोड़ 25 लाख से ज़्यादा पौधे लगाए गए। समारोह को संबोधित करते हुए गृह मंत्री ने 2029 के चुनाव तक निर्वाचन क्षेत्रों में पौधे लगाने की गति&#x200d;विधि को 20 प्रतिशत तक बढ़ाने की दीर्घकालि&#x200d;क पर्यावर&#x200d;णीय रूपरेखा का उल्&#x200d;लेख किया। उन्&#x200d;होंने नागरिकों से सोलर रूफटॉप अपनाने का आग्रह किया। गृह मंत्री ने कहा कि बरगद, पीपल, जम्&#x200d;बू और अर्जुन जैसी स्&#x200d;वदेशी प्रजातियों के पौधे शहर के तापमान को पांच प्रतिशत तक कम करने में मददगार होंगे। ये पौधे भविष्&#x200d;य की पीढि़यों के लिए ओजोन परत को सशक्&#x200d;त बनाने तथा जीवन के अनुकूल पर्यावरण सुनिश्चित करने में सहायक होंगे। पर्यावरण को मजबूत बनाने के हिस्&#x200d;से के रूप में ऑक्&#x200d;सीजन के एक सौ एक नए पार्कों का उद्घाटन किया गया तथा उनकी जानकारी को शामिल करते हुए एक समर्पित ई-बुक जारी की गई। गृह मंत्री कल 11वीं इंटरपोल डिजिटल फॉरेंसिक विशेषज्ञ समूह की बैठक का उद्घाटन करेंगे। वे गांधी नगर में राष्&#x200d;ट्रीय फॉरेंसिक विज्ञान विश्&#x200d;वविद्यालय में पहली अंतरराष्&#x200d;ट्रीय जांचकर्ता अपराध प्रतिस्&#x200d;पर्धा का भी उद्घाटन करेंगे।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:35:13+00:00",
-        "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNAtMaSbUAARfPK-scaled.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1113,45 +1135,24 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "आईआरजीसी के जहाज पर हमले के बाद अमरीका ने ईरान पर नए हमले शुरू किए, होर्मुज जलडमरूमध्य अगले आदेश तक बंद",
-        "summary": "इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स के होर्मुज जलडमरूमध्य में साइप्रस के झंडे वाले जहाज पर हमले के बाद, अमरीका ने ईरान पर नए हमले शुरू कर दिए हैं। अमरीकी सेना ने कहा है कि ये हमले राष्ट्रपति डॉनल्‍ड ट्रंप के निर्देश पर किए गए। अमरीका ने बताया है कि व्‍यापारिक जहाज पर हुए हमले में चालक […]",
-        "article": "इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स के होर्मुज जलडमरूमध्य में साइप्रस के झंडे वाले जहाज पर हमले के बाद, अमरीका ने ईरान पर नए हमले शुरू कर दिए हैं। अमरीकी सेना ने कहा है कि ये हमले राष्ट्रपति डॉनल्&#x200d;ड ट्रंप के निर्देश पर किए गए। अमरीका ने बताया है कि व्&#x200d;यापारिक जहाज पर हुए हमले में चालक दल का एक नागरिक सदस्य लापता है और जहाज पर आग लगने से काफी नुकसान हुआ है। इस बीच, ईरान ने होर्मुज जलडमरूमध्य को अगली सूचना तक बंद कर दिया है। ईरान की नौसेना ने कहा है कि एक जहाज़ के अनधिकृत रास्ते का इस्तेमाल करने की कोशिश के बाद यह समुद्री रास्ता बंद किया गया है। नौसेना ने कहा कि इस इलाके में अमरीका का दखल खत्म होने तक किसी भी जहाज़ को इस रास्ते से निकलने की अनुमति नहीं दी जाएगी। नौसेना ने कहा कि होर्मुज जलडमरूमध्य की इस घटना को लेकर अमरीका की किसी भी कार्रवाई का कड़ा जवाब दिया जाएगा। अमरीका, ईरान से सार्वजनिक रूप से होर्मुज जलडमरूमध्य से गुज़रने वाले जहाज़ों पर हमला नहीं करने का आश्&#x200d;वासन चाहता है। अमरीका के एक वरिष्&#x200d;ठ अधिकारी ने कहा है कि ईरान में आंतरिक सत्&#x200d;ता संघर्ष के कारण किसी समझौते पर पहुंचना मुश्किल हो गया है। इस बीच, अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने कहा है कि तनाव के बावजूद ईरान के साथ बातचीत जारी रहेगी। ईरान ने कहा है कि होर्मुज जलडमरूमध्य उसके नियंत्रण में ही रहेगा और इस मार्ग से गुज़रने वाले जहाज़ों को शुल्क देना होगा। ईरान ने जलडमरूमध्य पर पूरे अधिकार का दावा किया है। इस बीच, ओमान ने होर्मुज जलडमरूमध्य से जहाज़ों की आवाजाही के लिए दो अलग-अलग रास्तों का प्रस्ताव दिया है, लेकिन ईरान ने इस तरह के प्रस्ताव को पहले ही खारिज कर दिया था।",
+        "title": "भारत ने ओमान तट के पास वाणिज्यिक पोत पर हमले के बाद पश्चिम एशिया क्षेत्र में तुरंत तनाव कम करने का आह्वान किया",
+        "summary": "भारत ने ओमान तट के पास भारतीय चालक दल के सदस्यों को ले जा रहे वाणिज्यिक पोत जी.एफ.एस. गैलेक्सी पर हुए हमले के बाद पश्चिम एशिया में तनाव को तत्काल कम करने की अपील दोहराई है। विदेश मंत्रालय ने हमले की निंदा करते हुए कहा कि पोत पर सवार 11 भारतीय नागरिकों में से 10 […]",
+        "article": "भारत ने ओमान तट के पास भारतीय चालक दल के सदस्यों को ले जा रहे वाणिज्यिक पोत जी.एफ.एस. गैलेक्सी पर हुए हमले के बाद पश्चिम एशिया में तनाव को तत्काल कम करने की अपील दोहराई है। विदेश मंत्रालय ने हमले की निंदा करते हुए कहा कि पोत पर सवार 11 भारतीय नागरिकों में से 10 को अब तक बचा लिया गया है और एक भारतीय नागरिक लापता है। मंत्रालय ने कहा कि ओमान स्थित भारतीय दूतावास स्थिति पर कड़ी नजर रख रहा है और ओमान के अधिकारियों के साथ जारी खोज तथा बचाव अभियान में सक्रिय रूप से समन्वय कर रहा है। भारत ने ओमान के अधिकारियों को उनके सहयोग के लिए धन्यवाद दिया है। भारत ने क्षेत्र में वाणिज्यिक जहाजों पर हमलों की लगातार हो रही घटनाओं पर चिंता व्यक्त की है। भारत ने स्&#x200d;थायी समाधान के लिए जारी कूटनीतिक वार्ता को शीघ्र ही सफल निष्&#x200d;कर्ष तक पहुंचाने का आह्वान किया है, जिससे क्षेत्र में शांति और स्थिरता बहाल की जा सके।",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:53:42+00:00",
-        "link": "https://newsonair.gov.in/hi/hormuz-strait-closed/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/Strait-of-Hormuz-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-12T16:22:40+00:00",
+        "link": "https://newsonair.gov.in/hi/india-called-for-an-immediate-de-escalation-of-tensions-in-the-west-asia-region-following-an-attack-on-a-commercial-vessel-off-the-coast-of-oman/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "तूफान बावी ने दी पूर्वी चीन में दस्तक, लगभग 20 लाख लोगों को सुरक्षित स्थानों पर पहुंचाया गया",
-        "summary": "तूफान बावी ने कल रात पूर्वी चीन के तटीय शहर ताइझोऊ में दस्तक दी। तूफान को देखते हुए लगभग 20 लाख लोगों को सुरक्षित स्थानों पर पहुंचाया गया है। इससे पहले बावी जापान के दक्षिणी साकिशिमा द्वीप समूह से टकराया और उत्तरी ताइवान के पास से गुजरा। हालांकि यह अब उत्तर-पश्चिम की ओर बढ़ते हुए […]",
-        "article": "तूफान बावी ने कल रात पूर्वी चीन के तटीय शहर ताइझोऊ में दस्तक दी। तूफान को देखते हुए लगभग 20 लाख लोगों को सुरक्षित स्थानों पर पहुंचाया गया है। इससे पहले बावी जापान के दक्षिणी साकिशिमा द्वीप समूह से टकराया और उत्तरी ताइवान के पास से गुजरा। हालांकि यह अब उत्तर-पश्चिम की ओर बढ़ते हुए धीरे-धीरे कमजोर पड़ रहा है, लेकिन इसके साथ तेज वर्षा का खतरा बना हुआ है। सरकारी मीडिया के अनुसार, झेजियांग प्रांत से 17 लाख से अधिक लोगों को सुरक्षित स्थानों पर पहुंचाया गया है। इसके अलावा फुजियान प्रांत और बीजिंग से एक-एक लाख से अधिक तथा शंघाई से करीब 34 हजार लोगों को भी निकाला गया है। जापान और ताइवान में अब तक इस तूफान से किसी की मृत्यु की खबर नहीं है। हालांकि बावी के असर से दक्षिण-पश्चिम मानसून के और सक्रिय होने के कारण फिलीपींस में भारी बारिश से 17 लोगों की मौत हो गई है। ताइवान के अग्निशमन विभाग के अनुसार 113 लोग घायल हुए हैं। इनमें अधिकांश लोग तेज हवाओं के दौरान मोटरसाइकिल या साइकिल से गिरने, फिसलने या किसी वस्तु की चपेट में आने से घायल हुए।",
+        "title": "भारत ने कतर के पूर्व अमीर के निधन पर कल एक दिन का राष्ट्रीय शोक घोषित किया",
+        "summary": "भारत ने कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी के निधन पर श्रद्धांजलि अर्पित करते हुए कल एक दिन का राष्ट्रीय शोक घोषित किया है। इस शोक दिवस पर भारत भर में उन सभी भवनों पर राष्ट्रीय ध्वज आधा झुका रहेगा जहां नियमित रूप से राष्ट्रीय ध्वज फहराया जाता है। इस दिन कोई […]",
+        "article": "भारत ने कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी के निधन पर श्रद्धांजलि अर्पित करते हुए कल एक दिन का राष्ट्रीय शोक घोषित किया है। इस शोक दिवस पर भारत भर में उन सभी भवनों पर राष्ट्रीय ध्वज आधा झुका रहेगा जहां नियमित रूप से राष्ट्रीय ध्वज फहराया जाता है। इस दिन कोई भी आधिकारिक मनोरंजन कार्यक्रम नहीं होगा। प्रधानमंत्री नरेंद्र मोदी ने शेख हमद बिन खलीफा अल-थानी के निधन पर शोक व्यक्त करते हुए कहा कि वे एक दूरदर्शी नेता थे जिन्होंने कतर को विकास और समृद्धि के नए मुकाम तक पहुंचाया। विदेश मंत्रालय ने एक बयान में कहा कि संसदीय कार्य और अल्पसंख्यक मामलों के मंत्री किरेन रिजिजू भारत सरकार की ओर से कतर को शोक संदेश देने के लिए वहां जा रहे हैं।",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:45:51+00:00",
-        "link": "https://newsonair.gov.in/hi/typhoon-bavi-china/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM_n9-fbEAAWGXT.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वेनेजुएला में विनाशकारी भूकंप के बाद मृतकों की संख्या 4,300 के पार",
-        "summary": "वेनेजुएला में पिछले महीने आए विनाशकारी भूकंप में मरने वालों की संख्या बढ़कर 4300 से अधिक हो गई है। 24 जून को ला गुआइरा में कुछ ही सेकंड के अंतराल पर 7.2 और 7.5 तीव्रता के दो भूकंप आए थे। ये एक सदी से अधिक समय में वेनेजुएला के सबसे भीषण भूकंप माने जा रहे […]",
-        "article": "वेनेजुएला में पिछले महीने आए विनाशकारी भूकंप में मरने वालों की संख्या बढ़कर 4300 से अधिक हो गई है। 24 जून को ला गुआइरा में कुछ ही सेकंड के अंतराल पर 7.2 और 7.5 तीव्रता के दो भूकंप आए थे। ये एक सदी से अधिक समय में वेनेजुएला के सबसे भीषण भूकंप माने जा रहे हैं। संयुक्त राष्ट्र ने इस सप्ताह 13 लाख लोगों की मदद के लिए 29 करोड़ 60 लाख अमरीकी डॉलर की राहत राशि जुटाने की अपील की है। संयुक्त राष्ट्र के मानवीय मामलों के प्रमुख टॉम फ्लेचर ने मंगलवार को ला गुआइरा का दौरा किया। इस दौरान उन्होंने लापता बच्&#x200d;चों की माताओं से मुलाकात की।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:21:04+00:00",
-        "link": "https://newsonair.gov.in/hi/venezuela-earthquake/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM_fTDpaUAAafRH.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "श्रम मंत्री डॉ. मनसुख मांडविया कल सात ईएसआई स्वास्थ्य परियोजनाओं का करेंगे शुभारंभ",
-        "summary": "श्रम और रोजगार मंत्री डॉ. मनसुख मांडविया मंगलवार को देशभर में लगभग छह सौ 68 करोड़ रुपये की लागत वाली सात कर्मचारी राज्य बीमा-ईएसआई स्वास्थ्य परियोजनाओं का शुभारंभ करेंगे। इन परियोजनाओं में तेलंगाना के सनतनगर में ईएसआईसी अस्पताल का नया ओपीडी ब्लॉक, असम के बेल्टोला में उन्नत 200 बिस्तरों वाला ईएसआईसी अस्पताल, तमिलनाडु के श्रीपेरुम्बुदुर […]",
-        "article": "श्रम और रोजगार मंत्री डॉ. मनसुख मांडविया मंगलवार को देशभर में लगभग छह सौ 68 करोड़ रुपये की लागत वाली सात कर्मचारी राज्य बीमा-ईएसआई स्वास्थ्य परियोजनाओं का शुभारंभ करेंगे। इन परियोजनाओं में तेलंगाना के सनतनगर में ईएसआईसी अस्पताल का नया ओपीडी ब्लॉक, असम के बेल्टोला में उन्नत 200 बिस्तरों वाला ईएसआईसी अस्पताल, तमिलनाडु के श्रीपेरुम्बुदुर में 100 बिस्तरों वाला ईएसआईसी अस्पताल, आंध्र प्रदेश के राजामहेंद्रवरम में ईएसआईसी अस्पताल, गुजरात के सुरेंद्रनगर में ईएसआई औषधालय और शाखा कार्यालय और कोटा के उद्योग नगर में ईएसआई औषधालय और शाखा कार्यालय, साथ ही राजस्थान के भवानी मंडी में ईएसआई औषधालय शामिल हैं। श्रम और रोजगार मंत्रालय ने बताया कि डॉ. मांडविया सनतनगर में ईएसआईसी अस्पताल के नए ओपीडी ब्लॉक का शुभारंभ करेंगे, जबकि शेष छह परियोजनाओं का उद्घाटन ऑनलाइन माध्यम से किया जाएगा। मंत्रालय ने बताया कि ये स्वास्थ्य सुविधाएं देशभर में लगभग 53 लाख लाभार्थियों की चिकित्सा आवश्यकताओं को पूरा करेंगी। इस अवसर पर डॉ. मांडविया राष्ट्र निर्माण में योगदान देने वाले निर्माण श्रमिकों को सम्मानित करेंगे, जिन्होंने सनतनगर के ईएसआईसी अस्पताल के ओपीडी ब्लॉक के विकास में अपना योगदान दिया है। श्रम और रोजगार राज्य मंत्री शोभा करंदलाजे भी इस कार्यक्रम में उपस्थित रहेंगी।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T14:21:05+00:00",
-        "link": "https://newsonair.gov.in/hi/minister-of-labour-and-employment-dr-mansukh-mandaviya-will-inaugurate-seven-esi-health-projects-worth-%e2%82%b9668-crore-tomorrow/",
+        "pubDate": "2026-07-12T16:17:36+00:00",
+        "link": "https://newsonair.gov.in/hi/india-declared-a-day-of-national-mourning-yesterday-following-the-demise-of-the-former-emir-of-qatar/",
+        "post_id": 1734452,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1159,6 +1160,50 @@ window.VM_NEWS = {
     ],
     "breaking": [
       {
+        "title": "शिलांग में कल से नेक्स्ट जेनरेशन प्रशासनिक एवं ई-गवर्नेंस सुधार पर राष्ट्रीय सम्मेलन",
+        "summary": "प्रशासनिक सुधार और लोक शिकायत विभाग मेघालय सरकार के सहयोग से कल शिलांग में &#8220;नेक्स्ट जेनरेशन प्रशासनिक एवं ई-गवर्नेंस सुधार&#8221; विषय पर दो दिवसीय राष्ट्रीय सम्मेलन का आयोजन कर रहा है। केंद्रीय मंत्री डॉ. जितेंद्र सिंह और मेघालय के मुख्यमंत्री कॉनराड संगमा इस सम्मेलन के उद्घाटन सत्र को संबोधित करेंगे। यह सम्मेलन देश भर के […]",
+        "article": "प्रशासनिक सुधार और लोक शिकायत विभाग मेघालय सरकार के सहयोग से कल शिलांग में &#8220;नेक्स्ट जेनरेशन प्रशासनिक एवं ई-गवर्नेंस सुधार&#8221; विषय पर दो दिवसीय राष्ट्रीय सम्मेलन का आयोजन कर रहा है। केंद्रीय मंत्री डॉ. जितेंद्र सिंह और मेघालय के मुख्यमंत्री कॉनराड संगमा इस सम्मेलन के उद्घाटन सत्र को संबोधित करेंगे। यह सम्मेलन देश भर के नीति निर्माताओं, प्रशासकों, प्रौद्योगिकीविदों और शासन विशेषज्ञों को लोक प्रशासन और डिजिटल शासन के भविष्य पर विचार-विमर्श करने के लिए एक साथ लाएगा।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T16:40:24+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b6%e0%a4%bf%e0%a4%b2%e0%a4%be%e0%a4%82%e0%a4%97-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%95%e0%a4%b2-%e0%a4%b8%e0%a5%87-%e0%a4%a8%e0%a5%87%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a5%8d%e0%a4%9f-%e0%a4%9c/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-3-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "नागपुर में तीसरी ब्रिक्स परिवहन मंत्रियों की बैठक का समापन",
+        "summary": "भारत की ब्रिक्स अध्यक्षता 2026 के अंतर्गत नागपुर में आयोजित तीसरी ब्रिक्स परिवहन मंत्रियों की बैठक का आज समापन हुआ। चार दिवसीय यह बैठक 9 जुलाई को शुरू हुई थी। इसका समापन मंत्रिस्तरीय घोषणापत्र को सर्वसम्मति से अपनाने के साथ हुआ, जिसमें सतत परिवहन, रसद, परिवहन में कार्बन उत्सर्जन कम करना, सतत विमानन ईंधन, शहरी […]",
+        "article": "भारत की ब्रिक्स अध्यक्षता 2026 के अंतर्गत नागपुर में आयोजित तीसरी ब्रिक्स परिवहन मंत्रियों की बैठक का आज समापन हुआ। चार दिवसीय यह बैठक 9 जुलाई को शुरू हुई थी। इसका समापन मंत्रिस्तरीय घोषणापत्र को सर्वसम्मति से अपनाने के साथ हुआ, जिसमें सतत परिवहन, रसद, परिवहन में कार्बन उत्सर्जन कम करना, सतत विमानन ईंधन, शहरी गतिशीलता, चक्रीय अवसंरचना और रेलवे अनुसंधान सहित विभिन्न क्षेत्रों में ब्रिक्स देशों के बीच सहयोग की रूपरेखा प्रस्तुत की गई है। केंद्रीय सड़क परिवहन मंत्री नितिन गडकरी ने कल बैठक की अध्यक्षता की। उन्&#x200d;होंने इसके लिए सभी प्रतिभागी प्रतिनिधिमंडलों को धन्यवाद दिया। इस बैठक से पहले 9 और 10 जुलाई को ब्रिक्स परिवहन कार्य समूह के वरिष्ठ अधिकारियों की तीसरी बैठक आयोजित की गई थी, जिसमें एजेंडा के परिणाम और मंत्रिस्तरीय घोषणापत्र को अंतिम रूप दिया गया था। इस चार दिवसीय कार्यक्रम में ब्रिक्स सदस्य देशों के परिवहन मंत्रियों, वरिष्ठ अधिकारियों और तकनीकी विशेषज्ञों ने भाग लिया।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T16:29:23+00:00",
+        "link": "https://newsonair.gov.in/hi/conclusion-of-the-3rd-brics-transport-ministers-meeting-in-nagpur/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNCeoYwbsAAR7r0-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी 26 जुलाई को ‘मन की बात’ कार्यक्रम में देशवासियों को करेंगे संबोधित",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी इस महीने की 26 तारीख को आकाशवाणी के मासिक रेडियो कार्यक्रम &#8216;मन की बात&#8217; में देश और विदेश के लोगों से अपने विचार साझा करेंगे। यह इस कार्यक्रम का 136वां एपिसोड होगा। श्रोता टोल-फ्री नंबर 1800-11-7800 पर कार्यक्रम के लिए अपने विचार और सुझाव भेज सकते हैं। वे नरेंद्र मोदी ऐप या […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी इस महीने की 26 तारीख को आकाशवाणी के मासिक रेडियो कार्यक्रम &#8216;मन की बात&#8217; में देश और विदेश के लोगों से अपने विचार साझा करेंगे। यह इस कार्यक्रम का 136वां एपिसोड होगा। श्रोता टोल-फ्री नंबर 1800-11-7800 पर कार्यक्रम के लिए अपने विचार और सुझाव भेज सकते हैं। वे नरेंद्र मोदी ऐप या MyGov Open Forum के माध्यम से भी ऑनलाइन अपने सुझाव दे सकते हैं। नागरिक 1 9 2 2 नंबर पर मिस्ड कॉल देकर और एसएमएस में प्राप्त लिंक का अनुसरण करके सीधे प्रधानमंत्री को अपने सुझाव भेज सकते हैं। आगामी एपिसोड के लिए सुझाव इस महीने की 24 तारीख तक स्वीकार किए जाएंगे।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:58:08+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-will-address-the-nation-in-the-mann-ki-baat-programme-on-july-26/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNCOHaeaMAACp2I.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "मुख्य न्यायाधीश न्यायमूर्ति सूर्यकांत ने गुरुग्राम में ‘टावर ऑफ जस्टिस’ का उद्घाटन किया",
+        "summary": "भारत के मुख्य न्यायाधीश न्यायमूर्ति सूर्यकांत ने आज गुरुग्राम में नवीन न्यायिक न्यायालय परिसर &#8216;टावर ऑफ़ जस्टिस&#8217; का उद्घाटन किया। इस अवसर पर हरियाणा के मुख्यमंत्री नायब सिंह सैनी, केंद्रीय आवासन एवं शहरी कार्य मंत्री मनोहर लाल, केंद्रीय विधि एवं न्याय राज्य मंत्री अर्जुन राम मेघवाल, और केंद्रीय राज्य मंत्री राव इंद्रजीत सिंह उपस्थित रहे। […]",
+        "article": "भारत के मुख्य न्यायाधीश न्यायमूर्ति सूर्यकांत ने आज गुरुग्राम में नवीन न्यायिक न्यायालय परिसर &#8216;टावर ऑफ़ जस्टिस&#8217; का उद्घाटन किया। इस अवसर पर हरियाणा के मुख्यमंत्री नायब सिंह सैनी, केंद्रीय आवासन एवं शहरी कार्य मंत्री मनोहर लाल, केंद्रीय विधि एवं न्याय राज्य मंत्री अर्जुन राम मेघवाल, और केंद्रीय राज्य मंत्री राव इंद्रजीत सिंह उपस्थित रहे। एक रिपोर्ट: कार्यक्रम को सम्बोधित करते हुए न्यायमूर्ति सूर्यकांत ने कहा कि भविष्य की ज़रुरत को ध्यान में रखते हुए इस भवन को आधुनिक तकनीक और सुविधाओं से सुसज्जित किया गया है, जिससे न्याय मिलने की गति में तेज़ी आएगी। उन्होंने आगे बताया कि परिसर में महिला अधिवक्ताओं के लिए एक विशेष बार रूम भी बनाया गया है, जिससे उन्हें अपने कार्यों को करने में और अधिक सुविधा होगी। वहीं, श्री सैनी ने कहा कि यह भवन संविधान की मर्यादा, न्यायपालिका पर जनता के विश्वास और आधुनिक न्याय व्यवस्था का प्रतीक है। मुख्यमंत्री ने विश्वास व्यक्त किया कि अत्याधुनिक तकनीक से सुसज्जित यह नया परिसर मामलों के त्वरित निपटारे में सहायक होगा तथा न्याय को आम नागरिक के लिए और अधिक सुलभ बनाएगा। केंद्रीय आवासन एवं शहरी कार्य मंत्री मनोहर लाल ने कहा कि यह भवन सुलभ, व्यवस्थित और आधुनिक न्याय व्यवस्था की दिशा में एक महत्वपूर्ण पहल है। उन्होंने विश्वास व्यक्त किया कि यह नवीन न्यायालय परिसर नागरिकों को त्वरित और सुगम न्याय उपलब्ध कराने में मील का पत्थर सिद्ध होगा। वहीं, केंद्रीय विधि एवं न्याय राज्य मंत्री अर्जुन राम मेघवाल ने कहा कि प्रधानमंत्री नरेंद्र मोदी के नेतृत्व में रिफार्म, परफॉर्म और ट्रांसफॉर्म के मंत्र को आत्मसात करते हुए भारत की न्याय व्यवस्था को अधिक सुलभ, पारदर्शी, तकनीक-सक्षम और नागरिक-केंद्रित बनाया जा रहा है। उन्होंने आशा व्यक्त करते हुए कहा कि गुरुग्राम का टॉवर ऑफ जस्टिस न्यायिक इन्फ़्रास्ट्रक्चर को नई मजबूती प्रदान करते हुए आमजन को त्वरित और सुलभ न्याय सुनिश्चित करने की दिशा में एक महत्वपूर्ण मील का पत्थर सिद्ध होगा। इस न्&#x200d;यायालय परिसर के उद्घाटन से लोगों को समयबद्ध और त्&#x200d;वरित न्&#x200d;याय सुनिश्चित होगा। सक़लैन अख्तर के साथ, दीपेंद्र कुमार, आकाशवाणी समाचार, दिल्ली।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:43:37+00:00",
+        "link": "https://newsonair.gov.in/hi/chief-justice-surya-kant-inaugurated-the-tower-of-justice-in-gurugram/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNBb2wobkAALsyp.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "सरकार ने इथेनॉल मिश्रित पेट्रोल से वाहन के ईंधन टैंक में समस्या वाली फर्जी तस्वीर का किया खंडन",
         "summary": "सरकार ने सोशल मीडिया पर चल रही उस फर्जी तस्वीर का खंडन किया है जिसमें दावा किया गया है कि इथेनॉल मिश्रित पेट्रोल से वाहन के ईंधन टैंक में समस्या हो सकती है। पत्र सूचना कार्यालय की तथ्य जांच इकाई ने इस दावे को झूठा बताया है। कार्यालय ने कहा कि पेट्रोलियम और प्राकृतिक गैस […]",
         "article": "सरकार ने सोशल मीडिया पर चल रही उस फर्जी तस्वीर का खंडन किया है जिसमें दावा किया गया है कि इथेनॉल मिश्रित पेट्रोल से वाहन के ईंधन टैंक में समस्या हो सकती है। पत्र सूचना कार्यालय की तथ्य जांच इकाई ने इस दावे को झूठा बताया है। कार्यालय ने कहा कि पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने स्पष्ट किया है कि तेल विपणन कंपनियों द्वारा आपूर्ति किया जाने वाला ई20 पेट्रोल भारतीय मानक ब्यूरो के निर्धारित मानकों के अनुरूप है। मंत्रालय ने कहा कि निर्धारित मानकों के अनुरूप होने पर इथेनॉल और पेट्रोल पूरी तरह से घुलनशील होते हैं। मंत्रालय ने यह भी आश्वासन दिया कि भारत में आपूर्ति किया जाने वाला इथेनॉल मिश्रित पेट्रोल उच्च गुणवत्ता मानकों का पालन करता है और उपभोक्ताओं को उपलब्ध कराए जाने से पहले इसका गहन परीक्षण किया जाता है।",
@@ -1170,47 +1215,38 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "समाज सुधारकों की महान विरासत का सम्मान करना हर नागरिक का कर्तव्य: उपराष्ट्रपति सी. पी. राधाकृष्णन",
-        "summary": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज कहा कि देश के समाज सुधारकों की महान विरासत का सम्मान करना और उसे बनाए रखना हर नागरिक का कर्तव्य है। श्री राधाकृष्णन ने नई दिल्ली के द्वारका में मन्नम इंटरनेशनल सेंटर में समाज सुधारक और स्वतंत्रता सेनानी मन्नाथ पद्मनाभन की प्रतिमा का अनावरण करने और &#8216;मन्नम स्मृति मंडपम&#8217; […]",
-        "article": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज कहा कि देश के समाज सुधारकों की महान विरासत का सम्मान करना और उसे बनाए रखना हर नागरिक का कर्तव्य है। श्री राधाकृष्णन ने नई दिल्ली के द्वारका में मन्नम इंटरनेशनल सेंटर में समाज सुधारक और स्वतंत्रता सेनानी मन्नाथ पद्मनाभन की प्रतिमा का अनावरण करने और &#8216;मन्नम स्मृति मंडपम&#8217; का उद्घाटन के अवसर पर यह बात कही। सभा को संबोधित करते हुए, उपराष्ट्रपति ने सामाजिक न्याय, समानता, शिक्षा और सामुदायिक सेवा के प्रति मन्नाथ पद्मनाभन की जीवन भर की प्रतिबद्धता का उल्&#x200d;लेख किया। उन्होंने कहा कि मन्नाथ पद्मनाभन के आदर्श एक समावेशी और सौहार्दपूर्ण समाज के निर्माण की दिशा में देश को प्रेरित करते रहते हैं। मन्नाथ पद्मनाभन को आधुनिक भारत के महानतम समाज सुधारकों में से एक बताते हुए श्री राधाकृष्णन ने कहा कि उनका जीवन शिक्षा, समाज सुधार, आत्मनिर्भरता और सामुदायिक सेवा के माध्यम से समाज के उत्थान के लिए समर्पित था। उन्होंने कहा कि जब समाज सुधार की अवधारणा को शायद ही समझा जाता था और कई लोग बिना किसी सहारे के कष्ट झेल रहे थे, उन्&#x200d;ही दिनों मन्नाथ पद्मनाभन समाज की सेवा के लिए आगे आए। उपराष्ट्रपति ने कहा कि राष्ट्रीय आंदोलन के साथ मन्नाथ पद्मनाभन का जुड़ाव इन आदर्शों के प्रति उनकी प्रतिबद्धता को और अधिक दर्शाता है। उन्होंने कहा कि महात्मा गांधी के साथ-साथ, मन्नाथ पद्मनाभन ने सामाजिक रूप से वंचित लोगों के हितों की रक्षा करने में महत्वपूर्ण भूमिका निभाई। श्री राधाकृष्णन ने ऐतिहासिक &#8216;वायकोम सत्याग्रह&#8217; में उनकी सक्रिय भागीदारी पर भी उल्&#x200d;लेख किया। उन्&#x200d;होंने इसे भारत के समाज सुधार आंदोलन के सबसे महत्वपूर्ण अध्यायों में से एक बताया। इस अवसर पर, उपराष्ट्रपति सी. पी. राधाकृष्णन ने &#8216;एक पेड़ मां के नाम&#8217; अभियान के तहत एक पौधा भी लगाया। इस अवसर पर केंद्रीय राज्य मंत्री सुरेश गोपी, नायर सर्विस सोसायटी-एनएसएस दिल्ली के अध्यक्ष एम. के. जी. पिल्लई, एनएसएस दिल्ली के महासचिव एम. डी. जयप्रकाश और अन्य गणमान्य अतिथि उपस्थित थे।",
+        "title": "भारत ने ओमान तट के पास वाणिज्यिक पोत पर हमले के बाद पश्चिम एशिया क्षेत्र में तुरंत तनाव कम करने का आह्वान किया",
+        "summary": "भारत ने ओमान तट के पास भारतीय चालक दल के सदस्यों को ले जा रहे वाणिज्यिक पोत जी.एफ.एस. गैलेक्सी पर हुए हमले के बाद पश्चिम एशिया में तनाव को तत्काल कम करने की अपील दोहराई है। विदेश मंत्रालय ने हमले की निंदा करते हुए कहा कि पोत पर सवार 11 भारतीय नागरिकों में से 10 […]",
+        "article": "भारत ने ओमान तट के पास भारतीय चालक दल के सदस्यों को ले जा रहे वाणिज्यिक पोत जी.एफ.एस. गैलेक्सी पर हुए हमले के बाद पश्चिम एशिया में तनाव को तत्काल कम करने की अपील दोहराई है। विदेश मंत्रालय ने हमले की निंदा करते हुए कहा कि पोत पर सवार 11 भारतीय नागरिकों में से 10 को अब तक बचा लिया गया है और एक भारतीय नागरिक लापता है। मंत्रालय ने कहा कि ओमान स्थित भारतीय दूतावास स्थिति पर कड़ी नजर रख रहा है और ओमान के अधिकारियों के साथ जारी खोज तथा बचाव अभियान में सक्रिय रूप से समन्वय कर रहा है। भारत ने ओमान के अधिकारियों को उनके सहयोग के लिए धन्यवाद दिया है। भारत ने क्षेत्र में वाणिज्यिक जहाजों पर हमलों की लगातार हो रही घटनाओं पर चिंता व्यक्त की है। भारत ने स्&#x200d;थायी समाधान के लिए जारी कूटनीतिक वार्ता को शीघ्र ही सफल निष्&#x200d;कर्ष तक पहुंचाने का आह्वान किया है, जिससे क्षेत्र में शांति और स्थिरता बहाल की जा सके।",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T10:58:56+00:00",
-        "link": "https://newsonair.gov.in/hi/honouring-the-great-legacy-of-social-reformers-is-the-duty-of-every-citizen-vice-president-c-p-radhakrishnan/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNA6On6bkAExCM3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-12T16:22:40+00:00",
+        "link": "https://newsonair.gov.in/hi/india-called-for-an-immediate-de-escalation-of-tensions-in-the-west-asia-region-following-an-attack-on-a-commercial-vessel-off-the-coast-of-oman/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "केंद्रीय मंत्री पीयूष गोयल 13 से 17 जुलाई तक रहेंगे स्पेन, बेल्जियम और फिनलैंड की यात्रा पर",
-        "summary": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल कल से 17 जुलाई तक स्पेन, बेल्जियम और फिनलैंड की यात्रा पर रहेंगे। इस दौरान वे भारतीय उद्योग जगत के एक उच्चस्तरीय प्रतिनिधिमंडल का नेतृत्व करेंगे। वाणिज्य और उद्योग मंत्रालय ने कहा है कि इस यात्रा का उद्देश्य व्यापार, निवेश, प्रौद्योगिकी, नवाचार और सतत विकास पर विशेष ध्यान […]",
-        "article": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल कल से 17 जुलाई तक स्पेन, बेल्जियम और फिनलैंड की यात्रा पर रहेंगे। इस दौरान वे भारतीय उद्योग जगत के एक उच्चस्तरीय प्रतिनिधिमंडल का नेतृत्व करेंगे। वाणिज्य और उद्योग मंत्रालय ने कहा है कि इस यात्रा का उद्देश्य व्यापार, निवेश, प्रौद्योगिकी, नवाचार और सतत विकास पर विशेष ध्यान देते हुए यूरोप के साथ भारत की आर्थिक साझेदारी को और मजबूत करना है। यात्रा के पहले चरण में श्री गोयल कल स्पेन पहुंचेंगे, जहां वे स्पेन चैंबर ऑफ कॉमर्स और आईसीईएक्स स्पेन ट्रेड एंड इन्वेस्टमेंट के साथ आयोजित एक व्&#x200d;यापारिक बैठक में भाग लेंगे। श्री गोयल 14 और 15 जुलाई को बेल्जियम का दौरा करेंगे। इस दौरान वे थेल्स समूह और सिलॉक्स समूह के शीर्ष नेतृत्व से मुलाकात करेंगे। यात्रा के अंतिम चरण में श्री गोयल 16 और 17 जुलाई को फिनलैंड जाएंगे। वहां वे भारत-फिनलैंड व्&#x200d;यापार बैठक में भाग लेंगे। इस दौरान दूरसंचार, उन्नत विनिर्माण, स्वच्छ ऊर्जा, गतिशीलता और नवाचार के क्षेत्रों में सहयोग की संभावनाओं पर विचार किया जाएगा।",
+        "title": "भारत ने कतर के पूर्व अमीर के निधन पर कल एक दिन का राष्ट्रीय शोक घोषित किया",
+        "summary": "भारत ने कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी के निधन पर श्रद्धांजलि अर्पित करते हुए कल एक दिन का राष्ट्रीय शोक घोषित किया है। इस शोक दिवस पर भारत भर में उन सभी भवनों पर राष्ट्रीय ध्वज आधा झुका रहेगा जहां नियमित रूप से राष्ट्रीय ध्वज फहराया जाता है। इस दिन कोई […]",
+        "article": "भारत ने कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी के निधन पर श्रद्धांजलि अर्पित करते हुए कल एक दिन का राष्ट्रीय शोक घोषित किया है। इस शोक दिवस पर भारत भर में उन सभी भवनों पर राष्ट्रीय ध्वज आधा झुका रहेगा जहां नियमित रूप से राष्ट्रीय ध्वज फहराया जाता है। इस दिन कोई भी आधिकारिक मनोरंजन कार्यक्रम नहीं होगा। प्रधानमंत्री नरेंद्र मोदी ने शेख हमद बिन खलीफा अल-थानी के निधन पर शोक व्यक्त करते हुए कहा कि वे एक दूरदर्शी नेता थे जिन्होंने कतर को विकास और समृद्धि के नए मुकाम तक पहुंचाया। विदेश मंत्रालय ने एक बयान में कहा कि संसदीय कार्य और अल्पसंख्यक मामलों के मंत्री किरेन रिजिजू भारत सरकार की ओर से कतर को शोक संदेश देने के लिए वहां जा रहे हैं।",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T10:34:42+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%aa%e0%a5%80%e0%a4%af%e0%a5%82%e0%a4%b7-%e0%a4%97%e0%a5%8b-27/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/piyush-goyal-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-12T16:17:36+00:00",
+        "link": "https://newsonair.gov.in/hi/india-declared-a-day-of-national-mourning-yesterday-following-the-demise-of-the-former-emir-of-qatar/",
+        "post_id": 1734452,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "केंद्रीय मंत्री शिवराज सिंह चौहान ने पौधारोपण को सतत भविष्य और पर्यावरण संरक्षण के लिए महत्वपूर्ण बताया",
-        "summary": "केन्‍द्रीय मंत्री शिवराज सिंह चौहान ने कहा कि सतत भविष्‍य सुनिश्चित करने तथा पर्यावरण संरक्षण के लिए पौधा रोपण बहुत ही महत्‍वपूर्ण है। नई दिल्‍ली में वृक्ष मित्र और पर्यावरण संरक्षण संकल्‍प कार्यक्रम को संबोधित करते हुए श्री चौहान ने कहा कि आज पूरी दुनिया जलवायु परिवर्तन और धरती का तापमान बढ़ने को लेकर चिंतित […]",
-        "article": "केन्&#x200d;द्रीय मंत्री शिवराज सिंह चौहान ने कहा कि सतत भविष्&#x200d;य सुनिश्चित करने तथा पर्यावरण संरक्षण के लिए पौधा रोपण बहुत ही महत्&#x200d;वपूर्ण है। नई दिल्&#x200d;ली में वृक्ष मित्र और पर्यावरण संरक्षण संकल्&#x200d;प कार्यक्रम को संबोधित करते हुए श्री चौहान ने कहा कि आज पूरी दुनिया जलवायु परिवर्तन और धरती का तापमान बढ़ने को लेकर चिंतित है। उन्&#x200d;होंने कहा कि वर्ष 1880 के बाद समुद्र के बढ़ते तापमान और पिघलते हिमनदों ने वैश्विक समुद्री जल स्&#x200d;तरों को लगभग 20 से 23 सेंटीमीटर तक बढ़ा दिया है। उन्&#x200d;होंने कहा कि धरती का औसत तापमान वर्ष 1900 की तुलना में लगभग डेढ़ डिग्री सेल्सियस तक बढ़ गया है। यह जलवायु परिवर्तन के लिए गंभीर चेतावनी का संकेत है। श्री चौहान ने कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने इस संकट से निपटने के लिए कई पहल की हैं। उन्&#x200d;होंने कहा कि देश में नवीकरणीय ऊर्जा क्षमता में महत्&#x200d;वपूर्ण वृद्धि हुई है। श्री चौहान ने पर्यावरण की रक्षा और संरक्षण के लिए एक पेड़ मां के नाम अभियान और मिशन लाइफ जैसी पहलों का भी उल्&#x200d;लेख किया। उन्&#x200d;होंने कहा कि भारत ने वर्ष 2070 तक शून्&#x200d;य कार्बन उत्&#x200d;सर्जन का लक्ष्&#x200d;य निर्धारित किया है।",
+        "title": "वियतनाम में नौका दुर्घटना में मारे गए 15 भारतीयों के पार्थिव शरीर हो ची मिन्ह शहर पहुंचे। उन्‍हें जल्‍द से जल्‍द भारत लाया जाएगा",
+        "summary": "वियतनाम में भारतीय दूतावास ने आज बताया कि फु क्वोक द्वीप के निकट कल हुई नौका दुर्घटना में जान गंवाने वाले 15 भारतीय नागरिकों के पार्थिव शरीर हो ची मिन्ह सिटी ले जाए जा रहे हैं। सोशल मीडिया पोस्ट में दूतावास ने कहा कि वहां आवश्यक औपचारिकताएं पूरी होने के बाद पार्थिव शरीरों को यथाशीघ्र […]",
+        "article": "वियतनाम में भारतीय दूतावास ने आज बताया कि फु क्वोक द्वीप के निकट कल हुई नौका दुर्घटना में जान गंवाने वाले 15 भारतीय नागरिकों के पार्थिव शरीर हो ची मिन्ह सिटी ले जाए जा रहे हैं। सोशल मीडिया पोस्ट में दूतावास ने कहा कि वहां आवश्यक औपचारिकताएं पूरी होने के बाद पार्थिव शरीरों को यथाशीघ्र भारत भेजा जाएगा। दूतावास ने बताया कि हो ची मिन्ह सिटी स्थित भारतीय महावाणिज्य दूतावास वियतनाम के अधिकारियों के साथ लगातार सम्&#x200d;पर्क बनाए हुए हैं और पार्थिव शरीरों को शीघ्र भारत लाने के लिए हरसंभव सहायता प्रदान कर रहा है। इससे पहले आज दूतावास ने बताया था कि नौका दुर्घटना में घायल 15 भारतीयों को उपचार के बाद अस्पताल से छुट्टी दे दी गई है और वे भारत लौट रहे हैं। दूतावास के अनुसार, गंभीर रूप से घायल दो लोगों में से एक को अस्पताल से छुट्टी मिल गई है और वह भारत लौट रहा है, जबकि दूसरे घायल का वियतनाम के फु क्वोक स्थित अस्पताल में उपचार चल रहा है।",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:42:37+00:00",
-        "link": "https://newsonair.gov.in/hi/shivraj-on-environment/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/shivraj-mp.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गृह मंत्री अमित शाह ने अहमदाबाद में विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास किया",
-        "summary": "केन्‍द्रीय गृह मंत्री अमित शाह ने आज अहमदाबाद में 405 करोड़ रुपये की लागत वाली नगर निगम की कई विकास परियोजनाओं का लोकापर्ण और शिलान्‍यास किया। इस अवसर पर श्री शाह ने एक पेड़ मां के नाम अभियान के अंतर्गत विशाल पौधारोपण अभियान का शुभारंभ भी किया। इस अभियान के तहत आज उनके लोकसभा क्षेत्र […]",
-        "article": "केन्&#x200d;द्रीय गृह मंत्री अमित शाह ने आज अहमदाबाद में 405 करोड़ रुपये की लागत वाली नगर निगम की कई विकास परियोजनाओं का लोकापर्ण और शिलान्&#x200d;यास किया। इस अवसर पर श्री शाह ने एक पेड़ मां के नाम अभियान के अंतर्गत विशाल पौधारोपण अभियान का शुभारंभ भी किया। इस अभियान के तहत आज उनके लोकसभा क्षेत्र गांधीनगर में एक करोड़ 25 लाख से ज़्यादा पौधे लगाए गए। समारोह को संबोधित करते हुए गृह मंत्री ने 2029 के चुनाव तक निर्वाचन क्षेत्रों में पौधे लगाने की गति&#x200d;विधि को 20 प्रतिशत तक बढ़ाने की दीर्घकालि&#x200d;क पर्यावर&#x200d;णीय रूपरेखा का उल्&#x200d;लेख किया। उन्&#x200d;होंने नागरिकों से सोलर रूफटॉप अपनाने का आग्रह किया। गृह मंत्री ने कहा कि बरगद, पीपल, जम्&#x200d;बू और अर्जुन जैसी स्&#x200d;वदेशी प्रजातियों के पौधे शहर के तापमान को पांच प्रतिशत तक कम करने में मददगार होंगे। ये पौधे भविष्&#x200d;य की पीढि़यों के लिए ओजोन परत को सशक्&#x200d;त बनाने तथा जीवन के अनुकूल पर्यावरण सुनिश्चित करने में सहायक होंगे। पर्यावरण को मजबूत बनाने के हिस्&#x200d;से के रूप में ऑक्&#x200d;सीजन के एक सौ एक नए पार्कों का उद्घाटन किया गया तथा उनकी जानकारी को शामिल करते हुए एक समर्पित ई-बुक जारी की गई। गृह मंत्री कल 11वीं इंटरपोल डिजिटल फॉरेंसिक विशेषज्ञ समूह की बैठक का उद्घाटन करेंगे। वे गांधी नगर में राष्&#x200d;ट्रीय फॉरेंसिक विज्ञान विश्&#x200d;वविद्यालय में पहली अंतरराष्&#x200d;ट्रीय जांचकर्ता अपराध प्रतिस्&#x200d;पर्धा का भी उद्घाटन करेंगे।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:35:13+00:00",
-        "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNAtMaSbUAARfPK-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-12T15:20:40+00:00",
+        "link": "https://newsonair.gov.in/hi/vietnam-boat-accident-mortal-remains-of-15-indians-to-be-brought-back-to-india-soon/",
+        "post_id": 1733834,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1227,45 +1263,10 @@ window.VM_NEWS = {
       {
         "title": "आवासन और शहरी कार्य मंत्री मनोहर लाल ने निर्माण क्षेत्र में पर्यावरण अनुकूल तकनीक अपनाने पर बल दिया",
         "summary": "आवासन और शहरी कार्य मंत्री मनोहर लाल ने निर्माण क्षेत्र में पर्यावरण अनुकूल तकनीक अपनाने की आवश्यकता पर बल दिया। नई दिल्ली में केंद्रीय लोक निर्माण विभाग के 172वें स्थापना दिवस के अवसर पर आयोजित समारोह को संबोधित करते हुए केन्‍द्रीय मंत्री ने कहा कि किसी भी भवन या संरचना के निर्माण के दौरान उसकी […]",
-        "article": "आवासन और शहरी कार्य मंत्री मनोहर लाल ने निर्माण क्षेत्र में पर्यावरण अनुकूल तकनीक अपनाने की आवश्यकता पर बल दिया। नई दिल्ली में केंद्रीय लोक निर्माण विभाग के 172वें स्थापना दिवस के अवसर पर आयोजित समारोह को संबोधित करते हुए केन्&#x200d;द्रीय मंत्री ने कहा कि किसी भी भवन या संरचना के निर्माण के दौरान उसकी मजबूती से समझौता नहीं किया जाना चाहिए। उन्होंने केन्&#x200d;द्रीय लोक निर्माण विभाग के अधिकारियों और कर्मचारियों से संगठन की विश्वसनीयता बढ़ाने के लिए पूरी ईमानदारी और नैतिकता के साथ काम करने का आह्वान किया। इस अवसर पर केंद्रीय मंत्री ने उत्तर प्रदेश के गाजियाबाद में राष्ट्रीय लोक निर्माण परिषद के भवन की आधारशिला भी रखी। इस अवसर पर आवासन और शहरी कार्य मंत्रालय के सचिव श्रीनिवास कटिकिथला और केन्&#x200d;द्रीय लोक निर्माण विभाग के महानिदेशक भी उपस्थित थे।",
+        "article": "आवासन और शहरी कार्य मंत्री मनोहर लाल ने निर्माण क्षेत्र में पर्यावरण अनुकूल तकनीक अपनाने की आवश्यकता पर बल दिया। नई दिल्ली में केंद्रीय लोक निर्माण विभाग के 172वें स्थापना दिवस के अवसर पर आयोजित समारोह को संबोधित करते हुए केन्&#x200d;द्रीय मंत्री ने कहा कि किसी भी भवन या संरचना के निर्माण के दौरान उसकी मजबूती से समझौता नहीं किया जाना चाहिए। श्री मनोहर लाल ने कहा कि भारत की बुनियादी ढांचागत आकांक्षाओं के लगातार विस्&#x200d;तार के साथ केन्&#x200d;द्रीय लोक निर्माण विभाग की जिम्&#x200d;मेदारी बढ़ गई है। उन्&#x200d;होंने विभाग से नवाचार को बढ़ावा देने, टिकाऊ निर्माण पद्धतियां अपनाने और गुणवत्ता, स्थायित्व तथा संरचनात्मक मजबूती के उच्चतम मानकों को बनाए रखने के अनुरूप परियोजनाओं को पूरा करने का आह्वान किया है। केंद्रीय मंत्री ने नागरिक केंद्रित अवसंरचना के निर्माण के लिए संकल्प &#8211; गति, पहुंच, नेक नियत, कर्तव्य निष्ठा, प्रौद्योगिकी, लोकहित और प्रसार की भावना के साथ आगे बढ़ने पर भी बल दिया। उन्होंने केन्&#x200d;द्रीय लोक निर्माण विभाग के अधिकारियों और कर्मचारियों से संगठन की विश्वसनीयता बढ़ाने के लिए पूरी ईमानदारी और नैतिकता के साथ काम करने का आह्वान किया। इस अवसर पर केंद्रीय मंत्री ने उत्तर प्रदेश के गाजियाबाद में राष्ट्रीय लोक निर्माण परिषद के भवन की आधारशिला भी रखी। इस अवसर पर आवासन और शहरी कार्य मंत्रालय के सचिव श्रीनिवास कटिकिथला और केन्&#x200d;द्रीय लोक निर्माण विभाग के महानिदेशक भी उपस्थित थे। आवासन और शहरी कार्य मंत्रालय के सचिव श्रीनिवास कटिकिथाला ने देश भर में गुणवत्तापूर्ण सार्वजनिक अवसंरचना के निर्माण में केन्&#x200d;द्रीय लोक निर्माण विभाग के महत्वपूर्ण योगदान की सराहना की। केन्&#x200d;द्रीय लोक निर्माण विभाग के महानिदेशक सतिंदर पाल सिंह ने नवाचार, व्यावसायिकता और परियोजनाओं के समय पर निष्पादन के माध्यम से उच्च गुणवत्ता वाली सार्वजनिक अवसंरचना प्रदान करने के लिए विभाग की प्रतिबद्धता को दोहराया। उन्होंने कहा कि क्षमता निर्माण और कौशल विकास विभाग की प्रमुख प्राथमिकताएं बनी हुई हैं।",
         "date": "2026-07-12",
         "pubDate": "2026-07-12T13:45:46+00:00",
         "link": "https://newsonair.gov.in/hi/housing-and-urban-affairs-minister-manohar-lal-emphasized-the-adoption-of-eco-friendly-technologies-in-the-construction-sector/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम नौका हादसा: 15 भारतीयों के पार्थिव शरीर जल्द भारत लाए जाएंगे",
-        "summary": "वियतनाम में भारतीय दूतावास ने आज बताया कि फु क्वोक द्वीप के निकट कल हुई नौका दुर्घटना में जान गंवाने वाले 15 भारतीय नागरिकों के पार्थिव शरीर हो ची मिन्ह सिटी ले जाए जा रहे हैं। सोशल मीडिया पोस्ट में दूतावास ने कहा कि वहां आवश्यक औपचारिकताएं पूरी होने के बाद पार्थिव शरीरों को यथाशीघ्र […]",
-        "article": "वियतनाम में भारतीय दूतावास ने आज बताया कि फु क्वोक द्वीप के निकट कल हुई नौका दुर्घटना में जान गंवाने वाले 15 भारतीय नागरिकों के पार्थिव शरीर हो ची मिन्ह सिटी ले जाए जा रहे हैं। सोशल मीडिया पोस्ट में दूतावास ने कहा कि वहां आवश्यक औपचारिकताएं पूरी होने के बाद पार्थिव शरीरों को यथाशीघ्र भारत भेजा जाएगा। दूतावास ने बताया कि हो ची मिन्ह सिटी स्थित भारतीय महावाणिज्य दूतावास वियतनाम के अधिकारियों के साथ लगातार सम्&#x200d;पर्क बनाए हुए हैं और पार्थिव शरीरों को शीघ्र भारत लाने के लिए हरसंभव सहायता प्रदान कर रहा है। इससे पहले आज दूतावास ने बताया था कि नौका दुर्घटना में घायल 15 भारतीयों को उपचार के बाद अस्पताल से छुट्टी दे दी गई है और वे भारत लौट रहे हैं। दूतावास के अनुसार, गंभीर रूप से घायल दो लोगों में से एक को अस्पताल से छुट्टी मिल गई है और वह भारत लौट रहा है, जबकि दूसरे घायल का वियतनाम के फु क्वोक स्थित अस्पताल में उपचार चल रहा है।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T10:50:40+00:00",
-        "link": "https://newsonair.gov.in/hi/vietnam-boat-accident-mortal-remains-of-15-indians-to-be-brought-back-to-india-soon/",
-        "post_id": 1733834,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ओमान तट के पास वाणिज्यिक पोत पर हमले में 10 भारतीय सुरक्षित बचाए गए, एक अब भी लापता",
-        "summary": "भारत ने आज ओमान तट के पास वाणिज्यिक पोत जी.एफ.एस गैलेक्सी पर हुए हमले की कड़ी निंदा की है। विदेश मंत्रालय ने एक बयान में कहा कि पोत पर सवार 11 भारतीयों में से 10 को सुरक्षित बचा लिया गया है, जबकि एक भारतीय अब भी लापता है। मंत्रालय ने कहा कि ओमान में भारतीय […]",
-        "article": "भारत ने आज ओमान तट के पास वाणिज्यिक पोत जी.एफ.एस गैलेक्सी पर हुए हमले की कड़ी निंदा की है। विदेश मंत्रालय ने एक बयान में कहा कि पोत पर सवार 11 भारतीयों में से 10 को सुरक्षित बचा लिया गया है, जबकि एक भारतीय अब भी लापता है। मंत्रालय ने कहा कि ओमान में भारतीय दूतावास स्थिति पर लगातार नजर बनाए हुए है और जारी राहत तथा बचाव अभियान में ओमान के अधिकारियों के साथ समन्वय कर रहा है। भारत ने इस सहायता के लिए ओमान की सरकार का आभार व्यक्त किया है। विदेश मंत्रालय ने कहा कि क्षेत्र में वाणिज्यिक जहाजों और नागरिक बुनियादी ढांचे को निशाना बनाया जाना बंद होना चाहिए तथा अंतरराष्ट्रीय कानून के अनुरूप अंतरराष्ट्रीय समुद्री मार्गों पर निर्बाध नौवहन और व्यापार जल्द से जल्द बहाल किया जाना चाहिए।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:43:41+00:00",
-        "link": "https://newsonair.gov.in/hi/oman-vessel-attack/",
-        "post_id": 1733595,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ईपीएफओ ने छूट प्राप्त पीएफ ट्रस्ट संचालित प्रतिष्ठानों के लिए माफी योजना-2026 शुरू की",
-        "summary": "कर्मचारी भविष्य निधि संगठन- ईपीएफओ ने माफी योजना-2026 शुरू की है। इसके तहत आयकर अधिनियम, 1961 के अंतर्गत मान्यता प्राप्त छूट के साथ भविष्य निधि ट्रस्ट संचालित करने वाले प्रतिष्ठानों को अपनी स्थिति नियमित करने का एकमुश्त अवसर प्रदान किया गया है। श्रम और रोजगार मंत्रालय ने कहा है कि यह योजना छह महीने […]",
-        "article": "कर्मचारी भविष्य निधि संगठन- ईपीएफओ ने माफी योजना-2026 शुरू की है। इसके तहत आयकर अधिनियम, 1961 के अंतर्गत मान्यता प्राप्त छूट के साथ भविष्य निधि ट्रस्ट संचालित करने वाले प्रतिष्ठानों को अपनी स्थिति नियमित करने का एकमुश्त अवसर प्रदान किया गया है। श्रम और रोजगार मंत्रालय ने कहा है कि यह योजना छह महीने की अवधि तक लागू रहेगी। यह योजना उन प्रतिष्ठानों पर लागू होगी, जो आयकर अधिनियम, 1961 के अंतर्गत मान्यता प्राप्त भविष्य निधि ट्रस्ट का संचालन कर रहे हैं। मंत्रालय के अनुसार, पात्र प्रतिष्ठानों को संबंधित क्षेत्रीय कार्यालय को ई-मेल के माध्यम से औपचारिक आवेदन प्रस्तुत करना होगा। छूट प्राप्त भविष्य निधि एक नियोक्ता-प्रबंधित पीएफ योजना है जो अपने भविष्य निधि योगदान को सीधे ईपीएफओ में जमा करने के बजाय एक निजी ट्रस्ट के माध्यम से आंतरिक रूप से संचालित करती है।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:39:45+00:00",
-        "link": "https://newsonair.gov.in/hi/epfo-amnesty-scheme/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1273,6 +1274,50 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "शिलांग में कल से नेक्स्ट जेनरेशन प्रशासनिक एवं ई-गवर्नेंस सुधार पर राष्ट्रीय सम्मेलन",
+        "summary": "प्रशासनिक सुधार और लोक शिकायत विभाग मेघालय सरकार के सहयोग से कल शिलांग में &#8220;नेक्स्ट जेनरेशन प्रशासनिक एवं ई-गवर्नेंस सुधार&#8221; विषय पर दो दिवसीय राष्ट्रीय सम्मेलन का आयोजन कर रहा है। केंद्रीय मंत्री डॉ. जितेंद्र सिंह और मेघालय के मुख्यमंत्री कॉनराड संगमा इस सम्मेलन के उद्घाटन सत्र को संबोधित करेंगे। यह सम्मेलन देश भर के […]",
+        "article": "प्रशासनिक सुधार और लोक शिकायत विभाग मेघालय सरकार के सहयोग से कल शिलांग में &#8220;नेक्स्ट जेनरेशन प्रशासनिक एवं ई-गवर्नेंस सुधार&#8221; विषय पर दो दिवसीय राष्ट्रीय सम्मेलन का आयोजन कर रहा है। केंद्रीय मंत्री डॉ. जितेंद्र सिंह और मेघालय के मुख्यमंत्री कॉनराड संगमा इस सम्मेलन के उद्घाटन सत्र को संबोधित करेंगे। यह सम्मेलन देश भर के नीति निर्माताओं, प्रशासकों, प्रौद्योगिकीविदों और शासन विशेषज्ञों को लोक प्रशासन और डिजिटल शासन के भविष्य पर विचार-विमर्श करने के लिए एक साथ लाएगा।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T16:40:24+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b6%e0%a4%bf%e0%a4%b2%e0%a4%be%e0%a4%82%e0%a4%97-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%95%e0%a4%b2-%e0%a4%b8%e0%a5%87-%e0%a4%a8%e0%a5%87%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a5%8d%e0%a4%9f-%e0%a4%9c/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-3-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "नागपुर में तीसरी ब्रिक्स परिवहन मंत्रियों की बैठक का समापन",
+        "summary": "भारत की ब्रिक्स अध्यक्षता 2026 के अंतर्गत नागपुर में आयोजित तीसरी ब्रिक्स परिवहन मंत्रियों की बैठक का आज समापन हुआ। चार दिवसीय यह बैठक 9 जुलाई को शुरू हुई थी। इसका समापन मंत्रिस्तरीय घोषणापत्र को सर्वसम्मति से अपनाने के साथ हुआ, जिसमें सतत परिवहन, रसद, परिवहन में कार्बन उत्सर्जन कम करना, सतत विमानन ईंधन, शहरी […]",
+        "article": "भारत की ब्रिक्स अध्यक्षता 2026 के अंतर्गत नागपुर में आयोजित तीसरी ब्रिक्स परिवहन मंत्रियों की बैठक का आज समापन हुआ। चार दिवसीय यह बैठक 9 जुलाई को शुरू हुई थी। इसका समापन मंत्रिस्तरीय घोषणापत्र को सर्वसम्मति से अपनाने के साथ हुआ, जिसमें सतत परिवहन, रसद, परिवहन में कार्बन उत्सर्जन कम करना, सतत विमानन ईंधन, शहरी गतिशीलता, चक्रीय अवसंरचना और रेलवे अनुसंधान सहित विभिन्न क्षेत्रों में ब्रिक्स देशों के बीच सहयोग की रूपरेखा प्रस्तुत की गई है। केंद्रीय सड़क परिवहन मंत्री नितिन गडकरी ने कल बैठक की अध्यक्षता की। उन्&#x200d;होंने इसके लिए सभी प्रतिभागी प्रतिनिधिमंडलों को धन्यवाद दिया। इस बैठक से पहले 9 और 10 जुलाई को ब्रिक्स परिवहन कार्य समूह के वरिष्ठ अधिकारियों की तीसरी बैठक आयोजित की गई थी, जिसमें एजेंडा के परिणाम और मंत्रिस्तरीय घोषणापत्र को अंतिम रूप दिया गया था। इस चार दिवसीय कार्यक्रम में ब्रिक्स सदस्य देशों के परिवहन मंत्रियों, वरिष्ठ अधिकारियों और तकनीकी विशेषज्ञों ने भाग लिया।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T16:29:23+00:00",
+        "link": "https://newsonair.gov.in/hi/conclusion-of-the-3rd-brics-transport-ministers-meeting-in-nagpur/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNCeoYwbsAAR7r0-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी 26 जुलाई को ‘मन की बात’ कार्यक्रम में देशवासियों को करेंगे संबोधित",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी इस महीने की 26 तारीख को आकाशवाणी के मासिक रेडियो कार्यक्रम &#8216;मन की बात&#8217; में देश और विदेश के लोगों से अपने विचार साझा करेंगे। यह इस कार्यक्रम का 136वां एपिसोड होगा। श्रोता टोल-फ्री नंबर 1800-11-7800 पर कार्यक्रम के लिए अपने विचार और सुझाव भेज सकते हैं। वे नरेंद्र मोदी ऐप या […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी इस महीने की 26 तारीख को आकाशवाणी के मासिक रेडियो कार्यक्रम &#8216;मन की बात&#8217; में देश और विदेश के लोगों से अपने विचार साझा करेंगे। यह इस कार्यक्रम का 136वां एपिसोड होगा। श्रोता टोल-फ्री नंबर 1800-11-7800 पर कार्यक्रम के लिए अपने विचार और सुझाव भेज सकते हैं। वे नरेंद्र मोदी ऐप या MyGov Open Forum के माध्यम से भी ऑनलाइन अपने सुझाव दे सकते हैं। नागरिक 1 9 2 2 नंबर पर मिस्ड कॉल देकर और एसएमएस में प्राप्त लिंक का अनुसरण करके सीधे प्रधानमंत्री को अपने सुझाव भेज सकते हैं। आगामी एपिसोड के लिए सुझाव इस महीने की 24 तारीख तक स्वीकार किए जाएंगे।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:58:08+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-will-address-the-nation-in-the-mann-ki-baat-programme-on-july-26/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNCOHaeaMAACp2I.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "मुख्य न्यायाधीश न्यायमूर्ति सूर्यकांत ने गुरुग्राम में ‘टावर ऑफ जस्टिस’ का उद्घाटन किया",
+        "summary": "भारत के मुख्य न्यायाधीश न्यायमूर्ति सूर्यकांत ने आज गुरुग्राम में नवीन न्यायिक न्यायालय परिसर &#8216;टावर ऑफ़ जस्टिस&#8217; का उद्घाटन किया। इस अवसर पर हरियाणा के मुख्यमंत्री नायब सिंह सैनी, केंद्रीय आवासन एवं शहरी कार्य मंत्री मनोहर लाल, केंद्रीय विधि एवं न्याय राज्य मंत्री अर्जुन राम मेघवाल, और केंद्रीय राज्य मंत्री राव इंद्रजीत सिंह उपस्थित रहे। […]",
+        "article": "भारत के मुख्य न्यायाधीश न्यायमूर्ति सूर्यकांत ने आज गुरुग्राम में नवीन न्यायिक न्यायालय परिसर &#8216;टावर ऑफ़ जस्टिस&#8217; का उद्घाटन किया। इस अवसर पर हरियाणा के मुख्यमंत्री नायब सिंह सैनी, केंद्रीय आवासन एवं शहरी कार्य मंत्री मनोहर लाल, केंद्रीय विधि एवं न्याय राज्य मंत्री अर्जुन राम मेघवाल, और केंद्रीय राज्य मंत्री राव इंद्रजीत सिंह उपस्थित रहे। एक रिपोर्ट: कार्यक्रम को सम्बोधित करते हुए न्यायमूर्ति सूर्यकांत ने कहा कि भविष्य की ज़रुरत को ध्यान में रखते हुए इस भवन को आधुनिक तकनीक और सुविधाओं से सुसज्जित किया गया है, जिससे न्याय मिलने की गति में तेज़ी आएगी। उन्होंने आगे बताया कि परिसर में महिला अधिवक्ताओं के लिए एक विशेष बार रूम भी बनाया गया है, जिससे उन्हें अपने कार्यों को करने में और अधिक सुविधा होगी। वहीं, श्री सैनी ने कहा कि यह भवन संविधान की मर्यादा, न्यायपालिका पर जनता के विश्वास और आधुनिक न्याय व्यवस्था का प्रतीक है। मुख्यमंत्री ने विश्वास व्यक्त किया कि अत्याधुनिक तकनीक से सुसज्जित यह नया परिसर मामलों के त्वरित निपटारे में सहायक होगा तथा न्याय को आम नागरिक के लिए और अधिक सुलभ बनाएगा। केंद्रीय आवासन एवं शहरी कार्य मंत्री मनोहर लाल ने कहा कि यह भवन सुलभ, व्यवस्थित और आधुनिक न्याय व्यवस्था की दिशा में एक महत्वपूर्ण पहल है। उन्होंने विश्वास व्यक्त किया कि यह नवीन न्यायालय परिसर नागरिकों को त्वरित और सुगम न्याय उपलब्ध कराने में मील का पत्थर सिद्ध होगा। वहीं, केंद्रीय विधि एवं न्याय राज्य मंत्री अर्जुन राम मेघवाल ने कहा कि प्रधानमंत्री नरेंद्र मोदी के नेतृत्व में रिफार्म, परफॉर्म और ट्रांसफॉर्म के मंत्र को आत्मसात करते हुए भारत की न्याय व्यवस्था को अधिक सुलभ, पारदर्शी, तकनीक-सक्षम और नागरिक-केंद्रित बनाया जा रहा है। उन्होंने आशा व्यक्त करते हुए कहा कि गुरुग्राम का टॉवर ऑफ जस्टिस न्यायिक इन्फ़्रास्ट्रक्चर को नई मजबूती प्रदान करते हुए आमजन को त्वरित और सुलभ न्याय सुनिश्चित करने की दिशा में एक महत्वपूर्ण मील का पत्थर सिद्ध होगा। इस न्&#x200d;यायालय परिसर के उद्घाटन से लोगों को समयबद्ध और त्&#x200d;वरित न्&#x200d;याय सुनिश्चित होगा। सक़लैन अख्तर के साथ, दीपेंद्र कुमार, आकाशवाणी समाचार, दिल्ली।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:43:37+00:00",
+        "link": "https://newsonair.gov.in/hi/chief-justice-surya-kant-inaugurated-the-tower-of-justice-in-gurugram/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNBb2wobkAALsyp.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "सरकार ने इथेनॉल मिश्रित पेट्रोल से वाहन के ईंधन टैंक में समस्या वाली फर्जी तस्वीर का किया खंडन",
         "summary": "सरकार ने सोशल मीडिया पर चल रही उस फर्जी तस्वीर का खंडन किया है जिसमें दावा किया गया है कि इथेनॉल मिश्रित पेट्रोल से वाहन के ईंधन टैंक में समस्या हो सकती है। पत्र सूचना कार्यालय की तथ्य जांच इकाई ने इस दावे को झूठा बताया है। कार्यालय ने कहा कि पेट्रोलियम और प्राकृतिक गैस […]",
         "article": "सरकार ने सोशल मीडिया पर चल रही उस फर्जी तस्वीर का खंडन किया है जिसमें दावा किया गया है कि इथेनॉल मिश्रित पेट्रोल से वाहन के ईंधन टैंक में समस्या हो सकती है। पत्र सूचना कार्यालय की तथ्य जांच इकाई ने इस दावे को झूठा बताया है। कार्यालय ने कहा कि पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने स्पष्ट किया है कि तेल विपणन कंपनियों द्वारा आपूर्ति किया जाने वाला ई20 पेट्रोल भारतीय मानक ब्यूरो के निर्धारित मानकों के अनुरूप है। मंत्रालय ने कहा कि निर्धारित मानकों के अनुरूप होने पर इथेनॉल और पेट्रोल पूरी तरह से घुलनशील होते हैं। मंत्रालय ने यह भी आश्वासन दिया कि भारत में आपूर्ति किया जाने वाला इथेनॉल मिश्रित पेट्रोल उच्च गुणवत्ता मानकों का पालन करता है और उपभोक्ताओं को उपलब्ध कराए जाने से पहले इसका गहन परीक्षण किया जाता है।",
@@ -1284,47 +1329,38 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "समाज सुधारकों की महान विरासत का सम्मान करना हर नागरिक का कर्तव्य: उपराष्ट्रपति सी. पी. राधाकृष्णन",
-        "summary": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज कहा कि देश के समाज सुधारकों की महान विरासत का सम्मान करना और उसे बनाए रखना हर नागरिक का कर्तव्य है। श्री राधाकृष्णन ने नई दिल्ली के द्वारका में मन्नम इंटरनेशनल सेंटर में समाज सुधारक और स्वतंत्रता सेनानी मन्नाथ पद्मनाभन की प्रतिमा का अनावरण करने और &#8216;मन्नम स्मृति मंडपम&#8217; […]",
-        "article": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज कहा कि देश के समाज सुधारकों की महान विरासत का सम्मान करना और उसे बनाए रखना हर नागरिक का कर्तव्य है। श्री राधाकृष्णन ने नई दिल्ली के द्वारका में मन्नम इंटरनेशनल सेंटर में समाज सुधारक और स्वतंत्रता सेनानी मन्नाथ पद्मनाभन की प्रतिमा का अनावरण करने और &#8216;मन्नम स्मृति मंडपम&#8217; का उद्घाटन के अवसर पर यह बात कही। सभा को संबोधित करते हुए, उपराष्ट्रपति ने सामाजिक न्याय, समानता, शिक्षा और सामुदायिक सेवा के प्रति मन्नाथ पद्मनाभन की जीवन भर की प्रतिबद्धता का उल्&#x200d;लेख किया। उन्होंने कहा कि मन्नाथ पद्मनाभन के आदर्श एक समावेशी और सौहार्दपूर्ण समाज के निर्माण की दिशा में देश को प्रेरित करते रहते हैं। मन्नाथ पद्मनाभन को आधुनिक भारत के महानतम समाज सुधारकों में से एक बताते हुए श्री राधाकृष्णन ने कहा कि उनका जीवन शिक्षा, समाज सुधार, आत्मनिर्भरता और सामुदायिक सेवा के माध्यम से समाज के उत्थान के लिए समर्पित था। उन्होंने कहा कि जब समाज सुधार की अवधारणा को शायद ही समझा जाता था और कई लोग बिना किसी सहारे के कष्ट झेल रहे थे, उन्&#x200d;ही दिनों मन्नाथ पद्मनाभन समाज की सेवा के लिए आगे आए। उपराष्ट्रपति ने कहा कि राष्ट्रीय आंदोलन के साथ मन्नाथ पद्मनाभन का जुड़ाव इन आदर्शों के प्रति उनकी प्रतिबद्धता को और अधिक दर्शाता है। उन्होंने कहा कि महात्मा गांधी के साथ-साथ, मन्नाथ पद्मनाभन ने सामाजिक रूप से वंचित लोगों के हितों की रक्षा करने में महत्वपूर्ण भूमिका निभाई। श्री राधाकृष्णन ने ऐतिहासिक &#8216;वायकोम सत्याग्रह&#8217; में उनकी सक्रिय भागीदारी पर भी उल्&#x200d;लेख किया। उन्&#x200d;होंने इसे भारत के समाज सुधार आंदोलन के सबसे महत्वपूर्ण अध्यायों में से एक बताया। इस अवसर पर, उपराष्ट्रपति सी. पी. राधाकृष्णन ने &#8216;एक पेड़ मां के नाम&#8217; अभियान के तहत एक पौधा भी लगाया। इस अवसर पर केंद्रीय राज्य मंत्री सुरेश गोपी, नायर सर्विस सोसायटी-एनएसएस दिल्ली के अध्यक्ष एम. के. जी. पिल्लई, एनएसएस दिल्ली के महासचिव एम. डी. जयप्रकाश और अन्य गणमान्य अतिथि उपस्थित थे।",
+        "title": "भारत ने ओमान तट के पास वाणिज्यिक पोत पर हमले के बाद पश्चिम एशिया क्षेत्र में तुरंत तनाव कम करने का आह्वान किया",
+        "summary": "भारत ने ओमान तट के पास भारतीय चालक दल के सदस्यों को ले जा रहे वाणिज्यिक पोत जी.एफ.एस. गैलेक्सी पर हुए हमले के बाद पश्चिम एशिया में तनाव को तत्काल कम करने की अपील दोहराई है। विदेश मंत्रालय ने हमले की निंदा करते हुए कहा कि पोत पर सवार 11 भारतीय नागरिकों में से 10 […]",
+        "article": "भारत ने ओमान तट के पास भारतीय चालक दल के सदस्यों को ले जा रहे वाणिज्यिक पोत जी.एफ.एस. गैलेक्सी पर हुए हमले के बाद पश्चिम एशिया में तनाव को तत्काल कम करने की अपील दोहराई है। विदेश मंत्रालय ने हमले की निंदा करते हुए कहा कि पोत पर सवार 11 भारतीय नागरिकों में से 10 को अब तक बचा लिया गया है और एक भारतीय नागरिक लापता है। मंत्रालय ने कहा कि ओमान स्थित भारतीय दूतावास स्थिति पर कड़ी नजर रख रहा है और ओमान के अधिकारियों के साथ जारी खोज तथा बचाव अभियान में सक्रिय रूप से समन्वय कर रहा है। भारत ने ओमान के अधिकारियों को उनके सहयोग के लिए धन्यवाद दिया है। भारत ने क्षेत्र में वाणिज्यिक जहाजों पर हमलों की लगातार हो रही घटनाओं पर चिंता व्यक्त की है। भारत ने स्&#x200d;थायी समाधान के लिए जारी कूटनीतिक वार्ता को शीघ्र ही सफल निष्&#x200d;कर्ष तक पहुंचाने का आह्वान किया है, जिससे क्षेत्र में शांति और स्थिरता बहाल की जा सके।",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T10:58:56+00:00",
-        "link": "https://newsonair.gov.in/hi/honouring-the-great-legacy-of-social-reformers-is-the-duty-of-every-citizen-vice-president-c-p-radhakrishnan/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNA6On6bkAExCM3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-12T16:22:40+00:00",
+        "link": "https://newsonair.gov.in/hi/india-called-for-an-immediate-de-escalation-of-tensions-in-the-west-asia-region-following-an-attack-on-a-commercial-vessel-off-the-coast-of-oman/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "केंद्रीय मंत्री पीयूष गोयल 13 से 17 जुलाई तक रहेंगे स्पेन, बेल्जियम और फिनलैंड की यात्रा पर",
-        "summary": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल कल से 17 जुलाई तक स्पेन, बेल्जियम और फिनलैंड की यात्रा पर रहेंगे। इस दौरान वे भारतीय उद्योग जगत के एक उच्चस्तरीय प्रतिनिधिमंडल का नेतृत्व करेंगे। वाणिज्य और उद्योग मंत्रालय ने कहा है कि इस यात्रा का उद्देश्य व्यापार, निवेश, प्रौद्योगिकी, नवाचार और सतत विकास पर विशेष ध्यान […]",
-        "article": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल कल से 17 जुलाई तक स्पेन, बेल्जियम और फिनलैंड की यात्रा पर रहेंगे। इस दौरान वे भारतीय उद्योग जगत के एक उच्चस्तरीय प्रतिनिधिमंडल का नेतृत्व करेंगे। वाणिज्य और उद्योग मंत्रालय ने कहा है कि इस यात्रा का उद्देश्य व्यापार, निवेश, प्रौद्योगिकी, नवाचार और सतत विकास पर विशेष ध्यान देते हुए यूरोप के साथ भारत की आर्थिक साझेदारी को और मजबूत करना है। यात्रा के पहले चरण में श्री गोयल कल स्पेन पहुंचेंगे, जहां वे स्पेन चैंबर ऑफ कॉमर्स और आईसीईएक्स स्पेन ट्रेड एंड इन्वेस्टमेंट के साथ आयोजित एक व्&#x200d;यापारिक बैठक में भाग लेंगे। श्री गोयल 14 और 15 जुलाई को बेल्जियम का दौरा करेंगे। इस दौरान वे थेल्स समूह और सिलॉक्स समूह के शीर्ष नेतृत्व से मुलाकात करेंगे। यात्रा के अंतिम चरण में श्री गोयल 16 और 17 जुलाई को फिनलैंड जाएंगे। वहां वे भारत-फिनलैंड व्&#x200d;यापार बैठक में भाग लेंगे। इस दौरान दूरसंचार, उन्नत विनिर्माण, स्वच्छ ऊर्जा, गतिशीलता और नवाचार के क्षेत्रों में सहयोग की संभावनाओं पर विचार किया जाएगा।",
+        "title": "भारत ने कतर के पूर्व अमीर के निधन पर कल एक दिन का राष्ट्रीय शोक घोषित किया",
+        "summary": "भारत ने कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी के निधन पर श्रद्धांजलि अर्पित करते हुए कल एक दिन का राष्ट्रीय शोक घोषित किया है। इस शोक दिवस पर भारत भर में उन सभी भवनों पर राष्ट्रीय ध्वज आधा झुका रहेगा जहां नियमित रूप से राष्ट्रीय ध्वज फहराया जाता है। इस दिन कोई […]",
+        "article": "भारत ने कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी के निधन पर श्रद्धांजलि अर्पित करते हुए कल एक दिन का राष्ट्रीय शोक घोषित किया है। इस शोक दिवस पर भारत भर में उन सभी भवनों पर राष्ट्रीय ध्वज आधा झुका रहेगा जहां नियमित रूप से राष्ट्रीय ध्वज फहराया जाता है। इस दिन कोई भी आधिकारिक मनोरंजन कार्यक्रम नहीं होगा। प्रधानमंत्री नरेंद्र मोदी ने शेख हमद बिन खलीफा अल-थानी के निधन पर शोक व्यक्त करते हुए कहा कि वे एक दूरदर्शी नेता थे जिन्होंने कतर को विकास और समृद्धि के नए मुकाम तक पहुंचाया। विदेश मंत्रालय ने एक बयान में कहा कि संसदीय कार्य और अल्पसंख्यक मामलों के मंत्री किरेन रिजिजू भारत सरकार की ओर से कतर को शोक संदेश देने के लिए वहां जा रहे हैं।",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T10:34:42+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%aa%e0%a5%80%e0%a4%af%e0%a5%82%e0%a4%b7-%e0%a4%97%e0%a5%8b-27/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/piyush-goyal-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-12T16:17:36+00:00",
+        "link": "https://newsonair.gov.in/hi/india-declared-a-day-of-national-mourning-yesterday-following-the-demise-of-the-former-emir-of-qatar/",
+        "post_id": 1734452,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "केंद्रीय मंत्री शिवराज सिंह चौहान ने पौधारोपण को सतत भविष्य और पर्यावरण संरक्षण के लिए महत्वपूर्ण बताया",
-        "summary": "केन्‍द्रीय मंत्री शिवराज सिंह चौहान ने कहा कि सतत भविष्‍य सुनिश्चित करने तथा पर्यावरण संरक्षण के लिए पौधा रोपण बहुत ही महत्‍वपूर्ण है। नई दिल्‍ली में वृक्ष मित्र और पर्यावरण संरक्षण संकल्‍प कार्यक्रम को संबोधित करते हुए श्री चौहान ने कहा कि आज पूरी दुनिया जलवायु परिवर्तन और धरती का तापमान बढ़ने को लेकर चिंतित […]",
-        "article": "केन्&#x200d;द्रीय मंत्री शिवराज सिंह चौहान ने कहा कि सतत भविष्&#x200d;य सुनिश्चित करने तथा पर्यावरण संरक्षण के लिए पौधा रोपण बहुत ही महत्&#x200d;वपूर्ण है। नई दिल्&#x200d;ली में वृक्ष मित्र और पर्यावरण संरक्षण संकल्&#x200d;प कार्यक्रम को संबोधित करते हुए श्री चौहान ने कहा कि आज पूरी दुनिया जलवायु परिवर्तन और धरती का तापमान बढ़ने को लेकर चिंतित है। उन्&#x200d;होंने कहा कि वर्ष 1880 के बाद समुद्र के बढ़ते तापमान और पिघलते हिमनदों ने वैश्विक समुद्री जल स्&#x200d;तरों को लगभग 20 से 23 सेंटीमीटर तक बढ़ा दिया है। उन्&#x200d;होंने कहा कि धरती का औसत तापमान वर्ष 1900 की तुलना में लगभग डेढ़ डिग्री सेल्सियस तक बढ़ गया है। यह जलवायु परिवर्तन के लिए गंभीर चेतावनी का संकेत है। श्री चौहान ने कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने इस संकट से निपटने के लिए कई पहल की हैं। उन्&#x200d;होंने कहा कि देश में नवीकरणीय ऊर्जा क्षमता में महत्&#x200d;वपूर्ण वृद्धि हुई है। श्री चौहान ने पर्यावरण की रक्षा और संरक्षण के लिए एक पेड़ मां के नाम अभियान और मिशन लाइफ जैसी पहलों का भी उल्&#x200d;लेख किया। उन्&#x200d;होंने कहा कि भारत ने वर्ष 2070 तक शून्&#x200d;य कार्बन उत्&#x200d;सर्जन का लक्ष्&#x200d;य निर्धारित किया है।",
+        "title": "वियतनाम में नौका दुर्घटना में मारे गए 15 भारतीयों के पार्थिव शरीर हो ची मिन्ह शहर पहुंचे। उन्‍हें जल्‍द से जल्‍द भारत लाया जाएगा",
+        "summary": "वियतनाम में भारतीय दूतावास ने आज बताया कि फु क्वोक द्वीप के निकट कल हुई नौका दुर्घटना में जान गंवाने वाले 15 भारतीय नागरिकों के पार्थिव शरीर हो ची मिन्ह सिटी ले जाए जा रहे हैं। सोशल मीडिया पोस्ट में दूतावास ने कहा कि वहां आवश्यक औपचारिकताएं पूरी होने के बाद पार्थिव शरीरों को यथाशीघ्र […]",
+        "article": "वियतनाम में भारतीय दूतावास ने आज बताया कि फु क्वोक द्वीप के निकट कल हुई नौका दुर्घटना में जान गंवाने वाले 15 भारतीय नागरिकों के पार्थिव शरीर हो ची मिन्ह सिटी ले जाए जा रहे हैं। सोशल मीडिया पोस्ट में दूतावास ने कहा कि वहां आवश्यक औपचारिकताएं पूरी होने के बाद पार्थिव शरीरों को यथाशीघ्र भारत भेजा जाएगा। दूतावास ने बताया कि हो ची मिन्ह सिटी स्थित भारतीय महावाणिज्य दूतावास वियतनाम के अधिकारियों के साथ लगातार सम्&#x200d;पर्क बनाए हुए हैं और पार्थिव शरीरों को शीघ्र भारत लाने के लिए हरसंभव सहायता प्रदान कर रहा है। इससे पहले आज दूतावास ने बताया था कि नौका दुर्घटना में घायल 15 भारतीयों को उपचार के बाद अस्पताल से छुट्टी दे दी गई है और वे भारत लौट रहे हैं। दूतावास के अनुसार, गंभीर रूप से घायल दो लोगों में से एक को अस्पताल से छुट्टी मिल गई है और वह भारत लौट रहा है, जबकि दूसरे घायल का वियतनाम के फु क्वोक स्थित अस्पताल में उपचार चल रहा है।",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:42:37+00:00",
-        "link": "https://newsonair.gov.in/hi/shivraj-on-environment/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/shivraj-mp.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गृह मंत्री अमित शाह ने अहमदाबाद में विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास किया",
-        "summary": "केन्‍द्रीय गृह मंत्री अमित शाह ने आज अहमदाबाद में 405 करोड़ रुपये की लागत वाली नगर निगम की कई विकास परियोजनाओं का लोकापर्ण और शिलान्‍यास किया। इस अवसर पर श्री शाह ने एक पेड़ मां के नाम अभियान के अंतर्गत विशाल पौधारोपण अभियान का शुभारंभ भी किया। इस अभियान के तहत आज उनके लोकसभा क्षेत्र […]",
-        "article": "केन्&#x200d;द्रीय गृह मंत्री अमित शाह ने आज अहमदाबाद में 405 करोड़ रुपये की लागत वाली नगर निगम की कई विकास परियोजनाओं का लोकापर्ण और शिलान्&#x200d;यास किया। इस अवसर पर श्री शाह ने एक पेड़ मां के नाम अभियान के अंतर्गत विशाल पौधारोपण अभियान का शुभारंभ भी किया। इस अभियान के तहत आज उनके लोकसभा क्षेत्र गांधीनगर में एक करोड़ 25 लाख से ज़्यादा पौधे लगाए गए। समारोह को संबोधित करते हुए गृह मंत्री ने 2029 के चुनाव तक निर्वाचन क्षेत्रों में पौधे लगाने की गति&#x200d;विधि को 20 प्रतिशत तक बढ़ाने की दीर्घकालि&#x200d;क पर्यावर&#x200d;णीय रूपरेखा का उल्&#x200d;लेख किया। उन्&#x200d;होंने नागरिकों से सोलर रूफटॉप अपनाने का आग्रह किया। गृह मंत्री ने कहा कि बरगद, पीपल, जम्&#x200d;बू और अर्जुन जैसी स्&#x200d;वदेशी प्रजातियों के पौधे शहर के तापमान को पांच प्रतिशत तक कम करने में मददगार होंगे। ये पौधे भविष्&#x200d;य की पीढि़यों के लिए ओजोन परत को सशक्&#x200d;त बनाने तथा जीवन के अनुकूल पर्यावरण सुनिश्चित करने में सहायक होंगे। पर्यावरण को मजबूत बनाने के हिस्&#x200d;से के रूप में ऑक्&#x200d;सीजन के एक सौ एक नए पार्कों का उद्घाटन किया गया तथा उनकी जानकारी को शामिल करते हुए एक समर्पित ई-बुक जारी की गई। गृह मंत्री कल 11वीं इंटरपोल डिजिटल फॉरेंसिक विशेषज्ञ समूह की बैठक का उद्घाटन करेंगे। वे गांधी नगर में राष्&#x200d;ट्रीय फॉरेंसिक विज्ञान विश्&#x200d;वविद्यालय में पहली अंतरराष्&#x200d;ट्रीय जांचकर्ता अपराध प्रतिस्&#x200d;पर्धा का भी उद्घाटन करेंगे।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:35:13+00:00",
-        "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNAtMaSbUAARfPK-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-12T15:20:40+00:00",
+        "link": "https://newsonair.gov.in/hi/vietnam-boat-accident-mortal-remains-of-15-indians-to-be-brought-back-to-india-soon/",
+        "post_id": 1733834,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1341,45 +1377,10 @@ window.VM_NEWS = {
       {
         "title": "आवासन और शहरी कार्य मंत्री मनोहर लाल ने निर्माण क्षेत्र में पर्यावरण अनुकूल तकनीक अपनाने पर बल दिया",
         "summary": "आवासन और शहरी कार्य मंत्री मनोहर लाल ने निर्माण क्षेत्र में पर्यावरण अनुकूल तकनीक अपनाने की आवश्यकता पर बल दिया। नई दिल्ली में केंद्रीय लोक निर्माण विभाग के 172वें स्थापना दिवस के अवसर पर आयोजित समारोह को संबोधित करते हुए केन्‍द्रीय मंत्री ने कहा कि किसी भी भवन या संरचना के निर्माण के दौरान उसकी […]",
-        "article": "आवासन और शहरी कार्य मंत्री मनोहर लाल ने निर्माण क्षेत्र में पर्यावरण अनुकूल तकनीक अपनाने की आवश्यकता पर बल दिया। नई दिल्ली में केंद्रीय लोक निर्माण विभाग के 172वें स्थापना दिवस के अवसर पर आयोजित समारोह को संबोधित करते हुए केन्&#x200d;द्रीय मंत्री ने कहा कि किसी भी भवन या संरचना के निर्माण के दौरान उसकी मजबूती से समझौता नहीं किया जाना चाहिए। उन्होंने केन्&#x200d;द्रीय लोक निर्माण विभाग के अधिकारियों और कर्मचारियों से संगठन की विश्वसनीयता बढ़ाने के लिए पूरी ईमानदारी और नैतिकता के साथ काम करने का आह्वान किया। इस अवसर पर केंद्रीय मंत्री ने उत्तर प्रदेश के गाजियाबाद में राष्ट्रीय लोक निर्माण परिषद के भवन की आधारशिला भी रखी। इस अवसर पर आवासन और शहरी कार्य मंत्रालय के सचिव श्रीनिवास कटिकिथला और केन्&#x200d;द्रीय लोक निर्माण विभाग के महानिदेशक भी उपस्थित थे।",
+        "article": "आवासन और शहरी कार्य मंत्री मनोहर लाल ने निर्माण क्षेत्र में पर्यावरण अनुकूल तकनीक अपनाने की आवश्यकता पर बल दिया। नई दिल्ली में केंद्रीय लोक निर्माण विभाग के 172वें स्थापना दिवस के अवसर पर आयोजित समारोह को संबोधित करते हुए केन्&#x200d;द्रीय मंत्री ने कहा कि किसी भी भवन या संरचना के निर्माण के दौरान उसकी मजबूती से समझौता नहीं किया जाना चाहिए। श्री मनोहर लाल ने कहा कि भारत की बुनियादी ढांचागत आकांक्षाओं के लगातार विस्&#x200d;तार के साथ केन्&#x200d;द्रीय लोक निर्माण विभाग की जिम्&#x200d;मेदारी बढ़ गई है। उन्&#x200d;होंने विभाग से नवाचार को बढ़ावा देने, टिकाऊ निर्माण पद्धतियां अपनाने और गुणवत्ता, स्थायित्व तथा संरचनात्मक मजबूती के उच्चतम मानकों को बनाए रखने के अनुरूप परियोजनाओं को पूरा करने का आह्वान किया है। केंद्रीय मंत्री ने नागरिक केंद्रित अवसंरचना के निर्माण के लिए संकल्प &#8211; गति, पहुंच, नेक नियत, कर्तव्य निष्ठा, प्रौद्योगिकी, लोकहित और प्रसार की भावना के साथ आगे बढ़ने पर भी बल दिया। उन्होंने केन्&#x200d;द्रीय लोक निर्माण विभाग के अधिकारियों और कर्मचारियों से संगठन की विश्वसनीयता बढ़ाने के लिए पूरी ईमानदारी और नैतिकता के साथ काम करने का आह्वान किया। इस अवसर पर केंद्रीय मंत्री ने उत्तर प्रदेश के गाजियाबाद में राष्ट्रीय लोक निर्माण परिषद के भवन की आधारशिला भी रखी। इस अवसर पर आवासन और शहरी कार्य मंत्रालय के सचिव श्रीनिवास कटिकिथला और केन्&#x200d;द्रीय लोक निर्माण विभाग के महानिदेशक भी उपस्थित थे। आवासन और शहरी कार्य मंत्रालय के सचिव श्रीनिवास कटिकिथाला ने देश भर में गुणवत्तापूर्ण सार्वजनिक अवसंरचना के निर्माण में केन्&#x200d;द्रीय लोक निर्माण विभाग के महत्वपूर्ण योगदान की सराहना की। केन्&#x200d;द्रीय लोक निर्माण विभाग के महानिदेशक सतिंदर पाल सिंह ने नवाचार, व्यावसायिकता और परियोजनाओं के समय पर निष्पादन के माध्यम से उच्च गुणवत्ता वाली सार्वजनिक अवसंरचना प्रदान करने के लिए विभाग की प्रतिबद्धता को दोहराया। उन्होंने कहा कि क्षमता निर्माण और कौशल विकास विभाग की प्रमुख प्राथमिकताएं बनी हुई हैं।",
         "date": "2026-07-12",
         "pubDate": "2026-07-12T13:45:46+00:00",
         "link": "https://newsonair.gov.in/hi/housing-and-urban-affairs-minister-manohar-lal-emphasized-the-adoption-of-eco-friendly-technologies-in-the-construction-sector/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम नौका हादसा: 15 भारतीयों के पार्थिव शरीर जल्द भारत लाए जाएंगे",
-        "summary": "वियतनाम में भारतीय दूतावास ने आज बताया कि फु क्वोक द्वीप के निकट कल हुई नौका दुर्घटना में जान गंवाने वाले 15 भारतीय नागरिकों के पार्थिव शरीर हो ची मिन्ह सिटी ले जाए जा रहे हैं। सोशल मीडिया पोस्ट में दूतावास ने कहा कि वहां आवश्यक औपचारिकताएं पूरी होने के बाद पार्थिव शरीरों को यथाशीघ्र […]",
-        "article": "वियतनाम में भारतीय दूतावास ने आज बताया कि फु क्वोक द्वीप के निकट कल हुई नौका दुर्घटना में जान गंवाने वाले 15 भारतीय नागरिकों के पार्थिव शरीर हो ची मिन्ह सिटी ले जाए जा रहे हैं। सोशल मीडिया पोस्ट में दूतावास ने कहा कि वहां आवश्यक औपचारिकताएं पूरी होने के बाद पार्थिव शरीरों को यथाशीघ्र भारत भेजा जाएगा। दूतावास ने बताया कि हो ची मिन्ह सिटी स्थित भारतीय महावाणिज्य दूतावास वियतनाम के अधिकारियों के साथ लगातार सम्&#x200d;पर्क बनाए हुए हैं और पार्थिव शरीरों को शीघ्र भारत लाने के लिए हरसंभव सहायता प्रदान कर रहा है। इससे पहले आज दूतावास ने बताया था कि नौका दुर्घटना में घायल 15 भारतीयों को उपचार के बाद अस्पताल से छुट्टी दे दी गई है और वे भारत लौट रहे हैं। दूतावास के अनुसार, गंभीर रूप से घायल दो लोगों में से एक को अस्पताल से छुट्टी मिल गई है और वह भारत लौट रहा है, जबकि दूसरे घायल का वियतनाम के फु क्वोक स्थित अस्पताल में उपचार चल रहा है।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T10:50:40+00:00",
-        "link": "https://newsonair.gov.in/hi/vietnam-boat-accident-mortal-remains-of-15-indians-to-be-brought-back-to-india-soon/",
-        "post_id": 1733834,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ओमान तट के पास वाणिज्यिक पोत पर हमले में 10 भारतीय सुरक्षित बचाए गए, एक अब भी लापता",
-        "summary": "भारत ने आज ओमान तट के पास वाणिज्यिक पोत जी.एफ.एस गैलेक्सी पर हुए हमले की कड़ी निंदा की है। विदेश मंत्रालय ने एक बयान में कहा कि पोत पर सवार 11 भारतीयों में से 10 को सुरक्षित बचा लिया गया है, जबकि एक भारतीय अब भी लापता है। मंत्रालय ने कहा कि ओमान में भारतीय […]",
-        "article": "भारत ने आज ओमान तट के पास वाणिज्यिक पोत जी.एफ.एस गैलेक्सी पर हुए हमले की कड़ी निंदा की है। विदेश मंत्रालय ने एक बयान में कहा कि पोत पर सवार 11 भारतीयों में से 10 को सुरक्षित बचा लिया गया है, जबकि एक भारतीय अब भी लापता है। मंत्रालय ने कहा कि ओमान में भारतीय दूतावास स्थिति पर लगातार नजर बनाए हुए है और जारी राहत तथा बचाव अभियान में ओमान के अधिकारियों के साथ समन्वय कर रहा है। भारत ने इस सहायता के लिए ओमान की सरकार का आभार व्यक्त किया है। विदेश मंत्रालय ने कहा कि क्षेत्र में वाणिज्यिक जहाजों और नागरिक बुनियादी ढांचे को निशाना बनाया जाना बंद होना चाहिए तथा अंतरराष्ट्रीय कानून के अनुरूप अंतरराष्ट्रीय समुद्री मार्गों पर निर्बाध नौवहन और व्यापार जल्द से जल्द बहाल किया जाना चाहिए।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:43:41+00:00",
-        "link": "https://newsonair.gov.in/hi/oman-vessel-attack/",
-        "post_id": 1733595,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ईपीएफओ ने छूट प्राप्त पीएफ ट्रस्ट संचालित प्रतिष्ठानों के लिए माफी योजना-2026 शुरू की",
-        "summary": "कर्मचारी भविष्य निधि संगठन- ईपीएफओ ने माफी योजना-2026 शुरू की है। इसके तहत आयकर अधिनियम, 1961 के अंतर्गत मान्यता प्राप्त छूट के साथ भविष्य निधि ट्रस्ट संचालित करने वाले प्रतिष्ठानों को अपनी स्थिति नियमित करने का एकमुश्त अवसर प्रदान किया गया है। श्रम और रोजगार मंत्रालय ने कहा है कि यह योजना छह महीने […]",
-        "article": "कर्मचारी भविष्य निधि संगठन- ईपीएफओ ने माफी योजना-2026 शुरू की है। इसके तहत आयकर अधिनियम, 1961 के अंतर्गत मान्यता प्राप्त छूट के साथ भविष्य निधि ट्रस्ट संचालित करने वाले प्रतिष्ठानों को अपनी स्थिति नियमित करने का एकमुश्त अवसर प्रदान किया गया है। श्रम और रोजगार मंत्रालय ने कहा है कि यह योजना छह महीने की अवधि तक लागू रहेगी। यह योजना उन प्रतिष्ठानों पर लागू होगी, जो आयकर अधिनियम, 1961 के अंतर्गत मान्यता प्राप्त भविष्य निधि ट्रस्ट का संचालन कर रहे हैं। मंत्रालय के अनुसार, पात्र प्रतिष्ठानों को संबंधित क्षेत्रीय कार्यालय को ई-मेल के माध्यम से औपचारिक आवेदन प्रस्तुत करना होगा। छूट प्राप्त भविष्य निधि एक नियोक्ता-प्रबंधित पीएफ योजना है जो अपने भविष्य निधि योगदान को सीधे ईपीएफओ में जमा करने के बजाय एक निजी ट्रस्ट के माध्यम से आंतरिक रूप से संचालित करती है।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:39:45+00:00",
-        "link": "https://newsonair.gov.in/hi/epfo-amnesty-scheme/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1387,6 +1388,50 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "शिलांग में कल से नेक्स्ट जेनरेशन प्रशासनिक एवं ई-गवर्नेंस सुधार पर राष्ट्रीय सम्मेलन",
+        "summary": "प्रशासनिक सुधार और लोक शिकायत विभाग मेघालय सरकार के सहयोग से कल शिलांग में &#8220;नेक्स्ट जेनरेशन प्रशासनिक एवं ई-गवर्नेंस सुधार&#8221; विषय पर दो दिवसीय राष्ट्रीय सम्मेलन का आयोजन कर रहा है। केंद्रीय मंत्री डॉ. जितेंद्र सिंह और मेघालय के मुख्यमंत्री कॉनराड संगमा इस सम्मेलन के उद्घाटन सत्र को संबोधित करेंगे। यह सम्मेलन देश भर के […]",
+        "article": "प्रशासनिक सुधार और लोक शिकायत विभाग मेघालय सरकार के सहयोग से कल शिलांग में &#8220;नेक्स्ट जेनरेशन प्रशासनिक एवं ई-गवर्नेंस सुधार&#8221; विषय पर दो दिवसीय राष्ट्रीय सम्मेलन का आयोजन कर रहा है। केंद्रीय मंत्री डॉ. जितेंद्र सिंह और मेघालय के मुख्यमंत्री कॉनराड संगमा इस सम्मेलन के उद्घाटन सत्र को संबोधित करेंगे। यह सम्मेलन देश भर के नीति निर्माताओं, प्रशासकों, प्रौद्योगिकीविदों और शासन विशेषज्ञों को लोक प्रशासन और डिजिटल शासन के भविष्य पर विचार-विमर्श करने के लिए एक साथ लाएगा।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T16:40:24+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b6%e0%a4%bf%e0%a4%b2%e0%a4%be%e0%a4%82%e0%a4%97-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%95%e0%a4%b2-%e0%a4%b8%e0%a5%87-%e0%a4%a8%e0%a5%87%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a5%8d%e0%a4%9f-%e0%a4%9c/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-3-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "नागपुर में तीसरी ब्रिक्स परिवहन मंत्रियों की बैठक का समापन",
+        "summary": "भारत की ब्रिक्स अध्यक्षता 2026 के अंतर्गत नागपुर में आयोजित तीसरी ब्रिक्स परिवहन मंत्रियों की बैठक का आज समापन हुआ। चार दिवसीय यह बैठक 9 जुलाई को शुरू हुई थी। इसका समापन मंत्रिस्तरीय घोषणापत्र को सर्वसम्मति से अपनाने के साथ हुआ, जिसमें सतत परिवहन, रसद, परिवहन में कार्बन उत्सर्जन कम करना, सतत विमानन ईंधन, शहरी […]",
+        "article": "भारत की ब्रिक्स अध्यक्षता 2026 के अंतर्गत नागपुर में आयोजित तीसरी ब्रिक्स परिवहन मंत्रियों की बैठक का आज समापन हुआ। चार दिवसीय यह बैठक 9 जुलाई को शुरू हुई थी। इसका समापन मंत्रिस्तरीय घोषणापत्र को सर्वसम्मति से अपनाने के साथ हुआ, जिसमें सतत परिवहन, रसद, परिवहन में कार्बन उत्सर्जन कम करना, सतत विमानन ईंधन, शहरी गतिशीलता, चक्रीय अवसंरचना और रेलवे अनुसंधान सहित विभिन्न क्षेत्रों में ब्रिक्स देशों के बीच सहयोग की रूपरेखा प्रस्तुत की गई है। केंद्रीय सड़क परिवहन मंत्री नितिन गडकरी ने कल बैठक की अध्यक्षता की। उन्&#x200d;होंने इसके लिए सभी प्रतिभागी प्रतिनिधिमंडलों को धन्यवाद दिया। इस बैठक से पहले 9 और 10 जुलाई को ब्रिक्स परिवहन कार्य समूह के वरिष्ठ अधिकारियों की तीसरी बैठक आयोजित की गई थी, जिसमें एजेंडा के परिणाम और मंत्रिस्तरीय घोषणापत्र को अंतिम रूप दिया गया था। इस चार दिवसीय कार्यक्रम में ब्रिक्स सदस्य देशों के परिवहन मंत्रियों, वरिष्ठ अधिकारियों और तकनीकी विशेषज्ञों ने भाग लिया।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T16:29:23+00:00",
+        "link": "https://newsonair.gov.in/hi/conclusion-of-the-3rd-brics-transport-ministers-meeting-in-nagpur/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNCeoYwbsAAR7r0-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी 26 जुलाई को ‘मन की बात’ कार्यक्रम में देशवासियों को करेंगे संबोधित",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी इस महीने की 26 तारीख को आकाशवाणी के मासिक रेडियो कार्यक्रम &#8216;मन की बात&#8217; में देश और विदेश के लोगों से अपने विचार साझा करेंगे। यह इस कार्यक्रम का 136वां एपिसोड होगा। श्रोता टोल-फ्री नंबर 1800-11-7800 पर कार्यक्रम के लिए अपने विचार और सुझाव भेज सकते हैं। वे नरेंद्र मोदी ऐप या […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी इस महीने की 26 तारीख को आकाशवाणी के मासिक रेडियो कार्यक्रम &#8216;मन की बात&#8217; में देश और विदेश के लोगों से अपने विचार साझा करेंगे। यह इस कार्यक्रम का 136वां एपिसोड होगा। श्रोता टोल-फ्री नंबर 1800-11-7800 पर कार्यक्रम के लिए अपने विचार और सुझाव भेज सकते हैं। वे नरेंद्र मोदी ऐप या MyGov Open Forum के माध्यम से भी ऑनलाइन अपने सुझाव दे सकते हैं। नागरिक 1 9 2 2 नंबर पर मिस्ड कॉल देकर और एसएमएस में प्राप्त लिंक का अनुसरण करके सीधे प्रधानमंत्री को अपने सुझाव भेज सकते हैं। आगामी एपिसोड के लिए सुझाव इस महीने की 24 तारीख तक स्वीकार किए जाएंगे।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:58:08+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-will-address-the-nation-in-the-mann-ki-baat-programme-on-july-26/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNCOHaeaMAACp2I.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "मुख्य न्यायाधीश न्यायमूर्ति सूर्यकांत ने गुरुग्राम में ‘टावर ऑफ जस्टिस’ का उद्घाटन किया",
+        "summary": "भारत के मुख्य न्यायाधीश न्यायमूर्ति सूर्यकांत ने आज गुरुग्राम में नवीन न्यायिक न्यायालय परिसर &#8216;टावर ऑफ़ जस्टिस&#8217; का उद्घाटन किया। इस अवसर पर हरियाणा के मुख्यमंत्री नायब सिंह सैनी, केंद्रीय आवासन एवं शहरी कार्य मंत्री मनोहर लाल, केंद्रीय विधि एवं न्याय राज्य मंत्री अर्जुन राम मेघवाल, और केंद्रीय राज्य मंत्री राव इंद्रजीत सिंह उपस्थित रहे। […]",
+        "article": "भारत के मुख्य न्यायाधीश न्यायमूर्ति सूर्यकांत ने आज गुरुग्राम में नवीन न्यायिक न्यायालय परिसर &#8216;टावर ऑफ़ जस्टिस&#8217; का उद्घाटन किया। इस अवसर पर हरियाणा के मुख्यमंत्री नायब सिंह सैनी, केंद्रीय आवासन एवं शहरी कार्य मंत्री मनोहर लाल, केंद्रीय विधि एवं न्याय राज्य मंत्री अर्जुन राम मेघवाल, और केंद्रीय राज्य मंत्री राव इंद्रजीत सिंह उपस्थित रहे। एक रिपोर्ट: कार्यक्रम को सम्बोधित करते हुए न्यायमूर्ति सूर्यकांत ने कहा कि भविष्य की ज़रुरत को ध्यान में रखते हुए इस भवन को आधुनिक तकनीक और सुविधाओं से सुसज्जित किया गया है, जिससे न्याय मिलने की गति में तेज़ी आएगी। उन्होंने आगे बताया कि परिसर में महिला अधिवक्ताओं के लिए एक विशेष बार रूम भी बनाया गया है, जिससे उन्हें अपने कार्यों को करने में और अधिक सुविधा होगी। वहीं, श्री सैनी ने कहा कि यह भवन संविधान की मर्यादा, न्यायपालिका पर जनता के विश्वास और आधुनिक न्याय व्यवस्था का प्रतीक है। मुख्यमंत्री ने विश्वास व्यक्त किया कि अत्याधुनिक तकनीक से सुसज्जित यह नया परिसर मामलों के त्वरित निपटारे में सहायक होगा तथा न्याय को आम नागरिक के लिए और अधिक सुलभ बनाएगा। केंद्रीय आवासन एवं शहरी कार्य मंत्री मनोहर लाल ने कहा कि यह भवन सुलभ, व्यवस्थित और आधुनिक न्याय व्यवस्था की दिशा में एक महत्वपूर्ण पहल है। उन्होंने विश्वास व्यक्त किया कि यह नवीन न्यायालय परिसर नागरिकों को त्वरित और सुगम न्याय उपलब्ध कराने में मील का पत्थर सिद्ध होगा। वहीं, केंद्रीय विधि एवं न्याय राज्य मंत्री अर्जुन राम मेघवाल ने कहा कि प्रधानमंत्री नरेंद्र मोदी के नेतृत्व में रिफार्म, परफॉर्म और ट्रांसफॉर्म के मंत्र को आत्मसात करते हुए भारत की न्याय व्यवस्था को अधिक सुलभ, पारदर्शी, तकनीक-सक्षम और नागरिक-केंद्रित बनाया जा रहा है। उन्होंने आशा व्यक्त करते हुए कहा कि गुरुग्राम का टॉवर ऑफ जस्टिस न्यायिक इन्फ़्रास्ट्रक्चर को नई मजबूती प्रदान करते हुए आमजन को त्वरित और सुलभ न्याय सुनिश्चित करने की दिशा में एक महत्वपूर्ण मील का पत्थर सिद्ध होगा। इस न्&#x200d;यायालय परिसर के उद्घाटन से लोगों को समयबद्ध और त्&#x200d;वरित न्&#x200d;याय सुनिश्चित होगा। सक़लैन अख्तर के साथ, दीपेंद्र कुमार, आकाशवाणी समाचार, दिल्ली।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:43:37+00:00",
+        "link": "https://newsonair.gov.in/hi/chief-justice-surya-kant-inaugurated-the-tower-of-justice-in-gurugram/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNBb2wobkAALsyp.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "सरकार ने इथेनॉल मिश्रित पेट्रोल से वाहन के ईंधन टैंक में समस्या वाली फर्जी तस्वीर का किया खंडन",
         "summary": "सरकार ने सोशल मीडिया पर चल रही उस फर्जी तस्वीर का खंडन किया है जिसमें दावा किया गया है कि इथेनॉल मिश्रित पेट्रोल से वाहन के ईंधन टैंक में समस्या हो सकती है। पत्र सूचना कार्यालय की तथ्य जांच इकाई ने इस दावे को झूठा बताया है। कार्यालय ने कहा कि पेट्रोलियम और प्राकृतिक गैस […]",
         "article": "सरकार ने सोशल मीडिया पर चल रही उस फर्जी तस्वीर का खंडन किया है जिसमें दावा किया गया है कि इथेनॉल मिश्रित पेट्रोल से वाहन के ईंधन टैंक में समस्या हो सकती है। पत्र सूचना कार्यालय की तथ्य जांच इकाई ने इस दावे को झूठा बताया है। कार्यालय ने कहा कि पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने स्पष्ट किया है कि तेल विपणन कंपनियों द्वारा आपूर्ति किया जाने वाला ई20 पेट्रोल भारतीय मानक ब्यूरो के निर्धारित मानकों के अनुरूप है। मंत्रालय ने कहा कि निर्धारित मानकों के अनुरूप होने पर इथेनॉल और पेट्रोल पूरी तरह से घुलनशील होते हैं। मंत्रालय ने यह भी आश्वासन दिया कि भारत में आपूर्ति किया जाने वाला इथेनॉल मिश्रित पेट्रोल उच्च गुणवत्ता मानकों का पालन करता है और उपभोक्ताओं को उपलब्ध कराए जाने से पहले इसका गहन परीक्षण किया जाता है।",
@@ -1398,47 +1443,38 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "समाज सुधारकों की महान विरासत का सम्मान करना हर नागरिक का कर्तव्य: उपराष्ट्रपति सी. पी. राधाकृष्णन",
-        "summary": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज कहा कि देश के समाज सुधारकों की महान विरासत का सम्मान करना और उसे बनाए रखना हर नागरिक का कर्तव्य है। श्री राधाकृष्णन ने नई दिल्ली के द्वारका में मन्नम इंटरनेशनल सेंटर में समाज सुधारक और स्वतंत्रता सेनानी मन्नाथ पद्मनाभन की प्रतिमा का अनावरण करने और &#8216;मन्नम स्मृति मंडपम&#8217; […]",
-        "article": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज कहा कि देश के समाज सुधारकों की महान विरासत का सम्मान करना और उसे बनाए रखना हर नागरिक का कर्तव्य है। श्री राधाकृष्णन ने नई दिल्ली के द्वारका में मन्नम इंटरनेशनल सेंटर में समाज सुधारक और स्वतंत्रता सेनानी मन्नाथ पद्मनाभन की प्रतिमा का अनावरण करने और &#8216;मन्नम स्मृति मंडपम&#8217; का उद्घाटन के अवसर पर यह बात कही। सभा को संबोधित करते हुए, उपराष्ट्रपति ने सामाजिक न्याय, समानता, शिक्षा और सामुदायिक सेवा के प्रति मन्नाथ पद्मनाभन की जीवन भर की प्रतिबद्धता का उल्&#x200d;लेख किया। उन्होंने कहा कि मन्नाथ पद्मनाभन के आदर्श एक समावेशी और सौहार्दपूर्ण समाज के निर्माण की दिशा में देश को प्रेरित करते रहते हैं। मन्नाथ पद्मनाभन को आधुनिक भारत के महानतम समाज सुधारकों में से एक बताते हुए श्री राधाकृष्णन ने कहा कि उनका जीवन शिक्षा, समाज सुधार, आत्मनिर्भरता और सामुदायिक सेवा के माध्यम से समाज के उत्थान के लिए समर्पित था। उन्होंने कहा कि जब समाज सुधार की अवधारणा को शायद ही समझा जाता था और कई लोग बिना किसी सहारे के कष्ट झेल रहे थे, उन्&#x200d;ही दिनों मन्नाथ पद्मनाभन समाज की सेवा के लिए आगे आए। उपराष्ट्रपति ने कहा कि राष्ट्रीय आंदोलन के साथ मन्नाथ पद्मनाभन का जुड़ाव इन आदर्शों के प्रति उनकी प्रतिबद्धता को और अधिक दर्शाता है। उन्होंने कहा कि महात्मा गांधी के साथ-साथ, मन्नाथ पद्मनाभन ने सामाजिक रूप से वंचित लोगों के हितों की रक्षा करने में महत्वपूर्ण भूमिका निभाई। श्री राधाकृष्णन ने ऐतिहासिक &#8216;वायकोम सत्याग्रह&#8217; में उनकी सक्रिय भागीदारी पर भी उल्&#x200d;लेख किया। उन्&#x200d;होंने इसे भारत के समाज सुधार आंदोलन के सबसे महत्वपूर्ण अध्यायों में से एक बताया। इस अवसर पर, उपराष्ट्रपति सी. पी. राधाकृष्णन ने &#8216;एक पेड़ मां के नाम&#8217; अभियान के तहत एक पौधा भी लगाया। इस अवसर पर केंद्रीय राज्य मंत्री सुरेश गोपी, नायर सर्विस सोसायटी-एनएसएस दिल्ली के अध्यक्ष एम. के. जी. पिल्लई, एनएसएस दिल्ली के महासचिव एम. डी. जयप्रकाश और अन्य गणमान्य अतिथि उपस्थित थे।",
+        "title": "भारत ने ओमान तट के पास वाणिज्यिक पोत पर हमले के बाद पश्चिम एशिया क्षेत्र में तुरंत तनाव कम करने का आह्वान किया",
+        "summary": "भारत ने ओमान तट के पास भारतीय चालक दल के सदस्यों को ले जा रहे वाणिज्यिक पोत जी.एफ.एस. गैलेक्सी पर हुए हमले के बाद पश्चिम एशिया में तनाव को तत्काल कम करने की अपील दोहराई है। विदेश मंत्रालय ने हमले की निंदा करते हुए कहा कि पोत पर सवार 11 भारतीय नागरिकों में से 10 […]",
+        "article": "भारत ने ओमान तट के पास भारतीय चालक दल के सदस्यों को ले जा रहे वाणिज्यिक पोत जी.एफ.एस. गैलेक्सी पर हुए हमले के बाद पश्चिम एशिया में तनाव को तत्काल कम करने की अपील दोहराई है। विदेश मंत्रालय ने हमले की निंदा करते हुए कहा कि पोत पर सवार 11 भारतीय नागरिकों में से 10 को अब तक बचा लिया गया है और एक भारतीय नागरिक लापता है। मंत्रालय ने कहा कि ओमान स्थित भारतीय दूतावास स्थिति पर कड़ी नजर रख रहा है और ओमान के अधिकारियों के साथ जारी खोज तथा बचाव अभियान में सक्रिय रूप से समन्वय कर रहा है। भारत ने ओमान के अधिकारियों को उनके सहयोग के लिए धन्यवाद दिया है। भारत ने क्षेत्र में वाणिज्यिक जहाजों पर हमलों की लगातार हो रही घटनाओं पर चिंता व्यक्त की है। भारत ने स्&#x200d;थायी समाधान के लिए जारी कूटनीतिक वार्ता को शीघ्र ही सफल निष्&#x200d;कर्ष तक पहुंचाने का आह्वान किया है, जिससे क्षेत्र में शांति और स्थिरता बहाल की जा सके।",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T10:58:56+00:00",
-        "link": "https://newsonair.gov.in/hi/honouring-the-great-legacy-of-social-reformers-is-the-duty-of-every-citizen-vice-president-c-p-radhakrishnan/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNA6On6bkAExCM3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-12T16:22:40+00:00",
+        "link": "https://newsonair.gov.in/hi/india-called-for-an-immediate-de-escalation-of-tensions-in-the-west-asia-region-following-an-attack-on-a-commercial-vessel-off-the-coast-of-oman/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "केंद्रीय मंत्री पीयूष गोयल 13 से 17 जुलाई तक रहेंगे स्पेन, बेल्जियम और फिनलैंड की यात्रा पर",
-        "summary": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल कल से 17 जुलाई तक स्पेन, बेल्जियम और फिनलैंड की यात्रा पर रहेंगे। इस दौरान वे भारतीय उद्योग जगत के एक उच्चस्तरीय प्रतिनिधिमंडल का नेतृत्व करेंगे। वाणिज्य और उद्योग मंत्रालय ने कहा है कि इस यात्रा का उद्देश्य व्यापार, निवेश, प्रौद्योगिकी, नवाचार और सतत विकास पर विशेष ध्यान […]",
-        "article": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल कल से 17 जुलाई तक स्पेन, बेल्जियम और फिनलैंड की यात्रा पर रहेंगे। इस दौरान वे भारतीय उद्योग जगत के एक उच्चस्तरीय प्रतिनिधिमंडल का नेतृत्व करेंगे। वाणिज्य और उद्योग मंत्रालय ने कहा है कि इस यात्रा का उद्देश्य व्यापार, निवेश, प्रौद्योगिकी, नवाचार और सतत विकास पर विशेष ध्यान देते हुए यूरोप के साथ भारत की आर्थिक साझेदारी को और मजबूत करना है। यात्रा के पहले चरण में श्री गोयल कल स्पेन पहुंचेंगे, जहां वे स्पेन चैंबर ऑफ कॉमर्स और आईसीईएक्स स्पेन ट्रेड एंड इन्वेस्टमेंट के साथ आयोजित एक व्&#x200d;यापारिक बैठक में भाग लेंगे। श्री गोयल 14 और 15 जुलाई को बेल्जियम का दौरा करेंगे। इस दौरान वे थेल्स समूह और सिलॉक्स समूह के शीर्ष नेतृत्व से मुलाकात करेंगे। यात्रा के अंतिम चरण में श्री गोयल 16 और 17 जुलाई को फिनलैंड जाएंगे। वहां वे भारत-फिनलैंड व्&#x200d;यापार बैठक में भाग लेंगे। इस दौरान दूरसंचार, उन्नत विनिर्माण, स्वच्छ ऊर्जा, गतिशीलता और नवाचार के क्षेत्रों में सहयोग की संभावनाओं पर विचार किया जाएगा।",
+        "title": "भारत ने कतर के पूर्व अमीर के निधन पर कल एक दिन का राष्ट्रीय शोक घोषित किया",
+        "summary": "भारत ने कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी के निधन पर श्रद्धांजलि अर्पित करते हुए कल एक दिन का राष्ट्रीय शोक घोषित किया है। इस शोक दिवस पर भारत भर में उन सभी भवनों पर राष्ट्रीय ध्वज आधा झुका रहेगा जहां नियमित रूप से राष्ट्रीय ध्वज फहराया जाता है। इस दिन कोई […]",
+        "article": "भारत ने कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी के निधन पर श्रद्धांजलि अर्पित करते हुए कल एक दिन का राष्ट्रीय शोक घोषित किया है। इस शोक दिवस पर भारत भर में उन सभी भवनों पर राष्ट्रीय ध्वज आधा झुका रहेगा जहां नियमित रूप से राष्ट्रीय ध्वज फहराया जाता है। इस दिन कोई भी आधिकारिक मनोरंजन कार्यक्रम नहीं होगा। प्रधानमंत्री नरेंद्र मोदी ने शेख हमद बिन खलीफा अल-थानी के निधन पर शोक व्यक्त करते हुए कहा कि वे एक दूरदर्शी नेता थे जिन्होंने कतर को विकास और समृद्धि के नए मुकाम तक पहुंचाया। विदेश मंत्रालय ने एक बयान में कहा कि संसदीय कार्य और अल्पसंख्यक मामलों के मंत्री किरेन रिजिजू भारत सरकार की ओर से कतर को शोक संदेश देने के लिए वहां जा रहे हैं।",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T10:34:42+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%aa%e0%a5%80%e0%a4%af%e0%a5%82%e0%a4%b7-%e0%a4%97%e0%a5%8b-27/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/piyush-goyal-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-12T16:17:36+00:00",
+        "link": "https://newsonair.gov.in/hi/india-declared-a-day-of-national-mourning-yesterday-following-the-demise-of-the-former-emir-of-qatar/",
+        "post_id": 1734452,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "केंद्रीय मंत्री शिवराज सिंह चौहान ने पौधारोपण को सतत भविष्य और पर्यावरण संरक्षण के लिए महत्वपूर्ण बताया",
-        "summary": "केन्‍द्रीय मंत्री शिवराज सिंह चौहान ने कहा कि सतत भविष्‍य सुनिश्चित करने तथा पर्यावरण संरक्षण के लिए पौधा रोपण बहुत ही महत्‍वपूर्ण है। नई दिल्‍ली में वृक्ष मित्र और पर्यावरण संरक्षण संकल्‍प कार्यक्रम को संबोधित करते हुए श्री चौहान ने कहा कि आज पूरी दुनिया जलवायु परिवर्तन और धरती का तापमान बढ़ने को लेकर चिंतित […]",
-        "article": "केन्&#x200d;द्रीय मंत्री शिवराज सिंह चौहान ने कहा कि सतत भविष्&#x200d;य सुनिश्चित करने तथा पर्यावरण संरक्षण के लिए पौधा रोपण बहुत ही महत्&#x200d;वपूर्ण है। नई दिल्&#x200d;ली में वृक्ष मित्र और पर्यावरण संरक्षण संकल्&#x200d;प कार्यक्रम को संबोधित करते हुए श्री चौहान ने कहा कि आज पूरी दुनिया जलवायु परिवर्तन और धरती का तापमान बढ़ने को लेकर चिंतित है। उन्&#x200d;होंने कहा कि वर्ष 1880 के बाद समुद्र के बढ़ते तापमान और पिघलते हिमनदों ने वैश्विक समुद्री जल स्&#x200d;तरों को लगभग 20 से 23 सेंटीमीटर तक बढ़ा दिया है। उन्&#x200d;होंने कहा कि धरती का औसत तापमान वर्ष 1900 की तुलना में लगभग डेढ़ डिग्री सेल्सियस तक बढ़ गया है। यह जलवायु परिवर्तन के लिए गंभीर चेतावनी का संकेत है। श्री चौहान ने कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने इस संकट से निपटने के लिए कई पहल की हैं। उन्&#x200d;होंने कहा कि देश में नवीकरणीय ऊर्जा क्षमता में महत्&#x200d;वपूर्ण वृद्धि हुई है। श्री चौहान ने पर्यावरण की रक्षा और संरक्षण के लिए एक पेड़ मां के नाम अभियान और मिशन लाइफ जैसी पहलों का भी उल्&#x200d;लेख किया। उन्&#x200d;होंने कहा कि भारत ने वर्ष 2070 तक शून्&#x200d;य कार्बन उत्&#x200d;सर्जन का लक्ष्&#x200d;य निर्धारित किया है।",
+        "title": "वियतनाम में नौका दुर्घटना में मारे गए 15 भारतीयों के पार्थिव शरीर हो ची मिन्ह शहर पहुंचे। उन्‍हें जल्‍द से जल्‍द भारत लाया जाएगा",
+        "summary": "वियतनाम में भारतीय दूतावास ने आज बताया कि फु क्वोक द्वीप के निकट कल हुई नौका दुर्घटना में जान गंवाने वाले 15 भारतीय नागरिकों के पार्थिव शरीर हो ची मिन्ह सिटी ले जाए जा रहे हैं। सोशल मीडिया पोस्ट में दूतावास ने कहा कि वहां आवश्यक औपचारिकताएं पूरी होने के बाद पार्थिव शरीरों को यथाशीघ्र […]",
+        "article": "वियतनाम में भारतीय दूतावास ने आज बताया कि फु क्वोक द्वीप के निकट कल हुई नौका दुर्घटना में जान गंवाने वाले 15 भारतीय नागरिकों के पार्थिव शरीर हो ची मिन्ह सिटी ले जाए जा रहे हैं। सोशल मीडिया पोस्ट में दूतावास ने कहा कि वहां आवश्यक औपचारिकताएं पूरी होने के बाद पार्थिव शरीरों को यथाशीघ्र भारत भेजा जाएगा। दूतावास ने बताया कि हो ची मिन्ह सिटी स्थित भारतीय महावाणिज्य दूतावास वियतनाम के अधिकारियों के साथ लगातार सम्&#x200d;पर्क बनाए हुए हैं और पार्थिव शरीरों को शीघ्र भारत लाने के लिए हरसंभव सहायता प्रदान कर रहा है। इससे पहले आज दूतावास ने बताया था कि नौका दुर्घटना में घायल 15 भारतीयों को उपचार के बाद अस्पताल से छुट्टी दे दी गई है और वे भारत लौट रहे हैं। दूतावास के अनुसार, गंभीर रूप से घायल दो लोगों में से एक को अस्पताल से छुट्टी मिल गई है और वह भारत लौट रहा है, जबकि दूसरे घायल का वियतनाम के फु क्वोक स्थित अस्पताल में उपचार चल रहा है।",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:42:37+00:00",
-        "link": "https://newsonair.gov.in/hi/shivraj-on-environment/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/shivraj-mp.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गृह मंत्री अमित शाह ने अहमदाबाद में विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास किया",
-        "summary": "केन्‍द्रीय गृह मंत्री अमित शाह ने आज अहमदाबाद में 405 करोड़ रुपये की लागत वाली नगर निगम की कई विकास परियोजनाओं का लोकापर्ण और शिलान्‍यास किया। इस अवसर पर श्री शाह ने एक पेड़ मां के नाम अभियान के अंतर्गत विशाल पौधारोपण अभियान का शुभारंभ भी किया। इस अभियान के तहत आज उनके लोकसभा क्षेत्र […]",
-        "article": "केन्&#x200d;द्रीय गृह मंत्री अमित शाह ने आज अहमदाबाद में 405 करोड़ रुपये की लागत वाली नगर निगम की कई विकास परियोजनाओं का लोकापर्ण और शिलान्&#x200d;यास किया। इस अवसर पर श्री शाह ने एक पेड़ मां के नाम अभियान के अंतर्गत विशाल पौधारोपण अभियान का शुभारंभ भी किया। इस अभियान के तहत आज उनके लोकसभा क्षेत्र गांधीनगर में एक करोड़ 25 लाख से ज़्यादा पौधे लगाए गए। समारोह को संबोधित करते हुए गृह मंत्री ने 2029 के चुनाव तक निर्वाचन क्षेत्रों में पौधे लगाने की गति&#x200d;विधि को 20 प्रतिशत तक बढ़ाने की दीर्घकालि&#x200d;क पर्यावर&#x200d;णीय रूपरेखा का उल्&#x200d;लेख किया। उन्&#x200d;होंने नागरिकों से सोलर रूफटॉप अपनाने का आग्रह किया। गृह मंत्री ने कहा कि बरगद, पीपल, जम्&#x200d;बू और अर्जुन जैसी स्&#x200d;वदेशी प्रजातियों के पौधे शहर के तापमान को पांच प्रतिशत तक कम करने में मददगार होंगे। ये पौधे भविष्&#x200d;य की पीढि़यों के लिए ओजोन परत को सशक्&#x200d;त बनाने तथा जीवन के अनुकूल पर्यावरण सुनिश्चित करने में सहायक होंगे। पर्यावरण को मजबूत बनाने के हिस्&#x200d;से के रूप में ऑक्&#x200d;सीजन के एक सौ एक नए पार्कों का उद्घाटन किया गया तथा उनकी जानकारी को शामिल करते हुए एक समर्पित ई-बुक जारी की गई। गृह मंत्री कल 11वीं इंटरपोल डिजिटल फॉरेंसिक विशेषज्ञ समूह की बैठक का उद्घाटन करेंगे। वे गांधी नगर में राष्&#x200d;ट्रीय फॉरेंसिक विज्ञान विश्&#x200d;वविद्यालय में पहली अंतरराष्&#x200d;ट्रीय जांचकर्ता अपराध प्रतिस्&#x200d;पर्धा का भी उद्घाटन करेंगे।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:35:13+00:00",
-        "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNAtMaSbUAARfPK-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-12T15:20:40+00:00",
+        "link": "https://newsonair.gov.in/hi/vietnam-boat-accident-mortal-remains-of-15-indians-to-be-brought-back-to-india-soon/",
+        "post_id": 1733834,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1455,51 +1491,49 @@ window.VM_NEWS = {
       {
         "title": "आवासन और शहरी कार्य मंत्री मनोहर लाल ने निर्माण क्षेत्र में पर्यावरण अनुकूल तकनीक अपनाने पर बल दिया",
         "summary": "आवासन और शहरी कार्य मंत्री मनोहर लाल ने निर्माण क्षेत्र में पर्यावरण अनुकूल तकनीक अपनाने की आवश्यकता पर बल दिया। नई दिल्ली में केंद्रीय लोक निर्माण विभाग के 172वें स्थापना दिवस के अवसर पर आयोजित समारोह को संबोधित करते हुए केन्‍द्रीय मंत्री ने कहा कि किसी भी भवन या संरचना के निर्माण के दौरान उसकी […]",
-        "article": "आवासन और शहरी कार्य मंत्री मनोहर लाल ने निर्माण क्षेत्र में पर्यावरण अनुकूल तकनीक अपनाने की आवश्यकता पर बल दिया। नई दिल्ली में केंद्रीय लोक निर्माण विभाग के 172वें स्थापना दिवस के अवसर पर आयोजित समारोह को संबोधित करते हुए केन्&#x200d;द्रीय मंत्री ने कहा कि किसी भी भवन या संरचना के निर्माण के दौरान उसकी मजबूती से समझौता नहीं किया जाना चाहिए। उन्होंने केन्&#x200d;द्रीय लोक निर्माण विभाग के अधिकारियों और कर्मचारियों से संगठन की विश्वसनीयता बढ़ाने के लिए पूरी ईमानदारी और नैतिकता के साथ काम करने का आह्वान किया। इस अवसर पर केंद्रीय मंत्री ने उत्तर प्रदेश के गाजियाबाद में राष्ट्रीय लोक निर्माण परिषद के भवन की आधारशिला भी रखी। इस अवसर पर आवासन और शहरी कार्य मंत्रालय के सचिव श्रीनिवास कटिकिथला और केन्&#x200d;द्रीय लोक निर्माण विभाग के महानिदेशक भी उपस्थित थे।",
+        "article": "आवासन और शहरी कार्य मंत्री मनोहर लाल ने निर्माण क्षेत्र में पर्यावरण अनुकूल तकनीक अपनाने की आवश्यकता पर बल दिया। नई दिल्ली में केंद्रीय लोक निर्माण विभाग के 172वें स्थापना दिवस के अवसर पर आयोजित समारोह को संबोधित करते हुए केन्&#x200d;द्रीय मंत्री ने कहा कि किसी भी भवन या संरचना के निर्माण के दौरान उसकी मजबूती से समझौता नहीं किया जाना चाहिए। श्री मनोहर लाल ने कहा कि भारत की बुनियादी ढांचागत आकांक्षाओं के लगातार विस्&#x200d;तार के साथ केन्&#x200d;द्रीय लोक निर्माण विभाग की जिम्&#x200d;मेदारी बढ़ गई है। उन्&#x200d;होंने विभाग से नवाचार को बढ़ावा देने, टिकाऊ निर्माण पद्धतियां अपनाने और गुणवत्ता, स्थायित्व तथा संरचनात्मक मजबूती के उच्चतम मानकों को बनाए रखने के अनुरूप परियोजनाओं को पूरा करने का आह्वान किया है। केंद्रीय मंत्री ने नागरिक केंद्रित अवसंरचना के निर्माण के लिए संकल्प &#8211; गति, पहुंच, नेक नियत, कर्तव्य निष्ठा, प्रौद्योगिकी, लोकहित और प्रसार की भावना के साथ आगे बढ़ने पर भी बल दिया। उन्होंने केन्&#x200d;द्रीय लोक निर्माण विभाग के अधिकारियों और कर्मचारियों से संगठन की विश्वसनीयता बढ़ाने के लिए पूरी ईमानदारी और नैतिकता के साथ काम करने का आह्वान किया। इस अवसर पर केंद्रीय मंत्री ने उत्तर प्रदेश के गाजियाबाद में राष्ट्रीय लोक निर्माण परिषद के भवन की आधारशिला भी रखी। इस अवसर पर आवासन और शहरी कार्य मंत्रालय के सचिव श्रीनिवास कटिकिथला और केन्&#x200d;द्रीय लोक निर्माण विभाग के महानिदेशक भी उपस्थित थे। आवासन और शहरी कार्य मंत्रालय के सचिव श्रीनिवास कटिकिथाला ने देश भर में गुणवत्तापूर्ण सार्वजनिक अवसंरचना के निर्माण में केन्&#x200d;द्रीय लोक निर्माण विभाग के महत्वपूर्ण योगदान की सराहना की। केन्&#x200d;द्रीय लोक निर्माण विभाग के महानिदेशक सतिंदर पाल सिंह ने नवाचार, व्यावसायिकता और परियोजनाओं के समय पर निष्पादन के माध्यम से उच्च गुणवत्ता वाली सार्वजनिक अवसंरचना प्रदान करने के लिए विभाग की प्रतिबद्धता को दोहराया। उन्होंने कहा कि क्षमता निर्माण और कौशल विकास विभाग की प्रमुख प्राथमिकताएं बनी हुई हैं।",
         "date": "2026-07-12",
         "pubDate": "2026-07-12T13:45:46+00:00",
         "link": "https://newsonair.gov.in/hi/housing-and-urban-affairs-minister-manohar-lal-emphasized-the-adoption-of-eco-friendly-technologies-in-the-construction-sector/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम नौका हादसा: 15 भारतीयों के पार्थिव शरीर जल्द भारत लाए जाएंगे",
-        "summary": "वियतनाम में भारतीय दूतावास ने आज बताया कि फु क्वोक द्वीप के निकट कल हुई नौका दुर्घटना में जान गंवाने वाले 15 भारतीय नागरिकों के पार्थिव शरीर हो ची मिन्ह सिटी ले जाए जा रहे हैं। सोशल मीडिया पोस्ट में दूतावास ने कहा कि वहां आवश्यक औपचारिकताएं पूरी होने के बाद पार्थिव शरीरों को यथाशीघ्र […]",
-        "article": "वियतनाम में भारतीय दूतावास ने आज बताया कि फु क्वोक द्वीप के निकट कल हुई नौका दुर्घटना में जान गंवाने वाले 15 भारतीय नागरिकों के पार्थिव शरीर हो ची मिन्ह सिटी ले जाए जा रहे हैं। सोशल मीडिया पोस्ट में दूतावास ने कहा कि वहां आवश्यक औपचारिकताएं पूरी होने के बाद पार्थिव शरीरों को यथाशीघ्र भारत भेजा जाएगा। दूतावास ने बताया कि हो ची मिन्ह सिटी स्थित भारतीय महावाणिज्य दूतावास वियतनाम के अधिकारियों के साथ लगातार सम्&#x200d;पर्क बनाए हुए हैं और पार्थिव शरीरों को शीघ्र भारत लाने के लिए हरसंभव सहायता प्रदान कर रहा है। इससे पहले आज दूतावास ने बताया था कि नौका दुर्घटना में घायल 15 भारतीयों को उपचार के बाद अस्पताल से छुट्टी दे दी गई है और वे भारत लौट रहे हैं। दूतावास के अनुसार, गंभीर रूप से घायल दो लोगों में से एक को अस्पताल से छुट्टी मिल गई है और वह भारत लौट रहा है, जबकि दूसरे घायल का वियतनाम के फु क्वोक स्थित अस्पताल में उपचार चल रहा है।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T10:50:40+00:00",
-        "link": "https://newsonair.gov.in/hi/vietnam-boat-accident-mortal-remains-of-15-indians-to-be-brought-back-to-india-soon/",
-        "post_id": 1733834,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ओमान तट के पास वाणिज्यिक पोत पर हमले में 10 भारतीय सुरक्षित बचाए गए, एक अब भी लापता",
-        "summary": "भारत ने आज ओमान तट के पास वाणिज्यिक पोत जी.एफ.एस गैलेक्सी पर हुए हमले की कड़ी निंदा की है। विदेश मंत्रालय ने एक बयान में कहा कि पोत पर सवार 11 भारतीयों में से 10 को सुरक्षित बचा लिया गया है, जबकि एक भारतीय अब भी लापता है। मंत्रालय ने कहा कि ओमान में भारतीय […]",
-        "article": "भारत ने आज ओमान तट के पास वाणिज्यिक पोत जी.एफ.एस गैलेक्सी पर हुए हमले की कड़ी निंदा की है। विदेश मंत्रालय ने एक बयान में कहा कि पोत पर सवार 11 भारतीयों में से 10 को सुरक्षित बचा लिया गया है, जबकि एक भारतीय अब भी लापता है। मंत्रालय ने कहा कि ओमान में भारतीय दूतावास स्थिति पर लगातार नजर बनाए हुए है और जारी राहत तथा बचाव अभियान में ओमान के अधिकारियों के साथ समन्वय कर रहा है। भारत ने इस सहायता के लिए ओमान की सरकार का आभार व्यक्त किया है। विदेश मंत्रालय ने कहा कि क्षेत्र में वाणिज्यिक जहाजों और नागरिक बुनियादी ढांचे को निशाना बनाया जाना बंद होना चाहिए तथा अंतरराष्ट्रीय कानून के अनुरूप अंतरराष्ट्रीय समुद्री मार्गों पर निर्बाध नौवहन और व्यापार जल्द से जल्द बहाल किया जाना चाहिए।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:43:41+00:00",
-        "link": "https://newsonair.gov.in/hi/oman-vessel-attack/",
-        "post_id": 1733595,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ईपीएफओ ने छूट प्राप्त पीएफ ट्रस्ट संचालित प्रतिष्ठानों के लिए माफी योजना-2026 शुरू की",
-        "summary": "कर्मचारी भविष्य निधि संगठन- ईपीएफओ ने माफी योजना-2026 शुरू की है। इसके तहत आयकर अधिनियम, 1961 के अंतर्गत मान्यता प्राप्त छूट के साथ भविष्य निधि ट्रस्ट संचालित करने वाले प्रतिष्ठानों को अपनी स्थिति नियमित करने का एकमुश्त अवसर प्रदान किया गया है। श्रम और रोजगार मंत्रालय ने कहा है कि यह योजना छह महीने […]",
-        "article": "कर्मचारी भविष्य निधि संगठन- ईपीएफओ ने माफी योजना-2026 शुरू की है। इसके तहत आयकर अधिनियम, 1961 के अंतर्गत मान्यता प्राप्त छूट के साथ भविष्य निधि ट्रस्ट संचालित करने वाले प्रतिष्ठानों को अपनी स्थिति नियमित करने का एकमुश्त अवसर प्रदान किया गया है। श्रम और रोजगार मंत्रालय ने कहा है कि यह योजना छह महीने की अवधि तक लागू रहेगी। यह योजना उन प्रतिष्ठानों पर लागू होगी, जो आयकर अधिनियम, 1961 के अंतर्गत मान्यता प्राप्त भविष्य निधि ट्रस्ट का संचालन कर रहे हैं। मंत्रालय के अनुसार, पात्र प्रतिष्ठानों को संबंधित क्षेत्रीय कार्यालय को ई-मेल के माध्यम से औपचारिक आवेदन प्रस्तुत करना होगा। छूट प्राप्त भविष्य निधि एक नियोक्ता-प्रबंधित पीएफ योजना है जो अपने भविष्य निधि योगदान को सीधे ईपीएफओ में जमा करने के बजाय एक निजी ट्रस्ट के माध्यम से आंतरिक रूप से संचालित करती है।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:39:45+00:00",
-        "link": "https://newsonair.gov.in/hi/epfo-amnesty-scheme/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "भारत ने कतर के पूर्व अमीर के निधन पर कल एक दिन का राष्ट्रीय शोक घोषित किया",
+        "summary": "भारत ने कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी के निधन पर श्रद्धांजलि अर्पित करते हुए कल एक दिन का राष्ट्रीय शोक घोषित किया है। इस शोक दिवस पर भारत भर में उन सभी भवनों पर राष्ट्रीय ध्वज आधा झुका रहेगा जहां नियमित रूप से राष्ट्रीय ध्वज फहराया जाता है। इस दिन कोई […]",
+        "article": "भारत ने कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी के निधन पर श्रद्धांजलि अर्पित करते हुए कल एक दिन का राष्ट्रीय शोक घोषित किया है। इस शोक दिवस पर भारत भर में उन सभी भवनों पर राष्ट्रीय ध्वज आधा झुका रहेगा जहां नियमित रूप से राष्ट्रीय ध्वज फहराया जाता है। इस दिन कोई भी आधिकारिक मनोरंजन कार्यक्रम नहीं होगा। प्रधानमंत्री नरेंद्र मोदी ने शेख हमद बिन खलीफा अल-थानी के निधन पर शोक व्यक्त करते हुए कहा कि वे एक दूरदर्शी नेता थे जिन्होंने कतर को विकास और समृद्धि के नए मुकाम तक पहुंचाया। विदेश मंत्रालय ने एक बयान में कहा कि संसदीय कार्य और अल्पसंख्यक मामलों के मंत्री किरेन रिजिजू भारत सरकार की ओर से कतर को शोक संदेश देने के लिए वहां जा रहे हैं।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T16:17:36+00:00",
+        "link": "https://newsonair.gov.in/hi/india-declared-a-day-of-national-mourning-yesterday-following-the-demise-of-the-former-emir-of-qatar/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-12-214424.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका : होर्मुज जलडमरूमध्‍य सभी जहाजों के लिए खुला और अमरीकी सेना नौवहन की स्‍वतंत्रता सुनिश्चित करने के लिए तैयार",
+        "summary": "ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कोर द्वारा रणनीतिक जलमार्ग को अगले आदेश तक बंद करने की घोषणा के कुछ घंटों बाद, अमरीकी सेंट्रल कमान ने कहा है कि होर्मुज जलडमरूमध्य सभी वैध आवागमन चाहने वाले जहाजों के लिए खुला है। यह बयान अमरीकी राष्ट्रपति डॉनल्ड ट्रम्प के संवाददाता सम्‍मेलन में यह कहने के बाद आया […]",
+        "article": "ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कोर द्वारा रणनीतिक जलमार्ग को अगले आदेश तक बंद करने की घोषणा के कुछ घंटों बाद, अमरीकी सेंट्रल कमान ने कहा है कि होर्मुज जलडमरूमध्य सभी वैध आवागमन चाहने वाले जहाजों के लिए खुला है। यह बयान अमरीकी राष्ट्रपति डॉनल्ड ट्रम्प के संवाददाता सम्&#x200d;मेलन में यह कहने के बाद आया है कि होर्मुज जलडमरूमध्य वाणिज्यिक जहाजों के लिए खुला है। अमरीकी सेंट्रल कमान ने सोशल मीडिया पोस्ट में कहा कि जलडमरूमध्य से समुद्री यातायात सुचारू रूप से चल रहा है और अमरीकी सेनाएं ईरानी आक्रामकता, उत्पीड़न, धमकियों और मनमानी घोषणाओं के बावजूद नौवहन की स्वतंत्रता सुनिश्चित करने के लिए तैनात हैं। उसने कहा कि ईरान का होर्मुज जलडमरूमध्य पर कोई नियंत्रण नहीं है और सुरक्षित पारगमन मार्ग खुले हैं। अमरीकी सेंट्रल कमान ने कहा कि अमरीकी सेनाओं ने पिछले दो महीनों में 800 से अधिक जहाजों और 4 करोड़ बैरल से अधिक कच्चे तेल के परिवहन में सहायता की है। इससे पहले, ईरान द्वारा होर्मुज जलडमरूमध्य में एक वाणिज्यिक पोत पर हमला करने और उसे आग लगाकर चालक दल को जहाज छोड़ने के लिए मजबूर करने के बाद, अमरीका ने ईरान पर नए हवाई हमले किए। कमान के अनुसार, हमलों में मिसाइल, ड्रोन और संचार सुविधाओं सहित लगभग 140 ईरानी सैन्य ठिकानों को निशाना बनाया गया। ईरान ने बहरीन, कुवैत, कतर और संयुक्त अरब अमीरात को निशाना बनाकर मिसाइल और ड्रोन हमले किए। कतर और कुवैत ने कहा कि उन्होंने आने वाली मिसाइलों को रोक लिया, जबकि बहरीन ने मिसाइल अलर्ट जारी कर दिया। ईरान ने जॉर्डन में एक अमरीकी सैन्य अड्डे पर भी हमला करने का दावा किया। इस ताजा तनाव ने क्षेत्रीय सुरक्षा और वैश्विक ऊर्जा बाजारों को लेकर चिंताएं बढ़ा दी हैं, क्योंकि होर्मुज जलडमरूमध्य दुनिया के तेल और प्राकृतिक गैस व्यापार के एक महत्वपूर्ण हिस्से के लिए एक महत्वपूर्ण शिपिंग मार्ग है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T16:11:14+00:00",
+        "link": "https://newsonair.gov.in/hi/us-strait-of-hormuz-open-to-all-ships-us-military-ready-to-ensure-freedom-of-navigation/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNCeD0aaMAAjo0Z.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "चीन में चक्रवाती तूफान बावी कमजोर होकर उष्णकटिबंधीय तूफान बना",
+        "summary": "चीन में, चक्रवाती तूफान बावी झेजियांग प्रांत में दस्तक देने के कुछ घंटों बाद ही कमजोर होकर उष्णकटिबंधीय तूफान में बदल गया है। हालांकि, देश के कई हिस्सों में अब भी तेज हवाएं और भारी बारिश जारी है। चीन के मौसम विज्ञान केंद्र ने बताया कि तूफान पूर्वी चीन से होते हुए उत्तर-पश्चिम दिशा में […]",
+        "article": "चीन में, चक्रवाती तूफान बावी झेजियांग प्रांत में दस्तक देने के कुछ घंटों बाद ही कमजोर होकर उष्णकटिबंधीय तूफान में बदल गया है। हालांकि, देश के कई हिस्सों में अब भी तेज हवाएं और भारी बारिश जारी है। चीन के मौसम विज्ञान केंद्र ने बताया कि तूफान पूर्वी चीन से होते हुए उत्तर-पश्चिम दिशा में अनहुई प्रांत की ओर बढ़ रहा है और धीरे-धीरे कमजोर होता जा रहा है। अगले दो दिनों में पूर्वी और उत्तर-पूर्वी चीन के कई शहरों में मूसलाधार बारिश होने और तेज हवाएं चलने की संभावना है। अनहुई और आसपास के कई प्रांतों में अत्यधिक बारिश दर्ज की जा चुकी है। तूफान के कारण शंघाई के पुडोंग और होंगकियाओ अंतरराष्ट्रीय हवाई अड्डों से लगभग 653 उड़ानें रद्द किए जाने की संभावना है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:56:23+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%9a%e0%a5%80%e0%a4%a8-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%9a%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%be%e0%a4%a4%e0%a5%80-%e0%a4%a4%e0%a5%82%e0%a4%ab%e0%a4%be%e0%a4%a8-%e0%a4%ac%e0%a4%be/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-12-212232.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "बांग्लादेश में बाढ़ और भूस्खलन से 44 लोगों की मृत्‍यु",
         "summary": "बांग्लादेश में पिछले एक सप्ताह में बाढ़ और भूस्खलन के कारण 44 लोगों की मृत्‍यु हो गई है। बांग्‍लादेश के आपदा प्रबंधन मंत्रालय के प्रवक्ता ने बताया कि बाढ़ से लगभग दो लाख 67 हजार परिवार प्रभावित हुए हैं। रात भर हुई भारी बारिश से राजधानी ढाका के कुछ हिस्से जलमग्न हो गए, जिससे जनजीवन […]",
@@ -1534,44 +1568,11 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "आईआरजीसी के जहाज पर हमले के बाद अमरीका ने ईरान पर नए हमले शुरू किए, होर्मुज जलडमरूमध्य अगले आदेश तक बंद",
-        "summary": "इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स के होर्मुज जलडमरूमध्य में साइप्रस के झंडे वाले जहाज पर हमले के बाद, अमरीका ने ईरान पर नए हमले शुरू कर दिए हैं। अमरीकी सेना ने कहा है कि ये हमले राष्ट्रपति डॉनल्‍ड ट्रंप के निर्देश पर किए गए। अमरीका ने बताया है कि व्‍यापारिक जहाज पर हुए हमले में चालक […]",
-        "article": "इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स के होर्मुज जलडमरूमध्य में साइप्रस के झंडे वाले जहाज पर हमले के बाद, अमरीका ने ईरान पर नए हमले शुरू कर दिए हैं। अमरीकी सेना ने कहा है कि ये हमले राष्ट्रपति डॉनल्&#x200d;ड ट्रंप के निर्देश पर किए गए। अमरीका ने बताया है कि व्&#x200d;यापारिक जहाज पर हुए हमले में चालक दल का एक नागरिक सदस्य लापता है और जहाज पर आग लगने से काफी नुकसान हुआ है। इस बीच, ईरान ने होर्मुज जलडमरूमध्य को अगली सूचना तक बंद कर दिया है। ईरान की नौसेना ने कहा है कि एक जहाज़ के अनधिकृत रास्ते का इस्तेमाल करने की कोशिश के बाद यह समुद्री रास्ता बंद किया गया है। नौसेना ने कहा कि इस इलाके में अमरीका का दखल खत्म होने तक किसी भी जहाज़ को इस रास्ते से निकलने की अनुमति नहीं दी जाएगी। नौसेना ने कहा कि होर्मुज जलडमरूमध्य की इस घटना को लेकर अमरीका की किसी भी कार्रवाई का कड़ा जवाब दिया जाएगा। अमरीका, ईरान से सार्वजनिक रूप से होर्मुज जलडमरूमध्य से गुज़रने वाले जहाज़ों पर हमला नहीं करने का आश्&#x200d;वासन चाहता है। अमरीका के एक वरिष्&#x200d;ठ अधिकारी ने कहा है कि ईरान में आंतरिक सत्&#x200d;ता संघर्ष के कारण किसी समझौते पर पहुंचना मुश्किल हो गया है। इस बीच, अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने कहा है कि तनाव के बावजूद ईरान के साथ बातचीत जारी रहेगी। ईरान ने कहा है कि होर्मुज जलडमरूमध्य उसके नियंत्रण में ही रहेगा और इस मार्ग से गुज़रने वाले जहाज़ों को शुल्क देना होगा। ईरान ने जलडमरूमध्य पर पूरे अधिकार का दावा किया है। इस बीच, ओमान ने होर्मुज जलडमरूमध्य से जहाज़ों की आवाजाही के लिए दो अलग-अलग रास्तों का प्रस्ताव दिया है, लेकिन ईरान ने इस तरह के प्रस्ताव को पहले ही खारिज कर दिया था।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:53:42+00:00",
-        "link": "https://newsonair.gov.in/hi/hormuz-strait-closed/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/Strait-of-Hormuz-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "तूफान बावी ने दी पूर्वी चीन में दस्तक, लगभग 20 लाख लोगों को सुरक्षित स्थानों पर पहुंचाया गया",
-        "summary": "तूफान बावी ने कल रात पूर्वी चीन के तटीय शहर ताइझोऊ में दस्तक दी। तूफान को देखते हुए लगभग 20 लाख लोगों को सुरक्षित स्थानों पर पहुंचाया गया है। इससे पहले बावी जापान के दक्षिणी साकिशिमा द्वीप समूह से टकराया और उत्तरी ताइवान के पास से गुजरा। हालांकि यह अब उत्तर-पश्चिम की ओर बढ़ते हुए […]",
-        "article": "तूफान बावी ने कल रात पूर्वी चीन के तटीय शहर ताइझोऊ में दस्तक दी। तूफान को देखते हुए लगभग 20 लाख लोगों को सुरक्षित स्थानों पर पहुंचाया गया है। इससे पहले बावी जापान के दक्षिणी साकिशिमा द्वीप समूह से टकराया और उत्तरी ताइवान के पास से गुजरा। हालांकि यह अब उत्तर-पश्चिम की ओर बढ़ते हुए धीरे-धीरे कमजोर पड़ रहा है, लेकिन इसके साथ तेज वर्षा का खतरा बना हुआ है। सरकारी मीडिया के अनुसार, झेजियांग प्रांत से 17 लाख से अधिक लोगों को सुरक्षित स्थानों पर पहुंचाया गया है। इसके अलावा फुजियान प्रांत और बीजिंग से एक-एक लाख से अधिक तथा शंघाई से करीब 34 हजार लोगों को भी निकाला गया है। जापान और ताइवान में अब तक इस तूफान से किसी की मृत्यु की खबर नहीं है। हालांकि बावी के असर से दक्षिण-पश्चिम मानसून के और सक्रिय होने के कारण फिलीपींस में भारी बारिश से 17 लोगों की मौत हो गई है। ताइवान के अग्निशमन विभाग के अनुसार 113 लोग घायल हुए हैं। इनमें अधिकांश लोग तेज हवाओं के दौरान मोटरसाइकिल या साइकिल से गिरने, फिसलने या किसी वस्तु की चपेट में आने से घायल हुए।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:45:51+00:00",
-        "link": "https://newsonair.gov.in/hi/typhoon-bavi-china/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM_n9-fbEAAWGXT.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वेनेजुएला में विनाशकारी भूकंप के बाद मृतकों की संख्या 4,300 के पार",
-        "summary": "वेनेजुएला में पिछले महीने आए विनाशकारी भूकंप में मरने वालों की संख्या बढ़कर 4300 से अधिक हो गई है। 24 जून को ला गुआइरा में कुछ ही सेकंड के अंतराल पर 7.2 और 7.5 तीव्रता के दो भूकंप आए थे। ये एक सदी से अधिक समय में वेनेजुएला के सबसे भीषण भूकंप माने जा रहे […]",
-        "article": "वेनेजुएला में पिछले महीने आए विनाशकारी भूकंप में मरने वालों की संख्या बढ़कर 4300 से अधिक हो गई है। 24 जून को ला गुआइरा में कुछ ही सेकंड के अंतराल पर 7.2 और 7.5 तीव्रता के दो भूकंप आए थे। ये एक सदी से अधिक समय में वेनेजुएला के सबसे भीषण भूकंप माने जा रहे हैं। संयुक्त राष्ट्र ने इस सप्ताह 13 लाख लोगों की मदद के लिए 29 करोड़ 60 लाख अमरीकी डॉलर की राहत राशि जुटाने की अपील की है। संयुक्त राष्ट्र के मानवीय मामलों के प्रमुख टॉम फ्लेचर ने मंगलवार को ला गुआइरा का दौरा किया। इस दौरान उन्होंने लापता बच्&#x200d;चों की माताओं से मुलाकात की।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:21:04+00:00",
-        "link": "https://newsonair.gov.in/hi/venezuela-earthquake/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM_fTDpaUAAafRH.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम नौका हादसा: 15 भारतीयों के पार्थिव शरीर जल्द भारत लाए जाएंगे",
+        "title": "वियतनाम में नौका दुर्घटना में मारे गए 15 भारतीयों के पार्थिव शरीर हो ची मिन्ह शहर पहुंचे। उन्‍हें जल्‍द से जल्‍द भारत लाया जाएगा",
         "summary": "वियतनाम में भारतीय दूतावास ने आज बताया कि फु क्वोक द्वीप के निकट कल हुई नौका दुर्घटना में जान गंवाने वाले 15 भारतीय नागरिकों के पार्थिव शरीर हो ची मिन्ह सिटी ले जाए जा रहे हैं। सोशल मीडिया पोस्ट में दूतावास ने कहा कि वहां आवश्यक औपचारिकताएं पूरी होने के बाद पार्थिव शरीरों को यथाशीघ्र […]",
         "article": "वियतनाम में भारतीय दूतावास ने आज बताया कि फु क्वोक द्वीप के निकट कल हुई नौका दुर्घटना में जान गंवाने वाले 15 भारतीय नागरिकों के पार्थिव शरीर हो ची मिन्ह सिटी ले जाए जा रहे हैं। सोशल मीडिया पोस्ट में दूतावास ने कहा कि वहां आवश्यक औपचारिकताएं पूरी होने के बाद पार्थिव शरीरों को यथाशीघ्र भारत भेजा जाएगा। दूतावास ने बताया कि हो ची मिन्ह सिटी स्थित भारतीय महावाणिज्य दूतावास वियतनाम के अधिकारियों के साथ लगातार सम्&#x200d;पर्क बनाए हुए हैं और पार्थिव शरीरों को शीघ्र भारत लाने के लिए हरसंभव सहायता प्रदान कर रहा है। इससे पहले आज दूतावास ने बताया था कि नौका दुर्घटना में घायल 15 भारतीयों को उपचार के बाद अस्पताल से छुट्टी दे दी गई है और वे भारत लौट रहे हैं। दूतावास के अनुसार, गंभीर रूप से घायल दो लोगों में से एक को अस्पताल से छुट्टी मिल गई है और वह भारत लौट रहा है, जबकि दूसरे घायल का वियतनाम के फु क्वोक स्थित अस्पताल में उपचार चल रहा है।",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T10:50:40+00:00",
+        "pubDate": "2026-07-12T15:20:40+00:00",
         "link": "https://newsonair.gov.in/hi/vietnam-boat-accident-mortal-remains-of-15-indians-to-be-brought-back-to-india-soon/",
         "image_url": "",
         "image_credit": "",
@@ -1808,7 +1809,6 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T08:39:45+00:00",
         "link": "https://newsonair.gov.in/hi/epfo-amnesty-scheme/",
-        "post_id": 1733248,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
