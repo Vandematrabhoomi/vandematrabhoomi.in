@@ -1,8 +1,41 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-12T00:31:49.571039",
+  "generated": "2026-07-12T02:35:04.782139",
   "en": {
     "top": [
+      {
+        "title": "Typhoon Bavi makes landfall in eastern China’s Taizhou after nearly 2 million evacuated",
+        "summary": "Typhoon Bavi made landfall late last night in the coastal city of Taizhou in eastern China, where nearly two million people were evacuated, having earlier hit Japan&#8217;s southern Sakishima island chain and brushed past northern Taiwan. Even as Bavi continues to slow and weaken on its northwesterly path, the typhoon is still a potent risk […]",
+        "article": "Typhoon Bavi made landfall late last night in the coastal city of Taizhou in eastern China, where nearly two million people were evacuated, having earlier hit Japan&#8217;s southern Sakishima island chain and brushed past northern Taiwan. Even as Bavi continues to slow and weaken on its northwesterly path, the typhoon is still a potent risk due to the sheer volume of moisture it holds within its rain bands, about the size of France from end to end. Bavi had maximum sustained winds of about 144km per hour, equivalent to Category One on the Saffir-Simpson Hurricane Wind Scale, when it made landfall at around 11.20 pm local time, according to the Chinese National Meteorological Center. State media said more than 1.7 million people had been evacuated across Zhejiang province, along with more than 100,000 each from neighbouring Fujian province and Beijing and some 34,000 from Shanghai. While Japan and Taiwan have not yet reported any deaths from the typhoon, 17 people died in the Philippines due to heavy rains brought by an enhanced southwest monsoon, exacerbated by Bavi&#8217;s impact. Taiwan&#8217;s fire department said 113 people had been injured, mostly from falls from motorcycles or bicycles, as well as people falling over or being struck by objects.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:18:38+00:00",
+        "link": "https://newsonair.gov.in/typhoon-bavi-makes-landfall-in-eastern-chinas-taizhou-after-nearly-2-million-evacuated/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Taizhou_disambiguation_map.svg/1280px-Taizhou_disambiguation_map.svg.png",
+        "image_credit": "Wikipedia – Taizhou (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "US launches new round of strikes against Iran after IRGC forces attack container ship transiting Strait of Hormuz",
+        "summary": "The United States launched a new round of strikes against Iran after Islamic Revolutionary Guard Corps (IRGC) forces attacked a Cyprus-flagged container ship transiting the Strait of Hormuz. US military said the strikes were carried out at the direction of President Donald Trump. US CENTCOM said the attack on the commercial vessel left […]",
+        "article": "The United States launched a new round of strikes against Iran after Islamic Revolutionary Guard Corps (IRGC) forces attacked a Cyprus-flagged container ship transiting the Strait of Hormuz. US military said the strikes were carried out at the direction of President Donald Trump. US CENTCOM said the attack on the commercial vessel left a civilian crew member missing and the vessel is unable to continue the journey due to an onboard fire and significant engine room damage. Explosions were heard in Qeshm Island, Bandar Abbas and Sirik following the attacks. Meanwhile, Iran has closed Strait of Hormuz until further notice. Iran&#8217;s IRGC Navy said the sea route was closed following an incident involving a vessel that attempted to use an unauthorised route. The force said no ships will be allowed to transit through the strategic waterway until what it called US interference in the region ends. The announcement came after the IRGC claimed it fired a warning shot and stopped the vessel. IRGC Navy said any attempt by the enemy to use the recent Strait of Hormuz incident as a pretext for further action will invite a severe response. The US is demanding that Iran make a public statement saying the Strait of Hormuz is open and that ships crossing the vital corridor will not be attacked anymore. Senior US officials said that internal power struggles in Tehran have made it difficult to reach and keep a deal. Meanwhile, US President Donald Trump said that negotiations with Iran will continue despite tensions. His comments came as the fragile interim agreement came under strain following renewed military exchanges in the region. Iran insists the Strait of Hormuz must remain under its control and maintains its demand that vessels passing through the strategic waterway pay fees. Iran said it has exclusive authority over activities in the strait. However, Oman has proposed having two separately managed routes for shipping through the Strait of Hormuz &#8211; one through Iranian waters and another through Omani waters. Tehran had rejected a similar proposal in earlier discussions, insisting on a single management system involving both countries. Iranian officials remain concerned that separate routes could allow ships to bypass Iranian waters, reducing Tehran’s leverage in negotiations.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T01:51:40+00:00",
+        "link": "https://newsonair.gov.in/us-launches-new-round-of-strikes-against-iran-after-irgc-forces-attack-container-ship-transiting-strait-of-hormuz/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ISS-44_Strait_of_Gibraltar.jpg/1280px-ISS-44_Strait_of_Gibraltar.jpg",
+        "image_credit": "Wikipedia – Strait (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Vietnam government orders probe into speedboat tragedy that killed 15 Indian tourists",
+        "summary": "Vietnamese Prime Minister Le Minh Hun has ordered a probe into the speedboat tragedy near Phu Quoc Island that claimed the lives of 15 Indian tourists. According to a statement issued by the Consulate General of Vietnam in Mumbai, PM Hun asked authorities to identify shortcomings, determine both the direct and indirect causes of […]",
+        "article": "Vietnamese Prime Minister Le Minh Hun has ordered a probe into the speedboat tragedy near Phu Quoc Island that claimed the lives of 15 Indian tourists. According to a statement issued by the Consulate General of Vietnam in Mumbai, PM Hun asked authorities to identify shortcomings, determine both the direct and indirect causes of the accident, and implement corrective measures to prevent similar incidents in the future. The Vietnamese Prime Minister also directed authorities to take strict legal action against anyone found to have violated regulations that may have caused the accident. Vietnamese Prime Minister also directed authorities to assist victims and their families. The Consulate General further stated that the Prime Minister has directed authorities to mobilise all necessary medical resources and supplies to treat the injured, minimise further loss of life and provide support and encouragement to the families of those who lost their loved ones in the accident. The tragic incident occurred yesterday when the speedboat carrying 36 people, including 4 crew members, flipped after reportedly being hit by a sudden wave off Rut Ngoai Islet. While local authorities managed to rescue 21 people, 15 Indians, including 2 women, were dead. The Indian embassy in Vietnam released the list of the deceased provided by the Vietnamese authorities. Of the 15 deceased, 10 are from Tamil Nadu, three from Andhra Pradesh, and two from Kerala.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T01:18:33+00:00",
+        "link": "https://newsonair.gov.in/rescue-operations-underway-after-boat-carrying-indian-tourists-capsizes-near-phu-quoc-island/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-5.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Hyderabad to play a key role India’s AI and semiconductor growth: Union Minister Ashwini Vaishnaw",
         "summary": "Hyderabad to play a key role in India’s AI, Semiconductor and Electronics Growth under Prime Minister Narendra Modi’s Vision, says Union Minister Ashwini Vaishnaw. At an Industry Leader Town Hall in Hyderabad organised by HYSEA, Union Minister Ashwini Vaishnaw urged the Indian IT sector to transition from a software services model to an &#8220;AI as […]",
@@ -33,17 +66,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-11T16:01:15+00:00",
         "link": "https://newsonair.gov.in/fssai-issues-nine-notices-to-swiggy-instamart-over-food-safety-complaints/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/FSSAI-issues-nine-notices-to-Swiggy-Instamart-over-food-safety-complaints.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "15 Indians killed in a boat mishap in Vietnam",
-        "summary": "Fifteen Indian tourists were killed after a boat capsized near Vietnam&#8217;s Phu Quoc Island today. The Embassy of India in Vietnam confirmed that the deceased include 13 men and two women. In a post on social media, the Embassy shared the list of the victims, stating that the names were provided by the Vietnamese authorities. […]",
-        "article": "Fifteen Indian tourists were killed after a boat capsized near Vietnam&#8217;s Phu Quoc Island today. The Embassy of India in Vietnam confirmed that the deceased include 13 men and two women. In a post on social media, the Embassy shared the list of the victims, stating that the names were provided by the Vietnamese authorities. According to the Embassy, 10 of the deceased were from Tamil Nadu, three from Andhra Pradesh, and two from Kerala. The boat was carrying 36 people, including 32 Indian tourists, three crew members and one attendant. 21 people, including 17 passengers and four crew members, were rescued and admitted to hospitals. Two survivors remain in critical condition and are receiving intensive medical care. During the rescue mission, the Vietnam Coast Guard Region 4 Command deployed personnel and rescue assets. In order to provide information and assistance to affected families, a Control Room at the Consulate General of India in Ho Chi Minh City has been setup. It can be reached at +84 36 281 7930, +84 91 552 37 14 and +84 33 452 0414. The Embassy said in a social media post that a Control room has been established in Hanoi and can be reached at +84 91 308 9165.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:18:33+00:00",
-        "link": "https://newsonair.gov.in/rescue-operations-underway-after-boat-carrying-indian-tourists-capsizes-near-phu-quoc-island/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-5.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -110,28 +132,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-10T07:45:40+00:00",
         "link": "https://newsonair.gov.in/palestinian-authority-president-mahmoud-abbas-announces-legislative-elections-in-late-november/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-3-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
-        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
-        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:12:43+00:00",
-        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FIH-Hockey-Pro-League.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "UK expresses concern over unrest in PoJK due to brutal crackdown on civilians by Pak security forces",
-        "summary": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party",
-        "article": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party leader and MP, Bob Blackman, said that Pakistani security forces had opened fire on peaceful demonstrators in PoJK, resulting in multiple deaths and injuries of civilians, including British nationals. He asked the British government whether it had summoned Pakistan&#8217;s High Commissioner over the reported violence and what steps had been taken to protect innocent bystanders. Raising the issue in a parliamentary debate, another UK lawmaker, Imran Hussain, voiced serious concern over continued bloodshed, arbitrary arrests and restrictions on communication in PoJK. Hussain said that reports suggesting restrictions on the movement of food and medical supplies into several parts of the region are deeply alarming. He emphasised that respect for the human rights of Kashmiris in PoJK must remain at the heart of any negotiations. The Joint Awami Action Committee, JAAC has warned Pakistan it will launch final action if its demands are unmet, inviting global observers to witness the situation. These demands include economic reforms, fair resource distribution, reduced paramilitary presence, and changes to legislative seat allocations. JAAC leader Sardar Aman Khan has sought humanitarian aid from India, citing shortages due to an alleged blockade and military crackdown. He accused Islamabad of hypocrisy for labelling activists as terrorists.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T14:31:52+00:00",
-        "link": "https://newsonair.gov.in/uk-expresses-concern-over-unrest-in-pojk-due-to-brutal-crackdown-on-civilians-by-pak-security-forces/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -215,6 +215,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "PM Modi concludes his three-nation tour; Departs for India after holding extensive talks with New Zealand PM Christopher Luxon",
+        "summary": "Prime Minister Narendra Modi has concluded his three-nation tour of Indonesia, Australia and New Zealand and departing for India after holding extensive talks with New Zealand Prime Minister Christopher Luxon. India and New Zealand elevated their bilateral ties to a Strategic Partnership and signed several agreements and MoUs across key sectors. These include defence, tourism, […]",
+        "article": "Prime Minister Narendra Modi has concluded his three-nation tour of Indonesia, Australia and New Zealand and departing for India after holding extensive talks with New Zealand Prime Minister Christopher Luxon. India and New Zealand elevated their bilateral ties to a Strategic Partnership and signed several agreements and MoUs across key sectors. These include defence, tourism, sports, disaster management and dairy and animal husbandry sectors. A major highlight of the visit was the community event at Auckland’s Spark Arena, attended by over ten thousand members of the Indian diaspora. Addressing the gathering, Mr Modi stated that the future of India and New Zealand is intertwined and the bilateral trade agreement will accelerate India&#8217;s journey towards a developed nation. On the occasion, Prime Minister Luxon described India as a trusted friend, praised the contribution of the Indian community to New Zealand’s progress, and appreciated Prime Minister Modi’s leadership. Prime Minister Modi thanked Prime Minister Luxon for his warm hospitality and said the visit had opened a new chapter in India-New Zealand relations. Referring to the 40-year gap since the last visit by an Indian Prime Minister, he said the next visit would not take so long. Prime Minister Luxon personally saw off PM Modi at the airport in a special gesture following the conclusion of the visit. In a post on social media, PM Modi thanked PM Luxon, the Government and the people of New Zealand for the exceptional warmth during this fruitful visit. Mr Modi said our decision to elevate ties to a Strategic Partnership, the progress on trade and investment and the renewed momentum in defence, education, culture, sports and people-to-people exchanges reflect the growing depth of our friendship. Ministry of External Affairs (MEA) spokesperson Randhir Jaiswal said Prime Minister Modi’s three-country visit delivered significant outcomes advancing cooperation across several sectors, including trade, technology, security, education, innovation and people-to-people exchanges, among others. He said PM Modi and his New Zealand counterpart reviewed the full spectrum of bilateral relations, with discussions covering trade and investment, defence and security, agri-tech, sports, education, tourism, culture and people-to-people exchanges. The MEA spokesperson said the two Prime Ministers also reaffirmed their commitment to deepening cooperation across areas of mutual interest and stressed the importance of the early implementation of the India-New Zealand Free Trade Agreement. The New Zealand leg marked the final stop of PM Modi’s three-nation tour, during which India expanded cooperation with Indonesia, Australia and New Zealand across a wide range of sectors, including trade, technology, security, innovation, education and people-to-people ties.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:22:03+00:00",
+        "link": "https://newsonair.gov.in/prime-minister-modi-concludes-new-zealand-visit-departs-for-india/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Northern Railway surpasses Q1 operational and revenue targets",
         "summary": "Northern Railway has achieved significant milestones in operational efficiency, revenue generation, ticket checking, and passenger services during the first quarter of the financial year 2026-27, from April to June. During this period, it enhanced passenger convenience through various operational initiatives and recorded significant revenue growth, surpassing the targets set by the Railway Board.",
         "article": "Northern Railway has achieved significant milestones in operational efficiency, revenue generation, ticket checking, and passenger services during the first quarter of the financial year 2026-27, from April to June. During this period, it enhanced passenger convenience through various operational initiatives and recorded significant revenue growth, surpassing the targets set by the Railway Board. Northern Railway also recorded significant improvements in overall passenger and revenue performance. Originating passengers increased from more than 114 million to 120 million during this period, which stands as over 5 percent increase. Revenue grew from over three thousand crore rupees to more than three thousand five hundred crore rupees, reflecting an increase of over 15 per cent. Meanwhile, to meet the growing passenger demand, Northern Railway successfully operated more than one thousand 800 special trains under the Trains on Demand scheme, generating additional revenue of over 185 crore rupees.",
@@ -232,18 +243,6 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T16:15:34+00:00",
         "link": "https://newsonair.gov.in/rbi-absorbs-%e2%82%b91-10-lakh-crore-surplus-liquidity-from-banking-system-on-july-9/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Prime Minister Modi concludes New Zealand visit, departs for India",
-        "summary": "Prime Minister Narendra Modi has concluded his two-day visit to New Zealand and departed for India. The visit, the first by an Indian Prime Minister to New Zealand in over four decades, gave a major boost to bilateral ties. During the visit, Prime Minister Modi held talks with his New Zealand counterpart, Christopher Luxon. […]",
-        "article": "Prime Minister Narendra Modi has concluded his two-day visit to New Zealand and departed for India. The visit, the first by an Indian Prime Minister to New Zealand in over four decades, gave a major boost to bilateral ties. During the visit, Prime Minister Modi held talks with his New Zealand counterpart, Christopher Luxon. The two leaders witnessed the exchange of five Memoranda of Understanding in areas including defence, tourism, sports, disaster management, and dairy and animal husbandry. A major highlight of the visit was the community event at Auckland’s Spark Arena, attended by over ten thousand members of the Indian diaspora. Addressing the gathering, Mr. Modi stated that the future of India and New Zealand is intertwined and the bilateral trade agreement will accelerate India&#8217;s journey towards a developed nation. On this occasion , Prime Minister Luxon described India as a trusted friend, praised the contribution of the Indian community to New Zealand’s progress, and appreciated Prime Minister Modi’s leadership. Prime Minister Modi thanked Prime Minister Luxon for his warm hospitality and said the visit had opened a new chapter in India-New Zealand relations. Referring to the 40-year gap since the last visit by an Indian Prime Minister, he said the next visit would not take so long.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:20:03+00:00",
-        "link": "https://newsonair.gov.in/prime-minister-modi-concludes-new-zealand-visit-departs-for-india/",
-        "post_id": 1731963,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -328,6 +327,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "PM Modi concludes his three-nation tour; Departs for India after holding extensive talks with New Zealand PM Christopher Luxon",
+        "summary": "Prime Minister Narendra Modi has concluded his three-nation tour of Indonesia, Australia and New Zealand and departing for India after holding extensive talks with New Zealand Prime Minister Christopher Luxon. India and New Zealand elevated their bilateral ties to a Strategic Partnership and signed several agreements and MoUs across key sectors. These include defence, tourism, […]",
+        "article": "Prime Minister Narendra Modi has concluded his three-nation tour of Indonesia, Australia and New Zealand and departing for India after holding extensive talks with New Zealand Prime Minister Christopher Luxon. India and New Zealand elevated their bilateral ties to a Strategic Partnership and signed several agreements and MoUs across key sectors. These include defence, tourism, sports, disaster management and dairy and animal husbandry sectors. A major highlight of the visit was the community event at Auckland’s Spark Arena, attended by over ten thousand members of the Indian diaspora. Addressing the gathering, Mr Modi stated that the future of India and New Zealand is intertwined and the bilateral trade agreement will accelerate India&#8217;s journey towards a developed nation. On the occasion, Prime Minister Luxon described India as a trusted friend, praised the contribution of the Indian community to New Zealand’s progress, and appreciated Prime Minister Modi’s leadership. Prime Minister Modi thanked Prime Minister Luxon for his warm hospitality and said the visit had opened a new chapter in India-New Zealand relations. Referring to the 40-year gap since the last visit by an Indian Prime Minister, he said the next visit would not take so long. Prime Minister Luxon personally saw off PM Modi at the airport in a special gesture following the conclusion of the visit. In a post on social media, PM Modi thanked PM Luxon, the Government and the people of New Zealand for the exceptional warmth during this fruitful visit. Mr Modi said our decision to elevate ties to a Strategic Partnership, the progress on trade and investment and the renewed momentum in defence, education, culture, sports and people-to-people exchanges reflect the growing depth of our friendship. Ministry of External Affairs (MEA) spokesperson Randhir Jaiswal said Prime Minister Modi’s three-country visit delivered significant outcomes advancing cooperation across several sectors, including trade, technology, security, education, innovation and people-to-people exchanges, among others. He said PM Modi and his New Zealand counterpart reviewed the full spectrum of bilateral relations, with discussions covering trade and investment, defence and security, agri-tech, sports, education, tourism, culture and people-to-people exchanges. The MEA spokesperson said the two Prime Ministers also reaffirmed their commitment to deepening cooperation across areas of mutual interest and stressed the importance of the early implementation of the India-New Zealand Free Trade Agreement. The New Zealand leg marked the final stop of PM Modi’s three-nation tour, during which India expanded cooperation with Indonesia, Australia and New Zealand across a wide range of sectors, including trade, technology, security, innovation, education and people-to-people ties.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:22:03+00:00",
+        "link": "https://newsonair.gov.in/prime-minister-modi-concludes-new-zealand-visit-departs-for-india/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Northern Railway surpasses Q1 operational and revenue targets",
         "summary": "Northern Railway has achieved significant milestones in operational efficiency, revenue generation, ticket checking, and passenger services during the first quarter of the financial year 2026-27, from April to June. During this period, it enhanced passenger convenience through various operational initiatives and recorded significant revenue growth, surpassing the targets set by the Railway Board.",
         "article": "Northern Railway has achieved significant milestones in operational efficiency, revenue generation, ticket checking, and passenger services during the first quarter of the financial year 2026-27, from April to June. During this period, it enhanced passenger convenience through various operational initiatives and recorded significant revenue growth, surpassing the targets set by the Railway Board. Northern Railway also recorded significant improvements in overall passenger and revenue performance. Originating passengers increased from more than 114 million to 120 million during this period, which stands as over 5 percent increase. Revenue grew from over three thousand crore rupees to more than three thousand five hundred crore rupees, reflecting an increase of over 15 per cent. Meanwhile, to meet the growing passenger demand, Northern Railway successfully operated more than one thousand 800 special trains under the Trains on Demand scheme, generating additional revenue of over 185 crore rupees.",
@@ -345,18 +355,6 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T16:15:34+00:00",
         "link": "https://newsonair.gov.in/rbi-absorbs-%e2%82%b91-10-lakh-crore-surplus-liquidity-from-banking-system-on-july-9/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Prime Minister Modi concludes New Zealand visit, departs for India",
-        "summary": "Prime Minister Narendra Modi has concluded his two-day visit to New Zealand and departed for India. The visit, the first by an Indian Prime Minister to New Zealand in over four decades, gave a major boost to bilateral ties. During the visit, Prime Minister Modi held talks with his New Zealand counterpart, Christopher Luxon. […]",
-        "article": "Prime Minister Narendra Modi has concluded his two-day visit to New Zealand and departed for India. The visit, the first by an Indian Prime Minister to New Zealand in over four decades, gave a major boost to bilateral ties. During the visit, Prime Minister Modi held talks with his New Zealand counterpart, Christopher Luxon. The two leaders witnessed the exchange of five Memoranda of Understanding in areas including defence, tourism, sports, disaster management, and dairy and animal husbandry. A major highlight of the visit was the community event at Auckland’s Spark Arena, attended by over ten thousand members of the Indian diaspora. Addressing the gathering, Mr. Modi stated that the future of India and New Zealand is intertwined and the bilateral trade agreement will accelerate India&#8217;s journey towards a developed nation. On this occasion , Prime Minister Luxon described India as a trusted friend, praised the contribution of the Indian community to New Zealand’s progress, and appreciated Prime Minister Modi’s leadership. Prime Minister Modi thanked Prime Minister Luxon for his warm hospitality and said the visit had opened a new chapter in India-New Zealand relations. Referring to the 40-year gap since the last visit by an Indian Prime Minister, he said the next visit would not take so long.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:20:03+00:00",
-        "link": "https://newsonair.gov.in/prime-minister-modi-concludes-new-zealand-visit-departs-for-india/",
-        "post_id": 1731963,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -441,6 +439,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "PM Modi concludes his three-nation tour; Departs for India after holding extensive talks with New Zealand PM Christopher Luxon",
+        "summary": "Prime Minister Narendra Modi has concluded his three-nation tour of Indonesia, Australia and New Zealand and departing for India after holding extensive talks with New Zealand Prime Minister Christopher Luxon. India and New Zealand elevated their bilateral ties to a Strategic Partnership and signed several agreements and MoUs across key sectors. These include defence, tourism, […]",
+        "article": "Prime Minister Narendra Modi has concluded his three-nation tour of Indonesia, Australia and New Zealand and departing for India after holding extensive talks with New Zealand Prime Minister Christopher Luxon. India and New Zealand elevated their bilateral ties to a Strategic Partnership and signed several agreements and MoUs across key sectors. These include defence, tourism, sports, disaster management and dairy and animal husbandry sectors. A major highlight of the visit was the community event at Auckland’s Spark Arena, attended by over ten thousand members of the Indian diaspora. Addressing the gathering, Mr Modi stated that the future of India and New Zealand is intertwined and the bilateral trade agreement will accelerate India&#8217;s journey towards a developed nation. On the occasion, Prime Minister Luxon described India as a trusted friend, praised the contribution of the Indian community to New Zealand’s progress, and appreciated Prime Minister Modi’s leadership. Prime Minister Modi thanked Prime Minister Luxon for his warm hospitality and said the visit had opened a new chapter in India-New Zealand relations. Referring to the 40-year gap since the last visit by an Indian Prime Minister, he said the next visit would not take so long. Prime Minister Luxon personally saw off PM Modi at the airport in a special gesture following the conclusion of the visit. In a post on social media, PM Modi thanked PM Luxon, the Government and the people of New Zealand for the exceptional warmth during this fruitful visit. Mr Modi said our decision to elevate ties to a Strategic Partnership, the progress on trade and investment and the renewed momentum in defence, education, culture, sports and people-to-people exchanges reflect the growing depth of our friendship. Ministry of External Affairs (MEA) spokesperson Randhir Jaiswal said Prime Minister Modi’s three-country visit delivered significant outcomes advancing cooperation across several sectors, including trade, technology, security, education, innovation and people-to-people exchanges, among others. He said PM Modi and his New Zealand counterpart reviewed the full spectrum of bilateral relations, with discussions covering trade and investment, defence and security, agri-tech, sports, education, tourism, culture and people-to-people exchanges. The MEA spokesperson said the two Prime Ministers also reaffirmed their commitment to deepening cooperation across areas of mutual interest and stressed the importance of the early implementation of the India-New Zealand Free Trade Agreement. The New Zealand leg marked the final stop of PM Modi’s three-nation tour, during which India expanded cooperation with Indonesia, Australia and New Zealand across a wide range of sectors, including trade, technology, security, innovation, education and people-to-people ties.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:22:03+00:00",
+        "link": "https://newsonair.gov.in/prime-minister-modi-concludes-new-zealand-visit-departs-for-india/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Northern Railway surpasses Q1 operational and revenue targets",
         "summary": "Northern Railway has achieved significant milestones in operational efficiency, revenue generation, ticket checking, and passenger services during the first quarter of the financial year 2026-27, from April to June. During this period, it enhanced passenger convenience through various operational initiatives and recorded significant revenue growth, surpassing the targets set by the Railway Board.",
         "article": "Northern Railway has achieved significant milestones in operational efficiency, revenue generation, ticket checking, and passenger services during the first quarter of the financial year 2026-27, from April to June. During this period, it enhanced passenger convenience through various operational initiatives and recorded significant revenue growth, surpassing the targets set by the Railway Board. Northern Railway also recorded significant improvements in overall passenger and revenue performance. Originating passengers increased from more than 114 million to 120 million during this period, which stands as over 5 percent increase. Revenue grew from over three thousand crore rupees to more than three thousand five hundred crore rupees, reflecting an increase of over 15 per cent. Meanwhile, to meet the growing passenger demand, Northern Railway successfully operated more than one thousand 800 special trains under the Trains on Demand scheme, generating additional revenue of over 185 crore rupees.",
@@ -461,38 +470,37 @@ window.VM_NEWS = {
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "Prime Minister Modi concludes New Zealand visit, departs for India",
-        "summary": "Prime Minister Narendra Modi has concluded his two-day visit to New Zealand and departed for India. The visit, the first by an Indian Prime Minister to New Zealand in over four decades, gave a major boost to bilateral ties. During the visit, Prime Minister Modi held talks with his New Zealand counterpart, Christopher Luxon. […]",
-        "article": "Prime Minister Narendra Modi has concluded his two-day visit to New Zealand and departed for India. The visit, the first by an Indian Prime Minister to New Zealand in over four decades, gave a major boost to bilateral ties. During the visit, Prime Minister Modi held talks with his New Zealand counterpart, Christopher Luxon. The two leaders witnessed the exchange of five Memoranda of Understanding in areas including defence, tourism, sports, disaster management, and dairy and animal husbandry. A major highlight of the visit was the community event at Auckland’s Spark Arena, attended by over ten thousand members of the Indian diaspora. Addressing the gathering, Mr. Modi stated that the future of India and New Zealand is intertwined and the bilateral trade agreement will accelerate India&#8217;s journey towards a developed nation. On this occasion , Prime Minister Luxon described India as a trusted friend, praised the contribution of the Indian community to New Zealand’s progress, and appreciated Prime Minister Modi’s leadership. Prime Minister Modi thanked Prime Minister Luxon for his warm hospitality and said the visit had opened a new chapter in India-New Zealand relations. Referring to the 40-year gap since the last visit by an Indian Prime Minister, he said the next visit would not take so long.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:20:03+00:00",
-        "link": "https://newsonair.gov.in/prime-minister-modi-concludes-new-zealand-visit-departs-for-india/",
-        "post_id": 1731963,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
       }
     ],
     "world": [
       {
-        "title": "Prime Minister Modi concludes New Zealand visit, departs for India",
-        "summary": "Prime Minister Narendra Modi has concluded his two-day visit to New Zealand and departed for India. The visit, the first by an Indian Prime Minister to New Zealand in over four decades, gave a major boost to bilateral ties. During the visit, Prime Minister Modi held talks with his New Zealand counterpart, Christopher Luxon. […]",
-        "article": "Prime Minister Narendra Modi has concluded his two-day visit to New Zealand and departed for India. The visit, the first by an Indian Prime Minister to New Zealand in over four decades, gave a major boost to bilateral ties. During the visit, Prime Minister Modi held talks with his New Zealand counterpart, Christopher Luxon. The two leaders witnessed the exchange of five Memoranda of Understanding in areas including defence, tourism, sports, disaster management, and dairy and animal husbandry. A major highlight of the visit was the community event at Auckland’s Spark Arena, attended by over ten thousand members of the Indian diaspora. Addressing the gathering, Mr. Modi stated that the future of India and New Zealand is intertwined and the bilateral trade agreement will accelerate India&#8217;s journey towards a developed nation. On this occasion , Prime Minister Luxon described India as a trusted friend, praised the contribution of the Indian community to New Zealand’s progress, and appreciated Prime Minister Modi’s leadership. Prime Minister Modi thanked Prime Minister Luxon for his warm hospitality and said the visit had opened a new chapter in India-New Zealand relations. Referring to the 40-year gap since the last visit by an Indian Prime Minister, he said the next visit would not take so long.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:20:03+00:00",
-        "link": "https://newsonair.gov.in/prime-minister-modi-concludes-new-zealand-visit-departs-for-india/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ma.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "Typhoon Bavi makes landfall in eastern China’s Taizhou after nearly 2 million evacuated",
+        "summary": "Typhoon Bavi made landfall late last night in the coastal city of Taizhou in eastern China, where nearly two million people were evacuated, having earlier hit Japan&#8217;s southern Sakishima island chain and brushed past northern Taiwan. Even as Bavi continues to slow and weaken on its northwesterly path, the typhoon is still a potent risk […]",
+        "article": "Typhoon Bavi made landfall late last night in the coastal city of Taizhou in eastern China, where nearly two million people were evacuated, having earlier hit Japan&#8217;s southern Sakishima island chain and brushed past northern Taiwan. Even as Bavi continues to slow and weaken on its northwesterly path, the typhoon is still a potent risk due to the sheer volume of moisture it holds within its rain bands, about the size of France from end to end. Bavi had maximum sustained winds of about 144km per hour, equivalent to Category One on the Saffir-Simpson Hurricane Wind Scale, when it made landfall at around 11.20 pm local time, according to the Chinese National Meteorological Center. State media said more than 1.7 million people had been evacuated across Zhejiang province, along with more than 100,000 each from neighbouring Fujian province and Beijing and some 34,000 from Shanghai. While Japan and Taiwan have not yet reported any deaths from the typhoon, 17 people died in the Philippines due to heavy rains brought by an enhanced southwest monsoon, exacerbated by Bavi&#8217;s impact. Taiwan&#8217;s fire department said 113 people had been injured, mostly from falls from motorcycles or bicycles, as well as people falling over or being struck by objects.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:18:38+00:00",
+        "link": "https://newsonair.gov.in/typhoon-bavi-makes-landfall-in-eastern-chinas-taizhou-after-nearly-2-million-evacuated/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Taizhou_disambiguation_map.svg/1280px-Taizhou_disambiguation_map.svg.png",
+        "image_credit": "Wikipedia – Taizhou (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
-        "title": "15 Indians killed in a boat mishap in Vietnam",
-        "summary": "Fifteen Indian tourists were killed after a boat capsized near Vietnam&#8217;s Phu Quoc Island today. The Embassy of India in Vietnam confirmed that the deceased include 13 men and two women. In a post on social media, the Embassy shared the list of the victims, stating that the names were provided by the Vietnamese authorities. […]",
-        "article": "Fifteen Indian tourists were killed after a boat capsized near Vietnam&#8217;s Phu Quoc Island today. The Embassy of India in Vietnam confirmed that the deceased include 13 men and two women. In a post on social media, the Embassy shared the list of the victims, stating that the names were provided by the Vietnamese authorities. According to the Embassy, 10 of the deceased were from Tamil Nadu, three from Andhra Pradesh, and two from Kerala. The boat was carrying 36 people, including 32 Indian tourists, three crew members and one attendant. 21 people, including 17 passengers and four crew members, were rescued and admitted to hospitals. Two survivors remain in critical condition and are receiving intensive medical care. During the rescue mission, the Vietnam Coast Guard Region 4 Command deployed personnel and rescue assets. In order to provide information and assistance to affected families, a Control Room at the Consulate General of India in Ho Chi Minh City has been setup. It can be reached at +84 36 281 7930, +84 91 552 37 14 and +84 33 452 0414. The Embassy said in a social media post that a Control room has been established in Hanoi and can be reached at +84 91 308 9165.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:18:33+00:00",
+        "title": "US launches new round of strikes against Iran after IRGC forces attack container ship transiting Strait of Hormuz",
+        "summary": "The United States launched a new round of strikes against Iran after Islamic Revolutionary Guard Corps (IRGC) forces attacked a Cyprus-flagged container ship transiting the Strait of Hormuz. US military said the strikes were carried out at the direction of President Donald Trump. US CENTCOM said the attack on the commercial vessel left […]",
+        "article": "The United States launched a new round of strikes against Iran after Islamic Revolutionary Guard Corps (IRGC) forces attacked a Cyprus-flagged container ship transiting the Strait of Hormuz. US military said the strikes were carried out at the direction of President Donald Trump. US CENTCOM said the attack on the commercial vessel left a civilian crew member missing and the vessel is unable to continue the journey due to an onboard fire and significant engine room damage. Explosions were heard in Qeshm Island, Bandar Abbas and Sirik following the attacks. Meanwhile, Iran has closed Strait of Hormuz until further notice. Iran&#8217;s IRGC Navy said the sea route was closed following an incident involving a vessel that attempted to use an unauthorised route. The force said no ships will be allowed to transit through the strategic waterway until what it called US interference in the region ends. The announcement came after the IRGC claimed it fired a warning shot and stopped the vessel. IRGC Navy said any attempt by the enemy to use the recent Strait of Hormuz incident as a pretext for further action will invite a severe response. The US is demanding that Iran make a public statement saying the Strait of Hormuz is open and that ships crossing the vital corridor will not be attacked anymore. Senior US officials said that internal power struggles in Tehran have made it difficult to reach and keep a deal. Meanwhile, US President Donald Trump said that negotiations with Iran will continue despite tensions. His comments came as the fragile interim agreement came under strain following renewed military exchanges in the region. Iran insists the Strait of Hormuz must remain under its control and maintains its demand that vessels passing through the strategic waterway pay fees. Iran said it has exclusive authority over activities in the strait. However, Oman has proposed having two separately managed routes for shipping through the Strait of Hormuz &#8211; one through Iranian waters and another through Omani waters. Tehran had rejected a similar proposal in earlier discussions, insisting on a single management system involving both countries. Iranian officials remain concerned that separate routes could allow ships to bypass Iranian waters, reducing Tehran’s leverage in negotiations.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T01:51:40+00:00",
+        "link": "https://newsonair.gov.in/us-launches-new-round-of-strikes-against-iran-after-irgc-forces-attack-container-ship-transiting-strait-of-hormuz/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ISS-44_Strait_of_Gibraltar.jpg/1280px-ISS-44_Strait_of_Gibraltar.jpg",
+        "image_credit": "Wikipedia – Strait (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Vietnam government orders probe into speedboat tragedy that killed 15 Indian tourists",
+        "summary": "Vietnamese Prime Minister Le Minh Hun has ordered a probe into the speedboat tragedy near Phu Quoc Island that claimed the lives of 15 Indian tourists. According to a statement issued by the Consulate General of Vietnam in Mumbai, PM Hun asked authorities to identify shortcomings, determine both the direct and indirect causes of […]",
+        "article": "Vietnamese Prime Minister Le Minh Hun has ordered a probe into the speedboat tragedy near Phu Quoc Island that claimed the lives of 15 Indian tourists. According to a statement issued by the Consulate General of Vietnam in Mumbai, PM Hun asked authorities to identify shortcomings, determine both the direct and indirect causes of the accident, and implement corrective measures to prevent similar incidents in the future. The Vietnamese Prime Minister also directed authorities to take strict legal action against anyone found to have violated regulations that may have caused the accident. Vietnamese Prime Minister also directed authorities to assist victims and their families. The Consulate General further stated that the Prime Minister has directed authorities to mobilise all necessary medical resources and supplies to treat the injured, minimise further loss of life and provide support and encouragement to the families of those who lost their loved ones in the accident. The tragic incident occurred yesterday when the speedboat carrying 36 people, including 4 crew members, flipped after reportedly being hit by a sudden wave off Rut Ngoai Islet. While local authorities managed to rescue 21 people, 15 Indians, including 2 women, were dead. The Indian embassy in Vietnam released the list of the deceased provided by the Vietnamese authorities. Of the 15 deceased, 10 are from Tamil Nadu, three from Andhra Pradesh, and two from Kerala.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T01:18:33+00:00",
         "link": "https://newsonair.gov.in/rescue-operations-underway-after-boat-carrying-indian-tourists-capsizes-near-phu-quoc-island/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-5.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
@@ -561,17 +569,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-09T08:20:24+00:00",
         "link": "https://newsonair.gov.in/indian-diaspora-gathers-in-large-numbers-for-melbourne-meets-modi-event/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indian-diaspora-gathers-in-large-numbers-for-Melbourne-Meets-Modi-event.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "WIPO report reaffirms India’s emergence as a global innovation powerhouse",
-        "summary": "The World Intangible Investment Report 2026, launched by World Intellectual Property Organization and Luiss Business School, reaffirms India&#8217;s emergence as a global innovation powerhouse. &#160; In a social media post, Union Commerce and Industry Minister Piyush Goyal said that the report highlights India&#8217;s growing intangible investment in areas such as software, R&#38;D, intellectual",
-        "article": "The World Intangible Investment Report 2026, launched by World Intellectual Property Organization and Luiss Business School, reaffirms India&#8217;s emergence as a global innovation powerhouse. &nbsp; In a social media post, Union Commerce and Industry Minister Piyush Goyal said that the report highlights India&#8217;s growing intangible investment in areas such as software, R&D, intellectual property, innovation and organisational capabilities that are shaping the economy of the future. It mentions how India recorded the fastest growth in intangible investment among the world&#8217;s 15 largest economies, reaching 78.2 billion dollar in 2023, with 7.9 percent growth, ahead of tangible investment. Mr Goyal added that driven by the energy and aspirations of the young innovators, entrepreneurs and creators, India remains the world&#8217;s fastest-growing major economy, a global bright spot, and is steadily building a knowledge-driven future powered by ideas, innovation and enterprise. &nbsp; The Minister noted that under the leadership of the Prime Minister, India continues to strengthen its innovation ecosystem through sustained reforms, digital transformation and support for startups.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T08:11:13+00:00",
-        "link": "https://newsonair.gov.in/wipo-report-reaffirms-indias-emergence-as-a-global-innovation-powerhouse/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-17.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -666,14 +663,14 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India’s Arnav Paparkar reaches Wimbledon Juniors boys’ singles quarter-finals",
-        "summary": "India&#8217;s Arnav Paparkar created history by becoming the first Indian in 36 years to reach the boys&#8217; singles quarter-finals at the Wimbledon Juniors 2026. The 18-year-old Paparkar defeated Japan&#8217;s Ryo Tabata 6-2, 6-1 in just 52 minutes in the prequarter-finals. Earlier, he shocked world No. 3 Keaton Hance of the United States with a […]",
-        "article": "India&#8217;s Arnav Paparkar created history by becoming the first Indian in 36 years to reach the boys&#8217; singles quarter-finals at the Wimbledon Juniors 2026. The 18-year-old Paparkar defeated Japan&#8217;s Ryo Tabata 6-2, 6-1 in just 52 minutes in the prequarter-finals. Earlier, he shocked world No. 3 Keaton Hance of the United States with a 6-2, 6-3 win after beating Great Britain&#8217;s Joshua Craze 6-2, 6-2 in the opening round. He has not dropped a set so far in the tournament. Paparkar will next face either Jordan Lee of the United States in the quarter-finals at 5 PM today. Only three Indians have won the Wimbledon Juniors boys&#8217; singles title: Ramanathan Krishnan in 1954, Ramesh Krishnan in 1979, and the last was Leander Paes in 1990. Paparkar will now aim to join that elite list.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T05:32:30+00:00",
-        "link": "https://newsonair.gov.in/indias-arnav-paparkar-reaches-wimbledon-juniors-boys-singles-quarter-finals/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "Linda Noskova beats Karolina Muchova to win first Wimbledon tennis title",
+        "summary": "In Tennis, the 21-year-old Linda Noskova won her maiden Grand Slam title after defeating fellow Czech Karolina Muchova 6-2, 5-7, 6-3 in the Wimbledon Women&#8217;s Singles Final at Centre Court, London, yesterday. Noskova became the third Czech woman in four years to win the grass-court major, after Marketa Vondrousova in 2023 and Barbora Krejcikova in […]",
+        "article": "In Tennis, the 21-year-old Linda Noskova won her maiden Grand Slam title after defeating fellow Czech Karolina Muchova 6-2, 5-7, 6-3 in the Wimbledon Women&#8217;s Singles Final at Centre Court, London, yesterday. Noskova became the third Czech woman in four years to win the grass-court major, after Marketa Vondrousova in 2023 and Barbora Krejcikova in 2024. The stage is also set for the Men&#8217;s Singles final tonight, where World No. 1 Jannik Sinner will face Germany&#8217;s Alexander Zverev. The match is scheduled to start at 08 30 PM IST. Sinner stormed into the title clash with a straight-sets victory over seven-time champion Novak Djokovic, while Zverev reached his first Wimbledon final after defeating British wildcard Arthur Fery. In the Women&#8217;s Doubles final, the 10th-seeded Chinese-French pair of Guo Hanyu and Kristina Mladenovic will meet the 2nd-seeded Canadian-Brazilian duo of Gabriela Dabrowski and Luisa Stefani at Centre Court, London, this evening. The match will start at 530 PM IST.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T01:56:50+00:00",
+        "link": "https://newsonair.gov.in/linda-noskova-beats-karolina-muchova-to-win-first-wimbledon-tennis-title/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1028,14 +1025,91 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "एफएसएसएआई ने उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए",
+        "summary": "खाद्य सुरक्षा एवं मानक प्राधिकरण-एफएसएसएआई ने खाद्य सुरक्षा और मानक अधिनियम 2006 के अंतर्गत नियमों का उल्लंघन करने के आरोपों से संबंधित कई उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए हैं। सोशल मीडिया पोस्ट में एफएसएसएआई ने कहा है कि स्विगी को विस्तृत स्पष्टीकरण और अनुपालन रिपोर्ट प्रस्तुत करने का निर्देश […]",
+        "article": "खाद्य सुरक्षा एवं मानक प्राधिकरण-एफएसएसएआई ने खाद्य सुरक्षा और मानक अधिनियम 2006 के अंतर्गत नियमों का उल्लंघन करने के आरोपों से संबंधित कई उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए हैं। सोशल मीडिया पोस्ट में एफएसएसएआई ने कहा है कि स्विगी को विस्तृत स्पष्टीकरण और अनुपालन रिपोर्ट प्रस्तुत करने का निर्देश दिया गया है और ऐसा न करने पर उचित कानूनी कार्रवाई शुरू की जाएगी। उपभोक्ता शिकायतों में स्विगी इंस्टामार्ट पर उत्&#x200d;पादों की निर्धारित अवधि समाप्&#x200d;त होने, खराब, सड़े, दूषित और अन्य प्रकार के असुरक्षित खाद्य उत्पादों की आपूर्ति का आरोप लगाया गया है। एफएसएसएआई के नोटिस में गलत, अमान्य या अनुपलब्&#x200d;ध लाइसेंस नंबरों और पंजीकृत नाम के स्&#x200d;थान पर किसी अलग नाम से संचालित खाद्य व्यवसाय संस्थाओं पर भी चिंता व्यक्त की गई है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:23:07+00:00",
+        "link": "https://newsonair.gov.in/hi/fssai-notice-to-swiggy/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वेनेजुएला में विनाशकारी भूकंप के बाद मृतकों की संख्या 4,300 के पार",
+        "summary": "वेनेजुएला में पिछले महीने आए विनाशकारी भूकंप में मरने वालों की संख्या बढ़कर 4300 से अधिक हो गई है। 24 जून को ला गुआइरा में कुछ ही सेकंड के अंतराल पर 7.2 और 7.5 तीव्रता के दो भूकंप आए थे। ये एक सदी से अधिक समय में वेनेजुएला के सबसे भीषण भूकंप माने जा रहे […]",
+        "article": "वेनेजुएला में पिछले महीने आए विनाशकारी भूकंप में मरने वालों की संख्या बढ़कर 4300 से अधिक हो गई है। 24 जून को ला गुआइरा में कुछ ही सेकंड के अंतराल पर 7.2 और 7.5 तीव्रता के दो भूकंप आए थे। ये एक सदी से अधिक समय में वेनेजुएला के सबसे भीषण भूकंप माने जा रहे हैं। संयुक्त राष्ट्र ने इस सप्ताह 13 लाख लोगों की मदद के लिए 29 करोड़ 60 लाख अमरीकी डॉलर की राहत राशि जुटाने की अपील की है। संयुक्त राष्ट्र के मानवीय मामलों के प्रमुख टॉम फ्लेचर ने मंगलवार को ला गुआइरा का दौरा किया। इस दौरान उन्होंने लापता बच्&#x200d;चों की माताओं से मुलाकात की।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:21:04+00:00",
+        "link": "https://newsonair.gov.in/hi/venezuela-earthquake/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री नरेन्द्र मोदी दो दिन की ऐतिहासिक न्यूजीलैंड यात्रा के बाद स्वदेश रवाना",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड की यात्रा पूरी कर स्‍वदेश रवाना हो गए हैं। इस दौरान श्री मोदी ने न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के साथ व्यापक बातचीत की। भारत और न्यूज़ीलैंड ने द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाया है। इस दौरान रक्षा, पर्यटन, खेल, आपदा प्रबंधन और डेयरी तथा पशुपालन सहित […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड की यात्रा पूरी कर स्&#x200d;वदेश रवाना हो गए हैं। इस दौरान श्री मोदी ने न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के साथ व्यापक बातचीत की। भारत और न्यूज़ीलैंड ने द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाया है। इस दौरान रक्षा, पर्यटन, खेल, आपदा प्रबंधन और डेयरी तथा पशुपालन सहित कई प्रमुख क्षेत्रों में समझौतों पर हस्ताक्षर किए गए। ऑकलैंड में सामुदायिक कार्यक्रम में भारतीय मूल के दस हज़ार से अधिक लोगों ने भाग लिया। श्री मोदी ने सभा को संबोधित करते हुए कहा कि भारत और न्यूज़ीलैंड का भविष्य आपस में जुड़ा हुआ है। उन्&#x200d;होंने कहा कि द्विपक्षीय व्यापार समझौता भारत की विकसित राष्ट्र बनने की यात्रा को गति प्रदान करेगा। प्रधानमंत्री लक्सन ने भारत को विश्&#x200d;वसनीय मित्र बताते हुए न्यूज़ीलैंड की प्रगति में भारतीय समुदाय के योगदान की सराहना की। उन्&#x200d;होंने प्रधानमंत्री मोदी के नेतृत्व की भी प्रशंसा की। श्री मोदी ने श्री लक्सन के शानदार आतिथ्य के लिए धन्यवाद दिया। उन्&#x200d;होंने कहा कि इस यात्रा से भारत-न्यूज़ीलैंड संबंधों में एक नया अध्याय शुरू है। श्री मोदी ने 40 वर्ष बाद भारतीय प्रधानमंत्री की न्&#x200d;यूजीलैंड यात्रा के बारे में कहा कि अगली यात्रा में इतना समय नहीं लगेगा। यात्रा की समाप्ति पर, प्रधानमंत्री लक्सन ने श्री मोदी को व्यक्तिगत रूप से हवाई अड्डे पर विदाई दी। सोशल मीडिया पोस्ट में, प्रधानमंत्री मोदी ने इस सफल यात्रा के दौरान मिले असाधारण स्नेह के लिए प्रधानमंत्री लक्सन, न्यूज़ीलैंड सरकार और लोगों को धन्यवाद दिया। श्री मोदी ने कहा कि संबंधों को रणनीतिक साझेदारी के स्तर तक ले जाने का निर्णय, व्यापार और निवेश में प्रगति तथा रक्षा, शिक्षा, संस्कृति, खेल और लोगों के बीच आपसी संबंधों में आई नई गति हमारी दोस्ती की बढ़ती गहराई को दर्शाती है। विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा कि प्रधानमंत्री मोदी की तीन देशों की यात्रा के महत्&#x200d;वपूर्ण परिणाम निकले हैं। इससे व्यापार, प्रौद्योगिकी, सुरक्षा, शिक्षा, नवाचार और लोगों के बीच आपसी संपर्क जैसे कई क्षेत्रों में सहयोग को बढ़ावा मिला है। उन्होंने बताया कि प्रधानमंत्री मोदी और न्यूज़ीलैंड के प्रधानमंत्री ने द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की। बातचीत में व्यापार और निवेश, रक्षा और सुरक्षा, कृषि प्रौद्योगिकी, खेल, शिक्षा, पर्यटन, संस्कृति और लोगों के बीच आपसी संपर्क जैसे विषय शामिल थे। प्रवक्ता ने कहा कि दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने की प्रतिबद्धता दोहराई। दोनों नेताओं ने भारत-न्यूज़ीलैंड मुक्त व्यापार समझौते को शीघ्र लागू करने के महत्व पर बल दिया। प्रधानमंत्री मोदी की तीन देशों की यात्रा के दौरान भारत ने इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड के साथ व्यापार, प्रौद्योगिकी, सुरक्षा, नवाचार, शिक्षा और लोगों के बीच आपसी संबंधों जैसे कई क्षेत्रों में सहयोग का विस्तार किया।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:17:27+00:00",
+        "link": "https://newsonair.gov.in/hi/return-journey-following-prime-minister-narendra-modis-historic-two-day-visit-to-new-zealand/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कृषि मंत्री शिवराज सिंह चौहान आज ‘पर्यावरण संरक्षण संकल्प’ कार्यक्रम में 17 हजार वृक्ष मित्रों से संवाद करेंगे",
+        "summary": "केंद्रीय कृषि और किसान कल्याण मंत्री शिवराज सिंह चौहान आज दिल्ली स्थित पूसा परिसर में &#8216;पर्यावरण संरक्षण संकल्प&#8217; कार्यक्रम में भाग लेंगे। इस अवसर पर वे देशभर से आए लगभग 17 हजार वृक्ष मित्रों से संवाद करेंगे और जनभागीदारी के माध्यम से पर्यावरण संरक्षण को राष्ट्रव्यापी जन आंदोलन में परिवर्तित करने का आह्वान करेंगे। […]",
+        "article": "केंद्रीय कृषि और किसान कल्याण मंत्री शिवराज सिंह चौहान आज दिल्ली स्थित पूसा परिसर में &#8216;पर्यावरण संरक्षण संकल्प&#8217; कार्यक्रम में भाग लेंगे। इस अवसर पर वे देशभर से आए लगभग 17 हजार वृक्ष मित्रों से संवाद करेंगे और जनभागीदारी के माध्यम से पर्यावरण संरक्षण को राष्ट्रव्यापी जन आंदोलन में परिवर्तित करने का आह्वान करेंगे। इस कार्यक्रम में देश के लगभग सभी राज्यों से ऐसे वृक्ष मित्र शामिल होंगे, जिन्होंने वृक्षारोपण, जल संरक्षण और पारिस्थितिकी पुनर्स्थापन के क्षेत्र में उल्लेखनीय योगदान दिया है। केंद्रीय मंत्री वृक्ष मित्रों के साथ पूसा परिसर में वृक्षारोपण अभियान में भी हिस्सा लेंगे।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:14:48+00:00",
+        "link": "https://newsonair.gov.in/hi/environment-protection-pledge/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गृह मंत्री अमित शाह आज अहमदाबाद में विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे",
+        "summary": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्‍वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
+        "article": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्&#x200d;न परियोजनाओं का शुभारंभ और शिलान्&#x200d;यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्&#x200d;वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T01:43:13+00:00",
+        "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "स्पीडबोट हादसे के बाद वियतनाम के प्रधानमंत्री ने जांच के आदेश दिए, विदेश मंत्री डॉ. एस जयशंकर ने जताया शोक",
+        "summary": "वियतनाम के प्रधानमंत्री ले मिन्ह हुन ने फु क्वोक द्वीप के पास स्पीडबोट हादसे की जांच के आदेश दिए हैं। इस हादसे में 15 भारतीय पर्यटकों की मौत हो गई । मुंबई में वियतनाम के महावाणिज्य दूतावास के अनुसार, प्रधानमंत्री ने अधिकारियों से हादसे के कारणों का पता लगाने और भविष्य में ऐसे हादसों को […]",
+        "article": "वियतनाम के प्रधानमंत्री ले मिन्ह हुन ने फु क्वोक द्वीप के पास स्पीडबोट हादसे की जांच के आदेश दिए हैं। इस हादसे में 15 भारतीय पर्यटकों की मौत हो गई । मुंबई में वियतनाम के महावाणिज्य दूतावास के अनुसार, प्रधानमंत्री ने अधिकारियों से हादसे के कारणों का पता लगाने और भविष्य में ऐसे हादसों को रोकने के लिए जरूरी कदम उठाने को कहा है। उन्होंने नियमों के उल्लंघन के लिए जिम्मेदार लोगों के खिलाफ सख्त कानूनी कार्रवाई के भी निर्देश दिए हैं। साथ ही घायलों के इलाज और मृतकों के परिजनों को हर संभव सहायता देने को कहा है। यह हादसा कल उस समय हुआ जब 36 लोगों को लेकर जा रही स्पीडबोट फु क्वोक द्वीप के पास रट नगोआई टापू के निकट अचानक ऊंची लहर की चपेट में आकर पलट गई। नाव में चालक दल के चार सदस्य भी सवार थे। स्थानीय प्रशासन ने 21 लोगों को बचा लिया, जबकि 15 भारतीयों की मौत हो गई। मृतकों में दो महिलाएं हैं। वियतनाम में भारतीय दूतावास ने मृतकों की सूची जारी की है। इनमें 10 लोग तमिलनाडु, तीन आंध्र प्रदेश और दो केरल के रहने वाले थे। विदेश मंत्री डॉ. एस जयशंकर ने वियतनाम में फू क्&#x200d;योक द्वीप के पास हुई नौका दुर्घटना में 15 भारतीय नागरिकों की मौत पर दुख व्&#x200d;यक्&#x200d;त किया है। डॉ. जयशंकर ने सोशल मीडिया पोस्&#x200d;ट में कहा है कि वे दुखद नौका दुर्घटना से काफी आहत हैं। विदेश मंत्री ने मृतकों के परिवारों के प्रति संवेदना व्&#x200d;यक्&#x200d;त करते हुए घायलों के शीघ्र स्&#x200d;वस्&#x200d;थ होने की कामना की है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T01:40:25+00:00",
+        "link": "https://newsonair.gov.in/hi/vietnam-boat-tragedy/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "आईआरजीसी के जहाज पर हमले के बाद अमरीका ने ईरान पर नए हमले शुरू किए, होर्मुज जलडमरूमध्य अगले आदेश तक बंद",
+        "summary": "इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स के होर्मुज जलडमरूमध्य में साइप्रस के झंडे वाले जहाज पर हमले के बाद, अमरीका ने ईरान पर नए हमले शुरू कर दिए हैं। अमरीकी सेना ने कहा है कि ये हमले राष्ट्रपति डॉनल्‍ड ट्रंप के निर्देश पर किए गए। अमरीका ने बताया है कि व्‍यापारिक जहाज पर हुए हमले में चालक […]",
+        "article": "इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स के होर्मुज जलडमरूमध्य में साइप्रस के झंडे वाले जहाज पर हमले के बाद, अमरीका ने ईरान पर नए हमले शुरू कर दिए हैं। अमरीकी सेना ने कहा है कि ये हमले राष्ट्रपति डॉनल्&#x200d;ड ट्रंप के निर्देश पर किए गए। अमरीका ने बताया है कि व्&#x200d;यापारिक जहाज पर हुए हमले में चालक दल का एक नागरिक सदस्य लापता है और जहाज पर आग लगने से काफी नुकसान हुआ है। इस बीच, ईरान ने होर्मुज जलडमरूमध्य को अगली सूचना तक बंद कर दिया है। ईरान की नौसेना ने कहा है कि एक जहाज़ के अनधिकृत रास्ते का इस्तेमाल करने की कोशिश के बाद यह समुद्री रास्ता बंद किया गया है। नौसेना ने कहा कि इस इलाके में अमरीका का दखल खत्म होने तक किसी भी जहाज़ को इस रास्ते से निकलने की अनुमति नहीं दी जाएगी। नौसेना ने कहा कि होर्मुज जलडमरूमध्य की इस घटना को लेकर अमरीका की किसी भी कार्रवाई का कड़ा जवाब दिया जाएगा। अमरीका, ईरान से सार्वजनिक रूप से होर्मुज जलडमरूमध्य से गुज़रने वाले जहाज़ों पर हमला नहीं करने का आश्&#x200d;वासन चाहता है। अमरीका के एक वरिष्&#x200d;ठ अधिकारी ने कहा है कि ईरान में आंतरिक सत्&#x200d;ता संघर्ष के कारण किसी समझौते पर पहुंचना मुश्किल हो गया है। इस बीच, अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने कहा है कि तनाव के बावजूद ईरान के साथ बातचीत जारी रहेगी। ईरान ने कहा है कि होर्मुज जलडमरूमध्य उसके नियंत्रण में ही रहेगा और इस मार्ग से गुज़रने वाले जहाज़ों को शुल्क देना होगा। ईरान ने जलडमरूमध्य पर पूरे अधिकार का दावा किया है। इस बीच, ओमान ने होर्मुज जलडमरूमध्य से जहाज़ों की आवाजाही के लिए दो अलग-अलग रास्तों का प्रस्ताव दिया है, लेकिन ईरान ने इस तरह के प्रस्ताव को पहले ही खारिज कर दिया था।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T00:48:42+00:00",
+        "link": "https://newsonair.gov.in/hi/hormuz-strait-closed/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "विश्व जनसंख्या दिवस पर स्वास्थ्य मंत्रालय ने राष्ट्रीय स्वास्थ्य मिशन के तहत मासिक वेबिनार श्रृंखला शुरू की",
         "summary": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की […]",
         "article": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की अध्यक्षता करते हुए मंत्रालय की अतिरिक्त सचिव आराधना पटनायक ने इस बात पर बल दिया कि नवाचार उत्तरदायी और लचीली सार्वजनिक स्वास्थ्य प्रणाली का मूल आधार है। उन्होंने वेबिनार श्रृंखला को नवीन पद्धतियों की पहचान, दस्तावेजीकरण और प्रसार के लिए एक महत्वपूर्ण संस्थागत तंत्र बताया। सुश्री पटनायक ने सभी राज्यों और केंद्र शासित प्रदेशों से वेबिनार श्रृंखला में सक्रिय रूप से भाग लेने और निरंतर सीखने, ज्ञान के आदान-प्रदान और नवाचार-संचालित कार्यक्रम में योगदान देने का आह्वान किया। पहला वेबिनार &#8220;एनीमिया, बाल और किशोर स्वास्थ्य&#8221; विषय पर केंद्रित था। वेबिनार में राष्ट्रीय, राज्य और जिला स्तर के पांच सौ से अधिक अधिकारियों ने भाग लिया।",
         "date": "2026-07-11",
         "pubDate": "2026-07-11T16:00:43+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5-%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a4%82%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%be-%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8-%e0%a4%aa%e0%a4%b0-%e0%a4%b8%e0%a5%8d/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-1-3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1045,19 +1119,19 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:56:16+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%a8%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%87-%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a5%87-%e0%a4%a4%e0%a5%80%e0%a4%a8-%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7-%e0%a4%aa/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "प्रधानमंत्री नरेन्द्र मोदी दो दिन की ऐतिहासिक न्यूजीलैंड यात्रा के बाद स्वदेश रवाना",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी न्यूजीलैंड की अपनी दो दिन की ऐतिहासिक यात्रा संपन्न कर स्‍वदेश के लिए रवाना हो गए हैं। चार दशकों से अधिक समय में किसी भारतीय प्रधानमंत्री की न्यूजीलैंड की यह पहली यात्रा थी, जिसने द्विपक्षीय संबंधों को काफी मजबूती प्रदान की। इस यात्रा के दौरान, प्रधानमंत्री मोदी ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी न्यूजीलैंड की अपनी दो दिन की ऐतिहासिक यात्रा संपन्न कर स्&#x200d;वदेश के लिए रवाना हो गए हैं। चार दशकों से अधिक समय में किसी भारतीय प्रधानमंत्री की न्यूजीलैंड की यह पहली यात्रा थी, जिसने द्विपक्षीय संबंधों को काफी मजबूती प्रदान की। इस यात्रा के दौरान, प्रधानमंत्री मोदी ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन से बातचीत की। दोनों देशों ने रक्षा, पर्यटन, खेल, आपदा प्रबंधन और दुग्ध तथा पशुपालन सहित विभिन्न क्षेत्रों में पांच समझौता ज्ञापनों का आदान-प्रदान किया। इस यात्रा का प्रमुख आकर्षण ऑकलैंड के स्पार्क एरीना में आयोजित सामुदायिक कार्यक्रम था, जिसमें भारतीय प्रवासी समुदाय के दस हजार से अधिक सदस्यों ने भाग लिया। सभा को संबोधित करते हुए श्री मोदी ने कहा कि भारत और न्यूजीलैंड का भविष्य आपस में जुड़ा हुआ है और द्विपक्षीय व्यापार समझौता भारत को एक विकसित राष्ट्र बनने की दिशा में तेजी से आगे बढ़ाएगा। इस अवसर पर प्रधानमंत्री लक्सन ने भारत को एक विश्वसनीय मित्र बताया, न्यूजीलैंड की प्रगति में भारतीय समुदाय के योगदान की सराहना की और प्रधानमंत्री मोदी के नेतृत्व की प्रशंसा की। इस अवसर पर प्रधानमंत्री लक्सन ने भारत को एक भरोसेमंद मित्र बताया, न्यूजीलैंड की प्रगति में भारतीय समुदाय के योगदान की प्रशंसा की और प्रधानमंत्री मोदी के नेतृत्व की सराहना की। श्री मोदी ने प्रधानमंत्री लक्सन को उनके गर्मजोशी भरे आतिथ्य के लिए धन्यवाद दिया और कहा कि इस यात्रा ने भारत-न्यूजीलैंड संबंधों में एक नया अध्याय खोल दिया है।",
+        "title": "स्पेन के अंडालूसिया क्षेत्र में भीषण जंगल की आग, काबू पाने के प्रयास जारी",
+        "summary": "दक्षिण-पूर्वी स्पेन के अंडालूसिया क्षेत्र में भीषण जंगल की आग को काबू में करने के लिए सैकड़ों दमकलकर्मी और सैन्य कर्मी संघर्ष कर रहे हैं। यह आग हाल के दशकों में देश की सबसे घातक जंगल की आग में से एक बन गई है। स्पेन के अधिकारियों के अनुसार, बेदार गांव के आसपास आपातकालीन सेवाओं […]",
+        "article": "दक्षिण-पूर्वी स्पेन के अंडालूसिया क्षेत्र में भीषण जंगल की आग को काबू में करने के लिए सैकड़ों दमकलकर्मी और सैन्य कर्मी संघर्ष कर रहे हैं। यह आग हाल के दशकों में देश की सबसे घातक जंगल की आग में से एक बन गई है। स्पेन के अधिकारियों के अनुसार, बेदार गांव के आसपास आपातकालीन सेवाओं को तैनात किया गया है, जहां 12 लोगों की मौत हो गई है &#8211; जिनमें चार ब्रिटिश नागरिक शामिल हैं। 23 अन्य लोग अभी भी लापता हैं। अल्मेरिया के लॉस गैलार्डोस क्षेत्र के स्थानीय अधिकारियों ने चेतावनी दी है कि मृतकों की संख्या बढ़ सकती है। लगभग 40 डिग्री सेल्सियस के तापमान वाली भीषण गर्मी में दक्षिणी यूरोप, विशेष रूप से फ्रांस, पुर्तगाल और स्पेन में जंगल की आग को जन्म दिया है। बढ़ते तापमान, अत्यधिक शुष्क जमीन और तेज हवाओं के कारण गुरुवार दोपहर को लॉस गैलार्डोस में आग तेजी से फैल गई। अंडालूसिया के स्वास्थ्य और आपातकालीन मंत्री एंटोनियो सैन्ज़ ने कहा कि आग 6 हजार 600 हेक्टेयर भूमि में फैल चुकी है।.",
         "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:50:27+00:00",
-        "link": "https://newsonair.gov.in/hi/return-journey-following-prime-minister-narendra-modis-historic-two-day-visit-to-new-zealand/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM8J-CXbMAAQjus.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-11T15:50:04+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a5%87%e0%a4%a8-%e0%a4%95%e0%a5%87-%e0%a4%85%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b2%e0%a5%82%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be-%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%87/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1067,8 +1141,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:33:27+00:00",
         "link": "https://newsonair.gov.in/hi/pradhan-mantri-formalisation-of-micro-food-processing-enterprises-scheme-crosses-the-milestone-of-two-lakh-loan-sanctions/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-210208.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1078,98 +1152,65 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:28:24+00:00",
         "link": "https://newsonair.gov.in/hi/15-indians-die-in-a-boat-accident-in-vietnam-president-vice-president-and-prime-minister-express-condolences/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1a0038fd-0e2d-4acc-b665-df32ae74896a.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "केंद्रीय गृह मंत्री अमित शाह ने युवाओं से पुस्तकालयों से जुड़ने का आह्वान किया",
-        "summary": "केंद्रीय गृह मंत्री अमित शाह ने व्यक्तित्व निर्माण में पुस्तकालयों की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए युवा पीढ़ी से पुस्तकालयों से जुड़ने की अपील की है । आज नई दिल्ली में जयप्रकाश नारायण सार्वजनिक पुस्तकालय का उद्घाटन करते हुए उन्‍होंने कहा कि लोकनायक जयप्रकाश नारायण एक महान स्वतंत्रता सेनानी, विचारक और राष्ट्रवादी नेता थे […]",
-        "article": "केंद्रीय गृह मंत्री अमित शाह ने व्यक्तित्व निर्माण में पुस्तकालयों की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए युवा पीढ़ी से पुस्तकालयों से जुड़ने की अपील की है । आज नई दिल्ली में जयप्रकाश नारायण सार्वजनिक पुस्तकालय का उद्घाटन करते हुए उन्&#x200d;होंने कहा कि लोकनायक जयप्रकाश नारायण एक महान स्वतंत्रता सेनानी, विचारक और राष्ट्रवादी नेता थे जिन्होंने देश के लिए उल्लेखनीय योगदान दिया। गृह मंत्री ने कहा कि देश और उसके लोगों को समझने के लिए पढ़ना आवश्यक है। उन्होंने राष्ट्र निर्माण में पुस्तकालयों की भूमिका पर प्रकाश डालते हुए कहा कि वे आधुनिक शिक्षा के साथ-साथ जनसमुदाय में देश की संस्कृति और ज्ञान के प्रसार का सशक्त माध्यम हैं। श्री अमित शाह ने कहा कि राष्ट्र निर्माण में योगदान देने वाली और देश को गौरव दिलाने वाली सभी गतिविधियाँ ज्ञान पर आधारित हैं, जो व्यवहार में लागू होने पर बुद्धिमत्ता और विवेक में परिवर्तित हो जाता है। उन्होंने कहा कि पुस्तकालय ऐसे ज्ञान का एक महत्वपूर्ण स्रोत हैं। श्री अमित शाह ने रेखांकित किया कि सरकार ने विदयाथियों में पढ़ने को प्रोत्साहित करने के लिए पुस्तकालयों को विद्यालयों से जोड़ने के प्रयास किए हैं। उन्होंने बताया कि गांधीनगर लोकसभा क्षेत्र में हर गांव में पुस्तकालय खोले गए हैं, जिनमें से प्रत्येक में लगभग 3 से 4 हजार पुस्तकें हैं। उन्होंने कहा कि ये पुस्तकालय एक केंद्रीय पुस्तकालय से जुड़े हैं, जिसमें एक लाख 25 हजार से अधिक पुस्तकों का संग्रह है। श्री अमित शाह ने दिल्ली सरकार से शहर भर के सभी पुस्तकालयों को आपस में जोड़ने और उन्हें स्कूलों से जोड़ने के लिए एक व्यापक योजना बनाने का आग्रह किया। उन्होंने कहा कि पुस्तक प्रेमियों को पुस्तकालयों से जुड़ने के लिए प्रोत्साहित करने के लिए एक सुव्यवस्थित कार्य योजना तैयार की जानी चाहिए। उन्होंने जयप्रकाश नारायण सार्वजनिक पुस्तकालय के कर्मचारियों से नई दिल्ली के आसपास के दस विधानसभा क्षेत्रों के सभी स्कूलों तक पहुंचने, युवाओं को पुस्तकालय से जोड़ने और उन्हें आने के लिए प्रेरित करने की अपील की। ​​उन्होंने कहा कि एक बार युवाओं में पढ़ने की आदत विकसित हो जाए, तो वे इसे स्वयं जारी रखेंगे। केंद्रीय गृह मंत्री ने कहा कि जयप्रकाश नारायण सार्वजनिक पुस्तकालय में 32 हजार से अधिक पुस्तकों का संग्रह है। उन्होंने कहा कि पुस्तकालय में शोधकर्ताओं के लिए समर्पित सुविधाएं, एक आधुनिक बहुउद्देशीय सभागार, समकालीन पठन क्षेत्र, बाल क्षेत्र, एक शोध केंद्र और एक करोड़ ऑनलाइन पुस्तकों तक पहुंच प्रदान करने वाला एक ई-पुस्तकालय है। पुस्तकालय में हर जगह मुफ्त वाई-फाई उपलब्ध है। उन्होंने बताया कि कई मॉनिटर भी लगाए गए हैं, जिससे आगंतुक अध्ययन के दौरान नोट्स ले सकते हैं, सामग्री डाउनलोड कर सकते हैं तथा अपने विचारों को और विकसित कर सकते हैं। पुस्तकालय अत्याधुनिक आरएफआईडी आधारित पुस्तक प्रबंधन प्रणाली से सुसज्जित है। इस अवसर पर दिल्ली की मुख्यमंत्री रेखा गुप्ता, दिल्ली के सार्वजनिक परिवहन विभाग के मंत्री परवेश वर्मा, नई दिल्ली नगर परिषद के अध्यक्ष केशव चंद्र और कई अन्य गणमान्य व्यक्ति उपस्थित थे।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:26:50+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%97%e0%a5%83%e0%a4%b9-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4-85/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-205348.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "रेलमंत्री अश्विनी वैष्णव ने तेलंगाना में मेधा रेल कोच कलपुर्जा निर्माण सुविधा का निरीक्षण किया",
-        "summary": "रेलमंत्री अश्विनी वैष्‍णव ने तेलंगाना के संगारेड्डी जिले के नंदीगामा क्षेत्र में स्थित मेधा रेल कोच कलपुर्जा निर्माण सुविधा स्‍थल का निरीक्षण किया। 375 एकड़ भू-भाग में फैली यह विशाल औद्योगिक इकाई रेलवे के आधुनिकीकरण में महत्‍वपूर्ण प्रगति को प्रदर्शित करती है। अपनी यात्रा के दौरान श्री वैष्‍णव ने मेक इन इंडिया पहल के एक […]",
-        "article": "रेलमंत्री अश्विनी वैष्&#x200d;णव ने तेलंगाना के संगारेड्डी जिले के नंदीगामा क्षेत्र में स्थित मेधा रेल कोच कलपुर्जा निर्माण सुविधा स्&#x200d;थल का निरीक्षण किया। 375 एकड़ भू-भाग में फैली यह विशाल औद्योगिक इकाई रेलवे के आधुनिकीकरण में महत्&#x200d;वपूर्ण प्रगति को प्रदर्शित करती है। अपनी यात्रा के दौरान श्री वैष्&#x200d;णव ने मेक इन इंडिया पहल के एक महत्&#x200d;वपूर्ण हिस्&#x200d;से के रूप में निजी क्षेत्र के उद्यमों को बढ़ावा देने संबंधी सरकार की वचनबद्धता पर बल दिया। इस सुविधा के दौरे के दौरान श्री वैष्&#x200d;णव ने कलपुर्जा विनिर्माण प्रक्रिया का निकटता से पर्यवेक्षण किया। उन्&#x200d;होंने श्रमिकों से बातचीत भी की। श्री वैष्&#x200d;णव ने उनके तकनीकी कौशल, परिचालनगत कार्यप्रवाह, इस सुविधा द्वारा अपनाई गई समग्र विनिर्माण कार्यपद्धति के बारे में पूछताछ की। साथ ही उन्&#x200d;होंने मेधा संगठन द्वारा हाल ही में विकसित उन्&#x200d;नत चालकविहीन वाहन का निरीक्षण किया। यह परिवहन व्&#x200d;यवस्&#x200d;था की आधुनिक प्रौद्योगिकी को दर्शाता है। इस निरीक्षण के दौरान रेल मंत्री वैष्णव के साथ केंद्रीय मंत्री जी. किशन रेड्डी, तेलंगाना के भाजपा अध्यक्ष रामचंद्र राव और सांसद कोंडा विश्वेश्वर रेड्डी जैसे प्रमुख नेता और अधिकारी, तथा विनिर्माण कंपनी के कई प्रतिनिधि भी मौजूद थे।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:09:07+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a5%80-%e0%a4%b5%e0%a5%88%e0%a4%b7%e0%a5%8d%e0%a4%a3-5/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-203808.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "लोकतंत्र में मतभेद स्वाभाविक, संविधान और जनकल्याण सर्वोपरि: उपराष्ट्रपति सी.पी. राधाकृष्णन",
-        "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने कहा है कि लोकतंत्र में मतभेद होना स्वाभाविक है, लेकिन संविधान और जन कल्याण के प्रति प्रतिबद्धता सर्वोपरि रहनी चाहिए। उन्होंने बिहार में गया में राज्‍य के लोक प्रशासन और ग्रामीण विकास संस्थान में 18वीं विधानसभा के सदस्यों के लिए आयोजित दो दिन के प्रशिक्षण कार्यक्रम का उद्घाटन करते हुए यह […]",
-        "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने कहा है कि लोकतंत्र में मतभेद होना स्वाभाविक है, लेकिन संविधान और जन कल्याण के प्रति प्रतिबद्धता सर्वोपरि रहनी चाहिए। उन्होंने बिहार में गया में राज्&#x200d;य के लोक प्रशासन और ग्रामीण विकास संस्थान में 18वीं विधानसभा के सदस्यों के लिए आयोजित दो दिन के प्रशिक्षण कार्यक्रम का उद्घाटन करते हुए यह बात कही। उपराष्ट्रपति राधाकृष्णन ने कहा कि ऐसे कार्यक्रम विधायकों को उनके संवैधानिक दायित्वों का प्रभावी ढंग से निर्वहन करने में सक्षम बनाकर लोकतांत्रिक संस्थाओं को मजबूत करते हैं। उपराष्ट्रपति ने बिहार को भारत की लोकतांत्रिक यात्रा का मार्गदर्शक बताया और विधायकों से इसकी गौरवशाली विरासत को बनाए रखने का आग्रह किया। उन्होंने विधायकों से ऐसे अवसर सृजित करने का आह्वान किया जिससे बिहार रोजगार तथा विकास का केंद्र बने और अन्य राज्यों से प्रवासी श्रमिकों को आकर्षित करे। उपराष्ट्रपति ने प्रश्नकाल, शून्यकाल और कार्य सलाहकार समिति के महत्व पर प्रकाश डालते हुए सदस्यों से विधायी कार्य को सुचारू और उत्पादक रूप से संचालित करने का आग्रह किया। उन्होंने कहा कि ये संसदीय व्यवस्थाएं प्रत्येक विधायक को दलीय हितों से परे अपने निर्वाचन क्षेत्रों से संबंधित मुद्दों को उठाने का महत्वपूर्ण अवसर प्रदान करती हैं। उन्होंने सदस्यों से ए आई, प्राकृतिक भाषा प्रसंस्करण और नेवा जैसी डिजिटल विधायी पहलों जैसी उभरती प्रौद्योगिकियों को अपनाने का आह्वान किया ताकि विधायी कार्यप्रणाली को अधिक कुशल, पारदर्शी और नागरिक-केंद्रित बनाया जा सके।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T12:42:55+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%ae%e0%a4%a4%e0%a4%ad%e0%a5%87%e0%a4%a6-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-180934.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "स्वैच्छिक परिवार नियोजन समावेशी और सतत विकास की मजबूत नींव: केंद्रीय मंत्री जगत प्रकाश नड्डा",
-        "summary": "केंद्रीय स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने कहा है कि स्वैच्छिक परिवार नियोजन, जागरूक निर्णय और स्वस्थ परिवार समावेशी तथा सतत विकास की मजबूत नींव हैं। विश्व जनसंख्या दिवस पर सोशल मीडिया संदेश में उन्होंने कहा कि इस वर्ष का विषय मां और बच्चे के कल्याण के लिए गर्भधारण के बीच स्वस्थ […]",
-        "article": "केंद्रीय स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने कहा है कि स्वैच्छिक परिवार नियोजन, जागरूक निर्णय और स्वस्थ परिवार समावेशी तथा सतत विकास की मजबूत नींव हैं। विश्व जनसंख्या दिवस पर सोशल मीडिया संदेश में उन्होंने कहा कि इस वर्ष का विषय मां और बच्चे के कल्याण के लिए गर्भधारण के बीच स्वस्थ अंतराल और नियोजित पितृत्व है। उन्होंने कहा कि अभियान का नारा &#8220;जब बच्चों में हो सही अंतराल, परिवार बने स्वस्थ और खुशहाल&#8221; गुणवत्तापूर्ण परिवार नियोजन सेवाओं तथा जागरूक प्रजनन संबंधी निर्णयों के महत्व को दर्शाता है। विश्व जनसंख्या दिवस के अवसर पर स्वास्थ्य और परिवार कल्याण मंत्रालय हर वर्ष एक विशेष अभियान चलाता है। इसका उद्देश्य मां और बच्चे के बेहतर स्वास्थ्य के लिए गर्भधारण के बीच उचित अंतराल को बढ़ावा देना और अनचाहे गर्भधारण की रोकथाम करना है।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T10:22:47+00:00",
-        "link": "https://newsonair.gov.in/hi/voluntary-family-planning-is-a-strong-foundation-for-inclusive-and-sustainable-development-union-minister-jagat-prakash-nadda/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-6.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-न्यूज़ीलैंड के बीच रक्षा, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 समझौता ज्ञापनों पर हस्ताक्षर",
-        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और […]",
-        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और डेयरी संबंधी समझौता अनुसंधान, नवाचार और बेहतर तकनीकों के आदान-प्रदान को प्रोत्साहित करेगा। पर्यटन समझौते से दोनों देशों के बीच पर्यटन और यात्रा सहयोग बढ़ेगा। खेल के क्षेत्र में संयुक्त कार्ययोजना भी अपनाई गई है, जबकि आपदा प्रबंधन समझौते से आपदा तैयारी, राहत और बचाव कार्यों में सहयोग मजबूत होगा। वार्ता के दौरान प्रधानमंत्री मोदी ने कहा कि 40 वर्ष बाद किसी भारतीय प्रधानमंत्री की न्यूज़ीलैंड यात्रा दोनों देशों के संबंधों में एक ऐतिहासिक पड़ाव है। उन्होंने कहा कि दोनों देशों ने सामरिक साझेदारी स्थापित करने का महत्वपूर्ण निर्णय लिया है, जो भविष्य के सहयोग को नई दिशा देगा। प्रधानमंत्री ने मुक्त व्यापार समझौते की दिशा में हुई प्रगति की सराहना करते हुए कहा कि भारत और न्यूज़ीलैंड हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और सुरक्षा को मजबूत करने में महत्वपूर्ण भूमिका निभा सकते हैं। न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने कहा कि प्रधानमंत्री मोदी की यह यात्रा दोनों देशों के संबंधों को नई ऊंचाई देगी। उन्होंने कहा कि सामरिक साझेदारी से व्यापार सहित कई क्षेत्रों में सहयोग का दायरा और बढ़ेगा। इससे पहले गवर्नमेंट हाउस में प्रधानमंत्री मोदी का औपचारिक स्वागत किया गया और उन्हें गार्ड ऑफ ऑनर दिया गया। प्रधानमंत्री आज भारतीय समुदाय को संबोधित करेंगे तथा उद्योग और खेल जगत की प्रमुख हस्तियों से भी मुलाकात करेंगे।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T09:07:24+00:00",
-        "link": "https://newsonair.gov.in/hi/five-memorandums-of-understanding-mous-signed-between-india-and-new-zealand-covering-defense-tourism-sports-and-disaster-management/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/A-3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "न्यूजीलैंड में भारतीय समुदाय, दोनों देशों के बीच मजबूत होते संबंधों का आधार: प्रधानमंत्री मोदी",
-        "summary": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि न्यूजीलैंड में भारतीय समुदाय, दोनों देशों के बीच मजबूत होते संबंधों का महत्वपूर्ण आधार है। ऑकलैंड में भारतीय समुदाय को संबोधित करते हुए श्री मोदी ने कहा कि भारत और न्यूजीलैंड के संबंध साझा विरासत, स्थायी मित्रता, समान लोकतांत्रिक मूल्यों और उज्ज्वल भविष्य के साझा संकल्प पर आधारित […]",
-        "article": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि न्यूजीलैंड में भारतीय समुदाय, दोनों देशों के बीच मजबूत होते संबंधों का महत्वपूर्ण आधार है। ऑकलैंड में भारतीय समुदाय को संबोधित करते हुए श्री मोदी ने कहा कि भारत और न्यूजीलैंड के संबंध साझा विरासत, स्थायी मित्रता, समान लोकतांत्रिक मूल्यों और उज्ज्वल भविष्य के साझा संकल्प पर आधारित हैं। उन्होंने कहा कि ऑकलैंड से वेलिंगटन और क्राइस्टचर्च से क्वीन्सटाउन तक भारतीय समुदाय ने दोनों देशों के संबंधों को मजबूत बनाने में महत्वपूर्ण योगदान दिया है। श्री मोदी ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन और वहां की सरकार के सदस्यों की उपस्थिति के लिए आभार व्यक्त किया। उन्होंने कहा कि यह भारत-न्यूजीलैंड संबंधों के प्रति व्यापक समर्थन का प्रतीक है। श्री मोदी ने कहा कि 4 दशक बाद किसी भारतीय प्रधानमंत्री की न्यूजीलैंड यात्रा हो रही है और वे 140 करोड़ भारतीयों की शुभकामनाएं वहां के भारतीय समुदाय तक लेकर पहुंचे हैं। इस अवसर पर न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने कहा कि दोनों देशों के बीच रणनीतिक और आर्थिक साझेदारी लगातार मजबूत हो रही है। उन्होंने कहा कि भारत-न्यूजीलैंड मुक्त व्यापार समझौते से न्यूजीलैंड के निर्यातकों को 140 करोड़ लोगों के विशाल बाजार तक पहुंच मिलेगी और न्यूजीलैंड में भारतीय कारोबार के लिए भी नए अवसर खुलेंगे। उन्होंने कहा कि भारत केवल एक व्यापारिक साझेदार नहीं, बल्कि न्यूजीलैंड का एक विश्वसनीय सहयोगी भी है। न्यूजीलैंड के प्रधानमंत्री ने भारत की बढ़ती वैश्विक प्रतिष्ठा, प्रधानमंत्री मोदी के नेतृत्व और न्यूजीलैंड के विकास में भारतीय समुदाय के योगदान की सराहना की। उन्होंने भारत को अपना महत्वपूर्ण साझेदार बताते हुए द्विपक्षीय संबंधों को नई ऊंचाइयों तक ले जाने की प्रतिबद्धता दोहराई। ऑकलैंड में आयोजित इस कार्यक्रम में भारतीय समुदाय के 10 हजार से अधिक लोग शामिल हुए। इस दौरान सांस्कृतिक प्रस्तुतियों, नारों और उत्साहपूर्ण माहौल ने कार्यक्रम को विशेष बना दिया।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T08:59:57+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-community-in-new-zealand-is-the-foundation-of-strong-ties-between-the-two-countries-prime-minister-modi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-142921.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वेनेज़ुएला में पिछले महीने आए शक्तिशाली भूकंप में मरने वालों का आंकड़ा 4 हज़ार के पार",
-        "summary": "वेनेज़ुएला में पिछले महीने आए दो शक्तिशाली भूकंपों में मरने वालों की संख्या 4 हजार से अधिक हो गई है। वेनेज़ुएला संसद प्रमुख जॉर्ज रोड्रिगेज़ के अनुसार, अब तक 4 हजार 118 लोगों की मौत हो चुकी है और 16 हजार 740 लोग घायल हुए हैं। वहीं, हजारों लोग अब भी लापता हैं। 24 जून […]",
-        "article": "वेनेज़ुएला में पिछले महीने आए दो शक्तिशाली भूकंपों में मरने वालों की संख्या 4 हजार से अधिक हो गई है। वेनेज़ुएला संसद प्रमुख जॉर्ज रोड्रिगेज़ के अनुसार, अब तक 4 हजार 118 लोगों की मौत हो चुकी है और 16 हजार 740 लोग घायल हुए हैं। वहीं, हजारों लोग अब भी लापता हैं। 24 जून को आए 7.2 और 7.5 तीव्रता के भूकंपों से ला गुएरा प्रांत में भारी तबाही हुई थी। संयुक्त राष्ट्र ने राहत और पुनर्वास कार्यों के लिए लगभग 30 करोड़ अमरीकी डॉलर की सहायता की अपील की है।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T06:01:15+00:00",
-        "link": "https://newsonair.gov.in/hi/the-death-toll-from-the-powerful-earthquake-that-struck-venezuela-last-month-has-crossed-4000/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMcAu8qawAA0-2g-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "breaking": [
       {
+        "title": "एफएसएसएआई ने उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए",
+        "summary": "खाद्य सुरक्षा एवं मानक प्राधिकरण-एफएसएसएआई ने खाद्य सुरक्षा और मानक अधिनियम 2006 के अंतर्गत नियमों का उल्लंघन करने के आरोपों से संबंधित कई उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए हैं। सोशल मीडिया पोस्ट में एफएसएसएआई ने कहा है कि स्विगी को विस्तृत स्पष्टीकरण और अनुपालन रिपोर्ट प्रस्तुत करने का निर्देश […]",
+        "article": "खाद्य सुरक्षा एवं मानक प्राधिकरण-एफएसएसएआई ने खाद्य सुरक्षा और मानक अधिनियम 2006 के अंतर्गत नियमों का उल्लंघन करने के आरोपों से संबंधित कई उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए हैं। सोशल मीडिया पोस्ट में एफएसएसएआई ने कहा है कि स्विगी को विस्तृत स्पष्टीकरण और अनुपालन रिपोर्ट प्रस्तुत करने का निर्देश दिया गया है और ऐसा न करने पर उचित कानूनी कार्रवाई शुरू की जाएगी। उपभोक्ता शिकायतों में स्विगी इंस्टामार्ट पर उत्&#x200d;पादों की निर्धारित अवधि समाप्&#x200d;त होने, खराब, सड़े, दूषित और अन्य प्रकार के असुरक्षित खाद्य उत्पादों की आपूर्ति का आरोप लगाया गया है। एफएसएसएआई के नोटिस में गलत, अमान्य या अनुपलब्&#x200d;ध लाइसेंस नंबरों और पंजीकृत नाम के स्&#x200d;थान पर किसी अलग नाम से संचालित खाद्य व्यवसाय संस्थाओं पर भी चिंता व्यक्त की गई है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:23:07+00:00",
+        "link": "https://newsonair.gov.in/hi/fssai-notice-to-swiggy/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री नरेन्द्र मोदी दो दिन की ऐतिहासिक न्यूजीलैंड यात्रा के बाद स्वदेश रवाना",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड की यात्रा पूरी कर स्‍वदेश रवाना हो गए हैं। इस दौरान श्री मोदी ने न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के साथ व्यापक बातचीत की। भारत और न्यूज़ीलैंड ने द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाया है। इस दौरान रक्षा, पर्यटन, खेल, आपदा प्रबंधन और डेयरी तथा पशुपालन सहित […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड की यात्रा पूरी कर स्&#x200d;वदेश रवाना हो गए हैं। इस दौरान श्री मोदी ने न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के साथ व्यापक बातचीत की। भारत और न्यूज़ीलैंड ने द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाया है। इस दौरान रक्षा, पर्यटन, खेल, आपदा प्रबंधन और डेयरी तथा पशुपालन सहित कई प्रमुख क्षेत्रों में समझौतों पर हस्ताक्षर किए गए। ऑकलैंड में सामुदायिक कार्यक्रम में भारतीय मूल के दस हज़ार से अधिक लोगों ने भाग लिया। श्री मोदी ने सभा को संबोधित करते हुए कहा कि भारत और न्यूज़ीलैंड का भविष्य आपस में जुड़ा हुआ है। उन्&#x200d;होंने कहा कि द्विपक्षीय व्यापार समझौता भारत की विकसित राष्ट्र बनने की यात्रा को गति प्रदान करेगा। प्रधानमंत्री लक्सन ने भारत को विश्&#x200d;वसनीय मित्र बताते हुए न्यूज़ीलैंड की प्रगति में भारतीय समुदाय के योगदान की सराहना की। उन्&#x200d;होंने प्रधानमंत्री मोदी के नेतृत्व की भी प्रशंसा की। श्री मोदी ने श्री लक्सन के शानदार आतिथ्य के लिए धन्यवाद दिया। उन्&#x200d;होंने कहा कि इस यात्रा से भारत-न्यूज़ीलैंड संबंधों में एक नया अध्याय शुरू है। श्री मोदी ने 40 वर्ष बाद भारतीय प्रधानमंत्री की न्&#x200d;यूजीलैंड यात्रा के बारे में कहा कि अगली यात्रा में इतना समय नहीं लगेगा। यात्रा की समाप्ति पर, प्रधानमंत्री लक्सन ने श्री मोदी को व्यक्तिगत रूप से हवाई अड्डे पर विदाई दी। सोशल मीडिया पोस्ट में, प्रधानमंत्री मोदी ने इस सफल यात्रा के दौरान मिले असाधारण स्नेह के लिए प्रधानमंत्री लक्सन, न्यूज़ीलैंड सरकार और लोगों को धन्यवाद दिया। श्री मोदी ने कहा कि संबंधों को रणनीतिक साझेदारी के स्तर तक ले जाने का निर्णय, व्यापार और निवेश में प्रगति तथा रक्षा, शिक्षा, संस्कृति, खेल और लोगों के बीच आपसी संबंधों में आई नई गति हमारी दोस्ती की बढ़ती गहराई को दर्शाती है। विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा कि प्रधानमंत्री मोदी की तीन देशों की यात्रा के महत्&#x200d;वपूर्ण परिणाम निकले हैं। इससे व्यापार, प्रौद्योगिकी, सुरक्षा, शिक्षा, नवाचार और लोगों के बीच आपसी संपर्क जैसे कई क्षेत्रों में सहयोग को बढ़ावा मिला है। उन्होंने बताया कि प्रधानमंत्री मोदी और न्यूज़ीलैंड के प्रधानमंत्री ने द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की। बातचीत में व्यापार और निवेश, रक्षा और सुरक्षा, कृषि प्रौद्योगिकी, खेल, शिक्षा, पर्यटन, संस्कृति और लोगों के बीच आपसी संपर्क जैसे विषय शामिल थे। प्रवक्ता ने कहा कि दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने की प्रतिबद्धता दोहराई। दोनों नेताओं ने भारत-न्यूज़ीलैंड मुक्त व्यापार समझौते को शीघ्र लागू करने के महत्व पर बल दिया। प्रधानमंत्री मोदी की तीन देशों की यात्रा के दौरान भारत ने इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड के साथ व्यापार, प्रौद्योगिकी, सुरक्षा, नवाचार, शिक्षा और लोगों के बीच आपसी संबंधों जैसे कई क्षेत्रों में सहयोग का विस्तार किया।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:17:27+00:00",
+        "link": "https://newsonair.gov.in/hi/return-journey-following-prime-minister-narendra-modis-historic-two-day-visit-to-new-zealand/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कृषि मंत्री शिवराज सिंह चौहान आज ‘पर्यावरण संरक्षण संकल्प’ कार्यक्रम में 17 हजार वृक्ष मित्रों से संवाद करेंगे",
+        "summary": "केंद्रीय कृषि और किसान कल्याण मंत्री शिवराज सिंह चौहान आज दिल्ली स्थित पूसा परिसर में &#8216;पर्यावरण संरक्षण संकल्प&#8217; कार्यक्रम में भाग लेंगे। इस अवसर पर वे देशभर से आए लगभग 17 हजार वृक्ष मित्रों से संवाद करेंगे और जनभागीदारी के माध्यम से पर्यावरण संरक्षण को राष्ट्रव्यापी जन आंदोलन में परिवर्तित करने का आह्वान करेंगे। […]",
+        "article": "केंद्रीय कृषि और किसान कल्याण मंत्री शिवराज सिंह चौहान आज दिल्ली स्थित पूसा परिसर में &#8216;पर्यावरण संरक्षण संकल्प&#8217; कार्यक्रम में भाग लेंगे। इस अवसर पर वे देशभर से आए लगभग 17 हजार वृक्ष मित्रों से संवाद करेंगे और जनभागीदारी के माध्यम से पर्यावरण संरक्षण को राष्ट्रव्यापी जन आंदोलन में परिवर्तित करने का आह्वान करेंगे। इस कार्यक्रम में देश के लगभग सभी राज्यों से ऐसे वृक्ष मित्र शामिल होंगे, जिन्होंने वृक्षारोपण, जल संरक्षण और पारिस्थितिकी पुनर्स्थापन के क्षेत्र में उल्लेखनीय योगदान दिया है। केंद्रीय मंत्री वृक्ष मित्रों के साथ पूसा परिसर में वृक्षारोपण अभियान में भी हिस्सा लेंगे।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:14:48+00:00",
+        "link": "https://newsonair.gov.in/hi/environment-protection-pledge/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गृह मंत्री अमित शाह आज अहमदाबाद में विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे",
+        "summary": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्‍वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
+        "article": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्&#x200d;न परियोजनाओं का शुभारंभ और शिलान्&#x200d;यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्&#x200d;वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T01:43:13+00:00",
+        "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "विश्व जनसंख्या दिवस पर स्वास्थ्य मंत्रालय ने राष्ट्रीय स्वास्थ्य मिशन के तहत मासिक वेबिनार श्रृंखला शुरू की",
         "summary": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की […]",
         "article": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की अध्यक्षता करते हुए मंत्रालय की अतिरिक्त सचिव आराधना पटनायक ने इस बात पर बल दिया कि नवाचार उत्तरदायी और लचीली सार्वजनिक स्वास्थ्य प्रणाली का मूल आधार है। उन्होंने वेबिनार श्रृंखला को नवीन पद्धतियों की पहचान, दस्तावेजीकरण और प्रसार के लिए एक महत्वपूर्ण संस्थागत तंत्र बताया। सुश्री पटनायक ने सभी राज्यों और केंद्र शासित प्रदेशों से वेबिनार श्रृंखला में सक्रिय रूप से भाग लेने और निरंतर सीखने, ज्ञान के आदान-प्रदान और नवाचार-संचालित कार्यक्रम में योगदान देने का आह्वान किया। पहला वेबिनार &#8220;एनीमिया, बाल और किशोर स्वास्थ्य&#8221; विषय पर केंद्रित था। वेबिनार में राष्ट्रीय, राज्य और जिला स्तर के पांच सौ से अधिक अधिकारियों ने भाग लिया।",
         "date": "2026-07-11",
         "pubDate": "2026-07-11T16:00:43+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5-%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a4%82%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%be-%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8-%e0%a4%aa%e0%a4%b0-%e0%a4%b8%e0%a5%8d/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-1-3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1179,19 +1220,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:56:16+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%a8%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%87-%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a5%87-%e0%a4%a4%e0%a5%80%e0%a4%a8-%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7-%e0%a4%aa/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेन्द्र मोदी दो दिन की ऐतिहासिक न्यूजीलैंड यात्रा के बाद स्वदेश रवाना",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी न्यूजीलैंड की अपनी दो दिन की ऐतिहासिक यात्रा संपन्न कर स्‍वदेश के लिए रवाना हो गए हैं। चार दशकों से अधिक समय में किसी भारतीय प्रधानमंत्री की न्यूजीलैंड की यह पहली यात्रा थी, जिसने द्विपक्षीय संबंधों को काफी मजबूती प्रदान की। इस यात्रा के दौरान, प्रधानमंत्री मोदी ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी न्यूजीलैंड की अपनी दो दिन की ऐतिहासिक यात्रा संपन्न कर स्&#x200d;वदेश के लिए रवाना हो गए हैं। चार दशकों से अधिक समय में किसी भारतीय प्रधानमंत्री की न्यूजीलैंड की यह पहली यात्रा थी, जिसने द्विपक्षीय संबंधों को काफी मजबूती प्रदान की। इस यात्रा के दौरान, प्रधानमंत्री मोदी ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन से बातचीत की। दोनों देशों ने रक्षा, पर्यटन, खेल, आपदा प्रबंधन और दुग्ध तथा पशुपालन सहित विभिन्न क्षेत्रों में पांच समझौता ज्ञापनों का आदान-प्रदान किया। इस यात्रा का प्रमुख आकर्षण ऑकलैंड के स्पार्क एरीना में आयोजित सामुदायिक कार्यक्रम था, जिसमें भारतीय प्रवासी समुदाय के दस हजार से अधिक सदस्यों ने भाग लिया। सभा को संबोधित करते हुए श्री मोदी ने कहा कि भारत और न्यूजीलैंड का भविष्य आपस में जुड़ा हुआ है और द्विपक्षीय व्यापार समझौता भारत को एक विकसित राष्ट्र बनने की दिशा में तेजी से आगे बढ़ाएगा। इस अवसर पर प्रधानमंत्री लक्सन ने भारत को एक विश्वसनीय मित्र बताया, न्यूजीलैंड की प्रगति में भारतीय समुदाय के योगदान की सराहना की और प्रधानमंत्री मोदी के नेतृत्व की प्रशंसा की। इस अवसर पर प्रधानमंत्री लक्सन ने भारत को एक भरोसेमंद मित्र बताया, न्यूजीलैंड की प्रगति में भारतीय समुदाय के योगदान की प्रशंसा की और प्रधानमंत्री मोदी के नेतृत्व की सराहना की। श्री मोदी ने प्रधानमंत्री लक्सन को उनके गर्मजोशी भरे आतिथ्य के लिए धन्यवाद दिया और कहा कि इस यात्रा ने भारत-न्यूजीलैंड संबंधों में एक नया अध्याय खोल दिया है।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:50:27+00:00",
-        "link": "https://newsonair.gov.in/hi/return-journey-following-prime-minister-narendra-modis-historic-two-day-visit-to-new-zealand/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM8J-CXbMAAQjus.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1201,8 +1231,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:33:27+00:00",
         "link": "https://newsonair.gov.in/hi/pradhan-mantri-formalisation-of-micro-food-processing-enterprises-scheme-crosses-the-milestone-of-two-lakh-loan-sanctions/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-210208.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1212,8 +1242,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:28:24+00:00",
         "link": "https://newsonair.gov.in/hi/15-indians-die-in-a-boat-accident-in-vietnam-president-vice-president-and-prime-minister-express-condolences/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1a0038fd-0e2d-4acc-b665-df32ae74896a.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1223,8 +1253,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:26:50+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%97%e0%a5%83%e0%a4%b9-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4-85/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-205348.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1234,54 +1264,65 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:09:07+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a5%80-%e0%a4%b5%e0%a5%88%e0%a4%b7%e0%a5%8d%e0%a4%a3-5/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-203808.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "लोकतंत्र में मतभेद स्वाभाविक, संविधान और जनकल्याण सर्वोपरि: उपराष्ट्रपति सी.पी. राधाकृष्णन",
-        "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने कहा है कि लोकतंत्र में मतभेद होना स्वाभाविक है, लेकिन संविधान और जन कल्याण के प्रति प्रतिबद्धता सर्वोपरि रहनी चाहिए। उन्होंने बिहार में गया में राज्‍य के लोक प्रशासन और ग्रामीण विकास संस्थान में 18वीं विधानसभा के सदस्यों के लिए आयोजित दो दिन के प्रशिक्षण कार्यक्रम का उद्घाटन करते हुए यह […]",
-        "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने कहा है कि लोकतंत्र में मतभेद होना स्वाभाविक है, लेकिन संविधान और जन कल्याण के प्रति प्रतिबद्धता सर्वोपरि रहनी चाहिए। उन्होंने बिहार में गया में राज्&#x200d;य के लोक प्रशासन और ग्रामीण विकास संस्थान में 18वीं विधानसभा के सदस्यों के लिए आयोजित दो दिन के प्रशिक्षण कार्यक्रम का उद्घाटन करते हुए यह बात कही। उपराष्ट्रपति राधाकृष्णन ने कहा कि ऐसे कार्यक्रम विधायकों को उनके संवैधानिक दायित्वों का प्रभावी ढंग से निर्वहन करने में सक्षम बनाकर लोकतांत्रिक संस्थाओं को मजबूत करते हैं। उपराष्ट्रपति ने बिहार को भारत की लोकतांत्रिक यात्रा का मार्गदर्शक बताया और विधायकों से इसकी गौरवशाली विरासत को बनाए रखने का आग्रह किया। उन्होंने विधायकों से ऐसे अवसर सृजित करने का आह्वान किया जिससे बिहार रोजगार तथा विकास का केंद्र बने और अन्य राज्यों से प्रवासी श्रमिकों को आकर्षित करे। उपराष्ट्रपति ने प्रश्नकाल, शून्यकाल और कार्य सलाहकार समिति के महत्व पर प्रकाश डालते हुए सदस्यों से विधायी कार्य को सुचारू और उत्पादक रूप से संचालित करने का आग्रह किया। उन्होंने कहा कि ये संसदीय व्यवस्थाएं प्रत्येक विधायक को दलीय हितों से परे अपने निर्वाचन क्षेत्रों से संबंधित मुद्दों को उठाने का महत्वपूर्ण अवसर प्रदान करती हैं। उन्होंने सदस्यों से ए आई, प्राकृतिक भाषा प्रसंस्करण और नेवा जैसी डिजिटल विधायी पहलों जैसी उभरती प्रौद्योगिकियों को अपनाने का आह्वान किया ताकि विधायी कार्यप्रणाली को अधिक कुशल, पारदर्शी और नागरिक-केंद्रित बनाया जा सके।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T12:42:55+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%ae%e0%a4%a4%e0%a4%ad%e0%a5%87%e0%a4%a6-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-180934.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "स्वैच्छिक परिवार नियोजन समावेशी और सतत विकास की मजबूत नींव: केंद्रीय मंत्री जगत प्रकाश नड्डा",
-        "summary": "केंद्रीय स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने कहा है कि स्वैच्छिक परिवार नियोजन, जागरूक निर्णय और स्वस्थ परिवार समावेशी तथा सतत विकास की मजबूत नींव हैं। विश्व जनसंख्या दिवस पर सोशल मीडिया संदेश में उन्होंने कहा कि इस वर्ष का विषय मां और बच्चे के कल्याण के लिए गर्भधारण के बीच स्वस्थ […]",
-        "article": "केंद्रीय स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने कहा है कि स्वैच्छिक परिवार नियोजन, जागरूक निर्णय और स्वस्थ परिवार समावेशी तथा सतत विकास की मजबूत नींव हैं। विश्व जनसंख्या दिवस पर सोशल मीडिया संदेश में उन्होंने कहा कि इस वर्ष का विषय मां और बच्चे के कल्याण के लिए गर्भधारण के बीच स्वस्थ अंतराल और नियोजित पितृत्व है। उन्होंने कहा कि अभियान का नारा &#8220;जब बच्चों में हो सही अंतराल, परिवार बने स्वस्थ और खुशहाल&#8221; गुणवत्तापूर्ण परिवार नियोजन सेवाओं तथा जागरूक प्रजनन संबंधी निर्णयों के महत्व को दर्शाता है। विश्व जनसंख्या दिवस के अवसर पर स्वास्थ्य और परिवार कल्याण मंत्रालय हर वर्ष एक विशेष अभियान चलाता है। इसका उद्देश्य मां और बच्चे के बेहतर स्वास्थ्य के लिए गर्भधारण के बीच उचित अंतराल को बढ़ावा देना और अनचाहे गर्भधारण की रोकथाम करना है।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T10:22:47+00:00",
-        "link": "https://newsonair.gov.in/hi/voluntary-family-planning-is-a-strong-foundation-for-inclusive-and-sustainable-development-union-minister-jagat-prakash-nadda/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-6.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-न्यूज़ीलैंड के बीच रक्षा, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 समझौता ज्ञापनों पर हस्ताक्षर",
-        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और […]",
-        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और डेयरी संबंधी समझौता अनुसंधान, नवाचार और बेहतर तकनीकों के आदान-प्रदान को प्रोत्साहित करेगा। पर्यटन समझौते से दोनों देशों के बीच पर्यटन और यात्रा सहयोग बढ़ेगा। खेल के क्षेत्र में संयुक्त कार्ययोजना भी अपनाई गई है, जबकि आपदा प्रबंधन समझौते से आपदा तैयारी, राहत और बचाव कार्यों में सहयोग मजबूत होगा। वार्ता के दौरान प्रधानमंत्री मोदी ने कहा कि 40 वर्ष बाद किसी भारतीय प्रधानमंत्री की न्यूज़ीलैंड यात्रा दोनों देशों के संबंधों में एक ऐतिहासिक पड़ाव है। उन्होंने कहा कि दोनों देशों ने सामरिक साझेदारी स्थापित करने का महत्वपूर्ण निर्णय लिया है, जो भविष्य के सहयोग को नई दिशा देगा। प्रधानमंत्री ने मुक्त व्यापार समझौते की दिशा में हुई प्रगति की सराहना करते हुए कहा कि भारत और न्यूज़ीलैंड हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और सुरक्षा को मजबूत करने में महत्वपूर्ण भूमिका निभा सकते हैं। न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने कहा कि प्रधानमंत्री मोदी की यह यात्रा दोनों देशों के संबंधों को नई ऊंचाई देगी। उन्होंने कहा कि सामरिक साझेदारी से व्यापार सहित कई क्षेत्रों में सहयोग का दायरा और बढ़ेगा। इससे पहले गवर्नमेंट हाउस में प्रधानमंत्री मोदी का औपचारिक स्वागत किया गया और उन्हें गार्ड ऑफ ऑनर दिया गया। प्रधानमंत्री आज भारतीय समुदाय को संबोधित करेंगे तथा उद्योग और खेल जगत की प्रमुख हस्तियों से भी मुलाकात करेंगे।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T09:07:24+00:00",
-        "link": "https://newsonair.gov.in/hi/five-memorandums-of-understanding-mous-signed-between-india-and-new-zealand-covering-defense-tourism-sports-and-disaster-management/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/A-3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "एफएसएसएआई ने उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए",
+        "summary": "खाद्य सुरक्षा एवं मानक प्राधिकरण-एफएसएसएआई ने खाद्य सुरक्षा और मानक अधिनियम 2006 के अंतर्गत नियमों का उल्लंघन करने के आरोपों से संबंधित कई उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए हैं। सोशल मीडिया पोस्ट में एफएसएसएआई ने कहा है कि स्विगी को विस्तृत स्पष्टीकरण और अनुपालन रिपोर्ट प्रस्तुत करने का निर्देश […]",
+        "article": "खाद्य सुरक्षा एवं मानक प्राधिकरण-एफएसएसएआई ने खाद्य सुरक्षा और मानक अधिनियम 2006 के अंतर्गत नियमों का उल्लंघन करने के आरोपों से संबंधित कई उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए हैं। सोशल मीडिया पोस्ट में एफएसएसएआई ने कहा है कि स्विगी को विस्तृत स्पष्टीकरण और अनुपालन रिपोर्ट प्रस्तुत करने का निर्देश दिया गया है और ऐसा न करने पर उचित कानूनी कार्रवाई शुरू की जाएगी। उपभोक्ता शिकायतों में स्विगी इंस्टामार्ट पर उत्&#x200d;पादों की निर्धारित अवधि समाप्&#x200d;त होने, खराब, सड़े, दूषित और अन्य प्रकार के असुरक्षित खाद्य उत्पादों की आपूर्ति का आरोप लगाया गया है। एफएसएसएआई के नोटिस में गलत, अमान्य या अनुपलब्&#x200d;ध लाइसेंस नंबरों और पंजीकृत नाम के स्&#x200d;थान पर किसी अलग नाम से संचालित खाद्य व्यवसाय संस्थाओं पर भी चिंता व्यक्त की गई है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:23:07+00:00",
+        "link": "https://newsonair.gov.in/hi/fssai-notice-to-swiggy/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री नरेन्द्र मोदी दो दिन की ऐतिहासिक न्यूजीलैंड यात्रा के बाद स्वदेश रवाना",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड की यात्रा पूरी कर स्‍वदेश रवाना हो गए हैं। इस दौरान श्री मोदी ने न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के साथ व्यापक बातचीत की। भारत और न्यूज़ीलैंड ने द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाया है। इस दौरान रक्षा, पर्यटन, खेल, आपदा प्रबंधन और डेयरी तथा पशुपालन सहित […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड की यात्रा पूरी कर स्&#x200d;वदेश रवाना हो गए हैं। इस दौरान श्री मोदी ने न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के साथ व्यापक बातचीत की। भारत और न्यूज़ीलैंड ने द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाया है। इस दौरान रक्षा, पर्यटन, खेल, आपदा प्रबंधन और डेयरी तथा पशुपालन सहित कई प्रमुख क्षेत्रों में समझौतों पर हस्ताक्षर किए गए। ऑकलैंड में सामुदायिक कार्यक्रम में भारतीय मूल के दस हज़ार से अधिक लोगों ने भाग लिया। श्री मोदी ने सभा को संबोधित करते हुए कहा कि भारत और न्यूज़ीलैंड का भविष्य आपस में जुड़ा हुआ है। उन्&#x200d;होंने कहा कि द्विपक्षीय व्यापार समझौता भारत की विकसित राष्ट्र बनने की यात्रा को गति प्रदान करेगा। प्रधानमंत्री लक्सन ने भारत को विश्&#x200d;वसनीय मित्र बताते हुए न्यूज़ीलैंड की प्रगति में भारतीय समुदाय के योगदान की सराहना की। उन्&#x200d;होंने प्रधानमंत्री मोदी के नेतृत्व की भी प्रशंसा की। श्री मोदी ने श्री लक्सन के शानदार आतिथ्य के लिए धन्यवाद दिया। उन्&#x200d;होंने कहा कि इस यात्रा से भारत-न्यूज़ीलैंड संबंधों में एक नया अध्याय शुरू है। श्री मोदी ने 40 वर्ष बाद भारतीय प्रधानमंत्री की न्&#x200d;यूजीलैंड यात्रा के बारे में कहा कि अगली यात्रा में इतना समय नहीं लगेगा। यात्रा की समाप्ति पर, प्रधानमंत्री लक्सन ने श्री मोदी को व्यक्तिगत रूप से हवाई अड्डे पर विदाई दी। सोशल मीडिया पोस्ट में, प्रधानमंत्री मोदी ने इस सफल यात्रा के दौरान मिले असाधारण स्नेह के लिए प्रधानमंत्री लक्सन, न्यूज़ीलैंड सरकार और लोगों को धन्यवाद दिया। श्री मोदी ने कहा कि संबंधों को रणनीतिक साझेदारी के स्तर तक ले जाने का निर्णय, व्यापार और निवेश में प्रगति तथा रक्षा, शिक्षा, संस्कृति, खेल और लोगों के बीच आपसी संबंधों में आई नई गति हमारी दोस्ती की बढ़ती गहराई को दर्शाती है। विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा कि प्रधानमंत्री मोदी की तीन देशों की यात्रा के महत्&#x200d;वपूर्ण परिणाम निकले हैं। इससे व्यापार, प्रौद्योगिकी, सुरक्षा, शिक्षा, नवाचार और लोगों के बीच आपसी संपर्क जैसे कई क्षेत्रों में सहयोग को बढ़ावा मिला है। उन्होंने बताया कि प्रधानमंत्री मोदी और न्यूज़ीलैंड के प्रधानमंत्री ने द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की। बातचीत में व्यापार और निवेश, रक्षा और सुरक्षा, कृषि प्रौद्योगिकी, खेल, शिक्षा, पर्यटन, संस्कृति और लोगों के बीच आपसी संपर्क जैसे विषय शामिल थे। प्रवक्ता ने कहा कि दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने की प्रतिबद्धता दोहराई। दोनों नेताओं ने भारत-न्यूज़ीलैंड मुक्त व्यापार समझौते को शीघ्र लागू करने के महत्व पर बल दिया। प्रधानमंत्री मोदी की तीन देशों की यात्रा के दौरान भारत ने इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड के साथ व्यापार, प्रौद्योगिकी, सुरक्षा, नवाचार, शिक्षा और लोगों के बीच आपसी संबंधों जैसे कई क्षेत्रों में सहयोग का विस्तार किया।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:17:27+00:00",
+        "link": "https://newsonair.gov.in/hi/return-journey-following-prime-minister-narendra-modis-historic-two-day-visit-to-new-zealand/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कृषि मंत्री शिवराज सिंह चौहान आज ‘पर्यावरण संरक्षण संकल्प’ कार्यक्रम में 17 हजार वृक्ष मित्रों से संवाद करेंगे",
+        "summary": "केंद्रीय कृषि और किसान कल्याण मंत्री शिवराज सिंह चौहान आज दिल्ली स्थित पूसा परिसर में &#8216;पर्यावरण संरक्षण संकल्प&#8217; कार्यक्रम में भाग लेंगे। इस अवसर पर वे देशभर से आए लगभग 17 हजार वृक्ष मित्रों से संवाद करेंगे और जनभागीदारी के माध्यम से पर्यावरण संरक्षण को राष्ट्रव्यापी जन आंदोलन में परिवर्तित करने का आह्वान करेंगे। […]",
+        "article": "केंद्रीय कृषि और किसान कल्याण मंत्री शिवराज सिंह चौहान आज दिल्ली स्थित पूसा परिसर में &#8216;पर्यावरण संरक्षण संकल्प&#8217; कार्यक्रम में भाग लेंगे। इस अवसर पर वे देशभर से आए लगभग 17 हजार वृक्ष मित्रों से संवाद करेंगे और जनभागीदारी के माध्यम से पर्यावरण संरक्षण को राष्ट्रव्यापी जन आंदोलन में परिवर्तित करने का आह्वान करेंगे। इस कार्यक्रम में देश के लगभग सभी राज्यों से ऐसे वृक्ष मित्र शामिल होंगे, जिन्होंने वृक्षारोपण, जल संरक्षण और पारिस्थितिकी पुनर्स्थापन के क्षेत्र में उल्लेखनीय योगदान दिया है। केंद्रीय मंत्री वृक्ष मित्रों के साथ पूसा परिसर में वृक्षारोपण अभियान में भी हिस्सा लेंगे।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:14:48+00:00",
+        "link": "https://newsonair.gov.in/hi/environment-protection-pledge/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गृह मंत्री अमित शाह आज अहमदाबाद में विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे",
+        "summary": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्‍वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
+        "article": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्&#x200d;न परियोजनाओं का शुभारंभ और शिलान्&#x200d;यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्&#x200d;वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T01:43:13+00:00",
+        "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "विश्व जनसंख्या दिवस पर स्वास्थ्य मंत्रालय ने राष्ट्रीय स्वास्थ्य मिशन के तहत मासिक वेबिनार श्रृंखला शुरू की",
         "summary": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की […]",
         "article": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की अध्यक्षता करते हुए मंत्रालय की अतिरिक्त सचिव आराधना पटनायक ने इस बात पर बल दिया कि नवाचार उत्तरदायी और लचीली सार्वजनिक स्वास्थ्य प्रणाली का मूल आधार है। उन्होंने वेबिनार श्रृंखला को नवीन पद्धतियों की पहचान, दस्तावेजीकरण और प्रसार के लिए एक महत्वपूर्ण संस्थागत तंत्र बताया। सुश्री पटनायक ने सभी राज्यों और केंद्र शासित प्रदेशों से वेबिनार श्रृंखला में सक्रिय रूप से भाग लेने और निरंतर सीखने, ज्ञान के आदान-प्रदान और नवाचार-संचालित कार्यक्रम में योगदान देने का आह्वान किया। पहला वेबिनार &#8220;एनीमिया, बाल और किशोर स्वास्थ्य&#8221; विषय पर केंद्रित था। वेबिनार में राष्ट्रीय, राज्य और जिला स्तर के पांच सौ से अधिक अधिकारियों ने भाग लिया।",
         "date": "2026-07-11",
         "pubDate": "2026-07-11T16:00:43+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5-%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a4%82%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%be-%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8-%e0%a4%aa%e0%a4%b0-%e0%a4%b8%e0%a5%8d/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-1-3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1291,19 +1332,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:56:16+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%a8%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%87-%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a5%87-%e0%a4%a4%e0%a5%80%e0%a4%a8-%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7-%e0%a4%aa/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेन्द्र मोदी दो दिन की ऐतिहासिक न्यूजीलैंड यात्रा के बाद स्वदेश रवाना",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी न्यूजीलैंड की अपनी दो दिन की ऐतिहासिक यात्रा संपन्न कर स्‍वदेश के लिए रवाना हो गए हैं। चार दशकों से अधिक समय में किसी भारतीय प्रधानमंत्री की न्यूजीलैंड की यह पहली यात्रा थी, जिसने द्विपक्षीय संबंधों को काफी मजबूती प्रदान की। इस यात्रा के दौरान, प्रधानमंत्री मोदी ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी न्यूजीलैंड की अपनी दो दिन की ऐतिहासिक यात्रा संपन्न कर स्&#x200d;वदेश के लिए रवाना हो गए हैं। चार दशकों से अधिक समय में किसी भारतीय प्रधानमंत्री की न्यूजीलैंड की यह पहली यात्रा थी, जिसने द्विपक्षीय संबंधों को काफी मजबूती प्रदान की। इस यात्रा के दौरान, प्रधानमंत्री मोदी ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन से बातचीत की। दोनों देशों ने रक्षा, पर्यटन, खेल, आपदा प्रबंधन और दुग्ध तथा पशुपालन सहित विभिन्न क्षेत्रों में पांच समझौता ज्ञापनों का आदान-प्रदान किया। इस यात्रा का प्रमुख आकर्षण ऑकलैंड के स्पार्क एरीना में आयोजित सामुदायिक कार्यक्रम था, जिसमें भारतीय प्रवासी समुदाय के दस हजार से अधिक सदस्यों ने भाग लिया। सभा को संबोधित करते हुए श्री मोदी ने कहा कि भारत और न्यूजीलैंड का भविष्य आपस में जुड़ा हुआ है और द्विपक्षीय व्यापार समझौता भारत को एक विकसित राष्ट्र बनने की दिशा में तेजी से आगे बढ़ाएगा। इस अवसर पर प्रधानमंत्री लक्सन ने भारत को एक विश्वसनीय मित्र बताया, न्यूजीलैंड की प्रगति में भारतीय समुदाय के योगदान की सराहना की और प्रधानमंत्री मोदी के नेतृत्व की प्रशंसा की। इस अवसर पर प्रधानमंत्री लक्सन ने भारत को एक भरोसेमंद मित्र बताया, न्यूजीलैंड की प्रगति में भारतीय समुदाय के योगदान की प्रशंसा की और प्रधानमंत्री मोदी के नेतृत्व की सराहना की। श्री मोदी ने प्रधानमंत्री लक्सन को उनके गर्मजोशी भरे आतिथ्य के लिए धन्यवाद दिया और कहा कि इस यात्रा ने भारत-न्यूजीलैंड संबंधों में एक नया अध्याय खोल दिया है।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:50:27+00:00",
-        "link": "https://newsonair.gov.in/hi/return-journey-following-prime-minister-narendra-modis-historic-two-day-visit-to-new-zealand/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM8J-CXbMAAQjus.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1313,8 +1343,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:33:27+00:00",
         "link": "https://newsonair.gov.in/hi/pradhan-mantri-formalisation-of-micro-food-processing-enterprises-scheme-crosses-the-milestone-of-two-lakh-loan-sanctions/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-210208.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1324,8 +1354,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:28:24+00:00",
         "link": "https://newsonair.gov.in/hi/15-indians-die-in-a-boat-accident-in-vietnam-president-vice-president-and-prime-minister-express-condolences/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1a0038fd-0e2d-4acc-b665-df32ae74896a.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1335,8 +1365,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:26:50+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%97%e0%a5%83%e0%a4%b9-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4-85/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-205348.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1346,54 +1376,65 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:09:07+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a5%80-%e0%a4%b5%e0%a5%88%e0%a4%b7%e0%a5%8d%e0%a4%a3-5/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-203808.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "लोकतंत्र में मतभेद स्वाभाविक, संविधान और जनकल्याण सर्वोपरि: उपराष्ट्रपति सी.पी. राधाकृष्णन",
-        "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने कहा है कि लोकतंत्र में मतभेद होना स्वाभाविक है, लेकिन संविधान और जन कल्याण के प्रति प्रतिबद्धता सर्वोपरि रहनी चाहिए। उन्होंने बिहार में गया में राज्‍य के लोक प्रशासन और ग्रामीण विकास संस्थान में 18वीं विधानसभा के सदस्यों के लिए आयोजित दो दिन के प्रशिक्षण कार्यक्रम का उद्घाटन करते हुए यह […]",
-        "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने कहा है कि लोकतंत्र में मतभेद होना स्वाभाविक है, लेकिन संविधान और जन कल्याण के प्रति प्रतिबद्धता सर्वोपरि रहनी चाहिए। उन्होंने बिहार में गया में राज्&#x200d;य के लोक प्रशासन और ग्रामीण विकास संस्थान में 18वीं विधानसभा के सदस्यों के लिए आयोजित दो दिन के प्रशिक्षण कार्यक्रम का उद्घाटन करते हुए यह बात कही। उपराष्ट्रपति राधाकृष्णन ने कहा कि ऐसे कार्यक्रम विधायकों को उनके संवैधानिक दायित्वों का प्रभावी ढंग से निर्वहन करने में सक्षम बनाकर लोकतांत्रिक संस्थाओं को मजबूत करते हैं। उपराष्ट्रपति ने बिहार को भारत की लोकतांत्रिक यात्रा का मार्गदर्शक बताया और विधायकों से इसकी गौरवशाली विरासत को बनाए रखने का आग्रह किया। उन्होंने विधायकों से ऐसे अवसर सृजित करने का आह्वान किया जिससे बिहार रोजगार तथा विकास का केंद्र बने और अन्य राज्यों से प्रवासी श्रमिकों को आकर्षित करे। उपराष्ट्रपति ने प्रश्नकाल, शून्यकाल और कार्य सलाहकार समिति के महत्व पर प्रकाश डालते हुए सदस्यों से विधायी कार्य को सुचारू और उत्पादक रूप से संचालित करने का आग्रह किया। उन्होंने कहा कि ये संसदीय व्यवस्थाएं प्रत्येक विधायक को दलीय हितों से परे अपने निर्वाचन क्षेत्रों से संबंधित मुद्दों को उठाने का महत्वपूर्ण अवसर प्रदान करती हैं। उन्होंने सदस्यों से ए आई, प्राकृतिक भाषा प्रसंस्करण और नेवा जैसी डिजिटल विधायी पहलों जैसी उभरती प्रौद्योगिकियों को अपनाने का आह्वान किया ताकि विधायी कार्यप्रणाली को अधिक कुशल, पारदर्शी और नागरिक-केंद्रित बनाया जा सके।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T12:42:55+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%ae%e0%a4%a4%e0%a4%ad%e0%a5%87%e0%a4%a6-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-180934.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "स्वैच्छिक परिवार नियोजन समावेशी और सतत विकास की मजबूत नींव: केंद्रीय मंत्री जगत प्रकाश नड्डा",
-        "summary": "केंद्रीय स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने कहा है कि स्वैच्छिक परिवार नियोजन, जागरूक निर्णय और स्वस्थ परिवार समावेशी तथा सतत विकास की मजबूत नींव हैं। विश्व जनसंख्या दिवस पर सोशल मीडिया संदेश में उन्होंने कहा कि इस वर्ष का विषय मां और बच्चे के कल्याण के लिए गर्भधारण के बीच स्वस्थ […]",
-        "article": "केंद्रीय स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने कहा है कि स्वैच्छिक परिवार नियोजन, जागरूक निर्णय और स्वस्थ परिवार समावेशी तथा सतत विकास की मजबूत नींव हैं। विश्व जनसंख्या दिवस पर सोशल मीडिया संदेश में उन्होंने कहा कि इस वर्ष का विषय मां और बच्चे के कल्याण के लिए गर्भधारण के बीच स्वस्थ अंतराल और नियोजित पितृत्व है। उन्होंने कहा कि अभियान का नारा &#8220;जब बच्चों में हो सही अंतराल, परिवार बने स्वस्थ और खुशहाल&#8221; गुणवत्तापूर्ण परिवार नियोजन सेवाओं तथा जागरूक प्रजनन संबंधी निर्णयों के महत्व को दर्शाता है। विश्व जनसंख्या दिवस के अवसर पर स्वास्थ्य और परिवार कल्याण मंत्रालय हर वर्ष एक विशेष अभियान चलाता है। इसका उद्देश्य मां और बच्चे के बेहतर स्वास्थ्य के लिए गर्भधारण के बीच उचित अंतराल को बढ़ावा देना और अनचाहे गर्भधारण की रोकथाम करना है।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T10:22:47+00:00",
-        "link": "https://newsonair.gov.in/hi/voluntary-family-planning-is-a-strong-foundation-for-inclusive-and-sustainable-development-union-minister-jagat-prakash-nadda/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-6.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-न्यूज़ीलैंड के बीच रक्षा, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 समझौता ज्ञापनों पर हस्ताक्षर",
-        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और […]",
-        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और डेयरी संबंधी समझौता अनुसंधान, नवाचार और बेहतर तकनीकों के आदान-प्रदान को प्रोत्साहित करेगा। पर्यटन समझौते से दोनों देशों के बीच पर्यटन और यात्रा सहयोग बढ़ेगा। खेल के क्षेत्र में संयुक्त कार्ययोजना भी अपनाई गई है, जबकि आपदा प्रबंधन समझौते से आपदा तैयारी, राहत और बचाव कार्यों में सहयोग मजबूत होगा। वार्ता के दौरान प्रधानमंत्री मोदी ने कहा कि 40 वर्ष बाद किसी भारतीय प्रधानमंत्री की न्यूज़ीलैंड यात्रा दोनों देशों के संबंधों में एक ऐतिहासिक पड़ाव है। उन्होंने कहा कि दोनों देशों ने सामरिक साझेदारी स्थापित करने का महत्वपूर्ण निर्णय लिया है, जो भविष्य के सहयोग को नई दिशा देगा। प्रधानमंत्री ने मुक्त व्यापार समझौते की दिशा में हुई प्रगति की सराहना करते हुए कहा कि भारत और न्यूज़ीलैंड हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और सुरक्षा को मजबूत करने में महत्वपूर्ण भूमिका निभा सकते हैं। न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने कहा कि प्रधानमंत्री मोदी की यह यात्रा दोनों देशों के संबंधों को नई ऊंचाई देगी। उन्होंने कहा कि सामरिक साझेदारी से व्यापार सहित कई क्षेत्रों में सहयोग का दायरा और बढ़ेगा। इससे पहले गवर्नमेंट हाउस में प्रधानमंत्री मोदी का औपचारिक स्वागत किया गया और उन्हें गार्ड ऑफ ऑनर दिया गया। प्रधानमंत्री आज भारतीय समुदाय को संबोधित करेंगे तथा उद्योग और खेल जगत की प्रमुख हस्तियों से भी मुलाकात करेंगे।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T09:07:24+00:00",
-        "link": "https://newsonair.gov.in/hi/five-memorandums-of-understanding-mous-signed-between-india-and-new-zealand-covering-defense-tourism-sports-and-disaster-management/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/A-3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "एफएसएसएआई ने उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए",
+        "summary": "खाद्य सुरक्षा एवं मानक प्राधिकरण-एफएसएसएआई ने खाद्य सुरक्षा और मानक अधिनियम 2006 के अंतर्गत नियमों का उल्लंघन करने के आरोपों से संबंधित कई उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए हैं। सोशल मीडिया पोस्ट में एफएसएसएआई ने कहा है कि स्विगी को विस्तृत स्पष्टीकरण और अनुपालन रिपोर्ट प्रस्तुत करने का निर्देश […]",
+        "article": "खाद्य सुरक्षा एवं मानक प्राधिकरण-एफएसएसएआई ने खाद्य सुरक्षा और मानक अधिनियम 2006 के अंतर्गत नियमों का उल्लंघन करने के आरोपों से संबंधित कई उपभोक्ता शिकायतों के बाद स्विगी इंस्टामार्ट को नौ नोटिस जारी किए हैं। सोशल मीडिया पोस्ट में एफएसएसएआई ने कहा है कि स्विगी को विस्तृत स्पष्टीकरण और अनुपालन रिपोर्ट प्रस्तुत करने का निर्देश दिया गया है और ऐसा न करने पर उचित कानूनी कार्रवाई शुरू की जाएगी। उपभोक्ता शिकायतों में स्विगी इंस्टामार्ट पर उत्&#x200d;पादों की निर्धारित अवधि समाप्&#x200d;त होने, खराब, सड़े, दूषित और अन्य प्रकार के असुरक्षित खाद्य उत्पादों की आपूर्ति का आरोप लगाया गया है। एफएसएसएआई के नोटिस में गलत, अमान्य या अनुपलब्&#x200d;ध लाइसेंस नंबरों और पंजीकृत नाम के स्&#x200d;थान पर किसी अलग नाम से संचालित खाद्य व्यवसाय संस्थाओं पर भी चिंता व्यक्त की गई है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:23:07+00:00",
+        "link": "https://newsonair.gov.in/hi/fssai-notice-to-swiggy/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री नरेन्द्र मोदी दो दिन की ऐतिहासिक न्यूजीलैंड यात्रा के बाद स्वदेश रवाना",
+        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड की यात्रा पूरी कर स्‍वदेश रवाना हो गए हैं। इस दौरान श्री मोदी ने न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के साथ व्यापक बातचीत की। भारत और न्यूज़ीलैंड ने द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाया है। इस दौरान रक्षा, पर्यटन, खेल, आपदा प्रबंधन और डेयरी तथा पशुपालन सहित […]",
+        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड की यात्रा पूरी कर स्&#x200d;वदेश रवाना हो गए हैं। इस दौरान श्री मोदी ने न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के साथ व्यापक बातचीत की। भारत और न्यूज़ीलैंड ने द्विपक्षीय संबंधों को रणनीतिक साझेदारी तक बढ़ाया है। इस दौरान रक्षा, पर्यटन, खेल, आपदा प्रबंधन और डेयरी तथा पशुपालन सहित कई प्रमुख क्षेत्रों में समझौतों पर हस्ताक्षर किए गए। ऑकलैंड में सामुदायिक कार्यक्रम में भारतीय मूल के दस हज़ार से अधिक लोगों ने भाग लिया। श्री मोदी ने सभा को संबोधित करते हुए कहा कि भारत और न्यूज़ीलैंड का भविष्य आपस में जुड़ा हुआ है। उन्&#x200d;होंने कहा कि द्विपक्षीय व्यापार समझौता भारत की विकसित राष्ट्र बनने की यात्रा को गति प्रदान करेगा। प्रधानमंत्री लक्सन ने भारत को विश्&#x200d;वसनीय मित्र बताते हुए न्यूज़ीलैंड की प्रगति में भारतीय समुदाय के योगदान की सराहना की। उन्&#x200d;होंने प्रधानमंत्री मोदी के नेतृत्व की भी प्रशंसा की। श्री मोदी ने श्री लक्सन के शानदार आतिथ्य के लिए धन्यवाद दिया। उन्&#x200d;होंने कहा कि इस यात्रा से भारत-न्यूज़ीलैंड संबंधों में एक नया अध्याय शुरू है। श्री मोदी ने 40 वर्ष बाद भारतीय प्रधानमंत्री की न्&#x200d;यूजीलैंड यात्रा के बारे में कहा कि अगली यात्रा में इतना समय नहीं लगेगा। यात्रा की समाप्ति पर, प्रधानमंत्री लक्सन ने श्री मोदी को व्यक्तिगत रूप से हवाई अड्डे पर विदाई दी। सोशल मीडिया पोस्ट में, प्रधानमंत्री मोदी ने इस सफल यात्रा के दौरान मिले असाधारण स्नेह के लिए प्रधानमंत्री लक्सन, न्यूज़ीलैंड सरकार और लोगों को धन्यवाद दिया। श्री मोदी ने कहा कि संबंधों को रणनीतिक साझेदारी के स्तर तक ले जाने का निर्णय, व्यापार और निवेश में प्रगति तथा रक्षा, शिक्षा, संस्कृति, खेल और लोगों के बीच आपसी संबंधों में आई नई गति हमारी दोस्ती की बढ़ती गहराई को दर्शाती है। विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा कि प्रधानमंत्री मोदी की तीन देशों की यात्रा के महत्&#x200d;वपूर्ण परिणाम निकले हैं। इससे व्यापार, प्रौद्योगिकी, सुरक्षा, शिक्षा, नवाचार और लोगों के बीच आपसी संपर्क जैसे कई क्षेत्रों में सहयोग को बढ़ावा मिला है। उन्होंने बताया कि प्रधानमंत्री मोदी और न्यूज़ीलैंड के प्रधानमंत्री ने द्विपक्षीय संबंधों के सभी पहलुओं की समीक्षा की। बातचीत में व्यापार और निवेश, रक्षा और सुरक्षा, कृषि प्रौद्योगिकी, खेल, शिक्षा, पर्यटन, संस्कृति और लोगों के बीच आपसी संपर्क जैसे विषय शामिल थे। प्रवक्ता ने कहा कि दोनों नेताओं ने आपसी हित के क्षेत्रों में सहयोग बढ़ाने की प्रतिबद्धता दोहराई। दोनों नेताओं ने भारत-न्यूज़ीलैंड मुक्त व्यापार समझौते को शीघ्र लागू करने के महत्व पर बल दिया। प्रधानमंत्री मोदी की तीन देशों की यात्रा के दौरान भारत ने इंडोनेशिया, ऑस्ट्रेलिया और न्यूज़ीलैंड के साथ व्यापार, प्रौद्योगिकी, सुरक्षा, नवाचार, शिक्षा और लोगों के बीच आपसी संबंधों जैसे कई क्षेत्रों में सहयोग का विस्तार किया।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:17:27+00:00",
+        "link": "https://newsonair.gov.in/hi/return-journey-following-prime-minister-narendra-modis-historic-two-day-visit-to-new-zealand/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कृषि मंत्री शिवराज सिंह चौहान आज ‘पर्यावरण संरक्षण संकल्प’ कार्यक्रम में 17 हजार वृक्ष मित्रों से संवाद करेंगे",
+        "summary": "केंद्रीय कृषि और किसान कल्याण मंत्री शिवराज सिंह चौहान आज दिल्ली स्थित पूसा परिसर में &#8216;पर्यावरण संरक्षण संकल्प&#8217; कार्यक्रम में भाग लेंगे। इस अवसर पर वे देशभर से आए लगभग 17 हजार वृक्ष मित्रों से संवाद करेंगे और जनभागीदारी के माध्यम से पर्यावरण संरक्षण को राष्ट्रव्यापी जन आंदोलन में परिवर्तित करने का आह्वान करेंगे। […]",
+        "article": "केंद्रीय कृषि और किसान कल्याण मंत्री शिवराज सिंह चौहान आज दिल्ली स्थित पूसा परिसर में &#8216;पर्यावरण संरक्षण संकल्प&#8217; कार्यक्रम में भाग लेंगे। इस अवसर पर वे देशभर से आए लगभग 17 हजार वृक्ष मित्रों से संवाद करेंगे और जनभागीदारी के माध्यम से पर्यावरण संरक्षण को राष्ट्रव्यापी जन आंदोलन में परिवर्तित करने का आह्वान करेंगे। इस कार्यक्रम में देश के लगभग सभी राज्यों से ऐसे वृक्ष मित्र शामिल होंगे, जिन्होंने वृक्षारोपण, जल संरक्षण और पारिस्थितिकी पुनर्स्थापन के क्षेत्र में उल्लेखनीय योगदान दिया है। केंद्रीय मंत्री वृक्ष मित्रों के साथ पूसा परिसर में वृक्षारोपण अभियान में भी हिस्सा लेंगे।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:14:48+00:00",
+        "link": "https://newsonair.gov.in/hi/environment-protection-pledge/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गृह मंत्री अमित शाह आज अहमदाबाद में विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे",
+        "summary": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्‍वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
+        "article": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्&#x200d;न परियोजनाओं का शुभारंभ और शिलान्&#x200d;यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्&#x200d;वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T01:43:13+00:00",
+        "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "विश्व जनसंख्या दिवस पर स्वास्थ्य मंत्रालय ने राष्ट्रीय स्वास्थ्य मिशन के तहत मासिक वेबिनार श्रृंखला शुरू की",
         "summary": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की […]",
         "article": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की अध्यक्षता करते हुए मंत्रालय की अतिरिक्त सचिव आराधना पटनायक ने इस बात पर बल दिया कि नवाचार उत्तरदायी और लचीली सार्वजनिक स्वास्थ्य प्रणाली का मूल आधार है। उन्होंने वेबिनार श्रृंखला को नवीन पद्धतियों की पहचान, दस्तावेजीकरण और प्रसार के लिए एक महत्वपूर्ण संस्थागत तंत्र बताया। सुश्री पटनायक ने सभी राज्यों और केंद्र शासित प्रदेशों से वेबिनार श्रृंखला में सक्रिय रूप से भाग लेने और निरंतर सीखने, ज्ञान के आदान-प्रदान और नवाचार-संचालित कार्यक्रम में योगदान देने का आह्वान किया। पहला वेबिनार &#8220;एनीमिया, बाल और किशोर स्वास्थ्य&#8221; विषय पर केंद्रित था। वेबिनार में राष्ट्रीय, राज्य और जिला स्तर के पांच सौ से अधिक अधिकारियों ने भाग लिया।",
         "date": "2026-07-11",
         "pubDate": "2026-07-11T16:00:43+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5-%e0%a4%9c%e0%a4%a8%e0%a4%b8%e0%a4%82%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%be-%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8-%e0%a4%aa%e0%a4%b0-%e0%a4%b8%e0%a5%8d/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-1-3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1403,19 +1444,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:56:16+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%a8%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%87-%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a5%87-%e0%a4%a4%e0%a5%80%e0%a4%a8-%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7-%e0%a4%aa/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेन्द्र मोदी दो दिन की ऐतिहासिक न्यूजीलैंड यात्रा के बाद स्वदेश रवाना",
-        "summary": "प्रधानमंत्री नरेन्‍द्र मोदी न्यूजीलैंड की अपनी दो दिन की ऐतिहासिक यात्रा संपन्न कर स्‍वदेश के लिए रवाना हो गए हैं। चार दशकों से अधिक समय में किसी भारतीय प्रधानमंत्री की न्यूजीलैंड की यह पहली यात्रा थी, जिसने द्विपक्षीय संबंधों को काफी मजबूती प्रदान की। इस यात्रा के दौरान, प्रधानमंत्री मोदी ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर […]",
-        "article": "प्रधानमंत्री नरेन्&#x200d;द्र मोदी न्यूजीलैंड की अपनी दो दिन की ऐतिहासिक यात्रा संपन्न कर स्&#x200d;वदेश के लिए रवाना हो गए हैं। चार दशकों से अधिक समय में किसी भारतीय प्रधानमंत्री की न्यूजीलैंड की यह पहली यात्रा थी, जिसने द्विपक्षीय संबंधों को काफी मजबूती प्रदान की। इस यात्रा के दौरान, प्रधानमंत्री मोदी ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन से बातचीत की। दोनों देशों ने रक्षा, पर्यटन, खेल, आपदा प्रबंधन और दुग्ध तथा पशुपालन सहित विभिन्न क्षेत्रों में पांच समझौता ज्ञापनों का आदान-प्रदान किया। इस यात्रा का प्रमुख आकर्षण ऑकलैंड के स्पार्क एरीना में आयोजित सामुदायिक कार्यक्रम था, जिसमें भारतीय प्रवासी समुदाय के दस हजार से अधिक सदस्यों ने भाग लिया। सभा को संबोधित करते हुए श्री मोदी ने कहा कि भारत और न्यूजीलैंड का भविष्य आपस में जुड़ा हुआ है और द्विपक्षीय व्यापार समझौता भारत को एक विकसित राष्ट्र बनने की दिशा में तेजी से आगे बढ़ाएगा। इस अवसर पर प्रधानमंत्री लक्सन ने भारत को एक विश्वसनीय मित्र बताया, न्यूजीलैंड की प्रगति में भारतीय समुदाय के योगदान की सराहना की और प्रधानमंत्री मोदी के नेतृत्व की प्रशंसा की। इस अवसर पर प्रधानमंत्री लक्सन ने भारत को एक भरोसेमंद मित्र बताया, न्यूजीलैंड की प्रगति में भारतीय समुदाय के योगदान की प्रशंसा की और प्रधानमंत्री मोदी के नेतृत्व की सराहना की। श्री मोदी ने प्रधानमंत्री लक्सन को उनके गर्मजोशी भरे आतिथ्य के लिए धन्यवाद दिया और कहा कि इस यात्रा ने भारत-न्यूजीलैंड संबंधों में एक नया अध्याय खोल दिया है।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:50:27+00:00",
-        "link": "https://newsonair.gov.in/hi/return-journey-following-prime-minister-narendra-modis-historic-two-day-visit-to-new-zealand/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM8J-CXbMAAQjus.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1425,8 +1455,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:33:27+00:00",
         "link": "https://newsonair.gov.in/hi/pradhan-mantri-formalisation-of-micro-food-processing-enterprises-scheme-crosses-the-milestone-of-two-lakh-loan-sanctions/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-210208.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1436,8 +1466,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:28:24+00:00",
         "link": "https://newsonair.gov.in/hi/15-indians-die-in-a-boat-accident-in-vietnam-president-vice-president-and-prime-minister-express-condolences/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1a0038fd-0e2d-4acc-b665-df32ae74896a.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1447,8 +1477,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:26:50+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%97%e0%a5%83%e0%a4%b9-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4-85/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-205348.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1458,109 +1488,43 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T15:09:07+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a5%80-%e0%a4%b5%e0%a5%88%e0%a4%b7%e0%a5%8d%e0%a4%a3-5/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-203808.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "लोकतंत्र में मतभेद स्वाभाविक, संविधान और जनकल्याण सर्वोपरि: उपराष्ट्रपति सी.पी. राधाकृष्णन",
-        "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने कहा है कि लोकतंत्र में मतभेद होना स्वाभाविक है, लेकिन संविधान और जन कल्याण के प्रति प्रतिबद्धता सर्वोपरि रहनी चाहिए। उन्होंने बिहार में गया में राज्‍य के लोक प्रशासन और ग्रामीण विकास संस्थान में 18वीं विधानसभा के सदस्यों के लिए आयोजित दो दिन के प्रशिक्षण कार्यक्रम का उद्घाटन करते हुए यह […]",
-        "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने कहा है कि लोकतंत्र में मतभेद होना स्वाभाविक है, लेकिन संविधान और जन कल्याण के प्रति प्रतिबद्धता सर्वोपरि रहनी चाहिए। उन्होंने बिहार में गया में राज्&#x200d;य के लोक प्रशासन और ग्रामीण विकास संस्थान में 18वीं विधानसभा के सदस्यों के लिए आयोजित दो दिन के प्रशिक्षण कार्यक्रम का उद्घाटन करते हुए यह बात कही। उपराष्ट्रपति राधाकृष्णन ने कहा कि ऐसे कार्यक्रम विधायकों को उनके संवैधानिक दायित्वों का प्रभावी ढंग से निर्वहन करने में सक्षम बनाकर लोकतांत्रिक संस्थाओं को मजबूत करते हैं। उपराष्ट्रपति ने बिहार को भारत की लोकतांत्रिक यात्रा का मार्गदर्शक बताया और विधायकों से इसकी गौरवशाली विरासत को बनाए रखने का आग्रह किया। उन्होंने विधायकों से ऐसे अवसर सृजित करने का आह्वान किया जिससे बिहार रोजगार तथा विकास का केंद्र बने और अन्य राज्यों से प्रवासी श्रमिकों को आकर्षित करे। उपराष्ट्रपति ने प्रश्नकाल, शून्यकाल और कार्य सलाहकार समिति के महत्व पर प्रकाश डालते हुए सदस्यों से विधायी कार्य को सुचारू और उत्पादक रूप से संचालित करने का आग्रह किया। उन्होंने कहा कि ये संसदीय व्यवस्थाएं प्रत्येक विधायक को दलीय हितों से परे अपने निर्वाचन क्षेत्रों से संबंधित मुद्दों को उठाने का महत्वपूर्ण अवसर प्रदान करती हैं। उन्होंने सदस्यों से ए आई, प्राकृतिक भाषा प्रसंस्करण और नेवा जैसी डिजिटल विधायी पहलों जैसी उभरती प्रौद्योगिकियों को अपनाने का आह्वान किया ताकि विधायी कार्यप्रणाली को अधिक कुशल, पारदर्शी और नागरिक-केंद्रित बनाया जा सके।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T12:42:55+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%ae%e0%a4%a4%e0%a4%ad%e0%a5%87%e0%a4%a6-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-180934.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "स्वैच्छिक परिवार नियोजन समावेशी और सतत विकास की मजबूत नींव: केंद्रीय मंत्री जगत प्रकाश नड्डा",
-        "summary": "केंद्रीय स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने कहा है कि स्वैच्छिक परिवार नियोजन, जागरूक निर्णय और स्वस्थ परिवार समावेशी तथा सतत विकास की मजबूत नींव हैं। विश्व जनसंख्या दिवस पर सोशल मीडिया संदेश में उन्होंने कहा कि इस वर्ष का विषय मां और बच्चे के कल्याण के लिए गर्भधारण के बीच स्वस्थ […]",
-        "article": "केंद्रीय स्वास्थ्य और परिवार कल्याण मंत्री जगत प्रकाश नड्डा ने कहा है कि स्वैच्छिक परिवार नियोजन, जागरूक निर्णय और स्वस्थ परिवार समावेशी तथा सतत विकास की मजबूत नींव हैं। विश्व जनसंख्या दिवस पर सोशल मीडिया संदेश में उन्होंने कहा कि इस वर्ष का विषय मां और बच्चे के कल्याण के लिए गर्भधारण के बीच स्वस्थ अंतराल और नियोजित पितृत्व है। उन्होंने कहा कि अभियान का नारा &#8220;जब बच्चों में हो सही अंतराल, परिवार बने स्वस्थ और खुशहाल&#8221; गुणवत्तापूर्ण परिवार नियोजन सेवाओं तथा जागरूक प्रजनन संबंधी निर्णयों के महत्व को दर्शाता है। विश्व जनसंख्या दिवस के अवसर पर स्वास्थ्य और परिवार कल्याण मंत्रालय हर वर्ष एक विशेष अभियान चलाता है। इसका उद्देश्य मां और बच्चे के बेहतर स्वास्थ्य के लिए गर्भधारण के बीच उचित अंतराल को बढ़ावा देना और अनचाहे गर्भधारण की रोकथाम करना है।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T10:22:47+00:00",
-        "link": "https://newsonair.gov.in/hi/voluntary-family-planning-is-a-strong-foundation-for-inclusive-and-sustainable-development-union-minister-jagat-prakash-nadda/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-6.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-न्यूज़ीलैंड के बीच रक्षा, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 समझौता ज्ञापनों पर हस्ताक्षर",
-        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और […]",
-        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और डेयरी संबंधी समझौता अनुसंधान, नवाचार और बेहतर तकनीकों के आदान-प्रदान को प्रोत्साहित करेगा। पर्यटन समझौते से दोनों देशों के बीच पर्यटन और यात्रा सहयोग बढ़ेगा। खेल के क्षेत्र में संयुक्त कार्ययोजना भी अपनाई गई है, जबकि आपदा प्रबंधन समझौते से आपदा तैयारी, राहत और बचाव कार्यों में सहयोग मजबूत होगा। वार्ता के दौरान प्रधानमंत्री मोदी ने कहा कि 40 वर्ष बाद किसी भारतीय प्रधानमंत्री की न्यूज़ीलैंड यात्रा दोनों देशों के संबंधों में एक ऐतिहासिक पड़ाव है। उन्होंने कहा कि दोनों देशों ने सामरिक साझेदारी स्थापित करने का महत्वपूर्ण निर्णय लिया है, जो भविष्य के सहयोग को नई दिशा देगा। प्रधानमंत्री ने मुक्त व्यापार समझौते की दिशा में हुई प्रगति की सराहना करते हुए कहा कि भारत और न्यूज़ीलैंड हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और सुरक्षा को मजबूत करने में महत्वपूर्ण भूमिका निभा सकते हैं। न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने कहा कि प्रधानमंत्री मोदी की यह यात्रा दोनों देशों के संबंधों को नई ऊंचाई देगी। उन्होंने कहा कि सामरिक साझेदारी से व्यापार सहित कई क्षेत्रों में सहयोग का दायरा और बढ़ेगा। इससे पहले गवर्नमेंट हाउस में प्रधानमंत्री मोदी का औपचारिक स्वागत किया गया और उन्हें गार्ड ऑफ ऑनर दिया गया। प्रधानमंत्री आज भारतीय समुदाय को संबोधित करेंगे तथा उद्योग और खेल जगत की प्रमुख हस्तियों से भी मुलाकात करेंगे।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T09:07:24+00:00",
-        "link": "https://newsonair.gov.in/hi/five-memorandums-of-understanding-mous-signed-between-india-and-new-zealand-covering-defense-tourism-sports-and-disaster-management/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/A-3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "world": [
       {
-        "title": "न्यूजीलैंड में भारतीय समुदाय, दोनों देशों के बीच मजबूत होते संबंधों का आधार: प्रधानमंत्री मोदी",
-        "summary": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि न्यूजीलैंड में भारतीय समुदाय, दोनों देशों के बीच मजबूत होते संबंधों का महत्वपूर्ण आधार है। ऑकलैंड में भारतीय समुदाय को संबोधित करते हुए श्री मोदी ने कहा कि भारत और न्यूजीलैंड के संबंध साझा विरासत, स्थायी मित्रता, समान लोकतांत्रिक मूल्यों और उज्ज्वल भविष्य के साझा संकल्प पर आधारित […]",
-        "article": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि न्यूजीलैंड में भारतीय समुदाय, दोनों देशों के बीच मजबूत होते संबंधों का महत्वपूर्ण आधार है। ऑकलैंड में भारतीय समुदाय को संबोधित करते हुए श्री मोदी ने कहा कि भारत और न्यूजीलैंड के संबंध साझा विरासत, स्थायी मित्रता, समान लोकतांत्रिक मूल्यों और उज्ज्वल भविष्य के साझा संकल्प पर आधारित हैं। उन्होंने कहा कि ऑकलैंड से वेलिंगटन और क्राइस्टचर्च से क्वीन्सटाउन तक भारतीय समुदाय ने दोनों देशों के संबंधों को मजबूत बनाने में महत्वपूर्ण योगदान दिया है। श्री मोदी ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन और वहां की सरकार के सदस्यों की उपस्थिति के लिए आभार व्यक्त किया। उन्होंने कहा कि यह भारत-न्यूजीलैंड संबंधों के प्रति व्यापक समर्थन का प्रतीक है। श्री मोदी ने कहा कि 4 दशक बाद किसी भारतीय प्रधानमंत्री की न्यूजीलैंड यात्रा हो रही है और वे 140 करोड़ भारतीयों की शुभकामनाएं वहां के भारतीय समुदाय तक लेकर पहुंचे हैं। इस अवसर पर न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने कहा कि दोनों देशों के बीच रणनीतिक और आर्थिक साझेदारी लगातार मजबूत हो रही है। उन्होंने कहा कि भारत-न्यूजीलैंड मुक्त व्यापार समझौते से न्यूजीलैंड के निर्यातकों को 140 करोड़ लोगों के विशाल बाजार तक पहुंच मिलेगी और न्यूजीलैंड में भारतीय कारोबार के लिए भी नए अवसर खुलेंगे। उन्होंने कहा कि भारत केवल एक व्यापारिक साझेदार नहीं, बल्कि न्यूजीलैंड का एक विश्वसनीय सहयोगी भी है। न्यूजीलैंड के प्रधानमंत्री ने भारत की बढ़ती वैश्विक प्रतिष्ठा, प्रधानमंत्री मोदी के नेतृत्व और न्यूजीलैंड के विकास में भारतीय समुदाय के योगदान की सराहना की। उन्होंने भारत को अपना महत्वपूर्ण साझेदार बताते हुए द्विपक्षीय संबंधों को नई ऊंचाइयों तक ले जाने की प्रतिबद्धता दोहराई। ऑकलैंड में आयोजित इस कार्यक्रम में भारतीय समुदाय के 10 हजार से अधिक लोग शामिल हुए। इस दौरान सांस्कृतिक प्रस्तुतियों, नारों और उत्साहपूर्ण माहौल ने कार्यक्रम को विशेष बना दिया।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T08:59:57+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-community-in-new-zealand-is-the-foundation-of-strong-ties-between-the-two-countries-prime-minister-modi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-142921.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "वेनेजुएला में विनाशकारी भूकंप के बाद मृतकों की संख्या 4,300 के पार",
+        "summary": "वेनेजुएला में पिछले महीने आए विनाशकारी भूकंप में मरने वालों की संख्या बढ़कर 4300 से अधिक हो गई है। 24 जून को ला गुआइरा में कुछ ही सेकंड के अंतराल पर 7.2 और 7.5 तीव्रता के दो भूकंप आए थे। ये एक सदी से अधिक समय में वेनेजुएला के सबसे भीषण भूकंप माने जा रहे […]",
+        "article": "वेनेजुएला में पिछले महीने आए विनाशकारी भूकंप में मरने वालों की संख्या बढ़कर 4300 से अधिक हो गई है। 24 जून को ला गुआइरा में कुछ ही सेकंड के अंतराल पर 7.2 और 7.5 तीव्रता के दो भूकंप आए थे। ये एक सदी से अधिक समय में वेनेजुएला के सबसे भीषण भूकंप माने जा रहे हैं। संयुक्त राष्ट्र ने इस सप्ताह 13 लाख लोगों की मदद के लिए 29 करोड़ 60 लाख अमरीकी डॉलर की राहत राशि जुटाने की अपील की है। संयुक्त राष्ट्र के मानवीय मामलों के प्रमुख टॉम फ्लेचर ने मंगलवार को ला गुआइरा का दौरा किया। इस दौरान उन्होंने लापता बच्&#x200d;चों की माताओं से मुलाकात की।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:21:04+00:00",
+        "link": "https://newsonair.gov.in/hi/venezuela-earthquake/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "वेनेज़ुएला में पिछले महीने आए शक्तिशाली भूकंप में मरने वालों का आंकड़ा 4 हज़ार के पार",
-        "summary": "वेनेज़ुएला में पिछले महीने आए दो शक्तिशाली भूकंपों में मरने वालों की संख्या 4 हजार से अधिक हो गई है। वेनेज़ुएला संसद प्रमुख जॉर्ज रोड्रिगेज़ के अनुसार, अब तक 4 हजार 118 लोगों की मौत हो चुकी है और 16 हजार 740 लोग घायल हुए हैं। वहीं, हजारों लोग अब भी लापता हैं। 24 जून […]",
-        "article": "वेनेज़ुएला में पिछले महीने आए दो शक्तिशाली भूकंपों में मरने वालों की संख्या 4 हजार से अधिक हो गई है। वेनेज़ुएला संसद प्रमुख जॉर्ज रोड्रिगेज़ के अनुसार, अब तक 4 हजार 118 लोगों की मौत हो चुकी है और 16 हजार 740 लोग घायल हुए हैं। वहीं, हजारों लोग अब भी लापता हैं। 24 जून को आए 7.2 और 7.5 तीव्रता के भूकंपों से ला गुएरा प्रांत में भारी तबाही हुई थी। संयुक्त राष्ट्र ने राहत और पुनर्वास कार्यों के लिए लगभग 30 करोड़ अमरीकी डॉलर की सहायता की अपील की है।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T06:01:15+00:00",
-        "link": "https://newsonair.gov.in/hi/the-death-toll-from-the-powerful-earthquake-that-struck-venezuela-last-month-has-crossed-4000/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMcAu8qawAA0-2g-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "स्पीडबोट हादसे के बाद वियतनाम के प्रधानमंत्री ने जांच के आदेश दिए, विदेश मंत्री डॉ. एस जयशंकर ने जताया शोक",
+        "summary": "वियतनाम के प्रधानमंत्री ले मिन्ह हुन ने फु क्वोक द्वीप के पास स्पीडबोट हादसे की जांच के आदेश दिए हैं। इस हादसे में 15 भारतीय पर्यटकों की मौत हो गई । मुंबई में वियतनाम के महावाणिज्य दूतावास के अनुसार, प्रधानमंत्री ने अधिकारियों से हादसे के कारणों का पता लगाने और भविष्य में ऐसे हादसों को […]",
+        "article": "वियतनाम के प्रधानमंत्री ले मिन्ह हुन ने फु क्वोक द्वीप के पास स्पीडबोट हादसे की जांच के आदेश दिए हैं। इस हादसे में 15 भारतीय पर्यटकों की मौत हो गई । मुंबई में वियतनाम के महावाणिज्य दूतावास के अनुसार, प्रधानमंत्री ने अधिकारियों से हादसे के कारणों का पता लगाने और भविष्य में ऐसे हादसों को रोकने के लिए जरूरी कदम उठाने को कहा है। उन्होंने नियमों के उल्लंघन के लिए जिम्मेदार लोगों के खिलाफ सख्त कानूनी कार्रवाई के भी निर्देश दिए हैं। साथ ही घायलों के इलाज और मृतकों के परिजनों को हर संभव सहायता देने को कहा है। यह हादसा कल उस समय हुआ जब 36 लोगों को लेकर जा रही स्पीडबोट फु क्वोक द्वीप के पास रट नगोआई टापू के निकट अचानक ऊंची लहर की चपेट में आकर पलट गई। नाव में चालक दल के चार सदस्य भी सवार थे। स्थानीय प्रशासन ने 21 लोगों को बचा लिया, जबकि 15 भारतीयों की मौत हो गई। मृतकों में दो महिलाएं हैं। वियतनाम में भारतीय दूतावास ने मृतकों की सूची जारी की है। इनमें 10 लोग तमिलनाडु, तीन आंध्र प्रदेश और दो केरल के रहने वाले थे। विदेश मंत्री डॉ. एस जयशंकर ने वियतनाम में फू क्&#x200d;योक द्वीप के पास हुई नौका दुर्घटना में 15 भारतीय नागरिकों की मौत पर दुख व्&#x200d;यक्&#x200d;त किया है। डॉ. जयशंकर ने सोशल मीडिया पोस्&#x200d;ट में कहा है कि वे दुखद नौका दुर्घटना से काफी आहत हैं। विदेश मंत्री ने मृतकों के परिवारों के प्रति संवेदना व्&#x200d;यक्&#x200d;त करते हुए घायलों के शीघ्र स्&#x200d;वस्&#x200d;थ होने की कामना की है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T01:40:25+00:00",
+        "link": "https://newsonair.gov.in/hi/vietnam-boat-tragedy/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "प्रधानमंत्री मोदी और न्यूज़ीलैंड के पीएम लक्सन ने द्विपक्षीय व्यापार को ₹35 हजार करोड़ तक पहुंचाने का लक्ष्य रखा",
-        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच ऑकलैंड में हुई वार्ता के बाद दोनों देशों ने अपने संबंधों को सामरिक साझेदारी का दर्जा दिया। दोनों नेताओं ने वर्ष 2030 तक द्विपक्षीय वस्तु और सेवा व्यापार को बढ़ाकर 35 हजार करोड़ रुपये तक पहुंचाने का लक्ष्य भी तय किया। वार्ता के दौरान […]",
-        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच ऑकलैंड में हुई वार्ता के बाद दोनों देशों ने अपने संबंधों को सामरिक साझेदारी का दर्जा दिया। दोनों नेताओं ने वर्ष 2030 तक द्विपक्षीय वस्तु और सेवा व्यापार को बढ़ाकर 35 हजार करोड़ रुपये तक पहुंचाने का लक्ष्य भी तय किया। वार्ता के दौरान अगले 4 वर्षों के लिए सहयोग रणनीति, हिंद-प्रशांत क्षेत्र में समुद्री सहयोग बढ़ाने की रूपरेखा और भारतीय नौसेना तथा न्यूज़ीलैंड रक्षा बल के बीच पारस्परिक लॉजिस्टिक सहयोग समझौते पर सहमति बनी। दोनों नेताओं ने हिंद-प्रशांत क्षेत्र को स्वतंत्र, खुला, सुरक्षित और समृद्ध बनाए रखने की प्रतिबद्धता दोहराई। उन्होंने समुद्री सुरक्षा सहयोग और सूचनाओं के आदान-प्रदान के लिए समुद्री सुरक्षा संवाद शुरू करने पर भी सहमति व्यक्त की। दोनों नेताओं ने भारत-न्यूज़ीलैंड मुक्त व्यापार समझौते का स्वागत करते हुए इसे जल्द लागू करने पर जोर दिया। पश्चिम एशिया की स्थिति पर चिंता व्यक्त करते हुए उन्होंने सभी पक्षों से संयम बरतने, तनाव कम करने और नागरिकों की सुरक्षा सुनिश्चित करने की अपील की। दोनों नेताओं ने संयुक्त राष्ट्र सुरक्षा परिषद में सुधार और उसके विस्तार की आवश्यकता पर भी बल दिया।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T04:46:03+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-and-new-zealand-prime-minister-luxon-set-a-target-to-take-bilateral-trade-to-%e2%82%b935000-crore/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM6iShdbwAAw1s-.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीकी राष्ट्रपति डॉनल्ड ट्रंप ने कहा, हालिया तनाव के बावजूद अमरीका-ईरान वार्ता जारी रखने पर सहमत",
-        "summary": "अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने कहा है कि हालिया तनाव बढ़ने के बावजूद अमरीका और ईरान वार्ता जारी रखने पर सहमत हो गए हैं, लेकिन पिछले महीने हुआ युद्धविराम समाप्त हो गया है। राष्ट्रपति ट्रंप ने कहा कि ईरान ने वार्ता जारी रखने का अनुरोध किया है और अमरीका इसपर सहमत हो गया है। […]",
-        "article": "अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने कहा है कि हालिया तनाव बढ़ने के बावजूद अमरीका और ईरान वार्ता जारी रखने पर सहमत हो गए हैं, लेकिन पिछले महीने हुआ युद्धविराम समाप्त हो गया है। राष्ट्रपति ट्रंप ने कहा कि ईरान ने वार्ता जारी रखने का अनुरोध किया है और अमरीका इसपर सहमत हो गया है। अमरीका ने ईरान से होर्मुज जलडमरूमध्य में जहाजों पर हमले रोकने की मांग भी तेज कर दी है। इन हमलों के कारण तनाव बढ़ने से अंतर्राष्&#x200d;ट्रीय बाजार में कच्&#x200d;चे तेल की कीमतें बढ़ गई हैं। इस संघर्ष के दौरान कतर और सऊदी अरब के 3 वाणिज्यिक टैंकरों पर हमले हुए थे, जिसके जवाब में अमरीका ने ईरानी ठिकानों पर हमले किए। इसके जवाब में ईरान ने खाड़ी देशों में अमरीकी सैन्य ठिकानों पर हमले किए। इस बीच, क्षेत्र में कल किसी नये हमले की खबर नहीं है। ईरान की सरकारी मीडिया ने बताया है कि खाड़ी क्षेत्र में तनाव कम करने के लिए मध्यस्थ के रूप में कतर का एक प्रतिनिधिमंडल तेहरान जा रहा है। रिपोर्ट में कहा गया है कि कतर के अधिकारी तनाव कम करने और व्यापक वार्ता के लिए अनुकूल स्थिति बनाने में सहायता के लिए ईरानी अधिकारियों के साथ बातचीत कर रहे हैं। बताया जा रहा है कि ये बातचीत अमरीका के समन्वय से संचालित की जा रही हैं।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T03:06:36+00:00",
-        "link": "https://newsonair.gov.in/hi/us-president-donald-trump-said-that-despite-the-recent-tensions-america-and-iran-have-agreed-to-continue-talks/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/us-iran-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "नाइजीरिया: सुरक्षा एजेंसियों ने 2 महीने पहले अगवा किए गए शिक्षकों और स्कूली बच्चों को बचाया",
-        "summary": "नाइजीरिया में सुरक्षा एजेंसियों ने लगभग दो महीने पहले अगवा किए गए शिक्षकों और स्कूली बच्चों को सुरक्षित बचा लिया है। यह कार्रवाई दक्षिण-पश्चिमी ओयो राज्य में की गई। सरकारी प्रवक्ता के अनुसार, अभियान के दौरान 8 संदिग्ध अपहरणकर्ताओं को गिरफ्तार किया गया, जबकि कई अन्य मारे गए। उन्होंने कहा कि बंधकों की रिहाई के […]",
-        "article": "नाइजीरिया में सुरक्षा एजेंसियों ने लगभग दो महीने पहले अगवा किए गए शिक्षकों और स्कूली बच्चों को सुरक्षित बचा लिया है। यह कार्रवाई दक्षिण-पश्चिमी ओयो राज्य में की गई। सरकारी प्रवक्ता के अनुसार, अभियान के दौरान 8 संदिग्ध अपहरणकर्ताओं को गिरफ्तार किया गया, जबकि कई अन्य मारे गए। उन्होंने कहा कि बंधकों की रिहाई के लिए न तो कोई फिरौती दी गई और न ही कैदियों की अदला-बदली की गई। ओयो राज्य के गवर्नर सेयी माकिंदे ने इस सफल अभियान पर सुरक्षा बलों की सराहना की और कहा कि बचाए गए लोगों को चिकित्सा और मानसिक सहायता उपलब्ध कराई जाएगी।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T02:33:30+00:00",
-        "link": "https://newsonair.gov.in/hi/nigeria-security-agencies-rescue-teachers-and-schoolchildren-abducted-two-months-ago-nigeria-security-agencies-rescue-teachers-and-schoolchildren-abducted-two-months-ago/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पिछले 18 महीनों में निधि कटौती के कारण लगभग दस लाख महिलाएं आवश्यक मानवीय सहायता से वंचित: संयुक्त राष्ट्र महिला संगठन, संयुक्त राष्ट्र",
-        "summary": "संयुक्त राष्ट्र की संस्था संयुक्त राष्ट्र महिला संगठन ने कहा है कि पिछले 18 महीनों में निधि कटौती के कारण लगभग दस लाख महिलाएं आवश्यक मानवीय सहायता से वंचित रह गई हैं। संस्था ने कहा कि जनवरी 2025 में अमरीकी राष्ट्रपति डॉनाल्ड ट्रम्प के पदभार ग्रहण करने के बाद विदेशी सहायता में की गई कटौती […]",
-        "article": "संयुक्त राष्ट्र की संस्था संयुक्त राष्ट्र महिला संगठन ने कहा है कि पिछले 18 महीनों में निधि कटौती के कारण लगभग दस लाख महिलाएं आवश्यक मानवीय सहायता से वंचित रह गई हैं। संस्था ने कहा कि जनवरी 2025 में अमरीकी राष्ट्रपति डॉनाल्ड ट्रम्प के पदभार ग्रहण करने के बाद विदेशी सहायता में की गई कटौती के बाद स्थिति और भी खराब हो गई। अमरीका और अन्य प्रमुख दानदाताओं द्वारा सहायता में कटौती के कारण अन्य संयुक्त राष्ट्र एजेंसियों को भी कर्मचारियों की संख्या कम करनी पड़ी है और दुनिया भर में कार्यक्रमों को सीमित करना पड़ा है।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T15:30:54+00:00",
-        "link": "https://newsonair.gov.in/hi/approximately-one-million-women-have-been-deprived-of-essential-humanitarian-aid-due-to-funding-cuts-over-the-past-18-months/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "आईआरजीसी के जहाज पर हमले के बाद अमरीका ने ईरान पर नए हमले शुरू किए, होर्मुज जलडमरूमध्य अगले आदेश तक बंद",
+        "summary": "इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स के होर्मुज जलडमरूमध्य में साइप्रस के झंडे वाले जहाज पर हमले के बाद, अमरीका ने ईरान पर नए हमले शुरू कर दिए हैं। अमरीकी सेना ने कहा है कि ये हमले राष्ट्रपति डॉनल्‍ड ट्रंप के निर्देश पर किए गए। अमरीका ने बताया है कि व्‍यापारिक जहाज पर हुए हमले में चालक […]",
+        "article": "इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स के होर्मुज जलडमरूमध्य में साइप्रस के झंडे वाले जहाज पर हमले के बाद, अमरीका ने ईरान पर नए हमले शुरू कर दिए हैं। अमरीकी सेना ने कहा है कि ये हमले राष्ट्रपति डॉनल्&#x200d;ड ट्रंप के निर्देश पर किए गए। अमरीका ने बताया है कि व्&#x200d;यापारिक जहाज पर हुए हमले में चालक दल का एक नागरिक सदस्य लापता है और जहाज पर आग लगने से काफी नुकसान हुआ है। इस बीच, ईरान ने होर्मुज जलडमरूमध्य को अगली सूचना तक बंद कर दिया है। ईरान की नौसेना ने कहा है कि एक जहाज़ के अनधिकृत रास्ते का इस्तेमाल करने की कोशिश के बाद यह समुद्री रास्ता बंद किया गया है। नौसेना ने कहा कि इस इलाके में अमरीका का दखल खत्म होने तक किसी भी जहाज़ को इस रास्ते से निकलने की अनुमति नहीं दी जाएगी। नौसेना ने कहा कि होर्मुज जलडमरूमध्य की इस घटना को लेकर अमरीका की किसी भी कार्रवाई का कड़ा जवाब दिया जाएगा। अमरीका, ईरान से सार्वजनिक रूप से होर्मुज जलडमरूमध्य से गुज़रने वाले जहाज़ों पर हमला नहीं करने का आश्&#x200d;वासन चाहता है। अमरीका के एक वरिष्&#x200d;ठ अधिकारी ने कहा है कि ईरान में आंतरिक सत्&#x200d;ता संघर्ष के कारण किसी समझौते पर पहुंचना मुश्किल हो गया है। इस बीच, अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने कहा है कि तनाव के बावजूद ईरान के साथ बातचीत जारी रहेगी। ईरान ने कहा है कि होर्मुज जलडमरूमध्य उसके नियंत्रण में ही रहेगा और इस मार्ग से गुज़रने वाले जहाज़ों को शुल्क देना होगा। ईरान ने जलडमरूमध्य पर पूरे अधिकार का दावा किया है। इस बीच, ओमान ने होर्मुज जलडमरूमध्य से जहाज़ों की आवाजाही के लिए दो अलग-अलग रास्तों का प्रस्ताव दिया है, लेकिन ईरान ने इस तरह के प्रस्ताव को पहले ही खारिज कर दिया था।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T00:48:42+00:00",
+        "link": "https://newsonair.gov.in/hi/hormuz-strait-closed/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1593,7 +1557,39 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T09:07:24+00:00",
         "link": "https://newsonair.gov.in/hi/five-memorandums-of-understanding-mous-signed-between-india-and-new-zealand-covering-defense-tourism-sports-and-disaster-management/",
-        "post_id": 1730821,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "न्यूजीलैंड में भारतीय समुदाय, दोनों देशों के बीच मजबूत होते संबंधों का आधार: प्रधानमंत्री मोदी",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि न्यूजीलैंड में भारतीय समुदाय, दोनों देशों के बीच मजबूत होते संबंधों का महत्वपूर्ण आधार है। ऑकलैंड में भारतीय समुदाय को संबोधित करते हुए श्री मोदी ने कहा कि भारत और न्यूजीलैंड के संबंध साझा विरासत, स्थायी मित्रता, समान लोकतांत्रिक मूल्यों और उज्ज्वल भविष्य के साझा संकल्प पर आधारित […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि न्यूजीलैंड में भारतीय समुदाय, दोनों देशों के बीच मजबूत होते संबंधों का महत्वपूर्ण आधार है। ऑकलैंड में भारतीय समुदाय को संबोधित करते हुए श्री मोदी ने कहा कि भारत और न्यूजीलैंड के संबंध साझा विरासत, स्थायी मित्रता, समान लोकतांत्रिक मूल्यों और उज्ज्वल भविष्य के साझा संकल्प पर आधारित हैं। उन्होंने कहा कि ऑकलैंड से वेलिंगटन और क्राइस्टचर्च से क्वीन्सटाउन तक भारतीय समुदाय ने दोनों देशों के संबंधों को मजबूत बनाने में महत्वपूर्ण योगदान दिया है। श्री मोदी ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन और वहां की सरकार के सदस्यों की उपस्थिति के लिए आभार व्यक्त किया। उन्होंने कहा कि यह भारत-न्यूजीलैंड संबंधों के प्रति व्यापक समर्थन का प्रतीक है। श्री मोदी ने कहा कि 4 दशक बाद किसी भारतीय प्रधानमंत्री की न्यूजीलैंड यात्रा हो रही है और वे 140 करोड़ भारतीयों की शुभकामनाएं वहां के भारतीय समुदाय तक लेकर पहुंचे हैं। इस अवसर पर न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने कहा कि दोनों देशों के बीच रणनीतिक और आर्थिक साझेदारी लगातार मजबूत हो रही है। उन्होंने कहा कि भारत-न्यूजीलैंड मुक्त व्यापार समझौते से न्यूजीलैंड के निर्यातकों को 140 करोड़ लोगों के विशाल बाजार तक पहुंच मिलेगी और न्यूजीलैंड में भारतीय कारोबार के लिए भी नए अवसर खुलेंगे। उन्होंने कहा कि भारत केवल एक व्यापारिक साझेदार नहीं, बल्कि न्यूजीलैंड का एक विश्वसनीय सहयोगी भी है। न्यूजीलैंड के प्रधानमंत्री ने भारत की बढ़ती वैश्विक प्रतिष्ठा, प्रधानमंत्री मोदी के नेतृत्व और न्यूजीलैंड के विकास में भारतीय समुदाय के योगदान की सराहना की। उन्होंने भारत को अपना महत्वपूर्ण साझेदार बताते हुए द्विपक्षीय संबंधों को नई ऊंचाइयों तक ले जाने की प्रतिबद्धता दोहराई। ऑकलैंड में आयोजित इस कार्यक्रम में भारतीय समुदाय के 10 हजार से अधिक लोग शामिल हुए। इस दौरान सांस्कृतिक प्रस्तुतियों, नारों और उत्साहपूर्ण माहौल ने कार्यक्रम को विशेष बना दिया।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T08:59:57+00:00",
+        "link": "https://newsonair.gov.in/hi/indian-community-in-new-zealand-is-the-foundation-of-strong-ties-between-the-two-countries-prime-minister-modi/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वेनेज़ुएला में पिछले महीने आए शक्तिशाली भूकंप में मरने वालों का आंकड़ा 4 हज़ार के पार",
+        "summary": "वेनेज़ुएला में पिछले महीने आए दो शक्तिशाली भूकंपों में मरने वालों की संख्या 4 हजार से अधिक हो गई है। वेनेज़ुएला संसद प्रमुख जॉर्ज रोड्रिगेज़ के अनुसार, अब तक 4 हजार 118 लोगों की मौत हो चुकी है और 16 हजार 740 लोग घायल हुए हैं। वहीं, हजारों लोग अब भी लापता हैं। 24 जून […]",
+        "article": "वेनेज़ुएला में पिछले महीने आए दो शक्तिशाली भूकंपों में मरने वालों की संख्या 4 हजार से अधिक हो गई है। वेनेज़ुएला संसद प्रमुख जॉर्ज रोड्रिगेज़ के अनुसार, अब तक 4 हजार 118 लोगों की मौत हो चुकी है और 16 हजार 740 लोग घायल हुए हैं। वहीं, हजारों लोग अब भी लापता हैं। 24 जून को आए 7.2 और 7.5 तीव्रता के भूकंपों से ला गुएरा प्रांत में भारी तबाही हुई थी। संयुक्त राष्ट्र ने राहत और पुनर्वास कार्यों के लिए लगभग 30 करोड़ अमरीकी डॉलर की सहायता की अपील की है।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T06:01:15+00:00",
+        "link": "https://newsonair.gov.in/hi/the-death-toll-from-the-powerful-earthquake-that-struck-venezuela-last-month-has-crossed-4000/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री मोदी और न्यूज़ीलैंड के पीएम लक्सन ने द्विपक्षीय व्यापार को ₹35 हजार करोड़ तक पहुंचाने का लक्ष्य रखा",
+        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच ऑकलैंड में हुई वार्ता के बाद दोनों देशों ने अपने संबंधों को सामरिक साझेदारी का दर्जा दिया। दोनों नेताओं ने वर्ष 2030 तक द्विपक्षीय वस्तु और सेवा व्यापार को बढ़ाकर 35 हजार करोड़ रुपये तक पहुंचाने का लक्ष्य भी तय किया। वार्ता के दौरान […]",
+        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच ऑकलैंड में हुई वार्ता के बाद दोनों देशों ने अपने संबंधों को सामरिक साझेदारी का दर्जा दिया। दोनों नेताओं ने वर्ष 2030 तक द्विपक्षीय वस्तु और सेवा व्यापार को बढ़ाकर 35 हजार करोड़ रुपये तक पहुंचाने का लक्ष्य भी तय किया। वार्ता के दौरान अगले 4 वर्षों के लिए सहयोग रणनीति, हिंद-प्रशांत क्षेत्र में समुद्री सहयोग बढ़ाने की रूपरेखा और भारतीय नौसेना तथा न्यूज़ीलैंड रक्षा बल के बीच पारस्परिक लॉजिस्टिक सहयोग समझौते पर सहमति बनी। दोनों नेताओं ने हिंद-प्रशांत क्षेत्र को स्वतंत्र, खुला, सुरक्षित और समृद्ध बनाए रखने की प्रतिबद्धता दोहराई। उन्होंने समुद्री सुरक्षा सहयोग और सूचनाओं के आदान-प्रदान के लिए समुद्री सुरक्षा संवाद शुरू करने पर भी सहमति व्यक्त की। दोनों नेताओं ने भारत-न्यूज़ीलैंड मुक्त व्यापार समझौते का स्वागत करते हुए इसे जल्द लागू करने पर जोर दिया। पश्चिम एशिया की स्थिति पर चिंता व्यक्त करते हुए उन्होंने सभी पक्षों से संयम बरतने, तनाव कम करने और नागरिकों की सुरक्षा सुनिश्चित करने की अपील की। दोनों नेताओं ने संयुक्त राष्ट्र सुरक्षा परिषद में सुधार और उसके विस्तार की आवश्यकता पर भी बल दिया।",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T04:46:03+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-modi-and-new-zealand-prime-minister-luxon-set-a-target-to-take-bilateral-trade-to-%e2%82%b935000-crore/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1612,14 +1608,36 @@ window.VM_NEWS = {
     ],
     "sports": [
       {
+        "title": "इंग्लैंड ने पांचवें और अंतिम टी-20 अंतरराष्ट्रीय में भारत को 56 रन से हराकर श्रृंखला 4-0 से जीती",
+        "summary": "इंग्‍लैंड ने कल रात साउथैम्‍पटन में पांचवें और अंतिम टी-20 अंतरराष्‍ट्रीय क्रिकेट मैच में भारत को 56 रन से हराकर श्रृंखला 4-0 से जीत ली है। इंग्‍लैंड ने भारत को 258 रन का लक्ष्‍य दिया था लेकिन भारतीय टीम निर्धारित 20 ओवर में 8 विकेट पर 201 रन ही बना सकी। इससे पहले इंग्‍लैंड […]",
+        "article": "इंग्&#x200d;लैंड ने कल रात साउथैम्&#x200d;पटन में पांचवें और अंतिम टी-20 अंतरराष्&#x200d;ट्रीय क्रिकेट मैच में भारत को 56 रन से हराकर श्रृंखला 4-0 से जीत ली है। इंग्&#x200d;लैंड ने भारत को 258 रन का लक्ष्&#x200d;य दिया था लेकिन भारतीय टीम निर्धारित 20 ओवर में 8 विकेट पर 201 रन ही बना सकी। इससे पहले इंग्&#x200d;लैंड ने पहले बल्&#x200d;लेबाजी करते हुए तीन विकेट पर 257 रन बनाये थे। जोश बटलर को प्&#x200d;लेयर ऑफ द मैच घोषित किया गया। दोनों देशों के बीच पहला टी-20 मैच बारिश के कारण रद्द हो गया था।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:07:52+00:00",
+        "link": "https://newsonair.gov.in/hi/england-beat-india/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "WIMBLEDON: 21 वर्षीय लिंडा नोस्कोवा ने महिला सिंगल्स का खिताब अपने नाम किया",
+        "summary": "विम्‍बलडन टेनिस टूर्नामेंट में कल रात लंदन में 21 वर्षीय लिंडा नोस्‍कोवा ने चेक गणराज्‍य की करोलिना मुकोआ को 6-2, 5-7, 6-3 से हराकर महिला सिंग्‍ल्‍स का खिताब जीत लिया। नोस्‍कोआ पिछले चार वर्षों में यह खिताब जीतने वाली चेक गणराज्‍य की पहली खिलाड़ी बन गई हैं। इससे पहले वर्ष 2023 में मारकेटा वोन्‍ड्रोसोवा और […]",
+        "article": "विम्&#x200d;बलडन टेनिस टूर्नामेंट में कल रात लंदन में 21 वर्षीय लिंडा नोस्&#x200d;कोवा ने चेक गणराज्&#x200d;य की करोलिना मुकोआ को 6-2, 5-7, 6-3 से हराकर महिला सिंग्&#x200d;ल्&#x200d;स का खिताब जीत लिया। नोस्&#x200d;कोआ पिछले चार वर्षों में यह खिताब जीतने वाली चेक गणराज्&#x200d;य की पहली खिलाड़ी बन गई हैं। इससे पहले वर्ष 2023 में मारकेटा वोन्&#x200d;ड्रोसोवा और 2024 में बारबोरा क्रेजिस्&#x200d;कोवा ने यह टूर्नामेंट जीता था। इस बीच, पुरूष सिंग्&#x200d;ल्&#x200d;स के फाइनल में आज विश्&#x200d;व के नम्&#x200d;बर एक खिलाडी यानिक सिनर का मुकाबला जर्मनी के अलेक्&#x200d;जेंडर ज्&#x200d;वेरे से होगा। यह मैच भारतीय समयनुसार आज रात 8:30 बजे से खेला जाएगा। सिनर ने सेमीफाइनल में नौ बार के चैंपियन नोवाक जोकोविच को हराया था। जबकि, ज्&#x200d;वेरे ने ब्रिटेन के आर्थर फैरी को हराकर फाइनल में जगह बनायी थी। महिला डबल्&#x200d;स के फाइनल में आज 10वीं वरीयता प्राप्&#x200d;त चीन की गुओ हान्&#x200d;यू और फ्रांस की क्रिस्&#x200d;टीना म्&#x200d;लाडेनोविच की जोड़ी का मुकाबला दूसरी वरीयता प्राप्&#x200d;त कनाडा की गेब्रियला डाब्रोवस्&#x200d;की और ब्राजील की लुईसा स्&#x200d;टेफिनी की जोड़ी से होगा। यह मैच शाम 5:30 बजे से शुरू होगा।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T01:50:02+00:00",
+        "link": "https://newsonair.gov.in/hi/wimbledon-linda-noskova-wins/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "शाम 7 बजे से शुरू होगा भारत-इग्‍लैंड के बीच पांचवा टी-20 मैच",
         "summary": "भारत और इग्‍लैंड के बीच पांच टी-20 मैचों की श्रृखंला का अंतिम मुकाबला आज साउथएम्‍पटन में खेला जाएगा। मैच भारतीय समयानुसार शाम 7 बजे से शुरू होगा। श्रृखंला में इग्‍लैंड ने 3-0 की अजेय बढ़त बना ली है। एक दिवसीय मुकाबलों से पहले भारत की नजर यह मैच जीतने पर होगी।",
         "article": "भारत और इग्&#x200d;लैंड के बीच पांच टी-20 मैचों की श्रृखंला का अंतिम मुकाबला आज साउथएम्&#x200d;पटन में खेला जाएगा। मैच भारतीय समयानुसार शाम 7 बजे से शुरू होगा। श्रृखंला में इग्&#x200d;लैंड ने 3-0 की अजेय बढ़त बना ली है। एक दिवसीय मुकाबलों से पहले भारत की नजर यह मैच जीतने पर होगी।",
         "date": "2026-07-11",
         "pubDate": "2026-07-11T08:41:40+00:00",
         "link": "https://newsonair.gov.in/hi/the-fifth-t20-match-between-india-and-england-will-start-at-7-pm/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzeCA7XUAA4E3A-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1629,8 +1647,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T08:15:19+00:00",
         "link": "https://newsonair.gov.in/hi/fifa-world-cup-norway-to-face-england-in-the-quarter-final-match-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM7W1SYawAAMJ0K.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1640,8 +1658,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T02:52:46+00:00",
         "link": "https://newsonair.gov.in/hi/wimbledon-tennis-karolina-muchova-and-linda-noskova-face-off-in-the-womens-singles-final/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Wimbledon_1400.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1651,8 +1669,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T02:45:14+00:00",
         "link": "https://newsonair.gov.in/hi/womens-cricket-england-to-resume-first-innings-against-india-leading-by-21-runs/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM4l_zdaMAALWa9.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1662,8 +1680,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T00:51:25+00:00",
         "link": "https://newsonair.gov.in/hi/fifa-world-cup-spain-defeated-belgium-2-1-to-secure-a-spot-in-the-semi-finals/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/cats-5-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1673,8 +1691,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T03:07:39+00:00",
         "link": "https://newsonair.gov.in/hi/the-pair-of-marcelo-arevalo-and-jelena-ostapenko-won-the-mixed-doubles-title-at-the-wimbledon-tennis-tournament/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM0bpkqXIAAhsCn.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1684,8 +1702,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T02:55:17+00:00",
         "link": "https://newsonair.gov.in/hi/india-suffered-a-crushing-9-wicket-defeat-against-england-in-the-fourth-t20-international-cricket-match/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMz03lPbYAE25po-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1695,30 +1713,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T02:54:58+00:00",
         "link": "https://newsonair.gov.in/hi/the-indian-womens-cricket-team-will-play-an-odi-match-against-england-at-lords-in-london-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/bcci.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतीय पिकलबॉल संघ ने 2026 पिकलबॉल विश्व कप के लिए भारतीय दल की घोषणा की",
-        "summary": "भारतीय पिकलबॉल संघ ने 2026 पिकलबॉल विश्व कप के लिए भारतीय दल की घोषणा कर दी है। यह दल एक प्रतिस्पर्धी चयन प्रक्रिया के बाद चुना गया है। 30 अगस्त से 6 सितंबर तक वियतनाम के दा नांग में आयोजित होने वाले पिकलबॉल विश्व कप में पेशेवर वर्ग में देश का प्रतिनिधित्व करेगा। अंतरराष्ट्रीय पिकलबॉल […]",
-        "article": "भारतीय पिकलबॉल संघ ने 2026 पिकलबॉल विश्व कप के लिए भारतीय दल की घोषणा कर दी है। यह दल एक प्रतिस्पर्धी चयन प्रक्रिया के बाद चुना गया है। 30 अगस्त से 6 सितंबर तक वियतनाम के दा नांग में आयोजित होने वाले पिकलबॉल विश्व कप में पेशेवर वर्ग में देश का प्रतिनिधित्व करेगा। अंतरराष्ट्रीय पिकलबॉल जगत में एक जाना-पहचाना नाम हर्ष मेहता दल की कप्तानी करेंगे। उनके साथ अर्जुन सिंह भी होंगे, जो विश्व कप में अंडर-18 वर्ग में भारत का प्रतिनिधित्व और कप्तानी कर रहे हैं। पुरुष वर्ग में अनीश फ्रोलियन और अमन पटेल का भी चयन हुआ है। महिला वर्ग में मिहिका यादव, आलिया इब्राहिम, पर्ल अमलसादीवाला और नाओमी अमलसादीवाली शामिल हैं।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T08:11:01+00:00",
-        "link": "https://newsonair.gov.in/hi/the-all-india-pickleball-association-has-announced-the-indian-squad-for-the-2026-pickleball-world-cup/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indian-Pickleball-Association.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "17 वर्षीय अश्वथ एस. बने भारत के 98वें शतरंज ग्रैंडमास्टर",
-        "summary": "कन्याकुमारी के 17 वर्षीय अश्वथ एस. पुणे इंटरनेशनल ग्रैंडमास्टर राउंड रॉबिन में अपना अंतिम ग्रैंडमास्टर नॉर्म हासिल करते हुए भारत के 98वें ग्रैंडमास्टर बन गए हैं। अंतिम दौर में अश्वथ ने काले मोहरों से खेलते हुए अमरीका के कन्नन वैद्यनाथन को हराकर ग्रैंडमास्टर खिताब हासिल किया। उन्होंने 9 राउंड में 7 अंक प्राप्त करते हुए […]",
-        "article": "कन्याकुमारी के 17 वर्षीय अश्वथ एस. पुणे इंटरनेशनल ग्रैंडमास्टर राउंड रॉबिन में अपना अंतिम ग्रैंडमास्टर नॉर्म हासिल करते हुए भारत के 98वें ग्रैंडमास्टर बन गए हैं। अंतिम दौर में अश्वथ ने काले मोहरों से खेलते हुए अमरीका के कन्नन वैद्यनाथन को हराकर ग्रैंडमास्टर खिताब हासिल किया। उन्होंने 9 राउंड में 7 अंक प्राप्त करते हुए दूसरा स्थान हासिल किया।",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T03:21:40+00:00",
-        "link": "https://newsonair.gov.in/hi/17-year-old-ashwath-s-becomes-indias-98th-chess-grandmaster/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indias-Aswath-S-becomes-countrys-98th-Chess-Grandmaster.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -1730,8 +1726,8 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T01:58:14+00:00",
         "link": "https://newsonair.gov.in/hi/imf-report-india-is-the-fastest-growing-economy-with-a-projected-growth-rate-of-7/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/06/imf-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1741,8 +1737,8 @@ window.VM_NEWS = {
         "date": "2026-07-05",
         "pubDate": "2026-07-05T14:44:07+00:00",
         "link": "https://newsonair.gov.in/hi/fpis-bought-indian-shares-worth-rs-708-crore-in-the-first-three-trading-sessions-of-july-taking-their-total-purchases-so-far-this-month/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FPI.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1752,63 +1748,8 @@ window.VM_NEWS = {
         "date": "2026-07-02",
         "pubDate": "2026-07-02T02:58:26+00:00",
         "link": "https://newsonair.gov.in/hi/epfo-officially-announces-8-25-interest-rate-on-epf-deposits-for-the-financial-year-2025-26/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/dgrmc13c_epfo_625x300_09_April_25.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "19 किलोग्राम व्यावसायिक एलपीजी सिलेंडर सस्ता, कीमत में 183.50 रुपये की कमी",
-        "summary": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्‍यावसायिक एलपीजी सिलेंडर के मूल्‍य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि‍टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्‍यावसायिक एलपीजी सिलेंडर दिल्‍ली में 2930 रुपये में मिलेगा। इस फैसले से […]",
-        "article": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्&#x200d;यावसायिक एलपीजी सिलेंडर के मूल्&#x200d;य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि&#x200d;टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्&#x200d;यावसायिक एलपीजी सिलेंडर दिल्&#x200d;ली में 2930 रुपये में मिलेगा। इस फैसले से रेस्&#x200d;तरां, ढाबा, होटल और अन्&#x200d;य खान-पान व्&#x200d;यावसायियों को लाभ होगा।",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T05:04:37+00:00",
-        "link": "https://newsonair.gov.in/hi/commercial-lpg-cylinder-price-cut-by-183-50-rupees/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260502237f-1-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील की अंतिम तिथि 31 जुलाई तक बढ़ाई",
-        "summary": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्‍त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्‍न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्‍या […]",
-        "article": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्&#x200d;त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्&#x200d;न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्&#x200d;या के कारण आई तकनीकी बाधा का हवाला दिया था। जिसके बाद सरकार ने अंतिम तिथि बढ़ाकर 31 जुलाई निर्धारित की। सरकार ने करदाताओं को भी सलाह दी है कि वे समय रहते ही अपील दायर कर दें और अंतिम तिथ&#x200d;ि का इंतजार न करें।",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T07:55:27+00:00",
-        "link": "https://newsonair.gov.in/hi/gst-appellate-tribunal-appeal-deadline-extended-july-31/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Untitled-design-1-8.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने एक जुलाई से पेट्रोल और डीज़ल की बिक्री व वितरण पर लगा प्रतिबंध हटाने का फैसला किया",
-        "summary": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम […]",
-        "article": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम एशिया संकट के दौरान अंतरराष्ट्रीय बाजार में ईंधन की कीमतों में तेज़ बढ़ोतरी के बावजूद सरकार ने पेट्रोल और डीज़ल की खुदरा कीमतों को स्थिर रखा। इससे खुदरा और थोक उपभोक्ताओं के लिए ईंधन की कीमतों में बड़ा अंतर पैदा हो गया था। इस स्थिति से निपटने के लिए 12 जून से अस्थायी नियामक उपाय लागू किए गए थे। इनके तहत खुदरा पेट्रोल पंपों पर एक ग्राहक या वाहन को प्रतिदिन अधिकतम 200 लीटर हाई स्पीड डीज़ल देने की सीमा तय की गई थी। साथ ही औद्योगिक, संस्थागत और व्यावसायिक उपभोक्ताओं के लिए अलग व्यवस्था की गई थी। इन उपायों का उद्देश्य डीज़ल की कालाबाज़ारी, जमाखोरी और अवैध बिक्री को रोकना तथा आम उपभोक्ताओं के लिए पेट्रोल और डीज़ल की निर्बाध उपलब्धता सुनिश्चित करना था। मंत्रालय ने कहा कि अब देश में पेट्रोलियम उत्पादों की आपूर्ति सामान्य हो गई है और पेट्रोल-डीज़ल की पर्याप्त उपलब्धता सुनिश्चित है। इसलिए जनहित में इन अस्थायी प्रतिबंधों को वापस लेने का निर्णय लिया गया है।",
-        "date": "2026-06-30",
-        "pubDate": "2026-06-30T03:05:15+00:00",
-        "link": "https://newsonair.gov.in/hi/fuel-sales-restrictions/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260523106F_cPfEGOF-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "उत्तराखंड के लिपुलेख दर्रे से भारत-चीन सीमा व्यापार 6 वर्ष बाद फिर होगा शुरू, 26 व्यापार पास जारी किए गए",
-        "summary": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि […]",
-        "article": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि व्यापार को सुगम बनाने के लिए गुंजी में सीमा शुल्क कार्यालय खोला गया है। व्यापारियों ने अपना सामान पहले ही लिपुलेख दर्रे के निकट स्थित गोदामों में पहुंचा दिया है। प्रशासन को 103 से अधिक व्यापारियों के आवेदन प्राप्त हुए हैं और जल्द ही 25 व्यापारियों के दूसरे दल को भी व्यापार पास जारी किए जाएंगे। सामान ढुलाई के लिए नाभीढांग के पास खच्चरों और घोड़ों की व्यवस्था की गई है। भारत-चीन सीमा व्यापार वर्ष 1991 में पुनः शुरू हुआ था, लेकिन कोविड-19 महामारी के कारण वर्ष 2020 में इसे स्थगित कर दिया गया था। छह वर्ष बाद व्यापार बहाल होने से सीमावर्ती क्षेत्रों की अर्थव्यवस्था को नई गति मिलने की उम्मीद है।",
-        "date": "2026-06-25",
-        "pubDate": "2026-06-25T02:30:19+00:00",
-        "link": "https://newsonair.gov.in/hi/india-china-border-trade-via-uttarakhands-lipulekh-pass-to-resume-after-six-years-26-trade-passes-issued/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Untitled-design-5-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "खनन मंत्रालय ने 7वें चरण की सफल नीलामी के साथ दी खनिज मिशन को गति",
-        "summary": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई […]",
-        "article": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई है। इनमें ग्रेफाइट, रेयर अर्थ एलिमेंट, वैनेडियम, टाइटेनियम, ग्लूकोनाइट और रॉक फॉस्फेट जैसे खनिज शामिल हैं। अब नीलाम किए गए अन्वेषण लाइसेंस ब्लॉक की संख्या 11 हो गई है। अरुणाचल प्रदेश, उत्तर प्रदेश और ओडिशा में पहली बार अन्वेषण लाइसेंस ब्लॉक की नीलामी की गई। खान मंत्रालय के अनुसार, यह नीलामी भारत के खनिज क्षेत्र में उद्योग जगत के बढ़ते भरोसे को दिखाती है। इससे स्वच्छ उर्जा, इलेक्ट्रिक मोबिलिटी, नवीकरणीय उर्जा, इलेक्ट्रॉनिक्स, रक्षा और उन्नत विनिर्माण के लिए ज़रूरी खनिज की खोज और विकास में तेज़ी आएगी। इससे आयात पर निर्भरता कम होगी और घरेलू खनिज आपूर्ति श्रृंखला मज़बूत होगी।",
-        "date": "2026-06-24",
-        "pubDate": "2026-06-24T02:04:58+00:00",
-        "link": "https://newsonair.gov.in/hi/ministry-of-mines-gives-impetus-to-mineral-mission-with-successful-7th-round-of-auctions/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/Ministry-of-mines.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1823,12 +1764,67 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "19 किलोग्राम व्यावसायिक एलपीजी सिलेंडर सस्ता, कीमत में 183.50 रुपये की कमी",
+        "summary": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्‍यावसायिक एलपीजी सिलेंडर के मूल्‍य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि‍टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्‍यावसायिक एलपीजी सिलेंडर दिल्‍ली में 2930 रुपये में मिलेगा। इस फैसले से […]",
+        "article": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्&#x200d;यावसायिक एलपीजी सिलेंडर के मूल्&#x200d;य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि&#x200d;टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्&#x200d;यावसायिक एलपीजी सिलेंडर दिल्&#x200d;ली में 2930 रुपये में मिलेगा। इस फैसले से रेस्&#x200d;तरां, ढाबा, होटल और अन्&#x200d;य खान-पान व्&#x200d;यावसायियों को लाभ होगा।",
+        "date": "2026-07-01",
+        "pubDate": "2026-07-01T05:04:37+00:00",
+        "link": "https://newsonair.gov.in/hi/commercial-lpg-cylinder-price-cut-by-183-50-rupees/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील की अंतिम तिथि 31 जुलाई तक बढ़ाई",
+        "summary": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्‍त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्‍न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्‍या […]",
+        "article": "सरकार ने जीएसटी अपीलीय न्यायाधिकरण में अपील करने की अंतिम तिथि 31 जुलाई तक बढ़ा दी है। वित्&#x200d;त मंत्रालय के अनुसार पिछले वर्ष सितंबर में जारी अधिसूचना में अपील दायर करने की अंतिम तिथि इस वर्ष 30 जून निर्धारित की गई थी। विभिन्&#x200d;न हितधारकों ने जीएसटी अपीलीय न्यायाधिकरण में अपील दायर करने की भारी संख्&#x200d;या के कारण आई तकनीकी बाधा का हवाला दिया था। जिसके बाद सरकार ने अंतिम तिथि बढ़ाकर 31 जुलाई निर्धारित की। सरकार ने करदाताओं को भी सलाह दी है कि वे समय रहते ही अपील दायर कर दें और अंतिम तिथ&#x200d;ि का इंतजार न करें।",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T07:55:27+00:00",
+        "link": "https://newsonair.gov.in/hi/gst-appellate-tribunal-appeal-deadline-extended-july-31/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने एक जुलाई से पेट्रोल और डीज़ल की बिक्री व वितरण पर लगा प्रतिबंध हटाने का फैसला किया",
+        "summary": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम […]",
+        "article": "सरकार ने पेट्रोल और डीज़ल की बिक्री तथा वितरण पर लगाए गए अस्थायी प्रतिबंध एक जुलाई से हटाने का फैसला किया है। पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने कहा है कि सार्वजनिक क्षेत्र की तेल विपणन कंपनियों के खुदरा पेट्रोल पंपों पर अब सामान्य व्यवस्था के तहत ईंधन की बिक्री होगी। मंत्रालय के अनुसार, पश्चिम एशिया संकट के दौरान अंतरराष्ट्रीय बाजार में ईंधन की कीमतों में तेज़ बढ़ोतरी के बावजूद सरकार ने पेट्रोल और डीज़ल की खुदरा कीमतों को स्थिर रखा। इससे खुदरा और थोक उपभोक्ताओं के लिए ईंधन की कीमतों में बड़ा अंतर पैदा हो गया था। इस स्थिति से निपटने के लिए 12 जून से अस्थायी नियामक उपाय लागू किए गए थे। इनके तहत खुदरा पेट्रोल पंपों पर एक ग्राहक या वाहन को प्रतिदिन अधिकतम 200 लीटर हाई स्पीड डीज़ल देने की सीमा तय की गई थी। साथ ही औद्योगिक, संस्थागत और व्यावसायिक उपभोक्ताओं के लिए अलग व्यवस्था की गई थी। इन उपायों का उद्देश्य डीज़ल की कालाबाज़ारी, जमाखोरी और अवैध बिक्री को रोकना तथा आम उपभोक्ताओं के लिए पेट्रोल और डीज़ल की निर्बाध उपलब्धता सुनिश्चित करना था। मंत्रालय ने कहा कि अब देश में पेट्रोलियम उत्पादों की आपूर्ति सामान्य हो गई है और पेट्रोल-डीज़ल की पर्याप्त उपलब्धता सुनिश्चित है। इसलिए जनहित में इन अस्थायी प्रतिबंधों को वापस लेने का निर्णय लिया गया है।",
+        "date": "2026-06-30",
+        "pubDate": "2026-06-30T03:05:15+00:00",
+        "link": "https://newsonair.gov.in/hi/fuel-sales-restrictions/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उत्तराखंड के लिपुलेख दर्रे से भारत-चीन सीमा व्यापार 6 वर्ष बाद फिर होगा शुरू, 26 व्यापार पास जारी किए गए",
+        "summary": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि […]",
+        "article": "उत्तराखंड के पिथौरागढ़ जिले में स्थित लिपुलेख दर्रे से भारत-चीन सीमा व्यापार छह वर्ष बाद फिर शुरू होने जा रहा है। कल 26 भारतीय व्यापारियों का पहला दल तिब्बत क्षेत्र में प्रवेश करेगा। इस दल में 17 व्यापारी और 9 सहायक शामिल हैं। धारचूला के उप-जिलाधिकारी और व्यापार अधिकारी आशीष जोशी ने बताया कि व्यापार को सुगम बनाने के लिए गुंजी में सीमा शुल्क कार्यालय खोला गया है। व्यापारियों ने अपना सामान पहले ही लिपुलेख दर्रे के निकट स्थित गोदामों में पहुंचा दिया है। प्रशासन को 103 से अधिक व्यापारियों के आवेदन प्राप्त हुए हैं और जल्द ही 25 व्यापारियों के दूसरे दल को भी व्यापार पास जारी किए जाएंगे। सामान ढुलाई के लिए नाभीढांग के पास खच्चरों और घोड़ों की व्यवस्था की गई है। भारत-चीन सीमा व्यापार वर्ष 1991 में पुनः शुरू हुआ था, लेकिन कोविड-19 महामारी के कारण वर्ष 2020 में इसे स्थगित कर दिया गया था। छह वर्ष बाद व्यापार बहाल होने से सीमावर्ती क्षेत्रों की अर्थव्यवस्था को नई गति मिलने की उम्मीद है।",
+        "date": "2026-06-25",
+        "pubDate": "2026-06-25T02:30:19+00:00",
+        "link": "https://newsonair.gov.in/hi/india-china-border-trade-via-uttarakhands-lipulekh-pass-to-resume-after-six-years-26-trade-passes-issued/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "नीति आयोग के उपाध्यक्ष ने कहा, पिछली तिमाही में भारत का कुल व्यापार 5.4% बढ़ा",
         "summary": "नीति आयोग के उपाध्यक्ष डॉ. अशोक कुमार लाहिड़ी ने कहा है कि पिछली तिमाही में भारत का कुल व्यापार 5.4 प्रतिशत बढ़ा है। कल नई दिल्ली में &#8216;ट्रेड वॉच क्वार्टरली&#8216; रिपोर्ट का नया संस्करण जारी करते हुए उन्होंने कहा कि पिछली तिमाही में भारत का निर्यात 1 खरब 84 अरब डॉलर पर पहुंच गया और […]",
         "article": "नीति आयोग के उपाध्यक्ष डॉ. अशोक कुमार लाहिड़ी ने कहा है कि पिछली तिमाही में भारत का कुल व्यापार 5.4 प्रतिशत बढ़ा है। कल नई दिल्ली में &#8216; ट्रेड वॉच क्वार्टरली &#8216; रिपोर्ट का नया संस्करण जारी करते हुए उन्होंने कहा कि पिछली तिमाही में भारत का निर्यात 1 खरब 84 अरब डॉलर पर पहुंच गया और आयात में साढ़े 6 प्रतिशत की वृद्धि हुई। रिपोर्ट में, वैश्विक व्यापार में भारत की भूमिका का विश्लेषण किया गया है, जिसमें ख़ासकर औषधि व्यापार पर ध्यान केंद्रित किया गया है।",
         "date": "2026-06-24",
         "pubDate": "2026-06-24T02:06:08+00:00",
         "link": "https://newsonair.gov.in/hi/niti-aayog-vice-chairman-says-indias-total-trade-grew-by-5-4-in-the-last-quarter/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "खनन मंत्रालय ने 7वें चरण की सफल नीलामी के साथ दी खनिज मिशन को गति",
+        "summary": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई […]",
+        "article": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई है। इनमें ग्रेफाइट, रेयर अर्थ एलिमेंट, वैनेडियम, टाइटेनियम, ग्लूकोनाइट और रॉक फॉस्फेट जैसे खनिज शामिल हैं। अब नीलाम किए गए अन्वेषण लाइसेंस ब्लॉक की संख्या 11 हो गई है। अरुणाचल प्रदेश, उत्तर प्रदेश और ओडिशा में पहली बार अन्वेषण लाइसेंस ब्लॉक की नीलामी की गई। खान मंत्रालय के अनुसार, यह नीलामी भारत के खनिज क्षेत्र में उद्योग जगत के बढ़ते भरोसे को दिखाती है। इससे स्वच्छ उर्जा, इलेक्ट्रिक मोबिलिटी, नवीकरणीय उर्जा, इलेक्ट्रॉनिक्स, रक्षा और उन्नत विनिर्माण के लिए ज़रूरी खनिज की खोज और विकास में तेज़ी आएगी। इससे आयात पर निर्भरता कम होगी और घरेलू खनिज आपूर्ति श्रृंखला मज़बूत होगी।",
+        "date": "2026-06-24",
+        "pubDate": "2026-06-24T02:04:58+00:00",
+        "link": "https://newsonair.gov.in/hi/ministry-of-mines-gives-impetus-to-mineral-mission-with-successful-7th-round-of-auctions/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1842,8 +1838,8 @@ window.VM_NEWS = {
         "date": "2026-05-22",
         "pubDate": "2026-05-22T02:24:07+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a4%be%e0%a4%a8%e0%a5%8d%e0%a4%b8-%e0%a4%ab%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%ae-%e0%a4%ae%e0%a4%b9%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%b8%e0%a4%b5-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%b9/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/Untitled-design-27.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1853,8 +1849,8 @@ window.VM_NEWS = {
         "date": "2026-03-31",
         "pubDate": "2026-03-31T07:55:25+00:00",
         "link": "https://newsonair.gov.in/hi/iffd-2026-will-conclude-with-the-screening-of-lalo-krishna-sada-sahayate/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/लालो.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1864,8 +1860,8 @@ window.VM_NEWS = {
         "date": "2026-02-23",
         "pubDate": "2026-02-23T04:47:52+00:00",
         "link": "https://newsonair.gov.in/hi/manipuri-comedy-drama-film-boong-wins-best-childrens-and-family-film-category-at-bafta-awards/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/Boong-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1875,8 +1871,8 @@ window.VM_NEWS = {
         "date": "2026-02-23",
         "pubDate": "2026-02-23T03:36:35+00:00",
         "link": "https://newsonair.gov.in/hi/the-film-one-battle-after-another-created-a-stir-at-the-79th-bafta-awards/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/HBykUy4XMAAB08r.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1886,8 +1882,8 @@ window.VM_NEWS = {
         "date": "2026-01-23",
         "pubDate": "2026-01-23T04:07:03+00:00",
         "link": "https://newsonair.gov.in/hi/24th-international-film-festival-of-pune-concludes-with-a-colourful-ceremony/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/पुणे.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1897,8 +1893,8 @@ window.VM_NEWS = {
         "date": "2025-12-17",
         "pubDate": "2025-12-17T08:10:26+00:00",
         "link": "https://newsonair.gov.in/hi/the-indian-film-homebound-has-been-nominated-in-the-best-feature-film-category-at-the-98th-academy-awards/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/homeeee.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1908,19 +1904,8 @@ window.VM_NEWS = {
         "date": "2025-12-08",
         "pubDate": "2025-12-08T03:03:45+00:00",
         "link": "https://newsonair.gov.in/hi/renowned-actor-kalyan-chattopadhyay-passes-away-at-the-age-of-82/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/kalyan.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "56वां भारतीय अंतरराष्ट्रीय फिल्म महोत्सव भव्यता के साथ हो रहा है सम्‍पन्‍न",
-        "summary": "56वां भारतीय अंतरराष्ट्रीय फिल्म महोत्सव आज सम्‍पन्‍न हो रहा है। महोत्सव का भव्य उद्घाटन 20 नवंबर को परेड के साथ हुआ था। गोवा के मुख्यमंत्री प्रमोद सावंत, केंद्रीय सूचना और प्रसारण मंत्री अश्विनी वैष्णव तथा सूचना और प्रसारण राज्य मंत्री डॉ. एल. मुरुगन, महोत्सव निदेशक शेखर कपूर के साथ इस समारोह में शामिल […]",
-        "article": "56वां भारतीय अंतरराष्ट्रीय फिल्म महोत्सव आज सम्&#x200d;पन्&#x200d;न हो रहा है। महोत्सव का भव्य उद्घाटन 20 नवंबर को परेड के साथ हुआ था। गोवा के मुख्यमंत्री प्रमोद सावंत, केंद्रीय सूचना और प्रसारण मंत्री अश्विनी वैष्णव तथा सूचना और प्रसारण राज्य मंत्री डॉ. एल. मुरुगन, महोत्सव निदेशक शेखर कपूर के साथ इस समारोह में शामिल होंगे। कई गणमान्य व्यक्तियों के भी इस आयोजन में शामिल होने की आशा है। इस दौरान प्रतिष्ठित गोल्डन पीकॉक अवार्ड, सिल्वर पीकॉक अवार्ड और आईसीएफटी-यूनेस्को गांधी मेडल दिए जाएंगे। इस वर्ष फिल्मोत्सव में 81 देशों की 240 से अधिक फिल्में दिखाई गई जिनमें जापान फोकस कंट्री, स्पेन पार्टनर कंट्री और ऑस्ट्रेलिया स्पॉटलाइट कंट्री रहा।",
-        "date": "2025-11-28",
-        "pubDate": "2025-11-28T12:32:09+00:00",
-        "link": "https://newsonair.gov.in/hi/56%e0%a4%b5%e0%a4%be%e0%a4%82-%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/आईएफएफ.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1930,6 +1915,17 @@ window.VM_NEWS = {
         "date": "2025-11-28",
         "pubDate": "2025-11-28T15:45:34+00:00",
         "link": "https://newsonair.gov.in/hi/56%e0%a4%b5%e0%a4%be%e0%a4%82-%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "56वां भारतीय अंतरराष्ट्रीय फिल्म महोत्सव भव्यता के साथ हो रहा है सम्‍पन्‍न",
+        "summary": "56वां भारतीय अंतरराष्ट्रीय फिल्म महोत्सव आज सम्‍पन्‍न हो रहा है। महोत्सव का भव्य उद्घाटन 20 नवंबर को परेड के साथ हुआ था। गोवा के मुख्यमंत्री प्रमोद सावंत, केंद्रीय सूचना और प्रसारण मंत्री अश्विनी वैष्णव तथा सूचना और प्रसारण राज्य मंत्री डॉ. एल. मुरुगन, महोत्सव निदेशक शेखर कपूर के साथ इस समारोह में शामिल […]",
+        "article": "56वां भारतीय अंतरराष्ट्रीय फिल्म महोत्सव आज सम्&#x200d;पन्&#x200d;न हो रहा है। महोत्सव का भव्य उद्घाटन 20 नवंबर को परेड के साथ हुआ था। गोवा के मुख्यमंत्री प्रमोद सावंत, केंद्रीय सूचना और प्रसारण मंत्री अश्विनी वैष्णव तथा सूचना और प्रसारण राज्य मंत्री डॉ. एल. मुरुगन, महोत्सव निदेशक शेखर कपूर के साथ इस समारोह में शामिल होंगे। कई गणमान्य व्यक्तियों के भी इस आयोजन में शामिल होने की आशा है। इस दौरान प्रतिष्ठित गोल्डन पीकॉक अवार्ड, सिल्वर पीकॉक अवार्ड और आईसीएफटी-यूनेस्को गांधी मेडल दिए जाएंगे। इस वर्ष फिल्मोत्सव में 81 देशों की 240 से अधिक फिल्में दिखाई गई जिनमें जापान फोकस कंट्री, स्पेन पार्टनर कंट्री और ऑस्ट्रेलिया स्पॉटलाइट कंट्री रहा।",
+        "date": "2025-11-28",
+        "pubDate": "2025-11-28T12:32:09+00:00",
+        "link": "https://newsonair.gov.in/hi/56%e0%a4%b5%e0%a4%be%e0%a4%82-%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af-%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1954,8 +1950,8 @@ window.VM_NEWS = {
         "date": "2026-06-04",
         "pubDate": "2026-06-04T06:01:50+00:00",
         "link": "https://newsonair.gov.in/hi/who-expresses-concern-over-rapid-spread-of-ebola-outbreak-in-congo/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/WHO.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1965,8 +1961,8 @@ window.VM_NEWS = {
         "date": "2026-05-21",
         "pubDate": "2026-05-21T07:50:34+00:00",
         "link": "https://newsonair.gov.in/hi/directorate-general-of-health-services-issues-advisory-for-travellers-arriving-from-and-transiting-through-ebola-affected-countries/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/cds.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1976,8 +1972,8 @@ window.VM_NEWS = {
         "date": "2026-05-21",
         "pubDate": "2026-05-21T07:00:38+00:00",
         "link": "https://newsonair.gov.in/hi/india-launches-worlds-largest-screening-drive-to-eliminate-tb-union-health-minister-j-p-nadda/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/jp-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1987,8 +1983,8 @@ window.VM_NEWS = {
         "date": "2026-05-08",
         "pubDate": "2026-05-08T07:44:50+00:00",
         "link": "https://newsonair.gov.in/hi/health-minister-jp-nadda-launches-integrated-training-programme-for-primary-health-teams/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/J-p-Nadda.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1998,8 +1994,8 @@ window.VM_NEWS = {
         "date": "2026-05-07",
         "pubDate": "2026-05-07T03:01:43+00:00",
         "link": "https://newsonair.gov.in/hi/union-minister-to-launch-nationwide-annual-health-check-up-initiative-for-workers-from-esic/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/man.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -2009,8 +2005,8 @@ window.VM_NEWS = {
         "date": "2026-04-07",
         "pubDate": "2026-04-07T08:28:42+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af-%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8-%e0%a4%aa%e0%a5%80%e0%a4%8f/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Untitled-design-3-5.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -2020,8 +2016,8 @@ window.VM_NEWS = {
         "date": "2026-02-11",
         "pubDate": "2026-02-11T01:59:38+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a5%87%e0%a4%a6%e0%a4%bf%e0%a4%95-%e0%a4%94%e0%a4%b7%e0%a4%a7%e0%a4%bf-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a4%e0%a4%be/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/HAz4fsPbUAAOn4m-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -2031,8 +2027,8 @@ window.VM_NEWS = {
         "date": "2026-01-15",
         "pubDate": "2026-01-15T12:24:16+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4-%e0%a4%95%e0%a5%87-%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b7-%e0%a4%b9%e0%a4%b0%e0%a5%8d%e0%a4%ac%e0%a4%b2-%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Untitled-design-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -2042,8 +2038,8 @@ window.VM_NEWS = {
         "date": "2025-12-27",
         "pubDate": "2025-12-27T04:59:50+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%9c%e0%a5%87-%e0%a4%aa%e0%a5%80-%e0%a4%a8%e0%a4%a1%e0%a5%8d/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G9GqIftaAAEWJQP.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -2053,8 +2049,8 @@ window.VM_NEWS = {
         "date": "2025-12-20",
         "pubDate": "2025-12-20T08:20:53+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%9c%e0%a5%87%e0%a4%aa%e0%a5%80-%e0%a4%a8%e0%a4%a1%e0%a5%8d-3/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/G8jVc1PbMAQhk_x.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ]
