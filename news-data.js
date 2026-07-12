@@ -1,8 +1,41 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-12T07:49:29.502344",
+  "generated": "2026-07-12T08:39:23.255250",
   "en": {
     "top": [
+      {
+        "title": "India condemns attack on commercial vessel GFS Galaxy off coast of Oman; 10 Indians rescued, one reported missing; New Delhi expresses concern over continuing attacks on commercial shipping in region",
+        "summary": "India has condemned the attack on the commercial vessel GFS Galaxy off the coast of Oman earlier today. The External Affairs Ministry informed in a statement that of the 11 Indian nationals on board, 10 have been rescued so far, while one Indian National is reportedly missing. It said the Indian Embassy in Oman is […]",
+        "article": "India has condemned the attack on the commercial vessel GFS Galaxy off the coast of Oman earlier today. The External Affairs Ministry informed in a statement that of the 11 Indian nationals on board, 10 have been rescued so far, while one Indian National is reportedly missing. It said the Indian Embassy in Oman is closely monitoring the situation and proactively coordinating with the Omani authorities in the ongoing Search and Rescue operation. India has thanked the Omani authorities for their support. New Delhi has expressed concern over the continuing incidents of attacks on commercial shipping in the region. It reiterated the call for immediate de-escalation of tensions and the conclusion of ongoing negotiations for a diplomatic solution so that peace and stability can return to the region. The External Affairs Ministry said the targeting of commercial shipping and civilian infrastructure in the region must end, and free and unimpeded navigation and commerce through the international waterways in the region, in keeping with international law, must be restored at the earliest. &nbsp;",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:19:50+00:00",
+        "link": "https://newsonair.gov.in/india-condemns-attack-on-commercial-vessel-gfs-galaxy-off-coast-of-oman-10-indians-rescued-one-reported-missing-new-delhi-expresses-concern-over-continuing-attacks-on-commercial-shipping-in-the-reg/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
+        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "US launches new round of strikes against Iran after IRGC forces attack container ship transiting Strait of Hormuz",
+        "summary": "The United States has launched fresh airstrikes on Iran this morning. The airstrikes came after Tehran attacked a commercial vessel in the Strait of Hormuz, setting it ablaze and forcing its crew to abandon ship. US Central Command said it targeted around 140 Iranian military sites, including missile, drone and communications facilities. Iran […]",
+        "article": "The United States has launched fresh airstrikes on Iran this morning. The airstrikes came after Tehran attacked a commercial vessel in the Strait of Hormuz, setting it ablaze and forcing its crew to abandon ship. US Central Command said it targeted around 140 Iranian military sites, including missile, drone and communications facilities. Iran retaliated with missile and drone attacks targeting Bahrain, Kuwait, Qatar and the United Arab Emirates. Qatar and Kuwait said they intercepted the incoming projectiles, while Bahrain also activated missile alerts. Iran also claimed to have carried out strikes on a US military base in Jordan. Iran&#8217;s Revolutionary Guard said it has closed the Strait of Hormuz until further notice and warned of further action if US strikes continue. The latest escalation has raised concerns over regional security and global energy supplies, as the strategic waterway handles a significant share of the world&#8217;s oil and gas trade.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:08:40+00:00",
+        "link": "https://newsonair.gov.in/us-launches-new-round-of-strikes-against-iran-after-irgc-forces-attack-container-ship-transiting-strait-of-hormuz/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ISS-44_Strait_of_Gibraltar.jpg/1280px-ISS-44_Strait_of_Gibraltar.jpg",
+        "image_credit": "Wikipedia – Strait (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi returns to New Delhi after concluding several agreements during his visit to Indonesia, Australia and New Zealand",
+        "summary": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress. The two nations exchanged MoUs […]",
+        "article": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress. The two nations exchanged MoUs and agreements in the fields of defense, critical and rare earth minerals, agriculture, maritime security and space. During his visit, Prime Minister Modi was conferred the highest civilian medal of honour, Bintang Adipurna of the Republic of Indonesia. In the second leg of his tour, Prime Minister Modi travelled to Melbourne, Australia, where he participated in the third India-Australia Annual Summit with the Australian Prime Minister. The visit also enabled the supply of Uranium from Australia to India. During the visit, Australian Super announced an investment of five hundred million Australian dollar to India&#8217;s National Investment and Infrastructure Fund. On the final leg of his three-nation visit, the Prime Minister visited Auckland. During the visit, the Prime Ministers of India and New Zealand announced the creation of the India-New Zealand Strategic Partnership and set a target to double bilateral trade by 2030.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:02:09+00:00",
+        "link": "https://newsonair.gov.in/pm-narendra-modi-returns-to-india-after-successfully-concluding-his-3-nation-visit-to-indonesia-australia-and-new-zealand/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
+        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Typhoon Bavi makes landfall in eastern China’s Taizhou after nearly 2 million evacuated",
         "summary": "Typhoon Bavi made landfall late last night in the coastal city of Taizhou in eastern China, where nearly two million people were evacuated, having earlier hit Japan&#8217;s southern Sakishima island chain and brushed past northern Taiwan. Even as Bavi continues to slow and weaken on its northwesterly path, the typhoon is still a potent risk […]",
@@ -22,28 +55,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-12T02:18:33+00:00",
         "link": "https://newsonair.gov.in/rescue-operations-underway-after-boat-carrying-indian-tourists-capsizes-near-phu-quoc-island/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "US launches new round of strikes against Iran after IRGC forces attack container ship transiting Strait of Hormuz",
-        "summary": "The United States launched a new round of strikes against Iran after Islamic Revolutionary Guard Corps (IRGC) forces attacked a Cyprus-flagged container ship transiting the Strait of Hormuz. US military said the strikes were carried out at the direction of President Donald Trump. US CENTCOM said the attack on the commercial vessel left […]",
-        "article": "The United States launched a new round of strikes against Iran after Islamic Revolutionary Guard Corps (IRGC) forces attacked a Cyprus-flagged container ship transiting the Strait of Hormuz. US military said the strikes were carried out at the direction of President Donald Trump. US CENTCOM said the attack on the commercial vessel left a civilian crew member missing and the vessel is unable to continue the journey due to an onboard fire and significant engine room damage. Explosions were heard in Qeshm Island, Bandar Abbas and Sirik following the attacks. Meanwhile, Iran has closed Strait of Hormuz until further notice. Iran&#8217;s IRGC Navy said the sea route was closed following an incident involving a vessel that attempted to use an unauthorised route. The force said no ships will be allowed to transit through the strategic waterway until what it called US interference in the region ends. The announcement came after the IRGC claimed it fired a warning shot and stopped the vessel. IRGC Navy said any attempt by the enemy to use the recent Strait of Hormuz incident as a pretext for further action will invite a severe response. The US is demanding that Iran make a public statement saying the Strait of Hormuz is open and that ships crossing the vital corridor will not be attacked anymore. Senior US officials said that internal power struggles in Tehran have made it difficult to reach and keep a deal. Meanwhile, US President Donald Trump said that negotiations with Iran will continue despite tensions. His comments came as the fragile interim agreement came under strain following renewed military exchanges in the region. Iran insists the Strait of Hormuz must remain under its control and maintains its demand that vessels passing through the strategic waterway pay fees. Iran said it has exclusive authority over activities in the strait. However, Oman has proposed having two separately managed routes for shipping through the Strait of Hormuz &#8211; one through Iranian waters and another through Omani waters. Tehran had rejected a similar proposal in earlier discussions, insisting on a single management system involving both countries. Iranian officials remain concerned that separate routes could allow ships to bypass Iranian waters, reducing Tehran’s leverage in negotiations.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T01:51:40+00:00",
-        "link": "https://newsonair.gov.in/us-launches-new-round-of-strikes-against-iran-after-irgc-forces-attack-container-ship-transiting-strait-of-hormuz/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ISS-44_Strait_of_Gibraltar.jpg/1280px-ISS-44_Strait_of_Gibraltar.jpg",
-        "image_credit": "Wikipedia – Strait (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Hyderabad to play a key role India’s AI and semiconductor growth: Union Minister Ashwini Vaishnaw",
-        "summary": "Hyderabad to play a key role in India’s AI, Semiconductor and Electronics Growth under Prime Minister Narendra Modi’s Vision, says Union Minister Ashwini Vaishnaw. At an Industry Leader Town Hall in Hyderabad organised by HYSEA, Union Minister Ashwini Vaishnaw urged the Indian IT sector to transition from a software services model to an &#8220;AI as […]",
-        "article": "Hyderabad to play a key role in India’s AI, Semiconductor and Electronics Growth under Prime Minister Narendra Modi’s Vision, says Union Minister Ashwini Vaishnaw. At an Industry Leader Town Hall in Hyderabad organised by HYSEA, Union Minister Ashwini Vaishnaw urged the Indian IT sector to transition from a software services model to an &#8220;AI as a Service&#8221; model. He emphasised that India’s next phase of growth will be powered by artificial intelligence, semiconductors, electronics manufacturing, and advanced infrastructure, all aligned with the vision of Viksit Bharat 2047. The minister highlighted that the strategic shift to AI should be propelled by industry-academia collaboration, noting that a comprehensive AI curriculum has already been developed with NASSCOM to train the future workforce. Addressing advancements in the semiconductor sector, Vaishnaw stated that India&#8217;s long-standing dream of building a semiconductor ecosystem is now a reality. He revealed that twelve manufacturing plants are currently under development, with three already exporting chips to Europe and Japan. To capitalise on the global shortage of skilled engineering talent, the government has provided advanced semiconductor design tools to 315 universities. Furthermore, electronics manufacturing is booming, with mobile phones leading exports. The sector is expected to grow to twenty lakh crore rupees, with the central government heavily supporting companies and infrastructure clusters in Telangana. Regarding connectivity, the minister shared that Hyderabad is slated to become a critical high-speed rail hub with three planned bullet train corridors. He highlighted a massive surge in railway investments for Telangana, noting that the state now receives over 5,400 crore rupees annually compared to the 880 crore rupees allocated during the previous UPA regime. Additionally, forty railway stations in the state are being modernised under the Amrit Bharat Station Scheme. &nbsp; Vaishnaw praised Hyderabad as a central pillar for technology-led innovation, emphasising its vital contributions to digital public infrastructure, local Kavach safety technology, and global VFX sectors. Union Minister G. Kishan Reddy, who also attended the town hall, stressed the importance of balanced regional growth. He stated that development must expand beyond Hyderabad into tier-II cities like Warangal and Karimnagar to distribute investment and employment opportunities evenly. He also noted that the complete electrification of lines and the redevelopment of key stations like Secunderabad would transform regional connectivity. Following the interactive session, both ministers visited the Medha Bogies Factory at Kondakal and Medha Servo Drives, where they inspected manufacturing operations and assessed safety preparedness ahead of the facility&#8217;s commissioning phase.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T16:42:00+00:00",
-        "link": "https://newsonair.gov.in/hyderabad-to-play-a-key-role-indias-ai-and-semiconductor-growth-union-minister-ashwini-vaishnaw/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/ashwini-it-2-1-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -103,34 +114,23 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "EPFO introduces 6-month Amnesty Scheme for establishments operating ‘Exempted Provident Fund’ to regularise their status",
-        "summary": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating […]",
-        "article": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating a Provident Fund Trust recognised under the Income Tax Act, 1961. The Ministry said that eligible establishments shall submit a formal application through email to the concerned Regional Office. An &#8216;Exempted Provident Fund&#8217; is an employer-managed PF scheme that handles its own provident fund contributions internally through a private trust, rather than depositing them directly into EPFO. Akashvani correspondent reports that the EPFO&#8217;s introduced Amnesty Scheme provides a one-time opportunity for eligible establishments that have been operating recognised PF trusts to regularise their status retrospectively. It is intended to bring such trusts within a uniform statutory framework while ensuring compliance with the applicable legal provisions. For employees, the scheme is expected to provide greater certainty regarding the legal status of their employer&#8217;s provident fund trust. It also requires that member accounts should have received contributions and interest at par with or better than the statutory EPFO rates for the prescribed reliefs to apply. By regularising exempted PF trusts, the scheme is also expected to make the administration of provident fund benefits more streamlined and legally compliant.",
+        "title": "Union Minister Piyush Goyal will lead business delegation to Spain, Belgium and Finland from tomorrow",
+        "summary": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation to Spain, Belgium and Finland from tomorrow till the 17th of this month. The Ministry of Commerce and Industry said that the visit aims to strengthen India&#8217;s economic partnerships with Europe with a focus on trade, investment, technology, innovation and sustainability. […]",
+        "article": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation to Spain, Belgium and Finland from tomorrow till the 17th of this month. The Ministry of Commerce and Industry said that the visit aims to strengthen India&#8217;s economic partnerships with Europe with a focus on trade, investment, technology, innovation and sustainability. In the first leg of his tour, Mr Goyal will visit Spain tomorrow, where he will participate in a Business Roundtable with the Chamber of Commerce of Spain, CEOE and ICEX Spain Trade and Investment. The session will bring together Spanish and Indian industry leaders to explore opportunities in automotive, renewable energy, railways, artificial intelligence, semiconductors, food processing, and tourism. The Minister will then visit Belgium on the 14th and 15th of this month. He will hold meetings with the leadership of Thales Group and Silox Group. The programme includes participation in the India-EU Business Roundtable and the Trade and Technology Council Plenary, where discussions will centre on foreign investment, trade facilitation, sustainable technologies and resilient supply chains. Thereafter, Mr Goyal will visit Finland on the 16th and 17th of this month. He will attend the India-Finland Business Roundtable. The Minister will visit leading Finnish companies and research institutions, including Nokia, Kone, Kemppi Group and VTT Research Centre, to explore collaboration in telecommunications, advanced manufacturing, clean energy, mobility and innovation.",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:48:57+00:00",
-        "link": "https://newsonair.gov.in/epfo-invites-applications-for-amnesty-scheme-from-provident-fund-trusts/",
+        "pubDate": "2026-07-12T08:38:44+00:00",
+        "link": "https://newsonair.gov.in/union-minister-piyush-goyal-will-lead-business-delegation-to-spain-belgium-and-finland-from-tomorrow/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani dies at 74; PM Modi condoles the demise of father of Emir of Qatar",
-        "summary": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, […]",
-        "article": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, Qatar emerged as a global energy powerhouse, launched the Al Jazeera news network, expanded its international investments, and successfully hosted the 2022 FIFA World Cup. Prime Minister Narendra Modi expressed grief over the demise of the Emir of Qatar, Sheikh Hamad binKhalifa Al Thani. In a social media post, Mr Modi said that Sheikh Hamad binKhalifa Al Thani was a visionary leader who led Qatar to great levels of development and prosperity. The Prime Minister added that India remembers him as a true friend. Mr Modi conveyed his condolences to the Amir of Qatar, Sheikh Tamim bin Hamad Al Thani and the entire royal family and people of Qatar. &nbsp; &nbsp;",
+        "title": "Union Minister Shivraj Singh Chouhan emphasises planting trees is extremely important for protecting environment",
+        "summary": "Union Minister Shivraj Singh Chouhan has emphasised that planting trees is extremely important for protecting the environment and ensuring a sustainable future. Addressing the Vriksh Mitra Programme and Paryavaran Sanrakshan Sankalp event in New Delhi, Mr Chouhan said, today the entire world is concerned about climate change and global warming. He noted that […]",
+        "article": "Union Minister Shivraj Singh Chouhan has emphasised that planting trees is extremely important for protecting the environment and ensuring a sustainable future. Addressing the Vriksh Mitra Programme and Paryavaran Sanrakshan Sankalp event in New Delhi, Mr Chouhan said, today the entire world is concerned about climate change and global warming. He noted that since 1880, rising ocean temperatures and melting glaciers have led to an increase in global sea levels by about 20 to 23 centimetres. He added that the Earth’s average temperature has risen by nearly 1.5 degrees Celsius compared to 1900, which is a serious warning sign of climate change. Mr Chouhan highlighted that Prime Minister Narendra Modi has taken several key initiatives to tackle this crisis. He said that there has been a significant increase in renewable energy capacity in the country. The Minister also mentioned initiatives like Ek Ped Maa Ke Naam campaign and Mission LiFE to protect and preserve the environment. Mr Chouhan said that India has set a target of achieving net-zero carbon emissions by 2070.",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:46:19+00:00",
-        "link": "https://newsonair.gov.in/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74-pm-modi-condoles-the-demise-of-father-of-emir-of-qatar/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt debunks fake approval letter, claiming to grant loan under PMMY on payment of RS 350 as processing fee",
-        "summary": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro […]",
-        "article": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro Units Development and Refinance Agency (MUDRA) does not lend directly to micro-entrepreneurs or individuals. It noted that MUDRA provides refinancing support to last-mile financiers, including Non-Banking Financial Companies, Microfinance Institutions, societies, trusts, Section 8 companies, small finance banks, and regional rural banks, which in turn extend loans to micro and small business entities engaged in manufacturing, trading, services, and agri-allied activities. PIB urged citizens to be aware of such fake news and advised them not to transfer money based on such messages and also not to share personal or banking details.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:28:21+00:00",
-        "link": "https://newsonair.gov.in/govt-debunks-fake-approval-letter-claiming-to-grant-loan-under-pmmy-on-payment-of-rs-350-as-processing-fee/",
+        "pubDate": "2026-07-12T08:29:51+00:00",
+        "link": "https://newsonair.gov.in/union-minister-shivraj-singh-chouhan-to-participate-in-paryavaran-sanrakshan-sankalp-program-at-the-pusa-campus-in-new-delhi-today/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -138,18 +138,51 @@ window.VM_NEWS = {
     ],
     "breaking": [
       {
-        "title": "Hyderabad to play a key role India’s AI and semiconductor growth: Union Minister Ashwini Vaishnaw",
-        "summary": "Hyderabad to play a key role in India’s AI, Semiconductor and Electronics Growth under Prime Minister Narendra Modi’s Vision, says Union Minister Ashwini Vaishnaw. At an Industry Leader Town Hall in Hyderabad organised by HYSEA, Union Minister Ashwini Vaishnaw urged the Indian IT sector to transition from a software services model to an &#8220;AI as […]",
-        "article": "Hyderabad to play a key role in India’s AI, Semiconductor and Electronics Growth under Prime Minister Narendra Modi’s Vision, says Union Minister Ashwini Vaishnaw. At an Industry Leader Town Hall in Hyderabad organised by HYSEA, Union Minister Ashwini Vaishnaw urged the Indian IT sector to transition from a software services model to an &#8220;AI as a Service&#8221; model. He emphasised that India’s next phase of growth will be powered by artificial intelligence, semiconductors, electronics manufacturing, and advanced infrastructure, all aligned with the vision of Viksit Bharat 2047. The minister highlighted that the strategic shift to AI should be propelled by industry-academia collaboration, noting that a comprehensive AI curriculum has already been developed with NASSCOM to train the future workforce. Addressing advancements in the semiconductor sector, Vaishnaw stated that India&#8217;s long-standing dream of building a semiconductor ecosystem is now a reality. He revealed that twelve manufacturing plants are currently under development, with three already exporting chips to Europe and Japan. To capitalise on the global shortage of skilled engineering talent, the government has provided advanced semiconductor design tools to 315 universities. Furthermore, electronics manufacturing is booming, with mobile phones leading exports. The sector is expected to grow to twenty lakh crore rupees, with the central government heavily supporting companies and infrastructure clusters in Telangana. Regarding connectivity, the minister shared that Hyderabad is slated to become a critical high-speed rail hub with three planned bullet train corridors. He highlighted a massive surge in railway investments for Telangana, noting that the state now receives over 5,400 crore rupees annually compared to the 880 crore rupees allocated during the previous UPA regime. Additionally, forty railway stations in the state are being modernised under the Amrit Bharat Station Scheme. &nbsp; Vaishnaw praised Hyderabad as a central pillar for technology-led innovation, emphasising its vital contributions to digital public infrastructure, local Kavach safety technology, and global VFX sectors. Union Minister G. Kishan Reddy, who also attended the town hall, stressed the importance of balanced regional growth. He stated that development must expand beyond Hyderabad into tier-II cities like Warangal and Karimnagar to distribute investment and employment opportunities evenly. He also noted that the complete electrification of lines and the redevelopment of key stations like Secunderabad would transform regional connectivity. Following the interactive session, both ministers visited the Medha Bogies Factory at Kondakal and Medha Servo Drives, where they inspected manufacturing operations and assessed safety preparedness ahead of the facility&#8217;s commissioning phase.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T16:42:00+00:00",
-        "link": "https://newsonair.gov.in/hyderabad-to-play-a-key-role-indias-ai-and-semiconductor-growth-union-minister-ashwini-vaishnaw/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/ashwini-it-2-1-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "India condemns attack on commercial vessel GFS Galaxy off coast of Oman; 10 Indians rescued, one reported missing; New Delhi expresses concern over continuing attacks on commercial shipping in region",
+        "summary": "India has condemned the attack on the commercial vessel GFS Galaxy off the coast of Oman earlier today. The External Affairs Ministry informed in a statement that of the 11 Indian nationals on board, 10 have been rescued so far, while one Indian National is reportedly missing. It said the Indian Embassy in Oman is […]",
+        "article": "India has condemned the attack on the commercial vessel GFS Galaxy off the coast of Oman earlier today. The External Affairs Ministry informed in a statement that of the 11 Indian nationals on board, 10 have been rescued so far, while one Indian National is reportedly missing. It said the Indian Embassy in Oman is closely monitoring the situation and proactively coordinating with the Omani authorities in the ongoing Search and Rescue operation. India has thanked the Omani authorities for their support. New Delhi has expressed concern over the continuing incidents of attacks on commercial shipping in the region. It reiterated the call for immediate de-escalation of tensions and the conclusion of ongoing negotiations for a diplomatic solution so that peace and stability can return to the region. The External Affairs Ministry said the targeting of commercial shipping and civilian infrastructure in the region must end, and free and unimpeded navigation and commerce through the international waterways in the region, in keeping with international law, must be restored at the earliest. &nbsp;",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:19:50+00:00",
+        "link": "https://newsonair.gov.in/india-condemns-attack-on-commercial-vessel-gfs-galaxy-off-coast-of-oman-10-indians-rescued-one-reported-missing-new-delhi-expresses-concern-over-continuing-attacks-on-commercial-shipping-in-the-reg/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
+        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
-        "title": "EPFO introduces 6-month Amnesty Scheme for establishments operating ‘Exempted Provident Fund’ to regularise their status",
+        "title": "PM Modi returns to New Delhi after concluding several agreements during his visit to Indonesia, Australia and New Zealand",
+        "summary": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress. The two nations exchanged MoUs […]",
+        "article": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress. The two nations exchanged MoUs and agreements in the fields of defense, critical and rare earth minerals, agriculture, maritime security and space. During his visit, Prime Minister Modi was conferred the highest civilian medal of honour, Bintang Adipurna of the Republic of Indonesia. In the second leg of his tour, Prime Minister Modi travelled to Melbourne, Australia, where he participated in the third India-Australia Annual Summit with the Australian Prime Minister. The visit also enabled the supply of Uranium from Australia to India. During the visit, Australian Super announced an investment of five hundred million Australian dollar to India&#8217;s National Investment and Infrastructure Fund. On the final leg of his three-nation visit, the Prime Minister visited Auckland. During the visit, the Prime Ministers of India and New Zealand announced the creation of the India-New Zealand Strategic Partnership and set a target to double bilateral trade by 2030.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:02:09+00:00",
+        "link": "https://newsonair.gov.in/pm-narendra-modi-returns-to-india-after-successfully-concluding-his-3-nation-visit-to-indonesia-australia-and-new-zealand/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
+        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Piyush Goyal will lead business delegation to Spain, Belgium and Finland from tomorrow",
+        "summary": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation to Spain, Belgium and Finland from tomorrow till the 17th of this month. The Ministry of Commerce and Industry said that the visit aims to strengthen India&#8217;s economic partnerships with Europe with a focus on trade, investment, technology, innovation and sustainability. […]",
+        "article": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation to Spain, Belgium and Finland from tomorrow till the 17th of this month. The Ministry of Commerce and Industry said that the visit aims to strengthen India&#8217;s economic partnerships with Europe with a focus on trade, investment, technology, innovation and sustainability. In the first leg of his tour, Mr Goyal will visit Spain tomorrow, where he will participate in a Business Roundtable with the Chamber of Commerce of Spain, CEOE and ICEX Spain Trade and Investment. The session will bring together Spanish and Indian industry leaders to explore opportunities in automotive, renewable energy, railways, artificial intelligence, semiconductors, food processing, and tourism. The Minister will then visit Belgium on the 14th and 15th of this month. He will hold meetings with the leadership of Thales Group and Silox Group. The programme includes participation in the India-EU Business Roundtable and the Trade and Technology Council Plenary, where discussions will centre on foreign investment, trade facilitation, sustainable technologies and resilient supply chains. Thereafter, Mr Goyal will visit Finland on the 16th and 17th of this month. He will attend the India-Finland Business Roundtable. The Minister will visit leading Finnish companies and research institutions, including Nokia, Kone, Kemppi Group and VTT Research Centre, to explore collaboration in telecommunications, advanced manufacturing, clean energy, mobility and innovation.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:38:44+00:00",
+        "link": "https://newsonair.gov.in/union-minister-piyush-goyal-will-lead-business-delegation-to-spain-belgium-and-finland-from-tomorrow/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Shivraj Singh Chouhan emphasises planting trees is extremely important for protecting environment",
+        "summary": "Union Minister Shivraj Singh Chouhan has emphasised that planting trees is extremely important for protecting the environment and ensuring a sustainable future. Addressing the Vriksh Mitra Programme and Paryavaran Sanrakshan Sankalp event in New Delhi, Mr Chouhan said, today the entire world is concerned about climate change and global warming. He noted that […]",
+        "article": "Union Minister Shivraj Singh Chouhan has emphasised that planting trees is extremely important for protecting the environment and ensuring a sustainable future. Addressing the Vriksh Mitra Programme and Paryavaran Sanrakshan Sankalp event in New Delhi, Mr Chouhan said, today the entire world is concerned about climate change and global warming. He noted that since 1880, rising ocean temperatures and melting glaciers have led to an increase in global sea levels by about 20 to 23 centimetres. He added that the Earth’s average temperature has risen by nearly 1.5 degrees Celsius compared to 1900, which is a serious warning sign of climate change. Mr Chouhan highlighted that Prime Minister Narendra Modi has taken several key initiatives to tackle this crisis. He said that there has been a significant increase in renewable energy capacity in the country. The Minister also mentioned initiatives like Ek Ped Maa Ke Naam campaign and Mission LiFE to protect and preserve the environment. Mr Chouhan said that India has set a target of achieving net-zero carbon emissions by 2070.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:29:51+00:00",
+        "link": "https://newsonair.gov.in/union-minister-shivraj-singh-chouhan-to-participate-in-paryavaran-sanrakshan-sankalp-program-at-the-pusa-campus-in-new-delhi-today/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EPFO introduces 6-month Amnesty Scheme for establishments operating private provident fund trust, to regularise their status",
         "summary": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating […]",
         "article": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating a Provident Fund Trust recognised under the Income Tax Act, 1961. The Ministry said that eligible establishments shall submit a formal application through email to the concerned Regional Office. An &#8216;Exempted Provident Fund&#8217; is an employer-managed PF scheme that handles its own provident fund contributions internally through a private trust, rather than depositing them directly into EPFO. Akashvani correspondent reports that the EPFO&#8217;s introduced Amnesty Scheme provides a one-time opportunity for eligible establishments that have been operating recognised PF trusts to regularise their status retrospectively. It is intended to bring such trusts within a uniform statutory framework while ensuring compliance with the applicable legal provisions. For employees, the scheme is expected to provide greater certainty regarding the legal status of their employer&#8217;s provident fund trust. It also requires that member accounts should have received contributions and interest at par with or better than the statutory EPFO rates for the prescribed reliefs to apply. By regularising exempted PF trusts, the scheme is also expected to make the administration of provident fund benefits more streamlined and legally compliant.",
         "date": "2026-07-12",
@@ -157,408 +190,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/epfo-invites-applications-for-amnesty-scheme-from-provident-fund-trusts/",
         "image_url": "",
         "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani dies at 74; PM Modi condoles the demise of father of Emir of Qatar",
-        "summary": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, […]",
-        "article": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, Qatar emerged as a global energy powerhouse, launched the Al Jazeera news network, expanded its international investments, and successfully hosted the 2022 FIFA World Cup. Prime Minister Narendra Modi expressed grief over the demise of the Emir of Qatar, Sheikh Hamad binKhalifa Al Thani. In a social media post, Mr Modi said that Sheikh Hamad binKhalifa Al Thani was a visionary leader who led Qatar to great levels of development and prosperity. The Prime Minister added that India remembers him as a true friend. Mr Modi conveyed his condolences to the Amir of Qatar, Sheikh Tamim bin Hamad Al Thani and the entire royal family and people of Qatar. &nbsp; &nbsp;",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:46:19+00:00",
-        "link": "https://newsonair.gov.in/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74-pm-modi-condoles-the-demise-of-father-of-emir-of-qatar/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt debunks fake approval letter, claiming to grant loan under PMMY on payment of RS 350 as processing fee",
-        "summary": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro […]",
-        "article": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro Units Development and Refinance Agency (MUDRA) does not lend directly to micro-entrepreneurs or individuals. It noted that MUDRA provides refinancing support to last-mile financiers, including Non-Banking Financial Companies, Microfinance Institutions, societies, trusts, Section 8 companies, small finance banks, and regional rural banks, which in turn extend loans to micro and small business entities engaged in manufacturing, trading, services, and agri-allied activities. PIB urged citizens to be aware of such fake news and advised them not to transfer money based on such messages and also not to share personal or banking details.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:28:21+00:00",
-        "link": "https://newsonair.gov.in/govt-debunks-fake-approval-letter-claiming-to-grant-loan-under-pmmy-on-payment-of-rs-350-as-processing-fee/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Narendra Modi returns to India after successfully concluding his 3-nation visit to Indonesia, Australia and New Zealand",
-        "summary": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia from 6th to 8th of this month at the invitation of President Prabowo Subianto. During the visit, the Prime Minister […]",
-        "article": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia from 6th to 8th of this month at the invitation of President Prabowo Subianto. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress made in the partnership. In the second leg of his tour, Prime Minister Modi travelled to Melbourne, Australia. Mr Modi participated in the third India-Australia Annual Summit with Australian Prime Minister Anthony Albanese. During his visit, Prime Minister Modi also participated in the India-Australia CEOs Forum, where he addressed a gathering of top business leaders from both countries. On the third and last leg of his three-nation visit, the Prime Minister visited Auckland from 10th to 11th July at the invitation of New Zealand Prime Minister Christopher Luxon. The visit to New Zealand was the first visit by the Indian Prime Minister in 40 years.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:21:09+00:00",
-        "link": "https://newsonair.gov.in/pm-narendra-modi-returns-to-india-after-successfully-concluding-his-3-nation-visit-to-indonesia-australia-and-new-zealand/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India lifts special travel conditions for Yemen, withdraws 2017 notification",
-        "summary": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the […]",
-        "article": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the Ministry of External Affairs said that it continues to advise all Indian nationals to refrain from non-essential travel to Yemen. MEA said that if travel is unavoidable, it should be undertaken only after a thorough assessment of the local security situation and travel to active conflict zones must be avoided. The Ministry advised Indian nationals residing in Yemen to be alert and to restrict their movements within Yemen. MEA also advised Indian nationals in Yemen and those who need to travel to Yemen to register with the Embassy of India in Riyadh to facilitate better communication and assistance in case of emergencies.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T05:57:28+00:00",
-        "link": "https://newsonair.gov.in/india-lifts-special-travel-conditions-for-yemen-withdraws-2017-notification/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Shivraj Singh Chouhan to participate in Paryavaran Sanrakshan Sankalp’ program at the PUSA Campus in New Delhi today",
-        "summary": "Union Minister for Agriculture and Farmers Welfare Shivraj Singh Chouhan will participate in the Paryavaran Sanrakshan Sankalp&#8217; program at the PUSA Campus in New Delhi today. On the occasion, he will interact with nearly 17 thousand Vriksh Mitras from across the country and call for transforming environmental conservation into a nationwide people&#8217;s movement through active […]",
-        "article": "Union Minister for Agriculture and Farmers Welfare Shivraj Singh Chouhan will participate in the Paryavaran Sanrakshan Sankalp&#8217; program at the PUSA Campus in New Delhi today. On the occasion, he will interact with nearly 17 thousand Vriksh Mitras from across the country and call for transforming environmental conservation into a nationwide people&#8217;s movement through active public participation. The program will witness the participation of Vriksh Mitras from nearly every state in the country who have made notable contributions in the fields of tree plantation, water conservation and ecological restoration. As part of the programme, the agriculture minister will undertake a plantation drive with the participating Vriksh Mitras at the PUSA Campus, reaffirming the collective commitment towards a greener India.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T05:49:51+00:00",
-        "link": "https://newsonair.gov.in/union-minister-shivraj-singh-chouhan-to-participate-in-paryavaran-sanrakshan-sankalp-program-at-the-pusa-campus-in-new-delhi-today/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "FSSAI issues notices to Swiggy Instamart over alleged food safety violations",
-        "summary": "The Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing […]",
-        "article": "The Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing which appropriate legal action will be initiated. Consumer complaints alleged the supply of expired, spoiled, rotten, contaminated and otherwise unsafe food products through Swiggy Instamart. The Food Regulator&#8217;s notices also raised concerns over incorrect, invalid or non-existent licence numbers and food business entities allegedly operating under names different from those registered with FSSAI.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T05:32:38+00:00",
-        "link": "https://newsonair.gov.in/fssai-issues-notices-to-swiggy-instamart-over-alleged-food-safety-violations/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi expresses grief over the demise of distinguished playback singer S Janaki Amma",
-        "summary": "Prime Minister Narendra Modi has expressed grief over the demise of distinguished playback singer S. Janaki Amma. In a social media post, Mr Modi said that the passing of S Janaki Amma is an irreparable loss to the world of music and culture. Prime Minister said that her songs in various languages were popular across […]",
-        "article": "Prime Minister Narendra Modi has expressed grief over the demise of distinguished playback singer S. Janaki Amma. In a social media post, Mr Modi said that the passing of S Janaki Amma is an irreparable loss to the world of music and culture. Prime Minister said that her songs in various languages were popular across generations, and they gave voice to every emotion with unparalleled grace as well as versatility. He said that S Janaki Amma&#8217;s melodies will continue to enchant listeners in the years to come. Mr Modi conveyed his condolences to her family, countless admirers and the entire music fraternity in this hour of grief.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T04:44:47+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-expresses-grief-over-the-demise-of-distinguished-playback-singer-s-janaki-amma/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi concludes his three-nation tour; Departs for India after holding extensive talks with New Zealand PM Christopher Luxon",
-        "summary": "Prime Minister Narendra Modi has concluded his three-nation tour of Indonesia, Australia and New Zealand and departing for India after holding extensive talks with New Zealand Prime Minister Christopher Luxon. India and New Zealand elevated their bilateral ties to a Strategic Partnership and signed several agreements and MoUs across key sectors. These include defence, tourism, […]",
-        "article": "Prime Minister Narendra Modi has concluded his three-nation tour of Indonesia, Australia and New Zealand and departing for India after holding extensive talks with New Zealand Prime Minister Christopher Luxon. India and New Zealand elevated their bilateral ties to a Strategic Partnership and signed several agreements and MoUs across key sectors. These include defence, tourism, sports, disaster management and dairy and animal husbandry sectors. A major highlight of the visit was the community event at Auckland’s Spark Arena, attended by over ten thousand members of the Indian diaspora. Addressing the gathering, Mr Modi stated that the future of India and New Zealand is intertwined and the bilateral trade agreement will accelerate India&#8217;s journey towards a developed nation. On the occasion, Prime Minister Luxon described India as a trusted friend, praised the contribution of the Indian community to New Zealand’s progress, and appreciated Prime Minister Modi’s leadership. Prime Minister Modi thanked Prime Minister Luxon for his warm hospitality and said the visit had opened a new chapter in India-New Zealand relations. Referring to the 40-year gap since the last visit by an Indian Prime Minister, he said the next visit would not take so long. Prime Minister Luxon personally saw off PM Modi at the airport in a special gesture following the conclusion of the visit. In a post on social media, PM Modi thanked PM Luxon, the Government and the people of New Zealand for the exceptional warmth during this fruitful visit. Mr Modi said our decision to elevate ties to a Strategic Partnership, the progress on trade and investment and the renewed momentum in defence, education, culture, sports and people-to-people exchanges reflect the growing depth of our friendship. Ministry of External Affairs (MEA) spokesperson Randhir Jaiswal said Prime Minister Modi’s three-country visit delivered significant outcomes advancing cooperation across several sectors, including trade, technology, security, education, innovation and people-to-people exchanges, among others. He said PM Modi and his New Zealand counterpart reviewed the full spectrum of bilateral relations, with discussions covering trade and investment, defence and security, agri-tech, sports, education, tourism, culture and people-to-people exchanges. The MEA spokesperson said the two Prime Ministers also reaffirmed their commitment to deepening cooperation across areas of mutual interest and stressed the importance of the early implementation of the India-New Zealand Free Trade Agreement. The New Zealand leg marked the final stop of PM Modi’s three-nation tour, during which India expanded cooperation with Indonesia, Australia and New Zealand across a wide range of sectors, including trade, technology, security, innovation, education and people-to-people ties.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:22:03+00:00",
-        "link": "https://newsonair.gov.in/prime-minister-modi-concludes-new-zealand-visit-departs-for-india/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "national": [
-      {
-        "title": "Hyderabad to play a key role India’s AI and semiconductor growth: Union Minister Ashwini Vaishnaw",
-        "summary": "Hyderabad to play a key role in India’s AI, Semiconductor and Electronics Growth under Prime Minister Narendra Modi’s Vision, says Union Minister Ashwini Vaishnaw. At an Industry Leader Town Hall in Hyderabad organised by HYSEA, Union Minister Ashwini Vaishnaw urged the Indian IT sector to transition from a software services model to an &#8220;AI as […]",
-        "article": "Hyderabad to play a key role in India’s AI, Semiconductor and Electronics Growth under Prime Minister Narendra Modi’s Vision, says Union Minister Ashwini Vaishnaw. At an Industry Leader Town Hall in Hyderabad organised by HYSEA, Union Minister Ashwini Vaishnaw urged the Indian IT sector to transition from a software services model to an &#8220;AI as a Service&#8221; model. He emphasised that India’s next phase of growth will be powered by artificial intelligence, semiconductors, electronics manufacturing, and advanced infrastructure, all aligned with the vision of Viksit Bharat 2047. The minister highlighted that the strategic shift to AI should be propelled by industry-academia collaboration, noting that a comprehensive AI curriculum has already been developed with NASSCOM to train the future workforce. Addressing advancements in the semiconductor sector, Vaishnaw stated that India&#8217;s long-standing dream of building a semiconductor ecosystem is now a reality. He revealed that twelve manufacturing plants are currently under development, with three already exporting chips to Europe and Japan. To capitalise on the global shortage of skilled engineering talent, the government has provided advanced semiconductor design tools to 315 universities. Furthermore, electronics manufacturing is booming, with mobile phones leading exports. The sector is expected to grow to twenty lakh crore rupees, with the central government heavily supporting companies and infrastructure clusters in Telangana. Regarding connectivity, the minister shared that Hyderabad is slated to become a critical high-speed rail hub with three planned bullet train corridors. He highlighted a massive surge in railway investments for Telangana, noting that the state now receives over 5,400 crore rupees annually compared to the 880 crore rupees allocated during the previous UPA regime. Additionally, forty railway stations in the state are being modernised under the Amrit Bharat Station Scheme. &nbsp; Vaishnaw praised Hyderabad as a central pillar for technology-led innovation, emphasising its vital contributions to digital public infrastructure, local Kavach safety technology, and global VFX sectors. Union Minister G. Kishan Reddy, who also attended the town hall, stressed the importance of balanced regional growth. He stated that development must expand beyond Hyderabad into tier-II cities like Warangal and Karimnagar to distribute investment and employment opportunities evenly. He also noted that the complete electrification of lines and the redevelopment of key stations like Secunderabad would transform regional connectivity. Following the interactive session, both ministers visited the Medha Bogies Factory at Kondakal and Medha Servo Drives, where they inspected manufacturing operations and assessed safety preparedness ahead of the facility&#8217;s commissioning phase.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T16:42:00+00:00",
-        "link": "https://newsonair.gov.in/hyderabad-to-play-a-key-role-indias-ai-and-semiconductor-growth-union-minister-ashwini-vaishnaw/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/ashwini-it-2-1-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EPFO introduces 6-month Amnesty Scheme for establishments operating ‘Exempted Provident Fund’ to regularise their status",
-        "summary": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating […]",
-        "article": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating a Provident Fund Trust recognised under the Income Tax Act, 1961. The Ministry said that eligible establishments shall submit a formal application through email to the concerned Regional Office. An &#8216;Exempted Provident Fund&#8217; is an employer-managed PF scheme that handles its own provident fund contributions internally through a private trust, rather than depositing them directly into EPFO. Akashvani correspondent reports that the EPFO&#8217;s introduced Amnesty Scheme provides a one-time opportunity for eligible establishments that have been operating recognised PF trusts to regularise their status retrospectively. It is intended to bring such trusts within a uniform statutory framework while ensuring compliance with the applicable legal provisions. For employees, the scheme is expected to provide greater certainty regarding the legal status of their employer&#8217;s provident fund trust. It also requires that member accounts should have received contributions and interest at par with or better than the statutory EPFO rates for the prescribed reliefs to apply. By regularising exempted PF trusts, the scheme is also expected to make the administration of provident fund benefits more streamlined and legally compliant.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:48:57+00:00",
-        "link": "https://newsonair.gov.in/epfo-invites-applications-for-amnesty-scheme-from-provident-fund-trusts/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani dies at 74; PM Modi condoles the demise of father of Emir of Qatar",
-        "summary": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, […]",
-        "article": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, Qatar emerged as a global energy powerhouse, launched the Al Jazeera news network, expanded its international investments, and successfully hosted the 2022 FIFA World Cup. Prime Minister Narendra Modi expressed grief over the demise of the Emir of Qatar, Sheikh Hamad binKhalifa Al Thani. In a social media post, Mr Modi said that Sheikh Hamad binKhalifa Al Thani was a visionary leader who led Qatar to great levels of development and prosperity. The Prime Minister added that India remembers him as a true friend. Mr Modi conveyed his condolences to the Amir of Qatar, Sheikh Tamim bin Hamad Al Thani and the entire royal family and people of Qatar. &nbsp; &nbsp;",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:46:19+00:00",
-        "link": "https://newsonair.gov.in/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74-pm-modi-condoles-the-demise-of-father-of-emir-of-qatar/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt debunks fake approval letter, claiming to grant loan under PMMY on payment of RS 350 as processing fee",
-        "summary": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro […]",
-        "article": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro Units Development and Refinance Agency (MUDRA) does not lend directly to micro-entrepreneurs or individuals. It noted that MUDRA provides refinancing support to last-mile financiers, including Non-Banking Financial Companies, Microfinance Institutions, societies, trusts, Section 8 companies, small finance banks, and regional rural banks, which in turn extend loans to micro and small business entities engaged in manufacturing, trading, services, and agri-allied activities. PIB urged citizens to be aware of such fake news and advised them not to transfer money based on such messages and also not to share personal or banking details.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:28:21+00:00",
-        "link": "https://newsonair.gov.in/govt-debunks-fake-approval-letter-claiming-to-grant-loan-under-pmmy-on-payment-of-rs-350-as-processing-fee/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Narendra Modi returns to India after successfully concluding his 3-nation visit to Indonesia, Australia and New Zealand",
-        "summary": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia from 6th to 8th of this month at the invitation of President Prabowo Subianto. During the visit, the Prime Minister […]",
-        "article": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia from 6th to 8th of this month at the invitation of President Prabowo Subianto. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress made in the partnership. In the second leg of his tour, Prime Minister Modi travelled to Melbourne, Australia. Mr Modi participated in the third India-Australia Annual Summit with Australian Prime Minister Anthony Albanese. During his visit, Prime Minister Modi also participated in the India-Australia CEOs Forum, where he addressed a gathering of top business leaders from both countries. On the third and last leg of his three-nation visit, the Prime Minister visited Auckland from 10th to 11th July at the invitation of New Zealand Prime Minister Christopher Luxon. The visit to New Zealand was the first visit by the Indian Prime Minister in 40 years.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:21:09+00:00",
-        "link": "https://newsonair.gov.in/pm-narendra-modi-returns-to-india-after-successfully-concluding-his-3-nation-visit-to-indonesia-australia-and-new-zealand/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India lifts special travel conditions for Yemen, withdraws 2017 notification",
-        "summary": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the […]",
-        "article": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the Ministry of External Affairs said that it continues to advise all Indian nationals to refrain from non-essential travel to Yemen. MEA said that if travel is unavoidable, it should be undertaken only after a thorough assessment of the local security situation and travel to active conflict zones must be avoided. The Ministry advised Indian nationals residing in Yemen to be alert and to restrict their movements within Yemen. MEA also advised Indian nationals in Yemen and those who need to travel to Yemen to register with the Embassy of India in Riyadh to facilitate better communication and assistance in case of emergencies.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T05:57:28+00:00",
-        "link": "https://newsonair.gov.in/india-lifts-special-travel-conditions-for-yemen-withdraws-2017-notification/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Shivraj Singh Chouhan to participate in Paryavaran Sanrakshan Sankalp’ program at the PUSA Campus in New Delhi today",
-        "summary": "Union Minister for Agriculture and Farmers Welfare Shivraj Singh Chouhan will participate in the Paryavaran Sanrakshan Sankalp&#8217; program at the PUSA Campus in New Delhi today. On the occasion, he will interact with nearly 17 thousand Vriksh Mitras from across the country and call for transforming environmental conservation into a nationwide people&#8217;s movement through active […]",
-        "article": "Union Minister for Agriculture and Farmers Welfare Shivraj Singh Chouhan will participate in the Paryavaran Sanrakshan Sankalp&#8217; program at the PUSA Campus in New Delhi today. On the occasion, he will interact with nearly 17 thousand Vriksh Mitras from across the country and call for transforming environmental conservation into a nationwide people&#8217;s movement through active public participation. The program will witness the participation of Vriksh Mitras from nearly every state in the country who have made notable contributions in the fields of tree plantation, water conservation and ecological restoration. As part of the programme, the agriculture minister will undertake a plantation drive with the participating Vriksh Mitras at the PUSA Campus, reaffirming the collective commitment towards a greener India.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T05:49:51+00:00",
-        "link": "https://newsonair.gov.in/union-minister-shivraj-singh-chouhan-to-participate-in-paryavaran-sanrakshan-sankalp-program-at-the-pusa-campus-in-new-delhi-today/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "FSSAI issues notices to Swiggy Instamart over alleged food safety violations",
-        "summary": "The Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing […]",
-        "article": "The Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing which appropriate legal action will be initiated. Consumer complaints alleged the supply of expired, spoiled, rotten, contaminated and otherwise unsafe food products through Swiggy Instamart. The Food Regulator&#8217;s notices also raised concerns over incorrect, invalid or non-existent licence numbers and food business entities allegedly operating under names different from those registered with FSSAI.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T05:32:38+00:00",
-        "link": "https://newsonair.gov.in/fssai-issues-notices-to-swiggy-instamart-over-alleged-food-safety-violations/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi expresses grief over the demise of distinguished playback singer S Janaki Amma",
-        "summary": "Prime Minister Narendra Modi has expressed grief over the demise of distinguished playback singer S. Janaki Amma. In a social media post, Mr Modi said that the passing of S Janaki Amma is an irreparable loss to the world of music and culture. Prime Minister said that her songs in various languages were popular across […]",
-        "article": "Prime Minister Narendra Modi has expressed grief over the demise of distinguished playback singer S. Janaki Amma. In a social media post, Mr Modi said that the passing of S Janaki Amma is an irreparable loss to the world of music and culture. Prime Minister said that her songs in various languages were popular across generations, and they gave voice to every emotion with unparalleled grace as well as versatility. He said that S Janaki Amma&#8217;s melodies will continue to enchant listeners in the years to come. Mr Modi conveyed his condolences to her family, countless admirers and the entire music fraternity in this hour of grief.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T04:44:47+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-expresses-grief-over-the-demise-of-distinguished-playback-singer-s-janaki-amma/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi concludes his three-nation tour; Departs for India after holding extensive talks with New Zealand PM Christopher Luxon",
-        "summary": "Prime Minister Narendra Modi has concluded his three-nation tour of Indonesia, Australia and New Zealand and departing for India after holding extensive talks with New Zealand Prime Minister Christopher Luxon. India and New Zealand elevated their bilateral ties to a Strategic Partnership and signed several agreements and MoUs across key sectors. These include defence, tourism, […]",
-        "article": "Prime Minister Narendra Modi has concluded his three-nation tour of Indonesia, Australia and New Zealand and departing for India after holding extensive talks with New Zealand Prime Minister Christopher Luxon. India and New Zealand elevated their bilateral ties to a Strategic Partnership and signed several agreements and MoUs across key sectors. These include defence, tourism, sports, disaster management and dairy and animal husbandry sectors. A major highlight of the visit was the community event at Auckland’s Spark Arena, attended by over ten thousand members of the Indian diaspora. Addressing the gathering, Mr Modi stated that the future of India and New Zealand is intertwined and the bilateral trade agreement will accelerate India&#8217;s journey towards a developed nation. On the occasion, Prime Minister Luxon described India as a trusted friend, praised the contribution of the Indian community to New Zealand’s progress, and appreciated Prime Minister Modi’s leadership. Prime Minister Modi thanked Prime Minister Luxon for his warm hospitality and said the visit had opened a new chapter in India-New Zealand relations. Referring to the 40-year gap since the last visit by an Indian Prime Minister, he said the next visit would not take so long. Prime Minister Luxon personally saw off PM Modi at the airport in a special gesture following the conclusion of the visit. In a post on social media, PM Modi thanked PM Luxon, the Government and the people of New Zealand for the exceptional warmth during this fruitful visit. Mr Modi said our decision to elevate ties to a Strategic Partnership, the progress on trade and investment and the renewed momentum in defence, education, culture, sports and people-to-people exchanges reflect the growing depth of our friendship. Ministry of External Affairs (MEA) spokesperson Randhir Jaiswal said Prime Minister Modi’s three-country visit delivered significant outcomes advancing cooperation across several sectors, including trade, technology, security, education, innovation and people-to-people exchanges, among others. He said PM Modi and his New Zealand counterpart reviewed the full spectrum of bilateral relations, with discussions covering trade and investment, defence and security, agri-tech, sports, education, tourism, culture and people-to-people exchanges. The MEA spokesperson said the two Prime Ministers also reaffirmed their commitment to deepening cooperation across areas of mutual interest and stressed the importance of the early implementation of the India-New Zealand Free Trade Agreement. The New Zealand leg marked the final stop of PM Modi’s three-nation tour, during which India expanded cooperation with Indonesia, Australia and New Zealand across a wide range of sectors, including trade, technology, security, innovation, education and people-to-people ties.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:22:03+00:00",
-        "link": "https://newsonair.gov.in/prime-minister-modi-concludes-new-zealand-visit-departs-for-india/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "politics": [
-      {
-        "title": "Hyderabad to play a key role India’s AI and semiconductor growth: Union Minister Ashwini Vaishnaw",
-        "summary": "Hyderabad to play a key role in India’s AI, Semiconductor and Electronics Growth under Prime Minister Narendra Modi’s Vision, says Union Minister Ashwini Vaishnaw. At an Industry Leader Town Hall in Hyderabad organised by HYSEA, Union Minister Ashwini Vaishnaw urged the Indian IT sector to transition from a software services model to an &#8220;AI as […]",
-        "article": "Hyderabad to play a key role in India’s AI, Semiconductor and Electronics Growth under Prime Minister Narendra Modi’s Vision, says Union Minister Ashwini Vaishnaw. At an Industry Leader Town Hall in Hyderabad organised by HYSEA, Union Minister Ashwini Vaishnaw urged the Indian IT sector to transition from a software services model to an &#8220;AI as a Service&#8221; model. He emphasised that India’s next phase of growth will be powered by artificial intelligence, semiconductors, electronics manufacturing, and advanced infrastructure, all aligned with the vision of Viksit Bharat 2047. The minister highlighted that the strategic shift to AI should be propelled by industry-academia collaboration, noting that a comprehensive AI curriculum has already been developed with NASSCOM to train the future workforce. Addressing advancements in the semiconductor sector, Vaishnaw stated that India&#8217;s long-standing dream of building a semiconductor ecosystem is now a reality. He revealed that twelve manufacturing plants are currently under development, with three already exporting chips to Europe and Japan. To capitalise on the global shortage of skilled engineering talent, the government has provided advanced semiconductor design tools to 315 universities. Furthermore, electronics manufacturing is booming, with mobile phones leading exports. The sector is expected to grow to twenty lakh crore rupees, with the central government heavily supporting companies and infrastructure clusters in Telangana. Regarding connectivity, the minister shared that Hyderabad is slated to become a critical high-speed rail hub with three planned bullet train corridors. He highlighted a massive surge in railway investments for Telangana, noting that the state now receives over 5,400 crore rupees annually compared to the 880 crore rupees allocated during the previous UPA regime. Additionally, forty railway stations in the state are being modernised under the Amrit Bharat Station Scheme. &nbsp; Vaishnaw praised Hyderabad as a central pillar for technology-led innovation, emphasising its vital contributions to digital public infrastructure, local Kavach safety technology, and global VFX sectors. Union Minister G. Kishan Reddy, who also attended the town hall, stressed the importance of balanced regional growth. He stated that development must expand beyond Hyderabad into tier-II cities like Warangal and Karimnagar to distribute investment and employment opportunities evenly. He also noted that the complete electrification of lines and the redevelopment of key stations like Secunderabad would transform regional connectivity. Following the interactive session, both ministers visited the Medha Bogies Factory at Kondakal and Medha Servo Drives, where they inspected manufacturing operations and assessed safety preparedness ahead of the facility&#8217;s commissioning phase.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T16:42:00+00:00",
-        "link": "https://newsonair.gov.in/hyderabad-to-play-a-key-role-indias-ai-and-semiconductor-growth-union-minister-ashwini-vaishnaw/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/ashwini-it-2-1-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EPFO introduces 6-month Amnesty Scheme for establishments operating ‘Exempted Provident Fund’ to regularise their status",
-        "summary": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating […]",
-        "article": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating a Provident Fund Trust recognised under the Income Tax Act, 1961. The Ministry said that eligible establishments shall submit a formal application through email to the concerned Regional Office. An &#8216;Exempted Provident Fund&#8217; is an employer-managed PF scheme that handles its own provident fund contributions internally through a private trust, rather than depositing them directly into EPFO. Akashvani correspondent reports that the EPFO&#8217;s introduced Amnesty Scheme provides a one-time opportunity for eligible establishments that have been operating recognised PF trusts to regularise their status retrospectively. It is intended to bring such trusts within a uniform statutory framework while ensuring compliance with the applicable legal provisions. For employees, the scheme is expected to provide greater certainty regarding the legal status of their employer&#8217;s provident fund trust. It also requires that member accounts should have received contributions and interest at par with or better than the statutory EPFO rates for the prescribed reliefs to apply. By regularising exempted PF trusts, the scheme is also expected to make the administration of provident fund benefits more streamlined and legally compliant.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:48:57+00:00",
-        "link": "https://newsonair.gov.in/epfo-invites-applications-for-amnesty-scheme-from-provident-fund-trusts/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani dies at 74; PM Modi condoles the demise of father of Emir of Qatar",
-        "summary": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, […]",
-        "article": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, Qatar emerged as a global energy powerhouse, launched the Al Jazeera news network, expanded its international investments, and successfully hosted the 2022 FIFA World Cup. Prime Minister Narendra Modi expressed grief over the demise of the Emir of Qatar, Sheikh Hamad binKhalifa Al Thani. In a social media post, Mr Modi said that Sheikh Hamad binKhalifa Al Thani was a visionary leader who led Qatar to great levels of development and prosperity. The Prime Minister added that India remembers him as a true friend. Mr Modi conveyed his condolences to the Amir of Qatar, Sheikh Tamim bin Hamad Al Thani and the entire royal family and people of Qatar. &nbsp; &nbsp;",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:46:19+00:00",
-        "link": "https://newsonair.gov.in/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74-pm-modi-condoles-the-demise-of-father-of-emir-of-qatar/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt debunks fake approval letter, claiming to grant loan under PMMY on payment of RS 350 as processing fee",
-        "summary": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro […]",
-        "article": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro Units Development and Refinance Agency (MUDRA) does not lend directly to micro-entrepreneurs or individuals. It noted that MUDRA provides refinancing support to last-mile financiers, including Non-Banking Financial Companies, Microfinance Institutions, societies, trusts, Section 8 companies, small finance banks, and regional rural banks, which in turn extend loans to micro and small business entities engaged in manufacturing, trading, services, and agri-allied activities. PIB urged citizens to be aware of such fake news and advised them not to transfer money based on such messages and also not to share personal or banking details.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:28:21+00:00",
-        "link": "https://newsonair.gov.in/govt-debunks-fake-approval-letter-claiming-to-grant-loan-under-pmmy-on-payment-of-rs-350-as-processing-fee/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Narendra Modi returns to India after successfully concluding his 3-nation visit to Indonesia, Australia and New Zealand",
-        "summary": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia from 6th to 8th of this month at the invitation of President Prabowo Subianto. During the visit, the Prime Minister […]",
-        "article": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia from 6th to 8th of this month at the invitation of President Prabowo Subianto. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress made in the partnership. In the second leg of his tour, Prime Minister Modi travelled to Melbourne, Australia. Mr Modi participated in the third India-Australia Annual Summit with Australian Prime Minister Anthony Albanese. During his visit, Prime Minister Modi also participated in the India-Australia CEOs Forum, where he addressed a gathering of top business leaders from both countries. On the third and last leg of his three-nation visit, the Prime Minister visited Auckland from 10th to 11th July at the invitation of New Zealand Prime Minister Christopher Luxon. The visit to New Zealand was the first visit by the Indian Prime Minister in 40 years.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:21:09+00:00",
-        "link": "https://newsonair.gov.in/pm-narendra-modi-returns-to-india-after-successfully-concluding-his-3-nation-visit-to-indonesia-australia-and-new-zealand/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India lifts special travel conditions for Yemen, withdraws 2017 notification",
-        "summary": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the […]",
-        "article": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the Ministry of External Affairs said that it continues to advise all Indian nationals to refrain from non-essential travel to Yemen. MEA said that if travel is unavoidable, it should be undertaken only after a thorough assessment of the local security situation and travel to active conflict zones must be avoided. The Ministry advised Indian nationals residing in Yemen to be alert and to restrict their movements within Yemen. MEA also advised Indian nationals in Yemen and those who need to travel to Yemen to register with the Embassy of India in Riyadh to facilitate better communication and assistance in case of emergencies.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T05:57:28+00:00",
-        "link": "https://newsonair.gov.in/india-lifts-special-travel-conditions-for-yemen-withdraws-2017-notification/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Shivraj Singh Chouhan to participate in Paryavaran Sanrakshan Sankalp’ program at the PUSA Campus in New Delhi today",
-        "summary": "Union Minister for Agriculture and Farmers Welfare Shivraj Singh Chouhan will participate in the Paryavaran Sanrakshan Sankalp&#8217; program at the PUSA Campus in New Delhi today. On the occasion, he will interact with nearly 17 thousand Vriksh Mitras from across the country and call for transforming environmental conservation into a nationwide people&#8217;s movement through active […]",
-        "article": "Union Minister for Agriculture and Farmers Welfare Shivraj Singh Chouhan will participate in the Paryavaran Sanrakshan Sankalp&#8217; program at the PUSA Campus in New Delhi today. On the occasion, he will interact with nearly 17 thousand Vriksh Mitras from across the country and call for transforming environmental conservation into a nationwide people&#8217;s movement through active public participation. The program will witness the participation of Vriksh Mitras from nearly every state in the country who have made notable contributions in the fields of tree plantation, water conservation and ecological restoration. As part of the programme, the agriculture minister will undertake a plantation drive with the participating Vriksh Mitras at the PUSA Campus, reaffirming the collective commitment towards a greener India.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T05:49:51+00:00",
-        "link": "https://newsonair.gov.in/union-minister-shivraj-singh-chouhan-to-participate-in-paryavaran-sanrakshan-sankalp-program-at-the-pusa-campus-in-new-delhi-today/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "FSSAI issues notices to Swiggy Instamart over alleged food safety violations",
-        "summary": "The Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing […]",
-        "article": "The Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing which appropriate legal action will be initiated. Consumer complaints alleged the supply of expired, spoiled, rotten, contaminated and otherwise unsafe food products through Swiggy Instamart. The Food Regulator&#8217;s notices also raised concerns over incorrect, invalid or non-existent licence numbers and food business entities allegedly operating under names different from those registered with FSSAI.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T05:32:38+00:00",
-        "link": "https://newsonair.gov.in/fssai-issues-notices-to-swiggy-instamart-over-alleged-food-safety-violations/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi expresses grief over the demise of distinguished playback singer S Janaki Amma",
-        "summary": "Prime Minister Narendra Modi has expressed grief over the demise of distinguished playback singer S. Janaki Amma. In a social media post, Mr Modi said that the passing of S Janaki Amma is an irreparable loss to the world of music and culture. Prime Minister said that her songs in various languages were popular across […]",
-        "article": "Prime Minister Narendra Modi has expressed grief over the demise of distinguished playback singer S. Janaki Amma. In a social media post, Mr Modi said that the passing of S Janaki Amma is an irreparable loss to the world of music and culture. Prime Minister said that her songs in various languages were popular across generations, and they gave voice to every emotion with unparalleled grace as well as versatility. He said that S Janaki Amma&#8217;s melodies will continue to enchant listeners in the years to come. Mr Modi conveyed his condolences to her family, countless admirers and the entire music fraternity in this hour of grief.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T04:44:47+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-expresses-grief-over-the-demise-of-distinguished-playback-singer-s-janaki-amma/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi concludes his three-nation tour; Departs for India after holding extensive talks with New Zealand PM Christopher Luxon",
-        "summary": "Prime Minister Narendra Modi has concluded his three-nation tour of Indonesia, Australia and New Zealand and departing for India after holding extensive talks with New Zealand Prime Minister Christopher Luxon. India and New Zealand elevated their bilateral ties to a Strategic Partnership and signed several agreements and MoUs across key sectors. These include defence, tourism, […]",
-        "article": "Prime Minister Narendra Modi has concluded his three-nation tour of Indonesia, Australia and New Zealand and departing for India after holding extensive talks with New Zealand Prime Minister Christopher Luxon. India and New Zealand elevated their bilateral ties to a Strategic Partnership and signed several agreements and MoUs across key sectors. These include defence, tourism, sports, disaster management and dairy and animal husbandry sectors. A major highlight of the visit was the community event at Auckland’s Spark Arena, attended by over ten thousand members of the Indian diaspora. Addressing the gathering, Mr Modi stated that the future of India and New Zealand is intertwined and the bilateral trade agreement will accelerate India&#8217;s journey towards a developed nation. On the occasion, Prime Minister Luxon described India as a trusted friend, praised the contribution of the Indian community to New Zealand’s progress, and appreciated Prime Minister Modi’s leadership. Prime Minister Modi thanked Prime Minister Luxon for his warm hospitality and said the visit had opened a new chapter in India-New Zealand relations. Referring to the 40-year gap since the last visit by an Indian Prime Minister, he said the next visit would not take so long. Prime Minister Luxon personally saw off PM Modi at the airport in a special gesture following the conclusion of the visit. In a post on social media, PM Modi thanked PM Luxon, the Government and the people of New Zealand for the exceptional warmth during this fruitful visit. Mr Modi said our decision to elevate ties to a Strategic Partnership, the progress on trade and investment and the renewed momentum in defence, education, culture, sports and people-to-people exchanges reflect the growing depth of our friendship. Ministry of External Affairs (MEA) spokesperson Randhir Jaiswal said Prime Minister Modi’s three-country visit delivered significant outcomes advancing cooperation across several sectors, including trade, technology, security, education, innovation and people-to-people exchanges, among others. He said PM Modi and his New Zealand counterpart reviewed the full spectrum of bilateral relations, with discussions covering trade and investment, defence and security, agri-tech, sports, education, tourism, culture and people-to-people exchanges. The MEA spokesperson said the two Prime Ministers also reaffirmed their commitment to deepening cooperation across areas of mutual interest and stressed the importance of the early implementation of the India-New Zealand Free Trade Agreement. The New Zealand leg marked the final stop of PM Modi’s three-nation tour, during which India expanded cooperation with Indonesia, Australia and New Zealand across a wide range of sectors, including trade, technology, security, innovation, education and people-to-people ties.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:22:03+00:00",
-        "link": "https://newsonair.gov.in/prime-minister-modi-concludes-new-zealand-visit-departs-for-india/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "world": [
-      {
-        "title": "Typhoon Bavi makes landfall in eastern China’s Taizhou after nearly 2 million evacuated",
-        "summary": "Typhoon Bavi made landfall late last night in the coastal city of Taizhou in eastern China, where nearly two million people were evacuated, having earlier hit Japan&#8217;s southern Sakishima island chain and brushed past northern Taiwan. Even as Bavi continues to slow and weaken on its northwesterly path, the typhoon is still a potent risk […]",
-        "article": "Typhoon Bavi made landfall late last night in the coastal city of Taizhou in eastern China, where nearly two million people were evacuated, having earlier hit Japan&#8217;s southern Sakishima island chain and brushed past northern Taiwan. Even as Bavi continues to slow and weaken on its northwesterly path, the typhoon is still a potent risk due to the sheer volume of moisture it holds within its rain bands, about the size of France from end to end. Bavi had maximum sustained winds of about 144km per hour, equivalent to Category One on the Saffir-Simpson Hurricane Wind Scale, when it made landfall at around 11.20 pm local time, according to the Chinese National Meteorological Center. State media said more than 1.7 million people had been evacuated across Zhejiang province, along with more than 100,000 each from neighbouring Fujian province and Beijing and some 34,000 from Shanghai. While Japan and Taiwan have not yet reported any deaths from the typhoon, 17 people died in the Philippines due to heavy rains brought by an enhanced southwest monsoon, exacerbated by Bavi&#8217;s impact. Taiwan&#8217;s fire department said 113 people had been injured, mostly from falls from motorcycles or bicycles, as well as people falling over or being struck by objects.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:18:38+00:00",
-        "link": "https://newsonair.gov.in/typhoon-bavi-makes-landfall-in-eastern-chinas-taizhou-after-nearly-2-million-evacuated/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Taizhou_disambiguation_map.svg/1280px-Taizhou_disambiguation_map.svg.png",
-        "image_credit": "Wikipedia – Taizhou (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Vietnam government orders probe into speedboat tragedy that killed 15 Indian tourists",
-        "summary": "Vietnamese Prime Minister Le Minh Hun has ordered a probe into the speedboat tragedy near Phu Quoc Island that claimed the lives of 15 Indian tourists. According to a statement issued by the Consulate General of Vietnam in Mumbai, PM Hun asked authorities to identify shortcomings, determine both the direct and indirect causes of […]",
-        "article": "Vietnamese Prime Minister Le Minh Hun has ordered a probe into the speedboat tragedy near Phu Quoc Island that claimed the lives of 15 Indian tourists. According to a statement issued by the Consulate General of Vietnam in Mumbai, PM Hun asked authorities to identify shortcomings, determine both the direct and indirect causes of the accident, and implement corrective measures to prevent similar incidents in the future. The Vietnamese Prime Minister also directed authorities to take strict legal action against anyone found to have violated regulations that may have caused the accident. Vietnamese Prime Minister also directed authorities to assist victims and their families. The Consulate General further stated that the Prime Minister has directed authorities to mobilise all necessary medical resources and supplies to treat the injured, minimise further loss of life and provide support and encouragement to the families of those who lost their loved ones in the accident. The tragic incident occurred yesterday when the speedboat carrying 36 people, including 4 crew members, flipped after reportedly being hit by a sudden wave off Rut Ngoai Islet. While local authorities managed to rescue 21 people, 15 Indians, including 2 women, were dead. The Indian embassy in Vietnam released the list of the deceased provided by the Vietnamese authorities. Of the 15 deceased, 10 are from Tamil Nadu, three from Andhra Pradesh, and two from Kerala. External Affairs Minister Dr S Jaishankar has expressed grief over the Vietnam boat accident, which resulted in the death of 15 Indian nationals near Phu Quoc Island, Vietnam. In a social media post, Dr Jaishankar said that he is deeply distressed by the unfortunate boat accident. The External Affairs Minister conveyed his condolences to the bereaved families. He also wished for the swift recovery of those injured.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:18:33+00:00",
-        "link": "https://newsonair.gov.in/rescue-operations-underway-after-boat-carrying-indian-tourists-capsizes-near-phu-quoc-island/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "US launches new round of strikes against Iran after IRGC forces attack container ship transiting Strait of Hormuz",
-        "summary": "The United States launched a new round of strikes against Iran after Islamic Revolutionary Guard Corps (IRGC) forces attacked a Cyprus-flagged container ship transiting the Strait of Hormuz. US military said the strikes were carried out at the direction of President Donald Trump. US CENTCOM said the attack on the commercial vessel left […]",
-        "article": "The United States launched a new round of strikes against Iran after Islamic Revolutionary Guard Corps (IRGC) forces attacked a Cyprus-flagged container ship transiting the Strait of Hormuz. US military said the strikes were carried out at the direction of President Donald Trump. US CENTCOM said the attack on the commercial vessel left a civilian crew member missing and the vessel is unable to continue the journey due to an onboard fire and significant engine room damage. Explosions were heard in Qeshm Island, Bandar Abbas and Sirik following the attacks. Meanwhile, Iran has closed Strait of Hormuz until further notice. Iran&#8217;s IRGC Navy said the sea route was closed following an incident involving a vessel that attempted to use an unauthorised route. The force said no ships will be allowed to transit through the strategic waterway until what it called US interference in the region ends. The announcement came after the IRGC claimed it fired a warning shot and stopped the vessel. IRGC Navy said any attempt by the enemy to use the recent Strait of Hormuz incident as a pretext for further action will invite a severe response. The US is demanding that Iran make a public statement saying the Strait of Hormuz is open and that ships crossing the vital corridor will not be attacked anymore. Senior US officials said that internal power struggles in Tehran have made it difficult to reach and keep a deal. Meanwhile, US President Donald Trump said that negotiations with Iran will continue despite tensions. His comments came as the fragile interim agreement came under strain following renewed military exchanges in the region. Iran insists the Strait of Hormuz must remain under its control and maintains its demand that vessels passing through the strategic waterway pay fees. Iran said it has exclusive authority over activities in the strait. However, Oman has proposed having two separately managed routes for shipping through the Strait of Hormuz &#8211; one through Iranian waters and another through Omani waters. Tehran had rejected a similar proposal in earlier discussions, insisting on a single management system involving both countries. Iranian officials remain concerned that separate routes could allow ships to bypass Iranian waters, reducing Tehran’s leverage in negotiations.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T01:51:40+00:00",
-        "link": "https://newsonair.gov.in/us-launches-new-round-of-strikes-against-iran-after-irgc-forces-attack-container-ship-transiting-strait-of-hormuz/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ISS-44_Strait_of_Gibraltar.jpg/1280px-ISS-44_Strait_of_Gibraltar.jpg",
-        "image_credit": "Wikipedia – Strait (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Qatari delegation is in Iran, aims to boost mediation role, Iranian media says",
-        "summary": "Iranian state media has reported that a Qatari delegation is visiting Tehran in an effort by Doha to strengthen its role as a mediator following the recent escalation of hostilities in the Gulf region. The report said the visit comes after Qatar accused Iran of involvement in an alleged incident in the Strait of Hormuz, […]",
-        "article": "Iranian state media has reported that a Qatari delegation is visiting Tehran in an effort by Doha to strengthen its role as a mediator following the recent escalation of hostilities in the Gulf region. The report said the visit comes after Qatar accused Iran of involvement in an alleged incident in the Strait of Hormuz, followed by US strikes on Iranian military and civilian targets. It added that Qatari officials are holding talks with Iranian authorities to help de-escalate tensions and create conditions for wider negotiations. The discussions are reportedly being conducted in coordination with the United States.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T04:08:42+00:00",
-        "link": "https://newsonair.gov.in/qatari-delegation-is-in-iran-aims-to-boost-mediation-role-iranian-media-says/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Palestinian Authority President Mahmoud Abbas announces legislative elections in late November",
-        "summary": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The […]",
-        "article": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The decree said the elections aim to strengthen democracy and complete the electoral process in Palestine.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:45:40+00:00",
-        "link": "https://newsonair.gov.in/palestinian-authority-president-mahmoud-abbas-announces-legislative-elections-in-late-november/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-3-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
-        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
-        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:12:43+00:00",
-        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FIH-Hockey-Pro-League.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "UK expresses concern over unrest in PoJK due to brutal crackdown on civilians by Pak security forces",
-        "summary": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party",
-        "article": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party leader and MP, Bob Blackman, said that Pakistani security forces had opened fire on peaceful demonstrators in PoJK, resulting in multiple deaths and injuries of civilians, including British nationals. He asked the British government whether it had summoned Pakistan&#8217;s High Commissioner over the reported violence and what steps had been taken to protect innocent bystanders. Raising the issue in a parliamentary debate, another UK lawmaker, Imran Hussain, voiced serious concern over continued bloodshed, arbitrary arrests and restrictions on communication in PoJK. Hussain said that reports suggesting restrictions on the movement of food and medical supplies into several parts of the region are deeply alarming. He emphasised that respect for the human rights of Kashmiris in PoJK must remain at the heart of any negotiations. The Joint Awami Action Committee, JAAC has warned Pakistan it will launch final action if its demands are unmet, inviting global observers to witness the situation. These demands include economic reforms, fair resource distribution, reduced paramilitary presence, and changes to legislative seat allocations. JAAC leader Sardar Aman Khan has sought humanitarian aid from India, citing shortages due to an alleged blockade and military crackdown. He accused Islamabad of hypocrisy for labelling activists as terrorists.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T14:31:52+00:00",
-        "link": "https://newsonair.gov.in/uk-expresses-concern-over-unrest-in-pojk-due-to-brutal-crackdown-on-civilians-by-pak-security-forces/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Iran accuses US of alleged airstrike near nuke power plant in Bushehr",
-        "summary": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the […]",
-        "article": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the United States launched new airstrikes against Iran, and Tehran responded by targeting US-allied countries in the West Asia in an exchange of fire that threatened an interim deal intended to help end the war in the West Asia. Sirens sounding at least three times in Bahrain, home to the US Navy&#8217;s 5th Fleet headquarters, and Iranian missiles targeting Kuwait and Qatar. Sirens sounded Thursday afternoon in Jordan as well, where the US has stationed troops and aircraft. In Iran, the two days of American airstrikes have killed at least 14 people and wounded another 78, according to Iran&#8217;s Health Ministry. Most of those reportedly members of the armed forces. Back-and-forth attacks, including a day earlier, have repeatedly threatened the ceasefire, but today&#8217;s exchange of fire appeared bigger all around. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz signalled the end of a fragile ceasefire and threatened to escalate the conflict if they did not stop.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T12:00:53+00:00",
-        "link": "https://newsonair.gov.in/iran-accuses-us-of-alleged-airstrike-near-nuke-power-plant-in-bushehr/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -569,6 +200,377 @@ window.VM_NEWS = {
         "pubDate": "2026-07-12T07:46:19+00:00",
         "link": "https://newsonair.gov.in/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74-pm-modi-condoles-the-demise-of-father-of-emir-of-qatar/",
         "post_id": 1733616,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt debunks fake approval letter, claiming to grant loan under PMMY on payment of RS 350 as processing fee",
+        "summary": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro […]",
+        "article": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro Units Development and Refinance Agency (MUDRA) does not lend directly to micro-entrepreneurs or individuals. It noted that MUDRA provides refinancing support to last-mile financiers, including Non-Banking Financial Companies, Microfinance Institutions, societies, trusts, Section 8 companies, small finance banks, and regional rural banks, which in turn extend loans to micro and small business entities engaged in manufacturing, trading, services, and agri-allied activities. PIB urged citizens to be aware of such fake news and advised them not to transfer money based on such messages and also not to share personal or banking details.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:28:21+00:00",
+        "link": "https://newsonair.gov.in/govt-debunks-fake-approval-letter-claiming-to-grant-loan-under-pmmy-on-payment-of-rs-350-as-processing-fee/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India lifts special travel conditions for Yemen, withdraws 2017 notification",
+        "summary": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the […]",
+        "article": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the Ministry of External Affairs said that it continues to advise all Indian nationals to refrain from non-essential travel to Yemen. MEA said that if travel is unavoidable, it should be undertaken only after a thorough assessment of the local security situation and travel to active conflict zones must be avoided. The Ministry advised Indian nationals residing in Yemen to be alert and to restrict their movements within Yemen. MEA also advised Indian nationals in Yemen and those who need to travel to Yemen to register with the Embassy of India in Riyadh to facilitate better communication and assistance in case of emergencies.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T05:57:28+00:00",
+        "link": "https://newsonair.gov.in/india-lifts-special-travel-conditions-for-yemen-withdraws-2017-notification/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "FSSAI issues notices to Swiggy Instamart over alleged food safety violations",
+        "summary": "The Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing […]",
+        "article": "The Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing which appropriate legal action will be initiated. Consumer complaints alleged the supply of expired, spoiled, rotten, contaminated and otherwise unsafe food products through Swiggy Instamart. The Food Regulator&#8217;s notices also raised concerns over incorrect, invalid or non-existent licence numbers and food business entities allegedly operating under names different from those registered with FSSAI.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T05:32:38+00:00",
+        "link": "https://newsonair.gov.in/fssai-issues-notices-to-swiggy-instamart-over-alleged-food-safety-violations/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi expresses grief over the demise of distinguished playback singer S Janaki Amma",
+        "summary": "Prime Minister Narendra Modi has expressed grief over the demise of distinguished playback singer S. Janaki Amma. In a social media post, Mr Modi said that the passing of S Janaki Amma is an irreparable loss to the world of music and culture. Prime Minister said that her songs in various languages were popular across […]",
+        "article": "Prime Minister Narendra Modi has expressed grief over the demise of distinguished playback singer S. Janaki Amma. In a social media post, Mr Modi said that the passing of S Janaki Amma is an irreparable loss to the world of music and culture. Prime Minister said that her songs in various languages were popular across generations, and they gave voice to every emotion with unparalleled grace as well as versatility. He said that S Janaki Amma&#8217;s melodies will continue to enchant listeners in the years to come. Mr Modi conveyed his condolences to her family, countless admirers and the entire music fraternity in this hour of grief.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T04:44:47+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-expresses-grief-over-the-demise-of-distinguished-playback-singer-s-janaki-amma/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "national": [
+      {
+        "title": "India condemns attack on commercial vessel GFS Galaxy off coast of Oman; 10 Indians rescued, one reported missing; New Delhi expresses concern over continuing attacks on commercial shipping in region",
+        "summary": "India has condemned the attack on the commercial vessel GFS Galaxy off the coast of Oman earlier today. The External Affairs Ministry informed in a statement that of the 11 Indian nationals on board, 10 have been rescued so far, while one Indian National is reportedly missing. It said the Indian Embassy in Oman is […]",
+        "article": "India has condemned the attack on the commercial vessel GFS Galaxy off the coast of Oman earlier today. The External Affairs Ministry informed in a statement that of the 11 Indian nationals on board, 10 have been rescued so far, while one Indian National is reportedly missing. It said the Indian Embassy in Oman is closely monitoring the situation and proactively coordinating with the Omani authorities in the ongoing Search and Rescue operation. India has thanked the Omani authorities for their support. New Delhi has expressed concern over the continuing incidents of attacks on commercial shipping in the region. It reiterated the call for immediate de-escalation of tensions and the conclusion of ongoing negotiations for a diplomatic solution so that peace and stability can return to the region. The External Affairs Ministry said the targeting of commercial shipping and civilian infrastructure in the region must end, and free and unimpeded navigation and commerce through the international waterways in the region, in keeping with international law, must be restored at the earliest. &nbsp;",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:19:50+00:00",
+        "link": "https://newsonair.gov.in/india-condemns-attack-on-commercial-vessel-gfs-galaxy-off-coast-of-oman-10-indians-rescued-one-reported-missing-new-delhi-expresses-concern-over-continuing-attacks-on-commercial-shipping-in-the-reg/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
+        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi returns to New Delhi after concluding several agreements during his visit to Indonesia, Australia and New Zealand",
+        "summary": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress. The two nations exchanged MoUs […]",
+        "article": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress. The two nations exchanged MoUs and agreements in the fields of defense, critical and rare earth minerals, agriculture, maritime security and space. During his visit, Prime Minister Modi was conferred the highest civilian medal of honour, Bintang Adipurna of the Republic of Indonesia. In the second leg of his tour, Prime Minister Modi travelled to Melbourne, Australia, where he participated in the third India-Australia Annual Summit with the Australian Prime Minister. The visit also enabled the supply of Uranium from Australia to India. During the visit, Australian Super announced an investment of five hundred million Australian dollar to India&#8217;s National Investment and Infrastructure Fund. On the final leg of his three-nation visit, the Prime Minister visited Auckland. During the visit, the Prime Ministers of India and New Zealand announced the creation of the India-New Zealand Strategic Partnership and set a target to double bilateral trade by 2030.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:02:09+00:00",
+        "link": "https://newsonair.gov.in/pm-narendra-modi-returns-to-india-after-successfully-concluding-his-3-nation-visit-to-indonesia-australia-and-new-zealand/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
+        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Piyush Goyal will lead business delegation to Spain, Belgium and Finland from tomorrow",
+        "summary": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation to Spain, Belgium and Finland from tomorrow till the 17th of this month. The Ministry of Commerce and Industry said that the visit aims to strengthen India&#8217;s economic partnerships with Europe with a focus on trade, investment, technology, innovation and sustainability. […]",
+        "article": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation to Spain, Belgium and Finland from tomorrow till the 17th of this month. The Ministry of Commerce and Industry said that the visit aims to strengthen India&#8217;s economic partnerships with Europe with a focus on trade, investment, technology, innovation and sustainability. In the first leg of his tour, Mr Goyal will visit Spain tomorrow, where he will participate in a Business Roundtable with the Chamber of Commerce of Spain, CEOE and ICEX Spain Trade and Investment. The session will bring together Spanish and Indian industry leaders to explore opportunities in automotive, renewable energy, railways, artificial intelligence, semiconductors, food processing, and tourism. The Minister will then visit Belgium on the 14th and 15th of this month. He will hold meetings with the leadership of Thales Group and Silox Group. The programme includes participation in the India-EU Business Roundtable and the Trade and Technology Council Plenary, where discussions will centre on foreign investment, trade facilitation, sustainable technologies and resilient supply chains. Thereafter, Mr Goyal will visit Finland on the 16th and 17th of this month. He will attend the India-Finland Business Roundtable. The Minister will visit leading Finnish companies and research institutions, including Nokia, Kone, Kemppi Group and VTT Research Centre, to explore collaboration in telecommunications, advanced manufacturing, clean energy, mobility and innovation.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:38:44+00:00",
+        "link": "https://newsonair.gov.in/union-minister-piyush-goyal-will-lead-business-delegation-to-spain-belgium-and-finland-from-tomorrow/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Shivraj Singh Chouhan emphasises planting trees is extremely important for protecting environment",
+        "summary": "Union Minister Shivraj Singh Chouhan has emphasised that planting trees is extremely important for protecting the environment and ensuring a sustainable future. Addressing the Vriksh Mitra Programme and Paryavaran Sanrakshan Sankalp event in New Delhi, Mr Chouhan said, today the entire world is concerned about climate change and global warming. He noted that […]",
+        "article": "Union Minister Shivraj Singh Chouhan has emphasised that planting trees is extremely important for protecting the environment and ensuring a sustainable future. Addressing the Vriksh Mitra Programme and Paryavaran Sanrakshan Sankalp event in New Delhi, Mr Chouhan said, today the entire world is concerned about climate change and global warming. He noted that since 1880, rising ocean temperatures and melting glaciers have led to an increase in global sea levels by about 20 to 23 centimetres. He added that the Earth’s average temperature has risen by nearly 1.5 degrees Celsius compared to 1900, which is a serious warning sign of climate change. Mr Chouhan highlighted that Prime Minister Narendra Modi has taken several key initiatives to tackle this crisis. He said that there has been a significant increase in renewable energy capacity in the country. The Minister also mentioned initiatives like Ek Ped Maa Ke Naam campaign and Mission LiFE to protect and preserve the environment. Mr Chouhan said that India has set a target of achieving net-zero carbon emissions by 2070.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:29:51+00:00",
+        "link": "https://newsonair.gov.in/union-minister-shivraj-singh-chouhan-to-participate-in-paryavaran-sanrakshan-sankalp-program-at-the-pusa-campus-in-new-delhi-today/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EPFO introduces 6-month Amnesty Scheme for establishments operating private provident fund trust, to regularise their status",
+        "summary": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating […]",
+        "article": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating a Provident Fund Trust recognised under the Income Tax Act, 1961. The Ministry said that eligible establishments shall submit a formal application through email to the concerned Regional Office. An &#8216;Exempted Provident Fund&#8217; is an employer-managed PF scheme that handles its own provident fund contributions internally through a private trust, rather than depositing them directly into EPFO. Akashvani correspondent reports that the EPFO&#8217;s introduced Amnesty Scheme provides a one-time opportunity for eligible establishments that have been operating recognised PF trusts to regularise their status retrospectively. It is intended to bring such trusts within a uniform statutory framework while ensuring compliance with the applicable legal provisions. For employees, the scheme is expected to provide greater certainty regarding the legal status of their employer&#8217;s provident fund trust. It also requires that member accounts should have received contributions and interest at par with or better than the statutory EPFO rates for the prescribed reliefs to apply. By regularising exempted PF trusts, the scheme is also expected to make the administration of provident fund benefits more streamlined and legally compliant.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:48:57+00:00",
+        "link": "https://newsonair.gov.in/epfo-invites-applications-for-amnesty-scheme-from-provident-fund-trusts/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani dies at 74; PM Modi condoles the demise of father of Emir of Qatar",
+        "summary": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, […]",
+        "article": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, Qatar emerged as a global energy powerhouse, launched the Al Jazeera news network, expanded its international investments, and successfully hosted the 2022 FIFA World Cup. Prime Minister Narendra Modi expressed grief over the demise of the Emir of Qatar, Sheikh Hamad binKhalifa Al Thani. In a social media post, Mr Modi said that Sheikh Hamad binKhalifa Al Thani was a visionary leader who led Qatar to great levels of development and prosperity. The Prime Minister added that India remembers him as a true friend. Mr Modi conveyed his condolences to the Amir of Qatar, Sheikh Tamim bin Hamad Al Thani and the entire royal family and people of Qatar. &nbsp; &nbsp;",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:46:19+00:00",
+        "link": "https://newsonair.gov.in/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74-pm-modi-condoles-the-demise-of-father-of-emir-of-qatar/",
+        "post_id": 1733616,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt debunks fake approval letter, claiming to grant loan under PMMY on payment of RS 350 as processing fee",
+        "summary": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro […]",
+        "article": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro Units Development and Refinance Agency (MUDRA) does not lend directly to micro-entrepreneurs or individuals. It noted that MUDRA provides refinancing support to last-mile financiers, including Non-Banking Financial Companies, Microfinance Institutions, societies, trusts, Section 8 companies, small finance banks, and regional rural banks, which in turn extend loans to micro and small business entities engaged in manufacturing, trading, services, and agri-allied activities. PIB urged citizens to be aware of such fake news and advised them not to transfer money based on such messages and also not to share personal or banking details.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:28:21+00:00",
+        "link": "https://newsonair.gov.in/govt-debunks-fake-approval-letter-claiming-to-grant-loan-under-pmmy-on-payment-of-rs-350-as-processing-fee/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India lifts special travel conditions for Yemen, withdraws 2017 notification",
+        "summary": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the […]",
+        "article": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the Ministry of External Affairs said that it continues to advise all Indian nationals to refrain from non-essential travel to Yemen. MEA said that if travel is unavoidable, it should be undertaken only after a thorough assessment of the local security situation and travel to active conflict zones must be avoided. The Ministry advised Indian nationals residing in Yemen to be alert and to restrict their movements within Yemen. MEA also advised Indian nationals in Yemen and those who need to travel to Yemen to register with the Embassy of India in Riyadh to facilitate better communication and assistance in case of emergencies.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T05:57:28+00:00",
+        "link": "https://newsonair.gov.in/india-lifts-special-travel-conditions-for-yemen-withdraws-2017-notification/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "FSSAI issues notices to Swiggy Instamart over alleged food safety violations",
+        "summary": "The Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing […]",
+        "article": "The Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing which appropriate legal action will be initiated. Consumer complaints alleged the supply of expired, spoiled, rotten, contaminated and otherwise unsafe food products through Swiggy Instamart. The Food Regulator&#8217;s notices also raised concerns over incorrect, invalid or non-existent licence numbers and food business entities allegedly operating under names different from those registered with FSSAI.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T05:32:38+00:00",
+        "link": "https://newsonair.gov.in/fssai-issues-notices-to-swiggy-instamart-over-alleged-food-safety-violations/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi expresses grief over the demise of distinguished playback singer S Janaki Amma",
+        "summary": "Prime Minister Narendra Modi has expressed grief over the demise of distinguished playback singer S. Janaki Amma. In a social media post, Mr Modi said that the passing of S Janaki Amma is an irreparable loss to the world of music and culture. Prime Minister said that her songs in various languages were popular across […]",
+        "article": "Prime Minister Narendra Modi has expressed grief over the demise of distinguished playback singer S. Janaki Amma. In a social media post, Mr Modi said that the passing of S Janaki Amma is an irreparable loss to the world of music and culture. Prime Minister said that her songs in various languages were popular across generations, and they gave voice to every emotion with unparalleled grace as well as versatility. He said that S Janaki Amma&#8217;s melodies will continue to enchant listeners in the years to come. Mr Modi conveyed his condolences to her family, countless admirers and the entire music fraternity in this hour of grief.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T04:44:47+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-expresses-grief-over-the-demise-of-distinguished-playback-singer-s-janaki-amma/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "politics": [
+      {
+        "title": "India condemns attack on commercial vessel GFS Galaxy off coast of Oman; 10 Indians rescued, one reported missing; New Delhi expresses concern over continuing attacks on commercial shipping in region",
+        "summary": "India has condemned the attack on the commercial vessel GFS Galaxy off the coast of Oman earlier today. The External Affairs Ministry informed in a statement that of the 11 Indian nationals on board, 10 have been rescued so far, while one Indian National is reportedly missing. It said the Indian Embassy in Oman is […]",
+        "article": "India has condemned the attack on the commercial vessel GFS Galaxy off the coast of Oman earlier today. The External Affairs Ministry informed in a statement that of the 11 Indian nationals on board, 10 have been rescued so far, while one Indian National is reportedly missing. It said the Indian Embassy in Oman is closely monitoring the situation and proactively coordinating with the Omani authorities in the ongoing Search and Rescue operation. India has thanked the Omani authorities for their support. New Delhi has expressed concern over the continuing incidents of attacks on commercial shipping in the region. It reiterated the call for immediate de-escalation of tensions and the conclusion of ongoing negotiations for a diplomatic solution so that peace and stability can return to the region. The External Affairs Ministry said the targeting of commercial shipping and civilian infrastructure in the region must end, and free and unimpeded navigation and commerce through the international waterways in the region, in keeping with international law, must be restored at the earliest. &nbsp;",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:19:50+00:00",
+        "link": "https://newsonair.gov.in/india-condemns-attack-on-commercial-vessel-gfs-galaxy-off-coast-of-oman-10-indians-rescued-one-reported-missing-new-delhi-expresses-concern-over-continuing-attacks-on-commercial-shipping-in-the-reg/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
+        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi returns to New Delhi after concluding several agreements during his visit to Indonesia, Australia and New Zealand",
+        "summary": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress. The two nations exchanged MoUs […]",
+        "article": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress. The two nations exchanged MoUs and agreements in the fields of defense, critical and rare earth minerals, agriculture, maritime security and space. During his visit, Prime Minister Modi was conferred the highest civilian medal of honour, Bintang Adipurna of the Republic of Indonesia. In the second leg of his tour, Prime Minister Modi travelled to Melbourne, Australia, where he participated in the third India-Australia Annual Summit with the Australian Prime Minister. The visit also enabled the supply of Uranium from Australia to India. During the visit, Australian Super announced an investment of five hundred million Australian dollar to India&#8217;s National Investment and Infrastructure Fund. On the final leg of his three-nation visit, the Prime Minister visited Auckland. During the visit, the Prime Ministers of India and New Zealand announced the creation of the India-New Zealand Strategic Partnership and set a target to double bilateral trade by 2030.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:02:09+00:00",
+        "link": "https://newsonair.gov.in/pm-narendra-modi-returns-to-india-after-successfully-concluding-his-3-nation-visit-to-indonesia-australia-and-new-zealand/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
+        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Piyush Goyal will lead business delegation to Spain, Belgium and Finland from tomorrow",
+        "summary": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation to Spain, Belgium and Finland from tomorrow till the 17th of this month. The Ministry of Commerce and Industry said that the visit aims to strengthen India&#8217;s economic partnerships with Europe with a focus on trade, investment, technology, innovation and sustainability. […]",
+        "article": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation to Spain, Belgium and Finland from tomorrow till the 17th of this month. The Ministry of Commerce and Industry said that the visit aims to strengthen India&#8217;s economic partnerships with Europe with a focus on trade, investment, technology, innovation and sustainability. In the first leg of his tour, Mr Goyal will visit Spain tomorrow, where he will participate in a Business Roundtable with the Chamber of Commerce of Spain, CEOE and ICEX Spain Trade and Investment. The session will bring together Spanish and Indian industry leaders to explore opportunities in automotive, renewable energy, railways, artificial intelligence, semiconductors, food processing, and tourism. The Minister will then visit Belgium on the 14th and 15th of this month. He will hold meetings with the leadership of Thales Group and Silox Group. The programme includes participation in the India-EU Business Roundtable and the Trade and Technology Council Plenary, where discussions will centre on foreign investment, trade facilitation, sustainable technologies and resilient supply chains. Thereafter, Mr Goyal will visit Finland on the 16th and 17th of this month. He will attend the India-Finland Business Roundtable. The Minister will visit leading Finnish companies and research institutions, including Nokia, Kone, Kemppi Group and VTT Research Centre, to explore collaboration in telecommunications, advanced manufacturing, clean energy, mobility and innovation.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:38:44+00:00",
+        "link": "https://newsonair.gov.in/union-minister-piyush-goyal-will-lead-business-delegation-to-spain-belgium-and-finland-from-tomorrow/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Shivraj Singh Chouhan emphasises planting trees is extremely important for protecting environment",
+        "summary": "Union Minister Shivraj Singh Chouhan has emphasised that planting trees is extremely important for protecting the environment and ensuring a sustainable future. Addressing the Vriksh Mitra Programme and Paryavaran Sanrakshan Sankalp event in New Delhi, Mr Chouhan said, today the entire world is concerned about climate change and global warming. He noted that […]",
+        "article": "Union Minister Shivraj Singh Chouhan has emphasised that planting trees is extremely important for protecting the environment and ensuring a sustainable future. Addressing the Vriksh Mitra Programme and Paryavaran Sanrakshan Sankalp event in New Delhi, Mr Chouhan said, today the entire world is concerned about climate change and global warming. He noted that since 1880, rising ocean temperatures and melting glaciers have led to an increase in global sea levels by about 20 to 23 centimetres. He added that the Earth’s average temperature has risen by nearly 1.5 degrees Celsius compared to 1900, which is a serious warning sign of climate change. Mr Chouhan highlighted that Prime Minister Narendra Modi has taken several key initiatives to tackle this crisis. He said that there has been a significant increase in renewable energy capacity in the country. The Minister also mentioned initiatives like Ek Ped Maa Ke Naam campaign and Mission LiFE to protect and preserve the environment. Mr Chouhan said that India has set a target of achieving net-zero carbon emissions by 2070.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:29:51+00:00",
+        "link": "https://newsonair.gov.in/union-minister-shivraj-singh-chouhan-to-participate-in-paryavaran-sanrakshan-sankalp-program-at-the-pusa-campus-in-new-delhi-today/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EPFO introduces 6-month Amnesty Scheme for establishments operating private provident fund trust, to regularise their status",
+        "summary": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating […]",
+        "article": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating a Provident Fund Trust recognised under the Income Tax Act, 1961. The Ministry said that eligible establishments shall submit a formal application through email to the concerned Regional Office. An &#8216;Exempted Provident Fund&#8217; is an employer-managed PF scheme that handles its own provident fund contributions internally through a private trust, rather than depositing them directly into EPFO. Akashvani correspondent reports that the EPFO&#8217;s introduced Amnesty Scheme provides a one-time opportunity for eligible establishments that have been operating recognised PF trusts to regularise their status retrospectively. It is intended to bring such trusts within a uniform statutory framework while ensuring compliance with the applicable legal provisions. For employees, the scheme is expected to provide greater certainty regarding the legal status of their employer&#8217;s provident fund trust. It also requires that member accounts should have received contributions and interest at par with or better than the statutory EPFO rates for the prescribed reliefs to apply. By regularising exempted PF trusts, the scheme is also expected to make the administration of provident fund benefits more streamlined and legally compliant.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:48:57+00:00",
+        "link": "https://newsonair.gov.in/epfo-invites-applications-for-amnesty-scheme-from-provident-fund-trusts/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani dies at 74; PM Modi condoles the demise of father of Emir of Qatar",
+        "summary": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, […]",
+        "article": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, Qatar emerged as a global energy powerhouse, launched the Al Jazeera news network, expanded its international investments, and successfully hosted the 2022 FIFA World Cup. Prime Minister Narendra Modi expressed grief over the demise of the Emir of Qatar, Sheikh Hamad binKhalifa Al Thani. In a social media post, Mr Modi said that Sheikh Hamad binKhalifa Al Thani was a visionary leader who led Qatar to great levels of development and prosperity. The Prime Minister added that India remembers him as a true friend. Mr Modi conveyed his condolences to the Amir of Qatar, Sheikh Tamim bin Hamad Al Thani and the entire royal family and people of Qatar. &nbsp; &nbsp;",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:46:19+00:00",
+        "link": "https://newsonair.gov.in/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74-pm-modi-condoles-the-demise-of-father-of-emir-of-qatar/",
+        "post_id": 1733616,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt debunks fake approval letter, claiming to grant loan under PMMY on payment of RS 350 as processing fee",
+        "summary": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro […]",
+        "article": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro Units Development and Refinance Agency (MUDRA) does not lend directly to micro-entrepreneurs or individuals. It noted that MUDRA provides refinancing support to last-mile financiers, including Non-Banking Financial Companies, Microfinance Institutions, societies, trusts, Section 8 companies, small finance banks, and regional rural banks, which in turn extend loans to micro and small business entities engaged in manufacturing, trading, services, and agri-allied activities. PIB urged citizens to be aware of such fake news and advised them not to transfer money based on such messages and also not to share personal or banking details.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:28:21+00:00",
+        "link": "https://newsonair.gov.in/govt-debunks-fake-approval-letter-claiming-to-grant-loan-under-pmmy-on-payment-of-rs-350-as-processing-fee/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India lifts special travel conditions for Yemen, withdraws 2017 notification",
+        "summary": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the […]",
+        "article": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the Ministry of External Affairs said that it continues to advise all Indian nationals to refrain from non-essential travel to Yemen. MEA said that if travel is unavoidable, it should be undertaken only after a thorough assessment of the local security situation and travel to active conflict zones must be avoided. The Ministry advised Indian nationals residing in Yemen to be alert and to restrict their movements within Yemen. MEA also advised Indian nationals in Yemen and those who need to travel to Yemen to register with the Embassy of India in Riyadh to facilitate better communication and assistance in case of emergencies.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T05:57:28+00:00",
+        "link": "https://newsonair.gov.in/india-lifts-special-travel-conditions-for-yemen-withdraws-2017-notification/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "FSSAI issues notices to Swiggy Instamart over alleged food safety violations",
+        "summary": "The Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing […]",
+        "article": "The Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing which appropriate legal action will be initiated. Consumer complaints alleged the supply of expired, spoiled, rotten, contaminated and otherwise unsafe food products through Swiggy Instamart. The Food Regulator&#8217;s notices also raised concerns over incorrect, invalid or non-existent licence numbers and food business entities allegedly operating under names different from those registered with FSSAI.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T05:32:38+00:00",
+        "link": "https://newsonair.gov.in/fssai-issues-notices-to-swiggy-instamart-over-alleged-food-safety-violations/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Modi expresses grief over the demise of distinguished playback singer S Janaki Amma",
+        "summary": "Prime Minister Narendra Modi has expressed grief over the demise of distinguished playback singer S. Janaki Amma. In a social media post, Mr Modi said that the passing of S Janaki Amma is an irreparable loss to the world of music and culture. Prime Minister said that her songs in various languages were popular across […]",
+        "article": "Prime Minister Narendra Modi has expressed grief over the demise of distinguished playback singer S. Janaki Amma. In a social media post, Mr Modi said that the passing of S Janaki Amma is an irreparable loss to the world of music and culture. Prime Minister said that her songs in various languages were popular across generations, and they gave voice to every emotion with unparalleled grace as well as versatility. He said that S Janaki Amma&#8217;s melodies will continue to enchant listeners in the years to come. Mr Modi conveyed his condolences to her family, countless admirers and the entire music fraternity in this hour of grief.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T04:44:47+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-expresses-grief-over-the-demise-of-distinguished-playback-singer-s-janaki-amma/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "world": [
+      {
+        "title": "US launches new round of strikes against Iran after IRGC forces attack container ship transiting Strait of Hormuz",
+        "summary": "The United States has launched fresh airstrikes on Iran this morning. The airstrikes came after Tehran attacked a commercial vessel in the Strait of Hormuz, setting it ablaze and forcing its crew to abandon ship. US Central Command said it targeted around 140 Iranian military sites, including missile, drone and communications facilities. Iran […]",
+        "article": "The United States has launched fresh airstrikes on Iran this morning. The airstrikes came after Tehran attacked a commercial vessel in the Strait of Hormuz, setting it ablaze and forcing its crew to abandon ship. US Central Command said it targeted around 140 Iranian military sites, including missile, drone and communications facilities. Iran retaliated with missile and drone attacks targeting Bahrain, Kuwait, Qatar and the United Arab Emirates. Qatar and Kuwait said they intercepted the incoming projectiles, while Bahrain also activated missile alerts. Iran also claimed to have carried out strikes on a US military base in Jordan. Iran&#8217;s Revolutionary Guard said it has closed the Strait of Hormuz until further notice and warned of further action if US strikes continue. The latest escalation has raised concerns over regional security and global energy supplies, as the strategic waterway handles a significant share of the world&#8217;s oil and gas trade.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:08:40+00:00",
+        "link": "https://newsonair.gov.in/us-launches-new-round-of-strikes-against-iran-after-irgc-forces-attack-container-ship-transiting-strait-of-hormuz/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ISS-44_Strait_of_Gibraltar.jpg/1280px-ISS-44_Strait_of_Gibraltar.jpg",
+        "image_credit": "Wikipedia – Strait (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Typhoon Bavi makes landfall in eastern China’s Taizhou after nearly 2 million evacuated",
+        "summary": "Typhoon Bavi made landfall late last night in the coastal city of Taizhou in eastern China, where nearly two million people were evacuated, having earlier hit Japan&#8217;s southern Sakishima island chain and brushed past northern Taiwan. Even as Bavi continues to slow and weaken on its northwesterly path, the typhoon is still a potent risk […]",
+        "article": "Typhoon Bavi made landfall late last night in the coastal city of Taizhou in eastern China, where nearly two million people were evacuated, having earlier hit Japan&#8217;s southern Sakishima island chain and brushed past northern Taiwan. Even as Bavi continues to slow and weaken on its northwesterly path, the typhoon is still a potent risk due to the sheer volume of moisture it holds within its rain bands, about the size of France from end to end. Bavi had maximum sustained winds of about 144km per hour, equivalent to Category One on the Saffir-Simpson Hurricane Wind Scale, when it made landfall at around 11.20 pm local time, according to the Chinese National Meteorological Center. State media said more than 1.7 million people had been evacuated across Zhejiang province, along with more than 100,000 each from neighbouring Fujian province and Beijing and some 34,000 from Shanghai. While Japan and Taiwan have not yet reported any deaths from the typhoon, 17 people died in the Philippines due to heavy rains brought by an enhanced southwest monsoon, exacerbated by Bavi&#8217;s impact. Taiwan&#8217;s fire department said 113 people had been injured, mostly from falls from motorcycles or bicycles, as well as people falling over or being struck by objects.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:18:38+00:00",
+        "link": "https://newsonair.gov.in/typhoon-bavi-makes-landfall-in-eastern-chinas-taizhou-after-nearly-2-million-evacuated/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Taizhou_disambiguation_map.svg/1280px-Taizhou_disambiguation_map.svg.png",
+        "image_credit": "Wikipedia – Taizhou (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Vietnam government orders probe into speedboat tragedy that killed 15 Indian tourists",
+        "summary": "Vietnamese Prime Minister Le Minh Hun has ordered a probe into the speedboat tragedy near Phu Quoc Island that claimed the lives of 15 Indian tourists. According to a statement issued by the Consulate General of Vietnam in Mumbai, PM Hun asked authorities to identify shortcomings, determine both the direct and indirect causes of […]",
+        "article": "Vietnamese Prime Minister Le Minh Hun has ordered a probe into the speedboat tragedy near Phu Quoc Island that claimed the lives of 15 Indian tourists. According to a statement issued by the Consulate General of Vietnam in Mumbai, PM Hun asked authorities to identify shortcomings, determine both the direct and indirect causes of the accident, and implement corrective measures to prevent similar incidents in the future. The Vietnamese Prime Minister also directed authorities to take strict legal action against anyone found to have violated regulations that may have caused the accident. Vietnamese Prime Minister also directed authorities to assist victims and their families. The Consulate General further stated that the Prime Minister has directed authorities to mobilise all necessary medical resources and supplies to treat the injured, minimise further loss of life and provide support and encouragement to the families of those who lost their loved ones in the accident. The tragic incident occurred yesterday when the speedboat carrying 36 people, including 4 crew members, flipped after reportedly being hit by a sudden wave off Rut Ngoai Islet. While local authorities managed to rescue 21 people, 15 Indians, including 2 women, were dead. The Indian embassy in Vietnam released the list of the deceased provided by the Vietnamese authorities. Of the 15 deceased, 10 are from Tamil Nadu, three from Andhra Pradesh, and two from Kerala. External Affairs Minister Dr S Jaishankar has expressed grief over the Vietnam boat accident, which resulted in the death of 15 Indian nationals near Phu Quoc Island, Vietnam. In a social media post, Dr Jaishankar said that he is deeply distressed by the unfortunate boat accident. The External Affairs Minister conveyed his condolences to the bereaved families. He also wished for the swift recovery of those injured.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T02:18:33+00:00",
+        "link": "https://newsonair.gov.in/rescue-operations-underway-after-boat-carrying-indian-tourists-capsizes-near-phu-quoc-island/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-5.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Qatari delegation is in Iran, aims to boost mediation role, Iranian media says",
+        "summary": "Iranian state media has reported that a Qatari delegation is visiting Tehran in an effort by Doha to strengthen its role as a mediator following the recent escalation of hostilities in the Gulf region. The report said the visit comes after Qatar accused Iran of involvement in an alleged incident in the Strait of Hormuz, […]",
+        "article": "Iranian state media has reported that a Qatari delegation is visiting Tehran in an effort by Doha to strengthen its role as a mediator following the recent escalation of hostilities in the Gulf region. The report said the visit comes after Qatar accused Iran of involvement in an alleged incident in the Strait of Hormuz, followed by US strikes on Iranian military and civilian targets. It added that Qatari officials are holding talks with Iranian authorities to help de-escalate tensions and create conditions for wider negotiations. The discussions are reportedly being conducted in coordination with the United States.",
+        "date": "2026-07-11",
+        "pubDate": "2026-07-11T04:08:42+00:00",
+        "link": "https://newsonair.gov.in/qatari-delegation-is-in-iran-aims-to-boost-mediation-role-iranian-media-says/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Palestinian Authority President Mahmoud Abbas announces legislative elections in late November",
+        "summary": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The […]",
+        "article": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The decree said the elections aim to strengthen democracy and complete the electoral process in Palestine.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:45:40+00:00",
+        "link": "https://newsonair.gov.in/palestinian-authority-president-mahmoud-abbas-announces-legislative-elections-in-late-november/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-3-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
+        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
+        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T07:12:43+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FIH-Hockey-Pro-League.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "UK expresses concern over unrest in PoJK due to brutal crackdown on civilians by Pak security forces",
+        "summary": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party",
+        "article": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party leader and MP, Bob Blackman, said that Pakistani security forces had opened fire on peaceful demonstrators in PoJK, resulting in multiple deaths and injuries of civilians, including British nationals. He asked the British government whether it had summoned Pakistan&#8217;s High Commissioner over the reported violence and what steps had been taken to protect innocent bystanders. Raising the issue in a parliamentary debate, another UK lawmaker, Imran Hussain, voiced serious concern over continued bloodshed, arbitrary arrests and restrictions on communication in PoJK. Hussain said that reports suggesting restrictions on the movement of food and medical supplies into several parts of the region are deeply alarming. He emphasised that respect for the human rights of Kashmiris in PoJK must remain at the heart of any negotiations. The Joint Awami Action Committee, JAAC has warned Pakistan it will launch final action if its demands are unmet, inviting global observers to witness the situation. These demands include economic reforms, fair resource distribution, reduced paramilitary presence, and changes to legislative seat allocations. JAAC leader Sardar Aman Khan has sought humanitarian aid from India, citing shortages due to an alleged blockade and military crackdown. He accused Islamabad of hypocrisy for labelling activists as terrorists.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T14:31:52+00:00",
+        "link": "https://newsonair.gov.in/uk-expresses-concern-over-unrest-in-pojk-due-to-brutal-crackdown-on-civilians-by-pak-security-forces/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Iran accuses US of alleged airstrike near nuke power plant in Bushehr",
+        "summary": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the […]",
+        "article": "An Iranian official accused the United States of conducting an airstrike near the Bushehr nuclear power plant today. Iranian state news agency said the strike came around noon, hours after the US military&#8217;s Central Command said it had ended its strikes on Iran. US Central Command did not immediately confirmed it. Early today, the United States launched new airstrikes against Iran, and Tehran responded by targeting US-allied countries in the West Asia in an exchange of fire that threatened an interim deal intended to help end the war in the West Asia. Sirens sounding at least three times in Bahrain, home to the US Navy&#8217;s 5th Fleet headquarters, and Iranian missiles targeting Kuwait and Qatar. Sirens sounded Thursday afternoon in Jordan as well, where the US has stationed troops and aircraft. In Iran, the two days of American airstrikes have killed at least 14 people and wounded another 78, according to Iran&#8217;s Health Ministry. Most of those reportedly members of the armed forces. Back-and-forth attacks, including a day earlier, have repeatedly threatened the ceasefire, but today&#8217;s exchange of fire appeared bigger all around. The strikes came hours after US President Donald Trump said recent Iranian attacks on ships in the Strait of Hormuz signalled the end of a fragile ceasefire and threatened to escalate the conflict if they did not stop.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T12:00:53+00:00",
+        "link": "https://newsonair.gov.in/iran-accuses-us-of-alleged-airstrike-near-nuke-power-plant-in-bushehr/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani dies at 74; PM Modi condoles the demise of father of Emir of Qatar",
+        "summary": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, […]",
+        "article": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, Qatar emerged as a global energy powerhouse, launched the Al Jazeera news network, expanded its international investments, and successfully hosted the 2022 FIFA World Cup. Prime Minister Narendra Modi expressed grief over the demise of the Emir of Qatar, Sheikh Hamad binKhalifa Al Thani. In a social media post, Mr Modi said that Sheikh Hamad binKhalifa Al Thani was a visionary leader who led Qatar to great levels of development and prosperity. The Prime Minister added that India remembers him as a true friend. Mr Modi conveyed his condolences to the Amir of Qatar, Sheikh Tamim bin Hamad Al Thani and the entire royal family and people of Qatar. &nbsp; &nbsp;",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:46:19+00:00",
+        "link": "https://newsonair.gov.in/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74-pm-modi-condoles-the-demise-of-father-of-emir-of-qatar/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -587,14 +589,25 @@ window.VM_NEWS = {
     ],
     "sports": [
       {
-        "title": "FIFA World Cup: Argentina and England advance to semifinals",
-        "summary": "In the FIFA World Cup, Argentina and England have advanced to the semifinals. England beat Norway 2-1 in today&#8217;s quarter-final match at Miami Stadium, Florida. Defending champion Argentina beat Switzerland 3-1 in the last quarter-final match in Kansas City, Missouri, this morning. Spain and France have already booked their places in the last four. Spain […]",
-        "article": "In the FIFA World Cup, Argentina and England have advanced to the semifinals. England beat Norway 2-1 in today&#8217;s quarter-final match at Miami Stadium, Florida. Defending champion Argentina beat Switzerland 3-1 in the last quarter-final match in Kansas City, Missouri, this morning. Spain and France have already booked their places in the last four. Spain secured a thrilling 2-1 victory over Belgium to advance, while France progressed with a comfortable 2-nil win over Morocco. France and Spain will face off in the first semi-final on Wednesday. The match will kick off at 12:30 a.m. Indian Standard Time. France reached the semi-finals after defeating Morocco 2-0 in the quarter-finals, while Spain advanced with a hard-fought 2-1 victory over Belgium. The second semi-final will be played on Thursday, with England taking on Argentina also at 12:30 a.m. Indian Standard Time. England booked their place with a 2-1 extra-time win over Norway, while Argentina defeated Switzerland 3-1 this morning. The winners of the two semi-finals will meet in the FIFA World Cup final on July 20 at New York-New Jersey Stadium. The losing teams will play the third-place play-off on July 19 in Miami.",
+        "title": "FIFA World Cup: England and Argentina enter seminfinals",
+        "summary": "In the FIFA World Cup, England booked their semifinal berth with a 2-1 extra-time win over Norway, while Argentina entered the semifinal, defeating Switzerland 3-1 this morning. In the first semi-final, France and Spain will face off on Wednesday. The match will kick off at 12:30 a.m. Indian Standard Time. France reached the semi-finals after […]",
+        "article": "In the FIFA World Cup, England booked their semifinal berth with a 2-1 extra-time win over Norway, while Argentina entered the semifinal, defeating Switzerland 3-1 this morning. In the first semi-final, France and Spain will face off on Wednesday. The match will kick off at 12:30 a.m. Indian Standard Time. France reached the semi-finals after defeating Morocco 2-0 in the quarter-finals, while Spain advanced with a hard-fought 2-1 victory over Belgium. The second semi-final will be played on Thursday between England and Argentina at 12:30 a.m. Indian Time. The winners of the two semi-finals will meet in the FIFA World Cup final on July 20 at New York-New Jersey Stadium. The losing teams will play the third-place play-off on July 19 in Miami. &nbsp;",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T06:55:31+00:00",
+        "pubDate": "2026-07-12T08:31:31+00:00",
         "link": "https://newsonair.gov.in/fifa-world-cup-england-beat-norway-2-1-to-reach-semi-final/",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpg",
         "image_credit": "Wikipedia – FIFA World Cup (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Wimbledon: Jannik Sinner to lock horns with Alexander Zverev for Men’s Singles title today",
+        "summary": "In Tennis, two Wimbledon titles will be decided today as the men&#8217;s singles and women&#8217;s doubles finals are played. World No. 1 Jannik Sinner will face Germany&#8217;s Alexander Zverev in the men&#8217;s singles final at 8:30 p.m. IST. Sinner booked his place in the title clash with a straight-sets victory over Novak Djokovic, while […]",
+        "article": "In Tennis, two Wimbledon titles will be decided today as the men&#8217;s singles and women&#8217;s doubles finals are played. World No. 1 Jannik Sinner will face Germany&#8217;s Alexander Zverev in the men&#8217;s singles final at 8:30 p.m. IST. Sinner booked his place in the title clash with a straight-sets victory over Novak Djokovic, while Zverev entered his first Wimbledon final after defeating British wildcard Arthur Fery. The women&#8217;s doubles final will begin at 5:30 p.m. IST. The 10th-seeded pair of China&#8217;s Guo Hanyu and France&#8217;s Kristina Mladenovic will take on the second-seeded duo of Canada&#8217;s Gabriela Dabrowski and Brazil&#8217;s Luisa Stefani. Yesterday, in the Women&#8217;s Singles Final, the 21-year-old Linda Noskova won her maiden Grand Slam title after defeating fellow Czech Karolina Muchova 6-2, 5-7, 6-3 at Centre Court, London. Noskova became the third Czech woman in four years to win the grass-court major, after Marketa Vondrousova in 2023 and Barbora Krejcikova in 2024.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:10:50+00:00",
+        "link": "https://newsonair.gov.in/linda-noskova-beats-karolina-muchova-to-win-first-wimbledon-tennis-title/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alexander_Zverev.jpg",
+        "image_credit": "Wikipedia – Alexander Zverev (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -661,17 +674,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/wimbledon-marta-kostyuk-linda-noskova-enter-womens-singles-semi-finals/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Wimbeldon-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Wimbledon: Men’s singles & women’s doubles finals to be played today",
-        "summary": "In Tennis, two Wimbledon titles will be decided today as the men&#8217;s singles and women&#8217;s doubles finals are played. World No. 1 Jannik Sinner will face Germany&#8217;s Alexander Zverev in the men&#8217;s singles final at 8:30 p.m. IST. Sinner booked his place in the title clash with a straight-sets victory over Novak Djokovic, while […]",
-        "article": "In Tennis, two Wimbledon titles will be decided today as the men&#8217;s singles and women&#8217;s doubles finals are played. World No. 1 Jannik Sinner will face Germany&#8217;s Alexander Zverev in the men&#8217;s singles final at 8:30 p.m. IST. Sinner booked his place in the title clash with a straight-sets victory over Novak Djokovic, while Zverev entered his first Wimbledon final after defeating British wildcard Arthur Fery. The women&#8217;s doubles final will begin at 5:30 p.m. IST. The 10th-seeded pair of China&#8217;s Guo Hanyu and France&#8217;s Kristina Mladenovic will take on the second-seeded duo of Canada&#8217;s Gabriela Dabrowski and Brazil&#8217;s Luisa Stefani. Yesterday, in the Women&#8217;s Singles Final, the 21-year-old Linda Noskova won her maiden Grand Slam title after defeating fellow Czech Karolina Muchova 6-2, 5-7, 6-3 at Centre Court, London. Noskova became the third Czech woman in four years to win the grass-court major, after Marketa Vondrousova in 2023 and Barbora Krejcikova in 2024.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T06:45:50+00:00",
-        "link": "https://newsonair.gov.in/linda-noskova-beats-karolina-muchova-to-win-first-wimbledon-tennis-title/",
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1026,6 +1028,28 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "गृह मंत्री अमित शाह ने अहमदाबाद में विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास किया",
+        "summary": "केन्‍द्रीय गृह मंत्री अमित शाह ने आज अहमदाबाद में 405 करोड़ रुपये की लागत वाली नगर निगम की कई विकास परियोजनाओं का लोकापर्ण और शिलान्‍यास किया। इस अवसर पर श्री शाह ने एक पेड़ मां के नाम अभियान के अंतर्गत विशाल पौधारोपण अभियान का शुभारंभ भी किया। इस अभियान के तहत आज उनके लोकसभा क्षेत्र […]",
+        "article": "केन्&#x200d;द्रीय गृह मंत्री अमित शाह ने आज अहमदाबाद में 405 करोड़ रुपये की लागत वाली नगर निगम की कई विकास परियोजनाओं का लोकापर्ण और शिलान्&#x200d;यास किया। इस अवसर पर श्री शाह ने एक पेड़ मां के नाम अभियान के अंतर्गत विशाल पौधारोपण अभियान का शुभारंभ भी किया। इस अभियान के तहत आज उनके लोकसभा क्षेत्र गांधीनगर में एक करोड़ 25 लाख से ज़्यादा पौधे लगाए गए। समारोह को संबोधित करते हुए गृह मंत्री ने 2029 के चुनाव तक निर्वाचन क्षेत्रों में पौधे लगाने की गति&#x200d;विधि को 20 प्रतिशत तक बढ़ाने की दीर्घकालि&#x200d;क पर्यावर&#x200d;णीय रूपरेखा का उल्&#x200d;लेख किया। उन्&#x200d;होंने नागरिकों से सोलर रूफटॉप अपनाने का आग्रह किया। गृह मंत्री ने कहा कि बरगद, पीपल, जम्&#x200d;बू और अर्जुन जैसी स्&#x200d;वदेशी प्रजातियों के पौधे शहर के तापमान को पांच प्रतिशत तक कम करने में मददगार होंगे। ये पौधे भविष्&#x200d;य की पीढि़यों के लिए ओजोन परत को सशक्&#x200d;त बनाने तथा जीवन के अनुकूल पर्यावरण सुनिश्चित करने में सहायक होंगे। पर्यावरण को मजबूत बनाने के हिस्&#x200d;से के रूप में ऑक्&#x200d;सीजन के एक सौ एक नए पार्कों का उद्घाटन किया गया तथा उनकी जानकारी को शामिल करते हुए एक समर्पित ई-बुक जारी की गई। गृह मंत्री कल 11वीं इंटरपोल डिजिटल फॉरेंसिक विशेषज्ञ समूह की बैठक का उद्घाटन करेंगे। वे गांधी नगर में राष्&#x200d;ट्रीय फॉरेंसिक विज्ञान विश्&#x200d;वविद्यालय में पहली अंतरराष्&#x200d;ट्रीय जांचकर्ता अपराध प्रतिस्&#x200d;पर्धा का भी उद्घाटन करेंगे।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:35:13+00:00",
+        "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNAtMaSbUAARfPK-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका के 140 सैन्य ठिकानों पर हमलों के जवाब में ईरान ने होर्मुज जलडमरूमध्य बंद करने की घोषणा की",
+        "summary": "अमरीका ने आज सुबह ईरान पर फिर से हवाई हमले किए हैं। ये हमले ईरान द्वारा होर्मुज जलडमरूमध्य में एक वाणिज्यिक पोत पर हमला किए जाने के बाद किए गए। ईरान के हमले में पोत में आग लग गई थी और चालक दल को उसे छोड़ना पड़ा था। अमरीकी सेंट्रल कमान ने बताया कि […]",
+        "article": "अमरीका ने आज सुबह ईरान पर फिर से हवाई हमले किए हैं। ये हमले ईरान द्वारा होर्मुज जलडमरूमध्य में एक वाणिज्यिक पोत पर हमला किए जाने के बाद किए गए। ईरान के हमले में पोत में आग लग गई थी और चालक दल को उसे छोड़ना पड़ा था। अमरीकी सेंट्रल कमान ने बताया कि हमलों में ईरान के लगभग 140 सैन्य ठिकानों को निशाना बनाया गया, जिनमें मिसाइल, ड्रोन और संचार ढांचा शामिल हैं। जवाबी कार्रवाई में ईरान ने बहरीन, कुवैत, कतर और संयुक्त अरब अमीरात को निशाना बनाते हुए मिसाइल और ड्रोन हमले किए। कतर और कुवैत ने कहा कि उन्होंने आने वाली मिसाइलों और ड्रोन को बीच में ही मार गिराया, जबकि बहरीन ने भी मिसाइल अलर्ट जारी किया। ईरान ने जॉर्डन स्थित एक अमरीकी सैन्य अड्डे पर भी हमला करने का दावा किया है। ईरान के इस्लामिक रिवोल्यूशनरी गार्ड ने अगली सूचना तक होर्मुज जलडमरूमध्य को बंद करने की घोषणा की है और चेतावनी दी है कि यदि अमरीकी हमले जारी रहे तो वह भी जवाबी कार्रवाई करेगा।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:50:55+00:00",
+        "link": "https://newsonair.gov.in/hi/us-iran-conflict/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Strait-of-Hormuz-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "भाजपा ने कहा- भारत हिन्द महासागर और हिन्द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा",
         "summary": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्‍द महासागर और हिन्‍द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा है। नई दिल्‍ली में संवाददाता सम्‍मेलन को संबोधित करते हुए पार्टी प्रवक्‍ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्‍द्र मोदी ने हा‍ल ही में इन रणनीतिक संबंधों को और सशक्‍त बनाने के लिए सेशेल्‍स […]",
         "article": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्&#x200d;द महासागर और हिन्&#x200d;द-प्रशांत क्षेत्र में एक स्&#x200d;थाई शक्ति के रूप में उभरा है। नई दिल्&#x200d;ली में संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए पार्टी प्रवक्&#x200d;ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने हा&#x200d;ल ही में इन रणनीतिक संबंधों को और सशक्&#x200d;त बनाने के लिए सेशेल्&#x200d;स और इंडोनेशिया की यात्रा की। उन्&#x200d;होंने कहा कि भारत और न्&#x200d;यूज़ीलैंड के बीच मुक्&#x200d;त व्&#x200d;यापार समझौता एक महत्&#x200d;वपूर्ण उपलब्धि&#x200d; है। पार्टी प्रवक्&#x200d;ता ने प्रधानमंत्री की इंडोनेशिया, ऑस्&#x200d;ट्रेलिया और न्&#x200d;यूज़ीलैंड की यात्रा की दस महत्&#x200d;वपूर्ण उपलब्धियों का उल्&#x200d;लेख किया। इनमें हिन्&#x200d;द महासागर हिन्&#x200d;द-प्रशांत कार्यनीतिक गठबंधन, रक्षा और समुद्री सहयोग, महत्&#x200d;वपूर्ण खनिज सहयोग, ऊर्जा सुरक्षा, आर्थिक और निवेश के अवसर, डिजिटल सार्वजनिक अवसंरचना तथा शैक्षणिक साझेदारी शामिल हैं। श्री पात्रा ने कहा कि रक्षा और समुद्री क्षेत्रों में सहयोग में ठोस प्रगति हुई है। उन्&#x200d;होंने कहा कि पहली बार भारत रक्षा उपकरण के एक निर्यातक के रूप में उभर रहा है। उन्&#x200d;होंने कहा कि भारत और ऑस्&#x200d;ट्रेल&#x200d;िया ने रक्षा और सुरक्षा सहयोग पर एक संयुक्&#x200d;त घोषणा पत्र जारी किया है। श्री पात्रा ने कहा कि इस समझौते के अंतर्गत भारत और ऑस्&#x200d;ट्रेलिया के युद्धपोतों की सर्विसिंग एक-दूसरे के डॉक पर की जाएगी।",
@@ -1103,17 +1127,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "गृह मंत्री अमित शाह आज अहमदाबाद में विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे",
-        "summary": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्‍वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
-        "article": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्&#x200d;न परियोजनाओं का शुभारंभ और शिलान्&#x200d;यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्&#x200d;वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T01:43:13+00:00",
-        "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/AMIT-SHAH-1-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "विश्व जनसंख्या दिवस पर स्वास्थ्य मंत्रालय ने राष्ट्रीय स्वास्थ्य मिशन के तहत मासिक वेबिनार श्रृंखला शुरू की",
         "summary": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की […]",
         "article": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की अध्यक्षता करते हुए मंत्रालय की अतिरिक्त सचिव आराधना पटनायक ने इस बात पर बल दिया कि नवाचार उत्तरदायी और लचीली सार्वजनिक स्वास्थ्य प्रणाली का मूल आधार है। उन्होंने वेबिनार श्रृंखला को नवीन पद्धतियों की पहचान, दस्तावेजीकरण और प्रसार के लिए एक महत्वपूर्ण संस्थागत तंत्र बताया। सुश्री पटनायक ने सभी राज्यों और केंद्र शासित प्रदेशों से वेबिनार श्रृंखला में सक्रिय रूप से भाग लेने और निरंतर सीखने, ज्ञान के आदान-प्रदान और नवाचार-संचालित कार्यक्रम में योगदान देने का आह्वान किया। पहला वेबिनार &#8220;एनीमिया, बाल और किशोर स्वास्थ्य&#8221; विषय पर केंद्रित था। वेबिनार में राष्ट्रीय, राज्य और जिला स्तर के पांच सौ से अधिक अधिकारियों ने भाग लिया।",
@@ -1136,17 +1149,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्नयन योजना ने दो लाख ऋण मंजूरी का आंकड़ा पार किया",
-        "summary": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्‍नयन योजना &#8211; पीएमएफएमई ने देश भर में दो लाख से ज़्यादा सूक्ष्म खाद्य प्रसंस्करण उद्यमों को ऋण मंज़ूर करने का अहम पड़ाव पार कर लिया है। इस योजना के तहत 20 हज़ार 300 करोड़ रुपये से ज़्यादा का निवेश हुआ है और लगभग 11 लाख प्रत्यक्ष और अप्रत्यक्ष रोज़गार के […]",
-        "article": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्&#x200d;नयन योजना &#8211; पीएमएफएमई ने देश भर में दो लाख से ज़्यादा सूक्ष्म खाद्य प्रसंस्करण उद्यमों को ऋण मंज़ूर करने का अहम पड़ाव पार कर लिया है। इस योजना के तहत 20 हज़ार 300 करोड़ रुपये से ज़्यादा का निवेश हुआ है और लगभग 11 लाख प्रत्यक्ष और अप्रत्यक्ष रोज़गार के अवसर पैदा हुए हैं। नई दिल्ली में आज एक विशेष कार्यक्रम को संबोधित करते हुए केंद्रीय खाद्य प्रसंस्करण उद्योग मंत्री चिराग पासवान ने कहा कि यह उपलब्धि न केवल जश्न मनाने का मौका है, बल्कि भारत की खाद्य प्रसंस्करण विकास यात्रा के अगले चरण के लिए एक मज़बूत आधार भी है। यह उपलब्धि दिखाती है कि योजना का विज़न देश भर में ठोस नतीजों में बदल रहा है। श्री पासवान ने इस बात पर भी ज़ोर दिया कि सभी लाभार्थियों में लगभग 44 प्रतिशत महिला उद्यमियों की भागीदारी &#8216;महिला-नेतृत्व वाले विकास&#8217; की सच्ची भावना को दर्शाती है। यह &#8216;विकसित भारत&#8217; का एक अहम आधार है। इस अवसर पर श्री पासवान ने योजना के तहत मिलने वाली &#8216;सीड कैपिटल&#8217; की सहायता का भी उल्&#x200d;लेख किया। इसके माध्&#x200d;यम से चार लाख 18 हज़ार से ज़्यादा स्वयं सहायता समूह के सदस्यों की मदद की गई है। कार्यक्रम को संबोधित करते हुए खाद्य प्रसंस्करण उद्योग मंत्रालय के सचिव ए.पी. दास जोशी ने कहा कि यह उपलब्धि भारत में सूक्ष्म खाद्य प्रसंस्करण क्षेत्र के लिए एक मज़बूत पारिस्थितिकी तंत्र के उभार को दिखाती है। उन्होंने कहा कि पीएमएफएमई उद्यम विकास के लिए एक एकीकृत दृष्टिकोण के तहत वित्त, औपचारिकीकरण, तकनीक, क्षमता निर्माण और बाज़ार तक पहुँच को एक साथ लाता है। श्री जोशी ने योजना के तहत ज़िला संसाधन व्यक्तियों के नेटवर्क पर भी ज़ोर दिया। उन्होंने कहा कि उनका काम ज़मीनी स्तर पर &#8216;डिजिटल इंडिया&#8217; और कारोबार करने की सुगमता के सफल तालमेल को दर्शाता है। मंत्रालय में संयुक्त सचिव देवेश देवल ने कहा कि पीएमएफएमई योजना सूक्ष्म खाद्य प्रसंस्करण उद्यमियों को शुरू से अंत तक सहायता देती है, जिसमें वित्तीय सहायता, प्रशिक्षण, मार्गदर्शन, ब्रांडिंग, विपणन और बाज़ार से जुड़ाव शामिल है। उन्होंने कहा कि यह योजना लोगों की आजीविका बदल रही है, स्थानीय मूल्&#x200d;य श्रृंखला को मज़बूत कर रही है और पूरे देश में रोज़गार के टिकाऊ अवसर पैदा कर रही है। अधिकारियों ने योजना के &#8216;एक ज़िला एक उत्पाद&#8217; दृष्टिकोण और लगभग 200 उत्पादों वाले 40 कॉमन ब्रांड के लिए इसके समर्थन का भी उल्&#x200d;लेख किया। यह पहल पूरे देश में मखाना, मोटे अनाज, मसालों और जीआई-टैग वाले उत्पादों के लिए स्थानीय मूल्&#x200d;य श्रृंखला बना रही है। कार्यक्रम में योजना की उपलब्धियों को उजागर करने वाले मुख्य प्रकाशन जारी किए गए और उद्यमियों ने अपनी सफलता की कहानियाँ साझा कीं। इस कार्यक्रम में मंत्रालय के वरिष्ठ अधिकारी, राज्य सरकारों के प्रतिनिधि, सहयोगी मंत्रालय, बैंकिंग संस्थान, विकास भागीदार, उद्यमी, स्वयं सहायता समूह और किसान उत्पादक संगठन शामिल हुए।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:33:27+00:00",
-        "link": "https://newsonair.gov.in/hi/pradhan-mantri-formalisation-of-micro-food-processing-enterprises-scheme-crosses-the-milestone-of-two-lakh-loan-sanctions/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-210208.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "वियतनाम में नाव दुर्घटना में 15 भारतीयों की मौत। राष्‍ट्रपति, उपराष्ट्रपति और प्रधानमंत्री ने शोक व्यक्त किया",
         "summary": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की […]",
         "article": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की सूची साझा करते हुए कहा कि ये नाम वियतनामी अधिकारियों द्वारा उपलब्ध कराए गए हैं। दूतावास के अनुसार, मृतकों में से 10 तमिलनाडु से, तीन आंध्र प्रदेश से और दो केरल से थे। नाव में 32 भारतीय पर्यटकों, तीन चालक दल के सदस्यों और एक परिचारक सहित कुल 36 लोग सवार थे। 17 यात्रियों और चालक दल के चार सदस्यों सहित 21 लोगों को बचा लिया गया और अस्पतालों में भर्ती कराया गया। दो जीवित बचे लोगों की हालत गंभीर बनी हुई है और उन्हें गहन चिकित्सा देखभाल दी जा रही है। हनोई स्थित भारतीय दूतावास ने बताया कि खोज और बचाव अभियान जारी है । कुछ घंटे पहले हुई इस दुर्घटना के कारणों का पता लगाया जा रहा है। वहीं, प्रभावित परिवारों को जानकारी और सहायता प्रदान करने के लिए, हो ची मिन्ह सिटी स्थित भारतीय दूतावास में एक नियंत्रण कक्ष स्थापित किया गया है। यहां, +84 36 281 7930, +84 91 552 37 14 और +84 33 452 0414 नंबरों से संपर्क किया जा सकता है। दूतावास ने सोशल मीडिया पोस्ट में बताया कि हनोई में भी एक नियंत्रण कक्ष स्थापित किया गया है और यहां +84 91 308 9165 नंबर से संपर्क किया जा सकता है। राष्ट्रपति द्रौपदी मुर्मु, उपराष्ट्रपति सीपी राधाकृष्णन और प्रधानमंत्री नरेंद्र मोदी ने वियतनाम में नाव दुर्घटना में भारतीयों की मौत पर शोक व्यक्त किया है। राष्&#x200d;ट्रपति ने शोक संतप्त परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। उपराष्ट्रपति ने घायलों के शीघ्र और पूर्ण स्वस्थ होने की प्रार्थना की। उन्होंने इस दुखद घटना से प्रभावित सभी लोगों को शक्ति और साहस प्रदान करने की कामना की है। प्रधानमंत्री मोदी ने अपने परिजनों को खोने वाले परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। श्री मोदी ने कहा कि वियतनाम में भारतीय दूतावास तथा वाणिज्य दूतावास हरसंभव सहायता प्रदान कर रहे हैं और वियतनामी अधिकारियों के साथ लगातार संपर्क में हैं।",
@@ -1159,6 +1161,17 @@ window.VM_NEWS = {
       }
     ],
     "breaking": [
+      {
+        "title": "गृह मंत्री अमित शाह ने अहमदाबाद में विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास किया",
+        "summary": "केन्‍द्रीय गृह मंत्री अमित शाह ने आज अहमदाबाद में 405 करोड़ रुपये की लागत वाली नगर निगम की कई विकास परियोजनाओं का लोकापर्ण और शिलान्‍यास किया। इस अवसर पर श्री शाह ने एक पेड़ मां के नाम अभियान के अंतर्गत विशाल पौधारोपण अभियान का शुभारंभ भी किया। इस अभियान के तहत आज उनके लोकसभा क्षेत्र […]",
+        "article": "केन्&#x200d;द्रीय गृह मंत्री अमित शाह ने आज अहमदाबाद में 405 करोड़ रुपये की लागत वाली नगर निगम की कई विकास परियोजनाओं का लोकापर्ण और शिलान्&#x200d;यास किया। इस अवसर पर श्री शाह ने एक पेड़ मां के नाम अभियान के अंतर्गत विशाल पौधारोपण अभियान का शुभारंभ भी किया। इस अभियान के तहत आज उनके लोकसभा क्षेत्र गांधीनगर में एक करोड़ 25 लाख से ज़्यादा पौधे लगाए गए। समारोह को संबोधित करते हुए गृह मंत्री ने 2029 के चुनाव तक निर्वाचन क्षेत्रों में पौधे लगाने की गति&#x200d;विधि को 20 प्रतिशत तक बढ़ाने की दीर्घकालि&#x200d;क पर्यावर&#x200d;णीय रूपरेखा का उल्&#x200d;लेख किया। उन्&#x200d;होंने नागरिकों से सोलर रूफटॉप अपनाने का आग्रह किया। गृह मंत्री ने कहा कि बरगद, पीपल, जम्&#x200d;बू और अर्जुन जैसी स्&#x200d;वदेशी प्रजातियों के पौधे शहर के तापमान को पांच प्रतिशत तक कम करने में मददगार होंगे। ये पौधे भविष्&#x200d;य की पीढि़यों के लिए ओजोन परत को सशक्&#x200d;त बनाने तथा जीवन के अनुकूल पर्यावरण सुनिश्चित करने में सहायक होंगे। पर्यावरण को मजबूत बनाने के हिस्&#x200d;से के रूप में ऑक्&#x200d;सीजन के एक सौ एक नए पार्कों का उद्घाटन किया गया तथा उनकी जानकारी को शामिल करते हुए एक समर्पित ई-बुक जारी की गई। गृह मंत्री कल 11वीं इंटरपोल डिजिटल फॉरेंसिक विशेषज्ञ समूह की बैठक का उद्घाटन करेंगे। वे गांधी नगर में राष्&#x200d;ट्रीय फॉरेंसिक विज्ञान विश्&#x200d;वविद्यालय में पहली अंतरराष्&#x200d;ट्रीय जांचकर्ता अपराध प्रतिस्&#x200d;पर्धा का भी उद्घाटन करेंगे।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:35:13+00:00",
+        "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNAtMaSbUAARfPK-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "भाजपा ने कहा- भारत हिन्द महासागर और हिन्द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा",
         "summary": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्‍द महासागर और हिन्‍द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा है। नई दिल्‍ली में संवाददाता सम्‍मेलन को संबोधित करते हुए पार्टी प्रवक्‍ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्‍द्र मोदी ने हा‍ल ही में इन रणनीतिक संबंधों को और सशक्‍त बनाने के लिए सेशेल्‍स […]",
@@ -1193,17 +1206,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "गृह मंत्री अमित शाह आज अहमदाबाद में विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे",
-        "summary": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्‍वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
-        "article": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्&#x200d;न परियोजनाओं का शुभारंभ और शिलान्&#x200d;यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्&#x200d;वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T01:43:13+00:00",
-        "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/AMIT-SHAH-1-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "विश्व जनसंख्या दिवस पर स्वास्थ्य मंत्रालय ने राष्ट्रीय स्वास्थ्य मिशन के तहत मासिक वेबिनार श्रृंखला शुरू की",
         "summary": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की […]",
         "article": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की अध्यक्षता करते हुए मंत्रालय की अतिरिक्त सचिव आराधना पटनायक ने इस बात पर बल दिया कि नवाचार उत्तरदायी और लचीली सार्वजनिक स्वास्थ्य प्रणाली का मूल आधार है। उन्होंने वेबिनार श्रृंखला को नवीन पद्धतियों की पहचान, दस्तावेजीकरण और प्रसार के लिए एक महत्वपूर्ण संस्थागत तंत्र बताया। सुश्री पटनायक ने सभी राज्यों और केंद्र शासित प्रदेशों से वेबिनार श्रृंखला में सक्रिय रूप से भाग लेने और निरंतर सीखने, ज्ञान के आदान-प्रदान और नवाचार-संचालित कार्यक्रम में योगदान देने का आह्वान किया। पहला वेबिनार &#8220;एनीमिया, बाल और किशोर स्वास्थ्य&#8221; विषय पर केंद्रित था। वेबिनार में राष्ट्रीय, राज्य और जिला स्तर के पांच सौ से अधिक अधिकारियों ने भाग लिया।",
@@ -1226,14 +1228,14 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्नयन योजना ने दो लाख ऋण मंजूरी का आंकड़ा पार किया",
-        "summary": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्‍नयन योजना &#8211; पीएमएफएमई ने देश भर में दो लाख से ज़्यादा सूक्ष्म खाद्य प्रसंस्करण उद्यमों को ऋण मंज़ूर करने का अहम पड़ाव पार कर लिया है। इस योजना के तहत 20 हज़ार 300 करोड़ रुपये से ज़्यादा का निवेश हुआ है और लगभग 11 लाख प्रत्यक्ष और अप्रत्यक्ष रोज़गार के […]",
-        "article": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्&#x200d;नयन योजना &#8211; पीएमएफएमई ने देश भर में दो लाख से ज़्यादा सूक्ष्म खाद्य प्रसंस्करण उद्यमों को ऋण मंज़ूर करने का अहम पड़ाव पार कर लिया है। इस योजना के तहत 20 हज़ार 300 करोड़ रुपये से ज़्यादा का निवेश हुआ है और लगभग 11 लाख प्रत्यक्ष और अप्रत्यक्ष रोज़गार के अवसर पैदा हुए हैं। नई दिल्ली में आज एक विशेष कार्यक्रम को संबोधित करते हुए केंद्रीय खाद्य प्रसंस्करण उद्योग मंत्री चिराग पासवान ने कहा कि यह उपलब्धि न केवल जश्न मनाने का मौका है, बल्कि भारत की खाद्य प्रसंस्करण विकास यात्रा के अगले चरण के लिए एक मज़बूत आधार भी है। यह उपलब्धि दिखाती है कि योजना का विज़न देश भर में ठोस नतीजों में बदल रहा है। श्री पासवान ने इस बात पर भी ज़ोर दिया कि सभी लाभार्थियों में लगभग 44 प्रतिशत महिला उद्यमियों की भागीदारी &#8216;महिला-नेतृत्व वाले विकास&#8217; की सच्ची भावना को दर्शाती है। यह &#8216;विकसित भारत&#8217; का एक अहम आधार है। इस अवसर पर श्री पासवान ने योजना के तहत मिलने वाली &#8216;सीड कैपिटल&#8217; की सहायता का भी उल्&#x200d;लेख किया। इसके माध्&#x200d;यम से चार लाख 18 हज़ार से ज़्यादा स्वयं सहायता समूह के सदस्यों की मदद की गई है। कार्यक्रम को संबोधित करते हुए खाद्य प्रसंस्करण उद्योग मंत्रालय के सचिव ए.पी. दास जोशी ने कहा कि यह उपलब्धि भारत में सूक्ष्म खाद्य प्रसंस्करण क्षेत्र के लिए एक मज़बूत पारिस्थितिकी तंत्र के उभार को दिखाती है। उन्होंने कहा कि पीएमएफएमई उद्यम विकास के लिए एक एकीकृत दृष्टिकोण के तहत वित्त, औपचारिकीकरण, तकनीक, क्षमता निर्माण और बाज़ार तक पहुँच को एक साथ लाता है। श्री जोशी ने योजना के तहत ज़िला संसाधन व्यक्तियों के नेटवर्क पर भी ज़ोर दिया। उन्होंने कहा कि उनका काम ज़मीनी स्तर पर &#8216;डिजिटल इंडिया&#8217; और कारोबार करने की सुगमता के सफल तालमेल को दर्शाता है। मंत्रालय में संयुक्त सचिव देवेश देवल ने कहा कि पीएमएफएमई योजना सूक्ष्म खाद्य प्रसंस्करण उद्यमियों को शुरू से अंत तक सहायता देती है, जिसमें वित्तीय सहायता, प्रशिक्षण, मार्गदर्शन, ब्रांडिंग, विपणन और बाज़ार से जुड़ाव शामिल है। उन्होंने कहा कि यह योजना लोगों की आजीविका बदल रही है, स्थानीय मूल्&#x200d;य श्रृंखला को मज़बूत कर रही है और पूरे देश में रोज़गार के टिकाऊ अवसर पैदा कर रही है। अधिकारियों ने योजना के &#8216;एक ज़िला एक उत्पाद&#8217; दृष्टिकोण और लगभग 200 उत्पादों वाले 40 कॉमन ब्रांड के लिए इसके समर्थन का भी उल्&#x200d;लेख किया। यह पहल पूरे देश में मखाना, मोटे अनाज, मसालों और जीआई-टैग वाले उत्पादों के लिए स्थानीय मूल्&#x200d;य श्रृंखला बना रही है। कार्यक्रम में योजना की उपलब्धियों को उजागर करने वाले मुख्य प्रकाशन जारी किए गए और उद्यमियों ने अपनी सफलता की कहानियाँ साझा कीं। इस कार्यक्रम में मंत्रालय के वरिष्ठ अधिकारी, राज्य सरकारों के प्रतिनिधि, सहयोगी मंत्रालय, बैंकिंग संस्थान, विकास भागीदार, उद्यमी, स्वयं सहायता समूह और किसान उत्पादक संगठन शामिल हुए।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:33:27+00:00",
-        "link": "https://newsonair.gov.in/hi/pradhan-mantri-formalisation-of-micro-food-processing-enterprises-scheme-crosses-the-milestone-of-two-lakh-loan-sanctions/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-210208.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "ओमान तट के पास वाणिज्यिक पोत पर हमला में 10 भारतीय सुरक्षित बचाए गए, एक अब भी लापता",
+        "summary": "भारत ने आज ओमान तट के पास वाणिज्यिक पोत जी.एफ.एस गैलेक्सी पर हुए हमले की कड़ी निंदा की है। विदेश मंत्रालय ने एक बयान में कहा कि पोत पर सवार 11 भारतीयों में से 10 को सुरक्षित बचा लिया गया है, जबकि एक भारतीय अब भी लापता है। मंत्रालय ने कहा कि ओमान में भारतीय […]",
+        "article": "भारत ने आज ओमान तट के पास वाणिज्यिक पोत जी.एफ.एस गैलेक्सी पर हुए हमले की कड़ी निंदा की है। विदेश मंत्रालय ने एक बयान में कहा कि पोत पर सवार 11 भारतीयों में से 10 को सुरक्षित बचा लिया गया है, जबकि एक भारतीय अब भी लापता है। मंत्रालय ने कहा कि ओमान में भारतीय दूतावास स्थिति पर लगातार नजर बनाए हुए है और जारी राहत तथा बचाव अभियान में ओमान के अधिकारियों के साथ समन्वय कर रहा है। भारत ने इस सहायता के लिए ओमान की सरकार का आभार व्यक्त किया है। विदेश मंत्रालय ने कहा कि क्षेत्र में वाणिज्यिक जहाजों और नागरिक बुनियादी ढांचे को निशाना बनाया जाना बंद होना चाहिए तथा अंतरराष्ट्रीय कानून के अनुरूप अंतरराष्ट्रीय समुद्री मार्गों पर निर्बाध नौवहन और व्यापार जल्द से जल्द बहाल किया जाना चाहिए।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:20:41+00:00",
+        "link": "https://newsonair.gov.in/hi/oman-vessel-attack/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1243,6 +1245,7 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T06:18:45+00:00",
         "link": "https://newsonair.gov.in/hi/epfo-amnesty-scheme/",
+        "post_id": 1733248,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1254,7 +1257,6 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T06:13:30+00:00",
         "link": "https://newsonair.gov.in/hi/yemen-travel-advisory/",
-        "post_id": 1733163,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1273,6 +1275,17 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "गृह मंत्री अमित शाह ने अहमदाबाद में विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास किया",
+        "summary": "केन्‍द्रीय गृह मंत्री अमित शाह ने आज अहमदाबाद में 405 करोड़ रुपये की लागत वाली नगर निगम की कई विकास परियोजनाओं का लोकापर्ण और शिलान्‍यास किया। इस अवसर पर श्री शाह ने एक पेड़ मां के नाम अभियान के अंतर्गत विशाल पौधारोपण अभियान का शुभारंभ भी किया। इस अभियान के तहत आज उनके लोकसभा क्षेत्र […]",
+        "article": "केन्&#x200d;द्रीय गृह मंत्री अमित शाह ने आज अहमदाबाद में 405 करोड़ रुपये की लागत वाली नगर निगम की कई विकास परियोजनाओं का लोकापर्ण और शिलान्&#x200d;यास किया। इस अवसर पर श्री शाह ने एक पेड़ मां के नाम अभियान के अंतर्गत विशाल पौधारोपण अभियान का शुभारंभ भी किया। इस अभियान के तहत आज उनके लोकसभा क्षेत्र गांधीनगर में एक करोड़ 25 लाख से ज़्यादा पौधे लगाए गए। समारोह को संबोधित करते हुए गृह मंत्री ने 2029 के चुनाव तक निर्वाचन क्षेत्रों में पौधे लगाने की गति&#x200d;विधि को 20 प्रतिशत तक बढ़ाने की दीर्घकालि&#x200d;क पर्यावर&#x200d;णीय रूपरेखा का उल्&#x200d;लेख किया। उन्&#x200d;होंने नागरिकों से सोलर रूफटॉप अपनाने का आग्रह किया। गृह मंत्री ने कहा कि बरगद, पीपल, जम्&#x200d;बू और अर्जुन जैसी स्&#x200d;वदेशी प्रजातियों के पौधे शहर के तापमान को पांच प्रतिशत तक कम करने में मददगार होंगे। ये पौधे भविष्&#x200d;य की पीढि़यों के लिए ओजोन परत को सशक्&#x200d;त बनाने तथा जीवन के अनुकूल पर्यावरण सुनिश्चित करने में सहायक होंगे। पर्यावरण को मजबूत बनाने के हिस्&#x200d;से के रूप में ऑक्&#x200d;सीजन के एक सौ एक नए पार्कों का उद्घाटन किया गया तथा उनकी जानकारी को शामिल करते हुए एक समर्पित ई-बुक जारी की गई। गृह मंत्री कल 11वीं इंटरपोल डिजिटल फॉरेंसिक विशेषज्ञ समूह की बैठक का उद्घाटन करेंगे। वे गांधी नगर में राष्&#x200d;ट्रीय फॉरेंसिक विज्ञान विश्&#x200d;वविद्यालय में पहली अंतरराष्&#x200d;ट्रीय जांचकर्ता अपराध प्रतिस्&#x200d;पर्धा का भी उद्घाटन करेंगे।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:35:13+00:00",
+        "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNAtMaSbUAARfPK-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "भाजपा ने कहा- भारत हिन्द महासागर और हिन्द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा",
         "summary": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्‍द महासागर और हिन्‍द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा है। नई दिल्‍ली में संवाददाता सम्‍मेलन को संबोधित करते हुए पार्टी प्रवक्‍ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्‍द्र मोदी ने हा‍ल ही में इन रणनीतिक संबंधों को और सशक्‍त बनाने के लिए सेशेल्‍स […]",
         "article": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्&#x200d;द महासागर और हिन्&#x200d;द-प्रशांत क्षेत्र में एक स्&#x200d;थाई शक्ति के रूप में उभरा है। नई दिल्&#x200d;ली में संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए पार्टी प्रवक्&#x200d;ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने हा&#x200d;ल ही में इन रणनीतिक संबंधों को और सशक्&#x200d;त बनाने के लिए सेशेल्&#x200d;स और इंडोनेशिया की यात्रा की। उन्&#x200d;होंने कहा कि भारत और न्&#x200d;यूज़ीलैंड के बीच मुक्&#x200d;त व्&#x200d;यापार समझौता एक महत्&#x200d;वपूर्ण उपलब्धि&#x200d; है। पार्टी प्रवक्&#x200d;ता ने प्रधानमंत्री की इंडोनेशिया, ऑस्&#x200d;ट्रेलिया और न्&#x200d;यूज़ीलैंड की यात्रा की दस महत्&#x200d;वपूर्ण उपलब्धियों का उल्&#x200d;लेख किया। इनमें हिन्&#x200d;द महासागर हिन्&#x200d;द-प्रशांत कार्यनीतिक गठबंधन, रक्षा और समुद्री सहयोग, महत्&#x200d;वपूर्ण खनिज सहयोग, ऊर्जा सुरक्षा, आर्थिक और निवेश के अवसर, डिजिटल सार्वजनिक अवसंरचना तथा शैक्षणिक साझेदारी शामिल हैं। श्री पात्रा ने कहा कि रक्षा और समुद्री क्षेत्रों में सहयोग में ठोस प्रगति हुई है। उन्&#x200d;होंने कहा कि पहली बार भारत रक्षा उपकरण के एक निर्यातक के रूप में उभर रहा है। उन्&#x200d;होंने कहा कि भारत और ऑस्&#x200d;ट्रेल&#x200d;िया ने रक्षा और सुरक्षा सहयोग पर एक संयुक्&#x200d;त घोषणा पत्र जारी किया है। श्री पात्रा ने कहा कि इस समझौते के अंतर्गत भारत और ऑस्&#x200d;ट्रेलिया के युद्धपोतों की सर्विसिंग एक-दूसरे के डॉक पर की जाएगी।",
@@ -1306,17 +1319,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "गृह मंत्री अमित शाह आज अहमदाबाद में विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे",
-        "summary": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्‍वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
-        "article": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्&#x200d;न परियोजनाओं का शुभारंभ और शिलान्&#x200d;यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्&#x200d;वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T01:43:13+00:00",
-        "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/AMIT-SHAH-1-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "विश्व जनसंख्या दिवस पर स्वास्थ्य मंत्रालय ने राष्ट्रीय स्वास्थ्य मिशन के तहत मासिक वेबिनार श्रृंखला शुरू की",
         "summary": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की […]",
         "article": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की अध्यक्षता करते हुए मंत्रालय की अतिरिक्त सचिव आराधना पटनायक ने इस बात पर बल दिया कि नवाचार उत्तरदायी और लचीली सार्वजनिक स्वास्थ्य प्रणाली का मूल आधार है। उन्होंने वेबिनार श्रृंखला को नवीन पद्धतियों की पहचान, दस्तावेजीकरण और प्रसार के लिए एक महत्वपूर्ण संस्थागत तंत्र बताया। सुश्री पटनायक ने सभी राज्यों और केंद्र शासित प्रदेशों से वेबिनार श्रृंखला में सक्रिय रूप से भाग लेने और निरंतर सीखने, ज्ञान के आदान-प्रदान और नवाचार-संचालित कार्यक्रम में योगदान देने का आह्वान किया। पहला वेबिनार &#8220;एनीमिया, बाल और किशोर स्वास्थ्य&#8221; विषय पर केंद्रित था। वेबिनार में राष्ट्रीय, राज्य और जिला स्तर के पांच सौ से अधिक अधिकारियों ने भाग लिया।",
@@ -1339,14 +1341,14 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्नयन योजना ने दो लाख ऋण मंजूरी का आंकड़ा पार किया",
-        "summary": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्‍नयन योजना &#8211; पीएमएफएमई ने देश भर में दो लाख से ज़्यादा सूक्ष्म खाद्य प्रसंस्करण उद्यमों को ऋण मंज़ूर करने का अहम पड़ाव पार कर लिया है। इस योजना के तहत 20 हज़ार 300 करोड़ रुपये से ज़्यादा का निवेश हुआ है और लगभग 11 लाख प्रत्यक्ष और अप्रत्यक्ष रोज़गार के […]",
-        "article": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्&#x200d;नयन योजना &#8211; पीएमएफएमई ने देश भर में दो लाख से ज़्यादा सूक्ष्म खाद्य प्रसंस्करण उद्यमों को ऋण मंज़ूर करने का अहम पड़ाव पार कर लिया है। इस योजना के तहत 20 हज़ार 300 करोड़ रुपये से ज़्यादा का निवेश हुआ है और लगभग 11 लाख प्रत्यक्ष और अप्रत्यक्ष रोज़गार के अवसर पैदा हुए हैं। नई दिल्ली में आज एक विशेष कार्यक्रम को संबोधित करते हुए केंद्रीय खाद्य प्रसंस्करण उद्योग मंत्री चिराग पासवान ने कहा कि यह उपलब्धि न केवल जश्न मनाने का मौका है, बल्कि भारत की खाद्य प्रसंस्करण विकास यात्रा के अगले चरण के लिए एक मज़बूत आधार भी है। यह उपलब्धि दिखाती है कि योजना का विज़न देश भर में ठोस नतीजों में बदल रहा है। श्री पासवान ने इस बात पर भी ज़ोर दिया कि सभी लाभार्थियों में लगभग 44 प्रतिशत महिला उद्यमियों की भागीदारी &#8216;महिला-नेतृत्व वाले विकास&#8217; की सच्ची भावना को दर्शाती है। यह &#8216;विकसित भारत&#8217; का एक अहम आधार है। इस अवसर पर श्री पासवान ने योजना के तहत मिलने वाली &#8216;सीड कैपिटल&#8217; की सहायता का भी उल्&#x200d;लेख किया। इसके माध्&#x200d;यम से चार लाख 18 हज़ार से ज़्यादा स्वयं सहायता समूह के सदस्यों की मदद की गई है। कार्यक्रम को संबोधित करते हुए खाद्य प्रसंस्करण उद्योग मंत्रालय के सचिव ए.पी. दास जोशी ने कहा कि यह उपलब्धि भारत में सूक्ष्म खाद्य प्रसंस्करण क्षेत्र के लिए एक मज़बूत पारिस्थितिकी तंत्र के उभार को दिखाती है। उन्होंने कहा कि पीएमएफएमई उद्यम विकास के लिए एक एकीकृत दृष्टिकोण के तहत वित्त, औपचारिकीकरण, तकनीक, क्षमता निर्माण और बाज़ार तक पहुँच को एक साथ लाता है। श्री जोशी ने योजना के तहत ज़िला संसाधन व्यक्तियों के नेटवर्क पर भी ज़ोर दिया। उन्होंने कहा कि उनका काम ज़मीनी स्तर पर &#8216;डिजिटल इंडिया&#8217; और कारोबार करने की सुगमता के सफल तालमेल को दर्शाता है। मंत्रालय में संयुक्त सचिव देवेश देवल ने कहा कि पीएमएफएमई योजना सूक्ष्म खाद्य प्रसंस्करण उद्यमियों को शुरू से अंत तक सहायता देती है, जिसमें वित्तीय सहायता, प्रशिक्षण, मार्गदर्शन, ब्रांडिंग, विपणन और बाज़ार से जुड़ाव शामिल है। उन्होंने कहा कि यह योजना लोगों की आजीविका बदल रही है, स्थानीय मूल्&#x200d;य श्रृंखला को मज़बूत कर रही है और पूरे देश में रोज़गार के टिकाऊ अवसर पैदा कर रही है। अधिकारियों ने योजना के &#8216;एक ज़िला एक उत्पाद&#8217; दृष्टिकोण और लगभग 200 उत्पादों वाले 40 कॉमन ब्रांड के लिए इसके समर्थन का भी उल्&#x200d;लेख किया। यह पहल पूरे देश में मखाना, मोटे अनाज, मसालों और जीआई-टैग वाले उत्पादों के लिए स्थानीय मूल्&#x200d;य श्रृंखला बना रही है। कार्यक्रम में योजना की उपलब्धियों को उजागर करने वाले मुख्य प्रकाशन जारी किए गए और उद्यमियों ने अपनी सफलता की कहानियाँ साझा कीं। इस कार्यक्रम में मंत्रालय के वरिष्ठ अधिकारी, राज्य सरकारों के प्रतिनिधि, सहयोगी मंत्रालय, बैंकिंग संस्थान, विकास भागीदार, उद्यमी, स्वयं सहायता समूह और किसान उत्पादक संगठन शामिल हुए।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:33:27+00:00",
-        "link": "https://newsonair.gov.in/hi/pradhan-mantri-formalisation-of-micro-food-processing-enterprises-scheme-crosses-the-milestone-of-two-lakh-loan-sanctions/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-210208.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "ओमान तट के पास वाणिज्यिक पोत पर हमला में 10 भारतीय सुरक्षित बचाए गए, एक अब भी लापता",
+        "summary": "भारत ने आज ओमान तट के पास वाणिज्यिक पोत जी.एफ.एस गैलेक्सी पर हुए हमले की कड़ी निंदा की है। विदेश मंत्रालय ने एक बयान में कहा कि पोत पर सवार 11 भारतीयों में से 10 को सुरक्षित बचा लिया गया है, जबकि एक भारतीय अब भी लापता है। मंत्रालय ने कहा कि ओमान में भारतीय […]",
+        "article": "भारत ने आज ओमान तट के पास वाणिज्यिक पोत जी.एफ.एस गैलेक्सी पर हुए हमले की कड़ी निंदा की है। विदेश मंत्रालय ने एक बयान में कहा कि पोत पर सवार 11 भारतीयों में से 10 को सुरक्षित बचा लिया गया है, जबकि एक भारतीय अब भी लापता है। मंत्रालय ने कहा कि ओमान में भारतीय दूतावास स्थिति पर लगातार नजर बनाए हुए है और जारी राहत तथा बचाव अभियान में ओमान के अधिकारियों के साथ समन्वय कर रहा है। भारत ने इस सहायता के लिए ओमान की सरकार का आभार व्यक्त किया है। विदेश मंत्रालय ने कहा कि क्षेत्र में वाणिज्यिक जहाजों और नागरिक बुनियादी ढांचे को निशाना बनाया जाना बंद होना चाहिए तथा अंतरराष्ट्रीय कानून के अनुरूप अंतरराष्ट्रीय समुद्री मार्गों पर निर्बाध नौवहन और व्यापार जल्द से जल्द बहाल किया जाना चाहिए।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:20:41+00:00",
+        "link": "https://newsonair.gov.in/hi/oman-vessel-attack/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1356,6 +1358,7 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T06:18:45+00:00",
         "link": "https://newsonair.gov.in/hi/epfo-amnesty-scheme/",
+        "post_id": 1733248,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1367,7 +1370,6 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T06:13:30+00:00",
         "link": "https://newsonair.gov.in/hi/yemen-travel-advisory/",
-        "post_id": 1733163,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1386,6 +1388,17 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "गृह मंत्री अमित शाह ने अहमदाबाद में विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास किया",
+        "summary": "केन्‍द्रीय गृह मंत्री अमित शाह ने आज अहमदाबाद में 405 करोड़ रुपये की लागत वाली नगर निगम की कई विकास परियोजनाओं का लोकापर्ण और शिलान्‍यास किया। इस अवसर पर श्री शाह ने एक पेड़ मां के नाम अभियान के अंतर्गत विशाल पौधारोपण अभियान का शुभारंभ भी किया। इस अभियान के तहत आज उनके लोकसभा क्षेत्र […]",
+        "article": "केन्&#x200d;द्रीय गृह मंत्री अमित शाह ने आज अहमदाबाद में 405 करोड़ रुपये की लागत वाली नगर निगम की कई विकास परियोजनाओं का लोकापर्ण और शिलान्&#x200d;यास किया। इस अवसर पर श्री शाह ने एक पेड़ मां के नाम अभियान के अंतर्गत विशाल पौधारोपण अभियान का शुभारंभ भी किया। इस अभियान के तहत आज उनके लोकसभा क्षेत्र गांधीनगर में एक करोड़ 25 लाख से ज़्यादा पौधे लगाए गए। समारोह को संबोधित करते हुए गृह मंत्री ने 2029 के चुनाव तक निर्वाचन क्षेत्रों में पौधे लगाने की गति&#x200d;विधि को 20 प्रतिशत तक बढ़ाने की दीर्घकालि&#x200d;क पर्यावर&#x200d;णीय रूपरेखा का उल्&#x200d;लेख किया। उन्&#x200d;होंने नागरिकों से सोलर रूफटॉप अपनाने का आग्रह किया। गृह मंत्री ने कहा कि बरगद, पीपल, जम्&#x200d;बू और अर्जुन जैसी स्&#x200d;वदेशी प्रजातियों के पौधे शहर के तापमान को पांच प्रतिशत तक कम करने में मददगार होंगे। ये पौधे भविष्&#x200d;य की पीढि़यों के लिए ओजोन परत को सशक्&#x200d;त बनाने तथा जीवन के अनुकूल पर्यावरण सुनिश्चित करने में सहायक होंगे। पर्यावरण को मजबूत बनाने के हिस्&#x200d;से के रूप में ऑक्&#x200d;सीजन के एक सौ एक नए पार्कों का उद्घाटन किया गया तथा उनकी जानकारी को शामिल करते हुए एक समर्पित ई-बुक जारी की गई। गृह मंत्री कल 11वीं इंटरपोल डिजिटल फॉरेंसिक विशेषज्ञ समूह की बैठक का उद्घाटन करेंगे। वे गांधी नगर में राष्&#x200d;ट्रीय फॉरेंसिक विज्ञान विश्&#x200d;वविद्यालय में पहली अंतरराष्&#x200d;ट्रीय जांचकर्ता अपराध प्रतिस्&#x200d;पर्धा का भी उद्घाटन करेंगे।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:35:13+00:00",
+        "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNAtMaSbUAARfPK-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "भाजपा ने कहा- भारत हिन्द महासागर और हिन्द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा",
         "summary": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्‍द महासागर और हिन्‍द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा है। नई दिल्‍ली में संवाददाता सम्‍मेलन को संबोधित करते हुए पार्टी प्रवक्‍ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्‍द्र मोदी ने हा‍ल ही में इन रणनीतिक संबंधों को और सशक्‍त बनाने के लिए सेशेल्‍स […]",
         "article": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्&#x200d;द महासागर और हिन्&#x200d;द-प्रशांत क्षेत्र में एक स्&#x200d;थाई शक्ति के रूप में उभरा है। नई दिल्&#x200d;ली में संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए पार्टी प्रवक्&#x200d;ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने हा&#x200d;ल ही में इन रणनीतिक संबंधों को और सशक्&#x200d;त बनाने के लिए सेशेल्&#x200d;स और इंडोनेशिया की यात्रा की। उन्&#x200d;होंने कहा कि भारत और न्&#x200d;यूज़ीलैंड के बीच मुक्&#x200d;त व्&#x200d;यापार समझौता एक महत्&#x200d;वपूर्ण उपलब्धि&#x200d; है। पार्टी प्रवक्&#x200d;ता ने प्रधानमंत्री की इंडोनेशिया, ऑस्&#x200d;ट्रेलिया और न्&#x200d;यूज़ीलैंड की यात्रा की दस महत्&#x200d;वपूर्ण उपलब्धियों का उल्&#x200d;लेख किया। इनमें हिन्&#x200d;द महासागर हिन्&#x200d;द-प्रशांत कार्यनीतिक गठबंधन, रक्षा और समुद्री सहयोग, महत्&#x200d;वपूर्ण खनिज सहयोग, ऊर्जा सुरक्षा, आर्थिक और निवेश के अवसर, डिजिटल सार्वजनिक अवसंरचना तथा शैक्षणिक साझेदारी शामिल हैं। श्री पात्रा ने कहा कि रक्षा और समुद्री क्षेत्रों में सहयोग में ठोस प्रगति हुई है। उन्&#x200d;होंने कहा कि पहली बार भारत रक्षा उपकरण के एक निर्यातक के रूप में उभर रहा है। उन्&#x200d;होंने कहा कि भारत और ऑस्&#x200d;ट्रेल&#x200d;िया ने रक्षा और सुरक्षा सहयोग पर एक संयुक्&#x200d;त घोषणा पत्र जारी किया है। श्री पात्रा ने कहा कि इस समझौते के अंतर्गत भारत और ऑस्&#x200d;ट्रेलिया के युद्धपोतों की सर्विसिंग एक-दूसरे के डॉक पर की जाएगी।",
@@ -1419,17 +1432,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "गृह मंत्री अमित शाह आज अहमदाबाद में विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे",
-        "summary": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्‍न परियोजनाओं का शुभारंभ और शिलान्‍यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्‍वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
-        "article": "गृह मंत्री अमित शाह आज अहमदाबाद में नगर निगम की 405 करोड़ रूपये की जन केंद्रित विभिन्&#x200d;न परियोजनाओं का शुभारंभ और शिलान्&#x200d;यास करेंगे। गृह मंत्री कार्यक्रम के दौरान अपने लोकसभा निर्वाचन क्षेत्र गांधीनगर में महत्&#x200d;वाकांक्षी सामुहिक पौधारोपण अभियान की शुरूआत भी करेंगे।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T01:43:13+00:00",
-        "link": "https://newsonair.gov.in/hi/amit-shah-in-ahmedabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/AMIT-SHAH-1-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "विश्व जनसंख्या दिवस पर स्वास्थ्य मंत्रालय ने राष्ट्रीय स्वास्थ्य मिशन के तहत मासिक वेबिनार श्रृंखला शुरू की",
         "summary": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की […]",
         "article": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने विश्व जनसंख्या दिवस 2026 के अवसर पर राष्ट्रीय स्वास्थ्य मिशन के अंतर्गत सर्वोत्तम पद्धतियों पर मासिक वेबिनार श्रृंखला का शुभारंभ किया है। इस पहल का उद्देश्य राज्यों और केंद्र शासित प्रदेशों के बीच स्वास्थ्य सेवा नवाचारों को साझा करना और उनका विस्तार करना है। वेबिनार के उद्घाटन सत्र की अध्यक्षता करते हुए मंत्रालय की अतिरिक्त सचिव आराधना पटनायक ने इस बात पर बल दिया कि नवाचार उत्तरदायी और लचीली सार्वजनिक स्वास्थ्य प्रणाली का मूल आधार है। उन्होंने वेबिनार श्रृंखला को नवीन पद्धतियों की पहचान, दस्तावेजीकरण और प्रसार के लिए एक महत्वपूर्ण संस्थागत तंत्र बताया। सुश्री पटनायक ने सभी राज्यों और केंद्र शासित प्रदेशों से वेबिनार श्रृंखला में सक्रिय रूप से भाग लेने और निरंतर सीखने, ज्ञान के आदान-प्रदान और नवाचार-संचालित कार्यक्रम में योगदान देने का आह्वान किया। पहला वेबिनार &#8220;एनीमिया, बाल और किशोर स्वास्थ्य&#8221; विषय पर केंद्रित था। वेबिनार में राष्ट्रीय, राज्य और जिला स्तर के पांच सौ से अधिक अधिकारियों ने भाग लिया।",
@@ -1452,14 +1454,14 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्नयन योजना ने दो लाख ऋण मंजूरी का आंकड़ा पार किया",
-        "summary": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्‍नयन योजना &#8211; पीएमएफएमई ने देश भर में दो लाख से ज़्यादा सूक्ष्म खाद्य प्रसंस्करण उद्यमों को ऋण मंज़ूर करने का अहम पड़ाव पार कर लिया है। इस योजना के तहत 20 हज़ार 300 करोड़ रुपये से ज़्यादा का निवेश हुआ है और लगभग 11 लाख प्रत्यक्ष और अप्रत्यक्ष रोज़गार के […]",
-        "article": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्&#x200d;नयन योजना &#8211; पीएमएफएमई ने देश भर में दो लाख से ज़्यादा सूक्ष्म खाद्य प्रसंस्करण उद्यमों को ऋण मंज़ूर करने का अहम पड़ाव पार कर लिया है। इस योजना के तहत 20 हज़ार 300 करोड़ रुपये से ज़्यादा का निवेश हुआ है और लगभग 11 लाख प्रत्यक्ष और अप्रत्यक्ष रोज़गार के अवसर पैदा हुए हैं। नई दिल्ली में आज एक विशेष कार्यक्रम को संबोधित करते हुए केंद्रीय खाद्य प्रसंस्करण उद्योग मंत्री चिराग पासवान ने कहा कि यह उपलब्धि न केवल जश्न मनाने का मौका है, बल्कि भारत की खाद्य प्रसंस्करण विकास यात्रा के अगले चरण के लिए एक मज़बूत आधार भी है। यह उपलब्धि दिखाती है कि योजना का विज़न देश भर में ठोस नतीजों में बदल रहा है। श्री पासवान ने इस बात पर भी ज़ोर दिया कि सभी लाभार्थियों में लगभग 44 प्रतिशत महिला उद्यमियों की भागीदारी &#8216;महिला-नेतृत्व वाले विकास&#8217; की सच्ची भावना को दर्शाती है। यह &#8216;विकसित भारत&#8217; का एक अहम आधार है। इस अवसर पर श्री पासवान ने योजना के तहत मिलने वाली &#8216;सीड कैपिटल&#8217; की सहायता का भी उल्&#x200d;लेख किया। इसके माध्&#x200d;यम से चार लाख 18 हज़ार से ज़्यादा स्वयं सहायता समूह के सदस्यों की मदद की गई है। कार्यक्रम को संबोधित करते हुए खाद्य प्रसंस्करण उद्योग मंत्रालय के सचिव ए.पी. दास जोशी ने कहा कि यह उपलब्धि भारत में सूक्ष्म खाद्य प्रसंस्करण क्षेत्र के लिए एक मज़बूत पारिस्थितिकी तंत्र के उभार को दिखाती है। उन्होंने कहा कि पीएमएफएमई उद्यम विकास के लिए एक एकीकृत दृष्टिकोण के तहत वित्त, औपचारिकीकरण, तकनीक, क्षमता निर्माण और बाज़ार तक पहुँच को एक साथ लाता है। श्री जोशी ने योजना के तहत ज़िला संसाधन व्यक्तियों के नेटवर्क पर भी ज़ोर दिया। उन्होंने कहा कि उनका काम ज़मीनी स्तर पर &#8216;डिजिटल इंडिया&#8217; और कारोबार करने की सुगमता के सफल तालमेल को दर्शाता है। मंत्रालय में संयुक्त सचिव देवेश देवल ने कहा कि पीएमएफएमई योजना सूक्ष्म खाद्य प्रसंस्करण उद्यमियों को शुरू से अंत तक सहायता देती है, जिसमें वित्तीय सहायता, प्रशिक्षण, मार्गदर्शन, ब्रांडिंग, विपणन और बाज़ार से जुड़ाव शामिल है। उन्होंने कहा कि यह योजना लोगों की आजीविका बदल रही है, स्थानीय मूल्&#x200d;य श्रृंखला को मज़बूत कर रही है और पूरे देश में रोज़गार के टिकाऊ अवसर पैदा कर रही है। अधिकारियों ने योजना के &#8216;एक ज़िला एक उत्पाद&#8217; दृष्टिकोण और लगभग 200 उत्पादों वाले 40 कॉमन ब्रांड के लिए इसके समर्थन का भी उल्&#x200d;लेख किया। यह पहल पूरे देश में मखाना, मोटे अनाज, मसालों और जीआई-टैग वाले उत्पादों के लिए स्थानीय मूल्&#x200d;य श्रृंखला बना रही है। कार्यक्रम में योजना की उपलब्धियों को उजागर करने वाले मुख्य प्रकाशन जारी किए गए और उद्यमियों ने अपनी सफलता की कहानियाँ साझा कीं। इस कार्यक्रम में मंत्रालय के वरिष्ठ अधिकारी, राज्य सरकारों के प्रतिनिधि, सहयोगी मंत्रालय, बैंकिंग संस्थान, विकास भागीदार, उद्यमी, स्वयं सहायता समूह और किसान उत्पादक संगठन शामिल हुए।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:33:27+00:00",
-        "link": "https://newsonair.gov.in/hi/pradhan-mantri-formalisation-of-micro-food-processing-enterprises-scheme-crosses-the-milestone-of-two-lakh-loan-sanctions/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-210208.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "ओमान तट के पास वाणिज्यिक पोत पर हमला में 10 भारतीय सुरक्षित बचाए गए, एक अब भी लापता",
+        "summary": "भारत ने आज ओमान तट के पास वाणिज्यिक पोत जी.एफ.एस गैलेक्सी पर हुए हमले की कड़ी निंदा की है। विदेश मंत्रालय ने एक बयान में कहा कि पोत पर सवार 11 भारतीयों में से 10 को सुरक्षित बचा लिया गया है, जबकि एक भारतीय अब भी लापता है। मंत्रालय ने कहा कि ओमान में भारतीय […]",
+        "article": "भारत ने आज ओमान तट के पास वाणिज्यिक पोत जी.एफ.एस गैलेक्सी पर हुए हमले की कड़ी निंदा की है। विदेश मंत्रालय ने एक बयान में कहा कि पोत पर सवार 11 भारतीयों में से 10 को सुरक्षित बचा लिया गया है, जबकि एक भारतीय अब भी लापता है। मंत्रालय ने कहा कि ओमान में भारतीय दूतावास स्थिति पर लगातार नजर बनाए हुए है और जारी राहत तथा बचाव अभियान में ओमान के अधिकारियों के साथ समन्वय कर रहा है। भारत ने इस सहायता के लिए ओमान की सरकार का आभार व्यक्त किया है। विदेश मंत्रालय ने कहा कि क्षेत्र में वाणिज्यिक जहाजों और नागरिक बुनियादी ढांचे को निशाना बनाया जाना बंद होना चाहिए तथा अंतरराष्ट्रीय कानून के अनुरूप अंतरराष्ट्रीय समुद्री मार्गों पर निर्बाध नौवहन और व्यापार जल्द से जल्द बहाल किया जाना चाहिए।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:20:41+00:00",
+        "link": "https://newsonair.gov.in/hi/oman-vessel-attack/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1469,6 +1471,7 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T06:18:45+00:00",
         "link": "https://newsonair.gov.in/hi/epfo-amnesty-scheme/",
+        "post_id": 1733248,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1480,7 +1483,6 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T06:13:30+00:00",
         "link": "https://newsonair.gov.in/hi/yemen-travel-advisory/",
-        "post_id": 1733163,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1498,6 +1500,17 @@ window.VM_NEWS = {
       }
     ],
     "world": [
+      {
+        "title": "अमरीका के 140 सैन्य ठिकानों पर हमलों के जवाब में ईरान ने होर्मुज जलडमरूमध्य बंद करने की घोषणा की",
+        "summary": "अमरीका ने आज सुबह ईरान पर फिर से हवाई हमले किए हैं। ये हमले ईरान द्वारा होर्मुज जलडमरूमध्य में एक वाणिज्यिक पोत पर हमला किए जाने के बाद किए गए। ईरान के हमले में पोत में आग लग गई थी और चालक दल को उसे छोड़ना पड़ा था। अमरीकी सेंट्रल कमान ने बताया कि […]",
+        "article": "अमरीका ने आज सुबह ईरान पर फिर से हवाई हमले किए हैं। ये हमले ईरान द्वारा होर्मुज जलडमरूमध्य में एक वाणिज्यिक पोत पर हमला किए जाने के बाद किए गए। ईरान के हमले में पोत में आग लग गई थी और चालक दल को उसे छोड़ना पड़ा था। अमरीकी सेंट्रल कमान ने बताया कि हमलों में ईरान के लगभग 140 सैन्य ठिकानों को निशाना बनाया गया, जिनमें मिसाइल, ड्रोन और संचार ढांचा शामिल हैं। जवाबी कार्रवाई में ईरान ने बहरीन, कुवैत, कतर और संयुक्त अरब अमीरात को निशाना बनाते हुए मिसाइल और ड्रोन हमले किए। कतर और कुवैत ने कहा कि उन्होंने आने वाली मिसाइलों और ड्रोन को बीच में ही मार गिराया, जबकि बहरीन ने भी मिसाइल अलर्ट जारी किया। ईरान ने जॉर्डन स्थित एक अमरीकी सैन्य अड्डे पर भी हमला करने का दावा किया है। ईरान के इस्लामिक रिवोल्यूशनरी गार्ड ने अगली सूचना तक होर्मुज जलडमरूमध्य को बंद करने की घोषणा की है और चेतावनी दी है कि यदि अमरीकी हमले जारी रहे तो वह भी जवाबी कार्रवाई करेगा।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:50:55+00:00",
+        "link": "https://newsonair.gov.in/hi/us-iran-conflict/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Strait-of-Hormuz-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "कतर के पूर्व अमीर शेख हमद बिन खलीफा अल थानी का 74 वर्ष की आयु में निधन, पीएम मोदी ने शोक व्यक्त किया",
         "summary": "कतर के पूर्व अमीर शेख हमद बिन खलीफा अल थानी का 74 वर्ष की आयु में निधन हो गया है। उन्होंने इस खाड़ी देश को कूटनीति, मीडिया और निवेश के क्षेत्र में प्रमुख वैश्विक शक्ति के रूप में स्थापित किया था। शेख हमद ने क्षेत्रीय परंपरा को तोड़ते हुए 2013 में स्वेच्छा से अपने बेटे […]",
@@ -1554,25 +1567,15 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "भारत-न्यूज़ीलैंड के बीच रक्षा, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 समझौता ज्ञापनों पर हस्ताक्षर",
-        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और […]",
-        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और डेयरी संबंधी समझौता अनुसंधान, नवाचार और बेहतर तकनीकों के आदान-प्रदान को प्रोत्साहित करेगा। पर्यटन समझौते से दोनों देशों के बीच पर्यटन और यात्रा सहयोग बढ़ेगा। खेल के क्षेत्र में संयुक्त कार्ययोजना भी अपनाई गई है, जबकि आपदा प्रबंधन समझौते से आपदा तैयारी, राहत और बचाव कार्यों में सहयोग मजबूत होगा। वार्ता के दौरान प्रधानमंत्री मोदी ने कहा कि 40 वर्ष बाद किसी भारतीय प्रधानमंत्री की न्यूज़ीलैंड यात्रा दोनों देशों के संबंधों में एक ऐतिहासिक पड़ाव है। उन्होंने कहा कि दोनों देशों ने सामरिक साझेदारी स्थापित करने का महत्वपूर्ण निर्णय लिया है, जो भविष्य के सहयोग को नई दिशा देगा। प्रधानमंत्री ने मुक्त व्यापार समझौते की दिशा में हुई प्रगति की सराहना करते हुए कहा कि भारत और न्यूज़ीलैंड हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और सुरक्षा को मजबूत करने में महत्वपूर्ण भूमिका निभा सकते हैं। न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने कहा कि प्रधानमंत्री मोदी की यह यात्रा दोनों देशों के संबंधों को नई ऊंचाई देगी। उन्होंने कहा कि सामरिक साझेदारी से व्यापार सहित कई क्षेत्रों में सहयोग का दायरा और बढ़ेगा। इससे पहले गवर्नमेंट हाउस में प्रधानमंत्री मोदी का औपचारिक स्वागत किया गया और उन्हें गार्ड ऑफ ऑनर दिया गया। प्रधानमंत्री आज भारतीय समुदाय को संबोधित करेंगे तथा उद्योग और खेल जगत की प्रमुख हस्तियों से भी मुलाकात करेंगे।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T09:07:24+00:00",
-        "link": "https://newsonair.gov.in/hi/five-memorandums-of-understanding-mous-signed-between-india-and-new-zealand-covering-defense-tourism-sports-and-disaster-management/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/A-3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "न्यूजीलैंड में भारतीय समुदाय, दोनों देशों के बीच मजबूत होते संबंधों का आधार: प्रधानमंत्री मोदी",
-        "summary": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि न्यूजीलैंड में भारतीय समुदाय, दोनों देशों के बीच मजबूत होते संबंधों का महत्वपूर्ण आधार है। ऑकलैंड में भारतीय समुदाय को संबोधित करते हुए श्री मोदी ने कहा कि भारत और न्यूजीलैंड के संबंध साझा विरासत, स्थायी मित्रता, समान लोकतांत्रिक मूल्यों और उज्ज्वल भविष्य के साझा संकल्प पर आधारित […]",
-        "article": "प्रधानमंत्री नरेन्द्र मोदी ने कहा है कि न्यूजीलैंड में भारतीय समुदाय, दोनों देशों के बीच मजबूत होते संबंधों का महत्वपूर्ण आधार है। ऑकलैंड में भारतीय समुदाय को संबोधित करते हुए श्री मोदी ने कहा कि भारत और न्यूजीलैंड के संबंध साझा विरासत, स्थायी मित्रता, समान लोकतांत्रिक मूल्यों और उज्ज्वल भविष्य के साझा संकल्प पर आधारित हैं। उन्होंने कहा कि ऑकलैंड से वेलिंगटन और क्राइस्टचर्च से क्वीन्सटाउन तक भारतीय समुदाय ने दोनों देशों के संबंधों को मजबूत बनाने में महत्वपूर्ण योगदान दिया है। श्री मोदी ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन और वहां की सरकार के सदस्यों की उपस्थिति के लिए आभार व्यक्त किया। उन्होंने कहा कि यह भारत-न्यूजीलैंड संबंधों के प्रति व्यापक समर्थन का प्रतीक है। श्री मोदी ने कहा कि 4 दशक बाद किसी भारतीय प्रधानमंत्री की न्यूजीलैंड यात्रा हो रही है और वे 140 करोड़ भारतीयों की शुभकामनाएं वहां के भारतीय समुदाय तक लेकर पहुंचे हैं। इस अवसर पर न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने कहा कि दोनों देशों के बीच रणनीतिक और आर्थिक साझेदारी लगातार मजबूत हो रही है। उन्होंने कहा कि भारत-न्यूजीलैंड मुक्त व्यापार समझौते से न्यूजीलैंड के निर्यातकों को 140 करोड़ लोगों के विशाल बाजार तक पहुंच मिलेगी और न्यूजीलैंड में भारतीय कारोबार के लिए भी नए अवसर खुलेंगे। उन्होंने कहा कि भारत केवल एक व्यापारिक साझेदार नहीं, बल्कि न्यूजीलैंड का एक विश्वसनीय सहयोगी भी है। न्यूजीलैंड के प्रधानमंत्री ने भारत की बढ़ती वैश्विक प्रतिष्ठा, प्रधानमंत्री मोदी के नेतृत्व और न्यूजीलैंड के विकास में भारतीय समुदाय के योगदान की सराहना की। उन्होंने भारत को अपना महत्वपूर्ण साझेदार बताते हुए द्विपक्षीय संबंधों को नई ऊंचाइयों तक ले जाने की प्रतिबद्धता दोहराई। ऑकलैंड में आयोजित इस कार्यक्रम में भारतीय समुदाय के 10 हजार से अधिक लोग शामिल हुए। इस दौरान सांस्कृतिक प्रस्तुतियों, नारों और उत्साहपूर्ण माहौल ने कार्यक्रम को विशेष बना दिया।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T08:59:57+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-community-in-new-zealand-is-the-foundation-of-strong-ties-between-the-two-countries-prime-minister-modi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-142921.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "ओमान तट के पास वाणिज्यिक पोत पर हमला में 10 भारतीय सुरक्षित बचाए गए, एक अब भी लापता",
+        "summary": "भारत ने आज ओमान तट के पास वाणिज्यिक पोत जी.एफ.एस गैलेक्सी पर हुए हमले की कड़ी निंदा की है। विदेश मंत्रालय ने एक बयान में कहा कि पोत पर सवार 11 भारतीयों में से 10 को सुरक्षित बचा लिया गया है, जबकि एक भारतीय अब भी लापता है। मंत्रालय ने कहा कि ओमान में भारतीय […]",
+        "article": "भारत ने आज ओमान तट के पास वाणिज्यिक पोत जी.एफ.एस गैलेक्सी पर हुए हमले की कड़ी निंदा की है। विदेश मंत्रालय ने एक बयान में कहा कि पोत पर सवार 11 भारतीयों में से 10 को सुरक्षित बचा लिया गया है, जबकि एक भारतीय अब भी लापता है। मंत्रालय ने कहा कि ओमान में भारतीय दूतावास स्थिति पर लगातार नजर बनाए हुए है और जारी राहत तथा बचाव अभियान में ओमान के अधिकारियों के साथ समन्वय कर रहा है। भारत ने इस सहायता के लिए ओमान की सरकार का आभार व्यक्त किया है। विदेश मंत्रालय ने कहा कि क्षेत्र में वाणिज्यिक जहाजों और नागरिक बुनियादी ढांचे को निशाना बनाया जाना बंद होना चाहिए तथा अंतरराष्ट्रीय कानून के अनुरूप अंतरराष्ट्रीय समुद्री मार्गों पर निर्बाध नौवहन और व्यापार जल्द से जल्द बहाल किया जाना चाहिए।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:20:41+00:00",
+        "link": "https://newsonair.gov.in/hi/oman-vessel-attack/",
+        "post_id": 1733595,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1582,6 +1585,7 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T06:13:30+00:00",
         "link": "https://newsonair.gov.in/hi/yemen-travel-advisory/",
+        "post_id": 1733163,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1806,7 +1810,6 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T06:18:45+00:00",
         "link": "https://newsonair.gov.in/hi/epfo-amnesty-scheme/",
-        "post_id": 1733248,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
