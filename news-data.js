@@ -1,8 +1,107 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-12T11:46:35.751849",
+  "generated": "2026-07-12T15:37:05.431860",
   "en": {
     "top": [
+      {
+        "title": "US says Strait of Hormuz open to all vessels and American military ready to ensure freedom of navigation",
+        "summary": "The US Central Command (CENTCOM) has said that the Strait of Hormuz remains open to all vessels seeking lawful passage hours after Iran&#8217;s Islamic Revolutionary Guard Corps (IRGC) announced the closure of the strategic waterway until further notice. The statement came after US President Donald Trump said in a press meeting that the Strait of […]",
+        "article": "The US Central Command (CENTCOM) has said that the Strait of Hormuz remains open to all vessels seeking lawful passage hours after Iran&#8217;s Islamic Revolutionary Guard Corps (IRGC) announced the closure of the strategic waterway until further notice. The statement came after US President Donald Trump said in a press meeting that the Strait of Hormuz remains open to commercial shipping. In a social media post, CENTCOM said maritime traffic continues to flow through the strait and that US forces are positioned to ensure freedom of navigation despite what it described as Iranian aggression, harassment, threats and arbitrary declarations. It asserted that Iran does not control the Strait of Hormuz and that safe transit routes remain open. CENTCOM added that US forces have facilitated the passage of more than 800 ships and over 400 million barrels of crude oil through the waterway over the past two months. Earlier, the United States carried out fresh airstrikes on Iran after Tehran attacked a commercial vessel in the Strait of Hormuz, setting it on fire and forcing its crew to abandon ship. According to CENTCOM, the strikes targeted around 140 Iranian military sites, including missile, drone and communications facilities. Iran responded with missile and drone attacks targeting Bahrain, Kuwait, Qatar and the United Arab Emirates. Qatar and Kuwait said they intercepted the incoming projectiles, while Bahrain activated missile alerts. Iran also claimed to have struck a US military base in Jordan. The latest escalation has heightened concerns over regional security and global energy markets, as the Strait of Hormuz is a critical shipping route for a significant share of the world&#8217;s oil and natural gas trade.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:23:18+00:00",
+        "link": "https://newsonair.gov.in/us-says-strait-of-hormuz-open-to-all-vessels-and-american-military-ready-to-ensure-freedom-of-navigation/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/strait-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Narendra Modi to address nation in Mann Ki Baat on 26 July",
+        "summary": "Prime Minister Narendra Modi will share his thoughts with the people of the country and abroad in the Mann Ki Baat programme on Akashvani on 26th July. It will be the 136th episode of the monthly radio programme. People can submit their ideas and suggestions for the programme through the toll-free number 1800-11-7800. They […]",
+        "article": "Prime Minister Narendra Modi will share his thoughts with the people of the country and abroad in the Mann Ki Baat programme on Akashvani on 26th July. It will be the 136th episode of the monthly radio programme. People can submit their ideas and suggestions for the programme through the toll-free number 1800-11-7800. They can also share their input online via the Narendra Modi App or the MyGov Open Forum. The citizens can also give a missed call on 1922 and follow the link received in SMS to directly give their suggestions to the Prime Minister. Suggestions for the upcoming episode will be accepted until the 24th of this month.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T14:34:18+00:00",
+        "link": "https://newsonair.gov.in/pm-narendra-modi-to-address-nation-in-mann-ki-baat-on-26-july/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Modi-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Bangladesh flood death toll rises to 44",
+        "summary": "In Bangladesh, 44 people have died in floods and landslides across the country over the past week. Several casualties were caused by landslides, while most others either drowned or were washed away due to floods and overflowing rivers. The country&#8217;s Disaster Management Ministry spokesman said that around 267,000 families have been affected due to the […]",
+        "article": "In Bangladesh, 44 people have died in floods and landslides across the country over the past week. Several casualties were caused by landslides, while most others either drowned or were washed away due to floods and overflowing rivers. The country&#8217;s Disaster Management Ministry spokesman said that around 267,000 families have been affected due to the flood. Heavy overnight rainfall flooded parts of the capital, Dhaka, disrupting normal life as the Army, Navy, and Air Force joined relief operations in the seven worst-hit districts along with local humanitarian agencies. The Flood Forecasting and Warning Centre (FFWC) warned that worsening river levels could trigger further flooding in several north and north-western districts, while the situation in the northeastern and northwestern region could deteriorate further.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T13:18:17+00:00",
+        "link": "https://newsonair.gov.in/bangladesh-flood-death-toll-rises-to-44/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Akashwani-news.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "China: Typhoon Bavi weakens into tropical storm in Zhejiang province",
+        "summary": "In China, Typhoon Bavi has weakened into a tropical storm hours after making landfall in Zhejiang province. However, it continues to bring strong winds and heavy rainfall to several parts of the country. China&#8217;s National Meteorological Centre said the storm is moving northwest across eastern China into Anhui province while steadily losing strength. Heavy to […]",
+        "article": "In China, Typhoon Bavi has weakened into a tropical storm hours after making landfall in Zhejiang province. However, it continues to bring strong winds and heavy rainfall to several parts of the country. China&#8217;s National Meteorological Centre said the storm is moving northwest across eastern China into Anhui province while steadily losing strength. Heavy to torrential rainfall and strong winds are expected to affect many cities in eastern and northeastern China over the next two days. In Anhui and several neighbouring provinces, heavy rain has already been recorded. Around 653 inbound and outbound flights at Shanghai&#8217;s Pudong and Hongqiao international airports are likely to be cancelled due to the storm.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T13:09:00+00:00",
+        "link": "https://newsonair.gov.in/china-typhoon-bavi-weakens-into-tropical-storm-in-zhejiang-province/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Akashwani-news.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "US, UK and allies reaffirm China’s South China Sea claims are illegal",
+        "summary": "The United States, the United Kingdom and a dozen other Western and Asian countries today reasserted that China&#8217;s expansive claims in the South China Sea are illegal based on a 2016 arbitration ruling. A joint statement issued by the 14 nations said, they reject “destabilising” actions in the disputed waters that threaten regional stability. On […]",
+        "article": "The United States, the United Kingdom and a dozen other Western and Asian countries today reasserted that China&#8217;s expansive claims in the South China Sea are illegal based on a 2016 arbitration ruling. A joint statement issued by the 14 nations said, they reject “destabilising” actions in the disputed waters that threaten regional stability. On the other hand, the 27-nation European Union released a separate statement, reaffirming the ruling as a “landmark decision in the peaceful settlement of disputes&#8221;. The statements commemorated a July 12, 2016, arbitration ruling by a tribunal established in The Hague under the United Nations Convention on the Law of the Sea, saying the landmark decision is “is final and legally binding&#8221;. China, however, dismissed the ruling, saying it is null and void and has no binding force, and reiterated that Beijing neither accepts nor recognises it. China refused to join the arbitration initiated by the Philippines in 2013 after a tense standoff in the contested waters a year earlier that ended with Beijing effectively seizing a disputed shoal. The South China Sea remains a major flashpoint, with repeated territorial standoffs involving China and the Philippines, Vietnam, Malaysia, Brunei and Taiwan.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:59:02+00:00",
+        "link": "https://newsonair.gov.in/us-uk-and-allies-reaffirm-chinas-south-china-sea-claims-are-illegal/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Akashwani-news.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Afghanistan’s Minister of Agriculture, Mawlawi Ataullah Omari, concludes 6-day visit to India",
+        "summary": "Afghanistan&#8217;s Minister of Agriculture, Irrigation and Livestock, Mawlawi Ataullah Omari, concluded his six-day visit to India today. The External Affairs Ministry said the Afghan Minister was accompanied by a high-level delegation. This was the 4th ministerial-level visit from Afghanistan to India since October last year, reflecting the continued momentum in bilateral engagement. During the",
+        "article": "Afghanistan&#8217;s Minister of Agriculture, Irrigation and Livestock, Mawlawi Ataullah Omari, concluded his six-day visit to India today. The External Affairs Ministry said the Afghan Minister was accompanied by a high-level delegation. This was the 4th ministerial-level visit from Afghanistan to India since October last year, reflecting the continued momentum in bilateral engagement. During the visit, the Afghan Minister met with Agriculture and Farmers Welfare Minister Shivraj Singh Chouhan. The two sides reviewed ongoing cooperation and explored new avenues for collaboration in agriculture, irrigation, livestock, agricultural research, education, capacity building and agri-trade. Food security, seed systems and enhancement of crop productivity featured prominently in the discussions. India reiterated its commitment to supporting Afghanistan’s agricultural sector through cooperation in climate-resilient and bio-fortified crop varieties, sustainable irrigation practices, water harvesting, watershed development and other areas of mutual interest. The Afghan Minister also met the Minister of Food Processing Industries, Chirag Paswan. Their discussions focused on strengthening cooperation in food processing through value addition, infrastructure development, technology transfer, capacity building and promotion of bilateral trade in agricultural and food products. The Afghan Minister also met Minister of State for External Affairs, Pabitra Margherita. They exchanged views on ongoing bilateral cooperation aimed at supporting the welfare and development of the Afghan people.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:52:03+00:00",
+        "link": "https://newsonair.gov.in/afghanistans-minister-of-agriculture-mawlawi-ataullah-omari-concludes-6-day-visit-to-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNBs8BiaAAAjqPR.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government refutes fake claim on ethanol-blended petrol",
+        "summary": "The Government has refuted a fake image circulating on social media claiming that ethanol-blended petrol can cause problems in a vehicle&#8217;s fuel tank. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has termed the claim false. It said that the Ministry of Petroleum and Natural Gas has clarified that E20 petrol supplied by oil marketing […]",
+        "article": "The Government has refuted a fake image circulating on social media claiming that ethanol-blended petrol can cause problems in a vehicle&#8217;s fuel tank. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has termed the claim false. It said that the Ministry of Petroleum and Natural Gas has clarified that E20 petrol supplied by oil marketing companies conforms to the standards prescribed by the Bureau of Indian Standards (BIS). The Ministry said ethanol and petrol are completely miscible and do not separate or form layers when the fuel meets the prescribed standards. It further assured that ethanol-blended petrol supplied in India adheres to stringent quality standards and undergoes rigorous testing before being made available to consumers.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:46:54+00:00",
+        "link": "https://newsonair.gov.in/government-refutes-fake-claim-on-ethanol-blended-petrol/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Mansukh Mandaviya will inaugurate 7 ESI healthcare projects worth ₹668 crore",
+        "summary": "Union Minister for Labour and Employment, Dr Mansukh Mandaviya, will inaugurate seven Employees&#8217; State Insurance (ESI) healthcare projects worth around 668 crore rupees across the country on Tuesday. These projects include the new Outpatient Department (OPD) Block at the ESIC Hospital in Sanathnagar, Telangana; the upgraded 200-bed ESIC Hospital at Beltola, Assam; the 100-bed ESIC […]",
+        "article": "Union Minister for Labour and Employment, Dr Mansukh Mandaviya, will inaugurate seven Employees&#8217; State Insurance (ESI) healthcare projects worth around 668 crore rupees across the country on Tuesday. These projects include the new Outpatient Department (OPD) Block at the ESIC Hospital in Sanathnagar, Telangana; the upgraded 200-bed ESIC Hospital at Beltola, Assam; the 100-bed ESIC Hospital at Sriperumbudur, Tamil Nadu; the ESIS Hospital at Rajamahendravaram, Andhra Pradesh; the ESI Dispensary and Branch Office at Surendranagar, Gujarat; and the ESI Dispensary and Branch Office at Udyog Nagar, Kota, along with the ESI Dispensary at Bhawani Mandi in Rajasthan. The Ministry of Labour and Employment said Dr Mandaviya will be in Sanathnagar to inaugurate the new OPD Block at the ESIC Hospital, while the remaining six projects will be inaugurated virtually. The Ministry noted that these healthcare facilities will cater to the medical needs of around 53 lakh beneficiaries across the country. On the occasion, Dr Mandaviya will also honour construction workers who contributed to the development of the OPD Block at the ESIC Hospital in Sanathnagar, recognising their role in nation-building. He will also disburse cash benefits to ESI beneficiaries, reaffirming the government&#8217;s commitment to workers&#8217; welfare. Minister of State for Labour and Employment Shobha Karandlaje will also attend the event.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:31:42+00:00",
+        "link": "https://newsonair.gov.in/union-minister-mansukh-mandaviya-will-inaugurate-7-esi-healthcare-projects-worth-%e2%82%b9668-crore/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/12/Mansukh_Mandaviya_photo_2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Manohar Lal calls for adopting environmental friendly construction methods",
+        "summary": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength […]",
+        "article": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength should not be compromised. He called upon the officers and staff of the CPWD to work with full honesty and morality to enhance the credibility of the organisation. On the occasion, the Union Minister also virtually laid the foundation stone of the National Council for Public Works Building at Ghaziabad in Uttar Pradesh. The Secretary of the Ministry of Housing and Urban Affairs, Srinivas Katikithala and the Director General of CPWD were also present on the occasion.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:21:59+00:00",
+        "link": "https://newsonair.gov.in/union-minister-manohar-lal-calls-for-adopting-environmental-friendly-construction-methods/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "US President Trump ally Lindsey Graham passes away after brief illness at 71",
         "summary": "US Senator Lindsey Graham, a close ally of President Donald Trump, has passed away following a brief illness. He was 71. A member of the Republican Party, Graham was first elected to the U.S. Senate in 2002 and was re-elected in 2008, 2014 and 2020. During President Trump&#8217;s second term, Graham emerged as a key […]",
@@ -21,7 +120,7 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T10:44:45+00:00",
         "link": "https://newsonair.gov.in/president-murmu-expresses-grief-over-demise-of-playback-singer-s-janaki-amma/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Droupadi-Murmu-1200x750-1.jpg",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Murmu-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -35,108 +134,64 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNA6LpfbAAEqZ1R.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "India condemns attack on commercial vessel GFS Galaxy off coast of Oman; 10 Indians rescued, one reported missing; New Delhi expresses concern over continuing attacks on commercial shipping in region",
-        "summary": "India has condemned the attack on the commercial vessel GFS Galaxy off the coast of Oman earlier today. The External Affairs Ministry informed in a statement that of the 11 Indian nationals on board, 10 have been rescued so far, while one Indian National is reportedly missing. It said the Indian Embassy in Oman is […]",
-        "article": "India has condemned the attack on the commercial vessel GFS Galaxy off the coast of Oman earlier today. The External Affairs Ministry informed in a statement that of the 11 Indian nationals on board, 10 have been rescued so far, while one Indian National is reportedly missing. It said the Indian Embassy in Oman is closely monitoring the situation and proactively coordinating with the Omani authorities in the ongoing Search and Rescue operation. India has thanked the Omani authorities for their support. New Delhi has expressed concern over the continuing incidents of attacks on commercial shipping in the region. It reiterated the call for immediate de-escalation of tensions and the conclusion of ongoing negotiations for a diplomatic solution so that peace and stability can return to the region. The External Affairs Ministry said the targeting of commercial shipping and civilian infrastructure in the region must end, and free and unimpeded navigation and commerce through the international waterways in the region, in keeping with international law, must be restored at the earliest. &nbsp;",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:19:50+00:00",
-        "link": "https://newsonair.gov.in/india-condemns-attack-on-commercial-vessel-gfs-galaxy-off-coast-of-oman-10-indians-rescued-one-reported-missing-new-delhi-expresses-concern-over-continuing-attacks-on-commercial-shipping-in-the-reg/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
-        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "US launches new round of strikes against Iran after IRGC forces attack container ship transiting Strait of Hormuz",
-        "summary": "The United States has launched fresh airstrikes on Iran this morning. The airstrikes came after Tehran attacked a commercial vessel in the Strait of Hormuz, setting it ablaze and forcing its crew to abandon ship. US Central Command said it targeted around 140 Iranian military sites, including missile, drone and communications facilities. Iran […]",
-        "article": "The United States has launched fresh airstrikes on Iran this morning. The airstrikes came after Tehran attacked a commercial vessel in the Strait of Hormuz, setting it ablaze and forcing its crew to abandon ship. US Central Command said it targeted around 140 Iranian military sites, including missile, drone and communications facilities. Iran retaliated with missile and drone attacks targeting Bahrain, Kuwait, Qatar and the United Arab Emirates. Qatar and Kuwait said they intercepted the incoming projectiles, while Bahrain also activated missile alerts. Iran also claimed to have carried out strikes on a US military base in Jordan. Iran&#8217;s Revolutionary Guard said it has closed the Strait of Hormuz until further notice and warned of further action if US strikes continue. The latest escalation has raised concerns over regional security and global energy supplies, as the strategic waterway handles a significant share of the world&#8217;s oil and gas trade.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:08:40+00:00",
-        "link": "https://newsonair.gov.in/us-launches-new-round-of-strikes-against-iran-after-irgc-forces-attack-container-ship-transiting-strait-of-hormuz/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ISS-44_Strait_of_Gibraltar.jpg/1280px-ISS-44_Strait_of_Gibraltar.jpg",
-        "image_credit": "Wikipedia – Strait (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi returns to New Delhi after concluding several agreements during his visit to Indonesia, Australia and New Zealand",
-        "summary": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress. The two nations exchanged MoUs […]",
-        "article": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress. The two nations exchanged MoUs and agreements in the fields of defense, critical and rare earth minerals, agriculture, maritime security and space. During his visit, Prime Minister Modi was conferred the highest civilian medal of honour, Bintang Adipurna of the Republic of Indonesia. In the second leg of his tour, Prime Minister Modi travelled to Melbourne, Australia, where he participated in the third India-Australia Annual Summit with the Australian Prime Minister. The visit also enabled the supply of Uranium from Australia to India. During the visit, Australian Super announced an investment of five hundred million Australian dollar to India&#8217;s National Investment and Infrastructure Fund. On the final leg of his three-nation visit, the Prime Minister visited Auckland. During the visit, the Prime Ministers of India and New Zealand announced the creation of the India-New Zealand Strategic Partnership and set a target to double bilateral trade by 2030.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:02:09+00:00",
-        "link": "https://newsonair.gov.in/pm-narendra-modi-returns-to-india-after-successfully-concluding-his-3-nation-visit-to-indonesia-australia-and-new-zealand/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
-        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Typhoon Bavi makes landfall in eastern China’s Taizhou after nearly 2 million evacuated",
-        "summary": "Typhoon Bavi made landfall late last night in the coastal city of Taizhou in eastern China, where nearly two million people were evacuated, having earlier hit Japan&#8217;s southern Sakishima island chain and brushed past northern Taiwan. Even as Bavi continues to slow and weaken on its northwesterly path, the typhoon is still a potent risk […]",
-        "article": "Typhoon Bavi made landfall late last night in the coastal city of Taizhou in eastern China, where nearly two million people were evacuated, having earlier hit Japan&#8217;s southern Sakishima island chain and brushed past northern Taiwan. Even as Bavi continues to slow and weaken on its northwesterly path, the typhoon is still a potent risk due to the sheer volume of moisture it holds within its rain bands, about the size of France from end to end. Bavi had maximum sustained winds of about 144km per hour, equivalent to Category One on the Saffir-Simpson Hurricane Wind Scale, when it made landfall at around 11.20 pm local time, according to the Chinese National Meteorological Center. State media said more than 1.7 million people had been evacuated across Zhejiang province, along with more than 100,000 each from neighbouring Fujian province and Beijing and some 34,000 from Shanghai. While Japan and Taiwan have not yet reported any deaths from the typhoon, 17 people died in the Philippines due to heavy rains brought by an enhanced southwest monsoon, exacerbated by Bavi&#8217;s impact. Taiwan&#8217;s fire department said 113 people had been injured, mostly from falls from motorcycles or bicycles, as well as people falling over or being struck by objects.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:18:38+00:00",
-        "link": "https://newsonair.gov.in/typhoon-bavi-makes-landfall-in-eastern-chinas-taizhou-after-nearly-2-million-evacuated/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Taizhou_disambiguation_map.svg/1280px-Taizhou_disambiguation_map.svg.png",
-        "image_credit": "Wikipedia – Taizhou (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Vietnam government orders probe into speedboat tragedy that killed 15 Indian tourists",
-        "summary": "Vietnamese Prime Minister Le Minh Hun has ordered a probe into the speedboat tragedy near Phu Quoc Island that claimed the lives of 15 Indian tourists. According to a statement issued by the Consulate General of Vietnam in Mumbai, PM Hun asked authorities to identify shortcomings, determine both the direct and indirect causes of […]",
-        "article": "Vietnamese Prime Minister Le Minh Hun has ordered a probe into the speedboat tragedy near Phu Quoc Island that claimed the lives of 15 Indian tourists. According to a statement issued by the Consulate General of Vietnam in Mumbai, PM Hun asked authorities to identify shortcomings, determine both the direct and indirect causes of the accident, and implement corrective measures to prevent similar incidents in the future. The Vietnamese Prime Minister also directed authorities to take strict legal action against anyone found to have violated regulations that may have caused the accident. Vietnamese Prime Minister also directed authorities to assist victims and their families. The Consulate General further stated that the Prime Minister has directed authorities to mobilise all necessary medical resources and supplies to treat the injured, minimise further loss of life and provide support and encouragement to the families of those who lost their loved ones in the accident. The tragic incident occurred yesterday when the speedboat carrying 36 people, including 4 crew members, flipped after reportedly being hit by a sudden wave off Rut Ngoai Islet. While local authorities managed to rescue 21 people, 15 Indians, including 2 women, were dead. The Indian embassy in Vietnam released the list of the deceased provided by the Vietnamese authorities. Of the 15 deceased, 10 are from Tamil Nadu, three from Andhra Pradesh, and two from Kerala. External Affairs Minister Dr S Jaishankar has expressed grief over the Vietnam boat accident, which resulted in the death of 15 Indian nationals near Phu Quoc Island, Vietnam. In a social media post, Dr Jaishankar said that he is deeply distressed by the unfortunate boat accident. The External Affairs Minister conveyed his condolences to the bereaved families. He also wished for the swift recovery of those injured.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:18:33+00:00",
-        "link": "https://newsonair.gov.in/rescue-operations-underway-after-boat-carrying-indian-tourists-capsizes-near-phu-quoc-island/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Qatari delegation is in Iran, aims to boost mediation role, Iranian media says",
-        "summary": "Iranian state media has reported that a Qatari delegation is visiting Tehran in an effort by Doha to strengthen its role as a mediator following the recent escalation of hostilities in the Gulf region. The report said the visit comes after Qatar accused Iran of involvement in an alleged incident in the Strait of Hormuz, […]",
-        "article": "Iranian state media has reported that a Qatari delegation is visiting Tehran in an effort by Doha to strengthen its role as a mediator following the recent escalation of hostilities in the Gulf region. The report said the visit comes after Qatar accused Iran of involvement in an alleged incident in the Strait of Hormuz, followed by US strikes on Iranian military and civilian targets. It added that Qatari officials are holding talks with Iranian authorities to help de-escalate tensions and create conditions for wider negotiations. The discussions are reportedly being conducted in coordination with the United States.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T04:08:42+00:00",
-        "link": "https://newsonair.gov.in/qatari-delegation-is-in-iran-aims-to-boost-mediation-role-iranian-media-says/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Palestinian Authority President Mahmoud Abbas announces legislative elections in late November",
-        "summary": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The […]",
-        "article": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The decree said the elections aim to strengthen democracy and complete the electoral process in Palestine.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:45:40+00:00",
-        "link": "https://newsonair.gov.in/palestinian-authority-president-mahmoud-abbas-announces-legislative-elections-in-late-november/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-3-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
-        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
-        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:12:43+00:00",
-        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FIH-Hockey-Pro-League.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "UK expresses concern over unrest in PoJK due to brutal crackdown on civilians by Pak security forces",
-        "summary": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party",
-        "article": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party leader and MP, Bob Blackman, said that Pakistani security forces had opened fire on peaceful demonstrators in PoJK, resulting in multiple deaths and injuries of civilians, including British nationals. He asked the British government whether it had summoned Pakistan&#8217;s High Commissioner over the reported violence and what steps had been taken to protect innocent bystanders. Raising the issue in a parliamentary debate, another UK lawmaker, Imran Hussain, voiced serious concern over continued bloodshed, arbitrary arrests and restrictions on communication in PoJK. Hussain said that reports suggesting restrictions on the movement of food and medical supplies into several parts of the region are deeply alarming. He emphasised that respect for the human rights of Kashmiris in PoJK must remain at the heart of any negotiations. The Joint Awami Action Committee, JAAC has warned Pakistan it will launch final action if its demands are unmet, inviting global observers to witness the situation. These demands include economic reforms, fair resource distribution, reduced paramilitary presence, and changes to legislative seat allocations. JAAC leader Sardar Aman Khan has sought humanitarian aid from India, citing shortages due to an alleged blockade and military crackdown. He accused Islamabad of hypocrisy for labelling activists as terrorists.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T14:31:52+00:00",
-        "link": "https://newsonair.gov.in/uk-expresses-concern-over-unrest-in-pojk-due-to-brutal-crackdown-on-civilians-by-pak-security-forces/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "PM Narendra Modi to address nation in Mann Ki Baat on 26 July",
+        "summary": "Prime Minister Narendra Modi will share his thoughts with the people of the country and abroad in the Mann Ki Baat programme on Akashvani on 26th July. It will be the 136th episode of the monthly radio programme. People can submit their ideas and suggestions for the programme through the toll-free number 1800-11-7800. They […]",
+        "article": "Prime Minister Narendra Modi will share his thoughts with the people of the country and abroad in the Mann Ki Baat programme on Akashvani on 26th July. It will be the 136th episode of the monthly radio programme. People can submit their ideas and suggestions for the programme through the toll-free number 1800-11-7800. They can also share their input online via the Narendra Modi App or the MyGov Open Forum. The citizens can also give a missed call on 1922 and follow the link received in SMS to directly give their suggestions to the Prime Minister. Suggestions for the upcoming episode will be accepted until the 24th of this month.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T14:34:18+00:00",
+        "link": "https://newsonair.gov.in/pm-narendra-modi-to-address-nation-in-mann-ki-baat-on-26-july/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Modi-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Afghanistan’s Minister of Agriculture, Mawlawi Ataullah Omari, concludes 6-day visit to India",
+        "summary": "Afghanistan&#8217;s Minister of Agriculture, Irrigation and Livestock, Mawlawi Ataullah Omari, concluded his six-day visit to India today. The External Affairs Ministry said the Afghan Minister was accompanied by a high-level delegation. This was the 4th ministerial-level visit from Afghanistan to India since October last year, reflecting the continued momentum in bilateral engagement. During the",
+        "article": "Afghanistan&#8217;s Minister of Agriculture, Irrigation and Livestock, Mawlawi Ataullah Omari, concluded his six-day visit to India today. The External Affairs Ministry said the Afghan Minister was accompanied by a high-level delegation. This was the 4th ministerial-level visit from Afghanistan to India since October last year, reflecting the continued momentum in bilateral engagement. During the visit, the Afghan Minister met with Agriculture and Farmers Welfare Minister Shivraj Singh Chouhan. The two sides reviewed ongoing cooperation and explored new avenues for collaboration in agriculture, irrigation, livestock, agricultural research, education, capacity building and agri-trade. Food security, seed systems and enhancement of crop productivity featured prominently in the discussions. India reiterated its commitment to supporting Afghanistan’s agricultural sector through cooperation in climate-resilient and bio-fortified crop varieties, sustainable irrigation practices, water harvesting, watershed development and other areas of mutual interest. The Afghan Minister also met the Minister of Food Processing Industries, Chirag Paswan. Their discussions focused on strengthening cooperation in food processing through value addition, infrastructure development, technology transfer, capacity building and promotion of bilateral trade in agricultural and food products. The Afghan Minister also met Minister of State for External Affairs, Pabitra Margherita. They exchanged views on ongoing bilateral cooperation aimed at supporting the welfare and development of the Afghan people.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:52:03+00:00",
+        "link": "https://newsonair.gov.in/afghanistans-minister-of-agriculture-mawlawi-ataullah-omari-concludes-6-day-visit-to-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNBs8BiaAAAjqPR.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government refutes fake claim on ethanol-blended petrol",
+        "summary": "The Government has refuted a fake image circulating on social media claiming that ethanol-blended petrol can cause problems in a vehicle&#8217;s fuel tank. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has termed the claim false. It said that the Ministry of Petroleum and Natural Gas has clarified that E20 petrol supplied by oil marketing […]",
+        "article": "The Government has refuted a fake image circulating on social media claiming that ethanol-blended petrol can cause problems in a vehicle&#8217;s fuel tank. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has termed the claim false. It said that the Ministry of Petroleum and Natural Gas has clarified that E20 petrol supplied by oil marketing companies conforms to the standards prescribed by the Bureau of Indian Standards (BIS). The Ministry said ethanol and petrol are completely miscible and do not separate or form layers when the fuel meets the prescribed standards. It further assured that ethanol-blended petrol supplied in India adheres to stringent quality standards and undergoes rigorous testing before being made available to consumers.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:46:54+00:00",
+        "link": "https://newsonair.gov.in/government-refutes-fake-claim-on-ethanol-blended-petrol/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Mansukh Mandaviya will inaugurate 7 ESI healthcare projects worth ₹668 crore",
+        "summary": "Union Minister for Labour and Employment, Dr Mansukh Mandaviya, will inaugurate seven Employees&#8217; State Insurance (ESI) healthcare projects worth around 668 crore rupees across the country on Tuesday. These projects include the new Outpatient Department (OPD) Block at the ESIC Hospital in Sanathnagar, Telangana; the upgraded 200-bed ESIC Hospital at Beltola, Assam; the 100-bed ESIC […]",
+        "article": "Union Minister for Labour and Employment, Dr Mansukh Mandaviya, will inaugurate seven Employees&#8217; State Insurance (ESI) healthcare projects worth around 668 crore rupees across the country on Tuesday. These projects include the new Outpatient Department (OPD) Block at the ESIC Hospital in Sanathnagar, Telangana; the upgraded 200-bed ESIC Hospital at Beltola, Assam; the 100-bed ESIC Hospital at Sriperumbudur, Tamil Nadu; the ESIS Hospital at Rajamahendravaram, Andhra Pradesh; the ESI Dispensary and Branch Office at Surendranagar, Gujarat; and the ESI Dispensary and Branch Office at Udyog Nagar, Kota, along with the ESI Dispensary at Bhawani Mandi in Rajasthan. The Ministry of Labour and Employment said Dr Mandaviya will be in Sanathnagar to inaugurate the new OPD Block at the ESIC Hospital, while the remaining six projects will be inaugurated virtually. The Ministry noted that these healthcare facilities will cater to the medical needs of around 53 lakh beneficiaries across the country. On the occasion, Dr Mandaviya will also honour construction workers who contributed to the development of the OPD Block at the ESIC Hospital in Sanathnagar, recognising their role in nation-building. He will also disburse cash benefits to ESI beneficiaries, reaffirming the government&#8217;s commitment to workers&#8217; welfare. Minister of State for Labour and Employment Shobha Karandlaje will also attend the event.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:31:42+00:00",
+        "link": "https://newsonair.gov.in/union-minister-mansukh-mandaviya-will-inaugurate-7-esi-healthcare-projects-worth-%e2%82%b9668-crore/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/12/Mansukh_Mandaviya_photo_2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Manohar Lal calls for adopting environmental friendly construction methods",
+        "summary": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength […]",
+        "article": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength should not be compromised. He called upon the officers and staff of the CPWD to work with full honesty and morality to enhance the credibility of the organisation. On the occasion, the Union Minister also virtually laid the foundation stone of the National Council for Public Works Building at Ghaziabad in Uttar Pradesh. The Secretary of the Ministry of Housing and Urban Affairs, Srinivas Katikithala and the Director General of CPWD were also present on the occasion.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:21:59+00:00",
+        "link": "https://newsonair.gov.in/union-minister-manohar-lal-calls-for-adopting-environmental-friendly-construction-methods/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "President Murmu expresses grief over demise of playback singer S Janaki Amma",
         "summary": "President Droupadi Murmu has expressed grief over the demise of playback singer S Janaki Amma. In a social media post, the President said that the country has lost a musical icon. The President added that S. Janaki Amma’s extraordinary singing enthralled generations. President Murmu said S. Janaki Amma’s illustrious career spanned more than six decades, […]",
@@ -144,7 +199,7 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T10:44:45+00:00",
         "link": "https://newsonair.gov.in/president-murmu-expresses-grief-over-demise-of-playback-singer-s-janaki-amma/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Droupadi-Murmu-1200x750-1.jpg",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Murmu-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -166,17 +221,6 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T08:19:50+00:00",
         "link": "https://newsonair.gov.in/india-condemns-attack-on-commercial-vessel-gfs-galaxy-off-coast-of-oman-10-indians-rescued-one-reported-missing-new-delhi-expresses-concern-over-continuing-attacks-on-commercial-shipping-in-the-reg/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
-        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi returns to New Delhi after concluding several agreements during his visit to Indonesia, Australia and New Zealand",
-        "summary": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress. The two nations exchanged MoUs […]",
-        "article": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress. The two nations exchanged MoUs and agreements in the fields of defense, critical and rare earth minerals, agriculture, maritime security and space. During his visit, Prime Minister Modi was conferred the highest civilian medal of honour, Bintang Adipurna of the Republic of Indonesia. In the second leg of his tour, Prime Minister Modi travelled to Melbourne, Australia, where he participated in the third India-Australia Annual Summit with the Australian Prime Minister. The visit also enabled the supply of Uranium from Australia to India. During the visit, Australian Super announced an investment of five hundred million Australian dollar to India&#8217;s National Investment and Infrastructure Fund. On the final leg of his three-nation visit, the Prime Minister visited Auckland. During the visit, the Prime Ministers of India and New Zealand announced the creation of the India-New Zealand Strategic Partnership and set a target to double bilateral trade by 2030.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:02:09+00:00",
-        "link": "https://newsonair.gov.in/pm-narendra-modi-returns-to-india-after-successfully-concluding-his-3-nation-visit-to-indonesia-australia-and-new-zealand/",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
         "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
         "source": "Prasar Bharati"
@@ -199,51 +243,6 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T08:29:51+00:00",
         "link": "https://newsonair.gov.in/union-minister-shivraj-singh-chouhan-to-participate-in-paryavaran-sanrakshan-sankalp-program-at-the-pusa-campus-in-new-delhi-today/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EPFO introduces 6-month Amnesty Scheme for establishments operating private provident fund trust, to regularise their status",
-        "summary": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating […]",
-        "article": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating a Provident Fund Trust recognised under the Income Tax Act, 1961. The Ministry said that eligible establishments shall submit a formal application through email to the concerned Regional Office. An &#8216;Exempted Provident Fund&#8217; is an employer-managed PF scheme that handles its own provident fund contributions internally through a private trust, rather than depositing them directly into EPFO. Akashvani correspondent reports that the EPFO&#8217;s introduced Amnesty Scheme provides a one-time opportunity for eligible establishments that have been operating recognised PF trusts to regularise their status retrospectively. It is intended to bring such trusts within a uniform statutory framework while ensuring compliance with the applicable legal provisions. For employees, the scheme is expected to provide greater certainty regarding the legal status of their employer&#8217;s provident fund trust. It also requires that member accounts should have received contributions and interest at par with or better than the statutory EPFO rates for the prescribed reliefs to apply. By regularising exempted PF trusts, the scheme is also expected to make the administration of provident fund benefits more streamlined and legally compliant.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:48:57+00:00",
-        "link": "https://newsonair.gov.in/epfo-invites-applications-for-amnesty-scheme-from-provident-fund-trusts/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani dies at 74; PM Modi condoles the demise of father of Emir of Qatar",
-        "summary": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, […]",
-        "article": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, Qatar emerged as a global energy powerhouse, launched the Al Jazeera news network, expanded its international investments, and successfully hosted the 2022 FIFA World Cup. Prime Minister Narendra Modi expressed grief over the demise of the Emir of Qatar, Sheikh Hamad binKhalifa Al Thani. In a social media post, Mr Modi said that Sheikh Hamad binKhalifa Al Thani was a visionary leader who led Qatar to great levels of development and prosperity. The Prime Minister added that India remembers him as a true friend. Mr Modi conveyed his condolences to the Amir of Qatar, Sheikh Tamim bin Hamad Al Thani and the entire royal family and people of Qatar. &nbsp; &nbsp;",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:46:19+00:00",
-        "link": "https://newsonair.gov.in/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74-pm-modi-condoles-the-demise-of-father-of-emir-of-qatar/",
-        "post_id": 1733616,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt debunks fake approval letter, claiming to grant loan under PMMY on payment of RS 350 as processing fee",
-        "summary": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro […]",
-        "article": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro Units Development and Refinance Agency (MUDRA) does not lend directly to micro-entrepreneurs or individuals. It noted that MUDRA provides refinancing support to last-mile financiers, including Non-Banking Financial Companies, Microfinance Institutions, societies, trusts, Section 8 companies, small finance banks, and regional rural banks, which in turn extend loans to micro and small business entities engaged in manufacturing, trading, services, and agri-allied activities. PIB urged citizens to be aware of such fake news and advised them not to transfer money based on such messages and also not to share personal or banking details.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:28:21+00:00",
-        "link": "https://newsonair.gov.in/govt-debunks-fake-approval-letter-claiming-to-grant-loan-under-pmmy-on-payment-of-rs-350-as-processing-fee/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India lifts special travel conditions for Yemen, withdraws 2017 notification",
-        "summary": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the […]",
-        "article": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the Ministry of External Affairs said that it continues to advise all Indian nationals to refrain from non-essential travel to Yemen. MEA said that if travel is unavoidable, it should be undertaken only after a thorough assessment of the local security situation and travel to active conflict zones must be avoided. The Ministry advised Indian nationals residing in Yemen to be alert and to restrict their movements within Yemen. MEA also advised Indian nationals in Yemen and those who need to travel to Yemen to register with the Embassy of India in Riyadh to facilitate better communication and assistance in case of emergencies.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T05:57:28+00:00",
-        "link": "https://newsonair.gov.in/india-lifts-special-travel-conditions-for-yemen-withdraws-2017-notification/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -251,13 +250,68 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "PM Narendra Modi to address nation in Mann Ki Baat on 26 July",
+        "summary": "Prime Minister Narendra Modi will share his thoughts with the people of the country and abroad in the Mann Ki Baat programme on Akashvani on 26th July. It will be the 136th episode of the monthly radio programme. People can submit their ideas and suggestions for the programme through the toll-free number 1800-11-7800. They […]",
+        "article": "Prime Minister Narendra Modi will share his thoughts with the people of the country and abroad in the Mann Ki Baat programme on Akashvani on 26th July. It will be the 136th episode of the monthly radio programme. People can submit their ideas and suggestions for the programme through the toll-free number 1800-11-7800. They can also share their input online via the Narendra Modi App or the MyGov Open Forum. The citizens can also give a missed call on 1922 and follow the link received in SMS to directly give their suggestions to the Prime Minister. Suggestions for the upcoming episode will be accepted until the 24th of this month.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T14:34:18+00:00",
+        "link": "https://newsonair.gov.in/pm-narendra-modi-to-address-nation-in-mann-ki-baat-on-26-july/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Modi-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Afghanistan’s Minister of Agriculture, Mawlawi Ataullah Omari, concludes 6-day visit to India",
+        "summary": "Afghanistan&#8217;s Minister of Agriculture, Irrigation and Livestock, Mawlawi Ataullah Omari, concluded his six-day visit to India today. The External Affairs Ministry said the Afghan Minister was accompanied by a high-level delegation. This was the 4th ministerial-level visit from Afghanistan to India since October last year, reflecting the continued momentum in bilateral engagement. During the",
+        "article": "Afghanistan&#8217;s Minister of Agriculture, Irrigation and Livestock, Mawlawi Ataullah Omari, concluded his six-day visit to India today. The External Affairs Ministry said the Afghan Minister was accompanied by a high-level delegation. This was the 4th ministerial-level visit from Afghanistan to India since October last year, reflecting the continued momentum in bilateral engagement. During the visit, the Afghan Minister met with Agriculture and Farmers Welfare Minister Shivraj Singh Chouhan. The two sides reviewed ongoing cooperation and explored new avenues for collaboration in agriculture, irrigation, livestock, agricultural research, education, capacity building and agri-trade. Food security, seed systems and enhancement of crop productivity featured prominently in the discussions. India reiterated its commitment to supporting Afghanistan’s agricultural sector through cooperation in climate-resilient and bio-fortified crop varieties, sustainable irrigation practices, water harvesting, watershed development and other areas of mutual interest. The Afghan Minister also met the Minister of Food Processing Industries, Chirag Paswan. Their discussions focused on strengthening cooperation in food processing through value addition, infrastructure development, technology transfer, capacity building and promotion of bilateral trade in agricultural and food products. The Afghan Minister also met Minister of State for External Affairs, Pabitra Margherita. They exchanged views on ongoing bilateral cooperation aimed at supporting the welfare and development of the Afghan people.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:52:03+00:00",
+        "link": "https://newsonair.gov.in/afghanistans-minister-of-agriculture-mawlawi-ataullah-omari-concludes-6-day-visit-to-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNBs8BiaAAAjqPR.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government refutes fake claim on ethanol-blended petrol",
+        "summary": "The Government has refuted a fake image circulating on social media claiming that ethanol-blended petrol can cause problems in a vehicle&#8217;s fuel tank. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has termed the claim false. It said that the Ministry of Petroleum and Natural Gas has clarified that E20 petrol supplied by oil marketing […]",
+        "article": "The Government has refuted a fake image circulating on social media claiming that ethanol-blended petrol can cause problems in a vehicle&#8217;s fuel tank. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has termed the claim false. It said that the Ministry of Petroleum and Natural Gas has clarified that E20 petrol supplied by oil marketing companies conforms to the standards prescribed by the Bureau of Indian Standards (BIS). The Ministry said ethanol and petrol are completely miscible and do not separate or form layers when the fuel meets the prescribed standards. It further assured that ethanol-blended petrol supplied in India adheres to stringent quality standards and undergoes rigorous testing before being made available to consumers.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:46:54+00:00",
+        "link": "https://newsonair.gov.in/government-refutes-fake-claim-on-ethanol-blended-petrol/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Mansukh Mandaviya will inaugurate 7 ESI healthcare projects worth ₹668 crore",
+        "summary": "Union Minister for Labour and Employment, Dr Mansukh Mandaviya, will inaugurate seven Employees&#8217; State Insurance (ESI) healthcare projects worth around 668 crore rupees across the country on Tuesday. These projects include the new Outpatient Department (OPD) Block at the ESIC Hospital in Sanathnagar, Telangana; the upgraded 200-bed ESIC Hospital at Beltola, Assam; the 100-bed ESIC […]",
+        "article": "Union Minister for Labour and Employment, Dr Mansukh Mandaviya, will inaugurate seven Employees&#8217; State Insurance (ESI) healthcare projects worth around 668 crore rupees across the country on Tuesday. These projects include the new Outpatient Department (OPD) Block at the ESIC Hospital in Sanathnagar, Telangana; the upgraded 200-bed ESIC Hospital at Beltola, Assam; the 100-bed ESIC Hospital at Sriperumbudur, Tamil Nadu; the ESIS Hospital at Rajamahendravaram, Andhra Pradesh; the ESI Dispensary and Branch Office at Surendranagar, Gujarat; and the ESI Dispensary and Branch Office at Udyog Nagar, Kota, along with the ESI Dispensary at Bhawani Mandi in Rajasthan. The Ministry of Labour and Employment said Dr Mandaviya will be in Sanathnagar to inaugurate the new OPD Block at the ESIC Hospital, while the remaining six projects will be inaugurated virtually. The Ministry noted that these healthcare facilities will cater to the medical needs of around 53 lakh beneficiaries across the country. On the occasion, Dr Mandaviya will also honour construction workers who contributed to the development of the OPD Block at the ESIC Hospital in Sanathnagar, recognising their role in nation-building. He will also disburse cash benefits to ESI beneficiaries, reaffirming the government&#8217;s commitment to workers&#8217; welfare. Minister of State for Labour and Employment Shobha Karandlaje will also attend the event.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:31:42+00:00",
+        "link": "https://newsonair.gov.in/union-minister-mansukh-mandaviya-will-inaugurate-7-esi-healthcare-projects-worth-%e2%82%b9668-crore/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/12/Mansukh_Mandaviya_photo_2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Manohar Lal calls for adopting environmental friendly construction methods",
+        "summary": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength […]",
+        "article": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength should not be compromised. He called upon the officers and staff of the CPWD to work with full honesty and morality to enhance the credibility of the organisation. On the occasion, the Union Minister also virtually laid the foundation stone of the National Council for Public Works Building at Ghaziabad in Uttar Pradesh. The Secretary of the Ministry of Housing and Urban Affairs, Srinivas Katikithala and the Director General of CPWD were also present on the occasion.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:21:59+00:00",
+        "link": "https://newsonair.gov.in/union-minister-manohar-lal-calls-for-adopting-environmental-friendly-construction-methods/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "President Murmu expresses grief over demise of playback singer S Janaki Amma",
         "summary": "President Droupadi Murmu has expressed grief over the demise of playback singer S Janaki Amma. In a social media post, the President said that the country has lost a musical icon. The President added that S. Janaki Amma’s extraordinary singing enthralled generations. President Murmu said S. Janaki Amma’s illustrious career spanned more than six decades, […]",
         "article": "President Droupadi Murmu has expressed grief over the demise of playback singer S Janaki Amma. In a social media post, the President said that the country has lost a musical icon. The President added that S. Janaki Amma’s extraordinary singing enthralled generations. President Murmu said S. Janaki Amma’s illustrious career spanned more than six decades, during which she recorded thousands of songs in nearly 20 Indian languages, including Hindi, Odia, Tulu, Urdu, Punjabi and Bengali. The President said that her timeless music will always remain valuable.",
         "date": "2026-07-12",
         "pubDate": "2026-07-12T10:44:45+00:00",
         "link": "https://newsonair.gov.in/president-murmu-expresses-grief-over-demise-of-playback-singer-s-janaki-amma/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Droupadi-Murmu-1200x750-1.jpg",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Murmu-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -284,17 +338,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "PM Modi returns to New Delhi after concluding several agreements during his visit to Indonesia, Australia and New Zealand",
-        "summary": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress. The two nations exchanged MoUs […]",
-        "article": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress. The two nations exchanged MoUs and agreements in the fields of defense, critical and rare earth minerals, agriculture, maritime security and space. During his visit, Prime Minister Modi was conferred the highest civilian medal of honour, Bintang Adipurna of the Republic of Indonesia. In the second leg of his tour, Prime Minister Modi travelled to Melbourne, Australia, where he participated in the third India-Australia Annual Summit with the Australian Prime Minister. The visit also enabled the supply of Uranium from Australia to India. During the visit, Australian Super announced an investment of five hundred million Australian dollar to India&#8217;s National Investment and Infrastructure Fund. On the final leg of his three-nation visit, the Prime Minister visited Auckland. During the visit, the Prime Ministers of India and New Zealand announced the creation of the India-New Zealand Strategic Partnership and set a target to double bilateral trade by 2030.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:02:09+00:00",
-        "link": "https://newsonair.gov.in/pm-narendra-modi-returns-to-india-after-successfully-concluding-his-3-nation-visit-to-indonesia-australia-and-new-zealand/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
-        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Union Minister Piyush Goyal will lead business delegation to Spain, Belgium and Finland from tomorrow",
         "summary": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation to Spain, Belgium and Finland from tomorrow till the 17th of this month. The Ministry of Commerce and Industry said that the visit aims to strengthen India&#8217;s economic partnerships with Europe with a focus on trade, investment, technology, innovation and sustainability. […]",
         "article": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation to Spain, Belgium and Finland from tomorrow till the 17th of this month. The Ministry of Commerce and Industry said that the visit aims to strengthen India&#8217;s economic partnerships with Europe with a focus on trade, investment, technology, innovation and sustainability. In the first leg of his tour, Mr Goyal will visit Spain tomorrow, where he will participate in a Business Roundtable with the Chamber of Commerce of Spain, CEOE and ICEX Spain Trade and Investment. The session will bring together Spanish and Indian industry leaders to explore opportunities in automotive, renewable energy, railways, artificial intelligence, semiconductors, food processing, and tourism. The Minister will then visit Belgium on the 14th and 15th of this month. He will hold meetings with the leadership of Thales Group and Silox Group. The programme includes participation in the India-EU Business Roundtable and the Trade and Technology Council Plenary, where discussions will centre on foreign investment, trade facilitation, sustainable technologies and resilient supply chains. Thereafter, Mr Goyal will visit Finland on the 16th and 17th of this month. He will attend the India-Finland Business Roundtable. The Minister will visit leading Finnish companies and research institutions, including Nokia, Kone, Kemppi Group and VTT Research Centre, to explore collaboration in telecommunications, advanced manufacturing, clean energy, mobility and innovation.",
@@ -312,51 +355,6 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T08:29:51+00:00",
         "link": "https://newsonair.gov.in/union-minister-shivraj-singh-chouhan-to-participate-in-paryavaran-sanrakshan-sankalp-program-at-the-pusa-campus-in-new-delhi-today/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EPFO introduces 6-month Amnesty Scheme for establishments operating private provident fund trust, to regularise their status",
-        "summary": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating […]",
-        "article": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating a Provident Fund Trust recognised under the Income Tax Act, 1961. The Ministry said that eligible establishments shall submit a formal application through email to the concerned Regional Office. An &#8216;Exempted Provident Fund&#8217; is an employer-managed PF scheme that handles its own provident fund contributions internally through a private trust, rather than depositing them directly into EPFO. Akashvani correspondent reports that the EPFO&#8217;s introduced Amnesty Scheme provides a one-time opportunity for eligible establishments that have been operating recognised PF trusts to regularise their status retrospectively. It is intended to bring such trusts within a uniform statutory framework while ensuring compliance with the applicable legal provisions. For employees, the scheme is expected to provide greater certainty regarding the legal status of their employer&#8217;s provident fund trust. It also requires that member accounts should have received contributions and interest at par with or better than the statutory EPFO rates for the prescribed reliefs to apply. By regularising exempted PF trusts, the scheme is also expected to make the administration of provident fund benefits more streamlined and legally compliant.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:48:57+00:00",
-        "link": "https://newsonair.gov.in/epfo-invites-applications-for-amnesty-scheme-from-provident-fund-trusts/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani dies at 74; PM Modi condoles the demise of father of Emir of Qatar",
-        "summary": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, […]",
-        "article": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, Qatar emerged as a global energy powerhouse, launched the Al Jazeera news network, expanded its international investments, and successfully hosted the 2022 FIFA World Cup. Prime Minister Narendra Modi expressed grief over the demise of the Emir of Qatar, Sheikh Hamad binKhalifa Al Thani. In a social media post, Mr Modi said that Sheikh Hamad binKhalifa Al Thani was a visionary leader who led Qatar to great levels of development and prosperity. The Prime Minister added that India remembers him as a true friend. Mr Modi conveyed his condolences to the Amir of Qatar, Sheikh Tamim bin Hamad Al Thani and the entire royal family and people of Qatar. &nbsp; &nbsp;",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:46:19+00:00",
-        "link": "https://newsonair.gov.in/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74-pm-modi-condoles-the-demise-of-father-of-emir-of-qatar/",
-        "post_id": 1733616,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt debunks fake approval letter, claiming to grant loan under PMMY on payment of RS 350 as processing fee",
-        "summary": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro […]",
-        "article": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro Units Development and Refinance Agency (MUDRA) does not lend directly to micro-entrepreneurs or individuals. It noted that MUDRA provides refinancing support to last-mile financiers, including Non-Banking Financial Companies, Microfinance Institutions, societies, trusts, Section 8 companies, small finance banks, and regional rural banks, which in turn extend loans to micro and small business entities engaged in manufacturing, trading, services, and agri-allied activities. PIB urged citizens to be aware of such fake news and advised them not to transfer money based on such messages and also not to share personal or banking details.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:28:21+00:00",
-        "link": "https://newsonair.gov.in/govt-debunks-fake-approval-letter-claiming-to-grant-loan-under-pmmy-on-payment-of-rs-350-as-processing-fee/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India lifts special travel conditions for Yemen, withdraws 2017 notification",
-        "summary": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the […]",
-        "article": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the Ministry of External Affairs said that it continues to advise all Indian nationals to refrain from non-essential travel to Yemen. MEA said that if travel is unavoidable, it should be undertaken only after a thorough assessment of the local security situation and travel to active conflict zones must be avoided. The Ministry advised Indian nationals residing in Yemen to be alert and to restrict their movements within Yemen. MEA also advised Indian nationals in Yemen and those who need to travel to Yemen to register with the Embassy of India in Riyadh to facilitate better communication and assistance in case of emergencies.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T05:57:28+00:00",
-        "link": "https://newsonair.gov.in/india-lifts-special-travel-conditions-for-yemen-withdraws-2017-notification/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -364,13 +362,68 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "PM Narendra Modi to address nation in Mann Ki Baat on 26 July",
+        "summary": "Prime Minister Narendra Modi will share his thoughts with the people of the country and abroad in the Mann Ki Baat programme on Akashvani on 26th July. It will be the 136th episode of the monthly radio programme. People can submit their ideas and suggestions for the programme through the toll-free number 1800-11-7800. They […]",
+        "article": "Prime Minister Narendra Modi will share his thoughts with the people of the country and abroad in the Mann Ki Baat programme on Akashvani on 26th July. It will be the 136th episode of the monthly radio programme. People can submit their ideas and suggestions for the programme through the toll-free number 1800-11-7800. They can also share their input online via the Narendra Modi App or the MyGov Open Forum. The citizens can also give a missed call on 1922 and follow the link received in SMS to directly give their suggestions to the Prime Minister. Suggestions for the upcoming episode will be accepted until the 24th of this month.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T14:34:18+00:00",
+        "link": "https://newsonair.gov.in/pm-narendra-modi-to-address-nation-in-mann-ki-baat-on-26-july/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Modi-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Afghanistan’s Minister of Agriculture, Mawlawi Ataullah Omari, concludes 6-day visit to India",
+        "summary": "Afghanistan&#8217;s Minister of Agriculture, Irrigation and Livestock, Mawlawi Ataullah Omari, concluded his six-day visit to India today. The External Affairs Ministry said the Afghan Minister was accompanied by a high-level delegation. This was the 4th ministerial-level visit from Afghanistan to India since October last year, reflecting the continued momentum in bilateral engagement. During the",
+        "article": "Afghanistan&#8217;s Minister of Agriculture, Irrigation and Livestock, Mawlawi Ataullah Omari, concluded his six-day visit to India today. The External Affairs Ministry said the Afghan Minister was accompanied by a high-level delegation. This was the 4th ministerial-level visit from Afghanistan to India since October last year, reflecting the continued momentum in bilateral engagement. During the visit, the Afghan Minister met with Agriculture and Farmers Welfare Minister Shivraj Singh Chouhan. The two sides reviewed ongoing cooperation and explored new avenues for collaboration in agriculture, irrigation, livestock, agricultural research, education, capacity building and agri-trade. Food security, seed systems and enhancement of crop productivity featured prominently in the discussions. India reiterated its commitment to supporting Afghanistan’s agricultural sector through cooperation in climate-resilient and bio-fortified crop varieties, sustainable irrigation practices, water harvesting, watershed development and other areas of mutual interest. The Afghan Minister also met the Minister of Food Processing Industries, Chirag Paswan. Their discussions focused on strengthening cooperation in food processing through value addition, infrastructure development, technology transfer, capacity building and promotion of bilateral trade in agricultural and food products. The Afghan Minister also met Minister of State for External Affairs, Pabitra Margherita. They exchanged views on ongoing bilateral cooperation aimed at supporting the welfare and development of the Afghan people.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:52:03+00:00",
+        "link": "https://newsonair.gov.in/afghanistans-minister-of-agriculture-mawlawi-ataullah-omari-concludes-6-day-visit-to-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNBs8BiaAAAjqPR.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government refutes fake claim on ethanol-blended petrol",
+        "summary": "The Government has refuted a fake image circulating on social media claiming that ethanol-blended petrol can cause problems in a vehicle&#8217;s fuel tank. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has termed the claim false. It said that the Ministry of Petroleum and Natural Gas has clarified that E20 petrol supplied by oil marketing […]",
+        "article": "The Government has refuted a fake image circulating on social media claiming that ethanol-blended petrol can cause problems in a vehicle&#8217;s fuel tank. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has termed the claim false. It said that the Ministry of Petroleum and Natural Gas has clarified that E20 petrol supplied by oil marketing companies conforms to the standards prescribed by the Bureau of Indian Standards (BIS). The Ministry said ethanol and petrol are completely miscible and do not separate or form layers when the fuel meets the prescribed standards. It further assured that ethanol-blended petrol supplied in India adheres to stringent quality standards and undergoes rigorous testing before being made available to consumers.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:46:54+00:00",
+        "link": "https://newsonair.gov.in/government-refutes-fake-claim-on-ethanol-blended-petrol/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Mansukh Mandaviya will inaugurate 7 ESI healthcare projects worth ₹668 crore",
+        "summary": "Union Minister for Labour and Employment, Dr Mansukh Mandaviya, will inaugurate seven Employees&#8217; State Insurance (ESI) healthcare projects worth around 668 crore rupees across the country on Tuesday. These projects include the new Outpatient Department (OPD) Block at the ESIC Hospital in Sanathnagar, Telangana; the upgraded 200-bed ESIC Hospital at Beltola, Assam; the 100-bed ESIC […]",
+        "article": "Union Minister for Labour and Employment, Dr Mansukh Mandaviya, will inaugurate seven Employees&#8217; State Insurance (ESI) healthcare projects worth around 668 crore rupees across the country on Tuesday. These projects include the new Outpatient Department (OPD) Block at the ESIC Hospital in Sanathnagar, Telangana; the upgraded 200-bed ESIC Hospital at Beltola, Assam; the 100-bed ESIC Hospital at Sriperumbudur, Tamil Nadu; the ESIS Hospital at Rajamahendravaram, Andhra Pradesh; the ESI Dispensary and Branch Office at Surendranagar, Gujarat; and the ESI Dispensary and Branch Office at Udyog Nagar, Kota, along with the ESI Dispensary at Bhawani Mandi in Rajasthan. The Ministry of Labour and Employment said Dr Mandaviya will be in Sanathnagar to inaugurate the new OPD Block at the ESIC Hospital, while the remaining six projects will be inaugurated virtually. The Ministry noted that these healthcare facilities will cater to the medical needs of around 53 lakh beneficiaries across the country. On the occasion, Dr Mandaviya will also honour construction workers who contributed to the development of the OPD Block at the ESIC Hospital in Sanathnagar, recognising their role in nation-building. He will also disburse cash benefits to ESI beneficiaries, reaffirming the government&#8217;s commitment to workers&#8217; welfare. Minister of State for Labour and Employment Shobha Karandlaje will also attend the event.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:31:42+00:00",
+        "link": "https://newsonair.gov.in/union-minister-mansukh-mandaviya-will-inaugurate-7-esi-healthcare-projects-worth-%e2%82%b9668-crore/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/12/Mansukh_Mandaviya_photo_2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Manohar Lal calls for adopting environmental friendly construction methods",
+        "summary": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength […]",
+        "article": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength should not be compromised. He called upon the officers and staff of the CPWD to work with full honesty and morality to enhance the credibility of the organisation. On the occasion, the Union Minister also virtually laid the foundation stone of the National Council for Public Works Building at Ghaziabad in Uttar Pradesh. The Secretary of the Ministry of Housing and Urban Affairs, Srinivas Katikithala and the Director General of CPWD were also present on the occasion.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:21:59+00:00",
+        "link": "https://newsonair.gov.in/union-minister-manohar-lal-calls-for-adopting-environmental-friendly-construction-methods/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "President Murmu expresses grief over demise of playback singer S Janaki Amma",
         "summary": "President Droupadi Murmu has expressed grief over the demise of playback singer S Janaki Amma. In a social media post, the President said that the country has lost a musical icon. The President added that S. Janaki Amma’s extraordinary singing enthralled generations. President Murmu said S. Janaki Amma’s illustrious career spanned more than six decades, […]",
         "article": "President Droupadi Murmu has expressed grief over the demise of playback singer S Janaki Amma. In a social media post, the President said that the country has lost a musical icon. The President added that S. Janaki Amma’s extraordinary singing enthralled generations. President Murmu said S. Janaki Amma’s illustrious career spanned more than six decades, during which she recorded thousands of songs in nearly 20 Indian languages, including Hindi, Odia, Tulu, Urdu, Punjabi and Bengali. The President said that her timeless music will always remain valuable.",
         "date": "2026-07-12",
         "pubDate": "2026-07-12T10:44:45+00:00",
         "link": "https://newsonair.gov.in/president-murmu-expresses-grief-over-demise-of-playback-singer-s-janaki-amma/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Droupadi-Murmu-1200x750-1.jpg",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Murmu-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -397,17 +450,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "PM Modi returns to New Delhi after concluding several agreements during his visit to Indonesia, Australia and New Zealand",
-        "summary": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress. The two nations exchanged MoUs […]",
-        "article": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress. The two nations exchanged MoUs and agreements in the fields of defense, critical and rare earth minerals, agriculture, maritime security and space. During his visit, Prime Minister Modi was conferred the highest civilian medal of honour, Bintang Adipurna of the Republic of Indonesia. In the second leg of his tour, Prime Minister Modi travelled to Melbourne, Australia, where he participated in the third India-Australia Annual Summit with the Australian Prime Minister. The visit also enabled the supply of Uranium from Australia to India. During the visit, Australian Super announced an investment of five hundred million Australian dollar to India&#8217;s National Investment and Infrastructure Fund. On the final leg of his three-nation visit, the Prime Minister visited Auckland. During the visit, the Prime Ministers of India and New Zealand announced the creation of the India-New Zealand Strategic Partnership and set a target to double bilateral trade by 2030.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:02:09+00:00",
-        "link": "https://newsonair.gov.in/pm-narendra-modi-returns-to-india-after-successfully-concluding-his-3-nation-visit-to-indonesia-australia-and-new-zealand/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
-        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Union Minister Piyush Goyal will lead business delegation to Spain, Belgium and Finland from tomorrow",
         "summary": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation to Spain, Belgium and Finland from tomorrow till the 17th of this month. The Ministry of Commerce and Industry said that the visit aims to strengthen India&#8217;s economic partnerships with Europe with a focus on trade, investment, technology, innovation and sustainability. […]",
         "article": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation to Spain, Belgium and Finland from tomorrow till the 17th of this month. The Ministry of Commerce and Industry said that the visit aims to strengthen India&#8217;s economic partnerships with Europe with a focus on trade, investment, technology, innovation and sustainability. In the first leg of his tour, Mr Goyal will visit Spain tomorrow, where he will participate in a Business Roundtable with the Chamber of Commerce of Spain, CEOE and ICEX Spain Trade and Investment. The session will bring together Spanish and Indian industry leaders to explore opportunities in automotive, renewable energy, railways, artificial intelligence, semiconductors, food processing, and tourism. The Minister will then visit Belgium on the 14th and 15th of this month. He will hold meetings with the leadership of Thales Group and Silox Group. The programme includes participation in the India-EU Business Roundtable and the Trade and Technology Council Plenary, where discussions will centre on foreign investment, trade facilitation, sustainable technologies and resilient supply chains. Thereafter, Mr Goyal will visit Finland on the 16th and 17th of this month. He will attend the India-Finland Business Roundtable. The Minister will visit leading Finnish companies and research institutions, including Nokia, Kone, Kemppi Group and VTT Research Centre, to explore collaboration in telecommunications, advanced manufacturing, clean energy, mobility and innovation.",
@@ -428,54 +470,53 @@ window.VM_NEWS = {
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "EPFO introduces 6-month Amnesty Scheme for establishments operating private provident fund trust, to regularise their status",
-        "summary": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating […]",
-        "article": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating a Provident Fund Trust recognised under the Income Tax Act, 1961. The Ministry said that eligible establishments shall submit a formal application through email to the concerned Regional Office. An &#8216;Exempted Provident Fund&#8217; is an employer-managed PF scheme that handles its own provident fund contributions internally through a private trust, rather than depositing them directly into EPFO. Akashvani correspondent reports that the EPFO&#8217;s introduced Amnesty Scheme provides a one-time opportunity for eligible establishments that have been operating recognised PF trusts to regularise their status retrospectively. It is intended to bring such trusts within a uniform statutory framework while ensuring compliance with the applicable legal provisions. For employees, the scheme is expected to provide greater certainty regarding the legal status of their employer&#8217;s provident fund trust. It also requires that member accounts should have received contributions and interest at par with or better than the statutory EPFO rates for the prescribed reliefs to apply. By regularising exempted PF trusts, the scheme is also expected to make the administration of provident fund benefits more streamlined and legally compliant.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:48:57+00:00",
-        "link": "https://newsonair.gov.in/epfo-invites-applications-for-amnesty-scheme-from-provident-fund-trusts/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani dies at 74; PM Modi condoles the demise of father of Emir of Qatar",
-        "summary": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, […]",
-        "article": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, Qatar emerged as a global energy powerhouse, launched the Al Jazeera news network, expanded its international investments, and successfully hosted the 2022 FIFA World Cup. Prime Minister Narendra Modi expressed grief over the demise of the Emir of Qatar, Sheikh Hamad binKhalifa Al Thani. In a social media post, Mr Modi said that Sheikh Hamad binKhalifa Al Thani was a visionary leader who led Qatar to great levels of development and prosperity. The Prime Minister added that India remembers him as a true friend. Mr Modi conveyed his condolences to the Amir of Qatar, Sheikh Tamim bin Hamad Al Thani and the entire royal family and people of Qatar. &nbsp; &nbsp;",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:46:19+00:00",
-        "link": "https://newsonair.gov.in/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74-pm-modi-condoles-the-demise-of-father-of-emir-of-qatar/",
-        "post_id": 1733616,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt debunks fake approval letter, claiming to grant loan under PMMY on payment of RS 350 as processing fee",
-        "summary": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro […]",
-        "article": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro Units Development and Refinance Agency (MUDRA) does not lend directly to micro-entrepreneurs or individuals. It noted that MUDRA provides refinancing support to last-mile financiers, including Non-Banking Financial Companies, Microfinance Institutions, societies, trusts, Section 8 companies, small finance banks, and regional rural banks, which in turn extend loans to micro and small business entities engaged in manufacturing, trading, services, and agri-allied activities. PIB urged citizens to be aware of such fake news and advised them not to transfer money based on such messages and also not to share personal or banking details.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:28:21+00:00",
-        "link": "https://newsonair.gov.in/govt-debunks-fake-approval-letter-claiming-to-grant-loan-under-pmmy-on-payment-of-rs-350-as-processing-fee/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India lifts special travel conditions for Yemen, withdraws 2017 notification",
-        "summary": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the […]",
-        "article": "The Ministry of External Affairs (MEA) has withdrawn the 2017 notification that imposed certain conditions on Indian citizens travelling to Yemen. The notification was issued after the civil war and armed conflict in Yemen severely deteriorated the security environment, leading India to regulate travel by its citizens to the country. However, in an advisory, the Ministry of External Affairs said that it continues to advise all Indian nationals to refrain from non-essential travel to Yemen. MEA said that if travel is unavoidable, it should be undertaken only after a thorough assessment of the local security situation and travel to active conflict zones must be avoided. The Ministry advised Indian nationals residing in Yemen to be alert and to restrict their movements within Yemen. MEA also advised Indian nationals in Yemen and those who need to travel to Yemen to register with the Embassy of India in Riyadh to facilitate better communication and assistance in case of emergencies.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T05:57:28+00:00",
-        "link": "https://newsonair.gov.in/india-lifts-special-travel-conditions-for-yemen-withdraws-2017-notification/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "US says Strait of Hormuz open to all vessels and American military ready to ensure freedom of navigation",
+        "summary": "The US Central Command (CENTCOM) has said that the Strait of Hormuz remains open to all vessels seeking lawful passage hours after Iran&#8217;s Islamic Revolutionary Guard Corps (IRGC) announced the closure of the strategic waterway until further notice. The statement came after US President Donald Trump said in a press meeting that the Strait of […]",
+        "article": "The US Central Command (CENTCOM) has said that the Strait of Hormuz remains open to all vessels seeking lawful passage hours after Iran&#8217;s Islamic Revolutionary Guard Corps (IRGC) announced the closure of the strategic waterway until further notice. The statement came after US President Donald Trump said in a press meeting that the Strait of Hormuz remains open to commercial shipping. In a social media post, CENTCOM said maritime traffic continues to flow through the strait and that US forces are positioned to ensure freedom of navigation despite what it described as Iranian aggression, harassment, threats and arbitrary declarations. It asserted that Iran does not control the Strait of Hormuz and that safe transit routes remain open. CENTCOM added that US forces have facilitated the passage of more than 800 ships and over 400 million barrels of crude oil through the waterway over the past two months. Earlier, the United States carried out fresh airstrikes on Iran after Tehran attacked a commercial vessel in the Strait of Hormuz, setting it on fire and forcing its crew to abandon ship. According to CENTCOM, the strikes targeted around 140 Iranian military sites, including missile, drone and communications facilities. Iran responded with missile and drone attacks targeting Bahrain, Kuwait, Qatar and the United Arab Emirates. Qatar and Kuwait said they intercepted the incoming projectiles, while Bahrain activated missile alerts. Iran also claimed to have struck a US military base in Jordan. The latest escalation has heightened concerns over regional security and global energy markets, as the Strait of Hormuz is a critical shipping route for a significant share of the world&#8217;s oil and natural gas trade.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T15:23:18+00:00",
+        "link": "https://newsonair.gov.in/us-says-strait-of-hormuz-open-to-all-vessels-and-american-military-ready-to-ensure-freedom-of-navigation/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/strait-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Bangladesh flood death toll rises to 44",
+        "summary": "In Bangladesh, 44 people have died in floods and landslides across the country over the past week. Several casualties were caused by landslides, while most others either drowned or were washed away due to floods and overflowing rivers. The country&#8217;s Disaster Management Ministry spokesman said that around 267,000 families have been affected due to the […]",
+        "article": "In Bangladesh, 44 people have died in floods and landslides across the country over the past week. Several casualties were caused by landslides, while most others either drowned or were washed away due to floods and overflowing rivers. The country&#8217;s Disaster Management Ministry spokesman said that around 267,000 families have been affected due to the flood. Heavy overnight rainfall flooded parts of the capital, Dhaka, disrupting normal life as the Army, Navy, and Air Force joined relief operations in the seven worst-hit districts along with local humanitarian agencies. The Flood Forecasting and Warning Centre (FFWC) warned that worsening river levels could trigger further flooding in several north and north-western districts, while the situation in the northeastern and northwestern region could deteriorate further.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T13:18:17+00:00",
+        "link": "https://newsonair.gov.in/bangladesh-flood-death-toll-rises-to-44/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Akashwani-news.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "China: Typhoon Bavi weakens into tropical storm in Zhejiang province",
+        "summary": "In China, Typhoon Bavi has weakened into a tropical storm hours after making landfall in Zhejiang province. However, it continues to bring strong winds and heavy rainfall to several parts of the country. China&#8217;s National Meteorological Centre said the storm is moving northwest across eastern China into Anhui province while steadily losing strength. Heavy to […]",
+        "article": "In China, Typhoon Bavi has weakened into a tropical storm hours after making landfall in Zhejiang province. However, it continues to bring strong winds and heavy rainfall to several parts of the country. China&#8217;s National Meteorological Centre said the storm is moving northwest across eastern China into Anhui province while steadily losing strength. Heavy to torrential rainfall and strong winds are expected to affect many cities in eastern and northeastern China over the next two days. In Anhui and several neighbouring provinces, heavy rain has already been recorded. Around 653 inbound and outbound flights at Shanghai&#8217;s Pudong and Hongqiao international airports are likely to be cancelled due to the storm.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T13:09:00+00:00",
+        "link": "https://newsonair.gov.in/china-typhoon-bavi-weakens-into-tropical-storm-in-zhejiang-province/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Akashwani-news.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "US, UK and allies reaffirm China’s South China Sea claims are illegal",
+        "summary": "The United States, the United Kingdom and a dozen other Western and Asian countries today reasserted that China&#8217;s expansive claims in the South China Sea are illegal based on a 2016 arbitration ruling. A joint statement issued by the 14 nations said, they reject “destabilising” actions in the disputed waters that threaten regional stability. On […]",
+        "article": "The United States, the United Kingdom and a dozen other Western and Asian countries today reasserted that China&#8217;s expansive claims in the South China Sea are illegal based on a 2016 arbitration ruling. A joint statement issued by the 14 nations said, they reject “destabilising” actions in the disputed waters that threaten regional stability. On the other hand, the 27-nation European Union released a separate statement, reaffirming the ruling as a “landmark decision in the peaceful settlement of disputes&#8221;. The statements commemorated a July 12, 2016, arbitration ruling by a tribunal established in The Hague under the United Nations Convention on the Law of the Sea, saying the landmark decision is “is final and legally binding&#8221;. China, however, dismissed the ruling, saying it is null and void and has no binding force, and reiterated that Beijing neither accepts nor recognises it. China refused to join the arbitration initiated by the Philippines in 2013 after a tense standoff in the contested waters a year earlier that ended with Beijing effectively seizing a disputed shoal. The South China Sea remains a major flashpoint, with repeated territorial standoffs involving China and the Philippines, Vietnam, Malaysia, Brunei and Taiwan.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:59:02+00:00",
+        "link": "https://newsonair.gov.in/us-uk-and-allies-reaffirm-chinas-south-china-sea-claims-are-illegal/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Akashwani-news.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "US President Trump ally Lindsey Graham passes away after brief illness at 71",
         "summary": "US Senator Lindsey Graham, a close ally of President Donald Trump, has passed away following a brief illness. He was 71. A member of the Republican Party, Graham was first elected to the U.S. Senate in 2002 and was re-elected in 2008, 2014 and 2020. During President Trump&#8217;s second term, Graham emerged as a key […]",
@@ -517,50 +558,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-12T02:18:33+00:00",
         "link": "https://newsonair.gov.in/rescue-operations-underway-after-boat-carrying-indian-tourists-capsizes-near-phu-quoc-island/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Qatari delegation is in Iran, aims to boost mediation role, Iranian media says",
-        "summary": "Iranian state media has reported that a Qatari delegation is visiting Tehran in an effort by Doha to strengthen its role as a mediator following the recent escalation of hostilities in the Gulf region. The report said the visit comes after Qatar accused Iran of involvement in an alleged incident in the Strait of Hormuz, […]",
-        "article": "Iranian state media has reported that a Qatari delegation is visiting Tehran in an effort by Doha to strengthen its role as a mediator following the recent escalation of hostilities in the Gulf region. The report said the visit comes after Qatar accused Iran of involvement in an alleged incident in the Strait of Hormuz, followed by US strikes on Iranian military and civilian targets. It added that Qatari officials are holding talks with Iranian authorities to help de-escalate tensions and create conditions for wider negotiations. The discussions are reportedly being conducted in coordination with the United States.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T04:08:42+00:00",
-        "link": "https://newsonair.gov.in/qatari-delegation-is-in-iran-aims-to-boost-mediation-role-iranian-media-says/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Palestinian Authority President Mahmoud Abbas announces legislative elections in late November",
-        "summary": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The […]",
-        "article": "Palestinian Authority President Mahmoud Abbas has announced that legislative elections will be held in late November this year, the first such polls since 2006. President Abbas issued a presidential decree fixing Saturday, November 28, 2026, as the date for the elections across all Palestinian territories, including Jerusalem, the West Bank and the Gaza Strip. The decree said the elections aim to strengthen democracy and complete the electoral process in Palestine.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:45:40+00:00",
-        "link": "https://newsonair.gov.in/palestinian-authority-president-mahmoud-abbas-announces-legislative-elections-in-late-november/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-3-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, New Zealand celebrate 100 Years of sporting ties as Hockey strengthens friendship",
-        "summary": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The […]",
-        "article": "India and New Zealand are celebrating 100 years of sporting ties in 2026. Hockey, which started this journey in 1926, continues to bring the two countries closer. Akashvani&#8217;s correspondent reports that the sporting relationship began in 1926 when the Indian Army Hockey Team became the first Indian sports team to tour New Zealand. The legendary Major Dhyan Chand was also part of that historic team, making it one of the most memorable chapters in hockey history. A hundred years later, the friendship continues to grow. Earlier this year, the Indian Women’s Hockey Team won the FIH Women’s Nations Cup in Auckland by defeating host New Zealand in the final. Former Hockey New Zealand CEO and 1976 Olympic Gold Medallist Ramesh Patel says Prime Minister Narendra Modi’s visit will further strengthen sports cooperation between the two countries. As India and New Zealand celebrate a century of sporting ties, hockey remains a strong bridge of friendship, connecting the people of both countries and inspiring future generations.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T07:12:43+00:00",
-        "link": "https://newsonair.gov.in/india-new-zealand-celebrate-100-years-of-sporting-ties-as-hockey-strengthens-friendship/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/FIH-Hockey-Pro-League.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "UK expresses concern over unrest in PoJK due to brutal crackdown on civilians by Pak security forces",
-        "summary": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party",
-        "article": "Several British parliamentarians have expressed grave concern over the escalating unrest in Pakistan-occupied Jammu and Kashmir (PoJK), where many civilians have been killed or injured in brutal crackdown by Pakistani security forces. The region remains under a strict lockdown, curfew, and a complete communications blackout. Addressing the British Parliament, the United Kingdom Conservative Party leader and MP, Bob Blackman, said that Pakistani security forces had opened fire on peaceful demonstrators in PoJK, resulting in multiple deaths and injuries of civilians, including British nationals. He asked the British government whether it had summoned Pakistan&#8217;s High Commissioner over the reported violence and what steps had been taken to protect innocent bystanders. Raising the issue in a parliamentary debate, another UK lawmaker, Imran Hussain, voiced serious concern over continued bloodshed, arbitrary arrests and restrictions on communication in PoJK. Hussain said that reports suggesting restrictions on the movement of food and medical supplies into several parts of the region are deeply alarming. He emphasised that respect for the human rights of Kashmiris in PoJK must remain at the heart of any negotiations. The Joint Awami Action Committee, JAAC has warned Pakistan it will launch final action if its demands are unmet, inviting global observers to witness the situation. These demands include economic reforms, fair resource distribution, reduced paramilitary presence, and changes to legislative seat allocations. JAAC leader Sardar Aman Khan has sought humanitarian aid from India, citing shortages due to an alleged blockade and military crackdown. He accused Islamabad of hypocrisy for labelling activists as terrorists.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T14:31:52+00:00",
-        "link": "https://newsonair.gov.in/uk-expresses-concern-over-unrest-in-pojk-due-to-brutal-crackdown-on-civilians-by-pak-security-forces/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -588,6 +585,17 @@ window.VM_NEWS = {
       }
     ],
     "sports": [
+      {
+        "title": "China-France10th-seeded pair win Wimbledon women’s doubles title",
+        "summary": "In Wimbledon Tennis, the 10th-seeded pair of China&#8217;s Guo Hanyu and France&#8217;s Kristina Mladenovic has clinched the women&#8217;s doubles title. They defeated the second-seeded duo of Canada&#8217;s Gabriela Dabrowski and Brazil&#8217;s Luisa Stefani 6-3, 7-5 in the title clash, claiming their first-ever Grand Slam trophy as a pair. In Men&#8217;s singles final, Italy&#8217;s World No. […",
+        "article": "In Wimbledon Tennis, the 10th-seeded pair of China&#8217;s Guo Hanyu and France&#8217;s Kristina Mladenovic has clinched the women&#8217;s doubles title. They defeated the second-seeded duo of Canada&#8217;s Gabriela Dabrowski and Brazil&#8217;s Luisa Stefani 6-3, 7-5 in the title clash, claiming their first-ever Grand Slam trophy as a pair. In Men&#8217;s singles final, Italy&#8217;s World No. 1 Jannik Sinner will face Germany&#8217;s Alexander Zverev in the men&#8217;s singles final later this evening at 8:30 p.m. IST. Sinner booked his place in the title clash with a straight-sets victory over Novak Djokovic, while Zverev entered his first Wimbledon final after defeating British wildcard Arthur Fery. Yesterday, in the Women&#8217;s Singles Final, the 21-year-old Linda Noskova won her maiden Grand Slam title after defeating fellow Czech Karolina Muchova 6-2, 5-7, 6-3 at Centre Court, London. Noskova became the third Czech woman in four years to win the grass-court major, after Marketa Vondrousova in 2023 and Barbora Krejcikova in 2024.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T14:45:27+00:00",
+        "link": "https://newsonair.gov.in/china-france-10th-seeded-pair-win-wimbledon-womens-doubles-title/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNCICW5XMAAOrYr-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "FIFA World Cup: England and Argentina enter seminfinals",
         "summary": "In the FIFA World Cup, England booked their semifinal berth with a 2-1 extra-time win over Norway, while Argentina entered the semifinal, defeating Switzerland 3-1 this morning. In the first semi-final, France and Spain will face off on Wednesday. The match will kick off at 12:30 a.m. Indian Standard Time. France reached the semi-finals after […]",
@@ -666,17 +674,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Wimbledon: Karolína Muchová of Czech Republic reaches Women’s Singles final",
-        "summary": "In Wimbledon Tennis, Karolína Muchová of Czech Republic has reached Women&#8217;s Singles final. 10th seed Muchová defeated 7th seed American player Coco Gauff 6-2, 1-6, 7-6 in the first semi final of Women&#8217;s Singles this evening. Later in the second semi final, Ukraine&#8217;s Marta Kostyuk will take on Czech player Linda Noskova. Men&#8217;s Singles […]",
-        "article": "In Wimbledon Tennis, Karolína Muchová of Czech Republic has reached Women&#8217;s Singles final. 10th seed Muchová defeated 7th seed American player Coco Gauff 6-2, 1-6, 7-6 in the first semi final of Women&#8217;s Singles this evening. Later in the second semi final, Ukraine&#8217;s Marta Kostyuk will take on Czech player Linda Noskova. Men&#8217;s Singles semi finals will be played tomorrow. In the first semi final match, British player Arthur Fery will clash with Alexander Zverev of Germany while World No. 1 and defending champion Jannik Sinner of Italy will face Serbia&#8217;s Novak Djokovic in the second semi final.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:46:30+00:00",
-        "link": "https://newsonair.gov.in/wimbledon-marta-kostyuk-linda-noskova-enter-womens-singles-semi-finals/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Wimbeldon-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "India to face England in final T20I in England today",
         "summary": "India will face England in the fifth and final T20 International of the series today at the Utilita Bowl in Southampton. The match is scheduled to begin at 7:00 PM Indian Standard Time. England has already clinched the series with a 3-nil lead, while India will be aiming to register a consolation victory before […]",
         "article": "India will face England in the fifth and final T20 International of the series today at the Utilita Bowl in Southampton. The match is scheduled to begin at 7:00 PM Indian Standard Time. England has already clinched the series with a 3-nil lead, while India will be aiming to register a consolation victory before the teams move on to the ODI series.",
@@ -701,6 +698,17 @@ window.VM_NEWS = {
     ],
     "business": [
       {
+        "title": "Gold and silver prices decline over week",
+        "summary": "In the bullion market, gold and silver prices declined over the week. At the Multi Commodity Exchange, Gold futures for the August contract shed 2.6 per cent during the week to settle at 1,43,478 rupees per 10 grams. Meanwhile, Silver futures for the September contract plunged 6.2 per cent to close at 2,22,664 rupees […]",
+        "article": "In the bullion market, gold and silver prices declined over the week. At the Multi Commodity Exchange, Gold futures for the August contract shed 2.6 per cent during the week to settle at 1,43,478 rupees per 10 grams. Meanwhile, Silver futures for the September contract plunged 6.2 per cent to close at 2,22,664 rupees per kilogram. At the Commodity Exchange (COMEX), Gold futures for the August contract dipped 0.3 per cent during the week to settle at 4,113.7 dollars per troy ounce. Silver futures for the September contract dropped nearly one and a half per cent over the week to end at 60.16 dollars per troy ounce.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:12:27+00:00",
+        "link": "https://newsonair.gov.in/gold-and-silver-prices-decline-over-week/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/gold-silver.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "FPIs turn net buyers of Indian equities after four months",
         "summary": "After four consecutive months of selling, Foreign Portfolio Investors (FPIs) have turned net buyers of Indian equities. According to the latest depository data, FPIs have invested 15 thousand 157 crore rupees in the domestic stock market so far this month. Weakness in the global semiconductor trade has prompted FPIs to shift a part of their […]",
         "article": "After four consecutive months of selling, Foreign Portfolio Investors (FPIs) have turned net buyers of Indian equities. According to the latest depository data, FPIs have invested 15 thousand 157 crore rupees in the domestic stock market so far this month. Weakness in the global semiconductor trade has prompted FPIs to shift a part of their investments towards emerging markets. The renewed buying interest was also supported by improving domestic macroeconomic indicators, stable crude oil prices, and strong quarterly earnings reports. Meanwhile, India&#8217;s debt market is expected to attract strong foreign interest following changes in the government&#8217;s taxation policy. So far in July, Foreign Portfolio Investors have invested 6 thousand 625 crore rupees in debt securities through the Fully Accessible Route (FAR) and 3 thousand 228 crore rupees through the general route.",
@@ -708,17 +716,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-12T11:36:16+00:00",
         "link": "https://newsonair.gov.in/fpis-turn-net-buyers-of-indian-equities-after-four-months/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/FPI.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Gold and silver prices decline amid geopolitical uncertainties",
-        "summary": "In the bullion market, gold and silver prices declined over the week amid lingering geopolitical uncertainties, a stronger US dollar, and expectations that the US Federal Reserve would maintain a hawkish stance on interest rates if the conflict in West Asia intensifies. At the Multi Commodity Exchange, Gold futures for the August contract shed […]",
-        "article": "In the bullion market, gold and silver prices declined over the week amid lingering geopolitical uncertainties, a stronger US dollar, and expectations that the US Federal Reserve would maintain a hawkish stance on interest rates if the conflict in West Asia intensifies. At the Multi Commodity Exchange, Gold futures for the August contract shed 2.6 per cent during the week to settle at 1,43,478 rupees per 10 grams. Meanwhile, Silver futures for the September contract plunged 6.2 per cent to close at 2,22,664 rupees per kilogram. At the Commodity Exchange (COMEX), Gold futures for the August contract dipped 0.3 per cent during the week to settle at 4,113.7 dollars per troy ounce. Silver futures for the September contract dropped nearly one and a half per cent over the week to end at 60.16 dollars per troy ounce.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T11:02:27+00:00",
-        "link": "https://newsonair.gov.in/gold-and-silver-prices-decline-amid-geopolitical-uncertainties/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/gold-silver.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1028,7 +1025,29 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
-        "title": "समाज सुधारकों की महान विरासत का सम्मान करना, हर नागरिक का कर्तव्य: उपराष्ट्रपति सी. पी. राधाकृष्णन",
+        "title": "बांग्लादेश में बाढ़ और भूस्खलन से 44 लोगों की मृत्‍यु",
+        "summary": "बांग्लादेश में पिछले एक सप्ताह में बाढ़ और भूस्खलन के कारण 44 लोगों की मृत्‍यु हो गई है। बांग्‍लादेश के आपदा प्रबंधन मंत्रालय के प्रवक्ता ने बताया कि बाढ़ से लगभग दो लाख 67 हजार परिवार प्रभावित हुए हैं। रात भर हुई भारी बारिश से राजधानी ढाका के कुछ हिस्से जलमग्न हो गए, जिससे जनजीवन […]",
+        "article": "बांग्लादेश में पिछले एक सप्ताह में बाढ़ और भूस्खलन के कारण 44 लोगों की मृत्&#x200d;यु हो गई है। बांग्&#x200d;लादेश के आपदा प्रबंधन मंत्रालय के प्रवक्ता ने बताया कि बाढ़ से लगभग दो लाख 67 हजार परिवार प्रभावित हुए हैं। रात भर हुई भारी बारिश से राजधानी ढाका के कुछ हिस्से जलमग्न हो गए, जिससे जनजीवन अस्त-व्यस्त हो गया। सेना, नौसेना और वायु सेना स्थानीय एजेंसियों के साथ प्रभावित जिलों में राहत कार्य चला रही है। बाढ़ पूर्वानुमान और चेतावनी केंद्र ने चेतावनी दी है कि नदियों का बढ़ता जलस्तर कई उत्तरी और उत्तर-पश्चिमी जिलों में और अधिक बाढ़ ला सकता है, जबकि उत्तर-पूर्वी और उत्तर-पश्चिमी क्षेत्रों में स्थिति और बिगड़ सकती है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T14:41:30+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%ac%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%a6%e0%a5%87%e0%a4%b6-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%ac%e0%a4%be%e0%a4%a2%e0%a4%bc-%e0%a4%94%e0%a4%b0-%e0%a4%ad%e0%a5%82/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने इथेनॉल मिश्रित पेट्रोल से वाहन के ईंधन टैंक में समस्या वाली फर्जी तस्वीर का किया खंडन",
+        "summary": "सरकार ने सोशल मीडिया पर चल रही उस फर्जी तस्वीर का खंडन किया है जिसमें दावा किया गया है कि इथेनॉल मिश्रित पेट्रोल से वाहन के ईंधन टैंक में समस्या हो सकती है। पत्र सूचना कार्यालय की तथ्य जांच इकाई ने इस दावे को झूठा बताया है। कार्यालय ने कहा कि पेट्रोलियम और प्राकृतिक गैस […]",
+        "article": "सरकार ने सोशल मीडिया पर चल रही उस फर्जी तस्वीर का खंडन किया है जिसमें दावा किया गया है कि इथेनॉल मिश्रित पेट्रोल से वाहन के ईंधन टैंक में समस्या हो सकती है। पत्र सूचना कार्यालय की तथ्य जांच इकाई ने इस दावे को झूठा बताया है। कार्यालय ने कहा कि पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने स्पष्ट किया है कि तेल विपणन कंपनियों द्वारा आपूर्ति किया जाने वाला ई20 पेट्रोल भारतीय मानक ब्यूरो के निर्धारित मानकों के अनुरूप है। मंत्रालय ने कहा कि निर्धारित मानकों के अनुरूप होने पर इथेनॉल और पेट्रोल पूरी तरह से घुलनशील होते हैं। मंत्रालय ने यह भी आश्वासन दिया कि भारत में आपूर्ति किया जाने वाला इथेनॉल मिश्रित पेट्रोल उच्च गुणवत्ता मानकों का पालन करता है और उपभोक्ताओं को उपलब्ध कराए जाने से पहले इसका गहन परीक्षण किया जाता है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:14:49+00:00",
+        "link": "https://newsonair.gov.in/hi/the-government-has-refuted-a-fake-image-showing-problems-in-a-vehicles-fuel-tank-caused-by-ethanol-blended-petrol/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNBKkVZa0AAxmRU.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "समाज सुधारकों की महान विरासत का सम्मान करना हर नागरिक का कर्तव्य: उपराष्ट्रपति सी. पी. राधाकृष्णन",
         "summary": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज कहा कि देश के समाज सुधारकों की महान विरासत का सम्मान करना और उसे बनाए रखना हर नागरिक का कर्तव्य है। श्री राधाकृष्णन ने नई दिल्ली के द्वारका में मन्नम इंटरनेशनल सेंटर में समाज सुधारक और स्वतंत्रता सेनानी मन्नाथ पद्मनाभन की प्रतिमा का अनावरण करने और &#8216;मन्नम स्मृति मंडपम&#8217; […]",
         "article": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज कहा कि देश के समाज सुधारकों की महान विरासत का सम्मान करना और उसे बनाए रखना हर नागरिक का कर्तव्य है। श्री राधाकृष्णन ने नई दिल्ली के द्वारका में मन्नम इंटरनेशनल सेंटर में समाज सुधारक और स्वतंत्रता सेनानी मन्नाथ पद्मनाभन की प्रतिमा का अनावरण करने और &#8216;मन्नम स्मृति मंडपम&#8217; का उद्घाटन के अवसर पर यह बात कही। सभा को संबोधित करते हुए, उपराष्ट्रपति ने सामाजिक न्याय, समानता, शिक्षा और सामुदायिक सेवा के प्रति मन्नाथ पद्मनाभन की जीवन भर की प्रतिबद्धता का उल्&#x200d;लेख किया। उन्होंने कहा कि मन्नाथ पद्मनाभन के आदर्श एक समावेशी और सौहार्दपूर्ण समाज के निर्माण की दिशा में देश को प्रेरित करते रहते हैं। मन्नाथ पद्मनाभन को आधुनिक भारत के महानतम समाज सुधारकों में से एक बताते हुए श्री राधाकृष्णन ने कहा कि उनका जीवन शिक्षा, समाज सुधार, आत्मनिर्भरता और सामुदायिक सेवा के माध्यम से समाज के उत्थान के लिए समर्पित था। उन्होंने कहा कि जब समाज सुधार की अवधारणा को शायद ही समझा जाता था और कई लोग बिना किसी सहारे के कष्ट झेल रहे थे, उन्&#x200d;ही दिनों मन्नाथ पद्मनाभन समाज की सेवा के लिए आगे आए। उपराष्ट्रपति ने कहा कि राष्ट्रीय आंदोलन के साथ मन्नाथ पद्मनाभन का जुड़ाव इन आदर्शों के प्रति उनकी प्रतिबद्धता को और अधिक दर्शाता है। उन्होंने कहा कि महात्मा गांधी के साथ-साथ, मन्नाथ पद्मनाभन ने सामाजिक रूप से वंचित लोगों के हितों की रक्षा करने में महत्वपूर्ण भूमिका निभाई। श्री राधाकृष्णन ने ऐतिहासिक &#8216;वायकोम सत्याग्रह&#8217; में उनकी सक्रिय भागीदारी पर भी उल्&#x200d;लेख किया। उन्&#x200d;होंने इसे भारत के समाज सुधार आंदोलन के सबसे महत्वपूर्ण अध्यायों में से एक बताया। इस अवसर पर, उपराष्ट्रपति सी. पी. राधाकृष्णन ने &#8216;एक पेड़ मां के नाम&#8217; अभियान के तहत एक पौधा भी लगाया। इस अवसर पर केंद्रीय राज्य मंत्री सुरेश गोपी, नायर सर्विस सोसायटी-एनएसएस दिल्ली के अध्यक्ष एम. के. जी. पिल्लई, एनएसएस दिल्ली के महासचिव एम. डी. जयप्रकाश और अन्य गणमान्य अतिथि उपस्थित थे।",
         "date": "2026-07-12",
@@ -1083,17 +1102,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "भाजपा ने कहा- भारत हिन्द महासागर और हिन्द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा",
-        "summary": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्‍द महासागर और हिन्‍द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा है। नई दिल्‍ली में संवाददाता सम्‍मेलन को संबोधित करते हुए पार्टी प्रवक्‍ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्‍द्र मोदी ने हा‍ल ही में इन रणनीतिक संबंधों को और सशक्‍त बनाने के लिए सेशेल्‍स […]",
-        "article": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्&#x200d;द महासागर और हिन्&#x200d;द-प्रशांत क्षेत्र में एक स्&#x200d;थाई शक्ति के रूप में उभरा है। नई दिल्&#x200d;ली में संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए पार्टी प्रवक्&#x200d;ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने हा&#x200d;ल ही में इन रणनीतिक संबंधों को और सशक्&#x200d;त बनाने के लिए सेशेल्&#x200d;स और इंडोनेशिया की यात्रा की। उन्&#x200d;होंने कहा कि भारत और न्&#x200d;यूज़ीलैंड के बीच मुक्&#x200d;त व्&#x200d;यापार समझौता एक महत्&#x200d;वपूर्ण उपलब्धि&#x200d; है। पार्टी प्रवक्&#x200d;ता ने प्रधानमंत्री की इंडोनेशिया, ऑस्&#x200d;ट्रेलिया और न्&#x200d;यूज़ीलैंड की यात्रा की दस महत्&#x200d;वपूर्ण उपलब्धियों का उल्&#x200d;लेख किया। इनमें हिन्&#x200d;द महासागर हिन्&#x200d;द-प्रशांत कार्यनीतिक गठबंधन, रक्षा और समुद्री सहयोग, महत्&#x200d;वपूर्ण खनिज सहयोग, ऊर्जा सुरक्षा, आर्थिक और निवेश के अवसर, डिजिटल सार्वजनिक अवसंरचना तथा शैक्षणिक साझेदारी शामिल हैं। श्री पात्रा ने कहा कि रक्षा और समुद्री क्षेत्रों में सहयोग में ठोस प्रगति हुई है। उन्&#x200d;होंने कहा कि पहली बार भारत रक्षा उपकरण के एक निर्यातक के रूप में उभर रहा है। उन्&#x200d;होंने कहा कि भारत और ऑस्&#x200d;ट्रेल&#x200d;िया ने रक्षा और सुरक्षा सहयोग पर एक संयुक्&#x200d;त घोषणा पत्र जारी किया है। श्री पात्रा ने कहा कि इस समझौते के अंतर्गत भारत और ऑस्&#x200d;ट्रेलिया के युद्धपोतों की सर्विसिंग एक-दूसरे के डॉक पर की जाएगी।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:38:03+00:00",
-        "link": "https://newsonair.gov.in/hi/india-in-indo-pacific/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/BJP-MP-Sambit-Patra.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "कतर के पूर्व अमीर शेख हमद बिन खलीफा अल थानी का 74 वर्ष की आयु में निधन, पीएम मोदी ने शोक व्यक्त किया",
         "summary": "कतर के पूर्व अमीर शेख हमद बिन खलीफा अल थानी का 74 वर्ष की आयु में निधन हो गया है। उन्होंने इस खाड़ी देश को कूटनीति, मीडिया और निवेश के क्षेत्र में प्रमुख वैश्विक शक्ति के रूप में स्थापित किया था। शेख हमद ने क्षेत्रीय परंपरा को तोड़ते हुए 2013 में स्वेच्छा से अपने बेटे […]",
         "article": "कतर के पूर्व अमीर शेख हमद बिन खलीफा अल थानी का 74 वर्ष की आयु में निधन हो गया है। उन्होंने इस खाड़ी देश को कूटनीति, मीडिया और निवेश के क्षेत्र में प्रमुख वैश्विक शक्ति के रूप में स्थापित किया था। शेख हमद ने क्षेत्रीय परंपरा को तोड़ते हुए 2013 में स्वेच्छा से अपने बेटे को सत्ता सौंपने से पहले 18 वर्षों तक कतर पर शासन किया। उनके नेतृत्व में कतर एक वैश्विक ऊर्जा शक्ति के रूप में उभरा। उन्&#x200d;होंने अल जज़ीरा समाचार नेटवर्क की शुरुआत की, अंतरराष्ट्रीय निवेश का विस्तार किया और 2022 फीफा विश्व कप की सफलतापूर्वक मेजबानी की। प्रधानमंत्री नरेन्द्र मोदी ने कतर के पूर्व अमीर शेख हमद बिन खलीफा अल थानी के निधन पर गहरा शोक व्यक्त किया है। सोशल मीडिया पर एक पोस्ट में श्री मोदी ने कहा कि शेख हमद बिन खलीफा अल थानी दूरदर्शी नेता थे, जिन्होंने कतर को विकास और समृद्धि की नई ऊंचाइयों तक पहुंचाया। उन्होंने कहा कि भारत उन्हें एक सच्चे मित्र के रूप में हमेशा याद रखेगा। प्रधानमंत्री ने कतर के अमीर शेख तमीम बिन हमद अल थानी, शाही परिवार और कतर की जनता के प्रति गहरी संवेदना व्यक्त की है।",
@@ -1101,17 +1109,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-12T07:28:55+00:00",
         "link": "https://newsonair.gov.in/hi/qatar-former-amir/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNAqUcXaYAAZF_-.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री नरेंद्र मोदी छह दिन की इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड यात्रा के बाद नई दिल्ली लौटे",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के राष्ट्रपति के साथ द्विपक्षीय चर्चा की और साझेदारी में हुई प्रगति की समीक्षा की। अपनी यात्रा के दूसरे चरण में, प्रधानमंत्री मोदी मेलबर्न, ऑस्ट्रेलिया गए। श्री मोदी ने ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लिया। अपनी यात्रा के दौरान, प्रधानमंत्री मोदी ने भारत-ऑस्ट्रेलिया सीईओ फोरम में भी भाग लिया, जहां उन्होंने दोनों देशों के शीर्ष व्यापारिक नेताओं की सभा को संबोधित किया। तीन देशों की यात्रा के तीसरे और अंतिम चरण में, प्रधानमंत्री ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के निमंत्रण पर 10 से 11 जुलाई तक ऑकलैंड का दौरा किया। न्यूजीलैंड की यह यात्रा किसी भी भारतीय प्रधानमंत्री की 40 वर्षों में पहली यात्रा थी।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T05:51:27+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-three-nation-tour/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM8J-CXbMAAQjus.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1149,13 +1146,12 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "वियतनाम नौका हादसा: 15 भारतीयों के पार्थिव शरीर जल्द भारत लाए जाएंगे",
-        "summary": "वियतनाम में भारतीय दूतावास ने आज बताया कि फु क्वोक द्वीप के निकट कल हुई नौका दुर्घटना में जान गंवाने वाले 15 भारतीय नागरिकों के पार्थिव शरीर हो ची मिन्ह सिटी ले जाए जा रहे हैं। सोशल मीडिया पोस्ट में दूतावास ने कहा कि वहां आवश्यक औपचारिकताएं पूरी होने के बाद पार्थिव शरीरों को यथाशीघ्र […]",
-        "article": "वियतनाम में भारतीय दूतावास ने आज बताया कि फु क्वोक द्वीप के निकट कल हुई नौका दुर्घटना में जान गंवाने वाले 15 भारतीय नागरिकों के पार्थिव शरीर हो ची मिन्ह सिटी ले जाए जा रहे हैं। सोशल मीडिया पोस्ट में दूतावास ने कहा कि वहां आवश्यक औपचारिकताएं पूरी होने के बाद पार्थिव शरीरों को यथाशीघ्र भारत भेजा जाएगा। दूतावास ने बताया कि हो ची मिन्ह सिटी स्थित भारतीय महावाणिज्य दूतावास वियतनाम के अधिकारियों के साथ लगातार सम्&#x200d;पर्क बनाए हुए हैं और पार्थिव शरीरों को शीघ्र भारत लाने के लिए हरसंभव सहायता प्रदान कर रहा है। इससे पहले आज दूतावास ने बताया था कि नौका दुर्घटना में घायल 15 भारतीयों को उपचार के बाद अस्पताल से छुट्टी दे दी गई है और वे भारत लौट रहे हैं। दूतावास के अनुसार, गंभीर रूप से घायल दो लोगों में से एक को अस्पताल से छुट्टी मिल गई है और वह भारत लौट रहा है, जबकि दूसरे घायल का वियतनाम के फु क्वोक स्थित अस्पताल में उपचार चल रहा है।",
+        "title": "श्रम मंत्री डॉ. मनसुख मांडविया कल सात ईएसआई स्वास्थ्य परियोजनाओं का करेंगे शुभारंभ",
+        "summary": "श्रम और रोजगार मंत्री डॉ. मनसुख मांडविया मंगलवार को देशभर में लगभग छह सौ 68 करोड़ रुपये की लागत वाली सात कर्मचारी राज्य बीमा-ईएसआई स्वास्थ्य परियोजनाओं का शुभारंभ करेंगे। इन परियोजनाओं में तेलंगाना के सनतनगर में ईएसआईसी अस्पताल का नया ओपीडी ब्लॉक, असम के बेल्टोला में उन्नत 200 बिस्तरों वाला ईएसआईसी अस्पताल, तमिलनाडु के श्रीपेरुम्बुदुर […]",
+        "article": "श्रम और रोजगार मंत्री डॉ. मनसुख मांडविया मंगलवार को देशभर में लगभग छह सौ 68 करोड़ रुपये की लागत वाली सात कर्मचारी राज्य बीमा-ईएसआई स्वास्थ्य परियोजनाओं का शुभारंभ करेंगे। इन परियोजनाओं में तेलंगाना के सनतनगर में ईएसआईसी अस्पताल का नया ओपीडी ब्लॉक, असम के बेल्टोला में उन्नत 200 बिस्तरों वाला ईएसआईसी अस्पताल, तमिलनाडु के श्रीपेरुम्बुदुर में 100 बिस्तरों वाला ईएसआईसी अस्पताल, आंध्र प्रदेश के राजामहेंद्रवरम में ईएसआईसी अस्पताल, गुजरात के सुरेंद्रनगर में ईएसआई औषधालय और शाखा कार्यालय और कोटा के उद्योग नगर में ईएसआई औषधालय और शाखा कार्यालय, साथ ही राजस्थान के भवानी मंडी में ईएसआई औषधालय शामिल हैं। श्रम और रोजगार मंत्रालय ने बताया कि डॉ. मांडविया सनतनगर में ईएसआईसी अस्पताल के नए ओपीडी ब्लॉक का शुभारंभ करेंगे, जबकि शेष छह परियोजनाओं का उद्घाटन ऑनलाइन माध्यम से किया जाएगा। मंत्रालय ने बताया कि ये स्वास्थ्य सुविधाएं देशभर में लगभग 53 लाख लाभार्थियों की चिकित्सा आवश्यकताओं को पूरा करेंगी। इस अवसर पर डॉ. मांडविया राष्ट्र निर्माण में योगदान देने वाले निर्माण श्रमिकों को सम्मानित करेंगे, जिन्होंने सनतनगर के ईएसआईसी अस्पताल के ओपीडी ब्लॉक के विकास में अपना योगदान दिया है। श्रम और रोजगार राज्य मंत्री शोभा करंदलाजे भी इस कार्यक्रम में उपस्थित रहेंगी।",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T10:50:40+00:00",
-        "link": "https://newsonair.gov.in/hi/vietnam-boat-accident-mortal-remains-of-15-indians-to-be-brought-back-to-india-soon/",
-        "post_id": 1733834,
+        "pubDate": "2026-07-12T14:21:05+00:00",
+        "link": "https://newsonair.gov.in/hi/minister-of-labour-and-employment-dr-mansukh-mandaviya-will-inaugurate-seven-esi-health-projects-worth-%e2%82%b9668-crore-tomorrow/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1163,7 +1159,18 @@ window.VM_NEWS = {
     ],
     "breaking": [
       {
-        "title": "समाज सुधारकों की महान विरासत का सम्मान करना, हर नागरिक का कर्तव्य: उपराष्ट्रपति सी. पी. राधाकृष्णन",
+        "title": "सरकार ने इथेनॉल मिश्रित पेट्रोल से वाहन के ईंधन टैंक में समस्या वाली फर्जी तस्वीर का किया खंडन",
+        "summary": "सरकार ने सोशल मीडिया पर चल रही उस फर्जी तस्वीर का खंडन किया है जिसमें दावा किया गया है कि इथेनॉल मिश्रित पेट्रोल से वाहन के ईंधन टैंक में समस्या हो सकती है। पत्र सूचना कार्यालय की तथ्य जांच इकाई ने इस दावे को झूठा बताया है। कार्यालय ने कहा कि पेट्रोलियम और प्राकृतिक गैस […]",
+        "article": "सरकार ने सोशल मीडिया पर चल रही उस फर्जी तस्वीर का खंडन किया है जिसमें दावा किया गया है कि इथेनॉल मिश्रित पेट्रोल से वाहन के ईंधन टैंक में समस्या हो सकती है। पत्र सूचना कार्यालय की तथ्य जांच इकाई ने इस दावे को झूठा बताया है। कार्यालय ने कहा कि पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने स्पष्ट किया है कि तेल विपणन कंपनियों द्वारा आपूर्ति किया जाने वाला ई20 पेट्रोल भारतीय मानक ब्यूरो के निर्धारित मानकों के अनुरूप है। मंत्रालय ने कहा कि निर्धारित मानकों के अनुरूप होने पर इथेनॉल और पेट्रोल पूरी तरह से घुलनशील होते हैं। मंत्रालय ने यह भी आश्वासन दिया कि भारत में आपूर्ति किया जाने वाला इथेनॉल मिश्रित पेट्रोल उच्च गुणवत्ता मानकों का पालन करता है और उपभोक्ताओं को उपलब्ध कराए जाने से पहले इसका गहन परीक्षण किया जाता है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:14:49+00:00",
+        "link": "https://newsonair.gov.in/hi/the-government-has-refuted-a-fake-image-showing-problems-in-a-vehicles-fuel-tank-caused-by-ethanol-blended-petrol/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNBKkVZa0AAxmRU.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "समाज सुधारकों की महान विरासत का सम्मान करना हर नागरिक का कर्तव्य: उपराष्ट्रपति सी. पी. राधाकृष्णन",
         "summary": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज कहा कि देश के समाज सुधारकों की महान विरासत का सम्मान करना और उसे बनाए रखना हर नागरिक का कर्तव्य है। श्री राधाकृष्णन ने नई दिल्ली के द्वारका में मन्नम इंटरनेशनल सेंटर में समाज सुधारक और स्वतंत्रता सेनानी मन्नाथ पद्मनाभन की प्रतिमा का अनावरण करने और &#8216;मन्नम स्मृति मंडपम&#8217; […]",
         "article": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज कहा कि देश के समाज सुधारकों की महान विरासत का सम्मान करना और उसे बनाए रखना हर नागरिक का कर्तव्य है। श्री राधाकृष्णन ने नई दिल्ली के द्वारका में मन्नम इंटरनेशनल सेंटर में समाज सुधारक और स्वतंत्रता सेनानी मन्नाथ पद्मनाभन की प्रतिमा का अनावरण करने और &#8216;मन्नम स्मृति मंडपम&#8217; का उद्घाटन के अवसर पर यह बात कही। सभा को संबोधित करते हुए, उपराष्ट्रपति ने सामाजिक न्याय, समानता, शिक्षा और सामुदायिक सेवा के प्रति मन्नाथ पद्मनाभन की जीवन भर की प्रतिबद्धता का उल्&#x200d;लेख किया। उन्होंने कहा कि मन्नाथ पद्मनाभन के आदर्श एक समावेशी और सौहार्दपूर्ण समाज के निर्माण की दिशा में देश को प्रेरित करते रहते हैं। मन्नाथ पद्मनाभन को आधुनिक भारत के महानतम समाज सुधारकों में से एक बताते हुए श्री राधाकृष्णन ने कहा कि उनका जीवन शिक्षा, समाज सुधार, आत्मनिर्भरता और सामुदायिक सेवा के माध्यम से समाज के उत्थान के लिए समर्पित था। उन्होंने कहा कि जब समाज सुधार की अवधारणा को शायद ही समझा जाता था और कई लोग बिना किसी सहारे के कष्ट झेल रहे थे, उन्&#x200d;ही दिनों मन्नाथ पद्मनाभन समाज की सेवा के लिए आगे आए। उपराष्ट्रपति ने कहा कि राष्ट्रीय आंदोलन के साथ मन्नाथ पद्मनाभन का जुड़ाव इन आदर्शों के प्रति उनकी प्रतिबद्धता को और अधिक दर्शाता है। उन्होंने कहा कि महात्मा गांधी के साथ-साथ, मन्नाथ पद्मनाभन ने सामाजिक रूप से वंचित लोगों के हितों की रक्षा करने में महत्वपूर्ण भूमिका निभाई। श्री राधाकृष्णन ने ऐतिहासिक &#8216;वायकोम सत्याग्रह&#8217; में उनकी सक्रिय भागीदारी पर भी उल्&#x200d;लेख किया। उन्&#x200d;होंने इसे भारत के समाज सुधार आंदोलन के सबसे महत्वपूर्ण अध्यायों में से एक बताया। इस अवसर पर, उपराष्ट्रपति सी. पी. राधाकृष्णन ने &#8216;एक पेड़ मां के नाम&#8217; अभियान के तहत एक पौधा भी लगाया। इस अवसर पर केंद्रीय राज्य मंत्री सुरेश गोपी, नायर सर्विस सोसायटी-एनएसएस दिल्ली के अध्यक्ष एम. के. जी. पिल्लई, एनएसएस दिल्ली के महासचिव एम. डी. जयप्रकाश और अन्य गणमान्य अतिथि उपस्थित थे।",
         "date": "2026-07-12",
@@ -1207,25 +1214,25 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "भाजपा ने कहा- भारत हिन्द महासागर और हिन्द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा",
-        "summary": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्‍द महासागर और हिन्‍द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा है। नई दिल्‍ली में संवाददाता सम्‍मेलन को संबोधित करते हुए पार्टी प्रवक्‍ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्‍द्र मोदी ने हा‍ल ही में इन रणनीतिक संबंधों को और सशक्‍त बनाने के लिए सेशेल्‍स […]",
-        "article": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्&#x200d;द महासागर और हिन्&#x200d;द-प्रशांत क्षेत्र में एक स्&#x200d;थाई शक्ति के रूप में उभरा है। नई दिल्&#x200d;ली में संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए पार्टी प्रवक्&#x200d;ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने हा&#x200d;ल ही में इन रणनीतिक संबंधों को और सशक्&#x200d;त बनाने के लिए सेशेल्&#x200d;स और इंडोनेशिया की यात्रा की। उन्&#x200d;होंने कहा कि भारत और न्&#x200d;यूज़ीलैंड के बीच मुक्&#x200d;त व्&#x200d;यापार समझौता एक महत्&#x200d;वपूर्ण उपलब्धि&#x200d; है। पार्टी प्रवक्&#x200d;ता ने प्रधानमंत्री की इंडोनेशिया, ऑस्&#x200d;ट्रेलिया और न्&#x200d;यूज़ीलैंड की यात्रा की दस महत्&#x200d;वपूर्ण उपलब्धियों का उल्&#x200d;लेख किया। इनमें हिन्&#x200d;द महासागर हिन्&#x200d;द-प्रशांत कार्यनीतिक गठबंधन, रक्षा और समुद्री सहयोग, महत्&#x200d;वपूर्ण खनिज सहयोग, ऊर्जा सुरक्षा, आर्थिक और निवेश के अवसर, डिजिटल सार्वजनिक अवसंरचना तथा शैक्षणिक साझेदारी शामिल हैं। श्री पात्रा ने कहा कि रक्षा और समुद्री क्षेत्रों में सहयोग में ठोस प्रगति हुई है। उन्&#x200d;होंने कहा कि पहली बार भारत रक्षा उपकरण के एक निर्यातक के रूप में उभर रहा है। उन्&#x200d;होंने कहा कि भारत और ऑस्&#x200d;ट्रेल&#x200d;िया ने रक्षा और सुरक्षा सहयोग पर एक संयुक्&#x200d;त घोषणा पत्र जारी किया है। श्री पात्रा ने कहा कि इस समझौते के अंतर्गत भारत और ऑस्&#x200d;ट्रेलिया के युद्धपोतों की सर्विसिंग एक-दूसरे के डॉक पर की जाएगी।",
+        "title": "श्रम मंत्री डॉ. मनसुख मांडविया कल सात ईएसआई स्वास्थ्य परियोजनाओं का करेंगे शुभारंभ",
+        "summary": "श्रम और रोजगार मंत्री डॉ. मनसुख मांडविया मंगलवार को देशभर में लगभग छह सौ 68 करोड़ रुपये की लागत वाली सात कर्मचारी राज्य बीमा-ईएसआई स्वास्थ्य परियोजनाओं का शुभारंभ करेंगे। इन परियोजनाओं में तेलंगाना के सनतनगर में ईएसआईसी अस्पताल का नया ओपीडी ब्लॉक, असम के बेल्टोला में उन्नत 200 बिस्तरों वाला ईएसआईसी अस्पताल, तमिलनाडु के श्रीपेरुम्बुदुर […]",
+        "article": "श्रम और रोजगार मंत्री डॉ. मनसुख मांडविया मंगलवार को देशभर में लगभग छह सौ 68 करोड़ रुपये की लागत वाली सात कर्मचारी राज्य बीमा-ईएसआई स्वास्थ्य परियोजनाओं का शुभारंभ करेंगे। इन परियोजनाओं में तेलंगाना के सनतनगर में ईएसआईसी अस्पताल का नया ओपीडी ब्लॉक, असम के बेल्टोला में उन्नत 200 बिस्तरों वाला ईएसआईसी अस्पताल, तमिलनाडु के श्रीपेरुम्बुदुर में 100 बिस्तरों वाला ईएसआईसी अस्पताल, आंध्र प्रदेश के राजामहेंद्रवरम में ईएसआईसी अस्पताल, गुजरात के सुरेंद्रनगर में ईएसआई औषधालय और शाखा कार्यालय और कोटा के उद्योग नगर में ईएसआई औषधालय और शाखा कार्यालय, साथ ही राजस्थान के भवानी मंडी में ईएसआई औषधालय शामिल हैं। श्रम और रोजगार मंत्रालय ने बताया कि डॉ. मांडविया सनतनगर में ईएसआईसी अस्पताल के नए ओपीडी ब्लॉक का शुभारंभ करेंगे, जबकि शेष छह परियोजनाओं का उद्घाटन ऑनलाइन माध्यम से किया जाएगा। मंत्रालय ने बताया कि ये स्वास्थ्य सुविधाएं देशभर में लगभग 53 लाख लाभार्थियों की चिकित्सा आवश्यकताओं को पूरा करेंगी। इस अवसर पर डॉ. मांडविया राष्ट्र निर्माण में योगदान देने वाले निर्माण श्रमिकों को सम्मानित करेंगे, जिन्होंने सनतनगर के ईएसआईसी अस्पताल के ओपीडी ब्लॉक के विकास में अपना योगदान दिया है। श्रम और रोजगार राज्य मंत्री शोभा करंदलाजे भी इस कार्यक्रम में उपस्थित रहेंगी।",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:38:03+00:00",
-        "link": "https://newsonair.gov.in/hi/india-in-indo-pacific/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/BJP-MP-Sambit-Patra.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-12T14:21:05+00:00",
+        "link": "https://newsonair.gov.in/hi/minister-of-labour-and-employment-dr-mansukh-mandaviya-will-inaugurate-seven-esi-health-projects-worth-%e2%82%b9668-crore-tomorrow/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "प्रधानमंत्री नरेंद्र मोदी छह दिन की इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड यात्रा के बाद नई दिल्ली लौटे",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के राष्ट्रपति के साथ द्विपक्षीय चर्चा की और साझेदारी में हुई प्रगति की समीक्षा की। अपनी यात्रा के दूसरे चरण में, प्रधानमंत्री मोदी मेलबर्न, ऑस्ट्रेलिया गए। श्री मोदी ने ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लिया। अपनी यात्रा के दौरान, प्रधानमंत्री मोदी ने भारत-ऑस्ट्रेलिया सीईओ फोरम में भी भाग लिया, जहां उन्होंने दोनों देशों के शीर्ष व्यापारिक नेताओं की सभा को संबोधित किया। तीन देशों की यात्रा के तीसरे और अंतिम चरण में, प्रधानमंत्री ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के निमंत्रण पर 10 से 11 जुलाई तक ऑकलैंड का दौरा किया। न्यूजीलैंड की यह यात्रा किसी भी भारतीय प्रधानमंत्री की 40 वर्षों में पहली यात्रा थी।",
+        "title": "आवासन और शहरी कार्य मंत्री मनोहर लाल ने निर्माण क्षेत्र में पर्यावरण अनुकूल तकनीक अपनाने पर बल दिया",
+        "summary": "आवासन और शहरी कार्य मंत्री मनोहर लाल ने निर्माण क्षेत्र में पर्यावरण अनुकूल तकनीक अपनाने की आवश्यकता पर बल दिया। नई दिल्ली में केंद्रीय लोक निर्माण विभाग के 172वें स्थापना दिवस के अवसर पर आयोजित समारोह को संबोधित करते हुए केन्‍द्रीय मंत्री ने कहा कि किसी भी भवन या संरचना के निर्माण के दौरान उसकी […]",
+        "article": "आवासन और शहरी कार्य मंत्री मनोहर लाल ने निर्माण क्षेत्र में पर्यावरण अनुकूल तकनीक अपनाने की आवश्यकता पर बल दिया। नई दिल्ली में केंद्रीय लोक निर्माण विभाग के 172वें स्थापना दिवस के अवसर पर आयोजित समारोह को संबोधित करते हुए केन्&#x200d;द्रीय मंत्री ने कहा कि किसी भी भवन या संरचना के निर्माण के दौरान उसकी मजबूती से समझौता नहीं किया जाना चाहिए। उन्होंने केन्&#x200d;द्रीय लोक निर्माण विभाग के अधिकारियों और कर्मचारियों से संगठन की विश्वसनीयता बढ़ाने के लिए पूरी ईमानदारी और नैतिकता के साथ काम करने का आह्वान किया। इस अवसर पर केंद्रीय मंत्री ने उत्तर प्रदेश के गाजियाबाद में राष्ट्रीय लोक निर्माण परिषद के भवन की आधारशिला भी रखी। इस अवसर पर आवासन और शहरी कार्य मंत्रालय के सचिव श्रीनिवास कटिकिथला और केन्&#x200d;द्रीय लोक निर्माण विभाग के महानिदेशक भी उपस्थित थे।",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T05:51:27+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-three-nation-tour/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM8J-CXbMAAQjus.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-12T13:45:46+00:00",
+        "link": "https://newsonair.gov.in/hi/housing-and-urban-affairs-minister-manohar-lal-emphasized-the-adoption-of-eco-friendly-technologies-in-the-construction-sector/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1259,18 +1266,6 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T08:39:45+00:00",
         "link": "https://newsonair.gov.in/hi/epfo-amnesty-scheme/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्रालय ने यमन की यात्रा को लेकर 2017 की अधिसूचना वापस ली",
-        "summary": "विदेश मंत्रालय ने 2017 में जारी उस अधिसूचना को वापस ले लिया है जिसमें यमन की यात्रा करने वाले भारतीय नागरिकों पर कुछ शर्तें लगाई गई थीं। यह अधिसूचना यमन में गृहयुद्ध और सशस्त्र संघर्ष के कारण बिगड़ती सुरक्षा स्थिति को देखते हुए जारी की गई थी, जिसके चलते भारत ने अपने नागरिकों की यमन […]",
-        "article": "विदेश मंत्रालय ने 2017 में जारी उस अधिसूचना को वापस ले लिया है जिसमें यमन की यात्रा करने वाले भारतीय नागरिकों पर कुछ शर्तें लगाई गई थीं। यह अधिसूचना यमन में गृहयुद्ध और सशस्त्र संघर्ष के कारण बिगड़ती सुरक्षा स्थिति को देखते हुए जारी की गई थी, जिसके चलते भारत ने अपने नागरिकों की यमन यात्रा पर प्रतिबंध लगा दिया था। परंतु, एक परामर्श में विदेश मंत्रालय ने कहा है कि वह सभी भारतीय नागरिकों को यमन की गैर-जरूरी यात्रा से बचने की सलाह देता है। मंत्रालय ने कहा कि यदि यात्रा बेहद जरूरी है, तो इसे स्थानीय सुरक्षा स्थिति का पूरी तरह से आकलन करने के बाद ही किया जाना चाहिए और उन क्षेत्रों की यात्रा से बचना चाहिए जहां संघर्ष सक्रिय हो। मंत्रालय ने यमन में रहने वाले भारतीय नागरिकों को सतर्क रहने और यमन के भीतर ही अपनी आवाजाही सीमित रखने की सलाह दी है। विदेश मंत्रालय ने यमन में मौजूद भारतीय नागरिकों और यमन की यात्रा करने की आवश्यकता वाले लोगों को रियाद स्थित भारतीय दूतावास में पंजीकरण कराने की भी सलाह दी है ताकि आपात स्थिति में बेहतर संचार और सहायता मिल सके।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T06:13:30+00:00",
-        "link": "https://newsonair.gov.in/hi/yemen-travel-advisory/",
-        "post_id": 1733163,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1278,7 +1273,18 @@ window.VM_NEWS = {
     ],
     "national": [
       {
-        "title": "समाज सुधारकों की महान विरासत का सम्मान करना, हर नागरिक का कर्तव्य: उपराष्ट्रपति सी. पी. राधाकृष्णन",
+        "title": "सरकार ने इथेनॉल मिश्रित पेट्रोल से वाहन के ईंधन टैंक में समस्या वाली फर्जी तस्वीर का किया खंडन",
+        "summary": "सरकार ने सोशल मीडिया पर चल रही उस फर्जी तस्वीर का खंडन किया है जिसमें दावा किया गया है कि इथेनॉल मिश्रित पेट्रोल से वाहन के ईंधन टैंक में समस्या हो सकती है। पत्र सूचना कार्यालय की तथ्य जांच इकाई ने इस दावे को झूठा बताया है। कार्यालय ने कहा कि पेट्रोलियम और प्राकृतिक गैस […]",
+        "article": "सरकार ने सोशल मीडिया पर चल रही उस फर्जी तस्वीर का खंडन किया है जिसमें दावा किया गया है कि इथेनॉल मिश्रित पेट्रोल से वाहन के ईंधन टैंक में समस्या हो सकती है। पत्र सूचना कार्यालय की तथ्य जांच इकाई ने इस दावे को झूठा बताया है। कार्यालय ने कहा कि पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने स्पष्ट किया है कि तेल विपणन कंपनियों द्वारा आपूर्ति किया जाने वाला ई20 पेट्रोल भारतीय मानक ब्यूरो के निर्धारित मानकों के अनुरूप है। मंत्रालय ने कहा कि निर्धारित मानकों के अनुरूप होने पर इथेनॉल और पेट्रोल पूरी तरह से घुलनशील होते हैं। मंत्रालय ने यह भी आश्वासन दिया कि भारत में आपूर्ति किया जाने वाला इथेनॉल मिश्रित पेट्रोल उच्च गुणवत्ता मानकों का पालन करता है और उपभोक्ताओं को उपलब्ध कराए जाने से पहले इसका गहन परीक्षण किया जाता है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:14:49+00:00",
+        "link": "https://newsonair.gov.in/hi/the-government-has-refuted-a-fake-image-showing-problems-in-a-vehicles-fuel-tank-caused-by-ethanol-blended-petrol/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNBKkVZa0AAxmRU.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "समाज सुधारकों की महान विरासत का सम्मान करना हर नागरिक का कर्तव्य: उपराष्ट्रपति सी. पी. राधाकृष्णन",
         "summary": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज कहा कि देश के समाज सुधारकों की महान विरासत का सम्मान करना और उसे बनाए रखना हर नागरिक का कर्तव्य है। श्री राधाकृष्णन ने नई दिल्ली के द्वारका में मन्नम इंटरनेशनल सेंटर में समाज सुधारक और स्वतंत्रता सेनानी मन्नाथ पद्मनाभन की प्रतिमा का अनावरण करने और &#8216;मन्नम स्मृति मंडपम&#8217; […]",
         "article": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज कहा कि देश के समाज सुधारकों की महान विरासत का सम्मान करना और उसे बनाए रखना हर नागरिक का कर्तव्य है। श्री राधाकृष्णन ने नई दिल्ली के द्वारका में मन्नम इंटरनेशनल सेंटर में समाज सुधारक और स्वतंत्रता सेनानी मन्नाथ पद्मनाभन की प्रतिमा का अनावरण करने और &#8216;मन्नम स्मृति मंडपम&#8217; का उद्घाटन के अवसर पर यह बात कही। सभा को संबोधित करते हुए, उपराष्ट्रपति ने सामाजिक न्याय, समानता, शिक्षा और सामुदायिक सेवा के प्रति मन्नाथ पद्मनाभन की जीवन भर की प्रतिबद्धता का उल्&#x200d;लेख किया। उन्होंने कहा कि मन्नाथ पद्मनाभन के आदर्श एक समावेशी और सौहार्दपूर्ण समाज के निर्माण की दिशा में देश को प्रेरित करते रहते हैं। मन्नाथ पद्मनाभन को आधुनिक भारत के महानतम समाज सुधारकों में से एक बताते हुए श्री राधाकृष्णन ने कहा कि उनका जीवन शिक्षा, समाज सुधार, आत्मनिर्भरता और सामुदायिक सेवा के माध्यम से समाज के उत्थान के लिए समर्पित था। उन्होंने कहा कि जब समाज सुधार की अवधारणा को शायद ही समझा जाता था और कई लोग बिना किसी सहारे के कष्ट झेल रहे थे, उन्&#x200d;ही दिनों मन्नाथ पद्मनाभन समाज की सेवा के लिए आगे आए। उपराष्ट्रपति ने कहा कि राष्ट्रीय आंदोलन के साथ मन्नाथ पद्मनाभन का जुड़ाव इन आदर्शों के प्रति उनकी प्रतिबद्धता को और अधिक दर्शाता है। उन्होंने कहा कि महात्मा गांधी के साथ-साथ, मन्नाथ पद्मनाभन ने सामाजिक रूप से वंचित लोगों के हितों की रक्षा करने में महत्वपूर्ण भूमिका निभाई। श्री राधाकृष्णन ने ऐतिहासिक &#8216;वायकोम सत्याग्रह&#8217; में उनकी सक्रिय भागीदारी पर भी उल्&#x200d;लेख किया। उन्&#x200d;होंने इसे भारत के समाज सुधार आंदोलन के सबसे महत्वपूर्ण अध्यायों में से एक बताया। इस अवसर पर, उपराष्ट्रपति सी. पी. राधाकृष्णन ने &#8216;एक पेड़ मां के नाम&#8217; अभियान के तहत एक पौधा भी लगाया। इस अवसर पर केंद्रीय राज्य मंत्री सुरेश गोपी, नायर सर्विस सोसायटी-एनएसएस दिल्ली के अध्यक्ष एम. के. जी. पिल्लई, एनएसएस दिल्ली के महासचिव एम. डी. जयप्रकाश और अन्य गणमान्य अतिथि उपस्थित थे।",
         "date": "2026-07-12",
@@ -1322,25 +1328,25 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "भाजपा ने कहा- भारत हिन्द महासागर और हिन्द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा",
-        "summary": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्‍द महासागर और हिन्‍द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा है। नई दिल्‍ली में संवाददाता सम्‍मेलन को संबोधित करते हुए पार्टी प्रवक्‍ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्‍द्र मोदी ने हा‍ल ही में इन रणनीतिक संबंधों को और सशक्‍त बनाने के लिए सेशेल्‍स […]",
-        "article": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्&#x200d;द महासागर और हिन्&#x200d;द-प्रशांत क्षेत्र में एक स्&#x200d;थाई शक्ति के रूप में उभरा है। नई दिल्&#x200d;ली में संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए पार्टी प्रवक्&#x200d;ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने हा&#x200d;ल ही में इन रणनीतिक संबंधों को और सशक्&#x200d;त बनाने के लिए सेशेल्&#x200d;स और इंडोनेशिया की यात्रा की। उन्&#x200d;होंने कहा कि भारत और न्&#x200d;यूज़ीलैंड के बीच मुक्&#x200d;त व्&#x200d;यापार समझौता एक महत्&#x200d;वपूर्ण उपलब्धि&#x200d; है। पार्टी प्रवक्&#x200d;ता ने प्रधानमंत्री की इंडोनेशिया, ऑस्&#x200d;ट्रेलिया और न्&#x200d;यूज़ीलैंड की यात्रा की दस महत्&#x200d;वपूर्ण उपलब्धियों का उल्&#x200d;लेख किया। इनमें हिन्&#x200d;द महासागर हिन्&#x200d;द-प्रशांत कार्यनीतिक गठबंधन, रक्षा और समुद्री सहयोग, महत्&#x200d;वपूर्ण खनिज सहयोग, ऊर्जा सुरक्षा, आर्थिक और निवेश के अवसर, डिजिटल सार्वजनिक अवसंरचना तथा शैक्षणिक साझेदारी शामिल हैं। श्री पात्रा ने कहा कि रक्षा और समुद्री क्षेत्रों में सहयोग में ठोस प्रगति हुई है। उन्&#x200d;होंने कहा कि पहली बार भारत रक्षा उपकरण के एक निर्यातक के रूप में उभर रहा है। उन्&#x200d;होंने कहा कि भारत और ऑस्&#x200d;ट्रेल&#x200d;िया ने रक्षा और सुरक्षा सहयोग पर एक संयुक्&#x200d;त घोषणा पत्र जारी किया है। श्री पात्रा ने कहा कि इस समझौते के अंतर्गत भारत और ऑस्&#x200d;ट्रेलिया के युद्धपोतों की सर्विसिंग एक-दूसरे के डॉक पर की जाएगी।",
+        "title": "श्रम मंत्री डॉ. मनसुख मांडविया कल सात ईएसआई स्वास्थ्य परियोजनाओं का करेंगे शुभारंभ",
+        "summary": "श्रम और रोजगार मंत्री डॉ. मनसुख मांडविया मंगलवार को देशभर में लगभग छह सौ 68 करोड़ रुपये की लागत वाली सात कर्मचारी राज्य बीमा-ईएसआई स्वास्थ्य परियोजनाओं का शुभारंभ करेंगे। इन परियोजनाओं में तेलंगाना के सनतनगर में ईएसआईसी अस्पताल का नया ओपीडी ब्लॉक, असम के बेल्टोला में उन्नत 200 बिस्तरों वाला ईएसआईसी अस्पताल, तमिलनाडु के श्रीपेरुम्बुदुर […]",
+        "article": "श्रम और रोजगार मंत्री डॉ. मनसुख मांडविया मंगलवार को देशभर में लगभग छह सौ 68 करोड़ रुपये की लागत वाली सात कर्मचारी राज्य बीमा-ईएसआई स्वास्थ्य परियोजनाओं का शुभारंभ करेंगे। इन परियोजनाओं में तेलंगाना के सनतनगर में ईएसआईसी अस्पताल का नया ओपीडी ब्लॉक, असम के बेल्टोला में उन्नत 200 बिस्तरों वाला ईएसआईसी अस्पताल, तमिलनाडु के श्रीपेरुम्बुदुर में 100 बिस्तरों वाला ईएसआईसी अस्पताल, आंध्र प्रदेश के राजामहेंद्रवरम में ईएसआईसी अस्पताल, गुजरात के सुरेंद्रनगर में ईएसआई औषधालय और शाखा कार्यालय और कोटा के उद्योग नगर में ईएसआई औषधालय और शाखा कार्यालय, साथ ही राजस्थान के भवानी मंडी में ईएसआई औषधालय शामिल हैं। श्रम और रोजगार मंत्रालय ने बताया कि डॉ. मांडविया सनतनगर में ईएसआईसी अस्पताल के नए ओपीडी ब्लॉक का शुभारंभ करेंगे, जबकि शेष छह परियोजनाओं का उद्घाटन ऑनलाइन माध्यम से किया जाएगा। मंत्रालय ने बताया कि ये स्वास्थ्य सुविधाएं देशभर में लगभग 53 लाख लाभार्थियों की चिकित्सा आवश्यकताओं को पूरा करेंगी। इस अवसर पर डॉ. मांडविया राष्ट्र निर्माण में योगदान देने वाले निर्माण श्रमिकों को सम्मानित करेंगे, जिन्होंने सनतनगर के ईएसआईसी अस्पताल के ओपीडी ब्लॉक के विकास में अपना योगदान दिया है। श्रम और रोजगार राज्य मंत्री शोभा करंदलाजे भी इस कार्यक्रम में उपस्थित रहेंगी।",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:38:03+00:00",
-        "link": "https://newsonair.gov.in/hi/india-in-indo-pacific/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/BJP-MP-Sambit-Patra.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-12T14:21:05+00:00",
+        "link": "https://newsonair.gov.in/hi/minister-of-labour-and-employment-dr-mansukh-mandaviya-will-inaugurate-seven-esi-health-projects-worth-%e2%82%b9668-crore-tomorrow/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "प्रधानमंत्री नरेंद्र मोदी छह दिन की इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड यात्रा के बाद नई दिल्ली लौटे",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के राष्ट्रपति के साथ द्विपक्षीय चर्चा की और साझेदारी में हुई प्रगति की समीक्षा की। अपनी यात्रा के दूसरे चरण में, प्रधानमंत्री मोदी मेलबर्न, ऑस्ट्रेलिया गए। श्री मोदी ने ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लिया। अपनी यात्रा के दौरान, प्रधानमंत्री मोदी ने भारत-ऑस्ट्रेलिया सीईओ फोरम में भी भाग लिया, जहां उन्होंने दोनों देशों के शीर्ष व्यापारिक नेताओं की सभा को संबोधित किया। तीन देशों की यात्रा के तीसरे और अंतिम चरण में, प्रधानमंत्री ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के निमंत्रण पर 10 से 11 जुलाई तक ऑकलैंड का दौरा किया। न्यूजीलैंड की यह यात्रा किसी भी भारतीय प्रधानमंत्री की 40 वर्षों में पहली यात्रा थी।",
+        "title": "आवासन और शहरी कार्य मंत्री मनोहर लाल ने निर्माण क्षेत्र में पर्यावरण अनुकूल तकनीक अपनाने पर बल दिया",
+        "summary": "आवासन और शहरी कार्य मंत्री मनोहर लाल ने निर्माण क्षेत्र में पर्यावरण अनुकूल तकनीक अपनाने की आवश्यकता पर बल दिया। नई दिल्ली में केंद्रीय लोक निर्माण विभाग के 172वें स्थापना दिवस के अवसर पर आयोजित समारोह को संबोधित करते हुए केन्‍द्रीय मंत्री ने कहा कि किसी भी भवन या संरचना के निर्माण के दौरान उसकी […]",
+        "article": "आवासन और शहरी कार्य मंत्री मनोहर लाल ने निर्माण क्षेत्र में पर्यावरण अनुकूल तकनीक अपनाने की आवश्यकता पर बल दिया। नई दिल्ली में केंद्रीय लोक निर्माण विभाग के 172वें स्थापना दिवस के अवसर पर आयोजित समारोह को संबोधित करते हुए केन्&#x200d;द्रीय मंत्री ने कहा कि किसी भी भवन या संरचना के निर्माण के दौरान उसकी मजबूती से समझौता नहीं किया जाना चाहिए। उन्होंने केन्&#x200d;द्रीय लोक निर्माण विभाग के अधिकारियों और कर्मचारियों से संगठन की विश्वसनीयता बढ़ाने के लिए पूरी ईमानदारी और नैतिकता के साथ काम करने का आह्वान किया। इस अवसर पर केंद्रीय मंत्री ने उत्तर प्रदेश के गाजियाबाद में राष्ट्रीय लोक निर्माण परिषद के भवन की आधारशिला भी रखी। इस अवसर पर आवासन और शहरी कार्य मंत्रालय के सचिव श्रीनिवास कटिकिथला और केन्&#x200d;द्रीय लोक निर्माण विभाग के महानिदेशक भी उपस्थित थे।",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T05:51:27+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-three-nation-tour/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM8J-CXbMAAQjus.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-12T13:45:46+00:00",
+        "link": "https://newsonair.gov.in/hi/housing-and-urban-affairs-minister-manohar-lal-emphasized-the-adoption-of-eco-friendly-technologies-in-the-construction-sector/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1374,18 +1380,6 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T08:39:45+00:00",
         "link": "https://newsonair.gov.in/hi/epfo-amnesty-scheme/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्रालय ने यमन की यात्रा को लेकर 2017 की अधिसूचना वापस ली",
-        "summary": "विदेश मंत्रालय ने 2017 में जारी उस अधिसूचना को वापस ले लिया है जिसमें यमन की यात्रा करने वाले भारतीय नागरिकों पर कुछ शर्तें लगाई गई थीं। यह अधिसूचना यमन में गृहयुद्ध और सशस्त्र संघर्ष के कारण बिगड़ती सुरक्षा स्थिति को देखते हुए जारी की गई थी, जिसके चलते भारत ने अपने नागरिकों की यमन […]",
-        "article": "विदेश मंत्रालय ने 2017 में जारी उस अधिसूचना को वापस ले लिया है जिसमें यमन की यात्रा करने वाले भारतीय नागरिकों पर कुछ शर्तें लगाई गई थीं। यह अधिसूचना यमन में गृहयुद्ध और सशस्त्र संघर्ष के कारण बिगड़ती सुरक्षा स्थिति को देखते हुए जारी की गई थी, जिसके चलते भारत ने अपने नागरिकों की यमन यात्रा पर प्रतिबंध लगा दिया था। परंतु, एक परामर्श में विदेश मंत्रालय ने कहा है कि वह सभी भारतीय नागरिकों को यमन की गैर-जरूरी यात्रा से बचने की सलाह देता है। मंत्रालय ने कहा कि यदि यात्रा बेहद जरूरी है, तो इसे स्थानीय सुरक्षा स्थिति का पूरी तरह से आकलन करने के बाद ही किया जाना चाहिए और उन क्षेत्रों की यात्रा से बचना चाहिए जहां संघर्ष सक्रिय हो। मंत्रालय ने यमन में रहने वाले भारतीय नागरिकों को सतर्क रहने और यमन के भीतर ही अपनी आवाजाही सीमित रखने की सलाह दी है। विदेश मंत्रालय ने यमन में मौजूद भारतीय नागरिकों और यमन की यात्रा करने की आवश्यकता वाले लोगों को रियाद स्थित भारतीय दूतावास में पंजीकरण कराने की भी सलाह दी है ताकि आपात स्थिति में बेहतर संचार और सहायता मिल सके।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T06:13:30+00:00",
-        "link": "https://newsonair.gov.in/hi/yemen-travel-advisory/",
-        "post_id": 1733163,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1393,7 +1387,18 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
-        "title": "समाज सुधारकों की महान विरासत का सम्मान करना, हर नागरिक का कर्तव्य: उपराष्ट्रपति सी. पी. राधाकृष्णन",
+        "title": "सरकार ने इथेनॉल मिश्रित पेट्रोल से वाहन के ईंधन टैंक में समस्या वाली फर्जी तस्वीर का किया खंडन",
+        "summary": "सरकार ने सोशल मीडिया पर चल रही उस फर्जी तस्वीर का खंडन किया है जिसमें दावा किया गया है कि इथेनॉल मिश्रित पेट्रोल से वाहन के ईंधन टैंक में समस्या हो सकती है। पत्र सूचना कार्यालय की तथ्य जांच इकाई ने इस दावे को झूठा बताया है। कार्यालय ने कहा कि पेट्रोलियम और प्राकृतिक गैस […]",
+        "article": "सरकार ने सोशल मीडिया पर चल रही उस फर्जी तस्वीर का खंडन किया है जिसमें दावा किया गया है कि इथेनॉल मिश्रित पेट्रोल से वाहन के ईंधन टैंक में समस्या हो सकती है। पत्र सूचना कार्यालय की तथ्य जांच इकाई ने इस दावे को झूठा बताया है। कार्यालय ने कहा कि पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने स्पष्ट किया है कि तेल विपणन कंपनियों द्वारा आपूर्ति किया जाने वाला ई20 पेट्रोल भारतीय मानक ब्यूरो के निर्धारित मानकों के अनुरूप है। मंत्रालय ने कहा कि निर्धारित मानकों के अनुरूप होने पर इथेनॉल और पेट्रोल पूरी तरह से घुलनशील होते हैं। मंत्रालय ने यह भी आश्वासन दिया कि भारत में आपूर्ति किया जाने वाला इथेनॉल मिश्रित पेट्रोल उच्च गुणवत्ता मानकों का पालन करता है और उपभोक्ताओं को उपलब्ध कराए जाने से पहले इसका गहन परीक्षण किया जाता है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:14:49+00:00",
+        "link": "https://newsonair.gov.in/hi/the-government-has-refuted-a-fake-image-showing-problems-in-a-vehicles-fuel-tank-caused-by-ethanol-blended-petrol/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNBKkVZa0AAxmRU.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "समाज सुधारकों की महान विरासत का सम्मान करना हर नागरिक का कर्तव्य: उपराष्ट्रपति सी. पी. राधाकृष्णन",
         "summary": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज कहा कि देश के समाज सुधारकों की महान विरासत का सम्मान करना और उसे बनाए रखना हर नागरिक का कर्तव्य है। श्री राधाकृष्णन ने नई दिल्ली के द्वारका में मन्नम इंटरनेशनल सेंटर में समाज सुधारक और स्वतंत्रता सेनानी मन्नाथ पद्मनाभन की प्रतिमा का अनावरण करने और &#8216;मन्नम स्मृति मंडपम&#8217; […]",
         "article": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने आज कहा कि देश के समाज सुधारकों की महान विरासत का सम्मान करना और उसे बनाए रखना हर नागरिक का कर्तव्य है। श्री राधाकृष्णन ने नई दिल्ली के द्वारका में मन्नम इंटरनेशनल सेंटर में समाज सुधारक और स्वतंत्रता सेनानी मन्नाथ पद्मनाभन की प्रतिमा का अनावरण करने और &#8216;मन्नम स्मृति मंडपम&#8217; का उद्घाटन के अवसर पर यह बात कही। सभा को संबोधित करते हुए, उपराष्ट्रपति ने सामाजिक न्याय, समानता, शिक्षा और सामुदायिक सेवा के प्रति मन्नाथ पद्मनाभन की जीवन भर की प्रतिबद्धता का उल्&#x200d;लेख किया। उन्होंने कहा कि मन्नाथ पद्मनाभन के आदर्श एक समावेशी और सौहार्दपूर्ण समाज के निर्माण की दिशा में देश को प्रेरित करते रहते हैं। मन्नाथ पद्मनाभन को आधुनिक भारत के महानतम समाज सुधारकों में से एक बताते हुए श्री राधाकृष्णन ने कहा कि उनका जीवन शिक्षा, समाज सुधार, आत्मनिर्भरता और सामुदायिक सेवा के माध्यम से समाज के उत्थान के लिए समर्पित था। उन्होंने कहा कि जब समाज सुधार की अवधारणा को शायद ही समझा जाता था और कई लोग बिना किसी सहारे के कष्ट झेल रहे थे, उन्&#x200d;ही दिनों मन्नाथ पद्मनाभन समाज की सेवा के लिए आगे आए। उपराष्ट्रपति ने कहा कि राष्ट्रीय आंदोलन के साथ मन्नाथ पद्मनाभन का जुड़ाव इन आदर्शों के प्रति उनकी प्रतिबद्धता को और अधिक दर्शाता है। उन्होंने कहा कि महात्मा गांधी के साथ-साथ, मन्नाथ पद्मनाभन ने सामाजिक रूप से वंचित लोगों के हितों की रक्षा करने में महत्वपूर्ण भूमिका निभाई। श्री राधाकृष्णन ने ऐतिहासिक &#8216;वायकोम सत्याग्रह&#8217; में उनकी सक्रिय भागीदारी पर भी उल्&#x200d;लेख किया। उन्&#x200d;होंने इसे भारत के समाज सुधार आंदोलन के सबसे महत्वपूर्ण अध्यायों में से एक बताया। इस अवसर पर, उपराष्ट्रपति सी. पी. राधाकृष्णन ने &#8216;एक पेड़ मां के नाम&#8217; अभियान के तहत एक पौधा भी लगाया। इस अवसर पर केंद्रीय राज्य मंत्री सुरेश गोपी, नायर सर्विस सोसायटी-एनएसएस दिल्ली के अध्यक्ष एम. के. जी. पिल्लई, एनएसएस दिल्ली के महासचिव एम. डी. जयप्रकाश और अन्य गणमान्य अतिथि उपस्थित थे।",
         "date": "2026-07-12",
@@ -1437,25 +1442,25 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "भाजपा ने कहा- भारत हिन्द महासागर और हिन्द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा",
-        "summary": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्‍द महासागर और हिन्‍द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा है। नई दिल्‍ली में संवाददाता सम्‍मेलन को संबोधित करते हुए पार्टी प्रवक्‍ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्‍द्र मोदी ने हा‍ल ही में इन रणनीतिक संबंधों को और सशक्‍त बनाने के लिए सेशेल्‍स […]",
-        "article": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्&#x200d;द महासागर और हिन्&#x200d;द-प्रशांत क्षेत्र में एक स्&#x200d;थाई शक्ति के रूप में उभरा है। नई दिल्&#x200d;ली में संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए पार्टी प्रवक्&#x200d;ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने हा&#x200d;ल ही में इन रणनीतिक संबंधों को और सशक्&#x200d;त बनाने के लिए सेशेल्&#x200d;स और इंडोनेशिया की यात्रा की। उन्&#x200d;होंने कहा कि भारत और न्&#x200d;यूज़ीलैंड के बीच मुक्&#x200d;त व्&#x200d;यापार समझौता एक महत्&#x200d;वपूर्ण उपलब्धि&#x200d; है। पार्टी प्रवक्&#x200d;ता ने प्रधानमंत्री की इंडोनेशिया, ऑस्&#x200d;ट्रेलिया और न्&#x200d;यूज़ीलैंड की यात्रा की दस महत्&#x200d;वपूर्ण उपलब्धियों का उल्&#x200d;लेख किया। इनमें हिन्&#x200d;द महासागर हिन्&#x200d;द-प्रशांत कार्यनीतिक गठबंधन, रक्षा और समुद्री सहयोग, महत्&#x200d;वपूर्ण खनिज सहयोग, ऊर्जा सुरक्षा, आर्थिक और निवेश के अवसर, डिजिटल सार्वजनिक अवसंरचना तथा शैक्षणिक साझेदारी शामिल हैं। श्री पात्रा ने कहा कि रक्षा और समुद्री क्षेत्रों में सहयोग में ठोस प्रगति हुई है। उन्&#x200d;होंने कहा कि पहली बार भारत रक्षा उपकरण के एक निर्यातक के रूप में उभर रहा है। उन्&#x200d;होंने कहा कि भारत और ऑस्&#x200d;ट्रेल&#x200d;िया ने रक्षा और सुरक्षा सहयोग पर एक संयुक्&#x200d;त घोषणा पत्र जारी किया है। श्री पात्रा ने कहा कि इस समझौते के अंतर्गत भारत और ऑस्&#x200d;ट्रेलिया के युद्धपोतों की सर्विसिंग एक-दूसरे के डॉक पर की जाएगी।",
+        "title": "श्रम मंत्री डॉ. मनसुख मांडविया कल सात ईएसआई स्वास्थ्य परियोजनाओं का करेंगे शुभारंभ",
+        "summary": "श्रम और रोजगार मंत्री डॉ. मनसुख मांडविया मंगलवार को देशभर में लगभग छह सौ 68 करोड़ रुपये की लागत वाली सात कर्मचारी राज्य बीमा-ईएसआई स्वास्थ्य परियोजनाओं का शुभारंभ करेंगे। इन परियोजनाओं में तेलंगाना के सनतनगर में ईएसआईसी अस्पताल का नया ओपीडी ब्लॉक, असम के बेल्टोला में उन्नत 200 बिस्तरों वाला ईएसआईसी अस्पताल, तमिलनाडु के श्रीपेरुम्बुदुर […]",
+        "article": "श्रम और रोजगार मंत्री डॉ. मनसुख मांडविया मंगलवार को देशभर में लगभग छह सौ 68 करोड़ रुपये की लागत वाली सात कर्मचारी राज्य बीमा-ईएसआई स्वास्थ्य परियोजनाओं का शुभारंभ करेंगे। इन परियोजनाओं में तेलंगाना के सनतनगर में ईएसआईसी अस्पताल का नया ओपीडी ब्लॉक, असम के बेल्टोला में उन्नत 200 बिस्तरों वाला ईएसआईसी अस्पताल, तमिलनाडु के श्रीपेरुम्बुदुर में 100 बिस्तरों वाला ईएसआईसी अस्पताल, आंध्र प्रदेश के राजामहेंद्रवरम में ईएसआईसी अस्पताल, गुजरात के सुरेंद्रनगर में ईएसआई औषधालय और शाखा कार्यालय और कोटा के उद्योग नगर में ईएसआई औषधालय और शाखा कार्यालय, साथ ही राजस्थान के भवानी मंडी में ईएसआई औषधालय शामिल हैं। श्रम और रोजगार मंत्रालय ने बताया कि डॉ. मांडविया सनतनगर में ईएसआईसी अस्पताल के नए ओपीडी ब्लॉक का शुभारंभ करेंगे, जबकि शेष छह परियोजनाओं का उद्घाटन ऑनलाइन माध्यम से किया जाएगा। मंत्रालय ने बताया कि ये स्वास्थ्य सुविधाएं देशभर में लगभग 53 लाख लाभार्थियों की चिकित्सा आवश्यकताओं को पूरा करेंगी। इस अवसर पर डॉ. मांडविया राष्ट्र निर्माण में योगदान देने वाले निर्माण श्रमिकों को सम्मानित करेंगे, जिन्होंने सनतनगर के ईएसआईसी अस्पताल के ओपीडी ब्लॉक के विकास में अपना योगदान दिया है। श्रम और रोजगार राज्य मंत्री शोभा करंदलाजे भी इस कार्यक्रम में उपस्थित रहेंगी।",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T07:38:03+00:00",
-        "link": "https://newsonair.gov.in/hi/india-in-indo-pacific/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/BJP-MP-Sambit-Patra.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-12T14:21:05+00:00",
+        "link": "https://newsonair.gov.in/hi/minister-of-labour-and-employment-dr-mansukh-mandaviya-will-inaugurate-seven-esi-health-projects-worth-%e2%82%b9668-crore-tomorrow/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "प्रधानमंत्री नरेंद्र मोदी छह दिन की इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड यात्रा के बाद नई दिल्ली लौटे",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के राष्ट्रपति के साथ द्विपक्षीय चर्चा की और साझेदारी में हुई प्रगति की समीक्षा की। अपनी यात्रा के दूसरे चरण में, प्रधानमंत्री मोदी मेलबर्न, ऑस्ट्रेलिया गए। श्री मोदी ने ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लिया। अपनी यात्रा के दौरान, प्रधानमंत्री मोदी ने भारत-ऑस्ट्रेलिया सीईओ फोरम में भी भाग लिया, जहां उन्होंने दोनों देशों के शीर्ष व्यापारिक नेताओं की सभा को संबोधित किया। तीन देशों की यात्रा के तीसरे और अंतिम चरण में, प्रधानमंत्री ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के निमंत्रण पर 10 से 11 जुलाई तक ऑकलैंड का दौरा किया। न्यूजीलैंड की यह यात्रा किसी भी भारतीय प्रधानमंत्री की 40 वर्षों में पहली यात्रा थी।",
+        "title": "आवासन और शहरी कार्य मंत्री मनोहर लाल ने निर्माण क्षेत्र में पर्यावरण अनुकूल तकनीक अपनाने पर बल दिया",
+        "summary": "आवासन और शहरी कार्य मंत्री मनोहर लाल ने निर्माण क्षेत्र में पर्यावरण अनुकूल तकनीक अपनाने की आवश्यकता पर बल दिया। नई दिल्ली में केंद्रीय लोक निर्माण विभाग के 172वें स्थापना दिवस के अवसर पर आयोजित समारोह को संबोधित करते हुए केन्‍द्रीय मंत्री ने कहा कि किसी भी भवन या संरचना के निर्माण के दौरान उसकी […]",
+        "article": "आवासन और शहरी कार्य मंत्री मनोहर लाल ने निर्माण क्षेत्र में पर्यावरण अनुकूल तकनीक अपनाने की आवश्यकता पर बल दिया। नई दिल्ली में केंद्रीय लोक निर्माण विभाग के 172वें स्थापना दिवस के अवसर पर आयोजित समारोह को संबोधित करते हुए केन्&#x200d;द्रीय मंत्री ने कहा कि किसी भी भवन या संरचना के निर्माण के दौरान उसकी मजबूती से समझौता नहीं किया जाना चाहिए। उन्होंने केन्&#x200d;द्रीय लोक निर्माण विभाग के अधिकारियों और कर्मचारियों से संगठन की विश्वसनीयता बढ़ाने के लिए पूरी ईमानदारी और नैतिकता के साथ काम करने का आह्वान किया। इस अवसर पर केंद्रीय मंत्री ने उत्तर प्रदेश के गाजियाबाद में राष्ट्रीय लोक निर्माण परिषद के भवन की आधारशिला भी रखी। इस अवसर पर आवासन और शहरी कार्य मंत्रालय के सचिव श्रीनिवास कटिकिथला और केन्&#x200d;द्रीय लोक निर्माण विभाग के महानिदेशक भी उपस्थित थे।",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T05:51:27+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-modi-three-nation-tour/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM8J-CXbMAAQjus.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-12T13:45:46+00:00",
+        "link": "https://newsonair.gov.in/hi/housing-and-urban-affairs-minister-manohar-lal-emphasized-the-adoption-of-eco-friendly-technologies-in-the-construction-sector/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1492,21 +1497,20 @@ window.VM_NEWS = {
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्रालय ने यमन की यात्रा को लेकर 2017 की अधिसूचना वापस ली",
-        "summary": "विदेश मंत्रालय ने 2017 में जारी उस अधिसूचना को वापस ले लिया है जिसमें यमन की यात्रा करने वाले भारतीय नागरिकों पर कुछ शर्तें लगाई गई थीं। यह अधिसूचना यमन में गृहयुद्ध और सशस्त्र संघर्ष के कारण बिगड़ती सुरक्षा स्थिति को देखते हुए जारी की गई थी, जिसके चलते भारत ने अपने नागरिकों की यमन […]",
-        "article": "विदेश मंत्रालय ने 2017 में जारी उस अधिसूचना को वापस ले लिया है जिसमें यमन की यात्रा करने वाले भारतीय नागरिकों पर कुछ शर्तें लगाई गई थीं। यह अधिसूचना यमन में गृहयुद्ध और सशस्त्र संघर्ष के कारण बिगड़ती सुरक्षा स्थिति को देखते हुए जारी की गई थी, जिसके चलते भारत ने अपने नागरिकों की यमन यात्रा पर प्रतिबंध लगा दिया था। परंतु, एक परामर्श में विदेश मंत्रालय ने कहा है कि वह सभी भारतीय नागरिकों को यमन की गैर-जरूरी यात्रा से बचने की सलाह देता है। मंत्रालय ने कहा कि यदि यात्रा बेहद जरूरी है, तो इसे स्थानीय सुरक्षा स्थिति का पूरी तरह से आकलन करने के बाद ही किया जाना चाहिए और उन क्षेत्रों की यात्रा से बचना चाहिए जहां संघर्ष सक्रिय हो। मंत्रालय ने यमन में रहने वाले भारतीय नागरिकों को सतर्क रहने और यमन के भीतर ही अपनी आवाजाही सीमित रखने की सलाह दी है। विदेश मंत्रालय ने यमन में मौजूद भारतीय नागरिकों और यमन की यात्रा करने की आवश्यकता वाले लोगों को रियाद स्थित भारतीय दूतावास में पंजीकरण कराने की भी सलाह दी है ताकि आपात स्थिति में बेहतर संचार और सहायता मिल सके।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T06:13:30+00:00",
-        "link": "https://newsonair.gov.in/hi/yemen-travel-advisory/",
-        "post_id": 1733163,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "बांग्लादेश में बाढ़ और भूस्खलन से 44 लोगों की मृत्‍यु",
+        "summary": "बांग्लादेश में पिछले एक सप्ताह में बाढ़ और भूस्खलन के कारण 44 लोगों की मृत्‍यु हो गई है। बांग्‍लादेश के आपदा प्रबंधन मंत्रालय के प्रवक्ता ने बताया कि बाढ़ से लगभग दो लाख 67 हजार परिवार प्रभावित हुए हैं। रात भर हुई भारी बारिश से राजधानी ढाका के कुछ हिस्से जलमग्न हो गए, जिससे जनजीवन […]",
+        "article": "बांग्लादेश में पिछले एक सप्ताह में बाढ़ और भूस्खलन के कारण 44 लोगों की मृत्&#x200d;यु हो गई है। बांग्&#x200d;लादेश के आपदा प्रबंधन मंत्रालय के प्रवक्ता ने बताया कि बाढ़ से लगभग दो लाख 67 हजार परिवार प्रभावित हुए हैं। रात भर हुई भारी बारिश से राजधानी ढाका के कुछ हिस्से जलमग्न हो गए, जिससे जनजीवन अस्त-व्यस्त हो गया। सेना, नौसेना और वायु सेना स्थानीय एजेंसियों के साथ प्रभावित जिलों में राहत कार्य चला रही है। बाढ़ पूर्वानुमान और चेतावनी केंद्र ने चेतावनी दी है कि नदियों का बढ़ता जलस्तर कई उत्तरी और उत्तर-पश्चिमी जिलों में और अधिक बाढ़ ला सकता है, जबकि उत्तर-पूर्वी और उत्तर-पश्चिमी क्षेत्रों में स्थिति और बिगड़ सकती है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T14:41:30+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%ac%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%a6%e0%a5%87%e0%a4%b6-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%ac%e0%a4%be%e0%a4%a2%e0%a4%bc-%e0%a4%94%e0%a4%b0-%e0%a4%ad%e0%a5%82/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "अमरीका के 140 सैन्य ठिकानों पर हमलों के जवाब में ईरान ने होर्मुज जलडमरूमध्य बंद करने की घोषणा की",
         "summary": "अमरीका ने आज सुबह ईरान पर फिर से हवाई हमले किए हैं। ये हमले ईरान द्वारा होर्मुज जलडमरूमध्य में एक वाणिज्यिक पोत पर हमला किए जाने के बाद किए गए। ईरान के हमले में पोत में आग लग गई थी और चालक दल को उसे छोड़ना पड़ा था। अमरीकी सेंट्रल कमान ने बताया कि […]",
@@ -1602,17 +1606,6 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T02:54:25+00:00",
         "link": "https://newsonair.gov.in/hi/vietnam-boat-tragedy/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "स्पेन के अंडालूसिया क्षेत्र में भीषण जंगल की आग, काबू पाने के प्रयास जारी",
-        "summary": "दक्षिण-पूर्वी स्पेन के अंडालूसिया क्षेत्र में भीषण जंगल की आग को काबू में करने के लिए सैकड़ों दमकलकर्मी और सैन्य कर्मी संघर्ष कर रहे हैं। यह आग हाल के दशकों में देश की सबसे घातक जंगल की आग में से एक बन गई है। स्पेन के अधिकारियों के अनुसार, बेदार गांव के आसपास आपातकालीन सेवाओं […]",
-        "article": "दक्षिण-पूर्वी स्पेन के अंडालूसिया क्षेत्र में भीषण जंगल की आग को काबू में करने के लिए सैकड़ों दमकलकर्मी और सैन्य कर्मी संघर्ष कर रहे हैं। यह आग हाल के दशकों में देश की सबसे घातक जंगल की आग में से एक बन गई है। स्पेन के अधिकारियों के अनुसार, बेदार गांव के आसपास आपातकालीन सेवाओं को तैनात किया गया है, जहां 12 लोगों की मौत हो गई है &#8211; जिनमें चार ब्रिटिश नागरिक शामिल हैं। 23 अन्य लोग अभी भी लापता हैं। अल्मेरिया के लॉस गैलार्डोस क्षेत्र के स्थानीय अधिकारियों ने चेतावनी दी है कि मृतकों की संख्या बढ़ सकती है। लगभग 40 डिग्री सेल्सियस के तापमान वाली भीषण गर्मी में दक्षिणी यूरोप, विशेष रूप से फ्रांस, पुर्तगाल और स्पेन में जंगल की आग को जन्म दिया है। बढ़ते तापमान, अत्यधिक शुष्क जमीन और तेज हवाओं के कारण गुरुवार दोपहर को लॉस गैलार्डोस में आग तेजी से फैल गई। अंडालूसिया के स्वास्थ्य और आपातकालीन मंत्री एंटोनियो सैन्ज़ ने कहा कि आग 6 हजार 600 हेक्टेयर भूमि में फैल चुकी है।.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:50:04+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a5%87%e0%a4%a8-%e0%a4%95%e0%a5%87-%e0%a4%85%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b2%e0%a5%82%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be-%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%87/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
