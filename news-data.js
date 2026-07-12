@@ -1,6 +1,6 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-12T05:59:50.267015",
+  "generated": "2026-07-12T07:49:29.502344",
   "en": {
     "top": [
       {
@@ -44,28 +44,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-11T16:42:00+00:00",
         "link": "https://newsonair.gov.in/hyderabad-to-play-a-key-role-indias-ai-and-semiconductor-growth-union-minister-ashwini-vaishnaw/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/ashwini-it-2-1-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "SEBI allows mutual funds to avail intraday borrowing facility",
-        "summary": "Market regulator Securities and Exchange Board of India has allowed mutual funds to avail intraday borrowing facilities to address temporary liquidity mismatches arising from differences in market settlement timings, according to a circular issued on Friday. The move follows amendments to the SEBI (Mutual Funds) Regulations, 2026, notified earlier this month, permitting mutual funds […]",
-        "article": "Market regulator Securities and Exchange Board of India has allowed mutual funds to avail intraday borrowing facilities to address temporary liquidity mismatches arising from differences in market settlement timings, according to a circular issued on Friday. The move follows amendments to the SEBI (Mutual Funds) Regulations, 2026, notified earlier this month, permitting mutual funds to borrow funds during trading hours for specified operational purposes. Under the new framework, mutual funds will be allowed to use intraday borrowings for unitholder payouts including redemptions, dividend distributions and interest payments, as well as for settlement of investments, mark-to-market obligations, foreign exchange settlements and repayment of existing borrowings. SEBI said, the amount of such borrowings would primarily be restricted to expected inflows including subscription proceeds, payments from clearing corporations, maturity proceeds and settlement receivables due during the same day. Additional borrowing would be permitted only for meeting redemption and other investor payout obligations. Asset Management Companies (AMCs) will be required to ensure that all intraday borrowings are repaid before the end of the trading day. Any borrowing that spills over into overnight funding must remain within existing regulatory limits applicable to mutual funds. The regulator has also mandated that the boards of AMCs and trustees approve a formal policy governing the use of intraday borrowing facilities, with details of the policy to be disclosed on the AMC&#8217;s website. Further, SEBI clarified that the cost of intraday borrowing and any losses arising from delays in receiving expected funds will have to be borne by the AMC and not passed on to investors. The circular will come into effect from September 1, this year.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T16:09:39+00:00",
-        "link": "https://newsonair.gov.in/sebi-allows-mutual-funds-to-avail-intraday-borrowing-facility/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/SEBI.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "FSSAI issues nine notices to Swiggy Instamart over food safety complaints",
-        "summary": "Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. &#160; In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing which […]",
-        "article": "Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. &nbsp; In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing which appropriate legal action will be initiated. Consumer complaints alleged the supply of expired, spoiled, rotten, contaminated and otherwise unsafe food products through Swiggy Instamart. &nbsp; The Food Regulator&#8217;s notices also raised concerns over incorrect, invalid or non-existent licence numbers and food business entities allegedly operating under names different from those registered with FSSAI.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T16:01:15+00:00",
-        "link": "https://newsonair.gov.in/fssai-issues-nine-notices-to-swiggy-instamart-over-food-safety-complaints/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/FSSAI-issues-nine-notices-to-Swiggy-Instamart-over-food-safety-complaints.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -125,14 +103,36 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Indian diaspora gathers in large numbers for ‘Melbourne Meets Modi’ event",
-        "summary": "The air inside Melbourne’s iconic Marvel Stadium is vibrating with raw, electric energy as a massive crowd of ecstatic members of the Indian-Australian community is gathering for the historic &#8220;Melbourne Meets Modi&#8221; diaspora event. It is not a world-class sporting finale or a stadium-rock concert drawing this ocean of people, but a loud, high-octane celebration […]",
-        "article": "The air inside Melbourne’s iconic Marvel Stadium is vibrating with raw, electric energy as a massive crowd of ecstatic members of the Indian-Australian community is gathering for the historic &#8220;Melbourne Meets Modi&#8221; diaspora event. It is not a world-class sporting finale or a stadium-rock concert drawing this ocean of people, but a loud, high-octane celebration of cultural pride and shared heritage. The venue is transforming into a spectacular sea of tricolour flags, traditional attire, and deafening cheers. As roaring chants are bouncing off the stadium&#8217;s retractable roof, this grand gathering is proving that the diaspora is truly acting as a vibrant force driving the future of the India-Australia strategic partnership.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T08:20:24+00:00",
-        "link": "https://newsonair.gov.in/indian-diaspora-gathers-in-large-numbers-for-melbourne-meets-modi-event/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indian-diaspora-gathers-in-large-numbers-for-Melbourne-Meets-Modi-event.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "EPFO introduces 6-month Amnesty Scheme for establishments operating ‘Exempted Provident Fund’ to regularise their status",
+        "summary": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating […]",
+        "article": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating a Provident Fund Trust recognised under the Income Tax Act, 1961. The Ministry said that eligible establishments shall submit a formal application through email to the concerned Regional Office. An &#8216;Exempted Provident Fund&#8217; is an employer-managed PF scheme that handles its own provident fund contributions internally through a private trust, rather than depositing them directly into EPFO. Akashvani correspondent reports that the EPFO&#8217;s introduced Amnesty Scheme provides a one-time opportunity for eligible establishments that have been operating recognised PF trusts to regularise their status retrospectively. It is intended to bring such trusts within a uniform statutory framework while ensuring compliance with the applicable legal provisions. For employees, the scheme is expected to provide greater certainty regarding the legal status of their employer&#8217;s provident fund trust. It also requires that member accounts should have received contributions and interest at par with or better than the statutory EPFO rates for the prescribed reliefs to apply. By regularising exempted PF trusts, the scheme is also expected to make the administration of provident fund benefits more streamlined and legally compliant.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:48:57+00:00",
+        "link": "https://newsonair.gov.in/epfo-invites-applications-for-amnesty-scheme-from-provident-fund-trusts/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani dies at 74; PM Modi condoles the demise of father of Emir of Qatar",
+        "summary": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, […]",
+        "article": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, Qatar emerged as a global energy powerhouse, launched the Al Jazeera news network, expanded its international investments, and successfully hosted the 2022 FIFA World Cup. Prime Minister Narendra Modi expressed grief over the demise of the Emir of Qatar, Sheikh Hamad binKhalifa Al Thani. In a social media post, Mr Modi said that Sheikh Hamad binKhalifa Al Thani was a visionary leader who led Qatar to great levels of development and prosperity. The Prime Minister added that India remembers him as a true friend. Mr Modi conveyed his condolences to the Amir of Qatar, Sheikh Tamim bin Hamad Al Thani and the entire royal family and people of Qatar. &nbsp; &nbsp;",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:46:19+00:00",
+        "link": "https://newsonair.gov.in/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74-pm-modi-condoles-the-demise-of-father-of-emir-of-qatar/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt debunks fake approval letter, claiming to grant loan under PMMY on payment of RS 350 as processing fee",
+        "summary": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro […]",
+        "article": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro Units Development and Refinance Agency (MUDRA) does not lend directly to micro-entrepreneurs or individuals. It noted that MUDRA provides refinancing support to last-mile financiers, including Non-Banking Financial Companies, Microfinance Institutions, societies, trusts, Section 8 companies, small finance banks, and regional rural banks, which in turn extend loans to micro and small business entities engaged in manufacturing, trading, services, and agri-allied activities. PIB urged citizens to be aware of such fake news and advised them not to transfer money based on such messages and also not to share personal or banking details.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:28:21+00:00",
+        "link": "https://newsonair.gov.in/govt-debunks-fake-approval-letter-claiming-to-grant-loan-under-pmmy-on-payment-of-rs-350-as-processing-fee/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -149,25 +149,47 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "SEBI allows mutual funds to avail intraday borrowing facility",
-        "summary": "Market regulator Securities and Exchange Board of India has allowed mutual funds to avail intraday borrowing facilities to address temporary liquidity mismatches arising from differences in market settlement timings, according to a circular issued on Friday. The move follows amendments to the SEBI (Mutual Funds) Regulations, 2026, notified earlier this month, permitting mutual funds […]",
-        "article": "Market regulator Securities and Exchange Board of India has allowed mutual funds to avail intraday borrowing facilities to address temporary liquidity mismatches arising from differences in market settlement timings, according to a circular issued on Friday. The move follows amendments to the SEBI (Mutual Funds) Regulations, 2026, notified earlier this month, permitting mutual funds to borrow funds during trading hours for specified operational purposes. Under the new framework, mutual funds will be allowed to use intraday borrowings for unitholder payouts including redemptions, dividend distributions and interest payments, as well as for settlement of investments, mark-to-market obligations, foreign exchange settlements and repayment of existing borrowings. SEBI said, the amount of such borrowings would primarily be restricted to expected inflows including subscription proceeds, payments from clearing corporations, maturity proceeds and settlement receivables due during the same day. Additional borrowing would be permitted only for meeting redemption and other investor payout obligations. Asset Management Companies (AMCs) will be required to ensure that all intraday borrowings are repaid before the end of the trading day. Any borrowing that spills over into overnight funding must remain within existing regulatory limits applicable to mutual funds. The regulator has also mandated that the boards of AMCs and trustees approve a formal policy governing the use of intraday borrowing facilities, with details of the policy to be disclosed on the AMC&#8217;s website. Further, SEBI clarified that the cost of intraday borrowing and any losses arising from delays in receiving expected funds will have to be borne by the AMC and not passed on to investors. The circular will come into effect from September 1, this year.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T16:09:39+00:00",
-        "link": "https://newsonair.gov.in/sebi-allows-mutual-funds-to-avail-intraday-borrowing-facility/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/SEBI.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "EPFO introduces 6-month Amnesty Scheme for establishments operating ‘Exempted Provident Fund’ to regularise their status",
+        "summary": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating […]",
+        "article": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating a Provident Fund Trust recognised under the Income Tax Act, 1961. The Ministry said that eligible establishments shall submit a formal application through email to the concerned Regional Office. An &#8216;Exempted Provident Fund&#8217; is an employer-managed PF scheme that handles its own provident fund contributions internally through a private trust, rather than depositing them directly into EPFO. Akashvani correspondent reports that the EPFO&#8217;s introduced Amnesty Scheme provides a one-time opportunity for eligible establishments that have been operating recognised PF trusts to regularise their status retrospectively. It is intended to bring such trusts within a uniform statutory framework while ensuring compliance with the applicable legal provisions. For employees, the scheme is expected to provide greater certainty regarding the legal status of their employer&#8217;s provident fund trust. It also requires that member accounts should have received contributions and interest at par with or better than the statutory EPFO rates for the prescribed reliefs to apply. By regularising exempted PF trusts, the scheme is also expected to make the administration of provident fund benefits more streamlined and legally compliant.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:48:57+00:00",
+        "link": "https://newsonair.gov.in/epfo-invites-applications-for-amnesty-scheme-from-provident-fund-trusts/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "FSSAI issues nine notices to Swiggy Instamart over food safety complaints",
-        "summary": "Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. &#160; In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing which […]",
-        "article": "Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. &nbsp; In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing which appropriate legal action will be initiated. Consumer complaints alleged the supply of expired, spoiled, rotten, contaminated and otherwise unsafe food products through Swiggy Instamart. &nbsp; The Food Regulator&#8217;s notices also raised concerns over incorrect, invalid or non-existent licence numbers and food business entities allegedly operating under names different from those registered with FSSAI.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T16:01:15+00:00",
-        "link": "https://newsonair.gov.in/fssai-issues-nine-notices-to-swiggy-instamart-over-food-safety-complaints/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/FSSAI-issues-nine-notices-to-Swiggy-Instamart-over-food-safety-complaints.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "Former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani dies at 74; PM Modi condoles the demise of father of Emir of Qatar",
+        "summary": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, […]",
+        "article": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, Qatar emerged as a global energy powerhouse, launched the Al Jazeera news network, expanded its international investments, and successfully hosted the 2022 FIFA World Cup. Prime Minister Narendra Modi expressed grief over the demise of the Emir of Qatar, Sheikh Hamad binKhalifa Al Thani. In a social media post, Mr Modi said that Sheikh Hamad binKhalifa Al Thani was a visionary leader who led Qatar to great levels of development and prosperity. The Prime Minister added that India remembers him as a true friend. Mr Modi conveyed his condolences to the Amir of Qatar, Sheikh Tamim bin Hamad Al Thani and the entire royal family and people of Qatar. &nbsp; &nbsp;",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:46:19+00:00",
+        "link": "https://newsonair.gov.in/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74-pm-modi-condoles-the-demise-of-father-of-emir-of-qatar/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt debunks fake approval letter, claiming to grant loan under PMMY on payment of RS 350 as processing fee",
+        "summary": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro […]",
+        "article": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro Units Development and Refinance Agency (MUDRA) does not lend directly to micro-entrepreneurs or individuals. It noted that MUDRA provides refinancing support to last-mile financiers, including Non-Banking Financial Companies, Microfinance Institutions, societies, trusts, Section 8 companies, small finance banks, and regional rural banks, which in turn extend loans to micro and small business entities engaged in manufacturing, trading, services, and agri-allied activities. PIB urged citizens to be aware of such fake news and advised them not to transfer money based on such messages and also not to share personal or banking details.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:28:21+00:00",
+        "link": "https://newsonair.gov.in/govt-debunks-fake-approval-letter-claiming-to-grant-loan-under-pmmy-on-payment-of-rs-350-as-processing-fee/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Narendra Modi returns to India after successfully concluding his 3-nation visit to Indonesia, Australia and New Zealand",
+        "summary": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia from 6th to 8th of this month at the invitation of President Prabowo Subianto. During the visit, the Prime Minister […]",
+        "article": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia from 6th to 8th of this month at the invitation of President Prabowo Subianto. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress made in the partnership. In the second leg of his tour, Prime Minister Modi travelled to Melbourne, Australia. Mr Modi participated in the third India-Australia Annual Summit with Australian Prime Minister Anthony Albanese. During his visit, Prime Minister Modi also participated in the India-Australia CEOs Forum, where he addressed a gathering of top business leaders from both countries. On the third and last leg of his three-nation visit, the Prime Minister visited Auckland from 10th to 11th July at the invitation of New Zealand Prime Minister Christopher Luxon. The visit to New Zealand was the first visit by the Indian Prime Minister in 40 years.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:21:09+00:00",
+        "link": "https://newsonair.gov.in/pm-narendra-modi-returns-to-india-after-successfully-concluding-his-3-nation-visit-to-indonesia-australia-and-new-zealand/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -221,28 +243,6 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T02:22:03+00:00",
         "link": "https://newsonair.gov.in/prime-minister-modi-concludes-new-zealand-visit-departs-for-india/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Northern Railway surpasses Q1 operational and revenue targets",
-        "summary": "Northern Railway has achieved significant milestones in operational efficiency, revenue generation, ticket checking, and passenger services during the first quarter of the financial year 2026-27, from April to June. During this period, it enhanced passenger convenience through various operational initiatives and recorded significant revenue growth, surpassing the targets set by the Railway Board.",
-        "article": "Northern Railway has achieved significant milestones in operational efficiency, revenue generation, ticket checking, and passenger services during the first quarter of the financial year 2026-27, from April to June. During this period, it enhanced passenger convenience through various operational initiatives and recorded significant revenue growth, surpassing the targets set by the Railway Board. Northern Railway also recorded significant improvements in overall passenger and revenue performance. Originating passengers increased from more than 114 million to 120 million during this period, which stands as over 5 percent increase. Revenue grew from over three thousand crore rupees to more than three thousand five hundred crore rupees, reflecting an increase of over 15 per cent. Meanwhile, to meet the growing passenger demand, Northern Railway successfully operated more than one thousand 800 special trains under the Trains on Demand scheme, generating additional revenue of over 185 crore rupees.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T16:24:41+00:00",
-        "link": "https://newsonair.gov.in/northern-railway-surpasses-q1-operational-and-revenue-targets/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "RBI absorbs ₹1.10 lakh crore surplus liquidity from banking system on July 9",
-        "summary": "The Reserve Bank of India- RBI absorbed liquidity worth 1.10 lakh crore rupees from the banking system on July 9, indicating the presence of surplus cash with lenders despite continued money market activity. According to the RBI&#8217;s latest Money Market Operations data the central bank absorbed 1.67 lakh crore rupees through the Standing Deposit […]",
-        "article": "The Reserve Bank of India- RBI absorbed liquidity worth 1.10 lakh crore rupees from the banking system on July 9, indicating the presence of surplus cash with lenders despite continued money market activity. According to the RBI&#8217;s latest Money Market Operations data the central bank absorbed 1.67 lakh crore rupees through the Standing Deposit Facility (SDF) at an interest rate of 5 per cent, while injecting 46,729 crore rupees through repo operations at 5.26 per cent. The net effect of the day&#8217;s liquidity operations resulted in an absorption of 1.20 lakh crore rupees from the banking system. After accounting for outstanding liquidity facilities, the overall net liquidity absorption stood at 1.10 lakh crore rupees. Activity in the overnight money market remained robust, with total transactions in the overnight segment amounting to 6.91 lakh crore rupees at a weighted average rate of 5.28 per cent. The triparty repo segment accounted for the largest share of transactions at 4.81 lakh crore rupees, followed by market repo transactions worth 1.78 lakh crore rupees and call money transactions of 24,893 crore rupees. Banks maintained cash balances of 7.88 lakh crore rupees with the RBI as on July 9, marginally below the average cash reserve requirement of 7.98 lakh crore rupees for the fortnight ending July 15. The RBI data also showed that the country&#8217;s net durable liquidity surplus stood at 4.82 lakh crore rupees as of June 15, reflecting comfortable liquidity conditions in the financial system.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T16:15:34+00:00",
-        "link": "https://newsonair.gov.in/rbi-absorbs-%e2%82%b91-10-lakh-crore-surplus-liquidity-from-banking-system-on-july-9/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -261,25 +261,47 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "SEBI allows mutual funds to avail intraday borrowing facility",
-        "summary": "Market regulator Securities and Exchange Board of India has allowed mutual funds to avail intraday borrowing facilities to address temporary liquidity mismatches arising from differences in market settlement timings, according to a circular issued on Friday. The move follows amendments to the SEBI (Mutual Funds) Regulations, 2026, notified earlier this month, permitting mutual funds […]",
-        "article": "Market regulator Securities and Exchange Board of India has allowed mutual funds to avail intraday borrowing facilities to address temporary liquidity mismatches arising from differences in market settlement timings, according to a circular issued on Friday. The move follows amendments to the SEBI (Mutual Funds) Regulations, 2026, notified earlier this month, permitting mutual funds to borrow funds during trading hours for specified operational purposes. Under the new framework, mutual funds will be allowed to use intraday borrowings for unitholder payouts including redemptions, dividend distributions and interest payments, as well as for settlement of investments, mark-to-market obligations, foreign exchange settlements and repayment of existing borrowings. SEBI said, the amount of such borrowings would primarily be restricted to expected inflows including subscription proceeds, payments from clearing corporations, maturity proceeds and settlement receivables due during the same day. Additional borrowing would be permitted only for meeting redemption and other investor payout obligations. Asset Management Companies (AMCs) will be required to ensure that all intraday borrowings are repaid before the end of the trading day. Any borrowing that spills over into overnight funding must remain within existing regulatory limits applicable to mutual funds. The regulator has also mandated that the boards of AMCs and trustees approve a formal policy governing the use of intraday borrowing facilities, with details of the policy to be disclosed on the AMC&#8217;s website. Further, SEBI clarified that the cost of intraday borrowing and any losses arising from delays in receiving expected funds will have to be borne by the AMC and not passed on to investors. The circular will come into effect from September 1, this year.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T16:09:39+00:00",
-        "link": "https://newsonair.gov.in/sebi-allows-mutual-funds-to-avail-intraday-borrowing-facility/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/SEBI.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "EPFO introduces 6-month Amnesty Scheme for establishments operating ‘Exempted Provident Fund’ to regularise their status",
+        "summary": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating […]",
+        "article": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating a Provident Fund Trust recognised under the Income Tax Act, 1961. The Ministry said that eligible establishments shall submit a formal application through email to the concerned Regional Office. An &#8216;Exempted Provident Fund&#8217; is an employer-managed PF scheme that handles its own provident fund contributions internally through a private trust, rather than depositing them directly into EPFO. Akashvani correspondent reports that the EPFO&#8217;s introduced Amnesty Scheme provides a one-time opportunity for eligible establishments that have been operating recognised PF trusts to regularise their status retrospectively. It is intended to bring such trusts within a uniform statutory framework while ensuring compliance with the applicable legal provisions. For employees, the scheme is expected to provide greater certainty regarding the legal status of their employer&#8217;s provident fund trust. It also requires that member accounts should have received contributions and interest at par with or better than the statutory EPFO rates for the prescribed reliefs to apply. By regularising exempted PF trusts, the scheme is also expected to make the administration of provident fund benefits more streamlined and legally compliant.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:48:57+00:00",
+        "link": "https://newsonair.gov.in/epfo-invites-applications-for-amnesty-scheme-from-provident-fund-trusts/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "FSSAI issues nine notices to Swiggy Instamart over food safety complaints",
-        "summary": "Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. &#160; In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing which […]",
-        "article": "Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. &nbsp; In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing which appropriate legal action will be initiated. Consumer complaints alleged the supply of expired, spoiled, rotten, contaminated and otherwise unsafe food products through Swiggy Instamart. &nbsp; The Food Regulator&#8217;s notices also raised concerns over incorrect, invalid or non-existent licence numbers and food business entities allegedly operating under names different from those registered with FSSAI.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T16:01:15+00:00",
-        "link": "https://newsonair.gov.in/fssai-issues-nine-notices-to-swiggy-instamart-over-food-safety-complaints/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/FSSAI-issues-nine-notices-to-Swiggy-Instamart-over-food-safety-complaints.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "Former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani dies at 74; PM Modi condoles the demise of father of Emir of Qatar",
+        "summary": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, […]",
+        "article": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, Qatar emerged as a global energy powerhouse, launched the Al Jazeera news network, expanded its international investments, and successfully hosted the 2022 FIFA World Cup. Prime Minister Narendra Modi expressed grief over the demise of the Emir of Qatar, Sheikh Hamad binKhalifa Al Thani. In a social media post, Mr Modi said that Sheikh Hamad binKhalifa Al Thani was a visionary leader who led Qatar to great levels of development and prosperity. The Prime Minister added that India remembers him as a true friend. Mr Modi conveyed his condolences to the Amir of Qatar, Sheikh Tamim bin Hamad Al Thani and the entire royal family and people of Qatar. &nbsp; &nbsp;",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:46:19+00:00",
+        "link": "https://newsonair.gov.in/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74-pm-modi-condoles-the-demise-of-father-of-emir-of-qatar/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt debunks fake approval letter, claiming to grant loan under PMMY on payment of RS 350 as processing fee",
+        "summary": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro […]",
+        "article": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro Units Development and Refinance Agency (MUDRA) does not lend directly to micro-entrepreneurs or individuals. It noted that MUDRA provides refinancing support to last-mile financiers, including Non-Banking Financial Companies, Microfinance Institutions, societies, trusts, Section 8 companies, small finance banks, and regional rural banks, which in turn extend loans to micro and small business entities engaged in manufacturing, trading, services, and agri-allied activities. PIB urged citizens to be aware of such fake news and advised them not to transfer money based on such messages and also not to share personal or banking details.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:28:21+00:00",
+        "link": "https://newsonair.gov.in/govt-debunks-fake-approval-letter-claiming-to-grant-loan-under-pmmy-on-payment-of-rs-350-as-processing-fee/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Narendra Modi returns to India after successfully concluding his 3-nation visit to Indonesia, Australia and New Zealand",
+        "summary": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia from 6th to 8th of this month at the invitation of President Prabowo Subianto. During the visit, the Prime Minister […]",
+        "article": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia from 6th to 8th of this month at the invitation of President Prabowo Subianto. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress made in the partnership. In the second leg of his tour, Prime Minister Modi travelled to Melbourne, Australia. Mr Modi participated in the third India-Australia Annual Summit with Australian Prime Minister Anthony Albanese. During his visit, Prime Minister Modi also participated in the India-Australia CEOs Forum, where he addressed a gathering of top business leaders from both countries. On the third and last leg of his three-nation visit, the Prime Minister visited Auckland from 10th to 11th July at the invitation of New Zealand Prime Minister Christopher Luxon. The visit to New Zealand was the first visit by the Indian Prime Minister in 40 years.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:21:09+00:00",
+        "link": "https://newsonair.gov.in/pm-narendra-modi-returns-to-india-after-successfully-concluding-his-3-nation-visit-to-indonesia-australia-and-new-zealand/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -333,28 +355,6 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T02:22:03+00:00",
         "link": "https://newsonair.gov.in/prime-minister-modi-concludes-new-zealand-visit-departs-for-india/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Northern Railway surpasses Q1 operational and revenue targets",
-        "summary": "Northern Railway has achieved significant milestones in operational efficiency, revenue generation, ticket checking, and passenger services during the first quarter of the financial year 2026-27, from April to June. During this period, it enhanced passenger convenience through various operational initiatives and recorded significant revenue growth, surpassing the targets set by the Railway Board.",
-        "article": "Northern Railway has achieved significant milestones in operational efficiency, revenue generation, ticket checking, and passenger services during the first quarter of the financial year 2026-27, from April to June. During this period, it enhanced passenger convenience through various operational initiatives and recorded significant revenue growth, surpassing the targets set by the Railway Board. Northern Railway also recorded significant improvements in overall passenger and revenue performance. Originating passengers increased from more than 114 million to 120 million during this period, which stands as over 5 percent increase. Revenue grew from over three thousand crore rupees to more than three thousand five hundred crore rupees, reflecting an increase of over 15 per cent. Meanwhile, to meet the growing passenger demand, Northern Railway successfully operated more than one thousand 800 special trains under the Trains on Demand scheme, generating additional revenue of over 185 crore rupees.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T16:24:41+00:00",
-        "link": "https://newsonair.gov.in/northern-railway-surpasses-q1-operational-and-revenue-targets/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "RBI absorbs ₹1.10 lakh crore surplus liquidity from banking system on July 9",
-        "summary": "The Reserve Bank of India- RBI absorbed liquidity worth 1.10 lakh crore rupees from the banking system on July 9, indicating the presence of surplus cash with lenders despite continued money market activity. According to the RBI&#8217;s latest Money Market Operations data the central bank absorbed 1.67 lakh crore rupees through the Standing Deposit […]",
-        "article": "The Reserve Bank of India- RBI absorbed liquidity worth 1.10 lakh crore rupees from the banking system on July 9, indicating the presence of surplus cash with lenders despite continued money market activity. According to the RBI&#8217;s latest Money Market Operations data the central bank absorbed 1.67 lakh crore rupees through the Standing Deposit Facility (SDF) at an interest rate of 5 per cent, while injecting 46,729 crore rupees through repo operations at 5.26 per cent. The net effect of the day&#8217;s liquidity operations resulted in an absorption of 1.20 lakh crore rupees from the banking system. After accounting for outstanding liquidity facilities, the overall net liquidity absorption stood at 1.10 lakh crore rupees. Activity in the overnight money market remained robust, with total transactions in the overnight segment amounting to 6.91 lakh crore rupees at a weighted average rate of 5.28 per cent. The triparty repo segment accounted for the largest share of transactions at 4.81 lakh crore rupees, followed by market repo transactions worth 1.78 lakh crore rupees and call money transactions of 24,893 crore rupees. Banks maintained cash balances of 7.88 lakh crore rupees with the RBI as on July 9, marginally below the average cash reserve requirement of 7.98 lakh crore rupees for the fortnight ending July 15. The RBI data also showed that the country&#8217;s net durable liquidity surplus stood at 4.82 lakh crore rupees as of June 15, reflecting comfortable liquidity conditions in the financial system.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T16:15:34+00:00",
-        "link": "https://newsonair.gov.in/rbi-absorbs-%e2%82%b91-10-lakh-crore-surplus-liquidity-from-banking-system-on-july-9/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -373,25 +373,47 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "SEBI allows mutual funds to avail intraday borrowing facility",
-        "summary": "Market regulator Securities and Exchange Board of India has allowed mutual funds to avail intraday borrowing facilities to address temporary liquidity mismatches arising from differences in market settlement timings, according to a circular issued on Friday. The move follows amendments to the SEBI (Mutual Funds) Regulations, 2026, notified earlier this month, permitting mutual funds […]",
-        "article": "Market regulator Securities and Exchange Board of India has allowed mutual funds to avail intraday borrowing facilities to address temporary liquidity mismatches arising from differences in market settlement timings, according to a circular issued on Friday. The move follows amendments to the SEBI (Mutual Funds) Regulations, 2026, notified earlier this month, permitting mutual funds to borrow funds during trading hours for specified operational purposes. Under the new framework, mutual funds will be allowed to use intraday borrowings for unitholder payouts including redemptions, dividend distributions and interest payments, as well as for settlement of investments, mark-to-market obligations, foreign exchange settlements and repayment of existing borrowings. SEBI said, the amount of such borrowings would primarily be restricted to expected inflows including subscription proceeds, payments from clearing corporations, maturity proceeds and settlement receivables due during the same day. Additional borrowing would be permitted only for meeting redemption and other investor payout obligations. Asset Management Companies (AMCs) will be required to ensure that all intraday borrowings are repaid before the end of the trading day. Any borrowing that spills over into overnight funding must remain within existing regulatory limits applicable to mutual funds. The regulator has also mandated that the boards of AMCs and trustees approve a formal policy governing the use of intraday borrowing facilities, with details of the policy to be disclosed on the AMC&#8217;s website. Further, SEBI clarified that the cost of intraday borrowing and any losses arising from delays in receiving expected funds will have to be borne by the AMC and not passed on to investors. The circular will come into effect from September 1, this year.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T16:09:39+00:00",
-        "link": "https://newsonair.gov.in/sebi-allows-mutual-funds-to-avail-intraday-borrowing-facility/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/SEBI.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "EPFO introduces 6-month Amnesty Scheme for establishments operating ‘Exempted Provident Fund’ to regularise their status",
+        "summary": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating […]",
+        "article": "The Employees’ Provident Fund Organisation (EPFO) has introduced the Amnesty Scheme 2026, providing a one-time opportunity for establishments operating an &#8216;Exempted Provident Fund&#8217; to regularise their status. The Labour and Employment Ministry said that the scheme will remain open for a period of six months. This Scheme applies to establishments that have been operating a Provident Fund Trust recognised under the Income Tax Act, 1961. The Ministry said that eligible establishments shall submit a formal application through email to the concerned Regional Office. An &#8216;Exempted Provident Fund&#8217; is an employer-managed PF scheme that handles its own provident fund contributions internally through a private trust, rather than depositing them directly into EPFO. Akashvani correspondent reports that the EPFO&#8217;s introduced Amnesty Scheme provides a one-time opportunity for eligible establishments that have been operating recognised PF trusts to regularise their status retrospectively. It is intended to bring such trusts within a uniform statutory framework while ensuring compliance with the applicable legal provisions. For employees, the scheme is expected to provide greater certainty regarding the legal status of their employer&#8217;s provident fund trust. It also requires that member accounts should have received contributions and interest at par with or better than the statutory EPFO rates for the prescribed reliefs to apply. By regularising exempted PF trusts, the scheme is also expected to make the administration of provident fund benefits more streamlined and legally compliant.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:48:57+00:00",
+        "link": "https://newsonair.gov.in/epfo-invites-applications-for-amnesty-scheme-from-provident-fund-trusts/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "FSSAI issues nine notices to Swiggy Instamart over food safety complaints",
-        "summary": "Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. &#160; In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing which […]",
-        "article": "Food Safety and Standards Authority of India (FSSAI) has issued nine notices to Swiggy Instamart following multiple consumer complaints alleging violations under the Food Safety and Standards Act 2006. &nbsp; In a social media post, FSSAI said that the Food Business Operator has been directed to submit a detailed explanation and compliance report, failing which appropriate legal action will be initiated. Consumer complaints alleged the supply of expired, spoiled, rotten, contaminated and otherwise unsafe food products through Swiggy Instamart. &nbsp; The Food Regulator&#8217;s notices also raised concerns over incorrect, invalid or non-existent licence numbers and food business entities allegedly operating under names different from those registered with FSSAI.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T16:01:15+00:00",
-        "link": "https://newsonair.gov.in/fssai-issues-nine-notices-to-swiggy-instamart-over-food-safety-complaints/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/FSSAI-issues-nine-notices-to-Swiggy-Instamart-over-food-safety-complaints.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "Former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani dies at 74; PM Modi condoles the demise of father of Emir of Qatar",
+        "summary": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, […]",
+        "article": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, Qatar emerged as a global energy powerhouse, launched the Al Jazeera news network, expanded its international investments, and successfully hosted the 2022 FIFA World Cup. Prime Minister Narendra Modi expressed grief over the demise of the Emir of Qatar, Sheikh Hamad binKhalifa Al Thani. In a social media post, Mr Modi said that Sheikh Hamad binKhalifa Al Thani was a visionary leader who led Qatar to great levels of development and prosperity. The Prime Minister added that India remembers him as a true friend. Mr Modi conveyed his condolences to the Amir of Qatar, Sheikh Tamim bin Hamad Al Thani and the entire royal family and people of Qatar. &nbsp; &nbsp;",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:46:19+00:00",
+        "link": "https://newsonair.gov.in/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74-pm-modi-condoles-the-demise-of-father-of-emir-of-qatar/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt debunks fake approval letter, claiming to grant loan under PMMY on payment of RS 350 as processing fee",
+        "summary": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro […]",
+        "article": "The Government has debunked a fake approval letter, claiming to grant a loan of five lakh rupees under the Pradhan Mantri Mudra Yojana on payment of 350 rupees as a processing fee. The Fact Check Unit of the Press Information Bureau (PIB) has termed the letter as fake. PIB clarified that the Micro Units Development and Refinance Agency (MUDRA) does not lend directly to micro-entrepreneurs or individuals. It noted that MUDRA provides refinancing support to last-mile financiers, including Non-Banking Financial Companies, Microfinance Institutions, societies, trusts, Section 8 companies, small finance banks, and regional rural banks, which in turn extend loans to micro and small business entities engaged in manufacturing, trading, services, and agri-allied activities. PIB urged citizens to be aware of such fake news and advised them not to transfer money based on such messages and also not to share personal or banking details.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:28:21+00:00",
+        "link": "https://newsonair.gov.in/govt-debunks-fake-approval-letter-claiming-to-grant-loan-under-pmmy-on-payment-of-rs-350-as-processing-fee/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PM Narendra Modi returns to India after successfully concluding his 3-nation visit to Indonesia, Australia and New Zealand",
+        "summary": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia from 6th to 8th of this month at the invitation of President Prabowo Subianto. During the visit, the Prime Minister […]",
+        "article": "Prime Minister Narendra Modi has returned to New Delhi after concluding his six-day successful visit to Indonesia, Australia and New Zealand. In the first leg of his three-nation tour, Mr Modi visited Indonesia from 6th to 8th of this month at the invitation of President Prabowo Subianto. During the visit, the Prime Minister held bilateral discussions with the Indonesian President and reviewed the progress made in the partnership. In the second leg of his tour, Prime Minister Modi travelled to Melbourne, Australia. Mr Modi participated in the third India-Australia Annual Summit with Australian Prime Minister Anthony Albanese. During his visit, Prime Minister Modi also participated in the India-Australia CEOs Forum, where he addressed a gathering of top business leaders from both countries. On the third and last leg of his three-nation visit, the Prime Minister visited Auckland from 10th to 11th July at the invitation of New Zealand Prime Minister Christopher Luxon. The visit to New Zealand was the first visit by the Indian Prime Minister in 40 years.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:21:09+00:00",
+        "link": "https://newsonair.gov.in/pm-narendra-modi-returns-to-india-after-successfully-concluding-his-3-nation-visit-to-indonesia-australia-and-new-zealand/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -445,28 +467,6 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T02:22:03+00:00",
         "link": "https://newsonair.gov.in/prime-minister-modi-concludes-new-zealand-visit-departs-for-india/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Northern Railway surpasses Q1 operational and revenue targets",
-        "summary": "Northern Railway has achieved significant milestones in operational efficiency, revenue generation, ticket checking, and passenger services during the first quarter of the financial year 2026-27, from April to June. During this period, it enhanced passenger convenience through various operational initiatives and recorded significant revenue growth, surpassing the targets set by the Railway Board.",
-        "article": "Northern Railway has achieved significant milestones in operational efficiency, revenue generation, ticket checking, and passenger services during the first quarter of the financial year 2026-27, from April to June. During this period, it enhanced passenger convenience through various operational initiatives and recorded significant revenue growth, surpassing the targets set by the Railway Board. Northern Railway also recorded significant improvements in overall passenger and revenue performance. Originating passengers increased from more than 114 million to 120 million during this period, which stands as over 5 percent increase. Revenue grew from over three thousand crore rupees to more than three thousand five hundred crore rupees, reflecting an increase of over 15 per cent. Meanwhile, to meet the growing passenger demand, Northern Railway successfully operated more than one thousand 800 special trains under the Trains on Demand scheme, generating additional revenue of over 185 crore rupees.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T16:24:41+00:00",
-        "link": "https://newsonair.gov.in/northern-railway-surpasses-q1-operational-and-revenue-targets/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "RBI absorbs ₹1.10 lakh crore surplus liquidity from banking system on July 9",
-        "summary": "The Reserve Bank of India- RBI absorbed liquidity worth 1.10 lakh crore rupees from the banking system on July 9, indicating the presence of surplus cash with lenders despite continued money market activity. According to the RBI&#8217;s latest Money Market Operations data the central bank absorbed 1.67 lakh crore rupees through the Standing Deposit […]",
-        "article": "The Reserve Bank of India- RBI absorbed liquidity worth 1.10 lakh crore rupees from the banking system on July 9, indicating the presence of surplus cash with lenders despite continued money market activity. According to the RBI&#8217;s latest Money Market Operations data the central bank absorbed 1.67 lakh crore rupees through the Standing Deposit Facility (SDF) at an interest rate of 5 per cent, while injecting 46,729 crore rupees through repo operations at 5.26 per cent. The net effect of the day&#8217;s liquidity operations resulted in an absorption of 1.20 lakh crore rupees from the banking system. After accounting for outstanding liquidity facilities, the overall net liquidity absorption stood at 1.10 lakh crore rupees. Activity in the overnight money market remained robust, with total transactions in the overnight segment amounting to 6.91 lakh crore rupees at a weighted average rate of 5.28 per cent. The triparty repo segment accounted for the largest share of transactions at 4.81 lakh crore rupees, followed by market repo transactions worth 1.78 lakh crore rupees and call money transactions of 24,893 crore rupees. Banks maintained cash balances of 7.88 lakh crore rupees with the RBI as on July 9, marginally below the average cash reserve requirement of 7.98 lakh crore rupees for the fortnight ending July 15. The RBI data also showed that the country&#8217;s net durable liquidity surplus stood at 4.82 lakh crore rupees as of June 15, reflecting comfortable liquidity conditions in the financial system.",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T16:15:34+00:00",
-        "link": "https://newsonair.gov.in/rbi-absorbs-%e2%82%b91-10-lakh-crore-surplus-liquidity-from-banking-system-on-july-9/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -562,14 +562,15 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Indian diaspora gathers in large numbers for ‘Melbourne Meets Modi’ event",
-        "summary": "The air inside Melbourne’s iconic Marvel Stadium is vibrating with raw, electric energy as a massive crowd of ecstatic members of the Indian-Australian community is gathering for the historic &#8220;Melbourne Meets Modi&#8221; diaspora event. It is not a world-class sporting finale or a stadium-rock concert drawing this ocean of people, but a loud, high-octane celebration […]",
-        "article": "The air inside Melbourne’s iconic Marvel Stadium is vibrating with raw, electric energy as a massive crowd of ecstatic members of the Indian-Australian community is gathering for the historic &#8220;Melbourne Meets Modi&#8221; diaspora event. It is not a world-class sporting finale or a stadium-rock concert drawing this ocean of people, but a loud, high-octane celebration of cultural pride and shared heritage. The venue is transforming into a spectacular sea of tricolour flags, traditional attire, and deafening cheers. As roaring chants are bouncing off the stadium&#8217;s retractable roof, this grand gathering is proving that the diaspora is truly acting as a vibrant force driving the future of the India-Australia strategic partnership.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T08:20:24+00:00",
-        "link": "https://newsonair.gov.in/indian-diaspora-gathers-in-large-numbers-for-melbourne-meets-modi-event/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Indian-diaspora-gathers-in-large-numbers-for-Melbourne-Meets-Modi-event.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "Former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani dies at 74; PM Modi condoles the demise of father of Emir of Qatar",
+        "summary": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, […]",
+        "article": "Former Qatar Emir Sheikh Hamad bin Khalifa Al Thani, who transformed the Gulf nation into a major global player in diplomacy, media and investment, has died at the age of 74. Sheikh Hamad ruled Qatar for 18 years before voluntarily handing over power to his son in 2013, breaking with regional tradition. Under his leadership, Qatar emerged as a global energy powerhouse, launched the Al Jazeera news network, expanded its international investments, and successfully hosted the 2022 FIFA World Cup. Prime Minister Narendra Modi expressed grief over the demise of the Emir of Qatar, Sheikh Hamad binKhalifa Al Thani. In a social media post, Mr Modi said that Sheikh Hamad binKhalifa Al Thani was a visionary leader who led Qatar to great levels of development and prosperity. The Prime Minister added that India remembers him as a true friend. Mr Modi conveyed his condolences to the Amir of Qatar, Sheikh Tamim bin Hamad Al Thani and the entire royal family and people of Qatar. &nbsp; &nbsp;",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:46:19+00:00",
+        "link": "https://newsonair.gov.in/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74-pm-modi-condoles-the-demise-of-father-of-emir-of-qatar/",
+        "post_id": 1733616,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -586,11 +587,11 @@ window.VM_NEWS = {
     ],
     "sports": [
       {
-        "title": "FIFA World Cup: Argentina and England advance to the semifinal",
-        "summary": "In the FIFA World Cup, Argentina and England have advanced to the semifinals. England beat Norway 2-1 in today&#8217;s quarter-final match at Miami Stadium, Florida. Defending champion Argentina beat Switzerland 3-1 in the last quarter-final match in Kansas City, Missouri, this morning. Spain and France have already booked their places in the last […]",
-        "article": "In the FIFA World Cup, Argentina and England have advanced to the semifinals. England beat Norway 2-1 in today&#8217;s quarter-final match at Miami Stadium, Florida. Defending champion Argentina beat Switzerland 3-1 in the last quarter-final match in Kansas City, Missouri, this morning. Spain and France have already booked their places in the last four. Spain secured a thrilling 2-1 victory over Belgium to advance, while France progressed with a comfortable 2-nil win over Morocco.",
+        "title": "FIFA World Cup: Argentina and England advance to semifinals",
+        "summary": "In the FIFA World Cup, Argentina and England have advanced to the semifinals. England beat Norway 2-1 in today&#8217;s quarter-final match at Miami Stadium, Florida. Defending champion Argentina beat Switzerland 3-1 in the last quarter-final match in Kansas City, Missouri, this morning. Spain and France have already booked their places in the last four. Spain […]",
+        "article": "In the FIFA World Cup, Argentina and England have advanced to the semifinals. England beat Norway 2-1 in today&#8217;s quarter-final match at Miami Stadium, Florida. Defending champion Argentina beat Switzerland 3-1 in the last quarter-final match in Kansas City, Missouri, this morning. Spain and France have already booked their places in the last four. Spain secured a thrilling 2-1 victory over Belgium to advance, while France progressed with a comfortable 2-nil win over Morocco. France and Spain will face off in the first semi-final on Wednesday. The match will kick off at 12:30 a.m. Indian Standard Time. France reached the semi-finals after defeating Morocco 2-0 in the quarter-finals, while Spain advanced with a hard-fought 2-1 victory over Belgium. The second semi-final will be played on Thursday, with England taking on Argentina also at 12:30 a.m. Indian Standard Time. England booked their place with a 2-1 extra-time win over Norway, while Argentina defeated Switzerland 3-1 this morning. The winners of the two semi-finals will meet in the FIFA World Cup final on July 20 at New York-New Jersey Stadium. The losing teams will play the third-place play-off on July 19 in Miami.",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T04:37:31+00:00",
+        "pubDate": "2026-07-12T06:55:31+00:00",
         "link": "https://newsonair.gov.in/fifa-world-cup-england-beat-norway-2-1-to-reach-semi-final/",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpg",
         "image_credit": "Wikipedia – FIFA World Cup (CC BY-SA)",
@@ -663,11 +664,11 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Linda Noskova beats Karolina Muchova to win first Wimbledon tennis title",
-        "summary": "In Tennis, the 21-year-old Linda Noskova won her maiden Grand Slam title after defeating fellow Czech Karolina Muchova 6-2, 5-7, 6-3 in the Wimbledon Women&#8217;s Singles Final at Centre Court, London, yesterday. Noskova became the third Czech woman in four years to win the grass-court major, after Marketa Vondrousova in 2023 and Barbora Krejcikova in […]",
-        "article": "In Tennis, the 21-year-old Linda Noskova won her maiden Grand Slam title after defeating fellow Czech Karolina Muchova 6-2, 5-7, 6-3 in the Wimbledon Women&#8217;s Singles Final at Centre Court, London, yesterday. Noskova became the third Czech woman in four years to win the grass-court major, after Marketa Vondrousova in 2023 and Barbora Krejcikova in 2024. The stage is also set for the Men&#8217;s Singles final tonight, where World No. 1 Jannik Sinner will face Germany&#8217;s Alexander Zverev. The match is scheduled to start at 08 30 PM IST. Sinner stormed into the title clash with a straight-sets victory over seven-time champion Novak Djokovic, while Zverev reached his first Wimbledon final after defeating British wildcard Arthur Fery. In the Women&#8217;s Doubles final, the 10th-seeded Chinese-French pair of Guo Hanyu and Kristina Mladenovic will meet the 2nd-seeded Canadian-Brazilian duo of Gabriela Dabrowski and Luisa Stefani at Centre Court, London, this evening. The match will start at 530 PM IST.",
+        "title": "Wimbledon: Men’s singles & women’s doubles finals to be played today",
+        "summary": "In Tennis, two Wimbledon titles will be decided today as the men&#8217;s singles and women&#8217;s doubles finals are played. World No. 1 Jannik Sinner will face Germany&#8217;s Alexander Zverev in the men&#8217;s singles final at 8:30 p.m. IST. Sinner booked his place in the title clash with a straight-sets victory over Novak Djokovic, while […]",
+        "article": "In Tennis, two Wimbledon titles will be decided today as the men&#8217;s singles and women&#8217;s doubles finals are played. World No. 1 Jannik Sinner will face Germany&#8217;s Alexander Zverev in the men&#8217;s singles final at 8:30 p.m. IST. Sinner booked his place in the title clash with a straight-sets victory over Novak Djokovic, while Zverev entered his first Wimbledon final after defeating British wildcard Arthur Fery. The women&#8217;s doubles final will begin at 5:30 p.m. IST. The 10th-seeded pair of China&#8217;s Guo Hanyu and France&#8217;s Kristina Mladenovic will take on the second-seeded duo of Canada&#8217;s Gabriela Dabrowski and Brazil&#8217;s Luisa Stefani. Yesterday, in the Women&#8217;s Singles Final, the 21-year-old Linda Noskova won her maiden Grand Slam title after defeating fellow Czech Karolina Muchova 6-2, 5-7, 6-3 at Centre Court, London. Noskova became the third Czech woman in four years to win the grass-court major, after Marketa Vondrousova in 2023 and Barbora Krejcikova in 2024.",
         "date": "2026-07-12",
-        "pubDate": "2026-07-12T01:56:50+00:00",
+        "pubDate": "2026-07-12T06:45:50+00:00",
         "link": "https://newsonair.gov.in/linda-noskova-beats-karolina-muchova-to-win-first-wimbledon-tennis-title/",
         "image_url": "",
         "image_credit": "",
@@ -1025,6 +1026,28 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "भाजपा ने कहा- भारत हिन्द महासागर और हिन्द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा",
+        "summary": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्‍द महासागर और हिन्‍द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा है। नई दिल्‍ली में संवाददाता सम्‍मेलन को संबोधित करते हुए पार्टी प्रवक्‍ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्‍द्र मोदी ने हा‍ल ही में इन रणनीतिक संबंधों को और सशक्‍त बनाने के लिए सेशेल्‍स […]",
+        "article": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्&#x200d;द महासागर और हिन्&#x200d;द-प्रशांत क्षेत्र में एक स्&#x200d;थाई शक्ति के रूप में उभरा है। नई दिल्&#x200d;ली में संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए पार्टी प्रवक्&#x200d;ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने हा&#x200d;ल ही में इन रणनीतिक संबंधों को और सशक्&#x200d;त बनाने के लिए सेशेल्&#x200d;स और इंडोनेशिया की यात्रा की। उन्&#x200d;होंने कहा कि भारत और न्&#x200d;यूज़ीलैंड के बीच मुक्&#x200d;त व्&#x200d;यापार समझौता एक महत्&#x200d;वपूर्ण उपलब्धि&#x200d; है। पार्टी प्रवक्&#x200d;ता ने प्रधानमंत्री की इंडोनेशिया, ऑस्&#x200d;ट्रेलिया और न्&#x200d;यूज़ीलैंड की यात्रा की दस महत्&#x200d;वपूर्ण उपलब्धियों का उल्&#x200d;लेख किया। इनमें हिन्&#x200d;द महासागर हिन्&#x200d;द-प्रशांत कार्यनीतिक गठबंधन, रक्षा और समुद्री सहयोग, महत्&#x200d;वपूर्ण खनिज सहयोग, ऊर्जा सुरक्षा, आर्थिक और निवेश के अवसर, डिजिटल सार्वजनिक अवसंरचना तथा शैक्षणिक साझेदारी शामिल हैं। श्री पात्रा ने कहा कि रक्षा और समुद्री क्षेत्रों में सहयोग में ठोस प्रगति हुई है। उन्&#x200d;होंने कहा कि पहली बार भारत रक्षा उपकरण के एक निर्यातक के रूप में उभर रहा है। उन्&#x200d;होंने कहा कि भारत और ऑस्&#x200d;ट्रेल&#x200d;िया ने रक्षा और सुरक्षा सहयोग पर एक संयुक्&#x200d;त घोषणा पत्र जारी किया है। श्री पात्रा ने कहा कि इस समझौते के अंतर्गत भारत और ऑस्&#x200d;ट्रेलिया के युद्धपोतों की सर्विसिंग एक-दूसरे के डॉक पर की जाएगी।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:38:03+00:00",
+        "link": "https://newsonair.gov.in/hi/india-in-indo-pacific/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/BJP-MP-Sambit-Patra.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कतर के पूर्व अमीर शेख हमद बिन खलीफा अल थानी का 74 वर्ष की आयु में निधन, पीएम मोदी ने शोक व्यक्त किया",
+        "summary": "कतर के पूर्व अमीर शेख हमद बिन खलीफा अल थानी का 74 वर्ष की आयु में निधन हो गया है। उन्होंने इस खाड़ी देश को कूटनीति, मीडिया और निवेश के क्षेत्र में प्रमुख वैश्विक शक्ति के रूप में स्थापित किया था। शेख हमद ने क्षेत्रीय परंपरा को तोड़ते हुए 2013 में स्वेच्छा से अपने बेटे […]",
+        "article": "कतर के पूर्व अमीर शेख हमद बिन खलीफा अल थानी का 74 वर्ष की आयु में निधन हो गया है। उन्होंने इस खाड़ी देश को कूटनीति, मीडिया और निवेश के क्षेत्र में प्रमुख वैश्विक शक्ति के रूप में स्थापित किया था। शेख हमद ने क्षेत्रीय परंपरा को तोड़ते हुए 2013 में स्वेच्छा से अपने बेटे को सत्ता सौंपने से पहले 18 वर्षों तक कतर पर शासन किया। उनके नेतृत्व में कतर एक वैश्विक ऊर्जा शक्ति के रूप में उभरा। उन्&#x200d;होंने अल जज़ीरा समाचार नेटवर्क की शुरुआत की, अंतरराष्ट्रीय निवेश का विस्तार किया और 2022 फीफा विश्व कप की सफलतापूर्वक मेजबानी की। प्रधानमंत्री नरेन्द्र मोदी ने कतर के पूर्व अमीर शेख हमद बिन खलीफा अल थानी के निधन पर गहरा शोक व्यक्त किया है। सोशल मीडिया पर एक पोस्ट में श्री मोदी ने कहा कि शेख हमद बिन खलीफा अल थानी दूरदर्शी नेता थे, जिन्होंने कतर को विकास और समृद्धि की नई ऊंचाइयों तक पहुंचाया। उन्होंने कहा कि भारत उन्हें एक सच्चे मित्र के रूप में हमेशा याद रखेगा। प्रधानमंत्री ने कतर के अमीर शेख तमीम बिन हमद अल थानी, शाही परिवार और कतर की जनता के प्रति गहरी संवेदना व्यक्त की है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:28:55+00:00",
+        "link": "https://newsonair.gov.in/hi/qatar-former-amir/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNAqUcXaYAAZF_-.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "प्रधानमंत्री नरेंद्र मोदी छह दिन की इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड यात्रा के बाद नई दिल्ली लौटे",
         "summary": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के राष्ट्रपति के साथ द्विपक्षीय चर्चा की और साझेदारी में हुई प्रगति की समीक्षा की। अपनी यात्रा के दूसरे चरण में, प्रधानमंत्री मोदी मेलबर्न, ऑस्ट्रेलिया गए। श्री मोदी ने ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लिया। अपनी यात्रा के दौरान, प्रधानमंत्री मोदी ने भारत-ऑस्ट्रेलिया सीईओ फोरम में भी भाग लिया, जहां उन्होंने दोनों देशों के शीर्ष व्यापारिक नेताओं की सभा को संबोधित किया। तीन देशों की यात्रा के तीसरे और अंतिम चरण में, प्रधानमंत्री ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के निमंत्रण पर 10 से 11 जुलाई तक ऑकलैंड का दौरा किया। न्यूजीलैंड की यह यात्रा किसी भी भारतीय प्रधानमंत्री की 40 वर्षों में पहली यात्रा थी।",
@@ -1124,40 +1147,29 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "केंद्रीय गृह मंत्री अमित शाह ने युवाओं से पुस्तकालयों से जुड़ने का आह्वान किया",
-        "summary": "केंद्रीय गृह मंत्री अमित शाह ने व्यक्तित्व निर्माण में पुस्तकालयों की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए युवा पीढ़ी से पुस्तकालयों से जुड़ने की अपील की है । आज नई दिल्ली में जयप्रकाश नारायण सार्वजनिक पुस्तकालय का उद्घाटन करते हुए उन्‍होंने कहा कि लोकनायक जयप्रकाश नारायण एक महान स्वतंत्रता सेनानी, विचारक और राष्ट्रवादी नेता थे […]",
-        "article": "केंद्रीय गृह मंत्री अमित शाह ने व्यक्तित्व निर्माण में पुस्तकालयों की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए युवा पीढ़ी से पुस्तकालयों से जुड़ने की अपील की है । आज नई दिल्ली में जयप्रकाश नारायण सार्वजनिक पुस्तकालय का उद्घाटन करते हुए उन्&#x200d;होंने कहा कि लोकनायक जयप्रकाश नारायण एक महान स्वतंत्रता सेनानी, विचारक और राष्ट्रवादी नेता थे जिन्होंने देश के लिए उल्लेखनीय योगदान दिया। गृह मंत्री ने कहा कि देश और उसके लोगों को समझने के लिए पढ़ना आवश्यक है। उन्होंने राष्ट्र निर्माण में पुस्तकालयों की भूमिका पर प्रकाश डालते हुए कहा कि वे आधुनिक शिक्षा के साथ-साथ जनसमुदाय में देश की संस्कृति और ज्ञान के प्रसार का सशक्त माध्यम हैं। श्री अमित शाह ने कहा कि राष्ट्र निर्माण में योगदान देने वाली और देश को गौरव दिलाने वाली सभी गतिविधियाँ ज्ञान पर आधारित हैं, जो व्यवहार में लागू होने पर बुद्धिमत्ता और विवेक में परिवर्तित हो जाता है। उन्होंने कहा कि पुस्तकालय ऐसे ज्ञान का एक महत्वपूर्ण स्रोत हैं। श्री अमित शाह ने रेखांकित किया कि सरकार ने विदयाथियों में पढ़ने को प्रोत्साहित करने के लिए पुस्तकालयों को विद्यालयों से जोड़ने के प्रयास किए हैं। उन्होंने बताया कि गांधीनगर लोकसभा क्षेत्र में हर गांव में पुस्तकालय खोले गए हैं, जिनमें से प्रत्येक में लगभग 3 से 4 हजार पुस्तकें हैं। उन्होंने कहा कि ये पुस्तकालय एक केंद्रीय पुस्तकालय से जुड़े हैं, जिसमें एक लाख 25 हजार से अधिक पुस्तकों का संग्रह है। श्री अमित शाह ने दिल्ली सरकार से शहर भर के सभी पुस्तकालयों को आपस में जोड़ने और उन्हें स्कूलों से जोड़ने के लिए एक व्यापक योजना बनाने का आग्रह किया। उन्होंने कहा कि पुस्तक प्रेमियों को पुस्तकालयों से जुड़ने के लिए प्रोत्साहित करने के लिए एक सुव्यवस्थित कार्य योजना तैयार की जानी चाहिए। उन्होंने जयप्रकाश नारायण सार्वजनिक पुस्तकालय के कर्मचारियों से नई दिल्ली के आसपास के दस विधानसभा क्षेत्रों के सभी स्कूलों तक पहुंचने, युवाओं को पुस्तकालय से जोड़ने और उन्हें आने के लिए प्रेरित करने की अपील की। ​​उन्होंने कहा कि एक बार युवाओं में पढ़ने की आदत विकसित हो जाए, तो वे इसे स्वयं जारी रखेंगे। केंद्रीय गृह मंत्री ने कहा कि जयप्रकाश नारायण सार्वजनिक पुस्तकालय में 32 हजार से अधिक पुस्तकों का संग्रह है। उन्होंने कहा कि पुस्तकालय में शोधकर्ताओं के लिए समर्पित सुविधाएं, एक आधुनिक बहुउद्देशीय सभागार, समकालीन पठन क्षेत्र, बाल क्षेत्र, एक शोध केंद्र और एक करोड़ ऑनलाइन पुस्तकों तक पहुंच प्रदान करने वाला एक ई-पुस्तकालय है। पुस्तकालय में हर जगह मुफ्त वाई-फाई उपलब्ध है। उन्होंने बताया कि कई मॉनिटर भी लगाए गए हैं, जिससे आगंतुक अध्ययन के दौरान नोट्स ले सकते हैं, सामग्री डाउनलोड कर सकते हैं तथा अपने विचारों को और विकसित कर सकते हैं। पुस्तकालय अत्याधुनिक आरएफआईडी आधारित पुस्तक प्रबंधन प्रणाली से सुसज्जित है। इस अवसर पर दिल्ली की मुख्यमंत्री रेखा गुप्ता, दिल्ली के सार्वजनिक परिवहन विभाग के मंत्री परवेश वर्मा, नई दिल्ली नगर परिषद के अध्यक्ष केशव चंद्र और कई अन्य गणमान्य व्यक्ति उपस्थित थे।",
+        "title": "वियतनाम में नाव दुर्घटना में 15 भारतीयों की मौत। राष्‍ट्रपति, उपराष्ट्रपति और प्रधानमंत्री ने शोक व्यक्त किया",
+        "summary": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की […]",
+        "article": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की सूची साझा करते हुए कहा कि ये नाम वियतनामी अधिकारियों द्वारा उपलब्ध कराए गए हैं। दूतावास के अनुसार, मृतकों में से 10 तमिलनाडु से, तीन आंध्र प्रदेश से और दो केरल से थे। नाव में 32 भारतीय पर्यटकों, तीन चालक दल के सदस्यों और एक परिचारक सहित कुल 36 लोग सवार थे। 17 यात्रियों और चालक दल के चार सदस्यों सहित 21 लोगों को बचा लिया गया और अस्पतालों में भर्ती कराया गया। दो जीवित बचे लोगों की हालत गंभीर बनी हुई है और उन्हें गहन चिकित्सा देखभाल दी जा रही है। हनोई स्थित भारतीय दूतावास ने बताया कि खोज और बचाव अभियान जारी है । कुछ घंटे पहले हुई इस दुर्घटना के कारणों का पता लगाया जा रहा है। वहीं, प्रभावित परिवारों को जानकारी और सहायता प्रदान करने के लिए, हो ची मिन्ह सिटी स्थित भारतीय दूतावास में एक नियंत्रण कक्ष स्थापित किया गया है। यहां, +84 36 281 7930, +84 91 552 37 14 और +84 33 452 0414 नंबरों से संपर्क किया जा सकता है। दूतावास ने सोशल मीडिया पोस्ट में बताया कि हनोई में भी एक नियंत्रण कक्ष स्थापित किया गया है और यहां +84 91 308 9165 नंबर से संपर्क किया जा सकता है। राष्ट्रपति द्रौपदी मुर्मु, उपराष्ट्रपति सीपी राधाकृष्णन और प्रधानमंत्री नरेंद्र मोदी ने वियतनाम में नाव दुर्घटना में भारतीयों की मौत पर शोक व्यक्त किया है। राष्&#x200d;ट्रपति ने शोक संतप्त परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। उपराष्ट्रपति ने घायलों के शीघ्र और पूर्ण स्वस्थ होने की प्रार्थना की। उन्होंने इस दुखद घटना से प्रभावित सभी लोगों को शक्ति और साहस प्रदान करने की कामना की है। प्रधानमंत्री मोदी ने अपने परिजनों को खोने वाले परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। श्री मोदी ने कहा कि वियतनाम में भारतीय दूतावास तथा वाणिज्य दूतावास हरसंभव सहायता प्रदान कर रहे हैं और वियतनामी अधिकारियों के साथ लगातार संपर्क में हैं।",
         "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:26:50+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%97%e0%a5%83%e0%a4%b9-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4-85/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-205348.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "रेलमंत्री अश्विनी वैष्णव ने तेलंगाना में मेधा रेल कोच कलपुर्जा निर्माण सुविधा का निरीक्षण किया",
-        "summary": "रेलमंत्री अश्विनी वैष्‍णव ने तेलंगाना के संगारेड्डी जिले के नंदीगामा क्षेत्र में स्थित मेधा रेल कोच कलपुर्जा निर्माण सुविधा स्‍थल का निरीक्षण किया। 375 एकड़ भू-भाग में फैली यह विशाल औद्योगिक इकाई रेलवे के आधुनिकीकरण में महत्‍वपूर्ण प्रगति को प्रदर्शित करती है। अपनी यात्रा के दौरान श्री वैष्‍णव ने मेक इन इंडिया पहल के एक […]",
-        "article": "रेलमंत्री अश्विनी वैष्&#x200d;णव ने तेलंगाना के संगारेड्डी जिले के नंदीगामा क्षेत्र में स्थित मेधा रेल कोच कलपुर्जा निर्माण सुविधा स्&#x200d;थल का निरीक्षण किया। 375 एकड़ भू-भाग में फैली यह विशाल औद्योगिक इकाई रेलवे के आधुनिकीकरण में महत्&#x200d;वपूर्ण प्रगति को प्रदर्शित करती है। अपनी यात्रा के दौरान श्री वैष्&#x200d;णव ने मेक इन इंडिया पहल के एक महत्&#x200d;वपूर्ण हिस्&#x200d;से के रूप में निजी क्षेत्र के उद्यमों को बढ़ावा देने संबंधी सरकार की वचनबद्धता पर बल दिया। इस सुविधा के दौरे के दौरान श्री वैष्&#x200d;णव ने कलपुर्जा विनिर्माण प्रक्रिया का निकटता से पर्यवेक्षण किया। उन्&#x200d;होंने श्रमिकों से बातचीत भी की। श्री वैष्&#x200d;णव ने उनके तकनीकी कौशल, परिचालनगत कार्यप्रवाह, इस सुविधा द्वारा अपनाई गई समग्र विनिर्माण कार्यपद्धति के बारे में पूछताछ की। साथ ही उन्&#x200d;होंने मेधा संगठन द्वारा हाल ही में विकसित उन्&#x200d;नत चालकविहीन वाहन का निरीक्षण किया। यह परिवहन व्&#x200d;यवस्&#x200d;था की आधुनिक प्रौद्योगिकी को दर्शाता है। इस निरीक्षण के दौरान रेल मंत्री वैष्णव के साथ केंद्रीय मंत्री जी. किशन रेड्डी, तेलंगाना के भाजपा अध्यक्ष रामचंद्र राव और सांसद कोंडा विश्वेश्वर रेड्डी जैसे प्रमुख नेता और अधिकारी, तथा विनिर्माण कंपनी के कई प्रतिनिधि भी मौजूद थे।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:09:07+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a5%80-%e0%a4%b5%e0%a5%88%e0%a4%b7%e0%a5%8d%e0%a4%a3-5/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-203808.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-न्यूज़ीलैंड के बीच रक्षा, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 समझौता ज्ञापनों पर हस्ताक्षर",
-        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और […]",
-        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच आज ऑकलैंड में द्विपक्षीय वार्ता हुई। इसके बाद दोनों देशों ने रक्षा, पशुपालन एवं डेयरी, पर्यटन, खेल और आपदा प्रबंधन से जुड़े 5 महत्वपूर्ण समझौता ज्ञापनों पर हस्ताक्षर किए। रक्षा क्षेत्र के समझौते से सैन्य सहयोग और रणनीतिक साझेदारी को बढ़ावा मिलेगा। पशुपालन और डेयरी संबंधी समझौता अनुसंधान, नवाचार और बेहतर तकनीकों के आदान-प्रदान को प्रोत्साहित करेगा। पर्यटन समझौते से दोनों देशों के बीच पर्यटन और यात्रा सहयोग बढ़ेगा। खेल के क्षेत्र में संयुक्त कार्ययोजना भी अपनाई गई है, जबकि आपदा प्रबंधन समझौते से आपदा तैयारी, राहत और बचाव कार्यों में सहयोग मजबूत होगा। वार्ता के दौरान प्रधानमंत्री मोदी ने कहा कि 40 वर्ष बाद किसी भारतीय प्रधानमंत्री की न्यूज़ीलैंड यात्रा दोनों देशों के संबंधों में एक ऐतिहासिक पड़ाव है। उन्होंने कहा कि दोनों देशों ने सामरिक साझेदारी स्थापित करने का महत्वपूर्ण निर्णय लिया है, जो भविष्य के सहयोग को नई दिशा देगा। प्रधानमंत्री ने मुक्त व्यापार समझौते की दिशा में हुई प्रगति की सराहना करते हुए कहा कि भारत और न्यूज़ीलैंड हिंद-प्रशांत क्षेत्र में शांति, स्थिरता और सुरक्षा को मजबूत करने में महत्वपूर्ण भूमिका निभा सकते हैं। न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन ने कहा कि प्रधानमंत्री मोदी की यह यात्रा दोनों देशों के संबंधों को नई ऊंचाई देगी। उन्होंने कहा कि सामरिक साझेदारी से व्यापार सहित कई क्षेत्रों में सहयोग का दायरा और बढ़ेगा। इससे पहले गवर्नमेंट हाउस में प्रधानमंत्री मोदी का औपचारिक स्वागत किया गया और उन्हें गार्ड ऑफ ऑनर दिया गया। प्रधानमंत्री आज भारतीय समुदाय को संबोधित करेंगे तथा उद्योग और खेल जगत की प्रमुख हस्तियों से भी मुलाकात करेंगे।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T09:07:24+00:00",
-        "link": "https://newsonair.gov.in/hi/five-memorandums-of-understanding-mous-signed-between-india-and-new-zealand-covering-defense-tourism-sports-and-disaster-management/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/A-3.jpg",
+        "pubDate": "2026-07-11T15:28:24+00:00",
+        "link": "https://newsonair.gov.in/hi/15-indians-die-in-a-boat-accident-in-vietnam-president-vice-president-and-prime-minister-express-condolences/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1a0038fd-0e2d-4acc-b665-df32ae74896a.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "भाजपा ने कहा- भारत हिन्द महासागर और हिन्द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा",
+        "summary": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्‍द महासागर और हिन्‍द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा है। नई दिल्‍ली में संवाददाता सम्‍मेलन को संबोधित करते हुए पार्टी प्रवक्‍ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्‍द्र मोदी ने हा‍ल ही में इन रणनीतिक संबंधों को और सशक्‍त बनाने के लिए सेशेल्‍स […]",
+        "article": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्&#x200d;द महासागर और हिन्&#x200d;द-प्रशांत क्षेत्र में एक स्&#x200d;थाई शक्ति के रूप में उभरा है। नई दिल्&#x200d;ली में संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए पार्टी प्रवक्&#x200d;ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने हा&#x200d;ल ही में इन रणनीतिक संबंधों को और सशक्&#x200d;त बनाने के लिए सेशेल्&#x200d;स और इंडोनेशिया की यात्रा की। उन्&#x200d;होंने कहा कि भारत और न्&#x200d;यूज़ीलैंड के बीच मुक्&#x200d;त व्&#x200d;यापार समझौता एक महत्&#x200d;वपूर्ण उपलब्धि&#x200d; है। पार्टी प्रवक्&#x200d;ता ने प्रधानमंत्री की इंडोनेशिया, ऑस्&#x200d;ट्रेलिया और न्&#x200d;यूज़ीलैंड की यात्रा की दस महत्&#x200d;वपूर्ण उपलब्धियों का उल्&#x200d;लेख किया। इनमें हिन्&#x200d;द महासागर हिन्&#x200d;द-प्रशांत कार्यनीतिक गठबंधन, रक्षा और समुद्री सहयोग, महत्&#x200d;वपूर्ण खनिज सहयोग, ऊर्जा सुरक्षा, आर्थिक और निवेश के अवसर, डिजिटल सार्वजनिक अवसंरचना तथा शैक्षणिक साझेदारी शामिल हैं। श्री पात्रा ने कहा कि रक्षा और समुद्री क्षेत्रों में सहयोग में ठोस प्रगति हुई है। उन्&#x200d;होंने कहा कि पहली बार भारत रक्षा उपकरण के एक निर्यातक के रूप में उभर रहा है। उन्&#x200d;होंने कहा कि भारत और ऑस्&#x200d;ट्रेल&#x200d;िया ने रक्षा और सुरक्षा सहयोग पर एक संयुक्&#x200d;त घोषणा पत्र जारी किया है। श्री पात्रा ने कहा कि इस समझौते के अंतर्गत भारत और ऑस्&#x200d;ट्रेलिया के युद्धपोतों की सर्विसिंग एक-दूसरे के डॉक पर की जाएगी।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:38:03+00:00",
+        "link": "https://newsonair.gov.in/hi/india-in-indo-pacific/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/BJP-MP-Sambit-Patra.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "प्रधानमंत्री नरेंद्र मोदी छह दिन की इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड यात्रा के बाद नई दिल्ली लौटे",
         "summary": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के […]",
@@ -1225,25 +1237,26 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "केंद्रीय गृह मंत्री अमित शाह ने युवाओं से पुस्तकालयों से जुड़ने का आह्वान किया",
-        "summary": "केंद्रीय गृह मंत्री अमित शाह ने व्यक्तित्व निर्माण में पुस्तकालयों की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए युवा पीढ़ी से पुस्तकालयों से जुड़ने की अपील की है । आज नई दिल्ली में जयप्रकाश नारायण सार्वजनिक पुस्तकालय का उद्घाटन करते हुए उन्‍होंने कहा कि लोकनायक जयप्रकाश नारायण एक महान स्वतंत्रता सेनानी, विचारक और राष्ट्रवादी नेता थे […]",
-        "article": "केंद्रीय गृह मंत्री अमित शाह ने व्यक्तित्व निर्माण में पुस्तकालयों की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए युवा पीढ़ी से पुस्तकालयों से जुड़ने की अपील की है । आज नई दिल्ली में जयप्रकाश नारायण सार्वजनिक पुस्तकालय का उद्घाटन करते हुए उन्&#x200d;होंने कहा कि लोकनायक जयप्रकाश नारायण एक महान स्वतंत्रता सेनानी, विचारक और राष्ट्रवादी नेता थे जिन्होंने देश के लिए उल्लेखनीय योगदान दिया। गृह मंत्री ने कहा कि देश और उसके लोगों को समझने के लिए पढ़ना आवश्यक है। उन्होंने राष्ट्र निर्माण में पुस्तकालयों की भूमिका पर प्रकाश डालते हुए कहा कि वे आधुनिक शिक्षा के साथ-साथ जनसमुदाय में देश की संस्कृति और ज्ञान के प्रसार का सशक्त माध्यम हैं। श्री अमित शाह ने कहा कि राष्ट्र निर्माण में योगदान देने वाली और देश को गौरव दिलाने वाली सभी गतिविधियाँ ज्ञान पर आधारित हैं, जो व्यवहार में लागू होने पर बुद्धिमत्ता और विवेक में परिवर्तित हो जाता है। उन्होंने कहा कि पुस्तकालय ऐसे ज्ञान का एक महत्वपूर्ण स्रोत हैं। श्री अमित शाह ने रेखांकित किया कि सरकार ने विदयाथियों में पढ़ने को प्रोत्साहित करने के लिए पुस्तकालयों को विद्यालयों से जोड़ने के प्रयास किए हैं। उन्होंने बताया कि गांधीनगर लोकसभा क्षेत्र में हर गांव में पुस्तकालय खोले गए हैं, जिनमें से प्रत्येक में लगभग 3 से 4 हजार पुस्तकें हैं। उन्होंने कहा कि ये पुस्तकालय एक केंद्रीय पुस्तकालय से जुड़े हैं, जिसमें एक लाख 25 हजार से अधिक पुस्तकों का संग्रह है। श्री अमित शाह ने दिल्ली सरकार से शहर भर के सभी पुस्तकालयों को आपस में जोड़ने और उन्हें स्कूलों से जोड़ने के लिए एक व्यापक योजना बनाने का आग्रह किया। उन्होंने कहा कि पुस्तक प्रेमियों को पुस्तकालयों से जुड़ने के लिए प्रोत्साहित करने के लिए एक सुव्यवस्थित कार्य योजना तैयार की जानी चाहिए। उन्होंने जयप्रकाश नारायण सार्वजनिक पुस्तकालय के कर्मचारियों से नई दिल्ली के आसपास के दस विधानसभा क्षेत्रों के सभी स्कूलों तक पहुंचने, युवाओं को पुस्तकालय से जोड़ने और उन्हें आने के लिए प्रेरित करने की अपील की। ​​उन्होंने कहा कि एक बार युवाओं में पढ़ने की आदत विकसित हो जाए, तो वे इसे स्वयं जारी रखेंगे। केंद्रीय गृह मंत्री ने कहा कि जयप्रकाश नारायण सार्वजनिक पुस्तकालय में 32 हजार से अधिक पुस्तकों का संग्रह है। उन्होंने कहा कि पुस्तकालय में शोधकर्ताओं के लिए समर्पित सुविधाएं, एक आधुनिक बहुउद्देशीय सभागार, समकालीन पठन क्षेत्र, बाल क्षेत्र, एक शोध केंद्र और एक करोड़ ऑनलाइन पुस्तकों तक पहुंच प्रदान करने वाला एक ई-पुस्तकालय है। पुस्तकालय में हर जगह मुफ्त वाई-फाई उपलब्ध है। उन्होंने बताया कि कई मॉनिटर भी लगाए गए हैं, जिससे आगंतुक अध्ययन के दौरान नोट्स ले सकते हैं, सामग्री डाउनलोड कर सकते हैं तथा अपने विचारों को और विकसित कर सकते हैं। पुस्तकालय अत्याधुनिक आरएफआईडी आधारित पुस्तक प्रबंधन प्रणाली से सुसज्जित है। इस अवसर पर दिल्ली की मुख्यमंत्री रेखा गुप्ता, दिल्ली के सार्वजनिक परिवहन विभाग के मंत्री परवेश वर्मा, नई दिल्ली नगर परिषद के अध्यक्ष केशव चंद्र और कई अन्य गणमान्य व्यक्ति उपस्थित थे।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:26:50+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%97%e0%a5%83%e0%a4%b9-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4-85/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-205348.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "ईपीएफओ ने छूट प्राप्त पीएफ ट्रस्ट संचालित प्रतिष्ठानों के लिए माफी योजना-2026 शुरू की",
+        "summary": "कर्मचारी भविष्य निधि संगठन- ईपीएफओ ने माफी योजना-2026 शुरू की है। इसके तहत आयकर अधिनियम, 1961 के अंतर्गत मान्यता प्राप्त छूट के साथ भविष्य निधि ट्रस्ट संचालित करने वाले प्रतिष्ठानों को अपनी स्थिति नियमित करने का एकमुश्त अवसर प्रदान किया गया है। श्रम और रोजगार मंत्रालय ने कहा है कि यह योजना छह महीने […]",
+        "article": "कर्मचारी भविष्य निधि संगठन- ईपीएफओ ने माफी योजना-2026 शुरू की है। इसके तहत आयकर अधिनियम, 1961 के अंतर्गत मान्यता प्राप्त छूट के साथ भविष्य निधि ट्रस्ट संचालित करने वाले प्रतिष्ठानों को अपनी स्थिति नियमित करने का एकमुश्त अवसर प्रदान किया गया है। श्रम और रोजगार मंत्रालय ने कहा है कि यह योजना छह महीने की अवधि तक लागू रहेगी। यह योजना उन प्रतिष्ठानों पर लागू होगी, जो आयकर अधिनियम, 1961 के अंतर्गत मान्यता प्राप्त भविष्य निधि ट्रस्ट का संचालन कर रहे हैं। मंत्रालय के अनुसार, पात्र प्रतिष्ठानों को संबंधित क्षेत्रीय कार्यालय को ई-मेल के माध्यम से औपचारिक आवेदन प्रस्तुत करना होगा। छूट प्राप्त भविष्य निधि एक नियोक्ता-प्रबंधित पीएफ योजना है जो अपने भविष्य निधि योगदान को सीधे ईपीएफओ में जमा करने के बजाय एक निजी ट्रस्ट के माध्यम से आंतरिक रूप से संचालित करती है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T06:18:45+00:00",
+        "link": "https://newsonair.gov.in/hi/epfo-amnesty-scheme/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "रेलमंत्री अश्विनी वैष्णव ने तेलंगाना में मेधा रेल कोच कलपुर्जा निर्माण सुविधा का निरीक्षण किया",
-        "summary": "रेलमंत्री अश्विनी वैष्‍णव ने तेलंगाना के संगारेड्डी जिले के नंदीगामा क्षेत्र में स्थित मेधा रेल कोच कलपुर्जा निर्माण सुविधा स्‍थल का निरीक्षण किया। 375 एकड़ भू-भाग में फैली यह विशाल औद्योगिक इकाई रेलवे के आधुनिकीकरण में महत्‍वपूर्ण प्रगति को प्रदर्शित करती है। अपनी यात्रा के दौरान श्री वैष्‍णव ने मेक इन इंडिया पहल के एक […]",
-        "article": "रेलमंत्री अश्विनी वैष्&#x200d;णव ने तेलंगाना के संगारेड्डी जिले के नंदीगामा क्षेत्र में स्थित मेधा रेल कोच कलपुर्जा निर्माण सुविधा स्&#x200d;थल का निरीक्षण किया। 375 एकड़ भू-भाग में फैली यह विशाल औद्योगिक इकाई रेलवे के आधुनिकीकरण में महत्&#x200d;वपूर्ण प्रगति को प्रदर्शित करती है। अपनी यात्रा के दौरान श्री वैष्&#x200d;णव ने मेक इन इंडिया पहल के एक महत्&#x200d;वपूर्ण हिस्&#x200d;से के रूप में निजी क्षेत्र के उद्यमों को बढ़ावा देने संबंधी सरकार की वचनबद्धता पर बल दिया। इस सुविधा के दौरे के दौरान श्री वैष्&#x200d;णव ने कलपुर्जा विनिर्माण प्रक्रिया का निकटता से पर्यवेक्षण किया। उन्&#x200d;होंने श्रमिकों से बातचीत भी की। श्री वैष्&#x200d;णव ने उनके तकनीकी कौशल, परिचालनगत कार्यप्रवाह, इस सुविधा द्वारा अपनाई गई समग्र विनिर्माण कार्यपद्धति के बारे में पूछताछ की। साथ ही उन्&#x200d;होंने मेधा संगठन द्वारा हाल ही में विकसित उन्&#x200d;नत चालकविहीन वाहन का निरीक्षण किया। यह परिवहन व्&#x200d;यवस्&#x200d;था की आधुनिक प्रौद्योगिकी को दर्शाता है। इस निरीक्षण के दौरान रेल मंत्री वैष्णव के साथ केंद्रीय मंत्री जी. किशन रेड्डी, तेलंगाना के भाजपा अध्यक्ष रामचंद्र राव और सांसद कोंडा विश्वेश्वर रेड्डी जैसे प्रमुख नेता और अधिकारी, तथा विनिर्माण कंपनी के कई प्रतिनिधि भी मौजूद थे।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:09:07+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a5%80-%e0%a4%b5%e0%a5%88%e0%a4%b7%e0%a5%8d%e0%a4%a3-5/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-203808.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "विदेश मंत्रालय ने यमन की यात्रा को लेकर 2017 की अधिसूचना वापस ली",
+        "summary": "विदेश मंत्रालय ने 2017 में जारी उस अधिसूचना को वापस ले लिया है जिसमें यमन की यात्रा करने वाले भारतीय नागरिकों पर कुछ शर्तें लगाई गई थीं। यह अधिसूचना यमन में गृहयुद्ध और सशस्त्र संघर्ष के कारण बिगड़ती सुरक्षा स्थिति को देखते हुए जारी की गई थी, जिसके चलते भारत ने अपने नागरिकों की यमन […]",
+        "article": "विदेश मंत्रालय ने 2017 में जारी उस अधिसूचना को वापस ले लिया है जिसमें यमन की यात्रा करने वाले भारतीय नागरिकों पर कुछ शर्तें लगाई गई थीं। यह अधिसूचना यमन में गृहयुद्ध और सशस्त्र संघर्ष के कारण बिगड़ती सुरक्षा स्थिति को देखते हुए जारी की गई थी, जिसके चलते भारत ने अपने नागरिकों की यमन यात्रा पर प्रतिबंध लगा दिया था। परंतु, एक परामर्श में विदेश मंत्रालय ने कहा है कि वह सभी भारतीय नागरिकों को यमन की गैर-जरूरी यात्रा से बचने की सलाह देता है। मंत्रालय ने कहा कि यदि यात्रा बेहद जरूरी है, तो इसे स्थानीय सुरक्षा स्थिति का पूरी तरह से आकलन करने के बाद ही किया जाना चाहिए और उन क्षेत्रों की यात्रा से बचना चाहिए जहां संघर्ष सक्रिय हो। मंत्रालय ने यमन में रहने वाले भारतीय नागरिकों को सतर्क रहने और यमन के भीतर ही अपनी आवाजाही सीमित रखने की सलाह दी है। विदेश मंत्रालय ने यमन में मौजूद भारतीय नागरिकों और यमन की यात्रा करने की आवश्यकता वाले लोगों को रियाद स्थित भारतीय दूतावास में पंजीकरण कराने की भी सलाह दी है ताकि आपात स्थिति में बेहतर संचार और सहायता मिल सके।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T06:13:30+00:00",
+        "link": "https://newsonair.gov.in/hi/yemen-travel-advisory/",
+        "post_id": 1733163,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1253,18 +1266,6 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T02:23:07+00:00",
         "link": "https://newsonair.gov.in/hi/fssai-notice-to-swiggy/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम में नाव दुर्घटना में 15 भारतीयों की मौत। राष्‍ट्रपति, उपराष्ट्रपति और प्रधानमंत्री ने शोक व्यक्त किया",
-        "summary": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की […]",
-        "article": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की सूची साझा करते हुए कहा कि ये नाम वियतनामी अधिकारियों द्वारा उपलब्ध कराए गए हैं। दूतावास के अनुसार, मृतकों में से 10 तमिलनाडु से, तीन आंध्र प्रदेश से और दो केरल से थे। नाव में 32 भारतीय पर्यटकों, तीन चालक दल के सदस्यों और एक परिचारक सहित कुल 36 लोग सवार थे। 17 यात्रियों और चालक दल के चार सदस्यों सहित 21 लोगों को बचा लिया गया और अस्पतालों में भर्ती कराया गया। दो जीवित बचे लोगों की हालत गंभीर बनी हुई है और उन्हें गहन चिकित्सा देखभाल दी जा रही है। हनोई स्थित भारतीय दूतावास ने बताया कि खोज और बचाव अभियान जारी है । कुछ घंटे पहले हुई इस दुर्घटना के कारणों का पता लगाया जा रहा है। वहीं, प्रभावित परिवारों को जानकारी और सहायता प्रदान करने के लिए, हो ची मिन्ह सिटी स्थित भारतीय दूतावास में एक नियंत्रण कक्ष स्थापित किया गया है। यहां, +84 36 281 7930, +84 91 552 37 14 और +84 33 452 0414 नंबरों से संपर्क किया जा सकता है। दूतावास ने सोशल मीडिया पोस्ट में बताया कि हनोई में भी एक नियंत्रण कक्ष स्थापित किया गया है और यहां +84 91 308 9165 नंबर से संपर्क किया जा सकता है। राष्ट्रपति द्रौपदी मुर्मु, उपराष्ट्रपति सीपी राधाकृष्णन और प्रधानमंत्री नरेंद्र मोदी ने वियतनाम में नाव दुर्घटना में भारतीयों की मौत पर शोक व्यक्त किया है। राष्&#x200d;ट्रपति ने शोक संतप्त परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। उपराष्ट्रपति ने घायलों के शीघ्र और पूर्ण स्वस्थ होने की प्रार्थना की। उन्होंने इस दुखद घटना से प्रभावित सभी लोगों को शक्ति और साहस प्रदान करने की कामना की है। प्रधानमंत्री मोदी ने अपने परिजनों को खोने वाले परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। श्री मोदी ने कहा कि वियतनाम में भारतीय दूतावास तथा वाणिज्य दूतावास हरसंभव सहायता प्रदान कर रहे हैं और वियतनामी अधिकारियों के साथ लगातार संपर्क में हैं।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:28:24+00:00",
-        "link": "https://newsonair.gov.in/hi/15-indians-die-in-a-boat-accident-in-vietnam-president-vice-president-and-prime-minister-express-condolences/",
-        "post_id": 1732375,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1272,6 +1273,17 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "भाजपा ने कहा- भारत हिन्द महासागर और हिन्द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा",
+        "summary": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्‍द महासागर और हिन्‍द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा है। नई दिल्‍ली में संवाददाता सम्‍मेलन को संबोधित करते हुए पार्टी प्रवक्‍ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्‍द्र मोदी ने हा‍ल ही में इन रणनीतिक संबंधों को और सशक्‍त बनाने के लिए सेशेल्‍स […]",
+        "article": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्&#x200d;द महासागर और हिन्&#x200d;द-प्रशांत क्षेत्र में एक स्&#x200d;थाई शक्ति के रूप में उभरा है। नई दिल्&#x200d;ली में संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए पार्टी प्रवक्&#x200d;ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने हा&#x200d;ल ही में इन रणनीतिक संबंधों को और सशक्&#x200d;त बनाने के लिए सेशेल्&#x200d;स और इंडोनेशिया की यात्रा की। उन्&#x200d;होंने कहा कि भारत और न्&#x200d;यूज़ीलैंड के बीच मुक्&#x200d;त व्&#x200d;यापार समझौता एक महत्&#x200d;वपूर्ण उपलब्धि&#x200d; है। पार्टी प्रवक्&#x200d;ता ने प्रधानमंत्री की इंडोनेशिया, ऑस्&#x200d;ट्रेलिया और न्&#x200d;यूज़ीलैंड की यात्रा की दस महत्&#x200d;वपूर्ण उपलब्धियों का उल्&#x200d;लेख किया। इनमें हिन्&#x200d;द महासागर हिन्&#x200d;द-प्रशांत कार्यनीतिक गठबंधन, रक्षा और समुद्री सहयोग, महत्&#x200d;वपूर्ण खनिज सहयोग, ऊर्जा सुरक्षा, आर्थिक और निवेश के अवसर, डिजिटल सार्वजनिक अवसंरचना तथा शैक्षणिक साझेदारी शामिल हैं। श्री पात्रा ने कहा कि रक्षा और समुद्री क्षेत्रों में सहयोग में ठोस प्रगति हुई है। उन्&#x200d;होंने कहा कि पहली बार भारत रक्षा उपकरण के एक निर्यातक के रूप में उभर रहा है। उन्&#x200d;होंने कहा कि भारत और ऑस्&#x200d;ट्रेल&#x200d;िया ने रक्षा और सुरक्षा सहयोग पर एक संयुक्&#x200d;त घोषणा पत्र जारी किया है। श्री पात्रा ने कहा कि इस समझौते के अंतर्गत भारत और ऑस्&#x200d;ट्रेलिया के युद्धपोतों की सर्विसिंग एक-दूसरे के डॉक पर की जाएगी।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:38:03+00:00",
+        "link": "https://newsonair.gov.in/hi/india-in-indo-pacific/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/BJP-MP-Sambit-Patra.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "प्रधानमंत्री नरेंद्र मोदी छह दिन की इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड यात्रा के बाद नई दिल्ली लौटे",
         "summary": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के राष्ट्रपति के साथ द्विपक्षीय चर्चा की और साझेदारी में हुई प्रगति की समीक्षा की। अपनी यात्रा के दूसरे चरण में, प्रधानमंत्री मोदी मेलबर्न, ऑस्ट्रेलिया गए। श्री मोदी ने ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लिया। अपनी यात्रा के दौरान, प्रधानमंत्री मोदी ने भारत-ऑस्ट्रेलिया सीईओ फोरम में भी भाग लिया, जहां उन्होंने दोनों देशों के शीर्ष व्यापारिक नेताओं की सभा को संबोधित किया। तीन देशों की यात्रा के तीसरे और अंतिम चरण में, प्रधानमंत्री ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के निमंत्रण पर 10 से 11 जुलाई तक ऑकलैंड का दौरा किया। न्यूजीलैंड की यह यात्रा किसी भी भारतीय प्रधानमंत्री की 40 वर्षों में पहली यात्रा थी।",
@@ -1338,25 +1350,26 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "केंद्रीय गृह मंत्री अमित शाह ने युवाओं से पुस्तकालयों से जुड़ने का आह्वान किया",
-        "summary": "केंद्रीय गृह मंत्री अमित शाह ने व्यक्तित्व निर्माण में पुस्तकालयों की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए युवा पीढ़ी से पुस्तकालयों से जुड़ने की अपील की है । आज नई दिल्ली में जयप्रकाश नारायण सार्वजनिक पुस्तकालय का उद्घाटन करते हुए उन्‍होंने कहा कि लोकनायक जयप्रकाश नारायण एक महान स्वतंत्रता सेनानी, विचारक और राष्ट्रवादी नेता थे […]",
-        "article": "केंद्रीय गृह मंत्री अमित शाह ने व्यक्तित्व निर्माण में पुस्तकालयों की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए युवा पीढ़ी से पुस्तकालयों से जुड़ने की अपील की है । आज नई दिल्ली में जयप्रकाश नारायण सार्वजनिक पुस्तकालय का उद्घाटन करते हुए उन्&#x200d;होंने कहा कि लोकनायक जयप्रकाश नारायण एक महान स्वतंत्रता सेनानी, विचारक और राष्ट्रवादी नेता थे जिन्होंने देश के लिए उल्लेखनीय योगदान दिया। गृह मंत्री ने कहा कि देश और उसके लोगों को समझने के लिए पढ़ना आवश्यक है। उन्होंने राष्ट्र निर्माण में पुस्तकालयों की भूमिका पर प्रकाश डालते हुए कहा कि वे आधुनिक शिक्षा के साथ-साथ जनसमुदाय में देश की संस्कृति और ज्ञान के प्रसार का सशक्त माध्यम हैं। श्री अमित शाह ने कहा कि राष्ट्र निर्माण में योगदान देने वाली और देश को गौरव दिलाने वाली सभी गतिविधियाँ ज्ञान पर आधारित हैं, जो व्यवहार में लागू होने पर बुद्धिमत्ता और विवेक में परिवर्तित हो जाता है। उन्होंने कहा कि पुस्तकालय ऐसे ज्ञान का एक महत्वपूर्ण स्रोत हैं। श्री अमित शाह ने रेखांकित किया कि सरकार ने विदयाथियों में पढ़ने को प्रोत्साहित करने के लिए पुस्तकालयों को विद्यालयों से जोड़ने के प्रयास किए हैं। उन्होंने बताया कि गांधीनगर लोकसभा क्षेत्र में हर गांव में पुस्तकालय खोले गए हैं, जिनमें से प्रत्येक में लगभग 3 से 4 हजार पुस्तकें हैं। उन्होंने कहा कि ये पुस्तकालय एक केंद्रीय पुस्तकालय से जुड़े हैं, जिसमें एक लाख 25 हजार से अधिक पुस्तकों का संग्रह है। श्री अमित शाह ने दिल्ली सरकार से शहर भर के सभी पुस्तकालयों को आपस में जोड़ने और उन्हें स्कूलों से जोड़ने के लिए एक व्यापक योजना बनाने का आग्रह किया। उन्होंने कहा कि पुस्तक प्रेमियों को पुस्तकालयों से जुड़ने के लिए प्रोत्साहित करने के लिए एक सुव्यवस्थित कार्य योजना तैयार की जानी चाहिए। उन्होंने जयप्रकाश नारायण सार्वजनिक पुस्तकालय के कर्मचारियों से नई दिल्ली के आसपास के दस विधानसभा क्षेत्रों के सभी स्कूलों तक पहुंचने, युवाओं को पुस्तकालय से जोड़ने और उन्हें आने के लिए प्रेरित करने की अपील की। ​​उन्होंने कहा कि एक बार युवाओं में पढ़ने की आदत विकसित हो जाए, तो वे इसे स्वयं जारी रखेंगे। केंद्रीय गृह मंत्री ने कहा कि जयप्रकाश नारायण सार्वजनिक पुस्तकालय में 32 हजार से अधिक पुस्तकों का संग्रह है। उन्होंने कहा कि पुस्तकालय में शोधकर्ताओं के लिए समर्पित सुविधाएं, एक आधुनिक बहुउद्देशीय सभागार, समकालीन पठन क्षेत्र, बाल क्षेत्र, एक शोध केंद्र और एक करोड़ ऑनलाइन पुस्तकों तक पहुंच प्रदान करने वाला एक ई-पुस्तकालय है। पुस्तकालय में हर जगह मुफ्त वाई-फाई उपलब्ध है। उन्होंने बताया कि कई मॉनिटर भी लगाए गए हैं, जिससे आगंतुक अध्ययन के दौरान नोट्स ले सकते हैं, सामग्री डाउनलोड कर सकते हैं तथा अपने विचारों को और विकसित कर सकते हैं। पुस्तकालय अत्याधुनिक आरएफआईडी आधारित पुस्तक प्रबंधन प्रणाली से सुसज्जित है। इस अवसर पर दिल्ली की मुख्यमंत्री रेखा गुप्ता, दिल्ली के सार्वजनिक परिवहन विभाग के मंत्री परवेश वर्मा, नई दिल्ली नगर परिषद के अध्यक्ष केशव चंद्र और कई अन्य गणमान्य व्यक्ति उपस्थित थे।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:26:50+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%97%e0%a5%83%e0%a4%b9-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4-85/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-205348.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "ईपीएफओ ने छूट प्राप्त पीएफ ट्रस्ट संचालित प्रतिष्ठानों के लिए माफी योजना-2026 शुरू की",
+        "summary": "कर्मचारी भविष्य निधि संगठन- ईपीएफओ ने माफी योजना-2026 शुरू की है। इसके तहत आयकर अधिनियम, 1961 के अंतर्गत मान्यता प्राप्त छूट के साथ भविष्य निधि ट्रस्ट संचालित करने वाले प्रतिष्ठानों को अपनी स्थिति नियमित करने का एकमुश्त अवसर प्रदान किया गया है। श्रम और रोजगार मंत्रालय ने कहा है कि यह योजना छह महीने […]",
+        "article": "कर्मचारी भविष्य निधि संगठन- ईपीएफओ ने माफी योजना-2026 शुरू की है। इसके तहत आयकर अधिनियम, 1961 के अंतर्गत मान्यता प्राप्त छूट के साथ भविष्य निधि ट्रस्ट संचालित करने वाले प्रतिष्ठानों को अपनी स्थिति नियमित करने का एकमुश्त अवसर प्रदान किया गया है। श्रम और रोजगार मंत्रालय ने कहा है कि यह योजना छह महीने की अवधि तक लागू रहेगी। यह योजना उन प्रतिष्ठानों पर लागू होगी, जो आयकर अधिनियम, 1961 के अंतर्गत मान्यता प्राप्त भविष्य निधि ट्रस्ट का संचालन कर रहे हैं। मंत्रालय के अनुसार, पात्र प्रतिष्ठानों को संबंधित क्षेत्रीय कार्यालय को ई-मेल के माध्यम से औपचारिक आवेदन प्रस्तुत करना होगा। छूट प्राप्त भविष्य निधि एक नियोक्ता-प्रबंधित पीएफ योजना है जो अपने भविष्य निधि योगदान को सीधे ईपीएफओ में जमा करने के बजाय एक निजी ट्रस्ट के माध्यम से आंतरिक रूप से संचालित करती है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T06:18:45+00:00",
+        "link": "https://newsonair.gov.in/hi/epfo-amnesty-scheme/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "रेलमंत्री अश्विनी वैष्णव ने तेलंगाना में मेधा रेल कोच कलपुर्जा निर्माण सुविधा का निरीक्षण किया",
-        "summary": "रेलमंत्री अश्विनी वैष्‍णव ने तेलंगाना के संगारेड्डी जिले के नंदीगामा क्षेत्र में स्थित मेधा रेल कोच कलपुर्जा निर्माण सुविधा स्‍थल का निरीक्षण किया। 375 एकड़ भू-भाग में फैली यह विशाल औद्योगिक इकाई रेलवे के आधुनिकीकरण में महत्‍वपूर्ण प्रगति को प्रदर्शित करती है। अपनी यात्रा के दौरान श्री वैष्‍णव ने मेक इन इंडिया पहल के एक […]",
-        "article": "रेलमंत्री अश्विनी वैष्&#x200d;णव ने तेलंगाना के संगारेड्डी जिले के नंदीगामा क्षेत्र में स्थित मेधा रेल कोच कलपुर्जा निर्माण सुविधा स्&#x200d;थल का निरीक्षण किया। 375 एकड़ भू-भाग में फैली यह विशाल औद्योगिक इकाई रेलवे के आधुनिकीकरण में महत्&#x200d;वपूर्ण प्रगति को प्रदर्शित करती है। अपनी यात्रा के दौरान श्री वैष्&#x200d;णव ने मेक इन इंडिया पहल के एक महत्&#x200d;वपूर्ण हिस्&#x200d;से के रूप में निजी क्षेत्र के उद्यमों को बढ़ावा देने संबंधी सरकार की वचनबद्धता पर बल दिया। इस सुविधा के दौरे के दौरान श्री वैष्&#x200d;णव ने कलपुर्जा विनिर्माण प्रक्रिया का निकटता से पर्यवेक्षण किया। उन्&#x200d;होंने श्रमिकों से बातचीत भी की। श्री वैष्&#x200d;णव ने उनके तकनीकी कौशल, परिचालनगत कार्यप्रवाह, इस सुविधा द्वारा अपनाई गई समग्र विनिर्माण कार्यपद्धति के बारे में पूछताछ की। साथ ही उन्&#x200d;होंने मेधा संगठन द्वारा हाल ही में विकसित उन्&#x200d;नत चालकविहीन वाहन का निरीक्षण किया। यह परिवहन व्&#x200d;यवस्&#x200d;था की आधुनिक प्रौद्योगिकी को दर्शाता है। इस निरीक्षण के दौरान रेल मंत्री वैष्णव के साथ केंद्रीय मंत्री जी. किशन रेड्डी, तेलंगाना के भाजपा अध्यक्ष रामचंद्र राव और सांसद कोंडा विश्वेश्वर रेड्डी जैसे प्रमुख नेता और अधिकारी, तथा विनिर्माण कंपनी के कई प्रतिनिधि भी मौजूद थे।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:09:07+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a5%80-%e0%a4%b5%e0%a5%88%e0%a4%b7%e0%a5%8d%e0%a4%a3-5/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-203808.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "विदेश मंत्रालय ने यमन की यात्रा को लेकर 2017 की अधिसूचना वापस ली",
+        "summary": "विदेश मंत्रालय ने 2017 में जारी उस अधिसूचना को वापस ले लिया है जिसमें यमन की यात्रा करने वाले भारतीय नागरिकों पर कुछ शर्तें लगाई गई थीं। यह अधिसूचना यमन में गृहयुद्ध और सशस्त्र संघर्ष के कारण बिगड़ती सुरक्षा स्थिति को देखते हुए जारी की गई थी, जिसके चलते भारत ने अपने नागरिकों की यमन […]",
+        "article": "विदेश मंत्रालय ने 2017 में जारी उस अधिसूचना को वापस ले लिया है जिसमें यमन की यात्रा करने वाले भारतीय नागरिकों पर कुछ शर्तें लगाई गई थीं। यह अधिसूचना यमन में गृहयुद्ध और सशस्त्र संघर्ष के कारण बिगड़ती सुरक्षा स्थिति को देखते हुए जारी की गई थी, जिसके चलते भारत ने अपने नागरिकों की यमन यात्रा पर प्रतिबंध लगा दिया था। परंतु, एक परामर्श में विदेश मंत्रालय ने कहा है कि वह सभी भारतीय नागरिकों को यमन की गैर-जरूरी यात्रा से बचने की सलाह देता है। मंत्रालय ने कहा कि यदि यात्रा बेहद जरूरी है, तो इसे स्थानीय सुरक्षा स्थिति का पूरी तरह से आकलन करने के बाद ही किया जाना चाहिए और उन क्षेत्रों की यात्रा से बचना चाहिए जहां संघर्ष सक्रिय हो। मंत्रालय ने यमन में रहने वाले भारतीय नागरिकों को सतर्क रहने और यमन के भीतर ही अपनी आवाजाही सीमित रखने की सलाह दी है। विदेश मंत्रालय ने यमन में मौजूद भारतीय नागरिकों और यमन की यात्रा करने की आवश्यकता वाले लोगों को रियाद स्थित भारतीय दूतावास में पंजीकरण कराने की भी सलाह दी है ताकि आपात स्थिति में बेहतर संचार और सहायता मिल सके।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T06:13:30+00:00",
+        "link": "https://newsonair.gov.in/hi/yemen-travel-advisory/",
+        "post_id": 1733163,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1366,18 +1379,6 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T02:23:07+00:00",
         "link": "https://newsonair.gov.in/hi/fssai-notice-to-swiggy/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम में नाव दुर्घटना में 15 भारतीयों की मौत। राष्‍ट्रपति, उपराष्ट्रपति और प्रधानमंत्री ने शोक व्यक्त किया",
-        "summary": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की […]",
-        "article": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की सूची साझा करते हुए कहा कि ये नाम वियतनामी अधिकारियों द्वारा उपलब्ध कराए गए हैं। दूतावास के अनुसार, मृतकों में से 10 तमिलनाडु से, तीन आंध्र प्रदेश से और दो केरल से थे। नाव में 32 भारतीय पर्यटकों, तीन चालक दल के सदस्यों और एक परिचारक सहित कुल 36 लोग सवार थे। 17 यात्रियों और चालक दल के चार सदस्यों सहित 21 लोगों को बचा लिया गया और अस्पतालों में भर्ती कराया गया। दो जीवित बचे लोगों की हालत गंभीर बनी हुई है और उन्हें गहन चिकित्सा देखभाल दी जा रही है। हनोई स्थित भारतीय दूतावास ने बताया कि खोज और बचाव अभियान जारी है । कुछ घंटे पहले हुई इस दुर्घटना के कारणों का पता लगाया जा रहा है। वहीं, प्रभावित परिवारों को जानकारी और सहायता प्रदान करने के लिए, हो ची मिन्ह सिटी स्थित भारतीय दूतावास में एक नियंत्रण कक्ष स्थापित किया गया है। यहां, +84 36 281 7930, +84 91 552 37 14 और +84 33 452 0414 नंबरों से संपर्क किया जा सकता है। दूतावास ने सोशल मीडिया पोस्ट में बताया कि हनोई में भी एक नियंत्रण कक्ष स्थापित किया गया है और यहां +84 91 308 9165 नंबर से संपर्क किया जा सकता है। राष्ट्रपति द्रौपदी मुर्मु, उपराष्ट्रपति सीपी राधाकृष्णन और प्रधानमंत्री नरेंद्र मोदी ने वियतनाम में नाव दुर्घटना में भारतीयों की मौत पर शोक व्यक्त किया है। राष्&#x200d;ट्रपति ने शोक संतप्त परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। उपराष्ट्रपति ने घायलों के शीघ्र और पूर्ण स्वस्थ होने की प्रार्थना की। उन्होंने इस दुखद घटना से प्रभावित सभी लोगों को शक्ति और साहस प्रदान करने की कामना की है। प्रधानमंत्री मोदी ने अपने परिजनों को खोने वाले परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। श्री मोदी ने कहा कि वियतनाम में भारतीय दूतावास तथा वाणिज्य दूतावास हरसंभव सहायता प्रदान कर रहे हैं और वियतनामी अधिकारियों के साथ लगातार संपर्क में हैं।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:28:24+00:00",
-        "link": "https://newsonair.gov.in/hi/15-indians-die-in-a-boat-accident-in-vietnam-president-vice-president-and-prime-minister-express-condolences/",
-        "post_id": 1732375,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1385,6 +1386,17 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "भाजपा ने कहा- भारत हिन्द महासागर और हिन्द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा",
+        "summary": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्‍द महासागर और हिन्‍द-प्रशांत क्षेत्र में एक स्‍थाई शक्ति के रूप में उभरा है। नई दिल्‍ली में संवाददाता सम्‍मेलन को संबोधित करते हुए पार्टी प्रवक्‍ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्‍द्र मोदी ने हा‍ल ही में इन रणनीतिक संबंधों को और सशक्‍त बनाने के लिए सेशेल्‍स […]",
+        "article": "भारतीय जनता पार्टी-भाजपा ने कहा है कि भारत हिन्&#x200d;द महासागर और हिन्&#x200d;द-प्रशांत क्षेत्र में एक स्&#x200d;थाई शक्ति के रूप में उभरा है। नई दिल्&#x200d;ली में संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए पार्टी प्रवक्&#x200d;ता संबित पात्रा ने कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने हा&#x200d;ल ही में इन रणनीतिक संबंधों को और सशक्&#x200d;त बनाने के लिए सेशेल्&#x200d;स और इंडोनेशिया की यात्रा की। उन्&#x200d;होंने कहा कि भारत और न्&#x200d;यूज़ीलैंड के बीच मुक्&#x200d;त व्&#x200d;यापार समझौता एक महत्&#x200d;वपूर्ण उपलब्धि&#x200d; है। पार्टी प्रवक्&#x200d;ता ने प्रधानमंत्री की इंडोनेशिया, ऑस्&#x200d;ट्रेलिया और न्&#x200d;यूज़ीलैंड की यात्रा की दस महत्&#x200d;वपूर्ण उपलब्धियों का उल्&#x200d;लेख किया। इनमें हिन्&#x200d;द महासागर हिन्&#x200d;द-प्रशांत कार्यनीतिक गठबंधन, रक्षा और समुद्री सहयोग, महत्&#x200d;वपूर्ण खनिज सहयोग, ऊर्जा सुरक्षा, आर्थिक और निवेश के अवसर, डिजिटल सार्वजनिक अवसंरचना तथा शैक्षणिक साझेदारी शामिल हैं। श्री पात्रा ने कहा कि रक्षा और समुद्री क्षेत्रों में सहयोग में ठोस प्रगति हुई है। उन्&#x200d;होंने कहा कि पहली बार भारत रक्षा उपकरण के एक निर्यातक के रूप में उभर रहा है। उन्&#x200d;होंने कहा कि भारत और ऑस्&#x200d;ट्रेल&#x200d;िया ने रक्षा और सुरक्षा सहयोग पर एक संयुक्&#x200d;त घोषणा पत्र जारी किया है। श्री पात्रा ने कहा कि इस समझौते के अंतर्गत भारत और ऑस्&#x200d;ट्रेलिया के युद्धपोतों की सर्विसिंग एक-दूसरे के डॉक पर की जाएगी।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:38:03+00:00",
+        "link": "https://newsonair.gov.in/hi/india-in-indo-pacific/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/BJP-MP-Sambit-Patra.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "प्रधानमंत्री नरेंद्र मोदी छह दिन की इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड यात्रा के बाद नई दिल्ली लौटे",
         "summary": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी इंडोनेशिया, ऑस्ट्रेलिया और न्यूजीलैंड की छह दिन की सफल यात्रा के बाद नई दिल्ली लौट आए हैं। तीन देशों की यात्रा के पहले चरण में श्री मोदी ने राष्ट्रपति प्रबोवो सुबियांतो के निमंत्रण पर इस महीने की 6 से 8 तारीख तक इंडोनेशिया का दौरा किया। इस दौरान, प्रधानमंत्री ने इंडोनेशिया के राष्ट्रपति के साथ द्विपक्षीय चर्चा की और साझेदारी में हुई प्रगति की समीक्षा की। अपनी यात्रा के दूसरे चरण में, प्रधानमंत्री मोदी मेलबर्न, ऑस्ट्रेलिया गए। श्री मोदी ने ऑस्ट्रेलियाई प्रधानमंत्री एंथनी अल्बानीज़ के साथ तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन में भाग लिया। अपनी यात्रा के दौरान, प्रधानमंत्री मोदी ने भारत-ऑस्ट्रेलिया सीईओ फोरम में भी भाग लिया, जहां उन्होंने दोनों देशों के शीर्ष व्यापारिक नेताओं की सभा को संबोधित किया। तीन देशों की यात्रा के तीसरे और अंतिम चरण में, प्रधानमंत्री ने न्यूजीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के निमंत्रण पर 10 से 11 जुलाई तक ऑकलैंड का दौरा किया। न्यूजीलैंड की यह यात्रा किसी भी भारतीय प्रधानमंत्री की 40 वर्षों में पहली यात्रा थी।",
@@ -1451,25 +1463,26 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "केंद्रीय गृह मंत्री अमित शाह ने युवाओं से पुस्तकालयों से जुड़ने का आह्वान किया",
-        "summary": "केंद्रीय गृह मंत्री अमित शाह ने व्यक्तित्व निर्माण में पुस्तकालयों की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए युवा पीढ़ी से पुस्तकालयों से जुड़ने की अपील की है । आज नई दिल्ली में जयप्रकाश नारायण सार्वजनिक पुस्तकालय का उद्घाटन करते हुए उन्‍होंने कहा कि लोकनायक जयप्रकाश नारायण एक महान स्वतंत्रता सेनानी, विचारक और राष्ट्रवादी नेता थे […]",
-        "article": "केंद्रीय गृह मंत्री अमित शाह ने व्यक्तित्व निर्माण में पुस्तकालयों की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए युवा पीढ़ी से पुस्तकालयों से जुड़ने की अपील की है । आज नई दिल्ली में जयप्रकाश नारायण सार्वजनिक पुस्तकालय का उद्घाटन करते हुए उन्&#x200d;होंने कहा कि लोकनायक जयप्रकाश नारायण एक महान स्वतंत्रता सेनानी, विचारक और राष्ट्रवादी नेता थे जिन्होंने देश के लिए उल्लेखनीय योगदान दिया। गृह मंत्री ने कहा कि देश और उसके लोगों को समझने के लिए पढ़ना आवश्यक है। उन्होंने राष्ट्र निर्माण में पुस्तकालयों की भूमिका पर प्रकाश डालते हुए कहा कि वे आधुनिक शिक्षा के साथ-साथ जनसमुदाय में देश की संस्कृति और ज्ञान के प्रसार का सशक्त माध्यम हैं। श्री अमित शाह ने कहा कि राष्ट्र निर्माण में योगदान देने वाली और देश को गौरव दिलाने वाली सभी गतिविधियाँ ज्ञान पर आधारित हैं, जो व्यवहार में लागू होने पर बुद्धिमत्ता और विवेक में परिवर्तित हो जाता है। उन्होंने कहा कि पुस्तकालय ऐसे ज्ञान का एक महत्वपूर्ण स्रोत हैं। श्री अमित शाह ने रेखांकित किया कि सरकार ने विदयाथियों में पढ़ने को प्रोत्साहित करने के लिए पुस्तकालयों को विद्यालयों से जोड़ने के प्रयास किए हैं। उन्होंने बताया कि गांधीनगर लोकसभा क्षेत्र में हर गांव में पुस्तकालय खोले गए हैं, जिनमें से प्रत्येक में लगभग 3 से 4 हजार पुस्तकें हैं। उन्होंने कहा कि ये पुस्तकालय एक केंद्रीय पुस्तकालय से जुड़े हैं, जिसमें एक लाख 25 हजार से अधिक पुस्तकों का संग्रह है। श्री अमित शाह ने दिल्ली सरकार से शहर भर के सभी पुस्तकालयों को आपस में जोड़ने और उन्हें स्कूलों से जोड़ने के लिए एक व्यापक योजना बनाने का आग्रह किया। उन्होंने कहा कि पुस्तक प्रेमियों को पुस्तकालयों से जुड़ने के लिए प्रोत्साहित करने के लिए एक सुव्यवस्थित कार्य योजना तैयार की जानी चाहिए। उन्होंने जयप्रकाश नारायण सार्वजनिक पुस्तकालय के कर्मचारियों से नई दिल्ली के आसपास के दस विधानसभा क्षेत्रों के सभी स्कूलों तक पहुंचने, युवाओं को पुस्तकालय से जोड़ने और उन्हें आने के लिए प्रेरित करने की अपील की। ​​उन्होंने कहा कि एक बार युवाओं में पढ़ने की आदत विकसित हो जाए, तो वे इसे स्वयं जारी रखेंगे। केंद्रीय गृह मंत्री ने कहा कि जयप्रकाश नारायण सार्वजनिक पुस्तकालय में 32 हजार से अधिक पुस्तकों का संग्रह है। उन्होंने कहा कि पुस्तकालय में शोधकर्ताओं के लिए समर्पित सुविधाएं, एक आधुनिक बहुउद्देशीय सभागार, समकालीन पठन क्षेत्र, बाल क्षेत्र, एक शोध केंद्र और एक करोड़ ऑनलाइन पुस्तकों तक पहुंच प्रदान करने वाला एक ई-पुस्तकालय है। पुस्तकालय में हर जगह मुफ्त वाई-फाई उपलब्ध है। उन्होंने बताया कि कई मॉनिटर भी लगाए गए हैं, जिससे आगंतुक अध्ययन के दौरान नोट्स ले सकते हैं, सामग्री डाउनलोड कर सकते हैं तथा अपने विचारों को और विकसित कर सकते हैं। पुस्तकालय अत्याधुनिक आरएफआईडी आधारित पुस्तक प्रबंधन प्रणाली से सुसज्जित है। इस अवसर पर दिल्ली की मुख्यमंत्री रेखा गुप्ता, दिल्ली के सार्वजनिक परिवहन विभाग के मंत्री परवेश वर्मा, नई दिल्ली नगर परिषद के अध्यक्ष केशव चंद्र और कई अन्य गणमान्य व्यक्ति उपस्थित थे।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:26:50+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%97%e0%a5%83%e0%a4%b9-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4-85/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-205348.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "ईपीएफओ ने छूट प्राप्त पीएफ ट्रस्ट संचालित प्रतिष्ठानों के लिए माफी योजना-2026 शुरू की",
+        "summary": "कर्मचारी भविष्य निधि संगठन- ईपीएफओ ने माफी योजना-2026 शुरू की है। इसके तहत आयकर अधिनियम, 1961 के अंतर्गत मान्यता प्राप्त छूट के साथ भविष्य निधि ट्रस्ट संचालित करने वाले प्रतिष्ठानों को अपनी स्थिति नियमित करने का एकमुश्त अवसर प्रदान किया गया है। श्रम और रोजगार मंत्रालय ने कहा है कि यह योजना छह महीने […]",
+        "article": "कर्मचारी भविष्य निधि संगठन- ईपीएफओ ने माफी योजना-2026 शुरू की है। इसके तहत आयकर अधिनियम, 1961 के अंतर्गत मान्यता प्राप्त छूट के साथ भविष्य निधि ट्रस्ट संचालित करने वाले प्रतिष्ठानों को अपनी स्थिति नियमित करने का एकमुश्त अवसर प्रदान किया गया है। श्रम और रोजगार मंत्रालय ने कहा है कि यह योजना छह महीने की अवधि तक लागू रहेगी। यह योजना उन प्रतिष्ठानों पर लागू होगी, जो आयकर अधिनियम, 1961 के अंतर्गत मान्यता प्राप्त भविष्य निधि ट्रस्ट का संचालन कर रहे हैं। मंत्रालय के अनुसार, पात्र प्रतिष्ठानों को संबंधित क्षेत्रीय कार्यालय को ई-मेल के माध्यम से औपचारिक आवेदन प्रस्तुत करना होगा। छूट प्राप्त भविष्य निधि एक नियोक्ता-प्रबंधित पीएफ योजना है जो अपने भविष्य निधि योगदान को सीधे ईपीएफओ में जमा करने के बजाय एक निजी ट्रस्ट के माध्यम से आंतरिक रूप से संचालित करती है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T06:18:45+00:00",
+        "link": "https://newsonair.gov.in/hi/epfo-amnesty-scheme/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "रेलमंत्री अश्विनी वैष्णव ने तेलंगाना में मेधा रेल कोच कलपुर्जा निर्माण सुविधा का निरीक्षण किया",
-        "summary": "रेलमंत्री अश्विनी वैष्‍णव ने तेलंगाना के संगारेड्डी जिले के नंदीगामा क्षेत्र में स्थित मेधा रेल कोच कलपुर्जा निर्माण सुविधा स्‍थल का निरीक्षण किया। 375 एकड़ भू-भाग में फैली यह विशाल औद्योगिक इकाई रेलवे के आधुनिकीकरण में महत्‍वपूर्ण प्रगति को प्रदर्शित करती है। अपनी यात्रा के दौरान श्री वैष्‍णव ने मेक इन इंडिया पहल के एक […]",
-        "article": "रेलमंत्री अश्विनी वैष्&#x200d;णव ने तेलंगाना के संगारेड्डी जिले के नंदीगामा क्षेत्र में स्थित मेधा रेल कोच कलपुर्जा निर्माण सुविधा स्&#x200d;थल का निरीक्षण किया। 375 एकड़ भू-भाग में फैली यह विशाल औद्योगिक इकाई रेलवे के आधुनिकीकरण में महत्&#x200d;वपूर्ण प्रगति को प्रदर्शित करती है। अपनी यात्रा के दौरान श्री वैष्&#x200d;णव ने मेक इन इंडिया पहल के एक महत्&#x200d;वपूर्ण हिस्&#x200d;से के रूप में निजी क्षेत्र के उद्यमों को बढ़ावा देने संबंधी सरकार की वचनबद्धता पर बल दिया। इस सुविधा के दौरे के दौरान श्री वैष्&#x200d;णव ने कलपुर्जा विनिर्माण प्रक्रिया का निकटता से पर्यवेक्षण किया। उन्&#x200d;होंने श्रमिकों से बातचीत भी की। श्री वैष्&#x200d;णव ने उनके तकनीकी कौशल, परिचालनगत कार्यप्रवाह, इस सुविधा द्वारा अपनाई गई समग्र विनिर्माण कार्यपद्धति के बारे में पूछताछ की। साथ ही उन्&#x200d;होंने मेधा संगठन द्वारा हाल ही में विकसित उन्&#x200d;नत चालकविहीन वाहन का निरीक्षण किया। यह परिवहन व्&#x200d;यवस्&#x200d;था की आधुनिक प्रौद्योगिकी को दर्शाता है। इस निरीक्षण के दौरान रेल मंत्री वैष्णव के साथ केंद्रीय मंत्री जी. किशन रेड्डी, तेलंगाना के भाजपा अध्यक्ष रामचंद्र राव और सांसद कोंडा विश्वेश्वर रेड्डी जैसे प्रमुख नेता और अधिकारी, तथा विनिर्माण कंपनी के कई प्रतिनिधि भी मौजूद थे।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:09:07+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%85%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a5%80-%e0%a4%b5%e0%a5%88%e0%a4%b7%e0%a5%8d%e0%a4%a3-5/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-11-203808.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "विदेश मंत्रालय ने यमन की यात्रा को लेकर 2017 की अधिसूचना वापस ली",
+        "summary": "विदेश मंत्रालय ने 2017 में जारी उस अधिसूचना को वापस ले लिया है जिसमें यमन की यात्रा करने वाले भारतीय नागरिकों पर कुछ शर्तें लगाई गई थीं। यह अधिसूचना यमन में गृहयुद्ध और सशस्त्र संघर्ष के कारण बिगड़ती सुरक्षा स्थिति को देखते हुए जारी की गई थी, जिसके चलते भारत ने अपने नागरिकों की यमन […]",
+        "article": "विदेश मंत्रालय ने 2017 में जारी उस अधिसूचना को वापस ले लिया है जिसमें यमन की यात्रा करने वाले भारतीय नागरिकों पर कुछ शर्तें लगाई गई थीं। यह अधिसूचना यमन में गृहयुद्ध और सशस्त्र संघर्ष के कारण बिगड़ती सुरक्षा स्थिति को देखते हुए जारी की गई थी, जिसके चलते भारत ने अपने नागरिकों की यमन यात्रा पर प्रतिबंध लगा दिया था। परंतु, एक परामर्श में विदेश मंत्रालय ने कहा है कि वह सभी भारतीय नागरिकों को यमन की गैर-जरूरी यात्रा से बचने की सलाह देता है। मंत्रालय ने कहा कि यदि यात्रा बेहद जरूरी है, तो इसे स्थानीय सुरक्षा स्थिति का पूरी तरह से आकलन करने के बाद ही किया जाना चाहिए और उन क्षेत्रों की यात्रा से बचना चाहिए जहां संघर्ष सक्रिय हो। मंत्रालय ने यमन में रहने वाले भारतीय नागरिकों को सतर्क रहने और यमन के भीतर ही अपनी आवाजाही सीमित रखने की सलाह दी है। विदेश मंत्रालय ने यमन में मौजूद भारतीय नागरिकों और यमन की यात्रा करने की आवश्यकता वाले लोगों को रियाद स्थित भारतीय दूतावास में पंजीकरण कराने की भी सलाह दी है ताकि आपात स्थिति में बेहतर संचार और सहायता मिल सके।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T06:13:30+00:00",
+        "link": "https://newsonair.gov.in/hi/yemen-travel-advisory/",
+        "post_id": 1733163,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1482,21 +1495,20 @@ window.VM_NEWS = {
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम में नाव दुर्घटना में 15 भारतीयों की मौत। राष्‍ट्रपति, उपराष्ट्रपति और प्रधानमंत्री ने शोक व्यक्त किया",
-        "summary": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की […]",
-        "article": "भारतीय पर्यटकों को ले जा रही एक स्पीडबोट के आज वियतनाम के फु क्वोक द्वीप के पास पलट जाने से पंद्रह भारतीय पर्यटकों की मौत हो गई। वियतनाम स्थित भारतीय दूतावास ने पुष्टि की है कि मृतकों में 13 पुरुष और दो महिलाएं शामिल हैं। दूतावास ने सोशल मीडिया पर एक पोस्ट में, मृतकों की सूची साझा करते हुए कहा कि ये नाम वियतनामी अधिकारियों द्वारा उपलब्ध कराए गए हैं। दूतावास के अनुसार, मृतकों में से 10 तमिलनाडु से, तीन आंध्र प्रदेश से और दो केरल से थे। नाव में 32 भारतीय पर्यटकों, तीन चालक दल के सदस्यों और एक परिचारक सहित कुल 36 लोग सवार थे। 17 यात्रियों और चालक दल के चार सदस्यों सहित 21 लोगों को बचा लिया गया और अस्पतालों में भर्ती कराया गया। दो जीवित बचे लोगों की हालत गंभीर बनी हुई है और उन्हें गहन चिकित्सा देखभाल दी जा रही है। हनोई स्थित भारतीय दूतावास ने बताया कि खोज और बचाव अभियान जारी है । कुछ घंटे पहले हुई इस दुर्घटना के कारणों का पता लगाया जा रहा है। वहीं, प्रभावित परिवारों को जानकारी और सहायता प्रदान करने के लिए, हो ची मिन्ह सिटी स्थित भारतीय दूतावास में एक नियंत्रण कक्ष स्थापित किया गया है। यहां, +84 36 281 7930, +84 91 552 37 14 और +84 33 452 0414 नंबरों से संपर्क किया जा सकता है। दूतावास ने सोशल मीडिया पोस्ट में बताया कि हनोई में भी एक नियंत्रण कक्ष स्थापित किया गया है और यहां +84 91 308 9165 नंबर से संपर्क किया जा सकता है। राष्ट्रपति द्रौपदी मुर्मु, उपराष्ट्रपति सीपी राधाकृष्णन और प्रधानमंत्री नरेंद्र मोदी ने वियतनाम में नाव दुर्घटना में भारतीयों की मौत पर शोक व्यक्त किया है। राष्&#x200d;ट्रपति ने शोक संतप्त परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। उपराष्ट्रपति ने घायलों के शीघ्र और पूर्ण स्वस्थ होने की प्रार्थना की। उन्होंने इस दुखद घटना से प्रभावित सभी लोगों को शक्ति और साहस प्रदान करने की कामना की है। प्रधानमंत्री मोदी ने अपने परिजनों को खोने वाले परिवारों के प्रति संवेदना व्यक्त की है और घायलों के शीघ्र स्वस्थ होने की कामना की है। श्री मोदी ने कहा कि वियतनाम में भारतीय दूतावास तथा वाणिज्य दूतावास हरसंभव सहायता प्रदान कर रहे हैं और वियतनामी अधिकारियों के साथ लगातार संपर्क में हैं।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T15:28:24+00:00",
-        "link": "https://newsonair.gov.in/hi/15-indians-die-in-a-boat-accident-in-vietnam-president-vice-president-and-prime-minister-express-condolences/",
-        "post_id": 1732375,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "कतर के पूर्व अमीर शेख हमद बिन खलीफा अल थानी का 74 वर्ष की आयु में निधन, पीएम मोदी ने शोक व्यक्त किया",
+        "summary": "कतर के पूर्व अमीर शेख हमद बिन खलीफा अल थानी का 74 वर्ष की आयु में निधन हो गया है। उन्होंने इस खाड़ी देश को कूटनीति, मीडिया और निवेश के क्षेत्र में प्रमुख वैश्विक शक्ति के रूप में स्थापित किया था। शेख हमद ने क्षेत्रीय परंपरा को तोड़ते हुए 2013 में स्वेच्छा से अपने बेटे […]",
+        "article": "कतर के पूर्व अमीर शेख हमद बिन खलीफा अल थानी का 74 वर्ष की आयु में निधन हो गया है। उन्होंने इस खाड़ी देश को कूटनीति, मीडिया और निवेश के क्षेत्र में प्रमुख वैश्विक शक्ति के रूप में स्थापित किया था। शेख हमद ने क्षेत्रीय परंपरा को तोड़ते हुए 2013 में स्वेच्छा से अपने बेटे को सत्ता सौंपने से पहले 18 वर्षों तक कतर पर शासन किया। उनके नेतृत्व में कतर एक वैश्विक ऊर्जा शक्ति के रूप में उभरा। उन्&#x200d;होंने अल जज़ीरा समाचार नेटवर्क की शुरुआत की, अंतरराष्ट्रीय निवेश का विस्तार किया और 2022 फीफा विश्व कप की सफलतापूर्वक मेजबानी की। प्रधानमंत्री नरेन्द्र मोदी ने कतर के पूर्व अमीर शेख हमद बिन खलीफा अल थानी के निधन पर गहरा शोक व्यक्त किया है। सोशल मीडिया पर एक पोस्ट में श्री मोदी ने कहा कि शेख हमद बिन खलीफा अल थानी दूरदर्शी नेता थे, जिन्होंने कतर को विकास और समृद्धि की नई ऊंचाइयों तक पहुंचाया। उन्होंने कहा कि भारत उन्हें एक सच्चे मित्र के रूप में हमेशा याद रखेगा। प्रधानमंत्री ने कतर के अमीर शेख तमीम बिन हमद अल थानी, शाही परिवार और कतर की जनता के प्रति गहरी संवेदना व्यक्त की है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T07:28:55+00:00",
+        "link": "https://newsonair.gov.in/hi/qatar-former-amir/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNAqUcXaYAAZF_-.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "आईआरजीसी के जहाज पर हमले के बाद अमरीका ने ईरान पर नए हमले शुरू किए, होर्मुज जलडमरूमध्य अगले आदेश तक बंद",
         "summary": "इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स के होर्मुज जलडमरूमध्य में साइप्रस के झंडे वाले जहाज पर हमले के बाद, अमरीका ने ईरान पर नए हमले शुरू कर दिए हैं। अमरीकी सेना ने कहा है कि ये हमले राष्ट्रपति डॉनल्‍ड ट्रंप के निर्देश पर किए गए। अमरीका ने बताया है कि व्‍यापारिक जहाज पर हुए हमले में चालक […]",
@@ -1564,25 +1576,14 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "वेनेज़ुएला में पिछले महीने आए शक्तिशाली भूकंप में मरने वालों का आंकड़ा 4 हज़ार के पार",
-        "summary": "वेनेज़ुएला में पिछले महीने आए दो शक्तिशाली भूकंपों में मरने वालों की संख्या 4 हजार से अधिक हो गई है। वेनेज़ुएला संसद प्रमुख जॉर्ज रोड्रिगेज़ के अनुसार, अब तक 4 हजार 118 लोगों की मौत हो चुकी है और 16 हजार 740 लोग घायल हुए हैं। वहीं, हजारों लोग अब भी लापता हैं। 24 जून […]",
-        "article": "वेनेज़ुएला में पिछले महीने आए दो शक्तिशाली भूकंपों में मरने वालों की संख्या 4 हजार से अधिक हो गई है। वेनेज़ुएला संसद प्रमुख जॉर्ज रोड्रिगेज़ के अनुसार, अब तक 4 हजार 118 लोगों की मौत हो चुकी है और 16 हजार 740 लोग घायल हुए हैं। वहीं, हजारों लोग अब भी लापता हैं। 24 जून को आए 7.2 और 7.5 तीव्रता के भूकंपों से ला गुएरा प्रांत में भारी तबाही हुई थी। संयुक्त राष्ट्र ने राहत और पुनर्वास कार्यों के लिए लगभग 30 करोड़ अमरीकी डॉलर की सहायता की अपील की है।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T06:01:15+00:00",
-        "link": "https://newsonair.gov.in/hi/the-death-toll-from-the-powerful-earthquake-that-struck-venezuela-last-month-has-crossed-4000/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMcAu8qawAA0-2g-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी और न्यूज़ीलैंड के पीएम लक्सन ने द्विपक्षीय व्यापार को ₹35 हजार करोड़ तक पहुंचाने का लक्ष्य रखा",
-        "summary": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच ऑकलैंड में हुई वार्ता के बाद दोनों देशों ने अपने संबंधों को सामरिक साझेदारी का दर्जा दिया। दोनों नेताओं ने वर्ष 2030 तक द्विपक्षीय वस्तु और सेवा व्यापार को बढ़ाकर 35 हजार करोड़ रुपये तक पहुंचाने का लक्ष्य भी तय किया। वार्ता के दौरान […]",
-        "article": "प्रधानमंत्री नरेन्द्र मोदी और न्यूज़ीलैंड के प्रधानमंत्री क्रिस्टोफर लक्सन के बीच ऑकलैंड में हुई वार्ता के बाद दोनों देशों ने अपने संबंधों को सामरिक साझेदारी का दर्जा दिया। दोनों नेताओं ने वर्ष 2030 तक द्विपक्षीय वस्तु और सेवा व्यापार को बढ़ाकर 35 हजार करोड़ रुपये तक पहुंचाने का लक्ष्य भी तय किया। वार्ता के दौरान अगले 4 वर्षों के लिए सहयोग रणनीति, हिंद-प्रशांत क्षेत्र में समुद्री सहयोग बढ़ाने की रूपरेखा और भारतीय नौसेना तथा न्यूज़ीलैंड रक्षा बल के बीच पारस्परिक लॉजिस्टिक सहयोग समझौते पर सहमति बनी। दोनों नेताओं ने हिंद-प्रशांत क्षेत्र को स्वतंत्र, खुला, सुरक्षित और समृद्ध बनाए रखने की प्रतिबद्धता दोहराई। उन्होंने समुद्री सुरक्षा सहयोग और सूचनाओं के आदान-प्रदान के लिए समुद्री सुरक्षा संवाद शुरू करने पर भी सहमति व्यक्त की। दोनों नेताओं ने भारत-न्यूज़ीलैंड मुक्त व्यापार समझौते का स्वागत करते हुए इसे जल्द लागू करने पर जोर दिया। पश्चिम एशिया की स्थिति पर चिंता व्यक्त करते हुए उन्होंने सभी पक्षों से संयम बरतने, तनाव कम करने और नागरिकों की सुरक्षा सुनिश्चित करने की अपील की। दोनों नेताओं ने संयुक्त राष्ट्र सुरक्षा परिषद में सुधार और उसके विस्तार की आवश्यकता पर भी बल दिया।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T04:46:03+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-and-new-zealand-prime-minister-luxon-set-a-target-to-take-bilateral-trade-to-%e2%82%b935000-crore/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM6iShdbwAAw1s-.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "विदेश मंत्रालय ने यमन की यात्रा को लेकर 2017 की अधिसूचना वापस ली",
+        "summary": "विदेश मंत्रालय ने 2017 में जारी उस अधिसूचना को वापस ले लिया है जिसमें यमन की यात्रा करने वाले भारतीय नागरिकों पर कुछ शर्तें लगाई गई थीं। यह अधिसूचना यमन में गृहयुद्ध और सशस्त्र संघर्ष के कारण बिगड़ती सुरक्षा स्थिति को देखते हुए जारी की गई थी, जिसके चलते भारत ने अपने नागरिकों की यमन […]",
+        "article": "विदेश मंत्रालय ने 2017 में जारी उस अधिसूचना को वापस ले लिया है जिसमें यमन की यात्रा करने वाले भारतीय नागरिकों पर कुछ शर्तें लगाई गई थीं। यह अधिसूचना यमन में गृहयुद्ध और सशस्त्र संघर्ष के कारण बिगड़ती सुरक्षा स्थिति को देखते हुए जारी की गई थी, जिसके चलते भारत ने अपने नागरिकों की यमन यात्रा पर प्रतिबंध लगा दिया था। परंतु, एक परामर्श में विदेश मंत्रालय ने कहा है कि वह सभी भारतीय नागरिकों को यमन की गैर-जरूरी यात्रा से बचने की सलाह देता है। मंत्रालय ने कहा कि यदि यात्रा बेहद जरूरी है, तो इसे स्थानीय सुरक्षा स्थिति का पूरी तरह से आकलन करने के बाद ही किया जाना चाहिए और उन क्षेत्रों की यात्रा से बचना चाहिए जहां संघर्ष सक्रिय हो। मंत्रालय ने यमन में रहने वाले भारतीय नागरिकों को सतर्क रहने और यमन के भीतर ही अपनी आवाजाही सीमित रखने की सलाह दी है। विदेश मंत्रालय ने यमन में मौजूद भारतीय नागरिकों और यमन की यात्रा करने की आवश्यकता वाले लोगों को रियाद स्थित भारतीय दूतावास में पंजीकरण कराने की भी सलाह दी है ताकि आपात स्थिति में बेहतर संचार और सहायता मिल सके।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T06:13:30+00:00",
+        "link": "https://newsonair.gov.in/hi/yemen-travel-advisory/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1609,6 +1610,28 @@ window.VM_NEWS = {
       }
     ],
     "sports": [
+      {
+        "title": "WIMBLEDON: पुरुष सिंगल्स और महिला डबल्स के फाइनल मैच आज",
+        "summary": "टेनिस में, पुरुष सिंगल्‍स और महिला डबल्‍स के फाइनल मैच आज खेले जाने के कारण विंबलडन के दो खिताबों के नतीजे सामने आएंगे। विश्‍व के नम्‍बर एक खिलाड़ी यानिक सि‍नर रात 8:30 बजे से पुरुष सिंगल्‍स में जर्मनी के एलेक्‍जेंडर ज्‍वेरेव के साथ खेलेंगे। नोवाक जोकोविच को सीधे सेटों में हराकर सिनर ने खिताबी […]",
+        "article": "टेनिस में, पुरुष सिंगल्&#x200d;स और महिला डबल्&#x200d;स के फाइनल मैच आज खेले जाने के कारण विंबलडन के दो खिताबों के नतीजे सामने आएंगे। विश्&#x200d;व के नम्&#x200d;बर एक खिलाड़ी यानिक सि&#x200d;नर रात 8:30 बजे से पुरुष सिंगल्&#x200d;स में जर्मनी के एलेक्&#x200d;जेंडर ज्&#x200d;वेरेव के साथ खेलेंगे। नोवाक जोकोविच को सीधे सेटों में हराकर सिनर ने खिताबी भिड़ंत में अपना स्&#x200d;थान सुरक्षित किया है। वहीं, ज्&#x200d;वेरेव ने ब्रिटेन के आर्थर फेरी को हराने के बाद विंबलडन के अपने पहले फाइनल मुकाबले में प्रवेश किया। महिला डबल्&#x200d;स का फाइनल शाम 5:30 बजे से खेला जाएगा। 10वीं वरीयता प्राप्&#x200d;त चीन की गुओ हान्&#x200d;यु और फ्रांस की क्र&#x200d;िस्&#x200d;टीना म्&#x200d;लाडेनोविक की जोड़ी दूसरी वरीयता प्राप्&#x200d;त कनाडा की गैब्रिएला डाब्रोवस्&#x200d;की और ब्राजील की लुइसा स्&#x200d;टेफनी की जोड़ी से खेलेंगी। महिला सिंगल्&#x200d;स के फाइनल में कल 21 वर्षीय लिंडा नोस्&#x200d;कोवा ने लंदन के सेंटर कोर्ट में चेक गणराज्&#x200d;य की कैरोलीना मुचोवा को 6-2, 5-7, 6-3 से हराने के बाद अपना पहला ग्रैंड स्&#x200d;लैम खिताब जीता। नोस्&#x200d;कोवा, ग्रास-कोर्ट पर चार वर्षों में जीत दर्ज करने वाली चेक गणराज्&#x200d;य की तीसरी महिला बन गई हैं। उनसे पहले 2023 में मार्केटा वोंद्रोसोवा और 2024 में बारबोरा क्रेज्सिकोवा ने यह खिताब जीता था।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T06:31:57+00:00",
+        "link": "https://newsonair.gov.in/hi/wimbledon-finals/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM_xlfcbgAAcI_F.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "फीफा विश्व कप: बुधवार को फ्रांस-स्पेन और गुरुवार को इंग्लैंड-अर्जेंटीना के बीच सेमीफाइनल मुकाबले खेले जाएंगे",
+        "summary": "फीफा फुटबॉल विश्व कप के सेमिफाइनल मुकाबले तय हो गए हैं। पहला सेमीफाइनल बुधवार को फ्रांस और स्पेन के बीच खेला जाएगा। यह मैच भारतीय समय अनुसार रात 12:30 बजे शुरू होगा। फ्रांस ने क्वार्टर फाइनल में मोरक्को को 2-0 से हराकर सेमीफाइनल में जगह बनाई, जबकि स्पेन ने बेल्जियम पर कड़े मुकाबले में 2-1 […]",
+        "article": "फीफा फुटबॉल विश्व कप के सेमिफाइनल मुकाबले तय हो गए हैं। पहला सेमीफाइनल बुधवार को फ्रांस और स्पेन के बीच खेला जाएगा। यह मैच भारतीय समय अनुसार रात 12:30 बजे शुरू होगा। फ्रांस ने क्वार्टर फाइनल में मोरक्को को 2-0 से हराकर सेमीफाइनल में जगह बनाई, जबकि स्पेन ने बेल्जियम पर कड़े मुकाबले में 2-1 से जीत हासिल की। दूसरा सेमीफाइनल गुरुवार को इंग्लैंड और अर्जेंटीना के बीच खेला जाएगा। इंग्लैंड ने नॉर्वे को अतिरिक्त समय में 2-1 से हराकर सेमीफाइनल में जगह पक्की की, जबकि अर्जेंटीना ने आज सुबह स्विट्जरलैंड को 3-1 से हराया। दोनों सेमीफाइनल मुकाबलों के विजेता 20 जुलाई को न्यूयॉर्क के न्यू जर्सी स्टेडियम में खिताबी मुकाबले में आमने-सामने होंगे वहीं सेमीफाइलन की दोनों पराजित टीमें 19 जुलाई को मियामी में तीसरे स्थान के लिए प्ले-ऑफ खेलेंगी।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T06:03:44+00:00",
+        "link": "https://newsonair.gov.in/hi/fifa-world-cup-semifinals/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNAIG-ObwAApzDM.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "इंग्लैंड ने पांचवें और अंतिम टी-20 अंतरराष्ट्रीय में भारत को 56 रन से हराकर श्रृंखला 4-0 से जीती",
         "summary": "इंग्‍लैंड ने कल रात साउथैम्‍पटन में पांचवें और अंतिम टी-20 अंतरराष्‍ट्रीय क्रिकेट मैच में भारत को 56 रन से हराकर श्रृंखला 4-0 से जीत ली है। इंग्‍लैंड ने भारत को 258 रन का लक्ष्‍य दिया था लेकिन भारतीय टीम निर्धारित 20 ओवर में 8 विकेट पर 201 रन ही बना सकी। इससे पहले इंग्‍लैंड […]",
@@ -1696,28 +1719,6 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM0bpkqXIAAhsCn.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "इंग्लैंड के साथ चौथे टी-20 अंतरराष्ट्रीय क्रिकेट मैच में भारत को मिली 9 विकेट से करारी हार",
-        "summary": "ब्रिस्टल में मेजबान इंग्लैंड के साथ चौथे टी-20 अंतरराष्ट्रीय क्रिकेट मैच में कल रात भारत को 9 विकेट से करारी हार का सामना करना पड़ा। इंग्लैंड ने 3-0 की अजेय बढ़त बनाकर 5 मैचों की श्रृंखला पर कब्ज़ा कर लिया है। टी-20 श्रृंखला में यह भारतीय टीम लगातार दूसरी हार है। टॉस जीतकर पहले बल्लेबाजी […]",
-        "article": "ब्रिस्टल में मेजबान इंग्लैंड के साथ चौथे टी-20 अंतरराष्ट्रीय क्रिकेट मैच में कल रात भारत को 9 विकेट से करारी हार का सामना करना पड़ा। इंग्लैंड ने 3-0 की अजेय बढ़त बनाकर 5 मैचों की श्रृंखला पर कब्ज़ा कर लिया है। टी-20 श्रृंखला में यह भारतीय टीम लगातार दूसरी हार है। टॉस जीतकर पहले बल्लेबाजी करते हुए भारत ने निर्धारित 20 ओवर में 7 विकेट पर 158 रन बनाए। कप्तान श्रेयस अय्यर ने 49 गेंदों पर नाबाद 80 रन की पारी खेली। शिवम दुबे ने 22 रन का योगदान दिया। इंग्लैंड की ओर से जोफ्रा आर्चर और जोश टंग ने दो-दो विकेट लिए। जवाब में, इंग्लैंड ने चौदहवें ओवर में ही केवल 1 विकेट खोकर लक्ष्य हासिल कर लिया। सलामी बल्लेबाज फिल साल्ट ने 59 रन बनाए, जबकि हैरी ब्रूक ने 35 गेंदों पर 79 रन की नाबाद मैच जिताऊ पारी खेली। ब्रूक को प्लेयर ऑफ द मैच चुना गया। दोनों टीमें कल साउथेम्प्टन में श्रृंखला का पांचवां और अंतिम मैच खेलेगी। इसके बाद, भारत 14 जुलाई से इंग्लैंड के साथ तीन मैचों की एक दिवसीय श्रृंखला खेलेगा।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:55:17+00:00",
-        "link": "https://newsonair.gov.in/hi/india-suffered-a-crushing-9-wicket-defeat-against-england-in-the-fourth-t20-international-cricket-match/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMz03lPbYAE25po-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतीय महिला क्रिकेट टीम आज लंदन के लॉर्ड्स में इंग्लैंड के साथ एकदिवसीय टेस्ट मैच खेलेगी",
-        "summary": "हरमनप्रीत कौर की अगुवाई में भारतीय महिला क्रिकेट टीम आज लंदन के लॉर्ड्स मैदान में मेजबान इंग्लैंड के साथ ऐतिहासिक एकदिवसीय टेस्ट मैच खेलेगी। मैच भारतीय समयानुसार दोपहर साढे तीन बजे से खेला जाएगा। यह पहली बार है जब लॉर्ड्स मैदान पर महिला टेस्ट मैच खेला जाएगा। इस चार दिवसीय टेस्ट मैच के लिए रिकॉर्ड […]",
-        "article": "हरमनप्रीत कौर की अगुवाई में भारतीय महिला क्रिकेट टीम आज लंदन के लॉर्ड्स मैदान में मेजबान इंग्लैंड के साथ ऐतिहासिक एकदिवसीय टेस्ट मैच खेलेगी। मैच भारतीय समयानुसार दोपहर साढे तीन बजे से खेला जाएगा। यह पहली बार है जब लॉर्ड्स मैदान पर महिला टेस्ट मैच खेला जाएगा। इस चार दिवसीय टेस्ट मैच के लिए रिकॉर्ड 33 हजार से अधिक लोगों ने पहले ही अपनी सीटें बुक करा ली हैं। भारत और इंग्लैंड की महिला क्रिकेट टीम इस बार 16वें टेस्ट मैच में एक-दूसरे का सामना करेंगी। इनमें से इंग्लैंड ने अब तक केवल एक, जबकि भारत ने तीन मैच जीते हैं। शेष 11 मैच ड्रॉ रहे हैं।",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T02:54:58+00:00",
-        "link": "https://newsonair.gov.in/hi/the-indian-womens-cricket-team-will-play-an-odi-match-against-england-at-lords-in-london-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/bcci.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "business": [
@@ -1799,14 +1800,15 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "खनन मंत्रालय ने 7वें चरण की सफल नीलामी के साथ दी खनिज मिशन को गति",
-        "summary": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई […]",
-        "article": "देश का खनिज मिशन ज़ोर पकड़ रहा है। खान मंत्रालय ने 56 ज़रूरी और रणनीतिक खनिज ब्लॉक और 11 उत्खनन लाइसेंस ब्लॉक की नीलामी की है। इसके साथ ही, अब 88 में से नीलाम हो चुके ब्लॉक की संख्या 56 हो गई है। पहली बार गुजरात, उत्तराखंड और तेलंगाना में खनिज ब्लॉक की नीलामी हुई है। इनमें ग्रेफाइट, रेयर अर्थ एलिमेंट, वैनेडियम, टाइटेनियम, ग्लूकोनाइट और रॉक फॉस्फेट जैसे खनिज शामिल हैं। अब नीलाम किए गए अन्वेषण लाइसेंस ब्लॉक की संख्या 11 हो गई है। अरुणाचल प्रदेश, उत्तर प्रदेश और ओडिशा में पहली बार अन्वेषण लाइसेंस ब्लॉक की नीलामी की गई। खान मंत्रालय के अनुसार, यह नीलामी भारत के खनिज क्षेत्र में उद्योग जगत के बढ़ते भरोसे को दिखाती है। इससे स्वच्छ उर्जा, इलेक्ट्रिक मोबिलिटी, नवीकरणीय उर्जा, इलेक्ट्रॉनिक्स, रक्षा और उन्नत विनिर्माण के लिए ज़रूरी खनिज की खोज और विकास में तेज़ी आएगी। इससे आयात पर निर्भरता कम होगी और घरेलू खनिज आपूर्ति श्रृंखला मज़बूत होगी।",
-        "date": "2026-06-24",
-        "pubDate": "2026-06-24T02:04:58+00:00",
-        "link": "https://newsonair.gov.in/hi/ministry-of-mines-gives-impetus-to-mineral-mission-with-successful-7th-round-of-auctions/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/Ministry-of-mines.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "ईपीएफओ ने छूट प्राप्त पीएफ ट्रस्ट संचालित प्रतिष्ठानों के लिए माफी योजना-2026 शुरू की",
+        "summary": "कर्मचारी भविष्य निधि संगठन- ईपीएफओ ने माफी योजना-2026 शुरू की है। इसके तहत आयकर अधिनियम, 1961 के अंतर्गत मान्यता प्राप्त छूट के साथ भविष्य निधि ट्रस्ट संचालित करने वाले प्रतिष्ठानों को अपनी स्थिति नियमित करने का एकमुश्त अवसर प्रदान किया गया है। श्रम और रोजगार मंत्रालय ने कहा है कि यह योजना छह महीने […]",
+        "article": "कर्मचारी भविष्य निधि संगठन- ईपीएफओ ने माफी योजना-2026 शुरू की है। इसके तहत आयकर अधिनियम, 1961 के अंतर्गत मान्यता प्राप्त छूट के साथ भविष्य निधि ट्रस्ट संचालित करने वाले प्रतिष्ठानों को अपनी स्थिति नियमित करने का एकमुश्त अवसर प्रदान किया गया है। श्रम और रोजगार मंत्रालय ने कहा है कि यह योजना छह महीने की अवधि तक लागू रहेगी। यह योजना उन प्रतिष्ठानों पर लागू होगी, जो आयकर अधिनियम, 1961 के अंतर्गत मान्यता प्राप्त भविष्य निधि ट्रस्ट का संचालन कर रहे हैं। मंत्रालय के अनुसार, पात्र प्रतिष्ठानों को संबंधित क्षेत्रीय कार्यालय को ई-मेल के माध्यम से औपचारिक आवेदन प्रस्तुत करना होगा। छूट प्राप्त भविष्य निधि एक नियोक्ता-प्रबंधित पीएफ योजना है जो अपने भविष्य निधि योगदान को सीधे ईपीएफओ में जमा करने के बजाय एक निजी ट्रस्ट के माध्यम से आंतरिक रूप से संचालित करती है।",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T06:18:45+00:00",
+        "link": "https://newsonair.gov.in/hi/epfo-amnesty-scheme/",
+        "post_id": 1733248,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
