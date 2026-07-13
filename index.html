@@ -793,6 +793,18 @@
     }
     .footer-grv a:hover { background: rgba(255,100,100,.1); }
 
+    /* ── Footer Social Icons ────────────────────────────── */
+    .footer-social { display: flex; gap: 10px; margin-top: 14px; }
+    .footer-social a {
+      width: 32px; height: 32px; border-radius: 50%;
+      border: 1px solid rgba(255,255,255,.5);
+      display: flex; align-items: center; justify-content: center;
+      color: #fff; transition: background .15s, border-color .15s;
+      flex-shrink: 0;
+    }
+    .footer-social a:hover { background: rgba(255,255,255,.15); border-color: #fff; }
+    .footer-social svg { width: 16px; height: 16px; flex-shrink: 0; }
+
     /* ── Breaking News Ticker ───────────────────────────── */
     .breaking-bar {
       background: #1a0000;
@@ -1071,6 +1083,27 @@
     }
     .ad-strip .ad-banner-label { align-self: flex-end; }
     .ad-strip .ad-banner-slot  { height: 130px; }
+
+    /* ── Side Ad Rail — sticky skyscraper strip, wide screens only ── */
+    .side-ad-rail {
+      position: fixed; top: 130px; right: 18px; z-index: 50;
+      display: flex; flex-direction: column; gap: 16px;
+    }
+    .side-ad-rail .ad-strip { width: 160px; margin: 0; }
+    .side-ad-rail .ad-banner-slot { width: 160px; height: 300px; }
+    .side-ad-rail .ad-ticker-inner {
+      position: static; transform: none; animation: none;
+      white-space: normal; text-align: center;
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      height: 100%; padding: 10px 8px; gap: 6px;
+    }
+    .side-ad-rail .ad-ph-hi { font-size: 15px; }
+    .side-ad-rail .ad-ph-en { font-size: 10px; }
+    .side-ad-rail .ad-contact-label { font-size: 9px; margin-top: 0; }
+    .side-ad-rail .ad-placeholder a { font-size: 11px; }
+    @media (max-width: 1500px) {
+      .side-ad-rail { display: none; }
+    }
 
     /* ── Opinion coming-soon state ──────────────────── */
     .op-coming-soon {
@@ -1532,6 +1565,20 @@
           <div class="footer-brand">
             <div class="footer-wm" data-hi="वंदे मातृभूमि" data-en="Vande Matrabhoomi">वंदे मातृभूमि</div>
             <div class="footer-tg">प्रेरणा।प्रशस्ति।सम्मान।</div>
+            <div class="footer-social">
+              <a href="https://www.instagram.com/vandematrabhoomi/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                  <rect x="3" y="3" width="18" height="18" rx="5"/>
+                  <circle cx="12" cy="12" r="4"/>
+                  <circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/>
+                </svg>
+              </a>
+              <a href="https://www.facebook.com/profile.php?id=61591456997937" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+                <svg viewBox="0 0 24 24" fill="currentColor" stroke="none">
+                  <path d="M13.5 21v-7.2h2.4l.4-2.8h-2.8V9.1c0-.8.2-1.4 1.4-1.4h1.5V5.2C15.9 5.1 15 5 14 5c-2.1 0-3.5 1.3-3.5 3.6v2.4H8.1v2.8h2.4V21h3z"/>
+                </svg>
+              </a>
+            </div>
           </div>
           <div class="footer-links">
             <div class="fcol">
@@ -1919,6 +1966,36 @@
   </svg>
   <span data-hi="शिकायत / विचार" data-en="Grievance / Ideas">शिकायत / विचार</span>
 </button>
+
+<!-- Side Ad Rail — two same-size ad slots, sticky on wide screens -->
+<div class="side-ad-rail">
+  <div class="ad-strip">
+    <span class="ad-banner-label">Advertisement</span>
+    <div class="ad-banner-slot">
+      <div class="ad-placeholder">
+        <div class="ad-ticker-inner">
+          <div class="ad-ph-hi" data-hi="विज्ञापन के लिए उपलब्ध" data-en="This Space is Available for Advertisement">विज्ञापन के लिए उपलब्ध</div>
+          <div class="ad-ph-en" data-hi="यहाँ अपना ब्रांड प्रमोट करें" data-en="Promote Your Brand Here">यहाँ अपना ब्रांड प्रमोट करें</div>
+          <div class="ad-contact-label" data-hi="विज्ञापन हेतु संपर्क करें" data-en="Contact for Advertisement">विज्ञापन हेतु संपर्क करें</div>
+          <a href="mailto:admin@vandematrabhoomi.in">admin@vandematrabhoomi.in</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="ad-strip">
+    <span class="ad-banner-label">Advertisement</span>
+    <div class="ad-banner-slot">
+      <div class="ad-placeholder">
+        <div class="ad-ticker-inner">
+          <div class="ad-ph-hi" data-hi="विज्ञापन के लिए उपलब्ध" data-en="This Space is Available for Advertisement">विज्ञापन के लिए उपलब्ध</div>
+          <div class="ad-ph-en" data-hi="यहाँ अपना ब्रांड प्रमोट करें" data-en="Promote Your Brand Here">यहाँ अपना ब्रांड प्रमोट करें</div>
+          <div class="ad-contact-label" data-hi="विज्ञापन हेतु संपर्क करें" data-en="Contact for Advertisement">विज्ञापन हेतु संपर्क करें</div>
+          <a href="mailto:admin@vandematrabhoomi.in">admin@vandematrabhoomi.in</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 <script>
 /* ═══════════════════════════════════════════════════
