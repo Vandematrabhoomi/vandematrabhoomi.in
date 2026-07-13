@@ -1,8 +1,19 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-13T11:46:40.048802",
+  "generated": "2026-07-13T12:22:14.244243",
   "en": {
     "top": [
+      {
+        "title": "EU Foreign Ministers Discuss Fresh Sanctions on Russia",
+        "summary": "European Union Foreign Ministers convened in Brussels today to deliberate on a fresh tranche of sanctions targeting Russia, the ongoing war in Ukraine, and an array of international security matters. Speaking to reporters ahead of the meeting, the bloc&#8217;s foreign policy chief, Kaja Kallas, said they hoped to secure agreement on 250 listings. […]",
+        "article": "European Union Foreign Ministers convened in Brussels today to deliberate on a fresh tranche of sanctions targeting Russia, the ongoing war in Ukraine, and an array of international security matters. Speaking to reporters ahead of the meeting, the bloc&#8217;s foreign policy chief, Kaja Kallas, said they hoped to secure agreement on 250 listings. She added that work was also underway on the 21st sanctions package. Ms Kallas stated that the proposed sanctions listings were a reaction to the attacks by Russia on the civilians recently. She noted that the ministers would also examine the plight of Ukrainian civilians reportedly held in Russian-controlled areas, including teachers and journalists, alongside prisoners of war and abducted children. Furthermore, Ms Kallas indicated that the Ministers will evaluate the EU&#8217;s Black Sea strategy, focusing on collaborative efforts between Bulgaria and Romania to safeguard critical infrastructure and counter hybrid threats across the region. She added that the Foreign Affairs Council is anticipated to greenlight a new partnership mission for Armenia aimed at assisting the nation in countering hybrid threats and foreign information manipulation and interference. The geopolitical landscape of the West Asia is also featured on the agenda, with ministers scheduled to engage in discussions with Gulf partners regarding regional security and the prevailing situation in the Strait of Hormuz. She asserted that the Strait of Hormuz must remain open, that freedom of navigation must be upheld, and that no tolls or fees should be imposed on vessels transiting the waterway.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T12:01:12+00:00",
+        "link": "https://newsonair.gov.in/eu-foreign-ministers-discuss-fresh-sanctions-on-russia/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/202604223759372.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "India, New Zealand Reaffirm Commitment to Stronger Parliamentary Cooperation",
         "summary": "A delegation led by Mark Patterson, New Zealand&#8217;s Minister for Rural Communities, today met Lok Sabha Speaker Om Birla at Parliament House in New Delhi. In a social media post, Mr Birla said that the meeting underscored the importance of strengthening parliamentary exchanges and further deepening the longstanding ties between India and New Zealand. Mr […]",
@@ -121,17 +132,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T07:40:54+00:00",
         "link": "https://newsonair.gov.in/india-bags-five-gold-medals-at-international-physics-olympiad-2026/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1-7.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "‘Jurassic Park’ star Sam Neill dies at 78",
-        "summary": "New Zealand actor Sam Neill, best known for his roles in Jurassic Park and The Piano, has died at the age of 78. His family said he passed away in Sydney following a sudden and unexpected medical event. Neill had revealed in 2023 that he had been diagnosed with angioimmunoblastic T-cell lymphoma, a rare form […]",
-        "article": "New Zealand actor Sam Neill, best known for his roles in Jurassic Park and The Piano, has died at the age of 78. His family said he passed away in Sydney following a sudden and unexpected medical event. Neill had revealed in 2023 that he had been diagnosed with angioimmunoblastic T-cell lymphoma, a rare form of non-Hodgkin lymphoma. His family said he was cancer-free at the time of his death but did not disclose the cause of the medical event. During a career spanning more than five decades, Neill earned international acclaim for his performances in critically acclaimed dramas as well as major Hollywood productions.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T07:28:57+00:00",
-        "link": "https://newsonair.gov.in/jurassic-park-star-sam-neill-dies-at-78/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-20.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -474,6 +474,17 @@ window.VM_NEWS = {
     ],
     "world": [
       {
+        "title": "EU Foreign Ministers Discuss Fresh Sanctions on Russia",
+        "summary": "European Union Foreign Ministers convened in Brussels today to deliberate on a fresh tranche of sanctions targeting Russia, the ongoing war in Ukraine, and an array of international security matters. Speaking to reporters ahead of the meeting, the bloc&#8217;s foreign policy chief, Kaja Kallas, said they hoped to secure agreement on 250 listings. […]",
+        "article": "European Union Foreign Ministers convened in Brussels today to deliberate on a fresh tranche of sanctions targeting Russia, the ongoing war in Ukraine, and an array of international security matters. Speaking to reporters ahead of the meeting, the bloc&#8217;s foreign policy chief, Kaja Kallas, said they hoped to secure agreement on 250 listings. She added that work was also underway on the 21st sanctions package. Ms Kallas stated that the proposed sanctions listings were a reaction to the attacks by Russia on the civilians recently. She noted that the ministers would also examine the plight of Ukrainian civilians reportedly held in Russian-controlled areas, including teachers and journalists, alongside prisoners of war and abducted children. Furthermore, Ms Kallas indicated that the Ministers will evaluate the EU&#8217;s Black Sea strategy, focusing on collaborative efforts between Bulgaria and Romania to safeguard critical infrastructure and counter hybrid threats across the region. She added that the Foreign Affairs Council is anticipated to greenlight a new partnership mission for Armenia aimed at assisting the nation in countering hybrid threats and foreign information manipulation and interference. The geopolitical landscape of the West Asia is also featured on the agenda, with ministers scheduled to engage in discussions with Gulf partners regarding regional security and the prevailing situation in the Strait of Hormuz. She asserted that the Strait of Hormuz must remain open, that freedom of navigation must be upheld, and that no tolls or fees should be imposed on vessels transiting the waterway.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T12:01:12+00:00",
+        "link": "https://newsonair.gov.in/eu-foreign-ministers-discuss-fresh-sanctions-on-russia/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/202604223759372.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "INS Sudarshini arrives in Boston after Sail4th 250 celebrations",
         "summary": "Indian Naval Sail Training Ship INS Sudarshini has arrived in Boston, United States, after successfully participating in the Sail4th 250 celebrations in New York. The ship reached Boston yesterday and took part in the Grand Parade of Sails, marking the commencement of Sail Boston 2026. The Defence Ministry said INS Sudarshini joined an international fleet […]",
         "article": "Indian Naval Sail Training Ship INS Sudarshini has arrived in Boston, United States, after successfully participating in the Sail4th 250 celebrations in New York. The ship reached Boston yesterday and took part in the Grand Parade of Sails, marking the commencement of Sail Boston 2026. The Defence Ministry said INS Sudarshini joined an international fleet of more than 60 tall ships from over 20 countries and is representing India as a maritime ambassador of goodwill during its ongoing Lokayan 2026 transoceanic expedition. The Ministry said the ship will remain open to visitors till the 15th of this month. It added that INS Sudarshini&#8217;s participation in Sail Boston 2026 further strengthens the growing India-US maritime partnership and showcases India&#8217;s rich seafaring heritage on the global stage.",
@@ -569,17 +580,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T03:08:56+00:00",
         "link": "https://newsonair.gov.in/us-launches-fresh-strikes-on-iran/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Thailand: 27 people killed in bar fire in Bangkok",
-        "summary": "At least 27 people have been killed in a fire that tore through a bar in Thailand&#8217;s capital, Bangkok. The deceased include nine men and 18 women. More than 60 people are being treated in the hospital. Firefighters were called to the scene just after midnight last night and discovered patrons fleeing through the flame-enveloped […]",
-        "article": "At least 27 people have been killed in a fire that tore through a bar in Thailand&#8217;s capital, Bangkok. The deceased include nine men and 18 women. More than 60 people are being treated in the hospital. Firefighters were called to the scene just after midnight last night and discovered patrons fleeing through the flame-enveloped front door of the venue. Prime Minister Anutin Charnvirakul told the media that 27 bodies have been recovered. Though the cause of the fire is still under investigation, electrical short circuit is suspected to be the reason. The bar is located in the Chatuchak district of Bangkok. It is a popular restaurant and entertainment venue in the area.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T01:27:58+00:00",
-        "link": "https://newsonair.gov.in/thailand-27-people-killed-in-bar-fire-in-bangkok/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/thailand.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -1025,6 +1025,28 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "नई दिल्ली: न्यूजीलैंड के ग्रामीण समुदाय मंत्री मार्क पैटरसन ने लोकसभा अध्यक्ष ओम बिरला से मुलाकात की",
+        "summary": "न्यूजीलैंड के ग्रामीण समुदाय मंत्री मार्क पैटरसन के नेतृत्व में एक प्रतिनिधिमंडल ने आज नई दिल्ली स्थित संसद भवन में लोकसभा अध्यक्ष ओम बिरला से मुलाकात की। सोशल मीडिया पोस्ट में श्री बिरला ने कहा कि मुलाकात में संसदीय आदान-प्रदान को मजबूत करने और भारत-न्यूजीलैंड के बीच लंबे समय से चले आ रहे संबंधों को […]",
+        "article": "न्यूजीलैंड के ग्रामीण समुदाय मंत्री मार्क पैटरसन के नेतृत्व में एक प्रतिनिधिमंडल ने आज नई दिल्ली स्थित संसद भवन में लोकसभा अध्यक्ष ओम बिरला से मुलाकात की। सोशल मीडिया पोस्ट में श्री बिरला ने कहा कि मुलाकात में संसदीय आदान-प्रदान को मजबूत करने और भारत-न्यूजीलैंड के बीच लंबे समय से चले आ रहे संबंधों को और गहरा करने के महत्व पर जोर दिया गया। उन्&#x200d;होंने कहा कि संसद भवन के दौरे के दौरान प्रतिनिधिमंडल को भारत की जीवंत संसदीय लोकतंत्र, समृद्ध लोकतांत्रिक परंपराओं और स्थापत्य कला की भव्यता से परिचित कराया गया।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T12:18:29+00:00",
+        "link": "https://newsonair.gov.in/hi/new-delhi-new-zealands-minister-for-rural-communities-mark-patterson-met-lok-sabha-speaker-om-birla/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/om.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उपराष्ट्रपति सी.पी. राधाकृष्णन को रक्षा राज्य मंत्री संजय सेठ ने एन.सी.सी और सैनिक स्कूलों के बारे में जानकारी दी",
+        "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन को आज उपराष्ट्रपति भवन में रक्षा राज्य मंत्री संजय सेठ ने राष्ट्रीय कैडेट कोर-एन.सी.सी और सैनिक स्कूलों के बारे में जानकारी दी। एन.सी.सी के राष्ट्र निर्माण में योगदान की सराहना करते हुए, उपराष्ट्रपति ने एक भारत श्रेष्ठ भारत के अंतर्गत कैडेट विनिमय कार्यक्रम को राष्ट्रीय एकता को मजबूत करने की एक उत्कृष्ट […]",
+        "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन को आज उपराष्ट्रपति भवन में रक्षा राज्य मंत्री संजय सेठ ने राष्ट्रीय कैडेट कोर- एन . सी . सी और सैनिक स्कूलों के बारे में जानकारी दी। एन.सी.सी के राष्ट्र निर्माण में योगदान की सराहना करते हुए, उपराष्ट्रपति ने एक भारत श्रेष्ठ भारत के अंतर्गत कैडेट विनिमय कार्यक्रम को राष्ट्रीय एकता को मजबूत करने की एक उत्कृष्ट पहल बताया। उन्होंने नशा मुक्त भारत अभियान और स्वच्छ भारत अभियान सहित एन.सी.सी की सामुदायिक सेवा पहलों की भी प्रशंसा की। उपराष्ट्रपति ने एन.सी.सी पूर्व छात्र संघ की स्थापना का भी स्वागत किया।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T11:59:46+00:00",
+        "link": "https://newsonair.gov.in/hi/minister-of-state-for-defence-sanjay-seth-briefed-vice-president-c-p-radhakrishnan-about-the-ncc-and-sainik-schools/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/VP-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं: सरकार",
         "summary": "सरकार ने कहा है कि वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं हैं। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने अपनी डिजिटल थ्रेट रिपोर्ट 2025-26 में कहा है कि साइबर सुरक्षा जोखिम अब लेन-देन में विश्‍वसनीयता, ग्राहक विश्वास, तृतीय-पक्ष निर्भरता, निर्णय लेने वाली प्रणालियों, परिचालन निरंतरता और […]",
         "article": "सरकार ने कहा है कि वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं हैं। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने अपनी डिजिटल थ्रेट रिपोर्ट 2025-26 में कहा है कि साइबर सुरक्षा जोखिम अब लेन-देन में विश्&#x200d;वसनीयता, ग्राहक विश्वास, तृतीय-पक्ष निर्भरता, निर्णय लेने वाली प्रणालियों, परिचालन निरंतरता और आर्थिक गतिविधियों को आधार प्रदान करने वाले डिजिटल बुनियादी ढांचे में विश्वास तक विस्तारित हो गए हैं। यह रिपोर्ट आज नई दिल्ली में इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सचिव एस. कृष्णन और भारतीय कंप्यूटर आपात कार्रवाई दल-सीईआरटीआईएन के महानिदेशक डॉ. संजय बहल द्वारा जारी की गई।",
@@ -1124,28 +1146,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "पंचायती राज मंत्रालय के सचिव ने जल प्रबंधन में देश को आत्मनिर्भर बनाने के लिए सामूहिक प्रयास की आवश्यकता पर बल दिया",
-        "summary": "पंचायती राज मंत्रालय के सचिव विवेक भारद्वाज ने आज जल प्रबंधन में देश को आत्मनिर्भर बनाने के लिए सामूहिक प्रयास की आवश्यकता पर बल दिया। वे नई दिल्ली में ग्राम पंचायतों द्वारा आयोजित जल प्रबंधन और जल सुरक्षा योजना पर राष्ट्रीय स्तर के ये मुख्‍य प्रशिक्षकों का प्रशिक्षण कार्यक्रम के उद्घाटन सत्र को संबोधित कर […]",
-        "article": "पंचायती राज मंत्रालय के सचिव विवेक भारद्वाज ने आज जल प्रबंधन में देश को आत्मनिर्भर बनाने के लिए सामूहिक प्रयास की आवश्यकता पर बल दिया। वे नई दिल्ली में ग्राम पंचायतों द्वारा आयोजित जल प्रबंधन और जल सुरक्षा योजना पर राष्ट्रीय स्तर के ये मुख्&#x200d;य प्रशिक्षकों का प्रशिक्षण कार्यक्रम के उद्घाटन सत्र को संबोधित कर रहे थे। श्री भारद्वाज ने कहा कि सार्थक परिवर्तन तभी संभव है जब सभी मिलकर एक साझा लक्ष्य की ओर काम करें। इस पहल को एक महत्वपूर्ण कदम बताते हुए उन्होंने कहा कि मंत्रालय लगभग डेढ़ वर्ष से इस पर कार्य कर रहा है। उन्होंने प्रतिभागियों से प्रशिक्षण कार्यक्रम में सक्रिय रूप से भाग लेने और अपने-अपने क्षेत्रों में जल संबंधी पहल करके इससे प्राप्त ज्ञान को लागू करने का आग्रह किया।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T07:23:01+00:00",
-        "link": "https://newsonair.gov.in/hi/the-secretary-of-the-ministry-of-water-management-emphasized-the-need-for-collective-efforts-to-make-the-country-self-reliant-in-water-management/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/12-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने राष्ट्रीय स्वास्थ्य अनुसंधान नीति के मसौदे पर सुझाव आमंत्रित किए",
-        "summary": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने राष्ट्रीय स्वास्थ्य अनुसंधान नीति के मसौदे पर सुझाव आमंत्रित किए हैं। इसका उद्देश्य भारत के स्वास्थ्य अनुसंधान तंत्र को सुदृढ़ और निर्देशित करने के लिए एक रणनीतिक ढांचा प्रदान करना है। यह नीति एक विश्वसनीय, समावेशी, आत्मनिर्भर और प्रभावोन्मुखी स्वास्थ्य अनुसंधान प्रणाली को बढ़ावा देना चाहती है जो जनता […]",
-        "article": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने राष्ट्रीय स्वास्थ्य अनुसंधान नीति के मसौदे पर सुझाव आमंत्रित किए हैं। इसका उद्देश्य भारत के स्वास्थ्य अनुसंधान तंत्र को सुदृढ़ और निर्देशित करने के लिए एक रणनीतिक ढांचा प्रदान करना है। यह नीति एक विश्वसनीय, समावेशी, आत्मनिर्भर और प्रभावोन्मुखी स्वास्थ्य अनुसंधान प्रणाली को बढ़ावा देना चाहती है जो जनता की स्वास्थ्य आवश्यकताओं के प्रति संवेदनशील और उत्&#x200d;तरदायी हो। इसका उद्देश्य उच्च गुणवत्ता वाले, नैतिक और इनोवेटिव अनुसंधान को बढ़ावा देना तथा स्वास्थ्य परिणामों और समानता में सुधार के लिए राष्ट्रीय और उभरती स्वास्थ्य प्राथमिकताओं को सुनिश्चित करना है। मसौदे में राष्ट्रीय स्वास्थ्य अनुसंधान एजेंडा के निर्माण का प्रस्ताव भी है। मंत्रालय ने कहा कि यह मसौदा नीति विभिन्न हितधारकों के साथ व्यापक विचार-विमर्श और उनसे प्राप्त सुझावों और अनुशंसाओं को शामिल करते हुए तैयार की गई है। मंत्रालय ने 27 जुलाई तक टिप्पणियां और सुझाव आमंत्रित किए हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T07:21:40+00:00",
-        "link": "https://newsonair.gov.in/hi/the-ministry-of-health-and-family-welfare-has-invited-suggestions-on-the-draft-national-health-research-policy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/The-Ministry-of-Health-and-Family-Welfare.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "ईरान के आईआरजीसी ने जॉर्डन, बहरीन और कुवैत में अमरीका के सैन्‍य ठिकानों पर हमलों की जिम्मेदारी ली",
         "summary": "ईरान की इस्‍लामिक रेवोलुशनरी गार्ड कोर-आईआरजीसी ने जार्डन, बहरीन और कुवैत में अमरीका के सैन्‍य ठिकानों पर मिसाइल और ड्रोन हमलों की जिम्‍मेदारी ली है। ईरान ने इसे हाल में उसके सैन्‍य ठिकानों पर अमरीका द्वारा किए गए हमलों का जबाब बताया है। ईरान की सरकारी समाचार एजेंसी के अनुसार इस कार्रवाई में जॉर्डन के […]",
         "article": "ईरान की इस्&#x200d;लामिक रेवोलुशनरी गार्ड कोर-आईआरजीसी ने जार्डन, बहरीन और कुवैत में अमरीका के सैन्&#x200d;य ठिकानों पर मिसाइल और ड्रोन हमलों की जिम्&#x200d;मेदारी ली है। ईरान ने इसे हाल में उसके सैन्&#x200d;य ठिकानों पर अमरीका द्वारा किए गए हमलों का जबाब बताया है। ईरान की सरकारी समाचार एजेंसी के अनुसार इस कार्रवाई में जॉर्डन के प्रिंस हसन हवाई अड्डे, बहरीन के शेख इसा हवाई अड्डे और कुवैत में अली-अल-सलेम और अहमद-अल-जाबेर हवाई अड्डों को निशाना बनाया गया। आईआरजीसी ने दावा किया है कि इससे ईंधन डिपो, गोला-बारूद भंडारण प्रतिष्&#x200d;ठानों, वायु रक्षा प्रणालियों और रॉडार ढांचे को नुकसान पहुंचा है। ईरान ने होर्मुज जलडमरूमध्&#x200d;य में आगे किसी भी तरह की सैन्&#x200d;य कार्रवाई करने पर अमरीका को चेतावनी दी है। ये दावे अमरीकी सेंट्रल कमान-सेंटकॉम के प्रमुख अभियान के बाद आया है, जिसमें ईरान में कई जगहों पर आक्रामक हमले किए गए। इन हमलों में कई सैन्&#x200d;य प्रतिष्&#x200d;ठानों को निशाना बनाया गया ताकि अंतर्राष्&#x200d;ट्रीय समुद्री व्&#x200d;यापार में बाधा डालने की ईरान की क्षमता को कमजोर किया जा सके। अमरीका ने कहा है कि ये हमले होर्मुज जलडमरूमध्&#x200d;य की सुरक्षा और आवाजाही में स्&#x200d;वतंत्रता सुनिश्चित करने के उद्देश्&#x200d;य से किए गए थे।",
@@ -1159,6 +1159,28 @@ window.VM_NEWS = {
     ],
     "breaking": [
       {
+        "title": "नई दिल्ली: न्यूजीलैंड के ग्रामीण समुदाय मंत्री मार्क पैटरसन ने लोकसभा अध्यक्ष ओम बिरला से मुलाकात की",
+        "summary": "न्यूजीलैंड के ग्रामीण समुदाय मंत्री मार्क पैटरसन के नेतृत्व में एक प्रतिनिधिमंडल ने आज नई दिल्ली स्थित संसद भवन में लोकसभा अध्यक्ष ओम बिरला से मुलाकात की। सोशल मीडिया पोस्ट में श्री बिरला ने कहा कि मुलाकात में संसदीय आदान-प्रदान को मजबूत करने और भारत-न्यूजीलैंड के बीच लंबे समय से चले आ रहे संबंधों को […]",
+        "article": "न्यूजीलैंड के ग्रामीण समुदाय मंत्री मार्क पैटरसन के नेतृत्व में एक प्रतिनिधिमंडल ने आज नई दिल्ली स्थित संसद भवन में लोकसभा अध्यक्ष ओम बिरला से मुलाकात की। सोशल मीडिया पोस्ट में श्री बिरला ने कहा कि मुलाकात में संसदीय आदान-प्रदान को मजबूत करने और भारत-न्यूजीलैंड के बीच लंबे समय से चले आ रहे संबंधों को और गहरा करने के महत्व पर जोर दिया गया। उन्&#x200d;होंने कहा कि संसद भवन के दौरे के दौरान प्रतिनिधिमंडल को भारत की जीवंत संसदीय लोकतंत्र, समृद्ध लोकतांत्रिक परंपराओं और स्थापत्य कला की भव्यता से परिचित कराया गया।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T12:18:29+00:00",
+        "link": "https://newsonair.gov.in/hi/new-delhi-new-zealands-minister-for-rural-communities-mark-patterson-met-lok-sabha-speaker-om-birla/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/om.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उपराष्ट्रपति सी.पी. राधाकृष्णन को रक्षा राज्य मंत्री संजय सेठ ने एन.सी.सी और सैनिक स्कूलों के बारे में जानकारी दी",
+        "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन को आज उपराष्ट्रपति भवन में रक्षा राज्य मंत्री संजय सेठ ने राष्ट्रीय कैडेट कोर-एन.सी.सी और सैनिक स्कूलों के बारे में जानकारी दी। एन.सी.सी के राष्ट्र निर्माण में योगदान की सराहना करते हुए, उपराष्ट्रपति ने एक भारत श्रेष्ठ भारत के अंतर्गत कैडेट विनिमय कार्यक्रम को राष्ट्रीय एकता को मजबूत करने की एक उत्कृष्ट […]",
+        "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन को आज उपराष्ट्रपति भवन में रक्षा राज्य मंत्री संजय सेठ ने राष्ट्रीय कैडेट कोर- एन . सी . सी और सैनिक स्कूलों के बारे में जानकारी दी। एन.सी.सी के राष्ट्र निर्माण में योगदान की सराहना करते हुए, उपराष्ट्रपति ने एक भारत श्रेष्ठ भारत के अंतर्गत कैडेट विनिमय कार्यक्रम को राष्ट्रीय एकता को मजबूत करने की एक उत्कृष्ट पहल बताया। उन्होंने नशा मुक्त भारत अभियान और स्वच्छ भारत अभियान सहित एन.सी.सी की सामुदायिक सेवा पहलों की भी प्रशंसा की। उपराष्ट्रपति ने एन.सी.सी पूर्व छात्र संघ की स्थापना का भी स्वागत किया।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T11:59:46+00:00",
+        "link": "https://newsonair.gov.in/hi/minister-of-state-for-defence-sanjay-seth-briefed-vice-president-c-p-radhakrishnan-about-the-ncc-and-sainik-schools/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/VP-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं: सरकार",
         "summary": "सरकार ने कहा है कि वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं हैं। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने अपनी डिजिटल थ्रेट रिपोर्ट 2025-26 में कहा है कि साइबर सुरक्षा जोखिम अब लेन-देन में विश्‍वसनीयता, ग्राहक विश्वास, तृतीय-पक्ष निर्भरता, निर्णय लेने वाली प्रणालियों, परिचालन निरंतरता और […]",
         "article": "सरकार ने कहा है कि वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं हैं। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने अपनी डिजिटल थ्रेट रिपोर्ट 2025-26 में कहा है कि साइबर सुरक्षा जोखिम अब लेन-देन में विश्&#x200d;वसनीयता, ग्राहक विश्वास, तृतीय-पक्ष निर्भरता, निर्णय लेने वाली प्रणालियों, परिचालन निरंतरता और आर्थिक गतिविधियों को आधार प्रदान करने वाले डिजिटल बुनियादी ढांचे में विश्वास तक विस्तारित हो गए हैं। यह रिपोर्ट आज नई दिल्ली में इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सचिव एस. कृष्णन और भारतीय कंप्यूटर आपात कार्रवाई दल-सीईआरटीआईएन के महानिदेशक डॉ. संजय बहल द्वारा जारी की गई।",
@@ -1243,34 +1265,34 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T07:25:13+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%8f%e0%a4%95-%e0%a4%ae%e0%a4%b9%e0%a5%80%e0%a4%a8%e0%a5%87-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%9a%e0%a4%be%e0%a4%b0-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a5%80-%e0%a4%a8/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/13-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पंचायती राज मंत्रालय के सचिव ने जल प्रबंधन में देश को आत्मनिर्भर बनाने के लिए सामूहिक प्रयास की आवश्यकता पर बल दिया",
-        "summary": "पंचायती राज मंत्रालय के सचिव विवेक भारद्वाज ने आज जल प्रबंधन में देश को आत्मनिर्भर बनाने के लिए सामूहिक प्रयास की आवश्यकता पर बल दिया। वे नई दिल्ली में ग्राम पंचायतों द्वारा आयोजित जल प्रबंधन और जल सुरक्षा योजना पर राष्ट्रीय स्तर के ये मुख्‍य प्रशिक्षकों का प्रशिक्षण कार्यक्रम के उद्घाटन सत्र को संबोधित कर […]",
-        "article": "पंचायती राज मंत्रालय के सचिव विवेक भारद्वाज ने आज जल प्रबंधन में देश को आत्मनिर्भर बनाने के लिए सामूहिक प्रयास की आवश्यकता पर बल दिया। वे नई दिल्ली में ग्राम पंचायतों द्वारा आयोजित जल प्रबंधन और जल सुरक्षा योजना पर राष्ट्रीय स्तर के ये मुख्&#x200d;य प्रशिक्षकों का प्रशिक्षण कार्यक्रम के उद्घाटन सत्र को संबोधित कर रहे थे। श्री भारद्वाज ने कहा कि सार्थक परिवर्तन तभी संभव है जब सभी मिलकर एक साझा लक्ष्य की ओर काम करें। इस पहल को एक महत्वपूर्ण कदम बताते हुए उन्होंने कहा कि मंत्रालय लगभग डेढ़ वर्ष से इस पर कार्य कर रहा है। उन्होंने प्रतिभागियों से प्रशिक्षण कार्यक्रम में सक्रिय रूप से भाग लेने और अपने-अपने क्षेत्रों में जल संबंधी पहल करके इससे प्राप्त ज्ञान को लागू करने का आग्रह किया।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T07:23:01+00:00",
-        "link": "https://newsonair.gov.in/hi/the-secretary-of-the-ministry-of-water-management-emphasized-the-need-for-collective-efforts-to-make-the-country-self-reliant-in-water-management/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/12-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने राष्ट्रीय स्वास्थ्य अनुसंधान नीति के मसौदे पर सुझाव आमंत्रित किए",
-        "summary": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने राष्ट्रीय स्वास्थ्य अनुसंधान नीति के मसौदे पर सुझाव आमंत्रित किए हैं। इसका उद्देश्य भारत के स्वास्थ्य अनुसंधान तंत्र को सुदृढ़ और निर्देशित करने के लिए एक रणनीतिक ढांचा प्रदान करना है। यह नीति एक विश्वसनीय, समावेशी, आत्मनिर्भर और प्रभावोन्मुखी स्वास्थ्य अनुसंधान प्रणाली को बढ़ावा देना चाहती है जो जनता […]",
-        "article": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने राष्ट्रीय स्वास्थ्य अनुसंधान नीति के मसौदे पर सुझाव आमंत्रित किए हैं। इसका उद्देश्य भारत के स्वास्थ्य अनुसंधान तंत्र को सुदृढ़ और निर्देशित करने के लिए एक रणनीतिक ढांचा प्रदान करना है। यह नीति एक विश्वसनीय, समावेशी, आत्मनिर्भर और प्रभावोन्मुखी स्वास्थ्य अनुसंधान प्रणाली को बढ़ावा देना चाहती है जो जनता की स्वास्थ्य आवश्यकताओं के प्रति संवेदनशील और उत्&#x200d;तरदायी हो। इसका उद्देश्य उच्च गुणवत्ता वाले, नैतिक और इनोवेटिव अनुसंधान को बढ़ावा देना तथा स्वास्थ्य परिणामों और समानता में सुधार के लिए राष्ट्रीय और उभरती स्वास्थ्य प्राथमिकताओं को सुनिश्चित करना है। मसौदे में राष्ट्रीय स्वास्थ्य अनुसंधान एजेंडा के निर्माण का प्रस्ताव भी है। मंत्रालय ने कहा कि यह मसौदा नीति विभिन्न हितधारकों के साथ व्यापक विचार-विमर्श और उनसे प्राप्त सुझावों और अनुशंसाओं को शामिल करते हुए तैयार की गई है। मंत्रालय ने 27 जुलाई तक टिप्पणियां और सुझाव आमंत्रित किए हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T07:21:40+00:00",
-        "link": "https://newsonair.gov.in/hi/the-ministry-of-health-and-family-welfare-has-invited-suggestions-on-the-draft-national-health-research-policy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/The-Ministry-of-Health-and-Family-Welfare.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "नई दिल्ली: न्यूजीलैंड के ग्रामीण समुदाय मंत्री मार्क पैटरसन ने लोकसभा अध्यक्ष ओम बिरला से मुलाकात की",
+        "summary": "न्यूजीलैंड के ग्रामीण समुदाय मंत्री मार्क पैटरसन के नेतृत्व में एक प्रतिनिधिमंडल ने आज नई दिल्ली स्थित संसद भवन में लोकसभा अध्यक्ष ओम बिरला से मुलाकात की। सोशल मीडिया पोस्ट में श्री बिरला ने कहा कि मुलाकात में संसदीय आदान-प्रदान को मजबूत करने और भारत-न्यूजीलैंड के बीच लंबे समय से चले आ रहे संबंधों को […]",
+        "article": "न्यूजीलैंड के ग्रामीण समुदाय मंत्री मार्क पैटरसन के नेतृत्व में एक प्रतिनिधिमंडल ने आज नई दिल्ली स्थित संसद भवन में लोकसभा अध्यक्ष ओम बिरला से मुलाकात की। सोशल मीडिया पोस्ट में श्री बिरला ने कहा कि मुलाकात में संसदीय आदान-प्रदान को मजबूत करने और भारत-न्यूजीलैंड के बीच लंबे समय से चले आ रहे संबंधों को और गहरा करने के महत्व पर जोर दिया गया। उन्&#x200d;होंने कहा कि संसद भवन के दौरे के दौरान प्रतिनिधिमंडल को भारत की जीवंत संसदीय लोकतंत्र, समृद्ध लोकतांत्रिक परंपराओं और स्थापत्य कला की भव्यता से परिचित कराया गया।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T12:18:29+00:00",
+        "link": "https://newsonair.gov.in/hi/new-delhi-new-zealands-minister-for-rural-communities-mark-patterson-met-lok-sabha-speaker-om-birla/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/om.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उपराष्ट्रपति सी.पी. राधाकृष्णन को रक्षा राज्य मंत्री संजय सेठ ने एन.सी.सी और सैनिक स्कूलों के बारे में जानकारी दी",
+        "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन को आज उपराष्ट्रपति भवन में रक्षा राज्य मंत्री संजय सेठ ने राष्ट्रीय कैडेट कोर-एन.सी.सी और सैनिक स्कूलों के बारे में जानकारी दी। एन.सी.सी के राष्ट्र निर्माण में योगदान की सराहना करते हुए, उपराष्ट्रपति ने एक भारत श्रेष्ठ भारत के अंतर्गत कैडेट विनिमय कार्यक्रम को राष्ट्रीय एकता को मजबूत करने की एक उत्कृष्ट […]",
+        "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन को आज उपराष्ट्रपति भवन में रक्षा राज्य मंत्री संजय सेठ ने राष्ट्रीय कैडेट कोर- एन . सी . सी और सैनिक स्कूलों के बारे में जानकारी दी। एन.सी.सी के राष्ट्र निर्माण में योगदान की सराहना करते हुए, उपराष्ट्रपति ने एक भारत श्रेष्ठ भारत के अंतर्गत कैडेट विनिमय कार्यक्रम को राष्ट्रीय एकता को मजबूत करने की एक उत्कृष्ट पहल बताया। उन्होंने नशा मुक्त भारत अभियान और स्वच्छ भारत अभियान सहित एन.सी.सी की सामुदायिक सेवा पहलों की भी प्रशंसा की। उपराष्ट्रपति ने एन.सी.सी पूर्व छात्र संघ की स्थापना का भी स्वागत किया।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T11:59:46+00:00",
+        "link": "https://newsonair.gov.in/hi/minister-of-state-for-defence-sanjay-seth-briefed-vice-president-c-p-radhakrishnan-about-the-ncc-and-sainik-schools/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/VP-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं: सरकार",
         "summary": "सरकार ने कहा है कि वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं हैं। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने अपनी डिजिटल थ्रेट रिपोर्ट 2025-26 में कहा है कि साइबर सुरक्षा जोखिम अब लेन-देन में विश्‍वसनीयता, ग्राहक विश्वास, तृतीय-पक्ष निर्भरता, निर्णय लेने वाली प्रणालियों, परिचालन निरंतरता और […]",
         "article": "सरकार ने कहा है कि वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं हैं। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने अपनी डिजिटल थ्रेट रिपोर्ट 2025-26 में कहा है कि साइबर सुरक्षा जोखिम अब लेन-देन में विश्&#x200d;वसनीयता, ग्राहक विश्वास, तृतीय-पक्ष निर्भरता, निर्णय लेने वाली प्रणालियों, परिचालन निरंतरता और आर्थिक गतिविधियों को आधार प्रदान करने वाले डिजिटल बुनियादी ढांचे में विश्वास तक विस्तारित हो गए हैं। यह रिपोर्ट आज नई दिल्ली में इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सचिव एस. कृष्णन और भारतीय कंप्यूटर आपात कार्रवाई दल-सीईआरटीआईएन के महानिदेशक डॉ. संजय बहल द्वारा जारी की गई।",
@@ -1355,34 +1377,34 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T07:25:13+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%8f%e0%a4%95-%e0%a4%ae%e0%a4%b9%e0%a5%80%e0%a4%a8%e0%a5%87-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%9a%e0%a4%be%e0%a4%b0-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a5%80-%e0%a4%a8/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/13-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पंचायती राज मंत्रालय के सचिव ने जल प्रबंधन में देश को आत्मनिर्भर बनाने के लिए सामूहिक प्रयास की आवश्यकता पर बल दिया",
-        "summary": "पंचायती राज मंत्रालय के सचिव विवेक भारद्वाज ने आज जल प्रबंधन में देश को आत्मनिर्भर बनाने के लिए सामूहिक प्रयास की आवश्यकता पर बल दिया। वे नई दिल्ली में ग्राम पंचायतों द्वारा आयोजित जल प्रबंधन और जल सुरक्षा योजना पर राष्ट्रीय स्तर के ये मुख्‍य प्रशिक्षकों का प्रशिक्षण कार्यक्रम के उद्घाटन सत्र को संबोधित कर […]",
-        "article": "पंचायती राज मंत्रालय के सचिव विवेक भारद्वाज ने आज जल प्रबंधन में देश को आत्मनिर्भर बनाने के लिए सामूहिक प्रयास की आवश्यकता पर बल दिया। वे नई दिल्ली में ग्राम पंचायतों द्वारा आयोजित जल प्रबंधन और जल सुरक्षा योजना पर राष्ट्रीय स्तर के ये मुख्&#x200d;य प्रशिक्षकों का प्रशिक्षण कार्यक्रम के उद्घाटन सत्र को संबोधित कर रहे थे। श्री भारद्वाज ने कहा कि सार्थक परिवर्तन तभी संभव है जब सभी मिलकर एक साझा लक्ष्य की ओर काम करें। इस पहल को एक महत्वपूर्ण कदम बताते हुए उन्होंने कहा कि मंत्रालय लगभग डेढ़ वर्ष से इस पर कार्य कर रहा है। उन्होंने प्रतिभागियों से प्रशिक्षण कार्यक्रम में सक्रिय रूप से भाग लेने और अपने-अपने क्षेत्रों में जल संबंधी पहल करके इससे प्राप्त ज्ञान को लागू करने का आग्रह किया।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T07:23:01+00:00",
-        "link": "https://newsonair.gov.in/hi/the-secretary-of-the-ministry-of-water-management-emphasized-the-need-for-collective-efforts-to-make-the-country-self-reliant-in-water-management/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/12-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने राष्ट्रीय स्वास्थ्य अनुसंधान नीति के मसौदे पर सुझाव आमंत्रित किए",
-        "summary": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने राष्ट्रीय स्वास्थ्य अनुसंधान नीति के मसौदे पर सुझाव आमंत्रित किए हैं। इसका उद्देश्य भारत के स्वास्थ्य अनुसंधान तंत्र को सुदृढ़ और निर्देशित करने के लिए एक रणनीतिक ढांचा प्रदान करना है। यह नीति एक विश्वसनीय, समावेशी, आत्मनिर्भर और प्रभावोन्मुखी स्वास्थ्य अनुसंधान प्रणाली को बढ़ावा देना चाहती है जो जनता […]",
-        "article": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने राष्ट्रीय स्वास्थ्य अनुसंधान नीति के मसौदे पर सुझाव आमंत्रित किए हैं। इसका उद्देश्य भारत के स्वास्थ्य अनुसंधान तंत्र को सुदृढ़ और निर्देशित करने के लिए एक रणनीतिक ढांचा प्रदान करना है। यह नीति एक विश्वसनीय, समावेशी, आत्मनिर्भर और प्रभावोन्मुखी स्वास्थ्य अनुसंधान प्रणाली को बढ़ावा देना चाहती है जो जनता की स्वास्थ्य आवश्यकताओं के प्रति संवेदनशील और उत्&#x200d;तरदायी हो। इसका उद्देश्य उच्च गुणवत्ता वाले, नैतिक और इनोवेटिव अनुसंधान को बढ़ावा देना तथा स्वास्थ्य परिणामों और समानता में सुधार के लिए राष्ट्रीय और उभरती स्वास्थ्य प्राथमिकताओं को सुनिश्चित करना है। मसौदे में राष्ट्रीय स्वास्थ्य अनुसंधान एजेंडा के निर्माण का प्रस्ताव भी है। मंत्रालय ने कहा कि यह मसौदा नीति विभिन्न हितधारकों के साथ व्यापक विचार-विमर्श और उनसे प्राप्त सुझावों और अनुशंसाओं को शामिल करते हुए तैयार की गई है। मंत्रालय ने 27 जुलाई तक टिप्पणियां और सुझाव आमंत्रित किए हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T07:21:40+00:00",
-        "link": "https://newsonair.gov.in/hi/the-ministry-of-health-and-family-welfare-has-invited-suggestions-on-the-draft-national-health-research-policy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/The-Ministry-of-Health-and-Family-Welfare.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "नई दिल्ली: न्यूजीलैंड के ग्रामीण समुदाय मंत्री मार्क पैटरसन ने लोकसभा अध्यक्ष ओम बिरला से मुलाकात की",
+        "summary": "न्यूजीलैंड के ग्रामीण समुदाय मंत्री मार्क पैटरसन के नेतृत्व में एक प्रतिनिधिमंडल ने आज नई दिल्ली स्थित संसद भवन में लोकसभा अध्यक्ष ओम बिरला से मुलाकात की। सोशल मीडिया पोस्ट में श्री बिरला ने कहा कि मुलाकात में संसदीय आदान-प्रदान को मजबूत करने और भारत-न्यूजीलैंड के बीच लंबे समय से चले आ रहे संबंधों को […]",
+        "article": "न्यूजीलैंड के ग्रामीण समुदाय मंत्री मार्क पैटरसन के नेतृत्व में एक प्रतिनिधिमंडल ने आज नई दिल्ली स्थित संसद भवन में लोकसभा अध्यक्ष ओम बिरला से मुलाकात की। सोशल मीडिया पोस्ट में श्री बिरला ने कहा कि मुलाकात में संसदीय आदान-प्रदान को मजबूत करने और भारत-न्यूजीलैंड के बीच लंबे समय से चले आ रहे संबंधों को और गहरा करने के महत्व पर जोर दिया गया। उन्&#x200d;होंने कहा कि संसद भवन के दौरे के दौरान प्रतिनिधिमंडल को भारत की जीवंत संसदीय लोकतंत्र, समृद्ध लोकतांत्रिक परंपराओं और स्थापत्य कला की भव्यता से परिचित कराया गया।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T12:18:29+00:00",
+        "link": "https://newsonair.gov.in/hi/new-delhi-new-zealands-minister-for-rural-communities-mark-patterson-met-lok-sabha-speaker-om-birla/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/om.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उपराष्ट्रपति सी.पी. राधाकृष्णन को रक्षा राज्य मंत्री संजय सेठ ने एन.सी.सी और सैनिक स्कूलों के बारे में जानकारी दी",
+        "summary": "उपराष्ट्रपति सी.पी. राधाकृष्णन को आज उपराष्ट्रपति भवन में रक्षा राज्य मंत्री संजय सेठ ने राष्ट्रीय कैडेट कोर-एन.सी.सी और सैनिक स्कूलों के बारे में जानकारी दी। एन.सी.सी के राष्ट्र निर्माण में योगदान की सराहना करते हुए, उपराष्ट्रपति ने एक भारत श्रेष्ठ भारत के अंतर्गत कैडेट विनिमय कार्यक्रम को राष्ट्रीय एकता को मजबूत करने की एक उत्कृष्ट […]",
+        "article": "उपराष्ट्रपति सी.पी. राधाकृष्णन को आज उपराष्ट्रपति भवन में रक्षा राज्य मंत्री संजय सेठ ने राष्ट्रीय कैडेट कोर- एन . सी . सी और सैनिक स्कूलों के बारे में जानकारी दी। एन.सी.सी के राष्ट्र निर्माण में योगदान की सराहना करते हुए, उपराष्ट्रपति ने एक भारत श्रेष्ठ भारत के अंतर्गत कैडेट विनिमय कार्यक्रम को राष्ट्रीय एकता को मजबूत करने की एक उत्कृष्ट पहल बताया। उन्होंने नशा मुक्त भारत अभियान और स्वच्छ भारत अभियान सहित एन.सी.सी की सामुदायिक सेवा पहलों की भी प्रशंसा की। उपराष्ट्रपति ने एन.सी.सी पूर्व छात्र संघ की स्थापना का भी स्वागत किया।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T11:59:46+00:00",
+        "link": "https://newsonair.gov.in/hi/minister-of-state-for-defence-sanjay-seth-briefed-vice-president-c-p-radhakrishnan-about-the-ncc-and-sainik-schools/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/VP-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं: सरकार",
         "summary": "सरकार ने कहा है कि वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं हैं। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने अपनी डिजिटल थ्रेट रिपोर्ट 2025-26 में कहा है कि साइबर सुरक्षा जोखिम अब लेन-देन में विश्‍वसनीयता, ग्राहक विश्वास, तृतीय-पक्ष निर्भरता, निर्णय लेने वाली प्रणालियों, परिचालन निरंतरता और […]",
         "article": "सरकार ने कहा है कि वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं हैं। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने अपनी डिजिटल थ्रेट रिपोर्ट 2025-26 में कहा है कि साइबर सुरक्षा जोखिम अब लेन-देन में विश्&#x200d;वसनीयता, ग्राहक विश्वास, तृतीय-पक्ष निर्भरता, निर्णय लेने वाली प्रणालियों, परिचालन निरंतरता और आर्थिक गतिविधियों को आधार प्रदान करने वाले डिजिटल बुनियादी ढांचे में विश्वास तक विस्तारित हो गए हैं। यह रिपोर्ट आज नई दिल्ली में इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सचिव एस. कृष्णन और भारतीय कंप्यूटर आपात कार्रवाई दल-सीईआरटीआईएन के महानिदेशक डॉ. संजय बहल द्वारा जारी की गई।",
@@ -1467,28 +1489,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T07:25:13+00:00",
         "link": "https://newsonair.gov.in/hi/%e0%a4%8f%e0%a4%95-%e0%a4%ae%e0%a4%b9%e0%a5%80%e0%a4%a8%e0%a5%87-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%9a%e0%a4%be%e0%a4%b0-%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a5%80-%e0%a4%a8/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/13-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पंचायती राज मंत्रालय के सचिव ने जल प्रबंधन में देश को आत्मनिर्भर बनाने के लिए सामूहिक प्रयास की आवश्यकता पर बल दिया",
-        "summary": "पंचायती राज मंत्रालय के सचिव विवेक भारद्वाज ने आज जल प्रबंधन में देश को आत्मनिर्भर बनाने के लिए सामूहिक प्रयास की आवश्यकता पर बल दिया। वे नई दिल्ली में ग्राम पंचायतों द्वारा आयोजित जल प्रबंधन और जल सुरक्षा योजना पर राष्ट्रीय स्तर के ये मुख्‍य प्रशिक्षकों का प्रशिक्षण कार्यक्रम के उद्घाटन सत्र को संबोधित कर […]",
-        "article": "पंचायती राज मंत्रालय के सचिव विवेक भारद्वाज ने आज जल प्रबंधन में देश को आत्मनिर्भर बनाने के लिए सामूहिक प्रयास की आवश्यकता पर बल दिया। वे नई दिल्ली में ग्राम पंचायतों द्वारा आयोजित जल प्रबंधन और जल सुरक्षा योजना पर राष्ट्रीय स्तर के ये मुख्&#x200d;य प्रशिक्षकों का प्रशिक्षण कार्यक्रम के उद्घाटन सत्र को संबोधित कर रहे थे। श्री भारद्वाज ने कहा कि सार्थक परिवर्तन तभी संभव है जब सभी मिलकर एक साझा लक्ष्य की ओर काम करें। इस पहल को एक महत्वपूर्ण कदम बताते हुए उन्होंने कहा कि मंत्रालय लगभग डेढ़ वर्ष से इस पर कार्य कर रहा है। उन्होंने प्रतिभागियों से प्रशिक्षण कार्यक्रम में सक्रिय रूप से भाग लेने और अपने-अपने क्षेत्रों में जल संबंधी पहल करके इससे प्राप्त ज्ञान को लागू करने का आग्रह किया।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T07:23:01+00:00",
-        "link": "https://newsonair.gov.in/hi/the-secretary-of-the-ministry-of-water-management-emphasized-the-need-for-collective-efforts-to-make-the-country-self-reliant-in-water-management/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/12-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने राष्ट्रीय स्वास्थ्य अनुसंधान नीति के मसौदे पर सुझाव आमंत्रित किए",
-        "summary": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने राष्ट्रीय स्वास्थ्य अनुसंधान नीति के मसौदे पर सुझाव आमंत्रित किए हैं। इसका उद्देश्य भारत के स्वास्थ्य अनुसंधान तंत्र को सुदृढ़ और निर्देशित करने के लिए एक रणनीतिक ढांचा प्रदान करना है। यह नीति एक विश्वसनीय, समावेशी, आत्मनिर्भर और प्रभावोन्मुखी स्वास्थ्य अनुसंधान प्रणाली को बढ़ावा देना चाहती है जो जनता […]",
-        "article": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने राष्ट्रीय स्वास्थ्य अनुसंधान नीति के मसौदे पर सुझाव आमंत्रित किए हैं। इसका उद्देश्य भारत के स्वास्थ्य अनुसंधान तंत्र को सुदृढ़ और निर्देशित करने के लिए एक रणनीतिक ढांचा प्रदान करना है। यह नीति एक विश्वसनीय, समावेशी, आत्मनिर्भर और प्रभावोन्मुखी स्वास्थ्य अनुसंधान प्रणाली को बढ़ावा देना चाहती है जो जनता की स्वास्थ्य आवश्यकताओं के प्रति संवेदनशील और उत्&#x200d;तरदायी हो। इसका उद्देश्य उच्च गुणवत्ता वाले, नैतिक और इनोवेटिव अनुसंधान को बढ़ावा देना तथा स्वास्थ्य परिणामों और समानता में सुधार के लिए राष्ट्रीय और उभरती स्वास्थ्य प्राथमिकताओं को सुनिश्चित करना है। मसौदे में राष्ट्रीय स्वास्थ्य अनुसंधान एजेंडा के निर्माण का प्रस्ताव भी है। मंत्रालय ने कहा कि यह मसौदा नीति विभिन्न हितधारकों के साथ व्यापक विचार-विमर्श और उनसे प्राप्त सुझावों और अनुशंसाओं को शामिल करते हुए तैयार की गई है। मंत्रालय ने 27 जुलाई तक टिप्पणियां और सुझाव आमंत्रित किए हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T07:21:40+00:00",
-        "link": "https://newsonair.gov.in/hi/the-ministry-of-health-and-family-welfare-has-invited-suggestions-on-the-draft-national-health-research-policy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/The-Ministry-of-Health-and-Family-Welfare.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
