@@ -1,8 +1,74 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-13T08:39:19.679476",
+  "generated": "2026-07-13T11:46:40.048802",
   "en": {
     "top": [
+      {
+        "title": "India, New Zealand Reaffirm Commitment to Stronger Parliamentary Cooperation",
+        "summary": "A delegation led by Mark Patterson, New Zealand&#8217;s Minister for Rural Communities, today met Lok Sabha Speaker Om Birla at Parliament House in New Delhi. In a social media post, Mr Birla said that the meeting underscored the importance of strengthening parliamentary exchanges and further deepening the longstanding ties between India and New Zealand. Mr […]",
+        "article": "A delegation led by Mark Patterson, New Zealand&#8217;s Minister for Rural Communities, today met Lok Sabha Speaker Om Birla at Parliament House in New Delhi. In a social media post, Mr Birla said that the meeting underscored the importance of strengthening parliamentary exchanges and further deepening the longstanding ties between India and New Zealand. Mr Birla added that during the visit to Parliament House, the delegation was introduced to India&#8217;s vibrant parliamentary democracy, rich democratic traditions and architectural grandeur.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T10:50:39+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-reaffirm-commitment-to-stronger-parliamentary-cooperation/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/om.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, Poland discuss cooperation in trade, defence, technology",
+        "summary": "Secretary (West) in the External Affairs Ministry, Sibi George, today met with Polish Secretary of State, Ministry of Foreign Affairs, Wladyslaw Bartoszewski, and Under Secretary of State, Ministry of Economic Development and Technology, Michal Baranowski, in Delhi. &#160; The wide-ranging discussions reflected the depth of the India-Poland Strategic Partnership. Both sides reaffirmed their shared",
+        "article": "Secretary (West) in the External Affairs Ministry, Sibi George, today met with Polish Secretary of State, Ministry of Foreign Affairs, Wladyslaw Bartoszewski, and Under Secretary of State, Ministry of Economic Development and Technology, Michal Baranowski, in Delhi. &nbsp; The wide-ranging discussions reflected the depth of the India-Poland Strategic Partnership. Both sides reaffirmed their shared commitment to strengthening cooperation across political engagements, trade and investment, technology, defence, culture, the fight against global terrorism and other areas of mutual interest.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T10:18:29+00:00",
+        "link": "https://newsonair.gov.in/india-poland-discuss-cooperation-in-trade-defence-technology/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/sibi.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "VP Radhakrishnan briefed on NCC & Sainik Schools; Lauds NCC’s community service initiatives",
+        "summary": "Vice President CP Radhakrishnan was briefed on the National Cadet Corps and Sainik Schools by Minister of State for Defence Sanjay Seth at Uprashtrapati Bhavan today. Appreciating the NCC&#8217;s contribution to nation-building, the Vice President described the Cadet Exchange Programme under Ek Bharat Shreshtha Bharat as an excellent initiative for strengthening national integration. He also […]",
+        "article": "Vice President CP Radhakrishnan was briefed on the National Cadet Corps and Sainik Schools by Minister of State for Defence Sanjay Seth at Uprashtrapati Bhavan today. Appreciating the NCC&#8217;s contribution to nation-building, the Vice President described the Cadet Exchange Programme under Ek Bharat Shreshtha Bharat as an excellent initiative for strengthening national integration. He also lauded the NCC&#8217;s community service initiatives, including Nasha Mukt Bharat Abhiyan and Swachh Bharat Abhiyan. The Vice President also welcomed the establishment of the NCC Alumni Association.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T10:09:37+00:00",
+        "link": "https://newsonair.gov.in/vp-radhakrishnan-briefed-on-ncc-lauds-nccs-community-service-initiatives/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/VP-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, Japan review progress in defence cooperation at 8th Defence Policy Dialogue",
+        "summary": "India and Japan today reiterated their commitment to promote a free, open and rules-based Indo-Pacific region. During the 8th Defence Policy Dialogue held in Tokyo, Japan, the two countries held comprehensive discussions on the prevailing regional and global security environment and exchanged views on issues of mutual interest. The Indian delegation was led by Defence […]",
+        "article": "India and Japan today reiterated their commitment to promote a free, open and rules-based Indo-Pacific region. During the 8th Defence Policy Dialogue held in Tokyo, Japan, the two countries held comprehensive discussions on the prevailing regional and global security environment and exchanged views on issues of mutual interest. The Indian delegation was led by Defence Secretary Rajesh Kumar Singh and the Japanese delegation was led by Vice Minister of Defence for International Affairs Kano Koji. During the dialogue, both sides reviewed the significant progress made in bilateral defence cooperation since the previous Defence Policy Dialogue. The two sides discussed ways to deepen cooperation in emerging domains, including defence industrial collaboration, technological innovation, cyber security, space, and other areas of shared strategic interest. &nbsp; The dialogue reviewed the entire spectrum of bilateral defence engagements, including military-to-military exchanges, co-operation between joint headquarters, maritime cooperation, defence exercises, capacity building, defence equipment and technology cooperation including maritime technology, and enhanced institutional interactions. Both sides welcomed the steady expansion of defence cooperation and underscored the importance of maintaining regular high-level exchanges and dialogue mechanisms. They discussed probable outcomes for the forthcoming ministerial visits, including 2+2 later this year. &nbsp; The defence secretary appreciated Japan&#8217;s continued engagement with India in the defence sector and highlighted the importance of strengthening practical cooperation under the framework of the India-Japan Special Strategic and Global Partnership. Mr. Kano Koji reaffirmed Japan&#8217;s commitment to further expanding defence ties with India across priority areas. Earlier in the day, Defence secretary called on Japanese Minister of Defence Mr Shinjiro Koizumi, and conveyed greetings of Defence Minister Rajnath Singh. Both sides reaffirmed the growing momentum of India-Japan Special Strategic and Global Partnership.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T10:04:01+00:00",
+        "link": "https://newsonair.gov.in/india-japan-review-progress-in-defence-cooperation-at-8th-defence-policy-dialogue/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/defence.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government releases Digital Threat Report 2025–26 for financial sector",
+        "summary": "The Government today emphasised that cybersecurity risks in the financial services sector are no longer limited to data theft or isolated breaches. The Ministry of Electronics and Information Technology (MeitY), in its Digital Threat Report 2025–26, said cyber risks now extend to transaction integrity, customer trust, third-party dependencies, decision-making systems, operational continuity and co",
+        "article": "The Government today emphasised that cybersecurity risks in the financial services sector are no longer limited to data theft or isolated breaches. The Ministry of Electronics and Information Technology (MeitY), in its Digital Threat Report 2025–26, said cyber risks now extend to transaction integrity, customer trust, third-party dependencies, decision-making systems, operational continuity and confidence in the digital infrastructure that underpins economic activity. The report was released in New Delhi by Secretary, Ministry of Electronics and Information Technology, S. Krishnan, along with Director General of the Indian Computer Emergency Response Team (CERT-In), Dr Sanjay Bahl. Speaking at the launch, Mr Krishnan highlighted the growing cyber risks associated with the rapid digital transformation of the financial sector. He said the Indian Computer Emergency Response Team (CERT-In) and the Computer Security Incident Response Team–Finance Sector (CSIRT-Fin) play a vital role in mitigating these risks by working closely with regulators, industry stakeholders and global cybersecurity organisations to ensure the timely detection, response and recovery from cyber incidents. The Digital Threat Report 2025–26 provides a comprehensive assessment of the cybersecurity landscape in the Banking, Financial Services and Insurance (BFSI) sector. It identifies sector-wide security gaps and offers a forward-looking analysis of emerging cyber risks, equipping financial institutions with insights to prepare for current and future cyber threats. The report describes itself as a call to action for financial institutions, regulators and cybersecurity professionals to adopt a proactive approach to tackling evolving cyber threats.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:56:48+00:00",
+        "link": "https://newsonair.gov.in/government-releases-digital-threat-report-2025-26-for-financial-sector/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/5.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Bharat Tex 2026 to begin tomorrow in New Delhi",
+        "summary": "India&#8217;s largest global textile event, Bharat Tex 2026, will begin tomorrow at Bharat Mandapam in New Delhi. The four-day event will showcase India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. The event will bring together manufacturers, exporters, global buyers, investors, policymakers, international deleg",
+        "article": "India&#8217;s largest global textile event, Bharat Tex 2026, will begin tomorrow at Bharat Mandapam in New Delhi. The four-day event will showcase India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. The event will bring together manufacturers, exporters, global buyers, investors, policymakers, international delegations, artisans, start-ups and technology providers. Addressing a press conference in New Delhi, Chairman of the Bharat Tex Trade Federation, Naren Goenka, said the third edition of Bharat Tex is expected to witness the participation of more than 7,000 buyers, over 1.3 lakh trade visitors and exhibitors showcasing more than 20,000 textile products. He said international exhibitors from 14 countries, including the United States, the United Kingdom, Japan, Portugal, Spain, New Zealand, South Korea, South Africa and Nepal, will participate in the event. Inspired by Prime Minister Narendra Modi&#8217;s 5F vision – Farm to Fibre to Factory to Fashion to Foreign – Bharat Tex has evolved into a premier global platform for business, investment, innovation, policy dialogue and strategic partnerships across the textile value chain.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:43:39+00:00",
+        "link": "https://newsonair.gov.in/bharat-tex-2026-to-begin-tomorrow-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/17.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "INS Sudarshini arrives in Boston after Sail4th 250 celebrations",
         "summary": "Indian Naval Sail Training Ship INS Sudarshini has arrived in Boston, United States, after successfully participating in the Sail4th 250 celebrations in New York. The ship reached Boston yesterday and took part in the Grand Parade of Sails, marking the commencement of Sail Boston 2026. The Defence Ministry said INS Sudarshini joined an international fleet […]",
@@ -27,12 +93,12 @@ window.VM_NEWS = {
       },
       {
         "title": "SC seeks status report of the SIT probing alleged misappropriation of donations in Ram Janmbhumi Temple",
-        "summary": "The Supreme Court directed the Special Investigation Team (SIT), constituted by the Uttar Pradesh Government, to submit a status report on its probe into the alleged embezzlement of donations meant for the Ayodhya Ram Mandir. The Court also issued notices to the Union Government, the Uttar Pradesh Government and the Shri Ram Janmabhoomi Teerth Kshetra […]",
-        "article": "The Supreme Court directed the Special Investigation Team (SIT), constituted by the Uttar Pradesh Government, to submit a status report on its probe into the alleged embezzlement of donations meant for the Ayodhya Ram Mandir. The Court also issued notices to the Union Government, the Uttar Pradesh Government and the Shri Ram Janmabhoomi Teerth Kshetra Trust on petitions seeking a CBI investigation into the alleged misappropriation of temple donations. A Bench comprising Chief Justice of India Surya Kant and Justices Joymalya Bagchi and V. Mohan heard the petitions. Earlier, on the 13th of June, the Uttar Pradesh Government constituted a three-member SIT at the request of the Shri Ram Janmabhoomi Teerth Kshetra Trust following allegations of misappropriation of temple donations. The SIT comprises Lucknow Divisional Commissioner Vijay Vishwas Pant, Inspector General of Police Kiran S, and Special Secretary (Finance) Neel Ratan.",
+        "summary": "The Supreme Court directed the Special Investigation Team (SIT), constituted by the Uttar Pradesh Government, to submit a status report on alleged misappropriation of donations in Ram Janmbhumi Temple. The Court also issued notices to the Union Government, the Uttar Pradesh Government and the Shri Ram Janmabhoomi Teerth Kshetra Trust on petitions seeking a CBI […]",
+        "article": "The Supreme Court directed the Special Investigation Team (SIT), constituted by the Uttar Pradesh Government, to submit a status report on alleged misappropriation of donations in Ram Janmbhumi Temple. The Court also issued notices to the Union Government, the Uttar Pradesh Government and the Shri Ram Janmabhoomi Teerth Kshetra Trust on petitions seeking a CBI investigation into the alleged misappropriation of temple donations. A Bench comprising Chief Justice of India Surya Kant and Justices Joymalya Bagchi and V. Mohan heard the petitions. Earlier, on the 13th of June, the Uttar Pradesh Government constituted a three-member SIT at the request of the Shri Ram Janmabhoomi Teerth Kshetra Trust following allegations of misappropriation of temple donations. The SIT comprises Lucknow Divisional Commissioner Vijay Vishwas Pant, Inspector General of Police Kiran S, and Special Secretary (Finance) Neel Ratan.",
         "date": "2026-07-13",
         "pubDate": "2026-07-13T08:20:42+00:00",
         "link": "https://newsonair.gov.in/sc-seeks-status-report-of-the-sit-probing-alleged-misappropriation-of-donations-in-ram-janmbhumi-temple/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Ayodhya.jpg",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/18-2.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -68,75 +134,75 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-20.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
+      }
+    ],
+    "breaking": [
       {
-        "title": "Four indigenous naval platforms join Indian Navy within a month",
-        "summary": "The Government has said that four new-generation indigenous naval platforms have been inducted into the Indian Navy within a month, significantly strengthening the country&#8217;s maritime defence capabilities. The latest addition is INS Mahendragiri, the sixth indigenously designed Nilgiri-class stealth frigate, which was inducted into the Indian Navy on the 11th of this month. Earlier, on […]",
-        "article": "The Government has said that four new-generation indigenous naval platforms have been inducted into the Indian Navy within a month, significantly strengthening the country&#8217;s maritime defence capabilities. The latest addition is INS Mahendragiri, the sixth indigenously designed Nilgiri-class stealth frigate, which was inducted into the Indian Navy on the 11th of this month. Earlier, on the 21st of last month, the Navy inducted three indigenously designed and built platforms—INS Dunagiri, INS Sanshodhak and INS Agray. The Nilgiri-class frigates are being built under Project 17A for multi-mission roles, including anti-air, anti-surface and anti-submarine warfare. Project 17A is the Indian Navy&#8217;s advanced stealth frigate programme for the construction of seven next-generation guided-missile warships. Equipped with advanced stealth features, enhanced survivability, reduced radar signature and a high degree of automation, these warships are capable of undertaking the full spectrum of maritime operations across all dimensions of naval warfare. Built with a high indigenous content, the platforms reflect the vision of Aatmanirbhar Bharat and strengthen India&#8217;s defence manufacturing ecosystem. They will also enhance maritime security, support the Blue Economy and reinforce India&#8217;s position as a leading maritime power.",
+        "title": "India, New Zealand Reaffirm Commitment to Stronger Parliamentary Cooperation",
+        "summary": "A delegation led by Mark Patterson, New Zealand&#8217;s Minister for Rural Communities, today met Lok Sabha Speaker Om Birla at Parliament House in New Delhi. In a social media post, Mr Birla said that the meeting underscored the importance of strengthening parliamentary exchanges and further deepening the longstanding ties between India and New Zealand. Mr […]",
+        "article": "A delegation led by Mark Patterson, New Zealand&#8217;s Minister for Rural Communities, today met Lok Sabha Speaker Om Birla at Parliament House in New Delhi. In a social media post, Mr Birla said that the meeting underscored the importance of strengthening parliamentary exchanges and further deepening the longstanding ties between India and New Zealand. Mr Birla added that during the visit to Parliament House, the delegation was introduced to India&#8217;s vibrant parliamentary democracy, rich democratic traditions and architectural grandeur.",
         "date": "2026-07-13",
-        "pubDate": "2026-07-13T07:20:21+00:00",
-        "link": "https://newsonair.gov.in/four-indigenous-naval-platforms-join-indian-navy-within-a-month/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/13-1.png",
+        "pubDate": "2026-07-13T10:50:39+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-reaffirm-commitment-to-stronger-parliamentary-cooperation/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/om.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Panchayati Raj Ministry holds national training on water budgeting and water security planning",
-        "summary": "Secretary, Ministry of Panchayati Raj, Vivek Bharadwaj, has emphasised the need for collective action to make the country self-reliant in water management. Addressing the inaugural session of the National-Level Training of Master Trainers Programme on Water Budgeting and Water Security Planning by Gram Panchayats in New Delhi, Mr Bharadwaj said meaningful change can be achieved […]",
-        "article": "Secretary, Ministry of Panchayati Raj, Vivek Bharadwaj, has emphasised the need for collective action to make the country self-reliant in water management. Addressing the inaugural session of the National-Level Training of Master Trainers Programme on Water Budgeting and Water Security Planning by Gram Panchayats in New Delhi, Mr Bharadwaj said meaningful change can be achieved when everyone works together towards a common goal. Describing the initiative as a significant step, he said the Ministry has been working on it for nearly one-and-a-half years. He urged the participants to actively engage in the training programme and apply the knowledge gained by undertaking water-related initiatives in their respective areas.",
+        "title": "India, Poland discuss cooperation in trade, defence, technology",
+        "summary": "Secretary (West) in the External Affairs Ministry, Sibi George, today met with Polish Secretary of State, Ministry of Foreign Affairs, Wladyslaw Bartoszewski, and Under Secretary of State, Ministry of Economic Development and Technology, Michal Baranowski, in Delhi. &#160; The wide-ranging discussions reflected the depth of the India-Poland Strategic Partnership. Both sides reaffirmed their shared",
+        "article": "Secretary (West) in the External Affairs Ministry, Sibi George, today met with Polish Secretary of State, Ministry of Foreign Affairs, Wladyslaw Bartoszewski, and Under Secretary of State, Ministry of Economic Development and Technology, Michal Baranowski, in Delhi. &nbsp; The wide-ranging discussions reflected the depth of the India-Poland Strategic Partnership. Both sides reaffirmed their shared commitment to strengthening cooperation across political engagements, trade and investment, technology, defence, culture, the fight against global terrorism and other areas of mutual interest.",
         "date": "2026-07-13",
-        "pubDate": "2026-07-13T07:12:35+00:00",
-        "link": "https://newsonair.gov.in/panchayati-raj-ministry-holds-national-training-on-water-budgeting-and-water-security-planning/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/12-2.png",
+        "pubDate": "2026-07-13T10:18:29+00:00",
+        "link": "https://newsonair.gov.in/india-poland-discuss-cooperation-in-trade-defence-technology/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/sibi.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Health Ministry invites suggestions on draft National Health Research Policy",
-        "summary": "The Ministry of Health and Family Welfare has invited public comments and suggestions on the draft National Health Research Policy, which aims to provide a strategic framework for strengthening and guiding India&#8217;s health research ecosystem. The policy seeks to foster a trusted, inclusive, self-reliant and impact-oriented health research ecosystem that is responsive to the healthcare […]",
-        "article": "The Ministry of Health and Family Welfare has invited public comments and suggestions on the draft National Health Research Policy, which aims to provide a strategic framework for strengthening and guiding India&#8217;s health research ecosystem. The policy seeks to foster a trusted, inclusive, self-reliant and impact-oriented health research ecosystem that is responsive to the healthcare needs of the people. It aims to promote high-quality, ethical and innovative research while addressing national and emerging health priorities to improve health outcomes and equity. The draft policy proposes the creation of the National Health Research Agenda as the country&#8217;s central framework for health research. The Ministry said the draft policy has been prepared following extensive consultations with various stakeholders and incorporates their suggestions and recommendations. Comments and suggestions on the draft policy have been invited till the 27th of this month.",
+        "title": "VP Radhakrishnan briefed on NCC & Sainik Schools; Lauds NCC’s community service initiatives",
+        "summary": "Vice President CP Radhakrishnan was briefed on the National Cadet Corps and Sainik Schools by Minister of State for Defence Sanjay Seth at Uprashtrapati Bhavan today. Appreciating the NCC&#8217;s contribution to nation-building, the Vice President described the Cadet Exchange Programme under Ek Bharat Shreshtha Bharat as an excellent initiative for strengthening national integration. He also […]",
+        "article": "Vice President CP Radhakrishnan was briefed on the National Cadet Corps and Sainik Schools by Minister of State for Defence Sanjay Seth at Uprashtrapati Bhavan today. Appreciating the NCC&#8217;s contribution to nation-building, the Vice President described the Cadet Exchange Programme under Ek Bharat Shreshtha Bharat as an excellent initiative for strengthening national integration. He also lauded the NCC&#8217;s community service initiatives, including Nasha Mukt Bharat Abhiyan and Swachh Bharat Abhiyan. The Vice President also welcomed the establishment of the NCC Alumni Association.",
         "date": "2026-07-13",
-        "pubDate": "2026-07-13T06:25:31+00:00",
-        "link": "https://newsonair.gov.in/health-ministry-invites-suggestions-on-draft-national-health-research-policy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/The-Ministry-of-Health-and-Family-Welfare.jpg",
+        "pubDate": "2026-07-13T10:09:37+00:00",
+        "link": "https://newsonair.gov.in/vp-radhakrishnan-briefed-on-ncc-lauds-nccs-community-service-initiatives/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/VP-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Iran claims missile and drone strikes on US military bases",
-        "summary": "Iran&#8217;s Islamic Revolutionary Guard Corps (IRGC) has claimed responsibility for missile and drone strikes on US military bases in Jordan, Bahrain and Kuwait as part of its ongoing &#8216;Eye-for-an-Eye&#8217; operation. The IRGC said the attacks were carried out in retaliation for recent US strikes on Iranian military targets. According to Iran&#8217;s state news agency, the […]",
-        "article": "Iran&#8217;s Islamic Revolutionary Guard Corps (IRGC) has claimed responsibility for missile and drone strikes on US military bases in Jordan, Bahrain and Kuwait as part of its ongoing &#8216;Eye-for-an-Eye&#8217; operation. The IRGC said the attacks were carried out in retaliation for recent US strikes on Iranian military targets. According to Iran&#8217;s state news agency, the operation targeted Prince Hassan Air Base in Jordan, Sheikh Isa Air Base in Bahrain, and Ali Al-Salem Air Base and Ahmed Al-Jaber Air Base in Kuwait. The IRGC claimed that the strikes damaged fuel depots, ammunition storage facilities, air defence systems and radar infrastructure. It also warned against any further US military activity in the Strait of Hormuz. The claims came after the US Central Command (CENTCOM) launched a major operation targeting Iranian air defence systems, missile and drone launch sites, coastal radar infrastructure and tactical naval assets. According to the United States, the precision strikes targeted multiple military installations across Iran to degrade Tehran&#8217;s capability to disrupt international maritime trade. The US said the operation was aimed at protecting the Strait of Hormuz and ensuring freedom of navigation.",
+        "title": "India, Japan review progress in defence cooperation at 8th Defence Policy Dialogue",
+        "summary": "India and Japan today reiterated their commitment to promote a free, open and rules-based Indo-Pacific region. During the 8th Defence Policy Dialogue held in Tokyo, Japan, the two countries held comprehensive discussions on the prevailing regional and global security environment and exchanged views on issues of mutual interest. The Indian delegation was led by Defence […]",
+        "article": "India and Japan today reiterated their commitment to promote a free, open and rules-based Indo-Pacific region. During the 8th Defence Policy Dialogue held in Tokyo, Japan, the two countries held comprehensive discussions on the prevailing regional and global security environment and exchanged views on issues of mutual interest. The Indian delegation was led by Defence Secretary Rajesh Kumar Singh and the Japanese delegation was led by Vice Minister of Defence for International Affairs Kano Koji. During the dialogue, both sides reviewed the significant progress made in bilateral defence cooperation since the previous Defence Policy Dialogue. The two sides discussed ways to deepen cooperation in emerging domains, including defence industrial collaboration, technological innovation, cyber security, space, and other areas of shared strategic interest. &nbsp; The dialogue reviewed the entire spectrum of bilateral defence engagements, including military-to-military exchanges, co-operation between joint headquarters, maritime cooperation, defence exercises, capacity building, defence equipment and technology cooperation including maritime technology, and enhanced institutional interactions. Both sides welcomed the steady expansion of defence cooperation and underscored the importance of maintaining regular high-level exchanges and dialogue mechanisms. They discussed probable outcomes for the forthcoming ministerial visits, including 2+2 later this year. &nbsp; The defence secretary appreciated Japan&#8217;s continued engagement with India in the defence sector and highlighted the importance of strengthening practical cooperation under the framework of the India-Japan Special Strategic and Global Partnership. Mr. Kano Koji reaffirmed Japan&#8217;s commitment to further expanding defence ties with India across priority areas. Earlier in the day, Defence secretary called on Japanese Minister of Defence Mr Shinjiro Koizumi, and conveyed greetings of Defence Minister Rajnath Singh. Both sides reaffirmed the growing momentum of India-Japan Special Strategic and Global Partnership.",
         "date": "2026-07-13",
-        "pubDate": "2026-07-13T06:10:37+00:00",
-        "link": "https://newsonair.gov.in/iran-claims-missile-and-drone-strikes-on-us-military-bases/",
+        "pubDate": "2026-07-13T10:04:01+00:00",
+        "link": "https://newsonair.gov.in/india-japan-review-progress-in-defence-cooperation-at-8th-defence-policy-dialogue/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/defence.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government releases Digital Threat Report 2025–26 for financial sector",
+        "summary": "The Government today emphasised that cybersecurity risks in the financial services sector are no longer limited to data theft or isolated breaches. The Ministry of Electronics and Information Technology (MeitY), in its Digital Threat Report 2025–26, said cyber risks now extend to transaction integrity, customer trust, third-party dependencies, decision-making systems, operational continuity and co",
+        "article": "The Government today emphasised that cybersecurity risks in the financial services sector are no longer limited to data theft or isolated breaches. The Ministry of Electronics and Information Technology (MeitY), in its Digital Threat Report 2025–26, said cyber risks now extend to transaction integrity, customer trust, third-party dependencies, decision-making systems, operational continuity and confidence in the digital infrastructure that underpins economic activity. The report was released in New Delhi by Secretary, Ministry of Electronics and Information Technology, S. Krishnan, along with Director General of the Indian Computer Emergency Response Team (CERT-In), Dr Sanjay Bahl. Speaking at the launch, Mr Krishnan highlighted the growing cyber risks associated with the rapid digital transformation of the financial sector. He said the Indian Computer Emergency Response Team (CERT-In) and the Computer Security Incident Response Team–Finance Sector (CSIRT-Fin) play a vital role in mitigating these risks by working closely with regulators, industry stakeholders and global cybersecurity organisations to ensure the timely detection, response and recovery from cyber incidents. The Digital Threat Report 2025–26 provides a comprehensive assessment of the cybersecurity landscape in the Banking, Financial Services and Insurance (BFSI) sector. It identifies sector-wide security gaps and offers a forward-looking analysis of emerging cyber risks, equipping financial institutions with insights to prepare for current and future cyber threats. The report describes itself as a call to action for financial institutions, regulators and cybersecurity professionals to adopt a proactive approach to tackling evolving cyber threats.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:56:48+00:00",
+        "link": "https://newsonair.gov.in/government-releases-digital-threat-report-2025-26-for-financial-sector/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/5.jpeg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Government debunks fake internship claim circulating on social media",
-        "summary": "The Government has debunked a Google Form circulating on social media that falsely claims to offer an internship for doctors and other professionals, allegedly approved by the Ministry of Micro, Small and Medium Enterprises (MSME) and the Ministry of Corporate Affairs. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has clarified that the claim is […]",
-        "article": "The Government has debunked a Google Form circulating on social media that falsely claims to offer an internship for doctors and other professionals, allegedly approved by the Ministry of Micro, Small and Medium Enterprises (MSME) and the Ministry of Corporate Affairs. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has clarified that the claim is fake. It said neither the Ministry of MSME nor the Ministry of Corporate Affairs has issued any official notification or application form for such an internship programme. The PIB has urged people not to click on suspicious links or websites or share their personal information on unverified platforms. It has also advised citizens to rely only on official government websites and verified sources for authentic information.",
+        "title": "Bharat Tex 2026 to begin tomorrow in New Delhi",
+        "summary": "India&#8217;s largest global textile event, Bharat Tex 2026, will begin tomorrow at Bharat Mandapam in New Delhi. The four-day event will showcase India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. The event will bring together manufacturers, exporters, global buyers, investors, policymakers, international deleg",
+        "article": "India&#8217;s largest global textile event, Bharat Tex 2026, will begin tomorrow at Bharat Mandapam in New Delhi. The four-day event will showcase India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. The event will bring together manufacturers, exporters, global buyers, investors, policymakers, international delegations, artisans, start-ups and technology providers. Addressing a press conference in New Delhi, Chairman of the Bharat Tex Trade Federation, Naren Goenka, said the third edition of Bharat Tex is expected to witness the participation of more than 7,000 buyers, over 1.3 lakh trade visitors and exhibitors showcasing more than 20,000 textile products. He said international exhibitors from 14 countries, including the United States, the United Kingdom, Japan, Portugal, Spain, New Zealand, South Korea, South Africa and Nepal, will participate in the event. Inspired by Prime Minister Narendra Modi&#8217;s 5F vision – Farm to Fibre to Factory to Fashion to Foreign – Bharat Tex has evolved into a premier global platform for business, investment, innovation, policy dialogue and strategic partnerships across the textile value chain.",
         "date": "2026-07-13",
-        "pubDate": "2026-07-13T05:42:25+00:00",
-        "link": "https://newsonair.gov.in/government-debunks-fake-internship-claim-circulating-on-social-media/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
+        "pubDate": "2026-07-13T08:43:39+00:00",
+        "link": "https://newsonair.gov.in/bharat-tex-2026-to-begin-tomorrow-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/17.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
-      {
-        "title": "Parliamentary elections to be held in Israel on October 27 this year",
-        "summary": "Israel&#8217;s Parliament, the Knesset, has announced that national elections will be held on the 27th of October this year. The election is widely seen as a referendum on Prime Minister Benjamin Netanyahu&#8217;s leadership since the start of the war in Gaza. The Knesset is set to hold the final sitting of its current term […]",
-        "article": "Israel&#8217;s Parliament, the Knesset, has announced that national elections will be held on the 27th of October this year. The election is widely seen as a referendum on Prime Minister Benjamin Netanyahu&#8217;s leadership since the start of the war in Gaza. The Knesset is set to hold the final sitting of its current term on Friday, making Netanyahu&#8217;s coalition government the first in nearly five decades to complete a full four-year term. In a statement, the Knesset said there was no proposal to dissolve the Parliament before the completion of its term, as the election date has already been announced. Netanyahu, Israel&#8217;s longest-serving Prime Minister, confirmed in June that he would contest the upcoming elections. The 76-year-old has faced mounting criticism since the Hamas-led attacks on the 7th of October, 2023, the deadliest in Israel&#8217;s history. Critics have accused Netanyahu of security lapses that allegedly allowed Hamas militants to breach Israel&#8217;s border defences and take 251 people hostage. Former Israel Defense Forces Chief of Staff Gadi Eisenkot has emerged as Netanyahu&#8217;s principal challenger. According to a poll published on Thursday by Israeli broadcaster Channel 13, Eisenkot&#8217;s Yashar Party holds a narrow lead over Netanyahu&#8217;s Likud Party. Eisenkot, who previously served in Netanyahu&#8217;s war cabinet, resigned in June 2024, saying that the government had failed to achieve its objectives in Gaza.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T04:17:53+00:00",
-        "link": "https://newsonair.gov.in/parliamentary-elections-to-be-held-in-israel-on-october-27-this-year/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11-4.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "breaking": [
       {
         "title": "SC says citizenship determination must follow due process; sets aside 27 foreigner rulings",
         "summary": "The Supreme Court today ruled that the process of determining citizenship or declaring an individual a foreigner must be fair, while hearing a batch of petitions filed by 27 people who had been declared &#8220;foreigners&#8221; by Foreigners Tribunals in Assam. . A bench of Justice Vikram Nath and Justice Sandeep Mehta set aside the orders […]",
@@ -150,12 +216,12 @@ window.VM_NEWS = {
       },
       {
         "title": "SC seeks status report of the SIT probing alleged misappropriation of donations in Ram Janmbhumi Temple",
-        "summary": "The Supreme Court directed the Special Investigation Team (SIT), constituted by the Uttar Pradesh Government, to submit a status report on its probe into the alleged embezzlement of donations meant for the Ayodhya Ram Mandir. The Court also issued notices to the Union Government, the Uttar Pradesh Government and the Shri Ram Janmabhoomi Teerth Kshetra […]",
-        "article": "The Supreme Court directed the Special Investigation Team (SIT), constituted by the Uttar Pradesh Government, to submit a status report on its probe into the alleged embezzlement of donations meant for the Ayodhya Ram Mandir. The Court also issued notices to the Union Government, the Uttar Pradesh Government and the Shri Ram Janmabhoomi Teerth Kshetra Trust on petitions seeking a CBI investigation into the alleged misappropriation of temple donations. A Bench comprising Chief Justice of India Surya Kant and Justices Joymalya Bagchi and V. Mohan heard the petitions. Earlier, on the 13th of June, the Uttar Pradesh Government constituted a three-member SIT at the request of the Shri Ram Janmabhoomi Teerth Kshetra Trust following allegations of misappropriation of temple donations. The SIT comprises Lucknow Divisional Commissioner Vijay Vishwas Pant, Inspector General of Police Kiran S, and Special Secretary (Finance) Neel Ratan.",
+        "summary": "The Supreme Court directed the Special Investigation Team (SIT), constituted by the Uttar Pradesh Government, to submit a status report on alleged misappropriation of donations in Ram Janmbhumi Temple. The Court also issued notices to the Union Government, the Uttar Pradesh Government and the Shri Ram Janmabhoomi Teerth Kshetra Trust on petitions seeking a CBI […]",
+        "article": "The Supreme Court directed the Special Investigation Team (SIT), constituted by the Uttar Pradesh Government, to submit a status report on alleged misappropriation of donations in Ram Janmbhumi Temple. The Court also issued notices to the Union Government, the Uttar Pradesh Government and the Shri Ram Janmabhoomi Teerth Kshetra Trust on petitions seeking a CBI investigation into the alleged misappropriation of temple donations. A Bench comprising Chief Justice of India Surya Kant and Justices Joymalya Bagchi and V. Mohan heard the petitions. Earlier, on the 13th of June, the Uttar Pradesh Government constituted a three-member SIT at the request of the Shri Ram Janmabhoomi Teerth Kshetra Trust following allegations of misappropriation of temple donations. The SIT comprises Lucknow Divisional Commissioner Vijay Vishwas Pant, Inspector General of Police Kiran S, and Special Secretary (Finance) Neel Ratan.",
         "date": "2026-07-13",
         "pubDate": "2026-07-13T08:20:42+00:00",
         "link": "https://newsonair.gov.in/sc-seeks-status-report-of-the-sit-probing-alleged-misappropriation-of-donations-in-ram-janmbhumi-temple/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Ayodhya.jpg",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/18-2.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -179,78 +245,77 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/four-indigenous-naval-platforms-join-indian-navy-within-a-month/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/13-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Panchayati Raj Ministry holds national training on water budgeting and water security planning",
-        "summary": "Secretary, Ministry of Panchayati Raj, Vivek Bharadwaj, has emphasised the need for collective action to make the country self-reliant in water management. Addressing the inaugural session of the National-Level Training of Master Trainers Programme on Water Budgeting and Water Security Planning by Gram Panchayats in New Delhi, Mr Bharadwaj said meaningful change can be achieved […]",
-        "article": "Secretary, Ministry of Panchayati Raj, Vivek Bharadwaj, has emphasised the need for collective action to make the country self-reliant in water management. Addressing the inaugural session of the National-Level Training of Master Trainers Programme on Water Budgeting and Water Security Planning by Gram Panchayats in New Delhi, Mr Bharadwaj said meaningful change can be achieved when everyone works together towards a common goal. Describing the initiative as a significant step, he said the Ministry has been working on it for nearly one-and-a-half years. He urged the participants to actively engage in the training programme and apply the knowledge gained by undertaking water-related initiatives in their respective areas.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T07:12:35+00:00",
-        "link": "https://newsonair.gov.in/panchayati-raj-ministry-holds-national-training-on-water-budgeting-and-water-security-planning/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/12-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Health Ministry invites suggestions on draft National Health Research Policy",
-        "summary": "The Ministry of Health and Family Welfare has invited public comments and suggestions on the draft National Health Research Policy, which aims to provide a strategic framework for strengthening and guiding India&#8217;s health research ecosystem. The policy seeks to foster a trusted, inclusive, self-reliant and impact-oriented health research ecosystem that is responsive to the healthcare […]",
-        "article": "The Ministry of Health and Family Welfare has invited public comments and suggestions on the draft National Health Research Policy, which aims to provide a strategic framework for strengthening and guiding India&#8217;s health research ecosystem. The policy seeks to foster a trusted, inclusive, self-reliant and impact-oriented health research ecosystem that is responsive to the healthcare needs of the people. It aims to promote high-quality, ethical and innovative research while addressing national and emerging health priorities to improve health outcomes and equity. The draft policy proposes the creation of the National Health Research Agenda as the country&#8217;s central framework for health research. The Ministry said the draft policy has been prepared following extensive consultations with various stakeholders and incorporates their suggestions and recommendations. Comments and suggestions on the draft policy have been invited till the 27th of this month.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T06:25:31+00:00",
-        "link": "https://newsonair.gov.in/health-ministry-invites-suggestions-on-draft-national-health-research-policy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/The-Ministry-of-Health-and-Family-Welfare.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Government debunks fake internship claim circulating on social media",
-        "summary": "The Government has debunked a Google Form circulating on social media that falsely claims to offer an internship for doctors and other professionals, allegedly approved by the Ministry of Micro, Small and Medium Enterprises (MSME) and the Ministry of Corporate Affairs. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has clarified that the claim is […]",
-        "article": "The Government has debunked a Google Form circulating on social media that falsely claims to offer an internship for doctors and other professionals, allegedly approved by the Ministry of Micro, Small and Medium Enterprises (MSME) and the Ministry of Corporate Affairs. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has clarified that the claim is fake. It said neither the Ministry of MSME nor the Ministry of Corporate Affairs has issued any official notification or application form for such an internship programme. The PIB has urged people not to click on suspicious links or websites or share their personal information on unverified platforms. It has also advised citizens to rely only on official government websites and verified sources for authentic information.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T05:42:25+00:00",
-        "link": "https://newsonair.gov.in/government-debunks-fake-internship-claim-circulating-on-social-media/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Piyush Goyal to visit Spain, Belgium and Finland to strengthen economic ties",
-        "summary": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation on an official visit to Spain, Belgium and Finland from today till the 17th of this month. The visit aims to strengthen India&#8217;s economic partnerships with Europe, with a focus on trade, investment, technology, innovation and sustainability. In the first leg […]",
-        "article": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation on an official visit to Spain, Belgium and Finland from today till the 17th of this month. The visit aims to strengthen India&#8217;s economic partnerships with Europe, with a focus on trade, investment, technology, innovation and sustainability. In the first leg of the visit, Mr Goyal will travel to Spain today, where he will participate in a Business Roundtable with the Chamber of Commerce of Spain, the Spanish Confederation of Business Organisations (CEOE) and ICEX Spain Trade and Investment. The roundtable will bring together Indian and Spanish industry leaders to explore opportunities in the automotive, renewable energy, railways, artificial intelligence, semiconductors, food processing and tourism sectors. Mr Goyal will then visit Belgium on the 14th and 15th of this month. During the visit, he will hold meetings with the leadership of Thales Group and Silox Group. He will also participate in the India-EU Business Roundtable and the Trade and Technology Council Plenary. Discussions will focus on foreign investment, trade facilitation, sustainable technologies and resilient supply chains. In the final leg of the visit, the Minister will travel to Finland on the 16th and 17th of this month. He will attend the India-Finland Business Roundtable and visit leading Finnish companies and research institutions, including Nokia, Kone, Kemppi Group and VTT Technical Research Centre of Finland, to explore collaboration in telecommunications, advanced manufacturing, clean energy, mobility and innovation.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T03:00:34+00:00",
-        "link": "https://newsonair.gov.in/union-minister-piyush-goyal-to-visit-spain-belgium-and-finland-to-strengthen-economic-ties/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Union-Minister-Piyush-Goyal-Leads-High-Level-Indian-Business-Delegation-to-Greece.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ISRO successfully carries out three major tests of Gaganyaan crew module systems",
-        "summary": "The Indian Space Research Organisation (ISRO) has successfully carried out three major tests of the Gaganyaan Crew Module systems. The first test validated the Crew Module Uprighting System, which ensures that the crew module returns to an upright position after splashdown in the sea. The system, based on stored cold-gas technology, is a critical safety […]",
-        "article": "The Indian Space Research Organisation (ISRO) has successfully carried out three major tests of the Gaganyaan Crew Module systems. The first test validated the Crew Module Uprighting System, which ensures that the crew module returns to an upright position after splashdown in the sea. The system, based on stored cold-gas technology, is a critical safety feature for astronauts. The second test involved the separation of the umbilical mechanism that connects the crew module, where the astronauts are housed, with the service module, which provides power and propulsion. The mechanism consists of two units—CSU-1 on the crew module side and CSU-2 on the service module side. During the crew module&#8217;s re-entry into the Earth&#8217;s atmosphere, the service module separates from the crew module after CSU-1 disconnects. Subsequently, just before re-entry, CSU-2 also separates. ISRO carried out the separation test of CSU-2 from a simulated crew module. The test successfully demonstrated the clean separation of CSU-2, along with the structural stability of the crew module panel and its interfaces. The third test validated the structural integrity of the crew module during the separation of the apex cover. The apex cover protects the parachutes and associated systems during the mission and is jettisoned before parachute deployment to enable the safe descent of the crew module.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T02:13:59+00:00",
-        "link": "https://newsonair.gov.in/isro-successfully-carries-out-three-major-tests-of-gaganyaan-crew-module-systems/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NCW takes suo motu cognisance of Keralam student’s murder in Uzbekistan",
-        "summary": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of […]",
-        "article": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of Police, Keralam, seeking an expeditious investigation, coordination with the Ministry of External Affairs and the Indian Embassy in Tashkent, preservation of evidence, and comprehensive support for the bereaved family. The Commission has sought an Action Taken Report from the Kerala DGP within seven days. The NCW has also requested the Ambassador of India to Uzbekistan to extend all necessary assistance and coordinate with the concerned authorities to facilitate the legal process and ensure effective cooperation in the matter.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T05:14:13+00:00",
-        "link": "https://newsonair.gov.in/ncw-takes-suo-motu-cognisance-of-keralam-students-murder-in-uzbekistan/",
-        "post_id": 1735143,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "India, New Zealand Reaffirm Commitment to Stronger Parliamentary Cooperation",
+        "summary": "A delegation led by Mark Patterson, New Zealand&#8217;s Minister for Rural Communities, today met Lok Sabha Speaker Om Birla at Parliament House in New Delhi. In a social media post, Mr Birla said that the meeting underscored the importance of strengthening parliamentary exchanges and further deepening the longstanding ties between India and New Zealand. Mr […]",
+        "article": "A delegation led by Mark Patterson, New Zealand&#8217;s Minister for Rural Communities, today met Lok Sabha Speaker Om Birla at Parliament House in New Delhi. In a social media post, Mr Birla said that the meeting underscored the importance of strengthening parliamentary exchanges and further deepening the longstanding ties between India and New Zealand. Mr Birla added that during the visit to Parliament House, the delegation was introduced to India&#8217;s vibrant parliamentary democracy, rich democratic traditions and architectural grandeur.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T10:50:39+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-reaffirm-commitment-to-stronger-parliamentary-cooperation/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/om.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, Poland discuss cooperation in trade, defence, technology",
+        "summary": "Secretary (West) in the External Affairs Ministry, Sibi George, today met with Polish Secretary of State, Ministry of Foreign Affairs, Wladyslaw Bartoszewski, and Under Secretary of State, Ministry of Economic Development and Technology, Michal Baranowski, in Delhi. &#160; The wide-ranging discussions reflected the depth of the India-Poland Strategic Partnership. Both sides reaffirmed their shared",
+        "article": "Secretary (West) in the External Affairs Ministry, Sibi George, today met with Polish Secretary of State, Ministry of Foreign Affairs, Wladyslaw Bartoszewski, and Under Secretary of State, Ministry of Economic Development and Technology, Michal Baranowski, in Delhi. &nbsp; The wide-ranging discussions reflected the depth of the India-Poland Strategic Partnership. Both sides reaffirmed their shared commitment to strengthening cooperation across political engagements, trade and investment, technology, defence, culture, the fight against global terrorism and other areas of mutual interest.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T10:18:29+00:00",
+        "link": "https://newsonair.gov.in/india-poland-discuss-cooperation-in-trade-defence-technology/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/sibi.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "VP Radhakrishnan briefed on NCC & Sainik Schools; Lauds NCC’s community service initiatives",
+        "summary": "Vice President CP Radhakrishnan was briefed on the National Cadet Corps and Sainik Schools by Minister of State for Defence Sanjay Seth at Uprashtrapati Bhavan today. Appreciating the NCC&#8217;s contribution to nation-building, the Vice President described the Cadet Exchange Programme under Ek Bharat Shreshtha Bharat as an excellent initiative for strengthening national integration. He also […]",
+        "article": "Vice President CP Radhakrishnan was briefed on the National Cadet Corps and Sainik Schools by Minister of State for Defence Sanjay Seth at Uprashtrapati Bhavan today. Appreciating the NCC&#8217;s contribution to nation-building, the Vice President described the Cadet Exchange Programme under Ek Bharat Shreshtha Bharat as an excellent initiative for strengthening national integration. He also lauded the NCC&#8217;s community service initiatives, including Nasha Mukt Bharat Abhiyan and Swachh Bharat Abhiyan. The Vice President also welcomed the establishment of the NCC Alumni Association.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T10:09:37+00:00",
+        "link": "https://newsonair.gov.in/vp-radhakrishnan-briefed-on-ncc-lauds-nccs-community-service-initiatives/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/VP-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, Japan review progress in defence cooperation at 8th Defence Policy Dialogue",
+        "summary": "India and Japan today reiterated their commitment to promote a free, open and rules-based Indo-Pacific region. During the 8th Defence Policy Dialogue held in Tokyo, Japan, the two countries held comprehensive discussions on the prevailing regional and global security environment and exchanged views on issues of mutual interest. The Indian delegation was led by Defence […]",
+        "article": "India and Japan today reiterated their commitment to promote a free, open and rules-based Indo-Pacific region. During the 8th Defence Policy Dialogue held in Tokyo, Japan, the two countries held comprehensive discussions on the prevailing regional and global security environment and exchanged views on issues of mutual interest. The Indian delegation was led by Defence Secretary Rajesh Kumar Singh and the Japanese delegation was led by Vice Minister of Defence for International Affairs Kano Koji. During the dialogue, both sides reviewed the significant progress made in bilateral defence cooperation since the previous Defence Policy Dialogue. The two sides discussed ways to deepen cooperation in emerging domains, including defence industrial collaboration, technological innovation, cyber security, space, and other areas of shared strategic interest. &nbsp; The dialogue reviewed the entire spectrum of bilateral defence engagements, including military-to-military exchanges, co-operation between joint headquarters, maritime cooperation, defence exercises, capacity building, defence equipment and technology cooperation including maritime technology, and enhanced institutional interactions. Both sides welcomed the steady expansion of defence cooperation and underscored the importance of maintaining regular high-level exchanges and dialogue mechanisms. They discussed probable outcomes for the forthcoming ministerial visits, including 2+2 later this year. &nbsp; The defence secretary appreciated Japan&#8217;s continued engagement with India in the defence sector and highlighted the importance of strengthening practical cooperation under the framework of the India-Japan Special Strategic and Global Partnership. Mr. Kano Koji reaffirmed Japan&#8217;s commitment to further expanding defence ties with India across priority areas. Earlier in the day, Defence secretary called on Japanese Minister of Defence Mr Shinjiro Koizumi, and conveyed greetings of Defence Minister Rajnath Singh. Both sides reaffirmed the growing momentum of India-Japan Special Strategic and Global Partnership.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T10:04:01+00:00",
+        "link": "https://newsonair.gov.in/india-japan-review-progress-in-defence-cooperation-at-8th-defence-policy-dialogue/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/defence.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government releases Digital Threat Report 2025–26 for financial sector",
+        "summary": "The Government today emphasised that cybersecurity risks in the financial services sector are no longer limited to data theft or isolated breaches. The Ministry of Electronics and Information Technology (MeitY), in its Digital Threat Report 2025–26, said cyber risks now extend to transaction integrity, customer trust, third-party dependencies, decision-making systems, operational continuity and co",
+        "article": "The Government today emphasised that cybersecurity risks in the financial services sector are no longer limited to data theft or isolated breaches. The Ministry of Electronics and Information Technology (MeitY), in its Digital Threat Report 2025–26, said cyber risks now extend to transaction integrity, customer trust, third-party dependencies, decision-making systems, operational continuity and confidence in the digital infrastructure that underpins economic activity. The report was released in New Delhi by Secretary, Ministry of Electronics and Information Technology, S. Krishnan, along with Director General of the Indian Computer Emergency Response Team (CERT-In), Dr Sanjay Bahl. Speaking at the launch, Mr Krishnan highlighted the growing cyber risks associated with the rapid digital transformation of the financial sector. He said the Indian Computer Emergency Response Team (CERT-In) and the Computer Security Incident Response Team–Finance Sector (CSIRT-Fin) play a vital role in mitigating these risks by working closely with regulators, industry stakeholders and global cybersecurity organisations to ensure the timely detection, response and recovery from cyber incidents. The Digital Threat Report 2025–26 provides a comprehensive assessment of the cybersecurity landscape in the Banking, Financial Services and Insurance (BFSI) sector. It identifies sector-wide security gaps and offers a forward-looking analysis of emerging cyber risks, equipping financial institutions with insights to prepare for current and future cyber threats. The report describes itself as a call to action for financial institutions, regulators and cybersecurity professionals to adopt a proactive approach to tackling evolving cyber threats.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:56:48+00:00",
+        "link": "https://newsonair.gov.in/government-releases-digital-threat-report-2025-26-for-financial-sector/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/5.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Bharat Tex 2026 to begin tomorrow in New Delhi",
+        "summary": "India&#8217;s largest global textile event, Bharat Tex 2026, will begin tomorrow at Bharat Mandapam in New Delhi. The four-day event will showcase India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. The event will bring together manufacturers, exporters, global buyers, investors, policymakers, international deleg",
+        "article": "India&#8217;s largest global textile event, Bharat Tex 2026, will begin tomorrow at Bharat Mandapam in New Delhi. The four-day event will showcase India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. The event will bring together manufacturers, exporters, global buyers, investors, policymakers, international delegations, artisans, start-ups and technology providers. Addressing a press conference in New Delhi, Chairman of the Bharat Tex Trade Federation, Naren Goenka, said the third edition of Bharat Tex is expected to witness the participation of more than 7,000 buyers, over 1.3 lakh trade visitors and exhibitors showcasing more than 20,000 textile products. He said international exhibitors from 14 countries, including the United States, the United Kingdom, Japan, Portugal, Spain, New Zealand, South Korea, South Africa and Nepal, will participate in the event. Inspired by Prime Minister Narendra Modi&#8217;s 5F vision – Farm to Fibre to Factory to Fashion to Foreign – Bharat Tex has evolved into a premier global platform for business, investment, innovation, policy dialogue and strategic partnerships across the textile value chain.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:43:39+00:00",
+        "link": "https://newsonair.gov.in/bharat-tex-2026-to-begin-tomorrow-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/17.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "SC says citizenship determination must follow due process; sets aside 27 foreigner rulings",
         "summary": "The Supreme Court today ruled that the process of determining citizenship or declaring an individual a foreigner must be fair, while hearing a batch of petitions filed by 27 people who had been declared &#8220;foreigners&#8221; by Foreigners Tribunals in Assam. . A bench of Justice Vikram Nath and Justice Sandeep Mehta set aside the orders […]",
         "article": "The Supreme Court today ruled that the process of determining citizenship or declaring an individual a foreigner must be fair, while hearing a batch of petitions filed by 27 people who had been declared &#8220;foreigners&#8221; by Foreigners Tribunals in Assam. . A bench of Justice Vikram Nath and Justice Sandeep Mehta set aside the orders of the Gauhati High Court and the Foreigners Tribunals in the 27 cases. The Supreme Court said that the process of deciding citizenship or declaring a person a foreigner must be fair and cannot compromise judicial principles. It acknowledged that the State has a legitimate and compelling interest in ensuring that those not legally entitled to Indian citizenship do not obtain it through false claims, misuse of legal process, or delay, but stressed that due process must prevail. It directed that no coercive action be taken against the petitioners until the tribunals rehear their cases. Among the petitioners were Sabitri Dey, Ajbahar Ali, Md Akbar Ali, Abeda Khatun and Anowara Khatun, who argued that they had been declared foreigners on hyper-technical grounds and minor discrepancies. The petitioners had challenged the tribunal orders before the Gauhati High Court and later the Supreme Court, relying on documents such as pre-1971 legacy records, electoral rolls and land records to establish their Indian citizenship.",
@@ -263,12 +328,12 @@ window.VM_NEWS = {
       },
       {
         "title": "SC seeks status report of the SIT probing alleged misappropriation of donations in Ram Janmbhumi Temple",
-        "summary": "The Supreme Court directed the Special Investigation Team (SIT), constituted by the Uttar Pradesh Government, to submit a status report on its probe into the alleged embezzlement of donations meant for the Ayodhya Ram Mandir. The Court also issued notices to the Union Government, the Uttar Pradesh Government and the Shri Ram Janmabhoomi Teerth Kshetra […]",
-        "article": "The Supreme Court directed the Special Investigation Team (SIT), constituted by the Uttar Pradesh Government, to submit a status report on its probe into the alleged embezzlement of donations meant for the Ayodhya Ram Mandir. The Court also issued notices to the Union Government, the Uttar Pradesh Government and the Shri Ram Janmabhoomi Teerth Kshetra Trust on petitions seeking a CBI investigation into the alleged misappropriation of temple donations. A Bench comprising Chief Justice of India Surya Kant and Justices Joymalya Bagchi and V. Mohan heard the petitions. Earlier, on the 13th of June, the Uttar Pradesh Government constituted a three-member SIT at the request of the Shri Ram Janmabhoomi Teerth Kshetra Trust following allegations of misappropriation of temple donations. The SIT comprises Lucknow Divisional Commissioner Vijay Vishwas Pant, Inspector General of Police Kiran S, and Special Secretary (Finance) Neel Ratan.",
+        "summary": "The Supreme Court directed the Special Investigation Team (SIT), constituted by the Uttar Pradesh Government, to submit a status report on alleged misappropriation of donations in Ram Janmbhumi Temple. The Court also issued notices to the Union Government, the Uttar Pradesh Government and the Shri Ram Janmabhoomi Teerth Kshetra Trust on petitions seeking a CBI […]",
+        "article": "The Supreme Court directed the Special Investigation Team (SIT), constituted by the Uttar Pradesh Government, to submit a status report on alleged misappropriation of donations in Ram Janmbhumi Temple. The Court also issued notices to the Union Government, the Uttar Pradesh Government and the Shri Ram Janmabhoomi Teerth Kshetra Trust on petitions seeking a CBI investigation into the alleged misappropriation of temple donations. A Bench comprising Chief Justice of India Surya Kant and Justices Joymalya Bagchi and V. Mohan heard the petitions. Earlier, on the 13th of June, the Uttar Pradesh Government constituted a three-member SIT at the request of the Shri Ram Janmabhoomi Teerth Kshetra Trust following allegations of misappropriation of temple donations. The SIT comprises Lucknow Divisional Commissioner Vijay Vishwas Pant, Inspector General of Police Kiran S, and Special Secretary (Finance) Neel Ratan.",
         "date": "2026-07-13",
         "pubDate": "2026-07-13T08:20:42+00:00",
         "link": "https://newsonair.gov.in/sc-seeks-status-report-of-the-sit-probing-alleged-misappropriation-of-donations-in-ram-janmbhumi-temple/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Ayodhya.jpg",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/18-2.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -292,78 +357,77 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/four-indigenous-naval-platforms-join-indian-navy-within-a-month/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/13-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Panchayati Raj Ministry holds national training on water budgeting and water security planning",
-        "summary": "Secretary, Ministry of Panchayati Raj, Vivek Bharadwaj, has emphasised the need for collective action to make the country self-reliant in water management. Addressing the inaugural session of the National-Level Training of Master Trainers Programme on Water Budgeting and Water Security Planning by Gram Panchayats in New Delhi, Mr Bharadwaj said meaningful change can be achieved […]",
-        "article": "Secretary, Ministry of Panchayati Raj, Vivek Bharadwaj, has emphasised the need for collective action to make the country self-reliant in water management. Addressing the inaugural session of the National-Level Training of Master Trainers Programme on Water Budgeting and Water Security Planning by Gram Panchayats in New Delhi, Mr Bharadwaj said meaningful change can be achieved when everyone works together towards a common goal. Describing the initiative as a significant step, he said the Ministry has been working on it for nearly one-and-a-half years. He urged the participants to actively engage in the training programme and apply the knowledge gained by undertaking water-related initiatives in their respective areas.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T07:12:35+00:00",
-        "link": "https://newsonair.gov.in/panchayati-raj-ministry-holds-national-training-on-water-budgeting-and-water-security-planning/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/12-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Health Ministry invites suggestions on draft National Health Research Policy",
-        "summary": "The Ministry of Health and Family Welfare has invited public comments and suggestions on the draft National Health Research Policy, which aims to provide a strategic framework for strengthening and guiding India&#8217;s health research ecosystem. The policy seeks to foster a trusted, inclusive, self-reliant and impact-oriented health research ecosystem that is responsive to the healthcare […]",
-        "article": "The Ministry of Health and Family Welfare has invited public comments and suggestions on the draft National Health Research Policy, which aims to provide a strategic framework for strengthening and guiding India&#8217;s health research ecosystem. The policy seeks to foster a trusted, inclusive, self-reliant and impact-oriented health research ecosystem that is responsive to the healthcare needs of the people. It aims to promote high-quality, ethical and innovative research while addressing national and emerging health priorities to improve health outcomes and equity. The draft policy proposes the creation of the National Health Research Agenda as the country&#8217;s central framework for health research. The Ministry said the draft policy has been prepared following extensive consultations with various stakeholders and incorporates their suggestions and recommendations. Comments and suggestions on the draft policy have been invited till the 27th of this month.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T06:25:31+00:00",
-        "link": "https://newsonair.gov.in/health-ministry-invites-suggestions-on-draft-national-health-research-policy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/The-Ministry-of-Health-and-Family-Welfare.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Government debunks fake internship claim circulating on social media",
-        "summary": "The Government has debunked a Google Form circulating on social media that falsely claims to offer an internship for doctors and other professionals, allegedly approved by the Ministry of Micro, Small and Medium Enterprises (MSME) and the Ministry of Corporate Affairs. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has clarified that the claim is […]",
-        "article": "The Government has debunked a Google Form circulating on social media that falsely claims to offer an internship for doctors and other professionals, allegedly approved by the Ministry of Micro, Small and Medium Enterprises (MSME) and the Ministry of Corporate Affairs. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has clarified that the claim is fake. It said neither the Ministry of MSME nor the Ministry of Corporate Affairs has issued any official notification or application form for such an internship programme. The PIB has urged people not to click on suspicious links or websites or share their personal information on unverified platforms. It has also advised citizens to rely only on official government websites and verified sources for authentic information.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T05:42:25+00:00",
-        "link": "https://newsonair.gov.in/government-debunks-fake-internship-claim-circulating-on-social-media/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Piyush Goyal to visit Spain, Belgium and Finland to strengthen economic ties",
-        "summary": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation on an official visit to Spain, Belgium and Finland from today till the 17th of this month. The visit aims to strengthen India&#8217;s economic partnerships with Europe, with a focus on trade, investment, technology, innovation and sustainability. In the first leg […]",
-        "article": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation on an official visit to Spain, Belgium and Finland from today till the 17th of this month. The visit aims to strengthen India&#8217;s economic partnerships with Europe, with a focus on trade, investment, technology, innovation and sustainability. In the first leg of the visit, Mr Goyal will travel to Spain today, where he will participate in a Business Roundtable with the Chamber of Commerce of Spain, the Spanish Confederation of Business Organisations (CEOE) and ICEX Spain Trade and Investment. The roundtable will bring together Indian and Spanish industry leaders to explore opportunities in the automotive, renewable energy, railways, artificial intelligence, semiconductors, food processing and tourism sectors. Mr Goyal will then visit Belgium on the 14th and 15th of this month. During the visit, he will hold meetings with the leadership of Thales Group and Silox Group. He will also participate in the India-EU Business Roundtable and the Trade and Technology Council Plenary. Discussions will focus on foreign investment, trade facilitation, sustainable technologies and resilient supply chains. In the final leg of the visit, the Minister will travel to Finland on the 16th and 17th of this month. He will attend the India-Finland Business Roundtable and visit leading Finnish companies and research institutions, including Nokia, Kone, Kemppi Group and VTT Technical Research Centre of Finland, to explore collaboration in telecommunications, advanced manufacturing, clean energy, mobility and innovation.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T03:00:34+00:00",
-        "link": "https://newsonair.gov.in/union-minister-piyush-goyal-to-visit-spain-belgium-and-finland-to-strengthen-economic-ties/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Union-Minister-Piyush-Goyal-Leads-High-Level-Indian-Business-Delegation-to-Greece.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ISRO successfully carries out three major tests of Gaganyaan crew module systems",
-        "summary": "The Indian Space Research Organisation (ISRO) has successfully carried out three major tests of the Gaganyaan Crew Module systems. The first test validated the Crew Module Uprighting System, which ensures that the crew module returns to an upright position after splashdown in the sea. The system, based on stored cold-gas technology, is a critical safety […]",
-        "article": "The Indian Space Research Organisation (ISRO) has successfully carried out three major tests of the Gaganyaan Crew Module systems. The first test validated the Crew Module Uprighting System, which ensures that the crew module returns to an upright position after splashdown in the sea. The system, based on stored cold-gas technology, is a critical safety feature for astronauts. The second test involved the separation of the umbilical mechanism that connects the crew module, where the astronauts are housed, with the service module, which provides power and propulsion. The mechanism consists of two units—CSU-1 on the crew module side and CSU-2 on the service module side. During the crew module&#8217;s re-entry into the Earth&#8217;s atmosphere, the service module separates from the crew module after CSU-1 disconnects. Subsequently, just before re-entry, CSU-2 also separates. ISRO carried out the separation test of CSU-2 from a simulated crew module. The test successfully demonstrated the clean separation of CSU-2, along with the structural stability of the crew module panel and its interfaces. The third test validated the structural integrity of the crew module during the separation of the apex cover. The apex cover protects the parachutes and associated systems during the mission and is jettisoned before parachute deployment to enable the safe descent of the crew module.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T02:13:59+00:00",
-        "link": "https://newsonair.gov.in/isro-successfully-carries-out-three-major-tests-of-gaganyaan-crew-module-systems/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NCW takes suo motu cognisance of Keralam student’s murder in Uzbekistan",
-        "summary": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of […]",
-        "article": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of Police, Keralam, seeking an expeditious investigation, coordination with the Ministry of External Affairs and the Indian Embassy in Tashkent, preservation of evidence, and comprehensive support for the bereaved family. The Commission has sought an Action Taken Report from the Kerala DGP within seven days. The NCW has also requested the Ambassador of India to Uzbekistan to extend all necessary assistance and coordinate with the concerned authorities to facilitate the legal process and ensure effective cooperation in the matter.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T05:14:13+00:00",
-        "link": "https://newsonair.gov.in/ncw-takes-suo-motu-cognisance-of-keralam-students-murder-in-uzbekistan/",
-        "post_id": 1735143,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "India, New Zealand Reaffirm Commitment to Stronger Parliamentary Cooperation",
+        "summary": "A delegation led by Mark Patterson, New Zealand&#8217;s Minister for Rural Communities, today met Lok Sabha Speaker Om Birla at Parliament House in New Delhi. In a social media post, Mr Birla said that the meeting underscored the importance of strengthening parliamentary exchanges and further deepening the longstanding ties between India and New Zealand. Mr […]",
+        "article": "A delegation led by Mark Patterson, New Zealand&#8217;s Minister for Rural Communities, today met Lok Sabha Speaker Om Birla at Parliament House in New Delhi. In a social media post, Mr Birla said that the meeting underscored the importance of strengthening parliamentary exchanges and further deepening the longstanding ties between India and New Zealand. Mr Birla added that during the visit to Parliament House, the delegation was introduced to India&#8217;s vibrant parliamentary democracy, rich democratic traditions and architectural grandeur.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T10:50:39+00:00",
+        "link": "https://newsonair.gov.in/india-new-zealand-reaffirm-commitment-to-stronger-parliamentary-cooperation/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/om.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, Poland discuss cooperation in trade, defence, technology",
+        "summary": "Secretary (West) in the External Affairs Ministry, Sibi George, today met with Polish Secretary of State, Ministry of Foreign Affairs, Wladyslaw Bartoszewski, and Under Secretary of State, Ministry of Economic Development and Technology, Michal Baranowski, in Delhi. &#160; The wide-ranging discussions reflected the depth of the India-Poland Strategic Partnership. Both sides reaffirmed their shared",
+        "article": "Secretary (West) in the External Affairs Ministry, Sibi George, today met with Polish Secretary of State, Ministry of Foreign Affairs, Wladyslaw Bartoszewski, and Under Secretary of State, Ministry of Economic Development and Technology, Michal Baranowski, in Delhi. &nbsp; The wide-ranging discussions reflected the depth of the India-Poland Strategic Partnership. Both sides reaffirmed their shared commitment to strengthening cooperation across political engagements, trade and investment, technology, defence, culture, the fight against global terrorism and other areas of mutual interest.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T10:18:29+00:00",
+        "link": "https://newsonair.gov.in/india-poland-discuss-cooperation-in-trade-defence-technology/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/sibi.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "VP Radhakrishnan briefed on NCC & Sainik Schools; Lauds NCC’s community service initiatives",
+        "summary": "Vice President CP Radhakrishnan was briefed on the National Cadet Corps and Sainik Schools by Minister of State for Defence Sanjay Seth at Uprashtrapati Bhavan today. Appreciating the NCC&#8217;s contribution to nation-building, the Vice President described the Cadet Exchange Programme under Ek Bharat Shreshtha Bharat as an excellent initiative for strengthening national integration. He also […]",
+        "article": "Vice President CP Radhakrishnan was briefed on the National Cadet Corps and Sainik Schools by Minister of State for Defence Sanjay Seth at Uprashtrapati Bhavan today. Appreciating the NCC&#8217;s contribution to nation-building, the Vice President described the Cadet Exchange Programme under Ek Bharat Shreshtha Bharat as an excellent initiative for strengthening national integration. He also lauded the NCC&#8217;s community service initiatives, including Nasha Mukt Bharat Abhiyan and Swachh Bharat Abhiyan. The Vice President also welcomed the establishment of the NCC Alumni Association.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T10:09:37+00:00",
+        "link": "https://newsonair.gov.in/vp-radhakrishnan-briefed-on-ncc-lauds-nccs-community-service-initiatives/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/VP-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, Japan review progress in defence cooperation at 8th Defence Policy Dialogue",
+        "summary": "India and Japan today reiterated their commitment to promote a free, open and rules-based Indo-Pacific region. During the 8th Defence Policy Dialogue held in Tokyo, Japan, the two countries held comprehensive discussions on the prevailing regional and global security environment and exchanged views on issues of mutual interest. The Indian delegation was led by Defence […]",
+        "article": "India and Japan today reiterated their commitment to promote a free, open and rules-based Indo-Pacific region. During the 8th Defence Policy Dialogue held in Tokyo, Japan, the two countries held comprehensive discussions on the prevailing regional and global security environment and exchanged views on issues of mutual interest. The Indian delegation was led by Defence Secretary Rajesh Kumar Singh and the Japanese delegation was led by Vice Minister of Defence for International Affairs Kano Koji. During the dialogue, both sides reviewed the significant progress made in bilateral defence cooperation since the previous Defence Policy Dialogue. The two sides discussed ways to deepen cooperation in emerging domains, including defence industrial collaboration, technological innovation, cyber security, space, and other areas of shared strategic interest. &nbsp; The dialogue reviewed the entire spectrum of bilateral defence engagements, including military-to-military exchanges, co-operation between joint headquarters, maritime cooperation, defence exercises, capacity building, defence equipment and technology cooperation including maritime technology, and enhanced institutional interactions. Both sides welcomed the steady expansion of defence cooperation and underscored the importance of maintaining regular high-level exchanges and dialogue mechanisms. They discussed probable outcomes for the forthcoming ministerial visits, including 2+2 later this year. &nbsp; The defence secretary appreciated Japan&#8217;s continued engagement with India in the defence sector and highlighted the importance of strengthening practical cooperation under the framework of the India-Japan Special Strategic and Global Partnership. Mr. Kano Koji reaffirmed Japan&#8217;s commitment to further expanding defence ties with India across priority areas. Earlier in the day, Defence secretary called on Japanese Minister of Defence Mr Shinjiro Koizumi, and conveyed greetings of Defence Minister Rajnath Singh. Both sides reaffirmed the growing momentum of India-Japan Special Strategic and Global Partnership.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T10:04:01+00:00",
+        "link": "https://newsonair.gov.in/india-japan-review-progress-in-defence-cooperation-at-8th-defence-policy-dialogue/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/defence.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government releases Digital Threat Report 2025–26 for financial sector",
+        "summary": "The Government today emphasised that cybersecurity risks in the financial services sector are no longer limited to data theft or isolated breaches. The Ministry of Electronics and Information Technology (MeitY), in its Digital Threat Report 2025–26, said cyber risks now extend to transaction integrity, customer trust, third-party dependencies, decision-making systems, operational continuity and co",
+        "article": "The Government today emphasised that cybersecurity risks in the financial services sector are no longer limited to data theft or isolated breaches. The Ministry of Electronics and Information Technology (MeitY), in its Digital Threat Report 2025–26, said cyber risks now extend to transaction integrity, customer trust, third-party dependencies, decision-making systems, operational continuity and confidence in the digital infrastructure that underpins economic activity. The report was released in New Delhi by Secretary, Ministry of Electronics and Information Technology, S. Krishnan, along with Director General of the Indian Computer Emergency Response Team (CERT-In), Dr Sanjay Bahl. Speaking at the launch, Mr Krishnan highlighted the growing cyber risks associated with the rapid digital transformation of the financial sector. He said the Indian Computer Emergency Response Team (CERT-In) and the Computer Security Incident Response Team–Finance Sector (CSIRT-Fin) play a vital role in mitigating these risks by working closely with regulators, industry stakeholders and global cybersecurity organisations to ensure the timely detection, response and recovery from cyber incidents. The Digital Threat Report 2025–26 provides a comprehensive assessment of the cybersecurity landscape in the Banking, Financial Services and Insurance (BFSI) sector. It identifies sector-wide security gaps and offers a forward-looking analysis of emerging cyber risks, equipping financial institutions with insights to prepare for current and future cyber threats. The report describes itself as a call to action for financial institutions, regulators and cybersecurity professionals to adopt a proactive approach to tackling evolving cyber threats.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:56:48+00:00",
+        "link": "https://newsonair.gov.in/government-releases-digital-threat-report-2025-26-for-financial-sector/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/5.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Bharat Tex 2026 to begin tomorrow in New Delhi",
+        "summary": "India&#8217;s largest global textile event, Bharat Tex 2026, will begin tomorrow at Bharat Mandapam in New Delhi. The four-day event will showcase India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. The event will bring together manufacturers, exporters, global buyers, investors, policymakers, international deleg",
+        "article": "India&#8217;s largest global textile event, Bharat Tex 2026, will begin tomorrow at Bharat Mandapam in New Delhi. The four-day event will showcase India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. The event will bring together manufacturers, exporters, global buyers, investors, policymakers, international delegations, artisans, start-ups and technology providers. Addressing a press conference in New Delhi, Chairman of the Bharat Tex Trade Federation, Naren Goenka, said the third edition of Bharat Tex is expected to witness the participation of more than 7,000 buyers, over 1.3 lakh trade visitors and exhibitors showcasing more than 20,000 textile products. He said international exhibitors from 14 countries, including the United States, the United Kingdom, Japan, Portugal, Spain, New Zealand, South Korea, South Africa and Nepal, will participate in the event. Inspired by Prime Minister Narendra Modi&#8217;s 5F vision – Farm to Fibre to Factory to Fashion to Foreign – Bharat Tex has evolved into a premier global platform for business, investment, innovation, policy dialogue and strategic partnerships across the textile value chain.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:43:39+00:00",
+        "link": "https://newsonair.gov.in/bharat-tex-2026-to-begin-tomorrow-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/17.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "SC says citizenship determination must follow due process; sets aside 27 foreigner rulings",
         "summary": "The Supreme Court today ruled that the process of determining citizenship or declaring an individual a foreigner must be fair, while hearing a batch of petitions filed by 27 people who had been declared &#8220;foreigners&#8221; by Foreigners Tribunals in Assam. . A bench of Justice Vikram Nath and Justice Sandeep Mehta set aside the orders […]",
         "article": "The Supreme Court today ruled that the process of determining citizenship or declaring an individual a foreigner must be fair, while hearing a batch of petitions filed by 27 people who had been declared &#8220;foreigners&#8221; by Foreigners Tribunals in Assam. . A bench of Justice Vikram Nath and Justice Sandeep Mehta set aside the orders of the Gauhati High Court and the Foreigners Tribunals in the 27 cases. The Supreme Court said that the process of deciding citizenship or declaring a person a foreigner must be fair and cannot compromise judicial principles. It acknowledged that the State has a legitimate and compelling interest in ensuring that those not legally entitled to Indian citizenship do not obtain it through false claims, misuse of legal process, or delay, but stressed that due process must prevail. It directed that no coercive action be taken against the petitioners until the tribunals rehear their cases. Among the petitioners were Sabitri Dey, Ajbahar Ali, Md Akbar Ali, Abeda Khatun and Anowara Khatun, who argued that they had been declared foreigners on hyper-technical grounds and minor discrepancies. The petitioners had challenged the tribunal orders before the Gauhati High Court and later the Supreme Court, relying on documents such as pre-1971 legacy records, electoral rolls and land records to establish their Indian citizenship.",
@@ -376,12 +440,12 @@ window.VM_NEWS = {
       },
       {
         "title": "SC seeks status report of the SIT probing alleged misappropriation of donations in Ram Janmbhumi Temple",
-        "summary": "The Supreme Court directed the Special Investigation Team (SIT), constituted by the Uttar Pradesh Government, to submit a status report on its probe into the alleged embezzlement of donations meant for the Ayodhya Ram Mandir. The Court also issued notices to the Union Government, the Uttar Pradesh Government and the Shri Ram Janmabhoomi Teerth Kshetra […]",
-        "article": "The Supreme Court directed the Special Investigation Team (SIT), constituted by the Uttar Pradesh Government, to submit a status report on its probe into the alleged embezzlement of donations meant for the Ayodhya Ram Mandir. The Court also issued notices to the Union Government, the Uttar Pradesh Government and the Shri Ram Janmabhoomi Teerth Kshetra Trust on petitions seeking a CBI investigation into the alleged misappropriation of temple donations. A Bench comprising Chief Justice of India Surya Kant and Justices Joymalya Bagchi and V. Mohan heard the petitions. Earlier, on the 13th of June, the Uttar Pradesh Government constituted a three-member SIT at the request of the Shri Ram Janmabhoomi Teerth Kshetra Trust following allegations of misappropriation of temple donations. The SIT comprises Lucknow Divisional Commissioner Vijay Vishwas Pant, Inspector General of Police Kiran S, and Special Secretary (Finance) Neel Ratan.",
+        "summary": "The Supreme Court directed the Special Investigation Team (SIT), constituted by the Uttar Pradesh Government, to submit a status report on alleged misappropriation of donations in Ram Janmbhumi Temple. The Court also issued notices to the Union Government, the Uttar Pradesh Government and the Shri Ram Janmabhoomi Teerth Kshetra Trust on petitions seeking a CBI […]",
+        "article": "The Supreme Court directed the Special Investigation Team (SIT), constituted by the Uttar Pradesh Government, to submit a status report on alleged misappropriation of donations in Ram Janmbhumi Temple. The Court also issued notices to the Union Government, the Uttar Pradesh Government and the Shri Ram Janmabhoomi Teerth Kshetra Trust on petitions seeking a CBI investigation into the alleged misappropriation of temple donations. A Bench comprising Chief Justice of India Surya Kant and Justices Joymalya Bagchi and V. Mohan heard the petitions. Earlier, on the 13th of June, the Uttar Pradesh Government constituted a three-member SIT at the request of the Shri Ram Janmabhoomi Teerth Kshetra Trust following allegations of misappropriation of temple donations. The SIT comprises Lucknow Divisional Commissioner Vijay Vishwas Pant, Inspector General of Police Kiran S, and Special Secretary (Finance) Neel Ratan.",
         "date": "2026-07-13",
         "pubDate": "2026-07-13T08:20:42+00:00",
         "link": "https://newsonair.gov.in/sc-seeks-status-report-of-the-sit-probing-alleged-misappropriation-of-donations-in-ram-janmbhumi-temple/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Ayodhya.jpg",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/18-2.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -405,73 +469,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/four-indigenous-naval-platforms-join-indian-navy-within-a-month/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/13-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Panchayati Raj Ministry holds national training on water budgeting and water security planning",
-        "summary": "Secretary, Ministry of Panchayati Raj, Vivek Bharadwaj, has emphasised the need for collective action to make the country self-reliant in water management. Addressing the inaugural session of the National-Level Training of Master Trainers Programme on Water Budgeting and Water Security Planning by Gram Panchayats in New Delhi, Mr Bharadwaj said meaningful change can be achieved […]",
-        "article": "Secretary, Ministry of Panchayati Raj, Vivek Bharadwaj, has emphasised the need for collective action to make the country self-reliant in water management. Addressing the inaugural session of the National-Level Training of Master Trainers Programme on Water Budgeting and Water Security Planning by Gram Panchayats in New Delhi, Mr Bharadwaj said meaningful change can be achieved when everyone works together towards a common goal. Describing the initiative as a significant step, he said the Ministry has been working on it for nearly one-and-a-half years. He urged the participants to actively engage in the training programme and apply the knowledge gained by undertaking water-related initiatives in their respective areas.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T07:12:35+00:00",
-        "link": "https://newsonair.gov.in/panchayati-raj-ministry-holds-national-training-on-water-budgeting-and-water-security-planning/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/12-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Health Ministry invites suggestions on draft National Health Research Policy",
-        "summary": "The Ministry of Health and Family Welfare has invited public comments and suggestions on the draft National Health Research Policy, which aims to provide a strategic framework for strengthening and guiding India&#8217;s health research ecosystem. The policy seeks to foster a trusted, inclusive, self-reliant and impact-oriented health research ecosystem that is responsive to the healthcare […]",
-        "article": "The Ministry of Health and Family Welfare has invited public comments and suggestions on the draft National Health Research Policy, which aims to provide a strategic framework for strengthening and guiding India&#8217;s health research ecosystem. The policy seeks to foster a trusted, inclusive, self-reliant and impact-oriented health research ecosystem that is responsive to the healthcare needs of the people. It aims to promote high-quality, ethical and innovative research while addressing national and emerging health priorities to improve health outcomes and equity. The draft policy proposes the creation of the National Health Research Agenda as the country&#8217;s central framework for health research. The Ministry said the draft policy has been prepared following extensive consultations with various stakeholders and incorporates their suggestions and recommendations. Comments and suggestions on the draft policy have been invited till the 27th of this month.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T06:25:31+00:00",
-        "link": "https://newsonair.gov.in/health-ministry-invites-suggestions-on-draft-national-health-research-policy/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/The-Ministry-of-Health-and-Family-Welfare.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Government debunks fake internship claim circulating on social media",
-        "summary": "The Government has debunked a Google Form circulating on social media that falsely claims to offer an internship for doctors and other professionals, allegedly approved by the Ministry of Micro, Small and Medium Enterprises (MSME) and the Ministry of Corporate Affairs. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has clarified that the claim is […]",
-        "article": "The Government has debunked a Google Form circulating on social media that falsely claims to offer an internship for doctors and other professionals, allegedly approved by the Ministry of Micro, Small and Medium Enterprises (MSME) and the Ministry of Corporate Affairs. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has clarified that the claim is fake. It said neither the Ministry of MSME nor the Ministry of Corporate Affairs has issued any official notification or application form for such an internship programme. The PIB has urged people not to click on suspicious links or websites or share their personal information on unverified platforms. It has also advised citizens to rely only on official government websites and verified sources for authentic information.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T05:42:25+00:00",
-        "link": "https://newsonair.gov.in/government-debunks-fake-internship-claim-circulating-on-social-media/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Piyush Goyal to visit Spain, Belgium and Finland to strengthen economic ties",
-        "summary": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation on an official visit to Spain, Belgium and Finland from today till the 17th of this month. The visit aims to strengthen India&#8217;s economic partnerships with Europe, with a focus on trade, investment, technology, innovation and sustainability. In the first leg […]",
-        "article": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation on an official visit to Spain, Belgium and Finland from today till the 17th of this month. The visit aims to strengthen India&#8217;s economic partnerships with Europe, with a focus on trade, investment, technology, innovation and sustainability. In the first leg of the visit, Mr Goyal will travel to Spain today, where he will participate in a Business Roundtable with the Chamber of Commerce of Spain, the Spanish Confederation of Business Organisations (CEOE) and ICEX Spain Trade and Investment. The roundtable will bring together Indian and Spanish industry leaders to explore opportunities in the automotive, renewable energy, railways, artificial intelligence, semiconductors, food processing and tourism sectors. Mr Goyal will then visit Belgium on the 14th and 15th of this month. During the visit, he will hold meetings with the leadership of Thales Group and Silox Group. He will also participate in the India-EU Business Roundtable and the Trade and Technology Council Plenary. Discussions will focus on foreign investment, trade facilitation, sustainable technologies and resilient supply chains. In the final leg of the visit, the Minister will travel to Finland on the 16th and 17th of this month. He will attend the India-Finland Business Roundtable and visit leading Finnish companies and research institutions, including Nokia, Kone, Kemppi Group and VTT Technical Research Centre of Finland, to explore collaboration in telecommunications, advanced manufacturing, clean energy, mobility and innovation.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T03:00:34+00:00",
-        "link": "https://newsonair.gov.in/union-minister-piyush-goyal-to-visit-spain-belgium-and-finland-to-strengthen-economic-ties/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/Union-Minister-Piyush-Goyal-Leads-High-Level-Indian-Business-Delegation-to-Greece.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ISRO successfully carries out three major tests of Gaganyaan crew module systems",
-        "summary": "The Indian Space Research Organisation (ISRO) has successfully carried out three major tests of the Gaganyaan Crew Module systems. The first test validated the Crew Module Uprighting System, which ensures that the crew module returns to an upright position after splashdown in the sea. The system, based on stored cold-gas technology, is a critical safety […]",
-        "article": "The Indian Space Research Organisation (ISRO) has successfully carried out three major tests of the Gaganyaan Crew Module systems. The first test validated the Crew Module Uprighting System, which ensures that the crew module returns to an upright position after splashdown in the sea. The system, based on stored cold-gas technology, is a critical safety feature for astronauts. The second test involved the separation of the umbilical mechanism that connects the crew module, where the astronauts are housed, with the service module, which provides power and propulsion. The mechanism consists of two units—CSU-1 on the crew module side and CSU-2 on the service module side. During the crew module&#8217;s re-entry into the Earth&#8217;s atmosphere, the service module separates from the crew module after CSU-1 disconnects. Subsequently, just before re-entry, CSU-2 also separates. ISRO carried out the separation test of CSU-2 from a simulated crew module. The test successfully demonstrated the clean separation of CSU-2, along with the structural stability of the crew module panel and its interfaces. The third test validated the structural integrity of the crew module during the separation of the apex cover. The apex cover protects the parachutes and associated systems during the mission and is jettisoned before parachute deployment to enable the safe descent of the crew module.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T02:13:59+00:00",
-        "link": "https://newsonair.gov.in/isro-successfully-carries-out-three-major-tests-of-gaganyaan-crew-module-systems/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NCW takes suo motu cognisance of Keralam student’s murder in Uzbekistan",
-        "summary": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of […]",
-        "article": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of Police, Keralam, seeking an expeditious investigation, coordination with the Ministry of External Affairs and the Indian Embassy in Tashkent, preservation of evidence, and comprehensive support for the bereaved family. The Commission has sought an Action Taken Report from the Kerala DGP within seven days. The NCW has also requested the Ambassador of India to Uzbekistan to extend all necessary assistance and coordinate with the concerned authorities to facilitate the legal process and ensure effective cooperation in the matter.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T05:14:13+00:00",
-        "link": "https://newsonair.gov.in/ncw-takes-suo-motu-cognisance-of-keralam-students-murder-in-uzbekistan/",
-        "post_id": 1735143,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -1028,6 +1025,61 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं: सरकार",
+        "summary": "सरकार ने कहा है कि वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं हैं। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने अपनी डिजिटल थ्रेट रिपोर्ट 2025-26 में कहा है कि साइबर सुरक्षा जोखिम अब लेन-देन में विश्‍वसनीयता, ग्राहक विश्वास, तृतीय-पक्ष निर्भरता, निर्णय लेने वाली प्रणालियों, परिचालन निरंतरता और […]",
+        "article": "सरकार ने कहा है कि वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं हैं। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने अपनी डिजिटल थ्रेट रिपोर्ट 2025-26 में कहा है कि साइबर सुरक्षा जोखिम अब लेन-देन में विश्&#x200d;वसनीयता, ग्राहक विश्वास, तृतीय-पक्ष निर्भरता, निर्णय लेने वाली प्रणालियों, परिचालन निरंतरता और आर्थिक गतिविधियों को आधार प्रदान करने वाले डिजिटल बुनियादी ढांचे में विश्वास तक विस्तारित हो गए हैं। यह रिपोर्ट आज नई दिल्ली में इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सचिव एस. कृष्णन और भारतीय कंप्यूटर आपात कार्रवाई दल-सीईआरटीआईएन के महानिदेशक डॉ. संजय बहल द्वारा जारी की गई।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T11:21:12+00:00",
+        "link": "https://newsonair.gov.in/hi/cybersecurity-risks-in-financial-services-are-no-longer-limited-to-just-data-theft-or-sporadic-breaches-government/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सर्वोच्च न्यायालय ने कहा- नागरिकता का निर्धारण निष्पक्ष होना चाहिए; 27 अपीलकर्ताओं को विदेशी घोषित करने के फैसले को रद्द किया",
+        "summary": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया […]",
+        "article": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया जाना चाहिए। न्यायमूर्ति विक्रम नाथ और न्यायमूर्ति संदीप मेहता की पीठ ने 27 मामलों में गुवाहाटी उच्च न्यायालय और विदेशी न्यायाधिकरणों के आदेशों को रद्द कर दिया। सर्वोच्च न्यायालय ने कहा कि नागरिकता तय करने या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए और न्यायिक सिद्धांतों से समझौता नहीं किया जा सकता। न्यायालय ने निर्देश दिया कि न्यायाधिकरणों द्वारा उनके मामलों की पुन: सुनवाई होने तक याचिकाकर्ताओं के खिलाफ कोई दंडात्मक कार्रवाई न की जाए। याचिकाकर्ताओं में सबित्री डे, अजबहार अली, मोहम्मद अकबर अली, अबेदा खातून और अनवारा खातून शामिल थे। इनका तर्क था कि उन्हें अति तकनीकी आधारों और मामूली विसंगतियों के आधार पर विदेशी घोषित किया गया था। याचिकाकर्ताओं ने गुवाहाटी उच्च न्यायालय और बाद में सर्वोच्च न्यायालय में न्यायाधिकरण के आदेशों को चुनौती दी थी। अपनी भारतीय नागरिकता साबित करने के लिए 1971 से पहले के अभिलेखों, मतदाता सूचियों और भूमि अभिलेखों जैसे दस्तावेजों का सहारा लिया था।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:55:42+00:00",
+        "link": "https://newsonair.gov.in/hi/the-supreme-court-stated-that-the-determination-of-citizenship-must-be-impartial-it-set-aside-the-decision-declaring-27-appellants-as-foreigners/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/exclusion-from-temple-may-divide-society-impact-hinduism-says-supreme-court-2026-04-10-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वियतनाम में नाव दुर्घटना में मारे गए 15 भारतीय नागरिकों के पार्थिव शरीर आज विशेष विमान से भारत पहुंचेंगे",
+        "summary": "वियतनाम के फु क्वोक द्वीप के पास नाव पलटने की घटना में जान गंवाने वाले 15 भारतीय पर्यटकों के पार्थिव शरीर को आज भारत वापस लाया जाएगा। वियतनाम स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि हवाई जहाज स्थानीय समयानुसार शाम 6 बजे हो ची मिन्ह शहर से रवाना होगी और मुंबई के […]",
+        "article": "वियतनाम के फु क्वोक द्वीप के पास नाव पलटने की घटना में जान गंवाने वाले 15 भारतीय पर्यटकों के पार्थिव शरीर को आज भारत वापस लाया जाएगा। वियतनाम स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि हवाई जहाज स्थानीय समयानुसार शाम 6 बजे हो ची मिन्ह शहर से रवाना होगी और मुंबई के छत्रपति शिवाजी महाराज अंतरराष्ट्रीय हवाई अड्डे पर भारतीय समयानुसार रात करीब साढे नौ बजे पहुंचेगी। दूतावास ने कहा कि संबंधित राज्य सरकारों से अनुरोध किया गया है कि वे पार्थिव शरीर को अंतिम संस्कार के लिए पीडित परिवारों के साथ समन्वय स्थापित करें। &nbsp; &nbsp;",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:51:27+00:00",
+        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indian-nationals-who-died-in-a-boat-accident-in-vietnam-will-arrive-in-india-tonight-on-a-special-flight/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/10-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत टेक्स 2026 कल से नई दिल्ली के भारत मंडपम में होगा शुरू",
+        "summary": "भारत की सबसे बड़ी वैश्विक वस्त्र प्रदर्शनी, भारत टेक्स 2026, कल से नई दिल्ली के भारत मंडपम में शुरू होगा। चार दिवसीय इस आयोजन में वस्त्र, फैशन, स्थिरता, प्रौद्योगिकी, नवाचार, निवेश और अंतरराष्ट्रीय व्यापार के क्षेत्र में भारत के बढ़ते वैश्विक नेतृत्व का प्रदर्शन किया जाएगा। यह आयोजन निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, […]",
+        "article": "भारत की सबसे बड़ी वैश्विक वस्त्र प्रदर्शनी, भारत टेक्स 2026, कल से नई दिल्ली के भारत मंडपम में शुरू होगा। चार दिवसीय इस आयोजन में वस्त्र, फैशन, स्थिरता, प्रौद्योगिकी, नवाचार, निवेश और अंतरराष्ट्रीय व्यापार के क्षेत्र में भारत के बढ़ते वैश्विक नेतृत्व का प्रदर्शन किया जाएगा। यह आयोजन निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, अंतरराष्ट्रीय प्रतिनिधिमंडलों, कारीगरों, स्टार्टअप्स और प्रौद्योगिकी प्रदाताओं को एक साथ लाएगा। आज नई दिल्ली में एक संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए, भारत टेक्स ट्रेड फेडरेशन के अध्यक्ष, नरेन गोयनका ने कहा कि भारत टेक्स 2026 के तीसरे संस्करण में सात हजार से अधिक खरीदारों, एक लाख 30 हजार व्यापार आगंतुकों और 20 हजार से अधिक वस्त्र उत्पादों की भागीदारी की उम्मीद है। इस आयोजन में 14 देशों के अंतरराष्ट्रीय प्रदर्शक भाग लेंगे। हमारे संवाददाता की रिपोर्ट है कि इस आयोजन में ग्यारह राज्य भाग ले रहे हैं। प्रधानमंत्री नरेंद्र मोदी के 5 एफ विजन &#8211; फार्म टू फाइबर टू फैक्ट्री टू फैशन टू फॉरेन &#8211; से प्रेरित होकर, भारत टेक्स 2026 कपड़ा मूल्य श्रृंखला में व्यापार, निवेश, नवाचार, नीतिगत संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख वैश्विक मंच के रूप में विकसित हुआ है।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:48:00+00:00",
+        "link": "https://newsonair.gov.in/hi/bharat-tex-2026-will-begin-tomorrow-at-bharat-mandapam-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/17.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय मंत्री जी. किशन रेड्डी ने तेलंगाना पार्टी मुख्यालय से दो दिवसीय ‘सिंगारेनी भरोसा यात्रा’ का शुभारंभ किया",
+        "summary": "केंद्रीय कोयला एवं खान मंत्री जी. किशन रेड्डी ने भाजपा के तेलंगाना प्रदेश अध्यक्ष एन. रामचंद्र राव के साथ राज्य पार्टी मुख्यालय से दो दिवसीय &#8216;सिंगारेनी भरोसा यात्रा&#8217; का शुभारंभ किया। कल तक चलने वाली इस यात्रा का उद्देश्य 50 हजार से अधिक स्थायी सिंगारेनी कर्मचारियों और 30 हजार से अधिक संविदा एवं आउटसोर्सिंग कर्मचारियों […]",
+        "article": "केंद्रीय कोयला एवं खान मंत्री जी. किशन रेड्डी ने भाजपा के तेलंगाना प्रदेश अध्यक्ष एन. रामचंद्र राव के साथ राज्य पार्टी मुख्यालय से दो दिवसीय &#8216;सिंगारेनी भरोसा यात्रा&#8217; का शुभारंभ किया। कल तक चलने वाली इस यात्रा का उद्देश्य 50 हजार से अधिक स्थायी सिंगारेनी कर्मचारियों और 30 हजार से अधिक संविदा एवं आउटसोर्सिंग कर्मचारियों को उनके भविष्य की सुरक्षा के प्रति आश्वस्त करना है। कोथागुडेम क्लब में आयोजित एक कर्मचारी सम्मेलन में केंद्रीय मंत्री किशन रेड्डी ने सिंगारेनी कोलियरीज कंपनी लिमिटेड (एससीसीएल) को ताडिचेरला-II कोयला ब्लॉक के ऐतिहासिक आवंटन पर प्रकाश डाला। उन्होंने कहा कि सर्वोच्च न्यायालय के 2014 के उस आदेश के बाद, जिसमें पिछली यूपीए सरकार के दौरान भ्रष्टाचार पर अंकुश लगाने के लिए सभी कोयला ब्लॉकों के लिए प्रतिस्पर्धी बोली अनिवार्य की गई थी, ताडिचेरला-II देश का एकमात्र कोयला ब्लॉक है जिसे बिना नीलामी के सीधे सार्वजनिक क्षेत्र की कंपनी को आवंटित किया गया है। उन्होंने इस ऐतिहासिक निर्णय के लिए प्रधानमंत्री नरेन्&#x200d;द्र मोदी के तेलंगाना और सिंगारेनी के भविष्य के प्रति विशेष ध्यान को श्रेय दिया।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:47:35+00:00",
+        "link": "https://newsonair.gov.in/hi/union-minister-g-kishan-reddy-flagged-off-the-two-day-singareni-bharosa-yatra-from-the-party-headquarters-in-telangana/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/g-kishan-reddy-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "सेल फोर्थ 250 समारोह में सफल भागीदारी बाद आईएनएस सुदर्शनी बोस्टन पहुंचा",
         "summary": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी न्यूयॉर्क में आयोजित सेल फोर्थ 250 समारोह में सफल भागीदारी के बाद अमरीका के बोस्टन पहुंच गया है। पोत कल बोस्टन पहुंचा और &#8216;सेल बोस्टन 2026&#8217; के शुभारंभ के उपलक्ष्य में आयोजित &#8216;ग्रैंड परेड ऑफ सेल्स&#8217; में भाग लिया। रक्षा मंत्रालय ने बताया कि आईएनएस सुदर्शनी 20 […]",
         "article": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी न्यूयॉर्क में आयोजित सेल फोर्थ 250 समारोह में सफल भागीदारी के बाद अमरीका के बोस्टन पहुंच गया है। पोत कल बोस्टन पहुंचा और &#8216;सेल बोस्टन 2026&#8217; के शुभारंभ के उपलक्ष्य में आयोजित &#8216;ग्रैंड परेड ऑफ सेल्स&#8217; में भाग लिया। रक्षा मंत्रालय ने बताया कि आईएनएस सुदर्शनी 20 से अधिक देशों के 60 से अधिक बड़े पोतों के अंतरराष्ट्रीय बेड़े में शामिल हो गया है। यह भारत में चल रहे &#8216;लोकयान 2026&#8217; समुद्री अभियान के दौरान सद्भावना के समुद्री राजदूत के रूप में भारत का प्रतिनिधित्व कर रहा है। मंत्रालय ने बताया कि पोत 15 जुलाई तक आगंतुकों के लिए खुला रहेगा। मंत्रालय ने कहा कि &#8216;सेल बोस्टन 2026&#8217; में आईएनएस सुदर्शनी की भागीदारी भारत-अमरीका की बढ़ती समुद्री साझेदारी को और मजबूत करती है और वैश्विक मंच पर भारत की समृद्ध समुद्री विरासत को प्रदर्शित करती है।",
@@ -1035,17 +1087,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T08:37:33+00:00",
         "link": "https://newsonair.gov.in/hi/ins-sudarshini-arrived-in-boston-after-successfully-participating-in-the-sail-fourth-250-event/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNFuQBbbYAApNWk.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "नागरिकता निर्धारण की प्रक्रिया निष्पक्ष होनी चाहिए: सर्वोच्च न्यायालय",
-        "summary": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया […]",
-        "article": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया जाना चाहिए। न्यायमूर्ति विक्रम नाथ और न्यायमूर्ति संदीप मेहता की पीठ ने 27 मामलों में गुवाहाटी उच्च न्यायालय और विदेशी न्यायाधिकरणों के आदेशों को रद्द कर दिया। सर्वोच्च न्यायालय ने कहा कि नागरिकता तय करने या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए और न्यायिक सिद्धांतों से समझौता नहीं किया जा सकता। न्यायालय ने निर्देश दिया कि न्यायाधिकरणों द्वारा उनके मामलों की पुन: सुनवाई होने तक याचिकाकर्ताओं के खिलाफ कोई दंडात्मक कार्रवाई न की जाए। याचिकाकर्ताओं में सबित्री डे, अजबहार अली, मोहम्मद अकबर अली, अबेदा खातून और अनवारा खातून शामिल थे। इनका तर्क था कि उन्हें अति तकनीकी आधारों और मामूली विसंगतियों के आधार पर विदेशी घोषित किया गया था। याचिकाकर्ताओं ने गुवाहाटी उच्च न्यायालय और बाद में सर्वोच्च न्यायालय में न्यायाधिकरण के आदेशों को चुनौती दी थी। अपनी भारतीय नागरिकता साबित करने के लिए 1971 से पहले के अभिलेखों, मतदाता सूचियों और भूमि अभिलेखों जैसे दस्तावेजों का सहारा लिया था।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T08:00:42+00:00",
-        "link": "https://newsonair.gov.in/hi/the-process-of-determining-citizenship-must-be-fair-supreme-court/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/exclusion-from-temple-may-divide-society-impact-hinduism-says-supreme-court-2026-04-10-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1114,53 +1155,64 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "उज्बेकिस्तान में केरलम् की मेडिकल छात्रा की हत्या पर राष्ट्रीय महिला आयोग ने लिया स्वत: संज्ञान",
-        "summary": "राष्‍ट्रीय महिला आयोग ने केरलम् की 21 वर्षीय मेडिकल छात्रा की उजबेकिस्‍तान में यातना और हत्‍या से जुड़ी खबर का स्‍वत: संज्ञान लिया। आयोग ने उसके साथ मार-पीट, यातना और जबरन धर्मांतरण की कोशिश से हुई मौत के आरोपों पर चिंता व्‍यक्‍त की है। आयोग ने इस संबंध में केरलम् के पुलिस महानिदेशक को पत्र […]",
-        "article": "राष्&#x200d;ट्रीय महिला आयोग ने केरलम् की 21 वर्षीय मेडिकल छात्रा की उजबेकिस्&#x200d;तान में यातना और हत्&#x200d;या से जुड़ी खबर का स्&#x200d;वत: संज्ञान लिया। आयोग ने उसके साथ मार-पीट, यातना और जबरन धर्मांतरण की कोशिश से हुई मौत के आरोपों पर चिंता व्&#x200d;यक्&#x200d;त की है। आयोग ने इस संबंध में केरलम् के पुलिस महानिदेशक को पत्र लिखकर विदेश मंत्रालय और ताशकंद में भारतीय दूतावास के साथ समन्&#x200d;वय कर मामले में तेजी से जांच कराने तथा साक्ष्&#x200d;यों का संरक्षण और शोक संतप्&#x200d;त परिवार को व्&#x200d;यापक समर्थन देने को कहा है। राष्&#x200d;ट्रीय महिला आयोग ने केरलम् के पुलिस महानिदेशक से की गई कार्रवाई पर सात दिन के भीतर रिपोर्ट देने को कहा है। आयोग ने उजबेकिस्&#x200d;तान में भारतीय दूतावास से भी इस मामले में सभी आवश्&#x200d;यक सहायता और कानूनी कार्रवाई में सहयोग देने का आग्रह किया है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T06:22:35+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%89%e0%a4%9c%e0%a5%8d%e0%a4%ac%e0%a5%87%e0%a4%95%e0%a4%bf%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%a8-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%95%e0%a5%87%e0%a4%b0%e0%a4%b2%e0%a4%ae%e0%a5%8d/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/NCW-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने फर्जी इंटर्नशिप वाले गूगल फॉर्म का किया खंडन",
-        "summary": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे एक गूगल फॉर्म का खंडन किया है, जिसमें डॉक्टरों और अन्य पेशेवरों के लिए इंटर्नशिप देने का झूठा दावा किया गया था। यह इंटर्नशिप कथित तौर पर सूक्ष्म, लघु एवं मध्यम उद्यम मंत्रालय और कॉर्पोरेट मामलों के मंत्रालय द्वारा अनुमोदित बताई गई थी। पत्र सूचना कार्यालय-पीआईबी की […]",
-        "article": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे एक गूगल फॉर्म का खंडन किया है, जिसमें डॉक्टरों और अन्य पेशेवरों के लिए इंटर्नशिप देने का झूठा दावा किया गया था। यह इंटर्नशिप कथित तौर पर सूक्ष्म, लघु एवं मध्यम उद्यम मंत्रालय और कॉर्पोरेट मामलों के मंत्रालय द्वारा अनुमोदित बताई गई थी। पत्र सूचना कार्यालय-पीआईबी की तथ्&#x200d;य जांच इकाई ने स्पष्ट किया है कि यह दावा फर्जी है। पीआईबी ने बताया कि एमएसएमई मंत्रालय या कॉर्पोरेट मामलों के मंत्रालय द्वारा ऐसे किसी इंटर्नशिप कार्यक्रम के लिए कोई आधिकारिक अधिसूचना या आवेदन पत्र जारी नहीं किया गया है। पीआईबी ने नागरिकों से आग्रह किया है कि वे संदिग्ध लिंक या वेबपेजों पर क्लिक न करें और अपुष्ट प्लेटफार्मों पर अपनी व्यक्तिगत जानकारी साझा न करें। इसने उन्हें प्रामाणिक जानकारी के लिए केवल आधिकारिक सरकारी वेबसाइटों और सत्यापित स्रोतों पर ही भरोसा करने की सलाह दी है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T06:21:11+00:00",
-        "link": "https://newsonair.gov.in/hi/the-government-has-refuted-the-google-form-regarding-a-fake-internship/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीकी संसद कांग्रेस में उच्च सदन सीनेट के सदस्य लिंडसे ग्राहम का निधन",
-        "summary": "अमरीकी संसद कांग्रेस में उच्च सदन सीनेट के सदस्य लिंडसे ग्राहम का निधन हो गया। वे 71 वर्ष के थे। श्री ग्राहम राष्ट्रपति डोनाल्ड ट्रम्प के सबसे करीबी सहयोगियों में से एक थे। उन्होंने अमरीकी विदेश नीति की वकालत करने के लिए दुनिया भर की यात्रा की थी। राष्ट्रपति डोनाल्ड ट्रम्प ने लिंडसे ग्राहम के […]",
-        "article": "अमरीकी संसद कांग्रेस में उच्च सदन सीनेट के सदस्य लिंडसे ग्राहम का निधन हो गया। वे 71 वर्ष के थे। श्री ग्राहम राष्ट्रपति डोनाल्ड ट्रम्प के सबसे करीबी सहयोगियों में से एक थे। उन्होंने अमरीकी विदेश नीति की वकालत करने के लिए दुनिया भर की यात्रा की थी। राष्ट्रपति डोनाल्ड ट्रम्प ने लिंडसे ग्राहम के निधन पर शोक व्यक्त किया है। उन्होंने कहा कि शोक के प्रतीक स्वरूप 18 जुलाई की शाम तक पूरे देश में झंडे आधे झुके रहेंगे।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T04:50:44+00:00",
-        "link": "https://newsonair.gov.in/hi/lindsey-graham-a-member-of-the-senate-the-upper-house-of-the-us-congress-has-passed-away/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNFHyB4awAAFtet.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम नौका हादसे में मृत 15 भारतीयों के पार्थिव शरीर भारत लाए जाएंगे",
-        "summary": "वियतनाम के फु क्वोक द्वीप के पास नाव पलटने की घटना में जान गंवाने वाले 15 भारतीय पर्यटकों के पार्थिव शरीर को आज भारत वापस लाया जाएगा। वियतनाम स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि हवाई जहाज स्थानीय समयानुसार शाम 6 बजे हो ची मिन्ह शहर से रवाना होगी और मुंबई के […]",
-        "article": "वियतनाम के फु क्वोक द्वीप के पास नाव पलटने की घटना में जान गंवाने वाले 15 भारतीय पर्यटकों के पार्थिव शरीर को आज भारत वापस लाया जाएगा। वियतनाम स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि हवाई जहाज स्थानीय समयानुसार शाम 6 बजे हो ची मिन्ह शहर से रवाना होगी और मुंबई के छत्रपति शिवाजी महाराज अंतरराष्ट्रीय हवाई अड्डे पर भारतीय समयानुसार रात करीब साढे नौ बजे पहुंचेगी। दूतावास ने कहा कि संबंधित राज्य सरकारों से अनुरोध किया गया है कि वे पार्थिव शरीर को अंतिम संस्कार के लिए पीडित परिवारों के साथ समन्वय स्थापित करें। &nbsp; &nbsp;",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T04:38:27+00:00",
-        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-the-vietnam-boat-accident-will-be-brought-to-india/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/10-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं: सरकार",
+        "summary": "सरकार ने कहा है कि वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं हैं। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने अपनी डिजिटल थ्रेट रिपोर्ट 2025-26 में कहा है कि साइबर सुरक्षा जोखिम अब लेन-देन में विश्‍वसनीयता, ग्राहक विश्वास, तृतीय-पक्ष निर्भरता, निर्णय लेने वाली प्रणालियों, परिचालन निरंतरता और […]",
+        "article": "सरकार ने कहा है कि वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं हैं। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने अपनी डिजिटल थ्रेट रिपोर्ट 2025-26 में कहा है कि साइबर सुरक्षा जोखिम अब लेन-देन में विश्&#x200d;वसनीयता, ग्राहक विश्वास, तृतीय-पक्ष निर्भरता, निर्णय लेने वाली प्रणालियों, परिचालन निरंतरता और आर्थिक गतिविधियों को आधार प्रदान करने वाले डिजिटल बुनियादी ढांचे में विश्वास तक विस्तारित हो गए हैं। यह रिपोर्ट आज नई दिल्ली में इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सचिव एस. कृष्णन और भारतीय कंप्यूटर आपात कार्रवाई दल-सीईआरटीआईएन के महानिदेशक डॉ. संजय बहल द्वारा जारी की गई।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T11:21:12+00:00",
+        "link": "https://newsonair.gov.in/hi/cybersecurity-risks-in-financial-services-are-no-longer-limited-to-just-data-theft-or-sporadic-breaches-government/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सर्वोच्च न्यायालय ने कहा- नागरिकता का निर्धारण निष्पक्ष होना चाहिए; 27 अपीलकर्ताओं को विदेशी घोषित करने के फैसले को रद्द किया",
+        "summary": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया […]",
+        "article": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया जाना चाहिए। न्यायमूर्ति विक्रम नाथ और न्यायमूर्ति संदीप मेहता की पीठ ने 27 मामलों में गुवाहाटी उच्च न्यायालय और विदेशी न्यायाधिकरणों के आदेशों को रद्द कर दिया। सर्वोच्च न्यायालय ने कहा कि नागरिकता तय करने या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए और न्यायिक सिद्धांतों से समझौता नहीं किया जा सकता। न्यायालय ने निर्देश दिया कि न्यायाधिकरणों द्वारा उनके मामलों की पुन: सुनवाई होने तक याचिकाकर्ताओं के खिलाफ कोई दंडात्मक कार्रवाई न की जाए। याचिकाकर्ताओं में सबित्री डे, अजबहार अली, मोहम्मद अकबर अली, अबेदा खातून और अनवारा खातून शामिल थे। इनका तर्क था कि उन्हें अति तकनीकी आधारों और मामूली विसंगतियों के आधार पर विदेशी घोषित किया गया था। याचिकाकर्ताओं ने गुवाहाटी उच्च न्यायालय और बाद में सर्वोच्च न्यायालय में न्यायाधिकरण के आदेशों को चुनौती दी थी। अपनी भारतीय नागरिकता साबित करने के लिए 1971 से पहले के अभिलेखों, मतदाता सूचियों और भूमि अभिलेखों जैसे दस्तावेजों का सहारा लिया था।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:55:42+00:00",
+        "link": "https://newsonair.gov.in/hi/the-supreme-court-stated-that-the-determination-of-citizenship-must-be-impartial-it-set-aside-the-decision-declaring-27-appellants-as-foreigners/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/exclusion-from-temple-may-divide-society-impact-hinduism-says-supreme-court-2026-04-10-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वियतनाम में नाव दुर्घटना में मारे गए 15 भारतीय नागरिकों के पार्थिव शरीर आज विशेष विमान से भारत पहुंचेंगे",
+        "summary": "वियतनाम के फु क्वोक द्वीप के पास नाव पलटने की घटना में जान गंवाने वाले 15 भारतीय पर्यटकों के पार्थिव शरीर को आज भारत वापस लाया जाएगा। वियतनाम स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि हवाई जहाज स्थानीय समयानुसार शाम 6 बजे हो ची मिन्ह शहर से रवाना होगी और मुंबई के […]",
+        "article": "वियतनाम के फु क्वोक द्वीप के पास नाव पलटने की घटना में जान गंवाने वाले 15 भारतीय पर्यटकों के पार्थिव शरीर को आज भारत वापस लाया जाएगा। वियतनाम स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि हवाई जहाज स्थानीय समयानुसार शाम 6 बजे हो ची मिन्ह शहर से रवाना होगी और मुंबई के छत्रपति शिवाजी महाराज अंतरराष्ट्रीय हवाई अड्डे पर भारतीय समयानुसार रात करीब साढे नौ बजे पहुंचेगी। दूतावास ने कहा कि संबंधित राज्य सरकारों से अनुरोध किया गया है कि वे पार्थिव शरीर को अंतिम संस्कार के लिए पीडित परिवारों के साथ समन्वय स्थापित करें। &nbsp; &nbsp;",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:51:27+00:00",
+        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indian-nationals-who-died-in-a-boat-accident-in-vietnam-will-arrive-in-india-tonight-on-a-special-flight/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/10-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत टेक्स 2026 कल से नई दिल्ली के भारत मंडपम में होगा शुरू",
+        "summary": "भारत की सबसे बड़ी वैश्विक वस्त्र प्रदर्शनी, भारत टेक्स 2026, कल से नई दिल्ली के भारत मंडपम में शुरू होगा। चार दिवसीय इस आयोजन में वस्त्र, फैशन, स्थिरता, प्रौद्योगिकी, नवाचार, निवेश और अंतरराष्ट्रीय व्यापार के क्षेत्र में भारत के बढ़ते वैश्विक नेतृत्व का प्रदर्शन किया जाएगा। यह आयोजन निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, […]",
+        "article": "भारत की सबसे बड़ी वैश्विक वस्त्र प्रदर्शनी, भारत टेक्स 2026, कल से नई दिल्ली के भारत मंडपम में शुरू होगा। चार दिवसीय इस आयोजन में वस्त्र, फैशन, स्थिरता, प्रौद्योगिकी, नवाचार, निवेश और अंतरराष्ट्रीय व्यापार के क्षेत्र में भारत के बढ़ते वैश्विक नेतृत्व का प्रदर्शन किया जाएगा। यह आयोजन निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, अंतरराष्ट्रीय प्रतिनिधिमंडलों, कारीगरों, स्टार्टअप्स और प्रौद्योगिकी प्रदाताओं को एक साथ लाएगा। आज नई दिल्ली में एक संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए, भारत टेक्स ट्रेड फेडरेशन के अध्यक्ष, नरेन गोयनका ने कहा कि भारत टेक्स 2026 के तीसरे संस्करण में सात हजार से अधिक खरीदारों, एक लाख 30 हजार व्यापार आगंतुकों और 20 हजार से अधिक वस्त्र उत्पादों की भागीदारी की उम्मीद है। इस आयोजन में 14 देशों के अंतरराष्ट्रीय प्रदर्शक भाग लेंगे। हमारे संवाददाता की रिपोर्ट है कि इस आयोजन में ग्यारह राज्य भाग ले रहे हैं। प्रधानमंत्री नरेंद्र मोदी के 5 एफ विजन &#8211; फार्म टू फाइबर टू फैक्ट्री टू फैशन टू फॉरेन &#8211; से प्रेरित होकर, भारत टेक्स 2026 कपड़ा मूल्य श्रृंखला में व्यापार, निवेश, नवाचार, नीतिगत संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख वैश्विक मंच के रूप में विकसित हुआ है।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:48:00+00:00",
+        "link": "https://newsonair.gov.in/hi/bharat-tex-2026-will-begin-tomorrow-at-bharat-mandapam-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/17.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय मंत्री जी. किशन रेड्डी ने तेलंगाना पार्टी मुख्यालय से दो दिवसीय ‘सिंगारेनी भरोसा यात्रा’ का शुभारंभ किया",
+        "summary": "केंद्रीय कोयला एवं खान मंत्री जी. किशन रेड्डी ने भाजपा के तेलंगाना प्रदेश अध्यक्ष एन. रामचंद्र राव के साथ राज्य पार्टी मुख्यालय से दो दिवसीय &#8216;सिंगारेनी भरोसा यात्रा&#8217; का शुभारंभ किया। कल तक चलने वाली इस यात्रा का उद्देश्य 50 हजार से अधिक स्थायी सिंगारेनी कर्मचारियों और 30 हजार से अधिक संविदा एवं आउटसोर्सिंग कर्मचारियों […]",
+        "article": "केंद्रीय कोयला एवं खान मंत्री जी. किशन रेड्डी ने भाजपा के तेलंगाना प्रदेश अध्यक्ष एन. रामचंद्र राव के साथ राज्य पार्टी मुख्यालय से दो दिवसीय &#8216;सिंगारेनी भरोसा यात्रा&#8217; का शुभारंभ किया। कल तक चलने वाली इस यात्रा का उद्देश्य 50 हजार से अधिक स्थायी सिंगारेनी कर्मचारियों और 30 हजार से अधिक संविदा एवं आउटसोर्सिंग कर्मचारियों को उनके भविष्य की सुरक्षा के प्रति आश्वस्त करना है। कोथागुडेम क्लब में आयोजित एक कर्मचारी सम्मेलन में केंद्रीय मंत्री किशन रेड्डी ने सिंगारेनी कोलियरीज कंपनी लिमिटेड (एससीसीएल) को ताडिचेरला-II कोयला ब्लॉक के ऐतिहासिक आवंटन पर प्रकाश डाला। उन्होंने कहा कि सर्वोच्च न्यायालय के 2014 के उस आदेश के बाद, जिसमें पिछली यूपीए सरकार के दौरान भ्रष्टाचार पर अंकुश लगाने के लिए सभी कोयला ब्लॉकों के लिए प्रतिस्पर्धी बोली अनिवार्य की गई थी, ताडिचेरला-II देश का एकमात्र कोयला ब्लॉक है जिसे बिना नीलामी के सीधे सार्वजनिक क्षेत्र की कंपनी को आवंटित किया गया है। उन्होंने इस ऐतिहासिक निर्णय के लिए प्रधानमंत्री नरेन्&#x200d;द्र मोदी के तेलंगाना और सिंगारेनी के भविष्य के प्रति विशेष ध्यान को श्रेय दिया।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:47:35+00:00",
+        "link": "https://newsonair.gov.in/hi/union-minister-g-kishan-reddy-flagged-off-the-two-day-singareni-bharosa-yatra-from-the-party-headquarters-in-telangana/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/g-kishan-reddy-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "सेल फोर्थ 250 समारोह में सफल भागीदारी बाद आईएनएस सुदर्शनी बोस्टन पहुंचा",
         "summary": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी न्यूयॉर्क में आयोजित सेल फोर्थ 250 समारोह में सफल भागीदारी के बाद अमरीका के बोस्टन पहुंच गया है। पोत कल बोस्टन पहुंचा और &#8216;सेल बोस्टन 2026&#8217; के शुभारंभ के उपलक्ष्य में आयोजित &#8216;ग्रैंड परेड ऑफ सेल्स&#8217; में भाग लिया। रक्षा मंत्रालय ने बताया कि आईएनएस सुदर्शनी 20 […]",
@@ -1169,17 +1221,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T08:37:33+00:00",
         "link": "https://newsonair.gov.in/hi/ins-sudarshini-arrived-in-boston-after-successfully-participating-in-the-sail-fourth-250-event/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNFuQBbbYAApNWk.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "नागरिकता निर्धारण की प्रक्रिया निष्पक्ष होनी चाहिए: सर्वोच्च न्यायालय",
-        "summary": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया […]",
-        "article": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया जाना चाहिए। न्यायमूर्ति विक्रम नाथ और न्यायमूर्ति संदीप मेहता की पीठ ने 27 मामलों में गुवाहाटी उच्च न्यायालय और विदेशी न्यायाधिकरणों के आदेशों को रद्द कर दिया। सर्वोच्च न्यायालय ने कहा कि नागरिकता तय करने या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए और न्यायिक सिद्धांतों से समझौता नहीं किया जा सकता। न्यायालय ने निर्देश दिया कि न्यायाधिकरणों द्वारा उनके मामलों की पुन: सुनवाई होने तक याचिकाकर्ताओं के खिलाफ कोई दंडात्मक कार्रवाई न की जाए। याचिकाकर्ताओं में सबित्री डे, अजबहार अली, मोहम्मद अकबर अली, अबेदा खातून और अनवारा खातून शामिल थे। इनका तर्क था कि उन्हें अति तकनीकी आधारों और मामूली विसंगतियों के आधार पर विदेशी घोषित किया गया था। याचिकाकर्ताओं ने गुवाहाटी उच्च न्यायालय और बाद में सर्वोच्च न्यायालय में न्यायाधिकरण के आदेशों को चुनौती दी थी। अपनी भारतीय नागरिकता साबित करने के लिए 1971 से पहले के अभिलेखों, मतदाता सूचियों और भूमि अभिलेखों जैसे दस्तावेजों का सहारा लिया था।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T08:00:42+00:00",
-        "link": "https://newsonair.gov.in/hi/the-process-of-determining-citizenship-must-be-fair-supreme-court/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/exclusion-from-temple-may-divide-society-impact-hinduism-says-supreme-court-2026-04-10-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1224,56 +1265,67 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T07:21:40+00:00",
         "link": "https://newsonair.gov.in/hi/the-ministry-of-health-and-family-welfare-has-invited-suggestions-on-the-draft-national-health-research-policy/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/The-Ministry-of-Health-and-Family-Welfare.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "उज्बेकिस्तान में केरलम् की मेडिकल छात्रा की हत्या पर राष्ट्रीय महिला आयोग ने लिया स्वत: संज्ञान",
-        "summary": "राष्‍ट्रीय महिला आयोग ने केरलम् की 21 वर्षीय मेडिकल छात्रा की उजबेकिस्‍तान में यातना और हत्‍या से जुड़ी खबर का स्‍वत: संज्ञान लिया। आयोग ने उसके साथ मार-पीट, यातना और जबरन धर्मांतरण की कोशिश से हुई मौत के आरोपों पर चिंता व्‍यक्‍त की है। आयोग ने इस संबंध में केरलम् के पुलिस महानिदेशक को पत्र […]",
-        "article": "राष्&#x200d;ट्रीय महिला आयोग ने केरलम् की 21 वर्षीय मेडिकल छात्रा की उजबेकिस्&#x200d;तान में यातना और हत्&#x200d;या से जुड़ी खबर का स्&#x200d;वत: संज्ञान लिया। आयोग ने उसके साथ मार-पीट, यातना और जबरन धर्मांतरण की कोशिश से हुई मौत के आरोपों पर चिंता व्&#x200d;यक्&#x200d;त की है। आयोग ने इस संबंध में केरलम् के पुलिस महानिदेशक को पत्र लिखकर विदेश मंत्रालय और ताशकंद में भारतीय दूतावास के साथ समन्&#x200d;वय कर मामले में तेजी से जांच कराने तथा साक्ष्&#x200d;यों का संरक्षण और शोक संतप्&#x200d;त परिवार को व्&#x200d;यापक समर्थन देने को कहा है। राष्&#x200d;ट्रीय महिला आयोग ने केरलम् के पुलिस महानिदेशक से की गई कार्रवाई पर सात दिन के भीतर रिपोर्ट देने को कहा है। आयोग ने उजबेकिस्&#x200d;तान में भारतीय दूतावास से भी इस मामले में सभी आवश्&#x200d;यक सहायता और कानूनी कार्रवाई में सहयोग देने का आग्रह किया है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T06:22:35+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%89%e0%a4%9c%e0%a5%8d%e0%a4%ac%e0%a5%87%e0%a4%95%e0%a4%bf%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%a8-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%95%e0%a5%87%e0%a4%b0%e0%a4%b2%e0%a4%ae%e0%a5%8d/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/NCW-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने फर्जी इंटर्नशिप वाले गूगल फॉर्म का किया खंडन",
-        "summary": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे एक गूगल फॉर्म का खंडन किया है, जिसमें डॉक्टरों और अन्य पेशेवरों के लिए इंटर्नशिप देने का झूठा दावा किया गया था। यह इंटर्नशिप कथित तौर पर सूक्ष्म, लघु एवं मध्यम उद्यम मंत्रालय और कॉर्पोरेट मामलों के मंत्रालय द्वारा अनुमोदित बताई गई थी। पत्र सूचना कार्यालय-पीआईबी की […]",
-        "article": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे एक गूगल फॉर्म का खंडन किया है, जिसमें डॉक्टरों और अन्य पेशेवरों के लिए इंटर्नशिप देने का झूठा दावा किया गया था। यह इंटर्नशिप कथित तौर पर सूक्ष्म, लघु एवं मध्यम उद्यम मंत्रालय और कॉर्पोरेट मामलों के मंत्रालय द्वारा अनुमोदित बताई गई थी। पत्र सूचना कार्यालय-पीआईबी की तथ्&#x200d;य जांच इकाई ने स्पष्ट किया है कि यह दावा फर्जी है। पीआईबी ने बताया कि एमएसएमई मंत्रालय या कॉर्पोरेट मामलों के मंत्रालय द्वारा ऐसे किसी इंटर्नशिप कार्यक्रम के लिए कोई आधिकारिक अधिसूचना या आवेदन पत्र जारी नहीं किया गया है। पीआईबी ने नागरिकों से आग्रह किया है कि वे संदिग्ध लिंक या वेबपेजों पर क्लिक न करें और अपुष्ट प्लेटफार्मों पर अपनी व्यक्तिगत जानकारी साझा न करें। इसने उन्हें प्रामाणिक जानकारी के लिए केवल आधिकारिक सरकारी वेबसाइटों और सत्यापित स्रोतों पर ही भरोसा करने की सलाह दी है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T06:21:11+00:00",
-        "link": "https://newsonair.gov.in/hi/the-government-has-refuted-the-google-form-regarding-a-fake-internship/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम नौका हादसे में मृत 15 भारतीयों के पार्थिव शरीर भारत लाए जाएंगे",
-        "summary": "वियतनाम के फु क्वोक द्वीप के पास नाव पलटने की घटना में जान गंवाने वाले 15 भारतीय पर्यटकों के पार्थिव शरीर को आज भारत वापस लाया जाएगा। वियतनाम स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि हवाई जहाज स्थानीय समयानुसार शाम 6 बजे हो ची मिन्ह शहर से रवाना होगी और मुंबई के […]",
-        "article": "वियतनाम के फु क्वोक द्वीप के पास नाव पलटने की घटना में जान गंवाने वाले 15 भारतीय पर्यटकों के पार्थिव शरीर को आज भारत वापस लाया जाएगा। वियतनाम स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि हवाई जहाज स्थानीय समयानुसार शाम 6 बजे हो ची मिन्ह शहर से रवाना होगी और मुंबई के छत्रपति शिवाजी महाराज अंतरराष्ट्रीय हवाई अड्डे पर भारतीय समयानुसार रात करीब साढे नौ बजे पहुंचेगी। दूतावास ने कहा कि संबंधित राज्य सरकारों से अनुरोध किया गया है कि वे पार्थिव शरीर को अंतिम संस्कार के लिए पीडित परिवारों के साथ समन्वय स्थापित करें। &nbsp; &nbsp;",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T04:38:27+00:00",
-        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-the-vietnam-boat-accident-will-be-brought-to-india/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/10-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "इसरो ने गगनयान क्रू मॉड्यूल सिस्टम के तीन प्रमुख परीक्षण सफलतापूर्वक पूरे किए",
-        "summary": "भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) ने गगनयान क्रू मॉड्यूल सिस्टम के तीन प्रमुख परीक्षणों को सफलतापूर्वक पूरा कर लिया है। पहला परीक्षण समुद्र में उतरने के बाद क्रू मॉड्यूल की सीधी स्थिति सुनिश्चित करने से संबंधित था, जिसे चालक दल की सुरक्षा के लिए सबसे महत्वपूर्ण आवश्यकताओं में से एक माना जाता है। दूसरे परीक्षण […]",
-        "article": "भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) ने गगनयान क्रू मॉड्यूल सिस्टम के तीन प्रमुख परीक्षणों को सफलतापूर्वक पूरा कर लिया है। पहला परीक्षण समुद्र में उतरने के बाद क्रू मॉड्यूल की सीधी स्थिति सुनिश्चित करने से संबंधित था, जिसे चालक दल की सुरक्षा के लिए सबसे महत्वपूर्ण आवश्यकताओं में से एक माना जाता है। दूसरे परीक्षण में अंतरिक्ष यात्रियों का कैबिन क्रू मॉड्यूल और बिजली देने वाले सर्विस मॉड्यूल के बीच कड़ी का काम करने वाले अम्बिलिकल मैकेनिज्म के अलगाव की जांच की गई। अंतरिक्ष से वापस आते समय, सर्विस मॉड्यूल को क्रू मॉड्यूल से अलग होना पड़ता है, क्योंकि पृथ्वी पर सिर्फ क्रू मॉड्यूल ही वापस आता है, जिसमें अंतरिक्ष यात्री बैठे होते हैं। इसरो ने जांचा कि पृथ्वी के वायुमंडल में घुसने से ठीक पहले, सभी तार और जोड़ बिना किसी गड़बड़ी के, बिल्कुल सही समय पर साफ-साफ टूटकर अलग हो रहे हैं या नहीं। तीसरे परीक्षण ने एपेक्स कवर के अलग होने की घटना के दौरान क्रू मॉड्यूल की संरचनात्मक अखंडता को सत्यापित किया। मिशन के दौरान केबिन की रफ्तार बहुत तेज होती है। उसे धीमा करने के लिए बड़े-बड़े पैराशूट खुलते हैं। ये पैराशूट केबिन की छत पर एक मजबूत ढक्कन यानी एपेक्स कवर के अंदर सुरक्षित बंद रहते हैं। पैराशूट खोलने से ठीक पहले इस ढक्कन को हवा में उड़ जाना होता है। इसरो ने जांच किया कि जब यह ढक्कन झटके से अलग होता है, तो केबिन को कोई नुकसान तो नहीं होता है। अपने तीनों परीक्षण से इसरो ने यह पक्का कर लिया है कि अंतरिक्ष यात्रियों का केबिन सही समय पर अलग होगा, उसके पैराशूट सही से खुलेंगे और पानी में गिरने के बाद वह डूबेगा या उलटेगा नहीं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T02:35:20+00:00",
-        "link": "https://newsonair.gov.in/hi/isro-successfully-completed-three-major-tests-of-the-gaganyaan-crew-module-system/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं: सरकार",
+        "summary": "सरकार ने कहा है कि वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं हैं। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने अपनी डिजिटल थ्रेट रिपोर्ट 2025-26 में कहा है कि साइबर सुरक्षा जोखिम अब लेन-देन में विश्‍वसनीयता, ग्राहक विश्वास, तृतीय-पक्ष निर्भरता, निर्णय लेने वाली प्रणालियों, परिचालन निरंतरता और […]",
+        "article": "सरकार ने कहा है कि वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं हैं। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने अपनी डिजिटल थ्रेट रिपोर्ट 2025-26 में कहा है कि साइबर सुरक्षा जोखिम अब लेन-देन में विश्&#x200d;वसनीयता, ग्राहक विश्वास, तृतीय-पक्ष निर्भरता, निर्णय लेने वाली प्रणालियों, परिचालन निरंतरता और आर्थिक गतिविधियों को आधार प्रदान करने वाले डिजिटल बुनियादी ढांचे में विश्वास तक विस्तारित हो गए हैं। यह रिपोर्ट आज नई दिल्ली में इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सचिव एस. कृष्णन और भारतीय कंप्यूटर आपात कार्रवाई दल-सीईआरटीआईएन के महानिदेशक डॉ. संजय बहल द्वारा जारी की गई।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T11:21:12+00:00",
+        "link": "https://newsonair.gov.in/hi/cybersecurity-risks-in-financial-services-are-no-longer-limited-to-just-data-theft-or-sporadic-breaches-government/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सर्वोच्च न्यायालय ने कहा- नागरिकता का निर्धारण निष्पक्ष होना चाहिए; 27 अपीलकर्ताओं को विदेशी घोषित करने के फैसले को रद्द किया",
+        "summary": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया […]",
+        "article": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया जाना चाहिए। न्यायमूर्ति विक्रम नाथ और न्यायमूर्ति संदीप मेहता की पीठ ने 27 मामलों में गुवाहाटी उच्च न्यायालय और विदेशी न्यायाधिकरणों के आदेशों को रद्द कर दिया। सर्वोच्च न्यायालय ने कहा कि नागरिकता तय करने या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए और न्यायिक सिद्धांतों से समझौता नहीं किया जा सकता। न्यायालय ने निर्देश दिया कि न्यायाधिकरणों द्वारा उनके मामलों की पुन: सुनवाई होने तक याचिकाकर्ताओं के खिलाफ कोई दंडात्मक कार्रवाई न की जाए। याचिकाकर्ताओं में सबित्री डे, अजबहार अली, मोहम्मद अकबर अली, अबेदा खातून और अनवारा खातून शामिल थे। इनका तर्क था कि उन्हें अति तकनीकी आधारों और मामूली विसंगतियों के आधार पर विदेशी घोषित किया गया था। याचिकाकर्ताओं ने गुवाहाटी उच्च न्यायालय और बाद में सर्वोच्च न्यायालय में न्यायाधिकरण के आदेशों को चुनौती दी थी। अपनी भारतीय नागरिकता साबित करने के लिए 1971 से पहले के अभिलेखों, मतदाता सूचियों और भूमि अभिलेखों जैसे दस्तावेजों का सहारा लिया था।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:55:42+00:00",
+        "link": "https://newsonair.gov.in/hi/the-supreme-court-stated-that-the-determination-of-citizenship-must-be-impartial-it-set-aside-the-decision-declaring-27-appellants-as-foreigners/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/exclusion-from-temple-may-divide-society-impact-hinduism-says-supreme-court-2026-04-10-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वियतनाम में नाव दुर्घटना में मारे गए 15 भारतीय नागरिकों के पार्थिव शरीर आज विशेष विमान से भारत पहुंचेंगे",
+        "summary": "वियतनाम के फु क्वोक द्वीप के पास नाव पलटने की घटना में जान गंवाने वाले 15 भारतीय पर्यटकों के पार्थिव शरीर को आज भारत वापस लाया जाएगा। वियतनाम स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि हवाई जहाज स्थानीय समयानुसार शाम 6 बजे हो ची मिन्ह शहर से रवाना होगी और मुंबई के […]",
+        "article": "वियतनाम के फु क्वोक द्वीप के पास नाव पलटने की घटना में जान गंवाने वाले 15 भारतीय पर्यटकों के पार्थिव शरीर को आज भारत वापस लाया जाएगा। वियतनाम स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि हवाई जहाज स्थानीय समयानुसार शाम 6 बजे हो ची मिन्ह शहर से रवाना होगी और मुंबई के छत्रपति शिवाजी महाराज अंतरराष्ट्रीय हवाई अड्डे पर भारतीय समयानुसार रात करीब साढे नौ बजे पहुंचेगी। दूतावास ने कहा कि संबंधित राज्य सरकारों से अनुरोध किया गया है कि वे पार्थिव शरीर को अंतिम संस्कार के लिए पीडित परिवारों के साथ समन्वय स्थापित करें। &nbsp; &nbsp;",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:51:27+00:00",
+        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indian-nationals-who-died-in-a-boat-accident-in-vietnam-will-arrive-in-india-tonight-on-a-special-flight/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/10-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत टेक्स 2026 कल से नई दिल्ली के भारत मंडपम में होगा शुरू",
+        "summary": "भारत की सबसे बड़ी वैश्विक वस्त्र प्रदर्शनी, भारत टेक्स 2026, कल से नई दिल्ली के भारत मंडपम में शुरू होगा। चार दिवसीय इस आयोजन में वस्त्र, फैशन, स्थिरता, प्रौद्योगिकी, नवाचार, निवेश और अंतरराष्ट्रीय व्यापार के क्षेत्र में भारत के बढ़ते वैश्विक नेतृत्व का प्रदर्शन किया जाएगा। यह आयोजन निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, […]",
+        "article": "भारत की सबसे बड़ी वैश्विक वस्त्र प्रदर्शनी, भारत टेक्स 2026, कल से नई दिल्ली के भारत मंडपम में शुरू होगा। चार दिवसीय इस आयोजन में वस्त्र, फैशन, स्थिरता, प्रौद्योगिकी, नवाचार, निवेश और अंतरराष्ट्रीय व्यापार के क्षेत्र में भारत के बढ़ते वैश्विक नेतृत्व का प्रदर्शन किया जाएगा। यह आयोजन निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, अंतरराष्ट्रीय प्रतिनिधिमंडलों, कारीगरों, स्टार्टअप्स और प्रौद्योगिकी प्रदाताओं को एक साथ लाएगा। आज नई दिल्ली में एक संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए, भारत टेक्स ट्रेड फेडरेशन के अध्यक्ष, नरेन गोयनका ने कहा कि भारत टेक्स 2026 के तीसरे संस्करण में सात हजार से अधिक खरीदारों, एक लाख 30 हजार व्यापार आगंतुकों और 20 हजार से अधिक वस्त्र उत्पादों की भागीदारी की उम्मीद है। इस आयोजन में 14 देशों के अंतरराष्ट्रीय प्रदर्शक भाग लेंगे। हमारे संवाददाता की रिपोर्ट है कि इस आयोजन में ग्यारह राज्य भाग ले रहे हैं। प्रधानमंत्री नरेंद्र मोदी के 5 एफ विजन &#8211; फार्म टू फाइबर टू फैक्ट्री टू फैशन टू फॉरेन &#8211; से प्रेरित होकर, भारत टेक्स 2026 कपड़ा मूल्य श्रृंखला में व्यापार, निवेश, नवाचार, नीतिगत संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख वैश्विक मंच के रूप में विकसित हुआ है।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:48:00+00:00",
+        "link": "https://newsonair.gov.in/hi/bharat-tex-2026-will-begin-tomorrow-at-bharat-mandapam-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/17.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय मंत्री जी. किशन रेड्डी ने तेलंगाना पार्टी मुख्यालय से दो दिवसीय ‘सिंगारेनी भरोसा यात्रा’ का शुभारंभ किया",
+        "summary": "केंद्रीय कोयला एवं खान मंत्री जी. किशन रेड्डी ने भाजपा के तेलंगाना प्रदेश अध्यक्ष एन. रामचंद्र राव के साथ राज्य पार्टी मुख्यालय से दो दिवसीय &#8216;सिंगारेनी भरोसा यात्रा&#8217; का शुभारंभ किया। कल तक चलने वाली इस यात्रा का उद्देश्य 50 हजार से अधिक स्थायी सिंगारेनी कर्मचारियों और 30 हजार से अधिक संविदा एवं आउटसोर्सिंग कर्मचारियों […]",
+        "article": "केंद्रीय कोयला एवं खान मंत्री जी. किशन रेड्डी ने भाजपा के तेलंगाना प्रदेश अध्यक्ष एन. रामचंद्र राव के साथ राज्य पार्टी मुख्यालय से दो दिवसीय &#8216;सिंगारेनी भरोसा यात्रा&#8217; का शुभारंभ किया। कल तक चलने वाली इस यात्रा का उद्देश्य 50 हजार से अधिक स्थायी सिंगारेनी कर्मचारियों और 30 हजार से अधिक संविदा एवं आउटसोर्सिंग कर्मचारियों को उनके भविष्य की सुरक्षा के प्रति आश्वस्त करना है। कोथागुडेम क्लब में आयोजित एक कर्मचारी सम्मेलन में केंद्रीय मंत्री किशन रेड्डी ने सिंगारेनी कोलियरीज कंपनी लिमिटेड (एससीसीएल) को ताडिचेरला-II कोयला ब्लॉक के ऐतिहासिक आवंटन पर प्रकाश डाला। उन्होंने कहा कि सर्वोच्च न्यायालय के 2014 के उस आदेश के बाद, जिसमें पिछली यूपीए सरकार के दौरान भ्रष्टाचार पर अंकुश लगाने के लिए सभी कोयला ब्लॉकों के लिए प्रतिस्पर्धी बोली अनिवार्य की गई थी, ताडिचेरला-II देश का एकमात्र कोयला ब्लॉक है जिसे बिना नीलामी के सीधे सार्वजनिक क्षेत्र की कंपनी को आवंटित किया गया है। उन्होंने इस ऐतिहासिक निर्णय के लिए प्रधानमंत्री नरेन्&#x200d;द्र मोदी के तेलंगाना और सिंगारेनी के भविष्य के प्रति विशेष ध्यान को श्रेय दिया।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:47:35+00:00",
+        "link": "https://newsonair.gov.in/hi/union-minister-g-kishan-reddy-flagged-off-the-two-day-singareni-bharosa-yatra-from-the-party-headquarters-in-telangana/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/g-kishan-reddy-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "सेल फोर्थ 250 समारोह में सफल भागीदारी बाद आईएनएस सुदर्शनी बोस्टन पहुंचा",
         "summary": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी न्यूयॉर्क में आयोजित सेल फोर्थ 250 समारोह में सफल भागीदारी के बाद अमरीका के बोस्टन पहुंच गया है। पोत कल बोस्टन पहुंचा और &#8216;सेल बोस्टन 2026&#8217; के शुभारंभ के उपलक्ष्य में आयोजित &#8216;ग्रैंड परेड ऑफ सेल्स&#8217; में भाग लिया। रक्षा मंत्रालय ने बताया कि आईएनएस सुदर्शनी 20 […]",
         "article": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी न्यूयॉर्क में आयोजित सेल फोर्थ 250 समारोह में सफल भागीदारी के बाद अमरीका के बोस्टन पहुंच गया है। पोत कल बोस्टन पहुंचा और &#8216;सेल बोस्टन 2026&#8217; के शुभारंभ के उपलक्ष्य में आयोजित &#8216;ग्रैंड परेड ऑफ सेल्स&#8217; में भाग लिया। रक्षा मंत्रालय ने बताया कि आईएनएस सुदर्शनी 20 से अधिक देशों के 60 से अधिक बड़े पोतों के अंतरराष्ट्रीय बेड़े में शामिल हो गया है। यह भारत में चल रहे &#8216;लोकयान 2026&#8217; समुद्री अभियान के दौरान सद्भावना के समुद्री राजदूत के रूप में भारत का प्रतिनिधित्व कर रहा है। मंत्रालय ने बताया कि पोत 15 जुलाई तक आगंतुकों के लिए खुला रहेगा। मंत्रालय ने कहा कि &#8216;सेल बोस्टन 2026&#8217; में आईएनएस सुदर्शनी की भागीदारी भारत-अमरीका की बढ़ती समुद्री साझेदारी को और मजबूत करती है और वैश्विक मंच पर भारत की समृद्ध समुद्री विरासत को प्रदर्शित करती है।",
@@ -1281,17 +1333,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T08:37:33+00:00",
         "link": "https://newsonair.gov.in/hi/ins-sudarshini-arrived-in-boston-after-successfully-participating-in-the-sail-fourth-250-event/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNFuQBbbYAApNWk.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "नागरिकता निर्धारण की प्रक्रिया निष्पक्ष होनी चाहिए: सर्वोच्च न्यायालय",
-        "summary": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया […]",
-        "article": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया जाना चाहिए। न्यायमूर्ति विक्रम नाथ और न्यायमूर्ति संदीप मेहता की पीठ ने 27 मामलों में गुवाहाटी उच्च न्यायालय और विदेशी न्यायाधिकरणों के आदेशों को रद्द कर दिया। सर्वोच्च न्यायालय ने कहा कि नागरिकता तय करने या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए और न्यायिक सिद्धांतों से समझौता नहीं किया जा सकता। न्यायालय ने निर्देश दिया कि न्यायाधिकरणों द्वारा उनके मामलों की पुन: सुनवाई होने तक याचिकाकर्ताओं के खिलाफ कोई दंडात्मक कार्रवाई न की जाए। याचिकाकर्ताओं में सबित्री डे, अजबहार अली, मोहम्मद अकबर अली, अबेदा खातून और अनवारा खातून शामिल थे। इनका तर्क था कि उन्हें अति तकनीकी आधारों और मामूली विसंगतियों के आधार पर विदेशी घोषित किया गया था। याचिकाकर्ताओं ने गुवाहाटी उच्च न्यायालय और बाद में सर्वोच्च न्यायालय में न्यायाधिकरण के आदेशों को चुनौती दी थी। अपनी भारतीय नागरिकता साबित करने के लिए 1971 से पहले के अभिलेखों, मतदाता सूचियों और भूमि अभिलेखों जैसे दस्तावेजों का सहारा लिया था।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T08:00:42+00:00",
-        "link": "https://newsonair.gov.in/hi/the-process-of-determining-citizenship-must-be-fair-supreme-court/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/exclusion-from-temple-may-divide-society-impact-hinduism-says-supreme-court-2026-04-10-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1336,56 +1377,67 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T07:21:40+00:00",
         "link": "https://newsonair.gov.in/hi/the-ministry-of-health-and-family-welfare-has-invited-suggestions-on-the-draft-national-health-research-policy/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/The-Ministry-of-Health-and-Family-Welfare.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "उज्बेकिस्तान में केरलम् की मेडिकल छात्रा की हत्या पर राष्ट्रीय महिला आयोग ने लिया स्वत: संज्ञान",
-        "summary": "राष्‍ट्रीय महिला आयोग ने केरलम् की 21 वर्षीय मेडिकल छात्रा की उजबेकिस्‍तान में यातना और हत्‍या से जुड़ी खबर का स्‍वत: संज्ञान लिया। आयोग ने उसके साथ मार-पीट, यातना और जबरन धर्मांतरण की कोशिश से हुई मौत के आरोपों पर चिंता व्‍यक्‍त की है। आयोग ने इस संबंध में केरलम् के पुलिस महानिदेशक को पत्र […]",
-        "article": "राष्&#x200d;ट्रीय महिला आयोग ने केरलम् की 21 वर्षीय मेडिकल छात्रा की उजबेकिस्&#x200d;तान में यातना और हत्&#x200d;या से जुड़ी खबर का स्&#x200d;वत: संज्ञान लिया। आयोग ने उसके साथ मार-पीट, यातना और जबरन धर्मांतरण की कोशिश से हुई मौत के आरोपों पर चिंता व्&#x200d;यक्&#x200d;त की है। आयोग ने इस संबंध में केरलम् के पुलिस महानिदेशक को पत्र लिखकर विदेश मंत्रालय और ताशकंद में भारतीय दूतावास के साथ समन्&#x200d;वय कर मामले में तेजी से जांच कराने तथा साक्ष्&#x200d;यों का संरक्षण और शोक संतप्&#x200d;त परिवार को व्&#x200d;यापक समर्थन देने को कहा है। राष्&#x200d;ट्रीय महिला आयोग ने केरलम् के पुलिस महानिदेशक से की गई कार्रवाई पर सात दिन के भीतर रिपोर्ट देने को कहा है। आयोग ने उजबेकिस्&#x200d;तान में भारतीय दूतावास से भी इस मामले में सभी आवश्&#x200d;यक सहायता और कानूनी कार्रवाई में सहयोग देने का आग्रह किया है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T06:22:35+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%89%e0%a4%9c%e0%a5%8d%e0%a4%ac%e0%a5%87%e0%a4%95%e0%a4%bf%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%a8-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%95%e0%a5%87%e0%a4%b0%e0%a4%b2%e0%a4%ae%e0%a5%8d/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/NCW-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने फर्जी इंटर्नशिप वाले गूगल फॉर्म का किया खंडन",
-        "summary": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे एक गूगल फॉर्म का खंडन किया है, जिसमें डॉक्टरों और अन्य पेशेवरों के लिए इंटर्नशिप देने का झूठा दावा किया गया था। यह इंटर्नशिप कथित तौर पर सूक्ष्म, लघु एवं मध्यम उद्यम मंत्रालय और कॉर्पोरेट मामलों के मंत्रालय द्वारा अनुमोदित बताई गई थी। पत्र सूचना कार्यालय-पीआईबी की […]",
-        "article": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे एक गूगल फॉर्म का खंडन किया है, जिसमें डॉक्टरों और अन्य पेशेवरों के लिए इंटर्नशिप देने का झूठा दावा किया गया था। यह इंटर्नशिप कथित तौर पर सूक्ष्म, लघु एवं मध्यम उद्यम मंत्रालय और कॉर्पोरेट मामलों के मंत्रालय द्वारा अनुमोदित बताई गई थी। पत्र सूचना कार्यालय-पीआईबी की तथ्&#x200d;य जांच इकाई ने स्पष्ट किया है कि यह दावा फर्जी है। पीआईबी ने बताया कि एमएसएमई मंत्रालय या कॉर्पोरेट मामलों के मंत्रालय द्वारा ऐसे किसी इंटर्नशिप कार्यक्रम के लिए कोई आधिकारिक अधिसूचना या आवेदन पत्र जारी नहीं किया गया है। पीआईबी ने नागरिकों से आग्रह किया है कि वे संदिग्ध लिंक या वेबपेजों पर क्लिक न करें और अपुष्ट प्लेटफार्मों पर अपनी व्यक्तिगत जानकारी साझा न करें। इसने उन्हें प्रामाणिक जानकारी के लिए केवल आधिकारिक सरकारी वेबसाइटों और सत्यापित स्रोतों पर ही भरोसा करने की सलाह दी है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T06:21:11+00:00",
-        "link": "https://newsonair.gov.in/hi/the-government-has-refuted-the-google-form-regarding-a-fake-internship/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम नौका हादसे में मृत 15 भारतीयों के पार्थिव शरीर भारत लाए जाएंगे",
-        "summary": "वियतनाम के फु क्वोक द्वीप के पास नाव पलटने की घटना में जान गंवाने वाले 15 भारतीय पर्यटकों के पार्थिव शरीर को आज भारत वापस लाया जाएगा। वियतनाम स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि हवाई जहाज स्थानीय समयानुसार शाम 6 बजे हो ची मिन्ह शहर से रवाना होगी और मुंबई के […]",
-        "article": "वियतनाम के फु क्वोक द्वीप के पास नाव पलटने की घटना में जान गंवाने वाले 15 भारतीय पर्यटकों के पार्थिव शरीर को आज भारत वापस लाया जाएगा। वियतनाम स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि हवाई जहाज स्थानीय समयानुसार शाम 6 बजे हो ची मिन्ह शहर से रवाना होगी और मुंबई के छत्रपति शिवाजी महाराज अंतरराष्ट्रीय हवाई अड्डे पर भारतीय समयानुसार रात करीब साढे नौ बजे पहुंचेगी। दूतावास ने कहा कि संबंधित राज्य सरकारों से अनुरोध किया गया है कि वे पार्थिव शरीर को अंतिम संस्कार के लिए पीडित परिवारों के साथ समन्वय स्थापित करें। &nbsp; &nbsp;",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T04:38:27+00:00",
-        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-the-vietnam-boat-accident-will-be-brought-to-india/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/10-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "इसरो ने गगनयान क्रू मॉड्यूल सिस्टम के तीन प्रमुख परीक्षण सफलतापूर्वक पूरे किए",
-        "summary": "भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) ने गगनयान क्रू मॉड्यूल सिस्टम के तीन प्रमुख परीक्षणों को सफलतापूर्वक पूरा कर लिया है। पहला परीक्षण समुद्र में उतरने के बाद क्रू मॉड्यूल की सीधी स्थिति सुनिश्चित करने से संबंधित था, जिसे चालक दल की सुरक्षा के लिए सबसे महत्वपूर्ण आवश्यकताओं में से एक माना जाता है। दूसरे परीक्षण […]",
-        "article": "भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) ने गगनयान क्रू मॉड्यूल सिस्टम के तीन प्रमुख परीक्षणों को सफलतापूर्वक पूरा कर लिया है। पहला परीक्षण समुद्र में उतरने के बाद क्रू मॉड्यूल की सीधी स्थिति सुनिश्चित करने से संबंधित था, जिसे चालक दल की सुरक्षा के लिए सबसे महत्वपूर्ण आवश्यकताओं में से एक माना जाता है। दूसरे परीक्षण में अंतरिक्ष यात्रियों का कैबिन क्रू मॉड्यूल और बिजली देने वाले सर्विस मॉड्यूल के बीच कड़ी का काम करने वाले अम्बिलिकल मैकेनिज्म के अलगाव की जांच की गई। अंतरिक्ष से वापस आते समय, सर्विस मॉड्यूल को क्रू मॉड्यूल से अलग होना पड़ता है, क्योंकि पृथ्वी पर सिर्फ क्रू मॉड्यूल ही वापस आता है, जिसमें अंतरिक्ष यात्री बैठे होते हैं। इसरो ने जांचा कि पृथ्वी के वायुमंडल में घुसने से ठीक पहले, सभी तार और जोड़ बिना किसी गड़बड़ी के, बिल्कुल सही समय पर साफ-साफ टूटकर अलग हो रहे हैं या नहीं। तीसरे परीक्षण ने एपेक्स कवर के अलग होने की घटना के दौरान क्रू मॉड्यूल की संरचनात्मक अखंडता को सत्यापित किया। मिशन के दौरान केबिन की रफ्तार बहुत तेज होती है। उसे धीमा करने के लिए बड़े-बड़े पैराशूट खुलते हैं। ये पैराशूट केबिन की छत पर एक मजबूत ढक्कन यानी एपेक्स कवर के अंदर सुरक्षित बंद रहते हैं। पैराशूट खोलने से ठीक पहले इस ढक्कन को हवा में उड़ जाना होता है। इसरो ने जांच किया कि जब यह ढक्कन झटके से अलग होता है, तो केबिन को कोई नुकसान तो नहीं होता है। अपने तीनों परीक्षण से इसरो ने यह पक्का कर लिया है कि अंतरिक्ष यात्रियों का केबिन सही समय पर अलग होगा, उसके पैराशूट सही से खुलेंगे और पानी में गिरने के बाद वह डूबेगा या उलटेगा नहीं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T02:35:20+00:00",
-        "link": "https://newsonair.gov.in/hi/isro-successfully-completed-three-major-tests-of-the-gaganyaan-crew-module-system/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं: सरकार",
+        "summary": "सरकार ने कहा है कि वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं हैं। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने अपनी डिजिटल थ्रेट रिपोर्ट 2025-26 में कहा है कि साइबर सुरक्षा जोखिम अब लेन-देन में विश्‍वसनीयता, ग्राहक विश्वास, तृतीय-पक्ष निर्भरता, निर्णय लेने वाली प्रणालियों, परिचालन निरंतरता और […]",
+        "article": "सरकार ने कहा है कि वित्तीय सेवाओं में साइबर सुरक्षा जोखिम अब केवल डेटा चोरी या छिटपुट उल्लंघनों तक सीमित नहीं हैं। इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने अपनी डिजिटल थ्रेट रिपोर्ट 2025-26 में कहा है कि साइबर सुरक्षा जोखिम अब लेन-देन में विश्&#x200d;वसनीयता, ग्राहक विश्वास, तृतीय-पक्ष निर्भरता, निर्णय लेने वाली प्रणालियों, परिचालन निरंतरता और आर्थिक गतिविधियों को आधार प्रदान करने वाले डिजिटल बुनियादी ढांचे में विश्वास तक विस्तारित हो गए हैं। यह रिपोर्ट आज नई दिल्ली में इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय के सचिव एस. कृष्णन और भारतीय कंप्यूटर आपात कार्रवाई दल-सीईआरटीआईएन के महानिदेशक डॉ. संजय बहल द्वारा जारी की गई।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T11:21:12+00:00",
+        "link": "https://newsonair.gov.in/hi/cybersecurity-risks-in-financial-services-are-no-longer-limited-to-just-data-theft-or-sporadic-breaches-government/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सर्वोच्च न्यायालय ने कहा- नागरिकता का निर्धारण निष्पक्ष होना चाहिए; 27 अपीलकर्ताओं को विदेशी घोषित करने के फैसले को रद्द किया",
+        "summary": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया […]",
+        "article": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया जाना चाहिए। न्यायमूर्ति विक्रम नाथ और न्यायमूर्ति संदीप मेहता की पीठ ने 27 मामलों में गुवाहाटी उच्च न्यायालय और विदेशी न्यायाधिकरणों के आदेशों को रद्द कर दिया। सर्वोच्च न्यायालय ने कहा कि नागरिकता तय करने या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए और न्यायिक सिद्धांतों से समझौता नहीं किया जा सकता। न्यायालय ने निर्देश दिया कि न्यायाधिकरणों द्वारा उनके मामलों की पुन: सुनवाई होने तक याचिकाकर्ताओं के खिलाफ कोई दंडात्मक कार्रवाई न की जाए। याचिकाकर्ताओं में सबित्री डे, अजबहार अली, मोहम्मद अकबर अली, अबेदा खातून और अनवारा खातून शामिल थे। इनका तर्क था कि उन्हें अति तकनीकी आधारों और मामूली विसंगतियों के आधार पर विदेशी घोषित किया गया था। याचिकाकर्ताओं ने गुवाहाटी उच्च न्यायालय और बाद में सर्वोच्च न्यायालय में न्यायाधिकरण के आदेशों को चुनौती दी थी। अपनी भारतीय नागरिकता साबित करने के लिए 1971 से पहले के अभिलेखों, मतदाता सूचियों और भूमि अभिलेखों जैसे दस्तावेजों का सहारा लिया था।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:55:42+00:00",
+        "link": "https://newsonair.gov.in/hi/the-supreme-court-stated-that-the-determination-of-citizenship-must-be-impartial-it-set-aside-the-decision-declaring-27-appellants-as-foreigners/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/exclusion-from-temple-may-divide-society-impact-hinduism-says-supreme-court-2026-04-10-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वियतनाम में नाव दुर्घटना में मारे गए 15 भारतीय नागरिकों के पार्थिव शरीर आज विशेष विमान से भारत पहुंचेंगे",
+        "summary": "वियतनाम के फु क्वोक द्वीप के पास नाव पलटने की घटना में जान गंवाने वाले 15 भारतीय पर्यटकों के पार्थिव शरीर को आज भारत वापस लाया जाएगा। वियतनाम स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि हवाई जहाज स्थानीय समयानुसार शाम 6 बजे हो ची मिन्ह शहर से रवाना होगी और मुंबई के […]",
+        "article": "वियतनाम के फु क्वोक द्वीप के पास नाव पलटने की घटना में जान गंवाने वाले 15 भारतीय पर्यटकों के पार्थिव शरीर को आज भारत वापस लाया जाएगा। वियतनाम स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि हवाई जहाज स्थानीय समयानुसार शाम 6 बजे हो ची मिन्ह शहर से रवाना होगी और मुंबई के छत्रपति शिवाजी महाराज अंतरराष्ट्रीय हवाई अड्डे पर भारतीय समयानुसार रात करीब साढे नौ बजे पहुंचेगी। दूतावास ने कहा कि संबंधित राज्य सरकारों से अनुरोध किया गया है कि वे पार्थिव शरीर को अंतिम संस्कार के लिए पीडित परिवारों के साथ समन्वय स्थापित करें। &nbsp; &nbsp;",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:51:27+00:00",
+        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indian-nationals-who-died-in-a-boat-accident-in-vietnam-will-arrive-in-india-tonight-on-a-special-flight/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/10-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत टेक्स 2026 कल से नई दिल्ली के भारत मंडपम में होगा शुरू",
+        "summary": "भारत की सबसे बड़ी वैश्विक वस्त्र प्रदर्शनी, भारत टेक्स 2026, कल से नई दिल्ली के भारत मंडपम में शुरू होगा। चार दिवसीय इस आयोजन में वस्त्र, फैशन, स्थिरता, प्रौद्योगिकी, नवाचार, निवेश और अंतरराष्ट्रीय व्यापार के क्षेत्र में भारत के बढ़ते वैश्विक नेतृत्व का प्रदर्शन किया जाएगा। यह आयोजन निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, […]",
+        "article": "भारत की सबसे बड़ी वैश्विक वस्त्र प्रदर्शनी, भारत टेक्स 2026, कल से नई दिल्ली के भारत मंडपम में शुरू होगा। चार दिवसीय इस आयोजन में वस्त्र, फैशन, स्थिरता, प्रौद्योगिकी, नवाचार, निवेश और अंतरराष्ट्रीय व्यापार के क्षेत्र में भारत के बढ़ते वैश्विक नेतृत्व का प्रदर्शन किया जाएगा। यह आयोजन निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, अंतरराष्ट्रीय प्रतिनिधिमंडलों, कारीगरों, स्टार्टअप्स और प्रौद्योगिकी प्रदाताओं को एक साथ लाएगा। आज नई दिल्ली में एक संवाददाता सम्&#x200d;मेलन को संबोधित करते हुए, भारत टेक्स ट्रेड फेडरेशन के अध्यक्ष, नरेन गोयनका ने कहा कि भारत टेक्स 2026 के तीसरे संस्करण में सात हजार से अधिक खरीदारों, एक लाख 30 हजार व्यापार आगंतुकों और 20 हजार से अधिक वस्त्र उत्पादों की भागीदारी की उम्मीद है। इस आयोजन में 14 देशों के अंतरराष्ट्रीय प्रदर्शक भाग लेंगे। हमारे संवाददाता की रिपोर्ट है कि इस आयोजन में ग्यारह राज्य भाग ले रहे हैं। प्रधानमंत्री नरेंद्र मोदी के 5 एफ विजन &#8211; फार्म टू फाइबर टू फैक्ट्री टू फैशन टू फॉरेन &#8211; से प्रेरित होकर, भारत टेक्स 2026 कपड़ा मूल्य श्रृंखला में व्यापार, निवेश, नवाचार, नीतिगत संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख वैश्विक मंच के रूप में विकसित हुआ है।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:48:00+00:00",
+        "link": "https://newsonair.gov.in/hi/bharat-tex-2026-will-begin-tomorrow-at-bharat-mandapam-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/17.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय मंत्री जी. किशन रेड्डी ने तेलंगाना पार्टी मुख्यालय से दो दिवसीय ‘सिंगारेनी भरोसा यात्रा’ का शुभारंभ किया",
+        "summary": "केंद्रीय कोयला एवं खान मंत्री जी. किशन रेड्डी ने भाजपा के तेलंगाना प्रदेश अध्यक्ष एन. रामचंद्र राव के साथ राज्य पार्टी मुख्यालय से दो दिवसीय &#8216;सिंगारेनी भरोसा यात्रा&#8217; का शुभारंभ किया। कल तक चलने वाली इस यात्रा का उद्देश्य 50 हजार से अधिक स्थायी सिंगारेनी कर्मचारियों और 30 हजार से अधिक संविदा एवं आउटसोर्सिंग कर्मचारियों […]",
+        "article": "केंद्रीय कोयला एवं खान मंत्री जी. किशन रेड्डी ने भाजपा के तेलंगाना प्रदेश अध्यक्ष एन. रामचंद्र राव के साथ राज्य पार्टी मुख्यालय से दो दिवसीय &#8216;सिंगारेनी भरोसा यात्रा&#8217; का शुभारंभ किया। कल तक चलने वाली इस यात्रा का उद्देश्य 50 हजार से अधिक स्थायी सिंगारेनी कर्मचारियों और 30 हजार से अधिक संविदा एवं आउटसोर्सिंग कर्मचारियों को उनके भविष्य की सुरक्षा के प्रति आश्वस्त करना है। कोथागुडेम क्लब में आयोजित एक कर्मचारी सम्मेलन में केंद्रीय मंत्री किशन रेड्डी ने सिंगारेनी कोलियरीज कंपनी लिमिटेड (एससीसीएल) को ताडिचेरला-II कोयला ब्लॉक के ऐतिहासिक आवंटन पर प्रकाश डाला। उन्होंने कहा कि सर्वोच्च न्यायालय के 2014 के उस आदेश के बाद, जिसमें पिछली यूपीए सरकार के दौरान भ्रष्टाचार पर अंकुश लगाने के लिए सभी कोयला ब्लॉकों के लिए प्रतिस्पर्धी बोली अनिवार्य की गई थी, ताडिचेरला-II देश का एकमात्र कोयला ब्लॉक है जिसे बिना नीलामी के सीधे सार्वजनिक क्षेत्र की कंपनी को आवंटित किया गया है। उन्होंने इस ऐतिहासिक निर्णय के लिए प्रधानमंत्री नरेन्&#x200d;द्र मोदी के तेलंगाना और सिंगारेनी के भविष्य के प्रति विशेष ध्यान को श्रेय दिया।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:47:35+00:00",
+        "link": "https://newsonair.gov.in/hi/union-minister-g-kishan-reddy-flagged-off-the-two-day-singareni-bharosa-yatra-from-the-party-headquarters-in-telangana/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/g-kishan-reddy-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "सेल फोर्थ 250 समारोह में सफल भागीदारी बाद आईएनएस सुदर्शनी बोस्टन पहुंचा",
         "summary": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी न्यूयॉर्क में आयोजित सेल फोर्थ 250 समारोह में सफल भागीदारी के बाद अमरीका के बोस्टन पहुंच गया है। पोत कल बोस्टन पहुंचा और &#8216;सेल बोस्टन 2026&#8217; के शुभारंभ के उपलक्ष्य में आयोजित &#8216;ग्रैंड परेड ऑफ सेल्स&#8217; में भाग लिया। रक्षा मंत्रालय ने बताया कि आईएनएस सुदर्शनी 20 […]",
         "article": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी न्यूयॉर्क में आयोजित सेल फोर्थ 250 समारोह में सफल भागीदारी के बाद अमरीका के बोस्टन पहुंच गया है। पोत कल बोस्टन पहुंचा और &#8216;सेल बोस्टन 2026&#8217; के शुभारंभ के उपलक्ष्य में आयोजित &#8216;ग्रैंड परेड ऑफ सेल्स&#8217; में भाग लिया। रक्षा मंत्रालय ने बताया कि आईएनएस सुदर्शनी 20 से अधिक देशों के 60 से अधिक बड़े पोतों के अंतरराष्ट्रीय बेड़े में शामिल हो गया है। यह भारत में चल रहे &#8216;लोकयान 2026&#8217; समुद्री अभियान के दौरान सद्भावना के समुद्री राजदूत के रूप में भारत का प्रतिनिधित्व कर रहा है। मंत्रालय ने बताया कि पोत 15 जुलाई तक आगंतुकों के लिए खुला रहेगा। मंत्रालय ने कहा कि &#8216;सेल बोस्टन 2026&#8217; में आईएनएस सुदर्शनी की भागीदारी भारत-अमरीका की बढ़ती समुद्री साझेदारी को और मजबूत करती है और वैश्विक मंच पर भारत की समृद्ध समुद्री विरासत को प्रदर्शित करती है।",
@@ -1393,17 +1445,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T08:37:33+00:00",
         "link": "https://newsonair.gov.in/hi/ins-sudarshini-arrived-in-boston-after-successfully-participating-in-the-sail-fourth-250-event/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNFuQBbbYAApNWk.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "नागरिकता निर्धारण की प्रक्रिया निष्पक्ष होनी चाहिए: सर्वोच्च न्यायालय",
-        "summary": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया […]",
-        "article": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया जाना चाहिए। न्यायमूर्ति विक्रम नाथ और न्यायमूर्ति संदीप मेहता की पीठ ने 27 मामलों में गुवाहाटी उच्च न्यायालय और विदेशी न्यायाधिकरणों के आदेशों को रद्द कर दिया। सर्वोच्च न्यायालय ने कहा कि नागरिकता तय करने या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए और न्यायिक सिद्धांतों से समझौता नहीं किया जा सकता। न्यायालय ने निर्देश दिया कि न्यायाधिकरणों द्वारा उनके मामलों की पुन: सुनवाई होने तक याचिकाकर्ताओं के खिलाफ कोई दंडात्मक कार्रवाई न की जाए। याचिकाकर्ताओं में सबित्री डे, अजबहार अली, मोहम्मद अकबर अली, अबेदा खातून और अनवारा खातून शामिल थे। इनका तर्क था कि उन्हें अति तकनीकी आधारों और मामूली विसंगतियों के आधार पर विदेशी घोषित किया गया था। याचिकाकर्ताओं ने गुवाहाटी उच्च न्यायालय और बाद में सर्वोच्च न्यायालय में न्यायाधिकरण के आदेशों को चुनौती दी थी। अपनी भारतीय नागरिकता साबित करने के लिए 1971 से पहले के अभिलेखों, मतदाता सूचियों और भूमि अभिलेखों जैसे दस्तावेजों का सहारा लिया था।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T08:00:42+00:00",
-        "link": "https://newsonair.gov.in/hi/the-process-of-determining-citizenship-must-be-fair-supreme-court/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/exclusion-from-temple-may-divide-society-impact-hinduism-says-supreme-court-2026-04-10-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1448,50 +1489,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T07:21:40+00:00",
         "link": "https://newsonair.gov.in/hi/the-ministry-of-health-and-family-welfare-has-invited-suggestions-on-the-draft-national-health-research-policy/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/The-Ministry-of-Health-and-Family-Welfare.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "उज्बेकिस्तान में केरलम् की मेडिकल छात्रा की हत्या पर राष्ट्रीय महिला आयोग ने लिया स्वत: संज्ञान",
-        "summary": "राष्‍ट्रीय महिला आयोग ने केरलम् की 21 वर्षीय मेडिकल छात्रा की उजबेकिस्‍तान में यातना और हत्‍या से जुड़ी खबर का स्‍वत: संज्ञान लिया। आयोग ने उसके साथ मार-पीट, यातना और जबरन धर्मांतरण की कोशिश से हुई मौत के आरोपों पर चिंता व्‍यक्‍त की है। आयोग ने इस संबंध में केरलम् के पुलिस महानिदेशक को पत्र […]",
-        "article": "राष्&#x200d;ट्रीय महिला आयोग ने केरलम् की 21 वर्षीय मेडिकल छात्रा की उजबेकिस्&#x200d;तान में यातना और हत्&#x200d;या से जुड़ी खबर का स्&#x200d;वत: संज्ञान लिया। आयोग ने उसके साथ मार-पीट, यातना और जबरन धर्मांतरण की कोशिश से हुई मौत के आरोपों पर चिंता व्&#x200d;यक्&#x200d;त की है। आयोग ने इस संबंध में केरलम् के पुलिस महानिदेशक को पत्र लिखकर विदेश मंत्रालय और ताशकंद में भारतीय दूतावास के साथ समन्&#x200d;वय कर मामले में तेजी से जांच कराने तथा साक्ष्&#x200d;यों का संरक्षण और शोक संतप्&#x200d;त परिवार को व्&#x200d;यापक समर्थन देने को कहा है। राष्&#x200d;ट्रीय महिला आयोग ने केरलम् के पुलिस महानिदेशक से की गई कार्रवाई पर सात दिन के भीतर रिपोर्ट देने को कहा है। आयोग ने उजबेकिस्&#x200d;तान में भारतीय दूतावास से भी इस मामले में सभी आवश्&#x200d;यक सहायता और कानूनी कार्रवाई में सहयोग देने का आग्रह किया है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T06:22:35+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%89%e0%a4%9c%e0%a5%8d%e0%a4%ac%e0%a5%87%e0%a4%95%e0%a4%bf%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%a8-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%95%e0%a5%87%e0%a4%b0%e0%a4%b2%e0%a4%ae%e0%a5%8d/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/NCW-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने फर्जी इंटर्नशिप वाले गूगल फॉर्म का किया खंडन",
-        "summary": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे एक गूगल फॉर्म का खंडन किया है, जिसमें डॉक्टरों और अन्य पेशेवरों के लिए इंटर्नशिप देने का झूठा दावा किया गया था। यह इंटर्नशिप कथित तौर पर सूक्ष्म, लघु एवं मध्यम उद्यम मंत्रालय और कॉर्पोरेट मामलों के मंत्रालय द्वारा अनुमोदित बताई गई थी। पत्र सूचना कार्यालय-पीआईबी की […]",
-        "article": "सरकार ने सोशल मीडिया पर प्रसारित हो रहे एक गूगल फॉर्म का खंडन किया है, जिसमें डॉक्टरों और अन्य पेशेवरों के लिए इंटर्नशिप देने का झूठा दावा किया गया था। यह इंटर्नशिप कथित तौर पर सूक्ष्म, लघु एवं मध्यम उद्यम मंत्रालय और कॉर्पोरेट मामलों के मंत्रालय द्वारा अनुमोदित बताई गई थी। पत्र सूचना कार्यालय-पीआईबी की तथ्&#x200d;य जांच इकाई ने स्पष्ट किया है कि यह दावा फर्जी है। पीआईबी ने बताया कि एमएसएमई मंत्रालय या कॉर्पोरेट मामलों के मंत्रालय द्वारा ऐसे किसी इंटर्नशिप कार्यक्रम के लिए कोई आधिकारिक अधिसूचना या आवेदन पत्र जारी नहीं किया गया है। पीआईबी ने नागरिकों से आग्रह किया है कि वे संदिग्ध लिंक या वेबपेजों पर क्लिक न करें और अपुष्ट प्लेटफार्मों पर अपनी व्यक्तिगत जानकारी साझा न करें। इसने उन्हें प्रामाणिक जानकारी के लिए केवल आधिकारिक सरकारी वेबसाइटों और सत्यापित स्रोतों पर ही भरोसा करने की सलाह दी है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T06:21:11+00:00",
-        "link": "https://newsonair.gov.in/hi/the-government-has-refuted-the-google-form-regarding-a-fake-internship/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम नौका हादसे में मृत 15 भारतीयों के पार्थिव शरीर भारत लाए जाएंगे",
-        "summary": "वियतनाम के फु क्वोक द्वीप के पास नाव पलटने की घटना में जान गंवाने वाले 15 भारतीय पर्यटकों के पार्थिव शरीर को आज भारत वापस लाया जाएगा। वियतनाम स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि हवाई जहाज स्थानीय समयानुसार शाम 6 बजे हो ची मिन्ह शहर से रवाना होगी और मुंबई के […]",
-        "article": "वियतनाम के फु क्वोक द्वीप के पास नाव पलटने की घटना में जान गंवाने वाले 15 भारतीय पर्यटकों के पार्थिव शरीर को आज भारत वापस लाया जाएगा। वियतनाम स्थित भारतीय दूतावास ने सोशल मीडिया पोस्ट में बताया कि हवाई जहाज स्थानीय समयानुसार शाम 6 बजे हो ची मिन्ह शहर से रवाना होगी और मुंबई के छत्रपति शिवाजी महाराज अंतरराष्ट्रीय हवाई अड्डे पर भारतीय समयानुसार रात करीब साढे नौ बजे पहुंचेगी। दूतावास ने कहा कि संबंधित राज्य सरकारों से अनुरोध किया गया है कि वे पार्थिव शरीर को अंतिम संस्कार के लिए पीडित परिवारों के साथ समन्वय स्थापित करें। &nbsp; &nbsp;",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T04:38:27+00:00",
-        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-the-vietnam-boat-accident-will-be-brought-to-india/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/10-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "इसरो ने गगनयान क्रू मॉड्यूल सिस्टम के तीन प्रमुख परीक्षण सफलतापूर्वक पूरे किए",
-        "summary": "भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) ने गगनयान क्रू मॉड्यूल सिस्टम के तीन प्रमुख परीक्षणों को सफलतापूर्वक पूरा कर लिया है। पहला परीक्षण समुद्र में उतरने के बाद क्रू मॉड्यूल की सीधी स्थिति सुनिश्चित करने से संबंधित था, जिसे चालक दल की सुरक्षा के लिए सबसे महत्वपूर्ण आवश्यकताओं में से एक माना जाता है। दूसरे परीक्षण […]",
-        "article": "भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) ने गगनयान क्रू मॉड्यूल सिस्टम के तीन प्रमुख परीक्षणों को सफलतापूर्वक पूरा कर लिया है। पहला परीक्षण समुद्र में उतरने के बाद क्रू मॉड्यूल की सीधी स्थिति सुनिश्चित करने से संबंधित था, जिसे चालक दल की सुरक्षा के लिए सबसे महत्वपूर्ण आवश्यकताओं में से एक माना जाता है। दूसरे परीक्षण में अंतरिक्ष यात्रियों का कैबिन क्रू मॉड्यूल और बिजली देने वाले सर्विस मॉड्यूल के बीच कड़ी का काम करने वाले अम्बिलिकल मैकेनिज्म के अलगाव की जांच की गई। अंतरिक्ष से वापस आते समय, सर्विस मॉड्यूल को क्रू मॉड्यूल से अलग होना पड़ता है, क्योंकि पृथ्वी पर सिर्फ क्रू मॉड्यूल ही वापस आता है, जिसमें अंतरिक्ष यात्री बैठे होते हैं। इसरो ने जांचा कि पृथ्वी के वायुमंडल में घुसने से ठीक पहले, सभी तार और जोड़ बिना किसी गड़बड़ी के, बिल्कुल सही समय पर साफ-साफ टूटकर अलग हो रहे हैं या नहीं। तीसरे परीक्षण ने एपेक्स कवर के अलग होने की घटना के दौरान क्रू मॉड्यूल की संरचनात्मक अखंडता को सत्यापित किया। मिशन के दौरान केबिन की रफ्तार बहुत तेज होती है। उसे धीमा करने के लिए बड़े-बड़े पैराशूट खुलते हैं। ये पैराशूट केबिन की छत पर एक मजबूत ढक्कन यानी एपेक्स कवर के अंदर सुरक्षित बंद रहते हैं। पैराशूट खोलने से ठीक पहले इस ढक्कन को हवा में उड़ जाना होता है। इसरो ने जांच किया कि जब यह ढक्कन झटके से अलग होता है, तो केबिन को कोई नुकसान तो नहीं होता है। अपने तीनों परीक्षण से इसरो ने यह पक्का कर लिया है कि अंतरिक्ष यात्रियों का केबिन सही समय पर अलग होगा, उसके पैराशूट सही से खुलेंगे और पानी में गिरने के बाद वह डूबेगा या उलटेगा नहीं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T02:35:20+00:00",
-        "link": "https://newsonair.gov.in/hi/isro-successfully-completed-three-major-tests-of-the-gaganyaan-crew-module-system/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
