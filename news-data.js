@@ -1,8 +1,19 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-13T08:37:49.223728",
+  "generated": "2026-07-13T08:39:19.679476",
   "en": {
     "top": [
+      {
+        "title": "INS Sudarshini arrives in Boston after Sail4th 250 celebrations",
+        "summary": "Indian Naval Sail Training Ship INS Sudarshini has arrived in Boston, United States, after successfully participating in the Sail4th 250 celebrations in New York. The ship reached Boston yesterday and took part in the Grand Parade of Sails, marking the commencement of Sail Boston 2026. The Defence Ministry said INS Sudarshini joined an international fleet […]",
+        "article": "Indian Naval Sail Training Ship INS Sudarshini has arrived in Boston, United States, after successfully participating in the Sail4th 250 celebrations in New York. The ship reached Boston yesterday and took part in the Grand Parade of Sails, marking the commencement of Sail Boston 2026. The Defence Ministry said INS Sudarshini joined an international fleet of more than 60 tall ships from over 20 countries and is representing India as a maritime ambassador of goodwill during its ongoing Lokayan 2026 transoceanic expedition. The Ministry said the ship will remain open to visitors till the 15th of this month. It added that INS Sudarshini&#8217;s participation in Sail Boston 2026 further strengthens the growing India-US maritime partnership and showcases India&#8217;s rich seafaring heritage on the global stage.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:37:20+00:00",
+        "link": "https://newsonair.gov.in/ins-sudarshini-arrives-in-boston-after-sail4th-250-celebrations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/16.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "SC says citizenship determination must follow due process; sets aside 27 foreigner rulings",
         "summary": "The Supreme Court today ruled that the process of determining citizenship or declaring an individual a foreigner must be fair, while hearing a batch of petitions filed by 27 people who had been declared &#8220;foreigners&#8221; by Foreigners Tribunals in Assam. . A bench of Justice Vikram Nath and Justice Sandeep Mehta set aside the orders […]",
@@ -110,17 +121,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T05:42:25+00:00",
         "link": "https://newsonair.gov.in/government-debunks-fake-internship-claim-circulating-on-social-media/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NCW takes suo motu cognisance of Keralam student’s murder in Uzbekistan",
-        "summary": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of […]",
-        "article": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of Police, Keralam, seeking an expeditious investigation, coordination with the Ministry of External Affairs and the Indian Embassy in Tashkent, preservation of evidence, and comprehensive support for the bereaved family. The Commission has sought an Action Taken Report from the Kerala DGP within seven days. The NCW has also requested the Ambassador of India to Uzbekistan to extend all necessary assistance and coordinate with the concerned authorities to facilitate the legal process and ensure effective cooperation in the matter.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T05:14:13+00:00",
-        "link": "https://newsonair.gov.in/ncw-takes-suo-motu-cognisance-of-keralam-students-murder-in-uzbekistan/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/ncw-19a.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -215,17 +215,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "NCW takes suo motu cognisance of Keralam student’s murder in Uzbekistan",
-        "summary": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of […]",
-        "article": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of Police, Keralam, seeking an expeditious investigation, coordination with the Ministry of External Affairs and the Indian Embassy in Tashkent, preservation of evidence, and comprehensive support for the bereaved family. The Commission has sought an Action Taken Report from the Kerala DGP within seven days. The NCW has also requested the Ambassador of India to Uzbekistan to extend all necessary assistance and coordinate with the concerned authorities to facilitate the legal process and ensure effective cooperation in the matter.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T05:14:13+00:00",
-        "link": "https://newsonair.gov.in/ncw-takes-suo-motu-cognisance-of-keralam-students-murder-in-uzbekistan/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/ncw-19a.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Union Minister Piyush Goyal to visit Spain, Belgium and Finland to strengthen economic ties",
         "summary": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation on an official visit to Spain, Belgium and Finland from today till the 17th of this month. The visit aims to strengthen India&#8217;s economic partnerships with Europe, with a focus on trade, investment, technology, innovation and sustainability. In the first leg […]",
         "article": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation on an official visit to Spain, Belgium and Finland from today till the 17th of this month. The visit aims to strengthen India&#8217;s economic partnerships with Europe, with a focus on trade, investment, technology, innovation and sustainability. In the first leg of the visit, Mr Goyal will travel to Spain today, where he will participate in a Business Roundtable with the Chamber of Commerce of Spain, the Spanish Confederation of Business Organisations (CEOE) and ICEX Spain Trade and Investment. The roundtable will bring together Indian and Spanish industry leaders to explore opportunities in the automotive, renewable energy, railways, artificial intelligence, semiconductors, food processing and tourism sectors. Mr Goyal will then visit Belgium on the 14th and 15th of this month. During the visit, he will hold meetings with the leadership of Thales Group and Silox Group. He will also participate in the India-EU Business Roundtable and the Trade and Technology Council Plenary. Discussions will focus on foreign investment, trade facilitation, sustainable technologies and resilient supply chains. In the final leg of the visit, the Minister will travel to Finland on the 16th and 17th of this month. He will attend the India-Finland Business Roundtable and visit leading Finnish companies and research institutions, including Nokia, Kone, Kemppi Group and VTT Technical Research Centre of Finland, to explore collaboration in telecommunications, advanced manufacturing, clean energy, mobility and innovation.",
@@ -245,6 +234,18 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/isro-successfully-carries-out-three-major-tests-of-gaganyaan-crew-module-systems/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NCW takes suo motu cognisance of Keralam student’s murder in Uzbekistan",
+        "summary": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of […]",
+        "article": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of Police, Keralam, seeking an expeditious investigation, coordination with the Ministry of External Affairs and the Indian Embassy in Tashkent, preservation of evidence, and comprehensive support for the bereaved family. The Commission has sought an Action Taken Report from the Kerala DGP within seven days. The NCW has also requested the Ambassador of India to Uzbekistan to extend all necessary assistance and coordinate with the concerned authorities to facilitate the legal process and ensure effective cooperation in the matter.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T05:14:13+00:00",
+        "link": "https://newsonair.gov.in/ncw-takes-suo-motu-cognisance-of-keralam-students-murder-in-uzbekistan/",
+        "post_id": 1735143,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -327,17 +328,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "NCW takes suo motu cognisance of Keralam student’s murder in Uzbekistan",
-        "summary": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of […]",
-        "article": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of Police, Keralam, seeking an expeditious investigation, coordination with the Ministry of External Affairs and the Indian Embassy in Tashkent, preservation of evidence, and comprehensive support for the bereaved family. The Commission has sought an Action Taken Report from the Kerala DGP within seven days. The NCW has also requested the Ambassador of India to Uzbekistan to extend all necessary assistance and coordinate with the concerned authorities to facilitate the legal process and ensure effective cooperation in the matter.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T05:14:13+00:00",
-        "link": "https://newsonair.gov.in/ncw-takes-suo-motu-cognisance-of-keralam-students-murder-in-uzbekistan/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/ncw-19a.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Union Minister Piyush Goyal to visit Spain, Belgium and Finland to strengthen economic ties",
         "summary": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation on an official visit to Spain, Belgium and Finland from today till the 17th of this month. The visit aims to strengthen India&#8217;s economic partnerships with Europe, with a focus on trade, investment, technology, innovation and sustainability. In the first leg […]",
         "article": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation on an official visit to Spain, Belgium and Finland from today till the 17th of this month. The visit aims to strengthen India&#8217;s economic partnerships with Europe, with a focus on trade, investment, technology, innovation and sustainability. In the first leg of the visit, Mr Goyal will travel to Spain today, where he will participate in a Business Roundtable with the Chamber of Commerce of Spain, the Spanish Confederation of Business Organisations (CEOE) and ICEX Spain Trade and Investment. The roundtable will bring together Indian and Spanish industry leaders to explore opportunities in the automotive, renewable energy, railways, artificial intelligence, semiconductors, food processing and tourism sectors. Mr Goyal will then visit Belgium on the 14th and 15th of this month. During the visit, he will hold meetings with the leadership of Thales Group and Silox Group. He will also participate in the India-EU Business Roundtable and the Trade and Technology Council Plenary. Discussions will focus on foreign investment, trade facilitation, sustainable technologies and resilient supply chains. In the final leg of the visit, the Minister will travel to Finland on the 16th and 17th of this month. He will attend the India-Finland Business Roundtable and visit leading Finnish companies and research institutions, including Nokia, Kone, Kemppi Group and VTT Technical Research Centre of Finland, to explore collaboration in telecommunications, advanced manufacturing, clean energy, mobility and innovation.",
@@ -357,6 +347,18 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/isro-successfully-carries-out-three-major-tests-of-gaganyaan-crew-module-systems/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NCW takes suo motu cognisance of Keralam student’s murder in Uzbekistan",
+        "summary": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of […]",
+        "article": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of Police, Keralam, seeking an expeditious investigation, coordination with the Ministry of External Affairs and the Indian Embassy in Tashkent, preservation of evidence, and comprehensive support for the bereaved family. The Commission has sought an Action Taken Report from the Kerala DGP within seven days. The NCW has also requested the Ambassador of India to Uzbekistan to extend all necessary assistance and coordinate with the concerned authorities to facilitate the legal process and ensure effective cooperation in the matter.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T05:14:13+00:00",
+        "link": "https://newsonair.gov.in/ncw-takes-suo-motu-cognisance-of-keralam-students-murder-in-uzbekistan/",
+        "post_id": 1735143,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -439,17 +441,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "NCW takes suo motu cognisance of Keralam student’s murder in Uzbekistan",
-        "summary": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of […]",
-        "article": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of Police, Keralam, seeking an expeditious investigation, coordination with the Ministry of External Affairs and the Indian Embassy in Tashkent, preservation of evidence, and comprehensive support for the bereaved family. The Commission has sought an Action Taken Report from the Kerala DGP within seven days. The NCW has also requested the Ambassador of India to Uzbekistan to extend all necessary assistance and coordinate with the concerned authorities to facilitate the legal process and ensure effective cooperation in the matter.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T05:14:13+00:00",
-        "link": "https://newsonair.gov.in/ncw-takes-suo-motu-cognisance-of-keralam-students-murder-in-uzbekistan/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/ncw-19a.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Union Minister Piyush Goyal to visit Spain, Belgium and Finland to strengthen economic ties",
         "summary": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation on an official visit to Spain, Belgium and Finland from today till the 17th of this month. The visit aims to strengthen India&#8217;s economic partnerships with Europe, with a focus on trade, investment, technology, innovation and sustainability. In the first leg […]",
         "article": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation on an official visit to Spain, Belgium and Finland from today till the 17th of this month. The visit aims to strengthen India&#8217;s economic partnerships with Europe, with a focus on trade, investment, technology, innovation and sustainability. In the first leg of the visit, Mr Goyal will travel to Spain today, where he will participate in a Business Roundtable with the Chamber of Commerce of Spain, the Spanish Confederation of Business Organisations (CEOE) and ICEX Spain Trade and Investment. The roundtable will bring together Indian and Spanish industry leaders to explore opportunities in the automotive, renewable energy, railways, artificial intelligence, semiconductors, food processing and tourism sectors. Mr Goyal will then visit Belgium on the 14th and 15th of this month. During the visit, he will hold meetings with the leadership of Thales Group and Silox Group. He will also participate in the India-EU Business Roundtable and the Trade and Technology Council Plenary. Discussions will focus on foreign investment, trade facilitation, sustainable technologies and resilient supply chains. In the final leg of the visit, the Minister will travel to Finland on the 16th and 17th of this month. He will attend the India-Finland Business Roundtable and visit leading Finnish companies and research institutions, including Nokia, Kone, Kemppi Group and VTT Technical Research Centre of Finland, to explore collaboration in telecommunications, advanced manufacturing, clean energy, mobility and innovation.",
@@ -470,9 +461,32 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
+      },
+      {
+        "title": "NCW takes suo motu cognisance of Keralam student’s murder in Uzbekistan",
+        "summary": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of […]",
+        "article": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of Police, Keralam, seeking an expeditious investigation, coordination with the Ministry of External Affairs and the Indian Embassy in Tashkent, preservation of evidence, and comprehensive support for the bereaved family. The Commission has sought an Action Taken Report from the Kerala DGP within seven days. The NCW has also requested the Ambassador of India to Uzbekistan to extend all necessary assistance and coordinate with the concerned authorities to facilitate the legal process and ensure effective cooperation in the matter.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T05:14:13+00:00",
+        "link": "https://newsonair.gov.in/ncw-takes-suo-motu-cognisance-of-keralam-students-murder-in-uzbekistan/",
+        "post_id": 1735143,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "INS Sudarshini arrives in Boston after Sail4th 250 celebrations",
+        "summary": "Indian Naval Sail Training Ship INS Sudarshini has arrived in Boston, United States, after successfully participating in the Sail4th 250 celebrations in New York. The ship reached Boston yesterday and took part in the Grand Parade of Sails, marking the commencement of Sail Boston 2026. The Defence Ministry said INS Sudarshini joined an international fleet […]",
+        "article": "Indian Naval Sail Training Ship INS Sudarshini has arrived in Boston, United States, after successfully participating in the Sail4th 250 celebrations in New York. The ship reached Boston yesterday and took part in the Grand Parade of Sails, marking the commencement of Sail Boston 2026. The Defence Ministry said INS Sudarshini joined an international fleet of more than 60 tall ships from over 20 countries and is representing India as a maritime ambassador of goodwill during its ongoing Lokayan 2026 transoceanic expedition. The Ministry said the ship will remain open to visitors till the 15th of this month. It added that INS Sudarshini&#8217;s participation in Sail Boston 2026 further strengthens the growing India-US maritime partnership and showcases India&#8217;s rich seafaring heritage on the global stage.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:37:20+00:00",
+        "link": "https://newsonair.gov.in/ins-sudarshini-arrives-in-boston-after-sail4th-250-celebrations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/16.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Mortal remains of 15 Indians who died in Vietnam boat tragedy to arrive home tonight",
         "summary": "The mortal remains of the 15 Indian tourists who lost their lives in the boat capsize incident near Phu Quoc Island in Vietnam will be repatriated to India today on a Vietnam Airlines flight from Ho Chi Minh City. In a post on social media, the Indian Embassy in Vietnam said that Vietnam Airlines flight […]",
@@ -503,6 +517,17 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T06:10:37+00:00",
         "link": "https://newsonair.gov.in/iran-claims-missile-and-drone-strikes-on-us-military-bases/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/5.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NCW takes suo motu cognisance of Keralam student’s murder in Uzbekistan",
+        "summary": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of […]",
+        "article": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of Police, Keralam, seeking an expeditious investigation, coordination with the Ministry of External Affairs and the Indian Embassy in Tashkent, preservation of evidence, and comprehensive support for the bereaved family. The Commission has sought an Action Taken Report from the Kerala DGP within seven days. The NCW has also requested the Ambassador of India to Uzbekistan to extend all necessary assistance and coordinate with the concerned authorities to facilitate the legal process and ensure effective cooperation in the matter.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T05:14:13+00:00",
+        "link": "https://newsonair.gov.in/ncw-takes-suo-motu-cognisance-of-keralam-students-murder-in-uzbekistan/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/ncw-19a.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -559,29 +584,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/thailand-27-people-killed-in-bar-fire-in-bangkok/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/thailand.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India declares one-day national mourning to honour Qatar’s Father Amir",
-        "summary": "India has declared a one-day national mourning today as a mark of respect for the Father Amir of Qatar, Sheikh Hamad bin Khalifa Al-Thani, who passed away yesterday. The National Flag will be flown at half-mast across India on all buildings where it is regularly flown. There will be no official entertainment on the […]",
-        "article": "India has declared a one-day national mourning today as a mark of respect for the Father Amir of Qatar, Sheikh Hamad bin Khalifa Al-Thani, who passed away yesterday. The National Flag will be flown at half-mast across India on all buildings where it is regularly flown. There will be no official entertainment on the day of mourning. Prime Minister Narendra Modi has expressed condolences on the passing of Father Amir Sheikh Hamad bin Khalifa Al-Thani, describing him as a visionary leader who guided Qatar to remarkable development and prosperity. In a statement, the Ministry of External Affairs said that Parliamentary Affairs and Minority Affairs Minister Kiren Rijiju is visiting Qatar to convey condolences on behalf of the Government of India to the State of Qatar.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T00:51:41+00:00",
-        "link": "https://newsonair.gov.in/india-declares-one-day-national-mourning-tomorrow-as-mark-of-respect-for-father-amir-of-qatar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NCW takes suo motu cognisance of Keralam student’s murder in Uzbekistan",
-        "summary": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of […]",
-        "article": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of Police, Keralam, seeking an expeditious investigation, coordination with the Ministry of External Affairs and the Indian Embassy in Tashkent, preservation of evidence, and comprehensive support for the bereaved family. The Commission has sought an Action Taken Report from the Kerala DGP within seven days. The NCW has also requested the Ambassador of India to Uzbekistan to extend all necessary assistance and coordinate with the concerned authorities to facilitate the legal process and ensure effective cooperation in the matter.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T05:14:13+00:00",
-        "link": "https://newsonair.gov.in/ncw-takes-suo-motu-cognisance-of-keralam-students-murder-in-uzbekistan/",
-        "post_id": 1735143,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -1026,6 +1028,17 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "सेल फोर्थ 250 समारोह में सफल भागीदारी बाद आईएनएस सुदर्शनी बोस्टन पहुंचा",
+        "summary": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी न्यूयॉर्क में आयोजित सेल फोर्थ 250 समारोह में सफल भागीदारी के बाद अमरीका के बोस्टन पहुंच गया है। पोत कल बोस्टन पहुंचा और &#8216;सेल बोस्टन 2026&#8217; के शुभारंभ के उपलक्ष्य में आयोजित &#8216;ग्रैंड परेड ऑफ सेल्स&#8217; में भाग लिया। रक्षा मंत्रालय ने बताया कि आईएनएस सुदर्शनी 20 […]",
+        "article": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी न्यूयॉर्क में आयोजित सेल फोर्थ 250 समारोह में सफल भागीदारी के बाद अमरीका के बोस्टन पहुंच गया है। पोत कल बोस्टन पहुंचा और &#8216;सेल बोस्टन 2026&#8217; के शुभारंभ के उपलक्ष्य में आयोजित &#8216;ग्रैंड परेड ऑफ सेल्स&#8217; में भाग लिया। रक्षा मंत्रालय ने बताया कि आईएनएस सुदर्शनी 20 से अधिक देशों के 60 से अधिक बड़े पोतों के अंतरराष्ट्रीय बेड़े में शामिल हो गया है। यह भारत में चल रहे &#8216;लोकयान 2026&#8217; समुद्री अभियान के दौरान सद्भावना के समुद्री राजदूत के रूप में भारत का प्रतिनिधित्व कर रहा है। मंत्रालय ने बताया कि पोत 15 जुलाई तक आगंतुकों के लिए खुला रहेगा। मंत्रालय ने कहा कि &#8216;सेल बोस्टन 2026&#8217; में आईएनएस सुदर्शनी की भागीदारी भारत-अमरीका की बढ़ती समुद्री साझेदारी को और मजबूत करती है और वैश्विक मंच पर भारत की समृद्ध समुद्री विरासत को प्रदर्शित करती है।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:37:33+00:00",
+        "link": "https://newsonair.gov.in/hi/ins-sudarshini-arrived-in-boston-after-successfully-participating-in-the-sail-fourth-250-event/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNFuQBbbYAApNWk.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "नागरिकता निर्धारण की प्रक्रिया निष्पक्ष होनी चाहिए: सर्वोच्च न्यायालय",
         "summary": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया […]",
         "article": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया जाना चाहिए। न्यायमूर्ति विक्रम नाथ और न्यायमूर्ति संदीप मेहता की पीठ ने 27 मामलों में गुवाहाटी उच्च न्यायालय और विदेशी न्यायाधिकरणों के आदेशों को रद्द कर दिया। सर्वोच्च न्यायालय ने कहा कि नागरिकता तय करने या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए और न्यायिक सिद्धांतों से समझौता नहीं किया जा सकता। न्यायालय ने निर्देश दिया कि न्यायाधिकरणों द्वारा उनके मामलों की पुन: सुनवाई होने तक याचिकाकर्ताओं के खिलाफ कोई दंडात्मक कार्रवाई न की जाए। याचिकाकर्ताओं में सबित्री डे, अजबहार अली, मोहम्मद अकबर अली, अबेदा खातून और अनवारा खातून शामिल थे। इनका तर्क था कि उन्हें अति तकनीकी आधारों और मामूली विसंगतियों के आधार पर विदेशी घोषित किया गया था। याचिकाकर्ताओं ने गुवाहाटी उच्च न्यायालय और बाद में सर्वोच्च न्यायालय में न्यायाधिकरण के आदेशों को चुनौती दी थी। अपनी भारतीय नागरिकता साबित करने के लिए 1971 से पहले के अभिलेखों, मतदाता सूचियों और भूमि अभिलेखों जैसे दस्तावेजों का सहारा लिया था।",
@@ -1145,20 +1158,20 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/10-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "इस्राएल में 27 अक्टूबर को होंगे राष्ट्रीय चुनाव",
-        "summary": "इस्राएल में इस वर्ष 27 अक्टूबर को राष्ट्रीय चुनाव होंगे। इस चुनाव को व्यापक रूप से गाजा संघर्ष की शुरुआत के बाद से प्रधानमंत्री बेंन्यामिन नेतन्याहू के नेतृत्व पर जनमत संग्रह के रूप में देखा जा रहा है। इस्राएल की संसद शुक्रवार को अपने वर्तमान कार्यकाल का अंतिम सत्र आयोजित करने जा रही है, जिससे […]",
-        "article": "इस्राएल में इस वर्ष 27 अक्टूबर को राष्ट्रीय चुनाव होंगे। इस चुनाव को व्यापक रूप से गाजा संघर्ष की शुरुआत के बाद से प्रधानमंत्री बेंन्यामिन नेतन्याहू के नेतृत्व पर जनमत संग्रह के रूप में देखा जा रहा है। इस्राएल की संसद शुक्रवार को अपने वर्तमान कार्यकाल का अंतिम सत्र आयोजित करने जा रही है, जिससे नेतन्याहू की गठबंधन सरकार आधी सदी में पहली बार चार साल का कार्यकाल पूरा करने वाली सरकार बन जाएगी। संसद ने स्&#x200d;पष्&#x200d;ट किया है कि चुनाव की तारीख घोषित होने के बाद से विधायिका का कार्यकाल कम करने का कोई इरादा नहीं है। इस्राएल के सबसे लंबे समय तक सेवा करने वाले प्रधानमंत्री नेतन्याहू ने जून में पुष्टि की थी कि वह आगामी चुनावों में उम्मीदवार होंगे। 76 वर्षीय नेतन्याहू को 7 अक्टूबर 2023 को हमास के नेतृत्व में हुए हमलों के बाद से बढ़ती आलोचनाओं का सामना करना पड़ा है, जो इस्राएल के इतिहास में सबसे घातक हमला था। इस्राएली सेना के पूर्व प्रमुख गादी आइज़ेनकोट, नेतन्याहू के मुख्य प्रतिद्वंद्वी होंगे। इस्राएली समाचार द्वारा हाल ही में प्रकाशित एक सर्वेक्षण के अनुसार, आइज़ेनकोट की याशर पार्टी नेतन्याहू की लिकुड पार्टी से मामूली अंतर से आगे है। आइज़ेनकोट ने पहले नेतन्याहू के युद्ध मंत्रिमंडल में काम किया था और जून 2024 में यह कहकर इस्तीफा दे दिया था कि सरकार गाज़ा में अपने किसी भी उद्देश्य को हासिल करने में पूरी तरह विफल रही है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T03:04:38+00:00",
-        "link": "https://newsonair.gov.in/hi/national-elections-will-be-held-in-israel-on-october-27/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/benjamin-netanyahu-rt-ml-190226_hpMain-1980x1321-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "सेल फोर्थ 250 समारोह में सफल भागीदारी बाद आईएनएस सुदर्शनी बोस्टन पहुंचा",
+        "summary": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी न्यूयॉर्क में आयोजित सेल फोर्थ 250 समारोह में सफल भागीदारी के बाद अमरीका के बोस्टन पहुंच गया है। पोत कल बोस्टन पहुंचा और &#8216;सेल बोस्टन 2026&#8217; के शुभारंभ के उपलक्ष्य में आयोजित &#8216;ग्रैंड परेड ऑफ सेल्स&#8217; में भाग लिया। रक्षा मंत्रालय ने बताया कि आईएनएस सुदर्शनी 20 […]",
+        "article": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी न्यूयॉर्क में आयोजित सेल फोर्थ 250 समारोह में सफल भागीदारी के बाद अमरीका के बोस्टन पहुंच गया है। पोत कल बोस्टन पहुंचा और &#8216;सेल बोस्टन 2026&#8217; के शुभारंभ के उपलक्ष्य में आयोजित &#8216;ग्रैंड परेड ऑफ सेल्स&#8217; में भाग लिया। रक्षा मंत्रालय ने बताया कि आईएनएस सुदर्शनी 20 से अधिक देशों के 60 से अधिक बड़े पोतों के अंतरराष्ट्रीय बेड़े में शामिल हो गया है। यह भारत में चल रहे &#8216;लोकयान 2026&#8217; समुद्री अभियान के दौरान सद्भावना के समुद्री राजदूत के रूप में भारत का प्रतिनिधित्व कर रहा है। मंत्रालय ने बताया कि पोत 15 जुलाई तक आगंतुकों के लिए खुला रहेगा। मंत्रालय ने कहा कि &#8216;सेल बोस्टन 2026&#8217; में आईएनएस सुदर्शनी की भागीदारी भारत-अमरीका की बढ़ती समुद्री साझेदारी को और मजबूत करती है और वैश्विक मंच पर भारत की समृद्ध समुद्री विरासत को प्रदर्शित करती है।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:37:33+00:00",
+        "link": "https://newsonair.gov.in/hi/ins-sudarshini-arrived-in-boston-after-successfully-participating-in-the-sail-fourth-250-event/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNFuQBbbYAApNWk.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "नागरिकता निर्धारण की प्रक्रिया निष्पक्ष होनी चाहिए: सर्वोच्च न्यायालय",
         "summary": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया […]",
@@ -1255,23 +1268,23 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T02:35:20+00:00",
         "link": "https://newsonair.gov.in/hi/isro-successfully-completed-three-major-tests-of-the-gaganyaan-crew-module-system/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी निधन के पर भारत में राष्ट्रीय शोक घोषित, भारत की ओर से कतर जाएंगे केंद्रीय मंत्री किरेन रिजिजू",
-        "summary": "भारत ने कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी के निधन पर श्रद्धांजलि अर्पित करते हुए आज एक दिन का राष्ट्रीय शोक घोषित किया है। कल कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी का निधन हो गया। शोक दिवस के दौरान देश भर में उन सभी भवनों पर राष्ट्रीय ध्वज आधा […]",
-        "article": "भारत ने कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी के निधन पर श्रद्धांजलि अर्पित करते हुए आज एक दिन का राष्ट्रीय शोक घोषित किया है। कल कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी का निधन हो गया। शोक दिवस के दौरान देश भर में उन सभी भवनों पर राष्ट्रीय ध्वज आधा झुका रहेगा जहां नियमित रूप से राष्ट्रीय ध्वज फहराया जाता है। आज कोई भी आधिकारिक मनोरंजन कार्यक्रम नहीं होगा। प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने पूर्व अमीर शेख हमद बिन खलीफा अल-थानी के निधन पर शोक व्यक्त करते हुए कहा कि वह एक दूरदर्शी नेता थे जिन्होंने कतर को विकास और समृद्धि के नए मुकाम तक पहुंचाया। विदेश मंत्रालय ने एक बयान में कहा कि संसदीय कार्य और अल्पसंख्यक मामलों के मंत्री किरेन रिजिजू भारत सरकार की ओर से कतर को शोक संदेश देने के लिए वहां जा रहे हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T00:57:08+00:00",
-        "link": "https://newsonair.gov.in/hi/national-mourning-declared-in-india-following-the-passing-of-qatars-former-emir-sheikh-hamad-bin-khalifa-al-thani-union-minister-kiren-rijiju-to-visit-qatar-representing-india/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-14.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "सेल फोर्थ 250 समारोह में सफल भागीदारी बाद आईएनएस सुदर्शनी बोस्टन पहुंचा",
+        "summary": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी न्यूयॉर्क में आयोजित सेल फोर्थ 250 समारोह में सफल भागीदारी के बाद अमरीका के बोस्टन पहुंच गया है। पोत कल बोस्टन पहुंचा और &#8216;सेल बोस्टन 2026&#8217; के शुभारंभ के उपलक्ष्य में आयोजित &#8216;ग्रैंड परेड ऑफ सेल्स&#8217; में भाग लिया। रक्षा मंत्रालय ने बताया कि आईएनएस सुदर्शनी 20 […]",
+        "article": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी न्यूयॉर्क में आयोजित सेल फोर्थ 250 समारोह में सफल भागीदारी के बाद अमरीका के बोस्टन पहुंच गया है। पोत कल बोस्टन पहुंचा और &#8216;सेल बोस्टन 2026&#8217; के शुभारंभ के उपलक्ष्य में आयोजित &#8216;ग्रैंड परेड ऑफ सेल्स&#8217; में भाग लिया। रक्षा मंत्रालय ने बताया कि आईएनएस सुदर्शनी 20 से अधिक देशों के 60 से अधिक बड़े पोतों के अंतरराष्ट्रीय बेड़े में शामिल हो गया है। यह भारत में चल रहे &#8216;लोकयान 2026&#8217; समुद्री अभियान के दौरान सद्भावना के समुद्री राजदूत के रूप में भारत का प्रतिनिधित्व कर रहा है। मंत्रालय ने बताया कि पोत 15 जुलाई तक आगंतुकों के लिए खुला रहेगा। मंत्रालय ने कहा कि &#8216;सेल बोस्टन 2026&#8217; में आईएनएस सुदर्शनी की भागीदारी भारत-अमरीका की बढ़ती समुद्री साझेदारी को और मजबूत करती है और वैश्विक मंच पर भारत की समृद्ध समुद्री विरासत को प्रदर्शित करती है।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:37:33+00:00",
+        "link": "https://newsonair.gov.in/hi/ins-sudarshini-arrived-in-boston-after-successfully-participating-in-the-sail-fourth-250-event/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNFuQBbbYAApNWk.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "नागरिकता निर्धारण की प्रक्रिया निष्पक्ष होनी चाहिए: सर्वोच्च न्यायालय",
         "summary": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया […]",
         "article": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया जाना चाहिए। न्यायमूर्ति विक्रम नाथ और न्यायमूर्ति संदीप मेहता की पीठ ने 27 मामलों में गुवाहाटी उच्च न्यायालय और विदेशी न्यायाधिकरणों के आदेशों को रद्द कर दिया। सर्वोच्च न्यायालय ने कहा कि नागरिकता तय करने या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए और न्यायिक सिद्धांतों से समझौता नहीं किया जा सकता। न्यायालय ने निर्देश दिया कि न्यायाधिकरणों द्वारा उनके मामलों की पुन: सुनवाई होने तक याचिकाकर्ताओं के खिलाफ कोई दंडात्मक कार्रवाई न की जाए। याचिकाकर्ताओं में सबित्री डे, अजबहार अली, मोहम्मद अकबर अली, अबेदा खातून और अनवारा खातून शामिल थे। इनका तर्क था कि उन्हें अति तकनीकी आधारों और मामूली विसंगतियों के आधार पर विदेशी घोषित किया गया था। याचिकाकर्ताओं ने गुवाहाटी उच्च न्यायालय और बाद में सर्वोच्च न्यायालय में न्यायाधिकरण के आदेशों को चुनौती दी थी। अपनी भारतीय नागरिकता साबित करने के लिए 1971 से पहले के अभिलेखों, मतदाता सूचियों और भूमि अभिलेखों जैसे दस्तावेजों का सहारा लिया था।",
@@ -1367,23 +1380,23 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T02:35:20+00:00",
         "link": "https://newsonair.gov.in/hi/isro-successfully-completed-three-major-tests-of-the-gaganyaan-crew-module-system/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी निधन के पर भारत में राष्ट्रीय शोक घोषित, भारत की ओर से कतर जाएंगे केंद्रीय मंत्री किरेन रिजिजू",
-        "summary": "भारत ने कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी के निधन पर श्रद्धांजलि अर्पित करते हुए आज एक दिन का राष्ट्रीय शोक घोषित किया है। कल कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी का निधन हो गया। शोक दिवस के दौरान देश भर में उन सभी भवनों पर राष्ट्रीय ध्वज आधा […]",
-        "article": "भारत ने कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी के निधन पर श्रद्धांजलि अर्पित करते हुए आज एक दिन का राष्ट्रीय शोक घोषित किया है। कल कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी का निधन हो गया। शोक दिवस के दौरान देश भर में उन सभी भवनों पर राष्ट्रीय ध्वज आधा झुका रहेगा जहां नियमित रूप से राष्ट्रीय ध्वज फहराया जाता है। आज कोई भी आधिकारिक मनोरंजन कार्यक्रम नहीं होगा। प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने पूर्व अमीर शेख हमद बिन खलीफा अल-थानी के निधन पर शोक व्यक्त करते हुए कहा कि वह एक दूरदर्शी नेता थे जिन्होंने कतर को विकास और समृद्धि के नए मुकाम तक पहुंचाया। विदेश मंत्रालय ने एक बयान में कहा कि संसदीय कार्य और अल्पसंख्यक मामलों के मंत्री किरेन रिजिजू भारत सरकार की ओर से कतर को शोक संदेश देने के लिए वहां जा रहे हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T00:57:08+00:00",
-        "link": "https://newsonair.gov.in/hi/national-mourning-declared-in-india-following-the-passing-of-qatars-former-emir-sheikh-hamad-bin-khalifa-al-thani-union-minister-kiren-rijiju-to-visit-qatar-representing-india/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-14.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "सेल फोर्थ 250 समारोह में सफल भागीदारी बाद आईएनएस सुदर्शनी बोस्टन पहुंचा",
+        "summary": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी न्यूयॉर्क में आयोजित सेल फोर्थ 250 समारोह में सफल भागीदारी के बाद अमरीका के बोस्टन पहुंच गया है। पोत कल बोस्टन पहुंचा और &#8216;सेल बोस्टन 2026&#8217; के शुभारंभ के उपलक्ष्य में आयोजित &#8216;ग्रैंड परेड ऑफ सेल्स&#8217; में भाग लिया। रक्षा मंत्रालय ने बताया कि आईएनएस सुदर्शनी 20 […]",
+        "article": "भारतीय नौसेना का नौकायन प्रशिक्षण पोत आईएनएस सुदर्शनी न्यूयॉर्क में आयोजित सेल फोर्थ 250 समारोह में सफल भागीदारी के बाद अमरीका के बोस्टन पहुंच गया है। पोत कल बोस्टन पहुंचा और &#8216;सेल बोस्टन 2026&#8217; के शुभारंभ के उपलक्ष्य में आयोजित &#8216;ग्रैंड परेड ऑफ सेल्स&#8217; में भाग लिया। रक्षा मंत्रालय ने बताया कि आईएनएस सुदर्शनी 20 से अधिक देशों के 60 से अधिक बड़े पोतों के अंतरराष्ट्रीय बेड़े में शामिल हो गया है। यह भारत में चल रहे &#8216;लोकयान 2026&#8217; समुद्री अभियान के दौरान सद्भावना के समुद्री राजदूत के रूप में भारत का प्रतिनिधित्व कर रहा है। मंत्रालय ने बताया कि पोत 15 जुलाई तक आगंतुकों के लिए खुला रहेगा। मंत्रालय ने कहा कि &#8216;सेल बोस्टन 2026&#8217; में आईएनएस सुदर्शनी की भागीदारी भारत-अमरीका की बढ़ती समुद्री साझेदारी को और मजबूत करती है और वैश्विक मंच पर भारत की समृद्ध समुद्री विरासत को प्रदर्शित करती है।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:37:33+00:00",
+        "link": "https://newsonair.gov.in/hi/ins-sudarshini-arrived-in-boston-after-successfully-participating-in-the-sail-fourth-250-event/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNFuQBbbYAApNWk.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "नागरिकता निर्धारण की प्रक्रिया निष्पक्ष होनी चाहिए: सर्वोच्च न्यायालय",
         "summary": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया […]",
         "article": "सर्वोच्च न्यायालय ने आज असम के विदेशी न्यायाधिकरणों द्वारा &#8220;विदेशी&#8221; घोषित किए गए 27 लोगों द्वारा दायर याचिकाओं के एक समूह की सुनवाई करते हुए फैसला सुनाया कि नागरिकता निर्धारण या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए। न्यायालय ने इस बात पर जोर दिया कि उचित प्रक्रिया का पालन किया जाना चाहिए। न्यायमूर्ति विक्रम नाथ और न्यायमूर्ति संदीप मेहता की पीठ ने 27 मामलों में गुवाहाटी उच्च न्यायालय और विदेशी न्यायाधिकरणों के आदेशों को रद्द कर दिया। सर्वोच्च न्यायालय ने कहा कि नागरिकता तय करने या किसी व्यक्ति को विदेशी घोषित करने की प्रक्रिया निष्पक्ष होनी चाहिए और न्यायिक सिद्धांतों से समझौता नहीं किया जा सकता। न्यायालय ने निर्देश दिया कि न्यायाधिकरणों द्वारा उनके मामलों की पुन: सुनवाई होने तक याचिकाकर्ताओं के खिलाफ कोई दंडात्मक कार्रवाई न की जाए। याचिकाकर्ताओं में सबित्री डे, अजबहार अली, मोहम्मद अकबर अली, अबेदा खातून और अनवारा खातून शामिल थे। इनका तर्क था कि उन्हें अति तकनीकी आधारों और मामूली विसंगतियों के आधार पर विदेशी घोषित किया गया था। याचिकाकर्ताओं ने गुवाहाटी उच्च न्यायालय और बाद में सर्वोच्च न्यायालय में न्यायाधिकरण के आदेशों को चुनौती दी थी। अपनी भारतीय नागरिकता साबित करने के लिए 1971 से पहले के अभिलेखों, मतदाता सूचियों और भूमि अभिलेखों जैसे दस्तावेजों का सहारा लिया था।",
@@ -1479,17 +1492,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T02:35:20+00:00",
         "link": "https://newsonair.gov.in/hi/isro-successfully-completed-three-major-tests-of-the-gaganyaan-crew-module-system/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी निधन के पर भारत में राष्ट्रीय शोक घोषित, भारत की ओर से कतर जाएंगे केंद्रीय मंत्री किरेन रिजिजू",
-        "summary": "भारत ने कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी के निधन पर श्रद्धांजलि अर्पित करते हुए आज एक दिन का राष्ट्रीय शोक घोषित किया है। कल कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी का निधन हो गया। शोक दिवस के दौरान देश भर में उन सभी भवनों पर राष्ट्रीय ध्वज आधा […]",
-        "article": "भारत ने कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी के निधन पर श्रद्धांजलि अर्पित करते हुए आज एक दिन का राष्ट्रीय शोक घोषित किया है। कल कतर के पूर्व अमीर शेख हमद बिन खलीफा अल-थानी का निधन हो गया। शोक दिवस के दौरान देश भर में उन सभी भवनों पर राष्ट्रीय ध्वज आधा झुका रहेगा जहां नियमित रूप से राष्ट्रीय ध्वज फहराया जाता है। आज कोई भी आधिकारिक मनोरंजन कार्यक्रम नहीं होगा। प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने पूर्व अमीर शेख हमद बिन खलीफा अल-थानी के निधन पर शोक व्यक्त करते हुए कहा कि वह एक दूरदर्शी नेता थे जिन्होंने कतर को विकास और समृद्धि के नए मुकाम तक पहुंचाया। विदेश मंत्रालय ने एक बयान में कहा कि संसदीय कार्य और अल्पसंख्यक मामलों के मंत्री किरेन रिजिजू भारत सरकार की ओर से कतर को शोक संदेश देने के लिए वहां जा रहे हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T00:57:08+00:00",
-        "link": "https://newsonair.gov.in/hi/national-mourning-declared-in-india-following-the-passing-of-qatars-former-emir-sheikh-hamad-bin-khalifa-al-thani-union-minister-kiren-rijiju-to-visit-qatar-representing-india/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-14.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
