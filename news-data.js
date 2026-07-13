@@ -1,8 +1,19 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-13T17:02:55.260758",
+  "generated": "2026-07-13T20:42:24.490216",
   "en": {
     "top": [
+      {
+        "title": "Mortal Remains of 15 Indian Tourists Killed in Vietnam Boat Accident Brought Home",
+        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and […]",
+        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and arrived in Mumbai. It added that the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to Vietnamese authorities and the government, the Embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. In a tragic incident on Friday, a speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island, leaving 15 tourists dead. While 16 survivors have returned to India, one tourist remains hospitalized in Vietnam.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T17:03:56+00:00",
+        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-killed-in-vietnam-boat-accident-brought-home/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "MeitY launches NIDAR 2.0 to develop drones powered by Indian-made chips",
         "summary": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s […]",
@@ -123,20 +134,20 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/piyush-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "US, Iran Claim Control of Strait of Hormuz Amid Escalating Conflict",
-        "summary": "The United States and Iran have each claimed control of the Strait of Hormuz following a weekend of escalating attacks across West Asia, raising fresh concerns over regional security and efforts to revive diplomacy. The latest escalation began after Iran struck a container ship in the Strait of Hormuz off the coast of Oman yesterday. […]",
-        "article": "The United States and Iran have each claimed control of the Strait of Hormuz following a weekend of escalating attacks across West Asia, raising fresh concerns over regional security and efforts to revive diplomacy. The latest escalation began after Iran struck a container ship in the Strait of Hormuz off the coast of Oman yesterday. Since then, no commercial vessels have passed through the strategic waterway, a key route for global oil and gas shipments. The United States has said, it carried out overnight strikes on several Iranian military targets, including air defence systems, coastal radar sites, missile and drone facilities, and small naval vessels. Washington said the operation, which reportedly included one-way attack sea drones for the first time, was in response to Iran&#8217;s attacks on commercial shipping. &nbsp; Iran, in turn, said it targeted US military bases in Jordan, Bahrain and Kuwait, as well as radar installations in Oman. The Strait of Hormuz, the narrow entrance to the Persian Gulf through which nearly one-fifth of the world&#8217;s traded oil and significant volumes of natural gas pass, has remained at the centre of the conflict, with shipping severely disrupted amid continued attacks and rising tensions.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T12:57:24+00:00",
-        "link": "https://newsonair.gov.in/us-iran-claim-control-of-strait-of-hormuz-amid-escalating-conflict/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/strait.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "Mortal Remains of 15 Indian Tourists Killed in Vietnam Boat Accident Brought Home",
+        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and […]",
+        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and arrived in Mumbai. It added that the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to Vietnamese authorities and the government, the Embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. In a tragic incident on Friday, a speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island, leaving 15 tourists dead. While 16 survivors have returned to India, one tourist remains hospitalized in Vietnam.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T17:03:56+00:00",
+        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-killed-in-vietnam-boat-accident-brought-home/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "MeitY launches NIDAR 2.0 to develop drones powered by Indian-made chips",
         "summary": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s […]",
@@ -233,23 +244,23 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T12:54:58+00:00",
         "link": "https://newsonair.gov.in/ministry-of-social-justice-empowerment-to-mark-3rd-namaste-day-on-july-14/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/namaste.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, New Zealand Reaffirm Commitment to Stronger Parliamentary Cooperation",
-        "summary": "A delegation led by Mark Patterson, New Zealand&#8217;s Minister for Rural Communities, today met Lok Sabha Speaker Om Birla at Parliament House in New Delhi. In a social media post, Mr Birla said that the meeting underscored the importance of strengthening parliamentary exchanges and further deepening the longstanding ties between India and New Zealand. Mr […]",
-        "article": "A delegation led by Mark Patterson, New Zealand&#8217;s Minister for Rural Communities, today met Lok Sabha Speaker Om Birla at Parliament House in New Delhi. In a social media post, Mr Birla said that the meeting underscored the importance of strengthening parliamentary exchanges and further deepening the longstanding ties between India and New Zealand. Mr Birla added that during the visit to Parliament House, the delegation was introduced to India&#8217;s vibrant parliamentary democracy, rich democratic traditions and architectural grandeur.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T10:50:39+00:00",
-        "link": "https://newsonair.gov.in/india-new-zealand-reaffirm-commitment-to-stronger-parliamentary-cooperation/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/om.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "Mortal Remains of 15 Indian Tourists Killed in Vietnam Boat Accident Brought Home",
+        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and […]",
+        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and arrived in Mumbai. It added that the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to Vietnamese authorities and the government, the Embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. In a tragic incident on Friday, a speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island, leaving 15 tourists dead. While 16 survivors have returned to India, one tourist remains hospitalized in Vietnam.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T17:03:56+00:00",
+        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-killed-in-vietnam-boat-accident-brought-home/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "MeitY launches NIDAR 2.0 to develop drones powered by Indian-made chips",
         "summary": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s […]",
         "article": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s drone sector. NIDAR 2.0 challenges students to build smarter drones powered by an Indian-made chip. It offers a prize pool of over 65 lakh rupees along with startup incubation, cloud credits, software support and internships for student teams. Speaking on the occasion, Secretary, MeitY S. Krishnan said, NIDAR 2.0 takes the students from just flying drones to building the drone’s brain. He also launched the problem statements, poster and rulebook for NIDAR 2.0. The Ministry said that the first edition of NIDAR 2025-26 was launched in March 2025. It drew over 3,000 students from 22 States and 4 Union Territories who built autonomous drone solutions for Disaster Management and Precision Agriculture. 93 teams reached the Grand Finale out which Twenty-four teams won prizes worth a total of 40 lakh rupees.",
@@ -345,23 +356,23 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T12:54:58+00:00",
         "link": "https://newsonair.gov.in/ministry-of-social-justice-empowerment-to-mark-3rd-namaste-day-on-july-14/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/namaste.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, New Zealand Reaffirm Commitment to Stronger Parliamentary Cooperation",
-        "summary": "A delegation led by Mark Patterson, New Zealand&#8217;s Minister for Rural Communities, today met Lok Sabha Speaker Om Birla at Parliament House in New Delhi. In a social media post, Mr Birla said that the meeting underscored the importance of strengthening parliamentary exchanges and further deepening the longstanding ties between India and New Zealand. Mr […]",
-        "article": "A delegation led by Mark Patterson, New Zealand&#8217;s Minister for Rural Communities, today met Lok Sabha Speaker Om Birla at Parliament House in New Delhi. In a social media post, Mr Birla said that the meeting underscored the importance of strengthening parliamentary exchanges and further deepening the longstanding ties between India and New Zealand. Mr Birla added that during the visit to Parliament House, the delegation was introduced to India&#8217;s vibrant parliamentary democracy, rich democratic traditions and architectural grandeur.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T10:50:39+00:00",
-        "link": "https://newsonair.gov.in/india-new-zealand-reaffirm-commitment-to-stronger-parliamentary-cooperation/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/om.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "Mortal Remains of 15 Indian Tourists Killed in Vietnam Boat Accident Brought Home",
+        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and […]",
+        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and arrived in Mumbai. It added that the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to Vietnamese authorities and the government, the Embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. In a tragic incident on Friday, a speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island, leaving 15 tourists dead. While 16 survivors have returned to India, one tourist remains hospitalized in Vietnam.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T17:03:56+00:00",
+        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-killed-in-vietnam-boat-accident-brought-home/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "MeitY launches NIDAR 2.0 to develop drones powered by Indian-made chips",
         "summary": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s […]",
         "article": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s drone sector. NIDAR 2.0 challenges students to build smarter drones powered by an Indian-made chip. It offers a prize pool of over 65 lakh rupees along with startup incubation, cloud credits, software support and internships for student teams. Speaking on the occasion, Secretary, MeitY S. Krishnan said, NIDAR 2.0 takes the students from just flying drones to building the drone’s brain. He also launched the problem statements, poster and rulebook for NIDAR 2.0. The Ministry said that the first edition of NIDAR 2025-26 was launched in March 2025. It drew over 3,000 students from 22 States and 4 Union Territories who built autonomous drone solutions for Disaster Management and Precision Agriculture. 93 teams reached the Grand Finale out which Twenty-four teams won prizes worth a total of 40 lakh rupees.",
@@ -457,17 +468,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T12:54:58+00:00",
         "link": "https://newsonair.gov.in/ministry-of-social-justice-empowerment-to-mark-3rd-namaste-day-on-july-14/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/namaste.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, New Zealand Reaffirm Commitment to Stronger Parliamentary Cooperation",
-        "summary": "A delegation led by Mark Patterson, New Zealand&#8217;s Minister for Rural Communities, today met Lok Sabha Speaker Om Birla at Parliament House in New Delhi. In a social media post, Mr Birla said that the meeting underscored the importance of strengthening parliamentary exchanges and further deepening the longstanding ties between India and New Zealand. Mr […]",
-        "article": "A delegation led by Mark Patterson, New Zealand&#8217;s Minister for Rural Communities, today met Lok Sabha Speaker Om Birla at Parliament House in New Delhi. In a social media post, Mr Birla said that the meeting underscored the importance of strengthening parliamentary exchanges and further deepening the longstanding ties between India and New Zealand. Mr Birla added that during the visit to Parliament House, the delegation was introduced to India&#8217;s vibrant parliamentary democracy, rich democratic traditions and architectural grandeur.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T10:50:39+00:00",
-        "link": "https://newsonair.gov.in/india-new-zealand-reaffirm-commitment-to-stronger-parliamentary-cooperation/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/om.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
