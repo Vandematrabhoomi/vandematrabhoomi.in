@@ -1,8 +1,19 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-13T05:30:54.147033",
+  "generated": "2026-07-13T05:59:50.290319",
   "en": {
     "top": [
+      {
+        "title": "Government debunks fake internship claim circulating on social media",
+        "summary": "The Government has debunked a Google Form circulating on social media that falsely claims to offer an internship for doctors and other professionals, allegedly approved by the Ministry of Micro, Small and Medium Enterprises (MSME) and the Ministry of Corporate Affairs. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has clarified that the claim is […]",
+        "article": "The Government has debunked a Google Form circulating on social media that falsely claims to offer an internship for doctors and other professionals, allegedly approved by the Ministry of Micro, Small and Medium Enterprises (MSME) and the Ministry of Corporate Affairs. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has clarified that the claim is fake. It said neither the Ministry of MSME nor the Ministry of Corporate Affairs has issued any official notification or application form for such an internship programme. The PIB has urged people not to click on suspicious links or websites or share their personal information on unverified platforms. It has also advised citizens to rely only on official government websites and verified sources for authentic information.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T05:42:25+00:00",
+        "link": "https://newsonair.gov.in/government-debunks-fake-internship-claim-circulating-on-social-media/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Parliamentary elections to be held in Israel on October 27 this year",
         "summary": "Israel&#8217;s Parliament, the Knesset, has announced that national elections will be held on the 27th of October this year. The election is widely seen as a referendum on Prime Minister Benjamin Netanyahu&#8217;s leadership since the start of the war in Gaza. The Knesset is set to hold the final sitting of its current term […]",
@@ -123,20 +134,20 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/thailand.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "MY Bharat launches next phase of ‘Nasha Mukt Yuva for Viksit Bharat’ campaign",
-        "summary": "The Ministry of Youth Affairs and Sports, through Mera Yuva Bharat (MY Bharat), has launched the next phase of the nationwide &#8216;Nasha Mukt Yuva for Viksit Bharat&#8217; campaign. Under the campaign, competitions will be conducted in a three-tier format, beginning at the district level, followed by the state level, and culminating at the national […]",
-        "article": "The Ministry of Youth Affairs and Sports, through Mera Yuva Bharat (MY Bharat), has launched the next phase of the nationwide &#8216;Nasha Mukt Yuva for Viksit Bharat&#8217; campaign. Under the campaign, competitions will be conducted in a three-tier format, beginning at the district level, followed by the state level, and culminating at the national level. According to the Ministry, registrations will begin today on the MY Bharat portal. District-level competitions will be held from the 24th to the 27th of this month. District winners will compete in the state-level selection rounds. State champions will then be invited to New Delhi to participate in the national finale, to be held on the 12th and 13th of next month during the National Youth Summit. MY Bharat will organise district-level competitions in five creative categories—Dance, Music, Reel and Short Film, Nukkad Natak, and Slam Poetry. The competitions are open to youth aged 15 to 29 years. Participants can submit their entries in Hindi, English, or any regional language.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T01:17:15+00:00",
-        "link": "https://newsonair.gov.in/my-bharat-launches-next-phase-of-nasha-mukt-yuva-for-viksit-bharat-campaign/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/HKH91ZMacAAzjFV.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "Government debunks fake internship claim circulating on social media",
+        "summary": "The Government has debunked a Google Form circulating on social media that falsely claims to offer an internship for doctors and other professionals, allegedly approved by the Ministry of Micro, Small and Medium Enterprises (MSME) and the Ministry of Corporate Affairs. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has clarified that the claim is […]",
+        "article": "The Government has debunked a Google Form circulating on social media that falsely claims to offer an internship for doctors and other professionals, allegedly approved by the Ministry of Micro, Small and Medium Enterprises (MSME) and the Ministry of Corporate Affairs. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has clarified that the claim is fake. It said neither the Ministry of MSME nor the Ministry of Corporate Affairs has issued any official notification or application form for such an internship programme. The PIB has urged people not to click on suspicious links or websites or share their personal information on unverified platforms. It has also advised citizens to rely only on official government websites and verified sources for authentic information.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T05:42:25+00:00",
+        "link": "https://newsonair.gov.in/government-debunks-fake-internship-claim-circulating-on-social-media/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Union Minister Piyush Goyal to visit Spain, Belgium and Finland to strengthen economic ties",
         "summary": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation on an official visit to Spain, Belgium and Finland from today till the 17th of this month. The visit aims to strengthen India&#8217;s economic partnerships with Europe, with a focus on trade, investment, technology, innovation and sustainability. In the first leg […]",
@@ -222,17 +233,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-12T15:41:35+00:00",
         "link": "https://newsonair.gov.in/india-calls-for-immediate-de-escalation-of-tension-in-west-asia-after-attack-on-ship-carrying-indian-nationals-off-oman-coast/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Manohar Lal calls for adopting environmental friendly construction methods",
-        "summary": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength […]",
-        "article": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength should not be compromised. Mr Manohar Lal noted that as India&#8217;s infrastructure aspirations continue to grow, CPWD has an even greater responsibility to lead with innovation, adopt sustainable construction practices and deliver projects that uphold the highest standards of quality, durability and structural integrity. The Union Minister also emphasised moving forward with the spirit of SANKALP – Speed, Accessibility, Nek Niyat, Kartavya Nishtha, Adoption of Technology, Lokhit and Pardarshita for creating citizen-centric infrastructure. He called upon the officers and staff of the CPWD to work with full honesty and morality to enhance the credibility of the organisation. On the occasion, the Union Minister also virtually laid the foundation stone of the National Council for Public Works Building at Ghaziabad in Uttar Pradesh. In his address, Secretary of the Ministry of Housing and Urban Affairs, Srinivas Katikithala, appreciated the CPWD&#8217;s significant contribution to the creation of quality public infrastructure across the country. He highlighted that CPWD has evolved into a modern, technology-driven organisation capable of executing complex and iconic projects. He further emphasised that CPWD should continue to lead the adoption of best engineering practices, digital technologies, sustainable construction methods and efficient project management systems. Director General, CPWD Satinder Pal Singh reiterated CPWD&#8217;s commitment to delivering high-quality public infrastructure through innovation and emphasised the timely execution of projects. He said that capacity-building and skill development remain key priorities of the Department.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T15:38:59+00:00",
-        "link": "https://newsonair.gov.in/union-minister-manohar-lal-calls-for-adopting-environmental-friendly-construction-methods/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -251,6 +251,17 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "Government debunks fake internship claim circulating on social media",
+        "summary": "The Government has debunked a Google Form circulating on social media that falsely claims to offer an internship for doctors and other professionals, allegedly approved by the Ministry of Micro, Small and Medium Enterprises (MSME) and the Ministry of Corporate Affairs. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has clarified that the claim is […]",
+        "article": "The Government has debunked a Google Form circulating on social media that falsely claims to offer an internship for doctors and other professionals, allegedly approved by the Ministry of Micro, Small and Medium Enterprises (MSME) and the Ministry of Corporate Affairs. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has clarified that the claim is fake. It said neither the Ministry of MSME nor the Ministry of Corporate Affairs has issued any official notification or application form for such an internship programme. The PIB has urged people not to click on suspicious links or websites or share their personal information on unverified platforms. It has also advised citizens to rely only on official government websites and verified sources for authentic information.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T05:42:25+00:00",
+        "link": "https://newsonair.gov.in/government-debunks-fake-internship-claim-circulating-on-social-media/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Union Minister Piyush Goyal to visit Spain, Belgium and Finland to strengthen economic ties",
         "summary": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation on an official visit to Spain, Belgium and Finland from today till the 17th of this month. The visit aims to strengthen India&#8217;s economic partnerships with Europe, with a focus on trade, investment, technology, innovation and sustainability. In the first leg […]",
         "article": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation on an official visit to Spain, Belgium and Finland from today till the 17th of this month. The visit aims to strengthen India&#8217;s economic partnerships with Europe, with a focus on trade, investment, technology, innovation and sustainability. In the first leg of the visit, Mr Goyal will travel to Spain today, where he will participate in a Business Roundtable with the Chamber of Commerce of Spain, the Spanish Confederation of Business Organisations (CEOE) and ICEX Spain Trade and Investment. The roundtable will bring together Indian and Spanish industry leaders to explore opportunities in the automotive, renewable energy, railways, artificial intelligence, semiconductors, food processing and tourism sectors. Mr Goyal will then visit Belgium on the 14th and 15th of this month. During the visit, he will hold meetings with the leadership of Thales Group and Silox Group. He will also participate in the India-EU Business Roundtable and the Trade and Technology Council Plenary. Discussions will focus on foreign investment, trade facilitation, sustainable technologies and resilient supply chains. In the final leg of the visit, the Minister will travel to Finland on the 16th and 17th of this month. He will attend the India-Finland Business Roundtable and visit leading Finnish companies and research institutions, including Nokia, Kone, Kemppi Group and VTT Technical Research Centre of Finland, to explore collaboration in telecommunications, advanced manufacturing, clean energy, mobility and innovation.",
@@ -335,17 +346,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-12T15:41:35+00:00",
         "link": "https://newsonair.gov.in/india-calls-for-immediate-de-escalation-of-tension-in-west-asia-after-attack-on-ship-carrying-indian-nationals-off-oman-coast/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Manohar Lal calls for adopting environmental friendly construction methods",
-        "summary": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength […]",
-        "article": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength should not be compromised. Mr Manohar Lal noted that as India&#8217;s infrastructure aspirations continue to grow, CPWD has an even greater responsibility to lead with innovation, adopt sustainable construction practices and deliver projects that uphold the highest standards of quality, durability and structural integrity. The Union Minister also emphasised moving forward with the spirit of SANKALP – Speed, Accessibility, Nek Niyat, Kartavya Nishtha, Adoption of Technology, Lokhit and Pardarshita for creating citizen-centric infrastructure. He called upon the officers and staff of the CPWD to work with full honesty and morality to enhance the credibility of the organisation. On the occasion, the Union Minister also virtually laid the foundation stone of the National Council for Public Works Building at Ghaziabad in Uttar Pradesh. In his address, Secretary of the Ministry of Housing and Urban Affairs, Srinivas Katikithala, appreciated the CPWD&#8217;s significant contribution to the creation of quality public infrastructure across the country. He highlighted that CPWD has evolved into a modern, technology-driven organisation capable of executing complex and iconic projects. He further emphasised that CPWD should continue to lead the adoption of best engineering practices, digital technologies, sustainable construction methods and efficient project management systems. Director General, CPWD Satinder Pal Singh reiterated CPWD&#8217;s commitment to delivering high-quality public infrastructure through innovation and emphasised the timely execution of projects. He said that capacity-building and skill development remain key priorities of the Department.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T15:38:59+00:00",
-        "link": "https://newsonair.gov.in/union-minister-manohar-lal-calls-for-adopting-environmental-friendly-construction-methods/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -364,6 +364,17 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "Government debunks fake internship claim circulating on social media",
+        "summary": "The Government has debunked a Google Form circulating on social media that falsely claims to offer an internship for doctors and other professionals, allegedly approved by the Ministry of Micro, Small and Medium Enterprises (MSME) and the Ministry of Corporate Affairs. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has clarified that the claim is […]",
+        "article": "The Government has debunked a Google Form circulating on social media that falsely claims to offer an internship for doctors and other professionals, allegedly approved by the Ministry of Micro, Small and Medium Enterprises (MSME) and the Ministry of Corporate Affairs. The Press Information Bureau&#8217;s (PIB) Fact Check Unit has clarified that the claim is fake. It said neither the Ministry of MSME nor the Ministry of Corporate Affairs has issued any official notification or application form for such an internship programme. The PIB has urged people not to click on suspicious links or websites or share their personal information on unverified platforms. It has also advised citizens to rely only on official government websites and verified sources for authentic information.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T05:42:25+00:00",
+        "link": "https://newsonair.gov.in/government-debunks-fake-internship-claim-circulating-on-social-media/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Union Minister Piyush Goyal to visit Spain, Belgium and Finland to strengthen economic ties",
         "summary": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation on an official visit to Spain, Belgium and Finland from today till the 17th of this month. The visit aims to strengthen India&#8217;s economic partnerships with Europe, with a focus on trade, investment, technology, innovation and sustainability. In the first leg […]",
         "article": "Union Commerce and Industry Minister Piyush Goyal will lead a high-level Indian business delegation on an official visit to Spain, Belgium and Finland from today till the 17th of this month. The visit aims to strengthen India&#8217;s economic partnerships with Europe, with a focus on trade, investment, technology, innovation and sustainability. In the first leg of the visit, Mr Goyal will travel to Spain today, where he will participate in a Business Roundtable with the Chamber of Commerce of Spain, the Spanish Confederation of Business Organisations (CEOE) and ICEX Spain Trade and Investment. The roundtable will bring together Indian and Spanish industry leaders to explore opportunities in the automotive, renewable energy, railways, artificial intelligence, semiconductors, food processing and tourism sectors. Mr Goyal will then visit Belgium on the 14th and 15th of this month. During the visit, he will hold meetings with the leadership of Thales Group and Silox Group. He will also participate in the India-EU Business Roundtable and the Trade and Technology Council Plenary. Discussions will focus on foreign investment, trade facilitation, sustainable technologies and resilient supply chains. In the final leg of the visit, the Minister will travel to Finland on the 16th and 17th of this month. He will attend the India-Finland Business Roundtable and visit leading Finnish companies and research institutions, including Nokia, Kone, Kemppi Group and VTT Technical Research Centre of Finland, to explore collaboration in telecommunications, advanced manufacturing, clean energy, mobility and innovation.",
@@ -448,17 +459,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-12T15:41:35+00:00",
         "link": "https://newsonair.gov.in/india-calls-for-immediate-de-escalation-of-tension-in-west-asia-after-attack-on-ship-carrying-indian-nationals-off-oman-coast/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Manohar Lal calls for adopting environmental friendly construction methods",
-        "summary": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength […]",
-        "article": "Union Minister for Housing and Urban Affairs Manohar Lal has emphasised the need for adopting environmental friendly technology in the construction sector. Speaking at the function organised on the 172nd Foundation Day of the Central Public Works Department in New Delhi, the Minister stressed that while constructing any building or structure, the durability and strength should not be compromised. Mr Manohar Lal noted that as India&#8217;s infrastructure aspirations continue to grow, CPWD has an even greater responsibility to lead with innovation, adopt sustainable construction practices and deliver projects that uphold the highest standards of quality, durability and structural integrity. The Union Minister also emphasised moving forward with the spirit of SANKALP – Speed, Accessibility, Nek Niyat, Kartavya Nishtha, Adoption of Technology, Lokhit and Pardarshita for creating citizen-centric infrastructure. He called upon the officers and staff of the CPWD to work with full honesty and morality to enhance the credibility of the organisation. On the occasion, the Union Minister also virtually laid the foundation stone of the National Council for Public Works Building at Ghaziabad in Uttar Pradesh. In his address, Secretary of the Ministry of Housing and Urban Affairs, Srinivas Katikithala, appreciated the CPWD&#8217;s significant contribution to the creation of quality public infrastructure across the country. He highlighted that CPWD has evolved into a modern, technology-driven organisation capable of executing complex and iconic projects. He further emphasised that CPWD should continue to lead the adoption of best engineering practices, digital technologies, sustainable construction methods and efficient project management systems. Director General, CPWD Satinder Pal Singh reiterated CPWD&#8217;s commitment to delivering high-quality public infrastructure through innovation and emphasised the timely execution of projects. He said that capacity-building and skill development remain key priorities of the Department.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T15:38:59+00:00",
-        "link": "https://newsonair.gov.in/union-minister-manohar-lal-calls-for-adopting-environmental-friendly-construction-methods/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
