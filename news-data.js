@@ -1,509 +1,39 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-13T23:38:10.838182",
+  "generated": "2026-07-14T02:35:52.660551",
   "en": {
     "top": [
       {
-        "title": "Mortal Remains of 15 Indian Tourists Killed in Vietnam Boat Accident Brought Home",
-        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and […]",
-        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and arrived in Mumbai. It added that the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to Vietnamese authorities and the government, the Embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. In a tragic incident on Friday, a speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island, leaving 15 tourists dead. While 16 survivors have returned to India, one tourist remains hospitalized in Vietnam.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T17:03:56+00:00",
-        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-killed-in-vietnam-boat-accident-brought-home/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "I&B Ministry invites proposals for WAVES 2027 Create in India Challenge",
+        "summary": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season […]",
+        "article": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season &#8211; 2 aims to execute industry-led, government-supported, youth oriented challenges that identify and nurture creative talent, promote upskilling and capacity building. It also aims to create opportunities for collaboration across the Media and Entertainment domains, including Artificial Intelligence (AI), Digital Media, and other technology-driven creative sectors. The challenge will culminate in the showcasing of winners and winning outcomes at CreatoSphere’ during WAVES 2027. The Ministry said, a unified portal has been created for submission of proposals and selection of challenges and their respective executing entities, through a transparent and merit-based mechanism. Entities from across the Media and Entertainment sector have been invited to submit their proposals through the wavesbazaar.com online portal by 31st of this month. To support the successful implementation of selected challenges, the Ministry will provide a One-Time Grant of up to one crore rupees per challenge.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:57:49+00:00",
+        "link": "https://newsonair.gov.in/ib-ministry-invites-proposals-for-waves-2027-create-in-india-challenge/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mildred_H._McAfee.jpg/1280px-Mildred_H._McAfee.jpg",
+        "image_credit": "Wikipedia – WAVES (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
-        "title": "MeitY launches NIDAR 2.0 to develop drones powered by Indian-made chips",
-        "summary": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s […]",
-        "article": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s drone sector. NIDAR 2.0 challenges students to build smarter drones powered by an Indian-made chip. It offers a prize pool of over 65 lakh rupees along with startup incubation, cloud credits, software support and internships for student teams. Speaking on the occasion, Secretary, MeitY S. Krishnan said, NIDAR 2.0 takes the students from just flying drones to building the drone’s brain. He also launched the problem statements, poster and rulebook for NIDAR 2.0. The Ministry said that the first edition of NIDAR 2025-26 was launched in March 2025. It drew over 3,000 students from 22 States and 4 Union Territories who built autonomous drone solutions for Disaster Management and Precision Agriculture. 93 teams reached the Grand Finale out which Twenty-four teams won prizes worth a total of 40 lakh rupees.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:57:38+00:00",
-        "link": "https://newsonair.gov.in/meity-launches-nidar-2-0-to-develop-drones-powered-by-indian-made-chips/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nidar.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "Ukraine, nine European nations form coalition for Europe’s ballistic missile defence",
+        "summary": "Ukraine and nine other countries have announced that they are forming a coalition to protect Europe from ballistic missiles. Ukraine&#8217;s President Volodymyr Zelenskyy and leaders of Denmark, France, Germany, Italy, the Netherlands, Norway, Spain, Sweden and the United Kingdom said they recognised the growing threat posed by ballistic missiles, which are harder to stop than […]",
+        "article": "Ukraine and nine other countries have announced that they are forming a coalition to protect Europe from ballistic missiles. Ukraine&#8217;s President Volodymyr Zelenskyy and leaders of Denmark, France, Germany, Italy, the Netherlands, Norway, Spain, Sweden and the United Kingdom said they recognised the growing threat posed by ballistic missiles, which are harder to stop than cruise missiles or drones. &nbsp; The 10 nations said in a statement in Paris that their goal is to build a shared ballistic missile defence capability for Europe, taking advantage of Kyiv&#8217;s experience of fighting Russia&#8217;s full-scale invasion for over four years. The statement gave no time frame for setting up the defence system, and said the plan remained open to other countries.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:51:54+00:00",
+        "link": "https://newsonair.gov.in/ukraine-nine-european-nations-form-coalition-for-europes-ballistic-missile-defence/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg/1280px-Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg.png",
+        "image_credit": "Wikipedia – Europe (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
-        "title": "BSNL Records 10% Rise in Revenue in First Quarter of FY 2026-27: Communications Minister Jyotiraditya Scindia",
-        "summary": "Union Communications Minister Jyotiraditya Scindia has said that Bharat Sanchar Nigam Limited BSNL has provisionally posted around 10 per cent increase in revenue from operations in the first quarter of financial year 2026-27. Speaking to media after the Strategic Review and Planning Meet of BSNL in New Delhi today, Mr Scindia said, as […]",
-        "article": "Union Communications Minister Jyotiraditya Scindia has said that Bharat Sanchar Nigam Limited BSNL has provisionally posted around 10 per cent increase in revenue from operations in the first quarter of financial year 2026-27. Speaking to media after the Strategic Review and Planning Meet of BSNL in New Delhi today, Mr Scindia said, as far as the total revenue is concerned, directly from business operations, there is about a 10 per cent increase in revenue over last year. He said, last year, at the close of first quarter it was at 4,017 crore rupees and this year, it is at 4,418 crore rupees, an increase of 401 crore rupees. The Minister said, BSNL&#8217;s enterprise business segment and consumer mobility have shown growth while the consumer fixed access segment has remained almost flat. He said, BSNL&#8217;s average revenue per user has provisionally increased from 100 rupees to 102.7 rupees. Mr Scindia said, BSNL is on the trajectory of growth.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:50:04+00:00",
-        "link": "https://newsonair.gov.in/bsnl-records-10-rise-in-revenue-in-first-quarter-of-fy-2026-27-communications-minister-jyotiraditya-scindia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/bsnl.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Indian-Origin Astronaut Anil Menon Set to Begin Eight-Month ISS Mission",
-        "summary": "A NASA astronaut of Indian descent, Anil Menon is set to embark on an eight-month mission to the International Space Station (ISS) tomorrow from the Baikonur cosmodrome in Kazakhstan along with two Russian cosmonauts. The Roscosmos Soyuz MS-29 spacecraft is scheduled for lift-off from the Baikonur spaceport at 8:17 PM Indian Standard Time […]",
-        "article": "A NASA astronaut of Indian descent, Anil Menon is set to embark on an eight-month mission to the International Space Station (ISS) tomorrow from the Baikonur cosmodrome in Kazakhstan along with two Russian cosmonauts. The Roscosmos Soyuz MS-29 spacecraft is scheduled for lift-off from the Baikonur spaceport at 8:17 PM Indian Standard Time and is expected to dock at the orbital laboratory after a little over three hours. Besides Menon, Russian cosmonauts Pyotr Dubrov and Anna Kikina will be part of the 75th expedition to the ISS. The Soyuz spacecraft will dock at the ISS at 11:56 PM IST tomorrow, and the astronauts will be onboard the ISS at around 1:25 am IST early Wednesday. Born in Minneapolis to Ukrainian and Indian immigrants, 49-year-old Menon is an emergency medicine physician and a US Space Force colonel. During his stint with the US Air Force, he served on the frontlines in Afghanistan during Operation Enduring Freedom and also worked for the Himalayan Rescue Association, caring for climbers on Mount Everest.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:46:09+00:00",
-        "link": "https://newsonair.gov.in/indian-origin-astronaut-anil-menon-set-to-begin-eight-month-iss-mission/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/anil.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "SC Seeks Rules Under Bharatiya Vayuyan Adhiniyam Within Two Weeks",
-        "summary": "The Supreme Court today directed the Centre to place on record, within two weeks, the rules framed under the Bharatiya Vayuyan Adhiniyam, 2024, a legislation intended to modernise the country&#8217;s civil aviation framework. Hearing a PIL, a bench of Justices Vikram Nath and Sandeep Mehta asked the Centre to submit the rules before the court […]",
-        "article": "The Supreme Court today directed the Centre to place on record, within two weeks, the rules framed under the Bharatiya Vayuyan Adhiniyam, 2024, a legislation intended to modernise the country&#8217;s civil aviation framework. Hearing a PIL, a bench of Justices Vikram Nath and Sandeep Mehta asked the Centre to submit the rules before the court in a sealed cover, regardless of whether they have been laid before Parliament. The counsel appearing for the Centre informed the bench that the draft rules are ready and they are in the process of translation. The counsel said the rules have to be placed before Parliament. The top court posted the matter for further hearing on August 3. The order of the top court came on the PIL seeking a robust and independent regulator that ensures transparency and passenger protection across the civil aviation sector. The plea also sought regulatory guidelines to control the unpredictable fluctuations in airfare and ancillary charges imposed by private airlines in India. Earlier, the Centre had told the apex court that the Ministry of Civil Aviation was actively considering the issues raised in the plea.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:36:42+00:00",
-        "link": "https://newsonair.gov.in/sc-seeks-rules-under-bharatiya-vayuyan-adhiniyam-within-two-weeks/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/699d64565800b-supreme-court-244152319-16x9-1.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "MIB Invites Proposals for Industry-led Challenges under WAVES 2027 Create in India Challenge Season 2",
-        "summary": "The Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. […]",
-        "article": "The Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season &#8211; 2 aims to execute industry-led, government-supported, youth oriented challenges that identify and nurture creative talent, promote upskilling and capacity building. It also aims to create opportunities for collaboration across the Media and Entertainment domains, including Artificial Intelligence (AI), Digital Media, and other technology-driven creative sectors. The challenge will culminate in the showcasing of winners and winning outcomes at CreatoSphere’ during WAVES 2027. The Ministry said, a unified portal has been created for submission of proposals and selection of challenges and their respective executing entities, through a transparent and merit-based mechanism. Entities from across the Media and Entertainment sector have been invited to submit their proposals through the wavesbazaar.com online portal by 31st of this month. To support the successful implementation of selected challenges, the Ministry will provide a One-Time Grant of up to one crore rupees per challenge.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:15:00+00:00",
-        "link": "https://newsonair.gov.in/mib-invites-proposals-for-industry-led-challenges-under-waves-2027-create-in-india-challenge-season-2/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/CIC.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NTA releases OMR Sheets and Recorded Responses for Re- NEET UG 2026",
-        "summary": "The National Testing agency has activated the NEET (UG) 2026 re-exam-OMR sheets and recorded responses for the candidates on the official website https://neet.nta.nic.in. NTA said that candidates can log in using their application number and compare their marked answers with what the scanner reads. If something doesn&#8217;t match, candidates may select the question and tick […]",
-        "article": "The National Testing agency has activated the NEET (UG) 2026 re-exam-OMR sheets and recorded responses for the candidates on the official website https://neet.nta.nic.in. NTA said that candidates can log in using their application number and compare their marked answers with what the scanner reads. If something doesn&#8217;t match, candidates may select the question and tick their claimed option and submit a challenge on payment of non-refundable processing fee of 200 rupees. &nbsp; The agency has clarified that the fee will be refunded if the challenge is upheld. The OMR challenge facility will remain available till 15 of this month. For assistance Candidates can contact the NTA helpline numbers 011-40759000, 011-69227700 and write to the neetug2026@nta.ac.in.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:03:17+00:00",
-        "link": "https://newsonair.gov.in/nta-releases-omr-sheets-and-recorded-responses-for-re-neet-ug-2026/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/@NeetUG.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "UK: Oxford Begins Human Trial of New Ebola Vaccine",
-        "summary": "A new vaccine to combat a strain of Ebola spreading across the Democratic Republic of Congo will soon be tested on adults in the United Kingdom. Scientists at the University of Oxford have been working to develop a jab to protect against the Bundibugyo type of Ebola and now plan to assess its safety and […]",
-        "article": "A new vaccine to combat a strain of Ebola spreading across the Democratic Republic of Congo will soon be tested on adults in the United Kingdom. Scientists at the University of Oxford have been working to develop a jab to protect against the Bundibugyo type of Ebola and now plan to assess its safety and immune response in 50 healthy adults aged 18 to 55. Scientists started developing the vaccine eight weeks ago when when the World Health Organisation (WHO) recommended prioritizing the development of an Ebola vaccine, shortly after the outbreak was declared on 17th of May. It is the first &#8211; out of four vaccines under development &#8211; to enter clinical trials. Volunteers are now being recruited for the trial, and the vaccinations will begin in the coming weeks after the UK regulator gave permission for trials to take place. The Ebola epidemic has killed 625 people in the Democratic Republic of the Congo with 1,792 laboratory confirmed cases.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T14:59:07+00:00",
-        "link": "https://newsonair.gov.in/uk-oxford-begins-human-trial-of-new-ebola-vaccine/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/Russian-scientists-develop-new-vaccine-against-latest-strain-of-Ebola-virus.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "External Affairs Ministry Flags Fake X Handle @MEABharat",
-        "summary": "The External Affairs Ministry&#8217;s Fact Check Unit today cautioned that an account on X, @MEABharat is impersonating the ministry. It said this account has absolutely no linkage to the Ministry. Saying that the account is misleading the public and undermining public interest, the Ministry has urged everyone to exercise due caution.",
-        "article": "The External Affairs Ministry&#8217;s Fact Check Unit today cautioned that an account on X, @MEABharat is impersonating the ministry. It said this account has absolutely no linkage to the Ministry. Saying that the account is misleading the public and undermining public interest, the Ministry has urged everyone to exercise due caution.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T14:56:48+00:00",
-        "link": "https://newsonair.gov.in/external-affairs-ministry-flags-fake-x-handle-meabharat/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt Releases 2nd Digital Threat Report, Calls for Stronger Cyber Resilience in Financial Ecosystem",
-        "summary": "The Government today highlighted that cybersecurity risks in the financial services sector have evolved beyond data theft and isolated breaches. It noted that these risks now extend to transaction integrity, customer trust, operational continuity, third-party dependencies, decision-making systems and confidence in the digital infrastructure underpinning the economy. &#160; The Ministry of Electron",
-        "article": "The Government today highlighted that cybersecurity risks in the financial services sector have evolved beyond data theft and isolated breaches. It noted that these risks now extend to transaction integrity, customer trust, operational continuity, third-party dependencies, decision-making systems and confidence in the digital infrastructure underpinning the economy. &nbsp; The Ministry of Electronics and Information Technology (MeitY) informed this in the second edition of its Digital Threat Report 2025-26 for the Banking, Financial Services and Insurance (BFSI) and payments ecosystem. The report provides financial institutions, regulators and cybersecurity leaders with a comprehensive assessment of the evolving cyber threat landscape affecting banking, financial services, insurance and digital payments. &nbsp; Identifying AI asymmetry as one of the defining risks confronting financial institutions, the report stated that cyberattacks which previously required specialist expertise, substantial resources and weeks of preparation can now be executed at machine speed by comparatively low-resource threat actors. It warned that offensive cyber capabilities are advancing faster than many existing defensive and regulatory mechanisms. &nbsp; The report noted that cyber threats once regarded as emerging or sporadic, including social engineering, credential theft, supply-chain compromises and cloud exploitation, have now become established attack methods. It observed that the most damaging cyberattacks increasingly appear as legitimate user sessions, authorised payments or routine workflows, making them difficult to distinguish from genuine activity until significant damage has already occurred. &nbsp; The report also outlined an 18-month roadmap for the financial sector, focusing on strengthening foundational security controls, developing continuous cyber resilience capabilities and building more resilient security architectures. Addressing the launch of the report, Secretary, MeitY, S. Krishnan, said that trusted partnerships between public institutions and industry have become essential to strengthening digital trust as cyber threats grow increasingly sophisticated. He said the report reflects a significant collaboration among Indian Computer Emergency Response Team (CERT-In) and Computer Security Incident Response Team &#8211; Finance Sector (CSIRT-Fin), demonstrating how cybersecurity expertise developed in India can contribute to both national cyber resilience and the advancement of global cybersecurity knowledge. &nbsp; Speaking on the occasion, the Director General of CERT-In, Dr. Sanjay Bahl said that as India&#8217;s financial ecosystem becomes increasingly interconnected, real-time and technology-driven, cyber resilience must be treated as a shared responsibility among institutions, regulators and the broader digital supply chain. He said the report underscores the need to move beyond periodic security interventions towards continuous risk assessment, coordinated response mechanisms and stronger information sharing.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T14:39:39+00:00",
-        "link": "https://newsonair.gov.in/govt-releases-2nd-digital-threat-report-calls-for-stronger-cyber-resilience-in-financial-ecosystem/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/digital.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "FM Nirmala Sitharaman Urges Banks to Introduce Innovative NRI Deposit Products",
-        "summary": "Union Finance Minister Nirmala Sitharaman has called upon public sector banks to further intensify outreach to the NRI diaspora and introduce innovative deposit products. Mrs Sitharaman said this while interacting with Managing Directors and Chief Executive Officers of Banks, Public Financial Institutions on the Foreign Currency Non-Resident (Bank) deposits and Overseas Foreign Currency Borrowings",
-        "article": "Union Finance Minister Nirmala Sitharaman has called upon public sector banks to further intensify outreach to the NRI diaspora and introduce innovative deposit products. Mrs Sitharaman said this while interacting with Managing Directors and Chief Executive Officers of Banks, Public Financial Institutions on the Foreign Currency Non-Resident (Bank) deposits and Overseas Foreign Currency Borrowings swap initiatives in New Delhi today. She also emphasized for enhanced NRI outreach to sustain mobilisation momentum. During the interaction, the MDs and CEOs of the banks and Public Financial Institutions apprised the Minister of the progress under the RBI&#8217;s swap facility schemes. The participation of banks and public financial institutions underscores the effectiveness of the swap facilities in mobilising foreign currency inflows. Their participation also reinforces India&#8217;s foreign exchange reserves and strengthening the resilience of the external sector amid global uncertainty. The Secretaries of the Department of Financial Services, the Department of Economic Affairs and the Department of Revenue, the Chief Economic Advisor, the Deputy Governor of the Reserve Bank of India (RBI), and other senior officers also attended the interaction.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T13:28:14+00:00",
-        "link": "https://newsonair.gov.in/fm-nirmala-sitharaman-urges-banks-to-introduce-innovative-nri-deposit-products/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nirmala.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Piyush Goyal discusses Boosting Trade, Investment, Technology Ties During Spain Visit",
-        "summary": "Commerce and Industry Minister Piyush Goyal today began his official engagements in Spain by meeting First Vice President of the Government of Spain and Minister of Economy, Trade and Business, Carlos Cuerpo Caballero. &#160; In a social media post, Mr Goyal said that they had productive discussions on strengthening the India-Spain economic partnership through greater […]",
-        "article": "Commerce and Industry Minister Piyush Goyal today began his official engagements in Spain by meeting First Vice President of the Government of Spain and Minister of Economy, Trade and Business, Carlos Cuerpo Caballero. &nbsp; In a social media post, Mr Goyal said that they had productive discussions on strengthening the India-Spain economic partnership through greater trade, investment and technology collaboration. &nbsp; He said, the discussion also focused on renewable energy, green hydrogen, advanced manufacturing, digital technologies, infrastructure and innovation. He added that both sides also exchanged views on the India-EU Free Trade Agreement and explored ways to deepen business ties and expand India&#8217;s commercial engagement with Spain as a valued partner. Mr Goyal is currently on a five-day visit to Spain, Belgium and Finland from today.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T13:13:46+00:00",
-        "link": "https://newsonair.gov.in/piyush-goyal-discusses-boosting-trade-investment-technology-ties-during-spain-visit/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/piyush-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "breaking": [
-      {
-        "title": "Mortal Remains of 15 Indian Tourists Killed in Vietnam Boat Accident Brought Home",
-        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and […]",
-        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and arrived in Mumbai. It added that the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to Vietnamese authorities and the government, the Embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. In a tragic incident on Friday, a speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island, leaving 15 tourists dead. While 16 survivors have returned to India, one tourist remains hospitalized in Vietnam.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T17:03:56+00:00",
-        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-killed-in-vietnam-boat-accident-brought-home/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "MeitY launches NIDAR 2.0 to develop drones powered by Indian-made chips",
-        "summary": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s […]",
-        "article": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s drone sector. NIDAR 2.0 challenges students to build smarter drones powered by an Indian-made chip. It offers a prize pool of over 65 lakh rupees along with startup incubation, cloud credits, software support and internships for student teams. Speaking on the occasion, Secretary, MeitY S. Krishnan said, NIDAR 2.0 takes the students from just flying drones to building the drone’s brain. He also launched the problem statements, poster and rulebook for NIDAR 2.0. The Ministry said that the first edition of NIDAR 2025-26 was launched in March 2025. It drew over 3,000 students from 22 States and 4 Union Territories who built autonomous drone solutions for Disaster Management and Precision Agriculture. 93 teams reached the Grand Finale out which Twenty-four teams won prizes worth a total of 40 lakh rupees.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:57:38+00:00",
-        "link": "https://newsonair.gov.in/meity-launches-nidar-2-0-to-develop-drones-powered-by-indian-made-chips/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nidar.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "BSNL Records 10% Rise in Revenue in First Quarter of FY 2026-27: Communications Minister Jyotiraditya Scindia",
-        "summary": "Union Communications Minister Jyotiraditya Scindia has said that Bharat Sanchar Nigam Limited BSNL has provisionally posted around 10 per cent increase in revenue from operations in the first quarter of financial year 2026-27. Speaking to media after the Strategic Review and Planning Meet of BSNL in New Delhi today, Mr Scindia said, as […]",
-        "article": "Union Communications Minister Jyotiraditya Scindia has said that Bharat Sanchar Nigam Limited BSNL has provisionally posted around 10 per cent increase in revenue from operations in the first quarter of financial year 2026-27. Speaking to media after the Strategic Review and Planning Meet of BSNL in New Delhi today, Mr Scindia said, as far as the total revenue is concerned, directly from business operations, there is about a 10 per cent increase in revenue over last year. He said, last year, at the close of first quarter it was at 4,017 crore rupees and this year, it is at 4,418 crore rupees, an increase of 401 crore rupees. The Minister said, BSNL&#8217;s enterprise business segment and consumer mobility have shown growth while the consumer fixed access segment has remained almost flat. He said, BSNL&#8217;s average revenue per user has provisionally increased from 100 rupees to 102.7 rupees. Mr Scindia said, BSNL is on the trajectory of growth.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:50:04+00:00",
-        "link": "https://newsonair.gov.in/bsnl-records-10-rise-in-revenue-in-first-quarter-of-fy-2026-27-communications-minister-jyotiraditya-scindia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/bsnl.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "SC Seeks Rules Under Bharatiya Vayuyan Adhiniyam Within Two Weeks",
-        "summary": "The Supreme Court today directed the Centre to place on record, within two weeks, the rules framed under the Bharatiya Vayuyan Adhiniyam, 2024, a legislation intended to modernise the country&#8217;s civil aviation framework. Hearing a PIL, a bench of Justices Vikram Nath and Sandeep Mehta asked the Centre to submit the rules before the court […]",
-        "article": "The Supreme Court today directed the Centre to place on record, within two weeks, the rules framed under the Bharatiya Vayuyan Adhiniyam, 2024, a legislation intended to modernise the country&#8217;s civil aviation framework. Hearing a PIL, a bench of Justices Vikram Nath and Sandeep Mehta asked the Centre to submit the rules before the court in a sealed cover, regardless of whether they have been laid before Parliament. The counsel appearing for the Centre informed the bench that the draft rules are ready and they are in the process of translation. The counsel said the rules have to be placed before Parliament. The top court posted the matter for further hearing on August 3. The order of the top court came on the PIL seeking a robust and independent regulator that ensures transparency and passenger protection across the civil aviation sector. The plea also sought regulatory guidelines to control the unpredictable fluctuations in airfare and ancillary charges imposed by private airlines in India. Earlier, the Centre had told the apex court that the Ministry of Civil Aviation was actively considering the issues raised in the plea.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:36:42+00:00",
-        "link": "https://newsonair.gov.in/sc-seeks-rules-under-bharatiya-vayuyan-adhiniyam-within-two-weeks/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/699d64565800b-supreme-court-244152319-16x9-1.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "MIB Invites Proposals for Industry-led Challenges under WAVES 2027 Create in India Challenge Season 2",
-        "summary": "The Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. […]",
-        "article": "The Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season &#8211; 2 aims to execute industry-led, government-supported, youth oriented challenges that identify and nurture creative talent, promote upskilling and capacity building. It also aims to create opportunities for collaboration across the Media and Entertainment domains, including Artificial Intelligence (AI), Digital Media, and other technology-driven creative sectors. The challenge will culminate in the showcasing of winners and winning outcomes at CreatoSphere’ during WAVES 2027. The Ministry said, a unified portal has been created for submission of proposals and selection of challenges and their respective executing entities, through a transparent and merit-based mechanism. Entities from across the Media and Entertainment sector have been invited to submit their proposals through the wavesbazaar.com online portal by 31st of this month. To support the successful implementation of selected challenges, the Ministry will provide a One-Time Grant of up to one crore rupees per challenge.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:15:00+00:00",
-        "link": "https://newsonair.gov.in/mib-invites-proposals-for-industry-led-challenges-under-waves-2027-create-in-india-challenge-season-2/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/CIC.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NTA releases OMR Sheets and Recorded Responses for Re- NEET UG 2026",
-        "summary": "The National Testing agency has activated the NEET (UG) 2026 re-exam-OMR sheets and recorded responses for the candidates on the official website https://neet.nta.nic.in. NTA said that candidates can log in using their application number and compare their marked answers with what the scanner reads. If something doesn&#8217;t match, candidates may select the question and tick […]",
-        "article": "The National Testing agency has activated the NEET (UG) 2026 re-exam-OMR sheets and recorded responses for the candidates on the official website https://neet.nta.nic.in. NTA said that candidates can log in using their application number and compare their marked answers with what the scanner reads. If something doesn&#8217;t match, candidates may select the question and tick their claimed option and submit a challenge on payment of non-refundable processing fee of 200 rupees. &nbsp; The agency has clarified that the fee will be refunded if the challenge is upheld. The OMR challenge facility will remain available till 15 of this month. For assistance Candidates can contact the NTA helpline numbers 011-40759000, 011-69227700 and write to the neetug2026@nta.ac.in.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:03:17+00:00",
-        "link": "https://newsonair.gov.in/nta-releases-omr-sheets-and-recorded-responses-for-re-neet-ug-2026/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/@NeetUG.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "External Affairs Ministry Flags Fake X Handle @MEABharat",
-        "summary": "The External Affairs Ministry&#8217;s Fact Check Unit today cautioned that an account on X, @MEABharat is impersonating the ministry. It said this account has absolutely no linkage to the Ministry. Saying that the account is misleading the public and undermining public interest, the Ministry has urged everyone to exercise due caution.",
-        "article": "The External Affairs Ministry&#8217;s Fact Check Unit today cautioned that an account on X, @MEABharat is impersonating the ministry. It said this account has absolutely no linkage to the Ministry. Saying that the account is misleading the public and undermining public interest, the Ministry has urged everyone to exercise due caution.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T14:56:48+00:00",
-        "link": "https://newsonair.gov.in/external-affairs-ministry-flags-fake-x-handle-meabharat/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt Releases 2nd Digital Threat Report, Calls for Stronger Cyber Resilience in Financial Ecosystem",
-        "summary": "The Government today highlighted that cybersecurity risks in the financial services sector have evolved beyond data theft and isolated breaches. It noted that these risks now extend to transaction integrity, customer trust, operational continuity, third-party dependencies, decision-making systems and confidence in the digital infrastructure underpinning the economy. &#160; The Ministry of Electron",
-        "article": "The Government today highlighted that cybersecurity risks in the financial services sector have evolved beyond data theft and isolated breaches. It noted that these risks now extend to transaction integrity, customer trust, operational continuity, third-party dependencies, decision-making systems and confidence in the digital infrastructure underpinning the economy. &nbsp; The Ministry of Electronics and Information Technology (MeitY) informed this in the second edition of its Digital Threat Report 2025-26 for the Banking, Financial Services and Insurance (BFSI) and payments ecosystem. The report provides financial institutions, regulators and cybersecurity leaders with a comprehensive assessment of the evolving cyber threat landscape affecting banking, financial services, insurance and digital payments. &nbsp; Identifying AI asymmetry as one of the defining risks confronting financial institutions, the report stated that cyberattacks which previously required specialist expertise, substantial resources and weeks of preparation can now be executed at machine speed by comparatively low-resource threat actors. It warned that offensive cyber capabilities are advancing faster than many existing defensive and regulatory mechanisms. &nbsp; The report noted that cyber threats once regarded as emerging or sporadic, including social engineering, credential theft, supply-chain compromises and cloud exploitation, have now become established attack methods. It observed that the most damaging cyberattacks increasingly appear as legitimate user sessions, authorised payments or routine workflows, making them difficult to distinguish from genuine activity until significant damage has already occurred. &nbsp; The report also outlined an 18-month roadmap for the financial sector, focusing on strengthening foundational security controls, developing continuous cyber resilience capabilities and building more resilient security architectures. Addressing the launch of the report, Secretary, MeitY, S. Krishnan, said that trusted partnerships between public institutions and industry have become essential to strengthening digital trust as cyber threats grow increasingly sophisticated. He said the report reflects a significant collaboration among Indian Computer Emergency Response Team (CERT-In) and Computer Security Incident Response Team &#8211; Finance Sector (CSIRT-Fin), demonstrating how cybersecurity expertise developed in India can contribute to both national cyber resilience and the advancement of global cybersecurity knowledge. &nbsp; Speaking on the occasion, the Director General of CERT-In, Dr. Sanjay Bahl said that as India&#8217;s financial ecosystem becomes increasingly interconnected, real-time and technology-driven, cyber resilience must be treated as a shared responsibility among institutions, regulators and the broader digital supply chain. He said the report underscores the need to move beyond periodic security interventions towards continuous risk assessment, coordinated response mechanisms and stronger information sharing.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T14:39:39+00:00",
-        "link": "https://newsonair.gov.in/govt-releases-2nd-digital-threat-report-calls-for-stronger-cyber-resilience-in-financial-ecosystem/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/digital.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "FM Nirmala Sitharaman Urges Banks to Introduce Innovative NRI Deposit Products",
-        "summary": "Union Finance Minister Nirmala Sitharaman has called upon public sector banks to further intensify outreach to the NRI diaspora and introduce innovative deposit products. Mrs Sitharaman said this while interacting with Managing Directors and Chief Executive Officers of Banks, Public Financial Institutions on the Foreign Currency Non-Resident (Bank) deposits and Overseas Foreign Currency Borrowings",
-        "article": "Union Finance Minister Nirmala Sitharaman has called upon public sector banks to further intensify outreach to the NRI diaspora and introduce innovative deposit products. Mrs Sitharaman said this while interacting with Managing Directors and Chief Executive Officers of Banks, Public Financial Institutions on the Foreign Currency Non-Resident (Bank) deposits and Overseas Foreign Currency Borrowings swap initiatives in New Delhi today. She also emphasized for enhanced NRI outreach to sustain mobilisation momentum. During the interaction, the MDs and CEOs of the banks and Public Financial Institutions apprised the Minister of the progress under the RBI&#8217;s swap facility schemes. The participation of banks and public financial institutions underscores the effectiveness of the swap facilities in mobilising foreign currency inflows. Their participation also reinforces India&#8217;s foreign exchange reserves and strengthening the resilience of the external sector amid global uncertainty. The Secretaries of the Department of Financial Services, the Department of Economic Affairs and the Department of Revenue, the Chief Economic Advisor, the Deputy Governor of the Reserve Bank of India (RBI), and other senior officers also attended the interaction.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T13:28:14+00:00",
-        "link": "https://newsonair.gov.in/fm-nirmala-sitharaman-urges-banks-to-introduce-innovative-nri-deposit-products/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nirmala.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Social Justice & Empowerment to Mark 3rd NAMASTE Day on July 14",
-        "summary": "The Union Ministry of Social Justice and Empowerment will commemorate the third NAMASTE Day tomorrow, marking three years since the launch of the National Action for Mechanised Sanitation Ecosystem (NAMASTE) Scheme. The ministry informed that the main event, will be held at Rabindra Sadan in Kolkata along with the DIVYA KALA MELA, while parallel […]",
-        "article": "The Union Ministry of Social Justice and Empowerment will commemorate the third NAMASTE Day tomorrow, marking three years since the launch of the National Action for Mechanised Sanitation Ecosystem (NAMASTE) Scheme. The ministry informed that the main event, will be held at Rabindra Sadan in Kolkata along with the DIVYA KALA MELA, while parallel programmes will be organised by Urban Local Bodies across the country. It said that NAMASTE Day is dedicated to honouring sanitation workers, including sewer and septic tank workers, waste pickers and former manual scavengers for their vital role in safeguarding public health and environmental sanitation. &nbsp; Union Minister for Social Justice and Empowerment Dr Virendra Kumar and Minister of State for the Ministry of Social Justice and Empowerment Ramdas Athawale are expected to attend the event. Senior representatives from the Central and State Governments, Members of Parliament, MLAs, district administration officials and the National Safai Karamcharis Finance and Development Corporation will participate in the event.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T12:54:58+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-social-justice-empowerment-to-mark-3rd-namaste-day-on-july-14/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/namaste.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "national": [
-      {
-        "title": "Mortal Remains of 15 Indian Tourists Killed in Vietnam Boat Accident Brought Home",
-        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and […]",
-        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and arrived in Mumbai. It added that the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to Vietnamese authorities and the government, the Embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. In a tragic incident on Friday, a speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island, leaving 15 tourists dead. While 16 survivors have returned to India, one tourist remains hospitalized in Vietnam.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T17:03:56+00:00",
-        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-killed-in-vietnam-boat-accident-brought-home/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "MeitY launches NIDAR 2.0 to develop drones powered by Indian-made chips",
-        "summary": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s […]",
-        "article": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s drone sector. NIDAR 2.0 challenges students to build smarter drones powered by an Indian-made chip. It offers a prize pool of over 65 lakh rupees along with startup incubation, cloud credits, software support and internships for student teams. Speaking on the occasion, Secretary, MeitY S. Krishnan said, NIDAR 2.0 takes the students from just flying drones to building the drone’s brain. He also launched the problem statements, poster and rulebook for NIDAR 2.0. The Ministry said that the first edition of NIDAR 2025-26 was launched in March 2025. It drew over 3,000 students from 22 States and 4 Union Territories who built autonomous drone solutions for Disaster Management and Precision Agriculture. 93 teams reached the Grand Finale out which Twenty-four teams won prizes worth a total of 40 lakh rupees.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:57:38+00:00",
-        "link": "https://newsonair.gov.in/meity-launches-nidar-2-0-to-develop-drones-powered-by-indian-made-chips/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nidar.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "BSNL Records 10% Rise in Revenue in First Quarter of FY 2026-27: Communications Minister Jyotiraditya Scindia",
-        "summary": "Union Communications Minister Jyotiraditya Scindia has said that Bharat Sanchar Nigam Limited BSNL has provisionally posted around 10 per cent increase in revenue from operations in the first quarter of financial year 2026-27. Speaking to media after the Strategic Review and Planning Meet of BSNL in New Delhi today, Mr Scindia said, as […]",
-        "article": "Union Communications Minister Jyotiraditya Scindia has said that Bharat Sanchar Nigam Limited BSNL has provisionally posted around 10 per cent increase in revenue from operations in the first quarter of financial year 2026-27. Speaking to media after the Strategic Review and Planning Meet of BSNL in New Delhi today, Mr Scindia said, as far as the total revenue is concerned, directly from business operations, there is about a 10 per cent increase in revenue over last year. He said, last year, at the close of first quarter it was at 4,017 crore rupees and this year, it is at 4,418 crore rupees, an increase of 401 crore rupees. The Minister said, BSNL&#8217;s enterprise business segment and consumer mobility have shown growth while the consumer fixed access segment has remained almost flat. He said, BSNL&#8217;s average revenue per user has provisionally increased from 100 rupees to 102.7 rupees. Mr Scindia said, BSNL is on the trajectory of growth.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:50:04+00:00",
-        "link": "https://newsonair.gov.in/bsnl-records-10-rise-in-revenue-in-first-quarter-of-fy-2026-27-communications-minister-jyotiraditya-scindia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/bsnl.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "SC Seeks Rules Under Bharatiya Vayuyan Adhiniyam Within Two Weeks",
-        "summary": "The Supreme Court today directed the Centre to place on record, within two weeks, the rules framed under the Bharatiya Vayuyan Adhiniyam, 2024, a legislation intended to modernise the country&#8217;s civil aviation framework. Hearing a PIL, a bench of Justices Vikram Nath and Sandeep Mehta asked the Centre to submit the rules before the court […]",
-        "article": "The Supreme Court today directed the Centre to place on record, within two weeks, the rules framed under the Bharatiya Vayuyan Adhiniyam, 2024, a legislation intended to modernise the country&#8217;s civil aviation framework. Hearing a PIL, a bench of Justices Vikram Nath and Sandeep Mehta asked the Centre to submit the rules before the court in a sealed cover, regardless of whether they have been laid before Parliament. The counsel appearing for the Centre informed the bench that the draft rules are ready and they are in the process of translation. The counsel said the rules have to be placed before Parliament. The top court posted the matter for further hearing on August 3. The order of the top court came on the PIL seeking a robust and independent regulator that ensures transparency and passenger protection across the civil aviation sector. The plea also sought regulatory guidelines to control the unpredictable fluctuations in airfare and ancillary charges imposed by private airlines in India. Earlier, the Centre had told the apex court that the Ministry of Civil Aviation was actively considering the issues raised in the plea.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:36:42+00:00",
-        "link": "https://newsonair.gov.in/sc-seeks-rules-under-bharatiya-vayuyan-adhiniyam-within-two-weeks/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/699d64565800b-supreme-court-244152319-16x9-1.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "MIB Invites Proposals for Industry-led Challenges under WAVES 2027 Create in India Challenge Season 2",
-        "summary": "The Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. […]",
-        "article": "The Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season &#8211; 2 aims to execute industry-led, government-supported, youth oriented challenges that identify and nurture creative talent, promote upskilling and capacity building. It also aims to create opportunities for collaboration across the Media and Entertainment domains, including Artificial Intelligence (AI), Digital Media, and other technology-driven creative sectors. The challenge will culminate in the showcasing of winners and winning outcomes at CreatoSphere’ during WAVES 2027. The Ministry said, a unified portal has been created for submission of proposals and selection of challenges and their respective executing entities, through a transparent and merit-based mechanism. Entities from across the Media and Entertainment sector have been invited to submit their proposals through the wavesbazaar.com online portal by 31st of this month. To support the successful implementation of selected challenges, the Ministry will provide a One-Time Grant of up to one crore rupees per challenge.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:15:00+00:00",
-        "link": "https://newsonair.gov.in/mib-invites-proposals-for-industry-led-challenges-under-waves-2027-create-in-india-challenge-season-2/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/CIC.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NTA releases OMR Sheets and Recorded Responses for Re- NEET UG 2026",
-        "summary": "The National Testing agency has activated the NEET (UG) 2026 re-exam-OMR sheets and recorded responses for the candidates on the official website https://neet.nta.nic.in. NTA said that candidates can log in using their application number and compare their marked answers with what the scanner reads. If something doesn&#8217;t match, candidates may select the question and tick […]",
-        "article": "The National Testing agency has activated the NEET (UG) 2026 re-exam-OMR sheets and recorded responses for the candidates on the official website https://neet.nta.nic.in. NTA said that candidates can log in using their application number and compare their marked answers with what the scanner reads. If something doesn&#8217;t match, candidates may select the question and tick their claimed option and submit a challenge on payment of non-refundable processing fee of 200 rupees. &nbsp; The agency has clarified that the fee will be refunded if the challenge is upheld. The OMR challenge facility will remain available till 15 of this month. For assistance Candidates can contact the NTA helpline numbers 011-40759000, 011-69227700 and write to the neetug2026@nta.ac.in.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:03:17+00:00",
-        "link": "https://newsonair.gov.in/nta-releases-omr-sheets-and-recorded-responses-for-re-neet-ug-2026/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/@NeetUG.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "External Affairs Ministry Flags Fake X Handle @MEABharat",
-        "summary": "The External Affairs Ministry&#8217;s Fact Check Unit today cautioned that an account on X, @MEABharat is impersonating the ministry. It said this account has absolutely no linkage to the Ministry. Saying that the account is misleading the public and undermining public interest, the Ministry has urged everyone to exercise due caution.",
-        "article": "The External Affairs Ministry&#8217;s Fact Check Unit today cautioned that an account on X, @MEABharat is impersonating the ministry. It said this account has absolutely no linkage to the Ministry. Saying that the account is misleading the public and undermining public interest, the Ministry has urged everyone to exercise due caution.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T14:56:48+00:00",
-        "link": "https://newsonair.gov.in/external-affairs-ministry-flags-fake-x-handle-meabharat/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt Releases 2nd Digital Threat Report, Calls for Stronger Cyber Resilience in Financial Ecosystem",
-        "summary": "The Government today highlighted that cybersecurity risks in the financial services sector have evolved beyond data theft and isolated breaches. It noted that these risks now extend to transaction integrity, customer trust, operational continuity, third-party dependencies, decision-making systems and confidence in the digital infrastructure underpinning the economy. &#160; The Ministry of Electron",
-        "article": "The Government today highlighted that cybersecurity risks in the financial services sector have evolved beyond data theft and isolated breaches. It noted that these risks now extend to transaction integrity, customer trust, operational continuity, third-party dependencies, decision-making systems and confidence in the digital infrastructure underpinning the economy. &nbsp; The Ministry of Electronics and Information Technology (MeitY) informed this in the second edition of its Digital Threat Report 2025-26 for the Banking, Financial Services and Insurance (BFSI) and payments ecosystem. The report provides financial institutions, regulators and cybersecurity leaders with a comprehensive assessment of the evolving cyber threat landscape affecting banking, financial services, insurance and digital payments. &nbsp; Identifying AI asymmetry as one of the defining risks confronting financial institutions, the report stated that cyberattacks which previously required specialist expertise, substantial resources and weeks of preparation can now be executed at machine speed by comparatively low-resource threat actors. It warned that offensive cyber capabilities are advancing faster than many existing defensive and regulatory mechanisms. &nbsp; The report noted that cyber threats once regarded as emerging or sporadic, including social engineering, credential theft, supply-chain compromises and cloud exploitation, have now become established attack methods. It observed that the most damaging cyberattacks increasingly appear as legitimate user sessions, authorised payments or routine workflows, making them difficult to distinguish from genuine activity until significant damage has already occurred. &nbsp; The report also outlined an 18-month roadmap for the financial sector, focusing on strengthening foundational security controls, developing continuous cyber resilience capabilities and building more resilient security architectures. Addressing the launch of the report, Secretary, MeitY, S. Krishnan, said that trusted partnerships between public institutions and industry have become essential to strengthening digital trust as cyber threats grow increasingly sophisticated. He said the report reflects a significant collaboration among Indian Computer Emergency Response Team (CERT-In) and Computer Security Incident Response Team &#8211; Finance Sector (CSIRT-Fin), demonstrating how cybersecurity expertise developed in India can contribute to both national cyber resilience and the advancement of global cybersecurity knowledge. &nbsp; Speaking on the occasion, the Director General of CERT-In, Dr. Sanjay Bahl said that as India&#8217;s financial ecosystem becomes increasingly interconnected, real-time and technology-driven, cyber resilience must be treated as a shared responsibility among institutions, regulators and the broader digital supply chain. He said the report underscores the need to move beyond periodic security interventions towards continuous risk assessment, coordinated response mechanisms and stronger information sharing.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T14:39:39+00:00",
-        "link": "https://newsonair.gov.in/govt-releases-2nd-digital-threat-report-calls-for-stronger-cyber-resilience-in-financial-ecosystem/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/digital.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "FM Nirmala Sitharaman Urges Banks to Introduce Innovative NRI Deposit Products",
-        "summary": "Union Finance Minister Nirmala Sitharaman has called upon public sector banks to further intensify outreach to the NRI diaspora and introduce innovative deposit products. Mrs Sitharaman said this while interacting with Managing Directors and Chief Executive Officers of Banks, Public Financial Institutions on the Foreign Currency Non-Resident (Bank) deposits and Overseas Foreign Currency Borrowings",
-        "article": "Union Finance Minister Nirmala Sitharaman has called upon public sector banks to further intensify outreach to the NRI diaspora and introduce innovative deposit products. Mrs Sitharaman said this while interacting with Managing Directors and Chief Executive Officers of Banks, Public Financial Institutions on the Foreign Currency Non-Resident (Bank) deposits and Overseas Foreign Currency Borrowings swap initiatives in New Delhi today. She also emphasized for enhanced NRI outreach to sustain mobilisation momentum. During the interaction, the MDs and CEOs of the banks and Public Financial Institutions apprised the Minister of the progress under the RBI&#8217;s swap facility schemes. The participation of banks and public financial institutions underscores the effectiveness of the swap facilities in mobilising foreign currency inflows. Their participation also reinforces India&#8217;s foreign exchange reserves and strengthening the resilience of the external sector amid global uncertainty. The Secretaries of the Department of Financial Services, the Department of Economic Affairs and the Department of Revenue, the Chief Economic Advisor, the Deputy Governor of the Reserve Bank of India (RBI), and other senior officers also attended the interaction.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T13:28:14+00:00",
-        "link": "https://newsonair.gov.in/fm-nirmala-sitharaman-urges-banks-to-introduce-innovative-nri-deposit-products/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nirmala.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Social Justice & Empowerment to Mark 3rd NAMASTE Day on July 14",
-        "summary": "The Union Ministry of Social Justice and Empowerment will commemorate the third NAMASTE Day tomorrow, marking three years since the launch of the National Action for Mechanised Sanitation Ecosystem (NAMASTE) Scheme. The ministry informed that the main event, will be held at Rabindra Sadan in Kolkata along with the DIVYA KALA MELA, while parallel […]",
-        "article": "The Union Ministry of Social Justice and Empowerment will commemorate the third NAMASTE Day tomorrow, marking three years since the launch of the National Action for Mechanised Sanitation Ecosystem (NAMASTE) Scheme. The ministry informed that the main event, will be held at Rabindra Sadan in Kolkata along with the DIVYA KALA MELA, while parallel programmes will be organised by Urban Local Bodies across the country. It said that NAMASTE Day is dedicated to honouring sanitation workers, including sewer and septic tank workers, waste pickers and former manual scavengers for their vital role in safeguarding public health and environmental sanitation. &nbsp; Union Minister for Social Justice and Empowerment Dr Virendra Kumar and Minister of State for the Ministry of Social Justice and Empowerment Ramdas Athawale are expected to attend the event. Senior representatives from the Central and State Governments, Members of Parliament, MLAs, district administration officials and the National Safai Karamcharis Finance and Development Corporation will participate in the event.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T12:54:58+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-social-justice-empowerment-to-mark-3rd-namaste-day-on-july-14/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/namaste.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "politics": [
-      {
-        "title": "Mortal Remains of 15 Indian Tourists Killed in Vietnam Boat Accident Brought Home",
-        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and […]",
-        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and arrived in Mumbai. It added that the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to Vietnamese authorities and the government, the Embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. In a tragic incident on Friday, a speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island, leaving 15 tourists dead. While 16 survivors have returned to India, one tourist remains hospitalized in Vietnam.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T17:03:56+00:00",
-        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-killed-in-vietnam-boat-accident-brought-home/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "MeitY launches NIDAR 2.0 to develop drones powered by Indian-made chips",
-        "summary": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s […]",
-        "article": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s drone sector. NIDAR 2.0 challenges students to build smarter drones powered by an Indian-made chip. It offers a prize pool of over 65 lakh rupees along with startup incubation, cloud credits, software support and internships for student teams. Speaking on the occasion, Secretary, MeitY S. Krishnan said, NIDAR 2.0 takes the students from just flying drones to building the drone’s brain. He also launched the problem statements, poster and rulebook for NIDAR 2.0. The Ministry said that the first edition of NIDAR 2025-26 was launched in March 2025. It drew over 3,000 students from 22 States and 4 Union Territories who built autonomous drone solutions for Disaster Management and Precision Agriculture. 93 teams reached the Grand Finale out which Twenty-four teams won prizes worth a total of 40 lakh rupees.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:57:38+00:00",
-        "link": "https://newsonair.gov.in/meity-launches-nidar-2-0-to-develop-drones-powered-by-indian-made-chips/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nidar.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "BSNL Records 10% Rise in Revenue in First Quarter of FY 2026-27: Communications Minister Jyotiraditya Scindia",
-        "summary": "Union Communications Minister Jyotiraditya Scindia has said that Bharat Sanchar Nigam Limited BSNL has provisionally posted around 10 per cent increase in revenue from operations in the first quarter of financial year 2026-27. Speaking to media after the Strategic Review and Planning Meet of BSNL in New Delhi today, Mr Scindia said, as […]",
-        "article": "Union Communications Minister Jyotiraditya Scindia has said that Bharat Sanchar Nigam Limited BSNL has provisionally posted around 10 per cent increase in revenue from operations in the first quarter of financial year 2026-27. Speaking to media after the Strategic Review and Planning Meet of BSNL in New Delhi today, Mr Scindia said, as far as the total revenue is concerned, directly from business operations, there is about a 10 per cent increase in revenue over last year. He said, last year, at the close of first quarter it was at 4,017 crore rupees and this year, it is at 4,418 crore rupees, an increase of 401 crore rupees. The Minister said, BSNL&#8217;s enterprise business segment and consumer mobility have shown growth while the consumer fixed access segment has remained almost flat. He said, BSNL&#8217;s average revenue per user has provisionally increased from 100 rupees to 102.7 rupees. Mr Scindia said, BSNL is on the trajectory of growth.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:50:04+00:00",
-        "link": "https://newsonair.gov.in/bsnl-records-10-rise-in-revenue-in-first-quarter-of-fy-2026-27-communications-minister-jyotiraditya-scindia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/bsnl.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "SC Seeks Rules Under Bharatiya Vayuyan Adhiniyam Within Two Weeks",
-        "summary": "The Supreme Court today directed the Centre to place on record, within two weeks, the rules framed under the Bharatiya Vayuyan Adhiniyam, 2024, a legislation intended to modernise the country&#8217;s civil aviation framework. Hearing a PIL, a bench of Justices Vikram Nath and Sandeep Mehta asked the Centre to submit the rules before the court […]",
-        "article": "The Supreme Court today directed the Centre to place on record, within two weeks, the rules framed under the Bharatiya Vayuyan Adhiniyam, 2024, a legislation intended to modernise the country&#8217;s civil aviation framework. Hearing a PIL, a bench of Justices Vikram Nath and Sandeep Mehta asked the Centre to submit the rules before the court in a sealed cover, regardless of whether they have been laid before Parliament. The counsel appearing for the Centre informed the bench that the draft rules are ready and they are in the process of translation. The counsel said the rules have to be placed before Parliament. The top court posted the matter for further hearing on August 3. The order of the top court came on the PIL seeking a robust and independent regulator that ensures transparency and passenger protection across the civil aviation sector. The plea also sought regulatory guidelines to control the unpredictable fluctuations in airfare and ancillary charges imposed by private airlines in India. Earlier, the Centre had told the apex court that the Ministry of Civil Aviation was actively considering the issues raised in the plea.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:36:42+00:00",
-        "link": "https://newsonair.gov.in/sc-seeks-rules-under-bharatiya-vayuyan-adhiniyam-within-two-weeks/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/699d64565800b-supreme-court-244152319-16x9-1.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "MIB Invites Proposals for Industry-led Challenges under WAVES 2027 Create in India Challenge Season 2",
-        "summary": "The Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. […]",
-        "article": "The Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season &#8211; 2 aims to execute industry-led, government-supported, youth oriented challenges that identify and nurture creative talent, promote upskilling and capacity building. It also aims to create opportunities for collaboration across the Media and Entertainment domains, including Artificial Intelligence (AI), Digital Media, and other technology-driven creative sectors. The challenge will culminate in the showcasing of winners and winning outcomes at CreatoSphere’ during WAVES 2027. The Ministry said, a unified portal has been created for submission of proposals and selection of challenges and their respective executing entities, through a transparent and merit-based mechanism. Entities from across the Media and Entertainment sector have been invited to submit their proposals through the wavesbazaar.com online portal by 31st of this month. To support the successful implementation of selected challenges, the Ministry will provide a One-Time Grant of up to one crore rupees per challenge.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:15:00+00:00",
-        "link": "https://newsonair.gov.in/mib-invites-proposals-for-industry-led-challenges-under-waves-2027-create-in-india-challenge-season-2/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/CIC.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NTA releases OMR Sheets and Recorded Responses for Re- NEET UG 2026",
-        "summary": "The National Testing agency has activated the NEET (UG) 2026 re-exam-OMR sheets and recorded responses for the candidates on the official website https://neet.nta.nic.in. NTA said that candidates can log in using their application number and compare their marked answers with what the scanner reads. If something doesn&#8217;t match, candidates may select the question and tick […]",
-        "article": "The National Testing agency has activated the NEET (UG) 2026 re-exam-OMR sheets and recorded responses for the candidates on the official website https://neet.nta.nic.in. NTA said that candidates can log in using their application number and compare their marked answers with what the scanner reads. If something doesn&#8217;t match, candidates may select the question and tick their claimed option and submit a challenge on payment of non-refundable processing fee of 200 rupees. &nbsp; The agency has clarified that the fee will be refunded if the challenge is upheld. The OMR challenge facility will remain available till 15 of this month. For assistance Candidates can contact the NTA helpline numbers 011-40759000, 011-69227700 and write to the neetug2026@nta.ac.in.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:03:17+00:00",
-        "link": "https://newsonair.gov.in/nta-releases-omr-sheets-and-recorded-responses-for-re-neet-ug-2026/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/@NeetUG.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "External Affairs Ministry Flags Fake X Handle @MEABharat",
-        "summary": "The External Affairs Ministry&#8217;s Fact Check Unit today cautioned that an account on X, @MEABharat is impersonating the ministry. It said this account has absolutely no linkage to the Ministry. Saying that the account is misleading the public and undermining public interest, the Ministry has urged everyone to exercise due caution.",
-        "article": "The External Affairs Ministry&#8217;s Fact Check Unit today cautioned that an account on X, @MEABharat is impersonating the ministry. It said this account has absolutely no linkage to the Ministry. Saying that the account is misleading the public and undermining public interest, the Ministry has urged everyone to exercise due caution.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T14:56:48+00:00",
-        "link": "https://newsonair.gov.in/external-affairs-ministry-flags-fake-x-handle-meabharat/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-3.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt Releases 2nd Digital Threat Report, Calls for Stronger Cyber Resilience in Financial Ecosystem",
-        "summary": "The Government today highlighted that cybersecurity risks in the financial services sector have evolved beyond data theft and isolated breaches. It noted that these risks now extend to transaction integrity, customer trust, operational continuity, third-party dependencies, decision-making systems and confidence in the digital infrastructure underpinning the economy. &#160; The Ministry of Electron",
-        "article": "The Government today highlighted that cybersecurity risks in the financial services sector have evolved beyond data theft and isolated breaches. It noted that these risks now extend to transaction integrity, customer trust, operational continuity, third-party dependencies, decision-making systems and confidence in the digital infrastructure underpinning the economy. &nbsp; The Ministry of Electronics and Information Technology (MeitY) informed this in the second edition of its Digital Threat Report 2025-26 for the Banking, Financial Services and Insurance (BFSI) and payments ecosystem. The report provides financial institutions, regulators and cybersecurity leaders with a comprehensive assessment of the evolving cyber threat landscape affecting banking, financial services, insurance and digital payments. &nbsp; Identifying AI asymmetry as one of the defining risks confronting financial institutions, the report stated that cyberattacks which previously required specialist expertise, substantial resources and weeks of preparation can now be executed at machine speed by comparatively low-resource threat actors. It warned that offensive cyber capabilities are advancing faster than many existing defensive and regulatory mechanisms. &nbsp; The report noted that cyber threats once regarded as emerging or sporadic, including social engineering, credential theft, supply-chain compromises and cloud exploitation, have now become established attack methods. It observed that the most damaging cyberattacks increasingly appear as legitimate user sessions, authorised payments or routine workflows, making them difficult to distinguish from genuine activity until significant damage has already occurred. &nbsp; The report also outlined an 18-month roadmap for the financial sector, focusing on strengthening foundational security controls, developing continuous cyber resilience capabilities and building more resilient security architectures. Addressing the launch of the report, Secretary, MeitY, S. Krishnan, said that trusted partnerships between public institutions and industry have become essential to strengthening digital trust as cyber threats grow increasingly sophisticated. He said the report reflects a significant collaboration among Indian Computer Emergency Response Team (CERT-In) and Computer Security Incident Response Team &#8211; Finance Sector (CSIRT-Fin), demonstrating how cybersecurity expertise developed in India can contribute to both national cyber resilience and the advancement of global cybersecurity knowledge. &nbsp; Speaking on the occasion, the Director General of CERT-In, Dr. Sanjay Bahl said that as India&#8217;s financial ecosystem becomes increasingly interconnected, real-time and technology-driven, cyber resilience must be treated as a shared responsibility among institutions, regulators and the broader digital supply chain. He said the report underscores the need to move beyond periodic security interventions towards continuous risk assessment, coordinated response mechanisms and stronger information sharing.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T14:39:39+00:00",
-        "link": "https://newsonair.gov.in/govt-releases-2nd-digital-threat-report-calls-for-stronger-cyber-resilience-in-financial-ecosystem/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/digital.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "FM Nirmala Sitharaman Urges Banks to Introduce Innovative NRI Deposit Products",
-        "summary": "Union Finance Minister Nirmala Sitharaman has called upon public sector banks to further intensify outreach to the NRI diaspora and introduce innovative deposit products. Mrs Sitharaman said this while interacting with Managing Directors and Chief Executive Officers of Banks, Public Financial Institutions on the Foreign Currency Non-Resident (Bank) deposits and Overseas Foreign Currency Borrowings",
-        "article": "Union Finance Minister Nirmala Sitharaman has called upon public sector banks to further intensify outreach to the NRI diaspora and introduce innovative deposit products. Mrs Sitharaman said this while interacting with Managing Directors and Chief Executive Officers of Banks, Public Financial Institutions on the Foreign Currency Non-Resident (Bank) deposits and Overseas Foreign Currency Borrowings swap initiatives in New Delhi today. She also emphasized for enhanced NRI outreach to sustain mobilisation momentum. During the interaction, the MDs and CEOs of the banks and Public Financial Institutions apprised the Minister of the progress under the RBI&#8217;s swap facility schemes. The participation of banks and public financial institutions underscores the effectiveness of the swap facilities in mobilising foreign currency inflows. Their participation also reinforces India&#8217;s foreign exchange reserves and strengthening the resilience of the external sector amid global uncertainty. The Secretaries of the Department of Financial Services, the Department of Economic Affairs and the Department of Revenue, the Chief Economic Advisor, the Deputy Governor of the Reserve Bank of India (RBI), and other senior officers also attended the interaction.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T13:28:14+00:00",
-        "link": "https://newsonair.gov.in/fm-nirmala-sitharaman-urges-banks-to-introduce-innovative-nri-deposit-products/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nirmala.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ministry of Social Justice & Empowerment to Mark 3rd NAMASTE Day on July 14",
-        "summary": "The Union Ministry of Social Justice and Empowerment will commemorate the third NAMASTE Day tomorrow, marking three years since the launch of the National Action for Mechanised Sanitation Ecosystem (NAMASTE) Scheme. The ministry informed that the main event, will be held at Rabindra Sadan in Kolkata along with the DIVYA KALA MELA, while parallel […]",
-        "article": "The Union Ministry of Social Justice and Empowerment will commemorate the third NAMASTE Day tomorrow, marking three years since the launch of the National Action for Mechanised Sanitation Ecosystem (NAMASTE) Scheme. The ministry informed that the main event, will be held at Rabindra Sadan in Kolkata along with the DIVYA KALA MELA, while parallel programmes will be organised by Urban Local Bodies across the country. It said that NAMASTE Day is dedicated to honouring sanitation workers, including sewer and septic tank workers, waste pickers and former manual scavengers for their vital role in safeguarding public health and environmental sanitation. &nbsp; Union Minister for Social Justice and Empowerment Dr Virendra Kumar and Minister of State for the Ministry of Social Justice and Empowerment Ramdas Athawale are expected to attend the event. Senior representatives from the Central and State Governments, Members of Parliament, MLAs, district administration officials and the National Safai Karamcharis Finance and Development Corporation will participate in the event.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T12:54:58+00:00",
-        "link": "https://newsonair.gov.in/ministry-of-social-justice-empowerment-to-mark-3rd-namaste-day-on-july-14/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/namaste.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "world": [
-      {
-        "title": "Indian-Origin Astronaut Anil Menon Set to Begin Eight-Month ISS Mission",
-        "summary": "A NASA astronaut of Indian descent, Anil Menon is set to embark on an eight-month mission to the International Space Station (ISS) tomorrow from the Baikonur cosmodrome in Kazakhstan along with two Russian cosmonauts. The Roscosmos Soyuz MS-29 spacecraft is scheduled for lift-off from the Baikonur spaceport at 8:17 PM Indian Standard Time […]",
-        "article": "A NASA astronaut of Indian descent, Anil Menon is set to embark on an eight-month mission to the International Space Station (ISS) tomorrow from the Baikonur cosmodrome in Kazakhstan along with two Russian cosmonauts. The Roscosmos Soyuz MS-29 spacecraft is scheduled for lift-off from the Baikonur spaceport at 8:17 PM Indian Standard Time and is expected to dock at the orbital laboratory after a little over three hours. Besides Menon, Russian cosmonauts Pyotr Dubrov and Anna Kikina will be part of the 75th expedition to the ISS. The Soyuz spacecraft will dock at the ISS at 11:56 PM IST tomorrow, and the astronauts will be onboard the ISS at around 1:25 am IST early Wednesday. Born in Minneapolis to Ukrainian and Indian immigrants, 49-year-old Menon is an emergency medicine physician and a US Space Force colonel. During his stint with the US Air Force, he served on the frontlines in Afghanistan during Operation Enduring Freedom and also worked for the Himalayan Rescue Association, caring for climbers on Mount Everest.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:46:09+00:00",
-        "link": "https://newsonair.gov.in/indian-origin-astronaut-anil-menon-set-to-begin-eight-month-iss-mission/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/anil.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "UK: Oxford Begins Human Trial of New Ebola Vaccine",
-        "summary": "A new vaccine to combat a strain of Ebola spreading across the Democratic Republic of Congo will soon be tested on adults in the United Kingdom. Scientists at the University of Oxford have been working to develop a jab to protect against the Bundibugyo type of Ebola and now plan to assess its safety and […]",
-        "article": "A new vaccine to combat a strain of Ebola spreading across the Democratic Republic of Congo will soon be tested on adults in the United Kingdom. Scientists at the University of Oxford have been working to develop a jab to protect against the Bundibugyo type of Ebola and now plan to assess its safety and immune response in 50 healthy adults aged 18 to 55. Scientists started developing the vaccine eight weeks ago when when the World Health Organisation (WHO) recommended prioritizing the development of an Ebola vaccine, shortly after the outbreak was declared on 17th of May. It is the first &#8211; out of four vaccines under development &#8211; to enter clinical trials. Volunteers are now being recruited for the trial, and the vaccinations will begin in the coming weeks after the UK regulator gave permission for trials to take place. The Ebola epidemic has killed 625 people in the Democratic Republic of the Congo with 1,792 laboratory confirmed cases.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T14:59:07+00:00",
-        "link": "https://newsonair.gov.in/uk-oxford-begins-human-trial-of-new-ebola-vaccine/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/Russian-scientists-develop-new-vaccine-against-latest-strain-of-Ebola-virus.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Piyush Goyal discusses Boosting Trade, Investment, Technology Ties During Spain Visit",
-        "summary": "Commerce and Industry Minister Piyush Goyal today began his official engagements in Spain by meeting First Vice President of the Government of Spain and Minister of Economy, Trade and Business, Carlos Cuerpo Caballero. &#160; In a social media post, Mr Goyal said that they had productive discussions on strengthening the India-Spain economic partnership through greater […]",
-        "article": "Commerce and Industry Minister Piyush Goyal today began his official engagements in Spain by meeting First Vice President of the Government of Spain and Minister of Economy, Trade and Business, Carlos Cuerpo Caballero. &nbsp; In a social media post, Mr Goyal said that they had productive discussions on strengthening the India-Spain economic partnership through greater trade, investment and technology collaboration. &nbsp; He said, the discussion also focused on renewable energy, green hydrogen, advanced manufacturing, digital technologies, infrastructure and innovation. He added that both sides also exchanged views on the India-EU Free Trade Agreement and explored ways to deepen business ties and expand India&#8217;s commercial engagement with Spain as a valued partner. Mr Goyal is currently on a five-day visit to Spain, Belgium and Finland from today.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T13:13:46+00:00",
-        "link": "https://newsonair.gov.in/piyush-goyal-discusses-boosting-trade-investment-technology-ties-during-spain-visit/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/piyush-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "PMML to host ‘Walking with Legacy’ exhibition in New Delhi",
+        "summary": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, […]",
+        "article": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, featuring walking sticks and batons as markers of identity and governance. Depending on their purpose, walking sticks and batons may be plain or richly ornamented. Their handles and shafts are enhanced with materials including ivory, bone, brass, silver, copper, gold, gemstones and enamel. The finished pieces are assembled and coated with wax, oil, shellac or varnish for protection and durability. Crafted from materials such as ebony, mahogany, rosewood, teak, sheesham, bamboo, malacca cane and other hardwoods, these objects showcase traditional woodworking techniques, including seasoning, shaping, turning and polishing. The exhibition will also showcase decorative elements such as nature-inspired motifs, floral and geometric patterns, family crests, emblems and symbolic designs, engraved inscriptions, and lacquer work with natural wood finishes, offering visitors a glimpse into the craftsmanship behind these remarkable objects.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:44:49+00:00",
+        "link": "https://newsonair.gov.in/pmml-to-host-walking-with-legacy-exhibition-in-new-delhi/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
+        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -513,8 +43,8 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T12:57:24+00:00",
         "link": "https://newsonair.gov.in/us-iran-claim-control-of-strait-of-hormuz-amid-escalating-conflict/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/strait.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ISS-44_Strait_of_Gibraltar.jpg/1280px-ISS-44_Strait_of_Gibraltar.jpg",
+        "image_credit": "Wikipedia – Strait (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -524,8 +54,8 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T12:01:12+00:00",
         "link": "https://newsonair.gov.in/eu-foreign-ministers-discuss-fresh-sanctions-on-russia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/202604223759372.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Hillary_Rodham_Clinton_Secretary_of_State_with_Canadian_Foreign_Minister_Cannon_%283632885455%29.jpg",
+        "image_credit": "Wikimedia Commons (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -535,56 +65,538 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T08:37:20+00:00",
         "link": "https://newsonair.gov.in/ins-sudarshini-arrives-in-boston-after-sail4th-250-celebrations/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/16.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/INS_Sudarshini_at_the_Sail250_Virginia_Parade_of_Sails.jpg/1280px-INS_Sudarshini_at_the_Sail250_Virginia_Parade_of_Sails.jpg",
+        "image_credit": "Wikipedia – INS Sudarshini (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Mortal remains of 15 Indians who died in Vietnam boat tragedy to arrive home tonight",
-        "summary": "The mortal remains of the 15 Indian tourists who lost their lives in the boat capsize incident near Phu Quoc Island in Vietnam will be repatriated to India today on a Vietnam Airlines flight from Ho Chi Minh City. In a post on social media, the Indian Embassy in Vietnam said that Vietnam Airlines flight […]",
-        "article": "The mortal remains of the 15 Indian tourists who lost their lives in the boat capsize incident near Phu Quoc Island in Vietnam will be repatriated to India today on a Vietnam Airlines flight from Ho Chi Minh City. In a post on social media, the Indian Embassy in Vietnam said that Vietnam Airlines flight VN979 is scheduled to depart from Ho Chi Minh City at 6:00 p.m. local time and is expected to arrive at Mumbai&#8217;s Chhatrapati Shivaji Maharaj International Airport at 9:35 p.m. Indian Standard Time. The Embassy said the respective State Governments have been requested to coordinate with the bereaved families for the onward transportation of the mortal remains to their native places.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T08:15:10+00:00",
-        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-to-be-repatriated-from-vietnam-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/10-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "NTA opens OMR challenge window for NEET-UG 2026 candidates",
+        "summary": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &#160; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question […]",
+        "article": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &nbsp; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question and tick their claimed option and submit a challenge on payment of a non-refundable processing fee of 200 rupees. &nbsp; The agency has clarified that the fee will be refunded if the challenge is upheld. The OMR challenge facility will remain available till 15 of this month. Candidates can contact the NTA helpline numbers 011-40759000, 011-69227700 and write to the neetug2026@nta.ac.in.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:57:37+00:00",
+        "link": "https://newsonair.gov.in/nta-opens-omr-challenge-window-for-neet-ug-2026-candidates/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "‘Jurassic Park’ star Sam Neill dies at 78",
-        "summary": "New Zealand actor Sam Neill, best known for his roles in Jurassic Park and The Piano, has died at the age of 78. His family said he passed away in Sydney following a sudden and unexpected medical event. Neill had revealed in 2023 that he had been diagnosed with angioimmunoblastic T-cell lymphoma, a rare form […]",
-        "article": "New Zealand actor Sam Neill, best known for his roles in Jurassic Park and The Piano, has died at the age of 78. His family said he passed away in Sydney following a sudden and unexpected medical event. Neill had revealed in 2023 that he had been diagnosed with angioimmunoblastic T-cell lymphoma, a rare form of non-Hodgkin lymphoma. His family said he was cancer-free at the time of his death but did not disclose the cause of the medical event. During a career spanning more than five decades, Neill earned international acclaim for his performances in critically acclaimed dramas as well as major Hollywood productions.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T07:28:57+00:00",
-        "link": "https://newsonair.gov.in/jurassic-park-star-sam-neill-dies-at-78/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-20.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "Indian crew member killed in Iranian missile strike on UAE tankers",
+        "summary": "An Indian crew member was killed, and six others were wounded after two United Arab Emirates tankers were struck by Iranian cruise missiles while transiting through Strait of Hormuz. The Defence Ministry of the UAE said this in a social media post today. &#160; The ministry said the tankers, the Mombasa and Al Bahiyah, were […]",
+        "article": "An Indian crew member was killed, and six others were wounded after two United Arab Emirates tankers were struck by Iranian cruise missiles while transiting through Strait of Hormuz. The Defence Ministry of the UAE said this in a social media post today. &nbsp; The ministry said the tankers, the Mombasa and Al Bahiyah, were targeted in the southern lane of the strait in ​Omani territorial waters. The dead crew member was aboard the Mombasa tanker. Of the eight wounded, four ​were seriously injured. Six of the wounded were Indian nationals and two were Ukrainian nationals. The UAE defence ministry condemned the attack, describing it as a blatant violation of international law and a serious threat to regional security and stability. The ministry affirmed that it remains on the highest level of readiness and preparedness to address any threats, and said that it is taking all necessary measures to respond decisively to any attempt to undermine the security and stability of the country. The latest incidents in the waterway come after weeks of heightened tensions in the West Asian region.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:48:33+00:00",
+        "link": "https://newsonair.gov.in/indian-crew-member-killed-in-iranian-missile-strike-on-uae-tankers/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Iran claims missile and drone strikes on US military bases",
-        "summary": "Iran&#8217;s Islamic Revolutionary Guard Corps (IRGC) has claimed responsibility for missile and drone strikes on US military bases in Jordan, Bahrain and Kuwait as part of its ongoing &#8216;Eye-for-an-Eye&#8217; operation. The IRGC said the attacks were carried out in retaliation for recent US strikes on Iranian military targets. According to Iran&#8217;s state news agency, the […]",
-        "article": "Iran&#8217;s Islamic Revolutionary Guard Corps (IRGC) has claimed responsibility for missile and drone strikes on US military bases in Jordan, Bahrain and Kuwait as part of its ongoing &#8216;Eye-for-an-Eye&#8217; operation. The IRGC said the attacks were carried out in retaliation for recent US strikes on Iranian military targets. According to Iran&#8217;s state news agency, the operation targeted Prince Hassan Air Base in Jordan, Sheikh Isa Air Base in Bahrain, and Ali Al-Salem Air Base and Ahmed Al-Jaber Air Base in Kuwait. The IRGC claimed that the strikes damaged fuel depots, ammunition storage facilities, air defence systems and radar infrastructure. It also warned against any further US military activity in the Strait of Hormuz. The claims came after the US Central Command (CENTCOM) launched a major operation targeting Iranian air defence systems, missile and drone launch sites, coastal radar infrastructure and tactical naval assets. According to the United States, the precision strikes targeted multiple military installations across Iran to degrade Tehran&#8217;s capability to disrupt international maritime trade. The US said the operation was aimed at protecting the Strait of Hormuz and ensuring freedom of navigation.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T06:10:37+00:00",
-        "link": "https://newsonair.gov.in/iran-claims-missile-and-drone-strikes-on-us-military-bases/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/5.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "India launches campaign for UN Security Council seat for 2028-29 term",
+        "summary": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s",
+        "article": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s guiding approach to promoting global peace, security and equitable development. He said the world is facing growing conflict and instability, making the role of the United Nations more critical than ever. Highlighting India&#8217;s credentials, Dr. Jaishankar said India has contributed nearly three lakh personnel to about 50 UN peacekeeping missions since the organisation&#8217;s inception and currently has over 4,300 personnel serving in 10 UN peacekeeping missions. He said India has consistently advocated dialogue and diplomacy and has sought to give voice to the concerns of the Global South. Seeking the support of UN member states, Dr. Jaishankar said India&#8217;s presence in the Security Council would help strengthen decision-making in the vital body. If elected, India will serve a two-year term beginning in 2028. India has previously served eight terms as a non-permanent member of the Security Council, most recently in 2021-22.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:46:58+00:00",
+        "link": "https://newsonair.gov.in/india-launches-campaign-for-un-security-council-seat-for-2028-29-term/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "NCW takes suo motu cognisance of Keralam student’s murder in Uzbekistan",
-        "summary": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of […]",
-        "article": "The National Commission for Women (NCW) has taken suo motu cognisance of the reported torture and murder of a 21-year-old medical student from Keralam in Uzbekistan. The Commission expressed grave concern over allegations of physical assault, harassment and attempted forced religious conversion preceding her death. The NCW has written to the Director General of Police, Keralam, seeking an expeditious investigation, coordination with the Ministry of External Affairs and the Indian Embassy in Tashkent, preservation of evidence, and comprehensive support for the bereaved family. The Commission has sought an Action Taken Report from the Kerala DGP within seven days. The NCW has also requested the Ambassador of India to Uzbekistan to extend all necessary assistance and coordinate with the concerned authorities to facilitate the legal process and ensure effective cooperation in the matter.",
+        "title": "EU coordinates efforts to raise one billion dollars in aid for Gaza",
+        "summary": "The European Union (EU) has coordinated efforts to raise 1 billion Dollars in aid for Gaza. The bloc&#8217;s top diplomat yesterday said that EU is working with 65 governments and organisations, including the White House and the United Nations. &#160; The European Commission Vice President, Kaja Kallas, announced the fund after a meeting of the […]",
+        "article": "The European Union (EU) has coordinated efforts to raise 1 billion Dollars in aid for Gaza. The bloc&#8217;s top diplomat yesterday said that EU is working with 65 governments and organisations, including the White House and the United Nations. &nbsp; The European Commission Vice President, Kaja Kallas, announced the fund after a meeting of the Palestine Donors Group in Brussels. The meeting was the second gathering of the Team Gaza Initiative, an effort by the EU to rally support for recovery projects like sanitation and farming in the war-ravaged coastal enclave of nearly 2 million people.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:51:06+00:00",
+        "link": "https://newsonair.gov.in/eu-coordinates-efforts-to-raise-one-billion-dollars-in-aid-for-gaza/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Mortal remains of 15 Indian tourists brought back from Vietnam",
+        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in […]",
+        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in Mumbai. The Embassy said, the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to the Vietnamese authorities and the government, the embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. A speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island in Vietnam on Friday, leaving 15 tourists dead. Sixteen survivors have also returned to India, and one tourist remains hospitalised in Vietnam.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:42:55+00:00",
+        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-brought-back-from-vietnam/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Mortal Remains of 15 Indian Tourists Killed in Vietnam Boat Accident Brought Home",
+        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and […]",
+        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and arrived in Mumbai. It added that the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to Vietnamese authorities and the government, the Embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. In a tragic incident on Friday, a speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island, leaving 15 tourists dead. While 16 survivors have returned to India, one tourist remains hospitalized in Vietnam.",
         "date": "2026-07-13",
-        "pubDate": "2026-07-13T05:14:13+00:00",
-        "link": "https://newsonair.gov.in/ncw-takes-suo-motu-cognisance-of-keralam-students-murder-in-uzbekistan/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/ncw-19a.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-13T17:03:56+00:00",
+        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-killed-in-vietnam-boat-accident-brought-home/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "breaking": [
+      {
+        "title": "I&B Ministry invites proposals for WAVES 2027 Create in India Challenge",
+        "summary": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season […]",
+        "article": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season &#8211; 2 aims to execute industry-led, government-supported, youth oriented challenges that identify and nurture creative talent, promote upskilling and capacity building. It also aims to create opportunities for collaboration across the Media and Entertainment domains, including Artificial Intelligence (AI), Digital Media, and other technology-driven creative sectors. The challenge will culminate in the showcasing of winners and winning outcomes at CreatoSphere’ during WAVES 2027. The Ministry said, a unified portal has been created for submission of proposals and selection of challenges and their respective executing entities, through a transparent and merit-based mechanism. Entities from across the Media and Entertainment sector have been invited to submit their proposals through the wavesbazaar.com online portal by 31st of this month. To support the successful implementation of selected challenges, the Ministry will provide a One-Time Grant of up to one crore rupees per challenge.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:57:49+00:00",
+        "link": "https://newsonair.gov.in/ib-ministry-invites-proposals-for-waves-2027-create-in-india-challenge/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mildred_H._McAfee.jpg/1280px-Mildred_H._McAfee.jpg",
+        "image_credit": "Wikipedia – WAVES (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PMML to host ‘Walking with Legacy’ exhibition in New Delhi",
+        "summary": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, […]",
+        "article": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, featuring walking sticks and batons as markers of identity and governance. Depending on their purpose, walking sticks and batons may be plain or richly ornamented. Their handles and shafts are enhanced with materials including ivory, bone, brass, silver, copper, gold, gemstones and enamel. The finished pieces are assembled and coated with wax, oil, shellac or varnish for protection and durability. Crafted from materials such as ebony, mahogany, rosewood, teak, sheesham, bamboo, malacca cane and other hardwoods, these objects showcase traditional woodworking techniques, including seasoning, shaping, turning and polishing. The exhibition will also showcase decorative elements such as nature-inspired motifs, floral and geometric patterns, family crests, emblems and symbolic designs, engraved inscriptions, and lacquer work with natural wood finishes, offering visitors a glimpse into the craftsmanship behind these remarkable objects.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:44:49+00:00",
+        "link": "https://newsonair.gov.in/pmml-to-host-walking-with-legacy-exhibition-in-new-delhi/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
+        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NTA opens OMR challenge window for NEET-UG 2026 candidates",
+        "summary": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &#160; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question […]",
+        "article": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &nbsp; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question and tick their claimed option and submit a challenge on payment of a non-refundable processing fee of 200 rupees. &nbsp; The agency has clarified that the fee will be refunded if the challenge is upheld. The OMR challenge facility will remain available till 15 of this month. Candidates can contact the NTA helpline numbers 011-40759000, 011-69227700 and write to the neetug2026@nta.ac.in.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:57:37+00:00",
+        "link": "https://newsonair.gov.in/nta-opens-omr-challenge-window-for-neet-ug-2026-candidates/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India launches campaign for UN Security Council seat for 2028-29 term",
+        "summary": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s",
+        "article": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s guiding approach to promoting global peace, security and equitable development. He said the world is facing growing conflict and instability, making the role of the United Nations more critical than ever. Highlighting India&#8217;s credentials, Dr. Jaishankar said India has contributed nearly three lakh personnel to about 50 UN peacekeeping missions since the organisation&#8217;s inception and currently has over 4,300 personnel serving in 10 UN peacekeeping missions. He said India has consistently advocated dialogue and diplomacy and has sought to give voice to the concerns of the Global South. Seeking the support of UN member states, Dr. Jaishankar said India&#8217;s presence in the Security Council would help strengthen decision-making in the vital body. If elected, India will serve a two-year term beginning in 2028. India has previously served eight terms as a non-permanent member of the Security Council, most recently in 2021-22.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:46:58+00:00",
+        "link": "https://newsonair.gov.in/india-launches-campaign-for-un-security-council-seat-for-2028-29-term/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Mortal remains of 15 Indian tourists brought back from Vietnam",
+        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in […]",
+        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in Mumbai. The Embassy said, the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to the Vietnamese authorities and the government, the embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. A speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island in Vietnam on Friday, leaving 15 tourists dead. Sixteen survivors have also returned to India, and one tourist remains hospitalised in Vietnam.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:42:55+00:00",
+        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-brought-back-from-vietnam/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Mortal Remains of 15 Indian Tourists Killed in Vietnam Boat Accident Brought Home",
+        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and […]",
+        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and arrived in Mumbai. It added that the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to Vietnamese authorities and the government, the Embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. In a tragic incident on Friday, a speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island, leaving 15 tourists dead. While 16 survivors have returned to India, one tourist remains hospitalized in Vietnam.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T17:03:56+00:00",
+        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-killed-in-vietnam-boat-accident-brought-home/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "MeitY launches NIDAR 2.0 to develop drones powered by Indian-made chips",
+        "summary": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s […]",
+        "article": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s drone sector. NIDAR 2.0 challenges students to build smarter drones powered by an Indian-made chip. It offers a prize pool of over 65 lakh rupees along with startup incubation, cloud credits, software support and internships for student teams. Speaking on the occasion, Secretary, MeitY S. Krishnan said, NIDAR 2.0 takes the students from just flying drones to building the drone’s brain. He also launched the problem statements, poster and rulebook for NIDAR 2.0. The Ministry said that the first edition of NIDAR 2025-26 was launched in March 2025. It drew over 3,000 students from 22 States and 4 Union Territories who built autonomous drone solutions for Disaster Management and Precision Agriculture. 93 teams reached the Grand Finale out which Twenty-four teams won prizes worth a total of 40 lakh rupees.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T16:57:38+00:00",
+        "link": "https://newsonair.gov.in/meity-launches-nidar-2-0-to-develop-drones-powered-by-indian-made-chips/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "BSNL Records 10% Rise in Revenue in First Quarter of FY 2026-27: Communications Minister Jyotiraditya Scindia",
+        "summary": "Union Communications Minister Jyotiraditya Scindia has said that Bharat Sanchar Nigam Limited BSNL has provisionally posted around 10 per cent increase in revenue from operations in the first quarter of financial year 2026-27. Speaking to media after the Strategic Review and Planning Meet of BSNL in New Delhi today, Mr Scindia said, as […]",
+        "article": "Union Communications Minister Jyotiraditya Scindia has said that Bharat Sanchar Nigam Limited BSNL has provisionally posted around 10 per cent increase in revenue from operations in the first quarter of financial year 2026-27. Speaking to media after the Strategic Review and Planning Meet of BSNL in New Delhi today, Mr Scindia said, as far as the total revenue is concerned, directly from business operations, there is about a 10 per cent increase in revenue over last year. He said, last year, at the close of first quarter it was at 4,017 crore rupees and this year, it is at 4,418 crore rupees, an increase of 401 crore rupees. The Minister said, BSNL&#8217;s enterprise business segment and consumer mobility have shown growth while the consumer fixed access segment has remained almost flat. He said, BSNL&#8217;s average revenue per user has provisionally increased from 100 rupees to 102.7 rupees. Mr Scindia said, BSNL is on the trajectory of growth.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T16:50:04+00:00",
+        "link": "https://newsonair.gov.in/bsnl-records-10-rise-in-revenue-in-first-quarter-of-fy-2026-27-communications-minister-jyotiraditya-scindia/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "SC Seeks Rules Under Bharatiya Vayuyan Adhiniyam Within Two Weeks",
+        "summary": "The Supreme Court today directed the Centre to place on record, within two weeks, the rules framed under the Bharatiya Vayuyan Adhiniyam, 2024, a legislation intended to modernise the country&#8217;s civil aviation framework. Hearing a PIL, a bench of Justices Vikram Nath and Sandeep Mehta asked the Centre to submit the rules before the court […]",
+        "article": "The Supreme Court today directed the Centre to place on record, within two weeks, the rules framed under the Bharatiya Vayuyan Adhiniyam, 2024, a legislation intended to modernise the country&#8217;s civil aviation framework. Hearing a PIL, a bench of Justices Vikram Nath and Sandeep Mehta asked the Centre to submit the rules before the court in a sealed cover, regardless of whether they have been laid before Parliament. The counsel appearing for the Centre informed the bench that the draft rules are ready and they are in the process of translation. The counsel said the rules have to be placed before Parliament. The top court posted the matter for further hearing on August 3. The order of the top court came on the PIL seeking a robust and independent regulator that ensures transparency and passenger protection across the civil aviation sector. The plea also sought regulatory guidelines to control the unpredictable fluctuations in airfare and ancillary charges imposed by private airlines in India. Earlier, the Centre had told the apex court that the Ministry of Civil Aviation was actively considering the issues raised in the plea.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T16:36:42+00:00",
+        "link": "https://newsonair.gov.in/sc-seeks-rules-under-bharatiya-vayuyan-adhiniyam-within-two-weeks/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "MIB Invites Proposals for Industry-led Challenges under WAVES 2027 Create in India Challenge Season 2",
+        "summary": "The Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. […]",
+        "article": "The Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season &#8211; 2 aims to execute industry-led, government-supported, youth oriented challenges that identify and nurture creative talent, promote upskilling and capacity building. It also aims to create opportunities for collaboration across the Media and Entertainment domains, including Artificial Intelligence (AI), Digital Media, and other technology-driven creative sectors. The challenge will culminate in the showcasing of winners and winning outcomes at CreatoSphere’ during WAVES 2027. The Ministry said, a unified portal has been created for submission of proposals and selection of challenges and their respective executing entities, through a transparent and merit-based mechanism. Entities from across the Media and Entertainment sector have been invited to submit their proposals through the wavesbazaar.com online portal by 31st of this month. To support the successful implementation of selected challenges, the Ministry will provide a One-Time Grant of up to one crore rupees per challenge.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T16:15:00+00:00",
+        "link": "https://newsonair.gov.in/mib-invites-proposals-for-industry-led-challenges-under-waves-2027-create-in-india-challenge-season-2/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "national": [
+      {
+        "title": "I&B Ministry invites proposals for WAVES 2027 Create in India Challenge",
+        "summary": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season […]",
+        "article": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season &#8211; 2 aims to execute industry-led, government-supported, youth oriented challenges that identify and nurture creative talent, promote upskilling and capacity building. It also aims to create opportunities for collaboration across the Media and Entertainment domains, including Artificial Intelligence (AI), Digital Media, and other technology-driven creative sectors. The challenge will culminate in the showcasing of winners and winning outcomes at CreatoSphere’ during WAVES 2027. The Ministry said, a unified portal has been created for submission of proposals and selection of challenges and their respective executing entities, through a transparent and merit-based mechanism. Entities from across the Media and Entertainment sector have been invited to submit their proposals through the wavesbazaar.com online portal by 31st of this month. To support the successful implementation of selected challenges, the Ministry will provide a One-Time Grant of up to one crore rupees per challenge.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:57:49+00:00",
+        "link": "https://newsonair.gov.in/ib-ministry-invites-proposals-for-waves-2027-create-in-india-challenge/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mildred_H._McAfee.jpg/1280px-Mildred_H._McAfee.jpg",
+        "image_credit": "Wikipedia – WAVES (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PMML to host ‘Walking with Legacy’ exhibition in New Delhi",
+        "summary": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, […]",
+        "article": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, featuring walking sticks and batons as markers of identity and governance. Depending on their purpose, walking sticks and batons may be plain or richly ornamented. Their handles and shafts are enhanced with materials including ivory, bone, brass, silver, copper, gold, gemstones and enamel. The finished pieces are assembled and coated with wax, oil, shellac or varnish for protection and durability. Crafted from materials such as ebony, mahogany, rosewood, teak, sheesham, bamboo, malacca cane and other hardwoods, these objects showcase traditional woodworking techniques, including seasoning, shaping, turning and polishing. The exhibition will also showcase decorative elements such as nature-inspired motifs, floral and geometric patterns, family crests, emblems and symbolic designs, engraved inscriptions, and lacquer work with natural wood finishes, offering visitors a glimpse into the craftsmanship behind these remarkable objects.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:44:49+00:00",
+        "link": "https://newsonair.gov.in/pmml-to-host-walking-with-legacy-exhibition-in-new-delhi/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
+        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NTA opens OMR challenge window for NEET-UG 2026 candidates",
+        "summary": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &#160; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question […]",
+        "article": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &nbsp; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question and tick their claimed option and submit a challenge on payment of a non-refundable processing fee of 200 rupees. &nbsp; The agency has clarified that the fee will be refunded if the challenge is upheld. The OMR challenge facility will remain available till 15 of this month. Candidates can contact the NTA helpline numbers 011-40759000, 011-69227700 and write to the neetug2026@nta.ac.in.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:57:37+00:00",
+        "link": "https://newsonair.gov.in/nta-opens-omr-challenge-window-for-neet-ug-2026-candidates/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India launches campaign for UN Security Council seat for 2028-29 term",
+        "summary": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s",
+        "article": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s guiding approach to promoting global peace, security and equitable development. He said the world is facing growing conflict and instability, making the role of the United Nations more critical than ever. Highlighting India&#8217;s credentials, Dr. Jaishankar said India has contributed nearly three lakh personnel to about 50 UN peacekeeping missions since the organisation&#8217;s inception and currently has over 4,300 personnel serving in 10 UN peacekeeping missions. He said India has consistently advocated dialogue and diplomacy and has sought to give voice to the concerns of the Global South. Seeking the support of UN member states, Dr. Jaishankar said India&#8217;s presence in the Security Council would help strengthen decision-making in the vital body. If elected, India will serve a two-year term beginning in 2028. India has previously served eight terms as a non-permanent member of the Security Council, most recently in 2021-22.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:46:58+00:00",
+        "link": "https://newsonair.gov.in/india-launches-campaign-for-un-security-council-seat-for-2028-29-term/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Mortal remains of 15 Indian tourists brought back from Vietnam",
+        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in […]",
+        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in Mumbai. The Embassy said, the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to the Vietnamese authorities and the government, the embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. A speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island in Vietnam on Friday, leaving 15 tourists dead. Sixteen survivors have also returned to India, and one tourist remains hospitalised in Vietnam.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:42:55+00:00",
+        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-brought-back-from-vietnam/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Mortal Remains of 15 Indian Tourists Killed in Vietnam Boat Accident Brought Home",
+        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and […]",
+        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and arrived in Mumbai. It added that the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to Vietnamese authorities and the government, the Embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. In a tragic incident on Friday, a speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island, leaving 15 tourists dead. While 16 survivors have returned to India, one tourist remains hospitalized in Vietnam.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T17:03:56+00:00",
+        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-killed-in-vietnam-boat-accident-brought-home/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "MeitY launches NIDAR 2.0 to develop drones powered by Indian-made chips",
+        "summary": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s […]",
+        "article": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s drone sector. NIDAR 2.0 challenges students to build smarter drones powered by an Indian-made chip. It offers a prize pool of over 65 lakh rupees along with startup incubation, cloud credits, software support and internships for student teams. Speaking on the occasion, Secretary, MeitY S. Krishnan said, NIDAR 2.0 takes the students from just flying drones to building the drone’s brain. He also launched the problem statements, poster and rulebook for NIDAR 2.0. The Ministry said that the first edition of NIDAR 2025-26 was launched in March 2025. It drew over 3,000 students from 22 States and 4 Union Territories who built autonomous drone solutions for Disaster Management and Precision Agriculture. 93 teams reached the Grand Finale out which Twenty-four teams won prizes worth a total of 40 lakh rupees.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T16:57:38+00:00",
+        "link": "https://newsonair.gov.in/meity-launches-nidar-2-0-to-develop-drones-powered-by-indian-made-chips/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "BSNL Records 10% Rise in Revenue in First Quarter of FY 2026-27: Communications Minister Jyotiraditya Scindia",
+        "summary": "Union Communications Minister Jyotiraditya Scindia has said that Bharat Sanchar Nigam Limited BSNL has provisionally posted around 10 per cent increase in revenue from operations in the first quarter of financial year 2026-27. Speaking to media after the Strategic Review and Planning Meet of BSNL in New Delhi today, Mr Scindia said, as […]",
+        "article": "Union Communications Minister Jyotiraditya Scindia has said that Bharat Sanchar Nigam Limited BSNL has provisionally posted around 10 per cent increase in revenue from operations in the first quarter of financial year 2026-27. Speaking to media after the Strategic Review and Planning Meet of BSNL in New Delhi today, Mr Scindia said, as far as the total revenue is concerned, directly from business operations, there is about a 10 per cent increase in revenue over last year. He said, last year, at the close of first quarter it was at 4,017 crore rupees and this year, it is at 4,418 crore rupees, an increase of 401 crore rupees. The Minister said, BSNL&#8217;s enterprise business segment and consumer mobility have shown growth while the consumer fixed access segment has remained almost flat. He said, BSNL&#8217;s average revenue per user has provisionally increased from 100 rupees to 102.7 rupees. Mr Scindia said, BSNL is on the trajectory of growth.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T16:50:04+00:00",
+        "link": "https://newsonair.gov.in/bsnl-records-10-rise-in-revenue-in-first-quarter-of-fy-2026-27-communications-minister-jyotiraditya-scindia/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "SC Seeks Rules Under Bharatiya Vayuyan Adhiniyam Within Two Weeks",
+        "summary": "The Supreme Court today directed the Centre to place on record, within two weeks, the rules framed under the Bharatiya Vayuyan Adhiniyam, 2024, a legislation intended to modernise the country&#8217;s civil aviation framework. Hearing a PIL, a bench of Justices Vikram Nath and Sandeep Mehta asked the Centre to submit the rules before the court […]",
+        "article": "The Supreme Court today directed the Centre to place on record, within two weeks, the rules framed under the Bharatiya Vayuyan Adhiniyam, 2024, a legislation intended to modernise the country&#8217;s civil aviation framework. Hearing a PIL, a bench of Justices Vikram Nath and Sandeep Mehta asked the Centre to submit the rules before the court in a sealed cover, regardless of whether they have been laid before Parliament. The counsel appearing for the Centre informed the bench that the draft rules are ready and they are in the process of translation. The counsel said the rules have to be placed before Parliament. The top court posted the matter for further hearing on August 3. The order of the top court came on the PIL seeking a robust and independent regulator that ensures transparency and passenger protection across the civil aviation sector. The plea also sought regulatory guidelines to control the unpredictable fluctuations in airfare and ancillary charges imposed by private airlines in India. Earlier, the Centre had told the apex court that the Ministry of Civil Aviation was actively considering the issues raised in the plea.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T16:36:42+00:00",
+        "link": "https://newsonair.gov.in/sc-seeks-rules-under-bharatiya-vayuyan-adhiniyam-within-two-weeks/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "MIB Invites Proposals for Industry-led Challenges under WAVES 2027 Create in India Challenge Season 2",
+        "summary": "The Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. […]",
+        "article": "The Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season &#8211; 2 aims to execute industry-led, government-supported, youth oriented challenges that identify and nurture creative talent, promote upskilling and capacity building. It also aims to create opportunities for collaboration across the Media and Entertainment domains, including Artificial Intelligence (AI), Digital Media, and other technology-driven creative sectors. The challenge will culminate in the showcasing of winners and winning outcomes at CreatoSphere’ during WAVES 2027. The Ministry said, a unified portal has been created for submission of proposals and selection of challenges and their respective executing entities, through a transparent and merit-based mechanism. Entities from across the Media and Entertainment sector have been invited to submit their proposals through the wavesbazaar.com online portal by 31st of this month. To support the successful implementation of selected challenges, the Ministry will provide a One-Time Grant of up to one crore rupees per challenge.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T16:15:00+00:00",
+        "link": "https://newsonair.gov.in/mib-invites-proposals-for-industry-led-challenges-under-waves-2027-create-in-india-challenge-season-2/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "politics": [
+      {
+        "title": "I&B Ministry invites proposals for WAVES 2027 Create in India Challenge",
+        "summary": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season […]",
+        "article": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season &#8211; 2 aims to execute industry-led, government-supported, youth oriented challenges that identify and nurture creative talent, promote upskilling and capacity building. It also aims to create opportunities for collaboration across the Media and Entertainment domains, including Artificial Intelligence (AI), Digital Media, and other technology-driven creative sectors. The challenge will culminate in the showcasing of winners and winning outcomes at CreatoSphere’ during WAVES 2027. The Ministry said, a unified portal has been created for submission of proposals and selection of challenges and their respective executing entities, through a transparent and merit-based mechanism. Entities from across the Media and Entertainment sector have been invited to submit their proposals through the wavesbazaar.com online portal by 31st of this month. To support the successful implementation of selected challenges, the Ministry will provide a One-Time Grant of up to one crore rupees per challenge.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:57:49+00:00",
+        "link": "https://newsonair.gov.in/ib-ministry-invites-proposals-for-waves-2027-create-in-india-challenge/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mildred_H._McAfee.jpg/1280px-Mildred_H._McAfee.jpg",
+        "image_credit": "Wikipedia – WAVES (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "PMML to host ‘Walking with Legacy’ exhibition in New Delhi",
+        "summary": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, […]",
+        "article": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, featuring walking sticks and batons as markers of identity and governance. Depending on their purpose, walking sticks and batons may be plain or richly ornamented. Their handles and shafts are enhanced with materials including ivory, bone, brass, silver, copper, gold, gemstones and enamel. The finished pieces are assembled and coated with wax, oil, shellac or varnish for protection and durability. Crafted from materials such as ebony, mahogany, rosewood, teak, sheesham, bamboo, malacca cane and other hardwoods, these objects showcase traditional woodworking techniques, including seasoning, shaping, turning and polishing. The exhibition will also showcase decorative elements such as nature-inspired motifs, floral and geometric patterns, family crests, emblems and symbolic designs, engraved inscriptions, and lacquer work with natural wood finishes, offering visitors a glimpse into the craftsmanship behind these remarkable objects.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:44:49+00:00",
+        "link": "https://newsonair.gov.in/pmml-to-host-walking-with-legacy-exhibition-in-new-delhi/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
+        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NTA opens OMR challenge window for NEET-UG 2026 candidates",
+        "summary": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &#160; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question […]",
+        "article": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &nbsp; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question and tick their claimed option and submit a challenge on payment of a non-refundable processing fee of 200 rupees. &nbsp; The agency has clarified that the fee will be refunded if the challenge is upheld. The OMR challenge facility will remain available till 15 of this month. Candidates can contact the NTA helpline numbers 011-40759000, 011-69227700 and write to the neetug2026@nta.ac.in.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:57:37+00:00",
+        "link": "https://newsonair.gov.in/nta-opens-omr-challenge-window-for-neet-ug-2026-candidates/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India launches campaign for UN Security Council seat for 2028-29 term",
+        "summary": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s",
+        "article": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s guiding approach to promoting global peace, security and equitable development. He said the world is facing growing conflict and instability, making the role of the United Nations more critical than ever. Highlighting India&#8217;s credentials, Dr. Jaishankar said India has contributed nearly three lakh personnel to about 50 UN peacekeeping missions since the organisation&#8217;s inception and currently has over 4,300 personnel serving in 10 UN peacekeeping missions. He said India has consistently advocated dialogue and diplomacy and has sought to give voice to the concerns of the Global South. Seeking the support of UN member states, Dr. Jaishankar said India&#8217;s presence in the Security Council would help strengthen decision-making in the vital body. If elected, India will serve a two-year term beginning in 2028. India has previously served eight terms as a non-permanent member of the Security Council, most recently in 2021-22.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:46:58+00:00",
+        "link": "https://newsonair.gov.in/india-launches-campaign-for-un-security-council-seat-for-2028-29-term/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Mortal remains of 15 Indian tourists brought back from Vietnam",
+        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in […]",
+        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in Mumbai. The Embassy said, the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to the Vietnamese authorities and the government, the embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. A speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island in Vietnam on Friday, leaving 15 tourists dead. Sixteen survivors have also returned to India, and one tourist remains hospitalised in Vietnam.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:42:55+00:00",
+        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-brought-back-from-vietnam/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Mortal Remains of 15 Indian Tourists Killed in Vietnam Boat Accident Brought Home",
+        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and […]",
+        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and arrived in Mumbai. It added that the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to Vietnamese authorities and the government, the Embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. In a tragic incident on Friday, a speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island, leaving 15 tourists dead. While 16 survivors have returned to India, one tourist remains hospitalized in Vietnam.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T17:03:56+00:00",
+        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-killed-in-vietnam-boat-accident-brought-home/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "MeitY launches NIDAR 2.0 to develop drones powered by Indian-made chips",
+        "summary": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s […]",
+        "article": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s drone sector. NIDAR 2.0 challenges students to build smarter drones powered by an Indian-made chip. It offers a prize pool of over 65 lakh rupees along with startup incubation, cloud credits, software support and internships for student teams. Speaking on the occasion, Secretary, MeitY S. Krishnan said, NIDAR 2.0 takes the students from just flying drones to building the drone’s brain. He also launched the problem statements, poster and rulebook for NIDAR 2.0. The Ministry said that the first edition of NIDAR 2025-26 was launched in March 2025. It drew over 3,000 students from 22 States and 4 Union Territories who built autonomous drone solutions for Disaster Management and Precision Agriculture. 93 teams reached the Grand Finale out which Twenty-four teams won prizes worth a total of 40 lakh rupees.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T16:57:38+00:00",
+        "link": "https://newsonair.gov.in/meity-launches-nidar-2-0-to-develop-drones-powered-by-indian-made-chips/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "BSNL Records 10% Rise in Revenue in First Quarter of FY 2026-27: Communications Minister Jyotiraditya Scindia",
+        "summary": "Union Communications Minister Jyotiraditya Scindia has said that Bharat Sanchar Nigam Limited BSNL has provisionally posted around 10 per cent increase in revenue from operations in the first quarter of financial year 2026-27. Speaking to media after the Strategic Review and Planning Meet of BSNL in New Delhi today, Mr Scindia said, as […]",
+        "article": "Union Communications Minister Jyotiraditya Scindia has said that Bharat Sanchar Nigam Limited BSNL has provisionally posted around 10 per cent increase in revenue from operations in the first quarter of financial year 2026-27. Speaking to media after the Strategic Review and Planning Meet of BSNL in New Delhi today, Mr Scindia said, as far as the total revenue is concerned, directly from business operations, there is about a 10 per cent increase in revenue over last year. He said, last year, at the close of first quarter it was at 4,017 crore rupees and this year, it is at 4,418 crore rupees, an increase of 401 crore rupees. The Minister said, BSNL&#8217;s enterprise business segment and consumer mobility have shown growth while the consumer fixed access segment has remained almost flat. He said, BSNL&#8217;s average revenue per user has provisionally increased from 100 rupees to 102.7 rupees. Mr Scindia said, BSNL is on the trajectory of growth.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T16:50:04+00:00",
+        "link": "https://newsonair.gov.in/bsnl-records-10-rise-in-revenue-in-first-quarter-of-fy-2026-27-communications-minister-jyotiraditya-scindia/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "SC Seeks Rules Under Bharatiya Vayuyan Adhiniyam Within Two Weeks",
+        "summary": "The Supreme Court today directed the Centre to place on record, within two weeks, the rules framed under the Bharatiya Vayuyan Adhiniyam, 2024, a legislation intended to modernise the country&#8217;s civil aviation framework. Hearing a PIL, a bench of Justices Vikram Nath and Sandeep Mehta asked the Centre to submit the rules before the court […]",
+        "article": "The Supreme Court today directed the Centre to place on record, within two weeks, the rules framed under the Bharatiya Vayuyan Adhiniyam, 2024, a legislation intended to modernise the country&#8217;s civil aviation framework. Hearing a PIL, a bench of Justices Vikram Nath and Sandeep Mehta asked the Centre to submit the rules before the court in a sealed cover, regardless of whether they have been laid before Parliament. The counsel appearing for the Centre informed the bench that the draft rules are ready and they are in the process of translation. The counsel said the rules have to be placed before Parliament. The top court posted the matter for further hearing on August 3. The order of the top court came on the PIL seeking a robust and independent regulator that ensures transparency and passenger protection across the civil aviation sector. The plea also sought regulatory guidelines to control the unpredictable fluctuations in airfare and ancillary charges imposed by private airlines in India. Earlier, the Centre had told the apex court that the Ministry of Civil Aviation was actively considering the issues raised in the plea.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T16:36:42+00:00",
+        "link": "https://newsonair.gov.in/sc-seeks-rules-under-bharatiya-vayuyan-adhiniyam-within-two-weeks/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "MIB Invites Proposals for Industry-led Challenges under WAVES 2027 Create in India Challenge Season 2",
+        "summary": "The Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. […]",
+        "article": "The Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season &#8211; 2 aims to execute industry-led, government-supported, youth oriented challenges that identify and nurture creative talent, promote upskilling and capacity building. It also aims to create opportunities for collaboration across the Media and Entertainment domains, including Artificial Intelligence (AI), Digital Media, and other technology-driven creative sectors. The challenge will culminate in the showcasing of winners and winning outcomes at CreatoSphere’ during WAVES 2027. The Ministry said, a unified portal has been created for submission of proposals and selection of challenges and their respective executing entities, through a transparent and merit-based mechanism. Entities from across the Media and Entertainment sector have been invited to submit their proposals through the wavesbazaar.com online portal by 31st of this month. To support the successful implementation of selected challenges, the Ministry will provide a One-Time Grant of up to one crore rupees per challenge.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T16:15:00+00:00",
+        "link": "https://newsonair.gov.in/mib-invites-proposals-for-industry-led-challenges-under-waves-2027-create-in-india-challenge-season-2/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "world": [
+      {
+        "title": "Ukraine, nine European nations form coalition for Europe’s ballistic missile defence",
+        "summary": "Ukraine and nine other countries have announced that they are forming a coalition to protect Europe from ballistic missiles. Ukraine&#8217;s President Volodymyr Zelenskyy and leaders of Denmark, France, Germany, Italy, the Netherlands, Norway, Spain, Sweden and the United Kingdom said they recognised the growing threat posed by ballistic missiles, which are harder to stop than […]",
+        "article": "Ukraine and nine other countries have announced that they are forming a coalition to protect Europe from ballistic missiles. Ukraine&#8217;s President Volodymyr Zelenskyy and leaders of Denmark, France, Germany, Italy, the Netherlands, Norway, Spain, Sweden and the United Kingdom said they recognised the growing threat posed by ballistic missiles, which are harder to stop than cruise missiles or drones. &nbsp; The 10 nations said in a statement in Paris that their goal is to build a shared ballistic missile defence capability for Europe, taking advantage of Kyiv&#8217;s experience of fighting Russia&#8217;s full-scale invasion for over four years. The statement gave no time frame for setting up the defence system, and said the plan remained open to other countries.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:51:54+00:00",
+        "link": "https://newsonair.gov.in/ukraine-nine-european-nations-form-coalition-for-europes-ballistic-missile-defence/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg/1280px-Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg.png",
+        "image_credit": "Wikipedia – Europe (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "US, Iran Claim Control of Strait of Hormuz Amid Escalating Conflict",
+        "summary": "The United States and Iran have each claimed control of the Strait of Hormuz following a weekend of escalating attacks across West Asia, raising fresh concerns over regional security and efforts to revive diplomacy. The latest escalation began after Iran struck a container ship in the Strait of Hormuz off the coast of Oman yesterday. […]",
+        "article": "The United States and Iran have each claimed control of the Strait of Hormuz following a weekend of escalating attacks across West Asia, raising fresh concerns over regional security and efforts to revive diplomacy. The latest escalation began after Iran struck a container ship in the Strait of Hormuz off the coast of Oman yesterday. Since then, no commercial vessels have passed through the strategic waterway, a key route for global oil and gas shipments. The United States has said, it carried out overnight strikes on several Iranian military targets, including air defence systems, coastal radar sites, missile and drone facilities, and small naval vessels. Washington said the operation, which reportedly included one-way attack sea drones for the first time, was in response to Iran&#8217;s attacks on commercial shipping. &nbsp; Iran, in turn, said it targeted US military bases in Jordan, Bahrain and Kuwait, as well as radar installations in Oman. The Strait of Hormuz, the narrow entrance to the Persian Gulf through which nearly one-fifth of the world&#8217;s traded oil and significant volumes of natural gas pass, has remained at the centre of the conflict, with shipping severely disrupted amid continued attacks and rising tensions.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T12:57:24+00:00",
+        "link": "https://newsonair.gov.in/us-iran-claim-control-of-strait-of-hormuz-amid-escalating-conflict/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ISS-44_Strait_of_Gibraltar.jpg/1280px-ISS-44_Strait_of_Gibraltar.jpg",
+        "image_credit": "Wikipedia – Strait (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EU Foreign Ministers Discuss Fresh Sanctions on Russia",
+        "summary": "European Union Foreign Ministers convened in Brussels today to deliberate on a fresh tranche of sanctions targeting Russia, the ongoing war in Ukraine, and an array of international security matters. Speaking to reporters ahead of the meeting, the bloc&#8217;s foreign policy chief, Kaja Kallas, said they hoped to secure agreement on 250 listings. […]",
+        "article": "European Union Foreign Ministers convened in Brussels today to deliberate on a fresh tranche of sanctions targeting Russia, the ongoing war in Ukraine, and an array of international security matters. Speaking to reporters ahead of the meeting, the bloc&#8217;s foreign policy chief, Kaja Kallas, said they hoped to secure agreement on 250 listings. She added that work was also underway on the 21st sanctions package. Ms Kallas stated that the proposed sanctions listings were a reaction to the attacks by Russia on the civilians recently. She noted that the ministers would also examine the plight of Ukrainian civilians reportedly held in Russian-controlled areas, including teachers and journalists, alongside prisoners of war and abducted children. Furthermore, Ms Kallas indicated that the Ministers will evaluate the EU&#8217;s Black Sea strategy, focusing on collaborative efforts between Bulgaria and Romania to safeguard critical infrastructure and counter hybrid threats across the region. She added that the Foreign Affairs Council is anticipated to greenlight a new partnership mission for Armenia aimed at assisting the nation in countering hybrid threats and foreign information manipulation and interference. The geopolitical landscape of the West Asia is also featured on the agenda, with ministers scheduled to engage in discussions with Gulf partners regarding regional security and the prevailing situation in the Strait of Hormuz. She asserted that the Strait of Hormuz must remain open, that freedom of navigation must be upheld, and that no tolls or fees should be imposed on vessels transiting the waterway.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T12:01:12+00:00",
+        "link": "https://newsonair.gov.in/eu-foreign-ministers-discuss-fresh-sanctions-on-russia/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Hillary_Rodham_Clinton_Secretary_of_State_with_Canadian_Foreign_Minister_Cannon_%283632885455%29.jpg",
+        "image_credit": "Wikimedia Commons (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "INS Sudarshini arrives in Boston after Sail4th 250 celebrations",
+        "summary": "Indian Naval Sail Training Ship INS Sudarshini has arrived in Boston, United States, after successfully participating in the Sail4th 250 celebrations in New York. The ship reached Boston yesterday and took part in the Grand Parade of Sails, marking the commencement of Sail Boston 2026. The Defence Ministry said INS Sudarshini joined an international fleet […]",
+        "article": "Indian Naval Sail Training Ship INS Sudarshini has arrived in Boston, United States, after successfully participating in the Sail4th 250 celebrations in New York. The ship reached Boston yesterday and took part in the Grand Parade of Sails, marking the commencement of Sail Boston 2026. The Defence Ministry said INS Sudarshini joined an international fleet of more than 60 tall ships from over 20 countries and is representing India as a maritime ambassador of goodwill during its ongoing Lokayan 2026 transoceanic expedition. The Ministry said the ship will remain open to visitors till the 15th of this month. It added that INS Sudarshini&#8217;s participation in Sail Boston 2026 further strengthens the growing India-US maritime partnership and showcases India&#8217;s rich seafaring heritage on the global stage.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T08:37:20+00:00",
+        "link": "https://newsonair.gov.in/ins-sudarshini-arrives-in-boston-after-sail4th-250-celebrations/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/INS_Sudarshini_at_the_Sail250_Virginia_Parade_of_Sails.jpg/1280px-INS_Sudarshini_at_the_Sail250_Virginia_Parade_of_Sails.jpg",
+        "image_credit": "Wikipedia – INS Sudarshini (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian crew member killed in Iranian missile strike on UAE tankers",
+        "summary": "An Indian crew member was killed, and six others were wounded after two United Arab Emirates tankers were struck by Iranian cruise missiles while transiting through Strait of Hormuz. The Defence Ministry of the UAE said this in a social media post today. &#160; The ministry said the tankers, the Mombasa and Al Bahiyah, were […]",
+        "article": "An Indian crew member was killed, and six others were wounded after two United Arab Emirates tankers were struck by Iranian cruise missiles while transiting through Strait of Hormuz. The Defence Ministry of the UAE said this in a social media post today. &nbsp; The ministry said the tankers, the Mombasa and Al Bahiyah, were targeted in the southern lane of the strait in ​Omani territorial waters. The dead crew member was aboard the Mombasa tanker. Of the eight wounded, four ​were seriously injured. Six of the wounded were Indian nationals and two were Ukrainian nationals. The UAE defence ministry condemned the attack, describing it as a blatant violation of international law and a serious threat to regional security and stability. The ministry affirmed that it remains on the highest level of readiness and preparedness to address any threats, and said that it is taking all necessary measures to respond decisively to any attempt to undermine the security and stability of the country. The latest incidents in the waterway come after weeks of heightened tensions in the West Asian region.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:48:33+00:00",
+        "link": "https://newsonair.gov.in/indian-crew-member-killed-in-iranian-missile-strike-on-uae-tankers/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India launches campaign for UN Security Council seat for 2028-29 term",
+        "summary": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s",
+        "article": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s guiding approach to promoting global peace, security and equitable development. He said the world is facing growing conflict and instability, making the role of the United Nations more critical than ever. Highlighting India&#8217;s credentials, Dr. Jaishankar said India has contributed nearly three lakh personnel to about 50 UN peacekeeping missions since the organisation&#8217;s inception and currently has over 4,300 personnel serving in 10 UN peacekeeping missions. He said India has consistently advocated dialogue and diplomacy and has sought to give voice to the concerns of the Global South. Seeking the support of UN member states, Dr. Jaishankar said India&#8217;s presence in the Security Council would help strengthen decision-making in the vital body. If elected, India will serve a two-year term beginning in 2028. India has previously served eight terms as a non-permanent member of the Security Council, most recently in 2021-22.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:46:58+00:00",
+        "link": "https://newsonair.gov.in/india-launches-campaign-for-un-security-council-seat-for-2028-29-term/",
+        "post_id": 1736609,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EU coordinates efforts to raise one billion dollars in aid for Gaza",
+        "summary": "The European Union (EU) has coordinated efforts to raise 1 billion Dollars in aid for Gaza. The bloc&#8217;s top diplomat yesterday said that EU is working with 65 governments and organisations, including the White House and the United Nations. &#160; The European Commission Vice President, Kaja Kallas, announced the fund after a meeting of the […]",
+        "article": "The European Union (EU) has coordinated efforts to raise 1 billion Dollars in aid for Gaza. The bloc&#8217;s top diplomat yesterday said that EU is working with 65 governments and organisations, including the White House and the United Nations. &nbsp; The European Commission Vice President, Kaja Kallas, announced the fund after a meeting of the Palestine Donors Group in Brussels. The meeting was the second gathering of the Team Gaza Initiative, an effort by the EU to rally support for recovery projects like sanitation and farming in the war-ravaged coastal enclave of nearly 2 million people.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:51:06+00:00",
+        "link": "https://newsonair.gov.in/eu-coordinates-efforts-to-raise-one-billion-dollars-in-aid-for-gaza/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian-Origin Astronaut Anil Menon Set to Begin Eight-Month ISS Mission",
+        "summary": "A NASA astronaut of Indian descent, Anil Menon is set to embark on an eight-month mission to the International Space Station (ISS) tomorrow from the Baikonur cosmodrome in Kazakhstan along with two Russian cosmonauts. The Roscosmos Soyuz MS-29 spacecraft is scheduled for lift-off from the Baikonur spaceport at 8:17 PM Indian Standard Time […]",
+        "article": "A NASA astronaut of Indian descent, Anil Menon is set to embark on an eight-month mission to the International Space Station (ISS) tomorrow from the Baikonur cosmodrome in Kazakhstan along with two Russian cosmonauts. The Roscosmos Soyuz MS-29 spacecraft is scheduled for lift-off from the Baikonur spaceport at 8:17 PM Indian Standard Time and is expected to dock at the orbital laboratory after a little over three hours. Besides Menon, Russian cosmonauts Pyotr Dubrov and Anna Kikina will be part of the 75th expedition to the ISS. The Soyuz spacecraft will dock at the ISS at 11:56 PM IST tomorrow, and the astronauts will be onboard the ISS at around 1:25 am IST early Wednesday. Born in Minneapolis to Ukrainian and Indian immigrants, 49-year-old Menon is an emergency medicine physician and a US Space Force colonel. During his stint with the US Air Force, he served on the frontlines in Afghanistan during Operation Enduring Freedom and also worked for the Himalayan Rescue Association, caring for climbers on Mount Everest.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T16:46:09+00:00",
+        "link": "https://newsonair.gov.in/indian-origin-astronaut-anil-menon-set-to-begin-eight-month-iss-mission/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "UK: Oxford Begins Human Trial of New Ebola Vaccine",
+        "summary": "A new vaccine to combat a strain of Ebola spreading across the Democratic Republic of Congo will soon be tested on adults in the United Kingdom. Scientists at the University of Oxford have been working to develop a jab to protect against the Bundibugyo type of Ebola and now plan to assess its safety and […]",
+        "article": "A new vaccine to combat a strain of Ebola spreading across the Democratic Republic of Congo will soon be tested on adults in the United Kingdom. Scientists at the University of Oxford have been working to develop a jab to protect against the Bundibugyo type of Ebola and now plan to assess its safety and immune response in 50 healthy adults aged 18 to 55. Scientists started developing the vaccine eight weeks ago when when the World Health Organisation (WHO) recommended prioritizing the development of an Ebola vaccine, shortly after the outbreak was declared on 17th of May. It is the first &#8211; out of four vaccines under development &#8211; to enter clinical trials. Volunteers are now being recruited for the trial, and the vaccinations will begin in the coming weeks after the UK regulator gave permission for trials to take place. The Ebola epidemic has killed 625 people in the Democratic Republic of the Congo with 1,792 laboratory confirmed cases.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T14:59:07+00:00",
+        "link": "https://newsonair.gov.in/uk-oxford-begins-human-trial-of-new-ebola-vaccine/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Piyush Goyal discusses Boosting Trade, Investment, Technology Ties During Spain Visit",
+        "summary": "Commerce and Industry Minister Piyush Goyal today began his official engagements in Spain by meeting First Vice President of the Government of Spain and Minister of Economy, Trade and Business, Carlos Cuerpo Caballero. &#160; In a social media post, Mr Goyal said that they had productive discussions on strengthening the India-Spain economic partnership through greater […]",
+        "article": "Commerce and Industry Minister Piyush Goyal today began his official engagements in Spain by meeting First Vice President of the Government of Spain and Minister of Economy, Trade and Business, Carlos Cuerpo Caballero. &nbsp; In a social media post, Mr Goyal said that they had productive discussions on strengthening the India-Spain economic partnership through greater trade, investment and technology collaboration. &nbsp; He said, the discussion also focused on renewable energy, green hydrogen, advanced manufacturing, digital technologies, infrastructure and innovation. He added that both sides also exchanged views on the India-EU Free Trade Agreement and explored ways to deepen business ties and expand India&#8217;s commercial engagement with Spain as a valued partner. Mr Goyal is currently on a five-day visit to Spain, Belgium and Finland from today.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T13:13:46+00:00",
+        "link": "https://newsonair.gov.in/piyush-goyal-discusses-boosting-trade-investment-technology-ties-during-spain-visit/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "sports": [
+      {
+        "title": "Wimbledon: Jannik Sinner to lock horns with Alexander Zverev for Men’s Singles title today",
+        "summary": "In Tennis, two Wimbledon titles will be decided today as the men&#8217;s singles and women&#8217;s doubles finals are played. World No. 1 Jannik Sinner will face Germany&#8217;s Alexander Zverev in the men&#8217;s singles final at 8:30 p.m. IST. Sinner booked his place in the title clash with a straight-sets victory over Novak Djokovic, while […]",
+        "article": "In Tennis, two Wimbledon titles will be decided today as the men&#8217;s singles and women&#8217;s doubles finals are played. World No. 1 Jannik Sinner will face Germany&#8217;s Alexander Zverev in the men&#8217;s singles final at 8:30 p.m. IST. Sinner booked his place in the title clash with a straight-sets victory over Novak Djokovic, while Zverev entered his first Wimbledon final after defeating British wildcard Arthur Fery. The women&#8217;s doubles final will begin at 5:30 p.m. IST. The 10th-seeded pair of China&#8217;s Guo Hanyu and France&#8217;s Kristina Mladenovic will take on the second-seeded duo of Canada&#8217;s Gabriela Dabrowski and Brazil&#8217;s Luisa Stefani. Yesterday, in the Women&#8217;s Singles Final, the 21-year-old Linda Noskova won her maiden Grand Slam title after defeating fellow Czech Karolina Muchova 6-2, 5-7, 6-3 at Centre Court, London. Noskova became the third Czech woman in four years to win the grass-court major, after Marketa Vondrousova in 2023 and Barbora Krejcikova in 2024.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:10:50+00:00",
+        "link": "https://newsonair.gov.in/linda-noskova-beats-karolina-muchova-to-win-first-wimbledon-tennis-title/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Jannik_Sinner_2025_US_Open.jpg",
+        "image_credit": "Wikipedia – Jannik Sinner (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Amaravati Championship 2026 to kick-off on July 15",
         "summary": "The second edition of the Amaravati Championship will begin across Andhra Pradesh from July 15. Sports Authority of Andhra Pradesh (SAAP) Chairman A. Ravi Naidu unveiled the official poster of the championship in Vijayawada today. Speaking on the occasion, Mr. Ravi Naidu said the championship aims to identify and nurture sporting talent from every […]",
@@ -592,8 +604,8 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T13:06:14+00:00",
         "link": "https://newsonair.gov.in/amaravati-championship-2026-to-kick-off-on-july-15/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/amravati.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -603,8 +615,8 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T12:42:36+00:00",
         "link": "https://newsonair.gov.in/india-crush-england-by-270-runs-to-win-historic-first-womens-test-at-lords/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -614,8 +626,8 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T12:25:01+00:00",
         "link": "https://newsonair.gov.in/eight-indian-boxers-reach-asian-u19-u23-boxing-championship-finals/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/boxing.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -625,8 +637,8 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T03:04:57+00:00",
         "link": "https://newsonair.gov.in/jannik-sinner-retains-wimbledon-crown-guo-and-mladenovic-win-womens-doubles-title/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/5-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -636,8 +648,8 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T03:02:00+00:00",
         "link": "https://newsonair.gov.in/france-spain-england-and-argentina-enter-fifa-world-cup-semi-finals/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/6-3.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -647,8 +659,8 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T14:45:27+00:00",
         "link": "https://newsonair.gov.in/china-france-10th-seeded-pair-win-wimbledon-womens-doubles-title/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNCICW5XMAAOrYr-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -658,19 +670,8 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T08:31:31+00:00",
         "link": "https://newsonair.gov.in/fifa-world-cup-england-beat-norway-2-1-to-reach-semi-final/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpg",
-        "image_credit": "Wikipedia – FIFA World Cup (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Wimbledon: Jannik Sinner to lock horns with Alexander Zverev for Men’s Singles title today",
-        "summary": "In Tennis, two Wimbledon titles will be decided today as the men&#8217;s singles and women&#8217;s doubles finals are played. World No. 1 Jannik Sinner will face Germany&#8217;s Alexander Zverev in the men&#8217;s singles final at 8:30 p.m. IST. Sinner booked his place in the title clash with a straight-sets victory over Novak Djokovic, while […]",
-        "article": "In Tennis, two Wimbledon titles will be decided today as the men&#8217;s singles and women&#8217;s doubles finals are played. World No. 1 Jannik Sinner will face Germany&#8217;s Alexander Zverev in the men&#8217;s singles final at 8:30 p.m. IST. Sinner booked his place in the title clash with a straight-sets victory over Novak Djokovic, while Zverev entered his first Wimbledon final after defeating British wildcard Arthur Fery. The women&#8217;s doubles final will begin at 5:30 p.m. IST. The 10th-seeded pair of China&#8217;s Guo Hanyu and France&#8217;s Kristina Mladenovic will take on the second-seeded duo of Canada&#8217;s Gabriela Dabrowski and Brazil&#8217;s Luisa Stefani. Yesterday, in the Women&#8217;s Singles Final, the 21-year-old Linda Noskova won her maiden Grand Slam title after defeating fellow Czech Karolina Muchova 6-2, 5-7, 6-3 at Centre Court, London. Noskova became the third Czech woman in four years to win the grass-court major, after Marketa Vondrousova in 2023 and Barbora Krejcikova in 2024.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:10:50+00:00",
-        "link": "https://newsonair.gov.in/linda-noskova-beats-karolina-muchova-to-win-first-wimbledon-tennis-title/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alexander_Zverev.jpg",
-        "image_credit": "Wikipedia – Alexander Zverev (CC BY-SA)",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -680,8 +681,8 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T02:41:51+00:00",
         "link": "https://newsonair.gov.in/england-beat-india-by-56-runs-to-win-series-4-0-in-southampton/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/View_across_Ocean_Village_Marina_%28geograph_5432669%29.jpg",
-        "image_credit": "Wikipedia – Southampton (CC BY-SA)",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -691,8 +692,8 @@ window.VM_NEWS = {
         "date": "2026-07-11",
         "pubDate": "2026-07-11T16:16:29+00:00",
         "link": "https://newsonair.gov.in/manipur-cm-inaugurates-19th-governors-taekwondo-cup-2026/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Manipur-CM-Khemchand-Singh-assures-justice-in-Leilon-Vaiphei-abduction-case-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -709,36 +710,14 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India’s Exports Rise 11.37% to Over $232 Billion in April–June",
-        "summary": "India’s total exports during April to June this year is estimated at over 232 billion US dollar registering a positive growth of 11.37 percent as compared to same period last year. Commerce and Industry Ministry said that the total exports for June this year is estimated at 73.45 Billion US dollar, registering a positive growth […]",
-        "article": "India’s total exports during April to June this year is estimated at over 232 billion US dollar registering a positive growth of 11.37 percent as compared to same period last year. Commerce and Industry Ministry said that the total exports for June this year is estimated at 73.45 Billion US dollar, registering a positive growth of 9.48 percent as compared to same month last year. The major drivers of merchandise exports growth in June include Gems and Jewellery, Engineering Goods, Organic and Inorganic Chemicals, Electronic Goods, and Rice. The electronic goods exports increased by around 19 per cent from 4.14 Billion US dollar in June last year to 4.93 Billion US dollar in June this year. The Ministry said, the total imports (Merchandise and Services combined) for June this year is estimated at 88.76 Billion US dollar, registering a positive growth of over 26 percent as compared to same month last year.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T12:35:52+00:00",
-        "link": "https://newsonair.gov.in/indias-exports-rise-11-37-to-over-232-billion-in-april-june/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/export.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Gold and silver prices decline over week",
         "summary": "In the bullion market, gold and silver prices declined over the week. At the Multi Commodity Exchange, Gold futures for the August contract shed 2.6 per cent during the week to settle at 1,43,478 rupees per 10 grams. Meanwhile, Silver futures for the September contract plunged 6.2 per cent to close at 2,22,664 rupees […]",
         "article": "In the bullion market, gold and silver prices declined over the week. At the Multi Commodity Exchange, Gold futures for the August contract shed 2.6 per cent during the week to settle at 1,43,478 rupees per 10 grams. Meanwhile, Silver futures for the September contract plunged 6.2 per cent to close at 2,22,664 rupees per kilogram. At the Commodity Exchange (COMEX), Gold futures for the August contract dipped 0.3 per cent during the week to settle at 4,113.7 dollars per troy ounce. Silver futures for the September contract dropped nearly one and a half per cent over the week to end at 60.16 dollars per troy ounce.",
         "date": "2026-07-12",
         "pubDate": "2026-07-12T12:12:27+00:00",
         "link": "https://newsonair.gov.in/gold-and-silver-prices-decline-over-week/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/gold-silver.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "FPIs turn net buyers of Indian equities after four months",
-        "summary": "After four consecutive months of selling, Foreign Portfolio Investors (FPIs) have turned net buyers of Indian equities. According to the latest depository data, FPIs have invested 15 thousand 157 crore rupees in the domestic stock market so far this month. Weakness in the global semiconductor trade has prompted FPIs to shift a part of their […]",
-        "article": "After four consecutive months of selling, Foreign Portfolio Investors (FPIs) have turned net buyers of Indian equities. According to the latest depository data, FPIs have invested 15 thousand 157 crore rupees in the domestic stock market so far this month. Weakness in the global semiconductor trade has prompted FPIs to shift a part of their investments towards emerging markets. The renewed buying interest was also supported by improving domestic macroeconomic indicators, stable crude oil prices, and strong quarterly earnings reports. Meanwhile, India&#8217;s debt market is expected to attract strong foreign interest following changes in the government&#8217;s taxation policy. So far in July, Foreign Portfolio Investors have invested 6 thousand 625 crore rupees in debt securities through the Fully Accessible Route (FAR) and 3 thousand 228 crore rupees through the general route.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T11:36:16+00:00",
-        "link": "https://newsonair.gov.in/fpis-turn-net-buyers-of-indian-equities-after-four-months/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/FPI.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/1280px-Gold-crystals.jpg",
+        "image_credit": "Wikipedia – Gold (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -748,8 +727,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T12:51:18+00:00",
         "link": "https://newsonair.gov.in/oil-prices-up-5/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Price_Utah.jpg/1280px-Price_Utah.jpg",
+        "image_credit": "Wikimedia Commons (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -759,8 +738,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T11:43:52+00:00",
         "link": "https://newsonair.gov.in/gold-silver-prices-down-5/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/gold-silver.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/1280px-Gold-crystals.jpg",
+        "image_credit": "Wikipedia – Gold (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -770,30 +749,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T11:00:31+00:00",
         "link": "https://newsonair.gov.in/sip-contributions-increased-by-2-7-in-june-compared-to-may/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/01/SIP-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Domestic markets end bit higher with 1% hike",
-        "summary": "Benchmark domestic equity indices ended over one per cent higher today led by broad-based buying. The Sensex rose 828 points to close at 77 thousand 569. The Nifty also climbed 244 points to settle at 24 thousand 207. The broader markets on the National Stock Exchange outperformed the frontline indices. The Midcap 100 advanced 1.4 […]",
-        "article": "Benchmark domestic equity indices ended over one per cent higher today led by broad-based buying. The Sensex rose 828 points to close at 77 thousand 569. The Nifty also climbed 244 points to settle at 24 thousand 207. The broader markets on the National Stock Exchange outperformed the frontline indices. The Midcap 100 advanced 1.4 per cent, while the Smallcap 100 climbed more than 1.5 per cent. Both the indices touched their fresh 52-week highs during the trading session. Earlier today, the benchmark indices opened higher amid positive global cues and maintained upbeat momentum throughout the session. In the Sensex pack, 25 out of 30 companies registered gains. Among the top performers, Reliance soared 2.3 per cent, Tech Mahindra as well as Bharat Electronics Limited gained around 2.2 per cent and Axis Bank jumped 1.9 per cent. In contrast, Eternal shed 0.9 per cent, Bharti Airtel dropped half a per cent, and Sun Pharma lost 0.2 per cent. In the sectoral indices on the BSE, all 25 sectors ended in the positive zone. Among the top gainers, Realty jumped 3.4 per cent, PSU Banks rose over 3.2 per cent, and MidSmall Private Banks Quality Tilt added more than two and a half per cent. The overall market breadth at the BSE was positive, as shares of 2 thousand 883 advanced, 1 thousand 377 companies declined, and 174 remained unchanged.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T10:51:21+00:00",
-        "link": "https://newsonair.gov.in/domestic-markets-end-with-modest-gains-despite-positive-opening/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/SENSEX.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt waives basic customs duty on key components of electronic devices to promote domestic production",
-        "summary": "The Government has waived the basic customs duty on goods used in the manufacturing of display assemblies, lithium-ion cells and inductor coil modules with an aim to promote domestic production of electronic devices like smartphones, laptops, wearables and smart TVs. The Ministry of Finance has issued three separate notifications giving effect to the basic […]",
-        "article": "The Government has waived the basic customs duty on goods used in the manufacturing of display assemblies, lithium-ion cells and inductor coil modules with an aim to promote domestic production of electronic devices like smartphones, laptops, wearables and smart TVs. The Ministry of Finance has issued three separate notifications giving effect to the basic customs duty waiver on the goods used in manufacture of the three key components used in electronic devices. Electronics and IT Secretary S Krishnan said, the government&#8217;s move to waive basic customs duty on key components for electronics manufacturing will help deepen the value chain and the ecosystem.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T15:57:07+00:00",
-        "link": "https://newsonair.gov.in/govt-waives-basic-customs-duty-on-key-components-of-electronic-devices-to-promote-domestic-production/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Electronics.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Podophyllum_peltatum_Shenks_Ferry_2.jpg/1280px-Podophyllum_peltatum_Shenks_Ferry_2.jpg",
+        "image_credit": "Wikipedia – May (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -803,8 +760,52 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T11:40:30+00:00",
         "link": "https://newsonair.gov.in/rupee-appreciates-by-18-paise-to-close-at-95-38-against-us-dollar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/02/rupee.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Rupee_Usage.png/1280px-Rupee_Usage.png",
+        "image_credit": "Wikipedia – Rupee (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India’s Exports Rise 11.37% to Over $232 Billion in April–June",
+        "summary": "India’s total exports during April to June this year is estimated at over 232 billion US dollar registering a positive growth of 11.37 percent as compared to same period last year. Commerce and Industry Ministry said that the total exports for June this year is estimated at 73.45 Billion US dollar, registering a positive growth […]",
+        "article": "India’s total exports during April to June this year is estimated at over 232 billion US dollar registering a positive growth of 11.37 percent as compared to same period last year. Commerce and Industry Ministry said that the total exports for June this year is estimated at 73.45 Billion US dollar, registering a positive growth of 9.48 percent as compared to same month last year. The major drivers of merchandise exports growth in June include Gems and Jewellery, Engineering Goods, Organic and Inorganic Chemicals, Electronic Goods, and Rice. The electronic goods exports increased by around 19 per cent from 4.14 Billion US dollar in June last year to 4.93 Billion US dollar in June this year. The Ministry said, the total imports (Merchandise and Services combined) for June this year is estimated at 88.76 Billion US dollar, registering a positive growth of over 26 percent as compared to same month last year.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T12:35:52+00:00",
+        "link": "https://newsonair.gov.in/indias-exports-rise-11-37-to-over-232-billion-in-april-june/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "FPIs turn net buyers of Indian equities after four months",
+        "summary": "After four consecutive months of selling, Foreign Portfolio Investors (FPIs) have turned net buyers of Indian equities. According to the latest depository data, FPIs have invested 15 thousand 157 crore rupees in the domestic stock market so far this month. Weakness in the global semiconductor trade has prompted FPIs to shift a part of their […]",
+        "article": "After four consecutive months of selling, Foreign Portfolio Investors (FPIs) have turned net buyers of Indian equities. According to the latest depository data, FPIs have invested 15 thousand 157 crore rupees in the domestic stock market so far this month. Weakness in the global semiconductor trade has prompted FPIs to shift a part of their investments towards emerging markets. The renewed buying interest was also supported by improving domestic macroeconomic indicators, stable crude oil prices, and strong quarterly earnings reports. Meanwhile, India&#8217;s debt market is expected to attract strong foreign interest following changes in the government&#8217;s taxation policy. So far in July, Foreign Portfolio Investors have invested 6 thousand 625 crore rupees in debt securities through the Fully Accessible Route (FAR) and 3 thousand 228 crore rupees through the general route.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T11:36:16+00:00",
+        "link": "https://newsonair.gov.in/fpis-turn-net-buyers-of-indian-equities-after-four-months/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Domestic markets end bit higher with 1% hike",
+        "summary": "Benchmark domestic equity indices ended over one per cent higher today led by broad-based buying. The Sensex rose 828 points to close at 77 thousand 569. The Nifty also climbed 244 points to settle at 24 thousand 207. The broader markets on the National Stock Exchange outperformed the frontline indices. The Midcap 100 advanced 1.4 […]",
+        "article": "Benchmark domestic equity indices ended over one per cent higher today led by broad-based buying. The Sensex rose 828 points to close at 77 thousand 569. The Nifty also climbed 244 points to settle at 24 thousand 207. The broader markets on the National Stock Exchange outperformed the frontline indices. The Midcap 100 advanced 1.4 per cent, while the Smallcap 100 climbed more than 1.5 per cent. Both the indices touched their fresh 52-week highs during the trading session. Earlier today, the benchmark indices opened higher amid positive global cues and maintained upbeat momentum throughout the session. In the Sensex pack, 25 out of 30 companies registered gains. Among the top performers, Reliance soared 2.3 per cent, Tech Mahindra as well as Bharat Electronics Limited gained around 2.2 per cent and Axis Bank jumped 1.9 per cent. In contrast, Eternal shed 0.9 per cent, Bharti Airtel dropped half a per cent, and Sun Pharma lost 0.2 per cent. In the sectoral indices on the BSE, all 25 sectors ended in the positive zone. Among the top gainers, Realty jumped 3.4 per cent, PSU Banks rose over 3.2 per cent, and MidSmall Private Banks Quality Tilt added more than two and a half per cent. The overall market breadth at the BSE was positive, as shares of 2 thousand 883 advanced, 1 thousand 377 companies declined, and 174 remained unchanged.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T10:51:21+00:00",
+        "link": "https://newsonair.gov.in/domestic-markets-end-with-modest-gains-despite-positive-opening/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt waives basic customs duty on key components of electronic devices to promote domestic production",
+        "summary": "The Government has waived the basic customs duty on goods used in the manufacturing of display assemblies, lithium-ion cells and inductor coil modules with an aim to promote domestic production of electronic devices like smartphones, laptops, wearables and smart TVs. The Ministry of Finance has issued three separate notifications giving effect to the basic […]",
+        "article": "The Government has waived the basic customs duty on goods used in the manufacturing of display assemblies, lithium-ion cells and inductor coil modules with an aim to promote domestic production of electronic devices like smartphones, laptops, wearables and smart TVs. The Ministry of Finance has issued three separate notifications giving effect to the basic customs duty waiver on the goods used in manufacture of the three key components used in electronic devices. Electronics and IT Secretary S Krishnan said, the government&#8217;s move to waive basic customs duty on key components for electronics manufacturing will help deepen the value chain and the ecosystem.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T15:57:07+00:00",
+        "link": "https://newsonair.gov.in/govt-waives-basic-customs-duty-on-key-components-of-electronic-devices-to-promote-domestic-production/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -816,41 +817,8 @@ window.VM_NEWS = {
         "date": "2026-06-04",
         "pubDate": "2026-06-04T08:26:03+00:00",
         "link": "https://newsonair.gov.in/veteran-producer-and-former-cbfc-chairperson-pahlaj-nihalani-passes-away/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/pahln.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "150th Shree Baba Harivallabh Sangeet Sammelan Begins in Jalandhar Tomorrow",
-        "summary": "In Punjab, the 150th Shree Baba Harivallabh Sangeet Sammelan, the oldest Hindustani classical music festival in the country, is starting from tomorrow evening at Shree Devi Talab Temple, Jalandhar. The festival is being organised in collaboration with the North Zone Cultural Centre (NZCC), Patiala of the Union Ministry of Culture, Govt. of India and […]",
-        "article": "In Punjab, the 150th Shree Baba Harivallabh Sangeet Sammelan, the oldest Hindustani classical music festival in the country, is starting from tomorrow evening at Shree Devi Talab Temple, Jalandhar. The festival is being organised in collaboration with the North Zone Cultural Centre (NZCC), Patiala of the Union Ministry of Culture, Govt. of India and supported by the state government. The 3-day festival is dedicated to the 350th martyrdom anniversary of Guru Tegh Bahadur Ji and acclaimed Banaras Gharana vocalist Pt Chhannu Lal Mishra, who passed away in October this year. Renowned classical music artists like folk vocalist icon Vidushi Malini Awasthi, Pt Sajan Mishara, his son Swaransh Mishra, Pt Ronu Majumdar, Shashank Subramanyam, Ashwini Bhide, Pt Sanjeev Abhyankar, Pt Shubhendra Rao, Saskia Rao-de-Haas, Ustad Faiyaz Wasifuddin Dagar, Pt Vijay Ghate, V Selvaganesh, Naveen Sharma and Shikharnaad Qureshi, among others, will perform from 26 to 28 December.",
-        "date": "2025-12-25",
-        "pubDate": "2025-12-25T06:41:17+00:00",
-        "link": "https://newsonair.gov.in/150th-shree-baba-harivallabh-sangeet-sammelan-begins-in-jalandhar-tomorrow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/hargobind.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Goa CM Releases Commemorative Stamp Honouring Filmmaker K Vaikunth at IFFI 56",
-        "summary": "Goa Chief Minister Pramod Sawant today released a commemorative stamp in honour of legendary cinematographer and filmmaker K Vaikunth at the 56th International Film Festival of India (IFFI) in Panaji, Goa. Addressing the gathering, Mr Sawant said that the K Vaikunth left a mark on Indian cinema even before Goa used to be associated […]",
-        "article": "Goa Chief Minister Pramod Sawant today released a commemorative stamp in honour of legendary cinematographer and filmmaker K Vaikunth at the 56th International Film Festival of India (IFFI) in Panaji, Goa. Addressing the gathering, Mr Sawant said that the K Vaikunth left a mark on Indian cinema even before Goa used to be associated with movies. The Goa Chief Minister called him the man whose camera shaped the visual language of classic Indian cinema. He added that Mr Vaikunth&#8217;s unique style captured both grand spectacles and soft, subtle human emotions. During the occasion, Mr Vaikunth&#8217;s 1977 documentary &#8211; &#8216;Goa Marches On&#8217; was also screened. In a career spanning more than 5 decades, K Vaikunth worked on more than 35 feature films along with numerous ads and documentaries. He was behind some of the biggest hits, notably, Mere Apne, Bandhan, Mausam, Raaz and Parichay. Mr Vaikunth passed away on 9th February 2003.",
-        "date": "2025-11-27",
-        "pubDate": "2025-11-27T07:31:40+00:00",
-        "link": "https://newsonair.gov.in/goa-cm-releases-commemorative-stamp-honouring-filmmaker-k-vaikunth-at-iffi-56/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/pramod.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Media and Entertainment Sector Among India’s Fastest-Growing Industries",
-        "summary": "India’s Media and Entertainment sector has become one of the country’s fastest-growing industries and is projected to cross one hundred billion US dollars by 2030. Economically, the Media and Entertainment sector contributes significantly to value addition and job creation, with its gross value-added share steadily increasing over the last decade. The country offers a 40 […]",
-        "article": "India’s Media and Entertainment sector has become one of the country’s fastest-growing industries and is projected to cross one hundred billion US dollars by 2030. Economically, the Media and Entertainment sector contributes significantly to value addition and job creation, with its gross value-added share steadily increasing over the last decade. The country offers a 40 to 60 percent cost advantage in animation and VFX services, supported by a large, skilled workforce. The creative economy of the country has entered a transformative phase with the formal recognition of the Animation, Visual Effects, Gaming, Comics and Extended Reality (AVGC-XR) sector as a key driver of growth. The policy journey gained momentum in 2022 with the constitution of the AVGC Promotion Task Force, established to formulate a comprehensive national strategy for nurturing country&#8217;s AVGC-XR ecosystem as a global hub for creative technology and digital content production. The Task Force’s report projected the creation of around 20 lakh direct and indirect jobs in the coming ten years, while estimating that the sector could contribute to India’s GDP through production, exports, and allied services. Complementing national initiatives, several states are advancing the AVGC-XR vision through targeted policies and institutional frameworks. Karnataka has been one of the firsts to implement a dedicated AVGC-XR Policy 2024-2029, focusing on skilling, incubation, and global market competitiveness. Maharashtra has also taken significant steps with the approval of its AVGC-XR Policy 2025 in September this year, backed by a financial plan of more than three thousand 200 crore rupees including a long-term roadmap extending to 2050. The policy seeks to attract investments, create employment opportunities, and strengthen state-level production infrastructure through dedicated clusters and training initiatives. Furthermore, the Indian Institute of Creative Technologies is reshaping creative education through global partnerships with Netflix, Google, Microsoft, NVIDIA and others, building a world-class talent ecosystem. India’s technological evolution in this sector reflects a decade-long progression from experimentation to excellence.",
-        "date": "2025-11-18",
-        "pubDate": "2025-11-18T08:00:22+00:00",
-        "link": "https://newsonair.gov.in/media-and-entertainment-sector-among-indias-fastest-growing-industries/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/media.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sydney_2015_Anzac_Day_march_%2817119683648%29.jpg/1280px-Sydney_2015_Anzac_Day_march_%2817119683648%29.jpg",
+        "image_credit": "Wikipedia – Veteran (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -860,41 +828,8 @@ window.VM_NEWS = {
         "date": "2025-11-18",
         "pubDate": "2025-11-18T06:24:16+00:00",
         "link": "https://newsonair.gov.in/uk-named-country-partner-for-hornbill-festival-2025-in-nagaland/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/hornbill.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Vice-President C.P. Radhakrishnan Urges Media to Be Partners in Nation-Building at Ramoji Excellence Awards 2025",
-        "summary": "Vice-President C.P. Radhakrishnan has urged media houses to become partners in nation-building through their constructive role as the fourth pillar of the democratic system. He emphasised the urgency to check the spread of fake news and misinformation in the digital era. Addressing the inaugural event of Ramoji Excellence Awards-2025 at Ramoji Film City in […]",
-        "article": "Vice-President C.P. Radhakrishnan has urged media houses to become partners in nation-building through their constructive role as the fourth pillar of the democratic system. He emphasised the urgency to check the spread of fake news and misinformation in the digital era. Addressing the inaugural event of Ramoji Excellence Awards-2025 at Ramoji Film City in Hyderabad, the Vice-President lauded the efforts of late media industrialist Ramoji Rao in value-based journalism. He hailed Ramoji Group for instituting the Excellence Awards in his memory. Telangana Chief Minister A. Revanth Reddy termed the Ramoji Film City as the fourth wonder of Hyderabad and said that the State government will extend all support to sustain the legacy of the “Ramoji” brand in various sectors, mainly journalism and the promotion of the state-of-the-art Ramoji Film City, which has emerged as the hub of film-making in the world. Chief Minister of Andhra Pradesh N. Chandrababu Naidu said Ramoji Rao, as a media house owner, championed the people’s issues. Telangana Governor Jishnu Dev Varma, former Vice-President M Venkaiah Naidu, and former Chief Justice of India NV Ramana called Ramoji Rao a true inspiration for generations to come and recalled his services in the field of journalism. The award recipients include Pallabi Ghosh in the Women Achievers category, Sathupati Prasanna Sree in Arts and Culture, Akash Tandon in Service to Humanity, Jaideep Hardikar in Journalism, Madhavi Latha in Science and Technology, Srikanth Bolla in Youth Icon, and Amla Ruia in the Rural Development category. Union Ministers Kishan Reddy, K Ram Mohan Naidu and Ministers of state Bandi Sanjay and others were also present on the occasion.",
-        "date": "2025-11-17",
-        "pubDate": "2025-11-17T04:43:41+00:00",
-        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-urges-media-to-be-partners-in-nation-building-at-ramoji-excellence-awards-2025/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/CP-radha.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Melodies of India Resonate as 67th Akashvani Sangeet Sammelan Begins Nationwide",
-        "summary": "The 67th edition of Akashvani Sangeet Sammelan began today with concerts at Delhi, Mumbai and Chennai. The sammelan is being organised by Prasar Bharati, in collaboration with the Culture Ministry. In the National Capital at Akashvani Rang Bhawan, Flutist Pt. Rakesh Chaurasia and Marathi Folk artist Nandesh Umap and his team performed […]",
-        "article": "The 67th edition of Akashvani Sangeet Sammelan began today with concerts at Delhi, Mumbai and Chennai. The sammelan is being organised by Prasar Bharati, in collaboration with the Culture Ministry. In the National Capital at Akashvani Rang Bhawan, Flutist Pt. Rakesh Chaurasia and Marathi Folk artist Nandesh Umap and his team performed a vibrant program. Prasar Bharati Chairman Navneet Kumar Sehgal and Akashvani Director General Rajiv Kumar Jain also attended the event Akashvani Sangeet Sammelan will be held in 24 cities across the country. During the month-long event, The sangeet sammelan will bring Hindustani, Carnatic, Light and Folk music to audiences from across the country. All concerts are open to the public without any entry fee. Invitation cards can be collected from the respective Akashvani stations on a first-come, first-served basis.",
-        "date": "2025-11-02",
-        "pubDate": "2025-11-02T16:25:04+00:00",
-        "link": "https://newsonair.gov.in/prasar-bharati-and-culture-ministry-launch-month-long-akashvani-sangeet-sammelan-nationwide/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/akashvani.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Comedian and Veteran Punjabi Actor Jaswinder Bhalla Passes Away",
-        "summary": "Famous comedian and veteran actor of Punjabi cinema Jaswinder Bhalla died this morning in a private hospital in Mohali. He was 65 years old. According to the information received, his last rites will be performed tomorrow at noon at Balongi crematorium. &#160; Born in Doraha town of Ludhiana, Jaswinder Bhalla obtained an M.Sc. from Punjab […]",
-        "article": "Famous comedian and veteran actor of Punjabi cinema Jaswinder Bhalla died this morning in a private hospital in Mohali. He was 65 years old. According to the information received, his last rites will be performed tomorrow at noon at Balongi crematorium. &nbsp; Born in Doraha town of Ludhiana, Jaswinder Bhalla obtained an M.Sc. from Punjab Agricultural University and a PhD from Chaudhary Charan Singh Post Graduate College, Meerut. Jaswinder Bhalla, who came to the comedy and film world from teaching, left an indelible mark on the entertainment world with his unique comic style and memorable characters in films. &nbsp; He started his career in 1988 and worked in many popular Punjabi films, including Carry On Jatta, Naukar Vohti Da. His film journey started with the film &#8220;Dulla Bhatti&#8221;. He also performed in various programs of Jalandhar Doordarshan at the beginning of his career.",
-        "date": "2025-08-22",
-        "pubDate": "2025-08-22T06:34:48+00:00",
-        "link": "https://newsonair.gov.in/comedian-and-veteran-punjabi-actor-jaswinder-bhalla-passes-away/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/bhalla.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kapamodzu.jpg/1280px-Kapamodzu.jpg",
+        "image_credit": "Wikipedia – Nagaland (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -904,8 +839,74 @@ window.VM_NEWS = {
         "date": "2025-08-21",
         "pubDate": "2025-08-21T05:59:25+00:00",
         "link": "https://newsonair.gov.in/biff-2025-shape-of-momo-to-premiere-in-vision-section-of-asias-biggest-film-festival/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/bfii.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Premiere_at_Chinese_Theater_%283555047236%29.jpg/1280px-Premiere_at_Chinese_Theater_%283555047236%29.jpg",
+        "image_credit": "Wikipedia – Premiere (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "150th Shree Baba Harivallabh Sangeet Sammelan Begins in Jalandhar Tomorrow",
+        "summary": "In Punjab, the 150th Shree Baba Harivallabh Sangeet Sammelan, the oldest Hindustani classical music festival in the country, is starting from tomorrow evening at Shree Devi Talab Temple, Jalandhar. The festival is being organised in collaboration with the North Zone Cultural Centre (NZCC), Patiala of the Union Ministry of Culture, Govt. of India and […]",
+        "article": "In Punjab, the 150th Shree Baba Harivallabh Sangeet Sammelan, the oldest Hindustani classical music festival in the country, is starting from tomorrow evening at Shree Devi Talab Temple, Jalandhar. The festival is being organised in collaboration with the North Zone Cultural Centre (NZCC), Patiala of the Union Ministry of Culture, Govt. of India and supported by the state government. The 3-day festival is dedicated to the 350th martyrdom anniversary of Guru Tegh Bahadur Ji and acclaimed Banaras Gharana vocalist Pt Chhannu Lal Mishra, who passed away in October this year. Renowned classical music artists like folk vocalist icon Vidushi Malini Awasthi, Pt Sajan Mishara, his son Swaransh Mishra, Pt Ronu Majumdar, Shashank Subramanyam, Ashwini Bhide, Pt Sanjeev Abhyankar, Pt Shubhendra Rao, Saskia Rao-de-Haas, Ustad Faiyaz Wasifuddin Dagar, Pt Vijay Ghate, V Selvaganesh, Naveen Sharma and Shikharnaad Qureshi, among others, will perform from 26 to 28 December.",
+        "date": "2025-12-25",
+        "pubDate": "2025-12-25T06:41:17+00:00",
+        "link": "https://newsonair.gov.in/150th-shree-baba-harivallabh-sangeet-sammelan-begins-in-jalandhar-tomorrow/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Goa CM Releases Commemorative Stamp Honouring Filmmaker K Vaikunth at IFFI 56",
+        "summary": "Goa Chief Minister Pramod Sawant today released a commemorative stamp in honour of legendary cinematographer and filmmaker K Vaikunth at the 56th International Film Festival of India (IFFI) in Panaji, Goa. Addressing the gathering, Mr Sawant said that the K Vaikunth left a mark on Indian cinema even before Goa used to be associated […]",
+        "article": "Goa Chief Minister Pramod Sawant today released a commemorative stamp in honour of legendary cinematographer and filmmaker K Vaikunth at the 56th International Film Festival of India (IFFI) in Panaji, Goa. Addressing the gathering, Mr Sawant said that the K Vaikunth left a mark on Indian cinema even before Goa used to be associated with movies. The Goa Chief Minister called him the man whose camera shaped the visual language of classic Indian cinema. He added that Mr Vaikunth&#8217;s unique style captured both grand spectacles and soft, subtle human emotions. During the occasion, Mr Vaikunth&#8217;s 1977 documentary &#8211; &#8216;Goa Marches On&#8217; was also screened. In a career spanning more than 5 decades, K Vaikunth worked on more than 35 feature films along with numerous ads and documentaries. He was behind some of the biggest hits, notably, Mere Apne, Bandhan, Mausam, Raaz and Parichay. Mr Vaikunth passed away on 9th February 2003.",
+        "date": "2025-11-27",
+        "pubDate": "2025-11-27T07:31:40+00:00",
+        "link": "https://newsonair.gov.in/goa-cm-releases-commemorative-stamp-honouring-filmmaker-k-vaikunth-at-iffi-56/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Media and Entertainment Sector Among India’s Fastest-Growing Industries",
+        "summary": "India’s Media and Entertainment sector has become one of the country’s fastest-growing industries and is projected to cross one hundred billion US dollars by 2030. Economically, the Media and Entertainment sector contributes significantly to value addition and job creation, with its gross value-added share steadily increasing over the last decade. The country offers a 40 […]",
+        "article": "India’s Media and Entertainment sector has become one of the country’s fastest-growing industries and is projected to cross one hundred billion US dollars by 2030. Economically, the Media and Entertainment sector contributes significantly to value addition and job creation, with its gross value-added share steadily increasing over the last decade. The country offers a 40 to 60 percent cost advantage in animation and VFX services, supported by a large, skilled workforce. The creative economy of the country has entered a transformative phase with the formal recognition of the Animation, Visual Effects, Gaming, Comics and Extended Reality (AVGC-XR) sector as a key driver of growth. The policy journey gained momentum in 2022 with the constitution of the AVGC Promotion Task Force, established to formulate a comprehensive national strategy for nurturing country&#8217;s AVGC-XR ecosystem as a global hub for creative technology and digital content production. The Task Force’s report projected the creation of around 20 lakh direct and indirect jobs in the coming ten years, while estimating that the sector could contribute to India’s GDP through production, exports, and allied services. Complementing national initiatives, several states are advancing the AVGC-XR vision through targeted policies and institutional frameworks. Karnataka has been one of the firsts to implement a dedicated AVGC-XR Policy 2024-2029, focusing on skilling, incubation, and global market competitiveness. Maharashtra has also taken significant steps with the approval of its AVGC-XR Policy 2025 in September this year, backed by a financial plan of more than three thousand 200 crore rupees including a long-term roadmap extending to 2050. The policy seeks to attract investments, create employment opportunities, and strengthen state-level production infrastructure through dedicated clusters and training initiatives. Furthermore, the Indian Institute of Creative Technologies is reshaping creative education through global partnerships with Netflix, Google, Microsoft, NVIDIA and others, building a world-class talent ecosystem. India’s technological evolution in this sector reflects a decade-long progression from experimentation to excellence.",
+        "date": "2025-11-18",
+        "pubDate": "2025-11-18T08:00:22+00:00",
+        "link": "https://newsonair.gov.in/media-and-entertainment-sector-among-indias-fastest-growing-industries/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Vice-President C.P. Radhakrishnan Urges Media to Be Partners in Nation-Building at Ramoji Excellence Awards 2025",
+        "summary": "Vice-President C.P. Radhakrishnan has urged media houses to become partners in nation-building through their constructive role as the fourth pillar of the democratic system. He emphasised the urgency to check the spread of fake news and misinformation in the digital era. Addressing the inaugural event of Ramoji Excellence Awards-2025 at Ramoji Film City in […]",
+        "article": "Vice-President C.P. Radhakrishnan has urged media houses to become partners in nation-building through their constructive role as the fourth pillar of the democratic system. He emphasised the urgency to check the spread of fake news and misinformation in the digital era. Addressing the inaugural event of Ramoji Excellence Awards-2025 at Ramoji Film City in Hyderabad, the Vice-President lauded the efforts of late media industrialist Ramoji Rao in value-based journalism. He hailed Ramoji Group for instituting the Excellence Awards in his memory. Telangana Chief Minister A. Revanth Reddy termed the Ramoji Film City as the fourth wonder of Hyderabad and said that the State government will extend all support to sustain the legacy of the “Ramoji” brand in various sectors, mainly journalism and the promotion of the state-of-the-art Ramoji Film City, which has emerged as the hub of film-making in the world. Chief Minister of Andhra Pradesh N. Chandrababu Naidu said Ramoji Rao, as a media house owner, championed the people’s issues. Telangana Governor Jishnu Dev Varma, former Vice-President M Venkaiah Naidu, and former Chief Justice of India NV Ramana called Ramoji Rao a true inspiration for generations to come and recalled his services in the field of journalism. The award recipients include Pallabi Ghosh in the Women Achievers category, Sathupati Prasanna Sree in Arts and Culture, Akash Tandon in Service to Humanity, Jaideep Hardikar in Journalism, Madhavi Latha in Science and Technology, Srikanth Bolla in Youth Icon, and Amla Ruia in the Rural Development category. Union Ministers Kishan Reddy, K Ram Mohan Naidu and Ministers of state Bandi Sanjay and others were also present on the occasion.",
+        "date": "2025-11-17",
+        "pubDate": "2025-11-17T04:43:41+00:00",
+        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-urges-media-to-be-partners-in-nation-building-at-ramoji-excellence-awards-2025/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Melodies of India Resonate as 67th Akashvani Sangeet Sammelan Begins Nationwide",
+        "summary": "The 67th edition of Akashvani Sangeet Sammelan began today with concerts at Delhi, Mumbai and Chennai. The sammelan is being organised by Prasar Bharati, in collaboration with the Culture Ministry. In the National Capital at Akashvani Rang Bhawan, Flutist Pt. Rakesh Chaurasia and Marathi Folk artist Nandesh Umap and his team performed […]",
+        "article": "The 67th edition of Akashvani Sangeet Sammelan began today with concerts at Delhi, Mumbai and Chennai. The sammelan is being organised by Prasar Bharati, in collaboration with the Culture Ministry. In the National Capital at Akashvani Rang Bhawan, Flutist Pt. Rakesh Chaurasia and Marathi Folk artist Nandesh Umap and his team performed a vibrant program. Prasar Bharati Chairman Navneet Kumar Sehgal and Akashvani Director General Rajiv Kumar Jain also attended the event Akashvani Sangeet Sammelan will be held in 24 cities across the country. During the month-long event, The sangeet sammelan will bring Hindustani, Carnatic, Light and Folk music to audiences from across the country. All concerts are open to the public without any entry fee. Invitation cards can be collected from the respective Akashvani stations on a first-come, first-served basis.",
+        "date": "2025-11-02",
+        "pubDate": "2025-11-02T16:25:04+00:00",
+        "link": "https://newsonair.gov.in/prasar-bharati-and-culture-ministry-launch-month-long-akashvani-sangeet-sammelan-nationwide/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Comedian and Veteran Punjabi Actor Jaswinder Bhalla Passes Away",
+        "summary": "Famous comedian and veteran actor of Punjabi cinema Jaswinder Bhalla died this morning in a private hospital in Mohali. He was 65 years old. According to the information received, his last rites will be performed tomorrow at noon at Balongi crematorium. &#160; Born in Doraha town of Ludhiana, Jaswinder Bhalla obtained an M.Sc. from Punjab […]",
+        "article": "Famous comedian and veteran actor of Punjabi cinema Jaswinder Bhalla died this morning in a private hospital in Mohali. He was 65 years old. According to the information received, his last rites will be performed tomorrow at noon at Balongi crematorium. &nbsp; Born in Doraha town of Ludhiana, Jaswinder Bhalla obtained an M.Sc. from Punjab Agricultural University and a PhD from Chaudhary Charan Singh Post Graduate College, Meerut. Jaswinder Bhalla, who came to the comedy and film world from teaching, left an indelible mark on the entertainment world with his unique comic style and memorable characters in films. &nbsp; He started his career in 1988 and worked in many popular Punjabi films, including Carry On Jatta, Naukar Vohti Da. His film journey started with the film &#8220;Dulla Bhatti&#8221;. He also performed in various programs of Jalandhar Doordarshan at the beginning of his career.",
+        "date": "2025-08-22",
+        "pubDate": "2025-08-22T06:34:48+00:00",
+        "link": "https://newsonair.gov.in/comedian-and-veteran-punjabi-actor-jaswinder-bhalla-passes-away/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -915,8 +916,8 @@ window.VM_NEWS = {
         "date": "2025-02-17",
         "pubDate": "2025-02-17T02:02:43+00:00",
         "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-strengthens-ties-with-indian-ocean-nations-at-muscat-conference/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/02/cats-476.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -928,30 +929,8 @@ window.VM_NEWS = {
         "date": "2026-03-24",
         "pubDate": "2026-03-24T07:13:43+00:00",
         "link": "https://newsonair.gov.in/health-minister-jp-nadda-urges-citizens-to-eliminate-tb-on-world-tuberculosis-day/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/TB-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India Tightens Surveillance on GLP-1 Weight Loss Drug Sales",
-        "summary": "The Drugs Controller of India has intensified regulatory surveillance against unauthorised sale and promotion of GLP-1 based Weight Loss Drugs. The move comes amid growing concerns over the increasing availability of multiple generic variants of these drugs in the Indian market, through retail pharmacies, online platforms, wholesalers, and wellness clinics. The Ministry of Health […]",
-        "article": "The Drugs Controller of India has intensified regulatory surveillance against unauthorised sale and promotion of GLP-1 based Weight Loss Drugs. The move comes amid growing concerns over the increasing availability of multiple generic variants of these drugs in the Indian market, through retail pharmacies, online platforms, wholesalers, and wellness clinics. The Ministry of Health and Family Welfare said that these drugs, when used without proper medical supervision, may lead to serious adverse effects and related health risks. Taking cognisance of the situation, India’s Drugs Controller, in collaboration with State Regulators, has initiated a series of targeted actions to curb possible malpractices across the pharmaceutical supply chain and prevent unauthorised sales and use. The Ministry noted that an advisory was issued on the 10th of this month, directing manufacturers to avoid surrogate advertisements and any form of indirect promotion that could mislead consumers or encourage off-label usage. It added that regulatory surveillance will continue to be intensified in the coming weeks, and non-compliances will be dealt with strictly, with actions including cancellation of licences, penalties, and prosecution under applicable laws. The Health Ministry advised the citizens to use such medications only under the guidance of qualified medical practitioners. The Ministry said the drug has been approved in the country with the condition of a prescription by Endocrinologists and Internal Medicine Specialists, and for some indications, by Cardiologists only.",
-        "date": "2026-03-24",
-        "pubDate": "2026-03-24T06:13:25+00:00",
-        "link": "https://newsonair.gov.in/india-tightens-surveillance-on-glp-1-weight-loss-drug-sales/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/wei.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "VP Radhakrishnan says Drug-free youth key to Viksit Bharat vision",
-        "summary": "Vice President CP Radhakrishnan today said that the vision of a Viksit Bharat can only be realised when the youth of the country is drug-free, healthy and purpose-driven. Mr Radhakrishnan said this while addressing Delhi University&#8217;s Drug Free Campus Campaign in the National Capital. On the occasion, Mr Radhakrishnan also launched a dedicated e-pledge platform […]",
-        "article": "Vice President CP Radhakrishnan today said that the vision of a Viksit Bharat can only be realised when the youth of the country is drug-free, healthy and purpose-driven. Mr Radhakrishnan said this while addressing Delhi University&#8217;s Drug Free Campus Campaign in the National Capital. On the occasion, Mr Radhakrishnan also launched a dedicated e-pledge platform and Mobile App for Drug-Free Campuses. The Vice President said that the campaign aligns strongly with the government’s Nasha Mukt Bharat Abhiyan. He underlined that substance abuse is a social challenge, a public health concern and a threat to the country’s demographic dividend. Mr Radhakrishnan also urged the students to actively participate and take the pledge for a drug-free campus. Mr Radhakrishnan highlighted that it is the need of the hour for everyone to keep themselves away from drugs. He also stressed the need to rise against drug abuse and spread awareness amongst everyone against the use of drugs. Mr Radhakrishnan said that drugs also spoil the physical and mental health of people. The Vice President also asserted that the youth are the greatest asset of the country and their talent, innovation and productivity form the backbone of the nation&#8217;s economic growth. He added that a drug-free youth is better equipped to acquire skills and foster entrepreneurship, which strengthens the economic progress of the nation. Mr Radhakrishnan said that drug terrorism is closely linked to narco-terrorism. He said that this business happens at the cost of humanity, and everyone must rise against the drug mafia. Speaking on the occasion, Education Minister Dharmendra Pradhan emphasised that the Drug Free Campus Campaign is aligned with the National Education Policy 2020. He also underscored the need for teachers and administrators to create a campus culture which prioritises student well-being.",
-        "date": "2026-01-13",
-        "pubDate": "2026-01-13T11:18:49+00:00",
-        "link": "https://newsonair.gov.in/vp-radhakrishnan-urges-youth-to-be-drug-free-for-a-viksit-bharat/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/vp-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/World_Tuberculosis_Day_%287020132217%29.jpg/1280px-World_Tuberculosis_Day_%287020132217%29.jpg",
+        "image_credit": "Wikipedia – World Tuberculosis Day (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -961,19 +940,8 @@ window.VM_NEWS = {
         "date": "2026-01-13",
         "pubDate": "2026-01-13T03:53:37+00:00",
         "link": "https://newsonair.gov.in/west-bengal-reports-two-suspected-nipah-cases-centre-sends-response-team/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/09/nipha.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Wild Poliovirus Detected in Sewage Samples Across 42 Sites in Pakistan",
-        "summary": "Wild poliovirus type 1 (WPV1) has been detected in sewage samples from 42 sites across Pakistan. The health officials reported that out of 127 samples collected from 87 districts in July, 42 tested positive, 75 were negative, and 10 are under process. The findings follow three new polio cases reported earlier this month, raising Pakistan&#8217;s […]",
-        "article": "Wild poliovirus type 1 (WPV1) has been detected in sewage samples from 42 sites across Pakistan. The health officials reported that out of 127 samples collected from 87 districts in July, 42 tested positive, 75 were negative, and 10 are under process. The findings follow three new polio cases reported earlier this month, raising Pakistan&#8217;s 2025 total to 17 cases, 10 from Khyber Pakhtunkhwa, five from Sindh, and one each from Punjab and Gilgit-Baltistan.",
-        "date": "2025-08-13",
-        "pubDate": "2025-08-13T11:11:04+00:00",
-        "link": "https://newsonair.gov.in/wild-poliovirus-detected-in-sewage-samples-across-42-sites-in-pakistan/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/PPPPP.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Howrah_bridge_betwixt_Lights.jpg/1280px-Howrah_bridge_betwixt_Lights.jpg",
+        "image_credit": "Wikipedia – West Bengal (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -983,8 +951,41 @@ window.VM_NEWS = {
         "date": "2025-08-05",
         "pubDate": "2025-08-05T12:03:13+00:00",
         "link": "https://newsonair.gov.in/chikungunya-outbreak-in-china-over-7000-cases-emerge-in-guangdong/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/chikungunya.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg/1280px-China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg",
+        "image_credit": "Wikipedia – Guangdong (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India Tightens Surveillance on GLP-1 Weight Loss Drug Sales",
+        "summary": "The Drugs Controller of India has intensified regulatory surveillance against unauthorised sale and promotion of GLP-1 based Weight Loss Drugs. The move comes amid growing concerns over the increasing availability of multiple generic variants of these drugs in the Indian market, through retail pharmacies, online platforms, wholesalers, and wellness clinics. The Ministry of Health […]",
+        "article": "The Drugs Controller of India has intensified regulatory surveillance against unauthorised sale and promotion of GLP-1 based Weight Loss Drugs. The move comes amid growing concerns over the increasing availability of multiple generic variants of these drugs in the Indian market, through retail pharmacies, online platforms, wholesalers, and wellness clinics. The Ministry of Health and Family Welfare said that these drugs, when used without proper medical supervision, may lead to serious adverse effects and related health risks. Taking cognisance of the situation, India’s Drugs Controller, in collaboration with State Regulators, has initiated a series of targeted actions to curb possible malpractices across the pharmaceutical supply chain and prevent unauthorised sales and use. The Ministry noted that an advisory was issued on the 10th of this month, directing manufacturers to avoid surrogate advertisements and any form of indirect promotion that could mislead consumers or encourage off-label usage. It added that regulatory surveillance will continue to be intensified in the coming weeks, and non-compliances will be dealt with strictly, with actions including cancellation of licences, penalties, and prosecution under applicable laws. The Health Ministry advised the citizens to use such medications only under the guidance of qualified medical practitioners. The Ministry said the drug has been approved in the country with the condition of a prescription by Endocrinologists and Internal Medicine Specialists, and for some indications, by Cardiologists only.",
+        "date": "2026-03-24",
+        "pubDate": "2026-03-24T06:13:25+00:00",
+        "link": "https://newsonair.gov.in/india-tightens-surveillance-on-glp-1-weight-loss-drug-sales/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "VP Radhakrishnan says Drug-free youth key to Viksit Bharat vision",
+        "summary": "Vice President CP Radhakrishnan today said that the vision of a Viksit Bharat can only be realised when the youth of the country is drug-free, healthy and purpose-driven. Mr Radhakrishnan said this while addressing Delhi University&#8217;s Drug Free Campus Campaign in the National Capital. On the occasion, Mr Radhakrishnan also launched a dedicated e-pledge platform […]",
+        "article": "Vice President CP Radhakrishnan today said that the vision of a Viksit Bharat can only be realised when the youth of the country is drug-free, healthy and purpose-driven. Mr Radhakrishnan said this while addressing Delhi University&#8217;s Drug Free Campus Campaign in the National Capital. On the occasion, Mr Radhakrishnan also launched a dedicated e-pledge platform and Mobile App for Drug-Free Campuses. The Vice President said that the campaign aligns strongly with the government’s Nasha Mukt Bharat Abhiyan. He underlined that substance abuse is a social challenge, a public health concern and a threat to the country’s demographic dividend. Mr Radhakrishnan also urged the students to actively participate and take the pledge for a drug-free campus. Mr Radhakrishnan highlighted that it is the need of the hour for everyone to keep themselves away from drugs. He also stressed the need to rise against drug abuse and spread awareness amongst everyone against the use of drugs. Mr Radhakrishnan said that drugs also spoil the physical and mental health of people. The Vice President also asserted that the youth are the greatest asset of the country and their talent, innovation and productivity form the backbone of the nation&#8217;s economic growth. He added that a drug-free youth is better equipped to acquire skills and foster entrepreneurship, which strengthens the economic progress of the nation. Mr Radhakrishnan said that drug terrorism is closely linked to narco-terrorism. He said that this business happens at the cost of humanity, and everyone must rise against the drug mafia. Speaking on the occasion, Education Minister Dharmendra Pradhan emphasised that the Drug Free Campus Campaign is aligned with the National Education Policy 2020. He also underscored the need for teachers and administrators to create a campus culture which prioritises student well-being.",
+        "date": "2026-01-13",
+        "pubDate": "2026-01-13T11:18:49+00:00",
+        "link": "https://newsonair.gov.in/vp-radhakrishnan-urges-youth-to-be-drug-free-for-a-viksit-bharat/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Wild Poliovirus Detected in Sewage Samples Across 42 Sites in Pakistan",
+        "summary": "Wild poliovirus type 1 (WPV1) has been detected in sewage samples from 42 sites across Pakistan. The health officials reported that out of 127 samples collected from 87 districts in July, 42 tested positive, 75 were negative, and 10 are under process. The findings follow three new polio cases reported earlier this month, raising Pakistan&#8217;s […]",
+        "article": "Wild poliovirus type 1 (WPV1) has been detected in sewage samples from 42 sites across Pakistan. The health officials reported that out of 127 samples collected from 87 districts in July, 42 tested positive, 75 were negative, and 10 are under process. The findings follow three new polio cases reported earlier this month, raising Pakistan&#8217;s 2025 total to 17 cases, 10 from Khyber Pakhtunkhwa, five from Sindh, and one each from Punjab and Gilgit-Baltistan.",
+        "date": "2025-08-13",
+        "pubDate": "2025-08-13T11:11:04+00:00",
+        "link": "https://newsonair.gov.in/wild-poliovirus-detected-in-sewage-samples-across-42-sites-in-pakistan/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -994,8 +995,8 @@ window.VM_NEWS = {
         "date": "2025-08-05",
         "pubDate": "2025-08-05T02:16:32+00:00",
         "link": "https://newsonair.gov.in/pm-matru-vandana-yojana-registration-drive-extended-till-august-15/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/pradhanmantri-matri-vandana-yojana-pmmvy.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1005,8 +1006,8 @@ window.VM_NEWS = {
         "date": "2025-07-28",
         "pubDate": "2025-07-28T03:24:29+00:00",
         "link": "https://newsonair.gov.in/vaccines-prevented-over-2-5-million-covid-deaths-worldwide-study/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/07/ffd.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1016,14 +1017,80 @@ window.VM_NEWS = {
         "date": "2025-07-14",
         "pubDate": "2025-07-14T11:41:18+00:00",
         "link": "https://newsonair.gov.in/world-embracing-ayurvedas-science-and-potential-ayush-minister/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/Pratap-Rao-Jadhav-1-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ]
   },
   "hi": {
     "top": [
+      {
+        "title": "यूरोपीय संघ ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया",
+        "summary": "यूरोपीय संघ (ईयू) ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया है। संघ के शीर्ष राजनयिक ने कल कहा कि यूरोपीय संघ व्हाइट हाउस और संयुक्त राष्ट्र सहित 65 सरकारों और संगठनों के साथ मिलकर काम कर रहा है। ब्रसेल्स में &#8216;फिलिस्तीन डोनर्स ग्रुप&#8217; की बैठक के […]",
+        "article": "यूरोपीय संघ (ईयू) ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया है। संघ के शीर्ष राजनयिक ने कल कहा कि यूरोपीय संघ व्हाइट हाउस और संयुक्त राष्ट्र सहित 65 सरकारों और संगठनों के साथ मिलकर काम कर रहा है। ब्रसेल्स में &#8216;फिलिस्तीन डोनर्स ग्रुप&#8217; की बैठक के बाद यूरोपीय आयोग की उपाध्यक्ष काजा कल्लास ने इस सहायता राशि की घोषणा की। यह बैठक &#8216;टीम गाज़ा पहल&#8217; की दूसरी बैठक थी। यह यूरोपीय संघ की एक ऐसी पहल है जिसका उद्देश्य युद्ध से तबाह हुए तटीय इलाके में साफ-सफाई और खेती जैसे पुनर्निर्माण कार्यों के लिए समर्थन जुटाना है। इन तबाह हुए इलाकों में लगभग 20 लाख लोग रहते हैं।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:05:18+00:00",
+        "link": "https://newsonair.gov.in/hi/the-european-union-coordinated-efforts-to-mobilize-one-billion-dollars-in-aid-for-gaza/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/EU.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने 2028-29 के लिए संयुक्त राष्ट्र सुरक्षा परिषद की अस्थायी सदस्य के रूप में चुनाव अभियान शुरू किया",
+        "summary": "भारत ने 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में चुनाव के लिए आधिकारिक तौर पर अपना अभियान शुरू कर दिया है। विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कल रात न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में वैश्विक शांति, सुरक्षा और विकास को बढ़ावा देने के लिए भारत का शांति […]",
+        "article": "भारत ने 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में चुनाव के लिए आधिकारिक तौर पर अपना अभियान शुरू कर दिया है। विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कल रात न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में वैश्विक शांति, सुरक्षा और विकास को बढ़ावा देने के लिए भारत का शांति दृष्टिकोण प्रस्&#x200d;तुत किया। उन्होंने कहा कि वैश्विक संघर्षों और अस्थिरता के बीच संयुक्&#x200d;त राष्&#x200d;ट्र की भूमिका पहले से अधिक महत्&#x200d;वपूर्ण हो गई है। डॉ. जयशंकर ने कहा कि भारत ने संयुक्त राष्ट्र के लगभग 50 शांति अभियानों में लगभग तीन लाख सुरक्षा कर्मियों का योगदान दिया है और वर्तमान में 10 संयुक्त राष्ट्र शांति अभियानों में 4 हजार 300 से अधिक सुरक्षाकर्मी कार्यरत हैं। उन्होंने कहा कि भारत ने निरंतर संवाद, कूटनीति का समर्थन किया है और विकासशील देशों की समस्&#x200d;याओं को प्रमुखता से उठाया है। डॉ. जयशंकर ने सदस्&#x200d;य देशों से भारत की उम्&#x200d;मीदवारी का समर्थन करने का आह्वान किया। उन्&#x200d;होंने कहा कि सुरक्षा परिषद में भारत की उपस्थिति इस महत्वपूर्ण निकाय में निर्णय प्रक्रिया को और सशक्&#x200d;त करेगी। भारत सुरक्षा परिषद के गैर-स्थायी सदस्य के रूप में आठ कार्यकाल पूरे कर चुका है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:54:42+00:00",
+        "link": "https://newsonair.gov.in/hi/india-has-launched-its-election-campaign-for-a-non-permanent-seat-on-the-united-nations-security-council-for-the-2028-29-term/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNIgQ1wXkAAbN-v.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
+        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
+        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:49:09+00:00",
+        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वियतनाम में स्पीड बोट हादसे में मारे गए 15 भारतीयों के पार्थिव शरीर स्वदेश लाए गए",
+        "summary": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि […]",
+        "article": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि आन्ध्रप्रदेश, केरल और तमिलनाडु की सरकारें इन शवों को उनके संबंधित राज्यों में उनके आवास पर पहुंचाने में समन्वय करेंगी। वियतनाम के अधिकारियों और सरकार के प्रति आभार व्यक्त करते हुए दूतावास ने बताया कि उनकी प्रार्थना, प्रयास और मौजूदगी ने इस दुख की घड़ी में शक्ति प्रदान की। 32 भारतीय पर्यटकों और चार स्थानीय क्रू के सद्स्यों वाली स्पीड बोट शुक्रवार को वियतनाम में फू क्वोक द्वीप में पलट गई। इस कारण 15 पर्यटकों की मृत्यु हो गई। इस दुर्घटना में बचने वाले 16 पर्यटक भी भारत लौट चुके हैं। इनमें से एक पर्यटक वियतनाम के एक अस्पताल में भर्ती है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:47:11+00:00",
+        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-a-speedboat-accident-in-vietnam-have-been-brought-back-to-the-country/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "एनटीए ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी किए",
+        "summary": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्‍तर देख सकते है। उम्‍मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े […]",
+        "article": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्&#x200d;तर देख सकते है। उम्&#x200d;मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार प्रश्न का चयन करके अपने चुने हुए विकल्प पर निशान लगा सकते हैं और 200 रुपये के शुल्क का भुगतान करके चुनौती दे सकते हैं। एजेंसी ने स्पष्ट किया है कि चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। ओएमआर चुनौती सुविधा इस महीने की 15 तारीख तक उपलब्ध रहेगी। उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:41:10+00:00",
+        "link": "https://newsonair.gov.in/hi/the-nta-released-the-omr-sheets-and-recorded-responses-for-the-neet-ug-2026-re-examination/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सूचना और प्रसारण मंत्रालय ने वेव्स 2027 के ‘क्रिएट इन इंडिया चैलेंज’ सीज़न-2 के लिए प्रस्ताव आमंत्रित किए",
+        "summary": "सूचना और प्रसारण मंत्रालय ने &#8216;वर्ल्ड ऑडियो विज़ुअल एंड एंटरटेनमेंट समिट&#8217; &#8211; वेव्स 2027 &#8216;क्रिएट इन इंडिया चैलेंज&#8217; सीज़न 2 के तहत उद्योग-संचालित चुनौतियों के लिए प्रस्ताव आमंत्रित किए हैं। &#8216;क्रिएट इन इंडिया चैलेंज&#8217; वेव्स के तहत एक प्रमुख पहल है। इस पहल का उद्देश्य मीडिया और मनोरंजन क्षेत्र में सृजकों की पहचान करना, उन्हें […]",
+        "article": "सूचना और प्रसारण मंत्रालय ने &#8216;वर्ल्ड ऑडियो विज़ुअल एंड एंटरटेनमेंट समिट&#8217; &#8211; वेव्स 2027 &#8216;क्रिएट इन इंडिया चैलेंज&#8217; सीज़न 2 के तहत उद्योग-संचालित चुनौतियों के लिए प्रस्ताव आमंत्रित किए हैं। &#8216;क्रिएट इन इंडिया चैलेंज&#8217; वेव्स के तहत एक प्रमुख पहल है। इस पहल का उद्देश्य मीडिया और मनोरंजन क्षेत्र में सृजकों की पहचान करना, उन्हें आगे बढ़ाना, उनके कौशल को बेहतर बनाना और उन्हें सबके सामने लाना है। सीज़न-2 का लक्ष्य ऐसी उद्योग संचालित, सरकार-समर्थित और युवाओं पर केंद्रित चुनौतियों को पूरा करना है, जो रचनात्मक प्रतिभा की पहचान करें और उन्हें निखारें, साथ ही कौशल को बेहतर बनाने और क्षमता निर्माण को बढ़ावा दें। इसका उद्देश्य मीडिया और मनोरंजन के क्षेत्रों में सहयोग के अवसर पैदा करना भी है। जिसमें आर्टिफिशियल इंटेलिजेंस, डिजिटल मीडिया और प्रौद्योगिकी पर आधारित अन्य रचनात्मक क्षेत्र शामिल हैं। इस चुनौती का समापन वेव्स 2027 के दौरान &#8216;क्रिएटोस्फीयर&#8217; में विजेताओं और उनके सफल परिणामों को प्रदर्शित करने के साथ होगा। मंत्रालय ने कहा कि प्रस्ताव जमा करने और चुनौतियों तथा उन्हें पूरा करने वाली संस्थाओं के चयन के लिए एक पारदर्शी और योग्यता-आधारित प्रणाली के ज़रिए एक एकीकृत पोर्टल बनाया गया है। मीडिया और मनोरंजन क्षेत्र की संस्थाओं को इस महीने की 31 तारीख तक wavesbazaar.com ऑनलाइन पोर्टल के माध्यम से अपने प्रस्ताव जमा करने के लिए आमंत्रित किया गया है। चुनी गई चुनौतियों को सफलतापूर्वक लागू करने में मदद के लिए, मंत्रालय प्रति चुनौती एक करोड़ रुपये तक का एकमुश्त अनुदान देगा।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:37:58+00:00",
+        "link": "https://newsonair.gov.in/hi/the-ministry-of-information-and-broadcasting-has-invited-proposals-for-season-2-of-the-create-in-india-challenge-under-waves-2027/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNHp5PpaQAA9q5c.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "नीट यूजी 2026 री-एग्जाम की OMR शीट जारी",
         "summary": "राष्ट्रीय परीक्षा एजेंसी &#8211; एनटीए ने आधिकारिक वेबसाइट neet.nta.nic.in पर उम्मीदवारों के लिए नीट यूजी 2026 की पुनः परीक्षा के लिए ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एनटीए ने बताया कि उम्मीदवार अपने आवेदन नंबर का उपयोग करके लॉग इन कर सकते हैं और अपने चिह्नित उत्तरों की तुलना स्कैन […]",
@@ -1089,75 +1156,64 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "बीएसएनएल के परिचालन राजस्व में 10% बढ़ोतरी",
-        "summary": "भारतीय संचार निगम लिमिटेड (बी.एस.एन.एल) ने वित्त वर्ष 2026-27 की पहली तिमाही में परिचालन से होने वाले राजस्व में लगभग 10 प्रतिशत की अस्थायी बढ़ोतरी दर्ज की है। संचार मंत्री ज्योतिरादित्य सिंधिया ने आज नई दिल्ली में बी.एस.एन.एल की रणनीतिक समीक्षा और योजना बैठक के बाद यह जानकारी दी। उन्होंने कहा कि कंपनी का परिचालन […]",
-        "article": "भारतीय संचार निगम लिमिटेड (बी.एस.एन.एल) ने वित्त वर्ष 2026-27 की पहली तिमाही में परिचालन से होने वाले राजस्व में लगभग 10 प्रतिशत की अस्थायी बढ़ोतरी दर्ज की है। संचार मंत्री ज्योतिरादित्य सिंधिया ने आज नई दिल्ली में बी.एस.एन.एल की रणनीतिक समीक्षा और योजना बैठक के बाद यह जानकारी दी। उन्होंने कहा कि कंपनी का परिचालन राजस्व पिछले वर्ष की पहली तिमाही के 4 हजार 17 करोड़ रुपये से बढ़कर इस वर्ष 4 हजार 418 करोड़ रुपये हो गया है। यह 401 करोड़ रुपये की बढ़ोतरी है। श्री सिंधिया ने कहा कि बी.एस.एन.एल के एंटरप्राइज कारोबार और मोबाइल सेवाओं के क्षेत्र में अच्छी वृद्धि हुई है। वहीं, फिक्स्ड एक्सेस सेवाओं का कारोबार लगभग स्थिर रहा है। उन्होंने बताया कि बी.एस.एन.एल का प्रति उपभोक्ता औसत राजस्व भी अस्थायी तौर पर 100 रुपये से बढ़कर 102 रुपये 70 पैसे हो गया है। संचार मंत्री ने कहा कि बीएसएनएल लगातार विकास की दिशा में आगे बढ़ रहा है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:36:51+00:00",
-        "link": "https://newsonair.gov.in/hi/bsnls-operating-revenue-rises-10/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/BSNL.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीका ने होर्मुज जलडमरूमध्य पर किया कब्जा: राष्ट्रपति ट्रंप",
-        "summary": "अमरीका के राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया है कि उन्होंने होर्मुज जलडमरूमध्य पर कब्जा कर लिया है। उन्‍होंने ईरान द्वारा संघर्ष विराम समझौते का उल्लंघन करने की निंदा की है। राष्ट्रपति ट्रंप ने कहा कि ईरान ने पिछली रात समझौते का उल्लंघन किया है। उन्होंने ईरानी नेतृत्व पर संघर्ष विराम समझौतों की अवहेलना करने […]",
-        "article": "अमरीका के राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया है कि उन्होंने होर्मुज जलडमरूमध्य पर कब्जा कर लिया है। उन्&#x200d;होंने ईरान द्वारा संघर्ष विराम समझौते का उल्लंघन करने की निंदा की है। राष्ट्रपति ट्रंप ने कहा कि ईरान ने पिछली रात समझौते का उल्लंघन किया है। उन्होंने ईरानी नेतृत्व पर संघर्ष विराम समझौतों की अवहेलना करने का आरोप लगाया। राष्&#x200d;ट्रपति ट्रम्&#x200d;प ने दावा किया कि अमरीका ने रात भर चले हमलों में ईरान के उपकरणों को नष्ट कर दिया है। इससे पहले, ईरान ने अमरीकी हमलों की निंदा करते हुए अमरीका पर जलडमरूमध्य में सुरक्षा व्यवस्था में हस्तक्षेप करके वैश्विक वाणिज्यिक जहाजों के आवागमन को बाधित करने का आरोप लगाया था।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:31:48+00:00",
-        "link": "https://newsonair.gov.in/hi/us-occupies-strait-of-hormuz-president-trump/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260616321f-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कांगो में फैले इबोला के बुंडीबुग्यो प्रकार के नए टीके का ब्रिटेन में होगा परीक्षण",
-        "summary": "कांगो में इबोला वायरस के बुंडीबुग्यो प्रकार से बचाव के लिए विकसित नए टीके का जल्द ही ब्रिटेन में वयस्कों पर परीक्षण शुरू किया जाएगा। ऑक्सफोर्ड विश्वविद्यालय के वैज्ञानिक इस टीके को विकसित कर रहे हैं। अब इसकी सुरक्षा और शरीर की प्रतिरक्षा प्रतिक्रिया का आकलन 18 से 55 वर्ष आयु वर्ग के 50 स्वस्थ […]",
-        "article": "कांगो में इबोला वायरस के बुंडीबुग्यो प्रकार से बचाव के लिए विकसित नए टीके का जल्द ही ब्रिटेन में वयस्कों पर परीक्षण शुरू किया जाएगा। ऑक्सफोर्ड विश्वविद्यालय के वैज्ञानिक इस टीके को विकसित कर रहे हैं। अब इसकी सुरक्षा और शरीर की प्रतिरक्षा प्रतिक्रिया का आकलन 18 से 55 वर्ष आयु वर्ग के 50 स्वस्थ वयस्कों पर किया जाएगा। विश्व स्वास्थ्य संगठन ने 17 मई को प्रकोप घोषित होने के तुरंत बाद इबोला के टीके के विकास को प्राथमिकता देने की सिफारिश की थी। इसके बाद वैज्ञानिकों ने लगभग आठ सप्ताह पहले इस टीके का विकास शुरू किया। परीक्षण के लिए स्वयंसेवकों का पंजीकरण शुरू हो गया है और ब्रिटेन के नियामक की मंजूरी मिलने के बाद आने वाले सप्ताहों में टीकाकरण शुरू किया जाएगा। कांगो में इबोला महामारी से अब तक 625 लोगों की मौत हो चुकी है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T15:34:32+00:00",
-        "link": "https://newsonair.gov.in/hi/a-new-vaccine-for-the-bundibugyo-strain-of-ebola-which-spread-in-congo-will-be-tested-in-britain/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/ebola-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "एक राष्ट्र, एक चुनाव पर संयुक्त संसदीय समिति ने लखनऊ में विशेषज्ञों और हितधारकों से की चर्चा",
-        "summary": "एक राष्ट्र, एक चुनाव के प्रस्तावित ढांचे की समीक्षा कर रही संयुक्त संसदीय समिति ने आज उत्‍तर प्रदेश के लखनऊ में विशेषज्ञों और हितधारकों के साथ चर्चा की। देशव्यापी परामर्श प्रक्रिया के अंतर्गत समिति उत्तर प्रदेश के दो दिवसीय दौरे पर है। समिति के सदस्य और भारतीय जनता पार्टी के लोकसभा सांसद अनुराग ठाकुर ने […]",
-        "article": "एक राष्ट्र, एक चुनाव के प्रस्तावित ढांचे की समीक्षा कर रही संयुक्त संसदीय समिति ने आज उत्&#x200d;तर प्रदेश के लखनऊ में विशेषज्ञों और हितधारकों के साथ चर्चा की। देशव्यापी परामर्श प्रक्रिया के अंतर्गत समिति उत्तर प्रदेश के दो दिवसीय दौरे पर है। समिति के सदस्य और भारतीय जनता पार्टी के लोकसभा सांसद अनुराग ठाकुर ने बताया कि समिति ने राज्य सरकार के वरिष्ठ अधिकारियों, मुख्य निर्वाचन अधिकारी, बैंकिंग क्षेत्र के प्रतिनिधियों और विधि विशेषज्ञों के साथ प्रस्तावित चुनाव सुधार पर उनके विचार जाने। चर्चा के दौरान श्री ठाकुर ने कहा कि एक साथ चुनाव कराने से संसाधनों की बड़ी बचत होगी और आदर्श आचार संहिता बार-बार लागू होने से होने वाली नीतिगत रुकावट में कमी आएगी। इससे शासन में निरंतरता भी सुनिश्चित होगी। समिति कल राजनीतिक दलों के प्रतिनिधियों और अन्य राजनीतिक दलों से मुलाकात कर देशभर में एक साथ चुनाव कराने के प्रस्ताव पर उनके विचार जानेगी। ये परामर्श &#8216;एक राष्ट्र, एक चुनाव&#8217; पहल पर अपनी सिफारिशों को अंतिम रूप देने से पहले समाज के विभिन्न वर्गों से सुझाव और प्रतिक्रिया जुटाने के लिए किए जा रहे हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T15:32:59+00:00",
-        "link": "https://newsonair.gov.in/hi/joint-parliamentary-committee-on-one-nation-one-election-holds-discussions-with-experts-and-stakeholders-in-lucknow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-13-210158.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वाणिज्य मंत्री पीयूष गोयल ने भारत-अमरीका व्यापार वार्ता में गतिरोध की खबरों का किया खंडन",
-        "summary": "वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज भारत-अमरीका व्यापार वार्ता में गतिरोध की मीडिया खबरों को पूरी तरह झूठा, निराधार और भ्रामक बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत और अमरीका की टीमें व्यापार समझौते को अंतिम रूप देने के लिए तेजी से काम कर रहे हैं। उन्होंने कहा […]",
-        "article": "वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज भारत-अमरीका व्यापार वार्ता में गतिरोध की मीडिया खबरों को पूरी तरह झूठा, निराधार और भ्रामक बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत और अमरीका की टीमें व्यापार समझौते को अंतिम रूप देने के लिए तेजी से काम कर रहे हैं। उन्होंने कहा कि इस संबंध में पिछले महीने नई दिल्ली में उनकी अमरीका के व्यापार प्रतिनिधि जैमीसन ग्रीर के साथ बेहद सकारात्मक बैठक हुई थी। श्री गोयल ने कहा कि दोनों पक्षों ने ऐसे समझौते के प्रति अपनी प्रतिबद्धता दोहराई है, जो दोनों देशों के व्यवसायों, किसानों, श्रमिकों और उपभोक्ताओं के हित में हो। उन्होंने कहा कि इस उद्देश्य को पूरा करने के लिए दोनों देशों की टीमें लगातार सक्रिय हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T15:29:56+00:00",
-        "link": "https://newsonair.gov.in/hi/commerce-minister-piyush-goyal-refuted-reports-of-a-deadlock-in-india-us-trade-talks/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Piyush.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वित्तमंत्री निर्मला सीतारमण ने सार्वजनिक क्षेत्र के बैंकों से एनआरआई तक अपनी पहुंच बढ़ाने को कहा",
-        "summary": "वित्तमंत्री निर्मला सीतारमण ने सार्वजनिक क्षेत्र के बैंकों से प्रवासी भारतीयों (एनआरआई) तक अपनी पहुंच बढ़ाने और नए जमा उत्पाद शुरू करने को कहा है। नई दिल्ली में बैंकों और सार्वजनिक वित्तीय संस्थानों के प्रबंध निदेशकों और मुख्य कार्यकारी अधिकारियों के साथ बातचीत में उन्होंने धन जुटाने की गति को बनाए रखने के लिए एनआरआई […]",
-        "article": "वित्तमंत्री निर्मला सीतारमण ने सार्वजनिक क्षेत्र के बैंकों से प्रवासी भारतीयों (एनआरआई) तक अपनी पहुंच बढ़ाने और नए जमा उत्पाद शुरू करने को कहा है। नई दिल्ली में बैंकों और सार्वजनिक वित्तीय संस्थानों के प्रबंध निदेशकों और मुख्य कार्यकारी अधिकारियों के साथ बातचीत में उन्होंने धन जुटाने की गति को बनाए रखने के लिए एनआरआई तक पहुंच बढ़ाने पर भी बल दिया। इस दौरान, बैंकों और सार्वजनिक वित्तीय संस्थानों के प्रबंध निदेशकों और मुख्य कार्यकारी अधिकारियों ने वित्तमंत्री को आरबीआई की स्वैप सुविधा योजनाओं के अंतर्गत हुई प्रगति से अवगत कराया। बैंकों और सार्वजनिक वित्तीय संस्थानों की भागीदारी विदेशी मुद्रा प्रवाह जुटाने में स्वैप सुविधाओं की प्रभावशीलता को रेखांकित करती है। उनकी भागीदारी देश के विदेशी मुद्रा भंडार को भी मजबूत करती है और वैश्विक अनिश्चितता के बीच देश को मजबूत करती है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T15:22:56+00:00",
-        "link": "https://newsonair.gov.in/hi/finance-minister-nirmala-sitharaman-asked-public-sector-banks-to-expand-their-reach-to-nris/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nirmala.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "भारत ने 2028-29 के लिए संयुक्त राष्ट्र सुरक्षा परिषद की अस्थायी सदस्य के रूप में चुनाव अभियान शुरू किया",
+        "summary": "भारत ने 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में चुनाव के लिए आधिकारिक तौर पर अपना अभियान शुरू कर दिया है। विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कल रात न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में वैश्विक शांति, सुरक्षा और विकास को बढ़ावा देने के लिए भारत का शांति […]",
+        "article": "भारत ने 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में चुनाव के लिए आधिकारिक तौर पर अपना अभियान शुरू कर दिया है। विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कल रात न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में वैश्विक शांति, सुरक्षा और विकास को बढ़ावा देने के लिए भारत का शांति दृष्टिकोण प्रस्&#x200d;तुत किया। उन्होंने कहा कि वैश्विक संघर्षों और अस्थिरता के बीच संयुक्&#x200d;त राष्&#x200d;ट्र की भूमिका पहले से अधिक महत्&#x200d;वपूर्ण हो गई है। डॉ. जयशंकर ने कहा कि भारत ने संयुक्त राष्ट्र के लगभग 50 शांति अभियानों में लगभग तीन लाख सुरक्षा कर्मियों का योगदान दिया है और वर्तमान में 10 संयुक्त राष्ट्र शांति अभियानों में 4 हजार 300 से अधिक सुरक्षाकर्मी कार्यरत हैं। उन्होंने कहा कि भारत ने निरंतर संवाद, कूटनीति का समर्थन किया है और विकासशील देशों की समस्&#x200d;याओं को प्रमुखता से उठाया है। डॉ. जयशंकर ने सदस्&#x200d;य देशों से भारत की उम्&#x200d;मीदवारी का समर्थन करने का आह्वान किया। उन्&#x200d;होंने कहा कि सुरक्षा परिषद में भारत की उपस्थिति इस महत्वपूर्ण निकाय में निर्णय प्रक्रिया को और सशक्&#x200d;त करेगी। भारत सुरक्षा परिषद के गैर-स्थायी सदस्य के रूप में आठ कार्यकाल पूरे कर चुका है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:54:42+00:00",
+        "link": "https://newsonair.gov.in/hi/india-has-launched-its-election-campaign-for-a-non-permanent-seat-on-the-united-nations-security-council-for-the-2028-29-term/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNIgQ1wXkAAbN-v.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
+        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
+        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:49:09+00:00",
+        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वियतनाम में स्पीड बोट हादसे में मारे गए 15 भारतीयों के पार्थिव शरीर स्वदेश लाए गए",
+        "summary": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि […]",
+        "article": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि आन्ध्रप्रदेश, केरल और तमिलनाडु की सरकारें इन शवों को उनके संबंधित राज्यों में उनके आवास पर पहुंचाने में समन्वय करेंगी। वियतनाम के अधिकारियों और सरकार के प्रति आभार व्यक्त करते हुए दूतावास ने बताया कि उनकी प्रार्थना, प्रयास और मौजूदगी ने इस दुख की घड़ी में शक्ति प्रदान की। 32 भारतीय पर्यटकों और चार स्थानीय क्रू के सद्स्यों वाली स्पीड बोट शुक्रवार को वियतनाम में फू क्वोक द्वीप में पलट गई। इस कारण 15 पर्यटकों की मृत्यु हो गई। इस दुर्घटना में बचने वाले 16 पर्यटक भी भारत लौट चुके हैं। इनमें से एक पर्यटक वियतनाम के एक अस्पताल में भर्ती है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:47:11+00:00",
+        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-a-speedboat-accident-in-vietnam-have-been-brought-back-to-the-country/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "एनटीए ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी किए",
+        "summary": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्‍तर देख सकते है। उम्‍मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े […]",
+        "article": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्&#x200d;तर देख सकते है। उम्&#x200d;मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार प्रश्न का चयन करके अपने चुने हुए विकल्प पर निशान लगा सकते हैं और 200 रुपये के शुल्क का भुगतान करके चुनौती दे सकते हैं। एजेंसी ने स्पष्ट किया है कि चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। ओएमआर चुनौती सुविधा इस महीने की 15 तारीख तक उपलब्ध रहेगी। उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:41:10+00:00",
+        "link": "https://newsonair.gov.in/hi/the-nta-released-the-omr-sheets-and-recorded-responses-for-the-neet-ug-2026-re-examination/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सूचना और प्रसारण मंत्रालय ने वेव्स 2027 के ‘क्रिएट इन इंडिया चैलेंज’ सीज़न-2 के लिए प्रस्ताव आमंत्रित किए",
+        "summary": "सूचना और प्रसारण मंत्रालय ने &#8216;वर्ल्ड ऑडियो विज़ुअल एंड एंटरटेनमेंट समिट&#8217; &#8211; वेव्स 2027 &#8216;क्रिएट इन इंडिया चैलेंज&#8217; सीज़न 2 के तहत उद्योग-संचालित चुनौतियों के लिए प्रस्ताव आमंत्रित किए हैं। &#8216;क्रिएट इन इंडिया चैलेंज&#8217; वेव्स के तहत एक प्रमुख पहल है। इस पहल का उद्देश्य मीडिया और मनोरंजन क्षेत्र में सृजकों की पहचान करना, उन्हें […]",
+        "article": "सूचना और प्रसारण मंत्रालय ने &#8216;वर्ल्ड ऑडियो विज़ुअल एंड एंटरटेनमेंट समिट&#8217; &#8211; वेव्स 2027 &#8216;क्रिएट इन इंडिया चैलेंज&#8217; सीज़न 2 के तहत उद्योग-संचालित चुनौतियों के लिए प्रस्ताव आमंत्रित किए हैं। &#8216;क्रिएट इन इंडिया चैलेंज&#8217; वेव्स के तहत एक प्रमुख पहल है। इस पहल का उद्देश्य मीडिया और मनोरंजन क्षेत्र में सृजकों की पहचान करना, उन्हें आगे बढ़ाना, उनके कौशल को बेहतर बनाना और उन्हें सबके सामने लाना है। सीज़न-2 का लक्ष्य ऐसी उद्योग संचालित, सरकार-समर्थित और युवाओं पर केंद्रित चुनौतियों को पूरा करना है, जो रचनात्मक प्रतिभा की पहचान करें और उन्हें निखारें, साथ ही कौशल को बेहतर बनाने और क्षमता निर्माण को बढ़ावा दें। इसका उद्देश्य मीडिया और मनोरंजन के क्षेत्रों में सहयोग के अवसर पैदा करना भी है। जिसमें आर्टिफिशियल इंटेलिजेंस, डिजिटल मीडिया और प्रौद्योगिकी पर आधारित अन्य रचनात्मक क्षेत्र शामिल हैं। इस चुनौती का समापन वेव्स 2027 के दौरान &#8216;क्रिएटोस्फीयर&#8217; में विजेताओं और उनके सफल परिणामों को प्रदर्शित करने के साथ होगा। मंत्रालय ने कहा कि प्रस्ताव जमा करने और चुनौतियों तथा उन्हें पूरा करने वाली संस्थाओं के चयन के लिए एक पारदर्शी और योग्यता-आधारित प्रणाली के ज़रिए एक एकीकृत पोर्टल बनाया गया है। मीडिया और मनोरंजन क्षेत्र की संस्थाओं को इस महीने की 31 तारीख तक wavesbazaar.com ऑनलाइन पोर्टल के माध्यम से अपने प्रस्ताव जमा करने के लिए आमंत्रित किया गया है। चुनी गई चुनौतियों को सफलतापूर्वक लागू करने में मदद के लिए, मंत्रालय प्रति चुनौती एक करोड़ रुपये तक का एकमुश्त अनुदान देगा।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:37:58+00:00",
+        "link": "https://newsonair.gov.in/hi/the-ministry-of-information-and-broadcasting-has-invited-proposals-for-season-2-of-the-create-in-india-challenge-under-waves-2027/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNHp5PpaQAA9q5c.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "नीट यूजी 2026 री-एग्जाम की OMR शीट जारी",
         "summary": "राष्ट्रीय परीक्षा एजेंसी &#8211; एनटीए ने आधिकारिक वेबसाइट neet.nta.nic.in पर उम्मीदवारों के लिए नीट यूजी 2026 की पुनः परीक्षा के लिए ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एनटीए ने बताया कि उम्मीदवार अपने आवेदन नंबर का उपयोग करके लॉग इन कर सकते हैं और अपने चिह्नित उत्तरों की तुलना स्कैन […]",
@@ -1211,67 +1267,66 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/launch-of-the-second-edition-of-the-national-innovation-challenge-for-drone-applications-and-research-under-the-swayan-initiative/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "बीएसएनएल के परिचालन राजस्व में 10% बढ़ोतरी",
-        "summary": "भारतीय संचार निगम लिमिटेड (बी.एस.एन.एल) ने वित्त वर्ष 2026-27 की पहली तिमाही में परिचालन से होने वाले राजस्व में लगभग 10 प्रतिशत की अस्थायी बढ़ोतरी दर्ज की है। संचार मंत्री ज्योतिरादित्य सिंधिया ने आज नई दिल्ली में बी.एस.एन.एल की रणनीतिक समीक्षा और योजना बैठक के बाद यह जानकारी दी। उन्होंने कहा कि कंपनी का परिचालन […]",
-        "article": "भारतीय संचार निगम लिमिटेड (बी.एस.एन.एल) ने वित्त वर्ष 2026-27 की पहली तिमाही में परिचालन से होने वाले राजस्व में लगभग 10 प्रतिशत की अस्थायी बढ़ोतरी दर्ज की है। संचार मंत्री ज्योतिरादित्य सिंधिया ने आज नई दिल्ली में बी.एस.एन.एल की रणनीतिक समीक्षा और योजना बैठक के बाद यह जानकारी दी। उन्होंने कहा कि कंपनी का परिचालन राजस्व पिछले वर्ष की पहली तिमाही के 4 हजार 17 करोड़ रुपये से बढ़कर इस वर्ष 4 हजार 418 करोड़ रुपये हो गया है। यह 401 करोड़ रुपये की बढ़ोतरी है। श्री सिंधिया ने कहा कि बी.एस.एन.एल के एंटरप्राइज कारोबार और मोबाइल सेवाओं के क्षेत्र में अच्छी वृद्धि हुई है। वहीं, फिक्स्ड एक्सेस सेवाओं का कारोबार लगभग स्थिर रहा है। उन्होंने बताया कि बी.एस.एन.एल का प्रति उपभोक्ता औसत राजस्व भी अस्थायी तौर पर 100 रुपये से बढ़कर 102 रुपये 70 पैसे हो गया है। संचार मंत्री ने कहा कि बीएसएनएल लगातार विकास की दिशा में आगे बढ़ रहा है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:36:51+00:00",
-        "link": "https://newsonair.gov.in/hi/bsnls-operating-revenue-rises-10/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/BSNL.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "एक राष्ट्र, एक चुनाव पर संयुक्त संसदीय समिति ने लखनऊ में विशेषज्ञों और हितधारकों से की चर्चा",
-        "summary": "एक राष्ट्र, एक चुनाव के प्रस्तावित ढांचे की समीक्षा कर रही संयुक्त संसदीय समिति ने आज उत्‍तर प्रदेश के लखनऊ में विशेषज्ञों और हितधारकों के साथ चर्चा की। देशव्यापी परामर्श प्रक्रिया के अंतर्गत समिति उत्तर प्रदेश के दो दिवसीय दौरे पर है। समिति के सदस्य और भारतीय जनता पार्टी के लोकसभा सांसद अनुराग ठाकुर ने […]",
-        "article": "एक राष्ट्र, एक चुनाव के प्रस्तावित ढांचे की समीक्षा कर रही संयुक्त संसदीय समिति ने आज उत्&#x200d;तर प्रदेश के लखनऊ में विशेषज्ञों और हितधारकों के साथ चर्चा की। देशव्यापी परामर्श प्रक्रिया के अंतर्गत समिति उत्तर प्रदेश के दो दिवसीय दौरे पर है। समिति के सदस्य और भारतीय जनता पार्टी के लोकसभा सांसद अनुराग ठाकुर ने बताया कि समिति ने राज्य सरकार के वरिष्ठ अधिकारियों, मुख्य निर्वाचन अधिकारी, बैंकिंग क्षेत्र के प्रतिनिधियों और विधि विशेषज्ञों के साथ प्रस्तावित चुनाव सुधार पर उनके विचार जाने। चर्चा के दौरान श्री ठाकुर ने कहा कि एक साथ चुनाव कराने से संसाधनों की बड़ी बचत होगी और आदर्श आचार संहिता बार-बार लागू होने से होने वाली नीतिगत रुकावट में कमी आएगी। इससे शासन में निरंतरता भी सुनिश्चित होगी। समिति कल राजनीतिक दलों के प्रतिनिधियों और अन्य राजनीतिक दलों से मुलाकात कर देशभर में एक साथ चुनाव कराने के प्रस्ताव पर उनके विचार जानेगी। ये परामर्श &#8216;एक राष्ट्र, एक चुनाव&#8217; पहल पर अपनी सिफारिशों को अंतिम रूप देने से पहले समाज के विभिन्न वर्गों से सुझाव और प्रतिक्रिया जुटाने के लिए किए जा रहे हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T15:32:59+00:00",
-        "link": "https://newsonair.gov.in/hi/joint-parliamentary-committee-on-one-nation-one-election-holds-discussions-with-experts-and-stakeholders-in-lucknow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-13-210158.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वाणिज्य मंत्री पीयूष गोयल ने भारत-अमरीका व्यापार वार्ता में गतिरोध की खबरों का किया खंडन",
-        "summary": "वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज भारत-अमरीका व्यापार वार्ता में गतिरोध की मीडिया खबरों को पूरी तरह झूठा, निराधार और भ्रामक बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत और अमरीका की टीमें व्यापार समझौते को अंतिम रूप देने के लिए तेजी से काम कर रहे हैं। उन्होंने कहा […]",
-        "article": "वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज भारत-अमरीका व्यापार वार्ता में गतिरोध की मीडिया खबरों को पूरी तरह झूठा, निराधार और भ्रामक बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत और अमरीका की टीमें व्यापार समझौते को अंतिम रूप देने के लिए तेजी से काम कर रहे हैं। उन्होंने कहा कि इस संबंध में पिछले महीने नई दिल्ली में उनकी अमरीका के व्यापार प्रतिनिधि जैमीसन ग्रीर के साथ बेहद सकारात्मक बैठक हुई थी। श्री गोयल ने कहा कि दोनों पक्षों ने ऐसे समझौते के प्रति अपनी प्रतिबद्धता दोहराई है, जो दोनों देशों के व्यवसायों, किसानों, श्रमिकों और उपभोक्ताओं के हित में हो। उन्होंने कहा कि इस उद्देश्य को पूरा करने के लिए दोनों देशों की टीमें लगातार सक्रिय हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T15:29:56+00:00",
-        "link": "https://newsonair.gov.in/hi/commerce-minister-piyush-goyal-refuted-reports-of-a-deadlock-in-india-us-trade-talks/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Piyush.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वित्तमंत्री निर्मला सीतारमण ने सार्वजनिक क्षेत्र के बैंकों से एनआरआई तक अपनी पहुंच बढ़ाने को कहा",
-        "summary": "वित्तमंत्री निर्मला सीतारमण ने सार्वजनिक क्षेत्र के बैंकों से प्रवासी भारतीयों (एनआरआई) तक अपनी पहुंच बढ़ाने और नए जमा उत्पाद शुरू करने को कहा है। नई दिल्ली में बैंकों और सार्वजनिक वित्तीय संस्थानों के प्रबंध निदेशकों और मुख्य कार्यकारी अधिकारियों के साथ बातचीत में उन्होंने धन जुटाने की गति को बनाए रखने के लिए एनआरआई […]",
-        "article": "वित्तमंत्री निर्मला सीतारमण ने सार्वजनिक क्षेत्र के बैंकों से प्रवासी भारतीयों (एनआरआई) तक अपनी पहुंच बढ़ाने और नए जमा उत्पाद शुरू करने को कहा है। नई दिल्ली में बैंकों और सार्वजनिक वित्तीय संस्थानों के प्रबंध निदेशकों और मुख्य कार्यकारी अधिकारियों के साथ बातचीत में उन्होंने धन जुटाने की गति को बनाए रखने के लिए एनआरआई तक पहुंच बढ़ाने पर भी बल दिया। इस दौरान, बैंकों और सार्वजनिक वित्तीय संस्थानों के प्रबंध निदेशकों और मुख्य कार्यकारी अधिकारियों ने वित्तमंत्री को आरबीआई की स्वैप सुविधा योजनाओं के अंतर्गत हुई प्रगति से अवगत कराया। बैंकों और सार्वजनिक वित्तीय संस्थानों की भागीदारी विदेशी मुद्रा प्रवाह जुटाने में स्वैप सुविधाओं की प्रभावशीलता को रेखांकित करती है। उनकी भागीदारी देश के विदेशी मुद्रा भंडार को भी मजबूत करती है और वैश्विक अनिश्चितता के बीच देश को मजबूत करती है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T15:22:56+00:00",
-        "link": "https://newsonair.gov.in/hi/finance-minister-nirmala-sitharaman-asked-public-sector-banks-to-expand-their-reach-to-nris/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nirmala.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतीय रिजर्व बैंक ने मुंबई में इंटरनल ओम्बड्समैन का तीसरा वार्षिक सम्मेलन आयोजित किया",
-        "summary": "भारतीय रिजर्व बैंक ने आज मुंबई में इंटरनल ओम्बड्समैन का तीसरा वार्षिक सम्मेलन आयोजित किया। इसमें बैंकों, गैर-बैंकिंग वित्तीय कंपनियों, क्रेडिट सूचना कंपनियों तथा रिजर्व बैंक के लोकपालों के प्रतिनिधियों ने भाग लिया। सम्मेलन को संबोधित करते हुए भारतीय रिजर्व बैंक के उप-गवर्नर स्वामीनाथन जे. ने अधिकारियों को निर्देश दिया कि ग्राहकों की शिकायतों का […]",
-        "article": "भारतीय रिजर्व बैंक ने आज मुंबई में इंटरनल ओम्बड्समैन का तीसरा वार्षिक सम्मेलन आयोजित किया। इसमें बैंकों, गैर-बैंकिंग वित्तीय कंपनियों, क्रेडिट सूचना कंपनियों तथा रिजर्व बैंक के लोकपालों के प्रतिनिधियों ने भाग लिया। सम्मेलन को संबोधित करते हुए भारतीय रिजर्व बैंक के उप-गवर्नर स्वामीनाथन जे. ने अधिकारियों को निर्देश दिया कि ग्राहकों की शिकायतों का सार्थक, निष्पक्ष और प्रभावी समाधान सुनिश्चित किया जाए। साथ ही, बार-बार सामने आने वाली समस्याओं की पहचान कर उनके मूल कारणों का विश्लेषण किया जाए और सुधारात्मक उपाय लागू किए जाएं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T15:26:42+00:00",
-        "link": "https://newsonair.gov.in/hi/the-reserve-bank-of-india-organized-the-third-annual-conference-of-internal-ombudsmen-in-mumbai/",
-        "post_id": 1736005,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "भारत ने 2028-29 के लिए संयुक्त राष्ट्र सुरक्षा परिषद की अस्थायी सदस्य के रूप में चुनाव अभियान शुरू किया",
+        "summary": "भारत ने 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में चुनाव के लिए आधिकारिक तौर पर अपना अभियान शुरू कर दिया है। विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कल रात न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में वैश्विक शांति, सुरक्षा और विकास को बढ़ावा देने के लिए भारत का शांति […]",
+        "article": "भारत ने 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में चुनाव के लिए आधिकारिक तौर पर अपना अभियान शुरू कर दिया है। विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कल रात न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में वैश्विक शांति, सुरक्षा और विकास को बढ़ावा देने के लिए भारत का शांति दृष्टिकोण प्रस्&#x200d;तुत किया। उन्होंने कहा कि वैश्विक संघर्षों और अस्थिरता के बीच संयुक्&#x200d;त राष्&#x200d;ट्र की भूमिका पहले से अधिक महत्&#x200d;वपूर्ण हो गई है। डॉ. जयशंकर ने कहा कि भारत ने संयुक्त राष्ट्र के लगभग 50 शांति अभियानों में लगभग तीन लाख सुरक्षा कर्मियों का योगदान दिया है और वर्तमान में 10 संयुक्त राष्ट्र शांति अभियानों में 4 हजार 300 से अधिक सुरक्षाकर्मी कार्यरत हैं। उन्होंने कहा कि भारत ने निरंतर संवाद, कूटनीति का समर्थन किया है और विकासशील देशों की समस्&#x200d;याओं को प्रमुखता से उठाया है। डॉ. जयशंकर ने सदस्&#x200d;य देशों से भारत की उम्&#x200d;मीदवारी का समर्थन करने का आह्वान किया। उन्&#x200d;होंने कहा कि सुरक्षा परिषद में भारत की उपस्थिति इस महत्वपूर्ण निकाय में निर्णय प्रक्रिया को और सशक्&#x200d;त करेगी। भारत सुरक्षा परिषद के गैर-स्थायी सदस्य के रूप में आठ कार्यकाल पूरे कर चुका है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:54:42+00:00",
+        "link": "https://newsonair.gov.in/hi/india-has-launched-its-election-campaign-for-a-non-permanent-seat-on-the-united-nations-security-council-for-the-2028-29-term/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNIgQ1wXkAAbN-v.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
+        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
+        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:49:09+00:00",
+        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वियतनाम में स्पीड बोट हादसे में मारे गए 15 भारतीयों के पार्थिव शरीर स्वदेश लाए गए",
+        "summary": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि […]",
+        "article": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि आन्ध्रप्रदेश, केरल और तमिलनाडु की सरकारें इन शवों को उनके संबंधित राज्यों में उनके आवास पर पहुंचाने में समन्वय करेंगी। वियतनाम के अधिकारियों और सरकार के प्रति आभार व्यक्त करते हुए दूतावास ने बताया कि उनकी प्रार्थना, प्रयास और मौजूदगी ने इस दुख की घड़ी में शक्ति प्रदान की। 32 भारतीय पर्यटकों और चार स्थानीय क्रू के सद्स्यों वाली स्पीड बोट शुक्रवार को वियतनाम में फू क्वोक द्वीप में पलट गई। इस कारण 15 पर्यटकों की मृत्यु हो गई। इस दुर्घटना में बचने वाले 16 पर्यटक भी भारत लौट चुके हैं। इनमें से एक पर्यटक वियतनाम के एक अस्पताल में भर्ती है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:47:11+00:00",
+        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-a-speedboat-accident-in-vietnam-have-been-brought-back-to-the-country/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "एनटीए ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी किए",
+        "summary": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्‍तर देख सकते है। उम्‍मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े […]",
+        "article": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्&#x200d;तर देख सकते है। उम्&#x200d;मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार प्रश्न का चयन करके अपने चुने हुए विकल्प पर निशान लगा सकते हैं और 200 रुपये के शुल्क का भुगतान करके चुनौती दे सकते हैं। एजेंसी ने स्पष्ट किया है कि चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। ओएमआर चुनौती सुविधा इस महीने की 15 तारीख तक उपलब्ध रहेगी। उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:41:10+00:00",
+        "link": "https://newsonair.gov.in/hi/the-nta-released-the-omr-sheets-and-recorded-responses-for-the-neet-ug-2026-re-examination/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सूचना और प्रसारण मंत्रालय ने वेव्स 2027 के ‘क्रिएट इन इंडिया चैलेंज’ सीज़न-2 के लिए प्रस्ताव आमंत्रित किए",
+        "summary": "सूचना और प्रसारण मंत्रालय ने &#8216;वर्ल्ड ऑडियो विज़ुअल एंड एंटरटेनमेंट समिट&#8217; &#8211; वेव्स 2027 &#8216;क्रिएट इन इंडिया चैलेंज&#8217; सीज़न 2 के तहत उद्योग-संचालित चुनौतियों के लिए प्रस्ताव आमंत्रित किए हैं। &#8216;क्रिएट इन इंडिया चैलेंज&#8217; वेव्स के तहत एक प्रमुख पहल है। इस पहल का उद्देश्य मीडिया और मनोरंजन क्षेत्र में सृजकों की पहचान करना, उन्हें […]",
+        "article": "सूचना और प्रसारण मंत्रालय ने &#8216;वर्ल्ड ऑडियो विज़ुअल एंड एंटरटेनमेंट समिट&#8217; &#8211; वेव्स 2027 &#8216;क्रिएट इन इंडिया चैलेंज&#8217; सीज़न 2 के तहत उद्योग-संचालित चुनौतियों के लिए प्रस्ताव आमंत्रित किए हैं। &#8216;क्रिएट इन इंडिया चैलेंज&#8217; वेव्स के तहत एक प्रमुख पहल है। इस पहल का उद्देश्य मीडिया और मनोरंजन क्षेत्र में सृजकों की पहचान करना, उन्हें आगे बढ़ाना, उनके कौशल को बेहतर बनाना और उन्हें सबके सामने लाना है। सीज़न-2 का लक्ष्य ऐसी उद्योग संचालित, सरकार-समर्थित और युवाओं पर केंद्रित चुनौतियों को पूरा करना है, जो रचनात्मक प्रतिभा की पहचान करें और उन्हें निखारें, साथ ही कौशल को बेहतर बनाने और क्षमता निर्माण को बढ़ावा दें। इसका उद्देश्य मीडिया और मनोरंजन के क्षेत्रों में सहयोग के अवसर पैदा करना भी है। जिसमें आर्टिफिशियल इंटेलिजेंस, डिजिटल मीडिया और प्रौद्योगिकी पर आधारित अन्य रचनात्मक क्षेत्र शामिल हैं। इस चुनौती का समापन वेव्स 2027 के दौरान &#8216;क्रिएटोस्फीयर&#8217; में विजेताओं और उनके सफल परिणामों को प्रदर्शित करने के साथ होगा। मंत्रालय ने कहा कि प्रस्ताव जमा करने और चुनौतियों तथा उन्हें पूरा करने वाली संस्थाओं के चयन के लिए एक पारदर्शी और योग्यता-आधारित प्रणाली के ज़रिए एक एकीकृत पोर्टल बनाया गया है। मीडिया और मनोरंजन क्षेत्र की संस्थाओं को इस महीने की 31 तारीख तक wavesbazaar.com ऑनलाइन पोर्टल के माध्यम से अपने प्रस्ताव जमा करने के लिए आमंत्रित किया गया है। चुनी गई चुनौतियों को सफलतापूर्वक लागू करने में मदद के लिए, मंत्रालय प्रति चुनौती एक करोड़ रुपये तक का एकमुश्त अनुदान देगा।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:37:58+00:00",
+        "link": "https://newsonair.gov.in/hi/the-ministry-of-information-and-broadcasting-has-invited-proposals-for-season-2-of-the-create-in-india-challenge-under-waves-2027/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNHp5PpaQAA9q5c.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "नीट यूजी 2026 री-एग्जाम की OMR शीट जारी",
         "summary": "राष्ट्रीय परीक्षा एजेंसी &#8211; एनटीए ने आधिकारिक वेबसाइट neet.nta.nic.in पर उम्मीदवारों के लिए नीट यूजी 2026 की पुनः परीक्षा के लिए ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एनटीए ने बताया कि उम्मीदवार अपने आवेदन नंबर का उपयोग करके लॉग इन कर सकते हैं और अपने चिह्नित उत्तरों की तुलना स्कैन […]",
         "article": "राष्ट्रीय परीक्षा एजेंसी &#8211; एनटीए ने आधिकारिक वेबसाइट neet.nta.nic.in पर उम्मीदवारों के लिए नीट यूजी 2026 की पुनः परीक्षा के लिए ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एनटीए ने बताया कि उम्मीदवार अपने आवेदन नंबर का उपयोग करके लॉग इन कर सकते हैं और अपने चिह्नित उत्तरों की तुलना स्कैन किए गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार 200 रुपये के शुल्क का भुगतान करके चुनौती दर्ज कर सकते हैं। चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। यह सुविधा 15 जुलाई तक उपलब्ध रहेगी। सहायता के लिए उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
@@ -1324,67 +1379,66 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/launch-of-the-second-edition-of-the-national-innovation-challenge-for-drone-applications-and-research-under-the-swayan-initiative/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "बीएसएनएल के परिचालन राजस्व में 10% बढ़ोतरी",
-        "summary": "भारतीय संचार निगम लिमिटेड (बी.एस.एन.एल) ने वित्त वर्ष 2026-27 की पहली तिमाही में परिचालन से होने वाले राजस्व में लगभग 10 प्रतिशत की अस्थायी बढ़ोतरी दर्ज की है। संचार मंत्री ज्योतिरादित्य सिंधिया ने आज नई दिल्ली में बी.एस.एन.एल की रणनीतिक समीक्षा और योजना बैठक के बाद यह जानकारी दी। उन्होंने कहा कि कंपनी का परिचालन […]",
-        "article": "भारतीय संचार निगम लिमिटेड (बी.एस.एन.एल) ने वित्त वर्ष 2026-27 की पहली तिमाही में परिचालन से होने वाले राजस्व में लगभग 10 प्रतिशत की अस्थायी बढ़ोतरी दर्ज की है। संचार मंत्री ज्योतिरादित्य सिंधिया ने आज नई दिल्ली में बी.एस.एन.एल की रणनीतिक समीक्षा और योजना बैठक के बाद यह जानकारी दी। उन्होंने कहा कि कंपनी का परिचालन राजस्व पिछले वर्ष की पहली तिमाही के 4 हजार 17 करोड़ रुपये से बढ़कर इस वर्ष 4 हजार 418 करोड़ रुपये हो गया है। यह 401 करोड़ रुपये की बढ़ोतरी है। श्री सिंधिया ने कहा कि बी.एस.एन.एल के एंटरप्राइज कारोबार और मोबाइल सेवाओं के क्षेत्र में अच्छी वृद्धि हुई है। वहीं, फिक्स्ड एक्सेस सेवाओं का कारोबार लगभग स्थिर रहा है। उन्होंने बताया कि बी.एस.एन.एल का प्रति उपभोक्ता औसत राजस्व भी अस्थायी तौर पर 100 रुपये से बढ़कर 102 रुपये 70 पैसे हो गया है। संचार मंत्री ने कहा कि बीएसएनएल लगातार विकास की दिशा में आगे बढ़ रहा है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:36:51+00:00",
-        "link": "https://newsonair.gov.in/hi/bsnls-operating-revenue-rises-10/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/BSNL.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "एक राष्ट्र, एक चुनाव पर संयुक्त संसदीय समिति ने लखनऊ में विशेषज्ञों और हितधारकों से की चर्चा",
-        "summary": "एक राष्ट्र, एक चुनाव के प्रस्तावित ढांचे की समीक्षा कर रही संयुक्त संसदीय समिति ने आज उत्‍तर प्रदेश के लखनऊ में विशेषज्ञों और हितधारकों के साथ चर्चा की। देशव्यापी परामर्श प्रक्रिया के अंतर्गत समिति उत्तर प्रदेश के दो दिवसीय दौरे पर है। समिति के सदस्य और भारतीय जनता पार्टी के लोकसभा सांसद अनुराग ठाकुर ने […]",
-        "article": "एक राष्ट्र, एक चुनाव के प्रस्तावित ढांचे की समीक्षा कर रही संयुक्त संसदीय समिति ने आज उत्&#x200d;तर प्रदेश के लखनऊ में विशेषज्ञों और हितधारकों के साथ चर्चा की। देशव्यापी परामर्श प्रक्रिया के अंतर्गत समिति उत्तर प्रदेश के दो दिवसीय दौरे पर है। समिति के सदस्य और भारतीय जनता पार्टी के लोकसभा सांसद अनुराग ठाकुर ने बताया कि समिति ने राज्य सरकार के वरिष्ठ अधिकारियों, मुख्य निर्वाचन अधिकारी, बैंकिंग क्षेत्र के प्रतिनिधियों और विधि विशेषज्ञों के साथ प्रस्तावित चुनाव सुधार पर उनके विचार जाने। चर्चा के दौरान श्री ठाकुर ने कहा कि एक साथ चुनाव कराने से संसाधनों की बड़ी बचत होगी और आदर्श आचार संहिता बार-बार लागू होने से होने वाली नीतिगत रुकावट में कमी आएगी। इससे शासन में निरंतरता भी सुनिश्चित होगी। समिति कल राजनीतिक दलों के प्रतिनिधियों और अन्य राजनीतिक दलों से मुलाकात कर देशभर में एक साथ चुनाव कराने के प्रस्ताव पर उनके विचार जानेगी। ये परामर्श &#8216;एक राष्ट्र, एक चुनाव&#8217; पहल पर अपनी सिफारिशों को अंतिम रूप देने से पहले समाज के विभिन्न वर्गों से सुझाव और प्रतिक्रिया जुटाने के लिए किए जा रहे हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T15:32:59+00:00",
-        "link": "https://newsonair.gov.in/hi/joint-parliamentary-committee-on-one-nation-one-election-holds-discussions-with-experts-and-stakeholders-in-lucknow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-13-210158.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वाणिज्य मंत्री पीयूष गोयल ने भारत-अमरीका व्यापार वार्ता में गतिरोध की खबरों का किया खंडन",
-        "summary": "वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज भारत-अमरीका व्यापार वार्ता में गतिरोध की मीडिया खबरों को पूरी तरह झूठा, निराधार और भ्रामक बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत और अमरीका की टीमें व्यापार समझौते को अंतिम रूप देने के लिए तेजी से काम कर रहे हैं। उन्होंने कहा […]",
-        "article": "वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज भारत-अमरीका व्यापार वार्ता में गतिरोध की मीडिया खबरों को पूरी तरह झूठा, निराधार और भ्रामक बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत और अमरीका की टीमें व्यापार समझौते को अंतिम रूप देने के लिए तेजी से काम कर रहे हैं। उन्होंने कहा कि इस संबंध में पिछले महीने नई दिल्ली में उनकी अमरीका के व्यापार प्रतिनिधि जैमीसन ग्रीर के साथ बेहद सकारात्मक बैठक हुई थी। श्री गोयल ने कहा कि दोनों पक्षों ने ऐसे समझौते के प्रति अपनी प्रतिबद्धता दोहराई है, जो दोनों देशों के व्यवसायों, किसानों, श्रमिकों और उपभोक्ताओं के हित में हो। उन्होंने कहा कि इस उद्देश्य को पूरा करने के लिए दोनों देशों की टीमें लगातार सक्रिय हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T15:29:56+00:00",
-        "link": "https://newsonair.gov.in/hi/commerce-minister-piyush-goyal-refuted-reports-of-a-deadlock-in-india-us-trade-talks/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Piyush.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वित्तमंत्री निर्मला सीतारमण ने सार्वजनिक क्षेत्र के बैंकों से एनआरआई तक अपनी पहुंच बढ़ाने को कहा",
-        "summary": "वित्तमंत्री निर्मला सीतारमण ने सार्वजनिक क्षेत्र के बैंकों से प्रवासी भारतीयों (एनआरआई) तक अपनी पहुंच बढ़ाने और नए जमा उत्पाद शुरू करने को कहा है। नई दिल्ली में बैंकों और सार्वजनिक वित्तीय संस्थानों के प्रबंध निदेशकों और मुख्य कार्यकारी अधिकारियों के साथ बातचीत में उन्होंने धन जुटाने की गति को बनाए रखने के लिए एनआरआई […]",
-        "article": "वित्तमंत्री निर्मला सीतारमण ने सार्वजनिक क्षेत्र के बैंकों से प्रवासी भारतीयों (एनआरआई) तक अपनी पहुंच बढ़ाने और नए जमा उत्पाद शुरू करने को कहा है। नई दिल्ली में बैंकों और सार्वजनिक वित्तीय संस्थानों के प्रबंध निदेशकों और मुख्य कार्यकारी अधिकारियों के साथ बातचीत में उन्होंने धन जुटाने की गति को बनाए रखने के लिए एनआरआई तक पहुंच बढ़ाने पर भी बल दिया। इस दौरान, बैंकों और सार्वजनिक वित्तीय संस्थानों के प्रबंध निदेशकों और मुख्य कार्यकारी अधिकारियों ने वित्तमंत्री को आरबीआई की स्वैप सुविधा योजनाओं के अंतर्गत हुई प्रगति से अवगत कराया। बैंकों और सार्वजनिक वित्तीय संस्थानों की भागीदारी विदेशी मुद्रा प्रवाह जुटाने में स्वैप सुविधाओं की प्रभावशीलता को रेखांकित करती है। उनकी भागीदारी देश के विदेशी मुद्रा भंडार को भी मजबूत करती है और वैश्विक अनिश्चितता के बीच देश को मजबूत करती है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T15:22:56+00:00",
-        "link": "https://newsonair.gov.in/hi/finance-minister-nirmala-sitharaman-asked-public-sector-banks-to-expand-their-reach-to-nris/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nirmala.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतीय रिजर्व बैंक ने मुंबई में इंटरनल ओम्बड्समैन का तीसरा वार्षिक सम्मेलन आयोजित किया",
-        "summary": "भारतीय रिजर्व बैंक ने आज मुंबई में इंटरनल ओम्बड्समैन का तीसरा वार्षिक सम्मेलन आयोजित किया। इसमें बैंकों, गैर-बैंकिंग वित्तीय कंपनियों, क्रेडिट सूचना कंपनियों तथा रिजर्व बैंक के लोकपालों के प्रतिनिधियों ने भाग लिया। सम्मेलन को संबोधित करते हुए भारतीय रिजर्व बैंक के उप-गवर्नर स्वामीनाथन जे. ने अधिकारियों को निर्देश दिया कि ग्राहकों की शिकायतों का […]",
-        "article": "भारतीय रिजर्व बैंक ने आज मुंबई में इंटरनल ओम्बड्समैन का तीसरा वार्षिक सम्मेलन आयोजित किया। इसमें बैंकों, गैर-बैंकिंग वित्तीय कंपनियों, क्रेडिट सूचना कंपनियों तथा रिजर्व बैंक के लोकपालों के प्रतिनिधियों ने भाग लिया। सम्मेलन को संबोधित करते हुए भारतीय रिजर्व बैंक के उप-गवर्नर स्वामीनाथन जे. ने अधिकारियों को निर्देश दिया कि ग्राहकों की शिकायतों का सार्थक, निष्पक्ष और प्रभावी समाधान सुनिश्चित किया जाए। साथ ही, बार-बार सामने आने वाली समस्याओं की पहचान कर उनके मूल कारणों का विश्लेषण किया जाए और सुधारात्मक उपाय लागू किए जाएं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T15:26:42+00:00",
-        "link": "https://newsonair.gov.in/hi/the-reserve-bank-of-india-organized-the-third-annual-conference-of-internal-ombudsmen-in-mumbai/",
-        "post_id": 1736005,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "भारत ने 2028-29 के लिए संयुक्त राष्ट्र सुरक्षा परिषद की अस्थायी सदस्य के रूप में चुनाव अभियान शुरू किया",
+        "summary": "भारत ने 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में चुनाव के लिए आधिकारिक तौर पर अपना अभियान शुरू कर दिया है। विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कल रात न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में वैश्विक शांति, सुरक्षा और विकास को बढ़ावा देने के लिए भारत का शांति […]",
+        "article": "भारत ने 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में चुनाव के लिए आधिकारिक तौर पर अपना अभियान शुरू कर दिया है। विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कल रात न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में वैश्विक शांति, सुरक्षा और विकास को बढ़ावा देने के लिए भारत का शांति दृष्टिकोण प्रस्&#x200d;तुत किया। उन्होंने कहा कि वैश्विक संघर्षों और अस्थिरता के बीच संयुक्&#x200d;त राष्&#x200d;ट्र की भूमिका पहले से अधिक महत्&#x200d;वपूर्ण हो गई है। डॉ. जयशंकर ने कहा कि भारत ने संयुक्त राष्ट्र के लगभग 50 शांति अभियानों में लगभग तीन लाख सुरक्षा कर्मियों का योगदान दिया है और वर्तमान में 10 संयुक्त राष्ट्र शांति अभियानों में 4 हजार 300 से अधिक सुरक्षाकर्मी कार्यरत हैं। उन्होंने कहा कि भारत ने निरंतर संवाद, कूटनीति का समर्थन किया है और विकासशील देशों की समस्&#x200d;याओं को प्रमुखता से उठाया है। डॉ. जयशंकर ने सदस्&#x200d;य देशों से भारत की उम्&#x200d;मीदवारी का समर्थन करने का आह्वान किया। उन्&#x200d;होंने कहा कि सुरक्षा परिषद में भारत की उपस्थिति इस महत्वपूर्ण निकाय में निर्णय प्रक्रिया को और सशक्&#x200d;त करेगी। भारत सुरक्षा परिषद के गैर-स्थायी सदस्य के रूप में आठ कार्यकाल पूरे कर चुका है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:54:42+00:00",
+        "link": "https://newsonair.gov.in/hi/india-has-launched-its-election-campaign-for-a-non-permanent-seat-on-the-united-nations-security-council-for-the-2028-29-term/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNIgQ1wXkAAbN-v.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
+        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
+        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:49:09+00:00",
+        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वियतनाम में स्पीड बोट हादसे में मारे गए 15 भारतीयों के पार्थिव शरीर स्वदेश लाए गए",
+        "summary": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि […]",
+        "article": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि आन्ध्रप्रदेश, केरल और तमिलनाडु की सरकारें इन शवों को उनके संबंधित राज्यों में उनके आवास पर पहुंचाने में समन्वय करेंगी। वियतनाम के अधिकारियों और सरकार के प्रति आभार व्यक्त करते हुए दूतावास ने बताया कि उनकी प्रार्थना, प्रयास और मौजूदगी ने इस दुख की घड़ी में शक्ति प्रदान की। 32 भारतीय पर्यटकों और चार स्थानीय क्रू के सद्स्यों वाली स्पीड बोट शुक्रवार को वियतनाम में फू क्वोक द्वीप में पलट गई। इस कारण 15 पर्यटकों की मृत्यु हो गई। इस दुर्घटना में बचने वाले 16 पर्यटक भी भारत लौट चुके हैं। इनमें से एक पर्यटक वियतनाम के एक अस्पताल में भर्ती है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:47:11+00:00",
+        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-a-speedboat-accident-in-vietnam-have-been-brought-back-to-the-country/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "एनटीए ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी किए",
+        "summary": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्‍तर देख सकते है। उम्‍मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े […]",
+        "article": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्&#x200d;तर देख सकते है। उम्&#x200d;मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार प्रश्न का चयन करके अपने चुने हुए विकल्प पर निशान लगा सकते हैं और 200 रुपये के शुल्क का भुगतान करके चुनौती दे सकते हैं। एजेंसी ने स्पष्ट किया है कि चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। ओएमआर चुनौती सुविधा इस महीने की 15 तारीख तक उपलब्ध रहेगी। उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:41:10+00:00",
+        "link": "https://newsonair.gov.in/hi/the-nta-released-the-omr-sheets-and-recorded-responses-for-the-neet-ug-2026-re-examination/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सूचना और प्रसारण मंत्रालय ने वेव्स 2027 के ‘क्रिएट इन इंडिया चैलेंज’ सीज़न-2 के लिए प्रस्ताव आमंत्रित किए",
+        "summary": "सूचना और प्रसारण मंत्रालय ने &#8216;वर्ल्ड ऑडियो विज़ुअल एंड एंटरटेनमेंट समिट&#8217; &#8211; वेव्स 2027 &#8216;क्रिएट इन इंडिया चैलेंज&#8217; सीज़न 2 के तहत उद्योग-संचालित चुनौतियों के लिए प्रस्ताव आमंत्रित किए हैं। &#8216;क्रिएट इन इंडिया चैलेंज&#8217; वेव्स के तहत एक प्रमुख पहल है। इस पहल का उद्देश्य मीडिया और मनोरंजन क्षेत्र में सृजकों की पहचान करना, उन्हें […]",
+        "article": "सूचना और प्रसारण मंत्रालय ने &#8216;वर्ल्ड ऑडियो विज़ुअल एंड एंटरटेनमेंट समिट&#8217; &#8211; वेव्स 2027 &#8216;क्रिएट इन इंडिया चैलेंज&#8217; सीज़न 2 के तहत उद्योग-संचालित चुनौतियों के लिए प्रस्ताव आमंत्रित किए हैं। &#8216;क्रिएट इन इंडिया चैलेंज&#8217; वेव्स के तहत एक प्रमुख पहल है। इस पहल का उद्देश्य मीडिया और मनोरंजन क्षेत्र में सृजकों की पहचान करना, उन्हें आगे बढ़ाना, उनके कौशल को बेहतर बनाना और उन्हें सबके सामने लाना है। सीज़न-2 का लक्ष्य ऐसी उद्योग संचालित, सरकार-समर्थित और युवाओं पर केंद्रित चुनौतियों को पूरा करना है, जो रचनात्मक प्रतिभा की पहचान करें और उन्हें निखारें, साथ ही कौशल को बेहतर बनाने और क्षमता निर्माण को बढ़ावा दें। इसका उद्देश्य मीडिया और मनोरंजन के क्षेत्रों में सहयोग के अवसर पैदा करना भी है। जिसमें आर्टिफिशियल इंटेलिजेंस, डिजिटल मीडिया और प्रौद्योगिकी पर आधारित अन्य रचनात्मक क्षेत्र शामिल हैं। इस चुनौती का समापन वेव्स 2027 के दौरान &#8216;क्रिएटोस्फीयर&#8217; में विजेताओं और उनके सफल परिणामों को प्रदर्शित करने के साथ होगा। मंत्रालय ने कहा कि प्रस्ताव जमा करने और चुनौतियों तथा उन्हें पूरा करने वाली संस्थाओं के चयन के लिए एक पारदर्शी और योग्यता-आधारित प्रणाली के ज़रिए एक एकीकृत पोर्टल बनाया गया है। मीडिया और मनोरंजन क्षेत्र की संस्थाओं को इस महीने की 31 तारीख तक wavesbazaar.com ऑनलाइन पोर्टल के माध्यम से अपने प्रस्ताव जमा करने के लिए आमंत्रित किया गया है। चुनी गई चुनौतियों को सफलतापूर्वक लागू करने में मदद के लिए, मंत्रालय प्रति चुनौती एक करोड़ रुपये तक का एकमुश्त अनुदान देगा।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:37:58+00:00",
+        "link": "https://newsonair.gov.in/hi/the-ministry-of-information-and-broadcasting-has-invited-proposals-for-season-2-of-the-create-in-india-challenge-under-waves-2027/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNHp5PpaQAA9q5c.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "नीट यूजी 2026 री-एग्जाम की OMR शीट जारी",
         "summary": "राष्ट्रीय परीक्षा एजेंसी &#8211; एनटीए ने आधिकारिक वेबसाइट neet.nta.nic.in पर उम्मीदवारों के लिए नीट यूजी 2026 की पुनः परीक्षा के लिए ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एनटीए ने बताया कि उम्मीदवार अपने आवेदन नंबर का उपयोग करके लॉग इन कर सकते हैं और अपने चिह्नित उत्तरों की तुलना स्कैन […]",
         "article": "राष्ट्रीय परीक्षा एजेंसी &#8211; एनटीए ने आधिकारिक वेबसाइट neet.nta.nic.in पर उम्मीदवारों के लिए नीट यूजी 2026 की पुनः परीक्षा के लिए ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एनटीए ने बताया कि उम्मीदवार अपने आवेदन नंबर का उपयोग करके लॉग इन कर सकते हैं और अपने चिह्नित उत्तरों की तुलना स्कैन किए गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार 200 रुपये के शुल्क का भुगतान करके चुनौती दर्ज कर सकते हैं। चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। यह सुविधा 15 जुलाई तक उपलब्ध रहेगी। सहायता के लिए उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
@@ -1438,65 +1492,20 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "बीएसएनएल के परिचालन राजस्व में 10% बढ़ोतरी",
-        "summary": "भारतीय संचार निगम लिमिटेड (बी.एस.एन.एल) ने वित्त वर्ष 2026-27 की पहली तिमाही में परिचालन से होने वाले राजस्व में लगभग 10 प्रतिशत की अस्थायी बढ़ोतरी दर्ज की है। संचार मंत्री ज्योतिरादित्य सिंधिया ने आज नई दिल्ली में बी.एस.एन.एल की रणनीतिक समीक्षा और योजना बैठक के बाद यह जानकारी दी। उन्होंने कहा कि कंपनी का परिचालन […]",
-        "article": "भारतीय संचार निगम लिमिटेड (बी.एस.एन.एल) ने वित्त वर्ष 2026-27 की पहली तिमाही में परिचालन से होने वाले राजस्व में लगभग 10 प्रतिशत की अस्थायी बढ़ोतरी दर्ज की है। संचार मंत्री ज्योतिरादित्य सिंधिया ने आज नई दिल्ली में बी.एस.एन.एल की रणनीतिक समीक्षा और योजना बैठक के बाद यह जानकारी दी। उन्होंने कहा कि कंपनी का परिचालन राजस्व पिछले वर्ष की पहली तिमाही के 4 हजार 17 करोड़ रुपये से बढ़कर इस वर्ष 4 हजार 418 करोड़ रुपये हो गया है। यह 401 करोड़ रुपये की बढ़ोतरी है। श्री सिंधिया ने कहा कि बी.एस.एन.एल के एंटरप्राइज कारोबार और मोबाइल सेवाओं के क्षेत्र में अच्छी वृद्धि हुई है। वहीं, फिक्स्ड एक्सेस सेवाओं का कारोबार लगभग स्थिर रहा है। उन्होंने बताया कि बी.एस.एन.एल का प्रति उपभोक्ता औसत राजस्व भी अस्थायी तौर पर 100 रुपये से बढ़कर 102 रुपये 70 पैसे हो गया है। संचार मंत्री ने कहा कि बीएसएनएल लगातार विकास की दिशा में आगे बढ़ रहा है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:36:51+00:00",
-        "link": "https://newsonair.gov.in/hi/bsnls-operating-revenue-rises-10/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/BSNL.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "एक राष्ट्र, एक चुनाव पर संयुक्त संसदीय समिति ने लखनऊ में विशेषज्ञों और हितधारकों से की चर्चा",
-        "summary": "एक राष्ट्र, एक चुनाव के प्रस्तावित ढांचे की समीक्षा कर रही संयुक्त संसदीय समिति ने आज उत्‍तर प्रदेश के लखनऊ में विशेषज्ञों और हितधारकों के साथ चर्चा की। देशव्यापी परामर्श प्रक्रिया के अंतर्गत समिति उत्तर प्रदेश के दो दिवसीय दौरे पर है। समिति के सदस्य और भारतीय जनता पार्टी के लोकसभा सांसद अनुराग ठाकुर ने […]",
-        "article": "एक राष्ट्र, एक चुनाव के प्रस्तावित ढांचे की समीक्षा कर रही संयुक्त संसदीय समिति ने आज उत्&#x200d;तर प्रदेश के लखनऊ में विशेषज्ञों और हितधारकों के साथ चर्चा की। देशव्यापी परामर्श प्रक्रिया के अंतर्गत समिति उत्तर प्रदेश के दो दिवसीय दौरे पर है। समिति के सदस्य और भारतीय जनता पार्टी के लोकसभा सांसद अनुराग ठाकुर ने बताया कि समिति ने राज्य सरकार के वरिष्ठ अधिकारियों, मुख्य निर्वाचन अधिकारी, बैंकिंग क्षेत्र के प्रतिनिधियों और विधि विशेषज्ञों के साथ प्रस्तावित चुनाव सुधार पर उनके विचार जाने। चर्चा के दौरान श्री ठाकुर ने कहा कि एक साथ चुनाव कराने से संसाधनों की बड़ी बचत होगी और आदर्श आचार संहिता बार-बार लागू होने से होने वाली नीतिगत रुकावट में कमी आएगी। इससे शासन में निरंतरता भी सुनिश्चित होगी। समिति कल राजनीतिक दलों के प्रतिनिधियों और अन्य राजनीतिक दलों से मुलाकात कर देशभर में एक साथ चुनाव कराने के प्रस्ताव पर उनके विचार जानेगी। ये परामर्श &#8216;एक राष्ट्र, एक चुनाव&#8217; पहल पर अपनी सिफारिशों को अंतिम रूप देने से पहले समाज के विभिन्न वर्गों से सुझाव और प्रतिक्रिया जुटाने के लिए किए जा रहे हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T15:32:59+00:00",
-        "link": "https://newsonair.gov.in/hi/joint-parliamentary-committee-on-one-nation-one-election-holds-discussions-with-experts-and-stakeholders-in-lucknow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-13-210158.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वाणिज्य मंत्री पीयूष गोयल ने भारत-अमरीका व्यापार वार्ता में गतिरोध की खबरों का किया खंडन",
-        "summary": "वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज भारत-अमरीका व्यापार वार्ता में गतिरोध की मीडिया खबरों को पूरी तरह झूठा, निराधार और भ्रामक बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत और अमरीका की टीमें व्यापार समझौते को अंतिम रूप देने के लिए तेजी से काम कर रहे हैं। उन्होंने कहा […]",
-        "article": "वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज भारत-अमरीका व्यापार वार्ता में गतिरोध की मीडिया खबरों को पूरी तरह झूठा, निराधार और भ्रामक बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत और अमरीका की टीमें व्यापार समझौते को अंतिम रूप देने के लिए तेजी से काम कर रहे हैं। उन्होंने कहा कि इस संबंध में पिछले महीने नई दिल्ली में उनकी अमरीका के व्यापार प्रतिनिधि जैमीसन ग्रीर के साथ बेहद सकारात्मक बैठक हुई थी। श्री गोयल ने कहा कि दोनों पक्षों ने ऐसे समझौते के प्रति अपनी प्रतिबद्धता दोहराई है, जो दोनों देशों के व्यवसायों, किसानों, श्रमिकों और उपभोक्ताओं के हित में हो। उन्होंने कहा कि इस उद्देश्य को पूरा करने के लिए दोनों देशों की टीमें लगातार सक्रिय हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T15:29:56+00:00",
-        "link": "https://newsonair.gov.in/hi/commerce-minister-piyush-goyal-refuted-reports-of-a-deadlock-in-india-us-trade-talks/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Piyush.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वित्तमंत्री निर्मला सीतारमण ने सार्वजनिक क्षेत्र के बैंकों से एनआरआई तक अपनी पहुंच बढ़ाने को कहा",
-        "summary": "वित्तमंत्री निर्मला सीतारमण ने सार्वजनिक क्षेत्र के बैंकों से प्रवासी भारतीयों (एनआरआई) तक अपनी पहुंच बढ़ाने और नए जमा उत्पाद शुरू करने को कहा है। नई दिल्ली में बैंकों और सार्वजनिक वित्तीय संस्थानों के प्रबंध निदेशकों और मुख्य कार्यकारी अधिकारियों के साथ बातचीत में उन्होंने धन जुटाने की गति को बनाए रखने के लिए एनआरआई […]",
-        "article": "वित्तमंत्री निर्मला सीतारमण ने सार्वजनिक क्षेत्र के बैंकों से प्रवासी भारतीयों (एनआरआई) तक अपनी पहुंच बढ़ाने और नए जमा उत्पाद शुरू करने को कहा है। नई दिल्ली में बैंकों और सार्वजनिक वित्तीय संस्थानों के प्रबंध निदेशकों और मुख्य कार्यकारी अधिकारियों के साथ बातचीत में उन्होंने धन जुटाने की गति को बनाए रखने के लिए एनआरआई तक पहुंच बढ़ाने पर भी बल दिया। इस दौरान, बैंकों और सार्वजनिक वित्तीय संस्थानों के प्रबंध निदेशकों और मुख्य कार्यकारी अधिकारियों ने वित्तमंत्री को आरबीआई की स्वैप सुविधा योजनाओं के अंतर्गत हुई प्रगति से अवगत कराया। बैंकों और सार्वजनिक वित्तीय संस्थानों की भागीदारी विदेशी मुद्रा प्रवाह जुटाने में स्वैप सुविधाओं की प्रभावशीलता को रेखांकित करती है। उनकी भागीदारी देश के विदेशी मुद्रा भंडार को भी मजबूत करती है और वैश्विक अनिश्चितता के बीच देश को मजबूत करती है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T15:22:56+00:00",
-        "link": "https://newsonair.gov.in/hi/finance-minister-nirmala-sitharaman-asked-public-sector-banks-to-expand-their-reach-to-nris/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nirmala.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारतीय रिजर्व बैंक ने मुंबई में इंटरनल ओम्बड्समैन का तीसरा वार्षिक सम्मेलन आयोजित किया",
-        "summary": "भारतीय रिजर्व बैंक ने आज मुंबई में इंटरनल ओम्बड्समैन का तीसरा वार्षिक सम्मेलन आयोजित किया। इसमें बैंकों, गैर-बैंकिंग वित्तीय कंपनियों, क्रेडिट सूचना कंपनियों तथा रिजर्व बैंक के लोकपालों के प्रतिनिधियों ने भाग लिया। सम्मेलन को संबोधित करते हुए भारतीय रिजर्व बैंक के उप-गवर्नर स्वामीनाथन जे. ने अधिकारियों को निर्देश दिया कि ग्राहकों की शिकायतों का […]",
-        "article": "भारतीय रिजर्व बैंक ने आज मुंबई में इंटरनल ओम्बड्समैन का तीसरा वार्षिक सम्मेलन आयोजित किया। इसमें बैंकों, गैर-बैंकिंग वित्तीय कंपनियों, क्रेडिट सूचना कंपनियों तथा रिजर्व बैंक के लोकपालों के प्रतिनिधियों ने भाग लिया। सम्मेलन को संबोधित करते हुए भारतीय रिजर्व बैंक के उप-गवर्नर स्वामीनाथन जे. ने अधिकारियों को निर्देश दिया कि ग्राहकों की शिकायतों का सार्थक, निष्पक्ष और प्रभावी समाधान सुनिश्चित किया जाए। साथ ही, बार-बार सामने आने वाली समस्याओं की पहचान कर उनके मूल कारणों का विश्लेषण किया जाए और सुधारात्मक उपाय लागू किए जाएं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T15:26:42+00:00",
-        "link": "https://newsonair.gov.in/hi/the-reserve-bank-of-india-organized-the-third-annual-conference-of-internal-ombudsmen-in-mumbai/",
-        "post_id": 1736005,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "यूरोपीय संघ ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया",
+        "summary": "यूरोपीय संघ (ईयू) ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया है। संघ के शीर्ष राजनयिक ने कल कहा कि यूरोपीय संघ व्हाइट हाउस और संयुक्त राष्ट्र सहित 65 सरकारों और संगठनों के साथ मिलकर काम कर रहा है। ब्रसेल्स में &#8216;फिलिस्तीन डोनर्स ग्रुप&#8217; की बैठक के […]",
+        "article": "यूरोपीय संघ (ईयू) ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया है। संघ के शीर्ष राजनयिक ने कल कहा कि यूरोपीय संघ व्हाइट हाउस और संयुक्त राष्ट्र सहित 65 सरकारों और संगठनों के साथ मिलकर काम कर रहा है। ब्रसेल्स में &#8216;फिलिस्तीन डोनर्स ग्रुप&#8217; की बैठक के बाद यूरोपीय आयोग की उपाध्यक्ष काजा कल्लास ने इस सहायता राशि की घोषणा की। यह बैठक &#8216;टीम गाज़ा पहल&#8217; की दूसरी बैठक थी। यह यूरोपीय संघ की एक ऐसी पहल है जिसका उद्देश्य युद्ध से तबाह हुए तटीय इलाके में साफ-सफाई और खेती जैसे पुनर्निर्माण कार्यों के लिए समर्थन जुटाना है। इन तबाह हुए इलाकों में लगभग 20 लाख लोग रहते हैं।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:05:18+00:00",
+        "link": "https://newsonair.gov.in/hi/the-european-union-coordinated-efforts-to-mobilize-one-billion-dollars-in-aid-for-gaza/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/EU.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "कल अंतरराष्ट्रीय अंतरिक्ष स्टेशन के लिए रवाना होंगे भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन",
         "summary": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन कल अंतरराष्ट्रीय अंतरिक्ष स्टेशन के लिए रवाना होंगे। वे कज़ाख़स्तान के बैकोनूर अंतरिक्ष केंद्र से दो रूसी अंतरिक्ष यात्रियों के साथ रोस्कोस्मोस के सोयुज़ एमएस-29 अंतरिक्ष यान से उड़ान भरेंगे। अंतरिक्ष यान का प्रक्षेपण भारतीय समयानुसार कल रात आठ बजकर 17 मिनट पर होगा। इसके लगभग साढ़े […]",
@@ -1564,25 +1573,15 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "अमरीकी संसद कांग्रेस में उच्च सदन सीनेट के सदस्य लिंडसे ग्राहम का निधन",
-        "summary": "अमरीकी संसद कांग्रेस में उच्च सदन सीनेट के सदस्य लिंडसे ग्राहम का निधन हो गया। वे 71 वर्ष के थे। श्री ग्राहम राष्ट्रपति डोनाल्ड ट्रम्प के सबसे करीबी सहयोगियों में से एक थे। उन्होंने अमरीकी विदेश नीति की वकालत करने के लिए दुनिया भर की यात्रा की थी। राष्ट्रपति डोनाल्ड ट्रम्प ने लिंडसे ग्राहम के […]",
-        "article": "अमरीकी संसद कांग्रेस में उच्च सदन सीनेट के सदस्य लिंडसे ग्राहम का निधन हो गया। वे 71 वर्ष के थे। श्री ग्राहम राष्ट्रपति डोनाल्ड ट्रम्प के सबसे करीबी सहयोगियों में से एक थे। उन्होंने अमरीकी विदेश नीति की वकालत करने के लिए दुनिया भर की यात्रा की थी। राष्ट्रपति डोनाल्ड ट्रम्प ने लिंडसे ग्राहम के निधन पर शोक व्यक्त किया है। उन्होंने कहा कि शोक के प्रतीक स्वरूप 18 जुलाई की शाम तक पूरे देश में झंडे आधे झुके रहेंगे।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T04:50:44+00:00",
-        "link": "https://newsonair.gov.in/hi/lindsey-graham-a-member-of-the-senate-the-upper-house-of-the-us-congress-has-passed-away/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNFHyB4awAAFtet.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "इस्राएल में 27 अक्टूबर को होंगे राष्ट्रीय चुनाव",
-        "summary": "इस्राएल में इस वर्ष 27 अक्टूबर को राष्ट्रीय चुनाव होंगे। इस चुनाव को व्यापक रूप से गाजा संघर्ष की शुरुआत के बाद से प्रधानमंत्री बेंन्यामिन नेतन्याहू के नेतृत्व पर जनमत संग्रह के रूप में देखा जा रहा है। इस्राएल की संसद शुक्रवार को अपने वर्तमान कार्यकाल का अंतिम सत्र आयोजित करने जा रही है, जिससे […]",
-        "article": "इस्राएल में इस वर्ष 27 अक्टूबर को राष्ट्रीय चुनाव होंगे। इस चुनाव को व्यापक रूप से गाजा संघर्ष की शुरुआत के बाद से प्रधानमंत्री बेंन्यामिन नेतन्याहू के नेतृत्व पर जनमत संग्रह के रूप में देखा जा रहा है। इस्राएल की संसद शुक्रवार को अपने वर्तमान कार्यकाल का अंतिम सत्र आयोजित करने जा रही है, जिससे नेतन्याहू की गठबंधन सरकार आधी सदी में पहली बार चार साल का कार्यकाल पूरा करने वाली सरकार बन जाएगी। संसद ने स्&#x200d;पष्&#x200d;ट किया है कि चुनाव की तारीख घोषित होने के बाद से विधायिका का कार्यकाल कम करने का कोई इरादा नहीं है। इस्राएल के सबसे लंबे समय तक सेवा करने वाले प्रधानमंत्री नेतन्याहू ने जून में पुष्टि की थी कि वह आगामी चुनावों में उम्मीदवार होंगे। 76 वर्षीय नेतन्याहू को 7 अक्टूबर 2023 को हमास के नेतृत्व में हुए हमलों के बाद से बढ़ती आलोचनाओं का सामना करना पड़ा है, जो इस्राएल के इतिहास में सबसे घातक हमला था। इस्राएली सेना के पूर्व प्रमुख गादी आइज़ेनकोट, नेतन्याहू के मुख्य प्रतिद्वंद्वी होंगे। इस्राएली समाचार द्वारा हाल ही में प्रकाशित एक सर्वेक्षण के अनुसार, आइज़ेनकोट की याशर पार्टी नेतन्याहू की लिकुड पार्टी से मामूली अंतर से आगे है। आइज़ेनकोट ने पहले नेतन्याहू के युद्ध मंत्रिमंडल में काम किया था और जून 2024 में यह कहकर इस्तीफा दे दिया था कि सरकार गाज़ा में अपने किसी भी उद्देश्य को हासिल करने में पूरी तरह विफल रही है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T03:04:38+00:00",
-        "link": "https://newsonair.gov.in/hi/national-elections-will-be-held-in-israel-on-october-27/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/benjamin-netanyahu-rt-ml-190226_hpMain-1980x1321-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
+        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
+        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:49:09+00:00",
+        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
+        "post_id": 1736495,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
