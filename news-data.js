@@ -1,8 +1,74 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-14T09:27:26.207153",
+  "generated": "2026-07-14T12:02:47.249587",
   "en": {
     "top": [
+      {
+        "title": "Railways to transport fertilizers in specially designed containers to enable non-polluting storage",
+        "summary": "Railways Minister Ashwini Vaishnaw has announced a major policy reform that allows fertilizers to be transported in specially designed containers instead of traditional covered box wagons. Briefing media in New Delhi today on the reforms aimed at modernizing Indian Railways, Mr Vaishnaw said, Railways account for 85 per cent share in transportation of fertilisers. […]",
+        "article": "Railways Minister Ashwini Vaishnaw has announced a major policy reform that allows fertilizers to be transported in specially designed containers instead of traditional covered box wagons. Briefing media in New Delhi today on the reforms aimed at modernizing Indian Railways, Mr Vaishnaw said, Railways account for 85 per cent share in transportation of fertilisers. He said, container handling is easier and enables non-polluting storage. Mr Vaishnaw added that individual container can be stored at the rake point, instead of detaining the entire rake. The minister said Prime Minister Narendra Modi has continuously encouraged to bring reforms in the Railways. Mr Vaishnaw announced a major reform in fly ash transportation, shifting movement from open railway wagons to specially designed containers. He highlighted that India generates nearly 340 million tonnes of fly ash annually, which is highly useful in cement production and road construction. The Minister said, the new container-based system will reduce dust pollution during loading, transport and storage. Mr Vaishnaw also announced a unified licence system under container policy. Mr Vaishnaw said Wagon design can now be done by the industry. He said that any designer or manufacturer can propose a new wagon design. The Minister informed that after evaluating the design, the Research Designs and Standards Organisation (RDSO) will give permission for the prototype. The Minister said this will enable special design wagons for specific industry needs. The Minister also informed that Rail bhoomi portal will be launched to manage the complete process of land acquisition. Mr Vaishnaw said, it will enables online processing of major land acquisition stages. On skill certification framework for railway projects, Mr Vaishnaw said that this system will be implemented across all projects in a maximum of 24 months. He said, when large scale infrastructure creation work is underway in the country, it is important that plumbers, welders, fitters, masons and concrete testers and all other workers are well trained.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T11:36:27+00:00",
+        "link": "https://newsonair.gov.in/railways-to-transport-fertilizers-in-specially-designed-containers-to-enable-non-polluting-storage/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/rail-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India closely following developments in West Asia, calls for safe navigation through Strait of Hormuz. : MEA",
+        "summary": "New Delhi has said that it is closely following the developments in West Asia. It has again called for safe and unimpeded navigation and the flow of commerce through the Strait of Hormuz. Briefing media in New Delhi this evening, spokesperson of the Ministry of External Affairs Randhir Jaiswal said, this is key for ensuring […]",
+        "article": "New Delhi has said that it is closely following the developments in West Asia. It has again called for safe and unimpeded navigation and the flow of commerce through the Strait of Hormuz. Briefing media in New Delhi this evening, spokesperson of the Ministry of External Affairs Randhir Jaiswal said, this is key for ensuring the economic and energy security of people across the world. He said, the Ministry has issued a statement after summoning the Deputy Chief of Mission of Iran. Mr Jaiswal said, New Delhi conveyed Tehran its deepest concerns and that it strongly condemned what has happened. He said, a precious Indian life has been lost and several Indian nationals have been injured. A couple of them are seriously injured. The Spokesperson said, India conveyed its strongest protest to the Iranian side on this matter, stating that these attacks must stop at the earliest. At the same time, there should be de-escalation, and the two sides should come to the negotiating table and take the path of dialogue and diplomacy so that peace and stability can be ensured in West Asia.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T11:10:01+00:00",
+        "link": "https://newsonair.gov.in/india-closely-following-developments-in-west-asia-calls-for-safe-navigation-through-strait-of-hormuz-mea/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "France: President Emmanuel Macron leads Bastille Day celebration in Paris",
+        "summary": "In France, Bastille Day is being celebrated with a strong display of European unity as troops and aircraft from across the continent joined the annual military parade in Paris. France President Emmanuel Macron, celebrating his final Bastille Day in office, hosted around 30 world leaders, including Ukrainian President Volodymyr Zelenskyy, highlighting Europe&#8217;s commitment to […]",
+        "article": "In France, Bastille Day is being celebrated with a strong display of European unity as troops and aircraft from across the continent joined the annual military parade in Paris. France President Emmanuel Macron, celebrating his final Bastille Day in office, hosted around 30 world leaders, including Ukrainian President Volodymyr Zelenskyy, highlighting Europe&#8217;s commitment to collective security. The parade featured Ukrainian soldiers, French-trained Ukrainian fighter pilots, and nearly 6,800 troops, the largest participation in the event&#8217;s history. Military aircraft from several European nations also took part. Bastille Day, observed every year on July 14, commemorates the storming of the Bastille prison in 1789, a landmark event that symbolised the start of the French Revolution. The uprising ultimately led to the fall of the French monarchy and laid the foundations for modern France.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T11:00:14+00:00",
+        "link": "https://newsonair.gov.in/france-president-emmanuel-macron-leads-bastille-day-celebration-in-paris/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/francew.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Labour Minister advises youth to upgrade skills by using latest technology of AI",
+        "summary": "Union Minister for Labour and Employment, Dr. Mansukh Mandaviya, highlighted that artificial intelligence can effectively enhance the skills of youth. Speaking as the chief guest at the BRICS Trade Union Forum Summit in Hyderabad, the Minister advised everyone to use the latest technology responsibly and urged workers to overcome the fear of job losses […]",
+        "article": "Union Minister for Labour and Employment, Dr. Mansukh Mandaviya, highlighted that artificial intelligence can effectively enhance the skills of youth. Speaking as the chief guest at the BRICS Trade Union Forum Summit in Hyderabad, the Minister advised everyone to use the latest technology responsibly and urged workers to overcome the fear of job losses by upgrading their skills accordingly. The Minister noted that artificial intelligence and robotics technology are driving major transformations across the nation. Additionally, he called for strong collaboration between industries and trade unions, acknowledging the invaluable role of workers in national and state development. He also stressed the importance of mutual cooperation among BRICS nations to foster shared growth. To keep pace with technological advancements, the Minister promised that new courses would be introduced through the Skill India Mission. He recalled the success of the e-Shram portal, an initiative designed to bring unorganized sector workers under one umbrella and directly deliver social security benefits to them. Furthermore, Dr. Mandaviya stated that the central government is focusing on Migration and Mobility Agreements to create more international employment opportunities for Indian workers.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T10:36:44+00:00",
+        "link": "https://newsonair.gov.in/union-labour-minister-advises-youth-to-upgrade-skills-by-using-latest-technology-of-ai/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt reviews foodgrain storage ecosystem to create more efficient, future-ready framework",
+        "summary": "Union Minister for Consumer Affairs, Food and Public Distribution Pralhad Joshi today chaired a review meeting to strengthen the country&#8217;s foodgrain storage ecosystem in New Delhi. In a social media post, Mr. Joshi said the meeting reviewed the proposed Storage Policy and the Private Entrepreneurs Guarantee (PEG) Scheme. He said the discussions focused on addressing […]",
+        "article": "Union Minister for Consumer Affairs, Food and Public Distribution Pralhad Joshi today chaired a review meeting to strengthen the country&#8217;s foodgrain storage ecosystem in New Delhi. In a social media post, Mr. Joshi said the meeting reviewed the proposed Storage Policy and the Private Entrepreneurs Guarantee (PEG) Scheme. He said the discussions focused on addressing emerging challenges in foodgrain management, including regional storage imbalances, surplus stock management, optimisation of storage capacity, and the need to revise storage norms in line with current procurement trends. Mr Joshi said that these reforms are aimed at creating a more efficient, scientific and future-ready storage framework that reinforces India&#8217;s food security.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T10:21:34+00:00",
+        "link": "https://newsonair.gov.in/govt-reviews-foodgrain-storage-ecosystem-to-create-more-efficient-future-ready-framework/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Pralhad.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "SC declines to restore status quo ante at Bhojshala in Madhya Pradesh",
+        "summary": "The Supreme Court today agreed to hear the Bhojshala dispute on a day-to-day basis to resolve the issue. However, the bench comprising Chief Justice of India Surya Kant, Justice Joymalya Bagchi and Justice V Mohana declined the petitioners&#8217; request for an interim order restoring the status quo ante, under which Muslims were permitted to […]",
+        "article": "The Supreme Court today agreed to hear the Bhojshala dispute on a day-to-day basis to resolve the issue. However, the bench comprising Chief Justice of India Surya Kant, Justice Joymalya Bagchi and Justice V Mohana declined the petitioners&#8217; request for an interim order restoring the status quo ante, under which Muslims were permitted to offer namaz on Fridays alongside Hindu worship on designated days. The bench directed the state to make available a separate open space, adjacent to the subject site, for offering namaz on Fridays between 1 PM and 3 PM. The bench clarified that this arrangement is ad-hoc in nature, subject to the final outcome of the matter. The bench urged both sides to exercise patience, describing the matter as highly sensitive. The top court was hearing a batch of appeals challenging a Madhya Pradesh High Court order, which said the disputed Bhojshala complex in Dhar district was a temple dedicated to Goddess Saraswati and prohibited the offering of Namaz there.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T10:13:59+00:00",
+        "link": "https://newsonair.gov.in/sc-declines-to-restore-status-quo-ante-at-bhojshala-in-madhya-pradesh/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/supreme-court-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "BJP accuses AAP, Congress of backing Ankit Sharma murder convicts",
         "summary": "Bharatiya Janata Party (BJP) today accused the Aam Aadmi Party (AAP) and Congress of backing those convicted in killing of IB officer Ankit Sharma during northeast Delhi riots in 2020. &#160; Addressing the media in New Delhi, BJP National Spokesperson Gaurav Bhatia welcomed yesterday’s Delhi court verdict convicting AAP former councillor Tahir Hussain and four […]",
@@ -59,84 +125,73 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Parliamentary Affairs Minister Kiren Rijiju leaves for Doha to convey condolences on Father Amir’s demise",
-        "summary": "Minister of Parliamentary Affairs and Minority Affairs Kiren Rijiju today departed for Doha to convey condolences on behalf of the Government and people of India on the sad demise of Qatar&#8217;s Father Amir Sheikh Hamad bin Khalifa Al Thani. &#160; The Ministry of External Affairs said that Father Amir was instrumental in building modern Qatar […]",
-        "article": "Minister of Parliamentary Affairs and Minority Affairs Kiren Rijiju today departed for Doha to convey condolences on behalf of the Government and people of India on the sad demise of Qatar&#8217;s Father Amir Sheikh Hamad bin Khalifa Al Thani. &nbsp; The Ministry of External Affairs said that Father Amir was instrumental in building modern Qatar and a great friend of India. It said that Father Amir will be remembered for his invaluable contribution to building India-Qatar&#8217;s relationship.",
+        "title": "India summons Iranian envoy after missile strike kills Indian national",
+        "summary": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic […]",
+        "article": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic move came after the UAE Ministry of Defence confirmed that the attack on tankers Mombasa and Bahia claimed the life of an Indian national and injured eight crew members, including six Indians and two Ukrainian nationals. Four of the injured are reported to be in critical condition. Condemning the attack, the UAE Ministry of Defence described it as a “serious violation” and a breach of international law. It said the UAE reserves the right to respond to the escalation and take all necessary measures to safeguard its sovereignty, people and territorial waters. The incident comes amid escalating tensions in the Strait of Hormuz, one of the world’s most strategically important maritime trade routes.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T07:22:18+00:00",
-        "link": "https://newsonair.gov.in/parliamentary-affairs-minister-kiren-rijiju-leaves-for-doha-to-convey-condolences-on-father-amirs-demise/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Mortal remains of three Andhra tourists killed in Vietnam boat accident reach Hyderabad",
-        "summary": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has […]",
-        "article": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has said, all necessary assistance has been extended to the bereaved families and the official machinery continues to coordinate the final arrangements. The mortal remains had reached India last night after the repatriation process was completed and were flown to Hyderabad early this morning. Union Civil Aviation Minister K. Ram Mohan Naidu coordinated with the Ministry of External Affairs, the Indian Embassy in Vietnam and Andhra Pradesh Bhavan officials to facilitate the early return of the bodies. Officials also confirmed that other tourists from state involved in the incident had returned home safely earlier.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T06:00:58+00:00",
-        "link": "https://newsonair.gov.in/mortal-remains-of-three-andhra-tourists-killed-in-vietnam-boat-accident-reach-hyderabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/l.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Bharat Tex 2026 begins at Bharat Mandapam in New Delhi",
-        "summary": "India&#8217;s largest global textile event, Bharat Tex 2026, began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh today inaugurated the event. Speaking to the media, Mr Singh said, Bharat Tex is the vision of the Prime Minister. He said it is now an international event, and every year there has […]",
-        "article": "India&#8217;s largest global textile event, Bharat Tex 2026, began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh today inaugurated the event. Speaking to the media, Mr Singh said, Bharat Tex is the vision of the Prime Minister. He said it is now an international event, and every year there has been an increase of exhibitors, buyers, sellers and visitors. He said this year, over 60 thousand buyers and exhibitors from 130 countries are participating in the event. The Minister said that MSMEs and entrepreneurs are also attending the Bharat Tex. He said, Free Trade Agreements with different countries are also benefiting the Textiles Sector. The inauguration ceremony was also attended by Minister of State for Textiles Pabitra Margherita and Textiles Ministers from different states. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyers, investors, policymakers, international delegations, artisans, start-ups and technology providers. Inspired by Prime Minister Narendra Modi’s 5F Vision- Farm to Fibre to Factory to Fashion to Foreign, Bharat Tex 2026 has evolved into a premier global platform for business, investment, innovation, policy dialogue and strategic partnerships across the textile value chain. The third edition of Bharat Tex 2026 is witnessing participation of around seven thousand buyers and over 20 thousand textile products. International exhibitors from 14 countries are participating in the event. The event will bring together over 350 speakers, including international experts, national industry leaders, policymakers and thought leaders from more than 20 countries.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T05:58:38+00:00",
-        "link": "https://newsonair.gov.in/bharat-tex-2026-begins-at-bharat-mandapam-in-new-delhi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Bangkok music bar fire death toll rises to 30",
-        "summary": "The death toll from a huge fire in a Bangkok music bar has increased to 30. Bangkok city officials today said more than 70 people remain hospitalised, with 24 of them are in critical condition. Police said an investigation into the cause of the fire and whether the bar was following safety regulations is ongoing. […]",
-        "article": "The death toll from a huge fire in a Bangkok music bar has increased to 30. Bangkok city officials today said more than 70 people remain hospitalised, with 24 of them are in critical condition. Police said an investigation into the cause of the fire and whether the bar was following safety regulations is ongoing. It added most of the people who killed were found trapped in windowless bathrooms where they may have sought to escape the flames. The city&#8217;s deadliest blaze in 17 years at the Rong Beer Na Ladprao bar broke out on late Sunday in a northern part of the Thai capital. The bar claimed to accommodate as many as 600 customers. It was not clear how many were present on Sunday night.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T05:57:10+00:00",
-        "link": "https://newsonair.gov.in/bangkok-music-bar-fire-death-toll-rises-to-30/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/b.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EAM Dr S Jaishankar meets UN Secretary-General Antonio Guterres",
-        "summary": "External Affairs Minister Dr S Jaishankar met the Secretary General of the United Nations Antonio Guterres, in New York yesterday. In a social media post, Dr Jaishankar said they discussed global developments, including of West Asia, Ukraine and Sudan. They also recognised the strength of India &#8211; UN cooperation. Dr Jaishankar is in New York […]",
-        "article": "External Affairs Minister Dr S Jaishankar met the Secretary General of the United Nations Antonio Guterres, in New York yesterday. In a social media post, Dr Jaishankar said they discussed global developments, including of West Asia, Ukraine and Sudan. They also recognised the strength of India &#8211; UN cooperation. Dr Jaishankar is in New York to lead the India campaign for a non-permanent seat in the United Nations Security Council for the 2028-29 term.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T03:43:58+00:00",
-        "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-meets-un-secretary-general-antonio-guterres/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/EAM-Dr-S-Jaishankar-meets-UN-Secretary-General-Antonio-Guterres.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMD forecasts heavy to very heavy rainfall over Bihar, Odisha",
-        "summary": "India Meteorological Department (IMD) has forecast heavy to very heavy rainfall over Bihar and Odisha today. Heavy rainfall over these regions is expected to continue till tomorrow. Parts of North-east India, Chhattisgarh, Jharkhand, West Bengal and Sikkim are also likely to receive moderate to heavy rainfall during the day. According to the Met Department, […]",
-        "article": "India Meteorological Department (IMD) has forecast heavy to very heavy rainfall over Bihar and Odisha today. Heavy rainfall over these regions is expected to continue till tomorrow. Parts of North-east India, Chhattisgarh, Jharkhand, West Bengal and Sikkim are also likely to receive moderate to heavy rainfall during the day. According to the Met Department, thunderstorms accompanied by lightning and gusty winds are also expected today over parts of Andaman and Nicobar Islands, Andhra Pradesh, Jammu and Kashmir, Ladakh, Bihar, Gangetic West Bengal, Jharkhand, Sikkim, Karnataka and Odisha. IMD also predicted heat wave conditions today at places over Coastal Andhra Pradesh. Meanwhile, Parts of the National Capital received light showers this morning.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T03:34:26+00:00",
-        "link": "https://newsonair.gov.in/imd-forecasts-heavy-to-very-heavy-rainfall-over-bihar-odisha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/imd.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India launches campaign for UN Security Council seat for 2028-29 term",
-        "summary": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s",
-        "article": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s guiding approach to promoting global peace, security and equitable development. He said the world is facing growing conflict and instability, making the role of the United Nations more critical than ever. Highlighting India&#8217;s credentials, Dr. Jaishankar said India has contributed nearly three lakh personnel to about 50 UN peacekeeping missions since the organisation&#8217;s inception and currently has over 4,300 personnel serving in 10 UN peacekeeping missions. He said India has consistently advocated dialogue and diplomacy and has sought to give voice to the concerns of the Global South. Seeking the support of UN member states, Dr. Jaishankar said India&#8217;s presence in the Security Council would help strengthen decision-making in the vital body. If elected, India will serve a two-year term beginning in 2028. India has previously served eight terms as a non-permanent member of the Security Council, most recently in 2021-22.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:55:58+00:00",
-        "link": "https://newsonair.gov.in/india-launches-campaign-for-un-security-council-seat-for-2028-29-term/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/unsc-seats-1.jpg",
+        "pubDate": "2026-07-14T08:20:43+00:00",
+        "link": "https://newsonair.gov.in/india-summons-iranian-envoy-after-missile-strike-kills-indian-national/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/p.webp",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "Railways to transport fertilizers in specially designed containers to enable non-polluting storage",
+        "summary": "Railways Minister Ashwini Vaishnaw has announced a major policy reform that allows fertilizers to be transported in specially designed containers instead of traditional covered box wagons. Briefing media in New Delhi today on the reforms aimed at modernizing Indian Railways, Mr Vaishnaw said, Railways account for 85 per cent share in transportation of fertilisers. […]",
+        "article": "Railways Minister Ashwini Vaishnaw has announced a major policy reform that allows fertilizers to be transported in specially designed containers instead of traditional covered box wagons. Briefing media in New Delhi today on the reforms aimed at modernizing Indian Railways, Mr Vaishnaw said, Railways account for 85 per cent share in transportation of fertilisers. He said, container handling is easier and enables non-polluting storage. Mr Vaishnaw added that individual container can be stored at the rake point, instead of detaining the entire rake. The minister said Prime Minister Narendra Modi has continuously encouraged to bring reforms in the Railways. Mr Vaishnaw announced a major reform in fly ash transportation, shifting movement from open railway wagons to specially designed containers. He highlighted that India generates nearly 340 million tonnes of fly ash annually, which is highly useful in cement production and road construction. The Minister said, the new container-based system will reduce dust pollution during loading, transport and storage. Mr Vaishnaw also announced a unified licence system under container policy. Mr Vaishnaw said Wagon design can now be done by the industry. He said that any designer or manufacturer can propose a new wagon design. The Minister informed that after evaluating the design, the Research Designs and Standards Organisation (RDSO) will give permission for the prototype. The Minister said this will enable special design wagons for specific industry needs. The Minister also informed that Rail bhoomi portal will be launched to manage the complete process of land acquisition. Mr Vaishnaw said, it will enables online processing of major land acquisition stages. On skill certification framework for railway projects, Mr Vaishnaw said that this system will be implemented across all projects in a maximum of 24 months. He said, when large scale infrastructure creation work is underway in the country, it is important that plumbers, welders, fitters, masons and concrete testers and all other workers are well trained.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T11:36:27+00:00",
+        "link": "https://newsonair.gov.in/railways-to-transport-fertilizers-in-specially-designed-containers-to-enable-non-polluting-storage/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/rail-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India closely following developments in West Asia, calls for safe navigation through Strait of Hormuz. : MEA",
+        "summary": "New Delhi has said that it is closely following the developments in West Asia. It has again called for safe and unimpeded navigation and the flow of commerce through the Strait of Hormuz. Briefing media in New Delhi this evening, spokesperson of the Ministry of External Affairs Randhir Jaiswal said, this is key for ensuring […]",
+        "article": "New Delhi has said that it is closely following the developments in West Asia. It has again called for safe and unimpeded navigation and the flow of commerce through the Strait of Hormuz. Briefing media in New Delhi this evening, spokesperson of the Ministry of External Affairs Randhir Jaiswal said, this is key for ensuring the economic and energy security of people across the world. He said, the Ministry has issued a statement after summoning the Deputy Chief of Mission of Iran. Mr Jaiswal said, New Delhi conveyed Tehran its deepest concerns and that it strongly condemned what has happened. He said, a precious Indian life has been lost and several Indian nationals have been injured. A couple of them are seriously injured. The Spokesperson said, India conveyed its strongest protest to the Iranian side on this matter, stating that these attacks must stop at the earliest. At the same time, there should be de-escalation, and the two sides should come to the negotiating table and take the path of dialogue and diplomacy so that peace and stability can be ensured in West Asia.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T11:10:01+00:00",
+        "link": "https://newsonair.gov.in/india-closely-following-developments-in-west-asia-calls-for-safe-navigation-through-strait-of-hormuz-mea/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Labour Minister advises youth to upgrade skills by using latest technology of AI",
+        "summary": "Union Minister for Labour and Employment, Dr. Mansukh Mandaviya, highlighted that artificial intelligence can effectively enhance the skills of youth. Speaking as the chief guest at the BRICS Trade Union Forum Summit in Hyderabad, the Minister advised everyone to use the latest technology responsibly and urged workers to overcome the fear of job losses […]",
+        "article": "Union Minister for Labour and Employment, Dr. Mansukh Mandaviya, highlighted that artificial intelligence can effectively enhance the skills of youth. Speaking as the chief guest at the BRICS Trade Union Forum Summit in Hyderabad, the Minister advised everyone to use the latest technology responsibly and urged workers to overcome the fear of job losses by upgrading their skills accordingly. The Minister noted that artificial intelligence and robotics technology are driving major transformations across the nation. Additionally, he called for strong collaboration between industries and trade unions, acknowledging the invaluable role of workers in national and state development. He also stressed the importance of mutual cooperation among BRICS nations to foster shared growth. To keep pace with technological advancements, the Minister promised that new courses would be introduced through the Skill India Mission. He recalled the success of the e-Shram portal, an initiative designed to bring unorganized sector workers under one umbrella and directly deliver social security benefits to them. Furthermore, Dr. Mandaviya stated that the central government is focusing on Migration and Mobility Agreements to create more international employment opportunities for Indian workers.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T10:36:44+00:00",
+        "link": "https://newsonair.gov.in/union-labour-minister-advises-youth-to-upgrade-skills-by-using-latest-technology-of-ai/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt reviews foodgrain storage ecosystem to create more efficient, future-ready framework",
+        "summary": "Union Minister for Consumer Affairs, Food and Public Distribution Pralhad Joshi today chaired a review meeting to strengthen the country&#8217;s foodgrain storage ecosystem in New Delhi. In a social media post, Mr. Joshi said the meeting reviewed the proposed Storage Policy and the Private Entrepreneurs Guarantee (PEG) Scheme. He said the discussions focused on addressing […]",
+        "article": "Union Minister for Consumer Affairs, Food and Public Distribution Pralhad Joshi today chaired a review meeting to strengthen the country&#8217;s foodgrain storage ecosystem in New Delhi. In a social media post, Mr. Joshi said the meeting reviewed the proposed Storage Policy and the Private Entrepreneurs Guarantee (PEG) Scheme. He said the discussions focused on addressing emerging challenges in foodgrain management, including regional storage imbalances, surplus stock management, optimisation of storage capacity, and the need to revise storage norms in line with current procurement trends. Mr Joshi said that these reforms are aimed at creating a more efficient, scientific and future-ready storage framework that reinforces India&#8217;s food security.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T10:21:34+00:00",
+        "link": "https://newsonair.gov.in/govt-reviews-foodgrain-storage-ecosystem-to-create-more-efficient-future-ready-framework/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Pralhad.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "SC declines to restore status quo ante at Bhojshala in Madhya Pradesh",
+        "summary": "The Supreme Court today agreed to hear the Bhojshala dispute on a day-to-day basis to resolve the issue. However, the bench comprising Chief Justice of India Surya Kant, Justice Joymalya Bagchi and Justice V Mohana declined the petitioners&#8217; request for an interim order restoring the status quo ante, under which Muslims were permitted to […]",
+        "article": "The Supreme Court today agreed to hear the Bhojshala dispute on a day-to-day basis to resolve the issue. However, the bench comprising Chief Justice of India Surya Kant, Justice Joymalya Bagchi and Justice V Mohana declined the petitioners&#8217; request for an interim order restoring the status quo ante, under which Muslims were permitted to offer namaz on Fridays alongside Hindu worship on designated days. The bench directed the state to make available a separate open space, adjacent to the subject site, for offering namaz on Fridays between 1 PM and 3 PM. The bench clarified that this arrangement is ad-hoc in nature, subject to the final outcome of the matter. The bench urged both sides to exercise patience, describing the matter as highly sensitive. The top court was hearing a batch of appeals challenging a Madhya Pradesh High Court order, which said the disputed Bhojshala complex in Dhar district was a temple dedicated to Goddess Saraswati and prohibited the offering of Namaz there.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T10:13:59+00:00",
+        "link": "https://newsonair.gov.in/sc-declines-to-restore-status-quo-ante-at-bhojshala-in-madhya-pradesh/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/supreme-court-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "BJP accuses AAP, Congress of backing Ankit Sharma murder convicts",
         "summary": "Bharatiya Janata Party (BJP) today accused the Aam Aadmi Party (AAP) and Congress of backing those convicted in killing of IB officer Ankit Sharma during northeast Delhi riots in 2020. &#160; Addressing the media in New Delhi, BJP National Spokesperson Gaurav Bhatia welcomed yesterday’s Delhi court verdict convicting AAP former councillor Tahir Hussain and four […]",
@@ -171,51 +226,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Mortal remains of three Andhra tourists killed in Vietnam boat accident reach Hyderabad",
-        "summary": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has […]",
-        "article": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has said, all necessary assistance has been extended to the bereaved families and the official machinery continues to coordinate the final arrangements. The mortal remains had reached India last night after the repatriation process was completed and were flown to Hyderabad early this morning. Union Civil Aviation Minister K. Ram Mohan Naidu coordinated with the Ministry of External Affairs, the Indian Embassy in Vietnam and Andhra Pradesh Bhavan officials to facilitate the early return of the bodies. Officials also confirmed that other tourists from state involved in the incident had returned home safely earlier.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T06:00:58+00:00",
-        "link": "https://newsonair.gov.in/mortal-remains-of-three-andhra-tourists-killed-in-vietnam-boat-accident-reach-hyderabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/l.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Bharat Tex 2026 begins at Bharat Mandapam in New Delhi",
-        "summary": "India&#8217;s largest global textile event, Bharat Tex 2026, began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh today inaugurated the event. Speaking to the media, Mr Singh said, Bharat Tex is the vision of the Prime Minister. He said it is now an international event, and every year there has […]",
-        "article": "India&#8217;s largest global textile event, Bharat Tex 2026, began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh today inaugurated the event. Speaking to the media, Mr Singh said, Bharat Tex is the vision of the Prime Minister. He said it is now an international event, and every year there has been an increase of exhibitors, buyers, sellers and visitors. He said this year, over 60 thousand buyers and exhibitors from 130 countries are participating in the event. The Minister said that MSMEs and entrepreneurs are also attending the Bharat Tex. He said, Free Trade Agreements with different countries are also benefiting the Textiles Sector. The inauguration ceremony was also attended by Minister of State for Textiles Pabitra Margherita and Textiles Ministers from different states. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyers, investors, policymakers, international delegations, artisans, start-ups and technology providers. Inspired by Prime Minister Narendra Modi’s 5F Vision- Farm to Fibre to Factory to Fashion to Foreign, Bharat Tex 2026 has evolved into a premier global platform for business, investment, innovation, policy dialogue and strategic partnerships across the textile value chain. The third edition of Bharat Tex 2026 is witnessing participation of around seven thousand buyers and over 20 thousand textile products. International exhibitors from 14 countries are participating in the event. The event will bring together over 350 speakers, including international experts, national industry leaders, policymakers and thought leaders from more than 20 countries.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T05:58:38+00:00",
-        "link": "https://newsonair.gov.in/bharat-tex-2026-begins-at-bharat-mandapam-in-new-delhi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMD forecasts heavy to very heavy rainfall over Bihar, Odisha",
-        "summary": "India Meteorological Department (IMD) has forecast heavy to very heavy rainfall over Bihar and Odisha today. Heavy rainfall over these regions is expected to continue till tomorrow. Parts of North-east India, Chhattisgarh, Jharkhand, West Bengal and Sikkim are also likely to receive moderate to heavy rainfall during the day. According to the Met Department, […]",
-        "article": "India Meteorological Department (IMD) has forecast heavy to very heavy rainfall over Bihar and Odisha today. Heavy rainfall over these regions is expected to continue till tomorrow. Parts of North-east India, Chhattisgarh, Jharkhand, West Bengal and Sikkim are also likely to receive moderate to heavy rainfall during the day. According to the Met Department, thunderstorms accompanied by lightning and gusty winds are also expected today over parts of Andaman and Nicobar Islands, Andhra Pradesh, Jammu and Kashmir, Ladakh, Bihar, Gangetic West Bengal, Jharkhand, Sikkim, Karnataka and Odisha. IMD also predicted heat wave conditions today at places over Coastal Andhra Pradesh. Meanwhile, Parts of the National Capital received light showers this morning.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T03:34:26+00:00",
-        "link": "https://newsonair.gov.in/imd-forecasts-heavy-to-very-heavy-rainfall-over-bihar-odisha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/imd.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India condemns attacks on vessels carrying Indian seafarers in Strait of Hormuz",
-        "summary": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks […]",
-        "article": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks was lodged with him. Both the vessels were carrying 30 Indian seafarers, among their combined crew of 46. The External Affairs Ministry said in a statement that of the 12 Indian nationals onboard MT Al Bahiyah, one has lost his life and another has been injured. Of the 18 Indian nationals onboard MT Mombasa, nine have sustained injuries, including two who are reported to be seriously injured. The Ministry extended condolences to the family of the deceased Indian national and wished speedy recovery to those injured. Indian Mission and Post in the UAE are closely monitoring the situation and are in touch with the UAE authorities to ensure all possible assistance to the affected Indian seafarers. New Delhi has strongly condemned these attacks and acts of violence targeting seafarers and disrupting free and safe navigation through international waterways like the Strait of Hormuz. India has also reiterated deep concern on account of the resumption of attacks and escalation of hostilities in the West-Asian region and called for immediate cessation of violence and a return to dialogue and diplomacy in the interests of peace, security and stability in the region. The statement added that the targeting of commercial shipping and civilian infrastructure in the region must cease so that free and unimpeded navigation and commerce through international waterways in the region can be restored at the earliest.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T08:37:01+00:00",
-        "link": "https://newsonair.gov.in/india-condemns-attacks-on-vessels-carrying-indian-seafarers-in-strait-of-hormuz/",
-        "post_id": 1737296,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Karnataka CM announces India’s first government-driven AI University",
         "summary": "Karnataka Chief Minister D.K. Shivakumar today announced that India’s first government-driven Artificial Intelligence (AI) University will come up in the state. He also announced that Government will set up an AI Hub as an incubation centre for research and development in AI by start-ups, companies and others. Making these announcements while inaugurating Google Connect […]",
         "article": "Karnataka Chief Minister D.K. Shivakumar today announced that India’s first government-driven Artificial Intelligence (AI) University will come up in the state. He also announced that Government will set up an AI Hub as an incubation centre for research and development in AI by start-ups, companies and others. Making these announcements while inaugurating Google Connect India 2026 in Bengaluru, Shivakumar said the proposed university would play a pivotal role in building world-class AI talent, advancing research and strengthening collaboration between academia, industry and government. It will drive the state’s ambition to become a global leader in responsible AI innovation. Addressing technology leaders, innovators, entrepreneurs, developers, researchers and policymakers from across India and the world, the Chief Minister said Karnataka currently contributes nearly 40 per cent of India’s software exports, while Bengaluru is home to over 17,000 startups and thousands of Global Capability Centres that design and engineer products for the global market. He said the state’s first ambition is to become an AI-native state, where Artificial Intelligence is used responsibly to improve governance and everyday lives rather than remaining a technological tool.",
@@ -234,18 +244,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T08:28:27+00:00",
         "link": "https://newsonair.gov.in/india-uk-comprehensive-economic-and-trade-agreement-comes-into-force-tomorrow/",
         "post_id": 1737125,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India summons Iranian envoy after missile strike kills Indian national",
-        "summary": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic […]",
-        "article": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic move came after the UAE Ministry of Defence confirmed that the attack on tankers Mombasa and Bahia claimed the life of an Indian national and injured eight crew members, including six Indians and two Ukrainian nationals. Four of the injured are reported to be in critical condition. Condemning the attack, the UAE Ministry of Defence described it as a “serious violation” and a breach of international law. It said the UAE reserves the right to respond to the escalation and take all necessary measures to safeguard its sovereignty, people and territorial waters. The incident comes amid escalating tensions in the Strait of Hormuz, one of the world’s most strategically important maritime trade routes.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T08:20:43+00:00",
-        "link": "https://newsonair.gov.in/india-summons-iranian-envoy-after-missile-strike-kills-indian-national/",
-        "post_id": 1737128,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -253,6 +251,61 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "Railways to transport fertilizers in specially designed containers to enable non-polluting storage",
+        "summary": "Railways Minister Ashwini Vaishnaw has announced a major policy reform that allows fertilizers to be transported in specially designed containers instead of traditional covered box wagons. Briefing media in New Delhi today on the reforms aimed at modernizing Indian Railways, Mr Vaishnaw said, Railways account for 85 per cent share in transportation of fertilisers. […]",
+        "article": "Railways Minister Ashwini Vaishnaw has announced a major policy reform that allows fertilizers to be transported in specially designed containers instead of traditional covered box wagons. Briefing media in New Delhi today on the reforms aimed at modernizing Indian Railways, Mr Vaishnaw said, Railways account for 85 per cent share in transportation of fertilisers. He said, container handling is easier and enables non-polluting storage. Mr Vaishnaw added that individual container can be stored at the rake point, instead of detaining the entire rake. The minister said Prime Minister Narendra Modi has continuously encouraged to bring reforms in the Railways. Mr Vaishnaw announced a major reform in fly ash transportation, shifting movement from open railway wagons to specially designed containers. He highlighted that India generates nearly 340 million tonnes of fly ash annually, which is highly useful in cement production and road construction. The Minister said, the new container-based system will reduce dust pollution during loading, transport and storage. Mr Vaishnaw also announced a unified licence system under container policy. Mr Vaishnaw said Wagon design can now be done by the industry. He said that any designer or manufacturer can propose a new wagon design. The Minister informed that after evaluating the design, the Research Designs and Standards Organisation (RDSO) will give permission for the prototype. The Minister said this will enable special design wagons for specific industry needs. The Minister also informed that Rail bhoomi portal will be launched to manage the complete process of land acquisition. Mr Vaishnaw said, it will enables online processing of major land acquisition stages. On skill certification framework for railway projects, Mr Vaishnaw said that this system will be implemented across all projects in a maximum of 24 months. He said, when large scale infrastructure creation work is underway in the country, it is important that plumbers, welders, fitters, masons and concrete testers and all other workers are well trained.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T11:36:27+00:00",
+        "link": "https://newsonair.gov.in/railways-to-transport-fertilizers-in-specially-designed-containers-to-enable-non-polluting-storage/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/rail-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India closely following developments in West Asia, calls for safe navigation through Strait of Hormuz. : MEA",
+        "summary": "New Delhi has said that it is closely following the developments in West Asia. It has again called for safe and unimpeded navigation and the flow of commerce through the Strait of Hormuz. Briefing media in New Delhi this evening, spokesperson of the Ministry of External Affairs Randhir Jaiswal said, this is key for ensuring […]",
+        "article": "New Delhi has said that it is closely following the developments in West Asia. It has again called for safe and unimpeded navigation and the flow of commerce through the Strait of Hormuz. Briefing media in New Delhi this evening, spokesperson of the Ministry of External Affairs Randhir Jaiswal said, this is key for ensuring the economic and energy security of people across the world. He said, the Ministry has issued a statement after summoning the Deputy Chief of Mission of Iran. Mr Jaiswal said, New Delhi conveyed Tehran its deepest concerns and that it strongly condemned what has happened. He said, a precious Indian life has been lost and several Indian nationals have been injured. A couple of them are seriously injured. The Spokesperson said, India conveyed its strongest protest to the Iranian side on this matter, stating that these attacks must stop at the earliest. At the same time, there should be de-escalation, and the two sides should come to the negotiating table and take the path of dialogue and diplomacy so that peace and stability can be ensured in West Asia.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T11:10:01+00:00",
+        "link": "https://newsonair.gov.in/india-closely-following-developments-in-west-asia-calls-for-safe-navigation-through-strait-of-hormuz-mea/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Labour Minister advises youth to upgrade skills by using latest technology of AI",
+        "summary": "Union Minister for Labour and Employment, Dr. Mansukh Mandaviya, highlighted that artificial intelligence can effectively enhance the skills of youth. Speaking as the chief guest at the BRICS Trade Union Forum Summit in Hyderabad, the Minister advised everyone to use the latest technology responsibly and urged workers to overcome the fear of job losses […]",
+        "article": "Union Minister for Labour and Employment, Dr. Mansukh Mandaviya, highlighted that artificial intelligence can effectively enhance the skills of youth. Speaking as the chief guest at the BRICS Trade Union Forum Summit in Hyderabad, the Minister advised everyone to use the latest technology responsibly and urged workers to overcome the fear of job losses by upgrading their skills accordingly. The Minister noted that artificial intelligence and robotics technology are driving major transformations across the nation. Additionally, he called for strong collaboration between industries and trade unions, acknowledging the invaluable role of workers in national and state development. He also stressed the importance of mutual cooperation among BRICS nations to foster shared growth. To keep pace with technological advancements, the Minister promised that new courses would be introduced through the Skill India Mission. He recalled the success of the e-Shram portal, an initiative designed to bring unorganized sector workers under one umbrella and directly deliver social security benefits to them. Furthermore, Dr. Mandaviya stated that the central government is focusing on Migration and Mobility Agreements to create more international employment opportunities for Indian workers.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T10:36:44+00:00",
+        "link": "https://newsonair.gov.in/union-labour-minister-advises-youth-to-upgrade-skills-by-using-latest-technology-of-ai/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt reviews foodgrain storage ecosystem to create more efficient, future-ready framework",
+        "summary": "Union Minister for Consumer Affairs, Food and Public Distribution Pralhad Joshi today chaired a review meeting to strengthen the country&#8217;s foodgrain storage ecosystem in New Delhi. In a social media post, Mr. Joshi said the meeting reviewed the proposed Storage Policy and the Private Entrepreneurs Guarantee (PEG) Scheme. He said the discussions focused on addressing […]",
+        "article": "Union Minister for Consumer Affairs, Food and Public Distribution Pralhad Joshi today chaired a review meeting to strengthen the country&#8217;s foodgrain storage ecosystem in New Delhi. In a social media post, Mr. Joshi said the meeting reviewed the proposed Storage Policy and the Private Entrepreneurs Guarantee (PEG) Scheme. He said the discussions focused on addressing emerging challenges in foodgrain management, including regional storage imbalances, surplus stock management, optimisation of storage capacity, and the need to revise storage norms in line with current procurement trends. Mr Joshi said that these reforms are aimed at creating a more efficient, scientific and future-ready storage framework that reinforces India&#8217;s food security.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T10:21:34+00:00",
+        "link": "https://newsonair.gov.in/govt-reviews-foodgrain-storage-ecosystem-to-create-more-efficient-future-ready-framework/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Pralhad.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "SC declines to restore status quo ante at Bhojshala in Madhya Pradesh",
+        "summary": "The Supreme Court today agreed to hear the Bhojshala dispute on a day-to-day basis to resolve the issue. However, the bench comprising Chief Justice of India Surya Kant, Justice Joymalya Bagchi and Justice V Mohana declined the petitioners&#8217; request for an interim order restoring the status quo ante, under which Muslims were permitted to […]",
+        "article": "The Supreme Court today agreed to hear the Bhojshala dispute on a day-to-day basis to resolve the issue. However, the bench comprising Chief Justice of India Surya Kant, Justice Joymalya Bagchi and Justice V Mohana declined the petitioners&#8217; request for an interim order restoring the status quo ante, under which Muslims were permitted to offer namaz on Fridays alongside Hindu worship on designated days. The bench directed the state to make available a separate open space, adjacent to the subject site, for offering namaz on Fridays between 1 PM and 3 PM. The bench clarified that this arrangement is ad-hoc in nature, subject to the final outcome of the matter. The bench urged both sides to exercise patience, describing the matter as highly sensitive. The top court was hearing a batch of appeals challenging a Madhya Pradesh High Court order, which said the disputed Bhojshala complex in Dhar district was a temple dedicated to Goddess Saraswati and prohibited the offering of Namaz there.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T10:13:59+00:00",
+        "link": "https://newsonair.gov.in/sc-declines-to-restore-status-quo-ante-at-bhojshala-in-madhya-pradesh/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/supreme-court-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "BJP accuses AAP, Congress of backing Ankit Sharma murder convicts",
         "summary": "Bharatiya Janata Party (BJP) today accused the Aam Aadmi Party (AAP) and Congress of backing those convicted in killing of IB officer Ankit Sharma during northeast Delhi riots in 2020. &#160; Addressing the media in New Delhi, BJP National Spokesperson Gaurav Bhatia welcomed yesterday’s Delhi court verdict convicting AAP former councillor Tahir Hussain and four […]",
         "article": "Bharatiya Janata Party (BJP) today accused the Aam Aadmi Party (AAP) and Congress of backing those convicted in killing of IB officer Ankit Sharma during northeast Delhi riots in 2020. &nbsp; Addressing the media in New Delhi, BJP National Spokesperson Gaurav Bhatia welcomed yesterday’s Delhi court verdict convicting AAP former councillor Tahir Hussain and four other people in the killing of an IB officer. Mr Bhatia accused AAP national convener Arvind Kejriwal of defending Hussain for vote-bank politics. &nbsp; He further alleged that Mr. Kejriwal instigated and sponsored the Delhi riots during his tenure as Chief Minister. Mr Bhatia also alleged Senior Congress leader Sonia Gandhi and Mr Kejriwal of engaging in dirty and low-level politics by backing those accused.",
@@ -286,51 +339,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Mortal remains of three Andhra tourists killed in Vietnam boat accident reach Hyderabad",
-        "summary": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has […]",
-        "article": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has said, all necessary assistance has been extended to the bereaved families and the official machinery continues to coordinate the final arrangements. The mortal remains had reached India last night after the repatriation process was completed and were flown to Hyderabad early this morning. Union Civil Aviation Minister K. Ram Mohan Naidu coordinated with the Ministry of External Affairs, the Indian Embassy in Vietnam and Andhra Pradesh Bhavan officials to facilitate the early return of the bodies. Officials also confirmed that other tourists from state involved in the incident had returned home safely earlier.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T06:00:58+00:00",
-        "link": "https://newsonair.gov.in/mortal-remains-of-three-andhra-tourists-killed-in-vietnam-boat-accident-reach-hyderabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/l.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Bharat Tex 2026 begins at Bharat Mandapam in New Delhi",
-        "summary": "India&#8217;s largest global textile event, Bharat Tex 2026, began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh today inaugurated the event. Speaking to the media, Mr Singh said, Bharat Tex is the vision of the Prime Minister. He said it is now an international event, and every year there has […]",
-        "article": "India&#8217;s largest global textile event, Bharat Tex 2026, began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh today inaugurated the event. Speaking to the media, Mr Singh said, Bharat Tex is the vision of the Prime Minister. He said it is now an international event, and every year there has been an increase of exhibitors, buyers, sellers and visitors. He said this year, over 60 thousand buyers and exhibitors from 130 countries are participating in the event. The Minister said that MSMEs and entrepreneurs are also attending the Bharat Tex. He said, Free Trade Agreements with different countries are also benefiting the Textiles Sector. The inauguration ceremony was also attended by Minister of State for Textiles Pabitra Margherita and Textiles Ministers from different states. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyers, investors, policymakers, international delegations, artisans, start-ups and technology providers. Inspired by Prime Minister Narendra Modi’s 5F Vision- Farm to Fibre to Factory to Fashion to Foreign, Bharat Tex 2026 has evolved into a premier global platform for business, investment, innovation, policy dialogue and strategic partnerships across the textile value chain. The third edition of Bharat Tex 2026 is witnessing participation of around seven thousand buyers and over 20 thousand textile products. International exhibitors from 14 countries are participating in the event. The event will bring together over 350 speakers, including international experts, national industry leaders, policymakers and thought leaders from more than 20 countries.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T05:58:38+00:00",
-        "link": "https://newsonair.gov.in/bharat-tex-2026-begins-at-bharat-mandapam-in-new-delhi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMD forecasts heavy to very heavy rainfall over Bihar, Odisha",
-        "summary": "India Meteorological Department (IMD) has forecast heavy to very heavy rainfall over Bihar and Odisha today. Heavy rainfall over these regions is expected to continue till tomorrow. Parts of North-east India, Chhattisgarh, Jharkhand, West Bengal and Sikkim are also likely to receive moderate to heavy rainfall during the day. According to the Met Department, […]",
-        "article": "India Meteorological Department (IMD) has forecast heavy to very heavy rainfall over Bihar and Odisha today. Heavy rainfall over these regions is expected to continue till tomorrow. Parts of North-east India, Chhattisgarh, Jharkhand, West Bengal and Sikkim are also likely to receive moderate to heavy rainfall during the day. According to the Met Department, thunderstorms accompanied by lightning and gusty winds are also expected today over parts of Andaman and Nicobar Islands, Andhra Pradesh, Jammu and Kashmir, Ladakh, Bihar, Gangetic West Bengal, Jharkhand, Sikkim, Karnataka and Odisha. IMD also predicted heat wave conditions today at places over Coastal Andhra Pradesh. Meanwhile, Parts of the National Capital received light showers this morning.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T03:34:26+00:00",
-        "link": "https://newsonair.gov.in/imd-forecasts-heavy-to-very-heavy-rainfall-over-bihar-odisha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/imd.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India condemns attacks on vessels carrying Indian seafarers in Strait of Hormuz",
-        "summary": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks […]",
-        "article": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks was lodged with him. Both the vessels were carrying 30 Indian seafarers, among their combined crew of 46. The External Affairs Ministry said in a statement that of the 12 Indian nationals onboard MT Al Bahiyah, one has lost his life and another has been injured. Of the 18 Indian nationals onboard MT Mombasa, nine have sustained injuries, including two who are reported to be seriously injured. The Ministry extended condolences to the family of the deceased Indian national and wished speedy recovery to those injured. Indian Mission and Post in the UAE are closely monitoring the situation and are in touch with the UAE authorities to ensure all possible assistance to the affected Indian seafarers. New Delhi has strongly condemned these attacks and acts of violence targeting seafarers and disrupting free and safe navigation through international waterways like the Strait of Hormuz. India has also reiterated deep concern on account of the resumption of attacks and escalation of hostilities in the West-Asian region and called for immediate cessation of violence and a return to dialogue and diplomacy in the interests of peace, security and stability in the region. The statement added that the targeting of commercial shipping and civilian infrastructure in the region must cease so that free and unimpeded navigation and commerce through international waterways in the region can be restored at the earliest.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T08:37:01+00:00",
-        "link": "https://newsonair.gov.in/india-condemns-attacks-on-vessels-carrying-indian-seafarers-in-strait-of-hormuz/",
-        "post_id": 1737296,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Karnataka CM announces India’s first government-driven AI University",
         "summary": "Karnataka Chief Minister D.K. Shivakumar today announced that India’s first government-driven Artificial Intelligence (AI) University will come up in the state. He also announced that Government will set up an AI Hub as an incubation centre for research and development in AI by start-ups, companies and others. Making these announcements while inaugurating Google Connect […]",
         "article": "Karnataka Chief Minister D.K. Shivakumar today announced that India’s first government-driven Artificial Intelligence (AI) University will come up in the state. He also announced that Government will set up an AI Hub as an incubation centre for research and development in AI by start-ups, companies and others. Making these announcements while inaugurating Google Connect India 2026 in Bengaluru, Shivakumar said the proposed university would play a pivotal role in building world-class AI talent, advancing research and strengthening collaboration between academia, industry and government. It will drive the state’s ambition to become a global leader in responsible AI innovation. Addressing technology leaders, innovators, entrepreneurs, developers, researchers and policymakers from across India and the world, the Chief Minister said Karnataka currently contributes nearly 40 per cent of India’s software exports, while Bengaluru is home to over 17,000 startups and thousands of Global Capability Centres that design and engineer products for the global market. He said the state’s first ambition is to become an AI-native state, where Artificial Intelligence is used responsibly to improve governance and everyday lives rather than remaining a technological tool.",
@@ -349,18 +357,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T08:28:27+00:00",
         "link": "https://newsonair.gov.in/india-uk-comprehensive-economic-and-trade-agreement-comes-into-force-tomorrow/",
         "post_id": 1737125,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India summons Iranian envoy after missile strike kills Indian national",
-        "summary": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic […]",
-        "article": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic move came after the UAE Ministry of Defence confirmed that the attack on tankers Mombasa and Bahia claimed the life of an Indian national and injured eight crew members, including six Indians and two Ukrainian nationals. Four of the injured are reported to be in critical condition. Condemning the attack, the UAE Ministry of Defence described it as a “serious violation” and a breach of international law. It said the UAE reserves the right to respond to the escalation and take all necessary measures to safeguard its sovereignty, people and territorial waters. The incident comes amid escalating tensions in the Strait of Hormuz, one of the world’s most strategically important maritime trade routes.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T08:20:43+00:00",
-        "link": "https://newsonair.gov.in/india-summons-iranian-envoy-after-missile-strike-kills-indian-national/",
-        "post_id": 1737128,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -368,6 +364,61 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "Railways to transport fertilizers in specially designed containers to enable non-polluting storage",
+        "summary": "Railways Minister Ashwini Vaishnaw has announced a major policy reform that allows fertilizers to be transported in specially designed containers instead of traditional covered box wagons. Briefing media in New Delhi today on the reforms aimed at modernizing Indian Railways, Mr Vaishnaw said, Railways account for 85 per cent share in transportation of fertilisers. […]",
+        "article": "Railways Minister Ashwini Vaishnaw has announced a major policy reform that allows fertilizers to be transported in specially designed containers instead of traditional covered box wagons. Briefing media in New Delhi today on the reforms aimed at modernizing Indian Railways, Mr Vaishnaw said, Railways account for 85 per cent share in transportation of fertilisers. He said, container handling is easier and enables non-polluting storage. Mr Vaishnaw added that individual container can be stored at the rake point, instead of detaining the entire rake. The minister said Prime Minister Narendra Modi has continuously encouraged to bring reforms in the Railways. Mr Vaishnaw announced a major reform in fly ash transportation, shifting movement from open railway wagons to specially designed containers. He highlighted that India generates nearly 340 million tonnes of fly ash annually, which is highly useful in cement production and road construction. The Minister said, the new container-based system will reduce dust pollution during loading, transport and storage. Mr Vaishnaw also announced a unified licence system under container policy. Mr Vaishnaw said Wagon design can now be done by the industry. He said that any designer or manufacturer can propose a new wagon design. The Minister informed that after evaluating the design, the Research Designs and Standards Organisation (RDSO) will give permission for the prototype. The Minister said this will enable special design wagons for specific industry needs. The Minister also informed that Rail bhoomi portal will be launched to manage the complete process of land acquisition. Mr Vaishnaw said, it will enables online processing of major land acquisition stages. On skill certification framework for railway projects, Mr Vaishnaw said that this system will be implemented across all projects in a maximum of 24 months. He said, when large scale infrastructure creation work is underway in the country, it is important that plumbers, welders, fitters, masons and concrete testers and all other workers are well trained.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T11:36:27+00:00",
+        "link": "https://newsonair.gov.in/railways-to-transport-fertilizers-in-specially-designed-containers-to-enable-non-polluting-storage/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/rail-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India closely following developments in West Asia, calls for safe navigation through Strait of Hormuz. : MEA",
+        "summary": "New Delhi has said that it is closely following the developments in West Asia. It has again called for safe and unimpeded navigation and the flow of commerce through the Strait of Hormuz. Briefing media in New Delhi this evening, spokesperson of the Ministry of External Affairs Randhir Jaiswal said, this is key for ensuring […]",
+        "article": "New Delhi has said that it is closely following the developments in West Asia. It has again called for safe and unimpeded navigation and the flow of commerce through the Strait of Hormuz. Briefing media in New Delhi this evening, spokesperson of the Ministry of External Affairs Randhir Jaiswal said, this is key for ensuring the economic and energy security of people across the world. He said, the Ministry has issued a statement after summoning the Deputy Chief of Mission of Iran. Mr Jaiswal said, New Delhi conveyed Tehran its deepest concerns and that it strongly condemned what has happened. He said, a precious Indian life has been lost and several Indian nationals have been injured. A couple of them are seriously injured. The Spokesperson said, India conveyed its strongest protest to the Iranian side on this matter, stating that these attacks must stop at the earliest. At the same time, there should be de-escalation, and the two sides should come to the negotiating table and take the path of dialogue and diplomacy so that peace and stability can be ensured in West Asia.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T11:10:01+00:00",
+        "link": "https://newsonair.gov.in/india-closely-following-developments-in-west-asia-calls-for-safe-navigation-through-strait-of-hormuz-mea/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Labour Minister advises youth to upgrade skills by using latest technology of AI",
+        "summary": "Union Minister for Labour and Employment, Dr. Mansukh Mandaviya, highlighted that artificial intelligence can effectively enhance the skills of youth. Speaking as the chief guest at the BRICS Trade Union Forum Summit in Hyderabad, the Minister advised everyone to use the latest technology responsibly and urged workers to overcome the fear of job losses […]",
+        "article": "Union Minister for Labour and Employment, Dr. Mansukh Mandaviya, highlighted that artificial intelligence can effectively enhance the skills of youth. Speaking as the chief guest at the BRICS Trade Union Forum Summit in Hyderabad, the Minister advised everyone to use the latest technology responsibly and urged workers to overcome the fear of job losses by upgrading their skills accordingly. The Minister noted that artificial intelligence and robotics technology are driving major transformations across the nation. Additionally, he called for strong collaboration between industries and trade unions, acknowledging the invaluable role of workers in national and state development. He also stressed the importance of mutual cooperation among BRICS nations to foster shared growth. To keep pace with technological advancements, the Minister promised that new courses would be introduced through the Skill India Mission. He recalled the success of the e-Shram portal, an initiative designed to bring unorganized sector workers under one umbrella and directly deliver social security benefits to them. Furthermore, Dr. Mandaviya stated that the central government is focusing on Migration and Mobility Agreements to create more international employment opportunities for Indian workers.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T10:36:44+00:00",
+        "link": "https://newsonair.gov.in/union-labour-minister-advises-youth-to-upgrade-skills-by-using-latest-technology-of-ai/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt reviews foodgrain storage ecosystem to create more efficient, future-ready framework",
+        "summary": "Union Minister for Consumer Affairs, Food and Public Distribution Pralhad Joshi today chaired a review meeting to strengthen the country&#8217;s foodgrain storage ecosystem in New Delhi. In a social media post, Mr. Joshi said the meeting reviewed the proposed Storage Policy and the Private Entrepreneurs Guarantee (PEG) Scheme. He said the discussions focused on addressing […]",
+        "article": "Union Minister for Consumer Affairs, Food and Public Distribution Pralhad Joshi today chaired a review meeting to strengthen the country&#8217;s foodgrain storage ecosystem in New Delhi. In a social media post, Mr. Joshi said the meeting reviewed the proposed Storage Policy and the Private Entrepreneurs Guarantee (PEG) Scheme. He said the discussions focused on addressing emerging challenges in foodgrain management, including regional storage imbalances, surplus stock management, optimisation of storage capacity, and the need to revise storage norms in line with current procurement trends. Mr Joshi said that these reforms are aimed at creating a more efficient, scientific and future-ready storage framework that reinforces India&#8217;s food security.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T10:21:34+00:00",
+        "link": "https://newsonair.gov.in/govt-reviews-foodgrain-storage-ecosystem-to-create-more-efficient-future-ready-framework/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Pralhad.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "SC declines to restore status quo ante at Bhojshala in Madhya Pradesh",
+        "summary": "The Supreme Court today agreed to hear the Bhojshala dispute on a day-to-day basis to resolve the issue. However, the bench comprising Chief Justice of India Surya Kant, Justice Joymalya Bagchi and Justice V Mohana declined the petitioners&#8217; request for an interim order restoring the status quo ante, under which Muslims were permitted to […]",
+        "article": "The Supreme Court today agreed to hear the Bhojshala dispute on a day-to-day basis to resolve the issue. However, the bench comprising Chief Justice of India Surya Kant, Justice Joymalya Bagchi and Justice V Mohana declined the petitioners&#8217; request for an interim order restoring the status quo ante, under which Muslims were permitted to offer namaz on Fridays alongside Hindu worship on designated days. The bench directed the state to make available a separate open space, adjacent to the subject site, for offering namaz on Fridays between 1 PM and 3 PM. The bench clarified that this arrangement is ad-hoc in nature, subject to the final outcome of the matter. The bench urged both sides to exercise patience, describing the matter as highly sensitive. The top court was hearing a batch of appeals challenging a Madhya Pradesh High Court order, which said the disputed Bhojshala complex in Dhar district was a temple dedicated to Goddess Saraswati and prohibited the offering of Namaz there.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T10:13:59+00:00",
+        "link": "https://newsonair.gov.in/sc-declines-to-restore-status-quo-ante-at-bhojshala-in-madhya-pradesh/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/supreme-court-4.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "BJP accuses AAP, Congress of backing Ankit Sharma murder convicts",
         "summary": "Bharatiya Janata Party (BJP) today accused the Aam Aadmi Party (AAP) and Congress of backing those convicted in killing of IB officer Ankit Sharma during northeast Delhi riots in 2020. &#160; Addressing the media in New Delhi, BJP National Spokesperson Gaurav Bhatia welcomed yesterday’s Delhi court verdict convicting AAP former councillor Tahir Hussain and four […]",
         "article": "Bharatiya Janata Party (BJP) today accused the Aam Aadmi Party (AAP) and Congress of backing those convicted in killing of IB officer Ankit Sharma during northeast Delhi riots in 2020. &nbsp; Addressing the media in New Delhi, BJP National Spokesperson Gaurav Bhatia welcomed yesterday’s Delhi court verdict convicting AAP former councillor Tahir Hussain and four other people in the killing of an IB officer. Mr Bhatia accused AAP national convener Arvind Kejriwal of defending Hussain for vote-bank politics. &nbsp; He further alleged that Mr. Kejriwal instigated and sponsored the Delhi riots during his tenure as Chief Minister. Mr Bhatia also alleged Senior Congress leader Sonia Gandhi and Mr Kejriwal of engaging in dirty and low-level politics by backing those accused.",
@@ -401,51 +452,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Mortal remains of three Andhra tourists killed in Vietnam boat accident reach Hyderabad",
-        "summary": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has […]",
-        "article": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has said, all necessary assistance has been extended to the bereaved families and the official machinery continues to coordinate the final arrangements. The mortal remains had reached India last night after the repatriation process was completed and were flown to Hyderabad early this morning. Union Civil Aviation Minister K. Ram Mohan Naidu coordinated with the Ministry of External Affairs, the Indian Embassy in Vietnam and Andhra Pradesh Bhavan officials to facilitate the early return of the bodies. Officials also confirmed that other tourists from state involved in the incident had returned home safely earlier.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T06:00:58+00:00",
-        "link": "https://newsonair.gov.in/mortal-remains-of-three-andhra-tourists-killed-in-vietnam-boat-accident-reach-hyderabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/l.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Bharat Tex 2026 begins at Bharat Mandapam in New Delhi",
-        "summary": "India&#8217;s largest global textile event, Bharat Tex 2026, began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh today inaugurated the event. Speaking to the media, Mr Singh said, Bharat Tex is the vision of the Prime Minister. He said it is now an international event, and every year there has […]",
-        "article": "India&#8217;s largest global textile event, Bharat Tex 2026, began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh today inaugurated the event. Speaking to the media, Mr Singh said, Bharat Tex is the vision of the Prime Minister. He said it is now an international event, and every year there has been an increase of exhibitors, buyers, sellers and visitors. He said this year, over 60 thousand buyers and exhibitors from 130 countries are participating in the event. The Minister said that MSMEs and entrepreneurs are also attending the Bharat Tex. He said, Free Trade Agreements with different countries are also benefiting the Textiles Sector. The inauguration ceremony was also attended by Minister of State for Textiles Pabitra Margherita and Textiles Ministers from different states. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyers, investors, policymakers, international delegations, artisans, start-ups and technology providers. Inspired by Prime Minister Narendra Modi’s 5F Vision- Farm to Fibre to Factory to Fashion to Foreign, Bharat Tex 2026 has evolved into a premier global platform for business, investment, innovation, policy dialogue and strategic partnerships across the textile value chain. The third edition of Bharat Tex 2026 is witnessing participation of around seven thousand buyers and over 20 thousand textile products. International exhibitors from 14 countries are participating in the event. The event will bring together over 350 speakers, including international experts, national industry leaders, policymakers and thought leaders from more than 20 countries.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T05:58:38+00:00",
-        "link": "https://newsonair.gov.in/bharat-tex-2026-begins-at-bharat-mandapam-in-new-delhi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "IMD forecasts heavy to very heavy rainfall over Bihar, Odisha",
-        "summary": "India Meteorological Department (IMD) has forecast heavy to very heavy rainfall over Bihar and Odisha today. Heavy rainfall over these regions is expected to continue till tomorrow. Parts of North-east India, Chhattisgarh, Jharkhand, West Bengal and Sikkim are also likely to receive moderate to heavy rainfall during the day. According to the Met Department, […]",
-        "article": "India Meteorological Department (IMD) has forecast heavy to very heavy rainfall over Bihar and Odisha today. Heavy rainfall over these regions is expected to continue till tomorrow. Parts of North-east India, Chhattisgarh, Jharkhand, West Bengal and Sikkim are also likely to receive moderate to heavy rainfall during the day. According to the Met Department, thunderstorms accompanied by lightning and gusty winds are also expected today over parts of Andaman and Nicobar Islands, Andhra Pradesh, Jammu and Kashmir, Ladakh, Bihar, Gangetic West Bengal, Jharkhand, Sikkim, Karnataka and Odisha. IMD also predicted heat wave conditions today at places over Coastal Andhra Pradesh. Meanwhile, Parts of the National Capital received light showers this morning.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T03:34:26+00:00",
-        "link": "https://newsonair.gov.in/imd-forecasts-heavy-to-very-heavy-rainfall-over-bihar-odisha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/imd.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India condemns attacks on vessels carrying Indian seafarers in Strait of Hormuz",
-        "summary": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks […]",
-        "article": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks was lodged with him. Both the vessels were carrying 30 Indian seafarers, among their combined crew of 46. The External Affairs Ministry said in a statement that of the 12 Indian nationals onboard MT Al Bahiyah, one has lost his life and another has been injured. Of the 18 Indian nationals onboard MT Mombasa, nine have sustained injuries, including two who are reported to be seriously injured. The Ministry extended condolences to the family of the deceased Indian national and wished speedy recovery to those injured. Indian Mission and Post in the UAE are closely monitoring the situation and are in touch with the UAE authorities to ensure all possible assistance to the affected Indian seafarers. New Delhi has strongly condemned these attacks and acts of violence targeting seafarers and disrupting free and safe navigation through international waterways like the Strait of Hormuz. India has also reiterated deep concern on account of the resumption of attacks and escalation of hostilities in the West-Asian region and called for immediate cessation of violence and a return to dialogue and diplomacy in the interests of peace, security and stability in the region. The statement added that the targeting of commercial shipping and civilian infrastructure in the region must cease so that free and unimpeded navigation and commerce through international waterways in the region can be restored at the earliest.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T08:37:01+00:00",
-        "link": "https://newsonair.gov.in/india-condemns-attacks-on-vessels-carrying-indian-seafarers-in-strait-of-hormuz/",
-        "post_id": 1737296,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Karnataka CM announces India’s first government-driven AI University",
         "summary": "Karnataka Chief Minister D.K. Shivakumar today announced that India’s first government-driven Artificial Intelligence (AI) University will come up in the state. He also announced that Government will set up an AI Hub as an incubation centre for research and development in AI by start-ups, companies and others. Making these announcements while inaugurating Google Connect […]",
         "article": "Karnataka Chief Minister D.K. Shivakumar today announced that India’s first government-driven Artificial Intelligence (AI) University will come up in the state. He also announced that Government will set up an AI Hub as an incubation centre for research and development in AI by start-ups, companies and others. Making these announcements while inaugurating Google Connect India 2026 in Bengaluru, Shivakumar said the proposed university would play a pivotal role in building world-class AI talent, advancing research and strengthening collaboration between academia, industry and government. It will drive the state’s ambition to become a global leader in responsible AI innovation. Addressing technology leaders, innovators, entrepreneurs, developers, researchers and policymakers from across India and the world, the Chief Minister said Karnataka currently contributes nearly 40 per cent of India’s software exports, while Bengaluru is home to over 17,000 startups and thousands of Global Capability Centres that design and engineer products for the global market. He said the state’s first ambition is to become an AI-native state, where Artificial Intelligence is used responsibly to improve governance and everyday lives rather than remaining a technological tool.",
@@ -467,29 +473,17 @@ window.VM_NEWS = {
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "India summons Iranian envoy after missile strike kills Indian national",
-        "summary": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic […]",
-        "article": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic move came after the UAE Ministry of Defence confirmed that the attack on tankers Mombasa and Bahia claimed the life of an Indian national and injured eight crew members, including six Indians and two Ukrainian nationals. Four of the injured are reported to be in critical condition. Condemning the attack, the UAE Ministry of Defence described it as a “serious violation” and a breach of international law. It said the UAE reserves the right to respond to the escalation and take all necessary measures to safeguard its sovereignty, people and territorial waters. The incident comes amid escalating tensions in the Strait of Hormuz, one of the world’s most strategically important maritime trade routes.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T08:20:43+00:00",
-        "link": "https://newsonair.gov.in/india-summons-iranian-envoy-after-missile-strike-kills-indian-national/",
-        "post_id": 1737128,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
       }
     ],
     "world": [
       {
-        "title": "India condemns attacks on vessels carrying Indian seafarers in Strait of Hormuz",
-        "summary": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks […]",
-        "article": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks was lodged with him. Both the vessels were carrying 30 Indian seafarers, among their combined crew of 46. The External Affairs Ministry said in a statement that of the 12 Indian nationals onboard MT Al Bahiyah, one has lost his life and another has been injured. Of the 18 Indian nationals onboard MT Mombasa, nine have sustained injuries, including two who are reported to be seriously injured. The Ministry extended condolences to the family of the deceased Indian national and wished speedy recovery to those injured. Indian Mission and Post in the UAE are closely monitoring the situation and are in touch with the UAE authorities to ensure all possible assistance to the affected Indian seafarers. New Delhi has strongly condemned these attacks and acts of violence targeting seafarers and disrupting free and safe navigation through international waterways like the Strait of Hormuz. India has also reiterated deep concern on account of the resumption of attacks and escalation of hostilities in the West-Asian region and called for immediate cessation of violence and a return to dialogue and diplomacy in the interests of peace, security and stability in the region. The statement added that the targeting of commercial shipping and civilian infrastructure in the region must cease so that free and unimpeded navigation and commerce through international waterways in the region can be restored at the earliest.",
+        "title": "France: President Emmanuel Macron leads Bastille Day celebration in Paris",
+        "summary": "In France, Bastille Day is being celebrated with a strong display of European unity as troops and aircraft from across the continent joined the annual military parade in Paris. France President Emmanuel Macron, celebrating his final Bastille Day in office, hosted around 30 world leaders, including Ukrainian President Volodymyr Zelenskyy, highlighting Europe&#8217;s commitment to […]",
+        "article": "In France, Bastille Day is being celebrated with a strong display of European unity as troops and aircraft from across the continent joined the annual military parade in Paris. France President Emmanuel Macron, celebrating his final Bastille Day in office, hosted around 30 world leaders, including Ukrainian President Volodymyr Zelenskyy, highlighting Europe&#8217;s commitment to collective security. The parade featured Ukrainian soldiers, French-trained Ukrainian fighter pilots, and nearly 6,800 troops, the largest participation in the event&#8217;s history. Military aircraft from several European nations also took part. Bastille Day, observed every year on July 14, commemorates the storming of the Bastille prison in 1789, a landmark event that symbolised the start of the French Revolution. The uprising ultimately led to the fall of the French monarchy and laid the foundations for modern France.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T08:37:01+00:00",
-        "link": "https://newsonair.gov.in/india-condemns-attacks-on-vessels-carrying-indian-seafarers-in-strait-of-hormuz/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/strait.jpg",
+        "pubDate": "2026-07-14T11:00:14+00:00",
+        "link": "https://newsonair.gov.in/france-president-emmanuel-macron-leads-bastille-day-celebration-in-paris/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/francew.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -707,6 +701,17 @@ window.VM_NEWS = {
     ],
     "business": [
       {
+        "title": "Sensex, Nifty end in red",
+        "summary": "Benchmark domestic equity indices ended around 0.7 per cent lower today. The Sensex fell 561 points to close at 77 thousand fifty five. The Nifty declined 159 points to settle at 24 thousand fifty two. In the broader market on the National Stock Exchange, Midcap 100 slipped 0.44 per cent and Smallcap 100 index […]",
+        "article": "Benchmark domestic equity indices ended around 0.7 per cent lower today. The Sensex fell 561 points to close at 77 thousand fifty five. The Nifty declined 159 points to settle at 24 thousand fifty two. In the broader market on the National Stock Exchange, Midcap 100 slipped 0.44 per cent and Smallcap 100 index fell nearly one per cent.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T10:51:21+00:00",
+        "link": "https://newsonair.gov.in/sensex-nifty-end-in-red/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/SENSEX.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "RBI Holds Third Annual Conference of Internal Ombudsmen in Mumbai",
         "summary": "The third annual conference of Internal Ombudsmen was organised by the Reserve Bank in Mumbai today, bringing together representatives from banks, non-banking financial companies, credit information companies as well as RBI Ombudsman. Addressing the gathering, RBI Deputy Governor, Mr. Swaminathan J. urged boards and senior management to work towards building an effective IO […]",
         "article": "The third annual conference of Internal Ombudsmen was organised by the Reserve Bank in Mumbai today, bringing together representatives from banks, non-banking financial companies, credit information companies as well as RBI Ombudsman. Addressing the gathering, RBI Deputy Governor, Mr. Swaminathan J. urged boards and senior management to work towards building an effective IO mechanism and use its insights to strengthen customer service and grievance redress. Directing officers to provide a meaningful, fair and effective resolution of customer complaints, the Deputy Governor asked them to identify recurring issues, undertake root cause analysis and help implement remedial measures. During the conference, discussions were held over recent grievance redress developments, regulatory expectations, and RBI Ombudsman insights, focusing on faster and higher quality resolutions and systemic improvements to prevent avoidable escalations.",
@@ -780,17 +785,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-10T11:00:31+00:00",
         "link": "https://newsonair.gov.in/sip-contributions-increased-by-2-7-in-june-compared-to-may/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/01/SIP-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Domestic markets end bit higher with 1% hike",
-        "summary": "Benchmark domestic equity indices ended over one per cent higher today led by broad-based buying. The Sensex rose 828 points to close at 77 thousand 569. The Nifty also climbed 244 points to settle at 24 thousand 207. The broader markets on the National Stock Exchange outperformed the frontline indices. The Midcap 100 advanced 1.4 […]",
-        "article": "Benchmark domestic equity indices ended over one per cent higher today led by broad-based buying. The Sensex rose 828 points to close at 77 thousand 569. The Nifty also climbed 244 points to settle at 24 thousand 207. The broader markets on the National Stock Exchange outperformed the frontline indices. The Midcap 100 advanced 1.4 per cent, while the Smallcap 100 climbed more than 1.5 per cent. Both the indices touched their fresh 52-week highs during the trading session. Earlier today, the benchmark indices opened higher amid positive global cues and maintained upbeat momentum throughout the session. In the Sensex pack, 25 out of 30 companies registered gains. Among the top performers, Reliance soared 2.3 per cent, Tech Mahindra as well as Bharat Electronics Limited gained around 2.2 per cent and Axis Bank jumped 1.9 per cent. In contrast, Eternal shed 0.9 per cent, Bharti Airtel dropped half a per cent, and Sun Pharma lost 0.2 per cent. In the sectoral indices on the BSE, all 25 sectors ended in the positive zone. Among the top gainers, Realty jumped 3.4 per cent, PSU Banks rose over 3.2 per cent, and MidSmall Private Banks Quality Tilt added more than two and a half per cent. The overall market breadth at the BSE was positive, as shares of 2 thousand 883 advanced, 1 thousand 377 companies declined, and 174 remained unchanged.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T10:51:21+00:00",
-        "link": "https://newsonair.gov.in/domestic-markets-end-with-modest-gains-despite-positive-opening/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/SENSEX.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1034,6 +1028,50 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "फ्रांस: राष्ट्रपति मैक्रों ने बैस्टिल दिवस समारोह की मेजबानी की",
+        "summary": "फ्रांस में आज बैस्टिल दिवस मनाया जा रहा है। इस मौके पर पेरिस में आयोजित वार्षिक सैन्य परेड में पूरे यूरोप की एकजुटता दिखाई दी, जिसमें कई यूरोपीय देशों के सैनिकों और विमानों ने हिस्सा लिया। फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने अपने कार्यकाल के अंतिम बैस्टिल दिवस समारोह की मेजबानी की। समारोह में […]",
+        "article": "फ्रांस में आज बैस्टिल दिवस मनाया जा रहा है। इस मौके पर पेरिस में आयोजित वार्षिक सैन्य परेड में पूरे यूरोप की एकजुटता दिखाई दी, जिसमें कई यूरोपीय देशों के सैनिकों और विमानों ने हिस्सा लिया। फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने अपने कार्यकाल के अंतिम बैस्टिल दिवस समारोह की मेजबानी की। समारोह में यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की सहित करीब 30 देशों के नेता शामिल हुए। इस दौरान यूरोप की सामूहिक सुरक्षा के प्रति प्रतिबद्धता को रेखांकित किया गया। परेड में यूक्रेन के सैनिकों, फ्रांस में प्रशिक्षित यूक्रेनी लड़ाकू विमान पायलटों और करीब छह हजार आठ सौ सैनिकों ने भाग लिया, जो इस आयोजन के इतिहास में सबसे बड़ी भागीदारी है। प्रत्&#x200d;येक वर्ष 14 जुलाई को मनाया जाने वाला बैस्टिल दिवस वर्ष 1789 में बैस्टिल जेल पर हुए हमले की याद में मनाया जाता है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T11:18:02+00:00",
+        "link": "https://newsonair.gov.in/hi/france-president-emmanuel-macron-leads-bastille-day-celebration-in-paris/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/francew-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "श्रम और रोजगार मंत्री मनसुख मांडविया ने एआई के जिम्मेदारीपूर्ण उपयोग पर दिया जोर",
+        "summary": "श्रम और रोजगार मंत्री मनसुख मांडविया ने कहा है कि आर्टिफिशियल इंटेलीजेंस-एआई युवाओं के कौशल को प्रभावी ढंग से बढ़ा सकती है। हैदराबाद में ब्रिक्स ट्रेड यूनियन फोरम शिखर सम्मेलन में उन्होंने सरकार की अनेक सामाजिक सुरक्षा पहलों पर बल दिया और स्किल इंडिया मिशन के अंतर्गत चलाए जा रहे विभिन्न कार्यक्रमों का उल्‍लेख किया। […]",
+        "article": "श्रम और रोजगार मंत्री मनसुख मांडविया ने कहा है कि आर्टिफिशियल इंटेलीजेंस-एआई युवाओं के कौशल को प्रभावी ढंग से बढ़ा सकती है। हैदराबाद में ब्रिक्स ट्रेड यूनियन फोरम शिखर सम्मेलन में उन्होंने सरकार की अनेक सामाजिक सुरक्षा पहलों पर बल दिया और स्किल इंडिया मिशन के अंतर्गत चलाए जा रहे विभिन्न कार्यक्रमों का उल्&#x200d;लेख किया। केन्&#x200d;द्रीय मंत्री ने कहा कि एआई और रोबोटिक्स तकनीक पूरे देश में बड़े बदलाव ला रही हैं। उन्होंने सभी को नवीनतम तकनीक का जिम्मेदारीपूर्वक उपयोग करने की सलाह दी और श्रमिकों से आग्रह किया कि वे अपने कौशल को उन्नत करके नौकरी छूटने के डर को दूर करें। उन्होंने राष्ट्रीय और राज्य विकास में श्रमिकों की अमूल्य भूमिका को स्वीकार करते हुए उद्योगों और ट्रेड यूनियनों के बीच मजबूत सहयोग का आह्वान किया। डॉ. मांडविया ने साझा विकास को बढ़ावा देने के लिए ब्रिक्स देशों के बीच आपसी सहयोग के महत्व पर भी बल दिया। केन्&#x200d;द्रीय मंत्री ने स्किल इंडिया मिशन के माध्यम से नए पाठ्यक्रम शुरू करने का वादा किया। उन्होंने असंगठित क्षेत्र के श्रमिकों को एक मंच पर लाने और उन्हें सीधे सामाजिक सुरक्षा लाभ प्रदान करने के लिए शुरू किए गए ई-श्रम पोर्टल की सफलता का उल्लेख किया। डॉ. मांडविया ने कहा कि केंद्र सरकार भारतीय कामगारों के लिए अधिक अंतरराष्ट्रीय रोजगार के अवसर सृजित करने के लिए प्रवासन और गतिशीलता समझौतों पर ध्यान केंद्रित कर रही है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T11:10:24+00:00",
+        "link": "https://newsonair.gov.in/hi/union-labour-minister-advises-youth-to-upgrade-skills-by-using-latest-technology-of-ai/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-4-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सुप्रीम कोर्ट ने भोजशाला विवाद पर रोज़ाना सुनवाई को दी मंजूरी",
+        "summary": "सर्वोच्‍च न्‍यायालय ने आज भोजशाला विवाद को सुलझाने के लिए रोज़ाना सुनवाई करने पर सहमति जताई। हालांकि, न्‍यायाधीश सूर्यकांत, जॉयमाल्य बागची और न्‍यायाधीश वी. मोहना की पीठ ने याचिकाकर्ताओं की उस अंतरिम आदेश की मांग को ठुकरा दिया जिसमें पुरानी स्थिति बहाल करने को कहा गया था। इस पुरानी व्यवस्था के अंतर्गत मुसलमानों को तय […]",
+        "article": "सर्वोच्&#x200d;च न्&#x200d;यायालय ने आज भोजशाला विवाद को सुलझाने के लिए रोज़ाना सुनवाई करने पर सहमति जताई। हालांकि, न्&#x200d;यायाधीश सूर्यकांत, जॉयमाल्य बागची और न्&#x200d;यायाधीश वी. मोहना की पीठ ने याचिकाकर्ताओं की उस अंतरिम आदेश की मांग को ठुकरा दिया जिसमें पुरानी स्थिति बहाल करने को कहा गया था। इस पुरानी व्यवस्था के अंतर्गत मुसलमानों को तय दिनों पर हिंदुओं की पूजा के साथ-साथ शुक्रवार को नमाज़ पढ़ने की इजाज़त थी। पीठ ने राज्य सरकार को निर्देश दिया कि वह विवादित जगह के पास ही मुस्लिम पक्ष के लिए शुक्रवार को दोपहर एक बजे से तीन बजे के बीच नमाज़ पढ़ने के लिए एक अलग खुली जगह उपलब्ध कराए। पीठ ने साफ़ किया कि यह व्यवस्था फ़िलहाल के लिए अस्&#x200d;थाई है और मामले के अंतिम नतीजे पर निर्भर करेगी। पीठ ने मामले को बेहद संवेदनशील बताते हुए दोनों पक्षों से संयम बरतने को कहा। शीर्ष अदालत मध्य प्रदेश उच्&#x200d;च न्&#x200d;यायालय के उस आदेश को चुनौती देने वाली कई अपीलों पर सुनवाई कर रही थी, जिसमें कहा गया था कि धार ज़िले में विवादित भोजशाला परिसर देवी सरस्वती को समर्पित एक मंदिर है और वहां नमाज़ पढ़ने पर रोक लगा दी गई थी।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T10:14:43+00:00",
+        "link": "https://newsonair.gov.in/hi/supreme-court-approves-daily-hearings-on-the-bhojshala-dispute/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/699d64565800b-supreme-court-244152319-16x9-1.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "फीफा विश्व कप के पहले सेमीफाइनल में आज रात फ़्रांस का मुकाबला स्पेन से",
+        "summary": "फीफा फुटबॉल विश्‍व कप में आज रात टेक्सास के डलास स्टेडियम में पहला सेमी-फ़ाइनल फ़्रांस और स्पेन के बीच खेला जाएगा। यह मैच भारतीय समयानुसार रात साढ़े बारह बजे शुरू होगा। फ़्रांस लगातार तीसरी बार फ़ाइनल में जगह पक्की करने की कोशिश करेगा। वहीं, स्पेन 2010 में विश्‍व कप जीतने के बाद इस बार विश्‍व […]",
+        "article": "फीफा फुटबॉल विश्&#x200d;व कप में आज रात टेक्सास के डलास स्टेडियम में पहला सेमी-फ़ाइनल फ़्रांस और स्पेन के बीच खेला जाएगा। यह मैच भारतीय समयानुसार रात साढ़े बारह बजे शुरू होगा। फ़्रांस लगातार तीसरी बार फ़ाइनल में जगह पक्की करने की कोशिश करेगा। वहीं, स्पेन 2010 में विश्&#x200d;व कप जीतने के बाद इस बार विश्&#x200d;व कप फ़ाइनल में पहुंचने की कोशिश करेगा।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T09:33:26+00:00",
+        "link": "https://newsonair.gov.in/hi/france-spain-clash-in-first-fifa-world-cup-semifinal-tonight/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/FIFA-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "रक्षा मंत्री राजनाथ सिंह ने राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया",
         "summary": "रक्षा मंत्री राजनाथ सिंह ने नई दिल्ली स्थित राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया। इस अवसर पर अपने संबोधन में श्री सिंह ने विश्वास व्यक्त किया कि यह अभियान लोगों, विशेषकर युवाओं में देशभक्ति की भावना को फिर से जागृत करेगा। उन्होंने कहा कि यह आने […]",
         "article": "रक्षा मंत्री राजनाथ सिंह ने नई दिल्ली स्थित राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया। इस अवसर पर अपने संबोधन में श्री सिंह ने विश्वास व्यक्त किया कि यह अभियान लोगों, विशेषकर युवाओं में देशभक्ति की भावना को फिर से जागृत करेगा। उन्होंने कहा कि यह आने वाली पीढ़ियों को यह संदेश देगा कि राष्ट्र की स्वतंत्रता और सम्मान की रक्षा केवल सीमाओं पर ही नहीं, बल्कि लोगों की स्मृतियों और मूल्यों में भी निहित है।",
@@ -1120,53 +1158,31 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने ब्रसेल्स में फलिस्तीनी डोनर ग्रुप की दूसरी मंत्रिस्तरीय बैठक में लिया हिस्सा",
-        "summary": "भारत ने कल बेल्जियम की राजधानी ब्रसेल्स में फलिस्तीनी डोनर ग्रुप (पीडीजी) की दूसरी मंत्रिस्तरीय बैठक में हिस्सा लिया। विदेश मंत्रालय में वाणिज्य दूतावास, पासपोर्ट और वीजा तथा प्रवासी भारतीय मामलों की सचिव श्रीप्रिया रंगनाथन ने कहा कि भारत लंबे समय से फलिस्तीनी लोगों का भरोसेमंद साझेदार रहा है। उन्होंने कहा कि भारत स्वास्थ्य, शिक्षा, […]",
-        "article": "भारत ने कल बेल्जियम की राजधानी ब्रसेल्स में फलिस्तीनी डोनर ग्रुप (पीडीजी) की दूसरी मंत्रिस्तरीय बैठक में हिस्सा लिया। विदेश मंत्रालय में वाणिज्य दूतावास, पासपोर्ट और वीजा तथा प्रवासी भारतीय मामलों की सचिव श्रीप्रिया रंगनाथन ने कहा कि भारत लंबे समय से फलिस्तीनी लोगों का भरोसेमंद साझेदार रहा है। उन्होंने कहा कि भारत स्वास्थ्य, शिक्षा, कौशल विकास और व्यावसायिक प्रशिक्षण के क्षेत्रों में विकास और मानवीय सहायता प्रदान कर रहा है। उन्होंने पुनर्वास, स्वास्थ्य, शिक्षा और व्यावसायिक प्रशिक्षण से जुड़ी कई नई परियोजनाओं की भी घोषणा की। सुश्री श्रीप्रिया रंगनाथन ने फलिस्तीनी शरणार्थियों के लिए संयुक्त राष्ट्र राहत और कार्य एजेंसी से जुड़ी बैठक में भी भाग लिया। उन्&#x200d;होंने एजेंसी के प्रति भारत के निरंतर समर्थन को दोहराया।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T07:02:50+00:00",
-        "link": "https://newsonair.gov.in/hi/india-participated-in-the-second-ministerial-meeting-of-the-palestinian-donor-group-in-brussels/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNK0tK1a8AA6BqY.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीका ने लगातार तीसरी रात ईरान पर हवाई हमले किए, दोनों देशों में तनाव बढ़ा",
-        "summary": "अमरीका ने लगातार तीसरी रात ईरान पर हवाई हमले किए हैं। इससे दोनों देशों के बीच तनाव फिर से बढ़ गया है। अमरीका की सेना के सेंट्रल कमांड ने कहा कि उसने अबू मूसा, बंदर अब्बास, बुशहर, चाहबहार, जास्क और कोनारक के आसपास के इलाकों में हमला कर ईरानी तटीय रक्षा प्रणालियों, मिसाइल और ड्रोन […]",
-        "article": "अमरीका ने लगातार तीसरी रात ईरान पर हवाई हमले किए हैं। इससे दोनों देशों के बीच तनाव फिर से बढ़ गया है। अमरीका की सेना के सेंट्रल कमांड ने कहा कि उसने अबू मूसा, बंदर अब्बास, बुशहर, चाहबहार, जास्क और कोनारक के आसपास के इलाकों में हमला कर ईरानी तटीय रक्षा प्रणालियों, मिसाइल और ड्रोन ठिकानों और उनकी नौसैनिक क्षमताओं को निशाना बनाया है। ईरान ने इन हमलों को स्वीकारा है, लेकिन किसी भी हताहत या नुकसान की सूचना नहीं दी है। अमरीका सेंट्रल कमांड का कहना है कि ये हमले ईरानी सेना पर जारी रहेंगे और हॉर्मुज़ जलडमरूमध्य में निर्दोष नागरिकों और वाणिज्यिक जहाजों पर हमला करने की उनकी क्षमता को कमजोर करेंगे। इसके जवाब में ईरान ने बहरीन, जॉर्डन और इस जलडमरूमध्य से गुजर रहे संयुक्त अरब अमीरात से जुड़े दो टैंकरों को निशाना बनाया। इसमें एक नाविक की मौत हो गई और आठ अन्य घायल हो गए। संयुक्त अरब अमीरात के रक्षा मंत्रालय ने कहा कि टैंकरों पर हुए इस हमले में एक भारतीय नागरिक की मौत हुई है और छह भारतीय तथा दो यूक्रेनी नागरिक घायल हुए हैं। उधर, जॉर्डन की सेना ने कहा है कि उसने ईरान की ओर से आई चार मिसाइलों को हवा में ही रोक दिया। इसी बीच अमरीका के राष्ट्रपति डोनाल्ड ट्रंप ने नतांज के पास गहराई में बने एक परमाणु स्थल &#8216;पिकएक्स माउंटेन&#8217; को नष्ट करने की धमकी दी है, जहाँ ईरान के एक अघोषित संवर्धन केंद्र बना बनाने की आशंका है। इससे पहले कल, राष्ट्रपति डोनाल्ड ट्रंप ने घोषणा की थी कि अमरीका हॉर्मुज़ जलडमरूमध्य में ईरानी जहाजों पर फिर से नाकेबंदी लागू करेगा और समुद्री सुरक्षा की लागत को पूरा करने के लिए इस रणनीतिक जलमार्ग से गुजरने वाले माल पर 20 प्रतिशत का शुल्क लगाएगा। सोशल मीडिया पोस्ट में राष्ट्रपति ट्रंप ने कहा कि यह नाकेबंदी केवल ईरानी जहाजों और ईरान के साथ व्यापार करने वाले जहाजों पर लागू होगी। उन्होंने कहा कि हॉर्मुज़ जलडमरूमध्य खुला है और ईरान के साथ या उसके बिना भी खुला रहेगा। उन्होंने भरोसा दिलाया कि अन्य देशों के वाणिज्यिक जहाजों को मुफ्त मार्ग मिलता रहेगा। दूसरी ओर, ईरान ने हॉर्मुज़ जलडमरूमध्य पर अपने अधिकार का दावा किया है और अमरीका के दावें को खारिज किया है। ईरान की सरकारी मीडिया के अनुसार, केंद्रीय मुख्यालय के प्रवक्ता ब्रिगेडियर जनरल इब्राहिम ज़ोलफ़ाघरी ने कहा कि ईरान किसी भी परिस्थिति में अमरीका को हॉर्मुज़ जलडमरूमध्य के प्रबंधन में हस्तक्षेप करने की अनुमति नहीं देगा। उन्होंने यह चेतावनी भी दी कि अमरीका की सेना को रसद सहायता प्रदान करने वाले किसी भी क्षेत्रीय देश को ईरान के खिलाफ युद्ध छेड़ने जैसा माना जाएगा।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T06:25:05+00:00",
-        "link": "https://newsonair.gov.in/hi/the-us-carried-out-airstrikes-on-iran-for-the-third-consecutive-night-escalating-tensions-between-the-two-countries/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "संसदीय कार्य मंत्री किरेन रिजिजू कतर के अमीर के निधन पर भारत सरकार की ओर से शोक संवेदना व्यक्त करने दोहा रवाना हुए",
-        "summary": "संसदीय कार्य और अल्पसंख्यक कार्य मंत्री किरेन रिजिजू कतर के अमीर शेख हमद बिन खलीफा अल थानी के निधन पर भारत सरकार और जनता की ओर से शोक संवेदना व्यक्त करने के लिए आज दोहा के लिए रवाना हुए। विदेश मंत्रालय ने कहा कि अमीर ने आधुनिक कतर के निर्माण में महत्वपूर्ण भूमिका निभाई और […]",
-        "article": "संसदीय कार्य और अल्पसंख्यक कार्य मंत्री किरेन रिजिजू कतर के अमीर शेख हमद बिन खलीफा अल थानी के निधन पर भारत सरकार और जनता की ओर से शोक संवेदना व्यक्त करने के लिए आज दोहा के लिए रवाना हुए। विदेश मंत्रालय ने कहा कि अमीर ने आधुनिक कतर के निर्माण में महत्वपूर्ण भूमिका निभाई और वे भारत के घनिष्&#x200d;ठ मित्र थे। मंत्रालय ने कहा कि भारत-कतर संबंधों को मजबूत करने में उनके अमूल्य योगदान के लिए अमीर को हमेशा याद किया जाएगा।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T06:14:52+00:00",
-        "link": "https://newsonair.gov.in/hi/parliamentary-affairs-minister-kiren-rijiju-has-left-for-doha-to-convey-condolences-on-behalf-of-the-government-of-india-following-the-demise-of-the-emir-of-qatar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/04/Kiren.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "बैंकॉक के एक म्यूजिक बार में लगी भीषण आग में मरने वालों की संख्या 30 हो गई है",
-        "summary": "थाईलैंड की राजधानी बैंकॉक के एक म्यूजिक बार में लगी भीषण आग में मरने वालों की संख्या 30 हो गई है। अधिकारियों के अनुसार, 70 से अधिक लोग अस्पताल में भर्ती हैं, जिनमें 24 की हालत गंभीर है। पुलिस आग लगने के कारणों और बार में सुरक्षा नियमों की जांच कर रही है। यह हादसा […]",
-        "article": "थाईलैंड की राजधानी बैंकॉक के एक म्यूजिक बार में लगी भीषण आग में मरने वालों की संख्या 30 हो गई है। अधिकारियों के अनुसार, 70 से अधिक लोग अस्पताल में भर्ती हैं, जिनमें 24 की हालत गंभीर है। पुलिस आग लगने के कारणों और बार में सुरक्षा नियमों की जांच कर रही है। यह हादसा रविवार देर रात उत्तरी बैंकॉक के रोंग बीयर ना लाडप्राओ बार में हुआ। इसे बैंकॉक में पिछले 17 वर्षों की सबसे बड़ी अग्निकांड की घटना बताया जा रहा है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T06:06:57+00:00",
-        "link": "https://newsonair.gov.in/hi/the-death-toll-from-the-massive-fire-at-a-music-bar-in-bangkok-has-risen-to-30/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/b.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "श्रम और रोजगार मंत्री मनसुख मांडविया ने एआई के जिम्मेदारीपूर्ण उपयोग पर दिया जोर",
+        "summary": "श्रम और रोजगार मंत्री मनसुख मांडविया ने कहा है कि आर्टिफिशियल इंटेलीजेंस-एआई युवाओं के कौशल को प्रभावी ढंग से बढ़ा सकती है। हैदराबाद में ब्रिक्स ट्रेड यूनियन फोरम शिखर सम्मेलन में उन्होंने सरकार की अनेक सामाजिक सुरक्षा पहलों पर बल दिया और स्किल इंडिया मिशन के अंतर्गत चलाए जा रहे विभिन्न कार्यक्रमों का उल्‍लेख किया। […]",
+        "article": "श्रम और रोजगार मंत्री मनसुख मांडविया ने कहा है कि आर्टिफिशियल इंटेलीजेंस-एआई युवाओं के कौशल को प्रभावी ढंग से बढ़ा सकती है। हैदराबाद में ब्रिक्स ट्रेड यूनियन फोरम शिखर सम्मेलन में उन्होंने सरकार की अनेक सामाजिक सुरक्षा पहलों पर बल दिया और स्किल इंडिया मिशन के अंतर्गत चलाए जा रहे विभिन्न कार्यक्रमों का उल्&#x200d;लेख किया। केन्&#x200d;द्रीय मंत्री ने कहा कि एआई और रोबोटिक्स तकनीक पूरे देश में बड़े बदलाव ला रही हैं। उन्होंने सभी को नवीनतम तकनीक का जिम्मेदारीपूर्वक उपयोग करने की सलाह दी और श्रमिकों से आग्रह किया कि वे अपने कौशल को उन्नत करके नौकरी छूटने के डर को दूर करें। उन्होंने राष्ट्रीय और राज्य विकास में श्रमिकों की अमूल्य भूमिका को स्वीकार करते हुए उद्योगों और ट्रेड यूनियनों के बीच मजबूत सहयोग का आह्वान किया। डॉ. मांडविया ने साझा विकास को बढ़ावा देने के लिए ब्रिक्स देशों के बीच आपसी सहयोग के महत्व पर भी बल दिया। केन्&#x200d;द्रीय मंत्री ने स्किल इंडिया मिशन के माध्यम से नए पाठ्यक्रम शुरू करने का वादा किया। उन्होंने असंगठित क्षेत्र के श्रमिकों को एक मंच पर लाने और उन्हें सीधे सामाजिक सुरक्षा लाभ प्रदान करने के लिए शुरू किए गए ई-श्रम पोर्टल की सफलता का उल्लेख किया। डॉ. मांडविया ने कहा कि केंद्र सरकार भारतीय कामगारों के लिए अधिक अंतरराष्ट्रीय रोजगार के अवसर सृजित करने के लिए प्रवासन और गतिशीलता समझौतों पर ध्यान केंद्रित कर रही है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T11:10:24+00:00",
+        "link": "https://newsonair.gov.in/hi/union-labour-minister-advises-youth-to-upgrade-skills-by-using-latest-technology-of-ai/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-4-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सुप्रीम कोर्ट ने भोजशाला विवाद पर रोज़ाना सुनवाई को दी मंजूरी",
+        "summary": "सर्वोच्‍च न्‍यायालय ने आज भोजशाला विवाद को सुलझाने के लिए रोज़ाना सुनवाई करने पर सहमति जताई। हालांकि, न्‍यायाधीश सूर्यकांत, जॉयमाल्य बागची और न्‍यायाधीश वी. मोहना की पीठ ने याचिकाकर्ताओं की उस अंतरिम आदेश की मांग को ठुकरा दिया जिसमें पुरानी स्थिति बहाल करने को कहा गया था। इस पुरानी व्यवस्था के अंतर्गत मुसलमानों को तय […]",
+        "article": "सर्वोच्&#x200d;च न्&#x200d;यायालय ने आज भोजशाला विवाद को सुलझाने के लिए रोज़ाना सुनवाई करने पर सहमति जताई। हालांकि, न्&#x200d;यायाधीश सूर्यकांत, जॉयमाल्य बागची और न्&#x200d;यायाधीश वी. मोहना की पीठ ने याचिकाकर्ताओं की उस अंतरिम आदेश की मांग को ठुकरा दिया जिसमें पुरानी स्थिति बहाल करने को कहा गया था। इस पुरानी व्यवस्था के अंतर्गत मुसलमानों को तय दिनों पर हिंदुओं की पूजा के साथ-साथ शुक्रवार को नमाज़ पढ़ने की इजाज़त थी। पीठ ने राज्य सरकार को निर्देश दिया कि वह विवादित जगह के पास ही मुस्लिम पक्ष के लिए शुक्रवार को दोपहर एक बजे से तीन बजे के बीच नमाज़ पढ़ने के लिए एक अलग खुली जगह उपलब्ध कराए। पीठ ने साफ़ किया कि यह व्यवस्था फ़िलहाल के लिए अस्&#x200d;थाई है और मामले के अंतिम नतीजे पर निर्भर करेगी। पीठ ने मामले को बेहद संवेदनशील बताते हुए दोनों पक्षों से संयम बरतने को कहा। शीर्ष अदालत मध्य प्रदेश उच्&#x200d;च न्&#x200d;यायालय के उस आदेश को चुनौती देने वाली कई अपीलों पर सुनवाई कर रही थी, जिसमें कहा गया था कि धार ज़िले में विवादित भोजशाला परिसर देवी सरस्वती को समर्पित एक मंदिर है और वहां नमाज़ पढ़ने पर रोक लगा दी गई थी।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T10:14:43+00:00",
+        "link": "https://newsonair.gov.in/hi/supreme-court-approves-daily-hearings-on-the-bhojshala-dispute/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/699d64565800b-supreme-court-244152319-16x9-1.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "रक्षा मंत्री राजनाथ सिंह ने राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया",
         "summary": "रक्षा मंत्री राजनाथ सिंह ने नई दिल्ली स्थित राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया। इस अवसर पर अपने संबोधन में श्री सिंह ने विश्वास व्यक्त किया कि यह अभियान लोगों, विशेषकर युवाओं में देशभक्ति की भावना को फिर से जागृत करेगा। उन्होंने कहा कि यह आने […]",
@@ -1252,34 +1268,34 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T07:02:50+00:00",
         "link": "https://newsonair.gov.in/hi/india-participated-in-the-second-ministerial-meeting-of-the-palestinian-donor-group-in-brussels/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNK0tK1a8AA6BqY.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "संसदीय कार्य मंत्री किरेन रिजिजू कतर के अमीर के निधन पर भारत सरकार की ओर से शोक संवेदना व्यक्त करने दोहा रवाना हुए",
-        "summary": "संसदीय कार्य और अल्पसंख्यक कार्य मंत्री किरेन रिजिजू कतर के अमीर शेख हमद बिन खलीफा अल थानी के निधन पर भारत सरकार और जनता की ओर से शोक संवेदना व्यक्त करने के लिए आज दोहा के लिए रवाना हुए। विदेश मंत्रालय ने कहा कि अमीर ने आधुनिक कतर के निर्माण में महत्वपूर्ण भूमिका निभाई और […]",
-        "article": "संसदीय कार्य और अल्पसंख्यक कार्य मंत्री किरेन रिजिजू कतर के अमीर शेख हमद बिन खलीफा अल थानी के निधन पर भारत सरकार और जनता की ओर से शोक संवेदना व्यक्त करने के लिए आज दोहा के लिए रवाना हुए। विदेश मंत्रालय ने कहा कि अमीर ने आधुनिक कतर के निर्माण में महत्वपूर्ण भूमिका निभाई और वे भारत के घनिष्&#x200d;ठ मित्र थे। मंत्रालय ने कहा कि भारत-कतर संबंधों को मजबूत करने में उनके अमूल्य योगदान के लिए अमीर को हमेशा याद किया जाएगा।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T06:14:52+00:00",
-        "link": "https://newsonair.gov.in/hi/parliamentary-affairs-minister-kiren-rijiju-has-left-for-doha-to-convey-condolences-on-behalf-of-the-government-of-india-following-the-demise-of-the-emir-of-qatar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/04/Kiren.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली में शुरू हुआ",
-        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम, भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरिराज सिंह ने आज इस कार्यक्रम का उद्घाटन किया। संवाददाताओं से बातचीत में श्री सिंह ने कहा कि भारत टेक्स प्रधानमंत्री का दृष्टिकोण है। उन्होंने कहा कि यह अब एक अंतर्राष्ट्रीय आयोजन बन […]",
-        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम, भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरिराज सिंह ने आज इस कार्यक्रम का उद्घाटन किया। संवाददाताओं से बातचीत में श्री सिंह ने कहा कि भारत टेक्स प्रधानमंत्री का दृष्टिकोण है। उन्होंने कहा कि यह अब एक अंतर्राष्ट्रीय आयोजन बन चुका है और हर साल इसमें प्रदर्शकों, खरीदारों, विक्रेताओं और आगंतुकों की संख्या में वृद्धि हुई है। उन्होंने बताया कि इस वर्ष इस कार्यक्रम में 130 देशों के 60 हजार से अधिक खरीदार और प्रदर्शक भाग ले रहे हैं। श्री सिंह ने कहा कि सुक्ष्म लघु और मध्यम उद्यमी भी भारत टेक्स में शामिल हो रहे हैं। उन्होंने कहा कि विभिन्न देशों के साथ किए गए मुक्त व्यापार समझौते भी वस्त्र क्षेत्र को लाभ पहुँचा रहे हैं। उद्घाटन समारोह में वस्त्र राज्य मंत्री पबित्रा मार्गेरिटा और विभिन्न राज्यों के वस्त्र मंत्रियों ने भी भाग लिया। यह कार्यक्रम कपड़ा, फैशन, टिकाउ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसमें निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, अंतर्राष्ट्रीय प्रतिनिधिमंडलों, कारीगरों, स्टार्ट-अप और प्रौद्योगिकी प्रदाताओं को एक साथ लाया गया है। प्रधानमंत्री नरेंद्र मोदी के 5एफ विज़न- फार्म टू फाइबर टू फैक्ट्री टू फैशन टू फॉरेन से प्रेरित होकर भारत टेक्स 2026 कपड़ा मूल्य श्रृंखला में व्यवसाय, निवेश, नवाचार, नीति संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख वैश्विक मंच के रूप में विकसित हुआ है। भारत टेक्स 2026 के इस तीसरे संस्करण में लगभग सात हजार खरीदार और 20 हजार से अधिक कपड़ा उत्पादों की भागीदारी देखी जा रही है। इस कार्यक्रम में 14 देशों के अंतर्राष्ट्रीय प्रदर्शक भाग ले रहे हैं। इस आयोजन में 20 से अधिक देशों के अंतर्राष्ट्रीय विशेषज्ञ, राष्ट्रीय उद्योग जगत के नेता, नीति निर्माता और विचारक सहित 350 से अधिक वक्ता शामिल होंगे।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T05:57:27+00:00",
-        "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "श्रम और रोजगार मंत्री मनसुख मांडविया ने एआई के जिम्मेदारीपूर्ण उपयोग पर दिया जोर",
+        "summary": "श्रम और रोजगार मंत्री मनसुख मांडविया ने कहा है कि आर्टिफिशियल इंटेलीजेंस-एआई युवाओं के कौशल को प्रभावी ढंग से बढ़ा सकती है। हैदराबाद में ब्रिक्स ट्रेड यूनियन फोरम शिखर सम्मेलन में उन्होंने सरकार की अनेक सामाजिक सुरक्षा पहलों पर बल दिया और स्किल इंडिया मिशन के अंतर्गत चलाए जा रहे विभिन्न कार्यक्रमों का उल्‍लेख किया। […]",
+        "article": "श्रम और रोजगार मंत्री मनसुख मांडविया ने कहा है कि आर्टिफिशियल इंटेलीजेंस-एआई युवाओं के कौशल को प्रभावी ढंग से बढ़ा सकती है। हैदराबाद में ब्रिक्स ट्रेड यूनियन फोरम शिखर सम्मेलन में उन्होंने सरकार की अनेक सामाजिक सुरक्षा पहलों पर बल दिया और स्किल इंडिया मिशन के अंतर्गत चलाए जा रहे विभिन्न कार्यक्रमों का उल्&#x200d;लेख किया। केन्&#x200d;द्रीय मंत्री ने कहा कि एआई और रोबोटिक्स तकनीक पूरे देश में बड़े बदलाव ला रही हैं। उन्होंने सभी को नवीनतम तकनीक का जिम्मेदारीपूर्वक उपयोग करने की सलाह दी और श्रमिकों से आग्रह किया कि वे अपने कौशल को उन्नत करके नौकरी छूटने के डर को दूर करें। उन्होंने राष्ट्रीय और राज्य विकास में श्रमिकों की अमूल्य भूमिका को स्वीकार करते हुए उद्योगों और ट्रेड यूनियनों के बीच मजबूत सहयोग का आह्वान किया। डॉ. मांडविया ने साझा विकास को बढ़ावा देने के लिए ब्रिक्स देशों के बीच आपसी सहयोग के महत्व पर भी बल दिया। केन्&#x200d;द्रीय मंत्री ने स्किल इंडिया मिशन के माध्यम से नए पाठ्यक्रम शुरू करने का वादा किया। उन्होंने असंगठित क्षेत्र के श्रमिकों को एक मंच पर लाने और उन्हें सीधे सामाजिक सुरक्षा लाभ प्रदान करने के लिए शुरू किए गए ई-श्रम पोर्टल की सफलता का उल्लेख किया। डॉ. मांडविया ने कहा कि केंद्र सरकार भारतीय कामगारों के लिए अधिक अंतरराष्ट्रीय रोजगार के अवसर सृजित करने के लिए प्रवासन और गतिशीलता समझौतों पर ध्यान केंद्रित कर रही है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T11:10:24+00:00",
+        "link": "https://newsonair.gov.in/hi/union-labour-minister-advises-youth-to-upgrade-skills-by-using-latest-technology-of-ai/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-4-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सुप्रीम कोर्ट ने भोजशाला विवाद पर रोज़ाना सुनवाई को दी मंजूरी",
+        "summary": "सर्वोच्‍च न्‍यायालय ने आज भोजशाला विवाद को सुलझाने के लिए रोज़ाना सुनवाई करने पर सहमति जताई। हालांकि, न्‍यायाधीश सूर्यकांत, जॉयमाल्य बागची और न्‍यायाधीश वी. मोहना की पीठ ने याचिकाकर्ताओं की उस अंतरिम आदेश की मांग को ठुकरा दिया जिसमें पुरानी स्थिति बहाल करने को कहा गया था। इस पुरानी व्यवस्था के अंतर्गत मुसलमानों को तय […]",
+        "article": "सर्वोच्&#x200d;च न्&#x200d;यायालय ने आज भोजशाला विवाद को सुलझाने के लिए रोज़ाना सुनवाई करने पर सहमति जताई। हालांकि, न्&#x200d;यायाधीश सूर्यकांत, जॉयमाल्य बागची और न्&#x200d;यायाधीश वी. मोहना की पीठ ने याचिकाकर्ताओं की उस अंतरिम आदेश की मांग को ठुकरा दिया जिसमें पुरानी स्थिति बहाल करने को कहा गया था। इस पुरानी व्यवस्था के अंतर्गत मुसलमानों को तय दिनों पर हिंदुओं की पूजा के साथ-साथ शुक्रवार को नमाज़ पढ़ने की इजाज़त थी। पीठ ने राज्य सरकार को निर्देश दिया कि वह विवादित जगह के पास ही मुस्लिम पक्ष के लिए शुक्रवार को दोपहर एक बजे से तीन बजे के बीच नमाज़ पढ़ने के लिए एक अलग खुली जगह उपलब्ध कराए। पीठ ने साफ़ किया कि यह व्यवस्था फ़िलहाल के लिए अस्&#x200d;थाई है और मामले के अंतिम नतीजे पर निर्भर करेगी। पीठ ने मामले को बेहद संवेदनशील बताते हुए दोनों पक्षों से संयम बरतने को कहा। शीर्ष अदालत मध्य प्रदेश उच्&#x200d;च न्&#x200d;यायालय के उस आदेश को चुनौती देने वाली कई अपीलों पर सुनवाई कर रही थी, जिसमें कहा गया था कि धार ज़िले में विवादित भोजशाला परिसर देवी सरस्वती को समर्पित एक मंदिर है और वहां नमाज़ पढ़ने पर रोक लगा दी गई थी।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T10:14:43+00:00",
+        "link": "https://newsonair.gov.in/hi/supreme-court-approves-daily-hearings-on-the-bhojshala-dispute/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/699d64565800b-supreme-court-244152319-16x9-1.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "रक्षा मंत्री राजनाथ सिंह ने राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया",
         "summary": "रक्षा मंत्री राजनाथ सिंह ने नई दिल्ली स्थित राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया। इस अवसर पर अपने संबोधन में श्री सिंह ने विश्वास व्यक्त किया कि यह अभियान लोगों, विशेषकर युवाओं में देशभक्ति की भावना को फिर से जागृत करेगा। उन्होंने कहा कि यह आने […]",
         "article": "रक्षा मंत्री राजनाथ सिंह ने नई दिल्ली स्थित राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया। इस अवसर पर अपने संबोधन में श्री सिंह ने विश्वास व्यक्त किया कि यह अभियान लोगों, विशेषकर युवाओं में देशभक्ति की भावना को फिर से जागृत करेगा। उन्होंने कहा कि यह आने वाली पीढ़ियों को यह संदेश देगा कि राष्ट्र की स्वतंत्रता और सम्मान की रक्षा केवल सीमाओं पर ही नहीं, बल्कि लोगों की स्मृतियों और मूल्यों में भी निहित है।",
@@ -1364,34 +1380,34 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T07:02:50+00:00",
         "link": "https://newsonair.gov.in/hi/india-participated-in-the-second-ministerial-meeting-of-the-palestinian-donor-group-in-brussels/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNK0tK1a8AA6BqY.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "संसदीय कार्य मंत्री किरेन रिजिजू कतर के अमीर के निधन पर भारत सरकार की ओर से शोक संवेदना व्यक्त करने दोहा रवाना हुए",
-        "summary": "संसदीय कार्य और अल्पसंख्यक कार्य मंत्री किरेन रिजिजू कतर के अमीर शेख हमद बिन खलीफा अल थानी के निधन पर भारत सरकार और जनता की ओर से शोक संवेदना व्यक्त करने के लिए आज दोहा के लिए रवाना हुए। विदेश मंत्रालय ने कहा कि अमीर ने आधुनिक कतर के निर्माण में महत्वपूर्ण भूमिका निभाई और […]",
-        "article": "संसदीय कार्य और अल्पसंख्यक कार्य मंत्री किरेन रिजिजू कतर के अमीर शेख हमद बिन खलीफा अल थानी के निधन पर भारत सरकार और जनता की ओर से शोक संवेदना व्यक्त करने के लिए आज दोहा के लिए रवाना हुए। विदेश मंत्रालय ने कहा कि अमीर ने आधुनिक कतर के निर्माण में महत्वपूर्ण भूमिका निभाई और वे भारत के घनिष्&#x200d;ठ मित्र थे। मंत्रालय ने कहा कि भारत-कतर संबंधों को मजबूत करने में उनके अमूल्य योगदान के लिए अमीर को हमेशा याद किया जाएगा।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T06:14:52+00:00",
-        "link": "https://newsonair.gov.in/hi/parliamentary-affairs-minister-kiren-rijiju-has-left-for-doha-to-convey-condolences-on-behalf-of-the-government-of-india-following-the-demise-of-the-emir-of-qatar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/04/Kiren.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली में शुरू हुआ",
-        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम, भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरिराज सिंह ने आज इस कार्यक्रम का उद्घाटन किया। संवाददाताओं से बातचीत में श्री सिंह ने कहा कि भारत टेक्स प्रधानमंत्री का दृष्टिकोण है। उन्होंने कहा कि यह अब एक अंतर्राष्ट्रीय आयोजन बन […]",
-        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम, भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरिराज सिंह ने आज इस कार्यक्रम का उद्घाटन किया। संवाददाताओं से बातचीत में श्री सिंह ने कहा कि भारत टेक्स प्रधानमंत्री का दृष्टिकोण है। उन्होंने कहा कि यह अब एक अंतर्राष्ट्रीय आयोजन बन चुका है और हर साल इसमें प्रदर्शकों, खरीदारों, विक्रेताओं और आगंतुकों की संख्या में वृद्धि हुई है। उन्होंने बताया कि इस वर्ष इस कार्यक्रम में 130 देशों के 60 हजार से अधिक खरीदार और प्रदर्शक भाग ले रहे हैं। श्री सिंह ने कहा कि सुक्ष्म लघु और मध्यम उद्यमी भी भारत टेक्स में शामिल हो रहे हैं। उन्होंने कहा कि विभिन्न देशों के साथ किए गए मुक्त व्यापार समझौते भी वस्त्र क्षेत्र को लाभ पहुँचा रहे हैं। उद्घाटन समारोह में वस्त्र राज्य मंत्री पबित्रा मार्गेरिटा और विभिन्न राज्यों के वस्त्र मंत्रियों ने भी भाग लिया। यह कार्यक्रम कपड़ा, फैशन, टिकाउ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसमें निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, अंतर्राष्ट्रीय प्रतिनिधिमंडलों, कारीगरों, स्टार्ट-अप और प्रौद्योगिकी प्रदाताओं को एक साथ लाया गया है। प्रधानमंत्री नरेंद्र मोदी के 5एफ विज़न- फार्म टू फाइबर टू फैक्ट्री टू फैशन टू फॉरेन से प्रेरित होकर भारत टेक्स 2026 कपड़ा मूल्य श्रृंखला में व्यवसाय, निवेश, नवाचार, नीति संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख वैश्विक मंच के रूप में विकसित हुआ है। भारत टेक्स 2026 के इस तीसरे संस्करण में लगभग सात हजार खरीदार और 20 हजार से अधिक कपड़ा उत्पादों की भागीदारी देखी जा रही है। इस कार्यक्रम में 14 देशों के अंतर्राष्ट्रीय प्रदर्शक भाग ले रहे हैं। इस आयोजन में 20 से अधिक देशों के अंतर्राष्ट्रीय विशेषज्ञ, राष्ट्रीय उद्योग जगत के नेता, नीति निर्माता और विचारक सहित 350 से अधिक वक्ता शामिल होंगे।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T05:57:27+00:00",
-        "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "श्रम और रोजगार मंत्री मनसुख मांडविया ने एआई के जिम्मेदारीपूर्ण उपयोग पर दिया जोर",
+        "summary": "श्रम और रोजगार मंत्री मनसुख मांडविया ने कहा है कि आर्टिफिशियल इंटेलीजेंस-एआई युवाओं के कौशल को प्रभावी ढंग से बढ़ा सकती है। हैदराबाद में ब्रिक्स ट्रेड यूनियन फोरम शिखर सम्मेलन में उन्होंने सरकार की अनेक सामाजिक सुरक्षा पहलों पर बल दिया और स्किल इंडिया मिशन के अंतर्गत चलाए जा रहे विभिन्न कार्यक्रमों का उल्‍लेख किया। […]",
+        "article": "श्रम और रोजगार मंत्री मनसुख मांडविया ने कहा है कि आर्टिफिशियल इंटेलीजेंस-एआई युवाओं के कौशल को प्रभावी ढंग से बढ़ा सकती है। हैदराबाद में ब्रिक्स ट्रेड यूनियन फोरम शिखर सम्मेलन में उन्होंने सरकार की अनेक सामाजिक सुरक्षा पहलों पर बल दिया और स्किल इंडिया मिशन के अंतर्गत चलाए जा रहे विभिन्न कार्यक्रमों का उल्&#x200d;लेख किया। केन्&#x200d;द्रीय मंत्री ने कहा कि एआई और रोबोटिक्स तकनीक पूरे देश में बड़े बदलाव ला रही हैं। उन्होंने सभी को नवीनतम तकनीक का जिम्मेदारीपूर्वक उपयोग करने की सलाह दी और श्रमिकों से आग्रह किया कि वे अपने कौशल को उन्नत करके नौकरी छूटने के डर को दूर करें। उन्होंने राष्ट्रीय और राज्य विकास में श्रमिकों की अमूल्य भूमिका को स्वीकार करते हुए उद्योगों और ट्रेड यूनियनों के बीच मजबूत सहयोग का आह्वान किया। डॉ. मांडविया ने साझा विकास को बढ़ावा देने के लिए ब्रिक्स देशों के बीच आपसी सहयोग के महत्व पर भी बल दिया। केन्&#x200d;द्रीय मंत्री ने स्किल इंडिया मिशन के माध्यम से नए पाठ्यक्रम शुरू करने का वादा किया। उन्होंने असंगठित क्षेत्र के श्रमिकों को एक मंच पर लाने और उन्हें सीधे सामाजिक सुरक्षा लाभ प्रदान करने के लिए शुरू किए गए ई-श्रम पोर्टल की सफलता का उल्लेख किया। डॉ. मांडविया ने कहा कि केंद्र सरकार भारतीय कामगारों के लिए अधिक अंतरराष्ट्रीय रोजगार के अवसर सृजित करने के लिए प्रवासन और गतिशीलता समझौतों पर ध्यान केंद्रित कर रही है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T11:10:24+00:00",
+        "link": "https://newsonair.gov.in/hi/union-labour-minister-advises-youth-to-upgrade-skills-by-using-latest-technology-of-ai/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-4-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सुप्रीम कोर्ट ने भोजशाला विवाद पर रोज़ाना सुनवाई को दी मंजूरी",
+        "summary": "सर्वोच्‍च न्‍यायालय ने आज भोजशाला विवाद को सुलझाने के लिए रोज़ाना सुनवाई करने पर सहमति जताई। हालांकि, न्‍यायाधीश सूर्यकांत, जॉयमाल्य बागची और न्‍यायाधीश वी. मोहना की पीठ ने याचिकाकर्ताओं की उस अंतरिम आदेश की मांग को ठुकरा दिया जिसमें पुरानी स्थिति बहाल करने को कहा गया था। इस पुरानी व्यवस्था के अंतर्गत मुसलमानों को तय […]",
+        "article": "सर्वोच्&#x200d;च न्&#x200d;यायालय ने आज भोजशाला विवाद को सुलझाने के लिए रोज़ाना सुनवाई करने पर सहमति जताई। हालांकि, न्&#x200d;यायाधीश सूर्यकांत, जॉयमाल्य बागची और न्&#x200d;यायाधीश वी. मोहना की पीठ ने याचिकाकर्ताओं की उस अंतरिम आदेश की मांग को ठुकरा दिया जिसमें पुरानी स्थिति बहाल करने को कहा गया था। इस पुरानी व्यवस्था के अंतर्गत मुसलमानों को तय दिनों पर हिंदुओं की पूजा के साथ-साथ शुक्रवार को नमाज़ पढ़ने की इजाज़त थी। पीठ ने राज्य सरकार को निर्देश दिया कि वह विवादित जगह के पास ही मुस्लिम पक्ष के लिए शुक्रवार को दोपहर एक बजे से तीन बजे के बीच नमाज़ पढ़ने के लिए एक अलग खुली जगह उपलब्ध कराए। पीठ ने साफ़ किया कि यह व्यवस्था फ़िलहाल के लिए अस्&#x200d;थाई है और मामले के अंतिम नतीजे पर निर्भर करेगी। पीठ ने मामले को बेहद संवेदनशील बताते हुए दोनों पक्षों से संयम बरतने को कहा। शीर्ष अदालत मध्य प्रदेश उच्&#x200d;च न्&#x200d;यायालय के उस आदेश को चुनौती देने वाली कई अपीलों पर सुनवाई कर रही थी, जिसमें कहा गया था कि धार ज़िले में विवादित भोजशाला परिसर देवी सरस्वती को समर्पित एक मंदिर है और वहां नमाज़ पढ़ने पर रोक लगा दी गई थी।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T10:14:43+00:00",
+        "link": "https://newsonair.gov.in/hi/supreme-court-approves-daily-hearings-on-the-bhojshala-dispute/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/699d64565800b-supreme-court-244152319-16x9-1.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "रक्षा मंत्री राजनाथ सिंह ने राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया",
         "summary": "रक्षा मंत्री राजनाथ सिंह ने नई दिल्ली स्थित राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया। इस अवसर पर अपने संबोधन में श्री सिंह ने विश्वास व्यक्त किया कि यह अभियान लोगों, विशेषकर युवाओं में देशभक्ति की भावना को फिर से जागृत करेगा। उन्होंने कहा कि यह आने […]",
         "article": "रक्षा मंत्री राजनाथ सिंह ने नई दिल्ली स्थित राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया। इस अवसर पर अपने संबोधन में श्री सिंह ने विश्वास व्यक्त किया कि यह अभियान लोगों, विशेषकर युवाओं में देशभक्ति की भावना को फिर से जागृत करेगा। उन्होंने कहा कि यह आने वाली पीढ़ियों को यह संदेश देगा कि राष्ट्र की स्वतंत्रता और सम्मान की रक्षा केवल सीमाओं पर ही नहीं, बल्कि लोगों की स्मृतियों और मूल्यों में भी निहित है।",
@@ -1478,31 +1494,31 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNK0tK1a8AA6BqY.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "संसदीय कार्य मंत्री किरेन रिजिजू कतर के अमीर के निधन पर भारत सरकार की ओर से शोक संवेदना व्यक्त करने दोहा रवाना हुए",
-        "summary": "संसदीय कार्य और अल्पसंख्यक कार्य मंत्री किरेन रिजिजू कतर के अमीर शेख हमद बिन खलीफा अल थानी के निधन पर भारत सरकार और जनता की ओर से शोक संवेदना व्यक्त करने के लिए आज दोहा के लिए रवाना हुए। विदेश मंत्रालय ने कहा कि अमीर ने आधुनिक कतर के निर्माण में महत्वपूर्ण भूमिका निभाई और […]",
-        "article": "संसदीय कार्य और अल्पसंख्यक कार्य मंत्री किरेन रिजिजू कतर के अमीर शेख हमद बिन खलीफा अल थानी के निधन पर भारत सरकार और जनता की ओर से शोक संवेदना व्यक्त करने के लिए आज दोहा के लिए रवाना हुए। विदेश मंत्रालय ने कहा कि अमीर ने आधुनिक कतर के निर्माण में महत्वपूर्ण भूमिका निभाई और वे भारत के घनिष्&#x200d;ठ मित्र थे। मंत्रालय ने कहा कि भारत-कतर संबंधों को मजबूत करने में उनके अमूल्य योगदान के लिए अमीर को हमेशा याद किया जाएगा।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T06:14:52+00:00",
-        "link": "https://newsonair.gov.in/hi/parliamentary-affairs-minister-kiren-rijiju-has-left-for-doha-to-convey-condolences-on-behalf-of-the-government-of-india-following-the-demise-of-the-emir-of-qatar/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/04/Kiren.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली में शुरू हुआ",
-        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम, भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरिराज सिंह ने आज इस कार्यक्रम का उद्घाटन किया। संवाददाताओं से बातचीत में श्री सिंह ने कहा कि भारत टेक्स प्रधानमंत्री का दृष्टिकोण है। उन्होंने कहा कि यह अब एक अंतर्राष्ट्रीय आयोजन बन […]",
-        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम, भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरिराज सिंह ने आज इस कार्यक्रम का उद्घाटन किया। संवाददाताओं से बातचीत में श्री सिंह ने कहा कि भारत टेक्स प्रधानमंत्री का दृष्टिकोण है। उन्होंने कहा कि यह अब एक अंतर्राष्ट्रीय आयोजन बन चुका है और हर साल इसमें प्रदर्शकों, खरीदारों, विक्रेताओं और आगंतुकों की संख्या में वृद्धि हुई है। उन्होंने बताया कि इस वर्ष इस कार्यक्रम में 130 देशों के 60 हजार से अधिक खरीदार और प्रदर्शक भाग ले रहे हैं। श्री सिंह ने कहा कि सुक्ष्म लघु और मध्यम उद्यमी भी भारत टेक्स में शामिल हो रहे हैं। उन्होंने कहा कि विभिन्न देशों के साथ किए गए मुक्त व्यापार समझौते भी वस्त्र क्षेत्र को लाभ पहुँचा रहे हैं। उद्घाटन समारोह में वस्त्र राज्य मंत्री पबित्रा मार्गेरिटा और विभिन्न राज्यों के वस्त्र मंत्रियों ने भी भाग लिया। यह कार्यक्रम कपड़ा, फैशन, टिकाउ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसमें निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, अंतर्राष्ट्रीय प्रतिनिधिमंडलों, कारीगरों, स्टार्ट-अप और प्रौद्योगिकी प्रदाताओं को एक साथ लाया गया है। प्रधानमंत्री नरेंद्र मोदी के 5एफ विज़न- फार्म टू फाइबर टू फैक्ट्री टू फैशन टू फॉरेन से प्रेरित होकर भारत टेक्स 2026 कपड़ा मूल्य श्रृंखला में व्यवसाय, निवेश, नवाचार, नीति संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख वैश्विक मंच के रूप में विकसित हुआ है। भारत टेक्स 2026 के इस तीसरे संस्करण में लगभग सात हजार खरीदार और 20 हजार से अधिक कपड़ा उत्पादों की भागीदारी देखी जा रही है। इस कार्यक्रम में 14 देशों के अंतर्राष्ट्रीय प्रदर्शक भाग ले रहे हैं। इस आयोजन में 20 से अधिक देशों के अंतर्राष्ट्रीय विशेषज्ञ, राष्ट्रीय उद्योग जगत के नेता, नीति निर्माता और विचारक सहित 350 से अधिक वक्ता शामिल होंगे।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T05:57:27+00:00",
-        "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "फ्रांस: राष्ट्रपति मैक्रों ने बैस्टिल दिवस समारोह की मेजबानी की",
+        "summary": "फ्रांस में आज बैस्टिल दिवस मनाया जा रहा है। इस मौके पर पेरिस में आयोजित वार्षिक सैन्य परेड में पूरे यूरोप की एकजुटता दिखाई दी, जिसमें कई यूरोपीय देशों के सैनिकों और विमानों ने हिस्सा लिया। फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने अपने कार्यकाल के अंतिम बैस्टिल दिवस समारोह की मेजबानी की। समारोह में […]",
+        "article": "फ्रांस में आज बैस्टिल दिवस मनाया जा रहा है। इस मौके पर पेरिस में आयोजित वार्षिक सैन्य परेड में पूरे यूरोप की एकजुटता दिखाई दी, जिसमें कई यूरोपीय देशों के सैनिकों और विमानों ने हिस्सा लिया। फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने अपने कार्यकाल के अंतिम बैस्टिल दिवस समारोह की मेजबानी की। समारोह में यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की सहित करीब 30 देशों के नेता शामिल हुए। इस दौरान यूरोप की सामूहिक सुरक्षा के प्रति प्रतिबद्धता को रेखांकित किया गया। परेड में यूक्रेन के सैनिकों, फ्रांस में प्रशिक्षित यूक्रेनी लड़ाकू विमान पायलटों और करीब छह हजार आठ सौ सैनिकों ने भाग लिया, जो इस आयोजन के इतिहास में सबसे बड़ी भागीदारी है। प्रत्&#x200d;येक वर्ष 14 जुलाई को मनाया जाने वाला बैस्टिल दिवस वर्ष 1789 में बैस्टिल जेल पर हुए हमले की याद में मनाया जाता है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T11:18:02+00:00",
+        "link": "https://newsonair.gov.in/hi/france-president-emmanuel-macron-leads-bastille-day-celebration-in-paris/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/francew-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "फीफा विश्व कप के पहले सेमीफाइनल में आज रात फ़्रांस का मुकाबला स्पेन से",
+        "summary": "फीफा फुटबॉल विश्‍व कप में आज रात टेक्सास के डलास स्टेडियम में पहला सेमी-फ़ाइनल फ़्रांस और स्पेन के बीच खेला जाएगा। यह मैच भारतीय समयानुसार रात साढ़े बारह बजे शुरू होगा। फ़्रांस लगातार तीसरी बार फ़ाइनल में जगह पक्की करने की कोशिश करेगा। वहीं, स्पेन 2010 में विश्‍व कप जीतने के बाद इस बार विश्‍व […]",
+        "article": "फीफा फुटबॉल विश्&#x200d;व कप में आज रात टेक्सास के डलास स्टेडियम में पहला सेमी-फ़ाइनल फ़्रांस और स्पेन के बीच खेला जाएगा। यह मैच भारतीय समयानुसार रात साढ़े बारह बजे शुरू होगा। फ़्रांस लगातार तीसरी बार फ़ाइनल में जगह पक्की करने की कोशिश करेगा। वहीं, स्पेन 2010 में विश्&#x200d;व कप जीतने के बाद इस बार विश्&#x200d;व कप फ़ाइनल में पहुंचने की कोशिश करेगा।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T09:33:26+00:00",
+        "link": "https://newsonair.gov.in/hi/france-spain-clash-in-first-fifa-world-cup-semifinal-tonight/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/FIFA-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "होर्मुज़ जलडमरूमध्य में यूएई के ध्वज वाले दो टैंकरों पर ईरानी मिसाइल हमला, एक भारतीय क्रू सदस्य की मौत",
         "summary": "होर्मुज जलडमरूमध्य में संयुक्त अरब अमीरात के ध्वज वाले दो तेल टैंकरों पर ईरान के मिसाइल हमले में एक भारतीय नागरिक की मृत्यु हो गई और आठ चालक दल के सदस्य घायल हो गए। इनमें छह भारतीय और दो यूक्रेन के नागरिक शामिल हैं। घायलों में से चार की हालत गंभीर बताई जा रही है। […]",
@@ -1581,36 +1597,14 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "यूरोपीय संघ ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया",
-        "summary": "यूरोपीय संघ (ईयू) ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया है। संघ के शीर्ष राजनयिक ने कल कहा कि यूरोपीय संघ व्हाइट हाउस और संयुक्त राष्ट्र सहित 65 सरकारों और संगठनों के साथ मिलकर काम कर रहा है। ब्रसेल्स में &#8216;फिलिस्तीन डोनर्स ग्रुप&#8217; की बैठक के […]",
-        "article": "यूरोपीय संघ (ईयू) ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया है। संघ के शीर्ष राजनयिक ने कल कहा कि यूरोपीय संघ व्हाइट हाउस और संयुक्त राष्ट्र सहित 65 सरकारों और संगठनों के साथ मिलकर काम कर रहा है। ब्रसेल्स में &#8216;फिलिस्तीन डोनर्स ग्रुप&#8217; की बैठक के बाद यूरोपीय आयोग की उपाध्यक्ष काजा कल्लास ने इस सहायता राशि की घोषणा की। यह बैठक &#8216;टीम गाज़ा पहल&#8217; की दूसरी बैठक थी। यह यूरोपीय संघ की एक ऐसी पहल है जिसका उद्देश्य युद्ध से तबाह हुए तटीय इलाके में साफ-सफाई और खेती जैसे पुनर्निर्माण कार्यों के लिए समर्थन जुटाना है। इन तबाह हुए इलाकों में लगभग 20 लाख लोग रहते हैं।",
+        "title": "पाकिस्तान के खैबर पख्तूनख्वा में मकान की छत गिरने से 11 लोगों की मौत",
+        "summary": "पाकिस्तान के खैबर पख्तूनख्वा प्रांत में मूसलाधार बारिश के दौरान एक मकान की छत गिरने से मरने वालों की संख्या बढ़कर 11 हो गई है, जबकि 12 अन्य घायल हैं। यह घटना कल रात कोहाट जिले के बाहरी इलाके में स्थित मलागिन गांव में हुई।",
+        "article": "पाकिस्तान के खैबर पख्तूनख्वा प्रांत में मूसलाधार बारिश के दौरान एक मकान की छत गिरने से मरने वालों की संख्या बढ़कर 11 हो गई है, जबकि 12 अन्य घायल हैं। यह घटना कल रात कोहाट जिले के बाहरी इलाके में स्थित मलागिन गांव में हुई।",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:05:18+00:00",
-        "link": "https://newsonair.gov.in/hi/the-european-union-coordinated-efforts-to-mobilize-one-billion-dollars-in-aid-for-gaza/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/EU.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
-        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
-        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:49:09+00:00",
-        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कल अंतरराष्ट्रीय अंतरिक्ष स्टेशन के लिए रवाना होंगे भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन",
-        "summary": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन कल अंतरराष्ट्रीय अंतरिक्ष स्टेशन के लिए रवाना होंगे। वे कज़ाख़स्तान के बैकोनूर अंतरिक्ष केंद्र से दो रूसी अंतरिक्ष यात्रियों के साथ रोस्कोस्मोस के सोयुज़ एमएस-29 अंतरिक्ष यान से उड़ान भरेंगे। अंतरिक्ष यान का प्रक्षेपण भारतीय समयानुसार कल रात आठ बजकर 17 मिनट पर होगा। इसके लगभग साढ़े […]",
-        "article": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन कल अंतरराष्ट्रीय अंतरिक्ष स्टेशन के लिए रवाना होंगे। वे कज़ाख़स्तान के बैकोनूर अंतरिक्ष केंद्र से दो रूसी अंतरिक्ष यात्रियों के साथ रोस्कोस्मोस के सोयुज़ एमएस-29 अंतरिक्ष यान से उड़ान भरेंगे। अंतरिक्ष यान का प्रक्षेपण भारतीय समयानुसार कल रात आठ बजकर 17 मिनट पर होगा। इसके लगभग साढ़े तीन घंटे बाद यह अंतरराष्ट्रीय अंतरिक्ष स्टेशन से जुड़ेगा। अनिल मेनन के साथ रूस के अंतरिक्ष यात्री प्योत्र दुब्रोव और अन्ना किकीना भी अंतरराष्ट्रीय अंतरिक्ष स्टेशन के 75वें अभियान का हिस्सा होंगे। अंतरिक्ष यात्री बुधवार तड़के करीब 1 बजकर 25 मिनट पर अंतरिक्ष स्टेशन में प्रवेश करेंगे। 49 वर्षीय अनिल मेनन आपातकालीन चिकित्सा विशेषज्ञ और अमरीकी स्पेस फोर्स में कर्नल हैं। उनका जन्म अमरीका के मिनियापोलिस में भारतीय और यूक्रेनी मूल के परिवार में हुआ था। वे अमरीकी वायुसेना में सेवा दे चुके हैं और माउंट एवरेस्ट पर पर्वतारोहियों की चिकित्सा सहायता के लिए हिमालयन रेस्क्यू एसोसिएशन के साथ भी काम कर चुके हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:49:46+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-origin-nasa-astronaut-anil-menon-to-leave-for-international-space-station-tomorrow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNHY5tiaYAATrgc.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-14T11:15:02+00:00",
+        "link": "https://newsonair.gov.in/hi/11-people-killed-after-house-roof-collapses-in-pakistans-khyber-pakhtunkhwa/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
