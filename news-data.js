@@ -1,8 +1,30 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-14T08:39:23.923235",
+  "generated": "2026-07-14T09:27:26.207153",
   "en": {
     "top": [
+      {
+        "title": "BJP accuses AAP, Congress of backing Ankit Sharma murder convicts",
+        "summary": "Bharatiya Janata Party (BJP) today accused the Aam Aadmi Party (AAP) and Congress of backing those convicted in killing of IB officer Ankit Sharma during northeast Delhi riots in 2020. &#160; Addressing the media in New Delhi, BJP National Spokesperson Gaurav Bhatia welcomed yesterday’s Delhi court verdict convicting AAP former councillor Tahir Hussain and four […]",
+        "article": "Bharatiya Janata Party (BJP) today accused the Aam Aadmi Party (AAP) and Congress of backing those convicted in killing of IB officer Ankit Sharma during northeast Delhi riots in 2020. &nbsp; Addressing the media in New Delhi, BJP National Spokesperson Gaurav Bhatia welcomed yesterday’s Delhi court verdict convicting AAP former councillor Tahir Hussain and four other people in the killing of an IB officer. Mr Bhatia accused AAP national convener Arvind Kejriwal of defending Hussain for vote-bank politics. &nbsp; He further alleged that Mr. Kejriwal instigated and sponsored the Delhi riots during his tenure as Chief Minister. Mr Bhatia also alleged Senior Congress leader Sonia Gandhi and Mr Kejriwal of engaging in dirty and low-level politics by backing those accused.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:55:25+00:00",
+        "link": "https://newsonair.gov.in/bjp-accuses-aap-congress-of-backing-ankit-sharma-murder-convicts/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Gaurav-Bhatia.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Defence Minister Rajnath Singh flags off Shaurya Vijay Yatra from New Delhi",
+        "summary": "Defence Minister Rajnath Singh has flagged off the 13-day Shaurya Vijay Yatra, a commemorative motorcycle expedition from the National War Memorial, New Delhi. Addressing the flag-off ceremony, Mr Singh exuded confidence that the expedition would awaken a renewed sense of patriotism among the people, especially the youth. He added that it will convey a […]",
+        "article": "Defence Minister Rajnath Singh has flagged off the 13-day Shaurya Vijay Yatra, a commemorative motorcycle expedition from the National War Memorial, New Delhi. Addressing the flag-off ceremony, Mr Singh exuded confidence that the expedition would awaken a renewed sense of patriotism among the people, especially the youth. He added that it will convey a message to future generations that the defence of the nation’s freedom and honour takes place not only at the borders, but also in people&#8217;s memories and values. Mr Singh said that the 1999 Kargil war victory represents the country&#8217;s enduring resolve to respond with full might to any hostile gaze upon the country&#8217;s land, identity and honour. The expedition, which is being organised as part of the nationwide observance of Kargil Vijay Diwas 2026, will culminate at Kargil War Memorial in Dras, Ladakh on 26th of this month. Over the next 13 days, 28 riders will cover 1,900 kilometres to honour the courage, resolve and supreme sacrifice of Indian bravehearts. The motto of the expedition is One Ride, One Nation, One Salute. En route, the riders will pay homage at prominent military memorials, including the Chandimandir War Memorial, Rezang La War Memorial and Leh War Memorial. They will also interact with and felicitate Veer Naris, recognising their courage and resilience. The expedition will culminate at the Kargil War Memorial on the Kargil Vijay Diwas on 26th of this month. Chief of Defence Staff General NS Raja Subramani, Chief of the Army Staff General Dhiraj Seth and other senior officials were present on the occasion.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:41:00+00:00",
+        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-flags-off-shaurya-vijay-yatra-from-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Defence-Minister-Rajnath-Singh-flags-off-Shaurya-Vijay-Yatra-from-New-Delhi.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Railways Minister Ashwini Vaishnaw announces Rail Bhoomi portal for land acquisition",
         "summary": "Union Railways Minister Ashwini Vaishnaw today informed that Rail Bhoomi portal will be launched to manage the complete process of land acquisition. Briefing media in New Delhi on the reforms aimed at modernising Indian Railways, Mr Vaishnaw said his ministry has brought several reforms, including in the construction sector. He said fertilizers can now […]",
@@ -26,11 +48,11 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India reaffirms support for two-state solution at Palestine Donor Group meeting",
+        "title": "India backs Palestine’s bid for UN membership; Reaffirms two-state solution to conflict between Palestine and Israel",
         "summary": "India has reaffirmed its continued support to a two-state solution, as well as to Palestine’s membership of the United Nations. Secretary in the Ministry of External Affairs, Sripriya Ranganathan has said that India has been a long standing partner of the Palestinian people. She said this while addressing the Second Ministerial Meeting of the Palestine […]",
         "article": "India has reaffirmed its continued support to a two-state solution, as well as to Palestine’s membership of the United Nations. Secretary in the Ministry of External Affairs, Sripriya Ranganathan has said that India has been a long standing partner of the Palestinian people. She said this while addressing the Second Ministerial Meeting of the Palestine Donor Group, PDG in Brussels yesterday. She underlined India’s ongoing developmental assistance, including capacity building programmes and humanitarian assistance to the people of Palestine. &nbsp; Ms Ranganathan noted that India’s projects are demand-driven and largely centred on healthcare, education, capacity building, and vocational training. She also announced several new projects focused on rehabilitation, health, education and vocational training. &nbsp; The Secretary also attended a meeting hosted by the incoming Chair of the Advisory Commission of United Nations Relief and Works Agency for Palestine Refugees, wherein she highlighted India’s continued support to the Agency and its efforts in Palestine.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T07:26:44+00:00",
+        "pubDate": "2026-07-14T08:30:44+00:00",
         "link": "https://newsonair.gov.in/india-reaffirms-support-for-palestine-at-donor-group-meeting/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/99.png",
         "image_credit": "Prasar Bharati / Akashvani News",
@@ -103,41 +125,40 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Mortal remains of 15 Indian tourists brought back from Vietnam",
-        "summary": "The mortal remains of the 15 Indian nationals who lost their lives in the tragic boat accident on 11 July in Phu Quoc Island have reached their respective States. &#160; In a social media post, the Indian Embassy in Vietnam thanked the state governments of Andhra Pradesh, Kerala, and Tamil Nadu for coordinating the transportation […]",
-        "article": "The mortal remains of the 15 Indian nationals who lost their lives in the tragic boat accident on 11 July in Phu Quoc Island have reached their respective States. &nbsp; In a social media post, the Indian Embassy in Vietnam thanked the state governments of Andhra Pradesh, Kerala, and Tamil Nadu for coordinating the transportation of mortal remains to their final destinations in the respective states. &nbsp; The Embassy also extended condolences to the families of the deceased and prayed for strength to the families during these difficult times.",
+        "title": "India launches campaign for UN Security Council seat for 2028-29 term",
+        "summary": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s",
+        "article": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s guiding approach to promoting global peace, security and equitable development. He said the world is facing growing conflict and instability, making the role of the United Nations more critical than ever. Highlighting India&#8217;s credentials, Dr. Jaishankar said India has contributed nearly three lakh personnel to about 50 UN peacekeeping missions since the organisation&#8217;s inception and currently has over 4,300 personnel serving in 10 UN peacekeeping missions. He said India has consistently advocated dialogue and diplomacy and has sought to give voice to the concerns of the Global South. Seeking the support of UN member states, Dr. Jaishankar said India&#8217;s presence in the Security Council would help strengthen decision-making in the vital body. If elected, India will serve a two-year term beginning in 2028. India has previously served eight terms as a non-permanent member of the Security Council, most recently in 2021-22.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:45:55+00:00",
-        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-brought-back-from-vietnam/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
+        "pubDate": "2026-07-14T02:55:58+00:00",
+        "link": "https://newsonair.gov.in/india-launches-campaign-for-un-security-council-seat-for-2028-29-term/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/unsc-seats-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "US President Donald Trump reinstates blockade on Iranian shipping in Strait of Hormuz",
-        "summary": "United States launched strikes on Iran for the third consecutive night, marking a new escalation in the resumption of hostilities. The US military&#8217;s Central Command (CENTCOM) said it struck areas around Abu Musa, Bandar Abbas, Bushehr, Chahbahar, Jask and Konarak, targeting Iranian coastal defence systems, missile and drone sites and maritime capabilities. Iran acknowledged the […]",
-        "article": "United States launched strikes on Iran for the third consecutive night, marking a new escalation in the resumption of hostilities. The US military&#8217;s Central Command (CENTCOM) said it struck areas around Abu Musa, Bandar Abbas, Bushehr, Chahbahar, Jask and Konarak, targeting Iranian coastal defence systems, missile and drone sites and maritime capabilities. Iran acknowledged the strikes but did not report any casualties or damage. US Central Command (CENTCOM) said, the strikes will continue imposing a heavy cost on Iranian forces and degrade their ability to attack innocent civilians and commercial shipping in the Strait of Hormuz. Iran responded with attacks targeting Bahrain, Jordan and two tankers associated with the United Arab Emirates travelling through the strait, killing one mariner and injuring eight others. The Emirati Defence Ministry said the attack on the tankers killed one Indian national and injured six Indians and two Ukrainians. Jordan&#8217;s military said it intercepted four missiles from Iran. US President Donald Trump threatened to destroy Pickaxe Mountain, a deeply buried nuclear site near Natanz where Western intelligence suspects Iran is building an undeclared enrichment facility. Earlier yesterday, President Donald Trump announced that the US will reinstate a blockade on Iranian shipping in the Strait of Hormuz and impose a 20 per cent charge on cargo transiting the strategic waterway to cover the cost of maritime security. In a social media post, President Trump said the blockade would apply only to Iranian ships and vessels trading with Iran. He added, the Hormuz Strait is open, and will remain open, with or without Iran. He assured that commercial traffic from other countries would continue to have free passage. On the other hand, Iran has asserted its authority over the Strait of Hormuz and rejected the US move. According to Iranian state media, Central Headquarters spokesperson Brigadier General Ebrahim Zolfaghari said Iran will not, under any circumstances, allow the US to interfere in the management of the Strait of Hormuz. He also warned that any regional country providing logistical support to US forces would be regarded as committing an act of war against Iran.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:44:39+00:00",
-        "link": "https://newsonair.gov.in/us-president-donald-trump-reinstates-blockade-on-iranian-shipping-in-strait-of-hormuz/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/TRUMP-IRAN-1-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India condemns attacks on vessels carrying Indian seafarers in Strait of Hormuz",
-        "summary": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks […]",
-        "article": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks was lodged with him. Both the vessels were carrying 30 Indian seafarers, among their combined crew of 46. The External Affairs Ministry said in a statement that of the 12 Indian nationals onboard MT Al Bahiyah, one has lost his life and another has been injured. Of the 18 Indian nationals onboard MT Mombasa, nine have sustained injuries, including two who are reported to be seriously injured. The Ministry extended condolences to the family of the deceased Indian national and wished speedy recovery to those injured. Indian Mission and Post in the UAE are closely monitoring the situation and are in touch with the UAE authorities to ensure all possible assistance to the affected Indian seafarers. New Delhi has strongly condemned these attacks and acts of violence targeting seafarers and disrupting free and safe navigation through international waterways like the Strait of Hormuz. India has also reiterated deep concern on account of the resumption of attacks and escalation of hostilities in the West-Asian region and called for immediate cessation of violence and a return to dialogue and diplomacy in the interests of peace, security and stability in the region. The statement added that the targeting of commercial shipping and civilian infrastructure in the region must cease so that free and unimpeded navigation and commerce through international waterways in the region can be restored at the earliest.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T08:37:01+00:00",
-        "link": "https://newsonair.gov.in/india-condemns-attacks-on-vessels-carrying-indian-seafarers-in-strait-of-hormuz/",
-        "post_id": 1737296,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "BJP accuses AAP, Congress of backing Ankit Sharma murder convicts",
+        "summary": "Bharatiya Janata Party (BJP) today accused the Aam Aadmi Party (AAP) and Congress of backing those convicted in killing of IB officer Ankit Sharma during northeast Delhi riots in 2020. &#160; Addressing the media in New Delhi, BJP National Spokesperson Gaurav Bhatia welcomed yesterday’s Delhi court verdict convicting AAP former councillor Tahir Hussain and four […]",
+        "article": "Bharatiya Janata Party (BJP) today accused the Aam Aadmi Party (AAP) and Congress of backing those convicted in killing of IB officer Ankit Sharma during northeast Delhi riots in 2020. &nbsp; Addressing the media in New Delhi, BJP National Spokesperson Gaurav Bhatia welcomed yesterday’s Delhi court verdict convicting AAP former councillor Tahir Hussain and four other people in the killing of an IB officer. Mr Bhatia accused AAP national convener Arvind Kejriwal of defending Hussain for vote-bank politics. &nbsp; He further alleged that Mr. Kejriwal instigated and sponsored the Delhi riots during his tenure as Chief Minister. Mr Bhatia also alleged Senior Congress leader Sonia Gandhi and Mr Kejriwal of engaging in dirty and low-level politics by backing those accused.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:55:25+00:00",
+        "link": "https://newsonair.gov.in/bjp-accuses-aap-congress-of-backing-ankit-sharma-murder-convicts/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Gaurav-Bhatia.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Defence Minister Rajnath Singh flags off Shaurya Vijay Yatra from New Delhi",
+        "summary": "Defence Minister Rajnath Singh has flagged off the 13-day Shaurya Vijay Yatra, a commemorative motorcycle expedition from the National War Memorial, New Delhi. Addressing the flag-off ceremony, Mr Singh exuded confidence that the expedition would awaken a renewed sense of patriotism among the people, especially the youth. He added that it will convey a […]",
+        "article": "Defence Minister Rajnath Singh has flagged off the 13-day Shaurya Vijay Yatra, a commemorative motorcycle expedition from the National War Memorial, New Delhi. Addressing the flag-off ceremony, Mr Singh exuded confidence that the expedition would awaken a renewed sense of patriotism among the people, especially the youth. He added that it will convey a message to future generations that the defence of the nation’s freedom and honour takes place not only at the borders, but also in people&#8217;s memories and values. Mr Singh said that the 1999 Kargil war victory represents the country&#8217;s enduring resolve to respond with full might to any hostile gaze upon the country&#8217;s land, identity and honour. The expedition, which is being organised as part of the nationwide observance of Kargil Vijay Diwas 2026, will culminate at Kargil War Memorial in Dras, Ladakh on 26th of this month. Over the next 13 days, 28 riders will cover 1,900 kilometres to honour the courage, resolve and supreme sacrifice of Indian bravehearts. The motto of the expedition is One Ride, One Nation, One Salute. En route, the riders will pay homage at prominent military memorials, including the Chandimandir War Memorial, Rezang La War Memorial and Leh War Memorial. They will also interact with and felicitate Veer Naris, recognising their courage and resilience. The expedition will culminate at the Kargil War Memorial on the Kargil Vijay Diwas on 26th of this month. Chief of Defence Staff General NS Raja Subramani, Chief of the Army Staff General Dhiraj Seth and other senior officials were present on the occasion.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:41:00+00:00",
+        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-flags-off-shaurya-vijay-yatra-from-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Defence-Minister-Rajnath-Singh-flags-off-Shaurya-Vijay-Yatra-from-New-Delhi.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Railways Minister Ashwini Vaishnaw announces Rail Bhoomi portal for land acquisition",
         "summary": "Union Railways Minister Ashwini Vaishnaw today informed that Rail Bhoomi portal will be launched to manage the complete process of land acquisition. Briefing media in New Delhi on the reforms aimed at modernising Indian Railways, Mr Vaishnaw said his ministry has brought several reforms, including in the construction sector. He said fertilizers can now […]",
@@ -183,17 +204,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Mortal remains of 15 Indian tourists brought back from Vietnam",
-        "summary": "The mortal remains of the 15 Indian nationals who lost their lives in the tragic boat accident on 11 July in Phu Quoc Island have reached their respective States. &#160; In a social media post, the Indian Embassy in Vietnam thanked the state governments of Andhra Pradesh, Kerala, and Tamil Nadu for coordinating the transportation […]",
-        "article": "The mortal remains of the 15 Indian nationals who lost their lives in the tragic boat accident on 11 July in Phu Quoc Island have reached their respective States. &nbsp; In a social media post, the Indian Embassy in Vietnam thanked the state governments of Andhra Pradesh, Kerala, and Tamil Nadu for coordinating the transportation of mortal remains to their final destinations in the respective states. &nbsp; The Embassy also extended condolences to the families of the deceased and prayed for strength to the families during these difficult times.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:45:55+00:00",
-        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-brought-back-from-vietnam/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "India condemns attacks on vessels carrying Indian seafarers in Strait of Hormuz",
         "summary": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks […]",
         "article": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks was lodged with him. Both the vessels were carrying 30 Indian seafarers, among their combined crew of 46. The External Affairs Ministry said in a statement that of the 12 Indian nationals onboard MT Al Bahiyah, one has lost his life and another has been injured. Of the 18 Indian nationals onboard MT Mombasa, nine have sustained injuries, including two who are reported to be seriously injured. The Ministry extended condolences to the family of the deceased Indian national and wished speedy recovery to those injured. Indian Mission and Post in the UAE are closely monitoring the situation and are in touch with the UAE authorities to ensure all possible assistance to the affected Indian seafarers. New Delhi has strongly condemned these attacks and acts of violence targeting seafarers and disrupting free and safe navigation through international waterways like the Strait of Hormuz. India has also reiterated deep concern on account of the resumption of attacks and escalation of hostilities in the West-Asian region and called for immediate cessation of violence and a return to dialogue and diplomacy in the interests of peace, security and stability in the region. The statement added that the targeting of commercial shipping and civilian infrastructure in the region must cease so that free and unimpeded navigation and commerce through international waterways in the region can be restored at the earliest.",
@@ -217,23 +227,11 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India summons Iranian envoy after missile strike kills Indian national",
-        "summary": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic […]",
-        "article": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic move came after the UAE Ministry of Defence confirmed that the attack on tankers Mombasa and Bahia claimed the life of an Indian national and injured eight crew members, including six Indians and two Ukrainian nationals. Four of the injured are reported to be in critical condition. Condemning the attack, the UAE Ministry of Defence described it as a “serious violation” and a breach of international law. It said the UAE reserves the right to respond to the escalation and take all necessary measures to safeguard its sovereignty, people and territorial waters. The incident comes amid escalating tensions in the Strait of Hormuz, one of the world’s most strategically important maritime trade routes.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T08:20:43+00:00",
-        "link": "https://newsonair.gov.in/india-summons-iranian-envoy-after-missile-strike-kills-indian-national/",
-        "post_id": 1737128,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "India-UK Comprehensive Economic and Trade Agreement comes into force tomorrow",
         "summary": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom will come into force from tomorrow. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership […]",
         "article": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom will come into force from tomorrow. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership and deliver prosperity for their people. The groundwork for this historic agreement was laid in May 2021 through the Enhanced Trade Partnership and the adoption of the India-UK Roadmap 2030, which set the goal of doubling trade to 100 billion US dollar by 2030. The implementation of the India-UK trade agreement marks a major step in India&#8217;s journey towards becoming a globally integrated, resilient and competitive economy. It has been designed as a people-centric agreement that delivers benefits across society. With the agreement coming into force, Indian exporters will benefit from the complete elimination of UK tariffs on several key sectors. Tariffs of up to 70 per cent on processed food products, over 21 per cent on marine products, around 18 per cent on engineering goods and auto components, up to 16 per cent on leather and footwear products, around 12 per cent on textiles and clothing will be reduced to zero. This will significantly enhance the competitiveness of Indian exports in the UK market, generate new opportunities for farmers, fishermen, MSMEs and manufacturers, and strengthen India&#8217;s integration into global value chains. Indian service providers in IT and IT-enabled services, financial services, healthcare, education, engineering, telecommunications and consultancy services will benefit from enhanced market access and greater regulatory certainty.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T07:28:27+00:00",
+        "pubDate": "2026-07-14T08:28:27+00:00",
         "link": "https://newsonair.gov.in/india-uk-comprehensive-economic-and-trade-agreement-comes-into-force-tomorrow/",
         "post_id": 1737125,
         "image_url": "",
@@ -241,13 +239,13 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India launches campaign for UN Security Council seat for 2028-29 term",
-        "summary": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s",
-        "article": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s guiding approach to promoting global peace, security and equitable development. He said the world is facing growing conflict and instability, making the role of the United Nations more critical than ever. Highlighting India&#8217;s credentials, Dr. Jaishankar said India has contributed nearly three lakh personnel to about 50 UN peacekeeping missions since the organisation&#8217;s inception and currently has over 4,300 personnel serving in 10 UN peacekeeping missions. He said India has consistently advocated dialogue and diplomacy and has sought to give voice to the concerns of the Global South. Seeking the support of UN member states, Dr. Jaishankar said India&#8217;s presence in the Security Council would help strengthen decision-making in the vital body. If elected, India will serve a two-year term beginning in 2028. India has previously served eight terms as a non-permanent member of the Security Council, most recently in 2021-22.",
+        "title": "India summons Iranian envoy after missile strike kills Indian national",
+        "summary": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic […]",
+        "article": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic move came after the UAE Ministry of Defence confirmed that the attack on tankers Mombasa and Bahia claimed the life of an Indian national and injured eight crew members, including six Indians and two Ukrainian nationals. Four of the injured are reported to be in critical condition. Condemning the attack, the UAE Ministry of Defence described it as a “serious violation” and a breach of international law. It said the UAE reserves the right to respond to the escalation and take all necessary measures to safeguard its sovereignty, people and territorial waters. The incident comes amid escalating tensions in the Strait of Hormuz, one of the world’s most strategically important maritime trade routes.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:55:58+00:00",
-        "link": "https://newsonair.gov.in/india-launches-campaign-for-un-security-council-seat-for-2028-29-term/",
-        "post_id": 1736609,
+        "pubDate": "2026-07-14T08:20:43+00:00",
+        "link": "https://newsonair.gov.in/india-summons-iranian-envoy-after-missile-strike-kills-indian-national/",
+        "post_id": 1737128,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -255,6 +253,28 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "BJP accuses AAP, Congress of backing Ankit Sharma murder convicts",
+        "summary": "Bharatiya Janata Party (BJP) today accused the Aam Aadmi Party (AAP) and Congress of backing those convicted in killing of IB officer Ankit Sharma during northeast Delhi riots in 2020. &#160; Addressing the media in New Delhi, BJP National Spokesperson Gaurav Bhatia welcomed yesterday’s Delhi court verdict convicting AAP former councillor Tahir Hussain and four […]",
+        "article": "Bharatiya Janata Party (BJP) today accused the Aam Aadmi Party (AAP) and Congress of backing those convicted in killing of IB officer Ankit Sharma during northeast Delhi riots in 2020. &nbsp; Addressing the media in New Delhi, BJP National Spokesperson Gaurav Bhatia welcomed yesterday’s Delhi court verdict convicting AAP former councillor Tahir Hussain and four other people in the killing of an IB officer. Mr Bhatia accused AAP national convener Arvind Kejriwal of defending Hussain for vote-bank politics. &nbsp; He further alleged that Mr. Kejriwal instigated and sponsored the Delhi riots during his tenure as Chief Minister. Mr Bhatia also alleged Senior Congress leader Sonia Gandhi and Mr Kejriwal of engaging in dirty and low-level politics by backing those accused.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:55:25+00:00",
+        "link": "https://newsonair.gov.in/bjp-accuses-aap-congress-of-backing-ankit-sharma-murder-convicts/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Gaurav-Bhatia.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Defence Minister Rajnath Singh flags off Shaurya Vijay Yatra from New Delhi",
+        "summary": "Defence Minister Rajnath Singh has flagged off the 13-day Shaurya Vijay Yatra, a commemorative motorcycle expedition from the National War Memorial, New Delhi. Addressing the flag-off ceremony, Mr Singh exuded confidence that the expedition would awaken a renewed sense of patriotism among the people, especially the youth. He added that it will convey a […]",
+        "article": "Defence Minister Rajnath Singh has flagged off the 13-day Shaurya Vijay Yatra, a commemorative motorcycle expedition from the National War Memorial, New Delhi. Addressing the flag-off ceremony, Mr Singh exuded confidence that the expedition would awaken a renewed sense of patriotism among the people, especially the youth. He added that it will convey a message to future generations that the defence of the nation’s freedom and honour takes place not only at the borders, but also in people&#8217;s memories and values. Mr Singh said that the 1999 Kargil war victory represents the country&#8217;s enduring resolve to respond with full might to any hostile gaze upon the country&#8217;s land, identity and honour. The expedition, which is being organised as part of the nationwide observance of Kargil Vijay Diwas 2026, will culminate at Kargil War Memorial in Dras, Ladakh on 26th of this month. Over the next 13 days, 28 riders will cover 1,900 kilometres to honour the courage, resolve and supreme sacrifice of Indian bravehearts. The motto of the expedition is One Ride, One Nation, One Salute. En route, the riders will pay homage at prominent military memorials, including the Chandimandir War Memorial, Rezang La War Memorial and Leh War Memorial. They will also interact with and felicitate Veer Naris, recognising their courage and resilience. The expedition will culminate at the Kargil War Memorial on the Kargil Vijay Diwas on 26th of this month. Chief of Defence Staff General NS Raja Subramani, Chief of the Army Staff General Dhiraj Seth and other senior officials were present on the occasion.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:41:00+00:00",
+        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-flags-off-shaurya-vijay-yatra-from-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Defence-Minister-Rajnath-Singh-flags-off-Shaurya-Vijay-Yatra-from-New-Delhi.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Railways Minister Ashwini Vaishnaw announces Rail Bhoomi portal for land acquisition",
         "summary": "Union Railways Minister Ashwini Vaishnaw today informed that Rail Bhoomi portal will be launched to manage the complete process of land acquisition. Briefing media in New Delhi on the reforms aimed at modernising Indian Railways, Mr Vaishnaw said his ministry has brought several reforms, including in the construction sector. He said fertilizers can now […]",
         "article": "Union Railways Minister Ashwini Vaishnaw today informed that Rail Bhoomi portal will be launched to manage the complete process of land acquisition. Briefing media in New Delhi on the reforms aimed at modernising Indian Railways, Mr Vaishnaw said his ministry has brought several reforms, including in the construction sector. He said fertilizers can now be transported in containers. Mr Vaishnaw said that the fly ash generated in power plants will now be transported in containers so that its fine dust could not pollute the environment. He said, in sectors like Railways, cement and road construction, fly ash will be transported in containers. Mr Vaishnaw also announced a unified licence system under the container policy. Mr Vaishnaw said Wagon design can now be done by the industry. He said that any designer or manufacturer can propose a new wagon design. He informed that after evaluating the design, the Research Designs and Standards Organisation (RDSO) will give permission for the prototype. The Minister said this will enable special design wagons for specific industry needs. On skill certification framework for railway projects, Mr Vaishnaw said that this system will be implemented across all projects in a maximum of 24 months. He said, when large scale infrastructure creation work is underway in the country, it is important that plumbers, welders, fitters, masons, concrete testers and all other workers are well trained. The Minister underlined that Prime Minister Narendra Modi has continuously encouraged to bring reforms in the Railways.",
@@ -299,17 +319,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Mortal remains of 15 Indian tourists brought back from Vietnam",
-        "summary": "The mortal remains of the 15 Indian nationals who lost their lives in the tragic boat accident on 11 July in Phu Quoc Island have reached their respective States. &#160; In a social media post, the Indian Embassy in Vietnam thanked the state governments of Andhra Pradesh, Kerala, and Tamil Nadu for coordinating the transportation […]",
-        "article": "The mortal remains of the 15 Indian nationals who lost their lives in the tragic boat accident on 11 July in Phu Quoc Island have reached their respective States. &nbsp; In a social media post, the Indian Embassy in Vietnam thanked the state governments of Andhra Pradesh, Kerala, and Tamil Nadu for coordinating the transportation of mortal remains to their final destinations in the respective states. &nbsp; The Embassy also extended condolences to the families of the deceased and prayed for strength to the families during these difficult times.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:45:55+00:00",
-        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-brought-back-from-vietnam/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "India condemns attacks on vessels carrying Indian seafarers in Strait of Hormuz",
         "summary": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks […]",
         "article": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks was lodged with him. Both the vessels were carrying 30 Indian seafarers, among their combined crew of 46. The External Affairs Ministry said in a statement that of the 12 Indian nationals onboard MT Al Bahiyah, one has lost his life and another has been injured. Of the 18 Indian nationals onboard MT Mombasa, nine have sustained injuries, including two who are reported to be seriously injured. The Ministry extended condolences to the family of the deceased Indian national and wished speedy recovery to those injured. Indian Mission and Post in the UAE are closely monitoring the situation and are in touch with the UAE authorities to ensure all possible assistance to the affected Indian seafarers. New Delhi has strongly condemned these attacks and acts of violence targeting seafarers and disrupting free and safe navigation through international waterways like the Strait of Hormuz. India has also reiterated deep concern on account of the resumption of attacks and escalation of hostilities in the West-Asian region and called for immediate cessation of violence and a return to dialogue and diplomacy in the interests of peace, security and stability in the region. The statement added that the targeting of commercial shipping and civilian infrastructure in the region must cease so that free and unimpeded navigation and commerce through international waterways in the region can be restored at the earliest.",
@@ -333,23 +342,11 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India summons Iranian envoy after missile strike kills Indian national",
-        "summary": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic […]",
-        "article": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic move came after the UAE Ministry of Defence confirmed that the attack on tankers Mombasa and Bahia claimed the life of an Indian national and injured eight crew members, including six Indians and two Ukrainian nationals. Four of the injured are reported to be in critical condition. Condemning the attack, the UAE Ministry of Defence described it as a “serious violation” and a breach of international law. It said the UAE reserves the right to respond to the escalation and take all necessary measures to safeguard its sovereignty, people and territorial waters. The incident comes amid escalating tensions in the Strait of Hormuz, one of the world’s most strategically important maritime trade routes.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T08:20:43+00:00",
-        "link": "https://newsonair.gov.in/india-summons-iranian-envoy-after-missile-strike-kills-indian-national/",
-        "post_id": 1737128,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "India-UK Comprehensive Economic and Trade Agreement comes into force tomorrow",
         "summary": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom will come into force from tomorrow. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership […]",
         "article": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom will come into force from tomorrow. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership and deliver prosperity for their people. The groundwork for this historic agreement was laid in May 2021 through the Enhanced Trade Partnership and the adoption of the India-UK Roadmap 2030, which set the goal of doubling trade to 100 billion US dollar by 2030. The implementation of the India-UK trade agreement marks a major step in India&#8217;s journey towards becoming a globally integrated, resilient and competitive economy. It has been designed as a people-centric agreement that delivers benefits across society. With the agreement coming into force, Indian exporters will benefit from the complete elimination of UK tariffs on several key sectors. Tariffs of up to 70 per cent on processed food products, over 21 per cent on marine products, around 18 per cent on engineering goods and auto components, up to 16 per cent on leather and footwear products, around 12 per cent on textiles and clothing will be reduced to zero. This will significantly enhance the competitiveness of Indian exports in the UK market, generate new opportunities for farmers, fishermen, MSMEs and manufacturers, and strengthen India&#8217;s integration into global value chains. Indian service providers in IT and IT-enabled services, financial services, healthcare, education, engineering, telecommunications and consultancy services will benefit from enhanced market access and greater regulatory certainty.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T07:28:27+00:00",
+        "pubDate": "2026-07-14T08:28:27+00:00",
         "link": "https://newsonair.gov.in/india-uk-comprehensive-economic-and-trade-agreement-comes-into-force-tomorrow/",
         "post_id": 1737125,
         "image_url": "",
@@ -357,13 +354,13 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India launches campaign for UN Security Council seat for 2028-29 term",
-        "summary": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s",
-        "article": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s guiding approach to promoting global peace, security and equitable development. He said the world is facing growing conflict and instability, making the role of the United Nations more critical than ever. Highlighting India&#8217;s credentials, Dr. Jaishankar said India has contributed nearly three lakh personnel to about 50 UN peacekeeping missions since the organisation&#8217;s inception and currently has over 4,300 personnel serving in 10 UN peacekeeping missions. He said India has consistently advocated dialogue and diplomacy and has sought to give voice to the concerns of the Global South. Seeking the support of UN member states, Dr. Jaishankar said India&#8217;s presence in the Security Council would help strengthen decision-making in the vital body. If elected, India will serve a two-year term beginning in 2028. India has previously served eight terms as a non-permanent member of the Security Council, most recently in 2021-22.",
+        "title": "India summons Iranian envoy after missile strike kills Indian national",
+        "summary": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic […]",
+        "article": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic move came after the UAE Ministry of Defence confirmed that the attack on tankers Mombasa and Bahia claimed the life of an Indian national and injured eight crew members, including six Indians and two Ukrainian nationals. Four of the injured are reported to be in critical condition. Condemning the attack, the UAE Ministry of Defence described it as a “serious violation” and a breach of international law. It said the UAE reserves the right to respond to the escalation and take all necessary measures to safeguard its sovereignty, people and territorial waters. The incident comes amid escalating tensions in the Strait of Hormuz, one of the world’s most strategically important maritime trade routes.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:55:58+00:00",
-        "link": "https://newsonair.gov.in/india-launches-campaign-for-un-security-council-seat-for-2028-29-term/",
-        "post_id": 1736609,
+        "pubDate": "2026-07-14T08:20:43+00:00",
+        "link": "https://newsonair.gov.in/india-summons-iranian-envoy-after-missile-strike-kills-indian-national/",
+        "post_id": 1737128,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -371,6 +368,28 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "BJP accuses AAP, Congress of backing Ankit Sharma murder convicts",
+        "summary": "Bharatiya Janata Party (BJP) today accused the Aam Aadmi Party (AAP) and Congress of backing those convicted in killing of IB officer Ankit Sharma during northeast Delhi riots in 2020. &#160; Addressing the media in New Delhi, BJP National Spokesperson Gaurav Bhatia welcomed yesterday’s Delhi court verdict convicting AAP former councillor Tahir Hussain and four […]",
+        "article": "Bharatiya Janata Party (BJP) today accused the Aam Aadmi Party (AAP) and Congress of backing those convicted in killing of IB officer Ankit Sharma during northeast Delhi riots in 2020. &nbsp; Addressing the media in New Delhi, BJP National Spokesperson Gaurav Bhatia welcomed yesterday’s Delhi court verdict convicting AAP former councillor Tahir Hussain and four other people in the killing of an IB officer. Mr Bhatia accused AAP national convener Arvind Kejriwal of defending Hussain for vote-bank politics. &nbsp; He further alleged that Mr. Kejriwal instigated and sponsored the Delhi riots during his tenure as Chief Minister. Mr Bhatia also alleged Senior Congress leader Sonia Gandhi and Mr Kejriwal of engaging in dirty and low-level politics by backing those accused.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:55:25+00:00",
+        "link": "https://newsonair.gov.in/bjp-accuses-aap-congress-of-backing-ankit-sharma-murder-convicts/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/Gaurav-Bhatia.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Defence Minister Rajnath Singh flags off Shaurya Vijay Yatra from New Delhi",
+        "summary": "Defence Minister Rajnath Singh has flagged off the 13-day Shaurya Vijay Yatra, a commemorative motorcycle expedition from the National War Memorial, New Delhi. Addressing the flag-off ceremony, Mr Singh exuded confidence that the expedition would awaken a renewed sense of patriotism among the people, especially the youth. He added that it will convey a […]",
+        "article": "Defence Minister Rajnath Singh has flagged off the 13-day Shaurya Vijay Yatra, a commemorative motorcycle expedition from the National War Memorial, New Delhi. Addressing the flag-off ceremony, Mr Singh exuded confidence that the expedition would awaken a renewed sense of patriotism among the people, especially the youth. He added that it will convey a message to future generations that the defence of the nation’s freedom and honour takes place not only at the borders, but also in people&#8217;s memories and values. Mr Singh said that the 1999 Kargil war victory represents the country&#8217;s enduring resolve to respond with full might to any hostile gaze upon the country&#8217;s land, identity and honour. The expedition, which is being organised as part of the nationwide observance of Kargil Vijay Diwas 2026, will culminate at Kargil War Memorial in Dras, Ladakh on 26th of this month. Over the next 13 days, 28 riders will cover 1,900 kilometres to honour the courage, resolve and supreme sacrifice of Indian bravehearts. The motto of the expedition is One Ride, One Nation, One Salute. En route, the riders will pay homage at prominent military memorials, including the Chandimandir War Memorial, Rezang La War Memorial and Leh War Memorial. They will also interact with and felicitate Veer Naris, recognising their courage and resilience. The expedition will culminate at the Kargil War Memorial on the Kargil Vijay Diwas on 26th of this month. Chief of Defence Staff General NS Raja Subramani, Chief of the Army Staff General Dhiraj Seth and other senior officials were present on the occasion.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:41:00+00:00",
+        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-flags-off-shaurya-vijay-yatra-from-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Defence-Minister-Rajnath-Singh-flags-off-Shaurya-Vijay-Yatra-from-New-Delhi.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Railways Minister Ashwini Vaishnaw announces Rail Bhoomi portal for land acquisition",
         "summary": "Union Railways Minister Ashwini Vaishnaw today informed that Rail Bhoomi portal will be launched to manage the complete process of land acquisition. Briefing media in New Delhi on the reforms aimed at modernising Indian Railways, Mr Vaishnaw said his ministry has brought several reforms, including in the construction sector. He said fertilizers can now […]",
         "article": "Union Railways Minister Ashwini Vaishnaw today informed that Rail Bhoomi portal will be launched to manage the complete process of land acquisition. Briefing media in New Delhi on the reforms aimed at modernising Indian Railways, Mr Vaishnaw said his ministry has brought several reforms, including in the construction sector. He said fertilizers can now be transported in containers. Mr Vaishnaw said that the fly ash generated in power plants will now be transported in containers so that its fine dust could not pollute the environment. He said, in sectors like Railways, cement and road construction, fly ash will be transported in containers. Mr Vaishnaw also announced a unified licence system under the container policy. Mr Vaishnaw said Wagon design can now be done by the industry. He said that any designer or manufacturer can propose a new wagon design. He informed that after evaluating the design, the Research Designs and Standards Organisation (RDSO) will give permission for the prototype. The Minister said this will enable special design wagons for specific industry needs. On skill certification framework for railway projects, Mr Vaishnaw said that this system will be implemented across all projects in a maximum of 24 months. He said, when large scale infrastructure creation work is underway in the country, it is important that plumbers, welders, fitters, masons, concrete testers and all other workers are well trained. The Minister underlined that Prime Minister Narendra Modi has continuously encouraged to bring reforms in the Railways.",
@@ -415,17 +434,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Mortal remains of 15 Indian tourists brought back from Vietnam",
-        "summary": "The mortal remains of the 15 Indian nationals who lost their lives in the tragic boat accident on 11 July in Phu Quoc Island have reached their respective States. &#160; In a social media post, the Indian Embassy in Vietnam thanked the state governments of Andhra Pradesh, Kerala, and Tamil Nadu for coordinating the transportation […]",
-        "article": "The mortal remains of the 15 Indian nationals who lost their lives in the tragic boat accident on 11 July in Phu Quoc Island have reached their respective States. &nbsp; In a social media post, the Indian Embassy in Vietnam thanked the state governments of Andhra Pradesh, Kerala, and Tamil Nadu for coordinating the transportation of mortal remains to their final destinations in the respective states. &nbsp; The Embassy also extended condolences to the families of the deceased and prayed for strength to the families during these difficult times.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:45:55+00:00",
-        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-brought-back-from-vietnam/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "India condemns attacks on vessels carrying Indian seafarers in Strait of Hormuz",
         "summary": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks […]",
         "article": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks was lodged with him. Both the vessels were carrying 30 Indian seafarers, among their combined crew of 46. The External Affairs Ministry said in a statement that of the 12 Indian nationals onboard MT Al Bahiyah, one has lost his life and another has been injured. Of the 18 Indian nationals onboard MT Mombasa, nine have sustained injuries, including two who are reported to be seriously injured. The Ministry extended condolences to the family of the deceased Indian national and wished speedy recovery to those injured. Indian Mission and Post in the UAE are closely monitoring the situation and are in touch with the UAE authorities to ensure all possible assistance to the affected Indian seafarers. New Delhi has strongly condemned these attacks and acts of violence targeting seafarers and disrupting free and safe navigation through international waterways like the Strait of Hormuz. India has also reiterated deep concern on account of the resumption of attacks and escalation of hostilities in the West-Asian region and called for immediate cessation of violence and a return to dialogue and diplomacy in the interests of peace, security and stability in the region. The statement added that the targeting of commercial shipping and civilian infrastructure in the region must cease so that free and unimpeded navigation and commerce through international waterways in the region can be restored at the earliest.",
@@ -449,23 +457,11 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India summons Iranian envoy after missile strike kills Indian national",
-        "summary": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic […]",
-        "article": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic move came after the UAE Ministry of Defence confirmed that the attack on tankers Mombasa and Bahia claimed the life of an Indian national and injured eight crew members, including six Indians and two Ukrainian nationals. Four of the injured are reported to be in critical condition. Condemning the attack, the UAE Ministry of Defence described it as a “serious violation” and a breach of international law. It said the UAE reserves the right to respond to the escalation and take all necessary measures to safeguard its sovereignty, people and territorial waters. The incident comes amid escalating tensions in the Strait of Hormuz, one of the world’s most strategically important maritime trade routes.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T08:20:43+00:00",
-        "link": "https://newsonair.gov.in/india-summons-iranian-envoy-after-missile-strike-kills-indian-national/",
-        "post_id": 1737128,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "India-UK Comprehensive Economic and Trade Agreement comes into force tomorrow",
         "summary": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom will come into force from tomorrow. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership […]",
         "article": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom will come into force from tomorrow. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership and deliver prosperity for their people. The groundwork for this historic agreement was laid in May 2021 through the Enhanced Trade Partnership and the adoption of the India-UK Roadmap 2030, which set the goal of doubling trade to 100 billion US dollar by 2030. The implementation of the India-UK trade agreement marks a major step in India&#8217;s journey towards becoming a globally integrated, resilient and competitive economy. It has been designed as a people-centric agreement that delivers benefits across society. With the agreement coming into force, Indian exporters will benefit from the complete elimination of UK tariffs on several key sectors. Tariffs of up to 70 per cent on processed food products, over 21 per cent on marine products, around 18 per cent on engineering goods and auto components, up to 16 per cent on leather and footwear products, around 12 per cent on textiles and clothing will be reduced to zero. This will significantly enhance the competitiveness of Indian exports in the UK market, generate new opportunities for farmers, fishermen, MSMEs and manufacturers, and strengthen India&#8217;s integration into global value chains. Indian service providers in IT and IT-enabled services, financial services, healthcare, education, engineering, telecommunications and consultancy services will benefit from enhanced market access and greater regulatory certainty.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T07:28:27+00:00",
+        "pubDate": "2026-07-14T08:28:27+00:00",
         "link": "https://newsonair.gov.in/india-uk-comprehensive-economic-and-trade-agreement-comes-into-force-tomorrow/",
         "post_id": 1737125,
         "image_url": "",
@@ -473,13 +469,13 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India launches campaign for UN Security Council seat for 2028-29 term",
-        "summary": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s",
-        "article": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s guiding approach to promoting global peace, security and equitable development. He said the world is facing growing conflict and instability, making the role of the United Nations more critical than ever. Highlighting India&#8217;s credentials, Dr. Jaishankar said India has contributed nearly three lakh personnel to about 50 UN peacekeeping missions since the organisation&#8217;s inception and currently has over 4,300 personnel serving in 10 UN peacekeeping missions. He said India has consistently advocated dialogue and diplomacy and has sought to give voice to the concerns of the Global South. Seeking the support of UN member states, Dr. Jaishankar said India&#8217;s presence in the Security Council would help strengthen decision-making in the vital body. If elected, India will serve a two-year term beginning in 2028. India has previously served eight terms as a non-permanent member of the Security Council, most recently in 2021-22.",
+        "title": "India summons Iranian envoy after missile strike kills Indian national",
+        "summary": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic […]",
+        "article": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic move came after the UAE Ministry of Defence confirmed that the attack on tankers Mombasa and Bahia claimed the life of an Indian national and injured eight crew members, including six Indians and two Ukrainian nationals. Four of the injured are reported to be in critical condition. Condemning the attack, the UAE Ministry of Defence described it as a “serious violation” and a breach of international law. It said the UAE reserves the right to respond to the escalation and take all necessary measures to safeguard its sovereignty, people and territorial waters. The incident comes amid escalating tensions in the Strait of Hormuz, one of the world’s most strategically important maritime trade routes.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:55:58+00:00",
-        "link": "https://newsonair.gov.in/india-launches-campaign-for-un-security-council-seat-for-2028-29-term/",
-        "post_id": 1736609,
+        "pubDate": "2026-07-14T08:20:43+00:00",
+        "link": "https://newsonair.gov.in/india-summons-iranian-envoy-after-missile-strike-kills-indian-national/",
+        "post_id": 1737128,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -509,13 +505,13 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India summons Iranian envoy after missile strike kills Indian national",
-        "summary": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic […]",
-        "article": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic move came after the UAE Ministry of Defence confirmed that the attack on tankers Mombasa and Bahia claimed the life of an Indian national and injured eight crew members, including six Indians and two Ukrainian nationals. Four of the injured are reported to be in critical condition. Condemning the attack, the UAE Ministry of Defence described it as a “serious violation” and a breach of international law. It said the UAE reserves the right to respond to the escalation and take all necessary measures to safeguard its sovereignty, people and territorial waters. The incident comes amid escalating tensions in the Strait of Hormuz, one of the world’s most strategically important maritime trade routes.",
+        "title": "India backs Palestine’s bid for UN membership; Reaffirms two-state solution to conflict between Palestine and Israel",
+        "summary": "India has reaffirmed its continued support to a two-state solution, as well as to Palestine’s membership of the United Nations. Secretary in the Ministry of External Affairs, Sripriya Ranganathan has said that India has been a long standing partner of the Palestinian people. She said this while addressing the Second Ministerial Meeting of the Palestine […]",
+        "article": "India has reaffirmed its continued support to a two-state solution, as well as to Palestine’s membership of the United Nations. Secretary in the Ministry of External Affairs, Sripriya Ranganathan has said that India has been a long standing partner of the Palestinian people. She said this while addressing the Second Ministerial Meeting of the Palestine Donor Group, PDG in Brussels yesterday. She underlined India’s ongoing developmental assistance, including capacity building programmes and humanitarian assistance to the people of Palestine. &nbsp; Ms Ranganathan noted that India’s projects are demand-driven and largely centred on healthcare, education, capacity building, and vocational training. She also announced several new projects focused on rehabilitation, health, education and vocational training. &nbsp; The Secretary also attended a meeting hosted by the incoming Chair of the Advisory Commission of United Nations Relief and Works Agency for Palestine Refugees, wherein she highlighted India’s continued support to the Agency and its efforts in Palestine.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T08:20:43+00:00",
-        "link": "https://newsonair.gov.in/india-summons-iranian-envoy-after-missile-strike-kills-indian-national/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/p.webp",
+        "pubDate": "2026-07-14T08:30:44+00:00",
+        "link": "https://newsonair.gov.in/india-reaffirms-support-for-palestine-at-donor-group-meeting/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/99.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -524,20 +520,20 @@ window.VM_NEWS = {
         "summary": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom will come into force from tomorrow. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership […]",
         "article": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom will come into force from tomorrow. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership and deliver prosperity for their people. The groundwork for this historic agreement was laid in May 2021 through the Enhanced Trade Partnership and the adoption of the India-UK Roadmap 2030, which set the goal of doubling trade to 100 billion US dollar by 2030. The implementation of the India-UK trade agreement marks a major step in India&#8217;s journey towards becoming a globally integrated, resilient and competitive economy. It has been designed as a people-centric agreement that delivers benefits across society. With the agreement coming into force, Indian exporters will benefit from the complete elimination of UK tariffs on several key sectors. Tariffs of up to 70 per cent on processed food products, over 21 per cent on marine products, around 18 per cent on engineering goods and auto components, up to 16 per cent on leather and footwear products, around 12 per cent on textiles and clothing will be reduced to zero. This will significantly enhance the competitiveness of Indian exports in the UK market, generate new opportunities for farmers, fishermen, MSMEs and manufacturers, and strengthen India&#8217;s integration into global value chains. Indian service providers in IT and IT-enabled services, financial services, healthcare, education, engineering, telecommunications and consultancy services will benefit from enhanced market access and greater regulatory certainty.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T07:28:27+00:00",
+        "pubDate": "2026-07-14T08:28:27+00:00",
         "link": "https://newsonair.gov.in/india-uk-comprehensive-economic-and-trade-agreement-comes-into-force-tomorrow/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1757553493027.jpeg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "India reaffirms support for two-state solution at Palestine Donor Group meeting",
-        "summary": "India has reaffirmed its continued support to a two-state solution, as well as to Palestine’s membership of the United Nations. Secretary in the Ministry of External Affairs, Sripriya Ranganathan has said that India has been a long standing partner of the Palestinian people. She said this while addressing the Second Ministerial Meeting of the Palestine […]",
-        "article": "India has reaffirmed its continued support to a two-state solution, as well as to Palestine’s membership of the United Nations. Secretary in the Ministry of External Affairs, Sripriya Ranganathan has said that India has been a long standing partner of the Palestinian people. She said this while addressing the Second Ministerial Meeting of the Palestine Donor Group, PDG in Brussels yesterday. She underlined India’s ongoing developmental assistance, including capacity building programmes and humanitarian assistance to the people of Palestine. &nbsp; Ms Ranganathan noted that India’s projects are demand-driven and largely centred on healthcare, education, capacity building, and vocational training. She also announced several new projects focused on rehabilitation, health, education and vocational training. &nbsp; The Secretary also attended a meeting hosted by the incoming Chair of the Advisory Commission of United Nations Relief and Works Agency for Palestine Refugees, wherein she highlighted India’s continued support to the Agency and its efforts in Palestine.",
+        "title": "India summons Iranian envoy after missile strike kills Indian national",
+        "summary": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic […]",
+        "article": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic move came after the UAE Ministry of Defence confirmed that the attack on tankers Mombasa and Bahia claimed the life of an Indian national and injured eight crew members, including six Indians and two Ukrainian nationals. Four of the injured are reported to be in critical condition. Condemning the attack, the UAE Ministry of Defence described it as a “serious violation” and a breach of international law. It said the UAE reserves the right to respond to the escalation and take all necessary measures to safeguard its sovereignty, people and territorial waters. The incident comes amid escalating tensions in the Strait of Hormuz, one of the world’s most strategically important maritime trade routes.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T07:26:44+00:00",
-        "link": "https://newsonair.gov.in/india-reaffirms-support-for-palestine-at-donor-group-meeting/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/99.png",
+        "pubDate": "2026-07-14T08:20:43+00:00",
+        "link": "https://newsonair.gov.in/india-summons-iranian-envoy-after-missile-strike-kills-indian-national/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/p.webp",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -598,6 +594,17 @@ window.VM_NEWS = {
       }
     ],
     "sports": [
+      {
+        "title": "France, Spain clash in first FIFA World Cup semifinal tonight",
+        "summary": "In the FIFA World Cup, France will take on Spain in the first semi-final at Dallas Stadium in Texas, US, tonight. The match is scheduled to begin at 12:30 AM Indian Standard Time. &#160; France will look to book their place in their third consecutive FIFA World Cup final. Meanwhile, Spain will aim to advance […]",
+        "article": "In the FIFA World Cup, France will take on Spain in the first semi-final at Dallas Stadium in Texas, US, tonight. The match is scheduled to begin at 12:30 AM Indian Standard Time. &nbsp; France will look to book their place in their third consecutive FIFA World Cup final. Meanwhile, Spain will aim to advance into their first World Cup final since lifting the trophy in 2010. France reached the semi-finals after defeating Morocco 2-0 in the quarter-finals, while Spain advanced with a hard-fought 2-1 victory over Belgium.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:57:08+00:00",
+        "link": "https://newsonair.gov.in/france-spain-clash-in-first-fifa-world-cup-semifinal-tonight/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/FIFA-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "India women script history with Test win over England",
         "summary": "The Indian women&#8217;s cricket team scripted history when they registered one of the biggest victories in their Test history against England at Lord&#8217;s yesterday. India handed a massive defeat to the hosts by 270 runs in the first ever women&#8217;s test at Lord’s yesterday to clinch the one-off test series. Defending a daunting target […]",
@@ -695,17 +702,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/linda-noskova-beats-karolina-muchova-to-win-first-wimbledon-tennis-title/",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alexander_Zverev.jpg",
         "image_credit": "Wikipedia – Alexander Zverev (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "England beat India by 56 runs to win series 4-0 in Southampton",
-        "summary": "In Men&#8217;s Cricket, England beat India by 56 runs in the 5th and final T20I at Southampton last night to sweep the five-match series 4-0. England set a target of 258 runs for India. In reply, India could score only 201 runs for 8 in 20 overs. Earlier, put into bat, England posted 257 for […]",
-        "article": "In Men&#8217;s Cricket, England beat India by 56 runs in the 5th and final T20I at Southampton last night to sweep the five-match series 4-0. England set a target of 258 runs for India. In reply, India could score only 201 runs for 8 in 20 overs. Earlier, put into bat, England posted 257 for 3 in their allotted 20 overs. Jos Buttler was adjudged Player of the Match. The first T20 match between the sides ended with no result due to rain.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:41:51+00:00",
-        "link": "https://newsonair.gov.in/england-beat-india-by-56-runs-to-win-series-4-0-in-southampton/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/View_across_Ocean_Village_Marina_%28geograph_5432669%29.jpg",
-        "image_credit": "Wikipedia – Southampton (CC BY-SA)",
         "source": "Prasar Bharati"
       }
     ],
@@ -1038,6 +1034,72 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "रक्षा मंत्री राजनाथ सिंह ने राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया",
+        "summary": "रक्षा मंत्री राजनाथ सिंह ने नई दिल्ली स्थित राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया। इस अवसर पर अपने संबोधन में श्री सिंह ने विश्वास व्यक्त किया कि यह अभियान लोगों, विशेषकर युवाओं में देशभक्ति की भावना को फिर से जागृत करेगा। उन्होंने कहा कि यह आने […]",
+        "article": "रक्षा मंत्री राजनाथ सिंह ने नई दिल्ली स्थित राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया। इस अवसर पर अपने संबोधन में श्री सिंह ने विश्वास व्यक्त किया कि यह अभियान लोगों, विशेषकर युवाओं में देशभक्ति की भावना को फिर से जागृत करेगा। उन्होंने कहा कि यह आने वाली पीढ़ियों को यह संदेश देगा कि राष्ट्र की स्वतंत्रता और सम्मान की रक्षा केवल सीमाओं पर ही नहीं, बल्कि लोगों की स्मृतियों और मूल्यों में भी निहित है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T09:01:00+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%a8%e0%a4%be%e0%a4%a5-%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9-125/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Defence-Minister-Rajnath-Singh-flags-off-Shaurya-Vijay-Yatra-from-New-Delhi.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "जम्मू-कश्मीर: सरकार ने कुष्ठ रोग को तत्काल प्रभाव से अधिसूचित करने योग्य रोग घोषित किया",
+        "summary": "जम्मू-कश्मीर में, उपराज्यपाल मनोज सिन्हा के आदेशानुसार, सरकार ने कुष्ठ रोग को तत्काल प्रभाव से अधिसूचित करने योग्य रोग घोषित कर दिया है। हमारे संवाददाता ने बताया है कि नए निर्देश के अंतर्गत, सभी सरकारी और निजी स्वास्थ्य केंद्रों को कुष्ठ रोग के प्रत्येक मामले की सूचना स्वास्थ्य अधिकारियों को देनी होगी। इसका उद्देश्य रोग […]",
+        "article": "जम्मू-कश्मीर में, उपराज्यपाल मनोज सिन्हा के आदेशानुसार, सरकार ने कुष्ठ रोग को तत्काल प्रभाव से अधिसूचित करने योग्य रोग घोषित कर दिया है। हमारे संवाददाता ने बताया है कि नए निर्देश के अंतर्गत, सभी सरकारी और निजी स्वास्थ्य केंद्रों को कुष्ठ रोग के प्रत्येक मामले की सूचना स्वास्थ्य अधिकारियों को देनी होगी। इसका उद्देश्य रोग निगरानी को मजबूत करना, शीघ्र निदान और समय पर उपचार सुनिश्चित करना और इसके प्रसार को रोकना है। इस निर्णय से बेहतर निगरानी, ​​प्रभावी केस प्रबंधन और समन्वित जन स्वास्थ्य हस्तक्षेपों के माध्यम से कुष्ठ रोग मुक्त भारत के राष्ट्रीय लक्ष्य को प्राप्त करने में सहायता मिलेगी।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T09:00:28+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%9c%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a5%82-%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%b0-%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0-%e0%a4%a8%e0%a5%87-%e0%a4%95%e0%a5%81%e0%a4%b7/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/a-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भूमि अधिग्रहण की पूरी प्रक्रिया के प्रबंधन के लिए रेल भूमि पोर्टल लॉन्च किया जाएगा: रेल मंत्री अश्विनी वैष्णव",
+        "summary": "रेल मंत्री अश्विनी वैष्णव ने कहा है कि भूमि अधिग्रहण की पूरी प्रक्रिया के प्रबंधन के लिए रेल भूमि पोर्टल लॉन्च किया जाएगा। भारतीय रेलवे को आधुनिक बनाने के उद्देश्य से किए गए सुधारों पर नई दिल्ली में संवाददाताओं को जानकारी देते हुए श्री वैष्णव ने कहा कि उनके मंत्रालय ने निर्माण क्षेत्र सहित कई […]",
+        "article": "रेल मंत्री अश्विनी वैष्णव ने कहा है कि भूमि अधिग्रहण की पूरी प्रक्रिया के प्रबंधन के लिए रेल भूमि पोर्टल लॉन्च किया जाएगा। भारतीय रेलवे को आधुनिक बनाने के उद्देश्य से किए गए सुधारों पर नई दिल्ली में संवाददाताओं को जानकारी देते हुए श्री वैष्णव ने कहा कि उनके मंत्रालय ने निर्माण क्षेत्र सहित कई सुधार किए हैं। उन्होंने कहा कि अब कंटेनरों में उर्वरकों का परिवहन किया जा सकता है। श्री वैष्णव ने कहा कि बिजली संयंत्रों में उत्पन्न होने वाली फ्लाई ऐश को अब कंटेनरों में भेजा जाएगा ताकि इसकी बारीक धूल पर्यावरण को प्रदूषित न कर सके। उन्होंने कहा कि रेलवे, सीमेंट और सड़क निर्माण जैसे क्षेत्रों में फ्लाई ऐश का परिवहन कंटेनरों में किया जाएगा। श्री वैष्णव ने कंटेनर नीति के तहत एक एकीकृत लाइसेंस प्रणाली की भी घोषणा की। श्री वैष्णव ने कहा कि वैगन &#8211; मालगाड़ी के डिब्बे का डिज़ाइन अब उद्योग जगत द्वारा किया जा सकता है। उन्होंने कहा कि कोई भी डिज़ाइनर या निर्माता एक नए वैगन डिज़ाइन का प्रस्ताव दे सकता है। उन्होंने बताया कि डिज़ाइन का मूल्यांकन करने के बाद अनुसंधान डिज़ाइन और मानक संगठन प्रारूप के लिए अनुमति देगा। उन्होंने कहा कि इससे विशिष्ट उद्योग की आवश्यकताओं के लिए विशेष डिज़ाइन वाले वैगन तैयार करने में मदद मिलेगी। रेलवे परियोजनाओं के लिए कौशल प्रमाणन ढांचे पर श्री वैष्णव ने कहा कि इस प्रणाली को अधिकतम 24 महीनों में सभी परियोजनाओं में लागू किया जाएगा। उन्होंने कहा कि जब देश में बड़े पैमाने पर बुनियादी ढांचे के निर्माण का काम चल रहा है, तो यह महत्वपूर्ण है कि प्लंबर, वेल्डर, फिटर, राजमिस्त्री और कंक्रीट टेस्टर और अन्य सभी कर्मचारी अच्छी तरह से प्रशिक्षित हों।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:58:24+00:00",
+        "link": "https://newsonair.gov.in/hi/rail-land-portal-to-be-launched-to-manage-the-entire-land-acquisition-process-railway-minister-ashwini-vaishnaw/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNLQnKhbkAA5IMM.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने होर्मुज जलडमरूमध्य में 30 भारतीय नाविकों को ले जा रहे दो जहाजों पर हुए हमले की कड़ी निंदा की",
+        "summary": "भारत ने आज होर्मुज जलडमरूमध्य से गुजरते समय दो जहाजों, एमटी अल बहिया और एमटी मोम्बासा पर हुए हमलों पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने आज सुबह नई दिल्ली स्थित ईरान दूतावास के उप मिशन प्रमुख को तलब किया और इन हमलों के खिलाफ कड़ा विरोध दर्ज कराया। दोनों जहाजों पर सवार […]",
+        "article": "भारत ने आज होर्मुज जलडमरूमध्य से गुजरते समय दो जहाजों, एमटी अल बहिया और एमटी मोम्बासा पर हुए हमलों पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने आज सुबह नई दिल्ली स्थित ईरान दूतावास के उप मिशन प्रमुख को तलब किया और इन हमलों के खिलाफ कड़ा विरोध दर्ज कराया। दोनों जहाजों पर सवार 46 सदस्यीय चालक दल में से 30 भारतीय नाविक थे। विदेश मंत्रालय ने कहा कि एमटी अल बहिया पर सवार 12 भारतीय नागरिकों में से एक की मृत्यु हो गई है और एक घायल हो गया है। एमटी मोम्बासा पर सवार 18 भारतीय नागरिकों में से नौ घायल हुए हैं, जिनमें से दो की हालत गंभीर बताई जा रही है। मंत्रालय ने मृतक के परिवार के प्रति संवेदना व्यक्त की और घायलों के शीघ्र स्वस्थ होने की कामना की। संयुक्त अरब अमीरात में भारतीय मिशन और दूतावास स्थिति पर कड़ी नजर रख रहे हैं और प्रभावित भारतीय नाविकों को हर संभव सहायता सुनिश्चित करने के लिए अधिकारियों के संपर्क में हैं। भारत ने नाविकों को निशाना बनाकर किए गए इन हमलों और हिंसा की कड़ी निंदा की है। इससे होर्मुज जलडमरूमध्य से निर्बाध और सुरक्षित नौवहन बाधित हुआ है। भारत ने पश्चिम एशियाई क्षेत्र में हमलों की दोबारा शुरुआत और शत्रुता बढने पर गहरी चिंता व्यक्त की है। साथ ही क्षेत्र में शांति, सुरक्षा और स्थिरता के लिए हिंसा को तत्काल रोकने और संवाद तथा कूटनीति की ओर लौटने का आह्वान किया है। बयान में कहा गया है कि क्षेत्र में व्&#x200d;यापारिक जहाजों और नागरिक बुनियादी ढांचे को निशाना बनाना बंद होना चाहिए ताकि क्षेत्र के अंतरराष्ट्रीय जलमार्गों में निर्बाध नौवहन और व्&#x200d;यापार को जल्द से जल्द बहाल किया जा सके। &nbsp; &nbsp;",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:56:03+00:00",
+        "link": "https://newsonair.gov.in/hi/india-strongly-condemned-the-attack-on-two-ships-carrying-30-indian-sailors-in-the-strait-of-hormuz/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNLNrv4bIAEkFsJ.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संयुक्त राष्ट्र की सदस्यता के लिए फिलिस्तीन के दावे का समर्थन किया",
+        "summary": "भारत ने &#8216;टू-स्टेट सॉल्यूशन&#8217; (दो-देश समाधान) और संयुक्त राष्ट्र में फ़िलिस्तीन की सदस्यता के लिए अपना समर्थन फिर से दोहराया है। विदेश मंत्रालय में सचिव श्रीप्रिया रंगनाथन ने कहा है कि भारत फ़िलिस्तीनी लोगों का लंबे समय से सहयोगी रहा है। उन्होंने कल ब्रसेल्स में फ़िलिस्तीन डोनर ग्रुप की दूसरी मंत्री-स्तरीय बैठक को संबोधित करते […]",
+        "article": "भारत ने &#8216;टू-स्टेट सॉल्यूशन&#8217; (दो-देश समाधान) और संयुक्त राष्ट्र में फ़िलिस्तीन की सदस्यता के लिए अपना समर्थन फिर से दोहराया है। विदेश मंत्रालय में सचिव श्रीप्रिया रंगनाथन ने कहा है कि भारत फ़िलिस्तीनी लोगों का लंबे समय से सहयोगी रहा है। उन्होंने कल ब्रसेल्स में फ़िलिस्तीन डोनर ग्रुप की दूसरी मंत्री-स्तरीय बैठक को संबोधित करते हुए यह बात कही। उन्होंने फ़िलिस्तीन के लोगों के लिए भारत की ओर से दी जा रही विकास संबंधी मदद पर ज़ोर दिया। सुश्री रंगनाथन ने बताया कि भारत की परियोजनाएं ज़रूरतों पर आधारित हैं और मुख्य रूप से स्वास्थ्य सेवा, शिक्षा, क्षमता निर्माण और व्यावसायिक प्रशिक्षण पर केंद्रित हैं। उन्होंने पुनर्वास, स्वास्थ्य, शिक्षा और व्यावसायिक प्रशिक्षण पर केंद्रित कई नई परियोजनाओं की भी घोषणा की।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:55:20+00:00",
+        "link": "https://newsonair.gov.in/hi/india-supported-palestines-claim-at-the-united-nations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/99-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत और ब्रिटेन के बीच व्यापक आर्थिक और व्यापार समझौता कल से लागू होगा",
+        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से लागू हो जाएगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत उत्पादों पर शून्य शुल्क की सुविधा मिलेगी। यह समझौता भारत और ब्रिटेन की रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की […]",
+        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से लागू हो जाएगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत उत्पादों पर शून्य शुल्क की सुविधा मिलेगी। यह समझौता भारत और ब्रिटेन की रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। इस ऐतिहासिक समझौते की नींव मई 2021 में उन्नत व्यापार साझेदारी और भारत-ब्रिटेन रोडमैप 2030 को अपनाने के माध्यम से रखी गई थी। इसमें 2030 तक व्यापार को दोगुना करके सौ अरब अमरीकी डॉलर तक पहुंचाने का लक्ष्य रखा गया था। &nbsp;",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:54:14+00:00",
+        "link": "https://newsonair.gov.in/hi/india-uk-comprehensive-economic-and-trade-agreement-to-come-into-effect-tomorrow-zero-duty-on-99-of-indian-exports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1757553493027.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "होर्मुज़ जलडमरूमध्य में यूएई के ध्वज वाले दो टैंकरों पर ईरानी मिसाइल हमला, एक भारतीय क्रू सदस्य की मौत",
         "summary": "होर्मुज जलडमरूमध्य में संयुक्त अरब अमीरात के ध्वज वाले दो तेल टैंकरों पर ईरान के मिसाइल हमले में एक भारतीय नागरिक की मृत्यु हो गई और आठ चालक दल के सदस्य घायल हो गए। इनमें छह भारतीय और दो यूक्रेन के नागरिक शामिल हैं। घायलों में से चार की हालत गंभीर बताई जा रही है। […]",
         "article": "होर्मुज जलडमरूमध्य में संयुक्त अरब अमीरात के ध्वज वाले दो तेल टैंकरों पर ईरान के मिसाइल हमले में एक भारतीय नागरिक की मृत्यु हो गई और आठ चालक दल के सदस्य घायल हो गए। इनमें छह भारतीय और दो यूक्रेन के नागरिक शामिल हैं। घायलों में से चार की हालत गंभीर बताई जा रही है। भारत ने इस घटना के बाद ईरान के उप मिशन प्रमुख मोहम्मद जवाद हुसैनी को तलब किया। अधिकारियों से मुलाकात के बाद हुसैनी को नई दिल्ली स्थित विदेश मंत्रालय के मुख्यालय से निकलते हुए देखा गया। यह राजनयिक कदम संयुक्त अरब अमीरात के रक्षा मंत्रालय द्वारा टैंकर मोम्बासा और बाहिया पर हुए हमले की पुष्टि के बाद उठाया गया है। इस हमले की निंदा करते हुए संयुक्त अरब अमीरात के रक्षा मंत्रालय ने इसे अंतरराष्ट्रीय कानून का उल्लंघन बताया। मंत्रालय ने कहा कि संयुक्त अरब अमीरात के पास तनाव बढ़ने पर जवाब देने और अपनी संप्रभुता, लोगों और समुद्री सीमा की सुरक्षा के लिए सभी ज़रूरी कदम उठाने का अधिकार है। यह घटना होर्मुज़ जलडमरूमध्य में बढ़ते तनाव के बीच हुई है, जो दुनिया के सबसे अहम रणनीतिक समुद्री व्यापार मार्गों में से एक है।",
@@ -1045,17 +1107,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T08:30:34+00:00",
         "link": "https://newsonair.gov.in/hi/iranian-missile-attack-on-two-uae-tankers-in-the-strait-of-hormuz-one-indian-crew-member-killed/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-4-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से होगा लागू, 99% भारतीय निर्यात पर शून्य शुल्क",
-        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से लागू हो जाएगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत उत्पादों पर शून्य शुल्क की सुविधा मिलेगी। यह समझौता भारत और ब्रिटेन की रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की […]",
-        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से लागू हो जाएगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत उत्पादों पर शून्य शुल्क की सुविधा मिलेगी। यह समझौता भारत और ब्रिटेन की रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। इस ऐतिहासिक समझौते की नींव मई 2021 में उन्नत व्यापार साझेदारी और भारत-ब्रिटेन रोडमैप 2030 को अपनाने के माध्यम से रखी गई थी। इसमें 2030 तक व्यापार को दोगुना करके सौ अरब अमरीकी डॉलर तक पहुंचाने का लक्ष्य रखा गया था। &nbsp;",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T07:10:14+00:00",
-        "link": "https://newsonair.gov.in/hi/india-uk-comprehensive-economic-and-trade-agreement-to-come-into-effect-tomorrow-zero-duty-on-99-of-indian-exports/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-4-3.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1113,72 +1164,72 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/b.webp",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली में शुरू हुआ",
-        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम, भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरिराज सिंह ने आज इस कार्यक्रम का उद्घाटन किया। संवाददाताओं से बातचीत में श्री सिंह ने कहा कि भारत टेक्स प्रधानमंत्री का दृष्टिकोण है। उन्होंने कहा कि यह अब एक अंतर्राष्ट्रीय आयोजन बन […]",
-        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम, भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरिराज सिंह ने आज इस कार्यक्रम का उद्घाटन किया। संवाददाताओं से बातचीत में श्री सिंह ने कहा कि भारत टेक्स प्रधानमंत्री का दृष्टिकोण है। उन्होंने कहा कि यह अब एक अंतर्राष्ट्रीय आयोजन बन चुका है और हर साल इसमें प्रदर्शकों, खरीदारों, विक्रेताओं और आगंतुकों की संख्या में वृद्धि हुई है। उन्होंने बताया कि इस वर्ष इस कार्यक्रम में 130 देशों के 60 हजार से अधिक खरीदार और प्रदर्शक भाग ले रहे हैं। श्री सिंह ने कहा कि सुक्ष्म लघु और मध्यम उद्यमी भी भारत टेक्स में शामिल हो रहे हैं। उन्होंने कहा कि विभिन्न देशों के साथ किए गए मुक्त व्यापार समझौते भी वस्त्र क्षेत्र को लाभ पहुँचा रहे हैं। उद्घाटन समारोह में वस्त्र राज्य मंत्री पबित्रा मार्गेरिटा और विभिन्न राज्यों के वस्त्र मंत्रियों ने भी भाग लिया। यह कार्यक्रम कपड़ा, फैशन, टिकाउ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसमें निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, अंतर्राष्ट्रीय प्रतिनिधिमंडलों, कारीगरों, स्टार्ट-अप और प्रौद्योगिकी प्रदाताओं को एक साथ लाया गया है। प्रधानमंत्री नरेंद्र मोदी के 5एफ विज़न- फार्म टू फाइबर टू फैक्ट्री टू फैशन टू फॉरेन से प्रेरित होकर भारत टेक्स 2026 कपड़ा मूल्य श्रृंखला में व्यवसाय, निवेश, नवाचार, नीति संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख वैश्विक मंच के रूप में विकसित हुआ है। भारत टेक्स 2026 के इस तीसरे संस्करण में लगभग सात हजार खरीदार और 20 हजार से अधिक कपड़ा उत्पादों की भागीदारी देखी जा रही है। इस कार्यक्रम में 14 देशों के अंतर्राष्ट्रीय प्रदर्शक भाग ले रहे हैं। इस आयोजन में 20 से अधिक देशों के अंतर्राष्ट्रीय विशेषज्ञ, राष्ट्रीय उद्योग जगत के नेता, नीति निर्माता और विचारक सहित 350 से अधिक वक्ता शामिल होंगे।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T05:57:27+00:00",
-        "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "यमन में ईरान समर्थित हूती विद्रोहियों ने कहा कि उन्होंने सऊदी अरब के आभा इंटरनेशनल एयरपोर्ट पर मिसाइलें और ड्रोन हमले किए",
-        "summary": "यमन में ईरान समर्थित हूती विद्रोहियों ने कहा कि उन्होंने कल सऊदी अरब के आभा इंटरनेशनल एयरपोर्ट पर मिसाइलें और ड्रोन हमले किए। यह कदम यमन के सना इंटरनेशनल एयरपोर्ट पर पहले हुए हवाई हमलों के जवाब में उठाया गया है। उनका आरोप है कि ये हमले कल रियाद ने किए थे। इसमें किसी के […]",
-        "article": "यमन में ईरान समर्थित हूती विद्रोहियों ने कहा कि उन्होंने कल सऊदी अरब के आभा इंटरनेशनल एयरपोर्ट पर मिसाइलें और ड्रोन हमले किए। यह कदम यमन के सना इंटरनेशनल एयरपोर्ट पर पहले हुए हवाई हमलों के जवाब में उठाया गया है। उनका आरोप है कि ये हमले कल रियाद ने किए थे। इसमें किसी के हताहत होने की खबर नहीं है। इन हमलों ने तनाव को उस स्तर पर पहुंचा दिया है जो सऊदी के नेतृत्व वाले गठबंधन द्वारा कई साल पहले हूती-नियंत्रित इलाकों पर हमले के बाद से नहीं देखा गया था। सऊदी अरब के अधिकारियों ने यमन में हवाई हमलों के बारे में तुरंत कोई प्रतिक्रिया नहीं दी। हूती सैन्य प्रवक्ता ब्रिगेडियर जनरल याह्या सरी ने एक वीडियो बयान में एयरलाइंस को सऊदी हवाई क्षेत्र से उड़ान भरने के खिलाफ चेतावनी दी। प्रवक्ता ने कहा कि जब तक सना इंटरनेशनल एयरपोर्ट पर लगी नाकेबंदी नहीं हटाई जाती, तब तक इन चेतावनियों को गंभीरता से लिया जाना चाहिए। हूती सैन्य प्रवक्ता ने चेतावनी दी कि इस आक्रामकता का जवाब दिया जाएगा और इसे बिना सजा के नहीं छोड़ा जाएगा। यमन में अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त सरकार ने पहले कहा था कि सना इंटरनेशनल एयरपोर्ट पर हुए हमलों का उद्देश्य एक ईरानी विमान को उतरने से रोकना था। संयुक्त राष्ट्र सुरक्षा परिषद के अधिकारियों ने आज एक आपात बैठक में तनाव के और बढ़ने के जोखिम पर चिंता व्यक्त की। यमन में वैधता बहाल करने वाले सऊदी-नेतृत्व वाले गठबंधन के आधिकारिक प्रवक्ता मेजर जनरल तुर्की अल-माल्की ने सोशल मीडिया पोस्ट में कहा कि सऊदी वायु रक्षा प्रणालियों ने हूतियों द्वारा दागी गई बैलिस्टिक मिसाइलों को नाकाम कर दिया, हालांकि उन्होंने और विवरण नहीं दिया। सऊदी-नेतृत्व वाले गठबंधन ने आखिरी बार हूती-नियंत्रित इलाकों को तब निशाना बनाया था जब 2022 में लड़ाई रोकने के लिए संयुक्त राष्ट्र की मध्यस्थता में समझौता लागू हुआ था।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T03:46:41+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%af%e0%a4%ae%e0%a4%a8-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8-%e0%a4%b8%e0%a4%ae%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a4%bf%e0%a4%a4-%e0%a4%b9%e0%a5%82%e0%a4%a4%e0%a5%80/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीका: सीनेटर लिंडसे ग्राहम के निधन के बाद डार्लिन ग्राहम नॉर्डोन कार्यवाहक सीनेटर नियुक्त",
-        "summary": "अमरीका के दक्षिणी केरोलिना से सीनेटर लिंडसे ग्राहम निधन के बाद, उनकी बहन डार्लिन ग्राहम नॉर्डोन को उनके स्‍थान पर कार्यवाहक सीनेटर नियुक्त किया गया है। दक्षिण कैरोलिना के गवर्नर हेनरी मैकमास्टर ने कल औपचारिक रूप से उन्हें इस पद के लिए चुना। मैकमास्टर ने कहा कि वह ग्राहम के अगले साल समाप्त होने वाले […]",
-        "article": "अमरीका के दक्षिणी केरोलिना से सीनेटर लिंडसे ग्राहम निधन के बाद, उनकी बहन डार्लिन ग्राहम नॉर्डोन को उनके स्&#x200d;थान पर कार्यवाहक सीनेटर नियुक्त किया गया है। दक्षिण कैरोलिना के गवर्नर हेनरी मैकमास्टर ने कल औपचारिक रूप से उन्हें इस पद के लिए चुना। मैकमास्टर ने कहा कि वह ग्राहम के अगले साल समाप्त होने वाले शेष कार्यकाल को पूरा करेंगी। अमरीकी राष्ट्रपति डोनाल्ड ट्रम्प सहित अधिकारियों ने दिवंगत सीनेटर को श्रद्धांजलि देते हुए ग्राहम नॉर्डोन को उनका उत्&#x200d;तराधिकारी नियुक्&#x200d;त किए जाने का समर्थन किया। वाशिंगटन डीसी के चिकित्सा परीक्षक की प्रारंभिक रिपोर्ट के अनुसार, 71 वर्षीय ग्राहम की मृत्यु हृदय रोग के कारण महाधमनी विच्छेदन से हुई। ग्राहम नवंबर में फिर से चुनाव लड़ रहे थे और उन्हें रिपब्लिकन पार्टी का नामांकन प्राप्त था। 2002 में सीनेट के लिए चुने गए ग्राहम विदेश नीति पर वाशिंगटन की सबसे प्रभावशाली आवाजों में से एक थे।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T03:15:56+00:00",
-        "link": "https://newsonair.gov.in/hi/usa-darlene-graham-nordone-appointed-acting-senator-following-the-passing-of-senator-lindsey-graham/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNKBYZobgAAvFzp.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्री डॉ. एस जयशंकर ने न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की",
-        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्‍होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 […]",
-        "article": "विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्&#x200d;होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद में अस्थायी सीट के लिए भारत के चुनाव में अभियान का नेतृत्व करने के लिए न्यूयॉर्क में हैं।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:54:43+00:00",
-        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-met-united-nations-secretary-general-antonio-guterres-in-new-york/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNI6teRWUAAleDS.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए आधिकारिक रूप से चुनाव अभियान शुरू किया",
-        "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा […]",
-        "article": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा वैश्विक परिस्थितियों में संयुक्त राष्ट्र की भूमिका पहले से अधिक महत्वपूर्ण हो गई है। डॉक्टर जयशंकर ने कहा कि भारत अब तक संयुक्त राष्ट्र के लगभग पचास शांति मिशनों में करीब तीन लाख शांति सैनिक भेज चुका है और वर्तमान में दस मिशनों में चार हजार तीन सौ से अधिक भारतीय कर्मी तैनात हैं। उन्होंने कहा कि भारत हमेशा संवाद, कूटनीति और वैश्विक दक्षिण के हितों की महत्व देता रहा है। उन्होंने सदस्य देशों से भारत की उम्मीदवारी का समर्थन करने की अपील की। निर्वाचित होने पर भारत वर्ष 2028 से दो वर्ष के लिए सुरक्षा परिषद का अस्थायी सदस्य बनेगा। भारत इससे पहले आठ बार इस पद पर रह चुका है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:46:42+00:00",
-        "link": "https://newsonair.gov.in/hi/india-has-launched-its-election-campaign-for-a-non-permanent-seat-on-the-united-nations-security-council-for-the-2028-29-term/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNIgQ1wXkAAbN-v.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
       {
-        "title": "भारत-ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से होगा लागू, 99% भारतीय निर्यात पर शून्य शुल्क",
+        "title": "रक्षा मंत्री राजनाथ सिंह ने राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया",
+        "summary": "रक्षा मंत्री राजनाथ सिंह ने नई दिल्ली स्थित राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया। इस अवसर पर अपने संबोधन में श्री सिंह ने विश्वास व्यक्त किया कि यह अभियान लोगों, विशेषकर युवाओं में देशभक्ति की भावना को फिर से जागृत करेगा। उन्होंने कहा कि यह आने […]",
+        "article": "रक्षा मंत्री राजनाथ सिंह ने नई दिल्ली स्थित राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया। इस अवसर पर अपने संबोधन में श्री सिंह ने विश्वास व्यक्त किया कि यह अभियान लोगों, विशेषकर युवाओं में देशभक्ति की भावना को फिर से जागृत करेगा। उन्होंने कहा कि यह आने वाली पीढ़ियों को यह संदेश देगा कि राष्ट्र की स्वतंत्रता और सम्मान की रक्षा केवल सीमाओं पर ही नहीं, बल्कि लोगों की स्मृतियों और मूल्यों में भी निहित है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T09:01:00+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%a8%e0%a4%be%e0%a4%a5-%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9-125/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Defence-Minister-Rajnath-Singh-flags-off-Shaurya-Vijay-Yatra-from-New-Delhi.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "जम्मू-कश्मीर: सरकार ने कुष्ठ रोग को तत्काल प्रभाव से अधिसूचित करने योग्य रोग घोषित किया",
+        "summary": "जम्मू-कश्मीर में, उपराज्यपाल मनोज सिन्हा के आदेशानुसार, सरकार ने कुष्ठ रोग को तत्काल प्रभाव से अधिसूचित करने योग्य रोग घोषित कर दिया है। हमारे संवाददाता ने बताया है कि नए निर्देश के अंतर्गत, सभी सरकारी और निजी स्वास्थ्य केंद्रों को कुष्ठ रोग के प्रत्येक मामले की सूचना स्वास्थ्य अधिकारियों को देनी होगी। इसका उद्देश्य रोग […]",
+        "article": "जम्मू-कश्मीर में, उपराज्यपाल मनोज सिन्हा के आदेशानुसार, सरकार ने कुष्ठ रोग को तत्काल प्रभाव से अधिसूचित करने योग्य रोग घोषित कर दिया है। हमारे संवाददाता ने बताया है कि नए निर्देश के अंतर्गत, सभी सरकारी और निजी स्वास्थ्य केंद्रों को कुष्ठ रोग के प्रत्येक मामले की सूचना स्वास्थ्य अधिकारियों को देनी होगी। इसका उद्देश्य रोग निगरानी को मजबूत करना, शीघ्र निदान और समय पर उपचार सुनिश्चित करना और इसके प्रसार को रोकना है। इस निर्णय से बेहतर निगरानी, ​​प्रभावी केस प्रबंधन और समन्वित जन स्वास्थ्य हस्तक्षेपों के माध्यम से कुष्ठ रोग मुक्त भारत के राष्ट्रीय लक्ष्य को प्राप्त करने में सहायता मिलेगी।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T09:00:28+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%9c%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a5%82-%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%b0-%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0-%e0%a4%a8%e0%a5%87-%e0%a4%95%e0%a5%81%e0%a4%b7/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/a-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भूमि अधिग्रहण की पूरी प्रक्रिया के प्रबंधन के लिए रेल भूमि पोर्टल लॉन्च किया जाएगा: रेल मंत्री अश्विनी वैष्णव",
+        "summary": "रेल मंत्री अश्विनी वैष्णव ने कहा है कि भूमि अधिग्रहण की पूरी प्रक्रिया के प्रबंधन के लिए रेल भूमि पोर्टल लॉन्च किया जाएगा। भारतीय रेलवे को आधुनिक बनाने के उद्देश्य से किए गए सुधारों पर नई दिल्ली में संवाददाताओं को जानकारी देते हुए श्री वैष्णव ने कहा कि उनके मंत्रालय ने निर्माण क्षेत्र सहित कई […]",
+        "article": "रेल मंत्री अश्विनी वैष्णव ने कहा है कि भूमि अधिग्रहण की पूरी प्रक्रिया के प्रबंधन के लिए रेल भूमि पोर्टल लॉन्च किया जाएगा। भारतीय रेलवे को आधुनिक बनाने के उद्देश्य से किए गए सुधारों पर नई दिल्ली में संवाददाताओं को जानकारी देते हुए श्री वैष्णव ने कहा कि उनके मंत्रालय ने निर्माण क्षेत्र सहित कई सुधार किए हैं। उन्होंने कहा कि अब कंटेनरों में उर्वरकों का परिवहन किया जा सकता है। श्री वैष्णव ने कहा कि बिजली संयंत्रों में उत्पन्न होने वाली फ्लाई ऐश को अब कंटेनरों में भेजा जाएगा ताकि इसकी बारीक धूल पर्यावरण को प्रदूषित न कर सके। उन्होंने कहा कि रेलवे, सीमेंट और सड़क निर्माण जैसे क्षेत्रों में फ्लाई ऐश का परिवहन कंटेनरों में किया जाएगा। श्री वैष्णव ने कंटेनर नीति के तहत एक एकीकृत लाइसेंस प्रणाली की भी घोषणा की। श्री वैष्णव ने कहा कि वैगन &#8211; मालगाड़ी के डिब्बे का डिज़ाइन अब उद्योग जगत द्वारा किया जा सकता है। उन्होंने कहा कि कोई भी डिज़ाइनर या निर्माता एक नए वैगन डिज़ाइन का प्रस्ताव दे सकता है। उन्होंने बताया कि डिज़ाइन का मूल्यांकन करने के बाद अनुसंधान डिज़ाइन और मानक संगठन प्रारूप के लिए अनुमति देगा। उन्होंने कहा कि इससे विशिष्ट उद्योग की आवश्यकताओं के लिए विशेष डिज़ाइन वाले वैगन तैयार करने में मदद मिलेगी। रेलवे परियोजनाओं के लिए कौशल प्रमाणन ढांचे पर श्री वैष्णव ने कहा कि इस प्रणाली को अधिकतम 24 महीनों में सभी परियोजनाओं में लागू किया जाएगा। उन्होंने कहा कि जब देश में बड़े पैमाने पर बुनियादी ढांचे के निर्माण का काम चल रहा है, तो यह महत्वपूर्ण है कि प्लंबर, वेल्डर, फिटर, राजमिस्त्री और कंक्रीट टेस्टर और अन्य सभी कर्मचारी अच्छी तरह से प्रशिक्षित हों।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:58:24+00:00",
+        "link": "https://newsonair.gov.in/hi/rail-land-portal-to-be-launched-to-manage-the-entire-land-acquisition-process-railway-minister-ashwini-vaishnaw/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNLQnKhbkAA5IMM.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने होर्मुज जलडमरूमध्य में 30 भारतीय नाविकों को ले जा रहे दो जहाजों पर हुए हमले की कड़ी निंदा की",
+        "summary": "भारत ने आज होर्मुज जलडमरूमध्य से गुजरते समय दो जहाजों, एमटी अल बहिया और एमटी मोम्बासा पर हुए हमलों पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने आज सुबह नई दिल्ली स्थित ईरान दूतावास के उप मिशन प्रमुख को तलब किया और इन हमलों के खिलाफ कड़ा विरोध दर्ज कराया। दोनों जहाजों पर सवार […]",
+        "article": "भारत ने आज होर्मुज जलडमरूमध्य से गुजरते समय दो जहाजों, एमटी अल बहिया और एमटी मोम्बासा पर हुए हमलों पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने आज सुबह नई दिल्ली स्थित ईरान दूतावास के उप मिशन प्रमुख को तलब किया और इन हमलों के खिलाफ कड़ा विरोध दर्ज कराया। दोनों जहाजों पर सवार 46 सदस्यीय चालक दल में से 30 भारतीय नाविक थे। विदेश मंत्रालय ने कहा कि एमटी अल बहिया पर सवार 12 भारतीय नागरिकों में से एक की मृत्यु हो गई है और एक घायल हो गया है। एमटी मोम्बासा पर सवार 18 भारतीय नागरिकों में से नौ घायल हुए हैं, जिनमें से दो की हालत गंभीर बताई जा रही है। मंत्रालय ने मृतक के परिवार के प्रति संवेदना व्यक्त की और घायलों के शीघ्र स्वस्थ होने की कामना की। संयुक्त अरब अमीरात में भारतीय मिशन और दूतावास स्थिति पर कड़ी नजर रख रहे हैं और प्रभावित भारतीय नाविकों को हर संभव सहायता सुनिश्चित करने के लिए अधिकारियों के संपर्क में हैं। भारत ने नाविकों को निशाना बनाकर किए गए इन हमलों और हिंसा की कड़ी निंदा की है। इससे होर्मुज जलडमरूमध्य से निर्बाध और सुरक्षित नौवहन बाधित हुआ है। भारत ने पश्चिम एशियाई क्षेत्र में हमलों की दोबारा शुरुआत और शत्रुता बढने पर गहरी चिंता व्यक्त की है। साथ ही क्षेत्र में शांति, सुरक्षा और स्थिरता के लिए हिंसा को तत्काल रोकने और संवाद तथा कूटनीति की ओर लौटने का आह्वान किया है। बयान में कहा गया है कि क्षेत्र में व्&#x200d;यापारिक जहाजों और नागरिक बुनियादी ढांचे को निशाना बनाना बंद होना चाहिए ताकि क्षेत्र के अंतरराष्ट्रीय जलमार्गों में निर्बाध नौवहन और व्&#x200d;यापार को जल्द से जल्द बहाल किया जा सके। &nbsp; &nbsp;",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:56:03+00:00",
+        "link": "https://newsonair.gov.in/hi/india-strongly-condemned-the-attack-on-two-ships-carrying-30-indian-sailors-in-the-strait-of-hormuz/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNLNrv4bIAEkFsJ.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संयुक्त राष्ट्र की सदस्यता के लिए फिलिस्तीन के दावे का समर्थन किया",
+        "summary": "भारत ने &#8216;टू-स्टेट सॉल्यूशन&#8217; (दो-देश समाधान) और संयुक्त राष्ट्र में फ़िलिस्तीन की सदस्यता के लिए अपना समर्थन फिर से दोहराया है। विदेश मंत्रालय में सचिव श्रीप्रिया रंगनाथन ने कहा है कि भारत फ़िलिस्तीनी लोगों का लंबे समय से सहयोगी रहा है। उन्होंने कल ब्रसेल्स में फ़िलिस्तीन डोनर ग्रुप की दूसरी मंत्री-स्तरीय बैठक को संबोधित करते […]",
+        "article": "भारत ने &#8216;टू-स्टेट सॉल्यूशन&#8217; (दो-देश समाधान) और संयुक्त राष्ट्र में फ़िलिस्तीन की सदस्यता के लिए अपना समर्थन फिर से दोहराया है। विदेश मंत्रालय में सचिव श्रीप्रिया रंगनाथन ने कहा है कि भारत फ़िलिस्तीनी लोगों का लंबे समय से सहयोगी रहा है। उन्होंने कल ब्रसेल्स में फ़िलिस्तीन डोनर ग्रुप की दूसरी मंत्री-स्तरीय बैठक को संबोधित करते हुए यह बात कही। उन्होंने फ़िलिस्तीन के लोगों के लिए भारत की ओर से दी जा रही विकास संबंधी मदद पर ज़ोर दिया। सुश्री रंगनाथन ने बताया कि भारत की परियोजनाएं ज़रूरतों पर आधारित हैं और मुख्य रूप से स्वास्थ्य सेवा, शिक्षा, क्षमता निर्माण और व्यावसायिक प्रशिक्षण पर केंद्रित हैं। उन्होंने पुनर्वास, स्वास्थ्य, शिक्षा और व्यावसायिक प्रशिक्षण पर केंद्रित कई नई परियोजनाओं की भी घोषणा की।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:55:20+00:00",
+        "link": "https://newsonair.gov.in/hi/india-supported-palestines-claim-at-the-united-nations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/99-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत और ब्रिटेन के बीच व्यापक आर्थिक और व्यापार समझौता कल से लागू होगा",
         "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से लागू हो जाएगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत उत्पादों पर शून्य शुल्क की सुविधा मिलेगी। यह समझौता भारत और ब्रिटेन की रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की […]",
         "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से लागू हो जाएगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत उत्पादों पर शून्य शुल्क की सुविधा मिलेगी। यह समझौता भारत और ब्रिटेन की रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। इस ऐतिहासिक समझौते की नींव मई 2021 में उन्नत व्यापार साझेदारी और भारत-ब्रिटेन रोडमैप 2030 को अपनाने के माध्यम से रखी गई थी। इसमें 2030 तक व्यापार को दोगुना करके सौ अरब अमरीकी डॉलर तक पहुंचाने का लक्ष्य रखा गया था। &nbsp;",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T07:10:14+00:00",
+        "pubDate": "2026-07-14T08:54:14+00:00",
         "link": "https://newsonair.gov.in/hi/india-uk-comprehensive-economic-and-trade-agreement-to-come-into-effect-tomorrow-zero-duty-on-99-of-indian-exports/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-4-3.png",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1757553493027.jpeg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1224,74 +1275,73 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्री डॉ. एस जयशंकर ने न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की",
-        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्‍होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 […]",
-        "article": "विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्&#x200d;होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद में अस्थायी सीट के लिए भारत के चुनाव में अभियान का नेतृत्व करने के लिए न्यूयॉर्क में हैं।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:54:43+00:00",
-        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-met-united-nations-secretary-general-antonio-guterres-in-new-york/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNI6teRWUAAleDS.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए आधिकारिक रूप से चुनाव अभियान शुरू किया",
-        "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा […]",
-        "article": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा वैश्विक परिस्थितियों में संयुक्त राष्ट्र की भूमिका पहले से अधिक महत्वपूर्ण हो गई है। डॉक्टर जयशंकर ने कहा कि भारत अब तक संयुक्त राष्ट्र के लगभग पचास शांति मिशनों में करीब तीन लाख शांति सैनिक भेज चुका है और वर्तमान में दस मिशनों में चार हजार तीन सौ से अधिक भारतीय कर्मी तैनात हैं। उन्होंने कहा कि भारत हमेशा संवाद, कूटनीति और वैश्विक दक्षिण के हितों की महत्व देता रहा है। उन्होंने सदस्य देशों से भारत की उम्मीदवारी का समर्थन करने की अपील की। निर्वाचित होने पर भारत वर्ष 2028 से दो वर्ष के लिए सुरक्षा परिषद का अस्थायी सदस्य बनेगा। भारत इससे पहले आठ बार इस पद पर रह चुका है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:46:42+00:00",
-        "link": "https://newsonair.gov.in/hi/india-has-launched-its-election-campaign-for-a-non-permanent-seat-on-the-united-nations-security-council-for-the-2028-29-term/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNIgQ1wXkAAbN-v.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम में स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर मुंबई लाए गए",
-        "summary": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि […]",
-        "article": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि आन्ध्रप्रदेश, केरल और तमिलनाडु की सरकारें इन शवों को उनके संबंधित राज्यों में उनके आवास पर पहुंचाने में समन्वय करेंगी। वियतनाम के अधिकारियों और सरकार के प्रति आभार व्यक्त करते हुए दूतावास ने बताया कि उनकी प्रार्थना, प्रयास और मौजूदगी ने इस दुख की घड़ी में शक्ति प्रदान की। 32 भारतीय पर्यटकों और चार स्थानीय क्रू के सद्स्यों वाली स्पीड बोट शुक्रवार को वियतनाम में फू क्वोक द्वीप में पलट गई। इस कारण 15 पर्यटकों की मृत्यु हो गई। इस दुर्घटना में बचने वाले 16 पर्यटक भी भारत लौट चुके हैं। इनमें से एक पर्यटक वियतनाम के एक अस्पताल में भर्ती है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:45:11+00:00",
-        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-a-speedboat-accident-in-vietnam-have-been-brought-back-to-the-country/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "एनटीए ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी किए",
-        "summary": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्‍तर देख सकते है। उम्‍मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े […]",
-        "article": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्&#x200d;तर देख सकते है। उम्&#x200d;मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार प्रश्न का चयन करके अपने चुने हुए विकल्प पर निशान लगा सकते हैं और 200 रुपये के शुल्क का भुगतान करके चुनौती दे सकते हैं। एजेंसी ने स्पष्ट किया है कि चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। ओएमआर चुनौती सुविधा इस महीने की 15 तारीख तक उपलब्ध रहेगी। उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:41:10+00:00",
-        "link": "https://newsonair.gov.in/hi/the-nta-released-the-omr-sheets-and-recorded-responses-for-the-neet-ug-2026-re-examination/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
-        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
-        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:49:09+00:00",
-        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
-        "post_id": 1736495,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
-        "title": "भारत-ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से होगा लागू, 99% भारतीय निर्यात पर शून्य शुल्क",
+        "title": "रक्षा मंत्री राजनाथ सिंह ने राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया",
+        "summary": "रक्षा मंत्री राजनाथ सिंह ने नई दिल्ली स्थित राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया। इस अवसर पर अपने संबोधन में श्री सिंह ने विश्वास व्यक्त किया कि यह अभियान लोगों, विशेषकर युवाओं में देशभक्ति की भावना को फिर से जागृत करेगा। उन्होंने कहा कि यह आने […]",
+        "article": "रक्षा मंत्री राजनाथ सिंह ने नई दिल्ली स्थित राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया। इस अवसर पर अपने संबोधन में श्री सिंह ने विश्वास व्यक्त किया कि यह अभियान लोगों, विशेषकर युवाओं में देशभक्ति की भावना को फिर से जागृत करेगा। उन्होंने कहा कि यह आने वाली पीढ़ियों को यह संदेश देगा कि राष्ट्र की स्वतंत्रता और सम्मान की रक्षा केवल सीमाओं पर ही नहीं, बल्कि लोगों की स्मृतियों और मूल्यों में भी निहित है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T09:01:00+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%a8%e0%a4%be%e0%a4%a5-%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9-125/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Defence-Minister-Rajnath-Singh-flags-off-Shaurya-Vijay-Yatra-from-New-Delhi.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "जम्मू-कश्मीर: सरकार ने कुष्ठ रोग को तत्काल प्रभाव से अधिसूचित करने योग्य रोग घोषित किया",
+        "summary": "जम्मू-कश्मीर में, उपराज्यपाल मनोज सिन्हा के आदेशानुसार, सरकार ने कुष्ठ रोग को तत्काल प्रभाव से अधिसूचित करने योग्य रोग घोषित कर दिया है। हमारे संवाददाता ने बताया है कि नए निर्देश के अंतर्गत, सभी सरकारी और निजी स्वास्थ्य केंद्रों को कुष्ठ रोग के प्रत्येक मामले की सूचना स्वास्थ्य अधिकारियों को देनी होगी। इसका उद्देश्य रोग […]",
+        "article": "जम्मू-कश्मीर में, उपराज्यपाल मनोज सिन्हा के आदेशानुसार, सरकार ने कुष्ठ रोग को तत्काल प्रभाव से अधिसूचित करने योग्य रोग घोषित कर दिया है। हमारे संवाददाता ने बताया है कि नए निर्देश के अंतर्गत, सभी सरकारी और निजी स्वास्थ्य केंद्रों को कुष्ठ रोग के प्रत्येक मामले की सूचना स्वास्थ्य अधिकारियों को देनी होगी। इसका उद्देश्य रोग निगरानी को मजबूत करना, शीघ्र निदान और समय पर उपचार सुनिश्चित करना और इसके प्रसार को रोकना है। इस निर्णय से बेहतर निगरानी, ​​प्रभावी केस प्रबंधन और समन्वित जन स्वास्थ्य हस्तक्षेपों के माध्यम से कुष्ठ रोग मुक्त भारत के राष्ट्रीय लक्ष्य को प्राप्त करने में सहायता मिलेगी।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T09:00:28+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%9c%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a5%82-%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%b0-%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0-%e0%a4%a8%e0%a5%87-%e0%a4%95%e0%a5%81%e0%a4%b7/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/a-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भूमि अधिग्रहण की पूरी प्रक्रिया के प्रबंधन के लिए रेल भूमि पोर्टल लॉन्च किया जाएगा: रेल मंत्री अश्विनी वैष्णव",
+        "summary": "रेल मंत्री अश्विनी वैष्णव ने कहा है कि भूमि अधिग्रहण की पूरी प्रक्रिया के प्रबंधन के लिए रेल भूमि पोर्टल लॉन्च किया जाएगा। भारतीय रेलवे को आधुनिक बनाने के उद्देश्य से किए गए सुधारों पर नई दिल्ली में संवाददाताओं को जानकारी देते हुए श्री वैष्णव ने कहा कि उनके मंत्रालय ने निर्माण क्षेत्र सहित कई […]",
+        "article": "रेल मंत्री अश्विनी वैष्णव ने कहा है कि भूमि अधिग्रहण की पूरी प्रक्रिया के प्रबंधन के लिए रेल भूमि पोर्टल लॉन्च किया जाएगा। भारतीय रेलवे को आधुनिक बनाने के उद्देश्य से किए गए सुधारों पर नई दिल्ली में संवाददाताओं को जानकारी देते हुए श्री वैष्णव ने कहा कि उनके मंत्रालय ने निर्माण क्षेत्र सहित कई सुधार किए हैं। उन्होंने कहा कि अब कंटेनरों में उर्वरकों का परिवहन किया जा सकता है। श्री वैष्णव ने कहा कि बिजली संयंत्रों में उत्पन्न होने वाली फ्लाई ऐश को अब कंटेनरों में भेजा जाएगा ताकि इसकी बारीक धूल पर्यावरण को प्रदूषित न कर सके। उन्होंने कहा कि रेलवे, सीमेंट और सड़क निर्माण जैसे क्षेत्रों में फ्लाई ऐश का परिवहन कंटेनरों में किया जाएगा। श्री वैष्णव ने कंटेनर नीति के तहत एक एकीकृत लाइसेंस प्रणाली की भी घोषणा की। श्री वैष्णव ने कहा कि वैगन &#8211; मालगाड़ी के डिब्बे का डिज़ाइन अब उद्योग जगत द्वारा किया जा सकता है। उन्होंने कहा कि कोई भी डिज़ाइनर या निर्माता एक नए वैगन डिज़ाइन का प्रस्ताव दे सकता है। उन्होंने बताया कि डिज़ाइन का मूल्यांकन करने के बाद अनुसंधान डिज़ाइन और मानक संगठन प्रारूप के लिए अनुमति देगा। उन्होंने कहा कि इससे विशिष्ट उद्योग की आवश्यकताओं के लिए विशेष डिज़ाइन वाले वैगन तैयार करने में मदद मिलेगी। रेलवे परियोजनाओं के लिए कौशल प्रमाणन ढांचे पर श्री वैष्णव ने कहा कि इस प्रणाली को अधिकतम 24 महीनों में सभी परियोजनाओं में लागू किया जाएगा। उन्होंने कहा कि जब देश में बड़े पैमाने पर बुनियादी ढांचे के निर्माण का काम चल रहा है, तो यह महत्वपूर्ण है कि प्लंबर, वेल्डर, फिटर, राजमिस्त्री और कंक्रीट टेस्टर और अन्य सभी कर्मचारी अच्छी तरह से प्रशिक्षित हों।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:58:24+00:00",
+        "link": "https://newsonair.gov.in/hi/rail-land-portal-to-be-launched-to-manage-the-entire-land-acquisition-process-railway-minister-ashwini-vaishnaw/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNLQnKhbkAA5IMM.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने होर्मुज जलडमरूमध्य में 30 भारतीय नाविकों को ले जा रहे दो जहाजों पर हुए हमले की कड़ी निंदा की",
+        "summary": "भारत ने आज होर्मुज जलडमरूमध्य से गुजरते समय दो जहाजों, एमटी अल बहिया और एमटी मोम्बासा पर हुए हमलों पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने आज सुबह नई दिल्ली स्थित ईरान दूतावास के उप मिशन प्रमुख को तलब किया और इन हमलों के खिलाफ कड़ा विरोध दर्ज कराया। दोनों जहाजों पर सवार […]",
+        "article": "भारत ने आज होर्मुज जलडमरूमध्य से गुजरते समय दो जहाजों, एमटी अल बहिया और एमटी मोम्बासा पर हुए हमलों पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने आज सुबह नई दिल्ली स्थित ईरान दूतावास के उप मिशन प्रमुख को तलब किया और इन हमलों के खिलाफ कड़ा विरोध दर्ज कराया। दोनों जहाजों पर सवार 46 सदस्यीय चालक दल में से 30 भारतीय नाविक थे। विदेश मंत्रालय ने कहा कि एमटी अल बहिया पर सवार 12 भारतीय नागरिकों में से एक की मृत्यु हो गई है और एक घायल हो गया है। एमटी मोम्बासा पर सवार 18 भारतीय नागरिकों में से नौ घायल हुए हैं, जिनमें से दो की हालत गंभीर बताई जा रही है। मंत्रालय ने मृतक के परिवार के प्रति संवेदना व्यक्त की और घायलों के शीघ्र स्वस्थ होने की कामना की। संयुक्त अरब अमीरात में भारतीय मिशन और दूतावास स्थिति पर कड़ी नजर रख रहे हैं और प्रभावित भारतीय नाविकों को हर संभव सहायता सुनिश्चित करने के लिए अधिकारियों के संपर्क में हैं। भारत ने नाविकों को निशाना बनाकर किए गए इन हमलों और हिंसा की कड़ी निंदा की है। इससे होर्मुज जलडमरूमध्य से निर्बाध और सुरक्षित नौवहन बाधित हुआ है। भारत ने पश्चिम एशियाई क्षेत्र में हमलों की दोबारा शुरुआत और शत्रुता बढने पर गहरी चिंता व्यक्त की है। साथ ही क्षेत्र में शांति, सुरक्षा और स्थिरता के लिए हिंसा को तत्काल रोकने और संवाद तथा कूटनीति की ओर लौटने का आह्वान किया है। बयान में कहा गया है कि क्षेत्र में व्&#x200d;यापारिक जहाजों और नागरिक बुनियादी ढांचे को निशाना बनाना बंद होना चाहिए ताकि क्षेत्र के अंतरराष्ट्रीय जलमार्गों में निर्बाध नौवहन और व्&#x200d;यापार को जल्द से जल्द बहाल किया जा सके। &nbsp; &nbsp;",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:56:03+00:00",
+        "link": "https://newsonair.gov.in/hi/india-strongly-condemned-the-attack-on-two-ships-carrying-30-indian-sailors-in-the-strait-of-hormuz/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNLNrv4bIAEkFsJ.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संयुक्त राष्ट्र की सदस्यता के लिए फिलिस्तीन के दावे का समर्थन किया",
+        "summary": "भारत ने &#8216;टू-स्टेट सॉल्यूशन&#8217; (दो-देश समाधान) और संयुक्त राष्ट्र में फ़िलिस्तीन की सदस्यता के लिए अपना समर्थन फिर से दोहराया है। विदेश मंत्रालय में सचिव श्रीप्रिया रंगनाथन ने कहा है कि भारत फ़िलिस्तीनी लोगों का लंबे समय से सहयोगी रहा है। उन्होंने कल ब्रसेल्स में फ़िलिस्तीन डोनर ग्रुप की दूसरी मंत्री-स्तरीय बैठक को संबोधित करते […]",
+        "article": "भारत ने &#8216;टू-स्टेट सॉल्यूशन&#8217; (दो-देश समाधान) और संयुक्त राष्ट्र में फ़िलिस्तीन की सदस्यता के लिए अपना समर्थन फिर से दोहराया है। विदेश मंत्रालय में सचिव श्रीप्रिया रंगनाथन ने कहा है कि भारत फ़िलिस्तीनी लोगों का लंबे समय से सहयोगी रहा है। उन्होंने कल ब्रसेल्स में फ़िलिस्तीन डोनर ग्रुप की दूसरी मंत्री-स्तरीय बैठक को संबोधित करते हुए यह बात कही। उन्होंने फ़िलिस्तीन के लोगों के लिए भारत की ओर से दी जा रही विकास संबंधी मदद पर ज़ोर दिया। सुश्री रंगनाथन ने बताया कि भारत की परियोजनाएं ज़रूरतों पर आधारित हैं और मुख्य रूप से स्वास्थ्य सेवा, शिक्षा, क्षमता निर्माण और व्यावसायिक प्रशिक्षण पर केंद्रित हैं। उन्होंने पुनर्वास, स्वास्थ्य, शिक्षा और व्यावसायिक प्रशिक्षण पर केंद्रित कई नई परियोजनाओं की भी घोषणा की।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:55:20+00:00",
+        "link": "https://newsonair.gov.in/hi/india-supported-palestines-claim-at-the-united-nations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/99-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत और ब्रिटेन के बीच व्यापक आर्थिक और व्यापार समझौता कल से लागू होगा",
         "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से लागू हो जाएगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत उत्पादों पर शून्य शुल्क की सुविधा मिलेगी। यह समझौता भारत और ब्रिटेन की रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की […]",
         "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से लागू हो जाएगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत उत्पादों पर शून्य शुल्क की सुविधा मिलेगी। यह समझौता भारत और ब्रिटेन की रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। इस ऐतिहासिक समझौते की नींव मई 2021 में उन्नत व्यापार साझेदारी और भारत-ब्रिटेन रोडमैप 2030 को अपनाने के माध्यम से रखी गई थी। इसमें 2030 तक व्यापार को दोगुना करके सौ अरब अमरीकी डॉलर तक पहुंचाने का लक्ष्य रखा गया था। &nbsp;",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T07:10:14+00:00",
+        "pubDate": "2026-07-14T08:54:14+00:00",
         "link": "https://newsonair.gov.in/hi/india-uk-comprehensive-economic-and-trade-agreement-to-come-into-effect-tomorrow-zero-duty-on-99-of-indian-exports/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-4-3.png",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1757553493027.jpeg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1337,74 +1387,73 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्री डॉ. एस जयशंकर ने न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की",
-        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्‍होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 […]",
-        "article": "विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्&#x200d;होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद में अस्थायी सीट के लिए भारत के चुनाव में अभियान का नेतृत्व करने के लिए न्यूयॉर्क में हैं।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:54:43+00:00",
-        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-met-united-nations-secretary-general-antonio-guterres-in-new-york/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNI6teRWUAAleDS.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए आधिकारिक रूप से चुनाव अभियान शुरू किया",
-        "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा […]",
-        "article": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा वैश्विक परिस्थितियों में संयुक्त राष्ट्र की भूमिका पहले से अधिक महत्वपूर्ण हो गई है। डॉक्टर जयशंकर ने कहा कि भारत अब तक संयुक्त राष्ट्र के लगभग पचास शांति मिशनों में करीब तीन लाख शांति सैनिक भेज चुका है और वर्तमान में दस मिशनों में चार हजार तीन सौ से अधिक भारतीय कर्मी तैनात हैं। उन्होंने कहा कि भारत हमेशा संवाद, कूटनीति और वैश्विक दक्षिण के हितों की महत्व देता रहा है। उन्होंने सदस्य देशों से भारत की उम्मीदवारी का समर्थन करने की अपील की। निर्वाचित होने पर भारत वर्ष 2028 से दो वर्ष के लिए सुरक्षा परिषद का अस्थायी सदस्य बनेगा। भारत इससे पहले आठ बार इस पद पर रह चुका है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:46:42+00:00",
-        "link": "https://newsonair.gov.in/hi/india-has-launched-its-election-campaign-for-a-non-permanent-seat-on-the-united-nations-security-council-for-the-2028-29-term/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNIgQ1wXkAAbN-v.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम में स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर मुंबई लाए गए",
-        "summary": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि […]",
-        "article": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि आन्ध्रप्रदेश, केरल और तमिलनाडु की सरकारें इन शवों को उनके संबंधित राज्यों में उनके आवास पर पहुंचाने में समन्वय करेंगी। वियतनाम के अधिकारियों और सरकार के प्रति आभार व्यक्त करते हुए दूतावास ने बताया कि उनकी प्रार्थना, प्रयास और मौजूदगी ने इस दुख की घड़ी में शक्ति प्रदान की। 32 भारतीय पर्यटकों और चार स्थानीय क्रू के सद्स्यों वाली स्पीड बोट शुक्रवार को वियतनाम में फू क्वोक द्वीप में पलट गई। इस कारण 15 पर्यटकों की मृत्यु हो गई। इस दुर्घटना में बचने वाले 16 पर्यटक भी भारत लौट चुके हैं। इनमें से एक पर्यटक वियतनाम के एक अस्पताल में भर्ती है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:45:11+00:00",
-        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-a-speedboat-accident-in-vietnam-have-been-brought-back-to-the-country/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "एनटीए ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी किए",
-        "summary": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्‍तर देख सकते है। उम्‍मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े […]",
-        "article": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्&#x200d;तर देख सकते है। उम्&#x200d;मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार प्रश्न का चयन करके अपने चुने हुए विकल्प पर निशान लगा सकते हैं और 200 रुपये के शुल्क का भुगतान करके चुनौती दे सकते हैं। एजेंसी ने स्पष्ट किया है कि चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। ओएमआर चुनौती सुविधा इस महीने की 15 तारीख तक उपलब्ध रहेगी। उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:41:10+00:00",
-        "link": "https://newsonair.gov.in/hi/the-nta-released-the-omr-sheets-and-recorded-responses-for-the-neet-ug-2026-re-examination/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
-        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
-        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:49:09+00:00",
-        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
-        "post_id": 1736495,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
-        "title": "भारत-ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से होगा लागू, 99% भारतीय निर्यात पर शून्य शुल्क",
+        "title": "रक्षा मंत्री राजनाथ सिंह ने राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया",
+        "summary": "रक्षा मंत्री राजनाथ सिंह ने नई दिल्ली स्थित राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया। इस अवसर पर अपने संबोधन में श्री सिंह ने विश्वास व्यक्त किया कि यह अभियान लोगों, विशेषकर युवाओं में देशभक्ति की भावना को फिर से जागृत करेगा। उन्होंने कहा कि यह आने […]",
+        "article": "रक्षा मंत्री राजनाथ सिंह ने नई दिल्ली स्थित राष्ट्रीय युद्ध स्मारक से 13 दिवसीय शौर्य विजय यात्रा को हरी झंडी दिखाकर रवाना किया। इस अवसर पर अपने संबोधन में श्री सिंह ने विश्वास व्यक्त किया कि यह अभियान लोगों, विशेषकर युवाओं में देशभक्ति की भावना को फिर से जागृत करेगा। उन्होंने कहा कि यह आने वाली पीढ़ियों को यह संदेश देगा कि राष्ट्र की स्वतंत्रता और सम्मान की रक्षा केवल सीमाओं पर ही नहीं, बल्कि लोगों की स्मृतियों और मूल्यों में भी निहित है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T09:01:00+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%a8%e0%a4%be%e0%a4%a5-%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9-125/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Defence-Minister-Rajnath-Singh-flags-off-Shaurya-Vijay-Yatra-from-New-Delhi.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "जम्मू-कश्मीर: सरकार ने कुष्ठ रोग को तत्काल प्रभाव से अधिसूचित करने योग्य रोग घोषित किया",
+        "summary": "जम्मू-कश्मीर में, उपराज्यपाल मनोज सिन्हा के आदेशानुसार, सरकार ने कुष्ठ रोग को तत्काल प्रभाव से अधिसूचित करने योग्य रोग घोषित कर दिया है। हमारे संवाददाता ने बताया है कि नए निर्देश के अंतर्गत, सभी सरकारी और निजी स्वास्थ्य केंद्रों को कुष्ठ रोग के प्रत्येक मामले की सूचना स्वास्थ्य अधिकारियों को देनी होगी। इसका उद्देश्य रोग […]",
+        "article": "जम्मू-कश्मीर में, उपराज्यपाल मनोज सिन्हा के आदेशानुसार, सरकार ने कुष्ठ रोग को तत्काल प्रभाव से अधिसूचित करने योग्य रोग घोषित कर दिया है। हमारे संवाददाता ने बताया है कि नए निर्देश के अंतर्गत, सभी सरकारी और निजी स्वास्थ्य केंद्रों को कुष्ठ रोग के प्रत्येक मामले की सूचना स्वास्थ्य अधिकारियों को देनी होगी। इसका उद्देश्य रोग निगरानी को मजबूत करना, शीघ्र निदान और समय पर उपचार सुनिश्चित करना और इसके प्रसार को रोकना है। इस निर्णय से बेहतर निगरानी, ​​प्रभावी केस प्रबंधन और समन्वित जन स्वास्थ्य हस्तक्षेपों के माध्यम से कुष्ठ रोग मुक्त भारत के राष्ट्रीय लक्ष्य को प्राप्त करने में सहायता मिलेगी।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T09:00:28+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%9c%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a5%82-%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%b0-%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0-%e0%a4%a8%e0%a5%87-%e0%a4%95%e0%a5%81%e0%a4%b7/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/a-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भूमि अधिग्रहण की पूरी प्रक्रिया के प्रबंधन के लिए रेल भूमि पोर्टल लॉन्च किया जाएगा: रेल मंत्री अश्विनी वैष्णव",
+        "summary": "रेल मंत्री अश्विनी वैष्णव ने कहा है कि भूमि अधिग्रहण की पूरी प्रक्रिया के प्रबंधन के लिए रेल भूमि पोर्टल लॉन्च किया जाएगा। भारतीय रेलवे को आधुनिक बनाने के उद्देश्य से किए गए सुधारों पर नई दिल्ली में संवाददाताओं को जानकारी देते हुए श्री वैष्णव ने कहा कि उनके मंत्रालय ने निर्माण क्षेत्र सहित कई […]",
+        "article": "रेल मंत्री अश्विनी वैष्णव ने कहा है कि भूमि अधिग्रहण की पूरी प्रक्रिया के प्रबंधन के लिए रेल भूमि पोर्टल लॉन्च किया जाएगा। भारतीय रेलवे को आधुनिक बनाने के उद्देश्य से किए गए सुधारों पर नई दिल्ली में संवाददाताओं को जानकारी देते हुए श्री वैष्णव ने कहा कि उनके मंत्रालय ने निर्माण क्षेत्र सहित कई सुधार किए हैं। उन्होंने कहा कि अब कंटेनरों में उर्वरकों का परिवहन किया जा सकता है। श्री वैष्णव ने कहा कि बिजली संयंत्रों में उत्पन्न होने वाली फ्लाई ऐश को अब कंटेनरों में भेजा जाएगा ताकि इसकी बारीक धूल पर्यावरण को प्रदूषित न कर सके। उन्होंने कहा कि रेलवे, सीमेंट और सड़क निर्माण जैसे क्षेत्रों में फ्लाई ऐश का परिवहन कंटेनरों में किया जाएगा। श्री वैष्णव ने कंटेनर नीति के तहत एक एकीकृत लाइसेंस प्रणाली की भी घोषणा की। श्री वैष्णव ने कहा कि वैगन &#8211; मालगाड़ी के डिब्बे का डिज़ाइन अब उद्योग जगत द्वारा किया जा सकता है। उन्होंने कहा कि कोई भी डिज़ाइनर या निर्माता एक नए वैगन डिज़ाइन का प्रस्ताव दे सकता है। उन्होंने बताया कि डिज़ाइन का मूल्यांकन करने के बाद अनुसंधान डिज़ाइन और मानक संगठन प्रारूप के लिए अनुमति देगा। उन्होंने कहा कि इससे विशिष्ट उद्योग की आवश्यकताओं के लिए विशेष डिज़ाइन वाले वैगन तैयार करने में मदद मिलेगी। रेलवे परियोजनाओं के लिए कौशल प्रमाणन ढांचे पर श्री वैष्णव ने कहा कि इस प्रणाली को अधिकतम 24 महीनों में सभी परियोजनाओं में लागू किया जाएगा। उन्होंने कहा कि जब देश में बड़े पैमाने पर बुनियादी ढांचे के निर्माण का काम चल रहा है, तो यह महत्वपूर्ण है कि प्लंबर, वेल्डर, फिटर, राजमिस्त्री और कंक्रीट टेस्टर और अन्य सभी कर्मचारी अच्छी तरह से प्रशिक्षित हों।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:58:24+00:00",
+        "link": "https://newsonair.gov.in/hi/rail-land-portal-to-be-launched-to-manage-the-entire-land-acquisition-process-railway-minister-ashwini-vaishnaw/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNLQnKhbkAA5IMM.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने होर्मुज जलडमरूमध्य में 30 भारतीय नाविकों को ले जा रहे दो जहाजों पर हुए हमले की कड़ी निंदा की",
+        "summary": "भारत ने आज होर्मुज जलडमरूमध्य से गुजरते समय दो जहाजों, एमटी अल बहिया और एमटी मोम्बासा पर हुए हमलों पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने आज सुबह नई दिल्ली स्थित ईरान दूतावास के उप मिशन प्रमुख को तलब किया और इन हमलों के खिलाफ कड़ा विरोध दर्ज कराया। दोनों जहाजों पर सवार […]",
+        "article": "भारत ने आज होर्मुज जलडमरूमध्य से गुजरते समय दो जहाजों, एमटी अल बहिया और एमटी मोम्बासा पर हुए हमलों पर गहरी चिंता व्यक्त की है। विदेश मंत्रालय ने आज सुबह नई दिल्ली स्थित ईरान दूतावास के उप मिशन प्रमुख को तलब किया और इन हमलों के खिलाफ कड़ा विरोध दर्ज कराया। दोनों जहाजों पर सवार 46 सदस्यीय चालक दल में से 30 भारतीय नाविक थे। विदेश मंत्रालय ने कहा कि एमटी अल बहिया पर सवार 12 भारतीय नागरिकों में से एक की मृत्यु हो गई है और एक घायल हो गया है। एमटी मोम्बासा पर सवार 18 भारतीय नागरिकों में से नौ घायल हुए हैं, जिनमें से दो की हालत गंभीर बताई जा रही है। मंत्रालय ने मृतक के परिवार के प्रति संवेदना व्यक्त की और घायलों के शीघ्र स्वस्थ होने की कामना की। संयुक्त अरब अमीरात में भारतीय मिशन और दूतावास स्थिति पर कड़ी नजर रख रहे हैं और प्रभावित भारतीय नाविकों को हर संभव सहायता सुनिश्चित करने के लिए अधिकारियों के संपर्क में हैं। भारत ने नाविकों को निशाना बनाकर किए गए इन हमलों और हिंसा की कड़ी निंदा की है। इससे होर्मुज जलडमरूमध्य से निर्बाध और सुरक्षित नौवहन बाधित हुआ है। भारत ने पश्चिम एशियाई क्षेत्र में हमलों की दोबारा शुरुआत और शत्रुता बढने पर गहरी चिंता व्यक्त की है। साथ ही क्षेत्र में शांति, सुरक्षा और स्थिरता के लिए हिंसा को तत्काल रोकने और संवाद तथा कूटनीति की ओर लौटने का आह्वान किया है। बयान में कहा गया है कि क्षेत्र में व्&#x200d;यापारिक जहाजों और नागरिक बुनियादी ढांचे को निशाना बनाना बंद होना चाहिए ताकि क्षेत्र के अंतरराष्ट्रीय जलमार्गों में निर्बाध नौवहन और व्&#x200d;यापार को जल्द से जल्द बहाल किया जा सके। &nbsp; &nbsp;",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:56:03+00:00",
+        "link": "https://newsonair.gov.in/hi/india-strongly-condemned-the-attack-on-two-ships-carrying-30-indian-sailors-in-the-strait-of-hormuz/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNLNrv4bIAEkFsJ.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संयुक्त राष्ट्र की सदस्यता के लिए फिलिस्तीन के दावे का समर्थन किया",
+        "summary": "भारत ने &#8216;टू-स्टेट सॉल्यूशन&#8217; (दो-देश समाधान) और संयुक्त राष्ट्र में फ़िलिस्तीन की सदस्यता के लिए अपना समर्थन फिर से दोहराया है। विदेश मंत्रालय में सचिव श्रीप्रिया रंगनाथन ने कहा है कि भारत फ़िलिस्तीनी लोगों का लंबे समय से सहयोगी रहा है। उन्होंने कल ब्रसेल्स में फ़िलिस्तीन डोनर ग्रुप की दूसरी मंत्री-स्तरीय बैठक को संबोधित करते […]",
+        "article": "भारत ने &#8216;टू-स्टेट सॉल्यूशन&#8217; (दो-देश समाधान) और संयुक्त राष्ट्र में फ़िलिस्तीन की सदस्यता के लिए अपना समर्थन फिर से दोहराया है। विदेश मंत्रालय में सचिव श्रीप्रिया रंगनाथन ने कहा है कि भारत फ़िलिस्तीनी लोगों का लंबे समय से सहयोगी रहा है। उन्होंने कल ब्रसेल्स में फ़िलिस्तीन डोनर ग्रुप की दूसरी मंत्री-स्तरीय बैठक को संबोधित करते हुए यह बात कही। उन्होंने फ़िलिस्तीन के लोगों के लिए भारत की ओर से दी जा रही विकास संबंधी मदद पर ज़ोर दिया। सुश्री रंगनाथन ने बताया कि भारत की परियोजनाएं ज़रूरतों पर आधारित हैं और मुख्य रूप से स्वास्थ्य सेवा, शिक्षा, क्षमता निर्माण और व्यावसायिक प्रशिक्षण पर केंद्रित हैं। उन्होंने पुनर्वास, स्वास्थ्य, शिक्षा और व्यावसायिक प्रशिक्षण पर केंद्रित कई नई परियोजनाओं की भी घोषणा की।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:55:20+00:00",
+        "link": "https://newsonair.gov.in/hi/india-supported-palestines-claim-at-the-united-nations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/99-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत और ब्रिटेन के बीच व्यापक आर्थिक और व्यापार समझौता कल से लागू होगा",
         "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से लागू हो जाएगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत उत्पादों पर शून्य शुल्क की सुविधा मिलेगी। यह समझौता भारत और ब्रिटेन की रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की […]",
         "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से लागू हो जाएगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत उत्पादों पर शून्य शुल्क की सुविधा मिलेगी। यह समझौता भारत और ब्रिटेन की रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। इस ऐतिहासिक समझौते की नींव मई 2021 में उन्नत व्यापार साझेदारी और भारत-ब्रिटेन रोडमैप 2030 को अपनाने के माध्यम से रखी गई थी। इसमें 2030 तक व्यापार को दोगुना करके सौ अरब अमरीकी डॉलर तक पहुंचाने का लक्ष्य रखा गया था। &nbsp;",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T07:10:14+00:00",
+        "pubDate": "2026-07-14T08:54:14+00:00",
         "link": "https://newsonair.gov.in/hi/india-uk-comprehensive-economic-and-trade-agreement-to-come-into-effect-tomorrow-zero-duty-on-99-of-indian-exports/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-4-3.png",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1757553493027.jpeg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1450,62 +1499,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्री डॉ. एस जयशंकर ने न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की",
-        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्‍होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 […]",
-        "article": "विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्&#x200d;होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद में अस्थायी सीट के लिए भारत के चुनाव में अभियान का नेतृत्व करने के लिए न्यूयॉर्क में हैं।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:54:43+00:00",
-        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-met-united-nations-secretary-general-antonio-guterres-in-new-york/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNI6teRWUAAleDS.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए आधिकारिक रूप से चुनाव अभियान शुरू किया",
-        "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा […]",
-        "article": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा वैश्विक परिस्थितियों में संयुक्त राष्ट्र की भूमिका पहले से अधिक महत्वपूर्ण हो गई है। डॉक्टर जयशंकर ने कहा कि भारत अब तक संयुक्त राष्ट्र के लगभग पचास शांति मिशनों में करीब तीन लाख शांति सैनिक भेज चुका है और वर्तमान में दस मिशनों में चार हजार तीन सौ से अधिक भारतीय कर्मी तैनात हैं। उन्होंने कहा कि भारत हमेशा संवाद, कूटनीति और वैश्विक दक्षिण के हितों की महत्व देता रहा है। उन्होंने सदस्य देशों से भारत की उम्मीदवारी का समर्थन करने की अपील की। निर्वाचित होने पर भारत वर्ष 2028 से दो वर्ष के लिए सुरक्षा परिषद का अस्थायी सदस्य बनेगा। भारत इससे पहले आठ बार इस पद पर रह चुका है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:46:42+00:00",
-        "link": "https://newsonair.gov.in/hi/india-has-launched-its-election-campaign-for-a-non-permanent-seat-on-the-united-nations-security-council-for-the-2028-29-term/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNIgQ1wXkAAbN-v.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम में स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर मुंबई लाए गए",
-        "summary": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि […]",
-        "article": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि आन्ध्रप्रदेश, केरल और तमिलनाडु की सरकारें इन शवों को उनके संबंधित राज्यों में उनके आवास पर पहुंचाने में समन्वय करेंगी। वियतनाम के अधिकारियों और सरकार के प्रति आभार व्यक्त करते हुए दूतावास ने बताया कि उनकी प्रार्थना, प्रयास और मौजूदगी ने इस दुख की घड़ी में शक्ति प्रदान की। 32 भारतीय पर्यटकों और चार स्थानीय क्रू के सद्स्यों वाली स्पीड बोट शुक्रवार को वियतनाम में फू क्वोक द्वीप में पलट गई। इस कारण 15 पर्यटकों की मृत्यु हो गई। इस दुर्घटना में बचने वाले 16 पर्यटक भी भारत लौट चुके हैं। इनमें से एक पर्यटक वियतनाम के एक अस्पताल में भर्ती है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:45:11+00:00",
-        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-a-speedboat-accident-in-vietnam-have-been-brought-back-to-the-country/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "एनटीए ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी किए",
-        "summary": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्‍तर देख सकते है। उम्‍मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े […]",
-        "article": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्&#x200d;तर देख सकते है। उम्&#x200d;मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार प्रश्न का चयन करके अपने चुने हुए विकल्प पर निशान लगा सकते हैं और 200 रुपये के शुल्क का भुगतान करके चुनौती दे सकते हैं। एजेंसी ने स्पष्ट किया है कि चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। ओएमआर चुनौती सुविधा इस महीने की 15 तारीख तक उपलब्ध रहेगी। उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:41:10+00:00",
-        "link": "https://newsonair.gov.in/hi/the-nta-released-the-omr-sheets-and-recorded-responses-for-the-neet-ug-2026-re-examination/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
-        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
-        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:49:09+00:00",
-        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
-        "post_id": 1736495,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
