@@ -1,8 +1,74 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-14T02:35:52.660551",
+  "generated": "2026-07-14T05:59:49.594708",
   "en": {
     "top": [
+      {
+        "title": "Bharat Tex 2026 begins at Bharat Mandapam in New Delhi",
+        "summary": "India&#8217;s largest global textile event, Bharat Tex 2026 began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh inaugurated the four days event. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyer",
+        "article": "India&#8217;s largest global textile event, Bharat Tex 2026 began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh inaugurated the four days event. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyers, investors, policymakers, international delegations, artisans, start-ups and technology providers. &nbsp; Inspired by Prime Minister Narendra Modi’s 5F Vision- Farm to Fibre to Factory to Fashion to Foreign, Bharat Tex 2026 has evolved into a premier global platform for business, investment, innovation, policy dialogue and strategic partnerships across the textile value chain. &nbsp; The third edition of Bharat Tex 2026 is witnessing participation of around seven thousand buyers and over 20 thousand textile products. International exhibitors from 14 countries are participating in the event. The event will bring together over 350 speakers including international experts, national industry leaders, policymakers and thought leaders from more than 20 countries.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T05:58:38+00:00",
+        "link": "https://newsonair.gov.in/bharat-tex-2026-begins-at-bharat-mandapam-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Bangkok music bar fire death toll rises to 30",
+        "summary": "The death toll from a huge fire in a Bangkok music bar has increased to 30. Bangkok city officials today said more than 70 people remain hospitalised, with 24 of them are in critical condition. Police said an investigation into the cause of the fire and whether the bar was following safety regulations is ongoing. […]",
+        "article": "The death toll from a huge fire in a Bangkok music bar has increased to 30. Bangkok city officials today said more than 70 people remain hospitalised, with 24 of them are in critical condition. Police said an investigation into the cause of the fire and whether the bar was following safety regulations is ongoing. It added most of the people who killed were found trapped in windowless bathrooms where they may have sought to escape the flames. The city&#8217;s deadliest blaze in 17 years at the Rong Beer Na Ladprao bar broke out on late Sunday in a northern part of the Thai capital. The bar claimed to accommodate as many as 600 customers. It was not clear how many were present on Sunday night.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T05:57:10+00:00",
+        "link": "https://newsonair.gov.in/bangkok-music-bar-fire-death-toll-rises-to-30/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/b.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM Dr S Jaishankar meets UN Secretary-General Antonio Guterres",
+        "summary": "External Affairs Minister Dr S Jaishankar met the Secretary General of the United Nations Antonio Guterres, in New York yesterday. In a social media post, Dr Jaishankar said they discussed global developments, including of West Asia, Ukraine and Sudan. They also recognised the strength of India &#8211; UN cooperation. Dr Jaishankar is in New York […]",
+        "article": "External Affairs Minister Dr S Jaishankar met the Secretary General of the United Nations Antonio Guterres, in New York yesterday. In a social media post, Dr Jaishankar said they discussed global developments, including of West Asia, Ukraine and Sudan. They also recognised the strength of India &#8211; UN cooperation. Dr Jaishankar is in New York to lead the India campaign for a non-permanent seat in the United Nations Security Council for the 2028-29 term.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T03:43:58+00:00",
+        "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-meets-un-secretary-general-antonio-guterres/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/EAM-Dr-S-Jaishankar-meets-UN-Secretary-General-Antonio-Guterres.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "IMD forecasts heavy to very heavy rainfall over Bihar, Odisha",
+        "summary": "India Meteorological Department (IMD) has forecast heavy to very heavy rainfall over Bihar and Odisha today. Heavy rainfall over these regions is expected to continue till tomorrow. Parts of North-east India, Chhattisgarh, Jharkhand, West Bengal and Sikkim are also likely to receive moderate to heavy rainfall during the day. According to the Met Department, […]",
+        "article": "India Meteorological Department (IMD) has forecast heavy to very heavy rainfall over Bihar and Odisha today. Heavy rainfall over these regions is expected to continue till tomorrow. Parts of North-east India, Chhattisgarh, Jharkhand, West Bengal and Sikkim are also likely to receive moderate to heavy rainfall during the day. According to the Met Department, thunderstorms accompanied by lightning and gusty winds are also expected today over parts of Andaman and Nicobar Islands, Andhra Pradesh, Jammu and Kashmir, Ladakh, Bihar, Gangetic West Bengal, Jharkhand, Sikkim, Karnataka and Odisha. IMD also predicted heat wave conditions today at places over Coastal Andhra Pradesh. Meanwhile, Parts of the National Capital received light showers this morning.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T03:34:26+00:00",
+        "link": "https://newsonair.gov.in/imd-forecasts-heavy-to-very-heavy-rainfall-over-bihar-odisha/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/imd.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Mortal remains of 15 Indian tourists brought back from Vietnam",
+        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in […]",
+        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in Mumbai. The Embassy said, the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to the Vietnamese authorities and the government, the embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. A speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island in Vietnam on Friday, leaving 15 tourists dead. Sixteen survivors have also returned to India, and one tourist remains hospitalised in Vietnam.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:45:55+00:00",
+        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-brought-back-from-vietnam/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "US President Donald Trump reinstates blockade on Iranian shipping in Strait of Hormuz",
+        "summary": "United States launched strikes on Iran for the third consecutive night, marking a new escalation in the resumption of hostilities. The US military&#8217;s Central Command (CENTCOM) said it struck areas around Abu Musa, Bandar Abbas, Bushehr, Chahbahar, Jask and Konarak, targeting Iranian coastal defence systems, missile and drone sites and maritime capabilities. Iran acknowledged the […]",
+        "article": "United States launched strikes on Iran for the third consecutive night, marking a new escalation in the resumption of hostilities. The US military&#8217;s Central Command (CENTCOM) said it struck areas around Abu Musa, Bandar Abbas, Bushehr, Chahbahar, Jask and Konarak, targeting Iranian coastal defence systems, missile and drone sites and maritime capabilities. Iran acknowledged the strikes but did not report any casualties or damage. US Central Command (CENTCOM) said, the strikes will continue imposing a heavy cost on Iranian forces and degrade their ability to attack innocent civilians and commercial shipping in the Strait of Hormuz. Iran responded with attacks targeting Bahrain, Jordan and two tankers associated with the United Arab Emirates travelling through the strait, killing one mariner and injuring eight others. The Emirati Defence Ministry said the attack on the tankers killed one Indian national and injured six Indians and two Ukrainians. Jordan&#8217;s military said it intercepted four missiles from Iran. US President Donald Trump threatened to destroy Pickaxe Mountain, a deeply buried nuclear site near Natanz where Western intelligence suspects Iran is building an undeclared enrichment facility. Earlier yesterday, President Donald Trump announced that the US will reinstate a blockade on Iranian shipping in the Strait of Hormuz and impose a 20 per cent charge on cargo transiting the strategic waterway to cover the cost of maritime security. In a social media post, President Trump said the blockade would apply only to Iranian ships and vessels trading with Iran. He added, the Hormuz Strait is open, and will remain open, with or without Iran. He assured that commercial traffic from other countries would continue to have free passage. On the other hand, Iran has asserted its authority over the Strait of Hormuz and rejected the US move. According to Iranian state media, Central Headquarters spokesperson Brigadier General Ebrahim Zolfaghari said Iran will not, under any circumstances, allow the US to interfere in the management of the Strait of Hormuz. He also warned that any regional country providing logistical support to US forces would be regarded as committing an act of war against Iran.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:44:39+00:00",
+        "link": "https://newsonair.gov.in/us-president-donald-trump-reinstates-blockade-on-iranian-shipping-in-strait-of-hormuz/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/TRUMP-IRAN-1-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "I&B Ministry invites proposals for WAVES 2027 Create in India Challenge",
         "summary": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season […]",
@@ -12,6 +78,17 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/ib-ministry-invites-proposals-for-waves-2027-create-in-india-challenge/",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mildred_H._McAfee.jpg/1280px-Mildred_H._McAfee.jpg",
         "image_credit": "Wikipedia – WAVES (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "NTA opens OMR challenge window for NEET-UG 2026 candidates",
+        "summary": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &#160; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question […]",
+        "article": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &nbsp; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question and tick their claimed option and submit a challenge on payment of a non-refundable processing fee of 200 rupees. &nbsp; The agency has clarified that the fee will be refunded if the challenge is upheld. The OMR challenge facility will remain available till 15 of this month. Candidates can contact the NTA helpline numbers 011-40759000, 011-69227700 and write to the neetug2026@nta.ac.in.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:57:37+00:00",
+        "link": "https://newsonair.gov.in/nta-opens-omr-challenge-window-for-neet-ug-2026-candidates/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -21,63 +98,8 @@ window.VM_NEWS = {
         "date": "2026-07-14",
         "pubDate": "2026-07-14T01:51:54+00:00",
         "link": "https://newsonair.gov.in/ukraine-nine-european-nations-form-coalition-for-europes-ballistic-missile-defence/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg/1280px-Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg.png",
-        "image_credit": "Wikipedia – Europe (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PMML to host ‘Walking with Legacy’ exhibition in New Delhi",
-        "summary": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, […]",
-        "article": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, featuring walking sticks and batons as markers of identity and governance. Depending on their purpose, walking sticks and batons may be plain or richly ornamented. Their handles and shafts are enhanced with materials including ivory, bone, brass, silver, copper, gold, gemstones and enamel. The finished pieces are assembled and coated with wax, oil, shellac or varnish for protection and durability. Crafted from materials such as ebony, mahogany, rosewood, teak, sheesham, bamboo, malacca cane and other hardwoods, these objects showcase traditional woodworking techniques, including seasoning, shaping, turning and polishing. The exhibition will also showcase decorative elements such as nature-inspired motifs, floral and geometric patterns, family crests, emblems and symbolic designs, engraved inscriptions, and lacquer work with natural wood finishes, offering visitors a glimpse into the craftsmanship behind these remarkable objects.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:44:49+00:00",
-        "link": "https://newsonair.gov.in/pmml-to-host-walking-with-legacy-exhibition-in-new-delhi/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
-        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "US, Iran Claim Control of Strait of Hormuz Amid Escalating Conflict",
-        "summary": "The United States and Iran have each claimed control of the Strait of Hormuz following a weekend of escalating attacks across West Asia, raising fresh concerns over regional security and efforts to revive diplomacy. The latest escalation began after Iran struck a container ship in the Strait of Hormuz off the coast of Oman yesterday. […]",
-        "article": "The United States and Iran have each claimed control of the Strait of Hormuz following a weekend of escalating attacks across West Asia, raising fresh concerns over regional security and efforts to revive diplomacy. The latest escalation began after Iran struck a container ship in the Strait of Hormuz off the coast of Oman yesterday. Since then, no commercial vessels have passed through the strategic waterway, a key route for global oil and gas shipments. The United States has said, it carried out overnight strikes on several Iranian military targets, including air defence systems, coastal radar sites, missile and drone facilities, and small naval vessels. Washington said the operation, which reportedly included one-way attack sea drones for the first time, was in response to Iran&#8217;s attacks on commercial shipping. &nbsp; Iran, in turn, said it targeted US military bases in Jordan, Bahrain and Kuwait, as well as radar installations in Oman. The Strait of Hormuz, the narrow entrance to the Persian Gulf through which nearly one-fifth of the world&#8217;s traded oil and significant volumes of natural gas pass, has remained at the centre of the conflict, with shipping severely disrupted amid continued attacks and rising tensions.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T12:57:24+00:00",
-        "link": "https://newsonair.gov.in/us-iran-claim-control-of-strait-of-hormuz-amid-escalating-conflict/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ISS-44_Strait_of_Gibraltar.jpg/1280px-ISS-44_Strait_of_Gibraltar.jpg",
-        "image_credit": "Wikipedia – Strait (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EU Foreign Ministers Discuss Fresh Sanctions on Russia",
-        "summary": "European Union Foreign Ministers convened in Brussels today to deliberate on a fresh tranche of sanctions targeting Russia, the ongoing war in Ukraine, and an array of international security matters. Speaking to reporters ahead of the meeting, the bloc&#8217;s foreign policy chief, Kaja Kallas, said they hoped to secure agreement on 250 listings. […]",
-        "article": "European Union Foreign Ministers convened in Brussels today to deliberate on a fresh tranche of sanctions targeting Russia, the ongoing war in Ukraine, and an array of international security matters. Speaking to reporters ahead of the meeting, the bloc&#8217;s foreign policy chief, Kaja Kallas, said they hoped to secure agreement on 250 listings. She added that work was also underway on the 21st sanctions package. Ms Kallas stated that the proposed sanctions listings were a reaction to the attacks by Russia on the civilians recently. She noted that the ministers would also examine the plight of Ukrainian civilians reportedly held in Russian-controlled areas, including teachers and journalists, alongside prisoners of war and abducted children. Furthermore, Ms Kallas indicated that the Ministers will evaluate the EU&#8217;s Black Sea strategy, focusing on collaborative efforts between Bulgaria and Romania to safeguard critical infrastructure and counter hybrid threats across the region. She added that the Foreign Affairs Council is anticipated to greenlight a new partnership mission for Armenia aimed at assisting the nation in countering hybrid threats and foreign information manipulation and interference. The geopolitical landscape of the West Asia is also featured on the agenda, with ministers scheduled to engage in discussions with Gulf partners regarding regional security and the prevailing situation in the Strait of Hormuz. She asserted that the Strait of Hormuz must remain open, that freedom of navigation must be upheld, and that no tolls or fees should be imposed on vessels transiting the waterway.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T12:01:12+00:00",
-        "link": "https://newsonair.gov.in/eu-foreign-ministers-discuss-fresh-sanctions-on-russia/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Hillary_Rodham_Clinton_Secretary_of_State_with_Canadian_Foreign_Minister_Cannon_%283632885455%29.jpg",
-        "image_credit": "Wikimedia Commons (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "INS Sudarshini arrives in Boston after Sail4th 250 celebrations",
-        "summary": "Indian Naval Sail Training Ship INS Sudarshini has arrived in Boston, United States, after successfully participating in the Sail4th 250 celebrations in New York. The ship reached Boston yesterday and took part in the Grand Parade of Sails, marking the commencement of Sail Boston 2026. The Defence Ministry said INS Sudarshini joined an international fleet […]",
-        "article": "Indian Naval Sail Training Ship INS Sudarshini has arrived in Boston, United States, after successfully participating in the Sail4th 250 celebrations in New York. The ship reached Boston yesterday and took part in the Grand Parade of Sails, marking the commencement of Sail Boston 2026. The Defence Ministry said INS Sudarshini joined an international fleet of more than 60 tall ships from over 20 countries and is representing India as a maritime ambassador of goodwill during its ongoing Lokayan 2026 transoceanic expedition. The Ministry said the ship will remain open to visitors till the 15th of this month. It added that INS Sudarshini&#8217;s participation in Sail Boston 2026 further strengthens the growing India-US maritime partnership and showcases India&#8217;s rich seafaring heritage on the global stage.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T08:37:20+00:00",
-        "link": "https://newsonair.gov.in/ins-sudarshini-arrives-in-boston-after-sail4th-250-celebrations/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/INS_Sudarshini_at_the_Sail250_Virginia_Parade_of_Sails.jpg/1280px-INS_Sudarshini_at_the_Sail250_Virginia_Parade_of_Sails.jpg",
-        "image_credit": "Wikipedia – INS Sudarshini (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NTA opens OMR challenge window for NEET-UG 2026 candidates",
-        "summary": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &#160; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question […]",
-        "article": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &nbsp; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question and tick their claimed option and submit a challenge on payment of a non-refundable processing fee of 200 rupees. &nbsp; The agency has clarified that the fee will be refunded if the challenge is upheld. The OMR challenge facility will remain available till 15 of this month. Candidates can contact the NTA helpline numbers 011-40759000, 011-69227700 and write to the neetug2026@nta.ac.in.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:57:37+00:00",
-        "link": "https://newsonair.gov.in/nta-opens-omr-challenge-window-for-neet-ug-2026-candidates/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-8.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -87,19 +109,19 @@ window.VM_NEWS = {
         "date": "2026-07-14",
         "pubDate": "2026-07-14T01:48:33+00:00",
         "link": "https://newsonair.gov.in/indian-crew-member-killed-in-iranian-missile-strike-on-uae-tankers/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/strait.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "India launches campaign for UN Security Council seat for 2028-29 term",
-        "summary": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s",
-        "article": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s guiding approach to promoting global peace, security and equitable development. He said the world is facing growing conflict and instability, making the role of the United Nations more critical than ever. Highlighting India&#8217;s credentials, Dr. Jaishankar said India has contributed nearly three lakh personnel to about 50 UN peacekeeping missions since the organisation&#8217;s inception and currently has over 4,300 personnel serving in 10 UN peacekeeping missions. He said India has consistently advocated dialogue and diplomacy and has sought to give voice to the concerns of the Global South. Seeking the support of UN member states, Dr. Jaishankar said India&#8217;s presence in the Security Council would help strengthen decision-making in the vital body. If elected, India will serve a two-year term beginning in 2028. India has previously served eight terms as a non-permanent member of the Security Council, most recently in 2021-22.",
+        "title": "PMML to host ‘Walking with Legacy’ exhibition in New Delhi",
+        "summary": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, […]",
+        "article": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, featuring walking sticks and batons as markers of identity and governance. Depending on their purpose, walking sticks and batons may be plain or richly ornamented. Their handles and shafts are enhanced with materials including ivory, bone, brass, silver, copper, gold, gemstones and enamel. The finished pieces are assembled and coated with wax, oil, shellac or varnish for protection and durability. Crafted from materials such as ebony, mahogany, rosewood, teak, sheesham, bamboo, malacca cane and other hardwoods, these objects showcase traditional woodworking techniques, including seasoning, shaping, turning and polishing. The exhibition will also showcase decorative elements such as nature-inspired motifs, floral and geometric patterns, family crests, emblems and symbolic designs, engraved inscriptions, and lacquer work with natural wood finishes, offering visitors a glimpse into the craftsmanship behind these remarkable objects.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:46:58+00:00",
-        "link": "https://newsonair.gov.in/india-launches-campaign-for-un-security-council-seat-for-2028-29-term/",
-        "image_url": "",
-        "image_credit": "",
+        "pubDate": "2026-07-14T01:44:49+00:00",
+        "link": "https://newsonair.gov.in/pmml-to-host-walking-with-legacy-exhibition-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pmml.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -109,8 +131,32 @@ window.VM_NEWS = {
         "date": "2026-07-14",
         "pubDate": "2026-07-14T00:51:06+00:00",
         "link": "https://newsonair.gov.in/eu-coordinates-efforts-to-raise-one-billion-dollars-in-aid-for-gaza/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/EU.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "breaking": [
+      {
+        "title": "Bharat Tex 2026 begins at Bharat Mandapam in New Delhi",
+        "summary": "India&#8217;s largest global textile event, Bharat Tex 2026 began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh inaugurated the four days event. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyer",
+        "article": "India&#8217;s largest global textile event, Bharat Tex 2026 began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh inaugurated the four days event. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyers, investors, policymakers, international delegations, artisans, start-ups and technology providers. &nbsp; Inspired by Prime Minister Narendra Modi’s 5F Vision- Farm to Fibre to Factory to Fashion to Foreign, Bharat Tex 2026 has evolved into a premier global platform for business, investment, innovation, policy dialogue and strategic partnerships across the textile value chain. &nbsp; The third edition of Bharat Tex 2026 is witnessing participation of around seven thousand buyers and over 20 thousand textile products. International exhibitors from 14 countries are participating in the event. The event will bring together over 350 speakers including international experts, national industry leaders, policymakers and thought leaders from more than 20 countries.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T05:58:38+00:00",
+        "link": "https://newsonair.gov.in/bharat-tex-2026-begins-at-bharat-mandapam-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "IMD forecasts heavy to very heavy rainfall over Bihar, Odisha",
+        "summary": "India Meteorological Department (IMD) has forecast heavy to very heavy rainfall over Bihar and Odisha today. Heavy rainfall over these regions is expected to continue till tomorrow. Parts of North-east India, Chhattisgarh, Jharkhand, West Bengal and Sikkim are also likely to receive moderate to heavy rainfall during the day. According to the Met Department, […]",
+        "article": "India Meteorological Department (IMD) has forecast heavy to very heavy rainfall over Bihar and Odisha today. Heavy rainfall over these regions is expected to continue till tomorrow. Parts of North-east India, Chhattisgarh, Jharkhand, West Bengal and Sikkim are also likely to receive moderate to heavy rainfall during the day. According to the Met Department, thunderstorms accompanied by lightning and gusty winds are also expected today over parts of Andaman and Nicobar Islands, Andhra Pradesh, Jammu and Kashmir, Ladakh, Bihar, Gangetic West Bengal, Jharkhand, Sikkim, Karnataka and Odisha. IMD also predicted heat wave conditions today at places over Coastal Andhra Pradesh. Meanwhile, Parts of the National Capital received light showers this morning.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T03:34:26+00:00",
+        "link": "https://newsonair.gov.in/imd-forecasts-heavy-to-very-heavy-rainfall-over-bihar-odisha/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/imd.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -118,25 +164,12 @@ window.VM_NEWS = {
         "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in […]",
         "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in Mumbai. The Embassy said, the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to the Vietnamese authorities and the government, the embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. A speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island in Vietnam on Friday, leaving 15 tourists dead. Sixteen survivors have also returned to India, and one tourist remains hospitalised in Vietnam.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:42:55+00:00",
+        "pubDate": "2026-07-14T02:45:55+00:00",
         "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-brought-back-from-vietnam/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
-      {
-        "title": "Mortal Remains of 15 Indian Tourists Killed in Vietnam Boat Accident Brought Home",
-        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and […]",
-        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and arrived in Mumbai. It added that the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to Vietnamese authorities and the government, the Embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. In a tragic incident on Friday, a speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island, leaving 15 tourists dead. While 16 survivors have returned to India, one tourist remains hospitalized in Vietnam.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T17:03:56+00:00",
-        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-killed-in-vietnam-boat-accident-brought-home/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "breaking": [
       {
         "title": "I&B Ministry invites proposals for WAVES 2027 Create in India Challenge",
         "summary": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season […]",
@@ -149,47 +182,25 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "PMML to host ‘Walking with Legacy’ exhibition in New Delhi",
-        "summary": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, […]",
-        "article": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, featuring walking sticks and batons as markers of identity and governance. Depending on their purpose, walking sticks and batons may be plain or richly ornamented. Their handles and shafts are enhanced with materials including ivory, bone, brass, silver, copper, gold, gemstones and enamel. The finished pieces are assembled and coated with wax, oil, shellac or varnish for protection and durability. Crafted from materials such as ebony, mahogany, rosewood, teak, sheesham, bamboo, malacca cane and other hardwoods, these objects showcase traditional woodworking techniques, including seasoning, shaping, turning and polishing. The exhibition will also showcase decorative elements such as nature-inspired motifs, floral and geometric patterns, family crests, emblems and symbolic designs, engraved inscriptions, and lacquer work with natural wood finishes, offering visitors a glimpse into the craftsmanship behind these remarkable objects.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:44:49+00:00",
-        "link": "https://newsonair.gov.in/pmml-to-host-walking-with-legacy-exhibition-in-new-delhi/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
-        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "NTA opens OMR challenge window for NEET-UG 2026 candidates",
         "summary": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &#160; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question […]",
         "article": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &nbsp; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question and tick their claimed option and submit a challenge on payment of a non-refundable processing fee of 200 rupees. &nbsp; The agency has clarified that the fee will be refunded if the challenge is upheld. The OMR challenge facility will remain available till 15 of this month. Candidates can contact the NTA helpline numbers 011-40759000, 011-69227700 and write to the neetug2026@nta.ac.in.",
         "date": "2026-07-14",
         "pubDate": "2026-07-14T01:57:37+00:00",
         "link": "https://newsonair.gov.in/nta-opens-omr-challenge-window-for-neet-ug-2026-candidates/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "India launches campaign for UN Security Council seat for 2028-29 term",
-        "summary": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s",
-        "article": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s guiding approach to promoting global peace, security and equitable development. He said the world is facing growing conflict and instability, making the role of the United Nations more critical than ever. Highlighting India&#8217;s credentials, Dr. Jaishankar said India has contributed nearly three lakh personnel to about 50 UN peacekeeping missions since the organisation&#8217;s inception and currently has over 4,300 personnel serving in 10 UN peacekeeping missions. He said India has consistently advocated dialogue and diplomacy and has sought to give voice to the concerns of the Global South. Seeking the support of UN member states, Dr. Jaishankar said India&#8217;s presence in the Security Council would help strengthen decision-making in the vital body. If elected, India will serve a two-year term beginning in 2028. India has previously served eight terms as a non-permanent member of the Security Council, most recently in 2021-22.",
+        "title": "PMML to host ‘Walking with Legacy’ exhibition in New Delhi",
+        "summary": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, […]",
+        "article": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, featuring walking sticks and batons as markers of identity and governance. Depending on their purpose, walking sticks and batons may be plain or richly ornamented. Their handles and shafts are enhanced with materials including ivory, bone, brass, silver, copper, gold, gemstones and enamel. The finished pieces are assembled and coated with wax, oil, shellac or varnish for protection and durability. Crafted from materials such as ebony, mahogany, rosewood, teak, sheesham, bamboo, malacca cane and other hardwoods, these objects showcase traditional woodworking techniques, including seasoning, shaping, turning and polishing. The exhibition will also showcase decorative elements such as nature-inspired motifs, floral and geometric patterns, family crests, emblems and symbolic designs, engraved inscriptions, and lacquer work with natural wood finishes, offering visitors a glimpse into the craftsmanship behind these remarkable objects.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:46:58+00:00",
-        "link": "https://newsonair.gov.in/india-launches-campaign-for-un-security-council-seat-for-2028-29-term/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Mortal remains of 15 Indian tourists brought back from Vietnam",
-        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in […]",
-        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in Mumbai. The Embassy said, the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to the Vietnamese authorities and the government, the embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. A speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island in Vietnam on Friday, leaving 15 tourists dead. Sixteen survivors have also returned to India, and one tourist remains hospitalised in Vietnam.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:42:55+00:00",
-        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-brought-back-from-vietnam/",
-        "image_url": "",
-        "image_credit": "",
+        "pubDate": "2026-07-14T01:44:49+00:00",
+        "link": "https://newsonair.gov.in/pmml-to-host-walking-with-legacy-exhibition-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pmml.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -199,8 +210,8 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T17:03:56+00:00",
         "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-killed-in-vietnam-boat-accident-brought-home/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -210,8 +221,8 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T16:57:38+00:00",
         "link": "https://newsonair.gov.in/meity-launches-nidar-2-0-to-develop-drones-powered-by-indian-made-chips/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nidar.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -221,28 +232,18 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T16:50:04+00:00",
         "link": "https://newsonair.gov.in/bsnl-records-10-rise-in-revenue-in-first-quarter-of-fy-2026-27-communications-minister-jyotiraditya-scindia/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/bsnl.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "SC Seeks Rules Under Bharatiya Vayuyan Adhiniyam Within Two Weeks",
-        "summary": "The Supreme Court today directed the Centre to place on record, within two weeks, the rules framed under the Bharatiya Vayuyan Adhiniyam, 2024, a legislation intended to modernise the country&#8217;s civil aviation framework. Hearing a PIL, a bench of Justices Vikram Nath and Sandeep Mehta asked the Centre to submit the rules before the court […]",
-        "article": "The Supreme Court today directed the Centre to place on record, within two weeks, the rules framed under the Bharatiya Vayuyan Adhiniyam, 2024, a legislation intended to modernise the country&#8217;s civil aviation framework. Hearing a PIL, a bench of Justices Vikram Nath and Sandeep Mehta asked the Centre to submit the rules before the court in a sealed cover, regardless of whether they have been laid before Parliament. The counsel appearing for the Centre informed the bench that the draft rules are ready and they are in the process of translation. The counsel said the rules have to be placed before Parliament. The top court posted the matter for further hearing on August 3. The order of the top court came on the PIL seeking a robust and independent regulator that ensures transparency and passenger protection across the civil aviation sector. The plea also sought regulatory guidelines to control the unpredictable fluctuations in airfare and ancillary charges imposed by private airlines in India. Earlier, the Centre had told the apex court that the Ministry of Civil Aviation was actively considering the issues raised in the plea.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:36:42+00:00",
-        "link": "https://newsonair.gov.in/sc-seeks-rules-under-bharatiya-vayuyan-adhiniyam-within-two-weeks/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "MIB Invites Proposals for Industry-led Challenges under WAVES 2027 Create in India Challenge Season 2",
-        "summary": "The Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. […]",
-        "article": "The Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season &#8211; 2 aims to execute industry-led, government-supported, youth oriented challenges that identify and nurture creative talent, promote upskilling and capacity building. It also aims to create opportunities for collaboration across the Media and Entertainment domains, including Artificial Intelligence (AI), Digital Media, and other technology-driven creative sectors. The challenge will culminate in the showcasing of winners and winning outcomes at CreatoSphere’ during WAVES 2027. The Ministry said, a unified portal has been created for submission of proposals and selection of challenges and their respective executing entities, through a transparent and merit-based mechanism. Entities from across the Media and Entertainment sector have been invited to submit their proposals through the wavesbazaar.com online portal by 31st of this month. To support the successful implementation of selected challenges, the Ministry will provide a One-Time Grant of up to one crore rupees per challenge.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:15:00+00:00",
-        "link": "https://newsonair.gov.in/mib-invites-proposals-for-industry-led-challenges-under-waves-2027-create-in-india-challenge-season-2/",
+        "title": "India launches campaign for UN Security Council seat for 2028-29 term",
+        "summary": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s",
+        "article": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s guiding approach to promoting global peace, security and equitable development. He said the world is facing growing conflict and instability, making the role of the United Nations more critical than ever. Highlighting India&#8217;s credentials, Dr. Jaishankar said India has contributed nearly three lakh personnel to about 50 UN peacekeeping missions since the organisation&#8217;s inception and currently has over 4,300 personnel serving in 10 UN peacekeeping missions. He said India has consistently advocated dialogue and diplomacy and has sought to give voice to the concerns of the Global South. Seeking the support of UN member states, Dr. Jaishankar said India&#8217;s presence in the Security Council would help strengthen decision-making in the vital body. If elected, India will serve a two-year term beginning in 2028. India has previously served eight terms as a non-permanent member of the Security Council, most recently in 2021-22.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:55:58+00:00",
+        "link": "https://newsonair.gov.in/india-launches-campaign-for-un-security-council-seat-for-2028-29-term/",
+        "post_id": 1736609,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -250,6 +251,39 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "Bharat Tex 2026 begins at Bharat Mandapam in New Delhi",
+        "summary": "India&#8217;s largest global textile event, Bharat Tex 2026 began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh inaugurated the four days event. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyer",
+        "article": "India&#8217;s largest global textile event, Bharat Tex 2026 began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh inaugurated the four days event. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyers, investors, policymakers, international delegations, artisans, start-ups and technology providers. &nbsp; Inspired by Prime Minister Narendra Modi’s 5F Vision- Farm to Fibre to Factory to Fashion to Foreign, Bharat Tex 2026 has evolved into a premier global platform for business, investment, innovation, policy dialogue and strategic partnerships across the textile value chain. &nbsp; The third edition of Bharat Tex 2026 is witnessing participation of around seven thousand buyers and over 20 thousand textile products. International exhibitors from 14 countries are participating in the event. The event will bring together over 350 speakers including international experts, national industry leaders, policymakers and thought leaders from more than 20 countries.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T05:58:38+00:00",
+        "link": "https://newsonair.gov.in/bharat-tex-2026-begins-at-bharat-mandapam-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "IMD forecasts heavy to very heavy rainfall over Bihar, Odisha",
+        "summary": "India Meteorological Department (IMD) has forecast heavy to very heavy rainfall over Bihar and Odisha today. Heavy rainfall over these regions is expected to continue till tomorrow. Parts of North-east India, Chhattisgarh, Jharkhand, West Bengal and Sikkim are also likely to receive moderate to heavy rainfall during the day. According to the Met Department, […]",
+        "article": "India Meteorological Department (IMD) has forecast heavy to very heavy rainfall over Bihar and Odisha today. Heavy rainfall over these regions is expected to continue till tomorrow. Parts of North-east India, Chhattisgarh, Jharkhand, West Bengal and Sikkim are also likely to receive moderate to heavy rainfall during the day. According to the Met Department, thunderstorms accompanied by lightning and gusty winds are also expected today over parts of Andaman and Nicobar Islands, Andhra Pradesh, Jammu and Kashmir, Ladakh, Bihar, Gangetic West Bengal, Jharkhand, Sikkim, Karnataka and Odisha. IMD also predicted heat wave conditions today at places over Coastal Andhra Pradesh. Meanwhile, Parts of the National Capital received light showers this morning.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T03:34:26+00:00",
+        "link": "https://newsonair.gov.in/imd-forecasts-heavy-to-very-heavy-rainfall-over-bihar-odisha/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/imd.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Mortal remains of 15 Indian tourists brought back from Vietnam",
+        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in […]",
+        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in Mumbai. The Embassy said, the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to the Vietnamese authorities and the government, the embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. A speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island in Vietnam on Friday, leaving 15 tourists dead. Sixteen survivors have also returned to India, and one tourist remains hospitalised in Vietnam.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:45:55+00:00",
+        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-brought-back-from-vietnam/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "I&B Ministry invites proposals for WAVES 2027 Create in India Challenge",
         "summary": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season […]",
         "article": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season &#8211; 2 aims to execute industry-led, government-supported, youth oriented challenges that identify and nurture creative talent, promote upskilling and capacity building. It also aims to create opportunities for collaboration across the Media and Entertainment domains, including Artificial Intelligence (AI), Digital Media, and other technology-driven creative sectors. The challenge will culminate in the showcasing of winners and winning outcomes at CreatoSphere’ during WAVES 2027. The Ministry said, a unified portal has been created for submission of proposals and selection of challenges and their respective executing entities, through a transparent and merit-based mechanism. Entities from across the Media and Entertainment sector have been invited to submit their proposals through the wavesbazaar.com online portal by 31st of this month. To support the successful implementation of selected challenges, the Ministry will provide a One-Time Grant of up to one crore rupees per challenge.",
@@ -261,47 +295,25 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "PMML to host ‘Walking with Legacy’ exhibition in New Delhi",
-        "summary": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, […]",
-        "article": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, featuring walking sticks and batons as markers of identity and governance. Depending on their purpose, walking sticks and batons may be plain or richly ornamented. Their handles and shafts are enhanced with materials including ivory, bone, brass, silver, copper, gold, gemstones and enamel. The finished pieces are assembled and coated with wax, oil, shellac or varnish for protection and durability. Crafted from materials such as ebony, mahogany, rosewood, teak, sheesham, bamboo, malacca cane and other hardwoods, these objects showcase traditional woodworking techniques, including seasoning, shaping, turning and polishing. The exhibition will also showcase decorative elements such as nature-inspired motifs, floral and geometric patterns, family crests, emblems and symbolic designs, engraved inscriptions, and lacquer work with natural wood finishes, offering visitors a glimpse into the craftsmanship behind these remarkable objects.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:44:49+00:00",
-        "link": "https://newsonair.gov.in/pmml-to-host-walking-with-legacy-exhibition-in-new-delhi/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
-        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "NTA opens OMR challenge window for NEET-UG 2026 candidates",
         "summary": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &#160; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question […]",
         "article": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &nbsp; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question and tick their claimed option and submit a challenge on payment of a non-refundable processing fee of 200 rupees. &nbsp; The agency has clarified that the fee will be refunded if the challenge is upheld. The OMR challenge facility will remain available till 15 of this month. Candidates can contact the NTA helpline numbers 011-40759000, 011-69227700 and write to the neetug2026@nta.ac.in.",
         "date": "2026-07-14",
         "pubDate": "2026-07-14T01:57:37+00:00",
         "link": "https://newsonair.gov.in/nta-opens-omr-challenge-window-for-neet-ug-2026-candidates/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "India launches campaign for UN Security Council seat for 2028-29 term",
-        "summary": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s",
-        "article": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s guiding approach to promoting global peace, security and equitable development. He said the world is facing growing conflict and instability, making the role of the United Nations more critical than ever. Highlighting India&#8217;s credentials, Dr. Jaishankar said India has contributed nearly three lakh personnel to about 50 UN peacekeeping missions since the organisation&#8217;s inception and currently has over 4,300 personnel serving in 10 UN peacekeeping missions. He said India has consistently advocated dialogue and diplomacy and has sought to give voice to the concerns of the Global South. Seeking the support of UN member states, Dr. Jaishankar said India&#8217;s presence in the Security Council would help strengthen decision-making in the vital body. If elected, India will serve a two-year term beginning in 2028. India has previously served eight terms as a non-permanent member of the Security Council, most recently in 2021-22.",
+        "title": "PMML to host ‘Walking with Legacy’ exhibition in New Delhi",
+        "summary": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, […]",
+        "article": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, featuring walking sticks and batons as markers of identity and governance. Depending on their purpose, walking sticks and batons may be plain or richly ornamented. Their handles and shafts are enhanced with materials including ivory, bone, brass, silver, copper, gold, gemstones and enamel. The finished pieces are assembled and coated with wax, oil, shellac or varnish for protection and durability. Crafted from materials such as ebony, mahogany, rosewood, teak, sheesham, bamboo, malacca cane and other hardwoods, these objects showcase traditional woodworking techniques, including seasoning, shaping, turning and polishing. The exhibition will also showcase decorative elements such as nature-inspired motifs, floral and geometric patterns, family crests, emblems and symbolic designs, engraved inscriptions, and lacquer work with natural wood finishes, offering visitors a glimpse into the craftsmanship behind these remarkable objects.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:46:58+00:00",
-        "link": "https://newsonair.gov.in/india-launches-campaign-for-un-security-council-seat-for-2028-29-term/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Mortal remains of 15 Indian tourists brought back from Vietnam",
-        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in […]",
-        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in Mumbai. The Embassy said, the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to the Vietnamese authorities and the government, the embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. A speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island in Vietnam on Friday, leaving 15 tourists dead. Sixteen survivors have also returned to India, and one tourist remains hospitalised in Vietnam.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:42:55+00:00",
-        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-brought-back-from-vietnam/",
-        "image_url": "",
-        "image_credit": "",
+        "pubDate": "2026-07-14T01:44:49+00:00",
+        "link": "https://newsonair.gov.in/pmml-to-host-walking-with-legacy-exhibition-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pmml.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -311,8 +323,8 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T17:03:56+00:00",
         "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-killed-in-vietnam-boat-accident-brought-home/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -322,8 +334,8 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T16:57:38+00:00",
         "link": "https://newsonair.gov.in/meity-launches-nidar-2-0-to-develop-drones-powered-by-indian-made-chips/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nidar.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -333,28 +345,18 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T16:50:04+00:00",
         "link": "https://newsonair.gov.in/bsnl-records-10-rise-in-revenue-in-first-quarter-of-fy-2026-27-communications-minister-jyotiraditya-scindia/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/bsnl.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "SC Seeks Rules Under Bharatiya Vayuyan Adhiniyam Within Two Weeks",
-        "summary": "The Supreme Court today directed the Centre to place on record, within two weeks, the rules framed under the Bharatiya Vayuyan Adhiniyam, 2024, a legislation intended to modernise the country&#8217;s civil aviation framework. Hearing a PIL, a bench of Justices Vikram Nath and Sandeep Mehta asked the Centre to submit the rules before the court […]",
-        "article": "The Supreme Court today directed the Centre to place on record, within two weeks, the rules framed under the Bharatiya Vayuyan Adhiniyam, 2024, a legislation intended to modernise the country&#8217;s civil aviation framework. Hearing a PIL, a bench of Justices Vikram Nath and Sandeep Mehta asked the Centre to submit the rules before the court in a sealed cover, regardless of whether they have been laid before Parliament. The counsel appearing for the Centre informed the bench that the draft rules are ready and they are in the process of translation. The counsel said the rules have to be placed before Parliament. The top court posted the matter for further hearing on August 3. The order of the top court came on the PIL seeking a robust and independent regulator that ensures transparency and passenger protection across the civil aviation sector. The plea also sought regulatory guidelines to control the unpredictable fluctuations in airfare and ancillary charges imposed by private airlines in India. Earlier, the Centre had told the apex court that the Ministry of Civil Aviation was actively considering the issues raised in the plea.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:36:42+00:00",
-        "link": "https://newsonair.gov.in/sc-seeks-rules-under-bharatiya-vayuyan-adhiniyam-within-two-weeks/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "MIB Invites Proposals for Industry-led Challenges under WAVES 2027 Create in India Challenge Season 2",
-        "summary": "The Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. […]",
-        "article": "The Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season &#8211; 2 aims to execute industry-led, government-supported, youth oriented challenges that identify and nurture creative talent, promote upskilling and capacity building. It also aims to create opportunities for collaboration across the Media and Entertainment domains, including Artificial Intelligence (AI), Digital Media, and other technology-driven creative sectors. The challenge will culminate in the showcasing of winners and winning outcomes at CreatoSphere’ during WAVES 2027. The Ministry said, a unified portal has been created for submission of proposals and selection of challenges and their respective executing entities, through a transparent and merit-based mechanism. Entities from across the Media and Entertainment sector have been invited to submit their proposals through the wavesbazaar.com online portal by 31st of this month. To support the successful implementation of selected challenges, the Ministry will provide a One-Time Grant of up to one crore rupees per challenge.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:15:00+00:00",
-        "link": "https://newsonair.gov.in/mib-invites-proposals-for-industry-led-challenges-under-waves-2027-create-in-india-challenge-season-2/",
+        "title": "India launches campaign for UN Security Council seat for 2028-29 term",
+        "summary": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s",
+        "article": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s guiding approach to promoting global peace, security and equitable development. He said the world is facing growing conflict and instability, making the role of the United Nations more critical than ever. Highlighting India&#8217;s credentials, Dr. Jaishankar said India has contributed nearly three lakh personnel to about 50 UN peacekeeping missions since the organisation&#8217;s inception and currently has over 4,300 personnel serving in 10 UN peacekeeping missions. He said India has consistently advocated dialogue and diplomacy and has sought to give voice to the concerns of the Global South. Seeking the support of UN member states, Dr. Jaishankar said India&#8217;s presence in the Security Council would help strengthen decision-making in the vital body. If elected, India will serve a two-year term beginning in 2028. India has previously served eight terms as a non-permanent member of the Security Council, most recently in 2021-22.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:55:58+00:00",
+        "link": "https://newsonair.gov.in/india-launches-campaign-for-un-security-council-seat-for-2028-29-term/",
+        "post_id": 1736609,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -362,6 +364,39 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "Bharat Tex 2026 begins at Bharat Mandapam in New Delhi",
+        "summary": "India&#8217;s largest global textile event, Bharat Tex 2026 began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh inaugurated the four days event. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyer",
+        "article": "India&#8217;s largest global textile event, Bharat Tex 2026 began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh inaugurated the four days event. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyers, investors, policymakers, international delegations, artisans, start-ups and technology providers. &nbsp; Inspired by Prime Minister Narendra Modi’s 5F Vision- Farm to Fibre to Factory to Fashion to Foreign, Bharat Tex 2026 has evolved into a premier global platform for business, investment, innovation, policy dialogue and strategic partnerships across the textile value chain. &nbsp; The third edition of Bharat Tex 2026 is witnessing participation of around seven thousand buyers and over 20 thousand textile products. International exhibitors from 14 countries are participating in the event. The event will bring together over 350 speakers including international experts, national industry leaders, policymakers and thought leaders from more than 20 countries.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T05:58:38+00:00",
+        "link": "https://newsonair.gov.in/bharat-tex-2026-begins-at-bharat-mandapam-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "IMD forecasts heavy to very heavy rainfall over Bihar, Odisha",
+        "summary": "India Meteorological Department (IMD) has forecast heavy to very heavy rainfall over Bihar and Odisha today. Heavy rainfall over these regions is expected to continue till tomorrow. Parts of North-east India, Chhattisgarh, Jharkhand, West Bengal and Sikkim are also likely to receive moderate to heavy rainfall during the day. According to the Met Department, […]",
+        "article": "India Meteorological Department (IMD) has forecast heavy to very heavy rainfall over Bihar and Odisha today. Heavy rainfall over these regions is expected to continue till tomorrow. Parts of North-east India, Chhattisgarh, Jharkhand, West Bengal and Sikkim are also likely to receive moderate to heavy rainfall during the day. According to the Met Department, thunderstorms accompanied by lightning and gusty winds are also expected today over parts of Andaman and Nicobar Islands, Andhra Pradesh, Jammu and Kashmir, Ladakh, Bihar, Gangetic West Bengal, Jharkhand, Sikkim, Karnataka and Odisha. IMD also predicted heat wave conditions today at places over Coastal Andhra Pradesh. Meanwhile, Parts of the National Capital received light showers this morning.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T03:34:26+00:00",
+        "link": "https://newsonair.gov.in/imd-forecasts-heavy-to-very-heavy-rainfall-over-bihar-odisha/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/imd.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Mortal remains of 15 Indian tourists brought back from Vietnam",
+        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in […]",
+        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in Mumbai. The Embassy said, the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to the Vietnamese authorities and the government, the embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. A speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island in Vietnam on Friday, leaving 15 tourists dead. Sixteen survivors have also returned to India, and one tourist remains hospitalised in Vietnam.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:45:55+00:00",
+        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-brought-back-from-vietnam/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "I&B Ministry invites proposals for WAVES 2027 Create in India Challenge",
         "summary": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season […]",
         "article": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season &#8211; 2 aims to execute industry-led, government-supported, youth oriented challenges that identify and nurture creative talent, promote upskilling and capacity building. It also aims to create opportunities for collaboration across the Media and Entertainment domains, including Artificial Intelligence (AI), Digital Media, and other technology-driven creative sectors. The challenge will culminate in the showcasing of winners and winning outcomes at CreatoSphere’ during WAVES 2027. The Ministry said, a unified portal has been created for submission of proposals and selection of challenges and their respective executing entities, through a transparent and merit-based mechanism. Entities from across the Media and Entertainment sector have been invited to submit their proposals through the wavesbazaar.com online portal by 31st of this month. To support the successful implementation of selected challenges, the Ministry will provide a One-Time Grant of up to one crore rupees per challenge.",
@@ -373,47 +408,25 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "PMML to host ‘Walking with Legacy’ exhibition in New Delhi",
-        "summary": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, […]",
-        "article": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, featuring walking sticks and batons as markers of identity and governance. Depending on their purpose, walking sticks and batons may be plain or richly ornamented. Their handles and shafts are enhanced with materials including ivory, bone, brass, silver, copper, gold, gemstones and enamel. The finished pieces are assembled and coated with wax, oil, shellac or varnish for protection and durability. Crafted from materials such as ebony, mahogany, rosewood, teak, sheesham, bamboo, malacca cane and other hardwoods, these objects showcase traditional woodworking techniques, including seasoning, shaping, turning and polishing. The exhibition will also showcase decorative elements such as nature-inspired motifs, floral and geometric patterns, family crests, emblems and symbolic designs, engraved inscriptions, and lacquer work with natural wood finishes, offering visitors a glimpse into the craftsmanship behind these remarkable objects.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:44:49+00:00",
-        "link": "https://newsonair.gov.in/pmml-to-host-walking-with-legacy-exhibition-in-new-delhi/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/1280px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg",
-        "image_credit": "Wikipedia – New Delhi (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "NTA opens OMR challenge window for NEET-UG 2026 candidates",
         "summary": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &#160; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question […]",
         "article": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &nbsp; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question and tick their claimed option and submit a challenge on payment of a non-refundable processing fee of 200 rupees. &nbsp; The agency has clarified that the fee will be refunded if the challenge is upheld. The OMR challenge facility will remain available till 15 of this month. Candidates can contact the NTA helpline numbers 011-40759000, 011-69227700 and write to the neetug2026@nta.ac.in.",
         "date": "2026-07-14",
         "pubDate": "2026-07-14T01:57:37+00:00",
         "link": "https://newsonair.gov.in/nta-opens-omr-challenge-window-for-neet-ug-2026-candidates/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "India launches campaign for UN Security Council seat for 2028-29 term",
-        "summary": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s",
-        "article": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s guiding approach to promoting global peace, security and equitable development. He said the world is facing growing conflict and instability, making the role of the United Nations more critical than ever. Highlighting India&#8217;s credentials, Dr. Jaishankar said India has contributed nearly three lakh personnel to about 50 UN peacekeeping missions since the organisation&#8217;s inception and currently has over 4,300 personnel serving in 10 UN peacekeeping missions. He said India has consistently advocated dialogue and diplomacy and has sought to give voice to the concerns of the Global South. Seeking the support of UN member states, Dr. Jaishankar said India&#8217;s presence in the Security Council would help strengthen decision-making in the vital body. If elected, India will serve a two-year term beginning in 2028. India has previously served eight terms as a non-permanent member of the Security Council, most recently in 2021-22.",
+        "title": "PMML to host ‘Walking with Legacy’ exhibition in New Delhi",
+        "summary": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, […]",
+        "article": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, featuring walking sticks and batons as markers of identity and governance. Depending on their purpose, walking sticks and batons may be plain or richly ornamented. Their handles and shafts are enhanced with materials including ivory, bone, brass, silver, copper, gold, gemstones and enamel. The finished pieces are assembled and coated with wax, oil, shellac or varnish for protection and durability. Crafted from materials such as ebony, mahogany, rosewood, teak, sheesham, bamboo, malacca cane and other hardwoods, these objects showcase traditional woodworking techniques, including seasoning, shaping, turning and polishing. The exhibition will also showcase decorative elements such as nature-inspired motifs, floral and geometric patterns, family crests, emblems and symbolic designs, engraved inscriptions, and lacquer work with natural wood finishes, offering visitors a glimpse into the craftsmanship behind these remarkable objects.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:46:58+00:00",
-        "link": "https://newsonair.gov.in/india-launches-campaign-for-un-security-council-seat-for-2028-29-term/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Mortal remains of 15 Indian tourists brought back from Vietnam",
-        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in […]",
-        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in Mumbai. The Embassy said, the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to the Vietnamese authorities and the government, the embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. A speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island in Vietnam on Friday, leaving 15 tourists dead. Sixteen survivors have also returned to India, and one tourist remains hospitalised in Vietnam.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:42:55+00:00",
-        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-brought-back-from-vietnam/",
-        "image_url": "",
-        "image_credit": "",
+        "pubDate": "2026-07-14T01:44:49+00:00",
+        "link": "https://newsonair.gov.in/pmml-to-host-walking-with-legacy-exhibition-in-new-delhi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pmml.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -423,8 +436,8 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T17:03:56+00:00",
         "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-killed-in-vietnam-boat-accident-brought-home/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -434,8 +447,8 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T16:57:38+00:00",
         "link": "https://newsonair.gov.in/meity-launches-nidar-2-0-to-develop-drones-powered-by-indian-made-chips/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nidar.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -445,28 +458,18 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T16:50:04+00:00",
         "link": "https://newsonair.gov.in/bsnl-records-10-rise-in-revenue-in-first-quarter-of-fy-2026-27-communications-minister-jyotiraditya-scindia/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/bsnl.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
-        "title": "SC Seeks Rules Under Bharatiya Vayuyan Adhiniyam Within Two Weeks",
-        "summary": "The Supreme Court today directed the Centre to place on record, within two weeks, the rules framed under the Bharatiya Vayuyan Adhiniyam, 2024, a legislation intended to modernise the country&#8217;s civil aviation framework. Hearing a PIL, a bench of Justices Vikram Nath and Sandeep Mehta asked the Centre to submit the rules before the court […]",
-        "article": "The Supreme Court today directed the Centre to place on record, within two weeks, the rules framed under the Bharatiya Vayuyan Adhiniyam, 2024, a legislation intended to modernise the country&#8217;s civil aviation framework. Hearing a PIL, a bench of Justices Vikram Nath and Sandeep Mehta asked the Centre to submit the rules before the court in a sealed cover, regardless of whether they have been laid before Parliament. The counsel appearing for the Centre informed the bench that the draft rules are ready and they are in the process of translation. The counsel said the rules have to be placed before Parliament. The top court posted the matter for further hearing on August 3. The order of the top court came on the PIL seeking a robust and independent regulator that ensures transparency and passenger protection across the civil aviation sector. The plea also sought regulatory guidelines to control the unpredictable fluctuations in airfare and ancillary charges imposed by private airlines in India. Earlier, the Centre had told the apex court that the Ministry of Civil Aviation was actively considering the issues raised in the plea.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:36:42+00:00",
-        "link": "https://newsonair.gov.in/sc-seeks-rules-under-bharatiya-vayuyan-adhiniyam-within-two-weeks/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "MIB Invites Proposals for Industry-led Challenges under WAVES 2027 Create in India Challenge Season 2",
-        "summary": "The Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. […]",
-        "article": "The Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season &#8211; 2 aims to execute industry-led, government-supported, youth oriented challenges that identify and nurture creative talent, promote upskilling and capacity building. It also aims to create opportunities for collaboration across the Media and Entertainment domains, including Artificial Intelligence (AI), Digital Media, and other technology-driven creative sectors. The challenge will culminate in the showcasing of winners and winning outcomes at CreatoSphere’ during WAVES 2027. The Ministry said, a unified portal has been created for submission of proposals and selection of challenges and their respective executing entities, through a transparent and merit-based mechanism. Entities from across the Media and Entertainment sector have been invited to submit their proposals through the wavesbazaar.com online portal by 31st of this month. To support the successful implementation of selected challenges, the Ministry will provide a One-Time Grant of up to one crore rupees per challenge.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:15:00+00:00",
-        "link": "https://newsonair.gov.in/mib-invites-proposals-for-industry-led-challenges-under-waves-2027-create-in-india-challenge-season-2/",
+        "title": "India launches campaign for UN Security Council seat for 2028-29 term",
+        "summary": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s",
+        "article": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s guiding approach to promoting global peace, security and equitable development. He said the world is facing growing conflict and instability, making the role of the United Nations more critical than ever. Highlighting India&#8217;s credentials, Dr. Jaishankar said India has contributed nearly three lakh personnel to about 50 UN peacekeeping missions since the organisation&#8217;s inception and currently has over 4,300 personnel serving in 10 UN peacekeeping missions. He said India has consistently advocated dialogue and diplomacy and has sought to give voice to the concerns of the Global South. Seeking the support of UN member states, Dr. Jaishankar said India&#8217;s presence in the Security Council would help strengthen decision-making in the vital body. If elected, India will serve a two-year term beginning in 2028. India has previously served eight terms as a non-permanent member of the Security Council, most recently in 2021-22.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:55:58+00:00",
+        "link": "https://newsonair.gov.in/india-launches-campaign-for-un-security-council-seat-for-2028-29-term/",
+        "post_id": 1736609,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -474,47 +477,58 @@ window.VM_NEWS = {
     ],
     "world": [
       {
+        "title": "Bangkok music bar fire death toll rises to 30",
+        "summary": "The death toll from a huge fire in a Bangkok music bar has increased to 30. Bangkok city officials today said more than 70 people remain hospitalised, with 24 of them are in critical condition. Police said an investigation into the cause of the fire and whether the bar was following safety regulations is ongoing. […]",
+        "article": "The death toll from a huge fire in a Bangkok music bar has increased to 30. Bangkok city officials today said more than 70 people remain hospitalised, with 24 of them are in critical condition. Police said an investigation into the cause of the fire and whether the bar was following safety regulations is ongoing. It added most of the people who killed were found trapped in windowless bathrooms where they may have sought to escape the flames. The city&#8217;s deadliest blaze in 17 years at the Rong Beer Na Ladprao bar broke out on late Sunday in a northern part of the Thai capital. The bar claimed to accommodate as many as 600 customers. It was not clear how many were present on Sunday night.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T05:57:10+00:00",
+        "link": "https://newsonair.gov.in/bangkok-music-bar-fire-death-toll-rises-to-30/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/b.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM Dr S Jaishankar meets UN Secretary-General Antonio Guterres",
+        "summary": "External Affairs Minister Dr S Jaishankar met the Secretary General of the United Nations Antonio Guterres, in New York yesterday. In a social media post, Dr Jaishankar said they discussed global developments, including of West Asia, Ukraine and Sudan. They also recognised the strength of India &#8211; UN cooperation. Dr Jaishankar is in New York […]",
+        "article": "External Affairs Minister Dr S Jaishankar met the Secretary General of the United Nations Antonio Guterres, in New York yesterday. In a social media post, Dr Jaishankar said they discussed global developments, including of West Asia, Ukraine and Sudan. They also recognised the strength of India &#8211; UN cooperation. Dr Jaishankar is in New York to lead the India campaign for a non-permanent seat in the United Nations Security Council for the 2028-29 term.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T03:43:58+00:00",
+        "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-meets-un-secretary-general-antonio-guterres/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/EAM-Dr-S-Jaishankar-meets-UN-Secretary-General-Antonio-Guterres.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India launches campaign for UN Security Council seat for 2028-29 term",
+        "summary": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s",
+        "article": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s guiding approach to promoting global peace, security and equitable development. He said the world is facing growing conflict and instability, making the role of the United Nations more critical than ever. Highlighting India&#8217;s credentials, Dr. Jaishankar said India has contributed nearly three lakh personnel to about 50 UN peacekeeping missions since the organisation&#8217;s inception and currently has over 4,300 personnel serving in 10 UN peacekeeping missions. He said India has consistently advocated dialogue and diplomacy and has sought to give voice to the concerns of the Global South. Seeking the support of UN member states, Dr. Jaishankar said India&#8217;s presence in the Security Council would help strengthen decision-making in the vital body. If elected, India will serve a two-year term beginning in 2028. India has previously served eight terms as a non-permanent member of the Security Council, most recently in 2021-22.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:55:58+00:00",
+        "link": "https://newsonair.gov.in/india-launches-campaign-for-un-security-council-seat-for-2028-29-term/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/unsc-seats-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "US President Donald Trump reinstates blockade on Iranian shipping in Strait of Hormuz",
+        "summary": "United States launched strikes on Iran for the third consecutive night, marking a new escalation in the resumption of hostilities. The US military&#8217;s Central Command (CENTCOM) said it struck areas around Abu Musa, Bandar Abbas, Bushehr, Chahbahar, Jask and Konarak, targeting Iranian coastal defence systems, missile and drone sites and maritime capabilities. Iran acknowledged the […]",
+        "article": "United States launched strikes on Iran for the third consecutive night, marking a new escalation in the resumption of hostilities. The US military&#8217;s Central Command (CENTCOM) said it struck areas around Abu Musa, Bandar Abbas, Bushehr, Chahbahar, Jask and Konarak, targeting Iranian coastal defence systems, missile and drone sites and maritime capabilities. Iran acknowledged the strikes but did not report any casualties or damage. US Central Command (CENTCOM) said, the strikes will continue imposing a heavy cost on Iranian forces and degrade their ability to attack innocent civilians and commercial shipping in the Strait of Hormuz. Iran responded with attacks targeting Bahrain, Jordan and two tankers associated with the United Arab Emirates travelling through the strait, killing one mariner and injuring eight others. The Emirati Defence Ministry said the attack on the tankers killed one Indian national and injured six Indians and two Ukrainians. Jordan&#8217;s military said it intercepted four missiles from Iran. US President Donald Trump threatened to destroy Pickaxe Mountain, a deeply buried nuclear site near Natanz where Western intelligence suspects Iran is building an undeclared enrichment facility. Earlier yesterday, President Donald Trump announced that the US will reinstate a blockade on Iranian shipping in the Strait of Hormuz and impose a 20 per cent charge on cargo transiting the strategic waterway to cover the cost of maritime security. In a social media post, President Trump said the blockade would apply only to Iranian ships and vessels trading with Iran. He added, the Hormuz Strait is open, and will remain open, with or without Iran. He assured that commercial traffic from other countries would continue to have free passage. On the other hand, Iran has asserted its authority over the Strait of Hormuz and rejected the US move. According to Iranian state media, Central Headquarters spokesperson Brigadier General Ebrahim Zolfaghari said Iran will not, under any circumstances, allow the US to interfere in the management of the Strait of Hormuz. He also warned that any regional country providing logistical support to US forces would be regarded as committing an act of war against Iran.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:44:39+00:00",
+        "link": "https://newsonair.gov.in/us-president-donald-trump-reinstates-blockade-on-iranian-shipping-in-strait-of-hormuz/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/TRUMP-IRAN-1-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Ukraine, nine European nations form coalition for Europe’s ballistic missile defence",
         "summary": "Ukraine and nine other countries have announced that they are forming a coalition to protect Europe from ballistic missiles. Ukraine&#8217;s President Volodymyr Zelenskyy and leaders of Denmark, France, Germany, Italy, the Netherlands, Norway, Spain, Sweden and the United Kingdom said they recognised the growing threat posed by ballistic missiles, which are harder to stop than […]",
         "article": "Ukraine and nine other countries have announced that they are forming a coalition to protect Europe from ballistic missiles. Ukraine&#8217;s President Volodymyr Zelenskyy and leaders of Denmark, France, Germany, Italy, the Netherlands, Norway, Spain, Sweden and the United Kingdom said they recognised the growing threat posed by ballistic missiles, which are harder to stop than cruise missiles or drones. &nbsp; The 10 nations said in a statement in Paris that their goal is to build a shared ballistic missile defence capability for Europe, taking advantage of Kyiv&#8217;s experience of fighting Russia&#8217;s full-scale invasion for over four years. The statement gave no time frame for setting up the defence system, and said the plan remained open to other countries.",
         "date": "2026-07-14",
         "pubDate": "2026-07-14T01:51:54+00:00",
         "link": "https://newsonair.gov.in/ukraine-nine-european-nations-form-coalition-for-europes-ballistic-missile-defence/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg/1280px-Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg.png",
-        "image_credit": "Wikipedia – Europe (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "US, Iran Claim Control of Strait of Hormuz Amid Escalating Conflict",
-        "summary": "The United States and Iran have each claimed control of the Strait of Hormuz following a weekend of escalating attacks across West Asia, raising fresh concerns over regional security and efforts to revive diplomacy. The latest escalation began after Iran struck a container ship in the Strait of Hormuz off the coast of Oman yesterday. […]",
-        "article": "The United States and Iran have each claimed control of the Strait of Hormuz following a weekend of escalating attacks across West Asia, raising fresh concerns over regional security and efforts to revive diplomacy. The latest escalation began after Iran struck a container ship in the Strait of Hormuz off the coast of Oman yesterday. Since then, no commercial vessels have passed through the strategic waterway, a key route for global oil and gas shipments. The United States has said, it carried out overnight strikes on several Iranian military targets, including air defence systems, coastal radar sites, missile and drone facilities, and small naval vessels. Washington said the operation, which reportedly included one-way attack sea drones for the first time, was in response to Iran&#8217;s attacks on commercial shipping. &nbsp; Iran, in turn, said it targeted US military bases in Jordan, Bahrain and Kuwait, as well as radar installations in Oman. The Strait of Hormuz, the narrow entrance to the Persian Gulf through which nearly one-fifth of the world&#8217;s traded oil and significant volumes of natural gas pass, has remained at the centre of the conflict, with shipping severely disrupted amid continued attacks and rising tensions.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T12:57:24+00:00",
-        "link": "https://newsonair.gov.in/us-iran-claim-control-of-strait-of-hormuz-amid-escalating-conflict/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ISS-44_Strait_of_Gibraltar.jpg/1280px-ISS-44_Strait_of_Gibraltar.jpg",
-        "image_credit": "Wikipedia – Strait (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EU Foreign Ministers Discuss Fresh Sanctions on Russia",
-        "summary": "European Union Foreign Ministers convened in Brussels today to deliberate on a fresh tranche of sanctions targeting Russia, the ongoing war in Ukraine, and an array of international security matters. Speaking to reporters ahead of the meeting, the bloc&#8217;s foreign policy chief, Kaja Kallas, said they hoped to secure agreement on 250 listings. […]",
-        "article": "European Union Foreign Ministers convened in Brussels today to deliberate on a fresh tranche of sanctions targeting Russia, the ongoing war in Ukraine, and an array of international security matters. Speaking to reporters ahead of the meeting, the bloc&#8217;s foreign policy chief, Kaja Kallas, said they hoped to secure agreement on 250 listings. She added that work was also underway on the 21st sanctions package. Ms Kallas stated that the proposed sanctions listings were a reaction to the attacks by Russia on the civilians recently. She noted that the ministers would also examine the plight of Ukrainian civilians reportedly held in Russian-controlled areas, including teachers and journalists, alongside prisoners of war and abducted children. Furthermore, Ms Kallas indicated that the Ministers will evaluate the EU&#8217;s Black Sea strategy, focusing on collaborative efforts between Bulgaria and Romania to safeguard critical infrastructure and counter hybrid threats across the region. She added that the Foreign Affairs Council is anticipated to greenlight a new partnership mission for Armenia aimed at assisting the nation in countering hybrid threats and foreign information manipulation and interference. The geopolitical landscape of the West Asia is also featured on the agenda, with ministers scheduled to engage in discussions with Gulf partners regarding regional security and the prevailing situation in the Strait of Hormuz. She asserted that the Strait of Hormuz must remain open, that freedom of navigation must be upheld, and that no tolls or fees should be imposed on vessels transiting the waterway.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T12:01:12+00:00",
-        "link": "https://newsonair.gov.in/eu-foreign-ministers-discuss-fresh-sanctions-on-russia/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Hillary_Rodham_Clinton_Secretary_of_State_with_Canadian_Foreign_Minister_Cannon_%283632885455%29.jpg",
-        "image_credit": "Wikimedia Commons (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "INS Sudarshini arrives in Boston after Sail4th 250 celebrations",
-        "summary": "Indian Naval Sail Training Ship INS Sudarshini has arrived in Boston, United States, after successfully participating in the Sail4th 250 celebrations in New York. The ship reached Boston yesterday and took part in the Grand Parade of Sails, marking the commencement of Sail Boston 2026. The Defence Ministry said INS Sudarshini joined an international fleet […]",
-        "article": "Indian Naval Sail Training Ship INS Sudarshini has arrived in Boston, United States, after successfully participating in the Sail4th 250 celebrations in New York. The ship reached Boston yesterday and took part in the Grand Parade of Sails, marking the commencement of Sail Boston 2026. The Defence Ministry said INS Sudarshini joined an international fleet of more than 60 tall ships from over 20 countries and is representing India as a maritime ambassador of goodwill during its ongoing Lokayan 2026 transoceanic expedition. The Ministry said the ship will remain open to visitors till the 15th of this month. It added that INS Sudarshini&#8217;s participation in Sail Boston 2026 further strengthens the growing India-US maritime partnership and showcases India&#8217;s rich seafaring heritage on the global stage.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T08:37:20+00:00",
-        "link": "https://newsonair.gov.in/ins-sudarshini-arrives-in-boston-after-sail4th-250-celebrations/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/INS_Sudarshini_at_the_Sail250_Virginia_Parade_of_Sails.jpg/1280px-INS_Sudarshini_at_the_Sail250_Virginia_Parade_of_Sails.jpg",
-        "image_credit": "Wikipedia – INS Sudarshini (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-8.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -524,20 +538,8 @@ window.VM_NEWS = {
         "date": "2026-07-14",
         "pubDate": "2026-07-14T01:48:33+00:00",
         "link": "https://newsonair.gov.in/indian-crew-member-killed-in-iranian-missile-strike-on-uae-tankers/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India launches campaign for UN Security Council seat for 2028-29 term",
-        "summary": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s",
-        "article": "India has officially launched its campaign for election as a non-permanent member of the United Nations Security Council (UNSC) for the 2028-29 term. Launching India&#8217;s candidature at the UN Headquarters in New York last night, External Affairs Minister Dr S. Jaishankar unveiled India&#8217;s SHANTI vision-Securing Holistic Advancement through Norms, Trust and Integrity-as the country&#8217;s guiding approach to promoting global peace, security and equitable development. He said the world is facing growing conflict and instability, making the role of the United Nations more critical than ever. Highlighting India&#8217;s credentials, Dr. Jaishankar said India has contributed nearly three lakh personnel to about 50 UN peacekeeping missions since the organisation&#8217;s inception and currently has over 4,300 personnel serving in 10 UN peacekeeping missions. He said India has consistently advocated dialogue and diplomacy and has sought to give voice to the concerns of the Global South. Seeking the support of UN member states, Dr. Jaishankar said India&#8217;s presence in the Security Council would help strengthen decision-making in the vital body. If elected, India will serve a two-year term beginning in 2028. India has previously served eight terms as a non-permanent member of the Security Council, most recently in 2021-22.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:46:58+00:00",
-        "link": "https://newsonair.gov.in/india-launches-campaign-for-un-security-council-seat-for-2028-29-term/",
-        "post_id": 1736609,
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/strait.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -547,8 +549,8 @@ window.VM_NEWS = {
         "date": "2026-07-14",
         "pubDate": "2026-07-14T00:51:06+00:00",
         "link": "https://newsonair.gov.in/eu-coordinates-efforts-to-raise-one-billion-dollars-in-aid-for-gaza/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/EU.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -558,8 +560,8 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T16:46:09+00:00",
         "link": "https://newsonair.gov.in/indian-origin-astronaut-anil-menon-set-to-begin-eight-month-iss-mission/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/anil.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -569,8 +571,8 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T14:59:07+00:00",
         "link": "https://newsonair.gov.in/uk-oxford-begins-human-trial-of-new-ebola-vaccine/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/Russian-scientists-develop-new-vaccine-against-latest-strain-of-Ebola-virus.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -580,21 +582,21 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T13:13:46+00:00",
         "link": "https://newsonair.gov.in/piyush-goyal-discusses-boosting-trade-investment-technology-ties-during-spain-visit/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/piyush-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "sports": [
       {
-        "title": "Wimbledon: Jannik Sinner to lock horns with Alexander Zverev for Men’s Singles title today",
-        "summary": "In Tennis, two Wimbledon titles will be decided today as the men&#8217;s singles and women&#8217;s doubles finals are played. World No. 1 Jannik Sinner will face Germany&#8217;s Alexander Zverev in the men&#8217;s singles final at 8:30 p.m. IST. Sinner booked his place in the title clash with a straight-sets victory over Novak Djokovic, while […]",
-        "article": "In Tennis, two Wimbledon titles will be decided today as the men&#8217;s singles and women&#8217;s doubles finals are played. World No. 1 Jannik Sinner will face Germany&#8217;s Alexander Zverev in the men&#8217;s singles final at 8:30 p.m. IST. Sinner booked his place in the title clash with a straight-sets victory over Novak Djokovic, while Zverev entered his first Wimbledon final after defeating British wildcard Arthur Fery. The women&#8217;s doubles final will begin at 5:30 p.m. IST. The 10th-seeded pair of China&#8217;s Guo Hanyu and France&#8217;s Kristina Mladenovic will take on the second-seeded duo of Canada&#8217;s Gabriela Dabrowski and Brazil&#8217;s Luisa Stefani. Yesterday, in the Women&#8217;s Singles Final, the 21-year-old Linda Noskova won her maiden Grand Slam title after defeating fellow Czech Karolina Muchova 6-2, 5-7, 6-3 at Centre Court, London. Noskova became the third Czech woman in four years to win the grass-court major, after Marketa Vondrousova in 2023 and Barbora Krejcikova in 2024.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:10:50+00:00",
-        "link": "https://newsonair.gov.in/linda-noskova-beats-karolina-muchova-to-win-first-wimbledon-tennis-title/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Jannik_Sinner_2025_US_Open.jpg",
-        "image_credit": "Wikipedia – Jannik Sinner (CC BY-SA)",
+        "title": "India women script history with Test win over England",
+        "summary": "The Indian women&#8217;s cricket team scripted history when they registered one of the biggest victories in their Test history against England at Lord&#8217;s yesterday. India handed a massive defeat to the hosts by 270 runs in the first ever women&#8217;s test at Lord’s yesterday to clinch the one-off test series. Defending a daunting target […]",
+        "article": "The Indian women&#8217;s cricket team scripted history when they registered one of the biggest victories in their Test history against England at Lord&#8217;s yesterday. India handed a massive defeat to the hosts by 270 runs in the first ever women&#8217;s test at Lord’s yesterday to clinch the one-off test series. Defending a daunting target of 457, India bowled out England at 186 on the final day. The win extended India’s impressive record in red-ball cricket, marking their seventh victory in their last 11 Tests, while preserving their unbeaten record in women’s Tests in England. Union Sports Minister Mansukh Mandaviya has congratulated Indian Women’s Cricket Team on becoming the first-ever women’s team to win a Test match at Lord&#8217;s. In a social media post, Mr Mandaviya said, a commanding 270-run victory over England makes this achievement even more special. Congratulatory messages poured in for the Indian women&#8217;s team, with Union ministers Piyush Goyal, Kiren Rijiju, and Jyotiraditya Scindia joining the Board of Control for Cricket in India in extending their wishes to the team.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T03:40:09+00:00",
+        "link": "https://newsonair.gov.in/india-women-script-history-with-test-win-over-england/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/aa.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -604,8 +606,8 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T13:06:14+00:00",
         "link": "https://newsonair.gov.in/amaravati-championship-2026-to-kick-off-on-july-15/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/amravati.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -615,8 +617,8 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T12:42:36+00:00",
         "link": "https://newsonair.gov.in/india-crush-england-by-270-runs-to-win-historic-first-womens-test-at-lords/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -626,8 +628,8 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T12:25:01+00:00",
         "link": "https://newsonair.gov.in/eight-indian-boxers-reach-asian-u19-u23-boxing-championship-finals/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/boxing.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -637,8 +639,8 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T03:04:57+00:00",
         "link": "https://newsonair.gov.in/jannik-sinner-retains-wimbledon-crown-guo-and-mladenovic-win-womens-doubles-title/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/5-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -648,8 +650,8 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T03:02:00+00:00",
         "link": "https://newsonair.gov.in/france-spain-england-and-argentina-enter-fifa-world-cup-semi-finals/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/6-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -659,8 +661,8 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T14:45:27+00:00",
         "link": "https://newsonair.gov.in/china-france-10th-seeded-pair-win-wimbledon-womens-doubles-title/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNCICW5XMAAOrYr-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -670,8 +672,19 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T08:31:31+00:00",
         "link": "https://newsonair.gov.in/fifa-world-cup-england-beat-norway-2-1-to-reach-semi-final/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpg",
+        "image_credit": "Wikipedia – FIFA World Cup (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Wimbledon: Jannik Sinner to lock horns with Alexander Zverev for Men’s Singles title today",
+        "summary": "In Tennis, two Wimbledon titles will be decided today as the men&#8217;s singles and women&#8217;s doubles finals are played. World No. 1 Jannik Sinner will face Germany&#8217;s Alexander Zverev in the men&#8217;s singles final at 8:30 p.m. IST. Sinner booked his place in the title clash with a straight-sets victory over Novak Djokovic, while […]",
+        "article": "In Tennis, two Wimbledon titles will be decided today as the men&#8217;s singles and women&#8217;s doubles finals are played. World No. 1 Jannik Sinner will face Germany&#8217;s Alexander Zverev in the men&#8217;s singles final at 8:30 p.m. IST. Sinner booked his place in the title clash with a straight-sets victory over Novak Djokovic, while Zverev entered his first Wimbledon final after defeating British wildcard Arthur Fery. The women&#8217;s doubles final will begin at 5:30 p.m. IST. The 10th-seeded pair of China&#8217;s Guo Hanyu and France&#8217;s Kristina Mladenovic will take on the second-seeded duo of Canada&#8217;s Gabriela Dabrowski and Brazil&#8217;s Luisa Stefani. Yesterday, in the Women&#8217;s Singles Final, the 21-year-old Linda Noskova won her maiden Grand Slam title after defeating fellow Czech Karolina Muchova 6-2, 5-7, 6-3 at Centre Court, London. Noskova became the third Czech woman in four years to win the grass-court major, after Marketa Vondrousova in 2023 and Barbora Krejcikova in 2024.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T08:10:50+00:00",
+        "link": "https://newsonair.gov.in/linda-noskova-beats-karolina-muchova-to-win-first-wimbledon-tennis-title/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alexander_Zverev.jpg",
+        "image_credit": "Wikipedia – Alexander Zverev (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -681,19 +694,8 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T02:41:51+00:00",
         "link": "https://newsonair.gov.in/england-beat-india-by-56-runs-to-win-series-4-0-in-southampton/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Manipur CM inaugurates 19th Governor’s Taekwondo Cup 2026",
-        "summary": "Manipur Chief Minister Yumnam Khemchand Singh today formally inaugurated the 19th Governor&#8217;s Taekwondo Cup, Manipur 2026. It is is organised by the All Manipur Taekwondo Association at Khuman Lampak Indoor Stadium, Imphal. The championship which will continue till July 15, has drawn a total of 1,141 players representing 29 units, comprising 691 men and 450 […]",
-        "article": "Manipur Chief Minister Yumnam Khemchand Singh today formally inaugurated the 19th Governor&#8217;s Taekwondo Cup, Manipur 2026. It is is organised by the All Manipur Taekwondo Association at Khuman Lampak Indoor Stadium, Imphal. The championship which will continue till July 15, has drawn a total of 1,141 players representing 29 units, comprising 691 men and 450 women. Addressing the gathering, the Chief Minister said that Manipur has produced more than 40 international players from the State. He said that this success is possible with the unwavering commitment of the All Manipur Taekwondo Association, its technical officials, coaches and teachers in nurturing talented sportspersons. .",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T16:16:29+00:00",
-        "link": "https://newsonair.gov.in/manipur-cm-inaugurates-19th-governors-taekwondo-cup-2026/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/View_across_Ocean_Village_Marina_%28geograph_5432669%29.jpg",
+        "image_credit": "Wikipedia – Southampton (CC BY-SA)",
         "source": "Prasar Bharati"
       }
     ],
@@ -710,69 +712,25 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Gold and silver prices decline over week",
-        "summary": "In the bullion market, gold and silver prices declined over the week. At the Multi Commodity Exchange, Gold futures for the August contract shed 2.6 per cent during the week to settle at 1,43,478 rupees per 10 grams. Meanwhile, Silver futures for the September contract plunged 6.2 per cent to close at 2,22,664 rupees […]",
-        "article": "In the bullion market, gold and silver prices declined over the week. At the Multi Commodity Exchange, Gold futures for the August contract shed 2.6 per cent during the week to settle at 1,43,478 rupees per 10 grams. Meanwhile, Silver futures for the September contract plunged 6.2 per cent to close at 2,22,664 rupees per kilogram. At the Commodity Exchange (COMEX), Gold futures for the August contract dipped 0.3 per cent during the week to settle at 4,113.7 dollars per troy ounce. Silver futures for the September contract dropped nearly one and a half per cent over the week to end at 60.16 dollars per troy ounce.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T12:12:27+00:00",
-        "link": "https://newsonair.gov.in/gold-and-silver-prices-decline-over-week/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/1280px-Gold-crystals.jpg",
-        "image_credit": "Wikipedia – Gold (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Oil prices up",
-        "summary": "Global crude oil prices rose today as renewed geopolitical concerns reignited worries about supply disruptions. Brent crude was trading 0.7 per cent up at 76 US dollars and 84 cents per barrel. West Texas Intermediate crude was trading over half a per cent up at 72 US dollars and 48 cents per barrel, when reports […]",
-        "article": "Global crude oil prices rose today as renewed geopolitical concerns reignited worries about supply disruptions. Brent crude was trading 0.7 per cent up at 76 US dollars and 84 cents per barrel. West Texas Intermediate crude was trading over half a per cent up at 72 US dollars and 48 cents per barrel, when reports last came in.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T12:51:18+00:00",
-        "link": "https://newsonair.gov.in/oil-prices-up-5/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Price_Utah.jpg/1280px-Price_Utah.jpg",
-        "image_credit": "Wikimedia Commons (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Gold, silver prices down",
-        "summary": "In the Indian bullion market, 24-carat gold was trading 0.8 per cent down at 1.44,720 rupees per 10 grams, while Silver was trading 1.8 per cent down at 2,22,610 rupees per kilogram a short while ago. At the Multi-Commodity Exchange, Gold for the August contract was trading 0.7 per cent down at 1,44,240 rupees […]",
-        "article": "In the Indian bullion market, 24-carat gold was trading 0.8 per cent down at 1.44,720 rupees per 10 grams, while Silver was trading 1.8 per cent down at 2,22,610 rupees per kilogram a short while ago. At the Multi-Commodity Exchange, Gold for the August contract was trading 0.7 per cent down at 1,44,240 rupees per 10 grams, and Silver for the September contract was trading 1.8 per cent down at 2,22,345 rupees per kilogram, when reports last came in.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T11:43:52+00:00",
-        "link": "https://newsonair.gov.in/gold-silver-prices-down-5/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/1280px-Gold-crystals.jpg",
-        "image_credit": "Wikipedia – Gold (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "SIP contributions increased by 2.7% in June compared to May",
-        "summary": "Inflows into Indian equity mutual funds accelerated over 26 per cent to 28,973 crore rupees in June, compared with 22,908 crore rupees in May. According to data released by the Association of Mutual Funds in India (AMFI), Systematic Investment Plan (SIP) contributions stood at 31,781 crore rupees in June, marking a 2.7 per cent increase […]",
-        "article": "Inflows into Indian equity mutual funds accelerated over 26 per cent to 28,973 crore rupees in June, compared with 22,908 crore rupees in May. According to data released by the Association of Mutual Funds in India (AMFI), Systematic Investment Plan (SIP) contributions stood at 31,781 crore rupees in June, marking a 2.7 per cent increase from May. Among the equity fund categories, Mid-cap funds attracted the highest inflows in june, garnering more than 6,000 crore rupees. They were followed by small-cap funds, flexi-cap funds, Multi-cap funds and large-cap funds. Meanwhile, the trend reversed in Gold Exchange Traded Funds (ETFs), which witnessed inflows of 3,443 crore rupees last month as compared with the outflows recorded in previous months. However, Debt funds continued to witness net outflows in June, with total withdrawals of around 1 lakh 9 thousand crore rupees.",
-        "date": "2026-07-10",
-        "pubDate": "2026-07-10T11:00:31+00:00",
-        "link": "https://newsonair.gov.in/sip-contributions-increased-by-2-7-in-june-compared-to-may/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Podophyllum_peltatum_Shenks_Ferry_2.jpg/1280px-Podophyllum_peltatum_Shenks_Ferry_2.jpg",
-        "image_credit": "Wikipedia – May (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Rupee appreciates by 18 paise to close at 95.38 against US dollar",
-        "summary": "In the forex market today, the rupee appreciated by 18 paise to close at 95 rupees and 38 paise against the US dollar. The dollar index, which indicates the US dollar&#8217;s strength against a basket of six other leading currencies, was trading at 101 in intra-day trade today.",
-        "article": "In the forex market today, the rupee appreciated by 18 paise to close at 95 rupees and 38 paise against the US dollar. The dollar index, which indicates the US dollar&#8217;s strength against a basket of six other leading currencies, was trading at 101 in intra-day trade today.",
-        "date": "2026-07-09",
-        "pubDate": "2026-07-09T11:40:30+00:00",
-        "link": "https://newsonair.gov.in/rupee-appreciates-by-18-paise-to-close-at-95-38-against-us-dollar/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Rupee_Usage.png/1280px-Rupee_Usage.png",
-        "image_credit": "Wikipedia – Rupee (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "India’s Exports Rise 11.37% to Over $232 Billion in April–June",
         "summary": "India’s total exports during April to June this year is estimated at over 232 billion US dollar registering a positive growth of 11.37 percent as compared to same period last year. Commerce and Industry Ministry said that the total exports for June this year is estimated at 73.45 Billion US dollar, registering a positive growth […]",
         "article": "India’s total exports during April to June this year is estimated at over 232 billion US dollar registering a positive growth of 11.37 percent as compared to same period last year. Commerce and Industry Ministry said that the total exports for June this year is estimated at 73.45 Billion US dollar, registering a positive growth of 9.48 percent as compared to same month last year. The major drivers of merchandise exports growth in June include Gems and Jewellery, Engineering Goods, Organic and Inorganic Chemicals, Electronic Goods, and Rice. The electronic goods exports increased by around 19 per cent from 4.14 Billion US dollar in June last year to 4.93 Billion US dollar in June this year. The Ministry said, the total imports (Merchandise and Services combined) for June this year is estimated at 88.76 Billion US dollar, registering a positive growth of over 26 percent as compared to same month last year.",
         "date": "2026-07-13",
         "pubDate": "2026-07-13T12:35:52+00:00",
         "link": "https://newsonair.gov.in/indias-exports-rise-11-37-to-over-232-billion-in-april-june/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/export.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Gold and silver prices decline over week",
+        "summary": "In the bullion market, gold and silver prices declined over the week. At the Multi Commodity Exchange, Gold futures for the August contract shed 2.6 per cent during the week to settle at 1,43,478 rupees per 10 grams. Meanwhile, Silver futures for the September contract plunged 6.2 per cent to close at 2,22,664 rupees […]",
+        "article": "In the bullion market, gold and silver prices declined over the week. At the Multi Commodity Exchange, Gold futures for the August contract shed 2.6 per cent during the week to settle at 1,43,478 rupees per 10 grams. Meanwhile, Silver futures for the September contract plunged 6.2 per cent to close at 2,22,664 rupees per kilogram. At the Commodity Exchange (COMEX), Gold futures for the August contract dipped 0.3 per cent during the week to settle at 4,113.7 dollars per troy ounce. Silver futures for the September contract dropped nearly one and a half per cent over the week to end at 60.16 dollars per troy ounce.",
+        "date": "2026-07-12",
+        "pubDate": "2026-07-12T12:12:27+00:00",
+        "link": "https://newsonair.gov.in/gold-and-silver-prices-decline-over-week/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/gold-silver.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -782,8 +740,41 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T11:36:16+00:00",
         "link": "https://newsonair.gov.in/fpis-turn-net-buyers-of-indian-equities-after-four-months/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/FPI.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Oil prices up",
+        "summary": "Global crude oil prices rose today as renewed geopolitical concerns reignited worries about supply disruptions. Brent crude was trading 0.7 per cent up at 76 US dollars and 84 cents per barrel. West Texas Intermediate crude was trading over half a per cent up at 72 US dollars and 48 cents per barrel, when reports […]",
+        "article": "Global crude oil prices rose today as renewed geopolitical concerns reignited worries about supply disruptions. Brent crude was trading 0.7 per cent up at 76 US dollars and 84 cents per barrel. West Texas Intermediate crude was trading over half a per cent up at 72 US dollars and 48 cents per barrel, when reports last came in.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T12:51:18+00:00",
+        "link": "https://newsonair.gov.in/oil-prices-up-5/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Gold, silver prices down",
+        "summary": "In the Indian bullion market, 24-carat gold was trading 0.8 per cent down at 1.44,720 rupees per 10 grams, while Silver was trading 1.8 per cent down at 2,22,610 rupees per kilogram a short while ago. At the Multi-Commodity Exchange, Gold for the August contract was trading 0.7 per cent down at 1,44,240 rupees […]",
+        "article": "In the Indian bullion market, 24-carat gold was trading 0.8 per cent down at 1.44,720 rupees per 10 grams, while Silver was trading 1.8 per cent down at 2,22,610 rupees per kilogram a short while ago. At the Multi-Commodity Exchange, Gold for the August contract was trading 0.7 per cent down at 1,44,240 rupees per 10 grams, and Silver for the September contract was trading 1.8 per cent down at 2,22,345 rupees per kilogram, when reports last came in.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T11:43:52+00:00",
+        "link": "https://newsonair.gov.in/gold-silver-prices-down-5/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/gold-silver.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "SIP contributions increased by 2.7% in June compared to May",
+        "summary": "Inflows into Indian equity mutual funds accelerated over 26 per cent to 28,973 crore rupees in June, compared with 22,908 crore rupees in May. According to data released by the Association of Mutual Funds in India (AMFI), Systematic Investment Plan (SIP) contributions stood at 31,781 crore rupees in June, marking a 2.7 per cent increase […]",
+        "article": "Inflows into Indian equity mutual funds accelerated over 26 per cent to 28,973 crore rupees in June, compared with 22,908 crore rupees in May. According to data released by the Association of Mutual Funds in India (AMFI), Systematic Investment Plan (SIP) contributions stood at 31,781 crore rupees in June, marking a 2.7 per cent increase from May. Among the equity fund categories, Mid-cap funds attracted the highest inflows in june, garnering more than 6,000 crore rupees. They were followed by small-cap funds, flexi-cap funds, Multi-cap funds and large-cap funds. Meanwhile, the trend reversed in Gold Exchange Traded Funds (ETFs), which witnessed inflows of 3,443 crore rupees last month as compared with the outflows recorded in previous months. However, Debt funds continued to witness net outflows in June, with total withdrawals of around 1 lakh 9 thousand crore rupees.",
+        "date": "2026-07-10",
+        "pubDate": "2026-07-10T11:00:31+00:00",
+        "link": "https://newsonair.gov.in/sip-contributions-increased-by-2-7-in-june-compared-to-may/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/01/SIP-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -793,8 +784,8 @@ window.VM_NEWS = {
         "date": "2026-07-10",
         "pubDate": "2026-07-10T10:51:21+00:00",
         "link": "https://newsonair.gov.in/domestic-markets-end-with-modest-gains-despite-positive-opening/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/SENSEX.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -804,8 +795,19 @@ window.VM_NEWS = {
         "date": "2026-07-09",
         "pubDate": "2026-07-09T15:57:07+00:00",
         "link": "https://newsonair.gov.in/govt-waives-basic-customs-duty-on-key-components-of-electronic-devices-to-promote-domestic-production/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Electronics.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Rupee appreciates by 18 paise to close at 95.38 against US dollar",
+        "summary": "In the forex market today, the rupee appreciated by 18 paise to close at 95 rupees and 38 paise against the US dollar. The dollar index, which indicates the US dollar&#8217;s strength against a basket of six other leading currencies, was trading at 101 in intra-day trade today.",
+        "article": "In the forex market today, the rupee appreciated by 18 paise to close at 95 rupees and 38 paise against the US dollar. The dollar index, which indicates the US dollar&#8217;s strength against a basket of six other leading currencies, was trading at 101 in intra-day trade today.",
+        "date": "2026-07-09",
+        "pubDate": "2026-07-09T11:40:30+00:00",
+        "link": "https://newsonair.gov.in/rupee-appreciates-by-18-paise-to-close-at-95-38-against-us-dollar/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/02/rupee.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
@@ -817,30 +819,8 @@ window.VM_NEWS = {
         "date": "2026-06-04",
         "pubDate": "2026-06-04T08:26:03+00:00",
         "link": "https://newsonair.gov.in/veteran-producer-and-former-cbfc-chairperson-pahlaj-nihalani-passes-away/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sydney_2015_Anzac_Day_march_%2817119683648%29.jpg/1280px-Sydney_2015_Anzac_Day_march_%2817119683648%29.jpg",
-        "image_credit": "Wikipedia – Veteran (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "UK Named Country Partner for Hornbill Festival 2025 in Nagaland",
-        "summary": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence […]",
-        "article": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence of British High Commissioner to India Lindy Cameron, and senior representatives from both sides at New Delhi. Under this partnership, the British Council, working with the British Deputy High Commission in Kolkata, will curate meaningful programming for the festival, including bringing an artist from the UK to participate in the festival. The state also named Air India Express as the Official Travel Partner for the Hornbill Festival. The partnership was announced by Advisor to Chief Minister, Abu Metha and Managing Director, Air India Express, Aloke Singh, at the airline&#8217;s headquarters in Gurugram in the presence of several key officials. As part of the collaboration, Air India Express will introduce a Boeing 737-8 aircraft featuring a livery inspired by the Tsüngkotepsü design of the Ao Naga tribe’s warrior shawl, under its ‘Tales of India’ initiative. The special aircraft will be received by Chief Minister Neiphiu Rio at Dimapur Airport on November 22. The airline will also offer a 15 percent discount on flights to and from Nagaland, starting November 20. Welcoming the partnerships, Chief Minister Neiphiu Rio expressed hopes that the ties will drive tourism, cultural exchange, and economic growth.",
-        "date": "2025-11-18",
-        "pubDate": "2025-11-18T06:24:16+00:00",
-        "link": "https://newsonair.gov.in/uk-named-country-partner-for-hornbill-festival-2025-in-nagaland/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kapamodzu.jpg/1280px-Kapamodzu.jpg",
-        "image_credit": "Wikipedia – Nagaland (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "BIFF 2025: Shape of Momo to Premiere in Vision Section of Asia’s Biggest Film Festival",
-        "summary": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &#160; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its […]",
-        "article": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &nbsp; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its Vision Section highlights promising works from independent Asian cinema, showcasing daring and original stories from both emerging and mid-career directors. &nbsp; The selection places Shape of Momo alongside some of the most exciting contemporary films from across Asia. The film will also be screened at the San Sebastián International Film Festival in September, marking a significant step in its international journey.",
-        "date": "2025-08-21",
-        "pubDate": "2025-08-21T05:59:25+00:00",
-        "link": "https://newsonair.gov.in/biff-2025-shape-of-momo-to-premiere-in-vision-section-of-asias-biggest-film-festival/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Premiere_at_Chinese_Theater_%283555047236%29.jpg/1280px-Premiere_at_Chinese_Theater_%283555047236%29.jpg",
-        "image_credit": "Wikipedia – Premiere (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/pahln.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -850,8 +830,8 @@ window.VM_NEWS = {
         "date": "2025-12-25",
         "pubDate": "2025-12-25T06:41:17+00:00",
         "link": "https://newsonair.gov.in/150th-shree-baba-harivallabh-sangeet-sammelan-begins-in-jalandhar-tomorrow/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/hargobind.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -861,8 +841,8 @@ window.VM_NEWS = {
         "date": "2025-11-27",
         "pubDate": "2025-11-27T07:31:40+00:00",
         "link": "https://newsonair.gov.in/goa-cm-releases-commemorative-stamp-honouring-filmmaker-k-vaikunth-at-iffi-56/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/pramod.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -872,8 +852,19 @@ window.VM_NEWS = {
         "date": "2025-11-18",
         "pubDate": "2025-11-18T08:00:22+00:00",
         "link": "https://newsonair.gov.in/media-and-entertainment-sector-among-indias-fastest-growing-industries/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/media.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "UK Named Country Partner for Hornbill Festival 2025 in Nagaland",
+        "summary": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence […]",
+        "article": "The Government of Nagaland has announced the United Kingdom as the country partner for the upcoming Hornbill Festival 2025, to be held from 1 to 10 December at Kisama, Kohima. A formal agreement was signed yesterday by Chief Minister of Nagaland Neiphiu Rio and Country Director India, British Council, Alison Barrett, in the presence of British High Commissioner to India Lindy Cameron, and senior representatives from both sides at New Delhi. Under this partnership, the British Council, working with the British Deputy High Commission in Kolkata, will curate meaningful programming for the festival, including bringing an artist from the UK to participate in the festival. The state also named Air India Express as the Official Travel Partner for the Hornbill Festival. The partnership was announced by Advisor to Chief Minister, Abu Metha and Managing Director, Air India Express, Aloke Singh, at the airline&#8217;s headquarters in Gurugram in the presence of several key officials. As part of the collaboration, Air India Express will introduce a Boeing 737-8 aircraft featuring a livery inspired by the Tsüngkotepsü design of the Ao Naga tribe’s warrior shawl, under its ‘Tales of India’ initiative. The special aircraft will be received by Chief Minister Neiphiu Rio at Dimapur Airport on November 22. The airline will also offer a 15 percent discount on flights to and from Nagaland, starting November 20. Welcoming the partnerships, Chief Minister Neiphiu Rio expressed hopes that the ties will drive tourism, cultural exchange, and economic growth.",
+        "date": "2025-11-18",
+        "pubDate": "2025-11-18T06:24:16+00:00",
+        "link": "https://newsonair.gov.in/uk-named-country-partner-for-hornbill-festival-2025-in-nagaland/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/hornbill.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -883,8 +874,8 @@ window.VM_NEWS = {
         "date": "2025-11-17",
         "pubDate": "2025-11-17T04:43:41+00:00",
         "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-urges-media-to-be-partners-in-nation-building-at-ramoji-excellence-awards-2025/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/CP-radha.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -894,8 +885,8 @@ window.VM_NEWS = {
         "date": "2025-11-02",
         "pubDate": "2025-11-02T16:25:04+00:00",
         "link": "https://newsonair.gov.in/prasar-bharati-and-culture-ministry-launch-month-long-akashvani-sangeet-sammelan-nationwide/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/akashvani.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -905,8 +896,19 @@ window.VM_NEWS = {
         "date": "2025-08-22",
         "pubDate": "2025-08-22T06:34:48+00:00",
         "link": "https://newsonair.gov.in/comedian-and-veteran-punjabi-actor-jaswinder-bhalla-passes-away/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/bhalla.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "BIFF 2025: Shape of Momo to Premiere in Vision Section of Asia’s Biggest Film Festival",
+        "summary": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &#160; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its […]",
+        "article": "Tribeny Rai’s debut feature, Shape of Momo, has been officially selected for the Vision Section of the Busan International Film Festival (BIFF) 2025, the largest and most prestigious film festival in Asia. &nbsp; BIFF, held annually in Busan, South Korea, is renowned for discovering bold new voices and connecting Asian cinema with the world. Its Vision Section highlights promising works from independent Asian cinema, showcasing daring and original stories from both emerging and mid-career directors. &nbsp; The selection places Shape of Momo alongside some of the most exciting contemporary films from across Asia. The film will also be screened at the San Sebastián International Film Festival in September, marking a significant step in its international journey.",
+        "date": "2025-08-21",
+        "pubDate": "2025-08-21T05:59:25+00:00",
+        "link": "https://newsonair.gov.in/biff-2025-shape-of-momo-to-premiere-in-vision-section-of-asias-biggest-film-festival/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/bfii.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -916,8 +918,8 @@ window.VM_NEWS = {
         "date": "2025-02-17",
         "pubDate": "2025-02-17T02:02:43+00:00",
         "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-strengthens-ties-with-indian-ocean-nations-at-muscat-conference/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/02/cats-476.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
@@ -929,30 +931,8 @@ window.VM_NEWS = {
         "date": "2026-03-24",
         "pubDate": "2026-03-24T07:13:43+00:00",
         "link": "https://newsonair.gov.in/health-minister-jp-nadda-urges-citizens-to-eliminate-tb-on-world-tuberculosis-day/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/World_Tuberculosis_Day_%287020132217%29.jpg/1280px-World_Tuberculosis_Day_%287020132217%29.jpg",
-        "image_credit": "Wikipedia – World Tuberculosis Day (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "West Bengal reports two suspected Nipah cases; centre sends response team",
-        "summary": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry […]",
-        "article": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry of Health and Family Welfare has shared a video in which Union Health Minister Jagat Prakash Nadda said the Central government firmly stands with the State government, and it is providing comprehensive technical, logistical and operational support to the State Government for the effective management and prevention of the outbreak. He added that upon receipt of information, the Secretary, Health and Family Welfare, immediately held discussions with the Chief Secretary and Principal Secretary, Health of West Bengal, to review the situation. Mr Nadda said he had also spoken to the West Bengal Chief Minister, Mamata Banerjee and emphasised for Centre- State co-ordination in this direction. Meanwhile, our Kolkata Correspondent reports the West Bengal government has implemented comprehensive precautionary measures to contain the spread of the virus, including two healthcare workers at a private hospital in Barasat, North 24 Parganas. State&#8217;s Chief Secretary, Nandini Chakraborty, convened an emergency meeting at Nabanna with the state&#8217;s Health Secretary and other senior officials to review the situation. Briefing the press, she confirmed that both patients are currently undergoing treatment, with a specialized medical team monitoring their condition. Preliminary investigations suggest the individuals contracted the virus during a work-related visit to Purba Bardhaman. Consequently, surveillance has been intensified across Purba Bardhaman, North 24 Parganas, and Nadia districts, while authorities are actively tracing high-risk contacts. To assist citizens, the State government has launched two helpline numbers: 033 2333-0180 and 9874708858. &nbsp;",
-        "date": "2026-01-13",
-        "pubDate": "2026-01-13T03:53:37+00:00",
-        "link": "https://newsonair.gov.in/west-bengal-reports-two-suspected-nipah-cases-centre-sends-response-team/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Howrah_bridge_betwixt_Lights.jpg/1280px-Howrah_bridge_betwixt_Lights.jpg",
-        "image_credit": "Wikipedia – West Bengal (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Chikungunya Outbreak in China: Over 7,000 Cases Emerge in Guangdong",
-        "summary": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. […]",
-        "article": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. Apart from Foshan, at least 12 other cities in China&#8217;s southern Guangdong province have reported infections from this a mosquito-borne virus, with nearly 3,000 cases got reported last week. Although rare in China, chikungunya outbreaks are common in South and South East Asia and parts of Africa. On Monday, Hong Kong reported its first case of the viral disease after a 12-year-old boy who developed fever, rash and joint pain after traveling to Foshan in July. An official said, all the reported cases have been mild so far, with 95 per cent of the patients discharged within seven days, Still, the cases have led to some panic, given the virus is not widely known in the country. Meanwhile, the US has urged travellers to China to exercise &#8220;increased caution&#8221; following the outbreak.",
-        "date": "2025-08-05",
-        "pubDate": "2025-08-05T12:03:13+00:00",
-        "link": "https://newsonair.gov.in/chikungunya-outbreak-in-china-over-7000-cases-emerge-in-guangdong/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg/1280px-China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg",
-        "image_credit": "Wikipedia – Guangdong (CC BY-SA)",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/TB-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -962,8 +942,8 @@ window.VM_NEWS = {
         "date": "2026-03-24",
         "pubDate": "2026-03-24T06:13:25+00:00",
         "link": "https://newsonair.gov.in/india-tightens-surveillance-on-glp-1-weight-loss-drug-sales/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/wei.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -973,8 +953,19 @@ window.VM_NEWS = {
         "date": "2026-01-13",
         "pubDate": "2026-01-13T11:18:49+00:00",
         "link": "https://newsonair.gov.in/vp-radhakrishnan-urges-youth-to-be-drug-free-for-a-viksit-bharat/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/vp-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "West Bengal reports two suspected Nipah cases; centre sends response team",
+        "summary": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry […]",
+        "article": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry of Health and Family Welfare has shared a video in which Union Health Minister Jagat Prakash Nadda said the Central government firmly stands with the State government, and it is providing comprehensive technical, logistical and operational support to the State Government for the effective management and prevention of the outbreak. He added that upon receipt of information, the Secretary, Health and Family Welfare, immediately held discussions with the Chief Secretary and Principal Secretary, Health of West Bengal, to review the situation. Mr Nadda said he had also spoken to the West Bengal Chief Minister, Mamata Banerjee and emphasised for Centre- State co-ordination in this direction. Meanwhile, our Kolkata Correspondent reports the West Bengal government has implemented comprehensive precautionary measures to contain the spread of the virus, including two healthcare workers at a private hospital in Barasat, North 24 Parganas. State&#8217;s Chief Secretary, Nandini Chakraborty, convened an emergency meeting at Nabanna with the state&#8217;s Health Secretary and other senior officials to review the situation. Briefing the press, she confirmed that both patients are currently undergoing treatment, with a specialized medical team monitoring their condition. Preliminary investigations suggest the individuals contracted the virus during a work-related visit to Purba Bardhaman. Consequently, surveillance has been intensified across Purba Bardhaman, North 24 Parganas, and Nadia districts, while authorities are actively tracing high-risk contacts. To assist citizens, the State government has launched two helpline numbers: 033 2333-0180 and 9874708858. &nbsp;",
+        "date": "2026-01-13",
+        "pubDate": "2026-01-13T03:53:37+00:00",
+        "link": "https://newsonair.gov.in/west-bengal-reports-two-suspected-nipah-cases-centre-sends-response-team/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/09/nipha.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -984,8 +975,19 @@ window.VM_NEWS = {
         "date": "2025-08-13",
         "pubDate": "2025-08-13T11:11:04+00:00",
         "link": "https://newsonair.gov.in/wild-poliovirus-detected-in-sewage-samples-across-42-sites-in-pakistan/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/PPPPP.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Chikungunya Outbreak in China: Over 7,000 Cases Emerge in Guangdong",
+        "summary": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. […]",
+        "article": "Around seven thousand cases of chikungunya have been reported across China&#8217;s Guangdong province since July, prompting measures similar to those taken during the Covid-19 pandemic. In China&#8217;s Foshan city, which has been hit the hardest, patients admitted to hospitals are discharged only after they test negative or at the end of a week-long stay. Apart from Foshan, at least 12 other cities in China&#8217;s southern Guangdong province have reported infections from this a mosquito-borne virus, with nearly 3,000 cases got reported last week. Although rare in China, chikungunya outbreaks are common in South and South East Asia and parts of Africa. On Monday, Hong Kong reported its first case of the viral disease after a 12-year-old boy who developed fever, rash and joint pain after traveling to Foshan in July. An official said, all the reported cases have been mild so far, with 95 per cent of the patients discharged within seven days, Still, the cases have led to some panic, given the virus is not widely known in the country. Meanwhile, the US has urged travellers to China to exercise &#8220;increased caution&#8221; following the outbreak.",
+        "date": "2025-08-05",
+        "pubDate": "2025-08-05T12:03:13+00:00",
+        "link": "https://newsonair.gov.in/chikungunya-outbreak-in-china-over-7000-cases-emerge-in-guangdong/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/chikungunya.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -995,8 +997,8 @@ window.VM_NEWS = {
         "date": "2025-08-05",
         "pubDate": "2025-08-05T02:16:32+00:00",
         "link": "https://newsonair.gov.in/pm-matru-vandana-yojana-registration-drive-extended-till-august-15/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/pradhanmantri-matri-vandana-yojana-pmmvy.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1006,8 +1008,8 @@ window.VM_NEWS = {
         "date": "2025-07-28",
         "pubDate": "2025-07-28T03:24:29+00:00",
         "link": "https://newsonair.gov.in/vaccines-prevented-over-2-5-million-covid-deaths-worldwide-study/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/07/ffd.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
       {
@@ -1017,14 +1019,113 @@ window.VM_NEWS = {
         "date": "2025-07-14",
         "pubDate": "2025-07-14T11:41:18+00:00",
         "link": "https://newsonair.gov.in/world-embracing-ayurvedas-science-and-potential-ayush-minister/",
-        "image_url": "",
-        "image_credit": "",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/Pratap-Rao-Jadhav-1-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ]
   },
   "hi": {
     "top": [
+      {
+        "title": "यमन में ईरान समर्थित हूती विद्रोहियों ने कहा कि उन्होंने सऊदी अरब के आभा इंटरनेशनल एयरपोर्ट पर मिसाइलें और ड्रोन हमले किए",
+        "summary": "यमन में ईरान समर्थित हूती विद्रोहियों ने कहा कि उन्होंने कल सऊदी अरब के आभा इंटरनेशनल एयरपोर्ट पर मिसाइलें और ड्रोन हमले किए। यह कदम यमन के सना इंटरनेशनल एयरपोर्ट पर पहले हुए हवाई हमलों के जवाब में उठाया गया है। उनका आरोप है कि ये हमले कल रियाद ने किए थे। इसमें किसी के […]",
+        "article": "यमन में ईरान समर्थित हूती विद्रोहियों ने कहा कि उन्होंने कल सऊदी अरब के आभा इंटरनेशनल एयरपोर्ट पर मिसाइलें और ड्रोन हमले किए। यह कदम यमन के सना इंटरनेशनल एयरपोर्ट पर पहले हुए हवाई हमलों के जवाब में उठाया गया है। उनका आरोप है कि ये हमले कल रियाद ने किए थे। इसमें किसी के हताहत होने की खबर नहीं है। इन हमलों ने तनाव को उस स्तर पर पहुंचा दिया है जो सऊदी के नेतृत्व वाले गठबंधन द्वारा कई साल पहले हूती-नियंत्रित इलाकों पर हमले के बाद से नहीं देखा गया था। सऊदी अरब के अधिकारियों ने यमन में हवाई हमलों के बारे में तुरंत कोई प्रतिक्रिया नहीं दी। हूती सैन्य प्रवक्ता ब्रिगेडियर जनरल याह्या सरी ने एक वीडियो बयान में एयरलाइंस को सऊदी हवाई क्षेत्र से उड़ान भरने के खिलाफ चेतावनी दी। प्रवक्ता ने कहा कि जब तक सना इंटरनेशनल एयरपोर्ट पर लगी नाकेबंदी नहीं हटाई जाती, तब तक इन चेतावनियों को गंभीरता से लिया जाना चाहिए। हूती सैन्य प्रवक्ता ने चेतावनी दी कि इस आक्रामकता का जवाब दिया जाएगा और इसे बिना सजा के नहीं छोड़ा जाएगा। यमन में अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त सरकार ने पहले कहा था कि सना इंटरनेशनल एयरपोर्ट पर हुए हमलों का उद्देश्य एक ईरानी विमान को उतरने से रोकना था। संयुक्त राष्ट्र सुरक्षा परिषद के अधिकारियों ने आज एक आपात बैठक में तनाव के और बढ़ने के जोखिम पर चिंता व्यक्त की। यमन में वैधता बहाल करने वाले सऊदी-नेतृत्व वाले गठबंधन के आधिकारिक प्रवक्ता मेजर जनरल तुर्की अल-माल्की ने सोशल मीडिया पोस्ट में कहा कि सऊदी वायु रक्षा प्रणालियों ने हूतियों द्वारा दागी गई बैलिस्टिक मिसाइलों को नाकाम कर दिया, हालांकि उन्होंने और विवरण नहीं दिया। सऊदी-नेतृत्व वाले गठबंधन ने आखिरी बार हूती-नियंत्रित इलाकों को तब निशाना बनाया था जब 2022 में लड़ाई रोकने के लिए संयुक्त राष्ट्र की मध्यस्थता में समझौता लागू हुआ था।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T03:46:41+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%af%e0%a4%ae%e0%a4%a8-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8-%e0%a4%b8%e0%a4%ae%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a4%bf%e0%a4%a4-%e0%a4%b9%e0%a5%82%e0%a4%a4%e0%a5%80/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका: सीनेटर लिंडसे ग्राहम के निधन के बाद डार्लिन ग्राहम नॉर्डोन कार्यवाहक सीनेटर नियुक्त",
+        "summary": "अमरीका के दक्षिणी केरोलिना से सीनेटर लिंडसे ग्राहम निधन के बाद, उनकी बहन डार्लिन ग्राहम नॉर्डोन को उनके स्‍थान पर कार्यवाहक सीनेटर नियुक्त किया गया है। दक्षिण कैरोलिना के गवर्नर हेनरी मैकमास्टर ने कल औपचारिक रूप से उन्हें इस पद के लिए चुना। मैकमास्टर ने कहा कि वह ग्राहम के अगले साल समाप्त होने वाले […]",
+        "article": "अमरीका के दक्षिणी केरोलिना से सीनेटर लिंडसे ग्राहम निधन के बाद, उनकी बहन डार्लिन ग्राहम नॉर्डोन को उनके स्&#x200d;थान पर कार्यवाहक सीनेटर नियुक्त किया गया है। दक्षिण कैरोलिना के गवर्नर हेनरी मैकमास्टर ने कल औपचारिक रूप से उन्हें इस पद के लिए चुना। मैकमास्टर ने कहा कि वह ग्राहम के अगले साल समाप्त होने वाले शेष कार्यकाल को पूरा करेंगी। अमरीकी राष्ट्रपति डोनाल्ड ट्रम्प सहित अधिकारियों ने दिवंगत सीनेटर को श्रद्धांजलि देते हुए ग्राहम नॉर्डोन को उनका उत्&#x200d;तराधिकारी नियुक्&#x200d;त किए जाने का समर्थन किया। वाशिंगटन डीसी के चिकित्सा परीक्षक की प्रारंभिक रिपोर्ट के अनुसार, 71 वर्षीय ग्राहम की मृत्यु हृदय रोग के कारण महाधमनी विच्छेदन से हुई। ग्राहम नवंबर में फिर से चुनाव लड़ रहे थे और उन्हें रिपब्लिकन पार्टी का नामांकन प्राप्त था। 2002 में सीनेट के लिए चुने गए ग्राहम विदेश नीति पर वाशिंगटन की सबसे प्रभावशाली आवाजों में से एक थे।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T03:15:56+00:00",
+        "link": "https://newsonair.gov.in/hi/usa-darlene-graham-nordone-appointed-acting-senator-following-the-passing-of-senator-lindsey-graham/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNKBYZobgAAvFzp.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "होर्मुज़ जलडमरूमध्य में यूएई के दो टैंकरों पर ईरानी मिसाइल हमला, एक भारतीय क्रू सदस्य की मौत",
+        "summary": "होर्मुज़ जलडमरूमध्य से गुज़रते समय संयुक्त अरब अमीरात (यूएई) के दो टैंकरों पर ईरान की क्रूज़ मिसाइलों के हमले में एक भारतीय क्रू सदस्य की मौत हो गई और छह अन्य घायल हो गए। यूएई के रक्षा मंत्रालय ने आज सोशल मीडिया पर यह जानकारी दी। मंत्रालय ने बताया कि &#8216;मोम्बासा&#8217; और &#8216;अल बहिया&#8217; नाम […]",
+        "article": "होर्मुज़ जलडमरूमध्य से गुज़रते समय संयुक्त अरब अमीरात (यूएई) के दो टैंकरों पर ईरान की क्रूज़ मिसाइलों के हमले में एक भारतीय क्रू सदस्य की मौत हो गई और छह अन्य घायल हो गए। यूएई के रक्षा मंत्रालय ने आज सोशल मीडिया पर यह जानकारी दी। मंत्रालय ने बताया कि &#8216;मोम्बासा&#8217; और &#8216;अल बहिया&#8217; नाम के इन टैंकरों को जलडमरूमध्य के दक्षिणी लेन में ओमान की समुद्री सीमा के भीतर निशाना बनाया गया। मारे गए क्रू सदस्य &#8216;मोम्बासा&#8217; टैंकर पर सवार थे। घायलों में से चार की हालत गंभीर है। घायलों में छह भारतीय और यूक्रेन के दो नागरिक शामिल हैं। यूएई के रक्षा मंत्रालय ने इस हमले की निंदा करते हुए इसे अंतरराष्ट्रीय कानून का खुला उल्लंघन और क्षेत्रीय सुरक्षा तथा स्थिरता के लिए गंभीर खतरा बताया। मंत्रालय ने कहा कि वह किसी भी खतरे से निपटने के लिए पूरी तरह तैयार और सतर्क है। मंत्रालय का कहना है कि देश की सुरक्षा तथा स्थिरता को नुकसान पहुंचाने की किसी भी कोशिश का कड़ा जवाब देने के लिए सभी ज़रूरी कदम उठाया जा रहा है। समुद्री मार्ग में हुई ये ताज़ा घटनाएं पश्चिम एशियाई क्षेत्र में हफ़्तों से चल रहे तनाव के बाद सामने आई हैं।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:58:34+00:00",
+        "link": "https://newsonair.gov.in/hi/iranian-missile-attack-on-two-uae-tankers-in-the-strait-of-hormuz-one-indian-crew-member-killed/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-4-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन भारत टेक्स 2026 आज नई दिल्ली में शुरू होगा",
+        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन, भारत टेक्स 2026, आज नई दिल्ली के भारत मंडपम में शुरू हो रहा है। केंद्रीय वस्त्र मंत्री गिरिराज सिंह इस सम्‍मेलन का उद्घाटन करेंगे। प्रधानमंत्री नरेंद्र मोदी के 5एफ विजन (खेत से फाइबर, कारखाने से फैक्ट्री, फैशन से विदेश तक) से प्रेरित भारत टेक्स 2026 का उद्देश्य वस्त्र […]",
+        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन, भारत टेक्स 2026, आज नई दिल्ली के भारत मंडपम में शुरू हो रहा है। केंद्रीय वस्त्र मंत्री गिरिराज सिंह इस सम्&#x200d;मेलन का उद्घाटन करेंगे। प्रधानमंत्री नरेंद्र मोदी के 5एफ विजन (खेत से फाइबर, कारखाने से फैक्ट्री, फैशन से विदेश तक) से प्रेरित भारत टेक्स 2026 का उद्देश्य वस्त्र मूल्य श्रृंखला में व्यापार, निवेश, स्रोत, नवाचार, नीतिगत संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख मंच के रूप में विकसित होना है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:57:27+00:00",
+        "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zrGSLLon.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विदेश मंत्री डॉ. एस जयशंकर ने न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की",
+        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्‍होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 […]",
+        "article": "विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्&#x200d;होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद में अस्थायी सीट के लिए भारत के चुनाव में अभियान का नेतृत्व करने के लिए न्यूयॉर्क में हैं।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:54:43+00:00",
+        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-met-united-nations-secretary-general-antonio-guterres-in-new-york/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNI6teRWUAAleDS.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए आधिकारिक रूप से चुनाव अभियान शुरू किया",
+        "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा […]",
+        "article": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा वैश्विक परिस्थितियों में संयुक्त राष्ट्र की भूमिका पहले से अधिक महत्वपूर्ण हो गई है। डॉक्टर जयशंकर ने कहा कि भारत अब तक संयुक्त राष्ट्र के लगभग पचास शांति मिशनों में करीब तीन लाख शांति सैनिक भेज चुका है और वर्तमान में दस मिशनों में चार हजार तीन सौ से अधिक भारतीय कर्मी तैनात हैं। उन्होंने कहा कि भारत हमेशा संवाद, कूटनीति और वैश्विक दक्षिण के हितों की महत्व देता रहा है। उन्होंने सदस्य देशों से भारत की उम्मीदवारी का समर्थन करने की अपील की। निर्वाचित होने पर भारत वर्ष 2028 से दो वर्ष के लिए सुरक्षा परिषद का अस्थायी सदस्य बनेगा। भारत इससे पहले आठ बार इस पद पर रह चुका है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:46:42+00:00",
+        "link": "https://newsonair.gov.in/hi/india-has-launched-its-election-campaign-for-a-non-permanent-seat-on-the-united-nations-security-council-for-the-2028-29-term/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNIgQ1wXkAAbN-v.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वियतनाम में स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर मुंबई लाए गए",
+        "summary": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि […]",
+        "article": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि आन्ध्रप्रदेश, केरल और तमिलनाडु की सरकारें इन शवों को उनके संबंधित राज्यों में उनके आवास पर पहुंचाने में समन्वय करेंगी। वियतनाम के अधिकारियों और सरकार के प्रति आभार व्यक्त करते हुए दूतावास ने बताया कि उनकी प्रार्थना, प्रयास और मौजूदगी ने इस दुख की घड़ी में शक्ति प्रदान की। 32 भारतीय पर्यटकों और चार स्थानीय क्रू के सद्स्यों वाली स्पीड बोट शुक्रवार को वियतनाम में फू क्वोक द्वीप में पलट गई। इस कारण 15 पर्यटकों की मृत्यु हो गई। इस दुर्घटना में बचने वाले 16 पर्यटक भी भारत लौट चुके हैं। इनमें से एक पर्यटक वियतनाम के एक अस्पताल में भर्ती है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:45:11+00:00",
+        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-a-speedboat-accident-in-vietnam-have-been-brought-back-to-the-country/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "यूक्रेन सहित दस देशों ने यूरोप को बैलिस्टिक मिसाइलों से बचाने के लिए गठबंधन बनाने की घोषणा की",
+        "summary": "यूक्रेन और नौ अन्य देशों ने घोषणा की है कि वे यूरोप को बैलिस्टिक मिसाइलों से बचाने के लिए एक गठबंधन बना रहे हैं। यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की और डेनमार्क, फ्रांस, जर्मनी, इटली, नीदरलैंड्स, नॉर्वे, स्पेन, स्वीडन और ब्रिटेन के नेताओं ने कहा कि वे बैलिस्टिक मिसाइलों से बढ़ते खतरे को समझते हैं। इन […]",
+        "article": "यूक्रेन और नौ अन्य देशों ने घोषणा की है कि वे यूरोप को बैलिस्टिक मिसाइलों से बचाने के लिए एक गठबंधन बना रहे हैं। यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की और डेनमार्क, फ्रांस, जर्मनी, इटली, नीदरलैंड्स, नॉर्वे, स्पेन, स्वीडन और ब्रिटेन के नेताओं ने कहा कि वे बैलिस्टिक मिसाइलों से बढ़ते खतरे को समझते हैं। इन मिसाइलों को क्रूज़ मिसाइलों या ड्रोन की तुलना में रोकना ज़्यादा मुश्किल होता है। पेरिस में जारी एक बयान में इन 10 देशों ने कहा कि उनका लक्ष्य यूरोप के लिए एक साझा बैलिस्टिक मिसाइल रक्षा क्षमता विकसित करना है। इसके लिए वे रूस के पूर्ण-स्तरीय हमले के चार वर्ष से अधिक समय से सामना करने के कीव के अनुभव का लाभ उठाएंगे। बयान में इस रक्षा प्रणाली को स्थापित करने के लिए कोई समय-सीमा नहीं बताई गई है। ब्यान में यह भी कहा गया कि यह योजना अन्य देशों के लिए भी खुली है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:44:45+00:00",
+        "link": "https://newsonair.gov.in/hi/ten-countries-including-ukraine-announced-the-formation-of-an-alliance-to-protect-europe-from-ballistic-missiles/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNJvv2ra0AA5frQ-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका के राष्ट्रपति ने होर्मुज जलडमरूमध्य में ईरानी जहाजों की नाकेबंदी फिर शुरू करने की घोषणा की",
+        "summary": "अमरीका ने लगातार तीसरी रात ईरान पर हमले किए। इससे दोनों देशों के बीच दुश्मनी और बढ़ गई है। अमरीकी सेंट्रल कमान-सेंटकॉम ने कहा कि इन हमलों से ईरानी सेना को भारी नुकसान उठाना पड़ेगा और होर्मुज़ जलडमरूमध्य में निर्दोष नागरिकों और वाणिज्यिक जहाजों पर हमला करने की उनकी क्षमता कमज़ोर होगी। अमरीका के राष्ट्रपति […]",
+        "article": "अमरीका ने लगातार तीसरी रात ईरान पर हमले किए। इससे दोनों देशों के बीच दुश्मनी और बढ़ गई है। अमरीकी सेंट्रल कमान-सेंटकॉम ने कहा कि इन हमलों से ईरानी सेना को भारी नुकसान उठाना पड़ेगा और होर्मुज़ जलडमरूमध्य में निर्दोष नागरिकों और वाणिज्यिक जहाजों पर हमला करने की उनकी क्षमता कमज़ोर होगी। अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने नतांज़ के पास मौजूद &#8216;पिकैक्स माउंटेन&#8217; को नष्ट करने की धमकी दी है। यह ज़मीन के बहुत नीचे बना एक न्यूक्लियर साइट है, जिसके बारे में पश्चिमी खुफिया एजेंसियों को शक है कि ईरान वहाँ एक अघोषित परमाणु संवर्धन सुविधा का निर्माण कर रहा है। इससे पहले कल अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने घोषणा की है कि अमरीका होर्मुज़ जलडमरूमध्य में ईरानी जहाजों की फिर से नाकाबंदी करेगा। इसके अलावा अमरीका समुद्री सुरक्षा का खर्च उठाने के लिए इस महत्वपूर्ण समुद्री मार्ग से गुजरने वाले माल पर 20 प्रतिशत शुल्क लगाएगा। राष्ट्रपति ट्रंप ने &#8216;ट्रुथ सोशल&#8217; पर एक पोस्ट में कहा कि यह रोक सिर्फ़ ईरानी जहाजों और ईरान के साथ व्यापार करने वाले जहाजों पर लागू होगी। उन्होंने कहा कि होर्मुज़ जलडमरूमध्य खुला है और ईरान के साथ या उसके बिना खुला रहेगा। उन्होंने भरोसा दिलाया कि दूसरे देशों के वाणिज्यिक जहाजों की आवाजाही बिना किसी रोक-टोक के जारी रहेगी। अमरीका की सेना ने कहा है कि वह आज रात से ईरानी बंदरगाहों की नाकेबंदी फिर से शुरू करेगी। यह घोषणा होर्मुज़ जलडमरूमध्य में जहाजों पर ईरानी हमलों के बाद फिर से बढ़े तनाव के बीच की गई है। अमरीका ने ईरान में कई ठिकानों पर हमले भी किए हैं, जिसके जवाब में ईरान ने बहरीन, ओमान और कुवैत सहित पूरे पश्चिम एशिया में जवाबी हमले किए हैं। दूसरी ओर ईरान ने होर्मुज़ जलडमरूमध्य पर अपना अधिकार जताया है और अमरीका के इस कदम को खारिज कर दिया है। ईरानी सरकारी मीडिया के अनुसार, सेंट्रल हेडक्वार्टर के प्रवक्ता ब्रिगेडियर जनरल इब्राहिम ज़ोलफ़गारी ने कहा कि ईरान किसी भी हाल में अमरीका को होर्मुज़ जलडमरूमध्य के प्रबंधन में दखल नहीं देने देगा। उन्होंने यह भी चेतावनी दी कि अगर कोई क्षेत्रीय देश अमरीका की सेना को लॉजिस्टिकल मदद देता है, तो इसे ईरान के खिलाफ़ युद्ध की कार्रवाई माना जाएगा। अंतर्राष्ट्रीय नौवहन की देखरेख करने वाली संयुक्त राष्ट्र की एजेंसी अंतर्राष्ट्रीय समुद्री संगठन ने कहा कि वह राष्ट्रपति ट्रंप के प्रस्ताव के बारे में और जानकारी का इंतज़ार कर रहा है, लेकिन अंतर्राष्ट्रीय जलमार्गों से गुजरने के लिए शुल्क लगाने का विरोध करता है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:43:15+00:00",
+        "link": "https://newsonair.gov.in/hi/president-donald-trump-announced-the-resumption-of-the-blockade-by-iranian-ships-in-the-strait-of-hormuz/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/trump-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "यूरोपीय संघ ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया",
         "summary": "यूरोपीय संघ (ईयू) ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया है। संघ के शीर्ष राजनयिक ने कल कहा कि यूरोपीय संघ व्हाइट हाउस और संयुक्त राष्ट्र सहित 65 सरकारों और संगठनों के साथ मिलकर काम कर रहा है। ब्रसेल्स में &#8216;फिलिस्तीन डोनर्स ग्रुप&#8217; की बैठक के […]",
@@ -1037,17 +1138,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "भारत ने 2028-29 के लिए संयुक्त राष्ट्र सुरक्षा परिषद की अस्थायी सदस्य के रूप में चुनाव अभियान शुरू किया",
-        "summary": "भारत ने 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में चुनाव के लिए आधिकारिक तौर पर अपना अभियान शुरू कर दिया है। विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कल रात न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में वैश्विक शांति, सुरक्षा और विकास को बढ़ावा देने के लिए भारत का शांति […]",
-        "article": "भारत ने 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में चुनाव के लिए आधिकारिक तौर पर अपना अभियान शुरू कर दिया है। विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कल रात न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में वैश्विक शांति, सुरक्षा और विकास को बढ़ावा देने के लिए भारत का शांति दृष्टिकोण प्रस्&#x200d;तुत किया। उन्होंने कहा कि वैश्विक संघर्षों और अस्थिरता के बीच संयुक्&#x200d;त राष्&#x200d;ट्र की भूमिका पहले से अधिक महत्&#x200d;वपूर्ण हो गई है। डॉ. जयशंकर ने कहा कि भारत ने संयुक्त राष्ट्र के लगभग 50 शांति अभियानों में लगभग तीन लाख सुरक्षा कर्मियों का योगदान दिया है और वर्तमान में 10 संयुक्त राष्ट्र शांति अभियानों में 4 हजार 300 से अधिक सुरक्षाकर्मी कार्यरत हैं। उन्होंने कहा कि भारत ने निरंतर संवाद, कूटनीति का समर्थन किया है और विकासशील देशों की समस्&#x200d;याओं को प्रमुखता से उठाया है। डॉ. जयशंकर ने सदस्&#x200d;य देशों से भारत की उम्&#x200d;मीदवारी का समर्थन करने का आह्वान किया। उन्&#x200d;होंने कहा कि सुरक्षा परिषद में भारत की उपस्थिति इस महत्वपूर्ण निकाय में निर्णय प्रक्रिया को और सशक्&#x200d;त करेगी। भारत सुरक्षा परिषद के गैर-स्थायी सदस्य के रूप में आठ कार्यकाल पूरे कर चुका है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:54:42+00:00",
-        "link": "https://newsonair.gov.in/hi/india-has-launched-its-election-campaign-for-a-non-permanent-seat-on-the-united-nations-security-council-for-the-2028-29-term/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNIgQ1wXkAAbN-v.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
         "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
         "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
@@ -1059,17 +1149,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "वियतनाम में स्पीड बोट हादसे में मारे गए 15 भारतीयों के पार्थिव शरीर स्वदेश लाए गए",
-        "summary": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि […]",
-        "article": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि आन्ध्रप्रदेश, केरल और तमिलनाडु की सरकारें इन शवों को उनके संबंधित राज्यों में उनके आवास पर पहुंचाने में समन्वय करेंगी। वियतनाम के अधिकारियों और सरकार के प्रति आभार व्यक्त करते हुए दूतावास ने बताया कि उनकी प्रार्थना, प्रयास और मौजूदगी ने इस दुख की घड़ी में शक्ति प्रदान की। 32 भारतीय पर्यटकों और चार स्थानीय क्रू के सद्स्यों वाली स्पीड बोट शुक्रवार को वियतनाम में फू क्वोक द्वीप में पलट गई। इस कारण 15 पर्यटकों की मृत्यु हो गई। इस दुर्घटना में बचने वाले 16 पर्यटक भी भारत लौट चुके हैं। इनमें से एक पर्यटक वियतनाम के एक अस्पताल में भर्ती है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:47:11+00:00",
-        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-a-speedboat-accident-in-vietnam-have-been-brought-back-to-the-country/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "एनटीए ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी किए",
         "summary": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्‍तर देख सकते है। उम्‍मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े […]",
         "article": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्&#x200d;तर देख सकते है। उम्&#x200d;मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार प्रश्न का चयन करके अपने चुने हुए विकल्प पर निशान लगा सकते हैं और 200 रुपये के शुल्क का भुगतान करके चुनौती दे सकते हैं। एजेंसी ने स्पष्ट किया है कि चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। ओएमआर चुनौती सुविधा इस महीने की 15 तारीख तक उपलब्ध रहेगी। उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
@@ -1077,96 +1156,52 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T00:41:10+00:00",
         "link": "https://newsonair.gov.in/hi/the-nta-released-the-omr-sheets-and-recorded-responses-for-the-neet-ug-2026-re-examination/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सूचना और प्रसारण मंत्रालय ने वेव्स 2027 के ‘क्रिएट इन इंडिया चैलेंज’ सीज़न-2 के लिए प्रस्ताव आमंत्रित किए",
-        "summary": "सूचना और प्रसारण मंत्रालय ने &#8216;वर्ल्ड ऑडियो विज़ुअल एंड एंटरटेनमेंट समिट&#8217; &#8211; वेव्स 2027 &#8216;क्रिएट इन इंडिया चैलेंज&#8217; सीज़न 2 के तहत उद्योग-संचालित चुनौतियों के लिए प्रस्ताव आमंत्रित किए हैं। &#8216;क्रिएट इन इंडिया चैलेंज&#8217; वेव्स के तहत एक प्रमुख पहल है। इस पहल का उद्देश्य मीडिया और मनोरंजन क्षेत्र में सृजकों की पहचान करना, उन्हें […]",
-        "article": "सूचना और प्रसारण मंत्रालय ने &#8216;वर्ल्ड ऑडियो विज़ुअल एंड एंटरटेनमेंट समिट&#8217; &#8211; वेव्स 2027 &#8216;क्रिएट इन इंडिया चैलेंज&#8217; सीज़न 2 के तहत उद्योग-संचालित चुनौतियों के लिए प्रस्ताव आमंत्रित किए हैं। &#8216;क्रिएट इन इंडिया चैलेंज&#8217; वेव्स के तहत एक प्रमुख पहल है। इस पहल का उद्देश्य मीडिया और मनोरंजन क्षेत्र में सृजकों की पहचान करना, उन्हें आगे बढ़ाना, उनके कौशल को बेहतर बनाना और उन्हें सबके सामने लाना है। सीज़न-2 का लक्ष्य ऐसी उद्योग संचालित, सरकार-समर्थित और युवाओं पर केंद्रित चुनौतियों को पूरा करना है, जो रचनात्मक प्रतिभा की पहचान करें और उन्हें निखारें, साथ ही कौशल को बेहतर बनाने और क्षमता निर्माण को बढ़ावा दें। इसका उद्देश्य मीडिया और मनोरंजन के क्षेत्रों में सहयोग के अवसर पैदा करना भी है। जिसमें आर्टिफिशियल इंटेलिजेंस, डिजिटल मीडिया और प्रौद्योगिकी पर आधारित अन्य रचनात्मक क्षेत्र शामिल हैं। इस चुनौती का समापन वेव्स 2027 के दौरान &#8216;क्रिएटोस्फीयर&#8217; में विजेताओं और उनके सफल परिणामों को प्रदर्शित करने के साथ होगा। मंत्रालय ने कहा कि प्रस्ताव जमा करने और चुनौतियों तथा उन्हें पूरा करने वाली संस्थाओं के चयन के लिए एक पारदर्शी और योग्यता-आधारित प्रणाली के ज़रिए एक एकीकृत पोर्टल बनाया गया है। मीडिया और मनोरंजन क्षेत्र की संस्थाओं को इस महीने की 31 तारीख तक wavesbazaar.com ऑनलाइन पोर्टल के माध्यम से अपने प्रस्ताव जमा करने के लिए आमंत्रित किया गया है। चुनी गई चुनौतियों को सफलतापूर्वक लागू करने में मदद के लिए, मंत्रालय प्रति चुनौती एक करोड़ रुपये तक का एकमुश्त अनुदान देगा।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:37:58+00:00",
-        "link": "https://newsonair.gov.in/hi/the-ministry-of-information-and-broadcasting-has-invited-proposals-for-season-2-of-the-create-in-india-challenge-under-waves-2027/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNHp5PpaQAA9q5c.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "नीट यूजी 2026 री-एग्जाम की OMR शीट जारी",
-        "summary": "राष्ट्रीय परीक्षा एजेंसी &#8211; एनटीए ने आधिकारिक वेबसाइट neet.nta.nic.in पर उम्मीदवारों के लिए नीट यूजी 2026 की पुनः परीक्षा के लिए ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एनटीए ने बताया कि उम्मीदवार अपने आवेदन नंबर का उपयोग करके लॉग इन कर सकते हैं और अपने चिह्नित उत्तरों की तुलना स्कैन […]",
-        "article": "राष्ट्रीय परीक्षा एजेंसी &#8211; एनटीए ने आधिकारिक वेबसाइट neet.nta.nic.in पर उम्मीदवारों के लिए नीट यूजी 2026 की पुनः परीक्षा के लिए ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एनटीए ने बताया कि उम्मीदवार अपने आवेदन नंबर का उपयोग करके लॉग इन कर सकते हैं और अपने चिह्नित उत्तरों की तुलना स्कैन किए गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार 200 रुपये के शुल्क का भुगतान करके चुनौती दर्ज कर सकते हैं। चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। यह सुविधा 15 जुलाई तक उपलब्ध रहेगी। सहायता के लिए उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:58:11+00:00",
-        "link": "https://newsonair.gov.in/hi/neet-ug-2026-re-exam-omr-sheet-released/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/@NeetUG.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वेव्स 2027 के अंतर्गत ‘क्रिएट इन इंडिया चैलेंज सीजन-2 के लिए प्रस्ताव आमंत्रित",
-        "summary": "सूचना और प्रसारण मंत्रालय ने वर्ल्ड ऑडियो विजुअल एंड एंटरटेनमेंट समिट-वेव्स 2027 के अंतर्गत &#8216;क्रिएट इन इंडिया चैलेंज सीजन-2 के लिए उद्योग आधारित चुनौतियों के प्रस्ताव आमंत्रित किए हैं। मंत्रालय ने कहा है कि क्रिएट इन इंडिया चैलेंज का उद्देश्य मीडिया और मनोरंजन क्षेत्र में रचनात्मक प्रतिभाओं की पहचान करके उन्हें प्रोत्साहित और प्रशिक्षित […]",
-        "article": "सूचना और प्रसारण मंत्रालय ने वर्ल्ड ऑडियो विजुअल एंड एंटरटेनमेंट समिट-वेव्स 2027 के अंतर्गत &#8216;क्रिएट इन इंडिया चैलेंज सीजन-2 के लिए उद्योग आधारित चुनौतियों के प्रस्ताव आमंत्रित किए हैं। मंत्रालय ने कहा है कि क्रिएट इन इंडिया चैलेंज का उद्देश्य मीडिया और मनोरंजन क्षेत्र में रचनात्मक प्रतिभाओं की पहचान करके उन्हें प्रोत्साहित और प्रशिक्षित करना है। विजेताओं और उनके कार्यों का प्रदर्शन वेव्स-2027 के दौरान आयोजित क्रिएटोस्फेयर में किया जाएगा। मंत्रालय ने बताया कि प्रस्ताव जमा करने और चुनौतियों के चयन के लिए एकीकृत ऑनलाइन पोर्टल तैयार किया गया है। मीडिया और मनोरंजन क्षेत्र से जुड़े इच्छुक संस्थान 31 जुलाई तक wavesbazaar.com पोर्टल पर अपने प्रस्ताव भेज सकते हैं। चयनित चुनौतियों के सफल संचालन के लिए मंत्रालय प्रत्येक चुनौती के लिए एक करोड़ रुपये तक का अनुदान भी देगा।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:53:51+00:00",
-        "link": "https://newsonair.gov.in/hi/proposals-invited-for-create-in-india-challenge-season-2-under-waves-2027/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/CIC-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "बिहार-ओडिशा समेत कई राज्यों में भारी बारिश का अलर्ट",
-        "summary": "मौसम विभाग ने बिहार और ओडिशा में कल तक मूसलाधार बारिश का अनुमान व्‍यक्‍त किया है। अरुणाचल प्रदेश, छत्तीसगढ़, झारखंड, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल, सिक्किम, असम और मेघालय में भी कल तेज वर्षा हो सकती है। अंडमान और निकोबार द्वीप समूह, आंध्र प्रदेश, जम्मू-कश्मीर, लद्दाख, बिहार, पश्चिम बंगाल के गांगेय क्षेत्र, झारखंड, […]",
-        "article": "मौसम विभाग ने बिहार और ओडिशा में कल तक मूसलाधार बारिश का अनुमान व्&#x200d;यक्&#x200d;त किया है। अरुणाचल प्रदेश, छत्तीसगढ़, झारखंड, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल, सिक्किम, असम और मेघालय में भी कल तेज वर्षा हो सकती है। अंडमान और निकोबार द्वीप समूह, आंध्र प्रदेश, जम्मू-कश्मीर, लद्दाख, बिहार, पश्चिम बंगाल के गांगेय क्षेत्र, झारखंड, सिक्किम, कर्नाटक और ओडिशा में बिजली चमकने और तेज हवाओं के साथ तूफान की आशंका है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:51:03+00:00",
-        "link": "https://newsonair.gov.in/hi/heavy-rain-alert-in-many-states-including-bihar-odisha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260628303f-1-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कल अंतरराष्ट्रीय अंतरिक्ष स्टेशन के लिए रवाना होंगे भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन",
-        "summary": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन कल अंतरराष्ट्रीय अंतरिक्ष स्टेशन के लिए रवाना होंगे। वे कज़ाख़स्तान के बैकोनूर अंतरिक्ष केंद्र से दो रूसी अंतरिक्ष यात्रियों के साथ रोस्कोस्मोस के सोयुज़ एमएस-29 अंतरिक्ष यान से उड़ान भरेंगे। अंतरिक्ष यान का प्रक्षेपण भारतीय समयानुसार कल रात आठ बजकर 17 मिनट पर होगा। इसके लगभग साढ़े […]",
-        "article": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन कल अंतरराष्ट्रीय अंतरिक्ष स्टेशन के लिए रवाना होंगे। वे कज़ाख़स्तान के बैकोनूर अंतरिक्ष केंद्र से दो रूसी अंतरिक्ष यात्रियों के साथ रोस्कोस्मोस के सोयुज़ एमएस-29 अंतरिक्ष यान से उड़ान भरेंगे। अंतरिक्ष यान का प्रक्षेपण भारतीय समयानुसार कल रात आठ बजकर 17 मिनट पर होगा। इसके लगभग साढ़े तीन घंटे बाद यह अंतरराष्ट्रीय अंतरिक्ष स्टेशन से जुड़ेगा। अनिल मेनन के साथ रूस के अंतरिक्ष यात्री प्योत्र दुब्रोव और अन्ना किकीना भी अंतरराष्ट्रीय अंतरिक्ष स्टेशन के 75वें अभियान का हिस्सा होंगे। अंतरिक्ष यात्री बुधवार तड़के करीब 1 बजकर 25 मिनट पर अंतरिक्ष स्टेशन में प्रवेश करेंगे। 49 वर्षीय अनिल मेनन आपातकालीन चिकित्सा विशेषज्ञ और अमरीकी स्पेस फोर्स में कर्नल हैं। उनका जन्म अमरीका के मिनियापोलिस में भारतीय और यूक्रेनी मूल के परिवार में हुआ था। वे अमरीकी वायुसेना में सेवा दे चुके हैं और माउंट एवरेस्ट पर पर्वतारोहियों की चिकित्सा सहायता के लिए हिमालयन रेस्क्यू एसोसिएशन के साथ भी काम कर चुके हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:49:46+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-origin-nasa-astronaut-anil-menon-to-leave-for-international-space-station-tomorrow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNHY5tiaYAATrgc.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सर्वोच्च न्यायालय का केंद्र को निर्देश, वायुयान नियमों को 2 सप्ताह के भीतर रिकॉर्ड पर रखने को कहा",
-        "summary": "सर्वोच्च न्यायालय ने आज केंद्र सरकार को भारतीय वायुयान अधिनियम, 2024 के अंतर्गत बनाए गए नियमों को दो सप्ताह के भीतर रिकॉर्ड पर रखने का निर्देश दिया। यह कानून देश के नागर विमानन ढांचे को आधुनिक बनाने के उद्देश्य से बनाया गया है। एक जनहित याचिका पर सुनवाई करते हुए, न्‍यायालय की पीठ ने केंद्र […]",
-        "article": "सर्वोच्च न्यायालय ने आज केंद्र सरकार को भारतीय वायुयान अधिनियम, 2024 के अंतर्गत बनाए गए नियमों को दो सप्ताह के भीतर रिकॉर्ड पर रखने का निर्देश दिया। यह कानून देश के नागर विमानन ढांचे को आधुनिक बनाने के उद्देश्य से बनाया गया है। एक जनहित याचिका पर सुनवाई करते हुए, न्&#x200d;यायालय की पीठ ने केंद्र सरकार से कहा कि चाहे ये नियम संसद में रखे गए हों या नहीं, उन्हें सीलबंद लिफाफे में न्&#x200d;यायालय के समक्ष प्रस्तुत किया जाए। केंद्र सरकार के वकील ने बताया कि नियमों का मसौदा तैयार है और उनका अनुवाद किया जा रहा है। वकील ने कहा कि नियमों को संसद के समक्ष रखना अनिवार्य है। मामले की अगली सुनवाई 3 अगस्त को होगी। जनहित याचिका में नागर विमानन क्षेत्र में पारदर्शिता और यात्री सुरक्षा सुनिश्चित करने वाले एक मजबूत और स्वतंत्र नियामक की मांग की गई है। याचिका में देश में निजी एयरलाइनों के हवाई किराए और अन्य शुल्कों में अप्रत्याशित उतार-चढ़ाव को नियंत्रित करने के लिए भी नियामक दिशानिर्देशों की मांग की गई है। इससे पहले, केंद्र सरकार ने सर्वोच्च न्यायालय को बताया था कि नागर विमानन मंत्रालय, याचिका में उठाए गए मुद्दों पर विचार कर रहा है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:44:23+00:00",
-        "link": "https://newsonair.gov.in/hi/supreme-court-asks-centre-to-place-aircraft-rules-on-record-within-two-weeks/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/thvli-supreme-court-of-indiaasjdhsakldasd.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "‘स्वयान’ पहल के अंतर्गत ड्रोन अनुप्रयोग और अनुसंधान के लिए राष्ट्रीय नवाचार चुनौती के दूसरे संस्करण का शुभारंभ",
-        "summary": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने ड्रोन फेडरेशन इंडिया के सहयोग से आज &#8216;स्वयान&#8217; पहल के अंतर्गत ड्रोन अनुप्रयोग और अनुसंधान के लिए राष्ट्रीय नवाचार चुनौती के दूसरे संस्करण का शुभारंभ किया। जुलाई 2022 में लगभग 90 करोड़ रुपये के परिव्यय के साथ स्वीकृत इस पहल का उद्देश्य देश में ड्रोन क्षेत्र के लिए आवश्यक […]",
-        "article": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने ड्रोन फेडरेशन इंडिया के सहयोग से आज &#8216;स्वयान&#8217; पहल के अंतर्गत ड्रोन अनुप्रयोग और अनुसंधान के लिए राष्ट्रीय नवाचार चुनौती के दूसरे संस्करण का शुभारंभ किया। जुलाई 2022 में लगभग 90 करोड़ रुपये के परिव्यय के साथ स्वीकृत इस पहल का उद्देश्य देश में ड्रोन क्षेत्र के लिए आवश्यक कुशल कार्यबल का निर्माण करना है। यह पहल छात्रों को भारतीय निर्मित चिप से संचालित स्मार्ट ड्रोन बनाने की चुनौती देता है। यह छात्र टीमों के लिए स्टार्टअप इनक्यूबेशन, क्लाउड क्रेडिट, सॉफ्टवेयर सहायता और इंटर्नशिप के साथ-साथ 65 लाख रुपये से अधिक का पुरस्कार प्रदान करता है। इस अवसर पर मंत्रालय के सचिव एस. कृष्णन ने कहा कि यह पहल छात्रों को ड्रोन उड़ाने से ड्रोन बनाने तक ले जाता है। उन्होंने बताया कि मार्च 2025 में शुरू हुए पहले संस्करण में 22 राज्यों और 4 केंद्र शासित प्रदेशों के 3 हजार से अधिक छात्र शामिल हुए थे। उन्होंने आपदा प्रबंधन और सटीक कृषि के लिए स्वायत्त ड्रोन समाधान विकसित किए। 93 टीम फाइनल में पहुंचे और 24 टीम ने कुल 40 लाख रुपये के पुरस्कार जीते।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:39:27+00:00",
-        "link": "https://newsonair.gov.in/hi/launch-of-the-second-edition-of-the-national-innovation-challenge-for-drone-applications-and-research-under-the-swayan-initiative/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "breaking": [
       {
-        "title": "भारत ने 2028-29 के लिए संयुक्त राष्ट्र सुरक्षा परिषद की अस्थायी सदस्य के रूप में चुनाव अभियान शुरू किया",
-        "summary": "भारत ने 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में चुनाव के लिए आधिकारिक तौर पर अपना अभियान शुरू कर दिया है। विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कल रात न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में वैश्विक शांति, सुरक्षा और विकास को बढ़ावा देने के लिए भारत का शांति […]",
-        "article": "भारत ने 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में चुनाव के लिए आधिकारिक तौर पर अपना अभियान शुरू कर दिया है। विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कल रात न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में वैश्विक शांति, सुरक्षा और विकास को बढ़ावा देने के लिए भारत का शांति दृष्टिकोण प्रस्&#x200d;तुत किया। उन्होंने कहा कि वैश्विक संघर्षों और अस्थिरता के बीच संयुक्&#x200d;त राष्&#x200d;ट्र की भूमिका पहले से अधिक महत्&#x200d;वपूर्ण हो गई है। डॉ. जयशंकर ने कहा कि भारत ने संयुक्त राष्ट्र के लगभग 50 शांति अभियानों में लगभग तीन लाख सुरक्षा कर्मियों का योगदान दिया है और वर्तमान में 10 संयुक्त राष्ट्र शांति अभियानों में 4 हजार 300 से अधिक सुरक्षाकर्मी कार्यरत हैं। उन्होंने कहा कि भारत ने निरंतर संवाद, कूटनीति का समर्थन किया है और विकासशील देशों की समस्&#x200d;याओं को प्रमुखता से उठाया है। डॉ. जयशंकर ने सदस्&#x200d;य देशों से भारत की उम्&#x200d;मीदवारी का समर्थन करने का आह्वान किया। उन्&#x200d;होंने कहा कि सुरक्षा परिषद में भारत की उपस्थिति इस महत्वपूर्ण निकाय में निर्णय प्रक्रिया को और सशक्&#x200d;त करेगी। भारत सुरक्षा परिषद के गैर-स्थायी सदस्य के रूप में आठ कार्यकाल पूरे कर चुका है।",
+        "title": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन भारत टेक्स 2026 आज नई दिल्ली में शुरू होगा",
+        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन, भारत टेक्स 2026, आज नई दिल्ली के भारत मंडपम में शुरू हो रहा है। केंद्रीय वस्त्र मंत्री गिरिराज सिंह इस सम्‍मेलन का उद्घाटन करेंगे। प्रधानमंत्री नरेंद्र मोदी के 5एफ विजन (खेत से फाइबर, कारखाने से फैक्ट्री, फैशन से विदेश तक) से प्रेरित भारत टेक्स 2026 का उद्देश्य वस्त्र […]",
+        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन, भारत टेक्स 2026, आज नई दिल्ली के भारत मंडपम में शुरू हो रहा है। केंद्रीय वस्त्र मंत्री गिरिराज सिंह इस सम्&#x200d;मेलन का उद्घाटन करेंगे। प्रधानमंत्री नरेंद्र मोदी के 5एफ विजन (खेत से फाइबर, कारखाने से फैक्ट्री, फैशन से विदेश तक) से प्रेरित भारत टेक्स 2026 का उद्देश्य वस्त्र मूल्य श्रृंखला में व्यापार, निवेश, स्रोत, नवाचार, नीतिगत संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख मंच के रूप में विकसित होना है।",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:54:42+00:00",
+        "pubDate": "2026-07-14T02:57:27+00:00",
+        "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zrGSLLon.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विदेश मंत्री डॉ. एस जयशंकर ने न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की",
+        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्‍होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 […]",
+        "article": "विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्&#x200d;होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद में अस्थायी सीट के लिए भारत के चुनाव में अभियान का नेतृत्व करने के लिए न्यूयॉर्क में हैं।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:54:43+00:00",
+        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-met-united-nations-secretary-general-antonio-guterres-in-new-york/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNI6teRWUAAleDS.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए आधिकारिक रूप से चुनाव अभियान शुरू किया",
+        "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा […]",
+        "article": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा वैश्विक परिस्थितियों में संयुक्त राष्ट्र की भूमिका पहले से अधिक महत्वपूर्ण हो गई है। डॉक्टर जयशंकर ने कहा कि भारत अब तक संयुक्त राष्ट्र के लगभग पचास शांति मिशनों में करीब तीन लाख शांति सैनिक भेज चुका है और वर्तमान में दस मिशनों में चार हजार तीन सौ से अधिक भारतीय कर्मी तैनात हैं। उन्होंने कहा कि भारत हमेशा संवाद, कूटनीति और वैश्विक दक्षिण के हितों की महत्व देता रहा है। उन्होंने सदस्य देशों से भारत की उम्मीदवारी का समर्थन करने की अपील की। निर्वाचित होने पर भारत वर्ष 2028 से दो वर्ष के लिए सुरक्षा परिषद का अस्थायी सदस्य बनेगा। भारत इससे पहले आठ बार इस पद पर रह चुका है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:46:42+00:00",
         "link": "https://newsonair.gov.in/hi/india-has-launched-its-election-campaign-for-a-non-permanent-seat-on-the-united-nations-security-council-for-the-2028-29-term/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNIgQ1wXkAAbN-v.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वियतनाम में स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर मुंबई लाए गए",
+        "summary": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि […]",
+        "article": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि आन्ध्रप्रदेश, केरल और तमिलनाडु की सरकारें इन शवों को उनके संबंधित राज्यों में उनके आवास पर पहुंचाने में समन्वय करेंगी। वियतनाम के अधिकारियों और सरकार के प्रति आभार व्यक्त करते हुए दूतावास ने बताया कि उनकी प्रार्थना, प्रयास और मौजूदगी ने इस दुख की घड़ी में शक्ति प्रदान की। 32 भारतीय पर्यटकों और चार स्थानीय क्रू के सद्स्यों वाली स्पीड बोट शुक्रवार को वियतनाम में फू क्वोक द्वीप में पलट गई। इस कारण 15 पर्यटकों की मृत्यु हो गई। इस दुर्घटना में बचने वाले 16 पर्यटक भी भारत लौट चुके हैं। इनमें से एक पर्यटक वियतनाम के एक अस्पताल में भर्ती है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:45:11+00:00",
+        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-a-speedboat-accident-in-vietnam-have-been-brought-back-to-the-country/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1178,17 +1213,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T00:49:09+00:00",
         "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम में स्पीड बोट हादसे में मारे गए 15 भारतीयों के पार्थिव शरीर स्वदेश लाए गए",
-        "summary": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि […]",
-        "article": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि आन्ध्रप्रदेश, केरल और तमिलनाडु की सरकारें इन शवों को उनके संबंधित राज्यों में उनके आवास पर पहुंचाने में समन्वय करेंगी। वियतनाम के अधिकारियों और सरकार के प्रति आभार व्यक्त करते हुए दूतावास ने बताया कि उनकी प्रार्थना, प्रयास और मौजूदगी ने इस दुख की घड़ी में शक्ति प्रदान की। 32 भारतीय पर्यटकों और चार स्थानीय क्रू के सद्स्यों वाली स्पीड बोट शुक्रवार को वियतनाम में फू क्वोक द्वीप में पलट गई। इस कारण 15 पर्यटकों की मृत्यु हो गई। इस दुर्घटना में बचने वाले 16 पर्यटक भी भारत लौट चुके हैं। इनमें से एक पर्यटक वियतनाम के एक अस्पताल में भर्ती है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:47:11+00:00",
-        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-a-speedboat-accident-in-vietnam-have-been-brought-back-to-the-country/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1244,41 +1268,52 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T16:51:03+00:00",
         "link": "https://newsonair.gov.in/hi/heavy-rain-alert-in-many-states-including-bihar-odisha/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260628303f-1-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सर्वोच्च न्यायालय का केंद्र को निर्देश, वायुयान नियमों को 2 सप्ताह के भीतर रिकॉर्ड पर रखने को कहा",
-        "summary": "सर्वोच्च न्यायालय ने आज केंद्र सरकार को भारतीय वायुयान अधिनियम, 2024 के अंतर्गत बनाए गए नियमों को दो सप्ताह के भीतर रिकॉर्ड पर रखने का निर्देश दिया। यह कानून देश के नागर विमानन ढांचे को आधुनिक बनाने के उद्देश्य से बनाया गया है। एक जनहित याचिका पर सुनवाई करते हुए, न्‍यायालय की पीठ ने केंद्र […]",
-        "article": "सर्वोच्च न्यायालय ने आज केंद्र सरकार को भारतीय वायुयान अधिनियम, 2024 के अंतर्गत बनाए गए नियमों को दो सप्ताह के भीतर रिकॉर्ड पर रखने का निर्देश दिया। यह कानून देश के नागर विमानन ढांचे को आधुनिक बनाने के उद्देश्य से बनाया गया है। एक जनहित याचिका पर सुनवाई करते हुए, न्&#x200d;यायालय की पीठ ने केंद्र सरकार से कहा कि चाहे ये नियम संसद में रखे गए हों या नहीं, उन्हें सीलबंद लिफाफे में न्&#x200d;यायालय के समक्ष प्रस्तुत किया जाए। केंद्र सरकार के वकील ने बताया कि नियमों का मसौदा तैयार है और उनका अनुवाद किया जा रहा है। वकील ने कहा कि नियमों को संसद के समक्ष रखना अनिवार्य है। मामले की अगली सुनवाई 3 अगस्त को होगी। जनहित याचिका में नागर विमानन क्षेत्र में पारदर्शिता और यात्री सुरक्षा सुनिश्चित करने वाले एक मजबूत और स्वतंत्र नियामक की मांग की गई है। याचिका में देश में निजी एयरलाइनों के हवाई किराए और अन्य शुल्कों में अप्रत्याशित उतार-चढ़ाव को नियंत्रित करने के लिए भी नियामक दिशानिर्देशों की मांग की गई है। इससे पहले, केंद्र सरकार ने सर्वोच्च न्यायालय को बताया था कि नागर विमानन मंत्रालय, याचिका में उठाए गए मुद्दों पर विचार कर रहा है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:44:23+00:00",
-        "link": "https://newsonair.gov.in/hi/supreme-court-asks-centre-to-place-aircraft-rules-on-record-within-two-weeks/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/thvli-supreme-court-of-indiaasjdhsakldasd.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "‘स्वयान’ पहल के अंतर्गत ड्रोन अनुप्रयोग और अनुसंधान के लिए राष्ट्रीय नवाचार चुनौती के दूसरे संस्करण का शुभारंभ",
-        "summary": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने ड्रोन फेडरेशन इंडिया के सहयोग से आज &#8216;स्वयान&#8217; पहल के अंतर्गत ड्रोन अनुप्रयोग और अनुसंधान के लिए राष्ट्रीय नवाचार चुनौती के दूसरे संस्करण का शुभारंभ किया। जुलाई 2022 में लगभग 90 करोड़ रुपये के परिव्यय के साथ स्वीकृत इस पहल का उद्देश्य देश में ड्रोन क्षेत्र के लिए आवश्यक […]",
-        "article": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने ड्रोन फेडरेशन इंडिया के सहयोग से आज &#8216;स्वयान&#8217; पहल के अंतर्गत ड्रोन अनुप्रयोग और अनुसंधान के लिए राष्ट्रीय नवाचार चुनौती के दूसरे संस्करण का शुभारंभ किया। जुलाई 2022 में लगभग 90 करोड़ रुपये के परिव्यय के साथ स्वीकृत इस पहल का उद्देश्य देश में ड्रोन क्षेत्र के लिए आवश्यक कुशल कार्यबल का निर्माण करना है। यह पहल छात्रों को भारतीय निर्मित चिप से संचालित स्मार्ट ड्रोन बनाने की चुनौती देता है। यह छात्र टीमों के लिए स्टार्टअप इनक्यूबेशन, क्लाउड क्रेडिट, सॉफ्टवेयर सहायता और इंटर्नशिप के साथ-साथ 65 लाख रुपये से अधिक का पुरस्कार प्रदान करता है। इस अवसर पर मंत्रालय के सचिव एस. कृष्णन ने कहा कि यह पहल छात्रों को ड्रोन उड़ाने से ड्रोन बनाने तक ले जाता है। उन्होंने बताया कि मार्च 2025 में शुरू हुए पहले संस्करण में 22 राज्यों और 4 केंद्र शासित प्रदेशों के 3 हजार से अधिक छात्र शामिल हुए थे। उन्होंने आपदा प्रबंधन और सटीक कृषि के लिए स्वायत्त ड्रोन समाधान विकसित किए। 93 टीम फाइनल में पहुंचे और 24 टीम ने कुल 40 लाख रुपये के पुरस्कार जीते।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:39:27+00:00",
-        "link": "https://newsonair.gov.in/hi/launch-of-the-second-edition-of-the-national-innovation-challenge-for-drone-applications-and-research-under-the-swayan-initiative/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
-        "title": "भारत ने 2028-29 के लिए संयुक्त राष्ट्र सुरक्षा परिषद की अस्थायी सदस्य के रूप में चुनाव अभियान शुरू किया",
-        "summary": "भारत ने 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में चुनाव के लिए आधिकारिक तौर पर अपना अभियान शुरू कर दिया है। विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कल रात न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में वैश्विक शांति, सुरक्षा और विकास को बढ़ावा देने के लिए भारत का शांति […]",
-        "article": "भारत ने 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में चुनाव के लिए आधिकारिक तौर पर अपना अभियान शुरू कर दिया है। विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कल रात न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में वैश्विक शांति, सुरक्षा और विकास को बढ़ावा देने के लिए भारत का शांति दृष्टिकोण प्रस्&#x200d;तुत किया। उन्होंने कहा कि वैश्विक संघर्षों और अस्थिरता के बीच संयुक्&#x200d;त राष्&#x200d;ट्र की भूमिका पहले से अधिक महत्&#x200d;वपूर्ण हो गई है। डॉ. जयशंकर ने कहा कि भारत ने संयुक्त राष्ट्र के लगभग 50 शांति अभियानों में लगभग तीन लाख सुरक्षा कर्मियों का योगदान दिया है और वर्तमान में 10 संयुक्त राष्ट्र शांति अभियानों में 4 हजार 300 से अधिक सुरक्षाकर्मी कार्यरत हैं। उन्होंने कहा कि भारत ने निरंतर संवाद, कूटनीति का समर्थन किया है और विकासशील देशों की समस्&#x200d;याओं को प्रमुखता से उठाया है। डॉ. जयशंकर ने सदस्&#x200d;य देशों से भारत की उम्&#x200d;मीदवारी का समर्थन करने का आह्वान किया। उन्&#x200d;होंने कहा कि सुरक्षा परिषद में भारत की उपस्थिति इस महत्वपूर्ण निकाय में निर्णय प्रक्रिया को और सशक्&#x200d;त करेगी। भारत सुरक्षा परिषद के गैर-स्थायी सदस्य के रूप में आठ कार्यकाल पूरे कर चुका है।",
+        "title": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन भारत टेक्स 2026 आज नई दिल्ली में शुरू होगा",
+        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन, भारत टेक्स 2026, आज नई दिल्ली के भारत मंडपम में शुरू हो रहा है। केंद्रीय वस्त्र मंत्री गिरिराज सिंह इस सम्‍मेलन का उद्घाटन करेंगे। प्रधानमंत्री नरेंद्र मोदी के 5एफ विजन (खेत से फाइबर, कारखाने से फैक्ट्री, फैशन से विदेश तक) से प्रेरित भारत टेक्स 2026 का उद्देश्य वस्त्र […]",
+        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन, भारत टेक्स 2026, आज नई दिल्ली के भारत मंडपम में शुरू हो रहा है। केंद्रीय वस्त्र मंत्री गिरिराज सिंह इस सम्&#x200d;मेलन का उद्घाटन करेंगे। प्रधानमंत्री नरेंद्र मोदी के 5एफ विजन (खेत से फाइबर, कारखाने से फैक्ट्री, फैशन से विदेश तक) से प्रेरित भारत टेक्स 2026 का उद्देश्य वस्त्र मूल्य श्रृंखला में व्यापार, निवेश, स्रोत, नवाचार, नीतिगत संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख मंच के रूप में विकसित होना है।",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:54:42+00:00",
+        "pubDate": "2026-07-14T02:57:27+00:00",
+        "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zrGSLLon.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विदेश मंत्री डॉ. एस जयशंकर ने न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की",
+        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्‍होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 […]",
+        "article": "विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्&#x200d;होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद में अस्थायी सीट के लिए भारत के चुनाव में अभियान का नेतृत्व करने के लिए न्यूयॉर्क में हैं।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:54:43+00:00",
+        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-met-united-nations-secretary-general-antonio-guterres-in-new-york/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNI6teRWUAAleDS.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए आधिकारिक रूप से चुनाव अभियान शुरू किया",
+        "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा […]",
+        "article": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा वैश्विक परिस्थितियों में संयुक्त राष्ट्र की भूमिका पहले से अधिक महत्वपूर्ण हो गई है। डॉक्टर जयशंकर ने कहा कि भारत अब तक संयुक्त राष्ट्र के लगभग पचास शांति मिशनों में करीब तीन लाख शांति सैनिक भेज चुका है और वर्तमान में दस मिशनों में चार हजार तीन सौ से अधिक भारतीय कर्मी तैनात हैं। उन्होंने कहा कि भारत हमेशा संवाद, कूटनीति और वैश्विक दक्षिण के हितों की महत्व देता रहा है। उन्होंने सदस्य देशों से भारत की उम्मीदवारी का समर्थन करने की अपील की। निर्वाचित होने पर भारत वर्ष 2028 से दो वर्ष के लिए सुरक्षा परिषद का अस्थायी सदस्य बनेगा। भारत इससे पहले आठ बार इस पद पर रह चुका है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:46:42+00:00",
         "link": "https://newsonair.gov.in/hi/india-has-launched-its-election-campaign-for-a-non-permanent-seat-on-the-united-nations-security-council-for-the-2028-29-term/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNIgQ1wXkAAbN-v.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वियतनाम में स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर मुंबई लाए गए",
+        "summary": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि […]",
+        "article": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि आन्ध्रप्रदेश, केरल और तमिलनाडु की सरकारें इन शवों को उनके संबंधित राज्यों में उनके आवास पर पहुंचाने में समन्वय करेंगी। वियतनाम के अधिकारियों और सरकार के प्रति आभार व्यक्त करते हुए दूतावास ने बताया कि उनकी प्रार्थना, प्रयास और मौजूदगी ने इस दुख की घड़ी में शक्ति प्रदान की। 32 भारतीय पर्यटकों और चार स्थानीय क्रू के सद्स्यों वाली स्पीड बोट शुक्रवार को वियतनाम में फू क्वोक द्वीप में पलट गई। इस कारण 15 पर्यटकों की मृत्यु हो गई। इस दुर्घटना में बचने वाले 16 पर्यटक भी भारत लौट चुके हैं। इनमें से एक पर्यटक वियतनाम के एक अस्पताल में भर्ती है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:45:11+00:00",
+        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-a-speedboat-accident-in-vietnam-have-been-brought-back-to-the-country/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1290,17 +1325,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T00:49:09+00:00",
         "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम में स्पीड बोट हादसे में मारे गए 15 भारतीयों के पार्थिव शरीर स्वदेश लाए गए",
-        "summary": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि […]",
-        "article": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि आन्ध्रप्रदेश, केरल और तमिलनाडु की सरकारें इन शवों को उनके संबंधित राज्यों में उनके आवास पर पहुंचाने में समन्वय करेंगी। वियतनाम के अधिकारियों और सरकार के प्रति आभार व्यक्त करते हुए दूतावास ने बताया कि उनकी प्रार्थना, प्रयास और मौजूदगी ने इस दुख की घड़ी में शक्ति प्रदान की। 32 भारतीय पर्यटकों और चार स्थानीय क्रू के सद्स्यों वाली स्पीड बोट शुक्रवार को वियतनाम में फू क्वोक द्वीप में पलट गई। इस कारण 15 पर्यटकों की मृत्यु हो गई। इस दुर्घटना में बचने वाले 16 पर्यटक भी भारत लौट चुके हैं। इनमें से एक पर्यटक वियतनाम के एक अस्पताल में भर्ती है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:47:11+00:00",
-        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-a-speedboat-accident-in-vietnam-have-been-brought-back-to-the-country/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1356,41 +1380,52 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T16:51:03+00:00",
         "link": "https://newsonair.gov.in/hi/heavy-rain-alert-in-many-states-including-bihar-odisha/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260628303f-1-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सर्वोच्च न्यायालय का केंद्र को निर्देश, वायुयान नियमों को 2 सप्ताह के भीतर रिकॉर्ड पर रखने को कहा",
-        "summary": "सर्वोच्च न्यायालय ने आज केंद्र सरकार को भारतीय वायुयान अधिनियम, 2024 के अंतर्गत बनाए गए नियमों को दो सप्ताह के भीतर रिकॉर्ड पर रखने का निर्देश दिया। यह कानून देश के नागर विमानन ढांचे को आधुनिक बनाने के उद्देश्य से बनाया गया है। एक जनहित याचिका पर सुनवाई करते हुए, न्‍यायालय की पीठ ने केंद्र […]",
-        "article": "सर्वोच्च न्यायालय ने आज केंद्र सरकार को भारतीय वायुयान अधिनियम, 2024 के अंतर्गत बनाए गए नियमों को दो सप्ताह के भीतर रिकॉर्ड पर रखने का निर्देश दिया। यह कानून देश के नागर विमानन ढांचे को आधुनिक बनाने के उद्देश्य से बनाया गया है। एक जनहित याचिका पर सुनवाई करते हुए, न्&#x200d;यायालय की पीठ ने केंद्र सरकार से कहा कि चाहे ये नियम संसद में रखे गए हों या नहीं, उन्हें सीलबंद लिफाफे में न्&#x200d;यायालय के समक्ष प्रस्तुत किया जाए। केंद्र सरकार के वकील ने बताया कि नियमों का मसौदा तैयार है और उनका अनुवाद किया जा रहा है। वकील ने कहा कि नियमों को संसद के समक्ष रखना अनिवार्य है। मामले की अगली सुनवाई 3 अगस्त को होगी। जनहित याचिका में नागर विमानन क्षेत्र में पारदर्शिता और यात्री सुरक्षा सुनिश्चित करने वाले एक मजबूत और स्वतंत्र नियामक की मांग की गई है। याचिका में देश में निजी एयरलाइनों के हवाई किराए और अन्य शुल्कों में अप्रत्याशित उतार-चढ़ाव को नियंत्रित करने के लिए भी नियामक दिशानिर्देशों की मांग की गई है। इससे पहले, केंद्र सरकार ने सर्वोच्च न्यायालय को बताया था कि नागर विमानन मंत्रालय, याचिका में उठाए गए मुद्दों पर विचार कर रहा है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:44:23+00:00",
-        "link": "https://newsonair.gov.in/hi/supreme-court-asks-centre-to-place-aircraft-rules-on-record-within-two-weeks/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/thvli-supreme-court-of-indiaasjdhsakldasd.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "‘स्वयान’ पहल के अंतर्गत ड्रोन अनुप्रयोग और अनुसंधान के लिए राष्ट्रीय नवाचार चुनौती के दूसरे संस्करण का शुभारंभ",
-        "summary": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने ड्रोन फेडरेशन इंडिया के सहयोग से आज &#8216;स्वयान&#8217; पहल के अंतर्गत ड्रोन अनुप्रयोग और अनुसंधान के लिए राष्ट्रीय नवाचार चुनौती के दूसरे संस्करण का शुभारंभ किया। जुलाई 2022 में लगभग 90 करोड़ रुपये के परिव्यय के साथ स्वीकृत इस पहल का उद्देश्य देश में ड्रोन क्षेत्र के लिए आवश्यक […]",
-        "article": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने ड्रोन फेडरेशन इंडिया के सहयोग से आज &#8216;स्वयान&#8217; पहल के अंतर्गत ड्रोन अनुप्रयोग और अनुसंधान के लिए राष्ट्रीय नवाचार चुनौती के दूसरे संस्करण का शुभारंभ किया। जुलाई 2022 में लगभग 90 करोड़ रुपये के परिव्यय के साथ स्वीकृत इस पहल का उद्देश्य देश में ड्रोन क्षेत्र के लिए आवश्यक कुशल कार्यबल का निर्माण करना है। यह पहल छात्रों को भारतीय निर्मित चिप से संचालित स्मार्ट ड्रोन बनाने की चुनौती देता है। यह छात्र टीमों के लिए स्टार्टअप इनक्यूबेशन, क्लाउड क्रेडिट, सॉफ्टवेयर सहायता और इंटर्नशिप के साथ-साथ 65 लाख रुपये से अधिक का पुरस्कार प्रदान करता है। इस अवसर पर मंत्रालय के सचिव एस. कृष्णन ने कहा कि यह पहल छात्रों को ड्रोन उड़ाने से ड्रोन बनाने तक ले जाता है। उन्होंने बताया कि मार्च 2025 में शुरू हुए पहले संस्करण में 22 राज्यों और 4 केंद्र शासित प्रदेशों के 3 हजार से अधिक छात्र शामिल हुए थे। उन्होंने आपदा प्रबंधन और सटीक कृषि के लिए स्वायत्त ड्रोन समाधान विकसित किए। 93 टीम फाइनल में पहुंचे और 24 टीम ने कुल 40 लाख रुपये के पुरस्कार जीते।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:39:27+00:00",
-        "link": "https://newsonair.gov.in/hi/launch-of-the-second-edition-of-the-national-innovation-challenge-for-drone-applications-and-research-under-the-swayan-initiative/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
-        "title": "भारत ने 2028-29 के लिए संयुक्त राष्ट्र सुरक्षा परिषद की अस्थायी सदस्य के रूप में चुनाव अभियान शुरू किया",
-        "summary": "भारत ने 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में चुनाव के लिए आधिकारिक तौर पर अपना अभियान शुरू कर दिया है। विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कल रात न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में वैश्विक शांति, सुरक्षा और विकास को बढ़ावा देने के लिए भारत का शांति […]",
-        "article": "भारत ने 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में चुनाव के लिए आधिकारिक तौर पर अपना अभियान शुरू कर दिया है। विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कल रात न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में वैश्विक शांति, सुरक्षा और विकास को बढ़ावा देने के लिए भारत का शांति दृष्टिकोण प्रस्&#x200d;तुत किया। उन्होंने कहा कि वैश्विक संघर्षों और अस्थिरता के बीच संयुक्&#x200d;त राष्&#x200d;ट्र की भूमिका पहले से अधिक महत्&#x200d;वपूर्ण हो गई है। डॉ. जयशंकर ने कहा कि भारत ने संयुक्त राष्ट्र के लगभग 50 शांति अभियानों में लगभग तीन लाख सुरक्षा कर्मियों का योगदान दिया है और वर्तमान में 10 संयुक्त राष्ट्र शांति अभियानों में 4 हजार 300 से अधिक सुरक्षाकर्मी कार्यरत हैं। उन्होंने कहा कि भारत ने निरंतर संवाद, कूटनीति का समर्थन किया है और विकासशील देशों की समस्&#x200d;याओं को प्रमुखता से उठाया है। डॉ. जयशंकर ने सदस्&#x200d;य देशों से भारत की उम्&#x200d;मीदवारी का समर्थन करने का आह्वान किया। उन्&#x200d;होंने कहा कि सुरक्षा परिषद में भारत की उपस्थिति इस महत्वपूर्ण निकाय में निर्णय प्रक्रिया को और सशक्&#x200d;त करेगी। भारत सुरक्षा परिषद के गैर-स्थायी सदस्य के रूप में आठ कार्यकाल पूरे कर चुका है।",
+        "title": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन भारत टेक्स 2026 आज नई दिल्ली में शुरू होगा",
+        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन, भारत टेक्स 2026, आज नई दिल्ली के भारत मंडपम में शुरू हो रहा है। केंद्रीय वस्त्र मंत्री गिरिराज सिंह इस सम्‍मेलन का उद्घाटन करेंगे। प्रधानमंत्री नरेंद्र मोदी के 5एफ विजन (खेत से फाइबर, कारखाने से फैक्ट्री, फैशन से विदेश तक) से प्रेरित भारत टेक्स 2026 का उद्देश्य वस्त्र […]",
+        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन, भारत टेक्स 2026, आज नई दिल्ली के भारत मंडपम में शुरू हो रहा है। केंद्रीय वस्त्र मंत्री गिरिराज सिंह इस सम्&#x200d;मेलन का उद्घाटन करेंगे। प्रधानमंत्री नरेंद्र मोदी के 5एफ विजन (खेत से फाइबर, कारखाने से फैक्ट्री, फैशन से विदेश तक) से प्रेरित भारत टेक्स 2026 का उद्देश्य वस्त्र मूल्य श्रृंखला में व्यापार, निवेश, स्रोत, नवाचार, नीतिगत संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख मंच के रूप में विकसित होना है।",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:54:42+00:00",
+        "pubDate": "2026-07-14T02:57:27+00:00",
+        "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zrGSLLon.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विदेश मंत्री डॉ. एस जयशंकर ने न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की",
+        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्‍होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 […]",
+        "article": "विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्&#x200d;होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद में अस्थायी सीट के लिए भारत के चुनाव में अभियान का नेतृत्व करने के लिए न्यूयॉर्क में हैं।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:54:43+00:00",
+        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-met-united-nations-secretary-general-antonio-guterres-in-new-york/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNI6teRWUAAleDS.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए आधिकारिक रूप से चुनाव अभियान शुरू किया",
+        "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा […]",
+        "article": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा वैश्विक परिस्थितियों में संयुक्त राष्ट्र की भूमिका पहले से अधिक महत्वपूर्ण हो गई है। डॉक्टर जयशंकर ने कहा कि भारत अब तक संयुक्त राष्ट्र के लगभग पचास शांति मिशनों में करीब तीन लाख शांति सैनिक भेज चुका है और वर्तमान में दस मिशनों में चार हजार तीन सौ से अधिक भारतीय कर्मी तैनात हैं। उन्होंने कहा कि भारत हमेशा संवाद, कूटनीति और वैश्विक दक्षिण के हितों की महत्व देता रहा है। उन्होंने सदस्य देशों से भारत की उम्मीदवारी का समर्थन करने की अपील की। निर्वाचित होने पर भारत वर्ष 2028 से दो वर्ष के लिए सुरक्षा परिषद का अस्थायी सदस्य बनेगा। भारत इससे पहले आठ बार इस पद पर रह चुका है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:46:42+00:00",
         "link": "https://newsonair.gov.in/hi/india-has-launched-its-election-campaign-for-a-non-permanent-seat-on-the-united-nations-security-council-for-the-2028-29-term/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNIgQ1wXkAAbN-v.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वियतनाम में स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर मुंबई लाए गए",
+        "summary": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि […]",
+        "article": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि आन्ध्रप्रदेश, केरल और तमिलनाडु की सरकारें इन शवों को उनके संबंधित राज्यों में उनके आवास पर पहुंचाने में समन्वय करेंगी। वियतनाम के अधिकारियों और सरकार के प्रति आभार व्यक्त करते हुए दूतावास ने बताया कि उनकी प्रार्थना, प्रयास और मौजूदगी ने इस दुख की घड़ी में शक्ति प्रदान की। 32 भारतीय पर्यटकों और चार स्थानीय क्रू के सद्स्यों वाली स्पीड बोट शुक्रवार को वियतनाम में फू क्वोक द्वीप में पलट गई। इस कारण 15 पर्यटकों की मृत्यु हो गई। इस दुर्घटना में बचने वाले 16 पर्यटक भी भारत लौट चुके हैं। इनमें से एक पर्यटक वियतनाम के एक अस्पताल में भर्ती है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:45:11+00:00",
+        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-a-speedboat-accident-in-vietnam-have-been-brought-back-to-the-country/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1402,17 +1437,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T00:49:09+00:00",
         "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम में स्पीड बोट हादसे में मारे गए 15 भारतीयों के पार्थिव शरीर स्वदेश लाए गए",
-        "summary": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि […]",
-        "article": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि आन्ध्रप्रदेश, केरल और तमिलनाडु की सरकारें इन शवों को उनके संबंधित राज्यों में उनके आवास पर पहुंचाने में समन्वय करेंगी। वियतनाम के अधिकारियों और सरकार के प्रति आभार व्यक्त करते हुए दूतावास ने बताया कि उनकी प्रार्थना, प्रयास और मौजूदगी ने इस दुख की घड़ी में शक्ति प्रदान की। 32 भारतीय पर्यटकों और चार स्थानीय क्रू के सद्स्यों वाली स्पीड बोट शुक्रवार को वियतनाम में फू क्वोक द्वीप में पलट गई। इस कारण 15 पर्यटकों की मृत्यु हो गई। इस दुर्घटना में बचने वाले 16 पर्यटक भी भारत लौट चुके हैं। इनमें से एक पर्यटक वियतनाम के एक अस्पताल में भर्ती है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:47:11+00:00",
-        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-a-speedboat-accident-in-vietnam-have-been-brought-back-to-the-country/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1470,31 +1494,64 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260628303f-1-scaled.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "सर्वोच्च न्यायालय का केंद्र को निर्देश, वायुयान नियमों को 2 सप्ताह के भीतर रिकॉर्ड पर रखने को कहा",
-        "summary": "सर्वोच्च न्यायालय ने आज केंद्र सरकार को भारतीय वायुयान अधिनियम, 2024 के अंतर्गत बनाए गए नियमों को दो सप्ताह के भीतर रिकॉर्ड पर रखने का निर्देश दिया। यह कानून देश के नागर विमानन ढांचे को आधुनिक बनाने के उद्देश्य से बनाया गया है। एक जनहित याचिका पर सुनवाई करते हुए, न्‍यायालय की पीठ ने केंद्र […]",
-        "article": "सर्वोच्च न्यायालय ने आज केंद्र सरकार को भारतीय वायुयान अधिनियम, 2024 के अंतर्गत बनाए गए नियमों को दो सप्ताह के भीतर रिकॉर्ड पर रखने का निर्देश दिया। यह कानून देश के नागर विमानन ढांचे को आधुनिक बनाने के उद्देश्य से बनाया गया है। एक जनहित याचिका पर सुनवाई करते हुए, न्&#x200d;यायालय की पीठ ने केंद्र सरकार से कहा कि चाहे ये नियम संसद में रखे गए हों या नहीं, उन्हें सीलबंद लिफाफे में न्&#x200d;यायालय के समक्ष प्रस्तुत किया जाए। केंद्र सरकार के वकील ने बताया कि नियमों का मसौदा तैयार है और उनका अनुवाद किया जा रहा है। वकील ने कहा कि नियमों को संसद के समक्ष रखना अनिवार्य है। मामले की अगली सुनवाई 3 अगस्त को होगी। जनहित याचिका में नागर विमानन क्षेत्र में पारदर्शिता और यात्री सुरक्षा सुनिश्चित करने वाले एक मजबूत और स्वतंत्र नियामक की मांग की गई है। याचिका में देश में निजी एयरलाइनों के हवाई किराए और अन्य शुल्कों में अप्रत्याशित उतार-चढ़ाव को नियंत्रित करने के लिए भी नियामक दिशानिर्देशों की मांग की गई है। इससे पहले, केंद्र सरकार ने सर्वोच्च न्यायालय को बताया था कि नागर विमानन मंत्रालय, याचिका में उठाए गए मुद्दों पर विचार कर रहा है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:44:23+00:00",
-        "link": "https://newsonair.gov.in/hi/supreme-court-asks-centre-to-place-aircraft-rules-on-record-within-two-weeks/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/thvli-supreme-court-of-indiaasjdhsakldasd.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "‘स्वयान’ पहल के अंतर्गत ड्रोन अनुप्रयोग और अनुसंधान के लिए राष्ट्रीय नवाचार चुनौती के दूसरे संस्करण का शुभारंभ",
-        "summary": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने ड्रोन फेडरेशन इंडिया के सहयोग से आज &#8216;स्वयान&#8217; पहल के अंतर्गत ड्रोन अनुप्रयोग और अनुसंधान के लिए राष्ट्रीय नवाचार चुनौती के दूसरे संस्करण का शुभारंभ किया। जुलाई 2022 में लगभग 90 करोड़ रुपये के परिव्यय के साथ स्वीकृत इस पहल का उद्देश्य देश में ड्रोन क्षेत्र के लिए आवश्यक […]",
-        "article": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने ड्रोन फेडरेशन इंडिया के सहयोग से आज &#8216;स्वयान&#8217; पहल के अंतर्गत ड्रोन अनुप्रयोग और अनुसंधान के लिए राष्ट्रीय नवाचार चुनौती के दूसरे संस्करण का शुभारंभ किया। जुलाई 2022 में लगभग 90 करोड़ रुपये के परिव्यय के साथ स्वीकृत इस पहल का उद्देश्य देश में ड्रोन क्षेत्र के लिए आवश्यक कुशल कार्यबल का निर्माण करना है। यह पहल छात्रों को भारतीय निर्मित चिप से संचालित स्मार्ट ड्रोन बनाने की चुनौती देता है। यह छात्र टीमों के लिए स्टार्टअप इनक्यूबेशन, क्लाउड क्रेडिट, सॉफ्टवेयर सहायता और इंटर्नशिप के साथ-साथ 65 लाख रुपये से अधिक का पुरस्कार प्रदान करता है। इस अवसर पर मंत्रालय के सचिव एस. कृष्णन ने कहा कि यह पहल छात्रों को ड्रोन उड़ाने से ड्रोन बनाने तक ले जाता है। उन्होंने बताया कि मार्च 2025 में शुरू हुए पहले संस्करण में 22 राज्यों और 4 केंद्र शासित प्रदेशों के 3 हजार से अधिक छात्र शामिल हुए थे। उन्होंने आपदा प्रबंधन और सटीक कृषि के लिए स्वायत्त ड्रोन समाधान विकसित किए। 93 टीम फाइनल में पहुंचे और 24 टीम ने कुल 40 लाख रुपये के पुरस्कार जीते।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:39:27+00:00",
-        "link": "https://newsonair.gov.in/hi/launch-of-the-second-edition-of-the-national-innovation-challenge-for-drone-applications-and-research-under-the-swayan-initiative/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "यमन में ईरान समर्थित हूती विद्रोहियों ने कहा कि उन्होंने सऊदी अरब के आभा इंटरनेशनल एयरपोर्ट पर मिसाइलें और ड्रोन हमले किए",
+        "summary": "यमन में ईरान समर्थित हूती विद्रोहियों ने कहा कि उन्होंने कल सऊदी अरब के आभा इंटरनेशनल एयरपोर्ट पर मिसाइलें और ड्रोन हमले किए। यह कदम यमन के सना इंटरनेशनल एयरपोर्ट पर पहले हुए हवाई हमलों के जवाब में उठाया गया है। उनका आरोप है कि ये हमले कल रियाद ने किए थे। इसमें किसी के […]",
+        "article": "यमन में ईरान समर्थित हूती विद्रोहियों ने कहा कि उन्होंने कल सऊदी अरब के आभा इंटरनेशनल एयरपोर्ट पर मिसाइलें और ड्रोन हमले किए। यह कदम यमन के सना इंटरनेशनल एयरपोर्ट पर पहले हुए हवाई हमलों के जवाब में उठाया गया है। उनका आरोप है कि ये हमले कल रियाद ने किए थे। इसमें किसी के हताहत होने की खबर नहीं है। इन हमलों ने तनाव को उस स्तर पर पहुंचा दिया है जो सऊदी के नेतृत्व वाले गठबंधन द्वारा कई साल पहले हूती-नियंत्रित इलाकों पर हमले के बाद से नहीं देखा गया था। सऊदी अरब के अधिकारियों ने यमन में हवाई हमलों के बारे में तुरंत कोई प्रतिक्रिया नहीं दी। हूती सैन्य प्रवक्ता ब्रिगेडियर जनरल याह्या सरी ने एक वीडियो बयान में एयरलाइंस को सऊदी हवाई क्षेत्र से उड़ान भरने के खिलाफ चेतावनी दी। प्रवक्ता ने कहा कि जब तक सना इंटरनेशनल एयरपोर्ट पर लगी नाकेबंदी नहीं हटाई जाती, तब तक इन चेतावनियों को गंभीरता से लिया जाना चाहिए। हूती सैन्य प्रवक्ता ने चेतावनी दी कि इस आक्रामकता का जवाब दिया जाएगा और इसे बिना सजा के नहीं छोड़ा जाएगा। यमन में अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त सरकार ने पहले कहा था कि सना इंटरनेशनल एयरपोर्ट पर हुए हमलों का उद्देश्य एक ईरानी विमान को उतरने से रोकना था। संयुक्त राष्ट्र सुरक्षा परिषद के अधिकारियों ने आज एक आपात बैठक में तनाव के और बढ़ने के जोखिम पर चिंता व्यक्त की। यमन में वैधता बहाल करने वाले सऊदी-नेतृत्व वाले गठबंधन के आधिकारिक प्रवक्ता मेजर जनरल तुर्की अल-माल्की ने सोशल मीडिया पोस्ट में कहा कि सऊदी वायु रक्षा प्रणालियों ने हूतियों द्वारा दागी गई बैलिस्टिक मिसाइलों को नाकाम कर दिया, हालांकि उन्होंने और विवरण नहीं दिया। सऊदी-नेतृत्व वाले गठबंधन ने आखिरी बार हूती-नियंत्रित इलाकों को तब निशाना बनाया था जब 2022 में लड़ाई रोकने के लिए संयुक्त राष्ट्र की मध्यस्थता में समझौता लागू हुआ था।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T03:46:41+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%af%e0%a4%ae%e0%a4%a8-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8-%e0%a4%b8%e0%a4%ae%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a4%bf%e0%a4%a4-%e0%a4%b9%e0%a5%82%e0%a4%a4%e0%a5%80/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका: सीनेटर लिंडसे ग्राहम के निधन के बाद डार्लिन ग्राहम नॉर्डोन कार्यवाहक सीनेटर नियुक्त",
+        "summary": "अमरीका के दक्षिणी केरोलिना से सीनेटर लिंडसे ग्राहम निधन के बाद, उनकी बहन डार्लिन ग्राहम नॉर्डोन को उनके स्‍थान पर कार्यवाहक सीनेटर नियुक्त किया गया है। दक्षिण कैरोलिना के गवर्नर हेनरी मैकमास्टर ने कल औपचारिक रूप से उन्हें इस पद के लिए चुना। मैकमास्टर ने कहा कि वह ग्राहम के अगले साल समाप्त होने वाले […]",
+        "article": "अमरीका के दक्षिणी केरोलिना से सीनेटर लिंडसे ग्राहम निधन के बाद, उनकी बहन डार्लिन ग्राहम नॉर्डोन को उनके स्&#x200d;थान पर कार्यवाहक सीनेटर नियुक्त किया गया है। दक्षिण कैरोलिना के गवर्नर हेनरी मैकमास्टर ने कल औपचारिक रूप से उन्हें इस पद के लिए चुना। मैकमास्टर ने कहा कि वह ग्राहम के अगले साल समाप्त होने वाले शेष कार्यकाल को पूरा करेंगी। अमरीकी राष्ट्रपति डोनाल्ड ट्रम्प सहित अधिकारियों ने दिवंगत सीनेटर को श्रद्धांजलि देते हुए ग्राहम नॉर्डोन को उनका उत्&#x200d;तराधिकारी नियुक्&#x200d;त किए जाने का समर्थन किया। वाशिंगटन डीसी के चिकित्सा परीक्षक की प्रारंभिक रिपोर्ट के अनुसार, 71 वर्षीय ग्राहम की मृत्यु हृदय रोग के कारण महाधमनी विच्छेदन से हुई। ग्राहम नवंबर में फिर से चुनाव लड़ रहे थे और उन्हें रिपब्लिकन पार्टी का नामांकन प्राप्त था। 2002 में सीनेट के लिए चुने गए ग्राहम विदेश नीति पर वाशिंगटन की सबसे प्रभावशाली आवाजों में से एक थे।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T03:15:56+00:00",
+        "link": "https://newsonair.gov.in/hi/usa-darlene-graham-nordone-appointed-acting-senator-following-the-passing-of-senator-lindsey-graham/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNKBYZobgAAvFzp.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "होर्मुज़ जलडमरूमध्य में यूएई के दो टैंकरों पर ईरानी मिसाइल हमला, एक भारतीय क्रू सदस्य की मौत",
+        "summary": "होर्मुज़ जलडमरूमध्य से गुज़रते समय संयुक्त अरब अमीरात (यूएई) के दो टैंकरों पर ईरान की क्रूज़ मिसाइलों के हमले में एक भारतीय क्रू सदस्य की मौत हो गई और छह अन्य घायल हो गए। यूएई के रक्षा मंत्रालय ने आज सोशल मीडिया पर यह जानकारी दी। मंत्रालय ने बताया कि &#8216;मोम्बासा&#8217; और &#8216;अल बहिया&#8217; नाम […]",
+        "article": "होर्मुज़ जलडमरूमध्य से गुज़रते समय संयुक्त अरब अमीरात (यूएई) के दो टैंकरों पर ईरान की क्रूज़ मिसाइलों के हमले में एक भारतीय क्रू सदस्य की मौत हो गई और छह अन्य घायल हो गए। यूएई के रक्षा मंत्रालय ने आज सोशल मीडिया पर यह जानकारी दी। मंत्रालय ने बताया कि &#8216;मोम्बासा&#8217; और &#8216;अल बहिया&#8217; नाम के इन टैंकरों को जलडमरूमध्य के दक्षिणी लेन में ओमान की समुद्री सीमा के भीतर निशाना बनाया गया। मारे गए क्रू सदस्य &#8216;मोम्बासा&#8217; टैंकर पर सवार थे। घायलों में से चार की हालत गंभीर है। घायलों में छह भारतीय और यूक्रेन के दो नागरिक शामिल हैं। यूएई के रक्षा मंत्रालय ने इस हमले की निंदा करते हुए इसे अंतरराष्ट्रीय कानून का खुला उल्लंघन और क्षेत्रीय सुरक्षा तथा स्थिरता के लिए गंभीर खतरा बताया। मंत्रालय ने कहा कि वह किसी भी खतरे से निपटने के लिए पूरी तरह तैयार और सतर्क है। मंत्रालय का कहना है कि देश की सुरक्षा तथा स्थिरता को नुकसान पहुंचाने की किसी भी कोशिश का कड़ा जवाब देने के लिए सभी ज़रूरी कदम उठाया जा रहा है। समुद्री मार्ग में हुई ये ताज़ा घटनाएं पश्चिम एशियाई क्षेत्र में हफ़्तों से चल रहे तनाव के बाद सामने आई हैं।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:58:34+00:00",
+        "link": "https://newsonair.gov.in/hi/iranian-missile-attack-on-two-uae-tankers-in-the-strait-of-hormuz-one-indian-crew-member-killed/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-4-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "यूक्रेन सहित दस देशों ने यूरोप को बैलिस्टिक मिसाइलों से बचाने के लिए गठबंधन बनाने की घोषणा की",
+        "summary": "यूक्रेन और नौ अन्य देशों ने घोषणा की है कि वे यूरोप को बैलिस्टिक मिसाइलों से बचाने के लिए एक गठबंधन बना रहे हैं। यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की और डेनमार्क, फ्रांस, जर्मनी, इटली, नीदरलैंड्स, नॉर्वे, स्पेन, स्वीडन और ब्रिटेन के नेताओं ने कहा कि वे बैलिस्टिक मिसाइलों से बढ़ते खतरे को समझते हैं। इन […]",
+        "article": "यूक्रेन और नौ अन्य देशों ने घोषणा की है कि वे यूरोप को बैलिस्टिक मिसाइलों से बचाने के लिए एक गठबंधन बना रहे हैं। यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की और डेनमार्क, फ्रांस, जर्मनी, इटली, नीदरलैंड्स, नॉर्वे, स्पेन, स्वीडन और ब्रिटेन के नेताओं ने कहा कि वे बैलिस्टिक मिसाइलों से बढ़ते खतरे को समझते हैं। इन मिसाइलों को क्रूज़ मिसाइलों या ड्रोन की तुलना में रोकना ज़्यादा मुश्किल होता है। पेरिस में जारी एक बयान में इन 10 देशों ने कहा कि उनका लक्ष्य यूरोप के लिए एक साझा बैलिस्टिक मिसाइल रक्षा क्षमता विकसित करना है। इसके लिए वे रूस के पूर्ण-स्तरीय हमले के चार वर्ष से अधिक समय से सामना करने के कीव के अनुभव का लाभ उठाएंगे। बयान में इस रक्षा प्रणाली को स्थापित करने के लिए कोई समय-सीमा नहीं बताई गई है। ब्यान में यह भी कहा गया कि यह योजना अन्य देशों के लिए भी खुली है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:44:45+00:00",
+        "link": "https://newsonair.gov.in/hi/ten-countries-including-ukraine-announced-the-formation-of-an-alliance-to-protect-europe-from-ballistic-missiles/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNJvv2ra0AA5frQ-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका के राष्ट्रपति ने होर्मुज जलडमरूमध्य में ईरानी जहाजों की नाकेबंदी फिर शुरू करने की घोषणा की",
+        "summary": "अमरीका ने लगातार तीसरी रात ईरान पर हमले किए। इससे दोनों देशों के बीच दुश्मनी और बढ़ गई है। अमरीकी सेंट्रल कमान-सेंटकॉम ने कहा कि इन हमलों से ईरानी सेना को भारी नुकसान उठाना पड़ेगा और होर्मुज़ जलडमरूमध्य में निर्दोष नागरिकों और वाणिज्यिक जहाजों पर हमला करने की उनकी क्षमता कमज़ोर होगी। अमरीका के राष्ट्रपति […]",
+        "article": "अमरीका ने लगातार तीसरी रात ईरान पर हमले किए। इससे दोनों देशों के बीच दुश्मनी और बढ़ गई है। अमरीकी सेंट्रल कमान-सेंटकॉम ने कहा कि इन हमलों से ईरानी सेना को भारी नुकसान उठाना पड़ेगा और होर्मुज़ जलडमरूमध्य में निर्दोष नागरिकों और वाणिज्यिक जहाजों पर हमला करने की उनकी क्षमता कमज़ोर होगी। अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने नतांज़ के पास मौजूद &#8216;पिकैक्स माउंटेन&#8217; को नष्ट करने की धमकी दी है। यह ज़मीन के बहुत नीचे बना एक न्यूक्लियर साइट है, जिसके बारे में पश्चिमी खुफिया एजेंसियों को शक है कि ईरान वहाँ एक अघोषित परमाणु संवर्धन सुविधा का निर्माण कर रहा है। इससे पहले कल अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने घोषणा की है कि अमरीका होर्मुज़ जलडमरूमध्य में ईरानी जहाजों की फिर से नाकाबंदी करेगा। इसके अलावा अमरीका समुद्री सुरक्षा का खर्च उठाने के लिए इस महत्वपूर्ण समुद्री मार्ग से गुजरने वाले माल पर 20 प्रतिशत शुल्क लगाएगा। राष्ट्रपति ट्रंप ने &#8216;ट्रुथ सोशल&#8217; पर एक पोस्ट में कहा कि यह रोक सिर्फ़ ईरानी जहाजों और ईरान के साथ व्यापार करने वाले जहाजों पर लागू होगी। उन्होंने कहा कि होर्मुज़ जलडमरूमध्य खुला है और ईरान के साथ या उसके बिना खुला रहेगा। उन्होंने भरोसा दिलाया कि दूसरे देशों के वाणिज्यिक जहाजों की आवाजाही बिना किसी रोक-टोक के जारी रहेगी। अमरीका की सेना ने कहा है कि वह आज रात से ईरानी बंदरगाहों की नाकेबंदी फिर से शुरू करेगी। यह घोषणा होर्मुज़ जलडमरूमध्य में जहाजों पर ईरानी हमलों के बाद फिर से बढ़े तनाव के बीच की गई है। अमरीका ने ईरान में कई ठिकानों पर हमले भी किए हैं, जिसके जवाब में ईरान ने बहरीन, ओमान और कुवैत सहित पूरे पश्चिम एशिया में जवाबी हमले किए हैं। दूसरी ओर ईरान ने होर्मुज़ जलडमरूमध्य पर अपना अधिकार जताया है और अमरीका के इस कदम को खारिज कर दिया है। ईरानी सरकारी मीडिया के अनुसार, सेंट्रल हेडक्वार्टर के प्रवक्ता ब्रिगेडियर जनरल इब्राहिम ज़ोलफ़गारी ने कहा कि ईरान किसी भी हाल में अमरीका को होर्मुज़ जलडमरूमध्य के प्रबंधन में दखल नहीं देने देगा। उन्होंने यह भी चेतावनी दी कि अगर कोई क्षेत्रीय देश अमरीका की सेना को लॉजिस्टिकल मदद देता है, तो इसे ईरान के खिलाफ़ युद्ध की कार्रवाई माना जाएगा। अंतर्राष्ट्रीय नौवहन की देखरेख करने वाली संयुक्त राष्ट्र की एजेंसी अंतर्राष्ट्रीय समुद्री संगठन ने कहा कि वह राष्ट्रपति ट्रंप के प्रस्ताव के बारे में और जानकारी का इंतज़ार कर रहा है, लेकिन अंतर्राष्ट्रीय जलमार्गों से गुजरने के लिए शुल्क लगाने का विरोध करता है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:43:15+00:00",
+        "link": "https://newsonair.gov.in/hi/president-donald-trump-announced-the-resumption-of-the-blockade-by-iranian-ships-in-the-strait-of-hormuz/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/trump-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "यूरोपीय संघ ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया",
         "summary": "यूरोपीय संघ (ईयू) ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया है। संघ के शीर्ष राजनयिक ने कल कहा कि यूरोपीय संघ व्हाइट हाउस और संयुक्त राष्ट्र सहित 65 सरकारों और संगठनों के साथ मिलकर काम कर रहा है। ब्रसेल्स में &#8216;फिलिस्तीन डोनर्स ग्रुप&#8217; की बैठक के […]",
@@ -1540,39 +1597,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "प. एशिया: अमरीका और ईरान दोनों ने होर्मुज जल-डमरू-मध्य पर अपना नियंत्रण होने का दावा किया",
-        "summary": "पश्चिम एशिया में अमरीका और ईरान दोनों ने होर्मुज जल-डमरू-मध्य पर अपना नियंत्रण होने का दावा किया है। इससे क्षेत्रीय सुरक्षा और कूटनीतिक प्रयासों को लेकर नई चिंताएं पैदा हो गई हैं। ओमान के पास होर्मुज जल-डमरू-मध्य में वाणिज्यिक जहाजों पर ईरान द्वारा किए गए हालिया ड्रोन और मिसाइल हमलों के बाद क्षेत्र में तनाव […]",
-        "article": "पश्चिम एशिया में अमरीका और ईरान दोनों ने होर्मुज जल-डमरू-मध्य पर अपना नियंत्रण होने का दावा किया है। इससे क्षेत्रीय सुरक्षा और कूटनीतिक प्रयासों को लेकर नई चिंताएं पैदा हो गई हैं। ओमान के पास होर्मुज जल-डमरू-मध्य में वाणिज्यिक जहाजों पर ईरान द्वारा किए गए हालिया ड्रोन और मिसाइल हमलों के बाद क्षेत्र में तनाव बढ़ गया है। इसके बाद से होर्मुज से कोई भी वाणिज्यिक पोत नहीं गुजरा है। अमरीका ने कहा है कि उसने रातभर ईरान के कई सैन्य ठिकानों पर हमले किए। इनमें वायु रक्षा प्रणालियां, तटीय रडार केंद्र, मिसाइल और ड्रोन ठिकाने तथा छोटे नौसैनिक पोत शामिल हैं। अमरीका का कहना है कि इस अभियान में पहली बार एकतरफा हमला करने वाले समुद्री ड्रोन का भी इस्तेमाल किया गया। अमरीका के अनुसार, यह कार्रवाई ईरान द्वारा वाणिज्यिक जहाजों पर किए गए हमलों के जवाब में की गई। वहीं, ईरान ने जॉर्डन, बहरीन और कुवैत में अमरीका के सैन्य अड्डों के साथ-साथ ओमान में रडार ठिकानों को निशाना बनाने का दावा किया है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T15:21:48+00:00",
-        "link": "https://newsonair.gov.in/hi/west-asia-both-the-us-and-iran-have-claimed-control-over-the-strait-of-hormuz/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/hormuz-1.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "न्यूजीलैंड के अभिनेता सैम नील का 78 वर्ष की आयु में निधन हो गया",
-        "summary": "न्यूजीलैंड के अभिनेता सैम नील का 78 वर्ष की आयु में निधन हो गया है। वे &#8216;जुरासिक पार्क&#8217; और &#8216;द पियानो&#8217; जैसी फिल्मों में अपनी भूमिकाओं के लिए जाने जाते थे। उनके परिवार ने बताया कि सिडनी में आज अचानक और आपातकालीन चिकित्सा घटना के बाद उनका निधन हो गया। पांच दशकों से अधिक के […]",
-        "article": "न्यूजीलैंड के अभिनेता सैम नील का 78 वर्ष की आयु में निधन हो गया है। वे &#8216;जुरासिक पार्क&#8217; और &#8216;द पियानो&#8217; जैसी फिल्मों में अपनी भूमिकाओं के लिए जाने जाते थे। उनके परिवार ने बताया कि सिडनी में आज अचानक और आपातकालीन चिकित्सा घटना के बाद उनका निधन हो गया। पांच दशकों से अधिक के अपने करियर के दौरान, नील ने प्रशंसित नाटकों और प्रमुख हॉलीवुड फिल्मों में अपने अभिनय के लिए अंतरराष्ट्रीय ख्याति अर्जित की।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T07:33:58+00:00",
-        "link": "https://newsonair.gov.in/hi/new-zealand-actor-sam-neill-has-passed-away-at-the-age-of-78/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-20.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "ईरान के आईआरजीसी ने जॉर्डन, बहरीन और कुवैत में अमरीका के सैन्‍य ठिकानों पर हमलों की जिम्मेदारी ली",
-        "summary": "ईरान की इस्‍लामिक रेवोलुशनरी गार्ड कोर-आईआरजीसी ने जार्डन, बहरीन और कुवैत में अमरीका के सैन्‍य ठिकानों पर मिसाइल और ड्रोन हमलों की जिम्‍मेदारी ली है। ईरान ने इसे हाल में उसके सैन्‍य ठिकानों पर अमरीका द्वारा किए गए हमलों का जबाब बताया है। ईरान की सरकारी समाचार एजेंसी के अनुसार इस कार्रवाई में जॉर्डन के […]",
-        "article": "ईरान की इस्&#x200d;लामिक रेवोलुशनरी गार्ड कोर-आईआरजीसी ने जार्डन, बहरीन और कुवैत में अमरीका के सैन्&#x200d;य ठिकानों पर मिसाइल और ड्रोन हमलों की जिम्&#x200d;मेदारी ली है। ईरान ने इसे हाल में उसके सैन्&#x200d;य ठिकानों पर अमरीका द्वारा किए गए हमलों का जबाब बताया है। ईरान की सरकारी समाचार एजेंसी के अनुसार इस कार्रवाई में जॉर्डन के प्रिंस हसन हवाई अड्डे, बहरीन के शेख इसा हवाई अड्डे और कुवैत में अली-अल-सलेम और अहमद-अल-जाबेर हवाई अड्डों को निशाना बनाया गया। आईआरजीसी ने दावा किया है कि इससे ईंधन डिपो, गोला-बारूद भंडारण प्रतिष्&#x200d;ठानों, वायु रक्षा प्रणालियों और रॉडार ढांचे को नुकसान पहुंचा है। ईरान ने होर्मुज जलडमरूमध्&#x200d;य में आगे किसी भी तरह की सैन्&#x200d;य कार्रवाई करने पर अमरीका को चेतावनी दी है। ये दावे अमरीकी सेंट्रल कमान-सेंटकॉम के प्रमुख अभियान के बाद आया है, जिसमें ईरान में कई जगहों पर आक्रामक हमले किए गए। इन हमलों में कई सैन्&#x200d;य प्रतिष्&#x200d;ठानों को निशाना बनाया गया ताकि अंतर्राष्&#x200d;ट्रीय समुद्री व्&#x200d;यापार में बाधा डालने की ईरान की क्षमता को कमजोर किया जा सके। अमरीका ने कहा है कि ये हमले होर्मुज जलडमरूमध्&#x200d;य की सुरक्षा और आवाजाही में स्&#x200d;वतंत्रता सुनिश्चित करने के उद्देश्&#x200d;य से किए गए थे।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T06:25:04+00:00",
-        "link": "https://newsonair.gov.in/hi/irans-irgc-claimed-responsibility-for-attacks-on-us-military-bases-in-jordan-bahrain-and-kuwait/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
         "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
         "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
@@ -1583,31 +1607,42 @@ window.VM_NEWS = {
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "ब्रुसेल्स में हुई यूरोपीय संघ के विदेश मंत्रियों की बैठक",
-        "summary": "यूरोपीय संघ के विदेश मंत्रियों की बैठक आज ब्रुसेल्स में हुई। बैठक में रूस पर नए प्रतिबंध, यूक्रेन में जारी युद्ध और अंतरराष्ट्रीय सुरक्षा से जुड़े कई मुद्दों पर चर्चा हुई। बैठक से पहले पत्रकारों से बातचीत में यूरोपीय संघ की विदेश नीति प्रमुख काजा कल्लास ने कहा कि रूस पर लगाए जाने वाले प्रतिबंधों […]",
-        "article": "यूरोपीय संघ के विदेश मंत्रियों की बैठक आज ब्रुसेल्स में हुई। बैठक में रूस पर नए प्रतिबंध, यूक्रेन में जारी युद्ध और अंतरराष्ट्रीय सुरक्षा से जुड़े कई मुद्दों पर चर्चा हुई। बैठक से पहले पत्रकारों से बातचीत में यूरोपीय संघ की विदेश नीति प्रमुख काजा कल्लास ने कहा कि रूस पर लगाए जाने वाले प्रतिबंधों की सूची में लगभग 250 नई प्रविष्टियों पर सहमति बनने की उम्मीद है। उन्होंने बताया कि 21वें प्रतिबंध पैकेज पर भी काम जारी है। काजा कल्लास ने कहा कि प्रस्तावित प्रतिबंध हाल में रूस द्वारा नागरिकों पर किए गए हमलों के जवाब में लगाए जा रहे हैं। उन्होंने बताया कि बैठक में रूस के नियंत्रण वाले क्षेत्रों में कथित रूप से हिरासत में रखे गए यूक्रेनी नागरिकों के साथ-साथ युद्धबंदियों और अगवा किए गए बच्चों की स्थिति पर भी चर्चा होगी। उन्होंने कहा कि मंत्री यूरोपीय संघ की ब्लैक सी रणनीति की भी समीक्षा करेंगे। इसके तहत बुल्गारिया और रोमानिया के साथ मिलकर महत्वपूर्ण बुनियादी ढांचे की सुरक्षा और क्षेत्र में बढ़ते खतरों से निपटने के प्रयासों पर विचार किया जाएगा। बैठक के एजेंडे में पश्चिम एशिया की स्थिति भी शामिल है। इस दौरान क्षेत्रीय सुरक्षा और होरमुज जलडमरूमध्य की मौजूदा स्थिति पर खाड़ी देशों के साझेदारों के साथ चर्चा होगी।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T13:54:29+00:00",
-        "link": "https://newsonair.gov.in/hi/meeting-of-european-union-foreign-ministers-in-brussels/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पाकिस्तान: खैबर पख्तूनख्वा में विलय किए गए आदिवासी जिलों में कर लागू करने के फैसले का तेज विरोध",
-        "summary": "पाकिस्तान के खैबर पख्तूनख्वा में विलय किए गए आदिवासी जिलों में कर लागू करने के फैसले का तेज विरोध हो रहा है। नेता, व्यापारी और समाज के प्रतिनिधि मांग कर रहे हैं कि पाकिस्‍तान अगले 10 वर्षों तक कर छूट जारी रखे। खैबर और अन्य पूर्व संघीय प्रशासित जनजातीय क्षेत्रों में आयोजित कई बैठकों, संवाददाता […]",
-        "article": "पाकिस्तान के खैबर पख्तूनख्वा में विलय किए गए आदिवासी जिलों में कर लागू करने के फैसले का तेज विरोध हो रहा है। नेता, व्यापारी और समाज के प्रतिनिधि मांग कर रहे हैं कि पाकिस्&#x200d;तान अगले 10 वर्षों तक कर छूट जारी रखे। खैबर और अन्य पूर्व संघीय प्रशासित जनजातीय क्षेत्रों में आयोजित कई बैठकों, संवाददाता सम्&#x200d;मेलन और सार्वजनिक सभाओं में प्रतिभागियों ने चेतावनी दी है कि यदि सरकार ने नए कर वापस नहीं लिया तो एक समन्वित विरोध अभियान शुरू किया जाएगा। खैबर जिले में आयोजित सभा में बारा और जमरुद के व्यापारियों, आदिवासी बुजुर्गों, राजनीतिक प्रतिनिधियों और नागरिक समाज के सदस्यों ने सरकार की कर नीति का विरोध किया। वक्ताओं ने कहा कि खैबर पख्तूनख्वा में विलय के बावजूद आदिवासी जिले अभी भी गंभीर आर्थिक और सामाजिक चुनौतियों का सामना कर रहे हैं। उन्होंने कहा कि अपर्याप्त स्वास्थ्य सेवा, खराब शिक्षा सुविधाएं, बेरोजगारी और सीमित व्यावसायिक अवसर प्रमुख समस्&#x200d;याएं बनी हुई हैं। प्रतिभागियों ने कहा कि वर्षों के संघर्ष के दौरान क्षतिग्रस्त हुए बुनियादी ढांचे, घरों और सार्वजनिक संस्थानों का पूरी तरह से पुनर्निर्माण नहीं हुआ है। सरकार के इस फैसले की आलोचना करते हुए उन्&#x200d;होंने कहा कि पूर्व फाटा और पाटा क्षेत्रों के निवासी वर्षों से कुशासन, विस्थापन और आर्थिक कठिनाइयों का सामना कर रहे हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T13:43:31+00:00",
-        "link": "https://newsonair.gov.in/hi/pakistan-strong-opposition-to-the-decision-to-impose-taxes-in-the-tribal-districts-merged-into-khyber-pakhtunkhwa/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
       }
     ],
     "sports": [
+      {
+        "title": "फीफा विश्व कप: पहला सेमी-फ़ाइनल फ़्रांस और स्पेन के बीच खेला जाएगा",
+        "summary": "फीफा वर्ल्ड कप में आज रात टेक्सास के डलास स्टेडियम में पहला सेमी-फ़ाइनल फ़्रांस और स्पेन के बीच खेला जाएगा। यह मैच भारतीय समयानुसार रात साढ़े बारह बजे शुरू होगा। फ़्रांस लगातार तीसरी बार फीफा वर्ल्ड कप के फ़ाइनल में अपनी जगह पक्की करने की कोशिश करेगा। वहीं, स्पेन 2010 में ट्रॉफ़ी जीतने के बाद […]",
+        "article": "फीफा वर्ल्ड कप में आज रात टेक्सास के डलास स्टेडियम में पहला सेमी-फ़ाइनल फ़्रांस और स्पेन के बीच खेला जाएगा। यह मैच भारतीय समयानुसार रात साढ़े बारह बजे शुरू होगा। फ़्रांस लगातार तीसरी बार फीफा वर्ल्ड कप के फ़ाइनल में अपनी जगह पक्की करने की कोशिश करेगा। वहीं, स्पेन 2010 में ट्रॉफ़ी जीतने के बाद पहली बार वर्ल्ड कप के सेमी-फ़ाइनल में आगे बढ़ने का लक्ष्य रखेगा। फ़्रांस क्वार्टर-फ़ाइनल में मोरक्को को 2-0 से हराकर सेमी-फ़ाइनल में पहुँचा, जबकि स्पेन ने बेल्जियम के ख़िलाफ़ कड़े मुक़ाबले में 2-1 से जीत हासिल कर अगले दौर में जगह बनाई।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T05:59:11+00:00",
+        "link": "https://newsonair.gov.in/hi/fifa-world-cup-the-first-semi-final-will-be-played-between-france-and-spain/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-2-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारतीय जूनियर महिला अंडर-21 हॉकी टीम आज बेल्जियम से खेलेगी",
+        "summary": "भारतीय जूनियर महिला अंडर-21 हॉकी टीम आज इंग्लैंड के लिलशाल नेशनल स्पोर्ट्स सेंटर में ब्रिटेन दौर के अंतिम मैच में बेल्जियम से खेलेगी। भारतीय टीम ने पिछले मैच में इंग्लैंड को 2-0 से हराया था। इससे पहले, अमेरिका के साथ 1-1 से ड्रॉ खेलने के बाद भारत को पेनल्टी शूटआउट में 3-2 से हार का […]",
+        "article": "भारतीय जूनियर महिला अंडर-21 हॉकी टीम आज इंग्लैंड के लिलशाल नेशनल स्पोर्ट्स सेंटर में ब्रिटेन दौर के अंतिम मैच में बेल्जियम से खेलेगी। भारतीय टीम ने पिछले मैच में इंग्लैंड को 2-0 से हराया था। इससे पहले, अमेरिका के साथ 1-1 से ड्रॉ खेलने के बाद भारत को पेनल्टी शूटआउट में 3-2 से हार का सामना करना पड़ा था।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T03:33:13+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af-%e0%a4%9c%e0%a5%82%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%b0-%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be-%e0%a4%85%e0%a4%82%e0%a4%a1%e0%a4%b0-21/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/Hockey.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारतीय महिला क्रिकेट टीम ने इंग्लैंड के खिलाफ टेस्ट इतिहास की सबसे बड़ी जीत दर्ज की",
+        "summary": "भारतीय महिला क्रिकेट टीम ने कल लॉर्ड्स में इंग्लैंड के खिलाफ टेस्ट इतिहास की सबसे बड़ी जीत दर्ज करके इतिहास रच दिया। भारत ने इंग्‍लैंड को 270 रनों से करारी शिकस्त देकर एकमात्र टेस्ट की श्रृंखला अपने नाम कर ली। 457 रनों के विशाल लक्ष्य के जवाब में अंतिम दिन इंग्लैंड 186 रनों पर ऑल […]",
+        "article": "भारतीय महिला क्रिकेट टीम ने कल लॉर्ड्स में इंग्लैंड के खिलाफ टेस्ट इतिहास की सबसे बड़ी जीत दर्ज करके इतिहास रच दिया। भारत ने इंग्&#x200d;लैंड को 270 रनों से करारी शिकस्त देकर एकमात्र टेस्ट की श्रृंखला अपने नाम कर ली। 457 रनों के विशाल लक्ष्य के जवाब में अंतिम दिन इंग्लैंड 186 रनों पर ऑल आउट हो गई। भारत की पिछले 11 टेस्ट मैचों में यह सातवीं जीत है, साथ ही इंग्लैंड में महिला टेस्ट मैचों में उनका अजेय रिकॉर्ड भी बरकरार है। खेल मंत्री मनसुख मांडविया ने भारतीय महिला क्रिकेट टीम को बधाई दी है। सोशल मीडिया पोस्ट में मांडविया ने कहा कि इंग्लैंड पर 270 रनों की शानदार जीत इस उपलब्धि को और भी खास बनाती है। केंद्रीय मंत्री पीयूष गोयल, किरेन रिजिजू और ज्योतिरादित्य सिंधिया ने भारतीय क्रिकेट कंट्रोल बोर्ड के साथ टीम को शुभकामनाएं दीं।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T03:20:55+00:00",
+        "link": "https://newsonair.gov.in/hi/the-indian-womens-cricket-team-recorded-the-biggest-victory-in-test-history-against-england/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNHkScCbsAAJJ-b.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "भारतीय महिला क्रिकेट टीम ने लॉर्ड्स में रचा इतिहास, 270 रनों से हराकर जीता मैच",
         "summary": "महिला क्रिकेट में लंदन के लॉर्ड्स में भारत के साथ एकमात्र टेस्‍ट में इंग्‍लैंड की टीम को 270 रनों से हराकर इतिहास रच दिया इंग्लैंड ने आज चौथे दिन अपनी दूसरी पारी में छह विकेट पर 130 रन से आगे खेलना शुरू किया और 186 रनों पर उनकी पूरी टीम सिमट गई। भारत ने इंग्‍लैंड […]",
@@ -1682,39 +1717,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-12T06:03:44+00:00",
         "link": "https://newsonair.gov.in/hi/fifa-world-cup-semifinals/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNAIG-ObwAApzDM.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "इंग्लैंड ने पांचवें और अंतिम टी-20 अंतरराष्ट्रीय में भारत को 56 रन से हराकर श्रृंखला 4-0 से जीती",
-        "summary": "इंग्‍लैंड ने कल रात साउथैम्‍पटन में पांचवें और अंतिम टी-20 अंतरराष्‍ट्रीय क्रिकेट मैच में भारत को 56 रन से हराकर श्रृंखला 4-0 से जीत ली है। इंग्‍लैंड ने भारत को 258 रन का लक्ष्‍य दिया था लेकिन भारतीय टीम निर्धारित 20 ओवर में 8 विकेट पर 201 रन ही बना सकी। इससे पहले इंग्‍लैंड […]",
-        "article": "इंग्&#x200d;लैंड ने कल रात साउथैम्&#x200d;पटन में पांचवें और अंतिम टी-20 अंतरराष्&#x200d;ट्रीय क्रिकेट मैच में भारत को 56 रन से हराकर श्रृंखला 4-0 से जीत ली है। इंग्&#x200d;लैंड ने भारत को 258 रन का लक्ष्&#x200d;य दिया था लेकिन भारतीय टीम निर्धारित 20 ओवर में 8 विकेट पर 201 रन ही बना सकी। इससे पहले इंग्&#x200d;लैंड ने पहले बल्&#x200d;लेबाजी करते हुए तीन विकेट पर 257 रन बनाये थे। जोश बटलर को प्&#x200d;लेयर ऑफ द मैच घोषित किया गया। दोनों देशों के बीच पहला टी-20 मैच बारिश के कारण रद्द हो गया था।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T02:07:52+00:00",
-        "link": "https://newsonair.gov.in/hi/england-beat-india/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM_euvobsAA5bKU-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "WIMBLEDON: 21 वर्षीय लिंडा नोस्कोवा ने महिला सिंगल्स का खिताब अपने नाम किया",
-        "summary": "विम्‍बलडन टेनिस टूर्नामेंट में कल रात लंदन में 21 वर्षीय लिंडा नोस्‍कोवा ने चेक गणराज्‍य की करोलिना मुकोआ को 6-2, 5-7, 6-3 से हराकर महिला सिंग्‍ल्‍स का खिताब जीत लिया। नोस्‍कोआ पिछले चार वर्षों में यह खिताब जीतने वाली चेक गणराज्‍य की पहली खिलाड़ी बन गई हैं। इससे पहले वर्ष 2023 में मारकेटा वोन्‍ड्रोसोवा और […]",
-        "article": "विम्&#x200d;बलडन टेनिस टूर्नामेंट में कल रात लंदन में 21 वर्षीय लिंडा नोस्&#x200d;कोवा ने चेक गणराज्&#x200d;य की करोलिना मुकोआ को 6-2, 5-7, 6-3 से हराकर महिला सिंग्&#x200d;ल्&#x200d;स का खिताब जीत लिया। नोस्&#x200d;कोआ पिछले चार वर्षों में यह खिताब जीतने वाली चेक गणराज्&#x200d;य की पहली खिलाड़ी बन गई हैं। इससे पहले वर्ष 2023 में मारकेटा वोन्&#x200d;ड्रोसोवा और 2024 में बारबोरा क्रेजिस्&#x200d;कोवा ने यह टूर्नामेंट जीता था। इस बीच, पुरूष सिंग्&#x200d;ल्&#x200d;स के फाइनल में आज विश्&#x200d;व के नम्&#x200d;बर एक खिलाडी यानिक सिनर का मुकाबला जर्मनी के अलेक्&#x200d;जेंडर ज्&#x200d;वेरे से होगा। यह मैच भारतीय समयनुसार आज रात 8:30 बजे से खेला जाएगा। सिनर ने सेमीफाइनल में नौ बार के चैंपियन नोवाक जोकोविच को हराया था। जबकि, ज्&#x200d;वेरे ने ब्रिटेन के आर्थर फैरी को हराकर फाइनल में जगह बनायी थी। महिला डबल्&#x200d;स के फाइनल में आज 10वीं वरीयता प्राप्&#x200d;त चीन की गुओ हान्&#x200d;यू और फ्रांस की क्रिस्&#x200d;टीना म्&#x200d;लाडेनोविच की जोड़ी का मुकाबला दूसरी वरीयता प्राप्&#x200d;त कनाडा की गेब्रियला डाब्रोवस्&#x200d;की और ब्राजील की लुईसा स्&#x200d;टेफिनी की जोड़ी से होगा। यह मैच शाम 5:30 बजे से शुरू होगा।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T01:50:02+00:00",
-        "link": "https://newsonair.gov.in/hi/wimbledon-linda-noskova-wins/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM_a7fOacAAAGml.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "शाम 7 बजे से शुरू होगा भारत-इग्‍लैंड के बीच पांचवा टी-20 मैच",
-        "summary": "भारत और इग्‍लैंड के बीच पांच टी-20 मैचों की श्रृखंला का अंतिम मुकाबला आज साउथएम्‍पटन में खेला जाएगा। मैच भारतीय समयानुसार शाम 7 बजे से शुरू होगा। श्रृखंला में इग्‍लैंड ने 3-0 की अजेय बढ़त बना ली है। एक दिवसीय मुकाबलों से पहले भारत की नजर यह मैच जीतने पर होगी।",
-        "article": "भारत और इग्&#x200d;लैंड के बीच पांच टी-20 मैचों की श्रृखंला का अंतिम मुकाबला आज साउथएम्&#x200d;पटन में खेला जाएगा। मैच भारतीय समयानुसार शाम 7 बजे से शुरू होगा। श्रृखंला में इग्&#x200d;लैंड ने 3-0 की अजेय बढ़त बना ली है। एक दिवसीय मुकाबलों से पहले भारत की नजर यह मैच जीतने पर होगी।",
-        "date": "2026-07-11",
-        "pubDate": "2026-07-11T08:41:40+00:00",
-        "link": "https://newsonair.gov.in/hi/the-fifth-t20-match-between-india-and-england-will-start-at-7-pm/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HMzeCA7XUAA4E3A-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
