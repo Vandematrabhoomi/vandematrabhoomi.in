@@ -1,12 +1,34 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-14T07:27:57.372822",
+  "generated": "2026-07-14T08:39:23.923235",
   "en": {
     "top": [
       {
-        "title": "India reaffirms support for Palestine at Donor Group meeting",
-        "summary": "India participated in the Second Ministerial Meeting of the Palestine Donor Group, PDG, in Brussels yesterday. Addressing the meeting, Secretary (Consular, Passport and Visa, and Overseas Indian Affairs) in the Ministry of External Affairs, Sripriya Ranganathan, emphasised that India has been a long-standing partner of the Palestinian people. She underlined India’s ongoing developmental assistance",
-        "article": "India participated in the Second Ministerial Meeting of the Palestine Donor Group, PDG, in Brussels yesterday. Addressing the meeting, Secretary (Consular, Passport and Visa, and Overseas Indian Affairs) in the Ministry of External Affairs, Sripriya Ranganathan, emphasised that India has been a long-standing partner of the Palestinian people. She underlined India’s ongoing developmental assistance, including capacity-building programmes and humanitarian assistance to the people of Palestine. &nbsp; Ms Ranganathan noted that India’s projects are demand-driven and largely centred on healthcare, education, capacity building, and vocational training. She also announced several new projects focused on rehabilitation, health, education and vocational training. &nbsp; The secretary also attended a meeting hosted by the incoming Chair of the Advisory Commission of United Nations Relief and Works Agency for Palestine Refugees, wherein she highlighted India’s continued support to the Agency and its efforts in Palestine.",
+        "title": "Railways Minister Ashwini Vaishnaw announces Rail Bhoomi portal for land acquisition",
+        "summary": "Union Railways Minister Ashwini Vaishnaw today informed that Rail Bhoomi portal will be launched to manage the complete process of land acquisition. Briefing media in New Delhi on the reforms aimed at modernising Indian Railways, Mr Vaishnaw said his ministry has brought several reforms, including in the construction sector. He said fertilizers can now […]",
+        "article": "Union Railways Minister Ashwini Vaishnaw today informed that Rail Bhoomi portal will be launched to manage the complete process of land acquisition. Briefing media in New Delhi on the reforms aimed at modernising Indian Railways, Mr Vaishnaw said his ministry has brought several reforms, including in the construction sector. He said fertilizers can now be transported in containers. Mr Vaishnaw said that the fly ash generated in power plants will now be transported in containers so that its fine dust could not pollute the environment. He said, in sectors like Railways, cement and road construction, fly ash will be transported in containers. Mr Vaishnaw also announced a unified licence system under the container policy. Mr Vaishnaw said Wagon design can now be done by the industry. He said that any designer or manufacturer can propose a new wagon design. He informed that after evaluating the design, the Research Designs and Standards Organisation (RDSO) will give permission for the prototype. The Minister said this will enable special design wagons for specific industry needs. On skill certification framework for railway projects, Mr Vaishnaw said that this system will be implemented across all projects in a maximum of 24 months. He said, when large scale infrastructure creation work is underway in the country, it is important that plumbers, welders, fitters, masons, concrete testers and all other workers are well trained. The Minister underlined that Prime Minister Narendra Modi has continuously encouraged to bring reforms in the Railways.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:35:29+00:00",
+        "link": "https://newsonair.gov.in/railways-minister-ashwini-vaishnaw-announces-rail-bhoomi-portal-for-land-acquisition/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/ashwini-it-2-1-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Delhi CM unveils mascot for 22nd Commonwealth Table Tennis Championship",
+        "summary": "Delhi Chief Minister Rekha Gupta today unveiled the official mascot of the 22nd Commonwealth Table Tennis Championship in New Delhi. Addressing the event, Ms Gupta said that sustained efforts are being made by the Delhi Government to strengthen sports infrastructure, enhance funding, improve coaching facilities and provide more opportunities to the athletes. She said […]",
+        "article": "Delhi Chief Minister Rekha Gupta today unveiled the official mascot of the 22nd Commonwealth Table Tennis Championship in New Delhi. Addressing the event, Ms Gupta said that sustained efforts are being made by the Delhi Government to strengthen sports infrastructure, enhance funding, improve coaching facilities and provide more opportunities to the athletes. She said that players from several Commonwealth nations will take part in the championship. She assured that Delhi Government will provide all necessary logistical and administrative support for the event. On the occasion, Delhi Sports Minister Ashish Sood said that the national capital is steadily moving towards becoming a major centre for international sporting events. The Minister said the championship will bring together athletes from 25 Commonwealth countries and provide an opportunity to showcase Delhi&#8217;s sporting infrastructure and organisational capabilities. He expressed confidence that the event would further strengthen the city&#8217;s position as a host of major international sporting competitions. The championship will be held from 27th of this month till 2nd of the next month in Thyagraj Stadium.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:33:51+00:00",
+        "link": "https://newsonair.gov.in/delhi-cm-unveils-mascot-for-22nd-commonwealth-table-tennis-championship/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/unnamed-file.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India reaffirms support for two-state solution at Palestine Donor Group meeting",
+        "summary": "India has reaffirmed its continued support to a two-state solution, as well as to Palestine’s membership of the United Nations. Secretary in the Ministry of External Affairs, Sripriya Ranganathan has said that India has been a long standing partner of the Palestinian people. She said this while addressing the Second Ministerial Meeting of the Palestine […]",
+        "article": "India has reaffirmed its continued support to a two-state solution, as well as to Palestine’s membership of the United Nations. Secretary in the Ministry of External Affairs, Sripriya Ranganathan has said that India has been a long standing partner of the Palestinian people. She said this while addressing the Second Ministerial Meeting of the Palestine Donor Group, PDG in Brussels yesterday. She underlined India’s ongoing developmental assistance, including capacity building programmes and humanitarian assistance to the people of Palestine. &nbsp; Ms Ranganathan noted that India’s projects are demand-driven and largely centred on healthcare, education, capacity building, and vocational training. She also announced several new projects focused on rehabilitation, health, education and vocational training. &nbsp; The Secretary also attended a meeting hosted by the incoming Chair of the Advisory Commission of United Nations Relief and Works Agency for Palestine Refugees, wherein she highlighted India’s continued support to the Agency and its efforts in Palestine.",
         "date": "2026-07-14",
         "pubDate": "2026-07-14T07:26:44+00:00",
         "link": "https://newsonair.gov.in/india-reaffirms-support-for-palestine-at-donor-group-meeting/",
@@ -82,8 +104,8 @@ window.VM_NEWS = {
       },
       {
         "title": "Mortal remains of 15 Indian tourists brought back from Vietnam",
-        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in […]",
-        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in Mumbai. The Embassy said, the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to the Vietnamese authorities and the government, the embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. A speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island in Vietnam on Friday, leaving 15 tourists dead. Sixteen survivors have also returned to India, and one tourist remains hospitalised in Vietnam.",
+        "summary": "The mortal remains of the 15 Indian nationals who lost their lives in the tragic boat accident on 11 July in Phu Quoc Island have reached their respective States. &#160; In a social media post, the Indian Embassy in Vietnam thanked the state governments of Andhra Pradesh, Kerala, and Tamil Nadu for coordinating the transportation […]",
+        "article": "The mortal remains of the 15 Indian nationals who lost their lives in the tragic boat accident on 11 July in Phu Quoc Island have reached their respective States. &nbsp; In a social media post, the Indian Embassy in Vietnam thanked the state governments of Andhra Pradesh, Kerala, and Tamil Nadu for coordinating the transportation of mortal remains to their final destinations in the respective states. &nbsp; The Embassy also extended condolences to the families of the deceased and prayed for strength to the families during these difficult times.",
         "date": "2026-07-14",
         "pubDate": "2026-07-14T02:45:55+00:00",
         "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-brought-back-from-vietnam/",
@@ -103,40 +125,30 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "I&B Ministry invites proposals for WAVES 2027 Create in India Challenge",
-        "summary": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season […]",
-        "article": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season &#8211; 2 aims to execute industry-led, government-supported, youth oriented challenges that identify and nurture creative talent, promote upskilling and capacity building. It also aims to create opportunities for collaboration across the Media and Entertainment domains, including Artificial Intelligence (AI), Digital Media, and other technology-driven creative sectors. The challenge will culminate in the showcasing of winners and winning outcomes at CreatoSphere’ during WAVES 2027. The Ministry said, a unified portal has been created for submission of proposals and selection of challenges and their respective executing entities, through a transparent and merit-based mechanism. Entities from across the Media and Entertainment sector have been invited to submit their proposals through the wavesbazaar.com online portal by 31st of this month. To support the successful implementation of selected challenges, the Ministry will provide a One-Time Grant of up to one crore rupees per challenge.",
+        "title": "India condemns attacks on vessels carrying Indian seafarers in Strait of Hormuz",
+        "summary": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks […]",
+        "article": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks was lodged with him. Both the vessels were carrying 30 Indian seafarers, among their combined crew of 46. The External Affairs Ministry said in a statement that of the 12 Indian nationals onboard MT Al Bahiyah, one has lost his life and another has been injured. Of the 18 Indian nationals onboard MT Mombasa, nine have sustained injuries, including two who are reported to be seriously injured. The Ministry extended condolences to the family of the deceased Indian national and wished speedy recovery to those injured. Indian Mission and Post in the UAE are closely monitoring the situation and are in touch with the UAE authorities to ensure all possible assistance to the affected Indian seafarers. New Delhi has strongly condemned these attacks and acts of violence targeting seafarers and disrupting free and safe navigation through international waterways like the Strait of Hormuz. India has also reiterated deep concern on account of the resumption of attacks and escalation of hostilities in the West-Asian region and called for immediate cessation of violence and a return to dialogue and diplomacy in the interests of peace, security and stability in the region. The statement added that the targeting of commercial shipping and civilian infrastructure in the region must cease so that free and unimpeded navigation and commerce through international waterways in the region can be restored at the earliest.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:57:49+00:00",
-        "link": "https://newsonair.gov.in/ib-ministry-invites-proposals-for-waves-2027-create-in-india-challenge/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mildred_H._McAfee.jpg/1280px-Mildred_H._McAfee.jpg",
-        "image_credit": "Wikipedia – WAVES (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "NTA opens OMR challenge window for NEET-UG 2026 candidates",
-        "summary": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &#160; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question […]",
-        "article": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &nbsp; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question and tick their claimed option and submit a challenge on payment of a non-refundable processing fee of 200 rupees. &nbsp; The agency has clarified that the fee will be refunded if the challenge is upheld. The OMR challenge facility will remain available till 15 of this month. Candidates can contact the NTA helpline numbers 011-40759000, 011-69227700 and write to the neetug2026@nta.ac.in.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:57:37+00:00",
-        "link": "https://newsonair.gov.in/nta-opens-omr-challenge-window-for-neet-ug-2026-candidates/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ukraine, nine European nations form coalition for Europe’s ballistic missile defence",
-        "summary": "Ukraine and nine other countries have announced that they are forming a coalition to protect Europe from ballistic missiles. Ukraine&#8217;s President Volodymyr Zelenskyy and leaders of Denmark, France, Germany, Italy, the Netherlands, Norway, Spain, Sweden and the United Kingdom said they recognised the growing threat posed by ballistic missiles, which are harder to stop than […]",
-        "article": "Ukraine and nine other countries have announced that they are forming a coalition to protect Europe from ballistic missiles. Ukraine&#8217;s President Volodymyr Zelenskyy and leaders of Denmark, France, Germany, Italy, the Netherlands, Norway, Spain, Sweden and the United Kingdom said they recognised the growing threat posed by ballistic missiles, which are harder to stop than cruise missiles or drones. &nbsp; The 10 nations said in a statement in Paris that their goal is to build a shared ballistic missile defence capability for Europe, taking advantage of Kyiv&#8217;s experience of fighting Russia&#8217;s full-scale invasion for over four years. The statement gave no time frame for setting up the defence system, and said the plan remained open to other countries.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:51:54+00:00",
-        "link": "https://newsonair.gov.in/ukraine-nine-european-nations-form-coalition-for-europes-ballistic-missile-defence/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-8.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-14T08:37:01+00:00",
+        "link": "https://newsonair.gov.in/india-condemns-attacks-on-vessels-carrying-indian-seafarers-in-strait-of-hormuz/",
+        "post_id": 1737296,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "Railways Minister Ashwini Vaishnaw announces Rail Bhoomi portal for land acquisition",
+        "summary": "Union Railways Minister Ashwini Vaishnaw today informed that Rail Bhoomi portal will be launched to manage the complete process of land acquisition. Briefing media in New Delhi on the reforms aimed at modernising Indian Railways, Mr Vaishnaw said his ministry has brought several reforms, including in the construction sector. He said fertilizers can now […]",
+        "article": "Union Railways Minister Ashwini Vaishnaw today informed that Rail Bhoomi portal will be launched to manage the complete process of land acquisition. Briefing media in New Delhi on the reforms aimed at modernising Indian Railways, Mr Vaishnaw said his ministry has brought several reforms, including in the construction sector. He said fertilizers can now be transported in containers. Mr Vaishnaw said that the fly ash generated in power plants will now be transported in containers so that its fine dust could not pollute the environment. He said, in sectors like Railways, cement and road construction, fly ash will be transported in containers. Mr Vaishnaw also announced a unified licence system under the container policy. Mr Vaishnaw said Wagon design can now be done by the industry. He said that any designer or manufacturer can propose a new wagon design. He informed that after evaluating the design, the Research Designs and Standards Organisation (RDSO) will give permission for the prototype. The Minister said this will enable special design wagons for specific industry needs. On skill certification framework for railway projects, Mr Vaishnaw said that this system will be implemented across all projects in a maximum of 24 months. He said, when large scale infrastructure creation work is underway in the country, it is important that plumbers, welders, fitters, masons, concrete testers and all other workers are well trained. The Minister underlined that Prime Minister Narendra Modi has continuously encouraged to bring reforms in the Railways.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:35:29+00:00",
+        "link": "https://newsonair.gov.in/railways-minister-ashwini-vaishnaw-announces-rail-bhoomi-portal-for-land-acquisition/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/ashwini-it-2-1-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Mortal remains of three Andhra tourists killed in Vietnam boat accident reach Hyderabad",
         "summary": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has […]",
@@ -172,8 +184,8 @@ window.VM_NEWS = {
       },
       {
         "title": "Mortal remains of 15 Indian tourists brought back from Vietnam",
-        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in […]",
-        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in Mumbai. The Embassy said, the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to the Vietnamese authorities and the government, the embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. A speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island in Vietnam on Friday, leaving 15 tourists dead. Sixteen survivors have also returned to India, and one tourist remains hospitalised in Vietnam.",
+        "summary": "The mortal remains of the 15 Indian nationals who lost their lives in the tragic boat accident on 11 July in Phu Quoc Island have reached their respective States. &#160; In a social media post, the Indian Embassy in Vietnam thanked the state governments of Andhra Pradesh, Kerala, and Tamil Nadu for coordinating the transportation […]",
+        "article": "The mortal remains of the 15 Indian nationals who lost their lives in the tragic boat accident on 11 July in Phu Quoc Island have reached their respective States. &nbsp; In a social media post, the Indian Embassy in Vietnam thanked the state governments of Andhra Pradesh, Kerala, and Tamil Nadu for coordinating the transportation of mortal remains to their final destinations in the respective states. &nbsp; The Embassy also extended condolences to the families of the deceased and prayed for strength to the families during these difficult times.",
         "date": "2026-07-14",
         "pubDate": "2026-07-14T02:45:55+00:00",
         "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-brought-back-from-vietnam/",
@@ -182,58 +194,50 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "I&B Ministry invites proposals for WAVES 2027 Create in India Challenge",
-        "summary": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season […]",
-        "article": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season &#8211; 2 aims to execute industry-led, government-supported, youth oriented challenges that identify and nurture creative talent, promote upskilling and capacity building. It also aims to create opportunities for collaboration across the Media and Entertainment domains, including Artificial Intelligence (AI), Digital Media, and other technology-driven creative sectors. The challenge will culminate in the showcasing of winners and winning outcomes at CreatoSphere’ during WAVES 2027. The Ministry said, a unified portal has been created for submission of proposals and selection of challenges and their respective executing entities, through a transparent and merit-based mechanism. Entities from across the Media and Entertainment sector have been invited to submit their proposals through the wavesbazaar.com online portal by 31st of this month. To support the successful implementation of selected challenges, the Ministry will provide a One-Time Grant of up to one crore rupees per challenge.",
+        "title": "India condemns attacks on vessels carrying Indian seafarers in Strait of Hormuz",
+        "summary": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks […]",
+        "article": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks was lodged with him. Both the vessels were carrying 30 Indian seafarers, among their combined crew of 46. The External Affairs Ministry said in a statement that of the 12 Indian nationals onboard MT Al Bahiyah, one has lost his life and another has been injured. Of the 18 Indian nationals onboard MT Mombasa, nine have sustained injuries, including two who are reported to be seriously injured. The Ministry extended condolences to the family of the deceased Indian national and wished speedy recovery to those injured. Indian Mission and Post in the UAE are closely monitoring the situation and are in touch with the UAE authorities to ensure all possible assistance to the affected Indian seafarers. New Delhi has strongly condemned these attacks and acts of violence targeting seafarers and disrupting free and safe navigation through international waterways like the Strait of Hormuz. India has also reiterated deep concern on account of the resumption of attacks and escalation of hostilities in the West-Asian region and called for immediate cessation of violence and a return to dialogue and diplomacy in the interests of peace, security and stability in the region. The statement added that the targeting of commercial shipping and civilian infrastructure in the region must cease so that free and unimpeded navigation and commerce through international waterways in the region can be restored at the earliest.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:57:49+00:00",
-        "link": "https://newsonair.gov.in/ib-ministry-invites-proposals-for-waves-2027-create-in-india-challenge/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mildred_H._McAfee.jpg/1280px-Mildred_H._McAfee.jpg",
-        "image_credit": "Wikipedia – WAVES (CC BY-SA)",
+        "pubDate": "2026-07-14T08:37:01+00:00",
+        "link": "https://newsonair.gov.in/india-condemns-attacks-on-vessels-carrying-indian-seafarers-in-strait-of-hormuz/",
+        "post_id": 1737296,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "NTA opens OMR challenge window for NEET-UG 2026 candidates",
-        "summary": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &#160; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question […]",
-        "article": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &nbsp; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question and tick their claimed option and submit a challenge on payment of a non-refundable processing fee of 200 rupees. &nbsp; The agency has clarified that the fee will be refunded if the challenge is upheld. The OMR challenge facility will remain available till 15 of this month. Candidates can contact the NTA helpline numbers 011-40759000, 011-69227700 and write to the neetug2026@nta.ac.in.",
+        "title": "Karnataka CM announces India’s first government-driven AI University",
+        "summary": "Karnataka Chief Minister D.K. Shivakumar today announced that India’s first government-driven Artificial Intelligence (AI) University will come up in the state. He also announced that Government will set up an AI Hub as an incubation centre for research and development in AI by start-ups, companies and others. Making these announcements while inaugurating Google Connect […]",
+        "article": "Karnataka Chief Minister D.K. Shivakumar today announced that India’s first government-driven Artificial Intelligence (AI) University will come up in the state. He also announced that Government will set up an AI Hub as an incubation centre for research and development in AI by start-ups, companies and others. Making these announcements while inaugurating Google Connect India 2026 in Bengaluru, Shivakumar said the proposed university would play a pivotal role in building world-class AI talent, advancing research and strengthening collaboration between academia, industry and government. It will drive the state’s ambition to become a global leader in responsible AI innovation. Addressing technology leaders, innovators, entrepreneurs, developers, researchers and policymakers from across India and the world, the Chief Minister said Karnataka currently contributes nearly 40 per cent of India’s software exports, while Bengaluru is home to over 17,000 startups and thousands of Global Capability Centres that design and engineer products for the global market. He said the state’s first ambition is to become an AI-native state, where Artificial Intelligence is used responsibly to improve governance and everyday lives rather than remaining a technological tool.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:57:37+00:00",
-        "link": "https://newsonair.gov.in/nta-opens-omr-challenge-window-for-neet-ug-2026-candidates/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-14T08:32:07+00:00",
+        "link": "https://newsonair.gov.in/karnataka-cm-announces-indias-first-government-driven-ai-university/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "PMML to host ‘Walking with Legacy’ exhibition in New Delhi",
-        "summary": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, […]",
-        "article": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, featuring walking sticks and batons as markers of identity and governance. Depending on their purpose, walking sticks and batons may be plain or richly ornamented. Their handles and shafts are enhanced with materials including ivory, bone, brass, silver, copper, gold, gemstones and enamel. The finished pieces are assembled and coated with wax, oil, shellac or varnish for protection and durability. Crafted from materials such as ebony, mahogany, rosewood, teak, sheesham, bamboo, malacca cane and other hardwoods, these objects showcase traditional woodworking techniques, including seasoning, shaping, turning and polishing. The exhibition will also showcase decorative elements such as nature-inspired motifs, floral and geometric patterns, family crests, emblems and symbolic designs, engraved inscriptions, and lacquer work with natural wood finishes, offering visitors a glimpse into the craftsmanship behind these remarkable objects.",
+        "title": "India summons Iranian envoy after missile strike kills Indian national",
+        "summary": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic […]",
+        "article": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic move came after the UAE Ministry of Defence confirmed that the attack on tankers Mombasa and Bahia claimed the life of an Indian national and injured eight crew members, including six Indians and two Ukrainian nationals. Four of the injured are reported to be in critical condition. Condemning the attack, the UAE Ministry of Defence described it as a “serious violation” and a breach of international law. It said the UAE reserves the right to respond to the escalation and take all necessary measures to safeguard its sovereignty, people and territorial waters. The incident comes amid escalating tensions in the Strait of Hormuz, one of the world’s most strategically important maritime trade routes.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:44:49+00:00",
-        "link": "https://newsonair.gov.in/pmml-to-host-walking-with-legacy-exhibition-in-new-delhi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pmml.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-14T08:20:43+00:00",
+        "link": "https://newsonair.gov.in/india-summons-iranian-envoy-after-missile-strike-kills-indian-national/",
+        "post_id": 1737128,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Mortal Remains of 15 Indian Tourists Killed in Vietnam Boat Accident Brought Home",
-        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and […]",
-        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and arrived in Mumbai. It added that the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to Vietnamese authorities and the government, the Embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. In a tragic incident on Friday, a speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island, leaving 15 tourists dead. While 16 survivors have returned to India, one tourist remains hospitalized in Vietnam.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T17:03:56+00:00",
-        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-killed-in-vietnam-boat-accident-brought-home/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "MeitY launches NIDAR 2.0 to develop drones powered by Indian-made chips",
-        "summary": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s […]",
-        "article": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s drone sector. NIDAR 2.0 challenges students to build smarter drones powered by an Indian-made chip. It offers a prize pool of over 65 lakh rupees along with startup incubation, cloud credits, software support and internships for student teams. Speaking on the occasion, Secretary, MeitY S. Krishnan said, NIDAR 2.0 takes the students from just flying drones to building the drone’s brain. He also launched the problem statements, poster and rulebook for NIDAR 2.0. The Ministry said that the first edition of NIDAR 2025-26 was launched in March 2025. It drew over 3,000 students from 22 States and 4 Union Territories who built autonomous drone solutions for Disaster Management and Precision Agriculture. 93 teams reached the Grand Finale out which Twenty-four teams won prizes worth a total of 40 lakh rupees.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:57:38+00:00",
-        "link": "https://newsonair.gov.in/meity-launches-nidar-2-0-to-develop-drones-powered-by-indian-made-chips/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nidar.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "India-UK Comprehensive Economic and Trade Agreement comes into force tomorrow",
+        "summary": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom will come into force from tomorrow. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership […]",
+        "article": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom will come into force from tomorrow. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership and deliver prosperity for their people. The groundwork for this historic agreement was laid in May 2021 through the Enhanced Trade Partnership and the adoption of the India-UK Roadmap 2030, which set the goal of doubling trade to 100 billion US dollar by 2030. The implementation of the India-UK trade agreement marks a major step in India&#8217;s journey towards becoming a globally integrated, resilient and competitive economy. It has been designed as a people-centric agreement that delivers benefits across society. With the agreement coming into force, Indian exporters will benefit from the complete elimination of UK tariffs on several key sectors. Tariffs of up to 70 per cent on processed food products, over 21 per cent on marine products, around 18 per cent on engineering goods and auto components, up to 16 per cent on leather and footwear products, around 12 per cent on textiles and clothing will be reduced to zero. This will significantly enhance the competitiveness of Indian exports in the UK market, generate new opportunities for farmers, fishermen, MSMEs and manufacturers, and strengthen India&#8217;s integration into global value chains. Indian service providers in IT and IT-enabled services, financial services, healthcare, education, engineering, telecommunications and consultancy services will benefit from enhanced market access and greater regulatory certainty.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T07:28:27+00:00",
+        "link": "https://newsonair.gov.in/india-uk-comprehensive-economic-and-trade-agreement-comes-into-force-tomorrow/",
+        "post_id": 1737125,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -251,6 +255,17 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "Railways Minister Ashwini Vaishnaw announces Rail Bhoomi portal for land acquisition",
+        "summary": "Union Railways Minister Ashwini Vaishnaw today informed that Rail Bhoomi portal will be launched to manage the complete process of land acquisition. Briefing media in New Delhi on the reforms aimed at modernising Indian Railways, Mr Vaishnaw said his ministry has brought several reforms, including in the construction sector. He said fertilizers can now […]",
+        "article": "Union Railways Minister Ashwini Vaishnaw today informed that Rail Bhoomi portal will be launched to manage the complete process of land acquisition. Briefing media in New Delhi on the reforms aimed at modernising Indian Railways, Mr Vaishnaw said his ministry has brought several reforms, including in the construction sector. He said fertilizers can now be transported in containers. Mr Vaishnaw said that the fly ash generated in power plants will now be transported in containers so that its fine dust could not pollute the environment. He said, in sectors like Railways, cement and road construction, fly ash will be transported in containers. Mr Vaishnaw also announced a unified licence system under the container policy. Mr Vaishnaw said Wagon design can now be done by the industry. He said that any designer or manufacturer can propose a new wagon design. He informed that after evaluating the design, the Research Designs and Standards Organisation (RDSO) will give permission for the prototype. The Minister said this will enable special design wagons for specific industry needs. On skill certification framework for railway projects, Mr Vaishnaw said that this system will be implemented across all projects in a maximum of 24 months. He said, when large scale infrastructure creation work is underway in the country, it is important that plumbers, welders, fitters, masons, concrete testers and all other workers are well trained. The Minister underlined that Prime Minister Narendra Modi has continuously encouraged to bring reforms in the Railways.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:35:29+00:00",
+        "link": "https://newsonair.gov.in/railways-minister-ashwini-vaishnaw-announces-rail-bhoomi-portal-for-land-acquisition/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/ashwini-it-2-1-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Mortal remains of three Andhra tourists killed in Vietnam boat accident reach Hyderabad",
         "summary": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has […]",
         "article": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has said, all necessary assistance has been extended to the bereaved families and the official machinery continues to coordinate the final arrangements. The mortal remains had reached India last night after the repatriation process was completed and were flown to Hyderabad early this morning. Union Civil Aviation Minister K. Ram Mohan Naidu coordinated with the Ministry of External Affairs, the Indian Embassy in Vietnam and Andhra Pradesh Bhavan officials to facilitate the early return of the bodies. Officials also confirmed that other tourists from state involved in the incident had returned home safely earlier.",
@@ -285,8 +300,8 @@ window.VM_NEWS = {
       },
       {
         "title": "Mortal remains of 15 Indian tourists brought back from Vietnam",
-        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in […]",
-        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in Mumbai. The Embassy said, the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to the Vietnamese authorities and the government, the embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. A speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island in Vietnam on Friday, leaving 15 tourists dead. Sixteen survivors have also returned to India, and one tourist remains hospitalised in Vietnam.",
+        "summary": "The mortal remains of the 15 Indian nationals who lost their lives in the tragic boat accident on 11 July in Phu Quoc Island have reached their respective States. &#160; In a social media post, the Indian Embassy in Vietnam thanked the state governments of Andhra Pradesh, Kerala, and Tamil Nadu for coordinating the transportation […]",
+        "article": "The mortal remains of the 15 Indian nationals who lost their lives in the tragic boat accident on 11 July in Phu Quoc Island have reached their respective States. &nbsp; In a social media post, the Indian Embassy in Vietnam thanked the state governments of Andhra Pradesh, Kerala, and Tamil Nadu for coordinating the transportation of mortal remains to their final destinations in the respective states. &nbsp; The Embassy also extended condolences to the families of the deceased and prayed for strength to the families during these difficult times.",
         "date": "2026-07-14",
         "pubDate": "2026-07-14T02:45:55+00:00",
         "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-brought-back-from-vietnam/",
@@ -295,58 +310,50 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "I&B Ministry invites proposals for WAVES 2027 Create in India Challenge",
-        "summary": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season […]",
-        "article": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season &#8211; 2 aims to execute industry-led, government-supported, youth oriented challenges that identify and nurture creative talent, promote upskilling and capacity building. It also aims to create opportunities for collaboration across the Media and Entertainment domains, including Artificial Intelligence (AI), Digital Media, and other technology-driven creative sectors. The challenge will culminate in the showcasing of winners and winning outcomes at CreatoSphere’ during WAVES 2027. The Ministry said, a unified portal has been created for submission of proposals and selection of challenges and their respective executing entities, through a transparent and merit-based mechanism. Entities from across the Media and Entertainment sector have been invited to submit their proposals through the wavesbazaar.com online portal by 31st of this month. To support the successful implementation of selected challenges, the Ministry will provide a One-Time Grant of up to one crore rupees per challenge.",
+        "title": "India condemns attacks on vessels carrying Indian seafarers in Strait of Hormuz",
+        "summary": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks […]",
+        "article": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks was lodged with him. Both the vessels were carrying 30 Indian seafarers, among their combined crew of 46. The External Affairs Ministry said in a statement that of the 12 Indian nationals onboard MT Al Bahiyah, one has lost his life and another has been injured. Of the 18 Indian nationals onboard MT Mombasa, nine have sustained injuries, including two who are reported to be seriously injured. The Ministry extended condolences to the family of the deceased Indian national and wished speedy recovery to those injured. Indian Mission and Post in the UAE are closely monitoring the situation and are in touch with the UAE authorities to ensure all possible assistance to the affected Indian seafarers. New Delhi has strongly condemned these attacks and acts of violence targeting seafarers and disrupting free and safe navigation through international waterways like the Strait of Hormuz. India has also reiterated deep concern on account of the resumption of attacks and escalation of hostilities in the West-Asian region and called for immediate cessation of violence and a return to dialogue and diplomacy in the interests of peace, security and stability in the region. The statement added that the targeting of commercial shipping and civilian infrastructure in the region must cease so that free and unimpeded navigation and commerce through international waterways in the region can be restored at the earliest.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:57:49+00:00",
-        "link": "https://newsonair.gov.in/ib-ministry-invites-proposals-for-waves-2027-create-in-india-challenge/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mildred_H._McAfee.jpg/1280px-Mildred_H._McAfee.jpg",
-        "image_credit": "Wikipedia – WAVES (CC BY-SA)",
+        "pubDate": "2026-07-14T08:37:01+00:00",
+        "link": "https://newsonair.gov.in/india-condemns-attacks-on-vessels-carrying-indian-seafarers-in-strait-of-hormuz/",
+        "post_id": 1737296,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "NTA opens OMR challenge window for NEET-UG 2026 candidates",
-        "summary": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &#160; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question […]",
-        "article": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &nbsp; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question and tick their claimed option and submit a challenge on payment of a non-refundable processing fee of 200 rupees. &nbsp; The agency has clarified that the fee will be refunded if the challenge is upheld. The OMR challenge facility will remain available till 15 of this month. Candidates can contact the NTA helpline numbers 011-40759000, 011-69227700 and write to the neetug2026@nta.ac.in.",
+        "title": "Karnataka CM announces India’s first government-driven AI University",
+        "summary": "Karnataka Chief Minister D.K. Shivakumar today announced that India’s first government-driven Artificial Intelligence (AI) University will come up in the state. He also announced that Government will set up an AI Hub as an incubation centre for research and development in AI by start-ups, companies and others. Making these announcements while inaugurating Google Connect […]",
+        "article": "Karnataka Chief Minister D.K. Shivakumar today announced that India’s first government-driven Artificial Intelligence (AI) University will come up in the state. He also announced that Government will set up an AI Hub as an incubation centre for research and development in AI by start-ups, companies and others. Making these announcements while inaugurating Google Connect India 2026 in Bengaluru, Shivakumar said the proposed university would play a pivotal role in building world-class AI talent, advancing research and strengthening collaboration between academia, industry and government. It will drive the state’s ambition to become a global leader in responsible AI innovation. Addressing technology leaders, innovators, entrepreneurs, developers, researchers and policymakers from across India and the world, the Chief Minister said Karnataka currently contributes nearly 40 per cent of India’s software exports, while Bengaluru is home to over 17,000 startups and thousands of Global Capability Centres that design and engineer products for the global market. He said the state’s first ambition is to become an AI-native state, where Artificial Intelligence is used responsibly to improve governance and everyday lives rather than remaining a technological tool.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:57:37+00:00",
-        "link": "https://newsonair.gov.in/nta-opens-omr-challenge-window-for-neet-ug-2026-candidates/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-14T08:32:07+00:00",
+        "link": "https://newsonair.gov.in/karnataka-cm-announces-indias-first-government-driven-ai-university/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "PMML to host ‘Walking with Legacy’ exhibition in New Delhi",
-        "summary": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, […]",
-        "article": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, featuring walking sticks and batons as markers of identity and governance. Depending on their purpose, walking sticks and batons may be plain or richly ornamented. Their handles and shafts are enhanced with materials including ivory, bone, brass, silver, copper, gold, gemstones and enamel. The finished pieces are assembled and coated with wax, oil, shellac or varnish for protection and durability. Crafted from materials such as ebony, mahogany, rosewood, teak, sheesham, bamboo, malacca cane and other hardwoods, these objects showcase traditional woodworking techniques, including seasoning, shaping, turning and polishing. The exhibition will also showcase decorative elements such as nature-inspired motifs, floral and geometric patterns, family crests, emblems and symbolic designs, engraved inscriptions, and lacquer work with natural wood finishes, offering visitors a glimpse into the craftsmanship behind these remarkable objects.",
+        "title": "India summons Iranian envoy after missile strike kills Indian national",
+        "summary": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic […]",
+        "article": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic move came after the UAE Ministry of Defence confirmed that the attack on tankers Mombasa and Bahia claimed the life of an Indian national and injured eight crew members, including six Indians and two Ukrainian nationals. Four of the injured are reported to be in critical condition. Condemning the attack, the UAE Ministry of Defence described it as a “serious violation” and a breach of international law. It said the UAE reserves the right to respond to the escalation and take all necessary measures to safeguard its sovereignty, people and territorial waters. The incident comes amid escalating tensions in the Strait of Hormuz, one of the world’s most strategically important maritime trade routes.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:44:49+00:00",
-        "link": "https://newsonair.gov.in/pmml-to-host-walking-with-legacy-exhibition-in-new-delhi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pmml.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-14T08:20:43+00:00",
+        "link": "https://newsonair.gov.in/india-summons-iranian-envoy-after-missile-strike-kills-indian-national/",
+        "post_id": 1737128,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Mortal Remains of 15 Indian Tourists Killed in Vietnam Boat Accident Brought Home",
-        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and […]",
-        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and arrived in Mumbai. It added that the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to Vietnamese authorities and the government, the Embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. In a tragic incident on Friday, a speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island, leaving 15 tourists dead. While 16 survivors have returned to India, one tourist remains hospitalized in Vietnam.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T17:03:56+00:00",
-        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-killed-in-vietnam-boat-accident-brought-home/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "MeitY launches NIDAR 2.0 to develop drones powered by Indian-made chips",
-        "summary": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s […]",
-        "article": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s drone sector. NIDAR 2.0 challenges students to build smarter drones powered by an Indian-made chip. It offers a prize pool of over 65 lakh rupees along with startup incubation, cloud credits, software support and internships for student teams. Speaking on the occasion, Secretary, MeitY S. Krishnan said, NIDAR 2.0 takes the students from just flying drones to building the drone’s brain. He also launched the problem statements, poster and rulebook for NIDAR 2.0. The Ministry said that the first edition of NIDAR 2025-26 was launched in March 2025. It drew over 3,000 students from 22 States and 4 Union Territories who built autonomous drone solutions for Disaster Management and Precision Agriculture. 93 teams reached the Grand Finale out which Twenty-four teams won prizes worth a total of 40 lakh rupees.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:57:38+00:00",
-        "link": "https://newsonair.gov.in/meity-launches-nidar-2-0-to-develop-drones-powered-by-indian-made-chips/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nidar.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "India-UK Comprehensive Economic and Trade Agreement comes into force tomorrow",
+        "summary": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom will come into force from tomorrow. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership […]",
+        "article": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom will come into force from tomorrow. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership and deliver prosperity for their people. The groundwork for this historic agreement was laid in May 2021 through the Enhanced Trade Partnership and the adoption of the India-UK Roadmap 2030, which set the goal of doubling trade to 100 billion US dollar by 2030. The implementation of the India-UK trade agreement marks a major step in India&#8217;s journey towards becoming a globally integrated, resilient and competitive economy. It has been designed as a people-centric agreement that delivers benefits across society. With the agreement coming into force, Indian exporters will benefit from the complete elimination of UK tariffs on several key sectors. Tariffs of up to 70 per cent on processed food products, over 21 per cent on marine products, around 18 per cent on engineering goods and auto components, up to 16 per cent on leather and footwear products, around 12 per cent on textiles and clothing will be reduced to zero. This will significantly enhance the competitiveness of Indian exports in the UK market, generate new opportunities for farmers, fishermen, MSMEs and manufacturers, and strengthen India&#8217;s integration into global value chains. Indian service providers in IT and IT-enabled services, financial services, healthcare, education, engineering, telecommunications and consultancy services will benefit from enhanced market access and greater regulatory certainty.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T07:28:27+00:00",
+        "link": "https://newsonair.gov.in/india-uk-comprehensive-economic-and-trade-agreement-comes-into-force-tomorrow/",
+        "post_id": 1737125,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -364,6 +371,17 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "Railways Minister Ashwini Vaishnaw announces Rail Bhoomi portal for land acquisition",
+        "summary": "Union Railways Minister Ashwini Vaishnaw today informed that Rail Bhoomi portal will be launched to manage the complete process of land acquisition. Briefing media in New Delhi on the reforms aimed at modernising Indian Railways, Mr Vaishnaw said his ministry has brought several reforms, including in the construction sector. He said fertilizers can now […]",
+        "article": "Union Railways Minister Ashwini Vaishnaw today informed that Rail Bhoomi portal will be launched to manage the complete process of land acquisition. Briefing media in New Delhi on the reforms aimed at modernising Indian Railways, Mr Vaishnaw said his ministry has brought several reforms, including in the construction sector. He said fertilizers can now be transported in containers. Mr Vaishnaw said that the fly ash generated in power plants will now be transported in containers so that its fine dust could not pollute the environment. He said, in sectors like Railways, cement and road construction, fly ash will be transported in containers. Mr Vaishnaw also announced a unified licence system under the container policy. Mr Vaishnaw said Wagon design can now be done by the industry. He said that any designer or manufacturer can propose a new wagon design. He informed that after evaluating the design, the Research Designs and Standards Organisation (RDSO) will give permission for the prototype. The Minister said this will enable special design wagons for specific industry needs. On skill certification framework for railway projects, Mr Vaishnaw said that this system will be implemented across all projects in a maximum of 24 months. He said, when large scale infrastructure creation work is underway in the country, it is important that plumbers, welders, fitters, masons, concrete testers and all other workers are well trained. The Minister underlined that Prime Minister Narendra Modi has continuously encouraged to bring reforms in the Railways.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:35:29+00:00",
+        "link": "https://newsonair.gov.in/railways-minister-ashwini-vaishnaw-announces-rail-bhoomi-portal-for-land-acquisition/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/ashwini-it-2-1-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Mortal remains of three Andhra tourists killed in Vietnam boat accident reach Hyderabad",
         "summary": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has […]",
         "article": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has said, all necessary assistance has been extended to the bereaved families and the official machinery continues to coordinate the final arrangements. The mortal remains had reached India last night after the repatriation process was completed and were flown to Hyderabad early this morning. Union Civil Aviation Minister K. Ram Mohan Naidu coordinated with the Ministry of External Affairs, the Indian Embassy in Vietnam and Andhra Pradesh Bhavan officials to facilitate the early return of the bodies. Officials also confirmed that other tourists from state involved in the incident had returned home safely earlier.",
@@ -398,8 +416,8 @@ window.VM_NEWS = {
       },
       {
         "title": "Mortal remains of 15 Indian tourists brought back from Vietnam",
-        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in […]",
-        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. The Embassy of India in Vietnam has said in a social media post that mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight and arrived in Mumbai. The Embassy said, the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to the Vietnamese authorities and the government, the embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. A speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island in Vietnam on Friday, leaving 15 tourists dead. Sixteen survivors have also returned to India, and one tourist remains hospitalised in Vietnam.",
+        "summary": "The mortal remains of the 15 Indian nationals who lost their lives in the tragic boat accident on 11 July in Phu Quoc Island have reached their respective States. &#160; In a social media post, the Indian Embassy in Vietnam thanked the state governments of Andhra Pradesh, Kerala, and Tamil Nadu for coordinating the transportation […]",
+        "article": "The mortal remains of the 15 Indian nationals who lost their lives in the tragic boat accident on 11 July in Phu Quoc Island have reached their respective States. &nbsp; In a social media post, the Indian Embassy in Vietnam thanked the state governments of Andhra Pradesh, Kerala, and Tamil Nadu for coordinating the transportation of mortal remains to their final destinations in the respective states. &nbsp; The Embassy also extended condolences to the families of the deceased and prayed for strength to the families during these difficult times.",
         "date": "2026-07-14",
         "pubDate": "2026-07-14T02:45:55+00:00",
         "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-brought-back-from-vietnam/",
@@ -408,58 +426,50 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "I&B Ministry invites proposals for WAVES 2027 Create in India Challenge",
-        "summary": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season […]",
-        "article": "Information and Broadcasting Ministry has invited proposals for Industry-led Challenges under the World Audio Visual and Entertainment Summit (WAVES) 2027 Create in India Challenge Season 2. The Create in India Challenge is a flagship initiative under the WAVES aimed at identifying, nurturing, upskilling, and showcasing creators across the Media and Entertainment sector. The season &#8211; 2 aims to execute industry-led, government-supported, youth oriented challenges that identify and nurture creative talent, promote upskilling and capacity building. It also aims to create opportunities for collaboration across the Media and Entertainment domains, including Artificial Intelligence (AI), Digital Media, and other technology-driven creative sectors. The challenge will culminate in the showcasing of winners and winning outcomes at CreatoSphere’ during WAVES 2027. The Ministry said, a unified portal has been created for submission of proposals and selection of challenges and their respective executing entities, through a transparent and merit-based mechanism. Entities from across the Media and Entertainment sector have been invited to submit their proposals through the wavesbazaar.com online portal by 31st of this month. To support the successful implementation of selected challenges, the Ministry will provide a One-Time Grant of up to one crore rupees per challenge.",
+        "title": "India condemns attacks on vessels carrying Indian seafarers in Strait of Hormuz",
+        "summary": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks […]",
+        "article": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks was lodged with him. Both the vessels were carrying 30 Indian seafarers, among their combined crew of 46. The External Affairs Ministry said in a statement that of the 12 Indian nationals onboard MT Al Bahiyah, one has lost his life and another has been injured. Of the 18 Indian nationals onboard MT Mombasa, nine have sustained injuries, including two who are reported to be seriously injured. The Ministry extended condolences to the family of the deceased Indian national and wished speedy recovery to those injured. Indian Mission and Post in the UAE are closely monitoring the situation and are in touch with the UAE authorities to ensure all possible assistance to the affected Indian seafarers. New Delhi has strongly condemned these attacks and acts of violence targeting seafarers and disrupting free and safe navigation through international waterways like the Strait of Hormuz. India has also reiterated deep concern on account of the resumption of attacks and escalation of hostilities in the West-Asian region and called for immediate cessation of violence and a return to dialogue and diplomacy in the interests of peace, security and stability in the region. The statement added that the targeting of commercial shipping and civilian infrastructure in the region must cease so that free and unimpeded navigation and commerce through international waterways in the region can be restored at the earliest.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:57:49+00:00",
-        "link": "https://newsonair.gov.in/ib-ministry-invites-proposals-for-waves-2027-create-in-india-challenge/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mildred_H._McAfee.jpg/1280px-Mildred_H._McAfee.jpg",
-        "image_credit": "Wikipedia – WAVES (CC BY-SA)",
+        "pubDate": "2026-07-14T08:37:01+00:00",
+        "link": "https://newsonair.gov.in/india-condemns-attacks-on-vessels-carrying-indian-seafarers-in-strait-of-hormuz/",
+        "post_id": 1737296,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "NTA opens OMR challenge window for NEET-UG 2026 candidates",
-        "summary": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &#160; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question […]",
-        "article": "The National Testing Agency has activated the NEET (UG) 2026 re-exam OMR sheets and recorded responses for the candidates on the official website neet.nta.nic.in. &nbsp; Candidates can log in using their application number and compare their marked answers with what the scanner reads. It said that if something doesn&#8217;t match, candidates may select the question and tick their claimed option and submit a challenge on payment of a non-refundable processing fee of 200 rupees. &nbsp; The agency has clarified that the fee will be refunded if the challenge is upheld. The OMR challenge facility will remain available till 15 of this month. Candidates can contact the NTA helpline numbers 011-40759000, 011-69227700 and write to the neetug2026@nta.ac.in.",
+        "title": "Karnataka CM announces India’s first government-driven AI University",
+        "summary": "Karnataka Chief Minister D.K. Shivakumar today announced that India’s first government-driven Artificial Intelligence (AI) University will come up in the state. He also announced that Government will set up an AI Hub as an incubation centre for research and development in AI by start-ups, companies and others. Making these announcements while inaugurating Google Connect […]",
+        "article": "Karnataka Chief Minister D.K. Shivakumar today announced that India’s first government-driven Artificial Intelligence (AI) University will come up in the state. He also announced that Government will set up an AI Hub as an incubation centre for research and development in AI by start-ups, companies and others. Making these announcements while inaugurating Google Connect India 2026 in Bengaluru, Shivakumar said the proposed university would play a pivotal role in building world-class AI talent, advancing research and strengthening collaboration between academia, industry and government. It will drive the state’s ambition to become a global leader in responsible AI innovation. Addressing technology leaders, innovators, entrepreneurs, developers, researchers and policymakers from across India and the world, the Chief Minister said Karnataka currently contributes nearly 40 per cent of India’s software exports, while Bengaluru is home to over 17,000 startups and thousands of Global Capability Centres that design and engineer products for the global market. He said the state’s first ambition is to become an AI-native state, where Artificial Intelligence is used responsibly to improve governance and everyday lives rather than remaining a technological tool.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:57:37+00:00",
-        "link": "https://newsonair.gov.in/nta-opens-omr-challenge-window-for-neet-ug-2026-candidates/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-14T08:32:07+00:00",
+        "link": "https://newsonair.gov.in/karnataka-cm-announces-indias-first-government-driven-ai-university/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "PMML to host ‘Walking with Legacy’ exhibition in New Delhi",
-        "summary": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, […]",
-        "article": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, featuring walking sticks and batons as markers of identity and governance. Depending on their purpose, walking sticks and batons may be plain or richly ornamented. Their handles and shafts are enhanced with materials including ivory, bone, brass, silver, copper, gold, gemstones and enamel. The finished pieces are assembled and coated with wax, oil, shellac or varnish for protection and durability. Crafted from materials such as ebony, mahogany, rosewood, teak, sheesham, bamboo, malacca cane and other hardwoods, these objects showcase traditional woodworking techniques, including seasoning, shaping, turning and polishing. The exhibition will also showcase decorative elements such as nature-inspired motifs, floral and geometric patterns, family crests, emblems and symbolic designs, engraved inscriptions, and lacquer work with natural wood finishes, offering visitors a glimpse into the craftsmanship behind these remarkable objects.",
+        "title": "India summons Iranian envoy after missile strike kills Indian national",
+        "summary": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic […]",
+        "article": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic move came after the UAE Ministry of Defence confirmed that the attack on tankers Mombasa and Bahia claimed the life of an Indian national and injured eight crew members, including six Indians and two Ukrainian nationals. Four of the injured are reported to be in critical condition. Condemning the attack, the UAE Ministry of Defence described it as a “serious violation” and a breach of international law. It said the UAE reserves the right to respond to the escalation and take all necessary measures to safeguard its sovereignty, people and territorial waters. The incident comes amid escalating tensions in the Strait of Hormuz, one of the world’s most strategically important maritime trade routes.",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:44:49+00:00",
-        "link": "https://newsonair.gov.in/pmml-to-host-walking-with-legacy-exhibition-in-new-delhi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pmml.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-14T08:20:43+00:00",
+        "link": "https://newsonair.gov.in/india-summons-iranian-envoy-after-missile-strike-kills-indian-national/",
+        "post_id": 1737128,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Mortal Remains of 15 Indian Tourists Killed in Vietnam Boat Accident Brought Home",
-        "summary": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and […]",
-        "article": "The mortal remains of the 15 Indian tourists, who were killed in a speedboat accident off Vietnam&#8217;s Phu Quoc Island, have been brought back home. According to the official X account of the Embassy of India, Hanoi, the mortal remains departed from Ho Chi Minh City by Vietnam Airlines flight VN 979 and arrived in Mumbai. It added that the state governments of Andhra Pradesh, Kerala, and Tamil Nadu will coordinate the transportation of mortal remains to their final destinations in the respective states. Expressing sincere gratitude to Vietnamese authorities and the government, the Embassy said their prayers, efforts, and presence provided strength in this extreme hour of profound grief. In a tragic incident on Friday, a speedboat carrying 32 Indian tourists and four local crew members capsized off Phu Quoc Island, leaving 15 tourists dead. While 16 survivors have returned to India, one tourist remains hospitalized in Vietnam.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T17:03:56+00:00",
-        "link": "https://newsonair.gov.in/mortal-remains-of-15-indian-tourists-killed-in-vietnam-boat-accident-brought-home/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-6.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "MeitY launches NIDAR 2.0 to develop drones powered by Indian-made chips",
-        "summary": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s […]",
-        "article": "Ministry of Electronics and Information Technology (MeitY), in collaboration with Drone Federation India today launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0, 2026-27) under the SwaYaan initiative.The initiative, approved in July 2022 with an outlay of nearly 90 crore rupees, builds the skilled workforce needed for India&#8217;s drone sector. NIDAR 2.0 challenges students to build smarter drones powered by an Indian-made chip. It offers a prize pool of over 65 lakh rupees along with startup incubation, cloud credits, software support and internships for student teams. Speaking on the occasion, Secretary, MeitY S. Krishnan said, NIDAR 2.0 takes the students from just flying drones to building the drone’s brain. He also launched the problem statements, poster and rulebook for NIDAR 2.0. The Ministry said that the first edition of NIDAR 2025-26 was launched in March 2025. It drew over 3,000 students from 22 States and 4 Union Territories who built autonomous drone solutions for Disaster Management and Precision Agriculture. 93 teams reached the Grand Finale out which Twenty-four teams won prizes worth a total of 40 lakh rupees.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:57:38+00:00",
-        "link": "https://newsonair.gov.in/meity-launches-nidar-2-0-to-develop-drones-powered-by-indian-made-chips/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nidar.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "India-UK Comprehensive Economic and Trade Agreement comes into force tomorrow",
+        "summary": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom will come into force from tomorrow. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership […]",
+        "article": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom will come into force from tomorrow. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership and deliver prosperity for their people. The groundwork for this historic agreement was laid in May 2021 through the Enhanced Trade Partnership and the adoption of the India-UK Roadmap 2030, which set the goal of doubling trade to 100 billion US dollar by 2030. The implementation of the India-UK trade agreement marks a major step in India&#8217;s journey towards becoming a globally integrated, resilient and competitive economy. It has been designed as a people-centric agreement that delivers benefits across society. With the agreement coming into force, Indian exporters will benefit from the complete elimination of UK tariffs on several key sectors. Tariffs of up to 70 per cent on processed food products, over 21 per cent on marine products, around 18 per cent on engineering goods and auto components, up to 16 per cent on leather and footwear products, around 12 per cent on textiles and clothing will be reduced to zero. This will significantly enhance the competitiveness of Indian exports in the UK market, generate new opportunities for farmers, fishermen, MSMEs and manufacturers, and strengthen India&#8217;s integration into global value chains. Indian service providers in IT and IT-enabled services, financial services, healthcare, education, engineering, telecommunications and consultancy services will benefit from enhanced market access and greater regulatory certainty.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T07:28:27+00:00",
+        "link": "https://newsonair.gov.in/india-uk-comprehensive-economic-and-trade-agreement-comes-into-force-tomorrow/",
+        "post_id": 1737125,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -477,9 +487,53 @@ window.VM_NEWS = {
     ],
     "world": [
       {
-        "title": "India reaffirms support for Palestine at Donor Group meeting",
-        "summary": "India participated in the Second Ministerial Meeting of the Palestine Donor Group, PDG, in Brussels yesterday. Addressing the meeting, Secretary (Consular, Passport and Visa, and Overseas Indian Affairs) in the Ministry of External Affairs, Sripriya Ranganathan, emphasised that India has been a long-standing partner of the Palestinian people. She underlined India’s ongoing developmental assistance",
-        "article": "India participated in the Second Ministerial Meeting of the Palestine Donor Group, PDG, in Brussels yesterday. Addressing the meeting, Secretary (Consular, Passport and Visa, and Overseas Indian Affairs) in the Ministry of External Affairs, Sripriya Ranganathan, emphasised that India has been a long-standing partner of the Palestinian people. She underlined India’s ongoing developmental assistance, including capacity-building programmes and humanitarian assistance to the people of Palestine. &nbsp; Ms Ranganathan noted that India’s projects are demand-driven and largely centred on healthcare, education, capacity building, and vocational training. She also announced several new projects focused on rehabilitation, health, education and vocational training. &nbsp; The secretary also attended a meeting hosted by the incoming Chair of the Advisory Commission of United Nations Relief and Works Agency for Palestine Refugees, wherein she highlighted India’s continued support to the Agency and its efforts in Palestine.",
+        "title": "India condemns attacks on vessels carrying Indian seafarers in Strait of Hormuz",
+        "summary": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks […]",
+        "article": "India has expressed deep concern at the attacks on two vessels, MT Al Bahiyah and MT Mombasa, during their transit through the Strait of Hormuz today. The Deputy Chief of Mission of the Embassy of Iran in New Delhi was summoned this morning by the External Affairs Ministry, and a strong protest against these attacks was lodged with him. Both the vessels were carrying 30 Indian seafarers, among their combined crew of 46. The External Affairs Ministry said in a statement that of the 12 Indian nationals onboard MT Al Bahiyah, one has lost his life and another has been injured. Of the 18 Indian nationals onboard MT Mombasa, nine have sustained injuries, including two who are reported to be seriously injured. The Ministry extended condolences to the family of the deceased Indian national and wished speedy recovery to those injured. Indian Mission and Post in the UAE are closely monitoring the situation and are in touch with the UAE authorities to ensure all possible assistance to the affected Indian seafarers. New Delhi has strongly condemned these attacks and acts of violence targeting seafarers and disrupting free and safe navigation through international waterways like the Strait of Hormuz. India has also reiterated deep concern on account of the resumption of attacks and escalation of hostilities in the West-Asian region and called for immediate cessation of violence and a return to dialogue and diplomacy in the interests of peace, security and stability in the region. The statement added that the targeting of commercial shipping and civilian infrastructure in the region must cease so that free and unimpeded navigation and commerce through international waterways in the region can be restored at the earliest.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:37:01+00:00",
+        "link": "https://newsonair.gov.in/india-condemns-attacks-on-vessels-carrying-indian-seafarers-in-strait-of-hormuz/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/strait.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Delhi CM unveils mascot for 22nd Commonwealth Table Tennis Championship",
+        "summary": "Delhi Chief Minister Rekha Gupta today unveiled the official mascot of the 22nd Commonwealth Table Tennis Championship in New Delhi. Addressing the event, Ms Gupta said that sustained efforts are being made by the Delhi Government to strengthen sports infrastructure, enhance funding, improve coaching facilities and provide more opportunities to the athletes. She said […]",
+        "article": "Delhi Chief Minister Rekha Gupta today unveiled the official mascot of the 22nd Commonwealth Table Tennis Championship in New Delhi. Addressing the event, Ms Gupta said that sustained efforts are being made by the Delhi Government to strengthen sports infrastructure, enhance funding, improve coaching facilities and provide more opportunities to the athletes. She said that players from several Commonwealth nations will take part in the championship. She assured that Delhi Government will provide all necessary logistical and administrative support for the event. On the occasion, Delhi Sports Minister Ashish Sood said that the national capital is steadily moving towards becoming a major centre for international sporting events. The Minister said the championship will bring together athletes from 25 Commonwealth countries and provide an opportunity to showcase Delhi&#8217;s sporting infrastructure and organisational capabilities. He expressed confidence that the event would further strengthen the city&#8217;s position as a host of major international sporting competitions. The championship will be held from 27th of this month till 2nd of the next month in Thyagraj Stadium.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:33:51+00:00",
+        "link": "https://newsonair.gov.in/delhi-cm-unveils-mascot-for-22nd-commonwealth-table-tennis-championship/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/unnamed-file.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India summons Iranian envoy after missile strike kills Indian national",
+        "summary": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic […]",
+        "article": "India today summoned Iranian Deputy Chief of Mission Mohammad Javad Hosseini following an Iranian missile strike on two UAE-flagged oil tankers in the Strait of Hormuz, which killed one Indian National and injured several others. Hosseini was seen leaving the Ministry of External Affairs (MEA) headquarters in New Delhi after meeting officials. The diplomatic move came after the UAE Ministry of Defence confirmed that the attack on tankers Mombasa and Bahia claimed the life of an Indian national and injured eight crew members, including six Indians and two Ukrainian nationals. Four of the injured are reported to be in critical condition. Condemning the attack, the UAE Ministry of Defence described it as a “serious violation” and a breach of international law. It said the UAE reserves the right to respond to the escalation and take all necessary measures to safeguard its sovereignty, people and territorial waters. The incident comes amid escalating tensions in the Strait of Hormuz, one of the world’s most strategically important maritime trade routes.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:20:43+00:00",
+        "link": "https://newsonair.gov.in/india-summons-iranian-envoy-after-missile-strike-kills-indian-national/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/p.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India-UK Comprehensive Economic and Trade Agreement comes into force tomorrow",
+        "summary": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom will come into force from tomorrow. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership […]",
+        "article": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom will come into force from tomorrow. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership and deliver prosperity for their people. The groundwork for this historic agreement was laid in May 2021 through the Enhanced Trade Partnership and the adoption of the India-UK Roadmap 2030, which set the goal of doubling trade to 100 billion US dollar by 2030. The implementation of the India-UK trade agreement marks a major step in India&#8217;s journey towards becoming a globally integrated, resilient and competitive economy. It has been designed as a people-centric agreement that delivers benefits across society. With the agreement coming into force, Indian exporters will benefit from the complete elimination of UK tariffs on several key sectors. Tariffs of up to 70 per cent on processed food products, over 21 per cent on marine products, around 18 per cent on engineering goods and auto components, up to 16 per cent on leather and footwear products, around 12 per cent on textiles and clothing will be reduced to zero. This will significantly enhance the competitiveness of Indian exports in the UK market, generate new opportunities for farmers, fishermen, MSMEs and manufacturers, and strengthen India&#8217;s integration into global value chains. Indian service providers in IT and IT-enabled services, financial services, healthcare, education, engineering, telecommunications and consultancy services will benefit from enhanced market access and greater regulatory certainty.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T07:28:27+00:00",
+        "link": "https://newsonair.gov.in/india-uk-comprehensive-economic-and-trade-agreement-comes-into-force-tomorrow/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1757553493027.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India reaffirms support for two-state solution at Palestine Donor Group meeting",
+        "summary": "India has reaffirmed its continued support to a two-state solution, as well as to Palestine’s membership of the United Nations. Secretary in the Ministry of External Affairs, Sripriya Ranganathan has said that India has been a long standing partner of the Palestinian people. She said this while addressing the Second Ministerial Meeting of the Palestine […]",
+        "article": "India has reaffirmed its continued support to a two-state solution, as well as to Palestine’s membership of the United Nations. Secretary in the Ministry of External Affairs, Sripriya Ranganathan has said that India has been a long standing partner of the Palestinian people. She said this while addressing the Second Ministerial Meeting of the Palestine Donor Group, PDG in Brussels yesterday. She underlined India’s ongoing developmental assistance, including capacity building programmes and humanitarian assistance to the people of Palestine. &nbsp; Ms Ranganathan noted that India’s projects are demand-driven and largely centred on healthcare, education, capacity building, and vocational training. She also announced several new projects focused on rehabilitation, health, education and vocational training. &nbsp; The Secretary also attended a meeting hosted by the incoming Chair of the Advisory Commission of United Nations Relief and Works Agency for Palestine Refugees, wherein she highlighted India’s continued support to the Agency and its efforts in Palestine.",
         "date": "2026-07-14",
         "pubDate": "2026-07-14T07:26:44+00:00",
         "link": "https://newsonair.gov.in/india-reaffirms-support-for-palestine-at-donor-group-meeting/",
@@ -539,50 +593,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T02:44:39+00:00",
         "link": "https://newsonair.gov.in/us-president-donald-trump-reinstates-blockade-on-iranian-shipping-in-strait-of-hormuz/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/TRUMP-IRAN-1-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ukraine, nine European nations form coalition for Europe’s ballistic missile defence",
-        "summary": "Ukraine and nine other countries have announced that they are forming a coalition to protect Europe from ballistic missiles. Ukraine&#8217;s President Volodymyr Zelenskyy and leaders of Denmark, France, Germany, Italy, the Netherlands, Norway, Spain, Sweden and the United Kingdom said they recognised the growing threat posed by ballistic missiles, which are harder to stop than […]",
-        "article": "Ukraine and nine other countries have announced that they are forming a coalition to protect Europe from ballistic missiles. Ukraine&#8217;s President Volodymyr Zelenskyy and leaders of Denmark, France, Germany, Italy, the Netherlands, Norway, Spain, Sweden and the United Kingdom said they recognised the growing threat posed by ballistic missiles, which are harder to stop than cruise missiles or drones. &nbsp; The 10 nations said in a statement in Paris that their goal is to build a shared ballistic missile defence capability for Europe, taking advantage of Kyiv&#8217;s experience of fighting Russia&#8217;s full-scale invasion for over four years. The statement gave no time frame for setting up the defence system, and said the plan remained open to other countries.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:51:54+00:00",
-        "link": "https://newsonair.gov.in/ukraine-nine-european-nations-form-coalition-for-europes-ballistic-missile-defence/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-8.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Indian crew member killed in Iranian missile strike on UAE tankers",
-        "summary": "An Indian crew member was killed, and six others were wounded after two United Arab Emirates tankers were struck by Iranian cruise missiles while transiting through Strait of Hormuz. The Defence Ministry of the UAE said this in a social media post today. &#160; The ministry said the tankers, the Mombasa and Al Bahiyah, were […]",
-        "article": "An Indian crew member was killed, and six others were wounded after two United Arab Emirates tankers were struck by Iranian cruise missiles while transiting through Strait of Hormuz. The Defence Ministry of the UAE said this in a social media post today. &nbsp; The ministry said the tankers, the Mombasa and Al Bahiyah, were targeted in the southern lane of the strait in ​Omani territorial waters. The dead crew member was aboard the Mombasa tanker. Of the eight wounded, four ​were seriously injured. Six of the wounded were Indian nationals and two were Ukrainian nationals. The UAE defence ministry condemned the attack, describing it as a blatant violation of international law and a serious threat to regional security and stability. The ministry affirmed that it remains on the highest level of readiness and preparedness to address any threats, and said that it is taking all necessary measures to respond decisively to any attempt to undermine the security and stability of the country. The latest incidents in the waterway come after weeks of heightened tensions in the West Asian region.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:48:33+00:00",
-        "link": "https://newsonair.gov.in/indian-crew-member-killed-in-iranian-missile-strike-on-uae-tankers/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/strait.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EU coordinates efforts to raise one billion dollars in aid for Gaza",
-        "summary": "The European Union (EU) has coordinated efforts to raise 1 billion Dollars in aid for Gaza. The bloc&#8217;s top diplomat yesterday said that EU is working with 65 governments and organisations, including the White House and the United Nations. &#160; The European Commission Vice President, Kaja Kallas, announced the fund after a meeting of the […]",
-        "article": "The European Union (EU) has coordinated efforts to raise 1 billion Dollars in aid for Gaza. The bloc&#8217;s top diplomat yesterday said that EU is working with 65 governments and organisations, including the White House and the United Nations. &nbsp; The European Commission Vice President, Kaja Kallas, announced the fund after a meeting of the Palestine Donors Group in Brussels. The meeting was the second gathering of the Team Gaza Initiative, an effort by the EU to rally support for recovery projects like sanitation and farming in the war-ravaged coastal enclave of nearly 2 million people.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:51:06+00:00",
-        "link": "https://newsonair.gov.in/eu-coordinates-efforts-to-raise-one-billion-dollars-in-aid-for-gaza/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/EU.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Indian-Origin Astronaut Anil Menon Set to Begin Eight-Month ISS Mission",
-        "summary": "A NASA astronaut of Indian descent, Anil Menon is set to embark on an eight-month mission to the International Space Station (ISS) tomorrow from the Baikonur cosmodrome in Kazakhstan along with two Russian cosmonauts. The Roscosmos Soyuz MS-29 spacecraft is scheduled for lift-off from the Baikonur spaceport at 8:17 PM Indian Standard Time […]",
-        "article": "A NASA astronaut of Indian descent, Anil Menon is set to embark on an eight-month mission to the International Space Station (ISS) tomorrow from the Baikonur cosmodrome in Kazakhstan along with two Russian cosmonauts. The Roscosmos Soyuz MS-29 spacecraft is scheduled for lift-off from the Baikonur spaceport at 8:17 PM Indian Standard Time and is expected to dock at the orbital laboratory after a little over three hours. Besides Menon, Russian cosmonauts Pyotr Dubrov and Anna Kikina will be part of the 75th expedition to the ISS. The Soyuz spacecraft will dock at the ISS at 11:56 PM IST tomorrow, and the astronauts will be onboard the ISS at around 1:25 am IST early Wednesday. Born in Minneapolis to Ukrainian and Indian immigrants, 49-year-old Menon is an emergency medicine physician and a US Space Force colonel. During his stint with the US Air Force, he served on the frontlines in Afghanistan during Operation Enduring Freedom and also worked for the Himalayan Rescue Association, caring for climbers on Mount Everest.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:46:09+00:00",
-        "link": "https://newsonair.gov.in/indian-origin-astronaut-anil-menon-set-to-begin-eight-month-iss-mission/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/anil.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -1028,6 +1038,17 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "होर्मुज़ जलडमरूमध्य में यूएई के ध्वज वाले दो टैंकरों पर ईरानी मिसाइल हमला, एक भारतीय क्रू सदस्य की मौत",
+        "summary": "होर्मुज जलडमरूमध्य में संयुक्त अरब अमीरात के ध्वज वाले दो तेल टैंकरों पर ईरान के मिसाइल हमले में एक भारतीय नागरिक की मृत्यु हो गई और आठ चालक दल के सदस्य घायल हो गए। इनमें छह भारतीय और दो यूक्रेन के नागरिक शामिल हैं। घायलों में से चार की हालत गंभीर बताई जा रही है। […]",
+        "article": "होर्मुज जलडमरूमध्य में संयुक्त अरब अमीरात के ध्वज वाले दो तेल टैंकरों पर ईरान के मिसाइल हमले में एक भारतीय नागरिक की मृत्यु हो गई और आठ चालक दल के सदस्य घायल हो गए। इनमें छह भारतीय और दो यूक्रेन के नागरिक शामिल हैं। घायलों में से चार की हालत गंभीर बताई जा रही है। भारत ने इस घटना के बाद ईरान के उप मिशन प्रमुख मोहम्मद जवाद हुसैनी को तलब किया। अधिकारियों से मुलाकात के बाद हुसैनी को नई दिल्ली स्थित विदेश मंत्रालय के मुख्यालय से निकलते हुए देखा गया। यह राजनयिक कदम संयुक्त अरब अमीरात के रक्षा मंत्रालय द्वारा टैंकर मोम्बासा और बाहिया पर हुए हमले की पुष्टि के बाद उठाया गया है। इस हमले की निंदा करते हुए संयुक्त अरब अमीरात के रक्षा मंत्रालय ने इसे अंतरराष्ट्रीय कानून का उल्लंघन बताया। मंत्रालय ने कहा कि संयुक्त अरब अमीरात के पास तनाव बढ़ने पर जवाब देने और अपनी संप्रभुता, लोगों और समुद्री सीमा की सुरक्षा के लिए सभी ज़रूरी कदम उठाने का अधिकार है। यह घटना होर्मुज़ जलडमरूमध्य में बढ़ते तनाव के बीच हुई है, जो दुनिया के सबसे अहम रणनीतिक समुद्री व्यापार मार्गों में से एक है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:30:34+00:00",
+        "link": "https://newsonair.gov.in/hi/iranian-missile-attack-on-two-uae-tankers-in-the-strait-of-hormuz-one-indian-crew-member-killed/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-4-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "भारत-ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से होगा लागू, 99% भारतीय निर्यात पर शून्य शुल्क",
         "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से लागू हो जाएगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत उत्पादों पर शून्य शुल्क की सुविधा मिलेगी। यह समझौता भारत और ब्रिटेन की रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की […]",
         "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से लागू हो जाएगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत उत्पादों पर शून्य शुल्क की सुविधा मिलेगी। यह समझौता भारत और ब्रिटेन की रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। इस ऐतिहासिक समझौते की नींव मई 2021 में उन्नत व्यापार साझेदारी और भारत-ब्रिटेन रोडमैप 2030 को अपनाने के माध्यम से रखी गई थी। इसमें 2030 तक व्यापार को दोगुना करके सौ अरब अमरीकी डॉलर तक पहुंचाने का लक्ष्य रखा गया था। &nbsp;",
@@ -1123,17 +1144,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T03:15:56+00:00",
         "link": "https://newsonair.gov.in/hi/usa-darlene-graham-nordone-appointed-acting-senator-following-the-passing-of-senator-lindsey-graham/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNKBYZobgAAvFzp.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "होर्मुज़ जलडमरूमध्य में यूएई के दो टैंकरों पर ईरानी मिसाइल हमला, एक भारतीय क्रू सदस्य की मौत",
-        "summary": "होर्मुज़ जलडमरूमध्य से गुज़रते समय संयुक्त अरब अमीरात (यूएई) के दो टैंकरों पर ईरान की क्रूज़ मिसाइलों के हमले में एक भारतीय क्रू सदस्य की मौत हो गई और छह अन्य घायल हो गए। यूएई के रक्षा मंत्रालय ने आज सोशल मीडिया पर यह जानकारी दी। मंत्रालय ने बताया कि &#8216;मोम्बासा&#8217; और &#8216;अल बहिया&#8217; नाम […]",
-        "article": "होर्मुज़ जलडमरूमध्य से गुज़रते समय संयुक्त अरब अमीरात (यूएई) के दो टैंकरों पर ईरान की क्रूज़ मिसाइलों के हमले में एक भारतीय क्रू सदस्य की मौत हो गई और छह अन्य घायल हो गए। यूएई के रक्षा मंत्रालय ने आज सोशल मीडिया पर यह जानकारी दी। मंत्रालय ने बताया कि &#8216;मोम्बासा&#8217; और &#8216;अल बहिया&#8217; नाम के इन टैंकरों को जलडमरूमध्य के दक्षिणी लेन में ओमान की समुद्री सीमा के भीतर निशाना बनाया गया। मारे गए क्रू सदस्य &#8216;मोम्बासा&#8217; टैंकर पर सवार थे। घायलों में से चार की हालत गंभीर है। घायलों में छह भारतीय और यूक्रेन के दो नागरिक शामिल हैं। यूएई के रक्षा मंत्रालय ने इस हमले की निंदा करते हुए इसे अंतरराष्ट्रीय कानून का खुला उल्लंघन और क्षेत्रीय सुरक्षा तथा स्थिरता के लिए गंभीर खतरा बताया। मंत्रालय ने कहा कि वह किसी भी खतरे से निपटने के लिए पूरी तरह तैयार और सतर्क है। मंत्रालय का कहना है कि देश की सुरक्षा तथा स्थिरता को नुकसान पहुंचाने की किसी भी कोशिश का कड़ा जवाब देने के लिए सभी ज़रूरी कदम उठाया जा रहा है। समुद्री मार्ग में हुई ये ताज़ा घटनाएं पश्चिम एशियाई क्षेत्र में हफ़्तों से चल रहे तनाव के बाद सामने आई हैं।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:58:34+00:00",
-        "link": "https://newsonair.gov.in/hi/iranian-missile-attack-on-two-uae-tankers-in-the-strait-of-hormuz-one-indian-crew-member-killed/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-4-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1250,17 +1260,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
-        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
-        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:49:09+00:00",
-        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "एनटीए ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी किए",
         "summary": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्‍तर देख सकते है। उम्‍मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े […]",
         "article": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्&#x200d;तर देख सकते है। उम्&#x200d;मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार प्रश्न का चयन करके अपने चुने हुए विकल्प पर निशान लगा सकते हैं और 200 रुपये के शुल्क का भुगतान करके चुनौती दे सकते हैं। एजेंसी ने स्पष्ट किया है कि चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। ओएमआर चुनौती सुविधा इस महीने की 15 तारीख तक उपलब्ध रहेगी। उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
@@ -1269,6 +1268,18 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/the-nta-released-the-omr-sheets-and-recorded-responses-for-the-neet-ug-2026-re-examination/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
+        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
+        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:49:09+00:00",
+        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
+        "post_id": 1736495,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -1362,17 +1373,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
-        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
-        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:49:09+00:00",
-        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "एनटीए ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी किए",
         "summary": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्‍तर देख सकते है। उम्‍मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े […]",
         "article": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्&#x200d;तर देख सकते है। उम्&#x200d;मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार प्रश्न का चयन करके अपने चुने हुए विकल्प पर निशान लगा सकते हैं और 200 रुपये के शुल्क का भुगतान करके चुनौती दे सकते हैं। एजेंसी ने स्पष्ट किया है कि चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। ओएमआर चुनौती सुविधा इस महीने की 15 तारीख तक उपलब्ध रहेगी। उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
@@ -1381,6 +1381,18 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/the-nta-released-the-omr-sheets-and-recorded-responses-for-the-neet-ug-2026-re-examination/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
+        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
+        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:49:09+00:00",
+        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
+        "post_id": 1736495,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -1474,17 +1486,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
-        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
-        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:49:09+00:00",
-        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "एनटीए ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी किए",
         "summary": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्‍तर देख सकते है। उम्‍मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े […]",
         "article": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्&#x200d;तर देख सकते है। उम्&#x200d;मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार प्रश्न का चयन करके अपने चुने हुए विकल्प पर निशान लगा सकते हैं और 200 रुपये के शुल्क का भुगतान करके चुनौती दे सकते हैं। एजेंसी ने स्पष्ट किया है कि चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। ओएमआर चुनौती सुविधा इस महीने की 15 तारीख तक उपलब्ध रहेगी। उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
@@ -1494,9 +1495,32 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
+        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
+        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:49:09+00:00",
+        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
+        "post_id": 1736495,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "होर्मुज़ जलडमरूमध्य में यूएई के ध्वज वाले दो टैंकरों पर ईरानी मिसाइल हमला, एक भारतीय क्रू सदस्य की मौत",
+        "summary": "होर्मुज जलडमरूमध्य में संयुक्त अरब अमीरात के ध्वज वाले दो तेल टैंकरों पर ईरान के मिसाइल हमले में एक भारतीय नागरिक की मृत्यु हो गई और आठ चालक दल के सदस्य घायल हो गए। इनमें छह भारतीय और दो यूक्रेन के नागरिक शामिल हैं। घायलों में से चार की हालत गंभीर बताई जा रही है। […]",
+        "article": "होर्मुज जलडमरूमध्य में संयुक्त अरब अमीरात के ध्वज वाले दो तेल टैंकरों पर ईरान के मिसाइल हमले में एक भारतीय नागरिक की मृत्यु हो गई और आठ चालक दल के सदस्य घायल हो गए। इनमें छह भारतीय और दो यूक्रेन के नागरिक शामिल हैं। घायलों में से चार की हालत गंभीर बताई जा रही है। भारत ने इस घटना के बाद ईरान के उप मिशन प्रमुख मोहम्मद जवाद हुसैनी को तलब किया। अधिकारियों से मुलाकात के बाद हुसैनी को नई दिल्ली स्थित विदेश मंत्रालय के मुख्यालय से निकलते हुए देखा गया। यह राजनयिक कदम संयुक्त अरब अमीरात के रक्षा मंत्रालय द्वारा टैंकर मोम्बासा और बाहिया पर हुए हमले की पुष्टि के बाद उठाया गया है। इस हमले की निंदा करते हुए संयुक्त अरब अमीरात के रक्षा मंत्रालय ने इसे अंतरराष्ट्रीय कानून का उल्लंघन बताया। मंत्रालय ने कहा कि संयुक्त अरब अमीरात के पास तनाव बढ़ने पर जवाब देने और अपनी संप्रभुता, लोगों और समुद्री सीमा की सुरक्षा के लिए सभी ज़रूरी कदम उठाने का अधिकार है। यह घटना होर्मुज़ जलडमरूमध्य में बढ़ते तनाव के बीच हुई है, जो दुनिया के सबसे अहम रणनीतिक समुद्री व्यापार मार्गों में से एक है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:30:34+00:00",
+        "link": "https://newsonair.gov.in/hi/iranian-missile-attack-on-two-uae-tankers-in-the-strait-of-hormuz-one-indian-crew-member-killed/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-4-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "अमरीका ने लगातार तीसरी रात ईरान पर हवाई हमले किए, दोनों देशों में तनाव बढ़ा",
         "summary": "अमरीका ने लगातार तीसरी रात ईरान पर हवाई हमले किए हैं। इससे दोनों देशों के बीच तनाव फिर से बढ़ गया है। अमरीका की सेना के सेंट्रल कमांड ने कहा कि उसने अबू मूसा, बंदर अब्बास, बुशहर, चाहबहार, जास्क और कोनारक के आसपास के इलाकों में हमला कर ईरानी तटीय रक्षा प्रणालियों, मिसाइल और ड्रोन […]",
@@ -1542,17 +1566,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "होर्मुज़ जलडमरूमध्य में यूएई के दो टैंकरों पर ईरानी मिसाइल हमला, एक भारतीय क्रू सदस्य की मौत",
-        "summary": "होर्मुज़ जलडमरूमध्य से गुज़रते समय संयुक्त अरब अमीरात (यूएई) के दो टैंकरों पर ईरान की क्रूज़ मिसाइलों के हमले में एक भारतीय क्रू सदस्य की मौत हो गई और छह अन्य घायल हो गए। यूएई के रक्षा मंत्रालय ने आज सोशल मीडिया पर यह जानकारी दी। मंत्रालय ने बताया कि &#8216;मोम्बासा&#8217; और &#8216;अल बहिया&#8217; नाम […]",
-        "article": "होर्मुज़ जलडमरूमध्य से गुज़रते समय संयुक्त अरब अमीरात (यूएई) के दो टैंकरों पर ईरान की क्रूज़ मिसाइलों के हमले में एक भारतीय क्रू सदस्य की मौत हो गई और छह अन्य घायल हो गए। यूएई के रक्षा मंत्रालय ने आज सोशल मीडिया पर यह जानकारी दी। मंत्रालय ने बताया कि &#8216;मोम्बासा&#8217; और &#8216;अल बहिया&#8217; नाम के इन टैंकरों को जलडमरूमध्य के दक्षिणी लेन में ओमान की समुद्री सीमा के भीतर निशाना बनाया गया। मारे गए क्रू सदस्य &#8216;मोम्बासा&#8217; टैंकर पर सवार थे। घायलों में से चार की हालत गंभीर है। घायलों में छह भारतीय और यूक्रेन के दो नागरिक शामिल हैं। यूएई के रक्षा मंत्रालय ने इस हमले की निंदा करते हुए इसे अंतरराष्ट्रीय कानून का खुला उल्लंघन और क्षेत्रीय सुरक्षा तथा स्थिरता के लिए गंभीर खतरा बताया। मंत्रालय ने कहा कि वह किसी भी खतरे से निपटने के लिए पूरी तरह तैयार और सतर्क है। मंत्रालय का कहना है कि देश की सुरक्षा तथा स्थिरता को नुकसान पहुंचाने की किसी भी कोशिश का कड़ा जवाब देने के लिए सभी ज़रूरी कदम उठाया जा रहा है। समुद्री मार्ग में हुई ये ताज़ा घटनाएं पश्चिम एशियाई क्षेत्र में हफ़्तों से चल रहे तनाव के बाद सामने आई हैं।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:58:34+00:00",
-        "link": "https://newsonair.gov.in/hi/iranian-missile-attack-on-two-uae-tankers-in-the-strait-of-hormuz-one-indian-crew-member-killed/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-4-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "यूक्रेन सहित दस देशों ने यूरोप को बैलिस्टिक मिसाइलों से बचाने के लिए गठबंधन बनाने की घोषणा की",
         "summary": "यूक्रेन और नौ अन्य देशों ने घोषणा की है कि वे यूरोप को बैलिस्टिक मिसाइलों से बचाने के लिए एक गठबंधन बना रहे हैं। यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की और डेनमार्क, फ्रांस, जर्मनी, इटली, नीदरलैंड्स, नॉर्वे, स्पेन, स्वीडन और ब्रिटेन के नेताओं ने कहा कि वे बैलिस्टिक मिसाइलों से बढ़ते खतरे को समझते हैं। इन […]",
         "article": "यूक्रेन और नौ अन्य देशों ने घोषणा की है कि वे यूरोप को बैलिस्टिक मिसाइलों से बचाने के लिए एक गठबंधन बना रहे हैं। यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की और डेनमार्क, फ्रांस, जर्मनी, इटली, नीदरलैंड्स, नॉर्वे, स्पेन, स्वीडन और ब्रिटेन के नेताओं ने कहा कि वे बैलिस्टिक मिसाइलों से बढ़ते खतरे को समझते हैं। इन मिसाइलों को क्रूज़ मिसाइलों या ड्रोन की तुलना में रोकना ज़्यादा मुश्किल होता है। पेरिस में जारी एक बयान में इन 10 देशों ने कहा कि उनका लक्ष्य यूरोप के लिए एक साझा बैलिस्टिक मिसाइल रक्षा क्षमता विकसित करना है। इसके लिए वे रूस के पूर्ण-स्तरीय हमले के चार वर्ष से अधिक समय से सामना करने के कीव के अनुभव का लाभ उठाएंगे। बयान में इस रक्षा प्रणाली को स्थापित करने के लिए कोई समय-सीमा नहीं बताई गई है। ब्यान में यह भी कहा गया कि यह योजना अन्य देशों के लिए भी खुली है।",
@@ -1586,6 +1599,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
+        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
+        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:49:09+00:00",
+        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "कल अंतरराष्ट्रीय अंतरिक्ष स्टेशन के लिए रवाना होंगे भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन",
         "summary": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन कल अंतरराष्ट्रीय अंतरिक्ष स्टेशन के लिए रवाना होंगे। वे कज़ाख़स्तान के बैकोनूर अंतरिक्ष केंद्र से दो रूसी अंतरिक्ष यात्रियों के साथ रोस्कोस्मोस के सोयुज़ एमएस-29 अंतरिक्ष यान से उड़ान भरेंगे। अंतरिक्ष यान का प्रक्षेपण भारतीय समयानुसार कल रात आठ बजकर 17 मिनट पर होगा। इसके लगभग साढ़े […]",
         "article": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन कल अंतरराष्ट्रीय अंतरिक्ष स्टेशन के लिए रवाना होंगे। वे कज़ाख़स्तान के बैकोनूर अंतरिक्ष केंद्र से दो रूसी अंतरिक्ष यात्रियों के साथ रोस्कोस्मोस के सोयुज़ एमएस-29 अंतरिक्ष यान से उड़ान भरेंगे। अंतरिक्ष यान का प्रक्षेपण भारतीय समयानुसार कल रात आठ बजकर 17 मिनट पर होगा। इसके लगभग साढ़े तीन घंटे बाद यह अंतरराष्ट्रीय अंतरिक्ष स्टेशन से जुड़ेगा। अनिल मेनन के साथ रूस के अंतरिक्ष यात्री प्योत्र दुब्रोव और अन्ना किकीना भी अंतरराष्ट्रीय अंतरिक्ष स्टेशन के 75वें अभियान का हिस्सा होंगे। अंतरिक्ष यात्री बुधवार तड़के करीब 1 बजकर 25 मिनट पर अंतरिक्ष स्टेशन में प्रवेश करेंगे। 49 वर्षीय अनिल मेनन आपातकालीन चिकित्सा विशेषज्ञ और अमरीकी स्पेस फोर्स में कर्नल हैं। उनका जन्म अमरीका के मिनियापोलिस में भारतीय और यूक्रेनी मूल के परिवार में हुआ था। वे अमरीकी वायुसेना में सेवा दे चुके हैं और माउंट एवरेस्ट पर पर्वतारोहियों की चिकित्सा सहायता के लिए हिमालयन रेस्क्यू एसोसिएशन के साथ भी काम कर चुके हैं।",
@@ -1595,21 +1619,20 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNHY5tiaYAATrgc.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
-        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
-        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:49:09+00:00",
-        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
-        "post_id": 1736495,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
       }
     ],
     "sports": [
+      {
+        "title": "जापान ओपन बैडमिंटन टूर्नामेंट: पीवी सिंधु ने नॉकआउट दौर में मलेशिया की वोंग लिंग चिंग को हराया",
+        "summary": "जापान ओपन बैडमिंटन टूर्नामेंट आज से टोक्यो में शुरू हो गया है। महिला सिंगल्‍स में दो बार की ओलंपिक पदक विजेता पीवी सिंधु ने नॉकआउट दौर में मलेशिया की वोंग लिंग चिंग को 21-14, 21-11 से हराया। मिक्‍स्‍ड डबल्‍स में, तनीशा क्रास्टो और ध्रुव कपिला ने स्कॉटलैंड के एलेक्जेंडर डन और जूली मैकफर्सन को 21-16, […]",
+        "article": "जापान ओपन बैडमिंटन टूर्नामेंट आज से टोक्यो में शुरू हो गया है। महिला सिंगल्&#x200d;स में दो बार की ओलंपिक पदक विजेता पीवी सिंधु ने नॉकआउट दौर में मलेशिया की वोंग लिंग चिंग को 21-14, 21-11 से हराया। मिक्&#x200d;स्&#x200d;ड डबल्&#x200d;स में, तनीशा क्रास्टो और ध्रुव कपिला ने स्कॉटलैंड के एलेक्जेंडर डन और जूली मैकफर्सन को 21-16, 21-14 से हराया। पुरुष सिंगल्&#x200d;स में आयुष शेट्टी और लक्ष्य सेन कल अपने मैच खेलेंगे। लक्ष्य का मुकाबला जापान के केंटा वातानाबे से होगा, जबकि आयुष थाईलैंड के पूर्व विश्व चैंपियन कुनलावत विटिडसर्न के साथ खेलेगें।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T08:05:14+00:00",
+        "link": "https://newsonair.gov.in/hi/japan-open-badminton-tournament-pv-sindhu-defeated-malaysias-wong-ling-ching-in-the-knockout-round/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/PV-Sindhu-wins-opening-match-in-Indonesia-Open-Super-1000.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "फीफा विश्व कप: पहला सेमी-फ़ाइनल फ़्रांस और स्पेन के बीच खेला जाएगा",
         "summary": "फीफा वर्ल्ड कप में आज रात टेक्सास के डलास स्टेडियम में पहला सेमी-फ़ाइनल फ़्रांस और स्पेन के बीच खेला जाएगा। यह मैच भारतीय समयानुसार रात साढ़े बारह बजे शुरू होगा। फ़्रांस लगातार तीसरी बार फीफा वर्ल्ड कप के फ़ाइनल में अपनी जगह पक्की करने की कोशिश करेगा। वहीं, स्पेन 2010 में ट्रॉफ़ी जीतने के बाद […]",
@@ -1706,17 +1729,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-12T06:31:57+00:00",
         "link": "https://newsonair.gov.in/hi/wimbledon-finals/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM_xlfcbgAAcI_F.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "फीफा विश्व कप: बुधवार को फ्रांस-स्पेन और गुरुवार को इंग्लैंड-अर्जेंटीना के बीच सेमीफाइनल मुकाबले खेले जाएंगे",
-        "summary": "फीफा फुटबॉल विश्व कप के सेमिफाइनल मुकाबले तय हो गए हैं। पहला सेमीफाइनल बुधवार को फ्रांस और स्पेन के बीच खेला जाएगा। यह मैच भारतीय समय अनुसार रात 12:30 बजे शुरू होगा। फ्रांस ने क्वार्टर फाइनल में मोरक्को को 2-0 से हराकर सेमीफाइनल में जगह बनाई, जबकि स्पेन ने बेल्जियम पर कड़े मुकाबले में 2-1 […]",
-        "article": "फीफा फुटबॉल विश्व कप के सेमिफाइनल मुकाबले तय हो गए हैं। पहला सेमीफाइनल बुधवार को फ्रांस और स्पेन के बीच खेला जाएगा। यह मैच भारतीय समय अनुसार रात 12:30 बजे शुरू होगा। फ्रांस ने क्वार्टर फाइनल में मोरक्को को 2-0 से हराकर सेमीफाइनल में जगह बनाई, जबकि स्पेन ने बेल्जियम पर कड़े मुकाबले में 2-1 से जीत हासिल की। दूसरा सेमीफाइनल गुरुवार को इंग्लैंड और अर्जेंटीना के बीच खेला जाएगा। इंग्लैंड ने नॉर्वे को अतिरिक्त समय में 2-1 से हराकर सेमीफाइनल में जगह पक्की की, जबकि अर्जेंटीना ने आज सुबह स्विट्जरलैंड को 3-1 से हराया। दोनों सेमीफाइनल मुकाबलों के विजेता 20 जुलाई को न्यूयॉर्क के न्यू जर्सी स्टेडियम में खिताबी मुकाबले में आमने-सामने होंगे वहीं सेमीफाइलन की दोनों पराजित टीमें 19 जुलाई को मियामी में तीसरे स्थान के लिए प्ले-ऑफ खेलेंगी।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T06:03:44+00:00",
-        "link": "https://newsonair.gov.in/hi/fifa-world-cup-semifinals/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNAIG-ObwAApzDM.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
