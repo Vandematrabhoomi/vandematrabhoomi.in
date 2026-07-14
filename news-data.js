@@ -1,12 +1,23 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-14T05:59:49.594708",
+  "generated": "2026-07-14T07:23:15.790274",
   "en": {
     "top": [
       {
+        "title": "Mortal remains of three Andhra tourists killed in Vietnam boat accident reach Hyderabad",
+        "summary": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has […]",
+        "article": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has said, all necessary assistance has been extended to the bereaved families and the official machinery continues to coordinate the final arrangements. The mortal remains had reached India last night after the repatriation process was completed and were flown to Hyderabad early this morning. Union Civil Aviation Minister K. Ram Mohan Naidu coordinated with the Ministry of External Affairs, the Indian Embassy in Vietnam and Andhra Pradesh Bhavan officials to facilitate the early return of the bodies. Officials also confirmed that other tourists from state involved in the incident had returned home safely earlier.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T06:00:58+00:00",
+        "link": "https://newsonair.gov.in/mortal-remains-of-three-andhra-tourists-killed-in-vietnam-boat-accident-reach-hyderabad/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/l.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Bharat Tex 2026 begins at Bharat Mandapam in New Delhi",
-        "summary": "India&#8217;s largest global textile event, Bharat Tex 2026 began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh inaugurated the four days event. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyer",
-        "article": "India&#8217;s largest global textile event, Bharat Tex 2026 began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh inaugurated the four days event. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyers, investors, policymakers, international delegations, artisans, start-ups and technology providers. &nbsp; Inspired by Prime Minister Narendra Modi’s 5F Vision- Farm to Fibre to Factory to Fashion to Foreign, Bharat Tex 2026 has evolved into a premier global platform for business, investment, innovation, policy dialogue and strategic partnerships across the textile value chain. &nbsp; The third edition of Bharat Tex 2026 is witnessing participation of around seven thousand buyers and over 20 thousand textile products. International exhibitors from 14 countries are participating in the event. The event will bring together over 350 speakers including international experts, national industry leaders, policymakers and thought leaders from more than 20 countries.",
+        "summary": "India&#8217;s largest global textile event, Bharat Tex 2026, began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh today inaugurated the event. Speaking to the media, Mr Singh said, Bharat Tex is the vision of the Prime Minister. He said it is now an international event, and every year there has […]",
+        "article": "India&#8217;s largest global textile event, Bharat Tex 2026, began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh today inaugurated the event. Speaking to the media, Mr Singh said, Bharat Tex is the vision of the Prime Minister. He said it is now an international event, and every year there has been an increase of exhibitors, buyers, sellers and visitors. He said this year, over 60 thousand buyers and exhibitors from 130 countries are participating in the event. The Minister said that MSMEs and entrepreneurs are also attending the Bharat Tex. He said, Free Trade Agreements with different countries are also benefiting the Textiles Sector. The inauguration ceremony was also attended by Minister of State for Textiles Pabitra Margherita and Textiles Ministers from different states. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyers, investors, policymakers, international delegations, artisans, start-ups and technology providers. Inspired by Prime Minister Narendra Modi’s 5F Vision- Farm to Fibre to Factory to Fashion to Foreign, Bharat Tex 2026 has evolved into a premier global platform for business, investment, innovation, policy dialogue and strategic partnerships across the textile value chain. The third edition of Bharat Tex 2026 is witnessing participation of around seven thousand buyers and over 20 thousand textile products. International exhibitors from 14 countries are participating in the event. The event will bring together over 350 speakers, including international experts, national industry leaders, policymakers and thought leaders from more than 20 countries.",
         "date": "2026-07-14",
         "pubDate": "2026-07-14T05:58:38+00:00",
         "link": "https://newsonair.gov.in/bharat-tex-2026-begins-at-bharat-mandapam-in-new-delhi/",
@@ -123,24 +134,24 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pmml.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "EU coordinates efforts to raise one billion dollars in aid for Gaza",
-        "summary": "The European Union (EU) has coordinated efforts to raise 1 billion Dollars in aid for Gaza. The bloc&#8217;s top diplomat yesterday said that EU is working with 65 governments and organisations, including the White House and the United Nations. &#160; The European Commission Vice President, Kaja Kallas, announced the fund after a meeting of the […]",
-        "article": "The European Union (EU) has coordinated efforts to raise 1 billion Dollars in aid for Gaza. The bloc&#8217;s top diplomat yesterday said that EU is working with 65 governments and organisations, including the White House and the United Nations. &nbsp; The European Commission Vice President, Kaja Kallas, announced the fund after a meeting of the Palestine Donors Group in Brussels. The meeting was the second gathering of the Team Gaza Initiative, an effort by the EU to rally support for recovery projects like sanitation and farming in the war-ravaged coastal enclave of nearly 2 million people.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:51:06+00:00",
-        "link": "https://newsonair.gov.in/eu-coordinates-efforts-to-raise-one-billion-dollars-in-aid-for-gaza/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/EU.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
       {
+        "title": "Mortal remains of three Andhra tourists killed in Vietnam boat accident reach Hyderabad",
+        "summary": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has […]",
+        "article": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has said, all necessary assistance has been extended to the bereaved families and the official machinery continues to coordinate the final arrangements. The mortal remains had reached India last night after the repatriation process was completed and were flown to Hyderabad early this morning. Union Civil Aviation Minister K. Ram Mohan Naidu coordinated with the Ministry of External Affairs, the Indian Embassy in Vietnam and Andhra Pradesh Bhavan officials to facilitate the early return of the bodies. Officials also confirmed that other tourists from state involved in the incident had returned home safely earlier.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T06:00:58+00:00",
+        "link": "https://newsonair.gov.in/mortal-remains-of-three-andhra-tourists-killed-in-vietnam-boat-accident-reach-hyderabad/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/l.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Bharat Tex 2026 begins at Bharat Mandapam in New Delhi",
-        "summary": "India&#8217;s largest global textile event, Bharat Tex 2026 began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh inaugurated the four days event. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyer",
-        "article": "India&#8217;s largest global textile event, Bharat Tex 2026 began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh inaugurated the four days event. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyers, investors, policymakers, international delegations, artisans, start-ups and technology providers. &nbsp; Inspired by Prime Minister Narendra Modi’s 5F Vision- Farm to Fibre to Factory to Fashion to Foreign, Bharat Tex 2026 has evolved into a premier global platform for business, investment, innovation, policy dialogue and strategic partnerships across the textile value chain. &nbsp; The third edition of Bharat Tex 2026 is witnessing participation of around seven thousand buyers and over 20 thousand textile products. International exhibitors from 14 countries are participating in the event. The event will bring together over 350 speakers including international experts, national industry leaders, policymakers and thought leaders from more than 20 countries.",
+        "summary": "India&#8217;s largest global textile event, Bharat Tex 2026, began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh today inaugurated the event. Speaking to the media, Mr Singh said, Bharat Tex is the vision of the Prime Minister. He said it is now an international event, and every year there has […]",
+        "article": "India&#8217;s largest global textile event, Bharat Tex 2026, began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh today inaugurated the event. Speaking to the media, Mr Singh said, Bharat Tex is the vision of the Prime Minister. He said it is now an international event, and every year there has been an increase of exhibitors, buyers, sellers and visitors. He said this year, over 60 thousand buyers and exhibitors from 130 countries are participating in the event. The Minister said that MSMEs and entrepreneurs are also attending the Bharat Tex. He said, Free Trade Agreements with different countries are also benefiting the Textiles Sector. The inauguration ceremony was also attended by Minister of State for Textiles Pabitra Margherita and Textiles Ministers from different states. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyers, investors, policymakers, international delegations, artisans, start-ups and technology providers. Inspired by Prime Minister Narendra Modi’s 5F Vision- Farm to Fibre to Factory to Fashion to Foreign, Bharat Tex 2026 has evolved into a premier global platform for business, investment, innovation, policy dialogue and strategic partnerships across the textile value chain. The third edition of Bharat Tex 2026 is witnessing participation of around seven thousand buyers and over 20 thousand textile products. International exhibitors from 14 countries are participating in the event. The event will bring together over 350 speakers, including international experts, national industry leaders, policymakers and thought leaders from more than 20 countries.",
         "date": "2026-07-14",
         "pubDate": "2026-07-14T05:58:38+00:00",
         "link": "https://newsonair.gov.in/bharat-tex-2026-begins-at-bharat-mandapam-in-new-delhi/",
@@ -222,17 +233,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T16:57:38+00:00",
         "link": "https://newsonair.gov.in/meity-launches-nidar-2-0-to-develop-drones-powered-by-indian-made-chips/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nidar.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "BSNL Records 10% Rise in Revenue in First Quarter of FY 2026-27: Communications Minister Jyotiraditya Scindia",
-        "summary": "Union Communications Minister Jyotiraditya Scindia has said that Bharat Sanchar Nigam Limited BSNL has provisionally posted around 10 per cent increase in revenue from operations in the first quarter of financial year 2026-27. Speaking to media after the Strategic Review and Planning Meet of BSNL in New Delhi today, Mr Scindia said, as […]",
-        "article": "Union Communications Minister Jyotiraditya Scindia has said that Bharat Sanchar Nigam Limited BSNL has provisionally posted around 10 per cent increase in revenue from operations in the first quarter of financial year 2026-27. Speaking to media after the Strategic Review and Planning Meet of BSNL in New Delhi today, Mr Scindia said, as far as the total revenue is concerned, directly from business operations, there is about a 10 per cent increase in revenue over last year. He said, last year, at the close of first quarter it was at 4,017 crore rupees and this year, it is at 4,418 crore rupees, an increase of 401 crore rupees. The Minister said, BSNL&#8217;s enterprise business segment and consumer mobility have shown growth while the consumer fixed access segment has remained almost flat. He said, BSNL&#8217;s average revenue per user has provisionally increased from 100 rupees to 102.7 rupees. Mr Scindia said, BSNL is on the trajectory of growth.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:50:04+00:00",
-        "link": "https://newsonair.gov.in/bsnl-records-10-rise-in-revenue-in-first-quarter-of-fy-2026-27-communications-minister-jyotiraditya-scindia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/bsnl.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -251,9 +251,20 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "Mortal remains of three Andhra tourists killed in Vietnam boat accident reach Hyderabad",
+        "summary": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has […]",
+        "article": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has said, all necessary assistance has been extended to the bereaved families and the official machinery continues to coordinate the final arrangements. The mortal remains had reached India last night after the repatriation process was completed and were flown to Hyderabad early this morning. Union Civil Aviation Minister K. Ram Mohan Naidu coordinated with the Ministry of External Affairs, the Indian Embassy in Vietnam and Andhra Pradesh Bhavan officials to facilitate the early return of the bodies. Officials also confirmed that other tourists from state involved in the incident had returned home safely earlier.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T06:00:58+00:00",
+        "link": "https://newsonair.gov.in/mortal-remains-of-three-andhra-tourists-killed-in-vietnam-boat-accident-reach-hyderabad/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/l.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Bharat Tex 2026 begins at Bharat Mandapam in New Delhi",
-        "summary": "India&#8217;s largest global textile event, Bharat Tex 2026 began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh inaugurated the four days event. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyer",
-        "article": "India&#8217;s largest global textile event, Bharat Tex 2026 began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh inaugurated the four days event. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyers, investors, policymakers, international delegations, artisans, start-ups and technology providers. &nbsp; Inspired by Prime Minister Narendra Modi’s 5F Vision- Farm to Fibre to Factory to Fashion to Foreign, Bharat Tex 2026 has evolved into a premier global platform for business, investment, innovation, policy dialogue and strategic partnerships across the textile value chain. &nbsp; The third edition of Bharat Tex 2026 is witnessing participation of around seven thousand buyers and over 20 thousand textile products. International exhibitors from 14 countries are participating in the event. The event will bring together over 350 speakers including international experts, national industry leaders, policymakers and thought leaders from more than 20 countries.",
+        "summary": "India&#8217;s largest global textile event, Bharat Tex 2026, began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh today inaugurated the event. Speaking to the media, Mr Singh said, Bharat Tex is the vision of the Prime Minister. He said it is now an international event, and every year there has […]",
+        "article": "India&#8217;s largest global textile event, Bharat Tex 2026, began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh today inaugurated the event. Speaking to the media, Mr Singh said, Bharat Tex is the vision of the Prime Minister. He said it is now an international event, and every year there has been an increase of exhibitors, buyers, sellers and visitors. He said this year, over 60 thousand buyers and exhibitors from 130 countries are participating in the event. The Minister said that MSMEs and entrepreneurs are also attending the Bharat Tex. He said, Free Trade Agreements with different countries are also benefiting the Textiles Sector. The inauguration ceremony was also attended by Minister of State for Textiles Pabitra Margherita and Textiles Ministers from different states. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyers, investors, policymakers, international delegations, artisans, start-ups and technology providers. Inspired by Prime Minister Narendra Modi’s 5F Vision- Farm to Fibre to Factory to Fashion to Foreign, Bharat Tex 2026 has evolved into a premier global platform for business, investment, innovation, policy dialogue and strategic partnerships across the textile value chain. The third edition of Bharat Tex 2026 is witnessing participation of around seven thousand buyers and over 20 thousand textile products. International exhibitors from 14 countries are participating in the event. The event will bring together over 350 speakers, including international experts, national industry leaders, policymakers and thought leaders from more than 20 countries.",
         "date": "2026-07-14",
         "pubDate": "2026-07-14T05:58:38+00:00",
         "link": "https://newsonair.gov.in/bharat-tex-2026-begins-at-bharat-mandapam-in-new-delhi/",
@@ -335,17 +346,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T16:57:38+00:00",
         "link": "https://newsonair.gov.in/meity-launches-nidar-2-0-to-develop-drones-powered-by-indian-made-chips/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nidar.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "BSNL Records 10% Rise in Revenue in First Quarter of FY 2026-27: Communications Minister Jyotiraditya Scindia",
-        "summary": "Union Communications Minister Jyotiraditya Scindia has said that Bharat Sanchar Nigam Limited BSNL has provisionally posted around 10 per cent increase in revenue from operations in the first quarter of financial year 2026-27. Speaking to media after the Strategic Review and Planning Meet of BSNL in New Delhi today, Mr Scindia said, as […]",
-        "article": "Union Communications Minister Jyotiraditya Scindia has said that Bharat Sanchar Nigam Limited BSNL has provisionally posted around 10 per cent increase in revenue from operations in the first quarter of financial year 2026-27. Speaking to media after the Strategic Review and Planning Meet of BSNL in New Delhi today, Mr Scindia said, as far as the total revenue is concerned, directly from business operations, there is about a 10 per cent increase in revenue over last year. He said, last year, at the close of first quarter it was at 4,017 crore rupees and this year, it is at 4,418 crore rupees, an increase of 401 crore rupees. The Minister said, BSNL&#8217;s enterprise business segment and consumer mobility have shown growth while the consumer fixed access segment has remained almost flat. He said, BSNL&#8217;s average revenue per user has provisionally increased from 100 rupees to 102.7 rupees. Mr Scindia said, BSNL is on the trajectory of growth.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:50:04+00:00",
-        "link": "https://newsonair.gov.in/bsnl-records-10-rise-in-revenue-in-first-quarter-of-fy-2026-27-communications-minister-jyotiraditya-scindia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/bsnl.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -364,9 +364,20 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "Mortal remains of three Andhra tourists killed in Vietnam boat accident reach Hyderabad",
+        "summary": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has […]",
+        "article": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has said, all necessary assistance has been extended to the bereaved families and the official machinery continues to coordinate the final arrangements. The mortal remains had reached India last night after the repatriation process was completed and were flown to Hyderabad early this morning. Union Civil Aviation Minister K. Ram Mohan Naidu coordinated with the Ministry of External Affairs, the Indian Embassy in Vietnam and Andhra Pradesh Bhavan officials to facilitate the early return of the bodies. Officials also confirmed that other tourists from state involved in the incident had returned home safely earlier.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T06:00:58+00:00",
+        "link": "https://newsonair.gov.in/mortal-remains-of-three-andhra-tourists-killed-in-vietnam-boat-accident-reach-hyderabad/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/l.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Bharat Tex 2026 begins at Bharat Mandapam in New Delhi",
-        "summary": "India&#8217;s largest global textile event, Bharat Tex 2026 began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh inaugurated the four days event. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyer",
-        "article": "India&#8217;s largest global textile event, Bharat Tex 2026 began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh inaugurated the four days event. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyers, investors, policymakers, international delegations, artisans, start-ups and technology providers. &nbsp; Inspired by Prime Minister Narendra Modi’s 5F Vision- Farm to Fibre to Factory to Fashion to Foreign, Bharat Tex 2026 has evolved into a premier global platform for business, investment, innovation, policy dialogue and strategic partnerships across the textile value chain. &nbsp; The third edition of Bharat Tex 2026 is witnessing participation of around seven thousand buyers and over 20 thousand textile products. International exhibitors from 14 countries are participating in the event. The event will bring together over 350 speakers including international experts, national industry leaders, policymakers and thought leaders from more than 20 countries.",
+        "summary": "India&#8217;s largest global textile event, Bharat Tex 2026, began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh today inaugurated the event. Speaking to the media, Mr Singh said, Bharat Tex is the vision of the Prime Minister. He said it is now an international event, and every year there has […]",
+        "article": "India&#8217;s largest global textile event, Bharat Tex 2026, began at Bharat Mandapam in New Delhi today. Union Textiles Minister Giriraj Singh today inaugurated the event. Speaking to the media, Mr Singh said, Bharat Tex is the vision of the Prime Minister. He said it is now an international event, and every year there has been an increase of exhibitors, buyers, sellers and visitors. He said this year, over 60 thousand buyers and exhibitors from 130 countries are participating in the event. The Minister said that MSMEs and entrepreneurs are also attending the Bharat Tex. He said, Free Trade Agreements with different countries are also benefiting the Textiles Sector. The inauguration ceremony was also attended by Minister of State for Textiles Pabitra Margherita and Textiles Ministers from different states. The event is showcasing India&#8217;s growing global leadership in textiles, fashion, sustainability, technology, innovation, investment and international trade. It has brought together manufacturers, exporters, global buyers, investors, policymakers, international delegations, artisans, start-ups and technology providers. Inspired by Prime Minister Narendra Modi’s 5F Vision- Farm to Fibre to Factory to Fashion to Foreign, Bharat Tex 2026 has evolved into a premier global platform for business, investment, innovation, policy dialogue and strategic partnerships across the textile value chain. The third edition of Bharat Tex 2026 is witnessing participation of around seven thousand buyers and over 20 thousand textile products. International exhibitors from 14 countries are participating in the event. The event will bring together over 350 speakers, including international experts, national industry leaders, policymakers and thought leaders from more than 20 countries.",
         "date": "2026-07-14",
         "pubDate": "2026-07-14T05:58:38+00:00",
         "link": "https://newsonair.gov.in/bharat-tex-2026-begins-at-bharat-mandapam-in-new-delhi/",
@@ -448,17 +459,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T16:57:38+00:00",
         "link": "https://newsonair.gov.in/meity-launches-nidar-2-0-to-develop-drones-powered-by-indian-made-chips/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/nidar.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "BSNL Records 10% Rise in Revenue in First Quarter of FY 2026-27: Communications Minister Jyotiraditya Scindia",
-        "summary": "Union Communications Minister Jyotiraditya Scindia has said that Bharat Sanchar Nigam Limited BSNL has provisionally posted around 10 per cent increase in revenue from operations in the first quarter of financial year 2026-27. Speaking to media after the Strategic Review and Planning Meet of BSNL in New Delhi today, Mr Scindia said, as […]",
-        "article": "Union Communications Minister Jyotiraditya Scindia has said that Bharat Sanchar Nigam Limited BSNL has provisionally posted around 10 per cent increase in revenue from operations in the first quarter of financial year 2026-27. Speaking to media after the Strategic Review and Planning Meet of BSNL in New Delhi today, Mr Scindia said, as far as the total revenue is concerned, directly from business operations, there is about a 10 per cent increase in revenue over last year. He said, last year, at the close of first quarter it was at 4,017 crore rupees and this year, it is at 4,418 crore rupees, an increase of 401 crore rupees. The Minister said, BSNL&#8217;s enterprise business segment and consumer mobility have shown growth while the consumer fixed access segment has remained almost flat. He said, BSNL&#8217;s average revenue per user has provisionally increased from 100 rupees to 102.7 rupees. Mr Scindia said, BSNL is on the trajectory of growth.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:50:04+00:00",
-        "link": "https://newsonair.gov.in/bsnl-records-10-rise-in-revenue-in-first-quarter-of-fy-2026-27-communications-minister-jyotiraditya-scindia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/bsnl.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1028,6 +1028,83 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "भारत-ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से होगा लागू, 99% भारतीय निर्यात पर शून्य शुल्क",
+        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से लागू हो जाएगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत उत्पादों पर शून्य शुल्क की सुविधा मिलेगी। यह समझौता भारत और ब्रिटेन की रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की […]",
+        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से लागू हो जाएगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत उत्पादों पर शून्य शुल्क की सुविधा मिलेगी। यह समझौता भारत और ब्रिटेन की रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। इस ऐतिहासिक समझौते की नींव मई 2021 में उन्नत व्यापार साझेदारी और भारत-ब्रिटेन रोडमैप 2030 को अपनाने के माध्यम से रखी गई थी। इसमें 2030 तक व्यापार को दोगुना करके सौ अरब अमरीकी डॉलर तक पहुंचाने का लक्ष्य रखा गया था। &nbsp;",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T07:10:14+00:00",
+        "link": "https://newsonair.gov.in/hi/india-uk-comprehensive-economic-and-trade-agreement-to-come-into-effect-tomorrow-zero-duty-on-99-of-indian-exports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-4-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने प्रधानमंत्री मोदी के नाम से वायरल गोमांस संबंधी वीडियो को फर्जी बताया",
+        "summary": "सरकार ने सोशल मीडिया पर वायरल हो रहे उस वीडियो का खंडन किया है जिसमें दावा किया गया है कि प्रधानमंत्री नरेंद्र मोदी ने न्यूजीलैंड के ऑकलैंड में एक कार्यक्रम के दौरान कहा था कि भारत दुनिया का दूसरा सबसे बड़ा गोमांस उत्पादक देश है। प्रेस सूचना कार्यालय (पीआईबी) की फैक्ट चेक यूनिट ने कहा […]",
+        "article": "सरकार ने सोशल मीडिया पर वायरल हो रहे उस वीडियो का खंडन किया है जिसमें दावा किया गया है कि प्रधानमंत्री नरेंद्र मोदी ने न्यूजीलैंड के ऑकलैंड में एक कार्यक्रम के दौरान कहा था कि भारत दुनिया का दूसरा सबसे बड़ा गोमांस उत्पादक देश है। प्रेस सूचना कार्यालय (पीआईबी) की फैक्ट चेक यूनिट ने कहा कि यह दावा फर्जी है और प्रधानमंत्री ने ऐसा कोई बयान नहीं दिया है। यूनिट ने लोगों को भ्रामक सामग्री से सावधान रहने और सत्यापित जानकारी के लिए हमेशा आधिकारिक स्रोतों पर भरोसा करने की सलाह भी दी है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T07:09:55+00:00",
+        "link": "https://newsonair.gov.in/hi/the-government-termed-the-viral-video-regarding-beef-linked-to-prime-minister-modi-as-fake/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने ब्रसेल्स में फलिस्तीनी डोनर ग्रुप की दूसरी मंत्रिस्तरीय बैठक में लिया हिस्सा",
+        "summary": "भारत ने कल बेल्जियम की राजधानी ब्रसेल्स में फलिस्तीनी डोनर ग्रुप (पीडीजी) की दूसरी मंत्रिस्तरीय बैठक में हिस्सा लिया। विदेश मंत्रालय में वाणिज्य दूतावास, पासपोर्ट और वीजा तथा प्रवासी भारतीय मामलों की सचिव श्रीप्रिया रंगनाथन ने कहा कि भारत लंबे समय से फलिस्तीनी लोगों का भरोसेमंद साझेदार रहा है। उन्होंने कहा कि भारत स्वास्थ्य, शिक्षा, […]",
+        "article": "भारत ने कल बेल्जियम की राजधानी ब्रसेल्स में फलिस्तीनी डोनर ग्रुप (पीडीजी) की दूसरी मंत्रिस्तरीय बैठक में हिस्सा लिया। विदेश मंत्रालय में वाणिज्य दूतावास, पासपोर्ट और वीजा तथा प्रवासी भारतीय मामलों की सचिव श्रीप्रिया रंगनाथन ने कहा कि भारत लंबे समय से फलिस्तीनी लोगों का भरोसेमंद साझेदार रहा है। उन्होंने कहा कि भारत स्वास्थ्य, शिक्षा, कौशल विकास और व्यावसायिक प्रशिक्षण के क्षेत्रों में विकास और मानवीय सहायता प्रदान कर रहा है। उन्होंने पुनर्वास, स्वास्थ्य, शिक्षा और व्यावसायिक प्रशिक्षण से जुड़ी कई नई परियोजनाओं की भी घोषणा की। सुश्री श्रीप्रिया रंगनाथन ने फलिस्तीनी शरणार्थियों के लिए संयुक्त राष्ट्र राहत और कार्य एजेंसी से जुड़ी बैठक में भी भाग लिया। उन्&#x200d;होंने एजेंसी के प्रति भारत के निरंतर समर्थन को दोहराया।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T07:02:50+00:00",
+        "link": "https://newsonair.gov.in/hi/india-participated-in-the-second-ministerial-meeting-of-the-palestinian-donor-group-in-brussels/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNK0tK1a8AA6BqY.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका ने लगातार तीसरी रात ईरान पर हवाई हमले किए, दोनों देशों में तनाव बढ़ा",
+        "summary": "अमरीका ने लगातार तीसरी रात ईरान पर हवाई हमले किए हैं। इससे दोनों देशों के बीच तनाव फिर से बढ़ गया है। अमरीका की सेना के सेंट्रल कमांड ने कहा कि उसने अबू मूसा, बंदर अब्बास, बुशहर, चाहबहार, जास्क और कोनारक के आसपास के इलाकों में हमला कर ईरानी तटीय रक्षा प्रणालियों, मिसाइल और ड्रोन […]",
+        "article": "अमरीका ने लगातार तीसरी रात ईरान पर हवाई हमले किए हैं। इससे दोनों देशों के बीच तनाव फिर से बढ़ गया है। अमरीका की सेना के सेंट्रल कमांड ने कहा कि उसने अबू मूसा, बंदर अब्बास, बुशहर, चाहबहार, जास्क और कोनारक के आसपास के इलाकों में हमला कर ईरानी तटीय रक्षा प्रणालियों, मिसाइल और ड्रोन ठिकानों और उनकी नौसैनिक क्षमताओं को निशाना बनाया है। ईरान ने इन हमलों को स्वीकारा है, लेकिन किसी भी हताहत या नुकसान की सूचना नहीं दी है। अमरीका सेंट्रल कमांड का कहना है कि ये हमले ईरानी सेना पर जारी रहेंगे और हॉर्मुज़ जलडमरूमध्य में निर्दोष नागरिकों और वाणिज्यिक जहाजों पर हमला करने की उनकी क्षमता को कमजोर करेंगे। इसके जवाब में ईरान ने बहरीन, जॉर्डन और इस जलडमरूमध्य से गुजर रहे संयुक्त अरब अमीरात से जुड़े दो टैंकरों को निशाना बनाया। इसमें एक नाविक की मौत हो गई और आठ अन्य घायल हो गए। संयुक्त अरब अमीरात के रक्षा मंत्रालय ने कहा कि टैंकरों पर हुए इस हमले में एक भारतीय नागरिक की मौत हुई है और छह भारतीय तथा दो यूक्रेनी नागरिक घायल हुए हैं। उधर, जॉर्डन की सेना ने कहा है कि उसने ईरान की ओर से आई चार मिसाइलों को हवा में ही रोक दिया। इसी बीच अमरीका के राष्ट्रपति डोनाल्ड ट्रंप ने नतांज के पास गहराई में बने एक परमाणु स्थल &#8216;पिकएक्स माउंटेन&#8217; को नष्ट करने की धमकी दी है, जहाँ ईरान के एक अघोषित संवर्धन केंद्र बना बनाने की आशंका है। इससे पहले कल, राष्ट्रपति डोनाल्ड ट्रंप ने घोषणा की थी कि अमरीका हॉर्मुज़ जलडमरूमध्य में ईरानी जहाजों पर फिर से नाकेबंदी लागू करेगा और समुद्री सुरक्षा की लागत को पूरा करने के लिए इस रणनीतिक जलमार्ग से गुजरने वाले माल पर 20 प्रतिशत का शुल्क लगाएगा। सोशल मीडिया पोस्ट में राष्ट्रपति ट्रंप ने कहा कि यह नाकेबंदी केवल ईरानी जहाजों और ईरान के साथ व्यापार करने वाले जहाजों पर लागू होगी। उन्होंने कहा कि हॉर्मुज़ जलडमरूमध्य खुला है और ईरान के साथ या उसके बिना भी खुला रहेगा। उन्होंने भरोसा दिलाया कि अन्य देशों के वाणिज्यिक जहाजों को मुफ्त मार्ग मिलता रहेगा। दूसरी ओर, ईरान ने हॉर्मुज़ जलडमरूमध्य पर अपने अधिकार का दावा किया है और अमरीका के दावें को खारिज किया है। ईरान की सरकारी मीडिया के अनुसार, केंद्रीय मुख्यालय के प्रवक्ता ब्रिगेडियर जनरल इब्राहिम ज़ोलफ़ाघरी ने कहा कि ईरान किसी भी परिस्थिति में अमरीका को हॉर्मुज़ जलडमरूमध्य के प्रबंधन में हस्तक्षेप करने की अनुमति नहीं देगा। उन्होंने यह चेतावनी भी दी कि अमरीका की सेना को रसद सहायता प्रदान करने वाले किसी भी क्षेत्रीय देश को ईरान के खिलाफ युद्ध छेड़ने जैसा माना जाएगा।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T06:25:05+00:00",
+        "link": "https://newsonair.gov.in/hi/the-us-carried-out-airstrikes-on-iran-for-the-third-consecutive-night-escalating-tensions-between-the-two-countries/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "संसदीय कार्य मंत्री किरेन रिजिजू कतर के अमीर के निधन पर भारत सरकार की ओर से शोक संवेदना व्यक्त करने दोहा रवाना हुए",
+        "summary": "संसदीय कार्य और अल्पसंख्यक कार्य मंत्री किरेन रिजिजू कतर के अमीर शेख हमद बिन खलीफा अल थानी के निधन पर भारत सरकार और जनता की ओर से शोक संवेदना व्यक्त करने के लिए आज दोहा के लिए रवाना हुए। विदेश मंत्रालय ने कहा कि अमीर ने आधुनिक कतर के निर्माण में महत्वपूर्ण भूमिका निभाई और […]",
+        "article": "संसदीय कार्य और अल्पसंख्यक कार्य मंत्री किरेन रिजिजू कतर के अमीर शेख हमद बिन खलीफा अल थानी के निधन पर भारत सरकार और जनता की ओर से शोक संवेदना व्यक्त करने के लिए आज दोहा के लिए रवाना हुए। विदेश मंत्रालय ने कहा कि अमीर ने आधुनिक कतर के निर्माण में महत्वपूर्ण भूमिका निभाई और वे भारत के घनिष्&#x200d;ठ मित्र थे। मंत्रालय ने कहा कि भारत-कतर संबंधों को मजबूत करने में उनके अमूल्य योगदान के लिए अमीर को हमेशा याद किया जाएगा।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T06:14:52+00:00",
+        "link": "https://newsonair.gov.in/hi/parliamentary-affairs-minister-kiren-rijiju-has-left-for-doha-to-convey-condolences-on-behalf-of-the-government-of-india-following-the-demise-of-the-emir-of-qatar/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/04/Kiren.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "बैंकॉक के एक म्यूजिक बार में लगी भीषण आग में मरने वालों की संख्या 30 हो गई है",
+        "summary": "थाईलैंड की राजधानी बैंकॉक के एक म्यूजिक बार में लगी भीषण आग में मरने वालों की संख्या 30 हो गई है। अधिकारियों के अनुसार, 70 से अधिक लोग अस्पताल में भर्ती हैं, जिनमें 24 की हालत गंभीर है। पुलिस आग लगने के कारणों और बार में सुरक्षा नियमों की जांच कर रही है। यह हादसा […]",
+        "article": "थाईलैंड की राजधानी बैंकॉक के एक म्यूजिक बार में लगी भीषण आग में मरने वालों की संख्या 30 हो गई है। अधिकारियों के अनुसार, 70 से अधिक लोग अस्पताल में भर्ती हैं, जिनमें 24 की हालत गंभीर है। पुलिस आग लगने के कारणों और बार में सुरक्षा नियमों की जांच कर रही है। यह हादसा रविवार देर रात उत्तरी बैंकॉक के रोंग बीयर ना लाडप्राओ बार में हुआ। इसे बैंकॉक में पिछले 17 वर्षों की सबसे बड़ी अग्निकांड की घटना बताया जा रहा है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T06:06:57+00:00",
+        "link": "https://newsonair.gov.in/hi/the-death-toll-from-the-massive-fire-at-a-music-bar-in-bangkok-has-risen-to-30/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/b.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली में शुरू हुआ",
+        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरराज सिंह ने इस चार दिवसीय कार्यक्रम का उद्घाटन किया। यह कार्यक्रम कपड़ा, फैशन, टिकाऊ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसने […]",
+        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरराज सिंह ने इस चार दिवसीय कार्यक्रम का उद्घाटन किया। यह कार्यक्रम कपड़ा, फैशन, टिकाऊ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसने निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, अंतर्राष्ट्रीय प्रतिनिधिमंडलों, कारीगरों, स्टार्ट-अप और प्रौद्योगिकी प्रदाताओं को एक साथ लाया है। प्रधानमंत्री नरेंद्र मोदी के 5एफ विज़न- फार्म टू फाइबर टू फैक्ट्री टू फैशन टू फॉरेन से प्रेरित होकर भारत टेक्स 2026 कपड़ा मूल्य श्रृंखला में व्यवसाय, निवेश, नवाचार, नीति संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख वैश्विक मंच के रूप में विकसित हुआ है। भारत टेक्स 2026 के इस तीसरे संस्करण में लगभग सात हजार खरीदार और 20 हजार से अधिक कपड़ा उत्पादों की भागीदारी देखी जा रही है। इस कार्यक्रम में 14 देशों के अंतर्राष्ट्रीय प्रदर्शक भाग ले रहे हैं। इस आयोजन में 20 से अधिक देशों के अंतर्राष्ट्रीय विशेषज्ञ, राष्ट्रीय उद्योग जगत के नेता, नीति निर्माता और विचारक सहित 350 से अधिक वक्ता शामिल होंगे।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T05:57:27+00:00",
+        "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "यमन में ईरान समर्थित हूती विद्रोहियों ने कहा कि उन्होंने सऊदी अरब के आभा इंटरनेशनल एयरपोर्ट पर मिसाइलें और ड्रोन हमले किए",
         "summary": "यमन में ईरान समर्थित हूती विद्रोहियों ने कहा कि उन्होंने कल सऊदी अरब के आभा इंटरनेशनल एयरपोर्ट पर मिसाइलें और ड्रोन हमले किए। यह कदम यमन के सना इंटरनेशनल एयरपोर्ट पर पहले हुए हवाई हमलों के जवाब में उठाया गया है। उनका आरोप है कि ये हमले कल रियाद ने किए थे। इसमें किसी के […]",
         "article": "यमन में ईरान समर्थित हूती विद्रोहियों ने कहा कि उन्होंने कल सऊदी अरब के आभा इंटरनेशनल एयरपोर्ट पर मिसाइलें और ड्रोन हमले किए। यह कदम यमन के सना इंटरनेशनल एयरपोर्ट पर पहले हुए हवाई हमलों के जवाब में उठाया गया है। उनका आरोप है कि ये हमले कल रियाद ने किए थे। इसमें किसी के हताहत होने की खबर नहीं है। इन हमलों ने तनाव को उस स्तर पर पहुंचा दिया है जो सऊदी के नेतृत्व वाले गठबंधन द्वारा कई साल पहले हूती-नियंत्रित इलाकों पर हमले के बाद से नहीं देखा गया था। सऊदी अरब के अधिकारियों ने यमन में हवाई हमलों के बारे में तुरंत कोई प्रतिक्रिया नहीं दी। हूती सैन्य प्रवक्ता ब्रिगेडियर जनरल याह्या सरी ने एक वीडियो बयान में एयरलाइंस को सऊदी हवाई क्षेत्र से उड़ान भरने के खिलाफ चेतावनी दी। प्रवक्ता ने कहा कि जब तक सना इंटरनेशनल एयरपोर्ट पर लगी नाकेबंदी नहीं हटाई जाती, तब तक इन चेतावनियों को गंभीरता से लिया जाना चाहिए। हूती सैन्य प्रवक्ता ने चेतावनी दी कि इस आक्रामकता का जवाब दिया जाएगा और इसे बिना सजा के नहीं छोड़ा जाएगा। यमन में अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त सरकार ने पहले कहा था कि सना इंटरनेशनल एयरपोर्ट पर हुए हमलों का उद्देश्य एक ईरानी विमान को उतरने से रोकना था। संयुक्त राष्ट्र सुरक्षा परिषद के अधिकारियों ने आज एक आपात बैठक में तनाव के और बढ़ने के जोखिम पर चिंता व्यक्त की। यमन में वैधता बहाल करने वाले सऊदी-नेतृत्व वाले गठबंधन के आधिकारिक प्रवक्ता मेजर जनरल तुर्की अल-माल्की ने सोशल मीडिया पोस्ट में कहा कि सऊदी वायु रक्षा प्रणालियों ने हूतियों द्वारा दागी गई बैलिस्टिक मिसाइलों को नाकाम कर दिया, हालांकि उन्होंने और विवरण नहीं दिया। सऊदी-नेतृत्व वाले गठबंधन ने आखिरी बार हूती-नियंत्रित इलाकों को तब निशाना बनाया था जब 2022 में लड़ाई रोकने के लिए संयुक्त राष्ट्र की मध्यस्थता में समझौता लागू हुआ था।",
@@ -1061,17 +1138,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन भारत टेक्स 2026 आज नई दिल्ली में शुरू होगा",
-        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन, भारत टेक्स 2026, आज नई दिल्ली के भारत मंडपम में शुरू हो रहा है। केंद्रीय वस्त्र मंत्री गिरिराज सिंह इस सम्‍मेलन का उद्घाटन करेंगे। प्रधानमंत्री नरेंद्र मोदी के 5एफ विजन (खेत से फाइबर, कारखाने से फैक्ट्री, फैशन से विदेश तक) से प्रेरित भारत टेक्स 2026 का उद्देश्य वस्त्र […]",
-        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन, भारत टेक्स 2026, आज नई दिल्ली के भारत मंडपम में शुरू हो रहा है। केंद्रीय वस्त्र मंत्री गिरिराज सिंह इस सम्&#x200d;मेलन का उद्घाटन करेंगे। प्रधानमंत्री नरेंद्र मोदी के 5एफ विजन (खेत से फाइबर, कारखाने से फैक्ट्री, फैशन से विदेश तक) से प्रेरित भारत टेक्स 2026 का उद्देश्य वस्त्र मूल्य श्रृंखला में व्यापार, निवेश, स्रोत, नवाचार, नीतिगत संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख मंच के रूप में विकसित होना है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:57:27+00:00",
-        "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zrGSLLon.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "विदेश मंत्री डॉ. एस जयशंकर ने न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की",
         "summary": "विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्‍होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 […]",
         "article": "विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्&#x200d;होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद में अस्थायी सीट के लिए भारत के चुनाव में अभियान का नेतृत्व करने के लिए न्यूयॉर्क में हैं।",
@@ -1090,85 +1156,63 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T02:46:42+00:00",
         "link": "https://newsonair.gov.in/hi/india-has-launched-its-election-campaign-for-a-non-permanent-seat-on-the-united-nations-security-council-for-the-2028-29-term/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNIgQ1wXkAAbN-v.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम में स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर मुंबई लाए गए",
-        "summary": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि […]",
-        "article": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि आन्ध्रप्रदेश, केरल और तमिलनाडु की सरकारें इन शवों को उनके संबंधित राज्यों में उनके आवास पर पहुंचाने में समन्वय करेंगी। वियतनाम के अधिकारियों और सरकार के प्रति आभार व्यक्त करते हुए दूतावास ने बताया कि उनकी प्रार्थना, प्रयास और मौजूदगी ने इस दुख की घड़ी में शक्ति प्रदान की। 32 भारतीय पर्यटकों और चार स्थानीय क्रू के सद्स्यों वाली स्पीड बोट शुक्रवार को वियतनाम में फू क्वोक द्वीप में पलट गई। इस कारण 15 पर्यटकों की मृत्यु हो गई। इस दुर्घटना में बचने वाले 16 पर्यटक भी भारत लौट चुके हैं। इनमें से एक पर्यटक वियतनाम के एक अस्पताल में भर्ती है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:45:11+00:00",
-        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-a-speedboat-accident-in-vietnam-have-been-brought-back-to-the-country/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "यूक्रेन सहित दस देशों ने यूरोप को बैलिस्टिक मिसाइलों से बचाने के लिए गठबंधन बनाने की घोषणा की",
-        "summary": "यूक्रेन और नौ अन्य देशों ने घोषणा की है कि वे यूरोप को बैलिस्टिक मिसाइलों से बचाने के लिए एक गठबंधन बना रहे हैं। यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की और डेनमार्क, फ्रांस, जर्मनी, इटली, नीदरलैंड्स, नॉर्वे, स्पेन, स्वीडन और ब्रिटेन के नेताओं ने कहा कि वे बैलिस्टिक मिसाइलों से बढ़ते खतरे को समझते हैं। इन […]",
-        "article": "यूक्रेन और नौ अन्य देशों ने घोषणा की है कि वे यूरोप को बैलिस्टिक मिसाइलों से बचाने के लिए एक गठबंधन बना रहे हैं। यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की और डेनमार्क, फ्रांस, जर्मनी, इटली, नीदरलैंड्स, नॉर्वे, स्पेन, स्वीडन और ब्रिटेन के नेताओं ने कहा कि वे बैलिस्टिक मिसाइलों से बढ़ते खतरे को समझते हैं। इन मिसाइलों को क्रूज़ मिसाइलों या ड्रोन की तुलना में रोकना ज़्यादा मुश्किल होता है। पेरिस में जारी एक बयान में इन 10 देशों ने कहा कि उनका लक्ष्य यूरोप के लिए एक साझा बैलिस्टिक मिसाइल रक्षा क्षमता विकसित करना है। इसके लिए वे रूस के पूर्ण-स्तरीय हमले के चार वर्ष से अधिक समय से सामना करने के कीव के अनुभव का लाभ उठाएंगे। बयान में इस रक्षा प्रणाली को स्थापित करने के लिए कोई समय-सीमा नहीं बताई गई है। ब्यान में यह भी कहा गया कि यह योजना अन्य देशों के लिए भी खुली है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:44:45+00:00",
-        "link": "https://newsonair.gov.in/hi/ten-countries-including-ukraine-announced-the-formation-of-an-alliance-to-protect-europe-from-ballistic-missiles/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNJvv2ra0AA5frQ-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीका के राष्ट्रपति ने होर्मुज जलडमरूमध्य में ईरानी जहाजों की नाकेबंदी फिर शुरू करने की घोषणा की",
-        "summary": "अमरीका ने लगातार तीसरी रात ईरान पर हमले किए। इससे दोनों देशों के बीच दुश्मनी और बढ़ गई है। अमरीकी सेंट्रल कमान-सेंटकॉम ने कहा कि इन हमलों से ईरानी सेना को भारी नुकसान उठाना पड़ेगा और होर्मुज़ जलडमरूमध्य में निर्दोष नागरिकों और वाणिज्यिक जहाजों पर हमला करने की उनकी क्षमता कमज़ोर होगी। अमरीका के राष्ट्रपति […]",
-        "article": "अमरीका ने लगातार तीसरी रात ईरान पर हमले किए। इससे दोनों देशों के बीच दुश्मनी और बढ़ गई है। अमरीकी सेंट्रल कमान-सेंटकॉम ने कहा कि इन हमलों से ईरानी सेना को भारी नुकसान उठाना पड़ेगा और होर्मुज़ जलडमरूमध्य में निर्दोष नागरिकों और वाणिज्यिक जहाजों पर हमला करने की उनकी क्षमता कमज़ोर होगी। अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने नतांज़ के पास मौजूद &#8216;पिकैक्स माउंटेन&#8217; को नष्ट करने की धमकी दी है। यह ज़मीन के बहुत नीचे बना एक न्यूक्लियर साइट है, जिसके बारे में पश्चिमी खुफिया एजेंसियों को शक है कि ईरान वहाँ एक अघोषित परमाणु संवर्धन सुविधा का निर्माण कर रहा है। इससे पहले कल अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने घोषणा की है कि अमरीका होर्मुज़ जलडमरूमध्य में ईरानी जहाजों की फिर से नाकाबंदी करेगा। इसके अलावा अमरीका समुद्री सुरक्षा का खर्च उठाने के लिए इस महत्वपूर्ण समुद्री मार्ग से गुजरने वाले माल पर 20 प्रतिशत शुल्क लगाएगा। राष्ट्रपति ट्रंप ने &#8216;ट्रुथ सोशल&#8217; पर एक पोस्ट में कहा कि यह रोक सिर्फ़ ईरानी जहाजों और ईरान के साथ व्यापार करने वाले जहाजों पर लागू होगी। उन्होंने कहा कि होर्मुज़ जलडमरूमध्य खुला है और ईरान के साथ या उसके बिना खुला रहेगा। उन्होंने भरोसा दिलाया कि दूसरे देशों के वाणिज्यिक जहाजों की आवाजाही बिना किसी रोक-टोक के जारी रहेगी। अमरीका की सेना ने कहा है कि वह आज रात से ईरानी बंदरगाहों की नाकेबंदी फिर से शुरू करेगी। यह घोषणा होर्मुज़ जलडमरूमध्य में जहाजों पर ईरानी हमलों के बाद फिर से बढ़े तनाव के बीच की गई है। अमरीका ने ईरान में कई ठिकानों पर हमले भी किए हैं, जिसके जवाब में ईरान ने बहरीन, ओमान और कुवैत सहित पूरे पश्चिम एशिया में जवाबी हमले किए हैं। दूसरी ओर ईरान ने होर्मुज़ जलडमरूमध्य पर अपना अधिकार जताया है और अमरीका के इस कदम को खारिज कर दिया है। ईरानी सरकारी मीडिया के अनुसार, सेंट्रल हेडक्वार्टर के प्रवक्ता ब्रिगेडियर जनरल इब्राहिम ज़ोलफ़गारी ने कहा कि ईरान किसी भी हाल में अमरीका को होर्मुज़ जलडमरूमध्य के प्रबंधन में दखल नहीं देने देगा। उन्होंने यह भी चेतावनी दी कि अगर कोई क्षेत्रीय देश अमरीका की सेना को लॉजिस्टिकल मदद देता है, तो इसे ईरान के खिलाफ़ युद्ध की कार्रवाई माना जाएगा। अंतर्राष्ट्रीय नौवहन की देखरेख करने वाली संयुक्त राष्ट्र की एजेंसी अंतर्राष्ट्रीय समुद्री संगठन ने कहा कि वह राष्ट्रपति ट्रंप के प्रस्ताव के बारे में और जानकारी का इंतज़ार कर रहा है, लेकिन अंतर्राष्ट्रीय जलमार्गों से गुजरने के लिए शुल्क लगाने का विरोध करता है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:43:15+00:00",
-        "link": "https://newsonair.gov.in/hi/president-donald-trump-announced-the-resumption-of-the-blockade-by-iranian-ships-in-the-strait-of-hormuz/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/trump-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "यूरोपीय संघ ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया",
-        "summary": "यूरोपीय संघ (ईयू) ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया है। संघ के शीर्ष राजनयिक ने कल कहा कि यूरोपीय संघ व्हाइट हाउस और संयुक्त राष्ट्र सहित 65 सरकारों और संगठनों के साथ मिलकर काम कर रहा है। ब्रसेल्स में &#8216;फिलिस्तीन डोनर्स ग्रुप&#8217; की बैठक के […]",
-        "article": "यूरोपीय संघ (ईयू) ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया है। संघ के शीर्ष राजनयिक ने कल कहा कि यूरोपीय संघ व्हाइट हाउस और संयुक्त राष्ट्र सहित 65 सरकारों और संगठनों के साथ मिलकर काम कर रहा है। ब्रसेल्स में &#8216;फिलिस्तीन डोनर्स ग्रुप&#8217; की बैठक के बाद यूरोपीय आयोग की उपाध्यक्ष काजा कल्लास ने इस सहायता राशि की घोषणा की। यह बैठक &#8216;टीम गाज़ा पहल&#8217; की दूसरी बैठक थी। यह यूरोपीय संघ की एक ऐसी पहल है जिसका उद्देश्य युद्ध से तबाह हुए तटीय इलाके में साफ-सफाई और खेती जैसे पुनर्निर्माण कार्यों के लिए समर्थन जुटाना है। इन तबाह हुए इलाकों में लगभग 20 लाख लोग रहते हैं।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:05:18+00:00",
-        "link": "https://newsonair.gov.in/hi/the-european-union-coordinated-efforts-to-mobilize-one-billion-dollars-in-aid-for-gaza/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/EU.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
-        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
-        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:49:09+00:00",
-        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "एनटीए ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी किए",
-        "summary": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्‍तर देख सकते है। उम्‍मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े […]",
-        "article": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्&#x200d;तर देख सकते है। उम्&#x200d;मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार प्रश्न का चयन करके अपने चुने हुए विकल्प पर निशान लगा सकते हैं और 200 रुपये के शुल्क का भुगतान करके चुनौती दे सकते हैं। एजेंसी ने स्पष्ट किया है कि चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। ओएमआर चुनौती सुविधा इस महीने की 15 तारीख तक उपलब्ध रहेगी। उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:41:10+00:00",
-        "link": "https://newsonair.gov.in/hi/the-nta-released-the-omr-sheets-and-recorded-responses-for-the-neet-ug-2026-re-examination/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "breaking": [
       {
-        "title": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन भारत टेक्स 2026 आज नई दिल्ली में शुरू होगा",
-        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन, भारत टेक्स 2026, आज नई दिल्ली के भारत मंडपम में शुरू हो रहा है। केंद्रीय वस्त्र मंत्री गिरिराज सिंह इस सम्‍मेलन का उद्घाटन करेंगे। प्रधानमंत्री नरेंद्र मोदी के 5एफ विजन (खेत से फाइबर, कारखाने से फैक्ट्री, फैशन से विदेश तक) से प्रेरित भारत टेक्स 2026 का उद्देश्य वस्त्र […]",
-        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन, भारत टेक्स 2026, आज नई दिल्ली के भारत मंडपम में शुरू हो रहा है। केंद्रीय वस्त्र मंत्री गिरिराज सिंह इस सम्&#x200d;मेलन का उद्घाटन करेंगे। प्रधानमंत्री नरेंद्र मोदी के 5एफ विजन (खेत से फाइबर, कारखाने से फैक्ट्री, फैशन से विदेश तक) से प्रेरित भारत टेक्स 2026 का उद्देश्य वस्त्र मूल्य श्रृंखला में व्यापार, निवेश, स्रोत, नवाचार, नीतिगत संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख मंच के रूप में विकसित होना है।",
+        "title": "भारत-ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से होगा लागू, 99% भारतीय निर्यात पर शून्य शुल्क",
+        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से लागू हो जाएगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत उत्पादों पर शून्य शुल्क की सुविधा मिलेगी। यह समझौता भारत और ब्रिटेन की रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की […]",
+        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से लागू हो जाएगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत उत्पादों पर शून्य शुल्क की सुविधा मिलेगी। यह समझौता भारत और ब्रिटेन की रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। इस ऐतिहासिक समझौते की नींव मई 2021 में उन्नत व्यापार साझेदारी और भारत-ब्रिटेन रोडमैप 2030 को अपनाने के माध्यम से रखी गई थी। इसमें 2030 तक व्यापार को दोगुना करके सौ अरब अमरीकी डॉलर तक पहुंचाने का लक्ष्य रखा गया था। &nbsp;",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:57:27+00:00",
+        "pubDate": "2026-07-14T07:10:14+00:00",
+        "link": "https://newsonair.gov.in/hi/india-uk-comprehensive-economic-and-trade-agreement-to-come-into-effect-tomorrow-zero-duty-on-99-of-indian-exports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-4-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने प्रधानमंत्री मोदी के नाम से वायरल गोमांस संबंधी वीडियो को फर्जी बताया",
+        "summary": "सरकार ने सोशल मीडिया पर वायरल हो रहे उस वीडियो का खंडन किया है जिसमें दावा किया गया है कि प्रधानमंत्री नरेंद्र मोदी ने न्यूजीलैंड के ऑकलैंड में एक कार्यक्रम के दौरान कहा था कि भारत दुनिया का दूसरा सबसे बड़ा गोमांस उत्पादक देश है। प्रेस सूचना कार्यालय (पीआईबी) की फैक्ट चेक यूनिट ने कहा […]",
+        "article": "सरकार ने सोशल मीडिया पर वायरल हो रहे उस वीडियो का खंडन किया है जिसमें दावा किया गया है कि प्रधानमंत्री नरेंद्र मोदी ने न्यूजीलैंड के ऑकलैंड में एक कार्यक्रम के दौरान कहा था कि भारत दुनिया का दूसरा सबसे बड़ा गोमांस उत्पादक देश है। प्रेस सूचना कार्यालय (पीआईबी) की फैक्ट चेक यूनिट ने कहा कि यह दावा फर्जी है और प्रधानमंत्री ने ऐसा कोई बयान नहीं दिया है। यूनिट ने लोगों को भ्रामक सामग्री से सावधान रहने और सत्यापित जानकारी के लिए हमेशा आधिकारिक स्रोतों पर भरोसा करने की सलाह भी दी है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T07:09:55+00:00",
+        "link": "https://newsonair.gov.in/hi/the-government-termed-the-viral-video-regarding-beef-linked-to-prime-minister-modi-as-fake/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने ब्रसेल्स में फलिस्तीनी डोनर ग्रुप की दूसरी मंत्रिस्तरीय बैठक में लिया हिस्सा",
+        "summary": "भारत ने कल बेल्जियम की राजधानी ब्रसेल्स में फलिस्तीनी डोनर ग्रुप (पीडीजी) की दूसरी मंत्रिस्तरीय बैठक में हिस्सा लिया। विदेश मंत्रालय में वाणिज्य दूतावास, पासपोर्ट और वीजा तथा प्रवासी भारतीय मामलों की सचिव श्रीप्रिया रंगनाथन ने कहा कि भारत लंबे समय से फलिस्तीनी लोगों का भरोसेमंद साझेदार रहा है। उन्होंने कहा कि भारत स्वास्थ्य, शिक्षा, […]",
+        "article": "भारत ने कल बेल्जियम की राजधानी ब्रसेल्स में फलिस्तीनी डोनर ग्रुप (पीडीजी) की दूसरी मंत्रिस्तरीय बैठक में हिस्सा लिया। विदेश मंत्रालय में वाणिज्य दूतावास, पासपोर्ट और वीजा तथा प्रवासी भारतीय मामलों की सचिव श्रीप्रिया रंगनाथन ने कहा कि भारत लंबे समय से फलिस्तीनी लोगों का भरोसेमंद साझेदार रहा है। उन्होंने कहा कि भारत स्वास्थ्य, शिक्षा, कौशल विकास और व्यावसायिक प्रशिक्षण के क्षेत्रों में विकास और मानवीय सहायता प्रदान कर रहा है। उन्होंने पुनर्वास, स्वास्थ्य, शिक्षा और व्यावसायिक प्रशिक्षण से जुड़ी कई नई परियोजनाओं की भी घोषणा की। सुश्री श्रीप्रिया रंगनाथन ने फलिस्तीनी शरणार्थियों के लिए संयुक्त राष्ट्र राहत और कार्य एजेंसी से जुड़ी बैठक में भी भाग लिया। उन्&#x200d;होंने एजेंसी के प्रति भारत के निरंतर समर्थन को दोहराया।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T07:02:50+00:00",
+        "link": "https://newsonair.gov.in/hi/india-participated-in-the-second-ministerial-meeting-of-the-palestinian-donor-group-in-brussels/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNK0tK1a8AA6BqY.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "संसदीय कार्य मंत्री किरेन रिजिजू कतर के अमीर के निधन पर भारत सरकार की ओर से शोक संवेदना व्यक्त करने दोहा रवाना हुए",
+        "summary": "संसदीय कार्य और अल्पसंख्यक कार्य मंत्री किरेन रिजिजू कतर के अमीर शेख हमद बिन खलीफा अल थानी के निधन पर भारत सरकार और जनता की ओर से शोक संवेदना व्यक्त करने के लिए आज दोहा के लिए रवाना हुए। विदेश मंत्रालय ने कहा कि अमीर ने आधुनिक कतर के निर्माण में महत्वपूर्ण भूमिका निभाई और […]",
+        "article": "संसदीय कार्य और अल्पसंख्यक कार्य मंत्री किरेन रिजिजू कतर के अमीर शेख हमद बिन खलीफा अल थानी के निधन पर भारत सरकार और जनता की ओर से शोक संवेदना व्यक्त करने के लिए आज दोहा के लिए रवाना हुए। विदेश मंत्रालय ने कहा कि अमीर ने आधुनिक कतर के निर्माण में महत्वपूर्ण भूमिका निभाई और वे भारत के घनिष्&#x200d;ठ मित्र थे। मंत्रालय ने कहा कि भारत-कतर संबंधों को मजबूत करने में उनके अमूल्य योगदान के लिए अमीर को हमेशा याद किया जाएगा।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T06:14:52+00:00",
+        "link": "https://newsonair.gov.in/hi/parliamentary-affairs-minister-kiren-rijiju-has-left-for-doha-to-convey-condolences-on-behalf-of-the-government-of-india-following-the-demise-of-the-emir-of-qatar/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/04/Kiren.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली में शुरू हुआ",
+        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरराज सिंह ने इस चार दिवसीय कार्यक्रम का उद्घाटन किया। यह कार्यक्रम कपड़ा, फैशन, टिकाऊ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसने […]",
+        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरराज सिंह ने इस चार दिवसीय कार्यक्रम का उद्घाटन किया। यह कार्यक्रम कपड़ा, फैशन, टिकाऊ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसने निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, अंतर्राष्ट्रीय प्रतिनिधिमंडलों, कारीगरों, स्टार्ट-अप और प्रौद्योगिकी प्रदाताओं को एक साथ लाया है। प्रधानमंत्री नरेंद्र मोदी के 5एफ विज़न- फार्म टू फाइबर टू फैक्ट्री टू फैशन टू फॉरेन से प्रेरित होकर भारत टेक्स 2026 कपड़ा मूल्य श्रृंखला में व्यवसाय, निवेश, नवाचार, नीति संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख वैश्विक मंच के रूप में विकसित हुआ है। भारत टेक्स 2026 के इस तीसरे संस्करण में लगभग सात हजार खरीदार और 20 हजार से अधिक कपड़ा उत्पादों की भागीदारी देखी जा रही है। इस कार्यक्रम में 14 देशों के अंतर्राष्ट्रीय प्रदर्शक भाग ले रहे हैं। इस आयोजन में 20 से अधिक देशों के अंतर्राष्ट्रीय विशेषज्ञ, राष्ट्रीय उद्योग जगत के नेता, नीति निर्माता और विचारक सहित 350 से अधिक वक्ता शामिल होंगे।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T05:57:27+00:00",
         "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zrGSLLon.jpg",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1206,17 +1250,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
-        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
-        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:49:09+00:00",
-        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "एनटीए ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी किए",
         "summary": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्‍तर देख सकते है। उम्‍मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े […]",
         "article": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्&#x200d;तर देख सकते है। उम्&#x200d;मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार प्रश्न का चयन करके अपने चुने हुए विकल्प पर निशान लगा सकते हैं और 200 रुपये के शुल्क का भुगतान करके चुनौती दे सकते हैं। एजेंसी ने स्पष्ट किया है कि चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। ओएमआर चुनौती सुविधा इस महीने की 15 तारीख तक उपलब्ध रहेगी। उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
@@ -1224,375 +1257,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T00:41:10+00:00",
         "link": "https://newsonair.gov.in/hi/the-nta-released-the-omr-sheets-and-recorded-responses-for-the-neet-ug-2026-re-examination/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सूचना और प्रसारण मंत्रालय ने वेव्स 2027 के ‘क्रिएट इन इंडिया चैलेंज’ सीज़न-2 के लिए प्रस्ताव आमंत्रित किए",
-        "summary": "सूचना और प्रसारण मंत्रालय ने &#8216;वर्ल्ड ऑडियो विज़ुअल एंड एंटरटेनमेंट समिट&#8217; &#8211; वेव्स 2027 &#8216;क्रिएट इन इंडिया चैलेंज&#8217; सीज़न 2 के तहत उद्योग-संचालित चुनौतियों के लिए प्रस्ताव आमंत्रित किए हैं। &#8216;क्रिएट इन इंडिया चैलेंज&#8217; वेव्स के तहत एक प्रमुख पहल है। इस पहल का उद्देश्य मीडिया और मनोरंजन क्षेत्र में सृजकों की पहचान करना, उन्हें […]",
-        "article": "सूचना और प्रसारण मंत्रालय ने &#8216;वर्ल्ड ऑडियो विज़ुअल एंड एंटरटेनमेंट समिट&#8217; &#8211; वेव्स 2027 &#8216;क्रिएट इन इंडिया चैलेंज&#8217; सीज़न 2 के तहत उद्योग-संचालित चुनौतियों के लिए प्रस्ताव आमंत्रित किए हैं। &#8216;क्रिएट इन इंडिया चैलेंज&#8217; वेव्स के तहत एक प्रमुख पहल है। इस पहल का उद्देश्य मीडिया और मनोरंजन क्षेत्र में सृजकों की पहचान करना, उन्हें आगे बढ़ाना, उनके कौशल को बेहतर बनाना और उन्हें सबके सामने लाना है। सीज़न-2 का लक्ष्य ऐसी उद्योग संचालित, सरकार-समर्थित और युवाओं पर केंद्रित चुनौतियों को पूरा करना है, जो रचनात्मक प्रतिभा की पहचान करें और उन्हें निखारें, साथ ही कौशल को बेहतर बनाने और क्षमता निर्माण को बढ़ावा दें। इसका उद्देश्य मीडिया और मनोरंजन के क्षेत्रों में सहयोग के अवसर पैदा करना भी है। जिसमें आर्टिफिशियल इंटेलिजेंस, डिजिटल मीडिया और प्रौद्योगिकी पर आधारित अन्य रचनात्मक क्षेत्र शामिल हैं। इस चुनौती का समापन वेव्स 2027 के दौरान &#8216;क्रिएटोस्फीयर&#8217; में विजेताओं और उनके सफल परिणामों को प्रदर्शित करने के साथ होगा। मंत्रालय ने कहा कि प्रस्ताव जमा करने और चुनौतियों तथा उन्हें पूरा करने वाली संस्थाओं के चयन के लिए एक पारदर्शी और योग्यता-आधारित प्रणाली के ज़रिए एक एकीकृत पोर्टल बनाया गया है। मीडिया और मनोरंजन क्षेत्र की संस्थाओं को इस महीने की 31 तारीख तक wavesbazaar.com ऑनलाइन पोर्टल के माध्यम से अपने प्रस्ताव जमा करने के लिए आमंत्रित किया गया है। चुनी गई चुनौतियों को सफलतापूर्वक लागू करने में मदद के लिए, मंत्रालय प्रति चुनौती एक करोड़ रुपये तक का एकमुश्त अनुदान देगा।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:37:58+00:00",
-        "link": "https://newsonair.gov.in/hi/the-ministry-of-information-and-broadcasting-has-invited-proposals-for-season-2-of-the-create-in-india-challenge-under-waves-2027/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNHp5PpaQAA9q5c.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "नीट यूजी 2026 री-एग्जाम की OMR शीट जारी",
-        "summary": "राष्ट्रीय परीक्षा एजेंसी &#8211; एनटीए ने आधिकारिक वेबसाइट neet.nta.nic.in पर उम्मीदवारों के लिए नीट यूजी 2026 की पुनः परीक्षा के लिए ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एनटीए ने बताया कि उम्मीदवार अपने आवेदन नंबर का उपयोग करके लॉग इन कर सकते हैं और अपने चिह्नित उत्तरों की तुलना स्कैन […]",
-        "article": "राष्ट्रीय परीक्षा एजेंसी &#8211; एनटीए ने आधिकारिक वेबसाइट neet.nta.nic.in पर उम्मीदवारों के लिए नीट यूजी 2026 की पुनः परीक्षा के लिए ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एनटीए ने बताया कि उम्मीदवार अपने आवेदन नंबर का उपयोग करके लॉग इन कर सकते हैं और अपने चिह्नित उत्तरों की तुलना स्कैन किए गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार 200 रुपये के शुल्क का भुगतान करके चुनौती दर्ज कर सकते हैं। चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। यह सुविधा 15 जुलाई तक उपलब्ध रहेगी। सहायता के लिए उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:58:11+00:00",
-        "link": "https://newsonair.gov.in/hi/neet-ug-2026-re-exam-omr-sheet-released/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/@NeetUG.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वेव्स 2027 के अंतर्गत ‘क्रिएट इन इंडिया चैलेंज सीजन-2 के लिए प्रस्ताव आमंत्रित",
-        "summary": "सूचना और प्रसारण मंत्रालय ने वर्ल्ड ऑडियो विजुअल एंड एंटरटेनमेंट समिट-वेव्स 2027 के अंतर्गत &#8216;क्रिएट इन इंडिया चैलेंज सीजन-2 के लिए उद्योग आधारित चुनौतियों के प्रस्ताव आमंत्रित किए हैं। मंत्रालय ने कहा है कि क्रिएट इन इंडिया चैलेंज का उद्देश्य मीडिया और मनोरंजन क्षेत्र में रचनात्मक प्रतिभाओं की पहचान करके उन्हें प्रोत्साहित और प्रशिक्षित […]",
-        "article": "सूचना और प्रसारण मंत्रालय ने वर्ल्ड ऑडियो विजुअल एंड एंटरटेनमेंट समिट-वेव्स 2027 के अंतर्गत &#8216;क्रिएट इन इंडिया चैलेंज सीजन-2 के लिए उद्योग आधारित चुनौतियों के प्रस्ताव आमंत्रित किए हैं। मंत्रालय ने कहा है कि क्रिएट इन इंडिया चैलेंज का उद्देश्य मीडिया और मनोरंजन क्षेत्र में रचनात्मक प्रतिभाओं की पहचान करके उन्हें प्रोत्साहित और प्रशिक्षित करना है। विजेताओं और उनके कार्यों का प्रदर्शन वेव्स-2027 के दौरान आयोजित क्रिएटोस्फेयर में किया जाएगा। मंत्रालय ने बताया कि प्रस्ताव जमा करने और चुनौतियों के चयन के लिए एकीकृत ऑनलाइन पोर्टल तैयार किया गया है। मीडिया और मनोरंजन क्षेत्र से जुड़े इच्छुक संस्थान 31 जुलाई तक wavesbazaar.com पोर्टल पर अपने प्रस्ताव भेज सकते हैं। चयनित चुनौतियों के सफल संचालन के लिए मंत्रालय प्रत्येक चुनौती के लिए एक करोड़ रुपये तक का अनुदान भी देगा।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:53:51+00:00",
-        "link": "https://newsonair.gov.in/hi/proposals-invited-for-create-in-india-challenge-season-2-under-waves-2027/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/CIC-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "बिहार-ओडिशा समेत कई राज्यों में भारी बारिश का अलर्ट",
-        "summary": "मौसम विभाग ने बिहार और ओडिशा में कल तक मूसलाधार बारिश का अनुमान व्‍यक्‍त किया है। अरुणाचल प्रदेश, छत्तीसगढ़, झारखंड, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल, सिक्किम, असम और मेघालय में भी कल तेज वर्षा हो सकती है। अंडमान और निकोबार द्वीप समूह, आंध्र प्रदेश, जम्मू-कश्मीर, लद्दाख, बिहार, पश्चिम बंगाल के गांगेय क्षेत्र, झारखंड, […]",
-        "article": "मौसम विभाग ने बिहार और ओडिशा में कल तक मूसलाधार बारिश का अनुमान व्&#x200d;यक्&#x200d;त किया है। अरुणाचल प्रदेश, छत्तीसगढ़, झारखंड, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल, सिक्किम, असम और मेघालय में भी कल तेज वर्षा हो सकती है। अंडमान और निकोबार द्वीप समूह, आंध्र प्रदेश, जम्मू-कश्मीर, लद्दाख, बिहार, पश्चिम बंगाल के गांगेय क्षेत्र, झारखंड, सिक्किम, कर्नाटक और ओडिशा में बिजली चमकने और तेज हवाओं के साथ तूफान की आशंका है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:51:03+00:00",
-        "link": "https://newsonair.gov.in/hi/heavy-rain-alert-in-many-states-including-bihar-odisha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260628303f-1-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "national": [
-      {
-        "title": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन भारत टेक्स 2026 आज नई दिल्ली में शुरू होगा",
-        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन, भारत टेक्स 2026, आज नई दिल्ली के भारत मंडपम में शुरू हो रहा है। केंद्रीय वस्त्र मंत्री गिरिराज सिंह इस सम्‍मेलन का उद्घाटन करेंगे। प्रधानमंत्री नरेंद्र मोदी के 5एफ विजन (खेत से फाइबर, कारखाने से फैक्ट्री, फैशन से विदेश तक) से प्रेरित भारत टेक्स 2026 का उद्देश्य वस्त्र […]",
-        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन, भारत टेक्स 2026, आज नई दिल्ली के भारत मंडपम में शुरू हो रहा है। केंद्रीय वस्त्र मंत्री गिरिराज सिंह इस सम्&#x200d;मेलन का उद्घाटन करेंगे। प्रधानमंत्री नरेंद्र मोदी के 5एफ विजन (खेत से फाइबर, कारखाने से फैक्ट्री, फैशन से विदेश तक) से प्रेरित भारत टेक्स 2026 का उद्देश्य वस्त्र मूल्य श्रृंखला में व्यापार, निवेश, स्रोत, नवाचार, नीतिगत संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख मंच के रूप में विकसित होना है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:57:27+00:00",
-        "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zrGSLLon.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्री डॉ. एस जयशंकर ने न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की",
-        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्‍होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 […]",
-        "article": "विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्&#x200d;होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद में अस्थायी सीट के लिए भारत के चुनाव में अभियान का नेतृत्व करने के लिए न्यूयॉर्क में हैं।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:54:43+00:00",
-        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-met-united-nations-secretary-general-antonio-guterres-in-new-york/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNI6teRWUAAleDS.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए आधिकारिक रूप से चुनाव अभियान शुरू किया",
-        "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा […]",
-        "article": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा वैश्विक परिस्थितियों में संयुक्त राष्ट्र की भूमिका पहले से अधिक महत्वपूर्ण हो गई है। डॉक्टर जयशंकर ने कहा कि भारत अब तक संयुक्त राष्ट्र के लगभग पचास शांति मिशनों में करीब तीन लाख शांति सैनिक भेज चुका है और वर्तमान में दस मिशनों में चार हजार तीन सौ से अधिक भारतीय कर्मी तैनात हैं। उन्होंने कहा कि भारत हमेशा संवाद, कूटनीति और वैश्विक दक्षिण के हितों की महत्व देता रहा है। उन्होंने सदस्य देशों से भारत की उम्मीदवारी का समर्थन करने की अपील की। निर्वाचित होने पर भारत वर्ष 2028 से दो वर्ष के लिए सुरक्षा परिषद का अस्थायी सदस्य बनेगा। भारत इससे पहले आठ बार इस पद पर रह चुका है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:46:42+00:00",
-        "link": "https://newsonair.gov.in/hi/india-has-launched-its-election-campaign-for-a-non-permanent-seat-on-the-united-nations-security-council-for-the-2028-29-term/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNIgQ1wXkAAbN-v.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम में स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर मुंबई लाए गए",
-        "summary": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि […]",
-        "article": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि आन्ध्रप्रदेश, केरल और तमिलनाडु की सरकारें इन शवों को उनके संबंधित राज्यों में उनके आवास पर पहुंचाने में समन्वय करेंगी। वियतनाम के अधिकारियों और सरकार के प्रति आभार व्यक्त करते हुए दूतावास ने बताया कि उनकी प्रार्थना, प्रयास और मौजूदगी ने इस दुख की घड़ी में शक्ति प्रदान की। 32 भारतीय पर्यटकों और चार स्थानीय क्रू के सद्स्यों वाली स्पीड बोट शुक्रवार को वियतनाम में फू क्वोक द्वीप में पलट गई। इस कारण 15 पर्यटकों की मृत्यु हो गई। इस दुर्घटना में बचने वाले 16 पर्यटक भी भारत लौट चुके हैं। इनमें से एक पर्यटक वियतनाम के एक अस्पताल में भर्ती है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:45:11+00:00",
-        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-a-speedboat-accident-in-vietnam-have-been-brought-back-to-the-country/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
-        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
-        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:49:09+00:00",
-        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "एनटीए ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी किए",
-        "summary": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्‍तर देख सकते है। उम्‍मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े […]",
-        "article": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्&#x200d;तर देख सकते है। उम्&#x200d;मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार प्रश्न का चयन करके अपने चुने हुए विकल्प पर निशान लगा सकते हैं और 200 रुपये के शुल्क का भुगतान करके चुनौती दे सकते हैं। एजेंसी ने स्पष्ट किया है कि चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। ओएमआर चुनौती सुविधा इस महीने की 15 तारीख तक उपलब्ध रहेगी। उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:41:10+00:00",
-        "link": "https://newsonair.gov.in/hi/the-nta-released-the-omr-sheets-and-recorded-responses-for-the-neet-ug-2026-re-examination/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सूचना और प्रसारण मंत्रालय ने वेव्स 2027 के ‘क्रिएट इन इंडिया चैलेंज’ सीज़न-2 के लिए प्रस्ताव आमंत्रित किए",
-        "summary": "सूचना और प्रसारण मंत्रालय ने &#8216;वर्ल्ड ऑडियो विज़ुअल एंड एंटरटेनमेंट समिट&#8217; &#8211; वेव्स 2027 &#8216;क्रिएट इन इंडिया चैलेंज&#8217; सीज़न 2 के तहत उद्योग-संचालित चुनौतियों के लिए प्रस्ताव आमंत्रित किए हैं। &#8216;क्रिएट इन इंडिया चैलेंज&#8217; वेव्स के तहत एक प्रमुख पहल है। इस पहल का उद्देश्य मीडिया और मनोरंजन क्षेत्र में सृजकों की पहचान करना, उन्हें […]",
-        "article": "सूचना और प्रसारण मंत्रालय ने &#8216;वर्ल्ड ऑडियो विज़ुअल एंड एंटरटेनमेंट समिट&#8217; &#8211; वेव्स 2027 &#8216;क्रिएट इन इंडिया चैलेंज&#8217; सीज़न 2 के तहत उद्योग-संचालित चुनौतियों के लिए प्रस्ताव आमंत्रित किए हैं। &#8216;क्रिएट इन इंडिया चैलेंज&#8217; वेव्स के तहत एक प्रमुख पहल है। इस पहल का उद्देश्य मीडिया और मनोरंजन क्षेत्र में सृजकों की पहचान करना, उन्हें आगे बढ़ाना, उनके कौशल को बेहतर बनाना और उन्हें सबके सामने लाना है। सीज़न-2 का लक्ष्य ऐसी उद्योग संचालित, सरकार-समर्थित और युवाओं पर केंद्रित चुनौतियों को पूरा करना है, जो रचनात्मक प्रतिभा की पहचान करें और उन्हें निखारें, साथ ही कौशल को बेहतर बनाने और क्षमता निर्माण को बढ़ावा दें। इसका उद्देश्य मीडिया और मनोरंजन के क्षेत्रों में सहयोग के अवसर पैदा करना भी है। जिसमें आर्टिफिशियल इंटेलिजेंस, डिजिटल मीडिया और प्रौद्योगिकी पर आधारित अन्य रचनात्मक क्षेत्र शामिल हैं। इस चुनौती का समापन वेव्स 2027 के दौरान &#8216;क्रिएटोस्फीयर&#8217; में विजेताओं और उनके सफल परिणामों को प्रदर्शित करने के साथ होगा। मंत्रालय ने कहा कि प्रस्ताव जमा करने और चुनौतियों तथा उन्हें पूरा करने वाली संस्थाओं के चयन के लिए एक पारदर्शी और योग्यता-आधारित प्रणाली के ज़रिए एक एकीकृत पोर्टल बनाया गया है। मीडिया और मनोरंजन क्षेत्र की संस्थाओं को इस महीने की 31 तारीख तक wavesbazaar.com ऑनलाइन पोर्टल के माध्यम से अपने प्रस्ताव जमा करने के लिए आमंत्रित किया गया है। चुनी गई चुनौतियों को सफलतापूर्वक लागू करने में मदद के लिए, मंत्रालय प्रति चुनौती एक करोड़ रुपये तक का एकमुश्त अनुदान देगा।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:37:58+00:00",
-        "link": "https://newsonair.gov.in/hi/the-ministry-of-information-and-broadcasting-has-invited-proposals-for-season-2-of-the-create-in-india-challenge-under-waves-2027/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNHp5PpaQAA9q5c.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "नीट यूजी 2026 री-एग्जाम की OMR शीट जारी",
-        "summary": "राष्ट्रीय परीक्षा एजेंसी &#8211; एनटीए ने आधिकारिक वेबसाइट neet.nta.nic.in पर उम्मीदवारों के लिए नीट यूजी 2026 की पुनः परीक्षा के लिए ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एनटीए ने बताया कि उम्मीदवार अपने आवेदन नंबर का उपयोग करके लॉग इन कर सकते हैं और अपने चिह्नित उत्तरों की तुलना स्कैन […]",
-        "article": "राष्ट्रीय परीक्षा एजेंसी &#8211; एनटीए ने आधिकारिक वेबसाइट neet.nta.nic.in पर उम्मीदवारों के लिए नीट यूजी 2026 की पुनः परीक्षा के लिए ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एनटीए ने बताया कि उम्मीदवार अपने आवेदन नंबर का उपयोग करके लॉग इन कर सकते हैं और अपने चिह्नित उत्तरों की तुलना स्कैन किए गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार 200 रुपये के शुल्क का भुगतान करके चुनौती दर्ज कर सकते हैं। चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। यह सुविधा 15 जुलाई तक उपलब्ध रहेगी। सहायता के लिए उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:58:11+00:00",
-        "link": "https://newsonair.gov.in/hi/neet-ug-2026-re-exam-omr-sheet-released/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/@NeetUG.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वेव्स 2027 के अंतर्गत ‘क्रिएट इन इंडिया चैलेंज सीजन-2 के लिए प्रस्ताव आमंत्रित",
-        "summary": "सूचना और प्रसारण मंत्रालय ने वर्ल्ड ऑडियो विजुअल एंड एंटरटेनमेंट समिट-वेव्स 2027 के अंतर्गत &#8216;क्रिएट इन इंडिया चैलेंज सीजन-2 के लिए उद्योग आधारित चुनौतियों के प्रस्ताव आमंत्रित किए हैं। मंत्रालय ने कहा है कि क्रिएट इन इंडिया चैलेंज का उद्देश्य मीडिया और मनोरंजन क्षेत्र में रचनात्मक प्रतिभाओं की पहचान करके उन्हें प्रोत्साहित और प्रशिक्षित […]",
-        "article": "सूचना और प्रसारण मंत्रालय ने वर्ल्ड ऑडियो विजुअल एंड एंटरटेनमेंट समिट-वेव्स 2027 के अंतर्गत &#8216;क्रिएट इन इंडिया चैलेंज सीजन-2 के लिए उद्योग आधारित चुनौतियों के प्रस्ताव आमंत्रित किए हैं। मंत्रालय ने कहा है कि क्रिएट इन इंडिया चैलेंज का उद्देश्य मीडिया और मनोरंजन क्षेत्र में रचनात्मक प्रतिभाओं की पहचान करके उन्हें प्रोत्साहित और प्रशिक्षित करना है। विजेताओं और उनके कार्यों का प्रदर्शन वेव्स-2027 के दौरान आयोजित क्रिएटोस्फेयर में किया जाएगा। मंत्रालय ने बताया कि प्रस्ताव जमा करने और चुनौतियों के चयन के लिए एकीकृत ऑनलाइन पोर्टल तैयार किया गया है। मीडिया और मनोरंजन क्षेत्र से जुड़े इच्छुक संस्थान 31 जुलाई तक wavesbazaar.com पोर्टल पर अपने प्रस्ताव भेज सकते हैं। चयनित चुनौतियों के सफल संचालन के लिए मंत्रालय प्रत्येक चुनौती के लिए एक करोड़ रुपये तक का अनुदान भी देगा।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:53:51+00:00",
-        "link": "https://newsonair.gov.in/hi/proposals-invited-for-create-in-india-challenge-season-2-under-waves-2027/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/CIC-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "बिहार-ओडिशा समेत कई राज्यों में भारी बारिश का अलर्ट",
-        "summary": "मौसम विभाग ने बिहार और ओडिशा में कल तक मूसलाधार बारिश का अनुमान व्‍यक्‍त किया है। अरुणाचल प्रदेश, छत्तीसगढ़, झारखंड, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल, सिक्किम, असम और मेघालय में भी कल तेज वर्षा हो सकती है। अंडमान और निकोबार द्वीप समूह, आंध्र प्रदेश, जम्मू-कश्मीर, लद्दाख, बिहार, पश्चिम बंगाल के गांगेय क्षेत्र, झारखंड, […]",
-        "article": "मौसम विभाग ने बिहार और ओडिशा में कल तक मूसलाधार बारिश का अनुमान व्&#x200d;यक्&#x200d;त किया है। अरुणाचल प्रदेश, छत्तीसगढ़, झारखंड, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल, सिक्किम, असम और मेघालय में भी कल तेज वर्षा हो सकती है। अंडमान और निकोबार द्वीप समूह, आंध्र प्रदेश, जम्मू-कश्मीर, लद्दाख, बिहार, पश्चिम बंगाल के गांगेय क्षेत्र, झारखंड, सिक्किम, कर्नाटक और ओडिशा में बिजली चमकने और तेज हवाओं के साथ तूफान की आशंका है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:51:03+00:00",
-        "link": "https://newsonair.gov.in/hi/heavy-rain-alert-in-many-states-including-bihar-odisha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260628303f-1-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "politics": [
-      {
-        "title": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन भारत टेक्स 2026 आज नई दिल्ली में शुरू होगा",
-        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन, भारत टेक्स 2026, आज नई दिल्ली के भारत मंडपम में शुरू हो रहा है। केंद्रीय वस्त्र मंत्री गिरिराज सिंह इस सम्‍मेलन का उद्घाटन करेंगे। प्रधानमंत्री नरेंद्र मोदी के 5एफ विजन (खेत से फाइबर, कारखाने से फैक्ट्री, फैशन से विदेश तक) से प्रेरित भारत टेक्स 2026 का उद्देश्य वस्त्र […]",
-        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र सम्मेलन, भारत टेक्स 2026, आज नई दिल्ली के भारत मंडपम में शुरू हो रहा है। केंद्रीय वस्त्र मंत्री गिरिराज सिंह इस सम्&#x200d;मेलन का उद्घाटन करेंगे। प्रधानमंत्री नरेंद्र मोदी के 5एफ विजन (खेत से फाइबर, कारखाने से फैक्ट्री, फैशन से विदेश तक) से प्रेरित भारत टेक्स 2026 का उद्देश्य वस्त्र मूल्य श्रृंखला में व्यापार, निवेश, स्रोत, नवाचार, नीतिगत संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख मंच के रूप में विकसित होना है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:57:27+00:00",
-        "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zrGSLLon.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्री डॉ. एस जयशंकर ने न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की",
-        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्‍होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 […]",
-        "article": "विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्&#x200d;होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद में अस्थायी सीट के लिए भारत के चुनाव में अभियान का नेतृत्व करने के लिए न्यूयॉर्क में हैं।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:54:43+00:00",
-        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-met-united-nations-secretary-general-antonio-guterres-in-new-york/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNI6teRWUAAleDS.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए आधिकारिक रूप से चुनाव अभियान शुरू किया",
-        "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा […]",
-        "article": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा वैश्विक परिस्थितियों में संयुक्त राष्ट्र की भूमिका पहले से अधिक महत्वपूर्ण हो गई है। डॉक्टर जयशंकर ने कहा कि भारत अब तक संयुक्त राष्ट्र के लगभग पचास शांति मिशनों में करीब तीन लाख शांति सैनिक भेज चुका है और वर्तमान में दस मिशनों में चार हजार तीन सौ से अधिक भारतीय कर्मी तैनात हैं। उन्होंने कहा कि भारत हमेशा संवाद, कूटनीति और वैश्विक दक्षिण के हितों की महत्व देता रहा है। उन्होंने सदस्य देशों से भारत की उम्मीदवारी का समर्थन करने की अपील की। निर्वाचित होने पर भारत वर्ष 2028 से दो वर्ष के लिए सुरक्षा परिषद का अस्थायी सदस्य बनेगा। भारत इससे पहले आठ बार इस पद पर रह चुका है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:46:42+00:00",
-        "link": "https://newsonair.gov.in/hi/india-has-launched-its-election-campaign-for-a-non-permanent-seat-on-the-united-nations-security-council-for-the-2028-29-term/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNIgQ1wXkAAbN-v.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वियतनाम में स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर मुंबई लाए गए",
-        "summary": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि […]",
-        "article": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि आन्ध्रप्रदेश, केरल और तमिलनाडु की सरकारें इन शवों को उनके संबंधित राज्यों में उनके आवास पर पहुंचाने में समन्वय करेंगी। वियतनाम के अधिकारियों और सरकार के प्रति आभार व्यक्त करते हुए दूतावास ने बताया कि उनकी प्रार्थना, प्रयास और मौजूदगी ने इस दुख की घड़ी में शक्ति प्रदान की। 32 भारतीय पर्यटकों और चार स्थानीय क्रू के सद्स्यों वाली स्पीड बोट शुक्रवार को वियतनाम में फू क्वोक द्वीप में पलट गई। इस कारण 15 पर्यटकों की मृत्यु हो गई। इस दुर्घटना में बचने वाले 16 पर्यटक भी भारत लौट चुके हैं। इनमें से एक पर्यटक वियतनाम के एक अस्पताल में भर्ती है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:45:11+00:00",
-        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-a-speedboat-accident-in-vietnam-have-been-brought-back-to-the-country/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
-        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
-        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:49:09+00:00",
-        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "एनटीए ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी किए",
-        "summary": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्‍तर देख सकते है। उम्‍मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े […]",
-        "article": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्&#x200d;तर देख सकते है। उम्&#x200d;मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार प्रश्न का चयन करके अपने चुने हुए विकल्प पर निशान लगा सकते हैं और 200 रुपये के शुल्क का भुगतान करके चुनौती दे सकते हैं। एजेंसी ने स्पष्ट किया है कि चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। ओएमआर चुनौती सुविधा इस महीने की 15 तारीख तक उपलब्ध रहेगी। उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:41:10+00:00",
-        "link": "https://newsonair.gov.in/hi/the-nta-released-the-omr-sheets-and-recorded-responses-for-the-neet-ug-2026-re-examination/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सूचना और प्रसारण मंत्रालय ने वेव्स 2027 के ‘क्रिएट इन इंडिया चैलेंज’ सीज़न-2 के लिए प्रस्ताव आमंत्रित किए",
-        "summary": "सूचना और प्रसारण मंत्रालय ने &#8216;वर्ल्ड ऑडियो विज़ुअल एंड एंटरटेनमेंट समिट&#8217; &#8211; वेव्स 2027 &#8216;क्रिएट इन इंडिया चैलेंज&#8217; सीज़न 2 के तहत उद्योग-संचालित चुनौतियों के लिए प्रस्ताव आमंत्रित किए हैं। &#8216;क्रिएट इन इंडिया चैलेंज&#8217; वेव्स के तहत एक प्रमुख पहल है। इस पहल का उद्देश्य मीडिया और मनोरंजन क्षेत्र में सृजकों की पहचान करना, उन्हें […]",
-        "article": "सूचना और प्रसारण मंत्रालय ने &#8216;वर्ल्ड ऑडियो विज़ुअल एंड एंटरटेनमेंट समिट&#8217; &#8211; वेव्स 2027 &#8216;क्रिएट इन इंडिया चैलेंज&#8217; सीज़न 2 के तहत उद्योग-संचालित चुनौतियों के लिए प्रस्ताव आमंत्रित किए हैं। &#8216;क्रिएट इन इंडिया चैलेंज&#8217; वेव्स के तहत एक प्रमुख पहल है। इस पहल का उद्देश्य मीडिया और मनोरंजन क्षेत्र में सृजकों की पहचान करना, उन्हें आगे बढ़ाना, उनके कौशल को बेहतर बनाना और उन्हें सबके सामने लाना है। सीज़न-2 का लक्ष्य ऐसी उद्योग संचालित, सरकार-समर्थित और युवाओं पर केंद्रित चुनौतियों को पूरा करना है, जो रचनात्मक प्रतिभा की पहचान करें और उन्हें निखारें, साथ ही कौशल को बेहतर बनाने और क्षमता निर्माण को बढ़ावा दें। इसका उद्देश्य मीडिया और मनोरंजन के क्षेत्रों में सहयोग के अवसर पैदा करना भी है। जिसमें आर्टिफिशियल इंटेलिजेंस, डिजिटल मीडिया और प्रौद्योगिकी पर आधारित अन्य रचनात्मक क्षेत्र शामिल हैं। इस चुनौती का समापन वेव्स 2027 के दौरान &#8216;क्रिएटोस्फीयर&#8217; में विजेताओं और उनके सफल परिणामों को प्रदर्शित करने के साथ होगा। मंत्रालय ने कहा कि प्रस्ताव जमा करने और चुनौतियों तथा उन्हें पूरा करने वाली संस्थाओं के चयन के लिए एक पारदर्शी और योग्यता-आधारित प्रणाली के ज़रिए एक एकीकृत पोर्टल बनाया गया है। मीडिया और मनोरंजन क्षेत्र की संस्थाओं को इस महीने की 31 तारीख तक wavesbazaar.com ऑनलाइन पोर्टल के माध्यम से अपने प्रस्ताव जमा करने के लिए आमंत्रित किया गया है। चुनी गई चुनौतियों को सफलतापूर्वक लागू करने में मदद के लिए, मंत्रालय प्रति चुनौती एक करोड़ रुपये तक का एकमुश्त अनुदान देगा।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:37:58+00:00",
-        "link": "https://newsonair.gov.in/hi/the-ministry-of-information-and-broadcasting-has-invited-proposals-for-season-2-of-the-create-in-india-challenge-under-waves-2027/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNHp5PpaQAA9q5c.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "नीट यूजी 2026 री-एग्जाम की OMR शीट जारी",
-        "summary": "राष्ट्रीय परीक्षा एजेंसी &#8211; एनटीए ने आधिकारिक वेबसाइट neet.nta.nic.in पर उम्मीदवारों के लिए नीट यूजी 2026 की पुनः परीक्षा के लिए ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एनटीए ने बताया कि उम्मीदवार अपने आवेदन नंबर का उपयोग करके लॉग इन कर सकते हैं और अपने चिह्नित उत्तरों की तुलना स्कैन […]",
-        "article": "राष्ट्रीय परीक्षा एजेंसी &#8211; एनटीए ने आधिकारिक वेबसाइट neet.nta.nic.in पर उम्मीदवारों के लिए नीट यूजी 2026 की पुनः परीक्षा के लिए ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एनटीए ने बताया कि उम्मीदवार अपने आवेदन नंबर का उपयोग करके लॉग इन कर सकते हैं और अपने चिह्नित उत्तरों की तुलना स्कैन किए गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार 200 रुपये के शुल्क का भुगतान करके चुनौती दर्ज कर सकते हैं। चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। यह सुविधा 15 जुलाई तक उपलब्ध रहेगी। सहायता के लिए उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:58:11+00:00",
-        "link": "https://newsonair.gov.in/hi/neet-ug-2026-re-exam-omr-sheet-released/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/@NeetUG.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वेव्स 2027 के अंतर्गत ‘क्रिएट इन इंडिया चैलेंज सीजन-2 के लिए प्रस्ताव आमंत्रित",
-        "summary": "सूचना और प्रसारण मंत्रालय ने वर्ल्ड ऑडियो विजुअल एंड एंटरटेनमेंट समिट-वेव्स 2027 के अंतर्गत &#8216;क्रिएट इन इंडिया चैलेंज सीजन-2 के लिए उद्योग आधारित चुनौतियों के प्रस्ताव आमंत्रित किए हैं। मंत्रालय ने कहा है कि क्रिएट इन इंडिया चैलेंज का उद्देश्य मीडिया और मनोरंजन क्षेत्र में रचनात्मक प्रतिभाओं की पहचान करके उन्हें प्रोत्साहित और प्रशिक्षित […]",
-        "article": "सूचना और प्रसारण मंत्रालय ने वर्ल्ड ऑडियो विजुअल एंड एंटरटेनमेंट समिट-वेव्स 2027 के अंतर्गत &#8216;क्रिएट इन इंडिया चैलेंज सीजन-2 के लिए उद्योग आधारित चुनौतियों के प्रस्ताव आमंत्रित किए हैं। मंत्रालय ने कहा है कि क्रिएट इन इंडिया चैलेंज का उद्देश्य मीडिया और मनोरंजन क्षेत्र में रचनात्मक प्रतिभाओं की पहचान करके उन्हें प्रोत्साहित और प्रशिक्षित करना है। विजेताओं और उनके कार्यों का प्रदर्शन वेव्स-2027 के दौरान आयोजित क्रिएटोस्फेयर में किया जाएगा। मंत्रालय ने बताया कि प्रस्ताव जमा करने और चुनौतियों के चयन के लिए एकीकृत ऑनलाइन पोर्टल तैयार किया गया है। मीडिया और मनोरंजन क्षेत्र से जुड़े इच्छुक संस्थान 31 जुलाई तक wavesbazaar.com पोर्टल पर अपने प्रस्ताव भेज सकते हैं। चयनित चुनौतियों के सफल संचालन के लिए मंत्रालय प्रत्येक चुनौती के लिए एक करोड़ रुपये तक का अनुदान भी देगा।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:53:51+00:00",
-        "link": "https://newsonair.gov.in/hi/proposals-invited-for-create-in-india-challenge-season-2-under-waves-2027/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/CIC-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "बिहार-ओडिशा समेत कई राज्यों में भारी बारिश का अलर्ट",
-        "summary": "मौसम विभाग ने बिहार और ओडिशा में कल तक मूसलाधार बारिश का अनुमान व्‍यक्‍त किया है। अरुणाचल प्रदेश, छत्तीसगढ़, झारखंड, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल, सिक्किम, असम और मेघालय में भी कल तेज वर्षा हो सकती है। अंडमान और निकोबार द्वीप समूह, आंध्र प्रदेश, जम्मू-कश्मीर, लद्दाख, बिहार, पश्चिम बंगाल के गांगेय क्षेत्र, झारखंड, […]",
-        "article": "मौसम विभाग ने बिहार और ओडिशा में कल तक मूसलाधार बारिश का अनुमान व्&#x200d;यक्&#x200d;त किया है। अरुणाचल प्रदेश, छत्तीसगढ़, झारखंड, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल, सिक्किम, असम और मेघालय में भी कल तेज वर्षा हो सकती है। अंडमान और निकोबार द्वीप समूह, आंध्र प्रदेश, जम्मू-कश्मीर, लद्दाख, बिहार, पश्चिम बंगाल के गांगेय क्षेत्र, झारखंड, सिक्किम, कर्नाटक और ओडिशा में बिजली चमकने और तेज हवाओं के साथ तूफान की आशंका है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:51:03+00:00",
-        "link": "https://newsonair.gov.in/hi/heavy-rain-alert-in-many-states-including-bihar-odisha/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260628303f-1-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "world": [
-      {
-        "title": "यमन में ईरान समर्थित हूती विद्रोहियों ने कहा कि उन्होंने सऊदी अरब के आभा इंटरनेशनल एयरपोर्ट पर मिसाइलें और ड्रोन हमले किए",
-        "summary": "यमन में ईरान समर्थित हूती विद्रोहियों ने कहा कि उन्होंने कल सऊदी अरब के आभा इंटरनेशनल एयरपोर्ट पर मिसाइलें और ड्रोन हमले किए। यह कदम यमन के सना इंटरनेशनल एयरपोर्ट पर पहले हुए हवाई हमलों के जवाब में उठाया गया है। उनका आरोप है कि ये हमले कल रियाद ने किए थे। इसमें किसी के […]",
-        "article": "यमन में ईरान समर्थित हूती विद्रोहियों ने कहा कि उन्होंने कल सऊदी अरब के आभा इंटरनेशनल एयरपोर्ट पर मिसाइलें और ड्रोन हमले किए। यह कदम यमन के सना इंटरनेशनल एयरपोर्ट पर पहले हुए हवाई हमलों के जवाब में उठाया गया है। उनका आरोप है कि ये हमले कल रियाद ने किए थे। इसमें किसी के हताहत होने की खबर नहीं है। इन हमलों ने तनाव को उस स्तर पर पहुंचा दिया है जो सऊदी के नेतृत्व वाले गठबंधन द्वारा कई साल पहले हूती-नियंत्रित इलाकों पर हमले के बाद से नहीं देखा गया था। सऊदी अरब के अधिकारियों ने यमन में हवाई हमलों के बारे में तुरंत कोई प्रतिक्रिया नहीं दी। हूती सैन्य प्रवक्ता ब्रिगेडियर जनरल याह्या सरी ने एक वीडियो बयान में एयरलाइंस को सऊदी हवाई क्षेत्र से उड़ान भरने के खिलाफ चेतावनी दी। प्रवक्ता ने कहा कि जब तक सना इंटरनेशनल एयरपोर्ट पर लगी नाकेबंदी नहीं हटाई जाती, तब तक इन चेतावनियों को गंभीरता से लिया जाना चाहिए। हूती सैन्य प्रवक्ता ने चेतावनी दी कि इस आक्रामकता का जवाब दिया जाएगा और इसे बिना सजा के नहीं छोड़ा जाएगा। यमन में अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त सरकार ने पहले कहा था कि सना इंटरनेशनल एयरपोर्ट पर हुए हमलों का उद्देश्य एक ईरानी विमान को उतरने से रोकना था। संयुक्त राष्ट्र सुरक्षा परिषद के अधिकारियों ने आज एक आपात बैठक में तनाव के और बढ़ने के जोखिम पर चिंता व्यक्त की। यमन में वैधता बहाल करने वाले सऊदी-नेतृत्व वाले गठबंधन के आधिकारिक प्रवक्ता मेजर जनरल तुर्की अल-माल्की ने सोशल मीडिया पोस्ट में कहा कि सऊदी वायु रक्षा प्रणालियों ने हूतियों द्वारा दागी गई बैलिस्टिक मिसाइलों को नाकाम कर दिया, हालांकि उन्होंने और विवरण नहीं दिया। सऊदी-नेतृत्व वाले गठबंधन ने आखिरी बार हूती-नियंत्रित इलाकों को तब निशाना बनाया था जब 2022 में लड़ाई रोकने के लिए संयुक्त राष्ट्र की मध्यस्थता में समझौता लागू हुआ था।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T03:46:41+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%af%e0%a4%ae%e0%a4%a8-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8-%e0%a4%b8%e0%a4%ae%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a4%bf%e0%a4%a4-%e0%a4%b9%e0%a5%82%e0%a4%a4%e0%a5%80/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीका: सीनेटर लिंडसे ग्राहम के निधन के बाद डार्लिन ग्राहम नॉर्डोन कार्यवाहक सीनेटर नियुक्त",
-        "summary": "अमरीका के दक्षिणी केरोलिना से सीनेटर लिंडसे ग्राहम निधन के बाद, उनकी बहन डार्लिन ग्राहम नॉर्डोन को उनके स्‍थान पर कार्यवाहक सीनेटर नियुक्त किया गया है। दक्षिण कैरोलिना के गवर्नर हेनरी मैकमास्टर ने कल औपचारिक रूप से उन्हें इस पद के लिए चुना। मैकमास्टर ने कहा कि वह ग्राहम के अगले साल समाप्त होने वाले […]",
-        "article": "अमरीका के दक्षिणी केरोलिना से सीनेटर लिंडसे ग्राहम निधन के बाद, उनकी बहन डार्लिन ग्राहम नॉर्डोन को उनके स्&#x200d;थान पर कार्यवाहक सीनेटर नियुक्त किया गया है। दक्षिण कैरोलिना के गवर्नर हेनरी मैकमास्टर ने कल औपचारिक रूप से उन्हें इस पद के लिए चुना। मैकमास्टर ने कहा कि वह ग्राहम के अगले साल समाप्त होने वाले शेष कार्यकाल को पूरा करेंगी। अमरीकी राष्ट्रपति डोनाल्ड ट्रम्प सहित अधिकारियों ने दिवंगत सीनेटर को श्रद्धांजलि देते हुए ग्राहम नॉर्डोन को उनका उत्&#x200d;तराधिकारी नियुक्&#x200d;त किए जाने का समर्थन किया। वाशिंगटन डीसी के चिकित्सा परीक्षक की प्रारंभिक रिपोर्ट के अनुसार, 71 वर्षीय ग्राहम की मृत्यु हृदय रोग के कारण महाधमनी विच्छेदन से हुई। ग्राहम नवंबर में फिर से चुनाव लड़ रहे थे और उन्हें रिपब्लिकन पार्टी का नामांकन प्राप्त था। 2002 में सीनेट के लिए चुने गए ग्राहम विदेश नीति पर वाशिंगटन की सबसे प्रभावशाली आवाजों में से एक थे।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T03:15:56+00:00",
-        "link": "https://newsonair.gov.in/hi/usa-darlene-graham-nordone-appointed-acting-senator-following-the-passing-of-senator-lindsey-graham/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNKBYZobgAAvFzp.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "होर्मुज़ जलडमरूमध्य में यूएई के दो टैंकरों पर ईरानी मिसाइल हमला, एक भारतीय क्रू सदस्य की मौत",
-        "summary": "होर्मुज़ जलडमरूमध्य से गुज़रते समय संयुक्त अरब अमीरात (यूएई) के दो टैंकरों पर ईरान की क्रूज़ मिसाइलों के हमले में एक भारतीय क्रू सदस्य की मौत हो गई और छह अन्य घायल हो गए। यूएई के रक्षा मंत्रालय ने आज सोशल मीडिया पर यह जानकारी दी। मंत्रालय ने बताया कि &#8216;मोम्बासा&#8217; और &#8216;अल बहिया&#8217; नाम […]",
-        "article": "होर्मुज़ जलडमरूमध्य से गुज़रते समय संयुक्त अरब अमीरात (यूएई) के दो टैंकरों पर ईरान की क्रूज़ मिसाइलों के हमले में एक भारतीय क्रू सदस्य की मौत हो गई और छह अन्य घायल हो गए। यूएई के रक्षा मंत्रालय ने आज सोशल मीडिया पर यह जानकारी दी। मंत्रालय ने बताया कि &#8216;मोम्बासा&#8217; और &#8216;अल बहिया&#8217; नाम के इन टैंकरों को जलडमरूमध्य के दक्षिणी लेन में ओमान की समुद्री सीमा के भीतर निशाना बनाया गया। मारे गए क्रू सदस्य &#8216;मोम्बासा&#8217; टैंकर पर सवार थे। घायलों में से चार की हालत गंभीर है। घायलों में छह भारतीय और यूक्रेन के दो नागरिक शामिल हैं। यूएई के रक्षा मंत्रालय ने इस हमले की निंदा करते हुए इसे अंतरराष्ट्रीय कानून का खुला उल्लंघन और क्षेत्रीय सुरक्षा तथा स्थिरता के लिए गंभीर खतरा बताया। मंत्रालय ने कहा कि वह किसी भी खतरे से निपटने के लिए पूरी तरह तैयार और सतर्क है। मंत्रालय का कहना है कि देश की सुरक्षा तथा स्थिरता को नुकसान पहुंचाने की किसी भी कोशिश का कड़ा जवाब देने के लिए सभी ज़रूरी कदम उठाया जा रहा है। समुद्री मार्ग में हुई ये ताज़ा घटनाएं पश्चिम एशियाई क्षेत्र में हफ़्तों से चल रहे तनाव के बाद सामने आई हैं।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:58:34+00:00",
-        "link": "https://newsonair.gov.in/hi/iranian-missile-attack-on-two-uae-tankers-in-the-strait-of-hormuz-one-indian-crew-member-killed/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-4-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "यूक्रेन सहित दस देशों ने यूरोप को बैलिस्टिक मिसाइलों से बचाने के लिए गठबंधन बनाने की घोषणा की",
-        "summary": "यूक्रेन और नौ अन्य देशों ने घोषणा की है कि वे यूरोप को बैलिस्टिक मिसाइलों से बचाने के लिए एक गठबंधन बना रहे हैं। यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की और डेनमार्क, फ्रांस, जर्मनी, इटली, नीदरलैंड्स, नॉर्वे, स्पेन, स्वीडन और ब्रिटेन के नेताओं ने कहा कि वे बैलिस्टिक मिसाइलों से बढ़ते खतरे को समझते हैं। इन […]",
-        "article": "यूक्रेन और नौ अन्य देशों ने घोषणा की है कि वे यूरोप को बैलिस्टिक मिसाइलों से बचाने के लिए एक गठबंधन बना रहे हैं। यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की और डेनमार्क, फ्रांस, जर्मनी, इटली, नीदरलैंड्स, नॉर्वे, स्पेन, स्वीडन और ब्रिटेन के नेताओं ने कहा कि वे बैलिस्टिक मिसाइलों से बढ़ते खतरे को समझते हैं। इन मिसाइलों को क्रूज़ मिसाइलों या ड्रोन की तुलना में रोकना ज़्यादा मुश्किल होता है। पेरिस में जारी एक बयान में इन 10 देशों ने कहा कि उनका लक्ष्य यूरोप के लिए एक साझा बैलिस्टिक मिसाइल रक्षा क्षमता विकसित करना है। इसके लिए वे रूस के पूर्ण-स्तरीय हमले के चार वर्ष से अधिक समय से सामना करने के कीव के अनुभव का लाभ उठाएंगे। बयान में इस रक्षा प्रणाली को स्थापित करने के लिए कोई समय-सीमा नहीं बताई गई है। ब्यान में यह भी कहा गया कि यह योजना अन्य देशों के लिए भी खुली है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:44:45+00:00",
-        "link": "https://newsonair.gov.in/hi/ten-countries-including-ukraine-announced-the-formation-of-an-alliance-to-protect-europe-from-ballistic-missiles/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNJvv2ra0AA5frQ-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीका के राष्ट्रपति ने होर्मुज जलडमरूमध्य में ईरानी जहाजों की नाकेबंदी फिर शुरू करने की घोषणा की",
-        "summary": "अमरीका ने लगातार तीसरी रात ईरान पर हमले किए। इससे दोनों देशों के बीच दुश्मनी और बढ़ गई है। अमरीकी सेंट्रल कमान-सेंटकॉम ने कहा कि इन हमलों से ईरानी सेना को भारी नुकसान उठाना पड़ेगा और होर्मुज़ जलडमरूमध्य में निर्दोष नागरिकों और वाणिज्यिक जहाजों पर हमला करने की उनकी क्षमता कमज़ोर होगी। अमरीका के राष्ट्रपति […]",
-        "article": "अमरीका ने लगातार तीसरी रात ईरान पर हमले किए। इससे दोनों देशों के बीच दुश्मनी और बढ़ गई है। अमरीकी सेंट्रल कमान-सेंटकॉम ने कहा कि इन हमलों से ईरानी सेना को भारी नुकसान उठाना पड़ेगा और होर्मुज़ जलडमरूमध्य में निर्दोष नागरिकों और वाणिज्यिक जहाजों पर हमला करने की उनकी क्षमता कमज़ोर होगी। अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने नतांज़ के पास मौजूद &#8216;पिकैक्स माउंटेन&#8217; को नष्ट करने की धमकी दी है। यह ज़मीन के बहुत नीचे बना एक न्यूक्लियर साइट है, जिसके बारे में पश्चिमी खुफिया एजेंसियों को शक है कि ईरान वहाँ एक अघोषित परमाणु संवर्धन सुविधा का निर्माण कर रहा है। इससे पहले कल अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने घोषणा की है कि अमरीका होर्मुज़ जलडमरूमध्य में ईरानी जहाजों की फिर से नाकाबंदी करेगा। इसके अलावा अमरीका समुद्री सुरक्षा का खर्च उठाने के लिए इस महत्वपूर्ण समुद्री मार्ग से गुजरने वाले माल पर 20 प्रतिशत शुल्क लगाएगा। राष्ट्रपति ट्रंप ने &#8216;ट्रुथ सोशल&#8217; पर एक पोस्ट में कहा कि यह रोक सिर्फ़ ईरानी जहाजों और ईरान के साथ व्यापार करने वाले जहाजों पर लागू होगी। उन्होंने कहा कि होर्मुज़ जलडमरूमध्य खुला है और ईरान के साथ या उसके बिना खुला रहेगा। उन्होंने भरोसा दिलाया कि दूसरे देशों के वाणिज्यिक जहाजों की आवाजाही बिना किसी रोक-टोक के जारी रहेगी। अमरीका की सेना ने कहा है कि वह आज रात से ईरानी बंदरगाहों की नाकेबंदी फिर से शुरू करेगी। यह घोषणा होर्मुज़ जलडमरूमध्य में जहाजों पर ईरानी हमलों के बाद फिर से बढ़े तनाव के बीच की गई है। अमरीका ने ईरान में कई ठिकानों पर हमले भी किए हैं, जिसके जवाब में ईरान ने बहरीन, ओमान और कुवैत सहित पूरे पश्चिम एशिया में जवाबी हमले किए हैं। दूसरी ओर ईरान ने होर्मुज़ जलडमरूमध्य पर अपना अधिकार जताया है और अमरीका के इस कदम को खारिज कर दिया है। ईरानी सरकारी मीडिया के अनुसार, सेंट्रल हेडक्वार्टर के प्रवक्ता ब्रिगेडियर जनरल इब्राहिम ज़ोलफ़गारी ने कहा कि ईरान किसी भी हाल में अमरीका को होर्मुज़ जलडमरूमध्य के प्रबंधन में दखल नहीं देने देगा। उन्होंने यह भी चेतावनी दी कि अगर कोई क्षेत्रीय देश अमरीका की सेना को लॉजिस्टिकल मदद देता है, तो इसे ईरान के खिलाफ़ युद्ध की कार्रवाई माना जाएगा। अंतर्राष्ट्रीय नौवहन की देखरेख करने वाली संयुक्त राष्ट्र की एजेंसी अंतर्राष्ट्रीय समुद्री संगठन ने कहा कि वह राष्ट्रपति ट्रंप के प्रस्ताव के बारे में और जानकारी का इंतज़ार कर रहा है, लेकिन अंतर्राष्ट्रीय जलमार्गों से गुजरने के लिए शुल्क लगाने का विरोध करता है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:43:15+00:00",
-        "link": "https://newsonair.gov.in/hi/president-donald-trump-announced-the-resumption-of-the-blockade-by-iranian-ships-in-the-strait-of-hormuz/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/trump-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "यूरोपीय संघ ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया",
-        "summary": "यूरोपीय संघ (ईयू) ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया है। संघ के शीर्ष राजनयिक ने कल कहा कि यूरोपीय संघ व्हाइट हाउस और संयुक्त राष्ट्र सहित 65 सरकारों और संगठनों के साथ मिलकर काम कर रहा है। ब्रसेल्स में &#8216;फिलिस्तीन डोनर्स ग्रुप&#8217; की बैठक के […]",
-        "article": "यूरोपीय संघ (ईयू) ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया है। संघ के शीर्ष राजनयिक ने कल कहा कि यूरोपीय संघ व्हाइट हाउस और संयुक्त राष्ट्र सहित 65 सरकारों और संगठनों के साथ मिलकर काम कर रहा है। ब्रसेल्स में &#8216;फिलिस्तीन डोनर्स ग्रुप&#8217; की बैठक के बाद यूरोपीय आयोग की उपाध्यक्ष काजा कल्लास ने इस सहायता राशि की घोषणा की। यह बैठक &#8216;टीम गाज़ा पहल&#8217; की दूसरी बैठक थी। यह यूरोपीय संघ की एक ऐसी पहल है जिसका उद्देश्य युद्ध से तबाह हुए तटीय इलाके में साफ-सफाई और खेती जैसे पुनर्निर्माण कार्यों के लिए समर्थन जुटाना है। इन तबाह हुए इलाकों में लगभग 20 लाख लोग रहते हैं।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:05:18+00:00",
-        "link": "https://newsonair.gov.in/hi/the-european-union-coordinated-efforts-to-mobilize-one-billion-dollars-in-aid-for-gaza/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/EU.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कल अंतरराष्ट्रीय अंतरिक्ष स्टेशन के लिए रवाना होंगे भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन",
-        "summary": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन कल अंतरराष्ट्रीय अंतरिक्ष स्टेशन के लिए रवाना होंगे। वे कज़ाख़स्तान के बैकोनूर अंतरिक्ष केंद्र से दो रूसी अंतरिक्ष यात्रियों के साथ रोस्कोस्मोस के सोयुज़ एमएस-29 अंतरिक्ष यान से उड़ान भरेंगे। अंतरिक्ष यान का प्रक्षेपण भारतीय समयानुसार कल रात आठ बजकर 17 मिनट पर होगा। इसके लगभग साढ़े […]",
-        "article": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन कल अंतरराष्ट्रीय अंतरिक्ष स्टेशन के लिए रवाना होंगे। वे कज़ाख़स्तान के बैकोनूर अंतरिक्ष केंद्र से दो रूसी अंतरिक्ष यात्रियों के साथ रोस्कोस्मोस के सोयुज़ एमएस-29 अंतरिक्ष यान से उड़ान भरेंगे। अंतरिक्ष यान का प्रक्षेपण भारतीय समयानुसार कल रात आठ बजकर 17 मिनट पर होगा। इसके लगभग साढ़े तीन घंटे बाद यह अंतरराष्ट्रीय अंतरिक्ष स्टेशन से जुड़ेगा। अनिल मेनन के साथ रूस के अंतरिक्ष यात्री प्योत्र दुब्रोव और अन्ना किकीना भी अंतरराष्ट्रीय अंतरिक्ष स्टेशन के 75वें अभियान का हिस्सा होंगे। अंतरिक्ष यात्री बुधवार तड़के करीब 1 बजकर 25 मिनट पर अंतरिक्ष स्टेशन में प्रवेश करेंगे। 49 वर्षीय अनिल मेनन आपातकालीन चिकित्सा विशेषज्ञ और अमरीकी स्पेस फोर्स में कर्नल हैं। उनका जन्म अमरीका के मिनियापोलिस में भारतीय और यूक्रेनी मूल के परिवार में हुआ था। वे अमरीकी वायुसेना में सेवा दे चुके हैं और माउंट एवरेस्ट पर पर्वतारोहियों की चिकित्सा सहायता के लिए हिमालयन रेस्क्यू एसोसिएशन के साथ भी काम कर चुके हैं।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:49:46+00:00",
-        "link": "https://newsonair.gov.in/hi/indian-origin-nasa-astronaut-anil-menon-to-leave-for-international-space-station-tomorrow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNHY5tiaYAATrgc.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीका ने होर्मुज जलडमरूमध्य पर किया कब्जा: राष्ट्रपति ट्रंप",
-        "summary": "अमरीका के राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया है कि उन्होंने होर्मुज जलडमरूमध्य पर कब्जा कर लिया है। उन्‍होंने ईरान द्वारा संघर्ष विराम समझौते का उल्लंघन करने की निंदा की है। राष्ट्रपति ट्रंप ने कहा कि ईरान ने पिछली रात समझौते का उल्लंघन किया है। उन्होंने ईरानी नेतृत्व पर संघर्ष विराम समझौतों की अवहेलना करने […]",
-        "article": "अमरीका के राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया है कि उन्होंने होर्मुज जलडमरूमध्य पर कब्जा कर लिया है। उन्&#x200d;होंने ईरान द्वारा संघर्ष विराम समझौते का उल्लंघन करने की निंदा की है। राष्ट्रपति ट्रंप ने कहा कि ईरान ने पिछली रात समझौते का उल्लंघन किया है। उन्होंने ईरानी नेतृत्व पर संघर्ष विराम समझौतों की अवहेलना करने का आरोप लगाया। राष्&#x200d;ट्रपति ट्रम्&#x200d;प ने दावा किया कि अमरीका ने रात भर चले हमलों में ईरान के उपकरणों को नष्ट कर दिया है। इससे पहले, ईरान ने अमरीकी हमलों की निंदा करते हुए अमरीका पर जलडमरूमध्य में सुरक्षा व्यवस्था में हस्तक्षेप करके वैश्विक वाणिज्यिक जहाजों के आवागमन को बाधित करने का आरोप लगाया था।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T16:31:48+00:00",
-        "link": "https://newsonair.gov.in/hi/us-occupies-strait-of-hormuz-president-trump/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260616321f-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कांगो में फैले इबोला के बुंडीबुग्यो प्रकार के नए टीके का ब्रिटेन में होगा परीक्षण",
-        "summary": "कांगो में इबोला वायरस के बुंडीबुग्यो प्रकार से बचाव के लिए विकसित नए टीके का जल्द ही ब्रिटेन में वयस्कों पर परीक्षण शुरू किया जाएगा। ऑक्सफोर्ड विश्वविद्यालय के वैज्ञानिक इस टीके को विकसित कर रहे हैं। अब इसकी सुरक्षा और शरीर की प्रतिरक्षा प्रतिक्रिया का आकलन 18 से 55 वर्ष आयु वर्ग के 50 स्वस्थ […]",
-        "article": "कांगो में इबोला वायरस के बुंडीबुग्यो प्रकार से बचाव के लिए विकसित नए टीके का जल्द ही ब्रिटेन में वयस्कों पर परीक्षण शुरू किया जाएगा। ऑक्सफोर्ड विश्वविद्यालय के वैज्ञानिक इस टीके को विकसित कर रहे हैं। अब इसकी सुरक्षा और शरीर की प्रतिरक्षा प्रतिक्रिया का आकलन 18 से 55 वर्ष आयु वर्ग के 50 स्वस्थ वयस्कों पर किया जाएगा। विश्व स्वास्थ्य संगठन ने 17 मई को प्रकोप घोषित होने के तुरंत बाद इबोला के टीके के विकास को प्राथमिकता देने की सिफारिश की थी। इसके बाद वैज्ञानिकों ने लगभग आठ सप्ताह पहले इस टीके का विकास शुरू किया। परीक्षण के लिए स्वयंसेवकों का पंजीकरण शुरू हो गया है और ब्रिटेन के नियामक की मंजूरी मिलने के बाद आने वाले सप्ताहों में टीकाकरण शुरू किया जाएगा। कांगो में इबोला महामारी से अब तक 625 लोगों की मौत हो चुकी है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T15:34:32+00:00",
-        "link": "https://newsonair.gov.in/hi/a-new-vaccine-for-the-bundibugyo-strain-of-ebola-which-spread-in-congo-will-be-tested-in-britain/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/ebola-2.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1606,6 +1270,344 @@ window.VM_NEWS = {
         "post_id": 1736495,
         "image_url": "",
         "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "national": [
+      {
+        "title": "भारत-ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से होगा लागू, 99% भारतीय निर्यात पर शून्य शुल्क",
+        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से लागू हो जाएगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत उत्पादों पर शून्य शुल्क की सुविधा मिलेगी। यह समझौता भारत और ब्रिटेन की रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की […]",
+        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से लागू हो जाएगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत उत्पादों पर शून्य शुल्क की सुविधा मिलेगी। यह समझौता भारत और ब्रिटेन की रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। इस ऐतिहासिक समझौते की नींव मई 2021 में उन्नत व्यापार साझेदारी और भारत-ब्रिटेन रोडमैप 2030 को अपनाने के माध्यम से रखी गई थी। इसमें 2030 तक व्यापार को दोगुना करके सौ अरब अमरीकी डॉलर तक पहुंचाने का लक्ष्य रखा गया था। &nbsp;",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T07:10:14+00:00",
+        "link": "https://newsonair.gov.in/hi/india-uk-comprehensive-economic-and-trade-agreement-to-come-into-effect-tomorrow-zero-duty-on-99-of-indian-exports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-4-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने प्रधानमंत्री मोदी के नाम से वायरल गोमांस संबंधी वीडियो को फर्जी बताया",
+        "summary": "सरकार ने सोशल मीडिया पर वायरल हो रहे उस वीडियो का खंडन किया है जिसमें दावा किया गया है कि प्रधानमंत्री नरेंद्र मोदी ने न्यूजीलैंड के ऑकलैंड में एक कार्यक्रम के दौरान कहा था कि भारत दुनिया का दूसरा सबसे बड़ा गोमांस उत्पादक देश है। प्रेस सूचना कार्यालय (पीआईबी) की फैक्ट चेक यूनिट ने कहा […]",
+        "article": "सरकार ने सोशल मीडिया पर वायरल हो रहे उस वीडियो का खंडन किया है जिसमें दावा किया गया है कि प्रधानमंत्री नरेंद्र मोदी ने न्यूजीलैंड के ऑकलैंड में एक कार्यक्रम के दौरान कहा था कि भारत दुनिया का दूसरा सबसे बड़ा गोमांस उत्पादक देश है। प्रेस सूचना कार्यालय (पीआईबी) की फैक्ट चेक यूनिट ने कहा कि यह दावा फर्जी है और प्रधानमंत्री ने ऐसा कोई बयान नहीं दिया है। यूनिट ने लोगों को भ्रामक सामग्री से सावधान रहने और सत्यापित जानकारी के लिए हमेशा आधिकारिक स्रोतों पर भरोसा करने की सलाह भी दी है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T07:09:55+00:00",
+        "link": "https://newsonair.gov.in/hi/the-government-termed-the-viral-video-regarding-beef-linked-to-prime-minister-modi-as-fake/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने ब्रसेल्स में फलिस्तीनी डोनर ग्रुप की दूसरी मंत्रिस्तरीय बैठक में लिया हिस्सा",
+        "summary": "भारत ने कल बेल्जियम की राजधानी ब्रसेल्स में फलिस्तीनी डोनर ग्रुप (पीडीजी) की दूसरी मंत्रिस्तरीय बैठक में हिस्सा लिया। विदेश मंत्रालय में वाणिज्य दूतावास, पासपोर्ट और वीजा तथा प्रवासी भारतीय मामलों की सचिव श्रीप्रिया रंगनाथन ने कहा कि भारत लंबे समय से फलिस्तीनी लोगों का भरोसेमंद साझेदार रहा है। उन्होंने कहा कि भारत स्वास्थ्य, शिक्षा, […]",
+        "article": "भारत ने कल बेल्जियम की राजधानी ब्रसेल्स में फलिस्तीनी डोनर ग्रुप (पीडीजी) की दूसरी मंत्रिस्तरीय बैठक में हिस्सा लिया। विदेश मंत्रालय में वाणिज्य दूतावास, पासपोर्ट और वीजा तथा प्रवासी भारतीय मामलों की सचिव श्रीप्रिया रंगनाथन ने कहा कि भारत लंबे समय से फलिस्तीनी लोगों का भरोसेमंद साझेदार रहा है। उन्होंने कहा कि भारत स्वास्थ्य, शिक्षा, कौशल विकास और व्यावसायिक प्रशिक्षण के क्षेत्रों में विकास और मानवीय सहायता प्रदान कर रहा है। उन्होंने पुनर्वास, स्वास्थ्य, शिक्षा और व्यावसायिक प्रशिक्षण से जुड़ी कई नई परियोजनाओं की भी घोषणा की। सुश्री श्रीप्रिया रंगनाथन ने फलिस्तीनी शरणार्थियों के लिए संयुक्त राष्ट्र राहत और कार्य एजेंसी से जुड़ी बैठक में भी भाग लिया। उन्&#x200d;होंने एजेंसी के प्रति भारत के निरंतर समर्थन को दोहराया।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T07:02:50+00:00",
+        "link": "https://newsonair.gov.in/hi/india-participated-in-the-second-ministerial-meeting-of-the-palestinian-donor-group-in-brussels/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNK0tK1a8AA6BqY.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "संसदीय कार्य मंत्री किरेन रिजिजू कतर के अमीर के निधन पर भारत सरकार की ओर से शोक संवेदना व्यक्त करने दोहा रवाना हुए",
+        "summary": "संसदीय कार्य और अल्पसंख्यक कार्य मंत्री किरेन रिजिजू कतर के अमीर शेख हमद बिन खलीफा अल थानी के निधन पर भारत सरकार और जनता की ओर से शोक संवेदना व्यक्त करने के लिए आज दोहा के लिए रवाना हुए। विदेश मंत्रालय ने कहा कि अमीर ने आधुनिक कतर के निर्माण में महत्वपूर्ण भूमिका निभाई और […]",
+        "article": "संसदीय कार्य और अल्पसंख्यक कार्य मंत्री किरेन रिजिजू कतर के अमीर शेख हमद बिन खलीफा अल थानी के निधन पर भारत सरकार और जनता की ओर से शोक संवेदना व्यक्त करने के लिए आज दोहा के लिए रवाना हुए। विदेश मंत्रालय ने कहा कि अमीर ने आधुनिक कतर के निर्माण में महत्वपूर्ण भूमिका निभाई और वे भारत के घनिष्&#x200d;ठ मित्र थे। मंत्रालय ने कहा कि भारत-कतर संबंधों को मजबूत करने में उनके अमूल्य योगदान के लिए अमीर को हमेशा याद किया जाएगा।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T06:14:52+00:00",
+        "link": "https://newsonair.gov.in/hi/parliamentary-affairs-minister-kiren-rijiju-has-left-for-doha-to-convey-condolences-on-behalf-of-the-government-of-india-following-the-demise-of-the-emir-of-qatar/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/04/Kiren.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली में शुरू हुआ",
+        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरराज सिंह ने इस चार दिवसीय कार्यक्रम का उद्घाटन किया। यह कार्यक्रम कपड़ा, फैशन, टिकाऊ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसने […]",
+        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरराज सिंह ने इस चार दिवसीय कार्यक्रम का उद्घाटन किया। यह कार्यक्रम कपड़ा, फैशन, टिकाऊ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसने निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, अंतर्राष्ट्रीय प्रतिनिधिमंडलों, कारीगरों, स्टार्ट-अप और प्रौद्योगिकी प्रदाताओं को एक साथ लाया है। प्रधानमंत्री नरेंद्र मोदी के 5एफ विज़न- फार्म टू फाइबर टू फैक्ट्री टू फैशन टू फॉरेन से प्रेरित होकर भारत टेक्स 2026 कपड़ा मूल्य श्रृंखला में व्यवसाय, निवेश, नवाचार, नीति संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख वैश्विक मंच के रूप में विकसित हुआ है। भारत टेक्स 2026 के इस तीसरे संस्करण में लगभग सात हजार खरीदार और 20 हजार से अधिक कपड़ा उत्पादों की भागीदारी देखी जा रही है। इस कार्यक्रम में 14 देशों के अंतर्राष्ट्रीय प्रदर्शक भाग ले रहे हैं। इस आयोजन में 20 से अधिक देशों के अंतर्राष्ट्रीय विशेषज्ञ, राष्ट्रीय उद्योग जगत के नेता, नीति निर्माता और विचारक सहित 350 से अधिक वक्ता शामिल होंगे।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T05:57:27+00:00",
+        "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विदेश मंत्री डॉ. एस जयशंकर ने न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की",
+        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्‍होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 […]",
+        "article": "विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्&#x200d;होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद में अस्थायी सीट के लिए भारत के चुनाव में अभियान का नेतृत्व करने के लिए न्यूयॉर्क में हैं।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:54:43+00:00",
+        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-met-united-nations-secretary-general-antonio-guterres-in-new-york/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNI6teRWUAAleDS.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए आधिकारिक रूप से चुनाव अभियान शुरू किया",
+        "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा […]",
+        "article": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा वैश्विक परिस्थितियों में संयुक्त राष्ट्र की भूमिका पहले से अधिक महत्वपूर्ण हो गई है। डॉक्टर जयशंकर ने कहा कि भारत अब तक संयुक्त राष्ट्र के लगभग पचास शांति मिशनों में करीब तीन लाख शांति सैनिक भेज चुका है और वर्तमान में दस मिशनों में चार हजार तीन सौ से अधिक भारतीय कर्मी तैनात हैं। उन्होंने कहा कि भारत हमेशा संवाद, कूटनीति और वैश्विक दक्षिण के हितों की महत्व देता रहा है। उन्होंने सदस्य देशों से भारत की उम्मीदवारी का समर्थन करने की अपील की। निर्वाचित होने पर भारत वर्ष 2028 से दो वर्ष के लिए सुरक्षा परिषद का अस्थायी सदस्य बनेगा। भारत इससे पहले आठ बार इस पद पर रह चुका है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:46:42+00:00",
+        "link": "https://newsonair.gov.in/hi/india-has-launched-its-election-campaign-for-a-non-permanent-seat-on-the-united-nations-security-council-for-the-2028-29-term/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNIgQ1wXkAAbN-v.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वियतनाम में स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर मुंबई लाए गए",
+        "summary": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि […]",
+        "article": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि आन्ध्रप्रदेश, केरल और तमिलनाडु की सरकारें इन शवों को उनके संबंधित राज्यों में उनके आवास पर पहुंचाने में समन्वय करेंगी। वियतनाम के अधिकारियों और सरकार के प्रति आभार व्यक्त करते हुए दूतावास ने बताया कि उनकी प्रार्थना, प्रयास और मौजूदगी ने इस दुख की घड़ी में शक्ति प्रदान की। 32 भारतीय पर्यटकों और चार स्थानीय क्रू के सद्स्यों वाली स्पीड बोट शुक्रवार को वियतनाम में फू क्वोक द्वीप में पलट गई। इस कारण 15 पर्यटकों की मृत्यु हो गई। इस दुर्घटना में बचने वाले 16 पर्यटक भी भारत लौट चुके हैं। इनमें से एक पर्यटक वियतनाम के एक अस्पताल में भर्ती है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:45:11+00:00",
+        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-a-speedboat-accident-in-vietnam-have-been-brought-back-to-the-country/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "एनटीए ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी किए",
+        "summary": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्‍तर देख सकते है। उम्‍मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े […]",
+        "article": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्&#x200d;तर देख सकते है। उम्&#x200d;मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार प्रश्न का चयन करके अपने चुने हुए विकल्प पर निशान लगा सकते हैं और 200 रुपये के शुल्क का भुगतान करके चुनौती दे सकते हैं। एजेंसी ने स्पष्ट किया है कि चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। ओएमआर चुनौती सुविधा इस महीने की 15 तारीख तक उपलब्ध रहेगी। उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:41:10+00:00",
+        "link": "https://newsonair.gov.in/hi/the-nta-released-the-omr-sheets-and-recorded-responses-for-the-neet-ug-2026-re-examination/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
+        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
+        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:49:09+00:00",
+        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
+        "post_id": 1736495,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "politics": [
+      {
+        "title": "भारत-ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से होगा लागू, 99% भारतीय निर्यात पर शून्य शुल्क",
+        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से लागू हो जाएगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत उत्पादों पर शून्य शुल्क की सुविधा मिलेगी। यह समझौता भारत और ब्रिटेन की रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की […]",
+        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक तथा व्यापार समझौता कल से लागू हो जाएगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत उत्पादों पर शून्य शुल्क की सुविधा मिलेगी। यह समझौता भारत और ब्रिटेन की रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। इस ऐतिहासिक समझौते की नींव मई 2021 में उन्नत व्यापार साझेदारी और भारत-ब्रिटेन रोडमैप 2030 को अपनाने के माध्यम से रखी गई थी। इसमें 2030 तक व्यापार को दोगुना करके सौ अरब अमरीकी डॉलर तक पहुंचाने का लक्ष्य रखा गया था। &nbsp;",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T07:10:14+00:00",
+        "link": "https://newsonair.gov.in/hi/india-uk-comprehensive-economic-and-trade-agreement-to-come-into-effect-tomorrow-zero-duty-on-99-of-indian-exports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-4-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने प्रधानमंत्री मोदी के नाम से वायरल गोमांस संबंधी वीडियो को फर्जी बताया",
+        "summary": "सरकार ने सोशल मीडिया पर वायरल हो रहे उस वीडियो का खंडन किया है जिसमें दावा किया गया है कि प्रधानमंत्री नरेंद्र मोदी ने न्यूजीलैंड के ऑकलैंड में एक कार्यक्रम के दौरान कहा था कि भारत दुनिया का दूसरा सबसे बड़ा गोमांस उत्पादक देश है। प्रेस सूचना कार्यालय (पीआईबी) की फैक्ट चेक यूनिट ने कहा […]",
+        "article": "सरकार ने सोशल मीडिया पर वायरल हो रहे उस वीडियो का खंडन किया है जिसमें दावा किया गया है कि प्रधानमंत्री नरेंद्र मोदी ने न्यूजीलैंड के ऑकलैंड में एक कार्यक्रम के दौरान कहा था कि भारत दुनिया का दूसरा सबसे बड़ा गोमांस उत्पादक देश है। प्रेस सूचना कार्यालय (पीआईबी) की फैक्ट चेक यूनिट ने कहा कि यह दावा फर्जी है और प्रधानमंत्री ने ऐसा कोई बयान नहीं दिया है। यूनिट ने लोगों को भ्रामक सामग्री से सावधान रहने और सत्यापित जानकारी के लिए हमेशा आधिकारिक स्रोतों पर भरोसा करने की सलाह भी दी है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T07:09:55+00:00",
+        "link": "https://newsonair.gov.in/hi/the-government-termed-the-viral-video-regarding-beef-linked-to-prime-minister-modi-as-fake/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/PIB_Fact_Check.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने ब्रसेल्स में फलिस्तीनी डोनर ग्रुप की दूसरी मंत्रिस्तरीय बैठक में लिया हिस्सा",
+        "summary": "भारत ने कल बेल्जियम की राजधानी ब्रसेल्स में फलिस्तीनी डोनर ग्रुप (पीडीजी) की दूसरी मंत्रिस्तरीय बैठक में हिस्सा लिया। विदेश मंत्रालय में वाणिज्य दूतावास, पासपोर्ट और वीजा तथा प्रवासी भारतीय मामलों की सचिव श्रीप्रिया रंगनाथन ने कहा कि भारत लंबे समय से फलिस्तीनी लोगों का भरोसेमंद साझेदार रहा है। उन्होंने कहा कि भारत स्वास्थ्य, शिक्षा, […]",
+        "article": "भारत ने कल बेल्जियम की राजधानी ब्रसेल्स में फलिस्तीनी डोनर ग्रुप (पीडीजी) की दूसरी मंत्रिस्तरीय बैठक में हिस्सा लिया। विदेश मंत्रालय में वाणिज्य दूतावास, पासपोर्ट और वीजा तथा प्रवासी भारतीय मामलों की सचिव श्रीप्रिया रंगनाथन ने कहा कि भारत लंबे समय से फलिस्तीनी लोगों का भरोसेमंद साझेदार रहा है। उन्होंने कहा कि भारत स्वास्थ्य, शिक्षा, कौशल विकास और व्यावसायिक प्रशिक्षण के क्षेत्रों में विकास और मानवीय सहायता प्रदान कर रहा है। उन्होंने पुनर्वास, स्वास्थ्य, शिक्षा और व्यावसायिक प्रशिक्षण से जुड़ी कई नई परियोजनाओं की भी घोषणा की। सुश्री श्रीप्रिया रंगनाथन ने फलिस्तीनी शरणार्थियों के लिए संयुक्त राष्ट्र राहत और कार्य एजेंसी से जुड़ी बैठक में भी भाग लिया। उन्&#x200d;होंने एजेंसी के प्रति भारत के निरंतर समर्थन को दोहराया।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T07:02:50+00:00",
+        "link": "https://newsonair.gov.in/hi/india-participated-in-the-second-ministerial-meeting-of-the-palestinian-donor-group-in-brussels/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNK0tK1a8AA6BqY.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "संसदीय कार्य मंत्री किरेन रिजिजू कतर के अमीर के निधन पर भारत सरकार की ओर से शोक संवेदना व्यक्त करने दोहा रवाना हुए",
+        "summary": "संसदीय कार्य और अल्पसंख्यक कार्य मंत्री किरेन रिजिजू कतर के अमीर शेख हमद बिन खलीफा अल थानी के निधन पर भारत सरकार और जनता की ओर से शोक संवेदना व्यक्त करने के लिए आज दोहा के लिए रवाना हुए। विदेश मंत्रालय ने कहा कि अमीर ने आधुनिक कतर के निर्माण में महत्वपूर्ण भूमिका निभाई और […]",
+        "article": "संसदीय कार्य और अल्पसंख्यक कार्य मंत्री किरेन रिजिजू कतर के अमीर शेख हमद बिन खलीफा अल थानी के निधन पर भारत सरकार और जनता की ओर से शोक संवेदना व्यक्त करने के लिए आज दोहा के लिए रवाना हुए। विदेश मंत्रालय ने कहा कि अमीर ने आधुनिक कतर के निर्माण में महत्वपूर्ण भूमिका निभाई और वे भारत के घनिष्&#x200d;ठ मित्र थे। मंत्रालय ने कहा कि भारत-कतर संबंधों को मजबूत करने में उनके अमूल्य योगदान के लिए अमीर को हमेशा याद किया जाएगा।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T06:14:52+00:00",
+        "link": "https://newsonair.gov.in/hi/parliamentary-affairs-minister-kiren-rijiju-has-left-for-doha-to-convey-condolences-on-behalf-of-the-government-of-india-following-the-demise-of-the-emir-of-qatar/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/04/Kiren.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली में शुरू हुआ",
+        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरराज सिंह ने इस चार दिवसीय कार्यक्रम का उद्घाटन किया। यह कार्यक्रम कपड़ा, फैशन, टिकाऊ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसने […]",
+        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरराज सिंह ने इस चार दिवसीय कार्यक्रम का उद्घाटन किया। यह कार्यक्रम कपड़ा, फैशन, टिकाऊ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसने निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, अंतर्राष्ट्रीय प्रतिनिधिमंडलों, कारीगरों, स्टार्ट-अप और प्रौद्योगिकी प्रदाताओं को एक साथ लाया है। प्रधानमंत्री नरेंद्र मोदी के 5एफ विज़न- फार्म टू फाइबर टू फैक्ट्री टू फैशन टू फॉरेन से प्रेरित होकर भारत टेक्स 2026 कपड़ा मूल्य श्रृंखला में व्यवसाय, निवेश, नवाचार, नीति संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख वैश्विक मंच के रूप में विकसित हुआ है। भारत टेक्स 2026 के इस तीसरे संस्करण में लगभग सात हजार खरीदार और 20 हजार से अधिक कपड़ा उत्पादों की भागीदारी देखी जा रही है। इस कार्यक्रम में 14 देशों के अंतर्राष्ट्रीय प्रदर्शक भाग ले रहे हैं। इस आयोजन में 20 से अधिक देशों के अंतर्राष्ट्रीय विशेषज्ञ, राष्ट्रीय उद्योग जगत के नेता, नीति निर्माता और विचारक सहित 350 से अधिक वक्ता शामिल होंगे।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T05:57:27+00:00",
+        "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pp.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विदेश मंत्री डॉ. एस जयशंकर ने न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की",
+        "summary": "विदेश मंत्री डॉ. सुब्रह्मण्‍यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्‍होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 […]",
+        "article": "विदेश मंत्री डॉ. सुब्रह्मण्&#x200d;यम जयशंकर ने कल न्यूयॉर्क में संयुक्त राष्ट्र के महासचिव एंटोनियो गुतरेस से मुलाकात की। सोशल मीडिया पोस्ट में डॉ. जयशंकर ने बताया कि उन्होंने पश्चिम एशिया, यूक्रेन और सूडान सहित वैश्विक घटनाक्रमों पर चर्चा की। उन्&#x200d;होंने भारत और संयुक्त राष्ट्र के बीच मजबूत सहयोग को भी स्वीकार किया। डॉ. जयशंकर 2028-29 कार्यकाल के लिए संयुक्त राष्ट्र सुरक्षा परिषद में अस्थायी सीट के लिए भारत के चुनाव में अभियान का नेतृत्व करने के लिए न्यूयॉर्क में हैं।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:54:43+00:00",
+        "link": "https://newsonair.gov.in/hi/external-affairs-minister-dr-s-jaishankar-met-united-nations-secretary-general-antonio-guterres-in-new-york/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNI6teRWUAAleDS.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए आधिकारिक रूप से चुनाव अभियान शुरू किया",
+        "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा […]",
+        "article": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के अस्थायी सदस्य के रूप में वर्ष 2028-29 के कार्यकाल के लिए अपना चुनाव अभियान आधिकारिक रूप से शुरू कर दिया है। न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में विदेश मंत्री डॉक्टर एस. जयशंकर ने भारत की उम्मीदवारी पेश करते हुए &#8216;शांति&#8217; दृष्टिकोण का अनावरण किया। उन्होंने कहा कि मौजूदा वैश्विक परिस्थितियों में संयुक्त राष्ट्र की भूमिका पहले से अधिक महत्वपूर्ण हो गई है। डॉक्टर जयशंकर ने कहा कि भारत अब तक संयुक्त राष्ट्र के लगभग पचास शांति मिशनों में करीब तीन लाख शांति सैनिक भेज चुका है और वर्तमान में दस मिशनों में चार हजार तीन सौ से अधिक भारतीय कर्मी तैनात हैं। उन्होंने कहा कि भारत हमेशा संवाद, कूटनीति और वैश्विक दक्षिण के हितों की महत्व देता रहा है। उन्होंने सदस्य देशों से भारत की उम्मीदवारी का समर्थन करने की अपील की। निर्वाचित होने पर भारत वर्ष 2028 से दो वर्ष के लिए सुरक्षा परिषद का अस्थायी सदस्य बनेगा। भारत इससे पहले आठ बार इस पद पर रह चुका है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:46:42+00:00",
+        "link": "https://newsonair.gov.in/hi/india-has-launched-its-election-campaign-for-a-non-permanent-seat-on-the-united-nations-security-council-for-the-2028-29-term/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNIgQ1wXkAAbN-v.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वियतनाम में स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर मुंबई लाए गए",
+        "summary": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि […]",
+        "article": "वियतनाम के फू क्वोक द्वीप के पास हुई स्पीड बोट हादसे में मारे गए 15 भारतीय पर्यटकों के पार्थिव शरीर स्वदेश लाए गए हैं। वियतनाम में भारतीय दूतावास ने एक सोशल मीडिया पोस्ट में बताया कि ये शव वियतनाम एयरलाइंस के जरिये हो ची मिन्ह सिटी से रवाना होकर मुम्बई पहुंचे। दूतावास ने कहा कि आन्ध्रप्रदेश, केरल और तमिलनाडु की सरकारें इन शवों को उनके संबंधित राज्यों में उनके आवास पर पहुंचाने में समन्वय करेंगी। वियतनाम के अधिकारियों और सरकार के प्रति आभार व्यक्त करते हुए दूतावास ने बताया कि उनकी प्रार्थना, प्रयास और मौजूदगी ने इस दुख की घड़ी में शक्ति प्रदान की। 32 भारतीय पर्यटकों और चार स्थानीय क्रू के सद्स्यों वाली स्पीड बोट शुक्रवार को वियतनाम में फू क्वोक द्वीप में पलट गई। इस कारण 15 पर्यटकों की मृत्यु हो गई। इस दुर्घटना में बचने वाले 16 पर्यटक भी भारत लौट चुके हैं। इनमें से एक पर्यटक वियतनाम के एक अस्पताल में भर्ती है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:45:11+00:00",
+        "link": "https://newsonair.gov.in/hi/the-mortal-remains-of-the-15-indians-who-died-in-a-speedboat-accident-in-vietnam-have-been-brought-back-to-the-country/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/v.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "एनटीए ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी किए",
+        "summary": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्‍तर देख सकते है। उम्‍मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े […]",
+        "article": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्&#x200d;तर देख सकते है। उम्&#x200d;मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार प्रश्न का चयन करके अपने चुने हुए विकल्प पर निशान लगा सकते हैं और 200 रुपये के शुल्क का भुगतान करके चुनौती दे सकते हैं। एजेंसी ने स्पष्ट किया है कि चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। ओएमआर चुनौती सुविधा इस महीने की 15 तारीख तक उपलब्ध रहेगी। उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:41:10+00:00",
+        "link": "https://newsonair.gov.in/hi/the-nta-released-the-omr-sheets-and-recorded-responses-for-the-neet-ug-2026-re-examination/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
+        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
+        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:49:09+00:00",
+        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
+        "post_id": 1736495,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "world": [
+      {
+        "title": "अमरीका ने लगातार तीसरी रात ईरान पर हवाई हमले किए, दोनों देशों में तनाव बढ़ा",
+        "summary": "अमरीका ने लगातार तीसरी रात ईरान पर हवाई हमले किए हैं। इससे दोनों देशों के बीच तनाव फिर से बढ़ गया है। अमरीका की सेना के सेंट्रल कमांड ने कहा कि उसने अबू मूसा, बंदर अब्बास, बुशहर, चाहबहार, जास्क और कोनारक के आसपास के इलाकों में हमला कर ईरानी तटीय रक्षा प्रणालियों, मिसाइल और ड्रोन […]",
+        "article": "अमरीका ने लगातार तीसरी रात ईरान पर हवाई हमले किए हैं। इससे दोनों देशों के बीच तनाव फिर से बढ़ गया है। अमरीका की सेना के सेंट्रल कमांड ने कहा कि उसने अबू मूसा, बंदर अब्बास, बुशहर, चाहबहार, जास्क और कोनारक के आसपास के इलाकों में हमला कर ईरानी तटीय रक्षा प्रणालियों, मिसाइल और ड्रोन ठिकानों और उनकी नौसैनिक क्षमताओं को निशाना बनाया है। ईरान ने इन हमलों को स्वीकारा है, लेकिन किसी भी हताहत या नुकसान की सूचना नहीं दी है। अमरीका सेंट्रल कमांड का कहना है कि ये हमले ईरानी सेना पर जारी रहेंगे और हॉर्मुज़ जलडमरूमध्य में निर्दोष नागरिकों और वाणिज्यिक जहाजों पर हमला करने की उनकी क्षमता को कमजोर करेंगे। इसके जवाब में ईरान ने बहरीन, जॉर्डन और इस जलडमरूमध्य से गुजर रहे संयुक्त अरब अमीरात से जुड़े दो टैंकरों को निशाना बनाया। इसमें एक नाविक की मौत हो गई और आठ अन्य घायल हो गए। संयुक्त अरब अमीरात के रक्षा मंत्रालय ने कहा कि टैंकरों पर हुए इस हमले में एक भारतीय नागरिक की मौत हुई है और छह भारतीय तथा दो यूक्रेनी नागरिक घायल हुए हैं। उधर, जॉर्डन की सेना ने कहा है कि उसने ईरान की ओर से आई चार मिसाइलों को हवा में ही रोक दिया। इसी बीच अमरीका के राष्ट्रपति डोनाल्ड ट्रंप ने नतांज के पास गहराई में बने एक परमाणु स्थल &#8216;पिकएक्स माउंटेन&#8217; को नष्ट करने की धमकी दी है, जहाँ ईरान के एक अघोषित संवर्धन केंद्र बना बनाने की आशंका है। इससे पहले कल, राष्ट्रपति डोनाल्ड ट्रंप ने घोषणा की थी कि अमरीका हॉर्मुज़ जलडमरूमध्य में ईरानी जहाजों पर फिर से नाकेबंदी लागू करेगा और समुद्री सुरक्षा की लागत को पूरा करने के लिए इस रणनीतिक जलमार्ग से गुजरने वाले माल पर 20 प्रतिशत का शुल्क लगाएगा। सोशल मीडिया पोस्ट में राष्ट्रपति ट्रंप ने कहा कि यह नाकेबंदी केवल ईरानी जहाजों और ईरान के साथ व्यापार करने वाले जहाजों पर लागू होगी। उन्होंने कहा कि हॉर्मुज़ जलडमरूमध्य खुला है और ईरान के साथ या उसके बिना भी खुला रहेगा। उन्होंने भरोसा दिलाया कि अन्य देशों के वाणिज्यिक जहाजों को मुफ्त मार्ग मिलता रहेगा। दूसरी ओर, ईरान ने हॉर्मुज़ जलडमरूमध्य पर अपने अधिकार का दावा किया है और अमरीका के दावें को खारिज किया है। ईरान की सरकारी मीडिया के अनुसार, केंद्रीय मुख्यालय के प्रवक्ता ब्रिगेडियर जनरल इब्राहिम ज़ोलफ़ाघरी ने कहा कि ईरान किसी भी परिस्थिति में अमरीका को हॉर्मुज़ जलडमरूमध्य के प्रबंधन में हस्तक्षेप करने की अनुमति नहीं देगा। उन्होंने यह चेतावनी भी दी कि अमरीका की सेना को रसद सहायता प्रदान करने वाले किसी भी क्षेत्रीय देश को ईरान के खिलाफ युद्ध छेड़ने जैसा माना जाएगा।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T06:25:05+00:00",
+        "link": "https://newsonair.gov.in/hi/the-us-carried-out-airstrikes-on-iran-for-the-third-consecutive-night-escalating-tensions-between-the-two-countries/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "बैंकॉक के एक म्यूजिक बार में लगी भीषण आग में मरने वालों की संख्या 30 हो गई है",
+        "summary": "थाईलैंड की राजधानी बैंकॉक के एक म्यूजिक बार में लगी भीषण आग में मरने वालों की संख्या 30 हो गई है। अधिकारियों के अनुसार, 70 से अधिक लोग अस्पताल में भर्ती हैं, जिनमें 24 की हालत गंभीर है। पुलिस आग लगने के कारणों और बार में सुरक्षा नियमों की जांच कर रही है। यह हादसा […]",
+        "article": "थाईलैंड की राजधानी बैंकॉक के एक म्यूजिक बार में लगी भीषण आग में मरने वालों की संख्या 30 हो गई है। अधिकारियों के अनुसार, 70 से अधिक लोग अस्पताल में भर्ती हैं, जिनमें 24 की हालत गंभीर है। पुलिस आग लगने के कारणों और बार में सुरक्षा नियमों की जांच कर रही है। यह हादसा रविवार देर रात उत्तरी बैंकॉक के रोंग बीयर ना लाडप्राओ बार में हुआ। इसे बैंकॉक में पिछले 17 वर्षों की सबसे बड़ी अग्निकांड की घटना बताया जा रहा है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T06:06:57+00:00",
+        "link": "https://newsonair.gov.in/hi/the-death-toll-from-the-massive-fire-at-a-music-bar-in-bangkok-has-risen-to-30/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/b.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "यमन में ईरान समर्थित हूती विद्रोहियों ने कहा कि उन्होंने सऊदी अरब के आभा इंटरनेशनल एयरपोर्ट पर मिसाइलें और ड्रोन हमले किए",
+        "summary": "यमन में ईरान समर्थित हूती विद्रोहियों ने कहा कि उन्होंने कल सऊदी अरब के आभा इंटरनेशनल एयरपोर्ट पर मिसाइलें और ड्रोन हमले किए। यह कदम यमन के सना इंटरनेशनल एयरपोर्ट पर पहले हुए हवाई हमलों के जवाब में उठाया गया है। उनका आरोप है कि ये हमले कल रियाद ने किए थे। इसमें किसी के […]",
+        "article": "यमन में ईरान समर्थित हूती विद्रोहियों ने कहा कि उन्होंने कल सऊदी अरब के आभा इंटरनेशनल एयरपोर्ट पर मिसाइलें और ड्रोन हमले किए। यह कदम यमन के सना इंटरनेशनल एयरपोर्ट पर पहले हुए हवाई हमलों के जवाब में उठाया गया है। उनका आरोप है कि ये हमले कल रियाद ने किए थे। इसमें किसी के हताहत होने की खबर नहीं है। इन हमलों ने तनाव को उस स्तर पर पहुंचा दिया है जो सऊदी के नेतृत्व वाले गठबंधन द्वारा कई साल पहले हूती-नियंत्रित इलाकों पर हमले के बाद से नहीं देखा गया था। सऊदी अरब के अधिकारियों ने यमन में हवाई हमलों के बारे में तुरंत कोई प्रतिक्रिया नहीं दी। हूती सैन्य प्रवक्ता ब्रिगेडियर जनरल याह्या सरी ने एक वीडियो बयान में एयरलाइंस को सऊदी हवाई क्षेत्र से उड़ान भरने के खिलाफ चेतावनी दी। प्रवक्ता ने कहा कि जब तक सना इंटरनेशनल एयरपोर्ट पर लगी नाकेबंदी नहीं हटाई जाती, तब तक इन चेतावनियों को गंभीरता से लिया जाना चाहिए। हूती सैन्य प्रवक्ता ने चेतावनी दी कि इस आक्रामकता का जवाब दिया जाएगा और इसे बिना सजा के नहीं छोड़ा जाएगा। यमन में अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त सरकार ने पहले कहा था कि सना इंटरनेशनल एयरपोर्ट पर हुए हमलों का उद्देश्य एक ईरानी विमान को उतरने से रोकना था। संयुक्त राष्ट्र सुरक्षा परिषद के अधिकारियों ने आज एक आपात बैठक में तनाव के और बढ़ने के जोखिम पर चिंता व्यक्त की। यमन में वैधता बहाल करने वाले सऊदी-नेतृत्व वाले गठबंधन के आधिकारिक प्रवक्ता मेजर जनरल तुर्की अल-माल्की ने सोशल मीडिया पोस्ट में कहा कि सऊदी वायु रक्षा प्रणालियों ने हूतियों द्वारा दागी गई बैलिस्टिक मिसाइलों को नाकाम कर दिया, हालांकि उन्होंने और विवरण नहीं दिया। सऊदी-नेतृत्व वाले गठबंधन ने आखिरी बार हूती-नियंत्रित इलाकों को तब निशाना बनाया था जब 2022 में लड़ाई रोकने के लिए संयुक्त राष्ट्र की मध्यस्थता में समझौता लागू हुआ था।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T03:46:41+00:00",
+        "link": "https://newsonair.gov.in/hi/%e0%a4%af%e0%a4%ae%e0%a4%a8-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8-%e0%a4%b8%e0%a4%ae%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a4%bf%e0%a4%a4-%e0%a4%b9%e0%a5%82%e0%a4%a4%e0%a5%80/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका: सीनेटर लिंडसे ग्राहम के निधन के बाद डार्लिन ग्राहम नॉर्डोन कार्यवाहक सीनेटर नियुक्त",
+        "summary": "अमरीका के दक्षिणी केरोलिना से सीनेटर लिंडसे ग्राहम निधन के बाद, उनकी बहन डार्लिन ग्राहम नॉर्डोन को उनके स्‍थान पर कार्यवाहक सीनेटर नियुक्त किया गया है। दक्षिण कैरोलिना के गवर्नर हेनरी मैकमास्टर ने कल औपचारिक रूप से उन्हें इस पद के लिए चुना। मैकमास्टर ने कहा कि वह ग्राहम के अगले साल समाप्त होने वाले […]",
+        "article": "अमरीका के दक्षिणी केरोलिना से सीनेटर लिंडसे ग्राहम निधन के बाद, उनकी बहन डार्लिन ग्राहम नॉर्डोन को उनके स्&#x200d;थान पर कार्यवाहक सीनेटर नियुक्त किया गया है। दक्षिण कैरोलिना के गवर्नर हेनरी मैकमास्टर ने कल औपचारिक रूप से उन्हें इस पद के लिए चुना। मैकमास्टर ने कहा कि वह ग्राहम के अगले साल समाप्त होने वाले शेष कार्यकाल को पूरा करेंगी। अमरीकी राष्ट्रपति डोनाल्ड ट्रम्प सहित अधिकारियों ने दिवंगत सीनेटर को श्रद्धांजलि देते हुए ग्राहम नॉर्डोन को उनका उत्&#x200d;तराधिकारी नियुक्&#x200d;त किए जाने का समर्थन किया। वाशिंगटन डीसी के चिकित्सा परीक्षक की प्रारंभिक रिपोर्ट के अनुसार, 71 वर्षीय ग्राहम की मृत्यु हृदय रोग के कारण महाधमनी विच्छेदन से हुई। ग्राहम नवंबर में फिर से चुनाव लड़ रहे थे और उन्हें रिपब्लिकन पार्टी का नामांकन प्राप्त था। 2002 में सीनेट के लिए चुने गए ग्राहम विदेश नीति पर वाशिंगटन की सबसे प्रभावशाली आवाजों में से एक थे।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T03:15:56+00:00",
+        "link": "https://newsonair.gov.in/hi/usa-darlene-graham-nordone-appointed-acting-senator-following-the-passing-of-senator-lindsey-graham/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNKBYZobgAAvFzp.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "होर्मुज़ जलडमरूमध्य में यूएई के दो टैंकरों पर ईरानी मिसाइल हमला, एक भारतीय क्रू सदस्य की मौत",
+        "summary": "होर्मुज़ जलडमरूमध्य से गुज़रते समय संयुक्त अरब अमीरात (यूएई) के दो टैंकरों पर ईरान की क्रूज़ मिसाइलों के हमले में एक भारतीय क्रू सदस्य की मौत हो गई और छह अन्य घायल हो गए। यूएई के रक्षा मंत्रालय ने आज सोशल मीडिया पर यह जानकारी दी। मंत्रालय ने बताया कि &#8216;मोम्बासा&#8217; और &#8216;अल बहिया&#8217; नाम […]",
+        "article": "होर्मुज़ जलडमरूमध्य से गुज़रते समय संयुक्त अरब अमीरात (यूएई) के दो टैंकरों पर ईरान की क्रूज़ मिसाइलों के हमले में एक भारतीय क्रू सदस्य की मौत हो गई और छह अन्य घायल हो गए। यूएई के रक्षा मंत्रालय ने आज सोशल मीडिया पर यह जानकारी दी। मंत्रालय ने बताया कि &#8216;मोम्बासा&#8217; और &#8216;अल बहिया&#8217; नाम के इन टैंकरों को जलडमरूमध्य के दक्षिणी लेन में ओमान की समुद्री सीमा के भीतर निशाना बनाया गया। मारे गए क्रू सदस्य &#8216;मोम्बासा&#8217; टैंकर पर सवार थे। घायलों में से चार की हालत गंभीर है। घायलों में छह भारतीय और यूक्रेन के दो नागरिक शामिल हैं। यूएई के रक्षा मंत्रालय ने इस हमले की निंदा करते हुए इसे अंतरराष्ट्रीय कानून का खुला उल्लंघन और क्षेत्रीय सुरक्षा तथा स्थिरता के लिए गंभीर खतरा बताया। मंत्रालय ने कहा कि वह किसी भी खतरे से निपटने के लिए पूरी तरह तैयार और सतर्क है। मंत्रालय का कहना है कि देश की सुरक्षा तथा स्थिरता को नुकसान पहुंचाने की किसी भी कोशिश का कड़ा जवाब देने के लिए सभी ज़रूरी कदम उठाया जा रहा है। समुद्री मार्ग में हुई ये ताज़ा घटनाएं पश्चिम एशियाई क्षेत्र में हफ़्तों से चल रहे तनाव के बाद सामने आई हैं।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:58:34+00:00",
+        "link": "https://newsonair.gov.in/hi/iranian-missile-attack-on-two-uae-tankers-in-the-strait-of-hormuz-one-indian-crew-member-killed/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-4-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "यूक्रेन सहित दस देशों ने यूरोप को बैलिस्टिक मिसाइलों से बचाने के लिए गठबंधन बनाने की घोषणा की",
+        "summary": "यूक्रेन और नौ अन्य देशों ने घोषणा की है कि वे यूरोप को बैलिस्टिक मिसाइलों से बचाने के लिए एक गठबंधन बना रहे हैं। यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की और डेनमार्क, फ्रांस, जर्मनी, इटली, नीदरलैंड्स, नॉर्वे, स्पेन, स्वीडन और ब्रिटेन के नेताओं ने कहा कि वे बैलिस्टिक मिसाइलों से बढ़ते खतरे को समझते हैं। इन […]",
+        "article": "यूक्रेन और नौ अन्य देशों ने घोषणा की है कि वे यूरोप को बैलिस्टिक मिसाइलों से बचाने के लिए एक गठबंधन बना रहे हैं। यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की और डेनमार्क, फ्रांस, जर्मनी, इटली, नीदरलैंड्स, नॉर्वे, स्पेन, स्वीडन और ब्रिटेन के नेताओं ने कहा कि वे बैलिस्टिक मिसाइलों से बढ़ते खतरे को समझते हैं। इन मिसाइलों को क्रूज़ मिसाइलों या ड्रोन की तुलना में रोकना ज़्यादा मुश्किल होता है। पेरिस में जारी एक बयान में इन 10 देशों ने कहा कि उनका लक्ष्य यूरोप के लिए एक साझा बैलिस्टिक मिसाइल रक्षा क्षमता विकसित करना है। इसके लिए वे रूस के पूर्ण-स्तरीय हमले के चार वर्ष से अधिक समय से सामना करने के कीव के अनुभव का लाभ उठाएंगे। बयान में इस रक्षा प्रणाली को स्थापित करने के लिए कोई समय-सीमा नहीं बताई गई है। ब्यान में यह भी कहा गया कि यह योजना अन्य देशों के लिए भी खुली है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:44:45+00:00",
+        "link": "https://newsonair.gov.in/hi/ten-countries-including-ukraine-announced-the-formation-of-an-alliance-to-protect-europe-from-ballistic-missiles/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNJvv2ra0AA5frQ-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका के राष्ट्रपति ने होर्मुज जलडमरूमध्य में ईरानी जहाजों की नाकेबंदी फिर शुरू करने की घोषणा की",
+        "summary": "अमरीका ने लगातार तीसरी रात ईरान पर हमले किए। इससे दोनों देशों के बीच दुश्मनी और बढ़ गई है। अमरीकी सेंट्रल कमान-सेंटकॉम ने कहा कि इन हमलों से ईरानी सेना को भारी नुकसान उठाना पड़ेगा और होर्मुज़ जलडमरूमध्य में निर्दोष नागरिकों और वाणिज्यिक जहाजों पर हमला करने की उनकी क्षमता कमज़ोर होगी। अमरीका के राष्ट्रपति […]",
+        "article": "अमरीका ने लगातार तीसरी रात ईरान पर हमले किए। इससे दोनों देशों के बीच दुश्मनी और बढ़ गई है। अमरीकी सेंट्रल कमान-सेंटकॉम ने कहा कि इन हमलों से ईरानी सेना को भारी नुकसान उठाना पड़ेगा और होर्मुज़ जलडमरूमध्य में निर्दोष नागरिकों और वाणिज्यिक जहाजों पर हमला करने की उनकी क्षमता कमज़ोर होगी। अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने नतांज़ के पास मौजूद &#8216;पिकैक्स माउंटेन&#8217; को नष्ट करने की धमकी दी है। यह ज़मीन के बहुत नीचे बना एक न्यूक्लियर साइट है, जिसके बारे में पश्चिमी खुफिया एजेंसियों को शक है कि ईरान वहाँ एक अघोषित परमाणु संवर्धन सुविधा का निर्माण कर रहा है। इससे पहले कल अमरीका के राष्ट्रपति डॉनल्ड ट्रंप ने घोषणा की है कि अमरीका होर्मुज़ जलडमरूमध्य में ईरानी जहाजों की फिर से नाकाबंदी करेगा। इसके अलावा अमरीका समुद्री सुरक्षा का खर्च उठाने के लिए इस महत्वपूर्ण समुद्री मार्ग से गुजरने वाले माल पर 20 प्रतिशत शुल्क लगाएगा। राष्ट्रपति ट्रंप ने &#8216;ट्रुथ सोशल&#8217; पर एक पोस्ट में कहा कि यह रोक सिर्फ़ ईरानी जहाजों और ईरान के साथ व्यापार करने वाले जहाजों पर लागू होगी। उन्होंने कहा कि होर्मुज़ जलडमरूमध्य खुला है और ईरान के साथ या उसके बिना खुला रहेगा। उन्होंने भरोसा दिलाया कि दूसरे देशों के वाणिज्यिक जहाजों की आवाजाही बिना किसी रोक-टोक के जारी रहेगी। अमरीका की सेना ने कहा है कि वह आज रात से ईरानी बंदरगाहों की नाकेबंदी फिर से शुरू करेगी। यह घोषणा होर्मुज़ जलडमरूमध्य में जहाजों पर ईरानी हमलों के बाद फिर से बढ़े तनाव के बीच की गई है। अमरीका ने ईरान में कई ठिकानों पर हमले भी किए हैं, जिसके जवाब में ईरान ने बहरीन, ओमान और कुवैत सहित पूरे पश्चिम एशिया में जवाबी हमले किए हैं। दूसरी ओर ईरान ने होर्मुज़ जलडमरूमध्य पर अपना अधिकार जताया है और अमरीका के इस कदम को खारिज कर दिया है। ईरानी सरकारी मीडिया के अनुसार, सेंट्रल हेडक्वार्टर के प्रवक्ता ब्रिगेडियर जनरल इब्राहिम ज़ोलफ़गारी ने कहा कि ईरान किसी भी हाल में अमरीका को होर्मुज़ जलडमरूमध्य के प्रबंधन में दखल नहीं देने देगा। उन्होंने यह भी चेतावनी दी कि अगर कोई क्षेत्रीय देश अमरीका की सेना को लॉजिस्टिकल मदद देता है, तो इसे ईरान के खिलाफ़ युद्ध की कार्रवाई माना जाएगा। अंतर्राष्ट्रीय नौवहन की देखरेख करने वाली संयुक्त राष्ट्र की एजेंसी अंतर्राष्ट्रीय समुद्री संगठन ने कहा कि वह राष्ट्रपति ट्रंप के प्रस्ताव के बारे में और जानकारी का इंतज़ार कर रहा है, लेकिन अंतर्राष्ट्रीय जलमार्गों से गुजरने के लिए शुल्क लगाने का विरोध करता है।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T02:43:15+00:00",
+        "link": "https://newsonair.gov.in/hi/president-donald-trump-announced-the-resumption-of-the-blockade-by-iranian-ships-in-the-strait-of-hormuz/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/trump-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "यूरोपीय संघ ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया",
+        "summary": "यूरोपीय संघ (ईयू) ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया है। संघ के शीर्ष राजनयिक ने कल कहा कि यूरोपीय संघ व्हाइट हाउस और संयुक्त राष्ट्र सहित 65 सरकारों और संगठनों के साथ मिलकर काम कर रहा है। ब्रसेल्स में &#8216;फिलिस्तीन डोनर्स ग्रुप&#8217; की बैठक के […]",
+        "article": "यूरोपीय संघ (ईयू) ने गाज़ा के लिए एक अरब डॉलर की सहायता राशि जुटाने के प्रयासों में समन्वय किया है। संघ के शीर्ष राजनयिक ने कल कहा कि यूरोपीय संघ व्हाइट हाउस और संयुक्त राष्ट्र सहित 65 सरकारों और संगठनों के साथ मिलकर काम कर रहा है। ब्रसेल्स में &#8216;फिलिस्तीन डोनर्स ग्रुप&#8217; की बैठक के बाद यूरोपीय आयोग की उपाध्यक्ष काजा कल्लास ने इस सहायता राशि की घोषणा की। यह बैठक &#8216;टीम गाज़ा पहल&#8217; की दूसरी बैठक थी। यह यूरोपीय संघ की एक ऐसी पहल है जिसका उद्देश्य युद्ध से तबाह हुए तटीय इलाके में साफ-सफाई और खेती जैसे पुनर्निर्माण कार्यों के लिए समर्थन जुटाना है। इन तबाह हुए इलाकों में लगभग 20 लाख लोग रहते हैं।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T01:05:18+00:00",
+        "link": "https://newsonair.gov.in/hi/the-european-union-coordinated-efforts-to-mobilize-one-billion-dollars-in-aid-for-gaza/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/EU.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
+        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
+        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:49:09+00:00",
+        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "कल अंतरराष्ट्रीय अंतरिक्ष स्टेशन के लिए रवाना होंगे भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन",
+        "summary": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन कल अंतरराष्ट्रीय अंतरिक्ष स्टेशन के लिए रवाना होंगे। वे कज़ाख़स्तान के बैकोनूर अंतरिक्ष केंद्र से दो रूसी अंतरिक्ष यात्रियों के साथ रोस्कोस्मोस के सोयुज़ एमएस-29 अंतरिक्ष यान से उड़ान भरेंगे। अंतरिक्ष यान का प्रक्षेपण भारतीय समयानुसार कल रात आठ बजकर 17 मिनट पर होगा। इसके लगभग साढ़े […]",
+        "article": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन कल अंतरराष्ट्रीय अंतरिक्ष स्टेशन के लिए रवाना होंगे। वे कज़ाख़स्तान के बैकोनूर अंतरिक्ष केंद्र से दो रूसी अंतरिक्ष यात्रियों के साथ रोस्कोस्मोस के सोयुज़ एमएस-29 अंतरिक्ष यान से उड़ान भरेंगे। अंतरिक्ष यान का प्रक्षेपण भारतीय समयानुसार कल रात आठ बजकर 17 मिनट पर होगा। इसके लगभग साढ़े तीन घंटे बाद यह अंतरराष्ट्रीय अंतरिक्ष स्टेशन से जुड़ेगा। अनिल मेनन के साथ रूस के अंतरिक्ष यात्री प्योत्र दुब्रोव और अन्ना किकीना भी अंतरराष्ट्रीय अंतरिक्ष स्टेशन के 75वें अभियान का हिस्सा होंगे। अंतरिक्ष यात्री बुधवार तड़के करीब 1 बजकर 25 मिनट पर अंतरिक्ष स्टेशन में प्रवेश करेंगे। 49 वर्षीय अनिल मेनन आपातकालीन चिकित्सा विशेषज्ञ और अमरीकी स्पेस फोर्स में कर्नल हैं। उनका जन्म अमरीका के मिनियापोलिस में भारतीय और यूक्रेनी मूल के परिवार में हुआ था। वे अमरीकी वायुसेना में सेवा दे चुके हैं और माउंट एवरेस्ट पर पर्वतारोहियों की चिकित्सा सहायता के लिए हिमालयन रेस्क्यू एसोसिएशन के साथ भी काम कर चुके हैं।",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T16:49:46+00:00",
+        "link": "https://newsonair.gov.in/hi/indian-origin-nasa-astronaut-anil-menon-to-leave-for-international-space-station-tomorrow/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNHY5tiaYAATrgc.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
