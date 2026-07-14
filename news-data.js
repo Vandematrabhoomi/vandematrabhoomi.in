@@ -1,8 +1,30 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-14T07:23:15.790274",
+  "generated": "2026-07-14T07:27:57.372822",
   "en": {
     "top": [
+      {
+        "title": "India reaffirms support for Palestine at Donor Group meeting",
+        "summary": "India participated in the Second Ministerial Meeting of the Palestine Donor Group, PDG, in Brussels yesterday. Addressing the meeting, Secretary (Consular, Passport and Visa, and Overseas Indian Affairs) in the Ministry of External Affairs, Sripriya Ranganathan, emphasised that India has been a long-standing partner of the Palestinian people. She underlined India’s ongoing developmental assistance",
+        "article": "India participated in the Second Ministerial Meeting of the Palestine Donor Group, PDG, in Brussels yesterday. Addressing the meeting, Secretary (Consular, Passport and Visa, and Overseas Indian Affairs) in the Ministry of External Affairs, Sripriya Ranganathan, emphasised that India has been a long-standing partner of the Palestinian people. She underlined India’s ongoing developmental assistance, including capacity-building programmes and humanitarian assistance to the people of Palestine. &nbsp; Ms Ranganathan noted that India’s projects are demand-driven and largely centred on healthcare, education, capacity building, and vocational training. She also announced several new projects focused on rehabilitation, health, education and vocational training. &nbsp; The secretary also attended a meeting hosted by the incoming Chair of the Advisory Commission of United Nations Relief and Works Agency for Palestine Refugees, wherein she highlighted India’s continued support to the Agency and its efforts in Palestine.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T07:26:44+00:00",
+        "link": "https://newsonair.gov.in/india-reaffirms-support-for-palestine-at-donor-group-meeting/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/99.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Parliamentary Affairs Minister Kiren Rijiju leaves for Doha to convey condolences on Father Amir’s demise",
+        "summary": "Minister of Parliamentary Affairs and Minority Affairs Kiren Rijiju today departed for Doha to convey condolences on behalf of the Government and people of India on the sad demise of Qatar&#8217;s Father Amir Sheikh Hamad bin Khalifa Al Thani. &#160; The Ministry of External Affairs said that Father Amir was instrumental in building modern Qatar […]",
+        "article": "Minister of Parliamentary Affairs and Minority Affairs Kiren Rijiju today departed for Doha to convey condolences on behalf of the Government and people of India on the sad demise of Qatar&#8217;s Father Amir Sheikh Hamad bin Khalifa Al Thani. &nbsp; The Ministry of External Affairs said that Father Amir was instrumental in building modern Qatar and a great friend of India. It said that Father Amir will be remembered for his invaluable contribution to building India-Qatar&#8217;s relationship.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T07:22:18+00:00",
+        "link": "https://newsonair.gov.in/parliamentary-affairs-minister-kiren-rijiju-leaves-for-doha-to-convey-condolences-on-father-amirs-demise/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Mortal remains of three Andhra tourists killed in Vietnam boat accident reach Hyderabad",
         "summary": "The mortal remains of the three Andhra tourists, who lost their lives in the boat accident in Vietnam reached Hyderabad this morning. Andhra Pradesh MSME Minister K. Srinivas received the bodies at Hyderabad airport. He supervised arrangements for transporting the bodies to the victims&#8217; native places in Machilipatnam, Hindupur and Kadapa. The State Government has […]",
@@ -110,28 +132,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T01:51:54+00:00",
         "link": "https://newsonair.gov.in/ukraine-nine-european-nations-form-coalition-for-europes-ballistic-missile-defence/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-8.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Indian crew member killed in Iranian missile strike on UAE tankers",
-        "summary": "An Indian crew member was killed, and six others were wounded after two United Arab Emirates tankers were struck by Iranian cruise missiles while transiting through Strait of Hormuz. The Defence Ministry of the UAE said this in a social media post today. &#160; The ministry said the tankers, the Mombasa and Al Bahiyah, were […]",
-        "article": "An Indian crew member was killed, and six others were wounded after two United Arab Emirates tankers were struck by Iranian cruise missiles while transiting through Strait of Hormuz. The Defence Ministry of the UAE said this in a social media post today. &nbsp; The ministry said the tankers, the Mombasa and Al Bahiyah, were targeted in the southern lane of the strait in ​Omani territorial waters. The dead crew member was aboard the Mombasa tanker. Of the eight wounded, four ​were seriously injured. Six of the wounded were Indian nationals and two were Ukrainian nationals. The UAE defence ministry condemned the attack, describing it as a blatant violation of international law and a serious threat to regional security and stability. The ministry affirmed that it remains on the highest level of readiness and preparedness to address any threats, and said that it is taking all necessary measures to respond decisively to any attempt to undermine the security and stability of the country. The latest incidents in the waterway come after weeks of heightened tensions in the West Asian region.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:48:33+00:00",
-        "link": "https://newsonair.gov.in/indian-crew-member-killed-in-iranian-missile-strike-on-uae-tankers/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/strait.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PMML to host ‘Walking with Legacy’ exhibition in New Delhi",
-        "summary": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, […]",
-        "article": "Walking sticks and batons are more than just functional objects. They reflect craftsmanship, durability and artistic expression. Showcasing this unique heritage, the Prime Ministers&#8217; Museum and Library (PMML) will organise a curated exhibition titled Walking with Legacy: From Necessity to Identity in New Delhi today. The exhibition is a curated showcase from the PMML Toshakhana, featuring walking sticks and batons as markers of identity and governance. Depending on their purpose, walking sticks and batons may be plain or richly ornamented. Their handles and shafts are enhanced with materials including ivory, bone, brass, silver, copper, gold, gemstones and enamel. The finished pieces are assembled and coated with wax, oil, shellac or varnish for protection and durability. Crafted from materials such as ebony, mahogany, rosewood, teak, sheesham, bamboo, malacca cane and other hardwoods, these objects showcase traditional woodworking techniques, including seasoning, shaping, turning and polishing. The exhibition will also showcase decorative elements such as nature-inspired motifs, floral and geometric patterns, family crests, emblems and symbolic designs, engraved inscriptions, and lacquer work with natural wood finishes, offering visitors a glimpse into the craftsmanship behind these remarkable objects.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T01:44:49+00:00",
-        "link": "https://newsonair.gov.in/pmml-to-host-walking-with-legacy-exhibition-in-new-delhi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pmml.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -477,6 +477,28 @@ window.VM_NEWS = {
     ],
     "world": [
       {
+        "title": "India reaffirms support for Palestine at Donor Group meeting",
+        "summary": "India participated in the Second Ministerial Meeting of the Palestine Donor Group, PDG, in Brussels yesterday. Addressing the meeting, Secretary (Consular, Passport and Visa, and Overseas Indian Affairs) in the Ministry of External Affairs, Sripriya Ranganathan, emphasised that India has been a long-standing partner of the Palestinian people. She underlined India’s ongoing developmental assistance",
+        "article": "India participated in the Second Ministerial Meeting of the Palestine Donor Group, PDG, in Brussels yesterday. Addressing the meeting, Secretary (Consular, Passport and Visa, and Overseas Indian Affairs) in the Ministry of External Affairs, Sripriya Ranganathan, emphasised that India has been a long-standing partner of the Palestinian people. She underlined India’s ongoing developmental assistance, including capacity-building programmes and humanitarian assistance to the people of Palestine. &nbsp; Ms Ranganathan noted that India’s projects are demand-driven and largely centred on healthcare, education, capacity building, and vocational training. She also announced several new projects focused on rehabilitation, health, education and vocational training. &nbsp; The secretary also attended a meeting hosted by the incoming Chair of the Advisory Commission of United Nations Relief and Works Agency for Palestine Refugees, wherein she highlighted India’s continued support to the Agency and its efforts in Palestine.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T07:26:44+00:00",
+        "link": "https://newsonair.gov.in/india-reaffirms-support-for-palestine-at-donor-group-meeting/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/99.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Parliamentary Affairs Minister Kiren Rijiju leaves for Doha to convey condolences on Father Amir’s demise",
+        "summary": "Minister of Parliamentary Affairs and Minority Affairs Kiren Rijiju today departed for Doha to convey condolences on behalf of the Government and people of India on the sad demise of Qatar&#8217;s Father Amir Sheikh Hamad bin Khalifa Al Thani. &#160; The Ministry of External Affairs said that Father Amir was instrumental in building modern Qatar […]",
+        "article": "Minister of Parliamentary Affairs and Minority Affairs Kiren Rijiju today departed for Doha to convey condolences on behalf of the Government and people of India on the sad demise of Qatar&#8217;s Father Amir Sheikh Hamad bin Khalifa Al Thani. &nbsp; The Ministry of External Affairs said that Father Amir was instrumental in building modern Qatar and a great friend of India. It said that Father Amir will be remembered for his invaluable contribution to building India-Qatar&#8217;s relationship.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T07:22:18+00:00",
+        "link": "https://newsonair.gov.in/parliamentary-affairs-minister-kiren-rijiju-leaves-for-doha-to-convey-condolences-on-father-amirs-demise/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-2.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Bangkok music bar fire death toll rises to 30",
         "summary": "The death toll from a huge fire in a Bangkok music bar has increased to 30. Bangkok city officials today said more than 70 people remain hospitalised, with 24 of them are in critical condition. Police said an investigation into the cause of the fire and whether the bar was following safety regulations is ongoing. […]",
         "article": "The death toll from a huge fire in a Bangkok music bar has increased to 30. Bangkok city officials today said more than 70 people remain hospitalised, with 24 of them are in critical condition. Police said an investigation into the cause of the fire and whether the bar was following safety regulations is ongoing. It added most of the people who killed were found trapped in windowless bathrooms where they may have sought to escape the flames. The city&#8217;s deadliest blaze in 17 years at the Rong Beer Na Ladprao bar broke out on late Sunday in a northern part of the Thai capital. The bar claimed to accommodate as many as 600 customers. It was not clear how many were present on Sunday night.",
@@ -561,28 +583,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T16:46:09+00:00",
         "link": "https://newsonair.gov.in/indian-origin-astronaut-anil-menon-set-to-begin-eight-month-iss-mission/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/anil.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "UK: Oxford Begins Human Trial of New Ebola Vaccine",
-        "summary": "A new vaccine to combat a strain of Ebola spreading across the Democratic Republic of Congo will soon be tested on adults in the United Kingdom. Scientists at the University of Oxford have been working to develop a jab to protect against the Bundibugyo type of Ebola and now plan to assess its safety and […]",
-        "article": "A new vaccine to combat a strain of Ebola spreading across the Democratic Republic of Congo will soon be tested on adults in the United Kingdom. Scientists at the University of Oxford have been working to develop a jab to protect against the Bundibugyo type of Ebola and now plan to assess its safety and immune response in 50 healthy adults aged 18 to 55. Scientists started developing the vaccine eight weeks ago when when the World Health Organisation (WHO) recommended prioritizing the development of an Ebola vaccine, shortly after the outbreak was declared on 17th of May. It is the first &#8211; out of four vaccines under development &#8211; to enter clinical trials. Volunteers are now being recruited for the trial, and the vaccinations will begin in the coming weeks after the UK regulator gave permission for trials to take place. The Ebola epidemic has killed 625 people in the Democratic Republic of the Congo with 1,792 laboratory confirmed cases.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T14:59:07+00:00",
-        "link": "https://newsonair.gov.in/uk-oxford-begins-human-trial-of-new-ebola-vaccine/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/Russian-scientists-develop-new-vaccine-against-latest-strain-of-Ebola-virus.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Piyush Goyal discusses Boosting Trade, Investment, Technology Ties During Spain Visit",
-        "summary": "Commerce and Industry Minister Piyush Goyal today began his official engagements in Spain by meeting First Vice President of the Government of Spain and Minister of Economy, Trade and Business, Carlos Cuerpo Caballero. &#160; In a social media post, Mr Goyal said that they had productive discussions on strengthening the India-Spain economic partnership through greater […]",
-        "article": "Commerce and Industry Minister Piyush Goyal today began his official engagements in Spain by meeting First Vice President of the Government of Spain and Minister of Economy, Trade and Business, Carlos Cuerpo Caballero. &nbsp; In a social media post, Mr Goyal said that they had productive discussions on strengthening the India-Spain economic partnership through greater trade, investment and technology collaboration. &nbsp; He said, the discussion also focused on renewable energy, green hydrogen, advanced manufacturing, digital technologies, infrastructure and innovation. He added that both sides also exchanged views on the India-EU Free Trade Agreement and explored ways to deepen business ties and expand India&#8217;s commercial engagement with Spain as a valued partner. Mr Goyal is currently on a five-day visit to Spain, Belgium and Finland from today.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T13:13:46+00:00",
-        "link": "https://newsonair.gov.in/piyush-goyal-discusses-boosting-trade-investment-technology-ties-during-spain-visit/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/piyush-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -1095,8 +1095,8 @@ window.VM_NEWS = {
       },
       {
         "title": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली में शुरू हुआ",
-        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरराज सिंह ने इस चार दिवसीय कार्यक्रम का उद्घाटन किया। यह कार्यक्रम कपड़ा, फैशन, टिकाऊ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसने […]",
-        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरराज सिंह ने इस चार दिवसीय कार्यक्रम का उद्घाटन किया। यह कार्यक्रम कपड़ा, फैशन, टिकाऊ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसने निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, अंतर्राष्ट्रीय प्रतिनिधिमंडलों, कारीगरों, स्टार्ट-अप और प्रौद्योगिकी प्रदाताओं को एक साथ लाया है। प्रधानमंत्री नरेंद्र मोदी के 5एफ विज़न- फार्म टू फाइबर टू फैक्ट्री टू फैशन टू फॉरेन से प्रेरित होकर भारत टेक्स 2026 कपड़ा मूल्य श्रृंखला में व्यवसाय, निवेश, नवाचार, नीति संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख वैश्विक मंच के रूप में विकसित हुआ है। भारत टेक्स 2026 के इस तीसरे संस्करण में लगभग सात हजार खरीदार और 20 हजार से अधिक कपड़ा उत्पादों की भागीदारी देखी जा रही है। इस कार्यक्रम में 14 देशों के अंतर्राष्ट्रीय प्रदर्शक भाग ले रहे हैं। इस आयोजन में 20 से अधिक देशों के अंतर्राष्ट्रीय विशेषज्ञ, राष्ट्रीय उद्योग जगत के नेता, नीति निर्माता और विचारक सहित 350 से अधिक वक्ता शामिल होंगे।",
+        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम, भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरिराज सिंह ने आज इस कार्यक्रम का उद्घाटन किया। संवाददाताओं से बातचीत में श्री सिंह ने कहा कि भारत टेक्स प्रधानमंत्री का दृष्टिकोण है। उन्होंने कहा कि यह अब एक अंतर्राष्ट्रीय आयोजन बन […]",
+        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम, भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरिराज सिंह ने आज इस कार्यक्रम का उद्घाटन किया। संवाददाताओं से बातचीत में श्री सिंह ने कहा कि भारत टेक्स प्रधानमंत्री का दृष्टिकोण है। उन्होंने कहा कि यह अब एक अंतर्राष्ट्रीय आयोजन बन चुका है और हर साल इसमें प्रदर्शकों, खरीदारों, विक्रेताओं और आगंतुकों की संख्या में वृद्धि हुई है। उन्होंने बताया कि इस वर्ष इस कार्यक्रम में 130 देशों के 60 हजार से अधिक खरीदार और प्रदर्शक भाग ले रहे हैं। श्री सिंह ने कहा कि सुक्ष्म लघु और मध्यम उद्यमी भी भारत टेक्स में शामिल हो रहे हैं। उन्होंने कहा कि विभिन्न देशों के साथ किए गए मुक्त व्यापार समझौते भी वस्त्र क्षेत्र को लाभ पहुँचा रहे हैं। उद्घाटन समारोह में वस्त्र राज्य मंत्री पबित्रा मार्गेरिटा और विभिन्न राज्यों के वस्त्र मंत्रियों ने भी भाग लिया। यह कार्यक्रम कपड़ा, फैशन, टिकाउ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसमें निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, अंतर्राष्ट्रीय प्रतिनिधिमंडलों, कारीगरों, स्टार्ट-अप और प्रौद्योगिकी प्रदाताओं को एक साथ लाया गया है। प्रधानमंत्री नरेंद्र मोदी के 5एफ विज़न- फार्म टू फाइबर टू फैक्ट्री टू फैशन टू फॉरेन से प्रेरित होकर भारत टेक्स 2026 कपड़ा मूल्य श्रृंखला में व्यवसाय, निवेश, नवाचार, नीति संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख वैश्विक मंच के रूप में विकसित हुआ है। भारत टेक्स 2026 के इस तीसरे संस्करण में लगभग सात हजार खरीदार और 20 हजार से अधिक कपड़ा उत्पादों की भागीदारी देखी जा रही है। इस कार्यक्रम में 14 देशों के अंतर्राष्ट्रीय प्रदर्शक भाग ले रहे हैं। इस आयोजन में 20 से अधिक देशों के अंतर्राष्ट्रीय विशेषज्ञ, राष्ट्रीय उद्योग जगत के नेता, नीति निर्माता और विचारक सहित 350 से अधिक वक्ता शामिल होंगे।",
         "date": "2026-07-14",
         "pubDate": "2026-07-14T05:57:27+00:00",
         "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
@@ -1207,8 +1207,8 @@ window.VM_NEWS = {
       },
       {
         "title": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली में शुरू हुआ",
-        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरराज सिंह ने इस चार दिवसीय कार्यक्रम का उद्घाटन किया। यह कार्यक्रम कपड़ा, फैशन, टिकाऊ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसने […]",
-        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरराज सिंह ने इस चार दिवसीय कार्यक्रम का उद्घाटन किया। यह कार्यक्रम कपड़ा, फैशन, टिकाऊ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसने निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, अंतर्राष्ट्रीय प्रतिनिधिमंडलों, कारीगरों, स्टार्ट-अप और प्रौद्योगिकी प्रदाताओं को एक साथ लाया है। प्रधानमंत्री नरेंद्र मोदी के 5एफ विज़न- फार्म टू फाइबर टू फैक्ट्री टू फैशन टू फॉरेन से प्रेरित होकर भारत टेक्स 2026 कपड़ा मूल्य श्रृंखला में व्यवसाय, निवेश, नवाचार, नीति संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख वैश्विक मंच के रूप में विकसित हुआ है। भारत टेक्स 2026 के इस तीसरे संस्करण में लगभग सात हजार खरीदार और 20 हजार से अधिक कपड़ा उत्पादों की भागीदारी देखी जा रही है। इस कार्यक्रम में 14 देशों के अंतर्राष्ट्रीय प्रदर्शक भाग ले रहे हैं। इस आयोजन में 20 से अधिक देशों के अंतर्राष्ट्रीय विशेषज्ञ, राष्ट्रीय उद्योग जगत के नेता, नीति निर्माता और विचारक सहित 350 से अधिक वक्ता शामिल होंगे।",
+        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम, भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरिराज सिंह ने आज इस कार्यक्रम का उद्घाटन किया। संवाददाताओं से बातचीत में श्री सिंह ने कहा कि भारत टेक्स प्रधानमंत्री का दृष्टिकोण है। उन्होंने कहा कि यह अब एक अंतर्राष्ट्रीय आयोजन बन […]",
+        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम, भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरिराज सिंह ने आज इस कार्यक्रम का उद्घाटन किया। संवाददाताओं से बातचीत में श्री सिंह ने कहा कि भारत टेक्स प्रधानमंत्री का दृष्टिकोण है। उन्होंने कहा कि यह अब एक अंतर्राष्ट्रीय आयोजन बन चुका है और हर साल इसमें प्रदर्शकों, खरीदारों, विक्रेताओं और आगंतुकों की संख्या में वृद्धि हुई है। उन्होंने बताया कि इस वर्ष इस कार्यक्रम में 130 देशों के 60 हजार से अधिक खरीदार और प्रदर्शक भाग ले रहे हैं। श्री सिंह ने कहा कि सुक्ष्म लघु और मध्यम उद्यमी भी भारत टेक्स में शामिल हो रहे हैं। उन्होंने कहा कि विभिन्न देशों के साथ किए गए मुक्त व्यापार समझौते भी वस्त्र क्षेत्र को लाभ पहुँचा रहे हैं। उद्घाटन समारोह में वस्त्र राज्य मंत्री पबित्रा मार्गेरिटा और विभिन्न राज्यों के वस्त्र मंत्रियों ने भी भाग लिया। यह कार्यक्रम कपड़ा, फैशन, टिकाउ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसमें निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, अंतर्राष्ट्रीय प्रतिनिधिमंडलों, कारीगरों, स्टार्ट-अप और प्रौद्योगिकी प्रदाताओं को एक साथ लाया गया है। प्रधानमंत्री नरेंद्र मोदी के 5एफ विज़न- फार्म टू फाइबर टू फैक्ट्री टू फैशन टू फॉरेन से प्रेरित होकर भारत टेक्स 2026 कपड़ा मूल्य श्रृंखला में व्यवसाय, निवेश, नवाचार, नीति संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख वैश्विक मंच के रूप में विकसित हुआ है। भारत टेक्स 2026 के इस तीसरे संस्करण में लगभग सात हजार खरीदार और 20 हजार से अधिक कपड़ा उत्पादों की भागीदारी देखी जा रही है। इस कार्यक्रम में 14 देशों के अंतर्राष्ट्रीय प्रदर्शक भाग ले रहे हैं। इस आयोजन में 20 से अधिक देशों के अंतर्राष्ट्रीय विशेषज्ञ, राष्ट्रीय उद्योग जगत के नेता, नीति निर्माता और विचारक सहित 350 से अधिक वक्ता शामिल होंगे।",
         "date": "2026-07-14",
         "pubDate": "2026-07-14T05:57:27+00:00",
         "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
@@ -1250,6 +1250,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
+        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
+        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:49:09+00:00",
+        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "एनटीए ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी किए",
         "summary": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्‍तर देख सकते है। उम्‍मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े […]",
         "article": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्&#x200d;तर देख सकते है। उम्&#x200d;मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार प्रश्न का चयन करके अपने चुने हुए विकल्प पर निशान लगा सकते हैं और 200 रुपये के शुल्क का भुगतान करके चुनौती दे सकते हैं। एजेंसी ने स्पष्ट किया है कि चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। ओएमआर चुनौती सुविधा इस महीने की 15 तारीख तक उपलब्ध रहेगी। उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
@@ -1258,18 +1269,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/the-nta-released-the-omr-sheets-and-recorded-responses-for-the-neet-ug-2026-re-examination/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
-        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
-        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:49:09+00:00",
-        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
-        "post_id": 1736495,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -1320,8 +1319,8 @@ window.VM_NEWS = {
       },
       {
         "title": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली में शुरू हुआ",
-        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरराज सिंह ने इस चार दिवसीय कार्यक्रम का उद्घाटन किया। यह कार्यक्रम कपड़ा, फैशन, टिकाऊ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसने […]",
-        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरराज सिंह ने इस चार दिवसीय कार्यक्रम का उद्घाटन किया। यह कार्यक्रम कपड़ा, फैशन, टिकाऊ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसने निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, अंतर्राष्ट्रीय प्रतिनिधिमंडलों, कारीगरों, स्टार्ट-अप और प्रौद्योगिकी प्रदाताओं को एक साथ लाया है। प्रधानमंत्री नरेंद्र मोदी के 5एफ विज़न- फार्म टू फाइबर टू फैक्ट्री टू फैशन टू फॉरेन से प्रेरित होकर भारत टेक्स 2026 कपड़ा मूल्य श्रृंखला में व्यवसाय, निवेश, नवाचार, नीति संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख वैश्विक मंच के रूप में विकसित हुआ है। भारत टेक्स 2026 के इस तीसरे संस्करण में लगभग सात हजार खरीदार और 20 हजार से अधिक कपड़ा उत्पादों की भागीदारी देखी जा रही है। इस कार्यक्रम में 14 देशों के अंतर्राष्ट्रीय प्रदर्शक भाग ले रहे हैं। इस आयोजन में 20 से अधिक देशों के अंतर्राष्ट्रीय विशेषज्ञ, राष्ट्रीय उद्योग जगत के नेता, नीति निर्माता और विचारक सहित 350 से अधिक वक्ता शामिल होंगे।",
+        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम, भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरिराज सिंह ने आज इस कार्यक्रम का उद्घाटन किया। संवाददाताओं से बातचीत में श्री सिंह ने कहा कि भारत टेक्स प्रधानमंत्री का दृष्टिकोण है। उन्होंने कहा कि यह अब एक अंतर्राष्ट्रीय आयोजन बन […]",
+        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम, भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरिराज सिंह ने आज इस कार्यक्रम का उद्घाटन किया। संवाददाताओं से बातचीत में श्री सिंह ने कहा कि भारत टेक्स प्रधानमंत्री का दृष्टिकोण है। उन्होंने कहा कि यह अब एक अंतर्राष्ट्रीय आयोजन बन चुका है और हर साल इसमें प्रदर्शकों, खरीदारों, विक्रेताओं और आगंतुकों की संख्या में वृद्धि हुई है। उन्होंने बताया कि इस वर्ष इस कार्यक्रम में 130 देशों के 60 हजार से अधिक खरीदार और प्रदर्शक भाग ले रहे हैं। श्री सिंह ने कहा कि सुक्ष्म लघु और मध्यम उद्यमी भी भारत टेक्स में शामिल हो रहे हैं। उन्होंने कहा कि विभिन्न देशों के साथ किए गए मुक्त व्यापार समझौते भी वस्त्र क्षेत्र को लाभ पहुँचा रहे हैं। उद्घाटन समारोह में वस्त्र राज्य मंत्री पबित्रा मार्गेरिटा और विभिन्न राज्यों के वस्त्र मंत्रियों ने भी भाग लिया। यह कार्यक्रम कपड़ा, फैशन, टिकाउ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसमें निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, अंतर्राष्ट्रीय प्रतिनिधिमंडलों, कारीगरों, स्टार्ट-अप और प्रौद्योगिकी प्रदाताओं को एक साथ लाया गया है। प्रधानमंत्री नरेंद्र मोदी के 5एफ विज़न- फार्म टू फाइबर टू फैक्ट्री टू फैशन टू फॉरेन से प्रेरित होकर भारत टेक्स 2026 कपड़ा मूल्य श्रृंखला में व्यवसाय, निवेश, नवाचार, नीति संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख वैश्विक मंच के रूप में विकसित हुआ है। भारत टेक्स 2026 के इस तीसरे संस्करण में लगभग सात हजार खरीदार और 20 हजार से अधिक कपड़ा उत्पादों की भागीदारी देखी जा रही है। इस कार्यक्रम में 14 देशों के अंतर्राष्ट्रीय प्रदर्शक भाग ले रहे हैं। इस आयोजन में 20 से अधिक देशों के अंतर्राष्ट्रीय विशेषज्ञ, राष्ट्रीय उद्योग जगत के नेता, नीति निर्माता और विचारक सहित 350 से अधिक वक्ता शामिल होंगे।",
         "date": "2026-07-14",
         "pubDate": "2026-07-14T05:57:27+00:00",
         "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
@@ -1363,6 +1362,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
+        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
+        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:49:09+00:00",
+        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "एनटीए ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी किए",
         "summary": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्‍तर देख सकते है। उम्‍मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े […]",
         "article": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्&#x200d;तर देख सकते है। उम्&#x200d;मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार प्रश्न का चयन करके अपने चुने हुए विकल्प पर निशान लगा सकते हैं और 200 रुपये के शुल्क का भुगतान करके चुनौती दे सकते हैं। एजेंसी ने स्पष्ट किया है कि चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। ओएमआर चुनौती सुविधा इस महीने की 15 तारीख तक उपलब्ध रहेगी। उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
@@ -1371,18 +1381,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/the-nta-released-the-omr-sheets-and-recorded-responses-for-the-neet-ug-2026-re-examination/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
-        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
-        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:49:09+00:00",
-        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
-        "post_id": 1736495,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -1433,8 +1431,8 @@ window.VM_NEWS = {
       },
       {
         "title": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली में शुरू हुआ",
-        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरराज सिंह ने इस चार दिवसीय कार्यक्रम का उद्घाटन किया। यह कार्यक्रम कपड़ा, फैशन, टिकाऊ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसने […]",
-        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरराज सिंह ने इस चार दिवसीय कार्यक्रम का उद्घाटन किया। यह कार्यक्रम कपड़ा, फैशन, टिकाऊ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसने निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, अंतर्राष्ट्रीय प्रतिनिधिमंडलों, कारीगरों, स्टार्ट-अप और प्रौद्योगिकी प्रदाताओं को एक साथ लाया है। प्रधानमंत्री नरेंद्र मोदी के 5एफ विज़न- फार्म टू फाइबर टू फैक्ट्री टू फैशन टू फॉरेन से प्रेरित होकर भारत टेक्स 2026 कपड़ा मूल्य श्रृंखला में व्यवसाय, निवेश, नवाचार, नीति संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख वैश्विक मंच के रूप में विकसित हुआ है। भारत टेक्स 2026 के इस तीसरे संस्करण में लगभग सात हजार खरीदार और 20 हजार से अधिक कपड़ा उत्पादों की भागीदारी देखी जा रही है। इस कार्यक्रम में 14 देशों के अंतर्राष्ट्रीय प्रदर्शक भाग ले रहे हैं। इस आयोजन में 20 से अधिक देशों के अंतर्राष्ट्रीय विशेषज्ञ, राष्ट्रीय उद्योग जगत के नेता, नीति निर्माता और विचारक सहित 350 से अधिक वक्ता शामिल होंगे।",
+        "summary": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम, भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरिराज सिंह ने आज इस कार्यक्रम का उद्घाटन किया। संवाददाताओं से बातचीत में श्री सिंह ने कहा कि भारत टेक्स प्रधानमंत्री का दृष्टिकोण है। उन्होंने कहा कि यह अब एक अंतर्राष्ट्रीय आयोजन बन […]",
+        "article": "भारत का सबसे बड़ा वैश्विक वस्त्र कार्यक्रम, भारत टेक्स 2026 आज नई दिल्ली के भारत मंडपम में शुरू हुआ। केंद्रीय वस्त्र मंत्री गिरिराज सिंह ने आज इस कार्यक्रम का उद्घाटन किया। संवाददाताओं से बातचीत में श्री सिंह ने कहा कि भारत टेक्स प्रधानमंत्री का दृष्टिकोण है। उन्होंने कहा कि यह अब एक अंतर्राष्ट्रीय आयोजन बन चुका है और हर साल इसमें प्रदर्शकों, खरीदारों, विक्रेताओं और आगंतुकों की संख्या में वृद्धि हुई है। उन्होंने बताया कि इस वर्ष इस कार्यक्रम में 130 देशों के 60 हजार से अधिक खरीदार और प्रदर्शक भाग ले रहे हैं। श्री सिंह ने कहा कि सुक्ष्म लघु और मध्यम उद्यमी भी भारत टेक्स में शामिल हो रहे हैं। उन्होंने कहा कि विभिन्न देशों के साथ किए गए मुक्त व्यापार समझौते भी वस्त्र क्षेत्र को लाभ पहुँचा रहे हैं। उद्घाटन समारोह में वस्त्र राज्य मंत्री पबित्रा मार्गेरिटा और विभिन्न राज्यों के वस्त्र मंत्रियों ने भी भाग लिया। यह कार्यक्रम कपड़ा, फैशन, टिकाउ, प्रौद्योगिकी, नवाचार, निवेश और अंतर्राष्ट्रीय व्यापार में भारत के बढ़ते वैश्विक नेतृत्व को प्रदर्शित कर रहा है। इसमें निर्माताओं, निर्यातकों, वैश्विक खरीदारों, निवेशकों, नीति निर्माताओं, अंतर्राष्ट्रीय प्रतिनिधिमंडलों, कारीगरों, स्टार्ट-अप और प्रौद्योगिकी प्रदाताओं को एक साथ लाया गया है। प्रधानमंत्री नरेंद्र मोदी के 5एफ विज़न- फार्म टू फाइबर टू फैक्ट्री टू फैशन टू फॉरेन से प्रेरित होकर भारत टेक्स 2026 कपड़ा मूल्य श्रृंखला में व्यवसाय, निवेश, नवाचार, नीति संवाद और रणनीतिक साझेदारी के लिए एक प्रमुख वैश्विक मंच के रूप में विकसित हुआ है। भारत टेक्स 2026 के इस तीसरे संस्करण में लगभग सात हजार खरीदार और 20 हजार से अधिक कपड़ा उत्पादों की भागीदारी देखी जा रही है। इस कार्यक्रम में 14 देशों के अंतर्राष्ट्रीय प्रदर्शक भाग ले रहे हैं। इस आयोजन में 20 से अधिक देशों के अंतर्राष्ट्रीय विशेषज्ञ, राष्ट्रीय उद्योग जगत के नेता, नीति निर्माता और विचारक सहित 350 से अधिक वक्ता शामिल होंगे।",
         "date": "2026-07-14",
         "pubDate": "2026-07-14T05:57:27+00:00",
         "link": "https://newsonair.gov.in/hi/indias-largest-global-textile-conference-bharat-tex-2026-will-begin-in-new-delhi-today/",
@@ -1476,6 +1474,17 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
+        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
+        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:49:09+00:00",
+        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "एनटीए ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी किए",
         "summary": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्‍तर देख सकते है। उम्‍मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े […]",
         "article": "राष्ट्रीय परीक्षा एजेंसी (एनटीए) ने नीट-यूजी 2026 की पुनर्परीक्षा की ओएमआर शीट और रिकॉर्ड किए गए उत्तर जारी कर दिए हैं। एजेंसी ने बताया कि उम्मीदवार एनटीए की वेबसाइट neet.nta.nic.in. पर अपने आवेदन नंबर लॉग इन कर के अपनी ओएमआर शीट और उत्&#x200d;तर देख सकते है। उम्&#x200d;मीदवार अपने चिह्नित उत्तरों की तुलना स्कैनर द्वारा पढ़े गए उत्तरों से कर सकते हैं। यदि कोई उत्तर मेल नहीं खाता है, तो उम्मीदवार प्रश्न का चयन करके अपने चुने हुए विकल्प पर निशान लगा सकते हैं और 200 रुपये के शुल्क का भुगतान करके चुनौती दे सकते हैं। एजेंसी ने स्पष्ट किया है कि चुनौती सही पाए जाने पर शुल्क वापस कर दिया जाएगा। ओएमआर चुनौती सुविधा इस महीने की 15 तारीख तक उपलब्ध रहेगी। उम्मीदवार एनटीए हेल्पलाइन नंबर 011-40759000 और 011-69227700 पर संपर्क कर सकते हैं और neetug2026@nta.ac.in पर ईमेल लिख सकते हैं।",
@@ -1484,18 +1493,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/the-nta-released-the-omr-sheets-and-recorded-responses-for-the-neet-ug-2026-re-examination/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/nta-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
-        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
-        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:49:09+00:00",
-        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
-        "post_id": 1736495,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -1589,17 +1586,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
-        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
-        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T00:49:09+00:00",
-        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/oil.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "कल अंतरराष्ट्रीय अंतरिक्ष स्टेशन के लिए रवाना होंगे भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन",
         "summary": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन कल अंतरराष्ट्रीय अंतरिक्ष स्टेशन के लिए रवाना होंगे। वे कज़ाख़स्तान के बैकोनूर अंतरिक्ष केंद्र से दो रूसी अंतरिक्ष यात्रियों के साथ रोस्कोस्मोस के सोयुज़ एमएस-29 अंतरिक्ष यान से उड़ान भरेंगे। अंतरिक्ष यान का प्रक्षेपण भारतीय समयानुसार कल रात आठ बजकर 17 मिनट पर होगा। इसके लगभग साढ़े […]",
         "article": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन कल अंतरराष्ट्रीय अंतरिक्ष स्टेशन के लिए रवाना होंगे। वे कज़ाख़स्तान के बैकोनूर अंतरिक्ष केंद्र से दो रूसी अंतरिक्ष यात्रियों के साथ रोस्कोस्मोस के सोयुज़ एमएस-29 अंतरिक्ष यान से उड़ान भरेंगे। अंतरिक्ष यान का प्रक्षेपण भारतीय समयानुसार कल रात आठ बजकर 17 मिनट पर होगा। इसके लगभग साढ़े तीन घंटे बाद यह अंतरराष्ट्रीय अंतरिक्ष स्टेशन से जुड़ेगा। अनिल मेनन के साथ रूस के अंतरिक्ष यात्री प्योत्र दुब्रोव और अन्ना किकीना भी अंतरराष्ट्रीय अंतरिक्ष स्टेशन के 75वें अभियान का हिस्सा होंगे। अंतरिक्ष यात्री बुधवार तड़के करीब 1 बजकर 25 मिनट पर अंतरिक्ष स्टेशन में प्रवेश करेंगे। 49 वर्षीय अनिल मेनन आपातकालीन चिकित्सा विशेषज्ञ और अमरीकी स्पेस फोर्स में कर्नल हैं। उनका जन्म अमरीका के मिनियापोलिस में भारतीय और यूक्रेनी मूल के परिवार में हुआ था। वे अमरीकी वायुसेना में सेवा दे चुके हैं और माउंट एवरेस्ट पर पर्वतारोहियों की चिकित्सा सहायता के लिए हिमालयन रेस्क्यू एसोसिएशन के साथ भी काम कर चुके हैं।",
@@ -1608,6 +1594,18 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/indian-origin-nasa-astronaut-anil-menon-to-leave-for-international-space-station-tomorrow/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNHY5tiaYAATrgc.png",
         "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका के ईरानी बंदरगाहों की नाकेबंदी फिर लागू करने के घोषणा के बाद कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज",
+        "summary": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव […]",
+        "article": "अमरीका द्वारा ईरानी बंदरगाहों की नाकेबंदी फिर से लागू करने की घोषणा के बाद वैश्विक बाजार में कच्चे तेल की कीमतों में तेज़ बढ़ोतरी दर्ज की गई है। अंतर्राष्ट्रीय बेंचमार्क ब्रेंट क्रूड की कीमत करीब 9.6% बढ़कर तिरासी डॉलर तीस सेंट प्रति बैरल पर पहुंच गई। वहीं, अमरीकी बेंचमार्क वेस्ट टेक्सास इंटरमीडिएट करीब नौ दशमलव चार प्रतिशत बढ़कर अठहत्तर डॉलर चौदह सेंट प्रति बैरल पर बंद हुआ।",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T00:49:09+00:00",
+        "link": "https://newsonair.gov.in/hi/a-sharp-rise-in-crude-oil-prices-was-recorded-following-the-us-announcement-to-reimpose-a-blockade-on-iranian-ports/",
+        "post_id": 1736495,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
