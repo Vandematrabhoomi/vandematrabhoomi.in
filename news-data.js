@@ -1,8 +1,63 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-15T05:59:50.295967",
+  "generated": "2026-07-15T07:27:28.427520",
   "en": {
     "top": [
+      {
+        "title": "Industry bodies hail India-UK Free Trade Agreement as historic milestone",
+        "summary": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on […]",
+        "article": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on the operationalisation of the India-UK CETA. He said that by facilitating greater co-operation in innovation, technology, and talent mobility, it will also help enhance the competitiveness of Indian industry. ASSOCHAM President, Nirmal Kumar Minda said, the agreement marks a historic milestone in India&#8217;s FTA journey, bringing together two of the world&#8217;s oldest democracies through a comprehensive free trade partnership. He said, under the agreement, 99 per cent of India&#8217;s exports to the UK will enjoy duty-free access. Mr Minda said, the agreement is expected to significantly benefit Indian sectors such as textiles, leather, marine products, gems and jewellery, engineering goods, and chemicals. Chairman of the Trade Promotion Council of India, Mohit Singla, said the operationalisation of the India-UK trade agreement marks a historic milestone in strengthening one of India’s most important economic partnerships. He said, this landmark agreement opens a new chapter of opportunity for Indian exporters by providing enhanced market access, greater predictability, and a level playing field in the UK market.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T07:19:17+00:00",
+        "link": "https://newsonair.gov.in/industry-bodies-hail-india-uk-free-trade-agreement-as-historic-milestone/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India-UK CETA strengthens economic ties between India and UK: Union Minister Pralhad Joshi",
+        "summary": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
+        "article": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:23:11+00:00",
+        "link": "https://newsonair.gov.in/india-uk-ceta-strengthens-economic-ties-between-india-and-uk-union-minister-pralhad-joshi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Union-Consumer-Affairs-Minister-Pralhad-Joshi.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Defence Minister Rajnath Singh says India-UK CETA strengthens India’s economic growth & global partnerships",
+        "summary": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit […]",
+        "article": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit professionals working in the UK, opening new avenues for jobs and investment. Mr Singh underlined that India, guided by the leadership of Prime Minister Narendra Modi, continues to secure agreements that strengthen the country’s economy, expand global opportunities and contribute to the vision of a Viksit Bharat.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:19:43+00:00",
+        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-says-india-uk-ceta-strengthens-indias-economic-growth-global-partnerships/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/rajnath-6.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India says confidence in UN declining over lack of Security Council reforms",
+        "summary": "India has warned that people&#8217;s confidence in the United Nations is declining due to the failure to reform the UN Security Council and effectively address global conflicts. Speaking at a ministerial roundtable on &#8220;Making Multilateralism Fit for the Future&#8221; at the UN, India&#8217;s Permanent Representative P. Harish said the Security Council has failed to intervene […]",
+        "article": "India has warned that people&#8217;s confidence in the United Nations is declining due to the failure to reform the UN Security Council and effectively address global conflicts. Speaking at a ministerial roundtable on &#8220;Making Multilateralism Fit for the Future&#8221; at the UN, India&#8217;s Permanent Representative P. Harish said the Security Council has failed to intervene meaningfully in ongoing conflicts, raising questions about its ability to uphold international peace and security. He said the 80-year-old UN architecture is no longer adequate to meet present-day global challenges. Mr. Harish noted that negotiations on Security Council reforms have remained stuck in an endless cycle of statements without tangible progress. He said the Action Points under the Pact for the Future, including ending violence, racism and xenophobia, promoting gender equality, and strengthening peacekeeping, have largely remained on paper. Calling the situation untenable, he stressed that meaningful reforms are urgently needed. Harish said India had significant reservations on some of the Pact&#8217;s action points. However, he added that India supported the Pact in a constructive spirit. He also called for revitalising the UN General Assembly and strengthening the role of the Economic and Social Council in advancing sustainable development. In the Global South, Harish reaffirmed India&#8217;s commitment to mobilising resources and ensuring that no country is left behind. He also urged international financial institutions to become more representative, responsive and development-oriented, while preserving their core mandates. He said adequate, affordable and predictable financing remains essential for achieving the Sustainable Development Goals.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:14:11+00:00",
+        "link": "https://newsonair.gov.in/india-says-confidence-in-un-declining-over-lack-of-security-council-reforms/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/UN-P-Harish.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Vice President, PM Modi pay tribute to K Kamaraj on birth anniversary",
+        "summary": "Vice President C P Radhakrishnan and Prime Minister Narendra Modi have paid tribute to the freedom fighter, and statesman K Kamaraj on his birth anniversary today. &#160; In a social media post, the Vice President described him as one of the tallest leaders of Indian politics. He noted that Kamraj was a symbol of simplicity, […]",
+        "article": "Vice President C P Radhakrishnan and Prime Minister Narendra Modi have paid tribute to the freedom fighter, and statesman K Kamaraj on his birth anniversary today. &nbsp; In a social media post, the Vice President described him as one of the tallest leaders of Indian politics. He noted that Kamraj was a symbol of simplicity, integrity and selfless public service. &nbsp; Mr Radhakrishnan highlighted that Kamaraj played a pivotal role in India’s freedom struggle and transformed countless lives through his pioneering efforts to expand education and promote inclusive development. The Vice President noted that his enduring legacy of service and nation-building continues to inspire generations. While the Prime Minister said that K Kamaraj was a stalwart of India’s freedom movement and an exceptional public figure. Mr Modi noted that Kamraj dedicated his life to nation-building and his unwavering commitment to areas like education, inclusive development and the welfare of the underprivileged continues to guide generations.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:10:40+00:00",
+        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-pays-tribute-to-k-kamaraj-on-birth-anniversary/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/apye-yo.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Lok Sabha Speaker Om Birla greets youth on World Youth Skills Day",
         "summary": "On the occasion of World Youth Skills Day, Lok Sabha Speaker Om Birla said that the greatest strength of India is its youth power. In a social media post, Mr Birla said that the energy, talent, and innovation of the youth are the strongest foundation for realising the vision of a Viksit Bharat. He extended […]",
@@ -79,64 +134,53 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-4-2.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Sarbananda Sonowal launches ‘Seafarer-First’ initiative to safeguard Indian seafarers in conflict-affected region",
-        "summary": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure",
-        "article": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure their safety and welfare. Chairing a high-level inter-ministerial review meeting in New Delhi, Mr Sonowal ordered real-time vessel-by-vessel monitoring, and the appointment of dedicated liaison officers for every affected Indian seafarer in the region. The Minister also ordered for round-the-clock coordination by the Ministry of Ports, Shipping and Waterways, in association with Ministry of External Affairs, Petroleum and Natural Gas, Chemicals and Fertilisers, the Indian Navy, the Directorate General of Shipping and Indian Missions in Iran and Oman. &nbsp; The Minister directed the Directorate General of Shipping to establish a real-time operational dashboard to track every Indian seafarer aboard vessels operating in the Persian Gulf, the Strait of Hormuz and the Gulf of Oman, irrespective of the vessel&#8217;s flag. He also instructed authorities to coordinate closely with Indian Missions in Iran, Oman and the UAE for real-time information on navigational safety, medical evacuation and repatriation. Mr Sonowal further directed shipowners, vessel managers and recruitment agencies to ensure that no Indian seafarer is compelled to sail without adequate information, protection and support. He said the government remains committed to safeguarding Indian seafarers and ensuring the uninterrupted movement of global trade through the region. &nbsp; The review comes in the wake of attacks on merchant vessels MT Al Bahiyah and MT Mombasa in the Strait of Hormuz. The two vessels had 30 Indian seafarers among a total crew of 46. One Indian seafarer was killed and another injured in the attack on MT Al Bahiyah. On MT Mombasa, nine Indian nationals were injured, including two who remain critically injured. &nbsp; Expressing grief over the loss of the Indian seafarer, Mr Sonowal conveyed his condolences to the bereaved family and wished the injured a speedy recovery. He assured that the Government would extend all possible assistance to affected seafarers and their families.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T02:14:09+00:00",
-        "link": "https://newsonair.gov.in/union-minister-sarbananda-sonowal-launches-seafarer-first-initiative-to-safeguard-indian-seafarers-in-conflict-affected-region/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ki-me-a-i-mi.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Supreme Court says Samay Raina violated statements and undertakings given before the court",
-        "summary": "The Supreme Court yesterday slammed comedian Samay Raina and YouTubers Ranveer Allahbadia and Ashish Chanchlani for not complying with its order, observing that they are self-styled youth icons. A bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana passed the order after it was informed that Raina had not invited […]",
-        "article": "The Supreme Court yesterday slammed comedian Samay Raina and YouTubers Ranveer Allahbadia and Ashish Chanchlani for not complying with its order, observing that they are self-styled youth icons. A bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana passed the order after it was informed that Raina had not invited any disabled persons to his show, according to its earlier order. The bench said that they have no reason to doubt that Samay Raina has taken the court for a ride, and he is in brazen violation of statements or undertakings given before the court. The top court was hearing a plea filed by Cure SMA India Foundation alleging that Raina made insensitive remarks over the high cost of treatment for Spinal Muscular Atrophy and also allegedly ridiculed a person with such a disability. The plea flagged jokes made by “India’s Got Latent” host Samay Raina and other social media influencers Vipun Goyal, Balraj Paramjeet Singh Ghai, Sonali Thakkar and Nishant Jagdish Tanwar.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T02:09:36+00:00",
-        "link": "https://newsonair.gov.in/supreme-court-says-samay-raina-violated-statements-and-undertakings-given-before-the-court/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/sc.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Schools students hold peace protest in PoJK, demand international attention",
-        "summary": "Hundreds of schoolchildren in uniforms, accompanied by their teachers and parents, gathered at Rawalakot&#8217;s Eidgah Ground in the Pakistan-occupied Jammu &#38; Kashmir (PoJK), condemning the Pakistani military&#8217;s brutal crackdown in the occupied territory. School-going students turned out in large numbers on Monday, waving white flags as a symbol of peace and carrying banners that […]",
-        "article": "Hundreds of schoolchildren in uniforms, accompanied by their teachers and parents, gathered at Rawalakot&#8217;s Eidgah Ground in the Pakistan-occupied Jammu & Kashmir (PoJK), condemning the Pakistani military&#8217;s brutal crackdown in the occupied territory. School-going students turned out in large numbers on Monday, waving white flags as a symbol of peace and carrying banners that read &#8220;International Media Give Us Coverage&#8221; and raising slogans against the Pakistani Army. These ongoing protests across PoJK have emerged as a direct challenge to Islamabad&#8217;s long-standing control in the region, with Pakistani forces unleashing a brutal crackdown that reportedly left dozens of civilians dead and injured, while the region remains under a strict blockade, curfew, and a total communications blackout. Meanwhile, the United Kashmir People&#8217;s National Party (UKPNP) held a conference bringing together leaders, journalists, and civil society from across the PoJK and the global diaspora to discuss the human rights abuses, ongoing siege, and brutal crackdown on the peaceful civilians by the Pakistani authorities in the occupied territory.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T01:58:52+00:00",
-        "link": "https://newsonair.gov.in/schools-students-hold-peace-protest-in-pojk-demand-international-attention/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Akashvani-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India to Host 12th BRICS Labour and Employment Ministers’ Meeting in Hyderabad",
-        "summary": "India will host the 12th BRICS Labour and Employment Ministers&#8217; Meeting in Hyderabad from today. The two-day meeting will bring together labour and employment ministers and senior officials from BRICS member countries under India&#8217;s BRICS chairship theme, Building for Resilience, Innovation, Cooperation and Sustainability. Union Labour and Employment Minister Dr Mansukh Mandaviya will c",
-        "article": "India will host the 12th BRICS Labour and Employment Ministers&#8217; Meeting in Hyderabad from today. The two-day meeting will bring together labour and employment ministers and senior officials from BRICS member countries under India&#8217;s BRICS chairship theme, Building for Resilience, Innovation, Cooperation and Sustainability. Union Labour and Employment Minister Dr Mansukh Mandaviya will chair the meeting. The ministers will deliberate on four priority areas, including advancing social security and formalisation of labour markets and enhancing women&#8217;s participation and inclusion in the workforce. The meeting will also consider and adopt a draft declaration prepared by the Employment Working Group. It aims to strengthen cooperation among BRICS countries on labour market policies, worker welfare, skills development and inclusive employment, while promoting resilient and sustainable growth in the changing world of work.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T00:53:13+00:00",
-        "link": "https://newsonair.gov.in/india-to-host-12th-brics-labour-and-employment-ministers-meeting-in-hyderabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-3-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, Maldives Conclude First Round of FTA Talks Successfully",
-        "summary": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. The Commerce and Industry Ministry said that both sides made substantive progress across the negotiating tracks and reached broad convergence on […]",
-        "article": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. The Commerce and Industry Ministry said that both sides made substantive progress across the negotiating tracks and reached broad convergence on several issues. India is the second-largest trading partner of the Maldives. Bilateral trade between the two countries stood at over 771 million US dollars in 2025-26, compared to 679 million US dollars in 2024-25, registering a growth of 13.54%. The proposed FTA is expected to further strengthen bilateral economic and trade relations by enhancing market access, facilitating investment, promoting greater economic cooperation and contributing to sustainable economic growth in both countries. The ministry said both sides are working towards a broad-based, balanced and comprehensive agreement guided by the principles of fairness and reciprocity.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T00:49:02+00:00",
-        "link": "https://newsonair.gov.in/india-maldives-conclude-first-round-of-fta-talks-successfully/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2-4.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "Industry bodies hail India-UK Free Trade Agreement as historic milestone",
+        "summary": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on […]",
+        "article": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on the operationalisation of the India-UK CETA. He said that by facilitating greater co-operation in innovation, technology, and talent mobility, it will also help enhance the competitiveness of Indian industry. ASSOCHAM President, Nirmal Kumar Minda said, the agreement marks a historic milestone in India&#8217;s FTA journey, bringing together two of the world&#8217;s oldest democracies through a comprehensive free trade partnership. He said, under the agreement, 99 per cent of India&#8217;s exports to the UK will enjoy duty-free access. Mr Minda said, the agreement is expected to significantly benefit Indian sectors such as textiles, leather, marine products, gems and jewellery, engineering goods, and chemicals. Chairman of the Trade Promotion Council of India, Mohit Singla, said the operationalisation of the India-UK trade agreement marks a historic milestone in strengthening one of India’s most important economic partnerships. He said, this landmark agreement opens a new chapter of opportunity for Indian exporters by providing enhanced market access, greater predictability, and a level playing field in the UK market.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T07:19:17+00:00",
+        "link": "https://newsonair.gov.in/industry-bodies-hail-india-uk-free-trade-agreement-as-historic-milestone/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India-UK CETA strengthens economic ties between India and UK: Union Minister Pralhad Joshi",
+        "summary": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
+        "article": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:23:11+00:00",
+        "link": "https://newsonair.gov.in/india-uk-ceta-strengthens-economic-ties-between-india-and-uk-union-minister-pralhad-joshi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Union-Consumer-Affairs-Minister-Pralhad-Joshi.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Defence Minister Rajnath Singh says India-UK CETA strengthens India’s economic growth & global partnerships",
+        "summary": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit […]",
+        "article": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit professionals working in the UK, opening new avenues for jobs and investment. Mr Singh underlined that India, guided by the leadership of Prime Minister Narendra Modi, continues to secure agreements that strengthen the country’s economy, expand global opportunities and contribute to the vision of a Viksit Bharat.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:19:43+00:00",
+        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-says-india-uk-ceta-strengthens-indias-economic-growth-global-partnerships/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/rajnath-6.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Vice President, PM Modi pay tribute to K Kamaraj on birth anniversary",
+        "summary": "Vice President C P Radhakrishnan and Prime Minister Narendra Modi have paid tribute to the freedom fighter, and statesman K Kamaraj on his birth anniversary today. &#160; In a social media post, the Vice President described him as one of the tallest leaders of Indian politics. He noted that Kamraj was a symbol of simplicity, […]",
+        "article": "Vice President C P Radhakrishnan and Prime Minister Narendra Modi have paid tribute to the freedom fighter, and statesman K Kamaraj on his birth anniversary today. &nbsp; In a social media post, the Vice President described him as one of the tallest leaders of Indian politics. He noted that Kamraj was a symbol of simplicity, integrity and selfless public service. &nbsp; Mr Radhakrishnan highlighted that Kamaraj played a pivotal role in India’s freedom struggle and transformed countless lives through his pioneering efforts to expand education and promote inclusive development. The Vice President noted that his enduring legacy of service and nation-building continues to inspire generations. While the Prime Minister said that K Kamaraj was a stalwart of India’s freedom movement and an exceptional public figure. Mr Modi noted that Kamraj dedicated his life to nation-building and his unwavering commitment to areas like education, inclusive development and the welfare of the underprivileged continues to guide generations.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:10:40+00:00",
+        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-pays-tribute-to-k-kamaraj-on-birth-anniversary/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/apye-yo.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Lok Sabha Speaker Om Birla greets youth on World Youth Skills Day",
         "summary": "On the occasion of World Youth Skills Day, Lok Sabha Speaker Om Birla said that the greatest strength of India is its youth power. In a social media post, Mr Birla said that the energy, talent, and innovation of the youth are the strongest foundation for realising the vision of a Viksit Bharat. He extended […]",
@@ -178,50 +222,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T02:14:09+00:00",
         "link": "https://newsonair.gov.in/union-minister-sarbananda-sonowal-launches-seafarer-first-initiative-to-safeguard-indian-seafarers-in-conflict-affected-region/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ki-me-a-i-mi.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Supreme Court says Samay Raina violated statements and undertakings given before the court",
-        "summary": "The Supreme Court yesterday slammed comedian Samay Raina and YouTubers Ranveer Allahbadia and Ashish Chanchlani for not complying with its order, observing that they are self-styled youth icons. A bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana passed the order after it was informed that Raina had not invited […]",
-        "article": "The Supreme Court yesterday slammed comedian Samay Raina and YouTubers Ranveer Allahbadia and Ashish Chanchlani for not complying with its order, observing that they are self-styled youth icons. A bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana passed the order after it was informed that Raina had not invited any disabled persons to his show, according to its earlier order. The bench said that they have no reason to doubt that Samay Raina has taken the court for a ride, and he is in brazen violation of statements or undertakings given before the court. The top court was hearing a plea filed by Cure SMA India Foundation alleging that Raina made insensitive remarks over the high cost of treatment for Spinal Muscular Atrophy and also allegedly ridiculed a person with such a disability. The plea flagged jokes made by “India’s Got Latent” host Samay Raina and other social media influencers Vipun Goyal, Balraj Paramjeet Singh Ghai, Sonali Thakkar and Nishant Jagdish Tanwar.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T02:09:36+00:00",
-        "link": "https://newsonair.gov.in/supreme-court-says-samay-raina-violated-statements-and-undertakings-given-before-the-court/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/sc.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Schools students hold peace protest in PoJK, demand international attention",
-        "summary": "Hundreds of schoolchildren in uniforms, accompanied by their teachers and parents, gathered at Rawalakot&#8217;s Eidgah Ground in the Pakistan-occupied Jammu &#38; Kashmir (PoJK), condemning the Pakistani military&#8217;s brutal crackdown in the occupied territory. School-going students turned out in large numbers on Monday, waving white flags as a symbol of peace and carrying banners that […]",
-        "article": "Hundreds of schoolchildren in uniforms, accompanied by their teachers and parents, gathered at Rawalakot&#8217;s Eidgah Ground in the Pakistan-occupied Jammu & Kashmir (PoJK), condemning the Pakistani military&#8217;s brutal crackdown in the occupied territory. School-going students turned out in large numbers on Monday, waving white flags as a symbol of peace and carrying banners that read &#8220;International Media Give Us Coverage&#8221; and raising slogans against the Pakistani Army. These ongoing protests across PoJK have emerged as a direct challenge to Islamabad&#8217;s long-standing control in the region, with Pakistani forces unleashing a brutal crackdown that reportedly left dozens of civilians dead and injured, while the region remains under a strict blockade, curfew, and a total communications blackout. Meanwhile, the United Kashmir People&#8217;s National Party (UKPNP) held a conference bringing together leaders, journalists, and civil society from across the PoJK and the global diaspora to discuss the human rights abuses, ongoing siege, and brutal crackdown on the peaceful civilians by the Pakistani authorities in the occupied territory.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T01:58:52+00:00",
-        "link": "https://newsonair.gov.in/schools-students-hold-peace-protest-in-pojk-demand-international-attention/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Akashvani-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India to Host 12th BRICS Labour and Employment Ministers’ Meeting in Hyderabad",
-        "summary": "India will host the 12th BRICS Labour and Employment Ministers&#8217; Meeting in Hyderabad from today. The two-day meeting will bring together labour and employment ministers and senior officials from BRICS member countries under India&#8217;s BRICS chairship theme, Building for Resilience, Innovation, Cooperation and Sustainability. Union Labour and Employment Minister Dr Mansukh Mandaviya will c",
-        "article": "India will host the 12th BRICS Labour and Employment Ministers&#8217; Meeting in Hyderabad from today. The two-day meeting will bring together labour and employment ministers and senior officials from BRICS member countries under India&#8217;s BRICS chairship theme, Building for Resilience, Innovation, Cooperation and Sustainability. Union Labour and Employment Minister Dr Mansukh Mandaviya will chair the meeting. The ministers will deliberate on four priority areas, including advancing social security and formalisation of labour markets and enhancing women&#8217;s participation and inclusion in the workforce. The meeting will also consider and adopt a draft declaration prepared by the Employment Working Group. It aims to strengthen cooperation among BRICS countries on labour market policies, worker welfare, skills development and inclusive employment, while promoting resilient and sustainable growth in the changing world of work.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T00:53:13+00:00",
-        "link": "https://newsonair.gov.in/india-to-host-12th-brics-labour-and-employment-ministers-meeting-in-hyderabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-3-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, Maldives Conclude First Round of FTA Talks Successfully",
-        "summary": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. The Commerce and Industry Ministry said that both sides made substantive progress across the negotiating tracks and reached broad convergence on […]",
-        "article": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. The Commerce and Industry Ministry said that both sides made substantive progress across the negotiating tracks and reached broad convergence on several issues. India is the second-largest trading partner of the Maldives. Bilateral trade between the two countries stood at over 771 million US dollars in 2025-26, compared to 679 million US dollars in 2024-25, registering a growth of 13.54%. The proposed FTA is expected to further strengthen bilateral economic and trade relations by enhancing market access, facilitating investment, promoting greater economic cooperation and contributing to sustainable economic growth in both countries. The ministry said both sides are working towards a broad-based, balanced and comprehensive agreement guided by the principles of fairness and reciprocity.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T00:49:02+00:00",
-        "link": "https://newsonair.gov.in/india-maldives-conclude-first-round-of-fta-talks-successfully/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2-4.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -250,6 +250,50 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "Industry bodies hail India-UK Free Trade Agreement as historic milestone",
+        "summary": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on […]",
+        "article": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on the operationalisation of the India-UK CETA. He said that by facilitating greater co-operation in innovation, technology, and talent mobility, it will also help enhance the competitiveness of Indian industry. ASSOCHAM President, Nirmal Kumar Minda said, the agreement marks a historic milestone in India&#8217;s FTA journey, bringing together two of the world&#8217;s oldest democracies through a comprehensive free trade partnership. He said, under the agreement, 99 per cent of India&#8217;s exports to the UK will enjoy duty-free access. Mr Minda said, the agreement is expected to significantly benefit Indian sectors such as textiles, leather, marine products, gems and jewellery, engineering goods, and chemicals. Chairman of the Trade Promotion Council of India, Mohit Singla, said the operationalisation of the India-UK trade agreement marks a historic milestone in strengthening one of India’s most important economic partnerships. He said, this landmark agreement opens a new chapter of opportunity for Indian exporters by providing enhanced market access, greater predictability, and a level playing field in the UK market.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T07:19:17+00:00",
+        "link": "https://newsonair.gov.in/industry-bodies-hail-india-uk-free-trade-agreement-as-historic-milestone/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India-UK CETA strengthens economic ties between India and UK: Union Minister Pralhad Joshi",
+        "summary": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
+        "article": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:23:11+00:00",
+        "link": "https://newsonair.gov.in/india-uk-ceta-strengthens-economic-ties-between-india-and-uk-union-minister-pralhad-joshi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Union-Consumer-Affairs-Minister-Pralhad-Joshi.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Defence Minister Rajnath Singh says India-UK CETA strengthens India’s economic growth & global partnerships",
+        "summary": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit […]",
+        "article": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit professionals working in the UK, opening new avenues for jobs and investment. Mr Singh underlined that India, guided by the leadership of Prime Minister Narendra Modi, continues to secure agreements that strengthen the country’s economy, expand global opportunities and contribute to the vision of a Viksit Bharat.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:19:43+00:00",
+        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-says-india-uk-ceta-strengthens-indias-economic-growth-global-partnerships/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/rajnath-6.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Vice President, PM Modi pay tribute to K Kamaraj on birth anniversary",
+        "summary": "Vice President C P Radhakrishnan and Prime Minister Narendra Modi have paid tribute to the freedom fighter, and statesman K Kamaraj on his birth anniversary today. &#160; In a social media post, the Vice President described him as one of the tallest leaders of Indian politics. He noted that Kamraj was a symbol of simplicity, […]",
+        "article": "Vice President C P Radhakrishnan and Prime Minister Narendra Modi have paid tribute to the freedom fighter, and statesman K Kamaraj on his birth anniversary today. &nbsp; In a social media post, the Vice President described him as one of the tallest leaders of Indian politics. He noted that Kamraj was a symbol of simplicity, integrity and selfless public service. &nbsp; Mr Radhakrishnan highlighted that Kamaraj played a pivotal role in India’s freedom struggle and transformed countless lives through his pioneering efforts to expand education and promote inclusive development. The Vice President noted that his enduring legacy of service and nation-building continues to inspire generations. While the Prime Minister said that K Kamaraj was a stalwart of India’s freedom movement and an exceptional public figure. Mr Modi noted that Kamraj dedicated his life to nation-building and his unwavering commitment to areas like education, inclusive development and the welfare of the underprivileged continues to guide generations.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:10:40+00:00",
+        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-pays-tribute-to-k-kamaraj-on-birth-anniversary/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/apye-yo.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Lok Sabha Speaker Om Birla greets youth on World Youth Skills Day",
         "summary": "On the occasion of World Youth Skills Day, Lok Sabha Speaker Om Birla said that the greatest strength of India is its youth power. In a social media post, Mr Birla said that the energy, talent, and innovation of the youth are the strongest foundation for realising the vision of a Viksit Bharat. He extended […]",
         "article": "On the occasion of World Youth Skills Day, Lok Sabha Speaker Om Birla said that the greatest strength of India is its youth power. In a social media post, Mr Birla said that the energy, talent, and innovation of the youth are the strongest foundation for realising the vision of a Viksit Bharat. He extended his greetings to the skilled youth of India and the world on World Youth Skills Day and said that skills and technology are essential for self-reliance. &nbsp; Mr Birla urged every young person in the country to embrace modern skills and innovation, expressing confidence that this would enable India to emerge as one of the world&#8217;s most capable and leading nations in the years to come.",
@@ -290,50 +334,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T02:14:09+00:00",
         "link": "https://newsonair.gov.in/union-minister-sarbananda-sonowal-launches-seafarer-first-initiative-to-safeguard-indian-seafarers-in-conflict-affected-region/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ki-me-a-i-mi.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Supreme Court says Samay Raina violated statements and undertakings given before the court",
-        "summary": "The Supreme Court yesterday slammed comedian Samay Raina and YouTubers Ranveer Allahbadia and Ashish Chanchlani for not complying with its order, observing that they are self-styled youth icons. A bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana passed the order after it was informed that Raina had not invited […]",
-        "article": "The Supreme Court yesterday slammed comedian Samay Raina and YouTubers Ranveer Allahbadia and Ashish Chanchlani for not complying with its order, observing that they are self-styled youth icons. A bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana passed the order after it was informed that Raina had not invited any disabled persons to his show, according to its earlier order. The bench said that they have no reason to doubt that Samay Raina has taken the court for a ride, and he is in brazen violation of statements or undertakings given before the court. The top court was hearing a plea filed by Cure SMA India Foundation alleging that Raina made insensitive remarks over the high cost of treatment for Spinal Muscular Atrophy and also allegedly ridiculed a person with such a disability. The plea flagged jokes made by “India’s Got Latent” host Samay Raina and other social media influencers Vipun Goyal, Balraj Paramjeet Singh Ghai, Sonali Thakkar and Nishant Jagdish Tanwar.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T02:09:36+00:00",
-        "link": "https://newsonair.gov.in/supreme-court-says-samay-raina-violated-statements-and-undertakings-given-before-the-court/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/sc.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Schools students hold peace protest in PoJK, demand international attention",
-        "summary": "Hundreds of schoolchildren in uniforms, accompanied by their teachers and parents, gathered at Rawalakot&#8217;s Eidgah Ground in the Pakistan-occupied Jammu &#38; Kashmir (PoJK), condemning the Pakistani military&#8217;s brutal crackdown in the occupied territory. School-going students turned out in large numbers on Monday, waving white flags as a symbol of peace and carrying banners that […]",
-        "article": "Hundreds of schoolchildren in uniforms, accompanied by their teachers and parents, gathered at Rawalakot&#8217;s Eidgah Ground in the Pakistan-occupied Jammu & Kashmir (PoJK), condemning the Pakistani military&#8217;s brutal crackdown in the occupied territory. School-going students turned out in large numbers on Monday, waving white flags as a symbol of peace and carrying banners that read &#8220;International Media Give Us Coverage&#8221; and raising slogans against the Pakistani Army. These ongoing protests across PoJK have emerged as a direct challenge to Islamabad&#8217;s long-standing control in the region, with Pakistani forces unleashing a brutal crackdown that reportedly left dozens of civilians dead and injured, while the region remains under a strict blockade, curfew, and a total communications blackout. Meanwhile, the United Kashmir People&#8217;s National Party (UKPNP) held a conference bringing together leaders, journalists, and civil society from across the PoJK and the global diaspora to discuss the human rights abuses, ongoing siege, and brutal crackdown on the peaceful civilians by the Pakistani authorities in the occupied territory.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T01:58:52+00:00",
-        "link": "https://newsonair.gov.in/schools-students-hold-peace-protest-in-pojk-demand-international-attention/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Akashvani-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India to Host 12th BRICS Labour and Employment Ministers’ Meeting in Hyderabad",
-        "summary": "India will host the 12th BRICS Labour and Employment Ministers&#8217; Meeting in Hyderabad from today. The two-day meeting will bring together labour and employment ministers and senior officials from BRICS member countries under India&#8217;s BRICS chairship theme, Building for Resilience, Innovation, Cooperation and Sustainability. Union Labour and Employment Minister Dr Mansukh Mandaviya will c",
-        "article": "India will host the 12th BRICS Labour and Employment Ministers&#8217; Meeting in Hyderabad from today. The two-day meeting will bring together labour and employment ministers and senior officials from BRICS member countries under India&#8217;s BRICS chairship theme, Building for Resilience, Innovation, Cooperation and Sustainability. Union Labour and Employment Minister Dr Mansukh Mandaviya will chair the meeting. The ministers will deliberate on four priority areas, including advancing social security and formalisation of labour markets and enhancing women&#8217;s participation and inclusion in the workforce. The meeting will also consider and adopt a draft declaration prepared by the Employment Working Group. It aims to strengthen cooperation among BRICS countries on labour market policies, worker welfare, skills development and inclusive employment, while promoting resilient and sustainable growth in the changing world of work.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T00:53:13+00:00",
-        "link": "https://newsonair.gov.in/india-to-host-12th-brics-labour-and-employment-ministers-meeting-in-hyderabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-3-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, Maldives Conclude First Round of FTA Talks Successfully",
-        "summary": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. The Commerce and Industry Ministry said that both sides made substantive progress across the negotiating tracks and reached broad convergence on […]",
-        "article": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. The Commerce and Industry Ministry said that both sides made substantive progress across the negotiating tracks and reached broad convergence on several issues. India is the second-largest trading partner of the Maldives. Bilateral trade between the two countries stood at over 771 million US dollars in 2025-26, compared to 679 million US dollars in 2024-25, registering a growth of 13.54%. The proposed FTA is expected to further strengthen bilateral economic and trade relations by enhancing market access, facilitating investment, promoting greater economic cooperation and contributing to sustainable economic growth in both countries. The ministry said both sides are working towards a broad-based, balanced and comprehensive agreement guided by the principles of fairness and reciprocity.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T00:49:02+00:00",
-        "link": "https://newsonair.gov.in/india-maldives-conclude-first-round-of-fta-talks-successfully/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2-4.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -362,6 +362,50 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "Industry bodies hail India-UK Free Trade Agreement as historic milestone",
+        "summary": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on […]",
+        "article": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on the operationalisation of the India-UK CETA. He said that by facilitating greater co-operation in innovation, technology, and talent mobility, it will also help enhance the competitiveness of Indian industry. ASSOCHAM President, Nirmal Kumar Minda said, the agreement marks a historic milestone in India&#8217;s FTA journey, bringing together two of the world&#8217;s oldest democracies through a comprehensive free trade partnership. He said, under the agreement, 99 per cent of India&#8217;s exports to the UK will enjoy duty-free access. Mr Minda said, the agreement is expected to significantly benefit Indian sectors such as textiles, leather, marine products, gems and jewellery, engineering goods, and chemicals. Chairman of the Trade Promotion Council of India, Mohit Singla, said the operationalisation of the India-UK trade agreement marks a historic milestone in strengthening one of India’s most important economic partnerships. He said, this landmark agreement opens a new chapter of opportunity for Indian exporters by providing enhanced market access, greater predictability, and a level playing field in the UK market.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T07:19:17+00:00",
+        "link": "https://newsonair.gov.in/industry-bodies-hail-india-uk-free-trade-agreement-as-historic-milestone/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India-UK CETA strengthens economic ties between India and UK: Union Minister Pralhad Joshi",
+        "summary": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
+        "article": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:23:11+00:00",
+        "link": "https://newsonair.gov.in/india-uk-ceta-strengthens-economic-ties-between-india-and-uk-union-minister-pralhad-joshi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Union-Consumer-Affairs-Minister-Pralhad-Joshi.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Defence Minister Rajnath Singh says India-UK CETA strengthens India’s economic growth & global partnerships",
+        "summary": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit […]",
+        "article": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit professionals working in the UK, opening new avenues for jobs and investment. Mr Singh underlined that India, guided by the leadership of Prime Minister Narendra Modi, continues to secure agreements that strengthen the country’s economy, expand global opportunities and contribute to the vision of a Viksit Bharat.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:19:43+00:00",
+        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-says-india-uk-ceta-strengthens-indias-economic-growth-global-partnerships/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/rajnath-6.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Vice President, PM Modi pay tribute to K Kamaraj on birth anniversary",
+        "summary": "Vice President C P Radhakrishnan and Prime Minister Narendra Modi have paid tribute to the freedom fighter, and statesman K Kamaraj on his birth anniversary today. &#160; In a social media post, the Vice President described him as one of the tallest leaders of Indian politics. He noted that Kamraj was a symbol of simplicity, […]",
+        "article": "Vice President C P Radhakrishnan and Prime Minister Narendra Modi have paid tribute to the freedom fighter, and statesman K Kamaraj on his birth anniversary today. &nbsp; In a social media post, the Vice President described him as one of the tallest leaders of Indian politics. He noted that Kamraj was a symbol of simplicity, integrity and selfless public service. &nbsp; Mr Radhakrishnan highlighted that Kamaraj played a pivotal role in India’s freedom struggle and transformed countless lives through his pioneering efforts to expand education and promote inclusive development. The Vice President noted that his enduring legacy of service and nation-building continues to inspire generations. While the Prime Minister said that K Kamaraj was a stalwart of India’s freedom movement and an exceptional public figure. Mr Modi noted that Kamraj dedicated his life to nation-building and his unwavering commitment to areas like education, inclusive development and the welfare of the underprivileged continues to guide generations.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:10:40+00:00",
+        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-pays-tribute-to-k-kamaraj-on-birth-anniversary/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/apye-yo.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Lok Sabha Speaker Om Birla greets youth on World Youth Skills Day",
         "summary": "On the occasion of World Youth Skills Day, Lok Sabha Speaker Om Birla said that the greatest strength of India is its youth power. In a social media post, Mr Birla said that the energy, talent, and innovation of the youth are the strongest foundation for realising the vision of a Viksit Bharat. He extended […]",
         "article": "On the occasion of World Youth Skills Day, Lok Sabha Speaker Om Birla said that the greatest strength of India is its youth power. In a social media post, Mr Birla said that the energy, talent, and innovation of the youth are the strongest foundation for realising the vision of a Viksit Bharat. He extended his greetings to the skilled youth of India and the world on World Youth Skills Day and said that skills and technology are essential for self-reliance. &nbsp; Mr Birla urged every young person in the country to embrace modern skills and innovation, expressing confidence that this would enable India to emerge as one of the world&#8217;s most capable and leading nations in the years to come.",
@@ -406,50 +450,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Supreme Court says Samay Raina violated statements and undertakings given before the court",
-        "summary": "The Supreme Court yesterday slammed comedian Samay Raina and YouTubers Ranveer Allahbadia and Ashish Chanchlani for not complying with its order, observing that they are self-styled youth icons. A bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana passed the order after it was informed that Raina had not invited […]",
-        "article": "The Supreme Court yesterday slammed comedian Samay Raina and YouTubers Ranveer Allahbadia and Ashish Chanchlani for not complying with its order, observing that they are self-styled youth icons. A bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana passed the order after it was informed that Raina had not invited any disabled persons to his show, according to its earlier order. The bench said that they have no reason to doubt that Samay Raina has taken the court for a ride, and he is in brazen violation of statements or undertakings given before the court. The top court was hearing a plea filed by Cure SMA India Foundation alleging that Raina made insensitive remarks over the high cost of treatment for Spinal Muscular Atrophy and also allegedly ridiculed a person with such a disability. The plea flagged jokes made by “India’s Got Latent” host Samay Raina and other social media influencers Vipun Goyal, Balraj Paramjeet Singh Ghai, Sonali Thakkar and Nishant Jagdish Tanwar.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T02:09:36+00:00",
-        "link": "https://newsonair.gov.in/supreme-court-says-samay-raina-violated-statements-and-undertakings-given-before-the-court/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/sc.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Schools students hold peace protest in PoJK, demand international attention",
-        "summary": "Hundreds of schoolchildren in uniforms, accompanied by their teachers and parents, gathered at Rawalakot&#8217;s Eidgah Ground in the Pakistan-occupied Jammu &#38; Kashmir (PoJK), condemning the Pakistani military&#8217;s brutal crackdown in the occupied territory. School-going students turned out in large numbers on Monday, waving white flags as a symbol of peace and carrying banners that […]",
-        "article": "Hundreds of schoolchildren in uniforms, accompanied by their teachers and parents, gathered at Rawalakot&#8217;s Eidgah Ground in the Pakistan-occupied Jammu & Kashmir (PoJK), condemning the Pakistani military&#8217;s brutal crackdown in the occupied territory. School-going students turned out in large numbers on Monday, waving white flags as a symbol of peace and carrying banners that read &#8220;International Media Give Us Coverage&#8221; and raising slogans against the Pakistani Army. These ongoing protests across PoJK have emerged as a direct challenge to Islamabad&#8217;s long-standing control in the region, with Pakistani forces unleashing a brutal crackdown that reportedly left dozens of civilians dead and injured, while the region remains under a strict blockade, curfew, and a total communications blackout. Meanwhile, the United Kashmir People&#8217;s National Party (UKPNP) held a conference bringing together leaders, journalists, and civil society from across the PoJK and the global diaspora to discuss the human rights abuses, ongoing siege, and brutal crackdown on the peaceful civilians by the Pakistani authorities in the occupied territory.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T01:58:52+00:00",
-        "link": "https://newsonair.gov.in/schools-students-hold-peace-protest-in-pojk-demand-international-attention/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Akashvani-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India to Host 12th BRICS Labour and Employment Ministers’ Meeting in Hyderabad",
-        "summary": "India will host the 12th BRICS Labour and Employment Ministers&#8217; Meeting in Hyderabad from today. The two-day meeting will bring together labour and employment ministers and senior officials from BRICS member countries under India&#8217;s BRICS chairship theme, Building for Resilience, Innovation, Cooperation and Sustainability. Union Labour and Employment Minister Dr Mansukh Mandaviya will c",
-        "article": "India will host the 12th BRICS Labour and Employment Ministers&#8217; Meeting in Hyderabad from today. The two-day meeting will bring together labour and employment ministers and senior officials from BRICS member countries under India&#8217;s BRICS chairship theme, Building for Resilience, Innovation, Cooperation and Sustainability. Union Labour and Employment Minister Dr Mansukh Mandaviya will chair the meeting. The ministers will deliberate on four priority areas, including advancing social security and formalisation of labour markets and enhancing women&#8217;s participation and inclusion in the workforce. The meeting will also consider and adopt a draft declaration prepared by the Employment Working Group. It aims to strengthen cooperation among BRICS countries on labour market policies, worker welfare, skills development and inclusive employment, while promoting resilient and sustainable growth in the changing world of work.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T00:53:13+00:00",
-        "link": "https://newsonair.gov.in/india-to-host-12th-brics-labour-and-employment-ministers-meeting-in-hyderabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-3-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India, Maldives Conclude First Round of FTA Talks Successfully",
-        "summary": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. The Commerce and Industry Ministry said that both sides made substantive progress across the negotiating tracks and reached broad convergence on […]",
-        "article": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. The Commerce and Industry Ministry said that both sides made substantive progress across the negotiating tracks and reached broad convergence on several issues. India is the second-largest trading partner of the Maldives. Bilateral trade between the two countries stood at over 771 million US dollars in 2025-26, compared to 679 million US dollars in 2024-25, registering a growth of 13.54%. The proposed FTA is expected to further strengthen bilateral economic and trade relations by enhancing market access, facilitating investment, promoting greater economic cooperation and contributing to sustainable economic growth in both countries. The ministry said both sides are working towards a broad-based, balanced and comprehensive agreement guided by the principles of fairness and reciprocity.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T00:49:02+00:00",
-        "link": "https://newsonair.gov.in/india-maldives-conclude-first-round-of-fta-talks-successfully/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-2-4.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Government launches first trial Index of Services Production for formal services sector",
         "summary": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. […]",
         "article": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. &nbsp; The Ministry of Statistics and Programme Implementation (MoSPI) described the sub-sectoral ISP as a major milestone in improving the measurement of India’s services sector and strengthening the country’s statistical system. It said the comprehensive overall Index of Services Production will be introduced after evaluating the stability of the trial series and expanding its coverage-the first set of data points to broad-based growth in the services sector. Fourteen of the 19 sub-sectors recorded double-digit growth in April this year compared to the corresponding month last year, while almost all remaining sectors also registered positive growth. The fastest-growing sectors are accommodation and food services with 37.2 per cent and Retail Trade with 30.8 per cent. &nbsp; MoSPI said the data will be available on e- sankhyiki portal as well. On the occasion, Secretary, MoSPI, Dr Saurabh Garg, today said that the launch of the Index marks a significant step in strengthening India&#8217;s statistical system. The Secretary highlighted that the index has been developed entirely using administrative data, including inputs from government ministries and GST records, without imposing any additional compliance burden on industries or businesses. He also explained that the ISP is an output indicator and should not be equated with the Gross Value Added (GVA) used in GDP estimation. Dr Garg said that the Ministry will continue to seek feedback from stakeholders to strengthen the ISP further and enhance the country&#8217;s statistical ecosystem. Meanwhile, Chief Economic Advisor (CEA) Dr V Anantha Nageswaran emphasised that the release of the index should be viewed as a trial series, not a final or perfect index. He said that releasing it publicly reflects the confidence of the Ministry in the method and a willingness to improve it through scrutiny. He further said that the coverage of the index would expand over time, with the addition of sectors such as health services and ownership of dwelling businesses, which will take the coverage to around 85 to 90 per cent of formal services sector contribution in the economy.",
@@ -473,6 +473,17 @@ window.VM_NEWS = {
       }
     ],
     "world": [
+      {
+        "title": "India says confidence in UN declining over lack of Security Council reforms",
+        "summary": "India has warned that people&#8217;s confidence in the United Nations is declining due to the failure to reform the UN Security Council and effectively address global conflicts. Speaking at a ministerial roundtable on &#8220;Making Multilateralism Fit for the Future&#8221; at the UN, India&#8217;s Permanent Representative P. Harish said the Security Council has failed to intervene […]",
+        "article": "India has warned that people&#8217;s confidence in the United Nations is declining due to the failure to reform the UN Security Council and effectively address global conflicts. Speaking at a ministerial roundtable on &#8220;Making Multilateralism Fit for the Future&#8221; at the UN, India&#8217;s Permanent Representative P. Harish said the Security Council has failed to intervene meaningfully in ongoing conflicts, raising questions about its ability to uphold international peace and security. He said the 80-year-old UN architecture is no longer adequate to meet present-day global challenges. Mr. Harish noted that negotiations on Security Council reforms have remained stuck in an endless cycle of statements without tangible progress. He said the Action Points under the Pact for the Future, including ending violence, racism and xenophobia, promoting gender equality, and strengthening peacekeeping, have largely remained on paper. Calling the situation untenable, he stressed that meaningful reforms are urgently needed. Harish said India had significant reservations on some of the Pact&#8217;s action points. However, he added that India supported the Pact in a constructive spirit. He also called for revitalising the UN General Assembly and strengthening the role of the Economic and Social Council in advancing sustainable development. In the Global South, Harish reaffirmed India&#8217;s commitment to mobilising resources and ensuring that no country is left behind. He also urged international financial institutions to become more representative, responsive and development-oriented, while preserving their core mandates. He said adequate, affordable and predictable financing remains essential for achieving the Sustainable Development Goals.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:14:11+00:00",
+        "link": "https://newsonair.gov.in/india-says-confidence-in-un-declining-over-lack-of-security-council-reforms/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/UN-P-Harish.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "EAM Dr S Jaishankar, EU’s Kaja Kallas discuss West Asia and maritime commerce",
         "summary": "External Affairs Minister Dr S Jaishankar today held a meeting with EU High Representative for Foreign Affairs and Security Policy Kaja Kallas in Brussels. In a social media post, Dr Jaishankar said that they had useful discussions on West Asia and the need to ensure peace and stability. The two leaders also exchanged views on […]",
@@ -518,36 +529,39 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "New Delhi says, ongoing protests in PoJK due to Pak’s denial of fundamental rights to local population",
-        "summary": "India said the ongoing protests in PoJK are a direct consequence of Pakistan’s decades-long systemic exploitation and denial of fundamental rights to local population and administrative oppression in areas under its illegal and forcible occupation. During the media briefing, responding to a question on protests in PoJK, spokesperson of the Ministry of External Affairs Mr […]",
-        "article": "India said the ongoing protests in PoJK are a direct consequence of Pakistan’s decades-long systemic exploitation and denial of fundamental rights to local population and administrative oppression in areas under its illegal and forcible occupation. During the media briefing, responding to a question on protests in PoJK, spokesperson of the Ministry of External Affairs Mr Jaiswal said New Delhi expects the international community to hold Pakistan fully accountable for these abuses and misdeeds. He pointed out that rather than addressing the legitimate grievances of the local populace, the Pakistani state has responded with extreme police brutality, and deploying lethal force against unarmed civilians that has resulted in tragic fatalities.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T15:10:26+00:00",
-        "link": "https://newsonair.gov.in/india-expects-international-community-to-hold-pakistan-fully-accountable-for-its-misdeeds-in-pojk/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "Industry bodies hail India-UK Free Trade Agreement as historic milestone",
+        "summary": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on […]",
+        "article": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on the operationalisation of the India-UK CETA. He said that by facilitating greater co-operation in innovation, technology, and talent mobility, it will also help enhance the competitiveness of Indian industry. ASSOCHAM President, Nirmal Kumar Minda said, the agreement marks a historic milestone in India&#8217;s FTA journey, bringing together two of the world&#8217;s oldest democracies through a comprehensive free trade partnership. He said, under the agreement, 99 per cent of India&#8217;s exports to the UK will enjoy duty-free access. Mr Minda said, the agreement is expected to significantly benefit Indian sectors such as textiles, leather, marine products, gems and jewellery, engineering goods, and chemicals. Chairman of the Trade Promotion Council of India, Mohit Singla, said the operationalisation of the India-UK trade agreement marks a historic milestone in strengthening one of India’s most important economic partnerships. He said, this landmark agreement opens a new chapter of opportunity for Indian exporters by providing enhanced market access, greater predictability, and a level playing field in the UK market.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T07:19:17+00:00",
+        "link": "https://newsonair.gov.in/industry-bodies-hail-india-uk-free-trade-agreement-as-historic-milestone/",
+        "post_id": 1739063,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Ukraine claims to intercept five Russian ballistic missiles; several other strike capital Kyiv",
-        "summary": "Ukraine&#8217;s Air Force has said its air defence systems intercepted five Russian ballistic missiles during a wave of overnight attacks, although several other missiles and drones penetrated defences and struck the capital, Kyiv. According to the Ukraine&#8217;s Air Force, one ballistic missile and 25 drones hit 17 locations across the country, while falling […]",
-        "article": "Ukraine&#8217;s Air Force has said its air defence systems intercepted five Russian ballistic missiles during a wave of overnight attacks, although several other missiles and drones penetrated defences and struck the capital, Kyiv. According to the Ukraine&#8217;s Air Force, one ballistic missile and 25 drones hit 17 locations across the country, while falling debris was also reported. In Kyiv, the attack sparked fires at two warehouses and damaged a school. Ukrainian President Volodymyr Zelenskyy, who remained in Paris after attending France&#8217;s annual Bastille Day celebrations, said Ukraine and its international partners could jointly develop a low-cost, mass-produced air defence system within the next year. Meanwhile, Russia&#8217;s Defence Ministry said the strikes were aimed at military manufacturing facilities in Kyiv involved in producing long-range missiles and drones.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T14:30:30+00:00",
-        "link": "https://newsonair.gov.in/ukraine-claims-to-intercept-five-russian-ballistic-missiles-several-other-strike-capital-kyiv/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/akashvani-news-2-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "India-UK CETA strengthens economic ties between India and UK: Union Minister Pralhad Joshi",
+        "summary": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
+        "article": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:23:11+00:00",
+        "link": "https://newsonair.gov.in/india-uk-ceta-strengthens-economic-ties-between-india-and-uk-union-minister-pralhad-joshi/",
+        "post_id": 1738994,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "France: President Emmanuel Macron leads Bastille Day celebration in Paris",
-        "summary": "In France, Bastille Day is being celebrated with a strong display of European unity as troops and aircraft from across the continent joined the annual military parade in Paris. France President Emmanuel Macron, celebrating his final Bastille Day in office, hosted around 30 world leaders, including Ukrainian President Volodymyr Zelenskyy, highlighting Europe&#8217;s commitment to […]",
-        "article": "In France, Bastille Day is being celebrated with a strong display of European unity as troops and aircraft from across the continent joined the annual military parade in Paris. France President Emmanuel Macron, celebrating his final Bastille Day in office, hosted around 30 world leaders, including Ukrainian President Volodymyr Zelenskyy, highlighting Europe&#8217;s commitment to collective security. The parade featured Ukrainian soldiers, French-trained Ukrainian fighter pilots, and nearly 6,800 troops, the largest participation in the event&#8217;s history. Military aircraft from several European nations also took part. Bastille Day, observed every year on July 14, commemorates the storming of the Bastille prison in 1789, a landmark event that symbolised the start of the French Revolution. The uprising ultimately led to the fall of the French monarchy and laid the foundations for modern France.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T11:00:14+00:00",
-        "link": "https://newsonair.gov.in/france-president-emmanuel-macron-leads-bastille-day-celebration-in-paris/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/francew.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "Defence Minister Rajnath Singh says India-UK CETA strengthens India’s economic growth & global partnerships",
+        "summary": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit […]",
+        "article": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit professionals working in the UK, opening new avenues for jobs and investment. Mr Singh underlined that India, guided by the leadership of Prime Minister Narendra Modi, continues to secure agreements that strengthen the country’s economy, expand global opportunities and contribute to the vision of a Viksit Bharat.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:19:43+00:00",
+        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-says-india-uk-ceta-strengthens-indias-economic-growth-global-partnerships/",
+        "post_id": 1738935,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -570,18 +584,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T02:14:09+00:00",
         "link": "https://newsonair.gov.in/union-minister-sarbananda-sonowal-launches-seafarer-first-initiative-to-safeguard-indian-seafarers-in-conflict-affected-region/",
         "post_id": 1738518,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Schools students hold peace protest in PoJK, demand international attention",
-        "summary": "Hundreds of schoolchildren in uniforms, accompanied by their teachers and parents, gathered at Rawalakot&#8217;s Eidgah Ground in the Pakistan-occupied Jammu &#38; Kashmir (PoJK), condemning the Pakistani military&#8217;s brutal crackdown in the occupied territory. School-going students turned out in large numbers on Monday, waving white flags as a symbol of peace and carrying banners that […]",
-        "article": "Hundreds of schoolchildren in uniforms, accompanied by their teachers and parents, gathered at Rawalakot&#8217;s Eidgah Ground in the Pakistan-occupied Jammu & Kashmir (PoJK), condemning the Pakistani military&#8217;s brutal crackdown in the occupied territory. School-going students turned out in large numbers on Monday, waving white flags as a symbol of peace and carrying banners that read &#8220;International Media Give Us Coverage&#8221; and raising slogans against the Pakistani Army. These ongoing protests across PoJK have emerged as a direct challenge to Islamabad&#8217;s long-standing control in the region, with Pakistani forces unleashing a brutal crackdown that reportedly left dozens of civilians dead and injured, while the region remains under a strict blockade, curfew, and a total communications blackout. Meanwhile, the United Kashmir People&#8217;s National Party (UKPNP) held a conference bringing together leaders, journalists, and civil society from across the PoJK and the global diaspora to discuss the human rights abuses, ongoing siege, and brutal crackdown on the peaceful civilians by the Pakistani authorities in the occupied territory.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T01:58:52+00:00",
-        "link": "https://newsonair.gov.in/schools-students-hold-peace-protest-in-pojk-demand-international-attention/",
-        "post_id": 1738405,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1028,144 +1030,16 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
-        "title": "गृह मंत्रालय ने महाराष्ट्र में एनआईए मामलों की सुनवाई के लिए विशेष न्यायालय गठित किया",
-        "summary": "गृह मंत्रालय ने महाराष्ट्र में राष्ट्रीय अन्वेषण अभिकरण &#8211; एनआईए द्वारा जांच किए गए अपराधों के ट्रायल के लिए एक विशेष न्‍यायालय गठित किया है। मंत्रालय ने बॉम्बे उच्‍च न्‍यायालय के मुख्‍य न्‍यायाधीश और महाराष्ट्र सरकार से बातचीत के बाद यह फैसला लिया है। मंत्रालय ने एनआईए द्वारा जांच किए जाने वाले मामलों आतंकवाद और […]",
-        "article": "गृह मंत्रालय ने महाराष्ट्र में राष्ट्रीय अन्वेषण अभिकरण &#8211; एनआईए द्वारा जांच किए गए अपराधों के ट्रायल के लिए एक विशेष न्&#x200d;यायालय गठित किया है। मंत्रालय ने बॉम्बे उच्&#x200d;च न्&#x200d;यायालय के मुख्&#x200d;य न्&#x200d;यायाधीश और महाराष्ट्र सरकार से बातचीत के बाद यह फैसला लिया है। मंत्रालय ने एनआईए द्वारा जांच किए जाने वाले मामलों आतंकवाद और अन्य अधिसूचित अपराधों की त्वरित सुनवाई के लिए मुंबई के सिटी सिविल और सत्र न्&#x200d;यायालय के कोर्ट रूम नंबर-26 को विशेष अदालत के रूप में नामित किया है।",
+        "title": "पीएम मोदी शुक्रवार को पंजाब में कई विकास परियोजनाओं का उद्घाटन करेंगे",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी शुक्रवार को पंजाब जाएंगे। इस दौरान वे जालंधर कैंटोनमेंट रेलवे स्टेशन का उद्घाटन करेंगे और अमृत भारत स्टेशन योजना के तहत पुनर्निर्मित 74 अन्य रेलवे स्टेशनों का वर्चुअल उद्घाटन भी करेंगे। प्रधानमंत्री संत रविदास एक्सप्रेस को भी रवाना करेंगे। ये रेलगाड़ी अमृतसर को उत्तर प्रदेश के वाराणसी से जोड़ेगी। जालंधर पहुंचने से […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी शुक्रवार को पंजाब जाएंगे। इस दौरान वे जालंधर कैंटोनमेंट रेलवे स्टेशन का उद्घाटन करेंगे और अमृत भारत स्टेशन योजना के तहत पुनर्निर्मित 74 अन्य रेलवे स्टेशनों का वर्चुअल उद्घाटन भी करेंगे। प्रधानमंत्री संत रविदास एक्सप्रेस को भी रवाना करेंगे। ये रेलगाड़ी अमृतसर को उत्तर प्रदेश के वाराणसी से जोड़ेगी। जालंधर पहुंचने से पहले श्री मोदी चंडीगढ़ स्थित पंजाब इंजीनियरिंग कॉलेज का भी दौरा करेंगे, जहां वे विभिन्न बुनियादी ढांचा परियोजनाओं का उद्घाटन करेंगे।",
         "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:56:12+00:00",
-        "link": "https://newsonair.gov.in/hi/nia-special-court/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPyZFJbYAAHEAR.png",
+        "pubDate": "2026-07-15T06:44:02+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-punjab-visit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pm-modi.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
-      {
-        "title": "विश्व युवा कौशल दिवस पर नेताओं ने युवाओं को दी शुभकामनाएं, बताया भारत की सबसे बड़ी ताकत",
-        "summary": "विश्व युवा कौशल दिवस के अवसर पर लोकसभा अध्यक्ष ओम बिरला ने कहा कि भारत की सबसे बड़ी ताकत उसकी युवा शक्ति है। सोशल मीडिया पर एक पोस्ट में श्री बिरला ने कहा कि युवाओं की ऊर्जा, प्रतिभा और नवाचार विकसित भारत के सपने को साकार करने की सबसे मजबूत नींव हैं। उन्होंने विश्व युवा […]",
-        "article": "विश्व युवा कौशल दिवस के अवसर पर लोकसभा अध्यक्ष ओम बिरला ने कहा कि भारत की सबसे बड़ी ताकत उसकी युवा शक्ति है। सोशल मीडिया पर एक पोस्ट में श्री बिरला ने कहा कि युवाओं की ऊर्जा, प्रतिभा और नवाचार विकसित भारत के सपने को साकार करने की सबसे मजबूत नींव हैं। उन्होंने विश्व युवा कौशल दिवस पर भारत और विश्व के कुशल युवाओं को बधाई दी और कहा कि आत्मनिर्भरता के लिए कौशल और प्रौद्योगिकी आवश्यक हैं। श्री बिरला ने देश के प्रत्येक युवा से आधुनिक कौशल और नवाचार को अपनाने का आग्रह किया और विश्वास व्यक्त किया कि इससे भारत आने वाले वर्षों में विश्व के सबसे सक्षम और अग्रणी देशों में से एक के रूप में उभर सकेगा। दिल्ली की मुख्यमंत्री रेखा गुप्ता ने विश्व युवा कौशल दिवस के अवसर पर युवाओं को शुभकामनाएं दी हैं। सोशल मीडिया पर एक पोस्ट में, सुश्री गुप्ता ने कहा कि युवाओं का कौशल विकास आत्मनिर्भर भारत और विकसित दिल्ली की नींव है। उन्होंने कहा कि दिल्ली सरकार युवाओं को गुणवत्तापूर्ण कौशल प्रशिक्षण प्रदान करने और उनके लिए नए अवसर सृजित करने के लिए पूरी तरह से प्रतिबद्ध है। मुख्यमंत्री ने आगे कहा कि कौशल से लैस और मेहनती युवा दिल्ली की प्रगति को नई गति प्रदान करेंगे।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:21:20+00:00",
-        "link": "https://newsonair.gov.in/hi/world-youth-skills-day/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPDfVUaEAECf4O.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने स्वतंत्रता सेनानी के. कामराज की जयंती पर उन्हें नमन किया",
-        "summary": "उपराष्ट्रपति सी पी राधाकृष्णन ने आज स्वतंत्रता सेनानी और राजनेता के कामराज की जयंती पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उपराष्ट्रपति ने उन्हें भारतीय राजनीति के सबसे महान नेताओं में से एक बताया। उन्होंने कहा कि कामराज सादगी, ईमानदारी और निस्वार्थ जनसेवा के प्रतीक थे। श्री राधाकृष्णन ने इस बात […]",
-        "article": "उपराष्ट्रपति सी पी राधाकृष्णन ने आज स्वतंत्रता सेनानी और राजनेता के कामराज की जयंती पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उपराष्ट्रपति ने उन्हें भारतीय राजनीति के सबसे महान नेताओं में से एक बताया। उन्होंने कहा कि कामराज सादगी, ईमानदारी और निस्वार्थ जनसेवा के प्रतीक थे। श्री राधाकृष्णन ने इस बात पर प्रकाश डाला कि कामराज ने भारत के स्वतंत्रता संग्राम में महत्वपूर्ण भूमिका निभाई और शिक्षा के विस्तार और समावेशी विकास को बढ़ावा देने के अपने अग्रणी प्रयासों से अनगिनत लोगों के जीवन को रूपांतरित किया। उपराष्ट्रपति ने कहा कि उनकी सेवा और राष्ट्र निर्माण की अमिट विरासत पीढ़ियों को प्रेरित करती रहेगी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:15:46+00:00",
-        "link": "https://newsonair.gov.in/hi/k-kamaraj-jayanti/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPKH2QasAE_d47.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "जगन्नाथराव जोशी की पुण्यतिथि पर गृह मंत्री अमित शाह और रक्षा मंत्री राजनाथ सिंह ने उन्हें श्रद्धांजलि अर्पित की",
-        "summary": "केंद्रीय गृह मंत्री अमित शाह ने आज जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में शाह ने कहा कि कर्नाटक केसरी जगन्नाथराव जोशी एक देशभक्त कर्मयोगी थे, जिन्होंने गोवा में परमिट राज को समाप्त करने के लिए अमानवीय अत्याचार सहे। उन्होंने आगे कहा कि भाजपा के आदर्शों और […]",
-        "article": "केंद्रीय गृह मंत्री अमित शाह ने आज जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में शाह ने कहा कि कर्नाटक केसरी जगन्नाथराव जोशी एक देशभक्त कर्मयोगी थे, जिन्होंने गोवा में परमिट राज को समाप्त करने के लिए अमानवीय अत्याचार सहे। उन्होंने आगे कहा कि भाजपा के आदर्शों और संगठन को पूरे देश में फैलाने में जोशी की राजनीतिक सूझबूझ युवा नेताओं को प्रेरित करती रहेगी। रक्षा मंत्री राजनाथ सिंह ने कर्नाटक केसरी जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उन्होंने कहा कि वे एक महान नेता, असाधारण आयोजक और राष्ट्रीय एकता के अथक समर्थक थे। मंत्री ने आगे कहा कि जोशी की राष्ट्र के प्रति अटूट प्रतिबद्धता गोवा मुक्ति आंदोलन में उनकी भूमिका में झलकती है, वहीं छुआछूत जैसी सामाजिक बुराइयों के खिलाफ उनका निडर रुख एक न्यायपूर्ण और सामंजस्यपूर्ण समाज के उनके दृष्टिकोण का प्रतीक है। रक्षा मंत्री ने कहा कि जगन्नाथराव जोशी अपनी सादगी, तीक्ष्ण बुद्धि और मातृभूमि के प्रति अटूट निष्ठा के लिए जाने जाते थे और उन्होंने अपना जीवन जनसेवा को समर्पित कर दिया था। निस्वार्थ सेवा, सामाजिक सद्भाव और राष्ट्रीय गौरव के उनके आदर्श आने वाली पीढ़ियों का मार्गदर्शन करते रहेंगे।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:13:46+00:00",
-        "link": "https://newsonair.gov.in/hi/jagannathrao-joshi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPI3n3bgAAY2H8.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "वाणिज्य और उद्योग मंत्री पीयूष गोयल ने ब्रसेल्स में भारत-यूरोपीय संघ आर्थिक सहयोग पर चर्चा की",
-        "summary": "वाणिज्‍य और उद्योग मंत्री पीयूष गोयल अपनी स्‍पेन यात्रा समाप्‍त कर कल बेल्जियम की राजधानी ब्रसेल्‍स पहुंचे। यूरोप के साथ भारत की आर्थिक साझेदारी को मजबूत करने के लिए केन्‍द्रीय मंत्री के साथ एक उच्‍च स्‍तरीय व्‍यापारि‍क श‍िष्‍टमंडल भी गया है। इसका उद्देश्‍य व्‍यापार, निवेश, प्रौद्योगिकी, नवाचार और निरंतरता पर ध्‍यान केन्द्रित करना है। श्री […]",
-        "article": "वाणिज्&#x200d;य और उद्योग मंत्री पीयूष गोयल अपनी स्&#x200d;पेन यात्रा समाप्&#x200d;त कर कल बेल्जियम की राजधानी ब्रसेल्&#x200d;स पहुंचे। यूरोप के साथ भारत की आर्थिक साझेदारी को मजबूत करने के लिए केन्&#x200d;द्रीय मंत्री के साथ एक उच्&#x200d;च स्&#x200d;तरीय व्&#x200d;यापारि&#x200d;क श&#x200d;िष्&#x200d;टमंडल भी गया है। इसका उद्देश्&#x200d;य व्&#x200d;यापार, निवेश, प्रौद्योगिकी, नवाचार और निरंतरता पर ध्&#x200d;यान केन्द्रित करना है। श्री गोयल ने बेल्जियम के उप प्रधानमंत्री और रोजगार, आर्थि&#x200d;क तथा कृषि&#x200d; मंत्री डेविड क्लारिनवाल से मुलाकात कर भारत बेल्जियम के बीच व्&#x200d;यापार, निवेश, प्रौद्योगिकी, तार्किक और कार्यबल गतिशीलता के क्षेत्रों में सहयोग बढ़ाने पर चर्चा की। दोनों नेताओं ने भारत-यूरोपीय संघ मुक्त व्यापार समझौते की परिवर्तनकारी क्षमता पर अपने विचार साझा किए और व्यवसायों और लोगों के पारस्परिक लाभ के लिए आर्थिक संबंधों को और मजबूत करने की अपनी साझा प्रतिबद्धता की पुष्टि की। श्री गोयल ने जलवायु, नेट-ज़ीरो और स्वच्छ विकास के लिए यूरोपीय संघ के आयुक्त वोपके होएकस्ट्रा से भी मुलाकात की और स्वच्छ विकास, जलवायु प्रक्रिया और सतत औद्योगिक विकास में भारत-यूरोपीय संघ के सहयोग को मजबूत करने पर विचार-विमर्श किया। दोनों ने साझा नेट-ज़ीरो लक्ष्यों को साकार करने के लिए नवीकरणीय ऊर्जा, हरित हाइड्रोजन, स्वच्छ प्रौद्योगिकियों, नवाचार, निवेश और लचीली मूल्य श्रृंखलाओं में सहयोग बढ़ाने पर चर्चा की। इसके अलावा, श्री गोयल ने ब्रसेल्स में कृषि और खाद्य के लिए यूरोपीय आयुक्त क्रिस्टोफ़ हैनसेन से मुलाकात की। दोनों नेताओं ने भारत-यूरोपीय संघ मुक्त व्यापार समझौते की सफलता के आधार पर लचीली कृषि-खाद्य मूल्य श्रृंखलाओं को मजबूत करके, खाद्य सुरक्षा बढ़ाकर, किसानों का समर्थन करके और सतत विकास को बढ़ावा देकर कृषि साझेदारी को और गहरा करने के तरीकों पर चर्चा की। इससे पहले, श्री गोयल ने थेल्स बेल्जियम के प्रबंध निदेशक थॉमस कोलिनेट और जनसंपर्क निदेशक ब्रूनो लेते से मुलाकात की। उन्होंने वैश्विक बाजारों के लिए विनिर्माण, प्रौद्योगिकी साझेदारी और कौशल विकास सहित भारत में कंपनी के दीर्घकालिक संचालन की सराहना की। एक सोशल मीडिया पोस्ट में उन्होंने कहा कि दोनों ने सहयोग को और मजबूत करने के अवसरों पर चर्चा की और कंपनी को &#8216; मेक इन इंडिया, मेक फॉर द वर्ल्ड&#8217; की परिकल्पना के अनुरूप भारत में अपने विनिर्माण कार्यों का और विस्तार करने के लिए प्रोत्साहित किया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T02:43:23+00:00",
-        "link": "https://newsonair.gov.in/hi/piyush-brussels/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNO-J5LbAAAIWqC-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "होर्मुज़ जलडमरूमध्य में जहाज़ों पर हमलों के बाद अमरीका ने ईरानी बंदरगाहों पर नाकेबंदी लागू की",
-        "summary": "होर्मुज़ जलडमरूमध्य से गुज़रने वाले कमर्शियल जहाज़ों पर तेहरान के हालिया हमलों के जवाब में अमरीका ने ईरानी बंदरगाहों की नाकेबंदी फिर से शुरू कर दी है। एक टीवी न्यूज़ चैनल को दिए साक्षात्कार में अमरीका के राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि अगर लोग होर्मुज़ से गुज़रना चाहते हैं तो यह रास्ता खुला है, […]",
-        "article": "होर्मुज़ जलडमरूमध्य से गुज़रने वाले कमर्शियल जहाज़ों पर तेहरान के हालिया हमलों के जवाब में अमरीका ने ईरानी बंदरगाहों की नाकेबंदी फिर से शुरू कर दी है। एक टीवी न्यूज़ चैनल को दिए साक्षात्कार में अमरीका के राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि अगर लोग होर्मुज़ से गुज़रना चाहते हैं तो यह रास्ता खुला है, लेकिन ईरान के लिए नहीं। श्री ट्रंप ने तेहरान को चेतावनी भी दी कि अमरीका आज रात ईरान पर हमला करने वाला है और इन हमलों की तीव्रता हर अगली रात के साथ बढ़ती जाएगी। उन्होंने कहा कि जब तक ईरान बातचीत पर नहीं आता, तब तक अमरीका उसके सभी बिजली संयंत्रों और पुलों को निशाना बनाएगा। श्री ट्रंप ने आरोप लगाया है कि तेहरान जो कुछ भी कहता है वह झूठ है क्योंकि वे हमेशा से परमाणु हथियार चाहते थे। उन्होंने यह भी कहा कि ईरान हर बार समझौता तोड़ता है। उन्होंने ईरानी सरकार के नेताओं को संदेश दिया कि उनके पास अब बस एक ही विकल्प बचा है या तो वे समझौता कर लें या फिर उनका कोई नामो-निशान नहीं बचेगा। इस बीच, ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स-आईआरजीसी ने बड़े पैमाने पर हमले करते हुए बहरीन में हथियारों और भंडारण केंद्रों को निशाना बनाया। आईआरजीसी ने एक बयान में कहा कि बहरीन के शेख ईसा बेस पर एक साथ मिसाइल और ड्रोन ऑपरेशन के दौरान हथियारों और पुर्ज़ों के कई स्टोरेज शेड नष्ट कर दिए गए। आईआरजीसी ने यह भी दावा किया कि उसने कुवैत के अली सलेम एयर बेस पर तैनात एमक्यू-9 ड्रोन के रैम्प पर हमला कर कई ड्रोन नष्ट किए।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T02:33:07+00:00",
-        "link": "https://newsonair.gov.in/hi/us-iran-blockade/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-मालदीव मुक्त व्यापार समझौते पर वार्ता का पहला दौर सफलतापूर्वक संपन्न",
-        "summary": "भारत-मालदीव मुक्त व्यापार समझौते के लिए वार्ता का पहला दौर सफलतापूर्वक संपन्न हो गया है। यह द्विपक्षीय व्यापार और निवेश संबंधों को विस्तार देने की दिशा में एक महत्वपूर्ण कदम है। वार्ता पिछले सप्ताह वर्चुअल माध्यम से आयोजित की गई थी। वाणिज्य और उद्योग मंत्रालय ने कहा कि इस दौरान दोनों पक्षों ने सभी पहलुओं […]",
-        "article": "भारत-मालदीव मुक्त व्यापार समझौते के लिए वार्ता का पहला दौर सफलतापूर्वक संपन्न हो गया है। यह द्विपक्षीय व्यापार और निवेश संबंधों को विस्तार देने की दिशा में एक महत्वपूर्ण कदम है। वार्ता पिछले सप्ताह वर्चुअल माध्यम से आयोजित की गई थी। वाणिज्य और उद्योग मंत्रालय ने कहा कि इस दौरान दोनों पक्षों ने सभी पहलुओं पर ठोस प्रगति की और कई मुद्दों पर व्यापक सहमति बनी। भारत मालदीव का दूसरा सबसे बड़ा व्यापारिक साझेदार है। दोनों देशों के बीच द्विपक्षीय व्यापार वर्ष 2025-26 में 771 मिलियन डॉलर से अधिक का था। वर्ष 2024-25 में यह 679 मिलियन डॉलर था। इसमें साढ़े 13 प्रतिशत से अधिक की बढ़ोतरी हुई है। प्रस्तावित समझौते से बाजार पहुंच बढ़ाकर, निवेश को सुगम बनाकर, अधिक आर्थिक सहयोग को बढ़ावा देकर और दोनों देशों में सतत आर्थिक विकास में योगदान देकर द्विपक्षीय आर्थिक और व्यापारिक संबंधों को और मजबूत करने की उम्मीद है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T00:45:41+00:00",
-        "link": "https://newsonair.gov.in/hi/first-round-of-talks-on-the-india-maldives-free-trade-agreement-successfully-concluded/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/India-maldives-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने संयुक्त राष्ट्र में घटते लोगों के विश्वास पर चिंता जताई",
-        "summary": "भारत ने आगाह किया है कि संयुक्‍त राष्‍ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्‍त राष्‍ट्र में विश्‍वास घट रहा है। संयुक्‍त राष्‍ट्र में भविष्‍य के लिए बहुपक्षवाद को उपयुक्‍त बनाने संबंधी विषय पर मंत्रिस्‍तरीय गोलमेज सम्‍मेलन में भारत के स्‍थायी प्रतिनिधि पी. […]",
-        "article": "भारत ने आगाह किया है कि संयुक्&#x200d;त राष्&#x200d;ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्&#x200d;त राष्&#x200d;ट्र में विश्&#x200d;वास घट रहा है। संयुक्&#x200d;त राष्&#x200d;ट्र में भविष्&#x200d;य के लिए बहुपक्षवाद को उपयुक्&#x200d;त बनाने संबंधी विषय पर मंत्रिस्&#x200d;तरीय गोलमेज सम्&#x200d;मेलन में भारत के स्&#x200d;थायी प्रतिनिधि पी. हरीश ने कहा कि सुरक्षा परिषद चल रहे संघर्षों में सार्थक हस्&#x200d;तक्षेप करने में विफल रही है। इससे अंतर्राष्&#x200d;ट्रीय शांति और सुरक्षा बनाए रखने में उसकी क्षमता पर सवाल उठ रहे हैं। श्री हरीश ने कहा कि 80 वर्ष पुरानी संयुक्&#x200d;त राष्&#x200d;ट्र संरचना मौजूदा वैश्विक चुनौतियों से निपटने में अब उपयुक्&#x200d;त नहीं रह गई है। उन्&#x200d;होंने कहा कि भविष्&#x200d;य के लिए समझौते के अंतर्गत कार्य सूत्र सिर्फ कागजों में बन कर रह गए है। इस समझौते में हिंसा, नस्&#x200d;लवाद और विदेशियों से नफरत समाप्&#x200d;त करना, समानता को बढ़ावा देना और शांति स्&#x200d;थापना को मजबूत करना शामिल है। उन्&#x200d;होंने कहा कि सार्थक सुधारों की अत्&#x200d;यंत आवश्&#x200d;यकता है। श्री हरीश ने कहा कि समझौते के कुछ कार्य बिंदुओं पर भारत की कुछ महत्&#x200d;वपूर्ण आपत्तियां हैं। लेकिन भारत ने समझौते का सकारात्&#x200d;मक रूप से समर्थन किया है। उन्&#x200d;होंने संयुक्&#x200d;त राष्&#x200d;ट्र आम सभा को पुन: सशक्&#x200d;त करना और सतत विकास में प्रगति के लिए आर्थिक तथा सामाजिक परिषद की भूमिका को सुदृढ़ करने का आह्वान किया। अल्&#x200d;प विकसित और विकासशील देशों पर श्री हरीश ने कहा कि भारत इन देशों में संसाधनों की आवाजाही के लिए प्रतिबद्ध है और ये सुनिश्चित करता है कि कोई भी देश पीछे न रहे। उन्&#x200d;होंने अंतर्राष्&#x200d;ट्रीय वित्&#x200d;तीय संसाधनों से अधिक प्रतिनिधित्&#x200d;व, जवाबदेह और विकासोन्&#x200d;मुख बनने का आह्वान किया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:48:37+00:00",
-        "link": "https://newsonair.gov.in/hi/un-reforms/",
-        "post_id": 1738924,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन मुक्त व्यापार समझौते के लागू होने के अवसर पर देशभर में कार्यक्रम आयोजित",
-        "summary": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो रहा है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय &#8211; डीजीएफटी, रत्न और आभूषण निर्यात संवर्धन परिषद &#8211; जीजेईपीसी, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग […]",
-        "article": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो रहा है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय &#8211; डीजीएफटी, रत्न और आभूषण निर्यात संवर्धन परिषद &#8211; जीजेईपीसी, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से 15 जुलाई की दोपहर को कोलकाता के नेताजी सुभाष चंद्र बोस अंतरराष्ट्रीय हवाई अड्डे पर एक ध्वजारोहण कार्यक्रम का आयोजन करेगा, जिसमें भारत-ब्रिटेन मुक्त व्यापार समझौते की शुरुआत के उपलक्ष्य में निर्यात खेप ब्रिटेन को भेजी जाएगी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:37:09+00:00",
-        "link": "https://newsonair.gov.in/hi/india-uk-fta/",
-        "post_id": 1738914,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "99 प्रतिशत भारतीय निर्यात पर शून्य शुल्क के साथ लागू हुआ भारत-ब्रिटेन सीईटीए, उद्योग मंत्री पीयूष गोयल ने बताया ऐतिहासिक कदम",
-        "summary": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज के दिन को भारत-ब्रिटेन संबंधों में एक महत्वपूर्ण उपलब्धि बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता &#8211; सीईटीए और सामाजिक सुरक्षा समझौता लागू हो गए हैं, जिससे भारत के लगभग 99 प्रतिशत निर्यात पर शून्य शुल्क […]",
-        "article": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज के दिन को भारत-ब्रिटेन संबंधों में एक महत्वपूर्ण उपलब्धि बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता &#8211; सीईटीए और सामाजिक सुरक्षा समझौता लागू हो गए हैं, जिससे भारत के लगभग 99 प्रतिशत निर्यात पर शून्य शुल्क के साथ बाजार पहुंच प्राप्त होगी और द्विपक्षीय व्यापार मूल्य का लगभग 100 प्रतिशत हिस्सा इसके अंतर्गत आएगा। उन्&#x200d;होंने कहा कि भारत-ब्रिटेन मुक्त व्यापार समझौता भारत के वस्त्र, चमड़ा, रत्न और आभूषण, इंजीनियरिंग उत्पाद, समुद्री उत्पाद, रसायन, प्रसंस्कृत खाद्य पदार्थ, सूक्ष्&#x200d;म लघु और मध्यम उद्यम &#8211; एमएसएमई, किसानों और निर्माताओं के लिए अभूतपूर्व अवसर पैदा करेगा। उन्होंने कहा कि यह समझौता देश के आईटी, पेशेवर, वित्तीय, शिक्षा और व्यावसायिक सेवा क्षेत्रों के लिए भी नए रास्ते खोलता है, साथ ही भारतीय प्रतिभाओं की गतिशीलता को भी बढ़ाता है। श्री गोयल ने कहा कि सामाजिक सुरक्षा समझौता ब्रिटेन में अस्थायी रूप से काम कर रहे भारतीय पेशेवरों को पांच साल तक दोहरी सामाजिक सुरक्षा अंशदान से छूट देकर साझेदारी को और मजबूत करता है, जिससे भारत के कार्यबल की वैश्विक प्रतिस्पर्धात्मकता में वृद्धि होती है। उन्&#x200d;होंने बताया कहा कि भारत और ब्रिटेन एक मजबूत, नवाचार-संचालित साझेदारी बनाने के लिए प्रतिबद्ध हैं जो आने वाली पीढ़ियों के लिए विकास, निवेश और साझा समृद्धि को बढ़ावा देगी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:29:58+00:00",
-        "link": "https://newsonair.gov.in/hi/india-uk-ceta/",
-        "post_id": 1738912,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "केंद्रीय मंत्री किरेन रिज‍िजू ने कतर के पर्व अमीर शेख हमद बिन खलीफा अस्‍सानी के निधन पर शोक व्‍यक्‍त किया",
-        "summary": "अल्‍पसंख्‍यक कार्य मंत्री किरेन रिज‍िजू ने कतर के अमीर शेख तमीम बिन हमद अस्‍सानी को उनके पिता अमीर शेख हमद बिन खलीफा अस्‍सानी के निधन पर शोक व्‍यक्‍त किया है। एक सोशल मीडिया पोस्‍ट में दोहा में स्थिति भारतीय दूतावास में उल्‍लेख किया गया कि श्री रिज‍िजू ने कतर के अमीर को प्रधानमंत्री नरेन्‍द्र मोदी […]",
-        "article": "अल्&#x200d;पसंख्&#x200d;यक कार्य मंत्री किरेन रिज&#x200d;िजू ने कतर के अमीर शेख तमीम बिन हमद अस्&#x200d;सानी को उनके पिता अमीर शेख हमद बिन खलीफा अस्&#x200d;सानी के निधन पर शोक व्&#x200d;यक्&#x200d;त किया है। एक सोशल मीडिया पोस्&#x200d;ट में दोहा में स्थिति भारतीय दूतावास में उल्&#x200d;लेख किया गया कि श्री रिज&#x200d;िजू ने कतर के अमीर को प्रधानमंत्री नरेन्&#x200d;द्र मोदी की गहरी व्&#x200d;यक्तिगत संवेदना को भी प्रेषित किया है। प्रधानमंत्री ने इससे पहले कतर के विकास में अमीर के पिता की स्&#x200d;थायी विरासत और भारत-कतर रणनीतिक साझेदारी को मजबूत करने में उनकी अहम भूमिका को याद किया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T03:20:25+00:00",
-        "link": "https://newsonair.gov.in/hi/qatar-ex-amir/",
-        "post_id": 1738735,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता लागू, लगभग 99 प्रतिशत भारतीय निर्यात पर शुल्‍क नहीं",
-        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्‍यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को […]",
-        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्&#x200d;यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाजार में 99 प्रतिशत टैरिफ लाइनों पर शून्य शुल्क की सुविधा प्राप्त होगी। यह समझौता भारत और ब्रिटेन की अपनी रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। कल नई दिल्ली में मीडिया को संबोधित करते हुए वाणिज्य सचिव राजेश अग्रवाल ने भारत-ब्रिटेन व्यापक आर्थिक एवं व्यापार समझौते को भारत की व्यापारिक यात्रा में एक महत्वपूर्ण मील का पत्थर बताया और कहा कि यह दो प्रमुख अर्थव्यवस्थाओं के बीच भविष्&#x200d;य के लिए आर्थिक साझेदारी स्थापित करता है। उन्होंने कहा कि यह समझौता भारत और ब्रिटेन के बीच द्विपक्षीय व्यापार और निवेश संबंधों में एक नए चरण की शुरुआत करेगा। श्री अग्रवाल ने कहा कि यह समझौता भारत के सबसे व्यापक व्यापार समझौतों में से एक है, जो व्यापक क्षेत्रीय सूचना प्रदान करता है और साथ ही शुल्क एवं शुल्क रहि&#x200d;त बाधाओं को कम करता है। दोहरे अंशदान सम्मेलन पर प्रकाश डालते हुए, श्री अग्रवाल ने कहा कि यह व्यवस्था ब्रिटेन में अस्थाई तौर पर कार्यरत पात्र श्रमिकों को निर्दिष्ट अवधि के लिए सामाजिक सुरक्षा अंशदान का भुगतान करने से छूट देकर भारतीय पेशेवरों और उनके नियोक्ताओं को लाभ पहुंचाएगी। भारत-ब्रिटेन सीईटीए और डीसीसी का लागू होना वैश्विक स्तर पर एकीकृत, लचीली और प्रतिस्पर्धी अर्थव्यवस्था बनने की दिशा में भारत की यात्रा में एक महत्वपूर्ण कदम है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T03:05:29+00:00",
-        "link": "https://newsonair.gov.in/hi/ceta-marks-beginning-of-new-phase-of-bilateral-relations-between-india-uk-commerce-secretary/",
-        "post_id": 1737766,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "breaking": [
       {
         "title": "गृह मंत्रालय ने महाराष्ट्र में एनआईए मामलों की सुनवाई के लिए विशेष न्यायालय गठित किया",
         "summary": "गृह मंत्रालय ने महाराष्ट्र में राष्ट्रीय अन्वेषण अभिकरण &#8211; एनआईए द्वारा जांच किए गए अपराधों के ट्रायल के लिए एक विशेष न्‍यायालय गठित किया है। मंत्रालय ने बॉम्बे उच्‍च न्‍यायालय के मुख्‍य न्‍यायाधीश और महाराष्ट्र सरकार से बातचीत के बाद यह फैसला लिया है। मंत्रालय ने एनआईए द्वारा जांच किए जाने वाले मामलों आतंकवाद और […]",
@@ -1177,349 +1051,6 @@ window.VM_NEWS = {
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
-      {
-        "title": "विश्व युवा कौशल दिवस पर नेताओं ने युवाओं को दी शुभकामनाएं, बताया भारत की सबसे बड़ी ताकत",
-        "summary": "विश्व युवा कौशल दिवस के अवसर पर लोकसभा अध्यक्ष ओम बिरला ने कहा कि भारत की सबसे बड़ी ताकत उसकी युवा शक्ति है। सोशल मीडिया पर एक पोस्ट में श्री बिरला ने कहा कि युवाओं की ऊर्जा, प्रतिभा और नवाचार विकसित भारत के सपने को साकार करने की सबसे मजबूत नींव हैं। उन्होंने विश्व युवा […]",
-        "article": "विश्व युवा कौशल दिवस के अवसर पर लोकसभा अध्यक्ष ओम बिरला ने कहा कि भारत की सबसे बड़ी ताकत उसकी युवा शक्ति है। सोशल मीडिया पर एक पोस्ट में श्री बिरला ने कहा कि युवाओं की ऊर्जा, प्रतिभा और नवाचार विकसित भारत के सपने को साकार करने की सबसे मजबूत नींव हैं। उन्होंने विश्व युवा कौशल दिवस पर भारत और विश्व के कुशल युवाओं को बधाई दी और कहा कि आत्मनिर्भरता के लिए कौशल और प्रौद्योगिकी आवश्यक हैं। श्री बिरला ने देश के प्रत्येक युवा से आधुनिक कौशल और नवाचार को अपनाने का आग्रह किया और विश्वास व्यक्त किया कि इससे भारत आने वाले वर्षों में विश्व के सबसे सक्षम और अग्रणी देशों में से एक के रूप में उभर सकेगा। दिल्ली की मुख्यमंत्री रेखा गुप्ता ने विश्व युवा कौशल दिवस के अवसर पर युवाओं को शुभकामनाएं दी हैं। सोशल मीडिया पर एक पोस्ट में, सुश्री गुप्ता ने कहा कि युवाओं का कौशल विकास आत्मनिर्भर भारत और विकसित दिल्ली की नींव है। उन्होंने कहा कि दिल्ली सरकार युवाओं को गुणवत्तापूर्ण कौशल प्रशिक्षण प्रदान करने और उनके लिए नए अवसर सृजित करने के लिए पूरी तरह से प्रतिबद्ध है। मुख्यमंत्री ने आगे कहा कि कौशल से लैस और मेहनती युवा दिल्ली की प्रगति को नई गति प्रदान करेंगे।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:21:20+00:00",
-        "link": "https://newsonair.gov.in/hi/world-youth-skills-day/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPDfVUaEAECf4O.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने स्वतंत्रता सेनानी के. कामराज की जयंती पर उन्हें नमन किया",
-        "summary": "उपराष्ट्रपति सी पी राधाकृष्णन ने आज स्वतंत्रता सेनानी और राजनेता के कामराज की जयंती पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उपराष्ट्रपति ने उन्हें भारतीय राजनीति के सबसे महान नेताओं में से एक बताया। उन्होंने कहा कि कामराज सादगी, ईमानदारी और निस्वार्थ जनसेवा के प्रतीक थे। श्री राधाकृष्णन ने इस बात […]",
-        "article": "उपराष्ट्रपति सी पी राधाकृष्णन ने आज स्वतंत्रता सेनानी और राजनेता के कामराज की जयंती पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उपराष्ट्रपति ने उन्हें भारतीय राजनीति के सबसे महान नेताओं में से एक बताया। उन्होंने कहा कि कामराज सादगी, ईमानदारी और निस्वार्थ जनसेवा के प्रतीक थे। श्री राधाकृष्णन ने इस बात पर प्रकाश डाला कि कामराज ने भारत के स्वतंत्रता संग्राम में महत्वपूर्ण भूमिका निभाई और शिक्षा के विस्तार और समावेशी विकास को बढ़ावा देने के अपने अग्रणी प्रयासों से अनगिनत लोगों के जीवन को रूपांतरित किया। उपराष्ट्रपति ने कहा कि उनकी सेवा और राष्ट्र निर्माण की अमिट विरासत पीढ़ियों को प्रेरित करती रहेगी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:15:46+00:00",
-        "link": "https://newsonair.gov.in/hi/k-kamaraj-jayanti/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPKH2QasAE_d47.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "जगन्नाथराव जोशी की पुण्यतिथि पर गृह मंत्री अमित शाह और रक्षा मंत्री राजनाथ सिंह ने उन्हें श्रद्धांजलि अर्पित की",
-        "summary": "केंद्रीय गृह मंत्री अमित शाह ने आज जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में शाह ने कहा कि कर्नाटक केसरी जगन्नाथराव जोशी एक देशभक्त कर्मयोगी थे, जिन्होंने गोवा में परमिट राज को समाप्त करने के लिए अमानवीय अत्याचार सहे। उन्होंने आगे कहा कि भाजपा के आदर्शों और […]",
-        "article": "केंद्रीय गृह मंत्री अमित शाह ने आज जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में शाह ने कहा कि कर्नाटक केसरी जगन्नाथराव जोशी एक देशभक्त कर्मयोगी थे, जिन्होंने गोवा में परमिट राज को समाप्त करने के लिए अमानवीय अत्याचार सहे। उन्होंने आगे कहा कि भाजपा के आदर्शों और संगठन को पूरे देश में फैलाने में जोशी की राजनीतिक सूझबूझ युवा नेताओं को प्रेरित करती रहेगी। रक्षा मंत्री राजनाथ सिंह ने कर्नाटक केसरी जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उन्होंने कहा कि वे एक महान नेता, असाधारण आयोजक और राष्ट्रीय एकता के अथक समर्थक थे। मंत्री ने आगे कहा कि जोशी की राष्ट्र के प्रति अटूट प्रतिबद्धता गोवा मुक्ति आंदोलन में उनकी भूमिका में झलकती है, वहीं छुआछूत जैसी सामाजिक बुराइयों के खिलाफ उनका निडर रुख एक न्यायपूर्ण और सामंजस्यपूर्ण समाज के उनके दृष्टिकोण का प्रतीक है। रक्षा मंत्री ने कहा कि जगन्नाथराव जोशी अपनी सादगी, तीक्ष्ण बुद्धि और मातृभूमि के प्रति अटूट निष्ठा के लिए जाने जाते थे और उन्होंने अपना जीवन जनसेवा को समर्पित कर दिया था। निस्वार्थ सेवा, सामाजिक सद्भाव और राष्ट्रीय गौरव के उनके आदर्श आने वाली पीढ़ियों का मार्गदर्शन करते रहेंगे।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:13:46+00:00",
-        "link": "https://newsonair.gov.in/hi/jagannathrao-joshi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPI3n3bgAAY2H8.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने संयुक्त राष्ट्र में घटते लोगों के विश्वास पर चिंता जताई",
-        "summary": "भारत ने आगाह किया है कि संयुक्‍त राष्‍ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्‍त राष्‍ट्र में विश्‍वास घट रहा है। संयुक्‍त राष्‍ट्र में भविष्‍य के लिए बहुपक्षवाद को उपयुक्‍त बनाने संबंधी विषय पर मंत्रिस्‍तरीय गोलमेज सम्‍मेलन में भारत के स्‍थायी प्रतिनिधि पी. […]",
-        "article": "भारत ने आगाह किया है कि संयुक्&#x200d;त राष्&#x200d;ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्&#x200d;त राष्&#x200d;ट्र में विश्&#x200d;वास घट रहा है। संयुक्&#x200d;त राष्&#x200d;ट्र में भविष्&#x200d;य के लिए बहुपक्षवाद को उपयुक्&#x200d;त बनाने संबंधी विषय पर मंत्रिस्&#x200d;तरीय गोलमेज सम्&#x200d;मेलन में भारत के स्&#x200d;थायी प्रतिनिधि पी. हरीश ने कहा कि सुरक्षा परिषद चल रहे संघर्षों में सार्थक हस्&#x200d;तक्षेप करने में विफल रही है। इससे अंतर्राष्&#x200d;ट्रीय शांति और सुरक्षा बनाए रखने में उसकी क्षमता पर सवाल उठ रहे हैं। श्री हरीश ने कहा कि 80 वर्ष पुरानी संयुक्&#x200d;त राष्&#x200d;ट्र संरचना मौजूदा वैश्विक चुनौतियों से निपटने में अब उपयुक्&#x200d;त नहीं रह गई है। उन्&#x200d;होंने कहा कि भविष्&#x200d;य के लिए समझौते के अंतर्गत कार्य सूत्र सिर्फ कागजों में बन कर रह गए है। इस समझौते में हिंसा, नस्&#x200d;लवाद और विदेशियों से नफरत समाप्&#x200d;त करना, समानता को बढ़ावा देना और शांति स्&#x200d;थापना को मजबूत करना शामिल है। उन्&#x200d;होंने कहा कि सार्थक सुधारों की अत्&#x200d;यंत आवश्&#x200d;यकता है। श्री हरीश ने कहा कि समझौते के कुछ कार्य बिंदुओं पर भारत की कुछ महत्&#x200d;वपूर्ण आपत्तियां हैं। लेकिन भारत ने समझौते का सकारात्&#x200d;मक रूप से समर्थन किया है। उन्&#x200d;होंने संयुक्&#x200d;त राष्&#x200d;ट्र आम सभा को पुन: सशक्&#x200d;त करना और सतत विकास में प्रगति के लिए आर्थिक तथा सामाजिक परिषद की भूमिका को सुदृढ़ करने का आह्वान किया। अल्&#x200d;प विकसित और विकासशील देशों पर श्री हरीश ने कहा कि भारत इन देशों में संसाधनों की आवाजाही के लिए प्रतिबद्ध है और ये सुनिश्चित करता है कि कोई भी देश पीछे न रहे। उन्&#x200d;होंने अंतर्राष्&#x200d;ट्रीय वित्&#x200d;तीय संसाधनों से अधिक प्रतिनिधित्&#x200d;व, जवाबदेह और विकासोन्&#x200d;मुख बनने का आह्वान किया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:48:37+00:00",
-        "link": "https://newsonair.gov.in/hi/un-reforms/",
-        "post_id": 1738924,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन मुक्त व्यापार समझौते के लागू होने के अवसर पर देशभर में कार्यक्रम आयोजित",
-        "summary": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो रहा है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय &#8211; डीजीएफटी, रत्न और आभूषण निर्यात संवर्धन परिषद &#8211; जीजेईपीसी, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग […]",
-        "article": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो रहा है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय &#8211; डीजीएफटी, रत्न और आभूषण निर्यात संवर्धन परिषद &#8211; जीजेईपीसी, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से 15 जुलाई की दोपहर को कोलकाता के नेताजी सुभाष चंद्र बोस अंतरराष्ट्रीय हवाई अड्डे पर एक ध्वजारोहण कार्यक्रम का आयोजन करेगा, जिसमें भारत-ब्रिटेन मुक्त व्यापार समझौते की शुरुआत के उपलक्ष्य में निर्यात खेप ब्रिटेन को भेजी जाएगी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:37:09+00:00",
-        "link": "https://newsonair.gov.in/hi/india-uk-fta/",
-        "post_id": 1738914,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "99 प्रतिशत भारतीय निर्यात पर शून्य शुल्क के साथ लागू हुआ भारत-ब्रिटेन सीईटीए, उद्योग मंत्री पीयूष गोयल ने बताया ऐतिहासिक कदम",
-        "summary": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज के दिन को भारत-ब्रिटेन संबंधों में एक महत्वपूर्ण उपलब्धि बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता &#8211; सीईटीए और सामाजिक सुरक्षा समझौता लागू हो गए हैं, जिससे भारत के लगभग 99 प्रतिशत निर्यात पर शून्य शुल्क […]",
-        "article": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज के दिन को भारत-ब्रिटेन संबंधों में एक महत्वपूर्ण उपलब्धि बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता &#8211; सीईटीए और सामाजिक सुरक्षा समझौता लागू हो गए हैं, जिससे भारत के लगभग 99 प्रतिशत निर्यात पर शून्य शुल्क के साथ बाजार पहुंच प्राप्त होगी और द्विपक्षीय व्यापार मूल्य का लगभग 100 प्रतिशत हिस्सा इसके अंतर्गत आएगा। उन्&#x200d;होंने कहा कि भारत-ब्रिटेन मुक्त व्यापार समझौता भारत के वस्त्र, चमड़ा, रत्न और आभूषण, इंजीनियरिंग उत्पाद, समुद्री उत्पाद, रसायन, प्रसंस्कृत खाद्य पदार्थ, सूक्ष्&#x200d;म लघु और मध्यम उद्यम &#8211; एमएसएमई, किसानों और निर्माताओं के लिए अभूतपूर्व अवसर पैदा करेगा। उन्होंने कहा कि यह समझौता देश के आईटी, पेशेवर, वित्तीय, शिक्षा और व्यावसायिक सेवा क्षेत्रों के लिए भी नए रास्ते खोलता है, साथ ही भारतीय प्रतिभाओं की गतिशीलता को भी बढ़ाता है। श्री गोयल ने कहा कि सामाजिक सुरक्षा समझौता ब्रिटेन में अस्थायी रूप से काम कर रहे भारतीय पेशेवरों को पांच साल तक दोहरी सामाजिक सुरक्षा अंशदान से छूट देकर साझेदारी को और मजबूत करता है, जिससे भारत के कार्यबल की वैश्विक प्रतिस्पर्धात्मकता में वृद्धि होती है। उन्&#x200d;होंने बताया कहा कि भारत और ब्रिटेन एक मजबूत, नवाचार-संचालित साझेदारी बनाने के लिए प्रतिबद्ध हैं जो आने वाली पीढ़ियों के लिए विकास, निवेश और साझा समृद्धि को बढ़ावा देगी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:29:58+00:00",
-        "link": "https://newsonair.gov.in/hi/india-uk-ceta/",
-        "post_id": 1738912,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "केंद्रीय मंत्री किरेन रिज‍िजू ने कतर के पर्व अमीर शेख हमद बिन खलीफा अस्‍सानी के निधन पर शोक व्‍यक्‍त किया",
-        "summary": "अल्‍पसंख्‍यक कार्य मंत्री किरेन रिज‍िजू ने कतर के अमीर शेख तमीम बिन हमद अस्‍सानी को उनके पिता अमीर शेख हमद बिन खलीफा अस्‍सानी के निधन पर शोक व्‍यक्‍त किया है। एक सोशल मीडिया पोस्‍ट में दोहा में स्थिति भारतीय दूतावास में उल्‍लेख किया गया कि श्री रिज‍िजू ने कतर के अमीर को प्रधानमंत्री नरेन्‍द्र मोदी […]",
-        "article": "अल्&#x200d;पसंख्&#x200d;यक कार्य मंत्री किरेन रिज&#x200d;िजू ने कतर के अमीर शेख तमीम बिन हमद अस्&#x200d;सानी को उनके पिता अमीर शेख हमद बिन खलीफा अस्&#x200d;सानी के निधन पर शोक व्&#x200d;यक्&#x200d;त किया है। एक सोशल मीडिया पोस्&#x200d;ट में दोहा में स्थिति भारतीय दूतावास में उल्&#x200d;लेख किया गया कि श्री रिज&#x200d;िजू ने कतर के अमीर को प्रधानमंत्री नरेन्&#x200d;द्र मोदी की गहरी व्&#x200d;यक्तिगत संवेदना को भी प्रेषित किया है। प्रधानमंत्री ने इससे पहले कतर के विकास में अमीर के पिता की स्&#x200d;थायी विरासत और भारत-कतर रणनीतिक साझेदारी को मजबूत करने में उनकी अहम भूमिका को याद किया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T03:20:25+00:00",
-        "link": "https://newsonair.gov.in/hi/qatar-ex-amir/",
-        "post_id": 1738735,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता लागू, लगभग 99 प्रतिशत भारतीय निर्यात पर शुल्‍क नहीं",
-        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्‍यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को […]",
-        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्&#x200d;यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाजार में 99 प्रतिशत टैरिफ लाइनों पर शून्य शुल्क की सुविधा प्राप्त होगी। यह समझौता भारत और ब्रिटेन की अपनी रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। कल नई दिल्ली में मीडिया को संबोधित करते हुए वाणिज्य सचिव राजेश अग्रवाल ने भारत-ब्रिटेन व्यापक आर्थिक एवं व्यापार समझौते को भारत की व्यापारिक यात्रा में एक महत्वपूर्ण मील का पत्थर बताया और कहा कि यह दो प्रमुख अर्थव्यवस्थाओं के बीच भविष्&#x200d;य के लिए आर्थिक साझेदारी स्थापित करता है। उन्होंने कहा कि यह समझौता भारत और ब्रिटेन के बीच द्विपक्षीय व्यापार और निवेश संबंधों में एक नए चरण की शुरुआत करेगा। श्री अग्रवाल ने कहा कि यह समझौता भारत के सबसे व्यापक व्यापार समझौतों में से एक है, जो व्यापक क्षेत्रीय सूचना प्रदान करता है और साथ ही शुल्क एवं शुल्क रहि&#x200d;त बाधाओं को कम करता है। दोहरे अंशदान सम्मेलन पर प्रकाश डालते हुए, श्री अग्रवाल ने कहा कि यह व्यवस्था ब्रिटेन में अस्थाई तौर पर कार्यरत पात्र श्रमिकों को निर्दिष्ट अवधि के लिए सामाजिक सुरक्षा अंशदान का भुगतान करने से छूट देकर भारतीय पेशेवरों और उनके नियोक्ताओं को लाभ पहुंचाएगी। भारत-ब्रिटेन सीईटीए और डीसीसी का लागू होना वैश्विक स्तर पर एकीकृत, लचीली और प्रतिस्पर्धी अर्थव्यवस्था बनने की दिशा में भारत की यात्रा में एक महत्वपूर्ण कदम है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T03:05:29+00:00",
-        "link": "https://newsonair.gov.in/hi/ceta-marks-beginning-of-new-phase-of-bilateral-relations-between-india-uk-commerce-secretary/",
-        "post_id": 1737766,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्री डॉ. एस. जयशंकर ने ब्रसेल्स में यूरोपीय संघ की शीर्ष राजनयिक काजा कल्लास से मुलाकात की",
-        "summary": "विदेश मंत्री डॉ. एस. जयशंकर ने आज ब्रसेल्स में यूरोपीय संघ की विदेश मामलों और सुरक्षा नीति की उच्च प्रतिनिधि काजा कल्लास से मुलाकात की। एक सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि पश्चिम एशिया में शांति एवं स्थिरता सुनिश्चित करने की आवश्यकता पर उनकी सार्थक चर्चा हुई। दोनों नेताओं ने सुरक्षित और […]",
-        "article": "विदेश मंत्री डॉ. एस. जयशंकर ने आज ब्रसेल्स में यूरोपीय संघ की विदेश मामलों और सुरक्षा नीति की उच्च प्रतिनिधि काजा कल्लास से मुलाकात की। एक सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि पश्चिम एशिया में शांति एवं स्थिरता सुनिश्चित करने की आवश्यकता पर उनकी सार्थक चर्चा हुई। दोनों नेताओं ने सुरक्षित और निर्बाध समुद्री व्यापार के महत्व पर भी विचार-विमर्श किया। मंत्री ने यह भी बताया कि उन्होंने आपूर्ति श्रृंखला की मजबूती सुनिश्चित करने के लिए भारत-यूरोपीय संघ रणनीतिक साझेदारी को आगे बढ़ाने पर भी चर्चा की। एक अन्य पोस्ट में सुश्री कल्लास ने कहा कि भारत-यूरोपीय संघ संबंधों के लिए यह एक ऐतिहासिक वर्ष है, जिसमें व्यापार, प्रौद्योगिकी, सुरक्षा और रक्षा क्षेत्रों में दोनों पक्षों के बीच सहयोग मजबूत हो रहा है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T03:03:15+00:00",
-        "link": "https://newsonair.gov.in/hi/jaishankar-brussels/",
-        "post_id": 1738710,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "national": [
-      {
-        "title": "गृह मंत्रालय ने महाराष्ट्र में एनआईए मामलों की सुनवाई के लिए विशेष न्यायालय गठित किया",
-        "summary": "गृह मंत्रालय ने महाराष्ट्र में राष्ट्रीय अन्वेषण अभिकरण &#8211; एनआईए द्वारा जांच किए गए अपराधों के ट्रायल के लिए एक विशेष न्‍यायालय गठित किया है। मंत्रालय ने बॉम्बे उच्‍च न्‍यायालय के मुख्‍य न्‍यायाधीश और महाराष्ट्र सरकार से बातचीत के बाद यह फैसला लिया है। मंत्रालय ने एनआईए द्वारा जांच किए जाने वाले मामलों आतंकवाद और […]",
-        "article": "गृह मंत्रालय ने महाराष्ट्र में राष्ट्रीय अन्वेषण अभिकरण &#8211; एनआईए द्वारा जांच किए गए अपराधों के ट्रायल के लिए एक विशेष न्&#x200d;यायालय गठित किया है। मंत्रालय ने बॉम्बे उच्&#x200d;च न्&#x200d;यायालय के मुख्&#x200d;य न्&#x200d;यायाधीश और महाराष्ट्र सरकार से बातचीत के बाद यह फैसला लिया है। मंत्रालय ने एनआईए द्वारा जांच किए जाने वाले मामलों आतंकवाद और अन्य अधिसूचित अपराधों की त्वरित सुनवाई के लिए मुंबई के सिटी सिविल और सत्र न्&#x200d;यायालय के कोर्ट रूम नंबर-26 को विशेष अदालत के रूप में नामित किया है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:56:12+00:00",
-        "link": "https://newsonair.gov.in/hi/nia-special-court/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPyZFJbYAAHEAR.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विश्व युवा कौशल दिवस पर नेताओं ने युवाओं को दी शुभकामनाएं, बताया भारत की सबसे बड़ी ताकत",
-        "summary": "विश्व युवा कौशल दिवस के अवसर पर लोकसभा अध्यक्ष ओम बिरला ने कहा कि भारत की सबसे बड़ी ताकत उसकी युवा शक्ति है। सोशल मीडिया पर एक पोस्ट में श्री बिरला ने कहा कि युवाओं की ऊर्जा, प्रतिभा और नवाचार विकसित भारत के सपने को साकार करने की सबसे मजबूत नींव हैं। उन्होंने विश्व युवा […]",
-        "article": "विश्व युवा कौशल दिवस के अवसर पर लोकसभा अध्यक्ष ओम बिरला ने कहा कि भारत की सबसे बड़ी ताकत उसकी युवा शक्ति है। सोशल मीडिया पर एक पोस्ट में श्री बिरला ने कहा कि युवाओं की ऊर्जा, प्रतिभा और नवाचार विकसित भारत के सपने को साकार करने की सबसे मजबूत नींव हैं। उन्होंने विश्व युवा कौशल दिवस पर भारत और विश्व के कुशल युवाओं को बधाई दी और कहा कि आत्मनिर्भरता के लिए कौशल और प्रौद्योगिकी आवश्यक हैं। श्री बिरला ने देश के प्रत्येक युवा से आधुनिक कौशल और नवाचार को अपनाने का आग्रह किया और विश्वास व्यक्त किया कि इससे भारत आने वाले वर्षों में विश्व के सबसे सक्षम और अग्रणी देशों में से एक के रूप में उभर सकेगा। दिल्ली की मुख्यमंत्री रेखा गुप्ता ने विश्व युवा कौशल दिवस के अवसर पर युवाओं को शुभकामनाएं दी हैं। सोशल मीडिया पर एक पोस्ट में, सुश्री गुप्ता ने कहा कि युवाओं का कौशल विकास आत्मनिर्भर भारत और विकसित दिल्ली की नींव है। उन्होंने कहा कि दिल्ली सरकार युवाओं को गुणवत्तापूर्ण कौशल प्रशिक्षण प्रदान करने और उनके लिए नए अवसर सृजित करने के लिए पूरी तरह से प्रतिबद्ध है। मुख्यमंत्री ने आगे कहा कि कौशल से लैस और मेहनती युवा दिल्ली की प्रगति को नई गति प्रदान करेंगे।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:21:20+00:00",
-        "link": "https://newsonair.gov.in/hi/world-youth-skills-day/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPDfVUaEAECf4O.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने स्वतंत्रता सेनानी के. कामराज की जयंती पर उन्हें नमन किया",
-        "summary": "उपराष्ट्रपति सी पी राधाकृष्णन ने आज स्वतंत्रता सेनानी और राजनेता के कामराज की जयंती पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उपराष्ट्रपति ने उन्हें भारतीय राजनीति के सबसे महान नेताओं में से एक बताया। उन्होंने कहा कि कामराज सादगी, ईमानदारी और निस्वार्थ जनसेवा के प्रतीक थे। श्री राधाकृष्णन ने इस बात […]",
-        "article": "उपराष्ट्रपति सी पी राधाकृष्णन ने आज स्वतंत्रता सेनानी और राजनेता के कामराज की जयंती पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उपराष्ट्रपति ने उन्हें भारतीय राजनीति के सबसे महान नेताओं में से एक बताया। उन्होंने कहा कि कामराज सादगी, ईमानदारी और निस्वार्थ जनसेवा के प्रतीक थे। श्री राधाकृष्णन ने इस बात पर प्रकाश डाला कि कामराज ने भारत के स्वतंत्रता संग्राम में महत्वपूर्ण भूमिका निभाई और शिक्षा के विस्तार और समावेशी विकास को बढ़ावा देने के अपने अग्रणी प्रयासों से अनगिनत लोगों के जीवन को रूपांतरित किया। उपराष्ट्रपति ने कहा कि उनकी सेवा और राष्ट्र निर्माण की अमिट विरासत पीढ़ियों को प्रेरित करती रहेगी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:15:46+00:00",
-        "link": "https://newsonair.gov.in/hi/k-kamaraj-jayanti/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPKH2QasAE_d47.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "जगन्नाथराव जोशी की पुण्यतिथि पर गृह मंत्री अमित शाह और रक्षा मंत्री राजनाथ सिंह ने उन्हें श्रद्धांजलि अर्पित की",
-        "summary": "केंद्रीय गृह मंत्री अमित शाह ने आज जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में शाह ने कहा कि कर्नाटक केसरी जगन्नाथराव जोशी एक देशभक्त कर्मयोगी थे, जिन्होंने गोवा में परमिट राज को समाप्त करने के लिए अमानवीय अत्याचार सहे। उन्होंने आगे कहा कि भाजपा के आदर्शों और […]",
-        "article": "केंद्रीय गृह मंत्री अमित शाह ने आज जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में शाह ने कहा कि कर्नाटक केसरी जगन्नाथराव जोशी एक देशभक्त कर्मयोगी थे, जिन्होंने गोवा में परमिट राज को समाप्त करने के लिए अमानवीय अत्याचार सहे। उन्होंने आगे कहा कि भाजपा के आदर्शों और संगठन को पूरे देश में फैलाने में जोशी की राजनीतिक सूझबूझ युवा नेताओं को प्रेरित करती रहेगी। रक्षा मंत्री राजनाथ सिंह ने कर्नाटक केसरी जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उन्होंने कहा कि वे एक महान नेता, असाधारण आयोजक और राष्ट्रीय एकता के अथक समर्थक थे। मंत्री ने आगे कहा कि जोशी की राष्ट्र के प्रति अटूट प्रतिबद्धता गोवा मुक्ति आंदोलन में उनकी भूमिका में झलकती है, वहीं छुआछूत जैसी सामाजिक बुराइयों के खिलाफ उनका निडर रुख एक न्यायपूर्ण और सामंजस्यपूर्ण समाज के उनके दृष्टिकोण का प्रतीक है। रक्षा मंत्री ने कहा कि जगन्नाथराव जोशी अपनी सादगी, तीक्ष्ण बुद्धि और मातृभूमि के प्रति अटूट निष्ठा के लिए जाने जाते थे और उन्होंने अपना जीवन जनसेवा को समर्पित कर दिया था। निस्वार्थ सेवा, सामाजिक सद्भाव और राष्ट्रीय गौरव के उनके आदर्श आने वाली पीढ़ियों का मार्गदर्शन करते रहेंगे।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:13:46+00:00",
-        "link": "https://newsonair.gov.in/hi/jagannathrao-joshi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPI3n3bgAAY2H8.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने संयुक्त राष्ट्र में घटते लोगों के विश्वास पर चिंता जताई",
-        "summary": "भारत ने आगाह किया है कि संयुक्‍त राष्‍ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्‍त राष्‍ट्र में विश्‍वास घट रहा है। संयुक्‍त राष्‍ट्र में भविष्‍य के लिए बहुपक्षवाद को उपयुक्‍त बनाने संबंधी विषय पर मंत्रिस्‍तरीय गोलमेज सम्‍मेलन में भारत के स्‍थायी प्रतिनिधि पी. […]",
-        "article": "भारत ने आगाह किया है कि संयुक्&#x200d;त राष्&#x200d;ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्&#x200d;त राष्&#x200d;ट्र में विश्&#x200d;वास घट रहा है। संयुक्&#x200d;त राष्&#x200d;ट्र में भविष्&#x200d;य के लिए बहुपक्षवाद को उपयुक्&#x200d;त बनाने संबंधी विषय पर मंत्रिस्&#x200d;तरीय गोलमेज सम्&#x200d;मेलन में भारत के स्&#x200d;थायी प्रतिनिधि पी. हरीश ने कहा कि सुरक्षा परिषद चल रहे संघर्षों में सार्थक हस्&#x200d;तक्षेप करने में विफल रही है। इससे अंतर्राष्&#x200d;ट्रीय शांति और सुरक्षा बनाए रखने में उसकी क्षमता पर सवाल उठ रहे हैं। श्री हरीश ने कहा कि 80 वर्ष पुरानी संयुक्&#x200d;त राष्&#x200d;ट्र संरचना मौजूदा वैश्विक चुनौतियों से निपटने में अब उपयुक्&#x200d;त नहीं रह गई है। उन्&#x200d;होंने कहा कि भविष्&#x200d;य के लिए समझौते के अंतर्गत कार्य सूत्र सिर्फ कागजों में बन कर रह गए है। इस समझौते में हिंसा, नस्&#x200d;लवाद और विदेशियों से नफरत समाप्&#x200d;त करना, समानता को बढ़ावा देना और शांति स्&#x200d;थापना को मजबूत करना शामिल है। उन्&#x200d;होंने कहा कि सार्थक सुधारों की अत्&#x200d;यंत आवश्&#x200d;यकता है। श्री हरीश ने कहा कि समझौते के कुछ कार्य बिंदुओं पर भारत की कुछ महत्&#x200d;वपूर्ण आपत्तियां हैं। लेकिन भारत ने समझौते का सकारात्&#x200d;मक रूप से समर्थन किया है। उन्&#x200d;होंने संयुक्&#x200d;त राष्&#x200d;ट्र आम सभा को पुन: सशक्&#x200d;त करना और सतत विकास में प्रगति के लिए आर्थिक तथा सामाजिक परिषद की भूमिका को सुदृढ़ करने का आह्वान किया। अल्&#x200d;प विकसित और विकासशील देशों पर श्री हरीश ने कहा कि भारत इन देशों में संसाधनों की आवाजाही के लिए प्रतिबद्ध है और ये सुनिश्चित करता है कि कोई भी देश पीछे न रहे। उन्&#x200d;होंने अंतर्राष्&#x200d;ट्रीय वित्&#x200d;तीय संसाधनों से अधिक प्रतिनिधित्&#x200d;व, जवाबदेह और विकासोन्&#x200d;मुख बनने का आह्वान किया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:48:37+00:00",
-        "link": "https://newsonair.gov.in/hi/un-reforms/",
-        "post_id": 1738924,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन मुक्त व्यापार समझौते के लागू होने के अवसर पर देशभर में कार्यक्रम आयोजित",
-        "summary": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो रहा है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय &#8211; डीजीएफटी, रत्न और आभूषण निर्यात संवर्धन परिषद &#8211; जीजेईपीसी, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग […]",
-        "article": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो रहा है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय &#8211; डीजीएफटी, रत्न और आभूषण निर्यात संवर्धन परिषद &#8211; जीजेईपीसी, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से 15 जुलाई की दोपहर को कोलकाता के नेताजी सुभाष चंद्र बोस अंतरराष्ट्रीय हवाई अड्डे पर एक ध्वजारोहण कार्यक्रम का आयोजन करेगा, जिसमें भारत-ब्रिटेन मुक्त व्यापार समझौते की शुरुआत के उपलक्ष्य में निर्यात खेप ब्रिटेन को भेजी जाएगी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:37:09+00:00",
-        "link": "https://newsonair.gov.in/hi/india-uk-fta/",
-        "post_id": 1738914,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "99 प्रतिशत भारतीय निर्यात पर शून्य शुल्क के साथ लागू हुआ भारत-ब्रिटेन सीईटीए, उद्योग मंत्री पीयूष गोयल ने बताया ऐतिहासिक कदम",
-        "summary": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज के दिन को भारत-ब्रिटेन संबंधों में एक महत्वपूर्ण उपलब्धि बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता &#8211; सीईटीए और सामाजिक सुरक्षा समझौता लागू हो गए हैं, जिससे भारत के लगभग 99 प्रतिशत निर्यात पर शून्य शुल्क […]",
-        "article": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज के दिन को भारत-ब्रिटेन संबंधों में एक महत्वपूर्ण उपलब्धि बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता &#8211; सीईटीए और सामाजिक सुरक्षा समझौता लागू हो गए हैं, जिससे भारत के लगभग 99 प्रतिशत निर्यात पर शून्य शुल्क के साथ बाजार पहुंच प्राप्त होगी और द्विपक्षीय व्यापार मूल्य का लगभग 100 प्रतिशत हिस्सा इसके अंतर्गत आएगा। उन्&#x200d;होंने कहा कि भारत-ब्रिटेन मुक्त व्यापार समझौता भारत के वस्त्र, चमड़ा, रत्न और आभूषण, इंजीनियरिंग उत्पाद, समुद्री उत्पाद, रसायन, प्रसंस्कृत खाद्य पदार्थ, सूक्ष्&#x200d;म लघु और मध्यम उद्यम &#8211; एमएसएमई, किसानों और निर्माताओं के लिए अभूतपूर्व अवसर पैदा करेगा। उन्होंने कहा कि यह समझौता देश के आईटी, पेशेवर, वित्तीय, शिक्षा और व्यावसायिक सेवा क्षेत्रों के लिए भी नए रास्ते खोलता है, साथ ही भारतीय प्रतिभाओं की गतिशीलता को भी बढ़ाता है। श्री गोयल ने कहा कि सामाजिक सुरक्षा समझौता ब्रिटेन में अस्थायी रूप से काम कर रहे भारतीय पेशेवरों को पांच साल तक दोहरी सामाजिक सुरक्षा अंशदान से छूट देकर साझेदारी को और मजबूत करता है, जिससे भारत के कार्यबल की वैश्विक प्रतिस्पर्धात्मकता में वृद्धि होती है। उन्&#x200d;होंने बताया कहा कि भारत और ब्रिटेन एक मजबूत, नवाचार-संचालित साझेदारी बनाने के लिए प्रतिबद्ध हैं जो आने वाली पीढ़ियों के लिए विकास, निवेश और साझा समृद्धि को बढ़ावा देगी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:29:58+00:00",
-        "link": "https://newsonair.gov.in/hi/india-uk-ceta/",
-        "post_id": 1738912,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "केंद्रीय मंत्री किरेन रिज‍िजू ने कतर के पर्व अमीर शेख हमद बिन खलीफा अस्‍सानी के निधन पर शोक व्‍यक्‍त किया",
-        "summary": "अल्‍पसंख्‍यक कार्य मंत्री किरेन रिज‍िजू ने कतर के अमीर शेख तमीम बिन हमद अस्‍सानी को उनके पिता अमीर शेख हमद बिन खलीफा अस्‍सानी के निधन पर शोक व्‍यक्‍त किया है। एक सोशल मीडिया पोस्‍ट में दोहा में स्थिति भारतीय दूतावास में उल्‍लेख किया गया कि श्री रिज‍िजू ने कतर के अमीर को प्रधानमंत्री नरेन्‍द्र मोदी […]",
-        "article": "अल्&#x200d;पसंख्&#x200d;यक कार्य मंत्री किरेन रिज&#x200d;िजू ने कतर के अमीर शेख तमीम बिन हमद अस्&#x200d;सानी को उनके पिता अमीर शेख हमद बिन खलीफा अस्&#x200d;सानी के निधन पर शोक व्&#x200d;यक्&#x200d;त किया है। एक सोशल मीडिया पोस्&#x200d;ट में दोहा में स्थिति भारतीय दूतावास में उल्&#x200d;लेख किया गया कि श्री रिज&#x200d;िजू ने कतर के अमीर को प्रधानमंत्री नरेन्&#x200d;द्र मोदी की गहरी व्&#x200d;यक्तिगत संवेदना को भी प्रेषित किया है। प्रधानमंत्री ने इससे पहले कतर के विकास में अमीर के पिता की स्&#x200d;थायी विरासत और भारत-कतर रणनीतिक साझेदारी को मजबूत करने में उनकी अहम भूमिका को याद किया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T03:20:25+00:00",
-        "link": "https://newsonair.gov.in/hi/qatar-ex-amir/",
-        "post_id": 1738735,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता लागू, लगभग 99 प्रतिशत भारतीय निर्यात पर शुल्‍क नहीं",
-        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्‍यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को […]",
-        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्&#x200d;यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाजार में 99 प्रतिशत टैरिफ लाइनों पर शून्य शुल्क की सुविधा प्राप्त होगी। यह समझौता भारत और ब्रिटेन की अपनी रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। कल नई दिल्ली में मीडिया को संबोधित करते हुए वाणिज्य सचिव राजेश अग्रवाल ने भारत-ब्रिटेन व्यापक आर्थिक एवं व्यापार समझौते को भारत की व्यापारिक यात्रा में एक महत्वपूर्ण मील का पत्थर बताया और कहा कि यह दो प्रमुख अर्थव्यवस्थाओं के बीच भविष्&#x200d;य के लिए आर्थिक साझेदारी स्थापित करता है। उन्होंने कहा कि यह समझौता भारत और ब्रिटेन के बीच द्विपक्षीय व्यापार और निवेश संबंधों में एक नए चरण की शुरुआत करेगा। श्री अग्रवाल ने कहा कि यह समझौता भारत के सबसे व्यापक व्यापार समझौतों में से एक है, जो व्यापक क्षेत्रीय सूचना प्रदान करता है और साथ ही शुल्क एवं शुल्क रहि&#x200d;त बाधाओं को कम करता है। दोहरे अंशदान सम्मेलन पर प्रकाश डालते हुए, श्री अग्रवाल ने कहा कि यह व्यवस्था ब्रिटेन में अस्थाई तौर पर कार्यरत पात्र श्रमिकों को निर्दिष्ट अवधि के लिए सामाजिक सुरक्षा अंशदान का भुगतान करने से छूट देकर भारतीय पेशेवरों और उनके नियोक्ताओं को लाभ पहुंचाएगी। भारत-ब्रिटेन सीईटीए और डीसीसी का लागू होना वैश्विक स्तर पर एकीकृत, लचीली और प्रतिस्पर्धी अर्थव्यवस्था बनने की दिशा में भारत की यात्रा में एक महत्वपूर्ण कदम है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T03:05:29+00:00",
-        "link": "https://newsonair.gov.in/hi/ceta-marks-beginning-of-new-phase-of-bilateral-relations-between-india-uk-commerce-secretary/",
-        "post_id": 1737766,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्री डॉ. एस. जयशंकर ने ब्रसेल्स में यूरोपीय संघ की शीर्ष राजनयिक काजा कल्लास से मुलाकात की",
-        "summary": "विदेश मंत्री डॉ. एस. जयशंकर ने आज ब्रसेल्स में यूरोपीय संघ की विदेश मामलों और सुरक्षा नीति की उच्च प्रतिनिधि काजा कल्लास से मुलाकात की। एक सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि पश्चिम एशिया में शांति एवं स्थिरता सुनिश्चित करने की आवश्यकता पर उनकी सार्थक चर्चा हुई। दोनों नेताओं ने सुरक्षित और […]",
-        "article": "विदेश मंत्री डॉ. एस. जयशंकर ने आज ब्रसेल्स में यूरोपीय संघ की विदेश मामलों और सुरक्षा नीति की उच्च प्रतिनिधि काजा कल्लास से मुलाकात की। एक सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि पश्चिम एशिया में शांति एवं स्थिरता सुनिश्चित करने की आवश्यकता पर उनकी सार्थक चर्चा हुई। दोनों नेताओं ने सुरक्षित और निर्बाध समुद्री व्यापार के महत्व पर भी विचार-विमर्श किया। मंत्री ने यह भी बताया कि उन्होंने आपूर्ति श्रृंखला की मजबूती सुनिश्चित करने के लिए भारत-यूरोपीय संघ रणनीतिक साझेदारी को आगे बढ़ाने पर भी चर्चा की। एक अन्य पोस्ट में सुश्री कल्लास ने कहा कि भारत-यूरोपीय संघ संबंधों के लिए यह एक ऐतिहासिक वर्ष है, जिसमें व्यापार, प्रौद्योगिकी, सुरक्षा और रक्षा क्षेत्रों में दोनों पक्षों के बीच सहयोग मजबूत हो रहा है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T03:03:15+00:00",
-        "link": "https://newsonair.gov.in/hi/jaishankar-brussels/",
-        "post_id": 1738710,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "politics": [
-      {
-        "title": "गृह मंत्रालय ने महाराष्ट्र में एनआईए मामलों की सुनवाई के लिए विशेष न्यायालय गठित किया",
-        "summary": "गृह मंत्रालय ने महाराष्ट्र में राष्ट्रीय अन्वेषण अभिकरण &#8211; एनआईए द्वारा जांच किए गए अपराधों के ट्रायल के लिए एक विशेष न्‍यायालय गठित किया है। मंत्रालय ने बॉम्बे उच्‍च न्‍यायालय के मुख्‍य न्‍यायाधीश और महाराष्ट्र सरकार से बातचीत के बाद यह फैसला लिया है। मंत्रालय ने एनआईए द्वारा जांच किए जाने वाले मामलों आतंकवाद और […]",
-        "article": "गृह मंत्रालय ने महाराष्ट्र में राष्ट्रीय अन्वेषण अभिकरण &#8211; एनआईए द्वारा जांच किए गए अपराधों के ट्रायल के लिए एक विशेष न्&#x200d;यायालय गठित किया है। मंत्रालय ने बॉम्बे उच्&#x200d;च न्&#x200d;यायालय के मुख्&#x200d;य न्&#x200d;यायाधीश और महाराष्ट्र सरकार से बातचीत के बाद यह फैसला लिया है। मंत्रालय ने एनआईए द्वारा जांच किए जाने वाले मामलों आतंकवाद और अन्य अधिसूचित अपराधों की त्वरित सुनवाई के लिए मुंबई के सिटी सिविल और सत्र न्&#x200d;यायालय के कोर्ट रूम नंबर-26 को विशेष अदालत के रूप में नामित किया है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:56:12+00:00",
-        "link": "https://newsonair.gov.in/hi/nia-special-court/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPyZFJbYAAHEAR.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विश्व युवा कौशल दिवस पर नेताओं ने युवाओं को दी शुभकामनाएं, बताया भारत की सबसे बड़ी ताकत",
-        "summary": "विश्व युवा कौशल दिवस के अवसर पर लोकसभा अध्यक्ष ओम बिरला ने कहा कि भारत की सबसे बड़ी ताकत उसकी युवा शक्ति है। सोशल मीडिया पर एक पोस्ट में श्री बिरला ने कहा कि युवाओं की ऊर्जा, प्रतिभा और नवाचार विकसित भारत के सपने को साकार करने की सबसे मजबूत नींव हैं। उन्होंने विश्व युवा […]",
-        "article": "विश्व युवा कौशल दिवस के अवसर पर लोकसभा अध्यक्ष ओम बिरला ने कहा कि भारत की सबसे बड़ी ताकत उसकी युवा शक्ति है। सोशल मीडिया पर एक पोस्ट में श्री बिरला ने कहा कि युवाओं की ऊर्जा, प्रतिभा और नवाचार विकसित भारत के सपने को साकार करने की सबसे मजबूत नींव हैं। उन्होंने विश्व युवा कौशल दिवस पर भारत और विश्व के कुशल युवाओं को बधाई दी और कहा कि आत्मनिर्भरता के लिए कौशल और प्रौद्योगिकी आवश्यक हैं। श्री बिरला ने देश के प्रत्येक युवा से आधुनिक कौशल और नवाचार को अपनाने का आग्रह किया और विश्वास व्यक्त किया कि इससे भारत आने वाले वर्षों में विश्व के सबसे सक्षम और अग्रणी देशों में से एक के रूप में उभर सकेगा। दिल्ली की मुख्यमंत्री रेखा गुप्ता ने विश्व युवा कौशल दिवस के अवसर पर युवाओं को शुभकामनाएं दी हैं। सोशल मीडिया पर एक पोस्ट में, सुश्री गुप्ता ने कहा कि युवाओं का कौशल विकास आत्मनिर्भर भारत और विकसित दिल्ली की नींव है। उन्होंने कहा कि दिल्ली सरकार युवाओं को गुणवत्तापूर्ण कौशल प्रशिक्षण प्रदान करने और उनके लिए नए अवसर सृजित करने के लिए पूरी तरह से प्रतिबद्ध है। मुख्यमंत्री ने आगे कहा कि कौशल से लैस और मेहनती युवा दिल्ली की प्रगति को नई गति प्रदान करेंगे।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:21:20+00:00",
-        "link": "https://newsonair.gov.in/hi/world-youth-skills-day/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPDfVUaEAECf4O.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने स्वतंत्रता सेनानी के. कामराज की जयंती पर उन्हें नमन किया",
-        "summary": "उपराष्ट्रपति सी पी राधाकृष्णन ने आज स्वतंत्रता सेनानी और राजनेता के कामराज की जयंती पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उपराष्ट्रपति ने उन्हें भारतीय राजनीति के सबसे महान नेताओं में से एक बताया। उन्होंने कहा कि कामराज सादगी, ईमानदारी और निस्वार्थ जनसेवा के प्रतीक थे। श्री राधाकृष्णन ने इस बात […]",
-        "article": "उपराष्ट्रपति सी पी राधाकृष्णन ने आज स्वतंत्रता सेनानी और राजनेता के कामराज की जयंती पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उपराष्ट्रपति ने उन्हें भारतीय राजनीति के सबसे महान नेताओं में से एक बताया। उन्होंने कहा कि कामराज सादगी, ईमानदारी और निस्वार्थ जनसेवा के प्रतीक थे। श्री राधाकृष्णन ने इस बात पर प्रकाश डाला कि कामराज ने भारत के स्वतंत्रता संग्राम में महत्वपूर्ण भूमिका निभाई और शिक्षा के विस्तार और समावेशी विकास को बढ़ावा देने के अपने अग्रणी प्रयासों से अनगिनत लोगों के जीवन को रूपांतरित किया। उपराष्ट्रपति ने कहा कि उनकी सेवा और राष्ट्र निर्माण की अमिट विरासत पीढ़ियों को प्रेरित करती रहेगी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:15:46+00:00",
-        "link": "https://newsonair.gov.in/hi/k-kamaraj-jayanti/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPKH2QasAE_d47.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "जगन्नाथराव जोशी की पुण्यतिथि पर गृह मंत्री अमित शाह और रक्षा मंत्री राजनाथ सिंह ने उन्हें श्रद्धांजलि अर्पित की",
-        "summary": "केंद्रीय गृह मंत्री अमित शाह ने आज जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में शाह ने कहा कि कर्नाटक केसरी जगन्नाथराव जोशी एक देशभक्त कर्मयोगी थे, जिन्होंने गोवा में परमिट राज को समाप्त करने के लिए अमानवीय अत्याचार सहे। उन्होंने आगे कहा कि भाजपा के आदर्शों और […]",
-        "article": "केंद्रीय गृह मंत्री अमित शाह ने आज जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में शाह ने कहा कि कर्नाटक केसरी जगन्नाथराव जोशी एक देशभक्त कर्मयोगी थे, जिन्होंने गोवा में परमिट राज को समाप्त करने के लिए अमानवीय अत्याचार सहे। उन्होंने आगे कहा कि भाजपा के आदर्शों और संगठन को पूरे देश में फैलाने में जोशी की राजनीतिक सूझबूझ युवा नेताओं को प्रेरित करती रहेगी। रक्षा मंत्री राजनाथ सिंह ने कर्नाटक केसरी जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उन्होंने कहा कि वे एक महान नेता, असाधारण आयोजक और राष्ट्रीय एकता के अथक समर्थक थे। मंत्री ने आगे कहा कि जोशी की राष्ट्र के प्रति अटूट प्रतिबद्धता गोवा मुक्ति आंदोलन में उनकी भूमिका में झलकती है, वहीं छुआछूत जैसी सामाजिक बुराइयों के खिलाफ उनका निडर रुख एक न्यायपूर्ण और सामंजस्यपूर्ण समाज के उनके दृष्टिकोण का प्रतीक है। रक्षा मंत्री ने कहा कि जगन्नाथराव जोशी अपनी सादगी, तीक्ष्ण बुद्धि और मातृभूमि के प्रति अटूट निष्ठा के लिए जाने जाते थे और उन्होंने अपना जीवन जनसेवा को समर्पित कर दिया था। निस्वार्थ सेवा, सामाजिक सद्भाव और राष्ट्रीय गौरव के उनके आदर्श आने वाली पीढ़ियों का मार्गदर्शन करते रहेंगे।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:13:46+00:00",
-        "link": "https://newsonair.gov.in/hi/jagannathrao-joshi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPI3n3bgAAY2H8.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने संयुक्त राष्ट्र में घटते लोगों के विश्वास पर चिंता जताई",
-        "summary": "भारत ने आगाह किया है कि संयुक्‍त राष्‍ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्‍त राष्‍ट्र में विश्‍वास घट रहा है। संयुक्‍त राष्‍ट्र में भविष्‍य के लिए बहुपक्षवाद को उपयुक्‍त बनाने संबंधी विषय पर मंत्रिस्‍तरीय गोलमेज सम्‍मेलन में भारत के स्‍थायी प्रतिनिधि पी. […]",
-        "article": "भारत ने आगाह किया है कि संयुक्&#x200d;त राष्&#x200d;ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्&#x200d;त राष्&#x200d;ट्र में विश्&#x200d;वास घट रहा है। संयुक्&#x200d;त राष्&#x200d;ट्र में भविष्&#x200d;य के लिए बहुपक्षवाद को उपयुक्&#x200d;त बनाने संबंधी विषय पर मंत्रिस्&#x200d;तरीय गोलमेज सम्&#x200d;मेलन में भारत के स्&#x200d;थायी प्रतिनिधि पी. हरीश ने कहा कि सुरक्षा परिषद चल रहे संघर्षों में सार्थक हस्&#x200d;तक्षेप करने में विफल रही है। इससे अंतर्राष्&#x200d;ट्रीय शांति और सुरक्षा बनाए रखने में उसकी क्षमता पर सवाल उठ रहे हैं। श्री हरीश ने कहा कि 80 वर्ष पुरानी संयुक्&#x200d;त राष्&#x200d;ट्र संरचना मौजूदा वैश्विक चुनौतियों से निपटने में अब उपयुक्&#x200d;त नहीं रह गई है। उन्&#x200d;होंने कहा कि भविष्&#x200d;य के लिए समझौते के अंतर्गत कार्य सूत्र सिर्फ कागजों में बन कर रह गए है। इस समझौते में हिंसा, नस्&#x200d;लवाद और विदेशियों से नफरत समाप्&#x200d;त करना, समानता को बढ़ावा देना और शांति स्&#x200d;थापना को मजबूत करना शामिल है। उन्&#x200d;होंने कहा कि सार्थक सुधारों की अत्&#x200d;यंत आवश्&#x200d;यकता है। श्री हरीश ने कहा कि समझौते के कुछ कार्य बिंदुओं पर भारत की कुछ महत्&#x200d;वपूर्ण आपत्तियां हैं। लेकिन भारत ने समझौते का सकारात्&#x200d;मक रूप से समर्थन किया है। उन्&#x200d;होंने संयुक्&#x200d;त राष्&#x200d;ट्र आम सभा को पुन: सशक्&#x200d;त करना और सतत विकास में प्रगति के लिए आर्थिक तथा सामाजिक परिषद की भूमिका को सुदृढ़ करने का आह्वान किया। अल्&#x200d;प विकसित और विकासशील देशों पर श्री हरीश ने कहा कि भारत इन देशों में संसाधनों की आवाजाही के लिए प्रतिबद्ध है और ये सुनिश्चित करता है कि कोई भी देश पीछे न रहे। उन्&#x200d;होंने अंतर्राष्&#x200d;ट्रीय वित्&#x200d;तीय संसाधनों से अधिक प्रतिनिधित्&#x200d;व, जवाबदेह और विकासोन्&#x200d;मुख बनने का आह्वान किया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:48:37+00:00",
-        "link": "https://newsonair.gov.in/hi/un-reforms/",
-        "post_id": 1738924,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन मुक्त व्यापार समझौते के लागू होने के अवसर पर देशभर में कार्यक्रम आयोजित",
-        "summary": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो रहा है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय &#8211; डीजीएफटी, रत्न और आभूषण निर्यात संवर्धन परिषद &#8211; जीजेईपीसी, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग […]",
-        "article": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो रहा है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय &#8211; डीजीएफटी, रत्न और आभूषण निर्यात संवर्धन परिषद &#8211; जीजेईपीसी, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से 15 जुलाई की दोपहर को कोलकाता के नेताजी सुभाष चंद्र बोस अंतरराष्ट्रीय हवाई अड्डे पर एक ध्वजारोहण कार्यक्रम का आयोजन करेगा, जिसमें भारत-ब्रिटेन मुक्त व्यापार समझौते की शुरुआत के उपलक्ष्य में निर्यात खेप ब्रिटेन को भेजी जाएगी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:37:09+00:00",
-        "link": "https://newsonair.gov.in/hi/india-uk-fta/",
-        "post_id": 1738914,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "99 प्रतिशत भारतीय निर्यात पर शून्य शुल्क के साथ लागू हुआ भारत-ब्रिटेन सीईटीए, उद्योग मंत्री पीयूष गोयल ने बताया ऐतिहासिक कदम",
-        "summary": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज के दिन को भारत-ब्रिटेन संबंधों में एक महत्वपूर्ण उपलब्धि बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता &#8211; सीईटीए और सामाजिक सुरक्षा समझौता लागू हो गए हैं, जिससे भारत के लगभग 99 प्रतिशत निर्यात पर शून्य शुल्क […]",
-        "article": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज के दिन को भारत-ब्रिटेन संबंधों में एक महत्वपूर्ण उपलब्धि बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता &#8211; सीईटीए और सामाजिक सुरक्षा समझौता लागू हो गए हैं, जिससे भारत के लगभग 99 प्रतिशत निर्यात पर शून्य शुल्क के साथ बाजार पहुंच प्राप्त होगी और द्विपक्षीय व्यापार मूल्य का लगभग 100 प्रतिशत हिस्सा इसके अंतर्गत आएगा। उन्&#x200d;होंने कहा कि भारत-ब्रिटेन मुक्त व्यापार समझौता भारत के वस्त्र, चमड़ा, रत्न और आभूषण, इंजीनियरिंग उत्पाद, समुद्री उत्पाद, रसायन, प्रसंस्कृत खाद्य पदार्थ, सूक्ष्&#x200d;म लघु और मध्यम उद्यम &#8211; एमएसएमई, किसानों और निर्माताओं के लिए अभूतपूर्व अवसर पैदा करेगा। उन्होंने कहा कि यह समझौता देश के आईटी, पेशेवर, वित्तीय, शिक्षा और व्यावसायिक सेवा क्षेत्रों के लिए भी नए रास्ते खोलता है, साथ ही भारतीय प्रतिभाओं की गतिशीलता को भी बढ़ाता है। श्री गोयल ने कहा कि सामाजिक सुरक्षा समझौता ब्रिटेन में अस्थायी रूप से काम कर रहे भारतीय पेशेवरों को पांच साल तक दोहरी सामाजिक सुरक्षा अंशदान से छूट देकर साझेदारी को और मजबूत करता है, जिससे भारत के कार्यबल की वैश्विक प्रतिस्पर्धात्मकता में वृद्धि होती है। उन्&#x200d;होंने बताया कहा कि भारत और ब्रिटेन एक मजबूत, नवाचार-संचालित साझेदारी बनाने के लिए प्रतिबद्ध हैं जो आने वाली पीढ़ियों के लिए विकास, निवेश और साझा समृद्धि को बढ़ावा देगी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:29:58+00:00",
-        "link": "https://newsonair.gov.in/hi/india-uk-ceta/",
-        "post_id": 1738912,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "केंद्रीय मंत्री किरेन रिज‍िजू ने कतर के पर्व अमीर शेख हमद बिन खलीफा अस्‍सानी के निधन पर शोक व्‍यक्‍त किया",
-        "summary": "अल्‍पसंख्‍यक कार्य मंत्री किरेन रिज‍िजू ने कतर के अमीर शेख तमीम बिन हमद अस्‍सानी को उनके पिता अमीर शेख हमद बिन खलीफा अस्‍सानी के निधन पर शोक व्‍यक्‍त किया है। एक सोशल मीडिया पोस्‍ट में दोहा में स्थिति भारतीय दूतावास में उल्‍लेख किया गया कि श्री रिज‍िजू ने कतर के अमीर को प्रधानमंत्री नरेन्‍द्र मोदी […]",
-        "article": "अल्&#x200d;पसंख्&#x200d;यक कार्य मंत्री किरेन रिज&#x200d;िजू ने कतर के अमीर शेख तमीम बिन हमद अस्&#x200d;सानी को उनके पिता अमीर शेख हमद बिन खलीफा अस्&#x200d;सानी के निधन पर शोक व्&#x200d;यक्&#x200d;त किया है। एक सोशल मीडिया पोस्&#x200d;ट में दोहा में स्थिति भारतीय दूतावास में उल्&#x200d;लेख किया गया कि श्री रिज&#x200d;िजू ने कतर के अमीर को प्रधानमंत्री नरेन्&#x200d;द्र मोदी की गहरी व्&#x200d;यक्तिगत संवेदना को भी प्रेषित किया है। प्रधानमंत्री ने इससे पहले कतर के विकास में अमीर के पिता की स्&#x200d;थायी विरासत और भारत-कतर रणनीतिक साझेदारी को मजबूत करने में उनकी अहम भूमिका को याद किया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T03:20:25+00:00",
-        "link": "https://newsonair.gov.in/hi/qatar-ex-amir/",
-        "post_id": 1738735,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता लागू, लगभग 99 प्रतिशत भारतीय निर्यात पर शुल्‍क नहीं",
-        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्‍यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को […]",
-        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्&#x200d;यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाजार में 99 प्रतिशत टैरिफ लाइनों पर शून्य शुल्क की सुविधा प्राप्त होगी। यह समझौता भारत और ब्रिटेन की अपनी रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। कल नई दिल्ली में मीडिया को संबोधित करते हुए वाणिज्य सचिव राजेश अग्रवाल ने भारत-ब्रिटेन व्यापक आर्थिक एवं व्यापार समझौते को भारत की व्यापारिक यात्रा में एक महत्वपूर्ण मील का पत्थर बताया और कहा कि यह दो प्रमुख अर्थव्यवस्थाओं के बीच भविष्&#x200d;य के लिए आर्थिक साझेदारी स्थापित करता है। उन्होंने कहा कि यह समझौता भारत और ब्रिटेन के बीच द्विपक्षीय व्यापार और निवेश संबंधों में एक नए चरण की शुरुआत करेगा। श्री अग्रवाल ने कहा कि यह समझौता भारत के सबसे व्यापक व्यापार समझौतों में से एक है, जो व्यापक क्षेत्रीय सूचना प्रदान करता है और साथ ही शुल्क एवं शुल्क रहि&#x200d;त बाधाओं को कम करता है। दोहरे अंशदान सम्मेलन पर प्रकाश डालते हुए, श्री अग्रवाल ने कहा कि यह व्यवस्था ब्रिटेन में अस्थाई तौर पर कार्यरत पात्र श्रमिकों को निर्दिष्ट अवधि के लिए सामाजिक सुरक्षा अंशदान का भुगतान करने से छूट देकर भारतीय पेशेवरों और उनके नियोक्ताओं को लाभ पहुंचाएगी। भारत-ब्रिटेन सीईटीए और डीसीसी का लागू होना वैश्विक स्तर पर एकीकृत, लचीली और प्रतिस्पर्धी अर्थव्यवस्था बनने की दिशा में भारत की यात्रा में एक महत्वपूर्ण कदम है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T03:05:29+00:00",
-        "link": "https://newsonair.gov.in/hi/ceta-marks-beginning-of-new-phase-of-bilateral-relations-between-india-uk-commerce-secretary/",
-        "post_id": 1737766,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विदेश मंत्री डॉ. एस. जयशंकर ने ब्रसेल्स में यूरोपीय संघ की शीर्ष राजनयिक काजा कल्लास से मुलाकात की",
-        "summary": "विदेश मंत्री डॉ. एस. जयशंकर ने आज ब्रसेल्स में यूरोपीय संघ की विदेश मामलों और सुरक्षा नीति की उच्च प्रतिनिधि काजा कल्लास से मुलाकात की। एक सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि पश्चिम एशिया में शांति एवं स्थिरता सुनिश्चित करने की आवश्यकता पर उनकी सार्थक चर्चा हुई। दोनों नेताओं ने सुरक्षित और […]",
-        "article": "विदेश मंत्री डॉ. एस. जयशंकर ने आज ब्रसेल्स में यूरोपीय संघ की विदेश मामलों और सुरक्षा नीति की उच्च प्रतिनिधि काजा कल्लास से मुलाकात की। एक सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि पश्चिम एशिया में शांति एवं स्थिरता सुनिश्चित करने की आवश्यकता पर उनकी सार्थक चर्चा हुई। दोनों नेताओं ने सुरक्षित और निर्बाध समुद्री व्यापार के महत्व पर भी विचार-विमर्श किया। मंत्री ने यह भी बताया कि उन्होंने आपूर्ति श्रृंखला की मजबूती सुनिश्चित करने के लिए भारत-यूरोपीय संघ रणनीतिक साझेदारी को आगे बढ़ाने पर भी चर्चा की। एक अन्य पोस्ट में सुश्री कल्लास ने कहा कि भारत-यूरोपीय संघ संबंधों के लिए यह एक ऐतिहासिक वर्ष है, जिसमें व्यापार, प्रौद्योगिकी, सुरक्षा और रक्षा क्षेत्रों में दोनों पक्षों के बीच सहयोग मजबूत हो रहा है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T03:03:15+00:00",
-        "link": "https://newsonair.gov.in/hi/jaishankar-brussels/",
-        "post_id": 1738710,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "world": [
       {
         "title": "भारत ने संयुक्त राष्ट्र में घटते लोगों के विश्वास पर चिंता जताई",
         "summary": "भारत ने आगाह किया है कि संयुक्‍त राष्‍ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्‍त राष्‍ट्र में विश्‍वास घट रहा है। संयुक्‍त राष्‍ट्र में भविष्‍य के लिए बहुपक्षवाद को उपयुक्‍त बनाने संबंधी विषय पर मंत्रिस्‍तरीय गोलमेज सम्‍मेलन में भारत के स्‍थायी प्रतिनिधि पी. […]",
@@ -1533,8 +1064,8 @@ window.VM_NEWS = {
       },
       {
         "title": "भारत-ब्रिटेन मुक्त व्यापार समझौते के लागू होने के अवसर पर देशभर में कार्यक्रम आयोजित",
-        "summary": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो रहा है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय &#8211; डीजीएफटी, रत्न और आभूषण निर्यात संवर्धन परिषद &#8211; जीजेईपीसी, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग […]",
-        "article": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो रहा है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय &#8211; डीजीएफटी, रत्न और आभूषण निर्यात संवर्धन परिषद &#8211; जीजेईपीसी, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से 15 जुलाई की दोपहर को कोलकाता के नेताजी सुभाष चंद्र बोस अंतरराष्ट्रीय हवाई अड्डे पर एक ध्वजारोहण कार्यक्रम का आयोजन करेगा, जिसमें भारत-ब्रिटेन मुक्त व्यापार समझौते की शुरुआत के उपलक्ष्य में निर्यात खेप ब्रिटेन को भेजी जाएगी।",
+        "summary": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो गया है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय, रत्न और आभूषण निर्यात संवर्धन परिषद, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से आज दोपहर कोलकाता […]",
+        "article": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो गया है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय, रत्न और आभूषण निर्यात संवर्धन परिषद, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से आज दोपहर कोलकाता के नेताजी सुभाष चंद्र बोस अंतरराष्ट्रीय हवाई अड्डे पर एक ध्वजारोहण कार्यक्रम आयोजित करेगा। इसमें भारत-ब्रिटेन मुक्त व्यापार समझौते की शुरुआत के उपलक्ष्य में निर्यात खेप ब्रिटेन भेजी जाएगी।",
         "date": "2026-07-15",
         "pubDate": "2026-07-15T05:37:09+00:00",
         "link": "https://newsonair.gov.in/hi/india-uk-fta/",
@@ -1550,6 +1081,39 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T05:29:58+00:00",
         "link": "https://newsonair.gov.in/hi/india-uk-ceta/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPpe_OaEAA0jik.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विश्व युवा कौशल दिवस पर नेताओं ने युवाओं को दी शुभकामनाएं, बताया भारत की सबसे बड़ी ताकत",
+        "summary": "विश्व युवा कौशल दिवस के अवसर पर लोकसभा अध्यक्ष ओम बिरला ने कहा कि भारत की सबसे बड़ी ताकत उसकी युवा शक्ति है। सोशल मीडिया पर एक पोस्ट में श्री बिरला ने कहा कि युवाओं की ऊर्जा, प्रतिभा और नवाचार विकसित भारत के सपने को साकार करने की सबसे मजबूत नींव हैं। उन्होंने विश्व युवा […]",
+        "article": "विश्व युवा कौशल दिवस के अवसर पर लोकसभा अध्यक्ष ओम बिरला ने कहा कि भारत की सबसे बड़ी ताकत उसकी युवा शक्ति है। सोशल मीडिया पर एक पोस्ट में श्री बिरला ने कहा कि युवाओं की ऊर्जा, प्रतिभा और नवाचार विकसित भारत के सपने को साकार करने की सबसे मजबूत नींव हैं। उन्होंने विश्व युवा कौशल दिवस पर भारत और विश्व के कुशल युवाओं को बधाई दी और कहा कि आत्मनिर्भरता के लिए कौशल और प्रौद्योगिकी आवश्यक हैं। श्री बिरला ने देश के प्रत्येक युवा से आधुनिक कौशल और नवाचार को अपनाने का आग्रह किया और विश्वास व्यक्त किया कि इससे भारत आने वाले वर्षों में विश्व के सबसे सक्षम और अग्रणी देशों में से एक के रूप में उभर सकेगा। दिल्ली की मुख्यमंत्री रेखा गुप्ता ने विश्व युवा कौशल दिवस के अवसर पर युवाओं को शुभकामनाएं दी हैं। सोशल मीडिया पर एक पोस्ट में, सुश्री गुप्ता ने कहा कि युवाओं का कौशल विकास आत्मनिर्भर भारत और विकसित दिल्ली की नींव है। उन्होंने कहा कि दिल्ली सरकार युवाओं को गुणवत्तापूर्ण कौशल प्रशिक्षण प्रदान करने और उनके लिए नए अवसर सृजित करने के लिए पूरी तरह से प्रतिबद्ध है। मुख्यमंत्री ने आगे कहा कि कौशल से लैस और मेहनती युवा दिल्ली की प्रगति को नई गति प्रदान करेंगे।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:21:20+00:00",
+        "link": "https://newsonair.gov.in/hi/world-youth-skills-day/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPDfVUaEAECf4O.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उपराष्ट्रपति सी. पी. राधाकृष्णन और पीएम मोदी ने स्वतंत्रता सेनानी के. कामराज की जयंती पर उन्हें नमन किया",
+        "summary": "उपराष्ट्रपति सी पी राधाकृष्णन और प्रधानमंत्री नरेन्‍द्र मोदी ने आज स्वतंत्रता सेनानी और राजनेता के कामराज की जयंती पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उपराष्ट्रपति ने उन्हें भारतीय राजनीति के सबसे महान नेताओं में से एक बताया। उन्होंने कहा कि कामराज सादगी, ईमानदारी और निस्वार्थ जनसेवा के प्रतीक थे। श्री […]",
+        "article": "उपराष्ट्रपति सी पी राधाकृष्णन और प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने आज स्वतंत्रता सेनानी और राजनेता के कामराज की जयंती पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उपराष्ट्रपति ने उन्हें भारतीय राजनीति के सबसे महान नेताओं में से एक बताया। उन्होंने कहा कि कामराज सादगी, ईमानदारी और निस्वार्थ जनसेवा के प्रतीक थे। श्री राधाकृष्णन ने इस बात पर प्रकाश डाला कि कामराज ने भारत के स्वतंत्रता संग्राम में महत्वपूर्ण भूमिका निभाई और शिक्षा के विस्तार और समावेशी विकास को बढ़ावा देने के अपने अग्रणी प्रयासों से अनगिनत लोगों के जीवन को रूपांतरित किया। उपराष्ट्रपति ने कहा कि उनकी सेवा और राष्ट्र निर्माण की अमिट विरासत पीढ़ियों को प्रेरित करती रहेगी। प्रधानमंत्री ने कहा कि के. कामराज भारत के स्वतंत्रता आंदोलन के एक मजबूत स्तंभ और एक असाधारण सार्वजनिक व्यक्तित्व थे। श्री मोदी ने कहा कि उन्&#x200d;होंने अपना जीवन राष्ट्र निर्माण के लिए समर्पित कर दिया और शिक्षा, समावेशी विकास तथा वंचितों के कल्याण जैसे क्षेत्रों के प्रति उनकी अटूट प्रतिबद्धता पीढ़ियों का मार्गदर्शन करती रहेगी।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:15:46+00:00",
+        "link": "https://newsonair.gov.in/hi/k-kamaraj-jayanti/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPKH2QasAE_d47.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "जगन्नाथराव जोशी की पुण्यतिथि पर गृह मंत्री अमित शाह और रक्षा मंत्री राजनाथ सिंह ने उन्हें श्रद्धांजलि अर्पित की",
+        "summary": "केंद्रीय गृह मंत्री अमित शाह ने आज जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में शाह ने कहा कि कर्नाटक केसरी जगन्नाथराव जोशी एक देशभक्त कर्मयोगी थे, जिन्होंने गोवा में परमिट राज को समाप्त करने के लिए अमानवीय अत्याचार सहे। उन्होंने आगे कहा कि भाजपा के आदर्शों और […]",
+        "article": "केंद्रीय गृह मंत्री अमित शाह ने आज जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में शाह ने कहा कि कर्नाटक केसरी जगन्नाथराव जोशी एक देशभक्त कर्मयोगी थे, जिन्होंने गोवा में परमिट राज को समाप्त करने के लिए अमानवीय अत्याचार सहे। उन्होंने आगे कहा कि भाजपा के आदर्शों और संगठन को पूरे देश में फैलाने में जोशी की राजनीतिक सूझबूझ युवा नेताओं को प्रेरित करती रहेगी। रक्षा मंत्री राजनाथ सिंह ने कर्नाटक केसरी जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उन्होंने कहा कि वे एक महान नेता, असाधारण आयोजक और राष्ट्रीय एकता के अथक समर्थक थे। मंत्री ने आगे कहा कि जोशी की राष्ट्र के प्रति अटूट प्रतिबद्धता गोवा मुक्ति आंदोलन में उनकी भूमिका में झलकती है, वहीं छुआछूत जैसी सामाजिक बुराइयों के खिलाफ उनका निडर रुख एक न्यायपूर्ण और सामंजस्यपूर्ण समाज के उनके दृष्टिकोण का प्रतीक है। रक्षा मंत्री ने कहा कि जगन्नाथराव जोशी अपनी सादगी, तीक्ष्ण बुद्धि और मातृभूमि के प्रति अटूट निष्ठा के लिए जाने जाते थे और उन्होंने अपना जीवन जनसेवा को समर्पित कर दिया था। निस्वार्थ सेवा, सामाजिक सद्भाव और राष्ट्रीय गौरव के उनके आदर्श आने वाली पीढ़ियों का मार्गदर्शन करते रहेंगे।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:13:46+00:00",
+        "link": "https://newsonair.gov.in/hi/jagannathrao-joshi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPI3n3bgAAY2H8.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1596,6 +1160,366 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNO-J5LbAAAIWqC-scaled.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
+      }
+    ],
+    "breaking": [
+      {
+        "title": "पीएम मोदी शुक्रवार को पंजाब में कई विकास परियोजनाओं का उद्घाटन करेंगे",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी शुक्रवार को पंजाब जाएंगे। इस दौरान वे जालंधर कैंटोनमेंट रेलवे स्टेशन का उद्घाटन करेंगे और अमृत भारत स्टेशन योजना के तहत पुनर्निर्मित 74 अन्य रेलवे स्टेशनों का वर्चुअल उद्घाटन भी करेंगे। प्रधानमंत्री संत रविदास एक्सप्रेस को भी रवाना करेंगे। ये रेलगाड़ी अमृतसर को उत्तर प्रदेश के वाराणसी से जोड़ेगी। जालंधर पहुंचने से […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी शुक्रवार को पंजाब जाएंगे। इस दौरान वे जालंधर कैंटोनमेंट रेलवे स्टेशन का उद्घाटन करेंगे और अमृत भारत स्टेशन योजना के तहत पुनर्निर्मित 74 अन्य रेलवे स्टेशनों का वर्चुअल उद्घाटन भी करेंगे। प्रधानमंत्री संत रविदास एक्सप्रेस को भी रवाना करेंगे। ये रेलगाड़ी अमृतसर को उत्तर प्रदेश के वाराणसी से जोड़ेगी। जालंधर पहुंचने से पहले श्री मोदी चंडीगढ़ स्थित पंजाब इंजीनियरिंग कॉलेज का भी दौरा करेंगे, जहां वे विभिन्न बुनियादी ढांचा परियोजनाओं का उद्घाटन करेंगे।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:44:02+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-punjab-visit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pm-modi.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गृह मंत्रालय ने महाराष्ट्र में एनआईए मामलों की सुनवाई के लिए विशेष न्यायालय गठित किया",
+        "summary": "गृह मंत्रालय ने महाराष्ट्र में राष्ट्रीय अन्वेषण अभिकरण &#8211; एनआईए द्वारा जांच किए गए अपराधों के ट्रायल के लिए एक विशेष न्‍यायालय गठित किया है। मंत्रालय ने बॉम्बे उच्‍च न्‍यायालय के मुख्‍य न्‍यायाधीश और महाराष्ट्र सरकार से बातचीत के बाद यह फैसला लिया है। मंत्रालय ने एनआईए द्वारा जांच किए जाने वाले मामलों आतंकवाद और […]",
+        "article": "गृह मंत्रालय ने महाराष्ट्र में राष्ट्रीय अन्वेषण अभिकरण &#8211; एनआईए द्वारा जांच किए गए अपराधों के ट्रायल के लिए एक विशेष न्&#x200d;यायालय गठित किया है। मंत्रालय ने बॉम्बे उच्&#x200d;च न्&#x200d;यायालय के मुख्&#x200d;य न्&#x200d;यायाधीश और महाराष्ट्र सरकार से बातचीत के बाद यह फैसला लिया है। मंत्रालय ने एनआईए द्वारा जांच किए जाने वाले मामलों आतंकवाद और अन्य अधिसूचित अपराधों की त्वरित सुनवाई के लिए मुंबई के सिटी सिविल और सत्र न्&#x200d;यायालय के कोर्ट रूम नंबर-26 को विशेष अदालत के रूप में नामित किया है।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:56:12+00:00",
+        "link": "https://newsonair.gov.in/hi/nia-special-court/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPyZFJbYAAHEAR.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संयुक्त राष्ट्र में घटते लोगों के विश्वास पर चिंता जताई",
+        "summary": "भारत ने आगाह किया है कि संयुक्‍त राष्‍ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्‍त राष्‍ट्र में विश्‍वास घट रहा है। संयुक्‍त राष्‍ट्र में भविष्‍य के लिए बहुपक्षवाद को उपयुक्‍त बनाने संबंधी विषय पर मंत्रिस्‍तरीय गोलमेज सम्‍मेलन में भारत के स्‍थायी प्रतिनिधि पी. […]",
+        "article": "भारत ने आगाह किया है कि संयुक्&#x200d;त राष्&#x200d;ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्&#x200d;त राष्&#x200d;ट्र में विश्&#x200d;वास घट रहा है। संयुक्&#x200d;त राष्&#x200d;ट्र में भविष्&#x200d;य के लिए बहुपक्षवाद को उपयुक्&#x200d;त बनाने संबंधी विषय पर मंत्रिस्&#x200d;तरीय गोलमेज सम्&#x200d;मेलन में भारत के स्&#x200d;थायी प्रतिनिधि पी. हरीश ने कहा कि सुरक्षा परिषद चल रहे संघर्षों में सार्थक हस्&#x200d;तक्षेप करने में विफल रही है। इससे अंतर्राष्&#x200d;ट्रीय शांति और सुरक्षा बनाए रखने में उसकी क्षमता पर सवाल उठ रहे हैं। श्री हरीश ने कहा कि 80 वर्ष पुरानी संयुक्&#x200d;त राष्&#x200d;ट्र संरचना मौजूदा वैश्विक चुनौतियों से निपटने में अब उपयुक्&#x200d;त नहीं रह गई है। उन्&#x200d;होंने कहा कि भविष्&#x200d;य के लिए समझौते के अंतर्गत कार्य सूत्र सिर्फ कागजों में बन कर रह गए है। इस समझौते में हिंसा, नस्&#x200d;लवाद और विदेशियों से नफरत समाप्&#x200d;त करना, समानता को बढ़ावा देना और शांति स्&#x200d;थापना को मजबूत करना शामिल है। उन्&#x200d;होंने कहा कि सार्थक सुधारों की अत्&#x200d;यंत आवश्&#x200d;यकता है। श्री हरीश ने कहा कि समझौते के कुछ कार्य बिंदुओं पर भारत की कुछ महत्&#x200d;वपूर्ण आपत्तियां हैं। लेकिन भारत ने समझौते का सकारात्&#x200d;मक रूप से समर्थन किया है। उन्&#x200d;होंने संयुक्&#x200d;त राष्&#x200d;ट्र आम सभा को पुन: सशक्&#x200d;त करना और सतत विकास में प्रगति के लिए आर्थिक तथा सामाजिक परिषद की भूमिका को सुदृढ़ करने का आह्वान किया। अल्&#x200d;प विकसित और विकासशील देशों पर श्री हरीश ने कहा कि भारत इन देशों में संसाधनों की आवाजाही के लिए प्रतिबद्ध है और ये सुनिश्चित करता है कि कोई भी देश पीछे न रहे। उन्&#x200d;होंने अंतर्राष्&#x200d;ट्रीय वित्&#x200d;तीय संसाधनों से अधिक प्रतिनिधित्&#x200d;व, जवाबदेह और विकासोन्&#x200d;मुख बनने का आह्वान किया।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:48:37+00:00",
+        "link": "https://newsonair.gov.in/hi/un-reforms/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/UNSC-Harish-P.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत-ब्रिटेन मुक्त व्यापार समझौते के लागू होने के अवसर पर देशभर में कार्यक्रम आयोजित",
+        "summary": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो गया है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय, रत्न और आभूषण निर्यात संवर्धन परिषद, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से आज दोपहर कोलकाता […]",
+        "article": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो गया है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय, रत्न और आभूषण निर्यात संवर्धन परिषद, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से आज दोपहर कोलकाता के नेताजी सुभाष चंद्र बोस अंतरराष्ट्रीय हवाई अड्डे पर एक ध्वजारोहण कार्यक्रम आयोजित करेगा। इसमें भारत-ब्रिटेन मुक्त व्यापार समझौते की शुरुआत के उपलक्ष्य में निर्यात खेप ब्रिटेन भेजी जाएगी।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:37:09+00:00",
+        "link": "https://newsonair.gov.in/hi/india-uk-fta/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPqtJ4bQAA33zO.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "99 प्रतिशत भारतीय निर्यात पर शून्य शुल्क के साथ लागू हुआ भारत-ब्रिटेन सीईटीए, उद्योग मंत्री पीयूष गोयल ने बताया ऐतिहासिक कदम",
+        "summary": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज के दिन को भारत-ब्रिटेन संबंधों में एक महत्वपूर्ण उपलब्धि बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता &#8211; सीईटीए और सामाजिक सुरक्षा समझौता लागू हो गए हैं, जिससे भारत के लगभग 99 प्रतिशत निर्यात पर शून्य शुल्क […]",
+        "article": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज के दिन को भारत-ब्रिटेन संबंधों में एक महत्वपूर्ण उपलब्धि बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता &#8211; सीईटीए और सामाजिक सुरक्षा समझौता लागू हो गए हैं, जिससे भारत के लगभग 99 प्रतिशत निर्यात पर शून्य शुल्क के साथ बाजार पहुंच प्राप्त होगी और द्विपक्षीय व्यापार मूल्य का लगभग 100 प्रतिशत हिस्सा इसके अंतर्गत आएगा। उन्&#x200d;होंने कहा कि भारत-ब्रिटेन मुक्त व्यापार समझौता भारत के वस्त्र, चमड़ा, रत्न और आभूषण, इंजीनियरिंग उत्पाद, समुद्री उत्पाद, रसायन, प्रसंस्कृत खाद्य पदार्थ, सूक्ष्&#x200d;म लघु और मध्यम उद्यम &#8211; एमएसएमई, किसानों और निर्माताओं के लिए अभूतपूर्व अवसर पैदा करेगा। उन्होंने कहा कि यह समझौता देश के आईटी, पेशेवर, वित्तीय, शिक्षा और व्यावसायिक सेवा क्षेत्रों के लिए भी नए रास्ते खोलता है, साथ ही भारतीय प्रतिभाओं की गतिशीलता को भी बढ़ाता है। श्री गोयल ने कहा कि सामाजिक सुरक्षा समझौता ब्रिटेन में अस्थायी रूप से काम कर रहे भारतीय पेशेवरों को पांच साल तक दोहरी सामाजिक सुरक्षा अंशदान से छूट देकर साझेदारी को और मजबूत करता है, जिससे भारत के कार्यबल की वैश्विक प्रतिस्पर्धात्मकता में वृद्धि होती है। उन्&#x200d;होंने बताया कहा कि भारत और ब्रिटेन एक मजबूत, नवाचार-संचालित साझेदारी बनाने के लिए प्रतिबद्ध हैं जो आने वाली पीढ़ियों के लिए विकास, निवेश और साझा समृद्धि को बढ़ावा देगी।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:29:58+00:00",
+        "link": "https://newsonair.gov.in/hi/india-uk-ceta/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPpe_OaEAA0jik.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विश्व युवा कौशल दिवस पर नेताओं ने युवाओं को दी शुभकामनाएं, बताया भारत की सबसे बड़ी ताकत",
+        "summary": "विश्व युवा कौशल दिवस के अवसर पर लोकसभा अध्यक्ष ओम बिरला ने कहा कि भारत की सबसे बड़ी ताकत उसकी युवा शक्ति है। सोशल मीडिया पर एक पोस्ट में श्री बिरला ने कहा कि युवाओं की ऊर्जा, प्रतिभा और नवाचार विकसित भारत के सपने को साकार करने की सबसे मजबूत नींव हैं। उन्होंने विश्व युवा […]",
+        "article": "विश्व युवा कौशल दिवस के अवसर पर लोकसभा अध्यक्ष ओम बिरला ने कहा कि भारत की सबसे बड़ी ताकत उसकी युवा शक्ति है। सोशल मीडिया पर एक पोस्ट में श्री बिरला ने कहा कि युवाओं की ऊर्जा, प्रतिभा और नवाचार विकसित भारत के सपने को साकार करने की सबसे मजबूत नींव हैं। उन्होंने विश्व युवा कौशल दिवस पर भारत और विश्व के कुशल युवाओं को बधाई दी और कहा कि आत्मनिर्भरता के लिए कौशल और प्रौद्योगिकी आवश्यक हैं। श्री बिरला ने देश के प्रत्येक युवा से आधुनिक कौशल और नवाचार को अपनाने का आग्रह किया और विश्वास व्यक्त किया कि इससे भारत आने वाले वर्षों में विश्व के सबसे सक्षम और अग्रणी देशों में से एक के रूप में उभर सकेगा। दिल्ली की मुख्यमंत्री रेखा गुप्ता ने विश्व युवा कौशल दिवस के अवसर पर युवाओं को शुभकामनाएं दी हैं। सोशल मीडिया पर एक पोस्ट में, सुश्री गुप्ता ने कहा कि युवाओं का कौशल विकास आत्मनिर्भर भारत और विकसित दिल्ली की नींव है। उन्होंने कहा कि दिल्ली सरकार युवाओं को गुणवत्तापूर्ण कौशल प्रशिक्षण प्रदान करने और उनके लिए नए अवसर सृजित करने के लिए पूरी तरह से प्रतिबद्ध है। मुख्यमंत्री ने आगे कहा कि कौशल से लैस और मेहनती युवा दिल्ली की प्रगति को नई गति प्रदान करेंगे।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:21:20+00:00",
+        "link": "https://newsonair.gov.in/hi/world-youth-skills-day/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPDfVUaEAECf4O.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उपराष्ट्रपति सी. पी. राधाकृष्णन और पीएम मोदी ने स्वतंत्रता सेनानी के. कामराज की जयंती पर उन्हें नमन किया",
+        "summary": "उपराष्ट्रपति सी पी राधाकृष्णन और प्रधानमंत्री नरेन्‍द्र मोदी ने आज स्वतंत्रता सेनानी और राजनेता के कामराज की जयंती पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उपराष्ट्रपति ने उन्हें भारतीय राजनीति के सबसे महान नेताओं में से एक बताया। उन्होंने कहा कि कामराज सादगी, ईमानदारी और निस्वार्थ जनसेवा के प्रतीक थे। श्री […]",
+        "article": "उपराष्ट्रपति सी पी राधाकृष्णन और प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने आज स्वतंत्रता सेनानी और राजनेता के कामराज की जयंती पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उपराष्ट्रपति ने उन्हें भारतीय राजनीति के सबसे महान नेताओं में से एक बताया। उन्होंने कहा कि कामराज सादगी, ईमानदारी और निस्वार्थ जनसेवा के प्रतीक थे। श्री राधाकृष्णन ने इस बात पर प्रकाश डाला कि कामराज ने भारत के स्वतंत्रता संग्राम में महत्वपूर्ण भूमिका निभाई और शिक्षा के विस्तार और समावेशी विकास को बढ़ावा देने के अपने अग्रणी प्रयासों से अनगिनत लोगों के जीवन को रूपांतरित किया। उपराष्ट्रपति ने कहा कि उनकी सेवा और राष्ट्र निर्माण की अमिट विरासत पीढ़ियों को प्रेरित करती रहेगी। प्रधानमंत्री ने कहा कि के. कामराज भारत के स्वतंत्रता आंदोलन के एक मजबूत स्तंभ और एक असाधारण सार्वजनिक व्यक्तित्व थे। श्री मोदी ने कहा कि उन्&#x200d;होंने अपना जीवन राष्ट्र निर्माण के लिए समर्पित कर दिया और शिक्षा, समावेशी विकास तथा वंचितों के कल्याण जैसे क्षेत्रों के प्रति उनकी अटूट प्रतिबद्धता पीढ़ियों का मार्गदर्शन करती रहेगी।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:15:46+00:00",
+        "link": "https://newsonair.gov.in/hi/k-kamaraj-jayanti/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPKH2QasAE_d47.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "जगन्नाथराव जोशी की पुण्यतिथि पर गृह मंत्री अमित शाह और रक्षा मंत्री राजनाथ सिंह ने उन्हें श्रद्धांजलि अर्पित की",
+        "summary": "केंद्रीय गृह मंत्री अमित शाह ने आज जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में शाह ने कहा कि कर्नाटक केसरी जगन्नाथराव जोशी एक देशभक्त कर्मयोगी थे, जिन्होंने गोवा में परमिट राज को समाप्त करने के लिए अमानवीय अत्याचार सहे। उन्होंने आगे कहा कि भाजपा के आदर्शों और […]",
+        "article": "केंद्रीय गृह मंत्री अमित शाह ने आज जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में शाह ने कहा कि कर्नाटक केसरी जगन्नाथराव जोशी एक देशभक्त कर्मयोगी थे, जिन्होंने गोवा में परमिट राज को समाप्त करने के लिए अमानवीय अत्याचार सहे। उन्होंने आगे कहा कि भाजपा के आदर्शों और संगठन को पूरे देश में फैलाने में जोशी की राजनीतिक सूझबूझ युवा नेताओं को प्रेरित करती रहेगी। रक्षा मंत्री राजनाथ सिंह ने कर्नाटक केसरी जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उन्होंने कहा कि वे एक महान नेता, असाधारण आयोजक और राष्ट्रीय एकता के अथक समर्थक थे। मंत्री ने आगे कहा कि जोशी की राष्ट्र के प्रति अटूट प्रतिबद्धता गोवा मुक्ति आंदोलन में उनकी भूमिका में झलकती है, वहीं छुआछूत जैसी सामाजिक बुराइयों के खिलाफ उनका निडर रुख एक न्यायपूर्ण और सामंजस्यपूर्ण समाज के उनके दृष्टिकोण का प्रतीक है। रक्षा मंत्री ने कहा कि जगन्नाथराव जोशी अपनी सादगी, तीक्ष्ण बुद्धि और मातृभूमि के प्रति अटूट निष्ठा के लिए जाने जाते थे और उन्होंने अपना जीवन जनसेवा को समर्पित कर दिया था। निस्वार्थ सेवा, सामाजिक सद्भाव और राष्ट्रीय गौरव के उनके आदर्श आने वाली पीढ़ियों का मार्गदर्शन करते रहेंगे।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:13:46+00:00",
+        "link": "https://newsonair.gov.in/hi/jagannathrao-joshi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPI3n3bgAAY2H8.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय मंत्री किरेन रिज‍िजू ने कतर के पर्व अमीर शेख हमद बिन खलीफा अस्‍सानी के निधन पर शोक व्‍यक्‍त किया",
+        "summary": "अल्‍पसंख्‍यक कार्य मंत्री किरेन रिज‍िजू ने कतर के अमीर शेख तमीम बिन हमद अस्‍सानी को उनके पिता अमीर शेख हमद बिन खलीफा अस्‍सानी के निधन पर शोक व्‍यक्‍त किया है। एक सोशल मीडिया पोस्‍ट में दोहा में स्थिति भारतीय दूतावास में उल्‍लेख किया गया कि श्री रिज‍िजू ने कतर के अमीर को प्रधानमंत्री नरेन्‍द्र मोदी […]",
+        "article": "अल्&#x200d;पसंख्&#x200d;यक कार्य मंत्री किरेन रिज&#x200d;िजू ने कतर के अमीर शेख तमीम बिन हमद अस्&#x200d;सानी को उनके पिता अमीर शेख हमद बिन खलीफा अस्&#x200d;सानी के निधन पर शोक व्&#x200d;यक्&#x200d;त किया है। एक सोशल मीडिया पोस्&#x200d;ट में दोहा में स्थिति भारतीय दूतावास में उल्&#x200d;लेख किया गया कि श्री रिज&#x200d;िजू ने कतर के अमीर को प्रधानमंत्री नरेन्&#x200d;द्र मोदी की गहरी व्&#x200d;यक्तिगत संवेदना को भी प्रेषित किया है। प्रधानमंत्री ने इससे पहले कतर के विकास में अमीर के पिता की स्&#x200d;थायी विरासत और भारत-कतर रणनीतिक साझेदारी को मजबूत करने में उनकी अहम भूमिका को याद किया।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T03:20:25+00:00",
+        "link": "https://newsonair.gov.in/hi/qatar-ex-amir/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/kiren-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता लागू, लगभग 99 प्रतिशत भारतीय निर्यात पर शुल्‍क नहीं",
+        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्‍यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को […]",
+        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्&#x200d;यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाजार में 99 प्रतिशत टैरिफ लाइनों पर शून्य शुल्क की सुविधा प्राप्त होगी। यह समझौता भारत और ब्रिटेन की अपनी रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। कल नई दिल्ली में मीडिया को संबोधित करते हुए वाणिज्य सचिव राजेश अग्रवाल ने भारत-ब्रिटेन व्यापक आर्थिक एवं व्यापार समझौते को भारत की व्यापारिक यात्रा में एक महत्वपूर्ण मील का पत्थर बताया और कहा कि यह दो प्रमुख अर्थव्यवस्थाओं के बीच भविष्&#x200d;य के लिए आर्थिक साझेदारी स्थापित करता है। उन्होंने कहा कि यह समझौता भारत और ब्रिटेन के बीच द्विपक्षीय व्यापार और निवेश संबंधों में एक नए चरण की शुरुआत करेगा। श्री अग्रवाल ने कहा कि यह समझौता भारत के सबसे व्यापक व्यापार समझौतों में से एक है, जो व्यापक क्षेत्रीय सूचना प्रदान करता है और साथ ही शुल्क एवं शुल्क रहि&#x200d;त बाधाओं को कम करता है। दोहरे अंशदान सम्मेलन पर प्रकाश डालते हुए, श्री अग्रवाल ने कहा कि यह व्यवस्था ब्रिटेन में अस्थाई तौर पर कार्यरत पात्र श्रमिकों को निर्दिष्ट अवधि के लिए सामाजिक सुरक्षा अंशदान का भुगतान करने से छूट देकर भारतीय पेशेवरों और उनके नियोक्ताओं को लाभ पहुंचाएगी। भारत-ब्रिटेन सीईटीए और डीसीसी का लागू होना वैश्विक स्तर पर एकीकृत, लचीली और प्रतिस्पर्धी अर्थव्यवस्था बनने की दिशा में भारत की यात्रा में एक महत्वपूर्ण कदम है।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T03:05:29+00:00",
+        "link": "https://newsonair.gov.in/hi/ceta-marks-beginning-of-new-phase-of-bilateral-relations-between-india-uk-commerce-secretary/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/a484f20c-b077-4188-b241-66bca2127cda.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "national": [
+      {
+        "title": "पीएम मोदी शुक्रवार को पंजाब में कई विकास परियोजनाओं का उद्घाटन करेंगे",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी शुक्रवार को पंजाब जाएंगे। इस दौरान वे जालंधर कैंटोनमेंट रेलवे स्टेशन का उद्घाटन करेंगे और अमृत भारत स्टेशन योजना के तहत पुनर्निर्मित 74 अन्य रेलवे स्टेशनों का वर्चुअल उद्घाटन भी करेंगे। प्रधानमंत्री संत रविदास एक्सप्रेस को भी रवाना करेंगे। ये रेलगाड़ी अमृतसर को उत्तर प्रदेश के वाराणसी से जोड़ेगी। जालंधर पहुंचने से […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी शुक्रवार को पंजाब जाएंगे। इस दौरान वे जालंधर कैंटोनमेंट रेलवे स्टेशन का उद्घाटन करेंगे और अमृत भारत स्टेशन योजना के तहत पुनर्निर्मित 74 अन्य रेलवे स्टेशनों का वर्चुअल उद्घाटन भी करेंगे। प्रधानमंत्री संत रविदास एक्सप्रेस को भी रवाना करेंगे। ये रेलगाड़ी अमृतसर को उत्तर प्रदेश के वाराणसी से जोड़ेगी। जालंधर पहुंचने से पहले श्री मोदी चंडीगढ़ स्थित पंजाब इंजीनियरिंग कॉलेज का भी दौरा करेंगे, जहां वे विभिन्न बुनियादी ढांचा परियोजनाओं का उद्घाटन करेंगे।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:44:02+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-punjab-visit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pm-modi.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गृह मंत्रालय ने महाराष्ट्र में एनआईए मामलों की सुनवाई के लिए विशेष न्यायालय गठित किया",
+        "summary": "गृह मंत्रालय ने महाराष्ट्र में राष्ट्रीय अन्वेषण अभिकरण &#8211; एनआईए द्वारा जांच किए गए अपराधों के ट्रायल के लिए एक विशेष न्‍यायालय गठित किया है। मंत्रालय ने बॉम्बे उच्‍च न्‍यायालय के मुख्‍य न्‍यायाधीश और महाराष्ट्र सरकार से बातचीत के बाद यह फैसला लिया है। मंत्रालय ने एनआईए द्वारा जांच किए जाने वाले मामलों आतंकवाद और […]",
+        "article": "गृह मंत्रालय ने महाराष्ट्र में राष्ट्रीय अन्वेषण अभिकरण &#8211; एनआईए द्वारा जांच किए गए अपराधों के ट्रायल के लिए एक विशेष न्&#x200d;यायालय गठित किया है। मंत्रालय ने बॉम्बे उच्&#x200d;च न्&#x200d;यायालय के मुख्&#x200d;य न्&#x200d;यायाधीश और महाराष्ट्र सरकार से बातचीत के बाद यह फैसला लिया है। मंत्रालय ने एनआईए द्वारा जांच किए जाने वाले मामलों आतंकवाद और अन्य अधिसूचित अपराधों की त्वरित सुनवाई के लिए मुंबई के सिटी सिविल और सत्र न्&#x200d;यायालय के कोर्ट रूम नंबर-26 को विशेष अदालत के रूप में नामित किया है।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:56:12+00:00",
+        "link": "https://newsonair.gov.in/hi/nia-special-court/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPyZFJbYAAHEAR.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संयुक्त राष्ट्र में घटते लोगों के विश्वास पर चिंता जताई",
+        "summary": "भारत ने आगाह किया है कि संयुक्‍त राष्‍ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्‍त राष्‍ट्र में विश्‍वास घट रहा है। संयुक्‍त राष्‍ट्र में भविष्‍य के लिए बहुपक्षवाद को उपयुक्‍त बनाने संबंधी विषय पर मंत्रिस्‍तरीय गोलमेज सम्‍मेलन में भारत के स्‍थायी प्रतिनिधि पी. […]",
+        "article": "भारत ने आगाह किया है कि संयुक्&#x200d;त राष्&#x200d;ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्&#x200d;त राष्&#x200d;ट्र में विश्&#x200d;वास घट रहा है। संयुक्&#x200d;त राष्&#x200d;ट्र में भविष्&#x200d;य के लिए बहुपक्षवाद को उपयुक्&#x200d;त बनाने संबंधी विषय पर मंत्रिस्&#x200d;तरीय गोलमेज सम्&#x200d;मेलन में भारत के स्&#x200d;थायी प्रतिनिधि पी. हरीश ने कहा कि सुरक्षा परिषद चल रहे संघर्षों में सार्थक हस्&#x200d;तक्षेप करने में विफल रही है। इससे अंतर्राष्&#x200d;ट्रीय शांति और सुरक्षा बनाए रखने में उसकी क्षमता पर सवाल उठ रहे हैं। श्री हरीश ने कहा कि 80 वर्ष पुरानी संयुक्&#x200d;त राष्&#x200d;ट्र संरचना मौजूदा वैश्विक चुनौतियों से निपटने में अब उपयुक्&#x200d;त नहीं रह गई है। उन्&#x200d;होंने कहा कि भविष्&#x200d;य के लिए समझौते के अंतर्गत कार्य सूत्र सिर्फ कागजों में बन कर रह गए है। इस समझौते में हिंसा, नस्&#x200d;लवाद और विदेशियों से नफरत समाप्&#x200d;त करना, समानता को बढ़ावा देना और शांति स्&#x200d;थापना को मजबूत करना शामिल है। उन्&#x200d;होंने कहा कि सार्थक सुधारों की अत्&#x200d;यंत आवश्&#x200d;यकता है। श्री हरीश ने कहा कि समझौते के कुछ कार्य बिंदुओं पर भारत की कुछ महत्&#x200d;वपूर्ण आपत्तियां हैं। लेकिन भारत ने समझौते का सकारात्&#x200d;मक रूप से समर्थन किया है। उन्&#x200d;होंने संयुक्&#x200d;त राष्&#x200d;ट्र आम सभा को पुन: सशक्&#x200d;त करना और सतत विकास में प्रगति के लिए आर्थिक तथा सामाजिक परिषद की भूमिका को सुदृढ़ करने का आह्वान किया। अल्&#x200d;प विकसित और विकासशील देशों पर श्री हरीश ने कहा कि भारत इन देशों में संसाधनों की आवाजाही के लिए प्रतिबद्ध है और ये सुनिश्चित करता है कि कोई भी देश पीछे न रहे। उन्&#x200d;होंने अंतर्राष्&#x200d;ट्रीय वित्&#x200d;तीय संसाधनों से अधिक प्रतिनिधित्&#x200d;व, जवाबदेह और विकासोन्&#x200d;मुख बनने का आह्वान किया।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:48:37+00:00",
+        "link": "https://newsonair.gov.in/hi/un-reforms/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/UNSC-Harish-P.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत-ब्रिटेन मुक्त व्यापार समझौते के लागू होने के अवसर पर देशभर में कार्यक्रम आयोजित",
+        "summary": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो गया है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय, रत्न और आभूषण निर्यात संवर्धन परिषद, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से आज दोपहर कोलकाता […]",
+        "article": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो गया है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय, रत्न और आभूषण निर्यात संवर्धन परिषद, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से आज दोपहर कोलकाता के नेताजी सुभाष चंद्र बोस अंतरराष्ट्रीय हवाई अड्डे पर एक ध्वजारोहण कार्यक्रम आयोजित करेगा। इसमें भारत-ब्रिटेन मुक्त व्यापार समझौते की शुरुआत के उपलक्ष्य में निर्यात खेप ब्रिटेन भेजी जाएगी।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:37:09+00:00",
+        "link": "https://newsonair.gov.in/hi/india-uk-fta/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPqtJ4bQAA33zO.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "99 प्रतिशत भारतीय निर्यात पर शून्य शुल्क के साथ लागू हुआ भारत-ब्रिटेन सीईटीए, उद्योग मंत्री पीयूष गोयल ने बताया ऐतिहासिक कदम",
+        "summary": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज के दिन को भारत-ब्रिटेन संबंधों में एक महत्वपूर्ण उपलब्धि बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता &#8211; सीईटीए और सामाजिक सुरक्षा समझौता लागू हो गए हैं, जिससे भारत के लगभग 99 प्रतिशत निर्यात पर शून्य शुल्क […]",
+        "article": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज के दिन को भारत-ब्रिटेन संबंधों में एक महत्वपूर्ण उपलब्धि बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता &#8211; सीईटीए और सामाजिक सुरक्षा समझौता लागू हो गए हैं, जिससे भारत के लगभग 99 प्रतिशत निर्यात पर शून्य शुल्क के साथ बाजार पहुंच प्राप्त होगी और द्विपक्षीय व्यापार मूल्य का लगभग 100 प्रतिशत हिस्सा इसके अंतर्गत आएगा। उन्&#x200d;होंने कहा कि भारत-ब्रिटेन मुक्त व्यापार समझौता भारत के वस्त्र, चमड़ा, रत्न और आभूषण, इंजीनियरिंग उत्पाद, समुद्री उत्पाद, रसायन, प्रसंस्कृत खाद्य पदार्थ, सूक्ष्&#x200d;म लघु और मध्यम उद्यम &#8211; एमएसएमई, किसानों और निर्माताओं के लिए अभूतपूर्व अवसर पैदा करेगा। उन्होंने कहा कि यह समझौता देश के आईटी, पेशेवर, वित्तीय, शिक्षा और व्यावसायिक सेवा क्षेत्रों के लिए भी नए रास्ते खोलता है, साथ ही भारतीय प्रतिभाओं की गतिशीलता को भी बढ़ाता है। श्री गोयल ने कहा कि सामाजिक सुरक्षा समझौता ब्रिटेन में अस्थायी रूप से काम कर रहे भारतीय पेशेवरों को पांच साल तक दोहरी सामाजिक सुरक्षा अंशदान से छूट देकर साझेदारी को और मजबूत करता है, जिससे भारत के कार्यबल की वैश्विक प्रतिस्पर्धात्मकता में वृद्धि होती है। उन्&#x200d;होंने बताया कहा कि भारत और ब्रिटेन एक मजबूत, नवाचार-संचालित साझेदारी बनाने के लिए प्रतिबद्ध हैं जो आने वाली पीढ़ियों के लिए विकास, निवेश और साझा समृद्धि को बढ़ावा देगी।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:29:58+00:00",
+        "link": "https://newsonair.gov.in/hi/india-uk-ceta/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPpe_OaEAA0jik.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विश्व युवा कौशल दिवस पर नेताओं ने युवाओं को दी शुभकामनाएं, बताया भारत की सबसे बड़ी ताकत",
+        "summary": "विश्व युवा कौशल दिवस के अवसर पर लोकसभा अध्यक्ष ओम बिरला ने कहा कि भारत की सबसे बड़ी ताकत उसकी युवा शक्ति है। सोशल मीडिया पर एक पोस्ट में श्री बिरला ने कहा कि युवाओं की ऊर्जा, प्रतिभा और नवाचार विकसित भारत के सपने को साकार करने की सबसे मजबूत नींव हैं। उन्होंने विश्व युवा […]",
+        "article": "विश्व युवा कौशल दिवस के अवसर पर लोकसभा अध्यक्ष ओम बिरला ने कहा कि भारत की सबसे बड़ी ताकत उसकी युवा शक्ति है। सोशल मीडिया पर एक पोस्ट में श्री बिरला ने कहा कि युवाओं की ऊर्जा, प्रतिभा और नवाचार विकसित भारत के सपने को साकार करने की सबसे मजबूत नींव हैं। उन्होंने विश्व युवा कौशल दिवस पर भारत और विश्व के कुशल युवाओं को बधाई दी और कहा कि आत्मनिर्भरता के लिए कौशल और प्रौद्योगिकी आवश्यक हैं। श्री बिरला ने देश के प्रत्येक युवा से आधुनिक कौशल और नवाचार को अपनाने का आग्रह किया और विश्वास व्यक्त किया कि इससे भारत आने वाले वर्षों में विश्व के सबसे सक्षम और अग्रणी देशों में से एक के रूप में उभर सकेगा। दिल्ली की मुख्यमंत्री रेखा गुप्ता ने विश्व युवा कौशल दिवस के अवसर पर युवाओं को शुभकामनाएं दी हैं। सोशल मीडिया पर एक पोस्ट में, सुश्री गुप्ता ने कहा कि युवाओं का कौशल विकास आत्मनिर्भर भारत और विकसित दिल्ली की नींव है। उन्होंने कहा कि दिल्ली सरकार युवाओं को गुणवत्तापूर्ण कौशल प्रशिक्षण प्रदान करने और उनके लिए नए अवसर सृजित करने के लिए पूरी तरह से प्रतिबद्ध है। मुख्यमंत्री ने आगे कहा कि कौशल से लैस और मेहनती युवा दिल्ली की प्रगति को नई गति प्रदान करेंगे।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:21:20+00:00",
+        "link": "https://newsonair.gov.in/hi/world-youth-skills-day/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPDfVUaEAECf4O.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उपराष्ट्रपति सी. पी. राधाकृष्णन और पीएम मोदी ने स्वतंत्रता सेनानी के. कामराज की जयंती पर उन्हें नमन किया",
+        "summary": "उपराष्ट्रपति सी पी राधाकृष्णन और प्रधानमंत्री नरेन्‍द्र मोदी ने आज स्वतंत्रता सेनानी और राजनेता के कामराज की जयंती पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उपराष्ट्रपति ने उन्हें भारतीय राजनीति के सबसे महान नेताओं में से एक बताया। उन्होंने कहा कि कामराज सादगी, ईमानदारी और निस्वार्थ जनसेवा के प्रतीक थे। श्री […]",
+        "article": "उपराष्ट्रपति सी पी राधाकृष्णन और प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने आज स्वतंत्रता सेनानी और राजनेता के कामराज की जयंती पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उपराष्ट्रपति ने उन्हें भारतीय राजनीति के सबसे महान नेताओं में से एक बताया। उन्होंने कहा कि कामराज सादगी, ईमानदारी और निस्वार्थ जनसेवा के प्रतीक थे। श्री राधाकृष्णन ने इस बात पर प्रकाश डाला कि कामराज ने भारत के स्वतंत्रता संग्राम में महत्वपूर्ण भूमिका निभाई और शिक्षा के विस्तार और समावेशी विकास को बढ़ावा देने के अपने अग्रणी प्रयासों से अनगिनत लोगों के जीवन को रूपांतरित किया। उपराष्ट्रपति ने कहा कि उनकी सेवा और राष्ट्र निर्माण की अमिट विरासत पीढ़ियों को प्रेरित करती रहेगी। प्रधानमंत्री ने कहा कि के. कामराज भारत के स्वतंत्रता आंदोलन के एक मजबूत स्तंभ और एक असाधारण सार्वजनिक व्यक्तित्व थे। श्री मोदी ने कहा कि उन्&#x200d;होंने अपना जीवन राष्ट्र निर्माण के लिए समर्पित कर दिया और शिक्षा, समावेशी विकास तथा वंचितों के कल्याण जैसे क्षेत्रों के प्रति उनकी अटूट प्रतिबद्धता पीढ़ियों का मार्गदर्शन करती रहेगी।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:15:46+00:00",
+        "link": "https://newsonair.gov.in/hi/k-kamaraj-jayanti/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPKH2QasAE_d47.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "जगन्नाथराव जोशी की पुण्यतिथि पर गृह मंत्री अमित शाह और रक्षा मंत्री राजनाथ सिंह ने उन्हें श्रद्धांजलि अर्पित की",
+        "summary": "केंद्रीय गृह मंत्री अमित शाह ने आज जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में शाह ने कहा कि कर्नाटक केसरी जगन्नाथराव जोशी एक देशभक्त कर्मयोगी थे, जिन्होंने गोवा में परमिट राज को समाप्त करने के लिए अमानवीय अत्याचार सहे। उन्होंने आगे कहा कि भाजपा के आदर्शों और […]",
+        "article": "केंद्रीय गृह मंत्री अमित शाह ने आज जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में शाह ने कहा कि कर्नाटक केसरी जगन्नाथराव जोशी एक देशभक्त कर्मयोगी थे, जिन्होंने गोवा में परमिट राज को समाप्त करने के लिए अमानवीय अत्याचार सहे। उन्होंने आगे कहा कि भाजपा के आदर्शों और संगठन को पूरे देश में फैलाने में जोशी की राजनीतिक सूझबूझ युवा नेताओं को प्रेरित करती रहेगी। रक्षा मंत्री राजनाथ सिंह ने कर्नाटक केसरी जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उन्होंने कहा कि वे एक महान नेता, असाधारण आयोजक और राष्ट्रीय एकता के अथक समर्थक थे। मंत्री ने आगे कहा कि जोशी की राष्ट्र के प्रति अटूट प्रतिबद्धता गोवा मुक्ति आंदोलन में उनकी भूमिका में झलकती है, वहीं छुआछूत जैसी सामाजिक बुराइयों के खिलाफ उनका निडर रुख एक न्यायपूर्ण और सामंजस्यपूर्ण समाज के उनके दृष्टिकोण का प्रतीक है। रक्षा मंत्री ने कहा कि जगन्नाथराव जोशी अपनी सादगी, तीक्ष्ण बुद्धि और मातृभूमि के प्रति अटूट निष्ठा के लिए जाने जाते थे और उन्होंने अपना जीवन जनसेवा को समर्पित कर दिया था। निस्वार्थ सेवा, सामाजिक सद्भाव और राष्ट्रीय गौरव के उनके आदर्श आने वाली पीढ़ियों का मार्गदर्शन करते रहेंगे।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:13:46+00:00",
+        "link": "https://newsonair.gov.in/hi/jagannathrao-joshi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPI3n3bgAAY2H8.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय मंत्री किरेन रिज‍िजू ने कतर के पर्व अमीर शेख हमद बिन खलीफा अस्‍सानी के निधन पर शोक व्‍यक्‍त किया",
+        "summary": "अल्‍पसंख्‍यक कार्य मंत्री किरेन रिज‍िजू ने कतर के अमीर शेख तमीम बिन हमद अस्‍सानी को उनके पिता अमीर शेख हमद बिन खलीफा अस्‍सानी के निधन पर शोक व्‍यक्‍त किया है। एक सोशल मीडिया पोस्‍ट में दोहा में स्थिति भारतीय दूतावास में उल्‍लेख किया गया कि श्री रिज‍िजू ने कतर के अमीर को प्रधानमंत्री नरेन्‍द्र मोदी […]",
+        "article": "अल्&#x200d;पसंख्&#x200d;यक कार्य मंत्री किरेन रिज&#x200d;िजू ने कतर के अमीर शेख तमीम बिन हमद अस्&#x200d;सानी को उनके पिता अमीर शेख हमद बिन खलीफा अस्&#x200d;सानी के निधन पर शोक व्&#x200d;यक्&#x200d;त किया है। एक सोशल मीडिया पोस्&#x200d;ट में दोहा में स्थिति भारतीय दूतावास में उल्&#x200d;लेख किया गया कि श्री रिज&#x200d;िजू ने कतर के अमीर को प्रधानमंत्री नरेन्&#x200d;द्र मोदी की गहरी व्&#x200d;यक्तिगत संवेदना को भी प्रेषित किया है। प्रधानमंत्री ने इससे पहले कतर के विकास में अमीर के पिता की स्&#x200d;थायी विरासत और भारत-कतर रणनीतिक साझेदारी को मजबूत करने में उनकी अहम भूमिका को याद किया।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T03:20:25+00:00",
+        "link": "https://newsonair.gov.in/hi/qatar-ex-amir/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/kiren-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता लागू, लगभग 99 प्रतिशत भारतीय निर्यात पर शुल्‍क नहीं",
+        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्‍यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को […]",
+        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्&#x200d;यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाजार में 99 प्रतिशत टैरिफ लाइनों पर शून्य शुल्क की सुविधा प्राप्त होगी। यह समझौता भारत और ब्रिटेन की अपनी रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। कल नई दिल्ली में मीडिया को संबोधित करते हुए वाणिज्य सचिव राजेश अग्रवाल ने भारत-ब्रिटेन व्यापक आर्थिक एवं व्यापार समझौते को भारत की व्यापारिक यात्रा में एक महत्वपूर्ण मील का पत्थर बताया और कहा कि यह दो प्रमुख अर्थव्यवस्थाओं के बीच भविष्&#x200d;य के लिए आर्थिक साझेदारी स्थापित करता है। उन्होंने कहा कि यह समझौता भारत और ब्रिटेन के बीच द्विपक्षीय व्यापार और निवेश संबंधों में एक नए चरण की शुरुआत करेगा। श्री अग्रवाल ने कहा कि यह समझौता भारत के सबसे व्यापक व्यापार समझौतों में से एक है, जो व्यापक क्षेत्रीय सूचना प्रदान करता है और साथ ही शुल्क एवं शुल्क रहि&#x200d;त बाधाओं को कम करता है। दोहरे अंशदान सम्मेलन पर प्रकाश डालते हुए, श्री अग्रवाल ने कहा कि यह व्यवस्था ब्रिटेन में अस्थाई तौर पर कार्यरत पात्र श्रमिकों को निर्दिष्ट अवधि के लिए सामाजिक सुरक्षा अंशदान का भुगतान करने से छूट देकर भारतीय पेशेवरों और उनके नियोक्ताओं को लाभ पहुंचाएगी। भारत-ब्रिटेन सीईटीए और डीसीसी का लागू होना वैश्विक स्तर पर एकीकृत, लचीली और प्रतिस्पर्धी अर्थव्यवस्था बनने की दिशा में भारत की यात्रा में एक महत्वपूर्ण कदम है।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T03:05:29+00:00",
+        "link": "https://newsonair.gov.in/hi/ceta-marks-beginning-of-new-phase-of-bilateral-relations-between-india-uk-commerce-secretary/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/a484f20c-b077-4188-b241-66bca2127cda.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "politics": [
+      {
+        "title": "पीएम मोदी शुक्रवार को पंजाब में कई विकास परियोजनाओं का उद्घाटन करेंगे",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी शुक्रवार को पंजाब जाएंगे। इस दौरान वे जालंधर कैंटोनमेंट रेलवे स्टेशन का उद्घाटन करेंगे और अमृत भारत स्टेशन योजना के तहत पुनर्निर्मित 74 अन्य रेलवे स्टेशनों का वर्चुअल उद्घाटन भी करेंगे। प्रधानमंत्री संत रविदास एक्सप्रेस को भी रवाना करेंगे। ये रेलगाड़ी अमृतसर को उत्तर प्रदेश के वाराणसी से जोड़ेगी। जालंधर पहुंचने से […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी शुक्रवार को पंजाब जाएंगे। इस दौरान वे जालंधर कैंटोनमेंट रेलवे स्टेशन का उद्घाटन करेंगे और अमृत भारत स्टेशन योजना के तहत पुनर्निर्मित 74 अन्य रेलवे स्टेशनों का वर्चुअल उद्घाटन भी करेंगे। प्रधानमंत्री संत रविदास एक्सप्रेस को भी रवाना करेंगे। ये रेलगाड़ी अमृतसर को उत्तर प्रदेश के वाराणसी से जोड़ेगी। जालंधर पहुंचने से पहले श्री मोदी चंडीगढ़ स्थित पंजाब इंजीनियरिंग कॉलेज का भी दौरा करेंगे, जहां वे विभिन्न बुनियादी ढांचा परियोजनाओं का उद्घाटन करेंगे।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:44:02+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-punjab-visit/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pm-modi.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "गृह मंत्रालय ने महाराष्ट्र में एनआईए मामलों की सुनवाई के लिए विशेष न्यायालय गठित किया",
+        "summary": "गृह मंत्रालय ने महाराष्ट्र में राष्ट्रीय अन्वेषण अभिकरण &#8211; एनआईए द्वारा जांच किए गए अपराधों के ट्रायल के लिए एक विशेष न्‍यायालय गठित किया है। मंत्रालय ने बॉम्बे उच्‍च न्‍यायालय के मुख्‍य न्‍यायाधीश और महाराष्ट्र सरकार से बातचीत के बाद यह फैसला लिया है। मंत्रालय ने एनआईए द्वारा जांच किए जाने वाले मामलों आतंकवाद और […]",
+        "article": "गृह मंत्रालय ने महाराष्ट्र में राष्ट्रीय अन्वेषण अभिकरण &#8211; एनआईए द्वारा जांच किए गए अपराधों के ट्रायल के लिए एक विशेष न्&#x200d;यायालय गठित किया है। मंत्रालय ने बॉम्बे उच्&#x200d;च न्&#x200d;यायालय के मुख्&#x200d;य न्&#x200d;यायाधीश और महाराष्ट्र सरकार से बातचीत के बाद यह फैसला लिया है। मंत्रालय ने एनआईए द्वारा जांच किए जाने वाले मामलों आतंकवाद और अन्य अधिसूचित अपराधों की त्वरित सुनवाई के लिए मुंबई के सिटी सिविल और सत्र न्&#x200d;यायालय के कोर्ट रूम नंबर-26 को विशेष अदालत के रूप में नामित किया है।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:56:12+00:00",
+        "link": "https://newsonair.gov.in/hi/nia-special-court/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPyZFJbYAAHEAR.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संयुक्त राष्ट्र में घटते लोगों के विश्वास पर चिंता जताई",
+        "summary": "भारत ने आगाह किया है कि संयुक्‍त राष्‍ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्‍त राष्‍ट्र में विश्‍वास घट रहा है। संयुक्‍त राष्‍ट्र में भविष्‍य के लिए बहुपक्षवाद को उपयुक्‍त बनाने संबंधी विषय पर मंत्रिस्‍तरीय गोलमेज सम्‍मेलन में भारत के स्‍थायी प्रतिनिधि पी. […]",
+        "article": "भारत ने आगाह किया है कि संयुक्&#x200d;त राष्&#x200d;ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्&#x200d;त राष्&#x200d;ट्र में विश्&#x200d;वास घट रहा है। संयुक्&#x200d;त राष्&#x200d;ट्र में भविष्&#x200d;य के लिए बहुपक्षवाद को उपयुक्&#x200d;त बनाने संबंधी विषय पर मंत्रिस्&#x200d;तरीय गोलमेज सम्&#x200d;मेलन में भारत के स्&#x200d;थायी प्रतिनिधि पी. हरीश ने कहा कि सुरक्षा परिषद चल रहे संघर्षों में सार्थक हस्&#x200d;तक्षेप करने में विफल रही है। इससे अंतर्राष्&#x200d;ट्रीय शांति और सुरक्षा बनाए रखने में उसकी क्षमता पर सवाल उठ रहे हैं। श्री हरीश ने कहा कि 80 वर्ष पुरानी संयुक्&#x200d;त राष्&#x200d;ट्र संरचना मौजूदा वैश्विक चुनौतियों से निपटने में अब उपयुक्&#x200d;त नहीं रह गई है। उन्&#x200d;होंने कहा कि भविष्&#x200d;य के लिए समझौते के अंतर्गत कार्य सूत्र सिर्फ कागजों में बन कर रह गए है। इस समझौते में हिंसा, नस्&#x200d;लवाद और विदेशियों से नफरत समाप्&#x200d;त करना, समानता को बढ़ावा देना और शांति स्&#x200d;थापना को मजबूत करना शामिल है। उन्&#x200d;होंने कहा कि सार्थक सुधारों की अत्&#x200d;यंत आवश्&#x200d;यकता है। श्री हरीश ने कहा कि समझौते के कुछ कार्य बिंदुओं पर भारत की कुछ महत्&#x200d;वपूर्ण आपत्तियां हैं। लेकिन भारत ने समझौते का सकारात्&#x200d;मक रूप से समर्थन किया है। उन्&#x200d;होंने संयुक्&#x200d;त राष्&#x200d;ट्र आम सभा को पुन: सशक्&#x200d;त करना और सतत विकास में प्रगति के लिए आर्थिक तथा सामाजिक परिषद की भूमिका को सुदृढ़ करने का आह्वान किया। अल्&#x200d;प विकसित और विकासशील देशों पर श्री हरीश ने कहा कि भारत इन देशों में संसाधनों की आवाजाही के लिए प्रतिबद्ध है और ये सुनिश्चित करता है कि कोई भी देश पीछे न रहे। उन्&#x200d;होंने अंतर्राष्&#x200d;ट्रीय वित्&#x200d;तीय संसाधनों से अधिक प्रतिनिधित्&#x200d;व, जवाबदेह और विकासोन्&#x200d;मुख बनने का आह्वान किया।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:48:37+00:00",
+        "link": "https://newsonair.gov.in/hi/un-reforms/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/UNSC-Harish-P.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत-ब्रिटेन मुक्त व्यापार समझौते के लागू होने के अवसर पर देशभर में कार्यक्रम आयोजित",
+        "summary": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो गया है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय, रत्न और आभूषण निर्यात संवर्धन परिषद, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से आज दोपहर कोलकाता […]",
+        "article": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो गया है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय, रत्न और आभूषण निर्यात संवर्धन परिषद, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से आज दोपहर कोलकाता के नेताजी सुभाष चंद्र बोस अंतरराष्ट्रीय हवाई अड्डे पर एक ध्वजारोहण कार्यक्रम आयोजित करेगा। इसमें भारत-ब्रिटेन मुक्त व्यापार समझौते की शुरुआत के उपलक्ष्य में निर्यात खेप ब्रिटेन भेजी जाएगी।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:37:09+00:00",
+        "link": "https://newsonair.gov.in/hi/india-uk-fta/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPqtJ4bQAA33zO.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "99 प्रतिशत भारतीय निर्यात पर शून्य शुल्क के साथ लागू हुआ भारत-ब्रिटेन सीईटीए, उद्योग मंत्री पीयूष गोयल ने बताया ऐतिहासिक कदम",
+        "summary": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज के दिन को भारत-ब्रिटेन संबंधों में एक महत्वपूर्ण उपलब्धि बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता &#8211; सीईटीए और सामाजिक सुरक्षा समझौता लागू हो गए हैं, जिससे भारत के लगभग 99 प्रतिशत निर्यात पर शून्य शुल्क […]",
+        "article": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज के दिन को भारत-ब्रिटेन संबंधों में एक महत्वपूर्ण उपलब्धि बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता &#8211; सीईटीए और सामाजिक सुरक्षा समझौता लागू हो गए हैं, जिससे भारत के लगभग 99 प्रतिशत निर्यात पर शून्य शुल्क के साथ बाजार पहुंच प्राप्त होगी और द्विपक्षीय व्यापार मूल्य का लगभग 100 प्रतिशत हिस्सा इसके अंतर्गत आएगा। उन्&#x200d;होंने कहा कि भारत-ब्रिटेन मुक्त व्यापार समझौता भारत के वस्त्र, चमड़ा, रत्न और आभूषण, इंजीनियरिंग उत्पाद, समुद्री उत्पाद, रसायन, प्रसंस्कृत खाद्य पदार्थ, सूक्ष्&#x200d;म लघु और मध्यम उद्यम &#8211; एमएसएमई, किसानों और निर्माताओं के लिए अभूतपूर्व अवसर पैदा करेगा। उन्होंने कहा कि यह समझौता देश के आईटी, पेशेवर, वित्तीय, शिक्षा और व्यावसायिक सेवा क्षेत्रों के लिए भी नए रास्ते खोलता है, साथ ही भारतीय प्रतिभाओं की गतिशीलता को भी बढ़ाता है। श्री गोयल ने कहा कि सामाजिक सुरक्षा समझौता ब्रिटेन में अस्थायी रूप से काम कर रहे भारतीय पेशेवरों को पांच साल तक दोहरी सामाजिक सुरक्षा अंशदान से छूट देकर साझेदारी को और मजबूत करता है, जिससे भारत के कार्यबल की वैश्विक प्रतिस्पर्धात्मकता में वृद्धि होती है। उन्&#x200d;होंने बताया कहा कि भारत और ब्रिटेन एक मजबूत, नवाचार-संचालित साझेदारी बनाने के लिए प्रतिबद्ध हैं जो आने वाली पीढ़ियों के लिए विकास, निवेश और साझा समृद्धि को बढ़ावा देगी।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:29:58+00:00",
+        "link": "https://newsonair.gov.in/hi/india-uk-ceta/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPpe_OaEAA0jik.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "विश्व युवा कौशल दिवस पर नेताओं ने युवाओं को दी शुभकामनाएं, बताया भारत की सबसे बड़ी ताकत",
+        "summary": "विश्व युवा कौशल दिवस के अवसर पर लोकसभा अध्यक्ष ओम बिरला ने कहा कि भारत की सबसे बड़ी ताकत उसकी युवा शक्ति है। सोशल मीडिया पर एक पोस्ट में श्री बिरला ने कहा कि युवाओं की ऊर्जा, प्रतिभा और नवाचार विकसित भारत के सपने को साकार करने की सबसे मजबूत नींव हैं। उन्होंने विश्व युवा […]",
+        "article": "विश्व युवा कौशल दिवस के अवसर पर लोकसभा अध्यक्ष ओम बिरला ने कहा कि भारत की सबसे बड़ी ताकत उसकी युवा शक्ति है। सोशल मीडिया पर एक पोस्ट में श्री बिरला ने कहा कि युवाओं की ऊर्जा, प्रतिभा और नवाचार विकसित भारत के सपने को साकार करने की सबसे मजबूत नींव हैं। उन्होंने विश्व युवा कौशल दिवस पर भारत और विश्व के कुशल युवाओं को बधाई दी और कहा कि आत्मनिर्भरता के लिए कौशल और प्रौद्योगिकी आवश्यक हैं। श्री बिरला ने देश के प्रत्येक युवा से आधुनिक कौशल और नवाचार को अपनाने का आग्रह किया और विश्वास व्यक्त किया कि इससे भारत आने वाले वर्षों में विश्व के सबसे सक्षम और अग्रणी देशों में से एक के रूप में उभर सकेगा। दिल्ली की मुख्यमंत्री रेखा गुप्ता ने विश्व युवा कौशल दिवस के अवसर पर युवाओं को शुभकामनाएं दी हैं। सोशल मीडिया पर एक पोस्ट में, सुश्री गुप्ता ने कहा कि युवाओं का कौशल विकास आत्मनिर्भर भारत और विकसित दिल्ली की नींव है। उन्होंने कहा कि दिल्ली सरकार युवाओं को गुणवत्तापूर्ण कौशल प्रशिक्षण प्रदान करने और उनके लिए नए अवसर सृजित करने के लिए पूरी तरह से प्रतिबद्ध है। मुख्यमंत्री ने आगे कहा कि कौशल से लैस और मेहनती युवा दिल्ली की प्रगति को नई गति प्रदान करेंगे।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:21:20+00:00",
+        "link": "https://newsonair.gov.in/hi/world-youth-skills-day/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPDfVUaEAECf4O.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "उपराष्ट्रपति सी. पी. राधाकृष्णन और पीएम मोदी ने स्वतंत्रता सेनानी के. कामराज की जयंती पर उन्हें नमन किया",
+        "summary": "उपराष्ट्रपति सी पी राधाकृष्णन और प्रधानमंत्री नरेन्‍द्र मोदी ने आज स्वतंत्रता सेनानी और राजनेता के कामराज की जयंती पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उपराष्ट्रपति ने उन्हें भारतीय राजनीति के सबसे महान नेताओं में से एक बताया। उन्होंने कहा कि कामराज सादगी, ईमानदारी और निस्वार्थ जनसेवा के प्रतीक थे। श्री […]",
+        "article": "उपराष्ट्रपति सी पी राधाकृष्णन और प्रधानमंत्री नरेन्&#x200d;द्र मोदी ने आज स्वतंत्रता सेनानी और राजनेता के कामराज की जयंती पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उपराष्ट्रपति ने उन्हें भारतीय राजनीति के सबसे महान नेताओं में से एक बताया। उन्होंने कहा कि कामराज सादगी, ईमानदारी और निस्वार्थ जनसेवा के प्रतीक थे। श्री राधाकृष्णन ने इस बात पर प्रकाश डाला कि कामराज ने भारत के स्वतंत्रता संग्राम में महत्वपूर्ण भूमिका निभाई और शिक्षा के विस्तार और समावेशी विकास को बढ़ावा देने के अपने अग्रणी प्रयासों से अनगिनत लोगों के जीवन को रूपांतरित किया। उपराष्ट्रपति ने कहा कि उनकी सेवा और राष्ट्र निर्माण की अमिट विरासत पीढ़ियों को प्रेरित करती रहेगी। प्रधानमंत्री ने कहा कि के. कामराज भारत के स्वतंत्रता आंदोलन के एक मजबूत स्तंभ और एक असाधारण सार्वजनिक व्यक्तित्व थे। श्री मोदी ने कहा कि उन्&#x200d;होंने अपना जीवन राष्ट्र निर्माण के लिए समर्पित कर दिया और शिक्षा, समावेशी विकास तथा वंचितों के कल्याण जैसे क्षेत्रों के प्रति उनकी अटूट प्रतिबद्धता पीढ़ियों का मार्गदर्शन करती रहेगी।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:15:46+00:00",
+        "link": "https://newsonair.gov.in/hi/k-kamaraj-jayanti/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPKH2QasAE_d47.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "जगन्नाथराव जोशी की पुण्यतिथि पर गृह मंत्री अमित शाह और रक्षा मंत्री राजनाथ सिंह ने उन्हें श्रद्धांजलि अर्पित की",
+        "summary": "केंद्रीय गृह मंत्री अमित शाह ने आज जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में शाह ने कहा कि कर्नाटक केसरी जगन्नाथराव जोशी एक देशभक्त कर्मयोगी थे, जिन्होंने गोवा में परमिट राज को समाप्त करने के लिए अमानवीय अत्याचार सहे। उन्होंने आगे कहा कि भाजपा के आदर्शों और […]",
+        "article": "केंद्रीय गृह मंत्री अमित शाह ने आज जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में शाह ने कहा कि कर्नाटक केसरी जगन्नाथराव जोशी एक देशभक्त कर्मयोगी थे, जिन्होंने गोवा में परमिट राज को समाप्त करने के लिए अमानवीय अत्याचार सहे। उन्होंने आगे कहा कि भाजपा के आदर्शों और संगठन को पूरे देश में फैलाने में जोशी की राजनीतिक सूझबूझ युवा नेताओं को प्रेरित करती रहेगी। रक्षा मंत्री राजनाथ सिंह ने कर्नाटक केसरी जगन्नाथराव जोशी की पुण्यतिथि पर उन्हें श्रद्धांजलि अर्पित की। सोशल मीडिया पर एक पोस्ट में उन्होंने कहा कि वे एक महान नेता, असाधारण आयोजक और राष्ट्रीय एकता के अथक समर्थक थे। मंत्री ने आगे कहा कि जोशी की राष्ट्र के प्रति अटूट प्रतिबद्धता गोवा मुक्ति आंदोलन में उनकी भूमिका में झलकती है, वहीं छुआछूत जैसी सामाजिक बुराइयों के खिलाफ उनका निडर रुख एक न्यायपूर्ण और सामंजस्यपूर्ण समाज के उनके दृष्टिकोण का प्रतीक है। रक्षा मंत्री ने कहा कि जगन्नाथराव जोशी अपनी सादगी, तीक्ष्ण बुद्धि और मातृभूमि के प्रति अटूट निष्ठा के लिए जाने जाते थे और उन्होंने अपना जीवन जनसेवा को समर्पित कर दिया था। निस्वार्थ सेवा, सामाजिक सद्भाव और राष्ट्रीय गौरव के उनके आदर्श आने वाली पीढ़ियों का मार्गदर्शन करते रहेंगे।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:13:46+00:00",
+        "link": "https://newsonair.gov.in/hi/jagannathrao-joshi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPI3n3bgAAY2H8.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय मंत्री किरेन रिज‍िजू ने कतर के पर्व अमीर शेख हमद बिन खलीफा अस्‍सानी के निधन पर शोक व्‍यक्‍त किया",
+        "summary": "अल्‍पसंख्‍यक कार्य मंत्री किरेन रिज‍िजू ने कतर के अमीर शेख तमीम बिन हमद अस्‍सानी को उनके पिता अमीर शेख हमद बिन खलीफा अस्‍सानी के निधन पर शोक व्‍यक्‍त किया है। एक सोशल मीडिया पोस्‍ट में दोहा में स्थिति भारतीय दूतावास में उल्‍लेख किया गया कि श्री रिज‍िजू ने कतर के अमीर को प्रधानमंत्री नरेन्‍द्र मोदी […]",
+        "article": "अल्&#x200d;पसंख्&#x200d;यक कार्य मंत्री किरेन रिज&#x200d;िजू ने कतर के अमीर शेख तमीम बिन हमद अस्&#x200d;सानी को उनके पिता अमीर शेख हमद बिन खलीफा अस्&#x200d;सानी के निधन पर शोक व्&#x200d;यक्&#x200d;त किया है। एक सोशल मीडिया पोस्&#x200d;ट में दोहा में स्थिति भारतीय दूतावास में उल्&#x200d;लेख किया गया कि श्री रिज&#x200d;िजू ने कतर के अमीर को प्रधानमंत्री नरेन्&#x200d;द्र मोदी की गहरी व्&#x200d;यक्तिगत संवेदना को भी प्रेषित किया है। प्रधानमंत्री ने इससे पहले कतर के विकास में अमीर के पिता की स्&#x200d;थायी विरासत और भारत-कतर रणनीतिक साझेदारी को मजबूत करने में उनकी अहम भूमिका को याद किया।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T03:20:25+00:00",
+        "link": "https://newsonair.gov.in/hi/qatar-ex-amir/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/kiren-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता लागू, लगभग 99 प्रतिशत भारतीय निर्यात पर शुल्‍क नहीं",
+        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्‍यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को […]",
+        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्&#x200d;यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाजार में 99 प्रतिशत टैरिफ लाइनों पर शून्य शुल्क की सुविधा प्राप्त होगी। यह समझौता भारत और ब्रिटेन की अपनी रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। कल नई दिल्ली में मीडिया को संबोधित करते हुए वाणिज्य सचिव राजेश अग्रवाल ने भारत-ब्रिटेन व्यापक आर्थिक एवं व्यापार समझौते को भारत की व्यापारिक यात्रा में एक महत्वपूर्ण मील का पत्थर बताया और कहा कि यह दो प्रमुख अर्थव्यवस्थाओं के बीच भविष्&#x200d;य के लिए आर्थिक साझेदारी स्थापित करता है। उन्होंने कहा कि यह समझौता भारत और ब्रिटेन के बीच द्विपक्षीय व्यापार और निवेश संबंधों में एक नए चरण की शुरुआत करेगा। श्री अग्रवाल ने कहा कि यह समझौता भारत के सबसे व्यापक व्यापार समझौतों में से एक है, जो व्यापक क्षेत्रीय सूचना प्रदान करता है और साथ ही शुल्क एवं शुल्क रहि&#x200d;त बाधाओं को कम करता है। दोहरे अंशदान सम्मेलन पर प्रकाश डालते हुए, श्री अग्रवाल ने कहा कि यह व्यवस्था ब्रिटेन में अस्थाई तौर पर कार्यरत पात्र श्रमिकों को निर्दिष्ट अवधि के लिए सामाजिक सुरक्षा अंशदान का भुगतान करने से छूट देकर भारतीय पेशेवरों और उनके नियोक्ताओं को लाभ पहुंचाएगी। भारत-ब्रिटेन सीईटीए और डीसीसी का लागू होना वैश्विक स्तर पर एकीकृत, लचीली और प्रतिस्पर्धी अर्थव्यवस्था बनने की दिशा में भारत की यात्रा में एक महत्वपूर्ण कदम है।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T03:05:29+00:00",
+        "link": "https://newsonair.gov.in/hi/ceta-marks-beginning-of-new-phase-of-bilateral-relations-between-india-uk-commerce-secretary/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/a484f20c-b077-4188-b241-66bca2127cda.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "world": [
+      {
+        "title": "विदेश मंत्री डॉ. एस. जयशंकर ने ब्रसेल्स में यूरोपीय संघ की शीर्ष राजनयिक काजा कल्लास से मुलाकात की",
+        "summary": "विदेश मंत्री डॉ. एस. जयशंकर ने आज ब्रसेल्स में यूरोपीय संघ की विदेश मामलों और सुरक्षा नीति की उच्च प्रतिनिधि काजा कल्लास से मुलाकात की। एक सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि पश्चिम एशिया में शांति एवं स्थिरता सुनिश्चित करने की आवश्यकता पर उनकी सार्थक चर्चा हुई। दोनों नेताओं ने सुरक्षित और […]",
+        "article": "विदेश मंत्री डॉ. एस. जयशंकर ने आज ब्रसेल्स में यूरोपीय संघ की विदेश मामलों और सुरक्षा नीति की उच्च प्रतिनिधि काजा कल्लास से मुलाकात की। एक सोशल मीडिया पोस्ट में डॉ. जयशंकर ने कहा कि पश्चिम एशिया में शांति एवं स्थिरता सुनिश्चित करने की आवश्यकता पर उनकी सार्थक चर्चा हुई। दोनों नेताओं ने सुरक्षित और निर्बाध समुद्री व्यापार के महत्व पर भी विचार-विमर्श किया। मंत्री ने यह भी बताया कि उन्होंने आपूर्ति श्रृंखला की मजबूती सुनिश्चित करने के लिए भारत-यूरोपीय संघ रणनीतिक साझेदारी को आगे बढ़ाने पर भी चर्चा की। एक अन्य पोस्ट में सुश्री कल्लास ने कहा कि भारत-यूरोपीय संघ संबंधों के लिए यह एक ऐतिहासिक वर्ष है, जिसमें व्यापार, प्रौद्योगिकी, सुरक्षा और रक्षा क्षेत्रों में दोनों पक्षों के बीच सहयोग मजबूत हो रहा है।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T03:03:15+00:00",
+        "link": "https://newsonair.gov.in/hi/jaishankar-brussels/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNNwzZgX0AAu_T-.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "वाणिज्य और उद्योग मंत्री पीयूष गोयल ने ब्रसेल्स में भारत-यूरोपीय संघ आर्थिक सहयोग पर चर्चा की",
+        "summary": "वाणिज्‍य और उद्योग मंत्री पीयूष गोयल अपनी स्‍पेन यात्रा समाप्‍त कर कल बेल्जियम की राजधानी ब्रसेल्‍स पहुंचे। यूरोप के साथ भारत की आर्थिक साझेदारी को मजबूत करने के लिए केन्‍द्रीय मंत्री के साथ एक उच्‍च स्‍तरीय व्‍यापारि‍क श‍िष्‍टमंडल भी गया है। इसका उद्देश्‍य व्‍यापार, निवेश, प्रौद्योगिकी, नवाचार और निरंतरता पर ध्‍यान केन्द्रित करना है। श्री […]",
+        "article": "वाणिज्&#x200d;य और उद्योग मंत्री पीयूष गोयल अपनी स्&#x200d;पेन यात्रा समाप्&#x200d;त कर कल बेल्जियम की राजधानी ब्रसेल्&#x200d;स पहुंचे। यूरोप के साथ भारत की आर्थिक साझेदारी को मजबूत करने के लिए केन्&#x200d;द्रीय मंत्री के साथ एक उच्&#x200d;च स्&#x200d;तरीय व्&#x200d;यापारि&#x200d;क श&#x200d;िष्&#x200d;टमंडल भी गया है। इसका उद्देश्&#x200d;य व्&#x200d;यापार, निवेश, प्रौद्योगिकी, नवाचार और निरंतरता पर ध्&#x200d;यान केन्द्रित करना है। श्री गोयल ने बेल्जियम के उप प्रधानमंत्री और रोजगार, आर्थि&#x200d;क तथा कृषि&#x200d; मंत्री डेविड क्लारिनवाल से मुलाकात कर भारत बेल्जियम के बीच व्&#x200d;यापार, निवेश, प्रौद्योगिकी, तार्किक और कार्यबल गतिशीलता के क्षेत्रों में सहयोग बढ़ाने पर चर्चा की। दोनों नेताओं ने भारत-यूरोपीय संघ मुक्त व्यापार समझौते की परिवर्तनकारी क्षमता पर अपने विचार साझा किए और व्यवसायों और लोगों के पारस्परिक लाभ के लिए आर्थिक संबंधों को और मजबूत करने की अपनी साझा प्रतिबद्धता की पुष्टि की। श्री गोयल ने जलवायु, नेट-ज़ीरो और स्वच्छ विकास के लिए यूरोपीय संघ के आयुक्त वोपके होएकस्ट्रा से भी मुलाकात की और स्वच्छ विकास, जलवायु प्रक्रिया और सतत औद्योगिक विकास में भारत-यूरोपीय संघ के सहयोग को मजबूत करने पर विचार-विमर्श किया। दोनों ने साझा नेट-ज़ीरो लक्ष्यों को साकार करने के लिए नवीकरणीय ऊर्जा, हरित हाइड्रोजन, स्वच्छ प्रौद्योगिकियों, नवाचार, निवेश और लचीली मूल्य श्रृंखलाओं में सहयोग बढ़ाने पर चर्चा की। इसके अलावा, श्री गोयल ने ब्रसेल्स में कृषि और खाद्य के लिए यूरोपीय आयुक्त क्रिस्टोफ़ हैनसेन से मुलाकात की। दोनों नेताओं ने भारत-यूरोपीय संघ मुक्त व्यापार समझौते की सफलता के आधार पर लचीली कृषि-खाद्य मूल्य श्रृंखलाओं को मजबूत करके, खाद्य सुरक्षा बढ़ाकर, किसानों का समर्थन करके और सतत विकास को बढ़ावा देकर कृषि साझेदारी को और गहरा करने के तरीकों पर चर्चा की। इससे पहले, श्री गोयल ने थेल्स बेल्जियम के प्रबंध निदेशक थॉमस कोलिनेट और जनसंपर्क निदेशक ब्रूनो लेते से मुलाकात की। उन्होंने वैश्विक बाजारों के लिए विनिर्माण, प्रौद्योगिकी साझेदारी और कौशल विकास सहित भारत में कंपनी के दीर्घकालिक संचालन की सराहना की। एक सोशल मीडिया पोस्ट में उन्होंने कहा कि दोनों ने सहयोग को और मजबूत करने के अवसरों पर चर्चा की और कंपनी को &#8216; मेक इन इंडिया, मेक फॉर द वर्ल्ड&#8217; की परिकल्पना के अनुरूप भारत में अपने विनिर्माण कार्यों का और विस्तार करने के लिए प्रोत्साहित किया।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:43:23+00:00",
+        "link": "https://newsonair.gov.in/hi/piyush-brussels/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNO-J5LbAAAIWqC-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
       },
       {
         "title": "होर्मुज़ जलडमरूमध्य में जहाज़ों पर हमलों के बाद अमरीका ने ईरानी बंदरगाहों पर नाकेबंदी लागू की",
@@ -1617,6 +1541,66 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/first-round-of-talks-on-the-india-maldives-free-trade-agreement-successfully-concluded/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/India-maldives-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संयुक्त राष्ट्र में घटते लोगों के विश्वास पर चिंता जताई",
+        "summary": "भारत ने आगाह किया है कि संयुक्‍त राष्‍ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्‍त राष्‍ट्र में विश्‍वास घट रहा है। संयुक्‍त राष्‍ट्र में भविष्‍य के लिए बहुपक्षवाद को उपयुक्‍त बनाने संबंधी विषय पर मंत्रिस्‍तरीय गोलमेज सम्‍मेलन में भारत के स्‍थायी प्रतिनिधि पी. […]",
+        "article": "भारत ने आगाह किया है कि संयुक्&#x200d;त राष्&#x200d;ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्&#x200d;त राष्&#x200d;ट्र में विश्&#x200d;वास घट रहा है। संयुक्&#x200d;त राष्&#x200d;ट्र में भविष्&#x200d;य के लिए बहुपक्षवाद को उपयुक्&#x200d;त बनाने संबंधी विषय पर मंत्रिस्&#x200d;तरीय गोलमेज सम्&#x200d;मेलन में भारत के स्&#x200d;थायी प्रतिनिधि पी. हरीश ने कहा कि सुरक्षा परिषद चल रहे संघर्षों में सार्थक हस्&#x200d;तक्षेप करने में विफल रही है। इससे अंतर्राष्&#x200d;ट्रीय शांति और सुरक्षा बनाए रखने में उसकी क्षमता पर सवाल उठ रहे हैं। श्री हरीश ने कहा कि 80 वर्ष पुरानी संयुक्&#x200d;त राष्&#x200d;ट्र संरचना मौजूदा वैश्विक चुनौतियों से निपटने में अब उपयुक्&#x200d;त नहीं रह गई है। उन्&#x200d;होंने कहा कि भविष्&#x200d;य के लिए समझौते के अंतर्गत कार्य सूत्र सिर्फ कागजों में बन कर रह गए है। इस समझौते में हिंसा, नस्&#x200d;लवाद और विदेशियों से नफरत समाप्&#x200d;त करना, समानता को बढ़ावा देना और शांति स्&#x200d;थापना को मजबूत करना शामिल है। उन्&#x200d;होंने कहा कि सार्थक सुधारों की अत्&#x200d;यंत आवश्&#x200d;यकता है। श्री हरीश ने कहा कि समझौते के कुछ कार्य बिंदुओं पर भारत की कुछ महत्&#x200d;वपूर्ण आपत्तियां हैं। लेकिन भारत ने समझौते का सकारात्&#x200d;मक रूप से समर्थन किया है। उन्&#x200d;होंने संयुक्&#x200d;त राष्&#x200d;ट्र आम सभा को पुन: सशक्&#x200d;त करना और सतत विकास में प्रगति के लिए आर्थिक तथा सामाजिक परिषद की भूमिका को सुदृढ़ करने का आह्वान किया। अल्&#x200d;प विकसित और विकासशील देशों पर श्री हरीश ने कहा कि भारत इन देशों में संसाधनों की आवाजाही के लिए प्रतिबद्ध है और ये सुनिश्चित करता है कि कोई भी देश पीछे न रहे। उन्&#x200d;होंने अंतर्राष्&#x200d;ट्रीय वित्&#x200d;तीय संसाधनों से अधिक प्रतिनिधित्&#x200d;व, जवाबदेह और विकासोन्&#x200d;मुख बनने का आह्वान किया।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:48:37+00:00",
+        "link": "https://newsonair.gov.in/hi/un-reforms/",
+        "post_id": 1738924,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत-ब्रिटेन मुक्त व्यापार समझौते के लागू होने के अवसर पर देशभर में कार्यक्रम आयोजित",
+        "summary": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो गया है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय, रत्न और आभूषण निर्यात संवर्धन परिषद, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से आज दोपहर कोलकाता […]",
+        "article": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो गया है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय, रत्न और आभूषण निर्यात संवर्धन परिषद, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से आज दोपहर कोलकाता के नेताजी सुभाष चंद्र बोस अंतरराष्ट्रीय हवाई अड्डे पर एक ध्वजारोहण कार्यक्रम आयोजित करेगा। इसमें भारत-ब्रिटेन मुक्त व्यापार समझौते की शुरुआत के उपलक्ष्य में निर्यात खेप ब्रिटेन भेजी जाएगी।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:37:09+00:00",
+        "link": "https://newsonair.gov.in/hi/india-uk-fta/",
+        "post_id": 1738914,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "99 प्रतिशत भारतीय निर्यात पर शून्य शुल्क के साथ लागू हुआ भारत-ब्रिटेन सीईटीए, उद्योग मंत्री पीयूष गोयल ने बताया ऐतिहासिक कदम",
+        "summary": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज के दिन को भारत-ब्रिटेन संबंधों में एक महत्वपूर्ण उपलब्धि बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता &#8211; सीईटीए और सामाजिक सुरक्षा समझौता लागू हो गए हैं, जिससे भारत के लगभग 99 प्रतिशत निर्यात पर शून्य शुल्क […]",
+        "article": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज के दिन को भारत-ब्रिटेन संबंधों में एक महत्वपूर्ण उपलब्धि बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता &#8211; सीईटीए और सामाजिक सुरक्षा समझौता लागू हो गए हैं, जिससे भारत के लगभग 99 प्रतिशत निर्यात पर शून्य शुल्क के साथ बाजार पहुंच प्राप्त होगी और द्विपक्षीय व्यापार मूल्य का लगभग 100 प्रतिशत हिस्सा इसके अंतर्गत आएगा। उन्&#x200d;होंने कहा कि भारत-ब्रिटेन मुक्त व्यापार समझौता भारत के वस्त्र, चमड़ा, रत्न और आभूषण, इंजीनियरिंग उत्पाद, समुद्री उत्पाद, रसायन, प्रसंस्कृत खाद्य पदार्थ, सूक्ष्&#x200d;म लघु और मध्यम उद्यम &#8211; एमएसएमई, किसानों और निर्माताओं के लिए अभूतपूर्व अवसर पैदा करेगा। उन्होंने कहा कि यह समझौता देश के आईटी, पेशेवर, वित्तीय, शिक्षा और व्यावसायिक सेवा क्षेत्रों के लिए भी नए रास्ते खोलता है, साथ ही भारतीय प्रतिभाओं की गतिशीलता को भी बढ़ाता है। श्री गोयल ने कहा कि सामाजिक सुरक्षा समझौता ब्रिटेन में अस्थायी रूप से काम कर रहे भारतीय पेशेवरों को पांच साल तक दोहरी सामाजिक सुरक्षा अंशदान से छूट देकर साझेदारी को और मजबूत करता है, जिससे भारत के कार्यबल की वैश्विक प्रतिस्पर्धात्मकता में वृद्धि होती है। उन्&#x200d;होंने बताया कहा कि भारत और ब्रिटेन एक मजबूत, नवाचार-संचालित साझेदारी बनाने के लिए प्रतिबद्ध हैं जो आने वाली पीढ़ियों के लिए विकास, निवेश और साझा समृद्धि को बढ़ावा देगी।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:29:58+00:00",
+        "link": "https://newsonair.gov.in/hi/india-uk-ceta/",
+        "post_id": 1738912,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय मंत्री किरेन रिज‍िजू ने कतर के पर्व अमीर शेख हमद बिन खलीफा अस्‍सानी के निधन पर शोक व्‍यक्‍त किया",
+        "summary": "अल्‍पसंख्‍यक कार्य मंत्री किरेन रिज‍िजू ने कतर के अमीर शेख तमीम बिन हमद अस्‍सानी को उनके पिता अमीर शेख हमद बिन खलीफा अस्‍सानी के निधन पर शोक व्‍यक्‍त किया है। एक सोशल मीडिया पोस्‍ट में दोहा में स्थिति भारतीय दूतावास में उल्‍लेख किया गया कि श्री रिज‍िजू ने कतर के अमीर को प्रधानमंत्री नरेन्‍द्र मोदी […]",
+        "article": "अल्&#x200d;पसंख्&#x200d;यक कार्य मंत्री किरेन रिज&#x200d;िजू ने कतर के अमीर शेख तमीम बिन हमद अस्&#x200d;सानी को उनके पिता अमीर शेख हमद बिन खलीफा अस्&#x200d;सानी के निधन पर शोक व्&#x200d;यक्&#x200d;त किया है। एक सोशल मीडिया पोस्&#x200d;ट में दोहा में स्थिति भारतीय दूतावास में उल्&#x200d;लेख किया गया कि श्री रिज&#x200d;िजू ने कतर के अमीर को प्रधानमंत्री नरेन्&#x200d;द्र मोदी की गहरी व्&#x200d;यक्तिगत संवेदना को भी प्रेषित किया है। प्रधानमंत्री ने इससे पहले कतर के विकास में अमीर के पिता की स्&#x200d;थायी विरासत और भारत-कतर रणनीतिक साझेदारी को मजबूत करने में उनकी अहम भूमिका को याद किया।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T03:20:25+00:00",
+        "link": "https://newsonair.gov.in/hi/qatar-ex-amir/",
+        "post_id": 1738735,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता लागू, लगभग 99 प्रतिशत भारतीय निर्यात पर शुल्‍क नहीं",
+        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्‍यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को […]",
+        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्&#x200d;यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाजार में 99 प्रतिशत टैरिफ लाइनों पर शून्य शुल्क की सुविधा प्राप्त होगी। यह समझौता भारत और ब्रिटेन की अपनी रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। कल नई दिल्ली में मीडिया को संबोधित करते हुए वाणिज्य सचिव राजेश अग्रवाल ने भारत-ब्रिटेन व्यापक आर्थिक एवं व्यापार समझौते को भारत की व्यापारिक यात्रा में एक महत्वपूर्ण मील का पत्थर बताया और कहा कि यह दो प्रमुख अर्थव्यवस्थाओं के बीच भविष्&#x200d;य के लिए आर्थिक साझेदारी स्थापित करता है। उन्होंने कहा कि यह समझौता भारत और ब्रिटेन के बीच द्विपक्षीय व्यापार और निवेश संबंधों में एक नए चरण की शुरुआत करेगा। श्री अग्रवाल ने कहा कि यह समझौता भारत के सबसे व्यापक व्यापार समझौतों में से एक है, जो व्यापक क्षेत्रीय सूचना प्रदान करता है और साथ ही शुल्क एवं शुल्क रहि&#x200d;त बाधाओं को कम करता है। दोहरे अंशदान सम्मेलन पर प्रकाश डालते हुए, श्री अग्रवाल ने कहा कि यह व्यवस्था ब्रिटेन में अस्थाई तौर पर कार्यरत पात्र श्रमिकों को निर्दिष्ट अवधि के लिए सामाजिक सुरक्षा अंशदान का भुगतान करने से छूट देकर भारतीय पेशेवरों और उनके नियोक्ताओं को लाभ पहुंचाएगी। भारत-ब्रिटेन सीईटीए और डीसीसी का लागू होना वैश्विक स्तर पर एकीकृत, लचीली और प्रतिस्पर्धी अर्थव्यवस्था बनने की दिशा में भारत की यात्रा में एक महत्वपूर्ण कदम है।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T03:05:29+00:00",
+        "link": "https://newsonair.gov.in/hi/ceta-marks-beginning-of-new-phase-of-bilateral-relations-between-india-uk-commerce-secretary/",
+        "post_id": 1737766,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
