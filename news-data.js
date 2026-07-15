@@ -1,17 +1,105 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-15T00:32:43.078571",
+  "generated": "2026-07-15T02:38:01.089892",
   "en": {
     "top": [
       {
-        "title": "India expanding its nuclear power with 24 power reactors and 8.78 Gigawatt capacity",
+        "title": "Supreme Court says Samay Raina violated statements and undertakings given before the court",
+        "summary": "The Supreme Court yesterday slammed comedian Samay Raina and YouTubers Ranveer Allahbadia and Ashish Chanchlani for not complying with its order, observing that they are self-styled youth icons. A bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana passed the order after it was informed that Raina had not invited […]",
+        "article": "The Supreme Court yesterday slammed comedian Samay Raina and YouTubers Ranveer Allahbadia and Ashish Chanchlani for not complying with its order, observing that they are self-styled youth icons. A bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana passed the order after it was informed that Raina had not invited any disabled persons to his show, according to its earlier order. The bench said that they have no reason to doubt that Samay Raina has taken the court for a ride, and he is in brazen violation of statements or undertakings given before the court. The top court was hearing a plea filed by Cure SMA India Foundation alleging that Raina made insensitive remarks over the high cost of treatment for Spinal Muscular Atrophy and also allegedly ridiculed a person with such a disability. The plea flagged jokes made by “India’s Got Latent” host Samay Raina and other social media influencers Vipun Goyal, Balraj Paramjeet Singh Ghai, Sonali Thakkar and Nishant Jagdish Tanwar.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:09:36+00:00",
+        "link": "https://newsonair.gov.in/supreme-court-says-samay-raina-violated-statements-and-undertakings-given-before-the-court/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Samay_raina_%28cropped%29.jpg",
+        "image_credit": "Wikipedia – Samay Raina (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India to Host 12th BRICS Labour and Employment Ministers’ Meeting in Hyderabad",
+        "summary": "India will host the 12th BRICS Labour and Employment Ministers&#8217; Meeting in Hyderabad from today. The two-day meeting will bring together labour and employment ministers and senior officials from BRICS member countries under India&#8217;s BRICS chairship theme, Building for Resilience, Innovation, Cooperation and Sustainability. Union Labour and Employment Minister Dr Mansukh Mandaviya will c",
+        "article": "India will host the 12th BRICS Labour and Employment Ministers&#8217; Meeting in Hyderabad from today. The two-day meeting will bring together labour and employment ministers and senior officials from BRICS member countries under India&#8217;s BRICS chairship theme, Building for Resilience, Innovation, Cooperation and Sustainability. Union Labour and Employment Minister Dr Mansukh Mandaviya will chair the meeting. The ministers will deliberate on four priority areas, including advancing social security and formalisation of labour markets and enhancing women&#8217;s participation and inclusion in the workforce. The meeting will also consider and adopt a draft declaration prepared by the Employment Working Group. It aims to strengthen cooperation among BRICS countries on labour market policies, worker welfare, skills development and inclusive employment, while promoting resilient and sustainable growth in the changing world of work.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:53:13+00:00",
+        "link": "https://newsonair.gov.in/india-to-host-12th-brics-labour-and-employment-ministers-meeting-in-hyderabad/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Downtown_hyderabad_drone.png",
+        "image_credit": "Wikipedia – Hyderabad (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government launches first trial Index of Services Production for formal services sector",
+        "summary": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. […]",
+        "article": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. &nbsp; The Ministry of Statistics and Programme Implementation (MoSPI) described the sub-sectoral ISP as a major milestone in improving the measurement of India’s services sector and strengthening the country’s statistical system. It said the comprehensive overall Index of Services Production will be introduced after evaluating the stability of the trial series and expanding its coverage-the first set of data points to broad-based growth in the services sector. Fourteen of the 19 sub-sectors recorded double-digit growth in April this year compared to the corresponding month last year, while almost all remaining sectors also registered positive growth. The fastest-growing sectors are accommodation and food services with 37.2 per cent and Retail Trade with 30.8 per cent. &nbsp; MoSPI said the data will be available on e- sankhyiki portal as well. On the occasion, Secretary, MoSPI, Dr Saurabh Garg, today said that the launch of the Index marks a significant step in strengthening India&#8217;s statistical system. The Secretary highlighted that the index has been developed entirely using administrative data, including inputs from government ministries and GST records, without imposing any additional compliance burden on industries or businesses. He also explained that the ISP is an output indicator and should not be equated with the Gross Value Added (GVA) used in GDP estimation. Dr Garg said that the Ministry will continue to seek feedback from stakeholders to strengthen the ISP further and enhance the country&#8217;s statistical ecosystem. Meanwhile, Chief Economic Advisor (CEA) Dr V Anantha Nageswaran emphasised that the release of the index should be viewed as a trial series, not a final or perfect index. He said that releasing it publicly reflects the confidence of the Ministry in the method and a willingness to improve it through scrutiny. He further said that the coverage of the index would expand over time, with the addition of sectors such as health services and ownership of dwelling businesses, which will take the coverage to around 85 to 90 per cent of formal services sector contribution in the economy.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:30:09+00:00",
+        "link": "https://newsonair.gov.in/government-launches-first-trial-index-of-services-production-for-formal-services-sector/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government to launch Eighth Tranche of Auction for Critical and Strategic Mineral Blocks",
+        "summary": "Union Minister of Coal and Mines G. Kishan Reddy will launch the Eighth Tranche of Auction of Critical and Strategic Mineral Blocks in New Delhi today. Ministry of Mines has said that it comprises 20 critical and strategic mineral blocks spread across nine states, including 13 newly identified blocks and 7 blocks being offered under […]",
+        "article": "Union Minister of Coal and Mines G. Kishan Reddy will launch the Eighth Tranche of Auction of Critical and Strategic Mineral Blocks in New Delhi today. Ministry of Mines has said that it comprises 20 critical and strategic mineral blocks spread across nine states, including 13 newly identified blocks and 7 blocks being offered under the second attempt. &nbsp; The mineral portfolio includes Molybdenum, Graphite, Glauconite, Rare Earth Elements, Titanium, Tungsten, Potash, Lithium, Caesium, and Rubidium. These minerals are critical for clean energy, advanced manufacturing, fertilisers, defence and other strategic sectors. With seven tranches of auction completed, the Ministry has successfully auctioned 56 out of 88 critical and strategic mineral blocks, achieving a success rate of over 63 percent. &nbsp; The Ministry said the strong industry response across successive auction rounds reflects growing investor confidence in the Government&#8217;s transparent, competitive and market-driven auction framework. The Ministry stated that mineral sector has achieved a historic milestone in financial year 2025-26, with 212 mineral blocks successfully auctioned, the highest in any financial year since the commencement of the auction regime. This included 22 critical and strategic mineral blocks.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:18:10+00:00",
+        "link": "https://newsonair.gov.in/government-to-launch-eighth-tranche-of-auction-for-critical-and-strategic-mineral-blocks/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Sarbananda Sonowal launches ‘Seafarer-First’ initiative to safeguard Indian seafarers in conflict-affected region",
+        "summary": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure",
+        "article": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure their safety and welfare. Chairing a high-level inter-ministerial review meeting in New Delhi, Mr Sonowal ordered real-time vessel-by-vessel monitoring, and the appointment of dedicated liaison officers for every affected Indian seafarer in the region. The Minister also ordered for round-the-clock coordination by the Ministry of Ports, Shipping and Waterways, in association with Ministry of External Affairs, Petroleum and Natural Gas, Chemicals and Fertilisers, the Indian Navy, the Directorate General of Shipping and Indian Missions in Iran and Oman. &nbsp; The Minister directed the Directorate General of Shipping to establish a real-time operational dashboard to track every Indian seafarer aboard vessels operating in the Persian Gulf, the Strait of Hormuz and the Gulf of Oman, irrespective of the vessel&#8217;s flag. He also instructed authorities to coordinate closely with Indian Missions in Iran, Oman and the UAE for real-time information on navigational safety, medical evacuation and repatriation. Mr Sonowal further directed shipowners, vessel managers and recruitment agencies to ensure that no Indian seafarer is compelled to sail without adequate information, protection and support. He said the government remains committed to safeguarding Indian seafarers and ensuring the uninterrupted movement of global trade through the region. &nbsp; The review comes in the wake of attacks on merchant vessels MT Al Bahiyah and MT Mombasa in the Strait of Hormuz. The two vessels had 30 Indian seafarers among a total crew of 46. One Indian seafarer was killed and another injured in the attack on MT Al Bahiyah. On MT Mombasa, nine Indian nationals were injured, including two who remain critically injured. &nbsp; Expressing grief over the loss of the Indian seafarer, Mr Sonowal conveyed his condolences to the bereaved family and wished the injured a speedy recovery. He assured that the Government would extend all possible assistance to affected seafarers and their families.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:14:09+00:00",
+        "link": "https://newsonair.gov.in/union-minister-sarbananda-sonowal-launches-seafarer-first-initiative-to-safeguard-indian-seafarers-in-conflict-affected-region/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Schools students hold peace protest in PoJK, demand international attention",
+        "summary": "Hundreds of schoolchildren in uniforms, accompanied by their teachers and parents, gathered at Rawalakot&#8217;s Eidgah Ground in the Pakistan-occupied Jammu &#38; Kashmir (PoJK), condemning the Pakistani military&#8217;s brutal crackdown in the occupied territory. School-going students turned out in large numbers on Monday, waving white flags as a symbol of peace and carrying banners that […]",
+        "article": "Hundreds of schoolchildren in uniforms, accompanied by their teachers and parents, gathered at Rawalakot&#8217;s Eidgah Ground in the Pakistan-occupied Jammu & Kashmir (PoJK), condemning the Pakistani military&#8217;s brutal crackdown in the occupied territory. School-going students turned out in large numbers on Monday, waving white flags as a symbol of peace and carrying banners that read &#8220;International Media Give Us Coverage&#8221; and raising slogans against the Pakistani Army. These ongoing protests across PoJK have emerged as a direct challenge to Islamabad&#8217;s long-standing control in the region, with Pakistani forces unleashing a brutal crackdown that reportedly left dozens of civilians dead and injured, while the region remains under a strict blockade, curfew, and a total communications blackout. Meanwhile, the United Kashmir People&#8217;s National Party (UKPNP) held a conference bringing together leaders, journalists, and civil society from across the PoJK and the global diaspora to discuss the human rights abuses, ongoing siege, and brutal crackdown on the peaceful civilians by the Pakistani authorities in the occupied territory.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T01:58:52+00:00",
+        "link": "https://newsonair.gov.in/schools-students-hold-peace-protest-in-pojk-demand-international-attention/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India-UK Comprehensive Economic and Trade Agreement Comes into Force today",
+        "summary": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom came into force from today. Simultaneously, the Agreement on Social Security, also referred to as the Double Contribution Convention (DCC), also came into effect, which reinforcing the mobility and competitiveness of Indian professionals in the United Kingdom. The landmark deal grants […]",
+        "article": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom came into force from today. Simultaneously, the Agreement on Social Security, also referred to as the Double Contribution Convention (DCC), also came into effect, which reinforcing the mobility and competitiveness of Indian professionals in the United Kingdom. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership and deliver prosperity for their people. Briefing the media in New Delhi, Commerce Secretary Rajesh Agrawal has described the India-UK Comprehensive Economic and Trade Agreement as a defining milestone in India&#8217;s trade journey, saying it establishes a future-oriented economic partnership between two major economies. Briefing the media in New Delhi yesterday, he said the agreement will mark the beginning of a new phase in bilateral trade and investment relations between India and the United Kingdom. Mr Agrawal said the agreement is among India&#8217;s most comprehensive trade pacts, offering broad sectoral coverage while reducing tariff and non-tariff barriers. Highlighting the Double Contribution Convention (DCC), Mr Agrawal said the arrangement will benefit Indian professionals and their employers by exempting eligible workers on temporary assignments in the UK from paying social security contributions there for the specified period. Our correspondent reports that the implementation of the India-UK CETA and DCC marks a major step in India&#8217;s journey towards becoming a globally integrated, resilient and competitive economy. This agreement has been designed as a people-centric agreement that delivers benefits across society. The simultaneous enforcement of the CETA and the DCC will open up significant new opportunities for India’s exports. Indian exporters will benefit from the complete elimination of UK tariffs across several key sectors. Tariffs of up to 70% on processed food products, over 21% on marine products, around 18% on engineering goods and auto components, up to 16% on leather and footwear products and around 12% on textiles and clothing will be reduced to zero. This will significantly enhance the competitiveness of Indian exports in the UK market, generate new opportunities for farmers, fishermen, MSMEs and manufacturers, and strengthen India&#8217;s integration into global value chains. Under the agreement, India has protected its sensitive sectors, including dairy products, cereals, millets, edible oils, oilseeds, apples and several vegetable products.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T01:03:58+00:00",
+        "link": "https://newsonair.gov.in/india-uk-comprehensive-economic-and-trade-agreement-comes-into-force-today/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, Maldives Conclude First Round of FTA Talks Successfully",
+        "summary": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. The Commerce and Industry Ministry said that both sides made substantive progress across the negotiating tracks and reached broad convergence on […]",
+        "article": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. The Commerce and Industry Ministry said that both sides made substantive progress across the negotiating tracks and reached broad convergence on several issues. India is the second-largest trading partner of the Maldives. Bilateral trade between the two countries stood at over 771 million US dollars in 2025-26, compared to 679 million US dollars in 2024-25, registering a growth of 13.54%. The proposed FTA is expected to further strengthen bilateral economic and trade relations by enhancing market access, facilitating investment, promoting greater economic cooperation and contributing to sustainable economic growth in both countries. The ministry said both sides are working towards a broad-based, balanced and comprehensive agreement guided by the principles of fairness and reciprocity.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:49:02+00:00",
+        "link": "https://newsonair.gov.in/india-maldives-conclude-first-round-of-fta-talks-successfully/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India expands nuclear power programme to strengthen energy security",
         "summary": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural […]",
         "article": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural uranium fuel to run the Pressurised Heavy Water Reactors to produce nuclear energy. The government said that India is steadily expanding its nuclear power programme to strengthen energy security and support clean economic growth. A major outcome of the 3rd India-Australia Annual summit, which was held in Melbourne last week, was the finalisation of the Administrative Arrangement under the India-Australia Civil Nuclear Cooperation Agreement. It enables long-term exports of Australian uranium to India for peaceful purposes. The Australian uranium will ensure a steady supply of the primary fuel to run these nuclear power reactors.",
         "date": "2026-07-15",
         "pubDate": "2026-07-15T00:20:26+00:00",
         "link": "https://newsonair.gov.in/india-expanding-its-nuclear-power-with-24-power-reactors-and-8-78-gigawatt-capacity/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Nuke.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -21,131 +109,109 @@ window.VM_NEWS = {
         "date": "2026-07-14",
         "pubDate": "2026-07-14T15:58:24+00:00",
         "link": "https://newsonair.gov.in/india-strengthens-global-leadership-in-food-standards-at-codex-alimentarius-commission-session/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Codex.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India closely following developments in West Asia, calls for safe navigation through Strait of Hormuz. : MEA",
-        "summary": "New Delhi has said that it is closely following the developments in West Asia. It has again called for safe and unimpeded navigation and the flow of commerce through the Strait of Hormuz. Briefing media in New Delhi this evening, spokesperson of the Ministry of External Affairs Randhir Jaiswal said, this is key for ensuring […]",
-        "article": "New Delhi has said that it is closely following the developments in West Asia. It has again called for safe and unimpeded navigation and the flow of commerce through the Strait of Hormuz. Briefing media in New Delhi this evening, spokesperson of the Ministry of External Affairs Randhir Jaiswal said, this is key for ensuring the economic and energy security of people across the world. He said, the Ministry has issued a statement after summoning the Deputy Chief of Mission of Iran. Mr Jaiswal said, New Delhi conveyed Tehran its deepest concerns and that it strongly condemned what has happened. He said, a precious Indian life has been lost and several Indian nationals have been injured. A couple of them are seriously injured. The Spokesperson said, India conveyed its strongest protest to the Iranian side on this matter, stating that these attacks must stop at the earliest. At the same time, there should be de-escalation, and the two sides should come to the negotiating table and take the path of dialogue and diplomacy so that peace and stability can be ensured in West Asia. On the indictment of Lawrence Bishnoi Gang, the spokesperson said India has consistently maintained that transnational organised crime, terrorism, narco-trafficking, human trafficking, illegal firearms trafficking and related criminal networks pose a serious threat to societies. He added that India and the United States enjoy strong and growing cooperation in combating terrorism as well as transnational organised crime. He said India and US agencies have worked closely together over the years, and this cooperation continues to deepen. Replying to a query on UNCLOs, Mr Jaiswal said India’s position on the South China Sea issue is well known. He emphasised the importance of upholding freedom of navigation and overflight, other lawful uses of the sea, and unimpeded commerce consistent with international law. He re-affirmed that maritime disputes must be resolved peacefully and in accordance with UNCLOS. The spokesperson reiterated that the award rendered ten years ago by the Arbitral Tribunal is a significant milestone and the basis for peacefully resolving disputes between the parties. On Passport, Mr Jaiswal said an Indian passport is a document that is issued by the Government to regulate the departure from India of citizens of India, as per the Passports Act, 1967. It is issued after due verification laid out by an established process. The spokesperson added that the issue of passports to Indian citizens or any other individual is governed by the Passports Act and Passports Rules, 1980. He informed that currently, less than 8 percent of Indian citizens hold a passport. On Nijjar issue in Canada, Mr Jaiswal said, the Ministry has noted the remarks made by Royal Canadian Mounted Police RCMP Deputy Commissioner.He said, these remarks are consistent with the recently unsealed US indictmentwhich attributes responsibility to the members of the Lawrence Bishnoiorganised crime group. India remains committed to working with its partners incombating terrorism and transnational organised crime through close lawenforcement and security cooperation.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T15:30:01+00:00",
-        "link": "https://newsonair.gov.in/india-closely-following-developments-in-west-asia-calls-for-safe-navigation-through-strait-of-hormuz-mea/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/Strait-of-Hormuz-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Audit process in Madhya Pradesh fully digital through DRASHTI",
-        "summary": "The audit process for panchayats in Madhya Pradesh is now going fully digital. The state government has launched the DRASHTI (Digital Remote Auditing System for Transparency &#38; Insights) for this. This is a unique initiative in the country, aimed at fully digital, remote financial audits of panchayats. Through this platform, auditors can view and […]",
-        "article": "The audit process for panchayats in Madhya Pradesh is now going fully digital. The state government has launched the DRASHTI (Digital Remote Auditing System for Transparency & Insights) for this. This is a unique initiative in the country, aimed at fully digital, remote financial audits of panchayats. Through this platform, auditors can view and check the income and expenditure records of any panchayat from their own home or office. The platform is developed by the Directorate of Panchayati Raj, with technical support from NIC, under the guidance of the Comptroller and Auditor General of India. It will make the financial audit of over 23,000 gram panchayats in the state faster, simpler and more transparent. Even with limited staff, all panchayats can now be audited on time. Along with this, a payment gateway has also been launched on the Panchayat Darpan portal. This will allow citizens to pay their bills online.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T15:10:40+00:00",
-        "link": "https://newsonair.gov.in/audit-process-in-madhya-pradesh-fully-digital-through-drashti/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Drishti.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "New Delhi says, ongoing protests in PoJK due to Pak’s denial of fundamental rights to local population",
-        "summary": "India said the ongoing protests in PoJK are a direct consequence of Pakistan’s decades-long systemic exploitation and denial of fundamental rights to local population and administrative oppression in areas under its illegal and forcible occupation. During the media briefing, responding to a question on protests in PoJK, spokesperson of the Ministry of External Affairs Mr […]",
-        "article": "India said the ongoing protests in PoJK are a direct consequence of Pakistan’s decades-long systemic exploitation and denial of fundamental rights to local population and administrative oppression in areas under its illegal and forcible occupation. During the media briefing, responding to a question on protests in PoJK, spokesperson of the Ministry of External Affairs Mr Jaiswal said New Delhi expects the international community to hold Pakistan fully accountable for these abuses and misdeeds. He pointed out that rather than addressing the legitimate grievances of the local populace, the Pakistani state has responded with extreme police brutality, and deploying lethal force against unarmed civilians that has resulted in tragic fatalities.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T15:10:26+00:00",
-        "link": "https://newsonair.gov.in/india-expects-international-community-to-hold-pakistan-fully-accountable-for-its-misdeeds-in-pojk/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Ukraine claims to intercept five Russian ballistic missiles; several other strike capital Kyiv",
-        "summary": "Ukraine&#8217;s Air Force has said its air defence systems intercepted five Russian ballistic missiles during a wave of overnight attacks, although several other missiles and drones penetrated defences and struck the capital, Kyiv. According to the Ukraine&#8217;s Air Force, one ballistic missile and 25 drones hit 17 locations across the country, while falling […]",
-        "article": "Ukraine&#8217;s Air Force has said its air defence systems intercepted five Russian ballistic missiles during a wave of overnight attacks, although several other missiles and drones penetrated defences and struck the capital, Kyiv. According to the Ukraine&#8217;s Air Force, one ballistic missile and 25 drones hit 17 locations across the country, while falling debris was also reported. In Kyiv, the attack sparked fires at two warehouses and damaged a school. Ukrainian President Volodymyr Zelenskyy, who remained in Paris after attending France&#8217;s annual Bastille Day celebrations, said Ukraine and its international partners could jointly develop a low-cost, mass-produced air defence system within the next year. Meanwhile, Russia&#8217;s Defence Ministry said the strikes were aimed at military manufacturing facilities in Kyiv involved in producing long-range missiles and drones.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T14:30:30+00:00",
-        "link": "https://newsonair.gov.in/ukraine-claims-to-intercept-five-russian-ballistic-missiles-several-other-strike-capital-kyiv/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/akashvani-news-2-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Roadmap planned for development of agriculture based on weather & soil for West Bengal",
-        "summary": "A roadmap for the development of agriculture based on weather and soil is being developed in West Bengal, said Union Minister for Agriculture and Farmers&#8217; Welfare and Rural Development Shivraj Singh Chouhan. The Minister, while attending a meeting at the state secretariat, Nabanna today, said that agriculture universities, research institutes, and the state government […]",
-        "article": "A roadmap for the development of agriculture based on weather and soil is being developed in West Bengal, said Union Minister for Agriculture and Farmers&#8217; Welfare and Rural Development Shivraj Singh Chouhan. The Minister, while attending a meeting at the state secretariat, Nabanna today, said that agriculture universities, research institutes, and the state government of West Bengal are jointly working for the development of the roadmap. Mr Chouhan said that training and research institutes for potato and jute seeds will come up in four places in West Bengal, including Chinsurah and Malda. He credited the state government for its excellent work in the creation of digital identity cards for the farmers and for the successful implementation of various central schemes, including PM Fasal Bima Yojana. West Bengal Chief Minister Suvendu Adhikari, state Agriculture Minister Dudh Kumar Mondal, state Panchayat Minister Dilip Ghosh, and other dignitaries and officials were present at the meeting.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T13:15:01+00:00",
-        "link": "https://newsonair.gov.in/roadmap-planned-for-development-of-agriculture-based-on-weather-soil-for-west-bengal/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/west-bengal-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "FTA between India and Maldives expected to enhance market access and investment",
-        "summary": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. Commerce and Industry Ministry said, both sides made substantive progress across the negotiating tracks and reached broad convergence on several […]",
-        "article": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. Commerce and Industry Ministry said, both sides made substantive progress across the negotiating tracks and reached broad convergence on several issues. India is the second-largest trading partner of the Maldives. Bilateral trade between the two countries stood at over 771 million US dollar in 2025-26, compared to 679 million US dollar in 2024-25, registering a growth of 13.54 per cent. The proposed FTA is expected to further strengthen bilateral economic and trade relations by enhancing market access, facilitating investment, promoting greater economic cooperation and contributing to sustainable economic growth in both countries. The Ministry said, both sides are working towards a broad-based, balanced and comprehensive agreement guided by the principles of fairness and reciprocity.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T12:36:20+00:00",
-        "link": "https://newsonair.gov.in/fta-between-india-and-maldives-expected-to-enhance-market-access-and-investment/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/India-maldives.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Railways to transport fertilizers in specially designed containers to enable non-polluting storage",
-        "summary": "Railways Minister Ashwini Vaishnaw has announced a major policy reform that allows fertilizers to be transported in specially designed containers instead of traditional covered box wagons. Briefing media in New Delhi today on the reforms aimed at modernizing Indian Railways, Mr Vaishnaw said, Railways account for 85 per cent share in transportation of fertilisers. […]",
-        "article": "Railways Minister Ashwini Vaishnaw has announced a major policy reform that allows fertilizers to be transported in specially designed containers instead of traditional covered box wagons. Briefing media in New Delhi today on the reforms aimed at modernizing Indian Railways, Mr Vaishnaw said, Railways account for 85 per cent share in transportation of fertilisers. He said, container handling is easier and enables non-polluting storage. Mr Vaishnaw added that individual container can be stored at the rake point, instead of detaining the entire rake. The minister said Prime Minister Narendra Modi has continuously encouraged to bring reforms in the Railways. Mr Vaishnaw announced a major reform in fly ash transportation, shifting movement from open railway wagons to specially designed containers. He highlighted that India generates nearly 340 million tonnes of fly ash annually, which is highly useful in cement production and road construction. The Minister said, the new container-based system will reduce dust pollution during loading, transport and storage. Mr Vaishnaw also announced a unified licence system under container policy. Mr Vaishnaw said Wagon design can now be done by the industry. He said that any designer or manufacturer can propose a new wagon design. The Minister informed that after evaluating the design, the Research Designs and Standards Organisation (RDSO) will give permission for the prototype. The Minister said this will enable special design wagons for specific industry needs. The Minister also informed that Rail bhoomi portal will be launched to manage the complete process of land acquisition. Mr Vaishnaw said, it will enables online processing of major land acquisition stages. On skill certification framework for railway projects, Mr Vaishnaw said that this system will be implemented across all projects in a maximum of 24 months. He said, when large scale infrastructure creation work is underway in the country, it is important that plumbers, welders, fitters, masons and concrete testers and all other workers are well trained.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T11:36:27+00:00",
-        "link": "https://newsonair.gov.in/railways-to-transport-fertilizers-in-specially-designed-containers-to-enable-non-polluting-storage/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/rail-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "France: President Emmanuel Macron leads Bastille Day celebration in Paris",
-        "summary": "In France, Bastille Day is being celebrated with a strong display of European unity as troops and aircraft from across the continent joined the annual military parade in Paris. France President Emmanuel Macron, celebrating his final Bastille Day in office, hosted around 30 world leaders, including Ukrainian President Volodymyr Zelenskyy, highlighting Europe&#8217;s commitment to […]",
-        "article": "In France, Bastille Day is being celebrated with a strong display of European unity as troops and aircraft from across the continent joined the annual military parade in Paris. France President Emmanuel Macron, celebrating his final Bastille Day in office, hosted around 30 world leaders, including Ukrainian President Volodymyr Zelenskyy, highlighting Europe&#8217;s commitment to collective security. The parade featured Ukrainian soldiers, French-trained Ukrainian fighter pilots, and nearly 6,800 troops, the largest participation in the event&#8217;s history. Military aircraft from several European nations also took part. Bastille Day, observed every year on July 14, commemorates the storming of the Bastille prison in 1789, a landmark event that symbolised the start of the French Revolution. The uprising ultimately led to the fall of the French monarchy and laid the foundations for modern France.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T11:00:14+00:00",
-        "link": "https://newsonair.gov.in/france-president-emmanuel-macron-leads-bastille-day-celebration-in-paris/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/francew.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Labour Minister advises youth to upgrade skills by using latest technology of AI",
-        "summary": "Union Minister for Labour and Employment, Dr. Mansukh Mandaviya, highlighted that artificial intelligence can effectively enhance the skills of youth. Speaking as the chief guest at the BRICS Trade Union Forum Summit in Hyderabad, the Minister advised everyone to use the latest technology responsibly and urged workers to overcome the fear of job losses […]",
-        "article": "Union Minister for Labour and Employment, Dr. Mansukh Mandaviya, highlighted that artificial intelligence can effectively enhance the skills of youth. Speaking as the chief guest at the BRICS Trade Union Forum Summit in Hyderabad, the Minister advised everyone to use the latest technology responsibly and urged workers to overcome the fear of job losses by upgrading their skills accordingly. The Minister noted that artificial intelligence and robotics technology are driving major transformations across the nation. Additionally, he called for strong collaboration between industries and trade unions, acknowledging the invaluable role of workers in national and state development. He also stressed the importance of mutual cooperation among BRICS nations to foster shared growth. To keep pace with technological advancements, the Minister promised that new courses would be introduced through the Skill India Mission. He recalled the success of the e-Shram portal, an initiative designed to bring unorganized sector workers under one umbrella and directly deliver social security benefits to them. Furthermore, Dr. Mandaviya stated that the central government is focusing on Migration and Mobility Agreements to create more international employment opportunities for Indian workers.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T10:36:44+00:00",
-        "link": "https://newsonair.gov.in/union-labour-minister-advises-youth-to-upgrade-skills-by-using-latest-technology-of-ai/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-4.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt reviews foodgrain storage ecosystem to create more efficient, future-ready framework",
-        "summary": "Union Minister for Consumer Affairs, Food and Public Distribution Pralhad Joshi today chaired a review meeting to strengthen the country&#8217;s foodgrain storage ecosystem in New Delhi. In a social media post, Mr. Joshi said the meeting reviewed the proposed Storage Policy and the Private Entrepreneurs Guarantee (PEG) Scheme. He said the discussions focused on addressing […]",
-        "article": "Union Minister for Consumer Affairs, Food and Public Distribution Pralhad Joshi today chaired a review meeting to strengthen the country&#8217;s foodgrain storage ecosystem in New Delhi. In a social media post, Mr. Joshi said the meeting reviewed the proposed Storage Policy and the Private Entrepreneurs Guarantee (PEG) Scheme. He said the discussions focused on addressing emerging challenges in foodgrain management, including regional storage imbalances, surplus stock management, optimisation of storage capacity, and the need to revise storage norms in line with current procurement trends. Mr Joshi said that these reforms are aimed at creating a more efficient, scientific and future-ready storage framework that reinforces India&#8217;s food security.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T10:21:34+00:00",
-        "link": "https://newsonair.gov.in/govt-reviews-foodgrain-storage-ecosystem-to-create-more-efficient-future-ready-framework/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Pralhad.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "breaking": [
       {
-        "title": "India expanding its nuclear power with 24 power reactors and 8.78 Gigawatt capacity",
+        "title": "Supreme Court says Samay Raina violated statements and undertakings given before the court",
+        "summary": "The Supreme Court yesterday slammed comedian Samay Raina and YouTubers Ranveer Allahbadia and Ashish Chanchlani for not complying with its order, observing that they are self-styled youth icons. A bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana passed the order after it was informed that Raina had not invited […]",
+        "article": "The Supreme Court yesterday slammed comedian Samay Raina and YouTubers Ranveer Allahbadia and Ashish Chanchlani for not complying with its order, observing that they are self-styled youth icons. A bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana passed the order after it was informed that Raina had not invited any disabled persons to his show, according to its earlier order. The bench said that they have no reason to doubt that Samay Raina has taken the court for a ride, and he is in brazen violation of statements or undertakings given before the court. The top court was hearing a plea filed by Cure SMA India Foundation alleging that Raina made insensitive remarks over the high cost of treatment for Spinal Muscular Atrophy and also allegedly ridiculed a person with such a disability. The plea flagged jokes made by “India’s Got Latent” host Samay Raina and other social media influencers Vipun Goyal, Balraj Paramjeet Singh Ghai, Sonali Thakkar and Nishant Jagdish Tanwar.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:09:36+00:00",
+        "link": "https://newsonair.gov.in/supreme-court-says-samay-raina-violated-statements-and-undertakings-given-before-the-court/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Samay_raina_%28cropped%29.jpg",
+        "image_credit": "Wikipedia – Samay Raina (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India to Host 12th BRICS Labour and Employment Ministers’ Meeting in Hyderabad",
+        "summary": "India will host the 12th BRICS Labour and Employment Ministers&#8217; Meeting in Hyderabad from today. The two-day meeting will bring together labour and employment ministers and senior officials from BRICS member countries under India&#8217;s BRICS chairship theme, Building for Resilience, Innovation, Cooperation and Sustainability. Union Labour and Employment Minister Dr Mansukh Mandaviya will c",
+        "article": "India will host the 12th BRICS Labour and Employment Ministers&#8217; Meeting in Hyderabad from today. The two-day meeting will bring together labour and employment ministers and senior officials from BRICS member countries under India&#8217;s BRICS chairship theme, Building for Resilience, Innovation, Cooperation and Sustainability. Union Labour and Employment Minister Dr Mansukh Mandaviya will chair the meeting. The ministers will deliberate on four priority areas, including advancing social security and formalisation of labour markets and enhancing women&#8217;s participation and inclusion in the workforce. The meeting will also consider and adopt a draft declaration prepared by the Employment Working Group. It aims to strengthen cooperation among BRICS countries on labour market policies, worker welfare, skills development and inclusive employment, while promoting resilient and sustainable growth in the changing world of work.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:53:13+00:00",
+        "link": "https://newsonair.gov.in/india-to-host-12th-brics-labour-and-employment-ministers-meeting-in-hyderabad/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Downtown_hyderabad_drone.png",
+        "image_credit": "Wikipedia – Hyderabad (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government launches first trial Index of Services Production for formal services sector",
+        "summary": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. […]",
+        "article": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. &nbsp; The Ministry of Statistics and Programme Implementation (MoSPI) described the sub-sectoral ISP as a major milestone in improving the measurement of India’s services sector and strengthening the country’s statistical system. It said the comprehensive overall Index of Services Production will be introduced after evaluating the stability of the trial series and expanding its coverage-the first set of data points to broad-based growth in the services sector. Fourteen of the 19 sub-sectors recorded double-digit growth in April this year compared to the corresponding month last year, while almost all remaining sectors also registered positive growth. The fastest-growing sectors are accommodation and food services with 37.2 per cent and Retail Trade with 30.8 per cent. &nbsp; MoSPI said the data will be available on e- sankhyiki portal as well. On the occasion, Secretary, MoSPI, Dr Saurabh Garg, today said that the launch of the Index marks a significant step in strengthening India&#8217;s statistical system. The Secretary highlighted that the index has been developed entirely using administrative data, including inputs from government ministries and GST records, without imposing any additional compliance burden on industries or businesses. He also explained that the ISP is an output indicator and should not be equated with the Gross Value Added (GVA) used in GDP estimation. Dr Garg said that the Ministry will continue to seek feedback from stakeholders to strengthen the ISP further and enhance the country&#8217;s statistical ecosystem. Meanwhile, Chief Economic Advisor (CEA) Dr V Anantha Nageswaran emphasised that the release of the index should be viewed as a trial series, not a final or perfect index. He said that releasing it publicly reflects the confidence of the Ministry in the method and a willingness to improve it through scrutiny. He further said that the coverage of the index would expand over time, with the addition of sectors such as health services and ownership of dwelling businesses, which will take the coverage to around 85 to 90 per cent of formal services sector contribution in the economy.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:30:09+00:00",
+        "link": "https://newsonair.gov.in/government-launches-first-trial-index-of-services-production-for-formal-services-sector/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government to launch Eighth Tranche of Auction for Critical and Strategic Mineral Blocks",
+        "summary": "Union Minister of Coal and Mines G. Kishan Reddy will launch the Eighth Tranche of Auction of Critical and Strategic Mineral Blocks in New Delhi today. Ministry of Mines has said that it comprises 20 critical and strategic mineral blocks spread across nine states, including 13 newly identified blocks and 7 blocks being offered under […]",
+        "article": "Union Minister of Coal and Mines G. Kishan Reddy will launch the Eighth Tranche of Auction of Critical and Strategic Mineral Blocks in New Delhi today. Ministry of Mines has said that it comprises 20 critical and strategic mineral blocks spread across nine states, including 13 newly identified blocks and 7 blocks being offered under the second attempt. &nbsp; The mineral portfolio includes Molybdenum, Graphite, Glauconite, Rare Earth Elements, Titanium, Tungsten, Potash, Lithium, Caesium, and Rubidium. These minerals are critical for clean energy, advanced manufacturing, fertilisers, defence and other strategic sectors. With seven tranches of auction completed, the Ministry has successfully auctioned 56 out of 88 critical and strategic mineral blocks, achieving a success rate of over 63 percent. &nbsp; The Ministry said the strong industry response across successive auction rounds reflects growing investor confidence in the Government&#8217;s transparent, competitive and market-driven auction framework. The Ministry stated that mineral sector has achieved a historic milestone in financial year 2025-26, with 212 mineral blocks successfully auctioned, the highest in any financial year since the commencement of the auction regime. This included 22 critical and strategic mineral blocks.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:18:10+00:00",
+        "link": "https://newsonair.gov.in/government-to-launch-eighth-tranche-of-auction-for-critical-and-strategic-mineral-blocks/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Sarbananda Sonowal launches ‘Seafarer-First’ initiative to safeguard Indian seafarers in conflict-affected region",
+        "summary": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure",
+        "article": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure their safety and welfare. Chairing a high-level inter-ministerial review meeting in New Delhi, Mr Sonowal ordered real-time vessel-by-vessel monitoring, and the appointment of dedicated liaison officers for every affected Indian seafarer in the region. The Minister also ordered for round-the-clock coordination by the Ministry of Ports, Shipping and Waterways, in association with Ministry of External Affairs, Petroleum and Natural Gas, Chemicals and Fertilisers, the Indian Navy, the Directorate General of Shipping and Indian Missions in Iran and Oman. &nbsp; The Minister directed the Directorate General of Shipping to establish a real-time operational dashboard to track every Indian seafarer aboard vessels operating in the Persian Gulf, the Strait of Hormuz and the Gulf of Oman, irrespective of the vessel&#8217;s flag. He also instructed authorities to coordinate closely with Indian Missions in Iran, Oman and the UAE for real-time information on navigational safety, medical evacuation and repatriation. Mr Sonowal further directed shipowners, vessel managers and recruitment agencies to ensure that no Indian seafarer is compelled to sail without adequate information, protection and support. He said the government remains committed to safeguarding Indian seafarers and ensuring the uninterrupted movement of global trade through the region. &nbsp; The review comes in the wake of attacks on merchant vessels MT Al Bahiyah and MT Mombasa in the Strait of Hormuz. The two vessels had 30 Indian seafarers among a total crew of 46. One Indian seafarer was killed and another injured in the attack on MT Al Bahiyah. On MT Mombasa, nine Indian nationals were injured, including two who remain critically injured. &nbsp; Expressing grief over the loss of the Indian seafarer, Mr Sonowal conveyed his condolences to the bereaved family and wished the injured a speedy recovery. He assured that the Government would extend all possible assistance to affected seafarers and their families.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:14:09+00:00",
+        "link": "https://newsonair.gov.in/union-minister-sarbananda-sonowal-launches-seafarer-first-initiative-to-safeguard-indian-seafarers-in-conflict-affected-region/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Schools students hold peace protest in PoJK, demand international attention",
+        "summary": "Hundreds of schoolchildren in uniforms, accompanied by their teachers and parents, gathered at Rawalakot&#8217;s Eidgah Ground in the Pakistan-occupied Jammu &#38; Kashmir (PoJK), condemning the Pakistani military&#8217;s brutal crackdown in the occupied territory. School-going students turned out in large numbers on Monday, waving white flags as a symbol of peace and carrying banners that […]",
+        "article": "Hundreds of schoolchildren in uniforms, accompanied by their teachers and parents, gathered at Rawalakot&#8217;s Eidgah Ground in the Pakistan-occupied Jammu & Kashmir (PoJK), condemning the Pakistani military&#8217;s brutal crackdown in the occupied territory. School-going students turned out in large numbers on Monday, waving white flags as a symbol of peace and carrying banners that read &#8220;International Media Give Us Coverage&#8221; and raising slogans against the Pakistani Army. These ongoing protests across PoJK have emerged as a direct challenge to Islamabad&#8217;s long-standing control in the region, with Pakistani forces unleashing a brutal crackdown that reportedly left dozens of civilians dead and injured, while the region remains under a strict blockade, curfew, and a total communications blackout. Meanwhile, the United Kashmir People&#8217;s National Party (UKPNP) held a conference bringing together leaders, journalists, and civil society from across the PoJK and the global diaspora to discuss the human rights abuses, ongoing siege, and brutal crackdown on the peaceful civilians by the Pakistani authorities in the occupied territory.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T01:58:52+00:00",
+        "link": "https://newsonair.gov.in/schools-students-hold-peace-protest-in-pojk-demand-international-attention/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India-UK Comprehensive Economic and Trade Agreement Comes into Force today",
+        "summary": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom came into force from today. Simultaneously, the Agreement on Social Security, also referred to as the Double Contribution Convention (DCC), also came into effect, which reinforcing the mobility and competitiveness of Indian professionals in the United Kingdom. The landmark deal grants […]",
+        "article": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom came into force from today. Simultaneously, the Agreement on Social Security, also referred to as the Double Contribution Convention (DCC), also came into effect, which reinforcing the mobility and competitiveness of Indian professionals in the United Kingdom. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership and deliver prosperity for their people. Briefing the media in New Delhi, Commerce Secretary Rajesh Agrawal has described the India-UK Comprehensive Economic and Trade Agreement as a defining milestone in India&#8217;s trade journey, saying it establishes a future-oriented economic partnership between two major economies. Briefing the media in New Delhi yesterday, he said the agreement will mark the beginning of a new phase in bilateral trade and investment relations between India and the United Kingdom. Mr Agrawal said the agreement is among India&#8217;s most comprehensive trade pacts, offering broad sectoral coverage while reducing tariff and non-tariff barriers. Highlighting the Double Contribution Convention (DCC), Mr Agrawal said the arrangement will benefit Indian professionals and their employers by exempting eligible workers on temporary assignments in the UK from paying social security contributions there for the specified period. Our correspondent reports that the implementation of the India-UK CETA and DCC marks a major step in India&#8217;s journey towards becoming a globally integrated, resilient and competitive economy. This agreement has been designed as a people-centric agreement that delivers benefits across society. The simultaneous enforcement of the CETA and the DCC will open up significant new opportunities for India’s exports. Indian exporters will benefit from the complete elimination of UK tariffs across several key sectors. Tariffs of up to 70% on processed food products, over 21% on marine products, around 18% on engineering goods and auto components, up to 16% on leather and footwear products and around 12% on textiles and clothing will be reduced to zero. This will significantly enhance the competitiveness of Indian exports in the UK market, generate new opportunities for farmers, fishermen, MSMEs and manufacturers, and strengthen India&#8217;s integration into global value chains. Under the agreement, India has protected its sensitive sectors, including dairy products, cereals, millets, edible oils, oilseeds, apples and several vegetable products.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T01:03:58+00:00",
+        "link": "https://newsonair.gov.in/india-uk-comprehensive-economic-and-trade-agreement-comes-into-force-today/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, Maldives Conclude First Round of FTA Talks Successfully",
+        "summary": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. The Commerce and Industry Ministry said that both sides made substantive progress across the negotiating tracks and reached broad convergence on […]",
+        "article": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. The Commerce and Industry Ministry said that both sides made substantive progress across the negotiating tracks and reached broad convergence on several issues. India is the second-largest trading partner of the Maldives. Bilateral trade between the two countries stood at over 771 million US dollars in 2025-26, compared to 679 million US dollars in 2024-25, registering a growth of 13.54%. The proposed FTA is expected to further strengthen bilateral economic and trade relations by enhancing market access, facilitating investment, promoting greater economic cooperation and contributing to sustainable economic growth in both countries. The ministry said both sides are working towards a broad-based, balanced and comprehensive agreement guided by the principles of fairness and reciprocity.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:49:02+00:00",
+        "link": "https://newsonair.gov.in/india-maldives-conclude-first-round-of-fta-talks-successfully/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India expands nuclear power programme to strengthen energy security",
         "summary": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural […]",
         "article": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural uranium fuel to run the Pressurised Heavy Water Reactors to produce nuclear energy. The government said that India is steadily expanding its nuclear power programme to strengthen energy security and support clean economic growth. A major outcome of the 3rd India-Australia Annual summit, which was held in Melbourne last week, was the finalisation of the Administrative Arrangement under the India-Australia Civil Nuclear Cooperation Agreement. It enables long-term exports of Australian uranium to India for peaceful purposes. The Australian uranium will ensure a steady supply of the primary fuel to run these nuclear power reactors.",
         "date": "2026-07-15",
         "pubDate": "2026-07-15T00:20:26+00:00",
         "link": "https://newsonair.gov.in/india-expanding-its-nuclear-power-with-24-power-reactors-and-8-78-gigawatt-capacity/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Nuke.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -155,109 +221,109 @@ window.VM_NEWS = {
         "date": "2026-07-14",
         "pubDate": "2026-07-14T15:58:24+00:00",
         "link": "https://newsonair.gov.in/india-strengthens-global-leadership-in-food-standards-at-codex-alimentarius-commission-session/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Codex.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India closely following developments in West Asia, calls for safe navigation through Strait of Hormuz. : MEA",
-        "summary": "New Delhi has said that it is closely following the developments in West Asia. It has again called for safe and unimpeded navigation and the flow of commerce through the Strait of Hormuz. Briefing media in New Delhi this evening, spokesperson of the Ministry of External Affairs Randhir Jaiswal said, this is key for ensuring […]",
-        "article": "New Delhi has said that it is closely following the developments in West Asia. It has again called for safe and unimpeded navigation and the flow of commerce through the Strait of Hormuz. Briefing media in New Delhi this evening, spokesperson of the Ministry of External Affairs Randhir Jaiswal said, this is key for ensuring the economic and energy security of people across the world. He said, the Ministry has issued a statement after summoning the Deputy Chief of Mission of Iran. Mr Jaiswal said, New Delhi conveyed Tehran its deepest concerns and that it strongly condemned what has happened. He said, a precious Indian life has been lost and several Indian nationals have been injured. A couple of them are seriously injured. The Spokesperson said, India conveyed its strongest protest to the Iranian side on this matter, stating that these attacks must stop at the earliest. At the same time, there should be de-escalation, and the two sides should come to the negotiating table and take the path of dialogue and diplomacy so that peace and stability can be ensured in West Asia. On the indictment of Lawrence Bishnoi Gang, the spokesperson said India has consistently maintained that transnational organised crime, terrorism, narco-trafficking, human trafficking, illegal firearms trafficking and related criminal networks pose a serious threat to societies. He added that India and the United States enjoy strong and growing cooperation in combating terrorism as well as transnational organised crime. He said India and US agencies have worked closely together over the years, and this cooperation continues to deepen. Replying to a query on UNCLOs, Mr Jaiswal said India’s position on the South China Sea issue is well known. He emphasised the importance of upholding freedom of navigation and overflight, other lawful uses of the sea, and unimpeded commerce consistent with international law. He re-affirmed that maritime disputes must be resolved peacefully and in accordance with UNCLOS. The spokesperson reiterated that the award rendered ten years ago by the Arbitral Tribunal is a significant milestone and the basis for peacefully resolving disputes between the parties. On Passport, Mr Jaiswal said an Indian passport is a document that is issued by the Government to regulate the departure from India of citizens of India, as per the Passports Act, 1967. It is issued after due verification laid out by an established process. The spokesperson added that the issue of passports to Indian citizens or any other individual is governed by the Passports Act and Passports Rules, 1980. He informed that currently, less than 8 percent of Indian citizens hold a passport. On Nijjar issue in Canada, Mr Jaiswal said, the Ministry has noted the remarks made by Royal Canadian Mounted Police RCMP Deputy Commissioner.He said, these remarks are consistent with the recently unsealed US indictmentwhich attributes responsibility to the members of the Lawrence Bishnoiorganised crime group. India remains committed to working with its partners incombating terrorism and transnational organised crime through close lawenforcement and security cooperation.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T15:30:01+00:00",
-        "link": "https://newsonair.gov.in/india-closely-following-developments-in-west-asia-calls-for-safe-navigation-through-strait-of-hormuz-mea/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/Strait-of-Hormuz-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Audit process in Madhya Pradesh fully digital through DRASHTI",
-        "summary": "The audit process for panchayats in Madhya Pradesh is now going fully digital. The state government has launched the DRASHTI (Digital Remote Auditing System for Transparency &#38; Insights) for this. This is a unique initiative in the country, aimed at fully digital, remote financial audits of panchayats. Through this platform, auditors can view and […]",
-        "article": "The audit process for panchayats in Madhya Pradesh is now going fully digital. The state government has launched the DRASHTI (Digital Remote Auditing System for Transparency & Insights) for this. This is a unique initiative in the country, aimed at fully digital, remote financial audits of panchayats. Through this platform, auditors can view and check the income and expenditure records of any panchayat from their own home or office. The platform is developed by the Directorate of Panchayati Raj, with technical support from NIC, under the guidance of the Comptroller and Auditor General of India. It will make the financial audit of over 23,000 gram panchayats in the state faster, simpler and more transparent. Even with limited staff, all panchayats can now be audited on time. Along with this, a payment gateway has also been launched on the Panchayat Darpan portal. This will allow citizens to pay their bills online.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T15:10:40+00:00",
-        "link": "https://newsonair.gov.in/audit-process-in-madhya-pradesh-fully-digital-through-drashti/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Drishti.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Roadmap planned for development of agriculture based on weather & soil for West Bengal",
-        "summary": "A roadmap for the development of agriculture based on weather and soil is being developed in West Bengal, said Union Minister for Agriculture and Farmers&#8217; Welfare and Rural Development Shivraj Singh Chouhan. The Minister, while attending a meeting at the state secretariat, Nabanna today, said that agriculture universities, research institutes, and the state government […]",
-        "article": "A roadmap for the development of agriculture based on weather and soil is being developed in West Bengal, said Union Minister for Agriculture and Farmers&#8217; Welfare and Rural Development Shivraj Singh Chouhan. The Minister, while attending a meeting at the state secretariat, Nabanna today, said that agriculture universities, research institutes, and the state government of West Bengal are jointly working for the development of the roadmap. Mr Chouhan said that training and research institutes for potato and jute seeds will come up in four places in West Bengal, including Chinsurah and Malda. He credited the state government for its excellent work in the creation of digital identity cards for the farmers and for the successful implementation of various central schemes, including PM Fasal Bima Yojana. West Bengal Chief Minister Suvendu Adhikari, state Agriculture Minister Dudh Kumar Mondal, state Panchayat Minister Dilip Ghosh, and other dignitaries and officials were present at the meeting.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T13:15:01+00:00",
-        "link": "https://newsonair.gov.in/roadmap-planned-for-development-of-agriculture-based-on-weather-soil-for-west-bengal/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/west-bengal-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "FTA between India and Maldives expected to enhance market access and investment",
-        "summary": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. Commerce and Industry Ministry said, both sides made substantive progress across the negotiating tracks and reached broad convergence on several […]",
-        "article": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. Commerce and Industry Ministry said, both sides made substantive progress across the negotiating tracks and reached broad convergence on several issues. India is the second-largest trading partner of the Maldives. Bilateral trade between the two countries stood at over 771 million US dollar in 2025-26, compared to 679 million US dollar in 2024-25, registering a growth of 13.54 per cent. The proposed FTA is expected to further strengthen bilateral economic and trade relations by enhancing market access, facilitating investment, promoting greater economic cooperation and contributing to sustainable economic growth in both countries. The Ministry said, both sides are working towards a broad-based, balanced and comprehensive agreement guided by the principles of fairness and reciprocity.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T12:36:20+00:00",
-        "link": "https://newsonair.gov.in/fta-between-india-and-maldives-expected-to-enhance-market-access-and-investment/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/India-maldives.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Railways to transport fertilizers in specially designed containers to enable non-polluting storage",
-        "summary": "Railways Minister Ashwini Vaishnaw has announced a major policy reform that allows fertilizers to be transported in specially designed containers instead of traditional covered box wagons. Briefing media in New Delhi today on the reforms aimed at modernizing Indian Railways, Mr Vaishnaw said, Railways account for 85 per cent share in transportation of fertilisers. […]",
-        "article": "Railways Minister Ashwini Vaishnaw has announced a major policy reform that allows fertilizers to be transported in specially designed containers instead of traditional covered box wagons. Briefing media in New Delhi today on the reforms aimed at modernizing Indian Railways, Mr Vaishnaw said, Railways account for 85 per cent share in transportation of fertilisers. He said, container handling is easier and enables non-polluting storage. Mr Vaishnaw added that individual container can be stored at the rake point, instead of detaining the entire rake. The minister said Prime Minister Narendra Modi has continuously encouraged to bring reforms in the Railways. Mr Vaishnaw announced a major reform in fly ash transportation, shifting movement from open railway wagons to specially designed containers. He highlighted that India generates nearly 340 million tonnes of fly ash annually, which is highly useful in cement production and road construction. The Minister said, the new container-based system will reduce dust pollution during loading, transport and storage. Mr Vaishnaw also announced a unified licence system under container policy. Mr Vaishnaw said Wagon design can now be done by the industry. He said that any designer or manufacturer can propose a new wagon design. The Minister informed that after evaluating the design, the Research Designs and Standards Organisation (RDSO) will give permission for the prototype. The Minister said this will enable special design wagons for specific industry needs. The Minister also informed that Rail bhoomi portal will be launched to manage the complete process of land acquisition. Mr Vaishnaw said, it will enables online processing of major land acquisition stages. On skill certification framework for railway projects, Mr Vaishnaw said that this system will be implemented across all projects in a maximum of 24 months. He said, when large scale infrastructure creation work is underway in the country, it is important that plumbers, welders, fitters, masons and concrete testers and all other workers are well trained.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T11:36:27+00:00",
-        "link": "https://newsonair.gov.in/railways-to-transport-fertilizers-in-specially-designed-containers-to-enable-non-polluting-storage/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/rail-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Labour Minister advises youth to upgrade skills by using latest technology of AI",
-        "summary": "Union Minister for Labour and Employment, Dr. Mansukh Mandaviya, highlighted that artificial intelligence can effectively enhance the skills of youth. Speaking as the chief guest at the BRICS Trade Union Forum Summit in Hyderabad, the Minister advised everyone to use the latest technology responsibly and urged workers to overcome the fear of job losses […]",
-        "article": "Union Minister for Labour and Employment, Dr. Mansukh Mandaviya, highlighted that artificial intelligence can effectively enhance the skills of youth. Speaking as the chief guest at the BRICS Trade Union Forum Summit in Hyderabad, the Minister advised everyone to use the latest technology responsibly and urged workers to overcome the fear of job losses by upgrading their skills accordingly. The Minister noted that artificial intelligence and robotics technology are driving major transformations across the nation. Additionally, he called for strong collaboration between industries and trade unions, acknowledging the invaluable role of workers in national and state development. He also stressed the importance of mutual cooperation among BRICS nations to foster shared growth. To keep pace with technological advancements, the Minister promised that new courses would be introduced through the Skill India Mission. He recalled the success of the e-Shram portal, an initiative designed to bring unorganized sector workers under one umbrella and directly deliver social security benefits to them. Furthermore, Dr. Mandaviya stated that the central government is focusing on Migration and Mobility Agreements to create more international employment opportunities for Indian workers.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T10:36:44+00:00",
-        "link": "https://newsonair.gov.in/union-labour-minister-advises-youth-to-upgrade-skills-by-using-latest-technology-of-ai/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-4.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt reviews foodgrain storage ecosystem to create more efficient, future-ready framework",
-        "summary": "Union Minister for Consumer Affairs, Food and Public Distribution Pralhad Joshi today chaired a review meeting to strengthen the country&#8217;s foodgrain storage ecosystem in New Delhi. In a social media post, Mr. Joshi said the meeting reviewed the proposed Storage Policy and the Private Entrepreneurs Guarantee (PEG) Scheme. He said the discussions focused on addressing […]",
-        "article": "Union Minister for Consumer Affairs, Food and Public Distribution Pralhad Joshi today chaired a review meeting to strengthen the country&#8217;s foodgrain storage ecosystem in New Delhi. In a social media post, Mr. Joshi said the meeting reviewed the proposed Storage Policy and the Private Entrepreneurs Guarantee (PEG) Scheme. He said the discussions focused on addressing emerging challenges in foodgrain management, including regional storage imbalances, surplus stock management, optimisation of storage capacity, and the need to revise storage norms in line with current procurement trends. Mr Joshi said that these reforms are aimed at creating a more efficient, scientific and future-ready storage framework that reinforces India&#8217;s food security.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T10:21:34+00:00",
-        "link": "https://newsonair.gov.in/govt-reviews-foodgrain-storage-ecosystem-to-create-more-efficient-future-ready-framework/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Pralhad.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "SC declines to restore status quo ante at Bhojshala in Madhya Pradesh",
-        "summary": "The Supreme Court today agreed to hear the Bhojshala dispute on a day-to-day basis to resolve the issue. However, the bench comprising Chief Justice of India Surya Kant, Justice Joymalya Bagchi and Justice V Mohana declined the petitioners&#8217; request for an interim order restoring the status quo ante, under which Muslims were permitted to […]",
-        "article": "The Supreme Court today agreed to hear the Bhojshala dispute on a day-to-day basis to resolve the issue. However, the bench comprising Chief Justice of India Surya Kant, Justice Joymalya Bagchi and Justice V Mohana declined the petitioners&#8217; request for an interim order restoring the status quo ante, under which Muslims were permitted to offer namaz on Fridays alongside Hindu worship on designated days. The bench directed the state to make available a separate open space, adjacent to the subject site, for offering namaz on Fridays between 1 PM and 3 PM. The bench clarified that this arrangement is ad-hoc in nature, subject to the final outcome of the matter. The bench urged both sides to exercise patience, describing the matter as highly sensitive. The top court was hearing a batch of appeals challenging a Madhya Pradesh High Court order, which said the disputed Bhojshala complex in Dhar district was a temple dedicated to Goddess Saraswati and prohibited the offering of Namaz there.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T10:13:59+00:00",
-        "link": "https://newsonair.gov.in/sc-declines-to-restore-status-quo-ante-at-bhojshala-in-madhya-pradesh/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/supreme-court-4.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
-        "title": "India expanding its nuclear power with 24 power reactors and 8.78 Gigawatt capacity",
+        "title": "Supreme Court says Samay Raina violated statements and undertakings given before the court",
+        "summary": "The Supreme Court yesterday slammed comedian Samay Raina and YouTubers Ranveer Allahbadia and Ashish Chanchlani for not complying with its order, observing that they are self-styled youth icons. A bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana passed the order after it was informed that Raina had not invited […]",
+        "article": "The Supreme Court yesterday slammed comedian Samay Raina and YouTubers Ranveer Allahbadia and Ashish Chanchlani for not complying with its order, observing that they are self-styled youth icons. A bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana passed the order after it was informed that Raina had not invited any disabled persons to his show, according to its earlier order. The bench said that they have no reason to doubt that Samay Raina has taken the court for a ride, and he is in brazen violation of statements or undertakings given before the court. The top court was hearing a plea filed by Cure SMA India Foundation alleging that Raina made insensitive remarks over the high cost of treatment for Spinal Muscular Atrophy and also allegedly ridiculed a person with such a disability. The plea flagged jokes made by “India’s Got Latent” host Samay Raina and other social media influencers Vipun Goyal, Balraj Paramjeet Singh Ghai, Sonali Thakkar and Nishant Jagdish Tanwar.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:09:36+00:00",
+        "link": "https://newsonair.gov.in/supreme-court-says-samay-raina-violated-statements-and-undertakings-given-before-the-court/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Samay_raina_%28cropped%29.jpg",
+        "image_credit": "Wikipedia – Samay Raina (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India to Host 12th BRICS Labour and Employment Ministers’ Meeting in Hyderabad",
+        "summary": "India will host the 12th BRICS Labour and Employment Ministers&#8217; Meeting in Hyderabad from today. The two-day meeting will bring together labour and employment ministers and senior officials from BRICS member countries under India&#8217;s BRICS chairship theme, Building for Resilience, Innovation, Cooperation and Sustainability. Union Labour and Employment Minister Dr Mansukh Mandaviya will c",
+        "article": "India will host the 12th BRICS Labour and Employment Ministers&#8217; Meeting in Hyderabad from today. The two-day meeting will bring together labour and employment ministers and senior officials from BRICS member countries under India&#8217;s BRICS chairship theme, Building for Resilience, Innovation, Cooperation and Sustainability. Union Labour and Employment Minister Dr Mansukh Mandaviya will chair the meeting. The ministers will deliberate on four priority areas, including advancing social security and formalisation of labour markets and enhancing women&#8217;s participation and inclusion in the workforce. The meeting will also consider and adopt a draft declaration prepared by the Employment Working Group. It aims to strengthen cooperation among BRICS countries on labour market policies, worker welfare, skills development and inclusive employment, while promoting resilient and sustainable growth in the changing world of work.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:53:13+00:00",
+        "link": "https://newsonair.gov.in/india-to-host-12th-brics-labour-and-employment-ministers-meeting-in-hyderabad/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Downtown_hyderabad_drone.png",
+        "image_credit": "Wikipedia – Hyderabad (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government launches first trial Index of Services Production for formal services sector",
+        "summary": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. […]",
+        "article": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. &nbsp; The Ministry of Statistics and Programme Implementation (MoSPI) described the sub-sectoral ISP as a major milestone in improving the measurement of India’s services sector and strengthening the country’s statistical system. It said the comprehensive overall Index of Services Production will be introduced after evaluating the stability of the trial series and expanding its coverage-the first set of data points to broad-based growth in the services sector. Fourteen of the 19 sub-sectors recorded double-digit growth in April this year compared to the corresponding month last year, while almost all remaining sectors also registered positive growth. The fastest-growing sectors are accommodation and food services with 37.2 per cent and Retail Trade with 30.8 per cent. &nbsp; MoSPI said the data will be available on e- sankhyiki portal as well. On the occasion, Secretary, MoSPI, Dr Saurabh Garg, today said that the launch of the Index marks a significant step in strengthening India&#8217;s statistical system. The Secretary highlighted that the index has been developed entirely using administrative data, including inputs from government ministries and GST records, without imposing any additional compliance burden on industries or businesses. He also explained that the ISP is an output indicator and should not be equated with the Gross Value Added (GVA) used in GDP estimation. Dr Garg said that the Ministry will continue to seek feedback from stakeholders to strengthen the ISP further and enhance the country&#8217;s statistical ecosystem. Meanwhile, Chief Economic Advisor (CEA) Dr V Anantha Nageswaran emphasised that the release of the index should be viewed as a trial series, not a final or perfect index. He said that releasing it publicly reflects the confidence of the Ministry in the method and a willingness to improve it through scrutiny. He further said that the coverage of the index would expand over time, with the addition of sectors such as health services and ownership of dwelling businesses, which will take the coverage to around 85 to 90 per cent of formal services sector contribution in the economy.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:30:09+00:00",
+        "link": "https://newsonair.gov.in/government-launches-first-trial-index-of-services-production-for-formal-services-sector/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government to launch Eighth Tranche of Auction for Critical and Strategic Mineral Blocks",
+        "summary": "Union Minister of Coal and Mines G. Kishan Reddy will launch the Eighth Tranche of Auction of Critical and Strategic Mineral Blocks in New Delhi today. Ministry of Mines has said that it comprises 20 critical and strategic mineral blocks spread across nine states, including 13 newly identified blocks and 7 blocks being offered under […]",
+        "article": "Union Minister of Coal and Mines G. Kishan Reddy will launch the Eighth Tranche of Auction of Critical and Strategic Mineral Blocks in New Delhi today. Ministry of Mines has said that it comprises 20 critical and strategic mineral blocks spread across nine states, including 13 newly identified blocks and 7 blocks being offered under the second attempt. &nbsp; The mineral portfolio includes Molybdenum, Graphite, Glauconite, Rare Earth Elements, Titanium, Tungsten, Potash, Lithium, Caesium, and Rubidium. These minerals are critical for clean energy, advanced manufacturing, fertilisers, defence and other strategic sectors. With seven tranches of auction completed, the Ministry has successfully auctioned 56 out of 88 critical and strategic mineral blocks, achieving a success rate of over 63 percent. &nbsp; The Ministry said the strong industry response across successive auction rounds reflects growing investor confidence in the Government&#8217;s transparent, competitive and market-driven auction framework. The Ministry stated that mineral sector has achieved a historic milestone in financial year 2025-26, with 212 mineral blocks successfully auctioned, the highest in any financial year since the commencement of the auction regime. This included 22 critical and strategic mineral blocks.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:18:10+00:00",
+        "link": "https://newsonair.gov.in/government-to-launch-eighth-tranche-of-auction-for-critical-and-strategic-mineral-blocks/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Sarbananda Sonowal launches ‘Seafarer-First’ initiative to safeguard Indian seafarers in conflict-affected region",
+        "summary": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure",
+        "article": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure their safety and welfare. Chairing a high-level inter-ministerial review meeting in New Delhi, Mr Sonowal ordered real-time vessel-by-vessel monitoring, and the appointment of dedicated liaison officers for every affected Indian seafarer in the region. The Minister also ordered for round-the-clock coordination by the Ministry of Ports, Shipping and Waterways, in association with Ministry of External Affairs, Petroleum and Natural Gas, Chemicals and Fertilisers, the Indian Navy, the Directorate General of Shipping and Indian Missions in Iran and Oman. &nbsp; The Minister directed the Directorate General of Shipping to establish a real-time operational dashboard to track every Indian seafarer aboard vessels operating in the Persian Gulf, the Strait of Hormuz and the Gulf of Oman, irrespective of the vessel&#8217;s flag. He also instructed authorities to coordinate closely with Indian Missions in Iran, Oman and the UAE for real-time information on navigational safety, medical evacuation and repatriation. Mr Sonowal further directed shipowners, vessel managers and recruitment agencies to ensure that no Indian seafarer is compelled to sail without adequate information, protection and support. He said the government remains committed to safeguarding Indian seafarers and ensuring the uninterrupted movement of global trade through the region. &nbsp; The review comes in the wake of attacks on merchant vessels MT Al Bahiyah and MT Mombasa in the Strait of Hormuz. The two vessels had 30 Indian seafarers among a total crew of 46. One Indian seafarer was killed and another injured in the attack on MT Al Bahiyah. On MT Mombasa, nine Indian nationals were injured, including two who remain critically injured. &nbsp; Expressing grief over the loss of the Indian seafarer, Mr Sonowal conveyed his condolences to the bereaved family and wished the injured a speedy recovery. He assured that the Government would extend all possible assistance to affected seafarers and their families.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:14:09+00:00",
+        "link": "https://newsonair.gov.in/union-minister-sarbananda-sonowal-launches-seafarer-first-initiative-to-safeguard-indian-seafarers-in-conflict-affected-region/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Schools students hold peace protest in PoJK, demand international attention",
+        "summary": "Hundreds of schoolchildren in uniforms, accompanied by their teachers and parents, gathered at Rawalakot&#8217;s Eidgah Ground in the Pakistan-occupied Jammu &#38; Kashmir (PoJK), condemning the Pakistani military&#8217;s brutal crackdown in the occupied territory. School-going students turned out in large numbers on Monday, waving white flags as a symbol of peace and carrying banners that […]",
+        "article": "Hundreds of schoolchildren in uniforms, accompanied by their teachers and parents, gathered at Rawalakot&#8217;s Eidgah Ground in the Pakistan-occupied Jammu & Kashmir (PoJK), condemning the Pakistani military&#8217;s brutal crackdown in the occupied territory. School-going students turned out in large numbers on Monday, waving white flags as a symbol of peace and carrying banners that read &#8220;International Media Give Us Coverage&#8221; and raising slogans against the Pakistani Army. These ongoing protests across PoJK have emerged as a direct challenge to Islamabad&#8217;s long-standing control in the region, with Pakistani forces unleashing a brutal crackdown that reportedly left dozens of civilians dead and injured, while the region remains under a strict blockade, curfew, and a total communications blackout. Meanwhile, the United Kashmir People&#8217;s National Party (UKPNP) held a conference bringing together leaders, journalists, and civil society from across the PoJK and the global diaspora to discuss the human rights abuses, ongoing siege, and brutal crackdown on the peaceful civilians by the Pakistani authorities in the occupied territory.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T01:58:52+00:00",
+        "link": "https://newsonair.gov.in/schools-students-hold-peace-protest-in-pojk-demand-international-attention/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India-UK Comprehensive Economic and Trade Agreement Comes into Force today",
+        "summary": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom came into force from today. Simultaneously, the Agreement on Social Security, also referred to as the Double Contribution Convention (DCC), also came into effect, which reinforcing the mobility and competitiveness of Indian professionals in the United Kingdom. The landmark deal grants […]",
+        "article": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom came into force from today. Simultaneously, the Agreement on Social Security, also referred to as the Double Contribution Convention (DCC), also came into effect, which reinforcing the mobility and competitiveness of Indian professionals in the United Kingdom. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership and deliver prosperity for their people. Briefing the media in New Delhi, Commerce Secretary Rajesh Agrawal has described the India-UK Comprehensive Economic and Trade Agreement as a defining milestone in India&#8217;s trade journey, saying it establishes a future-oriented economic partnership between two major economies. Briefing the media in New Delhi yesterday, he said the agreement will mark the beginning of a new phase in bilateral trade and investment relations between India and the United Kingdom. Mr Agrawal said the agreement is among India&#8217;s most comprehensive trade pacts, offering broad sectoral coverage while reducing tariff and non-tariff barriers. Highlighting the Double Contribution Convention (DCC), Mr Agrawal said the arrangement will benefit Indian professionals and their employers by exempting eligible workers on temporary assignments in the UK from paying social security contributions there for the specified period. Our correspondent reports that the implementation of the India-UK CETA and DCC marks a major step in India&#8217;s journey towards becoming a globally integrated, resilient and competitive economy. This agreement has been designed as a people-centric agreement that delivers benefits across society. The simultaneous enforcement of the CETA and the DCC will open up significant new opportunities for India’s exports. Indian exporters will benefit from the complete elimination of UK tariffs across several key sectors. Tariffs of up to 70% on processed food products, over 21% on marine products, around 18% on engineering goods and auto components, up to 16% on leather and footwear products and around 12% on textiles and clothing will be reduced to zero. This will significantly enhance the competitiveness of Indian exports in the UK market, generate new opportunities for farmers, fishermen, MSMEs and manufacturers, and strengthen India&#8217;s integration into global value chains. Under the agreement, India has protected its sensitive sectors, including dairy products, cereals, millets, edible oils, oilseeds, apples and several vegetable products.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T01:03:58+00:00",
+        "link": "https://newsonair.gov.in/india-uk-comprehensive-economic-and-trade-agreement-comes-into-force-today/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, Maldives Conclude First Round of FTA Talks Successfully",
+        "summary": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. The Commerce and Industry Ministry said that both sides made substantive progress across the negotiating tracks and reached broad convergence on […]",
+        "article": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. The Commerce and Industry Ministry said that both sides made substantive progress across the negotiating tracks and reached broad convergence on several issues. India is the second-largest trading partner of the Maldives. Bilateral trade between the two countries stood at over 771 million US dollars in 2025-26, compared to 679 million US dollars in 2024-25, registering a growth of 13.54%. The proposed FTA is expected to further strengthen bilateral economic and trade relations by enhancing market access, facilitating investment, promoting greater economic cooperation and contributing to sustainable economic growth in both countries. The ministry said both sides are working towards a broad-based, balanced and comprehensive agreement guided by the principles of fairness and reciprocity.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:49:02+00:00",
+        "link": "https://newsonair.gov.in/india-maldives-conclude-first-round-of-fta-talks-successfully/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India expands nuclear power programme to strengthen energy security",
         "summary": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural […]",
         "article": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural uranium fuel to run the Pressurised Heavy Water Reactors to produce nuclear energy. The government said that India is steadily expanding its nuclear power programme to strengthen energy security and support clean economic growth. A major outcome of the 3rd India-Australia Annual summit, which was held in Melbourne last week, was the finalisation of the Administrative Arrangement under the India-Australia Civil Nuclear Cooperation Agreement. It enables long-term exports of Australian uranium to India for peaceful purposes. The Australian uranium will ensure a steady supply of the primary fuel to run these nuclear power reactors.",
         "date": "2026-07-15",
         "pubDate": "2026-07-15T00:20:26+00:00",
         "link": "https://newsonair.gov.in/india-expanding-its-nuclear-power-with-24-power-reactors-and-8-78-gigawatt-capacity/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Nuke.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -267,109 +333,109 @@ window.VM_NEWS = {
         "date": "2026-07-14",
         "pubDate": "2026-07-14T15:58:24+00:00",
         "link": "https://newsonair.gov.in/india-strengthens-global-leadership-in-food-standards-at-codex-alimentarius-commission-session/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Codex.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India closely following developments in West Asia, calls for safe navigation through Strait of Hormuz. : MEA",
-        "summary": "New Delhi has said that it is closely following the developments in West Asia. It has again called for safe and unimpeded navigation and the flow of commerce through the Strait of Hormuz. Briefing media in New Delhi this evening, spokesperson of the Ministry of External Affairs Randhir Jaiswal said, this is key for ensuring […]",
-        "article": "New Delhi has said that it is closely following the developments in West Asia. It has again called for safe and unimpeded navigation and the flow of commerce through the Strait of Hormuz. Briefing media in New Delhi this evening, spokesperson of the Ministry of External Affairs Randhir Jaiswal said, this is key for ensuring the economic and energy security of people across the world. He said, the Ministry has issued a statement after summoning the Deputy Chief of Mission of Iran. Mr Jaiswal said, New Delhi conveyed Tehran its deepest concerns and that it strongly condemned what has happened. He said, a precious Indian life has been lost and several Indian nationals have been injured. A couple of them are seriously injured. The Spokesperson said, India conveyed its strongest protest to the Iranian side on this matter, stating that these attacks must stop at the earliest. At the same time, there should be de-escalation, and the two sides should come to the negotiating table and take the path of dialogue and diplomacy so that peace and stability can be ensured in West Asia. On the indictment of Lawrence Bishnoi Gang, the spokesperson said India has consistently maintained that transnational organised crime, terrorism, narco-trafficking, human trafficking, illegal firearms trafficking and related criminal networks pose a serious threat to societies. He added that India and the United States enjoy strong and growing cooperation in combating terrorism as well as transnational organised crime. He said India and US agencies have worked closely together over the years, and this cooperation continues to deepen. Replying to a query on UNCLOs, Mr Jaiswal said India’s position on the South China Sea issue is well known. He emphasised the importance of upholding freedom of navigation and overflight, other lawful uses of the sea, and unimpeded commerce consistent with international law. He re-affirmed that maritime disputes must be resolved peacefully and in accordance with UNCLOS. The spokesperson reiterated that the award rendered ten years ago by the Arbitral Tribunal is a significant milestone and the basis for peacefully resolving disputes between the parties. On Passport, Mr Jaiswal said an Indian passport is a document that is issued by the Government to regulate the departure from India of citizens of India, as per the Passports Act, 1967. It is issued after due verification laid out by an established process. The spokesperson added that the issue of passports to Indian citizens or any other individual is governed by the Passports Act and Passports Rules, 1980. He informed that currently, less than 8 percent of Indian citizens hold a passport. On Nijjar issue in Canada, Mr Jaiswal said, the Ministry has noted the remarks made by Royal Canadian Mounted Police RCMP Deputy Commissioner.He said, these remarks are consistent with the recently unsealed US indictmentwhich attributes responsibility to the members of the Lawrence Bishnoiorganised crime group. India remains committed to working with its partners incombating terrorism and transnational organised crime through close lawenforcement and security cooperation.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T15:30:01+00:00",
-        "link": "https://newsonair.gov.in/india-closely-following-developments-in-west-asia-calls-for-safe-navigation-through-strait-of-hormuz-mea/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/Strait-of-Hormuz-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Audit process in Madhya Pradesh fully digital through DRASHTI",
-        "summary": "The audit process for panchayats in Madhya Pradesh is now going fully digital. The state government has launched the DRASHTI (Digital Remote Auditing System for Transparency &#38; Insights) for this. This is a unique initiative in the country, aimed at fully digital, remote financial audits of panchayats. Through this platform, auditors can view and […]",
-        "article": "The audit process for panchayats in Madhya Pradesh is now going fully digital. The state government has launched the DRASHTI (Digital Remote Auditing System for Transparency & Insights) for this. This is a unique initiative in the country, aimed at fully digital, remote financial audits of panchayats. Through this platform, auditors can view and check the income and expenditure records of any panchayat from their own home or office. The platform is developed by the Directorate of Panchayati Raj, with technical support from NIC, under the guidance of the Comptroller and Auditor General of India. It will make the financial audit of over 23,000 gram panchayats in the state faster, simpler and more transparent. Even with limited staff, all panchayats can now be audited on time. Along with this, a payment gateway has also been launched on the Panchayat Darpan portal. This will allow citizens to pay their bills online.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T15:10:40+00:00",
-        "link": "https://newsonair.gov.in/audit-process-in-madhya-pradesh-fully-digital-through-drashti/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Drishti.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Roadmap planned for development of agriculture based on weather & soil for West Bengal",
-        "summary": "A roadmap for the development of agriculture based on weather and soil is being developed in West Bengal, said Union Minister for Agriculture and Farmers&#8217; Welfare and Rural Development Shivraj Singh Chouhan. The Minister, while attending a meeting at the state secretariat, Nabanna today, said that agriculture universities, research institutes, and the state government […]",
-        "article": "A roadmap for the development of agriculture based on weather and soil is being developed in West Bengal, said Union Minister for Agriculture and Farmers&#8217; Welfare and Rural Development Shivraj Singh Chouhan. The Minister, while attending a meeting at the state secretariat, Nabanna today, said that agriculture universities, research institutes, and the state government of West Bengal are jointly working for the development of the roadmap. Mr Chouhan said that training and research institutes for potato and jute seeds will come up in four places in West Bengal, including Chinsurah and Malda. He credited the state government for its excellent work in the creation of digital identity cards for the farmers and for the successful implementation of various central schemes, including PM Fasal Bima Yojana. West Bengal Chief Minister Suvendu Adhikari, state Agriculture Minister Dudh Kumar Mondal, state Panchayat Minister Dilip Ghosh, and other dignitaries and officials were present at the meeting.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T13:15:01+00:00",
-        "link": "https://newsonair.gov.in/roadmap-planned-for-development-of-agriculture-based-on-weather-soil-for-west-bengal/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/west-bengal-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "FTA between India and Maldives expected to enhance market access and investment",
-        "summary": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. Commerce and Industry Ministry said, both sides made substantive progress across the negotiating tracks and reached broad convergence on several […]",
-        "article": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. Commerce and Industry Ministry said, both sides made substantive progress across the negotiating tracks and reached broad convergence on several issues. India is the second-largest trading partner of the Maldives. Bilateral trade between the two countries stood at over 771 million US dollar in 2025-26, compared to 679 million US dollar in 2024-25, registering a growth of 13.54 per cent. The proposed FTA is expected to further strengthen bilateral economic and trade relations by enhancing market access, facilitating investment, promoting greater economic cooperation and contributing to sustainable economic growth in both countries. The Ministry said, both sides are working towards a broad-based, balanced and comprehensive agreement guided by the principles of fairness and reciprocity.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T12:36:20+00:00",
-        "link": "https://newsonair.gov.in/fta-between-india-and-maldives-expected-to-enhance-market-access-and-investment/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/India-maldives.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Railways to transport fertilizers in specially designed containers to enable non-polluting storage",
-        "summary": "Railways Minister Ashwini Vaishnaw has announced a major policy reform that allows fertilizers to be transported in specially designed containers instead of traditional covered box wagons. Briefing media in New Delhi today on the reforms aimed at modernizing Indian Railways, Mr Vaishnaw said, Railways account for 85 per cent share in transportation of fertilisers. […]",
-        "article": "Railways Minister Ashwini Vaishnaw has announced a major policy reform that allows fertilizers to be transported in specially designed containers instead of traditional covered box wagons. Briefing media in New Delhi today on the reforms aimed at modernizing Indian Railways, Mr Vaishnaw said, Railways account for 85 per cent share in transportation of fertilisers. He said, container handling is easier and enables non-polluting storage. Mr Vaishnaw added that individual container can be stored at the rake point, instead of detaining the entire rake. The minister said Prime Minister Narendra Modi has continuously encouraged to bring reforms in the Railways. Mr Vaishnaw announced a major reform in fly ash transportation, shifting movement from open railway wagons to specially designed containers. He highlighted that India generates nearly 340 million tonnes of fly ash annually, which is highly useful in cement production and road construction. The Minister said, the new container-based system will reduce dust pollution during loading, transport and storage. Mr Vaishnaw also announced a unified licence system under container policy. Mr Vaishnaw said Wagon design can now be done by the industry. He said that any designer or manufacturer can propose a new wagon design. The Minister informed that after evaluating the design, the Research Designs and Standards Organisation (RDSO) will give permission for the prototype. The Minister said this will enable special design wagons for specific industry needs. The Minister also informed that Rail bhoomi portal will be launched to manage the complete process of land acquisition. Mr Vaishnaw said, it will enables online processing of major land acquisition stages. On skill certification framework for railway projects, Mr Vaishnaw said that this system will be implemented across all projects in a maximum of 24 months. He said, when large scale infrastructure creation work is underway in the country, it is important that plumbers, welders, fitters, masons and concrete testers and all other workers are well trained.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T11:36:27+00:00",
-        "link": "https://newsonair.gov.in/railways-to-transport-fertilizers-in-specially-designed-containers-to-enable-non-polluting-storage/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/rail-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Labour Minister advises youth to upgrade skills by using latest technology of AI",
-        "summary": "Union Minister for Labour and Employment, Dr. Mansukh Mandaviya, highlighted that artificial intelligence can effectively enhance the skills of youth. Speaking as the chief guest at the BRICS Trade Union Forum Summit in Hyderabad, the Minister advised everyone to use the latest technology responsibly and urged workers to overcome the fear of job losses […]",
-        "article": "Union Minister for Labour and Employment, Dr. Mansukh Mandaviya, highlighted that artificial intelligence can effectively enhance the skills of youth. Speaking as the chief guest at the BRICS Trade Union Forum Summit in Hyderabad, the Minister advised everyone to use the latest technology responsibly and urged workers to overcome the fear of job losses by upgrading their skills accordingly. The Minister noted that artificial intelligence and robotics technology are driving major transformations across the nation. Additionally, he called for strong collaboration between industries and trade unions, acknowledging the invaluable role of workers in national and state development. He also stressed the importance of mutual cooperation among BRICS nations to foster shared growth. To keep pace with technological advancements, the Minister promised that new courses would be introduced through the Skill India Mission. He recalled the success of the e-Shram portal, an initiative designed to bring unorganized sector workers under one umbrella and directly deliver social security benefits to them. Furthermore, Dr. Mandaviya stated that the central government is focusing on Migration and Mobility Agreements to create more international employment opportunities for Indian workers.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T10:36:44+00:00",
-        "link": "https://newsonair.gov.in/union-labour-minister-advises-youth-to-upgrade-skills-by-using-latest-technology-of-ai/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-4.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt reviews foodgrain storage ecosystem to create more efficient, future-ready framework",
-        "summary": "Union Minister for Consumer Affairs, Food and Public Distribution Pralhad Joshi today chaired a review meeting to strengthen the country&#8217;s foodgrain storage ecosystem in New Delhi. In a social media post, Mr. Joshi said the meeting reviewed the proposed Storage Policy and the Private Entrepreneurs Guarantee (PEG) Scheme. He said the discussions focused on addressing […]",
-        "article": "Union Minister for Consumer Affairs, Food and Public Distribution Pralhad Joshi today chaired a review meeting to strengthen the country&#8217;s foodgrain storage ecosystem in New Delhi. In a social media post, Mr. Joshi said the meeting reviewed the proposed Storage Policy and the Private Entrepreneurs Guarantee (PEG) Scheme. He said the discussions focused on addressing emerging challenges in foodgrain management, including regional storage imbalances, surplus stock management, optimisation of storage capacity, and the need to revise storage norms in line with current procurement trends. Mr Joshi said that these reforms are aimed at creating a more efficient, scientific and future-ready storage framework that reinforces India&#8217;s food security.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T10:21:34+00:00",
-        "link": "https://newsonair.gov.in/govt-reviews-foodgrain-storage-ecosystem-to-create-more-efficient-future-ready-framework/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Pralhad.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "SC declines to restore status quo ante at Bhojshala in Madhya Pradesh",
-        "summary": "The Supreme Court today agreed to hear the Bhojshala dispute on a day-to-day basis to resolve the issue. However, the bench comprising Chief Justice of India Surya Kant, Justice Joymalya Bagchi and Justice V Mohana declined the petitioners&#8217; request for an interim order restoring the status quo ante, under which Muslims were permitted to […]",
-        "article": "The Supreme Court today agreed to hear the Bhojshala dispute on a day-to-day basis to resolve the issue. However, the bench comprising Chief Justice of India Surya Kant, Justice Joymalya Bagchi and Justice V Mohana declined the petitioners&#8217; request for an interim order restoring the status quo ante, under which Muslims were permitted to offer namaz on Fridays alongside Hindu worship on designated days. The bench directed the state to make available a separate open space, adjacent to the subject site, for offering namaz on Fridays between 1 PM and 3 PM. The bench clarified that this arrangement is ad-hoc in nature, subject to the final outcome of the matter. The bench urged both sides to exercise patience, describing the matter as highly sensitive. The top court was hearing a batch of appeals challenging a Madhya Pradesh High Court order, which said the disputed Bhojshala complex in Dhar district was a temple dedicated to Goddess Saraswati and prohibited the offering of Namaz there.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T10:13:59+00:00",
-        "link": "https://newsonair.gov.in/sc-declines-to-restore-status-quo-ante-at-bhojshala-in-madhya-pradesh/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/supreme-court-4.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
-        "title": "India expanding its nuclear power with 24 power reactors and 8.78 Gigawatt capacity",
+        "title": "Supreme Court says Samay Raina violated statements and undertakings given before the court",
+        "summary": "The Supreme Court yesterday slammed comedian Samay Raina and YouTubers Ranveer Allahbadia and Ashish Chanchlani for not complying with its order, observing that they are self-styled youth icons. A bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana passed the order after it was informed that Raina had not invited […]",
+        "article": "The Supreme Court yesterday slammed comedian Samay Raina and YouTubers Ranveer Allahbadia and Ashish Chanchlani for not complying with its order, observing that they are self-styled youth icons. A bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana passed the order after it was informed that Raina had not invited any disabled persons to his show, according to its earlier order. The bench said that they have no reason to doubt that Samay Raina has taken the court for a ride, and he is in brazen violation of statements or undertakings given before the court. The top court was hearing a plea filed by Cure SMA India Foundation alleging that Raina made insensitive remarks over the high cost of treatment for Spinal Muscular Atrophy and also allegedly ridiculed a person with such a disability. The plea flagged jokes made by “India’s Got Latent” host Samay Raina and other social media influencers Vipun Goyal, Balraj Paramjeet Singh Ghai, Sonali Thakkar and Nishant Jagdish Tanwar.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:09:36+00:00",
+        "link": "https://newsonair.gov.in/supreme-court-says-samay-raina-violated-statements-and-undertakings-given-before-the-court/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Samay_raina_%28cropped%29.jpg",
+        "image_credit": "Wikipedia – Samay Raina (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India to Host 12th BRICS Labour and Employment Ministers’ Meeting in Hyderabad",
+        "summary": "India will host the 12th BRICS Labour and Employment Ministers&#8217; Meeting in Hyderabad from today. The two-day meeting will bring together labour and employment ministers and senior officials from BRICS member countries under India&#8217;s BRICS chairship theme, Building for Resilience, Innovation, Cooperation and Sustainability. Union Labour and Employment Minister Dr Mansukh Mandaviya will c",
+        "article": "India will host the 12th BRICS Labour and Employment Ministers&#8217; Meeting in Hyderabad from today. The two-day meeting will bring together labour and employment ministers and senior officials from BRICS member countries under India&#8217;s BRICS chairship theme, Building for Resilience, Innovation, Cooperation and Sustainability. Union Labour and Employment Minister Dr Mansukh Mandaviya will chair the meeting. The ministers will deliberate on four priority areas, including advancing social security and formalisation of labour markets and enhancing women&#8217;s participation and inclusion in the workforce. The meeting will also consider and adopt a draft declaration prepared by the Employment Working Group. It aims to strengthen cooperation among BRICS countries on labour market policies, worker welfare, skills development and inclusive employment, while promoting resilient and sustainable growth in the changing world of work.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:53:13+00:00",
+        "link": "https://newsonair.gov.in/india-to-host-12th-brics-labour-and-employment-ministers-meeting-in-hyderabad/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Downtown_hyderabad_drone.png",
+        "image_credit": "Wikipedia – Hyderabad (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government launches first trial Index of Services Production for formal services sector",
+        "summary": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. […]",
+        "article": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. &nbsp; The Ministry of Statistics and Programme Implementation (MoSPI) described the sub-sectoral ISP as a major milestone in improving the measurement of India’s services sector and strengthening the country’s statistical system. It said the comprehensive overall Index of Services Production will be introduced after evaluating the stability of the trial series and expanding its coverage-the first set of data points to broad-based growth in the services sector. Fourteen of the 19 sub-sectors recorded double-digit growth in April this year compared to the corresponding month last year, while almost all remaining sectors also registered positive growth. The fastest-growing sectors are accommodation and food services with 37.2 per cent and Retail Trade with 30.8 per cent. &nbsp; MoSPI said the data will be available on e- sankhyiki portal as well. On the occasion, Secretary, MoSPI, Dr Saurabh Garg, today said that the launch of the Index marks a significant step in strengthening India&#8217;s statistical system. The Secretary highlighted that the index has been developed entirely using administrative data, including inputs from government ministries and GST records, without imposing any additional compliance burden on industries or businesses. He also explained that the ISP is an output indicator and should not be equated with the Gross Value Added (GVA) used in GDP estimation. Dr Garg said that the Ministry will continue to seek feedback from stakeholders to strengthen the ISP further and enhance the country&#8217;s statistical ecosystem. Meanwhile, Chief Economic Advisor (CEA) Dr V Anantha Nageswaran emphasised that the release of the index should be viewed as a trial series, not a final or perfect index. He said that releasing it publicly reflects the confidence of the Ministry in the method and a willingness to improve it through scrutiny. He further said that the coverage of the index would expand over time, with the addition of sectors such as health services and ownership of dwelling businesses, which will take the coverage to around 85 to 90 per cent of formal services sector contribution in the economy.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:30:09+00:00",
+        "link": "https://newsonair.gov.in/government-launches-first-trial-index-of-services-production-for-formal-services-sector/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government to launch Eighth Tranche of Auction for Critical and Strategic Mineral Blocks",
+        "summary": "Union Minister of Coal and Mines G. Kishan Reddy will launch the Eighth Tranche of Auction of Critical and Strategic Mineral Blocks in New Delhi today. Ministry of Mines has said that it comprises 20 critical and strategic mineral blocks spread across nine states, including 13 newly identified blocks and 7 blocks being offered under […]",
+        "article": "Union Minister of Coal and Mines G. Kishan Reddy will launch the Eighth Tranche of Auction of Critical and Strategic Mineral Blocks in New Delhi today. Ministry of Mines has said that it comprises 20 critical and strategic mineral blocks spread across nine states, including 13 newly identified blocks and 7 blocks being offered under the second attempt. &nbsp; The mineral portfolio includes Molybdenum, Graphite, Glauconite, Rare Earth Elements, Titanium, Tungsten, Potash, Lithium, Caesium, and Rubidium. These minerals are critical for clean energy, advanced manufacturing, fertilisers, defence and other strategic sectors. With seven tranches of auction completed, the Ministry has successfully auctioned 56 out of 88 critical and strategic mineral blocks, achieving a success rate of over 63 percent. &nbsp; The Ministry said the strong industry response across successive auction rounds reflects growing investor confidence in the Government&#8217;s transparent, competitive and market-driven auction framework. The Ministry stated that mineral sector has achieved a historic milestone in financial year 2025-26, with 212 mineral blocks successfully auctioned, the highest in any financial year since the commencement of the auction regime. This included 22 critical and strategic mineral blocks.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:18:10+00:00",
+        "link": "https://newsonair.gov.in/government-to-launch-eighth-tranche-of-auction-for-critical-and-strategic-mineral-blocks/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Sarbananda Sonowal launches ‘Seafarer-First’ initiative to safeguard Indian seafarers in conflict-affected region",
+        "summary": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure",
+        "article": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure their safety and welfare. Chairing a high-level inter-ministerial review meeting in New Delhi, Mr Sonowal ordered real-time vessel-by-vessel monitoring, and the appointment of dedicated liaison officers for every affected Indian seafarer in the region. The Minister also ordered for round-the-clock coordination by the Ministry of Ports, Shipping and Waterways, in association with Ministry of External Affairs, Petroleum and Natural Gas, Chemicals and Fertilisers, the Indian Navy, the Directorate General of Shipping and Indian Missions in Iran and Oman. &nbsp; The Minister directed the Directorate General of Shipping to establish a real-time operational dashboard to track every Indian seafarer aboard vessels operating in the Persian Gulf, the Strait of Hormuz and the Gulf of Oman, irrespective of the vessel&#8217;s flag. He also instructed authorities to coordinate closely with Indian Missions in Iran, Oman and the UAE for real-time information on navigational safety, medical evacuation and repatriation. Mr Sonowal further directed shipowners, vessel managers and recruitment agencies to ensure that no Indian seafarer is compelled to sail without adequate information, protection and support. He said the government remains committed to safeguarding Indian seafarers and ensuring the uninterrupted movement of global trade through the region. &nbsp; The review comes in the wake of attacks on merchant vessels MT Al Bahiyah and MT Mombasa in the Strait of Hormuz. The two vessels had 30 Indian seafarers among a total crew of 46. One Indian seafarer was killed and another injured in the attack on MT Al Bahiyah. On MT Mombasa, nine Indian nationals were injured, including two who remain critically injured. &nbsp; Expressing grief over the loss of the Indian seafarer, Mr Sonowal conveyed his condolences to the bereaved family and wished the injured a speedy recovery. He assured that the Government would extend all possible assistance to affected seafarers and their families.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:14:09+00:00",
+        "link": "https://newsonair.gov.in/union-minister-sarbananda-sonowal-launches-seafarer-first-initiative-to-safeguard-indian-seafarers-in-conflict-affected-region/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Schools students hold peace protest in PoJK, demand international attention",
+        "summary": "Hundreds of schoolchildren in uniforms, accompanied by their teachers and parents, gathered at Rawalakot&#8217;s Eidgah Ground in the Pakistan-occupied Jammu &#38; Kashmir (PoJK), condemning the Pakistani military&#8217;s brutal crackdown in the occupied territory. School-going students turned out in large numbers on Monday, waving white flags as a symbol of peace and carrying banners that […]",
+        "article": "Hundreds of schoolchildren in uniforms, accompanied by their teachers and parents, gathered at Rawalakot&#8217;s Eidgah Ground in the Pakistan-occupied Jammu & Kashmir (PoJK), condemning the Pakistani military&#8217;s brutal crackdown in the occupied territory. School-going students turned out in large numbers on Monday, waving white flags as a symbol of peace and carrying banners that read &#8220;International Media Give Us Coverage&#8221; and raising slogans against the Pakistani Army. These ongoing protests across PoJK have emerged as a direct challenge to Islamabad&#8217;s long-standing control in the region, with Pakistani forces unleashing a brutal crackdown that reportedly left dozens of civilians dead and injured, while the region remains under a strict blockade, curfew, and a total communications blackout. Meanwhile, the United Kashmir People&#8217;s National Party (UKPNP) held a conference bringing together leaders, journalists, and civil society from across the PoJK and the global diaspora to discuss the human rights abuses, ongoing siege, and brutal crackdown on the peaceful civilians by the Pakistani authorities in the occupied territory.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T01:58:52+00:00",
+        "link": "https://newsonair.gov.in/schools-students-hold-peace-protest-in-pojk-demand-international-attention/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India-UK Comprehensive Economic and Trade Agreement Comes into Force today",
+        "summary": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom came into force from today. Simultaneously, the Agreement on Social Security, also referred to as the Double Contribution Convention (DCC), also came into effect, which reinforcing the mobility and competitiveness of Indian professionals in the United Kingdom. The landmark deal grants […]",
+        "article": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom came into force from today. Simultaneously, the Agreement on Social Security, also referred to as the Double Contribution Convention (DCC), also came into effect, which reinforcing the mobility and competitiveness of Indian professionals in the United Kingdom. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership and deliver prosperity for their people. Briefing the media in New Delhi, Commerce Secretary Rajesh Agrawal has described the India-UK Comprehensive Economic and Trade Agreement as a defining milestone in India&#8217;s trade journey, saying it establishes a future-oriented economic partnership between two major economies. Briefing the media in New Delhi yesterday, he said the agreement will mark the beginning of a new phase in bilateral trade and investment relations between India and the United Kingdom. Mr Agrawal said the agreement is among India&#8217;s most comprehensive trade pacts, offering broad sectoral coverage while reducing tariff and non-tariff barriers. Highlighting the Double Contribution Convention (DCC), Mr Agrawal said the arrangement will benefit Indian professionals and their employers by exempting eligible workers on temporary assignments in the UK from paying social security contributions there for the specified period. Our correspondent reports that the implementation of the India-UK CETA and DCC marks a major step in India&#8217;s journey towards becoming a globally integrated, resilient and competitive economy. This agreement has been designed as a people-centric agreement that delivers benefits across society. The simultaneous enforcement of the CETA and the DCC will open up significant new opportunities for India’s exports. Indian exporters will benefit from the complete elimination of UK tariffs across several key sectors. Tariffs of up to 70% on processed food products, over 21% on marine products, around 18% on engineering goods and auto components, up to 16% on leather and footwear products and around 12% on textiles and clothing will be reduced to zero. This will significantly enhance the competitiveness of Indian exports in the UK market, generate new opportunities for farmers, fishermen, MSMEs and manufacturers, and strengthen India&#8217;s integration into global value chains. Under the agreement, India has protected its sensitive sectors, including dairy products, cereals, millets, edible oils, oilseeds, apples and several vegetable products.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T01:03:58+00:00",
+        "link": "https://newsonair.gov.in/india-uk-comprehensive-economic-and-trade-agreement-comes-into-force-today/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India, Maldives Conclude First Round of FTA Talks Successfully",
+        "summary": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. The Commerce and Industry Ministry said that both sides made substantive progress across the negotiating tracks and reached broad convergence on […]",
+        "article": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. The Commerce and Industry Ministry said that both sides made substantive progress across the negotiating tracks and reached broad convergence on several issues. India is the second-largest trading partner of the Maldives. Bilateral trade between the two countries stood at over 771 million US dollars in 2025-26, compared to 679 million US dollars in 2024-25, registering a growth of 13.54%. The proposed FTA is expected to further strengthen bilateral economic and trade relations by enhancing market access, facilitating investment, promoting greater economic cooperation and contributing to sustainable economic growth in both countries. The ministry said both sides are working towards a broad-based, balanced and comprehensive agreement guided by the principles of fairness and reciprocity.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:49:02+00:00",
+        "link": "https://newsonair.gov.in/india-maldives-conclude-first-round-of-fta-talks-successfully/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India expands nuclear power programme to strengthen energy security",
         "summary": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural […]",
         "article": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural uranium fuel to run the Pressurised Heavy Water Reactors to produce nuclear energy. The government said that India is steadily expanding its nuclear power programme to strengthen energy security and support clean economic growth. A major outcome of the 3rd India-Australia Annual summit, which was held in Melbourne last week, was the finalisation of the Administrative Arrangement under the India-Australia Civil Nuclear Cooperation Agreement. It enables long-term exports of Australian uranium to India for peaceful purposes. The Australian uranium will ensure a steady supply of the primary fuel to run these nuclear power reactors.",
         "date": "2026-07-15",
         "pubDate": "2026-07-15T00:20:26+00:00",
         "link": "https://newsonair.gov.in/india-expanding-its-nuclear-power-with-24-power-reactors-and-8-78-gigawatt-capacity/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Nuke.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -379,96 +445,8 @@ window.VM_NEWS = {
         "date": "2026-07-14",
         "pubDate": "2026-07-14T15:58:24+00:00",
         "link": "https://newsonair.gov.in/india-strengthens-global-leadership-in-food-standards-at-codex-alimentarius-commission-session/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Codex.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India closely following developments in West Asia, calls for safe navigation through Strait of Hormuz. : MEA",
-        "summary": "New Delhi has said that it is closely following the developments in West Asia. It has again called for safe and unimpeded navigation and the flow of commerce through the Strait of Hormuz. Briefing media in New Delhi this evening, spokesperson of the Ministry of External Affairs Randhir Jaiswal said, this is key for ensuring […]",
-        "article": "New Delhi has said that it is closely following the developments in West Asia. It has again called for safe and unimpeded navigation and the flow of commerce through the Strait of Hormuz. Briefing media in New Delhi this evening, spokesperson of the Ministry of External Affairs Randhir Jaiswal said, this is key for ensuring the economic and energy security of people across the world. He said, the Ministry has issued a statement after summoning the Deputy Chief of Mission of Iran. Mr Jaiswal said, New Delhi conveyed Tehran its deepest concerns and that it strongly condemned what has happened. He said, a precious Indian life has been lost and several Indian nationals have been injured. A couple of them are seriously injured. The Spokesperson said, India conveyed its strongest protest to the Iranian side on this matter, stating that these attacks must stop at the earliest. At the same time, there should be de-escalation, and the two sides should come to the negotiating table and take the path of dialogue and diplomacy so that peace and stability can be ensured in West Asia. On the indictment of Lawrence Bishnoi Gang, the spokesperson said India has consistently maintained that transnational organised crime, terrorism, narco-trafficking, human trafficking, illegal firearms trafficking and related criminal networks pose a serious threat to societies. He added that India and the United States enjoy strong and growing cooperation in combating terrorism as well as transnational organised crime. He said India and US agencies have worked closely together over the years, and this cooperation continues to deepen. Replying to a query on UNCLOs, Mr Jaiswal said India’s position on the South China Sea issue is well known. He emphasised the importance of upholding freedom of navigation and overflight, other lawful uses of the sea, and unimpeded commerce consistent with international law. He re-affirmed that maritime disputes must be resolved peacefully and in accordance with UNCLOS. The spokesperson reiterated that the award rendered ten years ago by the Arbitral Tribunal is a significant milestone and the basis for peacefully resolving disputes between the parties. On Passport, Mr Jaiswal said an Indian passport is a document that is issued by the Government to regulate the departure from India of citizens of India, as per the Passports Act, 1967. It is issued after due verification laid out by an established process. The spokesperson added that the issue of passports to Indian citizens or any other individual is governed by the Passports Act and Passports Rules, 1980. He informed that currently, less than 8 percent of Indian citizens hold a passport. On Nijjar issue in Canada, Mr Jaiswal said, the Ministry has noted the remarks made by Royal Canadian Mounted Police RCMP Deputy Commissioner.He said, these remarks are consistent with the recently unsealed US indictmentwhich attributes responsibility to the members of the Lawrence Bishnoiorganised crime group. India remains committed to working with its partners incombating terrorism and transnational organised crime through close lawenforcement and security cooperation.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T15:30:01+00:00",
-        "link": "https://newsonair.gov.in/india-closely-following-developments-in-west-asia-calls-for-safe-navigation-through-strait-of-hormuz-mea/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/Strait-of-Hormuz-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Audit process in Madhya Pradesh fully digital through DRASHTI",
-        "summary": "The audit process for panchayats in Madhya Pradesh is now going fully digital. The state government has launched the DRASHTI (Digital Remote Auditing System for Transparency &#38; Insights) for this. This is a unique initiative in the country, aimed at fully digital, remote financial audits of panchayats. Through this platform, auditors can view and […]",
-        "article": "The audit process for panchayats in Madhya Pradesh is now going fully digital. The state government has launched the DRASHTI (Digital Remote Auditing System for Transparency & Insights) for this. This is a unique initiative in the country, aimed at fully digital, remote financial audits of panchayats. Through this platform, auditors can view and check the income and expenditure records of any panchayat from their own home or office. The platform is developed by the Directorate of Panchayati Raj, with technical support from NIC, under the guidance of the Comptroller and Auditor General of India. It will make the financial audit of over 23,000 gram panchayats in the state faster, simpler and more transparent. Even with limited staff, all panchayats can now be audited on time. Along with this, a payment gateway has also been launched on the Panchayat Darpan portal. This will allow citizens to pay their bills online.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T15:10:40+00:00",
-        "link": "https://newsonair.gov.in/audit-process-in-madhya-pradesh-fully-digital-through-drashti/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Drishti.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Roadmap planned for development of agriculture based on weather & soil for West Bengal",
-        "summary": "A roadmap for the development of agriculture based on weather and soil is being developed in West Bengal, said Union Minister for Agriculture and Farmers&#8217; Welfare and Rural Development Shivraj Singh Chouhan. The Minister, while attending a meeting at the state secretariat, Nabanna today, said that agriculture universities, research institutes, and the state government […]",
-        "article": "A roadmap for the development of agriculture based on weather and soil is being developed in West Bengal, said Union Minister for Agriculture and Farmers&#8217; Welfare and Rural Development Shivraj Singh Chouhan. The Minister, while attending a meeting at the state secretariat, Nabanna today, said that agriculture universities, research institutes, and the state government of West Bengal are jointly working for the development of the roadmap. Mr Chouhan said that training and research institutes for potato and jute seeds will come up in four places in West Bengal, including Chinsurah and Malda. He credited the state government for its excellent work in the creation of digital identity cards for the farmers and for the successful implementation of various central schemes, including PM Fasal Bima Yojana. West Bengal Chief Minister Suvendu Adhikari, state Agriculture Minister Dudh Kumar Mondal, state Panchayat Minister Dilip Ghosh, and other dignitaries and officials were present at the meeting.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T13:15:01+00:00",
-        "link": "https://newsonair.gov.in/roadmap-planned-for-development-of-agriculture-based-on-weather-soil-for-west-bengal/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/west-bengal-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "FTA between India and Maldives expected to enhance market access and investment",
-        "summary": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. Commerce and Industry Ministry said, both sides made substantive progress across the negotiating tracks and reached broad convergence on several […]",
-        "article": "In a major step towards expanding bilateral trade and investment engagement, the first round of negotiations for the India-Maldives Free Trade Agreement (FTA) concluded successfully. The negotiations were held in virtual mode last week. Commerce and Industry Ministry said, both sides made substantive progress across the negotiating tracks and reached broad convergence on several issues. India is the second-largest trading partner of the Maldives. Bilateral trade between the two countries stood at over 771 million US dollar in 2025-26, compared to 679 million US dollar in 2024-25, registering a growth of 13.54 per cent. The proposed FTA is expected to further strengthen bilateral economic and trade relations by enhancing market access, facilitating investment, promoting greater economic cooperation and contributing to sustainable economic growth in both countries. The Ministry said, both sides are working towards a broad-based, balanced and comprehensive agreement guided by the principles of fairness and reciprocity.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T12:36:20+00:00",
-        "link": "https://newsonair.gov.in/fta-between-india-and-maldives-expected-to-enhance-market-access-and-investment/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/India-maldives.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Railways to transport fertilizers in specially designed containers to enable non-polluting storage",
-        "summary": "Railways Minister Ashwini Vaishnaw has announced a major policy reform that allows fertilizers to be transported in specially designed containers instead of traditional covered box wagons. Briefing media in New Delhi today on the reforms aimed at modernizing Indian Railways, Mr Vaishnaw said, Railways account for 85 per cent share in transportation of fertilisers. […]",
-        "article": "Railways Minister Ashwini Vaishnaw has announced a major policy reform that allows fertilizers to be transported in specially designed containers instead of traditional covered box wagons. Briefing media in New Delhi today on the reforms aimed at modernizing Indian Railways, Mr Vaishnaw said, Railways account for 85 per cent share in transportation of fertilisers. He said, container handling is easier and enables non-polluting storage. Mr Vaishnaw added that individual container can be stored at the rake point, instead of detaining the entire rake. The minister said Prime Minister Narendra Modi has continuously encouraged to bring reforms in the Railways. Mr Vaishnaw announced a major reform in fly ash transportation, shifting movement from open railway wagons to specially designed containers. He highlighted that India generates nearly 340 million tonnes of fly ash annually, which is highly useful in cement production and road construction. The Minister said, the new container-based system will reduce dust pollution during loading, transport and storage. Mr Vaishnaw also announced a unified licence system under container policy. Mr Vaishnaw said Wagon design can now be done by the industry. He said that any designer or manufacturer can propose a new wagon design. The Minister informed that after evaluating the design, the Research Designs and Standards Organisation (RDSO) will give permission for the prototype. The Minister said this will enable special design wagons for specific industry needs. The Minister also informed that Rail bhoomi portal will be launched to manage the complete process of land acquisition. Mr Vaishnaw said, it will enables online processing of major land acquisition stages. On skill certification framework for railway projects, Mr Vaishnaw said that this system will be implemented across all projects in a maximum of 24 months. He said, when large scale infrastructure creation work is underway in the country, it is important that plumbers, welders, fitters, masons and concrete testers and all other workers are well trained.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T11:36:27+00:00",
-        "link": "https://newsonair.gov.in/railways-to-transport-fertilizers-in-specially-designed-containers-to-enable-non-polluting-storage/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/rail-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Labour Minister advises youth to upgrade skills by using latest technology of AI",
-        "summary": "Union Minister for Labour and Employment, Dr. Mansukh Mandaviya, highlighted that artificial intelligence can effectively enhance the skills of youth. Speaking as the chief guest at the BRICS Trade Union Forum Summit in Hyderabad, the Minister advised everyone to use the latest technology responsibly and urged workers to overcome the fear of job losses […]",
-        "article": "Union Minister for Labour and Employment, Dr. Mansukh Mandaviya, highlighted that artificial intelligence can effectively enhance the skills of youth. Speaking as the chief guest at the BRICS Trade Union Forum Summit in Hyderabad, the Minister advised everyone to use the latest technology responsibly and urged workers to overcome the fear of job losses by upgrading their skills accordingly. The Minister noted that artificial intelligence and robotics technology are driving major transformations across the nation. Additionally, he called for strong collaboration between industries and trade unions, acknowledging the invaluable role of workers in national and state development. He also stressed the importance of mutual cooperation among BRICS nations to foster shared growth. To keep pace with technological advancements, the Minister promised that new courses would be introduced through the Skill India Mission. He recalled the success of the e-Shram portal, an initiative designed to bring unorganized sector workers under one umbrella and directly deliver social security benefits to them. Furthermore, Dr. Mandaviya stated that the central government is focusing on Migration and Mobility Agreements to create more international employment opportunities for Indian workers.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T10:36:44+00:00",
-        "link": "https://newsonair.gov.in/union-labour-minister-advises-youth-to-upgrade-skills-by-using-latest-technology-of-ai/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/BRICS-4.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt reviews foodgrain storage ecosystem to create more efficient, future-ready framework",
-        "summary": "Union Minister for Consumer Affairs, Food and Public Distribution Pralhad Joshi today chaired a review meeting to strengthen the country&#8217;s foodgrain storage ecosystem in New Delhi. In a social media post, Mr. Joshi said the meeting reviewed the proposed Storage Policy and the Private Entrepreneurs Guarantee (PEG) Scheme. He said the discussions focused on addressing […]",
-        "article": "Union Minister for Consumer Affairs, Food and Public Distribution Pralhad Joshi today chaired a review meeting to strengthen the country&#8217;s foodgrain storage ecosystem in New Delhi. In a social media post, Mr. Joshi said the meeting reviewed the proposed Storage Policy and the Private Entrepreneurs Guarantee (PEG) Scheme. He said the discussions focused on addressing emerging challenges in foodgrain management, including regional storage imbalances, surplus stock management, optimisation of storage capacity, and the need to revise storage norms in line with current procurement trends. Mr Joshi said that these reforms are aimed at creating a more efficient, scientific and future-ready storage framework that reinforces India&#8217;s food security.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T10:21:34+00:00",
-        "link": "https://newsonair.gov.in/govt-reviews-foodgrain-storage-ecosystem-to-create-more-efficient-future-ready-framework/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Pralhad.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "SC declines to restore status quo ante at Bhojshala in Madhya Pradesh",
-        "summary": "The Supreme Court today agreed to hear the Bhojshala dispute on a day-to-day basis to resolve the issue. However, the bench comprising Chief Justice of India Surya Kant, Justice Joymalya Bagchi and Justice V Mohana declined the petitioners&#8217; request for an interim order restoring the status quo ante, under which Muslims were permitted to […]",
-        "article": "The Supreme Court today agreed to hear the Bhojshala dispute on a day-to-day basis to resolve the issue. However, the bench comprising Chief Justice of India Surya Kant, Justice Joymalya Bagchi and Justice V Mohana declined the petitioners&#8217; request for an interim order restoring the status quo ante, under which Muslims were permitted to offer namaz on Fridays alongside Hindu worship on designated days. The bench directed the state to make available a separate open space, adjacent to the subject site, for offering namaz on Fridays between 1 PM and 3 PM. The bench clarified that this arrangement is ad-hoc in nature, subject to the final outcome of the matter. The bench urged both sides to exercise patience, describing the matter as highly sensitive. The top court was hearing a batch of appeals challenging a Madhya Pradesh High Court order, which said the disputed Bhojshala complex in Dhar district was a temple dedicated to Goddess Saraswati and prohibited the offering of Namaz there.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T10:13:59+00:00",
-        "link": "https://newsonair.gov.in/sc-declines-to-restore-status-quo-ante-at-bhojshala-in-madhya-pradesh/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/supreme-court-4.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -586,14 +564,25 @@ window.VM_NEWS = {
     ],
     "sports": [
       {
+        "title": "India Beat England by 6 Wickets in First ODI",
+        "summary": "In men&#8217;s cricket, India defeated hosts England by 6 wickets in the first One-Day International of 3-match series at Edgbaston in Birmingham last night. With this, the Men in Blue now lead the series 1-0, ending their losing streak in international cricket. Opting to bat first, England got bundled out for 258 runs in the […]",
+        "article": "In men&#8217;s cricket, India defeated hosts England by 6 wickets in the first One-Day International of 3-match series at Edgbaston in Birmingham last night. With this, the Men in Blue now lead the series 1-0, ending their losing streak in international cricket. Opting to bat first, England got bundled out for 258 runs in the 48th over. Joe Root scored the highest 76 runs and remained not out, while Liam Dawson also contributed a crucial 68 runs. For India, Axar Patel bagged 4 wickets. In reply, the Shubman Gill-led side comfortably overhauled the target in the 46th over, riding on the skipper&#8217;s fabulous innings of 80 runs, after which he got retired hurt. Moreover, Washington Sundar and Axar Patel both crossed the half-century mark and finished the match being unbeaten. Axar Patel was adjudged Player of the Match for his all-round performance. Both teams will next face each other in the second ODI at Sophia Gardens in Cardiff tomorrow. The third ODI will be played at Lord&#8217;s Cricket Ground in London on Sunday.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:49:19+00:00",
+        "link": "https://newsonair.gov.in/india-beat-england-by-6-wickets-in-first-odi/",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cricket_test_at_Basin_Reserve%2C_10-15_February_1978_%2824668812080%29.jpg/1280px-Cricket_test_at_Basin_Reserve%2C_10-15_February_1978_%2824668812080%29.jpg",
+        "image_credit": "Wikimedia Commons (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "France, Spain clash in first FIFA World Cup semifinal tonight",
         "summary": "In the FIFA World Cup, France will take on Spain in the first semi-final at Dallas Stadium in Texas, US, tonight. The match is scheduled to begin at 12:30 AM Indian Standard Time. &#160; France will look to book their place in their third consecutive FIFA World Cup final. Meanwhile, Spain will aim to advance […]",
         "article": "In the FIFA World Cup, France will take on Spain in the first semi-final at Dallas Stadium in Texas, US, tonight. The match is scheduled to begin at 12:30 AM Indian Standard Time. &nbsp; France will look to book their place in their third consecutive FIFA World Cup final. Meanwhile, Spain will aim to advance into their first World Cup final since lifting the trophy in 2010. France reached the semi-finals after defeating Morocco 2-0 in the quarter-finals, while Spain advanced with a hard-fought 2-1 victory over Belgium.",
         "date": "2026-07-14",
         "pubDate": "2026-07-14T08:57:08+00:00",
         "link": "https://newsonair.gov.in/france-spain-clash-in-first-fifa-world-cup-semifinal-tonight/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/FIFA-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpg",
+        "image_credit": "Wikipedia – FIFA World Cup (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -603,41 +592,8 @@ window.VM_NEWS = {
         "date": "2026-07-14",
         "pubDate": "2026-07-14T03:40:09+00:00",
         "link": "https://newsonair.gov.in/india-women-script-history-with-test-win-over-england/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/aa.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Amaravati Championship 2026 to kick-off on July 15",
-        "summary": "The second edition of the Amaravati Championship will begin across Andhra Pradesh from July 15. Sports Authority of Andhra Pradesh (SAAP) Chairman A. Ravi Naidu unveiled the official poster of the championship in Vijayawada today. Speaking on the occasion, Mr. Ravi Naidu said the championship aims to identify and nurture sporting talent from every […]",
-        "article": "The second edition of the Amaravati Championship will begin across Andhra Pradesh from July 15. Sports Authority of Andhra Pradesh (SAAP) Chairman A. Ravi Naidu unveiled the official poster of the championship in Vijayawada today. Speaking on the occasion, Mr. Ravi Naidu said the championship aims to identify and nurture sporting talent from every corner of the State. He said selections will be held in all 175 Assembly constituencies in the Under-17 and Under-23 categories, providing a platform for young athletes to showcase their talent. He said district-level competitions will be conducted from August 1 to 15, followed by the State-level events from August 20 to 25. Winners will receive their awards on National Sports Day, August 29. Mr. Ravi Naidu said competitions will be held in 12 sports disciplines with a total prize money of 94 lakh rupees. He said the target is to attract the participation of more than three lakh students from villages and urban areas alike. He added that the championship reflects the government&#8217;s commitment to promoting sports and transforming Andhra Pradesh into a leading sporting state.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T13:06:14+00:00",
-        "link": "https://newsonair.gov.in/amaravati-championship-2026-to-kick-off-on-july-15/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/amravati.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India crush England by 270 runs to win historic first women’s test at Lord’s",
-        "summary": "In Women&#8217;s Cricket, the Indian team led by Harmanpreet Kaur, today recorded a historic win in a one-off Test against hosts England at Lord&#8217;s. India defeated England comfortably by 270 runs in the first-ever Women’s Test held at Lord’s. Chasing a target of 457 runs, the hosts were all out for 186 in their second […]",
-        "article": "In Women&#8217;s Cricket, the Indian team led by Harmanpreet Kaur, today recorded a historic win in a one-off Test against hosts England at Lord&#8217;s. India defeated England comfortably by 270 runs in the first-ever Women’s Test held at Lord’s. Chasing a target of 457 runs, the hosts were all out for 186 in their second innings before lunch on day 4. For India, Sneh Rana took 4 wickets, while Sayali Satghare, Kranti Gaud and Deepti Sharma bagged two wickets each. India had declared their second innings at 341 for 7 yesterday at the stroke of tea, giving a target of 457 runs. Wicketkeeper-batter Yastika Bhatia became the first woman to score a Test century at Lord&#8217;s. India had scored 285 in their first innings, while the hosts were all out for 170. In the first innings, Indian pacer Kranti Gaud claimed 5 wickets.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T12:42:36+00:00",
-        "link": "https://newsonair.gov.in/india-crush-england-by-270-runs-to-win-historic-first-womens-test-at-lords/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "16 Indian Boxers Reach Asian U19 & U23 Boxing Championship Finals",
-        "summary": "Indian boxers remained a strong force at the Asian U-19 and U-23 Championships, with 16 of them advancing to the finals across men&#8217;s and women&#8217;s categories and seven others securing bronze medals after semifinal finishes in Jakarta. In the Under-19 women&#8217;s category, 8 boxers reached finals today. Gunjan advanced to the final in […]",
-        "article": "Indian boxers remained a strong force at the Asian U-19 and U-23 Championships, with 16 of them advancing to the finals across men&#8217;s and women&#8217;s categories and seven others securing bronze medals after semifinal finishes in Jakarta. In the Under-19 women&#8217;s category, 8 boxers reached finals today. Gunjan advanced to the final in the 45-50 kg weight class. Chandrika Pujari in the 51 kg category, Joyshree Chirom in the 54 kg, Prachi in the 57 kg and Chahat in the 60 kg category reached finals. Anshika in the 75 kg, Megha in the 80 kg, and Prachi Tokas in the plus 81 kg category secured their places in the final. Earlier, in the U-23 women&#8217;s category, five Indian boxers progressed to the finals. Nisha in 54kg category defeated Hyeju Lee of Korea, while Nikita Chand in 60kg category registered a win against Sarii Kokufu of Japan. Kajal in 65kg category sailed past Gulzina Melsvek of Kyrgyzstan yesterday. In the higher weight categories, Muskan in 75kg category won 5:nil against Toirova Oysha of Uzbekistan while Priyanka in plus 80kg recorded a dominant 5:nil win over Panar Seiitkhankyzy Kazakhstan. In the U-23 men&#8217;s category, three Indian boxers advanced to the finals. Vishvanath Suresh in 50kg delivered a commanding 5:nil win over his Philippines opponent, while Ganga in 55kg edged past Japan with a 3:2 split decision. Vanshaj in 65kg also impressed with a 4:1 victory over a Kyrgyzstan opponent to secure his place in the final. India also added seven bronze medals from semifinal finishes. In the U-23 women&#8217;s category, bronze medals were secured by Tanu (51kg), Prachi (57kg), Shivani (70kg), and Naina (80kg). In the U-23 men&#8217;s category, bronze medals were won by Hitesh (70kg, Neeraj (75kg), and Ishan Kataria (PLUS 90kg).",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T12:25:01+00:00",
-        "link": "https://newsonair.gov.in/eight-indian-boxers-reach-asian-u19-u23-boxing-championship-finals/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/boxing.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/The_Negro_in_American_history%3B_men_and_women_eminent_in_the_evolution_of_the_American_of_African_descent_%281914%29_%2814763660582%29.jpg/1280px-The_Negro_in_American_history%3B_men_and_women_eminent_in_the_evolution_of_the_American_of_African_descent_%281914%29_%2814763660582%29.jpg",
+        "image_credit": "Wikimedia Commons (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -647,8 +603,8 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T03:04:57+00:00",
         "link": "https://newsonair.gov.in/jannik-sinner-retains-wimbledon-crown-guo-and-mladenovic-win-womens-doubles-title/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/5-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Jannik_Sinner_2025_US_Open.jpg",
+        "image_credit": "Wikipedia – Jannik Sinner (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -658,8 +614,52 @@ window.VM_NEWS = {
         "date": "2026-07-13",
         "pubDate": "2026-07-13T03:02:00+00:00",
         "link": "https://newsonair.gov.in/france-spain-england-and-argentina-enter-fifa-world-cup-semi-finals/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/6-3.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpg",
+        "image_credit": "Wikipedia – FIFA World Cup (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Spain Beat France 2-0 to Enter FIFA World Cup 2026 Final",
+        "summary": "In football, Spain stormed into the final of the FIFA World Cup 2026 after producing a commanding 2-0 victory over France in the first semi-final clash at Dallas Stadium in Texas, U.S., last night. Mikel Oyarzabal opened the scoring in the 22nd minute, before Pedro Porro made sure of the win with a brilliant second […]",
+        "article": "In football, Spain stormed into the final of the FIFA World Cup 2026 after producing a commanding 2-0 victory over France in the first semi-final clash at Dallas Stadium in Texas, U.S., last night. Mikel Oyarzabal opened the scoring in the 22nd minute, before Pedro Porro made sure of the win with a brilliant second goal. Sixteen years since winning its first World Cup trophy, La Roja will face Argentina or England in the final at New Jersey’s MetLife Stadium on Sunday night. In another semi-final clash, defending champions Argentina will face England tonight at Atlanta Stadium. The match is scheduled to begin at 12.30 AM Indian Time on Thursday.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:39:14+00:00",
+        "link": "https://newsonair.gov.in/spain-beat-france-2-0-to-enter-fifa-world-cup-2026-final/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Amaravati Championship 2026 to kick-off on July 15",
+        "summary": "The second edition of the Amaravati Championship will begin across Andhra Pradesh from July 15. Sports Authority of Andhra Pradesh (SAAP) Chairman A. Ravi Naidu unveiled the official poster of the championship in Vijayawada today. Speaking on the occasion, Mr. Ravi Naidu said the championship aims to identify and nurture sporting talent from every […]",
+        "article": "The second edition of the Amaravati Championship will begin across Andhra Pradesh from July 15. Sports Authority of Andhra Pradesh (SAAP) Chairman A. Ravi Naidu unveiled the official poster of the championship in Vijayawada today. Speaking on the occasion, Mr. Ravi Naidu said the championship aims to identify and nurture sporting talent from every corner of the State. He said selections will be held in all 175 Assembly constituencies in the Under-17 and Under-23 categories, providing a platform for young athletes to showcase their talent. He said district-level competitions will be conducted from August 1 to 15, followed by the State-level events from August 20 to 25. Winners will receive their awards on National Sports Day, August 29. Mr. Ravi Naidu said competitions will be held in 12 sports disciplines with a total prize money of 94 lakh rupees. He said the target is to attract the participation of more than three lakh students from villages and urban areas alike. He added that the championship reflects the government&#8217;s commitment to promoting sports and transforming Andhra Pradesh into a leading sporting state.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T13:06:14+00:00",
+        "link": "https://newsonair.gov.in/amaravati-championship-2026-to-kick-off-on-july-15/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India crush England by 270 runs to win historic first women’s test at Lord’s",
+        "summary": "In Women&#8217;s Cricket, the Indian team led by Harmanpreet Kaur, today recorded a historic win in a one-off Test against hosts England at Lord&#8217;s. India defeated England comfortably by 270 runs in the first-ever Women’s Test held at Lord’s. Chasing a target of 457 runs, the hosts were all out for 186 in their second […]",
+        "article": "In Women&#8217;s Cricket, the Indian team led by Harmanpreet Kaur, today recorded a historic win in a one-off Test against hosts England at Lord&#8217;s. India defeated England comfortably by 270 runs in the first-ever Women’s Test held at Lord’s. Chasing a target of 457 runs, the hosts were all out for 186 in their second innings before lunch on day 4. For India, Sneh Rana took 4 wickets, while Sayali Satghare, Kranti Gaud and Deepti Sharma bagged two wickets each. India had declared their second innings at 341 for 7 yesterday at the stroke of tea, giving a target of 457 runs. Wicketkeeper-batter Yastika Bhatia became the first woman to score a Test century at Lord&#8217;s. India had scored 285 in their first innings, while the hosts were all out for 170. In the first innings, Indian pacer Kranti Gaud claimed 5 wickets.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T12:42:36+00:00",
+        "link": "https://newsonair.gov.in/india-crush-england-by-270-runs-to-win-historic-first-womens-test-at-lords/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "16 Indian Boxers Reach Asian U19 & U23 Boxing Championship Finals",
+        "summary": "Indian boxers remained a strong force at the Asian U-19 and U-23 Championships, with 16 of them advancing to the finals across men&#8217;s and women&#8217;s categories and seven others securing bronze medals after semifinal finishes in Jakarta. In the Under-19 women&#8217;s category, 8 boxers reached finals today. Gunjan advanced to the final in […]",
+        "article": "Indian boxers remained a strong force at the Asian U-19 and U-23 Championships, with 16 of them advancing to the finals across men&#8217;s and women&#8217;s categories and seven others securing bronze medals after semifinal finishes in Jakarta. In the Under-19 women&#8217;s category, 8 boxers reached finals today. Gunjan advanced to the final in the 45-50 kg weight class. Chandrika Pujari in the 51 kg category, Joyshree Chirom in the 54 kg, Prachi in the 57 kg and Chahat in the 60 kg category reached finals. Anshika in the 75 kg, Megha in the 80 kg, and Prachi Tokas in the plus 81 kg category secured their places in the final. Earlier, in the U-23 women&#8217;s category, five Indian boxers progressed to the finals. Nisha in 54kg category defeated Hyeju Lee of Korea, while Nikita Chand in 60kg category registered a win against Sarii Kokufu of Japan. Kajal in 65kg category sailed past Gulzina Melsvek of Kyrgyzstan yesterday. In the higher weight categories, Muskan in 75kg category won 5:nil against Toirova Oysha of Uzbekistan while Priyanka in plus 80kg recorded a dominant 5:nil win over Panar Seiitkhankyzy Kazakhstan. In the U-23 men&#8217;s category, three Indian boxers advanced to the finals. Vishvanath Suresh in 50kg delivered a commanding 5:nil win over his Philippines opponent, while Ganga in 55kg edged past Japan with a 3:2 split decision. Vanshaj in 65kg also impressed with a 4:1 victory over a Kyrgyzstan opponent to secure his place in the final. India also added seven bronze medals from semifinal finishes. In the U-23 women&#8217;s category, bronze medals were secured by Tanu (51kg), Prachi (57kg), Shivani (70kg), and Naina (80kg). In the U-23 men&#8217;s category, bronze medals were won by Hitesh (70kg, Neeraj (75kg), and Ishan Kataria (PLUS 90kg).",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T12:25:01+00:00",
+        "link": "https://newsonair.gov.in/eight-indian-boxers-reach-asian-u19-u23-boxing-championship-finals/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -669,78 +669,12 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T14:45:27+00:00",
         "link": "https://newsonair.gov.in/china-france-10th-seeded-pair-win-wimbledon-womens-doubles-title/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNCICW5XMAAOrYr-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "FIFA World Cup: England and Argentina enter seminfinals",
-        "summary": "In the FIFA World Cup, England booked their semifinal berth with a 2-1 extra-time win over Norway, while Argentina entered the semifinal, defeating Switzerland 3-1 this morning. In the first semi-final, France and Spain will face off on Wednesday. The match will kick off at 12:30 a.m. Indian Standard Time. France reached the semi-finals after […]",
-        "article": "In the FIFA World Cup, England booked their semifinal berth with a 2-1 extra-time win over Norway, while Argentina entered the semifinal, defeating Switzerland 3-1 this morning. In the first semi-final, France and Spain will face off on Wednesday. The match will kick off at 12:30 a.m. Indian Standard Time. France reached the semi-finals after defeating Morocco 2-0 in the quarter-finals, while Spain advanced with a hard-fought 2-1 victory over Belgium. The second semi-final will be played on Thursday between England and Argentina at 12:30 a.m. Indian Time. The winners of the two semi-finals will meet in the FIFA World Cup final on July 20 at New York-New Jersey Stadium. The losing teams will play the third-place play-off on July 19 in Miami. &nbsp;",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:31:31+00:00",
-        "link": "https://newsonair.gov.in/fifa-world-cup-england-beat-norway-2-1-to-reach-semi-final/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpg",
-        "image_credit": "Wikipedia – FIFA World Cup (CC BY-SA)",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Wimbledon: Jannik Sinner to lock horns with Alexander Zverev for Men’s Singles title today",
-        "summary": "In Tennis, two Wimbledon titles will be decided today as the men&#8217;s singles and women&#8217;s doubles finals are played. World No. 1 Jannik Sinner will face Germany&#8217;s Alexander Zverev in the men&#8217;s singles final at 8:30 p.m. IST. Sinner booked his place in the title clash with a straight-sets victory over Novak Djokovic, while […]",
-        "article": "In Tennis, two Wimbledon titles will be decided today as the men&#8217;s singles and women&#8217;s doubles finals are played. World No. 1 Jannik Sinner will face Germany&#8217;s Alexander Zverev in the men&#8217;s singles final at 8:30 p.m. IST. Sinner booked his place in the title clash with a straight-sets victory over Novak Djokovic, while Zverev entered his first Wimbledon final after defeating British wildcard Arthur Fery. The women&#8217;s doubles final will begin at 5:30 p.m. IST. The 10th-seeded pair of China&#8217;s Guo Hanyu and France&#8217;s Kristina Mladenovic will take on the second-seeded duo of Canada&#8217;s Gabriela Dabrowski and Brazil&#8217;s Luisa Stefani. Yesterday, in the Women&#8217;s Singles Final, the 21-year-old Linda Noskova won her maiden Grand Slam title after defeating fellow Czech Karolina Muchova 6-2, 5-7, 6-3 at Centre Court, London. Noskova became the third Czech woman in four years to win the grass-court major, after Marketa Vondrousova in 2023 and Barbora Krejcikova in 2024.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T08:10:50+00:00",
-        "link": "https://newsonair.gov.in/linda-noskova-beats-karolina-muchova-to-win-first-wimbledon-tennis-title/",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alexander_Zverev.jpg",
-        "image_credit": "Wikipedia – Alexander Zverev (CC BY-SA)",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "business": [
-      {
-        "title": "CETA marks beginning of new phase of bilateral relations between India-UK: Commerce Secretary",
-        "summary": "Commerce Secretary Rajesh Agrawal has described the India-UK Comprehensive Economic and Trade Agreement (CETA) as a defining milestone in India&#8217;s trade journey, saying it establishes a future-oriented economic partnership between two major economies. Briefing Media in New Delhi today, he said the agreement will come into force tomorrow, marking the beginning of a new […]",
-        "article": "Commerce Secretary Rajesh Agrawal has described the India-UK Comprehensive Economic and Trade Agreement (CETA) as a defining milestone in India&#8217;s trade journey, saying it establishes a future-oriented economic partnership between two major economies. Briefing Media in New Delhi today, he said the agreement will come into force tomorrow, marking the beginning of a new phase in bilateral trade and investment relations between India and the United Kingdom. Mr Agrawal said the agreement is among India&#8217;s most comprehensive trade pacts, offering broad sectoral coverage while reducing tariff and non-tariff barriers. He added that it safeguards the country&#8217;s sensitive sectors, including dairy and agriculture, while expanding market access for Indian goods and services. The Commerce Secretary said the agreement goes beyond conventional trade liberalisation by covering areas such as digital trade, government procurement, innovation, MSMEs, labour and environment. He said the framework is designed to facilitate trade while ensuring that regulatory measures do not become unjustified barriers for businesses. Highlighting the Double Contribution Convention, Mr Agrawal said the arrangement will benefit Indian professionals and their employers by exempting eligible workers on temporary assignments in the UK from paying social security contributions there for the specified period. Further, it will also allow them to continue contributing to India&#8217;s social security system. He said the agreement is expected to create new opportunities for farmers, MSMEs, seafood exporters and labour-intensive sectors. Mr Agrawal added that the government&#8217;s focus will now be on ensuring Indian exporters fully utilise the preferential market access available under the India-UK CETA.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T15:20:23+00:00",
-        "link": "https://newsonair.gov.in/ceta-marks-beginning-of-new-phase-of-bilateral-relations-between-india-uk-commerce-secretary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Rajesh.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Wholesale inflation up to 9.87% in June; food, fuel key drivers",
-        "summary": "India’s Wholesale Price Index (WPI) based inflation rose to 9.87 per cent in June on an annual basis from 9.68 per cent registered in May this year. As per Ministry of Commerce &#38; Industry, Mineral Oils, food Articles, manufacture of basic metals, and manufacture of Chemicals and Chemical Products, have been major drivers of […]",
-        "article": "India’s Wholesale Price Index (WPI) based inflation rose to 9.87 per cent in June on an annual basis from 9.68 per cent registered in May this year. As per Ministry of Commerce & Industry, Mineral Oils, food Articles, manufacture of basic metals, and manufacture of Chemicals and Chemical Products, have been major drivers of WPI inflation last month. Among the major categories, inflation in Primary Articles rose sharply to 7 per cent in June from 4.99 per cent in May. Inflation in Fuel and Power eased to 27.41 per cent from over 30 per cent. Manufactured Products recorded an inflation rate of 7.48 per cent, unchanged from May. The WPI Food Index increased to 6.14 per cent in June as compared to 4.49 per cent in May this year. Output PPI for June stands at 109.9, whereas it was 109.6 in May.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T15:16:49+00:00",
-        "link": "https://newsonair.gov.in/wholesale-inflation-up-to-9-87-in-june-food-fuel-key-drivers/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/GettyImages-1526447507-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt releases first sub-sectoral Trial Index of Services Production",
-        "summary": "The government today released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. […]",
-        "article": "The government today released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. The Ministry of Statistics and Programme Implementation (MoSPI) described the sub-sectoral ISP as a major milestone in improving the measurement of India’s services sector and strengthening the country’s statistical system. It said the comprehensive overall Index of Services Production will be introduced after evaluating the stability of the trial series and expanding its coverage-the first set of data points to broad-based growth in the services sector. Fourteen of the 19 sub-sectors recorded double-digit growth in April this year compared to the corresponding month last year, while almost all remaining sectors also registered positive growth. The fastest-growing sectors are accommodation and food Services with 37.2 per cent and Retail Trade with 30.8 per cent. MoSPI said the data will be available on e- sankhyiki portal as well. On the occasion, Secretary, MoSPI, Dr Saurabh Garg today said that the launch of the Index marks a significant step in strengthening India&#8217;s statistical system. The Secretary highlighted that the index has been developed entirely using administrative data, including inputs from government ministries and GST records, without imposing any additional compliance burden on industries or businesses. . He also explained that the ISP is an output indicator and should not be equated with the Gross Value Added (GVA) used in GDP estimation. Dr Garg said that the Ministry will continue to seek feedback from stakeholders to strengthen the ISP further and enhance the country&#8217;s statistical ecosystem. Meanwhile, Chief Economic Advisor (CEA) Dr V Anantha Nageswaran emphasised that the release of the index should be viewed as a trial series, not a final or perfect index. He said that releasing it publicly reflects the confidence of the Ministry in the method and a willingness to improve it through scrutiny. He further said that the coverage of the index would expand over time, with the addition of sectors such as health services and ownership of dwelling businesses, which will take the coverage to around 85 to 90 per cent of formal services sector contribution in the economy.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T13:35:40+00:00",
-        "link": "https://newsonair.gov.in/govt-releases-first-sub-sectoral-trial-index-of-services-production/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/production.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Direct Tax collection increased by 16.11% for FY 2026-27",
-        "summary": "The Income Tax Department has collected over 7,73,000 crore as direct tax for the financial year 2026-27 so far. It is 16.11 percent higher growth as compared to financial year 2025-2026 during the same period. The collection includes corporate tax of over three lakh 35 thousand crore rupees and a non-corporate tax of four […]",
-        "article": "The Income Tax Department has collected over 7,73,000 crore as direct tax for the financial year 2026-27 so far. It is 16.11 percent higher growth as compared to financial year 2025-2026 during the same period. The collection includes corporate tax of over three lakh 35 thousand crore rupees and a non-corporate tax of four lakh 11 thousand crore rupees. The department has also issued refunds of over 1,22,000 crore rupees. The net direct tax collection has recorded a significant growth of over 16 per cent amounting to more than 6,51,000 crore rupees.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T13:20:43+00:00",
-        "link": "https://newsonair.gov.in/direct-tax-collection-increased-by-16-11-for-fy-2026-27/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/IT.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
       {
         "title": "Indian Post shows growth of over 22% in 1st qrt of this fiscal as compared to same period last fiscal",
         "summary": "Union Minister for Communications Jyotiraditya Scindia today chaired the Quarterly Business Review Meeting of the Department of Posts for the 1st Quarter of Financial Year 2026-27. Speaking to the media after the meeting, Mr Scindia said, India Post has recorded tremendous growth this quarter. He said, the total turnover as compared to 1st quarter […]",
@@ -748,8 +682,8 @@ window.VM_NEWS = {
         "date": "2026-07-14",
         "pubDate": "2026-07-14T12:50:22+00:00",
         "link": "https://newsonair.gov.in/indian-post-shows-growth-of-over-22-in-1st-qrt-of-this-fiscal-as-compared-to-same-period-last-fiscal/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Post.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/PIIGS_Mk_4_map.png/1280px-PIIGS_Mk_4_map.png",
+        "image_credit": "Wikimedia Commons (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -759,8 +693,8 @@ window.VM_NEWS = {
         "date": "2026-07-14",
         "pubDate": "2026-07-14T10:51:21+00:00",
         "link": "https://newsonair.gov.in/sensex-nifty-end-in-red/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/SENSEX.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bombay-Stock-Exchange.jpg/1280px-Bombay-Stock-Exchange.jpg",
+        "image_credit": "Wikimedia Commons (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -775,25 +709,69 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India’s Exports Rise 11.37% to Over $232 Billion in April–June",
-        "summary": "India’s total exports during April to June this year is estimated at over 232 billion US dollar registering a positive growth of 11.37 percent as compared to same period last year. Commerce and Industry Ministry said that the total exports for June this year is estimated at 73.45 Billion US dollar, registering a positive growth […]",
-        "article": "India’s total exports during April to June this year is estimated at over 232 billion US dollar registering a positive growth of 11.37 percent as compared to same period last year. Commerce and Industry Ministry said that the total exports for June this year is estimated at 73.45 Billion US dollar, registering a positive growth of 9.48 percent as compared to same month last year. The major drivers of merchandise exports growth in June include Gems and Jewellery, Engineering Goods, Organic and Inorganic Chemicals, Electronic Goods, and Rice. The electronic goods exports increased by around 19 per cent from 4.14 Billion US dollar in June last year to 4.93 Billion US dollar in June this year. The Ministry said, the total imports (Merchandise and Services combined) for June this year is estimated at 88.76 Billion US dollar, registering a positive growth of over 26 percent as compared to same month last year.",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T12:35:52+00:00",
-        "link": "https://newsonair.gov.in/indias-exports-rise-11-37-to-over-232-billion-in-april-june/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/export.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Gold and silver prices decline over week",
         "summary": "In the bullion market, gold and silver prices declined over the week. At the Multi Commodity Exchange, Gold futures for the August contract shed 2.6 per cent during the week to settle at 1,43,478 rupees per 10 grams. Meanwhile, Silver futures for the September contract plunged 6.2 per cent to close at 2,22,664 rupees […]",
         "article": "In the bullion market, gold and silver prices declined over the week. At the Multi Commodity Exchange, Gold futures for the August contract shed 2.6 per cent during the week to settle at 1,43,478 rupees per 10 grams. Meanwhile, Silver futures for the September contract plunged 6.2 per cent to close at 2,22,664 rupees per kilogram. At the Commodity Exchange (COMEX), Gold futures for the August contract dipped 0.3 per cent during the week to settle at 4,113.7 dollars per troy ounce. Silver futures for the September contract dropped nearly one and a half per cent over the week to end at 60.16 dollars per troy ounce.",
         "date": "2026-07-12",
         "pubDate": "2026-07-12T12:12:27+00:00",
         "link": "https://newsonair.gov.in/gold-and-silver-prices-decline-over-week/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/gold-silver.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/1280px-Gold-crystals.jpg",
+        "image_credit": "Wikipedia – Gold (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "CETA marks beginning of new phase of bilateral relations between India-UK: Commerce Secretary",
+        "summary": "Commerce Secretary Rajesh Agrawal has described the India-UK Comprehensive Economic and Trade Agreement (CETA) as a defining milestone in India&#8217;s trade journey, saying it establishes a future-oriented economic partnership between two major economies. Briefing Media in New Delhi today, he said the agreement will come into force tomorrow, marking the beginning of a new […]",
+        "article": "Commerce Secretary Rajesh Agrawal has described the India-UK Comprehensive Economic and Trade Agreement (CETA) as a defining milestone in India&#8217;s trade journey, saying it establishes a future-oriented economic partnership between two major economies. Briefing Media in New Delhi today, he said the agreement will come into force tomorrow, marking the beginning of a new phase in bilateral trade and investment relations between India and the United Kingdom. Mr Agrawal said the agreement is among India&#8217;s most comprehensive trade pacts, offering broad sectoral coverage while reducing tariff and non-tariff barriers. He added that it safeguards the country&#8217;s sensitive sectors, including dairy and agriculture, while expanding market access for Indian goods and services. The Commerce Secretary said the agreement goes beyond conventional trade liberalisation by covering areas such as digital trade, government procurement, innovation, MSMEs, labour and environment. He said the framework is designed to facilitate trade while ensuring that regulatory measures do not become unjustified barriers for businesses. Highlighting the Double Contribution Convention, Mr Agrawal said the arrangement will benefit Indian professionals and their employers by exempting eligible workers on temporary assignments in the UK from paying social security contributions there for the specified period. Further, it will also allow them to continue contributing to India&#8217;s social security system. He said the agreement is expected to create new opportunities for farmers, MSMEs, seafood exporters and labour-intensive sectors. Mr Agrawal added that the government&#8217;s focus will now be on ensuring Indian exporters fully utilise the preferential market access available under the India-UK CETA.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T15:20:23+00:00",
+        "link": "https://newsonair.gov.in/ceta-marks-beginning-of-new-phase-of-bilateral-relations-between-india-uk-commerce-secretary/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Wholesale inflation up to 9.87% in June; food, fuel key drivers",
+        "summary": "India’s Wholesale Price Index (WPI) based inflation rose to 9.87 per cent in June on an annual basis from 9.68 per cent registered in May this year. As per Ministry of Commerce &#38; Industry, Mineral Oils, food Articles, manufacture of basic metals, and manufacture of Chemicals and Chemical Products, have been major drivers of […]",
+        "article": "India’s Wholesale Price Index (WPI) based inflation rose to 9.87 per cent in June on an annual basis from 9.68 per cent registered in May this year. As per Ministry of Commerce & Industry, Mineral Oils, food Articles, manufacture of basic metals, and manufacture of Chemicals and Chemical Products, have been major drivers of WPI inflation last month. Among the major categories, inflation in Primary Articles rose sharply to 7 per cent in June from 4.99 per cent in May. Inflation in Fuel and Power eased to 27.41 per cent from over 30 per cent. Manufactured Products recorded an inflation rate of 7.48 per cent, unchanged from May. The WPI Food Index increased to 6.14 per cent in June as compared to 4.49 per cent in May this year. Output PPI for June stands at 109.9, whereas it was 109.6 in May.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T15:16:49+00:00",
+        "link": "https://newsonair.gov.in/wholesale-inflation-up-to-9-87-in-june-food-fuel-key-drivers/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Govt releases first sub-sectoral Trial Index of Services Production",
+        "summary": "The government today released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. […]",
+        "article": "The government today released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. The Ministry of Statistics and Programme Implementation (MoSPI) described the sub-sectoral ISP as a major milestone in improving the measurement of India’s services sector and strengthening the country’s statistical system. It said the comprehensive overall Index of Services Production will be introduced after evaluating the stability of the trial series and expanding its coverage-the first set of data points to broad-based growth in the services sector. Fourteen of the 19 sub-sectors recorded double-digit growth in April this year compared to the corresponding month last year, while almost all remaining sectors also registered positive growth. The fastest-growing sectors are accommodation and food Services with 37.2 per cent and Retail Trade with 30.8 per cent. MoSPI said the data will be available on e- sankhyiki portal as well. On the occasion, Secretary, MoSPI, Dr Saurabh Garg today said that the launch of the Index marks a significant step in strengthening India&#8217;s statistical system. The Secretary highlighted that the index has been developed entirely using administrative data, including inputs from government ministries and GST records, without imposing any additional compliance burden on industries or businesses. . He also explained that the ISP is an output indicator and should not be equated with the Gross Value Added (GVA) used in GDP estimation. Dr Garg said that the Ministry will continue to seek feedback from stakeholders to strengthen the ISP further and enhance the country&#8217;s statistical ecosystem. Meanwhile, Chief Economic Advisor (CEA) Dr V Anantha Nageswaran emphasised that the release of the index should be viewed as a trial series, not a final or perfect index. He said that releasing it publicly reflects the confidence of the Ministry in the method and a willingness to improve it through scrutiny. He further said that the coverage of the index would expand over time, with the addition of sectors such as health services and ownership of dwelling businesses, which will take the coverage to around 85 to 90 per cent of formal services sector contribution in the economy.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T13:35:40+00:00",
+        "link": "https://newsonair.gov.in/govt-releases-first-sub-sectoral-trial-index-of-services-production/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Direct Tax collection increased by 16.11% for FY 2026-27",
+        "summary": "The Income Tax Department has collected over 7,73,000 crore as direct tax for the financial year 2026-27 so far. It is 16.11 percent higher growth as compared to financial year 2025-2026 during the same period. The collection includes corporate tax of over three lakh 35 thousand crore rupees and a non-corporate tax of four […]",
+        "article": "The Income Tax Department has collected over 7,73,000 crore as direct tax for the financial year 2026-27 so far. It is 16.11 percent higher growth as compared to financial year 2025-2026 during the same period. The collection includes corporate tax of over three lakh 35 thousand crore rupees and a non-corporate tax of four lakh 11 thousand crore rupees. The department has also issued refunds of over 1,22,000 crore rupees. The net direct tax collection has recorded a significant growth of over 16 per cent amounting to more than 6,51,000 crore rupees.",
+        "date": "2026-07-14",
+        "pubDate": "2026-07-14T13:20:43+00:00",
+        "link": "https://newsonair.gov.in/direct-tax-collection-increased-by-16-11-for-fy-2026-27/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India’s Exports Rise 11.37% to Over $232 Billion in April–June",
+        "summary": "India’s total exports during April to June this year is estimated at over 232 billion US dollar registering a positive growth of 11.37 percent as compared to same period last year. Commerce and Industry Ministry said that the total exports for June this year is estimated at 73.45 Billion US dollar, registering a positive growth […]",
+        "article": "India’s total exports during April to June this year is estimated at over 232 billion US dollar registering a positive growth of 11.37 percent as compared to same period last year. Commerce and Industry Ministry said that the total exports for June this year is estimated at 73.45 Billion US dollar, registering a positive growth of 9.48 percent as compared to same month last year. The major drivers of merchandise exports growth in June include Gems and Jewellery, Engineering Goods, Organic and Inorganic Chemicals, Electronic Goods, and Rice. The electronic goods exports increased by around 19 per cent from 4.14 Billion US dollar in June last year to 4.93 Billion US dollar in June this year. The Ministry said, the total imports (Merchandise and Services combined) for June this year is estimated at 88.76 Billion US dollar, registering a positive growth of over 26 percent as compared to same month last year.",
+        "date": "2026-07-13",
+        "pubDate": "2026-07-13T12:35:52+00:00",
+        "link": "https://newsonair.gov.in/indias-exports-rise-11-37-to-over-232-billion-in-april-june/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -803,8 +781,8 @@ window.VM_NEWS = {
         "date": "2026-07-12",
         "pubDate": "2026-07-12T11:36:16+00:00",
         "link": "https://newsonair.gov.in/fpis-turn-net-buyers-of-indian-equities-after-four-months/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/FPI.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -816,41 +794,8 @@ window.VM_NEWS = {
         "date": "2026-06-04",
         "pubDate": "2026-06-04T08:26:03+00:00",
         "link": "https://newsonair.gov.in/veteran-producer-and-former-cbfc-chairperson-pahlaj-nihalani-passes-away/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/pahln.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "150th Shree Baba Harivallabh Sangeet Sammelan Begins in Jalandhar Tomorrow",
-        "summary": "In Punjab, the 150th Shree Baba Harivallabh Sangeet Sammelan, the oldest Hindustani classical music festival in the country, is starting from tomorrow evening at Shree Devi Talab Temple, Jalandhar. The festival is being organised in collaboration with the North Zone Cultural Centre (NZCC), Patiala of the Union Ministry of Culture, Govt. of India and […]",
-        "article": "In Punjab, the 150th Shree Baba Harivallabh Sangeet Sammelan, the oldest Hindustani classical music festival in the country, is starting from tomorrow evening at Shree Devi Talab Temple, Jalandhar. The festival is being organised in collaboration with the North Zone Cultural Centre (NZCC), Patiala of the Union Ministry of Culture, Govt. of India and supported by the state government. The 3-day festival is dedicated to the 350th martyrdom anniversary of Guru Tegh Bahadur Ji and acclaimed Banaras Gharana vocalist Pt Chhannu Lal Mishra, who passed away in October this year. Renowned classical music artists like folk vocalist icon Vidushi Malini Awasthi, Pt Sajan Mishara, his son Swaransh Mishra, Pt Ronu Majumdar, Shashank Subramanyam, Ashwini Bhide, Pt Sanjeev Abhyankar, Pt Shubhendra Rao, Saskia Rao-de-Haas, Ustad Faiyaz Wasifuddin Dagar, Pt Vijay Ghate, V Selvaganesh, Naveen Sharma and Shikharnaad Qureshi, among others, will perform from 26 to 28 December.",
-        "date": "2025-12-25",
-        "pubDate": "2025-12-25T06:41:17+00:00",
-        "link": "https://newsonair.gov.in/150th-shree-baba-harivallabh-sangeet-sammelan-begins-in-jalandhar-tomorrow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/hargobind.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Goa CM Releases Commemorative Stamp Honouring Filmmaker K Vaikunth at IFFI 56",
-        "summary": "Goa Chief Minister Pramod Sawant today released a commemorative stamp in honour of legendary cinematographer and filmmaker K Vaikunth at the 56th International Film Festival of India (IFFI) in Panaji, Goa. Addressing the gathering, Mr Sawant said that the K Vaikunth left a mark on Indian cinema even before Goa used to be associated […]",
-        "article": "Goa Chief Minister Pramod Sawant today released a commemorative stamp in honour of legendary cinematographer and filmmaker K Vaikunth at the 56th International Film Festival of India (IFFI) in Panaji, Goa. Addressing the gathering, Mr Sawant said that the K Vaikunth left a mark on Indian cinema even before Goa used to be associated with movies. The Goa Chief Minister called him the man whose camera shaped the visual language of classic Indian cinema. He added that Mr Vaikunth&#8217;s unique style captured both grand spectacles and soft, subtle human emotions. During the occasion, Mr Vaikunth&#8217;s 1977 documentary &#8211; &#8216;Goa Marches On&#8217; was also screened. In a career spanning more than 5 decades, K Vaikunth worked on more than 35 feature films along with numerous ads and documentaries. He was behind some of the biggest hits, notably, Mere Apne, Bandhan, Mausam, Raaz and Parichay. Mr Vaikunth passed away on 9th February 2003.",
-        "date": "2025-11-27",
-        "pubDate": "2025-11-27T07:31:40+00:00",
-        "link": "https://newsonair.gov.in/goa-cm-releases-commemorative-stamp-honouring-filmmaker-k-vaikunth-at-iffi-56/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/pramod.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Media and Entertainment Sector Among India’s Fastest-Growing Industries",
-        "summary": "India’s Media and Entertainment sector has become one of the country’s fastest-growing industries and is projected to cross one hundred billion US dollars by 2030. Economically, the Media and Entertainment sector contributes significantly to value addition and job creation, with its gross value-added share steadily increasing over the last decade. The country offers a 40 […]",
-        "article": "India’s Media and Entertainment sector has become one of the country’s fastest-growing industries and is projected to cross one hundred billion US dollars by 2030. Economically, the Media and Entertainment sector contributes significantly to value addition and job creation, with its gross value-added share steadily increasing over the last decade. The country offers a 40 to 60 percent cost advantage in animation and VFX services, supported by a large, skilled workforce. The creative economy of the country has entered a transformative phase with the formal recognition of the Animation, Visual Effects, Gaming, Comics and Extended Reality (AVGC-XR) sector as a key driver of growth. The policy journey gained momentum in 2022 with the constitution of the AVGC Promotion Task Force, established to formulate a comprehensive national strategy for nurturing country&#8217;s AVGC-XR ecosystem as a global hub for creative technology and digital content production. The Task Force’s report projected the creation of around 20 lakh direct and indirect jobs in the coming ten years, while estimating that the sector could contribute to India’s GDP through production, exports, and allied services. Complementing national initiatives, several states are advancing the AVGC-XR vision through targeted policies and institutional frameworks. Karnataka has been one of the firsts to implement a dedicated AVGC-XR Policy 2024-2029, focusing on skilling, incubation, and global market competitiveness. Maharashtra has also taken significant steps with the approval of its AVGC-XR Policy 2025 in September this year, backed by a financial plan of more than three thousand 200 crore rupees including a long-term roadmap extending to 2050. The policy seeks to attract investments, create employment opportunities, and strengthen state-level production infrastructure through dedicated clusters and training initiatives. Furthermore, the Indian Institute of Creative Technologies is reshaping creative education through global partnerships with Netflix, Google, Microsoft, NVIDIA and others, building a world-class talent ecosystem. India’s technological evolution in this sector reflects a decade-long progression from experimentation to excellence.",
-        "date": "2025-11-18",
-        "pubDate": "2025-11-18T08:00:22+00:00",
-        "link": "https://newsonair.gov.in/media-and-entertainment-sector-among-indias-fastest-growing-industries/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/media.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sydney_2015_Anzac_Day_march_%2817119683648%29.jpg/1280px-Sydney_2015_Anzac_Day_march_%2817119683648%29.jpg",
+        "image_credit": "Wikipedia – Veteran (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -860,41 +805,8 @@ window.VM_NEWS = {
         "date": "2025-11-18",
         "pubDate": "2025-11-18T06:24:16+00:00",
         "link": "https://newsonair.gov.in/uk-named-country-partner-for-hornbill-festival-2025-in-nagaland/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/hornbill.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Vice-President C.P. Radhakrishnan Urges Media to Be Partners in Nation-Building at Ramoji Excellence Awards 2025",
-        "summary": "Vice-President C.P. Radhakrishnan has urged media houses to become partners in nation-building through their constructive role as the fourth pillar of the democratic system. He emphasised the urgency to check the spread of fake news and misinformation in the digital era. Addressing the inaugural event of Ramoji Excellence Awards-2025 at Ramoji Film City in […]",
-        "article": "Vice-President C.P. Radhakrishnan has urged media houses to become partners in nation-building through their constructive role as the fourth pillar of the democratic system. He emphasised the urgency to check the spread of fake news and misinformation in the digital era. Addressing the inaugural event of Ramoji Excellence Awards-2025 at Ramoji Film City in Hyderabad, the Vice-President lauded the efforts of late media industrialist Ramoji Rao in value-based journalism. He hailed Ramoji Group for instituting the Excellence Awards in his memory. Telangana Chief Minister A. Revanth Reddy termed the Ramoji Film City as the fourth wonder of Hyderabad and said that the State government will extend all support to sustain the legacy of the “Ramoji” brand in various sectors, mainly journalism and the promotion of the state-of-the-art Ramoji Film City, which has emerged as the hub of film-making in the world. Chief Minister of Andhra Pradesh N. Chandrababu Naidu said Ramoji Rao, as a media house owner, championed the people’s issues. Telangana Governor Jishnu Dev Varma, former Vice-President M Venkaiah Naidu, and former Chief Justice of India NV Ramana called Ramoji Rao a true inspiration for generations to come and recalled his services in the field of journalism. The award recipients include Pallabi Ghosh in the Women Achievers category, Sathupati Prasanna Sree in Arts and Culture, Akash Tandon in Service to Humanity, Jaideep Hardikar in Journalism, Madhavi Latha in Science and Technology, Srikanth Bolla in Youth Icon, and Amla Ruia in the Rural Development category. Union Ministers Kishan Reddy, K Ram Mohan Naidu and Ministers of state Bandi Sanjay and others were also present on the occasion.",
-        "date": "2025-11-17",
-        "pubDate": "2025-11-17T04:43:41+00:00",
-        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-urges-media-to-be-partners-in-nation-building-at-ramoji-excellence-awards-2025/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/CP-radha.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Melodies of India Resonate as 67th Akashvani Sangeet Sammelan Begins Nationwide",
-        "summary": "The 67th edition of Akashvani Sangeet Sammelan began today with concerts at Delhi, Mumbai and Chennai. The sammelan is being organised by Prasar Bharati, in collaboration with the Culture Ministry. In the National Capital at Akashvani Rang Bhawan, Flutist Pt. Rakesh Chaurasia and Marathi Folk artist Nandesh Umap and his team performed […]",
-        "article": "The 67th edition of Akashvani Sangeet Sammelan began today with concerts at Delhi, Mumbai and Chennai. The sammelan is being organised by Prasar Bharati, in collaboration with the Culture Ministry. In the National Capital at Akashvani Rang Bhawan, Flutist Pt. Rakesh Chaurasia and Marathi Folk artist Nandesh Umap and his team performed a vibrant program. Prasar Bharati Chairman Navneet Kumar Sehgal and Akashvani Director General Rajiv Kumar Jain also attended the event Akashvani Sangeet Sammelan will be held in 24 cities across the country. During the month-long event, The sangeet sammelan will bring Hindustani, Carnatic, Light and Folk music to audiences from across the country. All concerts are open to the public without any entry fee. Invitation cards can be collected from the respective Akashvani stations on a first-come, first-served basis.",
-        "date": "2025-11-02",
-        "pubDate": "2025-11-02T16:25:04+00:00",
-        "link": "https://newsonair.gov.in/prasar-bharati-and-culture-ministry-launch-month-long-akashvani-sangeet-sammelan-nationwide/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/11/akashvani.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Comedian and Veteran Punjabi Actor Jaswinder Bhalla Passes Away",
-        "summary": "Famous comedian and veteran actor of Punjabi cinema Jaswinder Bhalla died this morning in a private hospital in Mohali. He was 65 years old. According to the information received, his last rites will be performed tomorrow at noon at Balongi crematorium. &#160; Born in Doraha town of Ludhiana, Jaswinder Bhalla obtained an M.Sc. from Punjab […]",
-        "article": "Famous comedian and veteran actor of Punjabi cinema Jaswinder Bhalla died this morning in a private hospital in Mohali. He was 65 years old. According to the information received, his last rites will be performed tomorrow at noon at Balongi crematorium. &nbsp; Born in Doraha town of Ludhiana, Jaswinder Bhalla obtained an M.Sc. from Punjab Agricultural University and a PhD from Chaudhary Charan Singh Post Graduate College, Meerut. Jaswinder Bhalla, who came to the comedy and film world from teaching, left an indelible mark on the entertainment world with his unique comic style and memorable characters in films. &nbsp; He started his career in 1988 and worked in many popular Punjabi films, including Carry On Jatta, Naukar Vohti Da. His film journey started with the film &#8220;Dulla Bhatti&#8221;. He also performed in various programs of Jalandhar Doordarshan at the beginning of his career.",
-        "date": "2025-08-22",
-        "pubDate": "2025-08-22T06:34:48+00:00",
-        "link": "https://newsonair.gov.in/comedian-and-veteran-punjabi-actor-jaswinder-bhalla-passes-away/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/bhalla.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kapamodzu.jpg/1280px-Kapamodzu.jpg",
+        "image_credit": "Wikipedia – Nagaland (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -904,8 +816,74 @@ window.VM_NEWS = {
         "date": "2025-08-21",
         "pubDate": "2025-08-21T05:59:25+00:00",
         "link": "https://newsonair.gov.in/biff-2025-shape-of-momo-to-premiere-in-vision-section-of-asias-biggest-film-festival/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/bfii.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Premiere_at_Chinese_Theater_%283555047236%29.jpg/1280px-Premiere_at_Chinese_Theater_%283555047236%29.jpg",
+        "image_credit": "Wikipedia – Premiere (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "150th Shree Baba Harivallabh Sangeet Sammelan Begins in Jalandhar Tomorrow",
+        "summary": "In Punjab, the 150th Shree Baba Harivallabh Sangeet Sammelan, the oldest Hindustani classical music festival in the country, is starting from tomorrow evening at Shree Devi Talab Temple, Jalandhar. The festival is being organised in collaboration with the North Zone Cultural Centre (NZCC), Patiala of the Union Ministry of Culture, Govt. of India and […]",
+        "article": "In Punjab, the 150th Shree Baba Harivallabh Sangeet Sammelan, the oldest Hindustani classical music festival in the country, is starting from tomorrow evening at Shree Devi Talab Temple, Jalandhar. The festival is being organised in collaboration with the North Zone Cultural Centre (NZCC), Patiala of the Union Ministry of Culture, Govt. of India and supported by the state government. The 3-day festival is dedicated to the 350th martyrdom anniversary of Guru Tegh Bahadur Ji and acclaimed Banaras Gharana vocalist Pt Chhannu Lal Mishra, who passed away in October this year. Renowned classical music artists like folk vocalist icon Vidushi Malini Awasthi, Pt Sajan Mishara, his son Swaransh Mishra, Pt Ronu Majumdar, Shashank Subramanyam, Ashwini Bhide, Pt Sanjeev Abhyankar, Pt Shubhendra Rao, Saskia Rao-de-Haas, Ustad Faiyaz Wasifuddin Dagar, Pt Vijay Ghate, V Selvaganesh, Naveen Sharma and Shikharnaad Qureshi, among others, will perform from 26 to 28 December.",
+        "date": "2025-12-25",
+        "pubDate": "2025-12-25T06:41:17+00:00",
+        "link": "https://newsonair.gov.in/150th-shree-baba-harivallabh-sangeet-sammelan-begins-in-jalandhar-tomorrow/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Goa CM Releases Commemorative Stamp Honouring Filmmaker K Vaikunth at IFFI 56",
+        "summary": "Goa Chief Minister Pramod Sawant today released a commemorative stamp in honour of legendary cinematographer and filmmaker K Vaikunth at the 56th International Film Festival of India (IFFI) in Panaji, Goa. Addressing the gathering, Mr Sawant said that the K Vaikunth left a mark on Indian cinema even before Goa used to be associated […]",
+        "article": "Goa Chief Minister Pramod Sawant today released a commemorative stamp in honour of legendary cinematographer and filmmaker K Vaikunth at the 56th International Film Festival of India (IFFI) in Panaji, Goa. Addressing the gathering, Mr Sawant said that the K Vaikunth left a mark on Indian cinema even before Goa used to be associated with movies. The Goa Chief Minister called him the man whose camera shaped the visual language of classic Indian cinema. He added that Mr Vaikunth&#8217;s unique style captured both grand spectacles and soft, subtle human emotions. During the occasion, Mr Vaikunth&#8217;s 1977 documentary &#8211; &#8216;Goa Marches On&#8217; was also screened. In a career spanning more than 5 decades, K Vaikunth worked on more than 35 feature films along with numerous ads and documentaries. He was behind some of the biggest hits, notably, Mere Apne, Bandhan, Mausam, Raaz and Parichay. Mr Vaikunth passed away on 9th February 2003.",
+        "date": "2025-11-27",
+        "pubDate": "2025-11-27T07:31:40+00:00",
+        "link": "https://newsonair.gov.in/goa-cm-releases-commemorative-stamp-honouring-filmmaker-k-vaikunth-at-iffi-56/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Media and Entertainment Sector Among India’s Fastest-Growing Industries",
+        "summary": "India’s Media and Entertainment sector has become one of the country’s fastest-growing industries and is projected to cross one hundred billion US dollars by 2030. Economically, the Media and Entertainment sector contributes significantly to value addition and job creation, with its gross value-added share steadily increasing over the last decade. The country offers a 40 […]",
+        "article": "India’s Media and Entertainment sector has become one of the country’s fastest-growing industries and is projected to cross one hundred billion US dollars by 2030. Economically, the Media and Entertainment sector contributes significantly to value addition and job creation, with its gross value-added share steadily increasing over the last decade. The country offers a 40 to 60 percent cost advantage in animation and VFX services, supported by a large, skilled workforce. The creative economy of the country has entered a transformative phase with the formal recognition of the Animation, Visual Effects, Gaming, Comics and Extended Reality (AVGC-XR) sector as a key driver of growth. The policy journey gained momentum in 2022 with the constitution of the AVGC Promotion Task Force, established to formulate a comprehensive national strategy for nurturing country&#8217;s AVGC-XR ecosystem as a global hub for creative technology and digital content production. The Task Force’s report projected the creation of around 20 lakh direct and indirect jobs in the coming ten years, while estimating that the sector could contribute to India’s GDP through production, exports, and allied services. Complementing national initiatives, several states are advancing the AVGC-XR vision through targeted policies and institutional frameworks. Karnataka has been one of the firsts to implement a dedicated AVGC-XR Policy 2024-2029, focusing on skilling, incubation, and global market competitiveness. Maharashtra has also taken significant steps with the approval of its AVGC-XR Policy 2025 in September this year, backed by a financial plan of more than three thousand 200 crore rupees including a long-term roadmap extending to 2050. The policy seeks to attract investments, create employment opportunities, and strengthen state-level production infrastructure through dedicated clusters and training initiatives. Furthermore, the Indian Institute of Creative Technologies is reshaping creative education through global partnerships with Netflix, Google, Microsoft, NVIDIA and others, building a world-class talent ecosystem. India’s technological evolution in this sector reflects a decade-long progression from experimentation to excellence.",
+        "date": "2025-11-18",
+        "pubDate": "2025-11-18T08:00:22+00:00",
+        "link": "https://newsonair.gov.in/media-and-entertainment-sector-among-indias-fastest-growing-industries/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Vice-President C.P. Radhakrishnan Urges Media to Be Partners in Nation-Building at Ramoji Excellence Awards 2025",
+        "summary": "Vice-President C.P. Radhakrishnan has urged media houses to become partners in nation-building through their constructive role as the fourth pillar of the democratic system. He emphasised the urgency to check the spread of fake news and misinformation in the digital era. Addressing the inaugural event of Ramoji Excellence Awards-2025 at Ramoji Film City in […]",
+        "article": "Vice-President C.P. Radhakrishnan has urged media houses to become partners in nation-building through their constructive role as the fourth pillar of the democratic system. He emphasised the urgency to check the spread of fake news and misinformation in the digital era. Addressing the inaugural event of Ramoji Excellence Awards-2025 at Ramoji Film City in Hyderabad, the Vice-President lauded the efforts of late media industrialist Ramoji Rao in value-based journalism. He hailed Ramoji Group for instituting the Excellence Awards in his memory. Telangana Chief Minister A. Revanth Reddy termed the Ramoji Film City as the fourth wonder of Hyderabad and said that the State government will extend all support to sustain the legacy of the “Ramoji” brand in various sectors, mainly journalism and the promotion of the state-of-the-art Ramoji Film City, which has emerged as the hub of film-making in the world. Chief Minister of Andhra Pradesh N. Chandrababu Naidu said Ramoji Rao, as a media house owner, championed the people’s issues. Telangana Governor Jishnu Dev Varma, former Vice-President M Venkaiah Naidu, and former Chief Justice of India NV Ramana called Ramoji Rao a true inspiration for generations to come and recalled his services in the field of journalism. The award recipients include Pallabi Ghosh in the Women Achievers category, Sathupati Prasanna Sree in Arts and Culture, Akash Tandon in Service to Humanity, Jaideep Hardikar in Journalism, Madhavi Latha in Science and Technology, Srikanth Bolla in Youth Icon, and Amla Ruia in the Rural Development category. Union Ministers Kishan Reddy, K Ram Mohan Naidu and Ministers of state Bandi Sanjay and others were also present on the occasion.",
+        "date": "2025-11-17",
+        "pubDate": "2025-11-17T04:43:41+00:00",
+        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-urges-media-to-be-partners-in-nation-building-at-ramoji-excellence-awards-2025/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Melodies of India Resonate as 67th Akashvani Sangeet Sammelan Begins Nationwide",
+        "summary": "The 67th edition of Akashvani Sangeet Sammelan began today with concerts at Delhi, Mumbai and Chennai. The sammelan is being organised by Prasar Bharati, in collaboration with the Culture Ministry. In the National Capital at Akashvani Rang Bhawan, Flutist Pt. Rakesh Chaurasia and Marathi Folk artist Nandesh Umap and his team performed […]",
+        "article": "The 67th edition of Akashvani Sangeet Sammelan began today with concerts at Delhi, Mumbai and Chennai. The sammelan is being organised by Prasar Bharati, in collaboration with the Culture Ministry. In the National Capital at Akashvani Rang Bhawan, Flutist Pt. Rakesh Chaurasia and Marathi Folk artist Nandesh Umap and his team performed a vibrant program. Prasar Bharati Chairman Navneet Kumar Sehgal and Akashvani Director General Rajiv Kumar Jain also attended the event Akashvani Sangeet Sammelan will be held in 24 cities across the country. During the month-long event, The sangeet sammelan will bring Hindustani, Carnatic, Light and Folk music to audiences from across the country. All concerts are open to the public without any entry fee. Invitation cards can be collected from the respective Akashvani stations on a first-come, first-served basis.",
+        "date": "2025-11-02",
+        "pubDate": "2025-11-02T16:25:04+00:00",
+        "link": "https://newsonair.gov.in/prasar-bharati-and-culture-ministry-launch-month-long-akashvani-sangeet-sammelan-nationwide/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Comedian and Veteran Punjabi Actor Jaswinder Bhalla Passes Away",
+        "summary": "Famous comedian and veteran actor of Punjabi cinema Jaswinder Bhalla died this morning in a private hospital in Mohali. He was 65 years old. According to the information received, his last rites will be performed tomorrow at noon at Balongi crematorium. &#160; Born in Doraha town of Ludhiana, Jaswinder Bhalla obtained an M.Sc. from Punjab […]",
+        "article": "Famous comedian and veteran actor of Punjabi cinema Jaswinder Bhalla died this morning in a private hospital in Mohali. He was 65 years old. According to the information received, his last rites will be performed tomorrow at noon at Balongi crematorium. &nbsp; Born in Doraha town of Ludhiana, Jaswinder Bhalla obtained an M.Sc. from Punjab Agricultural University and a PhD from Chaudhary Charan Singh Post Graduate College, Meerut. Jaswinder Bhalla, who came to the comedy and film world from teaching, left an indelible mark on the entertainment world with his unique comic style and memorable characters in films. &nbsp; He started his career in 1988 and worked in many popular Punjabi films, including Carry On Jatta, Naukar Vohti Da. His film journey started with the film &#8220;Dulla Bhatti&#8221;. He also performed in various programs of Jalandhar Doordarshan at the beginning of his career.",
+        "date": "2025-08-22",
+        "pubDate": "2025-08-22T06:34:48+00:00",
+        "link": "https://newsonair.gov.in/comedian-and-veteran-punjabi-actor-jaswinder-bhalla-passes-away/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -915,8 +893,8 @@ window.VM_NEWS = {
         "date": "2025-02-17",
         "pubDate": "2025-02-17T02:02:43+00:00",
         "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-strengthens-ties-with-indian-ocean-nations-at-muscat-conference/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/02/cats-476.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -928,52 +906,8 @@ window.VM_NEWS = {
         "date": "2026-03-24",
         "pubDate": "2026-03-24T07:13:43+00:00",
         "link": "https://newsonair.gov.in/health-minister-jp-nadda-urges-citizens-to-eliminate-tb-on-world-tuberculosis-day/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/TB-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India Tightens Surveillance on GLP-1 Weight Loss Drug Sales",
-        "summary": "The Drugs Controller of India has intensified regulatory surveillance against unauthorised sale and promotion of GLP-1 based Weight Loss Drugs. The move comes amid growing concerns over the increasing availability of multiple generic variants of these drugs in the Indian market, through retail pharmacies, online platforms, wholesalers, and wellness clinics. The Ministry of Health […]",
-        "article": "The Drugs Controller of India has intensified regulatory surveillance against unauthorised sale and promotion of GLP-1 based Weight Loss Drugs. The move comes amid growing concerns over the increasing availability of multiple generic variants of these drugs in the Indian market, through retail pharmacies, online platforms, wholesalers, and wellness clinics. The Ministry of Health and Family Welfare said that these drugs, when used without proper medical supervision, may lead to serious adverse effects and related health risks. Taking cognisance of the situation, India’s Drugs Controller, in collaboration with State Regulators, has initiated a series of targeted actions to curb possible malpractices across the pharmaceutical supply chain and prevent unauthorised sales and use. The Ministry noted that an advisory was issued on the 10th of this month, directing manufacturers to avoid surrogate advertisements and any form of indirect promotion that could mislead consumers or encourage off-label usage. It added that regulatory surveillance will continue to be intensified in the coming weeks, and non-compliances will be dealt with strictly, with actions including cancellation of licences, penalties, and prosecution under applicable laws. The Health Ministry advised the citizens to use such medications only under the guidance of qualified medical practitioners. The Ministry said the drug has been approved in the country with the condition of a prescription by Endocrinologists and Internal Medicine Specialists, and for some indications, by Cardiologists only.",
-        "date": "2026-03-24",
-        "pubDate": "2026-03-24T06:13:25+00:00",
-        "link": "https://newsonair.gov.in/india-tightens-surveillance-on-glp-1-weight-loss-drug-sales/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/wei.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "VP Radhakrishnan says Drug-free youth key to Viksit Bharat vision",
-        "summary": "Vice President CP Radhakrishnan today said that the vision of a Viksit Bharat can only be realised when the youth of the country is drug-free, healthy and purpose-driven. Mr Radhakrishnan said this while addressing Delhi University&#8217;s Drug Free Campus Campaign in the National Capital. On the occasion, Mr Radhakrishnan also launched a dedicated e-pledge platform […]",
-        "article": "Vice President CP Radhakrishnan today said that the vision of a Viksit Bharat can only be realised when the youth of the country is drug-free, healthy and purpose-driven. Mr Radhakrishnan said this while addressing Delhi University&#8217;s Drug Free Campus Campaign in the National Capital. On the occasion, Mr Radhakrishnan also launched a dedicated e-pledge platform and Mobile App for Drug-Free Campuses. The Vice President said that the campaign aligns strongly with the government’s Nasha Mukt Bharat Abhiyan. He underlined that substance abuse is a social challenge, a public health concern and a threat to the country’s demographic dividend. Mr Radhakrishnan also urged the students to actively participate and take the pledge for a drug-free campus. Mr Radhakrishnan highlighted that it is the need of the hour for everyone to keep themselves away from drugs. He also stressed the need to rise against drug abuse and spread awareness amongst everyone against the use of drugs. Mr Radhakrishnan said that drugs also spoil the physical and mental health of people. The Vice President also asserted that the youth are the greatest asset of the country and their talent, innovation and productivity form the backbone of the nation&#8217;s economic growth. He added that a drug-free youth is better equipped to acquire skills and foster entrepreneurship, which strengthens the economic progress of the nation. Mr Radhakrishnan said that drug terrorism is closely linked to narco-terrorism. He said that this business happens at the cost of humanity, and everyone must rise against the drug mafia. Speaking on the occasion, Education Minister Dharmendra Pradhan emphasised that the Drug Free Campus Campaign is aligned with the National Education Policy 2020. He also underscored the need for teachers and administrators to create a campus culture which prioritises student well-being.",
-        "date": "2026-01-13",
-        "pubDate": "2026-01-13T11:18:49+00:00",
-        "link": "https://newsonair.gov.in/vp-radhakrishnan-urges-youth-to-be-drug-free-for-a-viksit-bharat/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/vp-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "West Bengal reports two suspected Nipah cases; centre sends response team",
-        "summary": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry […]",
-        "article": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry of Health and Family Welfare has shared a video in which Union Health Minister Jagat Prakash Nadda said the Central government firmly stands with the State government, and it is providing comprehensive technical, logistical and operational support to the State Government for the effective management and prevention of the outbreak. He added that upon receipt of information, the Secretary, Health and Family Welfare, immediately held discussions with the Chief Secretary and Principal Secretary, Health of West Bengal, to review the situation. Mr Nadda said he had also spoken to the West Bengal Chief Minister, Mamata Banerjee and emphasised for Centre- State co-ordination in this direction. Meanwhile, our Kolkata Correspondent reports the West Bengal government has implemented comprehensive precautionary measures to contain the spread of the virus, including two healthcare workers at a private hospital in Barasat, North 24 Parganas. State&#8217;s Chief Secretary, Nandini Chakraborty, convened an emergency meeting at Nabanna with the state&#8217;s Health Secretary and other senior officials to review the situation. Briefing the press, she confirmed that both patients are currently undergoing treatment, with a specialized medical team monitoring their condition. Preliminary investigations suggest the individuals contracted the virus during a work-related visit to Purba Bardhaman. Consequently, surveillance has been intensified across Purba Bardhaman, North 24 Parganas, and Nadia districts, while authorities are actively tracing high-risk contacts. To assist citizens, the State government has launched two helpline numbers: 033 2333-0180 and 9874708858. &nbsp;",
-        "date": "2026-01-13",
-        "pubDate": "2026-01-13T03:53:37+00:00",
-        "link": "https://newsonair.gov.in/west-bengal-reports-two-suspected-nipah-cases-centre-sends-response-team/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/09/nipha.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Wild Poliovirus Detected in Sewage Samples Across 42 Sites in Pakistan",
-        "summary": "Wild poliovirus type 1 (WPV1) has been detected in sewage samples from 42 sites across Pakistan. The health officials reported that out of 127 samples collected from 87 districts in July, 42 tested positive, 75 were negative, and 10 are under process. The findings follow three new polio cases reported earlier this month, raising Pakistan&#8217;s […]",
-        "article": "Wild poliovirus type 1 (WPV1) has been detected in sewage samples from 42 sites across Pakistan. The health officials reported that out of 127 samples collected from 87 districts in July, 42 tested positive, 75 were negative, and 10 are under process. The findings follow three new polio cases reported earlier this month, raising Pakistan&#8217;s 2025 total to 17 cases, 10 from Khyber Pakhtunkhwa, five from Sindh, and one each from Punjab and Gilgit-Baltistan.",
-        "date": "2025-08-13",
-        "pubDate": "2025-08-13T11:11:04+00:00",
-        "link": "https://newsonair.gov.in/wild-poliovirus-detected-in-sewage-samples-across-42-sites-in-pakistan/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/PPPPP.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/World_Tuberculosis_Day_%287020132217%29.jpg/1280px-World_Tuberculosis_Day_%287020132217%29.jpg",
+        "image_credit": "Wikipedia – World Tuberculosis Day (CC BY-SA)",
         "source": "Prasar Bharati"
       },
       {
@@ -983,8 +917,52 @@ window.VM_NEWS = {
         "date": "2025-08-05",
         "pubDate": "2025-08-05T12:03:13+00:00",
         "link": "https://newsonair.gov.in/chikungunya-outbreak-in-china-over-7000-cases-emerge-in-guangdong/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/chikungunya.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg/1280px-China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg",
+        "image_credit": "Wikipedia – Guangdong (CC BY-SA)",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India Tightens Surveillance on GLP-1 Weight Loss Drug Sales",
+        "summary": "The Drugs Controller of India has intensified regulatory surveillance against unauthorised sale and promotion of GLP-1 based Weight Loss Drugs. The move comes amid growing concerns over the increasing availability of multiple generic variants of these drugs in the Indian market, through retail pharmacies, online platforms, wholesalers, and wellness clinics. The Ministry of Health […]",
+        "article": "The Drugs Controller of India has intensified regulatory surveillance against unauthorised sale and promotion of GLP-1 based Weight Loss Drugs. The move comes amid growing concerns over the increasing availability of multiple generic variants of these drugs in the Indian market, through retail pharmacies, online platforms, wholesalers, and wellness clinics. The Ministry of Health and Family Welfare said that these drugs, when used without proper medical supervision, may lead to serious adverse effects and related health risks. Taking cognisance of the situation, India’s Drugs Controller, in collaboration with State Regulators, has initiated a series of targeted actions to curb possible malpractices across the pharmaceutical supply chain and prevent unauthorised sales and use. The Ministry noted that an advisory was issued on the 10th of this month, directing manufacturers to avoid surrogate advertisements and any form of indirect promotion that could mislead consumers or encourage off-label usage. It added that regulatory surveillance will continue to be intensified in the coming weeks, and non-compliances will be dealt with strictly, with actions including cancellation of licences, penalties, and prosecution under applicable laws. The Health Ministry advised the citizens to use such medications only under the guidance of qualified medical practitioners. The Ministry said the drug has been approved in the country with the condition of a prescription by Endocrinologists and Internal Medicine Specialists, and for some indications, by Cardiologists only.",
+        "date": "2026-03-24",
+        "pubDate": "2026-03-24T06:13:25+00:00",
+        "link": "https://newsonair.gov.in/india-tightens-surveillance-on-glp-1-weight-loss-drug-sales/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "VP Radhakrishnan says Drug-free youth key to Viksit Bharat vision",
+        "summary": "Vice President CP Radhakrishnan today said that the vision of a Viksit Bharat can only be realised when the youth of the country is drug-free, healthy and purpose-driven. Mr Radhakrishnan said this while addressing Delhi University&#8217;s Drug Free Campus Campaign in the National Capital. On the occasion, Mr Radhakrishnan also launched a dedicated e-pledge platform […]",
+        "article": "Vice President CP Radhakrishnan today said that the vision of a Viksit Bharat can only be realised when the youth of the country is drug-free, healthy and purpose-driven. Mr Radhakrishnan said this while addressing Delhi University&#8217;s Drug Free Campus Campaign in the National Capital. On the occasion, Mr Radhakrishnan also launched a dedicated e-pledge platform and Mobile App for Drug-Free Campuses. The Vice President said that the campaign aligns strongly with the government’s Nasha Mukt Bharat Abhiyan. He underlined that substance abuse is a social challenge, a public health concern and a threat to the country’s demographic dividend. Mr Radhakrishnan also urged the students to actively participate and take the pledge for a drug-free campus. Mr Radhakrishnan highlighted that it is the need of the hour for everyone to keep themselves away from drugs. He also stressed the need to rise against drug abuse and spread awareness amongst everyone against the use of drugs. Mr Radhakrishnan said that drugs also spoil the physical and mental health of people. The Vice President also asserted that the youth are the greatest asset of the country and their talent, innovation and productivity form the backbone of the nation&#8217;s economic growth. He added that a drug-free youth is better equipped to acquire skills and foster entrepreneurship, which strengthens the economic progress of the nation. Mr Radhakrishnan said that drug terrorism is closely linked to narco-terrorism. He said that this business happens at the cost of humanity, and everyone must rise against the drug mafia. Speaking on the occasion, Education Minister Dharmendra Pradhan emphasised that the Drug Free Campus Campaign is aligned with the National Education Policy 2020. He also underscored the need for teachers and administrators to create a campus culture which prioritises student well-being.",
+        "date": "2026-01-13",
+        "pubDate": "2026-01-13T11:18:49+00:00",
+        "link": "https://newsonair.gov.in/vp-radhakrishnan-urges-youth-to-be-drug-free-for-a-viksit-bharat/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "West Bengal reports two suspected Nipah cases; centre sends response team",
+        "summary": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry […]",
+        "article": "The Centre has deployed a National Joint Outbreak Response Team to assist the State for effective containment after two suspected cases of Nipah virus were identified in West Bengal. These suspected cases were identified on Sunday at the Virus Research and Diagnostic Laboratory of the Indian Council of Medical Research in AIIMS Kalyani. The Ministry of Health and Family Welfare has shared a video in which Union Health Minister Jagat Prakash Nadda said the Central government firmly stands with the State government, and it is providing comprehensive technical, logistical and operational support to the State Government for the effective management and prevention of the outbreak. He added that upon receipt of information, the Secretary, Health and Family Welfare, immediately held discussions with the Chief Secretary and Principal Secretary, Health of West Bengal, to review the situation. Mr Nadda said he had also spoken to the West Bengal Chief Minister, Mamata Banerjee and emphasised for Centre- State co-ordination in this direction. Meanwhile, our Kolkata Correspondent reports the West Bengal government has implemented comprehensive precautionary measures to contain the spread of the virus, including two healthcare workers at a private hospital in Barasat, North 24 Parganas. State&#8217;s Chief Secretary, Nandini Chakraborty, convened an emergency meeting at Nabanna with the state&#8217;s Health Secretary and other senior officials to review the situation. Briefing the press, she confirmed that both patients are currently undergoing treatment, with a specialized medical team monitoring their condition. Preliminary investigations suggest the individuals contracted the virus during a work-related visit to Purba Bardhaman. Consequently, surveillance has been intensified across Purba Bardhaman, North 24 Parganas, and Nadia districts, while authorities are actively tracing high-risk contacts. To assist citizens, the State government has launched two helpline numbers: 033 2333-0180 and 9874708858. &nbsp;",
+        "date": "2026-01-13",
+        "pubDate": "2026-01-13T03:53:37+00:00",
+        "link": "https://newsonair.gov.in/west-bengal-reports-two-suspected-nipah-cases-centre-sends-response-team/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Wild Poliovirus Detected in Sewage Samples Across 42 Sites in Pakistan",
+        "summary": "Wild poliovirus type 1 (WPV1) has been detected in sewage samples from 42 sites across Pakistan. The health officials reported that out of 127 samples collected from 87 districts in July, 42 tested positive, 75 were negative, and 10 are under process. The findings follow three new polio cases reported earlier this month, raising Pakistan&#8217;s […]",
+        "article": "Wild poliovirus type 1 (WPV1) has been detected in sewage samples from 42 sites across Pakistan. The health officials reported that out of 127 samples collected from 87 districts in July, 42 tested positive, 75 were negative, and 10 are under process. The findings follow three new polio cases reported earlier this month, raising Pakistan&#8217;s 2025 total to 17 cases, 10 from Khyber Pakhtunkhwa, five from Sindh, and one each from Punjab and Gilgit-Baltistan.",
+        "date": "2025-08-13",
+        "pubDate": "2025-08-13T11:11:04+00:00",
+        "link": "https://newsonair.gov.in/wild-poliovirus-detected-in-sewage-samples-across-42-sites-in-pakistan/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -994,8 +972,8 @@ window.VM_NEWS = {
         "date": "2025-08-05",
         "pubDate": "2025-08-05T02:16:32+00:00",
         "link": "https://newsonair.gov.in/pm-matru-vandana-yojana-registration-drive-extended-till-august-15/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/08/pradhanmantri-matri-vandana-yojana-pmmvy.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1005,8 +983,8 @@ window.VM_NEWS = {
         "date": "2025-07-28",
         "pubDate": "2025-07-28T03:24:29+00:00",
         "link": "https://newsonair.gov.in/vaccines-prevented-over-2-5-million-covid-deaths-worldwide-study/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/07/ffd.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1016,8 +994,8 @@ window.VM_NEWS = {
         "date": "2025-07-14",
         "pubDate": "2025-07-14T11:41:18+00:00",
         "link": "https://newsonair.gov.in/world-embracing-ayurvedas-science-and-potential-ayush-minister/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/Pratap-Rao-Jadhav-1-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ]
@@ -1025,6 +1003,72 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "होर्मुज़ जलडमरूमध्य में जहाज़ों पर हमलों के बाद अमरीका ने ईरानी बंदरगाहों पर नाकेबंदी लागू की",
+        "summary": "होर्मुज़ जलडमरूमध्य से गुज़रने वाले कमर्शियल जहाज़ों पर तेहरान के हालिया हमलों के जवाब में अमरीका ने ईरानी बंदरगाहों की नाकेबंदी फिर से शुरू कर दी है। एक टीवी न्यूज़ चैनल को दिए साक्षात्कार में अमरीका के राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि अगर लोग होर्मुज़ से गुज़रना चाहते हैं तो यह रास्ता खुला है, […]",
+        "article": "होर्मुज़ जलडमरूमध्य से गुज़रने वाले कमर्शियल जहाज़ों पर तेहरान के हालिया हमलों के जवाब में अमरीका ने ईरानी बंदरगाहों की नाकेबंदी फिर से शुरू कर दी है। एक टीवी न्यूज़ चैनल को दिए साक्षात्कार में अमरीका के राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि अगर लोग होर्मुज़ से गुज़रना चाहते हैं तो यह रास्ता खुला है, लेकिन ईरान के लिए नहीं। श्री ट्रंप ने तेहरान को चेतावनी भी दी कि अमरीका आज रात ईरान पर हमला करने वाला है और इन हमलों की तीव्रता हर अगली रात के साथ बढ़ती जाएगी। उन्होंने कहा कि जब तक ईरान बातचीत पर नहीं आता, तब तक अमरीका उसके सभी बिजली संयंत्रों और पुलों को निशाना बनाएगा। श्री ट्रंप ने आरोप लगाया है कि तेहरान जो कुछ भी कहता है वह झूठ है क्योंकि वे हमेशा से परमाणु हथियार चाहते थे। उन्होंने यह भी कहा कि ईरान हर बार समझौता तोड़ता है। उन्होंने ईरानी सरकार के नेताओं को संदेश दिया कि उनके पास अब बस एक ही विकल्प बचा है या तो वे समझौता कर लें या फिर उनका कोई नामो-निशान नहीं बचेगा। इस बीच, ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स-आईआरजीसी ने बड़े पैमाने पर हमले करते हुए बहरीन में हथियारों और भंडारण केंद्रों को निशाना बनाया। आईआरजीसी ने एक बयान में कहा कि बहरीन के शेख ईसा बेस पर एक साथ मिसाइल और ड्रोन ऑपरेशन के दौरान हथियारों और पुर्ज़ों के कई स्टोरेज शेड नष्ट कर दिए गए। आईआरजीसी ने यह भी दावा किया कि उसने कुवैत के अली सलेम एयर बेस पर तैनात एमक्यू-9 ड्रोन के रैम्प पर हमला कर कई ड्रोन नष्ट किए।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:33:07+00:00",
+        "link": "https://newsonair.gov.in/hi/us-iran-blockade/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सुप्रीम कोर्ट ने समय रैना, रणवीर इलाहाबादिया और आशीष चंचलानी को लगाई फटकार",
+        "summary": "सर्वोच्‍च न्‍यायालय ने कल कॉमेडियन समय रैना और यूट्यूबर रणवीर इलाहाबादिया और आशीष चंचलानी को अदालत के आदेश का पालन न करने के लिए फटकार लगाई और कहा कि वे स्‍वयं को युवाओं का आदर्श मानते हैं। न्‍यायमूर्ति सूर्यकांत और न्‍यायाधीश जॉयमाल्य बागची और वी मोहना की पीठ ने यह आदेश उस समय पारित किया […]",
+        "article": "सर्वोच्&#x200d;च न्&#x200d;यायालय ने कल कॉमेडियन समय रैना और यूट्यूबर रणवीर इलाहाबादिया और आशीष चंचलानी को अदालत के आदेश का पालन न करने के लिए फटकार लगाई और कहा कि वे स्&#x200d;वयं को युवाओं का आदर्श मानते हैं। न्&#x200d;यायमूर्ति सूर्यकांत और न्&#x200d;यायाधीश जॉयमाल्य बागची और वी मोहना की पीठ ने यह आदेश उस समय पारित किया जब उन्हें बताया गया कि रैना ने अपने पहले के आदेश के अनुसार किसी भी दिव्यांग व्यक्ति को अपने शो में आमंत्रित नहीं किया था। पीठ ने कहा कि उन्हें इस बात पर संदेह करने की कोई वजह नहीं है कि समय रैना ने अदालत को गुमराह किया है और अदालत के समक्ष दिए गए बयानों और वचनों का खुलेआम उल्लंघन किया है। सर्वोच्&#x200d;च न्&#x200d;यायालय क्योर एसएमए इंडिया फाउंडेशन द्वारा दायर एक याचिका पर सुनवाई कर रहा था, जिसमें आरोप लगाया गया था कि रैना ने स्पाइनल मस्कुलर एट्रोफी के इलाज की उच्च लागत पर असंवेदनशील टिप्पणी की और कथित तौर पर एक दिव्यांग व्यक्ति का मजाक उड़ाया। याचिका में &#8220;इंडियाज़ गॉट लेटेंट&#8221; के होस्ट समय रैना और अन्य सोशल मीडिया पर प्रभावशाली लोगों विपुन गोयल, बलराज परमजीत सिंह घई, सोनाली ठक्कर और निशांत जगदीश तंवर द्वारा बनाए गए चुटकुलों को चिह्नित किया गया था।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:21:00+00:00",
+        "link": "https://newsonair.gov.in/hi/sc-ranveer-case/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/sc.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत में 24 परमाणु ऊर्जा रिएक्टर चालू, 10 नए रिएक्टरों का निर्माण जारी",
+        "summary": "भारत वर्तमान में सात स्थानों पर 8.78 गीगावाट की कुल स्थापित क्षमता वाले 24 परमाणु ऊर्जा रिएक्टरों का संचालन कर रहा है। इसके अलावा, 8 हजार मेगावाट की संयुक्त क्षमता वाली दस और रिएक्टर इकाइयां निर्माणाधीन हैं। इनमें रिएक्टर प्रेशराइज्ड हेवी वाटर रिएक्टर, बॉइलिंग वाटर रिएक्टर और लाइट वाटर रिएक्टर शामिल हैं। देश मुख्य रूप […]",
+        "article": "भारत वर्तमान में सात स्थानों पर 8.78 गीगावाट की कुल स्थापित क्षमता वाले 24 परमाणु ऊर्जा रिएक्टरों का संचालन कर रहा है। इसके अलावा, 8 हजार मेगावाट की संयुक्त क्षमता वाली दस और रिएक्टर इकाइयां निर्माणाधीन हैं। इनमें रिएक्टर प्रेशराइज्ड हेवी वाटर रिएक्टर, बॉइलिंग वाटर रिएक्टर और लाइट वाटर रिएक्टर शामिल हैं। देश मुख्य रूप से प्रेशराइज्ड हेवी वाटर रिएक्टरों को चलाने और परमाणु ऊर्जा उत्पादन के लिए प्राकृतिक यूरेनियम ईंधन का उपयोग कर रहा है। सरकार ने कहा कि भारत ऊर्जा सुरक्षा को मजबूत करने और स्वच्छ आर्थिक विकास को बढ़ावा देने के लिए अपने परमाणु ऊर्जा कार्यक्रम का लगातार विस्तार कर रहा है। पिछले सप्ताह मेलबर्न में आयोजित तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन का एक प्रमुख परिणाम भारत-ऑस्ट्रेलिया नागरिक परमाणु सहयोग समझौते के अंतर्गत प्रशासनिक व्यवस्था को अंतिम रूप देना था। यह शांतिपूर्ण उद्देश्यों के लिए ऑस्ट्रेलिया से भारत को दीर्घकालिक यूरेनियम निर्यात का रास्ता साफ हुआ है। ऑस्ट्रेलिया का यूरेनियम इन परमाणु ऊर्जा रिएक्टरों को चलाने के लिए प्राथमिक ईंधन की निरंतर आपूर्ति सुनिश्चित करेगा।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T01:07:10+00:00",
+        "link": "https://newsonair.gov.in/hi/nuclear-reactors-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNM9u4lbEAA0AIb.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने देश का पहला सेवा उत्पादन सूचकांक जारी किया",
+        "summary": "सरकार ने देश का पहला सेवा उत्पादन सूचकांक-आईएसपी का पहला प्रायोगिक सूचकांक जारी किया। इससे पहली बार औपचारिक सेवा क्षेत्र की गतिविधियों का मासिक आकलन उपलब्ध होगा। वर्ष 2024-25 को आधार वर्ष मानकर तैयार किया गया यह पहला सूचकांक अप्रैल 2026 का है। इसमें सेवा क्षेत्र के 19 उप-क्षेत्र शामिल हैं, जो भारत के लगभग […]",
+        "article": "सरकार ने देश का पहला सेवा उत्पादन सूचकांक-आईएसपी का पहला प्रायोगिक सूचकांक जारी किया। इससे पहली बार औपचारिक सेवा क्षेत्र की गतिविधियों का मासिक आकलन उपलब्ध होगा। वर्ष 2024-25 को आधार वर्ष मानकर तैयार किया गया यह पहला सूचकांक अप्रैल 2026 का है। इसमें सेवा क्षेत्र के 19 उप-क्षेत्र शामिल हैं, जो भारत के लगभग 60 प्रतिशत सेवा क्षेत्र का प्रतिनिधित्व करते हैं। सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय &#8211; एमओएसपीआई ने इसे देश के सेवा क्षेत्र के बेहतर आकलन और सांख्यिकीय प्रणाली को मजबूत बनाने की दिशा में महत्वपूर्ण कदम बताया है। मंत्रालय ने कहा कि परीक्षण श्रृंखला की समीक्षा और दायरा बढ़ाने के बाद सेवा उत्पादन का समग्र सूचकांक जारी किया जाएगा। अप्रैल के आंकड़ों के अनुसार, सेवा क्षेत्र में व्यापक वृद्धि दर्ज की गई है। 19 में से 14 उप-क्षेत्रों में पिछले वर्ष के अप्रैल की तुलना में दो अंकों की वृद्धि दर्ज हुई, जबकि लगभग सभी अन्य क्षेत्रों में भी सकारात्मक वृद्धि रही। एमओएसपीआई के अनुसार, सेवा उत्पादन सूचकांक में सबसे तेज़ वृद्धि आवास और भोजन सेवाओं में 37.2 प्रतिशत और खुदरा व्यापार में 30.8 प्रतिशत दर्ज की गई है। मंत्रालय ने बताया कि यह आंकड़े ई-सांख्यिकी पोर्टल पर भी उपलब्ध होंगे। इस अवसर पर मंत्रालय के सचिव डॉ. सौरभ गर्ग ने कहा कि सेवा उत्पादन सूचकांक की शुरुआत भारत की सांख्यिकीय प्रणाली को मजबूत बनाने की दिशा में एक महत्वपूर्ण कदम है। उन्होंने बताया कि यह सूचकांक पूरी तरह प्रशासनिक आंकड़ों, सरकारी मंत्रालयों से प्राप्त सूचनाओं और जीएसटी रिकॉर्ड के आधार पर तैयार किया गया है। इसके लिए उद्योगों और कारोबारों पर कोई अतिरिक्त अनुपालन बोझ नहीं डाला गया है। डॉ. गर्ग ने स्पष्ट किया कि यह सूचकांक उत्पादन का संकेतक है और इसे सकल मूल्य वर्धन- जीवीए, जिसका उपयोग जीडीपी के आकलन में किया जाता है, के बराबर नहीं माना जाना चाहिए। उन्होंने कहा कि मंत्रालय हितधारकों से सुझाव लेकर इस सूचकांक को और बेहतर बनाएगा। इस बीच, मुख्य आर्थिक सलाहकार डॉ. वी. अनंत नागेश्वरन ने कहा कि इसे परीक्षण श्रृंखला के रूप में देखा जाना चाहिए, न कि अंतिम और पूर्ण सूचकांक के रूप में। उन्होंने कहा कि इसे सार्वजनिक करना मंत्रालय के इस विश्वास को दर्शाता है कि इसकी कार्यप्रणाली मजबूत है और सुझावों के आधार पर इसे और बेहतर बनाया जाएगा। उन्होंने बताया कि भविष्य में स्वास्थ्य सेवाओं और आवास स्वामित्व जैसे क्षेत्रों को भी इसमें शामिल किया जाएगा। इससे औपचारिक सेवा क्षेत्र के लगभग 85 से 90 प्रतिशत हिस्से को इस सूचकांक के दायरे में लाया जा सकेगा।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:49:47+00:00",
+        "link": "https://newsonair.gov.in/hi/govt-releases-first-sub-sectoral-trial-index-of-services-production/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/production-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत-मालदीव मुक्त व्यापार समझौते पर वार्ता का पहला दौर सफलतापूर्वक संपन्न",
+        "summary": "भारत-मालदीव मुक्त व्यापार समझौते के लिए वार्ता का पहला दौर सफलतापूर्वक संपन्न हो गया है। यह द्विपक्षीय व्यापार और निवेश संबंधों को विस्तार देने की दिशा में एक महत्वपूर्ण कदम है। वार्ता पिछले सप्ताह वर्चुअल माध्यम से आयोजित की गई थी। वाणिज्य और उद्योग मंत्रालय ने कहा कि इस दौरान दोनों पक्षों ने सभी पहलुओं […]",
+        "article": "भारत-मालदीव मुक्त व्यापार समझौते के लिए वार्ता का पहला दौर सफलतापूर्वक संपन्न हो गया है। यह द्विपक्षीय व्यापार और निवेश संबंधों को विस्तार देने की दिशा में एक महत्वपूर्ण कदम है। वार्ता पिछले सप्ताह वर्चुअल माध्यम से आयोजित की गई थी। वाणिज्य और उद्योग मंत्रालय ने कहा कि इस दौरान दोनों पक्षों ने सभी पहलुओं पर ठोस प्रगति की और कई मुद्दों पर व्यापक सहमति बनी। भारत मालदीव का दूसरा सबसे बड़ा व्यापारिक साझेदार है। दोनों देशों के बीच द्विपक्षीय व्यापार वर्ष 2025-26 में 771 मिलियन डॉलर से अधिक का था। वर्ष 2024-25 में यह 679 मिलियन डॉलर था। इसमें साढ़े 13 प्रतिशत से अधिक की बढ़ोतरी हुई है। प्रस्तावित समझौते से बाजार पहुंच बढ़ाकर, निवेश को सुगम बनाकर, अधिक आर्थिक सहयोग को बढ़ावा देकर और दोनों देशों में सतत आर्थिक विकास में योगदान देकर द्विपक्षीय आर्थिक और व्यापारिक संबंधों को और मजबूत करने की उम्मीद है।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:45:41+00:00",
+        "link": "https://newsonair.gov.in/hi/first-round-of-talks-on-the-india-maldives-free-trade-agreement-successfully-concluded/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/India-maldives-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत और ब्रिटेन के बीच व्यापक आर्थिक और व्यापार समझौता-सीईटीए आज से हुआ लागू",
+        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्‍यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को […]",
+        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्&#x200d;यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाजार में 99 प्रतिशत टैरिफ लाइनों पर शून्य शुल्क की सुविधा प्राप्त होगी। यह समझौता भारत और ब्रिटेन की अपनी रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। कल नई दिल्ली में मीडिया को संबोधित करते हुए वाणिज्य सचिव राजेश अग्रवाल ने भारत-ब्रिटेन व्यापक आर्थिक एवं व्यापार समझौते को भारत की व्यापारिक यात्रा में एक महत्वपूर्ण मील का पत्थर बताया और कहा कि यह दो प्रमुख अर्थव्यवस्थाओं के बीच भविष्&#x200d;य के लिए आर्थिक साझेदारी स्थापित करता है। उन्होंने कहा कि यह समझौता भारत और ब्रिटेन के बीच द्विपक्षीय व्यापार और निवेश संबंधों में एक नए चरण की शुरुआत करेगा। श्री अग्रवाल ने कहा कि यह समझौता भारत के सबसे व्यापक व्यापार समझौतों में से एक है, जो व्यापक क्षेत्रीय सूचना प्रदान करता है और साथ ही शुल्क एवं शुल्क रहि&#x200d;त बाधाओं को कम करता है। दोहरे अंशदान सम्मेलन पर प्रकाश डालते हुए, श्री अग्रवाल ने कहा कि यह व्यवस्था ब्रिटेन में अस्थाई तौर पर कार्यरत पात्र श्रमिकों को निर्दिष्ट अवधि के लिए सामाजिक सुरक्षा अंशदान का भुगतान करने से छूट देकर भारतीय पेशेवरों और उनके नियोक्ताओं को लाभ पहुंचाएगी। भारत-ब्रिटेन सीईटीए और डीसीसी का लागू होना वैश्विक स्तर पर एकीकृत, लचीली और प्रतिस्पर्धी अर्थव्यवस्था बनने की दिशा में भारत की यात्रा में एक महत्वपूर्ण कदम है।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:42:29+00:00",
+        "link": "https://newsonair.gov.in/hi/ceta-marks-beginning-of-new-phase-of-bilateral-relations-between-india-uk-commerce-secretary/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Rajesh-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "भारत ने होर्मुज जलडमरूमध्य से सुरक्षित और निर्बाध नौवहन और व्यापार जारी रखने का किया आह्वान",
         "summary": "भारत पश्चिम एशिया के घटनाक्रमों पर करीबी नजर रखे हुए है। भारत ने एक बार फिर होर्मुज जलडमरूमध्य से सुरक्षित और निर्बाध नौवहन और व्यापार जारी रखने का आह्वान किया है। विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने नई दिल्‍ली में कहा कि यह विश्वभर के लोगों की आर्थिक और ऊर्जा सुरक्षा सुनिश्चित करने के […]",
         "article": "भारत पश्चिम एशिया के घटनाक्रमों पर करीबी नजर रखे हुए है। भारत ने एक बार फिर होर्मुज जलडमरूमध्य से सुरक्षित और निर्बाध नौवहन और व्यापार जारी रखने का आह्वान किया है। विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने नई दिल्&#x200d;ली में कहा कि यह विश्वभर के लोगों की आर्थिक और ऊर्जा सुरक्षा सुनिश्चित करने के लिए अत्यंत महत्वपूर्ण है। उन्होंने कहा कि विदेश मंत्रालय ने ईरान के उप मिशन प्रमुख को तलब कर भारत की गहरी चिंता से अवगत कराया और जो कुछ हुआ है उसकी कड़ी निंदा की है। उन्होंने कहा कि एक भारतीय नागरिक की जान चली गई है और कई भारतीय गंभीर रूप से घायल हैं। प्रवक्ता ने कहा कि भारत ने कड़ा विरोध दर्ज कराते हुए कहा कि इन हमलों को जल्द से जल्द रोका जाना चाहिए। साथ ही, तनाव कम किया जाना चाहिए और दोनों पक्षों को बातचीत, संवाद और कूटनीति का मार्ग अपनाना चाहिए ताकि पश्चिम एशिया में शांति और स्थिरता सुनिश्चित की जा सके। पाकिस्&#x200d;तान के कब्&#x200d;जे वाले जम्मू-कश्मीर में विरोध प्रदर्शनों पर श्री जायसवाल ने कहा कि यह प्रदर्शन पाकिस्तान द्वारा दशकों से किए जा रहे शोषण, मौलिक अधिकारों के हनन तथा अवैध और जबरन कब्जे वाले क्षेत्रों में प्रशासनिक दमन का परिणाम हैं। उन्होंने बताया कि लोगों की शिकायतों को दूर करने के बजाय, पाकिस्तानी सरकार ने पुलिस की बर्बरता और घातक बल प्रयोग किया है। इससे कई दुखद मौतें हुई हैं। उन्होंने कहा कि भारत को उम्मीद है कि अंतरराष्ट्रीय समुदाय इन दुर्व्यवहारों और कुकर्मों के लिए पाकिस्तान को पूरी तरह से जवाबदेह ठहराएगा। लॉरेंस बिश्नोई गिरोह पर अभियोग के संबंध में, प्रवक्ता ने कहा कि भारत लगातार यह कहता रहा है कि अंतरराष्ट्रीय संगठित अपराध, आतंकवाद, नशीले पदार्थों की तस्करी, मानव तस्करी, अवैध हथियारों की तस्करी और संबंधित आपराधिक नेटवर्क समाज के लिए बड़ा खतरा हैं। उन्होंने कहा कि आतंकवाद और अंतरराष्ट्रीय संगठित अपराध से निपटने में भारत और अमरीका के बीच मजबूत सहयोग है। श्री जायसवाल ने कहा कि दोनों देशों की एजेंसियां कई वर्षों से मिलकर काम कर रही है और यह सहयोग लगातार बढ़ता जा रहा है। संयुक्त राष्ट्र समुद्री कानून सम्मेलन-यूएनसीएलओ पर श्री जायसवाल ने कहा कि दक्षिण चीन सागर मुद्दे पर भारत का रुख सर्वविदित है। उन्होंने नौवहन और हवाई उड़ान की स्वतंत्रता, समुद्र के अन्य वैध उपयोगों और अंतरराष्ट्रीय कानून के अनुरूप निर्बाध व्यापार को बनाए रखने के महत्व पर बल दिया। उन्होंने कहा कि समुद्री विवादों का समाधान शांतिपूर्ण ढंग से और यूएनसीएलओ के अनुसार किया जाना चाहिए। प्रवक्ता ने दोहराया कि दस वर्ष पूर्व मध्यस्थ न्यायाधिकरण द्वारा दिया गया निर्णय महत्वपूर्ण है और पक्षों के बीच विवादों के शांतिपूर्ण समाधान का आधार है। कनाडा में निज्जर मामले पर श्री जायसवाल ने कहा कि मंत्रालय ने रॉयल कैनेडियन माउंटेड पुलिस के उप आयुक्त द्वारा की गई टिप्पणियों पर ध्यान दिया है। उन्होंने कहा कि ये टिप्पणियां हाल ही में सार्वजनिक किए गए अमरीकी अभियोग के अनुरूप हैं। इसमें लॉरेंस बिश्नोई संगठित अपराध समूह के सदस्यों को दोषी ठहराया गया है। भारत आतंकवाद और अंतरराष्ट्रीय संगठित अपराध से निपटने के लिए अपने साझेदारों के साथ घनिष्ठ कानून प्रवर्तन और सुरक्षा सहयोग के माध्यम से काम करने के लिए प्रतिबद्ध है। पासपोर्ट पर श्री जायसवाल ने कहा कि भारतीय पासपोर्ट एक ऐसा दस्तावेज है जो पासपोर्ट अधिनियम, 1967 के अनुसार केंद्र सरकार द्वारा लोगों के भारत से प्रस्थान को विनियमित करने के लिए जारी किया जाता है। यह एक स्थापित प्रक्रिया द्वारा निर्धारित उचित सत्यापन के बाद जारी किया जाता है। प्रवक्ता ने कहा कि भारतीय नागरिकों या किसी अन्य व्यक्ति को पासपोर्ट जारी करना पासपोर्ट अधिनियम और पासपोर्ट नियम, 1980 द्वारा नियंत्रित होता है। उन्होंने बताया कि वर्तमान में 8 प्रतिशत से भी कम भारतीय नागरिकों के पास पासपोर्ट है।",
@@ -1032,17 +1076,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T15:37:10+00:00",
         "link": "https://newsonair.gov.in/hi/india-closely-following-developments-in-west-asia-calls-for-safe-navigation-through-strait-of-hormuz-mea/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-4-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत और ब्रिटेन के बीच व्यापक आर्थिक और व्यापार समझौता-सीईटीए कल से लागू",
-        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक और व्यापार समझौता-सीईटीए कल से लागू हो जाएगा। साथ ही, सामाजिक सुरक्षा समझौता &#8211; दोहरा योगदान समझौता-डीसीसी भी प्रभावी हो जाएगा। इससे ब्रिटेन में भारतीय पेशेवरों की आवाजाही और प्रतिस्पर्धात्मकता को बढ़ावा मिलेगा। इस अहम समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत टैरिफ […]",
-        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक और व्यापार समझौता-सीईटीए कल से लागू हो जाएगा। साथ ही, सामाजिक सुरक्षा समझौता &#8211; दोहरा योगदान समझौता-डीसीसी भी प्रभावी हो जाएगा। इससे ब्रिटेन में भारतीय पेशेवरों की आवाजाही और प्रतिस्पर्धात्मकता को बढ़ावा मिलेगा। इस अहम समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत टैरिफ पर शुल्&#x200d;क नहीं लगेगा। यह समझौता दोनों देशों के साझा प्रतिबद्धता को दिखाता है। इसके माध्&#x200d;यम से वे अपनी रणनीतिक साझेदारी को और मज़बूत करना चाहते हैं और लोगों को समृद्धि बनाना चाहते हैं। नई दिल्ली में वाणिज्य सचिव राजेश अग्रवाल ने इस व्&#x200d;यापार समझौते को भारत की व्यापार यात्रा में एक अहम पड़ाव बताया है। उन्होंने कहा कि यह समझौता दो बड़ी अर्थव्यवस्थाओं के बीच भविष्य की ओर देखने वाली आर्थिक साझेदारी कायम करता है। उन्होंने कहा कि इस समझौते से दोनों देशों के बीच द्विपक्षीय व्यापार और निवेश संबंधों में एक नए दौर की शुरुआत होगी। श्री अग्रवाल ने कहा कि यह समझौता भारत के सबसे व्यापक व्यापार समझौतों में से एक है। यह कई क्षेत्रों में टैरिफ और नॉन-टैरिफ बाधाओं को कम करता है। दोहरे योगदान समझौते पर श्री अग्रवाल ने कहा कि इससे भारतीय पेशेवरों और उनके नियोक्ताओं को फ़ायदा होगा। इसके अंतर्गत ब्रिटेन में अस्थायी काम पर गए योग्य कर्मचारियों को एक निश्चित अवधि के लिए सामाजिक सुरक्षा अंशदान देने से छूट मिलेगी। हमारे संवाददाता ने बताया है कि दोनों समझौतों को लागू करना, भारत के लिए वैश्विक स्तर पर मज़बूत और प्रतिस्पर्धी अर्थव्यवस्था बनने की दिशा में एक बड़ा कदम है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T15:36:29+00:00",
-        "link": "https://newsonair.gov.in/hi/ceta-marks-beginning-of-new-phase-of-bilateral-relations-between-india-uk-commerce-secretary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Rajesh-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1091,52 +1124,74 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "भोपाल में देश की पहली स्पेस एक्सप्लोरेशन गैलरी का उद्घाटन",
-        "summary": "संस्कृति और पर्यटन मंत्री गजेंद्र सिंह शेखावत ने आज मध्य प्रदेश की राजधानी भोपाल में देश की पहली स्पेस एक्सप्लोरेशन गैलरी का उद्घाटन किया। इस अवसर पर मुख्यमंत्री डॉ. मोहन यादव भी उपस्थित थे। यह गैलरी भोपाल के क्षेत्रीय विज्ञान केंद्र में स्थापित की गई है। इस अवसर पर श्री शेखावत ने कहा कि […]",
-        "article": "संस्कृति और पर्यटन मंत्री गजेंद्र सिंह शेखावत ने आज मध्य प्रदेश की राजधानी भोपाल में देश की पहली स्पेस एक्सप्लोरेशन गैलरी का उद्घाटन किया। इस अवसर पर मुख्यमंत्री डॉ. मोहन यादव भी उपस्थित थे। यह गैलरी भोपाल के क्षेत्रीय विज्ञान केंद्र में स्थापित की गई है। इस अवसर पर श्री शेखावत ने कहा कि मध्य प्रदेश ने अपनी अंतरिक्ष नीति बनाई है। उन्होंने इसका श्रेय मुख्यमंत्री डॉ. मोहन यादव की पहल को दिया। उन्होंने कहा कि इस गैलरी के माध्यम से विद्यार्थियों को अंतरिक्ष विज्ञान के बारे में विस्तार से जानकारी मिलेगी। यह गैलरी राष्ट्रीय विज्ञान संग्रहालय परिषद ने तैयार की है। इसके निर्माण में मुंबई के नेहरू विज्ञान केंद्र ने तकनीकी सहयोग दिया है। इसका उद्देश्य लोगों में विज्ञान के प्रति रुचि और वैज्ञानिक सोच को बढ़ावा देना है। आधुनिक डिजिटल तकनीक से सुसज्जित इस गैलरी में ब्रह्मांड और भारत के अंतरिक्ष अभियानों की जानकारी दी गई है। इसमें भारत की प्राचीन ज्ञान परंपरा के साथ-साथ आर्यभट्ट, चंद्रयान और गगनयान जैसी उपलब्धियों को भी प्रदर्शित किया गया है। गैलरी में आगंतुक स्पेस वॉक और फ्लाइट सिम्युलेटर का अनुभव भी ले सकेंगे। इसके अलावा चंद्रमा और मंगल ग्रह की त्रि-आयामी सतह को भी देखा जा सकेगा।",
+        "title": "फ्रांस: राष्ट्रपति मैक्रों ने बैस्टिल दिवस समारोह की मेजबानी की",
+        "summary": "फ्रांस में आज बैस्टिल दिवस मनाया जा रहा है। इस मौके पर पेरिस में आयोजित वार्षिक सैन्य परेड में पूरे यूरोप की एकजुटता दिखाई दी, जिसमें कई यूरोपीय देशों के सैनिकों और विमानों ने हिस्सा लिया। फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने अपने कार्यकाल के अंतिम बैस्टिल दिवस समारोह की मेजबानी की। समारोह में […]",
+        "article": "फ्रांस में आज बैस्टिल दिवस मनाया जा रहा है। इस मौके पर पेरिस में आयोजित वार्षिक सैन्य परेड में पूरे यूरोप की एकजुटता दिखाई दी, जिसमें कई यूरोपीय देशों के सैनिकों और विमानों ने हिस्सा लिया। फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने अपने कार्यकाल के अंतिम बैस्टिल दिवस समारोह की मेजबानी की। समारोह में यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की सहित करीब 30 देशों के नेता शामिल हुए। इस दौरान यूरोप की सामूहिक सुरक्षा के प्रति प्रतिबद्धता को रेखांकित किया गया। परेड में यूक्रेन के सैनिकों, फ्रांस में प्रशिक्षित यूक्रेनी लड़ाकू विमान पायलटों और करीब छह हजार आठ सौ सैनिकों ने भाग लिया, जो इस आयोजन के इतिहास में सबसे बड़ी भागीदारी है। प्रत्&#x200d;येक वर्ष 14 जुलाई को मनाया जाने वाला बैस्टिल दिवस वर्ष 1789 में बैस्टिल जेल पर हुए हमले की याद में मनाया जाता है।",
         "date": "2026-07-14",
-        "pubDate": "2026-07-14T14:26:04+00:00",
-        "link": "https://newsonair.gov.in/hi/countrys-first-space-exploration-gallery-inaugurated-in-bhopal/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Space-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने देश का पहला सेवा उत्पादन सूचकांक जारी किया",
-        "summary": "सरकार ने आज देश का पहला सेवा उत्पादन सूचकांक-आईएसपी का पहला प्रायोगिक सूचकांक जारी किया। इससे पहली बार औपचारिक सेवा क्षेत्र की गतिविधियों का मासिक आकलन उपलब्ध होगा। वर्ष 2024-25 को आधार वर्ष मानकर तैयार किया गया यह पहला सूचकांक अप्रैल 2026 का है। इसमें सेवा क्षेत्र के 19 उप-क्षेत्र शामिल हैं, जो भारत […]",
-        "article": "सरकार ने आज देश का पहला सेवा उत्पादन सूचकांक-आईएसपी का पहला प्रायोगिक सूचकांक जारी किया। इससे पहली बार औपचारिक सेवा क्षेत्र की गतिविधियों का मासिक आकलन उपलब्ध होगा। वर्ष 2024-25 को आधार वर्ष मानकर तैयार किया गया यह पहला सूचकांक अप्रैल 2026 का है। इसमें सेवा क्षेत्र के 19 उप-क्षेत्र शामिल हैं, जो भारत के लगभग 60 प्रतिशत सेवा क्षेत्र का प्रतिनिधित्व करते हैं। सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय ने इसे देश के सेवा क्षेत्र के बेहतर आकलन और सांख्यिकीय प्रणाली को मजबूत बनाने की दिशा में महत्वपूर्ण कदम बताया है। मंत्रालय ने कहा कि परीक्षण श्रृंखला की समीक्षा और दायरा बढ़ाने के बाद सेवा उत्पादन का समग्र सूचकांक जारी किया जाएगा। अप्रैल के आंकड़ों के अनुसार, सेवा क्षेत्र में व्यापक वृद्धि दर्ज की गई है। 19 में से 14 उप-क्षेत्रों में पिछले वर्ष के अप्रैल की तुलना में दो अंकों की वृद्धि दर्ज हुई, जबकि लगभग सभी अन्य क्षेत्रों में भी सकारात्मक वृद्धि रही। मंत्रालय ने बताया कि सेवा उत्पादन सूचकांक हर महीने की 29 तारीख को जारी किया जाएगा। इससे नीति निर्माताओं, उद्योग जगत और शोधकर्ताओं को सेवा क्षेत्र की अल्पकालिक गतिविधियों का समय पर आकलन करने में मदद मिलेगी।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T14:21:47+00:00",
-        "link": "https://newsonair.gov.in/hi/govt-releases-first-sub-sectoral-trial-index-of-services-production/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/production-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "श्रम और रोजगार मंत्री मनसुख मांडविया ने 650 करोड़ रुपये से अधिक की ईएसआई परियोजनाओं का उद्घाटन किया",
-        "summary": "श्रम और रोजगार मंत्री मनसुख मांडविया ने आज हैदराबाद के सनतनगर ईएसआईसी अस्पताल में 211 करोड़ रुपये की लागत से बने अत्याधुनिक बाह्य रोगी विभाग-ओपीडी ब्लॉक का उद्घाटन किया। इस अवसर पर उनके साथ राज्य मंत्री जी. विवेक वेंकटस्वामी भी मौजूद रहे। श्री मांडविया ने देश के विभिन्न हिस्सों में 650 करोड़ रुपये से […]",
-        "article": "श्रम और रोजगार मंत्री मनसुख मांडविया ने आज हैदराबाद के सनतनगर ईएसआईसी अस्पताल में 211 करोड़ रुपये की लागत से बने अत्याधुनिक बाह्य रोगी विभाग-ओपीडी ब्लॉक का उद्घाटन किया। इस अवसर पर उनके साथ राज्य मंत्री जी. विवेक वेंकटस्वामी भी मौजूद रहे। श्री मांडविया ने देश के विभिन्न हिस्सों में 650 करोड़ रुपये से अधिक लागत वाली छह अन्य ईएसआई परियोजनाओं का भी वर्चुअल माध्&#x200d;यम से उद्घाटन किया। इन परियोजनाओं से देशभर के 53 लाख लाभार्थियों को आईसीयू और एनआईसीयू सहित आधुनिक और निःशुल्क चिकित्सा सुविधाएं मिलेंगी। उद्घाटन के बाद दोनों मंत्रियों ने अस्पताल के निर्माण में योगदान देने वाले श्रमिकों का सम्मान भी किया। इस अवसर पर श्री मांडविया ने कहा कि श्रमिक और युवा शक्ति देश की प्रगति के दो सबसे महत्वपूर्ण आधार हैं। उन्होंने कहा कि तकनीक के विकास के बावजूद बुनियादी ढांचा निर्माण में श्रमिकों की भूमिका का कोई विकल्प नहीं है। इसलिए सरकार सामाजिक सुरक्षा को सर्वोच्च प्राथमिकता दे रही है। उन्होंने कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी के नेतृत्व में पिछले दस वर्षों में ईएसआईसी के लाभार्थियों की संख्या साढ़े सात करोड़ से बढ़कर 15 करोड़ हो गई है। इसके साथ ही देश में सामाजिक सुरक्षा का दायरा 19 प्रतिशत से बढ़कर 64 प्रतिशत हो गया है। श्री मांडविया ने बताया कि नए चार श्रम संहिताओं के अंतर्गत श्रमिकों को नियुक्ति पत्र, महिलाओं को समान वेतन और एक वर्ष की सेवा के बाद ग्रेच्युटी का अधिकार सुनिश्चित किया गया है। उन्होंने उद्योगों और श्रमिक संगठनों से विकसित भारत 2047 के लक्ष्य को हासिल करने के लिए मिलकर काम करने का आह्वान किया। साथ ही विश्वास जताया कि यह नई अस्पताल सुविधा लाखों लोगों को बेहतर स्वास्थ्य सेवाएं उपलब्ध कराएगी।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T14:18:44+00:00",
-        "link": "https://newsonair.gov.in/hi/labour-and-employment-minister-mansukh-mandaviya-inaugurated-esi-projects-worth-over-%e2%82%b9650-crore/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/mandviy.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कृषि मंत्री शिवराज सिंह चौहान ने पश्चिम बंगाल में चार कृषि अनुसंधान केंद्रों की घोषणा की",
-        "summary": "कृषि और किसान कल्याण तथा ग्रामीण विकास मंत्री शिवराज सिंह चौहान ने कहा है कि पश्चिम बंगाल में मौसम और मिट्टी के अनुसार कृषि विकास का रोडमैप तैयार किया जा रहा है। आज राज्य सचिवालय नवान्न में आयोजित बैठक में उन्होंने कहा कि इस रोडमैप को तैयार करने के लिए कृषि विश्वविद्यालय, शोध संस्थान और […]",
-        "article": "कृषि और किसान कल्याण तथा ग्रामीण विकास मंत्री शिवराज सिंह चौहान ने कहा है कि पश्चिम बंगाल में मौसम और मिट्टी के अनुसार कृषि विकास का रोडमैप तैयार किया जा रहा है। आज राज्य सचिवालय नवान्न में आयोजित बैठक में उन्होंने कहा कि इस रोडमैप को तैयार करने के लिए कृषि विश्वविद्यालय, शोध संस्थान और पश्चिम बंगाल सरकार मिलकर काम कर रहे हैं। श्री चौहान ने बताया कि पश्चिम बंगाल में चिनसुरा और मालदा सहित चार स्थानों पर आलू और जूट के बीजों केWest Bengal.प्रशिक्षण और अनुसंधान केंद्र स्थापित किए जाएंगे। उन्होंने किसानों के लिए डिजिटल पहचान पत्र बनाने और प्रधानमंत्री फसल बीमा योजना सहित विभिन्न केंद्रीय योजनाओं के प्रभावी क्रियान्वयन के लिए राज्य सरकार की सराहना की। बैठक में पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी, राज्य के कृषि मंत्री दूध कुमार मंडल, पंचायत मंत्री दिलीप घोष तथा अन्य वरिष्ठ अधिकारी और गणमान्य लोग उपस्थित थे।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T13:02:54+00:00",
-        "link": "https://newsonair.gov.in/hi/agriculture-minister-shivraj-singh-chouhan-announced-four-agricultural-research-centers-in-west-bengal-2/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/west-bengal-1.jpg",
+        "pubDate": "2026-07-14T11:18:02+00:00",
+        "link": "https://newsonair.gov.in/hi/france-president-emmanuel-macron-leads-bastille-day-celebration-in-paris/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/francew-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "breaking": [
       {
+        "title": "सुप्रीम कोर्ट ने समय रैना, रणवीर इलाहाबादिया और आशीष चंचलानी को लगाई फटकार",
+        "summary": "सर्वोच्‍च न्‍यायालय ने कल कॉमेडियन समय रैना और यूट्यूबर रणवीर इलाहाबादिया और आशीष चंचलानी को अदालत के आदेश का पालन न करने के लिए फटकार लगाई और कहा कि वे स्‍वयं को युवाओं का आदर्श मानते हैं। न्‍यायमूर्ति सूर्यकांत और न्‍यायाधीश जॉयमाल्य बागची और वी मोहना की पीठ ने यह आदेश उस समय पारित किया […]",
+        "article": "सर्वोच्&#x200d;च न्&#x200d;यायालय ने कल कॉमेडियन समय रैना और यूट्यूबर रणवीर इलाहाबादिया और आशीष चंचलानी को अदालत के आदेश का पालन न करने के लिए फटकार लगाई और कहा कि वे स्&#x200d;वयं को युवाओं का आदर्श मानते हैं। न्&#x200d;यायमूर्ति सूर्यकांत और न्&#x200d;यायाधीश जॉयमाल्य बागची और वी मोहना की पीठ ने यह आदेश उस समय पारित किया जब उन्हें बताया गया कि रैना ने अपने पहले के आदेश के अनुसार किसी भी दिव्यांग व्यक्ति को अपने शो में आमंत्रित नहीं किया था। पीठ ने कहा कि उन्हें इस बात पर संदेह करने की कोई वजह नहीं है कि समय रैना ने अदालत को गुमराह किया है और अदालत के समक्ष दिए गए बयानों और वचनों का खुलेआम उल्लंघन किया है। सर्वोच्&#x200d;च न्&#x200d;यायालय क्योर एसएमए इंडिया फाउंडेशन द्वारा दायर एक याचिका पर सुनवाई कर रहा था, जिसमें आरोप लगाया गया था कि रैना ने स्पाइनल मस्कुलर एट्रोफी के इलाज की उच्च लागत पर असंवेदनशील टिप्पणी की और कथित तौर पर एक दिव्यांग व्यक्ति का मजाक उड़ाया। याचिका में &#8220;इंडियाज़ गॉट लेटेंट&#8221; के होस्ट समय रैना और अन्य सोशल मीडिया पर प्रभावशाली लोगों विपुन गोयल, बलराज परमजीत सिंह घई, सोनाली ठक्कर और निशांत जगदीश तंवर द्वारा बनाए गए चुटकुलों को चिह्नित किया गया था।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:21:00+00:00",
+        "link": "https://newsonair.gov.in/hi/sc-ranveer-case/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/sc.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत में 24 परमाणु ऊर्जा रिएक्टर चालू, 10 नए रिएक्टरों का निर्माण जारी",
+        "summary": "भारत वर्तमान में सात स्थानों पर 8.78 गीगावाट की कुल स्थापित क्षमता वाले 24 परमाणु ऊर्जा रिएक्टरों का संचालन कर रहा है। इसके अलावा, 8 हजार मेगावाट की संयुक्त क्षमता वाली दस और रिएक्टर इकाइयां निर्माणाधीन हैं। इनमें रिएक्टर प्रेशराइज्ड हेवी वाटर रिएक्टर, बॉइलिंग वाटर रिएक्टर और लाइट वाटर रिएक्टर शामिल हैं। देश मुख्य रूप […]",
+        "article": "भारत वर्तमान में सात स्थानों पर 8.78 गीगावाट की कुल स्थापित क्षमता वाले 24 परमाणु ऊर्जा रिएक्टरों का संचालन कर रहा है। इसके अलावा, 8 हजार मेगावाट की संयुक्त क्षमता वाली दस और रिएक्टर इकाइयां निर्माणाधीन हैं। इनमें रिएक्टर प्रेशराइज्ड हेवी वाटर रिएक्टर, बॉइलिंग वाटर रिएक्टर और लाइट वाटर रिएक्टर शामिल हैं। देश मुख्य रूप से प्रेशराइज्ड हेवी वाटर रिएक्टरों को चलाने और परमाणु ऊर्जा उत्पादन के लिए प्राकृतिक यूरेनियम ईंधन का उपयोग कर रहा है। सरकार ने कहा कि भारत ऊर्जा सुरक्षा को मजबूत करने और स्वच्छ आर्थिक विकास को बढ़ावा देने के लिए अपने परमाणु ऊर्जा कार्यक्रम का लगातार विस्तार कर रहा है। पिछले सप्ताह मेलबर्न में आयोजित तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन का एक प्रमुख परिणाम भारत-ऑस्ट्रेलिया नागरिक परमाणु सहयोग समझौते के अंतर्गत प्रशासनिक व्यवस्था को अंतिम रूप देना था। यह शांतिपूर्ण उद्देश्यों के लिए ऑस्ट्रेलिया से भारत को दीर्घकालिक यूरेनियम निर्यात का रास्ता साफ हुआ है। ऑस्ट्रेलिया का यूरेनियम इन परमाणु ऊर्जा रिएक्टरों को चलाने के लिए प्राथमिक ईंधन की निरंतर आपूर्ति सुनिश्चित करेगा।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T01:07:10+00:00",
+        "link": "https://newsonair.gov.in/hi/nuclear-reactors-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNM9u4lbEAA0AIb.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने देश का पहला सेवा उत्पादन सूचकांक जारी किया",
+        "summary": "सरकार ने देश का पहला सेवा उत्पादन सूचकांक-आईएसपी का पहला प्रायोगिक सूचकांक जारी किया। इससे पहली बार औपचारिक सेवा क्षेत्र की गतिविधियों का मासिक आकलन उपलब्ध होगा। वर्ष 2024-25 को आधार वर्ष मानकर तैयार किया गया यह पहला सूचकांक अप्रैल 2026 का है। इसमें सेवा क्षेत्र के 19 उप-क्षेत्र शामिल हैं, जो भारत के लगभग […]",
+        "article": "सरकार ने देश का पहला सेवा उत्पादन सूचकांक-आईएसपी का पहला प्रायोगिक सूचकांक जारी किया। इससे पहली बार औपचारिक सेवा क्षेत्र की गतिविधियों का मासिक आकलन उपलब्ध होगा। वर्ष 2024-25 को आधार वर्ष मानकर तैयार किया गया यह पहला सूचकांक अप्रैल 2026 का है। इसमें सेवा क्षेत्र के 19 उप-क्षेत्र शामिल हैं, जो भारत के लगभग 60 प्रतिशत सेवा क्षेत्र का प्रतिनिधित्व करते हैं। सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय &#8211; एमओएसपीआई ने इसे देश के सेवा क्षेत्र के बेहतर आकलन और सांख्यिकीय प्रणाली को मजबूत बनाने की दिशा में महत्वपूर्ण कदम बताया है। मंत्रालय ने कहा कि परीक्षण श्रृंखला की समीक्षा और दायरा बढ़ाने के बाद सेवा उत्पादन का समग्र सूचकांक जारी किया जाएगा। अप्रैल के आंकड़ों के अनुसार, सेवा क्षेत्र में व्यापक वृद्धि दर्ज की गई है। 19 में से 14 उप-क्षेत्रों में पिछले वर्ष के अप्रैल की तुलना में दो अंकों की वृद्धि दर्ज हुई, जबकि लगभग सभी अन्य क्षेत्रों में भी सकारात्मक वृद्धि रही। एमओएसपीआई के अनुसार, सेवा उत्पादन सूचकांक में सबसे तेज़ वृद्धि आवास और भोजन सेवाओं में 37.2 प्रतिशत और खुदरा व्यापार में 30.8 प्रतिशत दर्ज की गई है। मंत्रालय ने बताया कि यह आंकड़े ई-सांख्यिकी पोर्टल पर भी उपलब्ध होंगे। इस अवसर पर मंत्रालय के सचिव डॉ. सौरभ गर्ग ने कहा कि सेवा उत्पादन सूचकांक की शुरुआत भारत की सांख्यिकीय प्रणाली को मजबूत बनाने की दिशा में एक महत्वपूर्ण कदम है। उन्होंने बताया कि यह सूचकांक पूरी तरह प्रशासनिक आंकड़ों, सरकारी मंत्रालयों से प्राप्त सूचनाओं और जीएसटी रिकॉर्ड के आधार पर तैयार किया गया है। इसके लिए उद्योगों और कारोबारों पर कोई अतिरिक्त अनुपालन बोझ नहीं डाला गया है। डॉ. गर्ग ने स्पष्ट किया कि यह सूचकांक उत्पादन का संकेतक है और इसे सकल मूल्य वर्धन- जीवीए, जिसका उपयोग जीडीपी के आकलन में किया जाता है, के बराबर नहीं माना जाना चाहिए। उन्होंने कहा कि मंत्रालय हितधारकों से सुझाव लेकर इस सूचकांक को और बेहतर बनाएगा। इस बीच, मुख्य आर्थिक सलाहकार डॉ. वी. अनंत नागेश्वरन ने कहा कि इसे परीक्षण श्रृंखला के रूप में देखा जाना चाहिए, न कि अंतिम और पूर्ण सूचकांक के रूप में। उन्होंने कहा कि इसे सार्वजनिक करना मंत्रालय के इस विश्वास को दर्शाता है कि इसकी कार्यप्रणाली मजबूत है और सुझावों के आधार पर इसे और बेहतर बनाया जाएगा। उन्होंने बताया कि भविष्य में स्वास्थ्य सेवाओं और आवास स्वामित्व जैसे क्षेत्रों को भी इसमें शामिल किया जाएगा। इससे औपचारिक सेवा क्षेत्र के लगभग 85 से 90 प्रतिशत हिस्से को इस सूचकांक के दायरे में लाया जा सकेगा।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:49:47+00:00",
+        "link": "https://newsonair.gov.in/hi/govt-releases-first-sub-sectoral-trial-index-of-services-production/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/production-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत-मालदीव मुक्त व्यापार समझौते पर वार्ता का पहला दौर सफलतापूर्वक संपन्न",
+        "summary": "भारत-मालदीव मुक्त व्यापार समझौते के लिए वार्ता का पहला दौर सफलतापूर्वक संपन्न हो गया है। यह द्विपक्षीय व्यापार और निवेश संबंधों को विस्तार देने की दिशा में एक महत्वपूर्ण कदम है। वार्ता पिछले सप्ताह वर्चुअल माध्यम से आयोजित की गई थी। वाणिज्य और उद्योग मंत्रालय ने कहा कि इस दौरान दोनों पक्षों ने सभी पहलुओं […]",
+        "article": "भारत-मालदीव मुक्त व्यापार समझौते के लिए वार्ता का पहला दौर सफलतापूर्वक संपन्न हो गया है। यह द्विपक्षीय व्यापार और निवेश संबंधों को विस्तार देने की दिशा में एक महत्वपूर्ण कदम है। वार्ता पिछले सप्ताह वर्चुअल माध्यम से आयोजित की गई थी। वाणिज्य और उद्योग मंत्रालय ने कहा कि इस दौरान दोनों पक्षों ने सभी पहलुओं पर ठोस प्रगति की और कई मुद्दों पर व्यापक सहमति बनी। भारत मालदीव का दूसरा सबसे बड़ा व्यापारिक साझेदार है। दोनों देशों के बीच द्विपक्षीय व्यापार वर्ष 2025-26 में 771 मिलियन डॉलर से अधिक का था। वर्ष 2024-25 में यह 679 मिलियन डॉलर था। इसमें साढ़े 13 प्रतिशत से अधिक की बढ़ोतरी हुई है। प्रस्तावित समझौते से बाजार पहुंच बढ़ाकर, निवेश को सुगम बनाकर, अधिक आर्थिक सहयोग को बढ़ावा देकर और दोनों देशों में सतत आर्थिक विकास में योगदान देकर द्विपक्षीय आर्थिक और व्यापारिक संबंधों को और मजबूत करने की उम्मीद है।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:45:41+00:00",
+        "link": "https://newsonair.gov.in/hi/first-round-of-talks-on-the-india-maldives-free-trade-agreement-successfully-concluded/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/India-maldives-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत और ब्रिटेन के बीच व्यापक आर्थिक और व्यापार समझौता-सीईटीए आज से हुआ लागू",
+        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्‍यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को […]",
+        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्&#x200d;यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाजार में 99 प्रतिशत टैरिफ लाइनों पर शून्य शुल्क की सुविधा प्राप्त होगी। यह समझौता भारत और ब्रिटेन की अपनी रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। कल नई दिल्ली में मीडिया को संबोधित करते हुए वाणिज्य सचिव राजेश अग्रवाल ने भारत-ब्रिटेन व्यापक आर्थिक एवं व्यापार समझौते को भारत की व्यापारिक यात्रा में एक महत्वपूर्ण मील का पत्थर बताया और कहा कि यह दो प्रमुख अर्थव्यवस्थाओं के बीच भविष्&#x200d;य के लिए आर्थिक साझेदारी स्थापित करता है। उन्होंने कहा कि यह समझौता भारत और ब्रिटेन के बीच द्विपक्षीय व्यापार और निवेश संबंधों में एक नए चरण की शुरुआत करेगा। श्री अग्रवाल ने कहा कि यह समझौता भारत के सबसे व्यापक व्यापार समझौतों में से एक है, जो व्यापक क्षेत्रीय सूचना प्रदान करता है और साथ ही शुल्क एवं शुल्क रहि&#x200d;त बाधाओं को कम करता है। दोहरे अंशदान सम्मेलन पर प्रकाश डालते हुए, श्री अग्रवाल ने कहा कि यह व्यवस्था ब्रिटेन में अस्थाई तौर पर कार्यरत पात्र श्रमिकों को निर्दिष्ट अवधि के लिए सामाजिक सुरक्षा अंशदान का भुगतान करने से छूट देकर भारतीय पेशेवरों और उनके नियोक्ताओं को लाभ पहुंचाएगी। भारत-ब्रिटेन सीईटीए और डीसीसी का लागू होना वैश्विक स्तर पर एकीकृत, लचीली और प्रतिस्पर्धी अर्थव्यवस्था बनने की दिशा में भारत की यात्रा में एक महत्वपूर्ण कदम है।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:42:29+00:00",
+        "link": "https://newsonair.gov.in/hi/ceta-marks-beginning-of-new-phase-of-bilateral-relations-between-india-uk-commerce-secretary/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Rajesh-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "भारत ने होर्मुज जलडमरूमध्य से सुरक्षित और निर्बाध नौवहन और व्यापार जारी रखने का किया आह्वान",
         "summary": "भारत पश्चिम एशिया के घटनाक्रमों पर करीबी नजर रखे हुए है। भारत ने एक बार फिर होर्मुज जलडमरूमध्य से सुरक्षित और निर्बाध नौवहन और व्यापार जारी रखने का आह्वान किया है। विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने नई दिल्‍ली में कहा कि यह विश्वभर के लोगों की आर्थिक और ऊर्जा सुरक्षा सुनिश्चित करने के […]",
         "article": "भारत पश्चिम एशिया के घटनाक्रमों पर करीबी नजर रखे हुए है। भारत ने एक बार फिर होर्मुज जलडमरूमध्य से सुरक्षित और निर्बाध नौवहन और व्यापार जारी रखने का आह्वान किया है। विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने नई दिल्&#x200d;ली में कहा कि यह विश्वभर के लोगों की आर्थिक और ऊर्जा सुरक्षा सुनिश्चित करने के लिए अत्यंत महत्वपूर्ण है। उन्होंने कहा कि विदेश मंत्रालय ने ईरान के उप मिशन प्रमुख को तलब कर भारत की गहरी चिंता से अवगत कराया और जो कुछ हुआ है उसकी कड़ी निंदा की है। उन्होंने कहा कि एक भारतीय नागरिक की जान चली गई है और कई भारतीय गंभीर रूप से घायल हैं। प्रवक्ता ने कहा कि भारत ने कड़ा विरोध दर्ज कराते हुए कहा कि इन हमलों को जल्द से जल्द रोका जाना चाहिए। साथ ही, तनाव कम किया जाना चाहिए और दोनों पक्षों को बातचीत, संवाद और कूटनीति का मार्ग अपनाना चाहिए ताकि पश्चिम एशिया में शांति और स्थिरता सुनिश्चित की जा सके। पाकिस्&#x200d;तान के कब्&#x200d;जे वाले जम्मू-कश्मीर में विरोध प्रदर्शनों पर श्री जायसवाल ने कहा कि यह प्रदर्शन पाकिस्तान द्वारा दशकों से किए जा रहे शोषण, मौलिक अधिकारों के हनन तथा अवैध और जबरन कब्जे वाले क्षेत्रों में प्रशासनिक दमन का परिणाम हैं। उन्होंने बताया कि लोगों की शिकायतों को दूर करने के बजाय, पाकिस्तानी सरकार ने पुलिस की बर्बरता और घातक बल प्रयोग किया है। इससे कई दुखद मौतें हुई हैं। उन्होंने कहा कि भारत को उम्मीद है कि अंतरराष्ट्रीय समुदाय इन दुर्व्यवहारों और कुकर्मों के लिए पाकिस्तान को पूरी तरह से जवाबदेह ठहराएगा। लॉरेंस बिश्नोई गिरोह पर अभियोग के संबंध में, प्रवक्ता ने कहा कि भारत लगातार यह कहता रहा है कि अंतरराष्ट्रीय संगठित अपराध, आतंकवाद, नशीले पदार्थों की तस्करी, मानव तस्करी, अवैध हथियारों की तस्करी और संबंधित आपराधिक नेटवर्क समाज के लिए बड़ा खतरा हैं। उन्होंने कहा कि आतंकवाद और अंतरराष्ट्रीय संगठित अपराध से निपटने में भारत और अमरीका के बीच मजबूत सहयोग है। श्री जायसवाल ने कहा कि दोनों देशों की एजेंसियां कई वर्षों से मिलकर काम कर रही है और यह सहयोग लगातार बढ़ता जा रहा है। संयुक्त राष्ट्र समुद्री कानून सम्मेलन-यूएनसीएलओ पर श्री जायसवाल ने कहा कि दक्षिण चीन सागर मुद्दे पर भारत का रुख सर्वविदित है। उन्होंने नौवहन और हवाई उड़ान की स्वतंत्रता, समुद्र के अन्य वैध उपयोगों और अंतरराष्ट्रीय कानून के अनुरूप निर्बाध व्यापार को बनाए रखने के महत्व पर बल दिया। उन्होंने कहा कि समुद्री विवादों का समाधान शांतिपूर्ण ढंग से और यूएनसीएलओ के अनुसार किया जाना चाहिए। प्रवक्ता ने दोहराया कि दस वर्ष पूर्व मध्यस्थ न्यायाधिकरण द्वारा दिया गया निर्णय महत्वपूर्ण है और पक्षों के बीच विवादों के शांतिपूर्ण समाधान का आधार है। कनाडा में निज्जर मामले पर श्री जायसवाल ने कहा कि मंत्रालय ने रॉयल कैनेडियन माउंटेड पुलिस के उप आयुक्त द्वारा की गई टिप्पणियों पर ध्यान दिया है। उन्होंने कहा कि ये टिप्पणियां हाल ही में सार्वजनिक किए गए अमरीकी अभियोग के अनुरूप हैं। इसमें लॉरेंस बिश्नोई संगठित अपराध समूह के सदस्यों को दोषी ठहराया गया है। भारत आतंकवाद और अंतरराष्ट्रीय संगठित अपराध से निपटने के लिए अपने साझेदारों के साथ घनिष्ठ कानून प्रवर्तन और सुरक्षा सहयोग के माध्यम से काम करने के लिए प्रतिबद्ध है। पासपोर्ट पर श्री जायसवाल ने कहा कि भारतीय पासपोर्ट एक ऐसा दस्तावेज है जो पासपोर्ट अधिनियम, 1967 के अनुसार केंद्र सरकार द्वारा लोगों के भारत से प्रस्थान को विनियमित करने के लिए जारी किया जाता है। यह एक स्थापित प्रक्रिया द्वारा निर्धारित उचित सत्यापन के बाद जारी किया जाता है। प्रवक्ता ने कहा कि भारतीय नागरिकों या किसी अन्य व्यक्ति को पासपोर्ट जारी करना पासपोर्ट अधिनियम और पासपोर्ट नियम, 1980 द्वारा नियंत्रित होता है। उन्होंने बताया कि वर्तमान में 8 प्रतिशत से भी कम भारतीय नागरिकों के पास पासपोर्ट है।",
@@ -1144,17 +1199,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T15:37:10+00:00",
         "link": "https://newsonair.gov.in/hi/india-closely-following-developments-in-west-asia-calls-for-safe-navigation-through-strait-of-hormuz-mea/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-4-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत और ब्रिटेन के बीच व्यापक आर्थिक और व्यापार समझौता-सीईटीए कल से लागू",
-        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक और व्यापार समझौता-सीईटीए कल से लागू हो जाएगा। साथ ही, सामाजिक सुरक्षा समझौता &#8211; दोहरा योगदान समझौता-डीसीसी भी प्रभावी हो जाएगा। इससे ब्रिटेन में भारतीय पेशेवरों की आवाजाही और प्रतिस्पर्धात्मकता को बढ़ावा मिलेगा। इस अहम समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत टैरिफ […]",
-        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक और व्यापार समझौता-सीईटीए कल से लागू हो जाएगा। साथ ही, सामाजिक सुरक्षा समझौता &#8211; दोहरा योगदान समझौता-डीसीसी भी प्रभावी हो जाएगा। इससे ब्रिटेन में भारतीय पेशेवरों की आवाजाही और प्रतिस्पर्धात्मकता को बढ़ावा मिलेगा। इस अहम समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत टैरिफ पर शुल्&#x200d;क नहीं लगेगा। यह समझौता दोनों देशों के साझा प्रतिबद्धता को दिखाता है। इसके माध्&#x200d;यम से वे अपनी रणनीतिक साझेदारी को और मज़बूत करना चाहते हैं और लोगों को समृद्धि बनाना चाहते हैं। नई दिल्ली में वाणिज्य सचिव राजेश अग्रवाल ने इस व्&#x200d;यापार समझौते को भारत की व्यापार यात्रा में एक अहम पड़ाव बताया है। उन्होंने कहा कि यह समझौता दो बड़ी अर्थव्यवस्थाओं के बीच भविष्य की ओर देखने वाली आर्थिक साझेदारी कायम करता है। उन्होंने कहा कि इस समझौते से दोनों देशों के बीच द्विपक्षीय व्यापार और निवेश संबंधों में एक नए दौर की शुरुआत होगी। श्री अग्रवाल ने कहा कि यह समझौता भारत के सबसे व्यापक व्यापार समझौतों में से एक है। यह कई क्षेत्रों में टैरिफ और नॉन-टैरिफ बाधाओं को कम करता है। दोहरे योगदान समझौते पर श्री अग्रवाल ने कहा कि इससे भारतीय पेशेवरों और उनके नियोक्ताओं को फ़ायदा होगा। इसके अंतर्गत ब्रिटेन में अस्थायी काम पर गए योग्य कर्मचारियों को एक निश्चित अवधि के लिए सामाजिक सुरक्षा अंशदान देने से छूट मिलेगी। हमारे संवाददाता ने बताया है कि दोनों समझौतों को लागू करना, भारत के लिए वैश्विक स्तर पर मज़बूत और प्रतिस्पर्धी अर्थव्यवस्था बनने की दिशा में एक बड़ा कदम है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T15:36:29+00:00",
-        "link": "https://newsonair.gov.in/hi/ceta-marks-beginning-of-new-phase-of-bilateral-relations-between-india-uk-commerce-secretary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Rajesh-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1199,56 +1243,67 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T14:28:28+00:00",
         "link": "https://newsonair.gov.in/hi/the-meteorological-department-has-forecast-heavy-rain-thunderstorms-and-heatwaves-in-several-states/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/imd-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भोपाल में देश की पहली स्पेस एक्सप्लोरेशन गैलरी का उद्घाटन",
-        "summary": "संस्कृति और पर्यटन मंत्री गजेंद्र सिंह शेखावत ने आज मध्य प्रदेश की राजधानी भोपाल में देश की पहली स्पेस एक्सप्लोरेशन गैलरी का उद्घाटन किया। इस अवसर पर मुख्यमंत्री डॉ. मोहन यादव भी उपस्थित थे। यह गैलरी भोपाल के क्षेत्रीय विज्ञान केंद्र में स्थापित की गई है। इस अवसर पर श्री शेखावत ने कहा कि […]",
-        "article": "संस्कृति और पर्यटन मंत्री गजेंद्र सिंह शेखावत ने आज मध्य प्रदेश की राजधानी भोपाल में देश की पहली स्पेस एक्सप्लोरेशन गैलरी का उद्घाटन किया। इस अवसर पर मुख्यमंत्री डॉ. मोहन यादव भी उपस्थित थे। यह गैलरी भोपाल के क्षेत्रीय विज्ञान केंद्र में स्थापित की गई है। इस अवसर पर श्री शेखावत ने कहा कि मध्य प्रदेश ने अपनी अंतरिक्ष नीति बनाई है। उन्होंने इसका श्रेय मुख्यमंत्री डॉ. मोहन यादव की पहल को दिया। उन्होंने कहा कि इस गैलरी के माध्यम से विद्यार्थियों को अंतरिक्ष विज्ञान के बारे में विस्तार से जानकारी मिलेगी। यह गैलरी राष्ट्रीय विज्ञान संग्रहालय परिषद ने तैयार की है। इसके निर्माण में मुंबई के नेहरू विज्ञान केंद्र ने तकनीकी सहयोग दिया है। इसका उद्देश्य लोगों में विज्ञान के प्रति रुचि और वैज्ञानिक सोच को बढ़ावा देना है। आधुनिक डिजिटल तकनीक से सुसज्जित इस गैलरी में ब्रह्मांड और भारत के अंतरिक्ष अभियानों की जानकारी दी गई है। इसमें भारत की प्राचीन ज्ञान परंपरा के साथ-साथ आर्यभट्ट, चंद्रयान और गगनयान जैसी उपलब्धियों को भी प्रदर्शित किया गया है। गैलरी में आगंतुक स्पेस वॉक और फ्लाइट सिम्युलेटर का अनुभव भी ले सकेंगे। इसके अलावा चंद्रमा और मंगल ग्रह की त्रि-आयामी सतह को भी देखा जा सकेगा।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T14:26:04+00:00",
-        "link": "https://newsonair.gov.in/hi/countrys-first-space-exploration-gallery-inaugurated-in-bhopal/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Space-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने देश का पहला सेवा उत्पादन सूचकांक जारी किया",
-        "summary": "सरकार ने आज देश का पहला सेवा उत्पादन सूचकांक-आईएसपी का पहला प्रायोगिक सूचकांक जारी किया। इससे पहली बार औपचारिक सेवा क्षेत्र की गतिविधियों का मासिक आकलन उपलब्ध होगा। वर्ष 2024-25 को आधार वर्ष मानकर तैयार किया गया यह पहला सूचकांक अप्रैल 2026 का है। इसमें सेवा क्षेत्र के 19 उप-क्षेत्र शामिल हैं, जो भारत […]",
-        "article": "सरकार ने आज देश का पहला सेवा उत्पादन सूचकांक-आईएसपी का पहला प्रायोगिक सूचकांक जारी किया। इससे पहली बार औपचारिक सेवा क्षेत्र की गतिविधियों का मासिक आकलन उपलब्ध होगा। वर्ष 2024-25 को आधार वर्ष मानकर तैयार किया गया यह पहला सूचकांक अप्रैल 2026 का है। इसमें सेवा क्षेत्र के 19 उप-क्षेत्र शामिल हैं, जो भारत के लगभग 60 प्रतिशत सेवा क्षेत्र का प्रतिनिधित्व करते हैं। सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय ने इसे देश के सेवा क्षेत्र के बेहतर आकलन और सांख्यिकीय प्रणाली को मजबूत बनाने की दिशा में महत्वपूर्ण कदम बताया है। मंत्रालय ने कहा कि परीक्षण श्रृंखला की समीक्षा और दायरा बढ़ाने के बाद सेवा उत्पादन का समग्र सूचकांक जारी किया जाएगा। अप्रैल के आंकड़ों के अनुसार, सेवा क्षेत्र में व्यापक वृद्धि दर्ज की गई है। 19 में से 14 उप-क्षेत्रों में पिछले वर्ष के अप्रैल की तुलना में दो अंकों की वृद्धि दर्ज हुई, जबकि लगभग सभी अन्य क्षेत्रों में भी सकारात्मक वृद्धि रही। मंत्रालय ने बताया कि सेवा उत्पादन सूचकांक हर महीने की 29 तारीख को जारी किया जाएगा। इससे नीति निर्माताओं, उद्योग जगत और शोधकर्ताओं को सेवा क्षेत्र की अल्पकालिक गतिविधियों का समय पर आकलन करने में मदद मिलेगी।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T14:21:47+00:00",
-        "link": "https://newsonair.gov.in/hi/govt-releases-first-sub-sectoral-trial-index-of-services-production/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/production-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "श्रम और रोजगार मंत्री मनसुख मांडविया ने 650 करोड़ रुपये से अधिक की ईएसआई परियोजनाओं का उद्घाटन किया",
-        "summary": "श्रम और रोजगार मंत्री मनसुख मांडविया ने आज हैदराबाद के सनतनगर ईएसआईसी अस्पताल में 211 करोड़ रुपये की लागत से बने अत्याधुनिक बाह्य रोगी विभाग-ओपीडी ब्लॉक का उद्घाटन किया। इस अवसर पर उनके साथ राज्य मंत्री जी. विवेक वेंकटस्वामी भी मौजूद रहे। श्री मांडविया ने देश के विभिन्न हिस्सों में 650 करोड़ रुपये से […]",
-        "article": "श्रम और रोजगार मंत्री मनसुख मांडविया ने आज हैदराबाद के सनतनगर ईएसआईसी अस्पताल में 211 करोड़ रुपये की लागत से बने अत्याधुनिक बाह्य रोगी विभाग-ओपीडी ब्लॉक का उद्घाटन किया। इस अवसर पर उनके साथ राज्य मंत्री जी. विवेक वेंकटस्वामी भी मौजूद रहे। श्री मांडविया ने देश के विभिन्न हिस्सों में 650 करोड़ रुपये से अधिक लागत वाली छह अन्य ईएसआई परियोजनाओं का भी वर्चुअल माध्&#x200d;यम से उद्घाटन किया। इन परियोजनाओं से देशभर के 53 लाख लाभार्थियों को आईसीयू और एनआईसीयू सहित आधुनिक और निःशुल्क चिकित्सा सुविधाएं मिलेंगी। उद्घाटन के बाद दोनों मंत्रियों ने अस्पताल के निर्माण में योगदान देने वाले श्रमिकों का सम्मान भी किया। इस अवसर पर श्री मांडविया ने कहा कि श्रमिक और युवा शक्ति देश की प्रगति के दो सबसे महत्वपूर्ण आधार हैं। उन्होंने कहा कि तकनीक के विकास के बावजूद बुनियादी ढांचा निर्माण में श्रमिकों की भूमिका का कोई विकल्प नहीं है। इसलिए सरकार सामाजिक सुरक्षा को सर्वोच्च प्राथमिकता दे रही है। उन्होंने कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी के नेतृत्व में पिछले दस वर्षों में ईएसआईसी के लाभार्थियों की संख्या साढ़े सात करोड़ से बढ़कर 15 करोड़ हो गई है। इसके साथ ही देश में सामाजिक सुरक्षा का दायरा 19 प्रतिशत से बढ़कर 64 प्रतिशत हो गया है। श्री मांडविया ने बताया कि नए चार श्रम संहिताओं के अंतर्गत श्रमिकों को नियुक्ति पत्र, महिलाओं को समान वेतन और एक वर्ष की सेवा के बाद ग्रेच्युटी का अधिकार सुनिश्चित किया गया है। उन्होंने उद्योगों और श्रमिक संगठनों से विकसित भारत 2047 के लक्ष्य को हासिल करने के लिए मिलकर काम करने का आह्वान किया। साथ ही विश्वास जताया कि यह नई अस्पताल सुविधा लाखों लोगों को बेहतर स्वास्थ्य सेवाएं उपलब्ध कराएगी।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T14:18:44+00:00",
-        "link": "https://newsonair.gov.in/hi/labour-and-employment-minister-mansukh-mandaviya-inaugurated-esi-projects-worth-over-%e2%82%b9650-crore/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/mandviy.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कृषि मंत्री शिवराज सिंह चौहान ने पश्चिम बंगाल में चार कृषि अनुसंधान केंद्रों की घोषणा की",
-        "summary": "कृषि और किसान कल्याण तथा ग्रामीण विकास मंत्री शिवराज सिंह चौहान ने कहा है कि पश्चिम बंगाल में मौसम और मिट्टी के अनुसार कृषि विकास का रोडमैप तैयार किया जा रहा है। आज राज्य सचिवालय नवान्न में आयोजित बैठक में उन्होंने कहा कि इस रोडमैप को तैयार करने के लिए कृषि विश्वविद्यालय, शोध संस्थान और […]",
-        "article": "कृषि और किसान कल्याण तथा ग्रामीण विकास मंत्री शिवराज सिंह चौहान ने कहा है कि पश्चिम बंगाल में मौसम और मिट्टी के अनुसार कृषि विकास का रोडमैप तैयार किया जा रहा है। आज राज्य सचिवालय नवान्न में आयोजित बैठक में उन्होंने कहा कि इस रोडमैप को तैयार करने के लिए कृषि विश्वविद्यालय, शोध संस्थान और पश्चिम बंगाल सरकार मिलकर काम कर रहे हैं। श्री चौहान ने बताया कि पश्चिम बंगाल में चिनसुरा और मालदा सहित चार स्थानों पर आलू और जूट के बीजों केWest Bengal.प्रशिक्षण और अनुसंधान केंद्र स्थापित किए जाएंगे। उन्होंने किसानों के लिए डिजिटल पहचान पत्र बनाने और प्रधानमंत्री फसल बीमा योजना सहित विभिन्न केंद्रीय योजनाओं के प्रभावी क्रियान्वयन के लिए राज्य सरकार की सराहना की। बैठक में पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी, राज्य के कृषि मंत्री दूध कुमार मंडल, पंचायत मंत्री दिलीप घोष तथा अन्य वरिष्ठ अधिकारी और गणमान्य लोग उपस्थित थे।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T13:02:54+00:00",
-        "link": "https://newsonair.gov.in/hi/agriculture-minister-shivraj-singh-chouhan-announced-four-agricultural-research-centers-in-west-bengal-2/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/west-bengal-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "सुप्रीम कोर्ट ने समय रैना, रणवीर इलाहाबादिया और आशीष चंचलानी को लगाई फटकार",
+        "summary": "सर्वोच्‍च न्‍यायालय ने कल कॉमेडियन समय रैना और यूट्यूबर रणवीर इलाहाबादिया और आशीष चंचलानी को अदालत के आदेश का पालन न करने के लिए फटकार लगाई और कहा कि वे स्‍वयं को युवाओं का आदर्श मानते हैं। न्‍यायमूर्ति सूर्यकांत और न्‍यायाधीश जॉयमाल्य बागची और वी मोहना की पीठ ने यह आदेश उस समय पारित किया […]",
+        "article": "सर्वोच्&#x200d;च न्&#x200d;यायालय ने कल कॉमेडियन समय रैना और यूट्यूबर रणवीर इलाहाबादिया और आशीष चंचलानी को अदालत के आदेश का पालन न करने के लिए फटकार लगाई और कहा कि वे स्&#x200d;वयं को युवाओं का आदर्श मानते हैं। न्&#x200d;यायमूर्ति सूर्यकांत और न्&#x200d;यायाधीश जॉयमाल्य बागची और वी मोहना की पीठ ने यह आदेश उस समय पारित किया जब उन्हें बताया गया कि रैना ने अपने पहले के आदेश के अनुसार किसी भी दिव्यांग व्यक्ति को अपने शो में आमंत्रित नहीं किया था। पीठ ने कहा कि उन्हें इस बात पर संदेह करने की कोई वजह नहीं है कि समय रैना ने अदालत को गुमराह किया है और अदालत के समक्ष दिए गए बयानों और वचनों का खुलेआम उल्लंघन किया है। सर्वोच्&#x200d;च न्&#x200d;यायालय क्योर एसएमए इंडिया फाउंडेशन द्वारा दायर एक याचिका पर सुनवाई कर रहा था, जिसमें आरोप लगाया गया था कि रैना ने स्पाइनल मस्कुलर एट्रोफी के इलाज की उच्च लागत पर असंवेदनशील टिप्पणी की और कथित तौर पर एक दिव्यांग व्यक्ति का मजाक उड़ाया। याचिका में &#8220;इंडियाज़ गॉट लेटेंट&#8221; के होस्ट समय रैना और अन्य सोशल मीडिया पर प्रभावशाली लोगों विपुन गोयल, बलराज परमजीत सिंह घई, सोनाली ठक्कर और निशांत जगदीश तंवर द्वारा बनाए गए चुटकुलों को चिह्नित किया गया था।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:21:00+00:00",
+        "link": "https://newsonair.gov.in/hi/sc-ranveer-case/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/sc.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत में 24 परमाणु ऊर्जा रिएक्टर चालू, 10 नए रिएक्टरों का निर्माण जारी",
+        "summary": "भारत वर्तमान में सात स्थानों पर 8.78 गीगावाट की कुल स्थापित क्षमता वाले 24 परमाणु ऊर्जा रिएक्टरों का संचालन कर रहा है। इसके अलावा, 8 हजार मेगावाट की संयुक्त क्षमता वाली दस और रिएक्टर इकाइयां निर्माणाधीन हैं। इनमें रिएक्टर प्रेशराइज्ड हेवी वाटर रिएक्टर, बॉइलिंग वाटर रिएक्टर और लाइट वाटर रिएक्टर शामिल हैं। देश मुख्य रूप […]",
+        "article": "भारत वर्तमान में सात स्थानों पर 8.78 गीगावाट की कुल स्थापित क्षमता वाले 24 परमाणु ऊर्जा रिएक्टरों का संचालन कर रहा है। इसके अलावा, 8 हजार मेगावाट की संयुक्त क्षमता वाली दस और रिएक्टर इकाइयां निर्माणाधीन हैं। इनमें रिएक्टर प्रेशराइज्ड हेवी वाटर रिएक्टर, बॉइलिंग वाटर रिएक्टर और लाइट वाटर रिएक्टर शामिल हैं। देश मुख्य रूप से प्रेशराइज्ड हेवी वाटर रिएक्टरों को चलाने और परमाणु ऊर्जा उत्पादन के लिए प्राकृतिक यूरेनियम ईंधन का उपयोग कर रहा है। सरकार ने कहा कि भारत ऊर्जा सुरक्षा को मजबूत करने और स्वच्छ आर्थिक विकास को बढ़ावा देने के लिए अपने परमाणु ऊर्जा कार्यक्रम का लगातार विस्तार कर रहा है। पिछले सप्ताह मेलबर्न में आयोजित तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन का एक प्रमुख परिणाम भारत-ऑस्ट्रेलिया नागरिक परमाणु सहयोग समझौते के अंतर्गत प्रशासनिक व्यवस्था को अंतिम रूप देना था। यह शांतिपूर्ण उद्देश्यों के लिए ऑस्ट्रेलिया से भारत को दीर्घकालिक यूरेनियम निर्यात का रास्ता साफ हुआ है। ऑस्ट्रेलिया का यूरेनियम इन परमाणु ऊर्जा रिएक्टरों को चलाने के लिए प्राथमिक ईंधन की निरंतर आपूर्ति सुनिश्चित करेगा।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T01:07:10+00:00",
+        "link": "https://newsonair.gov.in/hi/nuclear-reactors-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNM9u4lbEAA0AIb.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने देश का पहला सेवा उत्पादन सूचकांक जारी किया",
+        "summary": "सरकार ने देश का पहला सेवा उत्पादन सूचकांक-आईएसपी का पहला प्रायोगिक सूचकांक जारी किया। इससे पहली बार औपचारिक सेवा क्षेत्र की गतिविधियों का मासिक आकलन उपलब्ध होगा। वर्ष 2024-25 को आधार वर्ष मानकर तैयार किया गया यह पहला सूचकांक अप्रैल 2026 का है। इसमें सेवा क्षेत्र के 19 उप-क्षेत्र शामिल हैं, जो भारत के लगभग […]",
+        "article": "सरकार ने देश का पहला सेवा उत्पादन सूचकांक-आईएसपी का पहला प्रायोगिक सूचकांक जारी किया। इससे पहली बार औपचारिक सेवा क्षेत्र की गतिविधियों का मासिक आकलन उपलब्ध होगा। वर्ष 2024-25 को आधार वर्ष मानकर तैयार किया गया यह पहला सूचकांक अप्रैल 2026 का है। इसमें सेवा क्षेत्र के 19 उप-क्षेत्र शामिल हैं, जो भारत के लगभग 60 प्रतिशत सेवा क्षेत्र का प्रतिनिधित्व करते हैं। सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय &#8211; एमओएसपीआई ने इसे देश के सेवा क्षेत्र के बेहतर आकलन और सांख्यिकीय प्रणाली को मजबूत बनाने की दिशा में महत्वपूर्ण कदम बताया है। मंत्रालय ने कहा कि परीक्षण श्रृंखला की समीक्षा और दायरा बढ़ाने के बाद सेवा उत्पादन का समग्र सूचकांक जारी किया जाएगा। अप्रैल के आंकड़ों के अनुसार, सेवा क्षेत्र में व्यापक वृद्धि दर्ज की गई है। 19 में से 14 उप-क्षेत्रों में पिछले वर्ष के अप्रैल की तुलना में दो अंकों की वृद्धि दर्ज हुई, जबकि लगभग सभी अन्य क्षेत्रों में भी सकारात्मक वृद्धि रही। एमओएसपीआई के अनुसार, सेवा उत्पादन सूचकांक में सबसे तेज़ वृद्धि आवास और भोजन सेवाओं में 37.2 प्रतिशत और खुदरा व्यापार में 30.8 प्रतिशत दर्ज की गई है। मंत्रालय ने बताया कि यह आंकड़े ई-सांख्यिकी पोर्टल पर भी उपलब्ध होंगे। इस अवसर पर मंत्रालय के सचिव डॉ. सौरभ गर्ग ने कहा कि सेवा उत्पादन सूचकांक की शुरुआत भारत की सांख्यिकीय प्रणाली को मजबूत बनाने की दिशा में एक महत्वपूर्ण कदम है। उन्होंने बताया कि यह सूचकांक पूरी तरह प्रशासनिक आंकड़ों, सरकारी मंत्रालयों से प्राप्त सूचनाओं और जीएसटी रिकॉर्ड के आधार पर तैयार किया गया है। इसके लिए उद्योगों और कारोबारों पर कोई अतिरिक्त अनुपालन बोझ नहीं डाला गया है। डॉ. गर्ग ने स्पष्ट किया कि यह सूचकांक उत्पादन का संकेतक है और इसे सकल मूल्य वर्धन- जीवीए, जिसका उपयोग जीडीपी के आकलन में किया जाता है, के बराबर नहीं माना जाना चाहिए। उन्होंने कहा कि मंत्रालय हितधारकों से सुझाव लेकर इस सूचकांक को और बेहतर बनाएगा। इस बीच, मुख्य आर्थिक सलाहकार डॉ. वी. अनंत नागेश्वरन ने कहा कि इसे परीक्षण श्रृंखला के रूप में देखा जाना चाहिए, न कि अंतिम और पूर्ण सूचकांक के रूप में। उन्होंने कहा कि इसे सार्वजनिक करना मंत्रालय के इस विश्वास को दर्शाता है कि इसकी कार्यप्रणाली मजबूत है और सुझावों के आधार पर इसे और बेहतर बनाया जाएगा। उन्होंने बताया कि भविष्य में स्वास्थ्य सेवाओं और आवास स्वामित्व जैसे क्षेत्रों को भी इसमें शामिल किया जाएगा। इससे औपचारिक सेवा क्षेत्र के लगभग 85 से 90 प्रतिशत हिस्से को इस सूचकांक के दायरे में लाया जा सकेगा।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:49:47+00:00",
+        "link": "https://newsonair.gov.in/hi/govt-releases-first-sub-sectoral-trial-index-of-services-production/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/production-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत-मालदीव मुक्त व्यापार समझौते पर वार्ता का पहला दौर सफलतापूर्वक संपन्न",
+        "summary": "भारत-मालदीव मुक्त व्यापार समझौते के लिए वार्ता का पहला दौर सफलतापूर्वक संपन्न हो गया है। यह द्विपक्षीय व्यापार और निवेश संबंधों को विस्तार देने की दिशा में एक महत्वपूर्ण कदम है। वार्ता पिछले सप्ताह वर्चुअल माध्यम से आयोजित की गई थी। वाणिज्य और उद्योग मंत्रालय ने कहा कि इस दौरान दोनों पक्षों ने सभी पहलुओं […]",
+        "article": "भारत-मालदीव मुक्त व्यापार समझौते के लिए वार्ता का पहला दौर सफलतापूर्वक संपन्न हो गया है। यह द्विपक्षीय व्यापार और निवेश संबंधों को विस्तार देने की दिशा में एक महत्वपूर्ण कदम है। वार्ता पिछले सप्ताह वर्चुअल माध्यम से आयोजित की गई थी। वाणिज्य और उद्योग मंत्रालय ने कहा कि इस दौरान दोनों पक्षों ने सभी पहलुओं पर ठोस प्रगति की और कई मुद्दों पर व्यापक सहमति बनी। भारत मालदीव का दूसरा सबसे बड़ा व्यापारिक साझेदार है। दोनों देशों के बीच द्विपक्षीय व्यापार वर्ष 2025-26 में 771 मिलियन डॉलर से अधिक का था। वर्ष 2024-25 में यह 679 मिलियन डॉलर था। इसमें साढ़े 13 प्रतिशत से अधिक की बढ़ोतरी हुई है। प्रस्तावित समझौते से बाजार पहुंच बढ़ाकर, निवेश को सुगम बनाकर, अधिक आर्थिक सहयोग को बढ़ावा देकर और दोनों देशों में सतत आर्थिक विकास में योगदान देकर द्विपक्षीय आर्थिक और व्यापारिक संबंधों को और मजबूत करने की उम्मीद है।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:45:41+00:00",
+        "link": "https://newsonair.gov.in/hi/first-round-of-talks-on-the-india-maldives-free-trade-agreement-successfully-concluded/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/India-maldives-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत और ब्रिटेन के बीच व्यापक आर्थिक और व्यापार समझौता-सीईटीए आज से हुआ लागू",
+        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्‍यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को […]",
+        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्&#x200d;यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाजार में 99 प्रतिशत टैरिफ लाइनों पर शून्य शुल्क की सुविधा प्राप्त होगी। यह समझौता भारत और ब्रिटेन की अपनी रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। कल नई दिल्ली में मीडिया को संबोधित करते हुए वाणिज्य सचिव राजेश अग्रवाल ने भारत-ब्रिटेन व्यापक आर्थिक एवं व्यापार समझौते को भारत की व्यापारिक यात्रा में एक महत्वपूर्ण मील का पत्थर बताया और कहा कि यह दो प्रमुख अर्थव्यवस्थाओं के बीच भविष्&#x200d;य के लिए आर्थिक साझेदारी स्थापित करता है। उन्होंने कहा कि यह समझौता भारत और ब्रिटेन के बीच द्विपक्षीय व्यापार और निवेश संबंधों में एक नए चरण की शुरुआत करेगा। श्री अग्रवाल ने कहा कि यह समझौता भारत के सबसे व्यापक व्यापार समझौतों में से एक है, जो व्यापक क्षेत्रीय सूचना प्रदान करता है और साथ ही शुल्क एवं शुल्क रहि&#x200d;त बाधाओं को कम करता है। दोहरे अंशदान सम्मेलन पर प्रकाश डालते हुए, श्री अग्रवाल ने कहा कि यह व्यवस्था ब्रिटेन में अस्थाई तौर पर कार्यरत पात्र श्रमिकों को निर्दिष्ट अवधि के लिए सामाजिक सुरक्षा अंशदान का भुगतान करने से छूट देकर भारतीय पेशेवरों और उनके नियोक्ताओं को लाभ पहुंचाएगी। भारत-ब्रिटेन सीईटीए और डीसीसी का लागू होना वैश्विक स्तर पर एकीकृत, लचीली और प्रतिस्पर्धी अर्थव्यवस्था बनने की दिशा में भारत की यात्रा में एक महत्वपूर्ण कदम है।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:42:29+00:00",
+        "link": "https://newsonair.gov.in/hi/ceta-marks-beginning-of-new-phase-of-bilateral-relations-between-india-uk-commerce-secretary/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Rajesh-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "भारत ने होर्मुज जलडमरूमध्य से सुरक्षित और निर्बाध नौवहन और व्यापार जारी रखने का किया आह्वान",
         "summary": "भारत पश्चिम एशिया के घटनाक्रमों पर करीबी नजर रखे हुए है। भारत ने एक बार फिर होर्मुज जलडमरूमध्य से सुरक्षित और निर्बाध नौवहन और व्यापार जारी रखने का आह्वान किया है। विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने नई दिल्‍ली में कहा कि यह विश्वभर के लोगों की आर्थिक और ऊर्जा सुरक्षा सुनिश्चित करने के […]",
         "article": "भारत पश्चिम एशिया के घटनाक्रमों पर करीबी नजर रखे हुए है। भारत ने एक बार फिर होर्मुज जलडमरूमध्य से सुरक्षित और निर्बाध नौवहन और व्यापार जारी रखने का आह्वान किया है। विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने नई दिल्&#x200d;ली में कहा कि यह विश्वभर के लोगों की आर्थिक और ऊर्जा सुरक्षा सुनिश्चित करने के लिए अत्यंत महत्वपूर्ण है। उन्होंने कहा कि विदेश मंत्रालय ने ईरान के उप मिशन प्रमुख को तलब कर भारत की गहरी चिंता से अवगत कराया और जो कुछ हुआ है उसकी कड़ी निंदा की है। उन्होंने कहा कि एक भारतीय नागरिक की जान चली गई है और कई भारतीय गंभीर रूप से घायल हैं। प्रवक्ता ने कहा कि भारत ने कड़ा विरोध दर्ज कराते हुए कहा कि इन हमलों को जल्द से जल्द रोका जाना चाहिए। साथ ही, तनाव कम किया जाना चाहिए और दोनों पक्षों को बातचीत, संवाद और कूटनीति का मार्ग अपनाना चाहिए ताकि पश्चिम एशिया में शांति और स्थिरता सुनिश्चित की जा सके। पाकिस्&#x200d;तान के कब्&#x200d;जे वाले जम्मू-कश्मीर में विरोध प्रदर्शनों पर श्री जायसवाल ने कहा कि यह प्रदर्शन पाकिस्तान द्वारा दशकों से किए जा रहे शोषण, मौलिक अधिकारों के हनन तथा अवैध और जबरन कब्जे वाले क्षेत्रों में प्रशासनिक दमन का परिणाम हैं। उन्होंने बताया कि लोगों की शिकायतों को दूर करने के बजाय, पाकिस्तानी सरकार ने पुलिस की बर्बरता और घातक बल प्रयोग किया है। इससे कई दुखद मौतें हुई हैं। उन्होंने कहा कि भारत को उम्मीद है कि अंतरराष्ट्रीय समुदाय इन दुर्व्यवहारों और कुकर्मों के लिए पाकिस्तान को पूरी तरह से जवाबदेह ठहराएगा। लॉरेंस बिश्नोई गिरोह पर अभियोग के संबंध में, प्रवक्ता ने कहा कि भारत लगातार यह कहता रहा है कि अंतरराष्ट्रीय संगठित अपराध, आतंकवाद, नशीले पदार्थों की तस्करी, मानव तस्करी, अवैध हथियारों की तस्करी और संबंधित आपराधिक नेटवर्क समाज के लिए बड़ा खतरा हैं। उन्होंने कहा कि आतंकवाद और अंतरराष्ट्रीय संगठित अपराध से निपटने में भारत और अमरीका के बीच मजबूत सहयोग है। श्री जायसवाल ने कहा कि दोनों देशों की एजेंसियां कई वर्षों से मिलकर काम कर रही है और यह सहयोग लगातार बढ़ता जा रहा है। संयुक्त राष्ट्र समुद्री कानून सम्मेलन-यूएनसीएलओ पर श्री जायसवाल ने कहा कि दक्षिण चीन सागर मुद्दे पर भारत का रुख सर्वविदित है। उन्होंने नौवहन और हवाई उड़ान की स्वतंत्रता, समुद्र के अन्य वैध उपयोगों और अंतरराष्ट्रीय कानून के अनुरूप निर्बाध व्यापार को बनाए रखने के महत्व पर बल दिया। उन्होंने कहा कि समुद्री विवादों का समाधान शांतिपूर्ण ढंग से और यूएनसीएलओ के अनुसार किया जाना चाहिए। प्रवक्ता ने दोहराया कि दस वर्ष पूर्व मध्यस्थ न्यायाधिकरण द्वारा दिया गया निर्णय महत्वपूर्ण है और पक्षों के बीच विवादों के शांतिपूर्ण समाधान का आधार है। कनाडा में निज्जर मामले पर श्री जायसवाल ने कहा कि मंत्रालय ने रॉयल कैनेडियन माउंटेड पुलिस के उप आयुक्त द्वारा की गई टिप्पणियों पर ध्यान दिया है। उन्होंने कहा कि ये टिप्पणियां हाल ही में सार्वजनिक किए गए अमरीकी अभियोग के अनुरूप हैं। इसमें लॉरेंस बिश्नोई संगठित अपराध समूह के सदस्यों को दोषी ठहराया गया है। भारत आतंकवाद और अंतरराष्ट्रीय संगठित अपराध से निपटने के लिए अपने साझेदारों के साथ घनिष्ठ कानून प्रवर्तन और सुरक्षा सहयोग के माध्यम से काम करने के लिए प्रतिबद्ध है। पासपोर्ट पर श्री जायसवाल ने कहा कि भारतीय पासपोर्ट एक ऐसा दस्तावेज है जो पासपोर्ट अधिनियम, 1967 के अनुसार केंद्र सरकार द्वारा लोगों के भारत से प्रस्थान को विनियमित करने के लिए जारी किया जाता है। यह एक स्थापित प्रक्रिया द्वारा निर्धारित उचित सत्यापन के बाद जारी किया जाता है। प्रवक्ता ने कहा कि भारतीय नागरिकों या किसी अन्य व्यक्ति को पासपोर्ट जारी करना पासपोर्ट अधिनियम और पासपोर्ट नियम, 1980 द्वारा नियंत्रित होता है। उन्होंने बताया कि वर्तमान में 8 प्रतिशत से भी कम भारतीय नागरिकों के पास पासपोर्ट है।",
@@ -1256,17 +1311,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T15:37:10+00:00",
         "link": "https://newsonair.gov.in/hi/india-closely-following-developments-in-west-asia-calls-for-safe-navigation-through-strait-of-hormuz-mea/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-4-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत और ब्रिटेन के बीच व्यापक आर्थिक और व्यापार समझौता-सीईटीए कल से लागू",
-        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक और व्यापार समझौता-सीईटीए कल से लागू हो जाएगा। साथ ही, सामाजिक सुरक्षा समझौता &#8211; दोहरा योगदान समझौता-डीसीसी भी प्रभावी हो जाएगा। इससे ब्रिटेन में भारतीय पेशेवरों की आवाजाही और प्रतिस्पर्धात्मकता को बढ़ावा मिलेगा। इस अहम समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत टैरिफ […]",
-        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक और व्यापार समझौता-सीईटीए कल से लागू हो जाएगा। साथ ही, सामाजिक सुरक्षा समझौता &#8211; दोहरा योगदान समझौता-डीसीसी भी प्रभावी हो जाएगा। इससे ब्रिटेन में भारतीय पेशेवरों की आवाजाही और प्रतिस्पर्धात्मकता को बढ़ावा मिलेगा। इस अहम समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत टैरिफ पर शुल्&#x200d;क नहीं लगेगा। यह समझौता दोनों देशों के साझा प्रतिबद्धता को दिखाता है। इसके माध्&#x200d;यम से वे अपनी रणनीतिक साझेदारी को और मज़बूत करना चाहते हैं और लोगों को समृद्धि बनाना चाहते हैं। नई दिल्ली में वाणिज्य सचिव राजेश अग्रवाल ने इस व्&#x200d;यापार समझौते को भारत की व्यापार यात्रा में एक अहम पड़ाव बताया है। उन्होंने कहा कि यह समझौता दो बड़ी अर्थव्यवस्थाओं के बीच भविष्य की ओर देखने वाली आर्थिक साझेदारी कायम करता है। उन्होंने कहा कि इस समझौते से दोनों देशों के बीच द्विपक्षीय व्यापार और निवेश संबंधों में एक नए दौर की शुरुआत होगी। श्री अग्रवाल ने कहा कि यह समझौता भारत के सबसे व्यापक व्यापार समझौतों में से एक है। यह कई क्षेत्रों में टैरिफ और नॉन-टैरिफ बाधाओं को कम करता है। दोहरे योगदान समझौते पर श्री अग्रवाल ने कहा कि इससे भारतीय पेशेवरों और उनके नियोक्ताओं को फ़ायदा होगा। इसके अंतर्गत ब्रिटेन में अस्थायी काम पर गए योग्य कर्मचारियों को एक निश्चित अवधि के लिए सामाजिक सुरक्षा अंशदान देने से छूट मिलेगी। हमारे संवाददाता ने बताया है कि दोनों समझौतों को लागू करना, भारत के लिए वैश्विक स्तर पर मज़बूत और प्रतिस्पर्धी अर्थव्यवस्था बनने की दिशा में एक बड़ा कदम है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T15:36:29+00:00",
-        "link": "https://newsonair.gov.in/hi/ceta-marks-beginning-of-new-phase-of-bilateral-relations-between-india-uk-commerce-secretary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Rajesh-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1311,56 +1355,67 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T14:28:28+00:00",
         "link": "https://newsonair.gov.in/hi/the-meteorological-department-has-forecast-heavy-rain-thunderstorms-and-heatwaves-in-several-states/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/imd-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भोपाल में देश की पहली स्पेस एक्सप्लोरेशन गैलरी का उद्घाटन",
-        "summary": "संस्कृति और पर्यटन मंत्री गजेंद्र सिंह शेखावत ने आज मध्य प्रदेश की राजधानी भोपाल में देश की पहली स्पेस एक्सप्लोरेशन गैलरी का उद्घाटन किया। इस अवसर पर मुख्यमंत्री डॉ. मोहन यादव भी उपस्थित थे। यह गैलरी भोपाल के क्षेत्रीय विज्ञान केंद्र में स्थापित की गई है। इस अवसर पर श्री शेखावत ने कहा कि […]",
-        "article": "संस्कृति और पर्यटन मंत्री गजेंद्र सिंह शेखावत ने आज मध्य प्रदेश की राजधानी भोपाल में देश की पहली स्पेस एक्सप्लोरेशन गैलरी का उद्घाटन किया। इस अवसर पर मुख्यमंत्री डॉ. मोहन यादव भी उपस्थित थे। यह गैलरी भोपाल के क्षेत्रीय विज्ञान केंद्र में स्थापित की गई है। इस अवसर पर श्री शेखावत ने कहा कि मध्य प्रदेश ने अपनी अंतरिक्ष नीति बनाई है। उन्होंने इसका श्रेय मुख्यमंत्री डॉ. मोहन यादव की पहल को दिया। उन्होंने कहा कि इस गैलरी के माध्यम से विद्यार्थियों को अंतरिक्ष विज्ञान के बारे में विस्तार से जानकारी मिलेगी। यह गैलरी राष्ट्रीय विज्ञान संग्रहालय परिषद ने तैयार की है। इसके निर्माण में मुंबई के नेहरू विज्ञान केंद्र ने तकनीकी सहयोग दिया है। इसका उद्देश्य लोगों में विज्ञान के प्रति रुचि और वैज्ञानिक सोच को बढ़ावा देना है। आधुनिक डिजिटल तकनीक से सुसज्जित इस गैलरी में ब्रह्मांड और भारत के अंतरिक्ष अभियानों की जानकारी दी गई है। इसमें भारत की प्राचीन ज्ञान परंपरा के साथ-साथ आर्यभट्ट, चंद्रयान और गगनयान जैसी उपलब्धियों को भी प्रदर्शित किया गया है। गैलरी में आगंतुक स्पेस वॉक और फ्लाइट सिम्युलेटर का अनुभव भी ले सकेंगे। इसके अलावा चंद्रमा और मंगल ग्रह की त्रि-आयामी सतह को भी देखा जा सकेगा।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T14:26:04+00:00",
-        "link": "https://newsonair.gov.in/hi/countrys-first-space-exploration-gallery-inaugurated-in-bhopal/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Space-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने देश का पहला सेवा उत्पादन सूचकांक जारी किया",
-        "summary": "सरकार ने आज देश का पहला सेवा उत्पादन सूचकांक-आईएसपी का पहला प्रायोगिक सूचकांक जारी किया। इससे पहली बार औपचारिक सेवा क्षेत्र की गतिविधियों का मासिक आकलन उपलब्ध होगा। वर्ष 2024-25 को आधार वर्ष मानकर तैयार किया गया यह पहला सूचकांक अप्रैल 2026 का है। इसमें सेवा क्षेत्र के 19 उप-क्षेत्र शामिल हैं, जो भारत […]",
-        "article": "सरकार ने आज देश का पहला सेवा उत्पादन सूचकांक-आईएसपी का पहला प्रायोगिक सूचकांक जारी किया। इससे पहली बार औपचारिक सेवा क्षेत्र की गतिविधियों का मासिक आकलन उपलब्ध होगा। वर्ष 2024-25 को आधार वर्ष मानकर तैयार किया गया यह पहला सूचकांक अप्रैल 2026 का है। इसमें सेवा क्षेत्र के 19 उप-क्षेत्र शामिल हैं, जो भारत के लगभग 60 प्रतिशत सेवा क्षेत्र का प्रतिनिधित्व करते हैं। सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय ने इसे देश के सेवा क्षेत्र के बेहतर आकलन और सांख्यिकीय प्रणाली को मजबूत बनाने की दिशा में महत्वपूर्ण कदम बताया है। मंत्रालय ने कहा कि परीक्षण श्रृंखला की समीक्षा और दायरा बढ़ाने के बाद सेवा उत्पादन का समग्र सूचकांक जारी किया जाएगा। अप्रैल के आंकड़ों के अनुसार, सेवा क्षेत्र में व्यापक वृद्धि दर्ज की गई है। 19 में से 14 उप-क्षेत्रों में पिछले वर्ष के अप्रैल की तुलना में दो अंकों की वृद्धि दर्ज हुई, जबकि लगभग सभी अन्य क्षेत्रों में भी सकारात्मक वृद्धि रही। मंत्रालय ने बताया कि सेवा उत्पादन सूचकांक हर महीने की 29 तारीख को जारी किया जाएगा। इससे नीति निर्माताओं, उद्योग जगत और शोधकर्ताओं को सेवा क्षेत्र की अल्पकालिक गतिविधियों का समय पर आकलन करने में मदद मिलेगी।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T14:21:47+00:00",
-        "link": "https://newsonair.gov.in/hi/govt-releases-first-sub-sectoral-trial-index-of-services-production/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/production-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "श्रम और रोजगार मंत्री मनसुख मांडविया ने 650 करोड़ रुपये से अधिक की ईएसआई परियोजनाओं का उद्घाटन किया",
-        "summary": "श्रम और रोजगार मंत्री मनसुख मांडविया ने आज हैदराबाद के सनतनगर ईएसआईसी अस्पताल में 211 करोड़ रुपये की लागत से बने अत्याधुनिक बाह्य रोगी विभाग-ओपीडी ब्लॉक का उद्घाटन किया। इस अवसर पर उनके साथ राज्य मंत्री जी. विवेक वेंकटस्वामी भी मौजूद रहे। श्री मांडविया ने देश के विभिन्न हिस्सों में 650 करोड़ रुपये से […]",
-        "article": "श्रम और रोजगार मंत्री मनसुख मांडविया ने आज हैदराबाद के सनतनगर ईएसआईसी अस्पताल में 211 करोड़ रुपये की लागत से बने अत्याधुनिक बाह्य रोगी विभाग-ओपीडी ब्लॉक का उद्घाटन किया। इस अवसर पर उनके साथ राज्य मंत्री जी. विवेक वेंकटस्वामी भी मौजूद रहे। श्री मांडविया ने देश के विभिन्न हिस्सों में 650 करोड़ रुपये से अधिक लागत वाली छह अन्य ईएसआई परियोजनाओं का भी वर्चुअल माध्&#x200d;यम से उद्घाटन किया। इन परियोजनाओं से देशभर के 53 लाख लाभार्थियों को आईसीयू और एनआईसीयू सहित आधुनिक और निःशुल्क चिकित्सा सुविधाएं मिलेंगी। उद्घाटन के बाद दोनों मंत्रियों ने अस्पताल के निर्माण में योगदान देने वाले श्रमिकों का सम्मान भी किया। इस अवसर पर श्री मांडविया ने कहा कि श्रमिक और युवा शक्ति देश की प्रगति के दो सबसे महत्वपूर्ण आधार हैं। उन्होंने कहा कि तकनीक के विकास के बावजूद बुनियादी ढांचा निर्माण में श्रमिकों की भूमिका का कोई विकल्प नहीं है। इसलिए सरकार सामाजिक सुरक्षा को सर्वोच्च प्राथमिकता दे रही है। उन्होंने कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी के नेतृत्व में पिछले दस वर्षों में ईएसआईसी के लाभार्थियों की संख्या साढ़े सात करोड़ से बढ़कर 15 करोड़ हो गई है। इसके साथ ही देश में सामाजिक सुरक्षा का दायरा 19 प्रतिशत से बढ़कर 64 प्रतिशत हो गया है। श्री मांडविया ने बताया कि नए चार श्रम संहिताओं के अंतर्गत श्रमिकों को नियुक्ति पत्र, महिलाओं को समान वेतन और एक वर्ष की सेवा के बाद ग्रेच्युटी का अधिकार सुनिश्चित किया गया है। उन्होंने उद्योगों और श्रमिक संगठनों से विकसित भारत 2047 के लक्ष्य को हासिल करने के लिए मिलकर काम करने का आह्वान किया। साथ ही विश्वास जताया कि यह नई अस्पताल सुविधा लाखों लोगों को बेहतर स्वास्थ्य सेवाएं उपलब्ध कराएगी।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T14:18:44+00:00",
-        "link": "https://newsonair.gov.in/hi/labour-and-employment-minister-mansukh-mandaviya-inaugurated-esi-projects-worth-over-%e2%82%b9650-crore/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/mandviy.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कृषि मंत्री शिवराज सिंह चौहान ने पश्चिम बंगाल में चार कृषि अनुसंधान केंद्रों की घोषणा की",
-        "summary": "कृषि और किसान कल्याण तथा ग्रामीण विकास मंत्री शिवराज सिंह चौहान ने कहा है कि पश्चिम बंगाल में मौसम और मिट्टी के अनुसार कृषि विकास का रोडमैप तैयार किया जा रहा है। आज राज्य सचिवालय नवान्न में आयोजित बैठक में उन्होंने कहा कि इस रोडमैप को तैयार करने के लिए कृषि विश्वविद्यालय, शोध संस्थान और […]",
-        "article": "कृषि और किसान कल्याण तथा ग्रामीण विकास मंत्री शिवराज सिंह चौहान ने कहा है कि पश्चिम बंगाल में मौसम और मिट्टी के अनुसार कृषि विकास का रोडमैप तैयार किया जा रहा है। आज राज्य सचिवालय नवान्न में आयोजित बैठक में उन्होंने कहा कि इस रोडमैप को तैयार करने के लिए कृषि विश्वविद्यालय, शोध संस्थान और पश्चिम बंगाल सरकार मिलकर काम कर रहे हैं। श्री चौहान ने बताया कि पश्चिम बंगाल में चिनसुरा और मालदा सहित चार स्थानों पर आलू और जूट के बीजों केWest Bengal.प्रशिक्षण और अनुसंधान केंद्र स्थापित किए जाएंगे। उन्होंने किसानों के लिए डिजिटल पहचान पत्र बनाने और प्रधानमंत्री फसल बीमा योजना सहित विभिन्न केंद्रीय योजनाओं के प्रभावी क्रियान्वयन के लिए राज्य सरकार की सराहना की। बैठक में पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी, राज्य के कृषि मंत्री दूध कुमार मंडल, पंचायत मंत्री दिलीप घोष तथा अन्य वरिष्ठ अधिकारी और गणमान्य लोग उपस्थित थे।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T13:02:54+00:00",
-        "link": "https://newsonair.gov.in/hi/agriculture-minister-shivraj-singh-chouhan-announced-four-agricultural-research-centers-in-west-bengal-2/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/west-bengal-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "सुप्रीम कोर्ट ने समय रैना, रणवीर इलाहाबादिया और आशीष चंचलानी को लगाई फटकार",
+        "summary": "सर्वोच्‍च न्‍यायालय ने कल कॉमेडियन समय रैना और यूट्यूबर रणवीर इलाहाबादिया और आशीष चंचलानी को अदालत के आदेश का पालन न करने के लिए फटकार लगाई और कहा कि वे स्‍वयं को युवाओं का आदर्श मानते हैं। न्‍यायमूर्ति सूर्यकांत और न्‍यायाधीश जॉयमाल्य बागची और वी मोहना की पीठ ने यह आदेश उस समय पारित किया […]",
+        "article": "सर्वोच्&#x200d;च न्&#x200d;यायालय ने कल कॉमेडियन समय रैना और यूट्यूबर रणवीर इलाहाबादिया और आशीष चंचलानी को अदालत के आदेश का पालन न करने के लिए फटकार लगाई और कहा कि वे स्&#x200d;वयं को युवाओं का आदर्श मानते हैं। न्&#x200d;यायमूर्ति सूर्यकांत और न्&#x200d;यायाधीश जॉयमाल्य बागची और वी मोहना की पीठ ने यह आदेश उस समय पारित किया जब उन्हें बताया गया कि रैना ने अपने पहले के आदेश के अनुसार किसी भी दिव्यांग व्यक्ति को अपने शो में आमंत्रित नहीं किया था। पीठ ने कहा कि उन्हें इस बात पर संदेह करने की कोई वजह नहीं है कि समय रैना ने अदालत को गुमराह किया है और अदालत के समक्ष दिए गए बयानों और वचनों का खुलेआम उल्लंघन किया है। सर्वोच्&#x200d;च न्&#x200d;यायालय क्योर एसएमए इंडिया फाउंडेशन द्वारा दायर एक याचिका पर सुनवाई कर रहा था, जिसमें आरोप लगाया गया था कि रैना ने स्पाइनल मस्कुलर एट्रोफी के इलाज की उच्च लागत पर असंवेदनशील टिप्पणी की और कथित तौर पर एक दिव्यांग व्यक्ति का मजाक उड़ाया। याचिका में &#8220;इंडियाज़ गॉट लेटेंट&#8221; के होस्ट समय रैना और अन्य सोशल मीडिया पर प्रभावशाली लोगों विपुन गोयल, बलराज परमजीत सिंह घई, सोनाली ठक्कर और निशांत जगदीश तंवर द्वारा बनाए गए चुटकुलों को चिह्नित किया गया था।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:21:00+00:00",
+        "link": "https://newsonair.gov.in/hi/sc-ranveer-case/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/sc.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत में 24 परमाणु ऊर्जा रिएक्टर चालू, 10 नए रिएक्टरों का निर्माण जारी",
+        "summary": "भारत वर्तमान में सात स्थानों पर 8.78 गीगावाट की कुल स्थापित क्षमता वाले 24 परमाणु ऊर्जा रिएक्टरों का संचालन कर रहा है। इसके अलावा, 8 हजार मेगावाट की संयुक्त क्षमता वाली दस और रिएक्टर इकाइयां निर्माणाधीन हैं। इनमें रिएक्टर प्रेशराइज्ड हेवी वाटर रिएक्टर, बॉइलिंग वाटर रिएक्टर और लाइट वाटर रिएक्टर शामिल हैं। देश मुख्य रूप […]",
+        "article": "भारत वर्तमान में सात स्थानों पर 8.78 गीगावाट की कुल स्थापित क्षमता वाले 24 परमाणु ऊर्जा रिएक्टरों का संचालन कर रहा है। इसके अलावा, 8 हजार मेगावाट की संयुक्त क्षमता वाली दस और रिएक्टर इकाइयां निर्माणाधीन हैं। इनमें रिएक्टर प्रेशराइज्ड हेवी वाटर रिएक्टर, बॉइलिंग वाटर रिएक्टर और लाइट वाटर रिएक्टर शामिल हैं। देश मुख्य रूप से प्रेशराइज्ड हेवी वाटर रिएक्टरों को चलाने और परमाणु ऊर्जा उत्पादन के लिए प्राकृतिक यूरेनियम ईंधन का उपयोग कर रहा है। सरकार ने कहा कि भारत ऊर्जा सुरक्षा को मजबूत करने और स्वच्छ आर्थिक विकास को बढ़ावा देने के लिए अपने परमाणु ऊर्जा कार्यक्रम का लगातार विस्तार कर रहा है। पिछले सप्ताह मेलबर्न में आयोजित तीसरे भारत-ऑस्ट्रेलिया वार्षिक शिखर सम्मेलन का एक प्रमुख परिणाम भारत-ऑस्ट्रेलिया नागरिक परमाणु सहयोग समझौते के अंतर्गत प्रशासनिक व्यवस्था को अंतिम रूप देना था। यह शांतिपूर्ण उद्देश्यों के लिए ऑस्ट्रेलिया से भारत को दीर्घकालिक यूरेनियम निर्यात का रास्ता साफ हुआ है। ऑस्ट्रेलिया का यूरेनियम इन परमाणु ऊर्जा रिएक्टरों को चलाने के लिए प्राथमिक ईंधन की निरंतर आपूर्ति सुनिश्चित करेगा।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T01:07:10+00:00",
+        "link": "https://newsonair.gov.in/hi/nuclear-reactors-india/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNM9u4lbEAA0AIb.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने देश का पहला सेवा उत्पादन सूचकांक जारी किया",
+        "summary": "सरकार ने देश का पहला सेवा उत्पादन सूचकांक-आईएसपी का पहला प्रायोगिक सूचकांक जारी किया। इससे पहली बार औपचारिक सेवा क्षेत्र की गतिविधियों का मासिक आकलन उपलब्ध होगा। वर्ष 2024-25 को आधार वर्ष मानकर तैयार किया गया यह पहला सूचकांक अप्रैल 2026 का है। इसमें सेवा क्षेत्र के 19 उप-क्षेत्र शामिल हैं, जो भारत के लगभग […]",
+        "article": "सरकार ने देश का पहला सेवा उत्पादन सूचकांक-आईएसपी का पहला प्रायोगिक सूचकांक जारी किया। इससे पहली बार औपचारिक सेवा क्षेत्र की गतिविधियों का मासिक आकलन उपलब्ध होगा। वर्ष 2024-25 को आधार वर्ष मानकर तैयार किया गया यह पहला सूचकांक अप्रैल 2026 का है। इसमें सेवा क्षेत्र के 19 उप-क्षेत्र शामिल हैं, जो भारत के लगभग 60 प्रतिशत सेवा क्षेत्र का प्रतिनिधित्व करते हैं। सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय &#8211; एमओएसपीआई ने इसे देश के सेवा क्षेत्र के बेहतर आकलन और सांख्यिकीय प्रणाली को मजबूत बनाने की दिशा में महत्वपूर्ण कदम बताया है। मंत्रालय ने कहा कि परीक्षण श्रृंखला की समीक्षा और दायरा बढ़ाने के बाद सेवा उत्पादन का समग्र सूचकांक जारी किया जाएगा। अप्रैल के आंकड़ों के अनुसार, सेवा क्षेत्र में व्यापक वृद्धि दर्ज की गई है। 19 में से 14 उप-क्षेत्रों में पिछले वर्ष के अप्रैल की तुलना में दो अंकों की वृद्धि दर्ज हुई, जबकि लगभग सभी अन्य क्षेत्रों में भी सकारात्मक वृद्धि रही। एमओएसपीआई के अनुसार, सेवा उत्पादन सूचकांक में सबसे तेज़ वृद्धि आवास और भोजन सेवाओं में 37.2 प्रतिशत और खुदरा व्यापार में 30.8 प्रतिशत दर्ज की गई है। मंत्रालय ने बताया कि यह आंकड़े ई-सांख्यिकी पोर्टल पर भी उपलब्ध होंगे। इस अवसर पर मंत्रालय के सचिव डॉ. सौरभ गर्ग ने कहा कि सेवा उत्पादन सूचकांक की शुरुआत भारत की सांख्यिकीय प्रणाली को मजबूत बनाने की दिशा में एक महत्वपूर्ण कदम है। उन्होंने बताया कि यह सूचकांक पूरी तरह प्रशासनिक आंकड़ों, सरकारी मंत्रालयों से प्राप्त सूचनाओं और जीएसटी रिकॉर्ड के आधार पर तैयार किया गया है। इसके लिए उद्योगों और कारोबारों पर कोई अतिरिक्त अनुपालन बोझ नहीं डाला गया है। डॉ. गर्ग ने स्पष्ट किया कि यह सूचकांक उत्पादन का संकेतक है और इसे सकल मूल्य वर्धन- जीवीए, जिसका उपयोग जीडीपी के आकलन में किया जाता है, के बराबर नहीं माना जाना चाहिए। उन्होंने कहा कि मंत्रालय हितधारकों से सुझाव लेकर इस सूचकांक को और बेहतर बनाएगा। इस बीच, मुख्य आर्थिक सलाहकार डॉ. वी. अनंत नागेश्वरन ने कहा कि इसे परीक्षण श्रृंखला के रूप में देखा जाना चाहिए, न कि अंतिम और पूर्ण सूचकांक के रूप में। उन्होंने कहा कि इसे सार्वजनिक करना मंत्रालय के इस विश्वास को दर्शाता है कि इसकी कार्यप्रणाली मजबूत है और सुझावों के आधार पर इसे और बेहतर बनाया जाएगा। उन्होंने बताया कि भविष्य में स्वास्थ्य सेवाओं और आवास स्वामित्व जैसे क्षेत्रों को भी इसमें शामिल किया जाएगा। इससे औपचारिक सेवा क्षेत्र के लगभग 85 से 90 प्रतिशत हिस्से को इस सूचकांक के दायरे में लाया जा सकेगा।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:49:47+00:00",
+        "link": "https://newsonair.gov.in/hi/govt-releases-first-sub-sectoral-trial-index-of-services-production/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/production-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत-मालदीव मुक्त व्यापार समझौते पर वार्ता का पहला दौर सफलतापूर्वक संपन्न",
+        "summary": "भारत-मालदीव मुक्त व्यापार समझौते के लिए वार्ता का पहला दौर सफलतापूर्वक संपन्न हो गया है। यह द्विपक्षीय व्यापार और निवेश संबंधों को विस्तार देने की दिशा में एक महत्वपूर्ण कदम है। वार्ता पिछले सप्ताह वर्चुअल माध्यम से आयोजित की गई थी। वाणिज्य और उद्योग मंत्रालय ने कहा कि इस दौरान दोनों पक्षों ने सभी पहलुओं […]",
+        "article": "भारत-मालदीव मुक्त व्यापार समझौते के लिए वार्ता का पहला दौर सफलतापूर्वक संपन्न हो गया है। यह द्विपक्षीय व्यापार और निवेश संबंधों को विस्तार देने की दिशा में एक महत्वपूर्ण कदम है। वार्ता पिछले सप्ताह वर्चुअल माध्यम से आयोजित की गई थी। वाणिज्य और उद्योग मंत्रालय ने कहा कि इस दौरान दोनों पक्षों ने सभी पहलुओं पर ठोस प्रगति की और कई मुद्दों पर व्यापक सहमति बनी। भारत मालदीव का दूसरा सबसे बड़ा व्यापारिक साझेदार है। दोनों देशों के बीच द्विपक्षीय व्यापार वर्ष 2025-26 में 771 मिलियन डॉलर से अधिक का था। वर्ष 2024-25 में यह 679 मिलियन डॉलर था। इसमें साढ़े 13 प्रतिशत से अधिक की बढ़ोतरी हुई है। प्रस्तावित समझौते से बाजार पहुंच बढ़ाकर, निवेश को सुगम बनाकर, अधिक आर्थिक सहयोग को बढ़ावा देकर और दोनों देशों में सतत आर्थिक विकास में योगदान देकर द्विपक्षीय आर्थिक और व्यापारिक संबंधों को और मजबूत करने की उम्मीद है।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:45:41+00:00",
+        "link": "https://newsonair.gov.in/hi/first-round-of-talks-on-the-india-maldives-free-trade-agreement-successfully-concluded/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/India-maldives-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत और ब्रिटेन के बीच व्यापक आर्थिक और व्यापार समझौता-सीईटीए आज से हुआ लागू",
+        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्‍यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को […]",
+        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्&#x200d;यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाजार में 99 प्रतिशत टैरिफ लाइनों पर शून्य शुल्क की सुविधा प्राप्त होगी। यह समझौता भारत और ब्रिटेन की अपनी रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। कल नई दिल्ली में मीडिया को संबोधित करते हुए वाणिज्य सचिव राजेश अग्रवाल ने भारत-ब्रिटेन व्यापक आर्थिक एवं व्यापार समझौते को भारत की व्यापारिक यात्रा में एक महत्वपूर्ण मील का पत्थर बताया और कहा कि यह दो प्रमुख अर्थव्यवस्थाओं के बीच भविष्&#x200d;य के लिए आर्थिक साझेदारी स्थापित करता है। उन्होंने कहा कि यह समझौता भारत और ब्रिटेन के बीच द्विपक्षीय व्यापार और निवेश संबंधों में एक नए चरण की शुरुआत करेगा। श्री अग्रवाल ने कहा कि यह समझौता भारत के सबसे व्यापक व्यापार समझौतों में से एक है, जो व्यापक क्षेत्रीय सूचना प्रदान करता है और साथ ही शुल्क एवं शुल्क रहि&#x200d;त बाधाओं को कम करता है। दोहरे अंशदान सम्मेलन पर प्रकाश डालते हुए, श्री अग्रवाल ने कहा कि यह व्यवस्था ब्रिटेन में अस्थाई तौर पर कार्यरत पात्र श्रमिकों को निर्दिष्ट अवधि के लिए सामाजिक सुरक्षा अंशदान का भुगतान करने से छूट देकर भारतीय पेशेवरों और उनके नियोक्ताओं को लाभ पहुंचाएगी। भारत-ब्रिटेन सीईटीए और डीसीसी का लागू होना वैश्विक स्तर पर एकीकृत, लचीली और प्रतिस्पर्धी अर्थव्यवस्था बनने की दिशा में भारत की यात्रा में एक महत्वपूर्ण कदम है।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:42:29+00:00",
+        "link": "https://newsonair.gov.in/hi/ceta-marks-beginning-of-new-phase-of-bilateral-relations-between-india-uk-commerce-secretary/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Rajesh-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "भारत ने होर्मुज जलडमरूमध्य से सुरक्षित और निर्बाध नौवहन और व्यापार जारी रखने का किया आह्वान",
         "summary": "भारत पश्चिम एशिया के घटनाक्रमों पर करीबी नजर रखे हुए है। भारत ने एक बार फिर होर्मुज जलडमरूमध्य से सुरक्षित और निर्बाध नौवहन और व्यापार जारी रखने का आह्वान किया है। विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने नई दिल्‍ली में कहा कि यह विश्वभर के लोगों की आर्थिक और ऊर्जा सुरक्षा सुनिश्चित करने के […]",
         "article": "भारत पश्चिम एशिया के घटनाक्रमों पर करीबी नजर रखे हुए है। भारत ने एक बार फिर होर्मुज जलडमरूमध्य से सुरक्षित और निर्बाध नौवहन और व्यापार जारी रखने का आह्वान किया है। विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने नई दिल्&#x200d;ली में कहा कि यह विश्वभर के लोगों की आर्थिक और ऊर्जा सुरक्षा सुनिश्चित करने के लिए अत्यंत महत्वपूर्ण है। उन्होंने कहा कि विदेश मंत्रालय ने ईरान के उप मिशन प्रमुख को तलब कर भारत की गहरी चिंता से अवगत कराया और जो कुछ हुआ है उसकी कड़ी निंदा की है। उन्होंने कहा कि एक भारतीय नागरिक की जान चली गई है और कई भारतीय गंभीर रूप से घायल हैं। प्रवक्ता ने कहा कि भारत ने कड़ा विरोध दर्ज कराते हुए कहा कि इन हमलों को जल्द से जल्द रोका जाना चाहिए। साथ ही, तनाव कम किया जाना चाहिए और दोनों पक्षों को बातचीत, संवाद और कूटनीति का मार्ग अपनाना चाहिए ताकि पश्चिम एशिया में शांति और स्थिरता सुनिश्चित की जा सके। पाकिस्&#x200d;तान के कब्&#x200d;जे वाले जम्मू-कश्मीर में विरोध प्रदर्शनों पर श्री जायसवाल ने कहा कि यह प्रदर्शन पाकिस्तान द्वारा दशकों से किए जा रहे शोषण, मौलिक अधिकारों के हनन तथा अवैध और जबरन कब्जे वाले क्षेत्रों में प्रशासनिक दमन का परिणाम हैं। उन्होंने बताया कि लोगों की शिकायतों को दूर करने के बजाय, पाकिस्तानी सरकार ने पुलिस की बर्बरता और घातक बल प्रयोग किया है। इससे कई दुखद मौतें हुई हैं। उन्होंने कहा कि भारत को उम्मीद है कि अंतरराष्ट्रीय समुदाय इन दुर्व्यवहारों और कुकर्मों के लिए पाकिस्तान को पूरी तरह से जवाबदेह ठहराएगा। लॉरेंस बिश्नोई गिरोह पर अभियोग के संबंध में, प्रवक्ता ने कहा कि भारत लगातार यह कहता रहा है कि अंतरराष्ट्रीय संगठित अपराध, आतंकवाद, नशीले पदार्थों की तस्करी, मानव तस्करी, अवैध हथियारों की तस्करी और संबंधित आपराधिक नेटवर्क समाज के लिए बड़ा खतरा हैं। उन्होंने कहा कि आतंकवाद और अंतरराष्ट्रीय संगठित अपराध से निपटने में भारत और अमरीका के बीच मजबूत सहयोग है। श्री जायसवाल ने कहा कि दोनों देशों की एजेंसियां कई वर्षों से मिलकर काम कर रही है और यह सहयोग लगातार बढ़ता जा रहा है। संयुक्त राष्ट्र समुद्री कानून सम्मेलन-यूएनसीएलओ पर श्री जायसवाल ने कहा कि दक्षिण चीन सागर मुद्दे पर भारत का रुख सर्वविदित है। उन्होंने नौवहन और हवाई उड़ान की स्वतंत्रता, समुद्र के अन्य वैध उपयोगों और अंतरराष्ट्रीय कानून के अनुरूप निर्बाध व्यापार को बनाए रखने के महत्व पर बल दिया। उन्होंने कहा कि समुद्री विवादों का समाधान शांतिपूर्ण ढंग से और यूएनसीएलओ के अनुसार किया जाना चाहिए। प्रवक्ता ने दोहराया कि दस वर्ष पूर्व मध्यस्थ न्यायाधिकरण द्वारा दिया गया निर्णय महत्वपूर्ण है और पक्षों के बीच विवादों के शांतिपूर्ण समाधान का आधार है। कनाडा में निज्जर मामले पर श्री जायसवाल ने कहा कि मंत्रालय ने रॉयल कैनेडियन माउंटेड पुलिस के उप आयुक्त द्वारा की गई टिप्पणियों पर ध्यान दिया है। उन्होंने कहा कि ये टिप्पणियां हाल ही में सार्वजनिक किए गए अमरीकी अभियोग के अनुरूप हैं। इसमें लॉरेंस बिश्नोई संगठित अपराध समूह के सदस्यों को दोषी ठहराया गया है। भारत आतंकवाद और अंतरराष्ट्रीय संगठित अपराध से निपटने के लिए अपने साझेदारों के साथ घनिष्ठ कानून प्रवर्तन और सुरक्षा सहयोग के माध्यम से काम करने के लिए प्रतिबद्ध है। पासपोर्ट पर श्री जायसवाल ने कहा कि भारतीय पासपोर्ट एक ऐसा दस्तावेज है जो पासपोर्ट अधिनियम, 1967 के अनुसार केंद्र सरकार द्वारा लोगों के भारत से प्रस्थान को विनियमित करने के लिए जारी किया जाता है। यह एक स्थापित प्रक्रिया द्वारा निर्धारित उचित सत्यापन के बाद जारी किया जाता है। प्रवक्ता ने कहा कि भारतीय नागरिकों या किसी अन्य व्यक्ति को पासपोर्ट जारी करना पासपोर्ट अधिनियम और पासपोर्ट नियम, 1980 द्वारा नियंत्रित होता है। उन्होंने बताया कि वर्तमान में 8 प्रतिशत से भी कम भारतीय नागरिकों के पास पासपोर्ट है।",
@@ -1368,17 +1423,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T15:37:10+00:00",
         "link": "https://newsonair.gov.in/hi/india-closely-following-developments-in-west-asia-calls-for-safe-navigation-through-strait-of-hormuz-mea/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-4-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत और ब्रिटेन के बीच व्यापक आर्थिक और व्यापार समझौता-सीईटीए कल से लागू",
-        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक और व्यापार समझौता-सीईटीए कल से लागू हो जाएगा। साथ ही, सामाजिक सुरक्षा समझौता &#8211; दोहरा योगदान समझौता-डीसीसी भी प्रभावी हो जाएगा। इससे ब्रिटेन में भारतीय पेशेवरों की आवाजाही और प्रतिस्पर्धात्मकता को बढ़ावा मिलेगा। इस अहम समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत टैरिफ […]",
-        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक और व्यापार समझौता-सीईटीए कल से लागू हो जाएगा। साथ ही, सामाजिक सुरक्षा समझौता &#8211; दोहरा योगदान समझौता-डीसीसी भी प्रभावी हो जाएगा। इससे ब्रिटेन में भारतीय पेशेवरों की आवाजाही और प्रतिस्पर्धात्मकता को बढ़ावा मिलेगा। इस अहम समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाज़ार में 99 प्रतिशत टैरिफ पर शुल्&#x200d;क नहीं लगेगा। यह समझौता दोनों देशों के साझा प्रतिबद्धता को दिखाता है। इसके माध्&#x200d;यम से वे अपनी रणनीतिक साझेदारी को और मज़बूत करना चाहते हैं और लोगों को समृद्धि बनाना चाहते हैं। नई दिल्ली में वाणिज्य सचिव राजेश अग्रवाल ने इस व्&#x200d;यापार समझौते को भारत की व्यापार यात्रा में एक अहम पड़ाव बताया है। उन्होंने कहा कि यह समझौता दो बड़ी अर्थव्यवस्थाओं के बीच भविष्य की ओर देखने वाली आर्थिक साझेदारी कायम करता है। उन्होंने कहा कि इस समझौते से दोनों देशों के बीच द्विपक्षीय व्यापार और निवेश संबंधों में एक नए दौर की शुरुआत होगी। श्री अग्रवाल ने कहा कि यह समझौता भारत के सबसे व्यापक व्यापार समझौतों में से एक है। यह कई क्षेत्रों में टैरिफ और नॉन-टैरिफ बाधाओं को कम करता है। दोहरे योगदान समझौते पर श्री अग्रवाल ने कहा कि इससे भारतीय पेशेवरों और उनके नियोक्ताओं को फ़ायदा होगा। इसके अंतर्गत ब्रिटेन में अस्थायी काम पर गए योग्य कर्मचारियों को एक निश्चित अवधि के लिए सामाजिक सुरक्षा अंशदान देने से छूट मिलेगी। हमारे संवाददाता ने बताया है कि दोनों समझौतों को लागू करना, भारत के लिए वैश्विक स्तर पर मज़बूत और प्रतिस्पर्धी अर्थव्यवस्था बनने की दिशा में एक बड़ा कदम है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T15:36:29+00:00",
-        "link": "https://newsonair.gov.in/hi/ceta-marks-beginning-of-new-phase-of-bilateral-relations-between-india-uk-commerce-secretary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Rajesh-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1425,53 +1469,20 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/imd-2.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "भोपाल में देश की पहली स्पेस एक्सप्लोरेशन गैलरी का उद्घाटन",
-        "summary": "संस्कृति और पर्यटन मंत्री गजेंद्र सिंह शेखावत ने आज मध्य प्रदेश की राजधानी भोपाल में देश की पहली स्पेस एक्सप्लोरेशन गैलरी का उद्घाटन किया। इस अवसर पर मुख्यमंत्री डॉ. मोहन यादव भी उपस्थित थे। यह गैलरी भोपाल के क्षेत्रीय विज्ञान केंद्र में स्थापित की गई है। इस अवसर पर श्री शेखावत ने कहा कि […]",
-        "article": "संस्कृति और पर्यटन मंत्री गजेंद्र सिंह शेखावत ने आज मध्य प्रदेश की राजधानी भोपाल में देश की पहली स्पेस एक्सप्लोरेशन गैलरी का उद्घाटन किया। इस अवसर पर मुख्यमंत्री डॉ. मोहन यादव भी उपस्थित थे। यह गैलरी भोपाल के क्षेत्रीय विज्ञान केंद्र में स्थापित की गई है। इस अवसर पर श्री शेखावत ने कहा कि मध्य प्रदेश ने अपनी अंतरिक्ष नीति बनाई है। उन्होंने इसका श्रेय मुख्यमंत्री डॉ. मोहन यादव की पहल को दिया। उन्होंने कहा कि इस गैलरी के माध्यम से विद्यार्थियों को अंतरिक्ष विज्ञान के बारे में विस्तार से जानकारी मिलेगी। यह गैलरी राष्ट्रीय विज्ञान संग्रहालय परिषद ने तैयार की है। इसके निर्माण में मुंबई के नेहरू विज्ञान केंद्र ने तकनीकी सहयोग दिया है। इसका उद्देश्य लोगों में विज्ञान के प्रति रुचि और वैज्ञानिक सोच को बढ़ावा देना है। आधुनिक डिजिटल तकनीक से सुसज्जित इस गैलरी में ब्रह्मांड और भारत के अंतरिक्ष अभियानों की जानकारी दी गई है। इसमें भारत की प्राचीन ज्ञान परंपरा के साथ-साथ आर्यभट्ट, चंद्रयान और गगनयान जैसी उपलब्धियों को भी प्रदर्शित किया गया है। गैलरी में आगंतुक स्पेस वॉक और फ्लाइट सिम्युलेटर का अनुभव भी ले सकेंगे। इसके अलावा चंद्रमा और मंगल ग्रह की त्रि-आयामी सतह को भी देखा जा सकेगा।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T14:26:04+00:00",
-        "link": "https://newsonair.gov.in/hi/countrys-first-space-exploration-gallery-inaugurated-in-bhopal/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Space-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "सरकार ने देश का पहला सेवा उत्पादन सूचकांक जारी किया",
-        "summary": "सरकार ने आज देश का पहला सेवा उत्पादन सूचकांक-आईएसपी का पहला प्रायोगिक सूचकांक जारी किया। इससे पहली बार औपचारिक सेवा क्षेत्र की गतिविधियों का मासिक आकलन उपलब्ध होगा। वर्ष 2024-25 को आधार वर्ष मानकर तैयार किया गया यह पहला सूचकांक अप्रैल 2026 का है। इसमें सेवा क्षेत्र के 19 उप-क्षेत्र शामिल हैं, जो भारत […]",
-        "article": "सरकार ने आज देश का पहला सेवा उत्पादन सूचकांक-आईएसपी का पहला प्रायोगिक सूचकांक जारी किया। इससे पहली बार औपचारिक सेवा क्षेत्र की गतिविधियों का मासिक आकलन उपलब्ध होगा। वर्ष 2024-25 को आधार वर्ष मानकर तैयार किया गया यह पहला सूचकांक अप्रैल 2026 का है। इसमें सेवा क्षेत्र के 19 उप-क्षेत्र शामिल हैं, जो भारत के लगभग 60 प्रतिशत सेवा क्षेत्र का प्रतिनिधित्व करते हैं। सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय ने इसे देश के सेवा क्षेत्र के बेहतर आकलन और सांख्यिकीय प्रणाली को मजबूत बनाने की दिशा में महत्वपूर्ण कदम बताया है। मंत्रालय ने कहा कि परीक्षण श्रृंखला की समीक्षा और दायरा बढ़ाने के बाद सेवा उत्पादन का समग्र सूचकांक जारी किया जाएगा। अप्रैल के आंकड़ों के अनुसार, सेवा क्षेत्र में व्यापक वृद्धि दर्ज की गई है। 19 में से 14 उप-क्षेत्रों में पिछले वर्ष के अप्रैल की तुलना में दो अंकों की वृद्धि दर्ज हुई, जबकि लगभग सभी अन्य क्षेत्रों में भी सकारात्मक वृद्धि रही। मंत्रालय ने बताया कि सेवा उत्पादन सूचकांक हर महीने की 29 तारीख को जारी किया जाएगा। इससे नीति निर्माताओं, उद्योग जगत और शोधकर्ताओं को सेवा क्षेत्र की अल्पकालिक गतिविधियों का समय पर आकलन करने में मदद मिलेगी।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T14:21:47+00:00",
-        "link": "https://newsonair.gov.in/hi/govt-releases-first-sub-sectoral-trial-index-of-services-production/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/production-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "श्रम और रोजगार मंत्री मनसुख मांडविया ने 650 करोड़ रुपये से अधिक की ईएसआई परियोजनाओं का उद्घाटन किया",
-        "summary": "श्रम और रोजगार मंत्री मनसुख मांडविया ने आज हैदराबाद के सनतनगर ईएसआईसी अस्पताल में 211 करोड़ रुपये की लागत से बने अत्याधुनिक बाह्य रोगी विभाग-ओपीडी ब्लॉक का उद्घाटन किया। इस अवसर पर उनके साथ राज्य मंत्री जी. विवेक वेंकटस्वामी भी मौजूद रहे। श्री मांडविया ने देश के विभिन्न हिस्सों में 650 करोड़ रुपये से […]",
-        "article": "श्रम और रोजगार मंत्री मनसुख मांडविया ने आज हैदराबाद के सनतनगर ईएसआईसी अस्पताल में 211 करोड़ रुपये की लागत से बने अत्याधुनिक बाह्य रोगी विभाग-ओपीडी ब्लॉक का उद्घाटन किया। इस अवसर पर उनके साथ राज्य मंत्री जी. विवेक वेंकटस्वामी भी मौजूद रहे। श्री मांडविया ने देश के विभिन्न हिस्सों में 650 करोड़ रुपये से अधिक लागत वाली छह अन्य ईएसआई परियोजनाओं का भी वर्चुअल माध्&#x200d;यम से उद्घाटन किया। इन परियोजनाओं से देशभर के 53 लाख लाभार्थियों को आईसीयू और एनआईसीयू सहित आधुनिक और निःशुल्क चिकित्सा सुविधाएं मिलेंगी। उद्घाटन के बाद दोनों मंत्रियों ने अस्पताल के निर्माण में योगदान देने वाले श्रमिकों का सम्मान भी किया। इस अवसर पर श्री मांडविया ने कहा कि श्रमिक और युवा शक्ति देश की प्रगति के दो सबसे महत्वपूर्ण आधार हैं। उन्होंने कहा कि तकनीक के विकास के बावजूद बुनियादी ढांचा निर्माण में श्रमिकों की भूमिका का कोई विकल्प नहीं है। इसलिए सरकार सामाजिक सुरक्षा को सर्वोच्च प्राथमिकता दे रही है। उन्होंने कहा कि प्रधानमंत्री नरेन्&#x200d;द्र मोदी के नेतृत्व में पिछले दस वर्षों में ईएसआईसी के लाभार्थियों की संख्या साढ़े सात करोड़ से बढ़कर 15 करोड़ हो गई है। इसके साथ ही देश में सामाजिक सुरक्षा का दायरा 19 प्रतिशत से बढ़कर 64 प्रतिशत हो गया है। श्री मांडविया ने बताया कि नए चार श्रम संहिताओं के अंतर्गत श्रमिकों को नियुक्ति पत्र, महिलाओं को समान वेतन और एक वर्ष की सेवा के बाद ग्रेच्युटी का अधिकार सुनिश्चित किया गया है। उन्होंने उद्योगों और श्रमिक संगठनों से विकसित भारत 2047 के लक्ष्य को हासिल करने के लिए मिलकर काम करने का आह्वान किया। साथ ही विश्वास जताया कि यह नई अस्पताल सुविधा लाखों लोगों को बेहतर स्वास्थ्य सेवाएं उपलब्ध कराएगी।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T14:18:44+00:00",
-        "link": "https://newsonair.gov.in/hi/labour-and-employment-minister-mansukh-mandaviya-inaugurated-esi-projects-worth-over-%e2%82%b9650-crore/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/mandviy.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कृषि मंत्री शिवराज सिंह चौहान ने पश्चिम बंगाल में चार कृषि अनुसंधान केंद्रों की घोषणा की",
-        "summary": "कृषि और किसान कल्याण तथा ग्रामीण विकास मंत्री शिवराज सिंह चौहान ने कहा है कि पश्चिम बंगाल में मौसम और मिट्टी के अनुसार कृषि विकास का रोडमैप तैयार किया जा रहा है। आज राज्य सचिवालय नवान्न में आयोजित बैठक में उन्होंने कहा कि इस रोडमैप को तैयार करने के लिए कृषि विश्वविद्यालय, शोध संस्थान और […]",
-        "article": "कृषि और किसान कल्याण तथा ग्रामीण विकास मंत्री शिवराज सिंह चौहान ने कहा है कि पश्चिम बंगाल में मौसम और मिट्टी के अनुसार कृषि विकास का रोडमैप तैयार किया जा रहा है। आज राज्य सचिवालय नवान्न में आयोजित बैठक में उन्होंने कहा कि इस रोडमैप को तैयार करने के लिए कृषि विश्वविद्यालय, शोध संस्थान और पश्चिम बंगाल सरकार मिलकर काम कर रहे हैं। श्री चौहान ने बताया कि पश्चिम बंगाल में चिनसुरा और मालदा सहित चार स्थानों पर आलू और जूट के बीजों केWest Bengal.प्रशिक्षण और अनुसंधान केंद्र स्थापित किए जाएंगे। उन्होंने किसानों के लिए डिजिटल पहचान पत्र बनाने और प्रधानमंत्री फसल बीमा योजना सहित विभिन्न केंद्रीय योजनाओं के प्रभावी क्रियान्वयन के लिए राज्य सरकार की सराहना की। बैठक में पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी, राज्य के कृषि मंत्री दूध कुमार मंडल, पंचायत मंत्री दिलीप घोष तथा अन्य वरिष्ठ अधिकारी और गणमान्य लोग उपस्थित थे।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T13:02:54+00:00",
-        "link": "https://newsonair.gov.in/hi/agriculture-minister-shivraj-singh-chouhan-announced-four-agricultural-research-centers-in-west-bengal-2/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/west-bengal-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "होर्मुज़ जलडमरूमध्य में जहाज़ों पर हमलों के बाद अमरीका ने ईरानी बंदरगाहों पर नाकेबंदी लागू की",
+        "summary": "होर्मुज़ जलडमरूमध्य से गुज़रने वाले कमर्शियल जहाज़ों पर तेहरान के हालिया हमलों के जवाब में अमरीका ने ईरानी बंदरगाहों की नाकेबंदी फिर से शुरू कर दी है। एक टीवी न्यूज़ चैनल को दिए साक्षात्कार में अमरीका के राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि अगर लोग होर्मुज़ से गुज़रना चाहते हैं तो यह रास्ता खुला है, […]",
+        "article": "होर्मुज़ जलडमरूमध्य से गुज़रने वाले कमर्शियल जहाज़ों पर तेहरान के हालिया हमलों के जवाब में अमरीका ने ईरानी बंदरगाहों की नाकेबंदी फिर से शुरू कर दी है। एक टीवी न्यूज़ चैनल को दिए साक्षात्कार में अमरीका के राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि अगर लोग होर्मुज़ से गुज़रना चाहते हैं तो यह रास्ता खुला है, लेकिन ईरान के लिए नहीं। श्री ट्रंप ने तेहरान को चेतावनी भी दी कि अमरीका आज रात ईरान पर हमला करने वाला है और इन हमलों की तीव्रता हर अगली रात के साथ बढ़ती जाएगी। उन्होंने कहा कि जब तक ईरान बातचीत पर नहीं आता, तब तक अमरीका उसके सभी बिजली संयंत्रों और पुलों को निशाना बनाएगा। श्री ट्रंप ने आरोप लगाया है कि तेहरान जो कुछ भी कहता है वह झूठ है क्योंकि वे हमेशा से परमाणु हथियार चाहते थे। उन्होंने यह भी कहा कि ईरान हर बार समझौता तोड़ता है। उन्होंने ईरानी सरकार के नेताओं को संदेश दिया कि उनके पास अब बस एक ही विकल्प बचा है या तो वे समझौता कर लें या फिर उनका कोई नामो-निशान नहीं बचेगा। इस बीच, ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स-आईआरजीसी ने बड़े पैमाने पर हमले करते हुए बहरीन में हथियारों और भंडारण केंद्रों को निशाना बनाया। आईआरजीसी ने एक बयान में कहा कि बहरीन के शेख ईसा बेस पर एक साथ मिसाइल और ड्रोन ऑपरेशन के दौरान हथियारों और पुर्ज़ों के कई स्टोरेज शेड नष्ट कर दिए गए। आईआरजीसी ने यह भी दावा किया कि उसने कुवैत के अली सलेम एयर बेस पर तैनात एमक्यू-9 ड्रोन के रैम्प पर हमला कर कई ड्रोन नष्ट किए।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:33:07+00:00",
+        "link": "https://newsonair.gov.in/hi/us-iran-blockade/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "फ्रांस: राष्ट्रपति मैक्रों ने बैस्टिल दिवस समारोह की मेजबानी की",
         "summary": "फ्रांस में आज बैस्टिल दिवस मनाया जा रहा है। इस मौके पर पेरिस में आयोजित वार्षिक सैन्य परेड में पूरे यूरोप की एकजुटता दिखाई दी, जिसमें कई यूरोपीय देशों के सैनिकों और विमानों ने हिस्सा लिया। फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने अपने कार्यकाल के अंतिम बैस्टिल दिवस समारोह की मेजबानी की। समारोह में […]",
@@ -1517,47 +1528,38 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "बैंकॉक के एक म्यूजिक बार में लगी भीषण आग में मरने वालों की संख्या 30 हो गई है",
-        "summary": "थाईलैंड की राजधानी बैंकॉक के एक म्यूजिक बार में लगी भीषण आग में मरने वालों की संख्या 30 हो गई है। अधिकारियों के अनुसार, 70 से अधिक लोग अस्पताल में भर्ती हैं, जिनमें 24 की हालत गंभीर है। पुलिस आग लगने के कारणों और बार में सुरक्षा नियमों की जांच कर रही है। यह हादसा […]",
-        "article": "थाईलैंड की राजधानी बैंकॉक के एक म्यूजिक बार में लगी भीषण आग में मरने वालों की संख्या 30 हो गई है। अधिकारियों के अनुसार, 70 से अधिक लोग अस्पताल में भर्ती हैं, जिनमें 24 की हालत गंभीर है। पुलिस आग लगने के कारणों और बार में सुरक्षा नियमों की जांच कर रही है। यह हादसा रविवार देर रात उत्तरी बैंकॉक के रोंग बीयर ना लाडप्राओ बार में हुआ। इसे बैंकॉक में पिछले 17 वर्षों की सबसे बड़ी अग्निकांड की घटना बताया जा रहा है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T06:06:57+00:00",
-        "link": "https://newsonair.gov.in/hi/the-death-toll-from-the-massive-fire-at-a-music-bar-in-bangkok-has-risen-to-30/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/b.webp",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "पीओजेके में स्कूली बच्चों, शिक्षकों और अभिभावकों ने पाकिस्तानी सेना के खिलाफ प्रदर्शन किया",
+        "summary": "पाकिस्तान के कब्ज़े वाले जम्मू-कश्मीर-पीओजेके के रावलकोट ईदगाह मैदान में सैकड़ों स्कूली बच्चे अपने शिक्षकों और अभिभावकों के साथ एकत्र हुए। उन्होंने कब्ज़े वाले इलाके में पाकिस्तानी सेना की कार्रवाई की निंदा की। सोमवार को बड़ी संख्या में स्कूली छात्रों ने शांति के प्रतीक के तौर पर सफ़ेद झंडे लहराए और पाकिस्तानी सेना के ख़िलाफ़ […]",
+        "article": "पाकिस्तान के कब्ज़े वाले जम्मू-कश्मीर-पीओजेके के रावलकोट ईदगाह मैदान में सैकड़ों स्कूली बच्चे अपने शिक्षकों और अभिभावकों के साथ एकत्र हुए। उन्होंने कब्ज़े वाले इलाके में पाकिस्तानी सेना की कार्रवाई की निंदा की। सोमवार को बड़ी संख्या में स्कूली छात्रों ने शांति के प्रतीक के तौर पर सफ़ेद झंडे लहराए और पाकिस्तानी सेना के ख़िलाफ़ नारे भी लगाए। जम्मू-कश्मीर-पीओजेके में हो रहे विरोध प्रदर्शन पाकिस्तान के लिए एक बड़ी चुनौती बन गई हैं। पाकिस्तानी सेना ने कड़ी कार्रवाई की, जिसमें कई आम नागरिकों की मौत और घायल होने की ख़बर है। साथ ही, यह इलाका नाकेबंदी, कर्फ्यू और पूरी तरह से संचार व्यवस्था ठप होने की स्थिति में है। इस बीच, यूनाइटेड कश्मीर पीपल्स नेशनल पार्टी-यू.के.पी.एन.पी ने एक सम्मेलन आयोजित की। इसमें जम्मू-कश्मीर-पीओजेके और दुनिया भर में बसे कश्मीरी समुदाय के नेताओं, पत्रकारों और नागरिक समाज के लोगों ने भाग लिया। इसका मकसद कब्ज़े वाले इलाके में पाकिस्तानी अधिकारियों द्वारा मानवाधिकारों के उल्लंघन, घेराबंदी और शांतिप्रिय नागरिकों पर की जा रही कार्रवाई पर चर्चा की गई।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:06:32+00:00",
+        "link": "https://newsonair.gov.in/hi/pojk-student-protest/",
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "यमन में ईरान समर्थित हूती विद्रोहियों ने कहा कि उन्होंने सऊदी अरब के आभा इंटरनेशनल एयरपोर्ट पर मिसाइलें और ड्रोन हमले किए",
-        "summary": "यमन में ईरान समर्थित हूती विद्रोहियों ने कहा कि उन्होंने कल सऊदी अरब के आभा इंटरनेशनल एयरपोर्ट पर मिसाइलें और ड्रोन हमले किए। यह कदम यमन के सना इंटरनेशनल एयरपोर्ट पर पहले हुए हवाई हमलों के जवाब में उठाया गया है। उनका आरोप है कि ये हमले कल रियाद ने किए थे। इसमें किसी के […]",
-        "article": "यमन में ईरान समर्थित हूती विद्रोहियों ने कहा कि उन्होंने कल सऊदी अरब के आभा इंटरनेशनल एयरपोर्ट पर मिसाइलें और ड्रोन हमले किए। यह कदम यमन के सना इंटरनेशनल एयरपोर्ट पर पहले हुए हवाई हमलों के जवाब में उठाया गया है। उनका आरोप है कि ये हमले कल रियाद ने किए थे। इसमें किसी के हताहत होने की खबर नहीं है। इन हमलों ने तनाव को उस स्तर पर पहुंचा दिया है जो सऊदी के नेतृत्व वाले गठबंधन द्वारा कई साल पहले हूती-नियंत्रित इलाकों पर हमले के बाद से नहीं देखा गया था। सऊदी अरब के अधिकारियों ने यमन में हवाई हमलों के बारे में तुरंत कोई प्रतिक्रिया नहीं दी। हूती सैन्य प्रवक्ता ब्रिगेडियर जनरल याह्या सरी ने एक वीडियो बयान में एयरलाइंस को सऊदी हवाई क्षेत्र से उड़ान भरने के खिलाफ चेतावनी दी। प्रवक्ता ने कहा कि जब तक सना इंटरनेशनल एयरपोर्ट पर लगी नाकेबंदी नहीं हटाई जाती, तब तक इन चेतावनियों को गंभीरता से लिया जाना चाहिए। हूती सैन्य प्रवक्ता ने चेतावनी दी कि इस आक्रामकता का जवाब दिया जाएगा और इसे बिना सजा के नहीं छोड़ा जाएगा। यमन में अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त सरकार ने पहले कहा था कि सना इंटरनेशनल एयरपोर्ट पर हुए हमलों का उद्देश्य एक ईरानी विमान को उतरने से रोकना था। संयुक्त राष्ट्र सुरक्षा परिषद के अधिकारियों ने आज एक आपात बैठक में तनाव के और बढ़ने के जोखिम पर चिंता व्यक्त की। यमन में वैधता बहाल करने वाले सऊदी-नेतृत्व वाले गठबंधन के आधिकारिक प्रवक्ता मेजर जनरल तुर्की अल-माल्की ने सोशल मीडिया पोस्ट में कहा कि सऊदी वायु रक्षा प्रणालियों ने हूतियों द्वारा दागी गई बैलिस्टिक मिसाइलों को नाकाम कर दिया, हालांकि उन्होंने और विवरण नहीं दिया। सऊदी-नेतृत्व वाले गठबंधन ने आखिरी बार हूती-नियंत्रित इलाकों को तब निशाना बनाया था जब 2022 में लड़ाई रोकने के लिए संयुक्त राष्ट्र की मध्यस्थता में समझौता लागू हुआ था।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T03:46:41+00:00",
-        "link": "https://newsonair.gov.in/hi/%e0%a4%af%e0%a4%ae%e0%a4%a8-%e0%a4%ae%e0%a5%87%e0%a4%82-%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8-%e0%a4%b8%e0%a4%ae%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a4%bf%e0%a4%a4-%e0%a4%b9%e0%a5%82%e0%a4%a4%e0%a5%80/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/AIR-7.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "भारत-मालदीव मुक्त व्यापार समझौते पर वार्ता का पहला दौर सफलतापूर्वक संपन्न",
+        "summary": "भारत-मालदीव मुक्त व्यापार समझौते के लिए वार्ता का पहला दौर सफलतापूर्वक संपन्न हो गया है। यह द्विपक्षीय व्यापार और निवेश संबंधों को विस्तार देने की दिशा में एक महत्वपूर्ण कदम है। वार्ता पिछले सप्ताह वर्चुअल माध्यम से आयोजित की गई थी। वाणिज्य और उद्योग मंत्रालय ने कहा कि इस दौरान दोनों पक्षों ने सभी पहलुओं […]",
+        "article": "भारत-मालदीव मुक्त व्यापार समझौते के लिए वार्ता का पहला दौर सफलतापूर्वक संपन्न हो गया है। यह द्विपक्षीय व्यापार और निवेश संबंधों को विस्तार देने की दिशा में एक महत्वपूर्ण कदम है। वार्ता पिछले सप्ताह वर्चुअल माध्यम से आयोजित की गई थी। वाणिज्य और उद्योग मंत्रालय ने कहा कि इस दौरान दोनों पक्षों ने सभी पहलुओं पर ठोस प्रगति की और कई मुद्दों पर व्यापक सहमति बनी। भारत मालदीव का दूसरा सबसे बड़ा व्यापारिक साझेदार है। दोनों देशों के बीच द्विपक्षीय व्यापार वर्ष 2025-26 में 771 मिलियन डॉलर से अधिक का था। वर्ष 2024-25 में यह 679 मिलियन डॉलर था। इसमें साढ़े 13 प्रतिशत से अधिक की बढ़ोतरी हुई है। प्रस्तावित समझौते से बाजार पहुंच बढ़ाकर, निवेश को सुगम बनाकर, अधिक आर्थिक सहयोग को बढ़ावा देकर और दोनों देशों में सतत आर्थिक विकास में योगदान देकर द्विपक्षीय आर्थिक और व्यापारिक संबंधों को और मजबूत करने की उम्मीद है।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:45:41+00:00",
+        "link": "https://newsonair.gov.in/hi/first-round-of-talks-on-the-india-maldives-free-trade-agreement-successfully-concluded/",
+        "post_id": 1737439,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "अमरीका: सीनेटर लिंडसे ग्राहम के निधन के बाद डार्लिन ग्राहम नॉर्डोन कार्यवाहक सीनेटर नियुक्त",
-        "summary": "अमरीका के दक्षिणी केरोलिना से सीनेटर लिंडसे ग्राहम निधन के बाद, उनकी बहन डार्लिन ग्राहम नॉर्डोन को उनके स्‍थान पर कार्यवाहक सीनेटर नियुक्त किया गया है। दक्षिण कैरोलिना के गवर्नर हेनरी मैकमास्टर ने कल औपचारिक रूप से उन्हें इस पद के लिए चुना। मैकमास्टर ने कहा कि वह ग्राहम के अगले साल समाप्त होने वाले […]",
-        "article": "अमरीका के दक्षिणी केरोलिना से सीनेटर लिंडसे ग्राहम निधन के बाद, उनकी बहन डार्लिन ग्राहम नॉर्डोन को उनके स्&#x200d;थान पर कार्यवाहक सीनेटर नियुक्त किया गया है। दक्षिण कैरोलिना के गवर्नर हेनरी मैकमास्टर ने कल औपचारिक रूप से उन्हें इस पद के लिए चुना। मैकमास्टर ने कहा कि वह ग्राहम के अगले साल समाप्त होने वाले शेष कार्यकाल को पूरा करेंगी। अमरीकी राष्ट्रपति डोनाल्ड ट्रम्प सहित अधिकारियों ने दिवंगत सीनेटर को श्रद्धांजलि देते हुए ग्राहम नॉर्डोन को उनका उत्&#x200d;तराधिकारी नियुक्&#x200d;त किए जाने का समर्थन किया। वाशिंगटन डीसी के चिकित्सा परीक्षक की प्रारंभिक रिपोर्ट के अनुसार, 71 वर्षीय ग्राहम की मृत्यु हृदय रोग के कारण महाधमनी विच्छेदन से हुई। ग्राहम नवंबर में फिर से चुनाव लड़ रहे थे और उन्हें रिपब्लिकन पार्टी का नामांकन प्राप्त था। 2002 में सीनेट के लिए चुने गए ग्राहम विदेश नीति पर वाशिंगटन की सबसे प्रभावशाली आवाजों में से एक थे।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T03:15:56+00:00",
-        "link": "https://newsonair.gov.in/hi/usa-darlene-graham-nordone-appointed-acting-senator-following-the-passing-of-senator-lindsey-graham/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNKBYZobgAAvFzp.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "यूक्रेन सहित दस देशों ने यूरोप को बैलिस्टिक मिसाइलों से बचाने के लिए गठबंधन बनाने की घोषणा की",
-        "summary": "यूक्रेन और नौ अन्य देशों ने घोषणा की है कि वे यूरोप को बैलिस्टिक मिसाइलों से बचाने के लिए एक गठबंधन बना रहे हैं। यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की और डेनमार्क, फ्रांस, जर्मनी, इटली, नीदरलैंड्स, नॉर्वे, स्पेन, स्वीडन और ब्रिटेन के नेताओं ने कहा कि वे बैलिस्टिक मिसाइलों से बढ़ते खतरे को समझते हैं। इन […]",
-        "article": "यूक्रेन और नौ अन्य देशों ने घोषणा की है कि वे यूरोप को बैलिस्टिक मिसाइलों से बचाने के लिए एक गठबंधन बना रहे हैं। यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की और डेनमार्क, फ्रांस, जर्मनी, इटली, नीदरलैंड्स, नॉर्वे, स्पेन, स्वीडन और ब्रिटेन के नेताओं ने कहा कि वे बैलिस्टिक मिसाइलों से बढ़ते खतरे को समझते हैं। इन मिसाइलों को क्रूज़ मिसाइलों या ड्रोन की तुलना में रोकना ज़्यादा मुश्किल होता है। पेरिस में जारी एक बयान में इन 10 देशों ने कहा कि उनका लक्ष्य यूरोप के लिए एक साझा बैलिस्टिक मिसाइल रक्षा क्षमता विकसित करना है। इसके लिए वे रूस के पूर्ण-स्तरीय हमले के चार वर्ष से अधिक समय से सामना करने के कीव के अनुभव का लाभ उठाएंगे। बयान में इस रक्षा प्रणाली को स्थापित करने के लिए कोई समय-सीमा नहीं बताई गई है। ब्यान में यह भी कहा गया कि यह योजना अन्य देशों के लिए भी खुली है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T02:44:45+00:00",
-        "link": "https://newsonair.gov.in/hi/ten-countries-including-ukraine-announced-the-formation-of-an-alliance-to-protect-europe-from-ballistic-missiles/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNJvv2ra0AA5frQ-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "भारत और ब्रिटेन के बीच व्यापक आर्थिक और व्यापार समझौता-सीईटीए आज से हुआ लागू",
+        "summary": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्‍यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को […]",
+        "article": "भारत और ब्रिटेन के बीच व्यापक आर्थिक एवं व्यापार समझौता-सीईटीए आज से लागू हो गया है। इसके साथ ही, सामाजिक सुरक्षा समझौता, जिसे दोहरा अंशदान समझौता-डीसीसी भी कहा जाता है, भी प्रभावी हो गया है, जिससे ब्रिटेन में भारतीय व्&#x200d;यवसायियों की गतिशीलता और प्रतिस्पर्धात्मकता को बल मिलेगा। इस ऐतिहासिक समझौते के अंतर्गत भारतीय निर्यात को ब्रिटेन के बाजार में 99 प्रतिशत टैरिफ लाइनों पर शून्य शुल्क की सुविधा प्राप्त होगी। यह समझौता भारत और ब्रिटेन की अपनी रणनीतिक साझेदारी को मजबूत करने और अपने लोगों के लिए समृद्धि लाने की साझा प्रतिबद्धता को दर्शाता है। कल नई दिल्ली में मीडिया को संबोधित करते हुए वाणिज्य सचिव राजेश अग्रवाल ने भारत-ब्रिटेन व्यापक आर्थिक एवं व्यापार समझौते को भारत की व्यापारिक यात्रा में एक महत्वपूर्ण मील का पत्थर बताया और कहा कि यह दो प्रमुख अर्थव्यवस्थाओं के बीच भविष्&#x200d;य के लिए आर्थिक साझेदारी स्थापित करता है। उन्होंने कहा कि यह समझौता भारत और ब्रिटेन के बीच द्विपक्षीय व्यापार और निवेश संबंधों में एक नए चरण की शुरुआत करेगा। श्री अग्रवाल ने कहा कि यह समझौता भारत के सबसे व्यापक व्यापार समझौतों में से एक है, जो व्यापक क्षेत्रीय सूचना प्रदान करता है और साथ ही शुल्क एवं शुल्क रहि&#x200d;त बाधाओं को कम करता है। दोहरे अंशदान सम्मेलन पर प्रकाश डालते हुए, श्री अग्रवाल ने कहा कि यह व्यवस्था ब्रिटेन में अस्थाई तौर पर कार्यरत पात्र श्रमिकों को निर्दिष्ट अवधि के लिए सामाजिक सुरक्षा अंशदान का भुगतान करने से छूट देकर भारतीय पेशेवरों और उनके नियोक्ताओं को लाभ पहुंचाएगी। भारत-ब्रिटेन सीईटीए और डीसीसी का लागू होना वैश्विक स्तर पर एकीकृत, लचीली और प्रतिस्पर्धी अर्थव्यवस्था बनने की दिशा में भारत की यात्रा में एक महत्वपूर्ण कदम है।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:42:29+00:00",
+        "link": "https://newsonair.gov.in/hi/ceta-marks-beginning-of-new-phase-of-bilateral-relations-between-india-uk-commerce-secretary/",
+        "post_id": 1737766,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1584,6 +1586,28 @@ window.VM_NEWS = {
       }
     ],
     "sports": [
+      {
+        "title": "भारत ने पहले एकदिवसीय मैच में इंग्लैंड को छह विकेट से हराया",
+        "summary": "क्रिकेट में कल भारत ने इंग्लैंड को पहले एकदिवसीय मैच में छह विकेट से हरा दिया है। बर्मिंघम के एजबेस्टन में खेले गए मुकाबले में इंग्लैंड ने पहले बल्लेबाजी करते हुए 258 रन बनाए। जवाब में भारत ने 45 ओवर और दो गेंदों में चार विकेट खोकर 262 रन बनाकर लक्ष्य हासिल कर लिया। कप्तान […]",
+        "article": "क्रिकेट में कल भारत ने इंग्लैंड को पहले एकदिवसीय मैच में छह विकेट से हरा दिया है। बर्मिंघम के एजबेस्टन में खेले गए मुकाबले में इंग्लैंड ने पहले बल्लेबाजी करते हुए 258 रन बनाए। जवाब में भारत ने 45 ओवर और दो गेंदों में चार विकेट खोकर 262 रन बनाकर लक्ष्य हासिल कर लिया। कप्तान शुभमन गिल ने सर्वाधिक 80 रन बनाए, जबकि अक्षर पटेल ने नाबाद 57 और वॉशिंगटन सुंदर ने नाबाद 52 रन की पारी खेली। इससे पहले इंग्लैंड के लिए जो रूट ने 76 और लियाम डॉसन ने 68 रन बनाए। भारत की ओर से अक्षर पटेल ने चार विकेट लिए और उन्हें प्लेयर ऑफ द मैच चुना गया। तीन मैचों की श्रृंखला का दूसरा मुकाबला 16 जुलाई को कार्डिफ में खेला जाएगा।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T01:55:29+00:00",
+        "link": "https://newsonair.gov.in/hi/ind-eng-1st-odi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNOrPr5boAAyveJ-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "फीफा विश्व कप: स्पेन ने फ़्रांस को 2-0 से हराकर फ़ाइनल में जगह बनाई",
+        "summary": "फीफा फुटबॉल विश्व कप में स्पेन ने कल रात अमरीका के टेक्सास स्थित डलास स्टेडियम में खेले गए पहले सेमीफ़ाइनल में फ़्रांस को 2-0 से हराकर फ़ाइनल में जगह बना ली है। स्पेन के लिए मिकेल ओयारज़ाबल ने 22वें मिनट में पेनल्टी पर पहला गोल किया। इसके बाद 58वें मिनट में पेड्रो पोरो ने दूसरा […]",
+        "article": "फीफा फुटबॉल विश्व कप में स्पेन ने कल रात अमरीका के टेक्सास स्थित डलास स्टेडियम में खेले गए पहले सेमीफ़ाइनल में फ़्रांस को 2-0 से हराकर फ़ाइनल में जगह बना ली है। स्पेन के लिए मिकेल ओयारज़ाबल ने 22वें मिनट में पेनल्टी पर पहला गोल किया। इसके बाद 58वें मिनट में पेड्रो पोरो ने दूसरा गोल दागा। अब फ़ाइनल में स्पेन का मुकाबला आज रात अर्जेंटीना और इंग्लैंड के बीच होने वाले दूसरे सेमीफ़ाइनल के विजेता से होगा।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:59:49+00:00",
+        "link": "https://newsonair.gov.in/hi/fifa-wc-spain-final/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNOsb81akAALIrA.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "जापान ओपन बैडमिंटन टूर्नामेंट: पीवी सिंधु ने नॉकआउट दौर में मलेशिया की वोंग लिंग चिंग को हराया",
         "summary": "जापान ओपन बैडमिंटन टूर्नामेंट आज से टोक्यो में शुरू हो गया है। महिला सिंगल्‍स में दो बार की ओलंपिक पदक विजेता पीवी सिंधु ने नॉकआउट दौर में मलेशिया की वोंग लिंग चिंग को 21-14, 21-11 से हराया। मिक्‍स्‍ड डबल्‍स में, तनीशा क्रास्टो और ध्रुव कपिला ने स्कॉटलैंड के एलेक्जेंडर डन और जूली मैकफर्सन को 21-16, […]",
@@ -1669,28 +1693,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T00:44:21+00:00",
         "link": "https://newsonair.gov.in/hi/italys-jannik-sinner-won-the-mens-singles-title-at-the-wimbledon-tennis-tournament/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNETjzDaAAA8pjS.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "फीफा विश्व कप: 15 जुलाई को आमने-सामने होंगे फ्रांस और स्पेन",
-        "summary": "फीफा फुटबॉल विश्व कप में सेमीफाइनल के लिए टीमें तय हो चुकी हैं। पहला सेमीफाइनल 15 जुलाई को फ्रांस और स्पेन के बीच खेला जायेगा। यह मैच भारतीय समयानुसार रात साढ़े 12 बजे शुरू होगा। फ्रांस ने क्वार्टर फाइनल में मोरक्को को 2-0 से हराकर सेमीफाइनल में जगह बनाई, जबकि स्पेन ने बेल्जियम को 2-1 […]",
-        "article": "फीफा फुटबॉल विश्व कप में सेमीफाइनल के लिए टीमें तय हो चुकी हैं। पहला सेमीफाइनल 15 जुलाई को फ्रांस और स्पेन के बीच खेला जायेगा। यह मैच भारतीय समयानुसार रात साढ़े 12 बजे शुरू होगा। फ्रांस ने क्वार्टर फाइनल में मोरक्को को 2-0 से हराकर सेमीफाइनल में जगह बनाई, जबकि स्पेन ने बेल्जियम को 2-1 से हराकर सेमीफाइनल में प्रवेश किया। दूसरा सेमीफाइनल 16 जुलाई को इंग्लैंड और अर्जेंटीना के बीच भारतीय समयानुसार रात 12:30 बजे खेला जाएगा। इंग्लैंड ने नॉर्वे को 2-1 से हराकर सेमीफाइनल में जगह बनाई, जबकि अर्जेंटीना ने स्विट्जरलैंड को 3-1 से हराकर सेमीफाइनल में प्रवेश किया। सेमीफाइनल में हारने वाली टीमें 19 जुलाई को मियामी में तीसरे स्थान के लिए प्ले-ऑफ खेलेंगी। जबकि सेमीफाइनल जीतने वाली टीमें 20 जुलाई को न्यू जर्सी स्टेडियम में फाइनल खेलेंगे।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T00:28:39+00:00",
-        "link": "https://newsonair.gov.in/hi/fifa-world-cup-france-and-spain-to-face-off-on-july-15/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/FIFA-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "WIMBLEDON: पुरुष सिंगल्स और महिला डबल्स के फाइनल मैच आज",
-        "summary": "टेनिस में, पुरुष सिंगल्‍स और महिला डबल्‍स के फाइनल मैच आज खेले जाने के कारण विंबलडन के दो खिताबों के नतीजे सामने आएंगे। विश्‍व के नम्‍बर एक खिलाड़ी यानिक सि‍नर रात 8:30 बजे से पुरुष सिंगल्‍स में जर्मनी के एलेक्‍जेंडर ज्‍वेरेव के साथ खेलेंगे। नोवाक जोकोविच को सीधे सेटों में हराकर सिनर ने खिताबी […]",
-        "article": "टेनिस में, पुरुष सिंगल्&#x200d;स और महिला डबल्&#x200d;स के फाइनल मैच आज खेले जाने के कारण विंबलडन के दो खिताबों के नतीजे सामने आएंगे। विश्&#x200d;व के नम्&#x200d;बर एक खिलाड़ी यानिक सि&#x200d;नर रात 8:30 बजे से पुरुष सिंगल्&#x200d;स में जर्मनी के एलेक्&#x200d;जेंडर ज्&#x200d;वेरेव के साथ खेलेंगे। नोवाक जोकोविच को सीधे सेटों में हराकर सिनर ने खिताबी भिड़ंत में अपना स्&#x200d;थान सुरक्षित किया है। वहीं, ज्&#x200d;वेरेव ने ब्रिटेन के आर्थर फेरी को हराने के बाद विंबलडन के अपने पहले फाइनल मुकाबले में प्रवेश किया। महिला डबल्&#x200d;स का फाइनल शाम 5:30 बजे से खेला जाएगा। 10वीं वरीयता प्राप्&#x200d;त चीन की गुओ हान्&#x200d;यु और फ्रांस की क्र&#x200d;िस्&#x200d;टीना म्&#x200d;लाडेनोविक की जोड़ी दूसरी वरीयता प्राप्&#x200d;त कनाडा की गैब्रिएला डाब्रोवस्&#x200d;की और ब्राजील की लुइसा स्&#x200d;टेफनी की जोड़ी से खेलेंगी। महिला सिंगल्&#x200d;स के फाइनल में कल 21 वर्षीय लिंडा नोस्&#x200d;कोवा ने लंदन के सेंटर कोर्ट में चेक गणराज्&#x200d;य की कैरोलीना मुचोवा को 6-2, 5-7, 6-3 से हराने के बाद अपना पहला ग्रैंड स्&#x200d;लैम खिताब जीता। नोस्&#x200d;कोवा, ग्रास-कोर्ट पर चार वर्षों में जीत दर्ज करने वाली चेक गणराज्&#x200d;य की तीसरी महिला बन गई हैं। उनसे पहले 2023 में मार्केटा वोंद्रोसोवा और 2024 में बारबोरा क्रेज्सिकोवा ने यह खिताब जीता था।",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T06:31:57+00:00",
-        "link": "https://newsonair.gov.in/hi/wimbledon-finals/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM_xlfcbgAAcI_F.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
