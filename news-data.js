@@ -1,8 +1,30 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-15T08:39:19.787105",
+  "generated": "2026-07-15T09:32:38.451699",
   "en": {
     "top": [
+      {
+        "title": "Protests continue in Pakistan-occupied Jammu and Kashmir for 36th consecutive day",
+        "summary": "Protests in Pakistan-occupied Jammu and Kashmir (PoJK) entered their 36th consecutive day today, with thousands gathering in Rawalakot amid growing unrest. Addressing the rally, Joint Awami Action Committee (JAAC) leader Sardar Amman Khan accused Pakistan of forcibly occupying the region. He said PoJK is an &#8220;occupied territory&#8221; and not a &#8220;disputed territory&#8221;. He vowed that",
+        "article": "Protests in Pakistan-occupied Jammu and Kashmir (PoJK) entered their 36th consecutive day today, with thousands gathering in Rawalakot amid growing unrest. Addressing the rally, Joint Awami Action Committee (JAAC) leader Sardar Amman Khan accused Pakistan of forcibly occupying the region. He said PoJK is an &#8220;occupied territory&#8221; and not a &#8220;disputed territory&#8221;. He vowed that the movement would continue until &#8220;victory&#8221;, even if protesters had to sacrifice their lives. The rally witnessed strong anti-Pakistan slogans, with demonstrators pledging to continue their agitation. Meanwhile, the United Kashmir People&#8217;s National Party (UKPNP) strongly condemned the reported killing of six civilians by Pakistani security forces during clashes in Rawalakot. Reports said the civilians were killed after security personnel opened fire on protesters. The UKPNP has demanded an independent international investigation into the reported killings, excessive use of force, arbitrary arrests, enforced disappearances and restrictions imposed on civilians. It urged Pakistan to stop the use of lethal force, end arbitrary detentions and intimidation, and ensure due legal process for all detainees. The party also called for restoring access to food, medicines, healthcare and humanitarian aid, lifting communication restrictions and ensuring freedom of movement. The UKPNP appealed to the United Nations, the European Union, the United Kingdom, the United States and the wider international community to send an independent fact-finding mission to investigate the reported human rights violations.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:47:32+00:00",
+        "link": "https://newsonair.gov.in/protests-continue-in-pakistan-occupied-jammu-and-kashmir-for-36th-consecutive-day/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Akashvani-News.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Keralam begins exports under India-UK Comprehensive Economic and Trade Agreement",
+        "summary": "The India-UK Comprehensive Economic and Trade Agreement coming into force is expected to bring significant benefits to Keralam as well. Consignments availing the benefits of the agreement has already started from Keralam on the very first day itself. With a large Malayali diaspora residing in the United Kingdom, the new agreement is expected to […]",
+        "article": "The India-UK Comprehensive Economic and Trade Agreement coming into force is expected to bring significant benefits to Keralam as well. Consignments availing the benefits of the agreement has already started from Keralam on the very first day itself. With a large Malayali diaspora residing in the United Kingdom, the new agreement is expected to provide a major boost to food processing industries in Keralam. Since a substantial share of the state&#8217;s food industry comprises MSMEs, the benefits of the agreement are likely to reach a wider section of entrepreneurs. Other key sectors in Keralam that are expected to benefit from the agreement include seafood, textiles, and footwear. On the very first day the agreement came into force, the first seafood consignments to avail of its benefits were dispatched from Thiruvananthapuram and Kochi. These shipments mark the beginning of exports from Keralam under the India-UK trade agreement.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:44:42+00:00",
+        "link": "https://newsonair.gov.in/keralam-begins-exports-under-india-uk-comprehensive-economic-and-trade-agreement/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Madhya Pradesh’s first international flight service to begin from Indore today",
         "summary": "Madhya Pradesh&#8217;s first international flight service will begin from Indore today. Chief Minister Dr. Mohan Yadav will flag off the first direct flight from Indore to Abu Dhabi. The service is being launched under the state&#8217;s Civil Aviation Policy 2025. The Air India Express flight will operate four days a week- Monday, Wednesday, Friday […]",
@@ -26,13 +48,35 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Central government has established Ayurveda and Yoga on global stage: President Droupadi Murmu",
-        "summary": "President Droupadi Murmu has said that the Central government has established Ayurveda and Yoga on the global stage with renewed energy. Addressing the inaugural function of Saushrutam 2026 in New Delhi today, the President expressed satisfaction that efforts are being made to establish the ancient tradition of Ayurvedic surgery on scientific standards. The […]",
-        "article": "President Droupadi Murmu has said that the Central government has established Ayurveda and Yoga on the global stage with renewed energy. Addressing the inaugural function of Saushrutam 2026 in New Delhi today, the President expressed satisfaction that efforts are being made to establish the ancient tradition of Ayurvedic surgery on scientific standards. The President said the Ministry of AYUSH is working closely with the World Health Organization to strengthen the global standardisation of Ayurvedic healthcare. She noted that standardized documentation, digital health integration, and the effective use of modern scientific research techniques will help enhance the worldwide acceptance of Ayurveda. The President Murmu expressed confidence that the deliberations at the symposium will generate new knowledge and further strengthen international cooperation in the field of Ayurvedic surgery.",
+        "title": "PM Modi says India-UK CETA to benefit farmers, entrepreneurs and MSMEs",
+        "summary": "Prime Minister Narendra Modi today said that the Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security which came into force today, is a significant moment in the partnership of India-United Kingdom. Mr Modi made these remarks while sharing a social media post of Union Commerce and Industry Minister Piyush Goyal. &#160; […]",
+        "article": "Prime Minister Narendra Modi today said that the Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security which came into force today, is a significant moment in the partnership of India-United Kingdom. Mr Modi made these remarks while sharing a social media post of Union Commerce and Industry Minister Piyush Goyal. &nbsp; The Prime Minister added that the CETA will give fresh momentum to India’s farmers, entrepreneurs and MSMEs along with several vibrant sectors gaining stronger access to the UK market. The Prime Minister noted that it will also deepen cooperation in technology, professional services and innovation, while supporting greater mobility for skilled Indian talent. &nbsp; Mr Modi added that the social security agreement will provide invaluable support to Indian professionals working temporarily in the UK and strengthen the competitiveness of Indian enterprises. He noted that this moment reflects the trust between India-UK democracies and their resolve to build a forward-looking partnership driven by trade, technology, investment and innovation. The Prime Minister highlighted that India and the UK will continue working together for shared prosperity.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:30:33+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-says-india-uk-ceta-to-benefit-farmers-entrepreneurs-and-msmes/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-becomes-first-Indian-Prime-Minister-to-address-Indonesian-Parliament.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "President Murmu calls for adoption of latest techniques in Ayurveda for greater good of society",
+        "summary": "President Droupadi Murmu has called for the adoption of the latest techniques in Ayurveda for the greater good of society. Addressing the inaugural function of Saushrutam 2026 in New Delhi today, the President said that the Central government has established Ayurveda and Yoga on the global stage with renewed energy. She expressed satisfaction that […]",
+        "article": "President Droupadi Murmu has called for the adoption of the latest techniques in Ayurveda for the greater good of society. Addressing the inaugural function of Saushrutam 2026 in New Delhi today, the President said that the Central government has established Ayurveda and Yoga on the global stage with renewed energy. She expressed satisfaction that efforts are being made to establish the ancient tradition of Ayurvedic surgery on scientific standards. The President said the Ministry of AYUSH is working closely with the World Health Organization to strengthen the global standardisation of Ayurvedic healthcare. She noted that standardised documentation, digital health integration, and the effective use of modern scientific research techniques will help enhance the worldwide acceptance of Ayurveda. The President Murmu expressed confidence that the deliberations at the symposium will generate new knowledge and further strengthen international cooperation in the field of Ayurvedic surgery.",
         "date": "2026-07-15",
         "pubDate": "2026-07-15T08:24:10+00:00",
         "link": "https://newsonair.gov.in/central-government-has-established-ayurveda-and-yoga-on-global-stage-president-droupadi-murmu/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNQR1VraIAAMMX0.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India says confidence in UN declining over lack of Security Council reforms",
+        "summary": "India has warned that people&#8217;s confidence in the United Nations is declining due to the failure to reform the UN Security Council and effectively address global conflicts. Speaking at a ministerial roundtable on &#8220;Making Multilateralism Fit for the Future&#8221; at the UN, India&#8217;s Permanent Representative P. Harish said the Security Council has failed to intervene […]",
+        "article": "India has warned that people&#8217;s confidence in the United Nations is declining due to the failure to reform the UN Security Council and effectively address global conflicts. Speaking at a ministerial roundtable on &#8220;Making Multilateralism Fit for the Future&#8221; at the UN, India&#8217;s Permanent Representative P. Harish said the Security Council has failed to intervene meaningfully in ongoing conflicts, raising questions about its ability to uphold international peace and security. He said the 80-year-old UN architecture is no longer adequate to meet present-day global challenges. Mr. Harish noted that negotiations on Security Council reforms have remained stuck in an endless cycle of statements without tangible progress. He said the Action Points under the Pact for the Future, including ending violence, racism and xenophobia, promoting gender equality, and strengthening peacekeeping, have largely remained on paper. Calling the situation untenable, he stressed that meaningful reforms are urgently needed. Harish said India had significant reservations on some of the Pact&#8217;s action points. However, he added that India supported the Pact in a constructive spirit. He also called for revitalising the UN General Assembly and strengthening the role of the Economic and Social Council in advancing sustainable development. In the Global South, Harish reaffirmed India&#8217;s commitment to mobilising resources and ensuring that no country is left behind. He also urged international financial institutions to become more representative, responsive and development-oriented, while preserving their core mandates. He said adequate, affordable and predictable financing remains essential for achieving the Sustainable Development Goals.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:20:11+00:00",
+        "link": "https://newsonair.gov.in/india-says-confidence-in-un-declining-over-lack-of-security-council-reforms/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/UN-P-Harish.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -70,31 +114,9 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "PM Modi says India-UK CETA to benefit farmers, entrepreneurs and MSMEs",
-        "summary": "Prime Minister Narendra Modi today said that the Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security which came into force today, is a significant moment in the partnership of India-United Kingdom. Mr Modi made these remarks while sharing a social media post of Union Commerce and Industry Minister Piyush Goyal. &#160; […]",
-        "article": "Prime Minister Narendra Modi today said that the Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security which came into force today, is a significant moment in the partnership of India-United Kingdom. Mr Modi made these remarks while sharing a social media post of Union Commerce and Industry Minister Piyush Goyal. &nbsp; The Prime Minister added that the CETA will give fresh momentum to India’s farmers, entrepreneurs and MSMEs along with several vibrant sectors gaining stronger access to the UK market. The Prime Minister noted that it will also deepen cooperation in technology, professional services and innovation, while supporting greater mobility for skilled Indian talent. &nbsp; Mr Modi added that the social security agreement will provide invaluable support to Indian professionals working temporarily in the UK and strengthen the competitiveness of Indian enterprises. He noted that this moment reflects the trust between India-UK democracies and their resolve to build a forward-looking partnership driven by trade, technology, investment and innovation. The Prime Minister highlighted that India and the UK will continue working together for shared prosperity.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:59:33+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-says-india-uk-ceta-to-benefit-farmers-entrepreneurs-and-msmes/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-becomes-first-Indian-Prime-Minister-to-address-Indonesian-Parliament.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "12th BRICS Labour and Employment Ministers’ Meeting begins in Hyderabad",
-        "summary": "The 12th BRICS Labour and Employment Ministers&#8217; Meeting has commenced in Hyderabad under India’s 2026 Chairship. Chaired by Union Minister Dr. Mansukh Mandaviya alongside Minister of State Shobha Karandlaje, the high-level deliberations focus on advancing social security, enhancing women&#8217;s workforce participation, mapping global skills, and leveraging digital technologies for gig and p",
-        "article": "The 12th BRICS Labour and Employment Ministers&#8217; Meeting has commenced in Hyderabad under India’s 2026 Chairship. Chaired by Union Minister Dr. Mansukh Mandaviya alongside Minister of State Shobha Karandlaje, the high-level deliberations focus on advancing social security, enhancing women&#8217;s workforce participation, mapping global skills, and leveraging digital technologies for gig and platform workers.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:57:15+00:00",
-        "link": "https://newsonair.gov.in/12th-brics-labour-and-employment-ministers-meeting-begins-in-hyderabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/p-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "First export consignment to UK flagged off from Hyderabad under India-UK CETA",
-        "summary": "The landmark India-United Kingdom Comprehensive Economic and Trade Agreement (CETA) officially came into force today. To mark this historic milestone, the inaugural consignment of export shipments from Telangana to the UK was flagged off from Hyderabad this morning. The launch ceremony was attended by several senior officials, including Telangana’s Special Secretary for Industries Krishna […]",
-        "article": "The landmark India-United Kingdom Comprehensive Economic and Trade Agreement (CETA) officially came into force today. To mark this historic milestone, the inaugural consignment of export shipments from Telangana to the UK was flagged off from Hyderabad this morning. The launch ceremony was attended by several senior officials, including Telangana’s Special Secretary for Industries Krishna Aditya, DGFT Additional Director Dr. Sampath Kumar, VSEZ Deputy Commissioner Bhavani Sri, and regional head R.P. Naidu. The trade pact is expected to significantly enhance market access for Indian exports through the elimination of tariffs, simplified customs procedures, and improved regulatory cooperation. Officials anticipate that these tariff concessions will create robust new opportunities for exporters across multiple sectors while substantially boosting the competitiveness of Telangana&#8217;s products in the UK market.",
+        "title": "First consignments from different parts of India sent to UK under CETA",
+        "summary": "As the India–United Kingdom Comprehensive Economic and Trade Agreement (CETA) came into effect today, the first consignments from different parts of the country have begun their journey to the UK. In Hyderabad, the inaugural consignment of export shipments from Telangana to the UK was flagged off this morning. The launch ceremony was attended […]",
+        "article": "As the India–United Kingdom Comprehensive Economic and Trade Agreement (CETA) came into effect today, the first consignments from different parts of the country have begun their journey to the UK. In Hyderabad, the inaugural consignment of export shipments from Telangana to the UK was flagged off this morning. The launch ceremony was attended by several senior officials, including Telangana’s Special Secretary for Industries Krishna Aditya, DGFT Additional Director Dr. Sampath Kumar, VSEZ Deputy Commissioner Bhavani Sri and Regional Head R.P. Naidu. The trade pact is expected to significantly enhance market access for Indian exports through the elimination of tariffs, simplified customs procedures, and improved regulatory cooperation. Officials anticipate that these tariff concessions will create robust new opportunities for exporters across multiple sectors while substantially boosting the competitiveness of Telangana’s products in the UK market. Meanwhile, ready-made garments and woollen and worsted yarn were flagged off from Punjab’s Amritsar and Ludhiana. At Ludhiana, the ceremony was jointly organised at Sahnewal by DGFT (RA) Ludhiana, the Customs Commissionerate, Ludhiana, and FIEO. In Amritsar, the consignment of ready-made garments was flagged off from Sri Guru Ram Dass Jee International Airport through Air India’s direct flight to Birmingham. The agreement secures zero-duty market access for nearly 99% of India&#8217;s exports to the UK, expands opportunities across 137 services sub-sectors, and boosts key sectors, including textiles, leather, engineering, food processing, pharmaceuticals and MSMEs. In Maharashtra, export shipments were flagged off from Nhava Sheva and SEEPZ-SEZ in Mumbai. At Nhava Sheva, India’s largest containerised cargo port, the Directorate General of Foreign Trade (DGFT), Regional Authority Mumbai, flagged off consignments from seven exporters representing sectors including chemicals, pharmaceuticals, plastics, food products, enzymes, and spices, marking the commencement of exports under the agreement. Senior Customs and DGFT officials attended the ceremony. At SEEPZ-SEZ, India’s first Special Economic Zone and a leading export hub for gems and jewellery, Development Commissioner Dnyaneshwar B. Patil led a flag-off ceremony for export shipments to the United Kingdom. A presentation on the agreement highlighted that the gems and jewellery sector contributes over ₹2,109 crore to SEEPZ’s exports to the UK. With the UK’s 4% import duty abolished from today, the sector is expected to receive an annual tariff benefit of about ₹84 crore, besides improved competitiveness, higher investments, employment generation, and a boost to exports. Later today, the Maharashtra Government, in association with the British Deputy High Commission, will organise a special programme in Mumbai to mark the implementation of the agreement. Chief Minister Devendra Fadnavis will attend as the chief guest, while Deputy Chief Ministers Eknath Shinde and Sunetra Pawar are also expected to be present.",
         "date": "2026-07-15",
         "pubDate": "2026-07-15T07:56:00+00:00",
         "link": "https://newsonair.gov.in/first-export-consignment-to-uk-flagged-off-from-hyderabad-under-india-uk-ceta/",
@@ -110,28 +132,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T07:51:02+00:00",
         "link": "https://newsonair.gov.in/indian-pharmacopoeia-commission-signs-mou-with-up-promote-pharma-council/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNQFOLEboAAxD2x.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Vice President C P Radhakrishnan administers oath to two newly elected Rajya Sabha members",
-        "summary": "Vice President and Rajya Sabha Chairman C P Radhakrishnan administered oath to the newly elected members of the upper house. The members included Mansoor Ali Khan from Karnataka, and Rajneesh Kumar Agrawal from Madhya Pradesh.",
-        "article": "Vice President and Rajya Sabha Chairman C P Radhakrishnan administered oath to the newly elected members of the upper house. The members included Mansoor Ali Khan from Karnataka, and Rajneesh Kumar Agrawal from Madhya Pradesh.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:49:10+00:00",
-        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-administers-oath-to-two-newly-elected-rajya-sabha-members/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/images-9.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "World Youth Skills Day being observed today",
-        "summary": "The World Youth Skills Day is being observed today. It is celebrated every year on 15th July after the United Nations General Assembly&#8217;s (UNGA) declaration in 2014. The day is celebrated to mark the strategic importance of equipping young people with skills for employment, decent work and entrepreneurship.",
-        "article": "The World Youth Skills Day is being observed today. It is celebrated every year on 15th July after the United Nations General Assembly&#8217;s (UNGA) declaration in 2014. The day is celebrated to mark the strategic importance of equipping young people with skills for employment, decent work and entrepreneurship.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:48:11+00:00",
-        "link": "https://newsonair.gov.in/world-youth-skills-day-being-observed-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/0.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -149,9 +149,20 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Central government has established Ayurveda and Yoga on global stage: President Droupadi Murmu",
-        "summary": "President Droupadi Murmu has said that the Central government has established Ayurveda and Yoga on the global stage with renewed energy. Addressing the inaugural function of Saushrutam 2026 in New Delhi today, the President expressed satisfaction that efforts are being made to establish the ancient tradition of Ayurvedic surgery on scientific standards. The […]",
-        "article": "President Droupadi Murmu has said that the Central government has established Ayurveda and Yoga on the global stage with renewed energy. Addressing the inaugural function of Saushrutam 2026 in New Delhi today, the President expressed satisfaction that efforts are being made to establish the ancient tradition of Ayurvedic surgery on scientific standards. The President said the Ministry of AYUSH is working closely with the World Health Organization to strengthen the global standardisation of Ayurvedic healthcare. She noted that standardized documentation, digital health integration, and the effective use of modern scientific research techniques will help enhance the worldwide acceptance of Ayurveda. The President Murmu expressed confidence that the deliberations at the symposium will generate new knowledge and further strengthen international cooperation in the field of Ayurvedic surgery.",
+        "title": "PM Modi says India-UK CETA to benefit farmers, entrepreneurs and MSMEs",
+        "summary": "Prime Minister Narendra Modi today said that the Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security which came into force today, is a significant moment in the partnership of India-United Kingdom. Mr Modi made these remarks while sharing a social media post of Union Commerce and Industry Minister Piyush Goyal. &#160; […]",
+        "article": "Prime Minister Narendra Modi today said that the Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security which came into force today, is a significant moment in the partnership of India-United Kingdom. Mr Modi made these remarks while sharing a social media post of Union Commerce and Industry Minister Piyush Goyal. &nbsp; The Prime Minister added that the CETA will give fresh momentum to India’s farmers, entrepreneurs and MSMEs along with several vibrant sectors gaining stronger access to the UK market. The Prime Minister noted that it will also deepen cooperation in technology, professional services and innovation, while supporting greater mobility for skilled Indian talent. &nbsp; Mr Modi added that the social security agreement will provide invaluable support to Indian professionals working temporarily in the UK and strengthen the competitiveness of Indian enterprises. He noted that this moment reflects the trust between India-UK democracies and their resolve to build a forward-looking partnership driven by trade, technology, investment and innovation. The Prime Minister highlighted that India and the UK will continue working together for shared prosperity.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:30:33+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-says-india-uk-ceta-to-benefit-farmers-entrepreneurs-and-msmes/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-becomes-first-Indian-Prime-Minister-to-address-Indonesian-Parliament.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "President Murmu calls for adoption of latest techniques in Ayurveda for greater good of society",
+        "summary": "President Droupadi Murmu has called for the adoption of the latest techniques in Ayurveda for the greater good of society. Addressing the inaugural function of Saushrutam 2026 in New Delhi today, the President said that the Central government has established Ayurveda and Yoga on the global stage with renewed energy. She expressed satisfaction that […]",
+        "article": "President Droupadi Murmu has called for the adoption of the latest techniques in Ayurveda for the greater good of society. Addressing the inaugural function of Saushrutam 2026 in New Delhi today, the President said that the Central government has established Ayurveda and Yoga on the global stage with renewed energy. She expressed satisfaction that efforts are being made to establish the ancient tradition of Ayurvedic surgery on scientific standards. The President said the Ministry of AYUSH is working closely with the World Health Organization to strengthen the global standardisation of Ayurvedic healthcare. She noted that standardised documentation, digital health integration, and the effective use of modern scientific research techniques will help enhance the worldwide acceptance of Ayurveda. The President Murmu expressed confidence that the deliberations at the symposium will generate new knowledge and further strengthen international cooperation in the field of Ayurvedic surgery.",
         "date": "2026-07-15",
         "pubDate": "2026-07-15T08:24:10+00:00",
         "link": "https://newsonair.gov.in/central-government-has-established-ayurveda-and-yoga-on-global-stage-president-droupadi-murmu/",
@@ -167,28 +178,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T08:06:22+00:00",
         "link": "https://newsonair.gov.in/imd-issues-red-warning-for-heavy-to-extremely-heavy-rainfall-in-odisha/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/imd.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi says India-UK CETA to benefit farmers, entrepreneurs and MSMEs",
-        "summary": "Prime Minister Narendra Modi today said that the Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security which came into force today, is a significant moment in the partnership of India-United Kingdom. Mr Modi made these remarks while sharing a social media post of Union Commerce and Industry Minister Piyush Goyal. &#160; […]",
-        "article": "Prime Minister Narendra Modi today said that the Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security which came into force today, is a significant moment in the partnership of India-United Kingdom. Mr Modi made these remarks while sharing a social media post of Union Commerce and Industry Minister Piyush Goyal. &nbsp; The Prime Minister added that the CETA will give fresh momentum to India’s farmers, entrepreneurs and MSMEs along with several vibrant sectors gaining stronger access to the UK market. The Prime Minister noted that it will also deepen cooperation in technology, professional services and innovation, while supporting greater mobility for skilled Indian talent. &nbsp; Mr Modi added that the social security agreement will provide invaluable support to Indian professionals working temporarily in the UK and strengthen the competitiveness of Indian enterprises. He noted that this moment reflects the trust between India-UK democracies and their resolve to build a forward-looking partnership driven by trade, technology, investment and innovation. The Prime Minister highlighted that India and the UK will continue working together for shared prosperity.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:59:33+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-says-india-uk-ceta-to-benefit-farmers-entrepreneurs-and-msmes/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-becomes-first-Indian-Prime-Minister-to-address-Indonesian-Parliament.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "12th BRICS Labour and Employment Ministers’ Meeting begins in Hyderabad",
-        "summary": "The 12th BRICS Labour and Employment Ministers&#8217; Meeting has commenced in Hyderabad under India’s 2026 Chairship. Chaired by Union Minister Dr. Mansukh Mandaviya alongside Minister of State Shobha Karandlaje, the high-level deliberations focus on advancing social security, enhancing women&#8217;s workforce participation, mapping global skills, and leveraging digital technologies for gig and p",
-        "article": "The 12th BRICS Labour and Employment Ministers&#8217; Meeting has commenced in Hyderabad under India’s 2026 Chairship. Chaired by Union Minister Dr. Mansukh Mandaviya alongside Minister of State Shobha Karandlaje, the high-level deliberations focus on advancing social security, enhancing women&#8217;s workforce participation, mapping global skills, and leveraging digital technologies for gig and platform workers.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:57:15+00:00",
-        "link": "https://newsonair.gov.in/12th-brics-labour-and-employment-ministers-meeting-begins-in-hyderabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/p-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -237,14 +226,27 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Industry bodies hail India-UK Free Trade Agreement as historic milestone",
-        "summary": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on […]",
-        "article": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on the operationalisation of the India-UK CETA. He said that by facilitating greater co-operation in innovation, technology, and talent mobility, it will also help enhance the competitiveness of Indian industry. ASSOCHAM President, Nirmal Kumar Minda said, the agreement marks a historic milestone in India&#8217;s FTA journey, bringing together two of the world&#8217;s oldest democracies through a comprehensive free trade partnership. He said, under the agreement, 99 per cent of India&#8217;s exports to the UK will enjoy duty-free access. Mr Minda said, the agreement is expected to significantly benefit Indian sectors such as textiles, leather, marine products, gems and jewellery, engineering goods, and chemicals. Chairman of the Trade Promotion Council of India, Mohit Singla, said the operationalisation of the India-UK trade agreement marks a historic milestone in strengthening one of India’s most important economic partnerships. He said, this landmark agreement opens a new chapter of opportunity for Indian exporters by providing enhanced market access, greater predictability, and a level playing field in the UK market.",
+        "title": "Palestine welcomes India’s decision to establish three development projects",
+        "summary": "Palestine has welcomed India&#8217;s decision to establish three major development projects in the war-torn country. The projects include a Specialty Hospital, an Artificial Limb Fitment Centre and a Vocational Training Institute. &#160; In a statement, the Embassy of Palestine in New Delhi said the announcement comes at a time when the Palestinian people, particularly in […]",
+        "article": "Palestine has welcomed India&#8217;s decision to establish three major development projects in the war-torn country. The projects include a Specialty Hospital, an Artificial Limb Fitment Centre and a Vocational Training Institute. &nbsp; In a statement, the Embassy of Palestine in New Delhi said the announcement comes at a time when the Palestinian people, particularly in the Gaza Strip, continue to face one of the gravest humanitarian crises of recent times. It said India&#8217;s commitment to establish a Specialty Hospital and an Artificial Limb Fitment Centre will make a meaningful contribution to strengthening healthcare services and supporting the rehabilitation of those most severely affected. &nbsp; It added that the proposed Vocational Training Institute represents an investment in the future of the Palestinian people by equipping young Palestinians with the skills needed to rebuild their communities and economy. &nbsp; Earlier on Monday, External Affairs Minister Dr S Jaishankar announced the initiative during the launch of India&#8217;s campaign for election to the United Nations Security Council for the 2028-29 term, in Brussels. The Embassy also welcomed India&#8217;s reaffirmation of its longstanding support for a negotiated two-State solution, with an independent State of Palestine and Israel living side by side in peace and security. It further welcomed India&#8217;s support for Palestine&#8217;s full membership of the United Nations and its continued humanitarian and development partnership with the Palestinian people.",
         "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:19:17+00:00",
-        "link": "https://newsonair.gov.in/industry-bodies-hail-india-uk-free-trade-agreement-as-historic-milestone/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-15T08:41:55+00:00",
+        "link": "https://newsonair.gov.in/palestine-welcomes-indias-decision-to-establish-three-development-projects/",
+        "post_id": 1739318,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "12th BRICS Labour and Employment Ministers’ Meeting begins in Hyderabad",
+        "summary": "The 12th BRICS Labour and Employment Ministers&#8217; Meeting has commenced in Hyderabad under India’s 2026 Chairship. Chaired by Union Minister Dr. Mansukh Mandaviya alongside Minister of State Shobha Karandlaje, the high-level deliberations focus on advancing social security, enhancing women&#8217;s workforce participation, mapping global skills, and leveraging digital technologies for gig and p",
+        "article": "The 12th BRICS Labour and Employment Ministers&#8217; Meeting has commenced in Hyderabad under India’s 2026 Chairship. Chaired by Union Minister Dr. Mansukh Mandaviya alongside Minister of State Shobha Karandlaje, the high-level deliberations focus on advancing social security, enhancing women&#8217;s workforce participation, mapping global skills, and leveraging digital technologies for gig and platform workers.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T07:57:15+00:00",
+        "link": "https://newsonair.gov.in/12th-brics-labour-and-employment-ministers-meeting-begins-in-hyderabad/",
+        "post_id": 1739179,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -261,9 +263,20 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Central government has established Ayurveda and Yoga on global stage: President Droupadi Murmu",
-        "summary": "President Droupadi Murmu has said that the Central government has established Ayurveda and Yoga on the global stage with renewed energy. Addressing the inaugural function of Saushrutam 2026 in New Delhi today, the President expressed satisfaction that efforts are being made to establish the ancient tradition of Ayurvedic surgery on scientific standards. The […]",
-        "article": "President Droupadi Murmu has said that the Central government has established Ayurveda and Yoga on the global stage with renewed energy. Addressing the inaugural function of Saushrutam 2026 in New Delhi today, the President expressed satisfaction that efforts are being made to establish the ancient tradition of Ayurvedic surgery on scientific standards. The President said the Ministry of AYUSH is working closely with the World Health Organization to strengthen the global standardisation of Ayurvedic healthcare. She noted that standardized documentation, digital health integration, and the effective use of modern scientific research techniques will help enhance the worldwide acceptance of Ayurveda. The President Murmu expressed confidence that the deliberations at the symposium will generate new knowledge and further strengthen international cooperation in the field of Ayurvedic surgery.",
+        "title": "PM Modi says India-UK CETA to benefit farmers, entrepreneurs and MSMEs",
+        "summary": "Prime Minister Narendra Modi today said that the Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security which came into force today, is a significant moment in the partnership of India-United Kingdom. Mr Modi made these remarks while sharing a social media post of Union Commerce and Industry Minister Piyush Goyal. &#160; […]",
+        "article": "Prime Minister Narendra Modi today said that the Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security which came into force today, is a significant moment in the partnership of India-United Kingdom. Mr Modi made these remarks while sharing a social media post of Union Commerce and Industry Minister Piyush Goyal. &nbsp; The Prime Minister added that the CETA will give fresh momentum to India’s farmers, entrepreneurs and MSMEs along with several vibrant sectors gaining stronger access to the UK market. The Prime Minister noted that it will also deepen cooperation in technology, professional services and innovation, while supporting greater mobility for skilled Indian talent. &nbsp; Mr Modi added that the social security agreement will provide invaluable support to Indian professionals working temporarily in the UK and strengthen the competitiveness of Indian enterprises. He noted that this moment reflects the trust between India-UK democracies and their resolve to build a forward-looking partnership driven by trade, technology, investment and innovation. The Prime Minister highlighted that India and the UK will continue working together for shared prosperity.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:30:33+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-says-india-uk-ceta-to-benefit-farmers-entrepreneurs-and-msmes/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-becomes-first-Indian-Prime-Minister-to-address-Indonesian-Parliament.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "President Murmu calls for adoption of latest techniques in Ayurveda for greater good of society",
+        "summary": "President Droupadi Murmu has called for the adoption of the latest techniques in Ayurveda for the greater good of society. Addressing the inaugural function of Saushrutam 2026 in New Delhi today, the President said that the Central government has established Ayurveda and Yoga on the global stage with renewed energy. She expressed satisfaction that […]",
+        "article": "President Droupadi Murmu has called for the adoption of the latest techniques in Ayurveda for the greater good of society. Addressing the inaugural function of Saushrutam 2026 in New Delhi today, the President said that the Central government has established Ayurveda and Yoga on the global stage with renewed energy. She expressed satisfaction that efforts are being made to establish the ancient tradition of Ayurvedic surgery on scientific standards. The President said the Ministry of AYUSH is working closely with the World Health Organization to strengthen the global standardisation of Ayurvedic healthcare. She noted that standardised documentation, digital health integration, and the effective use of modern scientific research techniques will help enhance the worldwide acceptance of Ayurveda. The President Murmu expressed confidence that the deliberations at the symposium will generate new knowledge and further strengthen international cooperation in the field of Ayurvedic surgery.",
         "date": "2026-07-15",
         "pubDate": "2026-07-15T08:24:10+00:00",
         "link": "https://newsonair.gov.in/central-government-has-established-ayurveda-and-yoga-on-global-stage-president-droupadi-murmu/",
@@ -279,28 +292,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T08:06:22+00:00",
         "link": "https://newsonair.gov.in/imd-issues-red-warning-for-heavy-to-extremely-heavy-rainfall-in-odisha/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/imd.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi says India-UK CETA to benefit farmers, entrepreneurs and MSMEs",
-        "summary": "Prime Minister Narendra Modi today said that the Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security which came into force today, is a significant moment in the partnership of India-United Kingdom. Mr Modi made these remarks while sharing a social media post of Union Commerce and Industry Minister Piyush Goyal. &#160; […]",
-        "article": "Prime Minister Narendra Modi today said that the Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security which came into force today, is a significant moment in the partnership of India-United Kingdom. Mr Modi made these remarks while sharing a social media post of Union Commerce and Industry Minister Piyush Goyal. &nbsp; The Prime Minister added that the CETA will give fresh momentum to India’s farmers, entrepreneurs and MSMEs along with several vibrant sectors gaining stronger access to the UK market. The Prime Minister noted that it will also deepen cooperation in technology, professional services and innovation, while supporting greater mobility for skilled Indian talent. &nbsp; Mr Modi added that the social security agreement will provide invaluable support to Indian professionals working temporarily in the UK and strengthen the competitiveness of Indian enterprises. He noted that this moment reflects the trust between India-UK democracies and their resolve to build a forward-looking partnership driven by trade, technology, investment and innovation. The Prime Minister highlighted that India and the UK will continue working together for shared prosperity.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:59:33+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-says-india-uk-ceta-to-benefit-farmers-entrepreneurs-and-msmes/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-becomes-first-Indian-Prime-Minister-to-address-Indonesian-Parliament.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "12th BRICS Labour and Employment Ministers’ Meeting begins in Hyderabad",
-        "summary": "The 12th BRICS Labour and Employment Ministers&#8217; Meeting has commenced in Hyderabad under India’s 2026 Chairship. Chaired by Union Minister Dr. Mansukh Mandaviya alongside Minister of State Shobha Karandlaje, the high-level deliberations focus on advancing social security, enhancing women&#8217;s workforce participation, mapping global skills, and leveraging digital technologies for gig and p",
-        "article": "The 12th BRICS Labour and Employment Ministers&#8217; Meeting has commenced in Hyderabad under India’s 2026 Chairship. Chaired by Union Minister Dr. Mansukh Mandaviya alongside Minister of State Shobha Karandlaje, the high-level deliberations focus on advancing social security, enhancing women&#8217;s workforce participation, mapping global skills, and leveraging digital technologies for gig and platform workers.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:57:15+00:00",
-        "link": "https://newsonair.gov.in/12th-brics-labour-and-employment-ministers-meeting-begins-in-hyderabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/p-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -349,14 +340,27 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Industry bodies hail India-UK Free Trade Agreement as historic milestone",
-        "summary": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on […]",
-        "article": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on the operationalisation of the India-UK CETA. He said that by facilitating greater co-operation in innovation, technology, and talent mobility, it will also help enhance the competitiveness of Indian industry. ASSOCHAM President, Nirmal Kumar Minda said, the agreement marks a historic milestone in India&#8217;s FTA journey, bringing together two of the world&#8217;s oldest democracies through a comprehensive free trade partnership. He said, under the agreement, 99 per cent of India&#8217;s exports to the UK will enjoy duty-free access. Mr Minda said, the agreement is expected to significantly benefit Indian sectors such as textiles, leather, marine products, gems and jewellery, engineering goods, and chemicals. Chairman of the Trade Promotion Council of India, Mohit Singla, said the operationalisation of the India-UK trade agreement marks a historic milestone in strengthening one of India’s most important economic partnerships. He said, this landmark agreement opens a new chapter of opportunity for Indian exporters by providing enhanced market access, greater predictability, and a level playing field in the UK market.",
+        "title": "Palestine welcomes India’s decision to establish three development projects",
+        "summary": "Palestine has welcomed India&#8217;s decision to establish three major development projects in the war-torn country. The projects include a Specialty Hospital, an Artificial Limb Fitment Centre and a Vocational Training Institute. &#160; In a statement, the Embassy of Palestine in New Delhi said the announcement comes at a time when the Palestinian people, particularly in […]",
+        "article": "Palestine has welcomed India&#8217;s decision to establish three major development projects in the war-torn country. The projects include a Specialty Hospital, an Artificial Limb Fitment Centre and a Vocational Training Institute. &nbsp; In a statement, the Embassy of Palestine in New Delhi said the announcement comes at a time when the Palestinian people, particularly in the Gaza Strip, continue to face one of the gravest humanitarian crises of recent times. It said India&#8217;s commitment to establish a Specialty Hospital and an Artificial Limb Fitment Centre will make a meaningful contribution to strengthening healthcare services and supporting the rehabilitation of those most severely affected. &nbsp; It added that the proposed Vocational Training Institute represents an investment in the future of the Palestinian people by equipping young Palestinians with the skills needed to rebuild their communities and economy. &nbsp; Earlier on Monday, External Affairs Minister Dr S Jaishankar announced the initiative during the launch of India&#8217;s campaign for election to the United Nations Security Council for the 2028-29 term, in Brussels. The Embassy also welcomed India&#8217;s reaffirmation of its longstanding support for a negotiated two-State solution, with an independent State of Palestine and Israel living side by side in peace and security. It further welcomed India&#8217;s support for Palestine&#8217;s full membership of the United Nations and its continued humanitarian and development partnership with the Palestinian people.",
         "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:19:17+00:00",
-        "link": "https://newsonair.gov.in/industry-bodies-hail-india-uk-free-trade-agreement-as-historic-milestone/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-15T08:41:55+00:00",
+        "link": "https://newsonair.gov.in/palestine-welcomes-indias-decision-to-establish-three-development-projects/",
+        "post_id": 1739318,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "12th BRICS Labour and Employment Ministers’ Meeting begins in Hyderabad",
+        "summary": "The 12th BRICS Labour and Employment Ministers&#8217; Meeting has commenced in Hyderabad under India’s 2026 Chairship. Chaired by Union Minister Dr. Mansukh Mandaviya alongside Minister of State Shobha Karandlaje, the high-level deliberations focus on advancing social security, enhancing women&#8217;s workforce participation, mapping global skills, and leveraging digital technologies for gig and p",
+        "article": "The 12th BRICS Labour and Employment Ministers&#8217; Meeting has commenced in Hyderabad under India’s 2026 Chairship. Chaired by Union Minister Dr. Mansukh Mandaviya alongside Minister of State Shobha Karandlaje, the high-level deliberations focus on advancing social security, enhancing women&#8217;s workforce participation, mapping global skills, and leveraging digital technologies for gig and platform workers.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T07:57:15+00:00",
+        "link": "https://newsonair.gov.in/12th-brics-labour-and-employment-ministers-meeting-begins-in-hyderabad/",
+        "post_id": 1739179,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -373,9 +377,20 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Central government has established Ayurveda and Yoga on global stage: President Droupadi Murmu",
-        "summary": "President Droupadi Murmu has said that the Central government has established Ayurveda and Yoga on the global stage with renewed energy. Addressing the inaugural function of Saushrutam 2026 in New Delhi today, the President expressed satisfaction that efforts are being made to establish the ancient tradition of Ayurvedic surgery on scientific standards. The […]",
-        "article": "President Droupadi Murmu has said that the Central government has established Ayurveda and Yoga on the global stage with renewed energy. Addressing the inaugural function of Saushrutam 2026 in New Delhi today, the President expressed satisfaction that efforts are being made to establish the ancient tradition of Ayurvedic surgery on scientific standards. The President said the Ministry of AYUSH is working closely with the World Health Organization to strengthen the global standardisation of Ayurvedic healthcare. She noted that standardized documentation, digital health integration, and the effective use of modern scientific research techniques will help enhance the worldwide acceptance of Ayurveda. The President Murmu expressed confidence that the deliberations at the symposium will generate new knowledge and further strengthen international cooperation in the field of Ayurvedic surgery.",
+        "title": "PM Modi says India-UK CETA to benefit farmers, entrepreneurs and MSMEs",
+        "summary": "Prime Minister Narendra Modi today said that the Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security which came into force today, is a significant moment in the partnership of India-United Kingdom. Mr Modi made these remarks while sharing a social media post of Union Commerce and Industry Minister Piyush Goyal. &#160; […]",
+        "article": "Prime Minister Narendra Modi today said that the Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security which came into force today, is a significant moment in the partnership of India-United Kingdom. Mr Modi made these remarks while sharing a social media post of Union Commerce and Industry Minister Piyush Goyal. &nbsp; The Prime Minister added that the CETA will give fresh momentum to India’s farmers, entrepreneurs and MSMEs along with several vibrant sectors gaining stronger access to the UK market. The Prime Minister noted that it will also deepen cooperation in technology, professional services and innovation, while supporting greater mobility for skilled Indian talent. &nbsp; Mr Modi added that the social security agreement will provide invaluable support to Indian professionals working temporarily in the UK and strengthen the competitiveness of Indian enterprises. He noted that this moment reflects the trust between India-UK democracies and their resolve to build a forward-looking partnership driven by trade, technology, investment and innovation. The Prime Minister highlighted that India and the UK will continue working together for shared prosperity.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:30:33+00:00",
+        "link": "https://newsonair.gov.in/pm-modi-says-india-uk-ceta-to-benefit-farmers-entrepreneurs-and-msmes/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-becomes-first-Indian-Prime-Minister-to-address-Indonesian-Parliament.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "President Murmu calls for adoption of latest techniques in Ayurveda for greater good of society",
+        "summary": "President Droupadi Murmu has called for the adoption of the latest techniques in Ayurveda for the greater good of society. Addressing the inaugural function of Saushrutam 2026 in New Delhi today, the President said that the Central government has established Ayurveda and Yoga on the global stage with renewed energy. She expressed satisfaction that […]",
+        "article": "President Droupadi Murmu has called for the adoption of the latest techniques in Ayurveda for the greater good of society. Addressing the inaugural function of Saushrutam 2026 in New Delhi today, the President said that the Central government has established Ayurveda and Yoga on the global stage with renewed energy. She expressed satisfaction that efforts are being made to establish the ancient tradition of Ayurvedic surgery on scientific standards. The President said the Ministry of AYUSH is working closely with the World Health Organization to strengthen the global standardisation of Ayurvedic healthcare. She noted that standardised documentation, digital health integration, and the effective use of modern scientific research techniques will help enhance the worldwide acceptance of Ayurveda. The President Murmu expressed confidence that the deliberations at the symposium will generate new knowledge and further strengthen international cooperation in the field of Ayurvedic surgery.",
         "date": "2026-07-15",
         "pubDate": "2026-07-15T08:24:10+00:00",
         "link": "https://newsonair.gov.in/central-government-has-established-ayurveda-and-yoga-on-global-stage-president-droupadi-murmu/",
@@ -391,28 +406,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T08:06:22+00:00",
         "link": "https://newsonair.gov.in/imd-issues-red-warning-for-heavy-to-extremely-heavy-rainfall-in-odisha/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/imd.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "PM Modi says India-UK CETA to benefit farmers, entrepreneurs and MSMEs",
-        "summary": "Prime Minister Narendra Modi today said that the Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security which came into force today, is a significant moment in the partnership of India-United Kingdom. Mr Modi made these remarks while sharing a social media post of Union Commerce and Industry Minister Piyush Goyal. &#160; […]",
-        "article": "Prime Minister Narendra Modi today said that the Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security which came into force today, is a significant moment in the partnership of India-United Kingdom. Mr Modi made these remarks while sharing a social media post of Union Commerce and Industry Minister Piyush Goyal. &nbsp; The Prime Minister added that the CETA will give fresh momentum to India’s farmers, entrepreneurs and MSMEs along with several vibrant sectors gaining stronger access to the UK market. The Prime Minister noted that it will also deepen cooperation in technology, professional services and innovation, while supporting greater mobility for skilled Indian talent. &nbsp; Mr Modi added that the social security agreement will provide invaluable support to Indian professionals working temporarily in the UK and strengthen the competitiveness of Indian enterprises. He noted that this moment reflects the trust between India-UK democracies and their resolve to build a forward-looking partnership driven by trade, technology, investment and innovation. The Prime Minister highlighted that India and the UK will continue working together for shared prosperity.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:59:33+00:00",
-        "link": "https://newsonair.gov.in/pm-modi-says-india-uk-ceta-to-benefit-farmers-entrepreneurs-and-msmes/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-becomes-first-Indian-Prime-Minister-to-address-Indonesian-Parliament.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "12th BRICS Labour and Employment Ministers’ Meeting begins in Hyderabad",
-        "summary": "The 12th BRICS Labour and Employment Ministers&#8217; Meeting has commenced in Hyderabad under India’s 2026 Chairship. Chaired by Union Minister Dr. Mansukh Mandaviya alongside Minister of State Shobha Karandlaje, the high-level deliberations focus on advancing social security, enhancing women&#8217;s workforce participation, mapping global skills, and leveraging digital technologies for gig and p",
-        "article": "The 12th BRICS Labour and Employment Ministers&#8217; Meeting has commenced in Hyderabad under India’s 2026 Chairship. Chaired by Union Minister Dr. Mansukh Mandaviya alongside Minister of State Shobha Karandlaje, the high-level deliberations focus on advancing social security, enhancing women&#8217;s workforce participation, mapping global skills, and leveraging digital technologies for gig and platform workers.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:57:15+00:00",
-        "link": "https://newsonair.gov.in/12th-brics-labour-and-employment-ministers-meeting-begins-in-hyderabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/p-1.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -461,18 +454,64 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Industry bodies hail India-UK Free Trade Agreement as historic milestone",
-        "summary": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on […]",
-        "article": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on the operationalisation of the India-UK CETA. He said that by facilitating greater co-operation in innovation, technology, and talent mobility, it will also help enhance the competitiveness of Indian industry. ASSOCHAM President, Nirmal Kumar Minda said, the agreement marks a historic milestone in India&#8217;s FTA journey, bringing together two of the world&#8217;s oldest democracies through a comprehensive free trade partnership. He said, under the agreement, 99 per cent of India&#8217;s exports to the UK will enjoy duty-free access. Mr Minda said, the agreement is expected to significantly benefit Indian sectors such as textiles, leather, marine products, gems and jewellery, engineering goods, and chemicals. Chairman of the Trade Promotion Council of India, Mohit Singla, said the operationalisation of the India-UK trade agreement marks a historic milestone in strengthening one of India’s most important economic partnerships. He said, this landmark agreement opens a new chapter of opportunity for Indian exporters by providing enhanced market access, greater predictability, and a level playing field in the UK market.",
+        "title": "Palestine welcomes India’s decision to establish three development projects",
+        "summary": "Palestine has welcomed India&#8217;s decision to establish three major development projects in the war-torn country. The projects include a Specialty Hospital, an Artificial Limb Fitment Centre and a Vocational Training Institute. &#160; In a statement, the Embassy of Palestine in New Delhi said the announcement comes at a time when the Palestinian people, particularly in […]",
+        "article": "Palestine has welcomed India&#8217;s decision to establish three major development projects in the war-torn country. The projects include a Specialty Hospital, an Artificial Limb Fitment Centre and a Vocational Training Institute. &nbsp; In a statement, the Embassy of Palestine in New Delhi said the announcement comes at a time when the Palestinian people, particularly in the Gaza Strip, continue to face one of the gravest humanitarian crises of recent times. It said India&#8217;s commitment to establish a Specialty Hospital and an Artificial Limb Fitment Centre will make a meaningful contribution to strengthening healthcare services and supporting the rehabilitation of those most severely affected. &nbsp; It added that the proposed Vocational Training Institute represents an investment in the future of the Palestinian people by equipping young Palestinians with the skills needed to rebuild their communities and economy. &nbsp; Earlier on Monday, External Affairs Minister Dr S Jaishankar announced the initiative during the launch of India&#8217;s campaign for election to the United Nations Security Council for the 2028-29 term, in Brussels. The Embassy also welcomed India&#8217;s reaffirmation of its longstanding support for a negotiated two-State solution, with an independent State of Palestine and Israel living side by side in peace and security. It further welcomed India&#8217;s support for Palestine&#8217;s full membership of the United Nations and its continued humanitarian and development partnership with the Palestinian people.",
         "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:19:17+00:00",
-        "link": "https://newsonair.gov.in/industry-bodies-hail-india-uk-free-trade-agreement-as-historic-milestone/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-15T08:41:55+00:00",
+        "link": "https://newsonair.gov.in/palestine-welcomes-indias-decision-to-establish-three-development-projects/",
+        "post_id": 1739318,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "12th BRICS Labour and Employment Ministers’ Meeting begins in Hyderabad",
+        "summary": "The 12th BRICS Labour and Employment Ministers&#8217; Meeting has commenced in Hyderabad under India’s 2026 Chairship. Chaired by Union Minister Dr. Mansukh Mandaviya alongside Minister of State Shobha Karandlaje, the high-level deliberations focus on advancing social security, enhancing women&#8217;s workforce participation, mapping global skills, and leveraging digital technologies for gig and p",
+        "article": "The 12th BRICS Labour and Employment Ministers&#8217; Meeting has commenced in Hyderabad under India’s 2026 Chairship. Chaired by Union Minister Dr. Mansukh Mandaviya alongside Minister of State Shobha Karandlaje, the high-level deliberations focus on advancing social security, enhancing women&#8217;s workforce participation, mapping global skills, and leveraging digital technologies for gig and platform workers.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T07:57:15+00:00",
+        "link": "https://newsonair.gov.in/12th-brics-labour-and-employment-ministers-meeting-begins-in-hyderabad/",
+        "post_id": 1739179,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "Protests continue in Pakistan-occupied Jammu and Kashmir for 36th consecutive day",
+        "summary": "Protests in Pakistan-occupied Jammu and Kashmir (PoJK) entered their 36th consecutive day today, with thousands gathering in Rawalakot amid growing unrest. Addressing the rally, Joint Awami Action Committee (JAAC) leader Sardar Amman Khan accused Pakistan of forcibly occupying the region. He said PoJK is an &#8220;occupied territory&#8221; and not a &#8220;disputed territory&#8221;. He vowed that",
+        "article": "Protests in Pakistan-occupied Jammu and Kashmir (PoJK) entered their 36th consecutive day today, with thousands gathering in Rawalakot amid growing unrest. Addressing the rally, Joint Awami Action Committee (JAAC) leader Sardar Amman Khan accused Pakistan of forcibly occupying the region. He said PoJK is an &#8220;occupied territory&#8221; and not a &#8220;disputed territory&#8221;. He vowed that the movement would continue until &#8220;victory&#8221;, even if protesters had to sacrifice their lives. The rally witnessed strong anti-Pakistan slogans, with demonstrators pledging to continue their agitation. Meanwhile, the United Kashmir People&#8217;s National Party (UKPNP) strongly condemned the reported killing of six civilians by Pakistani security forces during clashes in Rawalakot. Reports said the civilians were killed after security personnel opened fire on protesters. The UKPNP has demanded an independent international investigation into the reported killings, excessive use of force, arbitrary arrests, enforced disappearances and restrictions imposed on civilians. It urged Pakistan to stop the use of lethal force, end arbitrary detentions and intimidation, and ensure due legal process for all detainees. The party also called for restoring access to food, medicines, healthcare and humanitarian aid, lifting communication restrictions and ensuring freedom of movement. The UKPNP appealed to the United Nations, the European Union, the United Kingdom, the United States and the wider international community to send an independent fact-finding mission to investigate the reported human rights violations.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:47:32+00:00",
+        "link": "https://newsonair.gov.in/protests-continue-in-pakistan-occupied-jammu-and-kashmir-for-36th-consecutive-day/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Akashvani-News.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Keralam begins exports under India-UK Comprehensive Economic and Trade Agreement",
+        "summary": "The India-UK Comprehensive Economic and Trade Agreement coming into force is expected to bring significant benefits to Keralam as well. Consignments availing the benefits of the agreement has already started from Keralam on the very first day itself. With a large Malayali diaspora residing in the United Kingdom, the new agreement is expected to […]",
+        "article": "The India-UK Comprehensive Economic and Trade Agreement coming into force is expected to bring significant benefits to Keralam as well. Consignments availing the benefits of the agreement has already started from Keralam on the very first day itself. With a large Malayali diaspora residing in the United Kingdom, the new agreement is expected to provide a major boost to food processing industries in Keralam. Since a substantial share of the state&#8217;s food industry comprises MSMEs, the benefits of the agreement are likely to reach a wider section of entrepreneurs. Other key sectors in Keralam that are expected to benefit from the agreement include seafood, textiles, and footwear. On the very first day the agreement came into force, the first seafood consignments to avail of its benefits were dispatched from Thiruvananthapuram and Kochi. These shipments mark the beginning of exports from Keralam under the India-UK trade agreement.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:44:42+00:00",
+        "link": "https://newsonair.gov.in/keralam-begins-exports-under-india-uk-comprehensive-economic-and-trade-agreement/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Palestine welcomes India’s decision to establish three development projects",
+        "summary": "Palestine has welcomed India&#8217;s decision to establish three major development projects in the war-torn country. The projects include a Specialty Hospital, an Artificial Limb Fitment Centre and a Vocational Training Institute. &#160; In a statement, the Embassy of Palestine in New Delhi said the announcement comes at a time when the Palestinian people, particularly in […]",
+        "article": "Palestine has welcomed India&#8217;s decision to establish three major development projects in the war-torn country. The projects include a Specialty Hospital, an Artificial Limb Fitment Centre and a Vocational Training Institute. &nbsp; In a statement, the Embassy of Palestine in New Delhi said the announcement comes at a time when the Palestinian people, particularly in the Gaza Strip, continue to face one of the gravest humanitarian crises of recent times. It said India&#8217;s commitment to establish a Specialty Hospital and an Artificial Limb Fitment Centre will make a meaningful contribution to strengthening healthcare services and supporting the rehabilitation of those most severely affected. &nbsp; It added that the proposed Vocational Training Institute represents an investment in the future of the Palestinian people by equipping young Palestinians with the skills needed to rebuild their communities and economy. &nbsp; Earlier on Monday, External Affairs Minister Dr S Jaishankar announced the initiative during the launch of India&#8217;s campaign for election to the United Nations Security Council for the 2028-29 term, in Brussels. The Embassy also welcomed India&#8217;s reaffirmation of its longstanding support for a negotiated two-State solution, with an independent State of Palestine and Israel living side by side in peace and security. It further welcomed India&#8217;s support for Palestine&#8217;s full membership of the United Nations and its continued humanitarian and development partnership with the Palestinian people.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:41:55+00:00",
+        "link": "https://newsonair.gov.in/palestine-welcomes-indias-decision-to-establish-three-development-projects/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Madhya Pradesh’s first international flight service to begin from Indore today",
         "summary": "Madhya Pradesh&#8217;s first international flight service will begin from Indore today. Chief Minister Dr. Mohan Yadav will flag off the first direct flight from Indore to Abu Dhabi. The service is being launched under the state&#8217;s Civil Aviation Policy 2025. The Air India Express flight will operate four days a week- Monday, Wednesday, Friday […]",
@@ -481,6 +520,17 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T08:35:25+00:00",
         "link": "https://newsonair.gov.in/madhya-pradeshs-first-international-flight-service-to-begin-from-indore-today/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/12/plane-data-BUSYROUTES1217-f4f84b08d47f4951b11c148cee2c3dea.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India says confidence in UN declining over lack of Security Council reforms",
+        "summary": "India has warned that people&#8217;s confidence in the United Nations is declining due to the failure to reform the UN Security Council and effectively address global conflicts. Speaking at a ministerial roundtable on &#8220;Making Multilateralism Fit for the Future&#8221; at the UN, India&#8217;s Permanent Representative P. Harish said the Security Council has failed to intervene […]",
+        "article": "India has warned that people&#8217;s confidence in the United Nations is declining due to the failure to reform the UN Security Council and effectively address global conflicts. Speaking at a ministerial roundtable on &#8220;Making Multilateralism Fit for the Future&#8221; at the UN, India&#8217;s Permanent Representative P. Harish said the Security Council has failed to intervene meaningfully in ongoing conflicts, raising questions about its ability to uphold international peace and security. He said the 80-year-old UN architecture is no longer adequate to meet present-day global challenges. Mr. Harish noted that negotiations on Security Council reforms have remained stuck in an endless cycle of statements without tangible progress. He said the Action Points under the Pact for the Future, including ending violence, racism and xenophobia, promoting gender equality, and strengthening peacekeeping, have largely remained on paper. Calling the situation untenable, he stressed that meaningful reforms are urgently needed. Harish said India had significant reservations on some of the Pact&#8217;s action points. However, he added that India supported the Pact in a constructive spirit. He also called for revitalising the UN General Assembly and strengthening the role of the Economic and Social Council in advancing sustainable development. In the Global South, Harish reaffirmed India&#8217;s commitment to mobilising resources and ensuring that no country is left behind. He also urged international financial institutions to become more representative, responsive and development-oriented, while preserving their core mandates. He said adequate, affordable and predictable financing remains essential for achieving the Sustainable Development Goals.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:20:11+00:00",
+        "link": "https://newsonair.gov.in/india-says-confidence-in-un-declining-over-lack-of-security-council-reforms/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/UN-P-Harish.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -507,9 +557,20 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "First export consignment to UK flagged off from Hyderabad under India-UK CETA",
-        "summary": "The landmark India-United Kingdom Comprehensive Economic and Trade Agreement (CETA) officially came into force today. To mark this historic milestone, the inaugural consignment of export shipments from Telangana to the UK was flagged off from Hyderabad this morning. The launch ceremony was attended by several senior officials, including Telangana’s Special Secretary for Industries Krishna […]",
-        "article": "The landmark India-United Kingdom Comprehensive Economic and Trade Agreement (CETA) officially came into force today. To mark this historic milestone, the inaugural consignment of export shipments from Telangana to the UK was flagged off from Hyderabad this morning. The launch ceremony was attended by several senior officials, including Telangana’s Special Secretary for Industries Krishna Aditya, DGFT Additional Director Dr. Sampath Kumar, VSEZ Deputy Commissioner Bhavani Sri, and regional head R.P. Naidu. The trade pact is expected to significantly enhance market access for Indian exports through the elimination of tariffs, simplified customs procedures, and improved regulatory cooperation. Officials anticipate that these tariff concessions will create robust new opportunities for exporters across multiple sectors while substantially boosting the competitiveness of Telangana&#8217;s products in the UK market.",
+        "title": "12th BRICS Labour and Employment Ministers’ Meeting begins in Hyderabad",
+        "summary": "The 12th BRICS Labour and Employment Ministers&#8217; Meeting has commenced in Hyderabad under India’s 2026 Chairship. Chaired by Union Minister Dr. Mansukh Mandaviya alongside Minister of State Shobha Karandlaje, the high-level deliberations focus on advancing social security, enhancing women&#8217;s workforce participation, mapping global skills, and leveraging digital technologies for gig and p",
+        "article": "The 12th BRICS Labour and Employment Ministers&#8217; Meeting has commenced in Hyderabad under India’s 2026 Chairship. Chaired by Union Minister Dr. Mansukh Mandaviya alongside Minister of State Shobha Karandlaje, the high-level deliberations focus on advancing social security, enhancing women&#8217;s workforce participation, mapping global skills, and leveraging digital technologies for gig and platform workers.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T07:57:15+00:00",
+        "link": "https://newsonair.gov.in/12th-brics-labour-and-employment-ministers-meeting-begins-in-hyderabad/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/p-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "First consignments from different parts of India sent to UK under CETA",
+        "summary": "As the India–United Kingdom Comprehensive Economic and Trade Agreement (CETA) came into effect today, the first consignments from different parts of the country have begun their journey to the UK. In Hyderabad, the inaugural consignment of export shipments from Telangana to the UK was flagged off this morning. The launch ceremony was attended […]",
+        "article": "As the India–United Kingdom Comprehensive Economic and Trade Agreement (CETA) came into effect today, the first consignments from different parts of the country have begun their journey to the UK. In Hyderabad, the inaugural consignment of export shipments from Telangana to the UK was flagged off this morning. The launch ceremony was attended by several senior officials, including Telangana’s Special Secretary for Industries Krishna Aditya, DGFT Additional Director Dr. Sampath Kumar, VSEZ Deputy Commissioner Bhavani Sri and Regional Head R.P. Naidu. The trade pact is expected to significantly enhance market access for Indian exports through the elimination of tariffs, simplified customs procedures, and improved regulatory cooperation. Officials anticipate that these tariff concessions will create robust new opportunities for exporters across multiple sectors while substantially boosting the competitiveness of Telangana’s products in the UK market. Meanwhile, ready-made garments and woollen and worsted yarn were flagged off from Punjab’s Amritsar and Ludhiana. At Ludhiana, the ceremony was jointly organised at Sahnewal by DGFT (RA) Ludhiana, the Customs Commissionerate, Ludhiana, and FIEO. In Amritsar, the consignment of ready-made garments was flagged off from Sri Guru Ram Dass Jee International Airport through Air India’s direct flight to Birmingham. The agreement secures zero-duty market access for nearly 99% of India&#8217;s exports to the UK, expands opportunities across 137 services sub-sectors, and boosts key sectors, including textiles, leather, engineering, food processing, pharmaceuticals and MSMEs. In Maharashtra, export shipments were flagged off from Nhava Sheva and SEEPZ-SEZ in Mumbai. At Nhava Sheva, India’s largest containerised cargo port, the Directorate General of Foreign Trade (DGFT), Regional Authority Mumbai, flagged off consignments from seven exporters representing sectors including chemicals, pharmaceuticals, plastics, food products, enzymes, and spices, marking the commencement of exports under the agreement. Senior Customs and DGFT officials attended the ceremony. At SEEPZ-SEZ, India’s first Special Economic Zone and a leading export hub for gems and jewellery, Development Commissioner Dnyaneshwar B. Patil led a flag-off ceremony for export shipments to the United Kingdom. A presentation on the agreement highlighted that the gems and jewellery sector contributes over ₹2,109 crore to SEEPZ’s exports to the UK. With the UK’s 4% import duty abolished from today, the sector is expected to receive an annual tariff benefit of about ₹84 crore, besides improved competitiveness, higher investments, employment generation, and a boost to exports. Later today, the Maharashtra Government, in association with the British Deputy High Commission, will organise a special programme in Mumbai to mark the implementation of the agreement. Chief Minister Devendra Fadnavis will attend as the chief guest, while Deputy Chief Ministers Eknath Shinde and Sunetra Pawar are also expected to be present.",
         "date": "2026-07-15",
         "pubDate": "2026-07-15T07:56:00+00:00",
         "link": "https://newsonair.gov.in/first-export-consignment-to-uk-flagged-off-from-hyderabad-under-india-uk-ceta/",
@@ -526,64 +587,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/world-youth-skills-day-being-observed-today/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/0.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India-UK CETA strengthens economic ties between India and UK: Union Minister Pralhad Joshi",
-        "summary": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
-        "article": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T06:23:11+00:00",
-        "link": "https://newsonair.gov.in/india-uk-ceta-strengthens-economic-ties-between-india-and-uk-union-minister-pralhad-joshi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Union-Consumer-Affairs-Minister-Pralhad-Joshi.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Defence Minister Rajnath Singh says India-UK CETA strengthens India’s economic growth & global partnerships",
-        "summary": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit […]",
-        "article": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit professionals working in the UK, opening new avenues for jobs and investment. Mr Singh underlined that India, guided by the leadership of Prime Minister Narendra Modi, continues to secure agreements that strengthen the country’s economy, expand global opportunities and contribute to the vision of a Viksit Bharat.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T06:19:43+00:00",
-        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-says-india-uk-ceta-strengthens-indias-economic-growth-global-partnerships/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/rajnath-6.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "12th BRICS Labour and Employment Ministers’ Meeting begins in Hyderabad",
-        "summary": "The 12th BRICS Labour and Employment Ministers&#8217; Meeting has commenced in Hyderabad under India’s 2026 Chairship. Chaired by Union Minister Dr. Mansukh Mandaviya alongside Minister of State Shobha Karandlaje, the high-level deliberations focus on advancing social security, enhancing women&#8217;s workforce participation, mapping global skills, and leveraging digital technologies for gig and p",
-        "article": "The 12th BRICS Labour and Employment Ministers&#8217; Meeting has commenced in Hyderabad under India’s 2026 Chairship. Chaired by Union Minister Dr. Mansukh Mandaviya alongside Minister of State Shobha Karandlaje, the high-level deliberations focus on advancing social security, enhancing women&#8217;s workforce participation, mapping global skills, and leveraging digital technologies for gig and platform workers.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:57:15+00:00",
-        "link": "https://newsonair.gov.in/12th-brics-labour-and-employment-ministers-meeting-begins-in-hyderabad/",
-        "post_id": 1739179,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Commerce Minister Piyush Goyal says India-UK FTA opens new avenues for trade, investment and innovation",
-        "summary": "As the India-United Kingdom Free Trade Agreement (India-UK FTA) comes into force today, Union Commerce and Industry Minister Piyush Goyal said that the agreement is opening new avenues for trade, investment and innovation. In an article in English daily, Mr Goyal said that the FTA will create unique opportunities for the businesses while further […]",
-        "article": "As the India-United Kingdom Free Trade Agreement (India-UK FTA) comes into force today, Union Commerce and Industry Minister Piyush Goyal said that the agreement is opening new avenues for trade, investment and innovation. In an article in English daily, Mr Goyal said that the FTA will create unique opportunities for the businesses while further accelerating Prime Minister Narendra Modi’s vision of Viksit Bharat 2047. He noted that this ambitious agreement will empower every section of society, reflecting the capabilities and aspirations of the people of India. Mr Goyal underlined that the India-UK FTA will benefit Women, farmers, youth, MSMEs, innovators, professionals and fisherfolk, creating various opportunities. Further, He highlighted that it will not only benefit just Indian exporters, but also white-collar service sector professionals across skillsets. He noted that under the agreement, nearly all of India&#8217;s exports to the UK will enjoy duty-free access, creating huge opportunities for small businesses, farmers, fishermen, innovators, women, and labour-intensive industries. Mr Goyal added that the FTA will bring prosperity by creating numerous jobs and business opportunities, gradually exposing Indian manufacturers to healthy competition that will benefit every citizen with competitively priced high-quality goods. He expressed optimism that more than 75 thousand Indian professionals and over nine hundred companies are expected to benefit from it. Further, he mentioned that the agreement safeguards sensitive farm products such as dairy, vegetables, apples, edible oils, oats, millets, cooking oils and others by placing them in the sensitive list and added that no duty concessions have been granted to the UK on these items. The Minister noted that these exclusions reflect the Government’s strategy of prioritising food security, domestic price stability and vulnerable farming communities.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:45:06+00:00",
-        "link": "https://newsonair.gov.in/commerce-minister-piyush-goyal-says-india-uk-fta-opens-new-avenues-for-trade-investment-and-innovation/",
-        "post_id": 1739079,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Industry bodies hail India-UK Free Trade Agreement as historic milestone",
-        "summary": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on […]",
-        "article": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on the operationalisation of the India-UK CETA. He said that by facilitating greater co-operation in innovation, technology, and talent mobility, it will also help enhance the competitiveness of Indian industry. ASSOCHAM President, Nirmal Kumar Minda said, the agreement marks a historic milestone in India&#8217;s FTA journey, bringing together two of the world&#8217;s oldest democracies through a comprehensive free trade partnership. He said, under the agreement, 99 per cent of India&#8217;s exports to the UK will enjoy duty-free access. Mr Minda said, the agreement is expected to significantly benefit Indian sectors such as textiles, leather, marine products, gems and jewellery, engineering goods, and chemicals. Chairman of the Trade Promotion Council of India, Mohit Singla, said the operationalisation of the India-UK trade agreement marks a historic milestone in strengthening one of India’s most important economic partnerships. He said, this landmark agreement opens a new chapter of opportunity for Indian exporters by providing enhanced market access, greater predictability, and a level playing field in the UK market.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:19:17+00:00",
-        "link": "https://newsonair.gov.in/industry-bodies-hail-india-uk-free-trade-agreement-as-historic-milestone/",
-        "post_id": 1739063,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -1028,13 +1031,46 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "भारत-ब्रिटेन सीईटीए लागू, पहली निर्यात खेप चेन्नई, अहमदाबाद और मुंबई से रवाना",
+        "summary": "भारत और ब्रिटेन के बीच द्विपक्षीय आर्थिक संबंधों में महत्‍वपूर्ण उपलब्धियों के रूप में चेन्‍नई स्थित ब्रिटेन उप उच्‍चायोग में उप-उच्‍चायुक्‍त डॉ. सुतापा चौधरी ने आज विदेश व्‍यापार महानिदेशालय के अधिकारियों के साथ भारत-ब्रिटेन व्‍यापक आर्थिक और व्‍यापार समझौते के तहत पहली निर्यात खेप को रवाना किया। इस समझौते से दोनों देशों के नागरिकों को […]",
+        "article": "भारत और ब्रिटेन के बीच द्विपक्षीय आर्थिक संबंधों में महत्&#x200d;वपूर्ण उपलब्धियों के रूप में चेन्&#x200d;नई स्थित ब्रिटेन उप उच्&#x200d;चायोग में उप-उच्&#x200d;चायुक्&#x200d;त डॉ. सुतापा चौधरी ने आज विदेश व्&#x200d;यापार महानिदेशालय के अधिकारियों के साथ भारत-ब्रिटेन व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौते के तहत पहली निर्यात खेप को रवाना किया। इस समझौते से दोनों देशों के नागरिकों को ठोस आर्थिक लाभ पहुंचने की उम्&#x200d;मीद है। चेन्&#x200d;नई में आयोजित इस समारोह में डॉ. चौधरी ने कहा कि भारत-ब्रिटेन व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौता नए बाजार अवसर खोलने और घरेलू अर्थव्&#x200d;यवस्&#x200d;था के संवेदनशील क्षेत्रों की सुरक्षा के बीच संतुलन स्&#x200d;थापित करता है। ब्रिटेन के उप-उच्&#x200d;चायुक्&#x200d;त स्टीव हिकलिंग और विदेश व्&#x200d;यापार महानिदेशालय संयुक्&#x200d;त निदेशक डॉ. राहुल सिंह ने आज अहमदाबाद के साणंद में स्थित इनलैंड कंटेनर डिपो से समझौते के तहत पहली निर्यात खेप को रवाना किया। तीन करोड़ सात लाख रुपये से अधिक मूल्य की इस पहली खेप में अहमदाबाद की विनिर्माण क्षमता की झलक मिलती है। इसमें औद्योगिक उपकरण, दवाइंया, ऑटोमोबाइल, पॉलिमर और वस्&#x200d;त्र सहित सात प्रमुख क्षेत्रीय निर्यातकों के उत्&#x200d;पाद शामिल हैं। ब्रिटेन के उप-उच्&#x200d;चायुक्&#x200d;त ने कहा कि यह व्यापार समझौता केवल तात्&#x200d;कालिक आदान-प्रदान समिति नहीं है, बल्कि दोनों देशों के बीच अधिक मजबूत और व्&#x200d;यापक, आथिक तथा राजनीतिक संबंधों की शुरुआत का संकेत है। इस अवसर पर डॉ. राहुल सिंह ने बताया कि वस्&#x200d;त्र, चमड़ा, फार्मास्यूटिकल्स और इंजीनियरिंग उत्पादों जैसे प्रमुख क्षेत्रों को पूर्ण शुल्&#x200d;क मुक्&#x200d;त बाजार पहुंच मिलेगी। महाराष्&#x200d;ट्र में मुंबई के न्&#x200d;हावा शेवा और सान्&#x200d;ताक्रूज इलैक्&#x200d;ट्रॉनिक निर्यात प्रोसेसिंग क्षेत्र-विशेष आर्थिक क्षेत्र से भी खेपों को रवाना किया गया। न्&#x200d;हावा शेवा से विदेश व्&#x200d;यापार महानिदेशालय, ने सात निर्यातकों की खेप को रवाना किया। इसमें रसायन, फॉर्मास्&#x200d;युटिकल, प्&#x200d;लास्टिक, खाद्य उत्&#x200d;पाद, मसाले शामिल थे। भारत के पहले विशेष आर्थिक क्षेत्र- सान्&#x200d;ताक्रूज इलैक्&#x200d;ट्रॉनिक नियात प्रोसेसिंग क्षेत्र-एसईजेड और आभूषणों और रत्&#x200d;नों के प्रमुख निर्यात केंद्र से विकास आयुक्&#x200d;त द्यानेश्&#x200d;वर बी. पाटिल ने ब्रिटेन के लिए निर्यात खेपों को रवाना किया।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:57:25+00:00",
+        "link": "https://newsonair.gov.in/hi/india-uk-ceta-export/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "पीएम मोदी ने भारत-ब्रिटेन व्यापार समझौते को किसानों और एमएसएमई के लिए बड़ा अवसर बताया",
         "summary": "प्रधानमंत्री नरेंद्र मोदी ने कहा कि आज से लागू हुआ व्यापक आर्थिक और व्यापार समझौता तथा सामाजिक सुरक्षा समझौता भारत-ब्रिटेन की साझेदारी में एक महत्वपूर्ण क्षण है। श्री मोदी ने केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल की सोशल मीडिया पोस्ट साझा करते हुए यह बात कही। प्रधानमंत्री ने कहा कि ये समझौता भारत के […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी ने कहा कि आज से लागू हुआ व्यापक आर्थिक और व्यापार समझौता तथा सामाजिक सुरक्षा समझौता भारत-ब्रिटेन की साझेदारी में एक महत्वपूर्ण क्षण है। श्री मोदी ने केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल की सोशल मीडिया पोस्ट साझा करते हुए यह बात कही। प्रधानमंत्री ने कहा कि ये समझौता भारत के किसानों, उद्यमियों और सूक्ष्&#x200d;म, लघु और मध्यम उद्यमों को नई गति प्रदान करेगा, साथ ही कई महत्&#x200d;वपूर्ण क्षेत्रों को ब्रिटेन के बाजार तक मजबूत पहुंच प्राप्त करने में मदद करेगा। प्रधानमंत्री ने कहा कि इससे प्रौद्योगिकी, पेशेवर सेवाओं और नवाचार के क्षेत्र में सहयोग भी मजबूत होगा। इससे कुशल भारतीय प्रतिभाओं की आवाजाही को भी बढ़ावा मिलेगा। श्री मोदी ने कहा कि सामाजिक सुरक्षा समझौता ब्रिटेन में अस्थायी रूप से काम कर रहे भारतीय पेशेवरों को अमूल्य सहायता प्रदान करेगा और भारतीय उद्यमों की प्रतिस्पर्धात्मकता को मजबूत करेगा। उन्होंने कहा कि यह क्षण भारत-ब्रिटेन के बीच विश्वास तथा व्यापार, प्रौद्योगिकी, निवेश और नवाचार द्वारा संचालित एक प्रगतिशील साझेदारी बनाने के उनके संकल्प को दर्शाता है। प्रधानमंत्री ने कहा कि भारत और ब्रिटेन साझा समृद्धि के लिए मिलकर काम करना जारी रखेंगे।",
         "date": "2026-07-15",
-        "pubDate": "2026-07-15T08:10:20+00:00",
+        "pubDate": "2026-07-15T08:52:20+00:00",
         "link": "https://newsonair.gov.in/hi/pm-india-uk-ceta/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-becomes-first-Indian-Prime-Minister-to-address-Indonesian-Parliament.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संयुक्त राष्ट्र में घटते लोगों के विश्वास पर चिंता जताई",
+        "summary": "भारत ने आगाह किया है कि संयुक्‍त राष्‍ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्‍त राष्‍ट्र में विश्‍वास घट रहा है। संयुक्‍त राष्‍ट्र में भविष्‍य के लिए बहुपक्षवाद को उपयुक्‍त बनाने संबंधी विषय पर मंत्रिस्‍तरीय गोलमेज सम्‍मेलन में भारत के स्‍थायी प्रतिनिधि पी. […]",
+        "article": "भारत ने आगाह किया है कि संयुक्&#x200d;त राष्&#x200d;ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्&#x200d;त राष्&#x200d;ट्र में विश्&#x200d;वास घट रहा है। संयुक्&#x200d;त राष्&#x200d;ट्र में भविष्&#x200d;य के लिए बहुपक्षवाद को उपयुक्&#x200d;त बनाने संबंधी विषय पर मंत्रिस्&#x200d;तरीय गोलमेज सम्&#x200d;मेलन में भारत के स्&#x200d;थायी प्रतिनिधि पी. हरीश ने कहा कि सुरक्षा परिषद चल रहे संघर्षों में सार्थक हस्&#x200d;तक्षेप करने में विफल रही है। इससे अंतर्राष्&#x200d;ट्रीय शांति और सुरक्षा बनाए रखने में उसकी क्षमता पर सवाल उठ रहे हैं। श्री हरीश ने कहा कि 80 वर्ष पुरानी संयुक्&#x200d;त राष्&#x200d;ट्र संरचना मौजूदा वैश्विक चुनौतियों से निपटने में अब उपयुक्&#x200d;त नहीं रह गई है। उन्&#x200d;होंने कहा कि भविष्&#x200d;य के लिए समझौते के अंतर्गत कार्य सूत्र सिर्फ कागजों में बन कर रह गए है। इस समझौते में हिंसा, नस्&#x200d;लवाद और विदेशियों से नफरत समाप्&#x200d;त करना, समानता को बढ़ावा देना और शांति स्&#x200d;थापना को मजबूत करना शामिल है। उन्&#x200d;होंने कहा कि सार्थक सुधारों की अत्&#x200d;यंत आवश्&#x200d;यकता है। श्री हरीश ने कहा कि समझौते के कुछ कार्य बिंदुओं पर भारत की कुछ महत्&#x200d;वपूर्ण आपत्तियां हैं। लेकिन भारत ने समझौते का सकारात्&#x200d;मक रूप से समर्थन किया है। उन्&#x200d;होंने संयुक्&#x200d;त राष्&#x200d;ट्र आम सभा को पुन: सशक्&#x200d;त करना और सतत विकास में प्रगति के लिए आर्थिक तथा सामाजिक परिषद की भूमिका को सुदृढ़ करने का आह्वान किया। अल्&#x200d;प विकसित और विकासशील देशों पर श्री हरीश ने कहा कि भारत इन देशों में संसाधनों की आवाजाही के लिए प्रतिबद्ध है और ये सुनिश्चित करता है कि कोई भी देश पीछे न रहे। उन्&#x200d;होंने अंतर्राष्&#x200d;ट्रीय वित्&#x200d;तीय संसाधनों से अधिक प्रतिनिधित्&#x200d;व, जवाबदेह और विकासोन्&#x200d;मुख बनने का आह्वान किया।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:48:37+00:00",
+        "link": "https://newsonair.gov.in/hi/un-reforms/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/UNSC-Harish-P.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "राष्ट्रपति द्रौपदी मुर्मु का आयुर्वेद में आधुनिक तकनीकों को अपनाने का आग्रह",
+        "summary": "राष्ट्रपति द्रौपदी मुर्मु ने समाज के व्‍यापक हित में आयुर्वेद में आधुनिक तकनीकों को अपनाने का आह्वान किया है। आज नई दिल्ली में &#8216;सौश्रुतम् 2026&#8217; के उद्घाटन समारोह को संबोधित करते हुए राष्ट्रपति ने कहा कि केंद्र सरकार ने नई ऊर्जा के साथ आयुर्वेद और योग को वैश्विक स्‍तर पर स्थापित किया है। उन्होंने प्रसन्‍नता […]",
+        "article": "राष्ट्रपति द्रौपदी मुर्मु ने समाज के व्&#x200d;यापक हित में आयुर्वेद में आधुनिक तकनीकों को अपनाने का आह्वान किया है। आज नई दिल्ली में &#8216;सौश्रुतम् 2026&#8217; के उद्घाटन समारोह को संबोधित करते हुए राष्ट्रपति ने कहा कि केंद्र सरकार ने नई ऊर्जा के साथ आयुर्वेद और योग को वैश्विक स्&#x200d;तर पर स्थापित किया है। उन्होंने प्रसन्&#x200d;नता व्&#x200d;यक्&#x200d;त की कि आयुर्वेदिक शल्&#x200d;य चिकित्&#x200d;सा की प्राचीन परंपरा को वैज्ञानिक मानकों पर स्थापित करने के प्रयास किए जा रहे हैं। राष्ट्रपति ने कहा कि आयुष मंत्रालय आयुर्वेदिक स्वास्थ्य सेवा के वैश्विक मानकीकरण को मजबूत करने के लिए विश्व स्वास्थ्य संगठन के साथ मिलकर काम कर रहा है। उन्होंने विश्वास व्यक्त किया कि संगोष्ठी में हुई चर्चाओं से आयुर्वेदिक शल्य चिकित्सा के क्षेत्र में नया ज्ञान उत्पन्न होगा।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:41:28+00:00",
+        "link": "https://newsonair.gov.in/hi/president-ayurveda/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNQR1VraIAAMMX0.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1101,28 +1137,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T06:44:02+00:00",
         "link": "https://newsonair.gov.in/hi/pm-punjab-visit/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pm-modi.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गृह मंत्रालय ने महाराष्ट्र में एनआईए मामलों की सुनवाई के लिए विशेष न्यायालय गठित किया",
-        "summary": "गृह मंत्रालय ने महाराष्ट्र में राष्ट्रीय अन्वेषण अभिकरण &#8211; एनआईए द्वारा जांच किए गए अपराधों के ट्रायल के लिए एक विशेष न्‍यायालय गठित किया है। मंत्रालय ने बॉम्बे उच्‍च न्‍यायालय के मुख्‍य न्‍यायाधीश और महाराष्ट्र सरकार से बातचीत के बाद यह फैसला लिया है। मंत्रालय ने एनआईए द्वारा जांच किए जाने वाले मामलों आतंकवाद और […]",
-        "article": "गृह मंत्रालय ने महाराष्ट्र में राष्ट्रीय अन्वेषण अभिकरण &#8211; एनआईए द्वारा जांच किए गए अपराधों के ट्रायल के लिए एक विशेष न्&#x200d;यायालय गठित किया है। मंत्रालय ने बॉम्बे उच्&#x200d;च न्&#x200d;यायालय के मुख्&#x200d;य न्&#x200d;यायाधीश और महाराष्ट्र सरकार से बातचीत के बाद यह फैसला लिया है। मंत्रालय ने एनआईए द्वारा जांच किए जाने वाले मामलों आतंकवाद और अन्य अधिसूचित अपराधों की त्वरित सुनवाई के लिए मुंबई के सिटी सिविल और सत्र न्&#x200d;यायालय के कोर्ट रूम नंबर-26 को विशेष अदालत के रूप में नामित किया है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:56:12+00:00",
-        "link": "https://newsonair.gov.in/hi/nia-special-court/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPyZFJbYAAHEAR.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने संयुक्त राष्ट्र में घटते लोगों के विश्वास पर चिंता जताई",
-        "summary": "भारत ने आगाह किया है कि संयुक्‍त राष्‍ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्‍त राष्‍ट्र में विश्‍वास घट रहा है। संयुक्‍त राष्‍ट्र में भविष्‍य के लिए बहुपक्षवाद को उपयुक्‍त बनाने संबंधी विषय पर मंत्रिस्‍तरीय गोलमेज सम्‍मेलन में भारत के स्‍थायी प्रतिनिधि पी. […]",
-        "article": "भारत ने आगाह किया है कि संयुक्&#x200d;त राष्&#x200d;ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्&#x200d;त राष्&#x200d;ट्र में विश्&#x200d;वास घट रहा है। संयुक्&#x200d;त राष्&#x200d;ट्र में भविष्&#x200d;य के लिए बहुपक्षवाद को उपयुक्&#x200d;त बनाने संबंधी विषय पर मंत्रिस्&#x200d;तरीय गोलमेज सम्&#x200d;मेलन में भारत के स्&#x200d;थायी प्रतिनिधि पी. हरीश ने कहा कि सुरक्षा परिषद चल रहे संघर्षों में सार्थक हस्&#x200d;तक्षेप करने में विफल रही है। इससे अंतर्राष्&#x200d;ट्रीय शांति और सुरक्षा बनाए रखने में उसकी क्षमता पर सवाल उठ रहे हैं। श्री हरीश ने कहा कि 80 वर्ष पुरानी संयुक्&#x200d;त राष्&#x200d;ट्र संरचना मौजूदा वैश्विक चुनौतियों से निपटने में अब उपयुक्&#x200d;त नहीं रह गई है। उन्&#x200d;होंने कहा कि भविष्&#x200d;य के लिए समझौते के अंतर्गत कार्य सूत्र सिर्फ कागजों में बन कर रह गए है। इस समझौते में हिंसा, नस्&#x200d;लवाद और विदेशियों से नफरत समाप्&#x200d;त करना, समानता को बढ़ावा देना और शांति स्&#x200d;थापना को मजबूत करना शामिल है। उन्&#x200d;होंने कहा कि सार्थक सुधारों की अत्&#x200d;यंत आवश्&#x200d;यकता है। श्री हरीश ने कहा कि समझौते के कुछ कार्य बिंदुओं पर भारत की कुछ महत्&#x200d;वपूर्ण आपत्तियां हैं। लेकिन भारत ने समझौते का सकारात्&#x200d;मक रूप से समर्थन किया है। उन्&#x200d;होंने संयुक्&#x200d;त राष्&#x200d;ट्र आम सभा को पुन: सशक्&#x200d;त करना और सतत विकास में प्रगति के लिए आर्थिक तथा सामाजिक परिषद की भूमिका को सुदृढ़ करने का आह्वान किया। अल्&#x200d;प विकसित और विकासशील देशों पर श्री हरीश ने कहा कि भारत इन देशों में संसाधनों की आवाजाही के लिए प्रतिबद्ध है और ये सुनिश्चित करता है कि कोई भी देश पीछे न रहे। उन्&#x200d;होंने अंतर्राष्&#x200d;ट्रीय वित्&#x200d;तीय संसाधनों से अधिक प्रतिनिधित्&#x200d;व, जवाबदेह और विकासोन्&#x200d;मुख बनने का आह्वान किया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:48:37+00:00",
-        "link": "https://newsonair.gov.in/hi/un-reforms/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/UNSC-Harish-P.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1147,28 +1161,50 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPpe_OaEAA0jik.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "केंद्रीय मंत्री किरेन रिज‍िजू ने कतर के पर्व अमीर शेख हमद बिन खलीफा अस्‍सानी के निधन पर शोक व्‍यक्‍त किया",
-        "summary": "अल्‍पसंख्‍यक कार्य मंत्री किरेन रिज‍िजू ने कतर के अमीर शेख तमीम बिन हमद अस्‍सानी को उनके पिता अमीर शेख हमद बिन खलीफा अस्‍सानी के निधन पर शोक व्‍यक्‍त किया है। एक सोशल मीडिया पोस्‍ट में दोहा में स्थिति भारतीय दूतावास में उल्‍लेख किया गया कि श्री रिज‍िजू ने कतर के अमीर को प्रधानमंत्री नरेन्‍द्र मोदी […]",
-        "article": "अल्&#x200d;पसंख्&#x200d;यक कार्य मंत्री किरेन रिज&#x200d;िजू ने कतर के अमीर शेख तमीम बिन हमद अस्&#x200d;सानी को उनके पिता अमीर शेख हमद बिन खलीफा अस्&#x200d;सानी के निधन पर शोक व्&#x200d;यक्&#x200d;त किया है। एक सोशल मीडिया पोस्&#x200d;ट में दोहा में स्थिति भारतीय दूतावास में उल्&#x200d;लेख किया गया कि श्री रिज&#x200d;िजू ने कतर के अमीर को प्रधानमंत्री नरेन्&#x200d;द्र मोदी की गहरी व्&#x200d;यक्तिगत संवेदना को भी प्रेषित किया है। प्रधानमंत्री ने इससे पहले कतर के विकास में अमीर के पिता की स्&#x200d;थायी विरासत और भारत-कतर रणनीतिक साझेदारी को मजबूत करने में उनकी अहम भूमिका को याद किया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T03:20:25+00:00",
-        "link": "https://newsonair.gov.in/hi/qatar-ex-amir/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/02/kiren-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "भारत-ब्रिटेन सीईटीए लागू, पहली निर्यात खेप चेन्नई, अहमदाबाद और मुंबई से रवाना",
+        "summary": "भारत और ब्रिटेन के बीच द्विपक्षीय आर्थिक संबंधों में महत्‍वपूर्ण उपलब्धियों के रूप में चेन्‍नई स्थित ब्रिटेन उप उच्‍चायोग में उप-उच्‍चायुक्‍त डॉ. सुतापा चौधरी ने आज विदेश व्‍यापार महानिदेशालय के अधिकारियों के साथ भारत-ब्रिटेन व्‍यापक आर्थिक और व्‍यापार समझौते के तहत पहली निर्यात खेप को रवाना किया। इस समझौते से दोनों देशों के नागरिकों को […]",
+        "article": "भारत और ब्रिटेन के बीच द्विपक्षीय आर्थिक संबंधों में महत्&#x200d;वपूर्ण उपलब्धियों के रूप में चेन्&#x200d;नई स्थित ब्रिटेन उप उच्&#x200d;चायोग में उप-उच्&#x200d;चायुक्&#x200d;त डॉ. सुतापा चौधरी ने आज विदेश व्&#x200d;यापार महानिदेशालय के अधिकारियों के साथ भारत-ब्रिटेन व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौते के तहत पहली निर्यात खेप को रवाना किया। इस समझौते से दोनों देशों के नागरिकों को ठोस आर्थिक लाभ पहुंचने की उम्&#x200d;मीद है। चेन्&#x200d;नई में आयोजित इस समारोह में डॉ. चौधरी ने कहा कि भारत-ब्रिटेन व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौता नए बाजार अवसर खोलने और घरेलू अर्थव्&#x200d;यवस्&#x200d;था के संवेदनशील क्षेत्रों की सुरक्षा के बीच संतुलन स्&#x200d;थापित करता है। ब्रिटेन के उप-उच्&#x200d;चायुक्&#x200d;त स्टीव हिकलिंग और विदेश व्&#x200d;यापार महानिदेशालय संयुक्&#x200d;त निदेशक डॉ. राहुल सिंह ने आज अहमदाबाद के साणंद में स्थित इनलैंड कंटेनर डिपो से समझौते के तहत पहली निर्यात खेप को रवाना किया। तीन करोड़ सात लाख रुपये से अधिक मूल्य की इस पहली खेप में अहमदाबाद की विनिर्माण क्षमता की झलक मिलती है। इसमें औद्योगिक उपकरण, दवाइंया, ऑटोमोबाइल, पॉलिमर और वस्&#x200d;त्र सहित सात प्रमुख क्षेत्रीय निर्यातकों के उत्&#x200d;पाद शामिल हैं। ब्रिटेन के उप-उच्&#x200d;चायुक्&#x200d;त ने कहा कि यह व्यापार समझौता केवल तात्&#x200d;कालिक आदान-प्रदान समिति नहीं है, बल्कि दोनों देशों के बीच अधिक मजबूत और व्&#x200d;यापक, आथिक तथा राजनीतिक संबंधों की शुरुआत का संकेत है। इस अवसर पर डॉ. राहुल सिंह ने बताया कि वस्&#x200d;त्र, चमड़ा, फार्मास्यूटिकल्स और इंजीनियरिंग उत्पादों जैसे प्रमुख क्षेत्रों को पूर्ण शुल्&#x200d;क मुक्&#x200d;त बाजार पहुंच मिलेगी। महाराष्&#x200d;ट्र में मुंबई के न्&#x200d;हावा शेवा और सान्&#x200d;ताक्रूज इलैक्&#x200d;ट्रॉनिक निर्यात प्रोसेसिंग क्षेत्र-विशेष आर्थिक क्षेत्र से भी खेपों को रवाना किया गया। न्&#x200d;हावा शेवा से विदेश व्&#x200d;यापार महानिदेशालय, ने सात निर्यातकों की खेप को रवाना किया। इसमें रसायन, फॉर्मास्&#x200d;युटिकल, प्&#x200d;लास्टिक, खाद्य उत्&#x200d;पाद, मसाले शामिल थे। भारत के पहले विशेष आर्थिक क्षेत्र- सान्&#x200d;ताक्रूज इलैक्&#x200d;ट्रॉनिक नियात प्रोसेसिंग क्षेत्र-एसईजेड और आभूषणों और रत्&#x200d;नों के प्रमुख निर्यात केंद्र से विकास आयुक्&#x200d;त द्यानेश्&#x200d;वर बी. पाटिल ने ब्रिटेन के लिए निर्यात खेपों को रवाना किया।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:57:25+00:00",
+        "link": "https://newsonair.gov.in/hi/india-uk-ceta-export/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "पीएम मोदी ने भारत-ब्रिटेन व्यापार समझौते को किसानों और एमएसएमई के लिए बड़ा अवसर बताया",
         "summary": "प्रधानमंत्री नरेंद्र मोदी ने कहा कि आज से लागू हुआ व्यापक आर्थिक और व्यापार समझौता तथा सामाजिक सुरक्षा समझौता भारत-ब्रिटेन की साझेदारी में एक महत्वपूर्ण क्षण है। श्री मोदी ने केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल की सोशल मीडिया पोस्ट साझा करते हुए यह बात कही। प्रधानमंत्री ने कहा कि ये समझौता भारत के […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी ने कहा कि आज से लागू हुआ व्यापक आर्थिक और व्यापार समझौता तथा सामाजिक सुरक्षा समझौता भारत-ब्रिटेन की साझेदारी में एक महत्वपूर्ण क्षण है। श्री मोदी ने केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल की सोशल मीडिया पोस्ट साझा करते हुए यह बात कही। प्रधानमंत्री ने कहा कि ये समझौता भारत के किसानों, उद्यमियों और सूक्ष्&#x200d;म, लघु और मध्यम उद्यमों को नई गति प्रदान करेगा, साथ ही कई महत्&#x200d;वपूर्ण क्षेत्रों को ब्रिटेन के बाजार तक मजबूत पहुंच प्राप्त करने में मदद करेगा। प्रधानमंत्री ने कहा कि इससे प्रौद्योगिकी, पेशेवर सेवाओं और नवाचार के क्षेत्र में सहयोग भी मजबूत होगा। इससे कुशल भारतीय प्रतिभाओं की आवाजाही को भी बढ़ावा मिलेगा। श्री मोदी ने कहा कि सामाजिक सुरक्षा समझौता ब्रिटेन में अस्थायी रूप से काम कर रहे भारतीय पेशेवरों को अमूल्य सहायता प्रदान करेगा और भारतीय उद्यमों की प्रतिस्पर्धात्मकता को मजबूत करेगा। उन्होंने कहा कि यह क्षण भारत-ब्रिटेन के बीच विश्वास तथा व्यापार, प्रौद्योगिकी, निवेश और नवाचार द्वारा संचालित एक प्रगतिशील साझेदारी बनाने के उनके संकल्प को दर्शाता है। प्रधानमंत्री ने कहा कि भारत और ब्रिटेन साझा समृद्धि के लिए मिलकर काम करना जारी रखेंगे।",
         "date": "2026-07-15",
-        "pubDate": "2026-07-15T08:10:20+00:00",
+        "pubDate": "2026-07-15T08:52:20+00:00",
         "link": "https://newsonair.gov.in/hi/pm-india-uk-ceta/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-becomes-first-Indian-Prime-Minister-to-address-Indonesian-Parliament.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संयुक्त राष्ट्र में घटते लोगों के विश्वास पर चिंता जताई",
+        "summary": "भारत ने आगाह किया है कि संयुक्‍त राष्‍ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्‍त राष्‍ट्र में विश्‍वास घट रहा है। संयुक्‍त राष्‍ट्र में भविष्‍य के लिए बहुपक्षवाद को उपयुक्‍त बनाने संबंधी विषय पर मंत्रिस्‍तरीय गोलमेज सम्‍मेलन में भारत के स्‍थायी प्रतिनिधि पी. […]",
+        "article": "भारत ने आगाह किया है कि संयुक्&#x200d;त राष्&#x200d;ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्&#x200d;त राष्&#x200d;ट्र में विश्&#x200d;वास घट रहा है। संयुक्&#x200d;त राष्&#x200d;ट्र में भविष्&#x200d;य के लिए बहुपक्षवाद को उपयुक्&#x200d;त बनाने संबंधी विषय पर मंत्रिस्&#x200d;तरीय गोलमेज सम्&#x200d;मेलन में भारत के स्&#x200d;थायी प्रतिनिधि पी. हरीश ने कहा कि सुरक्षा परिषद चल रहे संघर्षों में सार्थक हस्&#x200d;तक्षेप करने में विफल रही है। इससे अंतर्राष्&#x200d;ट्रीय शांति और सुरक्षा बनाए रखने में उसकी क्षमता पर सवाल उठ रहे हैं। श्री हरीश ने कहा कि 80 वर्ष पुरानी संयुक्&#x200d;त राष्&#x200d;ट्र संरचना मौजूदा वैश्विक चुनौतियों से निपटने में अब उपयुक्&#x200d;त नहीं रह गई है। उन्&#x200d;होंने कहा कि भविष्&#x200d;य के लिए समझौते के अंतर्गत कार्य सूत्र सिर्फ कागजों में बन कर रह गए है। इस समझौते में हिंसा, नस्&#x200d;लवाद और विदेशियों से नफरत समाप्&#x200d;त करना, समानता को बढ़ावा देना और शांति स्&#x200d;थापना को मजबूत करना शामिल है। उन्&#x200d;होंने कहा कि सार्थक सुधारों की अत्&#x200d;यंत आवश्&#x200d;यकता है। श्री हरीश ने कहा कि समझौते के कुछ कार्य बिंदुओं पर भारत की कुछ महत्&#x200d;वपूर्ण आपत्तियां हैं। लेकिन भारत ने समझौते का सकारात्&#x200d;मक रूप से समर्थन किया है। उन्&#x200d;होंने संयुक्&#x200d;त राष्&#x200d;ट्र आम सभा को पुन: सशक्&#x200d;त करना और सतत विकास में प्रगति के लिए आर्थिक तथा सामाजिक परिषद की भूमिका को सुदृढ़ करने का आह्वान किया। अल्&#x200d;प विकसित और विकासशील देशों पर श्री हरीश ने कहा कि भारत इन देशों में संसाधनों की आवाजाही के लिए प्रतिबद्ध है और ये सुनिश्चित करता है कि कोई भी देश पीछे न रहे। उन्&#x200d;होंने अंतर्राष्&#x200d;ट्रीय वित्&#x200d;तीय संसाधनों से अधिक प्रतिनिधित्&#x200d;व, जवाबदेह और विकासोन्&#x200d;मुख बनने का आह्वान किया।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:48:37+00:00",
+        "link": "https://newsonair.gov.in/hi/un-reforms/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/UNSC-Harish-P.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "राष्ट्रपति द्रौपदी मुर्मु का आयुर्वेद में आधुनिक तकनीकों को अपनाने का आग्रह",
+        "summary": "राष्ट्रपति द्रौपदी मुर्मु ने समाज के व्‍यापक हित में आयुर्वेद में आधुनिक तकनीकों को अपनाने का आह्वान किया है। आज नई दिल्ली में &#8216;सौश्रुतम् 2026&#8217; के उद्घाटन समारोह को संबोधित करते हुए राष्ट्रपति ने कहा कि केंद्र सरकार ने नई ऊर्जा के साथ आयुर्वेद और योग को वैश्विक स्‍तर पर स्थापित किया है। उन्होंने प्रसन्‍नता […]",
+        "article": "राष्ट्रपति द्रौपदी मुर्मु ने समाज के व्&#x200d;यापक हित में आयुर्वेद में आधुनिक तकनीकों को अपनाने का आह्वान किया है। आज नई दिल्ली में &#8216;सौश्रुतम् 2026&#8217; के उद्घाटन समारोह को संबोधित करते हुए राष्ट्रपति ने कहा कि केंद्र सरकार ने नई ऊर्जा के साथ आयुर्वेद और योग को वैश्विक स्&#x200d;तर पर स्थापित किया है। उन्होंने प्रसन्&#x200d;नता व्&#x200d;यक्&#x200d;त की कि आयुर्वेदिक शल्&#x200d;य चिकित्&#x200d;सा की प्राचीन परंपरा को वैज्ञानिक मानकों पर स्थापित करने के प्रयास किए जा रहे हैं। राष्ट्रपति ने कहा कि आयुष मंत्रालय आयुर्वेदिक स्वास्थ्य सेवा के वैश्विक मानकीकरण को मजबूत करने के लिए विश्व स्वास्थ्य संगठन के साथ मिलकर काम कर रहा है। उन्होंने विश्वास व्यक्त किया कि संगोष्ठी में हुई चर्चाओं से आयुर्वेदिक शल्य चिकित्सा के क्षेत्र में नया ज्ञान उत्पन्न होगा।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:41:28+00:00",
+        "link": "https://newsonair.gov.in/hi/president-ayurveda/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNQR1VraIAAMMX0.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1235,52 +1271,52 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T06:44:02+00:00",
         "link": "https://newsonair.gov.in/hi/pm-punjab-visit/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pm-modi.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गृह मंत्रालय ने महाराष्ट्र में एनआईए मामलों की सुनवाई के लिए विशेष न्यायालय गठित किया",
-        "summary": "गृह मंत्रालय ने महाराष्ट्र में राष्ट्रीय अन्वेषण अभिकरण &#8211; एनआईए द्वारा जांच किए गए अपराधों के ट्रायल के लिए एक विशेष न्‍यायालय गठित किया है। मंत्रालय ने बॉम्बे उच्‍च न्‍यायालय के मुख्‍य न्‍यायाधीश और महाराष्ट्र सरकार से बातचीत के बाद यह फैसला लिया है। मंत्रालय ने एनआईए द्वारा जांच किए जाने वाले मामलों आतंकवाद और […]",
-        "article": "गृह मंत्रालय ने महाराष्ट्र में राष्ट्रीय अन्वेषण अभिकरण &#8211; एनआईए द्वारा जांच किए गए अपराधों के ट्रायल के लिए एक विशेष न्&#x200d;यायालय गठित किया है। मंत्रालय ने बॉम्बे उच्&#x200d;च न्&#x200d;यायालय के मुख्&#x200d;य न्&#x200d;यायाधीश और महाराष्ट्र सरकार से बातचीत के बाद यह फैसला लिया है। मंत्रालय ने एनआईए द्वारा जांच किए जाने वाले मामलों आतंकवाद और अन्य अधिसूचित अपराधों की त्वरित सुनवाई के लिए मुंबई के सिटी सिविल और सत्र न्&#x200d;यायालय के कोर्ट रूम नंबर-26 को विशेष अदालत के रूप में नामित किया है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:56:12+00:00",
-        "link": "https://newsonair.gov.in/hi/nia-special-court/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPyZFJbYAAHEAR.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने संयुक्त राष्ट्र में घटते लोगों के विश्वास पर चिंता जताई",
-        "summary": "भारत ने आगाह किया है कि संयुक्‍त राष्‍ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्‍त राष्‍ट्र में विश्‍वास घट रहा है। संयुक्‍त राष्‍ट्र में भविष्‍य के लिए बहुपक्षवाद को उपयुक्‍त बनाने संबंधी विषय पर मंत्रिस्‍तरीय गोलमेज सम्‍मेलन में भारत के स्‍थायी प्रतिनिधि पी. […]",
-        "article": "भारत ने आगाह किया है कि संयुक्&#x200d;त राष्&#x200d;ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्&#x200d;त राष्&#x200d;ट्र में विश्&#x200d;वास घट रहा है। संयुक्&#x200d;त राष्&#x200d;ट्र में भविष्&#x200d;य के लिए बहुपक्षवाद को उपयुक्&#x200d;त बनाने संबंधी विषय पर मंत्रिस्&#x200d;तरीय गोलमेज सम्&#x200d;मेलन में भारत के स्&#x200d;थायी प्रतिनिधि पी. हरीश ने कहा कि सुरक्षा परिषद चल रहे संघर्षों में सार्थक हस्&#x200d;तक्षेप करने में विफल रही है। इससे अंतर्राष्&#x200d;ट्रीय शांति और सुरक्षा बनाए रखने में उसकी क्षमता पर सवाल उठ रहे हैं। श्री हरीश ने कहा कि 80 वर्ष पुरानी संयुक्&#x200d;त राष्&#x200d;ट्र संरचना मौजूदा वैश्विक चुनौतियों से निपटने में अब उपयुक्&#x200d;त नहीं रह गई है। उन्&#x200d;होंने कहा कि भविष्&#x200d;य के लिए समझौते के अंतर्गत कार्य सूत्र सिर्फ कागजों में बन कर रह गए है। इस समझौते में हिंसा, नस्&#x200d;लवाद और विदेशियों से नफरत समाप्&#x200d;त करना, समानता को बढ़ावा देना और शांति स्&#x200d;थापना को मजबूत करना शामिल है। उन्&#x200d;होंने कहा कि सार्थक सुधारों की अत्&#x200d;यंत आवश्&#x200d;यकता है। श्री हरीश ने कहा कि समझौते के कुछ कार्य बिंदुओं पर भारत की कुछ महत्&#x200d;वपूर्ण आपत्तियां हैं। लेकिन भारत ने समझौते का सकारात्&#x200d;मक रूप से समर्थन किया है। उन्&#x200d;होंने संयुक्&#x200d;त राष्&#x200d;ट्र आम सभा को पुन: सशक्&#x200d;त करना और सतत विकास में प्रगति के लिए आर्थिक तथा सामाजिक परिषद की भूमिका को सुदृढ़ करने का आह्वान किया। अल्&#x200d;प विकसित और विकासशील देशों पर श्री हरीश ने कहा कि भारत इन देशों में संसाधनों की आवाजाही के लिए प्रतिबद्ध है और ये सुनिश्चित करता है कि कोई भी देश पीछे न रहे। उन्&#x200d;होंने अंतर्राष्&#x200d;ट्रीय वित्&#x200d;तीय संसाधनों से अधिक प्रतिनिधित्&#x200d;व, जवाबदेह और विकासोन्&#x200d;मुख बनने का आह्वान किया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:48:37+00:00",
-        "link": "https://newsonair.gov.in/hi/un-reforms/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/UNSC-Harish-P.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन मुक्त व्यापार समझौते के लागू होने के अवसर पर देशभर में कार्यक्रम आयोजित",
-        "summary": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो गया है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय, रत्न और आभूषण निर्यात संवर्धन परिषद, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से आज दोपहर कोलकाता […]",
-        "article": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो गया है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय, रत्न और आभूषण निर्यात संवर्धन परिषद, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से आज दोपहर कोलकाता के नेताजी सुभाष चंद्र बोस अंतरराष्ट्रीय हवाई अड्डे पर एक ध्वजारोहण कार्यक्रम आयोजित करेगा। इसमें भारत-ब्रिटेन मुक्त व्यापार समझौते की शुरुआत के उपलक्ष्य में निर्यात खेप ब्रिटेन भेजी जाएगी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:37:09+00:00",
-        "link": "https://newsonair.gov.in/hi/india-uk-fta/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPqtJ4bQAA33zO.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "भारत-ब्रिटेन सीईटीए लागू, पहली निर्यात खेप चेन्नई, अहमदाबाद और मुंबई से रवाना",
+        "summary": "भारत और ब्रिटेन के बीच द्विपक्षीय आर्थिक संबंधों में महत्‍वपूर्ण उपलब्धियों के रूप में चेन्‍नई स्थित ब्रिटेन उप उच्‍चायोग में उप-उच्‍चायुक्‍त डॉ. सुतापा चौधरी ने आज विदेश व्‍यापार महानिदेशालय के अधिकारियों के साथ भारत-ब्रिटेन व्‍यापक आर्थिक और व्‍यापार समझौते के तहत पहली निर्यात खेप को रवाना किया। इस समझौते से दोनों देशों के नागरिकों को […]",
+        "article": "भारत और ब्रिटेन के बीच द्विपक्षीय आर्थिक संबंधों में महत्&#x200d;वपूर्ण उपलब्धियों के रूप में चेन्&#x200d;नई स्थित ब्रिटेन उप उच्&#x200d;चायोग में उप-उच्&#x200d;चायुक्&#x200d;त डॉ. सुतापा चौधरी ने आज विदेश व्&#x200d;यापार महानिदेशालय के अधिकारियों के साथ भारत-ब्रिटेन व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौते के तहत पहली निर्यात खेप को रवाना किया। इस समझौते से दोनों देशों के नागरिकों को ठोस आर्थिक लाभ पहुंचने की उम्&#x200d;मीद है। चेन्&#x200d;नई में आयोजित इस समारोह में डॉ. चौधरी ने कहा कि भारत-ब्रिटेन व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौता नए बाजार अवसर खोलने और घरेलू अर्थव्&#x200d;यवस्&#x200d;था के संवेदनशील क्षेत्रों की सुरक्षा के बीच संतुलन स्&#x200d;थापित करता है। ब्रिटेन के उप-उच्&#x200d;चायुक्&#x200d;त स्टीव हिकलिंग और विदेश व्&#x200d;यापार महानिदेशालय संयुक्&#x200d;त निदेशक डॉ. राहुल सिंह ने आज अहमदाबाद के साणंद में स्थित इनलैंड कंटेनर डिपो से समझौते के तहत पहली निर्यात खेप को रवाना किया। तीन करोड़ सात लाख रुपये से अधिक मूल्य की इस पहली खेप में अहमदाबाद की विनिर्माण क्षमता की झलक मिलती है। इसमें औद्योगिक उपकरण, दवाइंया, ऑटोमोबाइल, पॉलिमर और वस्&#x200d;त्र सहित सात प्रमुख क्षेत्रीय निर्यातकों के उत्&#x200d;पाद शामिल हैं। ब्रिटेन के उप-उच्&#x200d;चायुक्&#x200d;त ने कहा कि यह व्यापार समझौता केवल तात्&#x200d;कालिक आदान-प्रदान समिति नहीं है, बल्कि दोनों देशों के बीच अधिक मजबूत और व्&#x200d;यापक, आथिक तथा राजनीतिक संबंधों की शुरुआत का संकेत है। इस अवसर पर डॉ. राहुल सिंह ने बताया कि वस्&#x200d;त्र, चमड़ा, फार्मास्यूटिकल्स और इंजीनियरिंग उत्पादों जैसे प्रमुख क्षेत्रों को पूर्ण शुल्&#x200d;क मुक्&#x200d;त बाजार पहुंच मिलेगी। महाराष्&#x200d;ट्र में मुंबई के न्&#x200d;हावा शेवा और सान्&#x200d;ताक्रूज इलैक्&#x200d;ट्रॉनिक निर्यात प्रोसेसिंग क्षेत्र-विशेष आर्थिक क्षेत्र से भी खेपों को रवाना किया गया। न्&#x200d;हावा शेवा से विदेश व्&#x200d;यापार महानिदेशालय, ने सात निर्यातकों की खेप को रवाना किया। इसमें रसायन, फॉर्मास्&#x200d;युटिकल, प्&#x200d;लास्टिक, खाद्य उत्&#x200d;पाद, मसाले शामिल थे। भारत के पहले विशेष आर्थिक क्षेत्र- सान्&#x200d;ताक्रूज इलैक्&#x200d;ट्रॉनिक नियात प्रोसेसिंग क्षेत्र-एसईजेड और आभूषणों और रत्&#x200d;नों के प्रमुख निर्यात केंद्र से विकास आयुक्&#x200d;त द्यानेश्&#x200d;वर बी. पाटिल ने ब्रिटेन के लिए निर्यात खेपों को रवाना किया।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:57:25+00:00",
+        "link": "https://newsonair.gov.in/hi/india-uk-ceta-export/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "पीएम मोदी ने भारत-ब्रिटेन व्यापार समझौते को किसानों और एमएसएमई के लिए बड़ा अवसर बताया",
         "summary": "प्रधानमंत्री नरेंद्र मोदी ने कहा कि आज से लागू हुआ व्यापक आर्थिक और व्यापार समझौता तथा सामाजिक सुरक्षा समझौता भारत-ब्रिटेन की साझेदारी में एक महत्वपूर्ण क्षण है। श्री मोदी ने केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल की सोशल मीडिया पोस्ट साझा करते हुए यह बात कही। प्रधानमंत्री ने कहा कि ये समझौता भारत के […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी ने कहा कि आज से लागू हुआ व्यापक आर्थिक और व्यापार समझौता तथा सामाजिक सुरक्षा समझौता भारत-ब्रिटेन की साझेदारी में एक महत्वपूर्ण क्षण है। श्री मोदी ने केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल की सोशल मीडिया पोस्ट साझा करते हुए यह बात कही। प्रधानमंत्री ने कहा कि ये समझौता भारत के किसानों, उद्यमियों और सूक्ष्&#x200d;म, लघु और मध्यम उद्यमों को नई गति प्रदान करेगा, साथ ही कई महत्&#x200d;वपूर्ण क्षेत्रों को ब्रिटेन के बाजार तक मजबूत पहुंच प्राप्त करने में मदद करेगा। प्रधानमंत्री ने कहा कि इससे प्रौद्योगिकी, पेशेवर सेवाओं और नवाचार के क्षेत्र में सहयोग भी मजबूत होगा। इससे कुशल भारतीय प्रतिभाओं की आवाजाही को भी बढ़ावा मिलेगा। श्री मोदी ने कहा कि सामाजिक सुरक्षा समझौता ब्रिटेन में अस्थायी रूप से काम कर रहे भारतीय पेशेवरों को अमूल्य सहायता प्रदान करेगा और भारतीय उद्यमों की प्रतिस्पर्धात्मकता को मजबूत करेगा। उन्होंने कहा कि यह क्षण भारत-ब्रिटेन के बीच विश्वास तथा व्यापार, प्रौद्योगिकी, निवेश और नवाचार द्वारा संचालित एक प्रगतिशील साझेदारी बनाने के उनके संकल्प को दर्शाता है। प्रधानमंत्री ने कहा कि भारत और ब्रिटेन साझा समृद्धि के लिए मिलकर काम करना जारी रखेंगे।",
         "date": "2026-07-15",
-        "pubDate": "2026-07-15T08:10:20+00:00",
+        "pubDate": "2026-07-15T08:52:20+00:00",
         "link": "https://newsonair.gov.in/hi/pm-india-uk-ceta/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-becomes-first-Indian-Prime-Minister-to-address-Indonesian-Parliament.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संयुक्त राष्ट्र में घटते लोगों के विश्वास पर चिंता जताई",
+        "summary": "भारत ने आगाह किया है कि संयुक्‍त राष्‍ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्‍त राष्‍ट्र में विश्‍वास घट रहा है। संयुक्‍त राष्‍ट्र में भविष्‍य के लिए बहुपक्षवाद को उपयुक्‍त बनाने संबंधी विषय पर मंत्रिस्‍तरीय गोलमेज सम्‍मेलन में भारत के स्‍थायी प्रतिनिधि पी. […]",
+        "article": "भारत ने आगाह किया है कि संयुक्&#x200d;त राष्&#x200d;ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्&#x200d;त राष्&#x200d;ट्र में विश्&#x200d;वास घट रहा है। संयुक्&#x200d;त राष्&#x200d;ट्र में भविष्&#x200d;य के लिए बहुपक्षवाद को उपयुक्&#x200d;त बनाने संबंधी विषय पर मंत्रिस्&#x200d;तरीय गोलमेज सम्&#x200d;मेलन में भारत के स्&#x200d;थायी प्रतिनिधि पी. हरीश ने कहा कि सुरक्षा परिषद चल रहे संघर्षों में सार्थक हस्&#x200d;तक्षेप करने में विफल रही है। इससे अंतर्राष्&#x200d;ट्रीय शांति और सुरक्षा बनाए रखने में उसकी क्षमता पर सवाल उठ रहे हैं। श्री हरीश ने कहा कि 80 वर्ष पुरानी संयुक्&#x200d;त राष्&#x200d;ट्र संरचना मौजूदा वैश्विक चुनौतियों से निपटने में अब उपयुक्&#x200d;त नहीं रह गई है। उन्&#x200d;होंने कहा कि भविष्&#x200d;य के लिए समझौते के अंतर्गत कार्य सूत्र सिर्फ कागजों में बन कर रह गए है। इस समझौते में हिंसा, नस्&#x200d;लवाद और विदेशियों से नफरत समाप्&#x200d;त करना, समानता को बढ़ावा देना और शांति स्&#x200d;थापना को मजबूत करना शामिल है। उन्&#x200d;होंने कहा कि सार्थक सुधारों की अत्&#x200d;यंत आवश्&#x200d;यकता है। श्री हरीश ने कहा कि समझौते के कुछ कार्य बिंदुओं पर भारत की कुछ महत्&#x200d;वपूर्ण आपत्तियां हैं। लेकिन भारत ने समझौते का सकारात्&#x200d;मक रूप से समर्थन किया है। उन्&#x200d;होंने संयुक्&#x200d;त राष्&#x200d;ट्र आम सभा को पुन: सशक्&#x200d;त करना और सतत विकास में प्रगति के लिए आर्थिक तथा सामाजिक परिषद की भूमिका को सुदृढ़ करने का आह्वान किया। अल्&#x200d;प विकसित और विकासशील देशों पर श्री हरीश ने कहा कि भारत इन देशों में संसाधनों की आवाजाही के लिए प्रतिबद्ध है और ये सुनिश्चित करता है कि कोई भी देश पीछे न रहे। उन्&#x200d;होंने अंतर्राष्&#x200d;ट्रीय वित्&#x200d;तीय संसाधनों से अधिक प्रतिनिधित्&#x200d;व, जवाबदेह और विकासोन्&#x200d;मुख बनने का आह्वान किया।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:48:37+00:00",
+        "link": "https://newsonair.gov.in/hi/un-reforms/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/UNSC-Harish-P.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "राष्ट्रपति द्रौपदी मुर्मु का आयुर्वेद में आधुनिक तकनीकों को अपनाने का आग्रह",
+        "summary": "राष्ट्रपति द्रौपदी मुर्मु ने समाज के व्‍यापक हित में आयुर्वेद में आधुनिक तकनीकों को अपनाने का आह्वान किया है। आज नई दिल्ली में &#8216;सौश्रुतम् 2026&#8217; के उद्घाटन समारोह को संबोधित करते हुए राष्ट्रपति ने कहा कि केंद्र सरकार ने नई ऊर्जा के साथ आयुर्वेद और योग को वैश्विक स्‍तर पर स्थापित किया है। उन्होंने प्रसन्‍नता […]",
+        "article": "राष्ट्रपति द्रौपदी मुर्मु ने समाज के व्&#x200d;यापक हित में आयुर्वेद में आधुनिक तकनीकों को अपनाने का आह्वान किया है। आज नई दिल्ली में &#8216;सौश्रुतम् 2026&#8217; के उद्घाटन समारोह को संबोधित करते हुए राष्ट्रपति ने कहा कि केंद्र सरकार ने नई ऊर्जा के साथ आयुर्वेद और योग को वैश्विक स्&#x200d;तर पर स्थापित किया है। उन्होंने प्रसन्&#x200d;नता व्&#x200d;यक्&#x200d;त की कि आयुर्वेदिक शल्&#x200d;य चिकित्&#x200d;सा की प्राचीन परंपरा को वैज्ञानिक मानकों पर स्थापित करने के प्रयास किए जा रहे हैं। राष्ट्रपति ने कहा कि आयुष मंत्रालय आयुर्वेदिक स्वास्थ्य सेवा के वैश्विक मानकीकरण को मजबूत करने के लिए विश्व स्वास्थ्य संगठन के साथ मिलकर काम कर रहा है। उन्होंने विश्वास व्यक्त किया कि संगोष्ठी में हुई चर्चाओं से आयुर्वेदिक शल्य चिकित्सा के क्षेत्र में नया ज्ञान उत्पन्न होगा।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:41:28+00:00",
+        "link": "https://newsonair.gov.in/hi/president-ayurveda/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNQR1VraIAAMMX0.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1347,52 +1383,52 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T06:44:02+00:00",
         "link": "https://newsonair.gov.in/hi/pm-punjab-visit/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pm-modi.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "गृह मंत्रालय ने महाराष्ट्र में एनआईए मामलों की सुनवाई के लिए विशेष न्यायालय गठित किया",
-        "summary": "गृह मंत्रालय ने महाराष्ट्र में राष्ट्रीय अन्वेषण अभिकरण &#8211; एनआईए द्वारा जांच किए गए अपराधों के ट्रायल के लिए एक विशेष न्‍यायालय गठित किया है। मंत्रालय ने बॉम्बे उच्‍च न्‍यायालय के मुख्‍य न्‍यायाधीश और महाराष्ट्र सरकार से बातचीत के बाद यह फैसला लिया है। मंत्रालय ने एनआईए द्वारा जांच किए जाने वाले मामलों आतंकवाद और […]",
-        "article": "गृह मंत्रालय ने महाराष्ट्र में राष्ट्रीय अन्वेषण अभिकरण &#8211; एनआईए द्वारा जांच किए गए अपराधों के ट्रायल के लिए एक विशेष न्&#x200d;यायालय गठित किया है। मंत्रालय ने बॉम्बे उच्&#x200d;च न्&#x200d;यायालय के मुख्&#x200d;य न्&#x200d;यायाधीश और महाराष्ट्र सरकार से बातचीत के बाद यह फैसला लिया है। मंत्रालय ने एनआईए द्वारा जांच किए जाने वाले मामलों आतंकवाद और अन्य अधिसूचित अपराधों की त्वरित सुनवाई के लिए मुंबई के सिटी सिविल और सत्र न्&#x200d;यायालय के कोर्ट रूम नंबर-26 को विशेष अदालत के रूप में नामित किया है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:56:12+00:00",
-        "link": "https://newsonair.gov.in/hi/nia-special-court/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPyZFJbYAAHEAR.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने संयुक्त राष्ट्र में घटते लोगों के विश्वास पर चिंता जताई",
-        "summary": "भारत ने आगाह किया है कि संयुक्‍त राष्‍ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्‍त राष्‍ट्र में विश्‍वास घट रहा है। संयुक्‍त राष्‍ट्र में भविष्‍य के लिए बहुपक्षवाद को उपयुक्‍त बनाने संबंधी विषय पर मंत्रिस्‍तरीय गोलमेज सम्‍मेलन में भारत के स्‍थायी प्रतिनिधि पी. […]",
-        "article": "भारत ने आगाह किया है कि संयुक्&#x200d;त राष्&#x200d;ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्&#x200d;त राष्&#x200d;ट्र में विश्&#x200d;वास घट रहा है। संयुक्&#x200d;त राष्&#x200d;ट्र में भविष्&#x200d;य के लिए बहुपक्षवाद को उपयुक्&#x200d;त बनाने संबंधी विषय पर मंत्रिस्&#x200d;तरीय गोलमेज सम्&#x200d;मेलन में भारत के स्&#x200d;थायी प्रतिनिधि पी. हरीश ने कहा कि सुरक्षा परिषद चल रहे संघर्षों में सार्थक हस्&#x200d;तक्षेप करने में विफल रही है। इससे अंतर्राष्&#x200d;ट्रीय शांति और सुरक्षा बनाए रखने में उसकी क्षमता पर सवाल उठ रहे हैं। श्री हरीश ने कहा कि 80 वर्ष पुरानी संयुक्&#x200d;त राष्&#x200d;ट्र संरचना मौजूदा वैश्विक चुनौतियों से निपटने में अब उपयुक्&#x200d;त नहीं रह गई है। उन्&#x200d;होंने कहा कि भविष्&#x200d;य के लिए समझौते के अंतर्गत कार्य सूत्र सिर्फ कागजों में बन कर रह गए है। इस समझौते में हिंसा, नस्&#x200d;लवाद और विदेशियों से नफरत समाप्&#x200d;त करना, समानता को बढ़ावा देना और शांति स्&#x200d;थापना को मजबूत करना शामिल है। उन्&#x200d;होंने कहा कि सार्थक सुधारों की अत्&#x200d;यंत आवश्&#x200d;यकता है। श्री हरीश ने कहा कि समझौते के कुछ कार्य बिंदुओं पर भारत की कुछ महत्&#x200d;वपूर्ण आपत्तियां हैं। लेकिन भारत ने समझौते का सकारात्&#x200d;मक रूप से समर्थन किया है। उन्&#x200d;होंने संयुक्&#x200d;त राष्&#x200d;ट्र आम सभा को पुन: सशक्&#x200d;त करना और सतत विकास में प्रगति के लिए आर्थिक तथा सामाजिक परिषद की भूमिका को सुदृढ़ करने का आह्वान किया। अल्&#x200d;प विकसित और विकासशील देशों पर श्री हरीश ने कहा कि भारत इन देशों में संसाधनों की आवाजाही के लिए प्रतिबद्ध है और ये सुनिश्चित करता है कि कोई भी देश पीछे न रहे। उन्&#x200d;होंने अंतर्राष्&#x200d;ट्रीय वित्&#x200d;तीय संसाधनों से अधिक प्रतिनिधित्&#x200d;व, जवाबदेह और विकासोन्&#x200d;मुख बनने का आह्वान किया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:48:37+00:00",
-        "link": "https://newsonair.gov.in/hi/un-reforms/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/UNSC-Harish-P.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन मुक्त व्यापार समझौते के लागू होने के अवसर पर देशभर में कार्यक्रम आयोजित",
-        "summary": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो गया है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय, रत्न और आभूषण निर्यात संवर्धन परिषद, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से आज दोपहर कोलकाता […]",
-        "article": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो गया है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय, रत्न और आभूषण निर्यात संवर्धन परिषद, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से आज दोपहर कोलकाता के नेताजी सुभाष चंद्र बोस अंतरराष्ट्रीय हवाई अड्डे पर एक ध्वजारोहण कार्यक्रम आयोजित करेगा। इसमें भारत-ब्रिटेन मुक्त व्यापार समझौते की शुरुआत के उपलक्ष्य में निर्यात खेप ब्रिटेन भेजी जाएगी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:37:09+00:00",
-        "link": "https://newsonair.gov.in/hi/india-uk-fta/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPqtJ4bQAA33zO.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "भारत-ब्रिटेन सीईटीए लागू, पहली निर्यात खेप चेन्नई, अहमदाबाद और मुंबई से रवाना",
+        "summary": "भारत और ब्रिटेन के बीच द्विपक्षीय आर्थिक संबंधों में महत्‍वपूर्ण उपलब्धियों के रूप में चेन्‍नई स्थित ब्रिटेन उप उच्‍चायोग में उप-उच्‍चायुक्‍त डॉ. सुतापा चौधरी ने आज विदेश व्‍यापार महानिदेशालय के अधिकारियों के साथ भारत-ब्रिटेन व्‍यापक आर्थिक और व्‍यापार समझौते के तहत पहली निर्यात खेप को रवाना किया। इस समझौते से दोनों देशों के नागरिकों को […]",
+        "article": "भारत और ब्रिटेन के बीच द्विपक्षीय आर्थिक संबंधों में महत्&#x200d;वपूर्ण उपलब्धियों के रूप में चेन्&#x200d;नई स्थित ब्रिटेन उप उच्&#x200d;चायोग में उप-उच्&#x200d;चायुक्&#x200d;त डॉ. सुतापा चौधरी ने आज विदेश व्&#x200d;यापार महानिदेशालय के अधिकारियों के साथ भारत-ब्रिटेन व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौते के तहत पहली निर्यात खेप को रवाना किया। इस समझौते से दोनों देशों के नागरिकों को ठोस आर्थिक लाभ पहुंचने की उम्&#x200d;मीद है। चेन्&#x200d;नई में आयोजित इस समारोह में डॉ. चौधरी ने कहा कि भारत-ब्रिटेन व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौता नए बाजार अवसर खोलने और घरेलू अर्थव्&#x200d;यवस्&#x200d;था के संवेदनशील क्षेत्रों की सुरक्षा के बीच संतुलन स्&#x200d;थापित करता है। ब्रिटेन के उप-उच्&#x200d;चायुक्&#x200d;त स्टीव हिकलिंग और विदेश व्&#x200d;यापार महानिदेशालय संयुक्&#x200d;त निदेशक डॉ. राहुल सिंह ने आज अहमदाबाद के साणंद में स्थित इनलैंड कंटेनर डिपो से समझौते के तहत पहली निर्यात खेप को रवाना किया। तीन करोड़ सात लाख रुपये से अधिक मूल्य की इस पहली खेप में अहमदाबाद की विनिर्माण क्षमता की झलक मिलती है। इसमें औद्योगिक उपकरण, दवाइंया, ऑटोमोबाइल, पॉलिमर और वस्&#x200d;त्र सहित सात प्रमुख क्षेत्रीय निर्यातकों के उत्&#x200d;पाद शामिल हैं। ब्रिटेन के उप-उच्&#x200d;चायुक्&#x200d;त ने कहा कि यह व्यापार समझौता केवल तात्&#x200d;कालिक आदान-प्रदान समिति नहीं है, बल्कि दोनों देशों के बीच अधिक मजबूत और व्&#x200d;यापक, आथिक तथा राजनीतिक संबंधों की शुरुआत का संकेत है। इस अवसर पर डॉ. राहुल सिंह ने बताया कि वस्&#x200d;त्र, चमड़ा, फार्मास्यूटिकल्स और इंजीनियरिंग उत्पादों जैसे प्रमुख क्षेत्रों को पूर्ण शुल्&#x200d;क मुक्&#x200d;त बाजार पहुंच मिलेगी। महाराष्&#x200d;ट्र में मुंबई के न्&#x200d;हावा शेवा और सान्&#x200d;ताक्रूज इलैक्&#x200d;ट्रॉनिक निर्यात प्रोसेसिंग क्षेत्र-विशेष आर्थिक क्षेत्र से भी खेपों को रवाना किया गया। न्&#x200d;हावा शेवा से विदेश व्&#x200d;यापार महानिदेशालय, ने सात निर्यातकों की खेप को रवाना किया। इसमें रसायन, फॉर्मास्&#x200d;युटिकल, प्&#x200d;लास्टिक, खाद्य उत्&#x200d;पाद, मसाले शामिल थे। भारत के पहले विशेष आर्थिक क्षेत्र- सान्&#x200d;ताक्रूज इलैक्&#x200d;ट्रॉनिक नियात प्रोसेसिंग क्षेत्र-एसईजेड और आभूषणों और रत्&#x200d;नों के प्रमुख निर्यात केंद्र से विकास आयुक्&#x200d;त द्यानेश्&#x200d;वर बी. पाटिल ने ब्रिटेन के लिए निर्यात खेपों को रवाना किया।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:57:25+00:00",
+        "link": "https://newsonair.gov.in/hi/india-uk-ceta-export/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "पीएम मोदी ने भारत-ब्रिटेन व्यापार समझौते को किसानों और एमएसएमई के लिए बड़ा अवसर बताया",
         "summary": "प्रधानमंत्री नरेंद्र मोदी ने कहा कि आज से लागू हुआ व्यापक आर्थिक और व्यापार समझौता तथा सामाजिक सुरक्षा समझौता भारत-ब्रिटेन की साझेदारी में एक महत्वपूर्ण क्षण है। श्री मोदी ने केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल की सोशल मीडिया पोस्ट साझा करते हुए यह बात कही। प्रधानमंत्री ने कहा कि ये समझौता भारत के […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी ने कहा कि आज से लागू हुआ व्यापक आर्थिक और व्यापार समझौता तथा सामाजिक सुरक्षा समझौता भारत-ब्रिटेन की साझेदारी में एक महत्वपूर्ण क्षण है। श्री मोदी ने केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल की सोशल मीडिया पोस्ट साझा करते हुए यह बात कही। प्रधानमंत्री ने कहा कि ये समझौता भारत के किसानों, उद्यमियों और सूक्ष्&#x200d;म, लघु और मध्यम उद्यमों को नई गति प्रदान करेगा, साथ ही कई महत्&#x200d;वपूर्ण क्षेत्रों को ब्रिटेन के बाजार तक मजबूत पहुंच प्राप्त करने में मदद करेगा। प्रधानमंत्री ने कहा कि इससे प्रौद्योगिकी, पेशेवर सेवाओं और नवाचार के क्षेत्र में सहयोग भी मजबूत होगा। इससे कुशल भारतीय प्रतिभाओं की आवाजाही को भी बढ़ावा मिलेगा। श्री मोदी ने कहा कि सामाजिक सुरक्षा समझौता ब्रिटेन में अस्थायी रूप से काम कर रहे भारतीय पेशेवरों को अमूल्य सहायता प्रदान करेगा और भारतीय उद्यमों की प्रतिस्पर्धात्मकता को मजबूत करेगा। उन्होंने कहा कि यह क्षण भारत-ब्रिटेन के बीच विश्वास तथा व्यापार, प्रौद्योगिकी, निवेश और नवाचार द्वारा संचालित एक प्रगतिशील साझेदारी बनाने के उनके संकल्प को दर्शाता है। प्रधानमंत्री ने कहा कि भारत और ब्रिटेन साझा समृद्धि के लिए मिलकर काम करना जारी रखेंगे।",
         "date": "2026-07-15",
-        "pubDate": "2026-07-15T08:10:20+00:00",
+        "pubDate": "2026-07-15T08:52:20+00:00",
         "link": "https://newsonair.gov.in/hi/pm-india-uk-ceta/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-becomes-first-Indian-Prime-Minister-to-address-Indonesian-Parliament.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संयुक्त राष्ट्र में घटते लोगों के विश्वास पर चिंता जताई",
+        "summary": "भारत ने आगाह किया है कि संयुक्‍त राष्‍ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्‍त राष्‍ट्र में विश्‍वास घट रहा है। संयुक्‍त राष्‍ट्र में भविष्‍य के लिए बहुपक्षवाद को उपयुक्‍त बनाने संबंधी विषय पर मंत्रिस्‍तरीय गोलमेज सम्‍मेलन में भारत के स्‍थायी प्रतिनिधि पी. […]",
+        "article": "भारत ने आगाह किया है कि संयुक्&#x200d;त राष्&#x200d;ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्&#x200d;त राष्&#x200d;ट्र में विश्&#x200d;वास घट रहा है। संयुक्&#x200d;त राष्&#x200d;ट्र में भविष्&#x200d;य के लिए बहुपक्षवाद को उपयुक्&#x200d;त बनाने संबंधी विषय पर मंत्रिस्&#x200d;तरीय गोलमेज सम्&#x200d;मेलन में भारत के स्&#x200d;थायी प्रतिनिधि पी. हरीश ने कहा कि सुरक्षा परिषद चल रहे संघर्षों में सार्थक हस्&#x200d;तक्षेप करने में विफल रही है। इससे अंतर्राष्&#x200d;ट्रीय शांति और सुरक्षा बनाए रखने में उसकी क्षमता पर सवाल उठ रहे हैं। श्री हरीश ने कहा कि 80 वर्ष पुरानी संयुक्&#x200d;त राष्&#x200d;ट्र संरचना मौजूदा वैश्विक चुनौतियों से निपटने में अब उपयुक्&#x200d;त नहीं रह गई है। उन्&#x200d;होंने कहा कि भविष्&#x200d;य के लिए समझौते के अंतर्गत कार्य सूत्र सिर्फ कागजों में बन कर रह गए है। इस समझौते में हिंसा, नस्&#x200d;लवाद और विदेशियों से नफरत समाप्&#x200d;त करना, समानता को बढ़ावा देना और शांति स्&#x200d;थापना को मजबूत करना शामिल है। उन्&#x200d;होंने कहा कि सार्थक सुधारों की अत्&#x200d;यंत आवश्&#x200d;यकता है। श्री हरीश ने कहा कि समझौते के कुछ कार्य बिंदुओं पर भारत की कुछ महत्&#x200d;वपूर्ण आपत्तियां हैं। लेकिन भारत ने समझौते का सकारात्&#x200d;मक रूप से समर्थन किया है। उन्&#x200d;होंने संयुक्&#x200d;त राष्&#x200d;ट्र आम सभा को पुन: सशक्&#x200d;त करना और सतत विकास में प्रगति के लिए आर्थिक तथा सामाजिक परिषद की भूमिका को सुदृढ़ करने का आह्वान किया। अल्&#x200d;प विकसित और विकासशील देशों पर श्री हरीश ने कहा कि भारत इन देशों में संसाधनों की आवाजाही के लिए प्रतिबद्ध है और ये सुनिश्चित करता है कि कोई भी देश पीछे न रहे। उन्&#x200d;होंने अंतर्राष्&#x200d;ट्रीय वित्&#x200d;तीय संसाधनों से अधिक प्रतिनिधित्&#x200d;व, जवाबदेह और विकासोन्&#x200d;मुख बनने का आह्वान किया।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:48:37+00:00",
+        "link": "https://newsonair.gov.in/hi/un-reforms/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/UNSC-Harish-P.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "राष्ट्रपति द्रौपदी मुर्मु का आयुर्वेद में आधुनिक तकनीकों को अपनाने का आग्रह",
+        "summary": "राष्ट्रपति द्रौपदी मुर्मु ने समाज के व्‍यापक हित में आयुर्वेद में आधुनिक तकनीकों को अपनाने का आह्वान किया है। आज नई दिल्ली में &#8216;सौश्रुतम् 2026&#8217; के उद्घाटन समारोह को संबोधित करते हुए राष्ट्रपति ने कहा कि केंद्र सरकार ने नई ऊर्जा के साथ आयुर्वेद और योग को वैश्विक स्‍तर पर स्थापित किया है। उन्होंने प्रसन्‍नता […]",
+        "article": "राष्ट्रपति द्रौपदी मुर्मु ने समाज के व्&#x200d;यापक हित में आयुर्वेद में आधुनिक तकनीकों को अपनाने का आह्वान किया है। आज नई दिल्ली में &#8216;सौश्रुतम् 2026&#8217; के उद्घाटन समारोह को संबोधित करते हुए राष्ट्रपति ने कहा कि केंद्र सरकार ने नई ऊर्जा के साथ आयुर्वेद और योग को वैश्विक स्&#x200d;तर पर स्थापित किया है। उन्होंने प्रसन्&#x200d;नता व्&#x200d;यक्&#x200d;त की कि आयुर्वेदिक शल्&#x200d;य चिकित्&#x200d;सा की प्राचीन परंपरा को वैज्ञानिक मानकों पर स्थापित करने के प्रयास किए जा रहे हैं। राष्ट्रपति ने कहा कि आयुष मंत्रालय आयुर्वेदिक स्वास्थ्य सेवा के वैश्विक मानकीकरण को मजबूत करने के लिए विश्व स्वास्थ्य संगठन के साथ मिलकर काम कर रहा है। उन्होंने विश्वास व्यक्त किया कि संगोष्ठी में हुई चर्चाओं से आयुर्वेदिक शल्य चिकित्सा के क्षेत्र में नया ज्ञान उत्पन्न होगा।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:41:28+00:00",
+        "link": "https://newsonair.gov.in/hi/president-ayurveda/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNQR1VraIAAMMX0.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1461,29 +1497,9 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/pm-modi.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "गृह मंत्रालय ने महाराष्ट्र में एनआईए मामलों की सुनवाई के लिए विशेष न्यायालय गठित किया",
-        "summary": "गृह मंत्रालय ने महाराष्ट्र में राष्ट्रीय अन्वेषण अभिकरण &#8211; एनआईए द्वारा जांच किए गए अपराधों के ट्रायल के लिए एक विशेष न्‍यायालय गठित किया है। मंत्रालय ने बॉम्बे उच्‍च न्‍यायालय के मुख्‍य न्‍यायाधीश और महाराष्ट्र सरकार से बातचीत के बाद यह फैसला लिया है। मंत्रालय ने एनआईए द्वारा जांच किए जाने वाले मामलों आतंकवाद और […]",
-        "article": "गृह मंत्रालय ने महाराष्ट्र में राष्ट्रीय अन्वेषण अभिकरण &#8211; एनआईए द्वारा जांच किए गए अपराधों के ट्रायल के लिए एक विशेष न्&#x200d;यायालय गठित किया है। मंत्रालय ने बॉम्बे उच्&#x200d;च न्&#x200d;यायालय के मुख्&#x200d;य न्&#x200d;यायाधीश और महाराष्ट्र सरकार से बातचीत के बाद यह फैसला लिया है। मंत्रालय ने एनआईए द्वारा जांच किए जाने वाले मामलों आतंकवाद और अन्य अधिसूचित अपराधों की त्वरित सुनवाई के लिए मुंबई के सिटी सिविल और सत्र न्&#x200d;यायालय के कोर्ट रूम नंबर-26 को विशेष अदालत के रूप में नामित किया है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:56:12+00:00",
-        "link": "https://newsonair.gov.in/hi/nia-special-court/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPyZFJbYAAHEAR.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने संयुक्त राष्ट्र में घटते लोगों के विश्वास पर चिंता जताई",
-        "summary": "भारत ने आगाह किया है कि संयुक्‍त राष्‍ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्‍त राष्‍ट्र में विश्‍वास घट रहा है। संयुक्‍त राष्‍ट्र में भविष्‍य के लिए बहुपक्षवाद को उपयुक्‍त बनाने संबंधी विषय पर मंत्रिस्‍तरीय गोलमेज सम्‍मेलन में भारत के स्‍थायी प्रतिनिधि पी. […]",
-        "article": "भारत ने आगाह किया है कि संयुक्&#x200d;त राष्&#x200d;ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्&#x200d;त राष्&#x200d;ट्र में विश्&#x200d;वास घट रहा है। संयुक्&#x200d;त राष्&#x200d;ट्र में भविष्&#x200d;य के लिए बहुपक्षवाद को उपयुक्&#x200d;त बनाने संबंधी विषय पर मंत्रिस्&#x200d;तरीय गोलमेज सम्&#x200d;मेलन में भारत के स्&#x200d;थायी प्रतिनिधि पी. हरीश ने कहा कि सुरक्षा परिषद चल रहे संघर्षों में सार्थक हस्&#x200d;तक्षेप करने में विफल रही है। इससे अंतर्राष्&#x200d;ट्रीय शांति और सुरक्षा बनाए रखने में उसकी क्षमता पर सवाल उठ रहे हैं। श्री हरीश ने कहा कि 80 वर्ष पुरानी संयुक्&#x200d;त राष्&#x200d;ट्र संरचना मौजूदा वैश्विक चुनौतियों से निपटने में अब उपयुक्&#x200d;त नहीं रह गई है। उन्&#x200d;होंने कहा कि भविष्&#x200d;य के लिए समझौते के अंतर्गत कार्य सूत्र सिर्फ कागजों में बन कर रह गए है। इस समझौते में हिंसा, नस्&#x200d;लवाद और विदेशियों से नफरत समाप्&#x200d;त करना, समानता को बढ़ावा देना और शांति स्&#x200d;थापना को मजबूत करना शामिल है। उन्&#x200d;होंने कहा कि सार्थक सुधारों की अत्&#x200d;यंत आवश्&#x200d;यकता है। श्री हरीश ने कहा कि समझौते के कुछ कार्य बिंदुओं पर भारत की कुछ महत्&#x200d;वपूर्ण आपत्तियां हैं। लेकिन भारत ने समझौते का सकारात्&#x200d;मक रूप से समर्थन किया है। उन्&#x200d;होंने संयुक्&#x200d;त राष्&#x200d;ट्र आम सभा को पुन: सशक्&#x200d;त करना और सतत विकास में प्रगति के लिए आर्थिक तथा सामाजिक परिषद की भूमिका को सुदृढ़ करने का आह्वान किया। अल्&#x200d;प विकसित और विकासशील देशों पर श्री हरीश ने कहा कि भारत इन देशों में संसाधनों की आवाजाही के लिए प्रतिबद्ध है और ये सुनिश्चित करता है कि कोई भी देश पीछे न रहे। उन्&#x200d;होंने अंतर्राष्&#x200d;ट्रीय वित्&#x200d;तीय संसाधनों से अधिक प्रतिनिधित्&#x200d;व, जवाबदेह और विकासोन्&#x200d;मुख बनने का आह्वान किया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:48:37+00:00",
-        "link": "https://newsonair.gov.in/hi/un-reforms/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/UNSC-Harish-P.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
+      }
+    ],
+    "world": [
       {
         "title": "भारत-ब्रिटेन मुक्त व्यापार समझौते के लागू होने के अवसर पर देशभर में कार्यक्रम आयोजित",
         "summary": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो गया है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय, रत्न और आभूषण निर्यात संवर्धन परिषद, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से आज दोपहर कोलकाता […]",
@@ -1494,9 +1510,7 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNPqtJ4bQAA33zO.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      }
-    ],
-    "world": [
+      },
       {
         "title": "99 प्रतिशत भारतीय निर्यात पर शून्य शुल्क के साथ लागू हुआ भारत-ब्रिटेन सीईटीए, उद्योग मंत्री पीयूष गोयल ने बताया ऐतिहासिक कदम",
         "summary": "केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल ने आज के दिन को भारत-ब्रिटेन संबंधों में एक महत्वपूर्ण उपलब्धि बताया है। सोशल मीडिया पोस्ट में श्री गोयल ने कहा कि भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता &#8211; सीईटीए और सामाजिक सुरक्षा समझौता लागू हो गए हैं, जिससे भारत के लगभग 99 प्रतिशत निर्यात पर शून्य शुल्क […]",
@@ -1553,14 +1567,15 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "होर्मुज़ जलडमरूमध्य में जहाज़ों पर हमलों के बाद अमरीका ने ईरानी बंदरगाहों पर नाकेबंदी लागू की",
-        "summary": "होर्मुज़ जलडमरूमध्य से गुज़रने वाले कमर्शियल जहाज़ों पर तेहरान के हालिया हमलों के जवाब में अमरीका ने ईरानी बंदरगाहों की नाकेबंदी फिर से शुरू कर दी है। एक टीवी न्यूज़ चैनल को दिए साक्षात्कार में अमरीका के राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि अगर लोग होर्मुज़ से गुज़रना चाहते हैं तो यह रास्ता खुला है, […]",
-        "article": "होर्मुज़ जलडमरूमध्य से गुज़रने वाले कमर्शियल जहाज़ों पर तेहरान के हालिया हमलों के जवाब में अमरीका ने ईरानी बंदरगाहों की नाकेबंदी फिर से शुरू कर दी है। एक टीवी न्यूज़ चैनल को दिए साक्षात्कार में अमरीका के राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि अगर लोग होर्मुज़ से गुज़रना चाहते हैं तो यह रास्ता खुला है, लेकिन ईरान के लिए नहीं। श्री ट्रंप ने तेहरान को चेतावनी भी दी कि अमरीका आज रात ईरान पर हमला करने वाला है और इन हमलों की तीव्रता हर अगली रात के साथ बढ़ती जाएगी। उन्होंने कहा कि जब तक ईरान बातचीत पर नहीं आता, तब तक अमरीका उसके सभी बिजली संयंत्रों और पुलों को निशाना बनाएगा। श्री ट्रंप ने आरोप लगाया है कि तेहरान जो कुछ भी कहता है वह झूठ है क्योंकि वे हमेशा से परमाणु हथियार चाहते थे। उन्होंने यह भी कहा कि ईरान हर बार समझौता तोड़ता है। उन्होंने ईरानी सरकार के नेताओं को संदेश दिया कि उनके पास अब बस एक ही विकल्प बचा है या तो वे समझौता कर लें या फिर उनका कोई नामो-निशान नहीं बचेगा। इस बीच, ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स-आईआरजीसी ने बड़े पैमाने पर हमले करते हुए बहरीन में हथियारों और भंडारण केंद्रों को निशाना बनाया। आईआरजीसी ने एक बयान में कहा कि बहरीन के शेख ईसा बेस पर एक साथ मिसाइल और ड्रोन ऑपरेशन के दौरान हथियारों और पुर्ज़ों के कई स्टोरेज शेड नष्ट कर दिए गए। आईआरजीसी ने यह भी दावा किया कि उसने कुवैत के अली सलेम एयर बेस पर तैनात एमक्यू-9 ड्रोन के रैम्प पर हमला कर कई ड्रोन नष्ट किए।",
+        "title": "भारत-ब्रिटेन सीईटीए लागू, पहली निर्यात खेप चेन्नई, अहमदाबाद और मुंबई से रवाना",
+        "summary": "भारत और ब्रिटेन के बीच द्विपक्षीय आर्थिक संबंधों में महत्‍वपूर्ण उपलब्धियों के रूप में चेन्‍नई स्थित ब्रिटेन उप उच्‍चायोग में उप-उच्‍चायुक्‍त डॉ. सुतापा चौधरी ने आज विदेश व्‍यापार महानिदेशालय के अधिकारियों के साथ भारत-ब्रिटेन व्‍यापक आर्थिक और व्‍यापार समझौते के तहत पहली निर्यात खेप को रवाना किया। इस समझौते से दोनों देशों के नागरिकों को […]",
+        "article": "भारत और ब्रिटेन के बीच द्विपक्षीय आर्थिक संबंधों में महत्&#x200d;वपूर्ण उपलब्धियों के रूप में चेन्&#x200d;नई स्थित ब्रिटेन उप उच्&#x200d;चायोग में उप-उच्&#x200d;चायुक्&#x200d;त डॉ. सुतापा चौधरी ने आज विदेश व्&#x200d;यापार महानिदेशालय के अधिकारियों के साथ भारत-ब्रिटेन व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौते के तहत पहली निर्यात खेप को रवाना किया। इस समझौते से दोनों देशों के नागरिकों को ठोस आर्थिक लाभ पहुंचने की उम्&#x200d;मीद है। चेन्&#x200d;नई में आयोजित इस समारोह में डॉ. चौधरी ने कहा कि भारत-ब्रिटेन व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौता नए बाजार अवसर खोलने और घरेलू अर्थव्&#x200d;यवस्&#x200d;था के संवेदनशील क्षेत्रों की सुरक्षा के बीच संतुलन स्&#x200d;थापित करता है। ब्रिटेन के उप-उच्&#x200d;चायुक्&#x200d;त स्टीव हिकलिंग और विदेश व्&#x200d;यापार महानिदेशालय संयुक्&#x200d;त निदेशक डॉ. राहुल सिंह ने आज अहमदाबाद के साणंद में स्थित इनलैंड कंटेनर डिपो से समझौते के तहत पहली निर्यात खेप को रवाना किया। तीन करोड़ सात लाख रुपये से अधिक मूल्य की इस पहली खेप में अहमदाबाद की विनिर्माण क्षमता की झलक मिलती है। इसमें औद्योगिक उपकरण, दवाइंया, ऑटोमोबाइल, पॉलिमर और वस्&#x200d;त्र सहित सात प्रमुख क्षेत्रीय निर्यातकों के उत्&#x200d;पाद शामिल हैं। ब्रिटेन के उप-उच्&#x200d;चायुक्&#x200d;त ने कहा कि यह व्यापार समझौता केवल तात्&#x200d;कालिक आदान-प्रदान समिति नहीं है, बल्कि दोनों देशों के बीच अधिक मजबूत और व्&#x200d;यापक, आथिक तथा राजनीतिक संबंधों की शुरुआत का संकेत है। इस अवसर पर डॉ. राहुल सिंह ने बताया कि वस्&#x200d;त्र, चमड़ा, फार्मास्यूटिकल्स और इंजीनियरिंग उत्पादों जैसे प्रमुख क्षेत्रों को पूर्ण शुल्&#x200d;क मुक्&#x200d;त बाजार पहुंच मिलेगी। महाराष्&#x200d;ट्र में मुंबई के न्&#x200d;हावा शेवा और सान्&#x200d;ताक्रूज इलैक्&#x200d;ट्रॉनिक निर्यात प्रोसेसिंग क्षेत्र-विशेष आर्थिक क्षेत्र से भी खेपों को रवाना किया गया। न्&#x200d;हावा शेवा से विदेश व्&#x200d;यापार महानिदेशालय, ने सात निर्यातकों की खेप को रवाना किया। इसमें रसायन, फॉर्मास्&#x200d;युटिकल, प्&#x200d;लास्टिक, खाद्य उत्&#x200d;पाद, मसाले शामिल थे। भारत के पहले विशेष आर्थिक क्षेत्र- सान्&#x200d;ताक्रूज इलैक्&#x200d;ट्रॉनिक नियात प्रोसेसिंग क्षेत्र-एसईजेड और आभूषणों और रत्&#x200d;नों के प्रमुख निर्यात केंद्र से विकास आयुक्&#x200d;त द्यानेश्&#x200d;वर बी. पाटिल ने ब्रिटेन के लिए निर्यात खेपों को रवाना किया।",
         "date": "2026-07-15",
-        "pubDate": "2026-07-15T02:33:07+00:00",
-        "link": "https://newsonair.gov.in/hi/us-iran-blockade/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-15T08:57:25+00:00",
+        "link": "https://newsonair.gov.in/hi/india-uk-ceta-export/",
+        "post_id": 1739351,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1568,9 +1583,21 @@ window.VM_NEWS = {
         "summary": "प्रधानमंत्री नरेंद्र मोदी ने कहा कि आज से लागू हुआ व्यापक आर्थिक और व्यापार समझौता तथा सामाजिक सुरक्षा समझौता भारत-ब्रिटेन की साझेदारी में एक महत्वपूर्ण क्षण है। श्री मोदी ने केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल की सोशल मीडिया पोस्ट साझा करते हुए यह बात कही। प्रधानमंत्री ने कहा कि ये समझौता भारत के […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी ने कहा कि आज से लागू हुआ व्यापक आर्थिक और व्यापार समझौता तथा सामाजिक सुरक्षा समझौता भारत-ब्रिटेन की साझेदारी में एक महत्वपूर्ण क्षण है। श्री मोदी ने केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल की सोशल मीडिया पोस्ट साझा करते हुए यह बात कही। प्रधानमंत्री ने कहा कि ये समझौता भारत के किसानों, उद्यमियों और सूक्ष्&#x200d;म, लघु और मध्यम उद्यमों को नई गति प्रदान करेगा, साथ ही कई महत्&#x200d;वपूर्ण क्षेत्रों को ब्रिटेन के बाजार तक मजबूत पहुंच प्राप्त करने में मदद करेगा। प्रधानमंत्री ने कहा कि इससे प्रौद्योगिकी, पेशेवर सेवाओं और नवाचार के क्षेत्र में सहयोग भी मजबूत होगा। इससे कुशल भारतीय प्रतिभाओं की आवाजाही को भी बढ़ावा मिलेगा। श्री मोदी ने कहा कि सामाजिक सुरक्षा समझौता ब्रिटेन में अस्थायी रूप से काम कर रहे भारतीय पेशेवरों को अमूल्य सहायता प्रदान करेगा और भारतीय उद्यमों की प्रतिस्पर्धात्मकता को मजबूत करेगा। उन्होंने कहा कि यह क्षण भारत-ब्रिटेन के बीच विश्वास तथा व्यापार, प्रौद्योगिकी, निवेश और नवाचार द्वारा संचालित एक प्रगतिशील साझेदारी बनाने के उनके संकल्प को दर्शाता है। प्रधानमंत्री ने कहा कि भारत और ब्रिटेन साझा समृद्धि के लिए मिलकर काम करना जारी रखेंगे।",
         "date": "2026-07-15",
-        "pubDate": "2026-07-15T08:10:20+00:00",
+        "pubDate": "2026-07-15T08:52:20+00:00",
         "link": "https://newsonair.gov.in/hi/pm-india-uk-ceta/",
         "post_id": 1739196,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत ने संयुक्त राष्ट्र में घटते लोगों के विश्वास पर चिंता जताई",
+        "summary": "भारत ने आगाह किया है कि संयुक्‍त राष्‍ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्‍त राष्‍ट्र में विश्‍वास घट रहा है। संयुक्‍त राष्‍ट्र में भविष्‍य के लिए बहुपक्षवाद को उपयुक्‍त बनाने संबंधी विषय पर मंत्रिस्‍तरीय गोलमेज सम्‍मेलन में भारत के स्‍थायी प्रतिनिधि पी. […]",
+        "article": "भारत ने आगाह किया है कि संयुक्&#x200d;त राष्&#x200d;ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्&#x200d;त राष्&#x200d;ट्र में विश्&#x200d;वास घट रहा है। संयुक्&#x200d;त राष्&#x200d;ट्र में भविष्&#x200d;य के लिए बहुपक्षवाद को उपयुक्&#x200d;त बनाने संबंधी विषय पर मंत्रिस्&#x200d;तरीय गोलमेज सम्&#x200d;मेलन में भारत के स्&#x200d;थायी प्रतिनिधि पी. हरीश ने कहा कि सुरक्षा परिषद चल रहे संघर्षों में सार्थक हस्&#x200d;तक्षेप करने में विफल रही है। इससे अंतर्राष्&#x200d;ट्रीय शांति और सुरक्षा बनाए रखने में उसकी क्षमता पर सवाल उठ रहे हैं। श्री हरीश ने कहा कि 80 वर्ष पुरानी संयुक्&#x200d;त राष्&#x200d;ट्र संरचना मौजूदा वैश्विक चुनौतियों से निपटने में अब उपयुक्&#x200d;त नहीं रह गई है। उन्&#x200d;होंने कहा कि भविष्&#x200d;य के लिए समझौते के अंतर्गत कार्य सूत्र सिर्फ कागजों में बन कर रह गए है। इस समझौते में हिंसा, नस्&#x200d;लवाद और विदेशियों से नफरत समाप्&#x200d;त करना, समानता को बढ़ावा देना और शांति स्&#x200d;थापना को मजबूत करना शामिल है। उन्&#x200d;होंने कहा कि सार्थक सुधारों की अत्&#x200d;यंत आवश्&#x200d;यकता है। श्री हरीश ने कहा कि समझौते के कुछ कार्य बिंदुओं पर भारत की कुछ महत्&#x200d;वपूर्ण आपत्तियां हैं। लेकिन भारत ने समझौते का सकारात्&#x200d;मक रूप से समर्थन किया है। उन्&#x200d;होंने संयुक्&#x200d;त राष्&#x200d;ट्र आम सभा को पुन: सशक्&#x200d;त करना और सतत विकास में प्रगति के लिए आर्थिक तथा सामाजिक परिषद की भूमिका को सुदृढ़ करने का आह्वान किया। अल्&#x200d;प विकसित और विकासशील देशों पर श्री हरीश ने कहा कि भारत इन देशों में संसाधनों की आवाजाही के लिए प्रतिबद्ध है और ये सुनिश्चित करता है कि कोई भी देश पीछे न रहे। उन्&#x200d;होंने अंतर्राष्&#x200d;ट्रीय वित्&#x200d;तीय संसाधनों से अधिक प्रतिनिधित्&#x200d;व, जवाबदेह और विकासोन्&#x200d;मुख बनने का आह्वान किया।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:48:37+00:00",
+        "link": "https://newsonair.gov.in/hi/un-reforms/",
+        "post_id": 1738924,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1583,30 +1610,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T07:46:15+00:00",
         "link": "https://newsonair.gov.in/hi/brics-labour-meet/",
         "post_id": 1738976,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने संयुक्त राष्ट्र में घटते लोगों के विश्वास पर चिंता जताई",
-        "summary": "भारत ने आगाह किया है कि संयुक्‍त राष्‍ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्‍त राष्‍ट्र में विश्‍वास घट रहा है। संयुक्‍त राष्‍ट्र में भविष्‍य के लिए बहुपक्षवाद को उपयुक्‍त बनाने संबंधी विषय पर मंत्रिस्‍तरीय गोलमेज सम्‍मेलन में भारत के स्‍थायी प्रतिनिधि पी. […]",
-        "article": "भारत ने आगाह किया है कि संयुक्&#x200d;त राष्&#x200d;ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्&#x200d;त राष्&#x200d;ट्र में विश्&#x200d;वास घट रहा है। संयुक्&#x200d;त राष्&#x200d;ट्र में भविष्&#x200d;य के लिए बहुपक्षवाद को उपयुक्&#x200d;त बनाने संबंधी विषय पर मंत्रिस्&#x200d;तरीय गोलमेज सम्&#x200d;मेलन में भारत के स्&#x200d;थायी प्रतिनिधि पी. हरीश ने कहा कि सुरक्षा परिषद चल रहे संघर्षों में सार्थक हस्&#x200d;तक्षेप करने में विफल रही है। इससे अंतर्राष्&#x200d;ट्रीय शांति और सुरक्षा बनाए रखने में उसकी क्षमता पर सवाल उठ रहे हैं। श्री हरीश ने कहा कि 80 वर्ष पुरानी संयुक्&#x200d;त राष्&#x200d;ट्र संरचना मौजूदा वैश्विक चुनौतियों से निपटने में अब उपयुक्&#x200d;त नहीं रह गई है। उन्&#x200d;होंने कहा कि भविष्&#x200d;य के लिए समझौते के अंतर्गत कार्य सूत्र सिर्फ कागजों में बन कर रह गए है। इस समझौते में हिंसा, नस्&#x200d;लवाद और विदेशियों से नफरत समाप्&#x200d;त करना, समानता को बढ़ावा देना और शांति स्&#x200d;थापना को मजबूत करना शामिल है। उन्&#x200d;होंने कहा कि सार्थक सुधारों की अत्&#x200d;यंत आवश्&#x200d;यकता है। श्री हरीश ने कहा कि समझौते के कुछ कार्य बिंदुओं पर भारत की कुछ महत्&#x200d;वपूर्ण आपत्तियां हैं। लेकिन भारत ने समझौते का सकारात्&#x200d;मक रूप से समर्थन किया है। उन्&#x200d;होंने संयुक्&#x200d;त राष्&#x200d;ट्र आम सभा को पुन: सशक्&#x200d;त करना और सतत विकास में प्रगति के लिए आर्थिक तथा सामाजिक परिषद की भूमिका को सुदृढ़ करने का आह्वान किया। अल्&#x200d;प विकसित और विकासशील देशों पर श्री हरीश ने कहा कि भारत इन देशों में संसाधनों की आवाजाही के लिए प्रतिबद्ध है और ये सुनिश्चित करता है कि कोई भी देश पीछे न रहे। उन्&#x200d;होंने अंतर्राष्&#x200d;ट्रीय वित्&#x200d;तीय संसाधनों से अधिक प्रतिनिधित्&#x200d;व, जवाबदेह और विकासोन्&#x200d;मुख बनने का आह्वान किया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:48:37+00:00",
-        "link": "https://newsonair.gov.in/hi/un-reforms/",
-        "post_id": 1738924,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन मुक्त व्यापार समझौते के लागू होने के अवसर पर देशभर में कार्यक्रम आयोजित",
-        "summary": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो गया है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय, रत्न और आभूषण निर्यात संवर्धन परिषद, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से आज दोपहर कोलकाता […]",
-        "article": "भारत-ब्रिटेन मुक्त व्यापार समझौता आज से लागू हो गया है। इस अवसर पर केंद्रीय वाणिज्य और उद्योग मंत्रालय सभी राज्यों और केंद्र शासित प्रदेशों को शामिल करते हुए राष्ट्रव्यापी कार्यक्रम आयोजित कर रहा है। विदेश व्यापार महानिदेशालय, रत्न और आभूषण निर्यात संवर्धन परिषद, सीमा शुल्क प्राधिकरण और अन्य हितधारकों के सहयोग से आज दोपहर कोलकाता के नेताजी सुभाष चंद्र बोस अंतरराष्ट्रीय हवाई अड्डे पर एक ध्वजारोहण कार्यक्रम आयोजित करेगा। इसमें भारत-ब्रिटेन मुक्त व्यापार समझौते की शुरुआत के उपलक्ष्य में निर्यात खेप ब्रिटेन भेजी जाएगी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:37:09+00:00",
-        "link": "https://newsonair.gov.in/hi/india-uk-fta/",
-        "post_id": 1738914,
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -1770,14 +1773,15 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "19 किलोग्राम व्यावसायिक एलपीजी सिलेंडर सस्ता, कीमत में 183.50 रुपये की कमी",
-        "summary": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्‍यावसायिक एलपीजी सिलेंडर के मूल्‍य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि‍टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्‍यावसायिक एलपीजी सिलेंडर दिल्‍ली में 2930 रुपये में मिलेगा। इस फैसले से […]",
-        "article": "तेल विपणन कंपनियों ने 19 किलोग्राम के व्&#x200d;यावसायिक एलपीजी सिलेंडर के मूल्&#x200d;य में 183 रुपये 50 पैसे की कमी की है। भारतीय तेल निगम लिमि&#x200d;टेड के अनुसार नई दरें आज से लागू हो गई हैं। इस कटौती के बाद अब 19 किलोग्राम का व्&#x200d;यावसायिक एलपीजी सिलेंडर दिल्&#x200d;ली में 2930 रुपये में मिलेगा। इस फैसले से रेस्&#x200d;तरां, ढाबा, होटल और अन्&#x200d;य खान-पान व्&#x200d;यावसायियों को लाभ होगा।",
-        "date": "2026-07-01",
-        "pubDate": "2026-07-01T05:04:37+00:00",
-        "link": "https://newsonair.gov.in/hi/commercial-lpg-cylinder-price-cut-by-183-50-rupees/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260502237f-1-scaled.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "भारत-ब्रिटेन सीईटीए लागू, पहली निर्यात खेप चेन्नई, अहमदाबाद और मुंबई से रवाना",
+        "summary": "भारत और ब्रिटेन के बीच द्विपक्षीय आर्थिक संबंधों में महत्‍वपूर्ण उपलब्धियों के रूप में चेन्‍नई स्थित ब्रिटेन उप उच्‍चायोग में उप-उच्‍चायुक्‍त डॉ. सुतापा चौधरी ने आज विदेश व्‍यापार महानिदेशालय के अधिकारियों के साथ भारत-ब्रिटेन व्‍यापक आर्थिक और व्‍यापार समझौते के तहत पहली निर्यात खेप को रवाना किया। इस समझौते से दोनों देशों के नागरिकों को […]",
+        "article": "भारत और ब्रिटेन के बीच द्विपक्षीय आर्थिक संबंधों में महत्&#x200d;वपूर्ण उपलब्धियों के रूप में चेन्&#x200d;नई स्थित ब्रिटेन उप उच्&#x200d;चायोग में उप-उच्&#x200d;चायुक्&#x200d;त डॉ. सुतापा चौधरी ने आज विदेश व्&#x200d;यापार महानिदेशालय के अधिकारियों के साथ भारत-ब्रिटेन व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौते के तहत पहली निर्यात खेप को रवाना किया। इस समझौते से दोनों देशों के नागरिकों को ठोस आर्थिक लाभ पहुंचने की उम्&#x200d;मीद है। चेन्&#x200d;नई में आयोजित इस समारोह में डॉ. चौधरी ने कहा कि भारत-ब्रिटेन व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौता नए बाजार अवसर खोलने और घरेलू अर्थव्&#x200d;यवस्&#x200d;था के संवेदनशील क्षेत्रों की सुरक्षा के बीच संतुलन स्&#x200d;थापित करता है। ब्रिटेन के उप-उच्&#x200d;चायुक्&#x200d;त स्टीव हिकलिंग और विदेश व्&#x200d;यापार महानिदेशालय संयुक्&#x200d;त निदेशक डॉ. राहुल सिंह ने आज अहमदाबाद के साणंद में स्थित इनलैंड कंटेनर डिपो से समझौते के तहत पहली निर्यात खेप को रवाना किया। तीन करोड़ सात लाख रुपये से अधिक मूल्य की इस पहली खेप में अहमदाबाद की विनिर्माण क्षमता की झलक मिलती है। इसमें औद्योगिक उपकरण, दवाइंया, ऑटोमोबाइल, पॉलिमर और वस्&#x200d;त्र सहित सात प्रमुख क्षेत्रीय निर्यातकों के उत्&#x200d;पाद शामिल हैं। ब्रिटेन के उप-उच्&#x200d;चायुक्&#x200d;त ने कहा कि यह व्यापार समझौता केवल तात्&#x200d;कालिक आदान-प्रदान समिति नहीं है, बल्कि दोनों देशों के बीच अधिक मजबूत और व्&#x200d;यापक, आथिक तथा राजनीतिक संबंधों की शुरुआत का संकेत है। इस अवसर पर डॉ. राहुल सिंह ने बताया कि वस्&#x200d;त्र, चमड़ा, फार्मास्यूटिकल्स और इंजीनियरिंग उत्पादों जैसे प्रमुख क्षेत्रों को पूर्ण शुल्&#x200d;क मुक्&#x200d;त बाजार पहुंच मिलेगी। महाराष्&#x200d;ट्र में मुंबई के न्&#x200d;हावा शेवा और सान्&#x200d;ताक्रूज इलैक्&#x200d;ट्रॉनिक निर्यात प्रोसेसिंग क्षेत्र-विशेष आर्थिक क्षेत्र से भी खेपों को रवाना किया गया। न्&#x200d;हावा शेवा से विदेश व्&#x200d;यापार महानिदेशालय, ने सात निर्यातकों की खेप को रवाना किया। इसमें रसायन, फॉर्मास्&#x200d;युटिकल, प्&#x200d;लास्टिक, खाद्य उत्&#x200d;पाद, मसाले शामिल थे। भारत के पहले विशेष आर्थिक क्षेत्र- सान्&#x200d;ताक्रूज इलैक्&#x200d;ट्रॉनिक नियात प्रोसेसिंग क्षेत्र-एसईजेड और आभूषणों और रत्&#x200d;नों के प्रमुख निर्यात केंद्र से विकास आयुक्&#x200d;त द्यानेश्&#x200d;वर बी. पाटिल ने ब्रिटेन के लिए निर्यात खेपों को रवाना किया।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:57:25+00:00",
+        "link": "https://newsonair.gov.in/hi/india-uk-ceta-export/",
+        "post_id": 1739351,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -1785,7 +1789,7 @@ window.VM_NEWS = {
         "summary": "प्रधानमंत्री नरेंद्र मोदी ने कहा कि आज से लागू हुआ व्यापक आर्थिक और व्यापार समझौता तथा सामाजिक सुरक्षा समझौता भारत-ब्रिटेन की साझेदारी में एक महत्वपूर्ण क्षण है। श्री मोदी ने केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल की सोशल मीडिया पोस्ट साझा करते हुए यह बात कही। प्रधानमंत्री ने कहा कि ये समझौता भारत के […]",
         "article": "प्रधानमंत्री नरेंद्र मोदी ने कहा कि आज से लागू हुआ व्यापक आर्थिक और व्यापार समझौता तथा सामाजिक सुरक्षा समझौता भारत-ब्रिटेन की साझेदारी में एक महत्वपूर्ण क्षण है। श्री मोदी ने केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल की सोशल मीडिया पोस्ट साझा करते हुए यह बात कही। प्रधानमंत्री ने कहा कि ये समझौता भारत के किसानों, उद्यमियों और सूक्ष्&#x200d;म, लघु और मध्यम उद्यमों को नई गति प्रदान करेगा, साथ ही कई महत्&#x200d;वपूर्ण क्षेत्रों को ब्रिटेन के बाजार तक मजबूत पहुंच प्राप्त करने में मदद करेगा। प्रधानमंत्री ने कहा कि इससे प्रौद्योगिकी, पेशेवर सेवाओं और नवाचार के क्षेत्र में सहयोग भी मजबूत होगा। इससे कुशल भारतीय प्रतिभाओं की आवाजाही को भी बढ़ावा मिलेगा। श्री मोदी ने कहा कि सामाजिक सुरक्षा समझौता ब्रिटेन में अस्थायी रूप से काम कर रहे भारतीय पेशेवरों को अमूल्य सहायता प्रदान करेगा और भारतीय उद्यमों की प्रतिस्पर्धात्मकता को मजबूत करेगा। उन्होंने कहा कि यह क्षण भारत-ब्रिटेन के बीच विश्वास तथा व्यापार, प्रौद्योगिकी, निवेश और नवाचार द्वारा संचालित एक प्रगतिशील साझेदारी बनाने के उनके संकल्प को दर्शाता है। प्रधानमंत्री ने कहा कि भारत और ब्रिटेन साझा समृद्धि के लिए मिलकर काम करना जारी रखेंगे।",
         "date": "2026-07-15",
-        "pubDate": "2026-07-15T08:10:20+00:00",
+        "pubDate": "2026-07-15T08:52:20+00:00",
         "link": "https://newsonair.gov.in/hi/pm-india-uk-ceta/",
         "post_id": 1739196,
         "image_url": "",
